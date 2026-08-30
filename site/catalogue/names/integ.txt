@@ -120,8 +120,8 @@ County Integrated Development Plans	7548
 County Integration Each County Government	7548
 Cowrie Integarted Systems Limited	3862
 Critical Enterprise Integration Moderate Integration Score	5665
-Cross-Cutting Integration Integration	4528
-Cross-Cutting Integration Themes	4528
+Cross-Cutting Integration Integration	4528,7984
+Cross-Cutting Integration Themes	4528,7984
 Cuba Yes Política Integral	11529
 Cópia Integral	10756,9,10
 DA GUINÉ-BISSAU PROGRAMA REGIONAL DE INTEGRAÇÃO	11555
@@ -180,7 +180,7 @@ East African Regional Digital Integration Project	11315
 Eastern Africa Regional Digital Integration	6096
 Eastern Africa Regional Digital Integration Program	1264,16,10965
 Eastern Africa Regional Digital Integration Project	1216,64,1958,2858,746,86,300,280,4737
-Economic Development Integration Zimbabwe	4528
+Economic Development Integration Zimbabwe	4528,7984
 Economic Integration	9194
 Economic Integration Requirements	3861
 Economic Integration and Interconnectivity	1264
@@ -188,13 +188,14 @@ Economic Integration of Refugees	10841
 Economic Planning and Integration	4103,3684,1375
 Ecosystem Integration	11986,370
 Ecosystem Integration and Hosting Model	5533,58
+Education Integrate AI	12512
 Education and AI Literacy Mission Integrate AI	4528
 Electoral Consortium Mais Integridade	12201
 Electoral Integrity	10062
 Electoral Integrity and Governance Strains	10062
 Electronic Integrated Disease Surveillance and Response	4202
 Elvino Dias and Paulo Guambe. Mais Integridade	12201
-Enabler Integration	4528
+Enabler Integration	4528,7984
 Endnotes DIGITAL TRADE REGULATORY INTEGRATION	11550
 Enhancing Digital Literacy Fostering Cultural Integration	12214
 Enhancing Regional Integration and Security	4102
@@ -210,6 +211,8 @@ Experts Call for Responsible AI Integration	10355
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 External System Integration	3861
 Exturi Integrated Solutions Limited	3862
+FDMS INTEGRATION The Zimbabwe Revenue Authority	12509
+FDMS Integration	12509
 FINANCIAL INTEGRITY Sub-Part	7845
 Factors Influencing The Integration Of ICT	899
 Fawry Integrated Systems	5869
@@ -353,9 +356,9 @@ Integral. DPI Roadmap Playbook	11006
 Integralidade	10777,766
 Integram	10783
 Integrar	1701,2445,6626,11,593,20,1,64,76
-Integrate	395,504,101,380,505,1698,543,1118,432,4,743,513,12,600,434,618,740,1501,29,90,173,16,7,701,84,217,27,29,32,113,45,40
+Integrate	395,504,101,380,505,1698,543,1118,432,4,743,513,12,600,434,618,740,1501,29,90,173,16,7,701,84,217,27,29,32,113,45,40,64
 Integrate A- Kenya's AI	7548
-Integrate AI	1814,2312,402,2420,600,4662,146
+Integrate AI	1814,2312,402,2420,600,4662,146,156
 Integrate Artificial Intelligence	1814,4104
 Integrate CCTs and IGAs	11924
 Integrate DPA	4126
@@ -610,7 +613,7 @@ Integrating the Healthcare Ent'erprlse	1009
 Integrating the Healthcare Enterprise	1009
 Integrating the National Identity	7201
 Integratinghetero-	8606
-Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,193,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1
+Integration	432,1,373,21,182,252,563,123,1788,126,242,157,89,85,94,16,19,970,132,11,1,116,119,440,368,216,2,10,318,104,178,25,23,193,176,146,493,524,75,332,13,217,90,607,150,150,1,12,356,2,1,4,4,7,7,53,13,678,5,37,10,112,58,53,33,6,13,11,3,5,10,11,60,32,1,40,4,18,35,1,54
 Integration All African	6938
 Integration Begins	7965
 Integration Complexity Architecture Level Distributed	5665
@@ -627,7 +630,7 @@ Integration Project	6928,4387
 Integration Protocols	11952
 Integration Protocols Requirement	11952
 Integration Rhetoric	11608
-Integration SIGTAS Medium Term Revenue Strategy	12225
+Integration SIGTAS Medium Term Revenue Strategy	12500
 Integration Standards	5665
 Integration Test Scope Integration	11952
 Integration Testing	11952
@@ -656,7 +659,7 @@ Integration of RAPID-CI	3604
 Integration of Risk	11134
 Integration of Surveillance	4349
 Integration-without-Identification.pdf Integration	12227
-Integrations	11941
+Integrations	11941,550
 Integrations S	10617
 Integrative Model Explaining Community Acceptance	11006
 Integrators	11995
@@ -680,7 +683,7 @@ Integridade da Base Nacional de Dados Antonica Bengue	9259
 Integridade da Informação	11393
 Integridade da Rede	11430
 Integritetsskydds	8436
-Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,269,77,56,1,100
+Integrity	718,240,196,400,76,1145,1086,1804,1281,1719,824,851,59,54,276,255,147,9,58,39,719,346,56,1,100,41
 Integrity Committee	1554
 Integrity Committee Establishment Workshop	1554
 Integrity Committee The Integrity Committee	1554
@@ -693,7 +696,7 @@ Integrity Pledges	1554
 Integrity Policy DP Development Plan ELP	11250
 Integrity Sensitization and Pledge Signing Workshop	1554
 Integrity Studies	8354
-Integrity Unit Statistics Report	12225
+Integrity Unit Statistics Report	12500
 Integrity VISION Transparency	12395
 Integrity and Availability	8897
 Integrity and Confidentiality	12185
@@ -730,7 +733,7 @@ Kiribati National Integrated Identity Management System	10714
 Knowledge Integration for Tuberculosis Therapeutics	9969
 LABORATION DE LA STRATÉGIE INTEGRÉE	12043
 LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451
-LTO Human Resources MOF Integrated Financial	12225
+LTO Human Resources MOF Integrated Financial	12500
 Labour Environment. Regional Integration	11887
 Launch Integrating Africa	11839
 Launch of Integrating Africa	11839
@@ -746,7 +749,7 @@ MAISHA INTEGRATED DATABASE	12165
 MCCoD. The National Centralized and Integrated Civil	12413
 MISE EN PLACE D'UN SYSTEME INTEGRE	10812
 MITIGATING OPERATIONAL AND SYSTEM INTEGRATION RISKS	11156
-MOF's Integrated Financial Management Information System	12225
+MOF's Integrated Financial Management Information System	12500
 MULTI-STAKEHOLDER ENGAGEMENT AND CIVIL SOCIETY INTEGRATION	3861
 MW. Integrating	11136
 Macetjeni Integrated Business	9157
@@ -768,7 +771,7 @@ Minister of Trade and Regional Integration	12177
 Ministry of Economy and Regional Integration	11525
 Ministry of Finance’s Umsebe Integrated Financial Management	11131
 Ministry of Regional Integration	3238
-Ministry of Trade and Regional Integration	10709,1516,34
+Ministry of Trade and Regional Integration	10709,1550,241
 Mobile Money Integration By Emery Watson	4285
 Mongolia's Integrated Household Information Database	11133
 Months Integration	11869
@@ -834,10 +837,10 @@ Payment Integration Pay	12211
 Payment System Integration	4103,2835,1209
 Payment Systems Integration	4103
 Payment Systems Integration Payment Systems Integration	6938
-Performance Outcome Area TAQAR Standard Integrated	12225
+Performance Outcome Area TAQAR Standard Integrated	12500
 Person GRM Integrated Fiduciary Systems Assessment	11905
 Pictures Annual Integrated Report	11134
-Pillar Integration and Synergistic Implementation	4528
+Pillar Integration and Synergistic Implementation	4528,7984
 Plano de Integração E5 Em	11442
 Plataforma Integrada	11480
 Plataforma Integrada GOV.AO	11461
@@ -888,7 +891,7 @@ Refugee Economic Integration	10841
 Refugee Economic Integration Refugees	10841
 Regional Digital Integration	2296
 Regional Digital Integration Project	1216,6751,3602,238
-Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1
+Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135
 Regional Integration And Inclusion	10909
 Regional Integration Division	10634
 Regional Integration Economic Diversification Business	10837,1315,188
@@ -913,6 +916,7 @@ Report IT Information Technology ITAS Integrated	1284
 Republicação Integral	11430
 Resources Management of Civil Servants SIGEC Integrated	10812
 Responsibilities of Service Integrators	11995
+Responsiveness Integrity	12515
 Revenue Collection Integrated	12211
 Revenue Integrated Payment System UNCTAD	236
 Rights Integration	3861
@@ -941,7 +945,7 @@ Sandbox. Annual Integrated Report	11134
 Sanitary and Phytosanitary Agency Integration	12389
 Savings and Banking Integration	6362
 Sectoral Development Integration	3861
-Sectoral Synergies and Integrated Solutions	4528
+Sectoral Synergies and Integrated Solutions	4528,7984
 Secure Archival and Integrity Protection	3861
 Secure Identity Verification Integrated	12211
 Security Border Agency Integration	12389
@@ -997,7 +1001,7 @@ St. Joseph Integrated Polytechnic	4941
 Stakeholder Integration	12389
 Stakeholder Integration LIMS	12212
 Stakeholders Integração de SIG	11898
-Standard Integrated Government Tax Administration System	12225
+Standard Integrated Government Tax Administration System	12500
 Standardization Agency Integration	12389
 Standards Integrated Reporting International Monetary Fund	11131
 State Minister of Trade and Regional Integration	12259
@@ -1012,6 +1016,7 @@ Student Integrated Management and Monitoring System	11939
 Surveillance and Integrate HAI	4202
 Sustainability Must Be Integrated	7548
 Sustainable Development SIGASPE Integrated System for Human	10812
+System Integration Integrate Impilo	12508
 System Integration and Access	11957
 System Integration and Compatibility	9855
 System Integrator	3594
@@ -1035,6 +1040,7 @@ Tinto's Student Integration Model	9128
 Trade Regulatory Integration	1031,132
 Trade and Market Integration	1264
 Trade and Regional Integration	11815
+Training and Integration	12499
 Transport Integrated	12208
 Transport Integrated Management System	9646
 Trust and Integrity	12376

@@ -2,6 +2,7 @@ A1 Primer Secretario A2 Primer Secretario	4209
 A3 Primer Secretario A3 Segundo Secretario	4209
 AD-6 Zamfara NorthWest Rearing Primary School	11857
 AI Based Clinical Decision Support for Primary	11140
+AI and Data Literacy Ministry of Primary	12512
 AI. Ethiopia's Deputy Prime Minister	5073
 AI. Primary	12210
 AISIO Ministry of Primary and Secondary Education	4528
@@ -272,11 +273,11 @@ Millet Primary Schools	11857
 Minisitiri The Prime Minister	1214
 Minister Savannah Maziya and Prime Minister Russell	5799
 Minister of Finance Prime Minister Chairman	6938
-Minister of Primary and Secondary Education	4528
+Minister of Primary and Secondary Education	4528,7984
 Ministry of Pre-school and Primary Education	10831
 Ministry of Primary	1017,10880,10,9
 Ministry of Primary Education	11924
-Ministry of Primary and Secondary Education	395,4133,1557
+Ministry of Primary and Secondary Education	395,4133,1557,6409,10,8
 Moloke Primary School	11281
 Monday. The Prime Minister's Media Office	6433
 Moody Awori Primary School and Ralak Girls	12084
@@ -392,9 +393,9 @@ Primaries	2608,2173,435,1255
 Primarily	3126,665,2580,4490,1055
 Primarschulen	383
 Primarv Ret Code	11180
-Primary	23,82,3,102,12,15,3,149,1,28,22,102,40,196,2,13,4,115,62,10,10,7,1,5,25,2,3,24,73,13,65,7,42,88,5,2,3,1,1,6,2,1,2,1,11,1,5,262,46,1,17,59,43,22,23,19,99,2,5,104,13,2,61,139,139,169,86,70,4,6,142,25,57,72,51,26,122,10,67,28,137,65,11,187,10,38,215,2,28,43,138,74,16,86,19,78,5,24,165,113,22,20,2,5,18,345,21,10,141,35,55,75,1,1,13,65,56,22,21,189,21,27,7,30,3,87,58,58,22,39,64,45,19,514,76,37,91,23,81,46,344,18,33,130,9,35,17,100,623,434,80,561,1080,11,5,32,50,78,193,3,2,11,31,89,88,203,25,269,3,22,21,5,2,99,31,15,140,7,3,8,43,8,17,45,6,54,28,2,18,13,16,7
-Primary Barriers	10718
-Primary Benchmarks	4528
+Primary	23,82,3,102,12,15,3,149,1,28,22,102,40,196,2,13,4,115,62,10,10,7,1,5,25,2,3,24,73,13,65,7,42,88,5,2,3,1,1,6,2,1,2,1,11,1,5,262,46,1,17,59,43,22,23,19,99,2,5,104,13,2,61,139,139,169,86,70,4,6,142,25,57,72,51,26,122,10,67,28,137,65,11,187,10,253,2,28,43,138,74,16,86,19,78,5,24,165,113,22,20,2,5,18,345,21,10,141,35,55,75,1,1,13,65,56,22,21,189,21,27,7,30,3,87,58,58,22,39,64,45,19,514,76,37,91,23,81,46,344,18,33,130,9,35,17,100,623,434,80,561,1080,11,5,32,50,78,193,3,2,11,31,89,88,203,25,269,3,22,21,5,2,99,31,15,140,7,3,8,43,8,17,45,6,54,28,2,18,13,16,7,34,11
+Primary Barriers	10718,1790
+Primary Benchmarks	4528,7984
 Primary Constitutional Authority	3861
 Primary Data	170,11684
 Primary Data Center	10721
@@ -569,7 +570,7 @@ Prime Minister of India	7365
 Prime Minister of Japan	9067
 Prime Minister of Somalia and Presidential Candidate	11150
 Prime Minister's Director General	6938
-Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,24,112
+Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163
 Prime Minister's Office Public Disclosure Authorized	12228
 Prime Minister's State	11925
 Prime Minister. Held	2927

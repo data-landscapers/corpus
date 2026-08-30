@@ -269,7 +269,7 @@ Face of Multiple Crises	3176
 Face-to-Face	6832
 Face-to-Face HAI	6832
 Face-to-face	1778,3755,2336,2993,86,1038,393
-Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,11,2,14,118,23,13,46,27,10
+Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,13,14,118,23,13,46,27,10,22
 Facebook Ad Library	12201
 Facebook Audience Insights	11902
 Facebook Audience Insights World	11964
@@ -356,7 +356,7 @@ FacebookTwitterWhatsapp	9655
 FacebookXPinterestWhatsApp	3658,2617,145
 FacebookXPinterestWhatsApp NewZimbabwe.com	5733
 FacebookXPinterestWhatsAppLinkedinTelegram	3768
-Faced	766,3966,945,54,2138,567,24,1842,187,665,156,253,258,134,272
+Faced	766,3966,945,54,2138,567,24,1842,187,665,156,253,258,134,272,277
 Facephi	5420
 Faces December Reauthorization Deadline	10351
 Faces of African AI	5074
@@ -377,7 +377,7 @@ Facile	1984,1735
 Facilidade de Acesso	10755
 Facilit8 Namibia	7628
 Facilitar	3519,699,7153,2,196,332
-Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54
+Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54,59
 Facilitate Access	10358
 Facilitate Criteria	12376
 Facilitate Cybersecurity Awareness Activities. Promote	1777
@@ -401,7 +401,7 @@ Facilitated	395,1185,5968,409,1824,1357,1103,119,29
 Facilitates	3058,2187,5884,95,633,140,447
 Facilitates Infrastructure	11857
 Facilitateur	8269,733
-Facilitating	718,57,165,21,200,82,282,463,901,624,613,1552,592,677,1893,553,44,751,653,24,100,164,101,45,586,139,53,172,4,11,57,63,39
+Facilitating	718,57,165,21,200,82,282,463,901,624,613,1552,592,677,1893,553,44,751,653,24,100,164,101,45,586,139,53,176,11,57,63,39,101
 Facilitating Conditions and Performance Expectancy	5349
 Facilitating MDAs	12253
 Facilitating Open Access	5246
@@ -430,7 +430,7 @@ Facilities Leasing Regulations	5872
 Facilities Management	12400
 Facilities Registry	5639
 Facilities-connected	11965
-Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63
+Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63,81
 Facility Agreement	7198
 Facility B2-Portfolio	7548
 Facility Bill	266
@@ -448,12 +448,14 @@ Facility for African Investment and Trade Enhancement	144
 Facility for Energy Inclusion Off-Grid Energy Ac-	11923
 Facility-Level	3791
 Facility-based	4338
+Facility-level EHR	12508
 Facilité	643,656,1,6425,1038,1756
 Facilité Elargie de Crédit	1300
 Facilité de Crédit du Fonds Monétaire International	2071
 Facilitées	10965
 Facinet Sylla	7978
 Facing	10,1818,7666,2481,252
+Facir	12493
 Facprof	5700
 Facsimile	10793,387
 Facsimile Number	775
@@ -667,11 +669,11 @@ IN-3 Facilitate Policy	11857
 INCREASE INDEPENDENT Facebook	12201
 INNOVATION FACILITATION AND ECONOMIC DEVELOPMENT	3861
 INSD. Facebook	10874
-INTRADAY LIQUIDITY FACILITIES OVERVIEW SECTION	12324
+INTRADAY LIQUIDITY FACILITIES OVERVIEW SECTION	12484
 ITU Facts and Figures	6946
 IXP Facilities	12283
 Ia Factory	5512
-Idea Factory	4528
+Idea Factory	4528,7984
 Imenti Tea Factory	2775
 Immunities and Facilities of Both Participants	3972,195,35,15,43,89,1003
 Immunities and Facilities of Both Parties	4154
@@ -707,6 +709,7 @@ Ivoire. Face	8894
 JMIR Hum Factors	8376,3870,9
 Janeiro. O Regime Jurídico de Facturas	4203
 Jeff Koinange's Homes Face Auction Over	9736
+Journal Impact Factor	12486
 KENYA HOUSING SURVEY FACT SHEET Mobile	12251
 KEY FACTS	4972
 KawiSafi Ventures Technical Assistance Facility	12191
@@ -746,7 +749,7 @@ M-Pesa Faces Its Adult Future	6603
 MARRIAGE AND DIVORCE FACT SHEET.pdf	12471
 MCCOD FORM USED IN HEALTH FACILITIES	12413
 MIGA Guarantee Facility. Risks	287
-MOR Facebook	12225
+MOR Facebook	12500
 MSMEs. Facilitates	5245
 MSMEs. Facilitates MSMEs	10856
 MTN Nigeria Capital Expenditure Equipment Facility	240
@@ -848,6 +851,7 @@ Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
 Planned Capacity Loss Factor	11297
 Plant Availability Factor	12062
 Plc TLF Transmission Loss Factor YEDC	12062
+Policy and Governance Issues Facility Exclusions	12508
 Postal Facility	11129
 Postal Facility Addresses	11129
 Postal Facility Delivery	11129
@@ -951,6 +955,7 @@ Stop Business Facilitation Centre	11717
 Storage and Filling Facility	12256
 Subsidies and Grants for Residential Child Care Facilities	12373
 Success Factors	1777
+Success Factors National Talent Development	12512
 Success Factors Successful AI	4528
 Support Facility DA Designated Account DGE	11549
 Support for Fact-Checking Platforms	8522
@@ -1033,6 +1038,7 @@ YouTube Share. Facebook Twitter LinkedIn WhatsApp	6721,177
 Youtube Facebook Mail RSS X Youtube	5101,850
 ZDSR. Factors	11133
 Zambia Facebook	3920
+Zimbabwe Emergency Food Production Facility	12507
 Zimbabwe Health Facility Code Namespace Identifier	6666
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666

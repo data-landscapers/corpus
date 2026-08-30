@@ -105,7 +105,7 @@ Energy Authority PJ Petajoule PPA Power	12233
 Energy Independent Power Procurement Programme RFP	11228
 Energy and Power Infrastructure Reliable	10157
 Enforcement Powers and Sanctions Regime	3861
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
 Equal Political Power Equal Political Representation	10837,1315,188
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality Political Power	12152
@@ -246,7 +246,7 @@ Middle Power Question At the Forum	6410
 Middle Powers Can Build Influence	5029
 Middle Powers Digital Antitrust Efforts	5044
 Minister of Power	11976
-Ministry of Energy and Power Development	395
+Ministry of Energy and Power Development	395,12106
 NIN and Power	9600
 NamPower and Powercom	1013
 Namibia Power Corporation Limited	12399
@@ -288,6 +288,7 @@ POWERS OF INVESTIGATIONS The National Cybercrime	12459
 POWERS OF MEMBERS	585,8281
 POWERS TO INVESTIGATE	11190
 PPA Power Purchase Agreement PSC Production	12256
+PPP Public-Private Partnership PUE Power Usage	12512
 PPP Purchasing Power Parity PROMOREN Programa	10765,10
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
 PROCEDURAL POWERS OF INVESTIGATIONS	12459
@@ -303,13 +304,13 @@ People Power	7822
 People Power Inclusion	7822
 Pipeline Company Kenya Power	12256
 Plc EPSRA Electric Power Sector Reform	12062
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Population Was Power	7337
 Powder	9123
 Powdered	8182
 Powell	2948,5018
 PowellBJWaltzTJChinmanMJDamschroderLJSmithJLMatthieuMMet	8376,3870
-Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,8,9,17,1,14
+Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9
 Power Africa	11923,268
 Power Africa’s AI Future NetOne Steps	3965
 Power BI	6432,4444,99,256
@@ -378,12 +379,13 @@ Power Smart City Vision	3101
 Power Smart City Vision Without	3101
 Power Station	736
 Power Supply	958,8165
+Power Supply Issues	12508
 Power Systems	9123
 Power Systems DC	9123
 Power Taken. The High Voltage Tariff	9409
 Power Trade	12233,166
 Power Transformer	12253
-Power Usage Effectiveness	1284,3244,1265,473,166,2723
+Power Usage Effectiveness	1284,3244,1265,473,166,2723,3357
 Power Usage Effectiveness EU European Union	3184,1,1340,6470
 Power Usage Efficiency	1264
 Power and Electrical Systems Design Introduction Electrical	9123
@@ -479,13 +481,14 @@ Regional Emergency Solar Power Intervention	10180
 Regional Emergency Solar Power Intervention Project	6523
 Regional Integration and Power Trade Enhance Readiness	12399
 Registry Power Detaches	9914,1,77
+Regulations Independent Power Producers Recommended LED	12515
 Reliable Power	12445
 Remote Station Tx Power Tunability	736
 Renewable Energy Independent Power Producer	11248
 Renewable Energy Independent Power Producer Programme	11228
 Renewable Energy and Power Systems	4896
 Renewable Independent Power Producers Programme	11228
-Renewable Power Generation and Energy Storage Systems	12418
+Renewable Power Generation and Energy Storage Systems	12502
 Renewable and Risk Mitigation Independent Power Producer	11228
 Restore NCC’s Exclusive Telecom Powers Wale	7776
 Risk Mitigation Independent Power Producer Procurement	11228

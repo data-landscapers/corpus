@@ -27,6 +27,7 @@ Additional Software Requirements Such	5665
 Additional Testing Requirements Software	5665
 Administrative Requirements	573,2588
 Administrative Requirements and Financial Rules	12364
+Adoptions Requirements	12496
 Afrique OBJET DE LA REQUETE Traitement	10821
 Agreements Actually Require Each MOU	5456
 Amendment Procedures and Constitutional Requirements	3861
@@ -45,6 +46,7 @@ AttributeSelection Require	8606
 Audit Requirements Service	11952
 Audit and Monitoring Requirement	11952
 Authentication and Authorisation Requirement	11952
+Authentications Requirements	12496
 Authorisation Requirements	12374
 Authority. PART TWO LICENSING REQUIREMENT	762
 Authorization Requirements	12389
@@ -60,6 +62,7 @@ Backup Requirements Implement	11952
 Backup and Recovery Requirement	11952
 Band Devices Requirements	736
 Benchmarking Requirement	11952
+Birth and Death Certificate Registration Requirements	12496
 Board for Requirements	6946
 Botswana Request	5692
 Botswana Request. State	5692
@@ -193,6 +196,7 @@ Feb Not Required	11924
 Federal Government of Somalia REQUEST FOR EXPRESSIONS	8669
 Federalism Requires Process	3615
 Filing Requirements	12389
+Fiscalisation Requirements All Taxpayers	12509
 Fit and Proper Requirements	8354
 Free. Required Documents	12349
 Fulfilling Notification and Communication Requirements	12170
@@ -270,6 +274,7 @@ Legacy System Migration and Compatibility Requirements	3861
 Legal Publication and Official Gazette Requirements	3861
 Legal Requirements Data Protection Act	6432
 Legal and Regulatory Compliance Requirements NIMC.pdf	4794
+Legitimation Requirements	12496
 License Application Conditions and Requirements	762
 License Requirement	762
 Licensing Requirements	6940
@@ -287,7 +292,7 @@ MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
 MEET THE REQUIREMENTS OF THE DEVELOPMENT	11240
 MEMORANDUM OF ASSOCIATION Requirements	3714
 MICDE Technologies Requirements	7548
-MINIMUM BALANCE REQUIREMENTS SECTION	12324
+MINIMUM BALANCE REQUIREMENTS SECTION	12484
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 Malawi Request	5692
@@ -356,7 +361,7 @@ PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365
 PART VI ADDITIONAL REGULATORY REQUIREMENTS	12374
 PART VI COMPLIANCE REQUIREMENTS FOR PAYMENT	12365
 PART VII ADDITIONAL REGULATORY REQUIREMENTS	12365
-PARTICIPATION REQUIREMENTS SECTION	12324
+PARTICIPATION REQUIREMENTS SECTION	12484
 PERIOD FOR WHICH BIDS ARE REQUIRED	11240
 PIU. Implementation Support Plan and Resource Requirements	10964
 POLICY REQUIREMENTS	6432
@@ -507,7 +512,7 @@ Requesting	6432,4866,287,276
 Requesting Officer	34,12330
 Requesting Unit	10870
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,250
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525
 Requests for Expressions of Interest	11855
 Requests for Rollover of Funds	11250
 Requests the AU Commission	5825
@@ -535,10 +540,11 @@ Requirement Analysis	5665
 Requirement Requirement Level	5244
 Requirement Service Description Tariffs and Charges Contract	5676
 Requirement of Final Inspection	12389
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13
 Requirements Additional	12157
 Requirements All	5665
 Requirements Analysis	12400
+Requirements Change	12496
 Requirements Concerning Offering of Securities	3714
 Requirements Criteria	10911
 Requirements Criteria Cybercrimes	10911
@@ -552,6 +558,7 @@ Requirements Criteria Public	10911
 Requirements Criteria Requirements	10911
 Requirements Criteria Timestamping	10911
 Requirements Definition	9237
+Requirements Documentary	12496
 Requirements Gaps The Borrower	1988
 Requirements Gathering	12400
 Requirements Kwacha	12364
@@ -573,7 +580,7 @@ Requirements. Specifies	11269
 Requirementsforlocalclinicalval-	8301
 Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75
 Requires APIs	12444
-Requiring	961,282,3285,835,2108,3304,230,74,77,1146
+Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210
 Requiring RIRs	3502
 Requiring Telecom Users	11079
 Requisiros	11390
@@ -694,6 +701,7 @@ Trust Service Provider CERTIFICATION DEPARTMENT Request	10819
 Understand The Security Requirements	34
 Unit Testing Requirement	11952
 Upgrade Required From Mention	4528
+Upgrade Required National Vision Vision	12512
 User Interface Guidelines Requirement	11952
 Utilisation Requirement	11952
 VAPT Requirements Conduct	11952
@@ -715,3 +723,4 @@ ZIPSS Requested	12364
 ZSE Listings Requirements	4263,633
 ZSE Listings Requirements. Accordingly	4896
 ZSE and VFEX Listings Requirements	4896
+Zimbabwe. Requirements	12496

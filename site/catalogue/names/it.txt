@@ -56,7 +56,7 @@ CAMP Cyber Accelerated Maturity Program ITU	6936
 CBPRs Item	11993
 CEO IT-NUM	8848
 CEO of ITIDA	11162
-CO-CREATION AND ITERATION Open	4528
+CO-CREATION AND ITERATION Open	4528,7984
 CSP Information Item Details Name of Entity	6432
 Capture ITI TF-2x	1009
 Capture Partnership IT3	11276
@@ -64,7 +64,7 @@ Central Africa ITU	690
 Central African Republic.pdf. ITU ICT	173
 Cites ITU	5570
 CoE APO07 Managed Human ITCap	9237
-Collaborative and Iterative Approach	4528
+Collaborative and Iterative Approach	4528,7984
 Commercial-Off-The-Shelf ITAS	10419
 Complete IT3	11276
 Conseiller Pédagogique Itinérant CSAP	10847
@@ -202,6 +202,7 @@ ITEMS	11860
 ITEMS REQUIRED TO BE INCLUDED	3714
 ITERATIVE HNSF DEVELOPMENT AND IMPLEMENTATION CYCLES	1009
 ITEdgeNews	2339
+ITF263	12509
 ITGOV	7371
 ITGOV Nigeria	7371
 ITGov	9237
@@ -534,7 +535,7 @@ Italian-supported	7068
 Italicized	10840,1054
 Italie	1247,1201,4165,444,1258,576,2053
 Italie. Entre	5916
-Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,17
+Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292
 Italy Claudia Robbiati	10784
 Italy Claudia Robbiati Doctors	10784
 Italy Fabio Manenti Authors Claudia Robbiati	10784
@@ -750,9 +751,11 @@ Tablet Commitment Form Bulk Item Upload	12454
 Tanzania ITU	5697
 Tanzania ITU Academy	11424
 Tanzania Railways Corp and Italian	9971
+Tax Periods. ITEM CATEGORY VAT RETURNS	12509
 Technologie de Itumanaho	1214
 Technology ITRS International Transactions Reporting System	2775
 Technology ITU International	11196
+Technology ITU International Telecommunication Union KPI	12512
 Telefonica and Telecom Italia	4676
 Termed Problem-Driven Adaptive Iteration	11006
 Theory Origin Sources ITGov	9237
@@ -769,7 +772,7 @@ U.S. ITA Country Commercial Guide	4186,908,1246
 UNICEF and ITU	6539
 US ITA	982,904,2027,1060,5868
 US ITA Country Commercial Guide	4186,908,1246
-Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1
+Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1,135
 Union Portugal Brazil Spain Italy CORE	11586
 United Kingdom and Italy	9815
 Used ITU	1363

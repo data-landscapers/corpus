@@ -87,11 +87,12 @@ CRIMSON COMPUTER SERVICES LIMITED Data Processor	7167
 CSIR. The Centre for High Performance Computing	9126
 CSIRT Computer Security Incident Response Team	6936
 CSPs and MCDAs National Computer and Cybercrime Coordination	6432
-Carbon Footprint of National Compute	4528
+Carbon Footprint of National Compute	4528,7984
 Center Computer Security Incident Response Team	4653
 Central Computation Resources	12240
 Centre for Development of Advanced Computing	6411
-Centre for High Performance Computing	4528,4598,1680
+Centre for High Performance Computing	4528,4598,1680,1706
+Centre for High Performance Computing ZIMSTAT Zimbabwe	12512
 Centre for High Performance Computing Zimbabwe National	4528
 Centre for High Performance Computing’s Lengau	10889
 Centre for High-Performance Computing	10889
@@ -119,6 +120,7 @@ Cloud Computing Week	4141
 Cloud Computing and Data Offshoring	7339
 Co-locating Compute	10157
 Code of Practice for Interactive Computer Service Platforms	5215
+Cognitive Computing	12512
 College of Computing and Information Sciences	5413
 Communications Authority of Kenya's National Kenya Computer	6803
 Competitive Marketplace for Compute	6445
@@ -138,10 +140,10 @@ Comput Law Secur Rev	5242
 Computable Name	6666
 Computador	4044,6713,20,639,5,25,131,5
 Computadores	2816,9203
-Computation	2775,1753,3438,3939
+Computation	2775,1753,3438,3939,607
 Computation and Language	3726
 Computation of Sovereignty Score Commission	3787
-Computational	4528,2447,815,2974,371
+Computational	4528,2447,815,2974,371,1377
 Computational Center for IOT Project Expansion	1787,1417,3881
 Computational Chemistry	9475
 Computational Conflicts	12360
@@ -150,6 +152,7 @@ Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Computational Intelligence	8022
 Computational Logic	11336
 Computational Resources	12356
+Computational Sovereignty Zimbabwe National AI Adoption	12512
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computação	2816,7324,1237
 Computação Em Nuvem Pode Ampliar	8827
@@ -168,7 +171,7 @@ Compute Node	9475
 Compute Node NVidia GPU	9475
 Compute North	11135
 Compute Plan	7548
-Compute Rank	4528
+Compute Rank	4528,7984
 Compute Raxio	11310
 Compute Raxio Group	11310
 Compute South	11135
@@ -260,7 +263,7 @@ Computer Security	3887,5928
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622
 Computer Security Incident Response Team CERT	1000
 Computer Security Incident Response Teams	5677,1259,1961,573,1219
-Computer Society of Zimbabwe	4528
+Computer Society of Zimbabwe	4528,7984
 Computer Specifications DATE QUANTITY	34
 Computer Standards	8605
 Computer Studies	2308,10099
@@ -270,7 +273,7 @@ Computer Systems Engineering	6832
 Computer Systems Organization	8605
 Computer Systems and Cyber Security	10227
 Computer Technology	10001
-Computer Vision	2816
+Computer Vision	2816,9696
 Computer Vision Robotic Process Automation	4528
 Computer Weekly and Submarine Networks	1991
 Computer X X	236
@@ -295,9 +298,9 @@ Computerization	12138
 Computerization of Government Procedures	10663
 Computerize	11906
 Computerized	1824
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135
 Computers Conference	9237
-Computers Public Perception of Accountability	10835,3,130,902,16,466,1
+Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Computers Shipping	10759,78,1315,188
 Computers and Education	11879
 Computing	2096,7379,1660,5
@@ -320,7 +323,7 @@ Connectivity Cloud Computing Adoption and Data Localization	12214
 Constellating Compute	9816
 Construção de Infra-estruturas Computacionais	3519
 Contemporary Computing and Informatics	9237
-Cost of Compute	4528
+Cost of Compute	4528,7984
 Curriculum ICDL International Computer Driving License	12329
 Cyber Crimes and Computer Abuse Act	5083
 CyberCrimes and Computer Abuse Act	5107
@@ -415,7 +418,7 @@ High Performance Computer	5847,5344
 High Performance Computers	1814
 High Performance Computing Center	51
 High-Confidence Computing	8605
-High-Performance Computing	2816,1712,875,2145,4808
+High-Performance Computing	2816,1712,875,2145,4808,156
 High-Performance Computing Center Project	51,134
 High-Performance Computing Centre	3561
 High-Performance Computing and Data Processing Centre	2117
@@ -497,13 +500,13 @@ NITDA's National Cloud Computing Policy	9877
 Namibia Computer Incident Response Team	12459
 Namibia Super Computer PARAM High Performance	9475
 National AI Compute Access Programme	7548,1241
-National AI Infrastructure and Computational Sovereignty	4528
+National AI Infrastructure and Computational Sovereignty	4528,7984
 National AI and Compute Infrastructure	7548
 National Agency for Computer Security	9616
 National Cloud Computing Guideline	8986,132,1306,914
 National Cloud Computing Policy	4492,2681,2704
 National Cloud Computing Policy D.2 Regulatory	11952
-National Compute Capacity	4528
+National Compute Capacity	4528,7984
 National Computer Board Certificate Authority	1379
 National Computer Center	2578
 National Computer Development Company	3604
@@ -522,7 +525,7 @@ National Computer and Cybercrimes Co-ordination Committee	6787,5445
 National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
 National Emergency Computer Incident Response Center	7538
-National High-Performance Computing	4528
+National High-Performance Computing	4528,7984
 National Kenya Computer Incident	6946
 National Kenya Computer Incident Response Team	7481,4781
 National and Sectoral Computer Emergency Response Teams	587
@@ -559,7 +562,7 @@ Procedia Computer Science	226,5123,3256,523,1
 Programas de Computador	10747,613
 Protected Computers and Critical Database	4484
 Protection of Networks and Computer Systems	10771
-Quantum Computing	961,3567,3020
+Quantum Computing	961,3567,3020,4964
 Quantum Computing Working Group	8534
 Quantum Computing Working Group. The Kingdom	8645
 Química Computacional. Trabalhos	2741
@@ -592,7 +595,7 @@ Seri Kembangan. Computer Science	9129
 Soft Computing	9128
 Solutions System Ltd Computer Society Ayuba	11857
 Somalia Computer	5338
-Somalia Computer Incident Response Team	4810,528,332
+Somalia Computer Incident Response Team	4810,528,332,6843
 South Africa's National Computer Security Incident	8897
 South Africa. South African Computer Journal	8605
 South African Computer Journal	1248,7354,1,1,1,1

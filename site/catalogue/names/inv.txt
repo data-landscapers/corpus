@@ -9,7 +9,7 @@ AI Invest	7751
 AI Investment Potential Index	2303
 AI Investment Tracker	3859
 AI and Technologies Infrastructure Investment	7548
-AI-related Investment	4528
+AI-related Investment	4528,7984
 AI. Smart Invoice	12420
 AL-HAQ INVESTMENTS LIMITED Data Controller INST-878986D296A	7167
 AL-RASH INVESTMENTS LIMITED Data Processor INST-174721E207C	7167
@@ -100,6 +100,7 @@ Attract Investment	10157
 Attract Investment Segmentation	12444
 Audit and Investigations	11401
 Audit and Investigations Gavi Programme Audit Republic	11401
+Audits and Investigations	12491
 Authority. Application of Fund Investment	22
 Authority’s Corporate Social Responsibility and Investment	8323
 Automation of Smart Invoice	12420
@@ -356,8 +357,8 @@ EU-Tanzania Investment and Business Forum	10592
 EVOLUTION DES INVESTISSEMENTS DES OPERATEURS RAPPORT	998
 EXPANSION AND INVESTMENT IN INFRASTRUCTURE	12399
 East Africa Business and Investment Advisory Council	8528
-Economic Development and Investment Promotion	2779,272,1341,136,1935,3441
-Economic Diplomacy and Investment Attraction	4528
+Economic Development and Investment Promotion	2779,272,1341,136,1935,3441,2608,2
+Economic Diplomacy and Investment Attraction	4528,7984
 Economic Resilience and Investment Leadership	8665
 Egypt Invests Over	6459
 Electronic Fiscal Receipting and Invoicing System	2744,5002
@@ -429,6 +430,7 @@ Fiber Markets Investment Incentives	10781
 Final Report Executive Summary Investment	12006
 Finance Neighbourhood Investment Platform	1818
 Finance and Investment	12432
+Finance and Investment Promotion Minister Mthuli Ncube	12501
 Finance for Digital and Financial Investments S.A.E	9825,1
 Financial Inclusion Investments. New York	12297
 Financial Investment	11955
@@ -437,12 +439,14 @@ Financial Management PIP Public Investment Program	1284
 Financing Instrument Investment Project Financing	4653
 Financing Instrument No Investment Project Financing	11525
 Financing Plan None Key Parties Involved	1818
-Financing and Investment Strategy Given	4528
+Financing and Investment Strategy Given	4528,7984
 Finincl Fund Belgian Investment Company for Developing	177
 Fintech Flutterwave and Abuja Investments Partner	9833
 First G20 Trade and Investment Working	2626
 First Proparco Fintech Investment	294
 Fiscal Investment and Jobs	11469
+Fiscal Tax Invoice	12509
+Fiscal Tax Invoices	12509
 Fiscalía Titular de Investigaciones Administrativas	4209
 Fiscalía de Investigación Administrativa	4209
 Fiscalías Adjuntas de Investigación Adm	4209
@@ -451,6 +455,7 @@ Fondo de Inversiones Petroleras	4209
 Fonds de Garantie des Investissements Prioritaires	7106
 Food Processing Industry Investigation of Water Tube	1154
 Foreign Direct Investment	377,2494,991,462,204,1355,126,3752,1549,1066
+Foreign Direct Investment Agreements	12512
 Foreign Direct Investment and Development	11310
 Foreign Investment	5765,6611
 Foreign Investment Protection Agreement	10120
@@ -473,7 +478,7 @@ Funding Sources for Adaptation Investments	1828
 Funding and Investment	11041
 Fundo Nacional de Investigação	414
 Fundo Nacional de Investigação Av. da Namaacha	414
-Future Directions Investments	12418
+Future Directions Investments	12502
 Future Investment Initiative	3837,2531
 GASTOS DE INVERSION	4209
 GASTOS DE INVERSIONES	4209
@@ -497,6 +502,7 @@ GenCo Invoice and Final Obligation	12062
 General Authority for Investment and Free Zones	8770,1058
 Geospatial Investment Alexis Rutagengwa Head of Land	12457
 Geotechnical Investigation	5855
+Get Involved All Business Business Fueling	12495
 Get Involved The DPI Map	4863
 Ghana Investment	236
 Ghana Investment Fund for Electronic Communication	11,571
@@ -720,7 +726,7 @@ Inventions and Experimental Use Exception	12389
 Inventive Step	12389
 Inventories	3051,1845,7059
 Inventories Inventories	11955
-Inventory	1000,988,4444,1319,170,67,2140,593,296,192,588,158,40,5,270,183
+Inventory	1000,988,4444,1319,170,67,2140,593,296,192,588,158,40,5,270,183,37
 Inventory Adjustments	11955
 Inventory Inventory	1154
 Inventory Stores	11231
@@ -815,7 +821,7 @@ Investimento Privado	1265,10165
 Investimento Público	10783,583
 Investimento Público. Artigo	10783
 Investimentos	1948,868,3158,4809,786,370
-Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56,159,133,104,11,108,113,91,25,294,13,32,62,8,181,6,33,6,13,64,59,20,35,28,27
+Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56,159,133,104,11,108,113,91,25,294,13,32,62,8,181,6,33,6,13,64,59,20,35,28,27,28,1,17
 Investing for Employment	789
 Investing for Food and Job	789
 Investing.com	5734
@@ -841,7 +847,7 @@ Investisseur Air	4567
 Investisseurs	1047,9794
 Investisseurs Air	4567
 Investitionen	696,205
-Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,25,160,40,198,1,85,238,74,207,19,12,36,12,15,5,93,15,7,1,125,29,5,2,110,14,15,12,21,11,35,168,12,16,11,9,285,17,7,3,1,10,60,31,20,20,9,15,108,1,1,45,5,23,20,36,8,32,17,5,4,1,2,1,17,19,23,39,21
+Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,25,160,40,198,1,85,238,74,207,19,12,36,12,15,5,93,15,7,1,125,29,5,2,110,14,15,12,21,11,35,168,12,16,11,9,285,17,7,3,1,10,60,31,20,20,9,15,108,1,1,45,5,23,20,36,8,32,17,5,4,1,2,1,17,19,62,21,9,6,1,8,10
 Investment Accelerator	11356
 Investment Advisor for Phase	5897
 Investment Africa50	811
@@ -903,11 +909,12 @@ Investment Insurance	11310
 Investment Landscape	12376
 Investment License	1988
 Investment Metric	7003
+Investment Mobilize	12512
 Investment Monitor	6490
 Investment Monitor. USD	6633
 Investment NPV Return	11924
 Investment Officer	6946
-Investment Opportunities	12297
+Investment Opportunities	12297,198
 Investment Opportunities Significant	10892
 Investment Package	11226
 Investment Performance	12376
@@ -945,6 +952,7 @@ Investment Stage Focus Late Stage	4972
 Investment Strategies for Refugee Inclusion	10841
 Investment Strategies for Refugee Inclusion Investment	10841
 Investment Strategy By News DeskOctober	3768
+Investment Strategy Investment Strategy Investment Portfolio	12495
 Investment Summit	2626,8605
 Investment Swaziland	12422
 Investment Tranche	11134
@@ -967,6 +975,7 @@ Investment and Revenue	2775
 Investment and Securities Act	2826,6209
 Investment and Special Economic Zones Act	6921
 Investment and Tourism. Mr. Gitau	6946
+Investment and Trade Opportunities	12517
 Investment-friendly	5675
 Investment. JSIS University of Washington	4676
 Investment. Previously	718
@@ -995,7 +1004,7 @@ Investor Rank Number of Investments	4972
 Investor Relations	8408
 Investor Thinking	6397
 Investor Type	4972
-Investors	2390,1455,33,414,430,133,73,44,230,123,64,51,140,313,10,63,203,119,83,14,12,574,174,28,273,133,297,169,203,51,251,79,186,100,580,16,239,308,107,295,4,91,176,223,311,40,33,478,46,173,175,87,42,37,54,14,39
+Investors	2390,1455,33,414,430,133,73,44,230,123,64,51,140,313,10,63,203,119,83,14,12,574,174,28,273,133,297,169,203,51,251,79,186,100,580,16,239,308,107,295,4,91,176,223,311,40,33,478,46,173,175,87,42,37,54,14,39,29
 Investors Development Partners H H Must	12210
 Investors Guide and Private Sector	12376
 Investors Participating	4972
@@ -1030,7 +1039,7 @@ Invoice Number Checker	12282
 Invoice Reference Number	7746
 Invoice and VAT	8670
 Invoice. C1	8670
-Invoices	8670,3548
+Invoices	8670,3548,291
 Invoices and Remittances of Other Customers	12062
 Invoices. Adopting	8670
 Invoicing	8670,2415,1337
@@ -1081,6 +1090,7 @@ Land Use and Involuntary Resettlement Relevant ESS	1867
 Land Use and Involuntary Resettlement Relevant Relevant	3604
 Land Use and Relevant ESS8 Involuntary Resettlement	12253
 Launch AI Investor Education Program	4528
+Launch AI Investor Education Program for Cooperation	12512
 LeapFrog Investments	145,2078
 Learn More Smart Invoice Registration Guide	12454
 Lere Olayinka INEC Data Leak Investigation	7176
@@ -1303,6 +1313,7 @@ Principal Investigators of PMA Ethiopia	1212
 Principal Secretary for Investment Promotion Abubakar Hassan	10632
 Principles Inventory	1582
 Prioritise Dispute Resolution Investment Financial	11138
+Private Equity Investments Investing	12495
 Private Investment	12356
 Private Investment. Nigeria	11469
 Private Investors	12399
@@ -1340,6 +1351,7 @@ Property Swornrich Investments Pvt Ltd	4896
 Proposta de Programa de Investimento Público	10783
 Protect Involve	4126
 Protection of Investment Act	11185
+Provision for Invoice Apportionment and Selection	12509
 Proyecto de Desarrollo de Investigación Educativa	4209
 Proyecto de Inventario	4209
 Proyecto de Inventario Forestal	4209
@@ -1504,7 +1516,7 @@ Tanzania Investment and Special Economic Zones	10040
 Tanzania Investment and Special Economic Zones Act	6921
 Tanzania Investment and Special Economic Zones Authority	9897,695
 Targeted Investment	3861,3075
-Targeted Investment Promotion	4528
+Targeted Investment Promotion	4528,7984
 Tax Invoice Management System	7746
 Team Europe Investment Package	11226
 Tech Investment	5202
@@ -1563,6 +1575,8 @@ VC Investment Firms Financial Institutions Accelerators	4972
 VC Investment Firms UAE Renew Capital	4972
 VC Investments Egypt	12339
 Valid Votes Total Invalid Votes	12201
+Validity of Fiscal Tax Invoices	12509
+Validity of Fiscal Tax Invoices for Input Tax	12509
 Vendor-Managed Inventory	4153
 Visa Equity Investment	407
 Visa Strategic Investment	2247
@@ -1602,5 +1616,6 @@ Zambia Seeks More Finnish Investment	10510
 Zanzibar Investment Promotion Authority	10676
 Zebu Investment Partners	830
 Zeepay Ghana Series A.5 Equity Investment	1047
-Zimbabwe AI Investment Summits	4528
+Zimbabwe AI Investment Summits	4528,7984
+Zimbabwe Investment Overview Partners Resource Assessment	12515
 Zimbabwe’s Investable Universe Contracts	6011,985

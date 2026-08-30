@@ -266,7 +266,7 @@ Colin Walsh	9713
 Colina CanoL. Assessing	12246
 Collab Citizen	11251
 Collab Citizen App	11251
-Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77
+Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40
 Collaborateur	3879
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130
 Collaborating To Transform And Improve Education	899
@@ -284,11 +284,11 @@ Collaboration Updates	1154
 Collaboration and Commercialisation. Commercialisation	10098
 Collaboration and Information	12359
 Collaboration and Knowledge Sharing Pursuant	11134
-Collaboration and Partnership	4528,7828
+Collaboration and Partnership	4528,7828,156
 Collaboration and Partnerships	1154
 Collaboration for Better Governance	11867
 Collaborations	1903,572,1692,1277,5332,514,1066
-Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2,219,577,220,56
+Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2,219,577,220,56,242
 Collaborative Approach	1718
 Collaborative Foundations for Implementa-	4848
 Collaborative Opportunities	12376
@@ -298,7 +298,7 @@ Collaborative Regulation. Convened	6052
 Collaborative Risks Specific Risk	4528
 Collaborative Support for Health Systems Strengthening	97
 Collaborative Work of Loan Payment	226
-Collaborative and Iterative Approach	4528
+Collaborative and Iterative Approach	4528,7984
 Collaboratrice	3812,247,2709
 Collaborer	1702
 Collado	10763
@@ -322,12 +322,12 @@ Collectables	8494
 Collecte	747,1,9964,109,54,1,99,969
 Collectent	10876
 Collecter	998,7,9812,158
-Collectible	12225
-Collectible3	12225
+Collectible	12500
+Collectible3	12500
 Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805,6039
 Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,348,12,3,36,27,282,30,39,105,17,52
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32
 Collection Average	11417
 Collection Becomes Harder When Ugandans Doubt	3955
 Collection Date	3861
@@ -354,7 +354,7 @@ Collection and Transportation	718
 Collection of Administrative Data	12344
 Collection of Biometric Data	11877
 Collection of Fund	7538
-Collections	3583,1,4313,10,807,3511,30
+Collections	3583,1,4313,10,807,3541,245
 Collections for Public and Private Sectors	12000
 Collective	2096,529,2417,658,531,459,248,907,41,1006,2068,178,86
 Collective Action	11138
@@ -521,7 +521,7 @@ Colovic	2096
 Columba	1005
 Columba and Vietnam	12376
 Columbbo	7065
-Columbia	10759,76,2,1,130,187,715,16,3,264,1,9,174,3,1,11,1
+Columbia	10759,76,2,1,130,187,715,16,3,264,1,9,174,3,1,11,1,135
 Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1
 Columbia Convening	5029
 Columbia Journal of World Business	11310
@@ -529,7 +529,7 @@ Columbia University	1013,6138,2808,1928,266,1,9,171,7
 Columbia University CIESIN	196
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Columbia University Press	3782
-Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1
+Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
 Column	587,379,862,1734,306,2554,4757
 Column B of Schedule	11179
 Column Labels Row Labels REF ANG	11900
@@ -577,11 +577,12 @@ DR. FABIAN BERNARD COLLIS Data Controller	7167
 DUE DILIGENCE FOR THIRD-PARTY COLLABORATORS	1243
 Data Annual Collection Collection MFIS and Municipalities	11855
 Data Annual Project's MIS Collection Collection	11855
+Data Collected Enumerators	12498
 Data Collected for Fayda	12281
-Data Collection	196,402,663,526,1417,657,3224,463,3314,267,1227
+Data Collection	196,402,663,526,1417,657,3224,463,3314,267,1227,152
 Data Collection Centers	10812
 Data Collection Collection Households	10964
-Data Collection Data Collection Framework Component	4528
+Data Collection Data Collection Framework Component	4528,7984
 Data Collection Guide	1261
 Data Collection MASFAMU Cash	10768
 Data Collection Methods	7548,4808
@@ -609,7 +610,7 @@ Dever de Colaboração	4274
 Dever de Colaboração Pessoal	11452
 Digital Age CollaborativeRegulation	5241
 Digital Collateralization	6001
-Digital Colonialism	4528,890,2332,2696
+Digital Colonialism	4528,890,2332,2696,2066
 Digital Communication and Collaboration Means	11986
 Digital Communication and Collaboration Tools	5533
 Directeur National des Collectivités Locales	7902
@@ -726,7 +727,7 @@ Intelligent Collaboration	3511
 Inter-Agency Collaboration	12356
 Interagency Collaboration Among Law Enforcement Agencies	11928
 Interagency Collaboration WAPIS	11928
-International Collaboration	4528,6248
+International Collaboration	4528,6248,1736
 International Collaboration and Partnerships	12356
 International Collaboration and Standards	5245
 International Colloquium	10864
@@ -734,6 +735,7 @@ Islands Colombia Comoros Congo Cook Islands	11470
 Ivoire Collaborate	6646
 Ivoire Coltan	2342
 JEE Assessment Methodology for Data Collection JEE	11417
+Joint Collaboration	12512
 Joseph Colley	5365,3949,1000
 Joseph Colley The Chairman	10314
 José Colleti Junior	12379
@@ -806,8 +808,8 @@ Maluti TVET College Phuthaditjhaba Campus	11343
 Management Collateral	12364
 Market Share of Collocation	3862
 Master Skills Plan. Collectively	6832
-Masvingo Polytechnic College	4528
-Masvingo Teachers' College	4528
+Masvingo Polytechnic College	4528,7984
+Masvingo Teachers' College	4528,7984
 Mbombela Central Reference Collection	11237,21,28
 Messagerie Collaborative	9049
 Mestre Nilza Collinson. Na	2816
@@ -829,17 +831,18 @@ Militaire Colonne	5361
 Military College	11131,3
 Minimal Data Collection	12281
 Ministry of Education. Colombia	2566
-Ministry of Revenue Tax Collections	12225
+Ministry of Revenue Tax Collections	12500
 Ministry of Small Business Development Collaborate	11195
+Mobile Backup Collection	12508
 Morehouse College	36
-Morgenster Teachers' College	4528
+Morgenster Teachers' College	4528,7984
 Mpumalanga CET College	11281
 Mr. Colin Sykes	11299
 Mr. Colley	10314
 Mr. Collins Maidoh-Anene	11704
 Ms Ndileka Cola	9076,159
 Multi-Stakeholder and Cross-Sector Collaboration AI	7548
-Mushagashe Vocational Training College	4528
+Mushagashe Vocational Training College	4528,7984
 Mutasa. Collective X	10946
 Mutuma Mathiu Columnist	10650
 N COLLOCATION COMPANIES NO. TOWERS	3862
@@ -924,7 +927,7 @@ Public Service Training College	7182
 Public-Private Collaboration	5551
 Pêche MaPCAD Manuel des Procédures de Collecte	10876
 Qualitative Data Collected	11935
-Quality Assurance and Standards Collaboration	4528
+Quality Assurance and Standards Collaboration	4528,7984
 Queen Mary College	4896
 Quotes Data Highlights Collaboration	10857
 R7 Cross-Sector Collaboration	11138
@@ -1035,7 +1038,7 @@ TBC Public-Private Partnerships for Collaborative Regulation	5241
 TVET College	4494,2338,98
 TVET Colleges	11343
 Tax Collection	8669
-Tax Revenue Collections1	12225
+Tax Revenue Collections1	12500
 Teacher Training College	11905
 Teacher Training College TWG	12175
 Teacher Training Colleges	383,6821,5207
@@ -1086,7 +1089,7 @@ WestProp Vision Mnangagwa Calls for Collective Effort	7312
 Western Data Collection	7869
 Williams College	11131,3
 Williams College Massachusetts Mfanfikile Dlamini	11134
-World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1
+World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135
 World-Class Colocation	11502
 XI.2.1. Collecte	10876
 ZEMA. Establish E-Waste Collection Centers	1988

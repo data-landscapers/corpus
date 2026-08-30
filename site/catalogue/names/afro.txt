@@ -1,6 +1,6 @@
 AFR Afrobarometer	11887,266,1,9,178
 AFR Afrobarometer AUC African Union Commission	10759,78,1052,451
-AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135
 AFRO BEAUTY PLASTIC CENTRE LIMITED Data	7167
 AFRO Digital Finance Team	2184
 AFRO-ASIAN REINSURANCE BROKERS	7167
@@ -17,8 +17,8 @@ Afro-descendants	3076
 Afro-feminist	4443,4270
 AfroQuality	10464
 AfroXLMR	9622
-Afrobarometer	1230,6432,224,1730,63,383,391,532,706,164,337,86,102
-Afrobarometer Dispatch No	7886,4306,86
+Afrobarometer	1230,6432,224,1730,63,383,391,532,706,164,337,86,102,121
+Afrobarometer Dispatch No	7886,4306,86,223
 Afrobarometer Policy Paper	12192
 Afrobarometer Round	7886,3099
 Afrobarometer Working Papers	7886
@@ -37,10 +37,10 @@ Afrobarometer Working Papers Taking	7886
 Afrobarometer Working Papers Trust	7886
 Afrobarometer Working Papers Wald	7886
 Afrobarometer Working Papers Working Paper No	7886
-Afrobarometer's Lived Poverty Index	12192,86
+Afrobarometer's Lived Poverty Index	12192,86,223
 Afrobarometer. Email	12192,86
 Afrobarometer. Nearly	10759,78,1050,1,1,263,1,1,9,177,1
-Afrobarometer. Sustainable Environment Nearly	10835,3,130,902,16,466,1
+Afrobarometer. Sustainable Environment Nearly	10835,3,130,902,16,466,1,135
 Afrobarometer’s National Partners	7886
 Afrobaromètre	12099
 Afrobeat	9739
@@ -54,6 +54,7 @@ Afrofuturist	9739
 Afropop	9739
 Afrovision Technologies Limited	2680
 Another Afrobarometer	10453
+Conclusion Afrobarometer	12501
 Funding for Afrobarometer	7886
 Government of Sierra Leone and AFROSAI-E	9680
 Haratine and Afro-Mauritanian	6719
@@ -65,4 +66,4 @@ Previous Afrobarometer	12192
 Robert Mattes Afrobarometer	7886
 Systemic Barriers Gendered Consequences An Afro-feminist	4443
 UNECA and AFROPAC	9162
-VoicesAfrica. Afrobarometer Dispatch No	12192,86
+VoicesAfrica. Afrobarometer Dispatch No	12192,86,223

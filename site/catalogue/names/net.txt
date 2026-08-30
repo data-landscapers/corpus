@@ -197,7 +197,7 @@ Cellular Mobile Network Infrastructure and Cumulatively	6946
 Cellular Mobile Network Infrastructure and Services	6946
 Cellular Mobile Network Infrastructure and Services Project	6946
 Cellular Network Infrastructure and Services	6946
-Center for International Earth Science Information Network	10835,3,130,902,16,466,1
+Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135
 Centre of Excellence Omidyar Network	289
 Century and Swift Telephone Network	3862
 Cerebras and Palo Alto Networks	1843
@@ -209,6 +209,7 @@ Child Transmission PNG Portable Network Graphics	34
 Children Forum Network	9765
 China Satellite Network Company	7051
 China-based Nanjing Xinjiuwei Network Technology Company	11342
+Christian Community Police Network	12510
 Circle Payments Network	4725
 Circuit-Switched Networks	10721
 Cisco Networking Academy	2149,948,37,4345,2142,134,492,1461,533
@@ -240,7 +241,7 @@ Conditions for Licensing Private Network Operators. PART	736
 Confidence and Security of Networks and Services	395
 Congo's National Safety Net Program	11924
 Connected Lab Network and Un	4260
-Connectivity and Network Infrastructure AI	4528
+Connectivity and Network Infrastructure AI	4528,7984
 Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Content Delivery Networks	578,1188,3570,2416,4276
 Content Delivery Networks and Mobile Network Operators	11914
@@ -291,7 +292,7 @@ Development Social Safety Nets Social Development	11924
 Development of Banking Network and Number of Bank Accounts	11960
 Diagnostic Network Optimization Early Infant Diagnosis	4153
 Diana Mutheu Mawingu Networks CEO	5218
-Diaspora Knowledge Networks	4528
+Diaspora Knowledge Networks	4528,7984
 Diaspora Regional Networkings	7649
 Digital Education Africa Network Kenya Data	7167
 Digital Freedom Enabling Networks	1566
@@ -384,7 +385,7 @@ Extended Network. Country Currency Minimum Maximum	11002
 Extended Networks Limited	3862
 External Networks	34
 FEWS NET	10763
-FIN Network and SWIFT Terminal	12324
+FIN Network and SWIFT Terminal	12484
 FINANCE COST AND NET FOREIGN EXCHANGE	10793
 FINANCIAMIENTO EXTERNO NETO	4209
 FINANCIAMIENTO INTERNO NETO	4209
@@ -484,12 +485,13 @@ Global Land Tool Network	1391
 Global Network Division	5664
 Global Network Infrastructure	1726
 Global Network Initiative	8418,738
+Global Network We’re	12493
 Global Network for AI Capacity Building	7857
 Global Network of AI Supervisory Authorities	6997
 Global Networks	226
 Global Production Networks	226
 Global Settlement Network	5743,1835
-Global Zimbabwean AI Network	4528
+Global Zimbabwean AI Network	4528,7984
 Government Communications Network	1228,1761,1664
 Government Communications Network Complete	2989
 Government Data Network	5444
@@ -770,7 +772,7 @@ NEA National Electrification Analysis NPV Net	11380
 NET DE SCOLARISATION PAR SEXE Nombre	10847
 NET FINANCE COST Table	10793
 NET POSITION	11955
-NET SETTLEMENT INSTRUCTIONS SECTION	12324
+NET SETTLEMENT INSTRUCTIONS SECTION	12484
 NET and MS SQL Server	12196
 NET-NEW	4204
 NETAP	11469
@@ -915,7 +917,7 @@ NetAssist Cybersecurity Provider Malaysia	4924
 NetBlocks	5215
 NetHope	101,10916
 NetHope Humanitarian AI Code of Conduct	7147
-NetOne	60,246,56,1510,646,2010,1472,11,194,791,316,1107,556,422,675,1584
+NetOne	60,246,56,1510,646,2010,1472,11,194,791,316,1107,556,422,675,1584,856
 NetOne Airtime Fraud	9397
 NetOne Cellular	2987,5988
 NetOne Expansion Project	60,302
@@ -956,7 +958,7 @@ Netflix. L’institution	6234
 Netflix’s Global Top	10481
 Netherland	11129
 Netherland Figure	11129
-Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,33,32,21,55,124
+Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,65,21,55,124,43,1
 Netherlands Ambassador	9546
 Netherlands Antilles	11609
 Netherlands Development Organisation	10592
@@ -983,6 +985,7 @@ Netnova Technologies Limited	3386
 Neto Cardoso Editor Ministério da Educação Gabinete	10766
 Neto Cecilia Maria Paradi-Guilford The World	1228
 Neto. Implementing	10832
+Netone	12515
 Nets Automated Teller Machines Integrated Social	10763
 Nets Program	11924
 Nets System Project	11924
@@ -1001,6 +1004,7 @@ Network Access Control	11986
 Network Access Support Project	182
 Network Across Sea	6678,209,414,23
 Network Address Translation	7010
+Network Analysis Zimbabwe's AI	12512
 Network Analysis Zimbabwe’s AI	4528
 Network Anti-Money Laundering and Combating the GVA Gross	12444
 Network Architecture	3840
@@ -1171,6 +1175,7 @@ Neural Network DFI Development Finance Institution	12006
 Neural Network Zoo. Proceedings	11265
 Neural Networks	8604,3606
 Neural Networks Address	4528
+Neural Networks Transparency and Address	12512
 Neural Networks and Learning Machines. Pearson. HR	2816
 Next Generation Nation-wide Broadband Network Slovakia	11529
 Next-Generation Broadband Network Development Plant	11529
@@ -1227,7 +1232,7 @@ PSSN Productive Social Safety Net RGoZ	11133
 Pacific Cyber Security Operational Network	10764
 Pacific Light Cable Network	1766,2910
 Packet-Switched Networks	10721
-Palo Alto Networks	4434,1968
+Palo Alto Networks	4434,1968,6101
 Pan Africa Network Group	6946
 Pan-African Terrestrial Fibre Optic Network Africa50	1048
 Parliamentary Network Africa	9191
@@ -1248,7 +1253,7 @@ Platforms Supported Printer Only Ethernet Network	34
 Play Video Partner Network	10956
 Poor Network Coverage Leaves Kavango Schools	10465
 Poor Network Quality Nigeria	9563
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188
 Postal Network Secure Employment Opportunities Access	10759
@@ -1405,7 +1410,7 @@ Social Protection and Labor Social Safety Net	10964
 Social Safety Net	10812,54,119,148
 Social Safety Net Project	10866,97
 Social Safety Net The Social Safety	10812
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
 Social Science Research Network	961
 Software Defined Network	2591
@@ -1498,7 +1503,7 @@ Transmission Network Availability	12358
 Transmission Network Project	257
 Transmission Networks	10721
 Transmission and Distribution Service Network Contracts	12320
-Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Transport Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Transport Network Access	10759,78,1315,188
 Transport Network Upgrades Project	2884
 Transport Networks Executive Summary	2830

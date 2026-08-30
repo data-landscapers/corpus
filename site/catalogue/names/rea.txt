@@ -11,7 +11,7 @@ AGER Realiza Com Sucesso	8487
 AI Must Solve Real Problems	9030
 AI Readiness	1204,2655,4232
 AI Readiness Assessment	3378
-AI Readiness Assessment Methodology	4126,402
+AI Readiness Assessment Methodology	4126,402,7984
 AI Readiness Audit	6214
 AI Readiness Index	12210
 AI Readiness Index and Maturity MINICT Assessment	1204
@@ -28,7 +28,7 @@ APPRISE REALTORS LIMITED Data Processor INST-710534E2AD3	7167
 ARISING CHALLENGES IN REALISING OPPORTUNITIES	961
 ASSESSMENT OF READINESS FOR DIGITAL SKILLS	11918
 ATTIC REALTORS LTD Data Processor INST-158919714A4	7167
-Abort Reason Code	12324
+Abort Reason Code	12484
 About the Digital Readiness Assessment	12214
 About the Digital Readiness Assessment MALAWI DIGITAL	12214
 Achievable Realistic Time-bound TCN Transmission Company	11857
@@ -163,6 +163,7 @@ Digital Realty-owned Teraco	5161
 Digital Realty. LOS1	3477
 Digital Realty’s Teraco	6565
 Digital Stages of Readiness Results	12214
+Digital Training Is Creating Real	12493
 Digitalisation and Smart Nation Readiness	11822
 Disability REIT Real Estate Investment Trust	2775
 Discretionary Industrials Real Estate Communication Services	4972
@@ -561,7 +562,7 @@ Readiness Infrastructure	7548
 Readiness and Governance Survey	8240
 Readiness of SMMEs	7759
 Readiness. The RIRs and ICANN	3503
-Reading	512,830,123,2788,759,1179,420,349,475,172,415,583,279,353,493,242,17,770,76,2,1,74,56,342,560,16,1,1,1,16,64,183,1,1,9,177,1,11,1,92
+Reading	512,830,123,2788,759,1179,420,349,475,172,415,583,279,353,493,242,17,770,76,2,1,74,56,342,560,16,1,1,1,16,64,183,1,1,9,177,1,11,1,92,43
 Reading CP-EPI and CE-EPI Level	11905
 Reading China	2518
 Reading Comprehension and Language Structures	899
@@ -577,7 +578,7 @@ Readmissão	5169
 Readness	9129
 Reads	4431,1594,1125,83
 Reads Kenya's Draft Final National Data	6518
-Ready	10841,7,13,1037,123,266,38
+Ready	10841,7,13,1037,123,266,38,168
 Ready For Service GDPR General Data	3184,1,1340,6470
 Ready Money	8732
 Ready Salone	9450
@@ -613,7 +614,7 @@ Real Earnings	2775
 Real Economy	6387
 Real Education Health Other FISIM All	2775
 Real Environmental Protectors	718
-Real Estate	2775,1753,368,2050,4285
+Real Estate	2775,1753,368,2050,4285,1281
 Real Estate Education Health Other Ser-	2775
 Real Estate Investment Trust	6152
 Real Estate Registration and Notarization Sector	9828
@@ -645,7 +646,7 @@ Real Sector Emergency COVID Facility	687
 Real Story Behind the Turnaround National Breweries	6011,985
 Real Story of China	2518
 Real Time	6549
-Real Time Gross Settlement	2857,3863,5550,16,38,40
+Real Time Gross Settlement	2857,3863,5550,16,78,120
 Real Time Gross Settlement System	4517,2461
 Real Time Verification	6512
 Real Times	10216
@@ -679,7 +680,7 @@ Real-World Blockchain Use Cases Handbook	9147
 Real-World Connectivity Benefits of Narrowing the Divide	6051
 Real-World Systems The Thailand	7151
 Real-me	9128
-Real-time	783,116,262,2546,133,21,116,360,191,301,19,530,42,345,667,80,382,44,658,66,941,2,523,1291,433,286,761,53,18,67,10,17,83,64,4,18,224,2
+Real-time	783,116,262,2546,133,21,116,360,191,301,19,530,42,345,667,80,382,44,658,66,941,2,523,1291,433,286,761,53,18,67,10,17,83,64,4,18,224,2,49,4
 Real-time Data Exchange for Regulation	11222
 Real-time Mandatory	11952
 Real-time Manufacturing Operations	4434
@@ -690,6 +691,7 @@ RealEG	6502,803
 RealMe	10714
 RealRwanda	7028
 RealTime Capability	958
+RealTime Clearing Transfers	12490
 RealTyme	5821
 Realife Telecommunications Ltd	3862
 Realign	899,10232,106
@@ -707,6 +709,7 @@ Realistic Methodology Fit-for-purpose	12457
 Realistically	7751,26
 Reality	2518,2248,856,645,1281,832,249,1110,11,1072,19,1197
 Reality Check	12017
+Reality Check Platform	12512
 Reality Defender	7064,47,32
 Reality Layers and Symbolic Power	9914,1,77
 Realiza-se	8122
@@ -791,7 +794,7 @@ Renewable Energy Law GECOL and REAoL	5948
 Reporting and Analytics Real-time	12211
 Responsiveness and Real-time Data Utilisation	12370
 Results of UNESCO AI Readiness for Kenya Core	12210
-Revista Real EG	3494
+Revista Real EG	3494,9024
 Revista Real Equatorial Guinea	7100,603
 Room AI Readiness Audit	6214,306
 Room AI Readiness Audit. Section	6635
@@ -841,6 +844,7 @@ Strategy Realignment Without	11134
 Strengthen National Cyber Readiness	1777
 Strengthen National Cyber Readiness Liberia	1777
 Strengthened Support for Foundational Reading and Math	11905
+Submission Information For Readers For Authors	12486
 Subscriber’s Designation User ID Reason for Revocation	12364
 Survey Responses Real-Time Gross Settlement	6938
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
@@ -868,6 +872,7 @@ Trade Readiness	4973
 Trade Readiness Assessment	226,1038,3709,6059,1363
 Trade Readiness Assessments of African Least Developed	226
 Trade Readiness Assessments of Least Developed Countries	226
+Training Is Creating Real Economic Opportunities	12493
 Transformational Readiness	12214
 Types of Benefits Rwanda Realized	12457
 TÂCHES RESULTATS REALISATION OBSERVATIONS ET ATTENDUS	10975
@@ -917,6 +922,9 @@ York-listed Digital Realty	5025
 ZIPSS MyStandards and Readiness Portal	12364
 Zambian Real GDP Growth	5247
 Zimbabwe E-Health Readiness	21
+Zimbabwe's AI Readiness	12512
+Zimbabwe's AI Readiness Strengths	12512
+Zimbabwe's AI Readiness Zimbabwe's National AI	12512
 Zimbabwe's Real GDP Growth	940
 Zimbabwe’s AI Readiness	4528
 Zimbabwe’s AI Readiness Strengths	4528

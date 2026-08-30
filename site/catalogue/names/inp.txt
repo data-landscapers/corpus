@@ -1,4 +1,6 @@
 AIP Agricultural Inputs Programme CDC Centre	12241
+Adjustments of Input Tax	12509
+Automatic Input Tax Schedule for Fiscal Tax	12509
 Batch Input	7988
 Box Throwing Distance Input	34
 Cameroon Input	10969
@@ -27,8 +29,9 @@ INPRODEGE	4209
 INPUTS INVESTMENTS IMPACT OUTCOMES ULTIMATE PATHWAYS	12006
 INPUTS REQUIRED Test	11156
 INPYDE	4209
-Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4
+Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
 Innovation Inputs	11884,11,264,192
+Innovation Inputs Innovation Outputs	12487
 Inp-HB	6235
 Inp-Hb	2453
 Inparticipants’accounts	8602
@@ -39,13 +42,16 @@ Inpor Quotas Unipessoal	10757
 Inpracticalterms	8602
 Inpractice	8602,4
 Inprinciple	8602
-Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90
+Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42
 Input Distribution	9123
+Input Tax	12509
+Input Tax Claim Schedules for VAT Returns	12509
+Input Tax Claims for Taxpayers	12509
 Inputs	961,1792,4795,1575,2010,55,752,235,181,3
 Inputs-financial	7548
 International Finance Corporation INP-HB Interim Financial	3604
 Iterative Input	12356
-List of Critical Transactions for Input	12324
+List of Critical Transactions for Input	12484
 Mass Approx SECAM Inputs	34
 NIGERIAN SCHOOL INPUT QUALITY INDEX	11860
 NRC Input	11857
@@ -69,11 +75,13 @@ Screen Coverage Input	34
 Smallholder Farmer Input Support Program	5765
 Sogou Input Method	8460
 Strategic Inputs and Strategic Outputs	11131
-TRANSACTIONS INPUT SECTION	12324
+TRANSACTIONS INPUT SECTION	12484
 Telecommunications Input	12445
 Themes Input	8603
 UPS A Input	9123
+Validity of Fiscal Tax Invoices for Input Tax	12509
 Video Input	34
 Working Group Dates and Time Deadline for Input	10235
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Zambia's Farmer Input Support Programme	91
+Zimbabwe Input	12487

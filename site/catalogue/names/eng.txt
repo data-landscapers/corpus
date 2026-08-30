@@ -109,7 +109,7 @@ Computer Engineering	11862
 Computer Systems Engineering	6832
 Computer and Telecommunications Engineering	9128
 Conferência Anual da Rede Africana de Engenharia	11411
-Constructing the Core Engine	4528
+Constructing the Core Engine	4528,7984
 Consulting Key Stakeholders and Engaging	10720
 Consumer Engagement Models	5676
 Consumer Engagement Models Effective	5676
@@ -153,7 +153,7 @@ Design Engineering and Manufacturing Solutions	3760
 Developed the Digital Engagement and Advocacy	12241
 Development Engage	12453
 DhenhMerr.eE. DhenhereDr Eng. L. KDurnEaknag. L	1154
-Diaspora Engagement	4528,7335
+Diaspora Engagement	4528,7335,649
 Digital Citizen Engagement	10785,1082
 Digital Citizen Engagement Index	10785,1082
 Digital Citizen Engagement The AFW	11867
@@ -253,7 +253,7 @@ Eng. L. Kunaka Dr C.E.F	1154
 Eng. L. Kunaka Dr I Gwitira	1154
 Eng. Laban Kiplagat	9609
 Eng. Leo Boruett	6946
-Eng. Leonard Jukwa	4528
+Eng. Leonard Jukwa	4528,7984
 Eng. Leul Kidane	7572
 Eng. MWALE	7793,157
 Eng. Mahmoud Badawi	11738
@@ -277,11 +277,11 @@ Eng. Sham Mesfin	10001
 Eng. Tamer El-Mahdy	11738
 Eng. Tanui	3878,1230,2372
 EngBirthfinal.jpg	12188
-Engage	396,562,492,364,663,481,625,543,402,717,908,794,804,1316,1090,1700,178,175,17,75,54,43
+Engage	396,562,492,364,663,481,625,543,402,717,908,794,804,1316,1090,1700,178,175,17,75,54,43,113
 Engage For Change	2448,490,3817
 Engage IPAM Students	5939
 Engaged	1554,2286,7291,1083
-Engagement	226,492,181,71,191,469,148,210,108,581,1476,375,211,938,432,558,273,608,306,494,651,129,644,83,205,393,323,82,18,130,128,103,52,179,15,377,7,38,7,32,62,208,142
+Engagement	226,492,181,71,191,469,148,210,108,581,1476,375,211,938,432,558,273,608,306,494,651,129,644,83,205,393,323,82,18,130,128,103,52,179,15,377,7,38,7,32,62,208,142,156
 Engagement Approaches	7548
 Engagement Bill	2185
 Engagement CEMAC Central African Economic and Monetary	969
@@ -338,9 +338,10 @@ Engenheiros Técnicos. Despacho Decreto Lei	11534
 Engenheiros de Machine Learning	2816
 Engin	2096,6187
 Engin and Hand	8283
+Engine	12512
 Engine Room	4528,5219
 Engine Track	8727
-Engine of Novelty	4528
+Engine of Novelty	4528,7984
 Engineer	1638,3258,3234,3026
 Engineer Ayoub Al-Shweikh	5027
 Engineer B.S. Nath	9460
@@ -380,6 +381,7 @@ Engineering and Information Technology	8606
 Engineering and Management	11156
 Engineering and Math	11863
 Engineering and Mathematics	789,1911,4132,230,2514,1024,1367
+Engineering and Mathematics SWOT Strengths	12512
 Engineering and Mathematics Strengths	4528
 Engineering and Mathematics TVET	6832
 Engineering and Technology	10157,2042,200
@@ -397,7 +399,7 @@ England	2096,309,106,3100,297,442,230,625,3937,1277
 England No Comments	5482
 England and Wales	8978,2001
 Englewood Cliffs	11130
-English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72,181,35,9,53,7,21,5,21,26,6,17,16,1,5,7,92,12,17,25,14,11,1,1,4,8,3,4,7,10,15,40,10,1,7,24,4,3,9,35,30
+English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72,181,35,9,53,7,21,5,21,26,6,17,16,1,5,7,92,12,17,25,14,12,1,4,8,3,4,7,10,15,40,10,1,7,24,4,3,9,35,30,59
 English 0.pdf	8113
 English AFRICAN DEVELOPMENT BANK PROJECT APPRAISAL	11863
 English AI	1720
@@ -422,6 +424,7 @@ English Procurement Method	9892,1
 English SIXTY-NINTH	7452
 English Sample Size	7869
 English Search UN News Global	9786
+English Spanish	12504
 English Topics	9679
 English and Amharic	11607
 English and Arabic	6947
@@ -550,9 +553,9 @@ Harbor Engineering Company	261
 Head of Engineering	10117
 Hebo Alfredo José Engrácia Costa Chissola	11421
 Hespress English	2422
-High-Level Engagements	4528
+High-Level Engagements	4528,7984
 Hon. Engr. Bello Lawal	12049
-Honourable Commissioner Dr. Eng. Martin Muduva	4528
+Honourable Commissioner Dr. Eng. Martin Muduva	4528,7984
 Horizon Engage	9399
 Humble French Engineering Term Shaped the Modern	5700
 IBRAHIM BANGURA ENGAGES APC MEMBERS	4619
@@ -625,7 +628,7 @@ M Engineering Hub Nairobi and Lagos Microsoft	388
 MALAWI DIGITAL READINESS ASSESSMENT Civic Engagement	12214
 MESURES DE RATIONALISATION DES ENGAGEMENTS Article	4420
 MHz Engage	11857
-ML Engineer	4528
+ML Engineer	4528,7984
 MOTA Engil	2342
 MULTI-STAKEHOLDER ENGAGEMENT AND CIVIL SOCIETY INTEGRATION	3861
 Machine Learning Engineering Software	6832
@@ -652,7 +655,7 @@ Multi-Stakeholder Engagement	12356
 Multi-Stakeholder Engagement and Civil Society Integration	3861
 Multilateral and Bilateral Engagement	1243
 Municipal Engagements	8999
-NATIONAL DIALOGUE Engagement	4528
+NATIONAL DIALOGUE Engagement	4528,7984
 NCC Akinwale Goodluck Engr. Ibraheem Mohammed	11857
 NIGCOMSAT FMW&H Aremu Ade A. Engr	11857
 NIMC Director General Engr. Bisoye Coker-Odusote	9114
@@ -818,7 +821,7 @@ Stakeholder Consultative Engagement and Awareness Training	10598
 Stakeholder Engagement	958,1030,1070,429,1758,1701,2157,2028,3,54,28,624,185,185,146,10
 Stakeholder Engagement Activities	6946
 Stakeholder Engagement During Implementation	958
-Stakeholder Engagement Lead	4528
+Stakeholder Engagement Lead	4528,7984
 Stakeholder Engagement Overview	11131
 Stakeholder Engagement Plan	761,503,514,89,121,901,715,2935,126,596,3507,61,135,426,27,836
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
@@ -831,7 +834,7 @@ Stakeholder Engagement The Bank	11131,3
 Stakeholder Engagement The Research Council of Zimbabwe	1154
 Stakeholder Engagement Workshop	6858,3862,1335
 Stakeholder Engagement and Capacity Building The Research	1554
-Stakeholder Engagement and Change Management Public	4528
+Stakeholder Engagement and Change Management Public	4528,7984
 Stakeholder Engagement and Communication Plan	11131,3
 Stakeholder Engagement and Disclosure	1988
 Stakeholder Engagement and Information Disclosure	1264,514,210,8841,135,1001
@@ -867,7 +870,7 @@ Systems and Infrastructure Vendor Engagement Guidelines	12453
 TKL’s KRTS and KCCT Communications Engineering Schools	6946
 TLMs for English and Chichewa	12175
 Talent Engine	4528
-Talent Retention and Diaspora Engagement Zimbabwe	4528
+Talent Retention and Diaspora Engagement Zimbabwe	4528,7984
 Tanzania Journal of Engineering and Technology	9128
 Technician Engineer Minister’s Advisor Head	2989
 Tecnavia's Telecom Engineer Pierre Harris Koumda	11966

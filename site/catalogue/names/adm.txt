@@ -108,7 +108,7 @@ Admas Grand Hotel	6652
 Admassu	11487
 Admi.004	12364
 Admi.007	12364
-Admin	2775,1574,1306,767,4195,97,1213,98,225
+Admin	2775,1574,1306,767,4195,97,1213,98,225,249
 Admin Category	12465
 Admin Clerk	11927,98
 Admin Console	7266
@@ -120,6 +120,7 @@ Admin NHA EPSS	4349
 Admin Officer	11285
 Admin Reform	2788,2221
 Admin Simplification	3375
+Admin Tutorials	12499
 Admin. Units	12302
 Admin.A3	4209
 Admin.B3	4209
@@ -197,7 +198,7 @@ Administratiewe Liggame	11255
 Administratif	7993,3604
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47
 Administration Act	6921
 Administration All	11230
 Administration Batho Pele House	11184
@@ -495,7 +496,7 @@ Assemblée Administration	9480
 Assistant Director for Administration	3088
 Asséêdio Sexual ENAPP Escola Nacional de Administração	11390
 Atmospheric Administration PC Personal Computer PR	11553
-Attachment IV. Current Status of Tax Administration	12225
+Attachment IV. Current Status of Tax Administration	12500
 Australian Journal of Public Administration	5349
 Authority. PART III ADMINISTRATION OF FUND	22
 Automation and Administrative Development	7203
@@ -522,6 +523,7 @@ Boa Administração	11461
 Board of Administration	1382
 Brazilian Journal of Public Administration	226
 Bruta de Admissão Taxa Bruta de Escolarização Taxa	10766
+Bulawayo Land Administration Made Easier Zimbabwe	12511
 Business Administration	10,4886,419,1631
 Business and Public Administration	4432
 C. Administration	7977
@@ -538,8 +540,10 @@ COMPTE ADMINISTRATIF DE L'ANNEE	2561
 CONSELHO DE ADMINISTRAÇÃO	11531
 CR Adm	10812
 CSIRT da Administração Pública	6970
-CUG Administrator. Closed User Group	12324
+CUG Administrator. Closed User Group	12484
 Cabinet and Administration	6693
+Cadastre Portal Zimbabwe Modernising Land Administration	12511
+Cadastre Portal Zimbabwe Sustainable Land Administration	12511
 Cahier des Clauses Administratives	4342
 Cameroon Customs Administration	8167,332
 Cameroonian Tax Administration	10984
@@ -636,7 +640,7 @@ Cooperation Health Administration	10812
 Coordenador Técnico-adjunto SUBCOMISSÃO DE ADMINISTRAÇÃO	10757
 Coordinación Administrativa	7705,1360
 Coordination Framework and Administrative Mechanisms	7548
-Current Status of Tax Administration Reform	12225
+Current Status of Tax Administration Reform	12500
 Current VAT Administration and Key Constraints	8670
 Current VAT Administration and Key Constraints VAT	8670
 Customs Administration	5619
@@ -763,7 +767,7 @@ EQUALITY RURAL ECONOMY PUBLIC ADMINISTRATION	10835
 ERP Administratif	1993
 Education and Administrative Support Service	2775
 Educational Administration	7278
-Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Egypt’s New Administrative Capital	4563
 Election Administration Elections	12201
 Electoral Administration	12201
@@ -773,7 +777,7 @@ Electronic Certification Administration	6946
 Electronic Evidence Admissibility	26
 Electronic State Financial Administration System	4260,8010
 Embajada A3 Jefe Económico Admón.. A3	4209
-Enterprises Technical Assistance Advisor Tax Administration	12225
+Enterprises Technical Assistance Advisor Tax Administration	12500
 Equality Women’s Equality Public Administration Business	10759
 Escola Nacional de Administração	5721,5061,658,23,89,17
 Escola Nacional de Administração Pública	11569
@@ -787,7 +791,7 @@ Estatuto Orgânico da Administração Geral Tributária	11435
 Estratégia de Sustentabilidade da Administração Pública	11451
 Etablissement Public Administratif	10975,1268
 Ethiopia National Tax and Customs Administration System	850
-Ethiopia TEU VAT Tax Administration Support	12225
+Ethiopia TEU VAT Tax Administration Support	12500
 Ethiopian Food and Drug Administration	1824,2525
 Executive Administrative Assistant	11314
 Executivo A Agenda de Transição Digital da Administração	11394
@@ -809,11 +813,11 @@ Fair Administrative Action Act	2709
 Fair Administrative Actions Act	2709
 Faso Food and Drug Administration	8321
 Federal Capital Territory Administration	4301
-Federal Tax Administration P5-16. Use	12225
-Federal Tax Administration PROCLAMATION No	12225
-Federal Tax Administration Proclamation	12225
-Federal Tax Administration Proclamation No	12225
-Finalization of Administrative Reviews	12225
+Federal Tax Administration P5-16. Use	12500
+Federal Tax Administration PROCLAMATION No	12500
+Federal Tax Administration Proclamation	12500
+Federal Tax Administration Proclamation No	12500
+Finalization of Administrative Reviews	12500
 Finance Assistant Erwyn Veerapen ICT Administrator	11332
 Finance and Administration	6121
 Financial Management and Administration	11188
@@ -854,7 +858,7 @@ Government Administrative Officer OMCs Oil Marketing	12256
 Government ICT Infrastructure Development and Administration	1795,1413,3881
 Government Pensions Administration Agency	10102
 Government Service and Administration Policy	7820
-Government Tax Administration System State Owned	12225
+Government Tax Administration System State Owned	12500
 Governments and Nigeria Tax Administration Act	11976
 Governor Peter Mbah Administration	8973
 Grant Administrator	12195
@@ -886,7 +890,7 @@ III.B Institutional and Administrative Framework	10812
 III.C Institutional and Administrative Framework	10812
 IMA Instituto de Modernização Administrativa	10765,10
 IMA Instituto de Modernização Administrativa MR Mecanismo	11413
-IMF Revenue Administration VAT Gap Study	12225
+IMF Revenue Administration VAT Gap Study	12500
 INATRO's Technical Area Administrator	12275
 INCM's Conselho de Administração	6,2860
 INTEGRATION WITH ADMINISTRATIVE LAW AND PROCEDURE	3861
@@ -977,6 +981,7 @@ La Direction des Affaires Administratives	10975
 Land Administration	888,10373
 Land Administration Bureau	12276
 Land Administration Consultant	10763
+Land Administration Extensive	12511
 Land Administration Institutional Framework	9727
 Land Administration Mahmoud Solomon	9651
 Land Administration Modernization Program	10761
@@ -1094,7 +1099,7 @@ Municipal and Communal Administrations	10775
 Mutual Administrative Assistance Agreements	9745
 Mº INTERIOR Y ADMINISTRACION LOCAL Servicio	4209
 Mº INTERIOR Y ADMINISTRACIÓN LOCAL	4209
-N T Ethiopia Tax Administration Diagnostic	12225
+N T Ethiopia Tax Administration Diagnostic	12500
 NASA Deputy Administrator Matthew Anderson and U.S	6897
 NDC Administration	7695
 NIGERIA TAX ADMINISTRATION ACT	11976
@@ -1171,13 +1176,13 @@ PROCESSOS ADMINISTRATIVOS	11397
 PROPERTY TRANSFER AND LAND ADMINISTRATION	12389
 PROVINCIAL PROVINCIAL KIE- PROVINCIAL TOTAL ADMVA	4209
 PUBLIC ADMINISTRATION	10759,78,1,344,706,1,263,1,10,177,1
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
-PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1
-PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1,135
 PUBLIC ADMINISTRATION Civil Registration	10837,1503
 PUBLIC ADMINISTRATION HEALTH INCLUSION	12353
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
-PUBLIC ADMINISTRATION Rank	10759,78,1503
+PUBLIC ADMINISTRATION Rank	10759,78,1503,148
 PUBLIC OFFICIALS AND INSOLVENCY ADMINISTRATOR	12389
 PUBLIC SERVICE AND ADMINISTRATION Date Ms	11184
 PUBLIQUE ET AUX DOCUMENTS ADMINISTRATIFS	113
@@ -1232,11 +1237,11 @@ Proof of Delivery Food and Drug Administration	4153
 Provinces Présents Admis Taux	10847
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135
 Public Administration Business	10837,1315,188
 Public Administration Efficiency Reform Program	6824
 Public Administration Ethics	11182
-Public Administration Health	10835,3,130,902,16,466,1
+Public Administration Health	10835,3,130,902,16,466,1,135
 Public Administration Human Resources Management System	10768
 Public Administration Interoperability Platform	3661
 Public Administration Management Act	11182,14
@@ -1285,7 +1290,7 @@ Research Administration and Development	8604
 Research and Business Administration Development	236
 Resolução Administrativa de Conflitos	11520
 Responsabilidades O Instituto de Modernização Administrativa	11441,1
-Revenue Administration	1155,673,9312,1085
+Revenue Administration	1155,673,9312,1360
 Revenue Administration. CAMEROON IMF	10997
 Review of Administrative and Financial Obligations	11956
 Review of Public Personnel Administration	8021
@@ -1309,7 +1314,7 @@ SCHEDULE Table of Administrative Penalties THIRD SCHEDULE	587
 SECTORS Services Administration Resources Circular Economy	4126
 SECÇÃO I CONSELHO DE ADMINISTRAÇÃO Artigo	13
 SIGLES ET ABRÉVIATIONS AF Administration Fiscale	10712
-SYSTEM ADMINISTRATION AND USER ASSISTANCE SECTION	12324
+SYSTEM ADMINISTRATION AND USER ASSISTANCE SECTION	12484
 School of Administration and Public Policy	10768
 Sea- Adminis-	2775
 Second Schedule. Administrative	587
@@ -1370,7 +1375,7 @@ South Ethiopia Regional Land Administration Bureau	12276
 South West African Administration	12367
 Sr Land Administration Specialist. Borrower	12137
 Staffing. The MASFAMU Administrative and Finance Department	10768
-Standard Integrated Government Tax Administration System	12225
+Standard Integrated Government Tax Administration System	12500
 State Administration and Public Service	1228
 State Administration and Public Service Ministry of Science	1228
 State Administration of Foreign Exchange	5863
@@ -1405,13 +1410,13 @@ Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31
 Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22
 Tax Administration Bill	11947
-Tax Administration Diagnostic Assessment Tool	10519,465,1241
+Tax Administration Diagnostic Assessment Tool	10519,465,1516
 Tax Administration General	10064
 Tax Administration Laws Amendment Act	11263
 Tax Administration Performance Shapes Compliance	10997
 Tax Administration Reforms. IMF Working Paper	10997
 Tax Administration Research Centre	12386
-Tax Administration Support System	12225
+Tax Administration Support System	12500
 Tax Administration System	2744,9221,483
 Tax Administration System MDA Ministries	1284
 Tax Administration Technology Innovation Hub	2189
@@ -1419,7 +1424,7 @@ Tax Administration Technology Innovation Hub Bill	2189
 Tax Administration and Compliance Programme	12162
 Tax Administrators African Tax Administration Forum	12208
 Tax ID. Nigeria Tax Administration Act	11976
-Tax Information and Cash Registration Machine Administration	12225
+Tax Information and Cash Registration Machine Administration	12500
 Tax Policy and Administration	11906
 Tax and Customs Administrations Expertise France	648
 Tech Policy Press. Admissible	4259

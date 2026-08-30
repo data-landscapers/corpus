@@ -101,9 +101,9 @@ CDC-funded	10641
 CDD Customer	12227
 CDD Ghana	7662
 CDD for Existing Customers	12389
-CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1
+CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1,135,13
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
 CDE District Election Commission CEDAW Convention	12201
 CDEAO	998
 CDF Dashboard	8741
@@ -177,7 +177,7 @@ EAPC NTHIGIRANI CDC Data Controller INST-73508091389	7167
 ESONG CDO	4209
 Elong CDO Nsork Wele-Nzas	4209
 Enhanced CDD	12389
-Excellency CDE	4528
+Excellency CDE	4528,7984
 Excellency the President Cde. Dr. Emmerson	3760
 Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 HL7 CDA R2	1009

@@ -51,7 +51,7 @@ BISHOPS PROPERTIES LIMITED Data Controller INST-200385C9A96	7167
 BT PROJETS BT FONDS PROPRES BT	10975
 BUSINESS AND INTELLECTUAL PROPERTY AUTHORITY	3714
 Balancing and Proportionality	3861
-Banking Services Property Rights	10835,3,130,902,16,466,1
+Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Bank’s Employee Value Proposition	11131
 Basic Property Data	11129
 Basins Basin Current Number of Blocks Proposed	12256
@@ -84,6 +84,7 @@ CRS Proposals	12138
 CV and Financial Proposal	962
 Cabo Verde. O Registo de Propriedades	11898
 Cadastral Registration and Property Rights System	12211
+Cadastre Portal Zimbabwe Looking for Property	12511
 Call for Proposals	7020
 Call for Proposals for Pre-Set Consortia AGENCY	5773
 Call for Proposals for Pre-Set Consortia Verbatim	5773
@@ -129,6 +130,7 @@ Cost Proposal and Price Declaration Form	11209
 Cost of Request for Proposal	12400
 Countering PRC Propaganda and Disinformation	528
 Coverage Area Proposed Frequency Band Proposed	736
+Create Account Property Search	12511
 Ctrack Africa Holdings Proprietary Limited	620
 Current Proposed	2473
 Current Proposed IDA-71820-001	1228
@@ -155,6 +157,7 @@ Derechos de Propiedad	4209
 Determinants of Property Tax Revenue	10997
 Development Objective PEP Post-exposure Prophylaxis PFM	10829
 Dezembro. IX- FORMA PROPOSTA PARA	3519
+Diagram Number Property Description GP Number	12511
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Trade and Intellectual Property	4431
 Digitalization of Intellectual Property Services	12389
@@ -252,7 +255,7 @@ Industrial Property Code	12161
 Industrial Property Institution	12161
 Infrastructure National ICT Policy Intellectual Property	4528
 Infrastructure. Proper	9123
-Intellectual Property	1243,571,5146,2330,3066
+Intellectual Property	1243,571,5146,2330,3066,135
 Intellectual Property Act	3714
 Intellectual Property Institute	11550
 Intellectual Property Intricom Resources S.L	8530
@@ -290,6 +293,7 @@ LTD PROPOSED AMENDED CONSTITUTION	8866
 Late Proposals	7951
 Law Law Enforcement Property Rights Public	10759,78,1315,188
 Le Dossier de Demande de Propositions	5983
+Learn More Property Search Document Search	12511
 Leasehold of Agricultural Property for Domestic Firms	12389
 Legal Provision for Protection of Property Title	12389
 Les Contributions Foncière des Propriétés Bâties	6954
@@ -315,6 +319,7 @@ MERGER PROPOSAL	7198
 MILLION AND A PROPOSED CREDIT	6539
 MILLION AND A PROPOSED GRANT	11417
 MPA Program Financing Envelope Proposed Development	11417
+Mapping Geodetic Tools Property Search	12511
 Minister of State Property	10960
 Ministry of Justice Proposed Data Protection Agency	1161
 Ministry of Justice's Real Property Registry	12137
@@ -465,10 +470,12 @@ Propensity Score Matching	9349,1503
 Proper	34,1954,680,1845,4610,114,200,876,408,141,1001,89,4,38,259
 Properly	10,1978,4119,2176,695,674
 Properties	11286
-Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68
+Property	1154,790,587,244,276,663,1182,5322,575,77,117,10,132,2,3,145,34,126,423,94,193,152,57,11,20,68,55
+Property Card View Property Details About	12511
 Property Control and Exhibit Management System	5323
 Property Development	11131
 Property Evaluator	1154
+Property Found	12511
 Property ID Law	161,2687
 Property IDs	2848
 Property Identification Certificate	11862
@@ -482,12 +489,13 @@ Property Numbering	11129
 Property Numbering System	11129
 Property Numbers	11129
 Property Records The Ministry of Foreign Affairs	10496
-Property Registration	3437,3942,47
+Property Registration	3437,3942,47,5085
 Property Registration Code	12137
 Property Registration Special Regime System	11939
-Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Property Rights	5246,5513,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Property Rights Management	11939
 Property Rights and National Sovereignty. New York	11310
+Property Search	12511
 Property Search Comprehensive	12211
 Property Search Features Dispute Resolution System	12211
 Property Statistics	10870
@@ -569,7 +577,7 @@ Proposals of Laws and Draft Regulations	12389
 Proposals of Legal Prepare	1243
 Proposant	5983
 Proposants	5983
-Propose	962,418,1609,689,36,814,2400,2201,3316
+Propose	962,418,1609,689,36,814,2400,2201,3316,63,4
 Proposed	22,405,801,550,210,303,597,32,28,41,285,404,100,37,248,40,2,50,1,1,1,1,1,493,277,292,311,144,422,6,100,680,49,80,207,66,20,115,596,1111,16,53,749,299,105,649,85,44,836,21,72,117,71,7,132,15
 Proposed Actions	1814,1790
 Proposed Activities	1988,9262
@@ -604,9 +612,9 @@ Proposed Governance Framework	6442
 Proposed Governance Model	11007
 Proposed Governance Model. Multistakeholder Governance	11007
 Proposed Jitume Digital Hubs. MOIC&DE	1638
-Proposed Key Performance Indicators	4528
+Proposed Key Performance Indicators	4528,7984
 Proposed Listing of Econet InfraCo	4896
-Proposed Location and Funding	4528
+Proposed Location and Funding	4528,7984
 Proposed M&E	3678
 Proposed Mitigation	12253
 Proposed Mitigation Measures	1988
@@ -618,7 +626,7 @@ Proposed New PDO	1284
 Proposed Number of Channels Exchange	736
 Proposed Number of Channels Number of Stations Modulation	736
 Proposed Operation Abstract	11965
-Proposed Organogram	4528
+Proposed Organogram	4528,7984
 Proposed Pan-African Gold Bank	9593
 Proposed Policy Vision	11265
 Proposed Preliminary Eviden-	8301
@@ -782,6 +790,7 @@ Satisfactory. Proper	11855
 Second Schedule. Realisation of Property Freezing	587
 Secure Government and Regulated Data Proportionately Apply	10157
 Seed-to-Growth Tech Fund SSA Proparco	4516
+Select Search Criteria Owner Name Property	12511
 Selected Zimbabwe Listed Property Companies	4896
 Series A for Egyptian PropTech	4972
 Simultaneous Phase’s Proposed	6539
@@ -817,6 +826,7 @@ Technologies Proportion	7548
 Technology IP Intellectual Property IPR Intellectual	5246
 Tender for Proposed Fit	6946
 Tf Status Original Closing Current Proposed	1284
+Things IP Intellectual Property IT Information	12512
 Things IP Intellectual Property KEBS Kenya	7548
 Trade and Personal Property Credit Register	6473,4389
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
@@ -827,12 +837,14 @@ Trata-se da Proposta de Lei Contra Informações Falsas	11415
 Trust Property Control Act	11276
 UCC Proposes Major Telecom Tax Cuts	6789
 Urban Land and Property Registration and Information Agency	5655
+Urungwe Victoria Wankie Wedza Property Description	12511
 Use Cases Proposed Use Cases for Pilot	10819
 Uíge Province Zaire Province Proporção de Indivíduos	11418
 VG POSAF Proportion	10712
 VI. PROPOSED CHANGES	2889,9076
 VI. Proposal Contents and Formatting All	5773
 Vaincrons Propos	4033
+W IPO Intellectual Property Statistics	12487
 WFuonrdld Intellectual Property Organization	11885
 WIPO Intellectual Property	11885
 WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4
@@ -843,7 +855,7 @@ World Bank's Standard Request for Proposals	11905
 World Bank’s Standard Request for Proposals	10964
 World Intellectual Property	11550
 World Intellectual Property Organisation	961
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111
 World Intellectual Property Organization Copyright Treaty	11550
 XII- SÍNTESE DO CONTEÚDO DA PROPOSTA	3519
 Y Proprietary Age	9124

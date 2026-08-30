@@ -18,6 +18,7 @@ Actos Complementares	4274
 Adlegal International Limited. The Complainant	5113
 Administrative Complaints	12185
 Advanced Compliance Program	6543
+Affairs Dispute Resolution Lodge A Complaint	12515
 Africa Compliance Academy	7123
 Africa's Core Systems Complete	6593
 African Union Conference Center and Office Complex	6003
@@ -268,7 +269,7 @@ Completed Z204	11986
 Completely	6432,4380,440
 Completely Ban Cross-Border Data Transfers	7173
 Completelyx Partially	10812
-Completeness	170,3691,1804,5216,1122,135,13,34,182,46
+Completeness	170,3691,1804,5216,1122,135,13,34,182,46,73
 Completeness Number	12413
 Completeness Rate	12367
 Completeness and Consistency	3861
@@ -276,7 +277,7 @@ Completeness and Timeliness of Weekly Reports	11912
 Completeness of DDPs	8436
 Completeness of Registration	12151,262
 Completing	3604,7530,349,264
-Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497
+Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91
 Completion Date	1988,2908
 Completion Date FM Conditions Accounting	10829
 Completion Rate Intangible	11955
@@ -310,7 +311,7 @@ Complexo Escolar	7240,3526
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,11,15,13,48,24,31,4,5,9,26,22,17,14
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12
 Compliance Advisor Ombudsman	11007
 Compliance Agreements	7994
 Compliance Audit Returns	11956,37
@@ -360,14 +361,14 @@ Compliance Reports	12400
 Compliance Requirement All	6432
 Compliance Requirements	12302
 Compliance Requirements Compliance Level Score Regulations	5665
-Compliance Risk Management Directorate. All	12225
-Compliance Risk Management Framework	11140,1085
+Compliance Risk Management Directorate. All	12500
+Compliance Risk Management Framework	11140,1360
 Compliance Risk Management Plan	11134
 Compliance SMEs	12356
 Compliance Sessions	9198
 Compliance Sheet	10617
 Compliance Sovereignty	3787
-Compliance Strategy	12225
+Compliance Strategy	12500
 Compliance Summit	9954
 Compliance Support	11995
 Compliance Support for Businesses	12189
@@ -447,7 +448,7 @@ Data Compliance Rules	6466
 Data Localisation Compliance	12193
 Data Location and Retrieval Compliance	6432
 Data Privacy Compliance Checklist	3861
-Data Protection Compliance	4528,6193
+Data Protection Compliance	4528,6193,1791
 Data Protection Compliance Audit Returns	8922,59
 Data Protection Compliance Certificate	12323
 Data Protection Compliance Conclude	2668
@@ -460,7 +461,7 @@ Data Protection and Privacy Regulations. The Complainants	3307
 Data Sovereignty Compliance Framework	11995
 Data Sovereignty Compliance Mechanisms	11995
 Datacentre Relocation Successfully Completed	11134
-Dataset Completion	4528
+Dataset Completion	4528,7984
 Date of Completion	1778
 Death Registration Completeness	12151
 Dec-2035 Yes Joint Level Complementary	3604
@@ -497,8 +498,8 @@ EVALUATION MATRIX. Compliance Area Requirement	6432
 EXAMINING HOW ORGANISATIONS MAINTAIN COMPLIANCE	1686
 Earthworks Civils Works Complete Foundation	11134
 Economic Complexity Index	10157,2219
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Education Enrolment Education Completion Human	10837,1315,188
@@ -523,8 +524,8 @@ Essential Analytics for Compliance Risk Management. IMF	10997
 Establishing Cybercrime Complaint Center	1000
 Estimation of Birth Registration Completeness	12151
 Estimation of Death Registration Completeness	12151
-Ethiopia Compliance Division	12225
-Ethiopia. A Compliance Risk Management Framework	12225
+Ethiopia Compliance Division	12500
+Ethiopia. A Compliance Risk Management Framework	12500
 Evaluation of Compliance	5665
 Evidence Provided Compliance Status Identity	6432
 Evidence of Compliance	10721,1235
@@ -532,7 +533,7 @@ Evidence of Compliance CM-NSG	10721
 Evidence of Compliance GC-OV.S1	10721
 Evidence of Compliance Tier	10721
 Exchange Control Regulations and Compliance Trained Nedbank	11131
-Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Executive Compliance	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Executive Head of Compliance	12272
 Expected Registered Completeness County	12151
 Ezulwini CBE Complex	7802,3329
@@ -642,10 +643,11 @@ Log of Complaints	6946
 Low Implementation Completion	11873
 Lower Middle Income Complying	10976,1370
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
-MOR's Compliance Strategy	12225
+MOR's Compliance Strategy	12500
 Malawi Basement Complex'. Rock	12253
 Manager of Compliance	12162
 Meeting Africa’s Growing Compliance Needs	4791
+Megawatt Complex	12515
 Meios Complementares de Alojamento Turístico	11458
 Merger Is Not Completed	7198
 Minimum Emission Standard Compliance	11228
@@ -686,7 +688,7 @@ OP-ED BY DATA COMMISSIONER Strengthening Compliance	2668
 ORDERS TO PROTECT COMPLAINANTS FROM HARMFUL	11190
 OWASP Compliance Security	5665
 Observatory of Economic Complexity	2889
-Obtain Executive Compliance	10835,3,130,902,16,466,1
+Obtain Executive Compliance	10835,3,130,902,16,466,1,135
 Office of Health Standards Compliance	396
 Office of Standards and Compliance	11182
 Office of Standards and Compliance CHAPTER	11182
@@ -762,6 +764,7 @@ Retribuciones Complementarias	4209
 Returns And Compliance	12454
 Review and Completio	1988
 Rising Cost of Staying Compliant	8464
+Risk Management and Compliance	12491
 Risk and Compliance	10268,863
 Risk and Compliance ICT Information Communication Technology	12359
 Risk and Compliance Management Department	11131
@@ -804,8 +807,8 @@ Substantially Complete	11005
 Sudan Following Cybercrime Complaint	10213
 Supervision and Compliance	3861
 Support the Digital Economy Completed	11965
-Supporting Voluntary Compliance	12225
-Supporting Voluntary Compliance P3-8. Scope	12225
+Supporting Voluntary Compliance	12500
+Supporting Voluntary Compliance P3-8. Scope	12500
 Survey Details Estimated Completion Time	9478
 System PCR Pupil Completion Rate PI	2775
 Systems Ministry of Completion Measurement	10870
@@ -821,8 +824,8 @@ Tax Administration and Compliance Programme	12162
 Tax Compliance	1698
 Tax Compliance Certificate	10064,2233
 Tax Compliance Certiﬁcate	2709
-Tax Compliance Division	12225
-Tax Compliance Division. The Tax Appeal	12225
+Tax Compliance Division	12500
+Tax Compliance Division. The Tax Appeal	12500
 Tax Compliance Requirements	11209
 Tax Compliance Status Pin	11252
 Tax Compliance Team Leader	12162
@@ -833,6 +836,7 @@ Telcom Consumer Compliance Supply Chain Services	6946
 Telecom Complaints	11642
 Telecommunications Compliance and Telkom Kenya Limited	6946
 Training Completion Certificates	12400
+Trends and Determinants of Birth Registration Completeness	12486
 Trust Complexity	8283
 Trust Service Provider Complaint Rejected Complaint	10819
 US Foreign Account Tax Compliance Act	11685

@@ -10,6 +10,7 @@ ANNEX I. Tax Potential and Tax Effort	1828
 ASSESSMENT OF SOVEREIGNTY EFFECTIVENESS The Contracting	3787
 About EFG Holding	9826
 Access Digital Services Securely and Efficiently	12241
+Accountability and Efficiency	12511
 Acompanhamento da Efectivação	10752
 Act. Effect	3714
 Additional Positive Effects	11863
@@ -225,10 +226,10 @@ Effectif Pourcentage Moins	10875
 Effectif Pourcentage Stage	10975
 Effectifs	737,1605,8505,28
 Effectifs Fréquence	737
-Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13,204,9,127,1,4,2,14,2,37,19,19,5,25,24,132,60,76,146,156,2,4,55,24,16,38,60,36,86,9,16,9,4,11,8,13,7,44,5,54,9,4,5,2,68,3
+Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13,204,9,127,1,4,2,14,2,37,19,19,5,25,24,132,60,76,146,156,2,4,55,24,16,38,60,36,86,9,16,9,4,19,13,7,44,5,54,9,4,5,2,68,3,53
 Effective AI	6948,600,2389,410
 Effective AML	2193
-Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Effective Administration	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Effective Altruism	5302
 Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301
 Effective Date This Procl	7538
@@ -251,17 +252,17 @@ Effective Monitoring and Supervision	12064
 Effective Practice and Organisation of Care	8376
 Effective Regulations	12376
 Effective Remedy CNE	12201
-Effective Risk Management	12225
-Effective Risk Management P2-3. Identification	12225
-Effective Risk Management Tax	12225
+Effective Risk Management	12500
+Effective Risk Management P2-3. Identification	12500
+Effective Risk Management Tax	12500
 Effective SA-SAMS User	11927
 Effective Safety Net	10985
 Effective Sept	11154
 Effective Social Protection	6947
 Effective Successful	11198
-Effective Tax Dispute Resolution	12225
-Effective Tax Dispute Resolution Performance Assessment	12225
-Effective Tax Dispute Resolution This POA	12225
+Effective Tax Dispute Resolution	12500
+Effective Tax Dispute Resolution Performance Assessment	12500
+Effective Tax Dispute Resolution This POA	12500
 Effective Tax Rate	12389
 Effective Time	7198
 Effective Usable Capacity	11209
@@ -284,6 +285,7 @@ Effectiveness Closing	2989
 Effectiveness Deadline	1914
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Effectiveness IBRD	6539
+Effectiveness Q1 Quarter	12512
 Effectiveness Review Status of Grievance	1778
 Effectiveness Risk Incorporated	3604
 Effectiveness and Delivery	8015
@@ -324,12 +326,12 @@ Efficiency for Access Coalition	11923,268
 Efficiency of Domestic Public	11907
 Efficiency of Domestic Public Expenditure	11907
 Efficiency of Every Spectrum	11857
-Efficient	34,361,493,300,94,1195,1649,1407,3810,1597,36,240,641,17,7,105,106,133,61,60,12,11,26
+Efficient	34,361,493,300,94,1195,1649,1407,3810,1597,36,240,641,17,7,105,106,194,60,12,11,26,105
 Efficient Government	395
 Efficient ICT	10764
 Efficient Markets May Not Do	5700
-Efficient Revenue Management P8-26. Contribution	12225
-Efficient Revenue Management This POA	12225
+Efficient Revenue Management P8-26. Contribution	12500
+Efficient Revenue Management This POA	12500
 Efficient Spectrum Assignment	5245
 Efficient The Authority	6946
 Efficient USPC Governance	1282
@@ -340,7 +342,7 @@ Effizienz	696,204,1,630,1,1,687
 Effoduh	9739
 Effort	10874
 Effortless and Cost Effective Payments for All	11940
-Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,421,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,11,17,13,14,64,23,11,9,3,34,32,15
+Efforts	571,218,475,290,1322,82,14,632,656,108,308,539,29,23,266,853,255,191,115,3,462,113,421,1462,208,353,749,46,16,1,83,22,91,147,10,21,381,50,65,254,35,35,212,19,2,2,4,28,13,14,64,23,11,9,3,34,32,15,26,4,10
 Efforts Awareness Activities and Partnerships	1777
 Efforts Towards More Equitable AI Governance	4734
 Eficiencia	1701
@@ -400,13 +402,13 @@ Fixed and Random Effects	1828
 Formulaire de Divulgation des Bénéficiaires Effectifs	9339
 Fragmented Efforts	12356
 Freedom House HEI Health Effects Institute	10759,78,1052,451
-GII Score Effectively	12355
+GII Score Effectively	12355,132
 GOVERNANCE STRUCTURES AND KEY RESPONSIBILITIES Effective	12240
 Gestión Eficiente	6841
 Give Effect	12201
 Global AI Governance Efforts	4734
 Global Majority AI Governance Efforts	4734
-Government Effectiveness	1828,2700
+Government Effectiveness	1828,2700,7984
 Government Effectiveness Index	2945
 Government and Government Effectiveness and Its Effect	5349
 Governor. Effectively	11131,3
@@ -414,7 +416,7 @@ Guidelines for Revision Effective	9855
 Guy Patrick Efoua	6804
 HARMFUL EFFECT OF MALICIOUS COMMUNICATIONS	11190
 HEI Health Effects Institute	11887,266,1,9,178
-HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1
+HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1,135
 HIV. Effec-	10780
 Herce M. Effects	10784
 High Efficiency Air Filters Road Transport	1988
@@ -499,6 +501,7 @@ MoF. Effective	12444
 MoMo and EFT	11666
 Modeling the Effect	11140
 Moderating Effects of Process Sophistication and Mimetic	5349
+Modern Energy Enhanced Energy Efficiencies Improved	12515
 Mrs. Efe Ebelo	3870
 Munyao Longwe. Efforts	9644
 MÓVEL ATIVO COM UTILIZAÇÃO EFETIVA	11531
@@ -531,7 +534,7 @@ PUE Power Usage Effectiveness RBAC Role-Based	6432
 PUE Power Usage Effectiveness RFS Ready	10781
 Part Two for EFY	1783,6,1,1,1,3
 Pays Effectif Pourcentage Burkina Faso	10875
-Power Usage Effectiveness	1284,3244,1265,473,166,2723
+Power Usage Effectiveness	1284,3244,1265,473,166,2723,3357
 Power Usage Effectiveness EU European Union	3184,1,1340,6470
 Power Usage Efficiency	1264
 Prevalence and Operational Efficiency of Labor Disputes	12389

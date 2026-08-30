@@ -152,7 +152,7 @@ Brazil and South Africa. Structural Change and Economic	961
 Brazilian and South African	5366,1020
 Brazillian and South African G20 Presidencies	5803
 Bridging the Gap. Technology and Learning Press. South	11927
-Build Global South	4528
+Build Global South	4528,7984
 Build One South Africa	11289
 Building South Africa	7343,3867,16
 Burkina Faso South Africa	11002
@@ -232,7 +232,7 @@ Code for South Africa	961
 Collège Catholique Cours de Soutien	10821
 Commission of South Africa	10729
 Common Market for East and South Africa	12286
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44
 Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760
 Common Market for Eastern and Southern Africa's Regional	10718
@@ -260,6 +260,7 @@ Conclusion As South Africa	8022
 Congo ASEAN Association of Southeast Asian Nations	11994
 Connect East and Southern Africa	3523
 Constitution of South Africa	11245
+Context Matabeleland South	12508
 Copenhagen and Southampton	11142
 Copperbelt and Southern Africa	5912
 Copy Link News Alerts WhatsApp South	6286,1986
@@ -431,6 +432,7 @@ Executive Summary The South African Revenue	8670
 External Auditors Information Auditor-General South Africa	11250
 Extractives Global Practice Eastern and Southern Africa	11380
 Eye Radio South Sudan	5428
+FAO Resilience Team Leader for Southern Africa	12507
 FATF Mutual Evaluation Report for South Africa	4633
 FATF Mutual Evaluation for South Africa	4633
 FC-1 Edo South South	11857
@@ -489,7 +491,7 @@ Global South. Amid	8936
 Global South. As Bradford	11050
 Global South. As Mehta	9739
 Global South. At the UN General Assembly	6001
-Global South. Core Strategic Thrusts	4528
+Global South. Core Strategic Thrusts	4528,7984
 Global South. Existing	10199
 Global South. For African	6790
 Global South. Han Jing	10215
@@ -742,7 +744,11 @@ Managing Director for South Africa Sandile Dube	5628
 Managing Director of South African ISO	7055
 Mapping of Digital and ICT Roles and Demand for South	6832
 Market for Eastern and Southern Africa CPF Country	6539
-Matabeleland South	7312
+Matabeleland South	7312,5196
+Matabeleland South Province	12508
+Matabeleland South Province Page	12508
+Matabeleland South Provincial Health Team	12508
+Matabeleland South Provincial Health Team Meeting	12508
 Matabeleland South and Matabeleland North	940
 Mauritius and South Africa	962,10932
 May’23 Aug’24 Oct’25 Southern Africa East	5247
@@ -1110,6 +1116,7 @@ SOUTHERN BAPTIST CONVENTION	7167
 SOUTHERN Digital Malawi Acceleration P505095	1704
 SOUTIEN A L'INNOVATION LOCALE ET	2695
 SOUTIEN DE L’UE PAR DOMAINE PRIORITAIRE	643
+SR Number Northern Southern Search Search	12511
 SSA and Southeast Asia	12006
 STA-S Southern Africa Annex	9630
 STA-S Southern Africa Programme	9630
@@ -1159,9 +1166,9 @@ Soutenabilité	10712,1331
 Soutenir	643,1403,2277,4568,1939,135
 Soutenu	1984,2108,1067,837,72,291
 Soutenue	5694,3818,302
-South	40,587,139,23,454,21,422,165,1732,98,490,273,231,567,360,359,425,135,72,198,41,96,32,733,433,1003,108,162,153,187,990,132,103,16,24,179,38,145,504,94,22,8,4,92,61,177,117,15
+South	40,587,139,23,454,21,422,165,1732,98,490,273,231,567,360,359,425,135,72,198,41,96,32,733,433,1003,108,162,153,187,990,132,103,16,24,179,38,145,504,94,22,8,4,92,61,177,117,15,52
 South Afri-	11551
-South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,4,7,7,13,26,31,8,8,2,6,4,2,2,11,1,9,5,9,4,2,1,2,14,16,4,3,4,6,37
+South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,11,7,13,26,31,8,8,2,6,4,2,2,11,1,9,5,9,4,2,1,2,14,16,4,3,4,6,37,19,2,4,6,1,2
 South Africa ABSTRACT	8604,1
 South Africa AI	6886
 South Africa AI Artificial Intelligence API	5533
@@ -1971,7 +1978,7 @@ South America and South Asia	10199
 South America. Loan	144
 South American	9832
 South Arica Department of Higher Education and Training	6832
-South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1,131,5,16,416,295,35,1,61,42,326
+South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1,131,5,16,416,295,35,1,61,42,479
 South Asia President Zuma and Prime Minister	11183
 South Asia Region	10714
 South Asia Sub-Saharan East Asia and Europe	10977
@@ -2016,7 +2023,7 @@ South Kivu	1867,8230,1767,4,126,12
 South Kivu Court of Appeal	11868
 South Kivu and Butembo	11900
 South Kivu and North Kivu	11900
-South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223,290,49,79,50,30,126,63,255,131,123,59,303,50
+South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223,290,49,79,50,30,126,63,255,131,123,59,353,225
 South Korea Invests USD	12275
 South Korea NIRS Daejeon	7471
 South Korea and Africa	11291
@@ -2035,6 +2042,7 @@ South Nyaruguru RESEARCH FINDINGS	12328
 South Odorkor P. O. Box JT	3386
 South Pemba	6728,4405
 South Pemba and North Unguja	11142
+South Province	12508
 South Region	10988
 South Ridge	11754
 South Rift	7833,36
@@ -2046,7 +2054,7 @@ South South South West South East	3862
 South South West	10980
 South Sub-Saharan East Asia and Europe and Latin	10977
 South Suda	11900
-South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32
+South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103
 South Sudan Air Traffic Management System	261
 South Sudan Announces	3728
 South Sudan Author	3212
@@ -2234,9 +2242,9 @@ South-East and North-west	3862
 South-East of Nigeria	10052
 South-Kivu	11882,36
 South-Korea	5993
-South-South	3150,48,58,606,168,498,10,1428,37,896,64,97,1832,523,786,14,903,6,178,54,242,326,186,347
+South-South	3150,48,58,606,168,498,10,1428,37,896,64,97,1832,523,786,14,903,6,178,54,242,326,186,347,55
 South-South Cooperation	11546
-South-South Cooperation Leadership	4528
+South-South Cooperation Leadership	4528,7984
 South-South DPI	9801
 South-South Development and Cooperation	11183
 South-South Nigeria	2155
@@ -2287,7 +2295,7 @@ Southeastern African	3820
 Southeastern Corridor Road Asset Management Project	6523
 Southern	34,2782,865,110,637,597,222,1632,81,1151,1022,483,242,905,706,529,184,31,65,50,1,74,6,4,18,14
 Southern Afr Bill	135
-Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68,106,29,20,4,19,29,4,9
+Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68,106,29,20,4,19,29,4,9,53,18
 Southern Africa Connectivity	9759
 Southern Africa Customs Union	6539
 Southern Africa Data Center Markets Brief	4428
@@ -2301,7 +2309,7 @@ Southern Africa Governor	11134
 Southern Africa Health Community	11417
 Southern Africa Health Community ECSA-HC Excellence	11417
 Southern Africa Lead RSMC	11191
-Southern Africa Leadership	11870,482,1
+Southern Africa Leadership	11870,482,1,135
 Southern Africa MFB Micro Finance Banks	2775
 Southern Africa Morne Gijben Lead Scientist	11191
 Southern Africa Multi-Region East Africa	4972
@@ -2332,6 +2340,7 @@ Southern Africa and West Africa	2518
 Southern Africa'. Bayobab	5129
 Southern Africa. Component	9630
 Southern Africa. Disponível	2816
+Southern Africa. Email	12501
 Southern Africa. Let	9959,210
 Southern Africa. Recently	10414
 Southern Africa. Regulatory	2363
@@ -2344,14 +2353,14 @@ Southern Africa. Under the MSA	6638
 Southern Africa. West Africa	4972
 Southern Africa. Zambian	12376
 Southern African	1554,66,194,1,1,401,80,1137,34,220,28,145,193,716,240,372,32,93,22,227,131,43,27,128,456,1,76,20,26,29,133,250,155,577,33,178,584,893,253,10,200,114,96,249,103,86,254,917,182,227,45,84,68,28,57
-Southern African AI	4528
+Southern African AI	4528,7984
 Southern African Climate Outlook Forum	8006
 Southern African Community	10169
 Southern African Customs Union	3653,4516,2962,3,1292
 Southern African Customs Union Southern African	11131
 Southern African Development	12444
 Southern African Development Commu-	2775
-Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45
+Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45,44
 Southern African Development Community Committee	12432
 Southern African Development Community EPTC Eswatini	12444
 Southern African Development Community SAPP Southern	12399
@@ -2502,7 +2511,7 @@ Sudan Eritrea Somalia South Sudan	10837
 Sudan Eritrea Somalia South Sudan Score	12340
 Sudan South Sudan Ghana Financial	10793
 Sudan South Sudan Ghana Six	10793
-Sudan and South Sudan	12225
+Sudan and South Sudan	12500
 Sudan. South Sudan	3583
 Supermarkets South Africa	9763
 Support South African SMEs Kenyan Joseph	6887,414
@@ -2553,6 +2562,7 @@ UMc Brunei Darussalam Asia South-Eastern Asia	10840
 UMc Ecuador Americas South America Guayaquil	10840
 UN Member States. South Africa	1912
 UN Processes South Africa	2117
+UN's the Global South	12512
 UNESCO Regional Office for Southern Africa Constantinou	10073
 UNESCO South Sudan Education Sector Analysis	3583
 UNESCO Supports Southern Africa	10601
@@ -2642,6 +2652,7 @@ Zain South Sudan and MTN South Sudan	2313
 Zambia and South Africa	10026,822
 Zambia. South African Journal of Geomatics. Collier	12369
 Zambia’s Southern Province	11171
+Zimbabwe SADC Southern African Development Community	12512
 Zimbabwe South Africa Comoros ESwatini Botswana	9886
 Zimbabwe and South Africa	1726,259,6514,3400
 Zimbabwe and South Africa--the Directors	4896

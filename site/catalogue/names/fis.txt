@@ -22,6 +22,7 @@ Aluguer de Servidores Fisicos	570
 Analysis of Key Fiscal Ratios	2775
 Annual Report Fiscal Year	12358
 Approval Fiscal Year Operation	11924
+Automatic Input Tax Schedule for Fiscal Tax	12509
 Autres Recettes Fiscales	2476
 Avatar of FishmanNamibia	12478
 Balance Fiscal	4209
@@ -180,10 +181,10 @@ Financial and Regulatory Reporting FIs	11861
 Fiscais	11528
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,285,144,53
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12
 Fiscal Adjunto	4209
-Fiscal Affairs Department	1828,10397
-Fiscal Affairs Department International Monetary Fund	12225
+Fiscal Affairs Department	1828,10672
+Fiscal Affairs Department International Monetary Fund	12500
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
 Fiscal Correction	7695
@@ -195,6 +196,7 @@ Fiscal Costs and Distributional Impact of Oil Subsidies	1828
 Fiscal Council	7695
 Fiscal Council Management System	5588
 Fiscal Developments	11134
+Fiscal Devices	12509
 Fiscal Electronic Device	8368,177
 Fiscal Electronic Devices	7695,673
 Fiscal Gains	1828
@@ -230,9 +232,11 @@ Fiscal Responsibility Commission	11866
 Fiscal Review The Minister of Finance	11131
 Fiscal Risks The Government	11134
 Fiscal Space and Sustainable Growth Development Policy	11965
-Fiscal Stewardship	4528
+Fiscal Stewardship	4528,7984
 Fiscal Studies	11727
 Fiscal Sustainability By David A Yates	11710
+Fiscal Tax Invoice	12509
+Fiscal Tax Invoices	12509
 Fiscal Titular	4209
 Fiscal Transparency Innovation Fund	11005
 Fiscal Transparency Innovation Fund Section	11005
@@ -259,7 +263,9 @@ Fiscal-Único. Serviços Executivos	11381
 Fiscale Nombre de PSF	10965
 Fiscales	2476,1733
 Fiscales de Sala	4209
-Fiscalisation Data Management System	10019
+Fiscalisation Data Management System	10019,2490
+Fiscalisation Requirements All Taxpayers	12509
+Fiscalisation and Fiscalisation Data Management System	12509
 Fiscalité	4169,251,3574,1583,1135,263
 Fiscalité Indirecte Article	4420
 Fiscalité Locale	10712
@@ -314,7 +320,7 @@ Fishbowl Challenge	9427
 Fishenden	5700
 Fishenden and Thompson	5700
 Fisher	2566,8353,21,195
-Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83
+Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
 Fisheries Information System	10112,531
@@ -323,6 +329,7 @@ Fisheries and Animal Production	10964
 Fisheries and Aquaculture Minister	10112
 Fisheries and Forests	10960
 Fisheries and Irrigation	7167
+Fisheries and Rural Settlement. The Office	12511
 Fishery Committee	11536
 Fishing	789,1986,2906,2164,2918,1094,24
 Fishing Construction	10976,1370
@@ -414,7 +421,7 @@ Número de Identificação Fiscal NL	11435
 O Conselho Fiscal	13,154,4051,7164,67
 O Fiscal-Único	11381
 OBJETIVOS DA SUPERVISÃO E FISCALIZAÇÃO	11561
-OFFICIAL USE ONLY FISCAL AFFAIRS D	12225
+OFFICIAL USE ONLY FISCAL AFFAIRS D	12500
 Outlook Fiscal	10787
 PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION FISCALE	10712
 PROBLÉMATIQUE DE DÉVELOPPEMENT DE L’ADMINISTRATION FISCALE	10712
@@ -526,6 +533,8 @@ Universitário. Fiscalização	10750
 Unlock Fiscal Space Paper22nd	7648
 Use of Fiscal Electronic Device	7695
 VETERINARY SERVICES AND FISHERIES-COUNTY GOVERNMENT	7167
+Validity of Fiscal Tax Invoices	12509
+Validity of Fiscal Tax Invoices for Input Tax	12509
 Vice-Presidente Vice-Presidente Fiscal General Defensor	4209
 Vice-Primer Ministro Tercero Fiscal Corte Suprema	4209
 Violence Fiscal Year International Development Association	11468

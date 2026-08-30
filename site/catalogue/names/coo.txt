@@ -2,7 +2,7 @@ ACTION PLAN Coordinate	4126
 AFGHS Cooperation Framework	4153
 AGENCY FOR TECHNICAL COOPERATION AND DEVELOPMENT	7167
 AI Deployment and Project Cooperation Summit	10630
-AI Talent Development Coordination Office	4528
+AI Talent Development Coordination Office	4528,7984
 ANNUAL REPORT RESEARCH CONTROL AND COORDINATION	1154,400
 APOYO COOP. DE LA ESCOLAR	4209
 AREAS FOR COOPERATION TO SUPPORT DIGITAL	1243
@@ -270,7 +270,7 @@ Cooperating Partners Government Change EGD	12453
 Cooperating Partners National	12453
 Cooperating Partners THEMATIC AREA	12453
 Cooperating and Development Partners	12453
-Cooperation	775,186,9,30,243,90,141,161,243,799,281,802,407,91,168,815,436,326,264,1777,1324,25,31,666,8,117,43,334,172,55,2,127,16,86,239,13,121,130,58,59,286,4,81,47,137,77,52,4,31
+Cooperation	775,186,9,30,243,90,141,161,243,799,281,802,407,91,168,815,436,326,264,1777,1324,25,31,666,8,117,43,334,172,55,2,127,16,86,239,13,121,130,58,59,286,4,81,47,214,52,4,31,111
 Cooperation Acronym Description	11218
 Cooperation Agency	9433
 Cooperation Agreement	1228,9613,447,237
@@ -411,7 +411,7 @@ Coordinador Regional Grupo D	4209
 Coordinador Regional Grupo D Servicio	4209
 Coordinador Técnico	8378,687
 Coordinar	1701
-Coordinate	899,41,60,131,2995,402,320,1565,1135,1575,1034,120,865,7,252,453,522,23,1,13,31
+Coordinate	899,41,60,131,2995,402,320,1565,1135,1575,1034,120,865,7,252,453,522,23,1,13,31,68
 Coordinate ICT	12384
 Coordinate Kenya	7548
 Coordinate National M&E Reporting	10060
@@ -470,7 +470,7 @@ Coordination Mechanisms for Excavation Permits	12389
 Coordination Of Implementation Of The ICT	958
 Coordination Statistique	10874
 Coordination Unit	1284
-Coordination and Advisory	4528
+Coordination and Advisory	4528,7984
 Coordination and Implementation	940
 Coordination and International Cooperation	7548
 Coordination and Monitoring	10829
@@ -536,7 +536,7 @@ Cross Border Frequency Coordination	6946
 Cross-Border Cooperation	12210
 Cross-Enterprise Coordinates	1009
 Cross-Sector Coordination	12356
-Cross-Sectoral Coordination Forums	4528
+Cross-Sectoral Coordination Forums	4528,7984
 Cross-sector Coordinated Digital	12214
 Cultural Confidence. Poor Ecosystem Coordination	11138
 Cyber Coordination Centre	5841
@@ -596,6 +596,7 @@ Digital Cooperation Organization	2435,1402,3332
 Digital Coordination Board	12008
 Digital Health and International Cooperation	10188
 Direction de Coordination du Programme Elargi de Vaccination	10919
+Director Academy of Teaching and Learning Coordinator MSc	12508
 Director General of Clinical and Coordinate	12413
 Director and COO	5276
 Director of Economic Cooperation and Regional Integration	3238
@@ -700,7 +701,7 @@ GPEI Coordinator	10776
 General Coordination Mr TCHANA Joseph Technical	10980
 General Coordinator	10829
 German Agency for GRM International Cooperation	10964
-German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1083,34
+German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241
 German Confederation of Raiffeisen Cooperatives	11134
 German Cooperation	789,5588,2608,3442
 German Corporation for International Cooperation GmbH GoG	4126
@@ -716,7 +717,7 @@ Global Cybersecurity Cooperation Frameworks. Actions	1777
 Global Organisation for Artificial Intelligence Cooperation	8506
 Global Smart Education Conference. Coorganisée	11673
 Governance and Cooperation Governance	2677
-Governance and Coordination The Ministry of ICT	4528
+Governance and Coordination The Ministry of ICT	4528,7984
 Government of Kenya. PARAGRAPH2 AREAS OF COOPERATION	4153
 Graduate School of Global Cooperation	10123
 Grain Cooperation	10559
@@ -759,8 +760,8 @@ IV- ON INTERNATIONAL COOPERATION	7452
 Identification OCDE Organisation de Coopération	10712
 Immigration Cooperation	8295
 Implement Digital Cooperation Agreement By Awa	11670
-Implementation Coordination	4528
-Implementation Synergies and Phased Coordination	4528
+Implementation Coordination	4528,7984
+Implementation Synergies and Phased Coordination	4528,7984
 Improved Cook Stoves	12358
 Improvement Project Economic Development Cooperation Fund	850
 Incident Coordination Determining	775
@@ -857,6 +858,7 @@ Lack of Coordination	1261
 Lack of Coordination and Comprehensive Information	12376
 Larry Cooke	3057,6254
 Latin America. Cooperating	9709
+Launch AI Investor Education Program for Cooperation	12512
 Le Comité Technique de Coordination	10712
 Le Coordinateur	8344
 Le Coordonnateur	4039,6837
@@ -982,7 +984,7 @@ Nigeria’s National Cooperative Identity	9876
 Non- Cooperation	11986
 Non-governmental Organisation ICTS International Cooperation	11986
 North-West Zonal Coordinator of WICE	9576
-Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86
+Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
 Norwegian Agency for Development Cooperation NRP	12175
 Number of Clean Cooking Connections	12399
 O Comité de Coordenação	11523
@@ -1079,7 +1081,7 @@ Proyecto de Cooperación Técnica	4209
 Public Korea International Cooperation Agency	699
 PwC Price Waterhouse and Coopers SDG Sustainable	1814
 Quadro de Cooperação	9260,2309
-Questions IFMIS German Agency for International Cooperation	12225
+Questions IFMIS German Agency for International Cooperation	12500
 R.2.1 Coordenação	11376
 R.5.2 Coordenação	11376
 RDC. Le Coordonnateur	8524
@@ -1107,7 +1109,7 @@ Regional Coordination Meeting	10508
 Regional Coordinator	11525,626
 Regional Coordinator Coordinator	12151
 Regional Cybersecurity Coordination Mechanism. On Gender	7452
-Regional Governance and Cooperation Zimbabwe	4528
+Regional Governance and Cooperation Zimbabwe	4528,7984
 Regional Project Coordination Committee	1177,87
 Regional and International Cooperation	1814,1421,9124
 Regional and International Cooperation The Arab Charter	2958
@@ -1181,7 +1183,7 @@ South Africa’s Linea Capital and Ethiopia’s Cooperative	7798
 South Korea's Economic Development Cooperation Fund	9647
 South Sudan Broadcasting Cooperation	4597
 South-South Cooperation	11546
-South-South Cooperation Leadership	4528
+South-South Cooperation Leadership	4528,7984
 South-South Development and Cooperation	11183
 South-South and Triangular Cooperation	11546
 South-South and Triangular Cooperation Convention	8674
@@ -1210,7 +1212,7 @@ Stronger Public-Private Coordination	7235
 Structural Building Code Compliance and Coordination Local	9123
 Sub-Regional African Maritime Rescue Coordination Centres	2677
 Subsector de Cooperación	4209
-Success Metrics and Coordination	4528
+Success Metrics and Coordination	4528,7984
 Sudan. A Localization Coordination Council	6947
 Summit Co-Chair MacDella Cooper	7720
 Supervising Minister of Cooperative Affairs	9876
@@ -1218,7 +1220,7 @@ Support Cooperation and NL	789
 Supreme Court. Cooperation	1333
 Sweden’s Development Cooperation Agency	3274
 Swedish International Development Cooperation	11572
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223
 Swift and Coordinated Response	10776
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development and Cooperation	8456,529,1756,401,818

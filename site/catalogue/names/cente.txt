@@ -121,6 +121,7 @@ BluePeak Medical Center Data Controller INST-70096884DE1	7167
 Brazilian Network Information Center	5615
 Brookings Center For Universal Education	899
 Brookings Institution’s Center for Technology Innovation	5302
+Buhera Bulalimamangwe Bulawayo Centenary Charter Chibi	12511
 Building Data Centers for Africa’s Unique Market	6266
 Busara Center for Behavioral Economics	75,7092
 Business Center	2807,4
@@ -141,7 +142,7 @@ CCTA Talatona Convention Center	6628
 CD Communicable Diseases CDC Center for Disease	12151
 CDC Center for Disease Control and Prevetion CPU	34
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
 CENTENARY MICRO ENTERPRISE SERVICES LIMITED Data	7167
 CENTER BUILD	10861
 CENTER BUILD ASSESSING AFRICAN DATA CENTER	10861
@@ -214,7 +215,7 @@ Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
 Center Digital Government Service	9531
-Center East	12225
+Center East	12500
 Center For Financial Inclusion	11994
 Center For Investigative Journalism	5247
 Center HIV Human Immunodeficiency Virus ICT	12379
@@ -255,7 +256,7 @@ Center for Information and Decision	11969
 Center for Intellectual Property and Information Technology	12210
 Center for International Development	11007
 Center for International Development. PDIA Toolkit	11007
-Center for International Earth Science Information Network	10835,3,130,902,16,466,1
+Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135
 Center for International Governance Innovation	12278
 Center for International Private Enterprise	4750
 Center for Journalism and Liberty	5700
@@ -442,7 +443,7 @@ Epidemiological Data Processing Center	10775
 Equipment for Community Multimedia Centers Refine	2989
 Equipment for Distance Learning Centers	2989
 Equipped Training Center	11863
-Establish AI Centers of Excellence	4528
+Establish AI Centers of Excellence	4528,7984
 Establish E-Waste Collection Centers	1988
 Establish Knowledge Centers	1000
 Establishing Cybercrime Complaint Center	1000
@@ -460,7 +461,7 @@ GHANA DATA CENTER MARKET BRIEFING	3184
 GIZ Ghana Digital Transformation Center	1779
 Gartner Says Electricity Demand for Data Centers	7548
 Gestão de Data Centers	5319
-Ghana Center for Democratic Development	12192,86
+Ghana Center for Democratic Development	12192,86,223
 Ghana. XALAM DATA CENTER MARKET BRIEFING	3184
 Global Center	3654,76,1004,568,965,336,283,347,355,1176,1125,1259
 Global Center for AI Governance	7588
@@ -786,7 +787,7 @@ World Bank and International Center for Research	12188
 World Bank-UNHCR Joint Data Center	10841
 World Data Centers Day	2918
 XALAM DATA CENTER MARKET BRIEFING	3184,1,1340,6256,214
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135
 Yaoundé du Cameroon Digital Innovation Center	2695
 Youth Development Center Data Controller INST-44582650E8E	7167
 Youth Technology Centers	1264

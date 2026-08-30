@@ -64,7 +64,7 @@ Assuntos Políticos	10750
 Assuntos R	539
 Assuntos Religiosos	539
 Assur	11289
-Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805
+Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5,805,568
 Assurance AI	7548
 Assurance Body	7548
 Assurance Body Accelerated	7548
@@ -85,7 +85,7 @@ Assurance Maladie Universelle	4402
 Assurance Moyenne	10965
 Assurance Qualité	11597
 Assurance Qualité des Données	2625
-Assurance Review TASS Performance Assessment Report	12225
+Assurance Review TASS Performance Assessment Report	12500
 Assurance Technologies	7548
 Assurance Training	10123
 Assurance and Standards	899
@@ -112,7 +112,7 @@ Board Audit and Risk Assurance Committee BETA	6946
 Board Member of Africa Merchant Assurance Company	6946
 Britam Life Assurance Data Controller INST-42678342703	7167
 Britam Life Assurance Data Processor INST-42678342703	7167
-C P9-29-1. Assurance	12225
+C P9-29-1. Assurance	12500
 C. Assurance	613
 CANNON LIFE ASSURANCE	7167
 CAPEX LIFE ASSURANCE COMPANY LIMITED Data	7167
@@ -228,8 +228,8 @@ Quality Assurance and Public	6832
 Quality Assurance and Quality Control	4301
 Quality Assurance and Quality Control. The Federal	4301
 Quality Assurance and Quality Management Systems	718
-Quality Assurance and Standards Collaboration	4528
-Quality Assurance and Standards National AI	4528
+Quality Assurance and Standards Collaboration	4528,7984
+Quality Assurance and Standards National AI	4528,7984
 RH A3.2.3.2 Assurer	10858
 RISKS Assumptions	962
 Research Approaches and Assumptions	5349

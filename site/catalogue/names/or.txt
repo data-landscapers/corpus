@@ -200,7 +200,7 @@ Center Integration Orange Expands Global Connectivity	6678,209,414,23
 Central African Republic CBO Community-Based Organization	10829
 Central Bank Order	11131
 Central Bank of Eswatini Order	11131,3
-Central Bank of Swaziland Order	11134,1190
+Central Bank of Swaziland Order	11134,1350
 Central Intelligence Organisation	972
 Centre. Organisée	9512
 Ceo of Orya Technologie	2400
@@ -503,7 +503,7 @@ Fondation Orient-Occident	8891
 Food and Agricultural Organization	11572
 Food and Agriculture Organisation	9136
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349
 Food and Agriculture Organization FBO Faith Based	2775
 Foreign-Based Organizations	2724
 Forest Products OECD Organisation for Economic Co-operation	970
@@ -651,7 +651,7 @@ International Labor Organization	10841,122
 International Labor Organization’s Skills Mismatch Index	4535
 International Labour Organisation	6652,1807,3077
 International Labour Organisation. Statistics	12376
-International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150
+International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132
 International Labour Organization Enterprise Formalization	10823
 International Monetary Fund OECD Organisation for Economic	11286
 International Organisation	961
@@ -723,7 +723,7 @@ LINU Call for Constitutional Order	10405
 LTA Regulations and Orders	10407
 LUCH. CAMBIO ORDEN. PESQUERA GANADERÍA	4209
 Labour Organisation IMF International Monetary Fund	2775
-Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1
+Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135
 Lagos. Organised	10290
 Latin American Energy Organization	11572
 Law and Order	2775
@@ -768,8 +768,8 @@ MANSA BANK NSIA BANQUE ORABANK ORANGE	11588
 MARKET PRICE OF THE ORDINARY SHARES	7198
 MATERIAL CHANGES SINCE THE ORIGINAL PRE-LISTING	5538
 MENER PERIODE DE SPECIFIQUES REALISATION ORIENTATION	10712
-MOR Organizational Structure Performance Assessment Report	12225
-MOR's Organizational Risk and Ethics Directorate	12225
+MOR Organizational Structure Performance Assessment Report	12500
+MOR's Organizational Risk and Ethics Directorate	12500
 MORERI SEJAKGOMO Orange Money	5795
 MPA Program Development Objective Original MPA	2712,3867
 MTN Cameroon and Orange Cameroon	6556
@@ -848,6 +848,7 @@ N ORGANISATION	11857
 NATO North Atlantic Treaty Organization CSA	6936
 NGO Non-Governmental Organisation NPA National Prosecuting	11188
 NGO Non-Governmental Organization NPV Net Present	969
+NGO Non-Governmental Organization NUST National University	12512
 NGO Non-governmental Organisation NRCS National Regulator	11198
 NGO Non-governmental Organization NOSi Information Society	11863
 NGO Nongovernmental Organization NHDP III Third	10829
@@ -1292,7 +1293,7 @@ Orange and Safaricom	4150
 Orange and Vodacom	2278,1697,175,2006,437,5439
 Orange and Vodafone	10861
 Orange and Weast	11923
-Orange and Zenysis. Page	12418
+Orange and Zenysis. Page	12502
 Orange and Zenysis. Zimbabwe Digital Health Case	3385
 Orange de Régulation	10965
 Orange's Africa	7417
@@ -1482,7 +1483,7 @@ Organigrama da Unidade de Implementação	11390
 Organigramme	10975
 Organisaon	9128
 Organisaonal	9129
-Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262
+Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262,126
 Organisation Ashaari	9128
 Organisation Budget	8726,408,140
 Organisation Internationale	5982,107,2802,1983
@@ -1531,6 +1532,7 @@ Organisational Policy	11956
 Organisational Profile	9198
 Organisational Readiness	11222
 Organisational Structure	11224
+Organisational Structure Service Charter	12515
 Organisationnel	9406
 Organisationnels	748
 Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35
@@ -1630,7 +1632,7 @@ Organizational Principles Principle	11860
 Organizational Strength	11231
 Organizational Structure	3678,1987,6486
 Organizational Structure KSA	1131
-Organizational Structure MOR Performance Assessment Report	12225
+Organizational Structure MOR Performance Assessment Report	12500
 Organizational Structure and Governance	3678
 Organizational Structure and Governance Framework Report	3678
 Organizational Structure of Civil Registration	12151
@@ -1669,7 +1671,7 @@ Organizações Não-Governamentais	11449
 Organizações da Sociedade	10752
 Organizações da Sociedade Civil	11569
 Organizações da Sociedade Civil PDCT	11387
-Organize	1000,204,610,71,1719,522,402,1149,1270,1599,3810
+Organize	1000,204,610,71,1719,522,402,1149,1270,1599,3810,156
 Organize AI	12356
 Organize Blockchain Technology	12241
 Organize Launch	12241
@@ -1682,7 +1684,7 @@ Organizers	5608,5,1334,695,84,3592
 Organizing	1796,1413,2711,3317,1842
 Organizing Logic of Digital Innovation	5700
 Organizing and Distributing Tax Information	1793,1413,3881
-Organogram	408,4120,4909,1815,1050,43
+Organogram	408,4120,4909,1815,1050,43,167
 Organograma Até	11456
 Organs	11201
 Organs and Institutions	11806
@@ -1936,7 +1938,7 @@ Professional Orientation	10963,1
 Programação Orientada	12019
 Programme WIPO World Intellectual Property Organization	7548
 Project Results Indicator Baseline Original Revised	11924
-Proposed Organogram	4528
+Proposed Organogram	4528,7984
 Proposta de Arquitectura Organizacional	11456
 Proposta de Arquitetura Organizacional	11456
 Provider MW Megawatts OEM Original Equipment	10861
@@ -2045,8 +2047,9 @@ Scientific and Cultural Organisation	6211,2895,96,553,748,637,1035
 Scientific and Cultural Organisation UNESCO-IIEP	12175
 Scientific and Cultural Organisation WEF World Economic	1814
 Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39
-Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1
+Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNWTO United Nations	2775
+Scientific and Cultural Organization USA United States	12512
 Scientific and Cultural Organization USAC Universal Service	6946
 Scientific and Cultural Organization UniLurio	2816
 Scientific and Cultural Organization United Nations Children	11156
@@ -2070,6 +2073,7 @@ Service Delivery and Organisational Environment Statistics	11250
 Service Orientation and Modularity	958
 Service Oriented Architecture	11371
 Service and Ordinary. The EAC	12164
+Services For Entrepreneurs For Organizations Tech	12493
 Services Oriented Architecture	11371
 Serviços Orientados	11394
 Ses Hautes Orientations	8891
@@ -2218,7 +2222,7 @@ Unidad de Orientación Profesional	4209
 Unidade Orçamental	3606,1
 Unify Digital Identity Services Orange Refurbished	7301
 United Nations Food and Agriculture Organization19	10763
-United Nations Industrial Development Organization	7642,3327,603,312,11,264,46
+United Nations Industrial Development Organization	7642,3327,603,312,11,264,46,282
 United Nations Organisation	11517
 United Nations System Organization	1243
 United Nations System Organizations	1243
@@ -2260,7 +2264,7 @@ World AI Cooperation Organisation	7979,229
 World AI Cooperation Organization	7962,666,262
 World Artificial Intelligence Cooperation Organisation	9938,601
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147
-World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1
+World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
 World Bank Group. World Health Organization	12240
 World Bank and World Health Organization	1261
 World Cup Distribution Through Orange Deal	3437,3942,47
@@ -2269,9 +2273,9 @@ World Customs Organization	4827,4266,1630
 World Customs Organization and IATA	10360
 World Health Organisation	21,937,1668,4695,1293,756,1452,342,31,310,470,226,39,173
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95
 World Health Organization Every	10881
-World Health Organization FFP Fund	10835,3,130,902,16,466,1
+World Health Organization FFP Fund	10835,3,130,902,16,466,1,135
 World Health Organization Maturity Level	6594
 World Health Organization Recommendations	10881
 World Health Organization Regional Office	876,10720
@@ -2304,7 +2308,7 @@ World Health Organization’s Global Strategy	10865
 World Health Organization’s International Health	9718
 World Health Orgnization	8376
 World Intellectual Property Organisation	961
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111
 World Intellectual Property Organization Copyright Treaty	11550
 World Meteorological Organisations’ State	1814
 World Meteorological Organization	9766,1787
@@ -2317,7 +2321,7 @@ World Trade Organisation Southern African Development	12454
 World Trade Organisation.1.1.3. A National Dialogue	2626
 World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655
 World Trade Organization Agreement	11550
-World Trade Organization Global Services Trade	11884,275
+World Trade Organization Global Services Trade	11884,275,328
 World Trade Organization Infor	11550
 World Trade Organization Technical Barriers	1988
 World Trade Organization and United	10969
@@ -2330,4 +2334,6 @@ Y ORIENT. LABO.- Conc4epto.-	4209
 Yamoussoukro. Organisée	4170
 Yaoundé. Organisé	3138
 Yaoundé. Organized	11697
+ZIPIT Zimbabwe Origin	12490
+Zimbabwe Council of Churches Organizations	12512
 Zimbabwe Organization. Zimbabwe Organization Organization	6666

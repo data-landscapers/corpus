@@ -17,7 +17,7 @@ Abuja Former Vice President and African Democratic	9400
 Access deMfailacwiits	11572
 Accessible and Democratic Digital Futures	12104
 Account Holder Demographic Data	11685
-Adaptive Governance and Democratic Accountability	4528
+Adaptive Governance and Democratic Accountability	4528,7984
 Afghanistan Democracy and Development Organization	9082
 Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
 Africa. The Democratic Republic of Congo	6938
@@ -44,7 +44,7 @@ Broken Promise of American Democracy. Princeton	2096
 Bus Drivers Demand Tougher Road Safety	6077
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
 CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1,135
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 CHILDREN DEMANDE REJETEE	998
 COUNTRY CONTEXT The Democratic Republic	11960
@@ -85,7 +85,7 @@ Consumption of LPG Demand for LPG	12256
 Continent’s Demographic Advantage Africa	6690
 Controlling Person Demographic Data. The Reporting	11685
 Council of Patriots for Democracy	6122
-Country Snapshot Geography The Federal Democratic	12225
+Country Snapshot Geography The Federal Democratic	12500
 Current Demand-linkage	7548
 DATA CONSUMPTION AND BROADBAND DEMAND	5245
 DATA DEMAND	961
@@ -168,6 +168,7 @@ Demand for Digital Skills	3604,8275,454
 Demand for Mobile Broadband Infrastructure	4896
 Demand for Spectrum	5245
 Demand for Starlink	1979
+Demand-Driven Phased Economic Risks Analysis	12512
 Demand-Driven Phased Rollout	4528
 Demand-Side Analysis	11195
 Demand-Side Assessment	9781
@@ -222,12 +223,12 @@ Demobilization and Reintegration Commission	3583
 Democr	12201
 Democracia	2816,8190,387,39,769
 Democracia Digital	11393
-Democracy	2096,1487,3568,301,1408,127,80,145,15,189,136,127,409,365,312,10,253,107,19,1047
+Democracy	2096,1487,3568,301,1408,127,80,145,15,189,136,127,409,365,312,10,253,107,19,1047,300
 Democracy Affairs	12288
 Democracy Day	11857
 Democracy Discourse Index	11682
 Democracy Index	2690
-Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16,466,1
+Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16,466,1,135
 Democracy Report	1016
 Democracy Strengthening	12415
 Democracy and Development	5825
@@ -249,7 +250,7 @@ Democratic Alliance Coalition	12201
 Democratic Centre for Democracy and Human Rights CC	12201
 Democratic Climate Financial	970
 Democratic Deficit	7147
-Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1
+Democratic Elections	10759,76,2,1,130,902,16,1,1,1,264,1,9,38,139,1,11,1,135
 Democratic Elections Deliberative	10759,78,1315,188
 Democratic Erosion	11028
 Democratic Federal Trade Commission	8921
@@ -340,6 +341,7 @@ Demographic Health Surveys	10777
 Demographic Patterns of Account Ownership	1828
 Demographic Profile	12151
 Demographic Studies	3437
+Demographic Trends Around the Globe	12486
 Demographic Yearbook	12138
 Demographic and Biometric	12146
 Demographic and Biometric Data	12146
@@ -349,6 +351,7 @@ Demographic and Health and Multi-Indicator Cluster	11907
 Demographic and Household Survey	10829
 Demographic and Population Statistics	11237
 Demographics	2477,298,1948,185,373,40,1887,661,4322,192,26
+Demographics Education Employment Housing Land	12498
 Demographics Officials	7230
 Demographics Query Patient Demographics Query	1009
 Demographics The Bank of Ghana	4905
@@ -369,13 +372,13 @@ Demonstrate	9604,1171,358,9,110,48
 Demonstrated	3678,2225,1248,2452,2797
 Demonstrated Global Capacity Certificate	10975
 Demonstrated Increased	12210
-Demonstrates	3791,49,290,398
+Demonstrates	3791,49,290,398,7984
 Demonstrating	1580,2071,271,7048,161
 Demonstration	11252,1148
 Demonstrations	4175,8127
 Demonstração	2816,8561
 Demonstração da Orientação	11430
-Demos Kyriacou	2986,2643,393,6282
+Demos Kyriacou	2986,2643,393
 Demotivation	12246
 Dempsey	7278
 Demshi	6638
@@ -444,7 +447,7 @@ GABON OF THE TSHUAPA The Democratic	11900
 Gambia Democratic Congress	10062
 Gartner Says Electricity Demand for Data Centers	7548
 Gender Equality Policy P13 Demand Drivers	11857
-Ghana Center for Democratic Development	12192,86
+Ghana Center for Democratic Development	12192,86,223
 Global Center for Rehumanizing Democracy	11682
 Global Center for Rehumanizing Democracy. Patrice Habinshuti	11682
 Global Centre for Rehumanising Democracy	11682
@@ -645,6 +648,7 @@ SMEs' Demand for Trade Finance	10718
 SUD-UBANGI DEMOCRATIC REPUBLIC OF MONGALA ITURI	11900
 Saifodine Dirce Dembele Aderito Nhantumbo Jorge	2989
 Score Demonstrate	11252
+Section Demographic Trends Around the Globe	12486
 Security and Democracy	5487,1163,1035
 Security and Democracy Henna Virkkunen	6468
 Segunda Encuesta Demografía	4209
@@ -699,3 +703,4 @@ Youthful Demographics	12356
 Zeepay's DEMI	7325
 Zimbabwe Demographic	970
 Zimbabwe Demographic and Health Survey	21,3226,27
+Zimbabwe Demographic and Health Survey. Trends	12486

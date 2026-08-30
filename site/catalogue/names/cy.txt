@@ -3,6 +3,7 @@ A.246 Cybersecurity	3887
 ACK GOOD SHEPHERD KOMOLORUME CYDC Data	7167
 ACP Countries Computer Crime and Cybercrime	26
 ADILI CYBER SERVICES LIMITED Data Controller	7167
+AI Cybersecurity Ethics	12512
 AI Data Cybersecurity Digital	9886
 AI Hype Cycle	2816
 AI and Cybercrimes Act	7548
@@ -306,14 +307,14 @@ Conseil National de Cybersécurité	4255
 Contemporary African Cyberthreat Landscape	6426
 Content and Cybersecurity Access Features Awareness	1777
 Contents THE NATIONAL CYBERSECURITY STRATEGY	1000
-Continuous Cycle The M&E	4528
+Continuous Cycle The M&E	4528,7984
 Controversial Cybercrime Act	7447
 Cost of Ownership and Life Cycle Cost	12389
 Costa Rica Global Cybersecurity Index	10764
 Council of Ministers. PART FOUR CYBERSECURITY SERVICE	7538
 Councillor Cyril Xaba	11275
 Country Profiles Africa Angola Global Cybersecurity	10764
-Courier Services Private Bag CY419	4528
+Courier Services Private Bag CY419	4528,7984
 Creating Information Cycle	11866
 Critical Infrastructure Cyber Security Fund	7538
 Critical Infrastructure Cybersecurity Fund	9306,1
@@ -327,7 +328,7 @@ Cyahinda Kigembe Mukindo Kigarama	12413
 Cyan EA	5408
 Cyanre	9678
 Cyanzarwe Bigogwe Busengo Gakenke Base Rukozo	12413
-Cybastion	2149,8,1,711,224,4,28,9,98,82,228,62,4,18,160,686,293,1078,57,31,489,226,283,415,86,1046,1044,101,637,1450
+Cybastion	2149,8,1,711,224,4,28,9,98,82,228,62,4,18,160,686,293,1078,57,31,489,226,283,415,86,1046,1044,101,637,1450,809
 Cybastion Drives Côte	3608
 Cybastion Institute of Technology	2158,1324,4
 Cybastion MoU	2251
@@ -530,10 +531,11 @@ Cyber Vulnerabilities Recent	2117
 Cyber War. Microsoft	11310
 Cyber Workforce USAID	727
 Cyber Zone	3976
-Cyber and Data Protection	1877,1110,143,1398,1034,3689,736,181
-Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96,1509
+Cyber and Data Protection	1877,1110,143,1398,1034,3689,736,181,2344
+Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96,1509,835
 Cyber and Data Protection Act. Under Statutory	8437
 Cyber and Data Protection Regulations	6181
+Cyber and Data for Higher and Tertiary Education. Harare	12512
 Cyber and Digital Diplomacy	8982,376
 Cyber and Digital Statecraft for Nigeria's Foreign Policy	8982
 Cyber and Information Security Directive	7341
@@ -735,7 +737,7 @@ Cybersecurity Initiatives. Foreign Affairs	1777
 Cybersecurity Inspection and Evaluation	7538
 Cybersecurity Landscape	6671
 Cybersecurity Landscape Indicator	6671
-Cybersecurity Law	4810,528,332,956,1444,207,1223,850,1851,93
+Cybersecurity Law	4810,528,332,956,1444,207,1223,850,1851,93,219
 Cybersecurity Law and Cybercrime Law	10141,160
 Cybersecurity Mag Africa	1799
 Cybersecurity Management	1535
@@ -810,7 +812,7 @@ Cybersecurity Units. Part III	4610
 Cybersecurity White House	9629
 Cybersecurity Working Group	5677
 Cybersecurity and AI Forum	3029
-Cybersecurity and AI Safety Zimbabwe	4528
+Cybersecurity and AI Safety Zimbabwe	4528,7984
 Cybersecurity and Computer Misuse Bill	4082,161
 Cybersecurity and Crime Act	10674
 Cybersecurity and Cyber Crimes Act	1161
@@ -842,7 +844,7 @@ Cybersecurity and Personal Data Protection. Ambassador Wang	3029
 Cybersecurity and Personal Data Protection. Regarding	12201
 Cybersecurity and Personal Data Protection. The Framework	961
 Cybersecurity and Protection of Personal Data	10819
-Cybersecurity for AI Systems	4528
+Cybersecurity for AI Systems	4528,7984
 Cybersecurity for Financial Institutions No	12390
 Cybersecurity of Critical Infrastructure	9306
 Cybersecurity-	1000
@@ -911,7 +913,7 @@ Cynthia Lesufi	7793
 Cynthia Wafula	6946
 Cyprien Cheval The Republic of Congo	11897
 Cyprien K	10471
-Cyprus	347,1471,907,632,515,1681,1060,37,173,3891,50,21,61,763,616
+Cyprus	347,1471,907,632,515,1681,1060,37,173,3891,50,21,61,763,891
 Cyprus Broadband Plan Czech Republic	11529
 Cyprus Denmark Estonia Finland France Germany	10764
 Cyprus Presidency	10088
@@ -1399,7 +1401,7 @@ National Cyber Security Policy and Strategy	1889
 National Cyber Security Strategy	318,6460,4133
 National Cyber Space Landscape	6671
 National Cyber Strategy	1000,9446
-National Cyber and Data Protection Act for AI-specific	4528
+National Cyber and Data Protection Act for AI-specific	4528,7984
 National Cyber and Digital Awareness Month. Implement	1777
 National Cyber-Security Steering Committee	7447
 National Cyber-Security Task Force	7447
@@ -1647,6 +1649,7 @@ Solomon Islands Global Cybersecurity Index	10764
 Somalia Cybersecurity Act	7575
 Somalia Launches National Cybersecurity Risk Management	7575
 Somalia Strengthens Cyber Defenses With Launch	5338
+Somalia's Cybersecurity Law	12513
 South Africa President Cyril Ramaphosa	11226
 South Africa. President Cyril Ramaphosa	5161
 South African President Cyril	1997
@@ -1771,6 +1774,7 @@ Zambia’s Cyber Crimes Act No	9416
 Zambia’s Cyber Security Act No	9416
 Zim Cyber City	8943
 Zimbabwe TN CyberTech Bank Limited	4896
+Zimbabwe's AI Strategy Data Governance Cyber	12512
 Zimbabwe's Cyber City	8943
 Zimbabwe's Cyber and Data Protection Act	3130,6857
 Zimbabwe’s AI and Cyber Conference	7780

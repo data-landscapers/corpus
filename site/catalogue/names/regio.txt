@@ -131,7 +131,7 @@ CEMAC's Regional Financial Inclusion Strategy	4240
 CENORED Central Northern Regional Electricity Distributor	12399
 CII-EXIM Bank Regional Conclave	11579
 CIS Regions	6946
-CIT DARS African Regional Technical Assistance	12225
+CIT DARS African Regional Technical Assistance	12500
 COLLABORATiNG WiTH REGiONAL AND GLOBAL GOVERNANCE	961
 COMESA Regional AI Strategy	7261
 COMESA Regional Artificial Intelligence	9182
@@ -162,7 +162,7 @@ Central River Region-North	12085
 Central River Region-South	11716,369
 Central and Ahafo Regions	7695
 Central-Northern Regional Electricity Distribution Company	12399
-Centre E.C. African Regional Technical Assistance	12225
+Centre E.C. African Regional Technical Assistance	12500
 Centre for African Regional Integration and Border Studies	11319
 Centro Regional de Estudos	2816
 Champion Regional Coordination	12444
@@ -334,7 +334,7 @@ Explicitly Regional Ambition NITDA	10424
 FARMACIAS Y SIMILARES CAPITALES DE REGIONES	4209
 Far North Region	6131
 Federal Ministry of Regional Development	11469
-Federal and Regional	12225
+Federal and Regional	12500
 FiTI Regional Coordinator for Anglophone Africa	10112
 FinMark Trust CEO Brendan Pearce. Regional	3484
 Finance and Greater Regional Integration	1046
@@ -516,8 +516,8 @@ Ministry of Regional	12325
 Ministry of Regional Administration and Decentralization	10841
 Ministry of Regional Integration	3238
 Ministry of Regional Local Government and Housing	12325
-Ministry of Revenues POA Ministry of Trade and Regional	12225
-Ministry of Trade and Regional Integration	10709,1516,34
+Ministry of Revenues POA Ministry of Trade and Regional	12500
+Ministry of Trade and Regional Integration	10709,1550,241
 Mme. Stephanie Ngongo Regional Programme Manager	11916
 Modelling and Guidance Products Regional	11191
 Monetary Union WARCIP West Africa Regional	1264
@@ -538,7 +538,7 @@ National Council of Regions and Districts	7766
 National National National National Regional Regional	6938
 National Regional	12297
 National Regional Regional Regional Regional National	6938
-National and Regional AI Strategies	4528
+National and Regional AI Strategies	4528,7984
 National and Regional Foreign Policies. Associated Actions	1814
 Natural Regions	520
 Ndiame Diop Regional Practice Director	3562,2977
@@ -591,6 +591,7 @@ P7 Regional Integration	6937
 PAR PROVINCE REGIONS	10847
 PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
 PILLAR VII INCREASED REGIONAL INTEGRATION Current	12399
+PM Bulawayo Office Regional Office	12511
 PONI Total Regions	10847
 PROFESIONAL REGIONAL	4209
 PROGRAMA REGIONAL DE INTEGRAÇÃO DIGITAL	11555
@@ -600,6 +601,7 @@ PROVINCES NOMS DES REGIONS	10847
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL TOTAL REGIONAL	4209
 PS4R Private Sector for Refugees REC Regional	10841
 PT. Perkebunan Nusantara IV Regional III	4432
+Partners Our Key Regional Links Take	12515
 Pemba North and South Regions and North Unguja	11133
 Period Region Jan-Mar	6671
 Personal Information Act VII RCEP Regional	1243
@@ -667,7 +669,7 @@ Real GDP Growths of Various Africa Regions	2775
 Recommendations for WATRA and Regional Institutions	5676
 Recommendations for WATRA and Regional Institutions WATRA	5676
 Rede Regional	11527
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4,242,24,146,90,55,28,314,3,11,1,4,1,2,6,10,30,211,7,1,6,3,13,23,2,3,22,30,84,1,11,1,12,8,10,17,9,3,14,22,40
 Region AFR	10785
 Region Action Plan For Reviews and Life	8999
 Region Africa Sub-region Middle Africa Population	11470
@@ -684,6 +686,7 @@ Region Operation ID Operation Name P508383	3456
 Region Operational	3386
 Region Prefecture Health Districts Population	10829
 Region SSA	12355
+Region SSA Population	12487
 Region SSA Score	12351
 Region Sud-Ouest	737
 Region Top Segments	8727
@@ -705,7 +708,7 @@ Region. FMOH	1219
 Region. Prime Minister Modi	11183
 Regionai Oo Report	3972
 Regionais	2816,8619,79
-Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,50,2,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87,37,28,2,127,1,2,13,42,71,9,146,3,80,24,39,9,14,245,26,10,7,5,2,24,15,32,12,187,34,7,33,1,7,45,47,21,4,17,16,16
+Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,50,2,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87,37,28,2,127,1,2,13,42,71,9,146,3,80,24,39,9,14,245,26,10,7,5,2,24,15,32,12,187,34,7,34,7,45,47,21,4,17,16,16,101,1,11
 Regional AI	6948
 Regional AI Governance Framework	4738
 Regional AI Strategy	8995,187
@@ -862,7 +865,7 @@ Regional Fragmentation	6051
 Regional Framework	11400
 Regional Framework for Trusted Cross Border Data	8426
 Regional GER	12199
-Regional Governance and Cooperation Zimbabwe	4528
+Regional Governance and Cooperation Zimbabwe	4528,7984
 Regional Government	12146,39
 Regional Governments	5655,5630
 Regional Grid Strengthening Activity	87
@@ -892,7 +895,7 @@ Regional Institute for Population Studies	9312
 Regional Institutions	961
 Regional Instrument Centre	11553
 Regional Insurance Supervisory Commission	6938
-Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1
+Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74,56,581,321,16,2,1,16,247,1,1,9,177,1,11,1,135
 Regional Integration And Inclusion	10909
 Regional Integration Division	10634
 Regional Integration Economic Diversification Business	10837,1315,188
@@ -1162,6 +1165,7 @@ Sovereign Cloud Region Government Summit	8261
 Soweto Regional Home Affairs Office	3435
 Specialized Regional Meteorological Centres	11420
 Srenphonee Regional Courier	9781
+Stakeholder Satisfaction Regional Institutions Our Key	12515
 State Minister of Trade and Regional Integration	12259
 Strategic Sovereignty and Regional Leadership Global	7548
 Strengthen Regional Connectivity The Blue Raman	6554
@@ -1247,7 +1251,6 @@ Western Africa Regional Digital Integration Program	1175,2,1,1,1,1,1,95,4085,33,
 Western Africa. ECOWAS Regional Communications. Toward	1264
 Western Cape Region Current Service Delivery	8999
 Western Region	2776,4919,4561
-Western and Central Africa Region	2780
 Western and Central Africa Regional	1264
 World Bank Africa Region	3763,14
 World Bank Digital and AI Regional	5400
@@ -1272,4 +1275,5 @@ Year Value Indicator Name Regional	6928
 ZIMRA Regional Manager for Domestic Taxes Region	10019
 ZONDOMA Total Regions	10847
 Zambia Region	2291
+Zimbabwe Share Close FAO Regional Office	12507
 Zimbabwe’s Regional Data Transmission Hubs	7036

@@ -33,6 +33,7 @@ Agence Nationale de Traitement	10821
 Agricultural Training Courses	2775
 Algerian Ministry of Vocational Training and Education	5952
 Aligning ICT Skills Training	12214
+Alternative Energy Trained Solar PV System	12515
 Ambassadors Training	7101
 Annual Training	11134
 Annual Training and Competency Certification Roster Annex	3861
@@ -174,6 +175,7 @@ Digital Literacy Training Programme	5533
 Digital Literacy Training and Awareness D-8 Digital	11857
 Digital Skills Training Programme	7182,5271
 Digital Training Center	5453
+Digital Training Is Creating Real	12493
 Digital and Soft Skills Training	11863
 Digitise Teacher Training	9783
 Dignity Training Eswatini Payment Switch Soft	11131
@@ -239,6 +241,7 @@ Eswatini. Training Consumer Education	11131
 European Journal of Training and Development	4432
 Exchange Control Regulations and Compliance Trained Nedbank	11131
 Executive Services Traitement	10821
+Expert Systems Training	12512
 FECECAM-Bénin Traitement	10821
 FLASH AFRIQUE Traitement	10821
 FORMALITES PREALABLES AUX TRAITEMENTS DES DONNEES	10825
@@ -290,6 +293,7 @@ Higher Education and Training	9128,1266,909,637
 Higher Education and Training DHS Department of Human	11261
 Higher Education and Training Management Information System	11303
 House of Training	10237
+Human Resource Constraints Training Gaps	12508
 Hôtel du Lac Traitement	10821
 ICA and NIRA Launch Training	10521
 ICT Training Centres	11857
@@ -311,11 +315,12 @@ Inhambane. This Training of Trainers	12207
 Innovation B3-No of Training Institutions Involved	7548
 Installation of Facilities Equipment's and Training	8166
 Installation of Facilities Equipments and Training	8166
+Installers Trained Biogas Installers Research	12515
 Institute of Employment and Professional Training	11855
 Institutional Setup Training	3861
 Institutions Training Program for PIU and Stakeholders Days	12253
 Insurance Sector Education and Training Authority IoT	6832
-Internal Audit Training Program	12225
+Internal Audit Training Program	12500
 International Regional Training Centre	1988
 International Training Centre	11017
 Investor Matching and Business Training	12376
@@ -389,13 +394,14 @@ Mobile Internet Skills Training Toolkit. Mobile	11017
 Mobile Training Units	7021
 Mont Sinaï Sarl Traitement	10821
 Months Training and Hand Over	11869
-Mushagashe Vocational Training College	4528
+Mushagashe Vocational Training College	4528,7984
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
 NTA National Training Authority NUST Namibia	12399
 National Centre of Excellence for Cybersecurity Training	1000
 National Female Pre-Tech Training Programme	4126
 National ICT Training Program	5244
 National Institute of Employment and Professional Training	10768
+National Media Training	12506
 National Training School for Social Service Technicians	10768
 Nautilus Technology Traitement	10821
 Nigeria's Technical and Vocational Education and Training	9755
@@ -453,9 +459,9 @@ Providing Trainings	12445
 Providing Trainings Industry Finance Education Health	12445
 Providing Trainings Micro	12445
 Public Access Centre and Training Centre	11287
-Public Resilience Training	4528
+Public Resilience Training	4528,7984
 Public Secondary Schools and Teachers Training Colleges	2775
-Public Sector Training Lead	4528
+Public Sector Training Lead	4528,7984
 Public Service Training College	7182
 Public Summary of Training Content for GPAI	8529
 Quantumnet Training Centre	6008
@@ -559,7 +565,7 @@ TVET Trainers	2775
 Target Group Trainin	12253
 Teacher Trainee Allowance	7695
 Teacher Trainees Enrolment	2775
-Teacher Training	899,2090,1539,3020,4863
+Teacher Training	899,2090,1539,3020,4863,101
 Teacher Training College	11905
 Teacher Training College TWG	12175
 Teacher Training Colleges	383,6821,5207
@@ -591,7 +597,7 @@ Trail	11129
 Trailing	3986,1779,962,998,508,212,58
 Trailing Airtel	5802
 Trails Audit	11153
-Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144,99,169,119,611,390,103,88,9
+Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144,99,169,119,611,390,103,88,9,59
 Train EMR	11252
 Train ENEO and ARSEL	10975
 Train ICT	1000
@@ -609,9 +615,11 @@ Trainer SunHo Sin	10219
 Trainer of Trainers	11018,68
 Trainer-of-Trainers	7990
 Trainers	4217,2615,716
-Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76,32,56,26,184,69,3,6,28,8,1,10,9,2,13,1,11,3,1,30,4,5,13,82,51,60,9,2,22,6,1,12,49,8,15,31,2,15,3,23,10,31,5,13,20
+Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76,32,56,26,184,69,3,6,28,8,1,10,9,2,13,1,11,3,1,30,4,5,13,82,51,60,9,2,22,6,1,12,49,8,15,31,2,15,3,23,10,31,5,13,20,30,4
+Training Acceleration Implement	12508
 Training Accreditation	1877
 Training Activity	12253
+Training Adaptations Peer-to-peer	12508
 Training African	5302
 Training All NEMIS	11860
 Training And Research In Kenya	899
@@ -635,7 +643,7 @@ Training Contractor Weekly	12253
 Training Cost	11314
 Training Curriculum	11863
 Training Data	7548
-Training Dataset	4528
+Training Dataset	4528,7984
 Training Documentatio	11952
 Training Educators for Digital Competence	11927
 Training Emerging Technologies Technologies	7548
@@ -646,9 +654,11 @@ Training Institution Information System	1261
 Training Institutions Information System Adopt	12453
 Training Institutions MLNR	12453
 Training Institutions and Academia	12453
+Training Is Creating Real Economic Opportunities	12493
 Training Jobs	4126
 Training Mandatory Quarterly Building	11952
 Training Mentoring Technica	12376
+Training Model Limitations	12508
 Training NDP	6832
 Training NISR National Institute of Statistics Rwanda	12329
 Training Needs Assessment	6946
@@ -683,6 +693,7 @@ Training and Equipment	12373
 Training and Hand Over	11869
 Training and Handover	11869
 Training and Human Resources	12325
+Training and Integration	12499
 Training and Job BMZ	457
 Training and Job Creation	455
 Training and Job Creation Crosswalk	455

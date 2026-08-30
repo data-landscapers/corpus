@@ -107,6 +107,7 @@ Automated Core Processor. Given	11986
 Automated Corporate Support Services Assumptions NA	11986
 Automated Corporate Support Services Target	11986
 Automated Customer Engagement	7334
+Automated Data Streams	12512
 Automated Decision	7548
 Automated Decision Making	8436,3520
 Automated Decision-Making	7548
@@ -148,6 +149,7 @@ Automated Transfer and Settlement System	10845
 Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
 Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22
+Automatic Credit and Debit Notes Management	12509
 Automatic Data Processing	972
 Automatic Exchange of Customs Information	9745
 Automatic Exchange of Financial Account Information	11233
@@ -155,6 +157,7 @@ Automatic Exchange of Information	11685
 Automatic Exchange of Information BRS AEOI	11685
 Automatic Fee Waiver	5574
 Automatic Fingerprint Identification System	12378
+Automatic Input Tax Schedule for Fiscal Tax	12509
 Automatic Meter Reading	8428
 Automatic Number Plate Recognition	10603
 Automatic Payment	11955
@@ -169,7 +172,7 @@ Automaticmapping	8606
 Automating	8436,409,392,1919,750,327,136
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -654,7 +657,7 @@ Strategic Autonomy	4430
 Subject Contract Duration Automatic Renewal Service	5676
 Sustainability and Autonomy Closely	6947
 Swaziland Automated Electronic Clear-	6938
-Swaziland Automated Electronic Clearing House	12324
+Swaziland Automated Electronic Clearing House	12484
 System CCV Computer Coded Verbal Autopsy	12413
 Système Interbancaire de Compensation Automatisé	10922
 Système de Gros Montants Automatisé	969

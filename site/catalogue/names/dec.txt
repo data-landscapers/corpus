@@ -136,7 +136,7 @@ Cost Proposal and Price Declaration Form	11209
 Cotonou Declaration	6997
 Council of Ministers Decree	12201
 Código da Estrada. Decreto-Lei	11983
-D. Filing of Tax Declarations	12225
+D. Filing of Tax Declarations	12500
 DAI Decentralised Stablecoin	8590
 DAO Decentralised Autonomous Organisation	8590
 DE LA DECENTRALISATION Gouverneur	8237
@@ -269,7 +269,7 @@ Dec.1144	961
 Dec.952	5825
 Dec.966	5825
 Decacorn	11994
-Decade	12278
+Decade	12278,223
 Decade of Action	11285
 Decade of Action for Sustainable Development	10840
 Decade of Economic Impact	9350
@@ -278,8 +278,9 @@ Decade of Innovation	4126
 Decades	4300,3621,2806
 Decades of Connection	12104
 Decastro95	12478
-Deceased	2775,9418,180
+Deceased	2775,9418,180,123
 Deceased Taxpayer	4449
+Deceased. The Ministry of Foreign Affairs	12496
 Decem	4775
 Decem-	2775,4171
 December-2022	1154
@@ -290,12 +291,12 @@ December2026	7931
 December’s	4725
 DecembreDécembre	10826
 Decent	789,4457,1958,4659
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Decent Housing Absence of Armed Conflict	10838
 Decent Life	1902,2146,3349,2227,2114
 Decent Work	226,6386,1,489
 Decent Work and Economic	11855
-Decent Work and Economic Growth	5883
+Decent Work and Economic Growth	5883,6610
 Decent Work and Economic Growth Goal	11332
 Decentralisation	970,584,7981,2790
 Decentralisation Extension Programme	12325
@@ -337,7 +338,7 @@ Deciphering Ethiopia	3176
 Decis	766,453,42,2530
 Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112
 Decision Advantage	10566
-Decision Authority	4528,3755
+Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
 Decision Intelligence	5513
 Decision Letter	1988
@@ -362,7 +363,7 @@ Decision-provenance	7451
 Decision-support	10881
 Decision. H. ORDERS	5113
 Decision. Personal Data	5113
-Decisions	11,707,756,514,970,903,563,10,80,494,477,2481,414,47,810,162,283,28,167,82,99,761,1181,90,95,85,119
+Decisions	11,707,756,514,970,903,563,10,80,494,477,2481,414,47,810,162,283,28,167,82,99,761,1181,90,95,85,119,101
 Decisions The Building Resilient Digital Infrastructure	7877
 Decisão	795,1642,2732,2076,2869,641,610,18,23,55,67,491
 Decisão Final	11898
@@ -379,7 +380,7 @@ Declarada	11443
 Declarado	11538
 Declarant	12226
 Declarar	10783,668,7,443
-Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41
+Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16
 Declaration and Authorization	6432
 Declaration and Denarau Action Plan	940
 Declaration of Compliance	12393
@@ -391,14 +392,14 @@ Declaration of Human Rights	3861,8477
 Declaration of Intent	6988
 Declaration of Interests	12400
 Declaration of Interests and Assets	1554
-Declaration of Our Future Zimbabwe	4528
+Declaration of Our Future Zimbabwe	4528,7984
 Declaration of Partner Details	11276
 Declaration of Principles	9082,578,1069,366,1106
 Declaration of Rights	958,14
 Declaration--	1223
-Declarations	766,5,490,2046,484,2112,149,1060,747,3125,781,460,30
-Declarations P6-19. Scope	12225
-Declarations Tax	12225
+Declarations	766,5,490,2046,484,2112,149,1060,747,3125,781,490,245
+Declarations P6-19. Scope	12500
+Declarations Tax	12500
 Declaratory	12338
 Declaração	2816,3646,1717,3183,57,11,5,10,11,2,14,46,2,42,339,117
 Declaração Africana	3519
@@ -434,6 +435,7 @@ Declaração de Rendimentos Mod	12018
 Declaração de São Luís	2816
 Declarações	3589,7773,57
 Declarações Entregues Consulta Situação Fiscal DCI	12018
+Declare	12501
 Declare AI	1814
 Declare Death	12226
 Declare Divorce	12226
@@ -598,7 +600,7 @@ Grandes Contribuintes. Declaração Eletrónica Modelo	12018
 Group Decis Negot	10780
 Guinea-Bissau’s Decree-Law	11550
 HM FMoCDE Declare Critical National Assembly	11857
-Harare Declaration	4528
+Harare Declaration	4528,7984
 Human and Peoples’ Rights Declaration of Principles	9416
 Hutchinson P. Decentralization	1261
 I CONSELHO DE MINISTROS Decreto	11527
@@ -755,13 +757,13 @@ OPTIMISED BENEFICIAL OWNERSHIP DECLARATION MS. LUCINDA	11219
 OSCE Joint Declaration MISA-Check	12201
 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25	12256
 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26	12062
-On-time Filing of CIT Declarations for Financial Year	12225
-On-time Filing of Domestic Excise Tax Declarations	12225
-On-time Filing of Domestic Excise Tax Declarations--Large	12225
-On-time Filing of PAYE Withholding Declarations	12225
-On-time Filing of PIT Declarations	12225
-On-time Filing of VAT Declarations--All VAT	12225
-On-time Filing of VAT Declarations--Large	12225
+On-time Filing of CIT Declarations for Financial Year	12500
+On-time Filing of Domestic Excise Tax Declarations	12500
+On-time Filing of Domestic Excise Tax Declarations--Large	12500
+On-time Filing of PAYE Withholding Declarations	12500
+On-time Filing of PIT Declarations	12500
+On-time Filing of VAT Declarations--All VAT	12500
+On-time Filing of VAT Declarations--Large	12500
 Opaque Training Data and Decision-Making	3651
 Operationalization of No Dec	11971
 Optimized Beneficial Ownership Declaration Functionality	11219
@@ -845,6 +847,7 @@ Santiago Declaration	1814
 Santiago Declaration. Africa	5302
 Scalar Decarbonization Fund	5444
 Scalar International's Africa Decarbonisation Fund	5431
+Score Rank Decent Housing	12488
 SeR&XDS Decision	1009
 Secure Decentralized Algerian E-Voting	2722
 Secure and Decentralized Algerian E-Voting System Based	2722
@@ -884,8 +887,8 @@ Thermal Decay Time Tool	11405
 Third General Yes Dec	10870
 Through Presidential Decree	10768
 Timely Filing of Tax Declarations	10984
-Timely Filing of Tax Declarations Filing	12225
-Timely Filing of Tax Declarations P4-12. On-time	12225
+Timely Filing of Tax Declarations Filing	12500
+Timely Filing of Tax Declarations P4-12. On-time	12500
 Tomada de Decisão	11562
 Tomada de Decisão de Políticas de Combate	11437
 Tomada de Decisões	10777
@@ -939,3 +942,4 @@ Xavier Decoster	3604
 Yaoundé Declaration	10841
 Yaoundé Declaration. Specific	10841
 Youth-led Declaration	9786
+Zimbabweans Decisions	12490

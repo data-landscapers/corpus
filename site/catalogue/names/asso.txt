@@ -137,7 +137,7 @@ Associates Data Controller INST-27398506BDB NAIROBI Kenya	7167
 Associates Inc. Business Day	8267
 Associates Out Stations Out Stations	736
 Associates and Joint	10793
-Association	969,40,255,20,460,123,47,4,425,106,174,323,316,99,59,142,42,110,66,346,150,156,463,159,161,272,182,51,115,7,35,72,552,290,70,77,8,161,16,12,51,35,624,41,617,14,156,64,18,98,24,14,396,40,15,110,60,25,39,473,155,22,87,46,9,355,36,62,8,6,3,14,24,88,1,3,7,64,314,172,24,11,185,34,76,2,11,2,16,19,39,31,19,85,112,10,151,1,130
+Association	969,40,255,20,460,123,47,4,425,106,174,323,316,99,59,142,42,110,66,346,150,156,463,159,161,272,182,51,115,7,35,72,552,290,70,77,8,161,16,12,51,35,624,41,617,14,156,64,18,98,24,14,396,40,15,110,60,25,39,473,155,22,87,46,9,355,36,62,8,6,3,14,24,88,1,3,7,64,314,172,24,11,185,34,76,2,11,2,16,19,39,31,19,85,112,10,151,1,130,5
 Association Africaine	10975
 Association Agreement	7845
 Association Al Karam	8891
@@ -247,6 +247,7 @@ Association of Submarine Cable Operators of Nigeria BCDA	11857
 Association of Telecommunication Companies of Nigeria	11129
 Association of Telecommunications Companies of Nigeria	6536,1671,840,2121
 Association of Women	7167
+Association of Zimbabwe	12490
 Association. Article	10836
 Association. ECOWAS. Section I.A.2	1264
 Association. Guinea-Bissau. Section I.A.2	1264
@@ -326,7 +327,7 @@ Badirammogo Water User Association	11248
 Bank of Namibia and Bankers Association of Namibia	4073
 Bankable Frontiers Associates	12297
 Bankers Association of Zambia	12409
-Bankers Association of Zimbabwe	4528,694
+Bankers Association of Zimbabwe	4528,694,7290
 Bankers' Association	940,6174
 Banking Association South Africa	6886,5071
 Banking Association of South Africa	5533,58,6395
@@ -456,7 +457,7 @@ Forms of Articles of Association TABLE	3714
 Forum of Mozambican Associations of People	12201
 Francophone Association of Data Protection Authorities	6363
 Freedom of Assembly and Association	9082
-Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Freedom of Association	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Freedom of Association and Assembly	6188
 Freedom of Association and Right	12389
 GSM Association	1228,2676,2877,34,4004,22,136,1254
@@ -680,6 +681,7 @@ Resource Member and Associate Member	585
 Resource and Associate Member	585,8281
 Resources and Associate	585,8281
 Result Indicators Associated PAs RI Relevance	10779
+Retailer's Association of Zimbabwe	12490
 Rice Farmers Association of Nigeria	5267
 Risk Reporting Association	11198
 Rotating and Savings Credit Associations	940
@@ -691,6 +693,7 @@ SADC Bankers' Association	12469
 SADC Banking Association	135,6585
 SADC Banking Association. Other SADC	11899
 SAFARICOM PLC Associates	7204
+SAZ Standards Association of Zimbabwe SIRDC Scientific	12512
 SHIANEE CALCUTTEEA CHETAN ANCHARAZ Partner Associate	12232
 SLM Project Associate Seewajee Pandoo Invasive	11332
 Sadiya Assouma du Commerce. Selon	4162
@@ -721,8 +724,8 @@ Southern African Telecommunications Association	962
 Sport and Child Development Associations Zambia X	12376
 Square Associates	9098,46
 Staff Association	11332
-Standards Association Zimbabwe	4528
-Standards Association of Zimbabwe	4528
+Standards Association Zimbabwe	4528,7984
+Standards Association of Zimbabwe	4528,7984
 Suppliers Association	5675
 System Cape Verdean Women's Self-Promotion Association	11855
 System for Mobile Communication Association HEIS Hands-on	1264

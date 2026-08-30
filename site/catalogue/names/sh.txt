@@ -22,7 +22,7 @@ ALEX SHIMUAFENI STATISTICIAN-GENERAL	12367
 ALFRED SHILONGO	5543,4206
 AMAZING SHOP Data Controller INST-117103AD739 NAIROBI	7167
 ANNUAL REPORT ZIMBABWE AGRICULTURAL SHOW	1154
-ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1
+ANTI-CORRUPTION Shipping	10835,3,130,902,16,466,1,135
 AO A&O Shearman ArticleVisitor Data	6632
 ARCHITECTURE TAKING SHAPE AfCFTA	9593
 AUTHORISED SHARES A. Classified	3714
@@ -123,7 +123,7 @@ Balance Sheet Value Balance Sheet	11955
 Balance Sheets	12445
 Balance Sheets Financial	12445
 Base Erosion and Profit Shifting	961
-Base Erosion and Profit Shifting. Ethiopia	12225
+Base Erosion and Profit Shifting. Ethiopia	12500
 Bay Shoprite Thembalethu George Shoprite Vredenburg	8999
 Bayo Link Suite Numbering for Shopping Centre	11129
 Beatha Shilongo	12478
@@ -775,11 +775,11 @@ Mr. Alex Shimuafeni Statistician-General	12383
 Mr. B. H. Shallangwa	11129
 Mr. CHON Gyong Shik	770
 Mr. Mustafa Yasin Sheik	3750
-Mr. Mustafa Yasin Sheikh	1694
+Mr. Mustafa Yasin Sheikh	1694,10819
 Mr. Shem Mwesigwa	3005
 Mr. Shinzo Abe	9067
 Mr. Shuriye	5172
-Mr. Yosef Shiferaw Hundessa	12225
+Mr. Yosef Shiferaw Hundessa	12500
 Mrs. Maimuna Lami Shiru	11704
 Mrs. Rakiya Shuaibu Mohammed Rev	11857
 Ms Lindiwe Sisulu and Sheikh Abdullah	11185
@@ -962,6 +962,7 @@ R9 Shared AI Datasets	11138
 RAMESH MEGHI SHAH Data Processor	7167
 RAN Sharing	9824
 RATIFICATION TO THE FIRST SHIPMENT	10476
+RECOMMENDATIONS Short-Term	12508
 REGIONS OF ESWATINI Mozambique Lubombo Shiselweni	418
 RIGHTS ATTACHING TO ORDINARY SHARES	4896
 RMD Non-patient File Sharing SA NHIS	1009
@@ -1159,6 +1160,7 @@ Secure Data Sharing Framework	6842
 Secure Shell	11077
 Secure and Shared Infrastructure	395,563
 Secured and Shared Infrastructure	12359
+Selukwe Shabani Shamva Sipolilo Umtali Umzingwane	12511
 Senator Pholile Shakantu	7030
 Senator Shakantu	7030
 Senator Shuaib Afolabi	4690
@@ -1484,7 +1486,7 @@ SharePoint	5256,1242,1856,3632
 SharePoint Attacks	3364
 SharePoint Online	6432
 ShareShareSharePostEmail Kim Harrisberg	12336
-Shared	1009,275,1425,1730,89,195,954,23,686,1639,573,525,329,700,5,14,399,436,132,133,880,63,144,61,13
+Shared	1009,275,1425,1730,89,195,954,23,686,1639,573,525,329,700,5,14,399,436,132,133,880,63,144,61,13,80
 Shared AI Findings Exchange	9027
 Shared Agent Network Expansion Facilities	3735
 Shared Challenges	9648
@@ -1825,7 +1827,7 @@ Ship House	7847
 Ship Station	6946
 Shipment Receipt Date	12360
 Shipments	10489
-Shipping	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,93,84,1,11,1
+Shipping	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,93,84,1,11,1,135
 Ships	9068
 Shireen J	12151
 Shirika	11612,685
@@ -1955,6 +1957,7 @@ Shortage	1261,679,4210,5402,353,474
 Shortage of Resources	1261
 Shortage of Skilled Cybersecurity Professionals	6936
 Shortage of Skilled Cybersecurity Professionals Challenge	6936
+Shortages of Birth Certificates and ID Papers	12514
 Shortcomings	7151,3628
 Shortcuts	9409,1747
 Shorten	899
@@ -2082,6 +2085,8 @@ Shutterstock The MICS	11879
 Shutterstock. DIGITAL SKILLS IN NIGERIA Contents	11879
 Shutterstock. Further	11149
 Shutterstock. Used	11149
+Shutterstock.com	12504
+Shutterstock.com All	12504
 Shuttleworth	10
 Shwetlena Sabarwal	10964
 Shyline Muthoni	8764
@@ -2246,6 +2251,7 @@ York. Shutterstock	7112
 YouTube Shorts	1363
 YouTube and Shorts	11308
 ZIMBABWE LIMITED SHAREHOLDERS	4896
+ZIMRA Commissioner General Regina Chinamasa Shoko	12505
 Zainab Shamsuna Ahmed	11866
 Zhou Shuren	8460
 Ziidi Shariah	4978

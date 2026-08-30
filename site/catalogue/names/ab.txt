@@ -20,6 +20,7 @@ ABALA HEALTHCARE LIMITED Data Controller INST-196469C93BA	7167
 ABAN SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 ABANC	10775
 ABANDONO ESCOLAR	10766
+ABAOs	12507
 ABAQEIR ENTERPRISES LIMITED Data Processor INST-476468C73A2	7167
 ABASS BROTHERS COMMUNICATION ENTERPRISES LIMITED Data	7167
 ABASS HASSAN ABDI Data Processor INST-26840917074	7167
@@ -104,7 +105,7 @@ ABMZMZMA	12252
 ABNGMZMA	12252
 ABNO SOFTWARES INTERNATIONAL LIMITED Data Controller	7167
 ABNO SOFTWARES INTERNATIONAL LIMITED Data Processor	7167
-ABNT Chicago Harvard IEEE MLA Turabian	12467
+ABNT Chicago Harvard IEEE MLA Turabian	12467,19
 ABOGADO DEL ESTADO	4209
 ABONNÉS OPÉRATEURS	998
 ABORDAGEM CENTRADA	11413
@@ -170,7 +171,7 @@ ABSENT	5197
 ABSOLUTE ESTATES LTD Data Processor INST-32335969E61	7167
 ABSOLUTE SCALES LIMITED Data Controller INST-970688CBA89	7167
 ABSOLUTE SIZE OF POPULATION	11572
-ABSTRACT	1248,1270,8479,1093
+ABSTRACT	1248,1270,8479,1093,418
 ABSTRACT Despite	5349,6569
 ABSTRACT Digital	9530
 ABSTRACT Digital Public Infrastructures	5700
@@ -460,7 +461,7 @@ Abdul Iddrisu	6936
 Abdul Kamara	158
 Abdul Karim Sesay	11651
 Abdul Kassem Ismael	899
-Abdul Latif Jameel Poverty Action Lab	12332
+Abdul Latif Jameel Poverty Action Lab	12485
 Abdul Majeed	10067
 Abdul Malik Suleiman	6058
 Abdul Rahman Lamin	7841
@@ -646,7 +647,6 @@ Abis. Temporary	11233
 Abisai Sem	12478
 Abisoye Coker	11126
 Abisoye Coker-Odusote	2318,218,398,1186,2751,272,228,749,3570,370,62
-Abisoye Coker-Odusote and World Bank Country Representative	12059
 Abisoye Odusote	7651
 Abitab	10714
 Abiy AHMED	9502
@@ -697,7 +697,7 @@ Abordagens Arquitetónicas	11555
 Abordant	6094,1185,403,587,175,893,230,837,747
 Abordar	10772
 Aborisade	7853
-Abort Reason Code	12324
+Abort Reason Code	12484
 Abortion	10780
 Abortions	6534
 Aborto	10760
@@ -734,7 +734,7 @@ Aboudou	7113
 Aboudou. Ce	7113
 Aboudou. Cet	7113
 Aboukar Nacanabo	1298
-About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69,189,5,8,25,12,4,41,20,1,2,45,17,9,1,16,36,3,5,2,5,4,13,19,30
+About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69,189,5,8,25,12,4,41,20,1,2,45,17,9,1,16,36,3,5,2,5,4,13,19,30,40
 About AFC AFC	5913,5744
 About AFC Capital Partners AFC Capital	11657
 About Afreximbank Academy	11809
@@ -749,6 +749,7 @@ About CALS The Centre for Applied Legal	9889
 About CBE	11131,3
 About CBE Mandate	11134
 About CTechTerms of UsePrivacy PolicyDubai Flights Developed	10068
+About Client Service Charter Services NVCCZ	12495
 About Contactable Contactable	6559
 About Convalt Energy Convalt Energy	6633
 About CreditRegistry Corporation CreditRegistry Corporation	11809
@@ -817,9 +818,11 @@ About UCUSAF Section	8730
 About UICT UICT	8549
 About Unwanted Witness	3021
 About Us	3859,2044,362,681,382,999,570,356,3092
+About Us How We Work	12493
 About Us The Institute Policies Management	10123
 About Us Vision	12390
 About Us Vision Core Vlues Digital	6946
+About Who We Are Our Team	12495
 About Your Fayda Fayda Number	12281
 About the AU Data Policy Framework	4123
 About the Advanced Entrepreneurship	9309
@@ -844,13 +847,14 @@ About the Executive Table The Bridgforte Executive	11138
 About the GATEWAY Program GATEWAY	11347
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
-About the Global Fund The Global Fund	3385,9033
+About the Global Fund The Global Fund	3385,9117
 About the Global Innovation Index The Global	12160,44,1,150
 About the Grant The SheConnects Digital Accelerator	9072
 About the ICPC	2677
 About the ICT	582
 About the ILGRP Project The Inclusive Legislatures	9203
 About the Identity Index	1972
+About the Journal Submissions Indexing Privacy Statement	12486
 About the Legal Practice Council	7278
 About the Mastercard Foundation The Mastercard Foundation	8327
 About the Name	12226
@@ -868,7 +872,7 @@ About-Us	1243
 AboutNewsletterContact	10068
 AboutUs	1013,931
 Abouzahr C	10780
-Above	1013,931,363,1371,183,1,36,229,997,1767,1549,683,138,148,207,178,165,99,111,144,660,279,754,219,26,194
+Above	1013,931,363,1371,183,1,36,229,997,1767,1549,683,138,148,207,178,165,99,111,144,660,279,754,245,194,55
 Above Average	11131
 Above Average Performer	11131,3
 Above Average Performers	11134
@@ -912,6 +916,7 @@ Abreu A. Maturity	12255
 Abreu Advogados	2125
 Abreviaturas	5663,5894
 Abreviaturas Aband. Aprov. Compart. Definit	10766
+Abridged	12496
 Abridged Audited Financial Statements	1154
 Abridged Circular	4896
 Abridged ICT Sector	958
@@ -991,24 +996,24 @@ Absence de Souveraineté	10874
 Absence of Additional Government Licenses	12389
 Absence of Additional Restrictions	12389
 Absence of Additional Taxes	12389
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
 Absence of Caps	12389
 Absence of Charges	12389
 Absence of Contingent Trade-Protective Measures	12389
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Export Restrictions	12389
 Absence of Finance Measures	12389
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
 Absence of Forced Migration. Trend Bouncing Back	12353
 Absence of Forced Migration1	11870
 Absence of Fossil Fuel Subsidy	12389
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Independent Oversight	6512
 Absence of Labor Market Tests for Foreign Contractual	12389
 Absence of Limits	12389
@@ -1026,8 +1031,8 @@ Absence of Recognition	12246
 Absence of Restriction	12389
 Absence of Restrictions	12389
 Absence of Restrictions Subject	12389
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absences	1988,8888
 Absent	1723,105,854,1179,6227,1,1051
 Absent Agenda	4535
@@ -1111,7 +1116,7 @@ Abubakarr Suleiman Jeng	8611
 Abubaker Lubowa	315
 Abuco	7830
 Abudulsalami	8022
-Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38,129,41,31,31,29,82,14,153,58,10,21,5,3,21,10,43,17,4,4,6,1,1,2,15,323
+Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38,129,41,31,31,29,82,14,153,58,10,21,5,3,21,10,43,17,4,4,7,1,2,15,323,111
 Abuja Benin Eko Enugu Ibadan Ikeja	12062
 Abuja Central	11857
 Abuja Centre for Entrepreneurship	9360
@@ -1209,7 +1214,7 @@ Acronyms and Abbreviations	970,5862,114,4304,901
 Acronyms and Abbreviations ACP Africa	970
 Across Lagos and Abuja Fresh	4601
 Acto de Abertura de Conta de Moeda Electrónica	11404
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,14,1,6,1,5,6,2,4,5,2,24,17,9,10,50
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,15,6,1,5,6,2,4,5,2,24,17,9,10,50,133
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa CRRSA. Outreach	12267
@@ -1250,7 +1255,7 @@ Addis Ababa. Current	12233
 Addis Ababa. Establishes	505
 Addis Ababa. Ethiopian	5073
 Addis Ababa. Limuru	2517
-Addis Ababa. MOR	12225
+Addis Ababa. MOR	12500
 Addis Ababa. Printed	10819
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Addis Ababa. Vodacom and Vodafone	8843
@@ -1294,6 +1299,7 @@ Aliyu Aboki	7323
 Aliyu Yusuf Aboki	5790
 All About Cookies	9902
 All Know About	5817
+All Rights Reserved. About Us Mision	12499
 Ambassador Abbas	10427
 Amouda Abou Seydou	6202
 Amr Farouk Safwat and May Ragab Abdelhamid	961
@@ -1357,6 +1363,7 @@ Births Abroad Birth	12216
 Bishop Abba	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438
 Blaise ABITA	9925
 Bouhali Abdelbasset	3842
+Brand Finance About the Global Innovation Index	12487
 Breves Lançado Portal de Denúncias de Imagens de Abuso	10750
 Brigadier General Abdeslam Belghoul	5270
 Budget and Economic Planning Minister Abubakar Bagudu	7143
@@ -1389,6 +1396,7 @@ COST IN DIFFERENT WAYS Abayomi Adewuyi	9594
 COUNTRY NAME ABBREVIATION	3972,1380
 CRI. Abbreviation	12090
 CRIANÇAS ABRE DIA	10752
+Cadastre Home About Us Services Cadastral	12511
 Cairo and Abidjan	9593
 California Tobacco Control Program. Abadie	12006
 Camarade Dr Aboubakar NACANABO	7800
@@ -1581,7 +1589,7 @@ Escuela Unitaria de Abia	4209
 Esther Duflo and Abhijit Banerjee	7151
 Estrategia de Abogacía	8048
 Eswatini. About	418
-Ethiopia AFE BCP ABBREVIATIONS AND ACRONYMS	12225
+Ethiopia AFE BCP ABBREVIATIONS AND ACRONYMS	12500
 Ethiopia Addis Ababa	11665,567
 Ethiopia. Chapter Two About Civil Registration	12226
 Ethiopian FY Addis Ababa	3211
@@ -1703,6 +1711,7 @@ Hemed Suleiman Abdulla	3460
 Hirshabelle State Abdirahim Isse Addow	7897
 Home About	9067
 Home About Us Background Management Vision	12322
+Home About Us Our Mandate	12515
 Home Affairs and Absa	7639
 Home DPO CyberHub Rw-CSIRT Website About	9125
 Hon Abiante. The Federal Government	8087
@@ -1727,7 +1736,7 @@ II Contents Introduction About	11131
 III Introduction About	11131
 INDÍCE ACRÓNIMOS E ABREVIATURAS	11555
 INES Abogado Dugan	4209
-INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16,466,1
+INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16,466,1,135
 INR About the Organization Mobile for Development	9072
 ITWeb Sectors Companies About Subscribe Banks	7339
 ITWeb Sectors Companies About Subscribe InfoReg	5806
@@ -1906,7 +1915,7 @@ MB SDM and MB ABIS	11859
 MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
 MINPMEESA Mr NONGNI Abednego Cadre	10980
 MM. Mohamed Abdoulkader Moussa Helem	8297
-MOR. About	12225
+MOR. About	12500
 MP Abdullahi Abiib HOL Pakistan	2743
 MTDS and ABP	10779
 MTND-CAB Abidjan	3604
@@ -2078,11 +2087,12 @@ Njavwa Namposya Chilufya ABBREVIATIONS AND ACRONYMS	1867
 Nkem Abuah	4716
 Nominated Senator Miraj Abdillahi	8214
 Nompumelelo Nzimande-Mbele. Above	11237
-Northwest Addis Ababa	12225
+Northwest Addis Ababa	12500
 Nota de Boas Práticas Como Abordar	11413
 Nour Abdeldaim	9776
 Nouzha Alaoui Mohamed Abdessadek Essaidi Najat	8891
 ONLY About	418
+Occasionally About	12501
 Oferta de Rede Aberta	11430
 Officer Magdi M. Abdalla Taha	4898
 Official Use Only ABBREVIATIONS AND ACRONYMS	12253
@@ -2120,8 +2130,8 @@ POLICY FOR ICT ABBREVIATIONS AND ACRONYMS	958
 POPULARES DAS LUNDAS CONTAM ABUSOS NA	9399
 PORTANT IDENTIFICATION DES ABONNES DES SERVICES	10898,8
 PRINCIPAUX SIGLES ET ACRONYMES ABE Agence	10876
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
-PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135
 PUBLIC PUBLIC ABBREVIATIONS	1818
 Padrões Abertos de Contratação	9432
 Par Abdou Moustoifia	6068
@@ -2189,6 +2199,7 @@ Programa de Absorción	4209
 Programmes de Formation Avenue Abdoulaye FADIGA	10237
 Progress and Challenges Prime Minister Hamza Abdi	10521
 Projects ABOUT	10068
+Property Card View Property Details About	12511
 Proposed Operation Abstract	11965
 Proposed Tiers Absolute	10764
 Prospective AboubaKkar NACANABO L	1837
@@ -2213,7 +2224,7 @@ REMEDIATION SOLUTIONS About	1938
 RETIREMENT. About	10977
 RF-ETRUST. Selon Yaouba Abdoulaye	2704
 RIA Zero-Rating Policy Paper - Much ado about nothing.pdf	544
-RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1
+RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1,135
 Radisson Blu Hotel Abidjan Airport	6224
 Radwan Abdillahi Bahdon	1287
 Rafael Pardo Ostos ABBREVIATIONS AND ACRONYMS	1264
@@ -2248,7 +2259,7 @@ Republic of Liberia Abbreviations CBL Central Bank	1777
 Research Library Databases ABCD Indexed	12467
 Resolution For Against Abstain SIGNED	4896
 Revenu Moyen Par Abonné	998
-Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1
+Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135
 Rights Sexual Exploitation and Abuse	4653
 Risk Absorption Note. Unpublished	6947
 Road Safety Commission Abuja Municipal Area	11129
@@ -2257,7 +2268,7 @@ Roosevelt Street Addis Ababa	7951
 Rosemary Ajayi Executive Director About DigiAfricaLab	10725
 Rt. Hon. Abuk Payiti Ayik	9585
 Rule of Law Absence of Crime Poverty Reduction	10759
-Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1
+Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135
 Rw-CSIRT Alerts Advisories About NCSA Documentation	9125
 Règlement des Radiocommunications ABBREVIATIONS AFP	5361
 République. Mme Aïssatou Abdoulaye Tondi	8227
@@ -2268,7 +2279,7 @@ S2666378326000309 Abstract	8185
 SA-SAMS Modernisation Menu About Us Newsroom	11241
 SAFETY Absence of Armed Conflict	10759,78,1052,451
 SAFETY Absence of Armed Conflict Absence of Violence	10759
-SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1
+SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135
 SANGARE Abdourahamane	2342
 SANKARA Abdoulaye	737
 SAWS CEO Ishaam Abader	3290
@@ -2360,6 +2371,8 @@ South Sudan and Abyei WES	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 SouthAfrica ABSTRACT Digital	8603
 Sow and Aborbie	4432
 Sparkle Haskoning ABB AFR-IX Mercury Engineering	10861
+Speaker Abdi Hashi Abdullahi	12520
+Special Issues Descriptive Papers Visualisations About	12486
 Specialist GSU01 Sofia De Abreu Ferreira	11525
 Specification-asymmetry-and-digital-inclusion-how Abstract	8812
 Staff Natural and Applied Sciences Image About	12407
@@ -2373,7 +2386,7 @@ State Minister for Finance Mohamed Nour Abdeldaim	9489,1,966
 State Minister of Finance Mohamed Nour Abdel	8923
 Statistical Abstract	12138
 Statistical Abstracts	12138
-Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1
+Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
 Stella Abongo	6946
 Strategic Outlook ABUJA	12053
 Substance Abuse Control and Enforcement Agency Bill	8681
@@ -2465,7 +2478,7 @@ Wan Abdul Rahman	8604
 Warning Signs Absence of Forced Migration	12352
 Washington and Abidjan	7344
 Waste Disposal About	12383
-Water Access Absence of Corruption	10835,3,130,902,16,466,1
+Water Access Absence of Corruption	10835,3,130,902,16,466,1,135
 Weidain Aboubacar Mahamane NACRO	7670
 What’s Actually Becoming Abundant Human	8380
 Wole Abu	3859,70,3305
@@ -2493,4 +2506,5 @@ Zakariye Abdi Hashi	5172
 Zaman Abu	10004
 Zambia Police Service Abstract Historically the Zambia	12467
 Zembendé SIGUIBEOGO Abdoul Fatah SORE Abdoulaye	10875
+Zimbabwe Abstract Childbirth	12486
 Zouhour Abdillahi	4774,2939,1,3947

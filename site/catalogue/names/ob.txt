@@ -9,12 +9,13 @@ ACCOUNTING BY HOLDING COMPANIES Obligation	3714
 ACHPR Observer Status No	8713
 ACTUAL ENQUADRAMENTO JURÍDICO DA MATÉRIA OBJECTO	11461
 AFRISTAT Objectif	10875
-AI Adoption and Service Transformation Strategic Objective	4528
+AI Adoption and Service Transformation Strategic Objective	4528,7984
 AI National Objectives The Rwanda AI	1204
 AI Objectives Flagship Projects Intermediate KPIs	12210
 AI Objectives Flagship Projects Intermediate Outcomes	12210
 AI Policy Observatory	1814
 AI for Economic Growth and Modernisation Objective	4528
+AI for Economic Growth and Modernisation Objective Lagging	12512
 ANGEO-1 Earth Observation	5438
 APDP-du-26-mars-2020 RESPONSABLE DE TRAITEMENT OBJET	10821
 APPLICATION AND OBJECTS OF ACT	11182
@@ -35,6 +36,7 @@ Agency OMG Object Management Group TOGAF	11184
 Agency Objective	1000
 Agency Specific Objectives	1000
 Agile Governance and Ethical Frameworks Objective	4528
+Agile Governance and Ethical Frameworks Objective Lagging	12512
 Alain Hugues Obame	9616
 Alban Gildas Obela	5063
 Alberto Ndong Obiang Lima	7100
@@ -210,7 +212,7 @@ Development Objective and Results Framework	2291
 Development Objectives	1228,10627
 Development Objectives Assistance Agreement	4301
 Development Objectives The Project Development Objective	11525
-Development and Innovation Strategic Objective	4528
+Development and Innovation Strategic Objective	4528,7984
 Dever de Obediência	11388
 Digital Identity MULTI-ACTOR OBJECTIVES The Smart	10819
 Digital Information Security Objectives	12453
@@ -278,7 +280,7 @@ Escopo A. Objectivos	11898
 Establishment of The Financial Inclusion Observatory	10775
 Eswatini Data Protection Terms. Object	2109
 Eswatini Observer	5450
-Ethics and Regulatory Framework Strategic Objective	4528
+Ethics and Regulatory Framework Strategic Objective	4528,7984
 Ethiopia. Has the Development Objective	12228,39
 Eugène Mba. Objectif	7094
 Europe Observatory	11050
@@ -338,6 +340,7 @@ Higher Level Objectives Policy Context and Strategic	969
 Higher-Level Objectives	3604
 Higher-level Objectives	11549
 Human Capital Development Objective	4528
+Human Capital Development Objective Lagging Indicators	12512
 I Objectives and Standards	5132
 I. Objet	5928
 I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924
@@ -512,6 +515,7 @@ NZUE OBAME	6613
 National Artificial Intelligence Observatory	10300
 National Cybersecurity Governance. Strategic Objective	1777
 National Data Observatory	11261
+National Development Objectives Zimbabwe's AI	12512
 National Development Objectives Zimbabwe’s AI	4528
 National Health Observatory	4260
 National Housing Data Observatory	8087
@@ -630,7 +634,7 @@ OBUHA	3816
 OBUHA. Mais	3816
 OBsERVAtIONs INCLUsEs	7655
 ODS Objetivos de Desenvolvimento Sustentável	11547
-ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1
+ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135
 OEC Observatory for Economic Complexity	11887,266,1,9,178
 OECD AI Policy Observatory	1204,5628
 OECD Artificial Intelligence Policy Observatory	11140
@@ -750,7 +754,7 @@ Objective of Automation	12041
 Objective of Zero-Rated Access	6748
 Objective. Disponível	2816
 Objective4	1000
-Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70,431,1,8,80,38,17,13,138,5,59,30,89,27,57
+Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70,431,1,8,80,38,17,13,138,5,59,30,89,27,57,95
 Objectives BS	1885
 Objectives Contribute	10854
 Objectives Despite	12229
@@ -1012,18 +1016,18 @@ Obstruction	783,550,260,749,6781,2853
 Obstructions	9123
 Obstrução	11425,157
 Obstáculos	11430,98
-Obtain	1988,4444,2562,1765,76,2,1,74,56,165,100,3,165,469,16,1,1,1,66,197,1,1,9,177,1,11,1,36
+Obtain	1988,4444,2562,1765,76,2,1,74,56,165,100,3,165,469,16,1,1,1,66,197,1,1,9,177,1,11,1,36,99
 Obtain Building and Occupancy Permits	12389
 Obtain CPIA	11863
 Obtain Construction Related Permits	12389
-Obtain Executive Compliance	10835,3,130,902,16,466,1
+Obtain Executive Compliance	10835,3,130,902,16,466,1,135
 Obtain Information	12185
-Obtain RULE OF LAW	10835,3,130,902,16,466,1
+Obtain RULE OF LAW	10835,3,130,902,16,466,1,135
 Obtain TIN	4449
 Obtain the Installation Request	34
 Obtainan Environmental Permit	12389
 Obtained	3028,9361
-Obtaining	3247,6550,505,412,51,10,39,365,11,765,270,164
+Obtaining	3247,6550,505,412,51,10,39,365,11,765,434,111
 Obtaining SIM	4439
 Obtención	163
 Obtener	1701
@@ -1038,7 +1042,7 @@ Obtida	794
 Obuhvata	10780
 Oburu	7869
 Obviamente	2444
-Obviously	1038,4186,1761,293,4247
+Obviously	1038,4186,1761,293,4247,996
 Obynraunbbaenrnaunadl	11152
 Ogoja and Obudu	8520
 Olavo Correia. Objectivos	3709
@@ -1062,7 +1066,7 @@ Overall Objectives	5675
 Overall Strategic Objectives	1814
 Overall Strategic Objectives The Strategic Objectives	1814
 Overarching Objective	4349
-P3-11. Obtaining	12225
+P3-11. Obtaining	12500
 PART V- OBLIGATIONS OF CONTROLLERS	1474
 PAÍS UNIVERSIDADE OBSERVAÇÃO	2816
 PB Object Storage	3487
@@ -1269,7 +1273,7 @@ Strategic Goals Objective	1000
 Strategic Investment and Partnerships Objective	4528
 Strategic National Objectives	7672
 Strategic Objective	1777,6976,3603
-Strategic Objective Zimbabwe	4528
+Strategic Objective Zimbabwe	4528,7984
 Strategic Objectives	396,11174,321,465
 Strategic Objectives Prosperity for All UNDP Mauritius	11332
 Strategic Objectives and Actions Indicators	1777
@@ -1281,6 +1285,7 @@ Study Objectives and Scope	6832
 Su Excelencia Nguema Obiang Mangue	8083
 Substantial. The OBR	1284
 Survey Objectives	2775
+Survey Objectives Build	12498
 Sustainability Policy Objective Promote	958
 Sustainable Development Objectives	10775
 System PrDO Program Development Objective PSC	1264
@@ -1334,7 +1339,7 @@ Variáveis de Observação Os	10766
 Vice-President Nguema Obiang Mangue	5176
 Vice-President Teodoro Nguema Obiang Mangue	2432
 Vision and Objectives Smart Rwanda Master Plan	12359
-Visit Observation	12225
+Visit Observation	12500
 W. Obwexer	1243
 WATER AND SANITATION REFORM Objective	11236
 WMO Global Observing System	11553

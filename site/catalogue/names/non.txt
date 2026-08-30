@@ -43,6 +43,7 @@ Bank Nonperforming Loans	10718
 Bank and Other Formal Non Bank Banked	940
 Bank and Other Non Formal	940
 Banked and Other Formal Non Bank	940
+Biometrics APIs None Bank	12490
 Branche Aucun SYSCOHADA Cahier de Non	10875
 Branche Micro- Petite Moyenne Grande Non	10875
 Branche Oui Non Non	10875
@@ -78,7 +79,7 @@ Conflicts of Interest None	1824,9095,1106
 Consideration of Time-Bound and Non-Time-Bound Obligations	11956
 Construction Agriculture Non	10875
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Core and Non-Core Baskets and Weights	2775
 Core and Non-Core Indices	2775
 Core and Non-Core Inflation Measures for Kenya Background	2775
@@ -187,6 +188,7 @@ MHz Non	736
 MHz Non-specific	736
 MHz-868.6 Non-specific	736
 MINPMEESA Mr NONGNI Abednego Cadre	10980
+MISA Non-Governmental	12512
 MP Mpumalanga NGO Non-governmental	11192
 MS NONKOSI MVANA.For	11229
 Major Non Comforman	11134
@@ -212,6 +214,7 @@ NFO's Non-life Insurance Division	9675
 NFT Non-Fungible Tokens	8590
 NGO Non-Governmental Organisation NPA National Prosecuting	11188
 NGO Non-Governmental Organization NPV Net Present	969
+NGO Non-Governmental Organization NUST National University	12512
 NGO Non-governmental Organisation NRCS National Regulator	11198
 NGO Non-governmental Organization NOSi Information Society	11863
 NGO Nongovernmental	10841
@@ -292,6 +295,7 @@ Non-Bank Financial Institutions Building Society	11134
 Non-Bank Financial Institutions The NBFIs	11131
 Non-Bank Financial Intermediation	6938
 Non-BanksThe SARB	5691
+Non-Citizen Birth Certificates	12496
 Non-Citizen Identity Card	7317
 Non-Citizens	7845
 Non-Communicable	12413
@@ -422,11 +426,12 @@ Non-banks	3318,8642
 Non-binding	3861,361,44,62,30,6823
 Non-budgeted	11549
 Non-certified	3934
+Non-citizen	12496
 Non-citizens	2119
 Non-citizens Registered	12291
 Non-climate	1988
 Non-communicable	5889,3567,2957
-Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,32
+Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,307
 Non-compliant	3003,535,6105,1758,456
 Non-compliant VASPs	4602
 Non-compulsory	7514,2162,426,707
@@ -461,14 +466,15 @@ Non-exclusive	11857
 Non-exclusive Herotel	10797
 Non-existence	11129
 Non-ferrous	11258
-Non-filer	12225
-Non-filers	12225
+Non-filer	12500
+Non-filers	12500
 Non-financial	12376
 Non-formal	6832
 Non-formal Begin	6832
 Non-formal SAQA CHE	6832
 Non-fragile Country	1284
 Non-friable	1988
+Non-functional	12508
 Non-government	11940
 Non-governmental	1161
 Non-governmental Organisation ICTS International Cooperation	11986
@@ -497,7 +503,7 @@ Non-oil	1828,5867,3302,472
 Non-oil Revenue CAMEROON	10997
 Non-oil Revenue Mobilization	1828
 Non-participant	10711
-Non-payment	12225
+Non-payment	12500
 Non-performing	4217,7307
 Non-performing Loans	11134
 Non-personal	4214,1030,1272,3
@@ -576,7 +582,7 @@ None. APIs	12269
 None. Correspondent	12269
 None. Interoperability	12269
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,24,112,72
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91
 Nongo	8022
 Nongobzanga Zongo	3668,543,85,2472
 Nongoma	2626
@@ -648,6 +654,7 @@ Reliable Non-invasive Method for Monitoring Pangolin	1154
 Remedial Actions A. Non-compliant Telecommunications Service	4610
 Rental Income Tax Non-Government Organisations	12452
 Republic of Congo Non-transactional	11897
+Reserve Bank of Zimbabwe None Central Bank	12490
 Resolution of Non-Performing Loans	10408
 Restatement Restated Rm Rm Rm Non-current	10793
 Revenus Non Salariaux	2476

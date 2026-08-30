@@ -14,7 +14,7 @@ ATU Conference of Plenipotentiaries	6488,1074,321,920,864
 ATU Conference of Plenipotentiaries. Dr Bosun Tijani	8241
 ATU Plenipotentiary Conference	7876,1880
 Abdelatif-Rahal International Conference Center	4168
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
 Absence of Armed Conflict2	12352
@@ -22,7 +22,7 @@ Academic Conferences International	9237
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
 Accountant General’s Conference Hall	7475
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135
 Additional Confirmations	5903
 Addressing the Zimswitch Payments Conference	7880
 Advise the Conference of Regulators and Executive Committee	5680
@@ -65,7 +65,7 @@ Aplicativo CONFIN	4209
 Applications Conference	8604
 Appointment and Confirmation	3861
 Arab Civil Status Conference	10521
-Armed Conflict	10835,3,130,902,16,466,1
+Armed Conflict	10835,3,130,902,16,466,1,135
 Armed Conflict1	12353
 Australasian Conference	5349
 Authority. The Video Conference	8616
@@ -148,16 +148,17 @@ Confederate States	4859
 Confederation	4394,6789
 Confederation of Danish Industry	10841
 Confederation of Financial Institutions- West Africa	1502
+Confederation of Retailers	12490
 Confederation of Sahel States	2317,809,697,102,776,158
-Confederation of Zimbabwe Industries	1554,2974
+Confederation of Zimbabwe Industries	1554,2974,7984
 Confederation. Analysts	4394
 Confederazione Svizzera	1243
 Confer	7548
 Confere	12119
 Conferen	6612
-Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367,99,1
+Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367,99,1,135
 Conference Hall Superstructure Construction	11134
-Conference Leadership	4528
+Conference Leadership	4528,7984
 Conference Preparatory Committee	6488,1074
 Conference Presentation	11589
 Conference Proceedings	1248,1568
@@ -298,7 +299,6 @@ Confirming	12278
 Confirming Banks and Trade Finance	10718
 Confirms	1587,2603,142,117,644,1397,784
 Confirms GITGE	6076
-Confirms the World Bank	2780
 Confiscated Property and Asset Management	2652,2999
 Confiscates Starlink Devices Kordofan	4245
 Confiscating	9545,249
@@ -446,7 +446,6 @@ Dever de Confidencialidade	6462
 Digital Economy Conference	7874
 Digital For Fragile And Conflict-Affected Situations	1549
 Digital Nigeria Conference	9576
-Digital Payment Conference	5007
 Directrizes de Conformidade	3519
 E CONFIDENCIALIDADE Artigo	15
 E OMNI VHF NIG-MOT-DM4-ARCEP- Conforme	998
@@ -671,7 +670,7 @@ POPULATIONS Conformément	2342
 PROCEDURE D’ENCHERE ELECTRONIQUE Conforme	10876
 PRÉAMBULE Conformément	8891
 PTML Conference Hall. Deputy Comptroller Nura	8278
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
 PURPOSE Confirm	11156
 Pacific Asia Conference	9128
 Pan African Conference	12361
@@ -808,7 +807,7 @@ Traditional Methods of Conflict Management and Resolutions	1248
 Treatment of Confidentiality	4610
 Twenty-third Americas Conference	4432
 UCDP Uppsala Conflict Data Program	11887,266,1,9,178
-UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3,451,12,1
+UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3,451,12,1,135
 UEFA Conference League	8896
 UK. UK Government. United Nations Conference	11879
 UN Conference	4127,6591,126
@@ -816,7 +815,8 @@ UNCTAD United Nation Conference	2775
 UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178
 UNECA Conference of Ministers	5789
 USE MOBILE CONFIDENT SUFFICIENT READING	11964
-Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1
+Union CZI Confederation of Zimbabwe Industries ECD	12512
+Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1,135
 United Nations Climate Change Conference	10768,804
 United Nations Climate Change Conference DRE	11572
 United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361

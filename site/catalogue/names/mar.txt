@@ -339,7 +339,7 @@ Common Market Protocol	2106,5401,3312
 Common Market for East and South Africa	12286
 Common Market for Eastern Africa	1914
 Common Market for Eastern and RSPs	11960
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44
 Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760
 Common Market for Eastern and Southern Africa's Regional	10718
@@ -603,6 +603,7 @@ Emerging Markets Telecommunications Services	330
 Emerging Markets Telecommunications Services Limited	330
 Emerging Markets and Developing Economies	1828
 Emerging Technologies Digital Marketplace	7548
+Emilie Martin	12504
 Emirates Mr. Marwan Al Sarkal Office	2958
 Empresa da Marginal	10753
 Eneida Martins	10748
@@ -789,7 +790,7 @@ Hon. Marc-Alexandre Doumba	8464
 Hon. Martha Wangari	10313
 Hon. Mary Maingi	10313
 Honora Mara	11149
-Honourable Commissioner Dr. Eng. Martin Muduva	4528
+Honourable Commissioner Dr. Eng. Martin Muduva	4528,7984
 Honourable Commissioner Dr. Marie Louise Abomo	8485
 Honourable Commissioner Maria Teresa Manuela	8485
 Horn of Africa Digital Market Integration	806
@@ -852,7 +853,7 @@ Industry and Market Context Passive	4896
 Infinity Marketing Lenovo Dealnews.gr Limbo DECAID	8530
 Informal Market Platform	7635
 Information and Labour Market Intelligence	11791
-Infrastructure Market	12355
+Infrastructure Market	12355,132
 Ing. Dr. Mark Oliver Kevor	3384
 Innovation Mark Alexandre DOUMBA Le Ministre	11580
 Innovation and Market Competition	4430
@@ -876,6 +877,7 @@ Introduction of Market Structure Requirements	6935,2815
 Investment Incentives Fiber Market	4525
 Inwi and Maroc Telecom	2673
 Inwi and Orange Maroc	5772
+Inyanga Kariba Lomagundi Lupane Makoni Marandellas	12511
 Ireland. Marheine	2093
 Irène Marie-Cécile Mboukou-Kimbatsa	11913
 Ivan Marques	10758
@@ -1492,7 +1494,7 @@ Marien-Ngouabi and Denis-Sassou-N'Guesso	987
 Marietje Schaake	4253,2264
 Marija Adela Gjorgjioska	7810
 Marikana. MTN	7738
-Marike Strydom	4528
+Marike Strydom	4528,7984
 Marikiti Market	1236
 Mariluz Eseng Osa Mangue	6841
 Marin	10714
@@ -1607,7 +1609,7 @@ Marked for Deletion Rationale	1228
 Marked for Deletion The Intermediate Indicator	1228
 Markedly	11879
 Markeeter	2816
-Market	718,243,76,124,80,23,262,337,22,1,58,628,203,1,178,389,211,206,101,1,102,23,139,65,334,3,672,45,34,396,120,77,58,547,194,62,4,11,198,536,648,159,206,258,35,57,47,545,302,20,188,210,624,60,15,5,102,1,5,16,100,49,20,2,39,3,98,9,164,31,63,9,192,28,65,27,1,10,65,34,68,97,1,31,13,1,5,4,42,41,54,4,30,4,6,1,3,27,2
+Market	718,243,76,124,80,23,262,337,22,1,58,628,203,1,178,389,211,206,101,1,102,23,139,65,334,3,672,45,34,396,120,77,58,547,194,62,4,11,198,536,648,159,206,258,35,57,47,545,302,20,188,210,624,60,15,5,102,1,5,16,100,49,20,2,39,3,98,9,164,31,63,9,192,28,65,27,1,10,65,34,68,97,1,31,13,1,5,4,42,41,54,4,30,4,6,1,3,27,2,59,25
 Market Abuse	3714
 Market Abuse Enforcement Committee	3714
 Market Access	5247
@@ -1902,7 +1904,7 @@ Marrakesh Treaty Ratification	11935
 Marrakesh Treaty Signing	11935
 Marrakesh Treaty The Republic of Niger	10358
 Marrella	9237
-Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58
+Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25
 Marriage Act	1,2830,2702,5232,10,402,809,341,10,30
 Marriage Act Chapter	12449
 Marriage Adoption	12327
@@ -1990,7 +1992,7 @@ Martial Rubeiro	2559
 Martial Stève Mbétissinga	5435
 Martial Tchibinda	4125,13
 Martijn Proos	9061
-Martin	2096,720,132,4000,3893,1386
+Martin	2096,720,132,4000,3893,1386,277
 Martin Ahachi Dr. T.A. Gaga MFB&NP	11857
 Martin Camilleri	10764
 Martin Cave	6539
@@ -2235,7 +2237,7 @@ Namibia ICT Sector Market Report	1944
 Namibian Dollar Telecommunication Sector Market Report	1013
 Namugongo Martyrs Shrine	4954
 National Communication Sector Policy San Marino	11529
-National Data Marketplace	4528
+National Data Marketplace	4528,7984
 National Digital Marketplace	10157,1,152
 National Digital Marketplace Median	10157
 National Digital Marketplace. NITDA	10310
@@ -2350,7 +2352,7 @@ Passation des Marchés Publics	10876
 Patrice Marie	8106
 Paul Marie Gondjout	4125
 Paul Marin	11357
-Paul Martens	12225
+Paul Martens	12500
 Paul Tirimba and Martin Kungania	899
 Paulo Martins	5476
 Payments and Market Infrastructure	11130
@@ -2380,7 +2382,7 @@ Planning Director General of Capital Market Authority	6938
 Pnet Job Market Trends Report	6832,1747
 Poilão Marine National Park	11586
 Police Commissioner Dinah Marathe	5174
-Por Marisa Pilar Oyana BAKALE OKOMO	3494
+Por Marisa Pilar Oyana BAKALE OKOMO	3494,9024
 Port Maritime Institute	11553
 Port of Mombasa Selected Maritime Indicators PAGE	2775
 Portal Zambia Development Agency Common Market	12454
@@ -2501,7 +2503,7 @@ Royal Air Maroc	9928
 Royaume du Maroc	308,121,118,3,18,20,850,4307,233,1926,333,154,282,218,1821,1030,96
 Royaume du Maroc. Retrieved	10714
 Rural Mar	6051
-Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Rural Slowing Improvement Not Classified Market	12352
 Rwanda National Police Marine	718
 Rwanda's Capital Markets Authority	9368
@@ -2734,7 +2736,7 @@ Uganda’s Capital Markets Authority	5743
 Ulrich Perrin Marandji Moholo	1258
 Underserved Markets	4848
 Underserved Markets Fintechs	4848
-Unified African Market	4528
+Unified African Market	4528,7984
 United States and China. Mario Draghi	9832
 Universal Telecom. Marang JSS	5295
 University of Maroua	6131

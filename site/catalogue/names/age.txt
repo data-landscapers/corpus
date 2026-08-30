@@ -106,11 +106,12 @@ African Credit Rating Agency	6338
 African Medicines Agency	4167,974
 African Risk Capacity Agency	10819
 African Space Agency	2125,4503,1647,829,3029
-African Union Agenda	961,853,6191,3188,958,129
+African Union Agenda	961,853,6191,3188,958,129,214
 African Union Agenda2063	5246
 African Union Development Agency	1243,571,1544,509,11,3070,847,4020
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
+African Union's AI Agenda	12512
 African Union's Agenda	5246,203,1489,198,457,903
 African Union’s AI Agenda	4528
 African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388
@@ -316,7 +317,7 @@ Agencies and Commissions	1777
 Agencies and Counties	5793
 Agencies and Counties MERL Monitoring	7548
 Agencies and Institutions	961,10899
-Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54
+Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99
 Agency Act No	2727
 Agency Administrative	2727
 Agency Agencies	1000
@@ -679,7 +680,7 @@ Dedicated Children's Agency Data Processor INST-84490224289	7167
 Defence Intelligence Agency	11928
 Department and Agencies	3907
 Department and Agency	11854
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -877,7 +878,7 @@ Gender and Age Gender Composition of PWDs All	12460
 General Statute of State Employees and Agents	4260
 Geographic Agent	12297
 German Agency for GRM International Cooperation	10964
-German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1083,34
+German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241
 German Agency for International Development	10964
 German Development Agency	1814,1790,7237
 Ghana Beyond Aid Agenda	789
@@ -922,7 +923,7 @@ Health Security and Sovereignty Agenda	5456
 Health and Safety PDA Payment Distribution Agent	11198
 High Commissioner for Refugees UN Refugee Agency	12328
 Highlighting the Agency	9576
-Homegrown Economic Reform Agenda	7820,4405
+Homegrown Economic Reform Agenda	7820,4680
 Housing Development Agency	11285
 I Technical Contact Agent D Government	736
 ICT Agency	1714,9098,317
@@ -1057,6 +1058,7 @@ Kenya's Bottom-up Economic Transformation Agenda	12210
 Kenya's Digital Transformation Agenda	7407
 Key Agencies	4808,7581
 Key Findings Namibia Statistics Agency	12383
+Kiosk USSD Apps Agents QR	12490
 Kiosk USSD Apps POS Agents QR	12000
 Kisubi Associated Writers Agency	11022
 Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178,788
@@ -1175,7 +1177,7 @@ Nation Address SSA State Security Agency	5533
 Nation Identification Agency	977
 National AI Agency	8088,2064,19
 National AI Agency Addressing	10152
-National AI Research Agenda	4528
+National AI Research Agenda	4528,7984
 National Agency	1927,949,96,69,1814,724,568,304,5694
 National Agency for Civil Registration and Identity	2349
 National Agency for Clinical Engineering and Digital Health	11892
@@ -1219,7 +1221,7 @@ National Cyber Security Agency	6803
 National Cybersecurity Agency	395,1382,368,539,513,83,324,867,297,1572,447,36,1559,1112,134,15,1094,727,211,231
 National Cybersecurity Agency By Ronald Owili	11675
 National Cybersecurity Agency Order	6787,36,4641
-National Data Agency	4528,644
+National Data Agency	4528,644,7340
 National Data Protection Agency	2109,8656,10
 National Development Agenda	1554
 National Digital Certification Agency	2578
@@ -1260,7 +1262,8 @@ National Research Agenda. Foreign Researchers Committee	1554
 National Road Safety Agency	5004
 National Security Agency	1777,741
 National Space Research and Development Agency	1274,1196,2103,6556
-National Statistics Agency	223
+National Statistics Agency	223,12276
+National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
 National Telecommunications Regulatory Agency	6312
 National Transformation Agenda	9369,595
@@ -1285,7 +1288,7 @@ Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s Digital Transformation Agenda	7234
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
 No. Implementing Agency	11965
-Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86
+Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
 Norwegian Agency for Development Cooperation NRP	12175
 Nossa Agenda Comum	2816,8571
 Notice and Agenda	7204
@@ -1365,7 +1368,7 @@ Public Korea International Cooperation Agency	699
 Public Procurement Departments and Agencies	11905
 Publics AVI Agent de Vérification Indépendant BAD	10876
 Qualité ARMP Agence de Régulation des Marchés	10975
-Questions IFMIS German Agency for International Cooperation	12225
+Questions IFMIS German Agency for International Cooperation	12500
 RBA Rwanda Broadcasting Agency REMA Rwanda	718
 REQUETE DECISION FINALE Agence Nationale de Traitement	10821
 RESPONSABLE DE TRAITEMENT Agence Nationale des Transports	10821
@@ -1475,6 +1478,7 @@ Security Agency Press Statement	9067
 Security Border Agency Integration	12389
 Security Oversight Agency	11806
 Selected Age-group	12151
+Selected Banks Tax Agent Module Release	12491
 Senegal Korea International Cooperation Agency	86,612
 Senegalese Agency for Digital Development	4912
 Senegalese Press Agency	5985
@@ -1553,7 +1557,7 @@ Swe Tax Agency	33
 Sweden’s Development Cooperation Agency	3274
 Swedish Civil Contingencies Agency	6649
 Swedish International Development Agency	1814
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223
 Swedish Tax Agency	33
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
@@ -1615,13 +1619,13 @@ Trust and Identity for Humans and Agentic AI	7320
 Turkish Cooperation and Coordination Agency	11637
 Tutto Passa Agency and TechCabal	6971
 Técnico da AGER	5557
-U.S. Agency for International Development	5163,2587,2696,1746
+U.S. Agency for International Development	5163,2587,2696,1746,309
 U.S. Agency for International Development. The U.S	5165
 U.S. International AI Agenda and Instruments	6790
 U.S. Trade and Development Agency	4830,1960,3561,1006
 UK Age-Appropriate Design Code	6029
 UK’s Age-Appropriate Design Code	7983
-UN Agencies	1814,2714,7025
+UN Agencies	1814,2714,7025,959
 UN Agencies and International Organizations	1243
 UN Agency for Digital Technologies	11920
 UN Legal Identity Agenda	10591,1560,186
@@ -1688,6 +1692,7 @@ Youth Employment Agency	7285,410,3247,1
 Youth Population Aged	12431
 ZAM Act. Zambia Compulsory Standards Agency	1988
 ZCSRA Zanzibar Civil Status Registration Agency	11133
+ZIMSTAT The Zimbabwe National Statistics Agency	12498
 ZUPS. Zanzibar Civil Status Registration Agency	11133
 Zambia Advances Digital Identity Agenda Through	6229
 Zambia Compulsory Standards Agency	1988
@@ -1713,7 +1718,7 @@ Zanzibar ICT Infrastructure Agency	4526
 Zimbabwe Agenda	3840
 Zimbabwe National Geospatial Agency	520
 Zimbabwe National Geospatial and Space Agency	413,107
-Zimbabwe National Statistics Agency	395,7126,1731
+Zimbabwe National Statistics Agency	395,7126,1731,3247,6,3
 Zimbabwe Statistics Agency	1154
 Zimbabwe's National Research Agenda. The RCZ	1554
 Zimbabwe's Research Agenda	1554

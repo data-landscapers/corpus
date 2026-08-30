@@ -58,6 +58,7 @@ Administration DMO District Medical Office DSL	34
 Administrative District	3386
 Advantages and Disadvantages Starlink-Airtel	4442
 Advocacy and Dissemination	11237
+Affairs Dispute Resolution Lodge A Complaint	12515
 Africa Center for Disease Control	560
 Africa Centers for Disease Control and Prevention	4049,2288
 Africa Centre for Disease Control and Prevention	562
@@ -74,7 +75,7 @@ African Disability Rights Yearbook	10826
 African Disability Rights Yearbook Elle	10826
 African Union. Disponível	2816
 Africa’s Center for Disease Control In Burundi	10865
-Afrobarometer Dispatch No	7886,4306,86
+Afrobarometer Dispatch No	7886,4306,86,223
 Afrobarometer Working Papers Discussion	7886
 Age Disparities	12411
 Age Range and Gender Distribution	11955
@@ -106,7 +107,7 @@ Animal Disease Act	11188
 Animal Disease Notification and Investigation System	8183
 Animal Disease Surveillance Dashboard	7236
 Annual Disability Lecture	4028
-Annual Disciplinary Committee Findings Summary	12225
+Annual Disciplinary Committee Findings Summary	12500
 Anti-Tubercolosis Dispensary of Luanda	10784
 Antiretroviral Therapy CDC Centers for Disease Control	12379
 App Txapita. Disponível	2816
@@ -385,8 +386,8 @@ Context of Forced Displaceme	10841
 Continuing Misinformation and Disinformation Campaigns	2626
 Contracting and Disposal of Surplus	10008
 Contrat de Distribution	10975
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Copyright Disputes Tribunal	8490
 Core and Distribution Network	11857
 Cornell University. Disponível	2816
@@ -556,7 +557,7 @@ DISPUTE AVOIDANCE AND DISPUTE SETTLEMENT	1243
 DISPUTE RESOLUTION	12389
 DISPUTE RESOLUTION COMMITTEE The Research Council	1154,400
 DISPUTE RESOLUTION Part A General	11181
-DISPUTE RESOLUTION SECTION	12324
+DISPUTE RESOLUTION SECTION	12484
 DISQUE DUR	9339
 DISREP	11469,593
 DISRUPTED DATA MOBILITY Latour and Woolgar	12090
@@ -569,7 +570,8 @@ DISTRIBUIÇÃO DE TRABALHADORES POR GRUPOS PROFISSIONAIS	11531
 DISTRIBUIÇÃO E FISCALIZAÇÃO DAS RECEITAS	744
 DISTRIBUIÇÃO E FISCALIZAÇÃO DAS RECEITAS Artigo	744
 DISTRIBUIÇÃO POR UNIDADE ORGÂNICA	11531
-DISTRIBUTED BY VERITAS	736,487,2537,768
+DISTRIBUTED BY V6E1RITAS	12489
+DISTRIBUTED BY VERITAS	736,487,2537,768,7984
 DISTRIBUTED BY1V5E2RI7TAS	6621
 DISTRIBUTED GOVERNANCE ARCHITECTURE	3861
 DISTRIBUTION OF DATA CENTER FACILITIES	10861
@@ -838,7 +840,7 @@ Discipline	3941,228,448,1772,2093,2412,2,1,1,5,1,1,1,7,62
 Discipline Budgétaire	8750,3155
 Discipline This Demands	10078
 Disciplined Practice	11658
-Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,312,141,132,67,139,35,27
+Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Disclaimer APPENDICES Appendix	5247
 Disclaimer All	8376,3870
@@ -850,6 +852,7 @@ Disclaimer FAST FACT	5247
 Disclaimer Figure	5247
 Disclaimer SMEs	9129
 Disclaimer Surveyed	5247
+Disclaimer Terms Of Use Privacy Policy	12515
 Disclaimer Thematic Categories Question Responses Please	5247
 Disclaimer Zambia	5247
 Disclaimer and Sitemap	8897
@@ -880,7 +883,7 @@ Disclosure of Information	11250
 Disclosure of Information All	775
 Disclosure of Liability	12389
 Disclosure of Patent and Trademark Licensing Agreements	12389
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Disclosure of Relevant Information	12389
 Disclosure of Subcontractors GCSP	6432
 Disclosure of Tax Planning	11976
@@ -935,7 +938,7 @@ Discretion	11797,572
 Discretionary	4439
 Discretionary Industrials Real Estate Communication Services	4972
 Discriminant	9129
-Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1
+Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1,135
 Discrimination Against Persons	12038
 Discrimination Against Women	3583
 Discrimination Against Women and Girls CRS Creditor	970
@@ -1039,10 +1042,10 @@ Disparidades	11523
 Disparities	1814,9026,1076,362
 Disparition	1299
 Disparity	10844
-Dispatch	5257,2465,3253
+Dispatch	5257,2465,3253,1526
 Dispatch Depuis	10975
 Dispatch National	1993
-Dispatch No	12278
+Dispatch No	12278,223
 Dispatch of B1 and D1	12151
 Dispatch of B1 and D2	12151
 Dispatch. Ces	10975
@@ -1146,7 +1149,7 @@ Disposições Transitórias	11404,907
 Disproportionate	3021
 Disproportionate Control	3503
 Disputa Online	11898
-Dispute	3503,211,147,2571,4706,838,293,1,119,68
+Dispute	3503,211,147,2571,4706,838,293,1,119,68,33
 Dispute Avoidance and Dispute Settlement	1243
 Dispute Building Permit Decisions	12389
 Dispute Environmental Clearances and Permits	12389
@@ -1162,7 +1165,7 @@ Dispute Resolution Committee	11,1543
 Dispute Resolution Committee The Dispute Resolution	1154,400
 Dispute Resolution Committee Total Number of Meetings	1554
 Dispute Resolution Consumer Complaints	11861
-Dispute Resolution Procedure Manual	12225
+Dispute Resolution Procedure Manual	12500
 Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649,488,60
 Dispute Settlement	1243
 Dispute Settlement Chapter	1243
@@ -1249,7 +1252,7 @@ Distribuer	3396
 Distribuição	2138,728,7881,10,3,6,6,5,629,10,5,25,85,6,37,3,444
 Distribuição Desenvolvida	11430
 Distribuição da Rede Bancária	10775
-Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1
+Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114,1081,78,1,227
 Distributed Access	11469
 Distributed Active Archive Center	10794
 Distributed Antenna System	718
@@ -1349,8 +1352,10 @@ District Authorities	6921
 District Autonome	2342
 District Autonome du Grand Lome	4293
 District Before Employment	12253
+District CCPN	12510
 District Cape Winelands Cape Winelands Cape	8999
 District Centre for Agriculture	1512
+District Chaplain	12510
 District Chief	11716,369
 District Commissioner	7503
 District Commissioner Abdullahi Hasan	2743
@@ -1384,7 +1389,7 @@ District Health	11252
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,5
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
 District Health Management Information System	1261
@@ -1416,7 +1421,7 @@ District Offices	2689
 District One Factory	789
 District Performance Assessment Tool	1512
 District Postal Manager	11129
-District Registrar	3285
+District Registrar	3285,9211
 District Registration Center	12217
 District Registration Office	12216,1
 District Registration Office Delayed	12216
@@ -1442,6 +1447,7 @@ District de Bamako	6959,769,115,733,711,55,1212
 District de Bamako. Ces	9287,55
 District de Bamako. Dans	6959
 District des Montagnes	2342
+District of Birth	12496
 District of Columbia	5692
 District of Rwanda. Figure	12328
 District-Level	3791
@@ -1569,9 +1575,9 @@ Education CLIMATE Climate Change and Disaster Screening	10768
 Education Division and District	12175
 Educational Level District Hospital	12379
 Eendei Dispensary Data Controller INST-6722790B3DF MACHAKOS	7167
-Effective Tax Dispute Resolution	12225
-Effective Tax Dispute Resolution Performance Assessment	12225
-Effective Tax Dispute Resolution This POA	12225
+Effective Tax Dispute Resolution	12500
+Effective Tax Dispute Resolution Performance Assessment	12500
+Effective Tax Dispute Resolution This POA	12500
 Ehlanzeni District Municipality	11343
 Ekitale Dispensary Data Controller INST-551873D1231 BUNGOMA	7167
 Ekitale Dispensary Data Processor INST-551873D1231 BUNGOMA	7167
@@ -1597,7 +1603,7 @@ Emergency Dispatch A I System	8283
 Emeritus Distinguished Fellow	5044
 Empowering Districts and Schools	6048
 Empresa Nacional de Distribuição de Electricidade	11380,739
-Energy Disclosure of Public Records	10835,3,130,902,16,466,1
+Energy Disclosure of Public Records	10835,3,130,902,16,466,1,135
 Energy REDs Regional Electricity Distributors SADC	12399
 Energy Source Disclosure Technologies	7548
 Enforced Disappearance	11765
@@ -1756,7 +1762,7 @@ Guidelines for Setting Fair and Non Discriminatory Royalties	12389
 Guinea Worm Disease	10776
 Guinea-Bissau PIM. Disbursement IBRD	1264
 Gulu District	5394,3988
-H. Tax Dispute Resolution	12225
+H. Tax Dispute Resolution	12500
 HDAs. Zone Distribution Area	9123
 HF District Hospital	12379
 HOST COMMUNITIES PROJECT Public Disclosure	1988
@@ -2082,6 +2088,7 @@ Matemática Discreta	12019
 Mathématiques Discrètes	8721
 Matéria Penal. CAPÍTULO V Disposições Transitórias	6970
 Mayuge District. The Government of Uganda	4217
+Mbare District	12510
 Mecanismos de Resolução de Disputas de Terra	11898
 Medicines and Disposal of Medicines	10776
 Meheba Refuge Settlement Kalumbila District	1988
@@ -2100,7 +2107,7 @@ Microsoft Discovery	6498
 Microsoft Discovery Science	6498
 Microsoft. Disponível	2816
 Migrants and Internally Displaced Persons	12145
-Migrants and Internally Displaced Persons Act	11865,280
+Migrants and Internally Displaced Persons Act	12145
 Milange District	12180
 Milange District. Contact	12180
 Min Discount Max Discount Reference Offer	11259
@@ -2343,7 +2350,7 @@ Plc KAEDC Kaduna Electricity Distribution Plc	12062
 Pnge Kayonza District Ile Bugarura Bwira	12413
 Point of Sales Persons With Disabilities	10763
 Points Development Discoveries Education	9989
-Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1
+Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135
 Policy and Regulation Department Central Business District	11861
 Population CLIMATE Climate Change and Disaster Screening	11417
 Population Distribution	12383
@@ -2487,7 +2494,7 @@ Renal Diseases	12151
 Renewvia Energy Kenya Limited Distribution and Supply	12256
 Report of Right of Way Dispute Resolution	11857
 Report. Disclaimer	10313
-Reporting and Dissemination	4528
+Reporting and Dissemination	4528,7984
 Resident District Commissioners	5731
 Resolução de Disputas de Terras	11898
 Resolve Land Disputes	12389
@@ -2637,7 +2644,7 @@ Stakeholder Engagement and Information Disclosure ESS	3604,8301
 Stakeholder Engagement and Information Disclosure Relevance	1988
 Stakeholder Engagement and Information Disclosure Relevant	12253
 Stakeholders Discuss Benefits	10370
-Standing Disciplinary Committee	12225
+Standing Disciplinary Committee	12500
 Staples Retailing Distribution	4972
 Starlink Now Displays	4601
 State of Disaster	2307
@@ -2674,7 +2681,7 @@ TITRE VIII DES DISPOSITIONS TRANSITOIRES ET	10813
 TRADE TAXATION DISPUTE RESOLUTION MARKET COMPETITION	12389
 Tanzania Disaster Management Agency	6168
 Tax Dispute	12389
-Tax Dispute Procedures Manual	12225
+Tax Dispute Procedures Manual	12500
 Tax Dispute Resolution and Tax Tribunal	8669
 Tchikapika District	4798
 Teachers Focus Group Discussion	899
@@ -2771,7 +2778,7 @@ Virtual Distribution	10762
 Visa Disclaimer	6355
 Vital Statistics Report Production and Dissemination Process	12367
 Vodacom Congo. Discussions	6764
-VoicesAfrica. Afrobarometer Dispatch No	12192,86
+VoicesAfrica. Afrobarometer Dispatch No	12192,86,223
 Vumatel Student Discount Promotion	11259
 WHO's International Classification of Diseases	9370
 WTO DISCIPLINES ON DATA ISSUES	1243
@@ -2827,5 +2834,6 @@ Zimbabwe District Code System Districts	6666
 Zimbabwe District Value Set Districts	6666
 Zimbabwe Exemption Permit Dispensation	4667
 Zimbabwean Children Face Violent Discipline	2987,16,962,1438,1506
+Zimbabweans Grow Increasingly Dissatisfied	12501
 Zomba District	12242
 Zomba District Health Office. Informed	12242

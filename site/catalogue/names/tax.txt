@@ -10,8 +10,8 @@ Absence of Local Tax Presence Requirements	12389
 Account VAT Value Added Tax TABLE	1284
 Accreditation of Tax Agents PART II	11976
 Act. Nigeria Tax Administration Act	11976
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,17,160,9,1,2,3,22,17,6,7,31
-Added Tax Act	4896,2025,3102,1924
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17
+Added Tax Act	4896,2025,3102,1924,562
 Added Tax Amount of Tax N	11976
 Added Tax Certificate	12400
 Added Tax DISCLAIMER	11298
@@ -24,6 +24,7 @@ Added Tax WASAC	12445
 Added Tax XML Extensible Markup Language	11261
 Addressing the Tax Challenges	12385
 Adjusted Value Tax	10870
+Adjustments of Input Tax	12509
 Admin Data for Tax Justice Initiative	10335
 Administrative Data and Tax Policy Analysis	10335
 Administrative Data and Tax Policy Analysis Workshop	10335
@@ -46,8 +47,9 @@ Applicable Taxes	8590
 Apply for Tax Compliance Certificate Import	12454
 Appointment of Tax Ombud	11181
 Assistant Finance Minister for Tax Policies Rami	10448
-Attachment IV. Current Status of Tax Administration	12225
+Attachment IV. Current Status of Tax Administration	12500
 Attractive Tax	11863
+Automatic Input Tax Schedule for Fiscal Tax	12509
 Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 B- Tax	5864
@@ -71,7 +73,7 @@ Building Blocks for Digital Financial Inclusion and Taxation	5244
 Building Tax Capacity	10997
 Building Tax Capacity for Growth and Development	10997
 Burundi Digitizes Tax Collection With Launch	4710
-Business Income Tax	12225,220
+Business Income Tax	12445,55
 Business Income Tax DES	12445
 C. Tax Revenue Performance and Challenges Tax	10997
 CAMEROON Annex I. Estimating Tax Potential	10997
@@ -88,6 +90,7 @@ Capital Gains Tax	4896,4973
 Capital Gains Tax Act	4896,7051
 Capital Gains Tax Act Description Date	4896
 Capital Gains Tax Act of Zimbabwe	4896
+Category B Taxpayers	12509
 Cayman Islands Tax Consequences	7198
 Challenges of General Tax Administration	10762
 Chapter Three of Nigeria Tax Act	11976
@@ -108,6 +111,7 @@ Compensation of Consumption of Taxes	236
 Composition of Direct Taxes	5655
 Composition of Tax Revenue	1828
 Conclusão Taxa Líquida de Escolarização Taxa de Transição	10766
+Condition for Issuing Tax Clearance Certificate	12509
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
 Congo. Tax	1828
 Congo’s Tax Efficiency Scores Using	1828
@@ -115,23 +119,23 @@ Consumption Tax	12452
 Continuação Taxas	10777
 Contribution of Indirect Tax	5655
 Contribution of Indirect Taxes	5655
-Corporate Income Tax	573,1255,3155,672,5107,536,657,270,227
+Corporate Income Tax	573,1255,3155,672,5107,536,657,497,48
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
 Corporate Income Tax Others Taxes	10997
 Corporate Income Tax Others Taxes Taxes	10997
-Corporate Income Tax. This Directorate	12225
+Corporate Income Tax. This Directorate	12500
 Corporate Tax	1885
 Corporate Tax Haven Index	3279,85
 Corporate Tax and VAT	11955
-Council of Ministers Value Added Tax Regulations	12225
+Council of Ministers Value Added Tax Regulations	12500
 Cross Border Taxation Technical Committee	573
 Currency Taxes	11563
-Current Status of Tax Administration Reform	12225
+Current Status of Tax Administration Reform	12500
 Current Tax	11955
 Current Telecommunications Taxation Policy	6789
 Customs and Tax	10762
-D. Filing of Tax Declarations	12225
+D. Filing of Tax Declarations	12500
 D. Tax Expenditures	10997
 DIGITAL SERVICES FOR TAXPAYERS	12389
 DOMÍNIOS REGISTADOS VS TAXA DE ATIVOS	11531
@@ -141,7 +145,7 @@ DUE DATES FOR SUBMISSION OF TAX	12397
 Dalila Henache The General Directorate of Taxes	9037
 Data Sensitivity Taxonomy	3861
 Deceased Taxpayer	4449
-Declarations Tax	12225
+Declarations Tax	12500
 Deduction of Tax	9972
 Deed Number Tax	4896
 Description TaxDev	1123
@@ -150,7 +154,7 @@ Destiny About Us Tax Payer	12454
 Determinants of Property Tax Revenue	10997
 Developer Checklist Sandbox Portal Taxpayer Relations	12454
 Development of Mauritius’ Green Taxonomy UNDP	11332
-Diagnostic Assessment Tool Tax Audit Quality	12225
+Diagnostic Assessment Tool Tax Audit Quality	12500
 Digital Service Tax	573,7213
 Digital Services Tax	573,2588,1422,5481
 Digital Tax Stamp	3236
@@ -175,13 +179,13 @@ Directorate of Revenue and Taxes	8358
 Disclosure of Tax Planning	11976
 Dispute of Tax Audit Results	12389
 Do Developing Countries Tax So	1828
-Domestic Excise Taxes	12225
+Domestic Excise Taxes	12500
 Domestic Taxes	12392
 Domestic Taxes Division	12230
 Double Tax Agreement	11685
 Double Tax Agreements	3161,6862
 Double Tax Agreements. ATAF	3161
-Double Tax Treaties	12225
+Double Tax Treaties	12500
 Double Taxation Agreements	11976
 Double Taxation Agreements. A DST	3161
 Double Taxation Avoidance Agreement	11925
@@ -197,7 +201,7 @@ E- Tax Identification Number. Company	5864
 E-Filing for Tax	10785
 E-tax System Adoption and Tax Compliance	12162
 E. Estimating Cameroon’s Tax Revenue Potential	10997
-E.C. FY Tax	12225
+E.C. FY Tax	12500
 EIS Taxpayer	4699
 EIS Taxpayer Portal	4699
 EIS. Taxpayers	4699
@@ -215,10 +219,10 @@ Earnings Before Interest Tax	3898,2202
 Earnings Before Interest and Tax	11976
 Econet Wireless Zimbabwe Deferred Tax Limited	4896
 Economic Policies and Internal Taxation	7452
-Effective Risk Management Tax	12225
-Effective Tax Dispute Resolution	12225
-Effective Tax Dispute Resolution Performance Assessment	12225
-Effective Tax Dispute Resolution This POA	12225
+Effective Risk Management Tax	12500
+Effective Tax Dispute Resolution	12500
+Effective Tax Dispute Resolution Performance Assessment	12500
+Effective Tax Dispute Resolution This POA	12500
 Effective Tax Rate	12389
 Egyptian Tax Authority	10448
 Egyptian Tax Authority Head Rasha Abdel	10448
@@ -231,20 +235,20 @@ Electronic Tax Invoicing System	4699
 Electronic Tax System	3735
 Employee Tax	12397
 Employee Tax VAT Import	12397
-Employment Income Tax	12225
-Employment Income Tax Value Added Tax	12225
+Employment Income Tax	12500
+Employment Income Tax Value Added Tax	12500
 Employment-Based Taxes and Social Contributions	12389
 Empowering Taxpayers Through Education Recognizing	12439
 Ensino Secundário Taxa	10766
 Ensino. TAXA DE DESISTÊNCIA ESCOLAR	10766
-Enterprises Technical Assistance Advisor Tax Administration	12225
+Enterprises Technical Assistance Advisor Tax Administration	12500
 Estimating Tax Potential	10997
 Eswatini Green Finance Taxonomy	8377,2754,3
 Ethiopia National Tax and Customs Administration System	850
-Ethiopia TEU VAT Tax Administration Support	12225
+Ethiopia TEU VAT Tax Administration Support	12500
 Evidence of Tax	8985
 Exchange Point JTB Joint Tax Board	11857
-Excise Tax-to-GDP	12225
+Excise Tax-to-GDP	12500
 Expanding Large and Medium Taxpayer Offices	10997
 Export Tax	5655
 Export Tax Act	6921
@@ -258,10 +262,10 @@ Favorable Investment Environment Tax	3113
 Fecundidade Geral Taxa Global de Fecundidade Tratamento	10777
 Fecundidade Taxa	10760
 Federal Government Tax Revenue	5655
-Federal Tax Administration P5-16. Use	12225
-Federal Tax Administration PROCLAMATION No	12225
-Federal Tax Administration Proclamation	12225
-Federal Tax Administration Proclamation No	12225
+Federal Tax Administration P5-16. Use	12500
+Federal Tax Administration PROCLAMATION No	12500
+Federal Tax Administration Proclamation	12500
+Federal Tax Administration Proclamation No	12500
 File and Pay Taxes	12389
 Filing for Tax	10785
 Finance Act. Taxpayers	11858
@@ -271,6 +275,9 @@ Financial Development and Tax Revenue	1828
 Firms Filing and Paying Taxes Electronically	12389
 Fiscal Cost 9 E. Estimating Cameroon’s Tax	10997
 Fiscal Policy and Tax Reforms	10319
+Fiscal Tax Invoice	12509
+Fiscal Tax Invoices	12509
+Fiscalisation Requirements All Taxpayers	12509
 Fixed Assets Tax	12452
 Foreign Account Tax Compliance Act	6524,1,5160
 Formal Informal Financial Support Tax	12445
@@ -278,7 +285,7 @@ Forms Taxpayer Portal Online Portal Mobile	12454
 Frontier Model for Tax Revenue	10997
 Fund Profit Before Tax	4896
 Future Tax Plans	12389
-G. Domestic Tax Arrears	12225
+G. Domestic Tax Arrears	12500
 GIYH and TaxPal	2885
 GRA’s Domestic Tax Revenue Division	10419
 GSMA Tax Database. Côte	10932
@@ -306,14 +313,14 @@ Global Minimum Tax Administration Act	11263
 Goods Motor Vehicle Tax Calculator	12454
 Government In Your Hand and ERS TaxPal	2885
 Government Revenue and Tax Composition Trends	10997
-Government Tax Administration System State Owned	12225
+Government Tax Administration System State Owned	12500
 Governments and Nigeria Tax Administration Act	11976
 Green Finance Taxonomy	11134
 Green Finance Taxonomy Emerging Markets and Developing	11134
 Green Taxonomy. Partnerships	11332
 Grows H1 Profit After Tax	8178
 Guinea-Bissau Tax Compliance	1698
-H. Tax Dispute Resolution	12225
+H. Tax Dispute Resolution	12500
 Heads of Tax Administrations Master Class	7692,1
 Hidden Tax	6735,200
 Higher Tax Rates	12389
@@ -332,7 +339,7 @@ Income Tax Act. Tanzania	10388
 Income Tax Act. This Suggested Approach	3161
 Income Tax Bill	2676,3485
 Income Tax Filing Season and Compliance Improvement	12439
-Income Tax GIZ Document Authentication and Registration	12225
+Income Tax GIZ Document Authentication and Registration	12500
 Income Tax Individual Business	12397
 Income Tax Individual Salaried Any	12397
 Income Tax Law	11136
@@ -344,10 +351,13 @@ Income Tax Self-Assessment Forms	11976
 Income Tax Tax	11955
 Income and Tax Revenue Around the World	1828
 Indirect Taxes	5655
-Individual Business Profit Tax	12225
+Individual Business Profit Tax	12500
 Indus- Taxes	2775
 Industrial Tax	10762
 Infraestructure Local Server Tax Number-MINFIN	10775
+Input Tax	12509
+Input Tax Claim Schedules for VAT Returns	12509
+Input Tax Claims for Taxpayers	12509
 Institute CIT Company Income Tax AI	12395
 Integrated Border Declaration Form Customs Tax	12454
 Integrated Tax Administration	10852
@@ -378,14 +388,14 @@ La Taxe	6954,4980
 La Taxe Spéciale	6954
 La Taxe Unique	6954
 La Value Added Tax Act	7994
-Large Taxpayer Office	10419,1806
+Large Taxpayer Office	10419,2081
 Large Taxpayer Offices and State Suppliers	10792
 Large Taxpayers and Businesses	8670
 Large and Medium Taxpayer Offices	10997
 Large and Medium Taxpayers' Experience	12162
 Large and Medium Taxpayers' Experience Working Paper	12162
 Legal Regime of Taxpayer Number	10775
-Legal Service Directorate for Tax Tribunal and High	12225
+Legal Service Directorate for Tax Tribunal and High	12500
 Liability for Digital Services Tax	573
 Liberia Integrated Tax Administration System	10550
 Libyan Tax Authority	4251
@@ -396,13 +406,13 @@ M PROJECT TO BOOST TAX ADMINISTRATIONS	10581
 MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
 MNE Group. Tax	573
 MODERN TAX SYSTEM P	10762
-MOR's Tax Appeal Office	12225
+MOR's Tax Appeal Office	12500
 MTN Tax Windfall MTN	10425
-Main Taxes	12225
-Main Taxes Ethiopia	12225
+Main Taxes	12500
+Main Taxes Ethiopia	12500
 Manage Tax Type Transfer Facebook X	11276
 Mandate of Tax Ombud	11181
-Mandating Digital Tax Tools	12332
+Mandating Digital Tax Tools	12485
 Master Plan for Tax Modernisation	9421
 Material Scope and Data Classification Taxonomy	3861
 Material U.S. Federal Income Tax Consequences	7198
@@ -412,7 +422,7 @@ Metered Taxi	11573
 Methodology Handbook. Taxation	12389
 Million Tax Digitalization Contract	11001
 Minimum Alternative Tax	5247,5381
-Ministry of Revenue Tax Collections	12225
+Ministry of Revenue Tax Collections	12500
 Ministry of Revenue. Tax	5655
 MoR Medium Taxpayers No	7909
 Mobile Money Taxes and Affordability	5234
@@ -426,7 +436,8 @@ Motorcycle Taxi Services	718
 Municipal Property Tax System	2112
 Museveni’s Shs20 Billion Relief Fund Tax	3955
 My Tax	12454
-N T Ethiopia Tax Administration Diagnostic	12225
+My Taxes	12497,12
+N T Ethiopia Tax Administration Diagnostic	12500
 NIGERIA TAX ADMINISTRATION ACT	11976
 NIN. Advertisement Senator Onyewuchi Used Taxpayers	10265
 NO. TURNOVER TAX PAYABLE TAX PAYABLE	6921
@@ -447,15 +458,15 @@ Nigeria. Nigeria Tax Administration Act	11976
 Nigeria. Tax	11976
 Non Tax	5655
 Non Tax Revenue	5655
-Northwest Small Taxpayers P8-26. Contribution	12225
+Northwest Small Taxpayers P8-26. Contribution	12500
 Norwegian Centre for Tax Research	10335
 Number of Functional Tax Risk	11866
 OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
 OBTAIN A TAX COMPLIANCE	11240
 OTR's Commissioner for Customs and Indirect Taxes. Use	3674
 Office of Tax Ombud	11181
-On-time Filing of Domestic Excise Tax Declarations	12225
-On-time Filing of Domestic Excise Tax Declarations--Large	12225
+On-time Filing of Domestic Excise Tax Declarations	12500
+On-time Filing of Domestic Excise Tax Declarations--Large	12500
 Online Public Service Portal I-19 Tax	10785
 Online Service Taxpayer Portal	12389
 Oral Taxa Bruta de Frequência Escolar Taxa	10777
@@ -509,7 +520,7 @@ RWANDA'S MOBILE SECTOR TAX REGIME	12385
 Rate Tax Rate Tax Income	11955
 Reference Taxes and Levies	11857
 Reform. Tax for Micro-Economic Activity	10762
-Registered Taxpayer Base	10984,1241
+Registered Taxpayer Base	10984,1516
 Regulamento. CAPÍTULO II TAXAS EM ESPECIAL	744
 Regulations and Taxes	10976,905,1,464
 Regulations and Taxes Senior	11874
@@ -533,6 +544,7 @@ Securities Transfer Tax Act	11181
 Securities Transfer Tax Administration Act	11181
 Select Income Tax	11276
 Select the TRN Tax Type	11298
+Selected Banks Tax Agent Module Release	12491
 Senator Onyewuchi Used Taxpayers’ N300m	10034
 Senegal Replaces Physical Tax Stamps	7502
 Sensitive Tax	5244
@@ -550,18 +562,20 @@ Sistema de Taxas	574
 South African Institution of Taxation	8784
 South African Tax Administration Act	11685
 South Sudan Tax	5347
+Special Circumstances Taxpayers	12509
 Special Purpose Tax Officer	11976
 Special Purpose Tax Officers	11976
-Standard Integrated Government Tax Administration System	12225
-State Minister for Tax Operations Division	12225
+Standard Integrated Government Tax Administration System	12500
+State Minister for Tax Operations Division	12500
 Statistical System Effective Administration Tax	10759,78,1315,188
 Statistics Tax Portal Tax Tools Tax	12454
 Still Highly Volatile Tax Revenue	1828
 Strengthening Tax Administration Capacity Project	5351,4871,350,72
+Submit Tax Returns	12497
 Sustainable Finance Taxonomy	9299
 Swe Tax Agency	33
 Swedish Tax Agency	33
-System Taxpayer Education Unit Value Added	12225
+System Taxpayer Education Unit Value Added	12500
 System and Taxpayer Relationship Management System Korea	286
 TAA Tax Administration Act No	11298
 TAX ACT	6921
@@ -617,13 +631,13 @@ Tax Administration	573,2588,574,3188,2856,1218,143,1249,63,31
 Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22
 Tax Administration Bill	11947
-Tax Administration Diagnostic Assessment Tool	10519,465,1241
+Tax Administration Diagnostic Assessment Tool	10519,465,1516
 Tax Administration General	10064
 Tax Administration Laws Amendment Act	11263
 Tax Administration Performance Shapes Compliance	10997
 Tax Administration Reforms. IMF Working Paper	10997
 Tax Administration Research Centre	12386
-Tax Administration Support System	12225
+Tax Administration Support System	12500
 Tax Administration System	2744,9221,483
 Tax Administration System MDA Ministries	1284
 Tax Administration Technology Innovation Hub	2189
@@ -633,14 +647,14 @@ Tax Administrators African Tax Administration Forum	12208
 Tax Advisor	573
 Tax Agent	11976
 Tax Aggression Killing Ethiopia's Emerging Fintechs	7909
-Tax Appeal Commission	7909,4316
-Tax Appeal Office	12225
-Tax Appeal Review Office	12225
+Tax Appeal Commission	7909,4591
+Tax Appeal Office	12500
+Tax Appeal Review Office	12500
 Tax Appeal Tribunal	9972,2004
-Tax Appeals Directorate	12225
-Tax Arrears	12225
+Tax Appeals Directorate	12500
+Tax Arrears	12500
 Tax Audit	10762
-Tax Audit Directorate	12225
+Tax Audit Directorate	12500
 Tax Audit Framework	12389
 Tax Audits	12389
 Tax Authorities	11955
@@ -653,27 +667,27 @@ Tax CEO Khaled Abdel Ghany	10448
 Tax Calculator	12022
 Tax Cap	6921
 Tax Capacity and Growth	1828
-Tax Clearance	11252
-Tax Clearance Certificate	5247,4532,285,343,221
+Tax Clearance	11252,1245
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673
+Tax Clearance Certificates	9779,2673,57
 Tax Codes	10762
 Tax Collection	8669
 Tax Compliance	1698
 Tax Compliance Certificate	10064,2233
 Tax Compliance Certiﬁcate	2709
-Tax Compliance Division	12225
-Tax Compliance Division. The Tax Appeal	12225
+Tax Compliance Division	12500
+Tax Compliance Division. The Tax Appeal	12500
 Tax Compliance Requirements	11209
 Tax Compliance Status Pin	11252
 Tax Compliance Team Leader	12162
 Tax Consultation	12022
 Tax Cuts	2676
-Tax Debt	12225
+Tax Debt	12500
 Tax Debt Priority Area Coordinator	12162
 Tax Deregistration	12389
 Tax Dispute	12389
-Tax Dispute Procedures Manual	12225
+Tax Dispute Procedures Manual	12500
 Tax Dispute Resolution and Tax Tribunal	8669
 Tax EY Ernst	236
 Tax Effort	10997
@@ -695,8 +709,8 @@ Tax Identification Numbers	9570
 Tax Incentive Returns	11976
 Tax Incentives You Shouldn't Miss	12022
 Tax Information Exchange Agreements	11976
-Tax Information Unit	12225
-Tax Information and Cash Registration Machine Administration	12225
+Tax Information Unit	12500
+Tax Information and Cash Registration Machine Administration	12500
 Tax Inspectors Without Borders. Today	11356
 Tax Invoice Management System	7746
 Tax Jurisdiction	11276
@@ -704,7 +718,7 @@ Tax Justice	11939
 Tax Justice Network	10335
 Tax Justice Network Africa	9162
 Tax Justice Network. The International Consortium	3279,85
-Tax Law Advisor	12225
+Tax Law Advisor	12500
 Tax Management Information System	10785
 Tax Management System	11858
 Tax Mar	2611
@@ -715,15 +729,16 @@ Tax Office	10775
 Tax Offices	12218
 Tax Ombud	10274,907
 Tax Ombud Part F Powers	11181
-Tax Ombudsman	12225
+Tax Ombudsman	12500
 Tax Online	12282
 Tax Online Service Area	12282
 Tax Online Service Portals	10785
 Tax Online for Domestic Tax Payments	12453
-Tax Operation Division	12225
+Tax Operation Division	12500
 Tax Payer Identification Number	22
 Tax Payment Mini App	8102
-Tax Performance Assessment Report	12225
+Tax Performance Assessment Report	12500
+Tax Periods. ITEM CATEGORY VAT RETURNS	12509
 Tax Police	4251
 Tax Policies	1828
 Tax Policy	1155
@@ -757,17 +772,20 @@ Tax Registration Process	12389
 Tax Regulations	12389
 Tax Relief and Grants	1204
 Tax Return	3161
+Tax Return Management	12491
+Tax Returns Management Module	12509
 Tax Revenue	1828,3827,5215,127
 Tax Revenue Appeals Act	6921
-Tax Revenue Collections1	12225
+Tax Revenue Collections1	12500
 Tax Revenue Composition	10997
 Tax Revenue Domestic	5655
 Tax Revenue In The Republic	1828
 Tax Revenues	10819
 Tax Risk Dashboard	11866
 Tax Stamp	11955
+Tax Submission History Select	12497
 Tax System Modernization Plan	10997
-Tax Systems Division	12225
+Tax Systems Division	12500
 Tax Target	10425
 Tax Transformation Office	12162
 Tax Types	11276
@@ -783,7 +801,7 @@ Tax and Customs Administrations Expertise France	648
 Tax and Illicit Financial Flows	9162
 Tax and Legal Consultant	11550
 Tax and Non-Tax Procedures	1284
-Tax and Revenue Management System	9253,144
+Tax and Revenue Management System	9253,144,3094,18
 Tax-administration	7648
 Tax-base	7789
 Tax-revenue	4445
@@ -847,7 +865,7 @@ Taxation of Virtual Assets	8826
 Taxation. Across	12389
 Taxe Spécifique Unique	3045
 Taxe de Soutien	3045
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389,332,9,8,7,74,45,270,76,39,4,101,7
 Taxes Figure	10976,1370
 Taxes Good	11874
 Taxes Grants Social	10997
@@ -869,7 +887,8 @@ Taxonomia de Dados Públicos Quadro de Definições	11448
 Taxonomies	5244
 Taxonomy	1009,1087,9038
 Taxonomy for AI	11156
-Taxpayer	573,3876,6316,10,37,369,1037,7,167,47
+Taxpayer	573,3876,6316,10,37,369,1037,174,47,61
+Taxpayer Accounting	12491
 Taxpayer COMPLIED	6921
 Taxpayer Details	11276
 Taxpayer Experience	8670
@@ -881,23 +900,25 @@ Taxpayer Identification Number	4449,2472,4940,488,103
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbers	2744
 Taxpayer Information	11976
-Taxpayer P5-15. Use	12225
+Taxpayer P5-15. Use	12500
 Taxpayer Portal	10775
 Taxpayer Ref No	11276
-Taxpayer Register	12225
-Taxpayer Register Table	12225
+Taxpayer Register	12500
+Taxpayer Register Table	12500
+Taxpayer Registration	12491
 Taxpayer Relationship Management System. Built	286
-Taxpayer Satisfaction Survey Questionnaire	12225
+Taxpayer Satisfaction Survey Questionnaire	12500
 Taxpayer Service Centre	10419
 Taxpayer Service Centres	11038
 Taxpayer Support Centre	10762
 Taxpayer-centred	10419
-Taxpayers	4348,101,250,3971,367,1382,762,117,322,90,229,279,7,124,43
-Taxpayers Education Unit	12225
-Taxpayers Expected Memorandum	12225
+Taxpayers	4348,101,250,3971,367,1382,762,117,322,90,229,279,131,43,108,9
+Taxpayers Education Unit	12500
+Taxpayers Expected Memorandum	12500
 Taxpayers Identification	10765,10
 Taxpayers Identification Angola	10775
-Taxpayers Office NMTRS Ministry of Finance PAYE	12225
+Taxpayers Office NMTRS Ministry of Finance PAYE	12500
+Taxpayers and ZIMRA	12491
 Taxpayers. ASYCUDA	10550
 Taxpayer’s Portal	10762
 Taxstreem	9972
@@ -906,14 +927,14 @@ Telecoms Sector Specific Taxes	10856
 Telefonia Móvel Celular Taxa	11418
 Through the OECD-UNDP Tax Inspectors Without Borders	11356
 Timely Filing of Tax Declarations	10984
-Timely Filing of Tax Declarations Filing	12225
-Timely Filing of Tax Declarations P4-12. On-time	12225
-Timely Payment of Taxes	12225
-Timely Payment of Taxes P5-15. Use	12225
-Timely Payment of Taxes Taxpayers	12225
+Timely Filing of Tax Declarations Filing	12500
+Timely Filing of Tax Declarations P4-12. On-time	12500
+Timely Payment of Taxes	12500
+Timely Payment of Taxes P5-15. Use	12500
+Timely Payment of Taxes Taxpayers	12500
 Trade Balance VAT Value-Added Tax WDI	11271
-Transparency and Exchange of Information for Tax Purposes	12208,17
-Turnover Tax	12225
+Transparency and Exchange of Information for Tax Purposes	12208,292
+Turnover Tax	12500
 Turnover Tax Provisions. The Finance Act	12208
 TÍTULO VI TAXAS E REGIME SANCIONATÓRIO	11430
 UCC Proposes Major Telecom Tax Cuts	6789
@@ -939,8 +960,10 @@ VAT and Income Tax. REVISION	11298
 VI.H Tax Payer Register	10812
 Valid Tax Clearance Certificate	11252
 Valid Tax Compliance Certificate	9603
+Validity of Fiscal Tax Invoices	12509
+Validity of Fiscal Tax Invoices for Input Tax	12509
 Valuation and Computation of Taxable Gains Taxable	8590
-Value-Added Tax	8670,3555
+Value-Added Tax	8670,3830
 Value-Added Tax Act	11181,82
 Value-Added Tax Code	11550
 Value-Added Tax and Growth	10997

@@ -26,7 +26,7 @@ Athletics Gauteng North Championships.1.4. Rassie Erasmus	2626
 Auditor Ernst	10793
 Bank of Eritrea	6984
 Base Erosion and Profit Shifting	961
-Base Erosion and Profit Shifting. Ethiopia	12225
+Base Erosion and Profit Shifting. Ethiopia	12500
 Benefit Size Erosion	10985
 Besides the ERR	6947
 Boundary Errors	5070,1633
@@ -93,7 +93,7 @@ ERANOVE	2342
 ERASTUS EDUNG ETHEKON	12293
 ERASTUS TOMAS	12478
 ERC Education Resource Centre	11860
-ERCA Business Continuity Program FAQ Corporate	12225
+ERCA Business Continuity Program FAQ Corporate	12500
 ERE QUESTION	6902
 ERERA	6422
 ERERA Headquarters Special Project Financial Reporting	6422
@@ -170,7 +170,7 @@ Era of Ethiopia’s Digital Sovereignty and Inclusive	8920
 Era of Globalization	12227
 Era of Industrial Policy	7548
 Era of Innovation and Convenience. Ethiopia	10709
-Era of Opportunity	4528
+Era of Opportunity	4528,7984
 Era of Technology. African Journal of Information Systems	11927
 Era of Trust and Innovation	4856
 Era of Trust. Cette	4850
@@ -274,7 +274,7 @@ Erika Line Batalha de Carvalho. Na	5791
 Erin Bresnahan	8713
 Erin Segundo Fórum	6571
 Erinna Corinne DIA	2966
-Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,37,8,108,11,1,32
+Eritrea	400,2,67,530,37,705,152,608,176,5,157,508,280,110,178,649,1258,284,878,723,2294,554,204,5,21,50,3,2,8,120,168,473,261,16,1,2,28,236,1,9,10,15,45,108,11,1,32,103,12
 Eritrea Estonia Eswatini Ethiopia European Union	11765
 Eritrea Estonia Eswatini Ethiopia Falkland Islands	11470
 Eritrea Household Income and Expenditure Survey	6106
@@ -326,6 +326,7 @@ Erongo RED	12399
 Erongo Region	12383
 Erosion	970,858,160,8997
 Erosion of Public Trust. Analysis	4528
+Erosion of Public Trust. Mitigation	12512
 Erosion of Trust	8352
 Erosão	11436
 Erradicación	1701

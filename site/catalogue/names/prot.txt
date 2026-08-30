@@ -1,4 +1,4 @@
-ACCOUNTABILITY SOCIAL PROTECTION	10835,133,918,466,1
+ACCOUNTABILITY SOCIAL PROTECTION	10835,133,918,466,1,135
 ACCOUNTABILITY SOCIAL PROTECTION INFRASTRUCTURE	10835
 ACP Countries Data Protection	27
 ACRÓNIMOS APD Agência de Protecção de Dados	11413
@@ -299,8 +299,8 @@ Cyber Security and Personal Data Protection AfCFTA	12055
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
 Cyber Security and Personal Data Protection. Important	10819
-Cyber and Data Protection	1877,1110,143,1398,1034,3689,736,181
-Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96,1509
+Cyber and Data Protection	1877,1110,143,1398,1034,3689,736,181,2344
+Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96,1509,835
 Cyber and Data Protection Act. Under Statutory	8437
 Cyber and Data Protection Regulations	6181
 Cyber-security and Data Protection	3243
@@ -380,8 +380,9 @@ Data Privacy and Protection All	11995
 Data Privacy and Protection ODPC	2668
 Data Processing and Protection	961
 Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86
 Data Protection Act DSM Dispute Settlement	1243
+Data Protection Act Elevating AI	12512
 Data Protection Act Entities CAC GSCPs	6432
 Data Protection Act No	1630,635,4555,618,670,405,1091,1218,1631,14
 Data Protection Act No.3	12453
@@ -397,6 +398,7 @@ Data Protection Act. Entities	6432
 Data Protection Act. Household	12412
 Data Protection Act. In Nigeria	6055
 Data Protection Act. Interestingly	6792
+Data Protection Act. Multi-	12512
 Data Protection Act. Multistakeholder	4528
 Data Protection Act. Normative	1879
 Data Protection Act. PART II	3887
@@ -414,14 +416,14 @@ Data Protection Article	11956
 Data Protection Audit	1014
 Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117
 Data Protection Authority I-39	10785
 Data Protection Authority Protection Authority Authority	1284
 Data Protection Authority The Postal and Telecommunications	972
 Data Protection Authority and Orange	10864
 Data Protection Authority. CYBER AND DATA	972
 Data Protection Authority. Initial	3058
-Data Protection Authority. National Governance Framework	4528
+Data Protection Authority. National Governance Framework	4528,7984
 Data Protection Authority. Objective	4808
 Data Protection Authority. Registration	7364
 Data Protection Authority. The Act	958
@@ -448,7 +450,7 @@ Data Protection Commissioner The DPA	12170
 Data Protection Commissioner and Communications Authority	6231
 Data Protection Commissioner of Mauritius	6363
 Data Protection Commissioner the ODPC	2668
-Data Protection Compliance	4528,6193
+Data Protection Compliance	4528,6193,1791
 Data Protection Compliance Audit Returns	8922,59
 Data Protection Compliance Certificate	12323
 Data Protection Compliance Conclude	2668
@@ -497,7 +499,7 @@ Data Protection Measures	12356
 Data Protection Model Law	962
 Data Protection Office	783,16,197,232,1588,173,254,1286,54,70,197,1689,713,2880,2100,187
 Data Protection Office. Un	6608
-Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117
+Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93
 Data Protection Officer Appointment	12193
 Data Protection Officer Article	11956
 Data Protection Officer Assessment	11956
@@ -898,6 +900,7 @@ Information and Data Protection Commission	2265,1095,2003,2075,670,4124
 Information and Data Protection Commissioner	4987
 Information and Protection	21
 Infrastructure DPIA Data Protection Impact Assessment	7548
+Infrastructure National ICT Policy From Protection	12512
 Infrastructure Protection	2677
 Infrastructure Protection Plan	3604
 Instance de Protection des Donnees	4237
@@ -1070,7 +1073,7 @@ National Civil Protection System	11553
 National Commission for Data Protection	3080
 National Committee for Personal Data Protection	11873
 National Consumer Commission The Consumer Protection	5865
-National Cyber and Data Protection Act for AI-specific	4528
+National Cyber and Data Protection Act for AI-specific	4528,7984
 National Data Protection Act	8418
 National Data Protection Agency	2109,8656,10
 National Data Protection Commission	1347,1749,1608,581,1125,5575
@@ -1365,7 +1368,7 @@ Protect the ICT	958
 Protect the Ledger	11796
 Protect the World's Cultural Heritage	3745
 Protect. Strategic Objective	1777
-Protected	6770,5095,594
+Protected	6770,5689
 Protected Areas	11586
 Protected Areas The Global Economy	11586
 Protected Computers and Critical Database	4484
@@ -1387,8 +1390,8 @@ Protecting Poor and Vulnerable People	10964,941
 Protecting Privacy and Human Dignity	2958
 Protecting the Poor and Vulnerable	10779
 Protecting the Work Force Child Labour and Minimum	1988
-Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,73,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30
-Protection Act	9251,1879,822,258,4
+Protection	34,3,127,70,314,95,140,187,261,12,53,91,390,51,9,81,49,1,46,48,282,239,82,127,216,173,173,42,15,17,176,62,48,40,81,26,5,4,173,83,2,247,153,55,231,401,31,117,18,34,261,147,19,74,272,35,56,233,96,88,140,8,9,93,1,42,213,91,255,184,73,40,72,61,107,67,289,114,179,16,114,27,151,81,432,239,61,180,102,132,44,162,69,66,32,49,68,60,2,14,1,1,1,3,13,10,56,24,19,5,7,164,12,5,5,16,13,279,176,120,92,13,16,1,1,1,11,44,99,100,2,8,1,9,47,31,53,8,31,7,1,11,1,7,29,30,69
+Protection Act	9251,1879,822,258,4,298
 Protection ActData	7270
 Protection Agency	9399,2996
 Protection Application Report	7147
@@ -1612,7 +1615,7 @@ Public Disclosure Authorized SOCIAL PROTECTION	10985
 Public Disclosure Authorized Social Protection and Jobs	10964
 Public Infrastructure and Private Protection	5700
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Protection	5626
 Public Protection and Disaster Relief	11857
 Public Protector	3264,7130,885
@@ -1702,7 +1705,7 @@ SECÇÃO II Protecção	11360
 SECÇÃO III Protecção	11360
 SECÇÃO IV MEDIDAS DE PROTECÇÃO	10747
 SENTENCING AND ORDERS TO PROTECT COMPLAINANTS	11190
-SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36
+SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SOCIAL PROTECTION COVERAGE Despite	11998
 SOCIAL PROTECTION D	11156
@@ -1758,7 +1761,7 @@ Smart Africa Data Protection Working Group	961,9858
 Social Assistance MIS and Linking Social Protection	10822
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35
 Social Protection Act	10775
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Baseline	11469
@@ -1934,10 +1937,10 @@ WAT The Nigeria Data Protection Commission	9878
 WHAT’S PROTECTING	9902
 WHRDs Protection	8713
 WIRELESS VOICE OVER INTERNET PROTOCOL	3862
-WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1
+WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135
 WOUGNET and PROTEGE QV	7946
 Waste Protocols MCTES INAGE	2989
-Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1
 Whistle Blowers and Witness Protection Bill	8681
 Whistle-Blower Protections	3861

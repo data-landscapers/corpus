@@ -112,10 +112,10 @@ Making the Second Nigerian National Broadband Plan	11857
 Marang Junior Secondary School	5295
 Mauritania Second Private Sector	763,418
 Meteosat Second Generation	11334
-Minister of Primary and Secondary Education	4528
+Minister of Primary and Secondary Education	4528,7984
 Ministry of Basic and Secondary Education	1000,5048,6186
 Ministry of Basic and Senior Secondary Education	953,3666
-Ministry of Primary and Secondary Education	395,4133,1557
+Ministry of Primary and Secondary Education	395,4133,1557,6409,10,8
 Ministry of Secondary	6893
 Ministry of Secondary Education	6601,357,3883
 Miseshi Secondary School	3524
@@ -196,7 +196,7 @@ SLD Second Level Domain SMAM Singulate	2775
 SecOps. The Academic Security Operation Center	11077
 Seco Umaro Baldé	11544
 Secod Schedule	736
-Second	14,110,612,53,110,37,60,165,51,202,270,19,111,14,1,159,108,21,6,34,150,52,8,94,131,234,63,69,154,63,21,176,104,26,48,54,112,112,64,234,16,117,100,67,13,6,143,22,66,90,231,116,87,94,146,111,47,102,52,117,23,111,49,144,70,28,103,52,72,158,48,8,55,3,32,7,153,80,86,71,91,138,31,40,23,3,40,94,21,8,66,12,1,96,10,13,57,17,26,65,110,22,77,90,3,48,3,9,24,23,99,19,2,26,71,76,67,47,2,23,22,166,4,16,109,99,68,320,16,4,20,23,280,107,19,125,26,1,165,22,95,31,76,34,2,3,6,1,26,28,52,74,8,1,21,21,10,12,107,5,9,5,10,11,5,78,26,8,18,46,24,88,57,11,60,200,21,90,20,27,11,10,1,14,13,3,42,42,59,2,48,32,9,89,3,37,44
+Second	14,110,612,53,110,37,60,165,51,202,270,19,111,14,1,159,108,21,6,34,150,52,8,94,131,234,63,69,154,63,21,176,104,26,48,54,112,112,64,234,16,117,100,67,13,6,143,22,66,90,231,116,87,94,146,111,47,102,52,117,23,111,49,144,70,28,103,52,72,158,48,8,55,3,32,7,153,80,86,71,91,138,31,40,23,3,40,94,21,8,66,12,1,96,10,13,57,17,26,65,110,22,77,90,3,48,3,9,24,23,99,19,2,26,71,76,67,47,2,23,22,166,4,16,109,99,68,320,16,4,20,23,280,107,19,125,26,1,165,22,95,31,76,34,2,3,6,1,26,28,52,74,8,1,21,21,10,12,107,5,9,5,10,11,5,78,26,8,18,46,24,88,57,11,60,200,21,90,20,27,11,10,1,14,13,3,42,42,59,2,48,32,9,89,40,44,72
 Second ASSAf Report	5246
 Second Additional Financing Republic of Congo LISUNGI	11924
 Second Angola Growth and Inclusion DPF Operation	11380
@@ -298,7 +298,7 @@ Secondaire Supérieur	737
 Secondaire Supérieur Milieu	737
 Secondaires Le Service des Le Service de Gestion	2342
 Secondaires Secteur Tertiaire Transverse Humaines Publiques	2342
-Secondary	582,207,211,9,8,615,186,129,12,29,1595,13,118,77,1074,24,236,621,686,316,579,542,17,415,308,514,352,284,1005,11,37,2,140,9,1,171,3,37,94,316,272,48,11,39,237,86,105,27,1,20,29,7
+Secondary	582,207,211,9,8,615,186,129,12,29,1595,13,118,77,1074,24,236,621,686,316,579,542,17,415,308,514,352,284,1005,11,37,2,140,9,1,171,3,37,94,316,272,48,11,39,237,86,105,27,1,20,29,7,34,11
 Secondary Cities Program for Results	789
 Secondary Distance Education Program	2989
 Secondary Education	1000,1775,4669,4461,294,212
@@ -375,3 +375,4 @@ VA for SMEs Primary Secondary	10980
 World Bank's Second Resilient and Sustainable Infrastructure	11918
 World Bank-supported the Second Health System Strengthening	11924
 YouTube. Second	9364
+Zimbabwe Second	12507

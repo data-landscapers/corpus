@@ -9,7 +9,6 @@ ADMINISTRATEURS REPRESENTANT L’ETATAu	7670
 AI. Representatives	8740
 AI. Representing the Minister for Health	8614
 Abia State. Represented	5072
-Abisoye Coker-Odusote and World Bank Country Representative	12059
 Abuja. Represented	9117
 Academia and Civil Society Representatives	11995
 Acting Representative	10776
@@ -69,7 +68,6 @@ Deputados. Representantes	8760
 Deputy Representative	9766
 Deputy Resident Representative	8343,3430
 Deputy Resident Representative Nana Chinbuah	8343
-Deputy Speaker of House of Representatives	12059
 Details of Appointed Partnership Representative	11276
 Development Team Presentation of Results Representatives	236
 Difusão Tiragem Formato Digital Reprodução	4044,7377
@@ -87,7 +85,7 @@ Electoral Commission and Represented Political Parties' Fund	11986
 Electricité Représentant	10975
 Employer’s Representative	11134
 Equal Political Power Equal Political Representation	10837,1315,188
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Estado. REPROVADO	10766
 Ethiopia's House of People's Representatives	3211
 Ethiopia's House of Peoples' Representatives Approves	1971
@@ -209,7 +207,7 @@ Repres. Annual Mensual	4209
 Represen	11156
 Represent	940,4736,6127
 Represent Diplomáticas Pedido de Restituição	12018
-Represent Zimbabwe	4528
+Represent Zimbabwe	4528,7984
 Represent. Carestia de Vida	4209
 Representa	9289,405
 Representación	11563
@@ -235,7 +233,7 @@ Representation Equal Civil Liberties Equal Socioeconomic	10759
 Representation and Hearing	3005
 Representation of International Development	11857
 Representation of Religious Organizations	11129
-Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Representation of Women Rights	10759,78,1315,188
 Representational State Transfer	12419
 Representations	4049,198,55,594,5817
@@ -254,7 +252,7 @@ Representative of Federal Ministry of Communications	11129
 Representative of Independent National Electoral Commission	11129
 Representative of State	11860
 Representative of State NUT	11860
-Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33
+Representatives	236,2290,987,620,84,311,55,644,1046,58,140,64,276,127,631,574,945,152,75,457,89,98,227,24,102,268,152,397,5,147,579,56,79,236,41,4,80,33,123
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
 Representatives of Capital Pay	3583
 Representatives of Chapter	10453
@@ -363,7 +361,7 @@ Resident Representative of UNDP	5356
 Rising Repression Meets Global Resistance	5236
 Rising Repression Meets Global Resistance Internet	5236
 Rumphi. Reproductive Health Focal Persons	3791
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 STP O Representante Especial Mohamed El-Amine	3048,1663,36,1071,200,154
 Score Rank Rural Representation	12353
 Senate and House of Representatives	700
@@ -422,7 +420,7 @@ US Trade Representative	5366,896
 Unaffiliated Representative	7198
 Université Numérique du Mali Le Représentant	1708
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
-WELFARE Equal Political Representation	10835,3,130,902,16,466,1
+WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
 West Africa RMNCAH-N Reproductive	11560
 Women Representative of Migori	10313
 World Bank Country Representative Franklin Mutahakana	8459

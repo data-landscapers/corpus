@@ -36,7 +36,7 @@ Agricultural Value-Chains	11469
 Alargado de Vacinação PCI Prevenção	11376
 Alex Vaxmonsky	3782
 All VAT	8590
-All VAT Large VAT All VAT	12225
+All VAT Large VAT All VAT	12500
 Alongside VAT	7786
 America Uruguay Uzbekistan Vanuatu Venezuela	11765
 Amir Valliani	9579
@@ -113,7 +113,7 @@ CEO of VALR	9127
 CEVETAGE Centro de Valorização Tecnológica	11537
 CHIS. Various	1219
 CIPC Values	11250
-CIT and VAT	12225
+CIT and VAT	12500
 CITISCAPE VALUERS AND ESTATE AGENTS LIMITED	7167
 CITY CENTER CLINICAL AND VACCINE SERVICES	7167
 CLAYTOWN VALUERS LIMITED Data Processor INST-437390504D3	7167
@@ -176,6 +176,7 @@ Convergence Partners. Channel VAS	347
 Core Values	1154,128,272,1222,9569,13
 Core Values Customer Centricity	12280
 Core Values Integrity Excellent Performance Professionalism	11152
+Core Values Transparency	12515
 Corporate Tax and VAT	11955
 Correlation Variable	7869
 Cotonou. Vadim QUIRIN	3248
@@ -189,8 +190,8 @@ Current VAT Administration and Key Constraints	8670
 Current VAT Administration and Key Constraints VAT	8670
 Customs Valuation	11036
 Custódia de Valores Mobiliários	11933
-D D CIT and VAT	12225
-D The VAT	12225
+D D CIT and VAT	12500
+D The VAT	12500
 D- Value-added	5864
 DAYTONS VALUERS LIMITED Data Processor INST-639800AFA75	7167
 DE VALIDATION DES SPECIFICATIONS TECHNIQUES HARMONISEES	1967
@@ -200,7 +201,7 @@ DNSSEC Validation Across National Internet	4219
 DPT3 Vaccine Stunting	10829
 DR. MITUL VAGHELA DENTAL CLINIC Data	7167
 DRA Validation Workshop	1994
-DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1
+DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135
 DWELLING VACANT OR ADDRESS	582
 Dan Valeriu Voinea	4127
 Darinka Vasquez	1953
@@ -219,7 +220,7 @@ Digital VAT Model	8670
 Digital VAT Model. All	8670
 Digital VAT Model. Feedback	8670
 Digital VAT Model. Government	8670
-Digital Varairidzi	4528
+Digital Varairidzi	4528,7984
 Dikson Varela Pinto Caetano	11544
 Direction de Coordination du Programme Elargi de Vaccination	10919
 Discount Factors and Implied Valuation	4896
@@ -253,13 +254,14 @@ Environment Variables	5665
 Estimate Var	6422
 Eswatini. Values	11134
 Ethiopia AU Commences Validation of Data Governance	4123
-Ethiopia TEU VAT Tax Administration Support	12225
+Ethiopia TEU VAT Tax Administration Support	12500
 Europe T5 Building Vatican T4 Evolving	10764
 Executive Committee Vision Values	11198
 Executive Management Various Committee Meetings Staff	11131
 Expanded Program of Vaccination	11401
 Experiment With Data Saturation and Variability	5349
 F. Valera	3782
+FAQs Field Officers Tenders Vacancies Search	12515
 FOSS. Varamezov	8021
 Fabian Valencia	1830
 Faustino Varela	2584
@@ -313,7 +315,7 @@ Hélio Varela	2870,9039
 I.1.4- Valeurs	10858
 IA. Varela	2584
 ID. Vanguard	7561
-IMF Revenue Administration VAT Gap Study	12225
+IMF Revenue Administration VAT Gap Study	12500
 INDICATORS AND COMPONENTS VALUES	12389
 INDICATORS AND COMPONENTS VALUES Cost	12389
 INDICATORS AND COMPONENTS VALUES Labor	12389
@@ -341,6 +343,7 @@ Infrastructure Vandalism Project And Copper Theft	12395
 Infrastructure Vandalism and Copper Theft	12395
 Ingmar Vali	6423
 Innovation Valorization Support Program	2544
+Input Tax Claim Schedules for VAT Returns	12509
 Instrumental Variable	10852
 Instrumentos de Pagamento de Baixo Valor	10755
 Integrated Geospatial Information Framework VAT	11261
@@ -368,7 +371,7 @@ Kwekwe EWPL Owned Vacant Shop	4896
 Kwekwe Mars Owned Vacant Mars Base	4896
 La DGI ENGAGE LA VALIDATION	5814
 La République des Valeurs	9890
-Large VAT All VAT Large VAT	12225
+Large VAT All VAT Large VAT	12500
 Largura Variável	11373
 Launch Africa VaulFi	5159
 Laying the Foundation for VaMoz Digital	1129
@@ -471,8 +474,8 @@ OS NOSSOS VALORES TRANSPARÊNCIA	10750
 OTTOU Valery Hilaire	7793
 OTTOU Valery Hilaire of Cameroon	7793,157
 Offering VAT	12208
-On-time Filing of VAT Declarations--All VAT	12225
-On-time Filing of VAT Declarations--Large	12225
+On-time Filing of VAT Declarations--All VAT	12500
+On-time Filing of VAT Declarations--Large	12500
 Online Job Vacancies	6832
 Online Para Validação	12021
 Opportunities Various	12151
@@ -642,9 +645,11 @@ TELECOM INFRASTRUCTURE VANDAL JAILED	8730
 THEFT AND VANDALISM	11211,51
 TRANSFAGRI Programme Intégré de Valorisation	10964
 TRN Tax Reference Number VAT	11298
+TaRMS VAT Returns Module	12509
 Target ATC&C Actual ATC&C Variance	12062
 Target Values Project Development Objective Indicators	11525
 Taux de Valeur	643
+Tax Periods. ITEM CATEGORY VAT RETURNS	12509
 Tax VRE Variable Renewables VTC Vocational	12399
 Taxpayer Experience Statement VAT Modernisation	8670
 Teaching Vacancies	4261
@@ -706,7 +711,7 @@ VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VAINO VAINLY TUYOLENI	12478
 VALEURS PRINCIPES DIRECTEURS FONDAMENTALES	10712
 VALIDATION	12413
-VALIDATION AND NATIONAL COMPACT Consolidated	4528
+VALIDATION AND NATIONAL COMPACT Consolidated	4528,7984
 VALIDATION OF RESULTS	12201
 VALIDITY OF THE EXPRESSION OF INTEREST	962
 VALIDITY OF THIS DOCUMENT	11184
@@ -715,6 +720,7 @@ VALR and AltCoinTrader	9367
 VALUATION	10712
 VALUATION DU POSAF	10712
 VALUERS LIMITED Data Processor INST-932723CA892 NAIROBI	7167
+VALUES	12490
 VALUES IN RTGS	4517,2461
 VALUES The Authority	718
 VAM Food Consumption Score Sources	10763
@@ -754,10 +760,10 @@ VASP Virtual Asset Service Provider	8590
 VASP and P2P	8590
 VASPA	9956
 VASPs	3870,732,3988,233,3,744,386,199,406,570,690,155,72,396
-VAT Act	9972,2377
+VAT Act	9972,2377,160
 VAT Administration Act	11252
 VAT C-efficiency	10997
-VAT Domestic	12225
+VAT Domestic	12500
 VAT EXCLUDING	11252
 VAT Excl	11252
 VAT Gap	8670
@@ -769,19 +775,23 @@ VAT Modernisation	8670
 VAT Modernisation Discussion Paper	10326
 VAT Modernisation Project	7746
 VAT Page	10819
-VAT Payments Made During for Financial Year	12225
+VAT Payments Made During for Financial Year	12500
 VAT Productivity and Standard Rates	10997
 VAT REGISTRATION NUMBER OR VAT REGISTRATION	11240
 VAT REINTRODUCTION ON IMPORTED HANDSETS Governments	12385
 VAT Refund	12389
-VAT Refunds	12225
-VAT Refunds for Financial Year	12225
+VAT Refunds	12500
+VAT Refunds for Financial Year	12500
+VAT Registered Operators	12509
 VAT Registration	12389
 VAT Registration Number	12400
 VAT Registration Threshold	12389
+VAT Returns	12509
+VAT Returns Management Functionality	12509
 VAT Reward Scheme	7695
 VAT Tax	11863
 VAT Value-Added Tax VHF Very High	6946
+VAT Withheld	12509
 VAT Withholding	10419
 VAT and BIT	12445
 VAT and CIT	1828
@@ -792,12 +802,12 @@ VAT-aligned	4655
 VAT-registered	3685,4101,884,2626
 VAT-registered South African	7786
 VAT-style	4655
-VAT. Although the IMF	12225
+VAT. Although the IMF	12500
 VAT. Excise	12385
 VAT. Respondents	9630
 VAT. Telecom Namibia	1944
 VAT. The Treasury	6409
-VAT. The VAT Regulations	12225
+VAT. The VAT Regulations	12500
 VAT. Vendors	10419
 VATCalc	7786
 VAq-iDODtfI	6471
@@ -942,6 +952,8 @@ Valider	1187,5767
 Validity	1,586,385,905,832,6420,2060,374,484,208,212
 Validity Period Hourly URL-specific Data Bundles	11259
 Validity Period Price	11259
+Validity of Fiscal Tax Invoices	12509
+Validity of Fiscal Tax Invoices for Input Tax	12509
 Validité	10876
 Validé Acceptée	998
 Validé Acceptée DECLA-0001	998
@@ -980,6 +992,7 @@ Valle	8605
 Valleriani	10763
 Vallero	8022
 Valley of Death	12090
+Vally Padayachee	12521
 Valor	539,205,2122,2596,5293,2,9,2,15,577,27,74,6,65,23,346,117
 Valor Acrescentado	4203,7815
 Valor Acrescentado Bruto	3421,168,5186
@@ -1030,7 +1043,7 @@ Valuations	1154
 Value-Added Service Licensees	3862
 Value-Added Service Market Segment	3862
 Value-Added Services	3862,3368
-Value-Added Tax	8670,3555
+Value-Added Tax	8670,3830
 Value-Added Tax Act	11181,82
 Value-Added Tax Code	11550
 Value-Added Tax and Growth	10997
@@ -1050,6 +1063,7 @@ Values National	7221
 Values Planned	7221
 Values Public	7221
 Values Sectoral	7221
+Values Top Management Board of Directors Partners	12499
 Values and Volumes	12365
 Values for OSI	10840
 Values of Principal	2775
@@ -1067,7 +1081,7 @@ Vamos	1948,1744,1055,549,59,3871,1045,801,460,447
 Van&volume	1219
 Vanashree Govendervanashreegovender	9870
 Vancouver	9128
-Vancouver Download Citation Endnote	12467
+Vancouver Download Citation Endnote	12467,19
 Vancouver and Montreal	7471
 Vancouver-based	10293
 Vandalism	7287
@@ -1079,7 +1093,7 @@ Vanessa Copetti Cravo	10764
 Vanessa Rudman	8494
 Vangelis Haritatos	3742
 Vangelis Sakkalis	12246
-Vanguard	2287,31,46,1019,1832,2099,594,6,672,395,6,268,106,2505
+Vanguard	2287,31,46,1019,1832,2099,594,6,672,395,6,268,106,2505,646
 Vanguard Effect	11487
 Vanguard News	7219,235
 Vanguard News Home	2769,769,260,72,239,248,272,1407,500,342,436
@@ -1112,7 +1126,7 @@ Var Agriculture	2342
 Var Année	2342
 Var Champions	2342
 Var Sociétés	2342
-Varairidzi	4528
+Varairidzi	4528,7984
 Varamezov	8021
 Varandas CAL. Análise	10780
 Varank	6832
@@ -1154,7 +1168,7 @@ Variations	1814,5134,600,302,4105,490
 Variações Auto	2816
 Varies	10726
 Varios Asuntos Sociales	4209
-Various	236,196,1,145,362,18,51,210,45,350,210,164,787,1351,1121,141,145,819,19,1759,473,2172,48,6,27,108,170,131,15,625,47,34,8,14,180,22,22,23,78,43
+Various	236,196,1,145,362,18,51,210,45,350,210,164,787,1351,1121,141,145,819,19,1759,473,2172,48,6,27,108,170,131,15,625,47,34,8,14,180,22,22,23,78,43,114
 Various DFS	11994
 Various Fibre Networks	11259
 Various ICT	395
@@ -1228,4 +1242,5 @@ Year Value-for-Money Becomes	7055
 ZIPSS Validation Codes	12364
 ZIPSS Validation Codes High Value Payments	12364
 Zealand Papua New Guinea Vanuatu	10764
+Zimbabwean Ethical Values	12512
 Zimbabwean Ethical Values Pillar Alignment Pillar	4528

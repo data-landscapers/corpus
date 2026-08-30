@@ -19,7 +19,7 @@ Annexure D	11240,746
 Annexure D Annexure D	11986
 Annexure D Health Annexure D	11986
 Anofi D. US-Nigeria	7187
-Appendix D	236,4292,6489,112
+Appendix D	236,4292,6489,112,1383
 Appendix D Components	236
 Appendix D Nigerian National Addressing Standard	11129
 Appendix D Software Installation	34
@@ -34,7 +34,7 @@ Averbug D	10780
 Ayudante Grupo D	4209
 B Block D	3386
 B C D	10785
-B D P5-18-1	12225
+B D P5-18-1	12500
 B Often C Sometimes D Rarely	5679
 B Satisfactory C Average D Unsatisfactory	5679
 B Y O D CSP CSP	9123
@@ -88,33 +88,33 @@ Côte D	10114
 D AAR WORD BEPAAL	11189,10,2,62
 D AND A HAULIERS LIMITED Data	7167
 D Animation	6832
-D B B	12225
-D B MOR's Internal Audit Directorate	12225
+D B B	12500
+D B MOR's Internal Audit Directorate	12500
 D BEESLEY	11272
 D Budgetary	961
-D C P2-3-1	12225
-D C P9-32-2	12225
+D C P2-3-1	12500
+D C P9-32-2	12500
 D CNPC NIGER	998
 D Change Management XUA Cross-Enterprise User	1009
 D Clustering Figure8	8606
 D Coordinador Regional Grupo D Delegado	4209
-D D CIT and VAT	12225
-D D D P4-12-2	12225
+D D CIT and VAT	12500
+D D D P4-12-2	12500
 D D F- Pay	582
 D D OLAS	11573
 D D P	8436
-D D P2-6-1	12225
-D D P4-12-1	12225
-D D P4-12-3	12225
-D D P5-17-1	12225
-D D The MOR	12225
+D D P2-6-1	12500
+D D P4-12-1	12500
+D D P4-12-3	12500
+D D P5-17-1	12500
+D D The MOR	12500
 D D.1 Categoria D.1	12018
 D DNA	11301
 D Data	961
 D Data PrOcessOr	1593
 D Data PrOcessOrs	1593
 D Data PrOcessOrs OF MaJOr IMPOrtance	1593
-D Dedicated	12225
+D Dedicated	12500
 D Defesa	6970
 D Deployment	11007
 D Deployment C Development Digitalization	11006,1
@@ -151,8 +151,8 @@ D Mdoda	11289
 D Minimal Focus	11867
 D N D-	582
 D O IT F	582
-D P2-3-2	12225
-D P2-7-1	12225
+D P2-3-2	12500
+D P2-7-1	12500
 D Participate	961
 D Printing	958
 D Private Company D Government Institution	736
@@ -175,9 +175,9 @@ D Spam Any	972
 D THE GOVERNMENT	4049,252,1051
 D Term	11177
 D The GTMI	10785
-D The MOR	12225
+D The MOR	12500
 D The Network Access Support Project	182
-D The VAT	12225
+D The VAT	12500
 D Transparence	10975
 D UHLU LOKUHLOLA Ikhophi	11573
 D Unlawful	972
@@ -248,7 +248,7 @@ D. Every	7832
 D. Exposure	7886
 D. F	2816,1860,3929
 D. Fahland	9237
-D. Filing of Tax Declarations	12225
+D. Filing of Tax Declarations	12500
 D. Fintech Trust and Safety Charter	4848
 D. Fostering	11140
 D. G	8301
@@ -497,25 +497,25 @@ M. D	5349,7118
 M. D. Alhassan	5349
 M. D. Myers	5349
 M. D. Whinston	5700
-M1 D	12225
-M1 D A P5-16	12225
-M1 D B P1-1-1	12225
-M1 D B P4-14	12225
-M1 D C	12225
-M1 D C P2-4	12225
-M1 D D Electronic	12225
-M1 D D P2-5	12225
-M1 D D P6-20	12225
-M1 D D P6-21	12225
-M1 D D P6-22	12225
-M1 D D P7-25	12225
-M1 D D P8-26	12225
-M1 D D P8-27. Adequacy	12225
-M1 D P2-6-2	12225
-M1 D P5-17-2	12225
-M2 D	12225
-M2 D A P8-28-2	12225
-M2 D D P9-32-1	12225
+M1 D	12500
+M1 D A P5-16	12500
+M1 D B P1-1-1	12500
+M1 D B P4-14	12500
+M1 D C	12500
+M1 D C P2-4	12500
+M1 D D Electronic	12500
+M1 D D P2-5	12500
+M1 D D P6-20	12500
+M1 D D P6-21	12500
+M1 D D P6-22	12500
+M1 D D P7-25	12500
+M1 D D P8-26	12500
+M1 D D P8-27. Adequacy	12500
+M1 D P2-6-2	12500
+M1 D P5-17-2	12500
+M2 D	12500
+M2 D A P8-28-2	12500
+M2 D D P9-32-1	12500
 MAI-NDOMBE D E M O C	11900
 MESR D	2966
 MM Usuku D D	11573
@@ -548,7 +548,7 @@ None G- None D- No F-	582
 O D I V E R	11586
 O E D	582
 O R D O N N	548
-OFFICIAL USE ONLY FISCAL AFFAIRS D	12225
+OFFICIAL USE ONLY FISCAL AFFAIRS D	12500
 OPPORTUNITY The D Deployment	11006
 OUEDRAOGO. D. MINISTERE DE LA CONSTRUCTION	8321
 Oficial Grupo D Policía Judicial Grupo	4209
@@ -604,7 +604,7 @@ SSS BUTHELEZI D	1009
 Salif D. Cheickna	2630,489,219,2,36,67,255,485,366,167,1129,22,1037,218
 Sarker D. Discrimination	12231
 Sarker D. Financial Inclusion of Disabled People	12231
-Schedule D	11995,329
+Schedule D	11995,489
 Schillinger D	1219
 Schumacher D	10780
 Secretario Grupo D	4209

@@ -13,9 +13,10 @@ ADDR 3 ADDR 4 ADDR CITY ADDR STATE ADDR COUNTRY ADDR ZIP	3364
 AFRALTI Governing Council	6946
 AFRINIC's Legal Counsel B. Radhakissoon	9612
 AI Advisory Council Tech Lab	4126
-AI Council	4030,15,1869,1634,2389
+AI Council	4030,15,1869,1634,2389,2575
 AI Council Technology Council	12356
 AI County AI	7548
+AI Establish National AI Council	12512
 AI Ethics and Regulatory Sandbox Council	9030
 AI Strategic Council	11154
 AI-powered Smart Court System	11607
@@ -44,7 +45,6 @@ AXE STRATEGIQUE COUT	10965
 Abdoul Karim Coulibaly	8336
 Abdoulaye Coulibaly	4181
 Abidjan Trade Court. Authorities	3661
-Abisoye Coker-Odusote and World Bank Country Representative	12059
 About the Legal Practice Council	7278
 About the Research Council of Zimbabwe	1154,400
 Abuja Municipal Area Council	7235
@@ -54,7 +54,7 @@ Acceded Council of Europe Convention	10908
 Account CCSS Counter Corruption and Security Services	5533
 Accra High Court	7695
 Accra High Court. Apparently	3752
-Acronymsp.16 Country	10838,1032,482
+Acronymsp.16 Country	10838,1032,482,136
 Across Egypt’s Courts Eng. Raafat Hindi	11641
 Act MINMEC Minister and Members of Executive Council	11261
 Act of Parliament- County Statistical Office	2775
@@ -91,6 +91,7 @@ Africa AI Council. South Korea	4067
 Africa AI Council. The Board	4030
 Africa Appendix Country Perspectives.pdf	4907
 Africa Chamber Investment Summit the Council	9852
+Africa Country Document Reference Relevance Republic	12512
 Africa Country Office Country Office Guidance	6832
 Africa Country Republic of Kenya Federal Republic	4528
 Africa and Least Developing Countries	11183
@@ -192,6 +193,7 @@ Association of Nigerian Courier Operators	11129
 Association. I. STRATEGIC CONTEXT A. Country	11549
 Assuming the Council’s Chairpersonship	7142
 Aswa County	10890
+Athanasia Court Offices	12515
 Atlantic Council	5252,1351,1892
 Atlantic Council's Democracy	10088
 Atlantic Council's Europe Center	10088
@@ -462,7 +464,7 @@ Commitments Title ID Submitted Country Policy	11873
 Committee Research Council of Zimbabwe Research Promotion	1554
 Committees of Council	11178
 Communique of Peace and Security Council	1814
-Community AI Councils	4528
+Community AI Councils	4528,7984
 Community Court of Justice	7452
 Community of Portuguese Language Countries	6778,4767
 Community of Portuguese Speaking Countries	11553,648
@@ -489,6 +491,7 @@ Constitutional Court Judgement	2626
 Constitutional Court of Uganda	3307
 Constitutional Court. The Court	6196
 Constitutional CourtComputer Misuse ActJustice Besigye	5422
+Consumer Council of Apart	12490
 Contact the Press Council	10735
 Context of Country’s Data Governance	1161
 Context of Country’s Data Governance Trust	1161
@@ -531,7 +534,7 @@ Coumba Diop	10944
 Coun-	8301
 Coun0	11572
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156
 Council Act OAG Office	6432
 Council Advisory Committee	3583
 Council Board	1154
@@ -590,6 +593,7 @@ Council of Governors	745,7472,1635,87,374,328,606,902
 Council of Governors' Maarifa Centre	5134
 Council of ICT Ministers	10073
 Council of Implement	11906
+Council of Land Surveyors	12511
 Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25
 Council of Ministers Decree	12201
 Council of Ministers Department for Science	11135
@@ -599,9 +603,9 @@ Council of Ministers Resolution	3861
 Council of Ministers Resolution No	7624
 Council of Ministers Responsible for Trade	7142
 Council of Ministers Shall	11517
-Council of Ministers Value Added Tax Regulations	12225
+Council of Ministers Value Added Tax Regulations	12500
 Council of Ministers View Profile	5775
-Council of Ministers and Parliamentary Committee	12225
+Council of Ministers and Parliamentary Committee	12500
 Council of Ministers' Communiqué No	10930
 Council of Ministers. A National AI Commission	6377
 Council of Ministers. Once	12233
@@ -629,6 +633,7 @@ Council. the Local Government Act	1988
 Council.’’. Amendment	11201
 Councillor	11275
 Councillor Cyril Xaba	11275
+Councillors	12521
 Councilors	11129
 Councils	970,184,1897,810,2395,498,192,2284,1065,923,6,1145
 Councils Leaders of Provincial Legislatures Fellow South	11215
@@ -718,7 +723,7 @@ Countries. Beyond	6203
 Countries. Out	5508
 Countries. Washington	10997
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40
+Country	236,76,106,113,42,145,43,10,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178,104,1,2,6,4,3,16,1,1,1,5,11,30,71,131,1,13,1,1,1,9,51,27,9,11,17,51,7,4,1,5,6,1,1,22,7,15,12,3,40,35
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Argentina Brazil Chile Uruguay Colombia	11135
@@ -803,7 +808,7 @@ Country Master Plans	11136
 Country Mean	1013,931
 Country Mozambique Official Use Only	4653
 Country Mr	11129
-Country Name	11129,1096
+Country Name	11129,1371
 Country Number	12252
 Country Of Death	12151
 Country Office	10776,152,404
@@ -852,7 +857,7 @@ Country Risk	4896
 Country S	3604
 Country Selection Approach South Africa	8301
 Country Signing Certificate Authorities	7370,191
-Country Snapshot Geography The Federal Democratic	12225
+Country Snapshot Geography The Federal Democratic	12500
 Country South Africa South Africa	8301
 Country Specific Policy Briefs	961
 Country Strategic Plan	10062
@@ -1025,8 +1030,8 @@ Courier Manifest ASYCUDA IATA Cargo XML	12454
 Courier New OCR B	11129
 Courier Revenue	6000,3781
 Courier Sector	3990
-Courier Services	958,1298,1731,541,2143,5696
-Courier Services Private Bag CY419	4528
+Courier Services	958,1298,1731,541,2143,5696,145
+Courier Services Private Bag CY419	4528,7984
 Courier Services. The Authority	9335
 Courier Traffic	6671,3110
 Courriel	5983
@@ -1046,7 +1051,7 @@ Course Fundamentals of Central Banking Exchange Control	11131
 Course and Sex	2775
 Coursera	4197,2551,200,2431,754
 Courses	1264,4406,5161
-Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,37,1,112,51,70
+Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,38,112,51,70,41
 Court Cases	9992
 Court Cases Number of Cases Received	11131
 Court Challenge	4258
@@ -1328,7 +1333,7 @@ Establishment of Statistics Council Tenure	11178
 Eswatini Higher Education Council	11134
 Eswatini National Research Council	11718
 Ethics Councils	11135
-Ethiopian High Court. Based	12225
+Ethiopian High Court. Based	12500
 European Council	11154
 European Council and Mrs Ursula	11210
 European Countries	12383
@@ -1555,7 +1560,7 @@ Hybrid Court	3583
 Hybrid Court and Truth Commission	3583
 Hybrid Court for South Sudan	3583
 Hybrid Court.146	3583
-I. COUNTRY BACKGROUND INFORMATION Country Profile	12225
+I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345
 IBRAHIM COULIBALY FAITS MARQUANTS REPARTITION	2342
@@ -2072,11 +2077,11 @@ Narratives and Counternarratives	740
 Nasir County	3583
 Natalija Gelvanovska-Garcia. Beneficiary Country	11965
 National AI Annual Council Maintain	7548
-National AI Council	1965,2563,2264,756,4808
+National AI Council	1965,2563,2264,756,4808,156
 National AI Council National Artificial Intelligence	4528
 National AI Council Role and Function	12356
-National AI Council and AI Strategy	4528
-National AI Council and AI Strategy Implementation	4528
+National AI Council and AI Strategy	4528,7984
+National AI Council and AI Strategy Implementation	4528,7984
 National AI Research and Governance Council	11715
 National AI and Council	7548
 National AI and Other Emerging Technologies Council	7547
@@ -2319,7 +2324,7 @@ Postal and Courier Network Indicators Indicator FY	6946
 Postal and Courier Networks	6946
 Postal and Courier Overview Postal Traffic	9781
 Postal and Courier Sector Highlights Q2	9781
-Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010
+Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010,901
 Postal and Courier Services Bill	7779,99
 Postal and Courier Services Minister Tatenda Mavetera	5827,1694,1184,325
 Postal and Courier Services The Ministry	395
@@ -2360,7 +2365,6 @@ Private Courier Traffic	6671,275
 Private Courier Traffic FY	6946
 Private Postal and Courier Operators National Courier	6946
 Process National Rwanda Is Counting Everything	5889
-Profile Country	11865
 Program CM Council of Ministers CNCS National	11863
 Programme Courses Staff Trained	6946
 Progress Reports EXTERNAL Construction Industry Council	11131
@@ -2438,7 +2442,7 @@ Research Council Act	1154
 Research Council ICT Information	5246
 Research Council IPM&E Institutional Performance Monitoring	11224
 Research Council of Finland	11028
-Research Council of Zimbabwe	1154,400,2974,4869
+Research Council of Zimbabwe	1154,400,2974,4869,3115
 Research Council of Zimbabwe Board Committees	1154
 Research Council of Zimbabwe Offices	1554
 Research Council of Zimbabwe Postal Telecommunication	1154
@@ -2620,6 +2624,7 @@ Strategic Council	3768
 Strategic Research Council	11028
 Streamlined Country Diagnostic	11468,1
 Strengthening Africa's Science Granting Councils Phase	862
+Structure Council	12512
 Sub County	1920
 Sub County Civil Registration HP	12138
 Sub- County Registrar	12151
@@ -2772,6 +2777,7 @@ Universal Postal Union Council of Administration	3990
 Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 University Council of Tom Mboya University	6946
+University NAIC National AI Council NAIS	12512
 Urban Council's Act	9437
 Urban Councils	970
 Urban Councils Act	9437
@@ -2868,9 +2874,11 @@ Zambia Country Brief. Website	12369
 Zambia Meteorological Department and Lusaka City Council	10347
 Zanzibar National Council for People	11133
 Zimbabwe A Xalam Analytics Country Report	3185
-Zimbabwe Council for Higher Education	4528
+Zimbabwe Council for Higher Education	4528,7984
 Zimbabwe Council of Churches	4528
+Zimbabwe Council of Churches Organizations	12512
 Zimbabwe Country	6666
+Zimbabwe Country Profile	12488
 Zimbabwe Country Risk Premium	4896
 Zimbabwe Informal Traders Council	8943
 Zimbabwe National AIDS Council	3385

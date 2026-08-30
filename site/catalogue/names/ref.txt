@@ -30,6 +30,7 @@ Advancing Refugee Entrepreneurship	10841
 AfCFTA Secretary-General Hails Customs’ Digital Reforms	9476
 AfDB's Governance and Economic Reform Department	4181
 Affairs CORS Continually Operating Reference Stations	11261
+Africa Country Document Reference Relevance Republic	12512
 Africa. The Refugee Regulations	11628
 African Development Bank Group Reflecting	2865
 African Reference Financial Stability Framework	6938
@@ -165,7 +166,7 @@ Communication Technologies Authority Document Ref	2913
 Communities and Refugees WTO World Trade Organization	10841
 Community Radio Reform Bill	5244
 Comoros Advances Digital Identity Reform	5556
-Comparative AI Strategy References	4528
+Comparative AI Strategy References	4528,7984
 Complainant Details Grievance Ref	1778
 Completed Referrals	9772
 Comprehensive Reforms	10997
@@ -178,7 +179,8 @@ Contexto A Reforma	11442
 Continuously Operating GNSS Reference Stations	12457
 Core Pillars of Public Governance Reform	7063
 Core Pillars of Public Governance Reform Senegal	7063
-Core References	4528
+Core References	4528,7984
+Cost Reflectivity of Energy Prices Increased Uptake	12515
 Could Kenya Be the Next Refugee Rights	12227
 Country Legislative Reference	3161
 Court Must Uphold Constitutional Right of Refugees	12227
@@ -196,7 +198,7 @@ Critical National Infrastructure. Refer	10721
 Critical Reflections	7493
 Cross Reference	573,2588
 Current State of Refugee Financial Inclusion	12297
-Current Status of Tax Administration Reform	12225
+Current Status of Tax Administration Reform	12500
 Customs Reforms	7695
 D Programa de Reforzamiento	4209
 D Programas de Reforzamiento	4209
@@ -233,7 +235,7 @@ Decreased Reference	5679
 Definition Reform	7451
 Democratic Republic of Congo. REFUGEE POLICY REVIEW	11900
 Department for Refugee Services	12227
-Department of Land Reform and Rural Development	2660,7016,1585,698
+Department of Land Reform and Rural Development	2660,7016,1585
 Department of Land Reform and Rural Development Physical	11261
 Department of Land Reform and Rural Development. P	11260
 Department of Refer	11986
@@ -255,6 +257,7 @@ Direitos Humanos. Referiu	5721
 Discrimination Refers	2958
 Displacement Context and Refugee Profiles	10841
 Displacement Context and Refugee Profiles Equatorial Guinea	10841
+Documentation Quick Reference Section Purpose Link	12499
 Does Kenya's New Refugee Act	12227
 Dorethea Samaai Department of Land Reform and Rural	11260
 Downloads Article Details References Addis Standard	8671
@@ -350,6 +353,7 @@ Federal Civil Service Reform Agenda	7973
 Federal Commissioner for Refugees	12145
 Fertilizer Rwanda’s Refugee Strategy Focuses	6526
 Fewer Refugees	12227
+Fidelity Printers and Refiners	12514
 Finance Reflecting	4848
 Finance Reform Strategic Plan	11906
 Finance Refugees	10841
@@ -410,7 +414,7 @@ High Commissioner for Refugees UN Refugee Agency	12328
 High Commissioner for Refugees UNICEF United Nations	10759,78,1052,451
 High High Significant Refactor	6432
 Homegrown Economic Reform	5655
-Homegrown Economic Reform Agenda	7820,4405
+Homegrown Economic Reform Agenda	7820,4680
 Hospedagem de Dados Públicos Termos de Referência Luanda	11448
 Host Communities and Refugees The World Bank	11924
 Human Capital Reform DPF World Bank	763
@@ -571,7 +575,7 @@ Member States. Reference	5675
 Methodology For the Zambia Refugees and Host Communities	1778
 Metro Trading Services Reform Programme	8599
 Mid Project Reflections 2018.pdf	226
-Mid-Term Strategy Refresh	4528
+Mid-Term Strategy Refresh	4528,7984
 Million Financing Package for Reforms and Local Development	965,3924,206
 Min Discount Max Discount Reference Offer	11259
 Minister for Land Reform and Rural Development	11249
@@ -610,9 +614,8 @@ Nadir Reflectance	11334
 Nakuru. Refugee	12297
 National Agency for Refugees	10841
 National Backbone Infrastructure. Reflecting	8961
-National Commission For Refugees Act	11865
 National Commission for Refugee	10864
-National Commission for Refugees	11865,35,245
+National Commission for Refugees	11900,245
 National Commission for Refugees Act	12145
 National Commission for Refugees Welcome and Reinsertion	10841
 National Development and Reform Commission	9238
@@ -769,7 +772,7 @@ REFERENCE GUIDE STRATEGY DESCRIPTION	6432
 REFERENCE GUIDE TO INTEGRATE DATA PROVISIONS	1243
 REFERENCE Implementation	11869
 REFERENCE NUMBER	962
-REFERENCES	10,951,282,1275,1133,3287,610,2307,859,66,39,373,4,32,34,595,383,93
+REFERENCES	10,951,282,1275,1133,3287,610,2307,859,66,39,373,4,32,34,595,383,93,175
 REFERENCES Aaronson	1243
 REFERENCES Adu	6938
 REFERENCES AfCFTA	10819
@@ -933,11 +936,11 @@ Refactor Medium	6432
 Refactor Moderate	6432
 Refactor SaaS	6432
 Refactory Academy Digital Solutions Expo	6865
-Refer	34,2741,1086,111,154,2096,610,2167,125,1295,198,168,8,51,18,19,96,232,15,16,18,40,565,123,165,74,134,5,49
+Refer	34,2741,1086,111,154,2096,610,2167,125,1295,198,168,8,51,18,19,96,232,15,16,18,40,565,123,165,208,5,49,86,1
 Refer ANSI	9123
 Refere	10755,726
 Refere-se	4274,4553,1939,11,628,164
-Reference	4,104,8,43,14,58,8,66,18,2,1,1,1,1,93,1,8,11,2,1,113,31,2,148,38,2,1,1,1,14,1,187,2,8,7,1,26,5,2,128,40,14,22,4,33,2,67,4,4,1,1,1,3,1,4,8,13,5,2,1,5,3,188,38,4,2,12,12,1,19,4,12,5,9,125,54,16,39,40,1,1,2,3,35,72,3,1,12,4,188,4,112,71,1,1,1,6,1,115,46,116,4,224,151,120,48,23,171,133,21,51,27,31,76,28,29,134,62,7,316,13,903,1,325,1,1,1,1,1,1,43,79,222,30,80,205,31,70,61,330,110,196,152,37,380,551,76,294,104,1989,44,10,44,21,136,1,278,41,564,3,150,172,16,32,105,22,37,48,26
+Reference	4,104,8,43,14,58,8,66,18,2,1,1,1,1,93,1,8,11,2,1,113,31,2,148,38,2,1,1,1,14,1,187,2,8,7,1,26,5,2,128,40,14,22,4,33,2,67,4,4,1,1,1,3,1,4,8,13,5,2,1,5,3,188,38,4,2,12,12,1,19,4,12,5,9,125,54,16,39,40,1,1,2,3,35,72,3,1,12,4,188,4,112,71,1,1,1,6,1,115,46,116,4,224,151,120,71,171,133,21,51,27,31,76,28,29,134,62,7,316,13,903,1,325,1,1,1,1,1,1,43,79,222,30,80,205,31,70,61,330,110,196,152,37,380,551,76,294,104,1989,44,10,44,21,136,1,278,41,564,3,150,172,16,32,105,22,37,48,26
 Reference 2021.p	6832
 Reference 2021.pdf	6832
 Reference Access Offer SCAC State Corporations	6946
@@ -1157,7 +1160,7 @@ Reference. Applicable	11269
 Referenced	8014
 Referenced IDA	579
 Referenced Standards Mobile Cross- Mobile Cross-Enterprise	1009
-References	3,393,370,5,261,187,24,18,172,391,4,265,684,171,650,184,9,641,7,89,148,185,55,120,96,110,107,249,20,57,25,80,662,103,402,240,649,465,75,252,501,108,522,429,575,71,7,24,16,38,66,12,9,1,98,28,3,4,2,7,7,22,17,63,1,12,12,204,58,27,24,283,30,9,17,55,5,11,9,10,33,32,53,8,31,32,13,4,2,9,4,9,74,4,4,63,13
+References	3,393,370,5,261,187,24,18,172,391,4,265,684,171,650,184,9,641,7,89,148,185,55,120,96,110,107,249,20,57,25,80,662,103,402,240,649,465,75,252,501,108,522,429,575,71,7,24,16,38,66,12,9,1,98,28,3,4,2,7,7,22,17,63,1,12,12,204,58,27,24,283,30,9,17,55,5,11,9,10,33,32,53,8,31,32,13,4,2,9,4,9,74,4,4,63,13,99
 References AARP	11028
 References ACE	11909
 References ADB	10718,592
@@ -1193,6 +1196,7 @@ References Bawden D	9653
 References Below	9123
 References Broadband Commission for Sustainable Development	12278
 References Bucken-Knapp	12227
+References Bulawayo24	12501
 References Collinson	7836
 References Department of Higher Education and Training	9128
 References Department of Refugees Services	12227
@@ -1287,7 +1291,7 @@ Reform	1828,2049,791,101,12,626,82,1007,452,1,430,72,197,103,516,333,545,1684,27
 Reform Agenda	12233
 Reform Coordination TA	1284
 Reform Coordination Unit	1284
-Reform Ethiopia	12225
+Reform Ethiopia	12500
 Reform Program	1410,2771
 Reform Program Phase II	2127
 Reform Project	10829
@@ -1320,7 +1324,7 @@ Reformas de Objetivos	1701
 Reformater	747
 Reforme	2342,8202
 Reformed CDF	6754,1821,92
-Reformed Church University	4528
+Reformed Church University	4528,7984
 Reformed Constituency Development Fund	5620,1134
 Reformed Constituency Development Fund Dashboard	8667
 Reformen	823
@@ -1375,7 +1379,7 @@ Refuerzo	1701,2508
 Refuge	12227,23
 Refuge Act No	1988
 Refuge Point	346
-Refugee	1867,121,3545,1267,531,3510,23,313,87,364,237,35,86,159,28,54,23,47,31
+Refugee	1867,121,3545,1267,531,3510,23,313,87,364,272,86,159,28,54,23,47,31
 Refugee Access	12297
 Refugee Act	1867,121,118,10121
 Refugee Affairs	5533,5685
@@ -1396,7 +1400,7 @@ Refugee Children	10841
 Refugee Commission	10841
 Refugee Committee ECHO EU Directorate-General for European	6947
 Refugee Consortium of Kenya	12227
-Refugee Convention	2106,7293,1442,787,237,35
+Refugee Convention	2106,7293,1442,787,272
 Refugee Conventions	11900
 Refugee Council RLI Refugee Lens Investing	12297
 Refugee Country of Origin	10841
@@ -1466,7 +1470,7 @@ Refugee-led	10841,1456
 Refugee-led Global Partnership for Financial Inclusion	12297
 Refugee-led Research Hub	12227
 Refugee-policy	2106
-Refugees	1778,89,96,25,787,48,2118,28,564,1614,3618,10,64,2,23,22,99,192,87,364,237,32,3,5,19,62,159,28,54,30,40,31,9
+Refugees	1778,89,96,25,787,48,2118,28,564,1614,3618,10,64,2,23,22,99,192,87,364,269,3,5,19,62,159,28,54,30,40,31,9
 Refugees Act	1867,121,2854,691,5289,355,41,62,348,358,241,70
 Refugees Act No.1	1867
 Refugees Act and Regulations	11986
@@ -1507,6 +1511,7 @@ Refugiado	11364,1
 Refugiados	9399,1366,10,589,1
 Refunded	11642
 Refunds	11181
+Refunds Management	12491
 Refurbished	34,7674
 Refus	737,268,9831,39,1
 Refus Manqu Autre	737
@@ -1709,7 +1714,7 @@ UN Refugee Agency	4807,5969,1397,54
 UN Refugees Agency	2324
 UNHCR Refugee ID An ID	12227
 UNHCR Refugee Protection Assessment	11905
-UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1
+UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135
 UNHCR World Refugee	899
 UNHCR World Refugee Day Golf Charity	899
 UNHCR and Ethiopia’s Refugees and Returnees Service	4842
@@ -1742,8 +1747,8 @@ Urban Refugees	12227,70
 User Acceptance Testing RAASA Refugee Appeals	11986
 V. Refers	11269
 VAT Refund	12389
-VAT Refunds	12225
-VAT Refunds for Financial Year	12225
+VAT Refunds	12500
+VAT Refunds for Financial Year	12500
 VISA AND IMMIGRATION REFORM Objective	11236
 VISA AND IMMIGRATION REFORM PROGRESS Q3	11236
 VPN Quick Reference Guide	12364

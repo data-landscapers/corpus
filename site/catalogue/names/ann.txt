@@ -262,7 +262,7 @@ Annegret Hilse	6931
 Annejiagye Street Operational P.O Box LG	3386
 Annepeace Alwala	5839
 Annette Mangena	1248
-Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55,54,15,17,10,129,4,16,28,217,144,8,10,9,253,30,8,53,8,41,41,132,36,2,19,6,13,11,15,1,16,40,36,4,21,6,12,27,10,6
+Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55,54,15,17,10,129,4,16,28,217,144,8,10,9,253,30,8,53,8,41,41,132,36,2,19,6,13,26,1,16,40,36,4,21,6,12,27,10,6,81
 Annex A	7987,1136,1591
 Annex A Criteria	11133
 Annex A-C	10714
@@ -328,7 +328,7 @@ Annexe B	748
 Annexe II	10906,616
 Annexe III	10400,321,801
 Annexed	5679
-Annexes	579,64,122,1013,29,180,1,1442,2248,1,1153,127,183,1294,455,1873,147,64,426,543,11,51,208,11,72,61,6,47,2
+Annexes	579,64,122,1013,29,180,1,1442,2248,1,1153,127,183,1294,455,1873,147,64,426,543,11,51,208,83,61,6,47,2,87
 Annexes A and B	2957,4241
 Annexes A-C	10714
 Annexes A-D	10714
@@ -438,7 +438,7 @@ Annuaire	643,544,1971,7817,549
 Annuaire Active Directory	9049
 Annuaire Statistique	10812
 Annuaires Décentralisation	3396
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,71,21,93,1,1,5,6,1,5,2,25,14,14,14,17
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -476,7 +476,7 @@ Annual Digital Forum	7963,331,41
 Annual Digital Skills Report Card	6832
 Annual Direct Taxes	5655
 Annual Disability Lecture	4028
-Annual Disciplinary Committee Findings Summary	12225
+Annual Disciplinary Committee Findings Summary	12500
 Annual EPI	11401
 Annual Economic Report	12309
 Annual Economic Review Report	11131,3
@@ -554,6 +554,7 @@ Annual Mensual	4209
 Annual Monetary Policy Statement	11134
 Annual NHIF Members’ Contributions and Benefits Paid	2775
 Annual National AI	7548
+Annual National Surveys The AISIO	12512
 Annual National Tax Audit Plan	12389
 Annual Natural Hazard Occurrence	10763
 Annual Net Profit Before NCI Deductions	5869
@@ -587,10 +588,12 @@ Annual Project MIS	11855
 Annual Project's MIS The RSI	11855
 Annual Promote	7548
 Annual Public Lecture	9677
-Annual Public Report	4528
+Annual Public Report	4528,7984
 Annual Reliability and Maintainability Symposium	8130
 Annual Renewal Fee	10738
-Annual Report	236,482,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,155,7,13,26,44,10,12,62
+Annual Report	236,482,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101
+Annual Report Final.pdf	12515
+Annual Report Final.pdf Download Copy Link	12515
 Annual Report Fiscal Year	12358
 Annual Report Guide for Schedule	11250
 Annual Report SCHEDULE	22
@@ -630,7 +633,7 @@ Annual State	7874
 Annual Statistical Abstract and County Statistical	2775
 Annual Statistical Bulletin	12175
 Annual Statistics Report	12334
-Annual Strategic Review Summit	4528
+Annual Strategic Review Summit	4528,7984
 Annual Strategy Review	11131
 Annual Subscription	1220,10631,125
 Annual Summary	11762
@@ -989,7 +992,7 @@ Innovation and Development Annual Report	1554
 Insights Annual Average EAF	11953
 Institute for Global Change and Ghana-India Kofi Annan	4126
 Integrated Annual Report	1870,30,1510,295
-Internal Audit Annual Plan	12225
+Internal Audit Annual Plan	12500
 Internet Fixe RAPPORT ANNUEL	998
 Internet RAPPORT ANNUEL	998
 Introduction This Annex	7548
@@ -1040,7 +1043,7 @@ MICDE Annual	7548
 MICT SETA Annual Digital Skills Report	6832
 MICT SETA Annual Reports	6832
 MONGOMEYEN ANNOBON	4209
-MOR's Annual Report	12225
+MOR's Annual Report	12500
 MW Mar Apr Dec Annual	11953
 Madagascar. Announced	3954
 Malawi Annex C. Transforming Education Summit	12175
@@ -1127,6 +1130,7 @@ Official Twitter Account Announcements	11953
 Ongwediva Annual Trade Fair	11771
 Online Annex	8436
 Online Annex B	8436
+Open Menu Home Announcements Current Archives	12486
 Operational Plan APP Annual Performance Plan	11218
 Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
 Orange MEA Annual Network CapEx Programme	933,208
@@ -1178,6 +1182,7 @@ Projet de Performance Annuel	10975
 Prosperity Insight Annex The GTMI	10785
 Préscolaire Primaire Annexe	2966
 Public Annual Emerging Technologies	7548
+Public Notices Publications Annual Reports Brochures	12515
 Publica AI. Announced	6287
 Publish the Annual	6832
 Q3 FY25. Annexes	12195
@@ -1307,6 +1312,7 @@ URA Announces Historic Shift	3955
 UWERA Annick Louise MUKESHIMANA Judith UWIMANA	12445
 Union AUC AU Commission AWPB Annual	1264
 United Kingdom.437 Announced	3583
+United States and Cameroon Announce	12517
 Upgradability ANNEXURES Annexure	11952
 V ANNA Interconnector Project	12399
 V ANNEXES Annexe	10711
@@ -1344,3 +1350,4 @@ ZEEX. Announced	8626
 Zambian National Payment Systems Annual Report	12376
 Zastron Health Annexure F Annexure F	11986
 Zimbabwe Annual Telecommunications Conference	5727
+Zimbabwe's Climate-Smart Annual School Census	12504

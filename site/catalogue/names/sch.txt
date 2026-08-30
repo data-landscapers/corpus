@@ -125,6 +125,7 @@ Association. Proposed Schedule	1284
 Association. Schedule	3604
 Association. Sections and Description Schedule	10829
 Athens Book Google Scholar Collins J	9739
+Automatic Input Tax Schedule for Fiscal Tax	12509
 Awareness Social Investment Schemes Subsidy	11857
 Axel Schimmelpfennig	6679
 B of Schedule	1867
@@ -332,7 +333,7 @@ Education Gls Cybersecurity Labelling Scheme	6936
 Education Ministry Advances Digital School Permit	9649
 Education Primary and High School Education	11134
 Ehomba Combined School	4862
-Eighth Schedule	7845,1661,2
+Eighth Schedule	7845,1661,2,2981
 Emerald Insight and Google Scholar	9237
 Emerging A1- Schedule	7548
 Emerging Development Scheme Technologies Patents	7548
@@ -421,8 +422,8 @@ Fr. Kemper Sisokhe Secondary Schools	6946
 Free School Policy	11916
 Freemuse Google Scholar Simmert T	9739
 Frequency Usage Fees. Fifth Schedule	736
-Fulbright Scholar	12332
-Fulbright Scholarship	12332
+Fulbright Scholar	12485
+Fulbright Scholarship	12485
 Fund Export Credit Guarantee Scheme Enterprise	11131
 GDC-submission 5Rights.pdf. Google Scholar Ryan	11028
 GDC-submission AARP.pdf. Google Scholar Ação Educativa	11028
@@ -506,6 +507,7 @@ Government of Uganda Scholarship	11829
 Government’s UHC Scheme	10970
 Grabouw Wynberg Schemanshoek Khayelitsha Mobile Teams	8999
 Grace Nursery School	11773
+Graduate Business School Chinhoyi University of Technology	12508
 Graduate School of Business	4896
 Graduate School of Business Leadership	4432
 Graduate School of Global Cooperation	10123
@@ -562,6 +564,7 @@ Improving School Administration. Tsai	11927
 Inclusion of Private Schools	11918
 Inclusive School Readiness	12175
 Infrastructure Incentive Schedule	7548
+Input Tax Claim Schedules for VAT Returns	12509
 Institute of Religion and The Graduate School	8991
 Institution Name Institution Identifier C319 SCHEDULE	5687
 Institutionalization of School Record Keeping	11860
@@ -672,6 +675,7 @@ Logging Schools	11857
 London School of Economics	7174,809,3023,1
 London School of Economics and Political Science	5257,5892
 Lotus Bank School	7444
+Ltd. Scheme	12490
 M. C. van Schalkwyk	11028
 M. S. Schäfer	11028
 M. Schief	11140
@@ -823,7 +827,7 @@ O Pensador School	7262
 O Pensador School No	7262
 ODDC-2-Embedding-Open-Data-Practice-FINAL.pdf Schenker	1243
 OEMs Scheme	11857
-OPERATING SCHEDULE SECTION	12324
+OPERATING SCHEDULE SECTION	12484
 OVERVIEW OF THE SCHEME OF RECONSTRUCTION	4896
 OWL. Framework Schema	12360
 Observatory NSG National School of Governance NSPDR	11261
@@ -852,7 +856,7 @@ POM. Schedule	10829
 PR Activity Schedule Media Elements	8999
 PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863
 PROSPECTUS SCHEDULE	3714
-PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12324
+PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
 Pacelli School	11975
 Paragraphs of Schedule	3714
 Part A of Schedule	11182
@@ -874,7 +878,7 @@ Post- School Education and Training	9128
 Posts Budget Time Schedules	11251
 Practising School	6211
 Pre-primary Schools	2775
-Presidential AI Scholarships	4528
+Presidential AI Scholarships	4528,7984
 Presidential Internet Scheme	3332,3975
 Price Schedule. Question	7987
 Pricing Schedule	7266
@@ -1031,18 +1035,18 @@ Schalkwyk	1243
 Scharpf	7451
 Schauer	7451
 Schaumburg	9237
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,22,9,23,9
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,31,23,9,119
 Schedule A. CSP	11995
 Schedule A. Temporary	11995
 Schedule Amendment	11551
-Schedule B	11995,329
-Schedule C	11995,329
+Schedule B	11995,489
+Schedule C	11995,489
 Schedule CHAPTER	11190
-Schedule D	11995,329
+Schedule D	11995,489
 Schedule Delays Experienced	11134
 Schedule Effectiveness	11855
-Schedule F	12324
-Schedule G	12324
+Schedule F	12484
+Schedule G	12484
 Schedule II	11280,858
 Schedule III.B.1	10829
 Schedule IV	9855
@@ -1156,7 +1160,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56
 School About Message	12407
 School Attendance	12431
 School Based Assessment Mind the Gap Study	11241
@@ -1429,7 +1433,7 @@ Tallinn Summer School of Cyber Diplomacy	1446
 Tanja Schmidt	10985
 Tanzania School	10732
 Tanzanian Schools	5599
-Targeted Scholarships	4528
+Targeted Scholarships	4528,7984
 Teachers and School Heads	11860
 Technical Migration Schedule	3861
 Technical Migration Schedule All	3861
@@ -1520,7 +1524,9 @@ XML Schema for Data Interoperability	12360
 XSLT Schema Output	8606
 Xiv.2402.08797. Schiﬀ	11135
 Y9 SCHEDULE LEGISLATION REPEALED	11178
+ZIPIT Zimbabwe Scheme	12490
 Zambia Credit Guarantee Scheme	12376
 Zambia’s School Feeding Programme	10510
 Zanzibar Universal Pension Scheme	11133,9
 Zigudu Primary School	11281
+Zimbabwe's Climate-Smart Annual School Census	12504

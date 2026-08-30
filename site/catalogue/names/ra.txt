@@ -22,7 +22,7 @@ AMR Rapports	10712
 AMUMPAIRE RAYMOND	3307
 ANNUAL CHANGE IN ELECTRICITY ACCESS RATES	11572
 ANTI-CORRUPTION HEALTH Rank	10838
-ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12
+ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12,136
 ARCEP RAPPORT ANNUEL	998
 ARCEP. Rapport Annuel	10856
 ARTCI and Raxio Côte	3139
@@ -68,7 +68,7 @@ Ader. Rappelant	7374
 Adhérents Rapport	10876
 Adib Bin Rashid and MD Ashfakul Karim	6948
 Adoption A2-Data Localisation Rates	7548
-Adoption Rate	4528
+Adoption Rate	4528,7984
 Adoption Rates Private	7548
 Africa Credit Ratings Initiative	11356
 Africa's Data Centre Race Is the Grid	11102
@@ -367,7 +367,7 @@ Completeness Rate	12367
 Completion Rate Intangible	11955
 Completion Rates	12199
 Compound Annual Growth Rate	9759,1452,948
-Compute Rank	4528
+Compute Rank	4528,7984
 Compute Raxio	11310
 Compute Raxio Group	11310
 Concerns Raised	12253
@@ -528,7 +528,7 @@ E. Rationale for World Bank Involvement and Role	1264,9565,731
 ECOWAS Radio	4738
 ECOWAS. The RAVIP	10822
 EDT Raise	10293
-EDUCATION Rank	10759,78,1,1502
+EDUCATION Rank	10759,78,1,1502,148
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
 EGX Chairman Omar Radwan and ITDA Head	10498
 EGX Chairperson Omar Radwan	8770
@@ -541,7 +541,7 @@ EMPIRICAL FOUNDATIONS AND RATIONAL BASIS Recital	3861
 EMTEL and Raphael Fishing	12132
 ENMR Early Neonatal Mortality Rate GFR	12413
 ENTREPRISES Rapport Annuel	2342
-ENVIRONMENT Rank	10835,1517
+ENVIRONMENT Rank	10835,1517,136
 EQUALITY Rank	10759,78,1,130,918,454,12,1
 ERI RANK Senegal	12256
 ERR Economic Rate of Return ESF Environmental	10768
@@ -686,7 +686,7 @@ Frequency Range	736,4509,1646
 Friend’s Rape	10034,231
 Frigelec RAS	10975
 Frontier Rare Earths Project	11245
-Fund Leverage Ratio	4528
+Fund Leverage Ratio	4528,7984
 Funding Rationale	8866
 Funds Raised Global	4972
 Funds. When the Railway Development Fund	10313
@@ -724,7 +724,7 @@ German Confederation of Raiffeisen Cooperatives	11134
 Ghana National AI Strategy. The RAI	4126
 Ghetto Radio	8095
 Ghz Total RAM	9475
-Global AI Research Ranking	4528
+Global AI Research Ranking	4528,7984
 Global Competitiveness Rank WEF	11379
 Global Innovation Ranking	12376
 Global Innovation Ranking of Zambia	12376
@@ -904,6 +904,7 @@ J. Ralyea	11140
 JUSTICE ACCOUNTABILITY Rank	10968
 JUSTICE EDUCATION Rank	10835
 JUSTICE RIGHTS HEALTH Rank	11886
+JUSTICE RIGHTS Rank	12488
 JUSTICE Rank	10759,78,1033,470,12
 JUSTICE SUSTAINABLE ENVIRONMENT Rank	10838
 JUSTIFICATION AND RATIONALE	12240
@@ -966,7 +967,7 @@ LABOUR ENVIRONMENT HEALTH Rank	10835
 LABOUR ENVIRONMENT Rank	10759,78,1049,454
 LABOUR HEALTH PARTICIPATION ENVIRONMENT Rank	11870
 LABOUR PUBLIC ADMINISTRATION ENVIRONMENT Rank	10968
-LABOUR Rank	12352,1
+LABOUR Rank	12352,1,135
 LE LITHIUM ET LES TERRES RARES	2342
 LICENCES OTHER THAN PRIVATE RADIO	736
 LNMR Late Neonatal Mortality Rate MAS2	12413
@@ -1387,7 +1388,7 @@ PS Raymond Omollo and IG Douglas Kanja	12313
 PSRI Population Studies and Research Institute RA	12151
 PSSIE Rapports	10712
 PTA Rapport	10712
-PUBLIC ADMINISTRATION Rank	10759,78,1503
+PUBLIC ADMINISTRATION Rank	10759,78,1503,148
 PV Photovoltaic RAP Resettlement Action Plan	11549
 Pacific Railroad Act	4259
 Pacific Railroads Act	4259
@@ -1798,7 +1799,7 @@ Radical Earth Movement. Social Policy	2518
 Radical Green Movement	2518
 Radical Inclusion	5513
 Radical Technology Network Ltd	3862
-Radical Transparency	4528
+Radical Transparency	4528,7984
 Radif	9128
 Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,1063,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12
 Radio Access	6946
@@ -2076,7 +2077,7 @@ Rambique	771
 Rambo	10875
 Rambouillet	3696,8
 Ramdas	7759
-Rameck Masaire	12225
+Rameck Masaire	12500
 Ramesh Govindaraj Task Team Leaders	11417
 Ramgoolam	7365,1
 Ramin Hossaini	12478
@@ -2140,18 +2141,18 @@ Rank Brand Industry	11884,321
 Rank Brand Industry Brand	11885
 Rank Cause	12413
 Rank Cause of Death Male Female	12151
-Rank Code Indicator	10969,916
+Rank Code Indicator	10969,916,602
 Rank Code Labor	12351
 Rank Female Male	12413
 Rank Freedom of Association	12341
-Rank Institutions	10969,916,470
+Rank Institutions	10969,916,470,132
 Rank Laws	12341
 Rank Microfinance Bank	7565
 Rank Perks	7565
 Rank Public Procurement Procedures	12341
-Rank Score	10969,916,470
+Rank Score	10969,916,470,132
 Rank Shipping	12341
-Rank Unit	10835,3,130,902,16,466,1
+Rank Unit	10835,3,130,902,16,466,1,135
 Rank University	12205
 Rank University Score	11885
 Rank-based	10764
@@ -2171,7 +2172,7 @@ Ranking of Top Confirming Banks for African Issuing	10718
 Rankings	11004,960,412
 Rankings Matter	10848
 Rankings de Inteligência Artificial	2816
-Ranks	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Ranks	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Ranqueamento	11569
 Ransford A. Acheampong	9232
 RansomHub	6426
@@ -2217,7 +2218,7 @@ Raphael Mforlem	10994
 Raphael Mushanawani	8419,556
 Raphael Thikusho	12478
 Raphaël Akotègnon	3682
-Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45,100,111
+Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45,100,111,68
 Rapid AI	3554
 Rapid Assessment	6832,3944
 Rapid Assessment of Counties	5134
@@ -2312,7 +2313,7 @@ Rapport-de-presentation-2024.pdf	1301,1,9,7,1,1,1
 Rapport-sur-la-strategie-nationale-de-l-inclusion-financiere	613
 RapportAnnuel	8891
 Rapportage	11604
-Rapporteur	1990,2123,415,185,6016,147,931
+Rapporteur	1990,2123,415,185,6016,147,931,705
 Rapporteur Analyse	10876
 Rapporteurs	2966
 Rapports	643,5905,1132,3032,105,30,29,99,1068
@@ -2415,7 +2416,7 @@ Rating and Explanation of Key Risks	11525
 Rating of RI7	10779
 Ratings	1216,68,490,281,198,7064,1462,107
 Ratings Ratings Outcome Bank Performance Relevance	10779
-Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1091,164
+Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1255,111,12
 Ratio Analysis	9437
 Ratio Assessment	11955
 Ratio Décile	737
@@ -2632,7 +2633,7 @@ STRATEGIC OBJECTIVES AND POLICY RATIONALE Recital	3861
 STRATEGIC RATIONALE	4896
 STRATEGIC RATIONALE Vodacom JSE	4896
 STRONG NATIONAL RAILS	12050
-SUSTAINABLE ENVIRONMENT Rank	10759,78,1033,16,454
+SUSTAINABLE ENVIRONMENT Rank	10759,78,1033,16,454,148
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
 Safaricom’s Ethiopian Unit Delivers Rapid Growth	8843
@@ -2642,11 +2643,12 @@ Sam-Sumana Joins Flagbearer Race	7934
 Samoa Rapid	226
 Satisfactory Overall Risk Rating	4688,3189,2993
 Score Range	8604
-Score Rank	10759,76,3,130,902,16,466,1
+Score Rank	10759,76,3,130,902,16,466,1,135
 Score Rank Absence of Armed Conflict	10838,1048,454
 Score Rank Absence of Undue Influence	10835
 Score Rank Absence of Violence	10837,131,1184
 Score Rank Access	10837
+Score Rank Decent Housing	12488
 Score Rank Freedom of Association	10837
 Score Rank Internet	12340
 Score Rank Laws	10837,1315
@@ -2740,14 +2742,16 @@ Standard of Responsibility RATING BASIC STAGE Malawi	12214
 State Visit of President Ramaphosa	11185
 State of Ransomware	9678
 Stephenie Coker Rank	5423
-Strategic Foundation and Rationale Zimbabwe	4528
+Strategic Foundation and Rationale Zimbabwe	4528,7984
 Strategic Rationale	4896,1007
 Strengthen Regional Connectivity The Blue Raman	6554
 Strengths Rank Code	12351
 Strengths Weaknesses Rank Code Indicator	10969,916,470
 Study Ranks Rwanda Among Africa’s	3256
+Study Rationale	12508
 Sua Excelência Raúl Augusto Lima	11436
 Sub- Saharan Africa. Cameroon GII Ranking	10969
+Sub- Saharan Africa. Zimbabwe GII Ranking	12487
 Sub-Saharan Africa. Cabo Verde GII Ranking	11895
 Sub-Saharan Africa. Mozambique GII Ranking	12159
 SubSaharan Africa. Nigeria GII Ranking	11884
@@ -2759,7 +2763,7 @@ Summary of Differences and Rationale for Changes	3502
 Supervision Ratios and Group Sizes	8891
 Support Eye Radio	3212,2216,578,1441,1631
 Support Fibre Solutions Why Raxio Mozambique	9446
-Survival Rate	4528
+Survival Rate	4528,7984
 Sustainability Racism	7253
 Sustainable Environment Rank	11889
 System PCR Pupil Completion Rate PI	2775
@@ -2842,6 +2846,7 @@ UNCTAD Rapid	226
 UNESCO Empowering Local Radio	19
 UNESCO RAM	4819
 UNESCO RAM Angola	11483
+UNESCO's AI RAM	12512
 UNESCO’s AI RAM	4528
 US Dollars and South African Rand	11134
 US Dollars. Rather	9878,1431
@@ -2859,7 +2864,7 @@ Union's Director of Radiocommunications	7884
 United States. Rather	6231
 Universidade Rainha Njinga	11472
 University of Rationale	12376
-University of Sussex. Razan Amine	12332
+University of Sussex. Razan Amine	12485
 Université Mohammed V de Rabat. Cette	8721
 União Africana de Radiodifusão	11045
 União Internacional de Radiocomunicação	9236
@@ -2894,7 +2899,7 @@ Vivek Rana	6423
 Vodacom Lesotho CEO Mohale Ralebitso	8034,590
 Voter Registration Rate	10714
 W Rated Capacity	11953
-WELFARE Rank	10759,76,2,1,130,902,16,454,12,1
+WELFARE Rank	10759,76,2,1,130,902,16,454,12,1,135
 WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
 WOMEN'S EQUALITY Rank	12352
 WOMEN’S EQUALITY Rank	10759,78,1049,454
@@ -2923,7 +2928,7 @@ Xiv.2407.01557 Rana	11156
 Xolile Ndzulu and Kadisha Ramaru	396
 Yearbook. Radda	12135
 Years Rank Cause	12413
-ZCHPC Utilization Rate	4528
+ZCHPC Utilization Rate	4528,7984
 ZIMBABWE PRIVATE RADIO TRANSCEIVER STATION APPLICATION	736
 ZTE AIR RAN EnergyTurbo	8112
 Zambia Chamber of Commerce and Industry Rationale	12376

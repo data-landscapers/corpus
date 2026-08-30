@@ -94,11 +94,14 @@ Diplomatic Exchange	7662
 Diplomatic Foundation	5890
 Diplomatic Mission	736
 Diplomatic Missions and Consular Services	10775
+Diplomatic Missions and Development	12509
+Diplomatic Missions and Development Partners	12509
 Diplomatic Passport	12164
 Diplomatic Relations	3861
 Diplomatic Relations Between Guinea-Bissau and Cape Verde	3768
 Diplomatic and Sovereign Data	3861
 Diplomatie	1876,92,2927,2064,1278,278
+Diplomats	12509
 Diplôme	4092,4629,2876,446
 Diplôme. Clément MUAMBA	4092
 Diplômes	4002
@@ -112,7 +115,7 @@ Diputados Oficina de Información	9303
 Director of Economic Diplomacy	10592
 Dutch-North African Diplomacy	6997
 Economic Diplomacy Action Group	6790
-Economic Diplomacy and Investment Attraction	4528
+Economic Diplomacy and Investment Attraction	4528,7984
 Emerging Technologies Diplomacy Coordination Mechanism	7548
 Enhancing Diplomatic Relations	12164
 Escuela de Diplomacia Malabo	4209
@@ -126,7 +129,7 @@ Hobhouse and Dipelaneng	11289
 IOC Indian Ocean Dipole IP Internet	2775
 IX- FORMA PROPOSTA PARA O DIPLOMA	3519
 International Diploma	2308
-International Governance and Diplomacy Zimbabwe	4528
+International Governance and Diplomacy Zimbabwe	4528,7984
 Investment and Diplomatic Engagements	5390
 Kenya AI Diplomacy Improved	7548
 Kenya AI Diplomacy and Global Governance Roadmap	7548

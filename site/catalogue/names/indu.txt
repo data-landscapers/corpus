@@ -81,11 +81,11 @@ Commerce Department’s Bureau of Industry and Security	10444
 Commerce Services Industrie	10875
 Commerce and Industry	10550,782
 Commerce and Industry Every Property	9437
-Commercial and Industrial Sector	12418
+Commercial and Industrial Sector	12502
 Comparison of Telecoms Industry Performance	3862
 Competitive Advantage Industrial	3796,1205
 Confederation of Danish Industry	10841
-Confederation of Zimbabwe Industries	1554,2974
+Confederation of Zimbabwe Industries	1554,2974,7984
 Coninx Industries Limited Data Controller INST-746467CD26B	7167
 Connecting the World Industry Matching Activity	7407
 Consolidated Fund. Industry Forum Establishment of Industry	587
@@ -150,7 +150,7 @@ Energy Hub and Industrial Park	3688
 Energy and Industrial Strategy	11135
 Ensemble Industrie	10875
 Entrepreneurship and Industry	3907
-Entrepreneurship and Industry Linkages AI	4528
+Entrepreneurship and Industry Linkages AI	4528,7984
 Entrepreneurship and Industry The Ministry of Investment	3907
 Entrepreneurship and Industry of Seychelles	3907
 Enugu Digital Industrial Park	9117
@@ -176,13 +176,13 @@ Finnish Fund for Industrial Cooperation	197,454,212,1,228,377,1
 Fintech P2P Lending and Micro Finance Industry	11994
 Food Processing Industry Investigation of Water Tube	1154
 Formal Industry	12445
-Fourth Industrial Revolution	396,32,4,1,153,372,4,192,82,7,5,566,279,24,440,212,179,751,162,667,508,109,82,19,167,439,731,107,142,919,271,108,851,149,72,221,253,1555,23,11,16,929,119
+Fourth Industrial Revolution	396,32,4,1,153,372,4,192,82,7,5,566,279,24,440,212,179,751,162,667,508,109,82,19,167,439,731,107,142,919,271,108,851,149,72,221,253,1555,23,11,16,929,119,183
 Fourth Industrial Revolution AI	6832
 Fourth Industrial Revolution Final Report	5036
 Fourth Industrial Revolution PSET	6832
 Fourth Industrial Revolution Rwanda	9574
 Fourth Industrial Revolution and Ministry of ICT	2682,157
-Fourth Industrial Revolution. Guiding Principles	4528
+Fourth Industrial Revolution. Guiding Principles	4528,7984
 Fourth Industrial Revolution. Protecting National Data	10681
 Fourth Industrial Revolution. World Economic	6832
 Freight CIP Census of Industrial Production CIPI	2775
@@ -263,7 +263,7 @@ Indus- Taxes	2775
 Indust Trans Servic Autre	737
 Industria	1701,2508,2632,3086,434,1181
 Industria Excelentísimo	1855
-Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40
+Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51
 Industrial Applicability	12389
 Industrial Area Prison	9188
 Industrial Association of Guinea-Bissau	11546
@@ -302,10 +302,11 @@ Industrial Relations	5250
 Industrial Relations and Employment Creation	1188
 Industrial Relations and Productivity. Stakeholders	6652
 Industrial Research Africa DHIF Digital Health	396
+Industrial Research and Development Centre SME Small	12512
 Industrial Revolution	1814,1782,3,2542,1726,3174,155,661
 Industrial Revolution Namibia	5036
 Industrial Revolution Rwanda	1204
-Industrial Statistics Database	10969,926,264
+Industrial Statistics Database	10969,926,264,328
 Industrial Strategy	11135
 Industrial Tax	10762
 Industrial Tech Park	4622
@@ -343,13 +344,13 @@ Industrie du Bénin Traitement	10821
 Industrie du Mali	9865
 Industrie du Maroc	4833
 Industriel	10893
-Industries	737,2038,1351,960,447,965,2354,1847,176,265,1085,174
+Industries	737,2038,1351,960,447,965,2354,1847,176,265,1259,101
 Industries Animales	10964
 Industries Extractives	4169,4355
 Industries Minières	1682
 Industries and Real Estate	2775
 Industries de Réseau AER Agence	10975
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14
 Industry Analysis	10718
 Industry Applications	6924
 Industry Apr-Jun	11296
@@ -435,6 +436,7 @@ Industry and Market Context Passive	4896
 Industry and Minerals	7787,8,1367
 Industry and Natural Resources Mr. Antonio Serifo	11579
 Industry and Natural Resources of Guinea Bissau	11579
+Industry and Private	12512
 Industry and Private Sector Entities	4528
 Industry and Sector	2775
 Industry and Sectoral Development	12356
@@ -444,7 +446,7 @@ Industry and Society. Building Synergies and Partnerships	11221
 Industry and Trade	5774,419,3004,108,118,1240,471,1259,2,17,32
 Industry and Trade Manqoba Khumalo	12425
 Industry-Government Digital Trust Charter Develop	4848
-Industry-Led Skills Academies	4528
+Industry-Led Skills Academies	4528,7984
 Industry-Specific Compliance	5665
 Industry-Specific Threat Assessment	12189
 Industry-aligned	8579
@@ -519,7 +521,7 @@ MIPROMALO Reports Higher Industrial Activity	965,3804,120,206,68,334,86
 Making Industrial Policy Work	11136
 Malawi Agriculture and Industrial Investment Corporation	8399
 Male Female Formal Sector Industry	12445
-Manufacturing and Industrial Development Transformation AI	4528
+Manufacturing and Industrial Development Transformation AI	4528,7984
 Mauritius Chamber of Commerce and Industry	8240,3092
 Mbezi Industrial Area	2250,330
 Means for Industry Stakeholders	10360
@@ -531,7 +533,7 @@ Minister of Commerce and Industry	10476
 Minister of Energy and Industry	11579
 Minister of Industrialisation and Trade	3714
 Minister of Industry	7748,673,3605
-Minister of Industry and Commerce	1554,1113,1861,960
+Minister of Industry and Commerce	1554,1113,1861,960,7024
 Minister of State for Industry	7141
 Minister of Trade and Industry	11179
 Minister of Trade and Industry Hon. Alpha Ibrahim	8271
@@ -643,7 +645,7 @@ Reporting for Industry	8831
 Review of Industrial Organization	9759
 Revolução Industrial	2816,7735
 Revolução Industrial. Apesar	2816
-Role of Industry Industry	4528
+Role of Industry Industry	4528,7984
 SA Journal of Industrial Psychology	4432
 SADC Industrialisation Week	9959
 SADC Industrialisation Week and Exhibition	9761
@@ -655,10 +657,11 @@ STATE OF THE INDUSTRY Pursuant	12062
 Sameer Industrial Park	594,11691
 Scale Digital Addressing Industry Published	10983
 Science and Industry Japan AI Strategy	11135
+Scientific and Industrial	12512
 Scientific and Industrial Research CTA Crime Threat	11188
 Scientific and Industrial Research DAC Departmental Advisory	5533
 Scientific and Industrial Research DSUB Consistent Time	1009
-Scientific and Industrial Research and Development Centre	4528
+Scientific and Industrial Research and Development Centre	4528,7984
 Second Industrial Revolution	2093
 Sector and Size Sector Industry Debt-to-Equity Ratio	12445
 Selected Aviation Industry Indicators	2775
@@ -724,8 +727,9 @@ Turkish Aerospace Industries	12130
 UN Health Industry Foundation	5658
 Uganda-Japan ICT Industry Promotion Project	7652
 Unidade Industrial	11443
+Union CZI Confederation of Zimbabwe Industries ECD	12512
 United Nations Health Industry Foundation	5658
-United Nations Industrial Development Organization	7642,3327,603,312,11,264,46
+United Nations Industrial Development Organization	7642,3327,603,312,11,264,46,282
 Utility Models and Industrial Designs	7845
 Viettel High Technology Industries	9011
 World Wide Industrial	7055

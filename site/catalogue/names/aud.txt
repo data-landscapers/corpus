@@ -131,7 +131,7 @@ Audiovisual and Digital Media Industry Support	5198
 Audiovisual and Digital Media Industry Support and Services	5188
 Audiovisuales	4209
 Audiovisuel	4237,3703,832,281,1384,438
-Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,182,77,23
+Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17,146,159,5,59,52,151,16,303,143,89,4,87,259,23,175
 Audit Act	9439
 Audit Action Plans	11218
 Audit All	4217
@@ -249,7 +249,7 @@ Audition du Ministère	8891
 Audition du Professeur Mohamed Tozy	8891
 Auditor	2668,148,2080,2652,1318,2280,302,507,86,301
 Auditor Ernst	10793
-Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,130,94
+Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181
 Auditor General Alexis Kamuhire	3043
 Auditor General Cites Missing Audit Committee	9650
 Auditor General Développement	12358
@@ -293,7 +293,7 @@ Auditoria Ambiental	11390
 Auditorias	11406,55
 Auditorias Artigo	11461
 Auditorium	3661,5668,15,1600,297
-Auditors	585,4311,4754,2575,117,141
+Auditors	585,4311,4754,2692,141,17
 Auditors Advisor	4896
 Auditors Control Advisor Date	4896
 Auditors and Consultants	11955
@@ -302,6 +302,7 @@ Auditor’s Report	11250
 Audits	2775,386,341,102,550,6584,37,101,263,724
 Audits Lack	1000
 Audits and Assessments	6432
+Audits and Investigations	12491
 Audits of DST	573
 Audits. Finally	11855
 Audiência	11901
@@ -374,7 +375,7 @@ Council's Audit Committee Charter. Financial Reporting	1554
 Court of Auditors	3667,7101,768,50
 Cuerpo de Auditores	4209
 Cybersecurity Audit	10721,1322
-D B MOR's Internal Audit Directorate	12225
+D B MOR's Internal Audit Directorate	12500
 DANS TOUS LES MODULATION DES AUDITS	2342
 DEPARTAM. AUDITORIA	4209
 DEPARTAM. AUDITORIAS	4209
@@ -395,7 +396,7 @@ Deputy Auditor General Mr. Morie Lansana	9680
 Description Audit du SIF	10876
 Desenvolvimento Inclusivo O Projecto de Audiências Virtuais	10782
 Detailed Audit Trails	5665
-Diagnostic Assessment Tool Tax Audit Quality	12225
+Diagnostic Assessment Tool Tax Audit Quality	12500
 Digital Credit Audit Report	12227
 Digital Platform Audit	5536
 Director of Audit	7845
@@ -503,10 +504,10 @@ Intended Audience	1009
 Internal Audit	1155,4378,1413,2750,1435,3,103,718,31,359
 Internal Audit Agency Act	11,576
 Internal Audit Agency CSA	6936
-Internal Audit Annual Plan	12225
+Internal Audit Annual Plan	12500
 Internal Audit Charter	1554,5392
 Internal Audit Department	1264
-Internal Audit Directorate	12225
+Internal Audit Directorate	12500
 Internal Audit Framework	11131
 Internal Audit Function	1154
 Internal Audit Function The Internal Audit	1554
@@ -515,7 +516,7 @@ Internal Audit NPC Secretariat Director	11224
 Internal Audit Plan	1554,9580
 Internal Audit Report	408
 Internal Audit Technician	11131
-Internal Audit Training Program	12225
+Internal Audit Training Program	12500
 Internal Audit Unit	587,967,9275,395
 Internal Audit Unit Financial Provisions	587
 Internal Audit Unit and Audit Committee	11224
@@ -550,7 +551,7 @@ M. Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5079
 MAGISTRADO AUDIENCIA PROVINCIAL	4209
 MICT Executive Director Audrin Mathe	2977
 MODULATION DES AUDITS DES ENTREPRISES PUBLIQUES	2342
-MOF's Internal Audit Department	12225
+MOF's Internal Audit Department	12500
 Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Mandatory Audit of Legacy Data	3861
@@ -559,7 +560,7 @@ Mandatory Internal Audit	5533
 Medios Audiovisuales	9303,17
 Medios Audiovisuales. Esta	9320
 Michael Okpara Auditorium	5072
-Ministry of Skills Audit	4528
+Ministry of Skills Audit	4528,7984
 Ministry of Skills Audit and Development	7521
 Ministry’s Audit Committee	2867
 Museum Auditorium OVERALL	11134
@@ -706,7 +707,7 @@ TAX AUDITS AND RELATED DISPUTES	12389
 TH REPORT ON AUDITED ACCOUNTS	10313
 Target Audience	940
 Tax Audit	10762
-Tax Audit Directorate	12225
+Tax Audit Directorate	12500
 Tax Audit Framework	12389
 Tax Audits	12389
 Testing Security Audit Annual	11952

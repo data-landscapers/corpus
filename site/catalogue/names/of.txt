@@ -13,11 +13,11 @@ AI Office	4126,1820,2026,42,515,1,161,1,2358
 AI Office. People	8529
 AI Officer	5297,142
 AI Ombudsperson Office	11265
-AI Strategy Implementation Office	4528,875,8,1381
-AI Strategy Implementation Office and National Data	4528
-AI Strategy Implementation Office and Technical Working	4528
-AI Talent Development Coordination Office	4528
-AI Technology Transfer Offices	4528
+AI Strategy Implementation Office	4528,875,8,1381,5720
+AI Strategy Implementation Office and National Data	4528,7984
+AI Strategy Implementation Office and Technical Working	4528,7984
+AI Talent Development Coordination Office	4528,7984
+AI Technology Transfer Offices	4528,7984
 AI for Executive Office Administrators	6946
 AMCON Managing Director and Chief Executive Officer	8157
 AML Reporting Officer	6940
@@ -81,6 +81,7 @@ Africell Angola Ofertas Tudo	11412
 Ag. Chief Executive Officer	1245
 Agence Française de The Office	12358
 Agencies Offices and Locations	9409
+Agricultural Business Advisory Officers	12507
 Airtel Africa Chief Executive Officer	6932
 Airtel Africa Chief Executive Officer Sunil	7291,2741
 Airtel DRC Chief Executive Officer Thierry	10032
@@ -123,6 +124,7 @@ Assistant Medical Officer	771
 Assistant Research Officer No	10980
 Assistant Staff Officer	3691
 Associate Office	10358
+Athanasia Court Offices	12515
 Atividade Estatística Oficial	11537
 Atividade Estatística Oficial Por	11537
 Attorney General's Office	2104,1826,5283,186,126
@@ -130,6 +132,7 @@ Attorney General's Office. National Police	11868
 Attorney General's Office. Once	2104
 Attorney General’s Office	6806,4325,3
 Attorney-General's Office	783,8616,906
+Attorney-General's Office Sector	12512
 Attorney-General’s Office	4528,2408,1632,1680
 Attorney-General’s Office MoCDTI	6936
 Attorney-General’s Office. The CSA	10248
@@ -202,6 +205,7 @@ British International Investment Chief Executive Officer	9503
 Brown Kasaro Chief Electoral Officer	12465
 Budget Office	10681,1185
 Bulawayo EWZL Owned Offices N	4896
+Bulawayo Office	12515
 Bulletin Officiel	2425,1384,87,6108
 Burkina Faso Kicks Off Construction of Digital	4682
 Burundian Revenue Office	4679
@@ -410,7 +414,7 @@ Chief Information Security Officer	4755,3808,137,654,1367,1551
 Chief Information Security Officer MoE Ministry	6936
 Chief Information Security Officers	3214,6149,1326
 Chief Information Technology Officer	5825
-Chief Innovation Officer	4528,6359
+Chief Innovation Officer	4528,6359,1625
 Chief Innovation Officer Gabrie Gouws	1590
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
 Chief Legal Officer	587
@@ -439,7 +443,7 @@ Chief Risk and Compliance Officer	7606
 Chief Risk and Compliance Officer of MobileMoney Fintech	7114
 Chief Sales Marketing Officer	2595
 Chief Security Officer	9948
-Chief Security and Risk Officer	4528
+Chief Security and Risk Officer	4528,7984
 Chief Statistician and Data Officer	11554,419
 Chief Strategy Officer	8002,3141
 Chief Strategy Officer Michael Mutiga	7567
@@ -497,6 +501,7 @@ Communications Officer	6199,1675,1087,192,896,1240
 Communications Officers	6077
 Community Health and Safety Impacts Official Use	12253
 Community Kitchens Offer	6947
+Community Relations Liaison Officers	12510
 Companies Registration Office	3714
 Companies and Intellectual Property Registration Office CIS	11261
 Company’s Executive Officers and Directors	7198
@@ -581,7 +586,7 @@ Data Offers	11259
 Data Officers	12210
 Data Protection Office	783,16,197,232,1588,173,254,1286,54,70,197,1689,713,2880,2100,187
 Data Protection Office. Un	6608
-Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117
+Data Protection Officer	1877,847,583,5,168,148,1,899,1,332,24,216,1080,611,144,1501,3443,76,39,190,8,39,70,117,93
 Data Protection Officer Appointment	12193
 Data Protection Officer Article	11956
 Data Protection Officer Assessment	11956
@@ -605,6 +610,7 @@ Data Protection and Cybersecurity Officer	4126
 Date Signature of Offender TO BE FILLED	7845
 Deeds Office	7278,4008
 Deeds Office. All	11286
+Deeds Registry Office	12511
 Deep Offshore and Inland Basin Act	11947
 Delegado Oficial Mayor	4209
 Demographics Officials	7230
@@ -633,6 +639,7 @@ Designated Post Offices	12216
 Designation of Data Protection Officers	11956
 Detalhes da Oferta Formativa. País	11472
 Determination Officer SA South Africa	5533
+Development AISIO AI Strategy Implementation Office	12512
 Development Office	2590,1536,1046,1254,1616,2975,66,840,83,36,149
 Development Office Famines Early Warning Systems	10763
 Development Office GDP Gross Domestic Product	12006
@@ -741,6 +748,7 @@ Economic and Commercial Office	3950
 Economic and Financial Crimes Commission. Officials	11714
 Economic and Organised Crime Office	587,3104,5057,148
 Economic and Organised Crime Office Act	587
+Ecosystem Officer	12512
 Edit Share This Officials	4261
 Education Information Officer	11180
 Educational Provincial Offices	11916
@@ -810,6 +818,7 @@ Expanding Large and Medium Taxpayer Offices	10997
 Expansion of Off-Grid Renewable Energy	12224
 Extension Officer	1988
 Extensión de OFIVE	4209
+FAQs Field Officers Tenders Vacancies Search	12515
 FBI San Diego Field Office	11342
 FBI’s San Diego Field Office	11342
 FG WajeGame Official Site Guide	3383
@@ -843,6 +852,7 @@ Financial Institutions FMO Financial Management Officer	1988
 Financial Officer	9124
 First Vice President's Office	11133
 First Vice President’s Office	11133
+Fisheries and Rural Settlement. The Office	12511
 Fixed Off-Net Traffic	2776
 Fixed Office and Service Points Districts Local	8999
 Fixed Office and Service Points Geographic Coverage	8999
@@ -944,10 +954,12 @@ Group Data Protection Officer	10694
 Group Management Office	4723
 Group Managing Director and Chief Executive Officer	7371
 Guinea Office	312
+Gweru Office	12515
 Général Office National	10812
 H&S Official Use Only Expected Environmental	12253
 HMIS Officer	3791
 HRH. Federal Republic ofNigeria	4301
+Harare Office Head Office	12511
 Head Office	1263,1045,468,610,5454,159,1219,991,71,675,31,419
 Head Office CA Coast Region Office	6946
 Head Office Regional Office Bank of Zambia	12364
@@ -1017,7 +1029,7 @@ Immunities and Facilities ofBoth Participants	4301
 Impact ofArtificial Intelligence	11140
 Impacts Official Use Only	11417
 Implementación Oficina Técnica de Diseño de Proyectos	4209
-Implementation Office	4528
+Implementation Office	4528,7984
 Implementation ofNotional Interoperability Use Cases	1009
 Imports Solar Offgrid	12256
 Imprensa Oficial	11569
@@ -1129,7 +1141,7 @@ Land Officer	11129
 Land Registry Office	11862
 Land Registry Offices and Notaries	11862
 Land and Notary Registry Offices	11862
-Large Taxpayer Office	10419,1806
+Large Taxpayer Office	10419,2081
 Large Taxpayer Offices and State Suppliers	10792
 Large and Medium Taxpayer Offices	10997
 Latest Biometrics News OfDIA	10293
@@ -1175,7 +1187,7 @@ MISSION MEMBERS AND OFFICIALS	12195
 MIT News Office	12231
 MMFL Chief Executive Officer Shaibu Haruna	10117
 MOH Official Use Only Page	11417
-MOR's Tax Appeal Office	12225
+MOR's Tax Appeal Office	12500
 MPA Program Development Objective Official Use	11417
 MPA. Official Use Only Page	11417
 MPLA General's Office	9399
@@ -1281,6 +1293,7 @@ Msasa Current EWZL Owned Offices N	4896
 Multi-Partner Trust Fund Office	11356
 Multi-lateral Office	7548
 Multichoice Kenya The Office	2668
+Mutare Office	12515
 MyTown Offers	11259
 MÉDIA DE TARIFA OFF-NET PRATICADA POR	11531
 NCC Annex Office	7747,104
@@ -1332,7 +1345,7 @@ National Government Administration Officers	8793,3463
 National Grid Off-Grid	11572
 National IT Office	969
 National Identification Office	1864,8948
-National Identification Project Office	12225
+National Identification Project Office	12500
 National Office for Employment Protection	10841
 National Office for Identification	4788
 National Office for Technical Studies and Development	3604
@@ -1434,7 +1447,7 @@ OFFICIAL NOTICE	10476
 OFFICIAL SIGN OFF	11986
 OFFICIAL SIGN-OFF	11261
 OFFICIAL USE ONLY	5598,22
-OFFICIAL USE ONLY FISCAL AFFAIRS D	12225
+OFFICIAL USE ONLY FISCAL AFFAIRS D	12500
 OFFICIAL USE ONLY Received	22
 OFFICIAL USE ONLY Report	1867,1695,2977,4229,61,731,295,110,211
 OFFICIAL USE ONLY Report No. CPF0000058	11468
@@ -1537,7 +1550,7 @@ Offenses Attempt	12459
 Offenses Pornography	12459
 Offensive	1938,2932,2920,531
 Offensive Vulgar Ad	4790
-Offer	958,42,2862,264,402,368,3160,3087,52,745,274,19,20,33,70,20
+Offer	958,42,2862,264,402,368,3160,3087,52,745,274,19,20,33,70,20,136
 Offer AI-related	12356
 Offer Letter	762
 Offer Period	4896
@@ -1555,7 +1568,7 @@ Offers	961,2753,416,212,2856,3936,872,391
 Offers Client Data for Sale	3364
 Offgrid	12429
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,8,7,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12
 Office Accommodation	5533,6453
 Office Accra	2308
 Office Act	12138
@@ -1655,6 +1668,7 @@ Officer Bernice Lemedeket	12310
 Officer CMED Central Monitoring and Evaluation Division	12240
 Officer CP Condition Precedent DD Due	1818
 Officer Commanding	9316
+Officer Commanding Harare Province	12510
 Officer Deputy General Director Manager of Cybersecurity	2989
 Officer Dr. Aminu Maida	4937
 Officer Dr. Tarila Ebiede	10644
@@ -1674,18 +1688,19 @@ Officer Yonas Alemayehu	7820
 Officer of Cyberchain	8627
 Officer of Orange Botswana	5717
 Officer-in-Charge	10073
-Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,14,25,41,51,121
+Officers	34,1843,111,787,212,143,2432,870,2819,146,518,72,181,2043,39,41,51,121,37
 Officers Doctors	4260
 Officers and Committees	3714
 Officers of Civil	12226
 Offices	127,6819,3367,499,52,425,697,165,50,166,16
 Offices Earmarked	11986
+Offices Harare Office	12515
 Offices Metro	8999
 Offices Operational Service Points Fix Service	8999
 Offices des Postes	11522
 Officesx Health	10812
 Office’s Guidance Note	1630
-Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18
+Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156
 Official Africa CDC	4782
 Official Citation and Designation	3861
 Official Completed Form	12218
@@ -1694,7 +1709,7 @@ Official Development Assistance	1828,3416,1094,4994,24
 Official Development Assistance PUL	5244
 Official ECOWAS	4827
 Official Electoral Registration	9399
-Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75
+Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54,44,698,438,21,225,132,5,75,79
 Official Gazette No	1220
 Official Gazette no Special of 16.06.2013.pdf	12413
 Official Gazette of Mozambique	3861
@@ -1811,7 +1826,7 @@ Official Use Only Work	12253
 Official Use Only Workers' Code of Conduct	12253
 Official White House	5366
 OfficialStatistics	8527
-Officially	1777,3000,758,404,2027,1643,151,21,270,147,365,18,137,1638
+Officially	1777,3000,758,404,2027,1643,151,21,270,147,365,18,137,1638,150
 Officially Handed Over Updated	5991
 OfficialpublicationsfromtheWorld HealthOrganization	8301
 Officials	791,855,166,30,38,399,3,36,42,75,284,69,32,28,71,3,212,42,59,21,170,11,23,103,47,21,9,72,62,165,19,10,5,59,89,11,152,155,192,3,18,16,58,26,162,97,3,42,14,39,5,7,27,5,9,63,43,18,1,15,10,4,40,15,8,25,17,17,16,10,45,8,16,2,4,32,9,2,3,11,10,52,16,89,13,94,36,11,24,1,8,2,4,17,3,9,5,52,29,21,1,3,28,32,42,15,26,49,9,7,29,10,12,25,13,58,8,14,12,76,40,46,41,15,5,22,26,15,17,9,19,26,27,25,123,2,2,1,2,38,1,58,56,1,42,10,2,93,59,48,49,24,7,71,59,4,1,49,53,1,45,110,93,26,165,49,33,88,8,56,34,24,130,50,134,1,108,17,10,26,54,9,10,212,96,61,16,98,137,318,360,132,66,37,512,45,36,1,74,418,65,40,155,77,71,202,18,204
@@ -1934,6 +1949,7 @@ PERSONAL DATA PROTECTION OFFICE AT KAMPALA	3307
 PERSONAL PROTECTIVE EQUIPMENT Official Use Only	12253
 PIDIA01397 Official Use Only The World	3456
 PLEASE RETURN TO NEAREST REGISTRATION OFFICE	12410
+PM Bulawayo Office Regional Office	12511
 PM's Office	1707
 PM's Office. Cash	3901
 PMO Project Management Office POA Point	11857
@@ -1966,6 +1982,7 @@ Países Africanos de Língua Oficial Portuguesa	12190
 Países Africanos de Língua Oficial Portuguesa P&D	2816
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
+People's Office	12512
 People’s Office	4528
 Percentage of Permanent Post Offices	12395
 Permanent Oversight Office	3604
@@ -2028,7 +2045,7 @@ President’s Office for Planning and Investment	5789,4927
 Presiding Officers	10049,1240
 Press Office	11858
 Prime Minister Aldabaiba’s Office	5317
-Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,24,112
+Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163
 Prime Minister's Office Public Disclosure Authorized	12228
 Prime Minister’s Office	3604,3555,1347,2547,675
 Prime Minister’s Office. Développement Digital	969
@@ -2083,7 +2100,7 @@ Protection of Personal Draft Official Identity Cybersecurity	1939
 Provincial Cadastral Offices	427
 Provincial Health Office	10784,1128
 Provincial Health Office of Luanda	10776
-Provincial ICT Officer	9137
+Provincial ICT Officer	9137,3371
 Provincial ICT Officer Joyce Mushiko	9792
 Provincial ICT Officer Joyce Mushiko. Nawa	9792
 Provincial ICT Officer Lusaka	34
@@ -2375,13 +2392,13 @@ Taking the AI Office	8692
 Takoradi Office National Communications Authority	2776
 Tamale Office National Communications Authority	2776
 Tasks and Position of Data Protection Officers	6608,4976
-Tax Appeal Office	12225
-Tax Appeal Review Office	12225
+Tax Appeal Office	12500
+Tax Appeal Review Office	12500
 Tax Business Offices. Solar	10581
 Tax Office	10775
 Tax Offices	12218
 Tax Transformation Office	12162
-Taxpayers Office NMTRS Ministry of Finance PAYE	12225
+Taxpayers Office NMTRS Ministry of Finance PAYE	12500
 Tech Business Offer	11155
 Tech Valleys Offshoring	4837
 Tech5's Chief Executive Officer and Vice-President	3613
@@ -2541,6 +2558,7 @@ Year-on-Year Mobile-to-Fixed Off-Net Traffic	2776
 Year-on-Year Mobile-to-Mobile Off-Net Traffic	2776
 Year-on-Year Off-Net Domestic Mobile Voice Traffic	2776
 Yet Airtel Money’s Initial Public Offering	8049
+ZIMRA Officials	12509
 ZIMRA's Data Protection Officers	4529
 ZRCP Offices	1988
 ZSE. The Exit Offer	4896
@@ -2553,5 +2571,6 @@ ZimSwitch Chief Executive Officer Zabron Chilakalaka	7781
 Zimbabwe Language Value Set Official	6666
 Zimbabwe Office	6463
 Zimbabwe Publication of Offer Results	4896
+Zimbabwe Share Close FAO Regional Office	12507
 Zomba District Health Office. Informed	12242
 Zonal Education Management Information Systems Officers	12175

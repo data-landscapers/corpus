@@ -532,7 +532,7 @@ Urbaine de Gestion Foncière	10876
 Urbaines	10876
 Urbaines de Gestion Foncière	10876
 Urbains Fonciers	10876
-Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3
+Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364,49,29,123,21,19,125,7,160,173,91,12,307,26,22,37,24,18,131,55,7,28,34,17,19,1,30,7,3,31,14,16,10,22,26,3,41
 Urban AI	2518
 Urban Activity	6051
 Urban Addresses	11129
@@ -625,9 +625,9 @@ Urban and Regional Host Communities Project	1988
 Urban and Regional Planning Act	1988
 Urban and Rural District	970
 Urban-focused Extended	12214
-Urban-rural	4528,6667
+Urban-rural	4528,6667,1317
 UrbanRural Describe	11180
-Urbana	4209,6548,3,17,613,28,3,39,872
+Urbana	4209,6548,3,17,613,28,3,39,1025
 Urbana Rural	10760,17
 Urbana Rural Gráfico	10757
 Urbana Rural Página	10760
@@ -664,7 +664,7 @@ Urgences	9339
 Urgencias	4209
 Urgency	7695,1169
 Urgency for Systemic Transformation	11285
-Urgent	1777,1606,5330,410,1741,689
+Urgent	1777,1606,5330,410,1741,689,936,7
 Urgent Call	11417
 Urgent Global Challenges	4430
 Urgent Need	5061,6904
@@ -694,6 +694,7 @@ Uruguay. Au	10917
 Uruguay. The Department	11005
 Urugwiro Village	6526
 Urunana	12434
+Urungwe Victoria Wankie Wedza Property Description	12511
 Ururembo	718
 Urvine Landsberg	12478
 Urwego	1214

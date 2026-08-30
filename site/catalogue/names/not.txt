@@ -31,7 +31,7 @@ Appearance Notices The CDH	11868
 Appointment Notification	1877
 Asia Note	5618
 Asia. Notable	11922
-Assessment Notice P7-25. Degree	12225
+Assessment Notice P7-25. Degree	12500
 Authors ArticleDraft Guidance Note	6998
 Authors. Note	11310
 Auto de Notícia	2866,1408
@@ -236,6 +236,7 @@ General Procurement Notice	10829,696,330
 General Procurement Notice GRM Grievance Redress	10829
 General Procurement Notice GRS Grievance Redress	11855
 General Procurement Notice. The World Bank	1867
+Germany Legal Notice Data	12486
 Global Medium-Term Note Programme	9796
 Google. Note	1469
 GovTech Startups. Notably	10785
@@ -450,7 +451,7 @@ Notable	1348,509,728,190,2197,270,121,926,166,835,732,570,11,1158,1003,12,9,76,2
 Notable Elements	12395
 Notable Initiatives	12356
 Notable Sierra Leonean Personalities Who Died	5390,965,827
-Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102,10,21,146,3,1,1,18,41,2,14,17,9,53,6,1,281,7,281,56,2,43,23,4,32,9,116,10,26,1,22,4,42,22,19,31,11,21,16,27,8,2,5,27
+Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102,10,21,146,3,1,1,18,41,2,14,17,9,53,6,1,281,7,281,56,2,43,23,4,32,9,116,10,26,1,22,4,42,22,19,31,11,21,16,27,8,2,32,57
 Notaires	10858
 Notamment	3248,20,568,2620,3799,652,68,98
 Notariado	2688,265,577,1181,1349,470,2741,1479,1,1,1,12,10,590,6,156,10,28,1,455,46,75,14
@@ -511,7 +512,7 @@ Nothing	28,8,74,5,118,1,161,40,128,456,70,60,37,57,538,184,472,1,136,1009,131,32
 Nothing Delta Wants Public Projects Feedback	10034,231
 Nothing For Us	12038
 Notic.e No	11852
-Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141
+Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141,8,18
 Notice Following Technical Evaluation for Consultancy	3700
 Notice No	4732,1945,5278,341,1
 Notice No. BG	6940,524,1268
@@ -605,6 +606,7 @@ NotionTech-Logo.jpeg	7139
 Notional Digital Health Strategy for South Africa	1009
 Notiﬁcation	2709
 Notons	2332,34,1400,223,146,1223,331,118,1938,928,894
+Notorial Deed	12496
 Notre	12,735,540,589,387,37,12,15,115,11,422,51,52,14,127,38,1,15,146,331,16,32,110,13,4,208,59,101,153,349,228,106,25,11,94,101,20,427,336,24,13,143,14,223,37,81,381,51,154,52,8,44,12,26,26,21,21,18,11,273,38,144,41,95,71,2,4,431,16,282,16,86,91,87,1,50,46,104,44,256,34,5,17,1,55,24,14,87,27,3,50,36,305,20,144,70,19,40,176,147,68,21,80,66,502,30,26,4,46,51,250,129
 Notre Dame Environmental Change	2889
 Notre Dame Environmental Change Initiative	969
@@ -619,6 +621,7 @@ Notre Dame’s Global Adaptation Initiative	11560
 Notre Futur	8673
 Notre Santé	1165
 Notre Togo	8673
+Notshe	12521
 Notto	9222
 Notto Alternative	9222
 Notto Gouye Diama	8270
@@ -666,6 +669,8 @@ PRACTICE NOTE	12041
 PRESS AGENCYCamer Press Agency DECOUVREZ NOTRE	9916
 PRIVACY NOTICE	11291
 PRMP Notifie	10876
+PUBLIC NOTICE	12491
+PUBLIC NOTICE ROLL-OUT AND IMPLEMENTATION	12509
 PUBLIC NOTICE The Uganda Communications Commission	4761
 Page Notably	6671
 Pan-African Survey and Noted Trends. Journal	1243
@@ -690,10 +695,13 @@ Privacy Notice	6792,212,1432
 Privacy Notice Generator	7409
 Procedures ESCON Environmental and Social Compliance Note	11863
 Proklamasies PROCLAMATION NOTICE	11217
-Public Notice	3216,1483,2578
+Public Notice	3216,1483,2578,5214,18
+Public Notice No	12509
+Public Notice Number	12509
 Public Notice TRANSITION FROM ELECTRONIC FISCAL	4699
 Public Notice Today	7277
 Public Notice Uncategorized Voter Registration Tags	12465
+Public Notices Publications Annual Reports Brochures	12515
 Public Notification and Engagement	3861
 Publication of Tender Notice and Submission Deadline	12389
 Publisher's Note	766
@@ -783,6 +791,7 @@ System Event Notification	12364
 TAKE NOTICE	11956
 TES NOTE BY THE DEPARTMENT	4247,55
 TT Notification	12138
+TaRMS. Public Notice	12491
 Target Note	10844
 Tariff Notifications	11259
 Tariff Notifications MTN	11259
@@ -826,6 +835,7 @@ World Note	11880
 World Notices	5418
 X-RAY EQUIPMENT. NOTE	11269
 XDS WS-Base Notification	1009
+Xolani Notshe	12521
 Y NOTARIA NOTARIA K.N. NOTARIA W.N	4209
 Yalelo. Notable	12376
 Zimbabwe Notaries Public	4896

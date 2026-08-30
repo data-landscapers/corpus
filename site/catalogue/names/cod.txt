@@ -12,7 +12,7 @@ AICT603 Code	11235
 AICT604 Code	11235
 AICT605 Code	11235
 ARCEP-090720 CODAN C-463 Antenne HF	998
-Abort Reason Code	12324
+Abort Reason Code	12484
 Access Code	4866
 Advertising Code	12161
 Africa. CODESRIA	9739
@@ -141,7 +141,7 @@ Code I Description	11180
 Code ICT	236
 Code ISO International Organization for Standardization JWT	11952
 Code Implement IaC	11952
-Code Indicator	12355
+Code Indicator	12355,132
 Code Minier	2342
 Code Nation	6133
 Code Nation Plan	6133
@@ -191,7 +191,7 @@ Code of Conduct for Workers	1988
 Code of Conduct. Sensitize	12253
 Code of Corporate Governance for Issuers of Securities	7204
 Code of Criminal Procedure	11900
-Code of Ethics	11131,3,821,270
+Code of Ethics	11131,3,821,545
 Code of Ethics for Accountants and Auditors	11955
 Code of Ethics for Print	10735
 Code of GBV	1988
@@ -529,7 +529,7 @@ Quick Response Code Indonesian Standard	11994
 RTGS Transaction Type Codes	12364
 RTGS Transaction Type Codes TTC Priority	12364
 RTSR The Consumer Code	11993
-Rank Code Indicator	10969,916
+Rank Code Indicator	10969,916,602
 Rank Code Labor	12351
 References the Digital Code	5094
 Reform of Its Electricity Grid Code	11936
@@ -558,7 +558,7 @@ SECOND-ROUND CODING	8605
 SECTOR CODE	11235
 STANDARD FOR DATA CODING	11180
 STP COD BDI MRT ETH BFA	6593
-SWIFT Bank Identifier Codes	12324
+SWIFT Bank Identifier Codes	12484
 Secondary Ret Code	11180
 Section S du Code	4567
 Signaling Point Codes IT Information Technology	6946
@@ -573,6 +573,7 @@ Statement AICT000 of Code Series AICT	11235
 Statement AICT000 of Code Series AICT000	11235
 Statement AICT600 of Code Series AICT600	11235
 Statistical Code Card	10645
+Strategic Plan Code Of Ethics NDS2	12515
 Strengths Rank Code	12351
 Strengths Weaknesses Rank Code Indicator	10969,916,470
 Structural Building Code Compliance and Coordination Local	9123

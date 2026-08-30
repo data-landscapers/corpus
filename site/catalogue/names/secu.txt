@@ -208,7 +208,7 @@ Chief Information Security Officer MoE Ministry	6936
 Chief Information Security Officers	3214,6149,1326
 Chief Security Evangelist	9830
 Chief Security Officer	9948
-Chief Security and Risk Officer	4528
+Chief Security and Risk Officer	4528,7984
 China's Data Policy Balances Security Obsession	10350
 China’s Ministry of Public Security	11740
 Cisco Secure Client	10617
@@ -421,7 +421,7 @@ Defence and Security Cooperation	9761
 Defence and Security Forces	5841,2356
 Defence and Security Mr Moeti Mohwasa	10363
 Defence and Security Procurement Act	8904
-Defence and Security Sector Transformation AI	4528
+Defence and Security Sector Transformation AI	4528,7984
 Defend Rights and Security	1566
 Defense and Security Wings	12453
 Defense and Security Wings EGD	12453
@@ -458,6 +458,7 @@ Discussion Materials of J.P. Morgan Securities LLC	7198
 District Food Security Task Force	12158
 District Internal Security Officer	2928
 Djibouti's National Security Agency	183
+Documentation Security	12499
 Domain Name System Security Extensions	1036,3174,6554
 E- Government Security	12253
 E-Social Security	6458
@@ -582,7 +583,7 @@ Fees for Registration of Security Interest	12389
 FinSec Security Operations Centre	9075
 Financial Industry Cyber Security Operations Centre	11134
 Financial Industry Security Operations Centre	5532
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1,135
 Food Security Following	11185
 Food Security Nigeria	11469
 Food Security Pack	12453
@@ -688,7 +689,7 @@ IFC Senior Secured Loan	889
 IGAD Youth Peace and Security Series	10451
 II Ciclo Ensino Secundário	10766
 IMF Securities Account	11131,3
-INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130,902,16,466,1
+INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130,902,16,466,1,135
 INFRASTRUCTURE SECURITY	11886
 INSS National Institute of Social Security of Guinea-Bissau	11549
 ISA Investments and Securities Act	8590
@@ -701,7 +702,7 @@ Implementing Data Security and Privacy Standards	12360
 Improving Substations System Automation and Security	12358
 Incident Response and Security NCA	1777
 Increase the Level of Security Management Consumer Awareness	6946
-Increasing Deterioration Security	10835,3,1048,466,1
+Increasing Deterioration Security	10835,3,1048,466,1,135
 Information Network Security Administration	1785,1,1416,1,392,2276,1212,1,454,1768,1,2915,57
 Information Network Security Agency	7909,3698,13,612,40
 Information Privacy and Security Policy	6632
@@ -734,6 +735,7 @@ Information Security and Web Technologies	10911
 Information System Security Assessment	10911
 Information Systems Security Agency	2838,1917,515
 Infrastructures and Security	10911
+Initiate the Security	12512
 Innovation F-6 Secure	11857
 Institute for Security Studies	4127,2260,563,1900,549,217,446,2165
 Institute for Security Studies and African Futures	7233
@@ -774,7 +776,7 @@ Ivoire’s Ministry of Interior and Security	245,72
 Ivoire’s Ministry of Interior and Security and China Railway	551
 Ivoire’s National Agency for Information System Security	8073
 J.P. Morgan Securities LLC	7198
-JUSTICE SECURITY	10835,2,131,918,454,12,1
+JUSTICE SECURITY	10835,2,131,918,454,12,1,135
 Japan Organisation for Metals and Energy Security	2626
 Jessica Heller REI Cameroon Secures	10993
 Job Evaluation Conflict Management for Security Customer	11131
@@ -955,7 +957,7 @@ National Cyber Security Policy and Strategy	1889
 National Cyber Security Strategy	318,6460,4133
 National Cybersecurity Strategy NSCA National Security	6432
 National Directorate of Food and Nutrition Security	10763
-National Food Security Index	4528
+National Food Security Index	4528,7984
 National Food Security Strategy	7845
 National Health Information System RMD Secure	1009
 National ICT Supply Chain Security Policy	6936
@@ -1041,7 +1043,7 @@ O Ensino Secundário	10766
 OASIS Security Assertion Markup	1009
 ODPC Secures Six Awards	2668
 OPINION OF J.P. MORGAN SECURITIES LLC	7198
-OPPORTUNITY SECURITY	10835,3,130,902,16,466,1
+OPPORTUNITY SECURITY	10835,3,130,902,16,466,1,135
 OVERALL GOVERNANCE SECURITY	10759,1395
 OVERALL IMPACT MITIGATION SECURITY PRACTICES SUMMARY	1938
 OWASP Application Security Verification Standard	5665
@@ -1103,7 +1105,7 @@ Physical Security Standards and Guidelines	34
 Pinnacle Security Limited	12095,224
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Policy and Strategy for National Energy Security	11366
-Political Pluralism Security	10835,3,130,902,16,466,1
+Political Pluralism Security	10835,3,130,902,16,466,1,135
 Politics and Security SITA State Information Technology	11986
 Population Register and Secure Titles	2876
 Postal Network Secure Employment Opportunities Access	10759
@@ -1134,7 +1136,7 @@ Protection and Security of Personal Data	12146
 Provide Safe and Secure Solutions	12287
 Provider Security Server	11952
 Provisions for Unaffiliated Security Holders	7198
-Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Security	2427
 Public Security Integrated Centers	646
 Public Security Network Project	121
@@ -1154,7 +1156,7 @@ RELEVANT LANGUAGE ME SECURITY FRAUD	11004
 REST Security	12359
 RISA RISA RISA Digital Identity and Security	12359
 RISA RISA RISA Secure Infrastructure Communication	12359
-RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1
+RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135
 RULE OF LAW Security	10759,78,1052,263,2,9,177,1
 Raxio Secures	10956
 Real National Security Concerns	1243
@@ -1215,14 +1217,14 @@ SECURITIES OTHER THAN SHARES	3714
 SECURITIES OTHER THAN SHARES Creation	3714
 SECURITIES REGISTRATIONS AND TRANSFERS	3714
 SECURITIES REGISTRATIONS AND TRANSFERS Securities	3714
-SECURITY	1988,1873,6898,76,2,1,130,902,16,2,1,257,6,1,1,9,177,1,11,1
+SECURITY	1988,1873,6898,76,2,1,130,902,16,2,1,257,6,1,1,9,177,1,11,1,135
 SECURITY AGENCY	2727
 SECURITY AGENCY Second Respondent MINISTER	2307
 SECURITY AND POLITICAL STABILITY On the State	7452
 SECURITY ARRANGEMENTS AND CONDUCT OF SECURITY	10049
 SECURITY Appropriate	1243
 SECURITY ENVIRONMENTAL AND SOCIAL SCREENING FORM	1988
-SECURITY OF SWIPSS OPERATIONS SECTION	12324
+SECURITY OF SWIPSS OPERATIONS SECTION	12484
 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SECURITY Public Disclosure Authorized ZAMBIA REFUGEE	1988
 SECURITY RISK	12050
@@ -1254,7 +1256,7 @@ Sanction Screening and Cyber Security	12364
 SandBox Security	9452,39
 SandBox Security X Tanzania Privacy Professionals	9452
 Sandbox Security	9589
-Score Security	10835,1505,1,11,1
+Score Security	10835,1505,1,11,1,135
 SecOps. The Academic Security Operation Center	11077
 Sector-Specific Security Requirements	5665
 Secuna Djassi	11544
@@ -1267,7 +1269,7 @@ Secundário Ensino	10777
 Secundário Taxas Líquidas de Frequência Escolar	10777
 Secur	5242,3881
 Secur1it1y.8anSdeAccucrietyssanCdoAnctrcoel	10157
-Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5
+Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64,174,5,14,87,686,18,12,34,1,223,1,42,103,3,25,35,25,9,5,54
 Secure Archival and Integrity Protection	3861
 Secure BGP	3840
 Secure Citizen	11940
@@ -1285,10 +1287,11 @@ Secure Digital Infrastructure and Services	11230
 Secure Digital Infrastructure and Services The Department	11230
 Secure Digital Services	6936
 Secure Digital Services ACCOUNTABILITY WITHIN DIGITAL	6936
+Secure Director	12512
 Secure Documents Following	11859
 Secure Domain Controllers	10721
-Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1
+Secure Employment Opportunities	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135
 Secure Enjoy	10956
 Secure Environment	1000
 Secure Eswatini	3716,8721
@@ -1387,7 +1390,7 @@ Securities and Exchange Commission. Legal	8788
 Securities-related	9230
 Securitisation	5242
 Securitization Agenda	2117
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217,334,16,1,1,1,7,4,22,30,3,29,11,69,82,6,1,1,9,2,1,19,16,8,1,1,16,6,20,4,83,1,11,1,11,1,2,7,26,31,22,4,18,13,24
 Security A Licensee	762
 Security Actors	10819
 Security Admin	10721
@@ -1461,6 +1464,7 @@ Security Guidelines	9166
 Security Identity Alliance’s OSIA	10819
 Security Identity Alliance’s OSIA1	10819
 Security Incident Management Maturity Model	7736,1734
+Security Index	12512
 Security Information and Event Management	5793,639,4289,510
 Security Initiative	9416
 Security Interest	12389
@@ -1512,7 +1516,7 @@ Security Review	1243,6779,754,461
 Security Risk Assessment	783,10046
 Security Risk Assessment Regularly	12359
 Security Risk Assessment and Security Management Plan	10829
-Security Risks	4528,1904,5750
+Security Risks	4528,1904,5750,330
 Security Risks Assessment	10829
 Security Risks Institutional	4528
 Security Risks Over	12182
@@ -1539,7 +1543,7 @@ Security Testing Schedule Test Type Frequenc	11952
 Security Testing Tools Use	11952
 Security Threats	4676,2776
 Security Training	1988,4958
-Security Transformation Agriculture	4528
+Security Transformation Agriculture	4528,7984
 Security Uganda Launches	9981
 Security Under the Electronic Transactions Law	12294
 Security VM Virtual Machine VPC Virtual	6432
@@ -1573,7 +1577,7 @@ Security and Privacy Workshops	9616
 Security and Resilience	1554
 Security and Resilience Features	3840
 Security and Resilience Features Measures Implemented	3840
-Security and Resilience Framework Given	4528
+Security and Resilience Framework Given	4528,7984
 Security and Risk Assessment	10157
 Security and Risk Management	12419
 Security and Safety	7538
@@ -1623,7 +1627,7 @@ Social Security and Housing Finance Corporation	3066
 Social Security and National Solidarity Ashok Subron	6458
 Social Security of São Tomé and Príncipe	11939
 Somalia's Minister of Internal Security	5045
-Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1
+Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135
 South Africa's National Computer Security Incident	8897
 South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11,424,337,32,94
 South African Social Security Agency Act	2307
@@ -1671,7 +1675,7 @@ TECHNICAL AND SECURITY STANDARDS APPLICABLE	6432
 TENURE SECURITY	3861
 TOPPAN SECURITY LIMITED	9399
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
-TRANSPARENCY Secure Employment Opportunities	10835,3,130,902,16,466,1
+TRANSPARENCY Secure Employment Opportunities	10835,3,130,902,16,466,1,135
 Technical Feasibility Studies and Security Risk Management	6928
 Technical and Organizational Security Measures	12302
 Technology Sector Working Group. Zambia’s Securities	12376

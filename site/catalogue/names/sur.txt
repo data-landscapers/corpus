@@ -40,6 +40,7 @@ Animal Disease Surveillance Dashboard	7236
 Annual Business Survey	11423
 Annual Citizens' Satisfaction Survey Reports	11866
 Annual Economic Survey	2775
+Annual National Surveys The AISIO	12512
 Anti-Crime Surveillance Export-Import Bank of China	645
 Artificial Intelligence Needs Assessment Survey	1814
 Audiencia Provincial de Centro Sur	4209
@@ -106,6 +107,7 @@ Community-Based Surveillance CCS	10776
 Compliance Zandile Mabundza Financial Surveillance Zodwa	11131,3
 Conclusion Appendix A Survey	10977
 Conclusion Survey	12192
+Conditions Privacy Policy Surveyor General	12511
 Conditions Survey	12403
 Conduct Annual Needs Assessment Survey	11866
 Conseil de Surveillance	7805,3116
@@ -121,6 +123,7 @@ Contracting and Disposal of Surplus	10008
 Coopération Internationale. Sur	5223
 Corporations Survey PAGE	2775
 Cost of Payments Survey	10901
+Council of Land Surveyors	12511
 Country ICT Survey for Namibia. Sweden	12325
 Country Profile ENTERPRISE SURVEYS	11874
 Credit Conditions Survey	7907
@@ -169,6 +172,7 @@ Demographic Health Surveys	10777
 Demographic and Health Survey	6946,2539,280
 Demographic and Health Surveys	236,6101,1499,2878,1292
 Demographic and Household Survey	10829
+Department of Surveyor-General	12511
 Digital Economy. UN E-Government Survey	3534
 Directorate of Disease Surveillance	11912
 Directorate of Territorial Surveillance	7048
@@ -417,6 +421,7 @@ Labour Force Survey Annual Report	12329
 Labour Force Survey NISR	12445
 Labour Force Survey Report	1867
 Land Surface Temperature	11334
+Land Survey Act	12511
 Land Surveyor	11129
 Launch Smart Surveillance Infrastructure	8520
 Lekki and Surulere	5212
@@ -669,6 +674,7 @@ Sixth Demographic and Health Health Survey	10870
 Small Arms Survey Briefing Paper	3583
 Smart City Surveillance	1250,3988,270,208
 Smart Surveillance Infrastructure Project	8520
+Social Registry Survey Press Release	12498
 Socioeconomic Survey Report	1867
 Société Générale de Surveillance SA	3045
 Somali Integrated Household Budget Survey	3586,505
@@ -791,7 +797,7 @@ Surveillance des Systèmes	10237
 Surveillance du Territoire	7333,660,1675
 Surveillance-f	4301
 Surveiller	7977,2998,957
-Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,11,16,10,27,19,59,20,8,1,18,6
+Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40,127,3,2,4,55,63,38,253,345,70,7,67,52,61,24,17,18,4,27,10,27,19,59,20,8,1,18,6,91,1
 Survey 0.pdf	7548
 Survey 0.pdf SUMMARY OF ICT INDICATORS	6671
 Survey And Instrument Design	12409
@@ -807,10 +813,12 @@ Survey Methodology	2775
 Survey Methodology The PIU	11905
 Survey Monitoring and Evaluation	11237
 Survey Objectives	2775
+Survey Objectives Build	12498
 Survey Percentage	10964
 Survey Program Manager	12403
 Survey Project	191
 Survey Questionnaire	12409
+Survey Records Search The DSG	12511
 Survey Regulations Board STATSSA Statistics South	11261
 Survey Report. Found	12376
 Survey Responses	6938
@@ -845,9 +853,9 @@ Surveyed	3604,1634,9,5565,1112,452
 Surveyed Zambian	5247
 Surveying	888,1790
 Surveying and Geoinformatics	9104
-Surveyor	11129
-Surveyor General	11129
-Surveyor-General	11129
+Surveyor	11129,1382
+Surveyor General	11129,1382
+Surveyor-General	11129,1382
 Surveys	236,182,552,1126,2106,1708,629,4175,127,1033,90,11,31,206,125
 Surveys and Land Affairs	10960
 Surveys and Land Tenure	10987
@@ -858,9 +866,9 @@ Survival	2093,619,3867,369
 Survival Migration	12227
 Survival Minimum Expenditure Basket Civil Protection	10763
 Survival Program for Human Stunting Reduction	11469
-Survival Rate	4528
+Survival Rate	4528,7984
 Survival and Resilience	10841
-Surviving	12138
+Surviving	12138,358
 Survivor	474,4,2,165,213,1
 Survivors	3583
 Surya	9237
@@ -873,7 +881,7 @@ TABASAMU DENTAL SURGEONS LIMITED Data Controller	7167
 TIME OF SURVEY	582
 TRADE OPENNESS Surveyed	5247
 Takrem Ferdous Surid	10852
-Taxpayer Satisfaction Survey Questionnaire	12225
+Taxpayer Satisfaction Survey Questionnaire	12500
 Tchad. Sur	2695
 Tech Services Surge	12262
 Telecel. Sur	5071
@@ -931,7 +939,7 @@ Web-Based Survey	10919
 Web-Based Survey Data	10919
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132
 World Bank Enterprise Surveys. Washington	11140
 World Bank Survey of Enterprises	1828
 World Bank. The Enterprise Surveys	10976,898,7,465
@@ -946,3 +954,5 @@ Zambia Impact Investment Climate Survey. Available	12376
 Zambia Impact Investment Survey	12376
 Zambia Survey Department	12369
 Zimbabwe Demographic and Health Survey	21,3226,27
+Zimbabwe Demographic and Health Survey. Trends	12486
+Zimbabwe Social Registry Survey	12498

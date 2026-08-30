@@ -160,7 +160,7 @@ Composer	11209
 Composite	9129,2140,27
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156
 Composition Each Member State	11517
 Composition du Conseil Stratégique	4567
 Composition of Board	3746
@@ -203,7 +203,7 @@ DATASHEET Component Name Cost	11380,169
 DELIVERY COMPONENT	11129
 DESPATCH COMPONENT	11129
 DZAP Project Components and Funds Allocation Component	2291
-Data Collection Data Collection Framework Component	4528
+Data Collection Data Collection Framework Component	4528,7984
 Data Exchange Component	2709,5592,633
 Data Model Imeasurements Component Index	12006
 Description Component	416,374,181

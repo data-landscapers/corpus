@@ -135,6 +135,8 @@ Deputy Minister Dr. Nomalungelo Gina	6480
 Deputy Minister Nomalungelo Gina	11221
 Designation of His Excellency Duma Gideon Boko	8485
 Develop GI-KACE	4126
+Development GIS Location of LPG	12515
+Development GIS of Generation Projects Petroleum Overview	12515
 Diana Gichengo	3005
 Dickson Gitonga Kabete Data Processor INST-486047FF24E	7167
 Digital Economy William Kabogo Gitau	6790,3059
@@ -155,7 +157,7 @@ Dr. Gideon Boako	8545
 Dr. Gift Kalisto Machengete	2987
 Dr. Gikonyo	10662
 Dr. Gilbert Tietaah and Dr. Hima Badie	9960
-Dr. Gilford Hapanyengwi	4528
+Dr. Gilford Hapanyengwi	4528,7984
 Dr. Gina	6480
 Dr. Grace Githaiga	7552,3466,1086
 Dr. Kimani Gicheru Data Processor INST-62963506844	7167
@@ -207,7 +209,7 @@ Fairer Gig Economy	226
 File Transfer Protocol GB Gigabyte GHz	34
 Finalize TORs for Coding Camp for Girls Finalize	2989
 Finance GIMPA Law School Dept. Faculty	10123
-Financing and Investment Strategy Given	4528
+Financing and Investment Strategy Given	4528,7984
 Fiscal Year GIS	12358
 Formation GHz Gigahertz GIS Geographic Information	2775
 Foundation GIS and Data Management Training	6427
@@ -265,16 +267,16 @@ GIGANET SARL	998
 GIGANET SARL Décision	998
 GIGX Technologies	10155
 GII Global Innovation Index RCV Republic	11863
-GII Index	11895,264,1,45,150
+GII Index	11895,264,1,45,150,132
 GII Index. Low-Income	12159,192
-GII Index. Lower-Middle-Income	10969,915,11,265
+GII Index. Lower-Middle-Income	10969,915,11,265,327
 GII Index. Upper-Middle-Income	11885,470
 GII Innovation Ecosystems and Data Explorer	12205
 GII Position	11895,264
 GII Report	11863
 GII S&T	11883
 GII Score	10969,915,1,274,46,146
-GII Score Effectively	12355
+GII Score Effectively	12355,132
 GIIN. Betts	12297
 GIIPs. Identification	1988
 GIInnldnooebvxaal2t0io2n4 Innovation	11884,1
@@ -342,10 +344,11 @@ GIS Geographic	11380
 GIS Integration Ownership History	12211
 GIS Mapping	3003,962
 GIS Maurice	5786
+GIS Monitoring System LPG Overview Licensees	12515
 GIS News	7365
 GIS Unit	11129
 GIS and Cadastre Management	10761
-GIS and Remote Sensing	4528,2375
+GIS and Remote Sensing	4528,2375,5609
 GIS-ARCIS	644
 GIS-based	12399
 GIS-enabled	3487,1813
@@ -432,7 +435,7 @@ GIZ-implemented	178,1,157,120,2,156,1,1,1,206,1,1,1,1,1,223,1,1,368,1,1,1,1,1,1,
 GIZ-run Benin	2321
 GIZ-side	8894
 GIZ. Baker	1243
-GIZ. Donations	12192
+GIZ. Donations	12192,309
 GIZ. L’institution	3821
 GIZ. Rep of PS Mary Kerema	3575
 GIZ. The EU	789
@@ -612,7 +615,7 @@ GimacPay	6877
 Gimacpay	3789
 Gin and Geneva	6921
 Ginaba Lino The Directorate of Civil Registry	8940
-Ginbot	12225
+Ginbot	12500
 Ginebra	6613
 Ginekologija	10780
 Ginette Bonou	8713
@@ -636,6 +639,7 @@ Gira Wigire	12440
 Girafe	1806
 Giraffe AI	8550
 Giraffe AI. Every	8550
+Giraffe Rd	12515
 Girard	899
 Girassol-1	11405
 Giray	11156,711
@@ -752,7 +756,7 @@ Give Us Back Negro Art	8610,233
 Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233,6761
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,5,2,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29,38,21,15,5,3,1,13,3,5,19,24,8,14,80,1,2,1,1,1,4,3,11,42,20,1,11,49,12,20,57,14,37,133,10,3,9,6,7,270,2,6,20,9,8,5,2,2,7,8,31,9,1,21,8,12,84,51,20,14,35,4,6,7,30,13,58,1,8,1,31,7,9,14,4,7,1,2,2,11,5,14,45,10
 Given Africa	415
 Given Angola	10768
 Given CAR	5973
@@ -816,7 +820,7 @@ IIGnnldnooebvxaal2t0io2n4 Cameroon GII	10969
 ITU Giga Phase	502
 Ilbissil Girls Secondary School	10313
 Includes GitHub Classroom	11922
-Income Tax GIZ Document Authentication and Registration	12225
+Income Tax GIZ Document Authentication and Registration	12500
 Indatwa Gitega Cooperative	718
 Independent Broadcasters Association GIFEC Ghana Investment	236
 Indermit Gill	5598,3427,432,1520
@@ -1030,7 +1034,7 @@ Samson Girmay	10001
 Sauli Giliard and Hilda MhagamaApril	5855
 Scope Subsystem Type Nominal Given	7221
 Secteur Sous- Entreprise SAe SARL GIE	10875
-Security and Resilience Framework Given	4528
+Security and Resilience Framework Given	4528,7984
 Selected AI Gigafactories	8346
 Selon GI-TOC	4334
 Senator for Uasin Gishu County	6946
@@ -1056,6 +1060,7 @@ Straus and Giroux	8380
 Strengthen the GITOC	11940
 Sub- Saharan Africa. Cameroon GII Ranking	10969
 Sub- Saharan Africa. South Africa GII	11885
+Sub- Saharan Africa. Zimbabwe GII Ranking	12487
 Sub-Saharan Africa. Cabo Verde GII Ranking	11895
 Sub-Saharan Africa. Mozambique GII Ranking	12159
 SubSaharan Africa. Nigeria GII Ranking	11884
@@ -1114,7 +1119,7 @@ World Bank and GIZ. Financial	7178
 World Bank-financed Girls Empowerment and Learning	10768
 World Bank. Gigler	10726
 World Telecommunication Day and International Girls	6333
-Year GII Position	11884,467
+Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Years of Quality Education for All Girls	12175
 Yvan Giriteka	7955
@@ -1123,4 +1128,6 @@ Zambia's GII	12396
 Zelalem Gizachew	12298
 Zimbabwe Commemorates Gilrs In ICT Lenovo	5562
 Zimbabwe Commemorates Gilrs In ICT Starlink	3016
+Zimbabwe GII	12487
 Zimbabwe. Given	970
+Zimswitch. Given	12490

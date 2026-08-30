@@ -162,7 +162,7 @@ Archived Articles	11220,21
 Archived Documents	11220
 Archived Information National Archives Building	11349
 Archivematica	8021
-Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767
+Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161
 Archives Actualité Mémoire de Yamoussoukro	9620
 Archives CEA	10975
 Archives Code	12325
@@ -171,7 +171,7 @@ Archives and Information Science	8022
 Archives and Records	8021
 Archives du Maroc	308,9098
 Archives’ New Professionals Mentorship Programme	8021
-Archiving	2709,1885,7631
+Archiving	2709,1885,7906
 Archivista	4209
 Archivo	4209
 Archivo Nacional	10438
@@ -232,7 +232,7 @@ DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
 DHA Records and Archive Management Strategy	11986
 DISTRIBUTED GOVERNANCE ARCHITECTURE	3861
 DPI Data Exchange Architecture	3735
-Data Architect	4528
+Data Architect	4528,7984
 Data Architecture	9752
 Data Architecture Specialist	12359
 Data Exchange Architecture	11952
@@ -401,6 +401,7 @@ Open Architecture	5700
 Open Archival Information System	9888
 Open Group Architecture Framework	21,12338
 Open Group Architecture Framework UML	11184
+Open Menu Home Announcements Current Archives	12486
 Order of Architects	11941
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
 PRIVACY AND SECURITY ARCHITECTURE	3861
@@ -470,7 +471,7 @@ Trust Framework Reference Architecture	8203
 UHF A SERVICES ARCEP	998
 UHF D PETROLEUM S.A ARCEP	998
 Usefulness of ARCEP	5679
-Visionary Architect and Steadfast Guardian Government	4528
+Visionary Architect and Steadfast Guardian Government	4528,7984
 ZERO Internet Archive	11569
 Zero Trust Architecture	5793,4928,1519
 Zero-trust Architecture	12240

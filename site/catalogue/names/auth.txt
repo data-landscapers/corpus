@@ -134,6 +134,8 @@ Authentication for Head Nurses	11892
 Authentication for Loan Agreement	12333
 Authentication of Documents	585
 Authentication of Health Care Information	1009
+Authentications	12496
+Authentications Requirements	12496
 Authenticator	9902
 Authenticity	5665,1613,3447
 AuthenticityAuthenticity	7278
@@ -141,7 +143,7 @@ Authentification	735,2646,7455,731,476
 Authentification Authentification Perspectives Validation	3381
 Authentique	10387
 Authonty	11517
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,15,50,6,102,12
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12
 Author Adebowale Jeremy Adetayo	9256
 Author CIPESA Posted	6294,3643
 Author Contributions All	11596
@@ -203,7 +205,7 @@ Authorities No Insurance Regulation and Control Agency	6938
 Authorities SSETA Services Sector Education and Training	6832
 Authorities Social	970
 Authorities and Agencies	3025
-Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12
+Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30,122,46,1,5,12,1,14,29,30,29,38,16,16,24,3,21,3,255,67,23,103,91,29,146,10,8,47,67,41,36,8,34,4,1,24,6,10,48,5,40,2,7,21,52,12,38
 Authority Accreditation and Certification	587
 Authority Act	7845
 Authority AfDB African Development Bank AG	2775
@@ -378,13 +380,14 @@ Authors Daniel Mwathe	12170
 Authors Devansh Gupta	8301
 Authors Dr Twahir M. Khalfan	11142
 Authors Dr. Jason Tucker	7112
-Authors Fabrizio Santoro	12332
+Authors Fabrizio Santoro	12485
 Authors Frederike Kaltheuner	6487
 Authors Godwin Simon	9364
 Authors James Görgen	5366
 Authors Javaid Iqbal Sofi	5418
 Authors Ndekazi Botha The University of Zambia	12467
 Authors Network	8943
+Authors Ronald Musizvingoza University of Zimbabwe Naomi	12486
 Authors Seid Yimam Mohamed Seid Yimam	12162
 Authors Thomas Byrnes Simone Dobre Laura	11156
 Authors Wilmari Strachan Your Author LinkedIn	6683
@@ -611,6 +614,7 @@ Contents Public Disclosure Authorized Results Framework	11469
 Continuous Quality Improvement Social Health Authority	4153
 Contracting Authority	3787,2006
 Control Authority	12233
+Control Authority of Zimbabwe ML Machine Learning	12512
 Control Emergency Use Authorisations	4426
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
 Converged Regulatory Authority	395
@@ -618,6 +622,7 @@ Coordination Centre KenInvest Kenya Investment Authority	2775
 Copyright Authority	8490
 Corresponding Author	10919
 Corresponding Author Abdallah Abdul-Salam	5349
+Corresponding Author DOI	12508
 Corresponding AuthorAbdallah Abdul-Salam	5349
 Country Investment Authorities	10861
 Country Partnership Framework Public Disclosure Authorized	11475
@@ -664,14 +669,14 @@ Data Boom and Airtel Money Surge Author	7663
 Data Centre The Authority	6946
 Data Protection Authorities	961,1,2639,17,60,905,2056,155,5508
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27,96,609,389,50,183,54,202,117
 Data Protection Authority I-39	10785
 Data Protection Authority Protection Authority Authority	1284
 Data Protection Authority The Postal and Telecommunications	972
 Data Protection Authority and Orange	10864
 Data Protection Authority. CYBER AND DATA	972
 Data Protection Authority. Initial	3058
-Data Protection Authority. National Governance Framework	4528
+Data Protection Authority. National Governance Framework	4528,7984
 Data Protection Authority. Objective	4808
 Data Protection Authority. Registration	7364
 Data Protection Authority. The Act	958
@@ -683,7 +688,7 @@ Data Protection Supervisory Authority	512,455,43,11222,236
 Data Protection Supervisory Authority of Namibia	512
 Data Silos Authorized	6432
 Data Youth Authority Protection and Cybersecurity	4126
-Decision Authority	4528,3755
+Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
 Declaration and Authorization	6432
 Definition Authorised	12364
@@ -718,7 +723,7 @@ Director General of National Communications Authority	3583
 Disabilities NDMA National Disaster Management Authority	7548
 Disclosure Authorized Public Private Partnership Commission	12253
 District Authorities	6921
-Document Authentication and Registration Service	12225
+Document Authentication and Registration Service	12500
 Document Author Reports and Financial	236
 Document Repository Privacy Authorization	1009
 Documents Authentication and Registration Service	1784,668,749,3881,3627
@@ -793,7 +798,7 @@ Endorsement Authorise	11156
 Energy Authority	12233
 Energy Authority PJ Petajoule PPA Power	12233
 Energy Regulatory Authority	12394
-Energy Regulatory Authority Act	306,102
+Energy Regulatory Authority Act	306,102,12107
 Energy and Petroleum Regulatory Authority	4513,3035,2765,1879,64
 Energy and Petroleum Regulatory Authority EPZ Export	2775
 Enhance Legal Practice With Authoritative Reports	11654
@@ -835,6 +840,7 @@ Exporting Digital Authoritarianism C	5242
 Eye Radio Author	6278
 FDA Emergency Use Authorization	4349
 FDA. During the Emergency Use Authorization for COVID	4426
+FDMS INTEGRATION The Zimbabwe Revenue Authority	12509
 FMoCDE Authorization	11857
 FOREWORD BY THE DEPUTY EXECUTIVE AUTHORITY	11224
 FOREWORD BY THE EXECUTIVE AUTHORITY	11224
@@ -885,6 +891,7 @@ GENERAL AUTHORITY	4896
 GENERAL AUTHORITY NOTICE IS HEREBY GIVEN	4896
 GHANA’S RESPONSIBLE AI AUTHORITY	4126
 GHz INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH	7850
+GMT Author	12516
 GOVERNMENT AUTHORITIES	6921
 GSA Ghana Standards Authority SME Small	6936
 GSMA Authors Kenechi Okeleke	11994
@@ -982,7 +989,7 @@ Identity Authentication and Verification Fees	10822
 Ile Authority of Heads of State and Government of ECQWAS	11517
 Implement Multi-Factor Authentication	6432
 Implementation of Electronic Travel Authorisation	5533
-Income Tax GIZ Document Authentication and Registration	12225
+Income Tax GIZ Document Authentication and Registration	12500
 Independent Broadcasting Authority	9082
 Independent Communications Authority of SA	5175,437,4517
 Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705
@@ -1037,6 +1044,7 @@ Judiciary LAN The Authority	6946
 KCAA Kenya Civil Aviation Authority KCB	2775
 KPA Kenya Ports Authority KOT Kipevu	2775
 KRA Kenya Revenue Authority	12297
+Kadoma THE Procurement Regulatory Authority of Zimbabwe	12506
 Kaduna State Public Procurement Authority	11867
 Karai Children’s The Authority	6946
 Kenya Airports Authority. Elle	7530
@@ -1283,7 +1291,6 @@ Namibia’s Root Certification Authority	8250
 National Assembly Authority	3887
 National Authentication and Access Control Service	12455
 National Authorities	10721
-National Authorities Date	11865
 National Authorities. Page	10721
 National Authority	1886,20,1419,303,1127
 National Authority for Information Security and Safety	7159
@@ -1295,13 +1302,14 @@ National Civil Registration Authority Statistics Sierra	1161
 National Communication Authority	2313,374,525,447,74,43,210,56,502,53,57,360,93,240,81,853,1166,61,425,78,2175,382,1116
 National Communication Authority Skip	3986
 National Communication Authority. Othow	10187
-National Communications Authority	11,78,147,346,5,1105,161,449,36,438,453,155,21,66,112,54,113,24,212,140,358,324,2,273,81,113,61,52,43,40,141,56,10,98,169,201,474,252,494,141,66,540,132,208,125,144,41,2,310,19,13,12,119,1175,36,129,459,93
+National Communications Authority	11,78,147,346,5,1105,161,449,36,438,453,155,21,66,112,54,113,24,212,140,358,324,2,273,81,113,61,52,43,40,141,56,10,98,169,201,474,252,494,141,66,540,132,208,125,144,41,2,310,19,13,12,119,1175,36,129,459,93,1381
 National Communications Authority Act	11,1934,2638,2785,409
 National Communications Authority Director General Mustafa	6788
 National Communications Authority INVITATION FOR COMMENTS	236
 National Communications Authority Index	582
 National Communications Authority NFSL National Fiscal	236
 National Communications Authority Tower	8748
+National Communications Authority of Somalia	12513
 National Communications Authority of South Sudan	4069
 National Communications Authority. All Rights Reserved	9109
 National Communications Regulatory Authority	9747
@@ -1616,7 +1624,7 @@ Retirement Benefits Authority	6938
 Revenue Authority	3583,543,6221,1363,266
 Revenue Authority Act	6921
 Revenue Authority Act No	12392
-Revenue and Customs Authority HR Frequently Asked	12225
+Revenue and Customs Authority HR Frequently Asked	12500
 Revision of Agro-Ecological Zones Report Authors	520
 River Basin Authorities. Output	11420
 Road Authority	12476
@@ -1752,6 +1760,7 @@ Storage Authority NYS National Youth Service	2775
 Strengthening Young Africa’s AI Skills Authors	6948
 Subiect Data Definitions Authorisation	1009
 Submarine Cable Maintenance Authorities	3513
+Submission Information For Readers For Authors	12486
 Subprogrammes Border Management Authority	11986
 Sudan Establishes Three Digital Authorities	3902
 Sudanese Cyber Security Authority	6268
@@ -1809,7 +1818,7 @@ Telecommunications Authority	3464
 Telecommunications Authority MACs Ministries	1777
 Telecommunications Regulatory Authority	8592
 Telecommunications Regulatory Authority of Côte	3604
-Telecommunications Regulatory Authority of Zimbabwe	4528
+Telecommunications Regulatory Authority of Zimbabwe	4528,7984
 Telecommunications and Postal Regulatory Authority	5696
 Television Authority National Assembly Senator National	11129
 Togo's High Authority for Audiovisual and Communication	4237
@@ -1899,12 +1908,13 @@ ZanID and National Identification Authority	11133
 Zanzibar Commission for Social Security Authority	11133
 Zanzibar Investment Promotion Authority	10676
 Zanzibar Revenue Authority	10676,457
-Zimbabwe Energy Regulatory Authority	306,6186
+Zimbabwe Electricity Supply Authority	12501,7
+Zimbabwe Energy Regulatory Authority	306,6186,6023
 Zimbabwe Energy Regulatory Authority Zimbabwe International	1154,400
 Zimbabwe National Water Authority Act	11791
 Zimbabwe National Water Authority Amendment Bill	11791
 Zimbabwe Parks and Wildlife Management Authority	1154,400
-Zimbabwe Revenue Authority	8167,252,80,476,1044
+Zimbabwe Revenue Authority	8167,252,80,476,1044,2472,6,8
 Zimbabwe Revenue Authority Closing Date	4896
 Zimbabwe. The National Prosecuting Authority	1619
 Zimbabwe’s Data Protection Authority	6181,2256

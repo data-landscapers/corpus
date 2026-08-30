@@ -1,9 +1,9 @@
-AU and SADC	4528,7673
-AU and SADC AI	4528
+AU and SADC	4528,7673,311
+AU and SADC AI	4528,7984
 About the SADC-RTGS The SADC-RTGS	8129
 Abubakar Sadick Fuseini	10468
 Advancing the SADC Single Digital Market	5241
-AfCFTA and SADC	4528
+AfCFTA and SADC	4528,7984
 Africa. Sadly	3157
 African Continental Free Trade Area. SADC	10169
 Agenda SADC	11396
@@ -89,7 +89,7 @@ SAA SADA	1264
 SADA Center	10948
 SADA Smart Africa Digital Academy SCMD	1264
 SADC AI	4528,55,2354
-SADC AI Governance Initiative	4528
+SADC AI Governance Initiative	4528,7984
 SADC After Access	9759
 SADC Anti-money Laundering Task Team	6720
 SADC Bankers' Association	12469
@@ -233,6 +233,7 @@ SADC Parliamentary Forum Discussion Paper	961
 SADC Payment System Oversight Committee	11899
 SADC Payment Systems Oversight Committee	6720
 SADC Peer Review Panel	10570
+SADC Pillar	12512
 SADC Pooled Procurement Center	4260
 SADC Principles and Guidelines	9761,2440
 SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231
@@ -281,7 +282,7 @@ SADC Validation Workshop. Secretariat	962
 SADC Vision	1600,8161,198,210,152
 SADC WRC-27	8881
 SADC and AU	958,3570
-SADC and African	4528
+SADC and African	4528,7984
 SADC and CMA	11130
 SADC and COMESA	7965
 SADC and CRASA Secretariats	26,1,1
@@ -362,3 +363,4 @@ WRC-27. As SADC	9292
 World Bank-funded SADC Regional Statistics Project	3476
 Zambia and Zimbabwe. SADC ICT Implementing Agency	318
 Zimbabwe Appointed SADC Data Protection Leader	3016
+Zimbabwe SADC Southern African Development Community	12512

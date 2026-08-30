@@ -292,7 +292,7 @@ Ghana Living Standards Survey	236
 Ghana Standard	4126
 Ghana Standards Authority	6936,3695,401
 Global Digital Standards	8610
-Global Governance and Standard-Setting	4528
+Global Governance and Standard-Setting	4528,7984
 Global Industry Classification Standard Classifications	4972
 Global Internal Audit Standards	11134
 Global Internal Auditing Standards	11131
@@ -462,6 +462,7 @@ Laptops Standards and Guidelines The ICT Unit	34
 Lauds Nigeria’s National Innovation Hub Standard	11304
 Legal Standing	3861
 Legal Standing Any	3861
+Legislation Acts Policies Regulations Standards Consumer	12515
 Lembe DM Stanger Hospital	11986
 Level Seven HIS Health Normative Standards	1009
 Leveraging Standard Bank’s African	10459
@@ -493,6 +494,7 @@ Mandatory Standards	3861
 Marketing Standard Bank Business and Commercial Banking	5247
 Matching Business Support Trade Fairs Standard	12376
 Meaning SOP Standard Operating Procedure SSA	11218
+Medium Enterprises SOP Standard Operating Procedures	12512
 Medium Enterprises Standard Operating Procedures Science	4528
 Meet Testing Standards	5665
 Message Service ESWASA Eswatini Standards Authority	12395
@@ -511,6 +513,7 @@ Minimum Physical Security Standards	11986
 Minimum Standards for Electronic Payments EPS Fast	12390
 Ministry of Health Standards	1988
 Ministry. The ICT Standards and Guidelines	34
+Modernization Through International Standards The Zimbabwe	12499
 Modified Cash Standard	5533,5685
 Morgan Stanley	3405
 Mutoko EWZL Owned Vacant Shop Stand	4896
@@ -604,12 +607,12 @@ PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
 PRIVATE SECTOR Fibre RoW Standardised Fees	11857
 PROPOSED METHOD FOR STANDARDISING AND INTEGRATING	8606
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
-Parliamentary Standing Committee	4528,2264,2872,1,305,39,456
+Parliamentary Standing Committee	4528,2264,2872,1,305,39,456,2047
 Partnerships for Market Access Stanbic Bank	5247
 PayPal and Standard Bank	10010
 Payment Card Industry Data Security Standard	2312,38,4588
 Per Environmental and Social Standard ESS10	1778
-Performance Outcome Area TAQAR Standard Integrated	12225
+Performance Outcome Area TAQAR Standard Integrated	12500
 Performance Standards for Private Sector Activities OP	11855,282
 Personal Information HNSF Health Normative Standards	396
 Photovoltaic QOSSS Quality of Service and Supply Standards	12399
@@ -641,8 +644,8 @@ Public Service ICT Standards	12360
 Pvt Ltd Stand Land Chegutu CBD	4896
 QRIS Quick Response Code Indonesian Standard	11994
 QUALITY ASSURANCE Standard Digital	9855
-Quality Assurance and Standards Collaboration	4528
-Quality Assurance and Standards National AI	4528
+Quality Assurance and Standards Collaboration	4528,7984
+Quality Assurance and Standards National AI	4528,7984
 Quality Standards	4130
 Quality Standards and Awareness	12399
 Quick Response Code Indonesian Standard	11994
@@ -706,6 +709,7 @@ S Standards Relevance Relevant ESS	3604
 SADC PF Norms and Standards	12201
 SADC PF Norms and Standards for Elections	12201
 SADC Standing Committee of Senior Officials	9761
+SAZ Standards Association of Zimbabwe SIRDC Scientific	12512
 SBD Standard Bidding Document SPS Social	11525
 SC-AGC Standing Committee	11184
 SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
@@ -766,6 +770,7 @@ STQC. Digital Service Standards. Available	11216
 SYSTEM The Standard Operating Procedures	12338
 Scanners Standards and Guidelines	34
 Scanners Standards and Guidelines The ICT Unit	34
+Search Button Close Stand	12515
 Sector Data Centre Development Standards and ICT	12453
 Security Global Standards	4153
 Security Standard	12360
@@ -823,12 +828,13 @@ Stanbic IBTC Bank	8648
 Stanbic IBTC Bank Limited	8648
 Stanbic IBTC and Meristem	7446
 Stanbic Nominees	4896
-Stand	1828,3068,5640,604
+Stand	1828,3068,5640,604,1375
 Stand Alone Solar	12191
 Stand Alone Solar Market Update	12191
 Stand Extension	4896
 Stand Land Chinhoyi	4896
 Stand Land Chivhu New Wireless Town	4896
+Stand No. K11-K12	12515
 Stand Sales	9437
 Stand Victoria	4896
 Stand da Mercury Beyond Connection	6617
@@ -930,7 +936,7 @@ Standard Guide	1009
 Standard Guide for Assessing Spoilage of Hemp Seed	11269
 Standard Guide for Sampling of Hempseed Intended for Human	11269
 Standard Industrial Classification	11296
-Standard Integrated Government Tax Administration System	12225
+Standard Integrated Government Tax Administration System	12500
 Standard Investment Bank	8624
 Standard Kit	3637,595,369,1273,1119
 Standard Lesotho Bank	1908,3075
@@ -943,7 +949,7 @@ Standard No	11269
 Standard No. and Edition Title Reason	11269
 Standard Notice	11956
 Standard Official Use Only Page	11417
-Standard Operating	12225
+Standard Operating	12500
 Standard Operating Practices	11553
 Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
@@ -1008,17 +1014,18 @@ Standardized Impact Metrics	12191
 Standardized Items	11129
 Standardized Levels of Assurance	10819
 Standardized Monitoring and Assess	10841
+Standardized Reporting	12512
 Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizing	12255,104
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59
 Standards Act	1988,5560,3721
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
-Standards Adoption and Development	4528
+Standards Adoption and Development	4528,7984
 Standards Applicable	12389
-Standards Association Zimbabwe	4528
-Standards Association of Zimbabwe	4528
+Standards Association Zimbabwe	4528,7984
+Standards Association of Zimbabwe	4528,7984
 Standards Authority	12395
 Standards Certification	11184
 Standards Certification Responsibilities	11184
@@ -1081,7 +1088,7 @@ Standing Cabinet Committee	10246
 Standing Committee	5533,4136,1508,41,12,55,4,999,37
 Standing Committee for Refugee Affairs	11177
 Standing Committee of Senior Officials	9761
-Standing Disciplinary Committee	12225
+Standing Disciplinary Committee	12500
 Standing Fintech Engagement Forum Establish	4848
 Standing Order	2367,2741,374,1762,8,3061
 Standing Order No	3746
@@ -1154,7 +1161,7 @@ TESTING AND QUALITY ASSURANCE STANDARDS	11952
 TRAINING AND CAPACITY BUILDING STANDARDS	11952
 TRAINING AND CAPACITY-BUILDING STANDARDS	11952
 Tanzania Bureau of Standards	5116,4338
-Technical Feasibility and Standards	4528
+Technical Feasibility and Standards	4528,7984
 Technical Standards ISO	6432
 Technical and Broadcasting Standards Committee	6946
 Telecom Namibia CEO Stanley Shanapinda	10465

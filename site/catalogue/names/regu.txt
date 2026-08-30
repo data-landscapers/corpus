@@ -19,10 +19,10 @@ AI Regulation Proposal	7972
 AI Regulations	7548
 AI Regulatory	7548
 AI Regulatory Authority	11265
-AI Regulatory Sandbox	4528
+AI Regulatory Sandbox	4528,7984
 AI Regulatory Sandbox Business Participation Checklist	7298
 AIBK REGULATED NON-WDT SACCO SOCIETY LTD	7167
-AISIO National Digital Regulatory Committee	4528
+AISIO National Digital Regulatory Committee	4528,7984
 ALARMS REGULATED NON-WDT SACCO LTD Data	7167
 AMENDMENT OF IDENTIFICATION REGULATIONS	6512,5535
 AMENDMENT OF REGULATIONS	11249
@@ -154,6 +154,7 @@ BUiLDiNG CAPACiTY OF REGULATORY BODiES Rapidly	961
 BYLAE Indeling Van Regulasies HOOFSTUK	11255
 Backup Regular Monitoring	9123
 Bamburi Wananchi Regulated NWDT Sacco Limited	7167
+Banking Regulations	12490
 Basel Regulations Chaired	6938
 Basic Education Regulations	899
 Binding Corporate Rules Regulation	12302
@@ -248,7 +249,7 @@ Communications and Postal Regulatory Authority. Guided	5441
 Commutations Regulatory Authority	7741
 Companies Act Regulations	12041
 Comparative Constitutional and Regulatory Analysis	10270
-Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Competition Regulations	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Competition Regulations Access	10759,78,1315,188
 Competition Regulations No Change Freedom of Expression	11870
 Competition Regulatory Authority	7381,3398
@@ -285,15 +286,15 @@ Coordination and Regulation of Space	1131
 Corporate Laws Regulations	3714
 Council of African Regulators	10073,746
 Council of Ministers Regulation	762
-Council of Ministers Value Added Tax Regulations	12225
+Council of Ministers Value Added Tax Regulations	12500
 Country Laws and Regulations	11935
 Court Regulations	11986
 Crawford. Regular	3583
 Creación de Organismos Reguladores	1701
-Create National AI Regulatory Sandbox	4528
+Create National AI Regulatory Sandbox	4528,7984
 Credit Reporting Regulations	6940
 Cross-Border Activity and Regulatory Passporting	4848
-Current Policy and Regulatory Landscape	4528
+Current Policy and Regulatory Landscape	4528,7984
 Customary Tenure Convention Regulation	1988
 Customs Regulations	5247
 Customs Regulations Roads Rail Ports Power	5247
@@ -466,7 +467,7 @@ Energy Regulation Board and Longacres Mall	10552
 Energy Regulator	11236
 Energy Regulatory Act	306
 Energy Regulatory Authority	12394
-Energy Regulatory Authority Act	306,102
+Energy Regulatory Authority Act	306,102,12107
 Energy and Petroleum Regulatory Authority	4513,3035,2765,1879,64
 Energy and Petroleum Regulatory Authority EPZ Export	2775
 Enforcement Committee. The Regulator	6683
@@ -496,9 +497,9 @@ Establish and Manage Regulatory Sandboxes Effectively	11007
 Establishing Ethical and Regulatory Frameworks	12356
 Eswatini Public Procurement Regulatory Agency	11134,1288
 Eswatini Regulator	12444
-Ethics and Regulatory Framework	3760,768
-Ethics and Regulatory Framework AI Research	4528
-Ethics and Regulatory Framework Strategic Objective	4528
+Ethics and Regulatory Framework	3760,768,7984
+Ethics and Regulatory Framework AI Research	4528,7984
+Ethics and Regulatory Framework Strategic Objective	4528,7984
 European General Data Protection Regulation	12232
 European Journal of Risk Regulation	11050,90
 European Union Deforestation Regulation	11659
@@ -602,7 +603,7 @@ Global Symposium for Regulators	961,7984
 Gombe State Electricity Regulatory Commission	12062
 Good Governance and Regulatory Compliance	12356
 Good Regulatory Practices and Confidence Criteria	10776
-Governance The National Digital Regulatory Committee	4528
+Governance The National Digital Regulatory Committee	4528,7984
 Governance of Regulators	10570
 Government Data Sharing Regulation	6592
 Government Regulation No	11310
@@ -657,10 +658,11 @@ INCM The Communications Regulatory Authority	6822
 INFORMATION REGULATOR Date	11255
 INGRESOS NO PETROLEROS A REGULARIZAR	4209
 INNOVATION AND REGULATORY REFORMS	6946
-INNOVATIVE CRUCIBLE Regulatory	4528
+INNOVATIVE CRUCIBLE Regulatory	4528,7984
 INSTITUTIONAL ARRANGEMENTS FOR REGULATION OF COMPLEX	961
 INTRODUÇÃO O Regulamento Sanitário Internacional	11376
 IP Laws and Regulations	12389
+IPS. Regulation Key	12490
 IRA Insurance Regulatory Authority ISIC International	2775
 IRSEA Instituto Regulador	11380
 ITU Radio Regulations	2913,2448,2489,239,2318
@@ -721,6 +723,7 @@ Joint External Evaluation of International Health Regulation	11912
 José Mário Vaz. REGULAMENTO GERAL	11527
 Junho. O Regulamento	11795
 Jurisdictional Complexity and Regulatory Overlap	4848
+Kadoma THE Procurement Regulatory Authority of Zimbabwe	12506
 Kagame Says... Under New Regulations	3256
 Keffi Nigerian Electricity Regulatory Commission	11951
 Kenya. Under the Regulations	12301
@@ -785,6 +788,7 @@ Legal and Regulatory Frameworks Policy Statement	7548
 Legal and Regulatory Instruments	3678,8330
 Legal and Regulatory Instruments Package	12008
 Legal and Regulatory Instruments Package. Activity	12008
+Legislation Acts Policies Regulations Standards Consumer	12515
 Legislation And Regulation	958
 Legislation and Regulation	958
 Leverage Regulatory Authority	1777
@@ -891,7 +895,8 @@ Namibia. The Communications Regulatory Authority of Namibia	5529
 Namibian The Communications Regulatory Authority	5502
 Nana Appiah Acquaye The Communications Regulators	10337
 Nana Appiah Acquaye The Communications Regulatory	9692
-National AI Regulatory Sandbox	4528,2264
+National AI Regulatory NAIC	12512
+National AI Regulatory Sandbox	4528,2264,5720
 National Artificial Intelligence Regulatory Sandbox	3760
 National Building Regulations Part X	11269
 National Building Regulations and Building Standards Act	11573
@@ -902,7 +907,7 @@ National Communications Regulatory Authority	9747
 National Council for Audiovisual Regulation	2311
 National Credit Regulator	6886,52,4260
 National Data Exchange Regulation Compliance	5665
-National Digital Regulatory Committee	3760,768
+National Digital Regulatory Committee	3760,768,7984
 National Energy Regulator of SA. Within the IRP	11272
 National Energy Regulator of South Africa	11159,69,8,36,63,555
 National Health Information System Regulation	11006
@@ -920,7 +925,7 @@ National Nuclear Regulator	11215,13,44
 National Payment System Regulations	12286
 National Payment Systems Regulations	11134
 National Public Transport Regulator	11494,57
-National Registration Regulations	12406
+National Registration Regulations	12406,83
 National Registration Regulations and Title	12410
 National Regulatory Authorities	1077,380,4219,196
 National Regulatory Authority	5676,2,1,193,3982,1,1697
@@ -1138,7 +1143,7 @@ REGULATION ET	10965
 REGULATION FOSTERING LOCAL	10861
 REGULATION OF CORPORATE FINANCE AND SECURITIES	3714
 REGULATION OF THE EUROPEAN PARLIAMENT	6476,1
-REGULATIONS	2677,2055,955,609,1095,4933
+REGULATIONS	2677,2055,955,609,1095,5093
 REGULATIONS AND NOTICES Regulations Prohibition	3714
 REGULATIONS AND NOTICES Regulations The Minister	3714
 REGULATIONS FOR PURPOSES OF PARAGRAPH	11233
@@ -1309,7 +1314,7 @@ Regulamentos Internos	4147
 Regulamentos Técnicos	11381
 Regulamentos de Zoneamento P	11898
 Regulaons	9128
-Regular	585,133,53,199,716,15,166,121,787,183,561,64,278,667,306,447,316,68,12,755,514,2,1722,196,257,493,1105,42,89,18,94,33,10,122,2,2,1,1,58,177,25,184,326,19,28,34,22,158,9,20,19,12,24,3,103,39,58,5
+Regular	585,133,53,199,716,15,166,121,787,183,561,64,278,667,306,447,316,68,12,755,514,2,1722,196,257,493,1105,42,89,18,94,33,10,122,2,2,1,1,58,177,25,184,326,19,28,34,22,158,9,20,19,12,24,3,103,39,58,5,54
 Regular Cash Transfers	10963,1,21
 Regular Cash Transfers The World Bank	10964
 Regular Decision Meeting	11965
@@ -1416,7 +1421,7 @@ Regulation. Specify	1777
 Regulation. Such	7821
 Regulation.12 Pillar	4126
 Regulation29	10765
-Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,22,22,19,9,2,13,6,15,5,29,15
+Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1
 Regulations Amendment	5687
 Regulations An Act	3887
 Regulations BE IT ENACTED	3714
@@ -1430,10 +1435,12 @@ Regulations Cap	5687
 Regulations DATA PROTECTION AND PRIVACY BILL	1474
 Regulations Determine	9123
 Regulations Foundations	12214
+Regulations Independent Power Producers Recommended LED	12515
 Regulations Initial	12214
 Regulations Insertion	5687
 Regulations LAWS OF KENYA THE DIGITAL	2709
 Regulations Legal Notice	2709
+Regulations Licensees Research	12515
 Regulations Limited	12214
 Regulations OMAANDNHPWN IN EXERCISE	5687
 Regulations PART III	3714
@@ -1444,6 +1451,7 @@ Regulations Project	6594
 Regulations Regulation	4732
 Regulations Regulations	11179
 Regulations Relating	2307,2276,7649,133
+Regulations Research	12515
 Regulations Scope of Application CHAPTER	11255
 Regulations Substitution	5687
 Regulations The Minister	1,782,691
@@ -1473,7 +1481,7 @@ Regulations. Such	4610
 Regulations. The Department	6512
 Regulations. The Department of Home Affairs	6512
 Regulato1y	4153
-Regulator	324,634,647,1171,742,367,297,666,764,84,987,44,65,345,2226,1612,163,413,306,127,62,186,167
+Regulator	324,634,647,1171,742,367,297,666,764,84,987,44,65,345,2226,1612,163,413,306,127,62,186,167,116
 Regulator Insecurity	11857
 Regulator July-Sept	3518
 Regulator OCGT Open-Cycle Gas Turbine PV	11228
@@ -1492,7 +1500,7 @@ Regulators Chief Executive Officer	6938
 Regulators Seychelles	6938
 Regulators' Association of Southern Africa DSL Digital	12395
 Regulators. A Public Limited Company	12483
-Regulatory	236,159,1,60,179,83,43,179,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5,78,30,38,25,99,3,1,1,2,2,55,3,61,6,3,283,306,27,1,10,57,42,6,48,111,1,45,5,4,56,27,11,43,5,18,2,9,43,4,3,1,8,1
+Regulatory	236,159,1,60,179,83,43,179,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5,78,30,38,25,99,3,1,1,2,2,55,3,61,6,3,283,306,27,1,10,57,42,6,48,111,1,45,5,4,56,27,11,43,5,18,2,9,43,4,3,1,8,1,42,21,4
 Regulatory Actions Report	8354,570
 Regulatory Administration	236
 Regulatory Administration Division	8247
@@ -1539,7 +1547,7 @@ Regulatory Bodies	12240
 Regulatory Capacity	5042
 Regulatory Change and Compliance Complexity Evolving	11134
 Regulatory Clarification This Spectrum Roadmap	5245
-Regulatory Committee	4528,883
+Regulatory Committee	4528,883,7101
 Regulatory Compliance	3487,1705,6,467,767,4799,1188
 Regulatory Compliance Audit	4153,14,35,15,43,89,1003
 Regulatory Compliance Delivering	9781
@@ -1563,6 +1571,7 @@ Regulatory Environment Zambia	12376
 Regulatory Environment and Governance	11900
 Regulatory Environment and Governance Although the CNR	11900
 Regulatory Environment and Governance Over	11900
+Regulatory Establish	12512
 Regulatory Facilitation and Investment Certainty Regulatory	10157
 Regulatory Fees	10407
 Regulatory Fees and Printing	4896
@@ -1576,7 +1585,7 @@ Regulatory Framework for Open Banking	11138
 Regulatory Frameworks	11265
 Regulatory Gaps	12241,115
 Regulatory Governance Index	12256
-Regulatory Guardian The National Digital	4528
+Regulatory Guardian The National Digital	4528,7984
 Regulatory Guidelines	11861
 Regulatory Harmonisation	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,2470
 Regulatory Harmonisation As Nigerian	4848
@@ -1621,7 +1630,7 @@ Regulatory Requirements	3651,7070,1698
 Regulatory Research	5241
 Regulatory Review	941
 Regulatory Reviews	6432
-Regulatory Sandbox	3861,34,633,320,1887,211,602,1869,1590,124,3,1222,88
+Regulatory Sandbox	3861,34,633,320,1887,211,602,1869,1590,124,3,1222,88,68
 Regulatory Sandbox Demo Day. Barigye	6184
 Regulatory Sandbox Demo Day. Rwanda	6184
 Regulatory Sandbox Programme	9754,121
@@ -1629,6 +1638,7 @@ Regulatory Sandbox Regulation	7763
 Regulatory Sandbox The Bank	11131,3
 Regulatory Sandbox Toolkit	11007
 Regulatory Scrutiny Board	6477
+Regulatory Structure Board Members Management Departments	12515
 Regulatory Substance Index	12256
 Regulatory Support	12172
 Regulatory System	10776
@@ -1641,6 +1651,7 @@ Regulatory Verification	5665
 Regulatory Watch Initiative	1264,10278
 Regulatory Wheel of Change	961
 Regulatory Window	4848,80
+Regulatory Zimbabwean	12512
 Regulatory and Corporate Communications Director	10732
 Regulatory and Cost Reality Cost	6876
 Regulatory and Financial Barriers	12399
@@ -1656,6 +1667,7 @@ Regulatory and Market Incentives	6936
 Regulatory and Operational Reporting	9855
 Regulatory and Oversight	11807
 Regulatory and Policy Coordination	4167
+Regulatory and Policy Framework Zimbabwe's AI	12512
 Regulatory and Policy Framework Zimbabwe’s AI	4528
 Regulatory and Standards	395
 Regulatórias Guiné-Bissau	11569
@@ -1832,7 +1844,7 @@ Telecommunications Regulation	173
 Telecommunications Regulatory Agency	4207,784,499,2468
 Telecommunications Regulatory Authority	8592
 Telecommunications Regulatory Authority of Côte	3604
-Telecommunications Regulatory Authority of Zimbabwe	4528
+Telecommunications Regulatory Authority of Zimbabwe	4528,7984
 Telecommunications Regulatory Board	2705,1857,596,2800,1556,2214
 Telecommunications Regulatory Board. Nuvaga	1696
 Telecommunications Traffic Control Regulation	9288
@@ -1875,11 +1887,12 @@ User and Subscriber Service Charter Regulations	4732,6527
 Utilities Regulatory Authority RWF Rwandan Franc	12328
 VASP Regulations	6699,1135
 VASP Regulations. VALR	9311
-VAT. The VAT Regulations	12225
+VAT. The VAT Regulations	12500
 VI. Sequencing and Implementation Regulations	6735
 Vetting Regulations	11277
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
+Vision Regulator	12515
 WAEMU Regulated	6938
 WATRA Harmonized Regulatory Framework	5676
 WHT Regulations	9972
@@ -1911,7 +1924,7 @@ Yearly Social Regular	10964
 Yearly Yearly Regular	10964
 ZEMA's Hazardous Waste Management Regulations of SI	1988
 Zanzibar Microfinance Services Regulations. Savings	7763
-Zimbabwe Energy Regulatory Authority	306,6186
+Zimbabwe Energy Regulatory Authority	306,6186,6023
 Zimbabwe Energy Regulatory Authority Zimbabwe International	1154,400
 Zoning Regulations	12389
 Zoning and Land Use Regulations	12389

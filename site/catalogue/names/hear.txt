@@ -24,7 +24,7 @@ Hearing Impairment	12460
 Hearings	12062
 Hearings and Public Consultation	12062
 Hearings and Public Consultations	12062
-Heart	4528,5832,1298,493
+Heart	4528,5832,1298,493,361
 Heart Despite	12244
 Heart Dis-	12151
 Heart Dis- Complications	12151
@@ -41,8 +41,8 @@ Kidney and Heart Diseases	12151
 LAND AT THE HEART OF CAMEROON’S	10960
 Misconduct and Disciplinary Hearings Finalised	11218
 Nursery A- Hearing	582
-Operational Heart	4528
-Operational Heart The AISIO	4528
+Operational Heart	4528,7984
+Operational Heart The AISIO	4528,7984
 PUBLIC HEARINGS	4732
 Public Submissions and Hearings	3861
 Representation and Hearing	3005
@@ -54,4 +54,4 @@ USCC Hearing	5242
 United Heart Movement	4127
 Virtual Hearing	12389
 Will Hear	6947
-Winning Hearts and Minds	4528
+Winning Hearts and Minds	4528,7984

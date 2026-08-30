@@ -82,6 +82,7 @@ AWS and Google Cloud. Azure	5967
 AXIA DENTAL CLINIC LIMITED Data Controller	7167
 Abbreviations CPC Central Product Classification HS	11258
 Abokobi Close	3386
+About Client Service Charter Services NVCCZ	12495
 About Google Cloud	6930
 Abrogation CLEFT- KINDER Décision	998
 Academia de Clima	11454
@@ -548,7 +549,7 @@ CPU Central Processing Unit CSA Cloud	11952
 CS Cabinet Secretary for ICT CSP Cloud	6432
 CSD International Statistical Classification of Diseases	1009
 CSP CSP CSP Cl	9123
-CUG Administrator. Closed User Group	12324
+CUG Administrator. Closed User Group	12484
 Cabinet Cluster	11193,72
 Cadastral Information System CLCC Chief Land	11261
 Cahier des Clauses Administratives	4342
@@ -615,7 +616,7 @@ Claimant	1829
 Claimants	1829,6819
 Claimed	418,2102
 Claiming	8949
-Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96
+Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279
 Claims System	11230
 Claims and Compensations	12364
 Claims and Reunification of Unclaimed Financial Assets	2775
@@ -834,8 +835,8 @@ Classificou	6709
 Classified	598,26,236,1393,1608,1505,1581,4914,134,346
 Classified Data	3861
 Classified Must	5244
-Classified Warning Signs No Change	10835,3,130,918,466,1
-Classified Warning Signs No Change Best	10835,3,130,918
+Classified Warning Signs No Change	10835,3,130,918,466,1,135
+Classified Warning Signs No Change Best	10835,3,130,918,602
 Classified. The NDGC	3861
 Classify	34,4092,3155,3950,979
 Classique Satellite Bilingue Franco arabe Passerelle	10847
@@ -940,7 +941,7 @@ Clearer	4848,6286
 Clearing	12138,236
 Clearing Agents Clearing Agents List Publications	12454
 Clearing Corporation	9706
-Clearing House	9516,2808,40
+Clearing House	9516,2848,120
 Clearing House. The Clearing House	4848
 Clearing Houses	12364
 Clearing and Forwarding	6946
@@ -988,7 +989,7 @@ Clever Menji Mbuyi	2880
 Clever Mwale	8279
 CleverCloud	5846
 CleverCloud and OVHcloud	5846
-Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13
+Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1,72,125,20,180,7,22,51,14,25,21,8,26,16,5,5,39,13,39,4,18
 Click Activation	11298
 Click HERE To Apply	9960
 Click Here Contact Us	12282
@@ -1001,6 +1002,7 @@ Click Organisation	11298
 Click Returns	11298
 Click Returns and Tax Reference Number Request	11298
 Click Right Groups	11298
+Click Submit. Once	12497
 Click Tax Reference Number Request	11298
 Click View	11298
 Click the Open	11298
@@ -1030,6 +1032,7 @@ Client Prioritization	8999
 Client Registry	5639
 Client Relationship Consultants	12439
 Client Satisfaction Impact	10718
+Client Service Charter Services NVCCZ Functions	12495
 Client Tunisie Telecom	1818
 Client UI Platform N	9124
 Client and Stakeholder Perception	11134
@@ -1063,7 +1066,7 @@ ClimWeb	11420
 Clima	1701,1115,232,1663,36,1071,200,5372
 Clima de Trabalho Esta	2816
 Climat	1005,9606,101,162
-Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269
+Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60
 Climate ASAP. FarmDrive	11994
 Climate Action	1131,6271,4184,27,242,303,218
 Climate Action Goal	11332
@@ -1180,9 +1183,11 @@ Climate and Rural Settlements Page	940
 Climate and Water	11334
 Climate-Adaptive Malaria Chemoprevention Targeting System	11589
 Climate-Informed Maternal Access Early Warning	11589
+Climate-Resilient AI Governance Zimbabwe's AI	12512
 Climate-Resilient AI Governance Zimbabwe’s AI	4528
 Climate-Resilient Agriculture	1867
 Climate-Resilient Community Infrastructure	1867
+Climate-Smart Education Systems Initiative	12504
 Climate-development	800
 Climate-related	10763,200,1,941
 Climate-resilience	1264
@@ -1295,7 +1300,7 @@ Closed Current EA Category Original EA	11924
 Closed Data	12419
 Closed I Page25of35 Table	11180
 Closed Quotations	11251
-Closed User Group	762,11562
+Closed User Group	762,11722
 Closed-door	11138
 Closed-ended Likert-scale	2948
 Closed. D400601-02	176
@@ -1376,7 +1381,7 @@ Closure	1988,9824
 Closure Elections	4608
 Closure Tier	10721
 Clotchor Secongo	5555
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,94,123
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17,180,99,16,121,40,72,16,90,173,223,104,26,22,167,217,85
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -1590,7 +1595,7 @@ Clément Delangue	8702,582
 Clément Domingo	5330
 Clément Fayol and Zack Kopplin	4127
 Clément MOUAMBA	435
-Clément MUAMBA	3069,282,467,160,915,185,39,6,354,566,618,555,2789,1967
+Clément MUAMBA	3069,282,467,160,915,185,39,6,354,566,618,555,2789,1967,550
 Clémentine PANASSA Aide	11067
 Cléopâtre Iluku	5888
 Clés Publiques	8525
@@ -1636,6 +1641,7 @@ Components Baseline Closing Period Strengthening	11417
 Comprehensive Data Domain Classification	3861
 Comprehensive Planning and Climate Resilience	12399
 Comércio Classe Acadêmica Comitê Técnico	11569
+Condition for Issuing Tax Clearance Certificate	12509
 Conduct Cloud Readiness Assessment	11995
 Congratulating the Class	8409
 Connectivity Close Menu	12202
@@ -1654,6 +1660,7 @@ Contract Terms Selecting of Cloud Service Providers	6432
 Contributing Practice Areas Education CLIMATE	11905
 Conversion of Close Corporations	3714
 Coordenador Profª. Cleunice Moreira Este	12019
+Corner Endeavour Crescent and Venture Close	12515
 Corporate Climate Governance	1818
 Corporate Climate Governance CFO Chief Financial	1818
 Correction of Clerical Mistakes	12226
@@ -1790,7 +1797,7 @@ Deployment Type Class	736
 Deterioration Bouncing Back Not Classified	10837,1503
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3,130,918,466,1
+Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837,1503
 Dh100m Maroc Numeric Fund. Cloud	168
@@ -1860,6 +1867,7 @@ Eastdene Clinic	11980
 Easy Clinic	11578
 Eco-friendly Cloud Market Study	1264
 Ecoles Latrines Jardins Cantines Terrain de Clôtures	10847
+Econet Begins Onboarding Clients	12503
 Econet InfraCo Mr Roy Chimanikire Cleopas	4896
 Economic Classification	2775,8443
 Economic Cluster	3583
@@ -2070,6 +2078,7 @@ Google’s Inaugural Africa Cloud Summit	3003
 Google’s Inaugural Africa Cloud Summit Government	3965,1438,1506
 Gov-Cloud Government Cloud HR Human Resource	6432
 Governance Climate Change and Disaster Screening	10829
+Governance Precedes Clear	12512
 Governance and Climate Resilience	11134
 Government Cloud	3557,2423,452,2176,2177,1106
 Government Cloud Adoption	10157
@@ -2183,6 +2192,8 @@ Infrastructure NCSS National Clearing and Settlement Systems	12444
 Ingénierie Clinique	11892
 Initiative MCCs Model Contractual Clauses OECD	1243
 Innovation Cluster	7548
+Input Tax Claim Schedules for VAT Returns	12509
+Input Tax Claims for Taxpayers	12509
 Institutional Theory and Digital Transformation Classical	7966
 Integrated Food Classification	3583
 Integrated Food Security Phase Classification	3583,7553,333
@@ -2724,6 +2735,7 @@ Railways Golf Club. Regional Office	6946
 Rating Class EGDI Rank LOSI Rank	10840
 Rationale The Kenya Cloud Policy	6432
 Real-Time Clearing	5420
+RealTime Clearing Transfers	12490
 References of Previous Clients	12400
 Registration and Emission Class Certification	736
 Registration of Cloud Service Providers	6432
@@ -2748,7 +2760,7 @@ Rev. Closing	11375
 Revised Closing	6833
 Risk Classification P177003 Investment Project Financing	10829
 Risk Closely	6947
-Risk Cluster	12225
+Risk Cluster	12500
 Risk of Defaults and Closures	12376
 Rodney Cloete	8970
 Rohit Amritlal Devani Clinic Data	7167
@@ -2786,7 +2798,7 @@ SPEED UP CARGO CLEARANCE Mambo	12454
 ST RONGAI PEDIATRIC CLINIC Data Controller	7167
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 SUPREMACY CLAUSE APPLICATION	3861
-SWIPSS Closed User Group	12324
+SWIPSS Closed User Group	12484
 SYSTAC- Automated Clearing System	969
 Safaricom Cloud	3859
 Safe Space Club Mentors	10829
@@ -2800,6 +2812,7 @@ Santa Clara	9399,591,1402
 Satellite Data and AI for Economic Development and Climate	942
 Scientific Research Clear	2958
 Scope The Kenya Cloud Policy	6432
+Search Button Close Stand	12515
 Second Class Air Mail	1220,10756
 Secretary Clinton	11154
 Sector Classifications	4972
@@ -2834,7 +2847,7 @@ Sistema de Classificadores	10783
 Sistema de Pagamentos Instantâneos Segmento Clientes	5169
 Skill&Tell Club	10687
 Slowing Improvement Not Classified Warning Signs	12353
-Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1,135
 Small Claims Courts	9546
 Small and Medium-Sized Enterprises and Clients	10718
 Smart Classroom	11918
@@ -2915,7 +2928,7 @@ Sustainability and Environmental and Climate Protection	2958
 Sustainable Food Systems. Close	11469
 Sustainable Water Research for Climate Adaptation and Saline	12357
 Swaziland Automated Electronic Clear-	6938
-Swaziland Automated Electronic Clearing House	12324
+Swaziland Automated Electronic Clearing House	12484
 Switch Close	4896
 T&D Climate	12006
 TB Hack Claim Secondary	5146
@@ -2932,10 +2945,10 @@ Tamko Clarence	11355
 Tanzania Automated Clearing House	5977
 Tanzania Mheshimiwa Cleopa David Msuya	2868
 Taona Jakachira Cleopas	4896
-Tax Clearance	11252
-Tax Clearance Certificate	5247,4532,285,343,221
+Tax Clearance	11252,1245
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673
+Tax Clearance Certificates	9779,2673,57
 Tax Reference Number and Year of Assessment. Click	11276
 Taça Africana de Clubes	11432
 Team Clarity	8530
@@ -3059,7 +3072,7 @@ West Africa World Bank Classification of Fragile	1264
 West Africa and Blue Cloud	10518
 Western Cape AI Cluster	11012
 Will Clarke	3937
-Wingu Cloud Exchange	5629,296,6379
+Wingu Cloud Exchange	5629,296
 Women Political Leaders. Closing	4036
 Word Cloud	1363
 Workload Classification Framework A2- Framework	7548
@@ -3079,6 +3092,7 @@ Year Closed The World Bank	10857
 Year of Final Close	4972
 York City. Click	3720
 ZCHLZMLU ZCHLZMLU ZAMBIA ELECTRONIC CLEARING HOUSE	12364
+ZIMRA. Click	12497
 Zadara AI Cloud	3300
 Zadara AI Sovereign Cloud	3300
 Zadara Sovereign Cloud	9239
@@ -3095,3 +3109,6 @@ Zambia’s Climate Adaptation Plan	1867
 Zero Trust Strategy for Google Distributed Cloud	4434
 Zimbabwe Closing Date	4896
 Zimbabwe Revenue Authority Closing Date	4896
+Zimbabwe Share Close FAO Regional Office	12507
+Zimbabwe's Climate-Smart Annual School Census	12504
+Zimbabwe. Climate Action	12493

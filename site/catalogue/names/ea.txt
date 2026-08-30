@@ -9,7 +9,7 @@ AFR EAP ECA LCR MNA NAM	10785
 AFRICA AND THE MIDDLE EAST CRISIS	4114
 AFRICA EAST. Estimated Appraisal Date	761
 AFRICA SPECIALTY RISKS EAST AFRICA Data	7167
-AFRITAC East	12225
+AFRITAC East	12500
 AGRI FRONTIER EAST AFRICA LIMITED Data	7167
 AHK SERVICES EASTERN AFRICA LTD Data	7167
 AI. Within East Africa	7637
@@ -137,6 +137,7 @@ Borno North East	11857
 Broadband Expansion East	519
 Brooke Hospital for Animals East Africa Data	7167
 Budadiri County East	12095
+Bulawayo Land Administration Made Easier Zimbabwe	12511
 Burkina Faso Earmarks	4400
 Burundi Embraces EAC Digital Integration for ICT	2296
 Burundi Joins East African One Network	2296
@@ -166,8 +167,8 @@ Carla Sanderson. For Eastern Africa	9507
 Catholic University of Eastern Africa	6946
 Ce Ea	2776
 Census EAs	11296
-Center East	12225
-Center for International Earth Science Information Network	10835,3,130,902,16,466,1
+Center East	12500
+Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135
 Central Africa East	10826
 Central Asia Sub-Saharan Eastern Asia Western	11572
 Central Rift Coast Lower Eastern Mt	7869
@@ -194,7 +195,7 @@ Commission EAs Enumeration Areas EBK Engineers	2775
 Common Market for East and South Africa	12286
 Common Market for Eastern Africa	1914
 Common Market for Eastern and RSPs	11960
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44
 Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760
 Common Market for Eastern and Southern Africa's Regional	10718
@@ -580,6 +581,7 @@ Early Childhood Development	3604,7588,53,930,183,25,28
 Early Childhood Development Centres	11224,753
 Early Childhood Development ECE	12175
 Early Childhood Development ESMF Environmental and Social	10964
+Early Childhood Development GDP Gross Domestic	12512
 Early Childhood Development Network for Kenya Data	7167
 Early Childhood Development and Education	2925
 Early Childhood Development. Munthali	12175
@@ -613,7 +615,7 @@ Early-Feb	1629
 Early-Pilot and High-Priority Sectors Go-Live	3861
 Early-Stage Innovation	1580
 Early-mover	11140
-Early-stage	9495,624,835,63
+Early-stage	9495,624,835,63,1478
 Early-stage African	9495
 Earn Certificates Under New Training Plan	10280
 Earn PSTN Public Switched Technology	12395
@@ -629,7 +631,7 @@ Earnings and Consumer Prices	2775
 Earnings and Consumer Prices Ethiopia	2775
 Earth	345,786,564,40,77,185,297,210,1,48,16,18,132,95,99,24,199,81,188,134,65,33,4,278,1,338,93,91,159,22,9,89,159,72,7,122,171,169,17,23,68,40,232,175,197,25,48,16,1,1,81,69,53,15,31,59,65,189,25,40,1,6,95,58,205,47,245,98,1,311,173,3,107,34,512,84,1,98,81,53,45,395,272,216,44,152,179,182,205,65,380,30,22,116,349,377,308
 Earth Africa and AWS	10794
-Earth Institute	10835,3,130,902,16,466,1
+Earth Institute	10835,3,130,902,16,466,1,135
 Earth National Space Secretariat	1131
 Earth Netherlands	10960
 Earth Observa	12006
@@ -662,7 +664,7 @@ Ease Cross-Border Connectivity	3986
 Ease of Access Working Group	6867,1
 Ease of Bidding	12389
 Ease of Doing Business	464,3443
-Ease of Doing Business Index	4528
+Ease of Doing Business Index	4528,7984
 Ease of Doing Business Portal	3725,182,4300
 Ease of Doing Business Report	11379
 Ease of Doing Business. Nigeria	8440
@@ -675,7 +677,7 @@ Easily	12090,197
 Easiness	12389
 Easler	1885
 Eassy	3559
-East AFRITAC	12225
+East AFRITAC	12500
 East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12
 East Africa Avg	12385
 East Africa BMZ	178
@@ -752,7 +754,7 @@ East Africa. Through	12164
 East Africa. United Nations	12138
 East Africa. Yet FindMe	10983
 East Africa.The	7955
-East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,32,22,59
+East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,54,59
 East African AI	8334
 East African Artificial Intelligence Policy Outlook	8334
 East African Asian	6231
@@ -949,7 +951,7 @@ Eastern Asia Pyongyang	10840
 Eastern Asia and South-eastern Asia	11572
 Eastern Business Kenya Markets Commentary Opinion	9646
 Eastern C	11180
-Eastern Cape	1289,1018,4046,577,31,553,60,444,59,769,153,968,844,381,19,37,4,8,2,10,14,8,2,1,593,90,6,19
+Eastern Cape	1289,1018,4046,577,31,553,60,444,59,769,153,968,844,381,19,37,4,8,2,10,14,8,2,1,593,90,6,19,516
 Eastern Cape By Staff Writer	8077
 Eastern Cape Department of Agriculture	7514
 Eastern Cape Department of Economic Development	6683
@@ -1033,7 +1035,7 @@ Eastern and Western Cape	11297
 Eastern and Western Platinum Mines	6683
 Eastern-Arabic	5118
 Eastlake	1009
-Eastlea	4896,642
+Eastlea	4896,642,6977
 Eastleigh	12227
 Eastleigh Voice	5469,713
 Eastleigh Voice. Bingham	2566
@@ -1149,6 +1151,7 @@ Global Practice. Eastern and Southern Africa Region	12175
 Gogrial East	3442
 Google Earth Maps	10763
 Google Maps and Google Earth	3782
+Governance Easy	12511
 Governance Global Practice Eastern and Southern Africa	12176
 Government Platform EA Enterprise Architecture EAF	12359
 Government- Ease	395
@@ -1216,7 +1219,7 @@ Internet Outage Felt Across East Africa	2677
 Internet Routers Across Africa and Middle East	6678,209,414,23
 Internet. Earth Station Service Provider	10407
 Internet. Easier	11939
-JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1
+JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135
 James Eaton-Lee	10764
 Journal of Eating Disorders	7759
 Jul-2026 Earthworks	5734
@@ -1420,7 +1423,7 @@ Paratus Group's East African	4958
 Paratus Group's East-West Southern Africa	11320
 Parow East	8999
 Partnership Framework Early Childhood Development Fragility	11468
-Pay As You Earn	10419,879,678,249
+Pay As You Earn	10419,879,678,524
 Pay As You Earn PCK Postal	2775
 Paymentology Enters the Middle East’s Digital Payments	7156
 Payments Across Eastern Africa	3238
@@ -1448,7 +1451,7 @@ Project East2West	1048
 Project East2West. Bayobab	2814
 Protect East Africa's Refugees	12227
 Province Eastern Cape Free State Gauteng	8999
-Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Purpose COMESA Common Market for Eastern and Southern	2775
 Q1 Regulatory Functions The EA	12062
 RECEIVE DJIBOUTI EAST AFRICAN BANK ACCESS	11002
@@ -1557,7 +1560,7 @@ Sugar Cane Mkt Borno North East	11857
 Summit of EAC Heads of State	11806
 Supporting the EAC Cross-Border Payment Systems Master	8546
 Sustain Early Deployment of Election Officials and Materials	10049
-TAA Pay As You Earn TADAT	12225
+TAA Pay As You Earn TADAT	12500
 TH ORDINARY MEETING OF THE EAST	7815
 TIDE Africa II SSA Early-Stage Tech	1473
 TR-1 Taraba North East	11857
@@ -1645,7 +1648,7 @@ Western and Eastern	12403
 Will East African	12227
 Women Middle East	11004,960
 World Bank Ease of Doing Business	10841
-World Bank Ease of Doing Business Index	4528
+World Bank Ease of Doing Business Index	4528,7984
 World Bank Eastern and Southern Africa	1867
 World Bank World Development Indicators. EACO	8753
 World Bank's Early Learning Partnership	11905
@@ -1663,4 +1666,4 @@ Yalcin EA	10784
 Yassir and Uber Eats	11172
 Yassir and Uber Eats Market	11172
 ZAMBIA’S EASE OF TRADE INDEX SCORE	5247
-Zimba-Soaring Eagle	4528
+Zimba-Soaring Eagle	4528,7984

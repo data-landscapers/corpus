@@ -1,6 +1,6 @@
 ACE Startup Academy	11309
 AFP. Starlink	1676
-AI Start-up	4528
+AI Start-up	4528,7984
 AI Startup Pitchathon	10133
 AI Startup Unit	9030
 AI Startups	4442
@@ -129,6 +129,7 @@ Elon Musk’s Starlink Won’t Make Giant	2677
 Email The Starlink Payment Struggle	5562
 Embeddedness of Digital Start-Ups	226
 Emma Theofelus. Starlink	1986
+Empowering Startups	12495
 Energy Star	1264,2340,8361
 Energy Star58	3604
 Engineers Running Africa's Billion-Dollar Startups	10010
@@ -155,6 +156,7 @@ GITEX Nigéria Startup Festival	3527
 GLOBAL STARTUP	2339
 Gaps and Opportunities for Zambia’s Startup Ecosystem	12376
 Get Started	12287
+Get Started Frequently Asked Questions	12511
 Getting Started	1229,1445
 Ghana Startup Network. Spécialiste	10467
 Gitex Africa Morocco STARTUPS Vision Develop	1885
@@ -302,7 +304,7 @@ Nigeria Startup House	2871
 Nigeria's Startup Act	9602
 Nigerian Startup Bill	9936
 Nigeria’s Startup Act	9958
-North Star	3255,1273,7525
+North Star	3255,1273,7525,459
 North Star Africa	5608
 Number of Startups	12376
 Nyombi and Starlink	6248
@@ -431,7 +433,7 @@ Starita	10714,263
 Stark	4439,3527
 Starke	7886
 Starling	2514
-Starlink	736,523,326,34,28,1,2,26,19,1,106,10,3,2,34,2,3,16,15,24,15,3,19,27,1,1,2,1,6,11,272,8,3,11,2,17,6,13,10,30,48,15,12,70,18,2,4,9,5,2,2,13,18,9,83,22,18,10,19,14,24,3,4,4,4,11,4,10,20,40,51,7,2,60,5,1,8,33,12,4,42,22,16,2,1,31,29,1,3,1,7,8,17,2,67,14,33,6,7,27,8,57,35,1,6,14,25,9,10,10,23,18,4,12,4,17,4,42,21,2,10,13,23,1,25,19,57,1,18,35,13,22,81,146,41,6,4,2,1,24,55,3,8,5,5,6,1,15,56,19,30,75,5,3,6,20,20,1,2,19,33,1,19,35,90,20,4,9,52,13,13,11,65,2,32,3,10,5,9,1,4,1,5,24,3,69,1,1,49,1,2,2,6,18,43,16,23,23,31,8,10,22,21,1,1,2,16,8,2,11,17,7,4,5,22,14,21,42,5,1,5,41,37,1,10,4,17,16,11,12,13,22,7,14,8,39,5,6,34,19,3,36,1,3,14,10,11,1,51,22,14,34,6,44,14,1,1,6,2,19,1,14,3,1,1,1,1,9,5,1,1,11,9,5,26,24,26,3,10,1,15,2,9,15,47,28,33,11,33,1,10,46,8,8,14,3,7,17,22,2,16,6,1,12,4,35,14,27,1,4,18,3,3,10,12,9,6,1,6,10,39,24,16,6,58,7,39,7,2,25,20,105,27,1,19,4,11,26,31,7,28,11,1,1,7,2,2,2,73,136,1,1,109,6,97,56,1,42,6,61,58,3,45,3,20,7,334,114,143,1,97,201,34,52,259,81,41,2,249,12,137,7,72,35,40,12,13,131,17,67,69,12,13,78,52,52,1,102,6,47,53,257,62,119,85,186,63,111,76,20,396,42,49,132,31
+Starlink	736,523,326,34,28,1,2,26,19,1,106,10,3,2,34,2,3,16,15,24,15,3,19,27,1,1,2,1,6,11,272,8,3,11,2,17,6,13,10,30,48,15,12,70,18,2,4,9,5,2,2,13,18,9,83,22,18,10,19,14,24,3,4,4,4,11,4,10,20,40,51,7,2,60,5,1,8,33,12,4,42,22,16,2,1,31,29,1,3,1,7,8,17,2,67,14,33,6,7,27,8,57,35,1,6,14,25,9,10,10,23,18,4,12,4,17,4,42,21,2,10,13,23,1,25,19,57,1,18,35,13,22,81,146,41,6,4,2,1,24,55,3,8,5,5,6,1,15,56,19,30,75,5,3,6,20,20,1,2,19,33,1,19,35,90,20,4,9,52,13,13,11,65,2,32,3,10,5,9,1,4,1,5,24,3,69,1,1,49,1,2,2,6,18,43,16,23,23,31,8,10,22,21,1,1,2,16,8,2,11,17,7,4,5,22,14,21,42,5,1,5,41,37,1,10,4,17,16,11,12,13,22,7,14,8,39,5,6,34,19,3,36,1,3,14,10,11,1,51,22,14,34,6,44,14,1,1,6,2,19,1,14,3,1,1,1,1,9,5,1,1,11,9,5,26,24,26,3,10,1,15,2,9,15,47,28,33,11,33,1,10,46,8,8,14,3,7,17,22,2,16,6,1,12,4,35,14,27,1,4,18,3,3,10,12,9,6,1,6,10,39,24,16,6,58,7,39,7,2,25,20,105,27,1,19,4,11,26,31,7,28,11,1,1,7,2,2,2,73,136,1,1,109,6,97,56,1,42,6,61,58,3,45,3,20,7,334,114,143,1,97,201,34,52,259,81,41,2,249,12,137,7,72,35,40,12,13,131,17,67,69,12,13,78,52,52,1,102,6,47,53,257,62,119,85,186,63,111,76,20,396,42,49,132,31,92
 Starlink AFP	1911
 Starlink Approval	7430
 Starlink Auteur	5022
@@ -501,6 +503,7 @@ Starlink Now Displays	4601
 Starlink Officially Enters the Central African Republic	4345
 Starlink Officially Launches	5453
 Starlink Over	3365
+Starlink Pilot Program	12508
 Starlink Priority Connectivity	4656
 Starlink RDC	9925
 Starlink RDC. Selon	9925
@@ -616,9 +619,9 @@ Start-up and Digital Enterprise Act	4970
 Start-up-friendly Authority	4126
 Start-ups	614,4779,2632,2211,899
 Start-ups and Entrepreneurship Development Policy	3714
-Start-ups and MSMEs	4528
+Start-ups and MSMEs	4528,7984
 StartUp Maroc	1232
-Starting	1243,1145,584,17,38,410,912,85,8,86,387,114,437,104,252,219,130,422,617,139,30,47,139,304,591,1133,1125,47,3,7,4,83,68,43,12,32,284,572,162,219,85,48
+Starting	1243,1145,584,17,38,410,912,85,8,86,387,114,437,104,252,219,130,422,617,139,30,47,139,304,591,1133,1125,47,3,7,4,83,68,43,12,32,284,572,162,219,85,48,125
 Starting FY	4217
 Starting the Journey Towards	10841
 Startup	168,1079,638,373,23,954,1332,2432,2994,738,110,1022,6,507
@@ -653,7 +656,7 @@ Startup Ecosystem for Africa	9321
 Startup Ecosystem of Zambia	12376
 Startup Ecosystems	5200
 Startup Festival	9117
-Startup Formation	4528
+Startup Formation	4528,7984
 Startup Fund Depuis	3157
 Startup Funding	3859
 Startup Garage	10053
@@ -697,7 +700,7 @@ StartupBlink's Global Startup Ecosystem Index	3377
 StartupList Africa	12214
 Startupbootcamp	5159
 Startupbootcamp for Meta	10133
-Startups	168,1075,4,845,328,22,348,18,8,10,42,151,138,18,203,17,900,233,33,6,58,258,20,69,459,36,248,260,44,39,97,729,131,467,33,50,344,30,778,110,342,950,386,434,3,1,402,318,331,41,18,188,115,20,68
+Startups	168,1075,4,845,328,22,348,18,8,10,42,151,138,18,203,17,900,233,33,6,58,258,20,69,459,36,248,260,44,39,97,729,131,467,33,50,344,30,778,110,342,950,386,434,3,1,402,318,331,41,18,188,115,20,68,49,19
 Startups About	6155
 Startups Decide	3929,2919
 Startups Desk	8008,1459
@@ -714,11 +717,12 @@ Startups With EGP	5322
 Startups and Established Technology	11863
 Startups and Innovators	11345
 Startups and Innovators Program Support Stage-appropriate	11345
-Startups and MSME Liaison	4528
+Startups and MSME Liaison	4528,7984
 Startups and Micro-Enterprises Noureddine Zahid. Officials	5952
 Startups and Operations	5413
 Startups and SMEs	12356
 Startups de IA	2816
+Startups. Small and Medium Enterprises	12495
 Startups. Un	4567
 Step Back Starlink	1812
 Support Innovation and Startups	12399

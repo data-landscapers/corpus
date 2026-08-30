@@ -11,7 +11,7 @@ AI Criteria	7548
 AI Criteria Framework Emerging Technologies	7548
 ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Academia Criteria	12376
 Acceptance Criteria	5665
 Access Criteria and Conditions	12364
@@ -56,6 +56,7 @@ Boletins Criminais	10750,1
 Botsuana. Cristina Caniço	8492
 Broadband Critical National Infrastructure	11857
 Business Against Crime	11986
+Business Against Crime Forum	12510
 Business Against Crime South Africa	5533,58,6395
 Business- Critical High Performance Standard Basic	5665
 C Crime	6970
@@ -209,7 +210,7 @@ Crichton R	766
 Crichton&author	766
 Cricket	8884
 Cridem	7707
-Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45
+Crime	3,4124,3320,1950,2,217,1134,226,201,11,97,589,7,1,310,109,45,155
 Crime Avenue de France	4127
 Crime Bureau	7114
 Crime Data Centre	12109
@@ -217,6 +218,7 @@ Crime Detection Strategy NCPS National Crime	11188
 Crime Frustrado	11425
 Crime Intelligence	11188
 Crime Intelligence Rural Safety Desk	11188
+Crime Liaison Committee	12510
 Crime Management System	8286
 Crime Prevention	1877,749,8562
 Crime Prevention and Criminal Justice	2117
@@ -347,7 +349,7 @@ Critical Clusters	6051
 Critical Consciousness	10726
 Critical Digital Assets	4610
 Critical Economic Infrastructure	6711
-Critical Enablers	4528
+Critical Enablers	4528,7984
 Critical Enablers Across	7548
 Critical Energy Transition Minerals	11210
 Critical Enterprise Integration Moderate Integration Score	5665
@@ -655,7 +657,7 @@ Lei de Crimes Cibernéticos	2816,4920
 Liberia CI Critical Infrastructure DDoS Distributed	1777
 Licensing Criteria	12389
 List of Critical IT Assets	10721
-List of Critical Transactions for Input	12324
+List of Critical Transactions for Input	12484
 Local Humanitarian Coordination Mechanisms During Crises	6947
 Logics of Critical Explanation	11028
 Língua Crioula Aplicados	2741
@@ -789,7 +791,7 @@ Requirements Criteria Timestamping	10911
 Response Critical	11952
 Response Team CII Critical Information Infrastructure	1264
 Resultado Prazo Critérios de Aceitação	11456
-Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1
+Revenue Mobilisation Absence of Crime	10835,3,130,902,16,466,1,135
 Risk Analysis and Objective Criteria Risk Analysis	11240
 Rule of Law Absence of Crime Poverty Reduction	10759
 Russia’s Invasion Threatens Critical Private Investment	11310
@@ -802,6 +804,7 @@ Scientific and Industrial Research CTA Crime Threat	11188
 Section Evaluation Criteria Points Allocation Weight	11240
 Sector-Specific Critical Information Infrastructure	11754
 Segundo Cristina Paula Baptista	4938
+Select Search Criteria Owner Name Property	12511
 Selection Criteria	5903,6502
 Senators Criticize Trump Administration’s Demands	10446
 Services POCAMLA Proceeds of Crime and Anti-Money Laundering	12297
@@ -860,5 +863,6 @@ World Bank’s Crisis Preparedness and Response Toolkit	11469
 Yaoundé. Critical	11149
 Yes. The Cybercrime and Computer Related Crimes	12232
 Youth CRI Disaggregated	10768
+ZWL the Money Laundering and Proceeds of Crime Act	12490
 Zambia’s Cyber Crimes Act No	9416
 Zimbabwe and Malawi Mr Tatenda Crispen Madzokere	1154

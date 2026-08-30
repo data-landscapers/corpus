@@ -33,7 +33,7 @@ AU Commission and Huawei	5302
 Abdirahman Mohamed Hussein	11596
 Abdulrahman Hussein	2703
 Abomey-Calavi. Hubert	2765
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Procedural Hurdles for Visa for Business Purposes	12389
 Abuja Startup Hub	2218
 Accelerate Human Capital for Youth	11879
@@ -175,7 +175,7 @@ CEO of Currency Hub. Qualified	9367
 CEO of Huawei Cloud Egypt	6653
 CEO of Huawei South Africa	7979,229,3287
 CFA. Huit	10576
-CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130,902,16,466,1
+CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130,902,16,466,1,135
 CM8353 acc.pdf Huawei	1243
 COMFORTCARE THREE HUNDRED SIXTY PLUS LAVINGTON	7167
 CONSOLIDATED HUMAN RESOURCE SOLUTIONS LIMITED Data	7167
@@ -306,14 +306,14 @@ Danish Institute for Human Rights and KNCHR	2615
 Data Centres and Human Rights Submission	6305
 Data Centres. Hub	3541
 Data Governance Hub	11135
-Data Hub	4999,6885,275
+Data Hub	4999,6885,275,328
 Data Hubs Powering the Digital Mauritius Vision	3292
 Data Protection Impact Assessments and Human Rights	6949
 Data Science Hub	9322
 Data4Change's Africa Hub	4999
 Declaration of Human Rights	3861,8477
 Deep Tech Hub and Raxio Data Centre	5249
-Defence AI Innovation Hub	4528
+Defence AI Innovation Hub	4528,7984
 Democracy and Human Rights	1814
 Democratic Centre for Democracy and Human Rights CC	12201
 Denial of Genocide and Crimes Again Humanity	26
@@ -429,8 +429,8 @@ E-MARK Innovation Hub	7432
 E-MARK Innovation Hub Chief Executive Officer	7432
 E1 I-44 UN Human Capital Index	10785
 EUR Sustainable Human Rights	970
-Economic Opportunity Human Development	10835,3,1048,466,1
-Economic Opportunity and Human Development	11870
+Economic Opportunity Human Development	10835,3,1048,466,1,135
+Economic Opportunity and Human Development	11870,618
 EdTech Hub	899,757,10519
 Editorial Team Qubit Hub	6332
 Education Education Enrolment Education Completion Human	10837,1315,188
@@ -466,7 +466,7 @@ Establish ICT Innovation Hubs	958
 Eswatini Health System Strengthening for Human Capital	559
 Eswatini's Health System Strengthening for Human Capital	538
 Etat. Huit	3191
-Ethical and Human-Centric	4528
+Ethical and Human-Centric	4528,7984
 Ethio Telecom and Huawei Broaden Partnership	5407,676
 Ethiopia Humanitarian Situation Report No.10	12188
 Ethiopia'. BMC International Health and Human Rights	12188
@@ -477,7 +477,7 @@ Experiência Humana	2816
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 Export of Human	395
 Extending the Human-Centred Framework	10726
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135
 FRAMEWORK The AI Hub Risk Assessment	11156
 Fab Labs and Innovation Hubs	10834
 Faculty of Human Sciences	8021
@@ -511,6 +511,7 @@ Foundations for Economic Opportunity and Human	10835
 Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178
 Four Hundred and Fifty-One Thousand	3862
 Four Hundred and Fifty-Six Million	3862
+Framework Science and Technology Development. Human Capital	12512
 Francisco Queiroz Direitos Humanos	10753
 Frugal AI Hub	5682
 Functional Human Resources Mgmt	1284
@@ -552,7 +553,7 @@ Global Human Rights Framework Integration Universal	3861
 Global Infrastructure Hub	11155
 Global Partnership for Human-Centric ICT Standardization	10336
 Global Partnerships for Human-Centric ICT Standardisation	1068
-Global Tech Hubs	4528
+Global Tech Hubs	4528,7984
 GmbH Human Asset Clouds&Training Inetum España	8530
 Go TO Premium Hub Premium Tools	9629
 GoGB Government of Guinea-Bissau HRMIS Human Resources	11545
@@ -622,7 +623,7 @@ HUMAN CAPITAL MANAGEMENT Safety and Health	11131
 HUMAN CAPITAL MANAGEMENT Salary Review	11131
 HUMAN CAPITAL MANAGEMENT Strategy	11131
 HUMAN CAPITAL MANAGEMENT Trainings	11131
-HUMAN DEVELOPMENT	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+HUMAN DEVELOPMENT	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837,1503
 HUMAN DEVELOPMENT HEALTH Access	11889
 HUMAN DEVELOPMENT HUMAN DEVELOPMENT HEALTH Access	10759
@@ -901,6 +902,7 @@ HuggingFace Today	3745
 Hughes	2093,7588
 Hughes L	9739
 Hughes Network Systems	6980
+Hughson Wynd	12495
 Hugo Augusto. Ao	10366
 Hugo Brousset	10985
 Hugo Coelho	12033
@@ -929,7 +931,7 @@ HumAngle	5267
 HumAngle Bala Abubakar	5267
 Humain	9824
 Humains	4325
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,20,8,8,12,80,18,4,24,17,25,23,1
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40,112,136,7,18,23,6,253,24,1,10,10,89,165,1,44,1,28,8,12,80,18,4,24,17,25,23,1,42,13,12
 Human A.i Co-evolution	12478
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
@@ -945,7 +947,9 @@ Human Capital	969,3559,2409,3831,363,3,131,204,455,31,265,105,31
 Human Capital Development	1154,2707,667,748,7080
 Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
+Human Capital Development Objective Lagging Indicators	12512
 Human Capital Development and Special Programmes	7480
+Human Capital Education Innovation Science	12512
 Human Capital Formation	10768
 Human Capital Index	1353,540,19,8856,7,54,134,1,453,152,336,13,481,13
 Human Capital Index.35	10856
@@ -957,12 +961,12 @@ Human Capital Opportunities Authority Advanced	11469
 Human Capital Project	10964
 Human Capital Reform DPF World Bank	763
 Human Capital Risk Management Human Capital	11134
-Human Capital Risks	12225
+Human Capital Risks	12500
 Human Capital SISP	11955
 Human Capital Second Development Policy Financing	11918
 Human Capital Service Delivery Transformation	723
 Human Capital Sustainability Competition	11134
-Human Capital Transformation Strategic Plan	12225
+Human Capital Transformation Strategic Plan	12500
 Human Capital and Building	12444
 Human Capital and Connectivity	10829
 Human Capital and Expertise	12444
@@ -976,7 +980,7 @@ Human Development	643,1,10115,78,1,126,4,568,334,16,1,1,1,16,247,1,1,9,177,1,11
 Human Development Access	11536
 Human Development Index	3583,7421,397,124,20,15,21,5,378
 Human Development Index. Large	11380
-Human Development Infrastructure Development	10835,3,130,902,16,466,1
+Human Development Infrastructure Development	10835,3,130,902,16,466,1,135
 Human Development Initiative	206
 Human Development Initiative- OPHI	206
 Human Development Product	11986
@@ -999,6 +1003,7 @@ Human Immunodeficiency Virus HPV	10776
 Human Immunodeficiency Virus Hospital Management Information	4153
 Human Impact	6051
 Human Infrastructure	12325
+Human Institutional	12512
 Human Interest	10405
 Human Layer	5513,38
 Human Open	12241
@@ -1017,6 +1022,7 @@ Human Resource Administration	6946,5399
 Human Resource Capacity	21
 Human Resource Capacity Building and Land	12326
 Human Resource Capacity Monitoring and Evaluation	21
+Human Resource Constraints Training Gaps	12508
 Human Resource Department	12240
 Human Resource Development	3583,7605
 Human Resource Development Component	11188
@@ -1048,7 +1054,7 @@ Human Resource and Administration	1778,210,10206
 Human Resource and Administration Mrs Christine Mshanga	34
 Human Resource and Administration Nalituba Mwale	10510
 Human Resource for Health Information System	1261
-Human Resources	34,1906,3917,3266,1636,17,59,2,1,130,263,629,10,16,1,1,1,264,1,9,77,100,1,11,1,5,18,77
+Human Resources	34,1906,3917,3266,1636,17,59,2,1,130,263,629,10,16,1,1,1,264,1,9,77,100,1,11,1,5,18,77,35
 Human Resources Cabinet	10775
 Human Resources Capacity for Universal Health Coverage	11417
 Human Resources Committee	1154,400,5650
@@ -1178,6 +1184,7 @@ Human-Centeredness and Meaningful Human Control AI	7548
 Human-Centred Digitalisation	842,322,11125
 Human-Centred Digitalisation. EUR	1164
 Human-Centric Approach	12356
+Human-Centric and Ethical Ai Local First and Transparency	12512
 Human-Computer Interaction	226,5123
 Human-Dominant	8283
 Human-In-The-Loop' For Deepfakes	9640
@@ -1380,10 +1387,10 @@ ID for All Hundreds	3460
 IDA Human Capital Index IDP International	10964
 IDA The World Bank Guinea-Bissau Human	11560
 IFC. Digital Finance for Refugees. Journal of Humanitarian	12297
-IMF Human Capital Risk IT Headquarters	12225
+IMF Human Capital Risk IT Headquarters	12500
 INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837,1503
-INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130,902,16,466,1
-INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130,902,16,466,1
+INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130,902,16,466,1,135
+INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130,902,16,466,1,135
 IOtech Global Hub Ltd	3862
 IPHD International Partnership for Human Development M&E	11525
 IPPIS Human Resource Modules	7973
@@ -1393,11 +1400,16 @@ Ibrahim Mamma Hussein	12171
 Identify A Human Need And Reach	36
 Illegal Hunting Prevention	11188
 Immunization FP Family Planning HIV Human	771
-Impact Hub	4126,7420
+Impact Hub	4126,7420,947
 Impact Hub Bissau	11546,40
+Impact Hub Harare	12493
+Impact Hub Harare’s Digital Skills for Youth	12493
 Impact Hub Lusaka	12376
 Impact Hub X Lusaka Nyamukafrica X	12376
+Impact Hub. Great	12493
+Impact Hubs	12493
 Impact of M-Pesa and Huduma Namba	9399
+Impact. Global. Impact Hub Harare	12493
 Imprint AI Hub for Social Protection	11156
 Improve Human Capital	579
 Improved Child Survival Program for IPF Human	11469
@@ -1405,7 +1417,7 @@ Improved Human Capital and Digitally Informed Citizenry	12453
 Inauguration du HUB	2370
 Incident Management Process The Cybersecurity Hub	8897
 Inclusion and Human	12353
-Inclusion and Human Development	11889,264,199,1
+Inclusion and Human Development	11889,264,199,1,135
 Inclusive Trust and Human Agile Policy Inclusive	12444
 India With Huge Amount of Cocaine Hidden	8115
 Indice de Développement Humain	1005,10939
@@ -1424,7 +1436,7 @@ Innovation Hubs	226,1010,1721,9496
 Instituições Nacionais de Direitos Humanos	10750
 Institute of Human Resource Management	6946,3097
 Institute of South Africa and AI Hubs	4970
-Institutions Human	10969,1386
+Institutions Human	10969,1386,132
 Instituto Humanitas Unisinos	2816
 Int J Arts Humanit Soc Sci	9739
 Int J Disability and Human Development	12231
@@ -1492,7 +1504,7 @@ Knowledge Hub	396,6324
 Knowledge Hub Digital	630
 Koneta Hub	2685,2,359,86,176,15,119,65,269,321,447,96,374,93,240,768,696,438,1833
 Kousseri and Amchidé. Huawei Technologies Co	303,7286
-LTO Human Resources MOF Integrated Financial	12225
+LTO Human Resources MOF Integrated Financial	12500
 La Direction des Ressources Humaines	2342
 Labour Environment Infrastructure Rural Economy Human	10837,1315,188
 Land and Human Rights	12333
@@ -1591,7 +1603,7 @@ Motrice Humaine	2342
 Motricité Humaine	2342
 Moving Ahead Hungary Yes National Infocommunication	11529
 Moxico Cabinda Cuanza Norte Huambo Huila	10753
-Mr. Yosef Shiferaw Hundessa	12225
+Mr. Yosef Shiferaw Hundessa	12500
 Mshel Homes Hutu Exclusive N-Trillion Golf	2841
 Muhanga and Huye	12329
 NASENI Innovation Hub	12053
@@ -1623,7 +1635,7 @@ National Religious Leaders Forum. A Human	2626
 National Strategic Hub	11940
 National Summary of Human Resources for Health	4217
 Nations Human Development Index	11964
-Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130,902,16,466,1
+Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130,902,16,466,1,135
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
 Nedbank Business Hub	8974
 NetHope Humanitarian AI Code of Conduct	7147
@@ -1790,7 +1802,7 @@ Reusable Data Principles HSRC Human Sciences	5246
 Rev. Interdiscip. Mobil. Hum	10765,10
 Revival Innovation Hub	1857
 Revival Innovation Hub and DIAMBILAY	1857
-Rights Human Business	10835,3,130,902,16,466,1
+Rights Human Business	10835,3,130,902,16,466,1,135
 Rise Hub	8457
 Robert L. Bernstein Institute for Human Rights	225
 Rule of Law and Human Development	11887,453
@@ -2003,6 +2015,7 @@ Vice President and Senior Partner Kobe Hu	10632
 Vice-President of Huawei and Chief Executive Officer	5359
 Vice-Président Huawei Afrique	3177
 Vinci Vice President of Huawei	6008
+Visit Impact Hub Global Global Stats	12493
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777
 Vítimas de Tráfico de Seres Humanos	10750
 Watoa Huduma	2868,3151
@@ -2030,7 +2043,7 @@ ZTE. Huawei	4949
 Zambia Human Rights Commission	9082
 Zed. Global Infrastructure Hub	11155
 Zeferino Zinga-Angop Huambo	11392
-Zero Hunger	789,342,10108,919
+Zero Hunger	789,342,10108,919,349
 Zero Hunger Goal	11332
 Zero Hunger Secure	12457
 Zimbabwe Human Rights Commission	970

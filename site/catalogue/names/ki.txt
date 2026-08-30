@@ -1039,7 +1039,7 @@ King V Principle	10343
 King and Sumathipala	9969
 KingDafie	12478
 KingHost	10558
-Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1
+Kingdom	25,1546,243,2,69,107,300,5,996,78,30,479,186,47,821,674,166,25,740,74,52,189,599,234,199,344,15,1060,221,20,1218,59,23,18,267,3,500,83,475,86,117,49,36,1,20
 Kingdom AI Sector Deal Department for Business	11135
 Kingdom Eastern Europe East Asia Moldova	11135
 Kingdom Moldova NAIS	11135
@@ -1145,6 +1145,7 @@ Kinyua	6948
 Kinyua Gikunda	6948
 Kiosi	1365
 Kiosk	12269,1,89
+Kiosk USSD Apps Agents QR	12490
 Kiosk USSD Apps POS Agents QR	12000
 Kiosks	12359
 Kiosks Online	12359
@@ -1380,6 +1381,7 @@ Meshack Kinyua Ndiritu	1814
 Message Kindly	5903
 Mheshimiwa Anne Kilango Malecela Mbunge	2868
 Michael Kimani	571
+Michael Kimberley	12521
 Migori Kisii Nyamira Narok Kajiado Mt	7869
 Miller and Kitenge	12227
 Million Kilowatts	12445

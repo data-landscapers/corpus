@@ -34,7 +34,9 @@ ASHLINK GENERAL SUPPLIES LTD Data Processor	7167
 AUDIENCIA TOTAL DIRECTIVO SUPER. PODER PROVINCIAL	4209
 AWLIBAN GENERAL SUPPLIERS LIMITED Data Controller	7167
 AWLIBAN GENERAL SUPPLIERS LIMITED Data Processor	7167
+Acceleration Programs Supporting	12495
 Accounts SUT Supply Use Table Telcos	236
+Accreditations Best Social Impact Enterprise Support	12493
 Act Supplementary Submission	4732
 Address Supporting Organization Address Council	8047
 Administration TS Supreme Court TVM Mozambique	12201
@@ -64,6 +66,7 @@ Alternative Childcare and Support Directive	12188
 Alternative Childcare and Support Directive No	12188
 Amandla.mobi Supplementary Submission	4732
 Amended and Supplemented	11864
+America USSD Unstructured Supplementary Service Data	12512
 Annex II. Money Supply	3583
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
 Appendix E Equipment Support	34
@@ -367,6 +370,7 @@ Digital Superhighway EMDEs	6946
 Digital Superhighway Project	6946
 Digital Superhighway Project. The Authority	6946
 Digital Superhighway and Creative Economy	5793
+Digital Support Innovations EHR WhatsApp Helpdesk	12508
 Digital Supreme Court	8978
 Digital Transformation Centres. Supports	689
 Direct Budget Support	5655
@@ -422,6 +426,7 @@ Economic Governance and Extractive Sector Support Project	7160
 Economic Program Supported... Japan Donates USD	5101,850
 Economy Support Rural Representation	10759,78,1315,188
 Ecosystem Development Approach ESOs Ecosystem Support	12376
+Editorial Team Sources of Support Contact Search	12486
 Educación Superior	4209
 Education Operations Support Hub	11918
 Education Reform Support Project	10963,1
@@ -485,7 +490,7 @@ Escola de Formação Superior	11552
 Espanha Supremo	3048
 Estrategia. La Supervisión de Evaluación	1701
 Etablissement Supérieur Professionnel	10893
-Ethiopia TEU VAT Tax Administration Support	12225
+Ethiopia TEU VAT Tax Administration Support	12500
 Ethiopian Nationality. Supra	12188
 Ethiopian Pharmaceuticals Supply Agency	1824
 Ethiopian Pharmaceuticals Supply Services	4349
@@ -858,6 +863,7 @@ Mapping the Supply of Surveillance Technologies	1250
 Marriage Registration Supported	12241
 Matching Business Support Trade Fairs Standard	12376
 Materials Supply	12253
+Maternal Health Rural Economy Support	12488
 Max Supported Document Size	34
 Measurable Target Supporting	1000
 Measurable Target Supporting Responsibil Agencies	1000
@@ -1019,6 +1025,7 @@ Post-Settlement Support Fund	12373
 Posts Supplementary Rolls	11251
 Power Power Supply	9446,1510
 Power Supply	958,8165
+Power Supply Issues	12508
 Premier Support Plan and Necessary Storage Review	4434
 Prequalify Suppliers	12389
 Presidente Corte Suprema de Justicia	4209
@@ -1125,8 +1132,8 @@ Risk Management Support System	11285
 Roadmap of Financial Services Business Conduct Supervision	11994
 Roads Rail Ports Power Supply	5247
 Rural Development Support Programme	10841
-Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1
+Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135
 Rwanda. Supports	1043
 S. D. Support	11585
 SC3 Bulk Supply	12256
@@ -1421,7 +1428,7 @@ Supp III Approved	1734
 Supp III PBB	2962
 Suppl	396,370,5,3020,6989,85,16,715,592
 Suppl 1	4781
-Supplement	410,326,35,249,203,110,544,318,531,1,987,173,466,2268,5230
+Supplement	410,326,35,249,203,110,544,318,531,1,987,173,466,2268,5230,638
 Supplemental	4676,4447,2105
 Supplemental Agreement	12256
 Supplemental Coverage	6246
@@ -1512,7 +1519,7 @@ Supply Chain Resiliency Initiative	4447
 Supply Chain Risk Management GC-SCRM.S1	10721
 Supply Chain Security ICT	6936
 Supply Chain Tech	4972
-Supply Chain Vulnerability	4528
+Supply Chain Vulnerability	4528,7984
 Supply Chain and Procurement Management	11285
 Supply Contracts	1829
 Supply Dependencies	10721
@@ -1555,7 +1562,7 @@ Supply-side Financial Inclusion Indicators Indicator Dec	940
 SupplyLicense Types Licensees	12399
 Supplying	12356
 Suppo10rt.5forSSutpapteorGt	10157
-Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,13,22,4
+Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10
 Support AI	4897,2651,4808
 Support AI-enabling	1363
 Support API	6948
@@ -1567,6 +1574,7 @@ Support Algeria's Push for Digital Transformation	3871
 Support B1-	7548
 Support Breast Cancer Screening Senegalese Fintech	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Support CFA2.1bn	4089
+Support CITE	12514
 Support Center	11955
 Support Channels Maintain	11952
 Support Comoros Digital Connectivity Project	9988
@@ -1723,7 +1731,7 @@ Supported Employment Enterprises’’to	11280
 Supported Formats	12211
 Supported Global Refugee Forum	4257
 Supporters	3942,3322,4549,485
-Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,54,6,3,6,13,4,40
+Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,60,3,6,13,4,40,203
 Supporting AI	4126
 Supporting ANC	4349
 Supporting African Entrepreneurs Initiatives	1363
@@ -1761,8 +1769,8 @@ Supporting Responsibility Agency MOICI	1000
 Supporting Rwanda	5287
 Supporting SMEs	10980,352
 Supporting Sustainable	6318
-Supporting Voluntary Compliance	12225
-Supporting Voluntary Compliance P3-8. Scope	12225
+Supporting Voluntary Compliance	12500
+Supporting Voluntary Compliance P3-8. Scope	12500
 Supporting Women	1777
 Supporting Women's Livelihoods	12335
 Supporting the Cabo Verde Digital	11891
@@ -1795,7 +1803,7 @@ Suppose DPI	5700
 Supposewehaveseveraldata	8606
 Suppressed	4260
 Suppressing	11916
-Suppression	747
+Suppression	747,11743
 Suppression System	12253
 Supprimer	747,1054,2938,3956
 Supprimez-les	747
@@ -1861,14 +1869,14 @@ Tanzania Electric Supply Company Limited	12256
 Tanzania Electricity Supply Company	12256
 Target Supporting	1000
 Target Supporting Responsibil Agencies	1000
-Tax Administration Support System	12225
+Tax Administration Support System	12500
 Taxpayer Support Centre	10762
 Teaching Support Materials	11220,21
 Technical Support	12356
 Technical Support Requirements	11995
 Technical Support Unit	12240
 Technical Support and Issue Resolution	11252
-Technical Support and Maintenance Dedicated AI	4528
+Technical Support and Maintenance Dedicated AI	4528,7984
 Technical Support for Digital Systems	12241
 Technique ISFRA Institut Supérieur de Formation	12
 Technopolis Development Authority. Supported	8094
@@ -1984,4 +1992,5 @@ Zambia Electricity Supply Corporation Limited	5247
 Zambia Electricity Supply Corporation ZICTA Zambia	12376
 Zambia's Farmer Input Support Programme	91
 Zambia. Supports	526
+Zimbabwe Electricity Supply Authority	12501,7
 Zimbabwe’s Supreme Court	225

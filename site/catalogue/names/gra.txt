@@ -4,8 +4,10 @@ ADDITIONAL GRANT	11924
 AGBAOU. Graphique	2342
 AGITECH GRAND EXPO Data Controller INST-388285444BB	7167
 AI GRAND CHALLENGE Yearly	4528
-AI Grand Challenge	6205,1231,1594
+AI GRAND PROJECT CHALLENGE PANGOLIN Yearly	12512
+AI Grand Challenge	6205,1231,1594,3482
 AI Grand Challenge Patrick J. McGovern	1148
+AISIO Measurable Adoption Grand Challenge	12512
 ANA Exemplars Matric Results Examinations Grade	11220
 ANOTHER POWER GRAB	10581
 APC Expresses Gratitude	5390
@@ -168,6 +170,7 @@ Formal Sector Informal Sector Graph	12445
 Foster Care Grant	7910,1089,2856
 Foster Parent Grant	12373
 Foster Parents Grant Disability Grants	12373
+Foundational the Grand Challenge. Partnerships	12512
 Funds IBRD IDA Grants Net	4653
 G8 Graduates	12199
 GAKURU Venuste NIYIZIRERA Grace GASASIRA Gerard	12445
@@ -268,6 +271,7 @@ Gradualismo	11361
 Gradually	7522,4705,158
 Graduate	6832,5028
 Graduate Assistant	9104
+Graduate Business School Chinhoyi University of Technology	12508
 Graduate Certificate	2308
 Graduate Employability Ecosystem	6948
 Graduate Institute	7320,537
@@ -284,7 +288,7 @@ Graduate Trainee Programme The Bank’s Graduate	11134
 Graduate Trainees	11131,3
 Graduate Trainees. Students	11131
 GraduateCentreforManagement	8603
-Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4
+Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25
 Graduates of ESATIC	3604
 Graduation’ Program	10964
 Graduação	10766
@@ -318,8 +322,8 @@ Granada GRENADE COURTNEY	6613
 Grand	1247,52,2284,544,42,312,1,2,1,2,1,1734,202,929,1,4797,101,161
 Grand Abidjan	6591
 Grand Abidjan. Le Géoportail du Grand Abidjan	6591
-Grand Baie	12000,269,1
-Grand Baie La Croisette	12000,269,1
+Grand Baie	12000,269,1,220
+Grand Baie La Croisette	12000,269,1,220
 Grand Bassa	10346
 Grand Bassa County	8101,1549
 Grand Bassam	318,687,1337,266,531,7817
@@ -331,7 +335,7 @@ Grand Bassam SECTION	1005
 Grand Bassam. Il	1005
 Grand Capital	10468
 Grand Cayman KY1-9001	7198
-Grand Challenge	1148,3380,4502
+Grand Challenge	1148,3380,4502,3482
 Grand Challenge. Significant	4528
 Grand Challenges	2117
 Grand Challenges Africa	1148
@@ -342,6 +346,7 @@ Grand Continent	5029
 Grand Duchy of Luxembourg	7198
 Grand Ethiopian Renais	12233
 Grand Ethiopian Renaissance Dam	4766,7467
+Grand Eweng Hydropower Project	12517
 Grand Finale	9185
 Grand Gedeh	4817
 Grand Hommage du Numérique	9509
@@ -353,6 +358,7 @@ Grand Libreville	8641,1395
 Grand Lomé	4733,1191,3162,607
 Grand Magal de Touba	7640,391
 Grand Moroni	1961
+Grand Niche	12512
 Grand Nokoué	10856
 Grand Palace Parking	12215,66
 Grand Palais	2413
@@ -602,7 +608,7 @@ International Submarine Cable SystemsLicence Granted	2677
 Internet Fixe Graphique	998
 Internet Graphique	998
 JOURS GRATUITS Profitez	10387,306
-Jade Rose Graphic Design Cover	4528
+Jade Rose Graphic Design Cover	4528,7984
 Jan la Grange	12478
 Jennifer L Graham	12151
 KICTANet CEO Dr. Grace Githaiga	8095
@@ -765,7 +771,7 @@ SMEs. Graph	10980
 SNG Grant Thornton	11131,3
 SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
 SOCITA. Graphique	2342
-STEM Graduates	4528
+STEM Graduates	4528,7984
 Saúde Coronavírus da Síndrome Respiratória Aguda Grave	10777
 School G- Grand	582
 School Incentive Grants SIP	12175
@@ -848,5 +854,6 @@ Zambia Child Grant Program	11855,69
 Zambia's Child Grant Program	10963
 Zambia’s Child Grant Program	10964
 Zimbabwe Artificial Grand Challenge	3760
-Zimbabwean AI Grand Challenge	4528
+Zimbabwe Grapples	12514
+Zimbabwean AI Grand Challenge	4528,7984
 Zimbabwe’s AI Grand Challenge	9030

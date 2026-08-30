@@ -69,7 +69,7 @@ Bank of Zambia ZIPSS Rules Zambia Electronic	12364
 Barcelona. Rundu-based	10148
 Basillioh Rukangaand Priyanka Sippy	7643
 Belarus and Russia. A European	8890
-Belief Rule of Law	10835,3,130,902,16,466,1
+Belief Rule of Law	10835,3,130,902,16,466,1,135
 Binding Corporate Rules	11993,309
 Binding Corporate Rules Regulation	12302
 Binding Rulings and Post-Compliance Procedures	12389
@@ -164,7 +164,7 @@ Defeat Ruto	7869
 Defeating Ruto Anti-Ruto	7869
 Definition Materials Materials These Rules	12364
 Department of Agriculture and Rural Development	9609
-Department of Land Reform and Rural Development	2660,7016,1585,698
+Department of Land Reform and Rural Development	2660,7016,1585
 Department of Land Reform and Rural Development Physical	11261
 Department of Land Reform and Rural Development. P	11260
 Deputy Minister of Land Reform and Rural Development	11261
@@ -257,6 +257,7 @@ Financial Performance Review RURA	718
 First Community Hotspots Transform Lesotho's Rural	3570
 First Lady Rachel Ruto and Principal Secretary	10399
 First Port Duty Rule. Under	7695
+Fisheries and Rural Settlement. The Office	12511
 Fixing the Rules	11960
 Flickr Kenya's President William Ruto	7140
 Fonds Energie Rurale	10975
@@ -417,6 +418,7 @@ Market and Rubavu Market. Sampling	12333
 Martial Rubeiro	2559
 Masaka Munyaga Mageregere Rubona Kabare R	12413
 Masvingo Chinhoyi Victoria Falls Marondera Rusape	9429
+Maternal Health Rural Economy Support	12488
 Mauritian Rupees Five Hundred	8866
 Mawingu Telecoms Rural Broadband	1127
 Maximize Chances of Defeating Ruto	7869
@@ -500,7 +502,7 @@ O Programa de Oportunidades Socioeconómicas Rurais	12034
 OLUCOME's Gabriel Rufyiri	1723
 OPE Rural	12399
 OPERATING RULES	12364
-Obtain RULE OF LAW	10835,3,130,902,16,466,1
+Obtain RULE OF LAW	10835,3,130,902,16,466,1,135
 Orange Cameroun. Rural	3923
 P Rugerero Burega Nyakiriba Rambura Gasiza	12413
 P. Ruivo	5349
@@ -514,7 +516,7 @@ PRICING RULES OR STANDARDS	5872
 PRICING RULES OR STANDARDS’’. Amendment	5872
 PRIME Minister Russell Mmiso Dlamini	5450
 PS Rural	12399
-PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12324
+PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
 PURSUANT TO RULE	8939
 Packt Publishing Ltd. Rudwan	8604
 Par Rude Ngoma	6082
@@ -608,10 +610,10 @@ RUKIRA-	718
 RUKUNDO Patrick	12413
 RULAAC	7458
 RULAAC Warns Data Protection Bill Could	7458
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1
-RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1
-RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135
+RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135
+RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135
 RULE OF LAW Security	10759,78,1052,263,2,9,177,1
 RULES FOR OFFICERS	4896
 RULES GOVERNING THIS RFP	11240
@@ -643,8 +645,8 @@ RURAL COMMUNITIES	940
 RURAL DEVELOPMENT	11261
 RURAL DEVELOPMENT DATE	11261
 RURAL DEVELOPMENT DEEDS REGISTRIES ACT	11249
-RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1
-RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1
+RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135
+RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1,135
 RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
 RURAL ECONOMY Rank	10759,78,1049,467
 RURAL ECONOMY Rural Land	10759,78,1052,451
@@ -764,7 +766,7 @@ Rufaro Nyakudya	8301
 RufaroNyakudya	8301
 Rufin Bagana	7345
 Rufisque	7484,786
-Rufunsa	12418
+Rufunsa	12502
 RufyB	7446
 Rug Pull Finder	4127
 Rugabano Nyamabuye Mugina Ntarama Mubuga Shyogwe	12413
@@ -819,7 +821,8 @@ Rukwa Region	12114
 Rukwa Regional Secretariat	12114
 Rukwa and Morogoro	9689
 Rule Class	5665
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1
+Rule Overall Governance	12488
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -827,9 +830,9 @@ Rule of Law Demands Clarity	3615
 Rule of Law Impartiality	10759,78,1315,188
 Rule of Law Namibia	12340
 Rule of Law PARTICIPATION	10837,1052,263,11,177,1
-Rule of Law Participation	10759,76,3,130,902,16,466,1
+Rule of Law Participation	10759,76,3,130,902,16,466,1,135
 Rule of Law Republic	12201
-Rule of Law Rule of Law	10835,3,130,902,16,466,1
+Rule of Law Rule of Law	10835,3,130,902,16,466,1,135
 Rule of Law Security	10837,1315,188
 Rule of Law Tests	12139
 Rule of Law and Accountability Advocacy Centre	7458
@@ -849,7 +852,7 @@ Rules Engine	6423
 Rules The BoZ	12364
 Rules These Rules	12364
 Rules and Complementary Instructions	12364
-Rules and Procedures	12324
+Rules and Procedures	12484
 Rules and Regulations	12146
 Rules of Court	2307
 Rules of Debate	11272
@@ -905,14 +908,14 @@ Running for President	10069
 Runs AI	5368
 RunyankoleEnglishLuganda English News Cybersecurity	9695
 RunyankoleEnglishLugandaRunyankoleEnglishLuganda Login Login	2757,293,919,59,207,116,37,272,27,235,32,155,234,51,171,93,73,278,112,76,42,72,124,37,21,83,76
-Runyararo Munetsi	12192,86
+Runyararo Munetsi	12192,86,223
 Runyenjes	2668
 Ruph Ntamowe	10474
 Ruptura Materice	10780
 Rupturas de Stock	8324
 Rupture	10882
 Rupture’ No Comments	2367
-Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29
+Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254,59,5,2,20,46,1,118,38,3,106,33,12,148,135,2,22,85,24,62,14,128,22,27,9,28,50,7,3,45,2,14,4,6,4,16,2,29,41,7
 Rural Addresses Figure	11129
 Rural Addressing Structure	11129
 Rural Addressing Structure Mr	11129
@@ -962,11 +965,11 @@ Rural District Councils Act	1223
 Rural District Councils. Urban SLB	970
 Rural Download	6051
 Rural Eastern Cape	5724
-Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rural Economy Human Development	11889,452
 Rural Economy Rank	11889
-Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1
+Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135
 Rural Education	11927
 Rural Education. South African Journal of Educational	11927
 Rural Electrification	2775,3647,5157
@@ -990,12 +993,12 @@ Rural Health Motivators	5126
 Rural Hubs	12053
 Rural Internet Access	1284
 Rural Internet Expansion Kenya Overseas Private	147
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rural Latency	6051
 Rural Local Municipalities	2093
 Rural Mais	10777
 Rural Mar	6051
-Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Rural Market Access	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Rural Mozambique Project World Bank Group	788
 Rural NBF-only	12460
 Rural Niger	10963,1
@@ -1006,7 +1009,7 @@ Rural Pourcentage	10847
 Rural Promise	6876
 Rural Ref. Code	11180
 Rural Renewal	6832
-Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rural Representation	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rural Resettlement	520,420
 Rural Rural Rural Rural Slightly	418
 Rural Rural Rural Urban Rural Average	11572
@@ -1059,7 +1062,7 @@ Rural and Small Towns Water Security Project	1228
 Rural and Urban	12335
 Rural-Urban Digital Divide Still Poses	6832
 Rural-Urban-Camp Divide for Refugees	10841
-Rural-urban	4528,6667,1265
+Rural-urban	4528,6667,1265,52
 Rural. Quanto	10757
 RuralConnectivity	11644
 RuralPopulation Distribution Urban Rural	958
@@ -1089,7 +1092,7 @@ Russell	2816,1310,2706,1451,2147,1899
 Russell Mmiso Dlamini	7030
 Russell Sage Foundation	2096
 Russell Southwood	8025
-Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46,81,23,29,67,299,60,296,59,261
+Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46,81,23,29,67,299,60,296,59,536
 Russia Cameroon	5985,909
 Russia Today	3855
 Russia and China	4676,7279
@@ -1193,6 +1196,7 @@ S. Ruto	4165
 SA Rugby Awards.1.5. Springbok Cheslin Kolbe	2626
 SA Rugby Men's Player	2626
 SA Rugby Women's Player	2626
+SAFETY RURAL ECONOMY	12488
 SARS's Rule Amendments	9745
 SECTOR PROFILE RURA	718
 SEXE ET NIVEAU III.5.2 Rural	10847
@@ -1332,10 +1336,11 @@ Vanessa Rudman	8494
 Veronika Ruskova	11572
 Vodacom Bolster DRC Rural Network Coverage	2278
 WGI Rule of Law	1828
-WOMEN'S EQUALITY RURAL ECONOMY	12352
+WOMEN'S EQUALITY RURAL ECONOMY	12352,136
 WOMEN’S EQUALITY RURAL ECONOMY	10968,918,467
 Water Access Rural Market Access Rural	10759,78,1315,188
-Water and Rural Development	1554,2188
+Water and Rural Development	1554,2188,8765
+Water and Rural Development. Digital	12507
 WeLight Solar Mini-Grid and Rural Electrification	390
 Western Province Muhima Rusizi District Mata	12413
 Will Ruddick	985
@@ -1343,7 +1348,7 @@ William Ruto	3748,2017,396,358,3523,1042
 William Ruto Edwin Sifuna Fred Matiang’i	7869
 World Bank Agriculture and Rural Development	9
 World Bank Malawi Rural Electrification	12214
-World Justice Project Rule of Law Index	4528,793
+World Justice Project Rule of Law Index	4528,793,7191
 Would Russia	3874
 X.2023.2177475 Rudhumbu	1248
 ZIPSS Rules	12364

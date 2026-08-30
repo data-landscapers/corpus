@@ -1915,7 +1915,7 @@ Contributing Practice Areas Social Protection	10768
 Contributing Writer	4997
 Contributing Writer MONROVIA	8835
 Contributing-	11296
-Contribution	37,199,159,341,1,261,216,614,265,855,877,37,570,1223,1623,362,15,104,240,22,1,108,454,307,237,1,108,651,237,198,470,28,37,17,1,260,149,47,194,135,382,182,16,1,114,2,85
+Contribution	37,199,159,341,1,261,216,614,265,855,877,37,570,1223,1623,362,15,104,240,22,1,108,454,307,237,1,108,651,237,198,470,28,37,17,1,260,149,47,194,135,382,198,1,114,2,85,57
 Contribution Budgétaire	4155,1,1,1,1,1
 Contribution Déterminée	643,8248,2713
 Contribution Electioneering Campaign	9400
@@ -1952,11 +1952,12 @@ Contributors Dr. Emrys Schoemaker	11006,1
 Contributors Raymond Onuoha	6948
 Contributors Task Team	11188
 Contribuya	1701
-Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354
+Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202
 Control APPENDIX	1000
 Control Act	6921
 Control Administrative Officer for Civil Registration	7905
 Control Authority	12233
+Control Authority of Zimbabwe ML Machine Learning	12512
 Control Center	794
 Control Centre	2913
 Control Emergency Use Authorisations	4426
@@ -1983,14 +1984,14 @@ Control and Prevention CoD Cause of Death CRDP	12151
 Control and Prevention Comité Nacional de Bioética	10777
 Control and Registration	11939
 Control da Polícia Nacional	10788
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Corruption	1828,2700
 Control of Counterfeit and Low-Quality Medicines	10776
 Control of Foreign Products	4045
 Control of Goods Act	8399
 Control of HIV	11417
 Control of Neglect-	10780
-Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Personal Data Protection	3563,1441
 Control of Private Hospitals	1009
 Control of Public Procurement	11906
@@ -3045,7 +3046,7 @@ Education Service Kenya Data Controller INST-726107A1B33	7167
 Education for Life Data Controller INST-39333481048 MOMBASA	7167
 Eendei Dispensary Data Controller INST-6722790B3DF MACHAKOS	7167
 Effectiveness of Internal Control	11250
-Efficient Revenue Management P8-26. Contribution	12225
+Efficient Revenue Management P8-26. Contribution	12500
 Ekitale Dispensary Data Controller INST-551873D1231 BUNGOMA	7167
 Eldorock Academy Data Controller INST-222845AB65B UASIN	7167
 Electrical Workers and Contractors The Authority	12256
@@ -3109,7 +3110,7 @@ Fundraising Contracted	4972
 Fundraising Contracts	4972
 G Technology Will Contribute	5675
 GBV Contractor	12253
-GDP Contribution of Target Sectors	4528
+GDP Contribution of Target Sectors	4528,7984
 GDPR. Controller	8436
 GENERAL CONDITIONS OF CONTRACT	11240
 GEORGE KHATEIH MUSEVE Data Controller	7167
@@ -3208,7 +3209,7 @@ Intended Nationally Determined Contribution	12206
 Inter-Ministerial Digital Spending Control Committee	761
 Inter-Ministerial Digital Spending Controls Committee	761
 Internal Control	11955
-Internal Control Checklist	12225
+Internal Control Checklist	12500
 Internal Control Systems	6946,4909
 Internal Control Unit	11197,1
 Internal Controls and Risk Management	1554
@@ -3469,7 +3470,7 @@ Nkaimurunya Data Controller INST-537184234C8 NAIROBI Kenya	7167
 No. Description Contract Number Supplier Name	6946
 No. of Gazetted Border Control Points	12453
 Noise Contractor's Once	12253
-Northwest Small Taxpayers P8-26. Contribution	12225
+Northwest Small Taxpayers P8-26. Contribution	12500
 Notariado RUBRICADO CONTRATO PARA A MELHORIA	10753
 Notices of Contravention	6946
 Notices of Contravention of Licence	6946
@@ -3702,7 +3703,7 @@ SUB-SAHARA AFRICA LTD Data Controller INST-4621663B928	7167
 SUBSECÇÃO II Contratos Celebrados	11360
 SUBSECÇÃO III Contratação	11360
 SUPPLIERS LIMITED Data Controller INST-6964343D087 NAIROBI	7167
-SYSTEM CHANGES AND CHANGE CONTROL SECTION	12324
+SYSTEM CHANGES AND CHANGE CONTROL SECTION	12484
 Sacco Data Controller INST-435165E7BB5 KIAMBU Kenya	7167
 Sales Data Controller	12420
 Samson Wanjala Clinic Data Controller	7167

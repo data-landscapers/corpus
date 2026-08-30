@@ -16,7 +16,7 @@ AI Ethical Guidelines I-41	10785
 AI Governance Guidelines	7151
 AI Guide	12210
 AI Guidelines	11050
-AI Safeguards and Guardrails	4528
+AI Safeguards and Guardrails	4528,7984
 AI and ML Guidance	11265
 AI-Powered AML Compliance Guidelines. Abuja	11138
 AI. Rwanda’s Guidelines	1204
@@ -38,10 +38,12 @@ AZ República de Guinea Ecuatorial BOLETÍN OFICIAL	163
 Abdoulaye GUEYE	7670
 Absence of Price Floors and Guidelines	12389
 Accelerator Lab Guinea Bissau	11541
+Access and Tutorial Guide	12499
 Accessibility Guidelines	11952
 Acción Estrategia Agenda Guinea Ecuatorial	1701
 Accountability Guidelines	5244
 Accès Gutera Inkunga Serivisi	1214
+Acquisitions Read Article Business Strategic Guidance	12495
 Across Guinea Bissau	11586
 Act. This Guidance Note	1630
 Actualité Guinée-Bissau	9620
@@ -245,6 +247,7 @@ China’s Guodong Plans	10632
 Chinese President Xi Jinping and President Guelleh	183
 Cidadão da Guiné-Bissau	11566
 Citizen's Guide	11866
+Civic Society Guiding	12511
 Clase Económica. REPUBLICA DE GUINEA ECUATORIAL	4209
 Classification Guidelines	7548
 Climate Risk Management Guidelines	11134
@@ -479,7 +482,7 @@ Environmental Health and Safety Guidelines	1988
 Environmental Health and Safety Guidelines The World	1988
 Environmental Health and Safety and Guidelines	1988
 Eq. Guinea	5236
-Equatorial Guinea	57,106,150,445,485,105,17,234,102,15,93,19,604,76,41,36,97,1,92,205,49,9,456,1,1,412,219,23,59,94,564,134,110,34,31,140,91,170,127,204,175,267,152,1205,336,149,1321,30,479,166,571,26,50,3,2,1,51,76,471,170,42,212,4,3,16,1,2,20,51,57,136,1,9,47,131,11,1,32
+Equatorial Guinea	57,106,150,445,485,105,17,234,102,15,93,19,604,76,41,36,97,1,92,205,49,9,456,1,1,412,219,23,59,94,564,134,110,34,31,140,91,170,127,204,175,267,152,1205,336,149,1321,30,479,166,571,26,50,3,2,1,51,76,471,170,42,212,4,3,16,1,2,20,51,57,136,1,9,47,131,11,1,32,103,30
 Equatorial Guinea Bahamas Fiji Barbados Gabon	10764
 Equatorial Guinea D	11867
 Equatorial Guinea Digital Economy Country	1752
@@ -572,7 +575,7 @@ Fondation Guinée	10106
 Fonds Gukwirakwiza Telefoni	1214
 Foreign Digital Services Guinea	6342
 Founder’s Guide	12376
-Fourth Industrial Revolution. Guiding Principles	4528
+Fourth Industrial Revolution. Guiding Principles	4528,7984
 Framework EHSGs Environmental Health and Safety Guidelines	1988
 Framework Outcome of STANDARDS PILLAR GUIDANCE	10721
 French Guiana	7145,4464
@@ -692,13 +695,14 @@ Give Directions and Issue Guidelines	7845
 Global Landscape of Ethics Guidelines	11156
 GoGB Government of Guinea-Bissau GM Grievance Mechanism	11549
 GoGB Government of Guinea-Bissau HRMIS Human Resources	11545
-Gobierno de Guinea Ecuatorial	7100,983,3589
+Gobierno de Guinea Ecuatorial	7100,983,3589,846
 Gobierno de Guinea Ecuatorial Oficina de Información	9065
 Godfrey Kabyanga Minister of State for National Guidance	3050
 Golfe de Guinée	8755
 Golfo de Guinea	1701
 Golfo de Guinea En	1701
 Google Scholar Guay	11028
+Goromonzi Gutu Gwanda Gwelo Hartley Insiza	12511
 Governance By Nur H. Gure	11105
 Governance Committee and Mrs Guylaine Laiyra	10079
 Government of Equatorial Guinea	57,284,6500
@@ -730,7 +734,7 @@ Guangzhou	10846
 GuarantCo	8612,1608,1090
 GuarantCo Local-currency Domestic	11310
 GuarantCo's Cellcard	11310
-Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11
+Guarantee	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,587,23,72,1,1378,924,320,852,73,1176,2,1986,208,254,261,1232,68,25,94,77,154,553,42,11,596
 Guarantee Agency	11468
 Guarantee Agency ML Machine Learning MPA	3604
 Guarantee Agency's Support for Private Investment	11310
@@ -910,7 +914,7 @@ Guide for Planning RiskBased Inspections	10776
 Guide for Production	12367
 GuideMethodologiqueSimplifDigit 10052025.pdf	1703
 Guidebook	1243,339
-Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81
+Guided	1814,2714,312,579,534,38,955,813,242,34,1,372,199,321,174,1,653,1108,17,250,3,103,95,664,238,81,197
 Guided Learning	10525
 Guidelin	6432
 Guideline	396,823,4446,11,756,1992,15,1416,1274,139
@@ -929,7 +933,7 @@ Guideline. Compliance and Enforcement NITDA	5665
 Guideline. Government Institutions	5665
 Guideline. Non	5665
 Guideline. Software Certification Renewal Software	5665
-Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6
+Guidelines	34,553,131,181,62,1,38,204,39,21,613,111,359,380,162,24,691,522,457,530,563,2,1,8,481,20,244,4,103,253,136,18,135,123,268,76,215,538,135,93,61,96,137,3,91,5,187,14,114,618,551,1,316,6,39,3,48,3,7,12,209,79,4,1,1,20,1,84,29,80,68,108,82,247,1,2,3,1,5,58,28,8,33,7,241,14,46,59,29,1,63,6,45
 Guidelines Actor Requirements	6432
 Guidelines C.2 Interoperability Standards	11952
 Guidelines COBIT	9237
@@ -982,10 +986,10 @@ Guides Guides Documentation	12364
 Guides Learning and Teaching Support Materials Examinations	11241
 Guides Learning and Teaching Support Materials Research	11241
 Guidi	8606
-Guiding	22,936,3,1721,1846,501,649,1526
+Guiding	22,936,3,1721,1846,501,649,1526,5308
 Guiding Legal Framework Overview of Namibia’s Social	12373
 Guiding Philosophy	6442
-Guiding Principles	1009,805,1837,877,718,1186,1116,1451,2155,1056,146,63,25,9
+Guiding Principles	1009,805,1837,877,718,1186,1116,1451,2155,1056,146,63,25,9,59
 Guiding Principles Adoption	5246
 Guiding Principles Based	6748
 Guiding Principles Implementation	7548
@@ -1019,7 +1023,7 @@ Guimi Multi Services. Pour	7097
 Guinas	3475
 Guine-Bissau	11555
 GuineTelecom	11545
-Guinea	7,135,22,70,78,32,58,1,249,60,34,108,79,80,33,95,1,1,22,13,1,38,18,8,21,13,54,85,49,56,21,6,87,116,1,76,81,198,10,142,44,179,195,5,99,10,13,285,167,7,115,156,6,9,55,117,179,1,58,27,1,43,6,54,6,20,26,188,7,10,236,348,41,117,155,39,68,44,284,1,1,32,21,16,37,22,100,260,59,23,57,34,6,1,153,92,94,170,312,18,98,166,226,28,1,366,9,291,76,633,461,563,116,156,194,72,70,45,5,21,16,18,16,3,3,15,28,25,59,15,8,341,88,105,25,2,8,2,19,28,258,3,16,1,2,203,61,1,9,47,131,11,1,32
+Guinea	7,135,22,70,78,32,58,1,249,60,34,108,79,80,33,95,1,1,22,13,1,38,18,8,21,13,54,85,49,56,21,6,87,116,1,76,81,198,10,142,44,179,195,5,99,10,13,285,167,7,115,156,6,9,55,117,179,1,58,27,1,43,6,54,6,20,26,188,7,10,236,348,41,117,155,39,68,44,284,1,1,32,21,16,37,22,100,260,59,23,57,34,6,1,153,92,94,170,312,18,98,166,226,28,1,366,9,291,76,633,461,563,116,156,194,72,70,45,5,21,16,18,16,3,3,15,28,25,59,15,8,341,88,105,25,2,8,2,19,28,258,3,16,1,2,203,61,1,9,47,131,11,1,32,103
 Guinea Begins Work	6858
 Guinea Bissau	7,1409,1261,98,2620,2057,4073,16,4,4,1,2,5,22,2,5,3,320
 Guinea Bissau DHIS2 Climate	11589
@@ -1044,7 +1048,7 @@ Guinea Cote	10856
 Guinea D	11867
 Guinea Digitizes Public Procurement	6349
 Guinea EGDI	3534
-Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403
+Guinea Ecuatorial	975,726,1478,315,715,3494,1,1,343,35,71,218,931,15,206,403,391,43,126,1185,403,443
 Guinea Ecuatorial Desde	1701
 Guinea Ecuatorial Nación	1701
 Guinea Ecuatorial. Agenda Guinea Ecuatorial	1701
@@ -1057,6 +1061,7 @@ Guinea Ecuatorial. Esta	1701,6002
 Guinea Ecuatorial. Estas	1701
 Guinea Ecuatorial. Esto	3179
 Guinea Ecuatorial. GITGE	3179
+Guinea Ecuatorial. Guinea Ecuatorial	12518
 Guinea Ecuatorial. MINISTERIO	4209
 Guinea Ecuatorial. Por	1701
 Guinea Ecuatorial. Sin	1701
@@ -1098,7 +1103,7 @@ Guinea's Simandou	5787
 Guinea- Bissau	11525
 Guinea- Bissau Public Policy	11560
 Guinea-Bis	11550
-Guinea-Bissau	1002,11,130,36,1,84,13,188,56,27,150,527,20,14,224,199,322,49,193,260,530,66,30,18,82,577,103,72,76,340,33,96,86,733,74,172,116,116,626,57,193,5,88,248,1383,374,388,15,19,350,72,115,26,50,3,2,8,8,16,12,84,172,3,296,85,1,8,2,1,3,2,4,1,3,1,2,1,1,3,1,1,1,2,1,6,1,2,3,4,2,5,23,153,3,102,3,9,7,1,2,28,76,160,1,9,178,11,1,32
+Guinea-Bissau	1002,11,130,36,1,84,13,188,56,27,150,527,20,14,224,199,322,49,193,260,530,66,30,18,82,577,103,72,76,340,33,96,86,733,74,172,116,116,626,57,193,5,88,248,1383,374,388,15,19,350,72,115,26,50,3,2,8,8,16,12,84,172,3,296,85,1,8,2,1,3,2,4,1,3,1,2,1,1,3,1,1,1,2,1,6,1,2,3,4,2,5,23,153,3,102,3,9,7,1,2,28,76,160,1,9,178,11,1,32,103
 Guinea-Bissau Beyond	7702
 Guinea-Bissau Congo Republic Libya Chad	10837,1503
 Guinea-Bissau Copyright Code	11550
@@ -2062,7 +2067,7 @@ References User Guide	11935
 Registo Civil Guineense	11537
 Regulamento Constituição da República de GuinéBissau Lei	11542
 Regulations and Guidelines	5883
-Regulatory Guardian The National Digital	4528
+Regulatory Guardian The National Digital	4528,7984
 Regulatory Guidelines	11861
 Regulatory and Legal Frameworks Equatorial Guinea Equatorial	10841
 Regulatórias Guiné-Bissau	11569
@@ -2145,7 +2150,7 @@ STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS TIER	10721
 STRUCTURED EXTRACT of Guinea-Bissau	11563
 STUDIES GUIDANCE INTRODUCTION	5618
 SUMÁRIO EXECUTIVO A Guiné-Bissau	11555
-SWIPSS Participant User Guide	12324
+SWIPSS Participant User Guide	12484
 Sabotage Minister of State for ICT and National Guidance	8547
 Safety Guidelines	1988
 Safety and Guatemala Literacy and Safety and Literacy	11964
@@ -2260,8 +2265,8 @@ Swarna Gujadhur	7224
 Synthesis The Guidelines	6086
 Systems and Infrastructure Vendor Engagement Guidelines	12453
 Sérgio Guivala	2784,32,4920
-TADAT Field Guide	12225
-TADAT Field Guide. Ethiopia	12225
+TADAT Field Guide	12500
+TADAT Field Guide. Ethiopia	12500
 TATS MEMBRES DE L’UEMOA GUIDE POUR	10711
 TELE-HEALTH STANDARDS AND GUIDELINES	34
 TELEPHONE ACCEPTABLE USE STANDARDS GUIDELINES	34
@@ -2274,6 +2279,7 @@ Tanzania Business and Investment Guide	5715,4877
 Tanzania By Guardian Reporter	2857
 Tariff Guidelines	12233
 Tatiana Gumucio	6948
+Taylor Guitars	12517
 Teatro Nacional de Guinea Ecuatorial	4209
 Technical Guidelines	9123
 Technical Guides	10776
@@ -2304,6 +2310,8 @@ Transformation Export Credit Guarantee Scheme Eswatini	11134
 Treasury Infrastructure Guidelines	7548
 Trust Data Guidance	1243
 Turismo. Digital Transformation of Guinea-Bissau's INSS	11939
+Tutorial Guide	12499
+Tutorial Guide Z ZIMSTAT	12499
 Twin Gulf	4774
 TÍTULO Anuário Estatísticas Vitais da Guiné-Bissau	11537
 Télécharger le Guide Pour	2975
@@ -2379,7 +2387,7 @@ Vibrant Gujarat Summit	2667
 Victor Guambe	3840
 Violation of Street Naming Standard and Guidelines	11129
 Vision and Guiding Principles	12356
-Visionary Architect and Steadfast Guardian Government	4528
+Visionary Architect and Steadfast Guardian Government	4528,7984
 Voluntary Guidelines	9727,1233
 W M Guatemala LATIN W AMERICA	11964
 WARDIP Guine-Bissau	11555

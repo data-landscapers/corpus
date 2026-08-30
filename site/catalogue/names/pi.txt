@@ -8,7 +8,7 @@ AF1. The PIU	11924
 AFRIQUE CENTRALE Pierre Nolasque Oyono Bika	3658,2617,145
 AGGREGATE DATA CENTER BUILD PIPELINE	10861
 AI Infrastructure Investment Pipeline	7548
-AI Infrastructure and Data Governance Pillar	4528
+AI Infrastructure and Data Governance Pillar	4528,7984
 AI Jobs Pipeline	6909
 AI Pilot Projects	12356
 AI Startup Pitchathon	10133
@@ -109,7 +109,7 @@ Camarade Pingdwendé Gilbert OUEDRAOGO	8454
 Cameroon. Pilla	5699
 Campost DG Pierre Kaldadak	1946
 Canteen Pilot Project	11130
-Capacity Building and Education Pillar	4528
+Capacity Building and Education Pillar	4528,7984
 Capacity Building and Training for Stakeholders The PIU	12253
 Carlos Alberto Tavares Pina	2091
 Carlos Tavares Pina	1348,743,3333,904
@@ -153,7 +153,7 @@ Country Strategy Paper Priorities Pillar	11863
 Country-level PIUs	1264
 Courtesy Pic	11626,41
 Courtesy Pics	4743
-Creating the National Picture	4528
+Creating the National Picture	4528,7984
 Critical National Information STANDARDS PILLAR GUIDANCE	10721
 Croissance du PIB	7655
 Crypto. PIC	3289
@@ -228,10 +228,12 @@ El Comité de Pilotaje	11743
 Email In Video and Pictures	5403
 Emergency Operation Center PIC Project Implementation	11417
 Emploi Pilotée	8643
+Enabler Mission Key Actions Pillar Alignment	12512
 Enki Pitsoe	6353
 Entertainment Internet Social Media Take Pics	582
 Equilibration of Cognitive Structures. Pitanga	2816
 España PINTO LOMEÑA	6613
+Establish National AI Research Fellowship Pillar	12512
 Establish the PIU	12399
 Estratégia PILLER. ARTIGO	11530
 Eswatini Challenges Solutions Cases PILLAR	12444
@@ -334,6 +336,7 @@ IPF. The PIU	11905
 IV. Pilier	10914
 Ibid Pillars Metrics	12399
 Identify Pilot	12356
+Implement Ubuntu-based AI Ethics Pillar	12512
 Implementation Manual PIU Project Implementation Unit	1264
 Implementation Scope Pilot Machines	10617
 Implementi PIU SPMU PIU	1988
@@ -347,8 +350,8 @@ Indicator SMS Senior Management Service PICC	11986
 Information Minister Jerolinmek M. Piah	11720
 Ing. Pierre François Kamanou	11073
 Innovation Pillar.The	7672
-Innovation and Commercialization Pipeline	4528
-Innovation and Ecosystem Development Pillar	4528
+Innovation and Commercialization Pipeline	4528,7984
+Innovation and Ecosystem Development Pillar	4528,7984
 Institutions Training Program for PIU and Stakeholders Days	12253
 Integrating Africa Pillar	11149
 Inteligencia Artificial By Marisa Pilar Oyana	7100
@@ -385,6 +388,7 @@ Kenya Pipeline Company Limited	3583
 Kenya Pipeline Company. Correspondence	3583
 Kepaletswe Somolekae. PIC. KENNEDY RAMOKONE	4987
 Key AI Pilot	4126
+Key Actions Pillar Alignment	12512
 Key Pillar	3768
 Key Strategic Pillars	12356
 KfW Rosh Pinah Solar PV	12399
@@ -527,7 +531,7 @@ Oil Pipelines Act	11857
 Oil Pipelines Act Cap. O7 Section	11857
 Oil Terminal KPC Kenya Pipeline Corporation	2775
 Oluwakemi Pinheiro	7776
-On-time Filing of PIT Declarations	12225
+On-time Filing of PIT Declarations	12500
 One-Time Pin	7266,4857
 Ongoing Grievance Redress PIU	12253
 Open Data. Elargissement du Comité de Pilotage	9406
@@ -597,14 +601,13 @@ PICES	970
 PICTURE	8864
 PICTURES Visitors	1154
 PICTURES-MANICALAND	1154
-PID Concept Stage	1193,706,1223
+PID Concept Stage	1193,706
 PIDA31008	761
 PIDA32489 Public Disclosure Authorized Nov	10963
 PIDA33722	996
 PIDAJ	10492
 PIDC34946	1193,706
 PIDCP	6680,1404
-PIDDC01229	3122
 PIDDC01229. Date Prepared	12426
 PIDG USD	618,1518
 PIDIA00549	1572
@@ -792,7 +795,7 @@ PIs NO PROCESSO DE ELABORAÇÃO	11406
 PM Amadou Oury Bah. Pilot	4142
 POSAF Pilotage	10712
 POSAF. Le Comité de Pilotage	10712
-PPP Pipeline	4528
+PPP Pipeline	4528,7984
 PRASED and PDSS PIUs	11924
 PROGRAMME PILOTAGE ET SOUTIEN AUX SERVICES	4105
 PROJECT GRIEVANCE REDRESS COMMITTEE PIU	12253
@@ -829,11 +832,11 @@ Pico Basilé	3179
 Pico de Expectativas Infladas	2816
 Picone	8436
 Picsa	4172
-Picture	718,1270,484,757,733,95,172,870,709,161,214,1990,258,59,2322,61,139,152,1061
+Picture	718,1270,484,757,733,95,172,870,709,161,214,1990,258,59,2322,61,139,152,1336
 Picture Gallery	12345
-Picture of MOR	12225
+Picture of MOR	12500
 Picture of Mission Team	1778
-Pictures	7199,2826,679,430,1091
+Pictures	7199,2826,679,430,1366
 Pictures Annual Integrated Report	11134
 Pictures the Peer-to-peer	1554
 Piderit	9128
@@ -865,7 +868,7 @@ Pierre Nguimkeu	5440,945
 Pierre Nolasque Oyono Bika	3658,2617,145
 Pierre Nonault	6901
 Pierre Omidyar	2871
-Pierre Ouedraogo	7674,2585
+Pierre Ouedraogo	7674,2585,2260
 Pierre Ouedraogo Partager	9993
 Pierre Ouédraogo	5723,1951
 Pierre Ouédraogo Médias	9993
@@ -929,7 +932,7 @@ Pilla	3335,2364
 Pillage	4127
 Pillaged	4127
 Pillai R. Leveraging	10919
-Pillar	10,101,358,180,360,35,220,513,687,697,867,8,90,402,1005,1202,97,95,8,1221,2623,86,55,44,185,39,5,187,170,241,64,8,53,32,38,218,10,170,5,10,45,4
+Pillar	10,101,358,180,360,35,220,513,687,697,867,8,90,402,1005,1202,97,95,8,1221,2623,86,55,44,185,39,5,187,170,241,64,8,53,32,38,218,10,170,5,10,45,4,64
 Pillar Access Connectivity Affordability Description Promote	5676
 Pillar Action	12399
 Pillar Alignment Pillar	4528
@@ -941,18 +944,19 @@ Pillar III	10222,909,18
 Pillar IV	11149
 Pillar Importance Key Potential Priority Use	12444
 Pillar In Investment Strategy Facebook Instagram	3768
-Pillar Integration and Synergistic Implementation	4528
+Pillar Integration and Synergistic Implementation	4528,7984
 Pillar Lead	6832
 Pillar Strategic Activities	940
-Pillar Structurew	4528
-Pillars	395,566,39,3214,314,1148,1156,105,18,3824,1012,66,48,11
+Pillar Structurew	4528,7984
+Pillar and Research	12512
+Pillars	395,566,39,3214,314,1148,1156,105,18,3824,1012,66,48,11,596
 Pillars AI Adoption and Service Transformation AI	4528
 Pillars I and II	11863
 Pillars and Initiatives	5245
 Pillars and Objectives	1777
 Pillay	7509
 Pillitteri	7278
-Pilot	958,3,40,260,268,1131,112,27,183,1866,396,431,50,223,130,196,672,1320,404,492,551,1005,123,99,193,23,66,14,633,43,4,24,12,7,31,148,282,24,33
+Pilot	958,3,40,260,268,1131,112,27,183,1866,396,431,50,223,130,196,672,1320,404,492,551,1005,123,99,193,23,66,14,633,43,4,24,12,38,148,282,24,33,31
 Pilot Applications	6432
 Pilot Cross-Border Data Exchange Platform	4326
 Pilot DHS1	1261
@@ -1025,7 +1029,7 @@ Pioneer Consulting Middle East	1741
 Pioneer Gate and Tlokweng	5250
 Pioneer Rd	2674
 Pioneer Road	4896
-Pioneer Status	4528
+Pioneer Status	4528,7984
 Pioneering	2577
 Pioneers	4972
 Pioneira	2816
@@ -1118,7 +1122,7 @@ Piéla	10875
 Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
 Pobreza PIPGR Programa de Inclusão Produtiva	11390
 Policy Pillar	7548
-Por Marisa Pilar Oyana BAKALE OKOMO	3494
+Por Marisa Pilar Oyana BAKALE OKOMO	3494,9024
 Portable Document Format PII Personally Identifiable	34
 Potencial de Hidrógeno PIB	1701
 President Cyril Ramaphosa. Picture	7079
@@ -1174,6 +1178,7 @@ Roxanne Piderit	9128
 Roxanne Piderit1	9128
 Rubbish Pit	12383
 SAA PIU and AU PIU	1264
+SADC Pillar	12512
 SCT Nutrition-Sensitive Pilot	12464
 SEAH PIU	1988
 SEAH Service PIU End of S	1988
@@ -1199,6 +1204,7 @@ Seabelo Pilane	5666
 Sebastien Pillay	6831
 Sectors PILLAR	4126
 Selon Pierre Nduwayo	8503,350
+Service Transformation AI Strategy Pillars AI	12512
 Services PIN Checker	12282
 Settlements System Pilot Bill	881
 Seven Strategic Pillars	3235
@@ -1207,7 +1213,7 @@ Seychelles Vice President Sebastien Pillay	7509
 Shiselweni Pilot	12480
 Shoprite Parow Shoprite Piketberg Shoprite Plettenberg	8999
 Sita. Picture	7058
-Six Functional Pillars Pillar	4528
+Six Functional Pillars Pillar	4528,7984
 Six Strategic Pillars	12444
 Smart Campus. Le Président du Comité de Pilotage	10524
 Smart Government Pillar	395
@@ -1220,20 +1226,21 @@ Solar PV MSB Rosh Pinah Solar	12399
 South Africa. Brazil’s Pix	7284
 Southern Oscillation EOPS Early Oil Pilot	2775
 Specialist TIC GTIDR Tassere Pitroipa Information	10812
-Specialized Talent Pipeline	4528
+Specialized Talent Pipeline	4528,7984
 St Pierre	259
 St Pierre and Petit Gabriel	259
-Stakeholder Management and Communications Pillar	4528
+Stakeholder Management and Communications Pillar	4528,7984
+Starlink Pilot Program	12508
 Startup Pitchathon	10133
 Stephen Pitia	4640
 Strategic Actions for Devolution Pillar Inclusive	940
 Strategic Development Pillars Supported	3861
 Strategic Pillar	1777
-Strategic Pillars	1777,2751,717,7199
+Strategic Pillars	1777,2751,717,7199,68
 Strategic Pillars The National FinTech Strategy	12444
 Strategic Pillars and Objectives The National Cybersecurity	1777
 Strategic Pillars for Eswatini's National Fintech Strategy	12444
-Strategy and Policy Alignment Pillar	4528
+Strategy and Policy Alignment Pillar	4528,7984
 Strengthening South Africa's Digital Skills Pipeline	9985
 Strengthening South Africa’s Digital Skills Pipeline	6832
 Structure Piling Structure Structure Schedule	11134
@@ -1327,5 +1334,5 @@ Yearly Monitoring PIU	10964
 Yearly Regular Project PIU	10964
 Youth and Social Development Pitso Lesaoana	6695
 ZESA Launches Drone Pilot Training Programme	3003
-Zimbabwe-specific AI Ethics Framework. Pillar	4528
+Zimbabwe-specific AI Ethics Framework. Pillar	4528,7984
 Zimbabwean Ethical Values Pillar Alignment Pillar	4528

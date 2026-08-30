@@ -12,7 +12,7 @@ AGCIH Geneva Governance Series Africa	8628
 AGSA Auditor General South Africa AI	11250
 AGSA Consolidated General Report	5549
 AI Attorney General	4126
-AI Characteristics Generally	4528
+AI Characteristics Generally	4528,7984
 AI Generation	6948
 AI Generation.pdf. Rızvı	6948
 AI Music Generator	9739
@@ -196,7 +196,7 @@ Attorney General. Court	6796
 Attorney General. Guidelines	6946
 Attorney General’s Office	6806,4325,3
 Attorney- General	587,8391
-Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,130,94
+Auditor General	121,597,71,365,400,227,30,56,121,524,9,147,166,209,540,634,1127,1078,71,1055,2102,46,617,17,180,720,407,229,229,224,181
 Auditor General Alexis Kamuhire	3043
 Auditor General Cites Missing Audit Committee	9650
 Auditor General Développement	12358
@@ -359,6 +359,7 @@ Company’s Annual General Members’ Meeting	585
 Comptroller General	4102
 Concentrix Egypt Teleperformance General Manager Africa	11162
 Concept and Role for UHC. Geneva	10829
+Conditions Privacy Policy Surveyor General	12511
 Consejero A3 Cónsul General B1 Cónsul	4209
 Consul General	4209,3606
 Consul General Adjunto	4209
@@ -469,8 +470,10 @@ Deputy General Manager of GTSC	3066
 Deputy General Manager of Huawei South Africa	7979
 Deputy Secretary General	9707
 Description USAID GenDev	1169,1
+Development GIS of Generation Projects Petroleum Overview	12515
 Development General	7548
 Development of Gender Based Action Plan	1988
+Diagram Number Search Diagram General Plan	12511
 Diesel Generator Sets	12253
 Digital Egypt Generations	7537
 Digital Gender Divide	12241
@@ -501,7 +504,7 @@ Dirección General. En	9927
 Direction Generale du Budget	11794
 Director Financial Stability Director General Counsel	6938
 Director Genera	11289
-Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11
+Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1
 Director General Adjunto	4209
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Director General Adjunto Ministerio	4209
@@ -999,7 +1002,7 @@ Gendarmerie Education	6959
 Gendarmerie Nationale	3604,816
 Gendarmería	4209,7424
 Gendarmería Nacional	11633
-Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49
+Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37
 Gender Access	11857
 Gender Action Plan	11863
 Gender Advancement	1264
@@ -1022,7 +1025,7 @@ Gender Disinformation	7946
 Gender Disparities	2423
 Gender Diverse	4972
 Gender Division	12415
-Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386
+Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638
 Gender Equality Access	11857
 Gender Equality Act	12253
 Gender Equality Goal	11332
@@ -1144,10 +1147,10 @@ Gendered Voices Newsletter	11332
 Gendered Voices Volume	11332
 Gendering AI	9261
 Gene Roi de Bata	4209
-GeneXpert	3385,964,8069
+GeneXpert	3385,964,8153
 Genealogicalstudieslikewisematchhistoricalre-	8606
 Genebra	10551,199,30,596,17
-General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,20,7,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12
+General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13
 General Abdirahman Mohamed Turyare	10701
 General Abdourahamane Tiani	5580,306
 General Adj. B1 Cónsul General Adj	4209
@@ -1480,7 +1483,7 @@ Generality	27,945
 Generalización	1701
 Generalization Conflicts	12360
 Generalize	1885,10021
-Generally	236,182,300,282,219,24,701,1114,103,422,1093,2405,1295,60,815,906,662,160,150,63,48,626,1,89,195,37,179
+Generally	236,182,300,282,219,24,701,1114,103,422,1093,2405,1295,60,815,906,662,160,150,63,48,626,1,89,195,37,179,126
 Generally Accepted Privacy Principles	8022
 Generally Recognised Accounting Practice	11198
 Generally Resilient	4848
@@ -1495,7 +1498,7 @@ Generate PDF	2518
 Generate PRN	12454
 Generate Report	12367
 Generate and Criteria	12376
-Generated	6666,3365,69,885,1240
+Generated	6666,3365,69,885,1515
 GeneratedTextMode	10848
 Generates	2477,6647
 Generating	771,190,4284,2885,1636,1095,20,1525
@@ -1534,7 +1537,7 @@ GenerationDigital	826
 Generations	4619,4836,1389
 Generations of ICT	10844
 Generative	3651,4809,1279,1401,16
-Generative AI	1363,451,282,85,803,667,407,470,1154,372,509,20,10,10,345,386,214,242,197,157,232,4,1273,409,71,807,200,16,6,130,21,19,590,7,281,36
+Generative AI	1363,451,282,85,803,667,407,470,1154,372,509,20,10,10,345,386,214,242,197,157,232,4,1273,409,71,807,200,16,6,130,21,19,590,7,281,36,266
 Generative AI Answers	12318
 Generative AI Answers URL	12318
 Generative AI Anxiety	3810
@@ -1555,7 +1558,7 @@ Generative Pre-trained Transformer	2816
 Generative Pre-trained Transformer. Para	2816
 Generative Public Platforms	3391
 Generativo Pré-treinado Transformador	2816
-Generator	9123,323,1510,1427
+Generator	9123,323,1510,1427,118
 Generator AH54	9123
 Generator Power	9123
 Generator-based	11140
@@ -1566,7 +1569,7 @@ Generic License	1212
 Generic Tax Audit	12389
 Generizon	8891
 Genesis	2880,703,8453
-Genesis Analytics	2205,1577,71,262,1325,6833
+Genesis Analytics	2205,1577,71,1587,6833
 Genesys Devs	12478
 Genesys OHR	3386
 Genetec ALPR	10293
@@ -1574,7 +1577,7 @@ Genetec Cloudrunner CR-H2	10293
 Genetic	27,945,5548,5665
 Genetic Algorithms. MIT Press. Mkoba	2816
 Genetic Data	1877,10308
-Geneva	26,1,1,368,186,189,190,282,18,870,817,297,568,297,17,393,993,184,3,84,447,146,90,145,1,320,105,5,6,10,13,26,4,10,23,1,10,11,12,5,25,19,10,26,1,54,11,6,102,4,97,99,229,256,30,233,242,10,1,477,155,26,454,689,21,325,4,49,12,24,273,18,154,91,23,139,33,283,348,28,2,110,46
+Geneva	26,1,1,368,186,189,190,282,18,870,817,297,568,297,17,393,993,184,3,84,447,146,90,145,1,320,105,5,6,10,13,26,4,10,23,1,10,11,12,5,25,19,10,26,1,54,11,6,102,4,97,99,229,256,30,233,242,10,1,477,155,26,454,689,21,325,4,49,12,24,273,18,154,91,23,139,33,283,348,28,2,110,46,95
 Geneva AI Summit	7038
 Geneva Convention	10775,66
 Geneva Conventions	3583
@@ -2186,7 +2189,7 @@ Region Gender Age	418,11981
 Region Urban Region Rural Gender Male	12399
 Regional Cybersecurity Coordination Mechanism. On Gender	7452
 Regional Office CH-1211 Geneva	11563
-Registrar General	2707,307,1112,6436,1589,301,31
+Registrar General	2707,307,1112,6436,1589,301,31,13,18
 Registrar General Chikalanga	4538
 Registrar General Davies Chikalanga	3014
 Registrar General HMIS	12338
@@ -2198,13 +2201,13 @@ Registrar General of Zambia	7879
 Registrar General's Department	11032,1032
 Registrar General's Department Com	11480
 Registrar General's Office	2371
-Registrar General’s Department	170
+Registrar General’s Department	170,12344
 Registrar- General Hussaini Ishaq Magaji	10274
 Registration of Telecommunications Service Geneva	12297
 Registro General de Protección de Datos	163
 Registro General de Protección de Datos Personales. Artículo	163
 Registro General de Protección de Datos. Cualquier	163
-Renewable Power Generation and Energy Storage Systems	12418
+Renewable Power Generation and Energy Storage Systems	12502
 Renewvia Energy Kenya Limited Generation	12256
 Report General and Provincial Assembly Elections	12201
 Report Generation	7988
@@ -2376,7 +2379,7 @@ Sub-Director General Servicio	4209
 Sudan's General Administration for Procurement	10008
 Sudan’s General Intelligence Service	10192
 Survey. Ictam General Secretary Exile Njoka	2264
-Surveyor General	11129
+Surveyor General	11129,1382
 Sustainable Development Goals In the UN General	11193
 Swiss Attorney General	4127
 Switzerland Geneva	10764,80,719
@@ -2491,6 +2494,7 @@ Youth-Shaped Income Generation Activities’ Advisory Services	10964
 ZEMA Acting Director General	9424
 ZICTA Acting Director General Collins Chomba	7779
 ZICTIA’s Director General	3458
+ZIMRA Commissioner General Regina Chinamasa Shoko	12505
 ZRA Commissioner General Dingani Banda	7433
 ZRA Director General Dingani Banda	11112
 Zambia Cyber Security Agency Director General	8480

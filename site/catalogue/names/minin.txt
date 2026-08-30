@@ -1,11 +1,13 @@
 AFRICAN LITHIUM MINING	2342
 AFRICAN LITHIUM MINING DE RECHERCHE POUR	2342
+AI for Mining	12512
 AI for Mining Exploration	4528
 African Mining Legal Atlas	2889
 Agriculture Fishing Mining Public	11874
 Bitcoin. Mining	9367
 Business Enterprises Formal Informal Sector Mining	12445
 Christmas Pass Mining	8639
+Companies Registry Acts of Parliament Zimbabwe Mining	12511
 DEAVOUR MINING	2342
 Data Mining	2816,8442
 Data Mining Company	2536
@@ -50,8 +52,8 @@ Male Female Total Mining	12445
 Managing Director of Data Mining Company	2536
 Mandela Mining Precinct	11221
 Mimosa Mining Company	1554
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9
-Mining AI	4528
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67
+Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
 Mining Cadastre Department	10873
@@ -70,11 +72,11 @@ Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
 Mining Sector	2775,9581
 Mining Sector Governance Support	2889
-Mining Sector Optimization and Transformation Zimbabwe	4528
+Mining Sector Optimization and Transformation Zimbabwe	4528,7984
 Mining Technology and Innovation Event	11221
 Mining VP Mohadi Launches National Child	2987,16
 Mining World	7253
-Mining and Agriculture	4528
+Mining and Agriculture	4528,7984
 Mining and Manufacturing	4528
 Mining and Manufacturing Utilities	12445
 Mining and Metallurgy Regions of EU	11007
@@ -87,7 +89,7 @@ Mining and Quarrying NPPI	11152
 Mining and Quarrying and Manufacturing	12445
 Mining of Mineral Deposits	7759
 MiningEntrepreneurshipESG	7253
-MiningTech	4528
+MiningTech	4528,7984
 Minint	9399
 Minister of Energy and Mining	6490
 Minister of Energy and Mining Lejone Mpotjoane	8801

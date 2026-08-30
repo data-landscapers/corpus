@@ -23,7 +23,7 @@ AI Spam	3016
 AI Special Economic Zone	7456
 AI Sphere	1771,480,2853
 AI Sprint	9873
-AI Sprinter	1363,3165
+AI Sprinter	1363,3165,7984
 AI Sprinters	1363
 AI Sprinters Report.pdf	1363
 AI and Emerging Technology Specialist	11750
@@ -74,7 +74,7 @@ Africa-EU Space Partnership Programme	11283
 Africa. African Space Industry Annual Report	6467
 Africa. Speakers	7172,1179
 AfricaNenda Foundation’s Inclusivity Spectrum	4856
-AfricaNenda Inclusivity Spectrum	3977,8292,1
+AfricaNenda Inclusivity Spectrum	3977,8292,1,220
 AfricaNenda Inclusivity Spectrum. Launched	12273
 AfricaNenda Inclusivity Spectrum. Nigeria	4357
 African Initiative for Planetary and Space Sciences	1735
@@ -264,7 +264,7 @@ Causes Of Registered Death With Special	12151
 Causes of Registered Death With Special Programmes	12151
 Cencori and Spitch	8552
 Central Bank of Eswatini Specialist	11131
-Centres of Specialisation	4528
+Centres of Specialisation	4528,7984
 Certificate Spillage	1988
 Certification and Qualifications Specialist	11750
 Chad Urges Speed	2533
@@ -287,11 +287,12 @@ Civic Space Monitor	9022
 Civic Space Open	12336
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Close SpaceX	6467
 Closing Civic Space	1250
 Cocoa Sector Reforms Mr. Speaker	7695
 Code of Code of Conduct for PIU SPMU	1988
+Coega Special Economic Zone	12521
 Collaborative Risks Specific Risk	4528
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Come Honourable Speaker	11246
@@ -303,7 +304,7 @@ Committee. Hon. Speaker	10313
 Common European Data Space for Cultural Heritage	7313
 Communication Specialist	10870
 Communications Act. SpaceX	6825
-Communications Specialist	4528
+Communications Specialist	4528,7984
 Company PMS Premium Motor Spirit	12256
 Competition Space China European Union Data	9816
 Comptabilité SPH	10975
@@ -383,7 +384,6 @@ Deputy Speaker	6871,3442
 Deputy Speaker Madala Mhlanga	7264
 Deputy Speaker Thomas Tayebwa	1210
 Deputy Speaker for Administration and Finance	9585
-Deputy Speaker of House of Representatives	12059
 Der Spuy2020	2117
 Des Pouvoirs Spécifiques Section	37
 Description National Space Research and Development Agency	1274,1196,2103
@@ -491,6 +491,7 @@ Energy Specialist	11136
 Energy Specialist Abalo Irene Jerry Fabiano	12195
 Energy Specialist Selam Tarkeghn Neda	12195
 Energy and AI. World Energy Outlook Special	11310
+English Spanish	12504
 English and Portuguese. Legal and Regulatory Specialist	12008
 Enhanced Speed	5675
 Enterprise Sparx Enterprise	9124
@@ -718,7 +719,7 @@ Indigenous Species	1988
 Inet Spa	3609
 Information Specialist	11525
 Infrastructure Architecture Specialist	12359
-Infrastructure Specialist	4528,1749
+Infrastructure Specialist	4528,1749,6235
 Infrastructure Specialists Administration Design	6832
 Infrastructure Specifications Service	11952
 Innovation and Technology. Speaker Thomas	9121
@@ -824,7 +825,7 @@ Lundas. Spearheaded	9399
 L’espagne Sport	4960,62,2035
 M DHIS2 Spectrum DH	4349
 M Spain	11922
-M&E Specialist	4528,6997
+M&E Specialist	4528,6997,987
 M. Godefroid Matondo Spokesperson	11916
 M. Tanvir Muntasim Senior Education Specialist	11916
 MACRA Slashes Spectrum Licence Fees	3102
@@ -941,6 +942,7 @@ Moyane SP	10780
 Mr. Speaker	7695
 Mr. Speaker Sir	1191
 Mr. Speaker... Madam Speaker. Sorry	10313
+Multimedia and Communications Specialist	12507
 Multinational Spread of US Enterprises	11310
 Muse Spark	9659
 Musk's SpaceX	9608,208
@@ -1009,7 +1011,7 @@ Netherlands and Spain	789
 Network Specialist	9152
 News Police Special Fraud Unit	4725
 Next Generation Radio Frequency Spectrum	5872
-Niche Specialisation and Global Leadership Specific	4528
+Niche Specialisation and Global Leadership Specific	4528,7984
 Nickelcadmium. Specifies	11269
 Nigeria Engaging the Sustainability Blind Spots	8258
 Nigeria IMT Spectrum	5245
@@ -1181,7 +1183,7 @@ Provinces and Spending Agencies	12360
 Provision for Spectrum Management and Mon- CA	6946
 Przestrze Spoleczna	9616
 Public Health Specialist	10374
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178
 Public Procurement Specialized Oversight Authority Inclusive	7548
 Public Spending	5517
@@ -1255,6 +1257,7 @@ Revenue Program Sponsorship	1944
 Revenue and Fiscal Space 4 C. Tax Revenue	10997
 Revenue and Fiscal Space Revenue Structure	10997
 Review of Core Tax Laws Mr. Speaker	7695
+Risk Category Specific Risk	12512
 Risks and Mitigation Measures Specific	1988
 Role Specialization Unit Team Leader	11525
 Royal Speeches	1703
@@ -1457,7 +1460,7 @@ SPÉCIFIQUES	10712
 ST Engineering and Airbus Defence and Space	6482
 STP Message Format Specifications	12364
 Safe Space Club Mentors	10829
-Safe Space for Bold Ideas	4528
+Safe Space for Bold Ideas	4528,7984
 Safe Spaces	10829
 Safeguards Specialist	1228
 Safeguards Specialist Social GSU01 Jose C	11525
@@ -1592,7 +1595,7 @@ Space24 and Starlink	7051
 Space42	4952,2028,4310
 Space42 and BrainSAT Technologies	6980,4310
 Space42 and Esri	6232
-SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361,155,306,270
+SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361,155,306,270,1198
 SpaceX CEO	4912,586
 SpaceX CEO Elon Musk	1980
 SpaceX Complete Starlink Mobile Testing	5562
@@ -1713,7 +1716,8 @@ Spatially	226,7946
 Spaza	8458
 Spaza Shop Support Fund	8458
 Speak	9914,1,77,1141
-Speaker	1150,41,19,73,1013,794,493,499,1137,54,582,91,205,1,1306,237,673,728,25,179,1013,64,324,414,170,4,228,578,354
+Speaker	1150,41,19,73,1013,794,493,499,1137,54,582,91,205,1,1306,237,673,728,25,179,1013,64,324,414,170,4,228,578,354,43
+Speaker Abdi Hashi Abdullahi	12520
 Speaker Jacob Marksons Oboth	10672,218
 Speaker Selection	9399
 Speaker of Nakisunga Subcounty Council	8352
@@ -1733,7 +1737,7 @@ SpecFee	736
 SpecUmt X X X X X	736
 SpecUnit	736
 SpecUnit Spectrum User	736
-Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416,47,43,22,5,11,7,113,156,47,78,11,65,67,16,193,245,8,42,38,12,206,14,26,24,2,4,9,87,1,9,1,22,29,14,10,32
+Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416,47,43,22,5,11,7,113,156,47,78,11,65,67,16,193,245,8,42,38,12,206,14,26,26,4,9,87,1,9,1,22,29,14,10,32,55,12
 Special Adviser	3101,3386,384,8,972,1122,471,785,1739
 Special Advisers	1014
 Special Advisor	6250
@@ -1749,6 +1753,7 @@ Special COVID-19 Social Relief of Distress Grant	6832
 Special Carve-Outs	3861
 Special Categories	3861
 Special Certification Requirements	9123
+Special Circumstances Taxpayers	12509
 Special Conditions of Contract	11252
 Special Control Unit Against Money Laundering	11976
 Special Correspondent	3560,1770,826,233
@@ -1761,7 +1766,7 @@ Special Duties Office	10063
 Special Economic Zone	5793
 Special Economic Zone Regime	12208
 Special Economic Zone for Technologies	2794,9,44
-Special Economic Zones	4528,1633,2593,2470
+Special Economic Zones	4528,1633,2593,2470,1288
 Special Economic Zones Act	6921
 Special Economic Zones Amendment Bill and Technopolis	6161
 Special Economic Zones Authority	5430,1076
@@ -1801,8 +1806,9 @@ Special Investigating Unit	5147,386,2403,1429,529,500,885,707
 Special Investigation Unit	9365
 Special Investigative Unit	5533
 Special Investment Fund	11185
-Special Issue	4676,6480,1146
+Special Issue	4676,6480,1146,206
 Special Issue Energy Poverty	12178
+Special Issues Descriptive Papers Visualisations About	12486
 Special Maintenance Grant	12373
 Special Master	11197
 Special Meeting	8866
@@ -1856,7 +1862,7 @@ Special-purpose entity	8346
 Specialconsiderationshallbegivenwhenachildisfoundguilty	972
 Speciale	8022
 Specialisations	10771
-Specialised	961,48,1517,2002,4075,1585,945,819,424,68
+Specialised	961,48,1517,2002,4075,1585,945,819,424,68,68
 Specialised AI	12210
 Specialised Technical Committee	6997,790,1375
 Specialised Technical Group	3038
@@ -1878,7 +1884,7 @@ Specialits	1988
 Specialization Unit Audrey Anne Alexandra Team	1284
 Specialize	11863
 Specialized	1212,2371,21,4486,1526,2829
-Specialized AI	4528,7682
+Specialized AI	4528,7682,302
 Specialized Agencies and Oversight Bodies	4755
 Specialized Create	4126
 Specialized Hospital	1261
@@ -1886,11 +1892,11 @@ Specialized Operators and Academia	10348
 Specialized Regional Meteorological Centres	11420
 Specialized Subcommittees	3861
 Specialized Subcontractors	1638
-Specialized Talent Pipeline	4528
+Specialized Talent Pipeline	4528,7984
 Specialized Technical	4103
 Specialized Technical Committee	4103,3692
 Specialized Technical Committees	1814
-Specially	12225,11
+Specially	12236,264
 Specially Permitted Procurement Procedure	2512,3
 Specialties Broj	10780
 Specie	4896,642
@@ -1918,6 +1924,7 @@ Specific Procurement Notice	7951,3574
 Specific Procurement Notice SPN Unit for Management	11855
 Specific Procurement Notices	1867,9988
 Specific Restrictions	11956
+Specific Risk	12512
 Specific SDGs	12158
 Specific Security Controls	6432
 Specific Tasks	3678
@@ -2103,12 +2110,13 @@ SpokesPersonsdigest.com	4738
 Spokesperson	5321,1528,2386,349,1694
 Spokesperson Cell	11257
 Spokesperson François Bizimana	2859
-Spokesperson Role	4528
+Spokesperson Role	4528,7984
 Spokesperson Théophile Momokoama	1907
 Spokesperson and Press Secretary	10695
 Spokesperson of PODEMOS	12201
 Spon's Civil Engineering and Highway Works Price	3583
 Sponsor	514,7,10341,385,338,415,210,46,13
+Sponsor Instrument Instrument Sponsor	12490
 Sponsor-level	514
 Sponsor-level. Tanzania Instant Payment System	521
 Sponsored	4634,622
@@ -2198,7 +2206,7 @@ Springer. Ses	8721
 SpringerInternational Publishing	8602
 Sprinkle	1988
 Sprinkler	9123
-Sprint	4528
+Sprint	4528,7984
 Sprout Social's TikTok Marketing Insights	8050
 Sprouts	1248,7989
 Spur Ecosystems Proprietary	7596
@@ -2273,7 +2281,7 @@ Taxe Spécifique Unique	3045
 Tech Chad Urges Speed	2533
 Tech Specs	10956
 TechFinancials. Spanning	2539
-Technical Execution and Expertise Specialized Working Groups	4528
+Technical Execution and Expertise Specialized Working Groups	4528,7984
 Technical Specific Performance Requirements	6432
 Technical Specifications	7266,3690
 Technical Specifications Raxio MZ1 Data Centre	9446
@@ -2287,7 +2295,7 @@ Telecommunications Licence for Special Services	736
 Telecoms Sector Specific Taxes	10856
 Telecoms Spread	11857
 Television White Spaces	11857
-Temporary Speaker	10313
+Temporary Speaker	10313,2201
 Terminology. Specifies	11269
 Terms of Reference. Specific	12240
 Terrestrial Spectrum	5245
@@ -2357,6 +2365,7 @@ University Sports South Africa’s Team SA	432
 University of Botswana Enters VR Space	5852
 Unlock Fiscal Space Paper22nd	7648
 Upload Speed	4130
+Us Sponsor	12493
 Utilization of Space Services	1131
 V. E. Balas. Springer Nature Singapore	6948
 VARIOUS FUNDS The Temporary Speaker	10313

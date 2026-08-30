@@ -13,7 +13,7 @@ AFRICAN ELITE GROUP LIMITED Data Processor	7167
 AFRITRADE CONSULTING GROUP LIMITED Data Controller	7167
 AFSC Working Groups	6938
 AFSR Working Group	6938
-AI Advisory Group	5825
+AI Advisory Group	5825,6687
 AI Capacity Building and Partnerships Working Group	8645
 AI Data and Digital Infrastructure Working Group	8645
 AI Governance Working Group	2958,202,5374
@@ -23,6 +23,7 @@ AI and Digital Services Drive Growth Egypt	11162
 AI and Growing Expertise	10662
 AI and Growth	11140
 AI for Economic Growth and Modernisation Objective	4528
+AI for Economic Growth and Modernisation Objective Lagging	12512
 AI for Inclusive Growth and Job Creation	7588
 AI's Growth Potential	7637
 AI. While the High-Level Expert Group	11050
@@ -37,7 +38,7 @@ AO TECHNOLOGY GROUP LIMITED Data Controller	7167
 AO TECHNOLOGY GROUP LIMITED Data Processor	7167
 APN GROUP LIMITED Data Controller INST-5645818C340	7167
 APN GROUP LIMITED Data Processor INST-5645818C340	7167
-APO Group	2807,5160,1535
+APO Group	2807,5160,1535,3015
 APONN-SOKO GROUP LIMITED Data Controller INST-98208091214	7167
 AROPE GROUP LIMITED Data Processor INST-446058ED2F9	7167
 ASAHI GROUP HOLDINGS	7167
@@ -134,7 +135,7 @@ African Financial Stability Report Working Group	6938,1801
 African Group	10335
 African Growth Opportunity Act	11134
 African Growth and Opportunity Act	2775,8066
-African Union AI Policy Working Group	4528
+African Union AI Policy Working Group	4528,7984
 African Union Advisory Group	5825
 African Union Cyber Security Expert Group	10689
 African Union Cybersecurity Experts Group	8982,376
@@ -278,6 +279,7 @@ Business Advisory Group	11155
 Business Growth and Innovation Phase	9198
 Business Intelligent Services Group BRICS Britain	11250
 Business Reporter DHL Express and Absa Group	10151
+Businesses Read Article Business Empowering Growth	12495
 C.L. and Groth	12090
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781,1646
@@ -329,7 +331,7 @@ CRVS Technical Working Group	12413
 CSP. Le Groupe	1679
 CSquared Group	7286
 CSquared’s Group Chief Technology Officer	3470
-CUG Administrator. Closed User Group	12324
+CUG Administrator. Closed User Group	12484
 CVM. Growth	10793
 CWG Cash Working Group DRC Danish	6947
 CYBERSPACE TECH GROUP LIMITED Data Controller	7167
@@ -398,7 +400,7 @@ Climate Action Grounded	11332
 Climate Change and Green Growth	11863
 Climate Change and Green Growth Consultant	11863
 Climate Hazards Group InfraRed Precipitation	10763
-Closed User Group	762,11562
+Closed User Group	762,11722
 Cloud and Outsourcing Growth	5607
 Clydestone Founder and Group CEO Paul Jacquaye	8514
 Co-Founder and Group CEO	8001
@@ -469,7 +471,7 @@ Data Protection Group	12232
 Data Protection Officers. Group	12193
 Data and Enterprise Group	10793
 Debt Drives Growth	4722
-Decent Work and Economic Growth	5883
+Decent Work and Economic Growth	5883,6610
 Decent Work and Economic Growth Goal	11332
 Dell’Oro Group	11155
 Democratic Republic of Congo SME Growth and Development	10964
@@ -501,7 +503,7 @@ Digital Eswatini Project World Bank Group	6665
 Digital Financial Inclusion Unlocking Growth	1828
 Digital Gabon Project World Bank Group	764
 Digital Health Solutions Platform and Group Chief	11748
-Digital Health Technical Working Group	12418
+Digital Health Technical Working Group	12502
 Digital Imaging and Scanning International Group	7167
 Digital Infrastructure for Growth	4688
 Digital Innovation Employability and Economic Growth Through	12241
@@ -562,6 +564,7 @@ EQUITABLE GROWTH	11867
 EU-UNDP Mayors for Economic Growth Facility	11356
 EUR for Vodafone Group	8037
 Eagle Lion System Technology Group and Tsedey	11741
+Early Childhood Development GDP Gross Domestic	12512
 Early Years for Growth and Productivity	12175
 Ease of Access Working Group	6867,1
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273
@@ -570,6 +573,7 @@ Eastern and Southern African AntiMoney Laundering Group	11131
 Ecobank Group	3844
 Ecobank Group's African	3895
 Econet Group	462,100,403,73,3301,557,951,164,2520
+Econet Group CEO Douglas Mboweni	12503
 Econet Group Chief Executive Officer Douglas	5827
 Econet Site Fund Zimbabwe Group Pension	4896
 Econet Willowvale Group Pension Fund	4896
@@ -850,7 +854,7 @@ Grootvlei	9769,1459
 Grootvlei and Kriel	11228
 Gros Petits Volaille	737
 Grosman	7966
-Gross	236,1881,595,63,2472,2301,297,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18
+Gross	236,1881,595,63,2472,2301,297,1890,247,2,233,28,162,358,10,54,27,113,35,127,3,2,62,73,253,360,1,10,10,50,9,195,1,45,146,4,9,12,7,13,17,18,56
 Gross Amount Accumulated	11955
 Gross Amount Impairment	11955
 Gross Annual N	10407
@@ -875,7 +879,7 @@ Gross Domestic Product GSMA Global System	12395
 Gross Domestic Product Harare Institute of Technology	4528
 Gross Domestic Product Know-Your-Customer Mobile	11130
 Gross Domestic Product Per Capita	8950
-Gross Domestic Product US	12225
+Gross Domestic Product US	12500
 Gross Domestic Product and Gross National Income	2775
 Gross Domestic Products	11289
 Gross Early Childhood Education Figure	12431
@@ -948,7 +952,7 @@ Groundtruthmatrix	8606
 Groundwater	1988
 Groundwater Infiltration Soil	9123
 Groundwater and Boreholes	1988
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68
 Group A	10785
 Group A and Group D	10785
 Group A. The Europe and Central Asia	10785
@@ -1141,7 +1145,7 @@ Groupes de Travail Communal	10964
 Groupes de Travail Thématiques	11944
 Grouping	8605,2180,778
 Grouping Roles Examples	6832
-Groups	573,3553,402,368,483,1455,113,601,3237,778,793
+Groups	573,3553,402,368,483,1455,113,601,3237,778,793,156
 Groups A and B	10785
 Groups Peers	10985
 Groupsofsimilarpatients	8606
@@ -1151,6 +1155,7 @@ Grover	8605,2423
 Grover and Kushwaha	8605
 Grow X Education	6572,1
 Growing	2775,43,1308,399,106,1380,985,552,653,903,1725,527,51,244,245,318,13,90,82
+Growing Businesses Skip	12495
 Growing Concern for Macrofinancial Stability	11140
 Growing Cross-Border Channel	6679,899
 Growing Cross-Border Channel U.S	6679
@@ -1265,7 +1270,7 @@ ICT Sector Growth	6562
 ID Working Group	10765
 ID and KRA PIN. Focus Group	12227
 IDA Credit Non-World Bank Group Financing	3456
-IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1
+IGME United Nations Inter-agency Group for Child	10759,76,2,1,130,902,16,3,451,12,1,135
 IHS Group	10793
 IHS Holding Limited MTN Group Limited	7198
 IHS Towers Group	45
@@ -1403,6 +1408,7 @@ LMICs. Grounding the DPI	10852
 LR Group	9399
 Lagos State Target Group	11314
 Lam Lg Group	12478
+Lance Grootboom	12521
 Laying the Digital Foundations for Economic Growth	12245
 Le Gros Coup Gueule De Rabiot	4960,62,2035
 Le Groupe	1679,8169
@@ -1540,7 +1546,7 @@ Masiyiwa’s Econet Group	6909
 Mass Media Flow and Differential Growth	6948
 Mastercard Center for Inclusive Growth	10977
 Mastercard Foundation Africa Growth Fund	909
-Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1
+Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1,135
 May. The AI Governance Working Group	8534
 Media Reform Coordinating Group	11634
 Mediation Reference Group	9761
@@ -1677,6 +1683,7 @@ Open Group Architecture Framework UML	11184
 Open-Ended Working Group	2117
 Open-ended Working Group	10840
 Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
+Opportunities and Threats TWG Technical Working Group	12512
 Opportunities and Threats Technical Working Group United	4528
 Optical Ground Wire	7036,1502
 Orange Group	1416,105,207,221,2678,511,1031,31,303,201,1420,1,305,1517
@@ -1795,7 +1802,7 @@ Real GDP Growth	940,1835,2880,6202
 Real GDP Growth Inflation Current Account	2775
 Real GDP Growths	2775
 Real GDP Growths of Various Africa Regions	2775
-Real Time Gross Settlement	2857,3863,5550,16,38,40
+Real Time Gross Settlement	2857,3863,5550,16,78,120
 Real Time Gross Settlement System	4517,2461
 Real- Credit Electronic Time Gross Information	6938
 Real-Time Gross	12364
@@ -1857,7 +1864,7 @@ SPEECH Resetting for Growth	7695
 SPIRIT-AI and CONSORT-AI Working Group	8301
 STC Group	4993
 STUDENTS IN EDUCATION. Rwanda Energy Group	12358
-SWIPSS Closed User Group	12324
+SWIPSS Closed User Group	12484
 SYGMA Automated Gross Amount System	969
 SYGMA Système de Gros Montants Automatisé SWIFT	11960
 SYGMA- Système de Gros Montants Automatisé	969
@@ -2007,14 +2014,14 @@ Tax Capacity and Growth	1828
 Teachers Focus Group Discussion	899
 Technical Advisory Group	11572
 Technical Assistance Project for Economic Growth	10774
-Technical Execution and Expertise Specialized Working Groups	4528
+Technical Execution and Expertise Specialized Working Groups	4528,7984
 Technical Group	11401
 Technical Working Group	4528,1152,521,587,2723,341,656,533,598,112,387,37,37,28,15,82,76,35
 Technical Working Group HAC Humanitarian Aid	6947
 Technical Working Group Is the Digital Health	12240
 Technical Working Group UN United Nations	7548
 Technical Working Group UNESCO	12175
-Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97
+Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97,59
 Technical Working Groups. Customer Focus	2775
 Technology Development Agency Strategic Business Group	10157
 Technology Sector Working Group. Zambia’s Securities	12376
@@ -2168,8 +2175,8 @@ Within Shambko Apps Group	10001
 Women Development Groups	12246
 Women Development Groups and One-to-Five	12246
 Work Gross Fixed Changes	236
-Workforce Productivity Growth	4528
-Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381
+Workforce Productivity Growth	4528,7984
+Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381,1378
 Working Group Chaired	6938
 Working Group Cybersecurity Working Group	5677
 Working Group Dates and Time Deadline for Input	10235
@@ -2178,13 +2185,14 @@ Working Group Meeting	10516
 Working Group Pursuant	5677
 Working Group Relevant	5677
 Working Group UHC Universal Health Coverage	12240
-Working Groups	4103,425,2410,3297
+Working Groups	4103,425,2410,3297,2277
 Working Groups MICDE	7548
 Working Groups Meeting	5790
 Working Groups Specifications Document Interoperability	1009
+Working Working Group	12512
 World Bank Country and Lending Groups	10785,219
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
 World Bank Group Board of Directors	2253,2581
@@ -2275,3 +2283,4 @@ Zedcrest Group. Zedcrest	8040
 Zimbabwe Group EBITDA	4896
 Zimbabwe Group Pen-	4896
 Zimbabwe's Real GDP Growth	940
+Zimbabweans Grow Increasingly Dissatisfied	12501

@@ -36,7 +36,7 @@ AUX FINANCES PUBLIQUES Recettes	2342
 AWS Public Sector Blog	1207,1
 Accelerating the SDGs Through Digital Public Infrastructure	5700
 Access Public	12201
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Accountable Public Institutions	11469
 Act PPP Public-Private Partnership PSCBC Public	5533
 Act PPPs Public-Private Partnerships PSCBC Public	11261
@@ -83,7 +83,7 @@ Aicha Fall Publié	7570
 Ali Omar Abdalla Information and Public Relations	2800
 Aligning Public Expenditures	10964,21
 All Public Bodies	12453
-All Public Commissions	4528
+All Public Commissions	4528,7984
 All Public Sector	8670
 Alternatives for Delivering Public Services	1161
 Amendment of Identification Regulations Publish	6512
@@ -97,7 +97,7 @@ Angola Published	10790
 Angolan Public Procurement Annual Report	9399
 Annu Rev Public Health	10881
 Annual Public Lecture	9677
-Annual Public Report	4528
+Annual Public Report	4528,7984
 Annually General Public	7548
 Anselme Akéko Publié	10660
 Apoyo Gestión Finanzas Publicas	4209
@@ -108,7 +108,7 @@ Artificial Intelligence Commissioner. The Public Service	11247
 Assainissement de Djibouti PFR Public Finance Review	11271
 Assembleia Nacional Publicação	14,535
 Assembly Disclosure of Public Records Public Perception	10759
-Assessment P9-31. Public	12225
+Assessment P9-31. Public	12500
 Assessment of Angola Public Procurement System	9399
 Association des Usagers des Services Publics	2328
 Atif Saleem. IGI Global Scientific Publishing	6948
@@ -296,7 +296,7 @@ Comptabilité Publique	3396,208,3223,1074,849,1962,164
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Comptabilité Publique DPP Direction	10712
 Comptes Publics Edith EKIRI MOUNOMBI	1231
-Computers Public Perception of Accountability	10835,3,130,902,16,466,1
+Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Comunicações Publicitárias	11360
 Concessionnaire Public	10975
 Conclusion Public PHC	771
@@ -453,7 +453,7 @@ Digital Public Goods Alliance’s GovStack	5700
 Digital Public Goods Charter	883
 Digital Public Goods Ecosystem Report	7921
 Digital Public Goods. A Digital Public	7921
-Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14,91,34,66,6,43
+Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14,125,66,6,43,4
 Digital Public Infrastructure -DPI Report.pdf	5485
 Digital Public Infrastructure 0.pdf	7242
 Digital Public Infrastructure Based Approach	12214
@@ -529,7 +529,7 @@ Directorate of Public Prosecutions	10416
 Directorate of Public Service Management	3360,4078,670,1805
 Directorate of Public-Private Partnerships	3983,694
 Disclosure Authorized Public Private Partnership Commission	12253
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Discrimination Public Perception of Freedom of Speech	11886
 Discrimination Public Procurement Procedures Access	10759
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241
@@ -537,7 +537,7 @@ Distribution Publique	10975
 Division for Public Institutions and Digital Government	10840
 Documents Publics	3340
 Domestic Economy Public	2775
-Downloads PDF Published	12467
+Downloads PDF Published	12467,19
 Dr. Sílvia Lutucuta and National Director of Public	10776
 Driving Public Sector Transformation	1204
 D’ACCES A L’INFORMATION PUBLIQUE ET AUX	113
@@ -565,7 +565,7 @@ ENCOURAGING PUBLIC ACCESS TO AND USE	1243
 ENSURiNG QUALiTY AND RELEVANCE OF PUBLiC	961
 ENTREPRISES PUBLIQUES	2342
 EPSTC Etablissement Public	12
-EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1
+EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135
 EQUALITY RURAL ECONOMY PUBLIC ADMINISTRATION	10835
 EQUIPEMENTS COLLECTIFS VII.1.1 Public Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.3 Public	10847
@@ -601,7 +601,7 @@ Emerging Public Procurement and Technologies-specific	7548
 Enabler of Public Service Co-creation	2096
 Enabling Digital Public Infrastructure	12438
 Enabling Environment ACCESSIBILITY OF SCHOOLS Public	11918
-Energy Disclosure of Public Records	10835,3,130,902,16,466,1
+Energy Disclosure of Public Records	10835,3,130,902,16,466,1,135
 Energy and Public Utilities Ministry of Local	11332
 Enhance Public Service Delivery	4528
 Enhancing Government Effectiveness for Improved Public	3604
@@ -619,6 +619,7 @@ Equity and Efficiency of Domestic Public Expenditure	12175
 Era for Public Policy	7702
 Eric Ombok. Published Aug	9060
 Erosion of Public Trust. Analysis	4528
+Erosion of Public Trust. Mitigation	12512
 Escola Nacional de Saúde Biombo Prábis Public	11552
 Estado Angolano. Publicado	15
 Estado. Publicado	15
@@ -637,7 +638,7 @@ European Digital Public Infrastructure Steward Organization	6468
 European Journal of Public Health	1824,5173
 Evaluation Report of Public Procurement	969
 Evaluation des Politiques Publiques	4599,1146
-Evidence P9-32. Publication	12225
+Evidence P9-32. Publication	12500
 Exchange of Information Among Public Sector Agencies	12389
 Expand Digital Public Services	6831
 Exploita- Participation Financière Publique	2342
@@ -786,6 +787,7 @@ Health Delivery System Structure Public Private	21
 Health Informatics Published	12246
 Health Ministry of Public Works	1228
 Health Provision Public Perception of Social Protection	10759
+Health Quality Public Perception of Female Leadership	12488
 Hearings and Public Consultation	12062
 Hearings and Public Consultations	12062
 Home Affairs and Internal Security Principal Public	4378
@@ -860,6 +862,7 @@ Information du Trésor Public	1311,724,2277
 Information. Public Disclosure Authorized Public Disclosure	11560
 Informático SUBCOMISSÃO DE MOBILIDADE E PUBLICIDADE	10757
 Initial Public Offering	3391,3743,5242
+Initiatives CAMPAIGN Co-investment Public	12512
 Innovation Laboratory for Public Finance	5587,1
 Innovation and Public Sector Modernisation	1846
 Innovation and Public Sector Modernization	1833,3
@@ -910,7 +913,7 @@ JMIR Public Health Surveill	10919
 JMIR Public Health Surveill. Dec	10919
 JMIR Public Health and Surveillance	10919
 JOSÉ EDUARDO DOS SANTOS. Publicado	13
-JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1
+JUSTICE Public Perception of Easiness	10835,3,130,902,16,466,1,135
 Jackline Akello'. Publication	6639
 Jean Kelly KOUASSI. Publié	5955,194
 Jean Kelly Kouassi. Publié	6109,35
@@ -1055,6 +1058,7 @@ Marchés Publics EAS Exploitation	10876
 Marchés Publics PTBA Plan de Travail	10876
 Maria Grazia Dente Public Health and Infectious	10784
 Market Publishers	10841
+Mass Public Opinion Institute	12501
 Mass Public Service	5665
 Massive Public Interest	6784
 Mastercard Foundation. Published	11918
@@ -1102,7 +1106,7 @@ Ministry of Public Procurement	10964
 Ministry of Public Responsible for G2P	12444
 Ministry of Public Security	5242,5407
 Ministry of Public Security and Immigration	10841
-Ministry of Public Service	431,2326,1460,737,440,2638,2078,702,125,968
+Ministry of Public Service	431,2326,1460,737,440,2638,2078,702,125,968,593
 Ministry of Public Service and Administrative Modernization	3604,7333
 Ministry of Public Service and Employment	10841
 Ministry of Public Service and Human Resource Development	4640,2171
@@ -1183,7 +1187,7 @@ National National AI and Public Service Treasury	7548
 National Observatory of Public Health Technological	11939
 National Public	6832,4015,704
 National Public Administration Information Network	2568
-National Public Digital Infrastructure	4528
+National Public Digital Infrastructure	4528,7984
 National Public Establishment	10948
 National Public Health Agency	9370
 National Public Health Institute	1554,9275,111
@@ -1286,8 +1290,8 @@ Orange Sierra Leone’s Public Relations Officer	11651
 Ousmane DICKO Publié	7057
 Oxford Public International Law	1243
 P505095 Public Disclosure Authorized UPDATED ENVIRONMENTAL	12253
-P9-31. Public	12225
-P9-32. Publication	12225
+P9-31. Public	12500
+P9-32. Publication	12500
 PARENTS III.8.1 Public Cultivateur Eleveur Artisan	10847
 PARENTS III.8.3 Public	10847
 PART II Public Telecommunication Licences Licensing	736
@@ -1319,6 +1323,7 @@ PPG Public and Publicly Guaranteed	11271
 PPP Partenariat Public-Privé PRMP Personne Responsable	10876
 PPP Public Private Partnerships PSC Public	2775
 PPP Public-Private Partnership PPSD Project Procurement	3604
+PPP Public-Private Partnership PUE Power Usage	12512
 PPP Public-Private Partnership ROA Return	11271
 PPP Public-private	10841,539
 PPPP Public-Private-People Partnership PSSA Payment Systems	4126
@@ -1335,13 +1340,13 @@ PSCBC Public Service Bargaining Council UAT	11986
 PSETA Public Service Education and Training Authority	11197
 PUBLIC	1818,632,326,3632,499,33,524,1268,2115
 PUBLIC ADMINISTRATION	10759,78,1,344,706,1,263,1,10,177,1
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
-PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1
-PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135
+PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1,135
 PUBLIC ADMINISTRATION Civil Registration	10837,1503
 PUBLIC ADMINISTRATION HEALTH INCLUSION	12353
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
-PUBLIC ADMINISTRATION Rank	10759,78,1503
+PUBLIC ADMINISTRATION Rank	10759,78,1503,148
 PUBLIC ATTENTION	8794
 PUBLIC BANK OF GHANA FREQUENTLY ASKED	6940
 PUBLIC CAMPUS	2776
@@ -1351,7 +1356,7 @@ PUBLIC DATA PLATFORMS AND INFRASTRUCTURE	3604
 PUBLIC DATA SERVICE PROVIDERS IN GHANA	3386
 PUBLIC DOCUMENT	6422
 PUBLIC DOCUMENT OF THE EUROPEAN BANK	1818
-PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12324
+PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
 PUBLIC ENTITIES	5533,5728
 PUBLIC ENTITIES AND TO PROVIDE	1333
 PUBLIC ENTITIES Table	11986
@@ -1367,6 +1372,8 @@ PUBLIC INVESTMENTS AND ASSETS	5793
 PUBLIC LIMITED COMPANY Data Controller INST-490749FDE56	7167
 PUBLIC LIMITED COMPANY Data Processor INST-490749FDE56	7167
 PUBLIC Members	6940
+PUBLIC NOTICE	12491
+PUBLIC NOTICE ROLL-OUT AND IMPLEMENTATION	12509
 PUBLIC NOTICE The Uganda Communications Commission	4761
 PUBLIC OFFERING OF SECURITIES	3714
 PUBLIC OFFERING OF SECURITIES Application	3714
@@ -1535,7 +1542,7 @@ Proyecto de Publicación	4209
 Príncipe Publicado	3530,2027,15
 Publi	12152
 Publi-Reportage	2608
-Public	7,14,374,23,127,37,136,18,30,1,22,110,62,8,1,28,2,60,101,26,56,18,3,19,1,313,33,51,3,2,18,73,1,36,14,57,103,105,3,211,205,102,63,98,41,73,54,82,33,13,144,49,192,36,91,12,105,14,77,18,50,2,81,184,1,55,19,6,42,279,162,63,20,66,1,20,1,111,211,6,55,3,35,58,129,16,32,16,2,15,47,21,47,1,11,23,31,54,128,88,348,37,10,36,31,76,49,5,10,145,38,46,104,10,2,5,47,41,14,96,29,2,9,13,17,1,91,7,38,98,92,58,3,1,47,74,291,194,50,9,2,69,8,86,34,11,12,77,29,25,55,81,100,51,26,14,23,9,80,44,8,4,5,41,122,138,8,48,21,25,68,17,120,23,43,29,24,58,2,32,12,78,51,11,58,31,48,77,22,5,256,45,122,12,1,4,32,7,4,23,1,9,37,18,31,21,1,12,9,12,3,5,1,10,30,4,55,24,2,3,1,1,19,1,24,1,12,3,19,15,1,16,1,4,9,1,3,6,34,51,10,51,52,55,1,20,4,1,2,20,9,30,71,115,56,1,3,9,8,5,2,24,1,1,9,36,4,3,6,21,2,7,97,66,27,16,4,3,2,4,11,8,7,8,5,8,32,34,15,4,10,3,30,7,3,1,11,10,6,26,25
+Public	7,14,374,23,127,37,136,18,30,1,22,110,62,8,1,28,2,60,101,26,56,18,3,19,1,313,33,51,3,2,18,73,1,36,14,57,103,105,3,211,205,102,63,98,41,73,54,82,33,13,144,49,192,36,91,12,105,14,77,18,50,2,81,184,1,55,19,6,42,279,162,63,20,66,1,20,1,111,211,6,55,3,35,58,129,16,32,16,2,15,47,21,47,1,11,23,31,54,128,88,348,37,10,36,31,76,49,5,10,145,38,46,104,10,2,5,47,41,14,96,29,2,9,13,17,1,91,7,38,98,92,58,3,1,47,74,291,194,50,9,2,69,8,86,34,11,12,77,29,25,55,81,100,51,26,14,23,9,80,44,8,4,5,41,122,138,8,48,21,25,68,17,120,23,43,29,24,58,2,32,12,78,51,11,58,31,48,77,22,5,256,45,122,12,1,4,32,7,4,23,1,9,37,18,31,21,1,12,9,12,3,5,1,10,30,4,55,24,2,3,1,1,19,1,24,1,12,3,19,15,1,16,1,4,9,1,3,6,34,51,10,51,52,55,1,20,4,1,2,20,9,30,71,115,56,1,3,9,8,5,2,24,1,1,9,36,4,9,21,2,7,97,66,27,16,4,3,2,4,19,7,8,5,8,32,34,15,4,10,3,30,7,3,1,11,10,6,26,25,21,1,12
 Public AI	7548,4662
 Public AI Voice and Engagement	7038
 Public Access Centre and Training Centre	11287
@@ -1558,11 +1565,11 @@ Public Accounts SLA Senior Legal Advisor	11198
 Public Accounts Standards Board	10313
 Public Accounts and Audit	9338
 Public Accounts. Help	7096
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135
 Public Administration Business	10837,1315,188
 Public Administration Efficiency Reform Program	6824
 Public Administration Ethics	11182
-Public Administration Health	10835,3,130,902,16,466,1
+Public Administration Health	10835,3,130,902,16,466,1,135
 Public Administration Human Resources Management System	10768
 Public Administration Interoperability Platform	3661
 Public Administration Management Act	11182,14
@@ -1715,7 +1722,7 @@ Public Entity’s General Information Registered Name	11250
 Public Expenditure Consolidate	10157
 Public Expenditure Management	11906
 Public Expenditure Review	11133,783
-Public Expenditure and Financial Accountability	3604,6915,1706
+Public Expenditure and Financial Accountability	3604,6915,1981
 Public Expenditure and Financial Accountability Program	11866
 Public Expenditure and Investment Management Project	969
 Public Expenditure and Investment Management Reform Project	10829
@@ -1778,7 +1785,7 @@ Public Goods Beyond	4848
 Public Goods and Public Choices	1161
 Public Governance	586,1510,2948,5963
 Public Governance No	12333
-Public Health	1988,6617,3648,160
+Public Health	1988,6617,3648,160,95
 Public Health Act	1988,5857,4408
 Public Health Authority	7761
 Public Health Emergency Account	4217
@@ -1787,10 +1794,14 @@ Public Health Emergency Management Information System	4349
 Public Health Emergency Operations Center	12003
 Public Health Emergency Operations Centers	11417
 Public Health Emergency Operations Centers and Outbreak	4260
+Public Health Evaluating EHR	12508
 Public Health Facilities With Service Delivery	12379
+Public Health Figure	12508
 Public Health Informatics Institute	4782
 Public Health Institute of Bangui	10829
+Public Health Medium-Term	12508
 Public Health Minister Fidele Ndayisaba and Alain	6854
+Public Health Mobile	12508
 Public Health Service	10641
 Public Health Specialist	10374
 Public Health State Secretary	11401
@@ -1858,10 +1869,13 @@ Public Money	2093,3
 Public National AI	7548
 Public Network Operator	736
 Public Network Operators	736
-Public Notice	3216,1483,2578
+Public Notice	3216,1483,2578,5214,18
+Public Notice No	12509
+Public Notice Number	12509
 Public Notice TRANSITION FROM ELECTRONIC FISCAL	4699
 Public Notice Today	7277
 Public Notice Uncategorized Voter Registration Tags	12465
+Public Notices Publications Annual Reports Brochures	12515
 Public Notification and Engagement	3861
 Public Offer for Sale	8056
 Public Officer	12349
@@ -1877,35 +1891,35 @@ Public Participation Mechanisms	7548
 Public Participation Public	7548
 Public Participation and Democratic Governance	7548
 Public Payments Utility	11940
-Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Public Perception of Accountability	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Accountability Anti-Corruption	10759,1130,265,9,178
-Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Anti-Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Perception of Anti-Corruption PARTICIPATION	10759,1395
 Public Perception of Anti-Corruption Rule of Law	11889,274,178
-Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Easiness	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Perception of Economic	11870
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Perception of Economic Opportunities Infrastructure	10759,1395
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Female Leadership	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Perception of Female Leadership FOUNDATIONS	12154
 Public Perception of Female Leadership Participation	11889,274,178
-Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Freedom of Speech	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Freedom of Speech Inclusion	10759,1130,265,9,178
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
-Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Inclusion	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178
 Public Perception of Political Participation Rights	10759,1395
-Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Security	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Performance	2096
 Public Petitions Committee	10313
 Public Places Act	11529
@@ -1918,6 +1932,7 @@ Public Policy and Administration	2096,4850
 Public Policy and Communications	6714,3106
 Public Policy and Government Management	5366
 Public Policymaking	678
+Public Portal	12499
 Public Postal	718
 Public Pourcentage	10847
 Public Preparedness	12214
@@ -1940,7 +1955,7 @@ Public Private Shared	8605
 Public Privé	10847
 Public Privé Privé	10847
 Public Privé Privé Privé Communautaire Autre	737
-Public Procurement	969,2954,2509,514,3211,1749,33,369,81
+Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117
 Public Procurement Act	2364,3085,2246,150,771,2632,31,716
 Public Procurement Act Government	7695
 Public Procurement Administrative Review Board	2512,9601
@@ -1954,7 +1969,7 @@ Public Procurement Departments and Agencies	11905
 Public Procurement Directive	11525
 Public Procurement Information Portal	9647,2466
 Public Procurement Office	4633,6646
-Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Procurement Regulatory Authority	1284,354,3811,184,4871,325
 Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
@@ -2010,8 +2025,8 @@ Public Relations. Previously	12249
 Public Report	10718
 Public Reporting and Transparency Obligations	3861
 Public Research Organizations Technical Assistance	12389
-Public Research-Industry	10969,915,1,10,264,1,191,4
-Public Resilience Training	4528
+Public Research-Industry	10969,915,1,10,264,1,191,4,132
+Public Resilience Training	4528,7984
 Public Retail	6938
 Public Roads Act	1988
 Public Roads Act No.12	1988
@@ -2020,8 +2035,8 @@ Public Safety	2775,8456,709
 Public Safety Borders Civil	9067
 Public Schools	899,6047
 Public Secondary Schools and Teachers Training Colleges	2775
-Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34
-Public Sector AI Academies	4528
+Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24
+Public Sector AI Academies	4528,7984
 Public Sector AI Transformation Programme	7548
 Public Sector Accountant	3604
 Public Sector Accounting Standards	6946
@@ -2066,7 +2081,7 @@ Public Sector Reforms Secretariat	8371
 Public Sector Savings and Revenue	1284
 Public Sector Strengthening Project II	11545
 Public Sector Systems Strengthening Plus	1261
-Public Sector Training Lead	4528
+Public Sector Training Lead	4528,7984
 Public Sector Transformation Programme	8469
 Public Sector Use of AI	7548
 Public Sector and Private Sector Investment	1814
@@ -2084,7 +2099,7 @@ Public Security and Digital Economy	1591
 Public Security. Creates	4634
 Public Sensitive Data	11995
 Public Servants Association	2943
-Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324,387,189,180,35,6,83,4
+Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324,387,189,180,35,6,83,4,59
 Public Service AI	7548
 Public Service Act	11178,4,2,17,15,2,62,706
 Public Service Amos Gathecha	10043
@@ -2138,7 +2153,7 @@ Public Service. Government	12453
 Public Service. Mrs. Walson-Jack	7659
 Public Service. Page	12201
 Public Service. The Department	12325
-Public Services	587,1509,2030,1223,5410,76,2,1,130,902,16,1,1,1,66,198,1,9,177,1,11,1,36,70
+Public Services	587,1509,2030,1223,5410,76,2,1,130,902,16,1,1,1,66,198,1,9,177,1,11,1,36,70,29
 Public Services Charter	3375
 Public Services Commission	11,4115
 Public Services Continue	8677
@@ -2147,7 +2162,7 @@ Public Services Political Power	11870
 Public Services Public Perception of Inclusion	10759,78,1315,188
 Public Services for Arbitration	12389
 Public Services for Mediation	12389
-Public Services for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Services for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Services for Women Education Enrolment Public	10759
 Public Services for Women Laws	10759,78,1315,188
 Public Services for Women1	10837
@@ -2167,10 +2182,10 @@ Public Transport Industry Working Group	11494
 Public Transport Regulation	718
 Public Transport for Intercity and City of Kigali	718
 Public Treasury	7290
-Public Trust	4528,4125
+Public Trust	4528,4125,3859
 Public Trust Obligation	3861
 Public Trust and Accountability	3861
-Public Trust and Social Acceptance Trust Building	4528
+Public Trust and Social Acceptance Trust Building	4528,7984
 Public Trust. OECD Public Governance Reviews	2096
 Public USF	736
 Public Universities Higher	6832
@@ -2211,7 +2226,7 @@ Public and Private Telecommunication Licensees	736
 Public and Private Universities	2775
 Public-	7596,3223
 Public- Private Partnership	1131
-Public-Facing Digital Dashboard	4528
+Public-Facing Digital Dashboard	4528,7984
 Public-Interest Projects	10405
 Public-Private	1204
 Public-Private Collaboration	5551
@@ -2228,6 +2243,7 @@ Public-Private Push As Kenya	3890
 Public-Private Sector Dialogue	9344
 Public-Private Sector Dialogue Forum	9135
 Public-Private Stakeholders’ Initiative	11994
+Public-Private ZCHPC and National Data Platform	12512
 Public-Private-Partnership Whenever	12359
 Public-Private-People Partnership	9876
 Public-Sector Innovation Cover	6442
@@ -2266,7 +2282,7 @@ Publican AI Trade Solution	7695,45
 Publican AI Trade Solution Mr. Speaker	7695
 Publican AI. Update	7695
 Publicar	1701,9729,88
-Publication	288,459,1,219,42,175,3,97,93,1,15,119,266,36,53,117,3,4,124,1000,599,148,236,430,55,313,349,1,68,284,71,71,253,439,80,426,100,550,27,70,287,41,189,145,33,145,366,515,99,107,545,80,456,91,33,12,7,40,2,35,1,8,42,28,137,52,90,39,215,26,355,319,100,7,6,51,91,1
+Publication	288,459,1,219,42,175,3,97,93,1,15,119,266,36,53,117,3,4,124,1000,599,148,236,430,55,313,349,1,68,284,71,71,253,439,80,426,100,550,27,70,287,41,189,145,33,145,366,515,99,107,545,80,456,91,33,12,7,40,2,35,1,8,42,28,137,52,90,39,215,26,355,419,13,51,91,1,4,15,12
 Publication AAO J	10876
 Publication AMI J	10876
 Publication Date	11957,236
@@ -2355,7 +2371,7 @@ Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,2
 Publique-se. O Primeiro-Ministro	576,219
 Publique-se. Publicado	13
 Publique-se. Tribunal Supremo	6462
-Publish	396,808,3657,815,747,409,104,15,161,141,295,1851,694,64,922,70,87,560,1,15,42,6,6,40,50,377,26
+Publish	396,808,3657,815,747,409,104,15,161,141,295,1851,694,64,922,70,87,560,1,15,42,6,6,40,50,377,26,140
 Publish Criteria	12376
 Publish DFS	12444
 Publish Date	12259
@@ -2368,7 +2384,7 @@ Publish the Annual	6832
 Publish the Dolinveste	9399
 Publish the Electricity Distribution Industry	11236
 Publish. The Prime Minister	3861
-Published	236,73,87,22,9,352,227,27,155,3,59,129,214,4,144,222,156,47,272,65,15,19,137,35,17,1,48,385,52,252,215,163,10,7,28,261,98,194,94,11,419,72,50,342,95,24,140,4,91,71,109,44,102,47,55,17,34,17,106,39,17,5,95,397,9,331,54,28,7,38,20,27,97,107,50,26,28,10,20,1,20,51,51,19,1,1,33,55,1,30,17,56,5,153,47,12,6,28,50,10,53,116,148,133,162,54,26,1,5,98,5,19,18,75,15,65,201,23,86,66,87,1,46,218,145,21,36,33,362,10,20,51,2,1,81,13,36,36,13,117,1,87,1,3,1,7,5,5,7,2,11,2,1,2,4,1,2,7,1,3,1,3,6,167,9,6,6,49,29,15,7,11,106,156,10,2,16,1,1,1,26,12,37,26,69,2,29,48,13,1,11,15,2,15,3,1,28,4,6,1,4,4,29,2,53,4,2,1,3,1,9,2,1,1,2,2,10,46,18,10,3
+Published	236,73,87,22,9,352,227,27,155,3,59,129,214,4,144,222,156,47,272,65,15,19,137,35,17,1,48,385,52,252,215,163,10,7,28,261,98,194,94,11,419,72,50,342,95,24,140,4,91,71,109,44,102,47,55,17,34,17,106,39,17,5,95,397,9,331,54,28,7,38,20,27,97,107,50,26,28,10,20,1,20,51,51,19,1,1,33,55,1,30,17,56,5,153,47,12,6,28,50,10,53,116,148,133,162,54,26,1,5,98,5,19,18,75,15,65,201,23,86,66,87,1,46,218,145,21,36,33,362,10,20,51,2,1,81,13,36,36,13,117,1,87,1,3,1,7,5,5,7,2,11,2,1,2,4,1,2,7,1,3,1,3,6,167,9,6,6,49,29,15,7,11,106,156,10,2,16,1,1,1,26,12,37,26,71,29,48,13,1,11,15,2,15,3,1,28,4,6,1,4,4,29,2,53,4,2,1,3,1,9,2,1,1,2,2,10,46,18,10,3,43,20,2,6
 Published Aug	9988,314
 Published Data Landscapers	6470,95
 Published Date	12360
@@ -2376,7 +2392,7 @@ Published Journal Publication	12379
 Published Version Available	10878
 Published Works for Persons Who Are Blind	10358
 Published-National-Radio-Frequency-Plan-2026.pdf	7850
-Publisher	187,64,1,96,1,1,1,1,1,111,1,1,1,1,1,1,1,111,46,1,1,1,1,1,1,1,203,1,1,1,1,1,1,1,1,1,1,1,172,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,138,13,121,3,33,12,41,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,796,357,46,1867,880,456,1798,82,632,168,231,677,39,827,466,156,460,502,260,84,86
+Publisher	187,64,1,96,1,1,1,1,1,111,1,1,1,1,1,1,1,111,46,1,1,1,1,1,1,1,203,1,1,1,1,1,1,1,1,1,1,1,172,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,138,13,121,3,33,12,41,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,796,357,46,1867,880,456,1798,82,632,168,231,677,39,827,466,156,460,502,260,84,239
 Publisher Research ICT Africa Workshop	9759
 Publisher The World Bank	4214
 Publisher's Note	766
@@ -2402,7 +2418,7 @@ Quoted Companies and Public Enlightenment	10
 REFUGEE SUB-WINDOW Public Disclosure Authorized	11924
 REGULATORY BODIES Ministry of Finance Ministry of Public	11131
 RES56509 Public Disclosure Authorized Public Disclosure	1228
-RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1
+RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1,135
 RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
 Radio Broadcasting Total Number of Public Broadcasting	12395
 Raise Public Awareness	12214
@@ -2562,8 +2578,8 @@ Sponsoring Consortium for Open Access Publishing	5246
 Springer International Publishing	2518,2158,3346,108,474,3486,137
 SpringerInternational Publishing	8602
 Stability Publications UPDATES Latest Updates Tenders	12390
-Stakeholder Engagement and Change Management Public	4528
-Stakeholder Management and Public Trust	4528
+Stakeholder Engagement and Change Management Public	4528,7984
+Stakeholder Management and Public Trust	4528,7984
 Stakeholders Validate National Public Sector Reform	9730
 State Administration and Public Service	1228
 State Administration and Public Service Ministry of Science	1228
@@ -2620,6 +2636,7 @@ TRIPS Agreement and Public Health	6534
 TRV Temporary Residence Visa PPP Public-Private	11986
 TYPE D'ECOLE ET SEXE III.4.1 Public	10847
 TYPE D'ECOLE ET SEXE III.4.3 Public	10847
+TaRMS. Public Notice	12491
 Table D.1 Public-sector	11248
 Tandy Kuda Lungu. Published	12416
 Tanzanians. Public	9492
@@ -2739,7 +2756,7 @@ Vital Interest and Public Interest	7409
 Vodacom Kenya-Tanzania Public Public Retail	6938
 VoxDevTalk Published	4964
 WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
-WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1
+WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135
 Warns Public Against Crypto Transactions	7754
 Washington Published	10445
 Washington. Published	10443
@@ -2767,7 +2784,7 @@ ZICTA and Public	12453
 ZOUNDWEOGO Public	10847
 ZRA News ZRA WINS BEST PUBLIC	12454
 Zambia Advances Public Sector Digitisation	3088
-Zambia National Public Health Institute	10374,2044
+Zambia National Public Health Institute	10374,2128
 Zambia Targets Full Digitalisation of Public Services	6104
 Zimbabwe College of Public Health Physicians	5203
 Zimbabwe Notaries Public	4896

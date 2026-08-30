@@ -115,8 +115,9 @@ IN-1 Develop CNI Database	11857
 IRENA Public Investments Database	11572
 Incident Database	9968
 Indonesia’s Unified Database of Beneficiaries	11133
-Industrial Statistics Database	10969,926,264
+Industrial Statistics Database	10969,926,264,328
 Infrastructure and Database	11129
+Installers Database Application Forms	12515
 Integrated Database Development	12165
 Integrated Personnel Payroll Database	12254
 Intelligence Database	1000
@@ -155,7 +156,7 @@ PHYSICAL ADDRESSES IN DATABASE	11211
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521
 Passport Database	10714
-Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1
+Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1,135
 Personal Records Database	10714
 Pharmaceutical and Food Legislation Database	11939
 Population Database	10714

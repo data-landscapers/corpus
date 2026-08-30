@@ -11,6 +11,7 @@ Build and Deployment Instructions	5665
 Business Enterprise Use of Financial Instruments	12445
 CAPÍTULO II INSTRUÇÃO E AUTORIZAÇÃO	794
 CAPÍTULO II INSTRUÇÃO E AUTORIZAÇÃO SECÇÃO	794
+CBDC Instruments POS Card Emoney Debit	12490
 CONTINENTAL INSTRUMENTS	961
 Cabo Verde Lending Instrument36	11863
 Cancellation of Queued Payment Instructions Payment	12364
@@ -146,7 +147,6 @@ Juzgado de Instrucción Delegado de Gobierno Jefe de Prensa	4209
 LEGAL INSTRUMENTS AND AUTHORITY	11863
 LEGAL INSTRUMENTS AND AUTHORITY A. Legal	11863
 Le Gouverneur INSTRUCTION N	11522
-Legal Instruments Legal	11865
 Legal and Regulatory Instruments	3678,8330
 Legal and Regulatory Instruments Package	12008
 Legal and Regulatory Instruments Package. Activity	12008
@@ -155,7 +155,7 @@ Minister of General Education and Instruction	3583
 Ministry of General Education and Instruction	3583,5556
 Mutuário. Instrumentos A&S Requeridos	11542
 NATIONAL REGISTRATION REGULATIONS Statutory Instruments	12410
-NET SETTLEMENT INSTRUCTIONS SECTION	12324
+NET SETTLEMENT INSTRUCTIONS SECTION	12484
 Na Instrução	11388
 National Statutes and Principal Legal Instruments	3861
 Net Settlement Instructions	12364
@@ -168,7 +168,7 @@ PSOs. Instruments	12269
 Payment Instruction	12364
 Payment Instructions	12364
 Payment Instructions Submitted	12364
-Payment Instructions and Account Transfers	12324
+Payment Instructions and Account Transfers	12484
 Payment Services Instruction	11821
 Presence of Environmental Fiscal Instruments	12389
 Processing of Net Settlement Instruction	12364

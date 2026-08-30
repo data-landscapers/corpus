@@ -226,9 +226,9 @@ Cross-Country Evidence	10997
 Cross-Country Public Transport Service System	12200
 Cross-Cultural Foundation of Uganda	3745
 Cross-Cutting Enablers	11940
-Cross-Cutting Enablers Framework Seven	4528
-Cross-Cutting Integration Integration	4528
-Cross-Cutting Integration Themes	4528
+Cross-Cutting Enablers Framework Seven	4528,7984
+Cross-Cutting Integration Integration	4528,7984
+Cross-Cutting Integration Themes	4528,7984
 Cross-Cutting Observations	7151
 Cross-Cutting Requirements	6423
 Cross-Cutting Requirements Significant	6423
@@ -240,8 +240,8 @@ Cross-Enterprise Cross-Enterprise User SOAP	1009
 Cross-Enterprise Docum	1009
 Cross-Enterprise SAML	1009
 Cross-Enterprise Sharing of Medical Summaries XUA Extensible	1009
-Cross-Functional	4528
-Cross-Pillar Synergies The AI	4528
+Cross-Functional	4528,7984
+Cross-Pillar Synergies The AI	4528,7984
 Cross-Reference	1009
 Cross-Regional Learning Session	5485
 Cross-Section of Officials	7142
@@ -251,7 +251,7 @@ Cross-Sectional Survey Among Users Skip	10919
 Cross-Sectional Survey Among Users URL	10919
 Cross-Sector Collaboration for Research and Advocacy	6936
 Cross-Sector Coordination	12356
-Cross-Sectoral Coordination Forums	4528
+Cross-Sectoral Coordination Forums	4528,7984
 Cross-Svstem I. The Government of Mozambique	4260
 Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,41,264,52,82,31,136,495,197,114,6,4,56,221,133,269,137,4,34,1,171,19,48,37,32,142
 Cross-border Based	961
@@ -316,6 +316,7 @@ CrossBoundary Energy	9148
 CrossBoundary Energy Nigeria Infrastructure	11469
 CrossCurrents	9739
 CrossRef	2096,8823
+Crossborder	12490
 Crossexcel Technologies Ltd Data Processor INST-5269420F1FE	7167
 Crossing	8283,3611
 Crossings	9399
@@ -461,7 +462,7 @@ Global Cross-Border Transaction Process	2777
 Global Crossing	4676
 Government of Burkina Fa Crosswalk	337
 Government of Crosswalk	127
-Grand Baie La Croisette	12000,269,1
+Grand Baie La Croisette	12000,269,1,220
 Growing Cross-Border Channel	6679,899
 Growing Cross-Border Channel U.S	6679
 Growing Cross-sector Digital	12214

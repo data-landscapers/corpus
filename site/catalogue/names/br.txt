@@ -479,10 +479,10 @@ Braille	899,8108,760,219,690,1299,63,193
 Braima CamaÉ	11544
 Brain	4126,500,2525,3989,412
 Brain Builders Youth Development Initiative	6705
-Brain Circulation	4528
-Brain Drain	4528,3068
+Brain Circulation	4528,7984
+Brain Drain	4528,3068,4916
 Brain Drain Migration	12164
-Brain Gain	4528
+Brain Gain	4528,7984
 BrainSAT	6980,4310
 BrainSAT Satellite Services	6980
 BrainSAT Satellite Services and Thuraya	6980
@@ -503,7 +503,7 @@ Branca	11373
 Branca Fim de Local	11373
 Branca Formato da Placa	11373
 Brancas Formato da Placa Rectangular III	11373
-Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,231,44,1,213
+Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,275,1,213,17
 Branch AOP	11218
 Branch Appointment Booking System	2115,1085
 Branch Appointment Booking System DMO District	11986
@@ -518,7 +518,7 @@ Branch Kenya CEO	11119
 Branch Number	12397
 Branch Office	7909,2955
 Branch Operations	11986
-Branch Report	12225
+Branch Report	12500
 Branch. The DHA	5533
 Branche	737,10138
 Branche Aucun SYSCOHADA Cahier de Non	10875
@@ -539,6 +539,7 @@ Brand Africa	8919
 Brand Equity	6946
 Brand Equity The Authority	6946
 Brand Finance	10969,926,264,1,45,146,4
+Brand Finance About the Global Innovation Index	12487
 Brand Name	6946
 Brand Trust	3487
 BrandIn WordPress Lightbox X	12390
@@ -702,7 +703,7 @@ Breach TRENDING	3279
 Breach Triage And The Insurer’s First	6632
 Breach of Child's Privacy	11956
 Breach of Contract	12400
-Breaches	4528,3826,286,487,1637,1468
+Breaches	4528,3826,286,487,1637,1468,280
 Bread	6921,1537,2676
 Breadcrumb Navigation	11877
 Breadfast’s US	4972
@@ -826,7 +827,7 @@ Briclinks Africa Plc Chief Executive Officer	11764
 Brics	3318,5574,754
 Bride	10814
 Bride and Groom Expo	12108
-Bridge	958,1030,783,146,72,567,570,402,97,888,3604,2118,54,367,296
+Bridge	958,1030,783,146,72,567,570,402,97,888,3604,2118,54,367,296,560
 Bridge Academies	10290
 Bridge Bank	5324,5020
 Bridge Builders Circle	6808
@@ -893,7 +894,7 @@ Bridging the Gaps	1751,8967
 Bridging the Knowledge Gap	11927
 Bridging the Mobile Gender Gap	11004
 Bridier	9129
-Brief	22,218,1748,489,111,86,343,697,2436,1440,296,720,1847,369,449,254,54,300,259,115,71,32
+Brief	22,218,1748,489,111,86,343,697,2436,1440,296,720,1847,369,449,254,54,300,259,115,103,128
 Brief Description	1988
 Brief Description of Scope	1988
 Brief Digital Identity and Migration	11006,1
@@ -1468,6 +1469,7 @@ Central Bank of Brazil	5124
 Central Bank of Brazil. Brazil	11922
 Central Bank of Sudan Branch	5864
 Centre Broadcasting Monitoring Centre Type Approval	9109
+Channels Branch ATM	12490
 Chapter-Eleven Breakthrough.pdf	7573
 Checker News Brief Star-farmer Twitter Space	9646
 Chef du Gouvernement Brice Clotaire OLIGUI NGUEMA	11580
@@ -1829,7 +1831,7 @@ Government Last Mile Broadband Connectivity Project	2256
 Grande Bretagne	8891
 Gratif. Cantidad Total General Salario Bruto	4209
 Great Britain	12369
-Great Britain and North Ireland	12225
+Great Britain and North Ireland	12500
 Great Britain and Northern Ireland United Nations	11765
 Groom Bride	12413
 Groom and Bride	12413
@@ -2124,6 +2126,7 @@ NCC Nigerian National Broadband Plan	11857
 NCC Project BRIDGE	8207
 NCC. Nigerian National Broadband Plan	11857
 NEED TO IMPROVE BROADBAND ACCESSIBILITY	3604
+NFC Browser Biographic	12490
 NIGCOMSAT The Nigerian National Broadband Plan	11857
 NIGERIA DATA CENTER MARKET BRIEFING	4525
 NIMC Nigerian National Broadband Plan	11857
@@ -2323,6 +2326,7 @@ Proprietor of Valencia Schools and Greenwood British School	7444
 Public Broadcaster	718
 Public Broadcasting Scorecard	8481
 Public FTA FM Common-Carrier Broadcasting Signal	6946
+Public Notices Publications Annual Reports Brochures	12515
 Publicity and Broadcasting Services	972
 Publicity and Broadcasting Services Minister Dr Zhemu	11618
 Pueblo Salario Bruto República D.E.S. Mensual	4209
@@ -2331,8 +2335,8 @@ Qatar Yes Qatar National Broadband Plan	11529
 Quadruple Cable Break	2677
 Quarter-on-Quarter Fixed Broadband	2776
 Quarterly BRB	1284
-Quarterly Strategic Briefing	4528
-Quarterly Strategic Briefings	4528
+Quarterly Strategic Briefing	4528,7984
+Quarterly Strategic Briefings	4528,7984
 R Receitas Brutas	2866
 RAPID TRANSIT BRT ENTRE YOPOUGON ET	2342
 RBA Rwanda Broadcasting Agency REMA Rwanda	718
@@ -2658,6 +2662,7 @@ Yoco Primedia Broadcasting	7253
 Young The Nigerian National Broadband Plan	11857
 Yves Brosens	11880
 Yvonne Boatemaa-Yeboah and Henrietta Brobbey Ameyaw	9535
+ZBC Zimbabwe Broadcasting Corporation ZCHPC Zimbabwe	12512
 ZIMBABWE CABINET SEVENTEENTH POST-CABINET PRESS BRIEFING	11791
 ZIMBABWE DATA CENTER MARKET BRIEFING	3185
 Zambia Brunei Darussalam	10785

@@ -7,7 +7,7 @@ ACTUAL CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO CATEGORÍA MINISTERIO	4209
 ACTUAL MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO	4209
 AI Governance. Catherine Nzuki	7588
-AI Strategy Risk Matrix Risk Category	4528
+AI Strategy Risk Matrix Risk Category	4528,7984
 ALL SAINTS' CATHEDRAL CHURCH Data Controller	7167
 ALPESHY CATERERS LTD Data Controller INST-585595F4C72	7167
 ARCHERS POST CATHOLIC HEALTH CENTRE Data	7167
@@ -141,7 +141,7 @@ Catalytic Agents	2957
 Catalytic Are Political Development and Corruption	1828
 Catalytic First Loss Guarantee	8937,1,141
 Catalytic First Loss Guarantee Program	8938,141
-Catalytic Fund	3385,9033
+Catalytic Fund	3385,9117
 Catalytic Policies	3861
 Catalyzed	12241
 Catalyzing	1914,7845
@@ -182,7 +182,7 @@ Categories Information Technology	9892
 Categories News	9936
 Categories Security	10759
 Categories Startups When Africa	10010
-Categories Sub-categories	10835,3,130,902,16,466,1
+Categories Sub-categories	10835,3,130,902,16,466,1,135
 Categories Tech and Innovation Every	10015
 Categories and Sub-categories	11889,274
 Categories of Eligible Expenditures Category	10964
@@ -196,12 +196,13 @@ Categorization Does	11863
 Categorization of Lamu Basin Blocks Category Blocks	12256
 Categorização	3519,2943
 Categorizing	12445
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,7,33,3,1,11,1,20,59
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12
 Category A1	11868
 Category A2	11868
 Category Allocated Financed	11525
-Category B	7695,4173,92,177
-Category C	5005,2690,4173
+Category B	7695,4173,92,177,372
+Category B Taxpayers	12509
+Category C	5005,2690,4173,641
 Category Class Number	12256
 Category Classified Level	10157
 Category D	11868
@@ -215,6 +216,7 @@ Category Grant Allocated Financed	2474
 Category HQ Location Digital Africa	4972
 Category I Sub-regional Offices	12337
 Category II	12337
+Category Infrastructure Deficits	12508
 Category Licence Category FY	6946
 Category Not Required	11924
 Category One and Category Two Authorised CASP	8840
@@ -460,6 +462,7 @@ Mº de CATASTRO Y ORDENACION DE TIERRAS	4209
 NASA Harvest's Catherine Nakalembe	5367
 Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
 National AI Strategy Ecosystem Category	4528
+National AI Strategy Ecosystem Category Entities	12512
 National Product Catalogue	3400
 News Categories News Stories Press Release	12465
 No. Category Allocation Committed Allocation	2473
@@ -473,7 +476,7 @@ Occupational Category	7151
 Official Use Only Risk Category Rating	11469
 Official Use Only Risk Category Risks	11469
 Otmane Gair Catégorie	8891
-Overall Governancep.7 Category	10838,1032,482
+Overall Governancep.7 Category	10838,1032,482,136
 PAR CATÉGORIE AU	3396
 POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PRIMERA CATEGORIA	4209
@@ -508,6 +511,7 @@ Risk Category Latest ISR Rating Current	1284
 Risk Category Proposed Rating Political and Governance	11395
 Risk Category Rating	969,898,1737,2935,4229,61,135,416,37,108,35
 Risk Category Socio-Ethical Risks Geopolitical	4528
+Risk Category Specific Risk	12512
 Risk Category V	9123
 Risk Category and Sub- Impact	12241
 Rubaga Cathedral	4954
@@ -556,6 +560,7 @@ TESORO PÚBLICO MINISTERIO CONCEPTO CATEGORÍA	4209
 TM Forum Catalyst	7490
 Tariff Category	9409
 Tariff Category Facility Charge	12394
+Tax Periods. ITEM CATEGORY VAT RETURNS	12509
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
 Threshold Category Open Open Short List	11855

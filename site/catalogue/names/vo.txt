@@ -70,6 +70,7 @@ Bakisa Vocational Training Centre Data Processor	7167
 Bayobab Zambia and Vodacom Moçambique	11234
 Benin Launches First Local Language Voice	3150
 Benin Unveils First Localized Voice-to-Voice AI	3198
+BibTeX Issue Vol	12486
 Billions Volumes	4517,2461
 Bimodal Voter Accreditation System	8987,403,659,5,200
 Biometric Voter Registration	3758,7357
@@ -114,6 +115,7 @@ CONSEQUENCES OF VOTING AGAINST OR ABSTAINING	4896
 CONSTITUIÇÃO DAS ASSEMBLEIAS DE VOTO	11528
 COURIER VOLUMES	6000
 COURIER VOLUMES Postal	6000
+CPoS Vol	12486
 CSV. Vous	747
 CXTRYY6YTT7H00PU VO	8546
 Cabo Verde's Automatic Voter Registration System	11983
@@ -500,7 +502,7 @@ Mozilla Common Voice	8096
 Moçambique. VOA. Disponível	2816
 Ms. Sylvia Vortia	3833
 Municipality and District Total Volume	8999
-Mushagashe Vocational Training College	4528
+Mushagashe Vocational Training College	4528,7984
 My Vote Counts NPC	11986
 NAM NSA 2013 NLFS Vo2	9485
 NAM NSA 2014 NLFS Vo3	9485
@@ -670,8 +672,8 @@ Subscriber Voice Data	3862
 Subscribers Vodafone Egypt	11642
 Supplementary Registration of Voters. View	12350
 Supplementary Voter Registration	9314
-Supporting Voluntary Compliance	12225
-Supporting Voluntary Compliance P3-8. Scope	12225
+Supporting Voluntary Compliance	12500
+Supporting Voluntary Compliance P3-8. Scope	12500
 Suprema Justicia Ministro de Estado Ministro Vocal	4209
 Suprema Justicia Ministro de Estado Vocal de Mesa	4209
 System VoIP Voice	6671
@@ -764,7 +766,7 @@ VOLTA Disaggregation	582
 VOLUME	11955
 VOLUME GLOBAL DE TRÁFEGO DE VOZ	11531
 VOLUME OF VENTURE CAPITAL EXITS	4972
-VOLUMES	6978
+VOLUMES	6978,5512
 VOLUMES RTGS	4517
 VOLUNTARY DELISTING	4896
 VOLUNTARY DELISTING Assisted	4896
@@ -1030,7 +1032,7 @@ Voices Residents	9666
 Voices for Interactive Choice and Empowerment	9082
 Voices of Migrants	12227
 Voices.’ Community Priorities and Perceptions	6947
-VoicesAfrica. Afrobarometer Dispatch No	12192,86
+VoicesAfrica. Afrobarometer Dispatch No	12192,86,223
 Voici	2441,72,219,425,369,841,1045,783,188,900,610,3776,55
 Voidable	3714
 Voidance of Preferential and Undervalued Transactions	12389
@@ -1091,7 +1093,7 @@ Voltage Required AC	34
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117
 Volume CXVII	1844
 Volume Down Global	4972
 Volume Financeiro	11434
@@ -1102,6 +1104,7 @@ Volume Part	4459
 Volume Part Montant	4459
 Volume Weighted Average Price	4896
 Volume Weighted Average Prices	4896
+Volume XII Issue XV	12508
 Volume and Value of Stocks	10
 Volume and Value of Venture Deals	4972
 Volume de HFO	10975
@@ -1124,7 +1127,7 @@ Volume of Venture Capital Exits	4972
 Volume of Venture Capital Funds	4972
 Volume of Venture Deals	4972
 Volumen	10780
-Volumes	579,391,2883,1119,4809,1469,571,179,256,13,1,69
+Volumes	579,391,2883,1119,4809,1469,571,179,256,13,1,69,151
 Volumes Values	12252
 Volumes Volumes	10975
 Volumes of Mobile Voice and Mobile Data Traffic	2776

@@ -19,7 +19,7 @@ AI Governance Workshop	10343
 AI Innovation and Technological Solutions Working Group	8645
 AI Revolutionizing Industries Worldwide	6948
 AI Sensitisation Workshop	7261
-AI Strategy Implementation Office and Technical Working	4528
+AI Strategy Implementation Office and Technical Working	4528,7984
 AI Working Group	3651
 AI and Education. World Bank	6948
 AI and Future of Work Compact	7548
@@ -46,8 +46,8 @@ AWPB. The World Bank CAR Health	10829
 Abbreviation Full Wording CCS Collective Sudan	6947
 Abbreviations WHO World Health Organization	766
 Abdiaziz Ahmed Workshop	11195
-Abisoye Coker-Odusote and World Bank Country Representative	12059
 About ID4D The World Bank Group	10812
+About Us How We Work	12493
 Abstract The World Bank Enterprise Survey	10862
 Academy of Contemporary China and World Studies	1554
 Acting Country Manager for World Bank Liberia	4285
@@ -86,7 +86,7 @@ African Development Bank Working Paper. Global	10718
 African Development Bank and World Bank	9338
 African Financial Stability Report Working Group	6938,1801
 African Government. World Wide Web Foundation	1243
-African Union AI Policy Working Group	4528
+African Union AI Policy Working Group	4528,7984
 African Union and World Bank	11839
 African Workers	226
 African World Heritage Fund	11283
@@ -275,7 +275,6 @@ Components The World Bank Guinea-Bissau Human	11560
 Computer Supported Cooperative Work	226,1870,9994
 Concern WorldWide	12181
 Concern Worldwide Data Controller INST-21596411DEC NAIROBI	7167
-Confirms the World Bank	2780
 Congo Digital Acceleration Project World Bank	987
 Congo. ICTD Working Paper	12369
 Connected World	6168,151,1
@@ -346,7 +345,7 @@ Data for Policy and Digital Product Design. Work	12241
 Data. The World Bank	11483
 Decent Work	226,6386,1,489
 Decent Work and Economic	11855
-Decent Work and Economic Growth	5883
+Decent Work and Economic Growth	5883,6610
 Decent Work and Economic Growth Goal	11332
 Decide for Work	7396
 Deder Wored	1219
@@ -390,7 +389,7 @@ Digital Forms Document Upload Workflow Automation	12211
 Digital Futures Programme Inception Workshop	10290
 Digital Gabon Project World Bank Group	764
 Digital Governance and Economy Project World Bank	772
-Digital Health Technical Working Group	12418
+Digital Health Technical Working Group	12502
 Digital ID Wallet. Working	9147
 Digital Identity Infrastructure Work	4848
 Digital Payment Delivery Component World Bank	787
@@ -521,7 +520,7 @@ Fourth World Conference	11193
 Fragmented World	6418,1439,717
 Free Movement of Workers	12164
 Free and Trusted Data Flows. World Economic	1243
-Freedom House WJP World Justice Project	10835,3,130,902,16,466,1
+Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135
 Freedom Worst	10759
 Frequency WEF World Economic Forum	236
 FrontIine Healthcare Workers	4260
@@ -619,7 +618,7 @@ H. World Bank Grievance Redress	11525
 H.E. Dr. Worku Gachena Negera	5825
 HD Remote Work	6051
 HEALTHCARE WORKERS	4153
-HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1
+HEI Health Effects Institute WRI World	10835,3,130,902,16,466,1,135
 HITs and Woreda	1219
 HPC Workshops	9475
 Harbin Ice and Snow World	8460
@@ -984,6 +983,7 @@ Open Worldwide Application Security Project	7283,3982
 Open-Ended Working Group	2117
 Open-ended Working Group	10840
 Opinion Polling Working	1363
+Opportunities and Threats TWG Technical Working Group	12512
 Opportunities and Threats Technical Working Group United	4528
 Opportunity Awaiting Action The World	4535
 Optimize Community Health Worker Programmes. Geneva	1219
@@ -1020,7 +1020,7 @@ Partners MACROECONOMIC FRAMEWORK World Bank Implement	11906
 Partnerships The World Bank	10857
 Passports and Work Permits Issued	2775
 Payments Work and How They Have	5124
-Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1
+Peace WID.World World Inequality Database FH	10835,3,130,902,16,466,1,135
 Performance-Based Allocations. World Bank	10997
 Pharmacv WorkersI Year U.S. Government Federal	4301
 Pharmacy Workers Year U.S. Government	4153
@@ -1271,6 +1271,7 @@ States Ministries of Works	11129
 Stats SA. Work Programme	11237
 Stats SA’s Work Programme	11237
 Statstics Digitalization Works	1788,1417,3881
+Story Meet the Team Our Work Programs	12493
 Strategic Investment Working Group	4787,2003
 Strategic Workforce Planning	11134
 Strategic Workforce Planning The Strategic Workforce	11131
@@ -1309,14 +1310,14 @@ Targeted Free Healthcare Policy. The World	10829
 Tax Administration Reforms. IMF Working Paper	10997
 Tax World Economic Outlook Annual Integrated	11134
 Tax World Economic Outlook South African	11131
-Technical Execution and Expertise Specialized Working Groups	4528
+Technical Execution and Expertise Specialized Working Groups	4528,7984
 Technical Working Committee	9874,189,93,157
 Technical Working Group	4528,1152,521,587,2723,341,656,533,598,112,387,37,37,28,15,82,76,35
 Technical Working Group HAC Humanitarian Aid	6947
 Technical Working Group Is the Digital Health	12240
 Technical Working Group UN United Nations	7548
 Technical Working Group UNESCO	12175
-Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97
+Technical Working Groups	1965,2563,3020,4259,141,227,65,68,48,97,59
 Technical Working Groups. Customer Focus	2775
 Technical Working Sessions Technical	7548
 Technology Sector Working Group. Zambia’s Securities	12376
@@ -1414,7 +1415,7 @@ WBG World Bank	11965
 WBG World Bank Group WEF World	11380
 WDA Workforce Development Agency YES Youth	12329
 WEF World Economic Forum	11887,266,1,9,178
-WEF World Economic Forum United Nations	10835,3,130,902,16,466,1
+WEF World Economic Forum United Nations	10835,3,130,902,16,466,1,135
 WFP Technical Working Group	12297
 WFP World Food Program The World	11560
 WFP World Food Programme Regional Vice	11525
@@ -1536,6 +1537,7 @@ Work-Integrated MICT SETA DHET	6832
 Work-based	6948
 Work. Pretoria	6832
 Work4Youth	11581
+Workarounds	12490
 Workbooks	11241
 Workday	6432,3337
 Worked	5231,3359,3663
@@ -1544,7 +1546,7 @@ Worker Information	11939
 Worker Livelihoods	226
 Worker Programs	12255
 Worker Tvpe	4301
-Workers	226,1762,1803,469,268,809,1611,154,990,799,2089,1273
+Workers	226,1762,1803,469,268,809,1611,154,990,799,2089,1273,259
 Workers Compensation Fund Control Board	1988
 Workers Compensation This Act	1988
 Workers Organisation Workers Organisation	1988
@@ -1558,26 +1560,27 @@ Workflow of RCI Birth Registration Process	10765,10
 Workforce	21,6582,229,716,203,2437,576,16,196,155,3,1,739,7,1,464,10
 Workforce Development	6948
 Workforce Development Agency	12329
-Workforce Development and Lifelong Learning Zimbabwe	4528
+Workforce Development and Lifelong Learning Zimbabwe	4528,7984
 Workforce Development and Skills	4528
 Workforce E-Health Strategy Vision Mission Objectives	21
 Workforce Leadership and Governance	21
 Workforce Percentage	11882
 Workforce Planning University of Eswatini United States	11134
-Workforce Productivity Growth	4528
+Workforce Productivity Growth	4528,7984
 Workforce Readiness	9204
 Workforce The ES	11874
+Workforce Transform	12512
 Workforce Transition	7548
 Workforce WHO and Global Polio Eradication Initiative	10776
 Workforce-training	5773
-Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66
+Working	40,604,74,243,402,217,287,12,61,1285,370,300,232,721,434,45,186,277,546,134,72,23,269,346,140,411,145,553,20,156,54,5,1,153,284,19,364,451,124,804,1,99,6,172,7,66,6,75,60,185,319,76,18,46,227,14,28,1,109,66,45,3
 Working Better Together	970
 Working Capital	11240
 Working Capital Statement	5538
 Working Days	762
 Working Definitions	12360
 Working Digital Money	226
-Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381
+Working Group	1824,992,1287,425,757,391,1,3,1,742,369,146,1265,282,268,2381,1378
 Working Group Chaired	6938
 Working Group Cybersecurity Working Group	5677
 Working Group Dates and Time Deadline for Input	10235
@@ -1586,12 +1589,12 @@ Working Group Meeting	10516
 Working Group Pursuant	5677
 Working Group Relevant	5677
 Working Group UHC Universal Health Coverage	12240
-Working Groups	4103,425,2410,3297
+Working Groups	4103,425,2410,3297,2277
 Working Groups MICDE	7548
 Working Groups Meeting	5790
 Working Groups Specifications Document Interoperability	1009
 Working Hours	12211
-Working Paper	1243,585,3872,5063,78,156,1009,152,69,51,54
+Working Paper	1243,585,3872,5063,78,156,1009,152,69,51,207
 Working Paper E-tax System Adoption and Tax	12162
 Working Paper No	7886,3078
 Working Paper Series	5700,1522
@@ -1604,6 +1607,8 @@ Working Party's Opinion	7081
 Working System Reducing	10555
 Working Together	11332
 Working Visit	11284
+Working Working Group	12512
+Working Working Working Working Working Working	12512
 Working-age	8459,2812
 Workload	771,8357,2081
 Workload Classification Framework A2- Framework	7548
@@ -1620,7 +1625,7 @@ Workplace-Based Learning	6832
 Workplace-based	6832
 Workplaces	11271
 Workplan and Timeline	3058
-Works	22,12,616,988,350,901,1033,512,94,1668,1755,3180,9,385,225,107,6,42,117,73,66,215
+Works	22,12,616,988,350,901,1033,512,94,1668,1755,3180,9,385,225,107,6,42,117,73,66,215,136
 Works Department The Local Government	11129
 Works Engineer	11129
 Works Minister Fred Byamukama	12095
@@ -1666,8 +1671,8 @@ World Artist	2626
 World Athletics Indoor Championship	2626
 World Athletics Indoor Championships	2626
 World Athletics Indoor Championships.c	2626
-World Atlas	12225
-World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,20,7,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,7,23,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,6,2,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36
+World Atlas	12500
+World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12
 World Bank ADePT	12373
 World Bank AI	6948
 World Bank Adaptive Safety Nets	10963,1
@@ -1776,13 +1781,13 @@ World Bank ESS	1988
 World Bank ESS3	1988
 World Bank ESSs	1988
 World Bank Ease of Doing Business	10841
-World Bank Ease of Doing Business Index	4528
+World Bank Ease of Doing Business Index	4528,7984
 World Bank Eastern and Southern Africa	1867
 World Bank Education	3604
 World Bank Enhancing the Social Protection	10768
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132
 World Bank Enterprise Surveys. Washington	11140
 World Bank Environment	1988
 World Bank Environmental	11469,784
@@ -1796,7 +1801,7 @@ World Bank Environmental and Social Standards Description	1988
 World Bank Excessive	10856
 World Bank Executive Director	11134
 World Bank Executive Director Africa Group	11134
-World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1
+World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
 World Bank FM	1284,583,4672,4290,696,330
 World Bank Feature Story	7644
 World Bank Fiduciary Management and Procurement	11905
@@ -1822,13 +1827,13 @@ World Bank GovTech	1393,3844
 World Bank GovTech Case Study	1393
 World Bank GovTech Maturity Index	2662,2090
 World Bank GovTech Operations	1278
-World Bank Governance Indicators	4528
+World Bank Governance Indicators	4528,7984
 World Bank Governance and Digital Development Global	11867
 World Bank Government	11569
 World Bank Grant Agent	12175
 World Bank Grant Facility	6539
 World Bank Grant Supports Zambia	1901
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
 World Bank Group Board of Directors	2253,2581
@@ -1971,7 +1976,6 @@ World Bank Programme	10812
 World Bank Project	5244
 World Bank Project Appraisal Document	541,34,1679
 World Bank Project Implementation Unit	10829
-World Bank Project Paper	2780
 World Bank Project Preparation Grant	6665,788
 World Bank Projects	11924
 World Bank Publications	7655,3059,51,10,10,27,29,135,1,8,164,122,274,27,302,5,2,447,18
@@ -2018,7 +2022,7 @@ World Bank Terms of Reference	2112
 World Bank The Digital Cabo Verde	11891
 World Bank The Nigerian National Broadband	11857
 World Bank Think Africa Partnership	7886
-World Bank Think Africa Project	12192,86
+World Bank Think Africa Project	12192,86,223
 World Bank Through	5395
 World Bank ToR	2112
 World Bank Transforming the Education Sector	11905
@@ -2502,7 +2506,7 @@ World Economy	10718,592
 World Expo	3760,7425
 World Fact Book	11944
 World Fact Book Banque des Etats	11944
-World Federation of Exchanges	10969,926,264,46
+World Federation of Exchanges	10969,926,264,46,282
 World Figure	1828
 World Fintech Day	11819
 World Food Program	969,259,10297,35
@@ -2526,9 +2530,9 @@ World Health Day and World Mental	10776
 World Health Or-	8301
 World Health Organisation	21,937,1668,4695,1293,756,1452,342,31,310,470,226,39,173
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95
 World Health Organization Every	10881
-World Health Organization FFP Fund	10835,3,130,902,16,466,1
+World Health Organization FFP Fund	10835,3,130,902,16,466,1,135
 World Health Organization Maturity Level	6594
 World Health Organization Recommendations	10881
 World Health Organization Regional Office	876,10720
@@ -2564,19 +2568,19 @@ World ID	5550
 World Indices	7343
 World Inflation	2775
 World Institute for Development Economics Research	11887,266,1,9,178
-World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1
+World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135
 World Institute for Development Economics Research UPU	10759,78,1052,451
 World Integrated Trade Solution	11149
 World Intellectual Property	11550
 World Intellectual Property Organisation	961
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111
 World Intellectual Property Organization Copyright Treaty	11550
 World International	1988
 World Internet Conference Digital Silk Road	7835,25
 World Investment Report	7548
 World Investment Report Zambia Factsheet. Available	12376
 World Journal of Advanced Research and Reviews	2816
-World Justice Project Rule of Law Index	4528,793
+World Justice Project Rule of Law Index	4528,793,7191
 World LLDCs	10844
 World LLDCs LDC LLDCs Other LLDCs	10844
 World LLDCs LLDC	10844
@@ -2611,7 +2615,7 @@ World Poll	11004
 World Pop	10964
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
-World Population Prospects	10714,255,35,465,426,69,195,46,146,4
+World Population Prospects	10714,255,35,465,426,69,195,46,146,4,132
 World Population Prospects. Volume-II	12138
 World Population Review. DR Congo	11994
 World Press Freedom Day	2844,3434,672
@@ -2649,7 +2653,7 @@ World Trade Organisation Southern African Development	12454
 World Trade Organisation.1.1.3. A National Dialogue	2626
 World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655
 World Trade Organization Agreement	11550
-World Trade Organization Global Services Trade	11884,275
+World Trade Organization Global Services Trade	11884,275,328
 World Trade Organization Infor	11550
 World Trade Organization Technical Barriers	1988
 World Trade Organization and United	10969
@@ -2742,7 +2746,7 @@ Worsening Commentary	11131
 Worsening Commentary Higher	11131
 Worsening Commentary Liabilities Currency	11134
 Worsening E’000 E’000 Assets External Investments	11134
-Worst	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Worst	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Worst Excess Energy Scenario	11228
 Worst Unserved Energy	11228
 Worth	2492,843,358,70,792,1,1934,934,758,1345

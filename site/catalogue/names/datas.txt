@@ -1,4 +1,5 @@
 Anti-Bias National Datasets	4528
+Anti-Bias National Datasets Analysis	12512
 CONTENTS DATASHEET	969,295,603
 Consulta Pública Datas	3118
 DATASET	6470,95
@@ -20,9 +21,10 @@ Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataserv	10140
 Dataset	1232,582,444,2631,2659,41,201,511,2413,156
-Dataset Completion	4528
+Dataset Completion	4528,7984
 Datasets	2816,1045,3929,1832,1108,604,229
 Datasets and Computing Platforms for AI Development	1814
+Datasets. the National Agricultural and Health	12512
 Datasharing Categories	8606
 Datasheet	541,10291,1556
 Datasonic QR-code	4275
@@ -41,8 +43,9 @@ IATI Datastore API	6982
 ID4D Dataset	11919
 ID4D GLOBAL DATASET	10714
 ID4D Global Dataset	10714,61,1092,52
+National Agricultural Dataset	12512
 National Agricultural Dataset and National Health	4528
-National Foundational Datasets	4528
+National Foundational Datasets	4528,7984
 Novel Dataset and Its Potential Uses	11140
 Paul Ndungutse DATASHEET BASIC INFORMATION Project	3562
 R9 Shared AI Datasets	11138
@@ -50,8 +53,9 @@ Records Dataset	4528
 Standard for Government Datasets	3861
 Support the Development of Shared AI Training Datasets	11138
 TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50
-Testing Dataset	4528
-Training Dataset	4528
+Testing Dataset	4528,7984
+Training Dataset	4528,7984
+Umthombo National Health Records Dataset	12512
 V-Dem Dataset	11550
 World Bank's GovTech Dataset	11867
 World Bank's Identification for Development Dataset	4807

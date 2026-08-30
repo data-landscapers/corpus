@@ -36,7 +36,7 @@ Absence of Recognition	12246
 Abstract Electronic Health Records	11990
 Accelerated Recovery Framework	7760
 Access and Receipt of Information Bill	769
-Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Accessibility of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Accessible Record	12185
 Act. Record	736
 Actividade Sexual Recente	10777
@@ -311,6 +311,8 @@ Data Management and Record Keeping Seminar	10566
 Date Received Time Received Subscriber’s BOZ	12364
 Date Time Received Received Subscriber’s BOZ	12364
 Day Three. Nairobi City County Recognises	11033
+Debit Notes Received	12509
+Debit Notes Received and Credit Notes Issued	12509
 Declaração de Receitas Eventuais	11532
 Default and Recovery Statistics	11310
 Departamento de Recursos Humanos	2816,8633
@@ -356,7 +358,7 @@ Disaster Recovery Site	688,2119,4,9052
 Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Disclosure of Public Records	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Discontinuities And Recent Transformations	12227
 Discontinuities and Recent Transformations	12227
 Discussion and Recommendations	4439
@@ -412,7 +414,7 @@ Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic Government and Electronic Records	12325
 Electronic Health Record	2477,1676,471,5564,1792
 Electronic Health Record System Actually	5911
-Electronic Health Records	2477,471,1353
+Electronic Health Records	2477,471,1353,8207
 Electronic Medical Record	3972,3794,3486,21,707,260,139
 Electronic Medical Record FS	11252
 Electronic Medical Record Management System	3604
@@ -434,7 +436,7 @@ Emergency Recharge Data Promotion	11259
 Emerging A1- Recognition	7548
 Emerging Recognition	7548
 Empowering Taxpayers Through Education Recognizing	12439
-Energy Disclosure of Public Records	10835,3,130,902,16,466,1
+Energy Disclosure of Public Records	10835,3,130,902,16,466,1,135
 Energy Sector Recovery	789
 Energy Sector Recovery Programme	789
 Enforcement of Record-keeping	11860
@@ -573,6 +575,7 @@ IDA Recommitted	12388
 IDENTITY REGIMES Recognising	1243
 IDU Kenya Police Electronic Crash Records	1001
 IFC and MIGA. Recognizing	11469
+IJRSI.2025.1215PH000184 Received	12508
 ILO Social Protection Floors Recommendation	1445,3
 IMPLEMENTATION IMPERATIVES Recital	3861
 IMPLEMENTATION OF PREVIOUS EU EOM RECOMMENDATIONS	12201
@@ -614,7 +617,7 @@ Innovation and Economic Development RECOGNISING	3861
 Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
 Insolvency and Receivership	6121
 Institut National de IM Recherche	11905
-Institute for Justice and Reconciliation	1230,6656,4306,86
+Institute for Justice and Reconciliation	1230,6656,4306,86,223
 Institution du Recensement Général	2625
 Institutionalization of School Record Keeping	11860
 Institutions Receive Data Controllers Licences	2987
@@ -959,7 +962,7 @@ R Receitas Brutas	2866
 RAM Readiness Assessment Methodology REC Regional	1814
 RCPCA The National Plan for Recovery and Peace	969
 RDP Reconstruction and Development Programme RRO Refugee	11218
-REC Membership	10835,3,130,902,16,267,199,1
+REC Membership	10835,3,130,902,16,267,199,1,135
 REC and AfSEM	11149
 REC-Maternite	10881
 REC-Maternity	10881
@@ -1044,6 +1047,7 @@ RECOMMENDATIONS Integrating	11918
 RECOMMENDATIONS ON POLICY AND REGULATION S	11857
 RECOMMENDATIONS ON SPECTRUM Timeline Responsible Impact	11857
 RECOMMENDATIONS R E C O M	12328
+RECOMMENDATIONS Short-Term	12508
 RECOMMENDATiONS	961
 RECOMMENDATiONS AU Member States	961
 RECOMMENDATiONS African	961
@@ -1160,7 +1164,7 @@ Receive- Type	998
 Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4,1462,9
 Received Date	11276
 Received Feedback	9772
-Received Finalized Stock	12225
+Received Finalized Stock	12500
 Received InfraCo Shares	4896
 Receiver	736,938,245,733,2999,3855,1,105,1,302,77,1808,12,1
 Receiver Group Elevation	11405
@@ -1191,7 +1195,7 @@ Recensement Général des Entreprises	10875,105
 Recensement Général des Entreprises RGPH	10874
 Recensements	10875
 Recenser	10876
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,49
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261,59,44,76,25,32,33,118,19,6,53,11,4,32,36,133
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Angola	10781
@@ -1484,7 +1488,7 @@ Reconciliation Report	170
 Reconciliation Reports	170
 Reconciliation and Healing	3583
 Reconciliation and Healing. Terms Cost	3583
-Reconciliations	12225
+Reconciliations	12500
 Reconciling	6352,4898
 Reconhece	11569
 Reconhecendo	2816,703,627,1,6603,643,62,2,112
@@ -1641,7 +1645,7 @@ Recruit	4126,4873,1830,135,169,722,8,42,1
 Recruit GBV	1988
 Recruited	11905
 Recruiting	1940,7591,2644
-Recruitment	969,162,809,156,2432,355,650,4359,884,36,17,119,270,6,631,8,43,452,63
+Recruitment	969,162,809,156,2432,355,650,4359,884,36,17,119,270,6,631,8,43,452,63,91
 Recruitment Database National Teaching Awards Register	11241
 Recruitment Roll-out	11986
 Recruitment of Audit	11863
@@ -1757,6 +1761,7 @@ Regulamento Sanitário Internacional. Recomendações	11376
 Regulamento de Tratamento de Reclamações	5169
 Regulate Recognition	12214
 Regulation. Recitals	7855
+Regulations Independent Power Producers Recommended LED	12515
 Regulatory Recommendations	5676
 Regulatory Recommendations National Regulatory Authorities	5676
 Relevant Track Record	11905
@@ -1833,6 +1838,7 @@ Social Recovery and Human Development The Social	970
 Société de Recouvrement des Créances	10965
 Solar Home Systems Receivables Facility Norfund	707
 Solar Receivables Facility Norfund	928
+Solar Recommended Companies	12515
 Somalia. Recent	11596
 Somaliland Recognition	3463
 South Africa Mahlatse M. Shekgola Received	8021
@@ -1868,6 +1874,7 @@ Support Learning Recovery	12175
 Support System EHR Electronic Health Record	9855
 Support for Ukraine’s Reconstruction and Economy Trust Fund	11310
 Supporting Recovery	8202
+Survey Records Search The DSG	12511
 System EMR Electronic Medical Records FETP	12379
 System KIRM Knowledge Information Records Management	11261
 System Recovery	4610
@@ -1925,9 +1932,10 @@ UTILIZAÇÃO DOS RECURSOS INSTALADOS	11397
 UVRE DU RECENSEMENT GENERAL DES ENTREPRISES	10875
 Ukraine Reconstruction Investment Fund	11310
 Ukraine. Record	10841
+Umthombo National Health Records Dataset	12512
 Unclaimed Financial Assets Received	2775
 United Nations Principles and Recommendations	12151,186,30
-United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4
+United Nations. Recognizing	10969,915,1,10,264,1,44,1,146,4,132
 Update and Reconciliation	12364
 Utilização de Recursos Computacionais	3519
 Utilização de Recursos de Numeração	11430

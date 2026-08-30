@@ -209,8 +209,9 @@ Demand Generation and Responsible Public Engagement	9855
 Demand Side Response	11953
 Departamento Ministerial Responsável	10783
 Departamento de Resposta	4218
+Description Responsibility	12512
 Design Respondents	12246
-Detailed Roles and Responsibilities for AISIO Leadership	4528
+Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
 Detection and Response	6657
 Diabetes Respiratory	12151
 Differentiated Responsibilities and Respective Capabilities	11210
@@ -419,7 +420,7 @@ KNUST Responsible AI Laboratory	4126
 KNUST's Responsible AI Lab	5227
 Kenya National Bureau Sustainable and Responsible Financial	12297
 Kenya Quick Response Code Standard	11994
-Key Responsibilities	4528,4675,2805
+Key Responsibilities	4528,4675,2805,504
 Kwenda MIS. Responsibility for Data Collection FAS-IDL	10768
 LANGUAGE OF RESPONDENT LANGUAGE OF INTERVIEW	582
 LIMITAÇÃO DA RESPONSABILIDADE DOS PRESTADORES	11582
@@ -752,9 +753,9 @@ Respondent	1919,1388,393,1413,3005,12,48,3526,252,37
 Respondent Google LLC	3307
 Respondent The Respondent	3307
 Respondente	11569
-Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069,290,898,62,11,11,37,67,102,18,36,32,49,52
+Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069,290,898,62,11,11,37,67,102,18,36,32,49,52,122
 Responder	11374
-Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94
+Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117,91,245,143,12,82,201,25,25,396,94,119
 Respondingtothisgap	8602
 ResponsAbility	389
 Responsa	11432
@@ -807,7 +808,7 @@ Responsables Open Data14	1984
 Responsables Open Data8	748
 Responsables Open Data9	747
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
-Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,193
+Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143,290,7,19,17,33,11,84,37,108,189,150,4,84,5,133,49,346
 Response AI	7987
 Response All	7987
 Response Component	10963,1,453
@@ -863,7 +864,7 @@ Responsibilities of Service Integrators	11995
 Responsibilities of Stakeholders	5665
 Responsibilities of Stakeholders-	11860
 Responsibilities of Technology Companies Operating	8485
-Responsibility	396,191,1401,970,756,814,718,305,1395,2,600,242,739,918,767,239,312,10,229,125,773,62,22,228,245
+Responsibility	396,191,1401,970,756,814,718,305,1395,2,600,242,739,918,767,239,312,10,229,125,773,62,22,228,245,53
 Responsibility Duration	12253
 Responsibility GM	1778
 Responsibility MICTPCS RBZ Ministry of Trade Private	958
@@ -915,7 +916,7 @@ Responsibility for Data National Learning Assessment Unit	11905
 Responsibility for Data PIU Collection Grievances	11905
 Responsibility for Data PIU Collection Page	11905
 Responsibility for Data The MOH. Collection Percentage	11417
-Responsible	396,393,151,22,242,610,2047,265,535,585,560,787,134,65,412,344,1054,26,1387,1141,25,623,112,40,52,82,124,13,5,21,106,60
+Responsible	396,393,151,22,242,610,2047,265,535,585,560,787,134,65,412,344,1054,26,1387,1141,25,623,112,40,52,82,124,13,5,21,106,60,93
 Responsible AI	1204,263,347,1002,317,912,81,722,80,156,379,88,47,20,296,140,738,94,325,337,40,90,332,208,951,405,1046,1147,443
 Responsible AI Amazon	3470,255,1109,1305
 Responsible AI Authority	4126,1820,24
@@ -974,6 +975,7 @@ Responsive Regulation	6946
 Responsive Regulation Connectivity	6946
 Responsive Regulation Core Values	6946
 Responsiveness	4130,1546,1156,4384,24,712
+Responsiveness Integrity	12515
 Responsiveness Test	11240
 Responsiveness The Tenderer	11240
 Responsiveness and Agility	11131
@@ -999,7 +1001,7 @@ Role and Responsibility	7538
 Roles and Responsibilities	21,979,988,6682,2595,174,422,91,301,103
 Roles and Responsibilities Clearly	12356
 Roles and Responsibilities Shift	9123
-Roles and Responsibilities The AI	4528
+Roles and Responsibilities The AI	4528,7984
 Roles and Responsibilities The Project Implementation Unit	12253
 Rwanda Computer Security Incident Response	9125
 Rwanda Computer Security Incident Response Team	3243,5882
@@ -1038,7 +1040,7 @@ Sintomas de Infecção Respiratória Aguda	10777
 Smart Kitchen Co. Responding	11172
 Social Protection and Jobs Responses	10763
 Social Responsibility	11250
-Somalia Computer Incident Response Team	4810,528,332
+Somalia Computer Incident Response Team	4810,528,332,6843
 Special Envoy for Covid Response	6667
 Stakeholder Role and Responsibilities	11184
 Stakeholder Roles and Responsibilities	12444

@@ -45,7 +45,7 @@ B Programa de Profesionalización	4209
 Backbone Professor Ibrahim Adeyanju	8121
 Background Professor Abate	8529
 Base Erosion and Profit Shifting	961
-Base Erosion and Profit Shifting. Ethiopia	12225
+Base Erosion and Profit Shifting. Ethiopia	12500
 Billion Profit	10733
 Body of Professors	11715
 Broadcasting Sector ICT Profile Revenue Employment	12395
@@ -189,7 +189,7 @@ Escola de Formação de Professores Ensino Geral Avaliação	10766
 Estratégia Nacional de Desenvolvimento da Profissão Docente	11557
 Etablissement Supérieur Professionnel	10893
 Ethiopia. Profitability	6100
-Ethiopian Economy Profile	12225
+Ethiopian Economy Profile	12500
 Executive Secretary Professor Abdullahi Yusufu Ribadu	8710
 Experiência Profissional	11441,15
 Experiência Profissional Deve-se	11448
@@ -255,7 +255,7 @@ High Profile Companies	11250
 Hon. Justice Professor Alaba Omolaye-Ajileye	11654
 Honourable Professor Dr. Amon Murwira	9761
 I Ciclo da Formação Profissional Básica	11419
-I. COUNTRY BACKGROUND INFORMATION Country Profile	12225
+I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
 ICT Professionals	2288
 IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
@@ -267,7 +267,7 @@ ITEC English Language Proficiency Course	11579
 ITU Country Profile	173
 Impilo Professional	9429
 Imposto Profissional	11532
-Individual Business Profit Tax	12225
+Individual Business Profit Tax	12500
 Infrastructure Profiles	1009
 Initiative Masse Critique de Professionnels	6031
 Insertion Professionnelle	2808,1594
@@ -406,7 +406,7 @@ Professeur Vincent Kangulumba	5888
 Professeur Wilfried Gabsa	11673
 Professeure Mariatou Koné	10925
 Profession	2775,2121,5879
-Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12
+Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12,55
 Professional Agency	12389
 Professional Bar of Certified Auditors and Accountants	11955
 Professional Bodies	12453
@@ -435,7 +435,7 @@ Professional Training Program RAIO	1204
 Professional Training and Upskilling	12356
 Professional Women Accountants of Nigeria	11866
 Professionalisation of Cybersecurity Roles	6936
-Professionalism	718,436,400,1221,8572
+Professionalism	718,436,400,1221,8572,1163
 Professionalize	3583
 Professionals	4126,88,4625,364,2093,660
 Professionnalisation	643,7660
@@ -529,7 +529,7 @@ Professor Smaranda Olarinde of Afe Babalola University	8710
 Professor Somadoda Fikeni	7058,13
 Professor Stefaan Verhulst	1246
 Professor Tankiso Moloi	8142
-Professor Tawanda Mushiri	4528
+Professor Tawanda Mushiri	4528,7984
 Professor Thokozani Majozi	11027
 Professor Titular	2816
 Professor Vera Fiador of UGBS	11032
@@ -562,7 +562,6 @@ Profilage	1231
 Profile	775,234,27,855,1057,565,915,363,6050,383,731,285,13
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
-Profile Country	11865
 Profile Global Registration System	12227
 Profile Profile	12364
 Profile of DIAL's Digital ID Assessment	1582
@@ -583,7 +582,7 @@ Profissionais Qualificados	10777
 Profissionais de Comunicação Social Artigo	12311
 Profissional	10777,1534
 Profissional Qualificado	11898
-Profit	2096,2010,1905,985,431,236,378,2649,103,338,3,822,269,90,74
+Profit	2096,2010,1905,985,431,236,378,2649,103,338,3,822,359,74,111
 Profit Adjusted	11134
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Profit Company	11250
@@ -619,7 +618,7 @@ Qualified Professional	12389
 RCCC Chairman Professor W. Magwa	1554
 REALIZED PROFIT	4602
 REGIONAL PROFILE	4972
-RESULTS PROFILE	10759,76,3,130,902,16,1,267,198,1
+RESULTS PROFILE	10759,76,3,130,902,16,1,267,198,1,135
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Recouvrement BEPS Base Erosion Profit Shifting	10712
 Rector André Pedro Neto and Chairholder Professor	11478
@@ -698,3 +697,4 @@ Young Professional	10765,10
 Young Professionals	1204
 ZIMBABWE Corporate Profile The Research	1154,400
 ZIPSS Profile CSD Profile First	12364
+Zimbabwe Country Profile	12488

@@ -96,6 +96,7 @@ CADRE STRATÉGIQUE DU POSAF	10712
 CAMPOST Poste Nationale du Cameroun CEEAC Communauté	10965
 CAR ARCEP Electronic Communication and Postal Services	969
 CAR Ministry of Post	4345,7
+CBDC Instruments POS Card Emoney Debit	12490
 CBE-linked PoS	5869
 CBN Requires All POS Machines	3491
 CEO of La Poste de Côte	4093,18
@@ -131,7 +132,7 @@ Chisenga Police Post	12174
 Church of God Postmaster- General Chief Officer	11129
 Client Information Name of Applicant Postal Address	736
 Cloud Posture Management	1938
-Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1
+Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
 Common African Position	5825
 Communication Technology and Postal	5107
 Communication Technology and Postal Service	4223
@@ -422,10 +423,11 @@ Minister of Telecommunications and Postal Services	8897
 Ministre des Postes	2565,321,74,270,98,3132,4064
 Ministries Post Office Accra	1263
 Ministries of Posts and Telecommunications and Justice. All	5994
+Ministry of ICT Postal and AI Policy and Innovation	12512
 Ministry of ICT Postal and Courier Services	4528
 Ministry of ICT and Postal Services	3583,76,2523
 Ministry of ICT and Postal Services of South Sudan	7508
-Ministry of Information Communication Technology Postal	4528
+Ministry of Information Communication Technology Postal	4528,7984
 Ministry of Information and Postal Services	10657
 Ministry of Post	4340,1733,5845
 Ministry of Post and Telecommunications	1777,2756,579,132,340,659
@@ -782,7 +784,7 @@ Post and Courier Sector	9781
 Post and IOH Indosat Ooredoo Hutchison Telecommunications	11994
 Post and Telecommunication	3008
 Post and Telecommunications	969,2268,2,2236
-Post and Telecommunications Act	4528
+Post and Telecommunications Act	4528,7984
 Post and Telecommunications Minister	5953
 Post and Telecommunications Minister Sid Ali Zerrouki	3973
 Post and Telecommunications Regulatory Authority	12032
@@ -850,7 +852,7 @@ Post-primaire Secondaire	10875
 Post-primary Lower	12413
 Post-programme	6832
 Post-school	9128
-Post-secondary	582,11610,86
+Post-secondary	582,11610,86,223
 Post-shock	10763
 Post-training	2477
 Post2015 Development Agenda. Retrieved	10819
@@ -867,7 +869,7 @@ Posta Uganda	5394,2638,929,820
 Posta Uganda National Postal Operator	9781
 Postagens Relacionadas	10114
 Postais	11415,13
-Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5
+Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10
 Postal Address Code	12140
@@ -896,7 +898,7 @@ Postal Items	6671
 Postal Items Jan-Mar	6671
 Postal Market Indicators	12395
 Postal Market Indicators the Pricing of ICT	12395
-Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Postal Network	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Postal Network Public Perception of Infrastructure RURAL	10759
 Postal Network Public Perception of Infrastructure Rural	10837,1315,188
 Postal Network Secure Employment Opportunities Access	10759
@@ -942,7 +944,7 @@ Postal and Courier Network Indicators Indicator FY	6946
 Postal and Courier Networks	6946
 Postal and Courier Overview Postal Traffic	9781
 Postal and Courier Sector Highlights Q2	9781
-Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010
+Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010,901
 Postal and Courier Services Bill	7779,99
 Postal and Courier Services Minister Tatenda Mavetera	5827,1694,1184,325
 Postal and Courier Services The Ministry	395
@@ -1357,7 +1359,7 @@ Whilst Postbank	8999
 Widget Tab Post	2266,48,70,1204,745,235,171,806,299,245
 World of Infinite Possibilities	10765,10
 XVII. RESULTS AND POST-ELECTION ENVIRONMENT	12201
-Year GII Position	11884,467
+Year GII Position	11884,467,136
 Year GII Position Innovation Inputs Innovation	10969,916,320
 Year Total POSITION AT BEGINNING	11955
 Youth Position Paper	9648

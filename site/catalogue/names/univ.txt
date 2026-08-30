@@ -40,7 +40,7 @@ Advisory Council USF Universal Service Fund	6946
 Africa . Oxford University Press	2518
 Africa AI Upskilling Programme. The University	10541
 Africa Nazarene University Data Controller INST-44287758F89	7167
-Africa University	2987,1541
+Africa University	2987,1541,7984
 African Developpment University	9357
 African Leadership University	415
 African School of Economics and Université	7886
@@ -65,7 +65,7 @@ Arba Minch University	12276
 Ardhi University	8883
 Arjun. Fear of Small Numbers. Duke University	12227
 Army Engineering University	8510
-Arrupe Jesuit University	4528
+Arrupe Jesuit University	4528,7984
 Artes da Universidade Eduardo Mondlane	3334
 Article Cairo University Launches Free Program	5322
 Artificial Intelligence Index Report. Stanford University	2816
@@ -81,6 +81,7 @@ Authority's Universal Service Fund	10397
 Authority. PART II UNIVERSAL ACCESS	22
 Authority. Universal	11
 Authors Ndekazi Botha The University of Zambia	12467
+Authors Ronald Musizvingoza University of Zimbabwe Naomi	12486
 Authors and Affiliations University of Groningen	9739
 Av. Julius Nyerere Campus Universitario	9442
 BA ISAGO University	4060
@@ -95,7 +96,7 @@ Bayero University	2933
 Bayero University Kano	10560
 Beijing Normal University	10295,1378
 Benin. Michigan State University	12278
-Bindura University of Science Education	520,4008,4869
+Bindura University of Science Education	520,4008,4869,3115
 Bomet University College Data Controller INST-2221615DBAC	7167
 Bomet University College Data Processor INST-76185125576	7167
 Boston University	11135
@@ -170,7 +171,7 @@ Columbia University	1013,6138,2808,1928,266,1,9,171,7
 Columbia University CIESIN	196
 Columbia University DSP Digital Society Project	10759,78,1052,451
 Columbia University Press	3782
-Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1
+Columbia University UPU Universal Postal Union	10835,3,130,902,16,466,1,135
 Committee Dr. Maledh Marrakchi University of Manouba	2958
 Competition Universal Service Cyber Security Standards	6946
 Compliance Master of Business Leadership University of South	11134
@@ -316,7 +317,8 @@ Governance The Universal Service Fund	5168
 Governação Eletrónica da Universidade	11569
 Governing Council Member for Turkana University College	6946
 Government and University	6232
-Great Zimbabwe University	4528
+Graduate Business School Chinhoyi University of Technology	12508
+Great Zimbabwe University	4528,7984
 Guarantee Scheme Strategic Workforce Planning University	11131
 HISP Centre da Universidade de Oslo	11454
 Haaga-Helia University of Applied Sciences. Manda	2093
@@ -364,8 +366,8 @@ Jamhuriya University	6622
 Jiage Qian Johns Hopkins University	1212
 Jimma University	1219,11036
 Jimma University and University of Gondar	12255
-John Hopkins University SAIS	12332
-John Hopkins University. Amine	12332
+John Hopkins University SAIS	12485
+John Hopkins University. Amine	12485
 Johns Hopkins University	10881,38,224
 Johns Hopkins University School of Advanced International	7358
 Jomo Kenyatta University of Agriculture and Technology	6946,2390,1017,995
@@ -384,6 +386,7 @@ Kenya Limited UMTS Universal Mobile Telecommunication	6671
 Kenya Methodist University	6946
 Kenya Universal Periodic Review	6188
 Kenya University Nano Satellite	1131
+Kenya. Michigan State University	12501
 Kenya. Ohio University Press	12227
 Kenyatta University	6946
 Kenyatta University Centre for Research Ethics and Safety	12231
@@ -447,7 +450,7 @@ Melhores Universidades	11387
 Meru University of Science and Technology	5711
 Metropolitan University’s Lincoln Alexander School of Law	6521
 Michigan State University Department of Political Science	7886
-Midlands State University	520,634,400,2974
+Midlands State University	520,634,400,2974,7984
 Midlands State University and Chinhoyi University of Science	520
 Mitchell. Rhodes University	10076
 Miva Open University and Abuja-based	8780
@@ -461,7 +464,9 @@ Multiplicité des Universités	10874
 Mushiri University of Zimbabwe Coal Beneficiation	1154
 Mzuzu University	12178
 Mzuzu University Tourism Incubation Centre	10111,2
+N. Wekwete University of Zimbabwe Kudzaishe Mangombe	12486
 NDU National Defence University NEMA National	2775
+NGO Non-Governmental Organization NUST National University	12512
 NUC National Universities Commission	11860
 Namibia University Of Science	12478
 Namibia University of Science	6636
@@ -485,7 +490,7 @@ National Universities Commission	8710
 National University of Agriculture	7062
 National University of Lesotho	5097,5956
 National University of Science	7062
-National University of Science and Technology	1154,400,2974
+National University of Science and Technology	1154,400,2974,7984
 National University of Science and Technology Office	1154
 National University of Science and Technology Online Grants	1554
 National University of Science and Technology The RCZ	1154
@@ -599,7 +604,7 @@ Rank University	12205
 Rank University Score	11885
 Recommended Universal Contact Points	5676
 Rector of Eduardo Mondlane University	9225
-Reformed Church University	4528
+Reformed Church University	4528,7984
 Regulate Technology. Oxford University Press	5242
 Regulations Prescribing Universal Levy	1900
 Regulations Prescribing Universal Service Levy	1750,150,1510
@@ -771,6 +776,7 @@ UPU Universal Postal Union	11887,266,1,9,178
 USA United States of America USB Universal	2775
 USIU JKUAT Strathmore University K-AIST	12210
 UVRES UNIVERSITAIRES	7670
+UZ University of Zimbabwe VC Venture Capital	12512
 Ubuntu Universe Limited	8209
 Uganda Christian University	11829
 Uganda Communications Universal Service and Access Fund	3990,4557,75,108,311,740,201
@@ -780,7 +786,7 @@ Umeå University	7112
 Union Postale Universelle	998
 United Arab Emirates UHC Universal Health	2775
 United Nations Universal Declaration of Human Rights	8747,2430,779
-United Nations University	1380,4997,2233,2225,3,2,128,602,300,16,341,125,1
+United Nations University	1380,4997,2233,2225,3,2,128,602,300,16,341,125,1,135
 United Nations University Centre for Policy Research	9616
 United Nations University Institute for Water	8258
 United Nations University's Operating Unit	5615
@@ -880,7 +886,7 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70
 Universal Service Fund Ad	10856
 Universal Service Fund Committee	5168
 Universal Service Fund Financial Statements	6946
@@ -995,11 +1001,11 @@ Universitaires CNF Campus Numérique Francophone CNESRS	12
 Universitaria	4209
 Universitas Indonesia	226
 Universite	10492
-Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37
+Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99
 Universities Act	7832,2448
 Universities All	958
 Universities Communities	7548
-Universities Polytechnics	4528
+Universities Polytechnics	4528,7984
 Universities South Africa	6832
 Universities South Africa WFH	6832
 Universities and Gambian Secondary Schools	1000
@@ -1024,10 +1030,12 @@ University Harnessing Biotechnology	1154
 University Innovation Pod	8531,330
 University Management	10541
 University Mohammed VI Polytechnic	5085
+University NAIC National AI Council NAIS	12512
 University NDP National Development Plan NRA	12241
 University Of Namibia	12478
 University Pole	8606
 University Putra Malaysia	9129
+University R&D	12512
 University Research Partnership Project	8456
 University Spin-offs	12389
 University Sports South Africa’s Team SA	432
@@ -1068,7 +1076,7 @@ University of Cambridge’s Centre for Science and Policy	1246
 University of Canberra	6946
 University of Cape Coast	455
 University of Cape Coast Data Literacy Week	6508
-University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215
+University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215,309
 University of Cape Town Launch	3654
 University of Cape Town SARChI Chair	3654
 University of Cape Town and Wits	9574
@@ -1110,7 +1118,7 @@ University of Gondar	1219,605,10431
 University of Grenoble Alpes' Théodore Christakis	8773
 University of Hawaii	9237
 University of Health and Allied Sciences	9420,10,106
-University of Illinois	4734,7598
+University of Illinois	4734,7751
 University of Illinois Urbana-Champaign	5257
 University of Johannesburg	2307,641,2022,1862,54,1136,7,113,2355,846
 University of Johannesburg. CAIR	11336
@@ -1147,7 +1155,7 @@ University of Michigan Medical School	11990
 University of Montreal	1219
 University of Mpumalanga	10241
 University of M’Sila	8606
-University of Nairobi	899,6047,1533,3248,411,13,41,35,51,45
+University of Nairobi	899,6047,1533,3248,411,13,41,35,51,45,178
 University of Nairobi Language	9679
 University of Nairobi Nairobi	7886
 University of Nairobi's Registration and Identification Bill	12138
@@ -1170,7 +1178,7 @@ University of Oslo and HISP	9139
 University of Oslo's HISP	4829
 University of Oslo. DHIS2	1219
 University of Ouagadougou	10812
-University of Oxford	206,20,974,2398,831,4262,541,1903,1092,105
+University of Oxford	206,20,974,2398,831,4262,541,1903,1092,258
 University of Oxford Serres J	9739
 University of Oxford's Department of Computer Science	8529
 University of Oxford. Kara	12297
@@ -1210,7 +1218,7 @@ University of Stellenbosch	4896,6235,3
 University of Stellenbosch Military Academy	8134
 University of Sunderland	6946
 University of Sussex	12162
-University of Sussex. Razan Amine	12332
+University of Sussex. Razan Amine	12485
 University of Swaziland	11131,3
 University of Technology	9129
 University of Texas	8022
@@ -1233,14 +1241,14 @@ University of Zambia Skip	12407
 University of Zambia and Copperbelt University. Teams	10347
 University of Zambia. Kelly	12369
 University of Zambia. Over	10347
-University of Zimbabwe	51,134,335,634,400,964,2010,368,951
+University of Zimbabwe	51,134,335,634,400,964,2010,368,951,6665
 University of Zimbabwe. Tracy	4896
 University of Zululand	11927
 University of Zululand Library	8022
 University's AI	10343
 University's Integrated Strategic Plan	10343
 University-Industry Collaboration	12389
-University-industry R&D	10969,915,1,10,264,1,191,4
+University-industry R&D	10969,915,1,10,264,1,191,4,132
 University. Columbia Institute for Tele-Information. Eco	2816
 University29	899
 University6	12413
@@ -1364,7 +1372,7 @@ Wits University	1195,1090,9,275,245,528,620,1012,459,257,114,88,77,77,17,39,145,
 Wits University AI	8272
 Wits University School of Law. Founded	9889
 Wits University School of Statistics and Actuarial Science	5969
-Women University	4528
+Women University	4528,7984
 Word University of Nigeria Teaching Hospital University	11129
 Workforce Planning University of Eswatini United States	11134
 Working Group UHC Universal Health Coverage	12240
@@ -1387,5 +1395,5 @@ Zayed University of AI	9929
 Zayed University of Artificial Intelligence	6411,3533
 Zhejiang University of Technology	9238
 Zimbabwe National Defence University	1154
-Zimbabwe Open University	4528
+Zimbabwe Open University	4528,7984
 Zimbabwe’s Investable Universe Contracts	6011,985

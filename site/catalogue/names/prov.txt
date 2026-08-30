@@ -289,7 +289,7 @@ E.g. Provide	11004,960
 EABL Provident Fund Data Controller INST-494930800CE	7167
 EFFECTIVE AND EFFICIENT WHO PROVIDING	10776
 EMPLOYMENT BY INTERNET ACCESS PROVIDERS	6000
-EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1
+EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135
 ESS Officer. Providing	12253
 Eastern Cape Province	6832,4449,699
 Eastern Cape Province EMR	11252
@@ -383,7 +383,7 @@ Establish Provincial Government Cache Data Centre	12453
 Eswatini MMSP Mobile Money Service Provider	12444
 Eswatini National Provident Fund	11626
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
-Ethiopia Providing	12225
+Ethiopia Providing	12500
 Every Province MCAZ Engages Influencers Over	7312
 Evidence Provided Compliance Status Identity	6432
 Evolving Role of Content Providers Content	2830
@@ -486,6 +486,7 @@ Governadora Provincial de Cabinda	11427
 Government Cloud Service Provider	6432
 Government Cloud Service Providers	6432
 Government Cloud Services Provider	6432
+Government's Provision of Electricity	12501
 Governo Provincial	4294,6460,24,5,660
 Governor and Provincial Health Directorate	10776
 Governor of Nouaceur Province	4066
@@ -672,6 +673,7 @@ Managed Security Service Providers	1636
 Managed Service Provider	4437
 Managed Service Provider MW Megawatts NDC	10781,1646
 Managed Service Provider. Zinzi	1739
+Manicaland Province	12508
 Mapanzene Chongo Maputo Province Manuel Sim	12201
 Mapas da Conta Provisória I Trimestre	4411,2,1
 Mapas da Conta Provisória IV Trimestre	2081,2,1
@@ -686,6 +688,10 @@ Market Provisioning Services	12444
 Mashonaland East Province	10623
 Mashonaland West Province	5386,347,2563
 Matabeleland Province	362
+Matabeleland South Province	12508
+Matabeleland South Province Page	12508
+Matabeleland South Provincial Health Team	12508
+Matabeleland South Provincial Health Team Meeting	12508
 Mauritius. The Internet Service Provider	2913
 Medicines Wellness Coverage Providers Loading	9429
 Medidas Provisórias	11430,90
@@ -781,6 +787,7 @@ Obligations of User and Payment Service Provider	12389
 October. Provisional	8784
 October127. Provincial	12201
 Office PSC Provincial Survey Coordinator PPE	11192
+Officer Commanding Harare Province	12510
 Official Use Only Provide	12253
 Online Consumer Protection Provisions	12389
 Only Cloud Service Providers	11995
@@ -809,7 +816,7 @@ POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
 POR PROVÍNCIAS NO ANO	11391
 POSER. Autentika Provides	11939
 PRELIMINARY PROVISIONS	2726
-PRELIMINARY PROVISIONS SECTION	12324
+PRELIMINARY PROVISIONS SECTION	12484
 PRESIDENTE AUDIENCIA PROVINCIAL	4209
 PROCLAMATION TO PROVIDE FOR PERSONAL DATA	12185
 PROV. DE INVEST. ADTVA	4209
@@ -871,7 +878,7 @@ Payment Service Provider	4095,1979,1147,5122
 Payment Service Provider Licence	6074
 Payment Service Provider Returns	12365
 Payment Service Provider and Payment System Operator	4405
-Payment Service Providers	2857,4078,825,972,2399,1155,49
+Payment Service Providers	2857,4078,825,972,2399,1155,49,155
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Terminal Service Providers	3491,3207,237
 Pbps. Global Content Provider Bandwidth	1766
@@ -884,6 +891,7 @@ Potential Trust Service Providers. Conduct	10819
 Practice Note for Mobile Money Service Providers	11134
 Preservação de Provas	6970,3777
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
+President and Cabinet. Provides	12512
 Presidente Audiencia Provincial	4209
 Primary Healthcare Provision Strengthening Health	11469
 Private Provide	6432
@@ -935,7 +943,7 @@ Provenance Staged	7850
 Provenir	10876
 Proverbes	12099
 Provid	12233
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14
 Provide APIs	6423
 Provide Biometric Data Press Release	11079
 Provide COVID-19	12253
@@ -986,7 +994,7 @@ Providers of Artificial Intelligence Systems	2958
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1,588,15,67,1,12,294,110,3,60,1,24,9
 Provides ICT	907
 Provides Integrated Basic Education	11939
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,19
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,102,1
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -1076,7 +1084,7 @@ Provincial Health Information Systems Committees	396
 Provincial Health Information Systems EMR Electronic	396
 Provincial Health Office	10784,1128
 Provincial Health Office of Luanda	10776
-Provincial ICT Officer	9137
+Provincial ICT Officer	9137,3371
 Provincial ICT Officer Joyce Mushiko	9792
 Provincial ICT Officer Joyce Mushiko. Nawa	9792
 Provincial ICT Officer Lusaka	34
@@ -1100,6 +1108,7 @@ Provincial Office for Teacher Salaries and Monitoring	11916
 Provincial Operations	11261
 Provincial Os Projectos	10783
 Provincial Presence	8999
+Provincial Registrar. Applicants	12496
 Provincial Regulatory Entities	11551
 Provincial Regulatory Entity	11494,57
 Provincial Secretaries	7814
@@ -1129,6 +1138,7 @@ Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,11
 Provision Mechanisms	4154
 Provision Strengthening PASA	11469
 Provision Sustainable Environment	10837
+Provision for Invoice Apportionment and Selection	12509
 Provision for Spectrum Management and Mon- CA	6946
 Provision of Adequate Technical Support INEC	10049
 Provision of Communication-related Information Act	11190
@@ -1154,6 +1164,7 @@ Provision. Geneva	10718
 Provisional	2775,92,847,1104,2128,5249,102,186
 Provisional CNE	12201
 Provisional Certification Pathway	11995
+Provisional Constitution	12492
 Provisional Data for Telkom Kenya Limited Table	6671
 Provisional Register of Voters	10017,2448,7
 Provisional Results After the CNE	12201
@@ -1217,9 +1228,9 @@ Províncias da Região Norte	11406
 Províncias da Região Sul	11406
 Províncias de Nampula	1808
 Public Data Service Providers	958
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
 Public Service Commission and Gauteng Provincial Government	4896
@@ -1237,7 +1248,7 @@ RESPONSIBILITIES OF STAKEHOLDERS The Provision	11860
 RESPONSIBLE IMPACT Provide	11857
 RESTAURANTES CAPITALES DE PROVINCIAS CAPITALES	4209
 RFP FOR PROVISION OF TRANSACTION ADVISORY	5793
-RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1
+RIGHTS Public Perception of Health Provision	10835,3,130,902,16,466,1,135
 Recovery Plan Service Providers	10721
 Regional Network Provider MOD Ministry of Defense	1000
 Registration of Cloud Service Providers	6432
@@ -1375,6 +1386,7 @@ South Africa. Proven	11252
 South African Crypto Asset Service Provider	8840
 South African Internet Service Provider	10811
 South African National and Provincial Government	7759
+South Province	12508
 Southeast Sulawesi Province	7759
 Southern Province	4941,2562,2289,361,2250,10,18
 Southern Province Principal ICT Officer Joyce	11171
@@ -1469,6 +1481,8 @@ Uíge Province Zaire Province Proporção de Indivíduos	11418
 VASP Virtual Asset Service Provider	8590
 VSAT Service Provider	10407
 Vendors and Solution Providers	11952
+Venture Capital Company of Zimbabwe Providing	12495
+Venture Capital Funding Providing	12495
 Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121,2101
 Virtual Asset Service Provider Association	9956

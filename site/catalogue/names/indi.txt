@@ -121,7 +121,7 @@ Citizen Engagement Indicator	11855
 Citizen Engagement Indicator MIS	11855
 Civic Services Support Indicator	11986
 Closing Period Indicator Name Value Month	2712,1976,3189,3518
-Code Indicator	12355
+Code Indicator	12355,132
 Colombia and India	4997
 Communications Sector Indicators Harmonisation	8753
 Companies and Individual	11240
@@ -238,18 +238,20 @@ Enabled Medical Devices. Individuals	3651
 Enables Individuals	12241
 Endterm Target Source of Frequency Indicator	7548
 Enhance the Productivity of Indigenous Livestock	1154
+Entity Success Indicator	12512
+Entity Success Indicator Establish National	12512
 Environmental Sustainability Indicators	12389
 Enza Capital. Individual	713
 Establish Robust Governance Framework Outcome Indicators	12356
-Establishing Key Performance Indicators	4528
+Establishing Key Performance Indicators	4528,7984
 Estatistica Indicadores	11571
 Eswatini ICT Indicators	12395
 Eswatini. The PDO Indicators for Digital Eswatini	6539
 Ethical Development and Implementation of AI. In India	11135
 Ethiopia Code Indicator	12205
-Ethiopia Indicator Scores Scores Summary Explanation	12225
-Ethiopia Indicators	12225
-Ethiopia Summary of TADAT Performance Assessment Indicator	12225
+Ethiopia Indicator Scores Scores Summary Explanation	12500
+Ethiopia Indicators	12500
+Ethiopia Summary of TADAT Performance Assessment Indicator	12500
 Evaluation Indicator Name Baseline Actual	11971
 Evaluation KPI Key Performance Indicator LGMIM	11224
 Example Individual Address	11129
@@ -319,6 +321,7 @@ Historical Disadvantaged Individual HPRS	11252
 Historically Disadvantaged Individuals	11224
 Household and Individual ICT Access and Usage Across	12325
 Households and Individuals	11424,920
+Human Capital Development Objective Lagging Indicators	12512
 Hungary Iceland India Indonesia Iran	11765
 Hungary Iceland India Indonesia Iran Iraq	11470
 I. Indicateurs	5928
@@ -370,6 +373,7 @@ INDICE	11531
 INDICE PRÉFACIO	10766
 INDIGO-Central	1766
 INDIGO-West	1766
+INDIRECT INDIRECT PARTICIPANT PARTICIPANT E-money	12490
 INDIVIDUAL CONSULTANT CONSULTANCY FOR REVISION	962
 INDIVIDUAL OWNERSHIP AND USAGE OF COMPUTERS	582
 INDIVIDUAL OWNERSHIP OF MOBILE PHONES	582
@@ -390,6 +394,7 @@ Identifying Eligible Individuals The Imibereho Social	12370
 Illustrative Indicators Awareness	6936
 Immediate Matrix. Individuals	8354
 Immigration and Refugee Protection Indicator	11986
+Implement Monitoring Framework Key Performance Indicators	12508
 Impôt OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET OBJECTIFS	10712
 Impôts Indirects	9406
 Include Indicators	11525,330
@@ -399,7 +404,7 @@ Income Tax Individual Salaried Any	12397
 Income Tax Returns for Individuals	11976
 Ind Indicadores-Chave	11569
 Indi-	10780
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,15,40,35,1,31,29,117
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -455,6 +460,7 @@ India Stack	2831,349,183,28,2309,686,413,100,2532,1704
 India Stack. The European Union	8046
 India Summit	5366
 India The Star	3774
+India Through	12490
 India Uganda Thailand Senegal Bangladesh Zambia	11563
 India W	11004,960
 India With Huge Amount of Cocaine Hidden	8115
@@ -702,7 +708,7 @@ Indicativos de Ameaças	11569
 Indicativos de Forças	11569
 Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75
 Indicator Baseline	940
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
 Indicator Current	12399
@@ -727,7 +733,7 @@ Indicator Name Indicator	12228,39
 Indicator Name Jun	6928
 Indicator Number	6671
 Indicator Number of PhD	1204
-Indicator P4-12	12225
+Indicator P4-12	12500
 Indicator Responsibility Budget Design Measures Purchase	1988
 Indicator SMS Senior Management Service PICC	11986
 Indicator Safaricom PLC Kenya Ltd Jan-Mar	6671
@@ -739,12 +745,13 @@ Indicator WARCIP West African Regional Communications	1000
 Indicator and Metadata Management	11939
 Indicator for Monitoring Budget Air Pollution	1988
 Indicator-Level Responses	10785
-Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205
+Indicators	789,172,9,30,144,674,1786,697,2370,77,595,205,3232,49,134,1,307,119,27,155,323,256,205,156
 Indicators Activities Corrective Action Deviation	5245
 Indicators AfDB3 Gates IsDB5 AFD6 EU7	11469
 Indicators Baseline	4349
 Indicators Data	12399
 Indicators Indicators	7548
+Indicators Leading Indicators	12512
 Indicators MACRA Malawi Communications Regulatory Authority	12240
 Indicators Memorandum	11134
 Indicators PCE	3604
@@ -807,7 +814,7 @@ Indikatori	10780
 Indileni Daniel	9353
 Indiquer	1187,9213,436
 Indiquez	747,1606,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1175,170,145
-Indirect	236,509,3908,1268,4859,222,522,476,269,1,115
+Indirect	236,509,3908,1268,4859,222,522,476,269,1,115,105
 Indirect Beneficiaries Beneficiaries	10964
 Indirect Component	10964
 Indirect Method	11955
@@ -829,7 +836,7 @@ Individual Accounts. A	11233
 Individual Address	11129
 Individual Authentication Timestamp Total Web Authentication	11955
 Individual Beneficiaries	11233
-Individual Business Profit Tax	12225
+Individual Business Profit Tax	12500
 Individual Code of Conduct	12253
 Individual Company	22
 Individual Comprehensive	1900
@@ -854,7 +861,7 @@ Individual M-Pesa	7898
 Individual Members’ Attendance	11131
 Individual Merchants Retail Large Customer Agent	5687
 Individual Number Card	10714
-Individual Participant	12324
+Individual Participant	12484
 Individual Qualified Signature Qualified Signature	11955
 Individual RIRs	3503
 Individual Rights and Legal Standing	3861
@@ -930,25 +937,26 @@ Key Indicators for Measuring Information Society	2775
 Key P1e4rf.4ormKeaynPcerIfnodrimcaatnocrse Indicators	10157
 Key Performance Indicator	3898,2202,732,5524
 Key Performance Indicator KSAD	6832
+Key Performance Indicator LLM Large Language	12512
 Key Performance Indicator MDAs Ministries	4126
 Key Performance Indicator MFSA Microfinance South	11198
 Key Performance Indicator Ministry	10157
-Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88
+Key Performance Indicators	3487,1041,2304,2278,454,593,974,62,57,702,110,294,88,68
 Key Performance Indicators Implementation	10157
 Key Performance Indicators Improve	12359
 Key Performance Indicators Monetary Policy Consultative	11131
-Key Performance Indicators and Monitoring Framework AI	4528
+Key Performance Indicators and Monitoring Framework AI	4528,7984
 Key Performance Targets and Indicators	11131
 Key Performance Targets and Indicators Objective	11134
 Key Performing Indicators for Konza Technopolis	2775
 Kits Individuais	11962
 Korea Poland Brazil Croatia Chile India	7655
 LES INDICATEURS	8637
-Lagging Indicators	4528
+Lagging Indicators	4528,7984
 Later India	8206
 Le Programme Indicatif Multi-Annuel	643
 Leading Economic Indicators	2775
-Leading Indicators	4528
+Leading Indicators	4528,7984
 Legal Status Indicate	5903
 Lesotho and India	3363
 Libya Indians	4849
@@ -966,6 +974,7 @@ MAIN SOCIO-ECONOMIC DEVELOPMENT INDICATORS AND ICT	958
 MEA. The India DPI Summit	7981
 MESURE INDIVIDUELLE Au	2808
 MESURES INDIVIDUELLES Au	3045
+MFIs. Indirect	12490
 MICS Multiple Indicator Cluster Survey MOH	10829
 MONITORING AND EVALUATION Definition of Indicators	962
 MONITORING SUCCESS Transition Impact Monitoring Indicators	1818
@@ -1133,6 +1142,7 @@ PROTECTION OF INDIVIDUALS WITH REGARD	25
 PSDI Indicator-Level Responses	10785
 PSPs Scope System Type Binary Indicates	7221
 Pakistan and India	11964
+Participants Direct Indirect	12490
 Participação Indirecta	5169,5586
 Partnership Framework CPF Corporate Results Indicator	11417
 Partnership Framework CSI Corporate Scorecard Indicator	6539
@@ -1141,7 +1151,7 @@ Passports Indicator	11986
 Patel A. SMARTHealth India	1219
 Payments Council of India	5124
 People-centric Digitally Enabled Public Services Indicator	11971
-Performance Assessment Report Template Indicators Sources	12225
+Performance Assessment Report Template Indicators Sources	12500
 Performance Indicator Large Language Model Monitoring	4528
 Performance Indicator Responsible Person	1988
 Performance Indicator Responsible Person Component	1988
@@ -1210,7 +1220,7 @@ Promote Responsible AI Adoption Outcome Indicators	12356
 Promotion of Indigenous Minority Rights	11868
 Proporção de Indivíduos	11418
 Proposed Alterations New Indicator New Target	4653
-Proposed Key Performance Indicators	4528
+Proposed Key Performance Indicators	4528,7984
 Protection of Individuals	8776
 Protecção Individual ERR Equipas	11376
 Quadro de Indicadores de Desempenho	11406
@@ -1234,7 +1244,7 @@ RSN Logique Résultats Indicateurs Sources	10874
 Radio Frequency Spectrum Dependent Individual License	762
 Radio Frequency Spectrum for Individual Licenses	762
 RailTel Corporation of India	4576
-Rank Code Indicator	10969,916
+Rank Code Indicator	10969,916,602
 Ranking Overall Government Business Individual South	236
 Ranking of Doing Business Indicators for Zambia	12376
 Recent Visits From India	2667
@@ -1377,8 +1387,8 @@ Targets Indicator Private	11469
 Technologies Bangladesh ICT Division India Ministry	11135
 Technology India and South Africa	6480
 Technology and Innovation Indicators	10421
-Template Indicators Attachment V. Sources of Evidence	12225
-Template Indicators Sources of Evidence P7-24. Time	12225
+Template Indicators Attachment V. Sources of Evidence	12500
+Template Indicators Sources of Evidence P7-24. Time	12500
 Terms of Historically Disadvantaged Individuals	11218
 Third Amendment Standard Terms and Conditions for Individual	11259
 Third India-Africa Forum Summit	11183
@@ -1430,7 +1440,7 @@ Western Africa. PDO Level Indicators	1264
 Whether India	6411
 World Bank Corporate Scorecard Indicator	10768
 World Bank Development Indicators Note	5247
-World Bank Governance Indicators	4528
+World Bank Governance Indicators	4528,7984
 World Bank Indicators	11935
 World Bank Statistical Capacity Indicator	1188
 World Bank World Development Indicators	11965,296,115

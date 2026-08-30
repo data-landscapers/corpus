@@ -62,7 +62,7 @@ Case Studies	1250,3313,2384,1,203,3701,1504
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,91
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175
 Case Study A ZOOM-IN ON EGYPT	12339
 Case Study Analysis Report	7151
 Case Study Companion	2858
@@ -95,6 +95,7 @@ Centre for Primary Health Care Studies	12025
 China Society for WTO Studies	10038
 Citizenship Studies	5448
 Comparative Political Studies	7886
+Comparative Population Studies	12486
 Comparative Study of Australia	11006
 Comprehensive Draft Study	2117
 Computer Studies	2308,10099
@@ -204,7 +205,7 @@ Human Factors and Usability Case Studies	10919
 ICT Benchmark Study	12395
 ICT-Based Start-Ups and Asian Studies	905
 IGRP Studio	11939
-IMF Revenue Administration VAT Gap Study	12225
+IMF Revenue Administration VAT Gap Study	12500
 ITU Study Group	7174
 ITU-R Study Groups	5680
 ITU-T Study Group	7320
@@ -216,14 +217,14 @@ Individual Student Needs	6948
 Innovators Students	2709
 Inspected Studios	6946
 Institute for China-America Studies	10444
-Institute for Development Studies	6211,736,939,1793,2513,86
+Institute for Development Studies	6211,736,939,1793,2513,86,223
 Institute for Fiscal Studies	1123
 Institute for Futures Studies	7112
 Institute for Security Studies	4127,2260,563,1900,549,217,446,2165
 Institute for Security Studies and African Futures	7233
 Institute for Security Studies. All	9616
 Institute of Development Studies	369,881,239,3749,270,1127,315,5212
-Institute of Development Studies and Senior Research Fellow	12332
+Institute of Development Studies and Senior Research Fellow	12485
 Institute of Local Government Studies	581
 Institute of Peace and Conflict Studies	2518
 Institute of Social Studies	6946
@@ -276,6 +277,7 @@ Living Standards Measurement Study	1219,10353,9
 Local Government Studies	5349
 Looker Studio	5256
 Lungi Four Sierra Leonean Students Seek	5390,965,827
+METHODOLOGY Study Design	12508
 MICT SETA Tracer Study Survey	6832
 Malawi's Deputy Chief Secretary Stuart Ligomeka	11731
 Malawi. J Disability Policy Stud	12231
@@ -326,7 +328,7 @@ Office of Postgraduate Studies	3791
 Office of Studies	10780
 Ofred Studios	12234
 Oral Studies	7886
-Oxford Centre of Islamic Studies. Prior	12332
+Oxford Centre of Islamic Studies. Prior	12485
 PSRI Population Studies and Research Institute RA	12151
 Pan-African Studies	7233
 Peak-Season Readiness Case Study	4848
@@ -454,6 +456,7 @@ Study Page	3385
 Study Play	9916
 Study Population and Sample Size	10919
 Study Ranks Rwanda Among Africa’s	3256
+Study Rationale	12508
 Study Setting	8604
 Study Sites	4439
 Study The DLP	899
@@ -525,11 +528,12 @@ World Bank GovTech Case Study	1393
 World Bank. Multidisciplinary Research and Studies. Policy	12297
 Yale Rev Int Stud	5242
 Year of Study and Sex	2775
+ZIPIT Zimbabwe Case Study	12490
 ZPWMA African Centre for Technology Studies Botswana	1554
-Zambia Digital Health Case Study	12418
-Zambia Digital Health Case Study Electronic	12418
-Zambia Digital Health Case Study Governance	12418
-Zambia Digital Health Case Study MODESTER	12418
+Zambia Digital Health Case Study	12502
+Zambia Digital Health Case Study Electronic	12502
+Zambia Digital Health Case Study Governance	12502
+Zambia Digital Health Case Study MODESTER	12502
 Zimbabwe Digital Health Case Study Page	3385
 Zimbabwe Maternal and Perinatal Mortality Study	21
 Zimbabwe Metagenomics Study of The Diversity	1154

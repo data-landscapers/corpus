@@ -230,6 +230,7 @@ IPS Rulebook	12269
 IPS UN Bureau	8472
 IPS-related	12269,1
 IPS. FCFA	2342
+IPS. Regulation Key	12490
 IPS. SIMOrede	12270
 IPSAS	1554,1497,3895,2058,249,1722
 IPSAS Accrual Basis	6422
@@ -332,7 +333,7 @@ Marketing Transport IPF	11469
 Medium Enterprise HFO HHI IK IPP	12256
 Middle East. IPT	344
 Ministère des Affaires IPF Sociales	11905
-Modernizing IP	4528
+Modernizing IP	4528,7984
 Mojaloop-based IPS	4675
 Mozambique Approves IP Strategy	7624
 Mozambique's IP	12161
@@ -413,6 +414,7 @@ TPE IP du Trésor Public	10711
 TRANSIÇÃO DO IPv4 PARA O IPv6	11397
 Technologies IP	7548
 Technology IP Intellectual Property IPR Intellectual	5246
+Things IP Intellectual Property IT Information	12512
 Things IP Intellectual Property KEBS Kenya	7548
 Transmission and IP Layer	10721
 Transport Networks and IP Networks	1766
@@ -421,6 +423,7 @@ Unique IPs	1013,931
 United States Dollar IPRS Integrated Population	12297
 University of Cape Town’s IP Chair	6041
 Updated IPC	3583
+W IPO Intellectual Property Statistics	12487
 WORKS IPN	12477
 World Bank Disbursement Guidelines for IPF	1264
 World Bank IPF Policy and Directive	1264,2340
@@ -434,3 +437,4 @@ World Wide Web. IP	1036
 YOKUTHUTHA NOMA IPHEMITHI ISIQEPHU	11573
 YOKUTHUTHA NOMA IPHEMITHI. ISIQEPHU	11573
 Zamfara IPAC	9876
+Zimswitch IPS	12490

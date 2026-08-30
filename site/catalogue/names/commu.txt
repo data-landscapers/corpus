@@ -333,6 +333,7 @@ Chinese Communist Party	2117,401,1080,1644,5108
 Chinese Journal of Communication	226
 Chipper Cash and Community Member	1879
 Choice of Communication Platforms	8999
+Christian Community Police Network	12510
 Christian Community Services	7167
 Christian Community Services Mayori Dispensary Data	7167
 Ci-dessus Communiqué	11093
@@ -418,7 +419,7 @@ Communicate Roadmap	8668
 Communicate Would	8603
 Communicating	775,7579,2663,1366,62
 Communicating and Coordinating Mobile	11017
-Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3
+Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3,52,7,3
 Communication All	395
 Communication And Public Relations	12358
 Communication Audiovisuelle	8891
@@ -554,7 +555,7 @@ Communication. L'ÉCOSYSTÈME DIGITAL	10024
 Communication. Le Conseil des Ministres	2738,3329
 Communication. Nous	2514
 Communication. Quatre	2342
-Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146,102,27,50,16,34,230,25,15,103,36,7,5,19,49,9,14
+Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146,102,27,50,16,34,230,25,118,36,7,5,19,49,9,14,33,12
 Communications Act	1209,326,215,97,53,75,5,6,1122,2060,375,996,245,41,1,447,138,2,112,23,1115,554,1227,1770,18,104,123
 Communications Act No	5502,6685
 Communications Act. SpaceX	6825
@@ -635,7 +636,7 @@ Communications Sector Indicators Harmonisation	8753
 Communications Sector Performance Report	9591,508
 Communications Sector Statistics Report for January-March	6728
 Communications Service Proclamation No	762
-Communications Specialist	4528
+Communications Specialist	4528,7984
 Communications Statistics	9689
 Communications Strategy	10345
 Communications Technology	534,48
@@ -722,9 +723,9 @@ Communities RTAs Regional Trade Agreements SADC	1243
 Communities Relevant Cultural Heritage Relevant Financial	10829
 Communities Said About GCTs Members	6947
 Communities and Refugees WTO World Trade Organization	10841
-Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5,220,51,6,34,30,224,50,13,2,9,21,9,73,31,36,4,14,5,26,27
+Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5,220,51,6,34,30,224,50,13,2,30,9,73,31,36,4,14,31,27,29,2
 Community AI	6948
-Community AI Councils	4528
+Community AI Councils	4528,7984
 Community Act	2781
 Community Action	11469
 Community Action Network Africa	7167
@@ -873,6 +874,7 @@ Community Radio Stations	5244
 Community Radio Stations Syndication Nationwide	8999
 Community Radion Stations Community Radio Presence	8999
 Community Real-Time Gross Settlement	11960
+Community Relations Liaison Officers	12510
 Community Reporting System	4153
 Community Reports	1988
 Community SAPS South African Police Service	11986
@@ -934,6 +936,7 @@ Community-centric	4126
 Community-focused	2773
 Community-led	6955
 Community-level	1867,5081,2668,2566
+Community. Driven	12493
 Community. Election of New President	7452
 Community. Southern Africa	9959
 Community. The Council	11806
@@ -951,7 +954,7 @@ Consumers of Information and Communication Technology	236
 Contact Us National Communications Authority Airport	9109
 Contingent Emergency Response Component Community Multimedia	4653
 Control and Communication Centre	6866
-Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Convergence Partners Communications Infrastructure Fund	53,557
 Copper Springs Community Health Center Data	7167
 Copy Link News Alerts WhatsApp Communications	5050,883,432
@@ -1083,7 +1086,7 @@ Director of Stakeholder Engagement and Communication	9415
 Directorate General of Transport and Commune IV	2597
 Directorate of Community Health and Health Promotion	10940
 Directorate of Information and Communication	7794
-Directorate of Information and Communications Technology	12418
+Directorate of Information and Communications Technology	12502
 Disabilities CSCS Superior Council of Social Communication	12201
 Disabilities FORCOM National Forum of Community Radios	12201
 Disabilities NCR Nairobi Commuter Rail NDC	2775
@@ -1556,7 +1559,7 @@ Information and Communications Technology Cabinet	10765,10
 Information and Communications Technology IDI	958
 Information and Communications Technology Landscape	6946
 Information and Communications Technology Task Team Leader	11863
-Information and Communications Technology. Currently	12418
+Information and Communications Technology. Currently	12502
 Information and Communications Technology. LODA	12403
 Information and Communications Technology. Location	1380
 Information and Communications Youths Business	1161
@@ -1776,7 +1779,7 @@ Minister of Communications and Technology	1694,48,1058,950,825
 Minister of Communications of Iraq	11738
 Minister of Digital Communications and Technologies	4242
 Minister of Digital Transformation and Communications	10663
-Minister of Information Communication Technology	958,265,3305,94,1999,815
+Minister of Information Communication Technology	958,265,3305,94,1999,815,5076
 Minister of Information Communications Technology	1877
 Minister of Information and Communication Technologies	3215
 Minister of Information and Communication Technology	2588,999,33,1150,773,237,4871
@@ -1802,7 +1805,7 @@ Ministry of Communication and Information Technology	4583,370,1067,1,9,716
 Ministry of Communication and Innovation	1814
 Ministry of Communication and Media	11918,182
 Ministry of Communication. While the NCA	236
-Ministry of Communications	11,225,73,1808,221,398,136,638,616,682,2,24,280,22,79,30,820,1818,540,204,494,365,394,277,40,113,195,317,307,609,119
+Ministry of Communications	11,225,73,1808,221,398,136,638,616,682,2,24,280,22,79,30,820,1818,540,204,494,365,394,277,40,113,195,317,307,609,119,655,1
 Ministry of Communications and Digital Economy	1179,85,13,82,204,151,2037,503,289,7314
 Ministry of Communications and Digital Economy Hassan M	11670
 Ministry of Communications and Digital Economy Qatar Ms	2958
@@ -1833,9 +1836,9 @@ Ministry of Economic Affairs and Communications	11135
 Ministry of Health Community Development	1261
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Information Communication	1000,5946
-Ministry of Information Communication Technology	958,2802,632,136,5545
+Ministry of Information Communication Technology	958,2802,632,136,5545,2439
 Ministry of Information Communication Technology NAIC	4528
-Ministry of Information Communication Technology Postal	4528
+Ministry of Information Communication Technology Postal	4528,7984
 Ministry of Information Communication and Digital Economy	1638
 Ministry of Information Communications Technologies	395
 Ministry of Information Communications and Technology	899
@@ -1854,7 +1857,7 @@ MoCDGEC Ministry of Community Development	11133
 MoCDTl Ministry of Communication	6936
 MoU Minutes of Use NCA National Communications	2776
 Mobile Cellular Communications Operators	958
-Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Mobile Communications	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Modernization of Refugee and Host Community Settlement Areas	1867
 Mojaloop Community	2537
 Monday. The Malawi Communications Regulatory Authority	10950
@@ -1871,6 +1874,7 @@ Mozambique's Minister for Communications	8965
 Mozambique's National Communications Institute	6797
 Mozambique. Community and Cultural Relations	2667
 Mr. Molalet Tsedeke I Information and Communications	11283
+Multimedia and Communications Specialist	12507
 Municipal and Communal Administrations	10775
 Mwananchi Communications Limited	3447,6748
 Myth of Community Ownership	9914,1,77
@@ -1918,13 +1922,14 @@ National Communication Council	10370
 National Communication Sector Policy San Marino	11529
 National Communications	11277
 National Communications Act	236
-National Communications Authority	11,78,147,346,5,1105,161,449,36,438,453,155,21,66,112,54,113,24,212,140,358,324,2,273,81,113,61,52,43,40,141,56,10,98,169,201,474,252,494,141,66,540,132,208,125,144,41,2,310,19,13,12,119,1175,36,129,459,93
+National Communications Authority	11,78,147,346,5,1105,161,449,36,438,453,155,21,66,112,54,113,24,212,140,358,324,2,273,81,113,61,52,43,40,141,56,10,98,169,201,474,252,494,141,66,540,132,208,125,144,41,2,310,19,13,12,119,1175,36,129,459,93,1381
 National Communications Authority Act	11,1934,2638,2785,409
 National Communications Authority Director General Mustafa	6788
 National Communications Authority INVITATION FOR COMMENTS	236
 National Communications Authority Index	582
 National Communications Authority NFSL National Fiscal	236
 National Communications Authority Tower	8748
+National Communications Authority of Somalia	12513
 National Communications Authority of South Sudan	4069
 National Communications Authority. All Rights Reserved	9109
 National Communications Centre	2117
@@ -2033,7 +2038,7 @@ Ouagadougou. La Commune de Ouagadougou	10860
 Ouest BCDF Bureau Communal du Domaine	10876
 Ouvrage Communale	643
 Ovatue and Ovatjimba Communities Ben	12373
-Oversee the Stakeholder Management and Communications Unit	4528
+Oversee the Stakeholder Management and Communications Unit	4528,7984
 Ozon and Giga Communications and Technology	2843
 PART V INTERCEPTION OF COMMUNICATIONS	2727
 PCD Performance-Based Condition PDO Plan Communal	10964
@@ -2304,7 +2309,7 @@ Southern Africa Health Community	11417
 Southern Africa Health Community ECSA-HC Excellence	11417
 Southern African Community	10169
 Southern African Development Commu-	2775
-Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45
+Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45,44
 Southern African Development Community Committee	12432
 Southern African Development Community EPTC Eswatini	12444
 Southern African Development Community SAPP Southern	12399
@@ -2317,13 +2322,13 @@ Southern African Development Community. Vision	9959
 Spectrally and Power Efficient Optical Communication Systems	4676
 Speech Commun	9739
 Stakeholder Engagement and Communication Plan	11131,3
-Stakeholder Management and Communications Pillar	4528
+Stakeholder Management and Communications Pillar	4528,7984
 Stakeholder and Communication Support	8999
 Stakeholder and Communication Support Presentation Layout	8999
 Starlink. Resolve Communications	7051
 StarlinkUganda Communications CommissionInternet	6197
 State Minister for Communications Ahmed Osman Dirie	9373
-State Minister of Communications and Technology	5947
+State Minister of Communications and Technology	5947,6566
 State of Communications Sector Study	4672
 Stored Communications Act	10088
 Strategic Communication	11260
@@ -2512,4 +2517,5 @@ Zanzibar Communication Corporation	10228
 Zanzibar Communication and ICT Infrastructure Agency	3458
 Zanzibar Ministry of Communication	10392
 Zealand’s Waihi Community Forum	11006
+Zimbabwe SADC Southern African Development Community	12512
 Zimbabwe’s Minister of Information Communication Technology	8483

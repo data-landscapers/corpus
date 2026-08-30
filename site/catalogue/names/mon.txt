@@ -8,7 +8,7 @@ AFFAIRES DROIT MONETAIRE FINANCES PROJETS EGYPT	10996
 AFRICAN COMMUNITY MONETARY AFFAIRS COMMITTEE	7815
 AFRISEND MONEY TRANSFER LIMITED Data Controller	7167
 AFRISEND MONEY TRANSFER LIMITED Data Processor	7167
-AI Governance Monitoring System	4528
+AI Governance Monitoring System	4528,7984
 AI-enabled Remote Monitoring System	7534,12
 AIRTEL MONEY KENYA LIMITED Data Controller	7167
 AIRTEL MONEY KENYA LIMITED Data Processor	7167
@@ -359,7 +359,7 @@ Directeur de Gozem Money Togo	3766
 Director General Teodomiro Monsuy Eyí	2672
 Director of Financial Stability Monitoring Department	6938
 Director of Monetary Policy Department	6938
-Directorate. Monthly	12225
+Directorate. Monthly	12500
 Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Disseminate Monitoring and Evaluation	11860
 District des Montagnes	2342
@@ -497,7 +497,7 @@ Financing of Terrorism Common Monetary Area Centre	11134
 Fintech and Mobile Money Expand the Reach	12092
 First City Monument Bank	12038
 First Nine Months of FY	6588
-Fiscal Affairs Department International Monetary Fund	12225
+Fiscal Affairs Department International Monetary Fund	12500
 Five Money Engines	5869
 Fix Is Five Months Overdue	10672
 Flutterwave and Moniepoint	2310
@@ -516,7 +516,7 @@ Fortunate Seneka Mongwai	11977
 Forum Mondial	10712
 Foundation for Real-Time School Monitoring Prior	11970
 Founder and Group CEO of Moniepoint	2310
-Framework The Monitoring and Evaluation	4528
+Framework The Monitoring and Evaluation	4528,7984
 Framework de Monitorização	11442
 Free Money	241,3019
 Freedom Day and Freedom Month	2626
@@ -541,6 +541,7 @@ GIE Monétique	1842,2535,1827,2284,2027,173
 GIE Monétique. Parallèlement	10688
 GIGA Monitoring Dashboard App	11220
 GIMAC Groupement Interbancaire Monétique	10965,979
+GIS Monitoring System LPG Overview Licensees	12515
 GSMA Mobile Money	5820
 GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
@@ -561,7 +562,7 @@ Getesa Money	6323
 Ghana Agricultural Information and Monitoring System	9561
 Global Action Plan Monitoring Framework	10776
 Global Education Monitoring Report. Paris	6832
-Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21
+Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111
 Global Entrepreneurship Monitor. Available	12376
 Global Entrepreneurship Monitor. Supporting Africa	12376
 Global Monetization and PPP	11469
@@ -618,18 +619,20 @@ IMF International Monetary Fund IPF Investment	11560
 IMF International Monetary Fund IPP Independent	10861
 IMF International Monetary Fund IRI Intermediate	1284
 IMF International Monetary Fund ISO International	11960
+IMF International Monetary Fund IoT Internet	12512
 IMF International Monetary Fund MCU United	4127
 IMF Staff Monitored Programme Technical Committee	11131,3
 IMF's Monetary and Capital Markets Director	9511
 INES de Mongomeyen	4209
 INES de Mongomo Mongomo	4209
 INTERNATIONAL MONETARY FUND	1828
-INTERNATIONAL MONETARY FUND Performance Assessment Report	12225
+INTERNATIONAL MONETARY FUND Performance Assessment Report	12500
 INTERNATIONAL MONETARY FUND Table	1828
 IV PROGRAMME Prévisions Montant	3396
 IX. MONITORIZAÇÃO E AVALIAÇÃO	10772
 IX. RESULTS FRAMEWORK AND MONITORING	10768
 Identity Is the New Money	11705
+Implement Monitoring Framework Key Performance Indicators	12508
 Implementation and Monitoring	1988
 Import Monitoring and Domestic Monitoring Department	1988
 Improve Climate Risk Monitoring	11103
@@ -656,7 +659,7 @@ Inteligência Artificial da Universidade Eduardo Mondlane	2816
 Intermediated Money Transfer Tax	9904
 International Gateway Monitoring System	5244
 International Gateway Monitoring System IIC	5244
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,20,130,21,9,10
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund Code	11895
 International Monetary Fund Country Report No	11905
@@ -667,7 +670,7 @@ International Monetary Fund IQR Interquartile Range	11258
 International Monetary Fund IRI Intermediate Results	11924
 International Monetary Fund MENA Middle East	11271
 International Monetary Fund OECD Organisation for Economic	11286
-International Monetary Fund Outdated	11895,264
+International Monetary Fund Outdated	11895,264,328
 International Monetary Fund PPP	10969
 International Monetary Fund Quota Subscription Account	11131
 International Monetary Fund SIP	10997
@@ -717,7 +720,7 @@ Kenya School of Monetary Studies	11131
 Kenya. Moniepoint	11119
 Kepple Africa Ventures and Endeavor Catalyst. Moniepoint	711
 Key Performance Indicators Monetary Policy Consultative	11131
-Key Performance Indicators and Monitoring Framework AI	4528
+Key Performance Indicators and Monitoring Framework AI	4528,7984
 Kohne and Montag	8436
 Kényane Naom Monari	11348
 L'UNION MONÉTAIRE OUEST AFRICAINE Le Gouverneur	10836
@@ -732,7 +735,7 @@ LV Low Voltage M&E Monitoring and Evaluation	12399
 La Banque Mondiale	9297,1668,979
 La Banque Mondiale Le MEF	10876
 Labour Organisation IMF International Monetary Fund	2775
-Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1
+Labour Organization IMF International Monetary Fund	10835,3,130,902,16,466,1,135
 Lake Kivu Monitoring Program	12358
 Lake Kivu Monitoring Program LV	12358
 Land Reform DPME Department of Planning Monitoring	11224
@@ -883,7 +886,7 @@ Malawi Economic Monitor	12181
 Malawi's International Monetary Fund	12230
 Maldives Monetary Authority	940
 Mama Money	8840
-Management Information System MOR International Monetary	12225
+Management Information System MOR International Monetary	12500
 Managing Director of Airtel Money Kenya	8623
 Managing Director of Guinéenne de Monétique	7706
 Mandela MonthMedia	11215
@@ -931,7 +934,7 @@ Mobile Money Growth	12245
 Mobile Money Guarantee	1541
 Mobile Money Integration By Emery Watson	4285
 Mobile Money International Courier Transaction Counts	9781
-Mobile Money Interoperability	8412
+Mobile Money Interoperability	8412,4078
 Mobile Money Interoperability Ghana	4908
 Mobile Money Limited	8766
 Mobile Money Manager-Northern	8766
@@ -968,6 +971,7 @@ Mobile Money. Un	2765
 Mobile Phone Money Transfer Services	12286
 Mobilité Prévisions Montant	3396
 Mobiole Money	12444
+Model M&E Monitoring and Evaluation MCAZ Medicines	12512
 Mohamed Moncer	10289
 Moldova Monaco Montenegro North Macedonia Ukraine	10764
 Momade and Mondlane	12201
@@ -1077,6 +1081,7 @@ Money Regulation	3308
 Money Services DeltaPay Important Documents Directive	12390
 Money Supply	2775
 Money The World Bank Enhancing	10768
+Money Transmission	12490
 Money and Payments	7
 Money and Quasi-Money Supply	2775
 Money. Unpublished	6947
@@ -1159,7 +1164,7 @@ Moniepoint’s US	12339
 Monina Tran	10840
 Moninet Limited	3386
 Monique Yarga	6889
-Monitor	34,924,42,988,489,1036,613,402,1137,11,756,400,585,121,10,1415,1194,564,296,171,42,45,10,116,460,134,190,16,13,26,13,33,16,54,3
+Monitor	34,924,42,988,489,1036,613,402,1137,11,756,400,585,121,10,1415,1194,564,296,171,42,45,10,116,460,134,190,16,13,26,13,33,16,54,3,153
 Monitor AI-related	7548
 Monitor Quality of Service	5676
 Monitor and Evaluate	11216
@@ -1183,7 +1188,7 @@ Monitoreo	1701
 Monitoria	2138,678,7961,664,8,98
 Monitoria da Política	11362
 Monitoria da Política. Revoga	11362
-Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,297,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,50,15,5,8,4,101,41,13,5,27
+Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,297,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266,64,2,6,42,2,17,3,12,13,1,3,9,6,15,9,13,130,11,26,65,5,8,4,101,41,13,5,27,56,12
 Monitoring Activities Throughout	11955
 Monitoring Alcoholic and Sugary Beverages	10776
 Monitoring And Evaluation	958
@@ -1243,9 +1248,9 @@ Monitoring and Compliance Architecture	3861
 Monitoring and Compliance. Establish	1777
 Monitoring and Continuous Compliance	5665
 Monitoring and Continuous Improvement	5665
-Monitoring and Enforcement	718,3810
+Monitoring and Enforcement	718,3810,7984
 Monitoring and Evaluating	11006
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59
 Monitoring and Evaluation A Monitoring and Evaluation	12453
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Monitoring and Evaluation BMA Border Management Authority	11986
@@ -1270,7 +1275,7 @@ Monitoring and Evaluation Plan	1000,2604,7164
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
 Monitoring and Evaluation PoA Programme of Action PPP	11224
 Monitoring and Evaluation Private Bag X944 Pretoria	11224
-Monitoring and Evaluation Processes and Reporting Mechanisms	4528
+Monitoring and Evaluation Processes and Reporting Mechanisms	4528,7984
 Monitoring and Evaluation Specialist	11750
 Monitoring and Evaluation The Department	11224
 Monitoring and Evaluation The Monitoring and Evaluation	12356
@@ -1532,16 +1537,16 @@ Montesanti S	3791
 Montesquieu	8993
 Montesquiou	11133,9
 Montgomery	5349
-Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,217,3,5,34,89,38,1,15,30
+Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60
 Month Above	12233
 Month Avg Resolution	9772
 Month Export Marking Volume	12256
 Month FEC	12256
 Month Indices Conversion	1154
 Month Later	7176
-Month Number	12225
+Month Number	12500
 Month Number of Balance	12252
-Month Stock	12225
+Month Stock	12500
 Month Treasury Bill Rate	1828
 Month Treasury Bill Rate Figure	1828
 Month-precision	3755,7217
@@ -1569,7 +1574,7 @@ Monthly GNI P.c	11262
 Monthly Geothermal Energy Generated	12256
 Monthly Gross National Income	11262
 Monthly High Frequency Events	11228
-Monthly Internal Performance Reviews	4528
+Monthly Internal Performance Reviews	4528,7984
 Monthly International Crude Oil Prices	2775
 Monthly International Visitor Arrivals	2775
 Monthly Invested	7446
@@ -1595,7 +1600,7 @@ Monthly VAPT Mandatory Monthly Testing Monthly	11952
 Monthly and Pay-	8999
 MonthlylyLLPPGGCCoonnssuummppttiion	12256
 Monthlyy PPeettrroolleeuummDdemand	12256
-Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35
+Months	2775,903,876,661,1217,10,494,62,909,2,42,2206,655,938,119,139,49,299,33,55,4,35,25
 Months Average	3583
 Months Average Available Capacity	12062
 Months Average Hourly Generation	12062
@@ -1763,14 +1768,14 @@ Orange Money. Pour	2983
 Orange Sierra Leone and Orange Money SL	10580
 Organisation Mondiale	8891,1921
 Organisation Mondiale. En	2546
-Oversee the Monitoring and Evaluation	4528
+Oversee the Monitoring and Evaluation	4528,7984
 Oyinsan. With Moniepoint	10165
 P-13 Establish Broadband Monitoring Committee. P-14	11857
-P2-5. Monitoring	12225
+P2-5. Monitoring	12500
 P25. Monthly	5062
 P2P Average Value of Mobile Money	9781
 P2P Mobile Money Transaction Count	9781
-P6-22. Monitoring	12225
+P6-22. Monitoring	12500
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PB Mobile Money	10793
 PDO Outcomes Monitoring	1867
@@ -1807,6 +1812,7 @@ Performance Monitoring	1988,9228,754
 Performance Monitoring Service	11952
 Performance Monitoring and Adaptability	3651
 Performance Monitoring and Evaluation	11224
+Performance Monitoring and Optimisation Zimbabwe's AI	12512
 Performance Monitoring and Optimisation Zimbabwe’s AI	4528
 Performance Monitoring and Reporting	10157
 Performance Monitoring for Action	1212
@@ -1816,7 +1822,7 @@ Person International Energy Agency International Monetary	11136
 Planning and Monitoring and Evaluation PPP Public Private	11197
 Plano de Monitorização	11406
 Plus GAR-SI Fond Monétaire Internationale GAT	643
-Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1
+Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135
 Policy and Monitoring	11907,268
 Policy and Monitoring Strategic	11907
 Post Monthly Newsletter	11251
@@ -2162,6 +2168,7 @@ Yet Airtel Money’s Initial Public Offering	8049
 Youth Month	11272
 ZAMBIA MONITOR	8294,219,866,3085,8
 ZRA News MOBILE MONSTER CONVICTED	12454
+ZWL the Money Laundering and Proceeds of Crime Act	12490
 Zambia Monitor	5247
 Zambia and Zimbabwe. West African Economic and Monetary	2775
 Ziidi Money Market Fund	8624

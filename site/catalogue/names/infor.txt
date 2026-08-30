@@ -271,7 +271,7 @@ Cellule Nationale de Traitement des Informations Financières	2623,8899,45
 Center for Financial Information Systems	3058
 Center for Information and Decision	11969
 Center for Intellectual Property and Information Technology	12210
-Center for International Earth Science Information Network	10835,3,130,902,16,466,1
+Center for International Earth Science Information Network	10835,3,130,902,16,466,1,135
 Central African Republic ICT Information Communication	969
 Central de Informação	11386
 Centre Informatique	3715
@@ -551,7 +551,7 @@ Director of Planning and Information	7779
 Director. O Gabinete de Tecnologias de Informação	167
 Directorate of Information Systems	11858
 Directorate of Information and Communication	7794
-Directorate of Information and Communications Technology	12418
+Directorate of Information and Communications Technology	12502
 Directorate of Policy and Planning Information	34
 Directorates for Information Systems	2321
 Directors of Information Systems	3661,1256
@@ -574,7 +574,7 @@ Dissemination of Consumer Information	6946
 District Education Management Information Systems Officers	12175
 District Health In- District Health Information	10780
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,5
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
 District Health Management Information System	1261
@@ -623,12 +623,12 @@ Eduardo Mondlane Informatics Centre	12237
 Education Information Officer	11180
 Education Information Policy	11180
 Education Management Information	11860
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
 Education Management Information System F2F	6832
 Education Management Information System NGA National	12151
-Education Management Information Systems	11180
+Education Management Information Systems	11180,1314
 Education Management and Information System	10748
 Education and Information Technologies	6948,1654
 Education and Training Authority MISS Minimum Information	11196
@@ -677,6 +677,7 @@ Eritrea's Ministry of Information	6230
 Erroneous Information	12389
 Escola Superior de Informática Bissau Zona-V Private	11552
 Escolha Informada	10777
+Essential Logistics Management Information System	12508
 Establish Information Security Assurance	1000
 Estonia Eswatini Yes National Information and Communication	11529
 Eswatini ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
@@ -686,7 +687,7 @@ Eswatini's Client Management Information System	12470
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 Etat INFORMATIONS GÉNÉRALES	2342
 Ethics and Information Technology	10726
-Ethiopia Information	11607,618
+Ethiopia Information	11607,893
 Ethiopia Land Information Management System	354
 Ethiopia's Livestock Information System	8183
 Ethiopia's Livestock Information System Digital Public	8183
@@ -799,7 +800,7 @@ Freedom of Information FSDIP	5244
 Freedom of Information Laws	7222
 Freedom of Information and Censorship of Content	6949,2
 Fund Critical Information Infrastructure	587
-Fund MTRI Information Technology MTRS Large	12225
+Fund MTRI Information Technology MTRS Large	12500
 Fund. Critical Information Infrastructure Designation	587
 Further Information	4896,7027,268
 Further Information Further	1246
@@ -988,7 +989,7 @@ Human Resource for Health Information System	1261
 Human Resources Information System	11974
 Human Resources Management Information System	10785
 I Information and Communicaflon Technology	11517
-I. COUNTRY BACKGROUND INFORMATION Country Profile	12225
+I. COUNTRY BACKGROUND INFORMATION Country Profile	12500
 IAP2 Spectrum of Public Participation INFORM	11006
 IAR Immovable Assets Register ICT Information	11261
 IATI. Tanzania Health Information Systems	218
@@ -1177,7 +1178,7 @@ Informatics and Technological Traces Directorate	10911
 Informatics&volume	2096
 Informatik	9237
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,20,7,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12
 Information Access	6793
 Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,801,191,82,318,559,317,832,1242,160,79,796,171,835,64,2,9,6,69,608,113,61,129
 Information Act AU	5244
@@ -1197,6 +1198,7 @@ Information Authority	9022
 Information BAD	10874
 Information Booklet	12227
 Information Came of Age	2096
+Information Centre Latest News Press Releases	12515
 Information Centre SADC Southern African Development	11986
 Information Chad Yes Plan	11529
 Information Circular	6946,1644
@@ -1518,7 +1520,7 @@ Information and Communications Technology Cabinet	10765,10
 Information and Communications Technology IDI	958
 Information and Communications Technology Landscape	6946
 Information and Communications Technology Task Team Leader	11863
-Information and Communications Technology. Currently	12418
+Information and Communications Technology. Currently	12502
 Information and Communications Technology. LODA	12403
 Information and Communications Technology. Location	1380
 Information and Communications Youths Business	1161
@@ -1638,6 +1640,7 @@ Informelle	10875
 Informellement Inclus	10965
 Informels Volume	10965
 Informer	1005,6915,2956,89,967
+Informercials Newsletters Quarterly Sector Reports Gallery	12515
 Informes	1701
 Informes Específicos	1701
 Informes de Evaluación Global	1701
@@ -1702,7 +1705,7 @@ Integrated Social Protection Information System	10991
 Integração de Sistemas de Informação	12019
 Integridade da Informação	11393
 International Health Partnership HISP Health Information	766
-International Information Exchange Ethiopia	12225
+International Information Exchange Ethiopia	12500
 International Institute for Information Technology Bangalore	290
 International Institute of Information Technology Bangalore	1492,14,664,12
 International Journal of Information Management	4432,3327
@@ -1803,6 +1806,7 @@ La National Information Technology Development Agency	9740
 La Société Nationale de Développement Informatique	3675
 Laboratory Information Management	4153
 Laboratory Information Management System	34,4130
+Laboratory Information Management Systems	12508
 Laboratory Information System	34,12232
 Labour Market Information System	5652,881,4119,1060
 Labour Market Information Tnz Sida	148
@@ -1883,7 +1887,7 @@ MISS Minimum Information Security Standards MMM	5533
 MIT’s Centre for Information Systems Research	6231
 ML Machine Learning MICDE Ministry of Information	7548
 MOBI.KE Information	6671
-MOF's Integrated Financial Management Information System	12225
+MOF's Integrated Financial Management Information System	12500
 MOH. Information	1219
 MOICI Ministry of Information Communications	1000
 MTN Group Chief Information Officer Nikos	8583
@@ -1896,12 +1900,13 @@ Making Social Protection Information Systems Adaptive	11133
 Malawi Healthcare Information System	12240
 Malawi Traffic Information System	12309
 Malawi's Health Information Systems	12242
+Malawi. Journal of Global Health Informatics	12508
 Malawi. Only the National Health Information System	12242
 Management Information Management Systems IFMIS Integrated	11545
 Management Information PCU	11525
 Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77
 Management Information System EMIS Essential Package	11905
-Management Information System MOR International Monetary	12225
+Management Information System MOR International Monetary	12500
 Management Information System for Social Assistance	1371
 Management Information Systems	12453
 Management Information Systems Quarterly	2948
@@ -1947,7 +1952,7 @@ Minister of Communication and Information Technology	8884
 Minister of Communication and New Information Technologies	3467
 Minister of Communications and Information Technology	11162,479,97
 Minister of Information	736,478,69,191,1889,220,404,95,15,126,643,349,235,828,345,830,1247,101,396,17,91,220,767,1426
-Minister of Information Communication Technology	958,265,3305,94,1999,815
+Minister of Information Communication Technology	958,265,3305,94,1999,815,5076
 Minister of Information Communications Technology	1877
 Minister of Information Shadric Namalomba	3933
 Minister of Information Technology	1869,1687,3779,2323,963,1511
@@ -1979,9 +1984,9 @@ Ministry of Industry and Information Technology	10649
 Ministry of Information	940,60,21,179,438,6,322,28,298,395,180,372,119,59,166,166,79,23,677,69,75,218,125,68,14,10,1,26,140,69,180,251,25,214,19,14,136,10,21,219,84,111,149,45,107,18,231,185,79,6,101,8,1,48,3,101,383,2,136,20,247,71,5,216,128,38,123,79,40,14,316,719,46,174,169,22,11,461,216,375,146,283,65,120,61,31,18
 Ministry of Information Chief Director Mr Jonathan	11618
 Ministry of Information Communication	1000,5946
-Ministry of Information Communication Technology	958,2802,632,136,5545
+Ministry of Information Communication Technology	958,2802,632,136,5545,2439
 Ministry of Information Communication Technology NAIC	4528
-Ministry of Information Communication Technology Postal	4528
+Ministry of Information Communication Technology Postal	4528,7984
 Ministry of Information Communication and Digital Economy	1638
 Ministry of Information Communications Technologies	395
 Ministry of Information Communications and Technology	899
@@ -2305,6 +2310,7 @@ Primary Health Care Information System	11980
 Principal Information Technology Officer	3238
 Printing Works MIOS Minimum Information Security	11986
 Prior and Informed Consent	7695
+Privacy Information	12486
 Privacy Information Management	7055
 Privacy Information Management System	3861
 Private Credit Information Centers	9105
@@ -2322,7 +2328,7 @@ Programa de Reconversão da Economia Informal	10758,677
 Programas Informáticos	11425
 Progress Report. Ministry of Health. Ministry of Information	12240
 Project Financing IT Information Technology JICA	10768
-Project Information Document	772,199,25,197,26,485,549,38,831,9131,159,14
+Project Information Document	772,199,25,197,26,485,549,38,9962,159,14
 Project Information Documents	5620
 Projets Informatiques	1293,765,2313
 Promote the Freedom of Information Act	5244
@@ -2370,6 +2376,7 @@ Publishing Classified Military Information Aids Terrorists	4738
 Quality of Reports and Information	12376
 Quarterly Financial Information PCU System Description	11525
 Quarterly Management Information PCU	11525
+RBZ. Information	12490
 RECOLHA DA INFORMAÇÃO	10757
 REGULATOR GENERAL INFORMATION LIST OF ABBREVIATIONS	11198
 REQUESTS FOR CLARIFICATION OR FURTHER INFORMATION	11240
@@ -2674,6 +2681,7 @@ State of Information Systems Education Research	1248
 Statistical Support and Informatics	11237
 Statistics and Information Management	1512,2,2967,9
 Statut Branche Formel Informel Total Activités	10875
+Stay Informed	12495
 Stay Informed Sign	6932
 Storage of Company and Beneficial Ownership Information	12389
 Strategic Plan for Information Society	12161
@@ -2688,6 +2696,7 @@ Studia Informacyjne	8022
 Studying Information Technology	5349
 Subject Company Information	7198
 Subject Company Information Regulation M-A Item	7198
+Submission Information For Readers For Authors	12486
 Subproject Information Subproject Title	1988
 Subscriber Information	3862
 Subsecção VII Informações	11901
@@ -2730,8 +2739,8 @@ Tanzania and Uganda. South Africa's Information Regulator	6632
 Tanzania. BMC Med Inform Decis Mak	3791,4585,2505
 Tanzania’s Communication and Information Minister	3460
 Tax Information Exchange Agreements	11976
-Tax Information Unit	12225
-Tax Information and Cash Registration Machine Administration	12225
+Tax Information Unit	12500
+Tax Information and Cash Registration Machine Administration	12500
 Tax Management Information System	10785
 Tax Mgmt Information System I-7	10785
 Taxpayer Information	11976
@@ -2762,6 +2771,7 @@ Tendai S. Samusodza Department of Information Technology	8130
 Thanzi Mafunzwaini Department of Informatics	7759
 TheAfrica Information Society Initiative	12325
 Theorizing About the Design of Information Infrastructures	5700
+Things IP Intellectual Property IT Information	12512
 Through the Ministry of Information	8091
 Time for New Information	12389
 Timely and Understandable Climate Information Lusaka City	10347
@@ -2775,7 +2785,7 @@ Training Institution Information System	1261
 Training Institutions Information System Adopt	12453
 Tramitação Documental PRESTAÇÃO DE INFORMAÇÃO	11435
 Transparency and Availability of Information	12389
-Transparency and Exchange of Information for Tax Purposes	12208,17
+Transparency and Exchange of Information for Tax Purposes	12208,292
 Transparência da Informação	10755
 Transparência de Informação	12021
 Transversal Information Technology Management	1618,3915,6453
@@ -2822,6 +2832,7 @@ Upgrading Informal Settlements	11285
 Uptake Of Informal Financial Services	12409
 Uptake of Informal Financial Services Adults Belonging	12409
 Urban Land and Property Registration and Information Agency	5655
+Usage Statistics Information	12486
 Use Information	5113
 Use Information Communication Technologies	1814
 Use of Information and Communication	11182

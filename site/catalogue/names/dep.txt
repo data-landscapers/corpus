@@ -24,6 +24,7 @@ Accountant General's Department	5251
 Accountant General's Department. Gambians	5251
 Accounting Department of Jumhuriya Bank Tripoli	4630
 Across the Department of Home Affairs	6196
+Acting Deputy Director	12507
 Acting Deputy Director-General	11275,10,4
 Acting Deputy Vice-Chancellor of Digital Transformation	10343
 Acting Director of Economic Statistics Department Email	12445
@@ -469,7 +470,7 @@ Departement van R	12047
 Departement van Vervoer	11551
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354,75,165,124,5,42,1,2,1,4,4,5,6,13,1,2,3,6,6,34,1,7,1,7,1,1,3,4,262,12,153,152,22,26,60,1,9,61,7,40,57,63,3,23,1,12,46,28,73,7,104
 Department ALECSO Charter	2958
 Department Annual	7548
 Department Anti-Corruption Bureau	12241
@@ -515,7 +516,7 @@ Department of Agriculture Livestock and Blue Economy Data	7167
 Department of Agriculture and Rural Development	9609
 Department of Anthropology	4448
 Department of Arts	5246
-Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10
+Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487
 Department of Basic Education DCDT	6832
 Department of Basic Education Health	11237
 Department of Basic Education Integrate	11195
@@ -661,7 +662,7 @@ Department of Justice and Constitutional Development Remarks	11227
 Department of Justice and Constitutional Development’s	2117
 Department of Labour	11285
 Department of Labour Services	12253
-Department of Land Reform and Rural Development	2660,7016,1585,698
+Department of Land Reform and Rural Development	2660,7016,1585
 Department of Land Reform and Rural Development Physical	11261
 Department of Land Reform and Rural Development. P	11260
 Department of Land and Agriculture	3761
@@ -737,6 +738,7 @@ Department of State Senior Advisor for Space Greg	6897
 Department of State Services	5215,3634,2865
 Department of State’s Bureau of Economic	11005
 Department of Statistics	10780,1367
+Department of Surveyor-General	12511
 Department of Technology	11224
 Department of Telecommunications and Digital Economy	11965
 Department of Telecommunications and Postal Services	396,6436,2065
@@ -763,6 +765,7 @@ Department. Despite	6152
 Department. In the States	9367
 Department. No Outcome Key	11986
 Department. Overall Performance The Department	11218
+Department.................................. Free	12489
 Department.20	10979
 Departmental	1604,489,384,3188,5200,359,37,725
 Departmental Advisory Committee	11986
@@ -786,7 +789,7 @@ Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,11
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
 Departments Sector	7548
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
@@ -822,7 +825,7 @@ Dependability	8021
 DependabilityThe	7278
 Dependabot	11922
 Depende	1701,9054
-Dependence	1777,682,2069,1149,800,1071,799,772,1602
+Dependence	1777,682,2069,1149,800,1071,799,772,1602,1791
 Dependencia	1701
 Dependencies	1009,9712,98
 Dependencies Approach	6432
@@ -835,7 +838,7 @@ Dependency Ratio	2775
 Dependent	9129,2167,690,374
 Dependents	12217,243
 Dependerá	1701
-Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002,108,151,156,12,128,3,357,273,316,7,187
+Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002,108,151,156,12,128,3,357,273,323,187,81
 Dependência	10777
 Dependência Primária de Tecnologias	10777
 Dependência de IA	2816
@@ -889,7 +892,7 @@ Deployment and Pooling Of SOC	5677
 Deployment of Access Point Name	12241
 Deployment of Artificial Intelligence	11956
 Deployment of E-tick	12025
-Deployment of Green AI Models	4528
+Deployment of Green AI Models	4528,7984
 Deployment of Growth	12241
 Deployment of ICT	10812
 Deployment of NPR	12413
@@ -897,7 +900,7 @@ Deployment of National Self- MNOs	11857
 Deployment of POA	11857
 Deployment of Troops	6422
 Deployments	1009,5016
-Deploys	708,3820
+Deploys	708,3820,7984
 Deploys Asset-Financing Solution for Rwandan Drivers Foluso	7324
 Depois	2816,7934,5,608,72,97
 Depois de Luanda	10751
@@ -1051,12 +1054,13 @@ Deputy Director-General for Innovation	11288
 Deputy Director-General of SINSE	9399
 Deputy Director-Generals	3264
 Deputy Director. During the Minister of Communications	1694
-Deputy Directors	2779,1749,6603
+Deputy Directors	2779,1749,6603,1381
 Deputy Executive Director	7298,952
 Deputy Executive Secretaries	9761
 Deputy Executive Secretaries of SADC	9761
 Deputy Executive Secretary	1032,5115
 Deputy Finance	194
+Deputy Finance Minister	12514
 Deputy General Manager	7979
 Deputy General Manager of ANSICE	4925
 Deputy General Manager of GTSC	3066
@@ -1195,7 +1199,6 @@ Deputy Speaker	6871,3442
 Deputy Speaker Madala Mhlanga	7264
 Deputy Speaker Thomas Tayebwa	1210
 Deputy Speaker for Administration and Finance	9585
-Deputy Speaker of House of Representatives	12059
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Deputy Vice-Chancellor	9331,939
 Deputy Zonal Manager	11129
@@ -1324,14 +1327,14 @@ First Department of Home Affairs	11222
 First Deputy Director of Cabinet Resolution	4640
 First Deputy Governor of CBS Senior	6938
 First Deputy Prime Minister and Minister of East	11806
-Fiscal Affairs Department	1828,10397
-Fiscal Affairs Department International Monetary Fund	12225
+Fiscal Affairs Department	1828,10672
+Fiscal Affairs Department International Monetary Fund	12500
 Fiscal Transparency Report Summary The Department	11005
 Fiscal Transparency The Department	11005
 Forecasting and Research Department	10718
 Forestry Department	1988,5560,4705
 Forestry and Fisheries DALRRD Department of Agriculture	11261
-Foreword From the Hon Deputy Minister	4528
+Foreword From the Hon Deputy Minister	4528,7984
 Former Deputy President Rigathi Gachagua	11084
 Former Director of NOC International Marketing Department	4531
 Forward Deployed Engineering	10638,160
@@ -1429,11 +1432,11 @@ Home Affairs Department	4831,2573
 Home Affairs Dept Budget Vote	6196
 Home Affairs Deputy Minister	11274
 Home Department	12139
-Hon Deputy Minister	4528
+Hon Deputy Minister	4528,7984
 Hon. Deputy Leader	10313
 Hon. Deputy Speaker	10313
 Hon. Temporary Speaker. The Deputy Leader	10313
-Honourable Deputy Minister Dingumuzi Phuti	4528
+Honourable Deputy Minister Dingumuzi Phuti	4528,7984
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
 House Chairperson The Deputy Minister	1810
 Human Resource Department	12240
@@ -1477,6 +1480,7 @@ India's Department of Economic Affairs	381
 India’s DEPA	7711
 Information and Communication Technology Department	2958
 Infrastructure Deployment	3862
+Infrastructure Stabilization Deploy	12508
 Infrastructure and Energy Department	1257,6935
 Innovation Science and Economic Department	10819
 Insight Terra CEO Alastair Bovim Deploys	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
@@ -1533,7 +1537,7 @@ Land Reform and Rural Development DBE Department	11261
 Legal Department	6806
 Legal Enforcement and Regulations Department	6689
 Legal Services Division Division Frequency Department	6946
-Legislation and Policy Department	12225
+Legislation and Policy Department	12500
 Les Depeches de Brazzaville	2655
 Les Grandes Mutations Depuis	8303
 Liberia Nona Deprez	3008
@@ -1556,7 +1560,7 @@ MIIT's Department of International Cooperation	1826
 MIME Planning Department	12399
 MINISTERIAL STATEMENT ON THE DEPLOYMENT	1222
 ML-Enabled Systems Model Deployment and Monitoring	11156
-MOF's Internal Audit Department	12225
+MOF's Internal Audit Department	12500
 MOH Department of Programming and Foresight	10833
 MP DEPUTY MINISTER OF HOME AFFAIRS	5533,5685
 MP DEPUTY MINISTER OF LAND REFORM	11261
@@ -1792,11 +1796,12 @@ Regional Department West II	11909
 Regional Map Depicts	2677
 Registrar General's Department	11032,1032
 Registrar General's Department Com	11480
-Registrar General’s Department	170
+Registrar General’s Department	170,12344
 Registrar-General’s Department	7696
 Regulation The Department	11230
 Regulations. The Department	6512
 Regulations. The Department of Home Affairs	6512
+Regulatory Structure Board Members Management Departments	12515
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
 Representing the British Deputy High Commission	9358
 Republic of South Africa. Department of Home Affairs	6512
@@ -2063,9 +2068,10 @@ US States Department	5035
 US States Department and Starlink	3251
 US Treasury Department’s Office of Foreign Assets	10793
 USA Felicia Dlamini-Kunene Deputy Governor MA	11134
+USD Department	12490
 Ubungo Municipal Education Department	8884
 United Nations Department	11569
-United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60,75
 United Nations Department of Economics and Social Affairs	11572
 United States Department of Energy. Retrieved	12325
 United States Department of State	3972,181,11,38,58,41,1051,1454
@@ -2073,6 +2079,7 @@ University of Oxford's Department of Computer Science	8529
 University of Pretoria Department of Library Services	8022
 University of Pretoria. The Department	11224
 Uruguay. The Department	11005
+Us The Department	12511
 Use Service Category Description Deployment Model	6432
 User Auditor Department	10819
 VFS Reports DEPARTMENT OF HOME AFFAIRS	11986

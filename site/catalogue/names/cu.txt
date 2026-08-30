@@ -67,7 +67,7 @@ Arts and Culture	288,900,622,177,3049,50,2920,12,2007,1160,1068,92,28
 Arts and Culture Arts and Culture and ICAO Country	11986
 Arts and Culture Social Development The Parties	11185
 Atividade de Integração Curricular	12019
-Attachment IV. Current Status of Tax Administration	12225
+Attachment IV. Current Status of Tax Administration	12500
 Authority KYC Know Your Customer ProGres	12227
 Authority. The Customs Division	10419
 Authorized CURRENCY EQUIVALENTS	11560
@@ -174,7 +174,7 @@ CUERPO BOMBEROS.- Concepto	4209
 CUERPO DE ADUANAS.- Concepto	4209
 CUERPO ESPECIAL DEL CONSEJO SUPER. P.J	4209
 CUERPO INTERARMAS DEPORTE MILITAR	4209
-CUG Administrator. Closed User Group	12324
+CUG Administrator. Closed User Group	12484
 CUGI Limited Data Controller INST-2199384ED00 NAIROBI	7167
 CUGI Limited Data Processor INST-2199384ED00 NAIROBI	7167
 CUIDADOS DE SAÚDE MATERNA	10777
@@ -220,6 +220,7 @@ CURRENT ASSETS	4896
 CURRENT BROADBAND PENETRATION	11857
 CURRENT CHALLENGES VS ENHANCED SYSTEM SMARTCARE	2477
 CURRENT CROSS-BORDER TRADE LANDSCAPE	5247
+CURRENT FUEL PRICES Current Energy Prices	12515
 CURRENT GOVERNANCE DEFICIENCIES	3861
 CURRENT LEGAL AND POLICY FRAMEWORK	5244
 CURRENT LIABILITIES	4896
@@ -430,13 +431,14 @@ Culmination	7301
 Cult of Technology	6948
 Cult of Technology. PublicAffairs	6948
 CultivaPro	10464
-Cultivate	958,3570
+Cultivate	958,3570,7984
 Cultivated	12214
 Cultivateur Eleveur Artisan Employé de Employé	10847
 Cultivating	8022,2080,1032
 Cultivating Open Government Data Platform Ecosystems	226
 Cultivating the Digital Citizen	5349
 Cultivating the Existing Data Center	1795,1413,3881
+Cultivation	12512
 Cultivation of Platform Dependence	226
 Cultiver	8566
 Culto	1855,2354,2632
@@ -449,7 +451,7 @@ Cultura UNICEF	1701
 Cultura UNICEF GEN Fundo	11557
 Cultura de Cibersegurança	4146
 Culturais	11547,15
-Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4
+Cultural	582,358,614,1113,291,1474,1279,1235,2,842,340,2839,169,77,669,1,10,99,157,8,1,45,5,4,32,105,4,132
 Cultural Affairs and Tourism	3239
 Cultural Affairs and Tourism Minister Jerolinmek Matthew	9211
 Cultural Cartography By Atwemereireho Alex	8352
@@ -474,7 +476,7 @@ Cultural Organization	2958,8947
 Cultural Organization WASH United Nations High	11905
 Cultural Policy	12253
 Cultural Politics of Education	6948
-Cultural Preservation and Enhancement	4528
+Cultural Preservation and Enhancement	4528,7984
 Cultural Revolution	2518
 Cultural Shifts and Support for Women’s Use of Technology	7990
 Cultural Workers and Generative AI	9364,375
@@ -483,7 +485,7 @@ Cultural and Religious Diversity	12151
 Cultural and Religious Values Arab	2958
 Cultural and Scientific Organization	2958,202
 Cultural and Scientific Organization ALECSO Charter	2958
-Cultural and Social Self-Determination The National AI	4528
+Cultural and Social Self-Determination The National AI	4528,7984
 Cultural-norm	7790
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
@@ -645,6 +647,7 @@ Current Account Balance	2775
 Current Address	12281
 Current Affairs ZA	7639,119
 Current Allocation Actuals	4653
+Current Analysis of Ecosystem Nodes	12512
 Current Annual Pace Between	12399
 Current Application Location	11314
 Current Approaches and Lessons	10714
@@ -668,6 +671,7 @@ Current Design-linked	7548
 Current Development Objective	2473
 Current EAC	7548
 Current Energy	7548
+Current Energy Prices	12515
 Current Engagement Kenya	7548
 Current Expenditure Category	1228
 Current First	7548
@@ -696,7 +700,7 @@ Current Occupational Compliance	7548
 Current PBF	10829
 Current Perceptions Among Senior Practitioners Seventy-two	11138
 Current Phase	12058
-Current Policy and Regulatory Landscape	4528
+Current Policy and Regulatory Landscape	4528,7984
 Current Practices	10765,10
 Current Prices	2775
 Current Progress	11988
@@ -721,16 +725,16 @@ Current Status Based	12399
 Current Status Namibia	12399
 Current Status Sales	12191
 Current Status and Future Directions. Gothenburg	10718
-Current Status of Tax Administration Reform	12225
+Current Status of Tax Administration Reform	12500
 Current Tax	11955
 Current Technician	7548
 Current Technologies	7548
 Current Telecommunications Taxation Policy	6789
 Current Tenders EDM	9409
 Current Time	5326
-Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1
+Current USD	10759,76,2,1,74,56,902,16,1,2,265,186,1,11,1,135
 Current USD Central Government Debt	10837,1052,265,186,1
-Current USD GDP	10835,3,130,902,16,466,1
+Current USD GDP	10835,3,130,902,16,466,1,135
 Current USD. Central Government Debt	11887
 Current VAT Administration and Key Constraints	8670
 Current VAT Administration and Key Constraints VAT	8670
@@ -739,7 +743,7 @@ Current Year Personnel	11134
 Current Year Ratio Capital	11134
 Current Zimbabwe Act	736
 Current-Conditions Gains So Low	11140
-Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,8,7,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,1,13,9,4,12
+Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74,84,304,12,4,17,15,13,5,1,4,29,3,4,16,14,6,25,29,84,1,8,28,7,24,4,4,3,15,1,7,1,1,13,15,17,7,39,10,13,2,1,7,3,3,1,3,19,4,13,1,4,14,9,4,12,44,2,19
 Currently AI	7751
 Currently Android-only	2579
 Currently English-only	3851
@@ -762,11 +766,11 @@ Curriculum Agility	6832
 Curriculum Begin	6832
 Curriculum Centre	11134
 Curriculum Development	899,6047
-Curriculum Development Expert	4528
+Curriculum Development Expert	4528,7984
 Curriculum Digitization Standards	2958
 Curriculum Facilitators Facilitators	9198
 Curriculum ICDL International Computer Driving License	12329
-Curriculum Rollout	4528
+Curriculum Rollout	4528,7984
 Curriculum Studies	11134
 Curriculum Support	899
 Curriculum Vitae	10060,1381,15
@@ -812,7 +816,7 @@ Customary Practice	12226
 Customary Practices	12226
 Customary Right of Use Certificate	10930
 Customary Tenure Convention Regulation	1988
-Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,295,26,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,17,31,41,18,39,10
+Customer	24,934,2529,691,670,301,77,451,2,8,182,231,840,222,229,77,295,26,118,106,5,585,237,206,77,1,193,214,324,1,705,232,224,114,3,4,71,22,536,90,4,94,21,86,60,86,48,41,18,39,10,136
 Customer Acceptance Form Tabulated	9124
 Customer Account Report	12364
 Customer Average Interruption Duration Index	12256
@@ -869,6 +873,7 @@ Customer Service The Centre of Excellence and Innovation	11134
 Customer Service Week	11131,3
 Customer Service Week The Bank	11134
 Customer Service Week. Governor Dr. Phil	11131
+Customer Services	12497
 Customer Statement	12364
 Customer Value Management	6100
 Customer and Agent Know Your Customer	10775
@@ -900,7 +905,7 @@ Customization Ability	7988
 Customize M&E	12399
 Customized	11191
 Customizing	12359
-Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,144,121,18,28,18
+Customs	7,177,52,733,186,88,585,284,280,150,1878,827,243,165,4,66,1787,36,147,120,143,9,200,111,649,416,18,384,674,136,230,60,131,60,100,122,31,235,342,8,7,1,74,125,265,18,28,18,90
 Customs Act	7695,3341
 Customs Act. Amiwero	9361
 Customs Administration	5619
@@ -912,7 +917,7 @@ Customs Bill	7695,3341
 Customs Business Offices	10581
 Customs CACP and AEO AEO APPLICATION	12454
 Customs Chiefs	8499
-Customs Commission. Constitutionally	12225
+Customs Commission. Constitutionally	12500
 Customs Committee	7548
 Customs Control Act	11190
 Customs Data Exchange	5244
@@ -1241,11 +1246,12 @@ Indonesia. FACTOR CURRENT IMPACT Targeting Moderate	11994
 Indústrias Culturais	8385
 Inflation Rate and Current Account Balances for Selected	2775
 Inflation and Current Account Balances	2775
-Information and Communications Technology. Currently	12418
+Information and Communications Technology. Currently	12502
 Information. CURRENCY EQUIVALENTS	11525
 Informação Pode Reduzir O Custo	8003
 Infrastructure Current State	12356
 Infrastructure Integrity Cultural Confidence	11138
+Initial Birth Registation Current	12496
 Initial Cut-off	12364
 Initial Cutoff	12364
 Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
@@ -1355,6 +1361,7 @@ Million Customers	5752,6242
 Million Customers Author	7688
 Million Monthly Active M-PESA Customers	12227
 Minister of Culture	3261
+Minister of HomeAffairs and Cultural Heritage	12489
 Ministerio de Cultura	4209
 Ministra da Cultura	3246
 Ministry of Basic Education Sport and Culture	12325
@@ -1362,7 +1369,7 @@ Ministry of Culture	3583,6102,1732,162
 Ministry of Culture and Sport	7909
 Ministry of Education and Culture	2989,8609
 Ministry of Education and Culture. Mozambique's EMIS	12196
-Ministry of Home Affairs and Cultural Heritage	3274
+Ministry of Home Affairs and Cultural Heritage	3274,9240
 Ministério da Cultura	2816,7938,773
 Misión Cubana	4209
 Mn One-Month Active Customers	3898
@@ -1443,6 +1450,7 @@ Observatory of Linguistic and Cultural Diversity	7320
 Official Use Only CURRENCY EQUIVALENTS	3604
 On-boarding New Domestic Customers	11310
 Only the Central Bank Digital Currency and Eswatini	12343
+Open Menu Home Announcements Current Archives	12486
 OpenStreetMap Current Health	12006
 Osvaldo Amaro João Cuti	11479
 Overall Current and Target Maturity Levels	1824
@@ -1541,7 +1549,7 @@ Required Current Address	12281
 Resources Not Currently Relevant ESS	11560
 Responsibility for Data Collection FAS-IDL Custom Indicators	10768
 Return and Restitution of Cultural Property26	11439
-Revenue and Customs Authority HR Frequently Asked	12225
+Revenue and Customs Authority HR Frequently Asked	12500
 Ricardo Cuco	12196
 Ricardo Custódio	2816
 Rights Culture Democracy Education	9067
@@ -1570,8 +1578,9 @@ Scientific and Cultural Organisation	6211,2895,96,553,748,637,1035
 Scientific and Cultural Organisation UNESCO-IIEP	12175
 Scientific and Cultural Organisation WEF World Economic	1814
 Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39
-Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1
+Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNWTO United Nations	2775
+Scientific and Cultural Organization USA United States	12512
 Scientific and Cultural Organization USAC Universal Service	6946
 Scientific and Cultural Organization UniLurio	2816
 Scientific and Cultural Organization United Nations Children	11156
@@ -1604,7 +1613,7 @@ Skills and Cultural	12214
 Smart Curriculum Design	6948
 Smart Digital Transactions Cut Costs	4743
 SmartCare Systems Current	2477
-Social Cohesion and Cultural Preservation Zimbabwe	4528
+Social Cohesion and Cultural Preservation Zimbabwe	4528,7984
 Social Cultural Rights	3583
 Social and Cultural Rights	2958,47,578,1,2950,4231,10,990
 Social and Cultural Rights. Consistent	3583
@@ -1671,6 +1680,7 @@ Transmod J Peripher Cult Prod Luso-Hisp	9739
 Tribunal Constitucional Tribunal de Cuentas	4209
 Tribunal de Cuentas	1701,2508
 Triple Helix Curriculum Design	4528
+Triple Helix Curriculum Infrastructure	12512
 UCC Proposes Major Telecom Tax Cuts	6789
 UNDP Youth Civic and Political Participation Curriculum	8860,352
 Ugandans Curse NIRA Over R.Nile Like-Long	9696

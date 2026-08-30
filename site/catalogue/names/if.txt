@@ -63,7 +63,7 @@ IDP Internally Displaced Person IFR Interim	10829
 IFA2017yearinreview	226
 IFAC International Federation of Accountant IFR Interim	11855
 IFAD International Fund for Agricultural Development	11887,266,1,9,178
-IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1
+IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135
 IFAD International Fund for Agricultural Development ILO	10841
 IFAD and World Bank	9650
 IFADÉlevage de Barkoissi	8303
@@ -178,7 +178,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,11,28,69,131
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Integrated Financial Management Information System	1284
 IFMIS National Treasury-IFMIS Offices IFMIS TEAM	12322
@@ -282,7 +282,7 @@ Portfolio Exposure Outstanding IFZ MAS Manufacturing	11469
 Production IFU	84
 Proparco and IFC	1551
 Quarterly IFRs	10829
-Questions IFMIS German Agency for International Cooperation	12225
+Questions IFMIS German Agency for International Cooperation	12500
 REG. IFC	597,822
 Raxio Group’s IFC Data Centre Financing	10956
 Redress Mechanism IFR Interim Financial Report	11525

@@ -32,8 +32,8 @@ CORRECTION TO THE FY2025 SWEEP RUN	1339
 Can Battery Swaps Actually Scale	5200
 Card Point of Sale Switch	12343
 Card Switching	11134
-Central Bank of Swaziland	12324
-Central Bank of Swaziland Order	11134,1190
+Central Bank of Swaziland	12484
+Central Bank of Swaziland Order	11134,1350
 Central Switch	12000
 Century and Swift Telephone Network	3862
 China’s Swift	10026
@@ -69,7 +69,8 @@ EU Unveils Sweeping Tech Sovereignty Push	6487
 Earn PSTN Public Switched Technology	12395
 Econet Land Nkayi Switch Owned Switch	4896
 Education Cluster. The SWAp Secretariat	12175
-Embassy of Sweden	377,2870,8945
+Embassy of Sweden	377,2870,8945,309
+Engineering and Mathematics SWOT Strengths	12512
 English and Swahili	4439
 Eric Swanson	6337
 Eswatini Bank and Swaziland Building Society. Dr	11131,3
@@ -90,7 +91,7 @@ Europe Switzerland International Telecommunication Union	10764
 Evaluation of Swedish	497
 Expert SWOT AI	4126
 FCDO Switzerland Spain	502
-FIN Network and SWIFT Terminal	12324
+FIN Network and SWIFT Terminal	12484
 Facial Switching AI	10719
 Feria and Swistak	10997
 Financial Switch Operators	7018
@@ -137,7 +138,7 @@ KICTANet Swahili TFGBV	6705
 Kajsa Osterberg Astrom. FCG Swedish Development	427
 Kenya National Bureau of Statistics and Statistics Sweden	497
 Kenyan Swahili	7712
-Key SWIPSS Features	12324
+Key SWIPSS Features	12484
 Kingdom of Swaziland	6539
 Komor Switch	5996,49,14,9,78
 Komor Switch Des	6146
@@ -190,7 +191,7 @@ Occasion of Swearingin	10819
 Oudtshoorn Oudtshoorn Hermanus Hermanus Langa Swellendam	8999
 POC POS RTGS SDK SWIPPS Anti-Money-Laundering	11130
 POS and ATM Switching Phase	11134
-PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12324
+PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
 PayLogic Launches National Payment Switch	3495
 Payment Switch	11134,1209
 Payment Switch CBE	11134
@@ -220,7 +221,7 @@ Rwanda and Tanzania Country National Switch Ownership	12214
 Rwanda's National Payment Switch	7192
 Rwanda’s National Payment Switch	7178
 SCT and SWL. The Payment Gateway	12335
-SECURITY OF SWIPSS OPERATIONS SECTION	12324
+SECURITY OF SWIPSS OPERATIONS SECTION	12484
 SIM Swap and Number	6593
 SIM Swap and Number Verification APIs	6593
 SIMO IPS. Switch	12270
@@ -246,35 +247,35 @@ SWEPR	12198
 SWFDP	11191
 SWFDP-Southern Africa	11191
 SWFP-Southern Africa	11191
-SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,369,40
+SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120
 SWIFT BIC	12364
 SWIFT BICs	12364
-SWIFT Bank Identifier Codes	12324
+SWIFT Bank Identifier Codes	12484
 SWIFT CBPR	11134
 SWIFT Customer Security Programme	11131,3
-SWIFT FIN Copy Service Description	12324
+SWIFT FIN Copy Service Description	12484
 SWIFT Hardware Security Module	11134
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 SWIFT MX	5125
-SWIFT SERVICES SECTION	12324
+SWIFT SERVICES SECTION	12484
 SWIFT Service	11955
 SWIFT TELEPHONE NETWORK LIMITED	3862
 SWIFT Transactions	11955
-SWIFT User Handbooks	12324
-SWIFT and SWIPSS	12324
+SWIFT User Handbooks	12484
+SWIFT and SWIPSS	12484
 SWIFT. Unlisted BICs	12364
 SWIFTNG	7110
 SWIFTTALK Ltd	3862
-SWIPSS	11130,1,1193
-SWIPSS Central System	12324
-SWIPSS Closed User Group	12324
-SWIPSS Participant User Guide	12324
-SWIPSS Participants	12324
-SWIPSS Webstation	12324
-SWIPSS Webstations	12324
+SWIPSS	11130,1,1353
+SWIPSS Central System	12484
+SWIPSS Closed User Group	12484
+SWIPSS Participant User Guide	12484
+SWIPSS Participants	12484
+SWIPSS Webstation	12484
+SWIPSS Webstations	12484
 SWIPSS and ECH	11130
-SWIPSS and SWIFT	12324
-SWIPSS. Five	12324
+SWIPSS and SWIFT	12484
+SWIPSS. Five	12484
 SWITCH	12325
 SWKStock	7655
 SWL and SCT	12335
@@ -282,7 +283,8 @@ SWL. Urban SCT	12335
 SWORN AFFIDAVIT FOR B-BBEE MUST	11240
 SWOT ANALYSIS	4126
 SWOT ANALYSIS STRENGTHS WEAKNESSES	4126
-SWOT Analysis	4126,402,7916
+SWOT Analysis	4126,402,7916,68
+SWOT Digital Economy	12512
 SWOT of GHS	1034
 SWOT. Desta	11569
 SWVL’s US	12339
@@ -360,15 +362,15 @@ Swazi Bridge	5799
 Swazi National High	11134
 Swazi Plaza	12405
 Swazi Post	12405
-Swaziland	1,2296,478,8359,200,275,677,38,117
+Swaziland	1,2296,478,8359,200,275,677,155,43
 Swaziland Automated Electronic Clear-	6938
-Swaziland Automated Electronic Clearing House	12324
+Swaziland Automated Electronic Clearing House	12484
 Swaziland Building Society	11130,1,1212
 Swaziland Building Society and E-mali Limited. Participation	2276
 Swaziland Communications Act	1816
 Swaziland Communications Commission Act No	1642
 Swaziland Government	11334
-Swaziland Interbank Payment and Settlement System	6938,5386
+Swaziland Interbank Payment and Settlement System	6938,5546
 Swaziland Interbank and Settlement System	11130
 Swaziland Interbank and Settlement System EPS Financial	12444
 Swaziland Payment Settlement System	11131
@@ -376,7 +378,7 @@ Swazipharm	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Swazis	2885
 Swe Tax Agency	33
 Swear’n’Slash	3395
-Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2
+Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166
 Sweden Global Cybersecurity Index	10764
 Sweden Sverige	12142
 Sweden and Ericsson	6649
@@ -401,7 +403,7 @@ Swedish ICT	2673
 Swedish International Development Agency	1814
 Swedish International Development Authority	12191
 Swedish International Development Cooperation	11572
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223
 Swedish International FSD Financial Sector Development	12297
 Swedish Mapping	888
 Swedish Post and Telecom Authority	215
@@ -470,7 +472,7 @@ Swiss-funded	3004
 SwissID F25 Syrian Arab Civil Registry	10714
 Swistak	10997
 Switalski	2096
-Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74
+Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74,147
 Switch Close	4896
 Switch Financial Technology Gross Domestic Product	11131
 Switch Highlands	4896

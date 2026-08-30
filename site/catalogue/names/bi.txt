@@ -97,7 +97,7 @@ Alain Bienvenu Ossebi. Cet	4169
 Alban Bienvenu Bessan	2392
 Alexandre Bizeul and Pouya Taghavi	11572
 Alexis Mangala. Bienvenu Ipan	5835
-Algorithmic Bias	4528,3020
+Algorithmic Bias	4528,3020,4964
 Algorithmic Bias Refers	2958
 Algorithms Are Not Bias-Free	5700
 All Bidders	11240
@@ -513,6 +513,7 @@ Basic Education Principal Secretary Julius Bitok	12258
 Basketball Botswana Bets Big	10151
 Bayer's Cutter Biological	4426
 Behind Emotions and The American Bias	4554
+Beitbridge Belingwe Bikita Bindura Binga Bubi	12511
 Bengo Benguela Bié Cabinda Cuando Cubango	10766
 Bengo Lunda Norte Cunene Uíge Bié	4044
 Benguela Bié Cabinda Cuando Cubango	10766
@@ -625,6 +626,7 @@ Bib0056	4439
 Bib0057	4439
 Bib0058	4439
 Bib0059	4439
+BibTeX Issue Vol	12486
 BibTeX Make	12467
 Bibanco	4209
 Bibaray Obekuiñ	4209
@@ -738,7 +740,7 @@ Big Brother	9399
 Big Cabal Media	4027
 Big Cat Alliance and Global Biofuels Alliance	2787
 Big Data	571,109,281,254,3,25,853,167,82,169,302,465,206,117,1620,318,432,858,158,511,154,48,1,11,212,533,668,327,239,543,599,38,154,22,106,109,106,25,1,172,521,8,235,26,94
-Big Data Analytics	961,5871
+Big Data Analytics	961,5871,5676
 Big Data Analytics CATHSSETA	6832
 Big Data Analytics DNS	958
 Big Data Center	4758
@@ -850,7 +852,7 @@ Bilateral Investment Treaty	11185,740
 Bilateral Japanese ODA	2217
 Bilateral Trade	11579
 Bilateral and Multilateral Data Agreements The Policy	3861
-Bilateral and Multilateral Partnerships	4528
+Bilateral and Multilateral Partnerships	4528,7984
 Bildung	503
 Bildungs-	455
 Bilel Jamoussi	7174
@@ -958,12 +960,12 @@ Bill.pdf	1614,3019
 Billboards	6343
 Billeh	2124
 Billet	6415,978,666,2320,2,310
-Billing	2528,1906,1245,3758,1794,649,182,302
+Billing	2528,1906,1245,3758,1794,649,182,302,147
 Billing Billing TTC MT298 SMT	12364
 Billing Efficiency	12062
 Billing Section	9437
 Billing TTC	12364
-Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,147,27,143
+Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17
 Billion Agreement	6551
 Billion Agriculture Manufacturing Services	6593
 Billion Average	12252
@@ -1076,7 +1078,7 @@ Bindura All Care Pharmacy Diagnostics Virtual	9429
 Bindura EWPL Owned Vacant Base Station	4896
 Bindura Magistrate	1619
 Bindura Nickel Corporation	1554
-Bindura University of Science Education	520,4008,4869
+Bindura University of Science Education	520,4008,4869,3115
 Binet	12006
 Binformation	3782
 Binfrastructure	3782,1918
@@ -1144,7 +1146,7 @@ Bioenergy Bioenergy	12256
 Bioetha	12233
 Biofertilizer	1554
 Biofuels	12233
-Biogas	12233
+Biogas	12233,268
 Biogas Power	12256
 Biografia	11373
 Biographic	10775,37,1188
@@ -1274,6 +1276,7 @@ Biometrical System	34
 Biometrically	6222
 Biometrics	1939,881,105,1350,1050,249,126,859,919,544,1377,201,302,88,433,1563,241,42,1,57,23,9
 Biometrics APIs	12000
+Biometrics APIs None Bank	12490
 Biometrics Institute Concepts and Solutions Report Synthetic	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Biometrics News	1769,158,394,69,651,29,444,109,180,489,409,63,62,29,287,2,181,75,100,80,313,73,236,86,83,128,44,465,56,47,32,2570
 Biometrics Registration	1988,8851
@@ -1341,7 +1344,7 @@ Birr. Beyond	8646
 Birr. Cross-border	12272
 Birr1651.9	5655
 BirrMetrics	10496
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10
 Birth As-	12151
 Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
@@ -1349,7 +1352,7 @@ Birth Attestation	10765,10
 Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46
 Birth Certificate Access Changes Lives	12227
 Birth Certificate Online	6783
-Birth Certificates	445,3812,6518,1516,37,9
+Birth Certificates	445,3812,6518,1516,37,9,159
 Birth Complica-	12151
 Birth Figure	10765
 Birth Notification Number	12337
@@ -1392,6 +1395,7 @@ Birth Report Form	12216,1
 Birth Section	10034
 Birth Services	12333
 Birth X Minimum	12138
+Birth and Death Certificate Registration Requirements	12496
 Birth and Death Registration Act CAP	1867
 Birth and Death Registration Act. Submission of Draft	11986
 Birth and Deaths Registration Act CAP	10822
@@ -1444,6 +1448,7 @@ Bishop	9547,1711
 Bishop Abba	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438
 Bishop Callist Rubaramira	3423
 Bishop Dr. Samuel Antwi-Gyekyi	9422
+Bishop Farai Chikumbu	12510
 Bishop Kioko Catholic Hospital Data Controller	7167
 Bishop Lavis	8467
 Bishop Lavis. My	8467
@@ -1789,6 +1794,7 @@ Desportos Bissau Zona-V Public	11552
 Dette Publique Ministère des Finances Guinée Bissau	10708
 Deuda Exterior Bilateral	4209
 Develop and Implement BI	11131
+Development Bio Fuels Site Identification Numbers	12515
 Diesel CSP Biomass Biogas BESS	11236
 Digital Agriculture Roadmaps Bill	1101
 Digital Birth Registration	2669
@@ -1815,6 +1821,7 @@ Disincentives Birth	12367
 Dissecting Racial Bias	5700
 Distributeur Automatique de Billets GABAC Groupe	11944
 District Wise Birth Registration During Quarter	12241
+District of Birth	12496
 Division of Revenue Bill	11289
 Documents Biométriques Semlex	2048,2596
 Does the Bill	11247
@@ -1942,6 +1949,7 @@ Expected Births	12151
 Experts Biometric Update	4865
 Exploring Big Data	9128
 Export and Wholesale of Bitumen	12256
+External Birth Certificates	12496
 Extrême-Nord Bien	10975
 F Angola Bengo Benguela Bié Cabinda	10766
 FCFA Billions	1828
@@ -1958,7 +1966,7 @@ Fatih Birol	11572
 Fatou Bintou Diédhiou	7858
 Fatoumata Binta Diallo. Depuis	9731
 Federal Capital Territory and Ms. Bianca Odumegwu-Ojukwu	11925
-Felix Biga	12192,86
+Felix Biga	12192,86,223
 Fevereiro Bissau Zona-V Public	11552
 Fight for Big Tech Accountability	9817,120
 Fighting the Bias	7946
@@ -2155,7 +2163,7 @@ Immigration and Refugee Protection Bill	5533,6453
 Immigration and Refugees Bill	11986
 Impact Hub Bissau	11546,40
 Implementation Strategy Bidder	11240
-Imported Bias Risks	4528
+Imported Bias Risks	4528,7984
 Improvisadas Angola Bengo Benguela Bié Cabinda	10766
 Impôt BIC IRVM Total Recettes Fiscales	2342
 Impôts BIC Recettes	2342
@@ -2179,8 +2187,11 @@ Information Technology Biometric Framework	12360
 Information Technology Biometric Framework for Face	12360
 Information Technology Biometric ISO	12360
 Information. Bids	6942
+Initial Birth Certificates	12496
+Initial Birth Registation Current	12496
 Innovation Lab Bill	878
 Inquérito Biológico	966
+Installers Trained Biogas Installers Research	12515
 Institute for Biodiversity and Protected Areas	11586
 Institute of Biodiversity and Protected Areas	11589
 Instituto Municipal de Bikurga	4209
@@ -2405,6 +2416,7 @@ NAME OF BIDDER	11240
 NAMIBIA BIPA	12342
 NATIONAL ASSEMBLY BILLS	7832
 NCRA's Biometrics Digital ID and National Identification	2872
+NFC Browser Biographic	12490
 NHI Bill	11350
 NHI Bill15	1009
 NHI Bill16	1009
@@ -2474,6 +2486,7 @@ National Rail Bill	8599
 National SEXE Classique Satellite Bilingue	10847
 National Strategy for Birth Registration	10765,10
 National Treasury and Presidency Home Affairs Bill	5533
+Natural Language Bias	12512
 Ndong Bidoa	4209
 NetOne's Bigger Question NetOne Public Relations	11656
 Next Billion User	3782
@@ -2492,6 +2505,7 @@ Nigerian Startup Bill	9936
 Nigeria’s AI Bill	4045
 Nina Bissoue. Elle	6877
 Nine Hundred Billion	3862
+Non-Citizen Birth Certificates	12496
 Normand Bigendako	5942
 Norte BILALI	6613
 Note the BI	438
@@ -2624,6 +2638,7 @@ President of Guinea Bissau H.E. Jose Mario	11579
 Preventing Bias and Discrimination	12356
 Prevention and Resilience Allocation SEA Standard Bidding	10964
 Prince Bitaki	9408
+Print Email Birth	12496
 Prischina Dorlicka Poushquine Bianiephe	4135
 Privacy Enhancing Technologi Bill	2194
 Privada Angola Bengo Benguela Bié	10766
@@ -2679,6 +2694,7 @@ Registered Live Births	12151
 Registers Biometrics	2477
 Registrar of Births	1
 Registration of Biometric Data	12146
+Registration of Birth	12496
 Registration of Births and Death Act	12151
 Registration of Births and Deaths	5533,6444,9
 Registration of Births and Deaths Act	10822
@@ -2792,6 +2808,7 @@ Sexes Country Of Birth N	12151
 Seychelles Agriculture Development Agency Bill	7760
 Shegaw Marie Bishaw	7027
 Shilingi Bilioni	6019
+Shortages of Birth Certificates and ID Papers	12514
 Should the Bidders	12400
 Si Bissau	8515
 Sierra Leone First Lady Fatima Bio	5390
@@ -2901,6 +2918,7 @@ Towerco Bidco	1403
 Tramos Ebebiyin- Bitam	4209
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
 Transformação Digital Bissau	11569
+Transitional Constitution. Bills	12492
 Transmission of Bills	11289
 Transports Jean Ernest Massena Ngalle Bibehe	3680
 Travel Documents and Passports Bill	11986
@@ -2909,6 +2927,7 @@ Treasury Bills	7695
 Treasury Cashier Office. Birth	12216
 Treasury Cashier Office. Birth Certificates	12216
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
+Trends and Determinants of Birth Registration Completeness	12486
 Trends of Birth and Death Registration	2775
 Tribunal de Première Instance de Bingerville	5867
 Trillion Birr Budget	3176
@@ -2924,6 +2943,7 @@ Técnicos de Biomarcadores. Para	10777
 Téné Birahima Ouattara	2418,8524,1
 U.S. Big Tech	8273
 U.S. Bilateral Health Agreements	4302,6411
+U.S.-Cameroon Bilateral Economic and Commercial Dialogue	12517
 UK Biobank	7750,2438
 UN Binding Treaty	6960
 UN Women WHO IOM Bilateral	11332
@@ -2980,7 +3000,7 @@ Vital Strategies Latest Biometrics News Foundational	9804
 W. Bing	5700
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
-Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Water Biodiversity Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1
 Water Department Loses Ksh.22 Billion	2428
 Water Services Amendment Bill	8599,2637
@@ -3012,6 +3032,7 @@ Yes. The Bill	11247
 YoY. Bigger Tickets Trended	4972
 YouVersion Bible	4660
 Youth Bill	11791
+Yury Birukov	12504
 ZAR Billions	12252
 ZIPSS. A SWIFT BIC	12364
 Zahag El Mouatassim Billeh	2124

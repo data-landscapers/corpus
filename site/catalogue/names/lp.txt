@@ -13,11 +13,13 @@ DFI LP	1428
 Description Bpifrance LP	1428
 Description Equity LP	1153
 Description Mubadala Investment Company LP	1544
+Development GIS Location of LPG	12515
 Development Plan KZN KwaZulu-Natal LP Limpopo	11192
 District LPG	718
 Except LPG	12256
 Export and Wholesale of LPG	12256
 Filling of LPG	12256
+GIS Monitoring System LPG Overview Licensees	12515
 Hz LPD	736
 IBRD Surplus-Funded Livable Planet Fund LPF1	11417
 IDEO LP	268
@@ -102,5 +104,6 @@ Storage of LPG	12256
 TIDE Africa II LP	609,73,374,417
 TLCom TIDE Africa II LP	335,274
 Transport of LPG	12256
+Units LPG	12515
 Wh Kilowatt-hour LPG Liquefied Petroleum Gas	12399
 Wholesale of LPG	12256

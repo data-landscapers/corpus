@@ -3,7 +3,7 @@ AFRICAN TOUCH SAFARIS LIMITED Data Controller	7167
 AFRICAN TOUCH SAFARIS LIMITED Data Processor	7167
 AFRICAN UNION CHILD ONLINE SAFETY	1597
 AI Medical Device Safety	3279
-AI Safeguards and Guardrails	4528
+AI Safeguards and Guardrails	4528,7984
 AI Safety	3654,929,3718,2129
 AI Safety Asia	4734
 AI Safety Institute	7548
@@ -150,7 +150,7 @@ Cost of Scaling Up Safety Nets Figure	10763
 Crime Intelligence Rural Safety Desk	11188
 Crowned Eagle Safaris Limited Data Controller	7167
 Cybersecurity Safeguards	12389
-Cybersecurity and AI Safety Zimbabwe	4528
+Cybersecurity and AI Safety Zimbabwe	4528,7984
 Cygnus Safety Consulting Limited Data Controller	7167
 Cygnus Safety Consulting Limited Data Processor	7167
 D. Fintech Trust and Safety Charter	4848
@@ -528,7 +528,7 @@ SAFE CITY SPLIT	645
 SAFE and PBOC	5863
 SAFE. During the Agentic AI Summit	9027
 SAFEGUARDS AND STAKEHOLDERS' ENGAGEMENT MODELS EMBRACED	12165
-SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1
+SAFETY	10759,76,2,1,130,7,895,16,2,1,263,1,10,177,1,11,1,135
 SAFETY ACCOUNTABILITY	10837,1503
 SAFETY AND SECURITY ACCESS HANDSET DATA	11964
 SAFETY AND SECURITY ACCESS ONLY ALLOWED	11964
@@ -539,9 +539,10 @@ SAFETY AND SECURITY Likelihood	12241
 SAFETY Absence of Armed Conflict	10759,78,1052,451
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SAFETY EDUCATION HEALTH Rank	10968
-SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1
+SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135
 SAFETY INCLUSION	11886
 SAFETY NETS AND BASIC SERVICES	11525
+SAFETY RURAL ECONOMY	12488
 SAFETY Rank	10759,78,1033,470
 SAFETY SOCIAL PROTECTION Rank	10838
 SAFETY WOMEN’S EQUALITY	10835
@@ -681,7 +682,7 @@ Safe School Initiative	11860
 Safe Schools	11224
 Safe Scroll	12104
 Safe Space Club Mentors	10829
-Safe Space for Bold Ideas	4528
+Safe Space for Bold Ideas	4528,7984
 Safe Spaces	10829
 Safe Use Of Digital Services	958
 Safe Use of Digital Services Telecommunication	958
@@ -722,7 +723,7 @@ Safer Births Bundle of Care	7895
 Safer Internet Day	5551
 Safer Schools Programme	11285
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1,118,7,1,4,17,19,13,33,81,3,4,18,37,48,9,19,256,53,7,270,2,13,16,1,1,1,13,54,8,98,90,1,1,9,90,87,1,11,1,14,108,13
 Safety Accountability	10837,1052,263,11,177,1
 Safety Across	11585
 Safety Act	1988
@@ -742,7 +743,7 @@ Safety Institute Institute	7548
 Safety LLM Benchmark	8204
 Safety LLM Challenge	6593,1611
 Safety Lab	8551
-Safety Metrics	4528
+Safety Metrics	4528,7984
 Safety Net Measures	10822
 Safety Net Services Provided	10964
 Safety Nets	10763
@@ -829,7 +830,7 @@ Social Safeguards Specialists	12137
 Social Safety Net	10812,54,119,148
 Social Safety Net Project	10866,97
 Social Safety Net The Social Safety	10812
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
 Social Safety Register	4794
 Société TELOUA SAFEGUARDING URANIUM MINING COMPAGNY	11597

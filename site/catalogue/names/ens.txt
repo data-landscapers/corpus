@@ -35,6 +35,7 @@ DE ESTADO PARA O ENSINO SUPERIOR	11391
 DFS Ensure	1161
 DIGITAL TALENTS ACCELERATORS Vision Ensure	1885
 DO ENSINO PRIMÁRIO E SECUNDÁRIO	11419
+Deep Learning Ensure	12512
 Desarrollar la Enseñanza Técnico-Profesional	1701
 Description Ensures	5191
 Digital Skills and Human Capital Development Ensure	1161
@@ -248,10 +249,10 @@ Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
 Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40
-Ensure AI	1814,2714,7828
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68
+Ensure AI	1814,2714,7828,156
 Ensure AU Member States	1814
-Ensure Access	4528,7329
+Ensure Access	4528,7329,655
 Ensure Accountability	3503,8853
 Ensure Annual School Census	11860
 Ensure Cloud Networks And Connections	34
@@ -294,7 +295,7 @@ Ensuring No One Is Left Behind	8861
 Ensuring Open Data	5246
 Ensuring Resilience and Sustainability	11940
 Ensuring Sustainable Business Growth and Job Creation	10964
-Ensuring Transparency	4528
+Ensuring Transparency	4528,7984
 Ensuring Transparency and Accountability	2958
 Ensuring Young People Succeed Sub-Saharan Africa	1363
 Equipamiento de Enseñanza	4209

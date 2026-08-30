@@ -7,10 +7,10 @@ ACKNOWLEDGEMENTS The Eleventh Edition	11136
 ACTION PLAN Expand AI Education PILLAR	4126
 ADEA and Angola's Ministry of Education	10359
 ADJIBI Claude Edgard Octobre	10876
-AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135
 AFRICA EDUCATION AND DEVELOPMENT TRUST REGISTERED	7167
 AGENTES DE EDUCAÇÃO	10766
-AI Education	4528
+AI Education	4528,7984
 AI Education and AI	8460
 AI Ministry of Education	4126
 AI Strategy Second Edition	11135
@@ -115,7 +115,7 @@ Bank Transforming the Education Sector for Better Outcomes	11905
 Bantu Education	11245
 Barriers and Enablers. South African Journal of Education	11927
 Barrister Emmanuel Edet	11751
-Basic Education	899,110,10221,630,80,46,73
+Basic Education	899,110,10221,630,80,46
 Basic Education Act	7832,2448,2022
 Basic Education Act No	899
 Basic Education Budget	11274
@@ -141,7 +141,7 @@ Benin's Minister of Higher Education and Scientific Research	6893
 Beninese Ministry of Primary Education	10831
 Bernice Edande Otye	4276
 Better Education Service Nigeria Gender Country	11469
-Bindura University of Science Education	520,4008,4869
+Bindura University of Science Education	520,4008,4869,3115
 Bloco C Edificio da ONU CP	10776
 Bouncing Back. Education	11888
 Brigada Educativa	4209
@@ -181,8 +181,8 @@ Cameroon's Ministry of Higher Education	7598
 Cameroonian Ministry of Higher Education	125
 Camerounais Etinge Edward Mabian	2448
 Campaign for Female Education	1540
-Capacity Building and Education Pillar	4528
-Capacity Building and Education Unit	4528
+Capacity Building and Education Pillar	4528,7984
+Capacity Building and Education Unit	4528,7984
 Capeverdean Educational System	11939
 Cartografo Edmundo Raimundo	10757
 Cash for Education Program	10963,1
@@ -214,6 +214,7 @@ Citizenship and Tax Education	10762
 Civic Education	11905
 Civic Education Strategy for NRB Figure	12241
 Climate Smart Education Systems Initiative	12175
+Climate-Smart Education Systems Initiative	12504
 Col Edith Nakalema	6576
 Collaborating To Transform And Improve Education	899
 Colleges of Education	7405,2171,2281,375
@@ -256,13 +257,13 @@ Consumer Education and Protection	958
 Consumer Engagement and Education	408
 Contemporary Perspective for Higher Education Stakeholders	6948
 Context of Digital Transformation. Higher Education Studies	11927
-Continental Education Strategy for Africa	1814,10238,123,21
+Continental Education Strategy for Africa	1814,10238,123,21,298
 Continental Strategy for Technical and Vocational Education	1814
 Continuous Education	6936
 Contributing Practice Areas Education CLIMATE	11905
 Convention. Education UNHCR	10864
 Coordenações Comunais da Educação	10766
-Copy of Education Plan P3-10. Scope	12225
+Copy of Education Plan P3-10. Scope	12500
 Coração Azul. Edição Nº	10750
 Corporate Online Editors	11097
 Council for Higher Education	11277
@@ -287,6 +288,7 @@ Culture and Higher Education	10116
 Current Tenders EDM	9409
 Customs Director General Edwin Fongod Nuvaga	5659
 Cutting Edge	9629
+Cyber and Data for Higher and Tertiary Education. Harare	12512
 Cybersecurity Education	1000,777
 Cybersecurity Education Cluster. Identify	1777
 Cybersecurity Education Education Framework	1777
@@ -339,9 +341,10 @@ Delgado Valige Tauabo Nampula Eduardo Mariano	12201
 Delivering Education System Transformation	12175
 Democratic Republic of Congo Education Working Paper	11918
 Democratic Republic of Congo's Education and Training Sector	11916
+Demographics Education Employment Housing Land	12498
 Departamentos de Educación	4209
 Department Higher Education Opportunities	9128
-Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10
+Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487
 Department of Basic Education DCDT	6832
 Department of Basic Education Health	11237
 Department of Basic Education Integrate	11195
@@ -371,6 +374,7 @@ Develop Cybersecurity Education and Profession Training	1000
 Development Cycles Ministry of Education Emerging Pilot	7548
 Development Federal Ministry of Education	11860
 Development Health Education Social Protection	10837,1315,188
+Development Programme UNESCO United Nations Educational	12512
 Development of Education	10359
 Diagnostic Study of Higher Education and Scientific Research	11552
 DigiAfricaLab Public Education Framework For DigiAfricaLab	10725
@@ -537,17 +541,17 @@ EDTON TECHNICAL ENGINEERING LIMITED Data Controller	7167
 EDUCACION	4209
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EDUCATE	7167
-EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1
+EDUCATION	737,3590,2840,3592,76,2,1,130,224,678,16,2,1,263,1,10,177,1,11,1,135
 EDUCATION AND BIOSECURITY	7167
 EDUCATION AND TRAINING ACT	6921
-EDUCATION ANTI-CORRUPTION	10835,133,918,466,1
+EDUCATION ANTI-CORRUPTION	10835,133,918,466,1,135
 EDUCATION Equality	10759,78,1052,451
 EDUCATION FOR AFRICA CHARITY ORGANIZATION Data	7167
-EDUCATION Freedom of Expression	10835,3,130,902,16,466,1
+EDUCATION Freedom of Expression	10835,3,130,902,16,466,1,135
 EDUCATION MANAGMENT INFORMATION SYSTEM LIST	11860
 EDUCATION NATIONALE	3381
 EDUCATION Public Disclosure Authorized	11905
-EDUCATION Rank	10759,78,1,1502
+EDUCATION Rank	10759,78,1,1502,148
 EDUCATION SECTOR FOR BETTER OUTCOMES	11905
 EDUCATION SOCIAL PROTECTION	10837,1503
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
@@ -587,7 +591,7 @@ EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
 ENSURE ACCESS TO QUALITY EDUCATION	899
 EPR&D Educational Planning	11860
-EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1
+EQUALITY Public Perception of Education Provision	10835,3,130,902,16,466,1,135
 ERASTUS EDUNG ETHEKON	12293
 ERC Education Resource Centre	11860
 ES Ict In Education	1763,1383,3772
@@ -774,6 +778,7 @@ Editorial Team Government	7432
 Editorial Team Mr. Chinyama	6104
 Editorial Team Qubit Hub	6332
 Editorial Team SCRYPT	7378
+Editorial Team Sources of Support Contact Search	12486
 Editorial Team The Council	3702
 Editorial Team The EARDIP	3238
 Editorial Team The Nigerian Digital Trustmark	3744
@@ -894,7 +899,7 @@ Educate	5676,5045,1136,129,224,146
 Educated	4301,4159,3754
 Educatel	10121
 Educating	958,3774,7443
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8
 Education A Mixed School Bag	5606
 Education Above All	899
 Education Act	3583,8324
@@ -917,7 +922,7 @@ Education Cluster. The SWAp Secretariat	12175
 Education Committee	3749
 Education Committees	11916
 Education Compact	11905
-Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Education Completion	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Education Completion Score Rank	11886
 Education Completion Warning Signs Business	11870
 Education Consultez	9482
@@ -937,7 +942,7 @@ Education Education Enrolment Education Completion Human	10837,1315,188
 Education Education Quality Public Perception of Education	10837,1315,188
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Education Financière	10965,979
 Education Financière PNUD Programme National	10965
 Education Financière SNFI Stratégie Nationale de Finance	11944
@@ -960,6 +965,7 @@ Education Information Officer	11180
 Education Information Policy	11180
 Education Initiatives	1777,7222
 Education Innovations	899
+Education Integrate AI	12512
 Education KDB Kenya Dairy Board KDC	2775
 Education Kenya Compact	899
 Education Labour Relations Council	11241
@@ -972,12 +978,12 @@ Education Loan Fund	2536
 Education Loans	2775
 Education MDAs Ministries	6539
 Education Management Information	11860
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
 Education Management Information System F2F	6832
 Education Management Information System NGA National	12151
-Education Management Information Systems	11180
+Education Management Information Systems	11180,1314
 Education Management and Information System	10748
 Education Mbale ICT Hub	5109
 Education Minister	3183,6466
@@ -1015,7 +1021,7 @@ Education Project	791
 Education Project. The French	244
 Education Préscolaire	10847
 Education Psychology and Public Media	8130
-Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Education Quality	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Education Radio	12175
 Education Rank	11889
 Education Reform	12356
@@ -1023,6 +1029,7 @@ Education Reform Support Project	10963,1
 Education Reforms	12312
 Education Related	11956
 Education Remains the Most Targeted Industry	9815
+Education Science	12512
 Education Sciences	8021,581
 Education Section CONEPT	11916
 Education Section Observatoire	11916
@@ -1042,7 +1049,7 @@ Education Sector Plan for Guinea-Bissau	11536
 Education Sector Programme Implementation Grant TCLE	11916
 Education Sector Project Implementation Grant	12175
 Education Sector Steering Committee	12175
-Education Sector Strategic Plan	12329,82
+Education Sector Strategic Plan	12329,82,83
 Education Sector Strategy	11905,2
 Education Sector Support Project	11905
 Education Sector Working Group Stakeholders	12175
@@ -1067,7 +1074,7 @@ Education System	3604,7932,321,50
 Education System Capacity	12175
 Education System Data	12411
 Education System Enhancement	12356
-Education System Enhancement and Transformation	4528
+Education System Enhancement and Transformation	4528,7984
 Education Thematic Group	11916
 Education Toolkit	6048
 Education Volume	11907
@@ -1149,7 +1156,7 @@ Educational Level District Hospital	12379
 Educational Management Foundations	11927
 Educational Management Information System	11860
 Educational Management and Information System	11860
-Educational Plan P5-18. Stock	12225
+Educational Plan P5-18. Stock	12500
 Educational Planning	11860
 Educational Platform	6748
 Educational Platforms and Content	8709
@@ -1272,6 +1279,7 @@ Encarregados de Educação	11523
 Encarregados de Educação BM Banco Mundial CICL	11557
 Encyclopaedia Britannica Editors	7790
 Energy Development Corporation Limited EDPRS	12358
+Energy Saving Tips Education and Awareness Services	12515
 Eneza Education	11918
 Enforcement and Education	587
 Enforcement and Education Cybersecurity	587
@@ -1448,7 +1456,7 @@ Global Education and Technology Thematic Group	6832
 Global Fintech Institute Education	11017
 Global Framework for Refugee Education	11905
 Global Health EDCPT3	11288
-Global Partnership for Education	899,3930,2944,4087,40,5,11,259
+Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329
 Global Partnership for Education Fund IDA Resources	11905
 Global Partnership for Education GPI	12175
 Global Smart Education Conference	10295,729
@@ -1483,7 +1491,7 @@ Health Professional Education	8605
 Health Research and Education	10776
 Health and Education	2889,1094,3458,4095,388
 HealthTech and EdTech	11468
-Heritage-Based Education	3760,768,875,1390,2603
+Heritage-Based Education	3760,768,875,1390,2603,3116
 Hi Ed. Hi	6985
 Hi Ed. Um	6985
 Higher Education	899,1089,485,302,214,615,2266,304,658,114,602,212,616,226,526,2057,45,322,375,13,150,109,212
@@ -1527,6 +1535,7 @@ Hospital Edition	5984
 Hospital Edition. Byline	5984
 Huawei Education Summit	8560
 Huawei's SMART Education	3511
+Human Capital Education Innovation Science	12512
 Hussain and Edward	5700
 Hygiene WHR Western and Central Africa Education	11905
 I Cycle of Secondary Education	10775
@@ -1555,7 +1564,7 @@ INTEGRATING TECHNOLOGY INTO EDUCATION	11918
 INTRODUCTION The Nigeria Education Management Information	11860
 ITWeb Editorial Policy Privacy Policy Competition	10735
 Ict Integration In Education	1762,1383,3772
-Identity Document Education Business	10835,3,130,902,16,466,1
+Identity Document Education Business	10835,3,130,902,16,466,1,135
 Ikoyi Metro EDGE	4565
 Imbuto Foundation’s Edified Generation	12358
 Impact for Research and Education	3840
@@ -1674,6 +1683,7 @@ La Educación Cívica	1701
 Labor Contributing Practice Areas Education Fragile	11525
 Lagos State Ministry of Education	7564
 Launch AI Investor Education Program	4528
+Launch AI Investor Education Program for Cooperation	12512
 Leadership Education	4432,4696
 Leanne de Bassompierre Business Editor	6338
 Learners and Educators	11281
@@ -1781,12 +1791,12 @@ Minister of Education and Mr. CHON Gyong Shik	770
 Minister of Education and Training Ntoi Rapapa	3149
 Minister of General Education and Instruction	3583
 Minister of Higher Education	2335,4497,4646
-Minister of Higher and Tertiary Education	413,4115
+Minister of Higher and Tertiary Education	413,4115,7984
 Minister of Home Affairs Edgar Lungu	121
 Minister of Information and Civic Education	5898
 Minister of Information and Civil Education	3924
 Minister of Pre-University Education and Literacy	3900
-Minister of Primary and Secondary Education	4528
+Minister of Primary and Secondary Education	4528,7984
 Minister of Technical and Vocational Education and Training	10951
 Ministerio de Educación	6841
 Ministers of Labour and Education	11179
@@ -1838,7 +1848,7 @@ Ministry of Framework Education	1777
 Ministry of General Education	1867,1716,8825
 Ministry of General Education and Instruction	3583,5556
 Ministry of Health and Ministry of Education	3604,7164
-Ministry of Higher Education	125,875,1653,930,945,107,1017,522,315,1109,3170,8,169,960,2,11
+Ministry of Higher Education	125,875,1653,930,945,107,1017,522,315,1109,3170,8,169,960,2,11,594
 Ministry of Higher Education and Scientific Research	4762,1985,146,4055
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
@@ -1853,7 +1863,7 @@ Ministry of National Education and UNICEF Comores	2960
 Ministry of National and Higher Education	10826
 Ministry of Pre-school and Primary Education	10831
 Ministry of Primary Education	11924
-Ministry of Primary and Secondary Education	395,4133,1557
+Ministry of Primary and Secondary Education	395,4133,1557,6409,10,8
 Ministry of Secondary Education	6601,357,3883
 Ministry of Technical and Higher Education	2339
 Ministry of Technical and Vocational Education	11905
@@ -1931,6 +1941,7 @@ National Education	899,2705,924,7095
 National Education Census Report Summary	3583
 National Education Collaboration Trust	11241
 National Education Database	11860
+National Education Infrastructure Management System	12494
 National Education MIS	12453
 National Education Management Information System	899,2026,7434,1837,62
 National Education Policy	11922
@@ -2042,6 +2053,7 @@ Points Development Discoveries Education	9989
 Policy Framework For Education	899
 Policy Framework for Higher and Tertiary Education	4528
 Policy. The Federal Ministry of Education	11860
+Politics Editor	12521
 Politics Spice Special Features Education Sex	9669,84
 Política de Educación	1701
 Política de Educación ERRADICACIÓN	1701
@@ -2120,7 +2132,7 @@ Psychology and Education Journal	4432
 Public Awareness and Education	1814
 Public Education	5583
 Public Education and Advocacy	12256
-Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Education Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Education Provision Social Protection	10759,1395
 Public Perception of Health Provision Education	10759,1395
 Public Services for Women Education Enrolment Public	10759
@@ -2361,7 +2373,7 @@ States' Ministries of Education and State Universal Basic	11860
 Strand Education Foundations Strategy	12175
 Strand Education Foundations Strategy C	12175
 Strand Foundational Education Strategy	12234
-Strategic Framework Education and AI Literacy Foundations	4528
+Strategic Framework Education and AI Literacy Foundations	4528,7984
 Strategy for Development Education Sector Support Project	11905
 Strengthen Science and ICT Education	907
 Sub Sharan Tertiary Education	11552
@@ -2387,7 +2399,7 @@ Sustainable Development Goals and Education for All. Taken	11907
 Sustainably Finance Education Sector	12175
 Swarmio Edge	1729
 Synesis IT Ltd and Africa Data Edge	3700
-System Taxpayer Education Unit Value Added	12225
+System Taxpayer Education Unit Value Added	12500
 Systems Approach for Better Education Results	11557
 Systems Edo State's DHIS2-based EMIS	11970
 Système Educatif National TBS Taux Brut	12
@@ -2401,11 +2413,11 @@ TVET Technical Vocational Education and Training UN	1814
 TVET Technical and Vocational Education and Training TVETA	7548
 TVET Technical and Vocational Education and Training UAT	11261
 TVET Technical and Vocational Education and Training UNAM	12399
-TWG for Education	4528
+TWG for Education	4528,7984
 Tackling Education and Skills Data Challenge	10359
 Tanzania's Ministry of Education	11625
 Tanzanie. Adoni Conrad Quenum Edité	8096
-Taxpayers Education Unit	12225
+Taxpayers Education Unit	12500
 Teacher Development Initial Teacher Education National	11241
 Teacher Management Strategy. Ministry of Education	12175
 Teachers Kenya Global Partnership for Education Compact	899
@@ -2432,7 +2444,7 @@ Technology and Science Education Department	9755
 Tenth Edition	1828
 Terms of Reference TSA Transforming the Education Sector	11905
 Território MED Ministério da Educação MEP Ministério	11390
-Tertiary Education	4126,402,6606,745
+Tertiary Education	4126,402,6606,745,633
 Tertiary Education The Institute	4126
 Tertiary Education Trust Fund	8560
 Tertiary Education. IST-Africa	1248
@@ -2551,7 +2563,7 @@ Zambia Education Management System	12408
 Zambia Education Management System EMIS	12408
 Zambia’s Ministry of Education	5802
 Zanzibar Education and Health	11133
-Zimbabwe Council for Higher Education	4528
+Zimbabwe Council for Higher Education	4528,7984
 Zimbabwe. Cogent Education	1248
 Zimbabwe. Education and Information Technologies	1248
 Zonal Education Departments	12198

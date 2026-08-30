@@ -34,7 +34,7 @@ Cultural Heritage Not Currently Relevant ESS	10768,792
 Cultural Heritage Relevant ESS	1867,4672
 Cyber Hero	9980,1
 Cyber Hero’ Campaign	9981
-Data Heritage	4528
+Data Heritage	4528,7984
 Data Is Valuable. Here’s	5700
 Delivery Hero	5985,909
 Directorate of Heritage and Culture Programmes	12345
@@ -108,10 +108,10 @@ Heritage Meets Digital Health	11817
 Heritage Series	5247
 Heritage Times	10156
 Heritage Village	1554
-Heritage-Based	4528
+Heritage-Based	4528,7984
 Heritage-Based Call. Project Design	1154
 Heritage-Based Curriculum	9396
-Heritage-Based Education	3760,768,875,1390,2603
+Heritage-Based Education	3760,768,875,1390,2603,3116
 Heritier Ramazani	9408
 Herken	9632
 Herlander Massaqui	5954
@@ -188,8 +188,9 @@ Maziv and Herotel	7303
 Mc Bosnia and Herzegovina Europe Southern Europe	10840
 Mechanism HeRAMS Health Resources Availability Mapping	10829
 Michel Herbert	3933
+Minister of HomeAffairs and Cultural Heritage	12489
 Ministre des Finances Hervé NDOBA	1300
-Ministry of Home Affairs and Cultural Heritage	3274
+Ministry of Home Affairs and Cultural Heritage	3274,9240
 Monsieur Herbert ASSOGBA	5206,5661
 Monsieur Herbert ASSOGBA. C'était	10867
 Mr. Manin Hermann	6938

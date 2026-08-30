@@ -57,11 +57,14 @@ RTGS BIC	12364
 RTGS Component	3679
 RTGS POS ATMs MOBILE MONEY	6978
 RTGS Payment	12364
+RTGS RTGS DIRECT RESERVE BANK	12490
 RTGS Real-Time Gross Settlement SDM Single	1264
-RTGS Steering Committee	12324
+RTGS Settlement	12490
+RTGS Steering Committee	12484
 RTGS Transaction Type Codes	12364
 RTGS Transaction Type Codes TTC Priority	12364
 RTGS and TCIB	12432
+RTGS and US	12490
 RTGS-ready	6368
 RTGS. The DRC	11960
 RTI Act	9074
@@ -84,6 +87,7 @@ RTVGE. Sin	11672
 Reception Office RT Transversal Term	11218
 Regional RTGS Upgrade Nears	9926
 Research Triangle Institute. RTI	11912
+Reserve Bank of Zimbabwe's RTGS	12490
 Return Codes CODE INTERNAL RTGS CODE	12364
 Rt. Hon. Abuk Payiti Ayik	9585
 Rt. Hon. Alban Sumana Kingsford Bagbin	5935

@@ -54,9 +54,9 @@ Humanitarian Operations SLA Sudan Liberation Army	6947
 ICOM SLR	998
 ICT Sector Budget Slashed	2428
 Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
-Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1
+Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135
 Improvement No Change Increasing Deterioration Slowing	10837,1503
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135
 Information Technology Agency SLA Service Level	11261
 Infrastructure SLAs Component Availabili Redundancy	11952
 Internet Prices Slashed	4070
@@ -155,7 +155,7 @@ SLSFIP	2112
 SLSSEC	6938
 SLTR Area	11954
 SLTR Officers	11954
-Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135
 Sierra Leone Singapore Slovakia Slovenia Solomon	11765
 Sign SLA	11863
 Signs Bouncing Back Slowing Deterioration Increasing	10759
@@ -232,11 +232,11 @@ Slowing Improvement Not Classified Warning Signs	12353
 Slowing Improvement Participation	12341
 Slowing Improvement Rwanda	12341
 Slowing Improvement Score	10837,1315,188
-Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1,135
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
 Slowing Improvement Warning Signs Security	10968,902
 Slowing Improvement. Business	11888
-Slowing Score	10835,3,130,902,16,466,1
+Slowing Score	10835,3,130,902,16,466,1,135
 Slowly	4201,4911,966
 Slsuprpelmy	11152
 SltSatiasttiisctsicRseRpeoprto2rt020323	12151
@@ -251,8 +251,8 @@ System Development Lifecycle SLA Service Level	12359
 TREND Increasing Improvement Slowing Improvement Warning	10759
 TREND Increasing Improvement Warning Signs Slowing	10837,1503
 Technology Agency SLA Service Level Agreement	5533
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Slowing Deterioration Inclusion	12341
 Trend Slowing Deterioration Rights	12341

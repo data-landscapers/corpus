@@ -12,6 +12,7 @@ Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
 ONSA PUE SBG SGCGC SLA SOC	10157
 POTRAZ PPP PUE Q1 Q2 Q3	4528
+PPP Public-Private Partnership PUE Power Usage	12512
 PUE Power Usage Effectiveness RBAC Role-Based	6432
 PUE Power Usage Effectiveness RFS Ready	10781
 PUE Productive User of Energy PV Solar	12399

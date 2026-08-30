@@ -67,6 +67,7 @@ Day Treasury	2775
 Dec-27 Risk Treatment Owner	12241
 Defence and Treasury	3983
 Degrading Treatment	3583,8182
+Demographic Trends Around the Globe	12486
 Department of Home Affairs and National Treasury	11940
 Developme Treasury Development	7548
 Development Finance Institutions and National Treasury	11215
@@ -79,7 +80,7 @@ Directorate General of Treasury and Public Accounting	2330
 Directors-General of National Treasury	11940
 DisclaimerThe Treaty Body Database	11765
 Domestic Trend	6408
-Double Tax Treaties	12225
+Double Tax Treaties	12500
 EAC Treaty	3738
 ECCAS Treaty	1599
 ECOWAS Revised Treaty	7452
@@ -94,6 +95,7 @@ Employment Tree	10841
 Equal Access and Treatment of Different PSPs	12389
 Equalisation Treasury NGEC	7548
 Equality and Women's Equality. Trend Bouncing Back	11870
+Equality. Trend Measure Score	12488
 Eswatini Government Bonds and Treasury Bills	11131
 Eswatini Trends	6539
 External Environment and Material Trends	3410
@@ -286,7 +288,7 @@ Newgry Money Tree	8732
 Nigeria Launches Treasury Management System	2527
 Nigeria’s Fintech Landscape and Global Trends	4848
 Nigeria’s Fintech Landscape and Global Trends Financial	4848
-OVERALL GOVERNANCE TREND	10835,3,130,902,16,466,1
+OVERALL GOVERNANCE TREND	10835,3,130,902,16,466,1,135
 Off-Grid Solar Market Trends Report	11140
 Office of Treaty Affairs	1234
 OlffPeerirnfgosrmance Trends	6051
@@ -354,6 +356,7 @@ SUBSTANTIAL Risk Treatment Owner	12241
 Sassa and National Treasury	7910
 Satisfaction Trend Glo T2	6051
 Secretary and Treasurer	736
+Section Demographic Trends Around the Globe	12486
 Sector Trends	4722
 Selected Key Trends	12395
 Show TrendMD	6997
@@ -419,7 +422,7 @@ Treasurer's REPORT	9437
 Treasurers Report	9437
 Treasuries	10922
 Treasurv	11180
-Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246,164,460,45,5,4,31,15,31,15,224,29
+Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246,164,460,45,5,4,31,15,31,15,253,246,12,2
 Treasury AU African Union OECD Organisation	11193
 Treasury Annual	7548
 Treasury Banking Allows	11939
@@ -473,6 +476,7 @@ Treasury and SARB	8783
 Treasury the Head	6938
 Treasury's Secure Data Facility	11940
 Treasury-issued	4659
+Treasury. Now	12514
 Treasury.gov.za Closing	10809
 Treasury’s	10845
 Treat	573,693,89,617,24,579,33,250,219,1030,273,179,60,232,17,400,777,185,208,165,71,66,92,229,77,143,470,250,447,422,155,635,1346,143,1104,203
@@ -509,6 +513,8 @@ Treaty Office	25
 Treaty of ECOWAS	11517
 Treaty.aspx	11765
 TreatyBodyExternal	11765
+Tredgold Building	12511
+Tredgold Building Leopold Takawira Street Bulawayo	12511
 Trees	5874,1772,1,4567
 Trees Planted	6946
 Trees Planted Number of Trees Planted Staff	6946
@@ -529,19 +535,19 @@ Trello	2674,9246
 Tremblay-Cantin	5349
 Tremont. The U.S	5165
 Trencon Construction	2307
-Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56,56,168,16,718,16,1,1,64,199,3,9,93,84,1,11,1,60
-Trend Bouncing Back	10835,3,130,902,16,466,1
+Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56,56,168,16,718,16,1,1,64,199,3,9,93,84,1,11,1,60,75
+Trend Bouncing Back	10835,3,130,902,16,466,1,135
 Trend Bouncing Back Anti-Corruption	12341
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
 Trend Central African Republic	10837
 Trend Characteristic	10837,1052,263,188
-Trend Characteristic Scores	10835,3,130,902,16,466,1
+Trend Characteristic Scores	10835,3,130,902,16,466,1,135
 Trend Identification and Assessment	11265
 Trend Increasing Deterioration Accountability	12341
 Trend Increasing Deterioration Public Administration	12341
 Trend Increasing Deterioration Women's Equality	12341
-Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1
+Trend Increasing Improvement Bouncing Back Overall	10835,3,1048,466,1,135
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1,135
 Trend Increasing Improvement Education	12341
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Increasing Improvement Sustainable Environment	12341
@@ -582,8 +588,9 @@ Trending News	5784,166,263
 Trending Now	7441,192,3011
 Trending Stories	8884,3494
 Trending Stories Namibia	11122
-Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46,264,3,304,3,16,1,1,1,30,232,1,1,1,9,177,1,11,1,14,9
+Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46,264,3,304,3,16,1,1,1,30,232,1,1,1,9,177,1,11,1,14,9,112
 Trends Reshaping Africa’s Mobile Industry	6714
+Trends and Determinants of Birth Registration Completeness	12486
 Trends and Future Directions	9128
 Trends and Insights for Africa	7833
 Trends and Outlook	5675,6117
@@ -641,3 +648,4 @@ World Intellectual Property Organization Copyright Treaty	11550
 Year-on-Year Inflation Trends	5655
 YoY. Bigger Tickets Trended	4972
 Zambian Treasury. Prior	12335
+Zimbabwe Demographic and Health Survey. Trends	12486

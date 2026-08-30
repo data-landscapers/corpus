@@ -168,6 +168,7 @@ Connect To Retain CBO Data Controller	7167
 Connect UHI	11133
 Connect Zambia	12376
 Connect Zambia. Available	12376
+Connect and Enable Skip	12493
 Connect the Unconnected	5390
 Connect'Innov	1852
 Connect'Innov and The Dot	1857
@@ -176,13 +177,14 @@ ConnectRwanda	12385
 Connecta	3976
 Connectathon	1009
 Connectathons	1009
-Connected	3782,1198,265,1348,614,664,84,649,1433,819,1001,335,93
+Connected	3782,1198,265,1348,614,664,84,649,1433,819,1001,335,93,216
 Connected Africa Summit	2100,3864,42,40
 Connected Africa and Smart Africa	6178
 Connected African Market	7039,25,78
 Connected Borderlands	11319
 Connected Communities	11469
 Connected Continent	3796
+Connected Data Through the SDMX	12499
 Connected Development	11866
 Connected Future	4840,37,1,2739,104
 Connected Government	12359,94
@@ -200,6 +202,7 @@ Connectez-vous	9620,2053
 Connectez-vous S'inscrire Incendie	9890
 Connecticut	2816
 Connecticut Avenue NW Washington	42
+Connecticut-based Tronox and Australia-based Lion Rock	12517
 Connecting	730,974,1073,827,568,363,421,1101,1520,219,286,523,829,18,623,513,133,416,168,119,128,305,38,111,29,90,34,273
 Connecting Africa	814,381,69,99,202,415,255,3,10,11,26,9,10,239,4,22,104,141,32,16,84,22,20,49,16,29,260,108,71,39,116,12,75,21,17,53,80,149,56,29,65,219,26,48,155,40,29,130,38,38,18,171,170,61,3,54,20,8,229,82,32,83,85,74,17,15,2,22,46,8,91,83,15,6,21,1,16,101,13,48,5,154,116,24,7,19,32,104,196,217,84,16,91,418,211,269,210,202,13,159,14,73,995,41,7,394,722,496,154,284
 Connecting Africa Daniel	5330
@@ -240,7 +243,7 @@ Connecting the Other Half	958
 Connecting the Remaining	5606
 Connecting the World Industry Matching Activity	7407
 Connectingthedots	8602
-Connection	395,1229,1,1,1,865,1348,124,202,7691,98,237,197
+Connection	395,1229,1,1,1,865,1348,124,202,7691,98,237,197,112
 Connection Requirements	12389
 Connection of BERNET	1284
 Connections	2495,2,1415,886,6043,1016,21,499
@@ -256,6 +259,7 @@ Connectivity Business The Connectivity Business	6100
 Connectivity CamGSM	11310
 Connectivity Carrier Neutral	10956
 Connectivity Challenge Has Changed	6714
+Connectivity Challenges Bulilima and Matobo	12508
 Connectivity Channel European	10378
 Connectivity Channel Gateway Payment Originator Date	12364
 Connectivity Close Menu	12202
@@ -266,7 +270,7 @@ Connectivity Digital	1885
 Connectivity Drive	7251
 Connectivity Expansion	10746
 Connectivity Fixed	11884,321,146
-Connectivity Gap	4528
+Connectivity Gap	4528,7984
 Connectivity Group	6563
 Connectivity Guarantee Programme European Commission	1080
 Connectivity Has Become Educational Infrastructure Education	9120
@@ -286,7 +290,7 @@ Connectivity Providers Raxio Côte	10956
 Connectivity Providing	9446,1510
 Connectivity Reliable	12240
 Connectivity Report	6051
-Connectivity Robots Electric	10969,916,470
+Connectivity Robots Electric	10969,916,470,132
 Connectivity Safaricom	11310
 Connectivity Safety	11964
 Connectivity Services	11259
@@ -303,7 +307,7 @@ Connectivity and Fintech. Continued	10793
 Connectivity and Infrastructure Division	12055
 Connectivity and Integration	7048
 Connectivity and Interconnection	10157
-Connectivity and Network Infrastructure AI	4528
+Connectivity and Network Infrastructure AI	4528,7984
 Connectivity and Skills	7637
 Connectivity for All	3954
 Connectivity for Early	2989
@@ -690,6 +694,7 @@ TechCabal and ConnectingAfrica	10505
 TechPlomacy Connective	5239
 TechTalkThursday Why Connecting Rural Congo Costs	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Technical Connectivity Provider	5201,54
+Technology and From Connectivity	12512
 Telecom Infrastructure and Digital Connectivity Development	6459
 Telecommunications Sovereignty and Connectivity Date	5586
 Telkom Mobile FNB Connect Cell C	11259
@@ -703,6 +708,7 @@ Transmission Connection Agreements ToT Training of Trainers	12399
 UE- IV.3.1.1 Connexion	10711
 UJ Connect Entrepreneurship Training and Mentorship	7652
 UNCDF Connect Rural Uganda	394
+UNDP Youth Connekt UNDP Youth Connekt	12493
 UNESCO-UNICEF Education Connectivity Assessment	4619
 UbuntuNet Connect	3840
 Under the National Rural Connectivity Program	3317
@@ -728,6 +734,7 @@ World Bank Client Connection. Figure	10768
 World Bank's Client Connection Portal. Lastly	10985
 World Bank’s Client Connection	3604,7225
 Yas Tanzania Brings Fibre Connectivity	10590
+Youth Connekt	12493
 Youth Connekt Africa and Ascend Digital Solutions	4030
 Zambia Targets Nationwide Health Connectivity	5984
 Zimbabwe Connectivity Push Quick Reverse	2987

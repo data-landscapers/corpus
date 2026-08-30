@@ -212,7 +212,7 @@ Delaware Chancery Court	9467
 Delawares	3006
 Delay	1000,8506,1470,242,656,7,1,464,99
 Delay E-ID	6956
-Delayed	2477,735,1227,989,578,1542,826,754,889,1088,1128,180
+Delayed	2477,735,1227,989,578,1542,826,754,889,1088,1128,180,95
 Delayed Birth Registration	12216
 Delayed Completed Completed	2989
 Delayed Gridlock Resolution Initiation	12364
@@ -322,7 +322,7 @@ Deliberately	8071,106,2961,846
 Deliberation	12201
 Deliberation N	12201
 Deliberations	1637,9370,186,896
-Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1
+Deliberative	3714,7045,76,2,1,130,38,864,16,1,1,1,264,1,9,177,1,11,1,135
 Deliberative Polling	11006
 Deliberação	10442
 Deliberação ARN	11569
@@ -384,7 +384,7 @@ Delivering the Home Affairs Budget Vote Debate	11274
 Delivering the Minister	10585
 Deliveroo and Air France. The Government	3394
 Delivers	973,493,2374,2211,3701
-Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4
+Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41,214,191,269,2,40,14,30,45,374,4,143
 Delivery Architecture	7548
 Delivery Audit Trails	9855
 Delivery Enablers	1284
@@ -398,6 +398,7 @@ Delivery Mode QCTO	6832
 Delivery Partner	10348
 Delivery Plans	7751
 Delivery Program for Results	10870
+Delivery Satisfaction Index	12512
 Delivery System	4091
 Delivery System Strengthening and Project Management	11988
 Delivery Systems	11133
@@ -408,6 +409,7 @@ Delivery Unit du Bureau	2442
 Delivery Unit. Standardized	11857
 Delivery Units	11857
 Delivery Units. Such	11857
+Delivery and Empowerment Application	12507
 Delivery and Enabling Factors	12356
 Delivery and Last-Mile Logistics	9855
 Delivery and System Strengthening Project	10829
@@ -638,6 +640,7 @@ Marked for Deletion The Intermediate Indicator	1228
 Mehrauli New Delhi	10764,80
 Meta and Deloitte	5804
 Milestones and Deliverables Milestone	4528
+Milestones and Deliverables Milestone Key Deliverables Lead	12512
 Militar Delegada Director General	4209
 Min Delegate Amal El Fellah Seghrouchni	3892
 Mining Code. Delivery	2889
@@ -799,7 +802,7 @@ Service Delivery Program for Results	10870
 Service Delivery Requirements	9855
 Service Delivery Standards	6786
 Service Delivery Thematic Area	11951
-Service Delivery Time	4528
+Service Delivery Time	4528,7984
 Service Delivery and Access	11250
 Service Delivery and Accessibility	11791
 Service Delivery and Organisational Environment Statistics	11250

@@ -5,7 +5,7 @@ ACTION POINTS FOR POLICY IMPLEMENTATION Policy	4848
 AFI Global Policy Forum	11138
 AFI Policy Model for National Financial Inclusion	940
 AFIDEP African Institute for Development Policy	11887,266,1,9,178
-AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16,466,1
+AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16,466,1,135
 AFRICAN POLICY AND LEGISLATIVE CONTEXT	961
 AFRICAN POLICY AND REGULATORY FRAMEWORK	1243
 AFRICAN UNION’S DATA POLICY FRAMEWORK	1243
@@ -116,7 +116,7 @@ African Political Alliance	3437,3942,47
 African Space Policy and African Strategy for Social	1814
 African Space Policy and Strategy	12133
 African Trade Policy Centre	1356,9463,917
-African Union AI Policy Working Group	4528
+African Union AI Policy Working Group	4528,7984
 African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
@@ -310,6 +310,7 @@ Chin J Int Polit	5242
 China's Data Policy Balances Security Obsession	10350
 China's Domestic Policy Towards Orbital Data	9816
 Chisenga Police Post	12174
+Christian Community Police Network	12510
 Circulating Vaccine-Derived Poliovirus Digital Health Agency	4153
 Civic Politics	6947
 Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245
@@ -363,6 +364,7 @@ Concept Note for Zimbabwe's National Research Policy	1554
 Conception and Scoping Policy	11007
 Concluding Policy Observations The South African	2117
 Conclusion and Policy Recommendations	10718,477
+Conditions Privacy Policy Surveyor General	12511
 Conditions and Privacy Policy	9629
 Conflict of Interest Policy	8866
 Conflict-of-Interest Policy	6946
@@ -410,7 +412,7 @@ Cultural Policy	12253
 Cultural Politics of Education	6948
 Cultural and Political Factors	5349
 Culture Politique Présidentielle	9620
-Current Policy and Regulatory Landscape	4528
+Current Policy and Regulatory Landscape	4528,7984
 Current Telecommunications Taxation Policy	6789
 Customs and Political Crime	10976
 Cyber Security Policy	4126,8293
@@ -580,6 +582,7 @@ Directorate of Policy and Planning Information	34
 Directorate of Policy and Planning MoH	34
 Directorate-General for External Policies	10856
 Disabilities National Policy	8332
+Disclaimer Terms Of Use Privacy Policy	12515
 Disregard Privacy Policies	7176
 Divisional Police Commissioners	11868
 Divisional Police Stations	11928
@@ -641,7 +644,7 @@ East African Artificial Intelligence Policy Outlook	8334
 East Policy. Accessed	6947
 Eaves' Tech Policy Press	6445
 Economic Analysis and Policy	5349,5786
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
 Economic Development Policy	5872
 Economic Growth and Public Policy. World Bank	11149
 Economic Opportunities and Legal Challenges. Police Paper	2816
@@ -679,7 +682,7 @@ Enabling Data Policy Framework Transversal Digital	961
 Enabling Digital Transformation Policies	11230
 Enabling Policy	1777,10667
 Enabling Policy and Regulations	377,642
-Enact National AI Policy Act	4528
+Enact National AI Policy Act	4528,7984
 Endterm Target Source Frequenc Policy Statement	7548
 Energy Planning and Policy Development	11272
 Energy Policy Implementation	12320
@@ -690,16 +693,16 @@ Energy and Policy Considerations for Deep Learning	7548
 Energy-efficient Cloud Computing Technologies and Policies	1264
 Enforce Privacy Policies Privacy	34
 Enforcement Dr. Patrick Ndzinisa Policy Research	11131,3
-Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Enforcement of Environmental Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Enhance Police Cybercrime Response Unit Time	1000
 Ensure the National Cloud Policy	11995
 Entities Covered This Policy	11995
 Environmental Policy and Governance	11006
 Environmental Sustainability This Policy	11995
 Environmental and Social Policy	1818
-Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1
+Equal Political Power	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
 Equal Political Power Equal Political Representation	10837,1315,188
-Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Equality WOMEN'S EQUALITY Political Power	10759
 Equality Women's Equality Political Power	12152
 Equality Women’s Equality Political Power	12340
@@ -717,7 +720,7 @@ Eswatini National Data Policy	3339
 Ethics Code and Ethics Policies	11131,3
 Ethiopia Policy Area	12184
 Ethiopia. Energy Policy	12233
-Ethiopian Federal Police	11607,618
+Ethiopian Federal Police	11607,893
 European Centre for Development Policy Management	11155
 European Journal of Political Economy	1828,9482
 European Journal of Political Research	7886
@@ -752,7 +755,7 @@ FairPlanet's Privacy Policy	8943
 Federal Capital Territory. The Nigeria Police	8440
 Federal Executive Council. The Policy	11129
 Federal Government’s Nigeria First Policy	7973
-Federal Police	7909,3698,618
+Federal Police	7909,3698,893
 Fees Stress Policy	7695
 Final Policy Paper	1354
 Finance. Policy	587
@@ -1031,9 +1034,11 @@ Information Security Policy for Access Security	1686
 Information Security and Privacy Policy Statements	12323
 Information Society Policy	10300
 Information and Internet Policy	1264
+Infrastructure National ICT Policy From Protection	12512
 Infrastructure National ICT Policy Intellectual Property	4528
 Infrastructure and Digital Readiness Policy Objective	7548
 Infrastructure and Policy	5912
+Innovation Policy	12512
 Innovation Unicorns Policy	4126
 Inside Kenya’s AI Policy	10246
 Inside Politics	8173
@@ -1192,7 +1197,8 @@ Legal and Policy Pathways Artificial Intelligence	8747
 Legal and Policy Protections Governing Digital Labour	10143
 Legal and Regulatory Frameworks Policy Objective	7548
 Legal and Regulatory Frameworks Policy Statement	7548
-Legislation and Policy Department	12225
+Legislation Acts Policies Regulations Standards Consumer	12515
+Legislation and Policy Department	12500
 Lesotho Mounted Police Service	1200
 Lesotho National Digital Policy	1369
 Lesotho’s Ministry of Home Affairs and Police	11157
@@ -1303,6 +1309,7 @@ Minister of Police. Referred	11285
 Ministerial Policy Dialogue	7787
 Ministry of Communications and Digital Economy The Policy	11857
 Ministry of Finance's Digital Financial Services Policy	7954
+Ministry of ICT Postal and AI Policy and Innovation	12512
 Ministry of Police Affairs	11928
 Ministry of Public Administration and Political Affairs	7182
 Mirage and Politics of Participation	226
@@ -1628,7 +1635,7 @@ Overall Cyber Security Policy and Strategy	12364
 Overall Substantial COMPLIANCE Policy Does	11380
 Overcoming Policy Barriers	12305
 Overhaul Connectivity Policies	960,9896
-Oversee the Strategy and Policy Alignment Unit	4528
+Oversee the Strategy and Policy Alignment Unit	4528,7984
 Oversees the Policy Framework for Integrated Planning	11224
 Oxford Policy Management	11133,9,14
 Oxford Policy Management. Available	11133,9
@@ -1810,7 +1817,7 @@ Policia Judiciara	11325
 Policia Nacional	10752
 Policia Nacional O Ministério da Justiça	10750
 Policial Da Interpol	9399
-Policies	21,205,318,38,317,71,840,4,14,160,105,1511,523,401,27,662,316,144,234,682,46,416,533,1540,357,131,239,114,752,38,4,22,56,3,12,22,256,1,5,91,19,8,7,204,120,141,125,97,19,15,104,47,77,13,6,92,4,27,39,49
+Policies	21,205,318,38,317,71,840,4,14,160,105,1511,523,401,27,662,316,144,234,682,46,416,533,1540,357,131,239,114,752,38,4,22,56,3,12,22,256,1,5,91,19,8,7,204,120,141,125,97,19,15,104,47,77,13,6,92,4,27,39,49,68
 Policies Around Common Governance Principles	965,3804,120,206,68,334,86
 Policies ISO Tier	10721
 Policies Policies	775
@@ -1822,7 +1829,7 @@ Policies and Practices	6948
 Policies and Procedures GC-PP	10721
 Policing	10764,424
 Policing Summit	11961
-Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,50,98,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4,63,33,11,1,5,16,19,2,6,16,22,79,2,2,1,4,2,15,1,37,2,1,1,27,6,5,1,16,13,18,2,64,180,24,10,9,35,4,180,6,57,3,3,6,12,6,1,10,12,1,8,7,33,8,22,4,3,2,58,96,4,6,1,3,3,9,9,7,5,5,4,5,4,18,1,2,5,1,1,4,7,2,42,32,6,1,15,4,1,3,10,7,19,1,3,16,3,1,2,36
+Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,50,98,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4,63,33,11,1,5,16,19,2,6,16,22,79,2,2,1,4,2,15,1,37,2,1,1,27,6,5,1,16,13,18,2,64,180,24,10,9,35,4,180,6,57,3,3,6,12,6,1,10,12,1,8,7,33,8,22,4,3,2,58,96,4,6,1,3,3,9,9,7,5,5,4,5,4,18,1,2,5,1,1,4,7,2,42,32,6,1,15,4,1,3,10,7,19,1,3,16,4,2,36,30,15,10
 Policy Academy	11918
 Policy Actions	958
 Policy Actions On Infrastructure And Services	958
@@ -1835,11 +1842,12 @@ Policy Advocacy Digital	12241
 Policy Advocacy Inclusive Digital Transformation	12241
 Policy Alert	11866
 Policy Alignment	12356
+Policy Alignment for AI-Readiness Policy Domain Existing	12512
 Policy Alignment for AI-Readiness Policy Domain National	4528
 Policy Analysis	7590,4572
 Policy Analysis Report	12395
 Policy Analysis Report. ESCCOM	12395
-Policy Analyst	4528
+Policy Analyst	4528,7984
 Policy Analyzer	9618
 Policy Application	899,2962
 Policy Areas EVOBJ TBL Page	10779
@@ -1892,12 +1900,12 @@ Policy Direction	3264,2544,1083,865,3479
 Policy Directions	10768
 Policy Directions. Technical Report	10768
 Policy Directions. Technical Report. Page	10768
-Policy Economics	12332
+Policy Economics	12485
 Policy Engagement	12053
 Policy Ethiopia Yes National ICT Policy	11529
 Policy Evaluation and Improvement	10776
 Policy Financing	11905
-Policy Framework	961,282,5277,1028,2179,1466,31,636,390
+Policy Framework	961,282,5277,1028,2179,1466,31,636,390,262
 Policy Framework Act Empowerment STEE Social	11193
 Policy Framework Act SAMEA South African	11224
 Policy Framework For Education	899
@@ -1910,7 +1918,7 @@ Policy Friction	5550
 Policy Goal	7548
 Policy Goal and Objectives	7548
 Policy Guiding Principles	5244
-Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1
+Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135
 Policy ISO	10721
 Policy Impact and Way Forward	226
 Policy Implementation	6432,5428,496
@@ -1922,6 +1930,7 @@ Policy Implementation Secretariat	958
 Policy Implementation Secretariat PLWDs	958
 Policy Implications	12333
 Policy Implications From Institutional Performance	11138
+Policy Inclusion	12508
 Policy Indicator	11986
 Policy Influence	6909
 Policy Initiative	1823
@@ -1966,7 +1975,7 @@ Policy Objectives	5244,2304,2609
 Policy Objectives The National Data Governance	5244
 Policy Officer	9162
 Policy Opportunities	12297
-Policy Oversight	4528,7828
+Policy Oversight	4528,7828,156
 Policy P-12 Policy	11857
 Policy PLAS Proactive Land Acquisition Strategy	11261
 Policy Paper	586,11400
@@ -2045,9 +2054,10 @@ Policy and Administration ZiG258	4392
 Policy and Advocacy	9760,1062
 Policy and Coordination	11791
 Policy and Development	8021
-Policy and Ethics	4528
+Policy and Ethics	4528,7984
 Policy and Governance	7696
 Policy and Governance Framework	11195
+Policy and Governance Issues Facility Exclusions	12508
 Policy and Institutional Assessment CR Civil Registration	969
 Policy and Legal Framework	7760
 Policy and Legal Framework Objectives	12453
@@ -2061,7 +2071,7 @@ Policy and Monitoring Strategic	11907
 Policy and National Telecom Policy	236
 Policy and Oversight Legislative Committee MOPT	1777
 Policy and Payment System Vision	12000
-Policy and Planning	12418
+Policy and Planning	12502
 Policy and Practice	215,11697
 Policy and Programs	12329
 Policy and Regulati	1452
@@ -2154,7 +2164,7 @@ Politecnio Milano	3604
 Politely	6041
 Politica Nacional De Proteção Social	11547
 Politica de Seguranca Cibernetica	795
-Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79
+Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44
 Political Advisor	10509
 Political Affairs	7182,270
 Political Alignment	7869
@@ -2190,9 +2200,9 @@ Political Party Support Kenya's Political Landscape	7869
 Political Party They Support	7869
 Political Party Total Central Rift Coast	7869
 Political Party With ECN	12350
-Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Political Pluralism Security	10835,3,130,902,16,466,1
-Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Political Pluralism Security	10835,3,130,902,16,466,1,135
+Political Power	5418,5341,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Political Reckoning	4619
 Political Regimes and Inflows of Foreign Direct Investment	11310
 Political Representation	7452
@@ -2221,6 +2231,7 @@ Politico Europe	11050
 Politics	2518,1097,1061,673,626,412,3012,9,353,308,19,207,110,48,73,545,64
 Politics Becomes	9399
 Politics Conference	7886
+Politics Editor	12521
 Politics MK	3962
 Politics Spice Special Features Education Sex	9669,84
 Politics Sports African Newsmakers African View	9989
@@ -2284,7 +2295,7 @@ Postcolonial Media Policy Under the Long Shadow	11028
 Posts Draft Budget and Related Policies	11251
 Posts Planning Policies	11251
 Potential AI Policy and Innovation	4528
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Practical Guide for Policy Makers	11007
 Preferential Procurement Policy	11986
 Preferential Procurement Policy Framework Act	11240,12,321
@@ -2325,7 +2336,7 @@ Proxy-Means Testing National Policy	10763
 Président du Comité National de Politique	10500
 Public Administration and Political Science	6946
 Public Disclosure Portal Policy Statement	7548
-Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Political Participation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178
 Public Perception of Political Participation Rights	10759,1395
@@ -2381,6 +2392,7 @@ Regulation and Policies. The Task Team	11277
 Regulation and Policy	12444
 Regulatory Framework and Policy Development	5245
 Regulatory and Policy Coordination	4167
+Regulatory and Policy Framework Zimbabwe's AI	12512
 Regulatory and Policy Framework Zimbabwe’s AI	4528
 Relevant Legislative and Policy Mandates	11986
 Remote Access Policy	10721
@@ -2598,7 +2610,7 @@ Strategies for Policy	8021
 Strategy National AI Policy	11135
 Strategy and Design Policy	11007
 Strategy and Policy	10776
-Strategy and Policy Alignment Pillar	4528
+Strategy and Policy Alignment Pillar	4528,7984
 Strengthen Policy Ownership and Leadership The Ministry	8183
 Strengthening Data Systems for Smarter Policymaking	11332
 Strengthening Data Systems for Smarter Policymaking UNDP	11332
@@ -2747,7 +2759,7 @@ Visible Policing Version Control Page	11188
 Vision and Policy	9204,216,10,106
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
 WB Policy Note	2419
-WELFARE Equal Political Representation	10835,3,130,902,16,466,1
+WELFARE Equal Political Representation	10835,3,130,902,16,466,1,135
 WHR. Policy	1867
 WOMEN'S EQUALITY Political Power	10759,78,1052,451
 Washington. Political	4617
@@ -2797,11 +2809,12 @@ Zanzibar Social Protection Policy. Available	11133
 Zero-Tariff Policy	11618
 Zimbabwe ICT Policy	958
 Zimbabwe National Child Online Protection Policy	9794,1817,180
-Zimbabwe National ICT Policy	958,3570
+Zimbabwe National ICT Policy	958,3570,7984
 Zimbabwe National Policy	395,563
 Zimbabwe National Policy for ICT	958
 Zimbabwe Police	5599
-Zimbabwe Republic Police	736,234,2,8422,3
+Zimbabwe Police Embrace Electronic Docket System	12510
+Zimbabwe Republic Police	736,234,2,8422,3,3113
 Zimbabwe Yes National ICT Policy	11529
-Zimbabwean National Policy Documents	4528
+Zimbabwean National Policy Documents	4528,7984
 Zimbabwe’s ICT Policy	7521

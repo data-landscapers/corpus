@@ -17,10 +17,11 @@ AGENDA Digital Superhighway and Creative Economy Space	1131
 AI Can Help Developing Economies Diversify	1814
 AI Economy	5366,52,1069,625,35,27,163
 AI Economy Artificial	7876
-AI Sector Economic	4528
+AI Sector Economic	4528,7984
 AI Special Economic Zone	7456
 AI for Economic Growth and Modernisation Objective	4528
-AI for Emerging Economies	1965,2563,7828
+AI for Economic Growth and Modernisation Objective Lagging	12512
+AI for Emerging Economies	1965,2563,7828,156
 AISHA SHEU OMAR Director International Economics	12127
 AUDA-NEPAD Launches Island Economy Programme	7795
 AUDA-NEPAD Programme for African Developing Island Economies	7795
@@ -263,7 +264,7 @@ CEMAC Economic and Financial Reform Program	10985
 CEO of Econet Wireless	4622
 CEO of Econet Wireless Zimbabwe	7546
 CEO of International Economic Consulting Ltd. Comments	1243
-CHANGE FOUNDATIONS FOR ECONOMIC SCORE	10835,3,130,902,16,466,1
+CHANGE FOUNDATIONS FOR ECONOMIC SCORE	10835,3,130,902,16,466,1,135
 CHAPTER ONE RECENT ECONOMIC DEVELOPMENTS	11136
 CIRCULAR TO ECONET WIRELESS ZIMBABWE	4896
 CIRCULAR TO ECONET WIRELESS ZIMBABWE LIMITED	4896
@@ -334,6 +335,7 @@ China Eximbank and Cameroon’s Ministry of Economy	56
 China’s National Economic and Social Development Plan	5242
 China’s Platform Economy	226
 Circular Economy	789,11425
+Circular Economy Circular Economy Circular Economy	12493
 Circular Economy Opportunity	12214
 Circular Economy Soil Management Air Quality	4126
 Circular Economy Transition	789
@@ -345,6 +347,7 @@ Clase Económica. Escala	4209
 Clase Económica. REPUBLICA DE GUINEA ECUATORIAL	4209
 Classificador Económico da Despesa	10783
 Climate and Conflict. Annual Review of Economics	10963
+Coega Special Economic Zone	12521
 Cogent Economics	6938
 College of Business and Economics	8142
 College of Economic and Management Sciences	7278
@@ -407,6 +410,7 @@ Conseil Economique	17,8874
 Conselho Administrativo de Defesa Econômica	8760
 Conselho Consultivo da Economia Digital	1409,2672
 Construction Project Economic Development Cooperation Fund	354
+Contact Us Econet	12515
 Contacto ECTS Economia	12019
 Context of Country’s Socio-Politics and Economics	1161
 Contribution of Digital Economy	11863
@@ -464,10 +468,11 @@ Data Economy	1264
 Data-Driven Economy. A Roadmap for Usage and Exploitation	1243
 Decade of Economic Impact	9350
 Decent Work and Economic	11855
-Decent Work and Economic Growth	5883
+Decent Work and Economic Growth	5883,6610
 Decent Work and Economic Growth Goal	11332
 Delegado Distrital Ministerio Jefe Económico	4209
 Delisting Circular and Econet InfraCo Pre-Listing	4896
+Demand-Driven Phased Economic Risks Analysis	12512
 Democratic Republic of Congo Digital Economy Assessment	11994
 Denial of Service ECOWAS Economic Community of West	1777
 Department Resources Africa Blue Economy Accelator	11283
@@ -824,9 +829,10 @@ Econ&title	771
 Econ3x3	6387
 Econe Development	4896
 Econect Wireless	2987
-Econet	36,2,2,2,183,81,102,345,212,72,1,834,153,742,117,4,128,242,892,148,62,168,368,642,206,83,20,153,11,239,746,550,58,927,1228,2084
+Econet	36,2,2,2,183,81,102,345,212,72,1,834,153,742,117,4,128,242,892,148,62,168,368,642,206,83,20,153,11,239,746,550,58,927,1228,2084,660,5,4
 Econet AI	5827,20
 Econet AI. Now	5847
+Econet Begins Onboarding Clients	12503
 Econet Board	4896
 Econet CEO Douglas Mboweni	4298
 Econet EGM	4896
@@ -837,6 +843,7 @@ Econet Global	50,512,59
 Econet Global Limited	4896
 Econet Going Green	306
 Econet Group	462,100,403,73,3301,557,951,164,2520
+Econet Group CEO Douglas Mboweni	12503
 Econet Group Chief Executive Officer Douglas	5827
 Econet Heasmen Wireless Pvt Ltd Industrial	4896
 Econet Hebert Chitepo	4896
@@ -892,7 +899,7 @@ Econet Wireless Group	4896
 Econet Wireless Holdings	4896
 Econet Wireless Mbizo Land Kwekwe Pvt	4896
 Econet Wireless Pvt Ltd	4896
-Econet Wireless Zimbabwe	50,55,2911,1282,41,557,931,20,164,194,287,836,218
+Econet Wireless Zimbabwe	50,55,2911,1282,41,557,931,20,164,194,287,836,218,4957
 Econet Wireless Zimbabwe Deferred Tax Limited	4896
 Econet Wireless Zimbabwe Limited	4360,536,642
 Econet Wireless Zimbabwe Limited Rates	4896
@@ -956,7 +963,7 @@ Economia Terça	11429
 Economia. Gestão	11898
 EconomiaPT	3192
 Economias	11430,468
-Economic	395,1,4,18,300,252,174,120,99,191,180,27,227,390,140,149,108,183,47,139,393,17,29,1,198,75,4,37,319,213,129,117,425,191,241,418,149,6,290,138,59,97,118,108,22,10,389,241,18,42,57,164,106,318,263,158,305,58,61,341,83,64,44,99,2,195,201,31,372,132,71,2,10,18,26,10,12,11,4,9,99,16,26,1,127,2,49,11,2,37,2,24,1,9,14,11,121,52,55,25,3,213,89,1,2,51,78,190,25,9,15,6,2,8,115,57,9,5,5,13
+Economic	395,1,4,18,300,252,174,120,99,191,180,27,227,390,140,149,108,183,47,139,393,17,29,1,198,75,4,37,319,213,129,117,425,191,241,418,149,6,290,138,59,97,118,108,22,10,389,241,18,42,57,164,106,318,263,158,305,58,61,341,83,64,44,99,2,195,201,31,372,132,71,2,10,18,26,10,12,11,4,9,99,16,26,1,127,2,49,11,2,37,2,24,1,9,14,11,121,52,55,25,3,213,89,1,2,51,78,190,25,9,21,2,8,115,57,9,5,5,13,53,2
 Economic Activities	2775
 Economic Activities Mining	1988
 Economic Activity	12403,42
@@ -970,13 +977,13 @@ Economic Analysis and Policy	5349,5786
 Economic Analysis of National Government Expenditure	2775
 Economic Analysis. The Project	11417
 Economic Analyst	11289
-Economic Application	4528
+Economic Application	4528,7984
 Economic Assessment of Somalia’s Accession	11136
 Economic Association	12376
 Economic Barriers Cost Barrier Insecure	12457
 Economic Benefits	10829,1570
 Economic Category BeTA Bottom-up Economic Transformation	2775
-Economic Census	12445
+Economic Census	12445,60
 Economic Classification	2775,8443
 Economic Cluster	3583
 Economic Cluster Ministerial Council	6792
@@ -1003,7 +1010,7 @@ Economic Community of West African States Published	7
 Economic Community of West African States. Guinea	8082
 Economic Community of West African States. Title	11570
 Economic Complexity Index	10157,2219
-Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1
+Economic Complexity PTS Political Terror Scale	10835,3,130,902,16,466,1,135
 Economic Conditions	12376
 Economic Conference	9957
 Economic Conflict	970
@@ -1016,7 +1023,7 @@ Economic Contribution of Broadband	12385
 Economic Cooperation Agreement	11925
 Economic Cooperation and Development	1243
 Economic Court of Alexandria	3525
-Economic Development	106,2974,781,1488,306,3645,1418,123,390
+Economic Development	106,2974,781,1488,306,3645,1418,123,390,1281
 Economic Development Board	7845
 Economic Development Board Act	7845
 Economic Development Board Act Act	7845
@@ -1027,7 +1034,7 @@ Economic Development Development	958
 Economic Development Enable	11131
 Economic Development Facilitate	11131
 Economic Development Goals	3861
-Economic Development Integration Zimbabwe	4528
+Economic Development Integration Zimbabwe	4528,7984
 Economic Development Partner. IFC	2577
 Economic Development Planning	12358
 Economic Development Policy	5872
@@ -1035,7 +1042,7 @@ Economic Development Private	958
 Economic Development and Cultural Change	10985,540
 Economic Development and Dr. Qian Keming	184
 Economic Development and International Cooperation	9298
-Economic Development and Investment Promotion	2779,272,1341,136,1935,3441
+Economic Development and Investment Promotion	2779,272,1341,136,1935,3441,2608,2
 Economic Development and Poverty Reduction Strategy. EICV	12403
 Economic Development and Tourism Dr Ivan Meyer	9791
 Economic Development and Trade	11289
@@ -1043,9 +1050,9 @@ Economic Development's Report	106
 Economic Developments	12181
 Economic Dimension	5676,6534
 Economic Diplomacy Action Group	6790
-Economic Diplomacy and Investment Attraction	4528
-Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Economic Diversification Equality	10835,3,130,902,16,466,1
+Economic Diplomacy and Investment Attraction	4528,7984
+Economic Diversification	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Economic Diversification Equality	10835,3,130,902,16,466,1,135
 Economic Diversification Initiative	2508
 Economic Diversification and Growth	12356
 Economic Efficiency	4430
@@ -1108,11 +1115,12 @@ Economic Needs Test	12389
 Economic Operator of New Technologies	12295
 Economic Opportunities	11900
 Economic Opportunities and Legal Challenges. Police Paper	2816
+Economic Opportunities for Zimbabwean Youth How Digital	12493
 Economic Opportunity	10759,209
 Economic Opportunity Cameroon	10968
-Economic Opportunity Human Development	10835,3,1048,466,1
+Economic Opportunity Human Development	10835,3,1048,466,1,135
 Economic Opportunity South Africa	11870
-Economic Opportunity and Human Development	11870
+Economic Opportunity and Human Development	11870,618
 Economic Outlook	2775,4171
 Economic Outlook Kenya	2775
 Economic Outlook Overall	11134
@@ -1154,12 +1162,12 @@ Economic Resilience	11546
 Economic Resilience and Investment Leadership	8665
 Economic Review	4932,6199,3
 Economic Review and Inflation Report	11131
-Economic Risks	4528
+Economic Risks	4528,7984
 Economic Risks Specific Risk	4528
 Economic Sectors	11986
 Economic Services	5655,5634
-Economic Situation	12225
-Economic Sovereignty and Competitiveness Zimbabwe	4528
+Economic Situation	12500
+Economic Sovereignty and Competitiveness Zimbabwe	4528,7984
 Economic Stakes	6467
 Economic Statistics	11237
 Economic Statistics Classification Statistician	12403
@@ -1192,7 +1200,7 @@ Economic Update	1284,9821
 Economic Update Guinea-Bissau	11557
 Economic Value Added	12395
 Economic Viability	11250
-Economic Women's Equality Opportunity The IIAG	10838,1032,482
+Economic Women's Equality Opportunity The IIAG	10838,1032,482,136
 Economic Women’s Equality Opportunity The IIAG	10835,133,918,467
 Economic Zone	11863
 Economic and Commercial Office	3950
@@ -1233,7 +1241,7 @@ EconomicGrowth	9423
 Economica	5012,3368
 Economically	2845,5422,1349,799,881,1001
 Economically Advantageous Tender	12389
-Economics	774,659,395,2895,173,632,172,1246,1184,574,400,149,506,225,351,517,102,177,3,176,698,154,116,54
+Economics	774,659,395,2895,173,632,172,1246,1184,574,400,149,506,225,351,517,102,177,3,176,698,154,116,207
 Economics Association	10852
 Economics Association of Malawi	7900
 Economics Commons	10
@@ -1250,7 +1258,7 @@ Economics and Finance for Development	10335
 Economics and Implications of Data	961
 Economics and Journalism	4896
 Economics and Regulation Deputy Governor	6938
-Economics for Development	12332
+Economics for Development	12485
 Economics of DPI	10852
 Economics of Data	1161,82
 Economics of Data. The American Economic Review	961
@@ -1274,7 +1282,7 @@ Economie Rurale II	10830
 Economie Rurale INR Instituts Nationaux de Recherche	12
 Economie Sociale	10964,1,20
 Economie du Plan	4273
-Economies	2775,6677,1262,71,184,165,6,44,379,321,1,10,264,1,45,92,54,4
+Economies	2775,6677,1262,71,184,165,6,44,379,321,1,10,264,1,45,92,54,4,132
 Economies D C B	10785
 Economies Economies	10785
 Economies Engineering	11134
@@ -1296,7 +1304,7 @@ Economiste	7655,666
 Economiste-	7655
 Economists	3738,2663,493,922,84,804
 Economists Society of Kenya	7167
-Economy	56,69,111,11,148,375,361,130,465,197,408,3,33,2,92,66,99,149,223,186,232,115,295,15,82,602,365,508,677,178,123,393,12,34,46,142,111,40,6,2,140,306,16,468,258,191,402,24,68,16,639,130,85,33,25,30,32,503,12,295,2,1,3,123,4,17,155,16,37,173,179,4,171,150,3,13,54,25,79,92,16,7,55,39,80,7,12,1,23,8,11
+Economy	56,69,111,11,148,375,361,130,465,197,408,3,33,2,92,66,99,149,223,186,232,115,295,15,82,602,365,508,677,178,123,393,12,34,46,142,111,40,6,2,140,306,16,468,258,191,402,24,68,16,639,130,85,33,25,30,32,503,12,295,2,1,3,123,4,17,155,16,37,173,179,4,171,150,3,13,54,25,79,92,16,7,55,39,80,7,12,1,23,8,11,93,24
 Economy Accra	9421
 Economy Africa	6714
 Economy Burundi	10892
@@ -1336,7 +1344,7 @@ Economy Taiwo Oyedele	6376
 Economy William Kabogo Gitau	7481
 Economy World Bank Poised	8478
 Economy Year	11884,11,456
-Economy Year Model Year	11885,470
+Economy Year Model Year	11885,470,132
 Economy and Development	11747
 Economy and E-Governance Bill	4621
 Economy and Finance	5360
@@ -1415,12 +1423,12 @@ Eswatini Digital Economy Assessment	796
 Eswatini Digital Economy Assessment Companion	796
 Eswatini Economic Policy Analysis and Research Centre	1953,5849
 Eswatini Economic Update	3372,1,24,1138
-Ethiopia Economic Situation Ethiopia	12225
+Ethiopia Economic Situation Ethiopia	12500
 Ethiopia's Homegrown Economic Reforms	12245
 Ethiopia. Ethiopian Journal of Economics	8671
 Ethiopian Economic Opportunities Programme	12257
 Ethiopian Economics Association	10852
-Ethiopian Economy Profile	12225
+Ethiopian Economy Profile	12500
 Ethiopian Journal of Economics	3176
 Etudes Economiques	7675,1602
 Eudes Economiques	10273
@@ -1443,9 +1451,9 @@ Export Economy Technology Transfer Is Rwanda	3256
 FAO Agricultural Development Economics	12158
 FBS Indicators Economic Survey	2775
 FINANZAS ECONOMIA Y PLANIFICACION CONTABILIDAD FINANCIERA	4209
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130,902,16,466,1,135
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052,263,188,1
 Faculty of Economic	9237
@@ -1463,7 +1471,7 @@ Finance and Economic Affairs Minister Seedy Keita	8358
 Financement des Economies DSMP Direction des Systèmes	11944
 Financial Benefits Economic Development Impact Opportunity	12457
 Financial Sector and Economic Growth	10841
-Financial Services and Economic Inclusion Transformation	4528
+Financial Services and Economic Inclusion Transformation	4528,7984
 Financiers CEMAC Communauté Economique	11944
 Financing of African Economies	1264
 Fincent Financial Advisory Econet InfraCo	4896
@@ -1472,7 +1480,7 @@ Fiscal and Economic Policy	10932
 Forest Products OECD Organisation for Economic Co-operation	970
 Formalização da Economia	11426
 Former Minister of Economy and Planning	8126
-Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Foundations for Economic Opportunity	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Foundations for Economic Opportunity and Human	10835
 Foundations for Economic Opportunity and Human Development	10759,76,2,1315,11,178
 Foundations of Economic Analysis	5700
@@ -1582,7 +1590,7 @@ Higher School of Economics	5881
 Highly Dollarized Economies	9331
 Holding Back Ghana's Digital Economy	7606,1469
 Homegrown Economic Reform	5655
-Homegrown Economic Reform Agenda	7820,4405
+Homegrown Economic Reform Agenda	7820,4680
 Honourable Minister of Communication and Digital Economy	11857
 Honourable Minister of Communications and Digital Economy	11857
 Hour Economy Secretariat	10630
@@ -1627,6 +1635,7 @@ Impacted Economic Growth	11994
 Implied Valuation for Econet Based	4896
 Improved Economic	10856
 Improvement Project Economic Development Cooperation Fund	850
+Inaugural Economic and Commercial Dialogue Together	12517
 Inclusion and Foundations for Economic Opportunity	11886,2,452,12
 Inclusive Data Economy	1161
 Inclusive Digital Economy	12202
@@ -1851,6 +1860,7 @@ Markets Economy Real Estate Agriculture Aviation	9750,247
 Masiyiwa's Econet Group	5847
 Masiyiwa’s Econet Group	6909
 Massive Economic Multiplier	9431
+Maternal Health Rural Economy Support	12488
 Mean for Economic Inclusion	12227
 Measurement Ministry of Comments NA Economy and Recurrent	10870
 Mechanics Econet Global Limited	4896
@@ -2147,7 +2157,7 @@ Plano Económico	4129
 Platform Economy	226,3261
 Platform Economy Convention	6612,1,489
 Platform Economy and Digital Work	226
-Policy Economics	12332
+Policy Economics	12485
 Policy Pathways for Enhancing Women’s Economic Participation	8891
 Political Economy	11960
 Political Economy Analysis	1261
@@ -2194,7 +2204,7 @@ Public Administration and Rural Economy. Trend Measure	12353
 Public Disclosure Authorized Benin Economic Governance	10870
 Public Financial and Economic Management Stärkung	825
 Public Perception of Economic	11870
-Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Public Perception of Economic Opportunities	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Public Perception of Economic Opportunities Infrastructure	10759,1395
 Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178
 Public Security and Digital Economy	1591
@@ -2209,9 +2219,9 @@ RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK	11136
 RECOGNITION ECONOMIES AND EPISTEMIC JUSTICE Credit	12090
 REGIONAL Regional Economic ECOWAS	961
 RISE OF THE DATA ECONOMY	961
-RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1
-RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1
-RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1
+RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135
+RURAL ECONOMY	10759,76,2,1,130,902,16,2,1,263,1,10,177,1,11,1,135
+RURAL ECONOMY Absence of Corruption	10835,3,130,902,16,466,1,135
 RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
 RURAL ECONOMY Rank	10759,78,1049,467
 RURAL ECONOMY Rural Land	10759,78,1052,451
@@ -2251,6 +2261,7 @@ Reporting Accountant of Econet InfraCo	4896
 Republic of Cameroon Ministry of Economy and Planning	10963
 Republic of Congo Country Economic Memorandum	1828
 Republic of Congo Economic Update	1828,10077
+Republic of Zambia Digital Economy	12512
 Research and Economic Development	9126
 Resilience and Economic Stimulus	11469
 Resolution BROAD-BASED BLACK ECONOMIC EMPOWERMENT	11986
@@ -2267,11 +2278,11 @@ RiSE OF THE DATA ECONOMY	961
 Rights and Economy	10300
 Risk Management Eswatini Economic Policy Analysis	11134
 Rule of Law and Foundations for Economic Opportunity	12152
-Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rural Economy	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rural Economy Human Development	11889,452
 Rural Economy Rank	11889
-Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1
+Rural Economy Support	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Rural Economy Support Absence of Corruption	10835,3,130,902,16,466,1,135
 Ruwa Econet Zimbabwe Group Pen- Building	4896
 Rwanda Economic Update	12333
 Rwanda Economy Digitalisation	3815
@@ -2281,7 +2292,8 @@ Rwandan Business Enterprises Economic	12445
 Régulation Economique	10975
 Résilience Economique Prestataires de Services Techniques	10965
 SADC Economic Partnership Agreement	11210
-SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1
+SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3,130,902,16,466,1,135
+SAFETY RURAL ECONOMY	12488
 SECTION A International Scene Economic Survey	2775
 SECTION B Domestic Economy PAGE	2775
 SECTORS Services Administration Resources Circular Economy	4126
@@ -2306,6 +2318,7 @@ SPECIAL ECONOMIC ZONES ACT	6921
 STIMULATING THE DIGITAL Vision ECON	1885
 STRUCTURE OF ECONET INFRACO Econet InfraCo	4896
 SUGGESTED APPROACH TO DRAFTING SIGNIFICANT ECONOMIC	3161
+SWOT Digital Economy	12512
 SYDONIA. Economic	3674
 Safety Nets and Country Economic Inclusion Practice	10963
 Safety Women's Equality Rural Economy	10759
@@ -2406,7 +2419,7 @@ Special Digital Economic Zone	2860
 Special Economic Zone	5793
 Special Economic Zone Regime	12208
 Special Economic Zone for Technologies	2794,9,44
-Special Economic Zones	4528,1633,2593,2470
+Special Economic Zones	4528,1633,2593,2470,1288
 Special Economic Zones Act	6921
 Special Economic Zones Amendment Bill and Technopolis	6161
 Special Economic Zones Authority	5430,1076
@@ -2492,6 +2505,7 @@ Trade and Economy Initiative	10819
 Trading Economics Public Administration	10856
 Traductor Embajada A2 Jefe Económico Admón	4209
 Training Centre WAEMU West African Economic	2775
+Training Is Creating Real Economic Opportunities	12493
 Transfer Secretaries Econet EGM	4896
 Transforming the Economy	10819
 Transparent Economies... Visit Rwanda Becomes Aston	3256
@@ -2503,6 +2517,7 @@ Tripoli International Fair Minister of Economy Hwej	3826
 Tripoli Ministry of Economy and Trade's Libya	9213
 Tunisian Minister of Economy and Planning	8126
 U.K.-U.S. Economic Prosperity Deal	10433
+U.S.-Cameroon Bilateral Economic and Commercial Dialogue	12517
 U.S.-China Economic and Security Review Commission	5242
 UEMOA Union Economique	12
 UK-Singapore Digital Economy Partnership	1243
@@ -2530,7 +2545,7 @@ Unified Economic Number Project Foreign	3826,1438
 Union Economique	737,3722,4828,55,1369,145,19,13,634,45
 Unit Economics	9198
 United Nation Economic Commission for Africa	10819
-United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60,75
 United Nations Department of Economics and Social Affairs	11572
 United Nations Economic	1554,9286
 United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46
@@ -2572,9 +2587,9 @@ WB Digital Economy Diagnostic	1809
 WBG Digital Economy for Africa	3984
 WDI and Informal Economy Database	10997
 WEF World Economic Forum	11887,266,1,9,178
-WEF World Economic Forum United Nations	10835,3,130,902,16,466,1
+WEF World Economic Forum United Nations	10835,3,130,902,16,466,1,135
 WOMEN ECONOMIC EMPOWERMENT	12409
-WOMEN'S EQUALITY RURAL ECONOMY	12352
+WOMEN'S EQUALITY RURAL ECONOMY	12352,136
 WOMEN’S EQUALITY RURAL ECONOMY	10968,918,467
 WP0CRVS000Box385194B00PUBLIC0.pdf World Economic Forum	10819
 WardheerNews Economy	5975
@@ -2636,7 +2651,7 @@ World Economic Outlook	2775,4171,3895,139,151,3
 World Economic Outlook Database	12385
 World Economy	10718,592
 World Institute for Development Economics Research	11887,266,1,9,178
-World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1
+World Institute for Development Economics Research Columbia	10835,3,130,902,16,466,1,135
 World Institute for Development Economics Research UPU	10759,78,1052,451
 Yet the UN Economic Commission for Africa	10015
 Youth Economic Inclusion Program	10985

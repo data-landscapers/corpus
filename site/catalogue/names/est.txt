@@ -5,6 +5,7 @@ ABSOLUTE ESTATES LTD Data Processor INST-32335969E61	7167
 ACTUALIZAÇÃO DA REDE PRIVATIVA DO ESTADO	11397
 AFRICA EAST. Estimated Appraisal Date	761
 AFRICA. Estimated Appraisal Date	12137
+AI Establish National AI Council	12512
 AI's Preliminary Report Does Not Establish	7174
 ALBIZZIA DOWNS ESTATE LIMITED Data Controller	7167
 ALGUMAS ESTATÍSTICAS DE ORIGEM ADMINISTRATIVA	11526
@@ -149,6 +150,7 @@ Calzado Este Clúster	1701
 Calzado. Estos	1701
 Cameroon Estimated Appraisal Date Project Social	10963
 Canada and Estonia	2948
+Capacity Building Establish	12508
 Carlos Alberto Cavuquila. E ESTATÍSTICA Ministro	10752
 Carmen Estrades	11149
 Carta Africana da Estatística	11526
@@ -442,6 +444,7 @@ Enquadramento O Estado Angolano	10751
 Enquadramento O Plano Estratégico	11379
 Ensino Primário. Anuário Estatístico da Educação	10766
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
+Entity Success Indicator Establish National	12512
 Entrepreneurship Establishing	10841
 Eritrea Estonia Eswatini Ethiopia European Union	11765
 Eritrea Estonia Eswatini Ethiopia Falkland Islands	11470
@@ -493,11 +496,11 @@ Establecer	1701
 Establecimento da Academia de Liderança	11569
 Establecimiento	1701
 Establecimientos Turísticos	4209
-Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4
-Establish AI	4528,3020,4662
-Establish AI Centers of Excellence	4528
+Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21,33,2,1,17,8,15,20,25,9,4,51,4
+Establish AI	4528,3020,4662,302
+Establish AI Centers of Excellence	4528,7984
 Establish AI Use Case	7548
-Establish AI-powered	4528
+Establish AI-powered	4528,7984
 Establish API	11133
 Establish Bilateral and Develop	1777
 Establish Bilateral and Multilateral NCC	1777
@@ -525,7 +528,7 @@ Establish Independent Regulatory Bodies	5042
 Establish Information Security Assurance	1000
 Establish Interoperable Digital Payment Infrastructure	12444
 Establish Interoperable Harmonization Payment Infrastructure	12444
-Establish Joint Innovation Labs	4528
+Establish Joint Innovation Labs	4528,7984
 Establish Kenya AI	7548
 Establish Kenya AI A-AI	7548
 Establish Kenya AI National AI Safety	7548
@@ -541,11 +544,12 @@ Establish National AI	7548
 Establish National AI Coordinated	7548
 Establish National AI Council	4528
 Establish National AI Expected Output Key	7548
-Establish National AI Innovation Fund	4528
+Establish National AI Innovation Fund	4528,7984
 Establish National AI National	7548
 Establish National AI Operational	7548
 Establish National AI Priority	7548
 Establish National AI Research Fellowship	4528
+Establish National AI Research Fellowship Pillar	12512
 Establish National Cybersecurity Advisory Board	1000
 Establish National Data AI-ready	7548
 Establish National Data National Data Library	7548
@@ -591,20 +595,21 @@ Establish the South African	396
 Establish the Zanzibar Civil Registration Agency	11133
 Establish-	11976
 Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40,56,52,30,38
+Established Businesses Seeking Capital for Expansion	12495
 Established Herotel	8134
 Established Institutional Framework	1000
 Established Policy Priorities The National Digital	1161
 Established Uses of PeaceTech	8202
 Established and Q1	1777
 Established the Resolution Function	11134
-Establishes	16,100,56,252,527,64,231,318,1290,600,252,113,547,162,71,39,243,72,20,91,181,788,913,271,321,10,876,2341,10,447,47,671,8,383,113
+Establishes	16,100,56,252,527,64,231,318,1290,600,252,113,547,162,71,39,243,72,20,91,181,788,913,271,321,10,876,2341,10,447,47,671,8,383,113,68
 Establishes APDP	4177
 Establishes How Clarification Requests	12389
 Establishes Small	12444
 Establishes the APDP	3713
 Establishes the Axiz	5965
 Establishes the Office	12302
-Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22
+Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3,109,19,4,22,69
 Establishing AI	4609
 Establishing Belarus Kyrgyzstan T2 Advancing Azerbaijan	10764
 Establishing Computer Security Response Units	1000
@@ -613,7 +618,7 @@ Establishing Ethical and Regulatory Frameworks	12356
 Establishing Instituion	12146
 Establishing Instituion The Council of Ministers	12146
 Establishing KPIs	12008
-Establishing Key Performance Indicators	4528
+Establishing Key Performance Indicators	4528,7984
 Establishing Measures	1000
 Establishing Police Cybercrime Response Unit	1000
 Establishing RNEP-GB	11552
@@ -625,7 +630,7 @@ Establishing The World Bank	12214
 Establishing Zimbabwe	6793
 Establishing the First Google Cloud Region	1363
 Establishing the ZDSR	11142
-Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30
+Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61,87,30,93
 Establishment Agreement of Afreximbank	7785
 Establishment Census	6911,5534
 Establishment Census Gender Thematic Report	7992
@@ -738,7 +743,7 @@ Estado de Pressão Arterial	10777
 Estado de Prontidão Digital	11394
 Estado de Sítio	12311
 Estado de Telecomunicaciones	8881
-Estado de Transportes	7100
+Estado de Transportes	7100,5418
 Estado-Maior General	4147
 Estado-Membro	11387
 Estado-Membro da União Africana	11374
@@ -1485,7 +1490,7 @@ Markets Economy Real Estate Agriculture Aviation	9750,247
 Março Esta	11488
 Massa Corporal Instituto Nacional de Estatística Instituto	10777
 Masters Offices Deceased Estates Onlineplatform	8521
-Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1
+Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1,135
 Medios Audiovisuales. Esta	9320
 Meta Estimated Share Meta	511
 Mexico Yes Estrategia Digital Nacional	11529
@@ -1508,7 +1513,7 @@ Modelo Estratégico Global	1701
 Modern Establishments	2775
 Monitoring and Compliance. Establish	1777
 Montagem Boletim Estatístico de Construção	9441
-Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1
+Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3,451,12,1,135
 Mrs. Didi Esther Walson-Jack	7659,314,659
 Mrs. Didi Esther Walson-Jack OON	7973
 Mrs. Esther Didi Walson-Jack	10156
@@ -1769,7 +1774,7 @@ REFERENCIAL ESTRATÉGICO Figura	11397
 REFINING ESTIMATES OF ELECTRICITY ACCESS	11572
 RSI P.2.1 Está	11376
 RSwitch. Established	7272
-Real Estate	2775,1753,368,2050,4285
+Real Estate	2775,1753,368,2050,4285,1281
 Real Estate Education Health Other Ser-	2775
 Real Estate Investment Trust	6152
 Real Estate Registration and Notarization Sector	9828
@@ -1794,6 +1799,7 @@ Regime Estatísticos	12021
 Regimento. Este	11415
 Registo Este	10753
 Registro Estatal	1701
+Regulatory Establish	12512
 Rehabilitación de Estadios Multiples Nacional	4209
 Relatório Estatístico Anual	11418
 Relatório Estatístico Mensal	5309
@@ -1820,7 +1826,7 @@ SECÇÃO II DADOS ESTATÍSTICOS	794
 SECÇÃO II DAS TRANSGRESSÕES ESTATÍSTICAS Artigo	11516
 SEGURANÇA DO ESTADO E ORDEM PÚBLICA	10747
 SEN. Esta	11526
-SIGTAS. Estimated	12225
+SIGTAS. Estimated	12500
 SISTEMAS DE GESTIÓN ESTRATÉGICA DE DESARROLLO	1701
 SITUAÇÃO DO SISTEMA ESTATÍSTICO NACIONAL Tendo	11526
 SME and ESG Market Development Establish	6938

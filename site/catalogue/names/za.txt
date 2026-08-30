@@ -6,7 +6,7 @@ AI Ecosystem Development Current State Zambia	12356
 AICCRA Zambia Accelerator	12376
 ANNUAL REPORT UZ ZACC ZAS ZERA	1154
 AO12 Zambezi	10763
-ART Zambians	12418
+ART Zambians	12502
 AZAMZMLU AZAMZMLU AB BANK ZAMBIA FMBZZMLX	12364
 Abderrahmane Zahi	8891
 Abdula Zambezia Pio Augusto Matos Tete	12201
@@ -279,7 +279,7 @@ Governance Framework Current State Zambia	12356
 Government Digital Performance Assessment for Zambia S	12453
 Government Electronic Payment Gateway ZamPortal and ZamPay	7191
 Government Printer. Republic of Zambia	12467
-Government of Zambia	22,37,62,72,1,1584,123,87,2058,578,3339,1119,311,623,1675,644,21,13,49
+Government of Zambia	22,37,62,72,1,1584,123,87,2058,578,3339,1119,311,623,1675,644,21,13,133
 Government of Zambia Mr Omo	7950
 Government of Zambia and China Eximbank	59
 Government of Zambia and Huawei Technologies Co	59,134
@@ -578,8 +578,9 @@ Release ELECTORAL COMMISSION OF ZAMBIA COMMENCES	12465
 Release Journalist Zainab Sodiq	7176
 Rep. Zambia Register VIZ Database	10714
 Report Finds Zambia	8677
-Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305,939,8,45,1,43,14
+Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305,939,8,45,1,43,14,45
 Republic of Zambia CC	9082
+Republic of Zambia Digital Economy	12512
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Republic of Zambia HIV Human Immunodeficiency Virus	1988
 Republic of Zambia Implementing Agency	1867,424,1271
@@ -644,7 +645,7 @@ Saudi Arabia Zain	2405
 School Rehabilitation THE REPUBLIC OF ZAMBIA	1988
 Secretary Dr. Aminah Zawedde	6247
 Secretary Rubio. The Zambian	5456
-Sector Analysis Zambia	12418
+Sector Analysis Zambia	12502
 Selected Macroeconomic Indicators for Zambia	5247
 Selon Smart Zambia Institute	7434
 Senegal and Zambia	6426,4565
@@ -653,7 +654,7 @@ Should Zanzibar	11133
 Smart Zambia	3662,1078,782,1701,3329,1783,21,10
 Smart Zambia Brings Starlink Internet	3662
 Smart Zambia Chief Government Technical	5527
-Smart Zambia Institute	194,1771,289,1308,100,1585,253,1,1882,51,605,1564,1,189,2563,10,52
+Smart Zambia Institute	194,1771,289,1308,100,1585,253,1,1882,51,605,1564,1,189,2563,10,136
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Smart Zambia Institute National Co-ordinator Percy	5501
 Smart Zambia Institute National Coordinator	9379
@@ -662,7 +663,7 @@ Smart Zambia Institute National Coordinator Percy	12416
 Smart Zambia Institute Proposed Development Objective	2291
 Smart Zambia Institute Role and Function	12356
 Smart Zambia Institute and BongoHive. Zambia	12356
-Smart Zambia Institute and Ministry of Health	12418
+Smart Zambia Institute and Ministry of Health	12502
 Smart Zambia Institute. Digital ID	1879
 Smart Zambia Institute. Expected	2254
 Smart Zambia National Coordinator	5527
@@ -967,6 +968,7 @@ Zakaria Minougou	6889
 Zakaria Sawadogo	10642
 Zakaria Sawadogo. Docteur	10642
 Zakariye Abdi Hashi	5172
+Zakariye Hassan	12520
 Zakariyya Adaramola Thu	9878
 Zakat	4402,6563,1170
 Zakat Fund	5920
@@ -1016,7 +1018,7 @@ Zambezia Province	1228,10952
 Zambezia and Nampula	12201
 Zambezia and Nampula. Page	12201
 Zambi	12376
-Zambia	22,12,6,8,11,3,131,1,2,30,1,13,2,7,45,108,21,103,1,83,11,30,32,1,3,27,10,29,13,157,35,4,51,25,10,147,17,31,5,1,1,113,177,12,2,150,22,27,25,36,1,52,7,1,4,22,24,40,12,3,5,3,37,229,35,2,95,91,21,20,51,113,25,5,28,6,143,57,68,74,184,93,69,50,61,17,133,34,8,23,31,68,61,126,81,23,215,13,67,85,8,28,17,22,3,16,1,101,8,6,143,24,5,19,41,88,69,33,41,10,4,1,16,4,9,16,119,51,23,5,22,5,12,1,28,21,33,43,176,164,18,1,112,7,32,29,5,17,14,28,32,6,64,46,50,9,27,21,8,19,11,12,7,52,100,17,3,7,105,1,25,25,62,14,62,22,65,10,19,57,1,3,7,63,17,13,84,8,1,48,1,70,6,30,40,4,62,33,29,43,28,1,57,127,34,25,17,7,44,21,183,124,31,28,2,1,1,69,100,27,221,97,87,55,15,10,36,173,8,13,1,6,17,8,7,172,1,31,1,65,58,2,18,13,1,224,9,6,69,68,46,1,1,130,4,23,136,92,26,86,45,4,5,12,13,36,6,3,2,4,2,73,13,18,18,9,14,6,9,90,31,13,9,6,12,4,63,167,6,10,108,47,37,8,23,51,1,100,78,16,1,2,10,18,76,133,3,24,1,9,24,14,9,22,6,4,10,11,23,47,2,6,11,1,3,4,4,2,3,6,1,1,3,1,1,1,2,11,3,7,2,1,1,4,1,3,10,3,4,8,10,3,6,2,3,5,2
+Zambia	22,12,6,8,11,3,131,1,2,30,1,13,2,7,45,108,21,103,1,83,11,30,32,1,3,27,10,29,13,157,35,4,51,25,10,147,17,31,5,1,1,113,177,12,2,150,22,27,25,36,1,52,7,1,4,22,24,40,12,3,5,3,37,229,35,2,95,91,21,20,51,113,25,5,28,6,143,57,68,74,184,93,69,50,61,17,133,34,8,23,31,68,61,126,81,23,215,13,67,85,8,28,17,22,3,16,1,101,8,6,143,24,5,19,41,88,69,33,41,10,4,1,16,4,9,16,119,51,23,5,22,5,12,1,28,21,33,43,176,164,18,1,112,7,32,29,5,17,14,28,32,6,64,46,50,9,27,21,8,19,11,12,7,52,100,17,3,7,105,1,25,25,62,14,62,22,65,10,19,57,1,3,7,63,17,13,84,8,1,48,1,70,6,30,40,4,62,33,29,43,28,1,57,127,34,25,17,7,44,21,183,124,31,28,2,1,1,69,100,27,221,97,87,55,15,10,36,173,8,13,1,6,17,8,7,172,1,31,1,65,58,2,18,13,1,224,9,6,69,68,46,1,1,130,4,23,136,92,26,86,45,4,5,12,13,36,6,3,2,4,2,73,13,18,18,9,14,6,9,90,31,13,9,6,12,4,63,167,6,10,108,47,37,8,23,51,1,100,78,16,1,2,10,18,76,133,3,24,1,9,24,14,9,22,6,4,10,11,23,47,2,6,11,1,3,4,4,2,3,6,1,1,3,1,1,1,2,11,3,7,2,1,1,4,1,13,3,4,8,10,3,6,2,3,5,2,14,14
 Zambia AFRICA TRADE BAROMETER AN OVERVIEW	5247
 Zambia AI Strategy and Vision	12356
 Zambia Accessed	12376
@@ -1068,11 +1070,11 @@ Zambia Development Act	1988
 Zambia Development Agency	12376
 Zambia Development Agency. Found	12376
 Zambia Development Priorities	12376
-Zambia Digital Health	12418
-Zambia Digital Health Case Study	12418
-Zambia Digital Health Case Study Electronic	12418
-Zambia Digital Health Case Study Governance	12418
-Zambia Digital Health Case Study MODESTER	12418
+Zambia Digital Health	12502
+Zambia Digital Health Case Study	12502
+Zambia Digital Health Case Study Electronic	12502
+Zambia Digital Health Case Study Governance	12502
+Zambia Digital Health Case Study MODESTER	12502
 Zambia Displaced Persons and Borderlands Communities Project	1778
 Zambia During the Implementation	1988
 Zambia E-mail	12409
@@ -1166,7 +1168,7 @@ Zambia National Digital Health Strategy	7707
 Zambia National Farmers	12376
 Zambia National Farmers Union	91
 Zambia National Milling Corporation	5247
-Zambia National Public Health Institute	10374,2044
+Zambia National Public Health Institute	10374,2128
 Zambia National Science	12376
 Zambia National Spatial Data Infrastructure	7130
 Zambia National Statistical Report	1867
@@ -1237,7 +1239,7 @@ Zambia Targets Full Digitalisation of Public Services	6104
 Zambia Targets Nationwide Health Connectivity	5984
 Zambia Technology Sector Working Group	12376
 Zambia Tel	12364,45
-Zambia The Global Fund	12418
+Zambia The Global Fund	12502
 Zambia The Zambian	12376
 Zambia University College of Technology	3524
 Zambia Vulnerability Risk Assessment and Mapping Report	1988
@@ -1287,14 +1289,14 @@ Zambia's Farmer Input Support Programme	91
 Zambia's GII	12396
 Zambia's Government Service Bus	9603
 Zambia's Green Economy and Climate Change Act	9393
-Zambia's HIV	12418
+Zambia's HIV	12502
 Zambia's Hichilema	10260
 Zambia's Integrated National Registration Information System	8039
 Zambia's MOSIP	2289
 Zambia's Minister of Home Affairs and Internal Security	2707,727
 Zambia's Minister of Technology and Science	3729
 Zambia's Ministry of Finance and National Planning	7191
-Zambia's Ministry of Health	7383,5035
+Zambia's Ministry of Health	7383,5119
 Zambia's Ministry of Home Affairs and Internal Security	3695
 Zambia's Ministry of Technology and Science	6522,739
 Zambia's National AI Strategy	7432
@@ -1346,7 +1348,7 @@ Zambia. Ms Heinonen	9424
 Zambia. Ndhlovu	7387
 Zambia. Operating	12376
 Zambia. Over	7997
-Zambia. Page	12418
+Zambia. Page	12502
 Zambia. Permanent Secretary Zechariah Luhanga	11640
 Zambia. REG	701,836
 Zambia. Science and Technology	12467
@@ -1360,7 +1362,7 @@ Zambia. Telephone	9603,1
 Zambia. Testing	11505
 Zambia. The Agency	1988
 Zambia. The BoZ	12364
-Zambia. The Global Fund	12418
+Zambia. The Global Fund	12502
 Zambia. The Global Urban Economic Dialogue	12369
 Zambia. The Ministry	7779
 Zambia. The Mission	1778

@@ -22,7 +22,7 @@ CONSIDERATION OF DEPLOYMENT LETTERS Parliament’s JSCD	11289
 CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
 Cabinet Directive and Parliamentary Ratification	1655
 Cabinet and Parliament	5450,2042,3642,852
-Cabinet and Parliamentary	4528
+Cabinet and Parliamentary	4528,7984
 Cabinet for Parliament	11986
 Caisse Autonome de Retraite Parlementaire	11597
 Cape Town Division Library of Parliament	11237,21,28
@@ -39,13 +39,14 @@ Comisiones Parlamentarias de Economía	4209
 Comisión Parlamentaria	9303
 Committee Secretary. ISSUED BY PARLIAMENT COMMUNICATIONS	10569
 Commonwealth Parliamentary Association	8601,602
+Companies Registry Acts of Parliament Zimbabwe Mining	12511
 Constitution Parliament	970
 Constitution. Parliament	5533
 Consumer Parliament	5676
 Containing the European Parliament’s Recommendations	1243
 Continental Legislature The Pan-African Parliament	8012
 Corisco Funcionamiento Grupos Parlamentarios	4209
-Council of Ministers and Parliamentary Committee	12225
+Council of Ministers and Parliamentary Committee	12500
 Court of Account and Parliament	969
 Court of Accounts and Parliament	969
 D IE PARLEMENT van Suid-Afrika	11190
@@ -74,6 +75,7 @@ Executive and Parliament	8382
 Executive. Parliament	8611
 FSCA and Parliament	5420
 Federal Parliament	4810
+Federal Parliament of Somalia	12492,21
 Finance and Budget Committees of Parliament	7695
 Finances du Parlement	6456
 Financial Management of Parliament	11230,59
@@ -134,7 +136,7 @@ Member of Parliament for Maun West	7671
 Member of Parliament for Tano North	8368
 Member of Parliament. The Minister	3384
 Member of Provincial Parliament	8999
-Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162
+Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162,1169,12
 Mid-Year Assessment Report of Parliament	11230
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministry and Parliament	10299
@@ -205,7 +207,7 @@ Parler	10354
 Parlez-nous de CITADEL	2732
 Parlez-nous de VaulFi	5159
 Parliame	5533
-Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,24,2,5,62,16,9,8,10,19,16,81,6,14
+Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,26,5,62,16,9,8,10,19,16,81,6,14,27,1,4,7,2
 Parliament Approves Draft Law	5674
 Parliament B	5533
 Parliament Building	5386
@@ -254,7 +256,7 @@ Parliament of Uganda	1015,135,48,9692
 Parliament of Uganda Companion	1283
 Parliament of Zambia	2726,2521
 Parliament of Zambia. Enactment PART I PRELIMINARY	2727
-Parliament of Zimbabwe	4528
+Parliament of Zimbabwe	4528,7984
 Parliament'. Prefer	4534
 Parliament's Committee	1637
 Parliament's Committee of Commissions	1811
@@ -288,7 +290,7 @@ ParliamentKE Jamii Telecommunications Limited	9940
 Parliamentarian Track	10707
 Parliamentarians	1814,9471
 Parliamentarians Roundtable	11285
-Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96,912,24
+Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96,912,299
 Parliamentary Act	3861
 Parliamentary Action	8015
 Parliamentary Affairs	2428
@@ -316,7 +318,7 @@ Parliamentary Ratification	2872
 Parliamentary Report	5363
 Parliamentary Select Committee	11
 Parliamentary Service	2844,2474,1845
-Parliamentary Standing Committee	4528,2264,2872,1,305,39,456
+Parliamentary Standing Committee	4528,2264,2872,1,305,39,456,2047
 Parliamentary Village	11285
 Parliamentary Villages	11285
 Parliamentary Villages Rules	11285

@@ -79,8 +79,8 @@ Chronos des SIGNEES	10975
 Civic Services Signature Adv Constance Moitse	5533
 Civic Services Signature Dr L	11986
 Civil Registry SIGIEC Integrated Electronic Identification	10812
-Classified Warning Signs No Change	10835,3,130,918,466,1
-Classified Warning Signs No Change Best	10835,3,130,918
+Classified Warning Signs No Change	10835,3,130,918,466,1,135
+Classified Warning Signs No Change Best	10835,3,130,918,602
 Cobertura Não Significa	9559
 Cobrança SIGT	11435
 Codes NSPC National Signalling Point Codes	6946
@@ -179,13 +179,13 @@ IPN and NamClear Sign Pact	6988
 IX OFFICIAL SIGN-OFF	11261
 Identity Management and Single Sign-On	12359
 Immigration Services Signature Mr Thomas Sigama	5533
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135
 Inadequate Significantly	11252
 Individual Qualified Signature Qualified Signature	11955
 Installation of Street Name Signs	11129
 Institutional Coordination and Signalling Stakeholders	4848
 InsurTechs Significant	12444
-Integration SIGTAS Medium Term Revenue Strategy	12225
+Integration SIGTAS Medium Term Revenue Strategy	12500
 Integrity Sensitization and Pledge Signing Workshop	1554
 International Signalling Point	6946
 Investment Opportunities Significant	10892
@@ -230,7 +230,7 @@ MASFAMU SIGAS	11395
 MASFAMU's SIGAS	11375
 MERCADO SIGNIFICATIVO	11430
 MIGA Sign Agreement	11310
-MOR's SIGTAS	12225
+MOR's SIGTAS	12500
 MTC Namibia and BoFiNet Sign MOU	5066
 MWI NGA UGA ZMB ZWE. Signed	1528
 Management System SIGOF Integrated Financial and Budget	11863
@@ -443,11 +443,11 @@ SIGRH	3064,9047
 SIGRHEP	8009,218,358
 SIGRHEP Par ONEP NE	8227
 SIGSANTE	10928
-SIGTAS	7502,3048,162,1513
+SIGTAS	7502,3048,162,1788
 SIGTAS Système Intégré de Gestion des Taxes	10712
 SIGTAS and TAS	10550
-SIGTAS and TASS	12225
-SIGTAS. Estimated	12225
+SIGTAS and TASS	12500
+SIGTAS. Estimated	12500
 SIGTC	11473
 SIGTEL	11531
 SIGTP	11862
@@ -456,7 +456,7 @@ SIGTUR	11445,13
 SUGGESTED APPROACH TO DRAFTING SIGNIFICANT ECONOMIC	3161
 Samsa Fundacja BBS Signly Ltd Getty	8530
 School Feeding Programme SIG	12175
-Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1,135
 Secrétaire Exécutif SIG Système	10876
 Secured Electronic Signature Accreditation	5780
 Self-Provision Broadcasting Signal Distributor	6946
@@ -483,7 +483,7 @@ Sign In Follow US Welcome Back	9868
 Sign MoU. MoCTI	7111
 Sign Out Premium Member Hi	9629
 Sign SLA	11863
-Sign Up	4449
+Sign Up	4449,8048
 Sign and DigiLocker	6692
 Sign the GIGA	2989
 Sign the Petition	7412
@@ -566,7 +566,7 @@ Significa	1948,8603,1467
 Significance	2113,835,4938,135,1
 Significance Rating of Project Impacts Assessment	12253
 Significance of Big Data	9128
-Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,19,8,8,170
+Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,27,8,170,89
 Significant Corporate Events	7198
 Significant Cyber	5242
 Significant Economic Presence	961,2200,5303,3402
@@ -598,14 +598,14 @@ Signing of Performance Agreements	11218,6
 Signiﬁcant	10844
 Signiﬁcantly	11154
 Signpost AI	5233
-Signs	3583,7252,3,130,161,741,16,466,1
+Signs	3583,7252,3,130,161,741,16,466,1,135
 Signs Benin	10835
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Signs Burkina Faso	10838
 Signs Cameroon	10968
 Signs Nigeria	11886
 Signs No Change Bouncing Back Slowing	10759
-Signs Score	11870,482,1
+Signs Score	11870,482,1,135
 Signs of Stabilisation	4972
 Signup	8943
 Signvrse	8209,1735
@@ -624,7 +624,7 @@ Single Sign-On	5140,3831,2260,641,487,30
 Single Sign-on	11872
 Sistema Integrado de Gestão SIGFE Financeira	11417
 Slowing Improvement Not Classified Warning Signs	12353
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
 Slowing Improvement Warning Signs Security	10968,902
 Sommaire SIGLES ET ABREVIATIONS	12
 South African Sign Language	9767
@@ -663,7 +663,7 @@ W Signals Video	34
 Warning Signs	11887,1,1,264,1,9,178
 Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1
+Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135
 Warning Signs Score	10837,1315,188
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
@@ -680,3 +680,4 @@ ZIPSS SYSTEM Name Designation Comment Signature	12364
 Zambia Revenue Authority Signs ICTD Deal	7433
 Zambia. Signatories	9082
 Zembendé SIGUIBEOGO Abdoul Fatah SORE Abdoulaye	10875
+Zimbabwean Significant	12512

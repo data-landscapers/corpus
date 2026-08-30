@@ -27,6 +27,7 @@ About the Advanced Entrepreneurship	9309
 Abstract The World Bank Enterprise Survey	10862
 Abuja Centre for Entrepreneurship	9360
 Academy Journal of Small Business and Enterprise Development	9129
+Accreditations Best Social Impact Enterprise Support	12493
 Activity Coverage and Listing of Business Enterprises	12445
 Administration des Entreprises	9357
 Administrative Entities Development Agency MINEMA Ministry	12328
@@ -69,7 +70,7 @@ Application. The Procuring Entity	1638
 ArcGIS Enterprise	10761
 Artificial Intelligence Enters the Justice System	11641
 Artificial Intelligence Ghanaian Entrepreneur Alfred Opare	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
-Arts and Entertainment	4528
+Arts and Entertainment	4528,7984
 Auto de Entrega	11443
 Autres Entités Publiques	10975,6
 Autres Entités Publiques. Article	10981
@@ -460,6 +461,7 @@ Enterprise Architecture Standards	9124
 Enterprise Architectures	21
 Enterprise Bulk Messaging	3862
 Enterprise Bundle	10616
+Enterprise Bus	12491
 Enterprise Business Unit	11848
 Enterprise Census	10870
 Enterprise Content Management	8632
@@ -528,13 +530,13 @@ Enterprises	970,314,497,2067,13,1395,800,1492,1907,1525,300
 Enterprises Department	10823
 Enterprises MT Metric Tonnes MTP Medium	2775
 Enterprises Promotion Agency CCO BC-PME Craftspeople	10980
-Enterprises Technical Assistance Advisor Tax Administration	12225
+Enterprises Technical Assistance Advisor Tax Administration	12500
 Enters	4302
 Enters Active Deployment of Africa-Middle East Fibre	10583
 Entersekt	9683
 Entertain	582
 Entertainer	11976
-Entertainment	582,154,1208,1918,2157,664,65,1891,245,762,1323,915,1,10,260,4,1,45,146,4
+Entertainment	582,154,1208,1918,2157,664,65,1891,245,762,1323,915,1,10,260,4,1,45,146,4,132
 Entertainment Advertising Information Services Software	1944
 Entertainment Internet Social Media Take Pics	582
 Entertainment Scheme TES Trusted Employer Scheme	5533
@@ -620,6 +622,8 @@ Entity Name	12400
 Entity Name Self-funded	11230
 Entity P	8606
 Entity Registration Number	6121
+Entity Success Indicator	12512
+Entity Success Indicator Establish National	12512
 Entity TC Technical Cooperation TI Transition	1818
 Entity Type	11276
 Entity for Public Sector Innovation	10785
@@ -696,7 +700,8 @@ Entrepreneuriat du Gabon	7268
 Entrepreneurs	415,622,2559,932,1272,1673,991,509,449,176,427,798,140,1,890,9,68,104,18,323,68
 Entrepreneurs BongoHive	9198
 Entrepreneurs X X	12376
-Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1
+Entrepreneurs of Youth	12512
+Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131
 Entrepreneurship Agro-entrepreneurship	10841
 Entrepreneurship Development	940
 Entrepreneurship Development Centre	3253
@@ -714,7 +719,7 @@ Entrepreneurship Support Organizations	761
 Entrepreneurship Support Organizations EU European Union	10841
 Entrepreneurship and Entrepreneurship	4896
 Entrepreneurship and Industry	3907
-Entrepreneurship and Industry Linkages AI	4528
+Entrepreneurship and Industry Linkages AI	4528,7984
 Entrepreneurship and Industry The Ministry of Investment	3907
 Entrepreneurship and Industry of Seychelles	3907
 Entrepreneurship and Innovation	12453
@@ -842,7 +847,7 @@ Ghana Enterprise	4126
 Ghana Enterprise AI	4126
 Ghana Enterprises Agency	11032
 GitHub Enterprise	11922
-Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21
+Global Entrepreneurship Monitor	10969,915,11,264,46,146,4,21,111
 Global Entrepreneurship Monitor. Available	12376
 Global Entrepreneurship Monitor. Supporting Africa	12376
 Global Innovation and Entrepreneurship	6946
@@ -1024,6 +1029,7 @@ Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321
 Medium Enterprises Government Institutions Citizens X	12376
 Medium Enterprises NDPV Midterm Review NEP	10964
 Medium Enterprises NIR	5244
+Medium Enterprises SOP Standard Operating Procedures	12512
 Medium Enterprises Small Scale Enterprise Loan	11131
 Medium Enterprises Stakeholder Perception Index Small	11134
 Medium Enterprises Standard Operating Procedures Science	4528
@@ -1083,7 +1089,9 @@ NDPA. Entities	12232
 NITDA Takes Over Nigeria Government Enterprise	5560
 NPS Bill. Entry	3318
 NUMBER OF EACH ENTITY IN CONSORTIUM	11240
+NVCCZ Empowers Visionary Entrepreneurs and Innovative	12495
 Namibian-based Social Enterprise	12450
+National AI Strategy Ecosystem Category Entities	12512
 National Association of Youth Entrepreneurship	11546
 National Champion Enterprises	5773
 National E-Government Strategy and Enterprise Architecture	1813
@@ -1289,6 +1297,7 @@ Sector-Specific Restrictions for Domestic Entrepreneurs	12389
 Sector-Specific Restrictions for Foreign Entrepreneurs	12389
 Security Entities	10775
 Secção Entrevista	10750
+Services For Entrepreneurs For Organizations Tech	12493
 Serviço Entende-se	10757
 Serviço da Entidade Gestora da Protecção Social	11433
 Seychelles. Entities	1652
@@ -1307,7 +1316,7 @@ Small Medium and Micro Enterprises SOC State	11224
 Small Scale Enterprise	11134
 Small and Medium Enterprise	2775,5683,3898
 Small and Medium Enterprise Development and Infrastructure	1778,210
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30
 Small and Medium Enterprises Development	940,6496,825,3041
 Small and Medium Enterprises Development Agency of Nigeria	11309
 Small and Medium Enterprises MTEF Medium Term	1988
@@ -1341,6 +1350,7 @@ Starlink’s South Africa Entry Remains	6906
 Start-up and Digital Enterprise Act	4970
 Start-ups and Entrepreneurship Development Policy	3714
 Startups E PME Tecnológicas Entram Na	8827
+Startups. Small and Medium Enterprises	12495
 State Enterprise	194
 State Enterprises	1811
 State Enterprises And Parastatals	958
@@ -1435,7 +1445,7 @@ Women Entrepreneurs Learn Safe Digital Business	11033
 Women's Entrepreneurial Access Center	12376
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
-World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196
+World Bank Enterprise Surveys	1400,9462,107,915,1,10,264,196,132
 World Bank Enterprise Surveys. Washington	11140
 World Bank Survey of Enterprises	1828
 World Bank. The Enterprise Surveys	10976,898,7,465

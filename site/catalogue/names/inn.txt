@@ -121,6 +121,7 @@ Botswana's Minister of Communications and Innovation	4070,1361,3835
 Botswana's Ministry of Communications and Innovation	5393,52,874
 Botswana’s Minister of Communications and Innovation	9171
 Botswana’s Ministry of Communications and Innovation	9171
+Brand Finance About the Global Innovation Index	12487
 Bridging Nigeria's Digital Divide Through Innovation	8288
 Bridging the Digital Divide Through Local Innovation	9197
 Brings Design and Innovation... Rwanda Bets	3256
@@ -162,7 +163,7 @@ Centros de Innovación	1701
 Challenge Data Innovation	3590,1
 Chasing Innovation	226
 Chief Digital and Innovation Officer	8477
-Chief Innovation Officer	4528,6359
+Chief Innovation Officer	4528,6359,1625
 Chief Innovation Officer Gabrie Gouws	1590
 Chief of Digital Innovation and Projects for RSwitch	2537
 China. Minister of Innovation and Technology Dr Belete	7474
@@ -199,7 +200,7 @@ Data Innovation	1243
 Data Innovation Trends	1243
 Data-Driven Innovation	1243
 Decade of Innovation	4126
-Defence AI Innovation Hub	4528
+Defence AI Innovation Hub	4528,7984
 Define and Implement Innovative Financing Mechanisms	958
 Department of Digital Health and Innovations	11596
 Department of Digital Transformation and Fintech Innovation	3965
@@ -212,7 +213,7 @@ Description USAID Innovation	1168
 Development Technology and Partners Innovation	7548
 Development and Innovation	970,2790
 Development and Innovation Figure	4528
-Development and Innovation Strategic Objective	4528
+Development and Innovation Strategic Objective	4528,7984
 Diffusion Of Innovation	9129
 Diffusion of Innovation	8021
 Diffusion of Innovations	5349,5961
@@ -238,12 +239,13 @@ Digital Innovation News	12322
 Digital Innovation Sprint	7171
 Digital Innovation and Entrepreneurship USD29.5M	607
 Digital Innovation for Skills and Knowledge	8330
-Digital Innovations	4528
+Digital Innovations	4528,7984
 Digital Innovations Group	10342
 Digital Innovations Project For Agro-Pastoralists Niger	625
 Digital Innovations Technical	12241
 Digital Innovations for Developing Solutions	12241
 Digital Social Innovation Grants Enabel	256
+Digital Support Innovations EHR WhatsApp Helpdesk	12508
 Digital Technology and Innovation	2338,1799,569,67,1197,4147
 Digital Technology and Innovation Samuel Nartey George	3543,4744
 Digital Technology and Innovations	2208,506,515,155,198,544,48,317,134,132,140,239,28,55,8,305,169,77,157,11,202,28,66,464,230,132,304,1,990,1,1,4,2,177,176,24,17,2,655,115,1,696,181,169,1,44,107,382,613
@@ -319,8 +321,8 @@ Equity Group's Director of Innovation and Technology	9707
 Era of Innovation and Convenience. Ethiopia	10709
 Era of Trust and Innovation	4856
 Establish ICT Innovation Hubs	958
-Establish Joint Innovation Labs	4528
-Establish National AI Innovation Fund	4528
+Establish Joint Innovation Labs	4528,7984
+Establish National AI Innovation Fund	4528,7984
 Establishment of Grassroots Innovation	11183
 Estonian Innovation Agency	5700
 Eswatini Innovation Hackathon	12361
@@ -372,22 +374,23 @@ Gibbon Innocent Masukwedza5 John Matimba Mupuro5	520
 GitHub Innovation Graph	11922
 Global Financial Innovation Network	12444
 Global Innovation	11863
-Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20
+Global Innovation Index	2099,5449,3298,123,914,1,1,10,264,1,44,1,146,4,21,20,91
 Global Innovation Index Database	10846
 Global Innovation Index GPU Graphics Processing	7548
 Global Innovation Index Statistics	11885
 Global Innovation Index. Ethiopia	12205
-Global Innovation Index. Long-term	11895,265,195
+Global Innovation Index. Global Innovation Index	12487
+Global Innovation Index. Long-term	11895,265,195,132
 Global Innovation Index. Mozambique	12159
 Global Innovation Index. Nigeria	11884
 Global Innovation Index. Rwanda	12351
 Global Innovation Index. Year	11895
 Global Innovation Ranking	12376
 Global Innovation Ranking of Zambia	12376
-Global Innovation Tracker	10846,1049,265,195,41
+Global Innovation Tracker	10846,1049,265,195,41,91
 Global Innovation Tracker Dashboard	10846
 Global Innovation Tracker For Malawi	12204
-Global Innovation Tracker The Global Innovation	11895,264,1,45,150
+Global Innovation Tracker The Global Innovation	11895,264,1,45,150,132
 Global Innovation Tracker. Figures	10846
 Global Innovation and Entrepreneurship	6946
 Global Innovation and Entrepreneurship Centre	6946
@@ -420,6 +423,7 @@ Hilton Garden Inn Mbabane	6821,5660
 Holiday Inn Harare	11611
 Holiday Inn Hotel	3021
 Hosts Africa Innovation and Technology Forum	5715
+Human Capital Education Innovation Science	12512
 Humanity Advocacy Knowledge Innovation	9082
 IBRD Fund for Innovative GPG Solutions	11417,971
 ICT Innovation Ecosystem Strengthening Project	207,691
@@ -435,14 +439,14 @@ INN-JOBS	845
 INNOIP YAFUNGUA FURSA MPYA KWA WABUNIFU	11643
 INNOPOWER	9117
 INNOPOWER Free MSMEs AI Master Trainer	9117
-INNOVATION	12389
+INNOVATION	12389,119
 INNOVATION AND ECONOMIC DEVELOPMENT	3861
 INNOVATION AND REGULATORY REFORMS	6946
 INNOVATION AND TECHNOLOGY TRANSFER	12389
 INNOVATION FACILITATION AND ECONOMIC DEVELOPMENT	3861
 INNOVATION GLOBAL PRACTICE	10901
 INNOVATION IN FIRMS	12389
-INNOVATIVE CRUCIBLE Regulatory	4528
+INNOVATIVE CRUCIBLE Regulatory	4528,7984
 INNOVATIVE PRODUCTS TO DRIVE	12395
 INNOVENDI	4108
 INNOtized GmbH	8342
@@ -524,7 +528,7 @@ Innovate the Future	2991
 Innovating Tanzania's Path	10195
 Innovating Together	2292,5
 Innovating for Children and Youth	7171
-Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,129,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25
+Innovation	396,5,119,17,21,58,27,75,29,1,17,24,39,71,62,9,111,73,7,17,3,33,4,25,4,17,13,191,86,7,2,139,75,37,82,88,291,9,1,38,16,20,35,78,57,34,45,69,5,14,21,58,1,3,30,16,14,15,1,16,9,86,9,24,33,1,100,44,19,54,17,44,51,16,13,5,55,5,31,8,53,68,6,76,19,3,12,28,65,10,26,9,72,45,59,79,69,3,67,61,125,78,8,31,90,41,16,2,103,8,7,6,8,80,8,21,67,12,12,13,25,3,152,2,2,26,16,170,3,35,29,63,89,24,13,32,6,5,70,129,59,51,1,4,10,4,11,41,21,66,1,8,3,52,17,37,25,22,7,8,13,16,142,26,46,14,133,39,2,6,23,37,37,9,34,9,89,32,9,3,82,64,131,4,128,11,6,69,57,3,4,1,38,1,30,129,3,1,69,19,2,3,1,28,40,21,4,25,25,60,28,10,32,18,6,41,47,142,11,24,26,83,3,1,41,67,28,102,54,35,3,5,46,33,61,109,88,35,36,22,5,23,6,39,11,17,112,84,106,59,113,69,29,42,18,6,1,37,42,35,38,75,62,39,24,6,15,45,9,25,59,11,40,56,45,13,7,3,2,16,12,29,1,1,51,13,162,3,1,3,2,16,83,65,191,38,92,5,33,4,65,1,2,122,27,1,10,14,43,23,10,1,10,8,21,30,14,35,3,52,1,15,29,1,5,24,7,59,29,4,5,13,4,1,13,7,5,8,6,1,36,25,30,6,15,4
 Innovation Among	7151
 Innovation And Local Production	958
 Innovation Arena	3976
@@ -537,13 +541,13 @@ Innovation Challenge	12376
 Innovation Challenges	12241
 Innovation Cluster	7548
 Innovation Committee	8364
-Innovation Crucible	4528
+Innovation Crucible	4528,7984
 Innovation Date	5241
 Innovation Diffusion Rate	7548
 Innovation Djibril Ouattara	6662
 Innovation Ecosystem	6936,612
 Innovation Ecosystem Barriers Kenya	7548
-Innovation Ecosystem Development	4528
+Innovation Ecosystem Development	4528,7984
 Innovation Ecosystem RATING OPPORTUNISTIC STAGE Malawi	12214
 Innovation Ecosystems	12214
 Innovation Ecosystems Require Structural Support Constraints	7548
@@ -557,7 +561,7 @@ Innovation Financement	2975
 Innovation Financière	8316
 Innovation Foundation	1243
 Innovation Fund	7548,1216
-Innovation Fund Manager	4528
+Innovation Fund Manager	4528,7984
 Innovation Fund NRF National Research Fund	7548
 Innovation Graph	11922
 Innovation Hub	1710,1987,268,287,1361,133,52,1140,1354,905,108,1949,292,668,27
@@ -567,13 +571,15 @@ Innovation Hubs	226,1010,1721,9496
 Innovation Implementation	2732
 Innovation Index	12160,44,1,150
 Innovation Index The Global Innovation Index	11884
-Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4
+Innovation Input Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
 Innovation Inputs	11884,11,264,192
+Innovation Inputs Innovation Outputs	12487
 Innovation Issue Brief	10088
 Innovation Jam	2231,1807
 Innovation Kate Thompson	3895
 Innovation Lab Bill	878
 Innovation Laboratory for Public Finance	5587,1
+Innovation Labs	12512
 Innovation MAKE AFRICA	2556
 Innovation ML	10776
 Innovation Mandates	3861
@@ -589,11 +595,13 @@ Innovation Nigeria	4848
 Innovation Nthati Moorosi	1710
 Innovation Numérique	3099
 Innovation Officer	7204,744
-Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4
+Innovation Our Vision	12512
+Innovation Output Sub-Index	10969,915,1,10,264,1,44,1,146,4,132
 Innovation Outputs	11884,11,264,192
 Innovation Partnership	12241
 Innovation Paula Ingabire	2537
 Innovation Pillar.The	7672
+Innovation Policy	12512
 Innovation Poor	12025
 Innovation Programme	7548
 Innovation Prosperity Unit Africa West World	10841
@@ -625,9 +633,9 @@ Innovation and Adoption	12356
 Innovation and Business Incubation	10160
 Innovation and Business Intelligence Unit	5587
 Innovation and Capacity	1131
-Innovation and Capacity Building	4528
+Innovation and Capacity Building	4528,7984
 Innovation and Commercialization Ecosystem Development	7547,1
-Innovation and Commercialization Pipeline	4528
+Innovation and Commercialization Pipeline	4528,7984
 Innovation and Creativity Displays	7572
 Innovation and Creativity Promotion	11250
 Innovation and Development	1154
@@ -646,8 +654,8 @@ Innovation and Digital Transformation	1670,2510
 Innovation and Economic Development RECOGNISING	3861
 Innovation and Economic Growth	12356
 Innovation and Ecosystem Development	7548
-Innovation and Ecosystem Development Pillar	4528
-Innovation and Ecosystem Development Unit	4528
+Innovation and Ecosystem Development Pillar	4528,7984
+Innovation and Ecosystem Development Unit	4528,7984
 Innovation and Education. THE PROMISING FUTURE	899
 Innovation and Emerging Technologies	6184,2811,187
 Innovation and Enterprise	11857
@@ -659,7 +667,7 @@ Innovation and Inclusive Growth	9246
 Innovation and Inclusivity	4058
 Innovation and Individuals Domains	12025
 Innovation and Industry Collaborations Posted	6480
-Innovation and Infrastructure	1131
+Innovation and Infrastructure	1131,11376
 Innovation and Infrastructure Goal	11332
 Innovation and Integrity Must Advance Together Despite	4848
 Innovation and Jobs for Youth	845
@@ -695,7 +703,7 @@ Innovation. Par Jean Materne Zambo Avez-vous	10691
 Innovation. State-of-the	11356
 Innovation. Venue	12004
 Innovationen. Obgleich Subsahara-Afrika	1422
-Innovations	737,1258,1159,105,867,233,775,229,569,500,923,1248,2238,124,92,76,7,483,240,64,17
+Innovations	737,1258,1159,105,867,233,775,229,569,500,923,1248,2238,124,92,76,7,483,240,64,17,564
 Innovations Ensuring Sustainability	12457
 Innovations Financières	10237
 Innovations Jam	12241
@@ -708,7 +716,7 @@ Innovations for Successful Societies	12333
 InnovationsEmerging TechnologiesRead	5537
 Innovationskraft	694,1
 Innovationszentren	614
-Innovative	10,779,110,305,620,1780,187,469,172,218,883,1595,3713,122,1,13,8,252,620,129,161,209,43
+Innovative	10,779,110,305,620,1780,187,469,172,218,883,1595,3713,122,1,13,8,252,620,129,161,209,43,94
 Innovative Apprenticeships	6948
 Innovative Business Diversification	3487
 Innovative Business Models	12399
@@ -726,6 +734,7 @@ Innovative Fintech Solutions	3487
 Innovative Model Combining Block Farming	848
 Innovative Products	3487,8908
 Innovative Programme	12453
+Innovative Solutions and Adaptations	12508
 Innovative Tools	1072
 Innovative Tools European Commission	1072
 Innovative Uses of Technology	11927
@@ -761,6 +770,7 @@ Journal of Information Technology and Innovation Adoption	9129
 Journal of Innovation	8022
 Journal of Innovation and Knowledge	7759
 Journal of Local Government Research and Innovation	2948
+K Global Innovation Index	12487
 KALRO Embraces Digital Innovation	6554
 Kabogo Gitau and Rwanda Minister of ICT and Innovation	4030
 Key Arena for Innovation and Competition	7334
@@ -805,6 +815,7 @@ Makerere Innovation Incubation Centre	5413
 Makerere Innovation and Incubation Center	7248
 Market Innovation	4430
 Mascom Innovation Centre	2916
+Master AI Innovation Science Teachers	12512
 Mauritius Research and Innovation Council	7845
 Max Planck Institute for Innovation and Competition	6521,24
 Medium Innovators	12444
@@ -839,6 +850,7 @@ Ministry of Digital Economy and Innovation. The Code	3153
 Ministry of Digital Transformation and Innovation	6893
 Ministry of Digital Transition and Technological Innovation	1649,3107,701,2,1175,385
 Ministry of Higher and Tertiary Education Innovation Science	4528
+Ministry of ICT Postal and AI Policy and Innovation	12512
 Ministry of ICT and Innovation	207,511,180,2115,639,185,1133,78,238,70,114,112,24,578,209,1285,410,39,139,77,105,1,225,1210,268,19,2157,5,91
 Ministry of ICT and Innovation ACRONYMS	12419
 Ministry of ICT and Innovation Rwanda	6393
@@ -861,8 +873,10 @@ NASENI Innovation Hub	12053
 NG Tech Innovation	7896,6
 NIGERIA'S INNOVATION LANDMARK	12053
 NISIR Innovation Challenge	12376
-National AI Innitiatives	4528
-National AI Innovation Fund	4528,858
+NVCCZ Empowers Visionary Entrepreneurs and Innovative	12495
+National AI Innitiatives	4528,7984
+National AI Innovation Fund	4528,858,7126
+National AI Innovation Ministry of Finance	12512
 National Artificial Intelligence Innovation Fund	3760
 National Centre for ICT Integration and Innovation	899
 National Digital Innovation Profile Workshop	9434
@@ -1024,6 +1038,7 @@ Strategy and Innovation	236
 Strengthen Innovation	10841
 Strengthen Sovereignty and Innovation	9860
 Strengthening Innovation Support Organisations	12053
+Strengths Weaknesses Global Innovation Index	12487
 Support Innovation	12241,148
 Support Innovation and Startups	12399
 Sustainable Growth and Innovation	11994
@@ -1034,6 +1049,7 @@ TECHNOLOGY AND INNOVATION REPUBLIC OF SOUTH	10889
 TN CyberTech Bank ATMs and Innbucks	6996
 Tax Administration Technology Innovation Hub	2189
 Tax Administration Technology Innovation Hub Bill	2189
+Teamwork Innovation	12515
 Tech Innovators Interest	12444
 Tech Leaders and Innovators	11028
 Tech and Innovation The Democratic Republic of Congo	10078
@@ -1146,6 +1162,7 @@ Youth Innovation	9648
 ZICTA ICT Innovation Programme	12376
 Zagré. Innocent Kaboré	11652
 Zambian Electric Mobility Innovation Alliance	12376
-Zimbabwe AI Innovation Fund	4528
+Zimbabwe AI Innovation Fund	4528,7984
+Zimbabwe Global Innovation Index	12487
 Zimbabwe ICT Innovation Hub Responsible for ICT	395
 Zimbabwe Innovation Catalyst Fund	9030

@@ -133,6 +133,7 @@ American Medical Informatics Association	1824,6782
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Annex Careplus MEdical Data Controller INST-724067F63A2	7167
 Apilotstudy. BMC Medical Ethics	8606
+Apply Online Media News Events Gallery	12495
 Appropriation Medium Term Expenditure Framework Rand	5533
 Aristide Medénou	11603
 Armazéns de Medicamentos Prestadores	6970
@@ -669,7 +670,7 @@ Int Arch Med	10780
 Int J Med Inform	771,3020,8588
 Int J Med Informatics	10784
 Integrated Electronic Medical Record System	4260
-Integration SIGTAS Medium Term Revenue Strategy	12225
+Integration SIGTAS Medium Term Revenue Strategy	12500
 Intelligent Media and Public Communication	8460
 Intermediary Guidelines and Digital Media Ethics Code	8210,998
 International Committee of Medical Journal Editors	11585
@@ -855,7 +856,7 @@ Medhin G	12255
 Medi- Clinic	11986
 Medi-Clinic	11986
 MediPro	1261
-Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14
+Media	34,192,1058,494,36,148,131,3,246,498,4,100,14,903,287,605,297,165,27,2,241,500,2,645,51,60,89,774,16,203,2,20,39,94,97,53,64,179,12,75,21,284,311,43,4,112,20,57,87,331,31,91,83,32,130,116,84,179,249,4,35,198,66,11,11,79,2,3,1,90,56,27,5,494,162,17,67,102,46,132,12,11,2,18,63,14,53
 Media Academy for Journalism and Communication	9313
 Media Access Control	4274
 Media Access Control Parameters	3604
@@ -888,9 +889,9 @@ Media Foundation	8522
 Media Foundation for West Africa	5485,3597,578,300,1135
 Media Foundation for West Africa and Co-Develop	4690,104,473,54,1993,594,680,1291,2158,13,7
 Media Foundation for West Africa and Co-Develop Godfrey	11975
-Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1
+Media Freedom	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,38,139,1,11,1,135
 Media Frequencies and Mobile Transceivers	2775
-Media Houses	4528,7925
+Media Houses	4528,7925,59
 Media Information and Communication Technologies	11303
 Media Inquiries	4123
 Media Institute	12201
@@ -996,7 +997,7 @@ Mediation Reference Group	9761
 Mediation Rules. The South African	11185
 Mediation and Arbitration	7961,3173
 Mediação	10753,2
-Medic	937,2448,9033
+Medic	937,2448,9117
 Medical	21,397,318,273,252,2390,2014,549,2087,1483,287,743,320,124,11,367,661,31,10,41,4,30
 Medical Aid	11218,80
 Medical Air Dec	4896
@@ -1149,6 +1150,7 @@ Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321
 Medium Enterprises Government Institutions Citizens X	12376
 Medium Enterprises NDPV Midterm Review NEP	10964
 Medium Enterprises NIR	5244
+Medium Enterprises SOP Standard Operating Procedures	12512
 Medium Enterprises Small Scale Enterprise Loan	11131
 Medium Enterprises Stakeholder Perception Index Small	11134
 Medium Enterprises Standard Operating Procedures Science	4528
@@ -1199,7 +1201,7 @@ Medium Term Period The ETA	11986
 Medium Term Period The Trusted Employer	11986
 Medium Term Period The Trusted Tour	11986
 Medium Term Plan III	12321
-Medium Term Revenue Strategy	12225
+Medium Term Revenue Strategy	12500
 Medium Term Sector Strategies	11866
 Medium Term Strategic Framework	11193,793
 Medium Term Strategic Framework IA Internal	11986
@@ -1249,7 +1251,7 @@ Medium-Term Period Public Key Infrastructure	5533
 Medium-Term Period The DHA	5533
 Medium-Term Period The ETA	5533
 Medium-Term Revenue Roadmap	8669,2467
-Medium-Term Revenue Strategy	1828,8236,2161
+Medium-Term Revenue Strategy	1828,8236,2436
 Medium-Term Strategic Framework	1912,9281,37
 Medium-Term System Adequacy Outlook	11228
 Medium-maturity	12050
@@ -1274,7 +1276,7 @@ Medline	10919
 MedlinePlus	11654
 Medlitics	9456
 Medora Brown and Zarina Nteta	12328
-Medtronic LABS	937,2448,9033
+Medtronic LABS	937,2448,9117
 Medumba and Fe'efe'e	9944
 Medumba and Ghomala	9944
 Medupe	9967
@@ -1314,6 +1316,7 @@ Ministry of Small and Medium-sized Enterprises	10985
 MoR Medium Taxpayers No	7909
 Mobile INTERNET SHARE OF SOCIAL MEDIA	12214
 Mobility Media	11786
+Model M&E Monitoring and Evaluation MCAZ Medicines	12512
 Modified Single Buyer MV Medium Voltage	12399
 Monday. The Prime Minister's Media Office	6433
 Muslim and Secular Print Media	12227
@@ -1351,6 +1354,7 @@ National List of Essential Medicines LQAS	10776
 National Media AI	4126
 National Media Commission	11039
 National Media Commission. Allocation	11
+National Media Training	12506
 National Medical Stores	4217
 National Medicines Regulatory Authorities	6594
 National Medicines Regulatory Authority	4260,5595
@@ -1450,6 +1454,7 @@ Project for Community Media	8947
 Promotion of Digital Rights and Online Safety. Media	10725
 Promoção da Mulher MED	11387
 Provision of Medical Services	3405
+Public Health Medium-Term	12508
 Public Sector Hospital Electronic Medical Record	11980
 Public Services for Mediation	12389
 Public and Community Media Services	5183,6
@@ -1497,7 +1502,7 @@ SOCIAL MEDIA PLATFORMS	11211
 SOCIAL MEDIA USER IDENTITIES	12214
 SOCIAL MEDIA USER SOCIAL MEDIA IDENTITIES	12214
 SOCIAL TOTAL POPULATION MEDIA USER	12214
-SOE National Medium Term Revenue Strategy	12225
+SOE National Medium Term Revenue Strategy	12500
 SONDU MEDICAL SERVICES LTD Data Controller	7167
 SONDU MEDICAL SERVICES LTD Data Processor	7167
 SOSTENIBILIDAD MEDIOAMBIENTAL Y DESARROLLO TERRITORIAL	1701
@@ -1531,7 +1536,7 @@ Small Medium and Micro Enterprises SOC State	11224
 Small and Medium	940,11505
 Small and Medium Enterprise	2775,5683,3898
 Small and Medium Enterprise Development and Infrastructure	1778,210
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30
 Small and Medium Enterprises Development	940,6496,825,3041
 Small and Medium Enterprises Development Agency of Nigeria	11309
 Small and Medium Enterprises MTEF Medium Term	1988
@@ -1584,6 +1589,7 @@ South Sudan Medical Council	3583
 Southern Malawi. Malawi Med J	3791
 Southern Mediterranean	9067
 Standard Media	12300
+Startups. Small and Medium Enterprises	12495
 Statements Reports Legislations Magazines Media Events	12390
 Statistical Yearbook of Small and Medium-Sized Enterprises	10980
 Strategic Head of Emergency Department Managing Medical	8603

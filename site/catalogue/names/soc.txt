@@ -2,7 +2,7 @@ ABAN SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 ABC Empowerment Regulated NWDT SACCO Society	7167
 ACCEL CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 ACCION SOCIAL.- Concepto	4209
-ACCOUNTABILITY SOCIAL PROTECTION	10835,133,918,466,1
+ACCOUNTABILITY SOCIAL PROTECTION	10835,133,918,466,1,135
 ACCOUNTABILITY SOCIAL PROTECTION INFRASTRUCTURE	10835
 ACÇÃO SOCIAL	10766
 ADMINISTRATEUR REPRESENTANT LA SOCIETE SUCRIERE	8321
@@ -11,7 +11,7 @@ AFENET The Minister of Health and Social Services	10477
 AGENCE NATIONALE POUR LA SOCIETE	3395
 AI Adoption Social Protection	11156
 AI Hub Risk Assessment Framework for Social	11156
-AI and Society	4528
+AI and Society	4528,7984
 AI- Powered Society	4126
 AI-Powered Society	4126
 AIBK REGULATED NON-WDT SACCO SOCIETY LTD	7167
@@ -39,6 +39,7 @@ Abril SOCIEDADES COM MAIS DE UM	11435
 Academia and Civil Society Representatives	11995
 Acción Social	1701
 Acción Social ODS	1701
+Accreditations Best Social Impact Enterprise Support	12493
 Action Plan ESMS Environmental and Social Management	1818
 Action Sociale	10812,1112
 Actos Administrativos da Protecção Social Obrigatória	11433
@@ -285,11 +286,12 @@ China. Social Indicators Research	7886
 China’s National Economic and Social Development Plan	5242
 Chinese Society of Astronautics	9816
 Cimeira Mundial da Sociedade da Informação	11396,1
+Civic Society Guiding	12511
 Civil Defence Corps NSIP Nigeria Social	11857
 Civil Registration and Social Protection	444
 Civil Registration and Social Protection Systems	444
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59
 Civil Society Alliances for Digital Empowerment	12442
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
@@ -319,7 +321,7 @@ Civil Society Organizations Financing	7548
 Civil Society Organizations and Development Partners	11863
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -361,7 +363,7 @@ Community and Social Development	6946
 Compel Social Media Giants	7853
 Compulsory Social Security	2775
 Computer Emergency Response Team SOC Security	1000
-Computer Society of Zimbabwe	4528
+Computer Society of Zimbabwe	4528,7984
 Computing and Sustainable Societies	4439
 Comunicacao Social	11045
 Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487
@@ -417,7 +419,7 @@ Covid-19 Social Relief of Distress	2307
 Creating Social Impact	12210
 Credit Society Ltd Data Controller INST-4859217F76E	7167
 Cuanza- Norte Sociedade Cuanza Norte	10778
-Cultural and Social Self-Determination The National AI	4528
+Cultural and Social Self-Determination The National AI	4528,7984
 Culture and Society	1200
 Cyber SOC Project	4848
 Cyber Security SOC	10721
@@ -442,7 +444,7 @@ DISclAIMERS United Nations Department of Economic and Social	10840
 DJOGBENOU Socco LAFIA Le MinisTre	10813
 DMAP No. ENVIRONMENTAL AND SOCIAL STANDARDS	12253
 DSP Digital Society Project	11887,266,1,9,178
-DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1
+DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1,135
 DTSER Sociedade	3899
 DYNAMIC SOCIAL REGISTRY	11133
 Data Governance Framework for Digital Social	11156
@@ -706,7 +708,7 @@ Environmental and Social Systems Assessment ESSA Franc	11905
 Environmental and Social Systems DLI	10870
 Environnemental Société	8891
 Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188
-Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equatorial Guinea's Ministry of Health and Social Welfare	1018
 Equipamento Social	10754
@@ -902,6 +904,7 @@ Inclusion and Social Development	11965
 Inclusive Digital Society	12214
 Inclusión Social	1701
 Inclusão Social	11555
+Income Society	12512
 Increasing Improvement. Social Protection	11888
 IndabaX Hackathon Computer Science Society Staff	12361
 India-based Centre for Internet and Society. The CIS	4176
@@ -976,7 +979,7 @@ International Social Security Association	11156
 Internet Freedom Social Media	9937
 Internet Protection Society	9082
 Internet Social Email SMS	1944
-Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026
+Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026,176
 Internet Society Cameroon Chapter	7958
 Internet Society Chapter	2415
 Internet Society Chapter RDC	2415
@@ -1054,7 +1057,7 @@ Labor and Social Dialogue	7379
 Labour and Social Development	6113,539,4170
 Labour and Social Protection	11994
 Labour and Social Security	11640,776
-Labour and Social Welfare	1221,7785
+Labour and Social Welfare	1221,7785,3492
 LacInternet Society Khachoum Al-Wadi	2384
 Lamu County. Social Responsibility and Investment	6946
 Lancement du Programme National de Filets Sociaux	11913
@@ -1203,7 +1206,7 @@ Ministério da Comunicação Social	7527
 Ministério da Comunicação Social X X	11569
 Mobile INTERNET SHARE OF SOCIAL MEDIA	12214
 Mobile Network Operators Malawi National Social	10763
-Mobile-First Society	4528
+Mobile-First Society	4528,7984
 Mobilizing Civil Society	12399
 Moderate Environment and Social	10870
 Moderate. Environment and Social	11965
@@ -1334,7 +1337,7 @@ Open Social Protection Platform	11133
 Open Society	5700
 Open Society Foundation	8436
 Open Society Foundation11	10819
-Open Society Foundations	3021,4865,3850,456,35,51
+Open Society Foundations	3021,4865,3850,456,35,51,223
 Open Society Foundations and GIZ	1332
 Open Society Institute Sofia	8891
 Operations Environmental and Social Review Committee	3604
@@ -1473,8 +1476,8 @@ Prévoyance Sociale Reforms	10985
 Public Disclosure Authorized SOCIAL PROTECTION	10985
 Public Disclosure Authorized Social Protection and Jobs	10964
 Public Perception of Education Provision Social Protection	10759,1395
-Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-Public Trust and Social Acceptance Trust Building	4528
+Public Perception of Social Protection	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Public Trust and Social Acceptance Trust Building	4528,7984
 QAS. O Risco Social	11390
 QUADRO AMBIENTAL E SOCIAL	11390
 QUADRO DE GESTÃO AMBIENTAL E SOCIAL	11542
@@ -1546,7 +1549,7 @@ Risk Category Socio-Ethical Risks Geopolitical	4528
 Robotics Society of Kenya	12210
 Robotics and Artificial Intelligence Society Bill	4734
 Role of Civil Society	11028
-Role of Civil Society Civil	4528
+Role of Civil Society Civil	4528,7984
 Role of Nafeer and Social Networks	6947
 Royal Society	12090
 Royal Society Open Science	12090
@@ -1628,7 +1631,7 @@ SOCIAL MEDIA USER IDENTITIES	12214
 SOCIAL MEDIA USER SOCIAL MEDIA IDENTITIES	12214
 SOCIAL MILITAR MILITAR MUTILADO NACIONAL MILITAR	4209
 SOCIAL OBRIGATÓRIA	11433
-SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36
+SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SOCIAL PROTECTION COVERAGE Despite	11998
 SOCIAL PROTECTION D	11156
@@ -1792,7 +1795,7 @@ Sociais Positivos Relacionados	11406
 Sociais Relacionados	11406
 Sociais Utilizados	11406
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22
 Social APDCH Aliança	11390
 Social Accountability	12194
 Social Action	10763,5,7,1080
@@ -1837,7 +1840,7 @@ Social Cash Transfers Social	10775
 Social Cohesion	11525,330
 Social Cohesion Efforts	4579,15
 Social Cohesion NCB National Competitive Bidding	11525
-Social Cohesion and Cultural Preservation Zimbabwe	4528
+Social Cohesion and Cultural Preservation Zimbabwe	4528,7984
 Social Cohesion and Forced Displacement	1867
 Social Cohesion and Logistics Barcola	7426
 Social Cohesion and Safe Communities	11230
@@ -1989,7 +1992,7 @@ Social Progress	12356
 Social Progression	12448
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35
 Social Protection Act	10775
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Baseline	11469
@@ -2041,7 +2044,7 @@ Social Register	11988,32
 Social Registers	11988
 Social Registries	3276,9167
 Social Registries for Social Assistance and Beyond	10819,314
-Social Registry	1992,840,8034,659,330,515,42,68
+Social Registry	1992,840,8034,659,330,515,42,68,18
 Social Registry Enhanced	11855
 Social Registry Imbeleko Programme	12480
 Social Registry Imbeleko Study Results	12480
@@ -2050,6 +2053,7 @@ Social Registry Information System SRIS	1687
 Social Registry Open	11855
 Social Registry Project	12480
 Social Registry Specialist	11855
+Social Registry Survey Press Release	12498
 Social Registry WBG World Bank Group	10964
 Social Registry. Importantly	11525
 Social Registry. ME PDO Table SPACE	11855
@@ -2082,7 +2086,7 @@ Social Safeguards Specialists	12137
 Social Safety Net	10812,54,119,148
 Social Safety Net Project	10866,97
 Social Safety Net The Social Safety	10812
-Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Social Safety Nets	3604,7155,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
 Social Safety Register	4794
 Social Science	2518
@@ -2104,7 +2108,7 @@ Social Security Supervisory Commission African Financial	6938
 Social Security and Housing Finance Corporation	3066
 Social Security and National Solidarity Ashok Subron	6458
 Social Security of São Tomé and Príncipe	11939
-Social Services	1988,787,1753,1127,1512,3146,972,1006
+Social Services	1988,787,1753,1127,1512,3146,972,1006,221
 Social Services Administration and Agriculture	10313
 Social Services Administration and Agriculture. Looking	10313
 Social Simplificado	6269
@@ -2182,6 +2186,7 @@ Social-spending-to-GDP	1828
 SocialGood Lagos	10834
 SocialImpact	11644
 SocialProtection	12367
+SocialRegistry PressRelease Download	12498
 Sociale	1837,3736,1005,2975,1323
 Sociale CD Cadre de Dépense CEC Certificat	10876
 Sociale ES	10876
@@ -2290,7 +2295,7 @@ Socio-Economic Manager Development Unit Jean Lindsay	11332
 Socio-Economic Research and Development Centre	10270
 Socio-Economic Rights Institute	11660
 Socio-Economic Rights and Accountability Project	7458,3642
-Socio-Ethical Risks	4528
+Socio-Ethical Risks	4528,7984
 Socio-Political Shifts	8629
 Socio-Technical	12007
 Socio-Technical Imaginaries of Digital Personal Data	11028
@@ -2308,12 +2313,12 @@ Sociodemographic	3791,7480,25
 Sociodemographic Restrictions for Domestic Entrepreneurs	12389
 Socioecon	5242
 Socioecon Challenges	5242
-Socioeconomic	1867,73,8872,157,915,1,10,264,1,44,1,73,19,54,4
-Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Socioeconomic	1867,73,8872,157,915,1,10,264,1,44,1,73,19,54,4,132
+Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
 Socioeconomic Living Conditions of Refugees	10841
-Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1
+Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135
 Socioeconomic Profiling of Sundaneses	10841
 Socioeconomic Snapshot	12297
 Socioeconomic Survey Report	1867
@@ -2562,7 +2567,7 @@ Union Socialiste des Forces Populaires	8891
 Unique Social Register	1828
 Unique Social Register. Diário da República	10775
 Unique Social Registry	3500
-United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60,75
 United Nations Department of Economics and Social Affairs	11572
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Asia	12367,46
@@ -2588,7 +2593,7 @@ Visa Social Impact	10977
 Véhicules de Tourisme des Sociétés	6954
 WELFARE Social Safety Nets	10759,78,1052,451
 WESTERN CAPE STANDING COMMITTEE ON SOCIAL	8999
-WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1
+WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130,902,16,466,1,135
 Wake-Up Call for Social Assistance	10985
 Water Biodiversity Protection Social Protection	10837,1052,263,11,177,1
 Weekly Organic Posts Promoted Social Media	8999
@@ -2643,4 +2648,6 @@ Zanzibar Social Security Fund ZUPS Zanzibar	11133
 Zanzibar. The Zanzibar Dynamic Social Registry	11142
 Zimbabwe Agricultural Society	1554
 Zimbabwe Harmonized Social Cash Transfer Program	11855,69
+Zimbabwe Social Registry	12498
+Zimbabwe Social Registry Survey	12498
 Zimbabwe. European Journal of Social Sciences Studies	1248

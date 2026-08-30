@@ -13,7 +13,7 @@ AI Hub Risk Assessment Framework for Social	11156
 AI Impact Assessment	7548,3608
 AI Impact Assessments	11156
 AI Readiness Assessment	3378
-AI Readiness Assessment Methodology	4126,402
+AI Readiness Assessment Methodology	4126,402,7984
 AI Readiness Index and Maturity MINICT Assessment	1204
 ANNOUNCEMENTS National Assembly	11289
 ANNOUNCEMENTS National Assembly The Speaker	11230,59
@@ -64,7 +64,7 @@ About the Digital Readiness Assessment MALAWI DIGITAL	12214
 Acquisition of Assets and Infrastructure Institution	1131
 Additional Assets	12400
 Adequacy Assessment	8290
-Advance Performance Assessment Report	12225
+Advance Performance Assessment Report	12500
 Africa Cyberthreat Assessment	5820,1763
 Africa Cyberthreat Assessment Report	4861,1984
 Africa Digital Health Maturity Assessment Tool	11679
@@ -122,7 +122,7 @@ Assembleia da República de Moçambique	5841
 Assembleia da República. Na	8658
 Assembleias de Voto	11425
 Assemblies	7695
-Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1
+Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135
 Assembly DHPT MoH	9855
 Assembly Decision	5825
 Assembly Disclosure of Public Records Public Perception	10759
@@ -187,7 +187,7 @@ Assess the Criteria	12376
 Assess the Livelihood Impact of Electricity Access. Nature	12006
 Assessable Income	11976
 Assessable Profit	11976
-Assessed	4432,2031,4542,151,1069
+Assessed	4432,2031,4542,151,1344
 Assesses	1381,335,10498
 Assessing	1219,1597,132,315,864,49,672,15,2075,340,481,1370,74,34,379,143,1004,17,76,25,104,210,368,15,277,63,79,249,9,42,36,52
 Assessing AI's Implications for Development	5598
@@ -204,7 +204,7 @@ Assessing the Impact of Digital Government	226
 Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,11,16,14,42,32,29,21,6,68
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8
 Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment Area Network Performance Service Quality	5676
 Assessment Basic Knowledge	899
@@ -216,9 +216,9 @@ Assessment European Union Forecast-based Financing	11156
 Assessment Framework	1161,6387
 Assessment Framework Technologies	7548
 Assessment Impact Privacy	11153
-Assessment Notice P7-25. Degree	12225
-Assessment P5-17. Timeliness	12225
-Assessment P9-31. Public	12225
+Assessment Notice P7-25. Degree	12500
+Assessment P5-17. Timeliness	12500
+Assessment P9-31. Public	12500
 Assessment POPIA Protection of Personal Information Act	11986
 Assessment Policy Statements Practical Assessment Tasks	11241
 Assessment Procedure	1824
@@ -230,7 +230,7 @@ Assessment Results	1953
 Assessment Setting	1824
 Assessment System SITA State Information Technology	11218
 Assessment Tool	11133
-Assessment Tool Dumisani Masilela	12225
+Assessment Tool Dumisani Masilela	12500
 Assessment Tool for E-records Readiness	12325
 Assessment Tool’. WB ID4D	10819
 Assessment Unit	11905
@@ -298,7 +298,7 @@ Asset-Based and PAYGO Finance	12297
 Asset-based	12297
 AssetCo	10993
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123
 Assets Africa	9119
 Assets Assets Deposits	11960
 Assets Authority	11615
@@ -309,15 +309,15 @@ Assets and Liabilities	2775
 Assets and Liabilities of Deposit Taking Savings and Credit	2775
 Assets of Pension Funds	2775
 Association for Educational Assessment	10196
-Assurance Review TASS Performance Assessment Report	12225
+Assurance Review TASS Performance Assessment Report	12500
 Atlantic Asset Management	6883
-Attachment III. Performance Assessment Report	12225
+Attachment III. Performance Assessment Report	12500
 Audits and Assessments	6432
 Authorised Crypto Asset Service Provider	8840
 Authorised Crypto Asset Service Providers	8840
 Auto Assessment Waiting Room	8784
 Average Value of Total Bank Assets and Trade	10718
-B Performance Assessment Report	12225
+B Performance Assessment Report	12500
 BAI09 Managed Assets	9237
 BCM Maturity Assessment	11131
 BETA MOTOR VALUERS AND ASSESSORS LIMITED	7167
@@ -446,7 +446,7 @@ DCO General Assembly	7169
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
 DEBTOR'S ASSETS AND CREDITOR'S PARTICIPATION	12389
 DECA Digital Economy Country Assessment ECOWAS	11545
-DEEP LISTENING AND ANALYSIS Assessment	4528
+DEEP LISTENING AND ANALYSIS Assessment	4528,7984
 DFS Data Protection Impact Assessment NFIS	12444
 DIAGNOSTIC ASSESSMENT OF GHANA’S AI ECOSYSTEM	4126
 DIAL's Digital ID Assessment	6143
@@ -489,7 +489,7 @@ Description USAID Digital Ecosystem Country Assessment	1166
 Developers ASSEK	12210
 Development PRAMS Procurement Risk Assessment and Management	1264
 Device Assembly Plant	9336
-Diagnostic Assessment Tool Tax Audit Quality	12225
+Diagnostic Assessment Tool Tax Audit Quality	12500
 Diagnostic Assessment of Rwanda’s AI Ecosystem	1204
 Digitais Assegurar	11569
 Digital Asset	4610
@@ -550,7 +550,7 @@ East African Legislative Assembly	3738
 Economic Assessment of Somalia’s Accession	11136
 Economy MALAWI DIGITAL READINESS ASSESSMENT	12214
 Educational Assessment and Examination Service	10709
-Effective Tax Dispute Resolution Performance Assessment	12225
+Effective Tax Dispute Resolution Performance Assessment	12500
 Election Law Assembly	12201
 Emerging Assessment Guidelines	7548
 Employees and Corporate Assets	7198
@@ -587,9 +587,9 @@ Eswatini Digital Economy Assessment Companion	796
 Eswatini Digital Readiness Assessment	6539,5845
 Ethical Impact Assessment	1814
 Ethical Impact Assessment of AI Systems	12389
-Ethical Impact Assessments	4528
-Ethiopia II. ASSESSMENT OF PERFORMANCE OUTCOME	12225
-Ethiopia Summary of TADAT Performance Assessment Indicator	12225
+Ethical Impact Assessments	4528,7984
+Ethiopia II. ASSESSMENT OF PERFORMANCE OUTCOME	12500
+Ethiopia Summary of TADAT Performance Assessment Indicator	12500
 Ethiopia Telecom Market Assessment	3773
 European Union. Assessing	1219,11027
 Evaluation Assessment	12389
@@ -701,7 +701,7 @@ III. Strategic Assessment	6735,200
 III. Strategic Assessment The CBN	6935
 ILAP Poverty Assessment Survey	11525
 INFRASTRUCTURE ASSET SHARING P-3 Federal	11857
-INTERNATIONAL MONETARY FUND Performance Assessment Report	12225
+INTERNATIONAL MONETARY FUND Performance Assessment Report	12500
 INTERPOL African Cyberthreat Assessment	9133
 INTERPOL African Cyberthreat Assessment Report	3691,2735
 INTERPOL's African Cyberthreat Assessment Report	9757
@@ -830,8 +830,8 @@ MALAWI DIGITAL READINESS ASSESSMENT Recommendations Physical	12214
 MALAWI DIGITAL READINESS ASSESSMENT Regional	12214
 MALAWI DIGITAL READINESS ASSESSMENT Social	12214
 MAP Meter Assets Provider MDA Ministries	12062
-MOR Organizational Structure Performance Assessment Report	12225
-MOR. Performance Assessment Report	12225
+MOR Organizational Structure Performance Assessment Report	12500
+MOR. Performance Assessment Report	12500
 MOZAMBIQUE ASSET MANAGEMENT S.A	1829
 Macquarie Asset Management	9330,309
 Malagasy National Assembly	9480
@@ -845,7 +845,7 @@ Management Assertion	11855
 Management Performance Assessment Tool	11224
 Management of State Assets and Participations	7134,3645
 Mandate Data Protection Impact Assessments	6936
-Mandate Ethical Impact Assessments	4528
+Mandate Ethical Impact Assessments	4528,7984
 Mandatory Assessment Triggers	3861
 Maturity Assessment Workshop	1824
 Meter Asset Providers	12062
@@ -883,7 +883,7 @@ Natiolial Assembly	11852
 National AI Readiness Assessment	3712
 National AI Readiness Assessment Committee	10183
 National Artificial Intelligence Readiness Assessment	10183
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61
 National Assembly Administration Act	7859
 National Assembly Authority	3887
 National Assembly Bill No	1221,617,4295,4180,341
@@ -1000,73 +1000,73 @@ Open Data Readiness Assessment	9406
 Operator Scheme UAMP User Asset Management	11218
 Organisational Law Assembly	12201
 Organization PAH. Maturity Assessment Planning Guide	12255
-Organizational Structure MOR Performance Assessment Report	12225
+Organizational Structure MOR Performance Assessment Report	12500
 Orçamento Privativo da Assembleia Nacional	1338,4,738,9
 Orçamento da Assembleia Nacional Revisto	11365
-P1-1 Assessment	12225
-P1-1 Assessment Scoring Score Score Method	12225
-P1-2 Assessment	12225
-P1-2 Assessment Scoring Score Score Method	12225
-P2-3 Assessment	12225
-P2-3 Assessment Scoring Score Score Method	12225
-P2-4 Assessment	12225
-P2-4 Assessment Scoring Score Score Method	12225
-P2-5 Assessment	12225
-P2-5 Assessment Scoring Score Score Method	12225
-P2-6 Assessment	12225
-P2-6 Assessment Scoring Score Score Method	12225
-P2-7 Assessment	12225
-P2-7 Assessment Scoring Score Score Method	12225
-P3-10 Assessment	12225
-P3-10 Assessment Scoring Score Score Method	12225
-P3-11 Assessment	12225
-P3-11 Assessment Scoring Score Score Method	12225
-P3-8 Assessment	12225
-P3-8 Assessment Scoring Score Score Method	12225
-P3-9 Assessment	12225
-P3-9 Assessment Scoring Score Score Method	12225
-P4-12 Assessment	12225
-P4-12 Assessment Scoring Score Score Method	12225
-P4-13 Assessment	12225
-P4-13 Assessment Scoring Score Score Measurement	12225
-P4-14 Assessment	12225
-P4-14 Assessment Scoring Score Score Method	12225
-P5-15 Assessment	12225
-P5-15 Assessment Scoring Score Score Measurement	12225
-P5-16 Assessment	12225
-P5-16 Assessment Scoring Score Score Method	12225
-P5-17 Assessment	12225
-P5-17 Assessment Scoring Score Score Method	12225
-P5-18 Assessment	12225
-P5-18 Assessment Scoring Score Score Method	12225
-P6-19 Assessment	12225
-P6-19 Assessment Scoring Score Score Method	12225
-P6-20 Assessment	12225
-P6-20 Assessment Scoring Score Score Method	12225
-P6-21 Assessment	12225
-P6-21 Assessment Scoring Score Score Method	12225
-P6-22 Assessment	12225
-P6-22 Assessment Scoring Score Score Method	12225
-P7-23 Assessment	12225
-P7-23 Assessment Scoring Score Score Method	12225
-P7-24 Assessment	12225
-P7-24 Assessment Scoring Score Score Measurement	12225
-P7-25 Assessment	12225
-P7-25 Assessment Scoring Score Score Method	12225
-P8-26 Assessment	12225
-P8-26 Assessment Scoring Score Score Method	12225
-P8-27 Assessment	12225
-P8-27 Assessment Scoring Score Score Method	12225
-P8-28 Assessment	12225
-P8-28 Assessment Scoring Score Score Measurement	12225
-P9-29 Assessment	12225
-P9-29 Assessment Scoring Score Score Measurement	12225
-P9-30 Assessment	12225
-P9-30 Assessment Scoring Score Score Method	12225
-P9-31 Assessment	12225
-P9-31 Assessment Scoring Score Score Method	12225
-P9-32 Assessment	12225
-P9-32 Assessment Scoring Score Score Method	12225
+P1-1 Assessment	12500
+P1-1 Assessment Scoring Score Score Method	12500
+P1-2 Assessment	12500
+P1-2 Assessment Scoring Score Score Method	12500
+P2-3 Assessment	12500
+P2-3 Assessment Scoring Score Score Method	12500
+P2-4 Assessment	12500
+P2-4 Assessment Scoring Score Score Method	12500
+P2-5 Assessment	12500
+P2-5 Assessment Scoring Score Score Method	12500
+P2-6 Assessment	12500
+P2-6 Assessment Scoring Score Score Method	12500
+P2-7 Assessment	12500
+P2-7 Assessment Scoring Score Score Method	12500
+P3-10 Assessment	12500
+P3-10 Assessment Scoring Score Score Method	12500
+P3-11 Assessment	12500
+P3-11 Assessment Scoring Score Score Method	12500
+P3-8 Assessment	12500
+P3-8 Assessment Scoring Score Score Method	12500
+P3-9 Assessment	12500
+P3-9 Assessment Scoring Score Score Method	12500
+P4-12 Assessment	12500
+P4-12 Assessment Scoring Score Score Method	12500
+P4-13 Assessment	12500
+P4-13 Assessment Scoring Score Score Measurement	12500
+P4-14 Assessment	12500
+P4-14 Assessment Scoring Score Score Method	12500
+P5-15 Assessment	12500
+P5-15 Assessment Scoring Score Score Measurement	12500
+P5-16 Assessment	12500
+P5-16 Assessment Scoring Score Score Method	12500
+P5-17 Assessment	12500
+P5-17 Assessment Scoring Score Score Method	12500
+P5-18 Assessment	12500
+P5-18 Assessment Scoring Score Score Method	12500
+P6-19 Assessment	12500
+P6-19 Assessment Scoring Score Score Method	12500
+P6-20 Assessment	12500
+P6-20 Assessment Scoring Score Score Method	12500
+P6-21 Assessment	12500
+P6-21 Assessment Scoring Score Score Method	12500
+P6-22 Assessment	12500
+P6-22 Assessment Scoring Score Score Method	12500
+P7-23 Assessment	12500
+P7-23 Assessment Scoring Score Score Method	12500
+P7-24 Assessment	12500
+P7-24 Assessment Scoring Score Score Measurement	12500
+P7-25 Assessment	12500
+P7-25 Assessment Scoring Score Score Method	12500
+P8-26 Assessment	12500
+P8-26 Assessment Scoring Score Score Method	12500
+P8-27 Assessment	12500
+P8-27 Assessment Scoring Score Score Method	12500
+P8-28 Assessment	12500
+P8-28 Assessment Scoring Score Score Measurement	12500
+P9-29 Assessment	12500
+P9-29 Assessment Scoring Score Score Measurement	12500
+P9-30 Assessment	12500
+P9-30 Assessment Scoring Score Score Method	12500
+P9-31 Assessment	12500
+P9-31 Assessment Scoring Score Score Method	12500
+P9-32 Assessment	12500
+P9-32 Assessment Scoring Score Score Method	12500
 PAL SA R Asset	12006
 PARIS ALIGNMENT ASSESSMENT For Direct	1818
 PETITION UNFAIR LENDING AND ASSET FINANCING	10313
@@ -1093,10 +1093,10 @@ País. A Assembleia Nacional	11425
 People MALAWI DIGITAL READINESS ASSESSMENT	12214
 Per Second MCA Member of County Assembly	2775
 Percentage Contribution Type of Asset	2775
-Performance Assessment Report	12225
-Performance Assessment Report Template Attachment IV	12225
-Performance Assessment Report Template I. Payment	12225
-Performance Assessment Report Template Indicators Sources	12225
+Performance Assessment Report	12500
+Performance Assessment Report Template Attachment IV	12500
+Performance Assessment Report Template I. Payment	12500
+Performance Assessment Report Template Indicators Sources	12500
 Performance Assessment Report. Warwick	10997
 Performance Assessment Tool MTEF Medium Term	11224
 Person GRM Integrated Fiduciary Systems Assessment	11905
@@ -1114,7 +1114,7 @@ Power Installation Assessments	1988
 Practical Assessment Research and Evaluation	2093
 Practice The Overall Trust Assessment	11138
 Pre Assessment Tool	414
-Preferential Performance Assessment Report	12225
+Preferential Performance Assessment Report	12500
 Preliminary Readiness Assessment	8301
 Presidente da Assembleia Nacional	539,2980,7890,16
 Presidente da Assembleia Nacional Popular	11561
@@ -1236,7 +1236,7 @@ Sanlam Specialised Asset Management. Jacques	9367
 Scalar Infrastructure and Real Assets	5393,53
 School Based Assessment Mind the Gap Study	11241
 School Education Assessment KRA Kenya Revenue	2775
-Scores Scores Summary Explanation of Assessment	12225
+Scores Scores Summary Explanation of Assessment	12500
 Second Mortality Assessment Survey MCCoD Medical	12413
 Sectoral Stability Assessment Households Household	11134
 Security Assertion Markup Language	12360
@@ -1283,7 +1283,7 @@ State House of Assembly. Executive Chairman	11976
 State House of Assembly. PART II	11976
 State Houses of Assembly	9876
 Strategic Assessment	970
-Strategic Asset	4528,1022
+Strategic Asset	4528,1022,6962
 Strategic Asset Allocation	11131,3
 Strategic Asset Management	5244
 Strategic Environmental and Social Assessment	2889,715
@@ -1295,19 +1295,19 @@ Sudan Digital Economy Assessment	986
 Summary Statement of Financial Position Assets External	11131
 Summary of Assessment of Environmental and Social Risks	10963
 Summary of Ideal Clinic Assessment	11980
-Summary of TADAT Performance Assessment	12225
+Summary of TADAT Performance Assessment	12500
 Sustainable Banking Assessment	10718
 Sustainable Impact Assessment	1243
 Systems Diagnostic Assessment Project	11986
 TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLINGS National Assembly and National Council of Provinces	11285,4
-TADAT Secretariat. Performance Assessment Report	12225
+TADAT Secretariat. Performance Assessment Report	12500
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TN Asset Management Nominees	4896
 TRA Threat and Risk Assessment TRV Temporary	5533
 Talent Gap Assessment	2680
-Tax Administration Diagnostic Assessment Tool	10519,465,1241
-Tax Performance Assessment Report	12225
+Tax Administration Diagnostic Assessment Tool	10519,465,1516
+Tax Performance Assessment Report	12500
 Tax Reference Number and Year of Assessment. Click	11276
 Taxation of Virtual Assets	8826
 Technical Assessment Mission	5950
@@ -1339,7 +1339,7 @@ Treasury Management and Financial Assets	11231
 Treatment and Protection of Debtor’s Assets	12389
 Trend Identification and Assessment	11265
 True Value Assessment	9103
-Turkey. Performance Assessment Report	12225
+Turkey. Performance Assessment Report	12500
 Type of Asset	2775
 Types of Movable Assets	12389
 Téla Nón O Presidente da Assembleia Nacional	5818
@@ -1443,4 +1443,5 @@ Zambia Legal and Policy Assessment of E-Waste Management	1988
 Zambia Vulnerability Risk Assessment and Mapping Report	1988
 Zambian Environmental Impact Assessment	1988
 Zelalem Assefa	12245
+Zimbabwe Investment Overview Partners Resource Assessment	12515
 Zimbabwe X Specific Assessments	11005

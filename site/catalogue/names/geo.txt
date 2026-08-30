@@ -43,7 +43,7 @@ Communications Minister Samuel Nartey George	8765
 Configuração Geométrica	11384
 Conrad C. Daly and Tina George Karippacheril	1217
 Coordenadas Geográficas	11405
-Country Snapshot Geography The Federal Democratic	12225
+Country Snapshot Geography The Federal Democratic	12500
 Coverage Geographic Coverage National Universe All	10862
 Croatia Czech Republic Ecuador Georgia Hungary	10764
 DStv Mr George	3229
@@ -130,6 +130,8 @@ GeoPortal	7130
 GeoShape	6423
 Geocomputing	6832
 Geocoton	10841
+Geodesy The National	12511
+Geodetic Services	12511
 Geoeconomic	4676
 Geoeconomic Competition	4676
 Geoeconomics	4676
@@ -191,7 +193,7 @@ Geographical Names Register	4214
 Geographical and Ecological Characteristics	12151
 Geographically	4863,20,3082,2310,76,448
 Geographies	11310
-Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60
+Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75
 Geography Figure	12413
 Geography and Environment	12178
 Geográfico	11430,1
@@ -209,7 +211,7 @@ Geometry of Power	3463
 GeomsK	1885
 Geomxn	12478
 Geoorloofde	11190
-Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341
+Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341,173
 Geopolitical AI	11135
 Geopolitical Contest India	9431
 Geopolitical Currency	8629
@@ -291,7 +293,7 @@ Geoscience	2889
 Geoscience Australia	345,714
 Geoscience Australia. Provides	345
 Geoscientific	12256
-Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97
+Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55
 Geospatial AI Ops Atlas AI	5226
 Geospatial Capability	520
 Geospatial Data	196,3665
@@ -377,6 +379,8 @@ MIT and Georgetown	6603
 Magistrate Geoffrey Akena	4235
 Manager IT Specialist Geospatial Intelligence Specialist	2989
 Mapping Department National Land Authority GeoEmpower	12457
+Mapping Geodetic Tools Property Search	12511
+Maps Cadastral Services Geodetic Services Land	12511
 Mathematics and Geography	8609
 Megawatts of Geothermal Power Generation	1245
 Melanie George	8764

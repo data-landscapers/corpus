@@ -1,4 +1,4 @@
-ABNT Chicago Harvard IEEE MLA Turabian	12467
+ABNT Chicago Harvard IEEE MLA Turabian	12467,19
 AL DAS ELEtçÕeS IeeSLAnVAS	11544
 Acomprehensivesurvey. IEEE Access	8606
 African IETF	991
@@ -109,7 +109,7 @@ IET Blockchain	8605
 IETF Internet-standards	991
 IETF RFC7159	1009
 IETF-Africa	991
-ISO and IEEE	4528
+ISO and IEEE	4528,7984
 ISO- IEC27001	1000
 ISOC IETF-Africa	991
 IeDA-maternity	10881

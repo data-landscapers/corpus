@@ -4,7 +4,7 @@ ACTUAL ENQUADRAMENTO JURÍDICO DA MATÉRIA OBJECTO	11461
 ADDITIONAL MATERIAL INFORMATION	4896
 ADDITIONAL MATERIAL INFORMATION Econet InfraCo	4896
 AI Readiness Index and Maturity MINICT Assessment	1204
-AI Strategy Risk Matrix Risk Category	4528
+AI Strategy Risk Matrix Risk Category	4528,7984
 AI. Matshepo Sehloho	5772
 AIC MATINGA Data Controller INST-264746307AE MAKUENI	7167
 AJYAAD MATERNAL AND CHILD HOSPITAL LTD	7167
@@ -79,6 +79,7 @@ Blossom Matizirofa	9889
 Botswana By Matshepo Sehloho	3688
 Bourse des Matières Premières Agricoles	2342
 Building Materials and Technologies ADNOC Abu Dhabi	2775
+Bulilima and Matobo	12508
 Bundung Maternal and Child Hospital	4338
 Business Enterprise Usage of Rwandan-sourced Raw Materials	12445
 C.E.F. Matewa Mr. E. Dhenhere	1154
@@ -134,6 +135,7 @@ Compliance Matrix	11825
 Compra de Material	4209
 Connecting Africa Matshepo	1195,2147,826,3257,84,16
 Connecting the World Industry Matching Activity	7407
+Connectivity Challenges Bulilima and Matobo	12508
 Conselho Municipal da Matola	10140
 Consolata Hospital Mathari Data Controller INST-18785613B60	7167
 Consolata Hospital Mathari Data Processor INST-18785613B60	7167
@@ -142,6 +144,7 @@ Construction Materials	12389
 Construction Materials Extraction	1988
 Contacto ECTS Análise Matemática	12019
 Contemporary Cases And Materials Available	11654
+Context Matabeleland South	12508
 Convergence That Matters for Broader North	5340
 Copperbelt Minister Elisha Matambo	5057
 Council Cession Land Matombo Manyoro Purchased	4896
@@ -176,6 +179,7 @@ Data Classification Matrix and Cloud Assessment Framework	11867
 David Matern	11108
 Deal Matters	6397
 Death Match of Institutional Orders	11028
+December. Mattes	12501
 Defining Matters	5700
 Definition Materials Materials These Rules	12364
 Departamento de Matemática	2816
@@ -221,7 +225,7 @@ EU’s Critical Raw Materials Act	10592
 EVALUATION MATRIX	6432
 EVALUATION MATRIX. Compliance Area Requirement	6432
 Eastern Europe. About Luke Mate	12366
-Ecosystem Maturation and Leadership	4528
+Ecosystem Maturation and Leadership	4528,7984
 Edwin Sifuna Fred Matiang’i Kalonzo Musyoka	7869
 El Hadji Maty Sene	2827
 Elecoral Number MAT Central CR and ID	10775
@@ -232,6 +236,7 @@ Energy Lerato D. Mataboge and ITU SG	7326
 Engineering Backgrounds Matter	10010
 Engineering and Math	11863
 Engineering and Mathematics	789,1911,4132,230,2514,1024,1367
+Engineering and Mathematics SWOT Strengths	12512
 Engineering and Mathematics Strengths	4528
 Engineering and Mathematics TVET	6832
 English Language and Mathematics EMIS	12175
@@ -465,7 +470,11 @@ Matabeleland North Senator Sengezo Tshabangu	6179
 Matabeleland North Senator Sengezo Tshabangu Government	6179
 Matabeleland North Senator Sengezo Tshabangu Matabeleland	6179
 Matabeleland Province	362
-Matabeleland South	7312
+Matabeleland South	7312,5196
+Matabeleland South Province	12508
+Matabeleland South Province Page	12508
+Matabeleland South Provincial Health Team	12508
+Matabeleland South Provincial Health Team Meeting	12508
 Matabeleland South and Matabeleland North	940
 Mataboge	7136
 Matadi	2886,9020,54
@@ -522,7 +531,7 @@ Materiais	11376
 Materiais Didáticos	11444
 Materiais Workshop	11456
 Materiais de Construção	11898
-Material	26,210,705,1047,1726,73,422,319,2676,2113,840,153,467,357,333,402,348,39
+Material	26,210,705,1047,1726,73,422,319,2676,2113,840,153,467,357,333,402,348,39,256
 Material Acquisitions	4896
 Material Context of Data Processing and Priority	11956
 Material Contracts	5538
@@ -560,10 +569,11 @@ Materias	4209
 Maternal	21,750,106,93,3290,41,129,245,5091,997,17,49,52,536,143,578,13,95,167
 Maternal Child Health Commodities Warehousing	4202
 Maternal Child and Community Health MCCOD	12338
-Maternal Health	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Maternal Health	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Maternal Health Health Quality Public Perception	10837,1315,188
 Maternal Health Long	1363
-Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1
+Maternal Health Rural Economy Support	12488
+Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130,902,16,3,451,12,1,135
 Maternal Mortality Rate	4167,6613
 Maternal Mortality Ratio	4349
 Maternal and Child Health	4260,7276,710
@@ -691,9 +701,10 @@ Matlou. The COVID-19 SRD Regulations	4667
 Mato Adamou ONEP Diffa	8228
 Mato Dento	11962
 Mato Dento Picos	11962
+Matobo Mazoe Melsetter Mrewa Mtoko Ndanga	12511
 Matokele	4636
 Matokele Ranteme	4636
-Matola	414,2217,3,116,2656,1369,2659,12,2694,61
+Matola	414,2217,3,116,2656,1369,2659,12,2694,61,300
 Matola and Quelimane	1228
 Matola-Rio	12148
 Matola. Segundo	10140
@@ -776,7 +787,7 @@ Matters The Trump Administration	10351
 Matters for Ghana	7523
 Matters for Your Business	12022
 Mattes	7886,4392
-Mattes and Lekalake	12278
+Mattes and Lekalake	12278,223
 Mattes and Patel	12192
 Matthew	10335,1755
 Matthew Amalitinga Abagna	10335
@@ -813,7 +824,7 @@ Matumizi	2868,3151,2444
 Matumizi Meng	6019
 Matumizi Mengineyo	2868,3151
 Maturation	10980
-Mature	1984,2544,328,2082,1070,857,3349
+Mature	1984,2544,328,2082,1070,857,3349,298
 Mature Institutional Cyber Governance and Sectoral Readiness	6936
 Maturidade GovTech	11569
 Maturidade GovTech GTMI	11569
@@ -886,6 +897,7 @@ Niger. Matshepo Sehloho	2569
 Nigeria. Matshepo Sehloho	2294
 Normalized Difference Wetness Index and Dry Matter	11334
 North Mathia	12256
+November. Matola	12501
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
 Nzo DM Matatiele	11986
 O GovTech Maturity Index	11569

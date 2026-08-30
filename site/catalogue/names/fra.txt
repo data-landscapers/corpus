@@ -15,7 +15,7 @@ AFRICAN UNION’S DATA POLICY FRAMEWORK	1243
 AI Benefit-Sharing Framework	4253
 AI Competency Framework for Teachers	6948
 AI Criteria Framework Emerging Technologies	7548
-AI Ethics Framework	4528,3955
+AI Ethics Framework	4528,3955,4029
 AI Frank Eleanya	2417,3046
 AI Governance Framework	7170
 AI Governance Framework and AI Model Evaluation	3604
@@ -29,9 +29,10 @@ AI Risk Management Framework	10343,922
 AI Strategy Framework	9108
 AI Strategy and Governance Framework	10343
 AI Transformation Enabler Framework Enabler	4528
+AI Transformation Enabler Framework Enabler Mission	12512
 AI and Framework	7548
 AI and Framework for Technologies	7548
-AI. A Framework for Understanding AI Risk	4528
+AI. A Framework for Understanding AI Risk	4528,7984
 AI’s Responsible AI Framework. So	11135
 ANALYTICAL FRAMEWORK FOR NEGOTIATING DATA PROVISIONS	1243
 APEC PRIVACY FRAMEWORK	1243
@@ -103,6 +104,7 @@ Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,75
 Agence Française de Développement. Une	4342
 Agence Française de The Office	12358
 Agile Governance and Ethical Frameworks Objective	4528
+Agile Governance and Ethical Frameworks Objective Lagging	12512
 Air France Data Controller INST-25160974C8C NAIROBI	7167
 Air France Data Processor INST-25160974C8C NAIROBI	7167
 Alastair Peter Francis Haynes	11136
@@ -138,7 +140,7 @@ Assistant Secretary of State for African Affairs Frank	4472,2958
 Association The Environmental Social Management Framework	1867
 Associação Francófona de Protecção de Dados	2345
 Atos Consulting France	235
-Attachment III. Institutional Framework Ethiopia	12225
+Attachment III. Institutional Framework Ethiopia	12500
 Attorney General Mr Frank Ally	6806
 Audit Framework and Independent Oversight	3861
 Australia’s AI Ethics Framework and Rwanda’s Guidelines	11135
@@ -227,7 +229,7 @@ CPF Country Partnership Framework CPS Country	11380
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework DA Designated	1867,9658
 CRI Country Partnership Framework CVE Country	11855
-CRM Framework	12225
+CRM Framework	12500
 CSF Cybersecurity Framework	6936
 CTD Strategic Performance Framework EMPRETEC Regional	10980
 CTO Francesco	4056
@@ -285,7 +287,7 @@ Common Good Framework	11006
 Common Regional Frameworks	10508
 Competency Framework for AI Literacy	6948
 Compliance Frameworks	9604
-Compliance Risk Management Framework	11140,1085
+Compliance Risk Management Framework	11140,1360
 Components RESULT FRAME T BL IO DLI Baseline	11855
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
@@ -346,7 +348,7 @@ Crime Avenue de France	4127
 Critical and Alternative Perspectives Framing	7966
 Croatia Yes National Framework Programme	11529
 Cross-Border Data Flow Framework	4123
-Cross-Cutting Enablers Framework Seven	4528
+Cross-Cutting Enablers Framework Seven	4528,7984
 Crosswalk Recommendation Industrywide Fraud Intelligence	11138
 Crypto-Asset Reporting Framework	10155,1078
 Crypto-Asset Reporting Framework. Section II General	11233
@@ -403,7 +405,7 @@ Daniel Franck Idiata	11669
 Data Categorisation and Sharing Framework	4123
 Data Classification Framework	11995
 Data Classification Matrix and Cloud Assessment Framework	11867
-Data Collection Data Collection Framework Component	4528
+Data Collection Data Collection Framework Component	4528,7984
 Data Ethics Framework	3861
 Data Fraud	12146
 Data Governance Framework	6352,4804
@@ -412,7 +414,7 @@ Data Governance Framework for Digital Social Protection	11156
 Data Governance Framework. The Framework	12453
 Data Management Framework	1243
 Data Policy Framework	961,2900,2389,102,119,3151,10,1633
-Data Protection Authority. National Governance Framework	4528
+Data Protection Authority. National Governance Framework	4528,7984
 Data Protection Frameworks for Banking Sector Beyond	2668
 Data Sharing Framework	1161
 Data Sovereignty Compliance Framework	11995
@@ -563,13 +565,13 @@ Establish the Institutional Framework	11552
 Established Institutional Framework	1000
 Establishing Ethical and Regulatory Frameworks	12356
 Estimates of National Expenditure Framework	11285
-Ethical AI Framework and Implementation Ubuntu-Centred AI	4528
-Ethical Framework	4528
-Ethics and Regulatory Framework	3760,768
-Ethics and Regulatory Framework AI Research	4528
-Ethics and Regulatory Framework Strategic Objective	4528
-Ethiopia Attachment I. TADAT Framework Performance	12225
-Ethiopia. A Compliance Risk Management Framework	12225
+Ethical AI Framework and Implementation Ubuntu-Centred AI	4528,7984
+Ethical Framework	4528,7984
+Ethics and Regulatory Framework	3760,768,7984
+Ethics and Regulatory Framework AI Research	4528,7984
+Ethics and Regulatory Framework Strategic Objective	4528,7984
+Ethiopia Attachment I. TADAT Framework Performance	12500
+Ethiopia. A Compliance Risk Management Framework	12500
 European Commission and France	3036
 European Cybersecurity Certification Framework	3787
 European Framework for Science Diplomacy	11210
@@ -686,8 +688,9 @@ Fragmentation and Interoperability Across	8013
 Fragmentation of Digital Health Initiatives Malawi	12240
 Fragmentation of Technical Infrastructures	5677
 Fragmentação	11569
-Fragmented	958,1501,1159,910,320,685,379,727,883,26,542,515,287,236,407,285,318,19,641,21,314,3,2,2,9,7,834,74,7,139,4,36,47
+Fragmented	958,1501,1159,910,320,685,379,727,883,26,542,515,287,236,407,285,318,19,641,21,314,3,2,2,9,7,834,74,7,139,4,36,47,215
 Fragmented Ecosystem	12444
+Fragmented Ecosystem Mitigation	12512
 Fragmented Ecosystem Participation. Analysis	4528
 Fragmented Efforts	12356
 Fragmented IFMIS	12214
@@ -718,12 +721,13 @@ Frames Kenya	3617
 Frames ST Digital	3283
 Frames of Mind	2816
 Frames the US-China AI-stack	5257
-Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,136,692,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,85,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18
+Framework	226,347,198,190,9,112,6,61,1,54,39,16,2,553,140,34,136,692,614,30,144,131,388,30,1,10,1,11,250,102,74,231,15,216,68,113,104,201,115,181,506,80,171,187,2,2,127,17,8,445,157,27,185,85,579,15,56,114,206,303,6,4,749,92,188,194,370,98,93,52,42,1,124,3,4,18,37,68,4,20,25,141,406,6,89,34,35,193,26,4,89,2,41,13,30,7,18,68
 Framework AI	7548
 Framework About	10718
 Framework Act	1009
 Framework Agreement	6921,4180,1288
 Framework Agreements	6432
+Framework All	12512
 Framework Architect	11750
 Framework B2-AI	7548
 Framework Based	11857
@@ -736,6 +740,7 @@ Framework EHSGs Environmental Health and Safety Guidelines	1988
 Framework ESMF Environmental and Social Management Framework	10829
 Framework ESRS Environmental and Social Review Summary	11560
 Framework EU European Union GDP Gross	6539
+Framework Enforcement	12512
 Framework Established	7548
 Framework FM Financial Management GBV Gender-Based	1867
 Framework Framework	1777
@@ -745,7 +750,7 @@ Framework HPCSA Health Professions Council of South	396
 Framework Híbrido de Gestão de Portfólio	11451
 Framework II	1243
 Framework ISO	11952
-Framework Implementation	4528
+Framework Implementation	4528,7984
 Framework Integration Clause	5665
 Framework Integration Clause Commencement Notwithstanding	5665
 Framework Interchange Format ISO	12360
@@ -756,10 +761,11 @@ Framework Oghenevwede Ohwovoroile	11304
 Framework Outcome of STANDARDS PILLAR GUIDANCE	10721
 Framework PCU Project Coordination Unit PIM	11525
 Framework Review Conduct	12240
+Framework Science and Technology Development. Human Capital	12512
 Framework Structure and Model	5132
 Framework The Bridgforte Trust Architecture Framework	11138
 Framework The IMDRF	8301
-Framework The Monitoring and Evaluation	4528
+Framework The Monitoring and Evaluation	4528,7984
 Framework This M&E	5245
 Framework Through Relational Axes The Framework	11138
 Framework Tier	10721
@@ -822,7 +828,7 @@ Franc	9616,1242,17,647,295,88
 Franc CFA	2342,2344
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,15,111
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164
 France Connect	7981
 France Câbles Radio	7421
 France Figure	11129
@@ -1006,6 +1012,7 @@ Frank Galos	3447
 Frank Grozel	6423
 Frank Hespeler	1828
 Frank Ikpefan	9960
+Frank Johnson Avenue	12515
 Frank Macha	9452
 Frank Matsaert	6344
 Frank Mwiti	4978,3115
@@ -1250,6 +1257,7 @@ IX. RESULTS FRAMEWORK AND MONITORING	10768
 Identification France Secure Electronic Titles File	10714
 Impact Assessment Framework	12214
 Impact Framework DHIMA Digital Health Impact	396
+Implement Monitoring Framework Key Performance Indicators	12508
 Implement Ubuntu-based AI Ethics Framework	4528
 Implementation Framework	21,940,6587,1682,497,1404,862,239
 Implementation Framework Key	12232
@@ -1263,7 +1271,7 @@ Implementation of Logical Framework	1000
 Incident Management Framework	5677
 Incident Management Framework CIRMR-IRP.S2	10721
 Include Open Data Framework and Data	4126
-Inclusive Framework	573,2588,9064
+Inclusive Framework	573,2588,9339
 Increase Digital Regulatory Frameworks Terrestial Television	6946
 Independent Monitoring and Evaluation Framework	11857
 Indicativos de Fraquezas	11569
@@ -1286,7 +1294,7 @@ Institut Géographique National France Internationale	4064
 Institutional Capacity Building Framework	9439
 Institutional Cooperation Framework	5676
 Institutional Cooperation Framework NRAs	5676
-Institutional Framework	958,6590,4021,656,164
+Institutional Framework	958,6590,4021,820,111
 Institutional Framework Kenya	7548
 Institutional Framework Reinforce	10765
 Institutional Framework and Processes	10819
@@ -1358,7 +1366,7 @@ Kenya's Trust Framework. Entities	5325
 Kenya-US Health Cooperation Framework	4583
 Kenya’s Institutional Framework for Digital Transformation	11545
 Kenya’s Unified Licensing Framework	6225
-Key Performance Indicators and Monitoring Framework AI	4528
+Key Performance Indicators and Monitoring Framework AI	4528,7984
 Knight Frank	3937
 Kounbeyaole Francis HIEN	7670
 KwaZulu-Natal Finance MEC Francois Rodgers	11266
@@ -1712,7 +1720,7 @@ Planning Framework LMIC Implementation and Status Results	10964
 Platform Assessment Framework	5700
 Policies and Legal Framework	6432
 Policy Development Framework	11986
-Policy Framework	961,282,5277,1028,2179,1466,31,636,390
+Policy Framework	961,282,5277,1028,2179,1466,31,636,390,262
 Policy Framework Act Empowerment STEE Social	11193
 Policy Framework Act SAMEA South African	11224
 Policy Framework For Education	899
@@ -1834,6 +1842,7 @@ Regulatory Framework for Open Banking	11138
 Regulatory Frameworks	11265
 Regulatory and Legal Frameworks	10841
 Regulatory and Legal Frameworks Equatorial Guinea Equatorial	10841
+Regulatory and Policy Framework Zimbabwe's AI	12512
 Regulatory and Policy Framework Zimbabwe’s AI	4528
 Relevant Continental Frameworks AU Digital Transformation	12055
 Reporting Fraud Each Participant	12364
@@ -1923,12 +1932,12 @@ Satellite Services Licensing Framework Inquiry	6891
 Seamfix COO Frank Atube	4292
 Section IV. D. VII. RESULTS FRAMEWORK	1264
 Sector Framework B- Framework	7548
-Sectoral AI Adoption Framework Agriculture and Food	4528
+Sectoral AI Adoption Framework Agriculture and Food	4528,7984
 Secure Data Sharing Framework	6842
 Security Management Framework	12000
 Security and Cooperation Framework	11210
 Security and Fraud	12182
-Security and Resilience Framework Given	4528
+Security and Resilience Framework Given	4528,7984
 Secção Francisco Queiroz Universidade Angolana	10752
 Segunda Teniente Alférez Alférez de Fragata Comisario	4209
 Segundo Francisco Carvalho	8519
@@ -1990,7 +1999,7 @@ Startup Ecosystem Framework. Available	12376
 State-Owned Entities Monitoring Framework	11224
 Statutory Enabling Framework	3861
 Strategic Framework	1257,9599,1134,409
-Strategic Framework Education and AI Literacy Foundations	4528
+Strategic Framework Education and AI Literacy Foundations	4528,7984
 Strategic Framework M	3604
 Strategic Framework NA Not Applicable NIR	5533
 Strategic Framework NDP National Development Plan	11218
@@ -2005,7 +2014,7 @@ Strengthening the Data Governance and Sharing Framework Bill	1476
 Strengthening the Legal Framework for Research Efforts	1554
 Strong Macro Frameworks Finally	9331
 Sub National Frameworks	12053
-Success Metrics and Evaluation Framework	4528
+Success Metrics and Evaluation Framework	4528,7984
 Sudan Liberia Francophone Africa Cameroon Côte	10793
 Sudan and Liberia. The Francophone Africa	10793
 Support Francophone Open Governments	9022
@@ -2181,8 +2190,8 @@ Zambia Legal Framework	1988
 Zambia Relevant Legal Framework Legislation Interpretation	1988
 Zero-Rated Framework	4856
 Zimbabwe AI Ethics Framework	8483
-Zimbabwe-specific AI Ethics Framework	4528
-Zimbabwe-specific AI Ethics Framework. Pillar	4528
+Zimbabwe-specific AI Ethics Framework	4528,7984
+Zimbabwe-specific AI Ethics Framework. Pillar	4528,7984
 Zone Franche	235
 Zones Franches	5993
 Zones Franches de Djibouti	1287

@@ -1,7 +1,7 @@
 AFP Cases	4217
 AFRIQUE CENTRALE Yves Castanou	10379
 AI Deployment Case Study Analysis	7151
-AI Ombudsman Caseload	4528
+AI Ombudsman Caseload	4528,7984
 AI Readiness and Use Cases Global AI	3859
 AI Use Cases	3859,267
 AI. Case	11607
@@ -198,7 +198,7 @@ Case LLP	9026
 Case Law And Digital Proof	11654
 Case Lines	2307
 Case List	9507,105,1
-Case Management	10776
+Case Management	10776,1715
 Case Management System	5642,3032,304,805,2606
 Case Management System New Digital Platform	6806
 Case Management System PSC Project Steering	1867
@@ -213,7 +213,7 @@ Case Studies	1250,3313,2384,1,203,3701,1504
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,91
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175
 Case Study A ZOOM-IN ON EGYPT	12339
 Case Study Analysis Report	7151
 Case Study Companion	2858
@@ -398,7 +398,7 @@ Cassava R4.5bn	5621
 Cassava SVP	5735
 Cassava Strive Masiyiwa	6250
 Cassava Tech	3947,1788
-Cassava Technologies	242,211,9,133,23,65,1,442,70,71,162,7,33,46,50,71,90,94,23,182,67,515,430,517,7,15,20,351,172,306,36,269,536,31,14,128,182,114,1,1,52,58,317,1,67,18,16,317,10,74,79,45,466,210,1594,2,78,546,1029,450,171
+Cassava Technologies	242,211,9,133,23,65,1,442,70,71,162,7,33,46,50,71,90,94,23,182,67,515,430,517,7,15,20,351,172,306,36,269,536,31,14,128,182,114,1,1,52,58,317,1,67,18,16,317,10,74,79,45,466,210,1594,2,78,546,1029,450,171,1166
 Cassava Technologies Boosts AI-Ready Cloud Infrastructure	7467
 Cassava Technologies DFC Direct	11310
 Cassava Technologies Enhances Secure Cloud Connectivity	7467
@@ -766,7 +766,7 @@ SMART AFRICA USE CASE	10819
 SOUROU TOUGAN CASCADES BANFORA COMOE BANFORA	10847
 ST Digital and Cassava	6580
 STUDY CASES	11228
-Sectoral Adoption and Use Cases	4528
+Sectoral Adoption and Use Cases	4528,7984
 Services Personal Cash Parent Company	12445
 Sim. Caso	12018
 Smart4U’ Bundle Integrated Electronic Case Management	2987,16,13,949,1438,159,1347
@@ -794,7 +794,7 @@ Synthetic Control Methods for Comparative Case Studies	12006
 Sánchez Castillo	2948
 TBD Gas-to-Power Use Case Feasibility Study	12399
 TCLE Democratic Republic of Congo Case Study	11916
-Tax Information and Cash Registration Machine Administration	12225
+Tax Information and Cash Registration Machine Administration	12500
 Taxa de Serviços Casa Cidadão	1340,743,2330
 Technical Use Case	1009
 Technical Use Cases	1009
@@ -853,10 +853,11 @@ Workshops Cases	1009
 World Bank GovTech Case Study	1393
 Yves Castanou	6764,3054,563,162,148
 Yves Castanou. Cette	10543
+ZIPIT Zimbabwe Case Study	12490
 ZUBAH TOWN ROBBERY CASE MOVES FORWARD	10581
-Zambia Digital Health Case Study	12418
-Zambia Digital Health Case Study Electronic	12418
-Zambia Digital Health Case Study Governance	12418
-Zambia Digital Health Case Study MODESTER	12418
+Zambia Digital Health Case Study	12502
+Zambia Digital Health Case Study Electronic	12502
+Zambia Digital Health Case Study Governance	12502
+Zambia Digital Health Case Study MODESTER	12502
 Zimbabwe Digital Health Case Study Page	3385
 Zimbabwe Harmonized Social Cash Transfer Program	11855,69

@@ -1,10 +1,11 @@
-AI Ecosystem Nodes	4528
+AI Ecosystem Nodes	4528,7984
 Audit Trail and Node Audit Trail and Node	1009
 Audit Trail and Node Authentication	1009
 Audit Trail and Node Authentication Clinical Context	1009
 Backup Node	9475
 Compute Node	9475
 Compute Node NVidia GPU	9475
+Current Analysis of Ecosystem Nodes	12512
 EMIS NODE	11860
 Habari Node	1527
 Habari Node Ltd	1527
@@ -29,3 +30,4 @@ Visualization Node	9475
 Vodafone Fiber Connection Node	580
 XMLfilesprovided. Nodirectinteractionwithpatientsoccurred	8606
 Zimbabwe Ecosystem Node	4528
+Zimbabwe Ecosystem Node Key Players	12512

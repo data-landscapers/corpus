@@ -15,7 +15,7 @@ AI Citizen Service Assistant for Smart Local	10347
 AI City Scheme	7845
 AI City Scheme AI City Scheme	7845
 AI City Scheme Certificate	7845
-AI for Citizens	4528
+AI for Citizens	4528,7984
 AI-powered Smart City	12210
 AIR CI	2342
 AKONIBE CIUDAD	4209
@@ -105,7 +105,7 @@ Alaro City	3006,6863,636
 Algumas Intervenções Estratégicas da Política de Ciência	2816
 Aliker. CIPS	3056
 Alioune Ciss	2392
-All CIT	12225
+All CIT	12500
 Allexer Namundjembo The City of Windhoek	8676
 Amadou A. Cisse	9861
 Ameaça Cibernética	6970,4466
@@ -158,7 +158,7 @@ Avaliação Nacional de Risco Cibernético	2784
 Avaliação Nacional de Riscos de Segurança Cibernética	2784
 Avancements Cinquante-neuf	10975
 Avec Citoyens	11091
-Aviación Civil	4209,2632,259,603,1,379,70,401,764
+Aviación Civil	4209,2632,259,603,1,379,70,401,764,3200
 Aviación Civil. En	7100
 Aviation Civile	5103
 Aviation Civile Internationale	11972
@@ -220,7 +220,7 @@ Bobo. CITADEL	2732
 BofA Securities and Citi	7198
 Bookmark Civil	9253
 Borno State. Cisco	8512
-Brain Circulation	4528
+Brain Circulation	4528,7984
 Branch Civic Services	5533,6453
 Bridge Builders Circle	6808
 Budget Citoyen	1272,781,1484
@@ -556,15 +556,15 @@ CISSE Dramane Adm MPPEEP	2342
 CISSE Makhète Effectif	2342
 CISSE Sabati	2342
 CISSP	1939,1,876,1950,899,5783
-CIT DARS African Regional Technical Assistance	12225
-CIT Directive	12225
-CIT PAYE	12225
+CIT DARS African Regional Technical Assistance	12500
+CIT Directive	12500
+CIT PAYE	12500
 CIT Productivity	10997
 CIT Revenue	10997
-CIT and Article	12225
+CIT and Article	12500
 CIT and PIT	10997
 CIT and PIT Revenue	10997
-CIT and VAT	12225
+CIT and VAT	12500
 CIT0001 2057	4432
 CIT0001 2077	2093
 CIT0001 2134	2948
@@ -810,6 +810,7 @@ CONCEPTO NOTARIADO SERVICIOS CIVIL PROPIEDAD MALABO	4209
 CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 CONSERVER LES ARCHIVES D'ETAT CIVIL DELIVRER	3381
 COSTS OF A CIVIL STATUS DOCUMENT	12338
+CPoS-2023-01. More Citation Formats ACS APA	12486
 CR Civil Registry CSU Cadastro Social	10765,10
 CRS Civil Registration Services CRVS Civil	12151
 CRS Civil Registration System	12367
@@ -1013,6 +1014,7 @@ Circular ANNEXURE D1	4896
 Circular C&Ku ARCEP-111021	998
 Circular Directors Transfer Secretaries First Transfer	4896
 Circular Economy	789,11425
+Circular Economy Circular Economy Circular Economy	12493
 Circular Economy Opportunity	12214
 Circular Economy Soil Management Air Quality	4126
 Circular Economy Transition	789
@@ -1073,7 +1075,7 @@ Cisse	9861
 Citable	10969,915,1,10,264,1,45,146
 Citadel Valuers Limited Data Processor INST-36029396413	7167
 Citant	8452,3627
-Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,12,111,186,44,112
+Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112
 Citation Adetayo	9256
 Citation Agence Nationale	7439
 Citation Banque	5740
@@ -1188,7 +1190,7 @@ Citing the African Development Bank	7692
 Citing the SIIPS	4285
 Citing the State of Inclusive Instant Payment Systems	4282
 Citiweb	8339
-Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22
+Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22,44,11
 Citizen Affairs	1616,2,1286,2292,337,5685,67,701
 Citizen Affairs Management	11986
 Citizen App Search	12209
@@ -1249,8 +1251,8 @@ Citizen Participation	11866
 Citizen Platform	10313
 Citizen Portal	3284,2442,706,514,3829
 Citizen SMS Short Message Service UIN	10812
-Citizen Satisfaction	4528
-Citizen Satisfaction Index	4528
+Citizen Satisfaction	4528,7984
+Citizen Satisfaction Index	4528,7984
 Citizen Satisfaction Rate	10709
 Citizen Scandal	5558
 Citizen Science	5246
@@ -1301,7 +1303,7 @@ CitizenApp Data Interoperability System	3250
 CitizenExperience Management	12359
 CitizenLab	9201
 CitizenTVKe	6133
-Citizenry	4528
+Citizenry	4528,7984
 Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80
 Citizens Advice Bureau	11648
 Citizens Benefits	395
@@ -1454,7 +1456,7 @@ Civic	789,1307,2656,781,41,2312,742,359,403,1828,768,228,185
 Civic AI	5551
 Civic Academy for Africa’s Future	10089
 Civic Center	7444
-Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Civic Checks	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Civic DEFENDERS	1566
 Civic Education	11905
 Civic Education Strategy for NRB Figure	12241
@@ -1474,6 +1476,7 @@ Civic Services Signature Dr L	11986
 Civic Services Support	11986
 Civic Services Support Indicator	11986
 Civic Services Support Passports	11986
+Civic Society Guiding	12511
 Civic Space Monitor	9022
 Civic Space Open	12336
 Civic Tech	11867
@@ -1514,7 +1517,7 @@ Civil Identity Document	11872
 Civil Inspector General Servicios	4209
 Civil Liability Insurance	12295
 Civil Liberties	2518
-Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Civil Liberties for Women	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Civil Liberties for Women Absence of Violence	10759
 Civil Liberties for Women. Worst	11887
 Civil M. Somé Alex Directeur Services	10812
@@ -1538,7 +1541,7 @@ Civil Register	2072,10265
 Civil Registrar	12151,177,10,29
 Civil Registrar CRO Civil Registration Officer	12413
 Civil Registrars	12250,88
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46,75
 Civil Registration And Vital Statistics	12413
 Civil Registration And Vital Statistics Technical	12337
 Civil Registration Authority	12367
@@ -1595,7 +1598,7 @@ Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46
 Civil Registration and Vital Statistics Systems	11133,1280
 Civil Registration of Ethiopians	12226
 Civil Registration. Best	12340
-Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37
+Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21
 Civil Registry Act	2106,2151,3387
 Civil Registry Authority	4188
 Civil Registry Department	3247,27,1115,1790
@@ -1635,7 +1638,7 @@ Civil Service and Administrative Modernization	3280
 Civil Service and Vice Chairperson	8371
 Civil Service and Vice-Chair	8371
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59
 Civil Society Alliances for Digital Empowerment	12442
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
@@ -1665,7 +1668,7 @@ Civil Society Organizations Financing	7548
 Civil Society Organizations and Development Partners	11863
 Civil Society Raises Alarm	11677
 Civil Society Self-coordinating Mechanism	5162
-Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
+Civil Society Space	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -1719,7 +1722,7 @@ Civilian Recruitment of TPLF Strains Erupt	3768
 Civilian Secretariat of Police	11188
 Civilian Use of AI	7548
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
-Civilians	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Civilians	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Civilians Absence of Forced Migration Absence of Human	10759,78,1315,188
 Civilians Capacity	10968
 Civilians Rural Representation	10759
@@ -1831,7 +1834,7 @@ Cybersecurity Crisis Management Plan CIRMR-CCMP.S8	10721
 Código Civil	11537,364
 Código Civil. Artigo	11901
 Código de Registo Civil	11363,174,32
-D D CIT and VAT	12225
+D D CIT and VAT	12500
 D.G. DE ASUNTOS CIBERNETICOS Y LABORATORIOS.-	4209
 D.G. DE PROTECCION CIVIL Y EMERGENCIAS.-Concepto	4209
 D.G. DE SEGURIDAD CIUDADANA.- Concepto	4209
@@ -1963,6 +1966,7 @@ District and City Election Commissions	12201
 Djibouti City	183,2496,842,1,11,94,7644
 Djibouti City. Among	11271
 Djibouti City. Flag	3627
+Document Title Citation Relevance Vision	12512
 Documented National CII	1000
 Does the CI	10812
 Domicillium Citandi Et Executandi	12400
@@ -2023,8 +2027,8 @@ English. Cite	8763
 Enhance City Living MTN Nigeria	2563
 Entreprise CITI	10874
 Enugu Talent City and Artificial Intelligence	8973,1335
-Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Equal Civil Liberties Accountability	10835,3,130,902,16,466,1
+Equal Civil Liberties	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Equal Civil Liberties Accountability	10835,3,130,902,16,466,1,135
 Equal Civil Liberties Equal Socioeconomic Opportunity	10837,1315,188
 Escuela de Aviación Civil	4209
 Espaço Cibernético	6970
@@ -2230,7 +2234,7 @@ IMD Smart City Index	9206
 IMMIGRATION AND CITIZEN SERVICES	12165
 INCIDENTES DE CIBERSEGURANÇA	11397
 INFORMATION CIRCULAR	8590
-INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1
+INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1,135
 INR26RMA002. Cite	6483
 INSERT CITY NAME	4049
 INSPECCION GRAL. POLICIA CIENTIF. E INVESTIG.-	4209
@@ -2689,7 +2693,7 @@ Office of Civil Status and Identification	3604
 Officers of Civil	12226
 Official Citation and Designation	3861
 Oman’s Future Cities Company	8592
-On-time Filing of CIT Declarations for Financial Year	12225
+On-time Filing of CIT Declarations for Financial Year	12500
 Ong Je Suis Citoyen Béninois	6217
 Op Cit	8891
 Op. Cit	8891
@@ -2917,7 +2921,7 @@ Rights for South African Citizens	11896
 Riscos Cibernéticos	2784
 Risk Assessment Report CIRMR-RM.S2 CIRMR-RM	10721
 Role of Civil Society	11028
-Role of Civil Society Civil	4528
+Role of Civil Society Civil	4528,7984
 Route Overberg Overberg City of Cape Town	8999
 Rwanda Civil Registration Vital Statistics Booklet	12471
 Rwanda Civil Society Platform	12333
@@ -3069,7 +3073,7 @@ Sofala and Maputo City	12201
 Solo Plano Diretor da Cidade	11898
 Solomon Islands Civil Registry	10714
 Soroti City	5109
-Soul Citizens	4528
+Soul Citizens	4528,7984
 South Africa Citation Mafunzwaini	7759
 South Africa Citation Samusodza	8130
 South Africa Citation Shekgola	8021
@@ -3081,6 +3085,7 @@ South Sudan Civil Aviation Authority and China	261
 South Sudan's Directorate of Civil Registry	4635
 South Sudan. City Council	3132
 Southern Civil Society Wants	6960
+Special Circumstances Taxpayers	12509
 Spon's Civil Engineering and Highway Works Price	3583
 Standard Bank Group and Citi. Leverages Sun	1137
 Starlink Network CIV	3755,120,1,2365,404,1313,173
@@ -3110,6 +3115,7 @@ Suggested Citation	6545
 Suggested Citation Health Data Governance Principles	12143
 Summary of BofA and Citi Discussion Materials	7198
 Sun City	9681,956
+Support CITE	12514
 Survival Minimum Expenditure Basket Civil Protection	10763
 Sustainable Cities	789,1729
 Sustainable Cities Equal	12457
@@ -3207,7 +3213,7 @@ VIVO ENERGY CI	2342
 VRR Card Civil Registry	10714
 VRR Somalia Civil Registry	10714
 VU La Circulaire	4420,147
-Vancouver Download Citation Endnote	12467
+Vancouver Download Citation Endnote	12467,19
 Vanuatu Civic Identification	10714
 Voller CIPC Commissioner	11250
 Voting Card Mozambique Myanmar Civil Registry	10714
@@ -3244,4 +3250,5 @@ Zealand Civil Registry	10714
 Zim Cyber City	8943
 Zimbabwe's Cyber City	8943
 Zimbabwe. Good Governance and Citizens’ Rights EURO	970
+Zimbabwean Citizens	12496
 Zomba City	12291

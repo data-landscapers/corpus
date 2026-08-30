@@ -173,7 +173,7 @@ Fixed and Mobile Tariffs	6946
 Fuel Mix Target	12399
 G RAN. Targeted	1818
 G Rollout Target NCC	11857
-GDP Contribution of Target Sectors	4528
+GDP Contribution of Target Sectors	4528,7984
 GWAN NATIONAL TARGET	12453
 Gambia Time Bound Measurable Target	1000
 General Tariff	9409
@@ -312,6 +312,7 @@ Retail Tariffs for Mobile and Fixed Telephone Service	718
 Revenue Target Ethio	3487
 Review and Approve Bulk Electricity Tariffs	12320
 Review and Approve Retail Electricity Tariffs	12320
+Roll-Out and Implementation of TaRMS	12509
 S-Year Baseline Taraet Deteetion S	4301
 SAIFI Benchmark EPRA Target Figure	12256
 SDG Target	10714,1689
@@ -353,6 +354,7 @@ TARIFAS INTERNACIONAIS	11531
 TARIFAS MEDIA GLOBAL PRATICADAS	11531
 TARIFAS MÉDIAS DE CHAMADAS INTERNACIONAIS	11531
 TARIFF	11259
+TARMS	12509
 TARS. The Committee	11289
 TARURA	6019
 TR-1 Taraba North East	11857
@@ -362,8 +364,15 @@ TR-4 Taraba North East	11857
 TR-5 Taraba North East	11857
 TR-6 Taraba North East	11857
 TVET Target	789
-TaRMS	9253
+TaRMS	9253,3238,18
+TaRMS Production	12491
+TaRMS Release	12491
+TaRMS SSP The TaRMS Self Service	12509
 TaRMS Self-Service Portal	4449
+TaRMS Upgrade	12509
+TaRMS VAT Returns Module	12509
+TaRMS and FDMS	12509
+TaRMS. Public Notice	12491
 Tanzania’s State Telecom Targets	6083
 Tara Brady	5735,1,1
 Tara Tarakiyee	12088
@@ -436,12 +445,12 @@ Targeted Free Healthcare Policy. The World	10829
 Targeted Free Healthcare and PBF	10829
 Targeted ICT	958
 Targeted Investment	3861,3075
-Targeted Investment Promotion	4528
+Targeted Investment Promotion	4528,7984
 Targeted Public Institutions	3604
 Targeted RI Achievement Rating Change PDO1	10779
 Targeted Review for Q2 Targeted Life Certifications	8999
 Targeted Rights Initiative	9082
-Targeted Scholarships	4528
+Targeted Scholarships	4528,7984
 Targeted and Purpose-Limited Access	6748
 Targeted and Responsible Savings	11289
 Targeting	2799,1841,1411,897,2947,559,277,471,323,47,283,50,253,170,7,64

@@ -58,10 +58,11 @@ Angola's National Artificial Intelligence Strategy	11483
 Aplicação de Inteligência Artificial	2816
 Arab National Strategies for Artificial Intelligence	2958
 Arab Scientific Research and Artificial Intelligence Ethics	2958
+Area AI Artificial Intelligence AI4D AI	12512
 Artif. Intell	11585
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,19,1,3,41
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
@@ -133,7 +134,7 @@ Artificial Intelligence Revolution	2816
 Artificial Intelligence Safety Law	3364
 Artificial Intelligence Sphere	5104
 Artificial Intelligence Strategist Menzi Khumalo	11667
-Artificial Intelligence Strategy	4528,1522,5085
+Artificial Intelligence Strategy	4528,1522,5085,1377
 Artificial Intelligence Strategy Implementation Office	3760
 Artificial Intelligence System Lifecycle	2958
 Artificial Intelligence Systems	2958
@@ -430,6 +431,7 @@ Executive Summary The National Artificial Intelligence	12356
 Explainable Artificial Intelligence	2958
 Exploring the Impacts of Artificial Intelligence	11927
 Federal Government’s Artificial Intelligence Strategy AI	11135
+Federal Republic of Artificial Intelligence	12512
 Financial Intelli-	6938
 Financial Intelligence	11960
 Financial Intelligence Act	3445,269,1973,1704,773,4201,9,73
@@ -603,10 +605,10 @@ InteligênciaArtificial	9846
 Intelizência	539
 Intellect	11028
 Intellectua	1009
-Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123,555,26,334,1,10,264,1,44,1,146,4,41,64,23
+Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123,555,26,334,1,10,264,1,44,1,146,4,41,64,23,4,25
 Intellectual Barrier	11180
 Intellectual Disabilities	2518
-Intellectual Property	1243,571,5146,2330,3066
+Intellectual Property	1243,571,5146,2330,3066,135
 Intellectual Property Act	3714
 Intellectual Property Institute	11550
 Intellectual Property Intricom Resources S.L	8530
@@ -623,7 +625,7 @@ Intellectual Property and Benefit Sharing	1554
 Intellectual Property and Consumers Acts	12210
 Intellexa	5211
 IntelliSOFT-Consulting	10031,69
-Intelligence	1000,785,311,257,14,12,8,26,5,24,1,103,270,40,19,83,180,64,67,151,45,193,66,101,54,114,36,4,44,451,79,64,13,98,51,382,29,238,70,47,146,337,193,145,12,82,79,108,131,251,141,55,14,13,13,35,105,29,13,47,90,46,383,202,236,228,143,204,207,55,57,142,705,133,2,162,72,76,372,24,48,16,126,667,124,37,251,97
+Intelligence	1000,785,311,257,14,12,8,26,5,24,1,103,270,40,19,83,180,64,67,151,45,193,66,101,54,114,36,4,44,451,79,64,13,98,51,382,29,238,70,47,146,337,193,145,12,82,79,108,131,251,141,55,14,13,13,35,105,29,13,47,90,46,383,202,236,228,143,204,207,55,57,142,705,133,2,162,72,76,372,24,48,16,126,667,124,37,251,97,59
 Intelligence AI for Development AI Strategy Implementation	4528
 Intelligence Age	8692
 Intelligence Agencies and Revenue Agencies	789
@@ -662,7 +664,7 @@ Intelligence. Besides South Africa	5628
 Intelligence. Dans	7032
 IntelligenceThe Acting Director General	11277
 Intelligensiedienste	11190
-Intelligent	395,3502,161,470,35,3459,1101,1822,918
+Intelligent	395,3502,161,470,35,3459,1101,1822,918,649
 Intelligent Card Production Systems	84,2637,1956,114,6031
 Intelligent Collaboration	3511
 Intelligent Command System	259
@@ -796,7 +798,8 @@ National Artificial Intelligence Regulatory Sandbox	3760
 National Artificial Intelligence Research Laboratory	1787,1417,3881
 National Artificial Intelligence Roadmap	6707
 National Artificial Intelligence Strategies	2958
-National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1,812,51,563,629
+National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1,812,51,563,629,156
+National Artificial Intelligence Strategy NDS1 National	12512
 National Artificial Intelligence Strategy. Abuja	11138
 National Artificial Intelligence Strategy. Cooperation	10510
 National Artificial Intelligence Strategy. Malawi	3643
@@ -942,7 +945,7 @@ Sistema de Business Intelligence	11898
 Sistema de Gestão de Inteligência Artificial	2816
 Sistema de Gestão de Inteligência Artificial Em	2816
 Sistema de Gestão de Inteligência Artificial SLM	2816
-Sistemas de Inteligencia Artificial	1855,1639,715,2632,259
+Sistemas de Inteligencia Artificial	1855,1639,715,2632,259,5418
 Sistemas de Inteligencia Artificial Excelentísimo	1855
 Sizing the Prize. PwC’s Global Artificial Intelligence	1814
 Skye Africa Intelligence	8907
@@ -997,6 +1000,7 @@ Teclados Inteligentes	2816
 Telecommunications and Artificial Intelligence Systems	2980,1323,698,144
 Theatre Festival Unveils Intellectual Program... Saber	7322
 Theory of Multiple Intelligences. Gartner	2816
+Things IP Intellectual Property IT Information	12512
 Things IP Intellectual Property KEBS Kenya	7548
 Threat Intelligence	1940,8781
 Threat Intelligence Platforms	11231
@@ -1007,6 +1011,7 @@ Through Intelligent Card Production Systems	4677
 Trade Agreement AI Artificial Intelligence APEC	1243
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
+Transitioning Intellectual Copyright	12512
 Truly Risk Based Regulation of Artificial Intelligence	11140
 Trusted Artificial Intelligence	1814
 Trustworthy Development and Use of Artificial Intelligence	11135
@@ -1026,6 +1031,7 @@ Uso da Inteligência Artificial	2816
 Uso de Inteligência Artificial	2816
 VIOLENT SOCIETAL CONFLICTS AND INTELLIGENCE MEASURE	11277
 Vodafone Intelligent Solutions	11162
+W IPO Intellectual Property Statistics	12487
 WFuonrdld Intellectual Property Organization	11885
 WIPO Intellectual Property	11885
 WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4
@@ -1037,7 +1043,7 @@ World Artificial Intelligence Cooperation Organisation	9938,601
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147
 World Intellectual Property	11550
 World Intellectual Property Organisation	961
-World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21
+World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111
 World Intellectual Property Organization Copyright Treaty	11550
 Xhosa. Ethiopia’s Artificial Intelligence Institute	3622
 YoY. GSMA Intelligence	2500,1414
@@ -1051,6 +1057,7 @@ Zambia. Liquid Intelligent Technologies	1843
 Zambia’s National Artificial Intelligence	12356
 Zambia’s National Artificial Intelligence Strategy	12356
 Zayed University of Artificial Intelligence	6411,3533
-Zimbabwe National Artificial Intelligence	4528
+Zimbabwe National Artificial Intelligence	4528,7984
 Zimbabwe National Artificial Intelligence Strategy	3760,632,994,614,793
+Zimbabwe's National Artificial Intelligence Strategy	12512
 Zimbabwe’s National Artificial Intelligence Strategy	4528,4177,325

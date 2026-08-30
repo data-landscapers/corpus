@@ -10,6 +10,7 @@ Abdoul Kader Ky. Selon M. Ky	8808
 Abidjan-Cocody. Selon	10917
 Aboubacar Nacanabo. Selon	1918
 Absence of Online Selling Bans	12389
+Accessing FDMS Self Service Portal	12509
 Adj Chn Selectivity	736
 Administrateur Délégué. Selon	2327
 Afrique. Selon	6082
@@ -65,7 +66,7 @@ Corporate Social Responsibility Kathieno B Self	6946
 Cotonou. Selon le Directeur Général	10824
 Country Selection Approach South Africa	8301
 Create Opportunities for Self-Service	12419
-Cultural and Social Self-Determination The National AI	4528
+Cultural and Social Self-Determination The National AI	4528,7984
 DECISION FRAMEWORK Selecting	6432
 DENTAL SELECT Data Controller INST-2558846C20C MOMBASA	7167
 DES ELEVES SELON LA PROFESSION DES	10847
@@ -114,6 +115,7 @@ Exploring the Adoption of Selected Digital Technologies	11140
 F CFA. Selon	4341
 F Selon	6959
 FCFA. Selon	1918
+FDMS Self Service Portal	12509
 FIRMS SELECTION	9603,1,2146
 FOGEC. Selon Laurent Munzemba	4893
 Facebook. Selon	9979
@@ -232,6 +234,7 @@ Productivité du Millennium Challenge Corporation. Selon M	10925
 Progress of Selected Major Roadworks	2775
 Projected Population of Selected Age-groups	12151
 Projet WURI. Selon	9668
+Provision for Invoice Apportionment and Selection	12509
 Public Private Partnership Selection	5903
 Pétrole. Selon	10402
 Quality Cost Based Selection	11825
@@ -315,7 +318,7 @@ Selec	3972
 Seleccionar	2816,6625
 Seleccione	10753
 Selecionar	12018
-Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61,116,143,10,184,295,112,118,238,110,15
+Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61,116,143,10,184,295,112,118,238,110,15,139,14
 Select College	8671
 Select Committee	11285,4
 Select Committees	11230
@@ -325,6 +328,7 @@ Select MDAs	6539
 Select Macroeconomic Indicators	11469
 Select Manage Groups	11298
 Select Option	11343
+Select Search Criteria Owner Name Property	12511
 Select Service	6783
 Select Service Register	12454
 Select Social Sectors Health	3604
@@ -342,6 +346,7 @@ Selected Age-group	12151
 Selected Agro-Sub-	1988
 Selected Aviation Industry Indicators	2775
 Selected Aviation Industry Indicators Postal Services	2775
+Selected Banks Tax Agent Module Release	12491
 Selected Categories of Commodities	2775
 Selected Countries	2775
 Selected Currencies	2775
@@ -350,6 +355,7 @@ Selected Decision-Making	2775
 Selected EPZ Garment	2775
 Selected EPZ Performance Indicators	2775
 Selected Essays	2096
+Selected Government Ministries	12491
 Selected Integrated Pest Management	1988
 Selected Issues	1828,2,37,10509
 Selected Issues Paper	1828
@@ -414,12 +420,13 @@ Self Assessment Questionnaire Automation of Air Cargo	12454
 Self Funded	1207,1,925,1,3,15,58,19,6,289,83,1861,1,51
 Self Help Africa	9198
 Self Help Groups	10313
+Self Registration Self	12496
 Self Reliance	10841
 Self Service	11939
-Self-	12297
+Self-	12297,215
 Self- Generated Sexual Content	12459
 Self-Assessment	12052
-Self-Assessment Return	12324
+Self-Assessment Return	12484
 Self-Assessment for Period Please	12364
 Self-Awareness	5678
 Self-Built FTTH Offerings	11259
@@ -438,6 +445,7 @@ Self-Reliance for Refugees	12297
 Self-Reliance-	10864
 Self-Reporting Evidence Portal	2445
 Self-Reporting Tool	2445
+Self-Service Portal	12509
 Self-Sufficiency Ratio	2775
 Self-analysis ITAP Data	11916
 Self-asserted	10775
@@ -496,7 +504,7 @@ Selma Nghinamanu	12478
 Selo Lei	12018
 Selo de Identificação	11369
 Selom Komi KLASSOU	436
-Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13,71,10,161,1,23,146,234,3,16,4,12,57,31,64,31,28,10,17,25,3,52,20,13
+Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13,71,10,161,1,23,146,234,3,16,4,12,57,31,64,31,28,10,17,25,3,52,20,13,410
 Selon Aboubakar Nacanabo	4550
 Selon Agnès Kabore	10817
 Selon Albert Ndinabé	5856
@@ -635,6 +643,7 @@ Selon le Secrétaire	8313
 Selon le Secrétariat	7729
 Selon le World Population Review	4325
 Selorm Adadevoh	6563
+Selukwe Shabani Shamva Sipolilo Umtali Umzingwane	12511
 Selwyn	8602
 Selwyn Market Street P.O. Box GP	3386
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031
@@ -655,8 +664,10 @@ Summary of Select Recommendations	10841
 Susan Sellars	11156
 System Cape Verdean Women's Self-Promotion Association	11855
 TAYE ATSKE SELASSIE PRESIDENT	7538,4688
+TaRMS SSP The TaRMS Self Service	12509
 TaRMS Self-Service Portal	4449
 Tasa Selectiva	4209
+Tax Submission History Select	12497
 Taye Atske Selassie	4864,2674
 Tchad. Selon	7866,751
 Tech Nigeria Launches AI Chatbot and Self-Reporting	2445

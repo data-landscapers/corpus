@@ -93,7 +93,7 @@ DETERMINATION OF RESIDENCE Foreign Employments	11976
 DETERMINATION ON STANDARDS FOR FEES	12447
 DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73
 DETERMINED	3861
-DETERMINING THE FATE OF PAYMENTS SECTION	12324
+DETERMINING THE FATE OF PAYMENTS SECTION	12484
 DFIL. Details	10768
 DIGITAL HEALTH SOLUTION DETAILS	2709
 DPP Details	12058
@@ -110,7 +110,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,230,63,40,9,19,2,16,15,11,13,32
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -120,8 +120,8 @@ Detailed Gescmotice	3972
 Detailed Implementation Plan	4349
 Detailed Project	11855
 Detailed Quarterly Dashboard Progress	11236
-Detailed Risk Analysis and Mitigation Strategies. National	4528
-Detailed Roles and Responsibilities for AISIO Leadership	4528
+Detailed Risk Analysis and Mitigation Strategies. National	4528,7984
+Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
 Detailed STG and GEA	11916
 Detailed Sector Analyses	2957
 Detailed Urban Planning Plans	10930
@@ -154,7 +154,7 @@ Detect	1777,2483,1416,5045,696
 Detect Financial Fraud	6549
 Detectar	2816,1402
 Detected	4610,7757
-Detecting	315,5218,1172,3013,410,593,1504
+Detecting	315,5218,1172,3013,410,593,1779
 Detection	5132,401,2257,814,2117,510,38,717
 Detection Process	10721
 Detection Process CIRMR-DP.S1	10721
@@ -179,13 +179,13 @@ Detention	4531,6646,527
 Deter	11520
 Detergentes	4209
 Deteriorated	5679
-Deterioration	1828,9007,3,130,902,16,466,1
+Deterioration	1828,9007,3,130,902,16,466,1,135
 Deterioration Angola	10759
 Deterioration Bouncing Back Not Classified	10837,1503
 Deterioration Characteristic Score	10759
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3,130,918,466,1
+Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837,1503
 Deterioration Overall Governance	10968,902
@@ -282,9 +282,9 @@ IV. DETAILED CHANGE	1228,1245,2180
 Identify Protect Detect Respond Recover All	6423
 Impact. Detailed	6100
 Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
-Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1
+Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1,135
 Improvement No Change Increasing Deterioration Slowing	10837,1503
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1,135
 Improving the Detection	11417
 Inadequate Incident Detection and Response Capabilities	5677
 Incident Coordination Determining	775
@@ -292,7 +292,7 @@ Inclusive Obj. Objective Details No	1818
 Increasing Deterioration	10759,1128,1,1,264,1,9,178
 Increasing Deterioration Angola	10759
 Increasing Deterioration Score	10837,1315,188
-Increasing Deterioration Security	10835,3,1048,466,1
+Increasing Deterioration Security	10835,3,1048,466,1,135
 Increasing Deterioration. Accountability	11888
 Increasing Deterioration. Participation	11888
 Increasing Deterioration. Rights	11888
@@ -382,6 +382,7 @@ Programa de Determinante de Doenças Crónicas	10188
 Programme Details Programme	11314
 Project Details	12197
 Projection Details Reasons	2473,2180
+Property Card View Property Details About	12511
 Protection Customer Support Description Detailed	5676
 Public Online Availability of Detailed Criteria and Steps	12389
 Publicity and Deterrence	3861
@@ -431,8 +432,8 @@ Slowing Deterioration. Infrastructure	11888
 Slowing Deterioration. Public Administration	11888
 Slowing Deterioration. Rule of Law	11888
 Slowing Deterioration. Security	11888
-Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1,135
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1,135
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Station Details MAIN Station	736
 Statistics and Research. Details	12151
@@ -451,13 +452,14 @@ Tables A.1 Details	10977
 Tanzania and Uganda. Explore Firm Details South	6683
 Taxpayer Details	11276
 Title Details Update	12333
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
 Trend Increasing Deterioration Accountability	12341
 Trend Increasing Deterioration Public Administration	12341
 Trend Increasing Deterioration Women's Equality	12341
 Trend Slowing Deterioration Inclusion	12341
 Trend Slowing Deterioration Rights	12341
 Trend Slowing Deterioration Rule of Law	12341
+Trends and Determinants of Birth Registration Completeness	12486
 Trust Event Details	10707
 Uganda Determination	5113
 V. Dette	6896
@@ -468,7 +470,7 @@ Very Early Smoke Detection Apparatus	593,11660
 Victoria Falls and Dete	1554
 WIA Supported Media Size Details ADF	34
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1
+Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1,135
 Water Leakage Detection	593
 Weitere Details	9062
 WhatsApp. Determination	5113

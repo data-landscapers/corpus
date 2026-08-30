@@ -70,10 +70,11 @@ Back Ratio I Certify	736
 Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46
 Birth Certificate Access Changes Lives	12227
 Birth Certificate Online	6783
-Birth Certificates	445,3812,6518,1516,37,9
+Birth Certificates	445,3812,6518,1516,37,9,159
 Birth Registration and Birth Certificates Currently	12328
 Birth Registration and Certificates Figure	10765
 Birth Registration and Certificates for Children Under Age	10765,10
+Birth and Death Certificate Registration Requirements	12496
 Build and Certify	7921
 Business Registration Certificate	12323
 Bénin. Certaines	3361
@@ -336,7 +337,7 @@ CertificateKenya.jpg	12138
 Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
-Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108
+Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132
 Certificates of Competency	8639
 Certificates of Customary Ownership	1391,8336
 Certificates of Deposits	4680
@@ -374,7 +375,7 @@ Certification-leading	3299
 Certification. PCI-DSS	2350
 Certifications	6432,5524,329
 Certifications Internationales	6163
-Certifications Issued	4528
+Certifications Issued	4528,7984
 Certificats	5899,4977
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045
@@ -437,6 +438,7 @@ Compliance Audit Returns Certificate	11956
 Compliance and Certification	4791
 Comprehensive Agriculture Trade Programme. Certain	8550
 Computer Security Incident Response Team CERT	1000
+Condition for Issuing Tax Clearance Certificate	12509
 Conformance Assessment and Conformance Certification	1009
 Constituency Sectorial CERTS	775
 Contingent Emergency Response Component CERC Country	11417
@@ -470,7 +472,8 @@ Data Center Certification	1264
 Data Center Certification Compliance	12214
 Data Protection Compliance Certificate	12323
 Death Certificate	12217,74
-Death Certificates	11282,1009
+Death Certificates	11282,1009,205
+Death Certificates Personal	12496
 Demonstrated Global Capacity Certificate	10975
 Des Certificats Nationaux de Transhumance	3396
 Device Certification Guidelines	3934
@@ -493,6 +496,7 @@ Distribution List for Notifications CERT-GH	775
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
 Driver Certification	12256
+Duplicate Death Certificates	12496
 Délivrer des Certificats	10876
 E CERTIFICADORA	11397
 E-CSP Electronic Certification Service Provider EMDE	6946
@@ -521,6 +525,7 @@ Establish Certification	1000
 European Cybersecurity Certification Framework	3787
 Exemption Certificate	12282
 Exorbitant Data Protection Certification Fees Threaten	11677
+External Birth Certificates	12496
 Fabio Cerone	2984
 Fire Certificate	1988
 Firearm Certificate Scam	7312
@@ -566,6 +571,7 @@ IX. RESULTATS DU CERTIFICAT D'ETUDES PRIMAIRES	10847
 Implementation of Medical Certification of Cause of Death	12338
 Import Duty Exemption Certificate	11866
 Inhambane and Zambezia. The CERC Manual and Emergency	1228
+Initial Birth Certificates	12496
 Institut Cerco International	8162
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
@@ -645,6 +651,7 @@ Nature of Business Certificate of Incorp Contact Person	736
 Nigeria Begins Sovereign Cloud Certification	10424
 Nigeria’s Root Certification Authority	9880
 Nokia and Cerillion	2235
+Non-Citizen Birth Certificates	12496
 Number of Certificate of Naturalisation	12410
 Number of Issued Certificates	12256
 O Certificado	10750,1,1560
@@ -743,6 +750,7 @@ Security Certifications	6432
 Security Emerging C- Certified	7548
 Security of Data Centres Certifications	6432
 SeyID and CertExpress	1882
+Shortages of Birth Certificates and ID Papers	12514
 Sistema de Certificação Digital de Moçambique	795
 Smart Africa CERT	10819
 Sobre Ejercicios Cerrados	4209
@@ -765,9 +773,9 @@ TEUT and CERPIT. This Competitive	9129
 TH E UE PUBLIQ SOPIE CERTIFIEE	10974
 TRANSITIONAL PERIOD FOR CERTAIN STATE PARTIES	1243
 Targeted Review for Q2 Targeted Life Certifications	8999
-Tax Clearance Certificate	5247,4532,285,343,221
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673
+Tax Clearance Certificates	9779,2673,57
 Tax Compliance Certificate	10064,2233
 Tax Compliance Certiﬁcate	2709
 Taxa de Certidão de Quitação	11532

@@ -48,7 +48,7 @@ D.C. Greene	1828
 Darelle van Greunen	10323
 Dark Grey	34
 Department of State Senior Advisor for Space Greg	6897
-Deployment of Green AI Models	4528
+Deployment of Green AI Models	4528,7984
 Deposit Protection Fund CBE Greening	11134
 Design for Greater Efficiencies	1264,2340,7813
 Design for Greater Efficiencies EDGE Financial Management	11417
@@ -137,7 +137,7 @@ Great AI Race	7548
 Great Adventures	3264
 Great American AI Act	8788
 Great Britain	12369
-Great Britain and North Ireland	12225
+Great Britain and North Ireland	12500
 Great Britain and Northern Ireland United Nations	11765
 Great Data Race Beneath the Oceans	4676
 Great Firewall	4514,728
@@ -155,10 +155,10 @@ Great Regulator	2776
 Great Reset	7242
 Great Rift Valley	12138
 Great Transformation	5700
-Great Zimbabwe University	4528
+Great Zimbabwe University	4528,7984
 Great. Uh	7065
 Great. Um	7065
-Greater	1284,544,1558,1061,755,283,68,735,403,593,1152,767,34,258,114,51,11,12,340,65,674,2,213,159,88,132,216,113,188,455,83
+Greater	1284,544,1558,1061,755,283,68,735,403,593,1152,767,34,258,114,51,11,12,340,65,674,2,213,159,88,132,216,113,188,455,83,88
 Greater Abidjan	10937
 Greater Abidjan Port-City Integration Project	7430
 Greater Abidjan and Assinie	10937
@@ -196,8 +196,8 @@ Greece’s Vouliwatch	11006
 Greed... Dishonesty	10
 Greek	4432,784,5045
 Greeley	12188
-Green	643,146,181,294,20,181,353,320,204,2905,286,58,109,1238,340,1127,199,395,64,190,1060,455,94,364,106,137,205,291,227,18,234
-Green AI	4528,1270,1750,495
+Green	643,146,181,294,20,181,353,320,204,2905,286,58,109,1238,340,1127,199,395,64,190,1060,455,94,364,106,137,205,291,227,18,234,68
+Green AI	4528,1270,1750,495,4469
 Green AI and Digital Regulations NEMA	7548
 Green Agriculture	970
 Green Amayaga II	8674
@@ -385,6 +385,7 @@ IMPACTS Additional Greater Economic	12006
 INCLUSIVE GREEN GROWTH	11586
 ITU Green ICT	3604
 Igniting Namibia’s Green Hydrogen Dream	12357
+Impact Hub. Great	12493
 Inclusive Green Transition	10985
 Income GRID Green	1264
 Innovators GreenTech	11345

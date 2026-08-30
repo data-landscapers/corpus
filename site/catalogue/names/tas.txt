@@ -11,7 +11,7 @@ Approval Task Team Leader	12412,14
 Artificial Intelligence Taskforce	12210
 Artificial Intelligence Taskforce Report	12210
 Assessment Policy Statements Practical Assessment Tasks	11241
-Assurance Review TASS Performance Assessment Report	12225
+Assurance Review TASS Performance Assessment Report	12500
 Automation and New Tasks	11140
 BEAC Task Force Secretariat	6938
 CSIRT NCC Technical Task Secured Q2	1777
@@ -120,7 +120,7 @@ SADC Anti-money Laundering Task Team	6720
 SADC SR-CIRT Task Force	5780
 SADC2 and COMESA3 the Financial Action Task Force	12444
 SIGTAS and TAS	10550
-SIGTAS and TASS	12225
+SIGTAS and TASS	12500
 SUPERVISION A. TASK TEAM MEMBERS Role	11924
 Scherezad Joya Monami Latif Task Team	11905
 Skills Mix Required Number of Trips Task	10964
@@ -153,7 +153,7 @@ Tasas de Peajes	4209
 Tasdemir	9237
 Tashinga Ryan Manunure	12478
 Task Cybersecurity Council. Force	1777
-Task Force	1777,37,812,1235,242,425,508,193,2918,4190
+Task Force	1777,37,812,1235,242,425,508,193,2918,4190,175
 Task Force Name	11129
 Task Force for Global Health	4782
 Task Incident Response Unit	1777
@@ -179,7 +179,7 @@ Taskforce	961,7089,2902,1258,31,80
 Taskforce Coordinator	1243
 Taskforce Members	1243
 Taskforce Secretariat	12321
-Tasks	1333,3195,1000,5606,181,554
+Tasks	1333,3195,1000,5606,181,554,643
 Tasks and Deliverables	11941
 Tasks and Position of Data Protection Officers	6608,4976
 Tasneem Ahmed	10246

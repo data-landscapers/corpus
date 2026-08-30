@@ -111,8 +111,8 @@ Plutôt	2384,1167,1608,194,1474,132,324,372,2923,485,445,291
 Plutôt Très Ne	6959
 Pluvial Flooding Risk	10964
 Pluviométrie	2342
-Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
-Political Pluralism Security	10835,3,130,902,16,466,1
+Political Pluralism	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
+Political Pluralism Security	10835,3,130,902,16,466,1,135
 Powertel Plumtree	7036
 ProEnergia Plus	2989
 Programa Plurianual de Investimento Público	10783

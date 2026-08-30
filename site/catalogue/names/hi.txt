@@ -152,7 +152,8 @@ Central Bank Governor Abdinasir Ahmed Hirsi	11755
 Central Hidroeléctrica de Djibloho II	4209
 Central Hidroeléctrica de Sendje	4209
 Central Highway	3386
-Centre for High Performance Computing	4528,4598,1680
+Centre for High Performance Computing	4528,4598,1680,1706
+Centre for High Performance Computing ZIMSTAT Zimbabwe	12512
 Centre for High Performance Computing Zimbabwe National	4528
 Centre for High Performance Computing’s Lengau	10889
 Centre for High-Performance Computing	10889
@@ -190,6 +191,7 @@ Criminal History Record	12389
 Cs High	12253
 Cultural Organization WASH United Nations High	11905
 Culture and Higher Education	10116
+Cyber and Data for Higher and Tertiary Education. Harare	12512
 Código de Hiroshima	2816
 D.G. DE HIDROCARBUROS	4209
 D.G. OBRAS HIDRAULICAS	4209
@@ -275,7 +277,7 @@ Eswatini and Mexico. Chapel Hill	771
 Eswatini. High Commission Mbabane	688
 Eswatini. International and Regional Meetings High	11131
 Ethiopia Highlights Digital Transformation	10516
-Ethiopian High Court. Based	12225
+Ethiopian High Court. Based	12500
 Europe Eastern Europe Nicosia Very High	10840
 Europe Southern Europe Abidjan Very High	10840
 European Commission and High Representative	11155
@@ -465,7 +467,7 @@ HIV Next-Generation Treatment Accelerating	4167
 HIV Program	4301
 HIV Protein-energy	12413
 HIV Services Integration The U.S. Government	4167
-HIV SmartCare	12418
+HIV SmartCare	12502
 HIV Surveillance	396
 HIV TB	4301
 HIV Tests	4260
@@ -755,7 +757,7 @@ High-Level Assessment of Identity Management System	3781
 High-Level Business Forum The Ministry of International	5086
 High-Level Consultative Conference	8006
 High-Level Data Sharing Process Overview	3815
-High-Level Engagements	4528
+High-Level Engagements	4528,7984
 High-Level Expert Group	11050,106
 High-Level Meeting	5881,2081
 High-Level Model of Influential Factors	5349
@@ -774,7 +776,7 @@ High-Level Summary of Enabling Factors Assessed	11907
 High-Level Task Force	5044,2198
 High-Level Technical Committee Meeting	7020
 High-Margin Credit Lending	5869
-High-Performance Computing	2816,1712,875,2145,4808
+High-Performance Computing	2816,1712,875,2145,4808,156
 High-Performance Computing Center Project	51,134
 High-Performance Computing Centre	3561
 High-Performance Computing and Data Processing Centre	2117
@@ -791,7 +793,7 @@ High-Speed Limited	6946
 High-Throughput Communication Satellites	10699
 High-Touch	12017
 High-Value Coverage Areas	7368
-High-Value Job Creation	4528
+High-Value Job Creation	4528,7984
 High-adoption	11140
 High-availability	11952
 High-band	5675
@@ -833,13 +835,13 @@ High-res	12457
 High-resistance	9123
 High-resolution	12006
 High-resolution Used	12006
-High-risk	4848,2700,753,2834,1090,72
+High-risk	4848,2700,753,2834,1162,203
 High-risk AI	6132,1840,329
 High-risk Class	8439
 High-risk-and-other-monitored-jurisdictions	4848
 High-speed	3243,826,771,140,695,261,4136,2284
 High-speed Internet	5279
-High-tech	2507,8462,127,788,1,10,264,1,44,1,146,4,41
+High-tech	2507,8462,127,788,1,10,264,1,44,1,146,4,41,91
 High-technology	11149
 High-trust	11156
 High-value	7548,4357
@@ -852,7 +854,7 @@ High. RI4	10779
 High. RI6	10779
 High. Western Africa	1264
 High.’ Stakeholder	10829
-Higher	789,475,564,463,484,829,343,485,96,1881,23,400,106,10,715,223,693,148,396,5,631,730,229,61,1,13,63,278,2,4,412,305,48,328,56,96,26
+Higher	789,475,564,463,484,829,343,485,96,1881,23,400,106,10,715,223,693,148,396,5,631,730,229,61,1,13,63,278,2,4,412,305,48,328,56,96,26,101
 Higher Certificate	6832
 Higher Dairy Supplement for Reduced Wasting	11525
 Higher Diploma	6946
@@ -906,7 +908,7 @@ Higher-risk	8789
 Higherlife Foundation	562
 Higherlife Owned Land N	4896
 Highervalue ICT	10793
-Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41
+Highest	6432,505,932,3100,915,1,10,69,189,6,1,191,4,41,91
 Highest Attainable Standard of Health	3583
 Highest ICT	12383
 Highest Rankings	12204,1
@@ -1065,7 +1067,7 @@ Hispanophone GNQ	3963
 Histoire Géographie Sciences Grammaire Autre Nb	10847
 Histoires	10278
 Historia	3179
-Historic	3456,7390,1379,8
+Historic	3456,7390,1387,267
 Historic Drought Frequency	11762
 Historic Flood	1828
 Historic Flood. Figure	1828
@@ -1155,6 +1157,7 @@ Inside the Hidden Battles of Africa’s Gig Workers	7102
 Insolvency Collateral Registry Hire Purchase Registry	12280
 Institution of Higher Learning	21
 Institutional Survey of Higher Education Institutions	11552
+Institutions Highest	12487
 Intensive E-Commerce Camp High-level Libyan	5948
 Interest High-speed	10229
 International Health Partnership HISP Health Information	766
@@ -1208,7 +1211,7 @@ Lecun and Hinton2021	8283
 Legal Genius AI. The Johannesburg High	9968
 Legal Integration and Hierarchical Positioning	3861
 Legal Litmus Tests In the High Court	11148
-Legal Service Directorate for Tax Tribunal and High	12225
+Legal Service Directorate for Tax Tribunal and High	12500
 Len PrEP- HIV	4153
 Lesotho Highlands Water Project	11248
 Ley de Hidrocarburos	9303
@@ -1279,19 +1282,20 @@ Minister Raafat Hindi	6569,2056
 Minister Raafat Hindi. Note	6758
 Minister and High Commissioner for Digitalisation	2838
 Minister of Higher Education	2335,4497,4646
-Minister of Higher and Tertiary Education	413,4115
+Minister of Higher and Tertiary Education	413,4115,7984
 Minister of Social Affairs and High Committee	3073
 Ministerial High-Level Committee	7912,3262
 Ministro de Estado de Hidrocarburos	9303
 Ministro de Hidrocarburos	8083
 Ministry of Finance Highlight Final	11866
 Ministry of Health. Rwanda’s HIE	9969
-Ministry of Higher	4528
-Ministry of Higher Education	125,875,1653,930,945,107,1017,522,315,1109,3170,8,169,960,2,11
+Ministry of Higher	4528,7984
+Ministry of Higher Education	125,875,1653,930,945,107,1017,522,315,1109,3170,8,169,960,2,11,594
 Ministry of Higher Education and Scientific Research	4762,1985,146,4055
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
-Ministry of Higher and Tertiary	4528
+Ministry of Higher Legally	12512
+Ministry of Higher and Tertiary	4528,7984
 Ministry of Higher and Tertiary Education	413,107,634,1625
 Ministry of Higher and Tertiary Education Innovation Science	4528
 Ministry of National and Higher Education	10826
@@ -1357,7 +1361,7 @@ Nassau High EGDI HV	10840
 National HIV and AIDS Policy	12253
 National High-Commission for Human Rights of Central African	10826
 National High-Per	8506
-National High-Performance Computing	4528
+National High-Performance Computing	4528,7984
 National Higher Crosswalk	125
 National Higher School of Artificial Intelligence	9703
 National Industrial Court of Nigeria and State High	10211
@@ -1451,6 +1455,7 @@ Primary Junior Senior Higher	11879
 Privé Lecture Calcul Histoire Géographie Sciences	10847
 Proactive Identification of High-Risk Traffic Factors Zambia	10347
 Processing History	3861
+Product HIT Harare Institute of Technology HPC	12512
 Programme Highlights	11327
 Projet HISWACA-SOP2	9277
 Promote the High-quality	7548
@@ -1592,6 +1597,7 @@ Take Mastery Hive	6736
 Tanzania Hilda Bujiku M-Pesa Network	10678
 Tanzania's Southern Highlands	9454
 Tanzania. Hii	3062
+Tax Submission History Select	12497
 Tech Hive Advisory	4583,2826
 Tech Hive Advisory Africa's Ridwan Oloyede	2998
 Technological Higher Education Network South Africa	10082
@@ -1626,7 +1632,7 @@ UN High Commissioner for Refugees	4127,7229
 UN High Commissioner for Refugees Filippo Grandi	12188
 UN Secretary-General’s High-Level Panel	11210
 UN-IGIF IMPLEMENTATION HIGHLIGHTS	12457
-UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1
+UNHCR United Nations High Commissioner for Refugees	10835,3,130,902,16,1,107,159,1,9,178,11,1,135
 UPI Outages Hit Major Banks	5691
 URA Announces Historic Shift	3955
 US-supported HIV	5163
@@ -1709,10 +1715,10 @@ ZIPSS Validation Codes High Value Payments	12364
 ZTE and Hikvision. In Lagos	5716
 Zambia Police Service Abstract Historically the Zambia	12467
 Zambia for HIV	5162
-Zambia's HIV	12418
+Zambia's HIV	12502
 Zambia's Hichilema	10260
 Zimbabwe Centre for High Performance Computing	8483,222,325
-Zimbabwe Council for Higher Education	4528
+Zimbabwe Council for Higher Education	4528,7984
 Zimbabwe's HIV	3385
 Zimbabwe's High-Impact Research Prioritisation Workshop	1554
 Zomba High Court	12174

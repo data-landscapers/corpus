@@ -63,7 +63,7 @@ Basic Education Law of Guinea-Bissau	11552
 Basic Education Laws SAHRC Summit Report	10729
 Basic Law	10768,7,1
 Basis Law	10775
-Belief Rule of Law	10835,3,130,902,16,466,1
+Belief Rule of Law	10835,3,130,902,16,466,1,135
 Bello Lawal	11126
 Ben Musanje The Uganda Law	8470
 Benin Finance Law	10856
@@ -176,7 +176,7 @@ Cybercrime Model Law	962
 Cybercrime Model Law. The SADC Model	962
 Cybercrime and Cybersecurity Laws	6626
 Cybercrime. Law	10775
-Cybersecurity Law	4810,528,332,956,1444,207,1223,850,1851,93
+Cybersecurity Law	4810,528,332,956,1444,207,1223,850,1851,93,219
 Cybersecurity Law and Cybercrime Law	10141,160
 Cybersecurity Policies and Laws	6936
 Cybersecurity Policies and Laws PRACTICAL STRATEGIES	6936
@@ -397,7 +397,7 @@ Law Association of Zambia	2746
 Law Average	11004
 Law Bookbinder Business Law Gaborone	12232
 Law Definitions Authority Registration Data	12468
-Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Law Enforcement	1877,2848,2385,3649,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Law Enforcement Agencies	11131,3,143
 Law Enforcement Directive	9067
 Law Enforcement Directive English	9067
@@ -406,7 +406,7 @@ Law Firm	9877
 Law Firm Senior	718
 Law Gendered Voices Volume	11332
 Law Governing Radiation Protection	718
-Law Inclusion	10835,3,130,902,16,466,1
+Law Inclusion	10835,3,130,902,16,466,1,135
 Law Law Enforcement Property Rights Public	10759,78,1315,188
 Law Library	11235
 Law Ministry of Justice MOPT	1777
@@ -483,6 +483,7 @@ Lawrence Nkala	6885
 Lawrence P. W	6948
 Lawrence P. W. Wong	6948
 Lawrence Sekimpi	11022
+Lawrence Troon	12521
 Laws Alone Are Not Enough	6212
 Laws Lag	12214
 Laws Lead Institutions	6936
@@ -604,7 +605,7 @@ Nigerian Law School	8978
 Nigerian Law of Electronic Transactions	8978
 Nigeria’s Existing Data Protection Law Does	7173
 Northwest Univ Law Rev	5242
-Obtain RULE OF LAW	10835,3,130,902,16,466,1
+Obtain RULE OF LAW	10835,3,130,902,16,466,1,135
 Omoniyi Lawson	9116
 Open Data Policy and Data Protection Law	1161
 Operationalisation of Law	4583
@@ -629,6 +630,7 @@ Parity Law	11586
 Parliament Approves Draft Law	5674
 Parties. Ls Governing Law	3972
 Passage of Cyber-crime Law	1000
+Patent Laws	12512
 Patent Laws Heritage-Based Education	4528
 Payments System Law	10779
 Payments Systems and Services Law	10779
@@ -678,10 +680,10 @@ REGISTER OF LAWS	3861
 REGULATORY BOARD The Law Nº09	718
 REPEAL OF LAWS AND COMMENCEMENT	3714
 REPUBLIC OF SOUTH AFRICA GENERAL LAWS	11279
-RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
-RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1
-RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1
-RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1
+RULE OF LAW	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+RULE OF LAW FOUNDATIONS FOR ECONOMIC	10835,3,130,902,16,466,1,135
+RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135
+RULE OF LAW SECURITY	10759,76,2,1,130,902,16,3,451,12,1,135
 RULE OF LAW Security	10759,78,1052,263,2,9,177,1
 RWA 2016 LAW	12338
 Rank Laws	12341
@@ -709,8 +711,8 @@ Review of Djibouti's Data Protection Law	3885
 Review of Sexual and Gender-Based Violence Laws. Christine	8948
 Revisits Law	8647
 Rights Lawyer	2626
-Risk and Law Enforcement Strategy Directorate	12225
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1
+Risk and Law Enforcement Strategy Directorate	12500
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -718,9 +720,9 @@ Rule of Law Demands Clarity	3615
 Rule of Law Impartiality	10759,78,1315,188
 Rule of Law Namibia	12340
 Rule of Law PARTICIPATION	10837,1052,263,11,177,1
-Rule of Law Participation	10759,76,3,130,902,16,466,1
+Rule of Law Participation	10759,76,3,130,902,16,466,1,135
 Rule of Law Republic	12201
-Rule of Law Rule of Law	10835,3,130,902,16,466,1
+Rule of Law Rule of Law	10835,3,130,902,16,466,1,135
 Rule of Law Security	10837,1315,188
 Rule of Law Tests	12139
 Rule of Law and Accountability Advocacy Centre	7458
@@ -813,6 +815,7 @@ Single Digital Identification Law	5399
 Slowing Deterioration. Rule of Law	11888
 Social Protection Law	2508
 Soft Law	2816
+Somalia's Cybersecurity Law	12513
 Somalia's Data Protection Law	1629
 South Africa ArticleRwanda Gazettes First Law	6998
 South Africa LAW Land Administration Web	11261
@@ -839,7 +842,7 @@ Sustainability Law	10779
 Sustainable the DHA. Lawyers for Human Rights	11986
 TRANSPARENCY RULE OF LAW	11870
 Tax Administration Laws Amendment Act	11263
-Tax Law Advisor	12225
+Tax Law Advisor	12500
 Tech Senegal's Startup Law Advances	2333
 Technology Lawyer	4861
 Technology and Law Review Committee	3861
@@ -891,11 +894,11 @@ What's Next for Privacy Law	11896
 Wits School of Law	5892
 Wits University School of Law. Founded	9889
 World Business Law Institute	6946
-World Justice Project Rule of Law Index	4528,793
+World Justice Project Rule of Law Index	4528,793,7191
 Yale Journal of Law and Technology	1243
 Yale Law J	5242
 Yale Law J Forum	9739
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1,135
 Year the Births and Deaths Registration Law	10822
 Year the Data Protection Law	10822
 Young Lawyers Forum	8264

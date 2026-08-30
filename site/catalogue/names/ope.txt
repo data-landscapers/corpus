@@ -164,7 +164,7 @@ CENTER BUILD DATA CENTER OPERATING ENVIRONMENT	10861
 CEO da OpenAI	2816,6047
 CEO of Open Access Data Centres	7179
 CERTs and Cybersecurity Operations Centres	9964
-CO-CREATION AND ITERATION Open	4528
+CO-CREATION AND ITERATION Open	4528,7984
 COD Commercial Operation Date CoW City	12399
 COMMERCIAL INTRA CITY COURIER SERVICES OPERATOR	1223
 COMPLIANCE REQUIREMENTS FOR PAYMENT SYSTEM OPERATORS	12374
@@ -384,7 +384,7 @@ Emergency Operations Center ENSAN II	10776
 Emergency Operations Coordination	10776
 Emergency Operator	3503
 Emerging Operator	7548
-Emerging Technologies Ethics and Operations	4528
+Emerging Technologies Ethics and Operations	4528,7984
 Emerging Technologies Requires Clear Operational Guidelines	7548
 Emmanuel Nwosu and Opeyemi Kareem Edited	6368
 Employment Operating	10841
@@ -405,7 +405,7 @@ Estratégia de Operacionalização	11577
 Estratégia de Operacionalização da Agenda	11451
 Eswatini. Harmonising Operational Efficiency	11131
 EthSwitch. Operator	12269
-Ethics and Operations	4528
+Ethics and Operations	4528,7984
 Ethiopia Operating Hours	10709
 European Civil Protection and Humanitarian Aid Operations	970,9871
 European Journal of Operational Research	9128
@@ -608,8 +608,9 @@ Intelligent Operation Center	5793
 Intelligent Operations	3487
 Intelligent Operations Center	7688
 Intelligent Operations Centre	5793
+Interbank Operations	12490
 Intermediate Gross Value Gross Operating Provider	236
-Internal Operations	4528
+Internal Operations	4528,7984
 International Conference for E-Democracy and Open Government	2096
 International Courier Operators	6946
 International Gateway Operator	10588
@@ -705,6 +706,7 @@ Materials Modeling ABINIT Quantam Espresso OpenMX	9475
 May-2025 Operation Closing	6579
 Meaning SOP Standard Operating Procedure SSA	11218
 Medical Record FOSS Free and Open	396
+Medium Enterprises SOP Standard Operating Procedures	12512
 Medium Enterprises Standard Operating Procedures Science	4528
 MetroFibre Go30 Openserve Promotion	11259
 Metropolitan Fiber License Operators	3862
@@ -875,7 +877,7 @@ OA2020 Open Access Initiative OA2020 OS	5246
 ODRA Manuel Open Data	747
 ODRA Open Data Readiness Assessment OECD	4214
 ODW Open Data Watch	11887,266,1,9,178
-ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1
+ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1,135
 OECD Open	1243
 OECD. Open Government for Stronger Democracies	11006
 OFFENCES AND PENALTIES FOR PETROLEUM OPERATIONS	11976
@@ -914,7 +916,7 @@ OPERATING ENVIRONMENT	6946
 OPERATING LIMITS A. Operating Limits for Account	5687
 OPERATING POLICIES	12253
 OPERATING RULES	12364
-OPERATING SCHEDULE SECTION	12324
+OPERATING SCHEDULE SECTION	12484
 OPERATING WITHOUT A LICENSE The CSA	9728
 OPERATION	2776
 OPERATION EXCELLENCE Eﬃciency	11131
@@ -991,6 +993,7 @@ Open Analogue	12214
 Open Architecture	5700
 Open Archival Information System	9888
 Open As Possible	5246
+Open Backend	12499
 Open Banking	2276,1115,1457,1512,3877,894,3,1209
 Open Banking Framework	6757,4374,3
 Open Banking Guidelines	4848
@@ -1039,7 +1042,7 @@ Open Data Charter. POLICY COMMITMENTS	11854
 Open Data Commons Open Database License	1232,1026
 Open Data Contexte	9406
 Open Data Day	769
-Open Data Directive	4528
+Open Data Directive	4528,7984
 Open Data Ecosystem	11854
 Open Data Euskadi	11873
 Open Data Framework	3604
@@ -1066,7 +1069,7 @@ Open Data Platform	3310,1717,6527
 Open Data Policy	170,991,3171,251,7,7264
 Open Data Policy Lab	6135,1178
 Open Data Policy and Data Protection Law	1161
-Open Data Portal	1161,8046,1610,1056
+Open Data Portal	1161,8046,1610,1056,626
 Open Data Portal I-29	10785
 Open Data Practitioners	11854
 Open Data Principles Open	11854
@@ -1130,6 +1133,7 @@ Open Educational Resources	2732,2514,6232
 Open Fibre Data Standard	3812
 Open Finance	3391,1457,5389,2207
 Open Forum	8869
+Open Frontend	12499
 Open G2P Bill	2182
 Open Gateway	6593
 Open Gateway API	6593
@@ -1185,6 +1189,7 @@ Open Letter	2777,3636,4615
 Open MPI	11471
 Open Medical Record System	8605
 Open Membership	3503
+Open Menu Home Announcements Current Archives	12486
 Open Methods	5246
 Open Motion	4429
 Open National Market Approach	11855
@@ -1225,7 +1230,7 @@ Open Social Protection Platform	11133
 Open Society	5700
 Open Society Foundation	8436
 Open Society Foundation11	10819
-Open Society Foundations	3021,4865,3850,456,35,51
+Open Society Foundations	3021,4865,3850,456,35,51,223
 Open Society Foundations and GIZ	1332
 Open Society Institute Sofia	8891
 Open Solutions	11478
@@ -1257,7 +1262,7 @@ Open Universiteit	8712
 Open University	1236,11140
 Open University of Kenya	1236,7528
 Open University of Tanzania	7258
-Open Visas	4528
+Open Visas	4528,7984
 Open Web Application Security Project	8439,798
 Open Weights and American AI Leadership	8680
 Open Worldwide Application Security Project	7283,3982
@@ -1375,6 +1380,8 @@ OpenOffice	747
 OpenPRH	1284
 OpenRouter	5257,4781,163
 OpenSCHUFA	8436
+OpenSDG	12499
+OpenSDG Portal	12499
 OpenSPP	11133
 OpenSRP	12141
 OpenSSF	11922
@@ -1581,7 +1588,7 @@ Operation of Data Center	9123
 Operation of EV	12233
 Operation the Information Regulator	10729
 OperationVulindlela	11236
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,20,72,41,13,5,8,63
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13
 Operational Acceptance	7987
 Operational Account	3604
 Operational Accra	3386
@@ -1622,8 +1629,8 @@ Operational Guidelines Report	3678
 Operational Guidelines. Washington	10997
 Operational Guides	3861
 Operational Health Facilities	2775
-Operational Heart	4528
-Operational Heart The AISIO	4528
+Operational Heart	4528,7984
+Operational Heart The AISIO	4528,7984
 Operational IT C13 Absence	9237
 Operational Implications	5677
 Operational Independence	3503
@@ -1635,6 +1642,7 @@ Operational Level	9123
 Operational Manual	11855
 Operational Mechanisms	3861
 Operational Mining Optimisation Solutions Limited	3386
+Operational Model	12512
 Operational Necessity	5911
 Operational Not Operational Number	3386
 Operational Nucleus	11863,28,18
@@ -1649,14 +1657,14 @@ Operational Performance and Structural Re	12233
 Operational Plan	11218
 Operational Plan APP Annual Performance Plan	11218
 Operational Planning Instruments and Practices The SSE	11907
-Operational Plans	12225
+Operational Plans	12500
 Operational Principles	11860
 Operational Prodata Africa Limited	3386
 Operational Public Broadcasting Radio Licensee	12395
 Operational Readiness and User Training	11252
 Operational Realities Primary	11138
 Operational Recommandations	5677
-Operational Report	408,11817
+Operational Report	408,12092
 Operational Requirements. Each RIR	3503
 Operational Resilience	4896
 Operational Response Services	11188
@@ -1784,7 +1792,7 @@ Operator S	3862
 Operator Scheme	11986
 Operator Scheme UAMP User Asset Management	11218
 Operator Service Provider	6671
-Operator Technical	12000
+Operator Technical	12000,490
 Operator Telecel’s Fixed Data	2776
 Operator Telesol	2776
 Operator Type Compliance	6432
@@ -1997,6 +2005,7 @@ Regional Digital Inclusion Strategy. Opened	7261
 Regional Food Balance Sheet COMESA Opens	7020
 Regional Open Access Model	11857
 Regional Open Data Legal Framework and Interoperability	6352
+Registered Operators	12509
 Registo de Operadores de Comunicações Electrónicas	11430
 Registry of Open Data	10794
 Regulator OCGT Open-Cycle Gas Turbine PV	11228
@@ -2042,7 +2051,7 @@ SAGE Open	5349
 SAGE Open Med	8376
 SARB Opens National System	5691
 SARB. Open Cities Lab	11222
-SECURITY OF SWIPSS OPERATIONS SECTION	12324
+SECURITY OF SWIPSS OPERATIONS SECTION	12484
 SECÇÃO I CONCEITOS OPERACIONAIS	11388
 SERVICE OPERATORS	5679
 SERVICES IN THE OPERATIONALIZATION	3678
@@ -2148,7 +2157,7 @@ Speech Opening Remarks	11283
 Sponsoring Consortium for Open Access Publishing	5246
 Springer Open	1243
 Standard Copy of Standard Operating Procedures	1988
-Standard Operating	12225
+Standard Operating	12500
 Standard Operating Practices	11553
 Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
@@ -2157,7 +2166,7 @@ Standard Operating Procedures UN	12338
 Starlink Begins Operations	7859
 Starlink Starts Operations	1853
 Startups and Operations	5413
-State Minister for Tax Operations Division	12225
+State Minister for Tax Operations Division	12500
 State of Open Data	1814
 State's Operations. Standardization	11939
 Statement of National Government Operations	2775
@@ -2201,7 +2210,7 @@ TRANSPARENCY AND ACCOUNTABILITY Open	1243
 Table AS. The Open Systems Interconnection	1009
 Targeted Financial Sanctions Operational Framework	11277
 Tariffs Operator	6671
-Tax Operation Division	12225
+Tax Operation Division	12500
 Taxi Operators Welfare Fund	10296
 Team OPD Open Patient Department RHIS	3791
 Tech Orange Sierra Leone Opens	4140
@@ -2280,6 +2289,7 @@ Upstream Subsector Upstream Petroleum Operations	12256
 Use MVNO Mobile Virtual Network Operator	6671
 Use of Open APIs All	6432
 Use of Open Standards Contracts	6432
+VAT Registered Operators	12509
 VFS Operations Centre	11986
 VUP Operations Manual	12440
 Validation and Testing of Open-Ended Outputs	3651
@@ -2320,6 +2330,6 @@ ZRHCP Environmental and Social Risk Operation ID	1867
 Zambia Operation Name	3562
 Zambia. Operating	12376
 Zanzibar Registration and Identity Cards Office. Operating	11133
-Zimbabwe Open University	4528
+Zimbabwe Open University	4528,7984
 Zimbabwe's National Health Operating System	9429
 Zimbabwe's National Health Operating System Skip	9429

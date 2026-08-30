@@ -27,11 +27,11 @@ HR Management System	11940,25
 HR Modules	7973
 HR Perspective	9253
 HR Policy	12302
-HR Risk Analysis Report	12225
+HR Risk Analysis Report	12500
 HR Unit	10776
 HR and Payroll. Review	11231
-HR-related	10776,1449
-HR-relevant	12225
+HR-related	10776,1724
+HR-relevant	12500
 HRA Human Resources and Administration HRIS Human	34
 HRC GC	12201
 HRC52	3583
@@ -106,7 +106,7 @@ Outsourcing HR	2724
 Product Graduate Trainee Human Capital HRH	11134
 Public Service Sector Bargaining Council HR	11261
 RCRO ICT LO1 Transport CCRO HR	12138
-Revenue and Customs Authority HR Frequently Asked	12225
+Revenue and Customs Authority HR Frequently Asked	12500
 Rivers HR Group	6946
 Senior Company Executives and HR	6632
 South African HR	10279,37

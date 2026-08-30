@@ -94,6 +94,7 @@ Clea Initially	9283
 Clean Network Initiative	10527
 Climate Policy Initiative	1468
 Climate Smart Education Systems Initiative	12175
+Climate-Smart Education Systems Initiative	12504
 Cliniton Health Access Initiative	3651
 Clinton Health Access Initiative	11968,272
 Clinton Health Access Initiative Inc	1107,383
@@ -206,8 +207,8 @@ Finance Initiative	10718
 Financial Inclusion Global Initiative	205
 Financial Inclusion Initiatives for Women	940
 Fisheries Transparency Initiative	10112
-Flagship Initiatives	4528,7916
-Flagship Initiatives and TWGs	4528
+Flagship Initiatives	4528,7916,68
+Flagship Initiatives and TWGs	4528,7984
 Formação Inicial	11361
 Forum. Initié	11732
 Foundational Training and Capacity Initiation	3861
@@ -319,8 +320,10 @@ Inicie	10755
 Inicio	3192
 Inie N	9739
 Inimfon Ekpenyong	9670
-Initial	29,356,2,286,29,34,163,193,41,90,654,8,103,108,1744,607,3,78,18,186,79,864,1,371,124,61,972,641,285,169,938,429,86,977,90,47,141,126,9,80,195,161,379,68,189,142
+Initial	29,356,2,286,29,34,163,193,41,90,654,8,103,108,1744,607,3,78,18,186,79,864,1,371,124,61,972,641,285,169,938,429,86,977,90,47,141,126,9,80,195,161,379,68,189,142,140,16
 Initial Assessment	3058
+Initial Birth Certificates	12496
+Initial Birth Registation Current	12496
 Initial Coin Offering	10738
 Initial Coin Offerings	12339
 Initial Cut-off	12364
@@ -349,6 +352,7 @@ Initially	1246,15,144,444,264,644,346,680,349,72,359,113,220,30,51,517,206,503,5
 Initially the SRD	2307
 Initials	11276
 Initiate	958,246,573,2084,265,722,6294,120,3,1091,43
+Initiate the Security	12512
 Initiated	6499,5702,40
 Initiated Dec	1714
 Initiates	12270
@@ -377,7 +381,8 @@ Initiative for Digital Inclusion	10053
 Initiative for Social and Economic Rights	1823,1749
 Initiative&author	766
 Initiative.21	11964
-Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,11,151,68,9
+Initiatives	789,110,539,376,888,368,395,1301,478,1093,453,3,143,239,138,45,1,151,241,215,54,871,370,411,516,49,474,7,123,134,156,3,6,84,6,102,525,11,51,29,38,224,4,162,68,9,47
+Initiatives CAMPAIGN Co-investment Public	12512
 Initiatives Description Critical	11131
 Initiator	1248
 Initiator for Digital Inclusion	1248
@@ -509,7 +514,7 @@ Orçamento Inicial	3667
 Overview of Strategic Initiatives	11131
 Oxford Martin AI Governance Initiative	4253
 P20 Initiative	10822
-P6-21. Initiatives	12225
+P6-21. Initiatives	12500
 PAYS INITIATIVES EN COURS BÉNIN	10711
 PROCEEDINGS ON BEHALF OF COMPANIES Initiation	3714
 Pamoja Initiative	3898
@@ -589,7 +594,7 @@ Rural Broadband Initiative	3798,7731
 Rural Broadband Initiatives	6708
 Rural Connectivity Initiative	3798
 Rwanda Cooperation Initiative	3256
-SADC AI Governance Initiative	4528
+SADC AI Governance Initiative	4528,7984
 SCALING INCLUSIVE E-GOVERNANCE INITIATIVES Social	12333
 SSONIG2PTEECDII CNRA ADCI INIE CI-ENGINEERING ANADER	2342
 STANBIC BANK’S INITIATIVE Safeguarding National Productivity	5247

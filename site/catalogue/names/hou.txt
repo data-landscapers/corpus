@@ -55,7 +55,7 @@ ByTechTrends Hours OnAugust	9830
 Bénin. Me Luciano Hounkponou	6501
 C'est Moi. Tokandji K. Houédako	6217
 CA Staff House Mortgage	6946
-CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1
+CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1,135
 COAST HOLIDAYS GUEST HOUSE MALINDI Data	7167
 COMESA CLEARING HOUSE Vacancies	11803,1,1
 COMESA Clearing House	2197,4
@@ -69,7 +69,6 @@ Census of Population and Housing	1867,10542,22
 Centre RPHC Rwanda Population and Housing Census	12413
 Centre for Affordable Housing Finance	10759,78,1052,451
 Centre of Excellence for CRVS Systems. Housed	12138,189
-Chairman House Committee	12059
 Changing House	11129
 Chatham House	4259,3212,318
 Chatham House Rule	8074,2014,1050
@@ -84,7 +83,7 @@ Citizen's House	11939
 Citizen's Houses	4917,46
 Clarisse A Houngbedji	10919
 Clarisse A Houngbedji3	10919
-Clearing House	9516,2808,40
+Clearing House	9516,2848,120
 Clearing House. The Clearing House	4848
 Clearing Houses	12364
 Collect Hours	11563
@@ -103,10 +102,10 @@ Data IDD HOUSEHOLD SURVEY ON ICT	582
 Data MIS Collection Collection Households	10964
 Data Protection Act. Household	12412
 Dear Hournorable Speaker	11289
-Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Decent Housing Absence of Armed Conflict	10838
 Demographic and Household Survey	10829
-Deputy Speaker of House of Representatives	12059
+Demographics Education Employment Housing Land	12498
 Digital Houses	2550,3653
 Distribution of Households	2775
 Domestic Product GHG Green House Gases	11863
@@ -144,6 +143,7 @@ FSD Kenya FinAccess Household Survey Report	7548
 FacebookTwitterPinterestEmail From the White House	4942
 Fairness and Housing	7147
 Federal Ministry of Housing and Urban Development	11954
+Federal Republic of Somalia. The Upper House	12492
 Felix Houphouët Boigny	2342
 Female-Headed Households GBV Gender-Based Violence GCF	11549
 Fifth Cameroon Household Survey	10985
@@ -163,7 +163,7 @@ Freedom House	2117,3098,1617,117,2,1281,790,60,74,2535,177,465,43
 Freedom House AI Surveillance Index	121,138,83,133
 Freedom House HEI Health Effects Institute	10759,78,1052,451
 Freedom House Score	10908
-Freedom House WJP World Justice Project	10835,3,130,902,16,466,1
+Freedom House WJP World Justice Project	10835,3,130,902,16,466,1,135
 Funding Model NHC National Housing Corporation	2775
 Félicien Houindo Lokossou	5583,3027
 Félicien Houindo Lokossou. Published	11695
@@ -231,7 +231,7 @@ Hours Days	1938
 Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21
 House Approves Close	1798
 House Business Committee	10313
 House Chair	11272
@@ -293,7 +293,7 @@ Housed	12138,43
 Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95
 Household Access	3641
 Household Affordability	12399
 Household Budget Survey	9252,1884
@@ -457,7 +457,7 @@ Maximum Hours	12389
 Me Hounkponou	5842,74,336
 Me LUCIANO HOUNKPONOU	1990
 Me Luciano Hounkponou	1990,3852,74,336,27,222,238,97,2206
-Media Houses	4528,7925
+Media Houses	4528,7925,59
 Megawatt Hours NELSAP	12358
 Members of Liberia's House of Representatives	3645
 Midrand Heights Social Housing Project	11248
@@ -592,6 +592,7 @@ SURVEY The Household Energy	11136
 Salaam Telephone House	2868
 Sale Commercial for Sale Houses	2888,32,354,504,1444,877,6,100,680,129,293,115
 Sam Hou Fai	11683
+Score Rank Decent Housing	12488
 Sectoral Stability Assessment Households Household	11134
 Segundo Hou Qiang	10490
 Selon Luciano Hounkponou	2014
@@ -610,13 +611,14 @@ Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
 Somali Integrated Household Budget Survey	3586,505
 Somalia Integrated Household Budget Survey	8456
 Somalia's House	4810
+Somalia's Upper House	12520
 Sources of Housing Finance	2775
 South Africa and Namibia. Freedom House	9679
 Spatial Integration and Housing Reform	11236
 Stanley House EWZL Owned Guest N	4896
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,144,1,194
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15
@@ -638,7 +640,7 @@ Statistics South Africa’s General Household Survey	11195,67
 Stats SA General Household Survey	11211
 Stats SA's General Household Survey	6832
 Strategic Move Households	12370
-Swaziland Automated Electronic Clearing House	12324
+Swaziland Automated Electronic Clearing House	12484
 Sylvie Houlière Mayca	3701
 TPA. Houve	9501
 TTCL Dodoma Telephone House	2868
@@ -664,6 +666,7 @@ Université Félix Houphouët-Boigny de Cocody	10389
 União Internacional de United Nations House Oficina	11563
 Unn House	3386
 Unnumbered House	3386
+Upper House	12492
 Urban Development and Housing	6958
 Urban Households	11879
 Validity Period Hourly URL-specific Data Bundles	11259

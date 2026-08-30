@@ -14,7 +14,7 @@ AI Governance Framework and AI Model Evaluation	3604
 AI Hub Taxonomy and Global Evidence Review	11156
 AI Model Evaluation	3604
 AI Will Affect Everyone's Future	7112,62
-AI for Every Zimbabwean	4528
+AI for Every Zimbabwean	4528,7984
 AI for Everything and GITEX Kenya	6331
 AI-powered Evidence Map	11224
 AI. Every G20	6386
@@ -47,9 +47,10 @@ Am J Evaluation	12231
 Anaemia Every	12151
 Andrew Rhys Davies and Evan J. Goldsholle	4127
 Antecedentes Evolução Recente	10783
-Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1
+Anti-Corruption Rights Every IIAG	10835,3,130,902,16,466,1,135
 Any Constraining Event	12364
 Applicants. E. Procedures for Evaluation of Applications	1638
+Apply Online Media News Events Gallery	12495
 Appropriate Authorities’ Said Evidence	10034,231
 Assess and Use Results Evaluation	1824
 Assistance Evidence	2727
@@ -114,12 +115,13 @@ Connecting Every Malawian Building	12214
 Constitutional Evolution	3861
 Constraining Event	12364
 Contacts Evénements	2407,41,490,2760,1057,3206
-Contingency Event	12324,40
+Contingency Event	12364,120
 Convergence And Evaluation Of Public Policies	5745
 Convergence Evidence	958
 Convergence and Evaluation of Public Policies	5772,1152
 Cooperate Every	12185
 Cooperate Everyone	7538
+Core Internal Systems Every Successful	12493
 Council M&E Monitoring and Evaluation MPAT Management	11224
 Count Every Child	12227
 Country-level Prospective Evaluations DRC Education Policy	11916
@@ -318,6 +320,7 @@ Evaluating	242,1851,1490,199,5,4343,473,1156,1173,1062,12,2,232,6
 Evaluating Civil Society's Role	11028
 Evaluating DPI	10852
 Evaluating Deepfake Defense Technologies Cyber Digital	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
+Evaluating EHR	12508
 Evaluating Europe's Package	6545
 Evaluating the Conduct and Practice of Digital Lending	12227
 Evaluating the Impact of Generative AI	11140
@@ -444,13 +447,13 @@ Even Western	5682
 Even the EU	5802
 Evenifthesefieldscontainspellingvariationsortypingerrors	8606
 Evenin	8602
-Event	180,124,134,494,51,819,329,2,16,5,3,1,10,43,6,4,14,9,9,281,437,50,5,38,410,731,253,18,35,1,27,18,294,372,179,23,269,290,7,487,82,73,6,80,743,26,24,10,93,35,22,19,12,1,1,87,1,1,1,10,1,19,1,57,1,6,1,5,6,146,34,1,15,31,25,20,2,16,24,122,34,120,62,104,55,6,82,19,581,266,681,170,368,1291,7,172,8,3
+Event	180,124,134,494,51,819,329,2,16,5,3,1,10,43,6,4,14,9,9,281,437,50,5,38,410,731,253,18,35,1,27,18,294,372,179,23,269,290,7,487,82,73,6,80,743,26,24,10,93,35,22,19,12,1,1,87,1,1,1,10,1,19,1,57,1,6,1,5,6,146,34,1,15,31,25,20,2,16,24,122,34,120,62,104,55,6,82,19,581,266,681,170,368,1291,7,172,8,3,126,21
 Event Annual	11439
 Event Category	10235
 Event Cause Impact	12241
 Event Data Project	11887,266,1,9,178
 Event Data Project AfDB African Development	10759,78,1052,451
-Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1
+Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135
 Event Details	10707
 Event Event	12364
 Event Event Attendance Mode	10244
@@ -530,6 +533,7 @@ Every Province MCAZ Engages Influencers Over	7312
 Every Registered Member	8866
 Every Rwandan	12371
 Every South African	5533,6453
+Every Successful Business Needs	12493
 Every US	4972
 Every Young Person Matters Every	8352
 EveryID Has A Story	10819
@@ -555,7 +559,7 @@ Evidemment	11700
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,34,1,5,14,1,7,25,19,35,37,5,26,10
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306,66,32,11,201,82,28,9,8,32,38,12,2,183,35,5,14,1,7,25,19,72,5,26,10,75,15,8
 Evidence Act	587,11067,199
 Evidence Act Demystified With Recent	11654
 Evidence Action Plan	10911
@@ -577,10 +581,10 @@ Evidence Master	10911
 Evidence Matters Much	4430
 Evidence National Cyber Security Strategy	10911
 Evidence Organisation of The Islamic Cooperation	10911
-Evidence P2-3. Identification	12225
-Evidence P3-9. Time	12225
-Evidence P6-19. Scope	12225
-Evidence P9-32. Publication	12225
+Evidence P2-3. Identification	12500
+Evidence P3-9. Time	12500
+Evidence P6-19. Scope	12500
+Evidence P9-32. Publication	12500
 Evidence Plan	11224
 Evidence Platform	10911
 Evidence Provided Compliance Status Identity	6432
@@ -603,7 +607,6 @@ Evidence of Compliance CM-NSG	10721
 Evidence of Compliance GC-OV.S1	10721
 Evidence of Compliance Tier	10721
 Evidence of Divorce	12226
-Evidence of Ethiopia	3864
 Evidence of Mali	6283
 Evidence of Registration	2709
 Evidence of Religious	12226
@@ -713,7 +716,7 @@ Forced Evictions	11285
 Formative Evaluation	7548
 Founder and CEO of Evolve Holding Investment Company	6653
 Four-wheeler EV	7440
-Framework The Monitoring and Evaluation	4528
+Framework The Monitoring and Evaluation	4528,7984
 Framework for Evaluation of Digital Identity	4225
 Framework for Training Validation and Evaluation	3651
 Francophone Africa’s EV	6368
@@ -752,6 +755,7 @@ High Priority Rating Data and Evidence Challenge	11907
 High-level Event	2667
 High. Evaluate	11156
 Honorato Evita Oma	3494,1651,1955,983,471
+Honorato Evita Oma. Con	12518
 Honorato Evita Oma. Tras	7100
 Hormuud’s EVC Plus	3463,4434
 Hosting of International Events	6946
@@ -891,6 +895,7 @@ Minister of Transport Honorato Evita Oma	3029
 Ministry of Labour and Home Affairs. Even Parliament	2736
 Mixed-Method Evidence Synthesis. International Initiative	6947
 MoMo Evolved Migration	10666
+Model M&E Monitoring and Evaluation MCAZ Medicines	12512
 Monitor and Evaluate	11216
 Monitor and Evaluate Progress Monitoring and Evaluation	1000
 Monitor and Promote Evidence-Based Policy Making	11940
@@ -900,7 +905,7 @@ Monitoring Evaluation Module	12208
 Monitoring Evaluation and Maintenance	11956
 Monitoring Vital Events Using Information Technology	10822
 Monitoring and Evaluating	11006
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59
 Monitoring and Evaluation A Monitoring and Evaluation	12453
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Monitoring and Evaluation BMA Border Management Authority	11986
@@ -925,7 +930,7 @@ Monitoring and Evaluation Plan	1000,2604,7164
 Monitoring and Evaluation Plan for Data Strategy CUSTODIAN	1161
 Monitoring and Evaluation PoA Programme of Action PPP	11224
 Monitoring and Evaluation Private Bag X944 Pretoria	11224
-Monitoring and Evaluation Processes and Reporting Mechanisms	4528
+Monitoring and Evaluation Processes and Reporting Mechanisms	4528,7984
 Monitoring and Evaluation Specialist	11750
 Monitoring and Evaluation The Department	11224
 Monitoring and Evaluation The Monitoring and Evaluation	12356
@@ -989,7 +994,7 @@ Oral Presentation Evaluation Criteria WEIGHT CRITERIA	11252
 Order Justice Omolaye-Ajileye’s Electronic Evidence Books	11654
 Original Research Internet of Everything	7759
 Outcomes. Evidence	10985
-Oversee the Monitoring and Evaluation	4528
+Oversee the Monitoring and Evaluation	4528,7984
 P. Evaluation	12379
 PARTE I. PROCURA I.1 Evolução	11366
 PDPO. C. EVIDENCE	5113
@@ -1036,6 +1041,7 @@ Proposed Preliminary Eviden-	8301
 Proyecto de Celebración de Eventos Tecnológicos	4209
 Proyecto de Evaluación	4209
 Public Enterprises Evaluation and Privatisation Agency	2576
+Public Health Evaluating EHR	12508
 Publication Media Events Calendar Press Statements	12390
 Q3 Evidence	11133
 QUALITY OF MONITORING AND EVALUATION	11924
@@ -1093,7 +1099,7 @@ Social Evaluation	1284
 Social Media Regulation and Online Censorship Even	5215
 Solomon Islands Timor-Leste T4 Evolving Cambodia	10764
 Solution Evaluation	1582
-Sources of Evidence	12225
+Sources of Evidence	12500
 Southern African Power Pool. Every	10169
 Special Evaluations	7548
 Special Events While Health Agencies Get	10034,231
@@ -1109,7 +1115,7 @@ Strengthening Evidence of Competition Enablers	2199
 Strengths Key Evidence Strengths	12210
 Studies and Evaluations	7313
 Sub-Saharan Africa. Even	11140
-Success Metrics and Evaluation Framework	4528
+Success Metrics and Evaluation Framework	4528,7984
 Suivi Evaluation	10876
 Supervisory Review and Evaluation Process	11134
 Supporting Life Events	5231
@@ -1134,8 +1140,8 @@ Technology Everywhere	10160
 Technology Is Giving Every Child	10989
 Telecommunication Union Monitoring and Evaluation Ministries	4653
 Telecommunications Union LTE Long Term Evolution	12395
-Template Indicators Attachment V. Sources of Evidence	12225
-Template Indicators Sources of Evidence P7-24. Time	12225
+Template Indicators Attachment V. Sources of Evidence	12500
+Template Indicators Sources of Evidence P7-24. Time	12500
 Term Evolution MoF Ministry of Finance NCA	236
 Termination Clauses Every	6432
 Thales Evidence and Investigation Suite	3296
