@@ -214,7 +214,7 @@ def fin_name(slug):
         return names[slug]
     p = os.path.join(ROOT, "wiki", "entities", slug + ".md")
     if os.path.isfile(p):
-        with open(p, encoding="utf-8") as r:
+        with open(p, encoding="utf-8", errors="replace") as r:
             for line in r:
                 if line.startswith("title:"):
                     return line.split(":", 1)[1].strip().strip('"')

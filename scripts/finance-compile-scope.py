@@ -51,7 +51,7 @@ def is_finance(text):
 def all_finance_places():
     places = set()
     for p in glob.glob(os.path.join(ROOT, "raw", "**", "*.md"), recursive=True):
-        t = open(p, encoding="utf-8").read()
+        t = open(p, encoding="utf-8", errors="replace").read()
         if is_finance(t):
             places |= places_of(t)
     return places
@@ -89,7 +89,8 @@ def changed_places(ref):
             text = show.stdout if show.returncode == 0 else ""
         else:
             fp = os.path.join(ROOT, path)
-            text = open(fp, encoding="utf-8").read() if os.path.exists(fp) else ""
+            text = (open(fp, encoding="utf-8", errors="replace").read()
+                    if os.path.exists(fp) else "")
         if text and is_finance(text):
             places |= places_of(text)
     return places

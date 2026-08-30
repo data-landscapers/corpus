@@ -369,7 +369,10 @@ def scan_all():
     """One pass over raw/: bucket every finance record under each place it tags."""
     by_place = {}
     for fn, path in raw_sources(RAW):
-        t = open(path, encoding="utf-8").read()
+        # errors="replace": a raw body is upstream evidence Corpus cannot repair, and
+        # OSINT holds at least one record with a stray byte from a PDF extraction. A
+        # single bad byte must degrade that record, never halt the build.
+        t = open(path, encoding="utf-8", errors="replace").read()
         if "finance_origin:" not in t:      # cheap prefilter only — a superset, see below
             continue
         fm, body = split_front(t)
