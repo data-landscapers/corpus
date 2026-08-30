@@ -1,6 +1,7 @@
 AI Poverty	10726
 Accelerating Gender Equality To End Poverty	1867
 Addressing Multiple Poverty Traps	10964
+Afrobarometer's Lived Poverty Index	12192,86
 Ajuda de Desenvolvimento de Povo	11557
 Angola Poverty	10763
 Angola Poverty Assessment	10768
@@ -34,6 +35,7 @@ Ghana. Poverty	789
 Global Alliance Against Hunger and Poverty	11133
 Honourable Minister for Humanitarian Affairs and Poverty	11998
 Household Living Conditions and Poverty	10841
+Hunger and Poverty	12158
 ILAP Poverty Assessment Survey	11525
 INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
 INE- Multidimensional Poverty	10765,10
@@ -45,11 +47,11 @@ LAWSON-EVI Povi	8620
 Labor Markets and Poverty	10964
 Learning Poverty	11905
 Learning Poverty. Nigerian	11469
-Lived Poverty	10759,76,2,1,130,902,16,1,1,1
-Lived Poverty Health	10837,1052
+Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Lived Poverty Health	10837,1052,263,11
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
-Lived Poverty Sustainable Environment	10759
+Lived Poverty Sustainable Environment	10759,1395
 Livelihood Empowerment Against Poverty	4336
 MCDWD and Poverty Rate MCDWD	10763
 MULTIDIMENSIONAL POVERTY AND SOCIAL PROTECTION ASSISTANCE	11998
@@ -75,7 +77,7 @@ Oxford Poverty Human	206
 POV Pauvreté SFI Société	7655
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 Pivotal Moment for Poverty Reduction	10985
-Poverty	969,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74
+Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34
 Poverty Alleviation Funding Facility	11579
 Poverty Assessment	1867,8896,222
 Poverty Assessment Survey	11525
@@ -87,7 +89,7 @@ Poverty Incidence	11998
 Poverty M&E Monitoring	11855
 Poverty Rate	10985
 Poverty Reduction	10964,899,157
-Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1
+Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9
 Poverty Reduction Strategy	11924
 Poverty Reduction Strategy GRA Ghana Revenue	236
 Poverty Reduction Strategy Paper	11525,399
@@ -112,9 +114,11 @@ Povos. LEI DA PROTECÇÃO DE DADOS	14
 Republic of South Sudan South Sudan Poverty	3583
 Rethinking Poverty Reduction	10985
 Rule of Law Absence of Crime Poverty Reduction	10759
-Social Safety Nets Poverty Reduction Policies	10837
+Social Safety Nets Poverty Reduction Policies	10837,1315
 Social and Poverty	10779
 South African Multidimensional Poverty Index	11237
+Special Issue Energy Poverty	12178
+State of Learning Global Poverty	12175
 Urban Poverty Reduction Programme	10763
 Use of Account Poverty	1828
 World Bank Poverty Assessment	10763

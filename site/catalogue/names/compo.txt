@@ -43,6 +43,7 @@ COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
 COMPONENTS	11965
 COMPONENTS Current Component Name Current Cost	1284
 COMPONENTS DEFINED SN Type	7845
+COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Resilient Digital Infrastructure	4688,3189
@@ -68,7 +69,7 @@ Closing Period Component	10768
 Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Componenente	11542
-Component	34,287,286,41,124,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37
+Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25
 Component B	5370
 Component Beneficiary Profile	10964
 Component CHW Community Health Worker CPF	11560
@@ -97,11 +98,12 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109
-Components	236,191,837,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
 Components Baseline Period	1264,603,1737,7164
+Components Building	12228,39
 Components COMPONENT	10768
 Components Component	2712,1941,1926,349,4467,22
 Components Component Name Cost	1867,8901,757
@@ -173,12 +175,12 @@ Composto	10749
 Composé	2342,8047
 Composée	10272
 Compound	11129
-Compound Annual Growth Rate	9759,1452
+Compound Annual Growth Rate	9759,1452,948
 Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651
 Congo Component African Development Bank	117
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002
-Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -259,6 +261,7 @@ Infrastructure SLAs Component Availabili Redundancy	11952
 Institutional Coordination and Citizen Engagement Component	1228,1761,1664
 Intermediate Indicator Component	11965
 Intermediate Indicator for Component	1228
+Investment Project Financing Component	12176
 J Combin Music Compos Creat	9739
 Jun-2024. Component	1704
 KEY M&E COMPONENTS	5245
@@ -278,6 +281,7 @@ Mechanical Components and Minerals Development	3760
 Meheba Refugee Settlement. Component	1988
 Membership Composition	3861
 Membership Composition The NDGC	3861
+Mission Strategic Objectives Components Business Process	12322
 Mobile Money Delivery Component World Bank	1023
 NASDAQ Composite	5985,909
 NGOs. Component	10829
@@ -351,6 +355,7 @@ Southern Africa. Component	9630
 Strategic Interventions Target Period Components	396
 Strategic Interventions Target Period Components Build	396
 Strategic Interventions Target Period Components Establish	396
+Structure and Composition	12201
 Substantial’. Component	10829
 Support Project Management. Component	11855
 System Number BB Broadband CAGR Compound	10861

@@ -112,6 +112,7 @@ Loi Un	7767
 L’ÉTAT ACTIONNAIRE UN IMPACT REAFFIRMÉ SUR	2342
 L’ÉTAT ACTIONNAIRE Un	2342
 M. Doualeh Saïd Mohamoud. Un	4957
+M19Rev3en.pdf. UN	12151
 MW. LA TRANSPARENCE POUR UN SECTEUR	10975
 Madagascar. Un	11088
 Management Unit for Special Projects UN United	11863
@@ -145,6 +146,7 @@ Reports Gender Development Index UN Human	11004,960
 Resident Coordinators and UN Country Teams	11356
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Responsive Planning UN United Nations and Budgeting	11193
+Rev.3. UN	12151
 République du Sénégal Un Peuple	11139
 SME SOP STEM SWOT TWG UN	4528
 SMS Short Message Service UN United	10765,10
@@ -157,6 +159,7 @@ Sekou Kromah. Un	10604
 Service Fund UN United Nations UNDP	6539
 Service UN United Nations UNISA University	11188
 Services. LA TRANSPARENCE POUR UN SECTEUR	10975
+Southern Africa UN	12201
 Starlink. Un	4657
 Startup Act Mauritanie Un	1247
 Startups. Un	4567
@@ -167,6 +170,7 @@ TV Television UHF Ultra-High Frequency UN	6946
 TVET Technical Vocational Education and Training UN	1814
 TWG Technical Working Group UN United	6947
 Tchad. Un	6275
+Technical UN CAC	12201
 Technical Working Group UN United Nations	7548
 Ten UN Principles	1243
 Third UN Conference	10844
@@ -194,6 +198,7 @@ UN Broadband Commission	11857
 UN Broadband Commission. A Starlink	6467
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
+UN COMTRADE	12261
 UN CRC	1211
 UN Cameroon	10841
 UN Charter	11210
@@ -205,7 +210,7 @@ UN Comprehensive Convention	11183
 UN Comtrade	4445
 UN Conference	4127,6591,126
 UN Convention	1163,1514,906,365,4035,2836,252,904
-UN Convention Against Corruption	3583
+UN Convention Against Corruption	3583,8618
 UN Cooperation Framework	8754
 UN Council	961
 UN Country Team	10346
@@ -230,7 +235,7 @@ UN E-	10852
 UN E-Gov Index	5114
 UN E-GovErNmENt SUrvEy	10840
 UN E-Government	11469
-UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705
+UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705,7268
 UN E-Government Survey	1749,156,9664
 UN E-Participation Index	10785
 UN E-government Survey	11569
@@ -261,6 +266,7 @@ UN General Assembly	1038,776,1769,129,3285,177,939,1600,1344,299
 UN General Assembly Resolution	3583,5045
 UN General Assembly Third Committee	11210
 UN General Assembly. Document	1237
+UN Geneva	12188
 UN Global Compact SDG Innovation Accelerator	8035
 UN Global Dialogue	6386,574,78,11,10,1054
 UN Global Digital Compact	1862,820,4865,1,373,3107,126
@@ -279,16 +285,21 @@ UN Headquarters	9786
 UN Health Industry Foundation	5658
 UN High Commissioner	3583
 UN High Commissioner for Refugees	4127,7229
+UN High Commissioner for Refugees Filippo Grandi	12188
 UN Human Capital Index	10785
 UN Human Development Index	3584,8318
 UN Human Development Ranking	11935
 UN Human Development Reports	11004,960
 UN Human Development Reports UN Human	11004,960
-UN Human Rights Council	3584
+UN Human Rights	12201
+UN Human Rights Commission	12201
+UN Human Rights Committee	12201
+UN Human Rights Council	3584,8617
 UN Human Rights Office	3584,543,6880
 UN IGF	9858
 UN IGF Secretariat's Chengetai Masango	12104
-UN IGME United Nations Inter-agency Group	11887
+UN IGME United Nations Inter-agency Group	11887,266,1,9
+UN IGME. Total Under-5 Mortality Rate	12138
 UN IMPACT REAFFIRMÉ SUR LE DEVELOPPEMENT	2342
 UN IMPACT REAFFIRMÉ SUR LE DÉVELOPPEMENT	2342
 UN Independent Expert	3109,474
@@ -302,14 +313,17 @@ UN Joint SDG Fund	1073
 UN Joint SDG Fund European Commission	1073
 UN L.8	2117
 UN Lana NADA	163
-UN Legal Identity Agenda	10591
+UN Legal	12151
+UN Legal Identity	12151
+UN Legal Identity Agenda	10591,1560
 UN Legal Identity Agenda Task Force	5274
-UN MMEIG United Nations Maternal Mortality	11887
-UN Member States	2371,4667,4864
+UN MMEIG United Nations Maternal Mortality	11887,266,1,9
+UN Member States	2371,4667,4864,312
 UN Member States Africa Asia Europe	10840
 UN Member States Americas Africa Asia	10840
 UN Member States Linear	10840
 UN Member States. South Africa	1912
+UN Migration	12227
 UN Mission	10409
 UN Model Law	10718
 UN Network	9838
@@ -332,19 +346,20 @@ UN Population	970
 UN Population Data	11857
 UN Population Division	11965
 UN Principles	1243
-UN Principles and Recommendations	10765,10
+UN Principles and Recommendations	10765,10,1441
 UN Processes South Africa	2117
 UN Public Service Forum	6288
 UN Public Service ForumJuly	5553
 UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UN Refugee	899
-UN Refugee Agency	4807,5969
+UN Refugee Agency	4807,5969,1397,54
 UN Refugees Agency	2324
 UN Resident Coordinator	2545,3197,3012
 UN Resident Coordinator Let	10210
 UN Resident Coordinator's Office	7749,2193
 UN Resident Coordinator’s Office	10776
 UN SDG	2829
+UN SDG Database	12261
 UN SDGs	7204,3387,1266
 UN SDGs Good	7204
 UN SGDs	2319
@@ -352,6 +367,7 @@ UN Scientific Advisory Panel	8629
 UN Scientific Panel	7174
 UN Secretariat	7112
 UN Secretary General	1038,6204,1840,2111
+UN Secretary General's Global Strategy for Women	12138
 UN Secretary General’s Special Advocate for Inclusive	1486
 UN Secretary of State Mike Pompeo	2117
 UN Secretary-General	7242,3748
@@ -384,16 +400,19 @@ UN Treaty Body Database English	11765
 UN United Nations UNEP United Nations	11553
 UN Universal DPI Safeguards Framework	11007
 UN Urges Protection	10025
-UN Women	1407,1038,1138,520,1141,3616,352,1133,848
+UN Women	1407,1038,1138,520,1141,3616,352,1133,848,958
 UN Women WHO IOM Bilateral	11332
 UN Women and UNICEF	8427
 UN Women's Queenie Meria	12104
+UN Women. The National Roadmap	12188
 UN Working Group	7147
+UN World Population Prospects	12261
 UN and Kepios	3908
 UN and OFAC	5369
 UN and States Members	3583
 UN. Nevertheless	11028
 UN. Through	2273
+UN. Vital Strategies	12151
 UNDP and UN ODET	11006,1
 UNEP UN Environment Programme UNESCO United	1204
 UNEP and UN Habitiat	3583
@@ -429,8 +448,10 @@ Under the UN Guiding Principles	9082
 Union. Un	11826
 United Arab Emirates UN United Nations	11960
 United Kingdom UN United Nations UNCTAD	1243
+United Nations UN	12142
 Université des Comores I Un	1996,2390
 User Acceptance Testing UN United Nations	11192
+Vital Strategies. UN	12151
 WHATSAPP Un	5051
 WhatsApp. Un	10030
 World Bank and UN Economic Commission for Africa	1035

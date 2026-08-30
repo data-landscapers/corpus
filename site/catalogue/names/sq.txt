@@ -25,6 +25,7 @@ Microsoft SQL	11922
 Microsoft SQL Server Management Studio	10617
 Muritala Square	12038
 MySQL and SQL Server	10060
+NET and MS SQL Server	12196
 Oracle SQL Developer	10617
 Ordinary Least Squares	236
 Partial Least Squares	11107
@@ -39,7 +40,7 @@ SQuaRE	11216
 Sanbury Square Shopping Centre	8999
 Security Operations Centre SQL Structured Query	6432
 Sq. Km	11857
-Square	730,8269,2130,766
+Square	730,8269,2130,766,265
 Square Associates	9098,46
 Square Kilometer	9485
 Square Kilometre Array	5328,116,1036,3596,1107,65

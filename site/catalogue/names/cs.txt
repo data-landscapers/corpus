@@ -16,13 +16,15 @@ CPD Continuous Professional Development CSP Content	6946
 CPF Country Partnership Framework CSF Climate	11549
 CPU Central Processing Unit CSA Cloud	11952
 CR Civil Registry CSU Cadastro Social	10765,10
+CRVS Civil Registration and Vital Statistics CSOs	12241
 CS Adjusted	1818
 CS Assumptions Q2	11986
 CS Cabinet Secretary for ICT CSP Cloud	6432
 CS DDG	11986
 CS DEPARTMENT OF HOME AFFAIRS	11986
 CS Deputy Director-General	11986
-CS Duale	3400
+CS Duale	3400,8914
+CS Duale Leads Consultative Forum	12314
 CS ISP	718
 CS Joe	899
 CS Kabogo	5944,216
@@ -46,6 +48,7 @@ CS for Implementation Plan Defence	1131
 CS&amp	4706,84,1,3,31,273,1423,655
 CS&author	5242
 CS- Environment	10721
+CS-EPWP	12181
 CS-ISAC	5132
 CS-ISAC CS-ISAC	10721
 CS-ISAC Membership	10721
@@ -122,7 +125,7 @@ CSIR-CRI	12090
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
-CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486
+CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486,764
 CSIRT Capabilities	5677
 CSIRT Capabilities Strengthening	5677
 CSIRT Computer Security Incident Response Team	6936
@@ -161,6 +164,7 @@ CSM.S1	10721
 CSM.S2	10721
 CSO CSOC DPF ECGS ERM EXCO	11131
 CSO Civil Society Organisation CSS Corporate	11261
+CSO Civil Society Organisations EMB Electoral	12201
 CSO Civil Society Organization DNIC National	4214
 CSO Civil Society Organizations DPI Digital	10714
 CSO Open Days	7784
@@ -207,7 +211,7 @@ CSPGFR	10936
 CSPP Ministry of Finance	11916
 CSPS and High Courts	10812
 CSPSs	10881
-CSPro	6048,3229,1500
+CSPro	6048,3229,1500,1374
 CSPs CAC	6432
 CSPs Content Services Providers CT-OVC Cash	2775
 CSPs Entities CAC	6432
@@ -224,6 +228,7 @@ CSPs and Service Integrators	11995
 CSPs. Compatibility	11995
 CSP’s MICDE	6432
 CSR and Strategic Partnerships. The Fursa Lab	10732
+CSSCs	12182
 CSSDOS	7707
 CSSEC	10975
 CSSF-funded	861
@@ -243,6 +248,7 @@ CSV23	1984
 CSWAMZ	10408
 CSWRG	560
 CSilicon	3782
+CSpro	12151
 CSquared	623,62,2499,286,312,77,1385,1321,15,706,1,738
 CSquared Group	7286
 CSquared and WIOCC	6580
@@ -270,10 +276,15 @@ Comunidad de Países de Lengua Portuguesa CSU	1701
 Conferência CSA	2816
 Conseiller Pédagogique Itinérant CSAP	10847
 Consistent Time CSIR Digital Imaging and Communications	1009
+Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
 Country Cooperation Strategy CSO	10776
 Cross-Border Data Flow CSPs	6432
+Cs High	12253
+Cs Meeting Room Research	12253
+Cs Offices	12253
+Cs Split	12253
 Cschool	12102
 Csernatoni	11050
 Cyber Security Authority CSA	6936
@@ -284,6 +295,7 @@ DPs and CSOs. Grant Agent World Bank	11916
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
 Diesel CSP Biomass Biogas BESS	11236
+Disabilities CSCS Superior Council of Social Communication	12201
 Dublin Core JSON Multiline CSV Simple	10878
 Durée Moyenne de Scolarisation CSPS	737
 EAF. CSP	11953
@@ -349,7 +361,8 @@ IDEV Evaluation of Cabo Verde CSPs	11863
 ISPs CSA	6936
 Implementar CSIRT RTPE	1431,1
 Improve CSAT	5226
-Interior CS Kipchumba Murkomen	3544,1755,1484
+Interior CS Kipchumba Murkomen	3544,1755,1484,5520,10
+Interior CS Murkomen	12303
 Internal Audit Agency CSA	6936
 JSON CSV JSON CSV Commissions Commissions	9480
 JSON CSV JSON CSV Séances Agenda	9480
@@ -388,6 +401,7 @@ NCC’s CSIRT	9117
 NIST CSF	5677,103,643
 NIST CSF Auditing	11952
 NW4457E REPLY The CSIR	10889
+Nation Media Group The CS	12258
 National and MICDE MCDAs CSPs Ministry	6432
 Natureza O CSE	11516
 Nigerian CSOs	11866
@@ -426,6 +440,7 @@ Reporting System CSA Climate Smart Agriculture-Based	970
 Resilience Building CSO Civil Society Organisation	970
 Resilience and Fragility Assessment CSO Civil Society	11863
 Restitution of Land Rights CSI Committee for Spatial	11261
+SCTP and CS-EPWP	12181
 SERVICE PROVIDERS The CSA	9728
 SIs and CSPs	11995
 SLAs CAC MCDAs CSPs CAC	6432

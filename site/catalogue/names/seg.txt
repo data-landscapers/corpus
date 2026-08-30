@@ -70,6 +70,7 @@ Credenciais de Segurança Personalizadas	10755
 Cuando Segunda	11429
 Cuerpo de Seguridad Aeroportuaria	4209
 Cuerpos de Seguridad	163
+Customer Segments	12297
 Cárcel de Máxima Seguridad	4209
 D.G DE ASUNTOS D.G. DE SEGURIDAD	4209
 D.G DE SEGURIDAD NACIONAL	4209
@@ -113,6 +114,7 @@ Estado. Segundo	11330
 Estrategia Nacional de Seguranca Cibernetica	10440
 Estrategia de Seguimiento	11743
 Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
+Estratégia Nacional de Segurança Social Básica	12142
 Estratégia da Segurança Cibernética	2816
 Estratégia de Segurança Energética Nacional	11366
 Estratégias Sólidas de Segurança Cibernética	2816
@@ -132,7 +134,7 @@ GROUP REVENUE BY SEGMENT Table	10793
 Garantia de Segurança	11374
 Gasoduto Africano Atlântico Segunda	11429
 Gestão de Segurança	10747
-Global de Segurança Cibernética	795
+Global de Segurança Cibernética	795,11395
 Global de Segurança Cibernética da UIT	795
 Gobierno Director General Elemento Seguridad Parlamentaria	4209
 Grafica de Segurança	4415,1,1,1
@@ -155,7 +157,7 @@ Incidentes de Segurança Cibernética Sectoriais	6970
 Incidentes de Segurança Informática	4218,5008
 Institucionalização de Estruturas de Segurança	11377
 Instituto Europeu de Estudos de Segurança	2816
-Instituto Nacional de Segurança Social	4075,6697,631,30,116
+Instituto Nacional de Segurança Social	4075,6697,631,30,116,593
 Instituto Nacional de Seguridad Social	4209,4163
 Instituto de Segurança Social Kz	10757
 Institutos Nacionais de Segurança de IA	2816
@@ -323,13 +325,16 @@ Sector de Segurança Pública	2784
 Secção Gabinete de Comunicação Segurança	10750
 Segda9emil	12068
 Seghrouchni	5360,1136,1088,661,231
-Segment	3862,2887,1659,566
+Segment	3862,2887,1659,566,3323
 Segment By Country	8727
 Segment Corporate	10163
+Segment Exclusion Services	12297
 Segment Key	11994
+Segment Overview	12297
+Segment Programmes	12297
 Segment Sectors Content Rights Online Services	1944
 Segment Sectors EBITDA Margins Return	1944
-Segmentation	1231,7892,1598
+Segmentation	1231,7892,1598,1576
 Segmentation Encryption Standards	6432
 Segmentação de Imagem Médica	2816
 Segmentação de Imagem Médica. Fonte	2816
@@ -370,7 +375,7 @@ Segunda Sessão	2816
 Segunda Teniente Alférez Alférez de Fragata Comisario	4209
 Segunda Vice-Presidentes da Assembleia Nacional	11365
 Segunda-feira	8807,2675
-Segundo	220,1641,573,147,235,5,227,45,44,55,573,128,10,183,117,375,63,70,25,11,232,171,4,50,1,6,85,9,4,83,51,99,276,32,34,90,12,32,42,112,110,46,282,131,57,49,79,18,55,81,165,421,69,319,56,149,49,16,101,67,1,43,122,71,2,13,16,47,20,23,4,4,72,229,77,22,1,242,57,1,135,95,201,93,237,46,62,14,309,6,20,6,262,11,261,70,2,5,21,31,13,3,23,38,46,8,106,26,115,13,179,40,11,10
+Segundo	220,1641,573,147,235,5,227,45,44,55,573,128,10,183,117,375,63,70,25,11,232,171,4,50,1,6,85,9,4,83,51,99,276,32,34,90,12,32,42,112,110,46,282,131,57,49,79,18,55,81,165,421,69,319,56,149,49,16,101,67,1,43,122,71,2,13,16,47,20,23,4,4,72,229,77,22,1,242,57,1,135,95,201,93,237,46,62,14,309,6,20,6,262,11,261,70,2,5,21,31,13,3,23,38,46,8,106,26,115,13,179,40,11,10,113
 Segundo Adelino Mangonga	4294
 Segundo African Union	2816
 Segundo Aguinaldo Jaime	4250
@@ -441,9 +446,10 @@ Segurança Rodoviária	3899,7556
 Segurança Sanitária	11376
 Segurança Sanitária Mundial	11376
 Segurança Sanitária. Através	11376
-Segurança Social	167,3352,556,1646,5032,1,608,28,43,114,392
+Segurança Social	167,3352,556,1646,5032,1,608,28,43,114,392,203
 Segurança Social Luanda	4075
 Segurança Social MASFAMU Ministério da Acção Social	11390
+Segurança Social de Portugal	12142
 Segurança da IA	2816
 Segurança da Informação	2816,8547,5,11,63,6,107,14
 Segurança de Dados	11555
@@ -489,6 +495,8 @@ Sul. Segundo	6356
 TARGET SEGMENTS	940
 Telecom Namibia’s Group Revenue Segmentation	1013
 Telecomunicações. Segundo	5979
+Terra Segura	12137
+Terra Segura Program	12137
 Thulagano Merafe Segokgo	5393,38
 Trabajos de Seguimiento Coyuntura Macro Comité de Datos	4209
 Transf. Comité Nac. de Seguridad	4209

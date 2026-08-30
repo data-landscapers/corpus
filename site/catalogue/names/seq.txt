@@ -4,7 +4,7 @@ Directive Launch Sequence Upon	3861
 Feb-2024 ICR Sequence.01	11924
 Felicien Donat Edgar Towenan Accrombessy Seq	10870
 HEPRR Program Phases Phase Operation Sequential	11417
-ISR Seq	764,1006,483,459,8158,1095,6,17
+ISR Seq	764,1006,483,459,8158,1095,6,17,240,39
 Lap Category Sequence	1228
 Last Approved Rating ISR Seq	6579,349,949,3518
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
@@ -32,6 +32,7 @@ Sequencing Development Perhaps	4535
 Sequential	4732
 Sequestro	11430
 Sequoia Capital	5482
+Sequoia Capital India	12244
 Sequoia Capital and Alphabet. Starlink	4351
 Sequoia Capital’s Julien Bek	5482
 Sequoia Go All In Cookies	5322

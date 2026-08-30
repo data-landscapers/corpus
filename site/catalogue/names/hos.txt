@@ -59,6 +59,7 @@ ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 ASTAAN HOSPITAL LTD Data Controller INST-8725131A125	7167
 ATHI-RIVER MODERN HOSPITAL Data Controller INST-6689191C417	7167
 Academic Affairs Hospitality Services Internal Audit	10123
+Affordable Broadband and Secure Data Hosting	12253
 African Regional Cyber Sector Symposium. Hosting	6946
 Al-Hadba Al-Khadra General Hospital	9090
 Al-Hadba Al-Khadra Hospital	5264,53
@@ -156,9 +157,15 @@ CUREMARK HOSPITAL LTD Data Controller INST-76385364442	7167
 CYNERT HOSPITAL AND REHABILITATION CENTRE LIMITED	7167
 Caching Hosting Information	11179
 Cacuaco Hospital	10776
+Case and Host Communities	12297
+Central Hospitals	12240
+Central Hospitals Central	12240
+Central Hospitals Central Hospitals	12240
 Centre Hospitalo-Universitaire de Kamenge	4363
+Cessation of Hostilities Agreement	12225
 Chainama Hospital	34
 Charlotte Maxeke Hospital Kimberley Hospital	11986
+Chicuque Rural Hospital	12207
 Chris Hani Baragwanath Academic Hospital George	11248
 Chris Hani Baragwanath Hospital	8603
 Chris Hani Baragwanath Hospital Raheema Moosa	11986
@@ -209,6 +216,7 @@ Digital Hospital Project	5011
 Dignity. Hosted	11131
 Dihlabeng Regional Hospital	11248
 Displaced and Host Communities Project	11469
+District Councils and Central Hospitals	12240
 District Hospital	3386
 District Hospitals	1261
 Draft Order Gazetting the Host Country Agreement	10313
@@ -227,6 +235,7 @@ Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emerging Technologies Hosting	7548
 Energy and Hospitality Rise	9815
 Enfermos Hospitalizados	4209
+Enhance the Welfare of Refugees and Host Communities	12297
 Equipamiento Hospital Distrital de Niefang	4209
 Equipamiento de Hospitales	4209
 Estonian Hospitals Union	11006
@@ -256,6 +265,7 @@ Gestión Hospitalaria	4209
 Gestão de Resíduos Hospitalares	11390
 Ghana Hostel	3386
 Ghana Hostel Complex	3386
+Government Hospitals	12240
 Governments A- Minimum Domestic Hosting Year	7548
 Governor. Hosted SADC CCBG	11131
 Green Financing Training Hosted the Green Financing	11131
@@ -286,6 +296,8 @@ Hospital Buildings	11129
 Hospital CEOs and Provincial	8603
 Hospital Central de Maputo	2816,7372
 Hospital Chemical	9123
+Hospital Data Management	12207
+Hospital Data Management Module for Births Registration	12186
 Hospital Distrital de Micomiseng	4209
 Hospital Distrital de Micomiseng Micomiseng	4209
 Hospital Divina Providência	10784
@@ -293,8 +305,9 @@ Hospital Edition	5984
 Hospital Edition. Byline	5984
 Hospital General de Malabo Malabo	4209
 Hospital Geral	11429,3,47
+Hospital Health Information System	12207
 Hospital Information System	3604
-Hospital Information System Maturity Model	1824
+Hospital Information System Maturity Model	1824,10431
 Hospital Josina Machel	11454
 Hospital La Amistad China Guinea Ecuatorial	4209
 Hospital La Paz Ebibeyín	4209
@@ -302,7 +315,7 @@ Hospital La Paz Micomiseng	4209
 Hospital La Paz Oyala	4209
 Hospital La Paz de Bata Bata	4209
 Hospital Loeri Comba	4209
-Hospital Management Information Systems	3400
+Hospital Management Information Systems	3400,8914
 Hospital Manager Date	8603
 Hospital Maternidade	10780
 Hospital Municipal De Kilamba Kiaxi	10784
@@ -314,7 +327,7 @@ Hospital Provincial	5296
 Hospital Regional de Bata Bata	4209
 Hospital Regional de Malabo Malabo	4209
 Hospital Regional de Malabo Mbini Nsork	4209
-Hospital Road	2775
+Hospital Road	2775,9476
 Hospital Sampaka	4209
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
 Hospital da Praia	1265
@@ -332,7 +345,7 @@ Hospital la Paz de Ebibeyín	4209
 Hospital-wide HMIS	2709
 Hospitalar	5020
 Hospitales	4209
-Hospitality	1877,898,7040,2141
+Hospitality	1877,898,7040,2141,199,146
 Hospitality Think Tank	7253
 Hospitalization	10780
 Hospitalization Rates and Hospital Capacity Specijalnosti	10780
@@ -355,15 +368,18 @@ Hossan	9129
 Hossan and Alhasnawi	9129
 Hossen	7759
 Host AI4I Challenge	3965,1438,1506
-Host Communities	1988,9912
+Host Communities	1988,9912,397
 Host Communities Project	1988
 Host Communities RPRF Policy Dimensions	11900
 Host Communities The Ministry of Gender	11900
 Host Communities and Refugees The World Bank	11924
 Host Community	1778,210
+Host Community Development Trusts	12308
+Host Community Development Trusts. Nigeria's OGP	12308
 Host Country Information Note	7074
 Host First National Digital Public Infrastructure	4808
 Host IASB	11955
+Host Ideathon	12241
 Host Intrusion Detection Systems	1000
 Host Liberia Technology Summit	7485
 Host MDAs	7548
@@ -382,7 +398,7 @@ Hostel	11180
 Hostel Staff Table	11180
 HostelMate	7968
 Hostile Rhetoric Against	3245
-Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717
+Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396
 Hosting ACIX	6238
 Hosting African	3436
 Hosting CPL-26	7884
@@ -414,6 +430,7 @@ IDA-20 Window for Host Communities and Refugees	11905
 IDA18 Refugee and Host Community	11924
 IDA20 Window for Host Communities and Refugees	1778,1917
 Information Hospitalier	3604
+Integrated Population of Refugees and Host Communities	12297
 Internal Security MORHCSA Modernization of Refugee and Host	1867
 Internally Displaced and Host Governance	11469
 International Airport Hospital	11986
@@ -426,10 +443,13 @@ Juba Teaching Hospital	4257
 Julius Maada Bio Pediatric Excellence Hospital	8086
 KZN Amajuba DM Newcastle Provincial Hospital	11986
 Kalafong Hospital	11986
+Kamuzu Central Hospital	12253
 Kanifing Hospital	10062
 Kathu Private Hospital	11986
 Kea Medical’s Hospital Information System	10822
 Kenya Hospital Association	955
+Kenya Longitudinal Socioeconomic Study of Refugees and Host	12297
+Kenyatta National Hospital	12310
 Kimberley Hospital	11986
 King Faisal Hospital Rwanda	7764
 Kitwe Teaching Hospital and Arthur Davison Children	7383,1
@@ -460,6 +480,7 @@ Mamohato Memorial Hospital	11628
 Management HospitalGauteng EMS Operational Call Taker	8603
 Mankweng Hospital	11986
 Mapear Necessidades de Hospedagem de Dados	570
+Mavalane General Hospital	12207
 Maxeke Johannesburg Academic Hospital	8603
 Mbeya Referral Hospital	5385
 Medical Director of Randle General Hospital	11968
@@ -477,6 +498,7 @@ Municipal Hospitals	10775
 Muriranja's Hospital	6378
 Muriranjas Hospital	6396,9
 Mwanawasa General Hospital	34
+Módulo de Gestão de Dados Hospitalares	12142
 NA NA Hosting	5533
 NC Francis Baard Northdale Hospital	11986
 NC Lenmed Kathu Private Hospital John	11986
@@ -484,9 +506,11 @@ NHIF National Hospital Insurance Fund NIA	2775
 NW Bojanala DM Tshilidzini Hospital	11986
 Nairobi Hospital	6274
 National Directorate of Hospitals	11417
+National Hospital Insurance	12151
 National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
 National Petroleum Corporation Hospital Jama’at Izalatul	11129
+National Police Service Level Four Hospital	12310
 Ndola Teaching Hospital	5984,1399,1
 Ndola Teaching Hospital Dr. Justo Banda	7384
 Network IXPs Hosting Cloud	10861
@@ -507,6 +531,7 @@ Petty-trade Hospital Primary	11857
 Police Hospital	11062
 Post Budget Seminar Hosted the Post Budget	11131
 Presight VP Muhammad Shameen Hosenbocus. Through	3624
+Private Hospitals	12240
 Project Coordinator-Zambia Refugee and Host Communities	1778
 Project Description The Zambia Refugees and Host	1778
 Project Eligibility Zambia Refugee and Host Community	1988
@@ -532,13 +557,16 @@ Regime Normativo de Hospedagem	11448
 Regional Hosting Hub Development The Federal	10157
 Regional Referral Hospital	1261
 Reglamento Interno Hospitalario	4209
+Reliance for Refugees and Host Communities	12297
 Reparación Lavandería de Hospitales	4209
 Research and Referral Hospital	3400
 Results-Based Hospital Information System	10865
+Returnees and Host Communities	12297
 S.A. Hossain	8022
 SIH Hospital Information System	3604
 Sebokeng Hospital Dr George Mukhari Hospital	11986
 Servers Zambia Refugee and Host Community Project	1988
+Seventh Day Adventist Hospital	12253
 Sheik Muhammad Shameen Hosenbocus	3281
 Sierra Leoneans. Hosted	9966
 Siloam District Hospital Project Implementation	11248
@@ -571,6 +599,7 @@ Upgrading Hospitals	10829
 Urban and Regional Host Communities Project	1988
 Virtual Telemedicine Hospital	7312
 WC Cape Town MM Somerset Hospital	11986
+WFP. Refugees and Host Communities	12297
 WINDOW FOR HOST COMMUNITIES	11905
 Window for Host	11905
 Window for Host Communities	1867

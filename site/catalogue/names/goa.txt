@@ -1,3 +1,5 @@
+AI Digital Infrastructure Goal	12210
+AI R&D and Innovation Goal	12210
 Academy SDG Sustainable Development Goal SME	4126
 Achieve the Goals of Agenda	8012,3,3268
 Achieving Digital Inclusion Goals	2677
@@ -14,6 +16,7 @@ Clean Water and Sanitation Goal	11332
 Climate Action Goal	11332
 Closing the Digital Gap National Goals	4130
 DEVELOPMENT GOALS	10852
+Data Goal	12210
 Data Sharing The GoA	10775
 Decent Work and Economic Growth Goal	11332
 Definition Workstreams Possible Actors Goal Build	899
@@ -23,7 +26,7 @@ Description The Sustainable Development Goal	377
 Development Goal SDI Service Delivery Indicator	11560
 Development Goal SEA	11549
 Development Goal TAPED Trade Agreements Provisions	1243
-Development Goals	1988,9562,436
+Development Goals	1988,9562,436,255
 Development Goals SDGs Statement of Expenditures SOE	11855
 Development Goals SIDA Swedish International	1814
 Development Goals SPI Statistical Performance Indicator	4214
@@ -32,6 +35,7 @@ Digital Sovereignty and Tech Hub Goals Senegal	2627
 Digital Transformation Goals	2306
 Economic Development Goals	3861
 Equity SDGs Sustainable Development Goals SOE	11271
+Equity and Inclusion Goal	12210
 Ethiopia. Goal	952
 Financial Inclusion Goals	6362
 Future Goal Electronic	5911
@@ -41,6 +45,7 @@ GDP GFDRR GoA Senior Health and Community	10763
 GENERAL DIRECTION AND GOALS	1000
 GOAL AND OBJECTIVES OF THE SPECTRUM	5245
 GOAL DEFINITION	899
+GOAL Kenya. CRS	12138
 GOALLORD-CREATIVITY	11879
 GSMA Philippe Goabga	10856
 Gender Equality Goal	11332
@@ -49,7 +54,7 @@ GoA and DPF-supported	10779
 GoA the Diário da República	10779
 Goal Given the CMA Agreement	11131,3
 Goal Thriller Independent	2885,1650,350,49,187,653,25,474,547,1,222
-Goals	395,198,196,472,647,867,728,1411,764,395,4703,556,606
+Goals	395,198,196,472,647,867,728,1411,764,395,4703,556,606,272,36
 Goals Ongoing	6133
 Goals Quick	7204
 Goals of Vision	10964,21
@@ -60,6 +65,7 @@ Goat Productivity Project	1554
 Goat Productivity Project Lupane District	1554
 Goat Project	1554
 Good Health and Well-being Goal	11332
+Governance Goal	12210
 Government of Angola and Angolans. GoA	10765
 Government of Angola and Angolans. The GoA	10775
 Hogares SDGs Sustainable Development Goals SISBEN	11133
@@ -72,6 +78,7 @@ IV. Policy Goals	1597
 Imunização GOARN Rede Mundial de Alerta	11376
 Innovation and Infrastructure Goal	11332
 Institutions SDG Sustainable Development Goal SOE	11192
+Investments Goal	12210
 Justice and Strong Institutions Goal	11332
 KENYA Goal Definition Workstreams	899
 KenSafeSpace Network Sets Goals and Builds	7609
@@ -93,18 +100,22 @@ Policy Goal and Objectives	7548
 Poverty Goal	11332
 Price and Specific Goals	11209
 Product GoA Government of Angola GRM Grievance	10768
+Project Goal	12168
 Quality Education Goal	11332
 RCZ Goat Project. The RCZ	1554
 Readiness Assessment SDG Sustainable Development Goal	10829
 Reduced Inequalities Goal	11332
 Refugee Affairs SDG Sustainable Developmental Goals	5533,6453
+Registration Agent SDG Sustainable Development Goal	12151
 Related Sustainable Development Goals	8943
 Responsible Consumption and Production Goal	11332
 SDG Sustainable Development Goal SIDS	11572
 SDG Sustainable Development Goals Figure	582
 SDGs Sustainable Development Goals M&E Monitoring	396
+SDGs Sustainable Development Goals SLAs Service	12240
 SDGs Sustainable Development Goals SME Small	7548
 SDGs Sustainable Development Goals SRHD Social	970
+SDGs Sustainable Development Goals UIN Unique	12241
 SPECIFIC GOALS POINTS	11209
 Shaping Collective Goals	5700
 Shared Goal	4442
@@ -118,8 +129,9 @@ Strategic Goals	1000,2487
 Strategic Goals Objective	1000
 Strategy Paper SDG Sustainable Development Goals	11863
 Sustainable Cities and Communities Goal	11332
-Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311,430
-Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21
+Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311,430,579,24,17,35,13,1,37
+Sustainable Development Goal SFP	12175
+Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21,176,3,22,17,17,9
 Sustainable Development Goals Goal	11332
 Sustainable Development Goals In the UN General	11193
 Sustainable Development Goals Perfonnance Fund	4349
@@ -134,10 +146,12 @@ Sustainable Development Goals. Shimuafeni	8005,408
 Sustainable Development Goals. UNDP Mauritius Open	11332
 Sustainable Development Goals. United Nations Sustainable	10834
 Sustainable Developmental Goal	5533,6453
+Talent Development Goal	12210
 UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846
 UN Sustainable Development Goals. Entities Joint	3583
 Under Goal	10550
 United Nation's Sustainable Development Goals	940
+United Nations Development Goals. Borsa Istanbul	12231
 United Nations Sustainable Development Goal	8147,889
 United Nations Sustainable Development Goals	582,358,21,235,1078,314,1538,1550,798,730,154,329,335,2569,231,155,27,898,54
 United Nations Sustainable Development Goals Guidance	1243

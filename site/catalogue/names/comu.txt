@@ -52,7 +52,7 @@ Comunicacoes de Mocambique	1526
 Comunicado	8578,2881
 Comunicado Final	4147
 Comunicar	163,2658,7934,629,54,5,83,375
-Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37
+Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238
 Comunicação IM Mediador	11555
 Comunicação Institucional	1192,9580
 Comunicação Instituto Nacional de Avaliação	10766
@@ -60,8 +60,10 @@ Comunicação IoT	2816
 Comunicação PAAO Plano de Ação Anual Orçamentado	11557
 Comunicação Prévia	11458
 Comunicação S	539
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487
+Comunicação Social Artigo	12311
 Comunicação Social Sublinhou	5974
+Comunicação Social. Artigo	12311
 Comunicação Social. Disse	3906
 Comunicação TUPPI	11387
 Comunicação UA	2816
@@ -78,7 +80,7 @@ Comunicação. Já	10614
 Comunicação. PARTE I ASSEMBLEIA NACIONAL POPULAR	11518
 Comunicação. Perfil de Entrada	12019
 Comunicação. Sob	167
-Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127
+Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14
 Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136
 Comunicações Eletrónicas	4435
 Comunicações Eletrônicasetc	11456
@@ -90,7 +92,7 @@ Comunicações Publicitárias	11360
 Comunicações and Tecnologias de Informação	2295
 Comunicações da Comunidade	11393
 Comunicações da Guiné-Bissau	11518,13
-Comunicações de Moçambique	2866,5792,308,468,1677
+Comunicações de Moçambique	2866,5792,308,468,1677,1045
 Comunicações. Artigo	15,2851
 Comunicações. Neste	11415
 Comunicaçōes	2866
@@ -100,13 +102,14 @@ Comunidad Nacional	1701
 Comunidad de Desarrollo	8881
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Comunidad de Vecinos	4209
-Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38
+Comunidade	2618,248,3705,1480,1185,1546,580,31,2,60,76,38,632,83
 Comunidade Económica	5402,1169,4473,487,11,27
 Comunidade Económica Regional	11542
 Comunidade Integrada	1256,84,743,2330
 Comunidade Local	11514
 Comunidade de Desenvolvimento	5974,2880,142,1087,1367
 Comunidade de Países de Língua Portuguesa DLI	2816
+Comunidade de Tecnologia	12284
 Comunidade. Através	2688
 Comunidades	2688,8063,662,12,89,9,4,42
 Comunidades Afectadas	11390
@@ -127,6 +130,7 @@ Conductor B1 Oficial de Comunicación A1 Recepcionista	4209
 Conductor B2 Oficial de Comunicación B2 Recepcionista	4209
 Conselho Municipal de Auscultação da Comunidade	11373
 Conselho Nacional de Comunicação Social	11513,48
+Conselho Superior da Comunicação Social	12311
 Coordenação Escolar Comunal Centro de Formação Local	10766
 Coordenações Comunais da Educação	10766
 DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO	11396
@@ -185,6 +189,7 @@ LEI DAS COMUNICAÇÕES ELECTRÓNICAS	15
 La Comunicación Audiovisual	9303
 Laboratório da Comunidade	7342
 Lei da Comunicação Social	12124
+Lei da Comunicação Social URL	12311
 Lobito. Gabinete de Comunicação Institucional	11474
 MINISTÉRIO DOS TRANSPORTES E COMUNICAÇÕES PROJECTO	11542
 MUNICÍPIOS E NAS COMUNAS	1215
@@ -229,6 +234,7 @@ Política de Comunicaciones	1701
 Política de Comunicaciones ODS	1701
 Política de Medios de Comunicación	1701
 Problemas de Comunicação	11561
+Profissionais de Comunicação Social Artigo	12311
 Programa Comunicación Institucional	4209
 Proyecto Nacional de Comunicación	4209
 Proyecto de Desarrollo Forestal Comunitario	4209
@@ -251,6 +257,7 @@ SERVIÇOS DE COMUNICAÇÕES ELECTRÓNICAS	11430
 SUBSECÇÃO XIII Operador de Comunicações Digitais Artigo	6970
 Sanitária. ASC Agente de Saúde Comunitário. ARFAME	11543
 Secretário de Estado da Comunicação Social	11378
+Sector da Comunicação Social	12311
 Secção Gabinete de Comunicação Campanha	10753
 Secção Gabinete de Comunicação Segurança	10750
 Segurança Comunitárias Relevante Os	11542

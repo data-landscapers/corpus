@@ -38,7 +38,7 @@ FidoNet. FidoNet	1036
 Fidonet	1036
 Fidonet Before TCP	1036
 Fiduciaire	11567
-Fiduciary	969,295,603,1022,715,110,939,1886,4229,61,135,453,108,35,295,50
+Fiduciary	969,295,603,1022,715,110,939,1886,4229,61,135,453,108,35,295,50,271
 Fiduciary Assessment	11905
 Fiduciary Moderate	11905
 Fiduciary Obligations	11956
@@ -56,7 +56,7 @@ Fidélisation	10712
 Fond Fiduciaire	643
 Fundo Fiduciário	1265
 General Data Engineering Services Engr. Fidelis	11857
-Integrated Fiduciary Systems Assessment	11905
+Integrated Fiduciary Systems Assessment	11905,271
 Le FID	9744
 MASSIF. Series B. FIDO	1472
 Management Team Fiduciary Management	6946

@@ -5,6 +5,7 @@ API for All Models CAIMEx	5226
 Africa. CAIF	510
 Agency CAIR Centre for Artificial Intelligence Research	1814
 Allo CAIDP	3340
+Annual CAIDI Hours	12256
 Arbitrage du Caire	10975
 Article Cairo University Launches Free Program	5322
 Building Block. CAITA	3272
@@ -16,6 +17,7 @@ CAI Pas	748
 CAI Portail	748
 CAIBIE	7788
 CAICT	1827,1772,8203
+CAIDI	12256
 CAIDP	3340
 CAIDP Mobile	3340
 CAIDP. Elle	3340
@@ -122,6 +124,7 @@ Le CAI	747,1
 Le Caire	3658,2617,145
 Maputo Caixa Postal	2474
 Model LLM Exchange CAIMEx	5226
+Monthly CAIDI	12256
 Nairobi and Cairo	7137
 Operator Response Rate Cairo	11642
 Programme ACCESS CAIDP	3340
@@ -138,3 +141,4 @@ Terminais de Caixa Automático	8493
 Tharien Potgieter CAIR	11336
 Turkmenistan Turks and Caicos Islands Tuvalu Uganda	11470
 University of Johannesburg. CAIR	11336
+Unlike CAIDI	12256

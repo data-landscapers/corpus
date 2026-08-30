@@ -41,7 +41,7 @@ Banque Centrale de Mauritanie	9656
 Banque Centrale de Tunisie	11614,179
 Banque Centrale des Comores	1854,606,3585,14,87
 Banque Centrale des Etats	3604,7107,811,45,377
-Banque Centrale du Congo	5836,207,3254,2651,12,13
+Banque Centrale du Congo	5836,207,3254,2651,12,13,279
 Banque Centrale. Article	10836
 Banque Centrale. Cette	11614,330
 Banque Centrale. Il	10836,1108
@@ -109,6 +109,7 @@ Directeur Général de Banque Atlantique Niger	6883
 Données Banque Mondiale	11944
 Données Findex Banque des Etats	11944
 EMF Banque des Etats	11944
+Equity Banque Commerciale du Congo	12252
 Financières BEAC Banque des Etats	11944
 Foncier BM Banque Mondiale CAGD Caisse	10876
 Francophonie BAD Banque Africaine de Développement CSCRP	12

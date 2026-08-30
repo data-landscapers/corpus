@@ -40,7 +40,7 @@ COUNTY PENSION FUND Data Controller INST-96078176AB9	7167
 CPF INDIVIDUAL PENSION SCHEME Data Controller	7167
 CURRENT BROADBAND PENETRATION	11857
 Cameroonian Penal	10979
-Cape Peninsula University of Technology	8130
+Cape Peninsula University of Technology	8130,4048
 Capital Penda and Zimba Women	9781
 Center for Social Pensions	11855
 Centro Nacional de Pensões Sociais	11855
@@ -55,7 +55,7 @@ Complaints Handled Total Resolved Pending No	6946
 Conduct Penetration Testing	4610
 Contribuciones Pensiones	4209
 Coordination of Humanitarian Affairs PEN7	10776
-Código Penal	795,4416,1759,2191,1586,666,23,465
+Código Penal	795,4416,1759,2191,1586,666,23,465,410
 Código Penal. Artigo	6970
 Código Penal. CAPÍTULO III Disposições Processuais	6970
 Código Processos Penal	9176
@@ -127,7 +127,7 @@ Insurance and Pensions	940
 Insurance and Pensions Commission of Zimbabwe	940
 Interim Relief and Safeguards Pending	3861
 International Penetration	11857
-Internet Penetration	4794
+Internet Penetration	4794,7420,31
 Internet Penetration Rate	6000
 Internet. Pendant	11110
 JUEZ DE VIGILANCIA PENITENCIARIA	4209
@@ -149,7 +149,7 @@ Mobile Data Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate Subscription	2776
 Mobile Money Penetration	940
-Mobile Penetration	2776,4170
+Mobile Penetration	2776,4170,5299
 Mobile Penetration Mobile	6946
 Mobile Subscription Penetration Rate	2776
 Mobile Subscriptions and Penetration	6671
@@ -167,6 +167,8 @@ National Center of Social Pensions	11855
 National Computer Response Team. Penalty	587
 National Pension Scheme	6458
 National Pensions Scheme Act No.7	1988
+National Traffic Point-Based Penalty Management	12200
+National Traffic Point-Based Penalty Management System	12200
 Nyabira Pension Owned Vacant Residential	4896
 O Código de Processo Penal	9176
 O Pensador School	7262
@@ -195,17 +197,18 @@ Payroll and Pension Data	10829
 Pen Interview PCMA Publicity	11192
 Pen Testing	4610
 PenPlusBytes	9082
-Penal	3519,690,6538
-Penal Code	3583,1060,475,304,1548,303,2943,317,446,874
+Penal	3519,690,6538,1470
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93
 Penal Code Act	1535,3887
 Penal Code Cap	11857
 Penal Code Chapter	1988
+Penal Code Republic Information	12201
 Penalidade	11443,139
 Penalidades	11383,60,13
 Penalizar	1701
 Penalizações	4274
 Penalizing	6362
-Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578
+Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58
 Penalties CHAPTER	11190
 Penalties Ibrahim	9522
 Penalties Penalties	9409
@@ -239,6 +242,7 @@ Penetration Infrastructure IN6	11857
 Penetration Number of Adults	11857
 Penetration Quarterly	11952
 Penetration Rate	2776,3895
+Penetration Safe	12205
 Penetration Test and Load Test	7266
 Penetration Testers	6832
 Penetration Testing	4610
@@ -261,7 +265,7 @@ Pensamos	3692,3423
 Pensar	1701
 Pensez	747
 Pensioen Fondse	11255
-Pension	418,3469,2451,600,1043,1621,1183,27,319,845
+Pension	418,3469,2451,600,1043,1621,1183,27,319,845,278
 Pension Fund Depreciation	4896
 Pension Fund Regulatory and Development Authority	7981
 Pension Funds	2775,2197,6283
@@ -269,6 +273,7 @@ Pension Funds Act	3714,7541
 Pension Online Services I-24 Job Portal	10785
 Pension Online Services and Job Portals	10785
 Pension PART IV	1220
+Pension Reform Act	12145
 Pension Scheme	7695
 Pension Schemes	2775
 Pension System I-11	10785
@@ -305,6 +310,7 @@ Pentecost University	9007
 Pentecostal Brethren Church	3046
 Penyi-Aflao	7695
 Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Politics. Penguin Random House	12227
 Population Penetration Rate	2776
 Private Pension Schemes Act	7845
 Private Pension Schemes Act FOURTH SCHEDULE	7845
@@ -357,6 +363,7 @@ Through Line Advisors Gaia Penteriani	10856
 Treaty Interpretation. University of Pennsylvania Law Review	1243
 UEMOA. Pendant	8140
 UNDERSTATEMENT PENALTY Part A Imposition	11181
+UNDP's Malawi Country Office. Pension	12144
 Ubiquity Press. Peng	12090
 Universal Pension Scheme A BLUEPRINT	11133
 University of Pennsylvania	11140

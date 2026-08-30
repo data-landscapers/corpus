@@ -1,6 +1,8 @@
+A1 Figure	12256
 A4AI Fig	11857
 ABBREVIATIONS Figure	582
 ABRIDGED REPORT Figure	582
+ACB Dashboard Figure	12241
 AES Fig	6959
 AI Strategy Focus Areas Figure	1814
 ANALYSIS OF DOMESTIC TRANSACTIONS Figure	6408
@@ -27,10 +29,13 @@ Angola Figure	10763
 Angola's Distribution of Poverty Figure	10765
 Angola’s Distribution of Poverty Figure	10775
 Annex Figure A.3	10985
+Annexes Figure	12297
 Annual Figure	10976
 Annual General Meeting Fig	1554
 Anti-Corruption Fight	5910,491
+Anticipatory Action Review Workshop Figure	12241
 Appendices Figure	11004
+Apr-25 May-25 Jun-25 Figure	12256
 Area for Housing Development Figure	2775
 Asian White Figure	11192
 Asshownin Figure8	8606
@@ -53,9 +58,11 @@ Burkina Faso Figures	10859
 Buyer Profile Figure	4972
 C Figure	582
 C and D. Figure	10785
+C2. Figure	12151
 CA Figure	6671
 CAPI Computer Assisted Personal Interview Figure	582
 CAUTION ON TWO CAPITAL FIGURES	5912
+CCuummuullaattiivve Custtoommeerrss Figure	12256
 CHALLENGES FACED BY FEMALES Figure	1940
 COMMUNICATION AUTHORITY OF KENYA Figure	6946
 CONGO FIGURES	1828
@@ -72,6 +79,7 @@ Cetic.br. Figura	2816
 Chad Figures	2505,1414
 Child’s Fingerprints Collection Figure	10775
 Citizens Figure	396
+Civic Education Strategy for NRB Figure	12241
 Civil Registration Massification Campaign. Figure	10775
 Climatic Shocks and Food Security Figure	10763
 Cloud ERP Implementation and Technology Integration. FIGURE	9129
@@ -86,14 +94,17 @@ Country Figure	4972
 Country of Origin Fig	1554
 Crops Research Institute. Figure	12090
 Cuvette. Figure	11924
+Cybersecurity FIGURE	12214
 Cybersecurity and Fight	1264
 D Clustering Figure8	8606
 DBSCANClustering Figure13	8606
 DHS Analysis Figure	12006
 DNIRN. Figure	10775
+DRC and Burundi. Figure	12256
 DSM. Figure	1243
 DStv. FIGURE	8130
 Dari and Pashto. Figure	7790
+Data Centre Building. Figure	12253
 Department of Veterinary Service Lupane District Fig	1554
 DesignModelforaLiveHealthcareConsoleversion0.2 Figure	8603
 Desktop Application Veriﬁcation Figure	8604
@@ -106,10 +117,12 @@ Diversity Focus Figure	4972
 Download Figure	11140
 Driving Figure	582
 Drug Fight	11720
+E-Mobility Street Lighting Figure	12256
 EA Enumeration Area Figure	582
 ENEO. Figure	10975
 ESATIC IN FIGURES	10948
 ETB..........................................5 Figure	5655
+EV Other Hybrid Diesel Gasoline Figure	12233
 EVIDENCE AT A GLANCE FIGURE	11156
 Economic Freedom Fighters	8398
 Education and Teaching System. Figure	10775
@@ -117,7 +130,10 @@ Electricity Figure	11136
 Electricité Figure	10975
 Employment Figure	11296
 Engagement Investment Applications Figure	396
+Ethiopia Figure	12225
+Ethiopia's Figure	12233
 Ethiopia. Figure	1212
+Evolution of International Crude Oil Prices Figure	12256
 Expenditure Figure	10985
 Extended Data Fig	11585
 FC Kallon Will Fight Till	7814
@@ -127,15 +143,16 @@ FCMB Nigeria FIG Trade Finance	11469
 FIGU1R5	11572
 FIGUEIREDO SAMBOLO ZAI PAPELO	10751
 FIGURA	11531
-FIGURE	1009,152,4053,2441,104,262,1,108,999,108,379,1514,26,115,301,307
+FIGURE	1009,152,4053,2441,104,262,1,108,999,108,379,1514,26,115,301,307,335
 FIGURE A.3 GENERIC EXAMPLE	1009
 FIGURE B135.10	11572
 FIGURE ES.1	11572
-FIGURES	1828,9169
+FIGURES	1828,9169,1228
 FIGURES Figure	11136,48
 FINANCIAL INFORMATION No Figures Part G	11250
+FINANCIAL YEAR Figure	12256
 Facts and Figure	1814
-Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316
+Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316,335
 Facts- Figures2019.pdf International Telecommunication Union	961
 Female. Figure	3862
 FigFuigreur1e.21	2775
@@ -166,7 +183,7 @@ Figuil	3412
 FigurPeO2P.U10L	10763
 Figura	2138,678,7956,5,613,6,1,9,10,131,8,19
 Figuras Figura	2816,8590
-Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28
+Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,11,8,7,1,5,7,3,22,19
 Figure A	11250
 Figure A.1	1009,7594,2,2380
 Figure A.1. Social	10985
@@ -233,7 +250,7 @@ Figure5	8606
 Figure6	8606
 Figure9	8606
 FigureB1.2	11136
-Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8
+Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3
 Figures ES.1 Mobile	10977
 Figures Figure	10764,11,788
 Figures O.1 Trade-Growth Line and Composition of Exports	11149
@@ -262,6 +279,7 @@ Global Innovation Tracker. Figures	10846
 GovTech. Figure	10785
 HAS A DATED FIGURE FOR FY2024	1251
 HFO Figure	10975
+HHI Target Figure	12256
 HNSF Implementation FIGURE	1009
 HUMAN RESOURCE MANAGEMENT No Figures	11250
 Hamilton Research Figure	11552
@@ -281,6 +299,7 @@ ID. Figure	11919
 IDI ICT Development Index Figure	582
 IEC Explains the Figures Responding	9315
 INTEGRATING AFRICA Figure O.1 Trade-Growth Line	11149
+IPPs. Figure	12256
 ITU Facts and Figures	6946
 ITU Figure	11563
 ITU International Telecommunications Union Figure	582
@@ -289,6 +308,7 @@ Inaugural Research for Agricultural Excellence Indaba Fig	1554
 Incentives Fig	11857
 Incentives. Fig	11857
 Included Figure	8605
+Inclusive Digital Transformation for Malawi Figure	12241
 Incoming Figure	3862
 Indicative Planning Figures and Funding Availability	4217
 Indice de Figuras Figura	11390
@@ -298,12 +318,15 @@ Information and Communication Sector. Figure	3862
 Institution of Affiliation Fig	1554
 Institution of Affiliation Figure	1154
 Institutional Figure	6408
+Interactive Website for NRB Figure	12241
 Intra-African Trade.....12 Figure	10718
 Investissements Projet Figure	10975
 Investor Profile Figure	4972
 IoT and AI. Figure	6593
 Iterative HNSF Development FIGURE	1009
 Jorge Figueiredo	4288,7728
+Jun-25 Figure	12256
+KNBS Figure	12151
 Kenya and Tanzania. Figure	4439
 Kisumu and Nyeri Counties. Figure	6946
 Km2. Figure	1988
@@ -320,8 +343,11 @@ LISTE DES FIGURES Figure	737,9975,253
 LMICs. Figure	11994
 LOCATION OF RESPONDENTS Figure	1940
 LTE Long Term Evolution Figure	582
+Life Counts Figure	12151
+Life Counts List of Figures Figure	12151
+Lilongwe. Figure	12253
 Line Ministry. Fig	1554
-List of Figures	236,346,1232,4186,946,4249,55,812
+List of Figures	236,346,1232,4186,946,4249,55,812,89
 List of Figures Chapter	10763
 List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803
 List of Figures PART	11250
@@ -330,6 +356,7 @@ List of Tables List of Figures	2775
 List of Tables Page List of Figures Page	11986
 Luanda Figure	10775
 M2M Subscriptions Figure	6000
+MALAWI DIGITAL READINESS ASSESSMENT FIGURE	12214
 MICS. FIGURE	11879
 MINJUSDH. Figure	10775
 MINUTES Figure	8603
@@ -339,7 +366,10 @@ MTN Telecel Figure	2776
 MTN Telecel Total Figure	2776
 MTN Vodafone AirtelTigo Figure	2776
 MW Figure	12062
+MW. Figure	12256
+MWh. Figure	12256
 Madagascar. Figures	3433
+Malawi Official Use Only Figure	12253
 Male Female Figure	1154,10038
 Mali Fig	6959
 Market Interventions Figure	6946
@@ -353,6 +383,7 @@ Minister. Figure	11857
 Mobile Data Traffic Figure	2776
 Mobile Subscriptions and Penetration Figure	6671
 Month Treasury Bill Rate Figure	1828
+Mozambique and South Africa. Figure	12256
 NCA National Communications Authority Figure	582
 NCA. Figure	236
 NDPC National Development Planning Commission Figure	582
@@ -360,7 +391,9 @@ NITA National Information Technology Agency Figure	582
 NM M W Figure	1154
 NO. COMMERCIAL COMMUNITY AUTHORISED Figure	2776
 NRI Figure	11857
+Namanga Loitoktok Lunga Lunga Figure	12256
 Namibe NGANETA CLAUDERINHA FIGUEIREDO DOS SANTOS	10751
+National FIGURE	12214
 National Identity Program Figure	10840
 Netherland Figure	11129
 Nigeria Fig	11857
@@ -371,7 +404,7 @@ Note Figures	324
 ORGANISATIONAL SIZE Figure	1940
 OTI BONO Figure	582
 Oceania. Figure	10840
-Official Use Only Figure	10985,484
+Official Use Only Figure	10985,484,784
 Official Use Only Figure A.2. Transfer	10985
 Operators' Returns Figure	6671
 Opérateur. Figure	10975
@@ -389,6 +422,7 @@ PIT Project Implementation Team Figure	582
 PMT Project Monitoring Team Figure	582
 POM. Figure	10829
 PSU Primary Sampling Unit Figure	582
+Participation and Demographics FIGURE	12214
 Percentage of Poor Covered Figure	10985
 PforR. Figure	10975
 Physical Infrastructure Figure	10976
@@ -417,6 +451,7 @@ Referencial Estratégico Figura	11396
 Refugees Figure	10841
 Regional Refugee and Internally Displaced Persons Figures	10841
 Registrations Fig	1554
+Renewable Energy Imports Thermal Figure	12256
 Research Area Fig	1554
 Reserve Bank of Zimbabwe Figure	940
 Results Figure	8022,414
@@ -429,13 +464,16 @@ Russie Fig	6959
 Rwanda. Figure	11960
 S. Figueroa Street Los Angeles	3364
 SADC Regional ICT Facts and Figures Report	3476
+SAIFI Benchmark EPRA Target Figure	12256
 SB ATB. Figure	5247
 SDG Sustainable Development Goals Figure	582
 SDHs. Figure	6946
 SIM Subscriber Identification Module Figure	582
 SMS Figura	11574
 SMS Short Messaging Services Figure	582
+STATISTICS SYSTEMS OF Figure	12138
 SUBSCRIPTIONS Figure	6000
+SYSTEMATIC STAGE FIGURE	12214
 Sahel Fig	6959
 Sector Figura	11574
 Serviços de Internet Figura	11574
@@ -443,6 +481,7 @@ Several Fighters Neutralised	4738
 Sous-programmes Figure	10975
 South Africa. Figure	11265
 South Africa. Figures	2492
+Strong Institutions. Figure	12241
 Student Information Systems. FIGURE	9128
 Subcribers Figure	4517,2461
 Subscription Figure	2776
@@ -467,6 +506,7 @@ Uganda. Figure	11964
 Unemployment Figure	11296
 Urban Angola Figure	10763
 Urban Areas Figure	10763
+V Figure	12256
 VACANCIES Figure	1940
 Volume de Negócios TELECEL ORANGE Figura	11574
 Voz Figura	11574
@@ -481,6 +521,7 @@ World Bank World Development Indicators Figure	10856
 World Bank. Figure	11874,7
 World Figure	1828
 XMLfiles. Figure6	8606
+Year Figure	12151
 Year..............................7 Figure	10718
 Year........11 Figure	10718
 YoY Figure	4972

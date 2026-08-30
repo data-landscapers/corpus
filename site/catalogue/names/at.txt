@@ -22,6 +22,7 @@ ATAF Publication Copyright	573
 ATAF Secretariat	573
 ATAF Suggested Approach	573,2588
 ATAF Technical	573
+ATAF and East African Revenue Authorities Technical	12208
 ATAF and WATAF	10550
 ATAF-supported	7238
 ATAFTAX SUGGESTED APPROACH TO DRAFTING SIGNIFICANT	3161
@@ -55,6 +56,7 @@ ATFPEN	10821
 ATHI-RIVER MODERN HOSPITAL Data Controller INST-6689191C417	7167
 ATHICHEM MODERN MEDICAL CENTRE LTD Data	7167
 ATHLéTISME	10688
+ATI URL	12208
 ATI-NTIC	5573
 ATIA-Updated-Whitepaper-10.11.2025.pdf	3930
 ATIDI	11310
@@ -93,7 +95,7 @@ ATM Another	10161
 ATM Card	12038
 ATM Fleet	11955
 ATM Machines	11955,83
-ATM PIN	12038
+ATM PIN	12038,233
 ATM POS Santo Antão	11955
 ATM Parts	11955
 ATM Personal Identification Number	12038
@@ -101,7 +103,7 @@ ATM PoS	10161
 ATM Policy Out of Touch	12038
 ATM Population Merchants and POS	6978
 ATM Population Page	4517
-ATM and POS	2849,1437,7669
+ATM and POS	2849,1437,7669,314
 ATM and POS. LeSwitch	2849
 ATM. Innbucks	6996
 ATM. Instead	12038
@@ -110,6 +112,7 @@ ATMs POS Debit Cards Credit Cards	4517
 ATMs Zimbabwe Zimbabwe	6996
 ATMs and POS	2927,2249,2627,4157
 ATMs. Mobile	11130
+ATMs. SIMO	12270
 ATNA. DICOM ASTM E2147-01	1009
 ATOC European Union	11154
 ATQ-adjusted	1818
@@ -265,6 +268,9 @@ Atendimento de Reclamações	11368
 Ateng	5083
 Atento	11569
 Atentos	539
+Atenu Blog	12199
+Atenu.org	12199
+Atenu.org Research Desk	12199
 Ateny	4082,141,726,134,24,899,272,3,2797,1579,1027
 Ateny Minister of Information Ateny Wek Ateny	9078
 Ateny Wek Ateny	4223,726,158,939,232,3,5403
@@ -375,10 +381,14 @@ Atlântico. Texto Felisberto Ruco	11111
 Atmosfera	11553
 Atmospheric	9475
 Atmospheric Administration PC Personal Computer PR	11553
-Atnafu	3791,7805
+Atnafu	3791,7805,659
 Atnbd	10965
+Ato Elias Asnake	12195
 Ato Forson	7594,146
 Ato Forson Finance Minister Dr Cassiel	7740
+Ato Mengistu Desalegn	12195
+Ato Shiferaw	12195
+Ato Solomon Shimelis	12195
 Atomic Scientists	2518,2158
 Atores-chave	11569
 Atos Consulting	235
@@ -393,7 +403,7 @@ Atouts GIM-interbancaire C’est	10711
 Atrair	10772
 Atraso	10783,647,102
 Atrasos	4209
-Através	576,1478,2240,726,1575,4791,44,98,41
+Através	576,1478,2240,726,1575,4791,44,98,41,573
 Através Deste	10755
 Através da Resolução	2816
 Atrho Wald	7886
@@ -422,18 +432,27 @@ Attached	2989,4621,972
 Attached Files	9854,1414
 Attached PDF	4431,1594
 Attachment	2123,351,3971,4619,804
+Attachment I	12225
+Attachment II. Data Tables Numerical	12225
+Attachment III	12225
+Attachment III. Institutional Framework Ethiopia	12225
+Attachment III. P5-16	12225
+Attachment III. Performance Assessment Report	12225
+Attachment IV. Current Status of Tax Administration	12225
+Attachment V	12225
 Attachments	1065,376,2273,5012,3142
 Attachments ESCOPs	1988
 Attaché	8321
 Attack	1938,3659,473,1401,2344
 Attack Monarch	10274
-Attackers	8640,71,1314
+Attackers	8640,71,1314,2277
 Attacking U.S. Tech Firms Won’t Help	6582
 Attacks	5247,430,2527,2012,1770
 Attacq	2246,293
 Attacq and Vantage Data Centres	2246,293
 Attafuah	3752,6408
 Attain	7538,3593
+Attainment	12226
 Attainment of EU	3787
 Attaque	1231
 Attaques	6959
@@ -442,8 +461,8 @@ Atteignables	10858
 Atteindre	1702,8679
 Attempt	11179
 Attempting	11190
-Attempts	961,2346,676,1550,1146,3736,1494,9,68
-Attend	2119,5665
+Attempts	961,2346,676,1550,1146,3736,1494,9,68,241
+Attend	2119,5665,4469
 Attend Toolbox	1988
 Attend-il	4729
 Attendance	1009,545,434,7518,1350,14,264,58,794,107
@@ -455,10 +474,11 @@ Attended	5283,2937
 Attendee List	8764
 Attendees	1554,314,1540,1688,4664,664
 Attending	940,3313,2141
+Attending ECE	12175
 Attente	737
 Attente Dossier	10975
 Attentes	2917,49,3993
-Attention	747,214,6956,34,215,95,186,145,531,2007
+Attention	747,214,6956,34,215,95,186,145,531,2007,1007
 Attenuating	11140
 Atterrissement	3252
 Attestation	6889
@@ -475,21 +495,25 @@ Attitude	5349,2781,2810
 Attitudes	6832,1190,4068
 Attoban	11653
 Attorney	7548,1851,2401,53
-Attorney Advertising. Copyright	11880
+Attorney Advertising. Copyright	11880,421
 Attorney Annual	7548
 Attorney Establish	7548
 Attorney Expand	7548
-Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229
+Attorney General	3,1151,44,45,586,618,558,302,265,1181,697,43,1313,742,1301,100,128,136,432,1,92,336,1055,2,1,475,68,178,13,229,56,89,50,10
 Attorney General AGOA African Growth and Opportunity	2775
+Attorney General ASFR Age Specific Fertility	12151
 Attorney General Githu Muigai	9645
 Attorney General Mr Frank Ally	6806
 Attorney General Mr Vinsent Perera	6806
 Attorney General Mulilo Kabesha	7223
 Attorney General Sifiso Khumalo	5774
+Attorney General Thabo Chakaka Nyirenda	12309
 Attorney General Todd Blanche	11342
 Attorney General and Commissioner of Justice	11129
 Attorney General and Department of Justice	9188
 Attorney General and Minister of Justice	3942
+Attorney General and State Department	12138
+Attorney General and State Department of Justice	12138
 Attorney General of Mozambique	1829
 Attorney General of The Federation and Minister of Justice	2934
 Attorney General of Uganda	3005
@@ -502,10 +526,11 @@ Attorney General's Office. Once	2104
 Attorney General. Court	6796
 Attorney General. Guidelines	6946
 Attorney General’s Office	6806,4325,3
+Attorney Rule of Law	12201
 Attorney Services	7845
 Attorney Technologies Emerging Technologies Act	7548
 Attorney- General	587,8391
-Attorney-General	3,584,1401,721,33,1090,696,1370,25,864,661,46,2819,802,349,325,64,4,119
+Attorney-General	3,584,1401,721,33,1090,696,1370,25,864,661,46,2819,802,349,325,64,4,119,169,86
 Attorney-General and Minister of Justice	12059
 Attorney-General's Office	783,8616,906
 Attorney-General’s Office	4528,2408,1632,1680
@@ -562,7 +587,8 @@ Attribution des Fréquences	5361
 Attribution des Titres Tarification SSEC	10975
 Attribution du Marché	9339
 Attribution--Please	10812,165
-Attribution-Noncommercial	2775
+Attribution-Noncommercial	2775,9376
+AttributionNonCommercialShareAlike	12227
 Attributions	1214,1411,2736,5620
 Attributions Ingingo	1214
 Attributions Organigramme du Ministère Ministre	3675
@@ -655,8 +681,11 @@ Card-based PoS and ATM	11131
 Cde. Dr. Emmerson Dambudzo Mnangagwa's Attendance	3760
 Centro de Atendimento	11386
 Chairman of ATAF	7694
+Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer of ATC Uganda	9041
+Chief Projects Portfolio Management Officer Ato	12195
 Chief State Attorney	7845
+Chief of Staff Ato Tefera Befekadu	12195
 Clear Strategy for Attractiveness Morocco	3113
 Commercial Bank Branches ATMs	1828
 Commons Attribution	9129,108
@@ -675,14 +704,14 @@ Containing the Atom	11028
 Contribuições Atraso	11532
 Controllers ATOS Approved Training Organizations ATPL	2775
 Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83
-Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730
+Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376
 Creative Commons Attribution International License	11927
-Creative Commons Attribution License	8376,2543,1084
+Creative Commons Attribution License	8376,2543,1084,228,15
 Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution NonCommercial-ShareAlike	11376
 Creative Commons Attribution-Non- Commercial-Share Alike	10844,719
 Creative Commons Attribution-Non-Commercial	10841
-Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1
+Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons AttributionNonCommercialShareAlike	11006,1
 Creative Commons Attrlbution-ShareAlike Ucense	1009
@@ -737,14 +766,19 @@ Eko Atlantic City	2134,1280,1786
 Eko Atlantic and Open Access Data Centres	8045
 El Attar	3451
 El Attoti	4432
+Electrification Dev. Desk Head Ato Melaku	12195
 Eliane Atté BIMANAGBO	10905
 EndNote BibTeX Reference Manager Refer Atom	10878
 Eng. Ayman Ateyya	11162
 Entregaveis Atividade	11898
 Entregáveis Atividade	11898
+Environmental Expert Ato Mentesnot Tesfaye	12195
 Especializada de Atendimento	11368
 Esta da ENTD.GW. Atenção	11569
 Estação de Aterragem	4250
+Ethiopia Attachment I. TADAT Framework Performance	12225
+Ethiopia Attachment II. Ethiopia	12225
+Ethiopia Attachment III. Data Tables A	12225
 European Atomic Energy Community	1243
 European Union. Creative Commons Attribution	6436
 Evans ATTA-MtLLS	11517
@@ -764,6 +798,7 @@ Fayda. Attendees	2452
 Federal Attorney General	11607
 Finance Attraction	10841
 Finance Minister Dr Cassiel Ato Forson	7739
+Finance Team Manager Ato Fitsum Haile	12195
 Finanças Attn	8166
 Fiscalização da Atualização	11561
 Former Attorney General and National Assembly Speaker	10042
@@ -796,7 +831,7 @@ Highest Attainable Standard of Health	3583
 Hon. Atandi	10313
 Hon. Ateny Wek Ateny	9770
 Hon. Dr. Balaam Barugahara Ateenyi	8410
-Honourable Attorney General	11993
+Honourable Attorney General	11993,239
 Horário de Atendimento	11368
 Human and People's Rights. Attention	3583
 IDD09 Ines Melissa Emma Attoua Team	1284
@@ -805,6 +840,7 @@ IMMEDIATE ATTENTION	4896
 IMT Atlantique	1183
 ING ES4T22I.M0 ATieTr	11572
 IP Portuguese Institute for Sea and Atmosphere	11553
+IRENA Global Atlas	12261
 Indian Ocean and Atlantic Ocean Intelsat	9455
 Indicators of Attacks	10721
 Individual Members’ Attendance	11131
@@ -887,11 +923,13 @@ Minister Ateny	5083,24,1171,2800,692,1914
 Minister Ateny Wek	5014
 Minister Ateny Wek Aten	6182
 Minister Ateny Wek Ateny	4243,2035
+Minister of State for Energy Ato Adisalem Mebrahtu	12195
 Ministerial Meeting of ATU	8241
 Mobile Application Attacks	6671
 Modelos Institucionais Até	11456
 Modelos de Atestado	11419
 Moody’s. Attracting	9796
+Mozambican Attorney General's Office	12179
 Mozambique Eastern and Southern Africa Region Attachment	2474
 Mpara. Attributing	9642
 Mr. Aquilino Atuna	7021
@@ -928,6 +966,7 @@ OSM and AtlasAI	12006
 Oceano Atlântico	11537
 Oceano Atlântico da Guiné-	11569
 Océan Atlantique	8891
+Operations Team Manager Ato Tesfahun G	12195
 Organizer ATU Phone	10235
 Organograma Até	11456
 Outgoing ATU Secretary-General John Omo	8241
@@ -947,6 +986,7 @@ POS and ATMs	1908
 POSAF RESULTATS ATTENDUS	10712
 POSAF RESULTATS ATTENDUS INDICATEURS DE RESULTAT	10712
 POSAF RÉSULTATS ATTENDUS	10712
+PPM Foreign Procurement Ato Josias Zena	12195
 PROCEDURAL MATTERS ATTACHMENTS AND INTERDICTS	3714
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
 PROMOTION ET ATTRACTIVITÉ Mise	1896
@@ -954,6 +994,7 @@ PUBLIC ATTENTION	8794
 Par Belmondo ATIKPO	9042
 Participation and Attendance WUF13	11285
 Partners Attorney General	7548
+Performance Assessment Report Template Attachment IV	12225
 Pew Global Attitudes and Trends	11004,960
 Plano de Atividades	1338,93,1,648,66,1,2316,1
 Plano de Atividades Anual Orçamentado	11557
@@ -961,11 +1002,13 @@ Plataforma de Atendimento Online	11480
 Point of Sale and ATM Switching	2276
 Por Atividade Estatística Oficial	11516
 Portugal’s Atlantic	5252
+Power Development and Regional Integration Desk Ato	12195
 Power of Attorney	22,8844,1237,272,1448
 Power of Attorney Sub-Merger Co	7198
 Power of Attorney. Recognising	8866
 Prazo de Atualização	11561
 Presentation Attack Detection	9747,54,3,23
+President Ato Getachew Wakie	12195
 President Taye Atske Selassie of Ethiopia	11817
 Prevent Attacks	1000
 Previous Post Minister Albino Atak	5428
@@ -973,6 +1016,9 @@ Principais Atividades	11538
 Problématique de Attente	10975
 Procedimento de Atribuição	11373,57
 Procedimentos de Atribuição	11430
+Procurement Specialist Ato Abebe Gebremedhin	12195
+Project Coordinator Ato Mesfin Dabi	12195
+Project Manager Ato Samuel Shawel	12195
 Promote and Attract Investment	958
 Proyección de Atracción	4209
 Q1 ATMs	4517
@@ -1011,6 +1057,7 @@ Registration Link Contributions ATU-R	10235
 Related News Atiku	10220
 Relatório Final Até	11456
 Relatório de Atividades	2080
+Republic of Mozambique's Attorney General	12161
 Respostas Até	11456
 Resultados da Atualização Recenseamento Eleitoral	11561
 Richard Atuahene	6936
@@ -1038,6 +1085,7 @@ SOLARHYDROW Concession Attente Nombre	10975
 SPECIFIQUES RESULTATS ATTENDUS	10712
 STP ATENÇÃO	2315,129
 SUPERVISÃO E FISCALIZAÇÃO DA ATUALIZAÇÃO	11561
+Safeguards Ato Abrham Abebe	12195
 Sapo Atualidade Irlanda	4938
 Sapo Atualidade Presidenciais	4938
 Sapo Atualidade Presidente da Hungria	4938
@@ -1083,7 +1131,7 @@ Susan M. Atengo Wegoye	9781
 Swiss Attorney General	4127
 Systèmes RESULTATS ATTENDUS Acquisition	10712
 T REGLEMENTAIRE ATIVE AND STATUTORY AFFAIR	10974
-TAYE ATSKE SELASSIE PRESIDENT	7538
+TAYE ATSKE SELASSIE PRESIDENT	7538,4688
 TECHNIQUE DE ATTENDUS DE ACTIVITES TÂCHES	10975
 TN CyberTech Bank ATMs and Innbucks	6996
 TN CyberTech Bank's ATM	6996
@@ -1093,6 +1141,7 @@ Target Back Cybercriminals Attack Seychelles	3364
 Target and Actual ATC&C	12062
 Taye Atske Selassie	4864,2674
 Technical Attributes	11216
+Template Indicators Attachment V. Sources of Evidence	12225
 Testing Attributes Functional Testing	5665
 Tetracore Atakobo Data Centre	8852
 Thousands ATMS	4517,2461
@@ -1112,6 +1161,8 @@ Under the Creative Commons Attribution	10714,51,10,37,165,172,396
 Unkept Promises Atical Foyoh Extends Olive	7182
 VISION AND ATLAS III.1 Power	11366
 Vacant Athlone Harare	4896
+Vice President Ato Asfaw Abera	12195
+Vice President Ato Yilma Abebe	12195
 Victor Attah International Airport	10229
 Voltar Canais de Atendimento Fale	1192
 WEST AFRICA COUNTRY ATTRACTIVENESS	10861
@@ -1120,11 +1171,14 @@ Web Application Attacks	6671,275
 Web Application Attacks System Attacks Mobile	6671
 Web of Science Google Scholar Atari M	8460
 Werksmans Attorneys Skip	6727
+Wind Atlas	12261
 World Athletics Indoor Championship	2626
 World Athletics Indoor Championships	2626
 World Athletics Indoor Championships.c	2626
+World Atlas	12225
 World Bank Atlas	3853
 World Bank Atlas GNI	11262
+World Bank Global Solar Atlas and Global	12261
 World Bank's Atlas of Social Protection Indicators	10985
 Xenophobic Attacks	7452
 Yamoussoukro and Attiégouakro	10930

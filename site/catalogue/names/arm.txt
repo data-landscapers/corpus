@@ -1,4 +1,4 @@
-ACLED Armed Conflict Location	11887
+ACLED Armed Conflict Location	11887,267
 ACRONYMS AF Additional Financing ARMP Burundi	1284
 ARMAAN LTD Data Controller INST-284135866B1 NAIROBI	7167
 ARMANDO EMILIO GUEBUZA	1829
@@ -21,10 +21,10 @@ ARMP-4	8021
 ARMP-5 and ARMP-1	8021
 ARMP. Relation	10829
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1
-Absence of Armed Conflict Absence of Violence	10837
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Absence of Armed Conflict Absence of Violence	10837,1315
 Absence of Armed Conflict1	11889
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10
 Angola Dominica Argentina El Salvador Armenia	10764
 Arm's Length	11976
 Armada	6636
@@ -149,6 +149,7 @@ Participant ARMP-4	8021
 People’s Liberation Army	8510,1934,898
 Pour le Pr Armand Claude Abanda	8906
 Pr Armand Claude Abanda	8906
+President Armando Guebuza	12154
 Prestadores de Armazenagem Principal	6970
 Prof. Vinaye Armoogum	6900
 Proliferação de Armas de Destruição	11386,18

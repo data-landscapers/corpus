@@ -1,9 +1,9 @@
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9
 African Average Inflation Rate	6938
 Annual Inflation	2775
 Annual Inflation Projections	11131
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
-Balances Absence of Undue Influence Civic Checks	10759,78
+Balances Absence of Undue Influence Civic Checks	10759,78,1315
 Banking Services Absence of Undue Influence Freedom	10759
 CBE Influencers	11134
 Cameroon and Chad. Inflation	2775
@@ -33,7 +33,9 @@ INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16
 Import Cover Annual Headline Inflation Currency	11131
 Infl. IPC	7655
 Infla-	2775
-Inflation	7,229,501,16,2022,878,209,1008,377,622,41,1028,717,40,58,62,1745,1281,156,134,3,2,135,146,107,196
+Inflation	7,229,501,16,2022,878,209,1008,377,622,41,1028,717,40,58,62,1745,1281,156,134,3,2,135,146,107,196,461,44,8
+Inflation Adj	12256
+Inflation Adjustments	12256
 Inflation Down Under	11720
 Inflation Dynamics Consumer	11131
 Inflation Dynamics Inflationary	11134
@@ -50,6 +52,8 @@ Inflationary	1828,9303,5
 Inflow	6408
 Inflows	10841
 Influence	940,5625,744,548,164,109
+Influence Index	12210
+Influence Interest Matrix	12210
 Influence National Achieve	11131
 Influence National Ecosystem	11131
 Influence Purchase Intention	226

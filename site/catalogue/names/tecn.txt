@@ -16,6 +16,7 @@ Capacidades Tecnológicas	4209
 Carreiras de Tecnologia de Informação	2816
 Centro Nacional de Tecnologias de Informação	13
 Comunicações and Tecnologias de Informação	2295
+Comunidade de Tecnologia	12284
 Contactos TACs Lista Contactos Tecnicos de Apoio	12018
 D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
 D.G. DE INFORMATICA E INNOV. TECNOLOGICA	4209
@@ -64,7 +65,8 @@ Inovação Tecnologia	11382
 Inovação Tecnológica	2295,823,1100,2367,4796
 Inovação Tecnológica de Angola	11443
 Instituto Nacional de Tecnologia da Informação	11394
-Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100
+Instituto Nacional de Tecnologia de Informação	12294
+Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703
 Instituto Nacional de Tecnologías	3029
 Instituto Superior Politécnico de Tecnologia	11632
 Instituto Tecnológico	11552,3,11,3
@@ -85,7 +87,7 @@ O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 O Fórum Internacional de Tecnologias de Informação	6585,34
 O Gabinete de Tecnologias de Informação	167,11282
 O Instituto Nacional de Tecnologias de Informação	2437,1,346,6442,914
-Operador Económico de Novas Tecnologias	2437,1
+Operador Económico de Novas Tecnologias	2437,1,9857
 PROMOÇÃO DAS TECNOLOGIAS DE INFORMAÇÃO	15
 Parque Tecnológico	2281,1277
 Parque Tecnológico Arquipélago Digital de Cabo Verde	5443
@@ -137,7 +139,7 @@ TIC Tecnologia de Informação	11555
 TRANSPORTE GENERAL DE DELEGACIÓN NUEVAS TECNOL	4209
 Tecnavia's Telecom Engineer Pierre Harris Koumda	11966
 Tecno	10209
-Tecnologia	1265,1208,343,703,1501,552,1323,31,2508,7,1313,23,358,247,3,1,1,4,19,1,2,44,61,51,63,387
+Tecnologia	1265,1208,343,703,1501,552,1323,31,2508,7,1313,23,358,247,3,1,1,4,19,1,2,44,61,51,63,387,123,14
 Tecnologia EUA	2816
 Tecnologia Ministro	3137,769
 Tecnologia PEA	11387
@@ -158,7 +160,7 @@ Tecnologias Limpas	10777
 Tecnologias Limpas Dependência	10777
 Tecnologias Percentagem da População Coberta	11418
 Tecnologias da Comunicação	12019
-Tecnologias da Informação	2816,50,1352,7169,9,1,172
+Tecnologias da Informação	2816,50,1352,7169,9,1,172,573
 Tecnologias da Informação COGEMO	2816
 Tecnologias da Informação-CNTI	11371
 Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8,292,86,159,13,28,13,1,2,5,3,4,3,3,2,2,1,5,26,7,6,77,13,11,41,48,78,115,141,53,38,41
@@ -189,3 +191,4 @@ Unidade de Tecnologias	3118
 Universidade de Tecnologia de Troyes	5020
 Uso de Tecnologias	10777
 Vertente Tecnologia de Informação	12019
+Wiko and Tecno	12264

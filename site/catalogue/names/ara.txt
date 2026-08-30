@@ -180,7 +180,7 @@ Higher Education Minister Office Saudi Arabia	2958
 ID United Arab	10714
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
 ITU Arab Regional Office	3750,4895
-India and Saudi Arabia	5035,3360
+India and Saudi Arabia	5035,3360,3756
 Institution Jordan Eng. Luma Arabiyat Director	2958
 Israel and Saudi Arabia	1741
 Jordan and Saudi Arabia	1741
@@ -219,7 +219,8 @@ Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41
+Saudi Arabia Canada	12151
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
 Saudi Arabia Zain	2405
@@ -251,7 +252,7 @@ Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775
@@ -267,4 +268,5 @@ United Arab Emirates. Samira Njoya	4887
 United Arab Emirates. The Agreement	11185
 United Arab Emirates. Varisco	1741
 United Arab Emirates.113 The Commission	3583
+United Kingdom United Arab	12151
 Zayed Al Nahyan and United Arab Emirates	12026

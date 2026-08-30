@@ -9,6 +9,8 @@ AMERICA UNSERT COUMTPY NAME	3972
 API ENDPOINT PATH PARAMETER NAMING	6423
 AUTHORS S. Name Expertise	9855
 AXIAN Telecom Named Founding Partner of ATLAS	8060
+About the Name	12226
+Access Point Name	12241
 Account Name	4896
 Account Name Number of Ordinary Shares	4896
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
@@ -71,6 +73,7 @@ CEO of Namibia's Communications Regulatory Authority	4862
 CEOs of NAMFISA General Manager of Research	6938
 CMI Bank of Namibia National National National	6938
 COMPONENTS Current Component Name Current Cost	1284
+COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576
 COMPONENTS Name Economic Shock Responsive Cash	11988
 COMPONENTS Name Resilient Digital Infrastructure	4688,3189
@@ -83,6 +86,7 @@ CRVS and Maisha Namba	6274
 CSP Information Item Details Name of Entity	6432
 CV-IXP Internet Exchange Point Details Name	11878
 Cabinda Luanda Namibe Bengo Zaire Moxico	10775
+Candidate Name Number of Votes Percentage	12201
 Capacity Base Station Name	736
 Capacity Project ID Project Name Additional	1284
 Capital Name of Director	4896
@@ -105,7 +109,7 @@ Codes for Representation of Names of Countries	11179
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
-Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673
+Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519
 Company Name Change	12041
 Component Name	3604,7360,891
 Component Name Cost	11560
@@ -122,7 +126,7 @@ Contact Information Name	9892,1
 Contacts List Name Position Ministry	10812
 Contingent Emergency Response Component Indicator Name	4653
 Counsel Oounsel LEGEN Extended Team Name	11525
-Country Name	11129
+Country Name	11129,1096
 Country’s Name	11129
 Criteria for Street Naming	11129
 Cubango Namibe Huíla Cunene Sul	10760
@@ -147,7 +151,11 @@ Data Protection Supervisory Authority of Namibia	512
 Date Expiry Date Project Name Business	11469
 Deep Learning IndabaX Namibia	5036
 Definition The Namibia Producer Price Index	11152
+Delgado Valige Tauabo Nampula Eduardo Mariano	12201
+Demo Full Name Organization Email Phone	12211
+Demographic Data Full Name	12281
 Denial of Service DNS Domain Name System	6946
+Deployment of Access Point Name	12241
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Description Named	2905
 Description Namibé	10768
@@ -165,6 +173,7 @@ Domain Name System Security Extensions	1036,3174,6554
 Domain Name Systems	2117
 E Household NAME’s NAME	582
 ENTITY Name	1638
+EPC de Namaja	12148
 Edil de Nampula	1808
 Eight Names	9507
 Electoral Commission of Namibia	1981
@@ -188,8 +197,10 @@ FY Indicator Name End Target Direct	11525
 Facilit8 Namibia	7628
 Failed Namibia	6825
 Farm Name	11276
+Father's Name	12146
 Financial Intelligence Centre of Namibia	3714
-First Name	11861,55
+First Name	11861,55,230
+First National Bank of Namibia Ltd	12252
 Forefront of Environmental Action Across UNDP Namibia	9873
 Founder of CityMender. CityMender Namibia	9952
 Free Press of Namibia	11122
@@ -200,6 +211,7 @@ GHANA BASIC DETAILS Name	236
 GLANCE Name	10823
 GPS the DRC and Namibia	9399
 GRIEVANCE RECORDING FORM Project Reference Name	1778
+Gaza Frelimo Maputo Province Frelimo Name	12201
 General News The Namibia Chamber of Commerce	8414
 Geographical Names Register	4214
 Ghana Domain Name Registry	587,3900,219
@@ -210,6 +222,7 @@ Government Conceals Names of Companies Awarded Direct	9399
 Government of Namibia	1870,30,3040
 Governments of Botswana and Namibia	9171
 Govt By Namo Phiri	12126
+Grandfather's Name	12146
 Guidelines for Street Naming and Property Numbering	11129
 HAKIKISHENI MNAPATA NAMBA YA NIDA	1921
 Has NAME	582
@@ -217,17 +230,19 @@ High Court of Namibia	3714,5392
 Hon. Dr. Shadric Namalomba	9820
 Hon. John Namoit	10313
 House. Hon. John Namoit	10313
-Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675
+Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675,1317,88,73
 Huduma Namba Identity System	9399
 Huduma Namba Integration	10415
 Huduma Namba and Maisha Number	3391
 Huduma Namba. The European Union	9600
 Huduma Namba.92 Through	10822
+Huduma Namba15	12139
 Huíla Namibe ROSA ELSA ERNESTO BAPTISTA	10751
 Huíla Province Nami	11418
 Huíla and Namibe	11398
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
 ID for All The Namibian	3017
+ID. Name	12216
 IDD04 Extended Team Name Title Organization	1284
 IMPLEMENTING AGENCY Implementing Agency Name Type	1284
 IMSERT COUNTRY NAME	3972
@@ -247,10 +262,11 @@ Inclusion Indicator Name Baseline Actual	11971
 India and Namibia	9749
 India and Viet Nam. Guinea-Bissau	11524
 Indicator Name	10964
-Indicator Name Baseline Actual	10870,1101
+Indicator Name Baseline Actual	10870,1101,257,39
 Indicator Name Baseline Closing Period	11924
 Indicator Name Core Baseline End Target	11525
 Indicator Name End Target Community-based	11525
+Indicator Name Indicator	12228,39
 Indicator Name Jun	6928
 Indicators RESULT FRAME TBL PD O Indicator Name	10829
 Industrial Revolution Namibia	5036
@@ -271,6 +287,7 @@ Internet Corporation for Assigned Names and Numbers	3503,3743,3573,360
 Internet Society of Namibia	1928
 Investments Named DPI	3859
 Israel Nambi	10765,10
+Ivoire Botswana Ghana Namibia	12278
 JAMII NAMBA	1921
 Jamii Namba	1644,215,62,947,2829,196,230,204,235,158,96,3644,131,542
 Jamii Namba ID	2783
@@ -281,7 +298,8 @@ John-Allan Namu	4258
 July. Namalomba	7443
 KB. Named-analyst	2125
 Kenya's Huduma Namba	4981
-Kenya's Maisha Namba	2551,1428
+Kenya's Huduma Namba Programme URL	12139
+Kenya's Maisha Namba	2551,1428,8321
 Kenya’s Domain Name	6946
 Kenya’s Huduma Namba	5224,97
 Kenya’s Maisha Namba	2566
@@ -325,7 +343,8 @@ MTN Channel Exclusive Offers Bundle Name	11259
 MTN Speed-based Bundles Bundle Name Price	11259
 Madame Namizata SANGARE	3045
 Maisa Namba	10728
-Maisha Namba	1354,377,293,423,119,359,378,88,153,31,22,846,1217,614,376,1,172,2576,1329
+Maisha Namba	1354,377,293,423,119,359,378,88,153,31,22,846,1217,614,376,1,172,2576,1329,1437,62,73,23
+Maisha Namba Digital ID Awareness Drive	12227
 Maisha Namba Explained	11994
 Maisha Namba ID	2447,478
 Maisha Namba. Digitisation	10728
@@ -337,7 +356,7 @@ Malanje Moxico Namibe Uíge Zaire MF	10766
 Malawi ICT Minister Shadrick Namalomba	4790
 Malawi. Namalomba	10553
 Mali Namibia Niger Sao Tome and Principe	10764
-Manica and Nampula	1228
+Manica and Nampula	1228,10919
 Manyando Namakando	9152
 Maria Nambuya	8764
 Martin Endjala Namibia	7627
@@ -356,6 +375,7 @@ Minister. Entity Name	11230
 Miriam Namutebi	6576
 Mongolia Mozambique Viet Nam Togo	11563
 Monitoring System Infrastructure Applications Domain Name	9123
+Montepuez and Namuno	12201
 Montserrat Morocco Mozambique Myanmar Namibia Nauru	11470
 Morocco Namibia MauCAS Instant Payment System	6938
 Morocco and Namibia	6938
@@ -423,15 +443,19 @@ NAMENTENGA Urbain	10847
 NAMES	3714
 NAMFISA	3714,8393
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
-NAMIBIA	1750,97,53,99
+NAMIBIA	1750,97,53,99,10233
 NAMIBIA Building	5036
 NAMIBIA CYBER SECURITY INCIDENTS RESPONSE TEAM	3336
 NAMIBIA NEWS ROOM	9485
+NAMIBIA Namibia	12232
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 NAMIBIA'S	5543
 NAMING	10033
 NAMING CONVENTIONS STANDARDS AND GUIDELINES	34
+NAMIS	12194
+NAMIS Public Portal	12194
 NAMPA	9664,1,1940
+NAMPULA	12147
 NAMlEgNeTmNeOnTeICKE	6907
 NaMEA	9966
 Nam Tier Performance	10764
@@ -447,6 +471,7 @@ Nama Water Services	8428
 Namaacha	10083
 Namabal Beligung Gung	6841
 Namacunde	10776
+Namacura	12201
 Namacurra	1228
 Namageyo-FunaAAketchMTabuCMacNeilABlolandP. Assessment	8376
 Namahoua Bamba Touré. L'ARTCI	1648
@@ -456,11 +481,13 @@ Namakuzu Shandavu and Rabecca Banda. A Zambian	1249
 Namakwa	11343
 Namalomba	3933,857,1061,702,39,221,630,43,356,1374,1337,95
 Namanga	5883
+Namanga Loitoktok Lunga Lunga Figure	12256
 Namanve	1150,3645,454
 Namasivayam V	3791
 Namaskar	2787
 Namathise	11573
 Namathisela	11573
+Namati	12300
 Namayingo District	3005
 Namazihana Bachoke Patrick	6620
 Namba	1921,4406,594,3669,1404
@@ -489,6 +516,7 @@ Name Product LISUNGI	11924
 Name Rationale	8866
 Name Record TES Trusted Employer Scheme	11986
 Name Reservations and Company Registrations	11250
+Name Satisfactory Satisfactory Progress	12228,39
 Name Signature Date Environmental Safeguards Officer	11863
 Name Signature Mr Godfrey Gomwe	4896
 Name Site TX Rx Altitude Longitude	736
@@ -575,11 +603,12 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
 Namibia Airports Company	6765,976
+Namibia Angola Bank of Namibia	12252
 Namibia Boosts Cybersecurity Capacity Through NIPAM	6557
 Namibia Broadcasting Corporation	2022
 Namibia Bureau	5543
@@ -641,6 +670,7 @@ Namibia Stock	3714
 Namibia Students Finance Assistance Fund	6765
 Namibia Students Financial Assistance Fund	5036
 Namibia Super Computer PARAM High Performance	9475
+Namibia T	12232
 Namibia Tel	11152
 Namibia Telecom	3459,2909
 Namibia The Brief	1975
@@ -660,7 +690,7 @@ Namibia and Mauritania	3801
 Namibia and Mauritius	10714
 Namibia and Nigeria	10218
 Namibia and Russia	8245
-Namibia and South Africa	6825,1181
+Namibia and South Africa	6825,1181,4168
 Namibia and Starlink	1980
 Namibia and Togo	7825,727
 Namibia and Uganda	11198
@@ -675,6 +705,7 @@ Namibia's Communications Act	5529
 Namibia's Communications Regulatory Authority	6368,457
 Namibia's Emma Theofelus and Togo's Cina Lawson	8552
 Namibia's Executive Director	9749
+Namibia's Financial Intelligence Centre	12232
 Namibia's Global Position	2230
 Namibia's ICT	4433,1493,692
 Namibia's MICT Minister Emma Theofelus	3759
@@ -791,7 +822,18 @@ Nampevo Construção	9432
 Nampost and Letshego Bank Namibia	8252
 Nampower	1944
 Nampower AFS	1944
-Nampula	1526,282,1008,967,3896,431,1449,992
+Nampula	1526,282,1008,967,3896,431,1449,992,1597,53,19
+Nampula Frelimo	12201
+Nampula MDM	12201
+Nampula Province	12220
+Nampula and Maputo	12201
+Nampula and Nacala	12140,61
+Nampula and Niassa	12201
+Nampula and Zamb	12201
+Nampula and Zambezia	12180,21
+Nampula's Provincial Police Command	12147
+Nampula. Campaign Finance Registered	12201
+Nampula. Election	12201
 Namugga	5343
 Namugongo Martyrs Shrine	4954
 Namukasa	8661,134
@@ -799,6 +841,7 @@ Namungo	9779
 Namíbia	2816,3982,3192,1447
 National Broadband Policy of Namibia	1433
 Nedbank Namibia	6765
+Nedbank Namibia Limited	12252
 Network Infrastructure MTC and Telecom Namibia	1013
 News Industry Namibia	5407,676
 NewsCentral Media Namibia	5507
@@ -810,6 +853,7 @@ Nigeria. Named for Olaudah Equiano	1363
 Nimpamya Janat Namara	3726
 Njavwa Namposya Chilufya ABBREVIATIONS AND ACRONYMS	1867
 No. Description Contract Number Supplier Name	6946
+No. Name of Facility Capacity	12256
 Norte Lunda Sul Malanje Moxico Namibe	10766
 Note Named-analyst	6952,1
 Nov-2024 Namibian	1981
@@ -872,6 +916,7 @@ Project Name Central African Republic CAR	10829
 Proposed Component Name Component	4653
 Proposed Project Location Name	1988
 Province Lat Total District Municipality Name	11986
+Province Name of Head of List	12201
 Províncias de Nampula	1808
 Public Entity’s General Information Registered Name	11250
 Q-Kon Telecom Namibia	5502
@@ -893,9 +938,11 @@ Ranking Namibia	1944
 Regarding India and Namibia	3253
 Region Operation ID Operation Name EASTERN	1704
 Region Operation ID Operation Name P508383	3456
+Register Your Business The Name Reservation	12280
 Registered Domain Names	6671
 Registered Name	4896,6380
 Rep. Namibia Ghana Benin Kenya Togo	10819
+Repeat Mistakes of Huduma Namba	12227
 Republic of Namibia	318,7,700,974,1588,127,1322,1628
 Republic of Namibia Nauru Yes Nauru ICT	11529
 Responsibility for Data Indicator Name Definition	1284
@@ -905,6 +952,7 @@ S. Namasudra	8130
 SADC UMOA UMOA UMOA UMOA Namclear	6938
 SITA's Advance Passenger Information and Passenger Name	4275
 SMS Conclusion Namibia’s ICT	1013
+SN Name of Licensee License	12256
 SOLUTION NAME	2709
 SP Area Program Name Ministry	10985
 SPUR ROUTE Name Bearer	736
@@ -924,11 +972,13 @@ Singapore Japan Viet Nam Lead	11135
 Sixty-Five Peter Obi Names Education	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Smartphone Namibia	1944
 Snowballing Literature Search Author Name and Article	1248
+Sofala and Nampula	12201
 South Africa and Namibia	4094,2342
 South Africa and Namibia. Freedom House	9679
 South Africa's Baby Naming Trends Tell	12005
 Southern Africa Digital Rights. Named-analyst	1642
 Staff Reporter NAMIBIA	7905
+Standard Bank Namibia Limited	12252
 Standards of Street Naming	11129
 Starlink Blocked From Namibia	6785
 Starlink Internet Service Namibia	6826
@@ -940,6 +990,7 @@ Starlink and Namibia	6825
 Starlink for Namibia	5529
 Starlink's Namibian	5612
 State Name	11129
+State Revs Up Maisha Namba Digital	12227
 Station Name Latitude Longitude Altitude Antenna	736
 Street Name	11129
 Street Name Sign Size	11129
@@ -947,6 +998,7 @@ Street Name Signage	11129
 Street Names and Property Numbering	11129
 Street Names for New Developments	11129
 Street Naming	11129
+Street Naming And Numbering Standards	12149
 Street Naming Guidelines	11129
 Street Naming and Property Numbering	11129
 Streets Naming and Numbering of Buildings	11129
@@ -1006,10 +1058,12 @@ UNDP Namibia	1928,1604,6341
 UNDP Namibia's Inclusive Green Growth Portfolio	9873
 UNLESS OTHERWISE SPECIFIED. NAME OF BIDDER	11240
 UPLOAD MANDATORY INFORMATION NAMELY	11240
+Understanding Maisha Namba	12227
 Unit of Responsibility for Indicator Name Core Baseline	11525
 United Nations and NAM	11579
 University of Namibe	6482
 University of Namibia	5036,4837
+Utilisation Outputs Name	12241
 VAT. Telecom Namibia	1944
 VRR Namibia Nauru State Register	10714
 Vatican No Venezuela No Viet Nam	11529
@@ -1035,6 +1089,8 @@ Year Value Indicator Name Population	6928
 Year Value Indicator Name Regional	6928
 ZA Domain Name Authority	9700,429,1671
 Zaire Bengo Namibe Lunda Sul Cabinda	4044
+Zambezia and Nampula	12201
+Zambezia and Nampula. Page	12201
 Zambia Operation Name	3562
 Zambia and Benin. Namibia and Lesotho	1695
 Zimbabwe Health Facility Code Namespace Identifier	6666

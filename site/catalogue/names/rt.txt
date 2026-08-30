@@ -3,6 +3,8 @@ Agro-industrie Média ANADER RTI CIDT IDT	2342
 BCC RTGS	11960
 BCC RTGS. National Payment System	11960
 BIS. Values RTGS	7221
+BoM's RTGS	12270
+BoM-managed RTGS	12270
 CEMAC GIMAC RTGS System EG-ACH InstaPay	6938
 CHANGE FROM LAST QUARTER PROPORTION RTGS	4517
 CSIRT RTPE Duas	11939
@@ -23,6 +25,7 @@ KEY DATA PROVISIONS IN RTAS	1243
 Minister of ICT and National Guidance Rt. Hon	7874
 Mkalipi. RTIA	7755
 Monday. The RTGS	6259
+NBE-managed RTGS	12269
 NamSwitch CBN RTGS Namclear	6938
 PAYMENT STREAM RTGS POS ATMS MOBILE	6978
 POC POS RTGS SDK SWIPPS Anti-Money-Laundering	11130
@@ -34,6 +37,7 @@ RECs and RTOs	6488
 REPS RTGS SACU SADC SARB SDRs	11134
 RMC Rwanda Media Commission RTDA Rwanda	718
 RT Mupita7 TBL Molefe7	10793
+RTAdeclined	12151
 RTAs. Generally	1243
 RTAs. Table	1243
 RTAs. The United States	1243
@@ -96,3 +100,4 @@ Vice President Rtd Col Dr K.C.D	11611
 Visit Request Media Interview Request RTI	9109
 Volume of RTGS Transactions	6938
 Volumes of RTGS Transactions	4517,2461
+ZAR RTGS	12252

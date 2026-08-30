@@ -29,6 +29,8 @@ DPSR DSF DADF DOS DC DC	10858
 DS-3 DSX	9123
 DS-6VWE	1981
 DS-I Africa Law	1653
+DS-QR	12241
+DS-QRs	12241
 DS00988	88
 DS1-S16	5349
 DS4DJ	8409,170
@@ -76,10 +78,12 @@ DSNIS	11892,20
 DSNISI	11599
 DSNPQ	11550,216
 DSNTIC	4025
-DSP Digital Society Project	11887
+DSO Distribution System Operator EAPP East	12233
+DSO EEU	12233
+DSP Digital Society Project	11887,266,1,9
 DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16
 DSP Ovie Ewhubare	4725
-DSP&V-DEM	10759,76,2,1,130,902,16,2,1
+DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9
 DSP-i	6091
 DSPDP	6361,207,5115
 DSPDP Director Yang Chongwei	6361
@@ -182,6 +186,7 @@ Opportunité de DSP	2342
 Opportunités de DSP	2342
 P. O. Box DS	3386
 PCI DSS	434,1916,4121,1310,3218
+PCI DSS Certified	12285
 PMEs A DSPDP de Macau	6568
 Radio Mondiale DSB Digital Sound Broadcasting	6946
 Research Assessment DSI Department of Science and Innovation	5246

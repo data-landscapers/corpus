@@ -67,12 +67,13 @@ CRESCENT INSURANCE BROKERS LIMITED Data Controller	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Processor	7167
 Captive Insurance Act	7845
 Cash Value Insurance Contract	11233
+Civil Liability Insurance	12295
 Climate Risk and Insurance	7334
 Combats Health Insurance Fraud	5056,738,146,682
 Commissioner of Insurance	6938
 Commu- Insurance	2775
-Community Based Health Insurance	4349
-Community-Based Health Insurance	4167,7453
+Community Based Health Insurance	4349,7897
+Community-Based Health Insurance	4167,7453,626
 Complete Solutions Insurance Brokers Limited Data	7167
 Credit and Political Risk Insurance	11310
 D.G DE DEPORTIVA REG. INSULAR REG	4209
@@ -150,7 +151,10 @@ Inclusive Climate Insurance RSF	11469
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,24,30
+Insufficient Inadequate Reduced	12241
+Insufficient Lack of Inefficient	12241
+Insufficient Management Systems	12214
 Insufficient Resources	4439
 Insufficiently	766,11150
 Insuffisance	737,2229,4689,3057,162,91
@@ -169,12 +173,13 @@ Insumos	1701
 Insur	6019
 InsurTech	4848,1021,52
 InsurTech-related	10793
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293
 Insurance Act	6938,4317
 Insurance Activity Supervisory Body	6938
 Insurance Companies	11255
 Insurance Control Department	6938
 Insurance Fraud	2333,47,65,2181,2052,209,414,23
+Insurance Fund	12151
 Insurance Fund UNISA The University of South	11250
 Insurance Institute of Zimbabwe	1554
 Insurance Law	11136
@@ -210,10 +215,14 @@ Insuﬀicient	958
 Integrated Social Insurance System	11939
 Investment Development Insurance	11310
 Investment Insurance	11310
+Investment and Insurance	12297
 Ivorian Insurtech and Jumia Technologies	4150
 Journal of Insurance Medicine	8604
 Kenya Deposit Insurance Corporation	6938
+Kenya. Insurance	12297
+Kenya.107 Insufficient	12227
 Kenyan Insurance Sector Report	6938
+Lack of Insufficient Low	12241
 Lagos State Health Insurance Scheme	11968
 Libyan Insurance Supervisory Authority Stock	6938
 Limited and Econet Insurance	4896
@@ -225,6 +234,7 @@ Motor Third Party Insurance	7591
 NFO's Non-life Insurance Division	9675
 NHI National Health Insurance BAS Basic	396
 NHIA National Health Insurance Authority DPIA	6936
+NHIF National Health Insurance Fund NRB	12227
 NHIF National Hospital Insurance Fund NIA	2775
 NOTARIA DE LA REGION INSULAR.- Concepto	4209
 Naked Insurance	1058,1093,7524
@@ -235,13 +245,14 @@ National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
 National Health Insurance Bill. Retrieved	1009
-National Health Insurance Fund	396,2379,5442,166,2750
+National Health Insurance Fund	396,2379,5442,166,2750,1094
 National Health Insurance Levy	7695,44
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748
 National Health Insurance Scheme	2714,854,2431,1696,3633
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance. The Department	11224
+National Hospital Insurance	12151
 National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
 National Insurance	4602
@@ -271,6 +282,7 @@ Regional Insurance Supervisory Commission	6938
 Región Insular	4209
 Role of Political Risk Insurance	11310
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
+SHIF Social Health Insurance Fund UNHCR	12227
 SIC Insurance	10523
 SWAp and National Health Insurance Authority	4301
 Savings Credit Insurance Remittances	418
@@ -282,7 +294,7 @@ Short-Term Insurance Ombudsman	9675
 Sierra Leone Insurance Commission	6938
 Social Assistance Social Insurance Q5	10985
 Social Health Insurance Act	8934
-Social Health Insurance Fund	3393
+Social Health Insurance Fund	3393,8834
 Social Health Insurance Fund and Affordable Housing	5684
 Social Insurance	10785
 Social Insurance Labor Market Social Assistance	10985

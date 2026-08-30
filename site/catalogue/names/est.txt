@@ -3,6 +3,8 @@ A.244 Establishment	3887
 ABOGADO DEL ESTADO	4209
 ABSOLUTE ESTATES LTD Data Processor INST-32335969E61	7167
 ACTUALIZAÇÃO DA REDE PRIVATIVA DO ESTADO	11397
+AFRICA EAST. Estimated Appraisal Date	761
+AFRICA. Estimated Appraisal Date	12137
 AI's Preliminary Report Does Not Establish	7174
 ALBIZZIA DOWNS ESTATE LIMITED Data Controller	7167
 ALGUMAS ESTATÍSTICAS DE ORIGEM ADMINISTRATIVA	11526
@@ -23,6 +25,7 @@ Acervo Estatistico	1526
 Acessibilidade Estatística	11516
 Acompanhamento. Este	11371
 Acordo Estratégico de Médio Prazo	1265
+Act. Establishment	12145
 Action Description Establish	10870
 Action Plan Science and Resources Estonia’s National	11135
 Actividade Estatística Oficial	11359
@@ -161,14 +164,14 @@ Centro de Estudos	10747,795
 Centro de Estudos Jurídicos	11983
 Certificado de Capacidade Matrimonial. Esta	2688
 Chefe de Departamento de Estudos	11391
-Chefe de Estado	3692,1512,1,67,702,6,557,103,3455
+Chefe de Estado	3692,1512,1,67,702,6,557,103,3455,2216
 Chefe de Estado. Aos	5053
 Chefe de Estado. Esta	6537
 Chefes de Estado	795,10592,136
 Chefes de Estado Cronologia	11523
 Chefes de Estado da Comunidade	11531
 Chevyville Estate	3580
-Child Mortality Estimation	11887
+Child Mortality Estimation	11887,266,1,9
 Chrisca Real Estates Data Processor INST-739935722C3	7167
 Cidadão. O Estado	11371
 Clima de Trabalho Esta	2816
@@ -283,6 +286,7 @@ Diagrama da Visão Estratégica	11379
 Didi Esther Walson-Jack	2347
 Digital ID Access Estimates and Methodology	10714
 Diploma Estrutura	10783
+Directorates of Town Planning and Estates Management	12253
 Direcção de Estatísticas Demográficas	11449
 Direcção de Estatísticas Económicas	11449
 Direitos Humanos. Estes Postos de Recolha	10772
@@ -301,6 +305,7 @@ Documents Establishing the Eligibility	1638
 Documents Establishing the Qualifications	1638
 Dr. Esther Kassi-Aleba	11653
 Draft Framework for Establishing the SADC Regional CIRT	318
+Duration Estimated No. Environmental and Measures	12253
 E ESTRATÉGIAS DE LONGO PRAZO	11397
 E Intérprete-Traductor Jefe de Estudios Grupo	4209
 E O ESTATUTO DO REFUGIADO	11364
@@ -326,6 +331,7 @@ EST GNAGNA Garçons	10847
 EST TX Prom	10847
 EST TX Red	10847
 ESTABELECIMENTOS DA EMPRESA	10757
+ESTABLISHES THE MOZAMBIQUE INSTANT PAYMENT SYSTEM	12296
 ESTABLISHING BUY-IN	961
 ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
 ESTABLISHING NATIONWIDE MONITORING POINTS	1000
@@ -359,9 +365,11 @@ ESTATÍSTICA	11449
 ESTATÍSTICA Artigo	11516
 ESTATÍSTICAS DE PUBLICAÇÕES E DE SISTEMAS	2816
 ESTATÍSTICAS DE UTILIZADORES DE INTERNET EM	11531
-ESTDEV	5235,1135,355,2584
+ESTATÍSTICAS VITAIS República de Moçambique MINISTÉRIO	12156
+ESTDEV	5235,1135,355,2584,2980
 ESTDEV AEDIB	9697
 ESTDEV Invites Bids	9309
+ESTDEV Kenya	12289
 ESTDEV and Smart Africa	6370
 ESTDEV and UXP	7004
 ESTDEV-Smart Africa MoU	6370
@@ -458,11 +466,11 @@ Esta Estratégia	4146
 Esta Estrutura	10783
 Esta Lei	4736,1546,2877,2355,5
 Esta da ENTD.GW. Atenção	11569
-Estabelece	5663,799,1004,3606,291,5,9,6,3,4,14,29,5,5,18,6,110
+Estabelece	5663,799,1004,3606,291,5,9,6,3,4,14,29,5,5,18,6,110,734
 Estabelecendo	9434
 Estabelecer	2816,703,7264,591,2,5,3,46,18,13,19,89,332
 Estabeleceu	10751,1147
-Estabelecimento	1192,1624,703,7853,41,143
+Estabelecimento	1192,1624,703,7853,41,143,586
 Estabelecimento Corresponde	10757
 Estabelecimento da Autoridade Reguladora Nacional	11518
 Estabelecimento da Parceria Estratégica	11564
@@ -477,8 +485,8 @@ Establecer	1701
 Establecimento da Academia de Liderança	11569
 Establecimiento	1701
 Establecimientos Turísticos	4209
-Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12
-Establish AI	4528,3020
+Establish	395,1,544,18,3,1,38,9,122,30,43,60,116,397,37,14,57,103,223,248,218,281,31,524,70,17,14,37,475,41,35,12,314,82,238,133,263,421,11,1,456,253,46,4,6,74,278,38,54,50,11,1,3,152,163,272,10,27,21,52,273,263,1215,351,105,84,218,118,448,40,2,10,37,7,10,156,22,124,2,1,2,4,9,47,2,18,6,15,15,13,11,276,1,301,3,6,42,1,32,2,12,26,8,12,151,36,8,2,6,9,4,13,6,7,1,5,43,13,21
+Establish AI	4528,3020,4662
 Establish AI Centers of Excellence	4528
 Establish AI Use Case	7548
 Establish AI-powered	4528
@@ -500,6 +508,7 @@ Establish Focal Points	1000
 Establish Ghana’s National AI Fund	4126
 Establish Government Cloud Communities of Practice	6432
 Establish ICT Innovation Hubs	958
+Establish ICT Skills Repository	12241
 Establish Independent Regulatory Bodies	5042
 Establish Information Security Assurance	1000
 Establish Joint Innovation Labs	4528
@@ -545,6 +554,7 @@ Establish and National	7548
 Establish and Promote the Maintain And Enhance the Dedicated	1777
 Establish the AI	1814
 Establish the GM	1264
+Establish the GRM	12195
 Establish the Incident Establish the Incident Response Fully	1777
 Establish the Incident Response NCC MOPT	1777
 Establish the Incident Response Task Force	1777
@@ -559,7 +569,7 @@ Establish the PKI	7890
 Establish the South African	396
 Establish the Zanzibar Civil Registration Agency	11133
 Establish-	11976
-Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618
+Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174,56,68,101,5,164,618,294,27,40
 Established Herotel	8134
 Established Institutional Framework	1000
 Established Policy Priorities The National Digital	1161
@@ -570,27 +580,34 @@ Establishes	16,100,56,252,527,64,231,318,1290,600,252,113,547,162,71,39,243,72,2
 Establishes APDP	4177
 Establishes the APDP	3713
 Establishes the Axiz	5965
-Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114
+Establishes the Office	12302
+Establishing	21,374,545,60,264,99,10,226,178,1,210,13,92,14,162,190,52,120,144,183,122,184,504,399,18,254,409,233,469,24,101,2,270,991,10,761,365,16,185,941,400,486,661,1,4,11,6,44,5,299,93,337,184,74,45,7,47,7,114,134,39,14,5,8,14,2,7,3
 Establishing AI	4609
 Establishing Belarus Kyrgyzstan T2 Advancing Azerbaijan	10764
 Establishing Computer Security Response Units	1000
 Establishing Cybercrime Complaint Center	1000
+Establishing Instituion	12146
+Establishing Instituion The Council of Ministers	12146
 Establishing KPIs	12008
 Establishing Key Performance Indicators	4528
 Establishing Measures	1000
 Establishing Police Cybercrime Response Unit	1000
 Establishing RNEP-GB	11552
+Establishing Robust Data Governance	12210
+Establishing Safe	12241
 Establishing Space Industry Development Fund. Entering	1131
 Establishing Standards	21
+Establishing The World Bank	12214
 Establishing Zimbabwe	6793
 Establishing the First Google Cloud Region	1363
 Establishing the ZDSR	11142
-Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10
+Establishment	11,370,14,1,191,353,21,170,89,8,15,21,290,183,77,174,1449,146,131,147,26,315,199,127,82,43,362,229,431,2,2,454,795,10,441,47,112,10,284,130,126,593,989,185,302,564,47,365,46,2,4,279,53,69,265,55,10,8,52,10,211,43,1,61
 Establishment Agreement of Afreximbank	7785
 Establishment Census	6911
 Establishment Census Gender Thematic Report	7992
 Establishment Of The National Computer Incident	2256
 Establishment and Mandate	11995
+Establishment and Unit	12240
 Establishment of Board	3887
 Establishment of CR	10775
 Establishment of Civil Registration Offices	12064
@@ -628,7 +645,7 @@ Estadio	4209
 Estadio de Malabo Malabo	4209
 Estadios	4209
 Estadista	8110
-Estado	13,1,1,148,4,14,358,10,27,168,50,1,397,73,3,70,1,1,1,1,89,1,269,35,119,6,87,106,29,6,36,170,3,67,72,1,143,37,111,55,32,50,182,70,216,185,88,60,98,73,55,10,172,6,5,43,17,57,6,9,32,24,20,119,6,35,2,101,21,28,35,95,11,73,192,4,86,52,50,1,6,61,33,24,94,1,19,19,14,96,91,156,31,34,70,20,6,6,2,30,20,31,122,29,62,16,9,2,55,98,68,7,48,29,26,54,8,7,51,59,22,85,44,77,53,18,48,361,58,81,39,30,1,146,66,55,45,62,69,129,1,63,119,1,27,35,104,169,23,30,1,83,32,69,93,1,2,128,14,15,81,510,81,93,57,26,272,113,196,2,1,1,1,1,1,1,3,2,8,4,3,2,3,3,3,1,285,39,47,159,13,28,2,1,1,1,1,1,4,2,3,4,1,1,1,1,2,3,1,1,4,1,2,1,6,1,2,2,9,2,2,4,4,1,2,2,1,1,6,1,1,1,1,2,1,2,1,3,2,4,2,16,1,1,1,31,1,2,2,2,3,3,1,4,3,3,5,1,4,10,8,3,1,8,5,96,18,47,155,3,32,6,26,49,4,3,19,35,22,22
+Estado	13,1,1,148,4,14,358,10,27,168,50,1,397,73,3,70,1,1,1,1,89,1,269,35,119,6,87,106,29,6,36,170,3,67,72,1,143,37,111,55,32,50,182,70,216,185,88,60,98,73,55,10,172,6,5,43,17,57,6,9,32,24,20,119,6,35,2,101,21,28,35,95,11,73,192,4,86,52,50,1,6,61,33,24,94,1,19,19,14,96,91,156,31,34,70,20,6,6,2,30,20,31,122,29,62,16,9,2,55,98,68,7,48,29,26,54,8,7,51,59,22,85,44,77,53,18,48,361,58,81,39,30,1,146,66,55,45,62,69,129,1,63,119,1,27,35,104,169,23,30,1,83,32,69,93,1,2,128,14,15,81,510,81,93,57,26,272,113,196,2,1,1,1,1,1,1,3,2,8,4,3,2,3,3,3,1,285,39,47,159,13,28,2,1,1,1,1,1,4,2,3,4,1,1,1,1,2,3,1,1,4,1,2,1,6,1,2,2,9,2,2,4,4,1,2,2,1,1,6,1,1,1,1,2,1,2,1,3,2,4,2,16,1,1,1,31,1,2,2,2,3,3,1,4,3,3,5,1,4,10,8,3,1,8,5,96,18,47,155,3,32,6,26,49,4,3,19,35,22,22,23,169
 Estado ASSEMBLEIA DA REPÚBLICA Lei	6970
 Estado Actual	10777
 Estado Agenda Guinea Ecuatorial	1701
@@ -679,14 +696,16 @@ Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243
 Estado de Cabo Verde. Permite	7466
 Estado de Desenvolvimento da Inteligência Artificial	2816
 Estado de Direito	10750,686,25
-Estado de Direito Democrático	11436
+Estado de Direito Democrático	11436,875
 Estado de Direito. A Ordem	11436
 Estado de Direito. Entre	11414
 Estado de ENTD.GW	11569
+Estado de Guerra	12311
 Estado de Guinea Ecuatorial	1701
 Estado de Necessidade Administrativa	11388
 Estado de Pressão Arterial	10777
 Estado de Prontidão Digital	11394
+Estado de Sítio	12311
 Estado de Telecomunicaciones	8881
 Estado de Transportes	7100
 Estado-Maior General	4147
@@ -729,7 +748,7 @@ Estado. Na	11547
 Estado. O CISP	11427
 Estado. O Presidente da República	11372
 Estado. Oferecem	11569
-Estado. Os	5305,6156
+Estado. Os	5305,6156,681
 Estado. Outra	10787
 Estado. Para	11444
 Estado. Paralelamente	5663
@@ -791,7 +810,7 @@ Estamos Juntos	8881
 Estandarizar	1701
 Estando	11415,486
 Estar	5169,5586,28,647,13,24,434
-Estas	163,1102,436,247,106,762,1330,1316,2717,648,23,1316,591,15,5,3,264,326,1,6,17,10,8,9,25,8,66,6,11,10,15,7,8,441,101
+Estas	163,1102,436,247,106,762,1330,1316,2717,648,23,1316,591,15,5,3,264,326,1,6,17,10,8,9,25,8,66,6,11,10,15,7,8,441,101,23,48
 Estas Conservatórias	11537
 Estate Administrators	4896
 Estate Administrators Dr Douglas Mboweni No	4896
@@ -806,9 +825,12 @@ Estatistica	11571
 Estatistica Indicadores	11571
 Estatistica Início	11571
 Estatistica. Revisao Linguistica	1526
+Estatisticas	12156
+Estatisticas Usuarios Autorizados	12156
 Estatisticas de Turismo	9441
 Estatisticos	11453
-Estatuto	167,372,726,436,2517,2244,4303,10,589,1,9,7,1,53,22,73,491
+Estatuto	167,372,726,436,2517,2244,4303,10,589,1,9,7,1,53,22,73,491,290
+Estatuto Editorial. Artigo	12311
 Estatuto Orgânico	2866,1280,72,6554,7,582,20,1,33,34,3,64
 Estatuto Orgânico da AGT	11435
 Estatuto Orgânico da APD	10770
@@ -837,7 +859,7 @@ Estatísticas	167,7884,2715,278,482,12,27,1,399,56
 Estatísticas Mensais da População Refugiada	11460
 Estatísticas Oficiais	6619,4740,157
 Estatísticas Relacionadas. III. Lista de Pedidos Submetidos	12021
-Estatísticas Vitais	10765,10,615,147
+Estatísticas Vitais	10765,10,615,147,605
 Estatísticas Vitais de Angola	10775
 Estatísticas da Educação	9441
 Estatísticas da Educação Pré-Escolar	10766
@@ -862,7 +884,11 @@ Este Mega Sistema	1701
 Este Mega-Clúster	1701
 Este Orçamento Retificativo	8179
 Este-Oeste	11373
+Esteban Ortiz-Ospina and Pablo ArriagadaGuyana	12265
+Esteban Ortiz-OspinaMost	12265
+Esteban Ortiz-OspinaRenewables	12265
 Esteemed	1554
+Estefania	12142
 Estefânia Nguala	8053
 Esteja	11898
 Estelle Akofio-Sowah	7373
@@ -893,12 +919,12 @@ Estico	9582
 Estigma Entre	10777
 Estima-se	11394,168
 Estimant	8518
-Estimate	511,325,836,1,976,1,1699,1299,1,1999,1475,2125
+Estimate	511,325,836,1,976,1,1699,1299,1,1999,1475,2125,890
 Estimate Var	6422
 Estimate for Somalia	32,11104
 Estimate of National Expenditure	11261
 Estimate the Livelihood Impact of Electricity Access	12006
-Estimated	236,53,607,2,10,5,22,18,198,212,1095,46,1,880,533,1,1,340,1273,232,774,1109,898,391,62,1408,405,47,2,119,268,609,119,10
+Estimated	236,53,607,2,10,5,22,18,198,212,1095,46,1,880,533,1,1,340,1273,232,774,1109,898,391,62,1408,405,47,2,119,268,609,119,10,152,115
 Estimated AfricInvest FIVE	4453
 Estimated Annual Gross Revenue	10738
 Estimated Annual Renewal Fee KES	10738
@@ -908,7 +934,7 @@ Estimated Approval Date	11863
 Estimated Approval Date Estimated Environmental	6539
 Estimated Audited	11986
 Estimated Automated	11986
-Estimated Board Date	996
+Estimated Board Date	996,11141
 Estimated Budget	1988
 Estimated Cost	1988
 Estimated Expenditure	2637,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,728
@@ -941,7 +967,7 @@ Estimated. PalmPay	605
 Estimated. Round	713
 Estimated. TLcom	529
 Estimated. ZAF	1057
-Estimates	236,346,387,185,89,21,250,314,380,296,1,270,188,1,1,219,1,733,1,1,340,230,1,34,100,281,175,1105,646,716,62,585,954,1565,4,63,63,2,13,2,119,15,138,391,48,13,390
+Estimates	236,346,387,185,89,21,250,314,380,296,1,270,188,1,1,219,1,733,1,1,340,230,1,34,100,281,175,1105,646,716,62,585,954,1565,4,63,63,2,13,2,119,15,138,391,48,13,390,183
 Estimates Yes Loan Cancellations Yes Development	2473
 Estimates of Contribution of ICT	236
 Estimates of Expenditure	4101
@@ -954,11 +980,13 @@ Estimating Digital Infrastructure Investment Needs	10856,284
 Estimating Tax Potential	10997
 Estimating the Costs	10829
 Estimating the Global ID Coverage Gap	10714
-Estimation	236,10945,115
+Estimation	236,10945,115,842
 Estimation CAPEX	12043
 Estimation Final	11296
-Estimation Inter-agency Group	11887
+Estimation Inter-agency Group	11887,266,1,9
 Estimation Methodology Data Selection Model	10714
+Estimation of Birth Registration Completeness	12151
+Estimation of Death Registration Completeness	12151
 Estimations	7655,3108,66
 Estimativa	2081,2338,593,6404,5,25,131
 Estimativa da Prevalência	10777
@@ -969,7 +997,7 @@ Estimular	1701,2445,7230,6,14,1,117,2
 Estimé	3719,3997
 Estiveram	10752
 Estnreurcgtyu	10157
-Estonia	169,598,961,90,60,215,3,4,2,15,585,207,1,38,122,92,22,1,181,25,107,569,191,267,282,428,86,4,375,319,53,297,1,33,200,65,24,33,124,87,308,114,1,112,232,1,7,99,232,304,65,12,886,122,169,22,406,129,557,51,10,6,4,67,9,134,10,1,129,474,376,12,113
+Estonia	169,598,961,90,60,215,3,4,2,15,585,207,1,38,122,92,22,1,181,25,107,569,191,267,282,428,86,4,375,319,53,297,1,33,200,65,24,33,124,87,308,114,1,112,232,1,7,99,232,304,65,12,886,122,169,22,406,129,557,51,10,6,4,67,9,134,10,1,129,474,376,12,113,179
 Estonia Eswatini Yes National Information and Communication	11529
 Estonia Global Cybersecurity Index	10764
 Estonia Made Digital ID Work	11006
@@ -984,6 +1012,7 @@ Estonia and Luxembourg	8764
 Estonia and Rwanda	1728
 Estonia and Rwanda. Cape Verde	2945
 Estonia and Singapore	8449
+Estonia and South Korea	12214
 Estonia&author	2096
 Estonia's ESTDEV	5235
 Estonia's X-Road	1596,1601,464,2790
@@ -1049,7 +1078,7 @@ Estrategia de Seguimiento	11743
 Estrategia. La Supervisión de Evaluación	1701
 Estrategia. Una	1701
 Estrategias	1701
-Estratégia	795,473,870,678,703,627,6294,332,594,95,86,15,7,286,18
+Estratégia	795,473,870,678,703,627,6294,332,594,95,86,15,7,286,18,269
 Estratégia A3 GOVERNAÇÃO DIGITAL DA GUINÉ-	11569
 Estratégia Angola	11366
 Estratégia Brasileira de Inteligência Artificial	2816,703
@@ -1078,6 +1107,7 @@ Estratégia Nacional de Inclusão Financeira Luanda	7166
 Estratégia Nacional de Inclusão Financeira de Angola	11426
 Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306
 Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
+Estratégia Nacional de Segurança Social Básica	12142
 Estratégia Nacional de Transformação Digital	2816,3769,4984
 Estratégia Nacional de Transformação Digital da Guiné-Bissau	11569
 Estratégia PILLER. ARTIGO	11530
@@ -1097,7 +1127,7 @@ Estratégia de Governação Digital	2618,8843
 Estratégia de Governação de Dados	2816
 Estratégia de Governo Digital	2816
 Estratégia de Género	11562
-Estratégia de Implementação	795,2021,4920
+Estratégia de Implementação	795,2021,4920,4406
 Estratégia de Implementação da PNPS	11547
 Estratégia de Inclusão Social	11562
 Estratégia de Integração Local Efetiva	11530
@@ -1114,6 +1144,7 @@ Estratégia de Segurança Energética Nacional	11366
 Estratégia de Sustentabilidade da Administração Pública	11451
 Estratégia de Transformação	795
 Estratégia de Transformação Digital	795,8899,1700,168
+Estratégia de Transição Energética	12206
 Estratégia de Universalização	10772
 Estratégias	2438,378,8571,19,141
 Estratégias Nacionais	11371
@@ -1223,6 +1254,7 @@ GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE	1701
 GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV	1701
 GNAGN A KOSSI EST NAYAL	10847
 GTMI. Estes	11569
+Gabinete de Estratégia	12142
 Gabinete de Estudo	11453
 Gabinete de Estudos	13,4741,4505,1493,14,595,26,4,147,19
 Gabinete de Estudos Planeamento	10752
@@ -1322,7 +1354,7 @@ Instituto Nacional de Estadísticas de Guinea Ecuatorial	4209
 Instituto Nacional de Estatistca ID	9441
 Instituto Nacional de Estatistica ID	9441
 Instituto Nacional de Estatisticas de Mocambique	115
-Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47
+Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47,532
 Instituto Nacional de Estatística INSS	10757
 Instituto Nacional de Estatística LBSEE	11387
 Instituto Nacional de Estatística Tiragem	10766
@@ -1360,6 +1392,7 @@ Jefe de Estado. Por	7100
 Jefe de Estudios Grupo	4209
 José Carlos Esteves. Promulgado	11519,1
 Judiciais Estrutura	6568
+Jun-2021. Estimated Board Date	761
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
 Justicia Políticas Estratégicas de Desarrollo	1701
 KEY PARTIES Established	1818
@@ -1425,8 +1458,10 @@ Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministro de Estado de Hacienda	10361
 Ministro de Estado de Hidrocarburos	9303
+Ministry of Homeland Security. Established	12291
 Ministry of Posts Established and Q4	1777
 Ministério Da Modernização Do Estado	1340,743,2330
+Ministério da Administração Estatal	12156
 Ministério da Saúde de Angola. Plano Estratégico Nacional	10780
 Modelo Estratégico Global	1701
 Modern Establishments	2775
@@ -1453,6 +1488,8 @@ Nacional de Estatística	11537
 Nacional de Saúde. INE Instituto Nacional de Estatística	11543
 Nadège YAMEOGO Lydia Esther Billa	3055
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
+Nascimento Estatisticas	12156
+National AI and Data Strategy. Establish	12214
 National CIRT Establishment	9433
 National Cybersecurity Coordinator. Establish	1777
 National Established and Q4	1777
@@ -1480,8 +1517,9 @@ O Anuário de Estatistica Sanitária	11453
 O Chefe de Estado	5272,1252,1
 O Conselho Nacional de Estatística	11963
 O Conselho Superior de Estatística	11516
-O Estado	15,3504,1059,884,524,4769,28,576,20,5,2,2,37,36,52,10,39,15,324,117,101
+O Estado	15,3504,1059,884,524,4769,28,576,20,5,2,2,37,36,52,10,39,15,324,117,101,192
 O Estado Angolano	10747
+O Estatuto	12311
 O Estatuto Epistemológico da Inteligência Artificial	2816
 O Estatuto da Entidade Gestora	11457
 O Estudo	11569
@@ -1739,6 +1777,7 @@ SECÇÃO II DADOS ESTATÍSTICOS	794
 SECÇÃO II DAS TRANSGRESSÕES ESTATÍSTICAS Artigo	11516
 SEGURANÇA DO ESTADO E ORDEM PÚBLICA	10747
 SEN. Esta	11526
+SIGTAS. Estimated	12225
 SISTEMAS DE GESTIÓN ESTRATÉGICA DE DESARROLLO	1701
 SITUAÇÃO DO SISTEMA ESTATÍSTICO NACIONAL Tendo	11526
 SME and ESG Market Development Establish	6938
@@ -1803,6 +1842,7 @@ Sim. Estão	12018
 Sistema Estadístico Nacional	1701,2508
 Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40
 Sistema Nacional de Informação Estatística	11516
+Sistema de Administração Financeira Estadual	12142
 Sistema de Estatística Nacional	11449
 Skills Needed Resources Estimate First	11905
 Social Development ESTA Extension of Security of Tenure	11188
@@ -1884,6 +1924,7 @@ VII. OBJECTIVOS ESTRATÉGICOS	4146
 VISÃO E ESTRATÉGIA PARA AS TIC	11396,1
 Valija Vehiculo Vehiculo Estudiantes GENERAL	4209
 Variance Estimation	11296
+Viduntur Sincid Eum EstipaeroVjoelocrteed	12151
 Visitas de Estudo	11444
 Visão Estratégica	11396
 WESTERN AND CENTRAL Estimated Approval Date	3456

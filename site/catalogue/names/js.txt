@@ -3,12 +3,13 @@ COO of Lesaka’s Merchant Division. JSE-listed	10393
 Dublin Core JSON Multiline CSV Simple	10878
 EU-South Africa JSTCC	11288
 Horizon Europe. The JSTCC	11288
+Independent Technical Advisory Panel JSR	12175
 Infrastructure Library JSON JavaScript Object Notation	6432
 Internet Service Providers JSI Joint Statement	1243
 Investment. JSIS University of Washington	4676
 JS Malema	12054
 JS-heavy	6659
-JS-rendered	613,2547,3424,2252,189,625,46,2127,179,40
+JS-rendered	613,2547,3424,2252,189,625,46,2127,179,40,252
 JS-rendered SPA	12098
 JS-rendered. Full	5523
 JS-rendering	10254
@@ -20,6 +21,9 @@ JSE-listed	8785,315,1434
 JSE-listed Blu Label Unlimited	11159
 JSE-listed Sabvest Capital	10735
 JSE. The Governor	11134
+JSI L10K	12246,9
+JSI. Annual	12255
+JSIInternet	12246
 JSInformationandCommunicationSyllabusDecember2025.pdf	1987
 JSMA-04-2021-0089	2093
 JSON API	7885

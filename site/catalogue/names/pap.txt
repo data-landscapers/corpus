@@ -15,6 +15,7 @@ African Development Bank Country Strategy Paper	8574
 African Development Bank Working Paper. Global	10718
 African Export-Import Bank's PAPSS	10718
 African Governance Papers	3598
+Afrobarometer Policy Paper	12192
 Afrobarometer Working Papers	7886
 Afrobarometer Working Papers Afrobarometer Working Papers	7886
 Afrobarometer Working Papers Appendix Pearson Khi2	7886
@@ -122,6 +123,7 @@ Disclosable Restructuring Paper	772,1298
 Discussion Paper	10768,370
 Discussion Paper No	5700
 Ditch Its Paper Trail	10718
+Documentation Paper-based	12211
 Draft Draft Revised White Paper Draft	11986
 Draft Revised White Paper	5533,5685,768
 Draft Revised White Paper Draft Revised	11986
@@ -161,7 +163,7 @@ Human Papillomavirus and Related Cancers	11417
 ICC White Paper	1243
 ICT White Paper	2117,3304
 ICT White Paper. In the Summary Report	2117
-ICTD Working Paper	1589
+ICTD Working Paper	1589,10573
 IDA Project Paper	2780
 IIPP Working Paper Series	5700
 IMF Departmental Paper	6965,4175
@@ -193,6 +195,7 @@ Kenya. Pesalink CEO Gituku Kirika. PAPSS	5201
 LABOR Public Disclosure Authorized DISCUSSION PAPER	10985
 LASER Synthesis Paper	11006
 Labor Discussion Paper No.1704	11133
+Large and Medium Taxpayers' Experience Working Paper	12162
 Le PAPEL	7839
 Le PAPSS	11810
 Le Pape Léon XIV	6575
@@ -246,7 +249,7 @@ PAPEL	7839,2739,573
 PAPER	7836,3053,381
 PAPER ZANZIBAR. UNICEF	11133
 PAPS Parallèlement	8066
-PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284,136,671,1,190,69,53
+PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284,136,671,1,190,69,53,92,55,4
 PAPSS CANNOT FIX Weak	9593
 PAPSS CEO	3440
 PAPSS CEO Mike Ogbalu	999
@@ -299,14 +302,17 @@ Papel	1701,9695,127,14,6
 Papelão	10777
 Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162,36,1,73,532,126,43,16,104,17
 Paper Handling	34
+Paper IDs	12214
+Paper Initiatives	12214
 Paper Model Name Comments Al-Sharhan	8603
 Paper No	961
 Paper PDF	1006
 Paper Presented	5349
 Paper Record Search. If the Reporting Financial	11233
+Paper Trails	12227
 Paper WP	10997
 Paper-Based Credentials	2291,1271
-Paper-based	3604,992,9,542,3622
+Paper-based	3604,992,9,542,3622,3445
 Paper-based Disclosure Production Statistics	11250
 PaperASIA	7759
 PaperRepository	5700
@@ -352,7 +358,7 @@ Regional Integration Strategy Paper	11863
 RegulAIte Working Paper No	11135
 Research Paper Gwamaka Mwalemba	1248
 Restitution PAPIQ	2966
-Restructuring Paper	2473
+Restructuring Paper	2473,9747
 Restructuring Paper On A Proposed Project	10856
 Restructuring Paper. Report	11924
 Review of White Paper	11236
@@ -388,9 +394,12 @@ Social Protection Discussion Paper Series	10985
 Social Protection Policy Paper No	11133
 South Africa. This White Paper	5533
 Sreelakshmi Papineni	10963,1
+Statistics Division Statistical Papers. New York	12151
 Strategic Imperative. Community Paper. Retrieved	10819
 Strategy Paper SDG Sustainable Development Goals	11863
+Studies White Papers API Docs FAQ	12211
 Sub-Saharan Africa. IMF Departmental Paper. International	10997
+Sub-pillar Paper-based	12214
 Supplementary Order Paper	10313
 Systematic Literature Review Papers Author Name	1248
 TII Africa Papua New Guinea Middle	10840
@@ -414,7 +423,8 @@ White Paper Discussion Document	11236
 White Paper Presentation	11986
 White Paper for NHI Policy	396
 White Paper. Sets the ICT	2411
-Working Paper	1243,585,3872,5063,78,156,1009
+Working Paper	1243,585,3872,5063,78,156,1009,152,69,51
+Working Paper E-tax System Adoption and Tax	12162
 Working Paper No	7886,3078
 Working Paper Series	5700,1522
 Working Paper Series. UCL Institute for Innovation	11006

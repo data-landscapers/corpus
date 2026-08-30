@@ -21,13 +21,13 @@ Gemagtigde	11189
 Gemalto	24,90,2168,8530,150
 Gemalto Color Laser Shield	10962
 Gemalto Selected	24
-Gemechis Melkamu	1824
+Gemechis Melkamu	1824,10431
 Gemeinden	504,399
 Gemeinden Life	336
 Gemeinwohl-Ökonomie	5700
 Gemi Rupestėlis Holding UAB Ruth Mozagba	8530
 Gemilyan M	10784
-Gemini	1363,1050,403,379,106,65,99,386,96,487,823,256,222,1,1,110,403,417,263,75,862,108,231,492,327,968,126,406,425,100,113,9,129,23,29,752
+Gemini	1363,1050,403,379,106,65,99,386,96,487,823,256,222,1,1,110,403,417,263,75,862,108,231,492,327,968,126,406,425,100,113,9,129,23,29,752,213
 Gemini Enterprise	5256,479,1,1
 Gemini Google	1363
 Gemini Live	10525,776
@@ -44,6 +44,7 @@ Gemini Study Notebooks	10525
 Gemini Ultra	2816,649
 Gemini and MAI	8216
 Gemini and NotebookLM	11308
+Gemini and Perplexity	12318
 Gemini da Google	2816
 Gemini da Google. Fonte	2816
 Gemini for Education	6250
@@ -58,6 +59,7 @@ Gemsbok Farm	9873
 Gemstone Processing and Lapidary Training Centre	3524
 Google Gemini	2816,1131,1364,202,314,1516,4500
 Google's Gemini	6879
+Google's Gemini AI	12241
 Google's Gemma	6886
 Google’s Gemini	11578
 Google’s Gemini and Microsoft’s Copilot	11768

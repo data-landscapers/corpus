@@ -4,6 +4,7 @@ ACCOUNTING RECORDS Determination	3714
 APPLICATION DETAILS	2709
 AU. Details	1264
 Acceptance of Bid Conditions and Bidder’s Details	11209
+Act. Detention	12145
 Activity Details Direct Beneficiaries40 Strengthening	1867
 Angola’s Nationally Determined Contribution	10768
 Anomaly Detection	10721,510
@@ -36,6 +37,7 @@ Capture New Partnership Details	11276
 Capture Partnership Details	11276
 Certificate of Independent Tender Determination	1638
 Chronic Disease Determinants Programme	10188
+Clear Deterioration Nearly	12199
 Code Detail Record	5173
 Code of Practice for Information Security Controls Detailed	3861
 Collision Detection	3604
@@ -99,7 +101,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,230,63
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -114,7 +116,7 @@ Detailed STG and GEA	11916
 Detailed Sector Analyses	2957
 Detailed Urban Planning Plans	10930
 Detailing	10388,757
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261
 Details Application	8726
 Details Baseline Target Due	1818
 Details Location	9134,140
@@ -141,7 +143,7 @@ Detect	1777,2483,1416,5045,696
 Detect Financial Fraud	6549
 Detectar	2816,1402
 Detected	4610
-Detecting	315,5218,1172,3013,410,593
+Detecting	315,5218,1172,3013,410,593,1504
 Detection	5132,401,2257,814,2117,510,38,717
 Detection Process	10721
 Detection Process CIRMR-DP.S1	10721
@@ -192,14 +194,14 @@ Determinations	10157
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171
 Determine Whether the Entity	11233
 Determine the MNE Group	573
 Determined	11169,49
 Determined Contribution NDP National Development Plan	10768
 Determined Contributions NDP National Development Plan	11380
 Determines	10822
-Determining	236,337,202,1321,4850,2772,1515,52,577
+Determining	236,337,202,1321,4850,2772,1515,52,577,391
 Determining Fairness	7198
 Determining Themes for Addressing Zones	11129
 Determining the Contribution	236
@@ -243,6 +245,8 @@ Fine Determination and Ranges	3861
 Fire Detection System	593
 Fire Detection and Suppression	10956
 Fire Detection and Suppression Analogue	9446
+Fire Detection and Suppression System	12253
+Firewall and Intrusion Detection	12253
 Floods Detecting Flood Events Angola	10763
 Former Detainees	3583
 Fraud Detection May Be Flagging the Wrong	5820
@@ -272,9 +276,9 @@ Improving the Detection	11417
 Inadequate Incident Detection and Response Capabilities	5677
 Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
-Increasing Deterioration	10759,1128,1,1
+Increasing Deterioration	10759,1128,1,1,264,1,9
 Increasing Deterioration Angola	10759
-Increasing Deterioration Score	10837
+Increasing Deterioration Score	10837,1315
 Increasing Deterioration Security	10835,3,1048
 Increasing Deterioration. Accountability	11888
 Increasing Deterioration. Participation	11888
@@ -285,11 +289,13 @@ Injection Attack Detection	9747,54,3,23
 Institutional Capacity Requirements DETERMINING	3861
 Institutional Determinants of Foreign Direct Investment	11310
 Integration Will Determine Whether Stablecoins Become	9903
+Intended Nationally Determined Contribution	12206
 Internet Protocol Detail Record	4274,899
 Intruder Detection Systems	10956
 Intruder Detection Systems Continuous CCTV	9446
-Intrusion Detection	1000
+Intrusion Detection	1000,11253
 Intrusion Detection and Prevention Systems	11231
+Irungu E. Determinants	12231
 JUBILADO Y REG. CONT. RECLUTAMIENTO DETALL	4209
 Journalist Detained	10213
 KENYAN RESIDENT FOREIGN NATIONAL ORGANIZATIONAL DETAILS	2709
@@ -321,10 +327,11 @@ NCD Non-Communicable Disease NDC Nationally Determined	11560
 NDC Nationally Determined Contribution	11965
 NDC Nationally Determined Contribution NDP National	11549
 NDC Nationally Determined Contribution NDTS National	3604
+NDC Nationally Determined Contribution NGAO National	12256
 NDC Nationally Determined Contribution NPV Net	1264
 Name and Registration Details	5538
 National Determined Contribution	970
-Nationally Determined Contribution	5247,1292,4878,169,319
+Nationally Determined Contribution	5247,1292,4878,169,319,301,50
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326
@@ -335,6 +342,7 @@ No. Key Area Details Indices Targets	11857
 OPS DETAILEDCHANGES REALLOCATION	1228
 Obj. Monitoring Details Baseline Target Due	1818
 Outlook Live Details	10235
+Overview of Refugee Status Determination	12227
 PAIEMENT DE LA DETTE FOURNISSEURS	2342
 PIM. Detailed	1867
 PROVIDE THEIR IDENTITY AND CONTACT DETAILS	2709
@@ -354,22 +362,26 @@ Procedures and Criteria for Determining Refugee	5533
 Programa Detalhado	4455,647
 Programa de Determinante de Doenças Crónicas	10188
 Programme Details Programme	11314
+Project Details	12197
 Projection Details Reasons	2473,2180
 Protection Customer Support Description Detailed	5676
 Publicity and Deterrence	3861
 RESPONDENT’S DETAILS	2709
+RSD Refugee Status Determination	12227
 Radar Interference Detection	736
 Rapid Detection and Response	10776
 Rapidly Detected And Responded To Responding	10776
 Refugee Status Determination Officer	11177,41,768
 Refugee Status Determination Officers	11177
 Registo de Detalhe de IP	4274
+Registration and Refugee Status Determination	12227
 Registry Power Detaches	9914,1,77
 Regulations Determine	9123
 Remote Earth Station Details Type of Earth	736
 Republic of South Africa. Determine	11285
 Review of Detention and Deportation Policy	11986
 Revision Details Revised	11188
+Risk Management Senior Officer. Publication Details	12162
 Risk and ICT Committee Member Details	11250
 S-Year Baseline Taraet Deteetion S	4301
 S. Determinants	7886
@@ -387,8 +399,8 @@ Session Details	9858
 Seychelles Details Vaughan O'Grady Category	2511
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
-Slowing Deterioration	11887,1,1
-Slowing Deterioration Score	10837
+Slowing Deterioration	11887,1,1,264,1,9
+Slowing Deterioration Score	10837,1315
 Slowing Deterioration. African	11888
 Slowing Deterioration. Between	11888
 Slowing Deterioration. Foundations for Economic Opportunity	11888
@@ -402,8 +414,10 @@ Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16
 Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Station Details MAIN Station	736
+Statistics and Research. Details	12151
 Stronger Sanctions and Deterrence	6936
 Submission Details Written	6305
+Subnet Member Details	12283
 Substantial. Details	10829
 Summary of Cyber Threats Detected	6946
 Survey Details Estimated Completion Time	9478
@@ -421,7 +435,7 @@ V. Dette	6896
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VII DETAILED CHANGE	1284
 VII. DETAILED CHANGE	2889,9076
-Very Early Smoke Detection Apparatus	593
+Very Early Smoke Detection Apparatus	593,11660
 Victoria Falls and Dete	1554
 WIA Supported Media Size Details ADF	34
 Warning Signs Bouncing Back Slowing Deterioration	10759
@@ -430,6 +444,7 @@ Water Leakage Detection	593
 Weitere Details	9062
 WhatsApp. Determination	5113
 Willing CERTIFICATION DEPARTMENT Determines	10819
+Wokabi V. Determinants	12231
 Women Slowing Deterioration Absence of Armed Conflict	11870
 World Bank IPF. Detailed FM	3604
 Yvon Detchenou	4246

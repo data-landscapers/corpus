@@ -97,6 +97,7 @@ All About Cookies	9902
 All Africa	10151
 All Africa Conference of Churches Data Processor	7167
 All Africa Digital Economy Moonshot	226
+All Ages	12151
 All Asian	11004
 All At Once	5574,215
 All BFI-approved	11248
@@ -106,7 +107,9 @@ All Bids	8166,3074
 All Birth Registrations	11218
 All BoG-licensed	4582
 All Board	11131
+All CC	12201
 All CCTV	34
+All CIT	12225
 All CPD	4260
 All CSPs	6432,5563
 All Case Law	6387
@@ -145,7 +148,8 @@ All Hands	5349
 All ICPC Members	3513
 All ICT	34,924,10273
 All ID	10775
-All IIAG	10759,76,2,1,130,902,16,1,2
+All IDIs and FGDs	12231
+All IIAG	10759,76,2,1,130,902,16,1,2,263,2,9
 All IPF	11469
 All Individual	762
 All Internet	34
@@ -160,6 +164,7 @@ All M-PESA	3621
 All MACs	5244
 All MCDAs	6432
 All MDAs	10157,1834
+All Malawian	12217
 All MediaDate	11254
 All Military Addresses	11129
 All MoH	34
@@ -174,7 +179,10 @@ All New Capacity	11228
 All New Generation Capacity	11228
 All New Generation Capacity All	11228
 All Nigerian Police Stations	12045
+All Onward Recipients	12302
+All P2G and B2G	12321
 All PABX	34
+All Partner States	12164
 All Peoples’ Congress	7452
 All Personal	3861
 All Point	736
@@ -186,14 +194,15 @@ All Progressives Congress	4861,7275
 All Project	10768
 All Projects Table	607
 All Proposals	7951
+All Provincial Governors	12201
 All Public Commissions	4528
 All Public Sector	8670
 All RIRs	3503
 All Radio Frequency Spectrum Licenses	762
 All Reports	962
 All Result No Result View All	4619
-All Rights Reserved	6408,4835
-All Rights Reserved AfricaNenda Foundation	12000
+All Rights Reserved	6408,4835,1079
+All Rights Reserved AfricaNenda Foundation	12000,269,1
 All Rights Reserved Arab Finance	11739
 All Rights Reserved. SHARE Senegal	5985
 All Rights Reserved. SHARE Seychelles	6894
@@ -221,17 +230,21 @@ All Tier III	7259
 All U.S. Government-funded	4217
 All Ugandan	1920
 All VAT	8590
+All VAT Large VAT All VAT	12225
 All Zones Carthago Compensation SIBTEL National	6938
 All for Health	10776
 All of NIMC	5321
 All of Penda Health	11578
 All of Sadc	8128
 All of Us	10188
+All the Data	12146
 All the DisCos	12062
 All the ESCP	1264
 All the ESMPs	1988
 All the IAB South Africa	7253
 All the IETF	991
+All the MDAs	12253
+All the NRB	12241
 All the PPE	560
 All the Telecommunications Contractors	6946
 All the Vehicles	7897
@@ -250,8 +263,9 @@ All-net Minutes	11259
 All-party	3714
 All-programmes	6548
 All-terrain	11188
+All. Integrated Planning for Universal Access	12233
 AllAfrica	4674,541,284,4,3609,981,570
-AllAfrica Global Media	4334,736,5697,1257,3
+AllAfrica Global Media	4334,736,5697,1257,3,263
 AllAfrica Newsletters Get	7615
 AllMyT Summit	7367
 Allada	6217,4,3689,911,55
@@ -262,12 +276,14 @@ Allah-Maye Halina. Il	9281
 AllahMaye Halina	5748,3533
 Allal Benlarbi	8891
 Allan	6948,690,2131,2155
+Allan Gisanga	12256
 Allan Gray Ventures and Endeavour. MFS Africa	606
 Allan Juma	9830
 Allan Kisia	10338
 Allan Lule	5413
 Allan Maleche	4674
 Allan Martin	6948
+Allan Mukuki	12227
 Allan Mutange Data Controller INST-1231259F8B0 NAKURU	7167
 Allard	12090
 Allcleanedandupdated	8606
@@ -298,9 +314,10 @@ Alleyne G	10780
 Allez	747,4275
 Allgemeine Zeitung	3002,443,14,16,1606,536
 Alliamore NKABA ATSAMA	1594
-Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91
+Alliance	1824,553,172,792,15,631,368,1136,458,10,135,137,138,911,53,412,254,503,253,93,200,659,99,583,158,182,90,55,91,1313
 Alliance Better Than Cash	10711
 Alliance Burkinabè des Domaines Internet	9509
+Alliance Firms	12232
 Alliance KICA Kenya Information and Communications Act	7548
 Alliance Membership Criteria and Review Process User-centric	10819
 Alliance Sahel	643
@@ -354,18 +371,18 @@ Allmyt Summit	7244
 Allo CAIDP	3340
 Allo Goor Gi	8305
 Allocat1i2o.1n	10157
-Allocate	961,39,3528,716,289,5732
+Allocate	961,39,3528,716,289,5732,911,77
 Allocated	1756,1,1,1,1,1,1,1,1,1,708,1110,7287
 Allocated Budget	1289
 Allocates	1686,6918
-Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30
+Allocation	11,1172,1290,2180,1779,1116,302,1909,1375,47,686,30,278
 Allocation Actuals	1228
 Allocation District Specific Project Leader Social	11986
 Allocation and Source of Financing IDA IDA Commercial	1284
 Allocation of Functions	10157
 Allocation of Special Drawing Rights	11131
 Allocation of Special Drawing Rights Domestic	11131,3
-Allocations	1284,554,29,5681,3163,849,345
+Allocations	1284,554,29,5681,3163,849,345,296
 Allocations PBC Performance-Based Conditions PCE Private	1264
 Allocations Per Province Province	11890
 Allocution du Chef de File des PTF	2966
@@ -376,13 +393,13 @@ Allow	2668,1318,1261,430,746,1565,586,1636,103,1559,3,74,28,64
 Allow Record	1988
 Allow South Complete Its Turn	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Allow the Smart Africa Heads of State Summit	3874
-Allowance	4732
+Allowance	4732,7521
 Allowances	11,576,11264
 Allowed	1243,6035,3541
 Allowed the DGCI	11939
-Allowing	6152,271,48
+Allowing	6152,271,48,5782,49
 Allowing State Party	1243
-Allows	2477,2770,2725,3304,596,67,67
+Allows	2477,2770,2725,3304,596,67,67,280
 Alloys	10464
 Allschwil	10919
 Alluhaidan	8606
@@ -421,6 +438,7 @@ Bank. All	11855,8
 Baseline Allocation	11890
 Baseline Assumptions All	10157
 Basic Education for All Agriculture and Food Accelerating	11469
+Basic Social Allowance Programme	12247
 Better Future for All Nigerians	3456
 Better Than Cash Alliance	99,1578,1996,3923,3381
 Better Than Cash Alliance. SSA	99
@@ -449,6 +467,7 @@ CENTRES IN ALL	1638
 CEO of Digital Impact Alliance	6267
 CEO of Global Energy Alliance for People and Planet	11137
 CIRCULAR TO ALL STAKEHOLDERS REGULATORY GUIDELINES	11861
+CNE Electoral Allocation of Seats Constituency	12201
 CONFERENCE OF THE AFRICAN POLITICAL ALLIANCE	4114
 CONSENTS All	5538
 CSA'S STRONG WARNING TO ALL INSTITUTIONS	9728
@@ -457,6 +476,7 @@ Cabinet No Result View All Result	5774
 Calling All Tech Diplomats	4253
 Cameroon2024 Large Sub-Saharan Lower All Firms	10976
 Can You Have It All	7857
+Capital FM. All	12290
 Case Register and Allegations	11250
 Case Register and Allegations Annual Comparison	11250
 Categories Cybersecurity Allan Juma	9830
@@ -465,6 +485,7 @@ Category Grant Allocated Financed	2474
 Cell C All-in-One Plus	11259
 Certified National Government Data Centres All	6432
 Charges Public Consultations National Frequency Allocation	9109
+Charity Association for All Ethiopian Persons	12236
 Chequia ALLO	6613
 City of Kigali and All Provinces	718
 Civil Council Against All Forms of Discrimination	8811
@@ -482,8 +503,10 @@ Committed Proposed Allocation Financing	1228
 Committed Proposed Allocation Official Use Only	4653
 Communication All	395
 Companies and Allied Matters Act	11976
+Compatibility All	12246
 Complete All	11854
 Compliance Requirement All	6432
+Compliance Risk Management Directorate. All	12225
 Congo River Alliance	10097
 Connectivity for All	3954
 Contingent Allemand	998
@@ -531,6 +554,7 @@ Declaration of Helsinki. All	12025
 Deeds Office. All	11286
 Delivery for All	11469
 Democratic Alliance	5533,1518,3678,1257
+Democratic Alliance Coalition	12201
 Department of Poverty Alleviation	7859
 Description The Smart Africa Alliance	1182
 Description UNCDF Better Than Cash Alliance	213
@@ -554,7 +578,8 @@ Digital Market SAA Smart Africa Alliance	1264
 Digital Pathways for All	2585
 Digital Prosperity for All	3837
 Digital Public Good Alliance	6337
-Digital Public Goods Alliance	3720,1980,24,1518,679,689,3386
+Digital Public Goods Alliance	3720,1980,24,1518,679,689,3386,218
+Digital Public Goods Alliance DTS Digital	12241
 Digital Public Goods Alliance Secretariat	3720,8276
 Digital Public Goods Alliance’s GovStack	5700
 Digital Rights Alliance Africa	2549,6596,2255,92
@@ -563,7 +588,7 @@ Digital Violence Against All Women	11332
 Digitalisation for All	1161
 Dimensions of Data Quality All	3861
 Directive Training Requirements All	3861
-Disclaimer All	8376
+Disclaimer All	8376,3870
 Disclosure of Information All	775
 Dispute Resolution All	6432
 Disrupt Africa. All	4883
@@ -588,15 +613,19 @@ Education Health Other FISIM All In-	2775
 Education for All	770,208
 Education for All NSIA Medserve	11469
 Effortless and Cost Effective Payments for All	11940
-Elimination of All Forms of Discrimination	3583,7610,92,480
-Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211
+Electoral Allocation of Seats Constituency City of Maputo	12201
+Elimination of All Forms of Discrimination	3583,7610,92,480,436
+Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215
 Elimination of All Forms of Racial Discrimination	10765,10,990
+Elimination of All Forms of Racial Discrimination. Article	12201
 Emerging Allocations	7548
 Energy for All	11137
 English. All	766,3673
 Enterprise Surveys. All	10862
+Environmental and Social Management Plan All	12253
 Erzielung von Allgemeiner Gesundheitsabsicherung Digital	904
 Eskom Programme Allocations	11890
+Ethiopia. All Ethiopian	12188
 European AI Alliance	11050
 European Payments Alliance	9832
 Evangelical Alliance of Kenya	6409
@@ -614,6 +643,7 @@ Female Male All Agriculture	10841
 Female Male All Working	10841
 Finance and All Purposes Committee	6946
 Financial Resources and Budgetary Allocation	3861
+Financial Section All	12241
 Firme Allemande Dermalog. Occasion	11972
 First Ally Capital	7415
 Forms Licensing and Authorisation Media Centre All	9109
@@ -622,6 +652,7 @@ Future Alliance	6386,282
 G Spectrum Spectrum Pricing and Allocation Digital	11857
 G3ict. All	11935
 GAVI- Global Alliance for Vaccines and Immunisation	10819
+GBV. All	12253
 GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
 GDC. All	11028
 Gain Allocations	7548
@@ -632,7 +663,7 @@ General Paths of Access All	9123
 Ghana. All	6041
 GitHub Classroom. All GitHub Classroom	11922
 GitHub Copilot and VS Code. All	6498
-Global Alliance	10776,663,430
+Global Alliance	10776,663,430,289
 Global Alliance Against Hunger and Poverty	11133
 Global Alliance for Genomics and Health	10188
 Global Alliance for Vaccines and Immunization GBT	10776
@@ -644,10 +675,12 @@ Global Artificial Intelligence AllianceEthiopia	7474
 Global Energy Alliance	11137
 Global Energy Alliance for People and Planet and Sustainable	11137
 Global South Alliance	6960
+GoM Prevention and Resilience Allocation	12220
 Good of All	7548
 Google Agnes Mlambo Bryce Allan Chris	9769
 Google Scholar Southern Alliance	11028
 Governance Duty All	3861
+Governance Framework All	12240
 Government Applications All	11854
 Government of Kenya. All	4153
 Government of Mozambique. All	4260
@@ -663,6 +696,7 @@ Harmonized Complaint Handling Process All	5676
 Hassan Allam	4496,930
 Hassan Allam Digital Infrastructure	4496
 Hassan Allam Digital Infrastructure and Data Center	4496,2182
+Health and Safety Manual and Policy. All	12253
 Health for All	4301,6475
 Home Owners Allowance	11218
 Home Owners Allowance and Medical Aid	11218,6
@@ -730,6 +764,8 @@ ITU ICTPriceBaskets Allowance 2024.xlsx	11563
 IX. All	4217
 Identify Protect Detect Respond Recover All	6423
 Identity Cards. All	5609
+Identity for All	761
+Identity for All Program	761
 Incident Response A. All Telecommunications Service	4610
 Income All Firms Small Medium Large	11874
 Incubators United States All	4972
@@ -758,7 +794,9 @@ Kenya Private Sector Alliance	2423
 LC1 Polls Over Alleged Breach of EC	4175
 LE TEMPS All News	2396,3046
 Land Allocation	11261
+Land Platform. All	12211
 Language Support All	11952
+Large VAT All VAT Large VAT	12225
 Lauren Allognon	10763
 Le Sahel Aller	2514,287,536,4,15,39,594,824,1281,484,305,281,19
 Lead Entity All TWGs	4528
@@ -767,6 +805,7 @@ Legal ID for All	11586
 Legal Identity for All	4791
 Legal Persons The Trust Alliance	10819
 Libya Interior Minister Alleges State	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+List of Services Offered All	12157
 Literacy and ALL COUNTRIES Affordability Literacy and Safety	11004
 Local Authorities. All Local Authorities	3051
 Local Representation Requirement All GCSPs	6432
@@ -781,9 +820,11 @@ MICTPCS MDAs All Sectors	958
 MINAS. All	10963,1
 MISA Zimbabwe and Media Alliance of Zimbabwe	6951
 MONTHS All	11252
+MOR's Ethics Directorate. All	12225
 MSPs. All ICT	3604
 MULTIPLE OPTIONS ALLOWED	582
 Making All Spaces Safe	6705
+Malawi Police Service. All	12253
 Managing Director of Soft Alliance and Resources Limited	7973
 Mandatory Audit of Legacy Data All	3861
 Mandatory Internal Controls All	3861
@@ -824,7 +865,9 @@ National Broadband Alliance for Nigeria	3456
 National Communications Authority. All Rights Reserved	9109
 National Data Exchange Platform. All	6592
 National Data Governance Framework. All	4217
+National Digital Initiative Alliance	12278
 National Frequency Allocation Plan	762
+National ID. All Rights Reserved	12215,66
 National Identification Authority. All Rights Reserved	1263,1045
 National Media Commission. Allocation	11
 National Performance Based Allocations	2889
@@ -835,6 +878,7 @@ NewsDay Zimbabwe. All	2888,32,354,504,1444,877,6,100,680,129,293,115
 Nigeria. All	9739
 Nigerian Communications Commission. All Rights Reserved	9667
 Nigerians. All	3030
+Nights Quantity Participants Allowances	12253
 No. Category Allocation Committed Allocation	2473
 Number of Allegations Received	11250
 Number of Allocations	7548
@@ -861,6 +905,7 @@ Pacific Alliance	1243
 PagSeguro and Paytm. All	5124
 Pan African Alliance of Small and Medium Industry	10262
 Pan African Visions. All Rights Reserved	9989
+Participants Allowance	12253
 Participants. All	4217
 Participate All	1261
 Patient Operational Allergies and National	2477
@@ -893,6 +938,7 @@ Promoting Clean Energy for All	11332
 Protection of All Persons	11765
 Public Allocation	7548
 PwC. All	7751
+Quality Foundational Learning for All Girls and Boys	12175
 Quality for Education for All	11525
 Quona Capital. Per AllBusiness Africa	934
 REG. All SSA	1549
@@ -920,11 +966,13 @@ Result View All Result Home Science	2885
 Revenue Allocation	9939
 Revenue Allocation Standards and Guidelines	9939
 Revenue Mobilisation Allocation and Fiscal Commission	11976
+Rich Allela for Privacy International Weitzberg	12227
 Rights of All Migrant Workers	10841
 Rights of All Migrant Workers and Members	10841,924
 Risk All	6534
 Risk Identification A. All Telecommunications Service	4610
 Role Trust Alliance Responsibility The Trust	10819
+Rules All	12253
 Rwanda Internet Community and Technology Alliance	8343,1452
 République du Congo Alliamore NKABA ATSAMA	1682
 SADC Council of Ministers. Allow	9761
@@ -936,6 +984,7 @@ SCOOPAFRIQUE Aller	11673
 SEP. All	3161
 SERVICES FOR ALL	1885
 SHOW ALL	6997
+SIMO. All	12270
 SINA Corporation All Rights Reserved	10369
 SMART AFRICA ALLIANCE	1182,82,9555
 SMART AFRICA TRUST ALLIANCE	10819
@@ -951,6 +1000,7 @@ Section Evaluation Criteria Points Allocation Weight	11240
 Sector Alliance	7548
 Sectoral Allocation of AI-Enabled Productivity Gains	2957
 Secure Identity Alliance Discussion Paper. GSMA	10819
+Secured Storage of Allocate	12253
 Security Alliance DAST Dynamic Application Security	11952
 Security Identity Alliance’s OSIA	10819
 Security Identity Alliance’s OSIA1	10819
@@ -967,6 +1017,7 @@ Smart Africa Trust Alliance	3272,155,603,296,6493,3,34
 Smart Data Ukimet. All	1749
 Social Alliances Gender Eradication of Recovery Well-being	970
 Society-general Environment Alliance	970
+Sources All	12199
 Sources NOG Alliance	11797
 South Africa. All	3523
 South African Human Rights Commission. All	9234
@@ -986,9 +1037,10 @@ Subaskaran Allirajah	5262
 Sunset of Transitional Measures All	3861
 Supervision. All	2948,1484,3327,371
 Sustainable Development Goals and Education for All. Taken	11907
-Sustainable Energy for All	11137,435
+Sustainable Energy for All	11137,435,619
 Sustainable Energy for All. Nigeria	11469
 Swiss National Bank. All	11134
+Switches Show All	12283
 System Recovery A. All Telecommunications Service	4610
 T-Digital Impact Alliance	102
 TELECOMMUNICATIONS PROCUREMENT SPEND TO ALL SUPPLIERS	11211,51
@@ -1000,6 +1052,8 @@ Tanzania and Uganda. The EAC AI Alliance	9707
 Tanzania. Muhimbili University of Health and Allied Sciences	1261
 Tanzania. UbuntuNet Alliance	2816
 Teacher Trainee Allowance	7695
+Teaching and Learning for All Girls and Boys	12175
+Team Allocation Each MCDA	12157
 Technical Migration Schedule All	3861
 Technical Requirements All	11209
 Technologies Allocations	7548
@@ -1071,7 +1125,9 @@ World Alliance of Tunisian Talents. Cette	7649
 World Benchmarking Alliance	11028
 X. All	4217
 XVI. All	4217
-Yes. All	10937
+Y.K. All	12255
+Years of Quality Education for All Girls	12175
+Yes. All	10937,1295
 ZMB. All SSA-49	724
 Zimbabwe Independent. All	6244,1
 Zimbabwe National Frequency Allocation Plan	736

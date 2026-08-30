@@ -10,6 +10,7 @@ All Peoples’ Congress	7452
 Andrea Johnson People	5808,375
 Armed People	11131,3
 Assembly of People’s Representatives	5101
+Associations of People	12201
 BILLION PEOPLE. Mauritius	10977
 Baseline People	4653
 Better Lives for People	11469
@@ -19,7 +20,7 @@ Build Resilience of People and Ecosystems Rationale	11469
 CEO of Global Energy Alliance for People and Planet	11137
 CNIB. People	10812
 CRI New People	4653
-CRI People	2712,1976,1891,349,3942,1101
+CRI People	2712,1976,1891,349,3942,1101,296
 CRI Revise People	4653
 CSI. People	3604
 Chepkitale Indigenous People Development Project Data	7167
@@ -49,12 +50,16 @@ Ensuring Young People Succeed Sub-Saharan Africa	1363
 Estonian Chamber of Disabled People.49	11006
 Ethiopia's House of People's Representatives	3211
 Ethiopia's House of Peoples' Representatives Approves	1971
+Ethiopian House of Peoples' Representatives	12232
 Everyday People	5975
 FUNCTIONAL DIGITAL IDENTITY FOR PEOPLE	11940
 FinNeeds UNDERSTANDING PEOPLE’S LIVES Data	418
 Finance for Displaced People	10841
 Financial Report IP Indigenous Peoples IPF	10829
 Forest Peoples	1988
+Forum of Mozambican Associations of People	12201
+Free Movement of People	12227
+Free Movement of People Across Africa	12227
 Functional Digital Identity for People	11940
 GUIDdE PeOsUR LAfDluIGIxTALISAàTION	10711
 General People's Congress	0
@@ -62,16 +67,19 @@ Global Energy Alliance for People and Planet and Sustainable	11137
 Green Giraffe People	8550
 Green People's Energy	1242
 Hopes and Aspirations of Young People Today	7749
+House of People's Representative	12185
 House of People's Representatives	1290,508,166,7,1240,3843,3778
 House of People's Representatives of Ethiopia	1971
 House of Peoples Representatives	1685
-House of Peoples' Representative	1964
+House of Peoples' Representative	1964,10221
 House of Peoples' Representatives	3176,3915,1
 House of People’s Representatives	9306
+Human Rights and Peoples	12201
 Human and People's Rights	1988,9917,81
+Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples Rights	3005,1748
-Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187
+Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497
 Human and Peoples' Rights and Article	7458
 Human and Peoples' Rights of Women	3583
 Human and Peoples' Rights. Continued	3583
@@ -88,8 +96,8 @@ IP Indigenous People IPP Indigenous People	969
 IPPF Indigenous Peoples Planning Framework	11390
 Inclusive and Sustainable AI for People	4583
 Indigenous People Plan	10829
-Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345
-Indigenous Peoples OP	11525,330
+Indigenous Peoples	1243,624,121,1616,7164,61,134,1,321,132,143,345,232
+Indigenous Peoples OP	11525,330,282
 Indigenous Peoples Plan	10829,561
 Indigenous Peoples Planning Framework	10964
 Indigenous Peoples Policy Framework IPPF	11924
@@ -99,15 +107,19 @@ Influential People	4429
 Investment Project Financing LIPW Indigenous Peoples	10964
 Lao People's Democratic Republic Latvia Lebanon	11765
 Lao People’s Democratic Republic	226,6387
+MALAWI DIGITAL READINESS ASSESSMENT People	12214
 MILLIONS OF PEOPLE WITHOUT ACCESS	11572
 MPA People	6539
 MPSAM People	3604
 MTND Responsibility for Data Collection PCU People	3604
+Majority People	12214
+Making Digital Wallets Work for People	12227
 Making Services Work for Poor People	11310
 Making Services Work for Poor People. Washington	11310
 Manage People	34
+Management of Living Natural Resources Indigenous Peoples	12253
 Mc Democratic People's Republic of Korea Asia	10840
-Million People	4769,3770,2598
+Million People	4769,3770,2598,1108
 Millions of People	3583
 Ministry of Health and Child Care. People	9429
 Mn People	6539
@@ -119,11 +131,15 @@ National Agency for People Registry and Secure Documents	1833
 National People's Assembly	2406
 National People’s Assembly	11586
 National People’s Party	10062
+Nationalities and Peoples	12158
 News People	6183,896
 Novastar Ventures Africa People and Planet Fund	4516
 Number of People	11905
+Number of People Registered for National ID	12241
 Official Use Only People	7877
-Optimistic People	5815
+Online Public Services for People	12214
+Optimistic People	5815,6386
+Outputs People	12241
 P17240506 Toward More People-Centered Service Delivery	984
 PBF National Technical Unit People	10829
 PEOPLE	10719,133
@@ -135,7 +151,7 @@ PROPORTION OF BLACK PEOPLE IN TOP	11211,51
 PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17
 People Carrying the Risk Risk-sharing	6947
 People Daily	6231,1638
 People Daily Digital	8383,1557
@@ -145,9 +161,13 @@ People Feedback	11940
 People First	8652,2532
 People Focus	11134
 People Lend Their IDs. Participants	4439
+People Limited	12214
+People Limited Limited	12214
 People Living	958,10176,729
+People MALAWI DIGITAL READINESS ASSESSMENT	12214
 People On Antiretroviral Treatment	4153,49,15,132,1003
 People People Mode Amour Videos Gallerie	9890
+People Pillar	12214
 People Plus Consulting	7444
 People Power	7822
 People Power Inclusion	7822
@@ -183,6 +203,7 @@ People-Centred Vision	9582
 People-Centric Energy Transition	11572
 People-centred	9546,2394
 People-centred- AI	1814
+People-centric	12214
 People-centric Digitally Enabled Public Services	11971
 People-centric Digitally Enabled Public Services Indicator	11971
 People-focused	11131
@@ -194,6 +215,7 @@ PeoplePowerSL	9488
 Peoples	1988,9287,273
 Peoples Democratic Party	5215
 Peoples Gazette	3742
+Peoples Own Savings Bank	12252
 Peoples' Rights	9399
 Peoples-Perspectives-on-ID-and-CR-in-Rwanda-WorldBank.pdf	445
 People’s Bank of China Governor Pan Gongsheng	10026
@@ -224,6 +246,7 @@ Rights of People	11935
 SERVICES IN SELECT SECTORS People	3604
 SOCIETY NMB PEOPLE'S OWN SAVINGS BANK	11002
 SUPPORTING ESSENTIAL HEALTH SERVICE DELIVERY People	10829
+Sarker D. Financial Inclusion of Disabled People	12231
 Science and Community People	11332
 Sibaya People Parliament	11131
 Society for The Empowerment of People-STEP	9082
@@ -237,6 +260,7 @@ Sport Dossiers Economie Afrique Monde People	9890
 Strengthening Fundamentals of Digital Transformation People	3604
 Sudan People's Liberation Movement	3583
 Supporting People and Workers	10985
+Systematic Stage The People Pillar	12214
 TII Asia Democratic People's Republic of Korea	10840
 Tanzania People’s Defence Force	2867
 Target People	4653

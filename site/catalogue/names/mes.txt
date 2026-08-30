@@ -20,6 +20,7 @@ B. Mesure	5630
 BETTER SHORT MESSAGE SERVICES LIMITED Data	7167
 Banxso and Messrs Sekler and Sneider	8354
 Bn. Messaging	6100
+Bulk SMS for Broadcasting Messages	12241
 Business Messaging	7427
 CADRE MÉTHODOLOGIQUE DE MESURE DES DIMENSIONS	5928
 CALLS MESSAGING ENTERTAINMENT NEWS FOR ONLINE	11004
@@ -53,7 +54,7 @@ Dissertação de Mestrado	10775
 Eng. Sham Mesfin	10001
 Enterprise Bulk Messaging	3862
 Eskinder Mesfin Cherinet	4766
-Ethiopia's MESOB	3265
+Ethiopia's MESOB	3265,8983
 Ethiopia. Voice and Messaging Voice	3898
 Ethiopia’s MESOB One Stop Service	7820
 FDRE MESOB SERVICE The New Horizon	10709
@@ -69,6 +70,7 @@ General Eng. Majed Sultan Al Mesmar	7687
 H.E. Gaudencio Mohaba Messu	5001
 Hannover Messe	6931
 Health Warnings and Messages	7760
+ID and MESOB	12248
 ISO20022 Global Messaging Standard	11994
 Intermédiation Financière Indirectement Mesuré	9276
 International A2P Messaging and Firewall Solution	7315
@@ -92,9 +94,10 @@ MESCTI	6174,4602,611,4,19,222
 MESD Computerisation	1664
 MESFPT	3396
 MESGPR	10813,8
-MESIP	978
+MESIP	978,11197
 MESO FINANCE Favorable	10821
-MESOB	3265,933,568,2094,960,67,1914,908
+MESOB	3265,933,568,2094,960,67,1914,908,1506,33
+MESOB Bridge API Gateway	12215
 MESOB Center	10709
 MESOB Center Inauguration	10709
 MESOB Center Services	10709
@@ -105,6 +108,7 @@ MESOB One Stop Service Chief Executive	7820
 MESOB One-Stop Service Center	7887
 MESOB Service	9531
 MESOB. Several	7887
+MESOP	12248
 MESP Governance Portfolio	8286
 MESR Coordination	2966
 MESR D	2966
@@ -115,6 +119,7 @@ MESRS	235,3369,3292,3925
 MESRSFP	8387
 MESRSI	2975,421,5495
 MESRSIT	11905
+MESSAGE BY THE DIRECTOR	12256
 MESSAGE FROM THE CHAIRMAN Stewarding Safaricom	7204
 MESSOK	10975
 MEST Africa. Cette	10353
@@ -128,6 +133,7 @@ MESURES DE RATIONALISATION DES ENGAGEMENTS Article	4420
 MESURES D’APPUI	643
 MESURES GENERALES	2808,237
 MESURES INDIVIDUELLES Au	3045
+Malawi Education Reform Program MESIP	12175
 Mass Drug Administration MESCTI	10776
 Mbaabu and Mesongo Sibuti	10464
 Meraki Mesh Response Kits and Cisco	7479
@@ -161,8 +167,11 @@ Mesob Center	10709
 Mesongo Sibuti	9467
 Mesongo Sibuti Mesongo Sibuti	10464
 Mesoscale Model	9475
-Mesoud Mohammed	1824
-Message	582,4694,1670,258,1795,1777,507,669,3
+Mesoud Mohammed	1824,10431
+Message	582,4694,1670,258,1795,1777,507,669,3,259
+Message Development Workshop	12241
+Message Development Workshop A Civic Education	12241
+Message Fenella Frost Resident Representative UNDP	12214
 Message From Ghana Statistical Service	582
 Message From Sustainability Executive	9103
 Message Kindly	5903
@@ -180,10 +189,10 @@ Messageries	10389
 Messages	21,1015,8580,178,2181
 Messages Forwarded	11955
 Messages Received	11955
-Messaging	3898,1623,579,2899,617,1177,1207
+Messaging	3898,1623,579,2899,617,1177,1207,269,1
 Messamena	8737
 Messamendongo	10975
-Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822
+Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822,140
 Messenger Services	10819
 Messer	8460
 Messier M	10775
@@ -233,6 +242,7 @@ N. Mesrobian	11140
 NATURE DE L’EFFET TYPOLOGIE DE MESURES	1005
 NATURE DE L’EFFET TYPOLOGIE MESURES	1005
 NUMBER OF SMS MESSAGES LOCAL	3862
+National ID MESOB	12215
 National MEST	4126
 No. of Messages	6946
 Number of Short Messages Services	2776
@@ -241,6 +251,7 @@ OSGF’s Email Address Can’t Receive Messages	10034,231
 Oromia MESOB	7887
 PR CAMPAIGN SMS Messaging On-going On-going	8999
 PREPAID AND POST-PAID VOICE AND MESSAGING	11211
+Project Coordinator Ato Mesfin Dabi	12195
 RECOMMANDATIONS LIEES AU MESR	2966
 REPUBLICA DE GUINEA ECUATORIAL MES	163
 RMU Mesh	9123
@@ -256,6 +267,7 @@ SMS Short Messaging Services Figure	582
 Secretario de Mesa	4209
 Secretarios de Mesa	4209
 Secure and Monetise International A2P Messaging	7315
+Send Message Contact Information Our Office	12211
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Seynabou Messou	11653

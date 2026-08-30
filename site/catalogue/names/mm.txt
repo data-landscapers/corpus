@@ -11,6 +11,7 @@ Ali Hadji Mmadi	2341,4956
 Arrêté du MMPE	2342
 Athoumani Abdou Mmadi	5833
 BMSA CDLM. Admin MMPE	2342
+Banks and MMOs	12270
 Board of MMFL	8813
 CONFRIMED CYBERCRIME OCCURRENCES MM ONLINE FRAUD	6936
 CONSIGNAÇÃO DE CÓDIGOS MMSI	11531
@@ -86,7 +87,7 @@ MMDA-level. Spain	789
 MMDAs	789,6147,432,1706
 MMEAP	11909,56
 MMEAP Ministry of Modernization	11965
-MMEIG	10759,76,2,1,130,902,16,2,1
+MMEIG	10759,76,2,1,130,902,16,2,1,264,1,9
 MMEXIMIUM	3972
 MMFL Chief Executive Officer Shaibu Haruna	10117
 MMFSS	11547,15
@@ -94,6 +95,7 @@ MMFSS Ministry of Women	11560
 MMFSS Ministério da Mulher	11547
 MMG. A Technical Focal Point	2889
 MMM Council	11231
+MMOs and MFIs	12269
 MMOs. Interoperability	11960
 MMPs Mobile	11994
 MMR Maternal Mortality Ratio MNOs Mobile	2775
@@ -101,12 +103,17 @@ MMS B- Spouse D	582
 MMS NIGER POSTE Validé	998
 MMS Radio TV Mobile Print Apps	1944
 MMSI Number	6946
+MMWWhh	12256
+MMaapp	12151
+MMoonntthhllyySsystem Lloosssseess	12256
+MMoonntthhlyyl HHyyddrroo EEnneerrggyy GGeenneerraatteedd	12256
 Media Ladies and Gentlemen Bo Mme le Bo	10210
 Microsoft Azure MMM Private Cloud	11231
 Mmabatho	11237,21,28
 Mmadi Hassane	1943
 Mmakau	4432
 Mmakgoshi Lekhethe	8044
+Mmambo	12242
 Mmamoloko Kubayi	8521,2706
 Mmapula Kotsokoane	10102
 Mmapula Pheeha	7500
@@ -271,7 +278,7 @@ Thekwini MM Mahatma Gandhi Hospital	11986
 Thekwini MM Prince Mshiyeni Hospital	11986
 Thekwini MM Rk Khan Hospital	11986
 Theme Cooperate MMO	8603
-UN MMEIG United Nations Maternal Mortality	11887
+UN MMEIG United Nations Maternal Mortality	11887,266,1,9
 WC Cape Town MM Karl Bremer	11986
 WC Cape Town MM Mowbray Maternity	11986
 WC Cape Town MM Somerset	11986

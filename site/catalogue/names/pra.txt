@@ -1,5 +1,6 @@
 AI Code of Practice	7548
 AI Practitioner	11135
+AI Practitioners	12210
 AI and Practice	7548
 ALL SMILES DENTAL PRACTICE LIMITED Data	7167
 ALLORA MEDICAL PRACTICE LLP Data Processor	7167
@@ -76,6 +77,7 @@ CoP La Communauté de Pratiques	5260
 Code of Good Practice	5533,6453
 Code of Internet Practice	6748
 Code of Practice	8529,1,1078,313
+Code of Practice MS	12253
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
 Coders and AI Practioners	4866
@@ -83,7 +85,7 @@ Codes of Practice	8692
 Commission’s Practices	5245
 Communauté de Pratiques	5260
 Community Health Practitioners	4301
-Community of Practice	5700,1327,1419,2284
+Community of Practice	5700,1327,1419,2284,1480
 Compendium of Good Practices	10765,10
 Competitiveness and Innovation Practice Area	10964
 Consumer Code of Practice Regulation	11993
@@ -105,6 +107,8 @@ Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964
 Current Perceptions Among Senior Practitioners Seventy-two	11138
 Current Practices	10765,10
 Curto Prazo	10750
+Customary Practice	12226
+Customary Practices	12226
 Customer Care Billing and Commercial Practices Digital	5676
 Cybersecurity Policies and Laws PRACTICAL STRATEGIES	6936
 D. Prady	1828
@@ -149,8 +153,10 @@ Education Global Practice Western and Central Africa	11905
 Effective Practice and Organisation of Care	8376
 Egito Praia	10298
 Egito Praia Durante	10298
+Em Mocímboa da Praia	12148
 Embedding Open Data Practice	1243
 Emerging Practice	7548
+Emerging Practices	12231
 Energy and Extractives Global Practice Western and Central	11549
 Enhance Legal Practice With Authoritative Reports	11654
 Entrega Declaração Fora de Prazo	12018
@@ -167,8 +173,9 @@ Estratégia de Longo Prazo	3519,7860,11,4,2,1,9
 Estratégia de Longo Prazo Angola	5020,6442
 Estratégias de Longo Prazo	11379,17
 Ethiopia Practical	6948
-Ethiopia. Glob Health Sci Pract	11596
+Ethiopia. Glob Health Sci Pract	11596,650
 European Journal of General Practice	7278
+Evaluating the Conduct and Practice of Digital Lending	12227
 Evidence Based Library and Information Practice	8022
 Evidence and Select Practices	10768
 Example Zimbabwean Practitioner	6666
@@ -189,12 +196,13 @@ General-Purpose AI Code of Practice	11050
 General-Purpose AI Code of Practice Template	8529
 Generally Recognised Accounting Practice	11198
 George Muthuri Pharmacy Practice PPB	9855
-Glob Health Sci Pract	771
+Glob Health Sci Pract	771,11475
 Global Best Practice	11129
 Global Best Practices	10415
 Global Digital Inclusion Partnership’s Good Practices	2677
 Global Health Sci Pract	1219
 Global Practice Western and Central Africa Region	10964
+Global Practice. Eastern and Southern Africa Region	12175
 Good Clinical Practice	7845
 Good Distribution Practices	10776
 Good International Industrial Practice	1988
@@ -211,6 +219,7 @@ Good Practices for Subsea Cables Policy	2677
 Good Regulatory Practices and Confidence Criteria	10776
 Good Storage and Distribution Practices	4301
 Governance Global Practice	5620,1134,4116,997
+Governance Global Practice Eastern and Southern Africa	12176
 Governance Global Practice Western and Central Africa	969
 Governance Global Practice. Additional	4214
 Gradual Practitioners	3859
@@ -276,6 +285,7 @@ Legal Practice Council	7278,2690,1989,20
 Legal Practice Council. Legal	9968
 Legal Practitioner	7278
 Legal Practitioners	4896
+Legal Provisions and Customary Practices	12226
 Lessons for Policymakers and Practitioners Several	4430
 Library Philosophy and Practice	1248,6774
 Local Praia Objetivos	12019
@@ -283,6 +293,7 @@ Local Prazos	11456
 Local Regulatory Practice	11819
 Local Regulatory Practice Companion	12048
 Louise J. Cord Senior Global Practice	11525,330
+Luc Lecuit. Practice Manager	12220
 L’INSTAURATION CONTINUE DES MEILLEURES PRATIQUES	2342
 Machine Learning for Sustainable Mining Practices	1554
 Madhya Pradesh	5224
@@ -297,6 +308,7 @@ Mar-2025 Practice Area	2291
 Mariana Prats	11007
 Means In Practice	10424
 Media Council Code of Media Practice	12100
+Methods for Policy and Practice	12255
 Michal J. Rutkowski Practice Manager	11525,330
 Mozambique. Glob Health Sci Pract	11596
 Ms Pratt	10695
@@ -307,7 +319,7 @@ Multistakeholder Governance for DPI A Practitioner's Guide	11007
 MÉDIA DE TARIFA OFF-NET PRATICADA POR	11531
 NITDA Code of Practice	5215
 NUST OGMS PMU PRAZ RCCC RCZ	1554
-Nathan M. Belete Practice Manager	1867,1695
+Nathan M. Belete Practice Manager	1867,1695,8614
 Ndiame Diop Regional Practice Director	3562,2977
 Ndiamé Diop Regional Practice Director	11417
 Neeraj Pradhan	11166
@@ -402,8 +414,8 @@ Practical and Enabling Cooperation H.E. Dr Thani	5086
 Practical. Grounded	7790
 Practicality	6948
 Practically	961,3016,3782,1370,2339,485
-Practice	718,181,1089,108,852,830,750,713,459,270,497,766,315,1165,2128,297,14,3,1,25,670,16,60,95
-Practice Area	1264,603,1695,42,7164,11,638,143,345
+Practice	718,181,1089,108,852,830,750,713,459,270,497,766,315,1165,2128,297,14,3,1,25,670,16,60,95,153,35,45
+Practice Area	1264,603,1695,42,7164,11,638,143,345,232
 Practice Cash	11138
 Practice D. Artificial Intelligence	11138
 Practice Directions	8978,3085
@@ -415,9 +427,10 @@ Practice E. The Collaboration Paradox	11138
 Practice Eastern And Southern Africa Regional	2473
 Practice F. Reimagining the Regulatory Relationship Primary	11138
 Practice GRC Governance Risk and Compliance HIPO	11250
+Practice Gap	12297
 Practice Guide	1243
 Practice Lags Africa	4424
-Practice Manager	1228,3425,6110,2,10,66,295,409,322
+Practice Manager	1228,3425,6110,2,10,66,295,409,322,270
 Practice Manager Maria Isabel A. S	10832
 Practice Manager for Digital for East and Southern Africa	2989
 Practice Manager for Social Sustainability	1778,210
@@ -438,7 +451,8 @@ Practice and Impact	9204,216,10,106
 Practice and Procedure	3005
 Practice of Internal Auditing	6946
 Practice&volume	2096
-Practices	1261,557,10,5004,4144,898,7,1
+Practice. AI-Specific Education	12210
+Practices	1261,557,10,5004,4144,898,7,1,360
 Practices C. Circa	1818
 Practices Manual	11525
 Practices and Challenges	4439
@@ -452,7 +466,7 @@ Practising	11017
 Practising School	6211
 Practitioner	1009,2705,6386,1080
 Practitioner's Guide for Building Trust and Unlocking	11007
-Practitioners	4301,4117,1653,17,919,131
+Practitioners	4301,4117,1653,17,919,131,1104
 Practitioners Guide	11006,1
 Practitioners Guide. Retrieved	10819
 Practitioner’s Guide	10775
@@ -473,6 +487,7 @@ Pragati Pascale	11572
 Pragma	2539
 Pragmatic	9237,1896
 Pragmatically	5487
+Pragmatics of Access	12227
 Pragmatismo	8850
 Prah RKD	3791
 Praia	342,461,462,683,106,37,36,667,9,4,4,49,85,7,464,137,156,579,866,175,94,31,25,561,510,1331,67,1341,705,1421,13,103,324,8,15,13,7,41,2,14,8,2
@@ -493,6 +508,8 @@ Praises	3531
 Prakasa	4432
 Prakash	9129
 Prakash R	3791
+Prakesh	12151
+Prakriti Singh	12139
 Pramod Varma	6692
 Pramod Venkatesh	10811
 Prasada	8210,998
@@ -529,6 +546,7 @@ Principles and Practice of Parallel Programming	8606
 Privacy Syntegral Legal Practice	6632
 Privacy and Data Protection Practices of Digital Lending	592
 Private Sector Practical Ethical Guidelines	1204
+Procedures and Practices	12227
 Professor Prabaht Patnaik	10
 Prohibited Trading Practices PART	3714
 Project Implementation Unit PRAASED Project Procurement	11905
@@ -548,6 +566,7 @@ Resultado Prazo Critérios de Aceitação	11456
 Review the Competition Practices Regulation	11857
 Riccardo Puliti Practice Manager	11380
 Rise of Extractive Practices	3810
+Rural and Resilience Global Practice. Financing	12137
 Rwanda. Dev Pract	1219
 SAH- PRA	8301
 SECÇÃO III Prazos de Execução	11386
@@ -562,6 +581,8 @@ Scale Up Successful Policies and Practices	11285
 Sci Pract	3791
 Sector Monitoring Mechanisms and Practices SSE	11907
 Selon Séraphin Prao	6084
+Sep-2021. Practice Area	761
+Serbia. Glob Heal Sci Pract	12255
 Sibal Prateek	1814
 Social Protection and Jobs Global Practice	11924
 Social Protection and Jobs Global Practice Eastern	10768
@@ -575,6 +596,7 @@ Street Addressing Problem and Practice	11129
 Supplies Practitioners Management Act	10043
 Supplies Practitioners Management Regulations	10043
 Sustainability and Sustainable Business Practices	4896
+Systematic Practitioner	12214
 Systems Security Certified Practitioner	1940
 São Vicente and Praia	11941
 Séraphin Prao. L’essor	6084
@@ -589,6 +611,7 @@ Theory and Practice of Electronic Governance	2093,3
 Theory and Practice of Global Media and Communication Policy	11028
 Toyota Land Cruisers Prado Sport Utility	6242
 Trade Global Practices	537,21
+Traditional Practices	12226
 Trina S. Haque Practice Manager	11924
 Twifo Praso	3386
 UGD. OUTRAS ATRIBUIÇÕES PRAZOS Ref.ª Para	11435
@@ -597,7 +620,7 @@ Uganda Medical and Dental Practitioners Council	9784
 Under PRAASED	11905
 Unfair Business Practices	11179
 United States' Foreign Corrupt Practices Act	3583
-Uttar Pradesh	3791
+Uttar Pradesh	3791,8455
 VISÃO DE LONGO PRAZO PARA	11366
 Verde Africa Western Africa Praia High	10840
 Verification System ILPD Institute of Legal Practice	718

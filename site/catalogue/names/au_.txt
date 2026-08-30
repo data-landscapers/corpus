@@ -17,6 +17,7 @@ AU 30	10940
 AU 31	10940
 AU 32	10940
 AU AI	4689,1605,1819
+AU AI Policy	12210
 AU AI Strategy	5789,1758
 AU AI Working Group	5302
 AU Africa Union B2B Business-to-Business BATNA	1243
@@ -50,7 +51,8 @@ AU Commission. The Agreement	2117
 AU Commissioner for Infrastructure	7326
 AU Commissioner for Infrastructure and Energy	7326
 AU Commissioner for Political Affairs	7794
-AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558
+AU Continental AI	12210
+AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700
 AU Continental AI Strategy Phase	6937
 AU Continental Artificial Intelligence Strategy	4734,1091,469,659,1160
 AU Continental Data Policy Framework	1779,6142
@@ -58,7 +60,7 @@ AU Continental Data Policy Framework. DPC	1779
 AU Continental Harmonization Strategy	1264
 AU Continental Strategy	3859
 AU Continental Strategy for SDM	1264
-AU Convention	318,643,1,238,43,21,550,868,347,133,421,3409,556,3172
+AU Convention	318,643,1,238,43,21,550,868,347,133,421,3409,556,3172,1481,93
 AU Cyber Security Strategy	961,2201
 AU Cybersecurity and Data Protection Convention	5244
 AU CŒUR DES TRAVAUX Deux	10996
@@ -66,7 +68,7 @@ AU DTS	1264
 AU DTS for Africa	1264
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116
 AU Data Policy Framework AU Convention	12055
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -76,6 +78,7 @@ AU Data Policy Framework. African Union	1243
 AU Data Policy Framework. Agency	3595
 AU Data Policy Framework. Based	1243
 AU Data Policy Framework. Sierra Leone	2118
+AU Declaration	12201
 AU Declaration of Principles	769
 AU Development Agency- New Partnerships for Africa	4123
 AU Development Agency-NEPAD	5244
@@ -146,7 +149,7 @@ AU and ITU	958,6368
 AU and RECs	1264
 AU and SAA	1264
 AU and SAA PIMs. Component	1264
-AU and SADC	4528
+AU and SADC	4528,7673
 AU and SADC AI	4528
 AU and Smart Africa	1179
 AU and Smart Africa Alliance	1277
@@ -163,6 +166,7 @@ Abomey-Calavi. Au	5882
 About the AU Data Policy Framework	4123
 Accelerating AU Member States	1814
 Activate the AU	3583
+Adopting the AU Continental Strategy	12210
 Africa. AU Member States	1814
 African Digital Compact The AU Commission	1775
 African Union AU Strategy	1243
@@ -375,6 +379,7 @@ Port Au Prince	10840
 Programming Interface AR Augmented Reality AU	7548
 Project. AU ESCP	1264
 Prosperous and Peaceful Africa AU DATA POLICY	961
+Provincial Assembly AU African Union CAD	12201
 Président du Conseil. Au	9086
 RAFFINAGE DE LA SIR Au	2342
 RAPPORT D'EXÉCUTION AU	2959

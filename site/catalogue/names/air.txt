@@ -29,6 +29,7 @@ AM Airtel Africa and Elon Musk's Starlink	10032
 AMEL Aircraft Maintenance Engineers License AMOS	2775
 AOC Air Operator Certificate AOI Agriculture	2775
 ASSOCIATION OF HEATING REFRIGERATION AND AIR	7167
+Abbreviations and Acronyms AC Air Conditioner African	12256
 Abeid Amani Karume International Airport	12115
 About Airtel Africa	6932
 Accra-IX. Airtel Ghana	10037
@@ -44,6 +45,7 @@ Agostinho Neto International Airport and Cabinda	9399
 Air Afrik Aviation Limited	3583
 Air Algérie	4128
 Air CI	2342
+Air Cargo Malawi	12241
 Air Cdre. Dr. Eng. E. Kamusoko	1554
 Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
@@ -60,7 +62,7 @@ Air Interface Encryption	10721
 Air Liaison	11285
 Air Pollution	1988
 Air Pollution Management	1988
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9
 Air Quality Act	11228
 Air Quality Sustainable Use of Land	10837
 Air Services Agreement	11185
@@ -90,7 +92,7 @@ Aire N	2366
 Aires	643
 Aires Very High EGDI V2	10840
 Airfare Compensation Platform Designed	11939
-Airflow	9123
+Airflow	9123,3130
 Airken	10
 Airline Members	10723
 Airlines	9119
@@ -121,7 +123,7 @@ Airports Company of South Africa	9895
 Airports Sacco Society Limited Data Controller	7167
 Airports Sacco Society Limited Data Processor	7167
 Airports of Mauritius	10045
-Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80
+Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831
 Airtel Africa CEO	5802
@@ -185,7 +187,7 @@ Airtel Madagascar and Eutelsat Deepen Push for Rural	6414
 Airtel Madagascar and Eutelsat OneWeb	6414
 Airtel Madagascar and SpaceX	7299
 Airtel Madagascar...Read	2362,225,502
-Airtel Malawi	6291,1152,2784
+Airtel Malawi	6291,1152,2784,2064
 Airtel Malawi Eyes Satellite Connectivity	6291
 Airtel Malawi Managing Director Aashish Dutt	4558
 Airtel Malawi Plc	6291
@@ -295,7 +297,7 @@ Airtel and Moov Africa	4956,1901
 Airtel and Safaricom	10822
 Airtel and Safaricom. The Communications Authority of Kenya	10822
 Airtel and SpaceX	10032
-Airtel and TNM	7486
+Airtel and TNM	7486,4755
 Airtel and Telkom	9210
 Airtel and UNICEF	5802
 Airtel and Vodacom	4442
@@ -318,6 +320,7 @@ Airtime Credit Services	8587,76
 Airwaves	6051
 Airwing	9644
 Airwing. Improving	9644
+Along Lodwar Airport Road	12256
 Antenne Large NIG-ICO-AH7-ARCEP- NIGER Airlines DP24001E	998
 Application Service Providers ATCOs Air Traffic	2775
 Après Airtel Money	8223
@@ -378,6 +381,7 @@ Deliveroo and Air France. The Government	3394
 Diaspora Advertisement Airtel Africa Foundation	5802
 Dr. António Agostinho Neto International Airport	4275
 E G Airtel Vodafone Tigo MTN	236
+ETHIOPIAN AIRLINES Airlines SNoouterc	12205
 EU-South Africa Horizontal Agreement for Air Services	11210
 Egypt and Airtel	8045
 Electronic Airtime Distribution	3862
@@ -430,6 +434,7 @@ Kenyatta International Airport	359
 Kigali International Airport	5469
 King Air Industria	6486,857,930,642
 King Shaka International Airport and Lanseria International	9895
+Kisumu and Mombasa International Airport	12256
 Kuala Lumpur International Airport Terminals	4275
 Leveraging the Full Potential of Single African Air	5825
 Ltd Airtel Rwanda Ltd Jun-19 Jun-20	718
@@ -490,6 +495,7 @@ Nobila Airport Hotel Traitement	10821
 Non-Residents Shipping and Airline Companies	11976
 OIDM Oliver Tambo International Airport PKI	11986
 ORTIA Oliver Tambo International Airport OSBP	5533
+Official Use Only Description of Type of Air	12253
 Omnia and Airtel	10510
 Operator Airtel Networks TKL Finserve JTL	6671
 Orange and Airtel	1199,2848,4706
@@ -507,6 +513,8 @@ Plan Directeur des Aires Protégées	8891
 Port of Salalah China West Airport Group	2511
 Praia Airport	11863
 Precision Air Conditioners	9123
+Precision Air Conditioning System	12253
+Precision Air the PAC Units. Conditioning System	12253
 Production Airtel A B C D	236
 Qatar Air Cargo	2675
 RCZ Board Member Air Commodore	1554
@@ -565,6 +573,7 @@ Trailing Airtel	5802
 Transportation Air Services Agreement	11185
 Tripoli International Airport	4746
 U.S. Air Force Mobility Guardian	4434
+UNDP and Airtel Malawi	12174
 UNICEF and Airtel	5802
 Uganda Telkom and Airtel Unique	10822
 University of Buenos Aires	5682

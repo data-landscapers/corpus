@@ -21,10 +21,10 @@ BMA and GPW	2692
 BMC Geriatrics	7759
 BMC Health Serv Res	3791,4585,2505,715
 BMC Health Serv. Res	11585
-BMC Health Services Research	2108
 BMC Health Services Research Volume	771
+BMC International Health and Human Rights	12188
 BMC Med Inf Decis Mak	1261
-BMC Med Inform Decis Mak	1219,2572,6993
+BMC Med Inform Decis Mak	1219,2572,6993,1462,9
 BMC Medical Informatics and Decision Making	8604,2,2550
 BMC Medical Research Methodology	8671
 BMC Medicine	11156
@@ -44,7 +44,7 @@ BMJ Group	7187
 BMJ Health Care Inf Online	10784
 BMJ Health Care Inform	3791
 BMJ Medicine	8604
-BMJ Open	771,3020,7090,715
+BMJ Open	771,3020,7090,715,650
 BMJ&volume	7187
 BMJ2025	7187
 BMJ2026	7187
@@ -167,7 +167,9 @@ Economic Empowerment BMA Border Management Authority	5533
 Electricité La BM	10975
 Encarregados de Educação BM Banco Mundial CICL	11557
 Entwicklung BMZ	179
-Ethiopia. BMC Health Serv Res	3791
+Ethiopia'. BMC International Health and Human Rights	12188
+Ethiopia. BMC Health Serv Res	3791,8455,9
+Ethiopia. BMC Med Inform Decis Mak	12255
 Ethiopia. BMJ Glob Health	3791
 European Union and BMZ. Aims	886
 FUNDING CONTEXT The BMA	11285
@@ -195,6 +197,7 @@ Monitoring and Evaluation BMA Border Management Authority	11986
 Mozambique. BMC Public Health	10881
 Northwest Ethiopia. BMC Med Inform Decis	3791
 O BM	7881
+Paul Kazembe BMC Health Services Research	12242
 ProDIGIT BMZ	1421
 R. BMC Medical Research Methodology	961
 RD- BMS	8604
@@ -209,6 +212,7 @@ Tanzania. BMC Health Serv Res	1261,2530
 Tanzania. BMC Med Inf Decis Mak	1261
 Tanzania. BMC Med Inform Decis Mak	3791,4585,2505
 Tax Authority BM Bank of Mozambique CENOE	4214
+Technology BMGF	12175
 Togo BMZ	828
 Training and Job BMZ	457
 UEMOA BMZ	10708

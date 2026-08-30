@@ -92,6 +92,7 @@ Carolyne Mwikali Trust	9547
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Chairperson Board of Trustees	6536
+Cheque Truncation Project	12286
 China. President Trump	9027
 Christian Brothers Ruben Centre Trust Registered	7167
 Commission for Truth	3583
@@ -117,6 +118,7 @@ Data Trust	4528,6668
 Data Trust Advisory Board	7313
 Data and Trust Payment	10555
 DeckerMed Africa Trust Data Controller INST-629343D98DA	7167
+Deepening Trust Kenya	12231
 Deepening Trust Kenya FttH Fibre	2775
 Department of Home Affairs’ Trusted Employer Scheme	9250
 Depository Trust	9706
@@ -180,6 +182,7 @@ Financial Sector Deepening Trust Kenya	7548
 Financial Sector Deepening Trust Tanzania	2857
 Financial Sector Deepening Trust of Tanzania	656
 Finmark Trust Survey	418
+Fostering Public Trust	12210
 Founding Trustee of Umoja Conservation Trust	10596
 Framework The Bridgforte Trust Architecture Framework	11138
 Framework. A. Where Trust Breaks Down	11138
@@ -206,6 +209,8 @@ HARMFUL TRUST SLOW INTERNET ACCESS	11964
 Harghita County Council TrustOriginality.ai Hastings Music	8530
 Helmsley Charitable Trust	345
 Hope of Trust	11028
+Host Community Development Trusts	12308
+Host Community Development Trusts. Nigeria's OGP	12308
 Hunnicutt T. Trump	7187
 Hybrid Court and Truth Commission	3583
 ID4D Multi-Donor Trust Fund	10812
@@ -223,6 +228,7 @@ Institutional Trust-Technological Reliability Paradox	5349
 Integrity and Trust	3487
 Join Daily Trust WhatsApp Community	9878,220
 KCB Bank Group and Diamond Trust Bank	8623
+KEMRI Welcome Trust	12151
 KOAFEC Trust Fund	9905
 KPMG-led True Value Assessment	9102
 Kenya's Trust Framework. Entities	5325
@@ -237,6 +243,7 @@ MTN Ghana Fintech Trust	5709,2316
 Mainstreaming Trust and Safety	42
 Make AI Trustworthy	3279
 Malawi Low Resource Language Data Trust	6813
+Malawi Social Protection Multi-Donor Trust Fund	12181
 Man Bobi Wine Has Trusted	4175
 Maria A. Trujillo	10985
 Match Acceptance Threshold True Matches False	8604
@@ -276,6 +283,7 @@ Non-World Bank Group Financing Trust Funds	10829
 Number of Trunks	3862
 Nyali Trunk Station	3522
 OGP Multi-Donor Trust Fund	11007
+OLA Petrocity Truck	12256
 Ordens Executivas de Trump	2816
 PAN-AFRICAN TRUST FRAMEWORK FOR INTEROPERABILITY DRAFT	10819
 PM IST The Trump	8921
@@ -301,6 +309,9 @@ President Donald Trump	4447,229,489,122,79,184,967,273,419,1712,106,1041,362
 President Trump	2547,172,464,866,1114,5281,691,19
 President Trump AA Enough	2719
 President Trump’s Cyber Strategy for America	11342
+Press Trust	12175
+Promote Digital Trust	12241
+Promotion of Public Trust Significant	12210
 Public Trust	4528,4125
 Public Trust Obligation	3861
 Public Trust and Accountability	3861
@@ -331,6 +342,7 @@ Safaricom and Diamond Trust Bank	7265
 Safeguarding Trust	8282
 Safeguarding Trust and Managing Risks	8282
 Secure and Trustworthy AI	11154
+Secure and Trustworthy Development and Use of AI	12210
 Securing Trust	6936,3448
 Securing Trust In Ghana's Digital Future	6936
 Securing Trust In Ghana’s Digital Future	6936
@@ -342,7 +354,7 @@ Service Providers Relying Parties Accountable Trusted	10819
 Services Multi-Donor Trust Fund	10714
 Settlement Fund Trust	10313
 Settlement Fund Trustee	10313
-Single Source of Truth	4528,716
+Single Source of Truth	4528,716,6983
 Smart Africa Trust Alliance	3272,155,603,296,6493,3,34
 SmartCare Data Analyst Mr. Trust Mufune	34
 South Asia. True	10200
@@ -383,9 +395,11 @@ Transparency and Trust	5244,5762
 Transparency and Trust Transparency	5244
 TruMD	6759
 Truby	7451
+Truck	12256
 Trucker ID	2823
 Trucks	1988
 Trudnice	10780
+Trudy J Bennett	12151
 True Copy	11853
 True Cost	3279
 True Meaning of Privacy	10341
@@ -401,7 +415,7 @@ Trulioo	10822
 Trulioo Extends Identity Verification Coverage	10822
 Truly	2093
 Truly Risk Based Regulation of Artificial Intelligence	11140
-Trump	767,1350,602,29,715,664,131,168,21,597,97,21,3,51,41,109,74,16,94,183,200,8,242,14,65,255,17,49,207,397,22,541,760,23,159,81,89,1,33,25,106,593,9,203,206,97,66,59,91,79,3,11,2,81,627,278,308
+Trump	767,1350,602,29,715,664,131,168,21,597,97,21,3,51,41,109,74,16,94,183,200,8,242,14,65,255,17,49,207,397,22,541,760,23,159,81,89,1,33,25,106,593,9,203,206,97,66,59,91,79,3,11,2,81,627,278,308,487
 Trump Administration	9229,1925
 Trump Commerce Department	7209
 Trump National Security Strategy. Same	4258
@@ -419,7 +433,7 @@ Trunking	9123
 Trunks	3862
 Trupthi	8436
 Trus MOU	4349
-Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95
+Trust	940,21,48,234,696,157,263,417,50,131,1128,100,16,167,398,7,371,97,3,37,68,136,85,106,3,296,172,55,10,159,15,30,2,125,146,104,41,102,11,61,52,91,4,18,69,11,25,35,177,58,147,191,28,136,24,51,78,3,86,51,328,40,4,50,284,26,175,67,135,26,69,436,205,33,376,23,87,3,17,92,187,44,88,16,122,22,227,167,148,23,6,106,1,18,1,95,124,13,14,56
 Trust AI	7151
 Trust Alliance	10819
 Trust Alliance SATA Institutional Framework TRUST	10819
@@ -446,7 +460,7 @@ Trust Framework Provision of Trust Certificate Trust	10819
 Trust Framework Reference Architecture	8203
 Trust Framework and Trust Registry	5325
 Trust Fuel	6355
-Trust Fund	2094,197,7928,495
+Trust Fund	2094,197,7928,495,1506
 Trust Fund A2392	11525
 Trust Fund Amount Amount Amount Cancellati	2473
 Trust Fund for Specialised Medical	7845
@@ -461,6 +475,7 @@ Trust Is Harder	11006,1
 Trust LLC	10380
 Trust Lab	11138
 Trust Lab Bridgforte’s Trust Lab	11138
+Trust Linking	12209
 Trust Problem Too	9075
 Trust Property Control Act	11276
 Trust Reg No	11276
@@ -498,7 +513,7 @@ Trust-service	3883
 Trust. China China	11154
 Trust. The Nigerian National Broadband Plan	11857
 TrustBroker Africa	9470
-Trusted	4300,1796,291,125,1036,137,46,129,566,23,670,16,1114,570,472
+Trusted	4300,1796,291,125,1036,137,46,129,566,23,670,16,1114,570,472,911,39,46
 Trusted Artificial Intelligence	1814
 Trusted Brand	3487
 Trusted Cross- Border GSM Providers	10819
@@ -513,6 +528,7 @@ Trusted Employer Scheme	5533,2011,25,1030,2619,768
 Trusted Employer Scheme Indicator	11986
 Trusted Employer Scheme Phase II	11264
 Trusted Location May Be the Missing	8825
+Trusted Mobile Money	12315
 Trusted S	9123
 Trusted Source for Accurate and Timely Updates	9989
 Trusted Third Party Identity Verification	2068
@@ -557,6 +573,7 @@ UNECA’s Pan-African Trust Framework	10819
 US President Donald Trump	4447,766,595,454
 US President Donald Trump and Chinese	10444
 US. Despite President Trump	11154
+USAID. Trump	12227
 Ugandans’ Trust	8352
 Uncomfortable Truth	8050
 Unified Standard of Truth Khaire	11105
@@ -581,7 +598,7 @@ Youth Entrepreneurship and Innovation Multi-Donor Trust Fund	567,373
 Youth Entrepreneurship and Innovation Trust Fund	940
 Zealand Digital Identity Services Trust	3460
 Zero Trust	5677,116,1874,2570
-Zero Trust Architecture	5793,4928
+Zero Trust Architecture	5793,4928,1519
 Zero Trust Implementation CM-IDAM.S5 Management	10721
 Zero Trust Network Access	5793,5438
 Zero Trust Strategy for Google Distributed Cloud	4434

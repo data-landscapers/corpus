@@ -73,11 +73,12 @@ ESPCs	3604
 ESPDG	11916
 ESPECTATIVAS VS PRONTIDÃO PARA A INTELIGÊNCIA	2816
 ESPECÍFICOS	10772
-ESPIG	11916
+ESPIG	11916,259
 ESPIG40	11916
 Económica Especial	1701
 Educación Especial	1701
 Educación Especial Subsector de Cooperación Educativa	4209
+Education Sector Joint Fund ESPIG	12175
 Educação Especial	10766
 Educação Especial Instituto Nacional de Formação de Quadros	10766
 Educação Especial. Cobertura Geográfica Ao	10766
@@ -119,7 +120,7 @@ Especial Mensual Mensual Luz Vivienda Mensual	4209
 Especial Unificado	12018
 Especialidad	1701
 Especialidade Jurídico-Forenses	9176
-Especialista	2816,8624,1,15
+Especialista	2816,8624,1,15,686
 Especialista Grupo	4209
 Especialista Grupo B	4209
 Especialista Grupo D	4209
@@ -148,7 +149,7 @@ Especificações	11430
 Especificações Técnicas	11442
 Especificações Técnicas Especiais da Câmara PTZ de Rede	794
 Espectativas Vs Prontidão	2816
-Espectro	11542
+Espectro	11542,769
 Espectro Radioeléctrico	9543
 Específicos	10769,3,11
 Específicos O Anuário Estatístico da Educação	10766

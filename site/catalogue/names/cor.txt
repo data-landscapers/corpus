@@ -2,6 +2,7 @@ A. Cordella	5700
 ACRONYMS IFC International Finance Corporation IFWG	11198
 AFRICAN BANKING CORPORATION Data Controller INST-297630C908C	7167
 AFRICAN BANKING CORPORATION Data Processor INST-297630C908C	7167
+AGRICULTURAL DEVELOPMENT AND MARKETING CORPORATION AGCOM	12253
 AI Policy Corner	10246
 ALLIED GOLD Corpora-	2342
 ALLIED GOLD Corpora- ETAT DE COTE	2342
@@ -15,7 +16,7 @@ About CreditRegistry Corporation CreditRegistry Corporation	11809
 About Table of Contents Home Zimbabwe Core	6666
 About Us Vision Core Vlues Digital	6946
 Absa Group Limited and ABC Banking Corporation	398
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
 Account CCSS Counter Corruption and Security Services	5533
 Adili Corporate Limited	6946
 Adwoa Wiafe Chief Corporate Services and Sustainability	5136
@@ -26,6 +27,7 @@ Africa Finance Corporation	240,209,2228,329,776,668,797,2739,478,8,140,105,1079,
 Africa Growth Corporation	10751
 Africa's Core Systems Complete	6593
 Africa-Asia Digital Corridor	5482
+African Banking Corporation of Zimbabwe Limited	12252
 African Digital Corridor	3553
 African Resources Corporation Ltd	3583
 Agence Coréenne de Coopération Internationale	10524
@@ -42,13 +44,18 @@ American Corner Maseru	6695
 American Corner de Libreville	11708
 American Tower Corporation	236,8494,311
 Ana Sofia Martinez Cordova	10985
+Anna Corsi	12137
+Anna Corsi. Approved	12137
 Anniversary Corporate Social Investment	8884
 Anti Corruption Commission	2727
 Anti Corruption National Dialogue	11224
 Anti- Corruption Commission	3583
 Anti-Corruption Mechanisms Absence of Corruption	10837
 Anti-Fraud and Corruption	5903
+Application Form for Approval of Binding Corporate Rules	12302
+Application for Correction	12226
 Application of Corporate Laws Act	3714
+Asset Management Corporation LCOE Levelized	12233
 Asset Management Corporation of Nigeria	8157,134
 Association of Corporate Online Editors	11097
 Assuntos Corporativos	9559
@@ -77,7 +84,8 @@ Benin's Quality Corporate	3199
 Best Practice for Maintaining Correct Addresses	11129
 Bienes Corrientes	4209
 Biggest Corruption Stories	9736
-Binding Corporate Rules	11993
+Binding Corporate Rules	11993,309
+Binding Corporate Rules Regulation	12302
 Bindura Nickel Corporation	1554
 Bioneer Corporation Data Processor INST-46323341196 NAIROBI	7167
 Bloomberg Coronation	7343
@@ -121,6 +129,7 @@ CORE MANDATE OF THE BMA	11285
 CORE MECHANISM	6986
 CORE PRINCIPLES	11952
 CORE VALUES	1630
+CORE VALUES Collaboration	12323
 CORE VALUES Excellence Professionalism Integrity	1131
 CORE-MIS	4427
 COREA DEL SUR	4209
@@ -128,6 +137,7 @@ COREBASE SOLUTIONS LIMITED Data Controller INST-639405C06C8	7167
 COREBASE SOLUTIONS LIMITED Data Processor INST-639405C06C8	7167
 COREF	3295,20,7085,225
 CORENOFI	8170,1007
+COREQ	12246
 CORESMA	10919
 CORESMA. URL	10919
 CORESYS SOLUTIONS LIMITED Data Processor INST-2163771AE6C	7167
@@ -216,13 +226,16 @@ China National Electronics Import and Export Corporation	646,10129
 China National Petroleum Corporation Niger Company	3546
 Citizens Core Objectives	395
 Civil Defence Corps NSIP Nigeria Social	11857
+Civil Society Organizations COVID-19 Corona Virus	12241
 Clearing Corporation	9706
 Close Corporation	11298
 Close Corporation Act	11279
 Close Corporations Act	3714,7565
 Co-Founder and Director of CreditRegistry Corporation	11809
+CoRfSrefgoisrtereregdisdteraatthiosnofinKeonrydaensr	12151
 Code of Corporate Governance for Issuers of Securities	7204
 Code of Governance for Corporations Act	6946
+Combating Corruption	12201
 Comisario Divisionario Teniente Coronel	4209
 Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comisión Nacional de Lucha Contra la Corrupción	4209
@@ -251,6 +264,7 @@ Coral Bridge	3521,3252
 Coral Property Consultants	7167
 Coral Restoration Practitioners Trained	11332
 Coral Restoration Project Manager Rayd Moniaruch	11332
+Coral South LNG	12206
 Coran	4729
 Coração Azul	10750
 Coração Azul. Edição Nº	10750
@@ -317,6 +331,7 @@ Core Systems	6432
 Core Tasks	3861
 Core Value and Principles	2775
 Core Values	1154,128,272,1222
+Core Values Customer Centricity	12280
 Core Values Integrity Excellent Performance Professionalism	11152
 Core and Distribution Network	11857
 Core and NFNF Inflation Trends	2775
@@ -360,6 +375,7 @@ Cornelissen	7966
 Cornelius Hacking	1679
 Cornelius Oduor	6787
 Cornell University	4514,6629
+Cornell University Press	12227
 Cornell University. Disponível	2816
 Corner	8670
 Corner Five	8670
@@ -374,15 +390,17 @@ Cornerstone of Resilient Digital Systems.pdf	1368
 Corno	8774
 Cornubia	5621
 Corona	550
+Corona Virus Disease	12175
+Corona Virus and Management	12253
 Coronation	11986
 Coronation Merchant Bank	4771
-Coronavirus	547,3,18,20,10961
+Coronavirus	547,3,18,20,10961,704
 Coronavirus Disease	2775,4057,3931
 Corotimi Abiba NIYA	7670
 Corp Fetes Ambassador Michael C.Gonzalez	9989
 Corpo Consultivo de Alto Nível	2816
 Corporaciones Locales	4209
-Corporate	236,971,1,730,586,83,976,886,207,296,70,71,134,656,690,90,526,103,236,479,193,69,151,189,88,282,509,3,953,206,503,782,40
+Corporate	236,971,1,730,586,83,976,886,207,296,70,71,134,656,690,90,526,103,236,479,193,69,151,189,88,282,509,3,953,206,503,782,40,230
 Corporate Academy	11809
 Corporate Accounts	11986
 Corporate Accounts Definition	11986
@@ -391,7 +409,7 @@ Corporate Accounts Unit	11986
 Corporate Accounts Unit Purpose	11986
 Corporate Actions the Companies and Other Business Entities	4896
 Corporate Affairs	3538,2758,4996
-Corporate Affairs Commission	6536,153,1057,545,246,1737,855,893
+Corporate Affairs Commission	6536,153,1057,545,246,1737,855,893,286
 Corporate Affairs Director	3567
 Corporate Affairs Directorate	2689,878,3802,997
 Corporate Affairs Division	12066
@@ -435,11 +453,12 @@ Corporate Governance for Banks	5687
 Corporate Governance of ICT Framework	11231
 Corporate Governance of ICT Policy Framework	1009
 Corporate Governance. The Rural SLB	970
-Corporate Income Tax	573,1255,3155,672,5107,536,657
+Corporate Income Tax	573,1255,3155,672,5107,536,657,270
 Corporate Income Tax Code	11955
 Corporate Income Tax ISO	11955
 Corporate Income Tax Others Taxes	10997
 Corporate Income Tax Others Taxes Taxes	10997
+Corporate Income Tax. This Directorate	12225
 Corporate Information	4896
 Corporate Information and Advisors	4896
 Corporate Insolvency and Restructuring Act	6940
@@ -452,6 +471,7 @@ Corporate Non-Confidential Data	11995
 Corporate Online Editors	11097
 Corporate Organizations	11860
 Corporate Partnerships	5042
+Corporate Persons	12218
 Corporate Profile	5903,5235
 Corporate Profile. Lagos	11138
 Corporate Project	6946
@@ -462,6 +482,7 @@ Corporate Responsibility Is Non-Negotiable' By Ross	11611
 Corporate Results Indicators	11417
 Corporate Review Level	11965
 Corporate Risk and Compliance Division	4529
+Corporate SP Outcome	12241
 Corporate SVP	5664
 Corporate Scorecard	11965
 Corporate Scorecard Indicators	3604,2935
@@ -501,7 +522,7 @@ Corporate-vendor	6131
 CorporateNews	2677
 Corporates	9495,1306
 Corporates Emerge Fundraising Leaders Development	4972
-Corporation	50,40,31,119,52,27,160,420,99,44,1733,4057,106,847,60,312,1639,955,90,710,425
+Corporation	50,40,31,119,52,27,160,420,99,44,1733,4057,106,847,60,312,1639,955,90,710,425,321
 Corporation Africa Region The Multilateral Investment	11468
 Corporation Agreement	7845
 Corporation CDR Crude Death Rate CECM	2775
@@ -520,21 +541,24 @@ Corporações	2816
 Corpot'llte Governance of JCT	1009
 Corps	4363,5891,291,302,243
 Corpus	7313,1212
+CorpusID	12255
 Corrado	8606,2550
 Corrado Gini	10768
 Correa-Bahnsen	8283
-Correct	395,3396,5968
+Correct	395,3396,5968,2499
 Correct PPE	1988
-Corrected	1432,714,1,466,905,420,525,1,6805
+Corrected	1432,714,1,466,905,420,525,1,6805,981
 Correcting	4786
 Correcting Market Failures	5700
-Correction	1,16,397,595,141,680,879,504,108,1040,1,874,6053,508
+Correction	1,16,397,595,141,680,879,504,108,1040,1,874,6053,508,404
 Correction des Dates	747
+Correction of Clerical Mistakes	12226
 Correctional	1988,9227
 Correctional Services	1604,1289,8396
 Correctional Services Pillar	11188
 Correctional and Prison Services	11289
-Corrections	2115,9825
+Corrections	2115,9825,286
+Corrections Corrections	12226
 Corrective	5676,5725
 Corrective Action Plans	2989,2676
 Corrective Actions	5245
@@ -569,10 +593,10 @@ Correspondant Qualité Direction Générale	10812
 Correspondants	8746
 Correspondants Oui	11944
 Corresponde	1701,3468,5588,9,619,189
-Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12
+Correspondence	236,976,2371,1766,3027,1363,1045,492,592,12,347,19
 Correspondent	11493,507
 Corresponderá	1701
-Corresponding	2989,6139,1,108,502,1041,4,1206
+Corresponding	2989,6139,1,108,502,1041,4,1206,265
 Corresponding Author	10919
 Corresponding Author Abdallah Abdul-Salam	5349
 Corresponding AuthorAbdallah Abdul-Salam	5349
@@ -583,6 +607,7 @@ Corresponsal Informativo	4209
 Corresponsal Informativo Servicio	4209
 Correto	12018
 Correção	794
+Corri	12233
 Corridor	1996,2390,6197,702,132
 Corridor LED Light Emitting Diode LIA	2775
 Corridor Trip Monitoring System	10324
@@ -607,7 +632,7 @@ Corrosion	1988
 Corrupción	4209
 Corrupt	4590,6650
 Corrupt Activities Act PSCBC Public Service	11197
-Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39
+Corruption	789,1039,1568,187,1085,383,298,184,1369,57,927,864,141,515,210,1143,78,139,251,647,7,1,23,81,39,127,40,9
 Corruption Bribery	11874,8
 Corruption Commission	970
 Corruption Corruption	11874
@@ -650,6 +675,7 @@ Counter Corruption and Security Services’ Performance	11218
 Coverage Corridors	8999
 CreditRegistry Corporation	11809
 Crime and Corruption	11245
+Critiquing the Corporate Exploitation of Humanitarian Crises	12227
 Curmudgeon Corner Curmudgeon Corner	9653
 Cut Corruption	5349
 Cyber Security Press Corps	8748,19
@@ -709,18 +735,24 @@ E. Cornwallis Road	11912
 ECCE1 Peer Reviewers Samba Cor DIOP	11863
 EFT CORPORATION	7167
 EFT Corporation	835
+ERCA Business Continuity Program FAQ Corporate	12225
 ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
 EU Bêkou Fund and Mercy Corps	10841
 EUR Corona Service Response	970
 EXPENSES OF THE CORPORATE ACTIONS	4896
 East African Digital Corridor	4766
 Eastern Corridor	4126,3569
+Edson Cortez	12148
+Edson Cortez Autor	12148
+Edson Cortez. Na	12148
 Electricity Corruption	11874
 Electricity Development Corporation	10975
 Electricity Supply Corporation of Malawi	127
 Electromagnetic Field EUCL Energy Utility Corporation	718
 Electronic Government and Corruption	5349
+Electronic Health Information Network Corruption Bureau	12241
 Employees and Corporate Assets	7198
+Energy Corporation RGI Regulatory Governance Index	12256
 Erinna Corinne DIA	2966
 Espírito Santo Correia Garcia	11955
 Estabelecimento Corresponde	10757
@@ -853,13 +885,16 @@ Information Act. South Africa Corporate	6683
 Information and Privacy Commissioner. Cory	961
 Inseego Corp Convergence Partners	620
 Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
+Instant Core Payments Switch	12269
 Instituto Coreano de Desarrollo	1701
 Instituto Coreano de Desarrollo ODS	1701
 Inteligência Artificial da ONU O Corpo Consultivo	2816
 International Data Corporation	2816,867,4606,2907
 International Development Finance Corporation	2025,2422
-International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65
+International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44
+International Finance Corporation Environmental	12253
 International Finance Corporation INP-HB Interim Financial	3604
+International Finance Corporation. Inclusive Banking	12231
 International Medical Corps	10829
 International Relations and Corporation	11280
 Internet Corporation for Assigned Names and Numbers	3503,3743,3573,360
@@ -872,11 +907,13 @@ Italia CORINTO	6613
 J. Corbin	5349
 JOB CORNER	9993
 Jazari Core Institute	10004
+Jessica Corredor Villamil	12227
 Jhpiego Corporation	9711
 José Ulisses Correia	2860
 José Ulisses de Pina Correia	11901
 Journal of Corporate Finance	11310
 João Domingos Correia	2091
+Judiciary Corruption	12201
 Justice and Correctional Services	9234
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 KCB Group's Director of Corporate Banking	7499
@@ -896,6 +933,7 @@ Kenya Development Corporation KE-CIRT	2775
 Kenya National Trading Corporation	10313
 Kenya Pipeline Company. Correspondence	3583
 Kenya Posts and Telecommunications Corporation	6946
+Kenya's Seventh Corporate Plan	12208
 Kenyan Amini Corp	3604
 Kiira Motors Corporation	8549
 L. Kembo Acting Corporate Services	1554
@@ -910,6 +948,7 @@ Le Connectivity Corridor	4698
 Le Financial Corridor	4698
 Lesotho National Development Corporation	11134
 Leveraging the Lobito Corridor for Health and Resilience	11417
+Liability and Asset Management Corporation	12233
 Liberia Electricity Corporation	4998,2722
 Liberia Telecommunications Corporation	11054
 Liberia Water and Sewer Corporation	9088
@@ -919,6 +958,7 @@ Libya’s Libya-Africa Transit Corridors Project	5317
 Liquidação Correctiva. Contribuição Industrial	11532
 List of Core CPI Items	2775
 Lloyd Corporate Capital	8626
+Loayza Cortez	12195
 Lobito Corridor	5247,4677,586,258,649
 Lobito Corridor.63	10768
 Local ISP Core Network	2913
@@ -946,13 +986,16 @@ Magistrado Corte Suprema Justicia	4209
 Magistrado Corte Supremo de Justicia	4209
 Malabo-Sipopo Highway. ZTE Corporation	341
 Malawi Agriculture and Industrial Investment Corporation	8399
+Malawi Posts Corporation	12291
 Management Our Profile Corporate Subscription Home	9750,247
+Manner of Correction	12226
+Manner of Corrections	12226
 Mano River Corridor	7452
 Maroc. Nexus Core Systems	5745
 Massa Corporal Instituto Nacional de Estatística Instituto	10777
 Mateus Correia	10788
 Mbizo MP Corban Madzivanyika and Chiredzi Central	9229
-Mechanisms Absence of Corruption	10759
+Mechanisms Absence of Corruption	10759,1393
 Medidas Correctivas	4209
 Medidas Corretivas Adotadas	11561
 Mercy Corps	654,448,1086,9806
@@ -996,6 +1039,7 @@ NOSi Operational Core	11965
 NaTCA Director of Corporate and Industry Affairs Abdul	8416
 Namibia Broadcasting Corporation	2022
 Nasdaq-listed Inseego Corp	620
+Nation Media Group Correspondent Nation Media	12258
 National Anti Corruption Advisory Council	11224
 National Code of Corporate Governance for Mauritius	8866
 National Corridor and Peace Corridor	9924
@@ -1009,6 +1053,7 @@ National Police's Career Police Corps	11868
 National Rural Youth Service Corps	11261
 National Social Security and Welfare Corporation	9338
 National Youth Service Corps	3030,2114,183,3111,1137,2079
+Nations High Corporation Commissioner for Refugees USD	12297
 Nature of Fraud and Corruption Cases	11250
 Newsletters Corrections Unless	11122
 Nexus Core Systems	3049,2696,1,26,26,3685
@@ -1027,6 +1072,8 @@ Nigerians. Our Correspondent	12045
 Nigeria’s Defence Industries Corporation of Nigeria	10200
 Nile Petroleum Corporation	3583
 Nobila Airport Hotel Coris Bank International	10821
+None Correspondent	12270
+None. Correspondent	12269
 Northeast Corridor	11248
 Northeast Corridor Project Transport	11248
 Northern Corridor	4753,494,1403
@@ -1072,7 +1119,7 @@ Phone JOB CORNER LegalTech LinkedIn Management	9993
 Pipeline Corporation NWHS National Water Harvesting	2775
 Plateforme de Correspondance	8643
 Plateformes CORUS BURKINA FASO SERVICE PUBLIC	9049
-Postal Corporation of Kenya	6946
+Postal Corporation of Kenya	6946,5203
 Postal Corporation of Kenya Traffic	6946
 Postal Corporation of Kenya Traffic Indicator	6946
 Postal Services Corporation	7878
@@ -1088,6 +1135,7 @@ Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135
 Preventing and Combatting Corruption	3583
 Prevention and Combating of Corrupt Activities Act	5533,5649,58
 Prevention and Combating of Corruption Bureau	2867
+Prevention of Corruption	12201
 Prime Minister Correia	2807,4
 Prime Minister H.E. Ulisses Correia	2794
 Prime Minister José Ulisses Correia	2865
@@ -1113,6 +1161,7 @@ Q2. Corroborates	4583
 QUALITY CORPORATE SARL	3299
 Quality Corporate	3514
 Quality Corporate Sarl	3514
+Quality Life. Our Core Values Integrity	12256
 RECEIVE GUINEA ACCESS BANK ACCESS CORIS	11002
 RECEIVE NIGERIA ACCESS BANK ACCESS CORONATION	11002
 REGULATION OF CORPORATE FINANCE AND SECURITIES	3714
@@ -1141,10 +1190,11 @@ Request Correction	11276
 Research Institutions. Core Functions The Committee	7548
 Responsible AI Correction	3213
 Responsive Regulation Core Values	6946
+Results of UNESCO AI Readiness for Kenya Core	12210
 Review of Core Tax Laws Mr. Speaker	7695
 Right of Correction and Erasure	3861
 Rural Economy Support Absence of Corruption	10835,3,130,902,16
-Rural Electrification and Renewable Energy Corporation	10313
+Rural Electrification and Renewable Energy Corporation	10313,1943
 Rwandan ISP Broadband Systems Corporation	10380
 République de Corée	6613
 Rômulo Corrêa	10219
@@ -1155,6 +1205,7 @@ SALIENT FEATURES OF THE CORPORATE ACTIONS	4896
 SARS Correspondence	11276
 SATA. Core	10819
 SECRETARIO FISCALIA CORTE SUPREMA	4209
+SECTION FIVE CORRECTION OF RECORDS	12226
 SINA Corporation All Rights Reserved	10369
 SNPC and CORAF	1828
 SPECIFIED STATE CORPORATIONS Hon. Emmanuel Wangwe	10313
@@ -1220,7 +1271,7 @@ State Corporations Act	6787,159,3367,1362
 State Corporations Act. The NCSA	6803
 State Corporations Advisory Committee	6946
 State Corporations. Dr. Musangi	6946
-State Institutions Absence of Corruption	10759,78
+State Institutions Absence of Corruption	10759,78,1315
 State Owned Corporations	11854
 Statistics IFC International Finance Corporation IMF	11271
 Strengthening Action Against Corruption	11006
@@ -1266,7 +1317,7 @@ U.S. Tech Corps	6790
 U.S. and EU-supported Lobito Corridor	5247
 UCC Director of Corporate Affairs Fred Otunnu	9781
 UGANDA PRINTING AND PUBLISHING CORPORATION	320
-UN Convention Against Corruption	3583
+UN Convention Against Corruption	3583,8618
 UNITEL Restores Core Mobile Services Nationwide	10670
 US Development Finance Corporation	5216
 US International Development Finance Corporation	461,1,160,1,1,207,1,228,1,1,367,6,1,1,128,255,4971,3673
@@ -1291,6 +1342,7 @@ VC Fund Managers Corporate Venture Firms	4972
 Venture Capital Zimbabwe Broadcasting Corporation Zimbabwe	4528
 Vice-Primer Ministro Tercero Fiscal Corte Suprema	4209
 Vocal de Mesa Magistrado Corte Suprema Justicia	4209
+Vodafone Group and Sumitomo Corporation	12249
 Volume de Negócios Corresponde	10757
 WGI Control of Corruption	1828
 WIOCC Corporate Finance Facility	517

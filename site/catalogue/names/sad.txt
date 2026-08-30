@@ -1,4 +1,4 @@
-AU and SADC	4528
+AU and SADC	4528,7673
 AU and SADC AI	4528
 About the SADC-RTGS The SADC-RTGS	8129
 Abubakar Sadick Fuseini	10468
@@ -37,7 +37,7 @@ EAC-5 Sub-Saharan Africa WAEMU CEMAC SADC	2775
 ECOWAS and SADC	6471
 ELIAS M. MAGOSI SADC EXECUTIVE SECRETARY	9761
 EPS. Some SADC Central Bank Governors	11131
-Electoral Commissions Forum of SADC Countries	10390,950
+Electoral Commissions Forum of SADC Countries	10390,950,861
 Enhance the SADC Data Protection Model Law	962
 Estados-Membros da SADC	8854
 Executive Director of SADI. Henri Kouam	9989
@@ -59,13 +59,17 @@ Middle East and SADC	5237
 Mukhtar M. Sadiq Consultant	11857
 NBFIs NPLs SACU SADC SDRs SME	11131
 Nao Excel INS Sim Sadia Disponivel	966
+National Election SADC Principles and Guidelines	12201
 OPENING OF THE ORDINARY SADC COUNCIL	9761
 Ordinary Summit of SADC Heads of State and Government	10169
+Police Forces SADC PF Norms and Standards	12201
+Political Parties SADC PF Norms and Standards	12201
 Prepare the Data Protection Guidelines for SADC	962
 Press Union of Liberia SADM	5244
 Protection Guidelines for SADC	962
 Q4 R&D RBZ SADC SAZ SIRDC	4528
 REPS RTGS SACU SADC SARB SDRs	11134
+RM Mozambique Radio SADC Southern African	12201
 RMRS-D RS SAD SCIMR SCRP SDSI	10858
 Raffaella Sadun	6948
 Rede Neural Artificial SADC	2816
@@ -102,6 +106,7 @@ SADC Council of Ministers	9761
 SADC Council of Ministers. Allow	9761
 SADC Cyber Drill	318
 SADC Cyber Security	318
+SADC Cybersecurity Infrastructure Framework. Providing	12175
 SADC DATA PROTECTION MODEL LAW	962
 SADC DATA-ONLY MOBILE-BROADBAND BASKET PERCENTAGE	11211
 SADC DIGITAL	11379
@@ -208,20 +213,22 @@ SADC Model Law Table	26,1,1
 SADC Model Law. ITU	1243
 SADC Official	962
 SADC Opportunity For SADC	10570
+SADC PF Norms and Standards	12201
+SADC PF Norms and Standards for Elections	12201
 SADC Panel of Elders	9761,408
 SADC Parliamentary Forum Discussion Paper	961
 SADC Payment System Oversight Committee	11899
 SADC Payment Systems Oversight Committee	6720
 SADC Peer Review Panel	10570
 SADC Pooled Procurement Center	4260
-SADC Principles and Guidelines	9761
-SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229
+SADC Principles and Guidelines	9761,2440
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215
 SADC RIDMP Executive Summary.pdf	23
 SADC RIDMP ICT	1007
 SADC RTGS	8492
 SADC RTGS End User Conference	11134
 SADC Real-Time Gross Settlement System	10169
-SADC Region	962,2514
+SADC Region	962,2514,8725
 SADC Region and South African BRICS	11289
 SADC Regional CIRT	318
 SADC Regional CIRT Framework	318
@@ -266,8 +273,12 @@ SADC and CRASA Secretariats	26,1,1
 SADC and East African	3636
 SADC's Regional Infrastructure Development Master Plan	10324
 SADC-	11960
+SADC- SARB	12252
 SADC-DTS	1007
-SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495
+SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495,292
+SADC-RTGS Main Indicators	12252
+SADC-RTGS Settlement Statistics and Indicators	12252
+SADC-RTGS-CSC	12252
 SADC-based	5261,2
 SADC-level	4185,1867
 SADC-region	9129
@@ -284,6 +295,7 @@ SADCRegion	9292
 SADCSafety	11215
 SADPR	11956
 SADX and Digital ID	3959
+SaDndine2q0u2iv3a	12205
 SaDnidn	10969
 SaDnidne2q0u2iv2a	11885
 Sadabe	7299
@@ -323,6 +335,7 @@ Summit of SADC Heads of State and Government	10321
 Support for SADA	1264
 Tempo Real da SADC	11465
 Third SADC Preparatory Meeting	9292
+Totals for SADC-RTGS	12252
 Translating SADC Vision	9959
 Upper Saddle River	3782
 WRC-27. As SADC	9292

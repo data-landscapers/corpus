@@ -78,9 +78,12 @@ CPDIF	610,10,3,62,135,43,83,108,415
 CPDIF Acquisition of Ctrack Africa and Middle East	620
 CPDIF Fund III	620
 CPDIF.' IFC	685
+CPE Zamb	12201
+CPE and CDE	12201
 CPE-COD-C46-ARCEP-	998
 CPEAO RAPPORT ANNUEL	998
 CPECC	998
+CPEs and CDEs	12201
 CPF ASSET MANAGERS LIMITED Data Controller	7167
 CPF ASSET MANAGERS LIMITED Data Processor	7167
 CPF Adopting	11469
@@ -103,6 +106,7 @@ CPF Mwamba Trust Fund Data Processor	7167
 CPF Objective	6539
 CPF Outcomes and Indicators CPF Outcome CPF	11469
 CPF and FCV	10829
+CPF and Rationale for Use	12176
 CPF's FCV-sensitive	11475
 CPFAE	3604
 CPHRM GROUP LIMITED Data Processor INST-230182B3DB0	7167
@@ -176,6 +180,7 @@ Carta da CPLP de Princípios	2816
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
 Code CPV	8643
 Comissariado Geral de Moçambique CPLP	2816
+Commission COG Commonwealth Observation Group CPLP	12201
 Competencia CPDN	1701
 Component CHW Community Health Worker CPF	11560
 Conferência Estatística da CPLP	2816

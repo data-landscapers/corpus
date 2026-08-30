@@ -93,6 +93,8 @@ ABK Incorporated	10405
 ABLEAU	7655
 ABLIZ RELIANCE CONSULT	7167
 ABLOGUI	8084,289
+ABMZMZMA	12252
+ABNGMZMA	12252
 ABNO SOFTWARES INTERNATIONAL LIMITED Data Controller	7167
 ABNO SOFTWARES INTERNATIONAL LIMITED Data Processor	7167
 ABOGADO DEL ESTADO	4209
@@ -125,6 +127,7 @@ ABOVE FASHIONS STORES LIMITED Data Processor	7167
 ABOVE PARTICULARS MAY RENDER THE BID	11240
 ABOVE. Contents Gazette Page No. No	1009
 ABOVE. NB	11240
+ABOVEGROUND STORAGE TANK CHILD ABUSE	12253
 ABP Nicolas BARAJINGWA ABP WEB TV	9810
 ABPE Business	11469
 ABPE Nigeria	11469
@@ -145,9 +148,10 @@ ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
 ABSA BANCASSURANCE INTERMEDIARY LIMITED Data Controller	7167
 ABSA BANK KENYA PLC Data Controller	7167
 ABSA BANK KENYA PLC Data Processor	7167
-ABSA Bank Limited	7198
+ABSA Bank Limited	7198,5054
 ABSA LIFE ASSURANCE KENYA LIMITED Data	7167
 ABSA SECURITIES LIMITED Data Controller INST-8613087D7B3	7167
+ABSAZAJJ	12252
 ABSENT	5197
 ABSOLUTE ESTATES LTD Data Processor INST-32335969E61	7167
 ABSOLUTE SCALES LIMITED Data Controller INST-970688CBA89	7167
@@ -176,7 +180,7 @@ ACRONYMS Abbreviation Full	11261
 ACRÓNIMOS E ABREVIATURAS ADM Método	11555
 ACRÓNIMOS E ABREVIATURAS BAD	11387
 ACT DONE AT ABUJA	11517
-ADDIS ABABA	7538,2103,2167,9
+ADDIS ABABA	7538,2103,2167,9,329,39,41
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 ADDIS ABEBA	4209
 ADULTS WORRY ABOUT HAVING ENOUGH	10977
@@ -220,7 +224,7 @@ Abameleli	11573
 Abaminisitiri	1214
 Abandon	737,10139
 Abandonadas	11556
-Abandoned	1020
+Abandoned	1020,11196,34
 Abandoned Funds Submission Form	5687
 Abandoned Projects	6432
 Abandonment	11181
@@ -257,9 +261,12 @@ Abbreviation Full	11261
 Abbreviation Full Wording CCS Collective Sudan	6947
 Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28
 Abbreviations AACB AFI AI AML AML	11134
+Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abbreviations ADECOS ASP ASSN ATM CASI	10763
+Abbreviations ANC	12246
 Abbreviations ANC Antenatal Care DHIS District	771
 Abbreviations ANPTIC Agence Nationale	10812
+Abbreviations ASCENT Accelerating Sustainable	12233
 Abbreviations And Acronyms	958
 Abbreviations CAR Central African Republic CFA	4127
 Abbreviations CPC Central Product Classification HS	11258
@@ -269,6 +276,8 @@ Abbreviations Results	10793
 Abbreviations Term Description ACE Africa Coast	11552
 Abbreviations Term Description ACHPR African Commission	1814
 Abbreviations WHO World Health Organization	766
+Abbreviations and Acronyms	12297
+Abbreviations and Acronyms AC Air Conditioner African	12256
 Abbreviations and Acronyms AfCFTA African Continental Free	10841
 Abbreviations and Acronyms AfDB African Development Bank	10718
 Abbreviations and Symbols	2775
@@ -443,12 +452,16 @@ Abdul-Salam	5349
 Abdul-Samad	9129
 AbdulHakim Ajijola Head of Sub-Saharan Africa	11857
 AbdulKareem	5349
+Abdula Zambezia Pio Augusto Matos Tete	12201
 Abdulai Sankoh	1814
 Abdulateef Shittu	10597,1453
 Abdulaziz Alfaiz	10764
 Abdulbaset AlBaour	3188
+Abdulgafar Otunola	12196
 Abdulganiu	5215
 Abdulganiu Olushipo	5215
+Abdulhakim Mulu	12259
+Abdulhakim Mulu. Officials	12306
 Abdulkadir Hirabe	7897
 Abdulla	3460
 Abdulla Baada	1859
@@ -456,6 +469,8 @@ Abdulla Mohammed Al Boinin	10764
 Abdullah Ajibade	2677
 Abdullahi	4621,2068,1126,36,79,94,962,131,1,839,467,149
 Abdullahi Ali	2668
+Abdullahi Boru	12227
+Abdullahi Boru Halakhe	12227
 Abdullahi Mohamud Abdi	11596
 Abdullahi Nur Osman	10116
 Abdullahi Salad- Reporter MOGADISHU	9373
@@ -491,6 +506,7 @@ Abel. UNICEF	10748
 Abelda Silva Gomes	11544
 Abelemkpe	3386
 Abels	4676,6087
+Abeneazer Wondwossen Chief Portfolio Officer	12292
 Abengourou	2342,3525,35,547
 Abeokuta	6749,3822,171
 Abera Z	1219
@@ -524,6 +540,7 @@ Abiatar	8253
 Abibata KARA	3812,2956
 Abibeñ Eseng	4209
 Abidin	9129
+Abiding	12253
 Abidjan	420,1,206,229,672,169,200,233,182,30,45,31,314,26,4,46,14,86,23,88,18,8,31,43,32,129,31,48,43,2,40,5,155,4,23,24,5,15,19,7,61,18,204,159,6,135,13,175,77,14,144,107,81,159,323,4,26,50,359,29,91,69,78,12,14,17,18,3,2,10,18,46,1,5,7,16,22,6,49,7,2,25,8,76,5,19,28,59,3,19,80,28,85,37,13,278,107,71,4,3,28,30,96,237,4,1,92,13,102,1,1,17,6,94,64,1,74,3,1,25,5,140,15,2,148,29,1,2,56,172,9,110,26,4,58,83,126,24,73,16,16,229,100,1,94,155,35,26,16,174,36,33,104,95,93,18,8,18,192,138,38,11,2,1,5,1,3,2,9,2,7,2,1,2,1,5,8,19,69,190,374,37,8,47,61
 Abidjan AU STC	8865
 Abidjan Auto Show	7440
@@ -588,6 +605,7 @@ Abidjan. Troy Fitrell	2869
 Abidjan’s Treichville	10942
 Abie Phattie-Jobe and Shikoh Gitau	5822
 Abiemnhom	5428,4344
+Abigail	12227
 Abigail Faylor and Erin Kelly	10977
 Abigail Ncube	11302
 Abiki Brokers	12036
@@ -606,7 +624,7 @@ Abisoye Coker-Odusote and World Bank Country Representative	12059
 Abisoye Odusote	7651
 Abitab	10714
 Abiy AHMED	9502
-Abiy Ahmed	2906,1425,1150,485
+Abiy Ahmed	2906,1425,1150,485,6282
 Abiy Ahmed Ali	6756
 Abiyot Sinamo	1814
 Abiy’s Vision for AI	11665
@@ -663,7 +681,8 @@ Abou Laraki	8484
 Abou Laraki. Abou Laraki	8484
 Abou Seydou Amouda	6252
 Abou-Bakar Traoré	6464
-AbouZahr C	766,5,10110
+AbouZahr C	766,5,10110,1374
+AbouZahr C. Health Management Information Systems	12255
 AbouZahr&author	766,5
 Aboubacar	10487
 Aboubacar Camara	7978
@@ -688,7 +707,7 @@ Aboudou	7113
 Aboudou. Ce	7113
 Aboudou. Cet	7113
 Aboukar Nacanabo	1298
-About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69
+About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69,189,5,8,25,12,4,41,20,1,2,45,17
 About AFC AFC	5913,5744
 About AFC Capital Partners AFC Capital	11657
 About Afreximbank Academy	11809
@@ -704,6 +723,7 @@ About CTechTerms of UsePrivacy PolicyDubai Flights Developed	10068
 About Contactable Contactable	6559
 About Convalt Energy Convalt Energy	6633
 About CreditRegistry Corporation CreditRegistry Corporation	11809
+About Cybernetica	12289
 About DEEP	11133
 About Digicloud Africa	5256
 About Disrupt Africa	4884
@@ -711,6 +731,8 @@ About ECA The United Nations Economic	11808
 About EFG Holding	9826
 About EMTEL Ltd A Currimjee Group	12132
 About EUMETSAT	11291
+About Ethio	12236
+About Ethiopian Missions	12226
 About GCG The Global Centre	9889
 About GSMA Connected Women The GSMA	11003
 About Galaxy Backbone Galaxy Backbone Limited	8980
@@ -739,8 +761,10 @@ About Partech	4722
 About Partech Africa	4722
 About PayPal	9579
 About Personal Data Protection	10911
+About Pesalink	12287
 About Peter Johnson Peter Johnson	7358
 About Raxio Group Raxio Group	11914
+About Refugees Refugees and Returnees Service	12226
 About Safaricom	7204
 About Scancom PLC MTN Ghana	5136
 About Seacom	3636,3055
@@ -755,12 +779,14 @@ About The Author	7233,2837,161
 About The Domestic and Foreign Portfolio Investment	6408
 About The Ministry of Investment	3907
 About This Research	1363
+About Time Too	12227
 About UCUSAF Section	8730
 About UICT UICT	8549
 About Unwanted Witness	3021
 About Us	3859,2044,362,681,382,999,570,356
 About Us The Institute Policies Management	10123
 About Us Vision Core Vlues Digital	6946
+About Your Fayda Fayda Number	12281
 About the AU Data Policy Framework	4123
 About the Advanced Entrepreneurship	9309
 About the AfCFTA The African Continental Free	9255,1221
@@ -777,12 +803,15 @@ About the Authors George Gor	8511
 About the Centre for Child Law The CCL	11977
 About the Data Summit and Nafasi	8713
 About the Democratic Republic	9682
+About the Digital Readiness Assessment	12214
+About the Digital Readiness Assessment MALAWI DIGITAL	12214
 About the East African Community	7967,3839,1
 About the Executive Table The Bridgforte Executive	11138
 About the GATEWAY Program GATEWAY	11347
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
 About the Global Fund The Global Fund	3385
+About the Global Innovation Index The Global	12160,44,1
 About the Grant The SheConnects Digital Accelerator	9072
 About the ICPC	2677
 About the ICT	582
@@ -790,6 +819,7 @@ About the ILGRP Project The Inclusive Legislatures	9203
 About the Identity Index	1972
 About the Legal Practice Council	7278
 About the Mastercard Foundation The Mastercard Foundation	8327
+About the Name	12226
 About the National Communications Authority	3986
 About the Opportunity	9198
 About the Research	5247
@@ -803,7 +833,7 @@ About-Us	1243
 AboutNewsletterContact	10068
 AboutUs	1013,931
 Abouzahr C	10780
-Above	1013,931,363,1371,183,1,36,229,997,1767,1549,683,138,148,207,178,165,99,111,144,660,279,754
+Above	1013,931,363,1371,183,1,36,229,997,1767,1549,683,138,148,207,178,165,99,111,144,660,279,754,219,26
 Above Average	11131
 Above Average Performer	11131,3
 Above Average Performers	11134
@@ -832,13 +862,17 @@ Abraham Riek Yuek	3583
 Abraham Vosloo	10247
 Abrahams	3504
 Abraka	8710
+Abramba Technologies PLC Zeru Merha	12195
 Abramczuk	9237
 Abrange	4754
 Abrangida	10783
 Abrangência	11378,35
 Abrangência Geográfica	11406
 Abrangência da IA Crítica	3519
+Abreham Tilahun	12317
 Abreu	2315,129,1086,2027,15,247
+Abreu A. A Maturity	12255
+Abreu A. Maturity	12255
 Abreu Advogados	2125
 Abreviaturas	5663,5894
 Abreviaturas Aband. Aprov. Compart. Definit	10766
@@ -846,7 +880,7 @@ Abridged Audited Financial Statements	1154
 Abridged Circular	4896
 Abridged ICT Sector	958
 Abridged and Main Report the Expert Group	582
-Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534,46,5,4,5,1,3,1,1,3,17,1,1,11,5,8,3,3,17,1,2,1,1,1,1,1,1,6,12,47,16,13,22,260,181
+Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534,46,5,4,5,1,3,1,1,3,17,1,1,11,5,8,3,3,17,1,2,1,1,1,1,1,1,6,12,47,16,13,22,260,181,130
 Abril ATRIBUIÇÃO DO NIF	11435
 Abril ATRIBUIÇÃO DO NIF A PESSOAS	11435
 Abril Fluxograma	11435
@@ -857,6 +891,7 @@ Abril. Artigo	5169,1293
 Abril. Aviso	6462
 Abrir	1701,2508,7195
 Abroad	11909
+Abroad Kenya Vital Statistics Report	12151
 Abrogation ABG COMMUNICATIONS Décision	998
 Abrogation AJAP Décision	998
 Abrogation BENAFSOL Décision	998
@@ -886,8 +921,12 @@ Absa Bank CEO Kenny Fihla	8664
 Absa Bank Ghana	8697
 Absa Bank Kenya	3011,610,1180,673,2567,107,475
 Absa Bank Limited	10218
+Absa Bank Mauritius Limited	12252
 Absa Bank Mauritius Ltd	9948
 Absa Bank Mauritius and TrendAI	9949
+Absa Bank Mozambique	12252
+Absa Bank Tanzania Limited	12252
+Absa Bank Zambia PLC	12252
 Absa Group	7567,375,2276,316
 Absa Group CEO Kenny Fihla	7639
 Absa Group Limited	10218
@@ -908,24 +947,26 @@ Absa-led	1951
 Absar	7106
 Absa’s Managing Director	10051
 Absa’s R31.4	10217
-Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543
+Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263,543,282,20,9
 Absence Forces Delay In Kidnapping Trial	7312
 Absence de Attente	10975
 Absence de Fiches	10874
 Absence de Souveraineté	10874
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1
-Absence of Armed Conflict Absence of Violence	10837
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Absence of Armed Conflict Absence of Violence	10837,1315
 Absence of Armed Conflict1	11889
-Absence of Corruption	10759,76,2,1,130,902,16,1,1,1
-Absence of Crime	10759,76,2,1,130,902,16,1,1,1
-Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1
+Absence of Corruption	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Absence of Crime	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
 Absence of Forced Migration Trend Bouncing Back	11870
+Absence of Forced Migration and Laws	12153
 Absence of Forced Migration1	11870
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
 Absence of Independent Oversight	6512
 Absence of Prevention and Community-Based Care	6534
-Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1
-Absence of Violence	10759,76,2,1,130,902,16,1,1,1
+Absence of Recognition	12246
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1,264,1,9
+Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
 Absences	1988,8888
 Absent	1723,105,854,1179,6227,1,1051
 Absent Agenda	4535
@@ -942,14 +983,16 @@ Absorbed	4260
 Absorption	1731,9565
 Absouya	10875
 Abstenciones	6613
+Abstention	12201
 Abstentions	6613
 Abster-se	10755,675,98
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13
 Abstract AI	7451
 Abstract Access	8436
+Abstract Acessibility	12227
 Abstract Artificial	8301
 Abstract As AI	8283
-Abstract Background	1824,269,855,1484,2846,481,262,1,108,246,1512,1031
+Abstract Background	1824,269,855,1484,2846,481,262,1,108,246,1512,1031,1327
 Abstract Contemporary	7789
 Abstract Data for Policy	2096
 Abstract Electronic Health Records	11990
@@ -960,6 +1003,7 @@ Abstract Introduction Research	7759
 Abstract Many African	9256
 Abstract Mobile	4439,4910
 Abstract Rare	10188
+Abstract Renewable	12178
 Abstract Rigorous	11585
 Abstract Sharing	9969
 Abstract The World Bank Enterprise Survey	10862
@@ -972,7 +1016,7 @@ Absu-Cep Absu-Cep Traitement	10821
 Abt Associates Inc	10780
 Abu Bakarr Javombo	2113
 Abu Dhab	6231
-Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587
+Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abu Dhabi Ces	10507
 Abu Dhabi Exports Office	2947
@@ -988,6 +1032,7 @@ Abu-Hanna	771
 Abu-Shaheen	7759
 Abu-Shanab and Subaih	8021
 AbuAkel	7759
+Abualghaib	12231
 Abubacri Demba Baldé	11544
 Abubak Haji. Another	10676
 Abubakar	5267,5365
@@ -1048,6 +1093,7 @@ Abuja ZTE	5716
 Abuja and Kano	6471
 Abuja and Kano. Ayonote	11946
 Abuja and Lagos	9117,1980
+Abuja and Lagos. High	12308
 Abuja and Nume Ekeghe	6698
 Abuja and Port Harcourt	5212,1259,595,1141,905
 Abuja. Briefing the Vice President	7110
@@ -1081,9 +1127,10 @@ Abuse of Process	1919
 Abushakra	9129
 Abusing	3383
 Abusive Conditions	10841
-Abuso	10750,819
+Abuso	10750,819,658
 Abuso Sexual	11390,16,7
 Abuso Sexual EAS	11413
+Abuye M	12255
 Abwicklung. Das Vorhaben	1530
 Aby Ndour	9890
 Abyei	9772
@@ -1095,47 +1142,63 @@ Abéché Date	2448
 Abéché. Fruit	2448
 Accountant Aboubakar Ousmane	10961
 Acknowledgments About the Global Findex Database Executive	10977
-Acronyms and Abbreviations	970,5862,114,4304
+Acronyms ABIS Automated Biometric Identification System	12241
+Acronyms and Abbreviations	970,5862,114,4304,901
 Acronyms and Abbreviations ACP Africa	970
 Across Lagos and Abuja Fresh	4601
 Acto de Abertura de Conta de Moeda Electrónica	11404
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,14,1,6,1,5,6,2,4,5,2,24,17,9,10
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
+Addis Ababa CRRSA. Outreach	12267
 Addis Ababa City Administration	7463
+Addis Ababa City Administration and Dire Dawa	12146
 Addis Ababa City CRRSA	2878
 Addis Ababa City Government Revenues Bureau	10496
+Addis Ababa Civil Registration	12222
+Addis Ababa Civil Registration and Residency Service	12222
+Addis Ababa Declaration	12151
+Addis Ababa Drivers and Vehicles Licensing	12233
 Addis Ababa Either Participant	4349
+Addis Ababa Ethiopia	12215
 Addis Ababa Ethiopia Cameroon Union	10764
 Addis Ababa Ethiopia Tel	8754,1962,1020
 Addis Ababa Ethiopia Union	10844
 Addis Ababa For the Government	4349
+Addis Ababa Innovation and Technology Development Bureau	12222
+Addis Ababa Inside Ethiopia	12298
 Addis Ababa Othow	8572,1615,987
 Addis Ababa Peace and Security Bureau	7909
 Addis Ababa Revenues Bureau	10496
 Addis Ababa Science and Technology University	5598
-Addis Ababa University	1212,151,2232,1478,1520,2078
+Addis Ababa University	1212,151,2232,1478,1520,2078,3491,84
 Addis Ababa University Institutional Repository	8671
 Addis Ababa University School of Law	8647
 Addis Ababa University School of Public Health	1212
 Addis Ababa University's School of Commerce. Fayda	5729
 Addis Ababa University. Drew	3595
 Addis Ababa University. World Bank	8671
+Addis Ababa and Dire Dawa	12226
 Addis Ababa's Digital One-Stop Platform Streamlines	7463
+Addis Ababa's Kazanchis	12271
 Addis Ababa. Bank	7909
 Addis Ababa. Behigamlak	11607
 Addis Ababa. CIO Africa	10025
+Addis Ababa. Current	12233
 Addis Ababa. Establishes	505
 Addis Ababa. Ethiopian	5073
 Addis Ababa. Limuru	2517
+Addis Ababa. MOR	12225
 Addis Ababa. Printed	10819
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Addis Ababa. Vodacom and Vodafone	8843
 Addis AbabaOctober	2947
-Addis Abeba	571,2605,1033,4678
+Addis Abeba	571,2605,1033,4678,3298
+Addis Abeba.2	12257
 Addis- Abeba	8891
 Addressing Substance Abuse	10776
 Addressing Word Road Abbreviation Rd. Street	11129
+Aden Abdullahi	12300
 AfCFTA. About Afreximbank African Export-Import Bank	7785
 AfDB Nigeria Office Director General Abdul	5804
 AfriGO Domestic Card Scheme. Abuja	11138
@@ -1214,7 +1277,7 @@ Baboua Abba	10829
 Background Professor Abate	8529
 Bako Abu	9879
 Bala Abubakar	5267
-Balances Absence of Undue Influence Civic Checks	10759,78
+Balances Absence of Undue Influence Civic Checks	10759,78,1315
 Banjul Central's Representative Abdoulie Njai	3251
 Bank of Abyssinia	9662
 Bank of South Sudan Mr. Abdirahman Mohamed	7815
@@ -1222,8 +1285,11 @@ Banker’s Information ABSA Business Banking PO	11250
 Banking Services Absence of Undue Influence Freedom	10759
 Bank’s Headquarters. INFRASTRUCTURE DEVELOPMENT About	11131
 Baseline Prohibition Absent Adequacy	3861
+Beko Abo	12233
 Billion Birr Additional Budget Addis Ababa	1971
 Billion Birr Supplementary Budget Addis Ababa	1964
+Birth Registration of Abandoned Children Birth	12216
+Births Abroad Birth	12216
 Bishop Abba	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438
 Blaise ABITA	9925
 Bouhali Abdelbasset	3842
@@ -1282,11 +1348,13 @@ Chatoi Abdou Mohamed	4386
 Cheikh Ahmadou Bamba Younouss Ababacar Sadikh	5761
 Child Sexual Abuse	11648
 Christian Abiaghe	10485
+Citizen Of Kenya Occurring Abroad	12151
+City Administrations of Addis Abeba and Dire Dawa	12185
 Civil Abogado	4209
 Civil Liberties for Women Absence of Violence	10759
 Civil Magistrado Audiencia Provincial Abogado	4209
 Civil. M. Abdoul Kader Moussa Garba	10547
-Civilians Absence of Forced Migration Absence of Human	10759,78
+Civilians Absence of Forced Migration Absence of Human	10759,78,1315
 Ciência Aberta	8000
 Clement Omanibe Abuja The Nigeria	8499
 Co-researcher Dr Abdul-Rahim H. Ali	11133
@@ -1396,7 +1464,7 @@ Dr. Mohamed Emad Abdul Khaliq Head	2958
 Dr. Salim Hamouda Abu Khreis	9091
 Dr. Yousef Abuzweideh	2837
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
-Dubai and Abu Dhabi	11290
+Dubai and Abu Dhabi	11290,979,4
 Décision Abrogation	998
 D’après Aboubakar Nacanabo	4550
 E. Aben	3782
@@ -1410,9 +1478,11 @@ Economist Abraham Maliet	3323
 Economy Minister Abdourahmane Sarr	2356
 Economy Minister Abu Shiha	9213
 Ecossistema de Código Aberto	3519
+Edging Above SSA Average	12214
 Edificio ABAYAK	3179
 Education Above All	899
 Education Development Department Oman Dr. Abdulrahman	2958
+Education Statistics Annual Abstract	12199
 Egipto ABDELBASET	6613
 Egypt. About Gebeya Gebeya	8149
 Egypt. About the IDC The Industrial Development	7785
@@ -1424,6 +1494,7 @@ Em Abril	5427,4132
 Em Abuja	3527
 Embassy Abuja	4301
 Emmanuel Ajarfor Abugri	1250
+Energy Specialist Abalo Irene Jerry Fabiano	12195
 Eng. Abdulbasit Salem Al-Baour	7724
 Eng. Aliyu Yusuf Aboki	11531
 English-Vision 2050 Abridged version WEB Final.pdf	2998,400
@@ -1441,7 +1512,9 @@ Escuela Unitaria de Abia	4209
 Esther Duflo and Abhijit Banerjee	7151
 Estrategia de Abogacía	8048
 Eswatini. About	418
-Ethiopia Addis Ababa	11665
+Ethiopia AFE BCP ABBREVIATIONS AND ACRONYMS	12225
+Ethiopia Addis Ababa	11665,567
+Ethiopia. Chapter Two About Civil Registration	12226
 Ethiopian FY Addis Ababa	3211
 Ethiopian Investment Holdings Portfolio. Addis Ababa	8971
 Europe Southern Europe Abidjan Very High	10840
@@ -1450,6 +1523,7 @@ Evolution du Parc Abonnés Internet Mobile L’augmentation	998
 Evolução da Inteligência Artificial Abaixo	2816
 Executive Governor of Abia State	2552
 Executive Secretary Professor Abdullahi Yusufu Ribadu	8710
+Exploitation and Abuse	12253
 Exploitation and Abuse SENI Health System Support	10829
 Extended Abstracts	8460
 Eyeonid Group AB	8315
@@ -1475,7 +1549,7 @@ Flutterwave Technology Solutions Limited. Abuja	11138
 Flutterwave’s Iyinoluwa Aboyeji	1363
 Force Headquarters Abuja	8471
 Force Legal Abuja	8471
-Forced Labour Absence of Crime Public Perception	10759,78
+Forced Labour Absence of Crime Public Perception	10759,78,1315
 Foreign Affairs Minister Abdoulaye Diop	2426
 Foreign Minister Samuel Ablakwa	2796
 Founder and Director of Abroadscope and Visas Abroad	10173
@@ -1542,6 +1616,7 @@ HE. Abdulswamad Shariff Nassir	11504
 HL7v3 Abstract Data Type Specification	1009
 Habitação SABER Abordagem de Sistemas	11557
 Hajji Abdul Nsubuga	2675
+Halkano Abdi Wario	12227
 Hamdi Ould Abdallah	10402
 Hamza Abdi Barre	2691,6550
 Hamza Abdi Moussa	11271
@@ -1551,10 +1626,12 @@ Hassan Abdullah	3957,3579
 Hassi El Abed	10021
 Hassina Aly Abeidy	1183
 Hawa Abdillahi Moumin	11271
+Head for Addis Ababa Projects W	12195
 Health Minister Khaled Abdel Ghaffar	9471
 Hemed Suleiman Abdulla	3460
 Hirshabelle State Abdirahim Isse Addow	7897
 Home About	9067
+Home About Us Background Management Vision	12322
 Home Affairs and Absa	7639
 Home DPO CyberHub Rw-CSIRT Website About	9125
 Hon Abiante. The Federal Government	8087
@@ -1571,6 +1648,7 @@ I Addis Ababa	11283
 I-36 Abordagem	11569
 I. Abdulkabir Dangana	11140
 IA Abidjan	10471
+IFMIS Academy About Academy Training Schedule	12322
 IGF Addis Ababa	1714
 IGInnldnooebvxaal2t0io2n4 About the Global Innovation Index	10969,916
 IGN INF ABE DGEFC DGAS DSC	10876
@@ -1603,6 +1681,7 @@ Imo and Abia	7895
 Impi Rungano Kuhlengisa Abstract	12007
 Improve ID and Passport Services Abroad	10521
 India Addis Ababa	10516
+Innovation Minister Addis Ababa	12183
 Innovation. Aboubacar Kourouma	7978
 Innovatrics. All Rights Reserved. About Us	11987
 Interior Min Abdelouafi Laftit	4616
@@ -1610,7 +1689,7 @@ Interior Min Abdoulie Sanyang	4708
 Interior Minister Abdoulie Sanyang	4708
 Internal Security Minister Abdullahi Sh. Ismail	3408
 International Cooperation and Gambians Abroad	9838
-International Monetary Fund About the Global Innovation	11895
+International Monetary Fund About the Global Innovation	11895,264
 Interpol. About	9797
 InterviewsUnboxing BUSINESS TECHNOLOGY MEDIA COMMUNITY About	10735
 Investigação Científica ABREVIATURAS E ACRÓNIMOS ADPP-GB	11557
@@ -1647,12 +1726,16 @@ Kenn Abuya	3621,343,360,1048,102,1054,1414,66,1459
 Kenn Abuya Kenn Abuya	10731
 Kenn Abuya of TechCabal	4027
 Kenya ABOUT US The Kenya Space	1131
+Kenya Bibliography Abbreviations KYC Know	12297
 Kenya Jabril Ibrahim Abdulle	10184
 Kenya. About Fourth Generation Capital	9079
+Ketema Lemma Abdi	12255
 Key Provisions Abolition of Certain Title Conditions	11261
 Khadidja Hassana Abdoulaye	5671
 Khalifa Al Abdulsalam Assistant Professor	2958
 Khartoum and Addis Ababa	4555
+Khasida Abdul	12227
+Khasida Abdullahi	12227
 Kicukiro Abbarci Petroleum Marketing Jabana	718
 King Abdullah II Fund Renew Partnership	5322
 Kinondoni MP Tarimba Abbas	5977
@@ -1690,6 +1773,7 @@ Layout Abdoul Malick ALMAIMOUNE Conception	6959
 Le Commissaire Général de Police Ayouba Abdourahamane	6094
 Le Général de Brigade Abdourahamane TIANI	1967
 Le Marocain Abou Laraki	9961
+Learn More About CRPRS CRPRS Modules	12211
 Les Abou de Fomboni. Déjà	3753
 Lessons About Brazil’s PIX	5700
 Liban Abdiwali Sheikh Ali	11596
@@ -1704,7 +1788,7 @@ List of Abbreviations Group Cash Transfers	6947
 List of Acronyms and Abbreviations	2775
 Lista de Abreviaturas	11537
 Literature Says About Revenue Gains	10997
-Loko Abraham	1824
+Loko Abraham	1824,10431
 Luke Abrahams	7278
 Luminosos MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
 Lundin Energy AB	3583
@@ -1748,6 +1832,7 @@ MB SDM and MB ABIS	11859
 MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
 MINPMEESA Mr NONGNI Abednego Cadre	10980
 MM. Mohamed Abdoulkader Moussa Helem	8297
+MOR. About	12225
 MP Abdullahi Abiib HOL Pakistan	2743
 MTDS and ABP	10779
 MTND-CAB Abidjan	3604
@@ -1781,7 +1866,7 @@ Md Abdullah Omar and Kazuo Inaba	1828
 Meaning ABIS Automated Biometric Identification System	11218
 Measures Against Privacy Breach Abetment	11956
 Measures Against Privacy Breach Abetment Article	11956
-Mechanisms Absence of Corruption	10759
+Mechanisms Absence of Corruption	10759,1393
 Merci Byamungu About The Author	10278
 Mestre Catija Issumalgy Abdula	2816
 Mheshimiwa Abubakari Damian Asenga	6019
@@ -1790,6 +1875,7 @@ Michael Abah	10718
 Michael Aboneka and Raymond Amumpaire	4753
 Microsoft and Abu Dhabi-based AI	6583
 Mikail Abakar Ibrahim	5545
+Million Businesses Addis Ababa	12177
 Minister Abdelmadjid Abderahim	6929
 Minister Abdoulaye	3078
 Minister of Interior Abdoulie Sanyang	4697
@@ -1845,6 +1931,7 @@ Monsieur Abdoulaye Mohamed Doukouré	11725
 Monsieur Abdourahmane BA	8269
 Monsieur Marius Abdon MIKPOAÏ	5206
 Monsieur OUSSOUFA Abdou El Madjid	743
+Month Above	12233
 Morning Abidjan	8679
 Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Moussa Abderemane	6560,3362
@@ -1866,6 +1953,7 @@ Mr. Shinzo Abe	9067
 Ms Lindiwe Sisulu and Sheikh Abdullah	11185
 Ms. Yasmine Abdelsabour	6938
 Multi-Tenant ABIS for Secure Identity Checks Congo	11987
+Muluemebet Abera Wordofa	12255
 Módulo de Gestão de Pequenos Sistemas de Abastecimento	9403
 N.Z. Ab Rahim	2093
 NDICE Lista de Abreviaturas	11537
@@ -1915,12 +2003,14 @@ Njavwa Namposya Chilufya ABBREVIATIONS AND ACRONYMS	1867
 Nkem Abuah	4716
 Nominated Senator Miraj Abdillahi	8214
 Nompumelelo Nzimande-Mbele. Above	11237
+Northwest Addis Ababa	12225
 Nota de Boas Práticas Como Abordar	11413
 Nour Abdeldaim	9776
 Nouzha Alaoui Mohamed Abdessadek Essaidi Najat	8891
 ONLY About	418
 Oferta de Rede Aberta	11430
 Officer Magdi M. Abdalla Taha	4898
+Official Use Only ABBREVIATIONS AND ACRONYMS	12253
 Official Use Only ABSTRACT	10985
 Official Use Only AfDB ABBREVIATIONS	3604
 Olajuwon Abayomi	9594
@@ -1928,6 +2018,7 @@ Omar Abdoulkader Mohamed	11271
 Online Child Sexual Exploitation and Abuse	9843
 Online Child Sexual Exploitation and Abuse. UNICEF	7548
 Online Sexual Exploitation and Abuse	11791
+Only Addis Ababa	12199
 Operation Abstract	2473,2180,7312
 Operational IT C13 Absence	9237
 Opportunity Nobody Is Talking About	8206
@@ -1936,6 +2027,7 @@ Opposition Leader Hon. Abdul Kargbo	9121
 Opposition Whip Hon. Abdul Karim Kamara	9121
 Organisation Undoing Tax Abuse	2521,5234,2212
 Organisation du Corridor Abidjan-Lagos	3045
+Orit Abebe	12195
 Osama Abu-Azza	7923
 Oscar Abessolo	7959
 Ouest Avenue Abdoulaye FADIGA BP	10888
@@ -1964,6 +2056,7 @@ Par Dr.Papa Abdoulaye Seck	2582
 Par La Rédaction Abdellatif Hammouchi	11835
 Par Me Abdoulaye Tine	2582
 Participation Absence of Corruption	10759
+Partners LLP Addis Ababa	12232
 Past Decade and Opportunities Ahead. Abidjan	10718
 Perpetuity and Abrogation	3861
 Perpetuity and Abrogation The NDGC	3861
@@ -1992,7 +2085,7 @@ Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073
 Prime Minister Abdulhamid Dbaiba	6433
-Prime Minister Abiy Ahmed	2979,232,4676,2917,790,71,152
+Prime Minister Abiy Ahmed	2979,232,4676,2917,790,71,152,346,75,41,19,19
 Prime Minister Abiy Ahmed. The Planning	7091
 Prime Minister Dr. Abiy Ahmed. Powered	10709
 Prime Minister Hamsa Abdi Barre	4088
@@ -2005,6 +2098,7 @@ Private Sector Mobile Communications Absence of Corruption	10759
 Procedimentos de Abertura de Conta	11386
 Processing LEARN MORE ABOUT THE METHODOLOGY	11539
 Processo de Abertura de Conta Usando Redes Neurais	2816
+Procurement Specialist Ato Abebe Gebremedhin	12195
 Prof. Abdou Karim Diallo	7013
 Prof. Abdulhamid Mani	5765
 Prof. Dr. Faisal Abdul-Azim Al-Abdali	9091
@@ -2025,7 +2119,8 @@ Proposed Tiers Absolute	10764
 Prospective AboubaKkar NACANABO L	1837
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Président Abdelkader AMARA Catégorie	8891
-Public Sector Public Procurement Procedures Absence	10759,78
+Public Sector Public Procurement Procedures Absence	10759,78,1315
+Pubmed Abstract	12246
 Pullman Abidjan	7283
 PÚBLICO ABACERIAS	4209
 QUESTIONS AND ANSWERS ABOUT THE EXTRAORDINARY	7198
@@ -2056,11 +2151,14 @@ References Abdallah	6947
 References Abobeah	7278
 References Abu-Shanab	8021
 References AbuAkel	7759
+References Abuso	12227
 Referencing Absa	10051
 Regime de Prescrição de Certos Bens Abandonados	11404
 Regional Integration and Togolese Abroad	7379,73
 Register of Beninese Abroad	3387
+Registered Deaths of Kenyans Occuring Abroad	12151
 Registration Drive ABUJA	10274
+Registration of Births of Kenyans Occurring Abroad	12151
 Regulamento de Dados Abertos	2816
 Remilekun Olatunde Abere	6948
 Report About CBE Performance Highlights Governor	11131
@@ -2098,6 +2196,7 @@ SANGARE Abdourahamane	2342
 SANKARA Abdoulaye	737
 SAWS CEO Ishaam Abader	3290
 SE Abdourahamane Tiani	2514
+SEXUAL EXPLOITATION AND ABUSE STI SSBs	12253
 SH Sexual Exploitation and Abuse	1867,1737,7164,792
 SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132
 SHOULD WE CARE ABOUT	11730
@@ -2111,9 +2210,11 @@ SIGLES ET ABREVIATIONS APE	10847
 SIGLES ET ABRÉVIATIONS	10712
 SIGLES ET ABRÉVIATIONS AF Administration Fiscale	10712
 SOO UHC WBG ABBREVIATIONS AND ACRONYMS	11468
+STATISTICS SYSTEMS OF Program Information About	12138
 SUSTAINABLE WITH ROOM TO ABSORB SHOCKS	7695
 SYSTEM BREACH DESCRIBED ABOVE	2709
 Sa Majesté Emmanuel Mvom Abolo	8737
+Safeguards Ato Abrham Abebe	12195
 Saja Farooq Abdullah	5802
 Salah Al-Din Mohammed Abdelrahim	9587
 Saleh Abakar Zene	5398
@@ -2127,7 +2228,7 @@ Says Deputy PM Addis Ababa	8920
 Science. Abstract	10979
 Score Rank Absence of Armed Conflict	10838,1048
 Score Rank Absence of Undue Influence	10835
-Score Rank Absence of Violence	10837,131
+Score Rank Absence of Violence	10837,131,1184
 Second Deputy Prime Minister Jibril Abdirashid	9242
 Secretary of State Abel Maïna	8171
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
@@ -2146,7 +2247,7 @@ Serge Abel Ongani	3704
 Serge Abel Ongani. Au	3704
 Serigne Abdou Aziz Mbacké Majalis	8031
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031
-Sexual Exploitation and Abuse	1264,514,89,4036,5514
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836
 Sexual Exploitation and Abuse Mitigation Plan	2889
 Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
@@ -2186,9 +2287,11 @@ Standing About-Us	1246
 Startup Abuja	10332
 Startups About	6155
 State Abbreviation International	11129
-State Institutions Absence of Corruption	10759,78
+State Institutions Absence of Corruption	10759,78,1315
 State Minister for Finance Mohamed Nour Abdeldaim	9489,1,966
 State Minister of Finance Mohamed Nour Abdel	8923
+Statistical Abstract	12138
+Statistical Abstracts	12138
 Statistical System Absence of Forced Migration	10835,3,130,902,16
 Stella Abongo	6946
 Strategic Outlook ABUJA	12053
@@ -2202,6 +2305,7 @@ Suhail Abu Shiha	9213
 Suhail Abushiha	9479
 Suleiman Abubakar Sadique	10468
 Summary Description Operation Abstract	4653
+Sunil Abraham	12139
 Suzana Abreu	11427
 TABLE OF CONTENTS ABBREVIATIONS AND ACRONYMS	11417
 TABLE OF CONTENTS Acronyms and Abbreviations	11271
@@ -2233,6 +2337,7 @@ Thami Abderrahmani Ghorfi Catégorie	8891
 The-governance-of-digital-convergence Abstract	8193
 Theorizing About the Design of Information Infrastructures	5700
 Tijani ABUJA	2871,6106
+Time Additional Notes Schedule Demo About	12211
 Togo Abidjan Subject	3604
 Toufik Abdul-Rahman	6948
 Trade and Investment Abu Dhabi	12026
@@ -2257,6 +2362,7 @@ University of Abidjan	3604
 University of Abomey-Calavi	951,6111,3825
 Université Abdelmalek Essaâdi de Tétouan	8876
 Université Gamal Abdel Nasser de Conakry	10691
+Unmute Addis Ababa	12279
 Unpaywall. Abstract	12098
 Urbano de Abiara Esatop	4209
 Uriel Abaga	7919
@@ -2264,6 +2370,8 @@ Uriel Abaga. Fruit	7919
 Urwego. Abo	1214
 Using Abidjan	8151
 VEI Ghana. About BigData Ghana Limited	9561
+Vice President Ato Asfaw Abera	12195
+Vice President Ato Yilma Abebe	12195
 Vice-chancellor Professor Nana Aba Appiah Amfo	8287
 Vieux Abdoul Rachid SOULAMA	10885
 Visa and Absa	2773
@@ -2281,10 +2389,13 @@ Women Slowing Deterioration Absence of Armed Conflict	11870
 World Bank Country Manager Abdu Muwonge	9344
 World Bank Group. About Jumia	9734
 World Bank. Contents About ID4D	10812
+X Annual Statistical Abstracts	12138
 XII. CONCEPTS ET DEFINITIONS Abandon	10847
 Yakubu Abdul-Majeed	10142
 Yaouba Abdoulaye	3078
 Year Addis Ababa	1798
+Years And Above	12151
+Years and Above	12151
 Yilma and Abdulwahab	9969
 Yoff Zimbabwe Addis Ababa Cameroon Senegal	11563
 Yopougon Koweit Abayaté	2342

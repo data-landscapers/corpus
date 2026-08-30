@@ -3,6 +3,7 @@ ACH Automated Clearing Houses AfCFTA African	1264
 AGRICULTURAL HOUSEHOLDS	11192
 AIC BETHLEHEM HOUSE OF BREAD DISPENSARY-	7167
 AISCA Houses and Studios	2092
+AMINA House	12253
 ANNOUNCEMENT The HOUSE CHAIRPERSON	11272
 APDP President Luciano Hounkponou	4246,1301
 Abia State Government House	2552
@@ -20,6 +21,7 @@ Anglo Mauritius House	11332
 Angola. Segundo António Hou	3692
 Anita Houndenou	7168
 Annexure D3. Kudenga House TN CyberTech	4896
+Annual CAIDI Hours	12256
 António Hou	3692,19
 Area Office United Nations House Marine	10764,80
 Area for Housing Development Figure	2775
@@ -27,7 +29,7 @@ Article Topics Austrian State Printing House	10293
 Association Electronic Clearing House Eswatini Financial	11130
 Aura Merveille Hountondji	3590
 Austrian State Printing House	10293
-Automated Clearing House	2358,1299,22,26,8005
+Automated Clearing House	2358,1299,22,26,8005,576
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
 Average Hourly Generation	12062
@@ -48,7 +50,7 @@ ByTechTrends Hours OnAugust	9830
 Bénin. Me Luciano Hounkponou	6501
 C'est Moi. Tokandji K. Houédako	6217
 CA Staff House Mortgage	6946
-CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1
+CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9
 COAST HOLIDAYS GUEST HOUSE MALINDI Data	7167
 COMESA CLEARING HOUSE Vacancies	11803,1,1
 COMESA Clearing House	2197,4
@@ -60,6 +62,7 @@ Cameroon Household Survey	10985
 Carlton House	3386
 Census of Population and Housing	1867
 Centre for Affordable Housing Finance	10759,78,1052
+Centre of Excellence for CRVS Systems. Housed	12138
 Chairman House Committee	12059
 Changing House	11129
 Chatham House	4259,3212,318
@@ -79,6 +82,7 @@ Clearing House	9516
 Clearing House. The Clearing House	4848
 Collect Hours	11563
 Conducting the Population and Housing Census	2775
+Constructing Housing	12175
 Continous Multipurpose Household Survey Sweden	30
 Coordination of State House Functions	6588
 Cumulative Households	2775
@@ -91,7 +95,7 @@ Data Collection Collection Households	10964
 Data IDD HOUSEHOLD SURVEY ON ICT	582
 Data MIS Collection Collection Households	10964
 Dear Hournorable Speaker	11289
-Decent Housing	10759,76,2,1,130,902,16,1,1,1
+Decent Housing	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
 Decent Housing Absence of Armed Conflict	10838
 Demographic and Household Survey	10829
 Deputy Speaker of House of Representatives	12059
@@ -102,6 +106,7 @@ Drawing Rights SDHUD State Department for Housing	2775
 Dwelling Units Tenant Households Prefer	2775
 E Household NAME’s NAME	582
 E&M TECHNOLOGY HOUSE LTD Data Processor	7167
+EAC Gross Domestic Product Green House	12256
 EDOU GOU TUY HOU ET NAH	10847
 ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
 ESCP Fourth Cameroon Household Survey ESF	10964
@@ -119,9 +124,10 @@ Eswatini Clearing House	11130
 Ethiopia Operating Hours	10709
 Ethiopia's House of People's Representatives	3211
 Ethiopia's House of Peoples' Representatives Approves	1971
+Ethiopian House of Peoples' Representatives	12232
 F HOUET	10847
 FCDO. The Global Program for Resilient Housing	10763
-FH Freedom House	11887
+FH Freedom House	11887,266,1,9
 FINANCIAL STABILITY Household Sector	11131
 FSD Kenya FinAccess Household Survey Report	7548
 FacebookTwitterPinterestEmail From the White House	4942
@@ -132,8 +138,10 @@ Female-Headed Households GBV Gender-Based Violence GCF	11549
 Fifth Cameroon Household Survey	10985
 Fifth General Population and Housing Census	10870
 Filles Ensemble Garçons Filles Ensemble Houet	10847
-FinAccess Household Survey	11994
+FinAccess Household Survey	11994,156,81
+FinAccess Household Survey Find	12150
 FinAccess Household Survey Reporthttps	7548
+FinAccess Household Survey. Nairobi	12297
 FinAccess Household Survey148	11994
 Financial Access Household Survey Overview	2775
 Fourth Cameroon Household Survey	10964
@@ -161,6 +169,7 @@ Goodwood Station Social Housing Project	11248
 Government House	8973,1187
 Government ICT House	11184
 Government Procurement Opportunities AHP Affordable Housing	2775
+Green House Gas	12256
 Guest House House Grove Drive Number	4896
 HAUTS-BASSINS HOUET	10847
 HAUTS-BASSINS HOUET Femmes	10847
@@ -200,11 +209,12 @@ Hour Cyber Incident Reporting for Telecom Operators	5308
 Hour Data Breach Notification Requirement	6632
 Hour Economy Secretariat	10630
 Hourly	11953
-Hours	9442,1767,744
+Hours	9442,1767,744,303
 Hours Days	1938
+Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66
 House Approves Close	1798
 House Business Committee	10313
 House Chair	11272
@@ -235,10 +245,11 @@ House of Commons Library. Clark	5675
 House of Justice	11541
 House of Parliament. Next Order. Disclaimer	10313
 House of Parliament. Next Order. PAPERS Hon	10313
+House of People's Representative	12185
 House of People's Representatives	1290,508,166,7,1240,3843,3778
 House of People's Representatives of Ethiopia	1971
 House of Peoples Representatives	1685
-House of Peoples' Representative	1964
+House of Peoples' Representative	1964,10221
 House of Peoples' Representatives	3176,3915,1
 House of People’s Representatives	9306
 House of Records	10313
@@ -260,9 +271,11 @@ House. Part	10313
 House. Presenting the Office	7054
 House. Sometimes	10313
 House. Unfortunately	10313
+Housed	12138,43
+Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45
 Household Access	3641
 Household Budget Survey	9252,1884
 Household Consumption	11017
@@ -291,11 +304,12 @@ Household Surveys and Censuses	11237
 Household Tariff	9409
 Household Uplifting Programme-Conditional Cash Transfers	10093
 Household-level	11156
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28
 Households Connected	11890
 Households Figure	582
 Households Living Standards	11549
 Households Passed	1818
+Households Phone Ownership	12251
 Households and Individuals	11424
 Households and Use	7521
 Housekeeping	8487,1076
@@ -304,12 +318,12 @@ Houses Electrified	11890
 Houses Without Electricity	11890
 Houses of Justice	11541
 Houses of Parliament	3714,7516,59
-Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58
+Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253
 Housing Assembly	6486,857,1572
 Housing Assembly and Foxglove	8915
 Housing Assembly and UK-based	8273
 Housing Budget Shrinks	2428
-Housing Census	10870
+Housing Census	10870,1281
 Housing Development Agency	11285
 Housing FTTx Fibre	11857
 Housing Must	11285
@@ -362,15 +376,18 @@ Interconnect Clearing House Nigeria Limited	3862
 Jin Houyun	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Jogoo House. NPSIMS	3320
 Justin Gourna-Zacko. Hamadou Houssaïni	2300
+KENYA HOUSING SURVEY FACT SHEET Mobile	12251
+KENYA HOUSING SURVEY Mobile Phone Ownership	12251
 KPHC Kenya Population and Housing Census KPLC	2775
 KWh Kilo Watt Hour KWS Kenya	2775
 Kenya Afya House	4153
 Kenya Household Survey. Below	6946
-Kenya Housing Survey	7548
+Kenya Housing Survey	7548,4703
 Kenya Housing Survey Findings	2775
 Kenya Housing Survey. Communications Authority of Kenya	7548
 Kenya Housing and Real Estate Surveys Overview	2775
-Kenya Population and Housing Census	7548
+Kenya Population and Housing Census	7548,4603,80
+Kenya Population and Housing Census KVSR Kenya	12151
 Kenya Population and Housing Census Results	10822
 Key Challenges Facing Housing Development	2775
 Kigali House	5625
@@ -400,6 +417,7 @@ MSP Houses of Public Service	3604
 MTN House	6242,1249
 MTN House Accra	7491
 Major Cuts Hit Housing	2428
+Malawi Population and Housing Census. Main Report	12175
 Management of Population and Housing Censuses	4040,4,7377,25,131
 Mapeera House	7875
 Me Hounkponou	5842,74,336
@@ -425,6 +443,7 @@ Months Average Hourly Generation	12062
 Multiple Family Housing	11129
 NAME OF HOUSEHOLD HEAD	582
 NPS HQ Jogoo House. NPSIMS	3320
+Nairobi Automated Clearing House	12286
 Nairobi's Mukuru Affordable Housing Project	6864
 Namibia Household Income and Expenditure Survey	9485
 Namibia Population and Housing Census	9485
@@ -455,7 +474,7 @@ Non Profit Institutions Serving Households	2775
 Non-Profit Institutions Serving Householuds	2775
 Norrsken East Africa Kigali House. Stakeholders	5625
 Number of Households	9485
-Nyayo House	6783
+Nyayo House	6783,5444
 ORODARA TAPOA HOUNDE HAUTS-BASSINS BOBO-DIOULASSO HOUET	10847
 Official White House	5366
 Once Household Impact	10964
@@ -473,8 +492,10 @@ Par Christian HOUNONGBE	10240
 Parliament House	8545
 Percentage of Households	11211,51
 Percentage of Housing Developers	2775
+Phase House	12151
 Pitman House	1131
 Plant Average Hourly Generation	12062
+Politics. Penguin Random House	12227
 Poor Households	11924
 Population and Housing	10765,10
 Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693
@@ -535,7 +556,7 @@ Small Business House	10841
 Social Health Insurance Fund and Affordable Housing	5684
 Social Housing Regulatory Authority	11285
 Social Security and Housing Finance Corporation	3066
-Socioeconomic Inequality Mitigation Decent Housing Food	10837
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315
 Somali Integrated Household Budget Survey	3586,505
 Somalia Integrated Household Budget Survey	8456
 Somalia's House	4810
@@ -545,7 +566,7 @@ Spatial Integration and Housing Reform	11236
 Stanley House EWZL Owned Guest N	4896
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,144,1
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,144,1,194
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15
@@ -569,6 +590,7 @@ Stats SA's General Household Survey	6832
 Sylvie Houlière Mayca	3701
 TPA. Houve	9501
 TTCL Dodoma Telephone House	2868
+TWh Terra-Watt Hour UETCL Uganda Electricity	12256
 Tanzania Automated Clearing House	5977
 Tenant Households Preferred Dwelling Units for Buying	2775
 Tokandji Houédako	6217
@@ -605,6 +627,7 @@ White House S&T	5257
 White House-driven	4447
 White House. President Donald Trump	10433
 White House. The Policy Direction	5808
+Working Hours	12211
 Works and Housing	11129
 World Bank Adequate Housing Index	8087
 Yaoundé. Housed	3730

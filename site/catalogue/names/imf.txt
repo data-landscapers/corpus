@@ -56,6 +56,7 @@ IMF Departmental Paper	6965,4175
 IMF Departmental Paper DP	11140
 IMF Departmental Paper No	11140
 IMF ECF	1592,6103
+IMF ECF and World Bank DPO	12176
 IMF Executive Board	11554
 IMF Extended Credit Facility	5247
 IMF FAD	3537
@@ -67,9 +68,10 @@ IMF Financial Soundness Indicators	6938
 IMF Fiscal Policies	6593
 IMF Fossil Fuel Subsidies Data	11140
 IMF High-Level Summary Technical Assistance Report	1698
+IMF Human Capital Risk IT Headquarters	12225
 IMF IFS	49,129,1,152,5,47,1,66,5,1,1,1,45,1,94,16,1,1,1,55,20,1,1,1,1,106,21,1,1,1,1,1,58,14,1,1,1,1,139,8,1,1,79,140,62,1,1,69,1,1,14,1,1,1,1,1,1,103,1,1,1,543,1,1,1,47,16,1,76,1,2186,1,1,1,51
 IMF Internally Generated Funds	789
-IMF International Monetary Fund	11887
+IMF International Monetary Fund	11887,266,1,9
 IMF International Monetary Fund IMS Information	11863
 IMF International Monetary Fund INE Instituto	11380
 IMF International Monetary Fund INE National	11525
@@ -89,6 +91,7 @@ IMF Producer Price Index Manual Theory	11152
 IMF Quota Subscription Account	11131,3
 IMF Quota Subscription of SDR	11134
 IMF Report	10779
+IMF Revenue Administration VAT Gap Study	12225
 IMF Says By Bruck Getachew	7637
 IMF Securities Account	11131,3
 IMF Sees Central Africa’s Economic Growth	10841
@@ -128,7 +131,9 @@ IMF's Statistics Department	11554,419
 IMF's Strategy	6679
 IMF- ECF	1828
 IMF-ECF	1828
+IMF-FAD Expert	12225
 IMF-FSB	4127
+IMF-World Bank	12300
 IMF-based	10203
 IMF-published	2744
 IMF-supported	11559
@@ -174,6 +179,7 @@ Tax Administration Reforms. IMF Working Paper	10997
 UEMOA IMF Institution de Microfinance P2P Opération	4459
 Uma IMF	11370
 Universal Access Development Fund. The IMF	3378
+VAT. Although the IMF	12225
 World Bank Global Findex Database and IMF	1828
-World Bank and IMF	1828,4217,4940
+World Bank and IMF	1828,4217,4940,1242
 World Bank and IMF. Moving	10985

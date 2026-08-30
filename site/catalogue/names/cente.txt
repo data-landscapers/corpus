@@ -79,6 +79,7 @@ Angola. Um Data Center	5954
 Angolan National Data Center	6636
 Angola’s Emergency Operations Center	10776
 Annual Commercial Data Center Revenue	10781
+Any Huduma Center	12209
 Aon’s Data Center Lifecycle Insurance Program	11310
 Applied Innovation Center	7537
 Aquisition de Data Center National	4385
@@ -131,8 +132,9 @@ CAMTEL's Network Operations Center	4271
 CAREPRIME IMAGING AND DIAGNOSTIC CENTER LIMITED	7167
 CASI Integrated Social Action Center	10768
 CCTA Talatona Convention Center	6628
+CD Communicable Diseases CDC Center for Disease	12151
 CDC Center for Disease Control and Prevetion CPU	34
-CDD-Ghana Ghana Center for Democratic Development	11887
+CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9
 CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16
 CENTENARY MICRO ENTERPRISE SERVICES LIMITED Data	7167
 CENTER BUILD	10861
@@ -166,9 +168,10 @@ COMPREHENSIVE CARDIOVASCULAR CARE CENTER LTD Data	7167
 CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CUSTOM MEDICAL CENTER LTD Data Processor	7167
 Calabar International Convention Center	12004
-Call Center	235,2581,7934,25,200
+Call Center	235,2581,7934,25,200,1307
 Call Center Service License	762
 Call Center The NTRA	11642
+Call Center for NRB Customer	12241
 Camama. Os Data Centers	11317
 Canadian Police Information Center	10979
 Card Production Centers	10812
@@ -182,7 +185,7 @@ Cellpath Wellnes Center Limited Data Processor	7167
 Cente-Tech	7875
 Centemobile	3035
 Centenary	6311,1564
-Centenary Bank	1026,2009,3276
+Centenary Bank	1026,2009,3276,5941,39
 Centenary Bank Board Chairperson	3423
 Centenary Bank Board Director. Centenary Technology	3423
 Centenary Bank Managing Director Godfrey Byekwaso	3035
@@ -204,6 +207,7 @@ Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
 Center Digital Government Service	9531
+Center East	12225
 Center For Financial Inclusion	11994
 Center For Investigative Journalism	5247
 Center Integration By Samira Njoya	7316
@@ -222,12 +226,15 @@ Center for Democracy and Human Rights	9288
 Center for Democratic Development	7886
 Center for Democratic Governance	10817
 Center for Digital Public Infrastructure	4675,1025,2749
+Center for Disease Control Prevent	12138
 Center for Disease Control. As I’m	560
 Center for Doctoral Studies	2422
 Center for Effective Global Action	7282
 Center for Entrepreneurial Studies	1037
 Center for European Policy Analysis	4617
 Center for European Policy Analysis. CEPA	4617
+Center for Financial Inclusion	12227
+Center for Financial Inclusion. Accion	12231
 Center for Financial Information Systems	3058
 Center for Global Development	3782,1918,1035,200,3840,54,481,546
 Center for Global Development Working Paper	1350
@@ -236,9 +243,11 @@ Center for Health	3005
 Center for Human Rights and Democracy	10841
 Center for Human Rights and Global Justice	1823
 Center for Information and Decision	11969
+Center for Intellectual Property and Information Technology	12210
 Center for International Development	11007
 Center for International Development. PDIA Toolkit	11007
 Center for International Earth Science Information Network	10835,3,130,902,16
+Center for International Governance Innovation	12278
 Center for International Private Enterprise	4750
 Center for Journalism and Liberty	5700
 Center for Media Studies and Peacebuilding	5244
@@ -262,7 +271,7 @@ Centers	5167,1712,5092
 Centers DGMEC General Directorate for Civil Registry	10812
 Centers for Disease Control	396
 Centers for Disease Control and Prevention	5700,2050,2696,195,1271
-Centers of Excellence	1814
+Centers of Excellence	1814,10396
 Centers.pdf	689
 Centerstar	7167
 Certification Center for Cisco	10948
@@ -286,7 +295,7 @@ Civil Service Agency. The Data Center	5244
 Civil Society Demands Human Rights Centered	7552
 Colo Colocation DC Data Center DIF	10781
 Colocation NDC National Data Center DC	3184,1,1340,6470
-Columbia Center for International Earth Science Information	10759,78,1050,2
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9
 Command Center	9123
 Communication CEFORE Business Formalities Center CENI	10812
 Community Center	4969
@@ -298,6 +307,7 @@ Construction of Reserve National Data Center Project	1795,1413,3881
 Contact Center	11939
 Control Center	794
 Convergir Data Centers	11389
+Copenhagen Consensus Center	12175
 Copper Springs Community Health Center Data	7167
 Cost Ratio Center	11417
 County Emergency Operation Centers	4153
@@ -333,6 +343,7 @@ Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
 Data Center Cabling Systems Introduction Structure	9123
 Data Center Certification	1264
+Data Center Certification Compliance	12214
 Data Center Cost Index	5200
 Data Center Design Floor	9123
 Data Center Design and Implementation Best Practices	9123
@@ -344,10 +355,12 @@ Data Center High Availability Introduction	9123
 Data Center IA Cloud	6375
 Data Center II	11863
 Data Center III	11863
+Data Center Infrastructure	12214
 Data Center Map	3859,2706
 Data Center Nacional	5272,270,5530
 Data Center National	2514
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
+Data Center Regulation	12295
 Data Center Service Provider License	762
 Data Center and AI Investment	11310
 Data Center and Cloud	5987
@@ -362,6 +375,7 @@ Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052,474,28,80,24,40,8
 Data Centers Cloud	10861
 Data Centers Modulares	1192
 Data Centers Over	9629
+Data Centers Regulations	12294
 Data Centers US	9629
 Data Centers and AI	6678
 Data Centers. Sector	11863
@@ -386,6 +400,7 @@ Director of The Urban Center	9528
 Distance Learning Centers	2989
 Distributed Active Archive Center	10794
 Distribution Dispatch Center	1538,1
+District Registration Center	12217
 Drone Operations Center	1903
 EAPC Ebenezer Worship Center Data Controller	7167
 EDGE Data Center Certification	1264
@@ -418,6 +433,7 @@ Establish E-Waste Collection Centers	1988
 Establish Knowledge Centers	1000
 Establishing Cybercrime Complaint Center	1000
 Ethio Telecom's Digital Experience Center	3788
+Ethiopian Center for Disability and Development	12236
 European Center for Digital Rights	8436
 Facebook Connectivity Lab and Center for International Earth	1013
 Fast Digital Center	6852
@@ -430,6 +446,7 @@ GHANA DATA CENTER MARKET BRIEFING	3184
 GIZ Ghana Digital Transformation Center	1779
 Gartner Says Electricity Demand for Data Centers	7548
 Gestão de Data Centers	5319
+Ghana Center for Democratic Development	12192,86
 Ghana. XALAM DATA CENTER MARKET BRIEFING	3184
 Global Center	3654,76,1004,568,965,336,283,347,355,1176,1125,1259
 Global Center for AI Governance	7588
@@ -442,6 +459,7 @@ Global North. The Georgetown Beeck Center	7921
 Government Data Center	11466,425
 Government Data Center and Cloud	11483
 Government Information and Communication Center	5817
+Government Procurement Media Center IFMIS News	12322
 Government's Data Center and Cloud	5987
 Green Data Center	9123
 Green Data Center and AI Institute	4032
@@ -498,6 +516,7 @@ Ivoire's Orange Digital Center	6336
 JOINT SPECIALITY CENTER LIMITED Data Controller	7167
 Job Centers for Ogun	8985
 Joint Data Center	10841
+Julho Health Center	12266
 KEY AFRICA DATA CENTER INDUSTRY PLAYERS	10861
 KEY DATA CENTER INDUSTRY PLAYERS	10861
 KEY DATA CENTER INDUSTRY PLAYERS COTE-D’IVOIRE	10861
@@ -505,6 +524,7 @@ KEY DATA CENTER INDUSTRY PLAYERS EU	10861
 KEY DATA CENTER INDUSTRY PLAYERS NIGERIA	10861
 KEY DATA CENTER INDUSTRY PLAYERS SUB-SAHARAN	10861
 Kahda Health Center	5225
+Kansas Water Science Center	12151
 Kenya. The EcoCloud-G42 Mega Data Center	1639
 Khazna Data Center	8045
 Khazna Data Centers. Khazna	1639
@@ -529,6 +549,7 @@ Maio Business Center	11931
 Makerere Innovation Incubation Center	7248
 Makerere Innovation Incubation CenterAfriventia Group	7248
 Makerere Innovation and Incubation Center	7248
+Malawi E-Government Data Center	12241
 Managing Director of Centenary Bank	6311
 Mastercard Center for Inclusive Growth	10977
 Mauritania’s Center for Remote Training and Exchange	8592
@@ -585,6 +606,7 @@ National Incident Response Center	5338
 National Integrated Big Data Center Collaborative	5242
 National Internet Data Center	9149
 National Laboratory Equipment Calibration Center	4301
+National Payment Center	12273
 National Production Center	10775
 National Telemedicine Center	11586
 National Trade Register Center	2542
@@ -641,6 +663,8 @@ Public Health Emergency Operations Centers and Outbreak	4260
 Public Security Integrated Centers	646
 Qhala Digital Economy County Centers of Excellence	6948
 RAXIO DATA CENTER SARL	1005
+REGISTRATION CENTERS AT REGIONS	12202
+REGISTRATION CENTERS IN ADDIS AND SURROUNDINGS	12202
 RELATIVE DEPTH OF DATA CENTER MARKET	10861
 Raxio Data Centers	11310
 Raya Data Center. Morocco	3859
@@ -738,10 +762,11 @@ WEST AFRICAN DATA CENTER MARKET	10861
 West Africa Data Center Markets	10861
 West Africa Data Center Markets Brief	4428
 Wh. XALAM DATA CENTER MARKET BRIEFING	3185
+World Bank and International Center for Research	12188
 World Bank-UNHCR Joint Data Center	10841
 World Data Centers Day	2918
 XALAM DATA CENTER MARKET BRIEFING	3184,1,1340,6256,214
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9
 Yaoundé du Cameroon Digital Innovation Center	2695
 Youth Development Center Data Controller INST-44582650E8E	7167
 Youth Technology Centers	1264

@@ -9,6 +9,7 @@ Banco Mundial X X	11569
 Bangladesh X Belize X Burma X	11005
 Bavacai and Black X	7627
 Biodiversidade X X	11569
+Birth X Minimum	12138
 Black X	7741
 Blockchain. X	961
 Broadcasting X X X Manufacture of ICT	236
@@ -31,6 +32,8 @@ Comércio X X	11569
 Credit Reference X Bureau	1988
 DC X X X X X	10858
 DLC X X X	10858
+Death X	12138
+Death X Minimum	12138
 Desenvolvimento X X Rural	11569
 Desportos X X	11569
 Direitos Humanos X X	11569
@@ -66,7 +69,7 @@ HP OmniBook X Flip and OmniBook	8289
 ICT X X X X X	236
 IX. X. XI. XII. XIII. XIV	4217
 Indústria X X	11569
-Instagram and X	8436,428
+Instagram and X	8436,428,3337
 Instituto Camões X	11569
 Integração X X Regional	11569
 Interior X	11569
@@ -87,7 +90,7 @@ Men Women X	11004,960
 Ministério da Administração Pública X X	11569
 Ministério da Comunicação Social X X	11569
 Ministério da Saúde Pública X X	11569
-MoIbrahimFoundation X	10759,76,3,130,902,16,1
+MoIbrahimFoundation X	10759,76,3,130,902,16,1,267
 Model Law Part X Limitations HIPSSA	27
 Modernização da X X X X Administração	11569
 Mr. X	11129
@@ -117,6 +120,7 @@ Poder X X Local	11569
 Progress No Significant Progress Afghanistan X	11005
 Regional Convections X	1988
 Registo Predial. CAPÍTULO X RECONHECIMENTO	11901
+Remarks Birth X	12138
 Republic X Ecuador X Egypt X	11005
 Research Council of Zimbabwe X	1154,400
 Responsable Open Data X Chargé	1984
@@ -142,7 +146,9 @@ Tags Administration Partager Facebook X WhatsApp	1876
 Tanzania X Togo X Tonga X	11005
 Technical Assistance for GTCR X	10776
 Telecommunication X X	236
-TikTok and X	7874,1864
+TikToK and X	12201
+TikTok X	12201
+TikTok and X	7874,1864,2463
 Touadéra’s X	4127
 Turkmenistan X Ukraine X Uzbekistan X	11005
 Universidade Amilcar X X Cabral	11569
@@ -153,6 +159,7 @@ WhatsApp and X	8436
 Whistleblower. PART X General Provisions	972
 X 9 3WMq0	4434
 X Add	7058
+X Annual Statistical Abstracts	12138
 X Av. Bourguiba Immeuble H	9890
 X Ayieko	8383
 X BATE	3972
@@ -166,6 +173,7 @@ X Costs	10823
 X DATE	3972
 X DC X X X DC	10858
 X DOS DOS DOS DOS X	10858
+X Deaths	12138
 X Ed	11269
 X ExaGrid	11209
 X ExaGrid EX63000	11209
@@ -174,6 +182,7 @@ X HPe Synergy Blade Enclosure	11209
 X HPe Synergy Blade Server BL480	11209
 X HPe Synergy Blade Servers BL660	11209
 X Haiti X Iraq X Laos	11005
+X Huduma Centres	12138
 X ICT	236
 X INT Xeon-G	11209
 X Inc	8849
@@ -200,6 +209,7 @@ X Somalia X South Sudan X	11005
 X South	11986
 X Space	8712
 X Tanzania Fintech Association	9452
+X The MOH	12138
 X Tower	236
 X United Nations E-Government Surveys	10840
 X Urbanismo	11569
@@ -240,6 +250,7 @@ X. FINANCEMENT PUBLIC DE L'EDUCATION	10847
 X. H	7886
 X. Impact	6612
 X. Li	2093
+X. MEDIA	12201
 X. N	2518
 X. Nigeria	9114
 X. Ochoa	9128

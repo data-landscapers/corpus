@@ -12,8 +12,9 @@ Association of Banks and Financial Institutions	1343
 BANKSETA	11230
 BDCs. Banks	7416
 BankSETA	11230
+BankServ Africa	12252
 BankServAfrica	11214,685
-Banks	10,757,1125,47,764,309,91,512,42,274,195,642,88,268,134,275,489,81,78,31,99,282,378,143,59,6,105,30,25,267,304,237,570,15,210,88,89,50,53,265,24,50,32,79,37,76,290,93,349,65,13,123,20,41,20,42,191,97,2,3,486,241,79,15,5,5,21,8,6,38,33
+Banks	10,757,1125,47,764,309,91,512,42,274,195,642,88,268,134,275,489,81,78,31,99,282,378,143,59,6,105,30,25,267,304,237,570,15,210,88,89,50,53,265,24,50,32,79,37,76,290,93,349,65,13,123,20,41,20,42,191,97,2,3,486,241,79,15,5,5,21,8,6,38,33,116,44,21,17,5,23,3
 Banks Are Better Positioned	8717
 Banks Banks	11861
 Banks Face Hefty Fines	3256
@@ -21,6 +22,7 @@ Banks Lead While Health Systems Lag	6212
 Banks Need	12038
 Banks Period	958
 Banks and Insurance	4972
+Banks and MMOs	12270
 Banks and Mobile Money Operators	4901
 Banks and Other Financial Institutions Act	11861,132
 Banks and Specialised Deposit-Taking Institutions Act	7114
@@ -36,12 +38,12 @@ CBN Orders Banks	6698
 CBN and Nigerian Commercial Banks	12038
 COMESA Committee of Governors of Central Banks	2276
 COMESA Governors of Central Banks	11131
-Central Banks	982,2256,865,1021,1710,104,1029,3840
+Central Banks	982,2256,865,1021,1710,104,1029,3840,445
 Central Banks Governors	11131,3
 Central Banks of Member States	7452
 Central Banks. Note	6938
 Central Banks. The CMA	11130
-Commercial Banks	11134
+Commercial Banks	11134,1152
 Commercial Banks Assets and Liabilities	2775
 Commercial Banks and Micro Finance Institutions	2775
 Commercial Banks and Other Financial	2775
@@ -88,6 +90,7 @@ Participation of Development Banks	11310
 Partner States Central Banks	7815
 Payment Service Banks	4848
 Percentage of Banks	10779
+Pesalink Including Banks	12287
 Policy Choices for Central Banks	5237
 Ranking of Top Confirming Banks for African Issuing	10718
 Resilient Banks	6938

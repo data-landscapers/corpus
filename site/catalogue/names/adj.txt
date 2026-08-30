@@ -57,6 +57,7 @@ Adjunto B1 Cónsul General Adjunto B2	4209
 Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
+Adjust	12253
 Adjusted	3583,4542,1610,887,117,392,165
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
@@ -110,6 +111,7 @@ Conservador Adjunto	10751
 Consul General Adjunto	4209
 Coordenador Geral Coordenadora Geral Adjunta José	10757
 Cost Adjustments	2515
+Cost Foreign Exchange Rate Fluctuation Adjustment	12256
 Cámara Secretario General Adjunto	4209
 Cónsul General Adjunto B1 Cónsul General	4209
 Cónsul General Adjunto B3 Primer Secretario	4209
@@ -122,6 +124,7 @@ DG Adjunto	4209
 DG Aristide Guy Adjinacou Gnahoui	3387
 DIRECTOR GENERAL ADJUNTO	4209
 DIRECTOR GENERAL ADJUNTO MINISTER	4209
+Data Adjustment and Redistribution	12151
 Delegado Adjunto Gobierno	4209
 Delegado Adjunto Gobierno Servicio	4209
 Delegado de Gobierno Adjunto	4209
@@ -174,6 +177,8 @@ Fiscalía Adjunta Primero	4209
 Fiscalía Adjunta Segunda	4209
 Fiscalía Adjunta de Antidrogas	4209
 Fiscalías Adjuntas de Investigación Adm	4209
+Foreign Exchange Rate Fluctuation Adjustments	12256
+Forex Adj	12256
 Francisca Adjei	5359
 General Adj. B1 Cónsul General Adj	4209
 General Adjunto C. Nac. UNESCO Jefe	4209
@@ -182,6 +187,8 @@ General Adjunto Presidencia Juez Primer Instancia	4209
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
 INGEST ADJUDICATION	1807,3811,859,1378
 INSPECC. GEN. SERV ADJ. R. CONT.-	4209
+Inflation Adj	12256
+Inflation Adjustments	12256
 Information. M. Adji Ali Salatou	3337
 Inspector General Adjunto	4209
 Inspector General Adjunto Servicio	4209

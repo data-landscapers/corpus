@@ -54,6 +54,7 @@ CAWI Computer-assisted Web Interview CATI Computer-assisted	11192
 CBRAIN EAST AFRICA COMPUTER SYSTEM DESIGN	7167
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
+CERT Malawi Computer Emergency Response Team	12240
 CIRT Computer	10765,10
 CLOUD COMPUTING SERVICE MODELS	11196
 CLOUD COMPUTING SERVICE MODELS Cloud	11196
@@ -85,6 +86,7 @@ CSIRT Computer Security Incident Response Team	6936
 CSPs and MCDAs National Computer and Cybercrime Coordination	6432
 Carbon Footprint of National Compute	4528
 Center Computer Security Incident Response Team	4653
+Central Computation Resources	12240
 Centre for Development of Advanced Computing	6411
 Centre for High Performance Computing	4528,4598,1680
 Centre for High Performance Computing Zimbabwe National	4528
@@ -99,10 +101,13 @@ Citizen Computer Centres	5244
 Ciência da Computação	11441
 Ciência de Computação	12021
 Ciências da Computação	8858,3163
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435
+Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing Cloud	1363
 Cloud Computing NKCC	6946
 Cloud Computing News	2520
+Cloud Computing Regulation	12295
+Cloud Computing Regulations	12294
 Cloud Computing Roadmap	4141
 Cloud Computing Services	573,2588
 Cloud Computing Services Cloud Computing Services	3161
@@ -115,7 +120,7 @@ College of Computing and Information Sciences	5413
 Communications Authority of Kenya's National Kenya Computer	6803
 Competitive Marketplace for Compute	6445
 Compulsion	7777,4273
-Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70
+Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70,886
 Compulsory Briefing Session Meeting Registration Link	11240
 Compulsory Documents	11240
 Compulsory Security Governance	4755
@@ -123,7 +128,9 @@ Compulsory Social Security	2775
 Compulsory Specification NT National Treasury NYDA	11198
 Compulsory Standard Act No.3	1988
 Compulsory Standards	1988
+Compulsory Under Sections	12138
 Comput	1219,4023
+Comput Inform Nurs CIN	12246
 Comput Law Secur Rev	5242
 Computable Name	6666
 Computador	4044,6713,20,639,5,25,131,5
@@ -142,7 +149,7 @@ Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computação	2816,7324,1237
 Computação Em Nuvem Pode Ampliar	8827
 Computação Evolutiva	2816
-Compute	2092,865,1777,895,951,13,558,397,183,395,993,958,1063,69,101
+Compute	2092,865,1777,895,951,13,558,397,183,395,993,958,1063,69,101,900
 Compute AI	5297
 Compute Access	7548
 Compute Africa	2092
@@ -170,7 +177,7 @@ Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
 Computed	11907
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20
 Computer Applications	10001
 Computer Assisted Personal Interview	582,3462,6733,669,131
 Computer Assisted Personal Interview1	4040,7381
@@ -184,15 +191,15 @@ Computer Business Solutions	2674,3728
 Computer Capacity Data Strategy Safeguard Trustworthy	1204
 Computer Communications	3782
 Computer Corridor	4194
-Computer Crime Proclamation	11607
-Computer Crime Proclamation No	11607
+Computer Crime Proclamation	11607,625
+Computer Crime Proclamation No	11607,625
 Computer Crime and Cyber Crime Act	1642
 Computer Crime and Cyber Security Act	1535
 Computer Crime and Cyber Security Bill	1200,335
 Computer Crime and Cybercrime	26
 Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433
 Computer Crime and Cybersecurity Bill	1535,7165
-Computer Crimes Proclamation	1860
+Computer Crimes Proclamation	1860,10333
 Computer Donation	8323
 Computer Donations	7394
 Computer Education Projects	11134
@@ -211,14 +218,15 @@ Computer Information Systems	4896,419
 Computer Laboratory	1246
 Computer Law	1243,6779,754,461
 Computer Literacy	21
-Computer Misuse	3983,2966,2196
-Computer Misuse Act	3005,2417,1527,5151
+Computer Misuse	3983,2966,2196,3087
+Computer Misuse Act	3005,2417,1527,5151,132
 Computer Misuse Act. NITA-U ED	3275
+Computer Misuse and Cyber	12302
 Computer Misuse and Cyber Crimes Act	6432
-Computer Misuse and Cybercrime	6432
-Computer Misuse and Cybercrime Act	783
+Computer Misuse and Cybercrime	6432,5778
+Computer Misuse and Cybercrime Act	783,11519
 Computer Misuse and Cybercrimes	4583,2204,3153,1175
-Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212
+Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92
 Computer Misuse and Cybersecurity	7548
 Computer Networks and ISDN Systems	3782
 Computer Operator Ms. Virginia Simushi	34
@@ -237,7 +245,7 @@ Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Technology	9128
 Computer Science and Telecommunication	6832
 Computer Security	3887,5928
-Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886
+Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622
 Computer Security Incident Response Team CERT	1000
 Computer Security Incident Response Teams	5677,1259,1961,573,1219
 Computer Society of Zimbabwe	4528
@@ -268,13 +276,14 @@ Computer-related Fraud	26
 Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4
 Computerisation P42	5634
 Computerised	9237
+Computerization	12138
 Computerization of Government Procedures	10663
 Computerize	11906
 Computerized	1824
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9
 Computers Conference	9237
 Computers Public Perception of Accountability	10835,3,130,902,16
-Computers Shipping	10759,78
+Computers Shipping	10759,78,1315
 Computers and Education	11879
 Computing	2096,7379,1660,5
 Computing Can Unlock	4970
@@ -291,6 +300,7 @@ Computingthecorrelationbetweenageandweightyields	8606
 Computitional Center for IOT Project Expansion	7085
 Comunicação da Adopção da Computação	11377
 Concurrency and Computation	8605
+Connectivity Cloud Computing Adoption and Data Localization	12214
 Constellating Compute	9816
 Construção de Infra-estruturas Computacionais	3519
 Contemporary Computing and Informatics	9237
@@ -307,7 +317,7 @@ Cybersecurity and Computer Misuse Bill	4082,161
 DEFINITION OF CLOUD COMPUTING	11196
 DEFINITION OF CLOUD COMPUTING The National	11196
 Datasets and Computing Platforms for AI Development	1814
-Department of Computer Science	766,4647,3191,1779,953
+Department of Computer Science	766,4647,3191,1779,953,919
 Department of Computer Science and Information Technology	10323
 Department of Computing Science	7112
 Department of Mathematics and Computer Science	5097
@@ -339,7 +349,7 @@ Draft National Cloud Computing Policy	11993
 Dynamic Computable General Equilibrium Model	10980
 EIGHTY ONE COMPUTER LEARNING RESOURCE CENTRE	7167
 Eastern Data Western Computing	5242
-Edge Computing	11000
+Edge Computing	11000,1210
 Electrical Engineering and Computer Sciences	8529
 Electricity. Computers	9025
 Emergency Response Component CERT Computer Emergency	1264
@@ -389,6 +399,7 @@ IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
 INDIVIDUAL OWNERSHIP AND USAGE OF COMPUTERS	582
 INVALID. PART C CHECKLIST OF COMPULSORY	11240
+Individuals Computer Usage	12251
 Information Technology and Computer Science	6832
 Infrastructure and Compute	7548
 Infrastructure and Compute Constraints Kenya	7548
@@ -446,6 +457,7 @@ MoF Computerisation	1661,977,1208,1,1786
 MoH Computerisation	1666,977,2996
 MoHE Computerisation	5652
 MoSA Computerisation	2654,2999
+Mozambique's Computer Emergency Response Team	761
 NCC's Computer Security Incident Response Team	5677
 NCC’s Computer Security Incident Response Team	5308
 NITDA's National Cloud Computing Policy	9877
@@ -462,7 +474,7 @@ National Computer Board Certificate Authority	1379
 National Computer Center	2578
 National Computer Development Company	3604
 National Computer Emergency Response Center	7538
-National Computer Emergency Response Team	587,8720,656,213
+National Computer Emergency Response Team	587,8720,656,213,2056
 National Computer Emergency Response Team. Functions	587
 National Computer Forensic Laboratory	1000
 National Computer Incident Response Team	2256
@@ -472,14 +484,16 @@ National Computer Security Incident Response	5166
 National Computer Security Incident Response Team	6778,1795,324
 National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
-National Computer and Cybercrimes Co-ordination Committee	6787
+National Computer and Cybercrimes Co-ordination Committee	6787,5445
 National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
 National Emergency Computer Incident Response Center	7538
 National High-Performance Computing	4528
 National Kenya Computer Incident	6946
-National Kenya Computer Incident Response Team	7481
+National Kenya Computer Incident Response Team	7481,4781
 National and Sectoral Computer Emergency Response Teams	587
+Nations International Computing Centre	12241
+Natural and Computational Science	12199
 Nigeria Cloud Computing	11993
 Nigeria Cloud Computing Policy	10157,153,1685
 Nigeria Computer Society	8424
@@ -500,6 +514,7 @@ Os Operadores de Plataformas de Computação	6970
 Parliament Computerisation	5631
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
+Performance Computing	12210
 Perplexity Computer	5599,966
 Personal Computer PCI	11955
 Personal Computers Entities	6432
@@ -537,7 +552,7 @@ SUBSECÇÃO XI Operador de Plataformas de Computação	6970
 Sanções Pecuniárias Compulsórias	11430
 Sectoral Computer	587
 Sectoral Computer Emergency	587
-Sectoral Computer Emergency Response Team	587
+Sectoral Computer Emergency Response Team	587,11645
 Sectoral Computer Emergency Response Teams	587
 Seri Kembangan. Computer Science	9129
 Soft Computing	9128
@@ -572,6 +587,8 @@ Visão Computacional	2816
 Western Computing	5242
 Wingu Compute	5629,296
 YEARS COMPULSORY BRIEFING	11240
+Yes. The Computer Misuse Act	12232
+Yes. The Cybercrime and Computer Related Crimes	12232
 ZAM Act. Zambia Compulsory Standards Agency	1988
 Zambia Compulsory Standards Agency	1988
 Zimbabwe Centre for High Performance Computing	8483,222,325

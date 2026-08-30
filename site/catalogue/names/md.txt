@@ -3,8 +3,10 @@ Adib Bin Rashid and MD Ashfakul Karim	6948
 Afreximbank's MD	1922
 Alignment of MDA	958
 All MDAs	10157,1834
+All the MDAs	12253
 Annual Budgets of MDAs	11866
 Annual MDAs	11866
+Assistance INE National Institute of Statistics MDM	12201
 Audit MDA	10157
 BPP NITDA NITDA MDAs	10157
 BVN of MD	11861
@@ -14,12 +16,14 @@ Bayobab Uganda MD Juliet Nsubuga	2814
 CBN MD	11857
 CEO and MoMo MD	9103
 CERC of MDAP	1228
+Cabo Delgado MDM	12201
 Central African Republic MDA Ministries	969
 Clo Chief Information Officer MDA Ministries	6936
 Cloud First Adoption All MDAs	10157
 Co-Founder of MDCS.AI	3561
 Cogburn MD	1219
 D Mdoda	11289
+DEPARTMENTS AND AGENCIES MDB	12253
 Deputy MD	7329
 EU MDR	3651
 Education MDAs Ministries	6539
@@ -27,10 +31,13 @@ Endpoint MDR	10721
 Equinix South Africa MD Sandile Dube	11844
 Evaluation MDAs Ministries	3604
 Evaluation MDM Master Data Management SITA	396
+FRELIMO PODEMOS RENAMO MDM	12201
+Facilitating MDAs	12253
 Federal MDAs	10157,1700
 Federal MDAs Q3	11857
 Federal MDAs RoW IN-5 Prepare National	11857
 Gauteng Growth and Development Agency MDTT Monitoring	11986
+Gaza MDM	12201
 Global AI Hub and MDB	11061
 GoZ MDAs	970
 Google Africa MD Alex Okosi	6961
@@ -38,11 +45,15 @@ Google’s MD for Africa Alex Okosi	3619
 Government Areas MDAs Ministries	11857
 Government MDAs	11854
 Harvard Extension School. Md Abdullah Omar	1828
+Health MDAs Ministry	12151
+Health Mobile Health MDAs Ministries	12240
 Host MDAs	7548
 Hse No. MDN	3386
 INTIC IP ISR ITU M&E MDA	4653
 ISM M&E MADER MAEFP MCTES MDA	1228
 IXP KPI MDA NCG NCTG NDIAF	10157
+Improved Energy Efficiencies MDAs	12253
+Inhambane MDM	12201
 Issue No. MD08-2025	3651
 Kasaye MD	3791
 Kenya School of Government MDAC Ministries	7548
@@ -51,6 +62,7 @@ Lipa Mdogo	11994
 Lipa Mdogo Mdogo	6114
 Long-Term Evolution MDAs	958
 Lot Quality Assurance Sampling MDA	10776
+MALAWI BUREAU OF STANDARDS MDAs	12253
 MAP Meter Assets Provider MDA Ministries	12062
 MD Anne Kinuthia-Otieno	8623
 MD Ashfakul Karim Kausik	6948
@@ -103,8 +115,11 @@ MDAs Naira Payment Solution	2287
 MDAs Private	958
 MDAs Public Service Annual Emerging Technologies	7548
 MDAs Specific Objectives	1000
+MDAs System	12241
+MDAs The Department of E-Government	12240
 MDAs Universities	6936
 MDAs and HDAs. The IDA	9123
+MDAs and Inter-Governmental	12145
 MDAs for AI	7548
 MDAs of President Tinubu	8981
 MDAs. BudgIT	11866
@@ -135,12 +150,20 @@ MDG MWI MUS MOZ NER NGA	4912
 MDG. EUR	709
 MDG.csv	7299
 MDGs Millennium Development Goals MFIS Ministry	11855
+MDM Frelimo	12201
+MDM and Nova Democracia	12201
+MDM and PAHUMO	12201
+MDM and PODEMOS	12201
+MDM and Partido Humanit	12201
+MDM108	12201
 MDM2510 NBE-5AC-Gen2	998
 MDN-TET-HAN-ARCEP- Conforme	998
-MDP-EHL	11956
-MDP-OHL	11956
-MDP-UHL	11956
+MDP-EHL	11956,276
+MDP-OHL	11956,276
+MDP-UHL	11956,276
+MDP-UHLs	12232
 MDPCZ	21
+MDPI. Health	12297
 MDR and SOC	4084
 MDR-TB	10784
 MDTT Multi-Disciplinary Task Team M&E Monitoring	5533
@@ -154,6 +177,11 @@ MICTPCS MDAs All Sectors	958
 MICTPCS MDAs Development	958
 MainOne MDX-i	856
 MainOne’s MDXi Lekki	4191
+Malawi Communications Regulatory Authority MDAT	12175
+Malawi Communications Regulatory Authority MDAs Ministries	12241
+Manica MDM	12201
+Maputo City MDM	12201
+Maputo Provincia MDM	12201
 Md Abdullah Omar and Kazuo Inaba	1828
 Md BIF	3163,1,5,1,2,3771
 Md Rashidujjaman Rifat	4439
@@ -174,6 +202,7 @@ Monitoring and Evaluation MDG Millennium Development Goal	11525
 NIDA MD James Kaji	5697
 NIMC MDA	7847
 NITDA. Software Developers and MDAs	5665
+Nampula MDM	12201
 Nigcomsat MD Jane Egerton-Idehen	2294
 Nigeria MDAs	11861
 Nigeria. MDAs	10157
@@ -187,12 +216,14 @@ Original Theory of Change for MDAP The World	1228
 Os MdEs	11542
 P. O. Box Md	3386
 PM.21. The Minister of MDEPT	969
+PODEMOS. MDM	12201
 Paratus Namibia MD	3539
 Paydia. Bank Indonesia Exempts QRIS MDR	11994
 Payments Systems Mduduzi Mathunjwa Policy	11131,3
 Providers and MDAs	10310
 Publish MDA	11866
 Quarterly MDAs	11866
+RENAMO and MDM	12201
 Redundant MDAs	9123
 S Mdubeki Chief Surveyor-General	11261
 SASPP MDTF	10866
@@ -203,9 +234,12 @@ Sector MDAs	7548
 Seeks Full Adoption Across MDAs	8632
 Select MDAs	6539
 Sipho Mdhluli CSIR	11953
+Sofala MDM	12201
 State Information Technology Agency MDS Master	396
 T-Connect MD Advocate Phelane Phomane	4656
 Tax Administration System MDA Ministries	1284
+Tete MDM	12201
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
 World Wide Worx MD	8494
+Zambezia MDM	12201
 Zero MDR	5124

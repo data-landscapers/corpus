@@ -1,4 +1,5 @@
 ABOVE FASHIONS STORES LIMITED Data Processor	7167
+ABOVEGROUND STORAGE TANK CHILD ABUSE	12253
 AFRINIC Appeal Stopped	9809
 AI Strategy Mandates Local Storage	5403
 ANALYSIS OF THE NIGERIAN STOCK MARKET	10
@@ -26,6 +27,8 @@ BULK STORAGE TERMINAL LIMITED Data Controller	7167
 Backup Storage	11209
 Batteries de Stockage	1993
 Battery Energy Storage System Sources	11953
+Battery Energy Storage Systems	12256
+Battery Energy Storage Systems The Kenya	12256
 Biggest Corruption Stories	9736
 Blob Storage	6432
 Blue Store Warda	4271
@@ -36,22 +39,27 @@ Botswana Stock Exchange. The Lesedi	8786
 Botswana Stock Exchange. Tlou Energy Limited	3649
 Branding and App Stores	7266
 Budget Reporting and Control Stores Accounts Payable	9437
+Bulk Storage Terminal Ltd	12256
+Bureau of Statistics ERI Kipevu Oil Storage	12256
 CONGO STOCK-TAKING OF FUEL SUBSIDIES	1828
 COOKING STORIES Data Controller INST-56563401CA5 NAIROBI	7167
 CSL Stockbrokers Limited	7446
 CSP Pumped Storage	11953
 Cabo Verde Stock Exchange Investment Portal	11939
+Case Study SIMO Mozambique Origin Story	12270
 Central Medical Stores	4202,58
 Central Medical Stores Procurement Depa1tment	4260
 Central Medical Stores. Liberia	4202
 Change In the Stock of Domestic	1828
 Chassis for Servers and Storages	1988
+Chipiku Stores and Area	12253
 Chris Stokel-Walker	7174
 Chris Stoner Chris	10794
 Chris Stoner and Caroline Sang	10794
-Cloud Storage	4061,2730
+Cloud Storage	4061,2730,5511
 Cloud Storage. Ikumbukwe	4061
 Committee of SADC Stock Exchanges	6938
+Considerations for Cloud Storage	12302
 Covered Stockpiles	1988
 DATA STORAGE	5244
 DOES THE STORY MATTER	11730
@@ -72,6 +80,7 @@ Detailed Data Storage Location Inventory	6432
 Developing Stories	8943
 ECOLIT STORE LIMITED Data Controller INST-1806268824D	7167
 ELDORET SUPERMAX STORE Data Controller INST-3552001162C	7167
+Educational Plan P5-18. Stock	12225
 Electrical Energy Storage	11269
 Emerging Opportunities for Ugandan Storytellers	9781
 Energy Storage IPP	11228
@@ -92,6 +101,7 @@ Feature Story Synopsis	9985
 First Stop	2677
 Forbidden Stories	4127
 Fuel Backup Storage On-site	9446
+Fuel Storage Tank	12253
 GB Storage	9475
 Gas Hydro Pumped Storage Imports	11953
 Gas Hydro Pumped Storage Wind Solar	11953
@@ -103,8 +113,9 @@ Gianluca Storchi	5232
 Good Storage and Distribution Practices	4301
 Google Cloud Storage	9123
 Google Finance StoneCo	5124
-Google Play Store	7266,3804
+Google Play Store	7266,3804,1139
 Google Play Store and Apple App Store	2885
+Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
 Google’s Play Store	1363
 Government Forest Plantation Stocking	2775
@@ -136,7 +147,11 @@ Joint Stock Company	11939
 Keagan Stokoe	11128,380
 Kenya. Storage	9239
 Khartoum Stock Exchange Market	158
+Kipevu Oil Storage Facility	12256
+Kipevu Oil Storage KPC Nairobi KPC	12256
 Kristen Stolka	11912
+LPG Import and Bulk Storage Infrastructure	12256
+LPG Storage and Filling	12256
 La Société de Gestion des Stocks	2342
 Latest Stories	7594,1302
 Libyan Insurance Supervisory Authority Stock	6938
@@ -156,6 +171,7 @@ Microsoft Windows Azure Storage	9123
 Milk Story	8182
 Mobile App Store	11004
 Moderate Tropical Storm	1228
+Month Stock	12225
 Mozambique Stock Exchange	7381
 Multi-zone Data Storage	11952
 Musikavanhu's Telemedicine Story By Regina Pasipanodya	11656
@@ -166,6 +182,7 @@ Namibian Stock Exchange	1013,2446,255
 Namibian Stock Exchange. Revenues	1013
 National Food Buffer Stock Company	7695
 National Medical Stores	4217
+National Water Harvesting and Storage Authority	12254
 Nepal Stock Market Price Prediction	11265
 Nepal stock market price prediction	11265
 Network Attached Storage	9123
@@ -181,6 +198,7 @@ OpenUp’s Data Pipeline for Narrative Storytelling	6729
 Organization and Supervision of Stock Market Operations	6938
 Origin Story Challenge	12000
 Orphan Radioactive Storage Facility	5445
+P5-18. Stock	12225
 PAR Storage	11209
 PAR Storage Systems	11209
 PB Enterprise Storage	3487
@@ -208,6 +226,7 @@ RELATED STORIES	8202
 RMB Nigeria Stockbrokers	8040
 Real Story Behind the Turnaround National Breweries	6011,985
 Real Story of China	2518
+Received Finalized Stock	12225
 Recordings Stored	6946
 Regional Stock Exchange Settlement Bank	10853
 Registry Stored Query	1009
@@ -238,6 +257,7 @@ SUCCESS STORIES FROM SUB-SAHARAN AFRICA	11572
 SVS Stock Visibility System MTEF Medium-Term	396
 Salaam Stock Exchange	6921
 Secure National Data Storage	9126
+Secured Storage of Allocate	12253
 Senior Writer Techpoint Digest Stop	4554
 Sida-organised Stockholm Internet Forum	110
 Siruai Wind and Storage	9635
@@ -250,7 +270,7 @@ Stochastic Frontier Analysis	1828
 Stochastic Frontier Model Estimates 19 BOX	10997
 Stochastic Frontier Model Estimates Variables Model	10997
 Stochastic Frontier Models	1828
-Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526
+Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526,270
 Stock Add	3962
 Stock Cape Town	11012
 Stock Exchange	4896,7059
@@ -284,6 +304,7 @@ Stockholm University. SSA	93
 Stockholm. Strauss	10841
 Stockouts	11586
 Stockphoto	7986
+Stockphoto Maputo Novembro	12142
 Stockpiled	1988
 Stockpiles	1988
 Stocks	4420,5604
@@ -319,19 +340,23 @@ Stop. Think. Verify	9764
 Stopa	10780
 Stopblablacam	2336
 Stopgap	11551
-Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134
+Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46
 Storage Area Networks	9123
 Storage Authority NWHSA National Water Harvesting	2775
 Storage Authority NYS National Youth Service	2775
 Storage Grain Storage Leased Out Grain	2775
 Storage Improper	1988
-Storage Limitation	1630,3614
+Storage Limitation	1630,3614,6941,117
+Storage Limitation Personal	12302
 Storage Revenue Container Freight Traffic Developments	2775
 Storage Sphere	3292
+Storage and Filling Facility	12256
 Storage and Networking	11209
 Storage and Visualization	8604
+Storage of Crude Oil	12256
+Storage of LPG	12256
 Storage of Payment System Data	6735,200,4375
-Store	1089,60,839,489,8502,307
+Store	1089,60,839,489,8502,307,967,49
 Stored	1291,1,1,1,1,1,761,1,1,1,1,1,2308,1,1,1,1,1,1811,334,2717,920,822,973
 Stored Communications Act	10088
 Stored for Phase	8606
@@ -343,7 +368,7 @@ Storeys	11129
 Stories	1580,3933,1663,1767,1898,815
 Storing	6542,4543
 Stork	961,8798
-Story	6972,809,1,97,416,369,279,502,589,231,1045
+Story	6972,809,1,97,416,369,279,502,589,231,1045,924
 Story of Hope and Heritage	12005
 Story of Transformation	5245
 Storytelling	7609

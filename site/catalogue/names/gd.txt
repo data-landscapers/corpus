@@ -47,7 +47,7 @@ EPS Fintech GDP GT HC HRH	11131
 ESI ESP FGS FMS FOB GDP	11136
 EU GDPR	961,282,104,1377,82,750,4880
 EU's GDPR	1652
-EU’s GDPR	961,2331,2201,850
+EU’s GDPR	961,2331,2201,850,5929
 Economic Co-operation and Development GDPR General Data	6936
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Empowerment Programme Financial Technology FX GDP	11134
@@ -98,47 +98,54 @@ GDN’s Coordination and Technical Backstopping Throughout	10852
 GDN’s DPI	10852
 GDN’s Four Gear Approach	10852
 GDN’s ITERATION ARE CRUCIAL	10852
-GDP Citable	11884
+GDP Citable	11884,321
 GDP Contribution of Target Sectors	4528
-GDP Creative	11884
+GDP Creative	11884,321
 GDP Developments Price Developments External Sector	11131
 GDP Developments Quarterly Developments Economic	11131,3
+GDP Domestic	12205
 GDP EcYoenaormy	11884
 GDP Education	11907
+GDP Ethiopia	12205
 GDP Expenditure Category	2775
 GDP FDI	10969
 GDP Financing Agreement GNI Gross Domestic	11855
-GDP GDP	10835,3,130,902,14,2
+GDP GDP	10835,3,130,902,14,2,319
 GDP GFDRR GoA Senior Health and Community	10763
+GDP Global	12205
 GDP Graduates	11885
 GDP Gross	11380,505
 GDP Gross Domestic Product	11965
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Grows	8466
-GDP Growth	8126,3797
+GDP Growth	8126,3797,268
+GDP High-tech	12205
+GDP ICT	12205
 GDP Industry	2775
 GDP Intangible	11884
 GDP Investment Into	1828
 GDP Knowledge-intensive	11884
 GDP MSME’s Strengthening	5245
-GDP Market	10969,915,1
+GDP Market	10969,915,1,320
 GDP Millions Current USD	10759
 GDP Nations	2775
 GDP Operational	11885
 GDP PER CAPITA	11586
 GDP PPP	4840
 GDP Per	2775
-GDP Population	10837,1052
+GDP Population	10837,1052,265
 GDP Production	11884
-GDP QS	10969,915
+GDP QS	10969,915,321
 GDP RI6	10779
 GDP Real GDP	3184,1,1340,6470
 GDP Signal Strong High and Acceptable Moderate	11134
 GDP Transport	5245
+GDP US	12225
 GDP Unicorn	10969
+GDP Unit	12321
 GDP VC	11884
-GDP Weaknesses	11895
+GDP Weaknesses	11895,264
 GDP Weaknesses Rank Code	11884
 GDP Weighted Averages	1828
 GDP ZiG1	4392
@@ -270,6 +277,7 @@ Ghana’s GDP	789,3337
 Ghana’s GDP. Ghana	4126
 Global Economic Developments Global GDP Growth	11131,3
 Government-to-Business GDP	5244
+Grant Agent GDP	12175
 Green Climate Fund GDP Gross Domestic	11549
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -278,6 +286,7 @@ Growth of GDP	2775
 Guinea's GDP	6349
 Guinea-Bissau's GDP	11524
 Guinea-Bissau’s GDP	11525
+Guyana’s GDP	12265
 HUDO GD	11527
 I GDwritIirGawitira Dr C.E.F. Ma	1154
 Insurance Nominal GDP	2775
@@ -285,7 +294,7 @@ International Scene World Real GDP Growth	2775
 Investigation GDP Gross Domestic Product GNI	10765,10
 Investment FX Foreign Exchange GDP Gross	10781,80
 Kenya GDP	11994
-Kenya's GDP	7989
+Kenya's GDP	7989,4221
 Kenya’s GDP. Financial	8782
 Le GdD	747,8659
 Les GdD	747,1,1236
@@ -293,17 +302,20 @@ Like the EU’s AI Act and GDPR	9169
 Log of GDP	1828,9321
 Low GDP	11916
 M GDP	10822
+Malawi's GDP	12176
 Managed GDC Providers	4434
 Measure GDP GDP	10759
 Measure Value Rank Unit GDP	10837
 Medium-term GDP	11131
 Miscellaneous GDP	11524
+Mozambique's GDP	761
 Nigeria's GDP	8466
 Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
-Nominal GDP	2775,8361
+Nominal GDP	2775,8361,1089
 Nominal GDP USD	5247
 Non-Oil GDP	1828
+O GdM	12142
 Open Source Report.pdf GDPR.EU	1243
 PA9 MU GDP RI9	10779
 PPP-adjusted GDP	11581
@@ -315,7 +327,7 @@ RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RUHVWDO H GD IDXQD R UHJLPH	11527
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202
 Real GDP Growth Inflation Current Account	2775
@@ -340,13 +352,14 @@ Sub-Saharan Africa’s GDP	5247,575
 System G2P Government-to-Person GB Gigabyte GDP	969
 System GDP Gross Domestic Product GEMS	10829
 Tanzania’s GDP	4714,5878
+Tea Development Agency GDP Liquefied Petroleum	12256
 Telecommunication GDP Gross Domestic Product GFCF	236
 UHDV GD FRRSHUDomR LQWHUQDFLRQDO H GD	11530
 UK GDRP	8436
 UN's GDC	11028
 US GDP	8126
 US Stored Communications Act and GDPR	10088
-USD GDP	11572
+USD GDP	11572,689
 Under the GDPR	7081,1355,1551
 Union GDP Financial Management GHG Global	3604
 Unit GDP	11889
@@ -359,7 +372,7 @@ Violence GDP Gross Domestic Product GHG	1264
 Violence GDP Gross Domestic Product GRF	1867
 WRGRV VHJXQGRDVDOtQHDVD HH GDFOiXVXOD GD	11530
 Weak GDPR	8436
-World Bank and OECD GDP	10969
+World Bank and OECD GDP	10969,1236
 World Development Indicators Benin’s GDP	10856
 YDWLYR GD WHUUD SDUD	11527
 Year Information and Communication GDP-Current	6946

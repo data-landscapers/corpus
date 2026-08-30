@@ -1,7 +1,9 @@
 AB Traffic	9781
+AIDS Malaria Pneumonia Tuberculosis Road Traffic	12151
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Accidents Road Traffic Accident Respiratory Infections	12151
 Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
 Air Traffic Management System	261
@@ -18,6 +20,7 @@ Broadband Volume of Internet Traffic	2776
 Broadband Volume of Internet Traffic BWA	2776
 Broadband Wireless Access Data Traffic	2776
 CHALLENGES ON IMPLEMENTATION OF DIGITAL TRAFORMATION	11231
+Cardiopulmo- Road Traffic	12151
 Combat Trafficking	11900
 Commercial Cargo and Mail Traffic	2775
 Commercial Passenger Traffic1	2775
@@ -35,6 +38,7 @@ Data Traffic Market	6000
 Data Traffic NB	6000
 Digital Road Traffic System	5119
 Director of Traffic	3066
+Directorate of Road Traffic Services and Safety	12309
 Disrupting Internet Traffic	2677
 Domestic Fixed Network Traffic	6671
 Domestic Fixed Voice Traffic	6671
@@ -59,8 +63,11 @@ Fixed Voice Call Traffic	3862
 Fixed Voice Traffic	2776,3224
 Fixed Voice Traffic Average Fixed	2776
 Fixed Voice Traffic Total Fixed Voice	2776
+Fuel and Traffic Management	12200
+Fuel and Traffic Management The Ministry of Transport	12200
 General Traffic Department	8706
 HOWARD-TAYLOR REJECTS DRUG TRAFFICKING CHARGES	10581
+Heart Dis- Kidney and Road Traffic	12151
 Human Trafficking and Smuggling of Migrants	8480
 INCREASED TRAFFIC	1940
 INSUL. REG. CONT. TRAFICO PROTEC. SOCIEDAD	4209
@@ -107,6 +114,8 @@ MOBILE SMS TRAFFIC Total SMS	6000
 MOBILE TO MOBILE TRAFFIC	3862
 MOBILE VOICE TRAFFIC	6000
 Malaba Traffic Snarl Deepens	3955
+Malawi Traffic	12214
+Malawi Traffic Information System	12309
 Message Service Traffic	2775
 Message Services Traffic	2775
 Metre Gauge Railway Traffic	2775
@@ -142,6 +151,8 @@ National Road Traffıc Act.’’. Ukuchibiyela	11551
 National Road Traffıc Act.’’. Ukufaka	11551
 National Telephone Traffic	3862
 National Traffic	6000
+National Traffic Point-Based Penalty Management	12200
+National Traffic Point-Based Penalty Management System	12200
 Net Traffic	2776,7005
 Off-Net Domestic Mobile Voice Traffic	2776
 Off-Net Domestic Voice Traffic	2776
@@ -161,6 +172,7 @@ PSTN Traffic	6000
 PSTN VOICE TRAFFIC	6000
 PSTN Voice Traffic	6000
 Per Diem Road Traffic and Local	1988
+Pneumonia Road Traffic	12151
 Postal Corporation of Kenya Traffic	6946
 Postal Corporation of Kenya Traffic Indicator	6946
 Postal Traffic	6671
@@ -168,6 +180,7 @@ Postal and Courier Overview Postal Traffic	9781
 Private Courier Traffic	6671,275
 Private Courier Traffic FY	6946
 Proactive Identification of High-Risk Traffic Factors Zambia	10347
+Prohibition of Trafficking	12145
 Projected National Mobile Data Traffic	5245
 Public Safe City and Smart Traffic Solutions	359
 Quarter-on-Quarter Mobile-to-Fixed Off-Net Traffic	2776
@@ -176,11 +189,16 @@ Quarterly Domestic Fixed Voice Traffic	6671
 ROAMING TRAFFIC Out-bound Out-bound Roaming Voice	2776
 Real-Time Collection of Traffic Data	2913
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209
+Registration Road Traffic	12151
 Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
-Road Traffic	1988,5857
+Road Traffic	1988,5857,4306
+Road Traffic Accident	12151
+Road Traffic Accidents	12151
 Road Traffic Act	7845,320
+Road Traffic Diarrhea Accidents	12151
 Road Traffic Infringement Agency	7755
+Road Traffic Sepsis	12151
 Road Traffic ZRCP ZEMA	1988
 Road Traffic and Safety Agency	1988
 Road Traffic and Safety Mitigation	1988
@@ -194,6 +212,7 @@ Rural Safety Plan RTMC Road Traffic	11188
 SMS Traffic	2776,4170
 Safety of Services Traffic and Road Safety	1988
 Smart Traffic Management System	9394
+South African National Traffic Information System	12309
 South Sudan Air Traffic Management System	261
 Standard Gauge Railway Traffic	2775
 Storage Revenue Container Freight Traffic Developments	2775
@@ -208,13 +227,19 @@ Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479
+Traffic Acci-	12151
+Traffic Acci- Kidney	12151
+Traffic Acci-385Heart	12151
 Traffic Acquisition Costs	1363
 Traffic Act	1988,4933,2725
 Traffic Act. NTSA	9646
 Traffic Act.’’. Substitution	11551
 Traffic Analysis	11231
-Traffic Data	2776
+Traffic Control	12253
+Traffic Control Police	12253
+Traffic Control Police Risk	12253
+Traffic Data	2776,9409
 Traffic Handled	2775
 Traffic Impact Assessment	11131
 Traffic Law Enforcement	11494
@@ -224,6 +249,7 @@ Traffic Management Centres	10603
 Traffic Management and Road Safety Unit	7845
 Traffic Management for Protected Areas	1132
 Traffic Network Infrastructure Broadband Speeds	1013
+Traffic Police	12275
 Traffic Q3	2776
 Traffic Registration Number	6527
 Traffic Registration Numbers	6527
@@ -237,7 +263,7 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4
+Trafficking	5242,5517,78,4,1311,101
 Trafficking Data	1243
 Trafic	9781
 Trafic International Entrant	11597

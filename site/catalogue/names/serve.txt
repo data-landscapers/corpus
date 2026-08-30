@@ -23,6 +23,7 @@ Maria Server	3395
 Microsoft SQL Server Management Studio	10617
 Microsoft Server	5866
 MySQL and SQL Server	10060
+NET and MS SQL Server	12196
 Oracle WebLogic Server	3279,85
 PC. Server	34
 Perso Server	4924
@@ -37,12 +38,13 @@ Sequel Server	9124
 Serve	2757,1104,667,6663,46
 Served	1984,2958,664,283,454,183,4452,152
 Servem	12018
-Server	593,626,5213,2691,1
+Server	593,626,5213,2691,1,3129
 Server Backup	34
 Server Local Server Local Server	10775
+Server Room	12253
 Servernah	6791
 Servernah Cloud	5368,1349,74,2448
-Servers	34,544,1410,7135,373
+Servers	34,544,1410,7135,373,2757
 Servers Management	9123
 Servers Regular Restoration Tests of Servers and Services	9123
 Servers Zambia Refugee and Host Community Project	1988

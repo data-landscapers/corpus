@@ -27,6 +27,8 @@ Alimata Sow Diakite	10940
 Aliou Mamadou Dia	7691,30
 Amostra de Diagnosticada	10760
 Ana Dias Lourenço	5392,588,1902,3599,1
+Anaemia Diabetes	12151
+Anaemia Diarrhea	12151
 Angola Public-Private Partnerships Readiness Diagnostic	11380
 Annual Policy Dialogue	6418
 Anos Meses Dias	11530
@@ -95,7 +97,7 @@ Context Risk Multiplier Diagnostic Tool	11156
 Contrôle de Diamant	2889
 Coty Souleïmane Diakité	3755,2389
 Coty Souleïmane Diakité. Cette	6144
-Country Diagnostic	1028,2576,4040,3070
+Country Diagnostic	1028,2576,4040,3070,1513
 Country Diagnostic Framework Finance	10841
 Country Diagnostic Report	739
 Country Diagnostic Report Companion	739
@@ -164,6 +166,11 @@ Dia da Criança	10753
 Diaba-Nuhoho	12090
 Diaba-Nuhoho and Amponsah-Offeh	12090
 Diabaté	5739
+Diabetes	12151
+Diabetes Every	12151
+Diabetes Kidney	12151
+Diabetes Respiratory	12151
+Diabetes2	12151
 Diabo	10875
 Diabète	737
 Diacente	3727,2016
@@ -173,9 +180,10 @@ Diagnose	6832
 Diagnosing Readiness Gaps and Country Archetypes	2957
 Diagnosis	9075
 Diagnosis Approach	10881
-Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35
+Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198
 Diagnostic Accuracy	4528
 Diagnostic Approach	10881
+Diagnostic Assessment Tool Tax Audit Quality	12225
 Diagnostic Assessment of Rwanda’s AI Ecosystem	1204
 Diagnostic Finding	6832
 Diagnostic Network Optimization Early Infant Diagnosis	4153
@@ -195,7 +203,7 @@ Diagnostic-pays	7655
 Diagnostico	966
 Diagnostico de COVID-19	2816
 Diagnostics	3651,551,5227,1347,215
-Diagnóstico	4209,1454,5097,17,610,7,19,27,1,3,4,8,91,22
+Diagnóstico	4209,1454,5097,17,610,7,19,27,1,3,4,8,91,22,573
 Diagnóstico Estratégico Jurídico	11448
 Diagnóstico Jurídico-Institucional	11456
 Diagnóstico Precoce Infantil HIV Contém Dados	966
@@ -207,11 +215,11 @@ Diagnóstico da Economia Digital	11569
 Diagnóstico de Governação de Dados	2816
 Diagnóstico de Género	11387
 Diagrafia	11405
-Diagram	977,5455,5109
+Diagram	977,5455,5109,673
 Diagram DATABASE	6423
 Diagrama	11555
 Diagrama da Visão Estratégica	11379
-Diagrammatic	1824
+Diagrammatic	1824,10431
 Diaka Sidibé	5713
 Diakité	7886
 Diakité Aïcha	9923
@@ -226,6 +234,7 @@ Dialects	9944
 Dialgaye	10875
 Diallo	766,2409,4711
 Dialo Ssekidde	9781
+Dialogo	12169
 Dialogue	789,890,2753,1053,1474,1,78,65,19,198,474,49,43,257,94,654,396,55,468,1054,274,659
 Dialogue Facility	789
 Dialogue Facility Culture	789
@@ -282,22 +291,24 @@ Diarra	1806
 Diarreia	10777
 Diarreias	966
 Diarreicas Agudas	4209
-Diarrhea	10780,49
+Diarrhea	10780,49,1322
+Diarrhea Anaemia	12151
 Diarrheal	10768
-Diarrhoea	21
+Diarrhoea	21,12130
 Diarrhée	737
 Diary	8460
 Dias Afrinet	11412
 Dias Santos	11955
 Diasonama	10032,196
-Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76
+Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262
 Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Diaspora Advertisement Airtel Africa Foundation	5802
 Diaspora Affairs	2428,1725,6160
 Diaspora Affairs Office	4126
 Diaspora Centrafricaine	2366
-Diaspora Commission	7895
+Diaspora Citizens EAC Citizens	12164
+Diaspora Commission	7895,4250
 Diaspora Engagement	4528,7335
 Diaspora FEPs	3703
 Diaspora For Zimbabweans	3379
@@ -314,6 +325,7 @@ Diaspora Month	7649
 Diaspora Nigerians	2841
 Diaspora Perhaps	6521
 Diaspora Regional Networkings	7649
+Diaspora Registration	12217
 Diaspora Somalia	10521
 Diaspora Starting	1882
 Diaspora Studio	2577
@@ -323,6 +335,7 @@ Diaz-Garcia and Carvalho	7790
 Digital Economy Country Diagnostic	1751,9794
 Digital Economy Country Diagnostic for Equatorial	1751
 Digital Economy Diagnostic	1002,714,1107,8729
+Digital Economy Diagnostic for Malawi. Washington	12214
 Digital Economy Diagnostics	6539,5013
 Digital Economy for Africa Country Diagnostic	9759
 Digital Economy for Africa Country Diagnostic Tool	2677
@@ -354,6 +367,10 @@ Ecobank-JoyNews Business Financial Dialogue	9075
 Ecobank-JoyNews Business Financial Dialogue. Where the Forum	9075
 EdTech Mondays Dialogue	5606
 Elena Dia	7106
+Elvino Dias	12201
+Elvino Dias and PODEMOS	12201
+Elvino Dias and Paulo Guambe	12201
+Elvino Dias and Paulo Guambe. Mais Integridade	12201
 Encada Fernando Dias	11544
 Energy Access Diagnostic Report Based	423
 Equatorial Guinea Digital Economy Diagnostic	1716
@@ -418,6 +435,8 @@ Idrissa Diagne	10548
 Improve Domestic Diagnostic and Treatment Capacity	10829
 Inclusive Dialogue and Coordinated Action Coordination	11907
 Inclusive National Dialogue	9227,732
+Inclusive Sector Dialogue and Coordinated Action	12175
+Infections Diabetes	12151
 Institutional and Legal Diagnosis	12008
 Integrated Electronic Diagnosis Approach	10881
 Integrated Specimen RefeITal System and Diagnostic Network	4153
@@ -505,6 +524,7 @@ Multi Stakeholder Dialogue	1332
 Multi-Stakeholder Dialogues Cross-sector	7548
 Multi-stakeholder Dialogue	6113
 Mutual Aid and Diaspora Alliances	6947
+N T Ethiopia Tax Administration Diagnostic	12225
 NATIONAL DIALOGUE Engagement	4528
 National Data Strategy. DIAL	2118
 National Dialogue	9227,1997
@@ -547,6 +567,7 @@ Par M. DIALLO	10565
 Parental Dialogue	6122
 Partnership Dialogue Facility FL Foyer Lumineux	10975
 Permanent Dialogue Groups	11900
+Pipeline Pipeline Diameter Pipeline	12256
 Policy Dialogue	1818,3510
 Pour Ahmed Karifa Diawara	6080
 Pour Ibrahima Diallo	9845
@@ -576,6 +597,7 @@ Relatório de Diagnóstico Jurídico Institucional	11456
 Remote Diagnostics and Monitoring Beyond	5378
 Resident Representative Aissatou Diallo	1751
 Revival Innovation Hub and DIAMBILAY	1857
+Road Traffic Diarrhea Accidents	12151
 Rosário and Dias	2093
 Rwandan Society Tshisekedi Accepts National Dialogue	3245
 République Bassirou Diomayè Diakhar FAŸE	11139
@@ -611,7 +633,7 @@ Systems Diagnostic Assessment Project	11986
 Sénégal. Dia	7106
 Sénégalais Ibrahim Dia	11652
 Talent Retention and Diaspora Engagement Zimbabwe	4528
-Tax Administration Diagnostic Assessment Tool	10519,465
+Tax Administration Diagnostic Assessment Tool	10519,465,1241
 Thematic Dialogue	4738
 Theory-Informed Diagnostic Vignettes Cross-domain	7966
 Thierry Diasnoma	9997

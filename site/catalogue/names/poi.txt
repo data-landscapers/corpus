@@ -6,6 +6,7 @@ ADDRESS POINT LIMITED Data Controller INST-952593C30A0	7167
 AI Focal Points	7548
 ARPCE Pointe-Noire	6455
 Access Point	8670
+Access Point Name	12241
 Access Point Providers	7746
 Access Point Providers and System Integrators	7746
 Access Point Providers and System Integrators. Every	7746
@@ -70,6 +71,7 @@ DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
 Demand Points and ICT Training DBI	11857
 Demerit Points System	11774
+Deployment of Access Point Name	12241
 Digital Access Points Operators	10856
 Digital Economy Focal Points	11545
 ECOWAS National Focal Points	10508
@@ -81,6 +83,7 @@ Educare Point Limited Data Processor INST-35748873455	7167
 Emerging Technologies Focal Points	7548
 Entry Point for U.S.-Africa AI Partnerships	6790
 Establish Focal Points	1000
+Ethiopia's New Digital Strategy Poised	12183
 Exchange Point JTB Joint Tax Board	11857
 Exchange Points	961
 Exchange Points FMCT	11857
@@ -125,7 +128,7 @@ Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 KENYA The Pharmacy and Poisons Board	9854
 KEY POINTS	6377
-Kenya Internet Exchange Point	7548
+Kenya Internet Exchange Point	7548,4689,46
 Kenya Internet Exchange Point KLRC Kenya	7548
 Key Entry Point for Cyber Risk	9815
 Key Focal Point Departments	11905
@@ -143,6 +146,7 @@ MMG. A Technical Focal Point	2889
 MOMO Focal Point	9699
 Manufacturer POP Point of Presence PUE Power	10781
 Manufacturer PoP Point of Presence PUE Power	10861
+Mastercard Interface Point	12273
 Mauritius Internet Exchange Point	3292
 Merchant Point-of-Sale	6453
 Message Structures Service Point Application Enterprise	21
@@ -155,6 +159,8 @@ Muster Point	1988
 N Operator Number of Points of Presence	3862
 National Key Points Act	5161
 National Signalling Point Codes	6946
+National Traffic Point-Based Penalty Management	12200
+National Traffic Point-Based Penalty Management System	12200
 OTC Over-the-Counter PPB Pharmacy and Poisons Board	9855
 Offices Operational Service Points Fix Service	8999
 Outside Brazzaville and Pointe-Noire	11905
@@ -175,9 +181,9 @@ Partners Exchange Point C- Connectivity Resilience	7548
 Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 PfoR Focal Points DLI	11905
-Pharmacy and Poisons	9855
+Pharmacy and Poisons	9855,2288
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317
+Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317,558
 Poids	2342,624,8978
 Poids des IPP	10975
 Poids des MPME	11944
@@ -186,6 +192,7 @@ Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218
 Point Application	21
+Point Azhar Malik UNDAF Outcome	12241
 Point Configuration	736
 Point Configuration. PART VI Private Radio	736
 Point Focal	7675,1602
@@ -203,7 +210,7 @@ Point de Vue	9993
 Point of Common Coupling	11269
 Point of Contact	11190
 Point of Presence	2913,226,723
-Point of Sale	1925,924,28,1848,1728,9,516,931,169,40
+Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
 Point of Sales	4630,50,637,6721
@@ -212,7 +219,7 @@ Point-	736
 Point-in-time	10985
 Point-of-Sale	7689,114,125,250,1983,602,356,15
 Point-of-care	10188
-Point-of-sale	5513
+Point-of-sale	5513,6758
 Point-to	736
 Point-to Multipoint	736
 Point-to-	736
@@ -228,7 +235,7 @@ Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70,1304,
 Pointe-Noire and Brazzaville	11905,19
 Pointe-NoireBrazzaville	6067
 Pointing	34,9642,1419
-Points	164,6795,696,1582,1263,211,165,376,683,108,85
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
 Points Weight	10785
@@ -243,6 +250,7 @@ Poirier	2093
 Poised	11469
 Poisons	9855
 Poisons Board	9855
+Poisons and Medicines Regulatory Authority	12253
 Postal Facility Delivery Point	11129
 Posts and Points and Customs	10762
 Preference Point System All	11209

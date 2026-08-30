@@ -16,7 +16,7 @@ COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
 CRA Iraq Yes Fixed Broadband Policy	11529
 Cameroon's Camtel Expands Fiber Network and Fixed	3528
 Chief Fixed Network Officer	9528
-Connectivity Fixed	11884
+Connectivity Fixed	11884,321
 Coverage of Fixed Assets	11955
 Câmara Fixa	794
 DATE FIX	4964
@@ -74,7 +74,7 @@ Fixate	7751
 Fixating	9759
 Fixação	11518,2
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
@@ -180,7 +180,7 @@ Fixed Wired	3862
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
 Fixed Wireless	3862,2809
-Fixed Wireless Access	2528,2808,339,325,4793,165
+Fixed Wireless Access	2528,2808,339,325,4793,165,1357
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736

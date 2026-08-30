@@ -66,9 +66,11 @@ Dienstleistungen Ausschreibungsweite	8546
 Diep Rivier	9617
 Diepeveen and Deshmukh	7242
 Diepsloot	10595
-Diesel	1828,1726,2246,3839,1658,543,113
+Diesel	1828,1726,2246,3839,1658,543,113,300,3
 Diesel CSP Biomass Biogas BESS	11236
 Diesel Coal Imports Nuclear	11953
+Diesel GWh Micro	12256
+Diesel Generator Sets	12253
 Diesel Imports Nuclear	11953
 Diesel Price	1828
 Diesel Problem Nobody Wants	5200
@@ -90,6 +92,7 @@ Dieudonné Bwitonzi	7955
 Dieudonné Kamuleta	8345
 Dieye	8151
 Direct Investment DIE Direct Investment Enterprise	2775
+EV Other Hybrid Diesel Gasoline Figure	12233
 FBI San Diego	11342
 FBI San Diego Field Office	11342
 FBI’s San Diego Field Office	11342
@@ -98,6 +101,7 @@ Fodé Dieme	6963
 Fodé Dieme Director of Methodology	6963
 Founder of PACE ANSD's Fode Dieme	6963
 Full Pass-Through Price Gasoline Diesel Sources	1828
+GIZ's Paul Dielemans	12141
 GOVERNMENT GAZETTE STAATSKOERANT VAN DIE REPUBLIEK	11178
 Gasoline Diesel Kerosene Jet	1828
 Gasoline Diesel Sources	1828
@@ -111,11 +115,13 @@ J. Dietrich	11140
 KANTOOR VAN DIE PRESIDENT No	11178
 LOUANGE A DIEU SEUL	17,291,427
 M. DIEME	7484,907
+MW of Medium Speed Diesel	12256
 Madame Fatou GUEYE DIENG Adjoint	10237
 Madame Marième DIENG	8269
 Malual Tap Dieu	6259
 Mariama DIEME	10512
 Maïmouna Dieng	10493
+Medium Speed Diesel	12256
 Mme Dieng. Elle	10493
 Moustapha Dieng	7804
 Ndeye Fatou Dieng Gueye	7796

@@ -24,7 +24,7 @@ Additional Financing AFD French Development Agency	11924
 AfD-Bundestagsabgeordnete Edgar Naujok	11316
 AfD-Bundestagsfraktion	11316
 AfDB Africa Information Highway Portal	11863
-AfDB African Development Bank	11887
+AfDB African Development Bank	11887,266,1,9
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWRI Country	10841
 AfDB African Development Bank ARR Annual	11380
@@ -59,7 +59,7 @@ AfDB and IsDB	1406
 AfDB and MCDF	9988
 AfDB and Standard Bank	9702
 AfDB and WBG	4214
-AfDB&AUC	10759,76,2,1,130,902,16,2,1
+AfDB&AUC	10759,76,2,1,130,902,16,2,1,264,1,9
 AfDB's Data Innovation Lab	4214
 AfDB's Governance and Economic Reform Department	4181
 AfDB's Statistics Department	4214
@@ -94,6 +94,7 @@ Co-financier AfDB	1570
 Co-financiers AfDB	1406
 DVV International AFD Présidium	2966
 Description First AFD	1043
+Development Bank AfDB Automotive Gas Oil	12256
 Die AfD-Bundestagsfraktion	11316
 EUR45.5m AfDB	803
 EUR7m AfDB and EUR3.5m European Union	9463

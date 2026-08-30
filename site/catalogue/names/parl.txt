@@ -45,6 +45,7 @@ Consumer Parliament	5676
 Containing the European Parliament’s Recommendations	1243
 Continental Legislature The Pan-African Parliament	8012
 Corisco Funcionamiento Grupos Parlamentarios	4209
+Council of Ministers and Parliamentary Committee	12225
 Court of Account and Parliament	969
 Court of Accounts and Parliament	969
 D IE PARLEMENT van Suid-Afrika	11190
@@ -61,10 +62,11 @@ Elemento Seguridad Parlamentaria	4209
 Embrace Innovation and Modern Technology Parliament	6077
 Emmanuel Rono Parliament	9940
 Eswatini Parliamentary Portfolio Committee	5733
+Ethiopian Parliament	12188
 Ethiopian Parliament Ratifies	7091
 Europe. European Parliament	1243
 European Parl	11155
-European Parliament	789,454,571,303,2559,1801,40,564,391,349,193,333,89,631,765,987,37,194,85,19,1
+European Parliament	789,454,571,303,2559,1801,40,564,391,349,193,333,89,631,765,987,37,194,85,19,1,1046
 European Parliament The President R	7855
 European Parliament Think Tank	11155
 European Parliamentary Research Service	10088
@@ -97,10 +99,11 @@ Information Regulator. Parliament's Portfolio Committee	9234
 Interventor de Cuentas Parlamento Jefe de Coordinación	4209
 JSON JSON Groupes Parlementaires Groupes	9480
 Jefe Económico Parlamento Inspector Grupo	4209
-Joint Parliamentary Committee	9214
+Joint Parliamentary Committee	9214,3105
 Judiciary and Parliament	2775
 Kenya Briefs Parliament	5536
 Kenya's Parliament	4592,2211
+Kenyan Parliament	12139
 Laboria Park Parliamentary Village	11285
 Le Parlement	6740,1254,2582
 LeMBa Clerk of Parliament	1593
@@ -142,6 +145,8 @@ Mwanza Central Member of Parliament Felix Njawala	7556,1
 Médico Forense Portavoz Adjunto Grupo Parlamentario	4209
 NDGC and Parliament	3861
 National Assembly Parliament	11289
+National Parliament and Provincial Assemblies	12201
+National Parliament. Voters	12201
 National Treasury and Parliament’s Standing Committee	7096
 Notícias Parlamento	1265,3,468
 O Parlamento	5467
@@ -199,10 +204,11 @@ Parler	10354
 Parlez-nous de CITADEL	2732
 Parlez-nous de VaulFi	5159
 Parliame	5533
-Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41
+Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,24,2,5,62,16,9
 Parliament Approves Draft Law	5674
 Parliament B	5533
 Parliament Building	5386
+Parliament Buildings	12310
 Parliament By Arthur Arnold Wadero	1210
 Parliament Chairperson	11256
 Parliament Computerisation	5631
@@ -270,6 +276,7 @@ Parliament. Organised	7650
 Parliament. Relatedly	10890
 Parliament. SFT	10313
 Parliament. Section	3307
+Parliament. State Minister for Works Mr. Free	12319
 Parliament. The Committee	11289
 Parliament. The DHA	5533
 Parliament. Under	6816
@@ -280,7 +287,7 @@ ParliamentKE Jamii Telecommunications Limited	9940
 Parliamentarian Track	10707
 Parliamentarians	1814,9471
 Parliamentarians Roundtable	11285
-Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96
+Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96,912,24
 Parliamentary Act	3861
 Parliamentary Action	8015
 Parliamentary Affairs	2428
@@ -288,7 +295,7 @@ Parliamentary Approval	10313
 Parliamentary Bills	1243
 Parliamentary Budget Office	6463
 Parliamentary Centre	8090,1113
-Parliamentary Committee	1988,926,2449,148,552,470,2428,160,220,2768
+Parliamentary Committee	1988,926,2449,148,552,470,2428,160,220,2768,210
 Parliamentary Committee of Supply	2576
 Parliamentary Debates	1283
 Parliamentary Establish	7548
@@ -370,10 +377,12 @@ South Africa's Parliament	11303,593
 South Sudan Parliamentary Network	7749
 Speaker of Parliament	5935,11,3175,2974
 Speaker of Parliament Hon. Segepoh Solomon Thomas	11651
+Speaker of Parliament Mr. Jacob Oboth-Oboth	12319
 Speaker of Parliament Segepoh Solomon Thomas	9096
 THIRTY-EIGHTH ACT OF THE PARLIAMENT	587
 TOR Terms of Reference TPTTP Taking Parliament	11197
 Temba Gubula Parliamentary Communication Services	9883
+Transport Committee of Parliament. Nyirenda	12309
 Travail Parlementaire	9480
 Tunisian Parliament	1637,3464
 UK Parliament	1243

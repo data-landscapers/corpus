@@ -23,8 +23,9 @@ DPI Electronic Immunization Register	5225
 Data Commissioner Immaculate Kassait	2668,2948,2017,2705
 Data Practices The Data Commissioner Immaculate	2668
 Data Protection Commissioner Immaculate Kassait	7177
-Department of Immigration	1882,2,2506,857,3048,1021
-Department of Immigration and Citizenship Services	7070
+Department for Immigration and Citizen Service	12151
+Department of Immigration	1882,2,2506,857,3048,1021,2975
+Department of Immigration and Citizenship Services	7070,5147
 Department of Immigration and Civil Status	1884
 Diplomatic Data and Sovereign Immunity	3861
 Director General of Immigration	3432,1236
@@ -35,6 +36,8 @@ Directorate General of Immigration and Emigration	4969,5184
 Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748
 Directorate of Civil Registration and Immigration	9122
 Directorate of Civil Registry and Immigration	7931
+Directorate of Immigration	12227
+Directorate of Immigration Services	12227,66
 Dr. Belio Kipsang of Immigration and Citizen Services	5536
 EDT U.S. Immigration and Customs Enforcement	9747,54,3,23
 Electronic Immunization Register	5225
@@ -54,6 +57,7 @@ Gambia Immigration Department Application	12085
 Gambia Immigration Department Bill	3061
 Global Alliance for Vaccines and Immunization GBT	10776
 HIV Human Immunodeficiency Virus POPI Protection	396
+HYDROFLUOROCARBONS HUMAN IMMUNODEFICIENCY VIRUS HIV	12253
 Herman Immongault	8925
 Hermann Immongault	4125,2250,893,273,4550,20
 Home Affairs and Immigration Minister Lucia Iipumbu	2831
@@ -67,6 +71,7 @@ IMMIGRATION	1204
 IMMIGRATION AFFAIRS	5533,6453
 IMMIGRATION AFFAIRS Purpose	11986
 IMMIGRATION AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
+IMMIGRATION AND CITIZEN SERVICES	12165
 IMMIGRATION RAIO	1204
 IMMSA	2342
 IMMUNITIES	4153
@@ -86,7 +91,7 @@ Immediate Cash Flow	11955
 Immediate Matrix	8354
 Immediate Matrix. Individuals	8354
 Immediate Release	4046
-Immediately	1988,1395,200,1313,2302,579,3029,83,71,11,82,598,304,71
+Immediately	1988,1395,200,1313,2302,579,3029,83,71,11,82,598,304,71,169
 Immediately Notifiable Diseases	11912
 Immersive	7751,451
 Immersive Initiative	5852
@@ -100,8 +105,8 @@ Immeuble Postel	7805,1714
 Immeuble Rokhaya	11563
 Immeubles	2476
 Immigra	11280
-Immigration	1618,112,154,79,25,773,14,220,22,571,1248,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30
-Immigration Act	2115,946,2472,1873,439,320,102,2910,41,62,706,130
+Immigration	1618,112,154,79,25,773,14,220,22,571,1248,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178
+Immigration Act	2115,946,2472,1873,439,320,102,2910,41,62,706,130,29,82
 Immigration Act and Regulations	11986
 Immigration Advisory Board	5533,4640,1045
 Immigration Affairs	1617,3916,5685,67,701
@@ -113,19 +118,23 @@ Immigration Court	11986
 Immigration Department	1988,787,840,368,1900,4577
 Immigration FOSAD Clusters	11986
 Immigration Management Services and Civic Services	5533
+Immigration Migration	12164
 Immigration Regulations	5533,5685,768
 Immigration Scalabrini Centre of Cape Town	11986
 Immigration Service	587,11264
-Immigration Services	1730,3803,5685,768
+Immigration Services	1730,3803,5685,768,241
 Immigration Services AG Auditor-General DDG	11986
 Immigration Services Director General	4631
 Immigration Services Signature Mr Thomas Sigama	5533
 Immigration Staff	4101,289
 Immigration System	11986
+Immigration The East African Community	12164
+Immigration URL	12164
 Immigration and Citizen Services	2566,2065
 Immigration and Citizen Services Principal Secretary	2742,183
 Immigration and Citizenship Agency	3408,1902,5211
-Immigration and Citizenship Service	10709
+Immigration and Citizenship Service	10709,1517,24
+Immigration and Citizenship Services	12250
 Immigration and Citizenship System	5250
 Immigration and Communications	10701
 Immigration and Deportation Act	1867,121
@@ -170,9 +179,10 @@ Immunization. Process	8376
 Immunodeficiency Virus HMIS Health Management Information	771
 Immutable	6423,5529
 Immédiate	10876
+JHA.094. Directorate of Immigration Services	12227
 JUIN D’ACTIFS IMMOBILIERS	2342
 John Lokwawi. Data Commissioner Immaculate Kassait	2668
-Kenya Citizenship and Immigration Act	10822
+Kenya Citizenship and Immigration Act	10822,1405,70
 Kenya’s Department of Immigration	1726
 Kiragu Kimani and Immanuel Mbita	9645
 Le VPG Hermann Immongault	12111
@@ -188,13 +198,14 @@ Minister of Public Security and Immigration Ali Ahmat	8171
 Ministry of Home Affairs and Immigration	8960
 Ministry of Public Security and Immigration	10841
 Ms. Immaculate Irungu	11086
+NIDP and Immigration and Citizenship Services	12188
 National Identity Management Database and Immigration	7914
 National Immigration Information System	5533,6453
 National Immunization Days	10776
 National Immunization Program Number	10829
 National Immunization Program. Method	8376
-Nigeria Immigration Service	4102,18,1440,165,964,681,191,879,2879,609
-Nigerian Immigration Service	7651
+Nigeria Immigration Service	4102,18,1440,165,964,681,191,879,2879,609,217
+Nigerian Immigration Service	7651,4494
 Number of Immediate Case Notification Forms Compared	11912
 Nyandarua County Assistant Director for Gender Immaculate	11086
 P362m for Immigration and Citizenship	5634
@@ -217,6 +228,7 @@ Privileges and Immunities	4049,198,55,6411
 Privileges and Immunities Act	6231
 Publication des PRMP Immédiatement	10876
 Regional Office Immeuble CAMPOST	11563
+Registration Organ Immigration and Citizenship Service	12226
 Regulator of Immigration Law	10841
 Republic of South Africa. Immigration	5533
 Republic of Zambia HIV Human Immunodeficiency Virus	1988
@@ -224,13 +236,16 @@ Resilience HEPRR Human Immunodeficiency Virus HIV	11417
 Revision of Immigration	11986
 Route du Méridien Président Immeuble Rokhaya	10764,80
 Rwanda's Director General of Immigration and Emigration	8295
+STATE DEPARTMENT FOR IMMIGRATION AND CITIZEN	12165
 Sanyang Immigration Office The Government	12085
 Senegal. Immediate	4848
 Société des Opérations Foncières Immobilières du Cameroun	10987
 Sovereign Immunity	3861
 Sovereign Immunity Nothing	3861
+State Department For Immigration and Citizen Service	12151
 State Department for Immigration	1745,2
-State Department for Immigration and Citizen Services	5299,848,636
+State Department for Immigration and Citizen Services	5299,848,636,5368,6,97,39,7,23
+State Department for Immigration and Citizen Services URL	12323
 State Department for Immigration's KES	1731
 State Department of Immigration and Citizen Services	3936
 State Dept for Immigration	1745,2,3552

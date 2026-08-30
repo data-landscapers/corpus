@@ -112,6 +112,7 @@ NITDA. All SIs	11995
 Naing Ngan Thar Sisityay Card	10714
 Ndiame Diop Michel Rogy Fily Sissoko	4653
 Nokuzola Sisisi Tolashe	3504
+Notariado SISTEMA DE REGISTO CIVIL	12156
 Nova Lei Procura Acompanhar Um Sistema	8003
 Noção Por Sistema Estatístico Nacional	11516
 Número de Sistemas	2816
@@ -165,6 +166,7 @@ SIM Subscriber Identification Module SIRC Sistema	10765,10
 SIS Angola	10780
 SIS Bill	8611
 SIS de Angola. Para	10780
+SIS-H	12207
 SIS-LAB	4260,6
 SIS-MA	2228,2032
 SIS-MA OU RELATORIO DO SECTOR	4260
@@ -192,9 +194,10 @@ SISSILI Garçons	10847
 SISSILI Privé ZIRO	10847
 SISSILI TX Prom	10847
 SISSILI ZIRO	10847
+SISSMO	12142
 SIST. DE INFORM. SAN	4209
 SISTAE	574
-SISTAFE	795,3465
+SISTAFE	795,3465,7882,128
 SISTAFE FM	4653
 SISTAFE Law	1829
 SISTEMA DE EDUCAÇÃO	10766
@@ -266,6 +269,7 @@ Sistema Gestao Orcamental	574
 Sistema Gestor de Base de Dados	12021
 Sistema Informatizado	10754
 Sistema Informático	11528
+Sistema Informático de Registo Predial	12137
 Sistema Integrado	10772
 Sistema Integrado de Compensação Interbancária	11933
 Sistema Integrado de Emissão	11371
@@ -324,6 +328,7 @@ Sistema Nacional de Planificación Territorial	1701
 Sistema Nacional de Protección Social	1701
 Sistema Nacional de Protecção Social	11378
 Sistema Nacional de Proteção Social	11547
+Sistema Nacional de Registo Civil	12142
 Sistema Nacional de Regulação	2816
 Sistema Nacional de Salud	4209
 Sistema Nacional de Saúde	4754,266,2322,2457,1788,429
@@ -359,7 +364,8 @@ Sistema da Identidade Digital	11480
 Sistema da Protecção Social Obrigatória	11433
 Sistema de Abastecimento	1265
 Sistema de Administración de Justicia	1701
-Sistema de Administração Financeira	795
+Sistema de Administração Financeira	795,11347
+Sistema de Administração Financeira Estadual	12142
 Sistema de Administração Territorial	11898
 Sistema de Administração de Monitoria de Projectos	414
 Sistema de Assinaturas Electrónicas	11461
@@ -459,7 +465,7 @@ Sistema de Recolha	11480
 Sistema de Referência	11405
 Sistema de Referência Geográfica	11405
 Sistema de Registo	795
-Sistema de Registo Civil	10775,705,57
+Sistema de Registo Civil	10775,705,57,605
 Sistema de Registo Comercial	11480
 Sistema de Registo de Eventos Vitais	11537
 Sistema de Registo de Propriedade Automóvel	11480

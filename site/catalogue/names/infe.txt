@@ -1,4 +1,6 @@
+Accidents Road Traffic Accident Respiratory Infections	12151
 Acute Respiratory Infections	21
+Anaemia Infections Cardio Pul-	12151
 Autodeclaração de Infecções de Transmissão Sexual	10777
 Centre for Infectious Disease Research	10374
 Controlo de Infecções PdE Pontos de Entrada PFN	11376
@@ -11,6 +13,19 @@ Infecciones de Transmisión Sexual KDI	1701
 Infection Prevention and Control	4301,6475
 Infection Prevention and Control IIMS	10776
 Infection Prevention and Control Section	11596
+Infections	12151
+Infections Arrest	12151
+Infections Cardio Pul- Cardiorespirato- Cardiopulmo-	12151
+Infections Diabetes	12151
+Infections Every	12151
+Infections HIV	12151
+Infections Heart Diseases	12151
+Infections Infections	12151
+Infections Infections Cardio Pul-	12151
+Infections Infections Diseases	12151
+Infections Kenya Vital Statistics Report	12151
+Infections Meningitis	12151
+Infections Results	12151
 Infections and RUTF Malaria	4217
 Infectious	1988
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
@@ -38,7 +53,10 @@ National System for Healthcare-Associated Infection	4202
 PHYLogeny Inference Package	9475
 Paridade de Género Infecção Respiratória Aguda Infecções	10777
 Procurement STI Sexually Transmitted Infection TFP	10829
-Sexually Transmitted Infections	1988
+Respiratory Infections	12151
+Respiratory Infections Infections Diseases	12151
+SEXUALLY TRANSMITTED INFECTION WAN	12253
+Sexually Transmitted Infections	1988,10265
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777

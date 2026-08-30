@@ -1,18 +1,28 @@
 Accountability Configuration. Stage	8283
 Acronym Definition STAGES Screen Talent and Global	5533
 Appraisal Stage	1260,312,132,549,38,1165,7507
+Appraisal Stage PID	12137
+Appraisal Stage. Date Prepared	761
 Average TOP INVESTMENT STAGE Seed	4972
 Average TOP INVESTMENT STAGE Venture Debt	4972
+Basic Stage The Economy Pillar	12214
+Business RATING BASIC STAGE Malawi	12214
 Bylaws Amendment Process Stage	5853
 COST Stage of Project Cycle No. of Staff	11924
 Centre Stage	10328
 Clear. Stage	8283
 Complaint Stage Recommended Timeline Acknowledgement	5676
 Concept Stage	1193,1929
+Consumer Protection RATING SYSTEMATIC STAGE	12214
 Countries Project Definition Project Stage Project	10892
+Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
+Cybersecurity RATING SYSTEMATIC STAGE The National	12214
 DEAL COUNT PER STAGE	10954
 DEVELOPMENT STAGE	9458
+Data Exchange RATING OPPORTUNISTIC STAGE Malawi	12214
+Data Protection RATING SYSTEMATIC STAGE Malawi	12214
 Decision Authority. Stage	8283
+Digital Stages of Readiness Results	12214
 EARLY STAGE OF DEVELOPING NATIONAL	1243
 Early Deployment and Stage	8283
 Early Stage	4972
@@ -20,35 +30,56 @@ Early Stages Accelerate	4972
 Effectif Pourcentage Stage	10975
 Equipment Staging and Storage Datacenter	9123
 FUNDING AMOUNT PER STAGE	10954
+Fair Market Competition RATING OPPORTUNISTIC STAGE	12214
+Financial Services RATING SYSTEMATIC STAGE Malawi	12214
 First Stage	11240
 French. Staged	7417
 Global Stage African	4972
 Governance Shift. Stage	8283
 I-Led. Stage	8283
 INVESTMENT STAGE FOCUS	4972
+ISDS Concept Stage. Date Prepared	12137
+Identification Stagnant	12214
+Innovation Ecosystem RATING OPPORTUNISTIC STAGE Malawi	12214
 Investment Stage Focus Late Stage	4972
 Late Stage	4972
 Late Stage Remains Elusive Beneath	4972
 Late Stage and AI-Led	4972
 Late Stage. Activity	4972
+Leadership and Strategy RATING OPPORTUNISTIC STAGE	12214
 M.A. Staging Sovereignty	7810
+MEASURE Evaluation. Health Information System Stages	12255
 Measured Return Early Stage	4972
 Moderate. Stage	8283
 None Stage	11953
+Opportunistic Stage Digital Public Infrastructure	12214
+Opportunistic Stage The Connectivity	12214
+Opportunistic Stage The Government Pillar	12214
+Opportunistic Stage of Digital Readiness	12241
 Original Research Stage	9129
 PID Concept Stage	1193,706,1223
+Payments RATING OPPORTUNISTIC STAGE	12214
 Process Autonomy. Stage	8283
 Project Stage E&S E&S Management Procedures	1988
 Provenance Staged	7850
+RATING BASIC STAGE Malawi's Access Enablers	12214
+RATING OPPORTUNISTIC STAGE	12214
+RATING OPPORTUNISTIC STAGE In Malawi	12214
+RATING OPPORTUNISTIC STAGE Malawi	12214
+RATING SYSTEMATIC STAGE The National Digitalization	12214
 REVISED STAGE	3123,1
 Rostow's Stages of Growth	1554
+STAGE Digital	12214
+STAGE Open	12214
 STAGED BY RECONCILE	3840,4160,807
 STAGES	5533,3717,1986
 STAGING NOTE	2574
+SYSTEMATIC STAGE FIGURE	12214
 Schools Takes Centre Stage	5606
 Second Stage	11240
 Seed and Early Stage	4972
-Stage	408,155,680,8,1,1,1,1,15,2,1,1,1,10,1,5,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,81,1,32,1,9,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,55,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,10,1,78,17,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,320,1,1,1,1,1,89,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,158,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,172,224,1,58,11,80,90,1,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,20,1,54,1,1,1,1,1,1,143,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,36,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,78,156,89,74,131,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,427,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,152,207,1,170,237,1,1,1,93,62,108,218,1,1,1,1,1,1,1,1,23,139,1,1,1,1,1,1,1,1,1193,846,169,1656,21,29,127,25,84,12,58,631,12,11,31
+Skills and Literacy RATING SYSTEMATIC STAGE Malawi	12214
+Stage	408,155,680,8,1,1,1,1,15,2,1,1,1,10,1,5,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,81,1,32,1,9,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,55,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,10,1,78,17,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,320,1,1,1,1,1,89,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,158,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,172,224,1,58,11,80,90,1,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,20,1,54,1,1,1,1,1,1,143,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,36,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,78,156,89,74,131,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,427,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,152,207,1,170,237,1,1,1,93,62,108,218,1,1,1,1,1,1,1,1,23,139,1,1,1,1,1,1,1,1,1193,846,169,1656,21,29,127,25,84,12,58,631,12,11,31,149,111
 Stage Analytical	1243
 Stage Description Number	9237
 Stage Seed	4972
@@ -61,15 +92,24 @@ Staged for FY2024	2071
 Stages	1828,160,5380,3880,4
 Stages SRD	10975
 Stages Stage	11953
-Stages of Continuous Improvement	1824
+Stages of Continuous Improvement	1824,10431
+Stages of Digital	12214
 Staggering	11214
 Stagiaire	737,2318,400,17,16,145,192,386,340,1171,742,267,575,532,1,1539,1165,307,249
 Stagiaires Africains	8891
-Staging	2378,156,274,43,23,49,122,32,678,590,923,165,20,8,511,1,212,42,5561,1,1,1,1,1,1,1,14,13,1,11,118
+Staging	2378,156,274,43,23,49,122,32,678,590,923,165,20,8,511,1,212,42,5561,1,1,1,1,1,1,1,14,13,1,11,118,301
 Staging All	9123
+Staging Room	12253
+Staging Room Power Room Split	12253
 Staging Sovereignty	7810
 Stagnation	6338
+Standard of Responsibility RATING BASIC STAGE Malawi	12214
 Startups and Innovators Program Support Stage-appropriate	11345
 System Status. Stage	8283
+Systematic Stage	12214
+Systematic Stage Regulation	12214
+Systematic Stage The People Pillar	12214
+Systems RATING OPPORTUNISTIC STAGE Malawi	12214
 Third Stage	11240
 Uganda’s Digital Future Takes Centre Stage	8730
+Usage and Adoption RATING SYSTEMATIC STAGE	12214

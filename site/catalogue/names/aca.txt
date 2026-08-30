@@ -46,7 +46,7 @@ Academia. Na Figura	2816
 Academia. Tem	2816
 Academias TIC	10490
 Academia’s Role	10776
-Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595
+Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350
 Academic Advisor Jayant Vijayakumar	4656
 Academic Affairs	6936
 Academic Affairs Hospitality Services Internal Audit	10123
@@ -63,11 +63,12 @@ Academic City University. References Cybersecurity Act	6936
 Academic City University. Sean Ofori Addo	6936
 Academic Conferences International	9237
 Academic Forum	8460
+Academic Institutions	12241
 Academic Journal of Interdisciplinary Studies	2093
 Academic Lead	5598
 Academic Librarians	8022
 Academic Partnerships and Global Health	10776
-Academic Press	8130
+Academic Press	8130,4167
 Academic Security Operation Center	11077
 Academic SuQport	11180
 Academic and Research Institutions	1261
@@ -112,12 +113,14 @@ Bloomsbury Academic. Hao	11050
 Blossom Academy	4126
 Bridge Academies	10290
 CHRISTS GIFT ACADEMIES Data Controller INST-9898680D571	7167
+CISCO Digital Academies	12241
 CITY ROSE ACADEMY LIMITED Data Processor	7167
 CUNY Academic Works	1261
 China Academy of Information and Communications Technology	7174,4628
 China’s Academy of Military Sciences	8510
 Chris Hani Baragwanath Academic Hospital George	11248
-Cisco Networking Academy	2149,948,37,4345,2142,134,492,1461
+Cisco Academy	12241
+Cisco Networking Academy	2149,948,37,4345,2142,134,492,1461,533
 Cisco Networking Academy's One Million Learners	8512
 Civic Academy for Africa’s Future	10089
 Classe Acadêmica	11569
@@ -170,7 +173,7 @@ Google Hustle Academy	1362,4888
 Google Hustle Academy. The Hustle Academy	1363
 Google’s Hustle Academy	1362,1
 Google’s Hustle Academy. The Google Hustle	1362
-Governance Academy	169,1649,657,3883,1000,1,4035
+Governance Academy	169,1649,657,3883,1000,1,4035,744
 Government Blockchain Academy	9170
 Government and Academia CSIRTs Finalize the TORs	2989
 Government and Academic CSIRTs	2989
@@ -193,6 +196,7 @@ Hustle Academy	1362,1,4402
 Hustle Academy. Self-interested	1363
 IBTC DC Academy	11491
 ICT. Rwanda Coding Academy	770
+IFMIS Academy About Academy Training Schedule	12322
 INTELLIGENCE ACADEMY	11277
 ITU Academy	8945
 Industry-Led Skills Academies	4528
@@ -222,10 +226,12 @@ Mkhari Academic Hospital Health Construction	11248
 Morningside Design Academy Fellowship	11909
 Mérito Académico	11387
 NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
+NGOs ACADEMIA	12214
 Nairobi Jiu-Jitsu Academy	10464
 Namibia. Academic	5036
 National AI Academy	7853,678
 National AI Governance Academy	4528
+National Academies of Sciences	12265
 National Research and Academic Network LTA Liberia	1777
 Networking Academy	10247
 Nigeria Startup Digital Innovation Academy Establishment	11309
@@ -252,6 +258,7 @@ Refactory Academy Digital Solutions Expo	6865
 Regional Somali Language Academy	10451
 Registros Académicos	4209
 Requisitos Académicos Específicos. Os	11472
+Researchers Academia H H University of Nairobi	12210
 Rising Academies	6232
 Role of Academia Academia	4528
 Rwanda Coding Academy	697,73,6727,409,933,2505

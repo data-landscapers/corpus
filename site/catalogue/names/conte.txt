@@ -2,12 +2,13 @@ A. CONTEXT AT APPRAISAL Context	11924
 A. COUNTRY CONTEXT	11863
 A. Context	1828
 A. Contexte	1218
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271
 A. Introduction and Policy Context	10997
 AACB TABLE OF CONTENTS FOREWORD	6938
 ABOVE. Contents Gazette Page No. No	1009
 AFRICAN POLICY AND LEGISLATIVE CONTEXT	961
 AI Bounty Contests and Red-Teaming	1814
+AI National Context	12210
 AI. Context	3187
 ANNUAL REPORT TABLE OF CONTENTS Acronmys	1154
 ANNUAL REPORT TABLE OF CONTENTS Acronyms	1554
@@ -21,7 +22,7 @@ Activités Contenu	12043
 Admits Paid Content Boosting Sources	9404
 Adquisición de Contenido Internacional	4209
 Affaires Contentieuses ST	10975
-African Context	7548,2467
+African Context	7548,2467,2195
 African Context Across Africa	7548
 African Contexts	899,7848
 African Development Context. ID4AFRICA. RWANDA NATIONAL	10819
@@ -38,10 +39,12 @@ Audio and Audio-Visual Content Services and Online Safety	11230
 Audit Trail and Node Authentication Clinical Context	1009
 Awareness Campaigns Updated Content and Wider Reach	1777
 B. Contents	1638
+B. Introduction and Context	761
 B. Introduction and Context Country Context	1704,587,1165,7507
+B. Introduction and Context Mozambique	12137
 B. SECTOR AND INSTITUTIONAL CONTEXT	11863
 B. Sector and Institutional Context B.1 Cabo	11863
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50,271
 B. Sectoral and Institutional Context Public Financial	969
 B. Sectoral and Institutional Context Sectoral	11560
 B. Sectoral and Institutional Context Social Safety	10964
@@ -90,7 +93,7 @@ CONTENT SECURITY INFORMATION FRAUD NO COVERAGE	11004
 CONTENT SECURTIY TRUST FRAUD NO COVERAGE	11964
 CONTENT Table Of Content	958
 CONTENTIEUX	998
-CONTENTS	3787,1096,6114,187,32
+CONTENTS	3787,1096,6114,187,32,1016
 CONTENTS Acronyms	9616,1540
 CONTENTS Agradecimentos	11376
 CONTENTS CHAPTER	3862
@@ -170,7 +173,8 @@ Contenciosos	4209
 Contención	1701
 Contender	8893
 Contender Typology and Electoral Dynamics	10062
-Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92,105,21,307,149
+Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92,105,21,307,149,140,15,24,41
+Content Accessibility Guidelines	12227
 Content Advisor	11285,4
 Content And Applications	958
 Content Classification and Online Safety	5189
@@ -206,7 +210,7 @@ Content. Sonoo	10729
 ContentEnabled	10848
 Contentieuses	10975
 Contentieux	17,6819,2206,1670,190,73
-Contents	408,205,209,616,312,480,1180,93,211,1237,679,45,1,1,1,1,1,1,59,40,148,807,176,24,62,224,530,308,548,418,78,1709,101,1,6,2,84,1041
+Contents	408,205,209,616,312,480,1180,93,211,1237,679,45,1,1,1,1,1,1,59,40,148,807,176,24,62,224,530,308,548,418,78,1709,101,1,6,2,84,1041,209
 Contents Abbreviations	4127,7425
 Contents Acknowledgements	10901
 Contents Acknowledgments	11149
@@ -216,17 +220,21 @@ Contents Contents	12006
 Contents Definitions	11017
 Contents Executive	6948,3984
 Contents Executive Summary	1814
-Contents Foreword	4528
+Contents Foreword	4528,7686
 Contents Gazette Page Government Notices	12047
 Contents IV Introduction	11879
 Contents Introduction	2958,8018,28,396,474,90
 Contents Introductory Comments Summary Findings Detailed	7869
+Contents List of Acronyms	12175
 Contents PART	11197
 Contents Part	2709,8528
 Contents Preface	11258,28
+Contents Program Information	12138
 Contents Public Disclosure Authorized Results Framework	11469
+Contents Recommendations4	12227
 Contents Results	10793
 Contents THE NATIONAL CYBERSECURITY STRATEGY	1000
+Contents of Family Registration	12226
 Contenu	1187,614,3159,62,2035,619,1611,55,1500,738,430,33
 Contenu Code des Marchés Publics du Bénin Référence	10876
 Contenu Dahir	17
@@ -235,13 +243,16 @@ Contenus	3069,749
 Contenção	10755
 Conter	11430
 Contested	4772,6256
+Contested Politics of Humanitarian Biometrics	12227
 Contested Technology	11658
 Contesting	11050
 Contesting Dominant Algorithmic Imaginaries	11028
-Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47
+Conteudo	12169
+Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11
 Context Baía de Luanda	11366
 Context Global VC	10954
 Context Implementation of Tunisia	9022
+Context News	12227
 Context Overview Map of IOM Managed IDP	9772
 Context Risk Multiplier	11156
 Context Risk Multiplier Diagnostic Tool	11156
@@ -283,6 +294,7 @@ Contexts	1243
 Contexts Supported	8204
 Contextual	7886,135,1107,1691,374,388
 Contextual AI Ethic	8991
+Contextual Background	12240
 Contextual GBV	11965
 Contextual Infrastructure	10819
 Contextualising	1161,7441
@@ -301,7 +313,7 @@ Conteúdo da Nota de Fundamentação	10783
 Conteúdo da Proposta	11456
 Conteúdos	2816,7931
 Convenience and Context-Specific Processes	10775
-Country Context	10763,432,765
+Country Context	10763,432,765,183
 Country Contexts. Stud Fam Plann	10881
 Country Profile Contents	11881
 Country’s’ Project Performance and Similar Context	11863
@@ -353,6 +365,7 @@ Enterprise Content Management	8632
 Enterprise Content Management GJ	11435
 Enterprise Content Management System	9310
 Ethiopia Contents	1597
+European Union. TABLE OF CONTENTS I	12201
 Evolving Role of Content Providers Content	2830
 Executing Agency COUNTRY AND STRATEGIC CONTEXT	11863
 Experience of Content Moderators	7102
@@ -374,14 +387,14 @@ General Context	5677
 Generation Unlimited. Generation Unlimited Context	899
 Geopolitical Contest India	9431
 Ghana Contents List of Acronyms and Abbreviations	236
-Global Context	2958,2014,2576
+Global Context	2958,2014,2576,4662
 Global Context AI	7548
 Global Context of Artificial Intelligence Ethics	2958
 Global South Context	7548
 Global South Context Across the Global South	7548
 Governments Shape Online Content Moderation	5349
 Grand Bassam Contexte	1005
-Guidelines for Nigerian Content Development	10157,1836,2
+Guidelines for Nigerian Content Development	10157,1836,2,237
 HISTORICAL CONTEXT	9399
 HIV Contem	966
 HL7 Context Management	1009
@@ -393,13 +406,15 @@ I. CONTEXTE DE LA REVUE SECTORIELLE	2966
 I. CONTEXTE ET JUSTIFICATION L'Enseignement Supérieur	12
 I. CONTEXTO	11523
 I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924
-I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345
+I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345,271
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345
 I.1.1 Contexte	10876
+ID PROGRAM Contents Overview	12257
 II Contents Introduction About	11131
 III CONTENTS ACKNOWLEDGEMENTS	1243
 III. Context	3583
+III. POLITICAL CONTEXT	12201
 ILLEGIBLE CONTENT	11240
 INFORMATIONS CONTENUES DANS UN CONTRAT D’OUVERTURE	10836
 INSPEC.GRAL. EMPRESAS CONTENIDO SEGUIMIENTO Y ECONOMÍA	4209
@@ -428,6 +443,7 @@ Julho. Conteúdo	11396
 Justification Contexte	3381
 KEY DIMENSIONS OF CONTEXT RISK MULTIPLIER	11156
 Kenya Institute of Content Development	899
+Kenya Table of Contents	12297
 Kenya Uganda Conclusion Contents Introduction	10822
 LEARNING IS NOT CONTENT CONTACTING CONTENT	11964
 LEGISLATIVE CONTEXT	11196
@@ -437,11 +453,14 @@ Latin American Context	5349
 Lawful Basis and Context of Processing	11956
 Layer Component Description References Contextual	9128
 Learning Digital Content Professional Life Consumption	582
+Legal and Regulatory Environment Global Context	12210
+Life Counts Table of Contents Definition of Terms	12151
 LinkedIn Embedded Content	965,3804,120,206,68,334,86
 Local Content Development	11995
 Local Content Priority	11995
 Local Content Promotion	958
 Low- and Middle-Income Country Context	10881
+MALAWI DIGITAL READINESS ASSESSMENT CONTENTS	12214
 MARKET CONTEXT	1818
 MARKET CONTEXT The Tunisian	1818
 MB Package Contents British	34
@@ -456,6 +475,7 @@ Mapping Content Production	226
 Material Context of Data Processing and Priority	11956
 Media and Content	5183,5,1
 Media and Content MTEF R1.2bn	5183
+Migration Contexts	12227
 Mobile Content	6946
 Mobile Infrastructure Content and Indirect Productivity	6593
 Modern Tax System02 Conclusion03 CONTENT	10762
@@ -463,9 +483,10 @@ Mopti and Koulikoro. Context	6648
 Name of Report Content Time of Submission Inception	962
 Namibian Context	4980
 Nation. Content D5 NIRA Free Collaboration	11857
-National Context	7548,4004
+National Context	7548,4004,658
+National Context Currently	12210
 National Context Guinea-Bissau	11552
-National Context Kenya	7548
+National Context Kenya	7548,4662
 Network TABLE OF CONTENTS	6936
 Nigeria CONTENTS Executive Summary Key Findings	11138
 Non-Western Contexts	6948
@@ -491,17 +512,20 @@ P0211 Contents Page List	11296
 P0301.4 CONTENTS PREFACE	11192
 POLICY AND REGULATORY CONTEXT	1009
 POLICYAND REGULATORY CONTEXT	1009
+POLITICAL CONTEXT Traditional	12201
 POSTAL AND COURIER SERVICES Table of Contents	395
 PSC Avaliacao Laboratorial HIV Contem	966
 PUBLIC PUBLIC TABLE OF CONTENTS Page	1818
 Page Content	9434,1990
 Page No. Gazette No. No. Contents	11213
+Paralympian Zanele Situ. Content	12234
 Pbps. Global Content Provider Bandwidth	1766
 Perspectives Contexte	3381
 Pertinent and Contemporary Issues	899
 Policy Context and Environment	11265
 Policy Context for Nigeria	6442
 Policy and Regulatory Context	1009
+Political Environment Global Context	12210
 Popular Content	6632,366
 Presidential Contest and Coalition Dynamics	7869,53
 Produção de Conteúdos	11444
@@ -514,7 +538,8 @@ REALISE ITS POTENTIAL Table of Contents Executive	899
 REIPPPP Table of Contents	11953
 Rapid Context Analysis. Analytical	10841
 Recurso Contencioso	4274
-Regional Context	7548
+Regional Context	7548,4662
+Regional Context Recent	12210
 Regional Context Within the East African	7548
 Regional Patterns of Content Creation	226
 Regional Policy Context for AI	1814
@@ -547,7 +572,7 @@ Service des Affaires Contentieuses Suivi du Marché	10975
 Shutterstock. DIGITAL SKILLS IN NIGERIA Contents	11879
 Socio-Economic Impact Main Article Content Abstract	8671
 Sponsored Content	767
-Strategic Context	2254,1308
+Strategic Context	2254,1308,8614
 Strategic Context Liberia	1777
 Strategic Context and Market Opportunity	10157
 Support for ICT Local Content. Improving	11857
@@ -568,7 +593,8 @@ TABLE OF CONTENTS Acronyms and Abbreviations	11271
 TABLE OF CONTENTS CORPORATE INFORMATION	4896
 TABLE OF CONTENTS DATA SHEET	11924
 TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50
-TABLE OF CONTENTS EXECUTIVE SUMMARY	940,10271,51
+TABLE OF CONTENTS EXECUTIVE SUMMARY	940,10271,51,991
+TABLE OF CONTENTS Executive Summary	12210
 TABLE OF CONTENTS FOREWORD	34,1127,9819
 TABLE OF CONTENTS GLOSSARY	11857
 TABLE OF CONTENTS I. BACKGROUND	2889
@@ -591,9 +617,10 @@ TABLE OF CONTENTS Why Fuze	6155
 Table Of Contents Page	4848
 Table of Content	582
 Table of Content PART	3861
-Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88
+Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88,249,5
 Table of Contents ABBREVIATIONS	11196
 Table of Contents ABBREVIATIONS AND ACRONYMS	1988
+Table of Contents ACKNOWLEDGEMENTS	12240
 Table of Contents ACKNOWLEDGMENTS	9855
 Table of Contents ACRONYMS	6432
 Table of Contents Abbreviations and Acronyms	10718,123
@@ -616,6 +643,7 @@ Table of Contents. Click	5247
 Take Regarding Presidential Contest	7869
 Teacher Capacity and Content. Policies	899
 Technological Decision Contextual Integration	9129
+Technology Environment Global Context The Global	12210
 Telecommunication Sector Market Report Table of Contents	1013
 Transmissão de Conteúdos Audiovisuais	11430
 Transparency of AI-Generated Content Draft	8529

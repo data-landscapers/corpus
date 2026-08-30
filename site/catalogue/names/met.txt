@@ -9,6 +9,7 @@ AI-ASSISTED METHODOLOGY	5599
 APERÇU METHODOLOGIQUE Le Ministère	10847
 APPENDIX A Methodology and Convening Design	11138
 APPROACH AND METHODOLOGY	236
+APPROACH AND METHODOLOGY TO PREPARATION	12253
 ASPECTOS METODOLÓGICOS	11421
 ASPECTOS ORGANIZACIONAIS E METODOLÓGICOS	10757
 Access Method and Physical Layer Specifications. Amendment	3604
@@ -73,6 +74,7 @@ Control Trial SCM Synthetic Control Method	12006
 Coordenação Metodológica	11406
 Curadoria de Metadados	8000
 Currently Metrics	899
+Cylinders Via Smart Meters	12256
 DATA QUALITY AND METADATA STANDARDS	3861
 DDU Strategy Methodology. J Health Inf	1261
 DEP Methodology MEPPSA	11905
@@ -94,6 +96,7 @@ Design and Methodology	2775
 Development Change and Meteorological	7548
 Development Methodology Report	4359
 Digital ID Access Estimates and Methodology	10714
+Digital Readiness Assessment Methodology. Retrieved	12214
 Director of Methodology	6963
 Directorate Analysis. Method	11986
 Direcção de Metodologia	11449
@@ -148,7 +151,7 @@ ICT and Mangaung Metropolitan Municipality	11231
 ID4D GLOBAL COVERAGE ESTIMATES AND METHODOLOGY	10714
 ID4D Global Coverage Estimates and Methodology	10714
 IDSR. Methods	11912
-IHME Institute for Health Metrics and Evaluation	11887
+IHME Institute for Health Metrics and Evaluation	11887,266,1,9
 IN- Metro and Last Mile Sharing	11857
 INIS Report Methodology for Data Collection INIS	11417
 INTRODUÇÃO E METODOLOGIA DO INQUÉRITO	10777
@@ -176,6 +179,7 @@ Interference Metrics	5245
 Intermediate Results Indicators Mapped Methodology for Data	1284
 International Journal of Qualitative Methods	7278,852
 Intervenants Tâches Délai PRMP Met	10876
+Introduction Methodology	12227
 Investment Metric	7003
 Items for Systematic Reviews and Meta-Analyses	9129
 Ivoire. Methods	10940
@@ -211,10 +215,12 @@ Liquefied Petroleum Gas Smart Meters of HS	6921
 London Metal Exchange	10078
 London Metro	6832
 M Metrics	3972
+MALAWI DIGITAL READINESS ASSESSMENT Methodology	12214
 MAP Meter Assets Provider MDA Ministries	12062
 MASFAMU Methodology for Data MASFAMU	10768
 MDAs Methodology for Data Collection Data	3604
 MDAs. Methodology for Data Collection	3604
+MEDIA MONITORING FINDINGS Methodological	12201
 MEPS and METFPA. Author	2966
 MET Computerisation	1668,977,2998
 METAINFORMAÇÃO	10766
@@ -253,13 +259,16 @@ MPSAM and ONECI Methodology for Data Collection Data	3604
 MTND Methodology for Data Collection Biennial	3604
 MTND Methodology for Data Collection Data	3604
 Magaung Metro	11986
+Malawi Methodology for Assessing Procurement Systems	12176
 Mandatory Metadata Fields All	11952
 Mangaung Metropolitan Municipality	11231
 Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
 Mapping Methodology Framework for Mutual Aid Groups	6947
 March-2026 Methodology Report	6937
 March. With METIX	5815
+Materials Excavator for Metal	12253
 Materials and Methods	11028
+Mauritius METBANK Limited Zimbabwe	12252
 Mauritius Meteorological Services	12132
 Mbps A1.1.1.2 Mettre	10858
 Measurement Methods	11007
@@ -334,7 +343,7 @@ Metanol	4209
 Metarverse	9993
 Metas	1701
 Metatheory of E-Government	5700
-Metaverse Era	1347,40
+Metaverse Era	1347,40,10774
 Meta’s Dawn Song	9027
 Meta’s Detectron2	5367
 Meta’s Director of Privacy and Data Policy for Africa	7409
@@ -360,7 +369,7 @@ Meteorological Services	5643
 Meteorological Services Department	520
 Meteorological Services P3	1668
 Meteorological and Water Affairs Departments	7030
-Meteorology	11283
+Meteorology	11283,911
 Meteorology and Climate	11553
 Meteorology and Geophysics Inter-tropical Convergence Zone	10763
 Meteorología	1701
@@ -383,11 +392,13 @@ Metering Equipment	9409
 Metering Progress	12062
 Meters	11551
 Methnani	8283
-Method	418,540,820,210,105,330,525,1484,702,895,857,174,218,198,283,262,1,108,998,1,108,1086,713,233,717,20
+Method	418,540,820,210,105,330,525,1484,702,895,857,174,218,198,283,262,1,108,998,1,108,1086,713,233,717,20,219
 Method API Application Program Interface ATNA	1009
 Method Availability	10881
 Method Characteristics	11156
 Method Data	8460
+Method M1	12225
+Method M2	12225
 Method of Warfare	8485
 Methodological	1155,1363,6086,2531,437
 Methodological Approach	7548
@@ -396,12 +407,13 @@ Methodological Guide	8532
 Methodological Soundness	2775
 Methodologically	7759,207,2886
 MethodologicalstudiesonXML-baseddatabasemodelling	8606
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7
+Methodology AHACI	12318
 Methodology ANNEX	11156
 Methodology Business Process Used	9124
 Methodology DEP	11905
 Methodology DGEANF	11905
-Methodology Data	6565
+Methodology Data	6565,5617
 Methodology Data Collection	899
 Methodology Document	11905
 Methodology Experience of Member States	5678
@@ -413,6 +425,7 @@ Methodology Measure Data Collection Name	11525
 Methodology Number	11905
 Methodology Overview Fieldwork Dates	7869
 Methodology QoS	5744
+Methodology Results and Demographics	12214
 Methodology Review	11905
 Methodology Roundtable	1200
 Methodology Scope	10764
@@ -421,6 +434,8 @@ Methodology The DPI Map	7222
 Methodology The ID4D	10765,10
 Methodology and Approach	6832
 Methodology and Convening Design Trust Architecture	11138
+Methodology and Data Quality	12151
+Methodology and Every	12151
 Methodology and Statistical Infrastructure	11237
 Methodology for Assessing Procurement	9399
 Methodology for Assessing Procurement Systems	9399
@@ -451,14 +466,18 @@ Methodology-Equal	8436
 Methodology-Lead	8436
 Methodology-Supporting	8436
 Methodology. Tortoise Media	2816
-Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63,97,38,21,96,14,219,309,7,66,352,22
+Methodology13 Overview	12227
+Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63,97,38,21,96,14,219,309,7,66,352,22,200,17,4,9
+Methods Eighty-one	12231
 Methods First	10881
 Methods Five LIC and LMICs	771
 Methods In Cambodia	771
 Methods Phenomenological	1219
 Methods Study	12003
+Methods Through	12255
 Methods and Frameworks	10852
 Methods for Issuing	762
+Methods for Policy and Practice	12255
 Methods of Computing Core Inflation Measures	2775
 Methods of Radio Frequency Spectrum Licensing	762
 Methodsandtrends	4127
@@ -469,7 +488,7 @@ Metier Capital Growth Fund III. EM-Three	10735
 Metier PE	716
 Metix	8407
 Metodista	10777
-Metodologia	4040,1623,5103,17,604,19,10,5,116,25,7,8,442,2
+Metodologia	4040,1623,5103,17,604,19,10,5,116,25,7,8,442,2,121
 Metodologia A Guiné-Bissau	11537
 Metodologia O Secretário-Geral da Organização	11387
 Metodologia da AQD	2228
@@ -486,10 +505,11 @@ Metop	11291
 Metre	2775
 Metre Gauge Railway	2775
 Metre Gauge Railway Traffic	2775
-Metric	4217,1028,806,5812
+Metric	4217,1028,806,5812,393
 Metric Baseline Average	4217
 Metric Q3	6000
 Metric Scale Scale Up Down CPU	11952
+Metric Tonnes	12256
 Metric Tons	718
 Metrics	1824,694,2715,1988,1383,149,350,2819
 Metrics Network PRISM Performance of Routine Information	766
@@ -534,6 +554,7 @@ Metropolitan University’s Lincoln Alexander School of Law	6521
 Metropolitan and Municipal District Assemblies	789
 Metropolitan-Harare and Bulawayo	736
 Metrorail	11289
+Metsenanat Zerihun	12195
 Mettant	7623
 Mettent	1187
 Mettez	743,6363,177
@@ -541,6 +562,8 @@ Mettez-les	747
 Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111
 Mettus	6107
 Mettus.Johannesburg	6107
+Metumi	12256
+Metumi Power Company	12256
 Metzger	7174
 Metzy Residence Hotel	4359
 Microsoft Azure ExpressRoute Metro	7467
@@ -605,6 +628,33 @@ Outcome Metrics	4153,14,35,15,43,41,48,1003
 Outcomes Metrics Audit	4153
 Overberg West Coast Metros Metros Boland	8999
 Oversight Approach Method Method	11855
+P1-1 Assessment Scoring Score Score Method	12225
+P1-2 Assessment Scoring Score Score Method	12225
+P2-3 Assessment Scoring Score Score Method	12225
+P2-4 Assessment Scoring Score Score Method	12225
+P2-5 Assessment Scoring Score Score Method	12225
+P2-6 Assessment Scoring Score Score Method	12225
+P2-7 Assessment Scoring Score Score Method	12225
+P3-10 Assessment Scoring Score Score Method	12225
+P3-11 Assessment Scoring Score Score Method	12225
+P3-8 Assessment Scoring Score Score Method	12225
+P3-9 Assessment Scoring Score Score Method	12225
+P4-12 Assessment Scoring Score Score Method	12225
+P4-14 Assessment Scoring Score Score Method	12225
+P5-16 Assessment Scoring Score Score Method	12225
+P5-17 Assessment Scoring Score Score Method	12225
+P5-18 Assessment Scoring Score Score Method	12225
+P6-19 Assessment Scoring Score Score Method	12225
+P6-20 Assessment Scoring Score Score Method	12225
+P6-21 Assessment Scoring Score Score Method	12225
+P6-22 Assessment Scoring Score Score Method	12225
+P7-23 Assessment Scoring Score Score Method	12225
+P7-25 Assessment Scoring Score Score Method	12225
+P8-26 Assessment Scoring Score Score Method	12225
+P8-27 Assessment Scoring Score Score Method	12225
+P9-30 Assessment Scoring Score Score Method	12225
+P9-31 Assessment Scoring Score Score Method	12225
+P9-32 Assessment Scoring Score Score Method	12225
 PCU Methodology for Data Collection Data	3604
 PDO Indicators Mapped Methodology for Data Responsibility	1284
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
@@ -642,6 +692,7 @@ Prosci Methodology	2477
 Provincial and District Meteorological Officers	520
 Proyecto de Metodología	4209
 Prévention Mettre	3396
+Purpose and Methodology	12297
 Quality Metrics Track	11952
 R. BMC Medical Research Methodology	961
 RAM Readiness Assessment Methodology REC Regional	1814
@@ -708,6 +759,7 @@ Specialized Regional Meteorological Centres	11420
 Stakeholder Method Instances Total Participants Sub-county	899
 Standard Valuation Method	11235
 Standardization and Legal Metrology Continuing	11906
+Standardized Impact Metrics	12191
 Startupbootcamp for Meta	10133
 Statistical Data and Metadata Exchange	9207,1737,768
 Statistical Methods	11237
@@ -740,7 +792,7 @@ Tshwane Metro Police	11266
 UAB Meeple S.r.l. Delirio AI Meta	8530
 UK Met Office	11191
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
-UNESCO Readiness Assessment Methodology	7068,4415
+UNESCO Readiness Assessment Methodology	7068,4415,727
 UNESCO's AI Readiness Assessment Methodology	4528
 UNESCO's Readiness Assessment Methodology	5036
 UNESCO’s AI Readiness Assessment Methodology	4126,1575,1092

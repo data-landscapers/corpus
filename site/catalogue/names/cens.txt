@@ -1,5 +1,5 @@
 ANÁLISE DOS PRINCIPAIS RESULTADOS DO CENSO	10766
-Annual School Census	10359,1501,201
+Annual School Census	10359,1501,201,114
 Biometric Electoral Census Designed	11939
 CENSUS	9485
 Cartografia Censitária	4979,6442,156
@@ -23,7 +23,7 @@ Censores de Cuentas	4209
 Censorship	6562
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97
 Census EAs	11296
 Census Shows By Stephen Kamanzi	7992
 Census and DNRN	10765,10
@@ -54,17 +54,19 @@ Freight CIP Census of Industrial Production CIPI	2775
 General Census	10765,10
 General Population and Housing Census	7702
 Household Surveys and Censuses	11237
-Housing Census	10870
+Housing Census	10870,1281
 I Censo Agropecuario V Censo de Población	10487
 I Censo General Agropecuario	8048,2439
 II Censo Agropecuario	4209
 INE Census	115
 Internet Censorship Bill	2117
 KPHC Kenya Population and Housing Census KPLC	2775
-Kenya Population and Housing Census	7548
+Kenya Population and Housing Census	7548,4603,80
+Kenya Population and Housing Census KVSR Kenya	12151
 Kenya Population and Housing Census Results	10822
 KwaZulu-Natal and Free State. Census	11192
-Malawi Census	262
+Malawi Census	262,11913
+Malawi Population and Housing Census. Main Report	12175
 Management of Population and Housing Censuses	4040,4,7377,25,131
 Moçambique Censo de Instituições Sem Fins Lucrativos	9441
 NIGERIA’S FIRST BIOMETRIC CENSUS	2535

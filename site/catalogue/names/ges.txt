@@ -68,8 +68,9 @@ Das Entidades Gestoras	11514
 Departamento de Gestão	167
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265,569,90,9,38
 Deutschen Gesellschaft	11316
+Directora Nacional de Gestão da Dívida Pública	12220
 Directrizes de Gestão de Riscos	6462
 ET DE GESTION DES RISQUES	2342
 EU's GESTDOC	4415,1,1,1
@@ -94,6 +95,7 @@ GESCOM	10024
 GESD Citizen Engagement Committee	6754,1680
 GESD Citizen Engagement Committee Willy Kambwandira	8434
 GESD Project	6754,1645
+GESD and MERP	12175
 GESIMPOT	11906
 GESTDOC	6530,41,4994,1
 GESTDOC. Da Guiné-Bissau	11566
@@ -121,6 +123,8 @@ GESTÃO FINANCEIRA E PATRIMONIAL	4218
 GIZ Deutsche Gesellschaft	8985
 Gabinete de Gestão	5405,6000,23,9,132,255
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
+Geschiere	12227
+Geschiere and Nyamnjoh	12227
 Geschwind	11133,9
 Gesco-Attinguié	2342
 Gesellschaft	1264,7798,175,1582,145
@@ -195,7 +199,7 @@ Gestión Macroeconómica	1701
 Gestión Monetaria	1701
 Gestión de Finanzas Públicas	4209
 Gestión de Página Web	4209
-Gestor	2816
+Gestor	2816,9326
 Gestor Municipal	10754
 Gestor de Negócios	2816
 Gestor de Projecto	11448
@@ -236,6 +240,7 @@ Gestão de Dados	549
 Gestão de Dados da ANPG	11405
 Gestão de Data Centers	5319
 Gestão de Eleições Legislativas Antecipadas	11561
+Gestão de Finanças Públicas	12142
 Gestão de Finanças Públicas GRS Grievance Redress	11390
 Gestão de Identidade Electrónica	7466
 Gestão de Incidentes	2784
@@ -259,6 +264,7 @@ Gestão de Riscos	11542
 Gestão de Segurança	10747
 Gestão de Transmissão	11435
 Gouvernement du Bénin GRH Gestion des Ressources Humaines	10876
+Gross Enrolment Rate GESD	12175
 Guiné-Bissau. O GESTDOC	11566
 HIRE GOLD MINE Gestion	2342
 Horn of Africa Deutsche Gesellschaft	886
@@ -320,6 +326,7 @@ Mécanisme de Gestion des Plaintes	5221,5655
 Módulo de Gestão	9403
 Módulo de Gestão Urbanística	9403
 Módulo de Gestão de Cemitérios	9403
+Módulo de Gestão de Dados Hospitalares	12142
 Módulo de Gestão de Frota	9403
 Módulo de Gestão de Mercados	9403
 Módulo de Gestão de Pequenos Sistemas de Abastecimento	9403

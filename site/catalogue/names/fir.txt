@@ -21,6 +21,7 @@ Afriland First Bank Cameroun	8356
 Afriland First Bank SA	10965
 Algeria Unveils First AI and Cybersecurity Start-up	5870
 All Firms	11881,1
+Alliance Firms	12232
 Almadar Aljadid Launches First	4811
 America First	4426,21,170,546,2,48,337,984,653,563,2977
 America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267
@@ -102,6 +103,7 @@ ECOBANK FBNBANK FIDELITY BANK FIRST ATLANTIC	11002
 EIRR and FIRR Sensitivity Analysis EIRR	11863
 EXIM. First Street	11310
 Elements of Address Type Title First Name	11129
+Energy Audit Firm T3	12256
 English First Additional Language. Journal of Curriculum	6832
 Equatorial Guinea’s First Deputy Prime Minister	5001
 Establishing the First Google Cloud Region	1363
@@ -118,7 +120,14 @@ FIR PIB	11447
 FIRC Forum des Institutions de Régulation du Cameroun FISUEL	10975
 FIRE IN MTHATHA The Department	11260
 FIRMS SELECTION	9603,1,2146
+FIRNBWGX	12252
 FIRNCORP	11131,3
+FIRNLSMX	12252
+FIRNMZMX	12252
+FIRNNANX	12252
+FIRNSZMX	12252
+FIRNZAJJ	12252
+FIRNZMLX	12252
 FIRR FNPV	11863
 FIRS Revolutionize Tax Payments	2593
 FIRST	1264,453,60,193,665,181,1174,1687,103,4984,147
@@ -147,6 +156,7 @@ Fire Certificate	1988
 Fire Detection System	593
 Fire Detection and Suppression	10956
 Fire Detection and Suppression Analogue	9446
+Fire Detection and Suppression System	12253
 Fire Extinguishers	1988
 Fire MOE	1988
 Fire Protection Data	9123
@@ -154,6 +164,7 @@ Fire Risk Assessment	11134
 Fire Station and Hospital	9123
 Fire Suppression	9123
 Fire Suppression Room	9123
+Fire Suppression System Room	12253
 Fire and Land Surface Temperature	11334
 Fire and Rescue Force	10460
 Fire-Fighter Service	10763
@@ -172,8 +183,9 @@ Fireflies AI	9740
 Fireflies AI. Ces	9740
 Firehiwot	10878
 Fireside Chat	12104
-Firewall	9123,1725
+Firewall	9123,1725,1405
 Firewall Policies for Micro-Segmentation	11231
+Firewall and Intrusion Detection	12253
 Firewalls	4342
 Firewalls Web Applications S	10617
 Firewalls and Access Controls	10721
@@ -200,7 +212,7 @@ Firmin Mvonde Mambu	11098
 Firmin N'Dri Bonfils	6817
 Firmin N'Dri Bonfils. Aucun	6817
 Firmina	1766,2016
-Firms	1638,190,690,257,1901,164,1739,799,90,879,2158,458,1,5,7,109,51,4,9,376,330,1,18,7,1,2,1,10
+Firms	1638,190,690,257,1901,164,1739,799,90,879,2158,458,1,5,7,109,51,4,9,376,330,1,18,7,1,2,1,10,264,1
 Firms Cabo Verde2024 Sub-Saharan Africa	11874
 Firms Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Firms Characteristics	10976,898,7
@@ -218,15 +230,16 @@ Firms5Lower Middle Income	10976
 Firms’ Growth	11140
 Firmware	11956
 Firmware Integrity	10721
-First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42
+First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42,61,24,24,8,7,3,10,4,9,13
 First AFD Sovereign Digital Loan	1043
 First ANC Visit	2775
 First Abu Dhabi Bank	12026
 First African Company	4972
-First Aid	11134
+First Aid	11134,1119
 First Aid Administration	11131
 First Aid Kits	1988
 First Aid Training The Bank	11134
+First Aiders	12253
 First Aiders. Culture Transformation Culture	11131
 First Ally Capital	7415
 First Amendment Institute	5700
@@ -240,8 +253,9 @@ First Bot	3849
 First Cable Repair Ship Arrives	2677
 First Call Resolution	8677
 First Capacity Crisis for Starlink	4601
-First Capital Bank	5263,71
-First Capital Bank Botswana	5261,2,71
+First Capital Bank	5263,71,6907,50
+First Capital Bank Botswana	5261,2,71,6918
+First Capital Bank Limited	12252
 First Catalytic First Loss Guarantee Transactions	8938
 First Check Ventures	2212,1883
 First City Monument Bank	12038
@@ -276,10 +290,13 @@ First Mile	11857
 First Mobile	3849
 First Mutual Life	1154
 First Mutual Properties	4896
-First Name	11861,55
+First Name	11861,55,230
 First National Adaptation Plan for Climate Change	3583
 First National Bank	1590,2374,3375,419,674,1757,941
 First National Bank South Africa	6996
+First National Bank Zambia Limited	12252
+First National Bank of Lesotho Limited	12252
+First National Bank of Namibia Ltd	12252
 First National Data Policy Workshop	6013
 First National Digital Public Infrastructure Stakeholder	9356
 First National Integrated ICT Policy White	11195
@@ -313,6 +330,7 @@ First Schedule- of First	6921
 First School Leaving Certificate Examination. Walter	2319
 First Secretary Press and Public Relations	4365
 First Stage	11240
+First Step	12227
 First Stop	2677
 First Street	11310
 First Street EWZL Owned Shop N	4896
@@ -342,6 +360,7 @@ First-Party	9984
 First-ever	10228
 First-generation	1264
 First-hand	1917,3634,1169,460
+First-line	12315
 First-party	1637,1323,987,490,860,438,2978,716
 First-party LinkedIn	2092
 First-party SIM	4439
@@ -356,11 +375,13 @@ FirstBank	2339,1510,966,7179
 FirstBank DRC	3849,437,7674
 FirstBank RDC	4815
 FirstBank and UBA	12038
+FirstCapital Bank	12252
 FirstMobile	2339
 FirstMonie	4815
 FirstName.LastName	34
 FirstNews	5215
 FirstRand	3541,1543,1148,4503
+FirstRand Bank Limited	12252
 FirstRand Bank Nigeria Financial	11469
 FirstRand Group	1404
 Firstly	236,160,148,29,193,204,226,618,14,81,1026,13,213,318,953,15,527,251,19,1233,103,1171,230,41,582,525,270,1366,10,44,143,171,125,31,441,91,86,2,77,37
@@ -411,6 +432,7 @@ Italian Funding Firm Launches Novagria Ventures	10931
 Ivoire's First Sovereign Tier III Data	3436
 Joint Tax Board. FIRS	11857
 Jumhouria Bank Launches Libya's First Petrol	4630
+KEEP FIRE AND FLAME AWAY	12253
 Kenya’s First	1131
 Know First	9331
 La FirstBank DRC SA	3849
@@ -450,7 +472,7 @@ National Assembly. The First Lady	5100
 Needed Resource Estimate First	10964
 Next Order. BILL First Reading	10313
 Nigeria First	3030,1660,7142,194
-Nigeria First Policy	10157
+Nigeria First Policy	10157,2151
 Nigeria Gets First AI-Enabled OGBV Tracker	8662
 Nigeria Rank Firm	11884
 Nigeria and South Africa. Public First	1363
@@ -459,6 +481,7 @@ Nigeria's First Cybersecurity Publication	10848
 Nigeria’s Senate Moves Forward With First	965,3804,120,206,402
 Nyambirai First Transfer Secretaries D3	4896
 OWLPRESS Fintech Firm Open Hub Launches	5939
+Official Use Only First	12253
 Onafriq and PAPSS Launch Africa’s First Instant	4901
 Ouaddai and Wadi Fira	792
 PADCI and PARAE. First	5784
@@ -513,11 +536,13 @@ Solve This From First Principles Understanding	5863
 Sophos Expands Firewall Portfolio	9830
 South Africa ArticleRwanda Gazettes First Law	6998
 South Africa Rank Firm Intensity	11885
+South-Africa First National Bank of Botswana PTY	12252
 Stanbic Bank Firm Survey Trade	5247
 Standard Bank and First National Bank	7331
 Surabaya and Managing Partner Law Firm Victorious	11692
 TABLE OF CONTENT First Edition	10819
 Tamela Holdings Proprietary Limited First Floor	10793
+Tanzania First National Bank Of Eswatini	12252
 Tanzania and Uganda. Explore Firm Details South	6683
 Taxing Digital Firms	3161
 Tech Firms	9882

@@ -345,6 +345,7 @@ Communes Des	10858
 Communication des Postes	2514
 Communication. Le Conseil des Ministres	2738,3329
 Communications. Le Conseil des Ministres	3326
+Communiqué du Conseil des Ministres	12243
 Communiqué du Ministère des Finances	4363
 Communiqués du Conseil des Ministres	8673
 Comores. Représentant le Ministre des Finances	5814
@@ -1219,12 +1220,12 @@ Ministre des Transports	7978
 Ministre des Télécommunications	2554,1245,3842,2453,1045,12
 Ministry of Protection Sociale des Public Health	10985
 Ministère des Affaires	2366,2769,2198,1558,3025
-Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718
+Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422
 Ministère des Affaires IPF Sociales	11905
 Ministère des Affaires Sociales	3351,7470,48,95,941,19
 Ministère des Eaux	3045
 Ministère des Enseignements	2966
-Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6
+Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6,1262
 Ministère des Finances Cellule	10965
 Ministère des Finances Tous	10965
 Ministère des Finances. L’atelier	10965
@@ -1236,7 +1237,7 @@ Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967
 Ministère des Serviteurs du Peuple le Conseil	5304
 Ministère des Sports	3396
 Ministère des TIC	765
-Ministère des Transports	3231,165,1707,5608,230
+Ministère des Transports	3231,165,1707,5608,230,1302
 Ministère des Transports Routiers	10711
 Ministère des Travaux	3231
 Ministère des Travaux Publics	3231

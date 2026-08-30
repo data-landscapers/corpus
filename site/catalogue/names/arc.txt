@@ -134,7 +134,7 @@ ArchitectsTerror-TheSentry-June2023.pdf	4127
 Architectural	2477,5313,3343
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140
 Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
@@ -153,7 +153,7 @@ Archival	3861,4160
 Archive	585,3841,2006,1478,974,1992,999,77
 Archive About Us Contact Us Oshiwambo	11122
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39
 Archived Articles	11220,21
 Archived Documents	11220
 Archived Information National Archives Building	11349
@@ -166,7 +166,7 @@ Archives and Information Science	8022
 Archives and Records	8021
 Archives du Maroc	308,9098
 Archives’ New Professionals Mentorship Programme	8021
-Archiving	2709,1885
+Archiving	2709,1885,7631
 Archivista	4209
 Archivo	4209
 Archivo Nacional	10438
@@ -233,6 +233,7 @@ Delivery Architecture	7548
 Design Partnership Architects	2342
 Diagnosing Readiness Gaps and Country Archetypes	2957
 Digital Archiving Consultancy Ltd. Lynch	12090
+Digital Government Strategy and Enterprise Architecture	12183
 Digital Health Architecture Blueprint	3385,4322,3625
 Digital Health Architecture Blueprint and FHIR	3385
 Digital ID Architecture and Rights	4863
@@ -303,8 +304,9 @@ HEA Health Enterprise Architecture PMI Patient	396
 HELD ARCHITECTURE	3200
 HOL Archaeologists	2279
 HTTP Archive	6542
-Health Architecture	4301
+Health Architecture	4301,7954
 Health Enterprise Architecture	396
+Health Organization ZTA Zero-trust Architecture	12240
 II. Legal Architecture	11036
 Implement Zero Trust Architecture	10721
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
@@ -315,20 +317,23 @@ Int Arch Med	10780
 Integration Complexity Architecture Level Distributed	5665
 Integration DOA Digital Object Architecture DRC	718
 Internet Archive	439,10283,29,1,1,17,45,150,8,17
-Internet Archive Wayback Machine	4165,7775
+Internet Archive Wayback Machine	4165,7775,204,24,9,1,12,26,1,1,73
 Interoperability Architecture	1009
 Joint Embedding Predictive Architecture. Pour	3465
 Journal of Systems Architecture	8605
+Kenya Archives	12155
 Kenya Health Enterprise Architecture	2709
 Kenya Health Enterprise Architecture Blueprint	10641
 LIST OF ACRONYMS ADM Architecture Development	1009
 Land Processes Distributed Active Archive Center	11334
 LeCun’s Joint Embedding Predictive Architecture	7573
 Lead Product Architect	7065
+Load Shedding Archives	12213
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 Managing Electronic Records The National Archives	11349
 Methodology and Convening Design Trust Architecture	11138
 Ministry and ARCEP	2969
+MoH's System Architecture and Security Unit	12240
 Modelling Notation ArchiMate The Notation	9124
 Monitoring and Compliance Architecture	3861
 Monthly Architecture Transaction Weekly	11952
@@ -395,10 +400,12 @@ Regulatory Architecture and Accountability	5574
 Reporting Tools Architect	9124
 Rwanda Architecture	9124
 SAM-MOT-DM4- Conforme ARCEP-25052021	998
+SCRO Finance and Registrar and Procurement Archival	12138
 SECTION III The Bridgforte Trust Architecture	11138
 SENEGAL SAU ARCEP	998
 SERVICE PROCESS AND ARCHITECTURE STANDARDS	11952
 SIGNATURE FREQUENCE ARCEP	998
+STRATEGIC AND ARCHITECTURAL CHOICES	12165
 SUBSTANTIVE SCOPE AND JURISDICTIONAL ARCHITECTURE	3861
 SURVEILLANCE ARCHITECTURE	9399
 Secure Archival and Integrity Protection	3861
@@ -418,6 +425,7 @@ Strategic Architecture	10516
 Strategic Architecture AI	7548
 Surveillance Architecture	9399
 System Architecture As the CBE	11130
+System Architecture and Security Unit	12240
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 Tier Broadband Architecture Framework	11857
 Transformation Digitale Cina Lawson. ARCEP	1205
@@ -430,4 +438,5 @@ UHF D PETROLEUM S.A ARCEP	998
 Usefulness of ARCEP	5679
 Visionary Architect and Steadfast Guardian Government	4528
 ZERO Internet Archive	11569
-Zero Trust Architecture	5793,4928
+Zero Trust Architecture	5793,4928,1519
+Zero-trust Architecture	12240

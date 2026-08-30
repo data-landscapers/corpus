@@ -14,6 +14,7 @@ Agriculture and Food Authority	10313
 Agriculture and Food Authority of Ksh1	10313
 Agriculture and Food Safety. The United Arab	11185
 Agriculture and Food Security	3583
+Agriculture and Food Systems Transformation	12162
 Al-Ittihad Football Club	5317
 Alliance for Food Sovereignty	6231
 Angola. Food	10763
@@ -36,6 +37,7 @@ Context of National Food Security	10960
 Contributing Practice Areas Agriculture and Food	1867
 Deepen Digital Footprint	2716
 Desenvolvimento da Primeira Infância Efeito de Desenho Food	10777
+District Food Security Task Force	12158
 Drug and Food Control Authority	3583
 EAST AFRICAN SEA FOOD LIMITED Data	7167
 ECOWAS Regional Food	6422
@@ -45,7 +47,7 @@ EUR Good Food Financial	970
 Early Warning System Food and Agriculture Organisation	10763
 Ethiopian Food and Drug Administration	1824,2525
 Ethiopian Food and Drug Authority	10709
-FAO Food and Agriculture Organization	11390,497
+FAO Food and Agriculture Organization	11390,497,266,1,9
 FAO Food and Agriculture Organization FDI Foreign	10841
 FLOUR MILLS NIGERIA Food SNoouterc	11884
 FOOD SECURITY BY PROVINCE Data	10763
@@ -71,11 +73,12 @@ Food Insecurity Domestic Food Production	1828
 Food Processing Industry Investigation of Water Tube	1154
 Food Production of Côte	10931
 Food Research Institute	12090
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31
 Food Security Following	11185
 Food Security Nigeria	11469
 Food Security Programme	7845
 Food Security Project	10841
+Food Security Task Forces	12158
 Food Security and Agricultural Development	7452
 Food Security and Cooperative Development	7167
 Food Security and Livelihoods	6947
@@ -101,12 +104,13 @@ Food and Agricultural Research and Extension Institute	7845
 Food and Agricultural Research and Extension Institute Act	7845
 Food and Agriculture Organisation	9136
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Beverage	4972
 Food and Commercial Justice	10960
 Food and Drugs Authority	10630,402
 Food and Medication Management System	11939
+Food and Nutrition Bulletin	12255
 Food and Nutrition Security	10768
 Food and Nutrition Security and Sustainable Agriculture	11288
 Food-Nutrition	11998
@@ -124,9 +128,10 @@ Football Shalulile	9779
 Footer	2674
 Footer Accessibility	10919
 Footer Help Section	11877
-Footnote	1243,1670,1763,1024,4039,1046,129,967,105
-Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877
+Footnote	1243,1670,1763,1024,4039,1046,129,967,105,316
+Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249,2877,878
 Footnotes Funding	10881
+Footnotes Publisher’s Note Springer Nature	12255
 Footpath	11857
 Footprint Development and Hospitals Assumptions Availability	11986
 Footwear	1988
@@ -140,7 +145,8 @@ Hemp and Cannabis Food Product Regulations	2626
 Integrated Food Classification	3583
 Integrated Food Security Phase Classification	3583,7553,333
 Integrated Food Security Phase Classification System	3583
-International Food Policy Research Institute	1507,5441,3820
+International Food Policy Institute	12162
+International Food Policy Research Institute	1507,5441,3820,1390
 International Food Poverty Research	11986
 Investing for Food and Job	789
 Ivoire Tech Footprint	7430
@@ -198,11 +204,13 @@ Sectoral AI Adoption Framework Agriculture and Food	4528
 Service Data WFP World Food Programme	11133
 Service Delivery Footprint Local Offices	8999
 Services Food	4972
-Socioeconomic Inequality Mitigation Decent Housing Food	10837
+Small and WFP World Food Programme Medium	12297
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315
 Somalia Acute Food Insecurity and Malnutrition Snapshot	11136
 Sports Football	8884
 Standard Bank Luju Food	4866
 State Department for Housing Accommodation and Food Services	2775
+Strengthening Food Security	12229
 Sudan. Acute Food Insecurity Analysis. Accessed	6947
 Supplementary Foods Demonstrates Benefit	11525
 Surveillance Footprint	2549
@@ -233,7 +241,8 @@ World Bank World Food Programme	10763
 World Food Program	969,259,10297,35
 World Food Program WHR Window for Host	10841
 World Food Program-operated	11924
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1,169,9,1033,45,21,56
+World Food Programme ZEMISO	12175
 World Food Programme and United Nations	3583
 World Food Programme. Success	1687
 World Food Programme. Technical Report	10841

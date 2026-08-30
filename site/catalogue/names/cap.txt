@@ -83,6 +83,7 @@ Africa. Village Capital	9495
 African Private Capital	4972
 African Private Capital Association	5957
 African Private Equity and Venture Capital Association	4972,5970
+African Risk Capacity	12181
 African Risk Capacity Agency	10819
 African Risk Capacity Facility	10768
 African Stock Market Capitalization of GDP	6938
@@ -114,6 +115,7 @@ Angola. University of Cape Town	10763
 Angola’s Human Capital Index	10763,5
 Annex A. Capitalized	7198
 Annual Growth Rate CapEx Capital Expenditures	10861
+Anti- Capacity Building	12241
 Aplicação de Capitais II	11435
 Appendix V Data Capture	1009
 Appointed Representative of Thema Capital Limited	5879
@@ -228,6 +230,7 @@ CAP Common Alerting Protocol CHD Country	11553
 CAP Initial Submission	4732
 CAP YOUTH EMPOWERMENT INSTITUTE KENYA Data	7167
 CAP-K	7167
+CAP149	12138
 CAPACIDADE ELEITORAL ACTIVA	11528
 CAPACIDADE ELEITORAL PASSIVA	11528
 CAPACIDADE ELEITORAL PASSIVA E REGIME	11528
@@ -237,6 +240,7 @@ CAPACITAÇÃO	11397,64
 CAPACITY	3714,5744,2405
 CAPACITY AND NETWORK	10852
 CAPACITY BUILDING	11190,670
+CAPACITY BUILDING AND AWARENESS TRAINING	12253
 CAPACITY BUILDING IN BUSINESS MANAGEMENT	11586
 CAPACITY DEVELOPMENT AND TRAINING	11182
 CAPACITY DEVELOPMENT AND TRAINING Capacity	11182
@@ -325,7 +329,7 @@ CAPTUNE LIMITED Data Controller INST-78184789F7F NAIROBI	7167
 CAPTURE FOR BIRTH REGISTRATION Province Priority	11986
 CAPTURE NOTE	2361,41,2,430,82,60,108,186,19,165,254,53,33,25,132,30,79,181,11,16,719,143,1,43,157,3,112,43,306,194,152,1,312,79,108,2,137,2,258,2,4,31,159,2
 CAPWELL INDUSTRIES LIMITED Data Controller INST-26670658232	7167
-CAPÍTULO	576,1861,1,1081,690,9,6537,603,9,7,9,5,42,84,14
+CAPÍTULO	576,1861,1,1081,690,9,6537,603,9,7,9,5,42,84,14,783
 CAPÍTULO I DISPOSIÇOES GERAIS ARTIGO	11518
 CAPÍTULO I DISPOSIÇÕES GERAIS	13,1,153,382,195,8,42,3353,6607,609,1,9,4,4,1,3,1,19,14,6,8,5,5,6,3,15
 CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739
@@ -343,7 +347,7 @@ CAPÍTULO I REQUISITOS GERAIS	11430
 CAPÍTULO I Requisitos Gerais	11430
 CAPÍTULO I TAXAS	11430
 CAPÍTULO I Taxas	11430
-CAPÍTULO II	576,1861,1,1081,690,9,6537,603,9,7,9,47,98
+CAPÍTULO II	576,1861,1,1081,690,9,6537,603,9,7,9,47,98,783
 CAPÍTULO II ADMISSIBILIDADE	549
 CAPÍTULO II ADQUIRENTES NÃO BANCÁRIOS	11438
 CAPÍTULO II Admissão	6462
@@ -405,7 +409,7 @@ CAPÍTULO II SUPERVISÃO E FISCALIZAÇÃO	11430
 CAPÍTULO II TAXAS EM ESPECIAL Artigo	744
 CAPÍTULO II TOPÓNIMOS	11373
 CAPÍTULO II TRATAMENTO DE DADOS PESSOAIS	14
-CAPÍTULO III	576,1861,1,1081,628,71,6537,603,1,15,9,47,31,67,9
+CAPÍTULO III	576,1861,1,1081,628,71,6537,603,1,15,9,47,31,67,9,774
 CAPÍTULO III ACESSO AOS POLOS	11443
 CAPÍTULO III AGÊNCIA DE PROTECÇÃO	14
 CAPÍTULO III ATRIBUIÇÕES E COMPETÊNCIAS	11384
@@ -448,7 +452,7 @@ CAPÍTULO III RESOLUÇÃO DE CONFLITOS ARTIGO	11520
 CAPÍTULO III SUBSÍDIO DE ALEITAMENTO	11467
 CAPÍTULO III Segurança	6970
 CAPÍTULO III Utilização	539
-CAPÍTULO IV	576,1861,1082,699,6537,603,16,56,31,67
+CAPÍTULO IV	576,1861,1082,699,6537,603,16,56,31,67,783
 CAPÍTULO IV ABONO DE FAMÍLIA	11467
 CAPÍTULO IV ACESSO ABERTO	11520
 CAPÍTULO IV ATRIBUIÇÕES DO ESTADO	11901
@@ -487,7 +491,7 @@ CAPÍTULO IX	576,2943,7942
 CAPÍTULO IX CAPACITAÇÃO	11461
 CAPÍTULO IX DISPOSIÇÕES FINAIS ARTIGO	3519
 CAPÍTULO IX REGISTO PREDIAL Secção	11901
-CAPÍTULO V	576,2943,699,6537,706,67
+CAPÍTULO V	576,2943,699,6537,706,67,783
 CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAPÍTULO V Comunicações Publicitárias	11360
 CAPÍTULO V DEVERES E CONFLITOS	4147
@@ -511,7 +515,7 @@ CAPÍTULO V Pessoal	13
 CAPÍTULO V REGIME SANCIONATÓRIO	10747
 CAPÍTULO V REGIMES ESPECIAIS DE APLICAÇÃO	3519
 CAPÍTULO V SINAIS E MENÇÕES	794
-CAPÍTULO VI	576,2943,699,6537,706,67
+CAPÍTULO VI	576,2943,699,6537,706,67,783
 CAPÍTULO VI CARTOGRAFIA CADASTRAL	11384
 CAPÍTULO VI DISPOSIÇÕES FINAIS	167,3980,6600
 CAPÍTULO VI DISPOSIÇÕES FINAIS Artigo	167,627
@@ -523,7 +527,7 @@ CAPÍTULO VI INFRACÇÕES RELATIVAS AO RECENSEAMENTO	11528
 CAPÍTULO VI MODELO DE GOVERNAÇÃO	3519
 CAPÍTULO VI Protecção Jurídica	11360
 CAPÍTULO VI Protecção de Dados	6462
-CAPÍTULO VII	576,2943,699,6537,706,67
+CAPÍTULO VII	576,2943,699,6537,706,67,783
 CAPÍTULO VII Avaliação	6462
 CAPÍTULO VII CARTOGRAFIA CADASTRAL Artigo	11901
 CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS	11384,41
@@ -531,7 +535,7 @@ CAPÍTULO VII DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11520
 CAPÍTULO VII INTEROPERABILIDADE	11461
 CAPÍTULO VII Protecção Jurídica	11360
 CAPÍTULO VII REGULAÇÃO	3519
-CAPÍTULO VIII	576,2943,7942
+CAPÍTULO VIII	576,2943,7942,850
 CAPÍTULO VIII Disposições Finais Artigo	6462
 CAPÍTULO VIII REGIME DE AFORAMENTO Artigo	11901
 CAPÍTULO VIII REGIME DE RESPONSABILIDADE	3519
@@ -591,7 +595,9 @@ Cap-Vert	765,5476,974,78,1840,1510
 Cap. A2	11853
 Cap. C23	11976
 Cap. C41	11857
+Cap. N21	12145
 Cap. N33	11857
+Cap. Paris	12297
 Cap.214	7832
 Cap.275	1988
 CapCut	11033
@@ -602,7 +608,7 @@ Capabilities Approach	10726
 Capabilities Approach. Cambridge	10726
 Capabilities Brian Nawa Nawa	9792
 Capabilities Sen	10726
-Capability	2709,794,3329,957,199,103,856,1141,69,1153,676
+Capability	2709,794,3329,957,199,103,856,1141,69,1153,676,311
 Capability Approach Applied	10726
 Capability Approach Can Be Used	10726
 Capability Deprivation	10726
@@ -627,7 +633,9 @@ Capacitación	1701,2508
 Capacitar	1701,2445,6606,2,18,604,87
 Capacitate	940,221,9972,853
 Capacitate the Ministry	958
+Capacitating	12175
 Capacitating IS Branch	11986
+Capacitating the Digital Community Hubs Responsible	12241
 Capacitation	961,4572,3358,3095
 Capacitation of Border Management Agencies	4390
 Capacitação	2295,521,1087,551,2,291,6621,22,4,19,43,5,437
@@ -636,13 +644,13 @@ Capacitação Perante	10772
 Capacitação Profissional	2816
 Capacities	11269,638
 Capacitors	1988
-Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108
+Capacity	111,285,182,49,91,18,53,110,41,18,173,112,18,23,181,237,64,52,49,121,104,367,218,312,195,1,271,139,9,110,126,21,353,209,102,76,52,243,140,176,275,46,87,57,3,320,55,321,163,132,265,31,99,85,71,146,89,91,338,740,321,176,114,732,104,84,293,271,38,5,4,13,48,6,2,1,10,13,1,30,20,52,4,11,16,136,2,49,8,28,10,189,135,23,280,2,5,8,8,8,1,1,1,16,11,4,28,4,1,3,108,74,15,1,9,33,37,7,13,3,5
 Capacity Accelerator Network	6729
 Capacity Aggregation	10157
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building Capacity	1988
 Capacity Building Central	6946
@@ -664,15 +672,22 @@ Capacity Building and Content Development	395,563
 Capacity Building and Content Development Zimbabwe	395
 Capacity Building and Education Pillar	4528
 Capacity Building and Education Unit	4528
+Capacity Building and Improving	12138
 Capacity Building and Institutionalization	12008
+Capacity Building and Mentorship Program	12255
 Capacity Building and Mentorship Program Universities	1824
 Capacity Building and Readiness The Office	11134
 Capacity Building and Technical Exchange	4848
 Capacity Building and Training	10776
+Capacity Building and Training for Contractor's Workers	12253
+Capacity Building and Training for Stakeholders	12253
+Capacity Building and Training for Stakeholders The PIU	12253
 Capacity Building for NOSi	11965
 Capacity Building of Teachers	7405
 Capacity Building. Ministry of President	1777
 Capacity Building. Today	2787
+Capacity Capacity Installed Installed Effective Hydro	12256
+Capacity Certified Digital Trainer	12241
 Capacity Component	10768
 Capacity Constraint	11965
 Capacity Constraints	10829,696
@@ -688,11 +703,14 @@ Capacity Development and Digital Literacy	5244
 Capacity Development and Skills Sustained	10157
 Capacity Development for ICT	209
 Capacity Enhancement Programme	8950
+Capacity Gap Exposed	12214
 Capacity Guidelines	7548
+Capacity Hydro Thermal	12256
 Capacity Limits	4601
 Capacity Make Model Tx Power Tunability	736
 Capacity Management Policy Tier	10721
 Capacity Management for Data Centre	9123
+Capacity Media The Mozambique Internet Exchange	12237
 Capacity Operational Jan Feb Mar Apr	11953
 Capacity Preamble	6946
 Capacity Project ID Project Name Additional	1284
@@ -717,6 +735,7 @@ Capacity of ICT	635
 Capacity-Building	1000,6098
 Capacity-Building Enabel	10865
 Capacity-Building Initiative	5460
+Capacity-Building Plan	12241
 Capacity-Building Program Package and Simulation Materials	12008
 Capacity-Building Program Report	12008
 Capacity-Building Program and Simulation Workshops	12008
@@ -725,7 +744,7 @@ Capacity-Building Sessions for Decision-Makers	10720
 Capacity-Building Workshop	10210
 Capacity-Building and Mentorship Partnership Program	1212
 Capacity-Building and Organizational Development Expert	12008
-Capacity-building	961,170,133,1057,2109,1246,2345,162,2646,591,105,380
+Capacity-building	961,170,133,1057,2109,1246,2345,162,2646,591,105,380,309,31
 Capacity-constrained	7731
 Capacity-development	10764
 Capacity6D. Ceavpealocpitmy	10157
@@ -752,8 +771,8 @@ Cape Free State KwaZulu	11262
 Cape Gate Regional Centre	8999
 Cape Metropolitan Council	6683
 Cape Mount	10406
-Cape Peninsula University of Technology	8130
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44
+Cape Peninsula University of Technology	8130,4048
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
 Cape Town Campus	2994,938
@@ -863,7 +882,7 @@ Capgemini Consulting. Winkler	6832
 Capgemini Maroc	7488
 Capgemini Par	7488
 Capgemini and Orange	6477
-Capita	10775,1082,66
+Capita	10775,1082,66,268
 Capita N390	11857
 Capitaine Amadou Haya Sanogo	7999
 Capitaine Ibrahim TRAORE	4031,2796,843
@@ -871,13 +890,14 @@ Capitaine Ibrahim TRAORÉ	4029,822
 Capitaine Ibrahim Traoré	4124,746
 Capitaine Ibrahim Traoré. Elle	10545
 Capitais Maioritariamente Públicos	10783
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,182,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,182,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110
 Capital Adequacy Ratio	11131,3
 Capital Application	10762
 Capital Assets	11230
 Capital Balance	11131
 Capital Budget	11136
 Capital CMS Content Management System CSS	236
+Capital City	12253,38
 Capital Employed	7009
 Capital Enabling PCM Private Capital Mobilization	1264
 Capital Entretanto	11569
@@ -886,6 +906,8 @@ Capital Expenditure	3583,2417,1695
 Capital Expenditure Cost	6000
 Capital Expenditures CDN Content Delivery Network	10781
 Capital FM Kenya	6231
+Capital FM. All	12290
+Capital FM. Copyright	12290
 Capital Flow Management Framework	11134
 Capital Flow Management Regulations	8783,57,287,660,665
 Capital Flow Management Regulations18	7253
@@ -895,7 +917,7 @@ Capital Gains Tax Act	4896,7051
 Capital Gains Tax Act Description Date	4896
 Capital Gains Tax Act of Zimbabwe	4896
 Capital General	11131,3
-Capital Hill	127
+Capital Hill	127,12126
 Capital Hotel	10049
 Capital Humain	10965
 Capital Humano	7948,3431,27,163
@@ -915,7 +937,7 @@ Capital MPA Early Years Program	11469
 Capital MPA Governance	11469
 Capital Managers	7928
 Capital Market	10
-Capital Market Authority	11496
+Capital Market Authority	11496,726
 Capital Market Development Package Conference	8770
 Capital Market Operators	8178
 Capital Markets	10,2765,4748,25,4446
@@ -972,11 +994,13 @@ Capitalise SEPs	958
 Capitalise SOEs	958
 Capitalised	11995
 Capitaliser	1896,6995
+Capitalism and Autochthony	12227
 Capitalize the SEPs	958
 Capitalized	3503
 Capitalizing	3905
 Capitals	10908
 Capitania	4747
+Capitation	12312
 Capitation Grant	7695
 Capitaux	2342
 Capitec	3435,1337,352,202,207,58,1662,78,308,119,674,151,600,1436,180,1187
@@ -1039,17 +1063,17 @@ Capture The Flag	3112
 Capture and Validate KYC Processes	10819
 Capture of INSTAT Madagascar	9481
 Capture the Flag	7720
-Captured	585,185,126,124,572,1182,105,983,265,314,1148,156,678,65,178,533,26,98,7,1567,89,180,1073,410,415,621,249
+Captured	585,185,126,124,572,1182,105,983,265,314,1148,156,678,65,178,533,26,98,7,1567,89,180,1073,410,415,621,249,210,24,3,42,78
 Captures	6542
 Capturing	4857,2716,1550,1729,1189
-Capítulo	2816,1393,2761,3777,8,22,636,124,10
+Capítulo	2816,1393,2761,3777,8,22,636,124,10,595
 Capítulo I	10755
 Capítulo II	1701,9836
 Capítulo III	1701,9046,8
 Capítulo IV	1701,9054,675,107
 Capítulo V	1701,9054,782
 Capítulo VI	1701,9836
-Capítulo VI da Lei	10755,670
+Capítulo VI da Lei	10755,670,886
 Capítulo VII	1701,9836
 Capítulo VIII	11537
 Capítulo VIII da Lei	10755
@@ -1072,7 +1096,7 @@ City of Cape Town The Western Cape	7514,2588
 City of Cape Town Urban Mobility Directorate	11494
 City of Cape Town Water Desalination Feasibility	11248
 City of Joburg and City of Cape Town	1912
-Civil Registration Capacity	10759,78
+Civil Registration Capacity	10759,78,1315
 Civilians Capacity	10968
 Cloud Adoption Committee CapEx	6432
 Co-investor Quona Capital	934
@@ -1154,12 +1178,14 @@ Daapleu. REPARTITION DU CAPITAL	2342
 Daily News CAPE TOWN	3954
 Daloa. Capital	2342
 Data Capsules	7313
+Data Capture	12212
 Data Capturer Clerks	8639
 Data Capturer Ward Clerk Administration Manager	8603
 Data Capturing Microsoft Excel Ease	9124
 Data Centre Capacity Planning	9123
 Data Centre Storage Capacity	11863
 Data Governance Capacity Building Workshop	7226
+Data Protection Cape Town	12232
 Data Protection and Privacy Act CAP	4167,50
 Data Protection and Privacy Act Cap	3312
 Data Use and Statistical Capacity	769
@@ -1169,6 +1195,7 @@ December. Staff Development and Training Capacity	1554
 Defining Capabilities and Application Areas	11156
 Definições CAPÍTULO II	11461
 Delivery de Capgemini	7488
+Democratic Governance and Rights Unit University of Cape	12174
 Demonstrated Global Capacity Certificate	10975
 Deploy Live Capture	11986
 Deputada Maria de Lourdes Roque Caposso Femandes	539
@@ -1197,7 +1224,10 @@ Development of African Financial Markets Capital	6938
 Di Capital	4453
 Die University of Cape Coast	455
 Differentiated Responsibilities and Respective Capabilities	11210
+Digital Business Ecosystem Capabilities	761
 Digital Capacity	7098
+Digital Capacity Building	12241
+Digital Capacity Lab	12241
 Digital Cape Verde	11909
 Digital Governance Capacity Effects	8075
 Digital Government Capability	11940
@@ -1266,17 +1296,27 @@ Eastern Cape. Using	7574
 Eastern and Southern Africa. Capital	517
 Eastern and Western Cape	11297
 Education Capacity Building Specialist	11134
+Education System Capacity	12175
 Effective Usable Capacity	11209
+Effective and Captive Power Capacity	12256
 Egypt’s New Administrative Capital	4563
 Ekurhuleni and Cape Town. Teraco	9769
 Electricidade de Moçambique Captured	9409
+Electricity Capacity	12261
+Electricity Installed Capacity	12256
+Electricity Per Capita Consumption	12256
 Electronic Cap	6921
+Elevate Nation’s Technological Capacity	12279
 Emerging B- Domestic Maintenance Capability	7548
 Emerging Capital Partners	292
 Employees Capital	236
+Energy Act Cap	12256
 Energy Saving Solution Across Western Cape	8112
 Engagement Human Capital Management Our Ethics	11131
+Enhance Enforcement Capacity	12214
+Enhance Enforcement Capacity Address Fair Market	12214
 Enhanced Capacity for Assessment	11905
+Enhanced Education System Capacity	12175
 Enhancement of Law Enforcement Capability Program	1000
 Enhancing the Social Protection System for Human Capital	11375
 Enterprise Architecture Data Capturing Template	9124
@@ -1306,6 +1346,7 @@ Eswatini Health System Strengthening for Human Capital	559
 Eswatini IFMIS and PFM Capacity Building Project	536
 Eswatini's Health System Strengthening for Human Capital	538
 Ethiopian Capital Market Authority	7909,1498
+Ethiopian Ships Captain	12226
 Exact CapEx	1174
 Except for Northern Cape	11192
 Excise Cap	6921
@@ -1328,7 +1369,7 @@ FINANCING Private Capital Facilitation	2473,2180
 FPAC and CAPF	10244
 Fair Cap	6921
 Federal Capital Abuja	10861
-Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49
+Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96
 Federal Capital Territory Administration	4301
 Federal Capital Territory H.E. Dr. Mariya	5991
 Federal Capital Territory Nyesom Wike	7176
@@ -1351,8 +1392,9 @@ Financing of Capital Formation	2775
 Fireball Capital	835
 First Ally Capital	7415
 First Capacity Crisis for Starlink	4601
-First Capital Bank	5263,71
-First Capital Bank Botswana	5261,2,71
+First Capital Bank	5263,71,6907,50
+First Capital Bank Botswana	5261,2,71,6918
+First Capital Bank Limited	12252
 Foreign Capital	7446
 Foreign Capital Alone Cannot	9602
 Foreign Position Exchange Reserves Capital	11134
@@ -1444,6 +1486,7 @@ Health System Strengthening for Human Capital Development	538,21
 Health Systems Strengthening for Human Capital Development	5126
 Health. Human Resource Capacity Though	21
 Helios Growth Capital Investment Helios Investment	887
+High Court Strikes Down Cap	12227
 High Human Capability-expanding	10726
 Historical Background Cape Verde	11909
 Hong Kong-based Venture Capital	11911
@@ -1453,7 +1496,7 @@ Human AI Capabilities and Development AI Adoption	10726
 Human Capabilities	10726
 Human Capacity	1161,9839
 Human Capacity Development	1554
-Human Capital	969,3559,2409,3831,363,3,131,204,455,31
+Human Capital	969,3559,2409,3831,363,3,131,204,455,31,265
 Human Capital Development	1154,2707,667,748
 Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
@@ -1469,15 +1512,18 @@ Human Capital Opportunities Authority Advanced	11469
 Human Capital Project	10964
 Human Capital Reform DPF World Bank	763
 Human Capital Risk Management Human Capital	11134
+Human Capital Risks	12225
 Human Capital SISP	11955
 Human Capital Second Development Policy Financing	11918
 Human Capital Service Delivery Transformation	723
 Human Capital Sustainability Competition	11134
+Human Capital Transformation Strategic Plan	12225
 Human Capital and Connectivity	10829
 Human Capital and Research	3235
 Human Capital and Resilience Building	10768
 Human Capital and Resilience Building Cash	10768
 Human Capital and Skills	11469
+Human Capital and Workforce	12240
 Human Resource Capacity	21
 Human Resource Capacity Monitoring and Evaluation	21
 Human Resources Capacity for Universal Health Coverage	11417
@@ -1495,6 +1541,7 @@ IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
 IFC and Sango Capital. Crosswalk	454
 IFC and South Africa's Sango Capital. Portfolio	454
 III. MODALIDADES E CAPACIDADES DE IMPLEMENTAÇÃO	11523
+IMF Human Capital Risk IT Headquarters	12225
 IMF's Monetary and Capital Markets Director	9511
 INSTITUTIONAL CAPACITY	6946
 INSTITUTIONAL CAPACITY REQUIREMENTS	3861
@@ -1509,8 +1556,10 @@ IOM African Capacity Building Centre	10317
 IRIPHABLIKHI YOMZANTSI-AFRIKA Cape Town	11182
 ITWeb Cape-based	10538
 ITWeb Security Summit Cape Town	5806
+Identification Number UNCDF United Nations Capital	12241
 Immigration Scalabrini Centre of Cape Town	11986
 Implement Live Capture for Smart ID	11986
+Implementation Capacity and Systems	12214
 Imports Cap	6921
 Imposto de Capital	11532
 Improve Domestic Diagnostic and Treatment Capacity	10829
@@ -1535,7 +1584,8 @@ Ingressive Capital	3779
 Injaro Ghana Venture Capital Fund	1047
 Innovation and Capacity	1131
 Innovation and Capacity Building	4528
-Installed Capacity	11953
+Installed Capacity	11953,303
+Installed Capacity Kenya	12256
 Installed and Effective Capacity of Electricity	2775
 Instituições Financeiras. CAPÍTULO V PESSOAL	13
 Institutional Capacity	8184,3607
@@ -1606,6 +1656,7 @@ LOS CRÉDITOS PRESUPUESTARIOS CAPÍTULO	4209
 LOS DERECHOS DE LAS PERSONAS CAPITULO	163
 LOS PRESUPUESTOS CAPITULO	4209
 LP Capricorn DM	11986
+LPG Per Capita Consumption	12256
 La Compagnie Ivoirienne Capital	2342
 La Compagnie Minière du Littoral Loh-Djiboua. Capital	2342
 Laboratory Capacity	10776
@@ -1617,6 +1668,7 @@ Layering Human Capital and PI Interventions	10768
 Le Cap	8755,1856
 Le Capitaine Ibrahim TRAORE	1967
 Le Programme de Renforcement des Capacités du MTFP	1281
+Leadership and Strategy Implementation Capacity and Systems	12214
 LeapFrog and Tana Africa Capital	908
 Legal Technical Capacity Organizational	10764
 Legislação Orçamental. CAPÍTULO VI Supervisão	6970
@@ -1658,11 +1710,15 @@ MW Average Available Capacity	12062
 MW CAPACITY PER MILLION POPULATION	10861
 MW Capacity	10781
 MW Cape Town	1404
+MW. Captive	12256
 Macau and Cape Verde	6361
 Machine Learning Eastern Cape Gqeberha	6832
 Madagascar Statistical Capacity Building World Bank	222
 Maio CRISTINA JOÃO CAPOXE	10751
+Makes Registration Mandatory for Capitation URL	12312
 Malanje Capanda	11366
+Malawi's Human Capital Development Aspirations	12175
+Malawi. Strategic Financial Management and Capital Strength	12315
 Male Female Western Cape	11192
 Mandate Resident Cybersecurity Teams and Capabilities	1777
 Manpower Development and Capacity Building	11129
@@ -1676,6 +1732,7 @@ Massive Capacity	5675
 Matéria Penal. CAPÍTULO V Disposições Transitórias	6970
 Max Capacity	736
 Maximize Private Capital for Infrastructure and Agribusiness	11469
+Mbaraki Total Capacity	12256
 Mbps. Capacity	3774
 Mercado De Capitais Exige Empresas Preparadas	8003
 Message du Camarade Capitaine Ibrahim Traoré	3395,3488
@@ -1737,6 +1794,8 @@ Nigeria and Cape Verde	3553
 Nigerian Capital Market	10
 Nigeria’s Federal Capital Territory	9456,377
 Nigeria’s Human Capital Index Plus	11469
+No. Name of Facility Capacity	12256
+No. Region Combined Capacity No. of Facilities	12256
 Norrsken22 and Blue Earth Capital	1140
 Norrsken22 and Blue Earth Capital. Norrsken22	1140
 North West Northern Cape Western Cape	1013
@@ -1767,6 +1826,7 @@ OPERATING COST CATEGORY CAPEX REVENUE	3862
 OPÉRATIONS EN CAPITAL Cession	2342
 Obras Públicas. CAPÍTULO V DISPOSIÇÕES FINAIS	10783
 Office of Strategic Capital	4447
+Official Launch and Platform Capabilities The Fayda	12238
 Oil Pipelines Act Cap. O7 Section	11857
 Operation Name Guinea-Bissau Guinea-Bissau Human Capital	11560
 Operational Capacity for Cybercrime. Liberia National	1777
@@ -1818,7 +1878,10 @@ Peace and Security The University of Cape Town	3654
 Penal Code Cap	11857
 Per Capita	2775,8487
 Per Capita Average Revenue Per Capita	10765
+Per Capita Consumption	12256
+Per Capita Consumption of LPG	12256
 Performance of Capital Markets	6938
+Petroleum Act Cap	12256
 Pietermaritzburg Johannesburg Public Library Eastern Cape	11237,21,28
 Pipeline Capacity	3184,1,1340,6470
 Planned Capacity Loss Factor	11297
@@ -1845,6 +1908,7 @@ Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,64
 Private Capital Mobilization	1264
 Private Capital Mobilization PDO Project Development	6539
 Private Capital Mobilization Scheme	4500
+Private Sector Venture Capital and Private Equity	12210
 Procurement Risks and Capacity Assessment	11863
 Product Graduate Trainee Human Capital HRH	11134
 Professional Services Capital Goods Food	4972
@@ -1852,11 +1916,14 @@ Program Management and Capacity Building	6539
 Programa Reforzamiento de Capacidades	4209
 Programme Quinquennal de Transformation du Capital Humain	1993
 Progress Capital Stocks	236
+Project Coordination and Capacity Building	12175
 Project Management and Capacity Building US	6539
+Project Management and Implementation Capacity	761
 Projecto. CAPÍTULO IV EXECUÇÃO E CONTROLO	10783
 Promotes Egyptian Women Empowerment and Human Capital	11133
 Promoting Inclusive Human Capital Development and Building	11133
 Propel Capital. Melchior Koba	8315
+Proposed Capacity Building and Training Budget	12253
 Proposed Training and Capacity Building	1988
 Proposed Training and Capacity Building Approach	1988
 Proposed Training and Capacity Building Approach S	1988
@@ -1913,6 +1980,7 @@ Renforcement des Capacités du Personnel	10975
 Renforcement des Capacités du Personnel L’année	10975
 Renta de Capital Inmobiliario	4209
 Renta de Capital Mobiliario	4209
+Repeal of Cap. N21	12145
 Representatives of Capital Pay	3583
 Republic of Liberia National Incident Response Capacity	1777
 Research Electronic Data Capture	10188
@@ -1953,6 +2021,7 @@ SISTEMAS INFORMÁTICOS CAPÍTULO I DISPOSIÇÕES GERAIS	10747
 SOCIEDADE DA INFORMAÇÃO CAPÍTULO I PRINCÍPIOS	15
 SOCIÉTÉS CAPITAL PFP RN	2342
 SOCIÉTÉS CAPITAL PFP4 RN	2342
+SOT No. Facility Capacity	12256
 SOUTENUE PAR L’AUGMENTATION DES CAPACITÉS	2342
 SPECTRUM OUTLOOK AND CAPACITY REQUIREMENTS	5245
 SSA EAP Capital	11149
@@ -1976,6 +2045,7 @@ Seedstars Africa Ventures and Taru Capital. Funds	810
 Seedstars Africa Ventures and Taru Capital. Subject	810
 Senior Cape Verdean	2794
 Sequoia Capital	5482
+Sequoia Capital India	12244
 Sequoia Capital and Alphabet. Starlink	4351
 Sequoia Capital’s Julien Bek	5482
 Service Capability	6051
@@ -1983,6 +2053,7 @@ Service Land and Network Furniture& Motor Capital	236
 Service Manager Web and Live Capture	10619
 Sex Male Female Total Western Cape	11192
 Seychelles Civil Status Act Cap	1012
+Shimanzi Total Capacity	12256
 Silicon Cape	1363
 Sistema de Pagamentos Instantâneos de Moçambique CAPÍTULO	5169
 Skills and Capabilities	6432
@@ -2040,12 +2111,14 @@ Strengthen Virtual Asset Regulation The Capital	11501
 Strengthening Capacity	679
 Strengthening Institutional Capacity The Agency	1131
 Strengthening Local Government Capacity	11285
+Strengthening NRB Operational Capacity for NID	12241
 Strengthening Rwanda Industrial Standardisation ICT Capacity	1534
 Strengthening Tax Administration Capacity Project	5351,4871,350,72
 Strengthening the Institutional Capacities	10420
 Structures and Capacities	179
 Subsector Capacitación	4209
 Substantial Institutional Capacity for Implementation	1284,1428,1976
+Sunbird Capital	12174
 Sunu Capital	10464
 SupTech Enhance Supervisor Capacity	1478
 Supervisory Capability Limitations	4848
@@ -2055,7 +2128,8 @@ Supports Cape Verde	356
 Supremo Tribunal de Justiça. CAPÍTULO V CONTENCIOSO	11528
 Surveillance Capitalism	11028
 Swen Capital and BII	4972
-System Capacity Grant	11916
+System Capacity Grant	11916,259
+System Capacity Grant SDG	12175
 System Cape Verdean Women's Self-Promotion Association	11855
 System Load Residual Load Capacity GW	11953
 System for Human Capital and Resilience	10768
@@ -2081,6 +2155,7 @@ TRAINING AND CAPACITY BUILDING STANDARDS	11952
 TRAINING AND CAPACITY-BUILDING STANDARDS	11952
 TRN Capture	11298
 TSM E CAPITAL HUMANO	11406
+TT Capital	12138
 Tamale and Cape Coast. Besides	789
 Tambo International Airport and Cape Town	8137
 Tambo and Cape Town International Airports	11236
@@ -2100,6 +2175,8 @@ Technical Capacity Consumer	5676
 Technical Capacity and Advancement	1261
 Technical Capacity and Skills	5244
 Technical Capacity and Skills Data	5244
+Technology Interconnected Capacity Captive Capacity Offgrid	12256
+Technology Interconnected Capacity Captive Offgrid Capacity	12256
 Technology Nominal Capacity	11953
 Telecom Providers CAPEX	3862
 Teraco Expands Cape Town CT2 Data	3932
@@ -2129,7 +2206,9 @@ UAE Capital Market Authority	11496
 UN Group of Friends for AI Capacity-Building	10215
 UN Human Capital Index	10785
 UNCDF United Nations Capital Development Fund	11960
-UNESCO International Institute for Capacity Building	7405
+UNDP Digital Capacity Lab	12241
+UNDP's Digital Capacity Lab	12241
+UNESCO International Institute for Capacity Building	7405,4791
 UNHCR CEMAC USSD United Nations Capital	11944
 UNIVERSITY OF CAPE TOWN	11885
 US-based Queen’s Gambit Growth Capital	4972
@@ -2154,7 +2233,7 @@ United Nations Capital Development Fund's Leaving	11773
 Universal Cap	6921
 University of Cape Coast	455
 University of Cape Coast Data Literacy Week	6508
-University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641
+University of Cape Town	271,161,816,2406,1390,1498,406,1616,564,203,346,1350,309,641,215
 University of Cape Town Launch	3654
 University of Cape Town SARChI Chair	3654
 University of Cape Town and Wits	9574
@@ -2170,7 +2249,9 @@ Used International Internet Bandwidth Capacity	6000
 Used International Internet Bandwidth Capacity for Starlink	6245
 Utilized Bandwidth Capacity	6671
 Utilized Capacity	6671
+Utilizing the GPE System Capacity Grant	12175
 VC Investment Firms UAE Renew Capital	4972
+VC Venture Capital Registration System IRC	12297
 VENTURE CAPITAL	4972
 VENTURE CAPITAL DEAL	4972
 VENTURE CAPITAL DEAL VOLUME	4972
@@ -2183,7 +2264,7 @@ Validation and Capacity Building Workshop	962
 Valuation Surveyors Act Cap	1988
 Value-Based Capital Allocation Framework	8607
 Variable Capital Companies Act	7845
-Venture Capital	4528,444,2261,2501,1220,993,47
+Venture Capital	4528,444,2261,2501,1220,993,47,216
 Venture Capital Deal	4972
 Venture Capital Deal Activity	4972
 Venture Capital Deal Volume	4972
@@ -2283,6 +2364,7 @@ Western Cape. Standard Bank	9720
 Whether Cape Town	9617
 Wildlife Cap	6921
 Wimsey Capital	10595
+Winam Capital	12155
 Working Capital	11240
 Working Capital Statement	5538
 World Bank Guinea-Bissau Human Capital	11560

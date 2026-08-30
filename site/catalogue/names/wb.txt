@@ -58,6 +58,7 @@ WB Digital Development Partnership	525,634
 WB Digital Development Partnership. SSA	525
 WB Digital Economy Country Diagnostic for Equatorial	1752
 WB Digital Economy Diagnostic	1809
+WB E&S	12195
 WB EHS	1988
 WB EHSG	1988
 WB EHSGs Satellite PMU and Contractor Poor	1988
@@ -85,6 +86,7 @@ WB IDEA and AFD	4841
 WB ISR06425	4379
 WB Implementation	2840,289
 WB Joint Capital Markets	11469
+WB N	12195
 WB Nigeria	3456
 WB P180495 DRC Digital Transformation Project	2126
 WB PforR	1573
@@ -95,7 +97,7 @@ WB Project Paper	583,2197
 WB Rep Oyewole Afuye	2604
 WB TTL	973
 WB USD	4466
-WB World Bank	11863,24
+WB World Bank	11863,24,266,1,9
 WB-diagnostic	3038
 WB-financed	4427
 WB-financed Gambia Essential Health Services Strengthening	1654

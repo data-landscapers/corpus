@@ -50,7 +50,7 @@ GSI Guidelines	4848
 GSIE TECHNOLOGIE C	998
 GSIMT Switch	6938
 GSM Active Voice Subscriptions	3862
-GSM Association	1228,2676,2877,34,4004,22,136
+GSM Association	1228,2676,2877,34,4004,22,136,1254
 GSM Association Introduction Benin Ghana Digital	10822
 GSM Association Official Document FS.31 CM	10721
 GSM Connectivity	11857
@@ -147,7 +147,7 @@ GSMA Mobile for Development Foundation Inc	66
 GSMA Mobile for Development Sayali Borole	11994
 GSMA Mobile for Development. SSA	719
 GSMA Mobile for Humanitarian	195
-GSMA Mobile for Humanitarian Innovation	1224
+GSMA Mobile for Humanitarian Innovation	1224,11081
 GSMA MobileEconomy2020 SSA Eng.pdf Page	10819
 GSMA Nigeria Digital Economy Report	5245
 GSMA Open Gateway	6593,241
@@ -163,6 +163,7 @@ GSMA Republic of Congo	7347
 GSMA SSA	1923
 GSMA Satellite Regulatory Playbook	7825
 GSMA State	5497,2677
+GSMA TIPs Bank of Tanzania	12214
 GSMA Tax Database. Côte	10932
 GSMA The GSMA	11964
 GSMA The GSMA Digital Identity Programme	10822
@@ -201,6 +202,7 @@ GSMA. Organisations	11017
 GSMA. QoS	10856
 GSMA. Road	5675
 GSMA. Supports	1169
+GSMA. The Mobile Disability Gap Report	12231
 GSMA. What Is the Impact of Mobile Telephony	5675
 GSMA76	10856
 GSMA76 Figure	10856
@@ -292,6 +294,7 @@ Reference Gsenger and Strle2021	8283
 Reports the GSMA State	5497
 Rwanda. GSMA	10819
 Safeguards Specialist Social GSU01 Jose C	11525
+Saharan Africa. GSMA	12278
 Secure Identity Alliance Discussion Paper. GSMA	10819
 Selon la GSMA	9724
 Sonia Gsir	10865
@@ -305,6 +308,7 @@ UNICEF and GSMA	8050
 UganSocial Inclusion GSM Associa-	10819
 Used GSMA	1363
 VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
+World Bank Group. GSMA	12214
 World Bank and GSMA	6078,1972,3956
 YoY. GSMA Intelligence	2500,1414
 Zambia GSMA	10819
