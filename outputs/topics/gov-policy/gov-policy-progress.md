@@ -1,13 +1,13 @@
 ---
-title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: gov.policy
 places: XAF; XSA; XWA
-record: f2e3e199f765
+record: e92f20a34820
 ---
 
-# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-29
+# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -31,7 +31,7 @@ record: f2e3e199f765
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | BCEAO regulatory approach to cryptoassets | No recognition of cryptoassets as legal tender and repeated warnings to users, with no regulatory work under way | [The central bank opened a structured process across 2025 and 2026: a questionnaire sent to fintech operators, a dedicated committee named C-CRYPTO, and a high-level international conference in May 2026. Cryptoassets remain outside legal tender and no instrument has been issued; the legal framework is described as still incomplete, and the question the bank has set itself is how to admit the instruments without compromising monetary stability, the issuance monopoly of the CFA franc and the integrity of the regional financial system](https://www.financialafrik.com/en/2026/08/26/regulation-of-cryptoassets-in-the-uemoa-between-financial-innovation-and-preservation-of-monetary-stability/) | Advanced |
 | ECOWAS Regional Digital Single Market roadmap | Did not exist | [Adopted as a commitment to harmonise policy across interoperable fintech, unified digital ID and rural broadband; no work programme, timetable or budget held](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/) | Advanced |

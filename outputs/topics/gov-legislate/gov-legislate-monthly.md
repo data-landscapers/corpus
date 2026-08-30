@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, July 2026
 compiled: 2026-08-30
 period: 2026-07-01 to 2026-08-30
 subject: gov.legislate
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c8d01d59d8f8
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 57e7a042c913
 ---
 
 # Legislation and regulation: monthly update, July 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -259,6 +259,12 @@ A public-private dialogue on 27-28 July was convened [to operationalise the Elec
 The regulator announced on 30 July that the [Subscribers Regulations 2025 will fine operators 25,000 new leones for each unregistered or pre-activated SIM, with a staged disconnection ladder and SIMs matched to National Identification Numbers](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/). The six-month transition is presented as running from that announcement, so the phase-out date is unestablished, and the instrument's own text is not held.
 
 Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied on 26 July that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
+
+## Somalia
+
+The Cybersecurity Law is not yet through parliament. The Upper House [gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August 2026](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. The chamber's [own published procedure requires three readings](https://senate.gov.so/laws/?lang=en) before a bill passes it.
+
+The House of the People [approved a Cybersecurity Law on 26 January 2026](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/), assigning policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators. Nothing on file states whether the bill now before the Upper House is that instrument, and neither text is held.
 
 ## South Africa
 

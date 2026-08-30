@@ -1,13 +1,13 @@
 ---
-title: New investments — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: New investments — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: finance.new
 places: XAF; XSA; XWA
-record: 18a23db1f752
+record: a2722a317bb8
 ---
 
-# New investments: progress report, 2025-08-01 to 2026-08-29
+# New investments: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -56,7 +56,7 @@ record: 18a23db1f752
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund (BOAD/KfW) | Did not exist | [A joint fund of the West African Development Bank and the German development bank carrying an envelope of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, with a published six-step instruction and validation process, a named focal point in each member state, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing; no date of signature or entry into force, no country allocation and no committed or disbursed total is published](https://ftd.boad.org/) | Advanced |
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |

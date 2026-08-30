@@ -1,13 +1,13 @@
 ---
-title: Cybersecurity — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Cybersecurity — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: infra.cybersec
 places: XAF; XSA; XWA
-record: b3ef313d6135
+record: 8cddd06f46d5
 ---
 
-# Cybersecurity: progress report, 2025-08-01 to 2026-08-29
+# Cybersecurity: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -33,7 +33,7 @@ record: b3ef313d6135
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | ECOWAS Regional Cybersecurity Coordination Mechanism | Did not exist | [Establishment approved; no terms of reference, seat, budget or staffing held](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) | Advanced |
 | Regional organised-crime operation | Under way | [An eight-month international police operation targeting West African organised crime groups concluded with 58 arrests](https://www.interpol.int/News-and-Events/News/2026/58-arrests-in-global-effort-to-dismantle-West-African-organized-crime-groups) | Closed |

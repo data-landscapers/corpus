@@ -4,7 +4,7 @@ compiled: 2026-08-30
 period: 2026-07-01 to 2026-08-30
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 85969c4887da
+record: 5af4ddf27599
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
@@ -157,7 +157,7 @@ The federal payroll is to be audited from the outside. The President [directed t
 
 ## Rwanda
 
-Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/), and a 2025 analysis had described the same system as already operating.
+Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/) — against a health ministry statement of April 2025 that [e-Ubuzima was deployed in 15 districts and paper records would be gone from every public facility by December 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). Nothing on file states what was delivered against that date.
 
 ## Sao Tome and Principe
 

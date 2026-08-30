@@ -1,13 +1,13 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: AI — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: tech.ai
 places: XAF; XSA; XWA
-record: 69c17e525093
+record: 207a840b2101
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-29
+# AI: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -39,7 +39,7 @@ record: 69c17e525093
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date held in the six months since; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Advanced, marginal |
 | Francophone West African AI governance guidelines | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal; advisory, complementing national strategies rather than replacing them](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |

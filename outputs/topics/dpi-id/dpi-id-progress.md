@@ -1,13 +1,13 @@
 ---
-title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: dpi.id
 places: XAF; XSA; XWA
-record: c0d83aa8d181
+record: 13e6af41e8a1
 ---
 
-# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-29
+# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -33,7 +33,7 @@ record: c0d83aa8d181
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | AES biometric passport | Launched in January 2025, with no state-by-state issuance on record | [Issuing in all three states, with Mali's supplied by China's Emptech in place of France's Idemia](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Advanced |
 | CIB-AES (AES biometric identity card) | Did not exist | [Issuing in Burkina Faso since December 2025 and in Niger since March 2026, with mass enrolment under way and cross-border enrolment tested in Mali](https://www.biometricupdate.com/202511/burkina-faso-introduces-new-biometric-id-system-in-major-digital-leap) | Advanced |

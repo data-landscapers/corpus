@@ -1,17 +1,19 @@
 ---
-title: Data Storage — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Data Storage — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: infra.store
 places: XAF; XWA
-record: 586b0f610c50
+record: d99800848199
 ---
 
-# Data Storage: progress report, 2025-08-01 to 2026-08-29
+# Data Storage: progress report, 2025-08-01 to 2026-08-30
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Africa
 
@@ -24,6 +26,6 @@ record: 586b0f610c50
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | Data-centre capacity gap | ***Baseline not held*** | [About 150MW to 200MW of new capacity — 30 or more large-scale facilities — needed to reach the capacity-to-population ratio of a moderately mature market such as Morocco, on a regional depth of 0.04MW per million people; as at early 2025 the region was the only one on the continent with no established or announced public cloud region from any of the world's five largest cloud providers](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) | ***Baseline not held*** |

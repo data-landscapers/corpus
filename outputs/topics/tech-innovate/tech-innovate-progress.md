@@ -1,17 +1,19 @@
 ---
-title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: tech.innovate
 places: XAF; XWA
-record: 3dfafd07d606
+record: 02e62290df66
 ---
 
-# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-29
+# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-30
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Africa
 
@@ -22,6 +24,6 @@ record: 3dfafd07d606
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | ECOWAS Startup Awards | Baseline not held | [A second edition launched by the Commission's private sector and industry directorate, offering scaling technology-led businesses managerial training, venture funding and cross-border expansion support within the continental free trade area; no prize fund, entry deadline, cohort size or outcome from the first edition is published](https://dailytrust.com/ecowas-unveils-2nd-regional-startup-awards-to-drive-innovation-youth-employment/) | Advanced |

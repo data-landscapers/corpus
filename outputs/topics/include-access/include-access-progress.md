@@ -1,13 +1,13 @@
 ---
-title: Access to services — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Access to services — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: include.access
 places: XSA; XWA
-record: eb10c8027f57
+record: b4a2f64d3d4d
 ---
 
-# Access to services: progress report, 2025-08-01 to 2026-08-29
+# Access to services: progress report, 2025-08-01 to 2026-08-30
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -23,6 +23,6 @@ record: eb10c8027f57
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | Open e-money accounts in the UEMOA | 209,025,380 accounts (2023) | [248,710,918 accounts (2024-12-31), of which 76,863,533 active, an activity rate of 30.9%](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced |

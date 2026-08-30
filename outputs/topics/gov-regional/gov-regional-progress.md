@@ -1,13 +1,13 @@
 ---
-title: Regional collaboration — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Regional collaboration — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: gov.regional
 places: XAF; XSA; XWA
-record: 71e09a928534
+record: d57d387ff615
 ---
 
-# Regional collaboration: progress report, 2025-08-01 to 2026-08-29
+# Regional collaboration: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -47,7 +47,7 @@ record: 71e09a928534
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | Alliance of Sahel States (AES) | A common biometric passport launched in January 2025; harmonised document specifications validated but unpublished; no confederal card issued | [Both confederal credentials issuing, a cross-border enrolment run on another member's soil, and a national data centre offered as mutualised AES infrastructure](https://anp.ne/passeport-biometrique-aes-le-premier-ministre-nigerien-zeine-senrole/) | Advanced |
 | BCEAO (Banque Centrale des Etats de l'Afrique de l'Ouest) | Operating the SICA and STAR systems, with the instant-payment platform in test phase | [Operating the union's instant-payment rail, participating in the ECOWAS payment project and preparing a pilot accession to the continental one](https://www.bceao.int/sites/default/files/2026-07/Rapport_Annuel_2025_BCEAO_vf.pdf) | Advanced |

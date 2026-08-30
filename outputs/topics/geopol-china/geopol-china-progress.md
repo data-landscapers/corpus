@@ -1,17 +1,19 @@
 ---
-title: China activities — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: China activities — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: geopol.china
 places: XAF; XWA
-record: e1d56da9b9ac
+record: 6733e1f23b23
 ---
 
-# China activities: progress report, 2025-08-01 to 2026-08-29
+# China activities: progress report, 2025-08-01 to 2026-08-30
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Africa
 
@@ -23,6 +25,6 @@ record: e1d56da9b9ac
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | China-aid ECOWAS Headquarters Building | ***Baseline not held*** | [Handed over to the Commission, the second international-organisation office complex China has built in Africa; China describes cooperation extending into the digital economy and names no digital programme, figure or instrument, and the Commission's own release names no digital component](https://www.fmprc.gov.cn/mfa_eng/xw/zwbd/202605/t20260506_11905147.html) | ***Baseline not held*** |

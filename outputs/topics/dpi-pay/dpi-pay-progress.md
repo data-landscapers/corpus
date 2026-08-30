@@ -1,13 +1,13 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: c5391e559eec
+record: 318f278446c7
 ---
 
-# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-29
+# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -44,7 +44,7 @@ record: c5391e559eec
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [104 authorised at 31 July 2026, against 80 connected at 24 June 2026 and 74 at the end of December 2025, with Senegal (24) and Cote d'Ivoire (23) holding nearly half, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each)](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/) | Advanced |

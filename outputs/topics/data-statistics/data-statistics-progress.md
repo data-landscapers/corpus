@@ -1,13 +1,13 @@
 ---
-title: National statistics — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: National statistics — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: data.statistics
 places: XSA; XWA
-record: 01271e5afa44
+record: f8ff9a002b30
 ---
 
-# National statistics: progress report, 2025-08-01 to 2026-08-29
+# National statistics: progress report, 2025-08-01 to 2026-08-30
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -23,7 +23,7 @@ record: 01271e5afa44
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | ECOWAS regional statistical methodological guides | The Regional Statistical Programme 2023-2027 under implementation, with no adopted methodological guide held | [Regional methodological guides in use, with a second Abidjan workshop training national coordination and economic policy committee members to operationalise the common regional frameworks for compiling and publishing macroeconomic statistics, reviewing the two regional databases and the harmonisation of member states' 2000-2025 national statistics for multilateral surveillance](https://www.ecowas.int/ecowas-strengthens-the-harmonization-of-migration-data-and-macroeconomic-convergence-in-west-africa/) | Advanced |
 | Migration and macroeconomic data harmonisation | Did not exist | [Two regional statistics workshops convened at Abidjan on 18-22 August 2026 under the Commission's research and statistics directorate and its harmonisation project: the sixth Regional Coordination Meeting, which reviewed and validated the third edition of the Regional Report on International Migration in West Africa, and a capacity-building session for national committees on compiling macroeconomic statistics for the Convergence and Macroeconomic Stability Pact; participants also took up updates to the regional macroeconomic and statistical databases and harmonisation of national series for 2000-2025](https://ang.gw/cote-divoire-cedeao-rumo-a-harmonizacao-dos-dados-migratorios-e-macroeconomicos/) | Advanced |

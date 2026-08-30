@@ -1,13 +1,13 @@
 ---
-title: Connectivity — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Connectivity — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: infra.connect
 places: XAF; XSA; XWA
-record: 2e4637ff7497
+record: 7078bb63eb3e
 ---
 
-# Connectivity: progress report, 2025-08-01 to 2026-08-29
+# Connectivity: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -37,7 +37,7 @@ record: 2e4637ff7497
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | EllaLink Mauritania branch | Launched at Nouadhibou in July 2025, with nothing laid | [Coastal landing complete, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |

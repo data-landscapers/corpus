@@ -1,13 +1,13 @@
 ---
-title: Data Exchange — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Data Exchange — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: dpi.exchange
 places: XAF; XSA; XWA
-record: 7614775261b0
+record: 5e3219ded612
 ---
 
-# Data Exchange: progress report, 2025-08-01 to 2026-08-29
+# Data Exchange: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -39,6 +39,6 @@ record: 7614775261b0
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Advanced, marginal |

@@ -4,7 +4,7 @@ compiled: 2026-08-30
 period: 2026-07-01 to 2026-08-30
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fcbc9e5b769f
+record: 3994fee21384
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -176,7 +176,7 @@ The population register's public campaign is running ahead of the register itsel
 
 ## Rwanda
 
-Business registration moved entirely online in January and now runs at [incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The prior state is inferred from the source's own wording rather than stated in it.
+Business registration moved entirely online in January. The Office of the Registrar General's own page states the process is [wholly online, free of charge, and completed within six working hours](https://org.rdb.rw/business-registration/), where a July account had put it at [24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The registrar's page carries no date of its own, so which figure is current cannot be settled here.
 
 The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
 

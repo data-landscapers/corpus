@@ -1,13 +1,13 @@
 ---
-title: Standards — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Standards — progress report, 2025-08-01 to 2026-08-30
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 subject: gov.standards
 places: XAF; XSA; XWA
-record: e3f09d5daa41
+record: 643dc14b7c34
 ---
 
-# Standards: progress report, 2025-08-01 to 2026-08-29
+# Standards: progress report, 2025-08-01 to 2026-08-30
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -35,7 +35,7 @@ record: e3f09d5daa41
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Advanced |
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A second three-state arrangement live, giving free incoming calls for up to 30 days and local rates on outgoing traffic; the end-2025 deadline passed with six of fifteen member states covered](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, against a missed end-2025 deadline |
