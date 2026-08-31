@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 343b16acfb56
+record: 24f58c760efc
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
@@ -184,6 +184,8 @@ Health information gained a project and a set of funders. The health minister [l
 ## South Africa
 
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
+
+A revenue system went back to market. The home affairs department [re-advertised its revenue administration system over 275 fixed sites and 230 mobile units, replacing a generic 400-plus site listing and making point-of-sale devices and mobile offices the primary transaction channels, with only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). It is a tender, not an award: no value, closing date, bidder or delivery schedule is held.
 
 ## South Sudan
 

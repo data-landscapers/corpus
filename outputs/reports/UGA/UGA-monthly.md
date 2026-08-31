@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: UGA
 ledger_rows: 87
 not_held: 17
-record: 51f587e82f7b
+record: c2b0bf5bcf86
 ---
 
 # Uganda: monthly update, July – August 2026
@@ -171,6 +171,8 @@ Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica
 
 <!-- narrative: technology--tech-innovate -->
 Three innovation programmes were opened or closed. The ICT institute [launched the fourth and final cohort of a Japan-supported entrepreneurship programme on 22 July with 83 student innovators](https://techafricanews.com/2026/07/22/uict-launches-fourth-uj-connect-cohort-to-build-ugandas-next-tech-startups/), publishing no cumulative startup, funding or job figure across the four batches. A [recurring fintech convening opened on 13 July](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026). On 3 August the minister of state committed to [supporting commercialisation of innovations developed at the institute](https://techafricanews.com/2026/08/03/uganda-ict-ministry-backs-commercialisation-of-uict-innovations/), with no budget, instrument, target or timeline.
+
+The startup environment was assessed rather than funded. A continental alliance and the ICT ministry [validated a national digital entrepreneurship and innovation assessment at a Kampala workshop of public institutions, regulators, academia, entrepreneurs, hubs and support organisations, which named as priorities advancing the Startup Bill, strengthening science, technology and innovation policy, widening access to regulatory sandboxes and using public procurement to open markets to local startups](https://techafricanews.com/2026/08/31/smart-africa-uganda-reforms-digital-entrepreneurship/). The assessment text is not published and no reform is dated or budgeted.
 <!-- /narrative -->
 
 ## Capacity
@@ -181,6 +183,8 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
 
 The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
+
+An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
 <!-- /narrative -->
 
 ## Inclusion

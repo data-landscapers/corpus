@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: include.access
 places: DZA; AGO; BWA; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4334de66d3dd
+record: 3c3f709296fb
 ---
 
 # Access to services: monthly update, July 2026
@@ -125,6 +125,8 @@ On 15 July the World Food Programme [inaugurated the Guidan Fasaha community dig
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
 
 Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
+
+The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
 ## Rwanda
 

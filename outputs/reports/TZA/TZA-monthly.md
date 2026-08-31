@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: TZA
 ledger_rows: 88
 not_held: 13
-record: 9f5717dfe7b9
+record: 85dd72e13c1c
 ---
 
 # Tanzania: monthly update, July – August 2026
@@ -139,6 +139,8 @@ August supplied the adoption side of the same picture, from two directions. The 
 Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
 
 Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
+
+The state operator took its card into a stadium. On 30 August it and the Zanzibar Football Federation [signed a sponsorship and partnership agreement to introduce e-ticketing for Zanzibar football through the operator's N-Card platform](https://techafricanews.com/2026/08/31/ttcl-and-zff-launch-digital-push-with-n-card-e-ticketing-system/). No launch date, ticket volume or fee is stated, and the base holds nothing on the platform's other uses or acceptance footprint.
 <!-- /narrative -->
 ### Registries
 

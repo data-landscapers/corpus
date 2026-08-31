@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: ZAF
 ledger_rows: 129
 not_held: 23
-record: 49cda011be6e
+record: 30307c89e3e0
 ---
 
 # South Africa: monthly update, July – August 2026
@@ -145,6 +145,8 @@ Operation Vulindlela's quarterly report of 31 July recorded the Payments Ecosyst
 The Reserve Bank gazetted a [national interoperable payment code standard](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a), with PayShap the first rail to adopt it. Ozow launched a shared [bank application-programming-interface rail with FNB and RMB](https://www.itweb.co.za/article/ozow-fnb-and-rmb-plug-into-api-payments/GxwQD71DPwAvlPVo), its fourth such arrangement, and Pepkor announced a [R21.3bn merger of Flash and Shop2Shop](https://www.itweb.co.za/article/pepkor-creates-r213bn-fintech-platform/rxP3jqBEnbJMA2ye), subject to approval.
 
 What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
+
+A second QR estate surfaced beside the bank-led standard. A proprietary scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider applications, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own, carried in the handset maker's statement, and nothing on this ledger relates the scheme to the national payment code standard.
 <!-- /narrative -->
 ### Registries
 
@@ -155,6 +157,8 @@ Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za
 
 <!-- narrative: dpi--dpi-mis -->
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
+
+A revenue system went back to market. The home affairs department [re-advertised its revenue administration system over 275 fixed sites and 230 mobile units, replacing a generic 400-plus site listing and making point-of-sale devices and mobile offices the primary transaction channels, with only suppliers on the state IT agency's RFB 1183 transversal contract eligible to bid](https://www.itweb.co.za/article/top-ict-tenders-home-affairs-expands-revenue-admin-tender/dgp45MaBlAbqX9l8). It is a tender, not an award: no value, closing date, bidder or delivery schedule is held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

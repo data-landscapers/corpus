@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: NGA
 ledger_rows: 176
 not_held: 8
-record: 34807fa91fe9
+record: c7711f3548e3
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -44,6 +44,8 @@ What the amended identity Act actually says reached the record on 11 August, in 
 The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
 
 The [ECOWAS Community Court of Justice held that access to the internet is a right within the right to freedom of expression](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/), and ordered Nigeria to pay N10 million to the journalist Jide Oyekunle over his assault, detention and phone seizure while covering a protest. The court traced the holding to two of its own earlier judgments, which makes this a settled regional position rather than a first ruling; nothing on file records compliance or payment.
+
+The securities regulator's draft virtual-asset rules were reported in fuller detail on 31 August. They would [require customer assets to be segregated from a firm's own with 80 per cent held offline, minimum paid-up capital of N2bn for digital-asset exchanges and custodians, a fidelity insurance bond covering at least 25 per cent of the applicable minimum, material incidents notified within 24 hours and reported in detail within 48, and SEC approval before a foreign-issued stablecoin may be listed](https://techcabal.com/2026/08/31/nigeria-sec-wants-digital-asset-firms-to-store-80-of-customer-funds-offline/). No commencement date or transition period is stated.
 <!-- /narrative -->
 ### Data protection
 
@@ -267,6 +269,8 @@ A [diaspora health-workforce registry is described as newly launched](https://fm
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
 
 Away from the campuses, German cooperation [opened a tender on 4 August for the IT equipment of rural job centres in Ogun and Plateau States](https://publicprocurement.org/german-cooperation-invitation-to-tender-for-electronic-equipment-for-rural-job-centers-for-ogun-plateau-state/), under a youth-employment project. A procurement notice fixes the equipment stage and nothing else: how many centres, at what cost, and when they open are all unstated.
+
+The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 <!-- /narrative -->
 ### Digital divides
 

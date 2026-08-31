@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: CMR
 ledger_rows: 49
 not_held: 7
-record: 40234223f594
+record: c797c1d06242
 ---
 
 # Cameroon: monthly update, July – August 2026
@@ -88,6 +88,8 @@ The register underneath both is only now being equipped. On 7 August the United 
 Payments had the month's densest run. On 9 July the regional central bank [joined the pan-African settlement system, extending it to all six member states and 72m people](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/), with member-state banks to be integrated by end-2026; no Cameroonian bank is yet named as live on it. On 29 July an [interoperable QR-code standard launched under a regional regulation of 8 April](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any bank, microfinance or mobile-money application scan any merchant code across the six states. A day later a [consultation opened on revising the switch's tariff grid](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), the operator conceding that current pricing penalises low-value transactions and drives artificial splitting of payments; no revised grid or effective date is published.
 
 The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
+
+A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
 <!-- /narrative -->
 ### Registries
 

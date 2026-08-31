@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: capacity.training
 places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 47f9135d9785
+record: d90af96c561c
 ---
 
 # Training and skills: monthly update, July 2026
@@ -219,6 +219,8 @@ The family and women's ministry, a national entrepreneurs' organisation and a UN
 The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
 
 The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
+
+An operator's programme published a cohort figure on 31 August. It [graduated 503 young people at the National ICT Innovation Hub from a hybrid course in information and communication technology, digital marketing, e-commerce, cybersecurity and artificial intelligence, taking its cumulative total to 1,191](https://techafricanews.com/2026/08/31/mtn-uganda-graduates-503-youth-digital-skills/). The counts are the operator's own, and no employment outcome, start year or cost per participant is published.
 
 ## Zambia
 

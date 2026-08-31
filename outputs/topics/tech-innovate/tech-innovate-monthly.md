@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: tech.innovate
 places: DZA; BWA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: ea61f0101f88
+record: c7b9422f5636
 ---
 
 # Innovation ecosystem: monthly update, July 2026
@@ -42,6 +42,8 @@ The innovation record moved to the extent that two institutions said they intend
 ## Cote d'Ivoire
 
 The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
+
+A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
 
 ## Djibouti
 
@@ -141,6 +143,8 @@ Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-fin
 ## Uganda
 
 Three innovation programmes were opened or closed. The ICT institute [launched the fourth and final cohort of a Japan-supported entrepreneurship programme on 22 July with 83 student innovators](https://techafricanews.com/2026/07/22/uict-launches-fourth-uj-connect-cohort-to-build-ugandas-next-tech-startups/), publishing no cumulative startup, funding or job figure across the four batches. A [recurring fintech convening opened on 13 July](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026). On 3 August the minister of state committed to [supporting commercialisation of innovations developed at the institute](https://techafricanews.com/2026/08/03/uganda-ict-ministry-backs-commercialisation-of-uict-innovations/), with no budget, instrument, target or timeline.
+
+The startup environment was assessed rather than funded. A continental alliance and the ICT ministry [validated a national digital entrepreneurship and innovation assessment at a Kampala workshop of public institutions, regulators, academia, entrepreneurs, hubs and support organisations, which named as priorities advancing the Startup Bill, strengthening science, technology and innovation policy, widening access to regulatory sandboxes and using public procurement to open markets to local startups](https://techafricanews.com/2026/08/31/smart-africa-uganda-reforms-digital-entrepreneurship/). The assessment text is not published and no reform is dated or budgeted.
 
 ## Zambia
 

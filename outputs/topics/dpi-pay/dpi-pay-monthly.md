@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 88f2cc6e58e6
+record: ba1a111bacc3
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
@@ -38,6 +38,8 @@ The same EAC central bank governors [agreed to accelerate the East African Monet
 Payments had the month's densest run. On 9 July the regional central bank [joined the pan-African settlement system, extending it to all six member states and 72m people](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/), with member-state banks to be integrated by end-2026; no Cameroonian bank is yet named as live on it. On 29 July an [interoperable QR-code standard launched under a regional regulation of 8 April](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any bank, microfinance or mobile-money application scan any merchant code across the six states. A day later a [consultation opened on revising the switch's tariff grid](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), the operator conceding that current pricing penalises low-value transactions and drives artificial splitting of payments; no revised grid or effective date is published.
 
 The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
+
+A domestic entrant arrived on 31 August. A Cameroonian technology company [launched a payments platform carrying transfers across mobile-money networks, wallet management, bill and airtime payment, payment links and developer interfaces, opening here with a stated ambition to reach other African markets](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). It is a launch announcement on the company's own account: no user, merchant or transaction figure, licence or partner bank is named.
 
 ## Central African Republic
 
@@ -236,6 +238,8 @@ The Reserve Bank gazetted a [national interoperable payment code standard](https
 
 What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
 
+A second QR estate surfaced beside the bank-led standard. A proprietary scheme [claimed more than 600,000 acceptance locations and more than 19 million inclusions across consumer banking, fintech and financial service provider applications, and was added to a handset maker's wallet on eligible devices](https://www.itweb.co.za/article/samsung-sa-expands-digital-wallet-ecosystem/xA9POvNE6n8qo4J8). The figures are the scheme provider's own, carried in the handset maker's statement, and nothing on this ledger relates the scheme to the national payment code standard.
+
 ## South Sudan
 
 On 25 July, following a resolution of the Ministerial High-Level Committee on Economic Reform, the revenue authority [barred cash payment of tax at its offices](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/). Liabilities in South Sudanese pounds must be deposited at designated banks and evidenced by an official slip before a receipt is issued; dollar-assessed taxes keep existing arrangements, and digital payment through Capital Pay continues. The authority states it as temporary.
@@ -258,6 +262,8 @@ August supplied the adoption side of the same picture, from two directions. The 
 Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
 
 Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
+
+The state operator took its card into a stadium. On 30 August it and the Zanzibar Football Federation [signed a sponsorship and partnership agreement to introduce e-ticketing for Zanzibar football through the operator's N-Card platform](https://techafricanews.com/2026/08/31/ttcl-and-zff-launch-digital-push-with-n-card-e-ticketing-system/). No launch date, ticket volume or fee is stated, and the base holds nothing on the platform's other uses or acceptance footprint.
 
 ## Togo
 

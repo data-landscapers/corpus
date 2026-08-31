@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-31
 place: CIV
 ledger_rows: 74
 not_held: 10
-record: 512242efac03
+record: 3df0295dd310
 ---
 
 # Cote d'Ivoire: monthly update, July – August 2026
@@ -150,6 +150,8 @@ An electric ride-hailing fleet took delivery of 100 vehicles on 18 July.
 
 <!-- narrative: technology--tech-innovate -->
 The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
+
+A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
 <!-- /narrative -->
 
 ## Capacity
