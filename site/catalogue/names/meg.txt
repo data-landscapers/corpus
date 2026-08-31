@@ -1,5 +1,7 @@
+ABIS Mega Matcher Accelerator	13005
 Aloyo Nyeko Mega	4235
 Angola Cables and Megaport	2591
+Aquaculture Mega Farms	13122
 Billions of Megabytes	2776
 Chames-Dine Meguida	5260
 Chames-Dine Meguida. Au-delà	5260
@@ -11,6 +13,7 @@ Este Mega Sistema	1701
 Este Mega-Clúster	1701
 Formerly Nipol Mega Empire Limited	3862
 INTERNATIONAL INTERNET BANDWIDTH CAPACITY IN MEGABITS	11211,51
+KM Kilometres MBPS Megabits	12973
 Kenya. The EcoCloud-G42 Mega Data Center	1639
 LTE Long Term Evolution MB Megabytes	6671
 LTM Last Twelve Months Mbps Megabits	1818
@@ -23,6 +26,7 @@ MB Megabytes MNO Mobile Network Operator	2776
 MEGADEALS	4972
 MEGADEALS US	4972
 MEGATRENDS UNDERGIRDING THE ESWATINI FINTECH STRATEGY	12444
+MHz Mega	12973
 MHz Mega Hertz MIA Moi International	2775
 MNO Mobile Network Operator MW Megawatt	718
 MW Megawatt NDP National Development Plan	12399
@@ -32,13 +36,19 @@ MWh Megawatt-hour NCSA National Cyber Security	718
 MYTO Target Sales MW Megawatts MWh	12062
 Machine Mbps Megabits	6946
 Managed Service Provider MW Megawatts NDC	10781,1646
+Management Card Personalization Printing ABIS Mega	13005
 Marine Megafauna Conservation Organisation	11332
-Mbps Megabits	6671
+Mbps Megabits	6671,6240
 Meeple S.r.l. MEGASTAR S.L. Minio Studio	8530
 Meg Whitman	1038
 Mega Clúster	1701
 Mega Execution	5789,4927
+Mega Farm	13122
+Mega Farms	13060,62
+Mega Farms Coordinating Unit	13122
+Mega Farms Programme	13060
 Mega National Clean-Up Campaign	2987
+Mega Projects	13123
 Mega Sistema Motores Niveles de Territorio Influencia	1701
 Mega Sistema Poblacional Motores Niveles	1701
 Mega Watt MWac Mega Watt	11549
@@ -50,8 +60,9 @@ Mega-Regional Trade Agreements	1243
 Mega-Sistema Poblacional	1701
 MegaEdu	899
 MegaEdu26	899
+MegaMatcher	13005
 MegaMore Wireless Broadband Ltd	3862
-Megabits	3456,1232,1312,1877,3334,1325,138
+Megabits	3456,1232,1312,1877,3334,1325,138,243
 Megabits-per-second	11085
 Megabyte Aprili	2868
 Megabyte Juni	2868

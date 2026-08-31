@@ -65,6 +65,7 @@ ARCHDIOCESE OF NAIROBI KENYA REGISTERED TRUSTEES	7167
 ARCHER	7167
 ARCHERS POST CATHOLIC HEALTH CENTRE Data	7167
 ARCHETEC	10975
+ARCHITECTURAL AND PERFORMANCE REQUIREMENTS	13185
 ARCHITECTURE	1009
 ARCHITECTURE TAKING SHAPE AfCFTA	9593
 ARCHIVES	10975
@@ -135,6 +136,10 @@ ArchitectsTerror-TheSentry June2023.pdf	4127
 ArchitectsTerror-TheSentry-June2023	4127
 ArchitectsTerror-TheSentry-June2023.pdf	4127
 Architectural	2477,5313,3343
+Architectural Requirements	13185
+Architectural Schematic Diagram	13005
+Architectural Schematic Diagram FIGURE	13005
+Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
 Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31
@@ -142,10 +147,14 @@ Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
 Architecture Documentation	5665
+Architecture ESCOM Electricity Supply Cooperation of Malawi	12917
 Architecture Framework Terminology Executive Summary	12359
+Architecture Framework UN EGDI United Nations	12917
+Architecture Lay	12917
 Architecture SNIP	12043
 Architecture Tool Architect	9124
 Architecture Was Always	5513
+Architecture and Infrastructure	13005
 Architecture and Technology Selection	11216
 Architecture of Trust	7471
 Architectures	550,18,20,8017,1552
@@ -157,12 +166,13 @@ Archival	3861,4160
 Archive	585,3841,2006,1478,974,1992,999,77
 Archive About Us Contact Us Oshiwambo	11122
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31
 Archived Articles	11220,21
 Archived Documents	11220
 Archived Information National Archives Building	11349
 Archivematica	8021
-Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161,353
+Archives	1988,1794,2507,818,833,81,618,111,1274,381,570,583,767,161,353,51
+Archives Act	12890
 Archives Actualité Mémoire de Yamoussoukro	9620
 Archives CEA	10975
 Archives Code	12325
@@ -184,10 +194,12 @@ Assembleia Geral da ARCTEL-CPLP	11531
 BANCE C EPICENTRE NIGER ARCEP	998
 BENJAMIN ARCTON-TETTEY	8368,834
 Bande C A PETROLEUM S.A ARCEP	998
+Benefits of ASYCUDA New Generation System Architecture	13042
 Benin. Arch Public Health	766
 Bi-Annually ARCT	1284
 Bijagós Archipelago GUINEA-BISSAU AT A GLANCE	11586
 Bm ARCEP Signal	10856
+Body Archives Act	12890
 Botswana National Archives and Records Services	5250,7347
 Bridgforte Trust Architecture Framework	11138
 Bridgforte Trust Architecture Framework Across	11138
@@ -210,7 +222,12 @@ Changement de Catégorie SIGNATURE Airtel ARCEP	998
 Changing Global Financial Architecture. Cairo	10718
 Circular C&Ku ARCEP-111021	998
 Civil and Criminal Identification Archive	10765,10
+Cloud Architect	13074
 Cloud Architects	6832
+Cloud Solution Architect	13185
+Cloud Solution Architects	13185
+Common Architecture and Standards	12917
+Common Architecture and Standards Quick	12917
 Common National Digital Architecture	4126
 Commonwealth Association of Architects	12369
 Compute Unified Device Architecture	9475
@@ -258,15 +275,17 @@ Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 E.A.P.C Archers Child Development Centre Data	7167
 EA Enterprise Architecture	11261
 EA Enterprise Architecture GCIO Government Chief	11184
+ESWATINI NATIONAL ARCHIVES AND RECORDS SERVICE	12971
 EU Enterprise Architecture FHIR HIMSS Electronic	1009
 Edward Archibald	10763
 Emerging Technologies Delivery Architecture	7548
 Emerging Technology ARCAI African Research Centre	1814
 Enterprise Architects	6832
-Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94
+Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464
 Enterprise Architecture DGov	9237
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Architecture Data Capturing Template	9124
+Enterprise Architecture Development	12917
 Enterprise Architecture Division	12359
 Enterprise Architecture Division Manager	12359
 Enterprise Architecture Framework	2868,6365,3126
@@ -330,6 +349,8 @@ HEA Health Enterprise Architecture PMI Patient	396
 HELD ARCHITECTURE	3200
 HOL Archaeologists	2279
 HTTP Archive	6542
+Hardware Architecture	13185
+Head of Archives	12890
 Health Architecture	4301,7954
 Health Enterprise Architecture	396,12185
 Health Organization ZTA Zero-trust Architecture	12240
@@ -359,11 +380,14 @@ Load Shedding Archives	12213
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 Managing Electronic Records The National Archives	11349
 Methodology and Convening Design Trust Architecture	11138
+Microservice Monolithic Architecture UI Business	13042
+Microservices Architecture	13042
 Ministry and ARCEP	2969
 MoH's System Architecture and Security Unit	12240
 Modelling Notation ArchiMate The Notation	9124
 Monitoring and Compliance Architecture	3861
 Monthly Architecture Transaction Weekly	11952
+Multi-System Architecture Built for Interoperability Sri	13160
 Multi-Tenant Architecture Matters	11987
 NARSSA National Archives and Record Service of South	11196
 NGDX Standards and Architecture Documents Annexure C	11952
@@ -371,7 +395,7 @@ NPRS Person Profile Data Architecture	12337
 Namibia Archives	12450
 Namibia Archives Act	12325
 National AI Delivery Architecture	7548
-National Archives	3088,4460,4305,472
+National Archives	3088,4460,4305,472,565,19
 National Archives Act No.2	12325
 National Archives Records Management System	12597
 National Archives and Record Service of South	1009
@@ -382,6 +406,7 @@ National Archives and Records Management System	12597
 National Archives and Records Service of South Africa	8021,1,3174
 National Archives and Records Services Act	9525
 National Archives and Records Services of South Africa	8021
+National Archives of Namibia	12890
 National Archives of South Africa Act	396
 National Archives of Zambia	1988
 National Archives. Failure	12325
@@ -437,6 +462,7 @@ Regulatory Architecture and Accountability	5574
 Reporting Tools Architect	9124
 Rwanda Architecture	9124
 Rwanda Enterprise Architecture Principles	12359
+S6 Enterprise Architecture Development Development	12917
 SAM-MOT-DM4- Conforme ARCEP-25052021	998
 SCRO Finance and Registrar and Procurement Archival	12138
 SECTION III The Bridgforte Trust Architecture	11138
@@ -446,6 +472,7 @@ SIGNATURE FREQUENCE ARCEP	998
 STRATEGIC AND ARCHITECTURAL CHOICES	12165
 SUBSTANTIVE SCOPE AND JURISDICTIONAL ARCHITECTURE	3861
 SURVEILLANCE ARCHITECTURE	9399
+Scanning and Archiving of Records	12947
 Sector Enterprise Architecture	12359
 Sector Enterprise Architecture Lead	12359
 Secure Archival and Integrity Protection	3861
@@ -458,6 +485,7 @@ Service Provider Architecture Standards	11952
 Service Provider Architecture Standards Requirement	11952
 Services Oriented Architecture	11371
 Society of Archivists	12325
+Software Architecture	13185
 Software Developers Enterprise Architects Systems	21
 Solution Design and Architecture	12400
 Son Excellence Pr Faustin Archange TOUADERA	1748

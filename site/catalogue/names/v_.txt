@@ -4,7 +4,9 @@ ANEXO V. Visitas	11557
 ANNEX V	7548
 ANNEX V WOMEN’S INCLUSION	12399
 APPENDIX V	6432
+ARTICLE V CONFIDENTIALITY AND OWNERSHIP	13031
 Account Holder. Section V Due Diligence	11233
+Acting Statistician-General PART V FINANCIAL PROVISIONS	12899
 Actividade V. Transferência de Conhecimento	11451
 Anexo V	4209,6574
 Angwenyi V	12231
@@ -17,6 +19,7 @@ Appendix V Data Capture	1009
 Appendix V Web Service-s for Multi-Patient Queries	1009
 Appendix V-	6432
 Article V	1914
+Article V Confidentiality and Ownership of Documents	13031
 Assertion V	1009
 Attachment V	12500
 Authority.300 V. Government	3583
@@ -58,7 +61,7 @@ Central Bank. PART V General	12528
 Chapitre V	1231,4676,5673
 Chapitre V Commission	308
 Chapitre V.- Disposition	11139
-Chapter V	1807,630,1146,3249,619,3812,693
+Chapter V	1807,630,1146,3249,619,3812,693,1086
 Chapters IV and V	6832
 Chebolu-Subramanian V	771
 Chief Executive PART V	3887
@@ -73,7 +76,7 @@ D. S. V	8605
 DEEL V	11190
 DEL. REG. DE OBRAS PUBL. V	4209
 DIGITAL TRANSFORMATION STRATEGY. Draft for Discussion V	10819
-Derogations Part V	1593
+Derogations Part V	1593,11361
 Device V	5029
 Diritto V	11028
 Dr. Florence V. Murila Clinic Data	7167
@@ -85,6 +88,7 @@ E-Government Infrastructure Phase V Export-Import Bank	1150
 E-Government Infrastructure Project Phase V	1283
 E. H. and V. Singel	10
 E. P. A V I S	2866,2303,7684
+E. V	12926
 EGI Phase V	1089,194
 Effectiveness Article V	1867,8901
 Effectiveness Article V IBRD	1867
@@ -96,6 +100,7 @@ Energy V ACKNOWLEDGEMENTS The AU Data	961
 Estrategia Nacional de Desarrollo Sostenible V. EJES	1701
 Evidence V. Protection Guidelines	10911
 FINANCIAL YEAR V	11224
+Financial Year Part V	12900
 GATEKEEPERS PART V	6520
 GDPR-Chapter V	11154
 Garousi V	12255
@@ -157,22 +162,29 @@ Obras Públicas. CAPÍTULO V DISPOSIÇÕES FINAIS	10783
 Oficiais de Justiça. V. SOLUÇÕES PARA	10772
 Olumide Babalola Esq V. Soko Lending	11993
 P. and Tafor V. F	12325
-PART V	27,1,755,437,113,141,2240,147,26,3034,1433,2836,1175,9,85,71,2,3,14,13,67,1
+PART V	27,1,755,437,113,141,2240,147,26,3034,1433,2836,1175,9,85,71,2,3,14,13,67,1,268,22
 PART V AMENDMENT OF THE EXPORT	6921
 PART V COMPLIANCE REQUIREMENTS FOR PAYMENT	12374
+PART V DESIGNATION OF PAYMENT SYSTEMS	12938
 PART V Duties of Data Controller	972
 PART V Exempt Information	12548
 PART V General	12528
+PART V INSPECTION AND SEARCH	12916
+PART V INSPECTORS AND AUDITORS	12894
+PART V INSPECTORS AND AUDITORS Appointment	12894
 PART V INTERCEPTION OF COMMUNICATIONS	2727
+PART V LIABILITY	12928
 PART V Private Radio Transceiver Stations	736
-PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365
+PART V REGISTRATION OF DEATH	12898
+PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365,720
+PART V TRANS-BORDER FLOW OF PERSONAL	12929
 PART V- OBLIGATIONS OF CONTROLLERS	1474
 PERFORMANT V Rapport	10975
 PILLAR V	12563
 PILLAR V FINANCIALLY VIABLE AND OPERATIONALLY	12399
 PIM. V. GRIEVANCE REDRESS SERVICES	1264
 Papakonstantinou V	8776
-Part V	1,2,733,857,395,739,856,1530,3663,2036,1490,157,73,16,95,5,3
+Part V	1,2,733,857,395,739,856,1530,3663,2036,1490,157,73,16,95,5,3,250,2,3,2,1,20,25,124
 Part V HIPSSA	27,1
 Part V Search and HIPSSA	26
 Part V. Data	1333
@@ -206,13 +218,14 @@ SECÇÃO V PRESERVAÇÃO DA SOBERANIA	10747
 SECÇÃO V REGISTO	11430
 SUMÁRIO A V I S	795,11987,7
 Secretary Ministry for Defence Mr. Ephraem V	11134
-Section V	1638,6139,2988,10,363,279,1369
+Section V	1638,6139,2988,10,363,279,1369,254,145
 Section V Dépouillement	17
 Section V.- Modalités	11139
 Sections V	11233
 Sessão Legislativa da V Legislatura	6847,1462,182,1308
 Seção V	11562
 Shaw V. Developing	766
+Shri V. Muraleedharan	12979
 Shri V. Somanna and Members of Parliament	12568
 Silavwe V	3791
 Ssempijja V	1219
@@ -252,6 +265,7 @@ V Censo de Población	4209
 V Commerc	12256
 V DC	11269
 V EXECUTiVE SUMMARY	961
+V Eastern Backbone Rehabilitation Project	13060
 V Edéa III	10975
 V Erongo	12399
 V Evacuation	12358
@@ -261,6 +275,7 @@ V Figure	12256
 V HGL	11527
 V HVDC	12233,166
 V High Voltage Direct Current	12256
+V Hluthi	13054
 V I S	11852
 V Khomas	12399
 V Kigoma-Rwabusoro	12358
@@ -268,6 +283,7 @@ V Kilo Volt LFO Light Fuel	10975
 V Kilo Volts KVA Kilovolt-Amperes KW	2775
 V Kokerboom- Auas	12399
 V Kokerboom-Auas	12399
+V LICENSING OF PAYMENT SYSTEMS	12938
 V M Secu	9123
 V MAXIMIZING SOCIO-ECONOMIC BENEFITS	12399
 V Mangombe-Logbaba	10975
@@ -277,6 +293,7 @@ V Namib-Diaz and Cerim	12399
 V Namibia-Botswana Interconnector	12399
 V Namibia-Botswana Interconnector TBD No Pre-Feasibility	12399
 V Ngodi Bakoko	10975
+V Nhlangano II	13054
 V Nouakchott	1993
 V Nyabarongo II-Nzove	12358
 V Nzove Cut	12358
@@ -317,13 +334,17 @@ V- MOYENS DE MISE EN	12
 V- PRÉSENTATIONS SECTORIELLES ANNEXES ET FICHES	2342
 V- PRÉSENTATIONS SECTORIELLES ET FICHES ENTREPRISES	2342
 V. AU TITRE DU MINISTERE	11597
+V. Achievements	13042
 V. Advocate	12333
 V. Any	4260
 V. Avramchikov	5349
 V. Bekkers	5700
 V. Bevanda	4432
 V. CONCLUSION	12580
+V. COOPERATION WITH THE UNITED NATIONS	12962
 V. Clarke	5349,5679
+V. Conclusion	12948
+V. Conclusion Evidence	12948
 V. Conclusion Ghana's ICUMS	11036
 V. Contribuir	11441
 V. Country-Specific Pathways and Strategies Cameroon	10841
@@ -335,7 +356,10 @@ V. Dutta	6948
 V. E. Balas. Springer Nature Singapore	6948
 V. EJES ESTRATÉGICOS DE DESARROLLO SOSTENIBLE	1701
 V. ENERGY	12256
+V. EXECUTIVE SUMMARY	12939
+V. EXECUTIVE SUMMARY The National Strategy	12939
 V. Estimativa	11416
+V. Focus	12917
 V. G	1248
 V. GRIEVANCE REDRESS SERVICES	969,295,603,1737,2935,4229,196,416,37,132,11
 V. Government	3583
@@ -346,6 +370,7 @@ V. INFRASTRUCTURES SCOLAIRES V.3 TAILLE DES	10847
 V. INFRASTRUCTURES SCOLAIRES V.4 EQUIPEMENT DES	10847
 V. INFRASTRUCTURES SCOLAIRES V.5 POURCENTAGE DES	10847
 V. Implementation Plan	1597
+V. Involvement	13004
 V. KEY RISKS	10829,696
 V. KEY RISKS A. Overall Risk	11525
 V. LEGAL FRAMEWORK	12201
@@ -369,17 +394,21 @@ V. Pilier	10914
 V. Policy	6832
 V. RESULTS FRAMEWORK AND MONITORING	11855
 V. RESULTS FRAMEWORK AND MONITORING Results	11855
+V. REVENUE AND EXPENDITURE	12956,167
 V. RISK	11905,271
 V. Reducir	1701
 V. Refers	11269
 V. Richter	11028
 V. SANS	11269
+V. STRUCTURAL AND SECTORAL REFORMS	13060
 V. Small	12256
 V. Stančikė and R. Jankauskytė	12675
 V. Strengthen	12706
+V. TURNAROUND STRATEGY	12922
 V. Target Markets and Market Positioning	5773
 V. The Government of Mozambique	4260
 V. The Government of Uganda	4217
+V. The ICT Expo	13053
 V. The Opportunity	6735,200
 V. The Opportunity The CBN	6735
 V. The Participants	4217

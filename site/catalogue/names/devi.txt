@@ -4,6 +4,7 @@ AI Medical Device Safety	3279
 AS. Devido	11413
 Access Devices	4517,2461
 Adequate Deployment of BVAS Devices	10049
+Adoption of Electronic Fiscal Devices	12948
 Adverse Device	11994
 Affordability Smart Access Devices	11857
 Africell's Device Manager	9449
@@ -31,8 +32,8 @@ Data Data and Storage Devices	10721
 Data3 Digital4 Fintech5 SMS Devices Wholesale6	10793
 Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
-Deviation	10870,365,751
-Deviations	9855,1142
+Deviation	10870,365,751,1199
+Deviations	9855,1142,2188
 Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53
 Device Affordability	8111
 Device Affordability and Access Scheme	4653
@@ -48,8 +49,9 @@ Device Requirements Applicants	11347
 Device School Support System	11857
 Device V	5029
 Device VI	5029
-Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153
+Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559
 Devices For Primary Health Care	10776
+Devices Manuals	13185
 Devices Q3	11857
 Devices Sector	899
 Devices and Terminals	2776
@@ -58,14 +60,17 @@ Devido	2816,3244,5304,1,22,34,25,123,8,441,141
 Devido Procedimento	11388
 Devine Mercy Eldoro Catholic Dispensary Data	7167
 Devise	10829
+Devised	12934
 Devittie	3379
+Diagnostics and Devices The Malawi National Supply	13166
 Digital Devices	5871,6582
 Digital Infrastructure and Devices	11918
 ENABLED MEDICAL DEVICES ACKNOWLEDGEMENTS SAHPRA	3651
 East Africa Device Assembly Kenya Ltd	3975
 Electronic Devices	1988
 Electronic Fiscal Device Management System	7746
-Electronic Fiscal Devices	4699,287,261
+Electronic Fiscal Device Management System EPZ	13053
+Electronic Fiscal Devices	4699,287,261,7701
 Electronic Fiscal Devices. Unlike	6469
 Enabled Medical Devices	3651,4650
 Enabled Medical Devices. Individuals	3651
@@ -107,8 +112,11 @@ Mobile Phone Devices	6671,275
 Mobile Phone Devices Mobile	6671
 Morpho. The Electronic Voter Identification Devices	11115
 N67 Machine Learning-enabled Medical Devices	3651
+NON-SPECIFIC SHORT-RANGE DEVICES SCOPE	12949
 NUMBER OF LTE DEVICES	11211,51
+National Aggregate Deviation	13058
 No. of Devices and Terminals	2776
+Number of Assistive Devices Distributed	12977
 OpenAI and Advanced Micro Devices	7209
 Own Device CD Compact Disc	34
 PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
@@ -141,5 +149,7 @@ Transport Radiation Device	718
 USERS Internet ACCESSING VIA MOBILE DEVICES	12214
 Unified Device Manager	12241
 Use of Fiscal Electronic Device	7695
+User Device Compatibility Web	13037
 User Devices End-user	12240
+VAT. Electronic Fiscal Devices	12948
 X MSA2052 Storage Devices	11209

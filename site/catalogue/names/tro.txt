@@ -10,6 +10,7 @@ CAMADA DE TROCA DE DADOS	11555
 CDC HDSS. Acta Tropica	8604
 Camada de Troca de Dados	11555
 Connecticut-based Tronox and Australia-based Lion Rock	12517
+Cultural Troupe	12979
 Deployment of Troops	6422
 Description Trotz	503
 Doenças Tropicais Negligenciadas	10188,592
@@ -26,10 +27,11 @@ La Sous-direction Transport. Trois	2342
 Lawrence Troon	12521
 Luanda ROSARIA KATIANA HILÁRIO TROPA	10751
 Luxembourg. Trois	7283
+Malawi Cultural Troupe	12979
 Misogynist Internet Trolls	12336
 Moderate Tropical Storm	1228
 Mogadishu HOL Egyptian Troops	3637
-Neglected Tropical Diseases	10780,1949
+Neglected Tropical Diseases	10780,1949,247
 Neglected Tropical Diseases PHC Primary Health	12729
 Nigeria. Trop Dis Travel Med Vaccines	10919
 OTP. Trois	9948
@@ -71,6 +73,9 @@ Troon	12521
 Troops	9876
 Tropical	10763
 Tropical Cyclone	1228,9963
+Tropical Cyclone Jude and Chido. Predictive Analysis	13080
+Tropical Cyclones Jude and Chido	13095
+Tropical Cyclones Jude and Chido. Regional Influence	13095
 Tropical Disease CAD	12678
 Tropical Diseases	10780
 Tropical Infectiology	766

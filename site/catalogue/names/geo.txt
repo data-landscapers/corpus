@@ -14,7 +14,9 @@ Agreements. Georgetown Journal of International Law	1243
 Agência Nacional de Desenvolvimento Geo-Espacial	12823
 Agência Nacional de Desenvolvimento Geo-espacial	2125,7309
 Albania Austria Croatia Czech Republic Georgia	10764
+Albania Bosnia and Herzegovina Georgia Gibraltar Kazakhstan	13042
 American Association of Geographers	226
+Angola and Georgia	13042
 Anicet Georges Dologuele	4539
 Annual Geothermal Energy Generated	12256
 Applied Remote Sensing and Geographical Emerging	6832
@@ -45,8 +47,10 @@ Configuração Geométrica	11384
 Conrad C. Daly and Tina George Karippacheril	1217
 Coordenadas Geográficas	11405
 Country Snapshot Geography The Federal Democratic	12500
+Coverage Geographic Coverage	13084
 Coverage Geographic Coverage National Universe All	10862
 Croatia Czech Republic Ecuador Georgia Hungary	10764
+Curriculum Coordinating Committee. Geography	12975
 DStv Mr George	3229
 Dados Geoespaciais	11405
 Dados Geofísicos	11405
@@ -77,6 +81,7 @@ Enterprise Geographic Information System	3101
 Enumeration Area Geographical	582
 European Handbook of Crowdsourced Geographic Information	2096
 Executive Director George William Nyombi Thembo	6207
+FAO the NASA Harvest GEOCIF	13094
 Fiji Finland France Gabon Gambia Georgia	11765
 Finance and Budget Minister Essowe Georges Barcola	4395
 Finance and Budget Minister Georges Barcola	7426
@@ -85,6 +90,7 @@ Focalização Geográfica	11406
 Formation GHz Gigahertz GIS Geographic Information	2775
 Francois and George	3782
 GEO-LEO	2294,682
+GEOCIF	13094
 GEODATA	10761
 GEOFÍSICA	11397
 GEOGRAPHIC FOCUS	4972
@@ -103,6 +109,7 @@ Geo-Enabled Monitoring and Supervision GFF Global Financing	10829
 Geo-Enabling	10964,903,51
 Geo-Enabling Initiative for Monitoring and Supervision	3604
 Geo-Informatics	9115
+Geo-Information Sciences	13031
 Geo-Information Systems	6832
 Geo-Information&volume	2096
 Geo-Stationary	10407
@@ -142,11 +149,14 @@ Geoffrey	12478
 Geoffrey Agoi	5343
 Geoffrey Hinton	8380
 Geoffrey Kiringa Ruku	7480
+Geoffrey Kumwenda	12978
 Geoffrey Mucuku	7984
 Geoffrey Nuwagira Kakira	3700
 Geoffrey Seleka	6071
 Geoffrey Seleka Service	6071
 GeoffreyTheDev	12478
+Geofind	13031
+Geofind Namibia	13031
 Geofisica de Cabo Verde	11553
 Geofisica de São Tomé	11553
 Geoforum	9739
@@ -154,7 +164,7 @@ Geofrey O	12138
 Geofísica	13,10755,604,24,1,40
 Geografia	414
 Geografia da Conectividade Até	9559
-Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19
+Geographic	11,546,1539,1508,183,2639,322,84,2927,398,606,5,31,30,108,27,39,132,27,13,20,330,35,135,184,37,411,12,19,678,214
 Geographic Agent	12297
 Geographic Approach	11252
 Geographic Approach The EMR	11252
@@ -167,11 +177,15 @@ Geographic Distribution and National Resilience In Nigeria	10157
 Geographic Distribution of Businesses	12445
 Geographic Exposure	11140
 Geographic Focus REGIONAL PROFILE	4972
-Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529
-Geographic Information Systems	1222,10719,13,27,380,301
+Geographic Information	13250
+Geographic Information Science	13078
+Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529,573
+Geographic Information Systems	1222,10719,13,27,380,301,245
+Geographic Information- Services	13250
 Geographic Origin	4972
 Geographic Performance	4130
 Geographic Performance MTN	4130
+Geographic Portal for Namibia	13031
 Geographic Reference	4102,2689,439
 Geographic Reference Kenya	6791
 Geographic Sciences	11941
@@ -196,8 +210,9 @@ Geographical Names Register	4214
 Geographical and Ecological Characteristics	12151
 Geographically	4863,20,3082,2310,76,448
 Geographies	11310
-Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75
+Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103
 Geography Figure	12413
+Geography Teacher’s Association	12975
 Geography and Environment	12178
 Geográfico	11430,1
 Geojson	1187,797
@@ -205,6 +220,9 @@ Geolocation	11892,149
 Geologia	1265,10125
 Geological Exploration Technology Institute	191
 Geological IP	4844
+Geological Services	13122
+Geological Survey Department	13060,63
+Geological Surveys	13093
 Geology	12253
 Geology and Hydrogeology	1988
 Geometria Analítica	12019
@@ -225,6 +243,8 @@ Geopolitics	4676,566,4350,1543,1092
 Geopolitics and Data Localization	3810
 Geopolitics of AI	4253
 Geopolitics of Digital Rights Activism	11028
+Geoportal	13031
+Geoportal System	13031
 Geordin Hill-Lewis	12072
 Georeferencing	4034
 Georeferencing of Municipal Services	11941
@@ -245,6 +265,7 @@ George Gor Kofi Yeboah	8511
 George Gor and Kofi Yeboah	8511
 George Gorekwang	12868
 George Guvamatanga	9904
+George Hotel	13043,154
 George Karippacheril	11156
 George Kieru	9545
 George Mason University	2869
@@ -266,6 +287,7 @@ George Washington International Law Review	12227
 George Washington University	9632
 George William Nyombi Thembo	6197
 George William Nyombi ThemboInternet	6197
+George Zimbizi	12946
 George and Bennett	7451
 George and Gregory Cathbat	10412
 George and Janade du Plessis	7611
@@ -277,15 +299,15 @@ Georges Mpelé	8737
 Georges Nébié	7010
 Georges Romain	6379
 Georges St Family Centre	8999
-Georgetown	5700
+Georgetown	5700,7270,7
 Georgetown High School	11281
-Georgetown University	67,3531,2118,5010
+Georgetown University	67,3531,2118,5010,2222,8
 Georgetown University Press	5700
 Georgetown University's Kenneth Propp and Alston	8773
 Georgetown University’s Communication	8788
 Georgetown University’s Tech	5364
 Georgi Borros	11195
-Georgia	3604,1845,1611,1627,1022,1005,50,21,61,159,351,253
+Georgia	3604,1845,1611,1627,1022,1005,50,21,61,159,351,253,1433
 Georgia Gambian National ID Card Sep	10714
 Georgia National Innovation Ecosystem	11529
 Georgia Yes Georgian	11529
@@ -296,6 +318,7 @@ Georgina Sturge and Tanja Schmidt	11525
 Geoscience	2889
 Geoscience Australia	345,714
 Geoscience Australia. Provides	345
+Geosciences	13021
 Geoscientific	12256
 Geospatial	196,66,615,3622,29,2488,2545,5,1197,373,724,58,88,354,97,55
 Geospatial AI Ops Atlas AI	5226
@@ -323,6 +346,7 @@ Geotechnical	1988,9143
 Geotechnical Analysis	11131
 Geotechnical Investigation	5855
 Geothermal	1245,477,10534,5
+Geothermal Energy	12972
 Geothermal Energy Kenya	12256
 Geothermal-powered	1245
 Geourjon	1828
@@ -343,8 +367,10 @@ Hon. Mulanya. Hon. Geoffrey Mulanya	10313
 Hon. Samuel Nartey George	3384,1513,804,234,3487
 Hon. Sir George	10313
 Hon. Wanjala. Hon. George Murugara	10313
+Honorable Dr. George T. Chaponda	13156
 Honorable Samuel Nartey George	4625
 Honourable Dr. George Chaponda MP	9761
+Honourable Dr. George T. Chaponda	13156
 Human Geography	12227
 Hydro Geothermal Natural Gas Thermal Wind	12256
 Hyperscaler Sovereignty and Geopolitical Stakes Historically	6773
@@ -404,6 +430,8 @@ Ministry of Mines and Geology	981,1908,6111
 Ministry of Mines and Geology MS Moderately Satisfactory	2889
 Monthly Geothermal Energy Generated	12256
 Mr. George	5778,398,230
+Mr. George Masinga	13157
+Mr. George Wachira	12966
 Mr. George William Nyombi Thembo	6227
 Mr. Georges Bigirimana	5076
 Mr. Sam George	4706
@@ -415,7 +443,9 @@ Nartey George	4625,81,592,234,3016
 Nation Wide Remote Sensing Airborne Geophysical	191
 National Agency for Geospatial Development	2989
 National Geo-spatial Information NGMS National Geomatics	11261
+National Geographic Portal	13031
 National Geomatics Management Services	11261
+National Geoportal for Namibia	13031
 National Geospatial Development Agency	4214
 National Geospatial Development Agency AI Artificial	4214
 National Geospatial Information	12868
@@ -444,8 +474,10 @@ Professor George Agyei	10631
 Programas Geofísicos	11405
 Project Geographical Identifier Mozambique Current Closing	4653
 Project Key Interventions Geographic Regions	10829
+Protection Officer Senior Geologist	12972
 Proyecto de Sistema de Geolocalización	4209
 QGIS and Geoserver	11941
+Qualifications Geography	13031
 Rao and Georgi	8436
 Recent Geopolitical Tensions Could Stifle Trade	10718
 Reference Rao and Georgi2006	8436
@@ -468,6 +500,7 @@ Sector Minister Hon. Samuel Nartey George	10584,1
 Selon le Geo Factbook	11010
 Sen. George Akume	2934,9374
 Senator George Akume	2382,1321,399,3459,1420
+Service Description Under GEOGLAM	13094
 Servicio Geológico Nacional	9303
 Servicos Provinciais de Geografia	427
 Sir George	10313
@@ -475,6 +508,7 @@ Sistema de Información Geológica	1701
 Sistema de Informação Geográfica	4040,4,7361,16,25,3,128,321,136
 Sistema de Referência Geográfica	11405
 Sistemas de Informação Geográfica	4979
+Snow and Cold The NASA Harvest GEOCIF	13094
 Society of Exploration Geophysicists	11405
 Software GeoGebra Impulsiona Inovação	10349
 South African Journal of Geomatics	12547
@@ -484,6 +518,7 @@ St Georges Primary School	10049
 St. George's High EGDI H3	10840
 Stefanos Georganos	2816
 Street Geocoding	12041
+Surface Geoscientific Exploration Survey Report	13054
 Surveying and Geoinformatics	9104
 Sustainable Funding for Geospatial	12457
 Tanyi George Orang and Dr. Lidwina Gabsa	1599
@@ -505,6 +540,7 @@ Uzbekistan Panama Armenia Türkiye Bolivia Georgia	11563
 VGT4AFRICA and GEOSUCCESS	11334
 Vietnam Georgia Morocco Indonesia Kenya Cambodia	7655
 Voorkoming van Georganiseerde Misdaad	11190
+Web Geovisualisations	13031
 Western Africa Geography	11889
 Wind Geothermal	12256
 World Bank Country Manager Georgia Wallen	6523

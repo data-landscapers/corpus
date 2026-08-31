@@ -33,6 +33,7 @@ Amílcar Cabral	2887,1371,7255,56,294
 Amílcar Cabral Submarine Cable	1264
 Analysis of Cable Repair Data	2677
 Angola Bengo Benguela Bié Cabinda Cuando	10766
+Angola Benin Burkina Faso Burundi Cabo	13042
 Angola Cabinda Zaire	10760
 Angola Cables	778,233,1580,484,1069,2126,86,224,24,63
 Angola Cables A Angola Cables	6356
@@ -85,12 +86,14 @@ Benguela Bié Cabinda Cuando Cubango	10766
 Benguela Bié Cabinda Cuando Cubango Cuanza	10766
 Benguela Bié Cabinda Cuando-Cubango Cuanza Norte	10766
 Benin and Cabo Verde	11867
+Benjamin Cabouat	13156
 Big Cabal Media	4027
 Bizerte Cable	1991
 Bié Cabinda	10766
 Bié Cabinda Cuando Cubango Cuanza Norte	10766
 Bié Cabinda Cuando-Cubango	10766
 Bié Cabinda Cuando-Cubango Cuanza Norte Cuanza	10766
+Body Cabinet	13015
 Bolsa Cabo Verde Digital	11891
 Bolsa de Valores de Cabo Verde. Meios	11933
 Bonny Island Branching Unit and Cable Landing	535
@@ -159,7 +162,7 @@ Cabinda Luanda Namibe Bengo Zaire Moxico	10775
 Cabinda Society Luanda	8053
 Cabinda- Os	10366
 Cabinda. FF	11837
-Cabinet	765,18,213,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61
+Cabinet	765,18,213,154,4,60,8,61,6,324,95,34,36,89,53,68,116,106,199,137,80,55,139,17,129,23,72,249,227,97,18,62,46,42,122,34,89,7,216,110,12,136,105,20,128,2,285,96,11,69,84,66,56,70,13,93,75,73,124,88,22,168,20,23,255,38,14,1,37,157,71,41,88,109,26,251,9,232,21,191,118,28,28,72,82,162,119,2,178,60,230,58,30,196,119,154,18,380,63,109,280,256,57,153,100,10,80,6,2,54,132,35,3,44,1,3,11,8,14,3,6,6,6,28,1,7,8,5,4,220,92,29,127,32,2,149,46,11,85,150,105,19,2,9,86,47,12,29,5,2,40,58,77,2,61,106,4,13,3,10,24,10,5,1,8,7,5,17,9,7,39,41,23,37,71
 Cabinet Affairs	2428
 Cabinet Affairs Minister	3583
 Cabinet Airflow and Cabling Capacity	9123
@@ -173,9 +176,12 @@ Cabinet CINEF Traitement	10821
 Cabinet Cabinet	11986
 Cabinet Cabinet Within	7548
 Cabinet Cluster	11193,72
-Cabinet Committee	958,10833,534
+Cabinet Committee	958,10833,534,657,108
+Cabinet Decision	12946
+Cabinet Decision No	12984,113
 Cabinet Decisions Cabinet Business	7760
 Cabinet Directive	1655
+Cabinet Directive No	13118
 Cabinet Directive and Parliamentary Ratification	1655
 Cabinet Director	10829
 Cabinet Dr. Oliver Kalabo	7432
@@ -186,12 +192,14 @@ Cabinet Meeting	2626,5880
 Cabinet Memorandum	11986
 Cabinet Militaire du Président	10821
 Cabinet Minister	11230
+Cabinet Ministers	13095
 Cabinet Ministers Alfred Gangata	5906
 Cabinet Minute Extract	2757
 Cabinet Nathaniel T. Kwabo	10581
 Cabinet News	10246
 Cabinet No Result View All Result	5774
-Cabinet Office	194,1794,9147,1280,38
+Cabinet Office	194,1794,9147,1280,38,509
+Cabinet Paper and Circular Number	12975
 Cabinet Patrick Kangwa	7223
 Cabinet Postes	2050,2596
 Cabinet Resolution No	8967
@@ -256,17 +264,19 @@ Cabinet. Coordination	11261
 Cabinet. Eskom	11236
 Cabinet. Ghanaian	10736
 Cabinet. Incentives	10829
+Cabinet. Influenza	12976
 Cabinet. Mbabane East MP Welcome Dlamini	5450
 Cabinet. Organises	3310
 Cabinet. Regardless	4783
 Cabinet. Sigwe MP David Ngcamphalala	5450
 Cabinet. The Electronic Government Division	12453
+Cabinet. The Strategic Plan	12977
 Cabinetapproved Digital Transformation Roadmap	11006
 Cabinets	8746,377
 Cabinets GRANT THORTON	10975
 Cabinets du Ministre	10712
 Cabiri	4044,7532,1
-Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85
+Cable	398,456,96,791,247,523,166,341,493,125,146,894,317,259,69,351,1274,2177,1636,76,2,1,130,301,601,16,2,1,264,1,9,90,87,1,11,1,50,85,532
 Cable Address	2474
 Cable Cable	6671
 Cable Cable.co.uk	11887,266,1,9,178
@@ -315,7 +325,7 @@ Cabo Ledo	4044,7532,1
 Cabo San	4209
 Cabo San Juan	4209
 Cabo Submarino	4248,2
-Cabo TV	6638,25,1
+Cabo TV	6638,25,1,6524
 Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347
 Cabo Verde Action Plan	11873
 Cabo Verde Action Plan Review	11873
@@ -326,6 +336,7 @@ Cabo Verde Ambition	11891
 Cabo Verde B	11867
 Cabo Verde Bets	4875
 Cabo Verde CNI	7466
+Cabo Verde CPV Implementing	13082
 Cabo Verde Cabo Verde	11461
 Cabo Verde Cambodia Cameroon Canada Cayman	11470
 Cabo Verde Central Bank	11855
@@ -462,6 +473,7 @@ Cabotage	12389
 Caboverde24	6461
 Cabral	11537
 Cabral Libii	3724
+Cabrini Ministries	12977
 Caixa Económica de Cabo Verde	11955
 Caixa Económica de Cabo Verde Members Mónica	11955
 Caixa Económica de Cabo Verde Soeli Cristina	11955
@@ -531,6 +543,7 @@ Diversification Cabo Verde Economy	11863
 Djibouti Telecom Expands DARE1 Cable	3523
 Do Submarine Cables Account for Over	2677
 Document Feeder Type Autoload Cables Included	34
+Double Cabs	12970
 E- Cable TV	582
 E. Governance The Cabo Verdean	11863
 EAST AFRICAN CABLES PLC Data Controller	7167
@@ -558,8 +571,8 @@ Enhancing Cabo Verde	11965
 Enterprise Survey for Cabo Verde	11874
 Entidade de Certificação Raiz de Cabo Verde	11867
 Equiano Cable	3782
-Equiano Cable System	6663,1
-Equiano Cable System and SARSSy	6664
+Equiano Cable System	6663,1,6524
+Equiano Cable System and SARSSy	6664,6524
 Equiano Cable System. The SARSSy	6638
 Equiano Cable. Given	3782
 Equiano Cables	3782
@@ -570,6 +583,8 @@ España CABRERA BRASERO	6613
 Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243
 Estado de Cabo Verde. Permite	7466
 Estratégia da Economia Digital de Cabo Verde	2690,1391,1362
+Eswatini's Cabinet	13226
+Eswatini. Cabinet	13226
 Ethio Telecom and Somaliland Cable	4806
 EurAfrica Gateway Cable	11155
 Europe Cable System	7329
@@ -645,6 +660,7 @@ Indonesian Cable Express IV	2677
 Information Technology Cabinet	10765,10
 Information and Communications Technology Cabinet	10765,10
 Infrastructure Program GSC Gambia Submarine Cable	1000
+Integrated Cable Car Resort	13060
 Interior Cabinet Secretary Kipchumba Murkomen	5711,1072,4,79,5437,10
 International Advisory Body for Submarine Cable Resilience	2677
 International Cable Protection Committee	2677,836,1163,2523,36
@@ -704,6 +720,7 @@ MainOne Cable Company Ghana	8025
 MainOne Cable Company Ltd	3862
 MainOne Cable Company for US	856
 MainOne's Lagos Cable Landing Station	7329
+Malawi Cabinet Retreat	13095
 Manuel Cabugueira	5404
 Manuel Costa Cabral	5404
 March-2022 Cabinet Directive	1655
@@ -752,6 +769,7 @@ NOSI de Cabo Verde	9799
 NOSi Cabo Verde	11891
 Naivasha Prime Cabinet Secretary Musalia Mudavadi	1245
 Namibe Cabinda ISABEL CONSTÂNCIA TOMÉ	10751
+Namibia's Cabinet	12968
 Nana Appiah Acquaye Cabo Verde	5454
 Nana Appiah Acquaye The Government of Cabo	4835
 National Backbone Fiber Optic Cable Network	35,9531
@@ -774,6 +792,7 @@ O Instituto Nacional de Estatística de Cabo Verde	5578,3197
 O-Mari CABS ATM	6996
 OPTICAL FIBRE CABLE CONSORTIUM	11857
 Ocean Bottom Cable	11405
+Office of President and Cabinet	12980
 Office of The President and Cabinet	395
 Olkaria Prime Cabinet Secretary Hon. Musalia	1245
 Only One Cable-laying Ship Can Fix	2677
@@ -788,6 +807,7 @@ Ownership Structure Banco de Cabo Verde	11955
 PC Cable	34
 PCA da Imprensa Nacional de Cabo Verde	6571
 PHASE II Av. Amílcar Cabral	8166
+PRESIDENT AND CABINET	12987
 PROFIL DU CABINET ET DES EXPERTS	12043
 PROJECT INFORMATION SHEET CLIENT INFORMATION Cabo	11863
 PROJECTO DIGITAL CABO VERDE	11898,123
@@ -808,14 +828,16 @@ Portal Consular de Cabo Verde	11877
 Portal da Transparência de Cabo Verde	3118
 Portugal and Angola Cables' AngoNAP Fortaleza DC	3075
 Position Cabo Verde	11863
+Poverty Eradication and Social Welfare CABINET DECISION	12923
 Praia Cabo Verde	11863
 Presidency's Cabinet	4380
 President Forthe Govemment of Cabo Verde	11517
-President and Cabinet	395,1159,1225,272,1477,6208,1055,423,3,295
+President and Cabinet	395,1159,1225,272,1477,6208,1055,423,3,295,376,76,29
 President and Cabinet E-Government Technology Unit	2779
 President and Cabinet Following	2779
 President and Cabinet GOVERNMENT OF ZIMBABWE GOVERNMENT	2779
 President and Cabinet Martin Rushwaya and ZEC Chairperson	1817
+President and Cabinet OS Operating System Ministry	12917
 President and Cabinet Tafara Matekaire	2920
 President and Cabinet and Treasury	1154
 President and Cabinet of Zimbabwe Martin Rushwaya	8419
@@ -824,7 +846,11 @@ President and Cabinet. Provides	12512
 Prime Cabinet Secretary	1245
 Prime Cabinet Secretary Musalia Mudavadi	12268
 Prime Cabinet Secretary and Cabinet Secretary for Foreign	10313
+Prime Minister and Cabinet Office Mr. Bheki	12989
 Primero Cabo Aduanero de Primera Agente de Primera	4209
+Private and Cabinet Office First Quarter Performance	13226
+Private and Cabinet Office- US	12962
+Private and Cabinet Offices	13093
 Pro-Empresa REPÚBLICA DE CABO VERDE	12021
 Produto Empresa Online REPÚBLICA DE CABO	12021
 Program. The Government of Cabo Verde	11855
@@ -895,6 +921,7 @@ Short History of Submarine Cables	2677
 Sierra Leone Cable Company Limited	360
 Sierra Leone Cable Limited	3378
 Sierra Leone Explores Second Submarine Cable	3263
+Single Cabs	12970
 Sistema de Pagamento Cabo-Verdiano	11933
 Sistema de Pagamentos Cabo-Verdiano Um	11933
 Snapped Underwater Cables and It’s Still	2677
@@ -910,7 +937,9 @@ Somaliland Cable	4806
 South Atlantic Cable System	144,867,636,4623,334
 Southeast Asia-Japan Cable	1766,2910
 Southern Cross Cables Limited	3513
+Special Cabinet Committee	12912
 Special Sitting of Cabinet	11265
+Staff Reporter CABINET	13015
 Standing Cabinet Committee	10246
 StarTimes. Cabe	11672
 Starlink Cabo Verde	3603
@@ -976,11 +1005,13 @@ Teixeira Fumaça Cabenda Controlo de Qualidade José	10766
 Tel Cables Nigeria Ltd	3862
 TeleGeography Submarine Cable Map	4676
 TeleGeography’s Submarine Cable Map	5252
+Telecom Namibia Equiano Cable Station	12960
 Telecommunications Cabling Infrastructure Classes	9123
 Telecommunications and Computer Cabinets and Racks	9123
 Television of Cabo Verde. Within	11955
 Televisão de Cabo Verde	6220,108,36
 Thirty-First Cabinet Meeting	3760
+Thulisile Dladla and Cabinet	13008
 Time Cabo Verde2024 Sub-Saharan Africa Lower	11874
 TradeMark Africa. The Cabinet Secretary	9333
 Transmission Lines Project Cabinet	3760
@@ -1009,10 +1040,11 @@ University of Cabo Verde	6037
 University of Rwanda. A Cabinet	7906
 Velmie and Metro Cable	2749
 Vera Cabral	11561
+Virtual Machine DAC Direct Attach Cable	13185
 Visited Egyptian Knowledge Bank Cabinet	9332
 WACS Cable system.jpg	8679
 WACS West Africa Cable System	11965
-West Africa Cable System	2677,665,179,261,899,1923,5259,102,636
+West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27
 West Africa Data Centre and Cable Entry	856
 West Africa Submarine Cable	2677,3004
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073

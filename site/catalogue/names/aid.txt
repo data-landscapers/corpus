@@ -1,4 +1,7 @@
+ACRONYMS AG Attorney General AIDS Acquired	12923
 AI Cross Departmental Aid	7548
+AID COORDINATION AND MANAGEMENT SECTION	12962
+AID No. of Training	12977
 AID-JTR217	6948
 AID-SMJ882	2093
 AIDA Data Hub	7313
@@ -9,29 +12,41 @@ AIDS Acquired Immune Deficiency Syndrome DMMU	1988
 AIDS Anaemia Heart	12138
 AIDS Behav	1219
 AIDS Commission	3583
+AIDS Coordinating Committee	12962,10,5
+AIDS Coordinating Committee RDF Regional Development	12962
+AIDS DSSC District Social Support Committee	12964
 AIDS HELPLINE	1009,10167,3,2,9,6,3,2,12,20,30,288,22,474
 AIDS Helpline	11350
 AIDS Human Immunodeficiency Virus	11560
 AIDS Malaria Pneumonia Tuberculosis Road Traffic	12151
+AIDS NETIP National Education and Training Improvement	12975
+AIDS NGO Non-Governmental Organization OVC Orphaned	12970
 AIDS Programmes	11218,6
+AIDS Relief	12944
 AIDS Response	10776
 AIDS Response HIV	10776
 AIDS Trust Fund	6921
+AIDS UNAM University of Namibia UNICEF United	12923
 AIDS UNCTAD United Nations Conference	10759,78,1052,451
+AIDS UNDP United Nations Development Programme	12939
 AIDS Workplace Policy	12253
 AIDS Workplace Policy and Training	12253
 AIDS and COVID-19	9969
 AIDS and Hepatitis B	11417
 AIDS and TB	771,11958
 AIDS and Tuberculosis	10060
-AIDS-related	9229,3500
+AIDS-free	12970
+AIDS-related	9229,3500,366
 AIDS. Looking Ahead	10776
+AIDS. The NSPP	12964
 Action Aid	11866
 Action Aid Togo	1679
-Aid Coordination and Management Section	11131,3
-Aid Management Platform	5244,6997
+Adventist Development and Relief Agency AIDS Acquired	12970
+Aid Coordination and Management Section	11131,3,1828
+Aid Management Platform	5244,6997,839,15
 Aid Management Platform API	5244
 Aid Operations	6947
+Aid Posts Number	12977
 Aid Transparency Index	6982
 Aid Workers and Contractors Surge	10025
 AidData	18,17,15,1,1,2,1,1,1,1,1,1,18,1,25,1,16,1,2,1,1,1,54,1,1,1,1,4,1,3,1,50,1,1,1,10,1,1,1,1,41,35,1,1,1,1,1,1,15,1,1,1,1,16,81,15,1,1,2,1,2,1,1,136,27,69,373,1,60,1,3757,2682,1,72,1904
@@ -44,6 +59,7 @@ Aidant	2413
 Aide Memoire	2989,7897,1309,358
 Aide Memoire I. INTRODUCTION	12595
 Aide Memoire I. Introduction	2989
+Aide Mémoire	12980,74
 Aide Sociale	11913
 Aide-Memoire	12595
 Aide-Mémoire	10880
@@ -60,6 +76,10 @@ Aidwashing Surveillance	12227
 Amada Aida. Créé	7202
 Asian Development Bank AIDS Acquired Immune	396
 Avatar of AidenIzaaks	12478
+B. Workplace and Community First Aid Training	12977
+BRANCH COMMERCIAL FIRST AID COMMUNITY FIRST	12977
+Body AIDE MEMOIRE MALAWI	12980
+Body Aide Mémoire Kingdom of Eswatini	13054
 Bunge. Aidha	2868,3151
 COMMISSION FOR AIDS ACT	6921
 Catholic Organization for Relief and Development Aid Data	7167
@@ -68,30 +88,50 @@ Christian Aid	11866
 Christian Mission Aid Data Controller INST-374156AD36D	7167
 Civil Protection and Humanitarian Aid Operations ERR	6947
 Clémentine PANASSA Aide	11067
+Commercial and Community First Aid Trainings	12977
 Commission for AIDS Act	6921
+Community First Aid Trainings Conducted	12977
+Community First Aid Trainings Conducted COMMUNITY	12977
 Computer Aided Personal Interview	12409
 Condition for Lifesaving Aid Citing ProPublica	10446
+Control Unit ENAP Eswatini National AIDS	12976
+Correctional Services IATI International Aid Transparency	12962
 DORCAS AID INTERNATIONAL	7167
+Debt and Aid Division	13080
+Deputy Director for Debt and Aid	12980
+Digital Public Goods Aid Management Platform	13095
 Dk Mkilia. Aidha	6625
 Donor Aid	11134
 Don’t Want Aid That Runs	6947
+EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
 EU and Irish Aid	1711
 EU and Irish Aid. Sambo	2930
 Eastern Deanery AIDS Relief Program Data	7167
 Economics of Localizing Aid	6947
 Electronic Legal Aid System	11939
 Elizabeth Glaser Pediatric AIDS	12241
-Elizabeth Glaser Pediatric AIDS Foundation	12240
+Elizabeth Glaser Pediatric AIDS Foundation	12240,765
 Elizabeth Glaser and Pediatrics AIDS Foundation	12291
+Eswatini Legal Aid Office	12936
+Eswatini Legal Aid X	12936
 European Civil Protection and Humanitarian Aid Operations	970,9871
+European Union Civil Protection and Humanitarian Aid	12977
+European Union and Irish Aid	13032
 Explore AidData	7590
+FIRST AID Site No. of Trainings People	12977
 Fatores Facilitadores AIDA Ayuda	11557
 Fight AIDS	392,545,10623,337
 Fight Against AIDS and Major Endemic Diseases	10776
 Finn Church Aid	12227
-First Aid	11134,1119
+First AID	12977
+First AID A. Community First Aid	12977
+First Aid	11134,1119,724
 First Aid Administration	11131
+First Aid BERCS	12977
+First Aid Drills No. of Trainings People	12977
 First Aid Kits	1988
+First Aid Posts and People Assisted	12977
+First Aid Posts and People Assisted First	12977
 First Aid Training The Bank	11134
 First Aiders	12253
 First Aiders. Culture Transformation Culture	11131
@@ -103,22 +143,26 @@ Global Data Asset Inventory Memo. AidData	7662
 Global Health Aid Cuts	6934
 Global Health Aid Tied	6534
 Government of Chad's Aid Management Platform	343,18
+Government of Norway and Irish Aid	13214
 Government of Senegal’s Aid Management Platform	260,40
 Government of Uganda’s Aid Management Platform	106
 Grant In Aid	6222
+H. Draft Legal Aid Bill	12939
 HIV AIDS	1038
-HIV and AIDS	21,1967,5199,1292,2655,657,462
+HIV and AIDS	21,1967,5199,1292,2655,657,462,669,24,92
+HIV and AIDS NGO Non-Governmental Organization NSSV	12939
 HIV and AIDS. Mitigation Measures	12253
 HIV and AIDS. Nandi County	6946
 HIV and Aids	38
+HIVand AIDS	12962
 Habari. Aidha	2868,3151
 HealthHistoryHIV and AIDSHome	11215
 Home Owners Allowance and Medical Aid	11218,6
 Human Resources Development Council and Legal Aid	12551
 Humanitarian Aid	12227
 Humanitarian Aid Commission	6947
-International Aid Transparency Initiative	1651,5331
-Irish Aid	3924,7278,1,1,1,1,1,1,936,24,14,59
+International Aid Transparency Initiative	1651,5331,5980
+Irish Aid	3924,7278,1,1,1,1,1,1,936,24,14,59,974
 Irish Aid. Over	7232
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 KIBOCUBE. Aidha	6019
@@ -126,7 +170,12 @@ Kenya Irish Aid	11202
 Kidijitali. Aidha	2868
 Lab Aides Year	4202
 Lagos State AIDS Control Agency	9444
+Legal Aid	12936
+Legal Aid Act	13123
+Legal Aid Board	12959
 Legal Aid Botswana	12566
+Legal Aid Office	12936
+Legal Aid Office. Government	13123
 MHz Aids	736
 Makazi. Aidha	6019
 Malawi's Aid Management Platform Aid Management	12241
@@ -136,6 +185,11 @@ Medical Aid	11218,80,1308
 Medical Aid Funds Act	12598
 Medical Aid Funds Bill	12598
 Medical Aid Funds Regulations	12598
+Medical Aid Scheme SACU Southern African	12923
+Medical Aid Scheme for Members	13096
+Medical Aid Schemes Bill	13060
+Medical Aid The Information Commissioner	13096
+Meets the Need for Swift Processing of Humanitarian Aid	13042
 Mheshimiwa Rais. Aidha	2868
 Mission Aide Memoire	12553
 Mutual Aid and Diaspora Alliances	6947
@@ -152,18 +206,23 @@ National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67,694
 Nigeria Irish Aid	11204
 Nurse Aides Year	4202
 Overseas Development Aid	11155
+People Trained First Aid Kits Sold	12977
 Plan NSFAS National Student Financial Aid	11192
 Politics of Local Aid	6947
 Potential AidData	474
-President's Emergency Plan for AIDS Relief	7750
+President's Emergency Plan for AIDS Relief	7750,5175
+President's Emergency Plan for AIDS Relief PFM	12962
 Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415
 Programme AIA Appropriation In Aid AIDS	2775
+Public Sector HIV& AIDS Coordinating Committee	12972
 Publishing Classified Military Information Aids Terrorists	4738
+Reproductive Health and HIV and AIDS	12946
 Rite Aid	12210
 STIs and HIV and AIDS	12253
 SUPPORTING DOCUMENTS World Bank. All Aide	11924
 Screenshot of Aid Management Platform UNDP	12241
+Senior Legal Aid Officer	12936
 Serikali. Aidha	2868
 Shocks and Aid Cuts Intensify Risks	11105,31
 Simu. Aidha	6019
@@ -171,6 +230,7 @@ SmartSwitch Botswana Pioneers Dignified Digital Aid	2935
 So AidData	7590
 Spread of HIV and AIDS	12253
 Stack for Aid and War	7147
+Strong Institutions. Aid Management Platform	13080
 Student Aid Programme	10332
 Supporting Mutual Aid	6947
 Sweden. Aidha	2868
@@ -183,13 +243,16 @@ U.S. President's Emergency Fund for AIDS Relief	12334
 U.S. President’s Emergency Plan for AIDS Relief	10641
 UK Aid	899,1980,8125,898,62,180
 UK Aid’s Digital Access	899
+UPR Implementation Legal Aid	12936
 Uganda Irish Aid	11207
 Ujumla. Aidha	2868
 United States President’s Emergency Plan for AIDS	5165
 Vera Aidoo For Diana	3691
+Violence NATTIC Nhlangano AIDS Testing Treatment	12939
 Wike’s Aide Under Fire for Leaking Voter	7176
 World AIDS Day	4049
 World Aids Day	5162
+World Aids Day Campaign	12977
 World Bank Aide Memoire	12553
 Zanzibar. Aidha	11612
 Zimbabwe National AIDS Council	3385

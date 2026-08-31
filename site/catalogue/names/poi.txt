@@ -41,6 +41,7 @@ CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CONTACT POINT World Bank	12832
 CONTACT POINT World Bank Erkin Mamadaliev	10963
 CONTACT POINT World Bank Natalija Gelvanovska-Garcia	3456
+CONTACT POINT World Bank Page	13111
 CRITERIA POINTS Price	11209
 CROWN POINT DENTAL CARE Data Controller	7167
 CV-IXP Internet Exchange Point Details Name	11878
@@ -51,6 +52,7 @@ Cardinal Points	5202
 Cash Point	8816
 Category Points Qualification and Skills	962
 Check Point	3290,603,5922,857
+Check Point Certified Security Administrator	12926
 Check Point Research	5518,4297
 Check Point Research Blog	9815
 Check Point Software Technologies	3290,5115
@@ -58,14 +60,16 @@ Check Point Software Technologies. Dartnall	3290
 Check Point's Cyber Security Report	5780
 Check Point’s Threat Intelligence Report	3290
 Chief Executive Officer Pharmacy and Poisons	9855
+Child Survival A. Neighborhood Care Points	12977
 China. As Poignonnec	415
 Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
-Community Access Points	12536
+Community Access Points	12536,437
 Confusing Collection Points	9696
 Congo. Internet Exchange Points	10506
 Contact Point	12412,14
 Contact Point National Consumer Helpline Online	5676
+Converged Ethernet RPO Recovery Point Objective	13185
 Council of County AI Focal Point Intergovernme	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -124,17 +128,19 @@ ISP Point of Presence	2913
 ISPs Point of Presence	3862
 IXP Internet Exchange Point KCL Knowledge	11552
 IXPN Points. INTERNATIONAL SUBMARINE CABLE LANDING	11857
+Information CAP Community Access Point CRAN	12973
 Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
+Internet Exchange Point LAN Local Area	12917
 Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
 Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 KENYA The Pharmacy and Poisons Board	9854
@@ -150,6 +156,7 @@ LE POINT CARE	8637
 LIPTINFOR NIGER UBIQUITY Point	998
 LPA Point-of-Sale	4283
 LPA-approved Point-of-Sale	4283
+Launching of Internet Exchange Point	12904
 Le Point De Vue De L’Expert	11034
 Les Points	11592
 Lesotho Internet Exchange Point	12709
@@ -160,6 +167,7 @@ Lusaka Internet Exchange Point	12377
 M2200000020563ON MOULINS GM PNR DE POINTE-NOIRE	7346
 MMG. A Technical Focal Point	2889
 MOMO Focal Point	9699
+Malawi Internet Exchange Point	12917
 Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
 Mastercard Interface Point	12273
@@ -173,12 +181,18 @@ Mozambique Internet Exchange Point	8858
 Municipality Service Point Name Lat Long	11986
 Muster Point	1988
 N Operator Number of Points of Presence	3862
+NCP Neighbourhood Care Point NDMA National	12970
+National Focal Points	12918
 National Key Points Act	5161
 National Signalling Point Codes	6946
 National Traffic Point-Based Penalty Management	12200
 National Traffic Point-Based Penalty Management System	12200
+Neighborhood Care Points	12977
+Neighbourhood Care Point Strategic Plan	12977
+Neighbourhood Care Points	12914,48,15
 No. of Gazetted Border Control Points	12453
 Number of Internet Exchange Point	12453
+Number of NRB Service Delivery Points	13095
 OTC Over-the-Counter PPB Pharmacy and Poisons Board	9855
 Offices Operational Service Points Fix Service	8999
 Outside Brazzaville and Pointe-Noire	11905
@@ -196,6 +210,7 @@ POINTS Arial	11129
 POINTS Courier	11129
 PP Nine Point Plan NT National	11193
 PRETORIA Points of Contact Mr Enos Sella	11180
+Pain Points	13037
 Partial Credit Guarantee Point of Sale Real	12701
 Partners Exchange Point C- Connectivity Resilience	7548
 Pay Point Managers	12335
@@ -212,7 +227,7 @@ Poids des MPME	11944
 Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point Configuration	736
@@ -221,6 +236,7 @@ Point Focal	7675,1602
 Point Kilométrique	11322
 Point Km Kilometer	10861
 Point Link Details MAIN ROUTE Station	736
+Point Max EIRP	12949
 Point Name Lat Long Name	11986
 Point Newspaper	6226
 Point Outcome Document	11285
@@ -239,6 +255,7 @@ Point of Sales	4630,50,637,6721
 Point of Sales Persons With Disabilities	10763
 Point-	736
 Point-in-time	10985
+Point-of-Lay	12975
 Point-of-Sale	7689,114,125,250,1983,602,356,15
 Point-of-care	10188
 Point-of-sale	5513,6758
@@ -257,7 +274,7 @@ Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70,1304,
 Pointe-Noire and Brazzaville	11905,19
 Pointe-NoireBrazzaville	6067
 Pointing	34,9642,1419
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168,642,57
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
 Points Weight	10785
@@ -287,7 +304,9 @@ Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
 Recovery Point Objective	6432,30,4259,1231,586
-Recovery Point Objectives	11995
+Recovery Point Objectives	11995,1190
+Recovery Time Objective and Recovery Point Objective	12967
+Recovery Time Objectives and Recovery Point Objectives	12967
 Refuge Point	346
 Regional Internet Exchange Point	578
 Regional Internet Exchange Points	5675
@@ -297,6 +316,7 @@ Result Home ALL NEWS TALKING POINT	4619
 Revisiting the Tax Tipping Point. IMF	10997
 Revisiting the Tax Tipping Point. IMF Working	10997
 Rwanda Internet Exchange Point	718
+SADC National Contact Point	12962
 SMEs Saudi Fintech Hits Tipping Point	5322
 SPECIFIC GOALS POINTS	11209
 Sacha Poignonnec	415
@@ -306,6 +326,8 @@ Section Evaluation Criteria Points Allocation Weight	11240
 Security Check Points	2113
 Security Focal Point	3604
 Security Focal Point62	3604
+Selected Districts District No. of Service Points	13095
+Senior Statistician and Focal Point SADC Secretariat	12972
 Service Access Points	906
 Service Framework Service Point Application Service	21
 Service Point Applications	21
@@ -318,14 +340,18 @@ Single Point of Decision Making	12389
 Single Point of Payment	12389
 Staff Development and Learning Focal Point	10776
 Sticking Point	10360
+Swaziland Launching of Internet Exchange Point	12904
+Swaziland. The Internet Exchange Point	12904
 System Key Point	6173
 Systems Point-of-Sale Persons	940
 Talking Points	5752,2359
 Tax Authority Access Point	8670
+Technology IXP Internet Exchange Point KBPS	12973
 Telecommunications Union IXP Internet Exchange Point	1264
 Tipping Point	1828,4584
 Transit Point	4993
 Trust Breakdown Points	11138
+Turning Point	13123
 Uganda Internet Exchange Point	9477
 Universal Contact Points	5676
 Vult Pay Point	2749

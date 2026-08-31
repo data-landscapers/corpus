@@ -1,3 +1,4 @@
+ASYCUDA Support for Migration Tailored	13042
 Absence of Forced Migration	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Absence of Forced Migration Trend Bouncing Back	11870
 Absence of Forced Migration and Laws	12153
@@ -35,11 +36,13 @@ DEPORTEES RAISE QUESTIONS ABOUT LIBERIA MIGRATION	10581
 DETAILED MIGRATION STRATEGIES	6432
 DFC and MIGA	11310
 Data Migration	11216
+Data Migration Requirements	13037
 David Mignot	5802
 Description MIGA	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1
 Development Potential of Migration Greater	12164
 Digital Financial Services Guarantee MIGA	914,1,1,1,1,1,1,1,1,1,1303
 Digital Identity and Migration	4842
+Digital Migration	12971
 Digital Wallets and Migration Policy	12227
 Director for Free Movement of Persons and Migration and WURI	5579
 Director of Diaspora and Migration	9838
@@ -85,7 +88,7 @@ International Migrant Stock Data	11960
 International Migration	10508,18
 International Migration Review Forum	9838
 International Migration Snapshot	12227
-International Organisation for Migration	7165,2673,2307,56,117
+International Organisation for Migration	7165,2673,2307,56,117,913
 International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552
 International Organization for Migration. Available	11909
 Introduction and Migration	5675
@@ -95,6 +98,7 @@ Khalifa Denny Mahalia LewisBynoe MIGA Edward	11468
 LEGACY SYSTEM MIGRATION AND COMPATIBILITY REQUIREMENTS	3861
 LOCAL DE NASCIMENTO E MIGRAÇÃO Migração	10777
 Labor Migration	5172
+Labour Migration	13060
 Labour Migration Action Plan	10324
 Labour Migration Strategy	10463
 Legacy System Migration and Compatibility Requirements	3861
@@ -147,6 +151,7 @@ Migori County. Otieno	8793
 Migori Kisii Nyamira Narok Kajiado Mt	7869
 Migori and Turkana	6946
 Migorians	8793
+Migowi-Phaloni-Swang’oma Road	13122
 Migra	9399
 Migra- Gvt of Benin	10819
 MigraWorld Bank	10819
@@ -157,12 +162,13 @@ Migrants and Convention	9399
 Migrants and Internally Displaced Persons	12145
 Migrants and Internally Displaced Persons Act	12145
 Migrar	11377
-Migrate	6432,2807,1266,1401,34,46,165
+Migrate	6432,2807,1266,1401,34,46,165,886
 Migrated	11231
 Migrated Active Directory	11231
 Migrated Email	11231
 Migrating	8603
-Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214
+Migrating MIX	12965
+Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79
 Migration Assessment	6432
 Migration Authority	10775
 Migration Contexts	12227
@@ -187,6 +193,7 @@ Migration and Development	12164
 Migration and Diaspora	789
 Migration and Foreigners Service	10775
 Migration and Global Governance	8015
+Migration and Mortality	12963
 Migration and Remittances	11960
 Migration of South African Social Security Agency	2626
 Migration. SECTION	12145
@@ -212,6 +219,7 @@ Mme Saada Abdillahi Miguil	7713
 Mme Saada Abdillahi Miguil. Chaque	7713
 MoMo Evolved Migration	10666
 Mobile Money and Financial Inclusion of Migrants	12297
+Modular Migration Step-by-step	13042
 Mohamed Miguil Hassan	3098
 Mohamed Miguil Hassan. Derrière	3098
 Motivo da Migração	10777
@@ -232,6 +240,7 @@ Organization for Migration KDHS Kenya Demographic and Health	12151
 Overview of Migration Management	12164
 PHASED MIGRATION TIMELINE	6432
 Payments Airtel Mobile Commerce MIGA	11310
+Phased Implementation and Migration	13042
 Phased Migration Approach	11995
 Phases Migration Timeline	6432
 Phyllis Migwi	11777
@@ -265,6 +274,7 @@ Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
 Support for Refugees and Migrants	10776
 Support for Refugees and Migrants Successfully	10776
 Survival Migration	12227
+System Migration and Customization Eswatini	13042
 São Miguel	3192,8770
 Sébastien Migné	10036
 Technical Migration Schedule	3861
@@ -275,6 +285,7 @@ Travailleurs Migrants	10841
 UN Migration	12227
 UNCDF Migration and Remittances	11960
 UNCDF's Migrant Money	2661
+VISION Population Register and Migration Management	12947
 Voices of Migrants	12227
 Walter Mignolo and Sabelo Ndlovu-Gatsheni	9739
 Warning Signs Absence of Forced Migration	12352

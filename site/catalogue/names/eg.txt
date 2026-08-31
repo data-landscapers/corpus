@@ -24,9 +24,10 @@ Americas Botswana High EGDI M-OSI H-HcI	10840
 Americas Kiribati Middle EGDI M-OSI H-HcI	10840
 Americas Tajikistan High EGDI M-OSI H-HcI	10840
 Angola EAC CEMAC CEMAC CEMAC Egypt	6938
-Arab Republic of Egypt	39,1220,6247,29,1110,2490
+Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Egypt International Telecommunication Union	10764
+Architecture Framework UN EGDI United Nations	12917
 Asia Almaty Very High EGDI V3	10840
 Asia Namibia High EGDI M-OSI H-HcI	10840
 Asia Saint Kitts and Nevis High EGDI	10840
@@ -47,6 +48,7 @@ Beyond the Egyptian	6678
 Biometric Update Egypt	5342
 Bolivarian Republic of High EGDI M-OSI H-HcI	10840
 Bridgetown High EGDI H3	10840
+Bua River Conclusion EGENCO	13241
 CEMAC GIMAC RTGS System EG-ACH InstaPay	6938
 CEO of Huawei Cloud Egypt	6653
 CEO of Vodafone Egypt	5052
@@ -82,6 +84,7 @@ Daily News Egypt	3451
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Data Protection. Egypt	4590
 De Guatemala High EGDI H2	10840
+Decade EGMRG Victoria Falls	13220
 Decade. EGMRG Victoria Falls	12761
 Defense and Security Wings EGD	12453
 Denmark Egypt Estonia Finland France Germany	10764
@@ -93,6 +96,7 @@ Distribution of EGDI	10840
 Dr. William Egaddu	12874
 Drive Digital Economy Growth Egypt	6678
 EA EE EFP EG EGRA EJA	10766
+EEC EG ESERA ESWASA FY GET	12969
 EEDCV and EGDCV	12008
 EG-CERT	6569,484
 EG-CERT and Fortinet	7053
@@ -102,6 +106,7 @@ EG.ELC.ACCS.ZS	4127,3986,4263,298
 EG60KWHEDG	6517
 EGALITE VENTURES LTD Data Controller INST-487728D552E	7167
 EGALITE VENTURES LTD Data Processor INST-487728D552E	7167
+EGCSE	12956,19
 EGDCV	12008
 EGDDS	3968
 EGDI EDGI	10840
@@ -127,6 +132,7 @@ EGDI de Telecomunicações	11569
 EGDI. Development Index	11569
 EGEE-ICT	350
 EGENA	10913
+EGENCO	12979,81,181
 EGENFR	11907
 EGERTON UNIVERSITY Data Controller INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY Data Processor INST-2811028BEB0 NAKURU	7167
@@ -146,12 +152,13 @@ EGM. All	8939
 EGM. Attendance	4896
 EGM. Because the Company	8939
 EGM. Econet	4896
-EGMRG	11479,1,584,697
+EGMRG	11479,1,584,697,459
 EGNOS	466
 EGP0.50	2657
 EGP100B	12339
 EGP20	2657
-EGPAF	12240,1
+EGPAF	12240,1,764
+EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
 EGRA Early Grade Reading Assessment EI	11560
 EGTI Expert Group	582
 EGTI and EGH	11424
@@ -215,13 +222,14 @@ Egon Zehnder	10801
 Egovernment Survey	11379
 Egoïsme	6959
 Egtech	12478
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472
 Egypt Adonijah Ndege	3737
 Egypt Aug	3429
 Egypt Bets	6678
 Egypt CEO Amira Nagy	11162
 Egypt Digital Economy Actions	226
 Egypt Digital Platform	7537
+Egypt EGY National Strategy of Statistics	13082
 Egypt Egypt ACH System CCAA	6938
 Egypt Ethiopia Ghana Kenya Nigeria Senegal	11004
 Egypt Ethiopia Kenya Nigeria Rwanda Senegal	11964
@@ -326,12 +334,14 @@ Egypt. The Botswana Tech Fund	5930
 Egypt. The Cairo-based	8221
 Egypt. The CrossBoundary Energy	11310
 Egypt. The Egyptian	3429
+Egypt. USTDA	12937
 EgyptAir	562
 EgyptAugust	5342
 EgyptWide for Human Rights	11079
 Egypte	8237,2738
 Egypte L’Égypte	11761
 Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100
+Egyptian Agency of Partnership for Development	12972
 Egyptian Ambassador	9332
 Egyptian Banking Institute	7535
 Egyptian Banks Company	6938
@@ -377,6 +387,7 @@ Egypt’s Personal Data Protection Law No	11079
 Egypt’s Prime Minister	11162
 Eswatini High EGDI M-OSI H-HcI VH-TII	10840
 Ethiopia and Egypt	6892
+Execution S13 Implement EGP Department of E-	12917
 Export-Import Bank of Egypt	7535
 Export-Import Bank of Egypt. The Tech Africa	4401
 Ezekiel Egboye	2595
@@ -402,6 +413,7 @@ Ghana Ethiopia Egypt Men	11004
 Ghana and Egypt	4173,3872,1011
 Ghana and Tanzania. Nigeria and Egypt	11324
 Government Backs Offshoring Expansion Egyptian Prime	11162
+Government EGP Electronic Government Procurement EMIS	12917
 Government Services Egypt	5342
 Government of Egypt ITIDA CEO Ahmed Elzaher	11162
 Government of Egypt Madbouly	11162
@@ -439,6 +451,7 @@ India Giza Governorate Thailand Cairo Egypt	11563
 India Kenya South Africa Rwanda Egypt	11857
 Inside Egypt	4972
 International Cooperation and Egyptian Expatriates	9299
+JC and EGCSE	12975
 Jane Egerton-Idehen	12078
 Jane Nkechi Egerton-Idehen	5623,5076,109,1258,64
 June. Why Egypt Egypt	11740
@@ -486,6 +499,7 @@ Morocco South Africa Kenya Egypt UMOA	6938
 Morocco and Egypt	4126,1214,397,1201,4956
 Myanmar High EGDI M-OSI H-HcI H-TII	10840
 Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
+Namibia EGMRG	13220
 Nassau High EGDI HV	10840
 National Assembly EGD	12453
 National Bank of Egypt	4457,2071
@@ -523,6 +537,7 @@ Region Barbados High EGDI M-OSI VH-HcI	10840
 Regional EGDI	1893
 Related Posts Egypt	9747
 Republic X Ecuador X Egypt X	11005
+Restore Full Generation Capacity EGENCO	13241
 Revista Real EG	3494,9024
 Roseau High EGDI H1	10840
 Rwanda and Egypt	7203

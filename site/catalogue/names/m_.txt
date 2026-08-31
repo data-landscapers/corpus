@@ -47,6 +47,7 @@ Borowski-Beszta M	12231
 Braunstein M	10784
 Burkina. M. Sow	4550
 C L I M A T	11586
+C O M M U N	13042
 C TI O M N	582
 C. M	8301
 C. M. Bonina	5700
@@ -107,6 +108,7 @@ Dugas M. Success	771
 Dugeri M	9739
 Démographiques M. Moussa Traoré Directeur Centre	10812
 E C O N O M	11586
+E F G H M	13093
 E F R O M T	11586
 E PA R T M	12500
 E. M	4676,673,3322,2379,85,5,170
@@ -202,9 +204,10 @@ Indonesia W M Pakistan W M	11964
 Information Minister Jerolinmek M. Piah	11720
 Information Sociale M. Samuel Michel Yameogo	10812
 Information. M. Adji Ali Salatou	3337
+International Cybersecurity Challenge. Dr Attlee M	12926
 Isyagi M	12379
 Ivan Bruno de M	11879
-J. M	1248,6638,718
+J. M	1248,6638,718,4374
 J. M. Cavanillas	1243
 J. M. Montes Hincapie	5349
 Jayaram M	9739
@@ -222,7 +225,7 @@ Khavkin M	8460
 Kirkevold M. Conditions	1219
 Kovačević M	12255
 L M M J V S	9810
-L. M	1243
+L. M	1243,11683
 L. M. Ellram	5349
 L. M. Ong	11028
 Licenciatura MF M F Angola	10766
@@ -261,6 +264,7 @@ M Colombia	11922
 M Compulsory Briefing Session Meeting Registration	11240
 M Credit Line for Sustainable Data Protection	12297
 M Cumulative Investment Google	2209
+M Current Gap Total Population	13095
 M Côte	210
 M DFC	1435,80
 M DHIS2	4349
@@ -335,6 +339,7 @@ M IFC-led	893,526
 M IFC-led Series B	1058
 M IFU	84
 M Impact Innovation Fund. Supports	4500
+M Inclusivity Pulse for DPI	13095
 M India W M ASIA Indonesia	11964
 M Indonesia	11922
 M Injection Into Ivorian Ventures Published	10942
@@ -365,6 +370,7 @@ M MZN	5841
 M Madagascar. Signed Dec	1464
 M Maimane	11289
 M Major MNOs MTN	10822
+M Manufacturing	13093
 M Mapaila	11289
 M Member Sex	582
 M Metrics	3972
@@ -379,6 +385,7 @@ M N PAULSEN	11272
 M NAME	582
 M NIGERIA	11469
 M NOK	513
+M NRB	13095
 M National Social Safety Net Program	790
 M Nigeria	11469
 M Nigeria Digital Identification for Development Education	11469
@@ -442,6 +449,7 @@ M RMB	1520
 M Randriambelonoro	1824
 M Reduction	4349
 M Reforzamiento	4209
+M Region	13189
 M Revenue Development	12457
 M Role	10822
 M Round Participant Google	1515
@@ -819,6 +827,8 @@ M. Junior Gustave SEREMANDJI	9277
 M. Justin GOURNA ZAKO	4327
 M. K	2518,2158,3928
 M. K. Désiré Yaméogo	3181
+M. K. Gertze High School	13046
+M. K. Gertze High School Hall	13046
 M. KE	725
 M. KONE Aboubacar Sidiki	2342
 M. Kaboré	10827
@@ -854,7 +864,8 @@ M. Ludovic NGATSE	6067
 M. Ludovic Ngatsé	1297
 M. Léon Juste IBOMBO	3326
 M. Léon Juste Ibombo	3173
-M. M	1243,5,3428,673,1483,1772,67,2594
+M. M	1243,5,3428,673,1483,1772,67,2594,1713
+M. M. KATOPOLA Clerk of Parliament Cap	12898
 M. M. Quinlan	5349
 M. M. Tavares	11140
 M. MTN	925
@@ -1155,6 +1166,7 @@ Mahlatse M. Shekgola. Disclaimer	8021
 Mail M. Jean Armand Yanogo Directeur	10812
 Majaha M	12255
 Makoutodé M	766
+Malawi M	13095
 Mapunda M. Tanzania	1261
 Marschollek M	10780
 Matin M	6483
@@ -1211,6 +1223,8 @@ NAM 1992 DHS v01 M	9485
 NAM 2000 DHS v01 M	9485
 NAM 2009 HIES v01 M v01 A PUF	9485
 NAM 2012 LFS v01 M v01 A PUF	9485
+NAM 2024 FINDEX v02 M Producer	13084
+NAM 2024 FINDEX v02 M Title	13084
 NAM NSA 2003 NHIES v01 M	9485
 NAME M ID OF PERSON	582
 NATIONAL REGISTRATION MR M. BAGAISAMANG	12607
@@ -1310,8 +1324,10 @@ Selon M. Anvam	3512
 Selon M. Bayala	2856
 Selon M. Konan	8071
 Selon M. Ndé	5079
-Series M No	12151,262
+Series M No	12151,262,546
 Shiferaw M	3791
+Shri M. Hamid Ansari	12979
+Shri M. Venkaiah Naidu	12979
 Smith M	1261
 Solomon M	3791
 Solomon M. Hsiang	10963,1
@@ -1335,6 +1351,7 @@ Terrance M. Booysen	10570
 Tolani M	3791
 Toleo la M	6019
 Tomlinson M	1219,10758
+Trade and SME Development M	12923
 Tumusiime DK and Venkateswaran M	8376
 Turley M	3604
 Twahir M. Khalfan	11133
@@ -1354,6 +1371,7 @@ W M Senegal W M Tanzania	11964
 W M Senegal W M Uganda	11004
 W M Uganda W M Bangladesh	11964
 W. M	12006
+W. M. Jod Primary School	13046
 Wally M. ZOUMAROU Conseiller Onésime MADODE	10821
 Web of Science Google Scholar Atari M	8460
 WilmetDramaix M. Factors	766

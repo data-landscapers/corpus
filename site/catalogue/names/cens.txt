@@ -1,9 +1,11 @@
 ANÁLISE DOS PRINCIPAIS RESULTADOS DO CENSO	10766
 Agricultural Census	12551
 Agriculture Census	12598
-Annual Education Census	12345
+Annual Education Census	12345,605,66
+Annual Education Census Report	12956
 Annual School Census	10359,1501,201,114
 Biometric Electoral Census Designed	11939
+CENSTARs	12999
 CENSUS	9485
 CENSUS OF POPULATION	12431
 Cartografia Censitária	4979,6442,156
@@ -27,10 +29,15 @@ Censores de Cuentas	4209
 Censorship	6562
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30
 Census Act	12551
+Census Committees	12963
 Census EAs	11296
 Census Final	12383
+Census Main Report	12963
+Census Night	12963
+Census Officials	12963
+Census Reference Night	12963
 Census Shows By Stephen Kamanzi	7992
 Census and DNRN	10765,10
 Census and PES	12383
@@ -40,7 +47,8 @@ Census and Survey Processing System	10777
 Census of Population	10826
 Census of Population and Housing	1867,10542,22
 Census. As Namibia	12399
-Censuses	11192
+Censuses	11192,1855
+Censuses and Surveys	12962
 Central Census Office	9408
 Centre RPHC Rwanda Population and Housing Census	12413
 Civil Status Administrative Malawi Census	10714
@@ -56,7 +64,7 @@ EMIS-2021-Annual Education Census	12345
 EMIS-2022-Annual Education Census	12345
 EMIS-2023-Annual Education Census	12345
 ESTABLISHMENT CENSUS GENDER	6911
-Economic Census	12445,60
+Economic Census	12445,60,542
 El V Censo General de Población	10487
 Electoral Census Comissions	11909
 Ensure Annual School Census	11860
@@ -64,6 +72,7 @@ Enterprise Census	10870
 Establishment Census	6911,5534
 Establishment Census Gender Thematic Report	7992
 Establishment Census IBES	12445
+Eswatini Population and Housing Census	12939,184
 FIR Censo Populacional	11422
 Fifth General Population and Housing Census	10870
 Fourth Population and Housing Census	12413
@@ -96,6 +105,7 @@ NIGERIA’S FIRST BIOMETRIC CENSUS	2535
 NOTA INTRODUTÓRIA Os Censos	4044,7377
 Namibia Census of Agriculture	9485
 Namibia Inter Censal Demographic Survey	12337
+Namibia National Population and Housing Census	12923
 Namibia Population and Housing Census	9485,2898
 Namibia Population and Housing Census PUMS	9485
 Namibia Population and Housing Census Release	12383
@@ -104,7 +114,7 @@ National Census	11133,1266
 National Census of Households and Population	10812
 National Education Census Report Summary	3583
 National Population Commission for Census	11129
-National Population and Housing Census	8795
+National Population and Housing Census	8795,4238
 O Censo	4040,4,7372,5,25,131
 O Censo Geral da População	5427
 Os Censos	11446,131
@@ -113,7 +123,8 @@ P0301.4 Census	11192
 Population Census	10748,122,1037
 Population Census Preliminary Report	11905
 Population Census Team	12413
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14
+Population and Housing Census Main Report	12963,155
 Population and Housing Census and National Energy Use	12551
 Population and Housing Census. About	9111
 Population and Housing Census. Population	12413
@@ -136,6 +147,7 @@ Secções Censitárias	11416,5,156
 Secções Censitárias. Um	11446,131
 Social Media Regulation and Online Censorship Even	5215
 South Africa for Census	11192
+Surveys and Censuses	12962
 Telephone Interview DCC District Census Coordinator	11192
 Third General Enterprise Census	10870
 US Census Bureau Data and EU Data	5863

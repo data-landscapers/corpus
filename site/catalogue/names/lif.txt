@@ -40,6 +40,7 @@ Data Lifecycle	7548
 Data Lifecycle Governance Regime	3861
 Data Lifecycle Management	11952
 Data Lifecycle Management Requirement	11952
+Death Registration Unregistered Life Events	13005
 Decent Life	1902,2146,3349,2227,2114
 Deliverance Church Nakuru Life Celebration Center	7167
 Department of Lifelong Learning	12345
@@ -61,7 +62,10 @@ Future of Life Institute	8014,3014
 Gemeinden Life	336
 Google's Our Life	8319
 Green Hydrogen Life	12357
+Healthy Lifestyle	12970
+Healthy Lifestyle Centers	13160
 Higher Life Foundation	42
+Infant Life	13040
 Islamic Forum Life Xtra Property Travel	9878
 JKIA’s... Lifestyle News Culture Boncana Maïga	5407,676
 LIFESTOCK	7167
@@ -126,7 +130,7 @@ Life Counts Various	12151
 Life Counts Where Xi	12151
 Life CountsHeart Dis-1091Heart	12151
 Life CountsKidney	12151
-Life Cycle	11216
+Life Cycle	11216,1748
 Life Events	12359
 Life Expectancy	11586
 Life Healthcare Group	2307
@@ -147,21 +151,23 @@ Lifecycle	1525,360,4538,1860,2948,37,684,101
 Lifecycle Accountability	7548
 Lifecycle Governance	6442
 Lifecyle	11156
-Lifeline	12256,138
-Lifelong	7358,1,3416,664
+Lifeline	12256,138,575
+Lifelong	7358,1,3416,664,1477
 Lifelong Learning	12574
+LifelongLearning	13197
 Liferestwithboni Miranda Zulu Omega Shange Ivan	8999
 Lifesaving	6947
 Lifestyle	4866,4387,393
 Lifestyle Actualités Culture En	8755
 Lifestyle Open Doors	8843
-Lifetime	11192
+Lifetime	11192,1861
 Lift and Shift	6432
 Lifting	10822
 Lifting JOC Volume Shipper Brent Min	3583
 Local Lifeline	6947
 MP Life Midmed	11986
 Make Life Easy Without Leaving Anybody	12038
+Management System LSE Life Skills Education	12975
 Masingcwabisane Life	418
 Mobility and Digital Lifestyle	12333
 National C2- Lifecycle	7548
@@ -177,18 +183,22 @@ Procurement Lifecycle	11231
 Proof of Life Verification Required	12123
 Proof of Life World-wide	12217
 Provide Life-Enhancing Services	195
+QUALITY OF LIFE AND WELLBEING	12916
 Quality Life. Our Core Values Integrity	12256
 Quality of Life and SDG Contribution. Digital	12333
 Quality of Life and Status of Women	11193
 Reclassification of Data Data Lifecycle Management	6432
 Refugee's Life	12227
 Region Action Plan For Reviews and Life	8999
+Republic of Namibia HALE Health Adjusted Life	12923
 Reviews and Life Certification Statistics Local Office	8999
+Rural Life	12891
 S10 Lifeline	12394
 Sasa Lifestyle Technology Entertainment Society Fashion	9646
 Singapore’s LifeSG	1903
 Software Development Lifecycle	5665
 Strategy Industrialize Africa Improve Quality of Life	11863
+Strengthening the Legal Identity Lifecycle	13095
 Supporting Life Events	5231
 System Development Lifecycle	12359
 System Development Lifecycle SLA Service Level	12359
@@ -198,6 +208,8 @@ Temporal Scope and Lifecycle Coverage	7548
 The... Lifestyle Open Doors	8610
 Towards Lifelong Learning and Skills	6948
 UNESCO Institute for Lifelong Learning	1049
+Vacancy Lifecycle Control	13037
 Value-chain Lifecycle	7548
 Victoria Falls Lifestyle Villas	7534
 Workforce Development and Lifelong Learning Zimbabwe	4528,7984
+Young Life Organization	13095

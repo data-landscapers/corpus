@@ -1,3 +1,4 @@
+ACRONYMS CSO Civil Society Organization DNHA	12964
 Academia CSIRTs	2989
 Access CSP	9123
 Access CSP CSP CSP	9123
@@ -17,7 +18,7 @@ CPD Continuous Professional Development CSP Content	6946
 CPF Country Partnership Framework CSF Climate	11549
 CPU Central Processing Unit CSA Cloud	11952
 CR Civil Registry CSU Cadastro Social	10765,10
-CRVS Civil Registration and Vital Statistics CSOs	12241
+CRVS Civil Registration and Vital Statistics CSOs	12241,839,15
 CS Adjusted	1818
 CS Assumptions Q2	11986
 CS Cabinet Secretary for ICT CSP Cloud	6432
@@ -50,7 +51,8 @@ CS for Implementation Plan Defence	1131
 CS&amp	4706,84,1,3,31,273,1423,655
 CS&author	5242
 CS- Environment	10721
-CS-EPWP	12181
+CS-EPWP	12181,799,80,51
+CS-EPWP. The PWP-RCI	13111
 CS-ISAC	5132
 CS-ISAC CS-ISAC	10721
 CS-ISAC Membership	10721
@@ -116,18 +118,25 @@ CSE-Prog	10712
 CSE. SECÇÃO II INSTITUTO NACIONAL	11516
 CSEA Digital Preparedness Index	5724
 CSEA South Africa Data Governance Snapshot	5724
+CSEC Executive Director Benedicto Kondowe	13130
 CSEIT251115 Li	8606
 CSESI	12504
+CSF CIES	13143
 CSF Community Safety Forum CSIR Council	11188
 CSF Cybersecurity Framework	6936
 CSHUB-CSIRT	8897
 CSI CSOC DPF DTX ECGS EGFT	11134
+CSI Coefficient Standard Error Z P	12978
 CSI Committee	11131
+CSI Comparison	12978
 CSI Description	3604
 CSI Donations	11134
 CSI Donations Organisation	11134
 CSI Handover Ceremony	11131
+CSI Profiles for Survey Participants	12978
+CSI Results	12978
 CSI. People	3604
+CSI. The ATET	12978
 CSIR Defence and Security	10889
 CSIR Energy Research Centre	11953
 CSIR Infographic	1938,1
@@ -190,6 +199,7 @@ CSO. ER	970
 CSO. Further	12330
 CSOs Authority	4126
 CSOs Digital	12333
+CSOs and MDAs	12932
 CSOs and NGOs	12328,347
 CSOs. Citizen’s Portal	11586
 CSOs. Civil	789
@@ -228,10 +238,12 @@ CSP. Cette	7892
 CSP. Le Groupe	1679
 CSPEF	10870
 CSPGFR	10936
-CSPOC	12617
+CSPOC	12617,338
 CSPP Ministry of Finance	11916
 CSPS and High Courts	10812
 CSPSs	10881
+CSPWP	12980
+CSPWP and MWK	12980
 CSPro	6048,3229,1500,1374
 CSPs CAC	6432
 CSPs Content Services Providers CT-OVC Cash	2775
@@ -248,6 +260,7 @@ CSPs and SIs	11995
 CSPs and Service Integrators	11995
 CSPs. Compatibility	11995
 CSP’s MICDE	6432
+CSR Initiatives MRA	13053
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CSSCs	12182
 CSSDOS	7707
@@ -285,6 +298,7 @@ Centres for Disease Control CSIR Council for Scientific	396
 Chefe da Repartição Fiscal CSA	11435
 Chefe da Secção Administrativa CSCARP	11435
 Citizen and CSOs	12333
+Civil Service Commission CSIRT Computer Security	12917
 Civil Society CSA	6936
 Cloud Adoption Committee. CSPs	6432
 Cloud Services Providers. GOK Entities CSPs	6432
@@ -302,6 +316,8 @@ Consistent Time CSIR Digital Imaging and Communications	1009
 Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
+Corporate Income Tax CSP	13053
+Corporate Strategic Plan CSR	13053
 Country Cooperation Strategy CSO	10776
 Cross-Border Data Flow CSPs	6432
 Cs High	12253
@@ -319,6 +335,7 @@ Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
 Diesel CSP Biomass Biogas BESS	11236
 Disabilities CSCS Superior Council of Social Communication	12201
+Disabilities CSO Central Statistical Office CSTL	12975
 Dublin Core JSON Multiline CSV Simple	10878
 Durée Moyenne de Scolarisation CSPS	737
 EAF. CSP	11953
@@ -349,6 +366,7 @@ Family CR Civil Registration CSPS Local	10812
 Foreign CSPs	11995
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Functions The CSIRT	12674
+Fund CSC Civil Service Commission DREAMS	12970
 GCSPS Entities CAC Entities and CSPs	6432
 GIEC CSA	6936
 GM- CSIRT	1000
@@ -410,6 +428,7 @@ M. Mabiala Ma Umba Representative CSOs	11916
 MEST CSIR-	4126
 MW of CSP	11953
 Major CSPs	6477
+Malawians. Representing CSOs	13134
 Mali-Mètre. Le CS	6959
 Medicamentos. CS Centro de Saúde. CSP Cuidados	11543
 Ministro Secretario Mesa Magistrado CSJ	4209
@@ -456,6 +475,7 @@ Património CSCC	11435
 Pilot License CSM Cylinder Smart Metering	2775
 Police Forum CSC Community Service Centre	11188
 Policy. CSRI	6946
+Population and Development CPs Country Programmes CSO	12962
 Preferential Procurement CSI Corporate Social Investment	11193
 Program Supporting Digital CSIs	3604
 Promoting CSA	970
@@ -467,12 +487,14 @@ RE Wind Solar PV CSP Pump	11953
 RE and CSA	970
 Rapport CSD-DS	643
 Rede Nacional de CSIRTs	6970
+Related Technologies CoE Centre of Excellence CSC	12917
 Reporting System CSA Climate Smart Agriculture-Based	970
 Resilience Building CSO Civil Society Organisation	970
 Resilience and Fragility Assessment CSO Civil Society	11863
 Restitution of Land Rights CSI Committee for Spatial	11261
 Row's CSV	12416
-SCTP and CS-EPWP	12181
+SCT and CS-EPWP	13111
+SCTP and CS-EPWP	12181,799,131
 SERVICE PROVIDERS The CSA	9728
 SIs and CSPs	11995
 SLAs CAC MCDAs CSPs CAC	6432
@@ -488,7 +510,9 @@ Solar PV CSP Pump DSR System	11953
 Solar PV Wind CSP	11953
 South Africa. The CSIR	1009
 South African National CSIRT	8897
+Statistics CSOs Civil Society Organizations CSCA	13005
 Statistique CS	10874
+Strengthen CSO	13080,15
 Strengthening CSOs	7784
 Study of CSR Engagement	2518
 Supply Sources Solar PV Wind CSP	11953
@@ -507,6 +531,7 @@ Treasury CS John Mbadi	6587
 US CSPs	6477
 US-based CSPs	6477
 Uma CSD	11370
+Under CS-EPWP	12980
 VI. Enhance CSO	12333
 Warning The CSA	9842
 Wind CSP	11953

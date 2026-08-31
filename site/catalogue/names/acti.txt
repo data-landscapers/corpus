@@ -11,14 +11,17 @@ A3.2.4.23.N A Action	10858
 A3.3.1.1 A3.3.1.2 A3.3.1.3 Action	10858
 A3.4.1.2 A3.4.1.3 Action	10858
 A3.4.2.1 A3.4.2.2 A3.4.2.3.N A Action	10858
+ACB Acting Director General	13001
 ACESSO E CONDIÇÕES GERAIS DA ACTIVIDADE	10755
 ACTIA	9044
 ACTIA Par	9044
 ACTIC	743,1200,651
+ACTING	12920
 ACTING ACCOUNTING OFFICER STATEMENT	11261
 ACTING AUDITOR-GENERAL	3051
 ACTING AUDITOR-GENERAL. HARARE	3025
 ACTING DIVISIONAL COMMISSIONER	11188
+ACTING JUDGES OF THE HIGH COURT	12920
 ACTION	12142
 ACTION Coalition	1021
 ACTION IN LIBYA	10581
@@ -64,10 +67,13 @@ ACTIVITIES	8840,2396
 ACTIVITIES OUTPUTS OUTCOMES Targeted TA and Unified	11855
 ACTIVITIES Reform	11236
 ACTIVITIES TO BE DEVELOPED	11862
+ACTIVITY	12977,27
+ACTIVITY Estimated Budget Released Expenditure	12962
 ACTIVITÉS PRINCIPALES Plan	12043
 ACTIVOS	4209
 ACTiONS	961
 ACTiONS Member States	961
+ADVOCACY ACTIVITIES WORLD POPULATION DAY COMMEMORATION	12962
 AFRICA-FOCUSED FUND MANAGER ACTIVITY	4972
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
 AI Action Plan	3517,3273,758,2979,608,1075
@@ -86,6 +92,7 @@ AVCA’s African Private Capital Activity Report	4972
 Abdul Latif Jameel Poverty Action Lab	12485
 Accelerate Action	12188
 Accelerate Action for Children	11245
+Act. The Affirmative Action	12961
 Actic	5669,3208,3202,23
 Actic Academy. Ce	8877
 Actif	10975
@@ -98,6 +105,7 @@ Actifs Non Financiers	4420
 Acting	1554,275,2522,177,1297,1082,914,985,1675,282,102,275,135,193,423,621
 Acting Accountant General	8723
 Acting Airtel Money Kenya	8728
+Acting Appointments	12972
 Acting Assistant Director for Projects and Quality Assurance	9152
 Acting Branch Manager and Relationship Manager	6946
 Acting CEO	9992,2582
@@ -107,6 +115,7 @@ Acting CTO of MTN South Africa	8112
 Acting Chairman	11955
 Acting Chairperson	4878
 Acting Chief Director	11289
+Acting Chief Executive	13218
 Acting Chief Executive Officer	2735,6131,275,546,305,1206
 Acting Chief Financial Officer	6727
 Acting Chief Technology and Information Officer	10666
@@ -123,6 +132,8 @@ Acting Deputy Principal of Mapetla High School	12726
 Acting Deputy Vice-Chancellor of Digital Transformation	10343
 Acting Director	6946,3626,72,1331,430,40
 Acting Director General	3384,7905
+Acting Director General of ACB	13001
+Acting Director General of ACB. UNDP Malawi	13001
 Acting Director of Economic Statistics Department Email	12445
 Acting Director of Elections	12652,104
 Acting Director of Legal and Company Secretary Anthony	9093
@@ -133,7 +144,10 @@ Acting Director-General	7172,1816,2293
 Acting Director-General ICT	12665
 Acting Director-General of NITA	8988
 Acting ESCCOM Chief Executive Officer Fikile	8136
+Acting Executive Dean	12926
 Acting Executive Director	3384
+Acting Executive Director Dr Charles Sagoe-Moses	12925
+Acting Executive Director Elizabeth Amagola	13232
 Acting Executive Secretary	2308,1185
 Acting Finance Minister Kadiatu Allie	10328
 Acting Global Director	4357
@@ -159,25 +173,29 @@ Acting NUP President	4175
 Acting North West Regional Education Director	12636
 Acting Officer-in-Charge John Bosco Bukenya	8574
 Acting Operations Officer	9699
+Acting Paid Appointments	12972
 Acting Permanent Secretary Dr Tshepo Machacha	11748
 Acting President	783
 Acting President and Chairman	3441
 Acting President and Minister for State President	9708
 Acting President. Commander	11517
-Acting Principal Secretary	12716
+Acting Prime Minister	12922,285
+Acting Principal Secretary	12716,198
 Acting Regional Integration Director for Africa	5395
 Acting Regional Manager	11285
 Acting Regional Manager for Infrastructure	6932,163
 Acting Representative	10776
 Acting Secretary for ICT	12104
+Acting Senior Inspector	12975
 Acting Senior Programme Officer for ICT	318
 Acting Statistician-General	11256
+Acting Statistician-General PART V FINANCIAL PROVISIONS	12899
 Acting Undersecretary	8923,665
 Acting Undersecretary of Finance	9588
 Acting WHO Somalia Representative Dr Mohamed	11655
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311,17,11,39,6,31,83,26,122,9,1,16,198,153,73,15,35,168,69,73,20,53,12,93,36
 Action Accountability	6936
 Action Activité Article Paragraphe Ces	3396
 Action Africa	7334
@@ -213,17 +231,22 @@ Action Needed Responsi	6432
 Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23,348,86,322,91,164,138,78,139,2,26,25,269
 Action Plan Cycle	11866,7
 Action Plan ESMS Environmental and Social Management	1818
 Action Plan NCPB National Cereals and Produce	2775
 Action Plan Review	9022,2844
 Action Plan Science and Resources Estonia’s National	11135
+Action Plan for Next Financial Year	12971
 Action Plan for Rare Diseases	10188
 Action Plan for Spectrum Management	5245
+Action Plan. RESOLUTION NUMBER	12912
 Action Plan. The CNEPPS	11907
 Action Plan.21	12214
-Action Plans	11218
+Action Plans	11218,1753
+Action Plans and Application Systems	12961
+Action Plans and Programmes	12950
+Action Plans for Next Financial Year	12971
 Action Platform Stages	12376
 Action Points for Policy Implementation References	4848
 Action Portugal	12142
@@ -233,6 +256,7 @@ Action Program	10856
 Action Proportion	789
 Action Proposed Component Name No Change	1228
 Action Proposed Component Proposed Cost	1284
+Action Protocol	13140
 Action Pédagogiques	11905
 Action Renforcement	10858
 Action Required	4896
@@ -247,12 +271,13 @@ Action Seidu	9419
 Action Sociale	10812,1112
 Action Summary Table Title	12843
 Action Table	11855
-Action Taken	1778,997
+Action Taken	1778,997,10137
 Action Task Force FTTH Fibre	1818
 Action Task Force Transactions Cleared	12444
 Action The Secretariat	7039
 Action The World Bank	12245
 Action Timeline	12761
+Action Trust ACDO Assistant Community Development	12970
 Action URL	12143
 Action US	395
 Action White Paper Synthesis Team	6936
@@ -260,13 +285,17 @@ Action de Réinstallation	10821,55
 Action du Gouvernement	8237,2618,1,20
 Action du Système National	1281
 Action for Development	9450
-Action for Economic Transformation	11134
+Action for Economic Transformation	11134,1989
 Action for Sustainability Initiative	7167
 Action&title	1219
 Action- No Compromise	3051
 Action-Oriented	4528,7984
 Action. Led	12625
+Action. Rome	12978
+ActionAid Malawi	13130
 ActionAid Zambia	8513
+ActionFirst	13201
+ActionFirst Co-Production Workshop	13201
 Actionable Frameworks for Regulation and Innovation	4848
 Actionable Steps Forward	5042
 Actionnariat	2342
@@ -277,6 +306,10 @@ Actions Le PS	10874
 Actions National	3604
 Actions Principaux	10965
 Actions Prioritaires	10965
+Actions Projects Sub-projects Budget	12917
+Actions Projects Sub-projects Budget Review the Public	12917
+Actions Projects Sub-projects Budget Risk Management	12917
+Actions Projects Sub-projects Budget Undergoing	12917
 Actions Required	4896
 Actions Short-Term	1777
 Actions Stakeholder Timeline Measures Targets Conduct	5245
@@ -352,18 +385,21 @@ Activist Kananelo Boloetse	3183
 Activists	2518,339,3026,94,1661,1277,2776
 Activists Flag Security Concerns By Tetee	6166
 Activists Urge Kenya	12227
-Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174
+Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37,566,8,42,19,16,25,125,48,37,37,144,2,47,21,19,3,146,174,164,21,19,65,16,132
 Activities Conducted	10776
 Activities Development	1131
+Activities Like	12972
 Activities MSF Doctors	10829
 Activities Qty Output Deadline P1	11862
 Activities Undertaken	7548
-Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101
+Activities and Programmes	13051
+Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182,1167,192,3,64,810,233,207,101,407,6,14,1,28,75,15
 Activity Bank	11134
 Activity Brief	8546
 Activity Brief Co-Development Steer	8546
 Activity CBE	11134
 Activity COMESA Clearing House Users Group	11131
+Activity Centre	13060
 Activity Coverage and Listing of Business Enterprises	12445
 Activity Date	5853
 Activity Dates RFP Issued	12693
@@ -383,11 +419,14 @@ Activity Progress Develop	12448
 Activity Progress Revise	12448
 Activity Report	4972
 Activity Risk	1988
+Activity Summary	12977
 Activity Target Audi- Focus Areas	6946
+Activity The Ministry of Health	12976
 Activity Timeline Budget	11863
 Activity Updates	11133
 Activity of Microfinance	11960
-Activity1	2775
+Activity1	2775,10262
+Activity1 Months2	13037
 ActivityPreview.do	246,92
 Activité	2342,3804,2745,1984,1,51,38,10
 Activité Tâche Objectif	10975
@@ -421,15 +460,23 @@ Adolescent-Responsive Action and Population Data	9766
 Adopt the Anti-Corruption Action Plan Waiting	11906
 Adquisición Activos	4209
 Adv. Melanchton Makobe Acting DDG	11224
+Advocacy Activities	12977
+Affirmative Action Act	12961,76
+Affirmative Action Compliance Certificate	13037
+Affirmative Action Loan Scheme	12912
+Affirmative Action Plan	12961
+Affirmative Action Policies	12961
 Affirmative Finance Action for Women	9702
 AfricTivistes CitizenLabs and Sahel Activistes	9201
 Africa Region Gender Action Plan	10964
 African Action Congress	8849
+African Multi-Hazard Early Warning and Action System	12977
 African Science and Technology Consolidated Plan of Action	12675
 Africa’s Science and Technology Consolidated Plan of Action	12675
 Agency Implementing Agency Action No Change	1228
 Agreed Actions Annex	12195
 Agreed Actions Complete	2989
+Agriculture Acting Head	12972
 Akwa Ibom Activates High-Speed Internet Backbone	10229
 Albert G. Zeufack Acting Practice Manager	11417
 Aligning Action	11332
@@ -448,10 +495,16 @@ Analysis Preliminary Designs Progress Update Activities	11131
 Anciens Ministres Actualités Activités	3675
 Anexo I Glossário A Activo de Informação	6970
 Annex A. Action Plan Implementing Entity	1777
-Annual Action Plans	789
+Annual Action Plan	13242
+Annual Action Plans	789,12128
+Annual Activities Progress Report	12932
 Anticipatory Action	10763
 Anticipatory Action Framework	11156,1085
+Anticipatory Action Framework. Participants	13080
+Anticipatory Action Review Workshop FIGURE	13095
 Anticipatory Action Review Workshop Figure	12241
+Anticipatory Action Review Workshop Official Launch	13080
+Appointment of Acting Principal Secretaries Notice	12930
 Approach NAPHS National Action Plan for Health	11417
 Area Activation	8999
 Area of Action	9433
@@ -461,6 +514,7 @@ Associations Activité	10965
 Assurance Internal Audit Activities	11134
 At-a-Glance Action Plan	11866
 Audit Action Plans	11218
+Authored the Maputo Plan of Action	13040
 Awareness and Action	10384
 Axe Objectifs Actions Résultats Activités A1	10965
 Axe Objectifs Actions Résultats Activités Budget	10965
@@ -470,13 +524,14 @@ BBC Media Action	5626
 BBC Media Action Data Controller INST-669579C087F	7167
 BEAC Activité	10965
 BOCRA Acting Chief Executive Officer Maitseo	7239
+BONGANI NZIMA ACTING MINISTER FOR PUBLIC	12972
 BTC Acting CEO Ms. Boitumelo Paya	2999
 BUSINESS ACTIVITIES IN RWANDA	12445
 BUSINESS OVERVIEW AND CORPORATE ACTIONS	4896
 Balu Call for Action	11285
 Banking Activities and Financing of Economies Department	10967
 Banking Activity Regime	11550
-Beijing Declaration and Platform for Action	11193,379
+Beijing Declaration and Platform for Action	11193,379,1367
 Beijing Declaration and Platform of Action	11193
 Beijing Platform for Action	11193
 Belém Gender Action Plan	8891
@@ -495,17 +550,22 @@ Business Enterprise Employee Training Activities	12445
 Business Enterprise Exporting Activities	12445
 Business Enterprises Sector Activity	12445
 C Heimann Acting Director-General	11261
+C. Children’s Month Activities Day	12977
+C. Summary of Activities	12977
 CALL TO ACTION	9660,2784
 CALL TO ACTION The National	12444
+CALLS FOR ACTION	13213
 CAPACIDADE ELEITORAL ACTIVA	11528
 CAPITAL Actionnariat	2342
 CAPÍTULO II PRINCÍPIOS DA ACTIVIDADE INSPECTIVA	11452
 CAPÍTULO IV EXERCÍCIO DE ACTIVIDADES CADASTRAIS	11384
 CASH FLOWS USED IN FINANCING ACTIVITIES	10793
 CASI Integrated Social Action Center	10768
+CBM Implementation Action Plan	13051
 CBN’s Acting Director of Corporate Communications	9754
+CDAP Community Data and Action Plan CDC	12970
 CENTRAL AFRICA DEAL ACTIVITY	4972
-CLIMATE ACTION	11586
+CLIMATE ACTION	11586,1627
 CNSS Activités	10875
 COBAC MPMEs Activité	10965
 COMPACT TARGETS AND ACTION PLAN	12399,281
@@ -529,6 +589,7 @@ Can Two-Sided Activation Break the Cash Equilibrium	10277
 Capital Intensity and Activity Divergence	10954
 Celeste Nell Acting Head of Communications Western	8564
 Center for Effective Global Action	7282
+Certain Activities The Consultant	13037
 Cessação de Actividade.pdf IVA	12018
 Challenges Activities Outputs Short-	11905
 Charitable Activities	3487
@@ -536,7 +597,9 @@ China-Africa Digital Cooperation Development Action Plan	1826
 Christine Zhenwei Qiang Acting Practice Manager	1264
 Chronogramme Axe Objectifs Spécifiques Actions Résultats	10965
 Civil Action No	5692
+Civil Actions	12920
 Civil Society Engagement Action Plan	7784
+Class Actions	12929
 Click Activation	11298
 Climate Action	1131,6271,4184,27,242,303,218,235
 Climate Action Goal	11332
@@ -550,7 +613,7 @@ Commission Activity	12549
 Communicate Programme of Action	3264
 Communication Campaign IGA Income-Generating Activity IMF	11924
 Communication Strategy and Action Plan	11986
-Community Action	11469
+Community Action	11469,1501
 Community Action Network Africa	7167
 Community Action for Social Protection PforR	11469
 Compact Targets and Action Plan	12399,281
@@ -568,11 +631,15 @@ Consumer Outreach Activities	6946
 Consumer Outreach Activities Programmes	6946
 Contractual and Certification Actions	11995
 Controlled Deployment and Pilot Activation	6442
+Controllers PRSAP Poverty Reduction Strategy and Action	12975
 Coordination des Activités de Détection	11139
 Corporate Actions the Companies and Other Business Entities	4896
 Corrective Action Plans	2989,2676
 Corrective Actions	5245
 Corrupt Activities Act PSCBC Public Service	11197
+Costed Action Plan	13219
+Costed National Disability Action Plan	13219
+Costed National Disability Plan of Action	13219
 Cotonou Grid Strengthening Activity	87
 Council of Europe's Global Action	783
 Count of Port-Out Activities-December	3862
@@ -583,9 +650,12 @@ Cronograma de Actividades	10772
 Cross-Border Activity	4848
 Cross-Border Activity and Regulatory Passporting	4848
 Crypto Asset Manual for Cross-Border Activities	10452
+Customs Enforcement Activities Photo Credit	13053
 Cyber Security Activity USAID	1567
 D Lupungela Acting Deputy Director-General	11261
+D&T and Consumer Science. Subject Specific Activities	12975
 D. NEXT STEPS AND AGREED ACTIONS	12595
+D. Variance Explanations and Way Forward Actions	12977
 DEAL ACTIVITY	4972
 DELEGACION TOTAL DIRECTIVO HIDROCARBUROS ACTIVOS	4209
 DES ACTIVITES POSTALES	37
@@ -606,14 +676,17 @@ Daily Operating Timetable Time Event Activities	12364
 Dassoumble Actionnariat	2342
 Data Strategy and Action	1284
 Data Strategy and Action Plan	1284
+Database Activity Monitoring	13053
 Date Consultatio Action	1988
 Days of Activism Against GBV Transition	11332
+Days of Activism Against Gender Based Violence	12977
 Days of Activism Against Gender-Based Violence	11332
 Deal Activity Deal Value Shows Early	4972
 Debt Counselling Manager and Acting Company Secretary	11198
 Decade of Action	11285
 Decade of Action for Sustainable Development	10840
 Declaration and Denarau Action Plan	940
+Declaration of Principles and Action Plan	12896
 Declaração de Alteração de Actividade	12018
 Declaração de Cessação de Actividade	12018
 Declaração de Inicio de Actividade	12018
@@ -630,6 +703,8 @@ Description This Action	1069
 Description USAID Cyber Security Activity	1567
 Description USAID Ethiopia Digital Health Activity	531
 Development Action Platform	12257
+Development Programme of Action	12962
+Development Programme of Action IP Internet Protocol	12962
 Development of Action Plan Updated the NAPHS	10776
 Development of Gender Based Action Plan	1988
 Digital Action	7548,1868,1663
@@ -649,13 +724,18 @@ Disabilities RAP Resettlement Action Plans REC	1264
 Disciplinary Action	11218
 Discontinued Activities	11250
 District Action Plan DEMISO	12175
+Doha Programme of Action	12941
 Dr. Abdul Kamara Acting Vice President	7452
 Draft Specific Payment Activities Exemption Notice	4824
 Durban Declaration and Programme of Action	11210
 E&S Risks Agreed Actions Implement	2989
 EACC and Action Taken	2775
 EFFECT OF THE BREACH REMEDIAL ACTIONS	2709
+EMS Acting Director Mduduzi Msibi	13201
+EOC Standard Operating Procedures and Anticipatory Action	13095
 EOC and Anticipatory Action SOP Development Gateway	12241
+EOC and Anticipatory Action SOP Workshop	13080
+ESCCOM Acting Chief Executive	13198
 ESCCOM Acting Chief Executive Officer Fikile	6820,2808
 ESMF Implementation Budget Activity	1988
 EU AI Continent Action Plan	6879
@@ -685,12 +765,15 @@ Elections and Actions Required Shareholders	4896
 Electricité Actif Net Eneo	10975
 Em Actividade Aguarda Início da Actividade Suspensa	10757
 Emergency Action	6947
+Employee Experience and Actionable Insights	13037
 Enabler Mission Key Actions Pillar Alignment	12512
 Encuesta de Población Activa	4209
 Energy Action Plan	11215,57
+Energy Policy and Action Plan	13054
 Enforcement Action	6792
 Enforcement Actions	5665
 Enforcement Actions for Non-compliance	5665
+Engineers In Action	12962
 Entrepreneurship Development Strategic Actions Develop	940
 Entreprenuership and Income Generating Activities	940
 Environment Action Plans	11525
@@ -699,6 +782,10 @@ Estimated Number of Activity Activity Details Direct	1867
 Estructura de Actividades Económicas	1701
 Estructuración de Actividades Económicas	1701
 Estructuración de Actividades Económicas ODS	1701
+Eswatini Composite Indicator for Economic Activity	12962
+Eswatini National Disability Plan of Action	12977
+Eswatini and Costed Action Plan	12977
+Eswatini's Costed National Disability Plan of Action	13219
 Ethiopian Digital Health Activity	12255
 European External Action Service	4127,2820,4962
 European Union External Action Service	11155
@@ -714,6 +801,8 @@ Expanding Map Activity	6791
 FAITS MARQUANTS Actionnariat	2342
 FAITS MARQUANTS REPARTITION DU CAPITAL Actionnariat	2342
 FATF Financial Action Taskforce GNU Government	11250
+FIKILE GAMA ACTING CHIEF EXECUTIVE OFFICER	13178
+FIN-5. Group of Activities	13037
 FM Action Plan	10829
 FM Action Plan G. Procurement	2889
 FM Action Plan Issue Remedial Action	3604,7225
@@ -732,10 +821,10 @@ Fayda System. Procurement Activities	10839
 Finalize GBV Assessment and Action Plan Develop	2989
 Finalize GBV Assessment and Action Plan Update	2989
 Finance Hub A Call for Collaborative Action	12444
-Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532,583,133,60,1
+Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532,583,133,60,1,358,43
 Financial Action Task Force Grey List	12308
 Financial Capability Strategic Actions	940
-Financial and Insurance Activities	2775
+Financial and Insurance Activities	2775,10278
 Financing Locally Led Climate Action FM	2775
 Follow-Up Actions	8485
 Follow-up Action	1778
@@ -782,11 +871,19 @@ Government Action Plan	10775
 Government Action Programme	10856
 Government Affirmative Action Fund	2775
 Government Affirmative Action Fund NFM	2775
-Government Strategic Action Plan	12327
+Government Policy and Action Review	12961
+Government Policy and Strategic Action Plan	12961
+Government Programme of Action	13123
+Government Strategic Action Plan	12327,594,40,76
+Government Strategic Action Plan ESB	12961
+Government Strategies and Action Plans	13037
+Government of Eswatini’s Programme of Action	12972
+Government's Programme of Action	13170
 Governmental Action Group	7452
 Governo Digital. Actividade III. Modelo Nacional	11451
 Governo. Actividade I. Diagnóstico Integrado	11451
 Govt Power Sector Action Plan	1230
+Graphic Presentation of Activities Undertaken	12972
 Grenadines National ICT Strategy and Action Plan	11529
 Gross Domestic Product Financial and Insurance Activities	2775
 Groupe Actis	10975
@@ -796,15 +893,19 @@ HOL Acting Somali	6788
 Halima Hussein Women Empowerment Activist	12287
 Handicap Action Solidaire de Centrafrique	10826
 Health Research for Action	1261
+Health SWAGAA Swaziland Action Group Against	12939
 Homme Femme Homme Femme Activités	10875
 Honour the Acting President	1222
 Horaires Activités Présentateurs Jour	2966
 Human Health and Social Work Activities	2775
+Human Resource Key Activities	12977
+Human Resource Key Activities A. Employee	12977
 Humanitarian Action	1828,9328,749,19,303
 Humanitarian Action Using Machine Learning	2816
 Humanitarian Action and Solidarity	11907
 ICASA Action	11195
 ICT GVA Activity	236
+ICTAM Activities Planned for Q4	13080
 II Encuesta de Población Activa-EPA	4209
 III ONGOING ACTIVITIES AND SUPPORT	12399
 INCLUDING REMEDIAL ACTION TAKEN TO ASSIST	2709
@@ -821,10 +922,11 @@ IV. NEXT STEPS AND AGREED ACTIONS	12195
 IV. STRATEGIES ET ACTIONS Pour	12
 IVOIRE Plan d Actions National pour l	3604
 Identified Gender Barriers and Proposed Actions	969
-Implementation Action Plan	3678
+Implementation Action Plan	3678,9243
 Implementation National Action Plan Implementation Framework	21
 Implementation Plan Table Fir100 Activities Responsible	12356
 Implementation Support Plan FM Activity Frequency	11525
+Implementation of Spectrum Management Activities	12971
 Implementing the GBV Integrated Plan of Action	11230
 Inclusive Dialogue and Coordinated Action Coordination	11907
 Inclusive Digital Transformation for Malawi Activity	12241
@@ -855,6 +957,7 @@ Japan Administered Account for Selected Fund Activities	11973
 Japanese Investors and Corporate Activities	12376
 Jean Monnet Actions	970
 Joint Action	1009
+Joint CBM Action Plan	13051
 Jonathan C. Space Activities	6467
 Jur River Activist	3212,2216,578
 Justify SOE Commercial Activities	12389
@@ -865,6 +968,7 @@ Kenya. Glob Health Action	10780
 Key Actions	4528,2408
 Key Actions Pillar Alignment	12512
 Key Activities	11230
+Key Activities Completed Honourable Chairperson	12962
 Key Activities The Board	11131
 Key Functions and Activities NOSi	11891
 Key Objectives and Actions Establish	1777
@@ -886,7 +990,11 @@ Late Stage. Activity	4972
 Legal and Regulatory Instruments Package. Activity	12008
 Les Activités	998
 Ley de Delimitación de Sectores de Actividad Económica	1701
+Liberia. Activity Revenue and Enforcement Delay Monitoring	13042
 Libya Activates LY GOVREP Platform for Government Monitoring	5775
+Likoma Activity Center. Energy and Mining Sector	13122
+List of Acronyms and Abbreviations Affirmative Action Chief	12920
+Livelihood Activities	12977
 Long-Term Actions	6936
 Lonto Ndlovu Acting Commissioner Customs	8499
 Lusaka. Zambia Public Health Action	10784
@@ -903,6 +1011,7 @@ M. Activity	1168
 M. Activity-wise	12339
 MACRA's Acting Director of Telecoms	10950
 MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
+MALAŴI NATIONAL ACTION PLAN	12987
 METHODOLOGY Priority Reform Action	12717
 MFBSB. Actions	4342
 MINADER MPMEs Activité	10965
@@ -920,12 +1029,16 @@ Main Activity Main Institutions Primary School	11857
 Main Economic Activity Male Female	12445
 Main Economic Activity Percentage	12445
 Mainstreaming Activities and Environmental Sustainability	6946
+Malawi Action	12985
 Malawi Action Plan	12261
+Malawi's Third OGP National Action Plan	13006
 Managing Acting Managing Director	12358
+Maputo Plan of Action for Universal Access	13040
 Marie Skłodowska-Curie Actions	11288
 Maturity Index No Activity FY	1204
 Mauritania’s National Strategy and Action Plan	1264
 Maïngo Project. Activities	10829
+Mbabane. Activities	12977
 Medium-Term Actions	6936
 Medium-term Action Plan	5677
 Member Action	9914,1,77
@@ -947,7 +1060,10 @@ Mr. Ashraf Kariem Acting Secretary	11224
 Mr. Lindsay Martin Acting DDG	11224
 Ms M Mokono Acting Chief Financial	11261
 Ms. Josephilda Nhlapo-Hlope Acting DDG	11224
+Ms. Nozuko Hlophe Acting Legal Manager	12969
 Msimanga.The Acting Coordinator	11277
+Multi Year Action Plan	12975
+Multi Year Action Plans	12975
 Multisectoral National Action Plan for Health Security	11417
 Municipalization of Social Action	10775
 NA OS2.2 Action	10858
@@ -958,6 +1074,8 @@ NCA Acting Director General Edmund Fianko	3471
 NCS Action Plan	1777
 NCS Action Plan. Current	1777
 NDC Partnership Action Fund and United Nations	11134
+NGP Action Plan	12946
+NGP Plan of Action	12946
 NIF Activo	11383
 NIPDB Acting CEO	5086
 NOW. Take Action	12336
@@ -965,20 +1083,24 @@ NTRA Activates	11642
 Namibia Affirmative Action Act	12399
 Namibia's Second National Biodiversity Strategy and Action	9353
 National Action Coalition	10216
-National Action Plan	1389,7091,3471,357,289
+National Action Plan	1389,7091,3471,357,289,390,166
 National Action Plan Programme Development and Reviews	12642
 National Action Plan for Children	3583
-National Action Plan for Health Security	10776,641,1312
+National Action Plan for Health Security	10776,641,1312,434,3
 National Action Plan for Health Security NCD	12729
 National Action Plan for Health Security NDP	10776
 National Action Plan for Health Security PNDS	10776
 National Action Plan for Rare Diseases	10188
 National Action Plan for Youth Employment	10963,1
 National Action Plan for Youth PBC Employment	10964
+National Biodiversity Strategy and Action Plan	13060
 National Cybersecurity Strategy Formulation and Action Plan	1000
 National Cybersecurity Strategy and Action Plan	1000
+National Development Plan and Programme of Action. UMSEBE	13123
 National Digital Activities	3604
 National Digital Skills Action Plan	3372,1
+National Disability Plan of Action	12950,27
+National Disability Plan of Action. The National	13219
 National Electricity Dispatch Activity	87
 National Electrification Action Plan	12563
 National Emergency and Humanitarian Action Program	11900
@@ -991,8 +1113,12 @@ National Institute for Pedagogical Research and Action	11905
 National Institute for Social Action	9484,263
 National Multisectoral Action Plan for One Health	11417
 National ODL Action Plan	11757
-National Plan of Action	8050
+National Plan of Action	8050,4927
+National Plan of Action for Children	12977
 National Social Action Policy	10763,5,1156
+National Strategy and Action Plan	12939
+National Strategy and Plan of Action	12977
+National Violence Against Children Action Plan	12977
 National Water Action Plan	8599
 National and Regional Foreign Policies. Associated Actions	1814
 Navigating Opportunities and Risks. The Acting Head	8697
@@ -1004,7 +1130,7 @@ Nigeria Action Plan Review	11866
 Nigeria Actions for Investment and Jobs Acceleration	11476
 Nigeria OGP Action Plan	11866
 Nile Equatorial Lakes Subsidiary Action Programme	12358
-Nkwe Programme of Action	5450
+Nkwe Programme of Action	5450,7776
 No. Output Indicator Baseline Annual Activities	12358
 Non-hazardous Waste Management Plan Activity	1988
 Normas da Actividade Inspectiva	11452
@@ -1057,6 +1183,7 @@ PROGRAM ACTION PLAN	11905
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
 PS Action	10874
 PSF Activité	10965
+PTT Recommendations and Action Plan	12912
 PV Photovoltaic RAP Resettlement Action Plan	11549
 PWDs. Activities	1264
 Paratus Activate First Cross-Border Fiber Link	2987
@@ -1084,10 +1211,12 @@ Policy Objective Action Responsibility Promote	958
 Port-In Activities	3862
 Port-In Activities Jan-Dec and Percentage Increase	3862
 Port-Out Activities and Percentage Increase	3862
-Poverty Reduction Strategy and Action Plan	11131,3
+Poverty Reduction Strategy and Action Plan	11131,3,1841
+Poverty Reduction Strategy and Action Programme	12914,48
 Power Sector Action Plan	1230
 Powertel Acting Managing Director	7014,22
 Prevention and Combating of Corrupt Activities Act	5533,5649,58
+Prevention and Response Action Plan	13111
 Prime Activities	3513
 Principais Actividades Desenvolvidas	2816
 Principais Actividades Planificadas	2816
@@ -1103,10 +1232,11 @@ Procurement Integrity and Transparency Action Plan S	11469
 Procurement Risk Assessment and Mitigation Action Plan	10768
 Productive Social Action Program	12220,561
 Professionnell Activité	10965
-Program Action Plan	11905,271
+Program Action Plan	11905,271,882
 Program Action Plan Action Description Appointment	10870
 Program Action Plan and IPF	11905
 Program Action Plans	11905
+Program Activities	12977
 Program of Action.5	10856
 Programa Anual de Actividades	11382
 Programme of Action	11283
@@ -1153,6 +1283,7 @@ Real Estate Activities	12551
 Recommendations and Action Plan	5677
 Recommendations and Action for Improvement	12367
 Recommendations and Actions	1814
+Recommended Actions Primary Owner	12917
 Record Activities	10775
 Record of Processing Activities	6792,617,4547
 Records of Processing Activities	10721
@@ -1163,6 +1294,8 @@ Regime Jurídico da Actividade de Inspecção	11452
 Region Action Plan For Reviews and Life	8999
 Regional Activation	12053
 Regional Grid Strengthening Activity	87
+Regional Meteorology Strategy and Action Plan	12942
+Registrar-General and Acting Registrar-General	12959
 Regulamento da Actividade Inspectiva da Administração	11452
 Regulamento da Actividade de Prestação	12794
 Regulamento de Licenciamento da Actividade Industrial	12842
@@ -1180,6 +1313,7 @@ Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
 Ressetlement Action Plan	10829
 Review Action Plans	940
+Rights Action Plan	13097
 Risk Factors Reduced Through Multisectoral Action	10776
 Risk Management Activities	10721
 Roadmap and Action Plan	11552
@@ -1190,9 +1324,12 @@ Régimen Especial de Actividades Menores	4209
 Réseau Action Climat	8891
 SADC Digital Transformation Strategy and Action	1007
 SADC Digital Transformation Strategy and Action Plan	1007
+SADC Structures and Activities The Unit	12962
 SADC2 and COMESA3 the Financial Action Task Force	12444
 SALIENT FEATURES OF THE CORPORATE ACTIONS	4896
 SASPP Activities SASPP	10866
+SCOPE OF ACTIVITIES	13097
+SCOPE OF ACTIVITIES Mr. Timothy Shangadi	13097
 SECÇÃO I CONDIÇÕES GERAIS DA ACTIVIDADE	11386
 SECÇÃO I PRINCÍPIOS E ACTIVIDADE INSPECTIVA	11452
 SECÇÃO II PRINCÍPIOS ESPECÍFICOS DA ACTIVIDADE	11452
@@ -1216,6 +1353,9 @@ STEP. Activities Substantial Ensure	10768
 STP Horaires Activités Présentateurs Jour	2966
 SUBSECÇÃO I ACTIVIDADE DE PRESTAÇÃO	11386
 Scope of Permissible Open Access Research Activities	12389
+Sebenta National Institute SWAGAA Swaziland Action	12975
+Second Nation Gender Plan of Action	12946
+Second National AMR Action Plan	13166
 Secondary Education Activity	210
 Sector Activities	10721
 Sedgefield Current Communication Activities	8999
@@ -1226,7 +1366,8 @@ Service Activities	2775
 Service of Government Action and Cameroon's Emergence	6606
 Sexual Harassment SIGAS Social Action Management	10768
 Shareholders Post-Corporate Actions Structure	4896
-Short-Term Action Plan	5677
+Short Term Action Plan II	12942
+Short-Term Action Plan	5677,7265
 Short-Term Actions	6936
 Simplified Licensing of Industrial Activity	11939
 Smart Agriculture Strategic Interventions Project Activities	395
@@ -1255,7 +1396,9 @@ Stablecoin Activity Is Starting	9903
 Stakeholder Engagement Activities	6946
 Standard Bank of South Africa Acting Company	11198
 State Action	3456,8013
+State. Action	12912
 Statut Branche Formel Informel Total Activités	10875
+Steering Committee Chairperson and MACRA Acting Director	13107
 Strategic Action Plan	1000
 Strategic Actions	958
 Strategic Actions for Consumer Protection	940
@@ -1267,8 +1410,10 @@ Strategic Objectives and Coherent Actions	12759
 Strategic Policy Actions Policy Priority	958
 Strategic Roadmap and Action Plan	4725,3699
 Strategy and Action Plan	1000,3180,6077
+Strategy and Action Plan PSHACC Public Sector	12962
 Strategy and Action Plan for Grenada	11529
 Strategy and Action Plan. Bottom-up Research Methodology	4126
+Strategy and Action Programme PRSAP Poverty Reduction	12962
 Strategy for External Action	11536
 Stratégie Activités	10874
 Streamlining and Prioritization of Activities	4653
@@ -1279,10 +1424,14 @@ Subproject Description and Activities	1988
 Subsector Actividad Pecuaria	4209
 Successfully Activated	11298
 Suivi des Actions Gouvernementales	2951
+Summary of Activities	12972
 Summary of Findings and Actions	11525
+Supply and Installation Activities	13185
 Suspicious Activity Reports	5369
+Swaziland Poverty Reduction Strategy and Action	12914
 Système Statistique PSN National Action	10874
 Système de Activité	10965
+T. Arts and Other Activities	13060
 TECHNIQUE DE ATTENDUS DE ACTIVITES TÂCHES	10975
 TF LEGAL TBL1 Description Status Action	1284
 TIMELINE OF KEY ACTIVITIES AND MILESTONES	1920
@@ -1293,6 +1442,7 @@ TRANSFORMING LIVES IN ACTION	7204
 TRN ACTIVATION	11298
 TRN ORGANISATION ACTIVIATION	11298
 Table of Agreed Actions	12195
+Tabulation and Disaggregation of Acting Paid Appointments	12972
 Tanzania Social Action Fund	136,10997,9
 Tanzania Social Action Fund TZS Tanzania	11133
 Target Sectors Recommendation Activities Actor	4126
@@ -1321,6 +1471,7 @@ USAID Donor Agreement for Technical Support Activities	12179
 USAID Kenya Digital Health Ecosystem Activity	725
 USAID-funded Private Sector Health Partnership Activity	10833
 USTDA Digital Infrastructure Activities Under Digital	1172
+University Activities Planned for Q4	13080
 Updated Theory of Change KEY CHALLENGES ACTIVITIES	1284
 Urban Activity	6051
 Use Case. Activity	12008
@@ -1341,6 +1492,7 @@ WBG Climate Change Action Plan	3604
 WBG’s Climate Change Action Plan	1867
 WHO’s Framework for Action. Geneva	11596
 WSIS Action Lines	7172
+Wellness Activities	12970
 World Bank’s Acting Country Director for Nigeria	11305
 Youth Empowerment Activities	6946
 Youth Programme of Action	5533

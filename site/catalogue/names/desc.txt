@@ -3,6 +3,7 @@ ACRONYMS Acronym Description	11218
 ADM. Descriptions	8436
 AI Governance No. Stakeholder Description	12675
 ANGOLA Livelihood Zones and Descriptions	10763
+AS-IS Process Model Actor Step Description	13037
 ASSESSMENT DESCRIPTION SCORE Excellent Exceeds	11252
 Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviations Term Description ACE Africa Coast	11552
@@ -50,10 +51,11 @@ Code I Description	11180
 Colonne Type Description Exemple	747
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345
 Cooperation Acronym Description	11218
-D. Concept Description	12426
+D. Concept Description	12426,685
 D. Concept Description A US	12137
 D. Project Description	1704,1752,7507
 D. Project Description Investment Project Financing	761
+DEBT DESCRIPTION	13053
 DESCRIPTION	11240,1124
 DESCRIPTION Addressed	11252
 DESCRIPTION DE LA PROCEDURE	10876
@@ -84,6 +86,7 @@ DIMENSION Likelihood Severity Scale DESCRIPTION	11156
 Data Analysis Descriptive	12508
 Data Description	4528
 Data Locations Date of Change Description of Change	6432
+Data and Variable Description	12978
 Deliverable Short Description	11188
 Descande	12478
 Descarga	12018
@@ -111,13 +114,13 @@ Descontinuidade de Uso de Contraceptivo	10777
 Descontos	752
 Descrevem	10777
 Descrevem-se	10766
-Describe	1988,1984,1693,128,5019,1373,117
+Describe	1988,1984,1693,128,5019,1373,117,729
 Described	2161,1518,825,1834,2042,3979
 Describes	422,10847
 Describing	3405,856,3860,680,328,132
 Describing Liberia	8574
 Describing the National Regulatory Sandbox	11751
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
@@ -185,6 +188,7 @@ Description Combining	8603
 Description Commercial	478
 Description Commonwealth Digital Identity Initiative	249
 Description Complaints	11905
+Description Compliant	13037
 Description Component	416,374,181
 Description Component of FCDO's Somalia Monitoring Programme	650
 Description Components	1003
@@ -489,6 +493,7 @@ Description Protects	61
 Description Provides	543
 Description Provision	251,1209,3006
 Description Public	3604
+Description Quantity Received Lubo	12977
 Description Quel	10817
 Description Recettes	2077,2330
 Description Registers	64
@@ -663,15 +668,20 @@ Description World Wide Web Foundation	149
 Description Year	5179,15
 Description Ziel	2219
 Description Ziel des FZ-Moduls	1533,687
+Description of Approach	13037
 Description of Change Revised Revision	9855
+Description of GM	12990
 Description of Grievance Mechanism	1778
 Description of Offences	2775
 Description of Process	1778
 Description of Processing and Data Flows	12302
 Description of SEP	1778
+Description of Service Quantity Physical Unit Place	13185
+Description of Services	13037
 Description of Use	34
 Description of Work	12400
 Description. Recording	4455
+Description1 Unit Unit Cost2 Per	13037
 Descriptions	5773,6473
 Descriptive	2948,5428,2505,1122,376
 Descrito	9694
@@ -691,6 +701,8 @@ Diego HP Descande	12478
 Digit DESCRIPTION Postcode Zone Group of Postal	11129
 Dignity Job Description Writing	11131
 Direção-Geral de Descen	11527
+Document Control No Author Description Date	13037
+ENCOURAGE LOCAL PRODUCTION HS Code Description	13122
 ERS Peer Learning Description CBE	11134
 Effective Date. Sections and Description ESCP	10964
 Encargado de Descentralización	6841
@@ -699,6 +711,7 @@ Entregáveis da Contratação Ref. Entregável Descrição Prazo	11442
 Entregável Descrição Prazo Pagamento E1 Plano	11451
 Escalation Closure Description Consumers	5676
 Eswatini International Trade Fair Description	11131
+Evaluation Area Criteria Description Weight Score	13031
 Evaluation Description	11855
 Fase Pagamento Entregáveis Descrição Tipo	12021
 Female Description	11525
@@ -719,6 +732,7 @@ Governação Descentralizada	12789,7
 Gravamen Descuentos Num. PERSONAL Mensual Integro	4209
 Grievance Description of Grievance	1778
 HS Code Description Industrial Development Levy	6921
+HS Code Description Rate	13122
 Harmonised Commodity Description and Coding System	11258
 Harmonised Commodity Description and Coding System IMF	11258
 Heading H.S Code No. Description Unit	6921
@@ -728,6 +742,8 @@ I. PROJECT DESCRIPTION	11855
 I. PROJECT DESCRIPTION A. Project Development	11855
 I.1.2 Description du Programme Terra Bénin	10876
 I.1.2 Description du Programme Terra Bénin I.1.2.1	10876
+IAF CODE DESCRIPTION	13068
+ID General Security Requirement Description Compliant	13037
 IDA Description Disbursement Under Category	10964
 IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
@@ -748,13 +764,20 @@ IV.1.1.12.5 Description	10876
 IV.1.1.5.4 Description	10876
 IV.1.3.5.5 Description	10876
 Implementer Project Description Funding Northern Regional	12399
+Index Description	12917
+Initial ID General Security Requirement Description	13037
+Initial ID Reporting Requirement Description Compliant	13037
+Initial ID Technical Environment Requirement Description	13037
+Initial ID Training Requirement Description Compliant	13037
 Initiatives Description Critical	11131
 Insight Description Our Strategic Move Insight	12512
 Institution Describe	11180
 Investment Description Planned	11955
-Job Description	10721
+Job Description	10721,2196
+Job Description KPIs Key Performance Indicators	12917
 Job Descriptions Report	3678
 Job Descriptions What Nigeria Has Tried	10015
+Job Descriptions for ICT Common Services	12917
 Jst Provinces Describe	11180
 KNPHI LIMS Tender Description	7988
 LEGAL Legal Covenants Sections and Description	11905
@@ -769,8 +792,13 @@ Legal Covenants Sections and Description Financing Agreement	10964
 Legal Covenants Sections and Description Page	11525
 Lesotho. No. Objective Description	12675
 Level Description Examples Public	11952
+Line Description of Goods Country of Delivery Quantity	13185
+Line Description of Goods Delivery Date Quantity	13185
+Line Item Description of Goods Country of Delivery	13185
 Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
+List of Goods and Delivery Schedule Line Description	13185
 Location Description	1988
+Lot Description of Goods Quantity Delivery Number	13185
 M. Description	2214
 Mali's Digital Week. Described	4858
 Mile Projects Description Responsible Party Locality	12399
@@ -791,6 +819,7 @@ Ontology Description	12360
 Open Data Budget Description URL	748
 Open Description Data	10157
 Operating Expenditure Execution Description Budgeted	718
+Outcome Baseline Targets Description of Target Data	13005
 OwnerLand Describes	11180
 PIU. Sections and Description Schedule	10829
 PROJECT DESCRIPTION	11863
@@ -801,14 +830,16 @@ Pillar Description	12444
 Places Descriptive	12360
 Political and Rating Description	11469
 PopulationGroup Describe	11180
+Procurement Description	13037
 Program Action Plan Action Description Appointment	10870
 Program Description	12176
 Programa de Promoção da Governação Descentralizada	1808
 Programme Terra Bénin Description Suivi	10876
 Programme. Description Modulable	10876
 Project Brief Description Links	3604
-Project Description	1914,74,9537,24,863
+Project Description	1914,74,9537,24,863,533
 Project Description Budget Allocation District Specific	11986
+Project Description The Universal Access and Service	12945
 Project Description The Zambia Refugees and Host	1778
 Project. Sections and Description Financing Agreement	10964
 Projects Project Name Timeline Project Description	12399
@@ -823,9 +854,11 @@ Recommended Metadata Standards Suffix Description Domain	12360
 Register Voter Description N	9124
 Release Description Go Live Date	12491
 ReliefWeb Description	12618
+Requirement Description Compliant	13037
 Requirement Service Description Tariffs and Charges Contract	5676
 Results Area Description	11905
 Results Descriptive	7886
+Revenue Item Description Amount Collected	12976
 Rwanda Document Description Birth Certificate	12328
 Rwanda Formal Informal Descriptive Kigali South	12445
 SAIDI&SAIFI DESCRIPTION UNITS BASELINE	12358
@@ -833,6 +866,7 @@ SRI Description Disaggregated	10768
 STAKEHOLDER ENGAGEMENT Activity Description BOLESWA Friendly	11131
 SWIFT FIN Copy Service Description	12484
 SYSTEM BREACH DESCRIBED ABOVE	2709
+Section A Description	12975
 Sections and Description	1284,583,9658
 Sections and Description ESCP	10964
 Sections and Description FA	10829
@@ -841,7 +875,9 @@ Sections and Description Schedule	10829
 Sector and Corporate Transformation Programme Description	1818
 Security and Cybersecurity Controls Control Area Description	6432
 Service Acronym Description	11218
-Service Description	10876
+Service Description	10876,2218
+Service Description Under GEOGLAM	13094
+Service Description of Services	13185
 Services Consumer Confidence Description Consumer	5676
 Services Description Language	12360
 Services Emerging Technologies Description Increase	5676
@@ -863,12 +899,17 @@ TECHNICAL INDICATOR DESCRIPTION FOR OUTCOMES	5533
 TECHNICAL INDICATOR DESCRIPTION Indicator	11986
 TECHNICAL INDICATOR DESCRIPTIONS	11261
 TECHNICAL INDICATOR DESCRIPTORS	11986
+TESTING REQUIREMENTS ID Training Requirement Description	13037
 TF LEGAL TBL1 Description Status Action	1284
 TIC Descrição ORANGE TELECEL	11574
+TRAINING REQUIREMENTS ID Training Requirement Description	13037
 TRANSMISSION SHEET HISTORICAL Date Author Description	5678
+Targets Description of Target Data Source Means	13005
+Targets Proposed Ownership Assumption Description of Target	13005
 Technical Description Example Profile Framework	1009
 Technology Inter-Agency Committee Description Date Creation	2779
 Tender Number KE-MOH-556751-NC-RFB Tender Description	7987
+Thematic Cluster Business Objective Description Adaptability	13042
 Time-sensitivity Description Strengthening	8603
 Timeline Project Description Funding	12399
 Type Description Effectiveness	11855
@@ -877,6 +918,7 @@ Urungwe Victoria Wankie Wedza Property Description	12511
 Use Service Category Description Deployment Model	6432
 VIDEO DESCRIPTION	12011
 Version Description Useful	12006
+Version Version Description	13084
 WEIGHT CRITERIA DESCRIPTION Addressed	11252
 WG CONSUMER Description	5679
 Waterford Career Fair Description The Bank	11134

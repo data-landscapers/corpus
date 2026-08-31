@@ -14,6 +14,7 @@ ARAG MEDICARE	7167
 ARAMEX KENYA LIMITED Data Controller INST-413294AFEE0	7167
 ARAMEX KENYA LIMITED Data Processor INST-413294AFEE0	7167
 ARANLAND LTD Data Controller INST-6723312F237 NAIROBI	7167
+ARANOS Total Eligible	13025
 ARAPCO LIMITED Data Processor INST-6824511282C NAIROBI	7167
 ARAREST HEALTH CARE LIMITED Data Controller	7167
 ARATUS HEALTH CLINIC LIMITED Data Controller	7167
@@ -80,7 +81,7 @@ Arab Rep	10714
 Arab Rep. National Citizen Database	10714
 Arab Rep. South and Central Asia	11135
 Arab Rep. São Tomé and Principe Mauritius	10819
-Arab Republic of Egypt	39,1220,6247,29,1110,2490
+Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837
 Arab Satellite Communications Organization	9262
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Arab Stamp Exhibition	8645
@@ -137,7 +138,14 @@ Arafat Khan	12573
 Aragtida	11136
 Arakwiye	5070
 Aramburu-Merlos	11140
+Arandis Old Service Station	13046
+Arandis Town Hall Lutheran Church Opposite	13046
+Arandis Town Hall Open Area Near	13046
 Arange	1885
+Aranos Aranos Health Center	13046
+Aranos GIBEON	13046
+Aranos J. R Camm Primary School	13046
+Aranos Primary School Aranos Town Council	13046
 Araqamy	10105
 Aras and Büyüközkan	4432
 Arasasingham	1243
@@ -173,6 +181,7 @@ Déogracias Arambo	6157,218,1166
 EMIRATOS ARABES UNIDOS DUBAI	4209
 English and Arabic	6947
 Evid Araka	2742
+Farm Arandis Townlands No	13189
 First Arab Regional Forum	8645
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 Forum Arabe des Régulateurs	10975
@@ -180,6 +189,7 @@ Franco arabe Passerelle	10847
 French and Arabic	2975
 Government of Saudi Arabia	12710
 Gustavo Pérez Ara	8163,33
+HARDAP REGION ARANOS	13046
 Higher Education Minister Office Saudi Arabia	2958
 ID United Arab	10714
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
@@ -213,6 +223,7 @@ ONG Noé Arabsat	998
 Oman Qatar Saudi Arabia United Arab	10764
 PAgence Maghreb Arabe Presse. LOUANGE	308
 Palestine Sudan Suriname Syrian Arab Republic	10764
+Palestine Syrian Arab Republic	13042
 Philippines and Saudi Arabia. South Africa	8208
 Playground For The Fashion-Savvy Arab	7322
 Preserving the Arab Cultural Identity and Promoting Arab	2958
@@ -224,7 +235,7 @@ Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51
 Saudi Arabia Canada	12151
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
@@ -245,6 +256,7 @@ Somalia NIRA Joins Arab Nations	10521
 Somalia State of Palestine Sudan Syrian Arab	10764
 Sonia Araujo	12701
 Soo Koobid Fulinta Aragti	11136
+Sri Lanka LKA Syrian Arab Republic	13082
 Sudan and Arab	8133
 Sudan and Saudi Arabia's Jeddah	10583
 Suriname Sweden Switzerland Syrian Arab Republic	11765
@@ -255,13 +267,14 @@ Technology and Knowledge Gap Many Arab	2958
 Through Arada Enhun	10458
 Timor-Leste DE ARAUJO ALMEIDA	6613
 Tome and Principe Angola Iraq Saudi Arabia	11005
+Tses Community Hall ERONGO REGION ARANDIS	13046
 UAE and Saudi Arabia	4324,928
 Ukraine United Arab Emirates United Kingdom	11470,295
 Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775

@@ -95,7 +95,7 @@ Catálogo de Normas	11450
 Central African Republic Norfund	2234
 Central Primary Health Care North Central	11857
 Central Rift Northern Nairobi Coast Western	7869
-Central and Northern	9398
+Central and Northern	9398,3662
 Centre Nord	643,6184,4020,28
 Centre- Nord	737
 Cohésion Sociale des Régions du Nord du Golfe de Guinée	10876
@@ -168,6 +168,8 @@ East and Northeast Africa. Ethio	4898
 East and Northeast Africans	12227
 Eastern Muchinga Northern Luapula Western Figure	12431
 Eastern Northern Copperbelt Western Muchinga Rural	12431
+Eastern Southern and Northern Africa	12972
+Eastern and Northern	12947
 Ecoles Normale des Instituteurs	11905
 Ede North	10254
 Ede North LGA	10049
@@ -231,8 +233,10 @@ Global North. Like	571
 Global North. The Georgetown Beeck Center	7921
 Global North. The Senate	3256
 Global North. While the African Union	7233
-Government of Norway	12144,24
+Government of Norway	12144,24,976,71
+Government of Norway and Irish Aid	13214
 Government of Norway and UNICEF	12198
+Governments of Norway and Ireland. Addressing	13112
 Governor of Lunda Norte	9399
 Great Britain and North Ireland	12500
 Great Britain and Northern Ireland United Nations	11765
@@ -244,6 +248,7 @@ Health Centres. Niger North Niger Central	11857
 Health Normative Standards Framework	1009
 Health Normative Standards Framework for Digital Health	1009
 Health Normative Standards Framework for Interoperability	1009
+Health Workforce Staffing Norm Achieved	13166
 Hierarchy of Norms	3861
 High-penetration North-African	2489
 Hospital Adamawa North East	11857
@@ -288,6 +293,7 @@ JG-5 Jigawa NorthWest	11857
 Jean-Yan Norbert	11332
 Jon Norberg	11006
 Justice and Constitutional Affairs Minister Norbert Mao	10562
+KABBE NORTH KONGOLA Total Eligible	13025
 KB-1 Kebbi NorthWest	11857
 KB-2 Kebbi NorthWest	11857
 KB-3 Kebbi NorthWest	11857
@@ -318,6 +324,7 @@ Kenya Nairobi Northern Nyanza South Rift	7869
 Khartoum and Northern	6947
 Kilifi North	7000,3313
 Kilifi North MP	7000
+Kingdom of Norway	13144
 Kongo-Central and North-Kivu	11918
 KwaZulu Natal North West Eastern Cape	11262
 KwaZulu-Natal Limpopo Mpumalanga North-West Northern Cape	8999
@@ -332,6 +339,7 @@ Lead Artificial Intelligence In North Africa	6326
 Leora Klapper and Alexandra Norris	10714
 Level Seven HIS Health Normative Standards	1009
 Life Counts North	12151
+Lilongwe and Mzimba North. Thereafter	13060
 Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo North West Gauteng KwaZulu Natal	11211
 Limpopo and Northern Cape Departments of Health	11980
@@ -406,13 +414,14 @@ Muchinga Luapula Northern Eastern Western	12431
 Muchinga Northern Eastern Western Copperbelt Male	12431
 Municipality Printing Northern Cape Kimberley	6832
 Musuli Lane North Industrial Area	3386
-Mzimba North	3791
+Mzimba North	3791,9304
 Mzimba North DHO	3791
 Mzimba North and South	3791
 NA-2 Kogi North	11857
 NATO North Atlantic Treaty Organization CSA	6936
 NC Francis Baard Northdale Hospital	11986
 NC Northern Cape NDP National Development	11192
+NDVI Normalised Difference Vegetation Index	12931
 NER. Norfund EUR	929
 NES Normes Environnementales	10876
 NES and Funding Portfolio NORED	12399
@@ -431,7 +440,7 @@ NORD OUAHIGOUYA LOROUM PASSORE ZORGHO YATENGA	10847
 NORD TX Prom	10847
 NORD TX Red	10847
 NORDIC Développement	10975
-NORED	11713,686
+NORED	11713,686,698
 NORED Electricity	11713
 NORED's Chief Executive Officer	11713
 NORMAS DO BANCO MUNDIAL	11390
@@ -452,6 +461,7 @@ NORTHERN CAPE	1940
 NRD Norway Registers Development AS NUL	12675
 Nairobi Central and Nairobi North	6946
 Nairobi North-eastern Coast Central Nyanza Western	9646
+NamPower and Nored	12933
 Nassarawa North Nassarawa Central	11857
 Natal North West Gauten	11192
 Natal North West Gauteng Mpumal	11262
@@ -531,7 +541,7 @@ Norma Transitória	576,10857
 Norma Técnica	4274
 Norma de Aplicação	10755
 Normahomed Tomás Banze Elis Manuela Artur	2989
-Normal	5267,4863,663,730,429,544
+Normal	5267,4863,663,730,429,544,481,131
 Normal Manuais de Utilizador Formação Assinatura	12021
 Normal Order	11877
 Normal. Se	12018
@@ -541,6 +551,7 @@ Normalisation	10975
 Normalisation des ASMI	10975
 Normalise structure XML Require	8606
 Normalised	8036
+Normalised Difference Vegetation Index	12923
 Normalised Group	8035
 Normalised XML	8606
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
@@ -551,7 +562,7 @@ Normalização	11409
 Normalized Difference Vegetation Index	10763,571
 Normalized Difference Wetness Index and Dry Matter	11334
 Normalized Market	10954
-Normally	6211,4493,258,1096,759
+Normally	6211,4493,258,1096,759,182
 Normalmente	1701,1115,9326
 Norman Albi	1213,1162
 Norman Baloyi	2626
@@ -561,6 +572,7 @@ Norman Fulatira	12187
 Norman Moleele	2360
 Norman Moyo	1196
 Norman Schräpel	9632
+Norman Wisdom	13128
 Norman Wooding	7378,2777
 Normand Bigendako	5942
 Normas	2816,3646,4321,587,78,8,99
@@ -589,6 +601,7 @@ Normes Universelles	10965
 Norms	6792,1174
 Norms Exist	4424
 Norms Standards and Quality Department	11184
+Norms and Standards Framework for Schools	13247
 Noroeste	11390,19
 Noroozi	8602
 Norori	11156
@@ -617,7 +630,7 @@ Norte Lunda Sul Malanje Moxico Namibe	10766
 Norte-Centro-Sul	11366
 Norte-Sul	11373,20
 Nortey Street	3386
-North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25
+North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178
 North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
@@ -658,7 +671,7 @@ North East Region	2776
 North East and North West	11998
 North East of Nigeria	11857
 North Eastern	7833,4423
-North Eastern Region	12256
+North Eastern Region	12256,788
 North Eastern South Nyanza West Kenya	12256
 North Eastern State	9242
 North Gauteng High Court	2307
@@ -675,13 +688,14 @@ North Korea	6825,646,4138
 North Korea North Macedonia Northern Mariana	11470
 North Korea-linked	4127
 North Korean-backed	4127
-North Macedonia	6613,1197,2954,21,59,161,604
+North Macedonia	6613,1197,2954,21,59,161,604,1511
 North Macedonia N	10714
 North Macedonia National ID System	10714
 North Macedonia Yes National	11529
 North Macedonia and Rwanda	10844
 North Mathia	12256
 North Nkwabeng Municipality P. O. Box	2776
+North No.100	13189
 North Operational Dzorwulu Operational	3386
 North Oubangui Province	11900
 North Pemba	6728,4405,9
@@ -738,6 +752,7 @@ North and West AA	12195
 North and West Africa	1729,2548
 North- West and South-West	10963
 North-Alajo P. O. Box	3386
+North-Bound	13060
 North-Central	3862,7606
 North-East	3862,7606,1084
 North-Eastern Kenya	10728
@@ -768,7 +783,7 @@ Northeast Nigeria. CARE. Retrieved	3456
 Northeastern	12369
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327
 Northern Africa and Western Africa	585
 Northern Africa and Western Asia	10846
@@ -800,10 +815,11 @@ Northern Europe	12441
 Northern European	2910
 Northern Guéra Region	10841
 Northern Integrated Development Agency	12779
-Northern Ireland	6866
+Northern Ireland	6866,6056,118
 Northern Kafue National Park	1988
 Northern Kenya	2324,395,2415,7093
 Northern Kenya and Nairobi	7833
+Northern Local Division	12920
 Northern Lowlands	12755
 Northern Lowlands and Foothills	12755
 Northern Malawi	12242
@@ -820,6 +836,7 @@ Northern Provinces of Mozambique	12220
 Northern Provincial ICT Unit	12880
 Northern Region	2776,6151,3247,79,25,475
 Northern Region Operational November P. O	3386
+Northern Region. The Chinese Government	13122
 Northern Regional Chairman	10142
 Northern Regional Electricity Distribution Company	12399
 Northern Tuli Game Reserve	5879
@@ -842,6 +859,7 @@ Northwest Ethiopia	3791,8464
 Northwest Ethiopia. BMC Med Inform Decis	3791
 Northwest Facilities	11980
 Northwest Kenya	10841
+Northwest Province	12972
 Northwest Railway	12376
 Northwest Small Taxpayers P8-26. Contribution	12500
 Northwest Tanzania	3791
@@ -862,7 +880,7 @@ NorvanReports	8174
 Norvig	2816,4016
 Norvisi Addo	2824
 Norvège	5667,946
-Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643
+Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643,187,117
 Norway Global Cybersecurity Index	10764
 Norway MFA	8561
 Norway National Population Register	10714
@@ -883,6 +901,7 @@ Norwegian Centre for Tax Research	10335
 Norwegian Government	12168
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
 Norwegian Refugee Council	2778,1479,2690,872,3022,1386,552
+Norwegian-funded	13144
 Norwegian-origin	7921
 Não Aplicável NAS Normas Ambientais	11413
 O Departamento de Normalização	11381
@@ -894,6 +913,7 @@ Only Western and Northern	12409
 Organismos de Normalização Sectorial	11381
 Organização Internacional de Normalização	11381
 Organizações Internacionais de Normalização	11381
+Oshakati North Extension	13189
 P. Norris	7886
 PL-2 Plateau North	11857
 PL-4 Plateau North	11857
@@ -984,6 +1004,7 @@ Southern African and North African	6938
 Southern Copperbelt Lusaka Central Western North	12431
 Southern Lusaka Central North Western Luapula	12431
 Southwest Asia and North Africa	12088
+St. Northern Industrial Windhoek	13247
 Statistics Norway	12367,46
 Subcomissões Técnicas de Normalização	12782
 Sugar Cane Mkt Borno North East	11857
@@ -1016,9 +1037,10 @@ UMc Ireland Europe Northern Europe Dublin	10840
 UNDP Cameroon Far North	10989
 UPC Renewables North Africa and CIO	5951
 Unilever and Novo Nordisk	7007
-United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290
+United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886
 University of North Carolina	771,11371,113
 Université Sorbonne Paris Nord	10531
+Upgrading the North-South Corridor	12985
 Vertiv for Northwest Africa	8476
 Vertiv’s Regional Director for Northwest Africa	8244
 W. W. Norton	8380

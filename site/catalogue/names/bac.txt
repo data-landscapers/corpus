@@ -14,6 +14,7 @@ Africa. Backed	4493,2437
 African Pooled Procurement Mechanism. Backfill	5141
 Africa’s Power Backbone	6773
 Agenda Background Background	11191
+Agricultural Research Stations and Conservancies. BACKGROUND	12912
 Akwa Ibom Activates High-Speed Internet Backbone	10229
 Algeria's State Fund Backs New Tech	3609
 Alpha Bacar Barry	5713
@@ -33,7 +34,7 @@ BACHELOR’S DIARY	9646
 BACKBONE IS WORKING	12050
 BACKDOORS LIMITED Data Controller INST-801820A4964 MOMBASA	7167
 BACKFILL	1706,18,4,2019
-BACKGROUND	1248,1270,1842,2846,3754,169,55,678,533,134,45
+BACKGROUND	1248,1270,1842,2846,3754,169,55,678,533,134,45,340,9,23,16,130
 BACKGROUND AND CURRENT REGULATORY FRAMEWORK	5872
 BACKGROUND AND HISTORY	4896
 BACKGROUND AND INTRODUCTION Persistence	11193
@@ -43,6 +44,7 @@ BACKGROUND FACTS	3307
 BACKGROUND INFORMATION	11209
 BACKGROUND INFORMATION Partner	962
 BACKGROUND Land	10960
+BACKGROUND Malawi	13083
 BACKGROUND OF THE BILL Artificial Intelligence	11247
 BACKGROUND ON NIGERIA	11857
 BACKGROUND Pursuant	12763
@@ -50,8 +52,12 @@ BACKGROUND State’s Health Funding Agreements	5692
 BACKGROUND Sustainable	958
 BACKGROUND TO THE GLOBAL FINANCIAL CRISIS	10
 BACKGROUND TO THE TRANSACTION	5538
+BACKGROUND The Government	13033
 BACKGROUND The Lesotho Communications Authority	12681
+BACKGROUND The Ministry of Economic Planning and Development	12962
+BACKGROUND The Swaziland National Curriculum Framework	12914
 BACKGROUNDER	767
+BACKLOG STRATEGY PROJECT	12920
 BACKS DR. IBRAHIM BANGURA	4619
 BACKUP	10751,489
 BACKUP INTERNATIONAL KENYA LIMITED Data Controller	7167
@@ -59,6 +65,7 @@ BACOREX	998
 BACOREX Décret	998
 BACSA	5533,58,1662,4733
 BACTEC MGIT	12678
+BACUDA The BACUDA	13051
 BAcademic	5349
 BAcceptance	5349
 BAccess	5349
@@ -79,10 +86,13 @@ Bacharelato MF M F Angola	10766
 Bacharelato MF M F MF M	10766
 Bacharelato MF M F N.º	10766
 Bacharelato N.º	10766
-Bachelor	582,418,940,5006,2291,1674,220,1623
+Bachelor	582,418,940,5006,2291,1674,220,1623,218,4
 Bachelor Of Science	12675
 Bachelor of Accountancy	4896
 Bachelor of Accounting Science	4896
+Bachelor of Actuarial Science Honours	13089
+Bachelor of Artificial Intelligence	13089
+Bachelor of Artificial Intelligence Honours	13089
 Bachelor of Arts	5315,1517,114,4185,3,1189
 Bachelor of Arts Degree	6946,4185,3
 Bachelor of Arts Honours	6832
@@ -90,26 +100,42 @@ Bachelor of Arts Social Science Degree	11131,3
 Bachelor of Business Administration	6946
 Bachelor of Commerce	6832,114,1677
 Bachelor of Commerce Degree	11131,3
+Bachelor of Computer Science	13078
 Bachelor of Computer and Information Sciences	6832
 Bachelor of Creative Technologies	6832
+Bachelor of Data Science Honours	13089
+Bachelor of Design and Technology	12972
+Bachelor of Digital Forensics Honours	13089
 Bachelor of Education Honours	6832
-Bachelor of Engineering	4896
+Bachelor of Engineering	4896,8182
+Bachelor of Human-Computer Interaction Honours	13089
+Bachelor of Information Security Honours	13089
 Bachelor of Information Technology	6832
 Bachelor of Information and Communications Technology	6832
+Bachelor of Jurisprudence	12951
 Bachelor of Law	6946
-Bachelor of Laws	6946
+Bachelor of Laws	6946,6005
 Bachelor of Laws Degree	11131,3
+Bachelor of Medical Laboratory Science	13078
+Bachelor of Medicine	13040
+Bachelor of Medicine and Surgery	13078
+Bachelor of Nursing Science	12972,106
+Bachelor of Pharmacy	13078
 Bachelor of Political Science	6946
-Bachelor of Science	6832,114,1893,44,3446,78,268
+Bachelor of Psychology	13078
+Bachelor of Radiography	13078
+Bachelor of Science	6832,114,1893,44,3446,78,268,286,76,41,107
 Bachelor of Science Honours	6832
 Bachelor of Social Science Degree	11131,3
+Bachelor of Social Work	13078
+Bachelor of Surgery	13040
 Bachelor of Technology	6832
 Bachelor's Degree	3678
 Bachelor's of Engineering	4896
 Bachelors	1204,11175
 Bachelors Degree	12431
 Bachelors' Degree Diploma Certificate Total Graduated	11134
-Bachelor’s Degree	11131,3
+Bachelor’s Degree	11131,3,1838
 Bachi	9277
 Bachrach	8283
 Bacia	11405,1391
@@ -145,6 +171,7 @@ Backbone GDP Gross Domestic Product GSM	11857
 Backbone Infrastructure	1089,61
 Backbone Infrastructure and E-Government Infrastructure	1089
 Backbone Nacional de Fibra	1215
+Backbone Network	12945
 Backbone Professor Ibrahim Adeyanju	8121
 Backbone Project	55
 Backbone Recommendations	11857
@@ -160,12 +187,13 @@ Backers	4056
 Backfill	965,17,17,268,95,1,273,11,79,3,10,30,158,98,1594,500,307,248,232,5,149,153,2,51,19,1,25,10,118
 Backfilled	12253
 Backg	9123
-Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,32,96,468,123,274,64,28,17,188,125,46,3,1,1,42,17,13,20,4,263,308,47,45,54,19,150,7,28,9,23,87,6,19,6,4,31,18,7,24,1,89,138,3
+Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,32,96,468,123,274,64,28,17,188,125,46,3,1,1,42,17,13,20,4,263,308,47,45,54,19,150,7,28,9,23,87,6,19,6,4,31,18,7,24,1,89,138,3,221,25,10,47,61
 Background Aligning	12444
 Background Assessing	12255
 Background Building	12608
 Background Burkina Faso	10812
 Background Characteristics	12151
+Background Covid-19	12978
 Background David	4429
 Background Effective	12003
 Background Global Gateway Forum The Global	11226
@@ -196,8 +224,11 @@ Background Strengthening	1261
 Background The Bank of Namibia	12400
 Background The Digital Cabo Verde Project	11891
 Background The EU-South Africa Science and Technology	11288
+Background The Employment Equity Commission	12961
 Background The Kenyan	6432
 Background The Lesotho Revenue Authority	12654
+Background The Malawi Communications Regulatory Authority	13039
+Background The Namibia Statistics Agency	13031
 Background The National ID Program	10839
 Background The Republic of Cabo Verde	11869
 Background The Republic of Mozambique	12834
@@ -205,9 +236,11 @@ Background The ZIPSS	12364
 Background Trust	11138
 Background Uganda Security Printing Company	1282
 Background Well-functioning	1212
-Background and Context	10028
+Background and Context	10028,2907
 Background and Context Somalia	9766
 Background and Context The Republic of Cabo Verde	12008
+Background and Evolution	13005
+Background and Legal Framework The Civil Service	12972
 Background and Overview	5244
 Background and Purpose	11940
 BackgroundNigeria	3735
@@ -215,31 +248,37 @@ Backgrounder	1924,4101,3250
 Backhaul	7347
 Backhaul Infrastructure	5675
 Backhaul US	10407
-Backhauling	12536
+Backhauling	12536,413
+Backhoe TSAI Tinkhundla Social Accountability Index	12970
 Backhouse	2093,10049
 Backing	10841
 Backing-up	10
 Backlog	3287,9092
 Backlog Registration The Service	12226
+Backlog of GBV	12977
 Backoffice	3857
 Backs Zimbabwe’s Environmental Agenda	8639
 Backstopping	962
-Backup	34,5166,593,639,3337,1360,80,756,337
+Backup	34,5166,593,639,3337,1360,80,756,337,751,132
 Backup Data Center	11317,392
 Backup Data Centre	6481
 Backup Frequenc	6432
 Backup Node	9475
 Backup Regular Monitoring	9123
 Backup Requirements Implement	11952
+Backup Software	13185
 Backup Standards and Guidelines	34
 Backup Standards and Guidelines Guidelines	34
 Backup Storage	11209
 Backup Uganda	3745
 Backup and Disaster Recovery	6432
 Backup and Recovery	5665,6287
+Backup and Recovery Infrastructure. Security	12917
+Backup and Recovery Infrastructure. Table	12917
 Backup and Recovery Requirement	11952
+Backup-as-a-Service and Disaster-Recovery-as-a-Service	13169
 Backup. PPPC CEO Patrick Kabambe	1632
-Backups	7173,4036
+Backups	7173,4036,1828
 Bacongo	117,1598,2,1225,464,8518
 Bacquiring	3782
 Bacquisition	3782
@@ -248,6 +287,7 @@ Baction	2998
 Billion-Person Challenge Background Paper	10985
 Boakai Backs IG Coleman Amid Calls	10405
 Board Secretariat Bachelor of Laws	11134
+Body Backup	13169
 Botho University. Bachelor	12675
 Bouncing Back	10912,975,1,1,264,1,9,178
 Bouncing Back African	12341
@@ -275,6 +315,7 @@ CEMAC Définitions Bac	11944
 CGAP Background Documents	12335
 CIPC BACKGROUND The CIPC	11219
 CONTENTS I. BACKGROUND AND RATIONALE	1284
+CORPORATE PROFILE Background The Malawi Revenue	13053
 Call Ring Back Tone	3862
 Cameroon Baccalaureate Office	4670
 Cameroon Backbone Expansion Project	55
@@ -294,9 +335,12 @@ China Eximbank-financed National Fiber Optic Backbone	257
 Chris. Back	7065
 Classe MF M F Bacharelato MF	10766
 Committee APC Chairman Yansaneh Backs PPRC	7934
+Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Congo Background As African	12055
+Connectivity Programmes Backbone	12945
 Contents Back CONTENTS Navigating	7204
-Contextual Background	12240
+Contextual Background	12240,692
+Contextual Background The Open Government Partnership	12932
 Copy Share BACKGROUND	10878
 Core and Non-Core Inflation Measures for Kenya Background	2775
 Counting Back	11909
@@ -310,10 +354,13 @@ Derecognition Background	3502
 Deterioration Bouncing Back Not Classified	10837,1503
 Dhoihirdine Ahamada Bacar	3677
 Digital Drive With World Bank Backing	5056
+Digital Foundations and National Fibre Backbone Projects	12917
 Disaster Recovery GBB Galaxy Backbone	11952
 Download PDF Abstract Background Digital	10784
 EXECUTIVE SUMMARY Background	12403
 EXECUTIVE SUMMARY INTRODUCTION BACKGROUND	6936
+Eastern Backbone Power Transmission	12985
+Eastern Backbone Rehabilitation Project	13060
 Ecosystem Tatweer Misr Backs ConTech and CleanTech	5322
 Egypt. Backed	10665
 Email Print Welcome Back	9868
@@ -360,6 +407,7 @@ Guinean Backbone Management Society	3089
 Général de Brigade Ibroh Amadou Bacharou	7333
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
 Head Internal Audit. The BAC	11131
+Health Passport A. Background Information	13040
 Health and Sustainable Environment. Trend Bouncing Back	10968
 Historical Background Cape Verde	11909
 History and Legal Background In Rwanda	12413
@@ -373,7 +421,7 @@ ICT National Backbone Infrastructure	3050
 III. Background	1597
 III. CEMAC Regional Backdrop CEMAC	10841
 IN- National Backbone Finalise	11857
-INTRODUCTION AND BACKGROUND	34,12294
+INTRODUCTION AND BACKGROUND	34,12294,645
 INTRODUCTION Background	12508
 ITU All Rights Reserved Back	9434,1990
 Identity and Background of Filing Persons	7198
@@ -383,7 +431,7 @@ Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
 Increasing Improvement Bouncing Back No Change	10835,3,130,902,16,466,1,135
 Innovation and Digital Economy Galaxy Backbone Limited	10157
 Integration of ExaGrid Backup Storage	11209
-Introduction and Background	11265,1063
+Introduction and Background	11265,1063,677
 Iván Bacale Ebe Molina	10361
 Joâo Martins Bacar Djassi Maria Odete	11544
 Kenya National Fibre Backbone Infrastructure II	126
@@ -395,6 +443,7 @@ Liquid Background	12006
 Liquid Technologies. Backbone	12006
 Liquidity. Back-up Back-up Refers	12364
 Locations Backu	6432
+Long Term Training Completions Masters Bachelors	12972
 M Transmission Backbone Project	1539
 M U.S. Backing for Digital Sovereignty	2869
 M. Bachir SAMNA	12074
@@ -416,6 +465,7 @@ Manager Operations BACM Biometric Access Control	11986
 Manda and Backhouse	2093
 Middle and Back Office	8018
 Million World Bank Backed Project	10157
+Minimum Bachelor	13185
 Mme Bachar Fatimata	7183
 Mobile Backup Collection	12508
 Module Back	4996
@@ -433,6 +483,7 @@ NITA-U’s National Backbone Infrastructure Phase V	8032
 NITDA and Galaxy Backbone	9573,98,82,1288
 Namazihana Bachoke Patrick	6620
 Namibia Back	12468
+Namibian Citizen Bachelor of Science	13037
 National Backbone	54,11803,679
 National Backbone Converged Institutions	958
 National Backbone Fiber	35
@@ -446,6 +497,7 @@ National Backbone Network P65	5646
 National Backbone Optical Cable Network and Communication	35,9531
 National Backbone Project	4840
 National Data Transmission Backbone Infrastructure	1150,133
+National Fiber Backbone	12917
 National Fiber Backbone Expansion Feasibility Study	1569
 National Fibre Backbone	6000
 National Fibre Backbone Project	127,213,143
@@ -470,6 +522,7 @@ Oldest Psychiatric Hospital Brings Website Back	7176
 Open Backend	12499
 Operate CAB Central African Backbone CCDR	1264
 Opération du Réseau Backbone National	9269
+Organizational Background MOJLR	13037
 PSiDM. I. BACKGROUND Mozambique	12779
 Permit Backlog Reduction	11285
 Phase I of Malawi National Fibre Backbone	127
@@ -478,16 +531,22 @@ Project Background	12693
 Project Background Coordinates	1988
 Project Background Name	1988
 Protectionism Will Hold Back Europe’s Innovation	6582
+Provisionally Registered. Bachelor of Arts	13078
+Provisionally Registered. Bachelor of Medicine and Surgery	13078
+Purpose-Built Backup Appliances	13185
 Putting Value Creation Back	5700
 Rectification Background	3502
 Regional Backbone Infrastructure. The Nigerian National	11857
 Registration of Architects and Quantity Surveyors BOSA Back	2775
 Regulatory Backdrop Edge	8852
+Requirement Bachelor's Degree Deadline	13077
+Resettlement BACKGROUND	12912
 Rest of World. Galaxy Backbone	11946
 Results Select Stablecoin Backing Type Choose	12882
 Rwanda RESEARCH REPORT Executive Summary BACKGROUND	12328
 Réseau Backbone	9172
 SENATE BACKS FEE WAIVER TO BOOST	12738
+SOUTHERN AFRICAN DEVELOPMENT COMMUNITY UNIT BACKGROUND	12962
 STATISTICS SYSTEMS OF Backlog	12138
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
@@ -496,6 +555,7 @@ Scaling-up Impact and Getting Back	10964
 Selon Dhoihirdine Ahamada Bacar	5833
 Separation of Accounting IN- National Backbone	11857
 Server Backup	34
+Service PB Petabyte PBBAs Purpose-Built Backup	13185
 Shop Build Back Better	11017
 Sign In Follow US Welcome Back	9868
 Signs Bouncing Back Slowing Deterioration Increasing	10759
@@ -540,6 +600,7 @@ Trusted Digital Backbone of Mauritius	12132
 UK Bachelor of Science	4896
 UPS Back-up	11860
 UPS Power Backup	578
+V Eastern Backbone Rehabilitation Project	13060
 VEEAM Backup and Replication	11209
 VMWARE and VEEAM Backup and Replication	11209
 Warning Signs Bouncing Back Slowing Deterioration	10759

@@ -1,6 +1,7 @@
 A. Avancement	822
 ABORDAGEM PARA AVALIAÇÃO DE RISCOS	11390
 ACE Electoral Knowledge Network. Available	11909
+ACF Built-In Capabilities Business Functions Available	13042
 ACOMPANHAMENTO E AVALIAÇÃO DO PROGRAMA	10783
 ACOMPANHAMENTO E AVALIAÇÃO DO PSE	11523
 AFD Agence Française de Développement AMR Avis	10712
@@ -111,6 +112,7 @@ Above Average Performer	11131,3
 Above Average Performers	11134
 Abril. Aviso	6462
 Acceptation Avis	10708
+Account Transactions Average	13052
 Adolescent Health and Nutrition SARA Service Availability	10829
 Affordability and Availability	12333
 Africa GreenCo. Available	12376
@@ -141,6 +143,7 @@ Angola Avante	7882
 Annual Ave	1944
 Annual Aver	1944
 Annual Avera	1944
+Annual Average	13060
 Annual Average Exchange Rates.pdf	1013
 Annual Average Retail Prices of Selected Consumer	2775
 Anthony Albanese. Avinash Ramtohul	4850
@@ -158,8 +161,10 @@ Autoregressive Moving Average	236
 Autoridade de Avaliação Ambiental Competente	11542
 AvXpJWp2Rn9pm1Bx2cVNxFpump	4127
 Avail	958
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95,156,32,5,53,111
 Availability All	9123
+Availability HCI Hyper Converged Infrastructure HDA	13185
+Availability Index Customer Average Interruption Duration	12969
 Availability Problem Nobody Talks About	5874
 Availability Ranking Level	9123
 Availability SLAs	6432
@@ -168,6 +173,7 @@ Availability Zones	1206,1,1,11641
 Availability and Back	6432
 Availability and Eligibility	12389
 Availability and Performance	11995
+Availability of Application Forms	12970
 Availability of Central E-Procurement Platform	12389
 Availability of Digital Cadastral Plans	12389
 Availability of Digital Property Title Certificates	12389
@@ -177,7 +183,8 @@ Availability of E-waste	1988
 Availability of Electronic Database	12389
 Availability of Electronic Signature and Authentication	12389
 Availability of Financial Sector Infrastructure	6938
-Availability of Funds	2307
+Availability of Funds	2307,10698
+Availability of Funds Reports Minutes Annually Under	13005
 Availability of General Company Information	12389
 Availability of Green Technology Identifier	12389
 Availability of Incubators	12389
@@ -192,13 +199,17 @@ Availability of License of Rights Database	12389
 Availability of Official	12389
 Availability of Online Platform for IP Holders	12389
 Availability of PPE	12253
+Availability of Professional	13037
 Availability of Public Consultations	12389
 Availability of Regulatory Sandboxes	12389
 Availability of Science and Technology Parks	12389
 Availability of Sex-Disaggregated Data	12389
 Availability of Sex-Disaggregated Statistics	12389
+Availability of Short Message Service	13037
 Availability of Simplified Registration	12389
 Availability of Simplified and Enhanced CDD Measures	12389
+Availability of Skilled	13005
+Availability of Software and IT Staff	13042
 Availability of Spatial Plans and Zoning Requirements	12389
 Availability of Specialized Procurement Tribunals	12389
 Availability of Statistics	12389
@@ -206,7 +217,7 @@ Availability of Strong	12246
 Availability of Tax Guidance	12389
 Availability of Tax Incentives	12389
 Availability of Technology Transfer Offices	12389
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,207,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,207,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52,136,116,83,15,22,43,143,44,374,52,7,37,53,56,28,83,58,15,9,42,41,26,3,2,7,3,20,5,9,87,4,38,136,416,1
 Available Bandwidth Capacity	6946
 Available Career Pathways Applicants	11314
 Available Crosas	12090
@@ -566,7 +577,7 @@ Avenue Pascal ZAGRÉ	10874,1
 Avenue Prosper Gandzion	7668
 Avenue Roodepoort	7198
 Avenues	1161,9680,119
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181,95,38,84
 Average Area	10765,10
 Average Available Capacity	12062
 Average BWA	2776
@@ -599,6 +610,7 @@ Average Hourly Generation	12062
 Average Household	9485
 Average Household Size	12395
 Average International Call Rates	2775
+Average Interruption Frequency Index Eswatini National	12969
 Average Length of Insolvency Procedures	12389
 Average MRR	12427
 Average Median	12006
@@ -638,6 +650,8 @@ Average TOP INVESTMENT STAGE Venture Debt	4972
 Average Tariff	11136
 Average Time	12389
 Average Timeliness of Weekly Reports	11912
+Average Treatment	12978
+Average Treatment Effect	12978
 Average Turnaround Times	11250
 Average User Profile Average Monthly Service	9781
 Average Value of Funded and Unfunded Trade Finance	10718
@@ -645,7 +659,7 @@ Average Value of Total Bank Assets and Trade	10718
 Average Wage Earnings	2775
 Average of PBF	10829
 Average1 Retail Prices of Selected Petroleum Fuels	2775
-Averaged	3583
+Averaged	3583,9469
 Averagely	771
 Averages	10844
 Averaging	11549
@@ -670,13 +684,15 @@ Avgerou	12333
 Aviación Civil	4209,2632,259,603,1,379,70,401,764,3200
 Aviación Civil. En	7100
 Aviat	778
-Aviation	1828,4084,553,5491
+Aviation	1828,4084,553,5491,966,34,167
 Aviation Authority of Zimbabwe Spanish National Research	1554
 Aviation Civile	5103
 Aviation Civile Internationale	11972
 Aviation Civile Internationale Doc	2465
+Aviation Road	13189
 Aviation and Aerospace Development	5245
 Aviation and Airport Development Uwem Ekanem	10229
+Aviation and Rail	13122
 AviationBlack Economic EmpowermentBudget	11215
 Avicultura Tradicional Familiar	4209
 Avinash Naidoo	10193
@@ -709,7 +725,7 @@ Avoa Olivier	3698
 Avocat	2792,8950
 Avocate	2546
 Avocats Sans Frontières France	9082,334
-Avoid	34,1223,731,1595,1078,200,814,2076,1372,1292,310,292,116,724,20,28,433,36,11,34,256
+Avoid	34,1223,731,1595,1078,200,814,2076,1372,1292,310,292,116,724,20,28,433,36,11,34,256,362,7
 Avoid Environmental and Social Risks	1988
 Avoid Environmental and Social Risks.........91 CHAPTER	1988
 Avoid Regulatory Fragmentation	10360
@@ -746,7 +762,7 @@ BNA’s Avisos No	10779
 Baines Avenue	4896
 Benjamin Avornyotse	8767
 Biermann Avenue Rosebank	10793
-Billion Average	12252
+Billion Average	12252,895
 Bloomberg. Zambia Dedollarization Plan. Available	12376
 Bluesquare. Available	11133
 Bosso Zambia. Available	12376
@@ -780,6 +796,7 @@ Civil Aviation Act	736
 Civil Aviation Authority	11,11542,842
 Civil Aviation Authority CAK Communications Authority	2775
 Civil Aviation Authority of Zimbabwe	1554
+Civil Aviation Branch	12889
 Civil Aviation Organisation NA National Development	11986
 Civil Aviation The United Arab Emirates	11185
 Classroom Availability	12411
@@ -809,6 +826,7 @@ Coordinated Financing and Funding Availability	11907
 Corner of Nationalist Road and Independence Avenue	9603,1
 Country Average	9616
 Countrywide Universal Broadband Availability The Kenya	6133
+Courses Available	13095
 Crime Avenue de France	4127
 Critère Avant ATS Après ATS Délai	6146
 Critérios de Avaliação	11456
@@ -860,6 +878,7 @@ Disputes Avoidance	11134
 Dodoma Tanzania. Available	1261
 DotCom Zambia. Available	12376
 Double Taxation Avoidance Agreement	11925
+Double Taxation Avoidance Agreements	13060
 Douglas Carpenter. Avant	1189
 Dpi. Avec	7392
 Dr. the Hon. Avinash Ramtohul	12132
@@ -933,6 +952,8 @@ GIM-UEMOA Solution Objectifs Avantages	10711
 GIMAC. Avec	8356
 GTMI Group Average GTMI	10785
 Global Average and Nigeria	11138
+Global Aviation Community	12942
+Global Aviation Safety Plan	12942
 Global Entrepreneurship Monitor. Available	12376
 Gombe UAC SARL Coin Avenue	10400
 Good Nature Agro. Available	12376
@@ -950,7 +971,7 @@ Harambee Ave. P.O. Box	12322
 Harvard University Press. Available	12090
 Health Resources Availability Mapping System	10829
 Heuwel Avenue	6907
-High Availability	11941
+High Availability	11941,1096
 Highly Pathogenic Avian Influenza and African Swine	11197
 Honourable Dr Avinash Ramtohul	9658
 Hospital Beds and Cots Available	2775
@@ -959,6 +980,7 @@ I. Avaliação	11440
 IA Avez-vous	7283
 IA O Relatório de Avaliação de Prontidão	2816
 IAPs Average Revenue Per User	6000
+ICAO Aviation Security Audit	13123
 ICAO International Civil Aviation Organization ICT	12663
 ICASEES. Avant	7675
 IEA. Available	12376
@@ -971,9 +993,13 @@ InStock Availability Starts	10244
 Increase Availability of Digital Learning Materials	11918
 Increased Availability	11905
 Independence Avenue	12625
+Independence Avenue Emmanuel Church Zanele Mbeki	13046
 Independence Avenue Gaborone	12559
+Independence Avenue Soweto Market	13046
+Index Customer Average Interruption Frequency Index	12969
 Indicative Planning Figures and Funding Availability	4217
 Indonesia. Available	11133
+Infrastructure Availability and Service Delivery	12951
 Infrastructure SLAs Component Availabili Redundancy	11952
 Innovation. Par Jean Materne Zambo Avez-vous	10691
 Inquêrito Ligeiro de Avaliação da Pobreza	11525
@@ -984,9 +1010,10 @@ Integrity and Availability	8897
 Intelligence. Available	2518
 International Civil Aviation Air Services Agreement	11185
 International Civil Aviation Authority	4102
-International Civil Aviation Organisation	1688,1
+International Civil Aviation Organisation	1688,1,11200
 International Civil Aviation Organization	320,2650,1866,744,1715,75,3353,1263,178,53
 International Civil Aviation Organization ICDC Industrial	2775
+International Civil Aviation Organization ICT Information	13005
 International Civil Aviation Organization’s Public Key	9417,1902
 International Organization for Migration. Available	11909
 Internet Availability and Usage	11935
@@ -1037,6 +1064,7 @@ MVola Avance. Demain	8816
 MW Average Available Capacity	12062
 MW. Available	12399
 MW. The Energy Availability Factor	11992
+Madison Ave	13143
 Maison. Avec	3465
 Malta Civil Aviation Authority's Security Department	5948
 Marc-André Loko. Avec	3099
@@ -1095,6 +1123,7 @@ Number of Type Approved Equipment Average Approved	12395
 NÍVEIS PRÉ-DEFINIDOS DE AVALIAÇÃO DE COBERTURA	11531
 OECD Publishing. Available	11133
 ONECI. Avec	3762
+Oct-25 Annual Average	13060
 Olavo Avelino Garcia Correia	11901
 Olivier Avoa	2931
 Online Availability	12389
@@ -1172,6 +1201,7 @@ RELATÓRIO DA AVALIAÇÃO NACIONAL DE RISCOS	2784
 REPÚBLICA DE ANGOLA Avaliação	11376
 REQUISITOS DE MONITORIZAÇÃO E AVALIAÇÃO	11406
 REVENU ET AVOIRS DES MÉNAGES BURKINABÉ	737
+RFP. Availability of Professional	13037
 ROBERT MUGABE AVENUE WINDHOEK YOURS FAITHFULLY	12400
 Recognise. Avoid. Respond. Recognise	10725
 Recomendações da Avaliação	10750
@@ -1188,10 +1218,13 @@ Relatório da UNESCO de Avaliação de Prontidão	2816
 Relatório de Avaliação de Prontidão	2816,4079
 Reparación de Aviones	4209
 Republic of Angola Average	11417
+Republic of South Africa. Aviation	12922
 Resilience and Availability	6432
 Responsibility for Data Collection The MOH Average	11417
 Revenu Avoirs Inchangé Augmenté Diminué Inchangé	737
 Revenue Per Capita Average Revenue Per	10775
+Revenue Variance and RCA Analysis Average SADC	12969
+Richards Bay and Maputo. Aviation	12956
 Robert Mugabe Avenue	12400
 Robert Mugabe Avenue Windhoek NAMIBIA RE	12400
 Rogério Lucas Zandamela. Aviso	12853
@@ -1199,6 +1232,7 @@ Rotary Avenue	11750
 Rural Rural Rural Urban Rural Average	11572
 République Centrafricaine. Avec	5223
 S5Q07 Avez-vous	6959
+SADC Aviation Safety Organization Charter	12942
 SAN Avaliacao de Seguranca Alimentar	966
 SAR Avg CGSI Avg PSDI Avg	10785
 SEA. Average	10954
@@ -1220,9 +1254,10 @@ Selected Aviation Industry Indicators	2775
 Selected Aviation Industry Indicators Postal Services	2775
 Senior AVP Service Delivery	11162
 Service Availability Perception	5676
-Service Availability Readiness Assessment	766
+Service Availability Readiness Assessment	766,12210
 Service Availability and Readiness Assessment	10829
 Service Level Availability	6432
+Services Availability and Readiness Assessment	12976
 Serviço de Avaliação	11467
 Shapes the Future Aviation Hub	2511
 Sistema de Avaliação de Desempenho	11449
@@ -1237,6 +1272,7 @@ Starlink Available	6629
 Startup Ecosystem Framework. Available	12376
 Statista. Available	12376
 Statistics Publicly Available Online	12389
+Sterling Overnight Index Average	13185
 Studies. Available	2518
 Stumbleupon Avaliar	11587
 Stéphane Nzeng. Avec	8925
@@ -1244,6 +1280,7 @@ System Availability	11952
 System Average Duration Index	12358
 System Average Interruption Duration Index	12256,102
 System Average Interruption Duration Index SAIFI	12358
+System Average Interruption Duration Index System	12969
 System Average Interruption Frequency Index	12256
 System Average Interruption Frequency Index SS	12358
 Système de Comptage Avancé	1993
@@ -1253,6 +1290,7 @@ Só Depois Avançar O Banco Mundial	9558
 TABLE DES MATIERES AVANT-PROPOS	10875
 TABLE DES MATIERES Avant	10847
 TEL AVIV	4209
+TWG Automated Meter Reading Average Service	12969
 Tanzania Civil Aviation Authority	5883
 Tariff Average No. of Beneficiaries	12256
 Tax Year'. Available	11133
@@ -1265,6 +1303,7 @@ Teresa Isabel Nnang Avomo	8372
 Therewith. Available	11133
 Timeliness and Availability	12151
 Timely Data Availability	170
+Tokyo Overnight Average Rate	13185
 Tomé and Príncipe Uganda Zimbabwe Rwanda Average	11572
 Transmission Network Availability	12358
 Transparency and Availability of Information	12389
@@ -1301,6 +1340,7 @@ Virunga Energies. Available	12006
 Vitalite Zambia. Available	12376
 Volume Weighted Average Price	4896
 Volume Weighted Average Prices	4896
+Wallet Transactions Average	13052
 Water Quality and Availability	1988
 Weibo User Consumption Trends Report. Available	8460
 Weighted Average	4896

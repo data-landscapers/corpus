@@ -20,6 +20,7 @@ ANEXO III	11390,14,9
 ANEXO III Organigrama	4218
 ANEXO III. Mapeamento	11557
 ANGOSAT II	6585
+ANNEX I Terms of Reference ANNEX II	13031
 ANNEX II	7548,2307
 ANNEX II ONGOING ACTIVITIES AND SUPPORT	12399
 ANNEX II PROJECTS	12399
@@ -31,13 +32,17 @@ ANNEX III. ONGOING ACTIVITIES WITH SUPPORT	12680
 ANNEXE II	10836
 ANNEXE II AU DECRET N	10906
 ANNEXE III	10836
+ANNEXES ANNEXES Annex II	13095
 APPENDIX II	6432
 APPENDIX III. ACCREDITATION FRAMEWORK FOR GCSP	6432
+ARTICLE III DUTIES OF THE CONSULTANT	13031
 ATK Debt II	889,5835
 Academic City University IIPGH Cyber Security	6936
 Accreditation of Tax Agents PART II	11976
 Achieve Uptime Institute Tier III Facility	10956
+Act PART III IMPLEMENTATION AND SPECIFIC	13206
 Act. PART II	12365
+Act. PART II RESPONSIBILITIES	12929
 Act. PART III	1333
 Activate Window II and Window III	12195
 Actividade II. Quadro de Governança Digital	11451
@@ -66,12 +71,13 @@ Anexo III	794,3415,9,6565,621,1,40
 Anexos I and II	4218
 Angola IIMS	10777
 Angola. O IIMS	10777
-Annex II	7548,3215,1478
+Annex II	7548,3215,1478,790,49
+Annex II AWP Annual Variance Analysis	13080
 Annex II References African Declaration	12214
 Annex II. Data	10763
 Annex II. Money Supply	3583
 Annex II. The Secretariat	12164
-Annex III	5618,285,1918,34,117,2791,1478
+Annex III	5618,285,1918,34,117,2791,1478,793,46,15,90
 Annex III. Timeseries NDVI	10763
 Annexe II	10906,616
 Annexe III	10400,321,801
@@ -99,6 +105,7 @@ Aristides Gomes. PARTE II MINISTÉRIO	11530
 Arrangement of Parts Part III	512
 Article II	1914
 Article III	7845
+Article III Duties	13031
 Articles III and IV	3583
 Attachment II. Data Tables Numerical	12500
 Attachment III	12500
@@ -110,10 +117,11 @@ Authority. PART III ADMINISTRATION OF FUND	22
 B of Section III	11233
 BASEL II	10
 BASEL II Accord	10
+BDS. Section II	13185
 BSDS II	12551,20,27
 Bamenda III	4579,24
 Bank PART III	12447
-Bank PART III IMPLEMENTATION	12365
+Bank PART III IMPLEMENTATION	12365,720
 Base de Dados de Negocio Fase II	11480
 Basel II	1155,9976
 Basel II and III	10408
@@ -122,8 +130,10 @@ Basel III Endgame	10718
 Benin II KPI	87
 Bertoua II	8737
 Beugré Mambé II	4756
+Bids Section III	13185
 Birr Windows II and III	12195
 BluePeak Private Capital Fund II	9610,1
+Body By Wilma Iita	13175
 Book II	3193
 Book III	3193
 Bosques Eje III	1701
@@ -131,6 +141,7 @@ Botswana and Part II	12524
 Brancas Formato da Placa Rectangular III	11373
 Bronen and Chapin III	11006
 Budget II	2428
+Bureau Part III	12900
 Bureau. Part III	12643
 Burkina Faso. III. NOMINATIONS III.1. NOMINATIONS	7670
 C.3 The CTP II	11863
@@ -260,11 +271,13 @@ CHAPITRE II DU CONTENU ET	10813
 CHAPITRE III	436,2029,2102,6246,23
 CHAPITRE III DE I.'IDENTIFICATION BIOMETRIQUE	10813
 CHAPIÏRE III DES INSCRIPTIONS AU REGISTRE	10813
-CHAPTER II	1214,11557
+CHAPTER II	1214,11557,142
+CHAPTER II APPLICATION AND INTERPRETATION	12891
 CHAPTER II LEGAL FRAMEWORK FOR PERSONAL	11517
 CHAPTER II REGISTRATION OF BIRTHS	11176
 CHAPTER III	12771
 CHAPTER III F THE CONTROLLER	10974
+CHAPTER III FUNDAMENTAL PRINCIPLES	12891
 CHAPTER III REQUIRED FORMALITIES FOR EXECUTING	11517
 CLOUD POLICY PART II	10157
 CLOUD POLICY PART III	10157
@@ -298,8 +311,9 @@ Chapitre III	1231,4676,5673
 Chapitre III Mesures	308
 Chapitre III.- Dispositions	11139
 Chapter II	25,2440,4367,4303
-Chapter III	2438,1145,3249,1023,581,2699
+Chapter III	2438,1145,3249,1023,581,2699,1778
 Chapter III Section	1807
+Chapter III and Chapter IV	12891
 Chapters I and II	1807,6048
 Chapters II	6832
 Chief Executive Officer Mike Ogbalu III	8081
@@ -315,15 +329,19 @@ Complementary Agreement and Complementary Agreement II	125
 Component III	1176
 Concurrently Maintainable Tier III	9123
 Confidentiality PART III	12549
+Confidentiality. PART III PROCESSING OF PERSONAL	12929
 Conselho de Administração da APD. CAPÍTULO II REMUNERAÇÃO	752
 Conselho de Administração da APD. SECÇÃO II SERVIÇOS	167
 Conselho de Administração. CAPÍTULO III ORGANIZAÇÃO	13
 Conselho de Administração. SECÇÃO III CONSELHO FISCAL	13
 Conservation Foncière. TITRE III	4420
 Constitution. III. PERFORMANCE UPDATE	12580
+Constitution. PART II APPOINTMENT OF OMBUDSMAN	12892
 Contabilidade. SECÇÃO III SERVIÇOS DE APOIO	167
+Contract. ARTICLE II COMMENCEMENT OF SERVICES	13031
 Cooperation PART III	1333
 Corner Pope John Paul II	12652
+Council. PART III FINANCIAL AND ACCOUNTING	12894
 Cour des Comptes. Chapitre III	37
 Crypto-Asset Reporting Framework. Section II General	11233
 Cybersecurity Units. Part III	4610
@@ -356,13 +374,15 @@ De Minimis Part II	573
 Deel I of Deel II van Hoofstuk	11190
 Deel II van Hoofstuk	11190
 Definitions PART II	12447
-Definitions PART II STATEMENT OF POLICY	12365,9
+Definitions PART II NATIONAL STATISTICS SYSTEM	12899
+Definitions PART II STATEMENT OF POLICY	12365,9,593,118,121
 Definitions and Scales Annex II	12214
 Definições CAPÍTULO II	11461
 Demand Chapter III	6832
 Desarrollo Sostenible Sistema Tecno-Económico Eje III	1701
 Description Phase II of Digital Earth Africa	345
 Description Remittance for Development II	1019
+Determination SCHEDULE II	12967
 Development Policy Financing III	12440
 Development of Statistics II	12551
 Devolution. NFIS II	940
@@ -398,6 +418,7 @@ ESTRATÉGICOS DE Eje Estratégico II	1701
 ESTRATÉGICOS DE Eje Estratégico III	1701
 EU AI Act’s Annex III	5363
 EU Gender Action Plan III	789
+EU Optimistic About Progress of Phase III	13215
 EXPÉRIENCES RÉCENTES DE III DIGITALISATION DES	10711
 East Africa. IITMZ	7034
 East and West Africa. Fund II	243
@@ -415,6 +436,7 @@ Electronic Commerce Part III PART III	28
 Eligibility for Authorisation PART II PROCESS	12374
 Emergency Operations Center ENSAN II	10776
 Environmental Impact Part II	1988
+Environmental and Social Section II	13185
 Environnemental II Bilan	8891
 Environnemental III-	8891
 Equip. I II Improv. P Prof	10766
@@ -427,10 +449,12 @@ Every IIAG	10759,78,1050,1,1,263,1,1,9,177,1
 Evidence II. List	10911
 Evolution II Fund USD	513
 Exemptions PART II	1333
+Exemptions. PART II RESPONSIBILITIES	12929
 Extended National Strategic Development Plan II	12759
 F. Stuart Chapin III	11006
 FINANCIAL SECTOR DEVELOPMENT STRATEGY II	12701
 FINANCIAL YEAR III	11224
+FOREWORD Malawi Growth and Development Strategy III	12917
 FSDS II	12701
 FSDS II Vision	12701
 FSDS II and NFIS II. INTRODUCTION	12701
@@ -439,6 +463,7 @@ Fase II Malabo	4209
 Fase III	11480
 Federal Secretariat Phase III FCT	4302
 Financial Sector Development Strategy II	12701
+Financial Sector Development Strategy III	13060
 Finanzverwaltung II Efficient	2220
 Fonds. II. L'ECONOMIE NUMERIQUE AU CAMEROUN	2695
 Form II	22
@@ -455,6 +480,7 @@ GOS S.A's Tier III	2608
 GP Phase II	1389
 GREEN RECOVERY DEVELOPMENT POLICY LOAN II	12560
 Gabon Advances Tier III Datacenter Project	8542
+Gerhard Iileka	13108
 Giciye III HPP	718
 Godomey IITA	3361
 Gov't Launches IIPS	4285
@@ -470,20 +496,24 @@ Group III	12413
 Group III and IV Hazardous Substances	3651
 H for IIT	12676
 HNAOTUIOSENHWOILDDE SSUURRVVEEYY OONN IICCTT IANC GCHESASN	582
+HON. LUCIA IIPUMBU	12984
 HSSDP III	7707
-HSSP III	7707,4533
+HSSP III	7707,4533,926
 HSSP III Joint Annual Review and DHD	12240
 Hailufeng II	9068
-Harambee Prosperity Plan II	5926,6473
+Harambee Prosperity Plan II	5926,6473,536
 Harambee Prosperity Plan II Have	12448
 Harare IIM Calcutta	4896
 Health Centre IIIs	11022
 Health Centre IIIs Travelling	11022
 Health Centre IIIs. Susan Nakanwagi	11022
-Health Sector Strategic Plan III	12240
+Health Sector Strategic Plan III	12240,926
 Helios III	82
 Helios Investors III L.P	82
 Home Affairs and Immigration Minister Lucia Iipumbu	2831
+I ASSENT MSWATI III	12928,1
+I ASSENT MSWATI III KING	12930
+I ASSENT MSWATI III King of Eswatini	12916
 I II	11852
 I de Buena Esperanza II	4209
 I. II. III. IV. V. Implementation	4260
@@ -522,6 +552,7 @@ II FORMAT FOR COMMENTING	236
 II Fórum	10750
 II JUSTIFICATION ET PORTÉE	10711
 II KfW Development Bank	903
+II LINE MINISTRIES’CAPITAL PROJECTS Presented	12962
 II LIST OF GRAPHICS	10980
 II Licensing	7607
 II Matériel	10975
@@ -547,7 +578,9 @@ II- RAZÕES JUSTIFICATIVAS	3519
 II-Plateaux	9715
 II-Plateaux Aghien	5816
 II-Recettes	2476
+II. ACKNOWLEDGEMENTS	12939
 II. AU TITRE DU MINISTERE	11597
+II. Acknowledgements	12931
 II. Actuar	11441
 II. Affordable	12333
 II. Among	12663
@@ -561,7 +594,9 @@ II. CHIFFRES CLÉS	10922
 II. COMMUNICATIONS ORALES II.1	7670
 II. COMMUNICATIONS ORALES PP-G N	8321
 II. CONTEXTO	12787
+II. COOPERATION WITH THE EUROPEAN UNION	12962
 II. CUSTOMER SATISFACTION SURVEY OF MOBILE	5679
+II. Comprehensive Documentation	13004
 II. Construction	12358
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076
 II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180
@@ -574,6 +609,8 @@ II. ESTRATÉGIAS DE DESENVOLVIMENTO DO PSE	11523
 II. Ensure	4260
 II. Equip	899
 II. Estrutura	10783
+II. GOVERNMENT’S PERFORMANCE	12922,34,167
+II. Governance	13042
 II. IMPLEMENTATION ARRANGEMENTS	11855
 II. INCM	3058
 II. INTRODUCTION	12201
@@ -595,12 +632,14 @@ II. MISSION FINDINGS AND KEY RECOMMENDATIONS	12595
 II. Mejorar	1701
 II. Mobilisation	6896
 II. NOMBRE DE GROUPES PEDAGOGIQUES PAR	10847
+II. Need	12917
 II. OBJECTIFS ET MISE EN	10876
 II. ORIENTATIONS Conscient	12
 II. OUTCOME	11924
 II. OUTCOME A. RELEVANCE OF PDO	11924
 II. Overall Project Performance Key	2989
 II. PARLIAMENT REFORMS	12580
+II. POLICY ENVIRONMENT	13060
 II. PROGRAM DESCRIPTION	11905,271
 II. PROGRAM DESCRIPTION A. Government Program	11905
 II. PROJECT DATA AND RATINGS	12195
@@ -614,9 +653,11 @@ II. População	11416
 II. Principaux	5928
 II. Programmatic Simplification	4260
 II. Programme Overview EBRD	1818
+II. Project	12917
 II. Périmètre	5928
 II. RAPPEL DES OBJECTIFS ET RESULTATS	2966
 II. Reduce	4260
+II. SECTOR DEVELOPMENTS SUPPLY SECURITY	13054
 II. SSA	128
 II. Scope Article	6612
 II. Scope of Eligible Pre-Set Consortia	5773
@@ -630,7 +671,9 @@ II. The Four Pillars	6735,200
 II. The GO-LIVE Regarding	12174
 II. The Government of Mozambique	4260
 II. The Government of Uganda	4217
+II. The National Youth Council Forum	13053
 II. The U.S. Government	4260
+II. Trends	12948
 II. VISÃO Ser	4146
 II. Vision	10914
 II. What Stablecoins Mean for Emerging Markets	9331
@@ -727,6 +770,8 @@ III- ON PEACE	7452
 III- PERSPECTIVA DO ESTUDO COMPARADO	3519
 III-C	11852
 III. A Ameaça Combinada	11436
+III. ACRONYMS AND ABBREVIATIONS	12939
+III. ACRONYMS AND ABBREVIATIONS CP Child	12939
 III. ARN CUSTOMER	5679
 III. AU TITRE DU MINISTERE	11597
 III. Agregados	11416
@@ -740,11 +785,13 @@ III. Both the U.S. Government	4260
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE	10876
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE III.1	10876
 III. CEMAC Regional Backdrop CEMAC	10841
+III. COOPERATION WITH THE REPUBLIC	12962
 III. Challenges	11821
 III. Concepção	11440
 III. Conduite	10914
 III. Context	3583
 III. Contribuir	1701
+III. Critical	12917
 III. DEROULEMENT DES TRAVAUX	2966
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 III. DIAGNÓSTICO DA SITUAÇÃO ACTUAL Nos	10772
@@ -753,6 +800,7 @@ III. Desenvolver	11440
 III. Development	11469
 III. Digital	12333
 III. Digital Skills Supply	6832
+III. ECONOMIC DEVELOPMENTS	12922,34,167
 III. EFFECTIFS DES ELEVES III.1 EFFECTIFS	10847
 III. EFFECTIFS DES ELEVES III.3 REPARTITION	10847
 III. EFFECTIFS DES ELEVES III.4 REPARTITION	10847
@@ -772,6 +820,8 @@ III. IMPLEMENTATION ARRANGEMENTS	969,295,603,4672,4229,61,551,37,132,11
 III. IMPLEMENTATION ARRANGEMENTS Page	11417
 III. IMPLEMENTATION PROGRESS AND KEY FINDINGS	12195
 III. INAGE	3058
+III. Impact	13042
+III. Impact The Implementation of ASYCUDA	13042
 III. Indicateurs	5928
 III. Internet and Email	12677
 III. KEY FACTORS AFFECTED IMPLEMENTATION	11924
@@ -780,6 +830,8 @@ III. MACROECONOMIC STABILITY AND RESILIENT FISCAL	12598
 III. MISSÃO Criar	4146
 III. MODALIDADES E CAPACIDADES DE IMPLEMENTAÇÃO	11523
 III. Malaria	4260
+III. Mapping of Data Flows	13004
+III. NATIONAL ENERGY COMPACTS	13054
 III. NOMINATIONS PP-G N	8321
 III. OBJECTIFS L’Enseignement	12
 III. Opérations	2476
@@ -798,14 +850,17 @@ III. Policy Implications So	9331
 III. Principaux	5928
 III. Principes	10914
 III. Productividad	1701
+III. RECENT ECONOMIC DEVELOPMENTS	13060
 III. SCOPE OF APPLICATION	12779
 III. STI Park Ecosystem	12786
 III. Secção	11435
 III. Stakeholder	3058
 III. Strategic Assessment	6735,200
 III. Strategic Assessment The CBN	6935
+III. Tax Revenue Gains	12948
 III. The Government of Mozambique	4260
 III. The Government of Mozambique-	4260
+III. The ICT Association of Malawi	13053
 III. The Line-Up Now	7777
 III. The Statutory Clearance Clock	11036
 III. The U.S. Government	4260
@@ -975,7 +1030,7 @@ Iiitiifo	1009
 Iinlete	419
 Iinnttererrurputipotinsons	12256
 Iiold	11852
-Iipumbu	2831,3931
+Iipumbu	2831,3931,6431
 Iiurca	11852
 Implementation Arrangements III. KEY RISKS	2889
 Independent Information Commission IIPS	5244
@@ -987,9 +1042,15 @@ Inspired Evolution Evolution II Fund	704,1
 Institute Tier III	5793
 Interepretation. PART II Public Licences	736
 International Gateway Monitoring System IIC	5244
-Interpretation PART II	783,11747,2,3,11,29
+Interpretation PART II	783,11747,2,3,11,29,317
 Interpretation PART II Clearance and Settlement Systems	12528
+Interpretation PART II ESTABLISHMENT OF NATIONAL	12938
+Interpretation PART II NATIONAL REGISTRATION	12898
 Interpretation PART II THE ZAMBIA CYBER	2727
+Interpretation Part II	12900
+Interpretation. PART II COMPUTER OFFENCES	12928
+Interpretation. PART II ESTABLISHMENT	12894
+Interpretation. PART II ESTABLISHMENT OF NATIONAL	12916
 Interpretation. Part II	12643
 Investment Case and NHDP III. Core	10829
 Ivoire's First Sovereign Tier III Data	3436
@@ -1007,6 +1068,7 @@ King Abdullah II Fund Renew Partnership	5322
 King III Code. The Board	12646
 King Letsie III	2669,3882,82,6027,50
 King Mswati III	10602,1803
+King Mswati III International	12922
 Kipevu II	12256
 Knife Capital Fund III	1134
 Knife Capital Fund III Mastercard Foundation	1134
@@ -1016,7 +1078,7 @@ LE MILIEU DE RESIDENCE III.2.2 Privé	10847
 LE MILIEU DE RESIDENCE III.2.3 Public	10847
 LOS RECURSOS PÚBLICOS...................6 TÍTULO II	4209
 LPs. In Fund II	7482
-LUSIP II	11131
+LUSIP II	11131,1791,34,6,161
 Lam II	12478
 Landlocked King Mswati III	12352
 Landrechtsverwaltung II Promoting	903
@@ -1032,12 +1094,19 @@ Lllrec IIIOI	11852
 Local Council III Vice Chairperson	8589
 Low. Track II	12669
 Lower Value Accounts. Section III Due	11233
-Lucia Iipumbu	3017
+Lucia Iipumbu	3017,10124
 MAJESTY KING LETSIE THE III	12668
 MCA-BENIN II Interconnexion	10821
 MCA-Benin II	87
+MGDS II	12917
+MGDS III	12917
+MGDS III and UN’s Sustainable Development Goal	12917
+MGDS III. ICT	12917
+MGDS III. The Plan	12917
 MIERA III and IYBA WE4A	10113
 MIMIC- III	8606
+MINISTER II. ACKNOWLEDGEMENTS The Deputy Prime	12939
+MNSSP II	12964
 MOU. II. Procurement	4217
 MOU. II. The U.S. Government	4217
 MW Anixas I and II	12399
@@ -1045,12 +1114,15 @@ MW Tier III	5200
 MZ1 Key Facts Tier III Certified	9446
 Majesty King Letsie II	12692
 Majesty King Letsie III	2669,7541,2477
-Majesty King Mswati III	3331,91,225,6,324,50,31,115,12,350,137,194,149,759,202,1054,13,221,423,3444,3,1291,215
+Majesty King Mswati III	3331,91,225,6,324,50,31,115,12,350,137,194,149,759,202,1054,13,221,423,3444,3,1291,215,282,34,6,157,34,55,18
 Majesty King Mswati III. Hosted	11131
+Majesty the King Mswati III	12977
 Malabo II	3179,1030,1085
+Malawi Code II	13053
 Malawi Growth Development Strategy III	12175
 Malawi Growth and Development Strategy II	12261
 Malawi Health Sector Strategic Plan III	12240
+Malawi National Social Support Programme II	12978
 Mapa II Despesas	5012
 Mapa III	1251,1,1,1,1,1,82,1,1,2,90,648,1,1,1,6,58,1520,744,1,7,593,1179
 Mapa III Despesas	5012
@@ -1088,7 +1160,7 @@ NDS1. The NFIS II	940
 NFIF II	2857
 NFIS I. NFIS II	940
 NFIS I. Under NFIS II	940
-NFIS II	940,322,11182
+NFIS II	940,322,11182,608
 NFIS II EXPECTED OUTCOMES	940
 NFIS II. God Bless Zimbabwe Dr	940
 NFIS II. The M&E Framework	940
@@ -1118,6 +1190,7 @@ Namibian Minister Iipumbu	6762
 Nana Boateng III	2824
 Nana Kwaku Boateng III	2824
 National Broadband Network Phase II Project	56
+National Export Strategy II	13060
 National Financial Inclusion II	940
 National Financial Inclusion Strategy II	940,3025
 National Payment System. PART III	12365
@@ -1126,13 +1199,16 @@ National Skills Development Plan NSDS III	6832
 National Skills Development Strategy III NQF	6832
 National Social Protection Strategy II	12715
 National Social Protection Strategy II. Lesotho	5274
+National Statistics System PART III NAMIBIA	12899
 National Strategic Development Plan II	5274,1349,2077,3974,41,36
 National Strategic Development Plan II OP	12759
 National Strategic Development Plan II and National	12761
+National Strategy for Financial Inclusion III	13060
 National Strategy for Financial Inclusion III. Currently	2264
 National Tier III Data Centre	4859
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
+Nhlangano II	13054
 Niger. II	4802
 Nigeria's Tier III-certified	3859
 Non-Communicable Group III	12413
@@ -1148,6 +1224,7 @@ Objectivo Estratégico III	4146
 Official Use Only II. Financing and Implementation	11469
 Official Use Only III. WBG Portfolio	11469
 Ogbalu III	3074
+Ombudsman PART III	12892
 Open Space Dagbolu III	10049
 Operation Vulindlela Phase II	3741,4859,3397
 Operation Vulindlela Phase II Q1	8779
@@ -1161,27 +1238,39 @@ PARENTS III.8.1 Public Cultivateur Eleveur Artisan	10847
 PARENTS III.8.2 Privé Cultivateur Eleveur Artisan	10847
 PARENTS III.8.3 Public	10847
 PART I PART II ARRANGEMENT	6921
-PART II	26,1,1,755,437,113,141,1252,435,553,147,6546,783,786,398,36,37,12,64,9,3,11,3,13,13,69,9
+PART II	26,1,1,755,437,113,141,1252,435,553,147,6546,783,786,398,36,37,12,64,9,3,11,3,13,13,69,9,267,47,118
 PART II AMENDMENT OF THE BANK	6921
 PART II Administration of Act	12548
 PART II Clearance and Settlement Systems	12528
 PART II Data Protection Authority	972
+PART II ESTABLISHMENT	12894
+PART II G	12920
+PART II LEGAL EFFECT OF ELECTRONIC	12930
 PART II LEGAL REGIME	10974
 PART II Offences Relatin	972
 PART II Public Telecommunication Licences Licensing	736
+PART II STATEMENT OF POLICY	13206
+PART II THE NATIONAL ADVISORY COUNCIL	12916
 PART II THE ZAMBIA CYBER SECURITY	2727
+PART II- NATIONAL REGISTRATION	12898
 PART II. SUPPLY II.1	11366
-PART III	26,1,1,755,437,254,1252,1135,26,4467,2836,176,610,398,73,12,71,2,3,11,3,13,13,54,1,14
+PART III	26,1,1,755,437,254,1252,1135,26,4467,2836,176,610,398,73,12,71,2,3,11,3,13,13,54,1,14,276,47
 PART III ADMINISTRATION OF FUND	22
 PART III AMENDMENT OF THE ELECTRONIC	6921
 PART III APPLICATION PROCESS FOR AUTHORISATION	12374
 PART III CYBER INCIDENT RESPONSE TEAMS	2727
+PART III DUTIES AND FUNCTIONS	12892
+PART III ELECTRONIC TRANSACTIONS	12930
+PART III ELECTRONIC TRANSACTIONS Formation	12930
+PART III EXTRA TERRITORIAL JURISDICTION	12928
+PART III FINANCIAL AND ACCOUNTING PROVISIONS	12894
 PART III Finality of Settlements Within Recognised	12528
 PART III Light Licence for Broadband Fixed	736
 PART III Obligations of Public Authority	12548
 PART III Offences Against Chil	972
 PART III Private Network Licences Private	736
 PART III Quality of Data	972
+PART III REGISTRATION OF BIRTHS AND ADOPTED	12898
 PART III- CRITICAL NATIONAL INFRASTRUCTURE Designation	12459
 PART III- Powers and Duties of Councils	12531
 PART IIIA	7845
@@ -1202,6 +1291,7 @@ PERFORMANT II Rapport	10975
 PERFORMANT III Rapport	10975
 PHASE II	11236
 PHASE II Av. Amílcar Cabral	8166
+PHASE II OF THE MULTI-PHASE	12990
 PHASE II PIVP	11863
 PHASE II PROJECT	2466
 PILLAR II	12389,174,117
@@ -1225,13 +1315,14 @@ Page II	236
 Panel II of BFSI	8070
 Part I and Part II of Chapter	11190
 Part I of II	9237
-Part II	0,1,2,19,4,674,36,799,58,1116,452,422,1000,27,89,899,613,225,299,186,14,910,509,422,1381,569,86,652,837,158,71,5,108,2,2,1,2,1,2
+Part II	0,1,2,19,4,674,36,799,58,1116,452,422,1000,27,89,899,613,225,299,186,14,910,509,422,1381,569,86,652,837,158,71,5,108,2,2,1,2,1,2,245,1,1,1,2,3,2,1,20,25,235,17
 Part II STI for Overcoming Sustainable Development	12544
 Part II of Chapter	11190,786
 Part II the Commissioner	3
 Part II--Barriers and Obstacles	10812
+Part II. PART II LEGAL EFFECT	12930
 Part II.A.1	5630
-Part III	1,2,19,490,188,272,361,141,61,58,395,721,874,1027,988,32,806,1409,931,1381,249,1,405,652,995,89,95,2,2,1,3
+Part III	1,2,19,490,188,272,361,141,61,58,395,721,874,1027,988,32,806,1409,931,1381,249,1,405,652,995,89,95,2,2,1,3,250,2,3,2,1,45,13,68,154
 Part III HIPSSA	27,1
 Part III Jurisdiction HIPSSA	26
 Part III Shortcomings of Act	8776
@@ -1252,17 +1343,19 @@ Partie III Activités du CESE	8891
 Parts I and II	10157
 Parts I and II of Chapter	11976
 Parts II	11584
-Parts II and III	11976
+Parts II and III	11976,954
 Parts II-XIII	12630
-Parts III	12653
+Parts III	12653,247
+Parts III-IV	13206
 Parts III-IX	12535
-Parts III-VII	12530
+Parts III-VII	12530,555
+Parts III-X	12899
 Parts III-XIV	12531
 Paul II	10060
 Paz Sostenible. Eje Estratégico III	1701
 País. SUBSECÇÃO III Equipa Nacional de Resposta	6970
 Phase I and Phase II	128,6818
-Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048,1194,13,277,18,714,28,364,357
+Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048,1194,13,277,18,714,28,364,357,448,63,118
 Phase II African Development Bank	803
 Phase II Bill	1501
 Phase II Contract	8166
@@ -1291,8 +1384,8 @@ Phases I and II UK FCDO	128
 Pilar II	2784,9114,123
 Pilar III	11898
 Pilier II du PND	2342
-Pillar II	11149,1568
-Pillar III	10222,909,18,1568
+Pillar II	11149,1568,245
+Pillar III	10222,909,18,1568,245
 Pillars I and II	11863
 Pillars II-V	12680
 Plan III ICT Information Communication Technology	12240
@@ -1311,6 +1404,7 @@ Privé II.4 Urbain	10847
 Problème II	6383
 Problème III	6383
 Project II	11579
+Project King Mswati III International Airport	12962
 Projets IITA Pour	10708
 Public Sector Strengthening Project II	11545
 Q3 REPORT PHASE II	11236
@@ -1329,7 +1423,9 @@ Regional Department West II	11909
 Regulamento ANEXO II	794
 Regulamento. CAPÍTULO II TAXAS EM ESPECIAL	744
 Regulations PART III	3714
+Report Quarterly Head of IIC	13005
 Republic. CHAPTER III REGISTRATION OF DEATHS	11176
+Required. Section II	13185
 Resolutions III	9505
 Responsabilidade SECÇÃO II	11461
 Responsibilities of NFIS II Stakeholders Type of Stakeholder	940
@@ -1357,6 +1453,7 @@ SADC Model Law Part III PART	27
 SECTION II	2465,2102,6252,319
 SECTION III	11138
 SECTION III The Bridgforte Trust Architecture	11138
+SECTION PART III	12898
 SECÇÃO II	15,561,2943,699,6537,619,9,5,42,31,55,12,1242
 SECÇÃO II ADESÃO E UTILIZAÇÃO	11433
 SECÇÃO II ADQUIRENTE NÃO BANCÁRIO	11438
@@ -1465,6 +1562,7 @@ SOURCES OF PROPERTY CHAPITRE III	1214
 SSA. DPI ADP III	347
 STANLIB Infrastructure Fund II	4730
 STANLIB Infrastructure Fund II. Following	4730
+STAP II	12942
 SUB-SECÇÃO II	11528
 SUB-SECÇÃO III	11528
 SUBSECÇÃO II	10755
@@ -1475,27 +1573,31 @@ SUBSECÇÃO II Contratos Celebrados	11360
 SUBSECÇÃO II PRESTAÇÃO DE SERVIÇOS	11386
 SUBSECÇÃO III	10755
 SUBSECÇÃO III Contratação	11360
+Safety and Security Minister Lucia Iipumbu	13193
 Salto Fund II OUTPUT INDICATOR	11863
 Savannah Fund II	681
 Savannah Fund II LP	681
 Savannah Technology Fund II	681
-Schedule II	11280,858,392,1,351
+Schedule II	11280,858,392,1,351,28
+Schedule III	12910
 Schedule III.B.1	10829
 Schrems II	11154
 Science and Technology In Phase II	899
+Scope PART III IMPLEMENTATION AND SPECIFIC	12967
 Scope SECTION A PART III IMPLEMENTATION	12374
 Secrecy Division II	12629
 Secretary General Mr Achille BASSILEKIN III	10980
-Section II	37,1601,1688,1241,1206,610,4382,10,360,1652
+Section II	37,1601,1688,1241,1206,610,4382,10,360,1652,253,145
 Section II Opérations	17
 Section II Vote	17
 Section II.- Obligations	11139
 Section II.- Sanctions	11139
 Section II.A	5773
 Section II.E	1264
-Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190,1037,47
+Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190,1037,47,206,145
 Section III B Agreement	1867
 Section III Consultation	17
+Section III Section	13185
 Section III of Schedule	1914
 Section III.- Obligations	11139
 Section III.6	10862
@@ -1504,6 +1606,7 @@ Section III.B.1	1264,5275,5010,306
 Section III.F	10829
 Sections I and II	6935
 Sections II	11233
+Sector Strategic Plan III	13166
 Secção II	2438,8309
 Secção II Execução	11901
 Secção II Registo	11901
@@ -1516,6 +1619,7 @@ Senior Strategy II	940
 Series of Projects II	12245
 Seção II	11562
 Seção III	10769,793
+Short Term Action Plan II	12942
 Sistema de Pagamentos Instantâneo. Anexo II Limites	5169
 Social Protection Strategy II	12761
 Sodo II	12233
@@ -1535,6 +1639,7 @@ Sub-Saharan Africa. Fund II	1153
 Sub-part II	7845
 Sub-part III	7845
 Sub-part VIA of Part II	7845
+Submission of Reports. PART III THE SECRETARIAT	12916
 Subsecção II	10755,1146
 Subsecção II da Secção II	10755
 Subsecção III Titulares	11901
@@ -1631,6 +1736,7 @@ Titre III	10836,130
 Titre III. Article	10966
 Track II	10430
 Track II-The	12137
+Trainee Firefighter II	12972
 Transition Support Facility Pillar III	10222,350,72
 Travail ANNEXE II AU DECRET N	10906
 Trusted Employer Scheme Phase II	11264
@@ -1655,7 +1761,7 @@ UCL IIPP Blog	5700
 UCL IIPP Working Paper Series	2123
 UMUTWE WA II	1214
 UMUTWE WA III	1214
-UNESCO IICBA	11598,1128
+UNESCO IICBA	11598,1128,344
 UNESCO IIEP	12504
 UNIVERSITY ACITY INSIGHT SERIES II SECURING	6936
 UVRE DU MANUEL II.1 Objectifs	10876
@@ -1673,6 +1779,7 @@ Uptime Institute Tier III	1858,233,7355,1510
 Uptime Institute Tier III Design Certification	1956
 Uptime Institute Tier III Design and Construction	5793
 V Edéa III	10975
+V Nhlangano II	13054
 V Nyabarongo II-Nzove	12358
 VI. II	11373
 VISION AND ATLAS III.1 Power	11366
@@ -1685,6 +1792,8 @@ WebLabs II	11965
 Welt II DS4JI II Digital Skills	1427
 Whether IISPAI	7112
 Wingu's Tier III-certified	2988
+Workshop II	13042
 World War II	4258
+Wovwe II Hydropower Project	13241
 XAfrica’s Tier III	6299
 Ziiru Health Centre III	11022

@@ -6,7 +6,9 @@ Add RESTful Query RFC7525 and Feed	1009
 Avec le Rfu	6795
 Basic RFC1738 RFC2616 XML V1.0	1009
 Basic RFC3798. Cross-Enterprise	1009
+Bidder RFB No	13185
 CERT-GH RFC	775
+Clarification and Amendment of RFP Documents	13037
 Classe O Chefe da RF	11435
 Department of Health RFD National Health Insurance	1009
 Digitalization RF Resettlement Framework RNPP National	3604
@@ -17,6 +19,7 @@ EU RF SSR	789
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Energy Independent Power Procurement Programme RFP	11228
 Enterprise XDS RFC	1009
+Expansion of National Data Centre RFB	13185
 FHIR RFC2616 RFC4627 RFC6585 RFC5424 RFC3339	1009
 Figure RF.01	12367
 Figure RF.02	12367
@@ -41,6 +44,7 @@ PRSP Poverty Reduction Strategy Paper RFQ	11525
 PUE Power Usage Effectiveness RFS Ready	10781
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
+REC Rural Education Centres RFQ Request	12975
 RF Modules. Applications	6946
 RF Results Framework SSN Social Safety	11924
 RF Spectrum	5245
@@ -56,6 +60,8 @@ RF-eTrust Le Fonds	3231
 RF. Aliás	12018
 RF. Nota Importante	11435
 RF. Original	11924
+RF2 Replication Factor	13185
+RFB No	13185
 RFC1305 SNTP Simple Network Time	1009
 RFC1738	1009
 RFC1766	1009
@@ -95,8 +101,10 @@ RFID Journal	8776
 RFID and EAS	736
 RFID-enabled	8296
 RFLD for West and Central Africa	8318
+RFM Hospital	13207
 RFP Close	12693
 RFP Conditions	12400
+RFP Evaluation Report	13037
 RFP FOR PROVISION OF TRANSACTION ADVISORY	5793
 RFP NUMBER	12400
 RFP Number	11240
@@ -105,13 +113,18 @@ RFP Part C	11240
 RFP Part D	11240
 RFP Registration Form	12400
 RFP Wireless Infrastructure for AUC Final	7951
+RFP and TOR	13037
 RFP for Implementing	10822
+RFP for Standard Forms	13037
 RFP. Accordingly	11240
 RFP. Aisino	3700
+RFP. Availability of Professional	13037
 RFP. Closing	9676
 RFP. Development Bank of Southern Africa Page	11240
 RFP. Deviations	12681
 RFP. If the Bidder	11240
+RFP. Information	13037
+RFP. Material	13037
 RFP. Only	11240
 RFP004	11240
 RFP116	7514
@@ -127,6 +140,7 @@ RULES GOVERNING THIS RFP	11240
 Radio Frequency Bandwidth RFBW	736
 Referral RFC	1009
 Remove Metadata and Documents RFD South African	1009
+Replication Factor RF2	13185
 Request for Proposals The RFP	11134
 Retrieve Information for RFC1738	1009
 RfP Request for Proposal UNHCR United Nations	11986

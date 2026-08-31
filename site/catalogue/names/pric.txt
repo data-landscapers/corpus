@@ -1,3 +1,4 @@
+ACHIEVEMENTS Consumer Price Index	12962
 AWS Region Table. Pricing	7210
 Abbreviations CPI Consumer Price Index IMF	11286
 Absence of Price Control Measures	12389
@@ -9,6 +10,8 @@ Annual Average Retail Prices of Selected Consumer	2775
 Applicant's Best Price Offer	8582
 Authority of His Majesty the King Price	12722
 Authority of His Majesty the King. Price	12653,13
+Automatic Price Mechanism	13060
+Automatic Pricing Mechanism	13122
 Avatar of PriceListNamibia	12478
 Average Export Prices of Selected Minerals	2775
 Average Fully Indexed Price Biomass	11953
@@ -22,6 +25,11 @@ B. Fuel Prices	1828
 Basic Prices Prices Adjusted	2775
 Best Price Offer	7368
 Best Price Offers	7368
+Bid Price	13185
+Bid Price Name of Bidder	13185
+Bidding Forms Price Schedule	13185
+Bidding Forms Price and Completion Schedule	13185
+CIP Price	13185
 CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
 CRITERIA POINTS Price	11209
@@ -31,6 +39,7 @@ Carbon Pricing System	12389
 Cell C Home LTE Price Plan	11259
 Change Prices	12389
 Co-operation and Development PPI Producer Price Index	11286
+Commodity Prices	12978
 Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
 Company Share Price	4896
@@ -38,13 +47,19 @@ Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559
 Consumer Price Index Manual	11258
-Consumer Price Indices	2775
+Consumer Price Index Survey	12962
+Consumer Price Indices	2775,10187
 Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
-Contract Price	6946
+Contract Price	6946,6239
+Contract Price P0	13185
+Contract Price of Goods	13185
+Contract Price. Further	13185
+Contract Price. L0	13185
+Contract Price. Section IX	13185
 Control of Goods Prices and Other Charges	12629
 Cost Proposal and Price Declaration Form	11209
 Cost Reflectivity of Energy Prices Increased Uptake	12515
@@ -53,6 +68,7 @@ Crude Oil Price	12256
 Current Energy Prices	12515
 Current Market Prices	2775
 Current Prices	2775
+Custom Duties Unit Price	13185
 D-IND-ICT PRICES.01-2025-PDF-E.pdf	11563
 DAY VOLUME WEIGHTED AVERAGE PRICE	4896
 Dan Price	11154
@@ -67,14 +83,18 @@ Different Scenarios Gasoline Price	1828
 Digital Economy Rose Pola Pricemou	3959
 Domestic Fuel Prices	2775
 Drafting Transfer Pricing Legislation INTRODUCTION	573
+EXW Price	13185
 Earnings and Consumer Price Indices Overview	2775
 Earnings and Consumer Prices	2775
 Earnings and Consumer Prices Ethiopia	2775
 Electricity Pricing	12256
 Electricity Pricing Policy	11272
+Eligible Countries. Prices	13185
 Entry Distribution Price	1828
 Equivalent Prices for Telkom Mobile	11259
 Equivalent Prices for Telkom Mobile Tariff	11259
+Evaluated Bid Price C	13185
+Evaluated Bid Prices	13185
 Evolution of International Crude Oil Prices Figure	12256
 Excellence Consumer Price Index Consumer Protection	11134
 Exit Offer Price of US	4896
@@ -98,11 +118,15 @@ GB Data Bundles Price Trend	11259
 GDP Developments Price Developments External Sector	11131
 Global Price	962
 Government. Price	1284
+HRH Price Lonkhokhela	12969
+Harmonised Consumer Price Index	12962
+Harmonized Consumer Price Index	12962
 ICT Price Basket	11262,137
 ICT Price Basket Manual	11563
 IMF Producer Price Index Manual Theory	11152
 ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
+Initial Prices	13037
 Institute for Prices and Competition	11380
 Internet Prices Slashed	4070
 Jet A1 Retail Price	718
@@ -122,7 +146,9 @@ MONTHLY HIGH AND LOW SHARE PRICES	4896
 MTN Speed-based Bundles Bundle Name Price	11259
 Madame Rose Pola Pricemou	2370
 Manufacturer’s Suggested Resale Prices	11036
+Market Price Reference Catalogue	12956
 Market Prices	2775,2121
+Maximum Wholesale and Retail Prices of Bread	12930
 Mbps Average Price	11259
 MetroFibre Go Once-off Pricing	11259
 Min Rose Pola Pricemou	3959
@@ -133,11 +159,14 @@ Mobile Price Benchmarking Conclusion	1013
 Mobile Price Benchmarking Mobile Phone Ownership	1944
 Moderate Price-sensitive	11994
 Monthly International Crude Oil Prices	2775
+Multi-Year Price Determination	13054
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 NCC Seeks Cost-Based Pricing Framework for Ducts	7110
+Name of Bidder Technical Bid Price Evaluated	13185
 Namibia Producer Price Index	11122,30
 Namibia Producer Price Indices	11152
 Namibia Statistics Agency NAMIBIA PRODUCER PRICE	11152
+National Consumer Price Index	13053
 National Consumer Price Indices and Rates of Inflation	2775
 National Council for Prices	11380
 Nepal Stock Market Price Prediction	11265
@@ -150,7 +179,7 @@ Overall Producer Price Index	11152
 POST-PAID DATA PRICES	11211
 PREPAID DATA PRICES	11211
 PRICE	11252,1143
-PRICES	962,10249
+PRICES	962,10249,1849
 PRICING RULES OR STANDARDS	5872
 PRICING RULES OR STANDARDS’’. Amendment	5872
 PRICNAC	3157
@@ -158,8 +187,10 @@ PS-6 Spectrum Pricing PS-7 Clear	11857
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36
+Price Adjustment Formula	13185
 Price Changes	2775
+Price Developments	13060
 Price Developments Consumer	11131
 Price Developments Inflationary	11134
 Price Eswatini Electronic Communications Services of Data	12395
@@ -169,16 +200,24 @@ Price Index CRDP Comprehensive Rural Development	11261
 Price Index PPL Private Pilot License	2775
 Price Information Capital Revenue	3583
 Price K10	22
+Price Name of Bidder	13185
+Price Negotiation Committee Established	12912
 Price Proposal	11209
 Price Proposal Requirement Annexure B	11240
+Price Schedule	13185
+Price Schedule Forms	13185
 Price Schedule. Question	7987
+Price Schedules	13185
 Price Stability Average	11134
 Price Stability Financial Stability KPI	11131
 Price Stability Financial Stability Sustainable Income	11131
+Price Stabilization Fund	13122
 Price Statistics	11237
+Price Statistics Section	12962
 Price Transformation	12395
 Price Waterhouse Coopers	1814
 Price Waterhouse and Coopers	1814
+Price and Completion Schedule	13185
 Price and Melon Mobile	10537
 Price and Preferential Points Assessment	11240
 Price and Specific Goals	11209
@@ -190,15 +229,16 @@ PriceWaterhouseCoopers	6409
 Priced	6690
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Other Charges	12629
 Prices and Other Charges Act	12535
 PricewaterhouseCoopers	6893
 PricewaterhouseCoopers Zambia	2240
-Prichard	11133,1236
-Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204
+PricewaterhouseCoopers. The Integrated Annual Report	13133
+Prichard	11133,1236,579
+Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266,204,37,31
 Pricing Mechanism	1828
 Pricing Power	12389
 Pricing Requirements Completion	7266
@@ -209,7 +249,7 @@ Pricing Schedule and Appendix B1	7266
 Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing for Data Protection Training	2987
-Producer Price Index	2775,8377,106
+Producer Price Index	2775,8377,106,1704
 Producer Price Index SARB South African	11258
 Producer Prices	2775
 Producer Prices Index	2775
@@ -232,6 +272,7 @@ Residential Property Price Index Practical Compilation	11286
 Residential Property Price Index Residential	11286
 Residential Property Prices	2775,8511
 Residential Property Prices Indices	11286
+Resources and Energy Multi-Year Price Determination Public	12969
 Retail Fuel Price Deviation	1828
 Revised Raw Water Pricing Strategy	8599
 Rising Prices and Regulatory Scrutiny Starlink	4601

@@ -4,6 +4,7 @@ Benjamin Wise HSFF. Using	12379
 Board HIS Health Information System HSNP	2775
 CD HS	11350
 Chief Executive Officer of HSC Systems Limited	12084
+ENCOURAGE LOCAL PRODUCTION HS Code Description	13122
 Feldspar of HS Code	6921
 Fraser HS	10784
 Fraser HSF	12379
@@ -11,7 +12,9 @@ GRM HE HSNP IDREA ILO INAMET	10763
 HOD Head of Department HSRC Human Sciences	11224
 HS Code	6921
 HS Code Description Industrial Development Levy	6921
+HS Code Description Rate	13122
 HS Heading	6921
+HSAs and Senior HSAs	13196
 HSBC Bank Plc	12252
 HSBCZAJJ	12252
 HSC CHAIRPERSON	12293
@@ -25,10 +28,15 @@ HSPSP	11380
 HSPSP Health System Performance Strengthening Project	11380
 HSRC Ghana	1367
 HSSDP III	7707
-HSSP III	7707,4533
+HSSHCDP	12976
+HSSP III	7707,4533,926
 HSSP III Joint Annual Review and DHD	12240
 HSSP V	1261,6446
 HSSP-V	12413
+HSSPIII	13166
+HSSPIII M&E	13166
+HSSPIII One Plan	13166
+HSSPIII TWGs	13166
 HSTP-II	1219
 Heading HS Code	6921
 Heading HS Code No. Description Unit	6921
@@ -47,6 +55,7 @@ Hsueh-Li Wang	11502
 IATI. Senegal HSS	155
 IBBS HSH	966
 ISIC and HS	236
+Information System HSSHCD Health System Strengthening	12976
 Limited HSM Hardware Security Module	11952
 Liquefied Petroleum Gas Smart Meters of HS	6921
 Lloyds and HSBC	9832

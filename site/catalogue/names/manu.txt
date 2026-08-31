@@ -31,6 +31,7 @@ Body Manual Operacional POP	12797
 Broadcasting X X X Manufacture of ICT	236
 Brochura Manual de Utilizador Funcionalidades Inscrição	11893
 Burn Manufacturing	4972
+C. Manufacturing	13060
 CAFCA Builds Regional Manufacturing Reach Kansanshi	6011,985
 CERC Manual and Emergency Page	10964
 CHIS Implementation Manual	12255
@@ -70,6 +71,7 @@ Deputados João Manuel Gonçalves Lourenço	11365
 Design Engineering and Manufacturing Solutions	3760
 Development Objective PIM Project Implementation Manual	11549
 Device Manufacturing	3487
+Devices Manuals	13185
 Digital Infrastructure and Advanced Manufacturing	6480
 Digital Rights Manual for Beginners. Il	10642
 Dionísio Manuel da Fonseca	5305
@@ -79,6 +81,7 @@ Draft Operations Manual	3678
 E FORMAÇÃO Manuel Cordeiro	10757
 Economia Dionísio Manuel da Fonseca	5305
 Economic Inclusion PIU Project Implementation Manual	10964
+Effectiveness OEM Original Equipment Manufacturer OOB	13185
 Electrical and Manufacturing Engineering	12178
 Emiliano Manuel Tchicuelombe	10753
 Enterprise Surveys Manual and Guide	10862
@@ -111,8 +114,11 @@ GRM Manual	12253
 GRM Manual Frequency Every	11905
 General Manuel H	9399
 Good Manufacturing Practices	10776
+Goods Manufactured	13185
+Goods Manufactured Outside the Purchaser's Country	13185
 Google and Intel Enable Real-time Manufacturing Operations	4434
 Gouvernement ouvert Manuel	1984
+Government Corporate Identity Manual	12971,11
 Government Digital Service. Service Manual	11216
 Government Digital Service. Service Manual. Available	11216
 Government Finance Manual	1828
@@ -174,7 +180,9 @@ Luanda LUZIA MANUEL DE OLIVEIRA	10751
 Luanda Luanda CATARINA MANUEL MARIA	10751
 Luanda MANUEL RODRIGUES AGOSTINHO	10751
 Lunda-Sul ENGRÁCIA MANUEL ADÃO	10751
+M Manufacturing	13093
 M&E Manual	11525
+MANUAL AGE TO DIGITAL AGE	13251
 MANUAL DE PROCEDIMENTOS DAS REPARTIÇÕES FISCAIS	11435
 MANUEL	10751
 MANUEL CHANG Third Parties	1829
@@ -194,7 +202,7 @@ Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592
 Manual Checks	9123
 Manual Load Reduction	11953
 Manual POM Procurement Plan PP Purchasing	11855
@@ -261,16 +269,23 @@ Manufac- Electricity Construc- Wholesale Accom- Transpor-	2775
 Manufactur- Electricity Construc- Wholesale	2775
 Manufacture	236,2539,8377
 Manufacture of Non-alcoholic	11152
-Manufactured	7204
-Manufacturer	11976
+Manufacture's Authorizations	13185
+Manufactured	7204,5929,52
+Manufacturer	11976,1209
+Manufacturer Authorizations Form	13185
 Manufacturer C1	12256
+Manufacturer Equipment	13185
 Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
+Manufacturer Verify	13185
+Manufacturer's Authorization	13185
+Manufacturer's Authorization Form	13185
+Manufacturer. The Bidder	13185
 Manufacturers	236,1752,1663,4225,413,487,1713,1368,519
 Manufacturers Association of Nigeria	11866
 Manufacturers of AI	3651
 Manufacturer’s Suggested Resale Prices	11036
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62
 Manufacturing Accommodation	5247
 Manufacturing Cyber Security	3760
 Manufacturing D3uring	11152
@@ -293,6 +308,8 @@ Manufacturing Water	12445
 Manufacturing World Osaka	3760
 Manufacturing and Access	789
 Manufacturing and Construction	12399
+Manufacturing and Digitalisation	13055
+Manufacturing and Digitilisation	13055,5
 Manufacturing and Industrial Development Transformation AI	4528,7984
 Manure	12253
 Manuscript	5349,2672
@@ -305,8 +322,9 @@ Maria Manuela	12800
 Marisa Manuel	6709
 Maroc Manuel	747,1
 Merveille Manuella Ngoufack Tsafack. Avant	2513
-Mining and Manufacturing	4528
+Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
+Mining and Manufacturing. The Plan	13122
 Mining and Quarrying Manufacturing	12445
 Mining and Quarrying Manufacturing Micro	12445
 Mining and Quarrying Manufacturing Utilities Services	12445
@@ -315,6 +333,7 @@ Mining and Quarrying and Manufacturing	12445
 Minister Manuel Gomes da Conc	9399
 Ministry of Health Data Governance Manual	3861
 Modernizing Mining and Manufacturing	11221
+Mr. Pedro Manuel Moreno	13042
 Municipal Grants Manual	11855
 NDGC Standard Operating Procedures Manual	3861
 NEEDS MANUAL CLIP BEFORE PROMOTION. HTTP-200	7986
@@ -337,7 +356,7 @@ Operations Manual	8840,2685,330
 Ops Manual	12440
 Organização Mundial da Saúde. Manual	10780
 Original Design Manufacturer	12264
-Original Equipment Manufacturer	10721,488
+Original Equipment Manufacturer	10721,488,2032
 Original Equipment Manufacturers	5245,5476,494
 Oslo Manual	10421
 PB Manual	10829
@@ -366,6 +385,7 @@ Procedures Manuals	11525
 Processing Manually	10814
 Processo de Alteração de Manuais de Utilizador	12021
 Procurement Manual	10768,757,381
+Production and Marketing. Tourism and Manufacturing Sector	13122
 Prof. Alexander Ansah Manu	9536
 Prof. Doutor Manuel Guilherme Júnior	9694
 Program Operation Manual	10870
@@ -406,6 +426,7 @@ Segundo Manuel Guilherme Júnior	8827
 Services Manufacturing	10856
 Simplificado Online Manuais de Utilizador Relatório	12021
 Size Sector Size Manufacturing	12445
+Skill School for Apparel Manufacturingʼ	12979
 Smart Manufacturing	958
 Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 Software as a service. Manuel	1984
@@ -426,8 +447,10 @@ Tashinga Ryan Manunure	12478
 Tax Dispute Procedures Manual	12500
 Taxa de Manutenção Rodoviária	12018
 Technical Evaluation for PUE and Manufacturing	12195
+Technical Manual Version	12978
 Technical Notes and Manuals	10997
 Terhadap Manajemen Sumber Daya Manusia	7759
+Training Manuals	13185
 Trevor Manuel	562,9406
 Type Manual	11855
 Técnica Dionísio Manuel	10757

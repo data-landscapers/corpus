@@ -25,12 +25,15 @@ BU CLA Database ID RW.027	860
 BU CLA Database ID SN.027	647
 BU CLA Database ID UG.037	1089,61
 Bench Database Exclusive Features Roadmaps Deep	9629
+Body The Global Findex Database	13084
 Briter Bridges Database	12376
 Briter Bridges Database62	12376
 CENTRAL SUPPLIER DATABASE	11240
 CHAPTER IX PROTECTION OF CRITICAL DATABASES	11179
 COVID-19 Tracing Database	9969
+CRVS System and Database No Weaknesses	13005
 CSD Central Supplier Database CSIR Council	5533
+Central Database CMS Adjudication Print Job	13005
 Central Supplier Database	11209
 Central Supplier Database DG Director General	11250
 Central Supplier Database Number	11252
@@ -43,28 +46,34 @@ DATABASE	6423,4352
 DATABASE.CART	1009
 DATABIT LIMITED Data Controller INST-5766979ABB3 NAIROBI	7167
 DATABIT LIMITED Data Processor INST-5766979ABB3 NAIROBI	7167
+DB2 Database	13185
 DCAF Legal Databases	0
 DHIS2 Database Responsibility for Data Collection	11417
 DataBank	10714
 DataBreachToday	3279
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77
-Database Administration	9437
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77,376,11,88,26,6,34
+Database Activity Monitoring	13053
+Database Administration	9437,3600
 Database Administrators	6832
 Database ID	6423
 Database Maintenance	11129
 Database Management	11129,1020
 Database Management Department	7159
+Database Management System	13037
 Database Management and Administration	12345
 Database Manager	11860
 Database Managers	11860
 Database Managers and Analysts	11860
 Database MySQL	2674
+Database RDMA Remote Direct Memory Access	13185
 Database Schema	6423
+Database Server	13037
 Database Size	9124
 Database Type N	9124
 Database Utilisation	12370
 Database Verification	2307
+Database of Information Technology	12982
 Database-heavy	6432
 Database. Retrieved	1243
 Databases	970,1548,8099,97,1447
@@ -97,11 +106,13 @@ GSMA Tax Database. Côte	10932
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835
 Global Household Energy Database	11572
 Global Innovation Index Database	10846
 Global Off-Grid Solar Market Report Database	12191
+Global Tax Expenditure Database	12948
 GovTech Projects Database	11867
+HRD Database	12972
 ICASA Database	11259
 ICT Indicators Database	1248,8511,2585
 ICT Regulatory Database	11529
@@ -118,9 +129,11 @@ Incident Database	9968
 Indonesia’s Unified Database of Beneficiaries	11133
 Industrial Statistics Database	10969,926,264,328
 Infrastructure and Database	11129
+Initial of Software Development and Database Administration	13037
 Installers Database Application Forms	12515
 Integrated Database Development	12165
 Integrated Personnel Payroll Database	12254
+Integration Layer CRVS Database BID	13005
 Intelligence Database	1000
 Interpol International Child Sexual Exploitation Database	12628
 Investments AVCA’s Venture Capital Database	4972
@@ -129,14 +142,17 @@ Local Addressing Database	11129
 MAISHA INTEGRATED DATABASE	12165
 Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
+Malawi Business Registration Database	12906
 Mongolia's Integrated Household Information Database	11133
 Multilateral Surveillance Mechanism Database	7
 Multiple Databases	6423
 NCBI Databases	12255
 NEWS SMS DATABASE	11251
+NRB Database	13099
 NUMBEO Database	11863
 National Address Database	11129
 National Addressing Database	11129
+National Citizen Database	12917
 National Database	5920,4360
 National Database for Checking Identification	12389
 National Education Database	11860
@@ -174,8 +190,10 @@ Recruitment Database National Teaching Awards Register	11241
 Registry Database	10762,1627
 Rep. Zambia Register VIZ Database	10714
 Research Library Databases ABCD Indexed	12467
+Service IBM DB2 IBM's Database	13185
 Seychelles National Population Database	10714
 Smart National Transport Databank	10603
+Software Development and Database Administration	12961,76
 Stears Funds Database	8612
 TERRORISTS WITH NIMC DATABASE	6871
 Tanzania National ID Database	10714

@@ -1,10 +1,13 @@
 A-SEAT Audit Management Information System	9680
 A19 National Automated System	10714
 A19 Zimbabwe National Identification System	10714
+ABIS Automated Biometric Identification System AfCFTA	13080
 ABSTRACT Health Information Systems	10780
+ACB Chief Systems Analyst	13001
 ACCOUNTABILITY United Nations System Organizations	1243
 ACHPR Recommendations Tracking Database System Guidelines	8485
 ACKNOWLEDGEMENT Education Management Information System	11860
+ACS Alien Control System Covid-19 Coronavirus	12947
 ACTS BUSINESS SYSTEMS LIMITED Data Processor	7167
 ADAPTIVE SYSTEMS	961
 ADDITIONAL REGULATORY REQUIREMENTS FOR PAYMENT SYSTEM	12374
@@ -35,7 +38,11 @@ APEX PIPING SYSTEMS LIMITED Data Controller	7167
 APP System	11986
 APPROVES THE NATIONAL PAYMENT SYSTEM LAW	12847
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Exemption System	13042
+ASYCUDA New Generation Customs Management System	13042
+ASYCUDA System for Performance Measurement	13042
 ASYCUDA World System	7206
+ASYPM The Automated System for Performance Measurement	13042
 AU-EU Space Partnership Revolutionises Weather Systems	11283
 AUTHORISATION AS A SYSTEM PARTICIPANT	12374
 AUTO PARKING SYSTEMS LIMITED Data Controller	7167
@@ -56,12 +63,15 @@ Accounting System BASA Banking Association of South	11261
 Accounting System CBS Case-based Surveillance NHISSA	396
 Accounting and Financial Reporting System Standards System	11955
 Accra Intelligent Transportation System Phase	636
+Accreditation System	13060
 Acronyms ABIS Automated Biometric Identification System	12241
 Act GCIS Government Communication and Information System	11188
+Action Plans and Application Systems	12961
 Active-active Systems	11952
 Adaptive Governance of Social-Ecological Systems	11006
 Adaptive Management Systematic	4528,7984
 Adaptive Safety Net System	10763
+Adaptive Safety Nets and Delivery Systems	12980,131
 Adaptive Social Protection System	10763,5
 Adaptive and Cognitive Systems	11336
 Added Tax Fiscalisation System	11976
@@ -69,12 +79,15 @@ Addressing System	11129
 Addressing and Postcode Systems. The Kingdom	12395
 Adds the Elections Management System	7042
 Administration DRS Deeds Registration System DRTE	11261
+Administration System NamRA Namibia Revenue Agency	12951
 Administration and Institutional Systems	408
 Advanced Computer Science and Information Systems	226
 Advanced Electronic System for International Trade	12389
 Advanced Passenger Information System	4102
 Advanced Systems	4693
+AfDB's Environmental and Social Systems Assessment	13217
 Afreximbank Le Pan-African Payment and Settlement System	8556
+Africa GreenCo Battery and Energy Storage System	12937
 Africa National Broadband Mapping Systems	1528
 Africa's Agri-Food Systems	8755,1856
 Africa's Core Systems Complete	6593
@@ -83,7 +96,9 @@ Africa. Association for Information Systems AIS Electronic	1248
 Africa. The Global System for Mobile Communications	7135
 AfricaNenda's State of Inclusive Instant Payment Systems	8008,857
 AfricaNenda. State of Inclusive Instant Payment Systems	11138
+African Internet Exchange System Project	12904
 African Journal of Information Systems	8856
+African Multi-Hazard Early Warning and Action System	12977
 African Payment System	11960
 African Payment Systems	6938
 African Payment Systems First	6938
@@ -110,6 +125,7 @@ Airport Management Information Systems	5883
 Alarm Systems	11269
 Alert and Response System	12003
 Algorithmic Bias Systematic	12675
+All Management System	13095
 Alternative Energy Trained Solar PV System	12515
 Analysis System	7988,4015
 Analysis of Education Systems	11905
@@ -128,16 +144,21 @@ Animal Disease Notification and Investigation System	8183
 Animal Identification and Traceability System	11836
 Annual System Losses	12256
 Anti-Corruption Development Services Systems	11224
+Anti-Corruption and Accountability Systems	13080
+Appetite Percentage System Uptime Target Actual	13053
+Application Programming Interface ASYCUDA Automated System	13042
 Applications and Information Systems	10355
 Appointment Booking System BAC Bid Adjudication	11218
 Appointment Booking System BACM Biometric Access	5533
 Approve Payment System Vision	10767
+Area ASYCUDA Automated System for Customs Data	12951
 Armed Services Integrated Information System Establishment	246,92
 Artificial Intelligence Enters the Justice System	11641
 Artificial Intelligence System Lifecycle	2958
 Artificial Intelligence Systems	2958
 Artificial Intelligence Systems AI	2958
 Asseco Data Systems	8262
+Assessing System Integration and Coverage	13005
 Assessment System SITA State Information Technology	11218
 Assessment of Angola Public Procurement System	9399
 Assistant Director Payment Systems Development	12364
@@ -150,8 +171,9 @@ Audit Court System Allows	11939
 Audit Management Information System	2112
 Australian Government's Digital ID System	7981
 Authority. Quality Management System	3651
-Automated Biometric Identification System	2073,1342,2118
+Automated Biometric Identification System	2073,1342,2118,7472
 Automated Biometric Identification System ACSA Airports	5533
+Automated Biometric Identification System ADR Assistant	13005
 Automated Fingerprint ID System	12337
 Automated Fingerprint Identification System	10812,1415,110
 Automated Fingerprints Identification System	12165
@@ -160,7 +182,11 @@ Automated Payment System Plus	3679
 Automated Payment Systems	12270
 Automated Records Management Systems	12325
 Automated Spectrum Management System	5390
-Automated System for Customs Data	969,8976,2441
+Automated System for Customs Data	969,8976,2441,570,86,11
+Automated System for Customs Data ASYCUDAWorld	13042
+Automated System for Customs Data BMS	13053
+Automated System for Customs Data Why ASYPM	13042
+Automated System for Relief Emergency Consignments	13042
 Automated Trading System	10
 Automated Transfer System	4915,1231
 Automated Transfer Systems	12364
@@ -192,6 +218,7 @@ BITCORE SYSTEMS LIMITED Data Processor INST-922355BDB5C	7167
 BITITEC SYSTEMS	7167
 BLOX Content Management System	4261
 BMCS Biometric Movement Control System CA	5533
+BMS Electronic Border Management System	12947
 BNA's Payment System	10767
 BOB MORGAN SYSTEMS LIMITED Data Controller	7167
 BOB MORGAN SYSTEMS LIMITED Data Processor	7167
@@ -216,6 +243,7 @@ Bank Supervision Application System Version	11131
 Bank of Namibia’s National Payment System	10306
 Bank of Tanzania’s National Payment Systems Annual	8888
 Bank of Zambia Retail Payment Clearing Systems	6938
+Bank's Systematic Tracking of Exchanges	13017
 Banking System Opens Direct Yuan	9387
 Banks Lead While Health Systems Lag	6212
 Bank’s Integrated Safeguard System	11863
@@ -224,11 +252,12 @@ Based Management System	12214
 Baseline Systems Assessment Report	12138
 Baseline Systems Assessment Report. Nairobi	12138
 Basic Accounting System	12868
-Battery Energy Storage System	12576
+Battery Energy Storage System	12576,484,168
 Battery Energy Storage System Sources	11953
 Battery Energy Storage Systems	12256,143
 Battery Energy Storage Systems The Kenya	12256
 BeiDou Navigation Satellite System	5288
+Benefits of ASYCUDA New Generation System Architecture	13042
 Benin's Agency for Information Systems and Digital	3112,102
 Benin's Information Systems and Digital Agency	3299
 Benin's State Information Systems Security Policy	3214
@@ -240,26 +269,35 @@ Bimodal Voter Accreditation System	8987,403,659,5,200
 Bio Surveillance Radar System Rwanda	4167
 Biodiversity Tracking System	11721
 Biomedical Engineering Systems and Technologies	10780
+Biometric Fingerprint System	12984
 Biometric ID Systems From Yacouba Mai	4997
+Biometric Identification System AfCFTA African Continental	13095
 Biometric Movement Control System	11986
 Biometric Movement Control System DPW&I Department	11986
 Biometric Systems	6432
 Biometric Voter Registration System	1816
 Biometrical System	34
+Biophysical and Ecological Monitoring System	13144
 Biosecurity Laboratory Systems Commodities HRH FHWs	4301
 Births and Deaths Registration System	5634,1,6962,42
 Births and Deaths Registration System MOH	12639
 Births and Deaths Registration System The Births	12639
 Births and Deaths Registration System. The Labour	5250
+Blantyre Malawi Management System	13068
+Block Management System BOBJ	13053
 Blood System	4153
 BoG Payment Systems Department	1384
 BoZ Director Payment System. The Participants	12364
 Board HIS Health Information System HSNP	2775
+Body Community Systems Foundation	13143
+Body GOVERNMENT STRENGTHENS LAND REGISTRATION SYSTEM	13213
 Body IDENTITY MANAGEMENT SYSTEMS ANALYSIS	12533
 Body Our Projects Building Smarter Systems	12728
+Body S27 THE NATIONAL PAYMENTS SYSTEM	12938
 Bolivia Unique Identification Registration System	10714
 Bonus System	11939
 Book and Pay System	12476
+Border Control System	12917
 Botswana Animal Information and Traceability System	7236
 Botswana Interbank Settlement System	12537,42
 Botswana Interbank Settlement System The Bank	12579
@@ -279,6 +317,7 @@ Broadband Systems and Oman Data Park Sign	6388
 Broadband Wireless Access Systems	736
 Budgeting System The Government of Mozambique	4260
 Building Institutions and Systems	7951
+Building Management System	13185
 Building Permit Management Information System	3243
 Building Permit System	3042
 Building Robust Systems	1000
@@ -289,6 +328,8 @@ Bureau Clearing System	6938
 Burkina Faso Introduces Digital System	5517
 Busan Port Community System	5993
 Business Continuity Management System	2350,8781,3
+Business Continuity Management Systems	12961,76
+Business Continuity Management Systems BIPA	12961
 Business Intellegence System	1789,1,1,1
 Business Intelligence System and Data Service Center	1793,1413,3881
 Business Needs The Core Internal Systems	12493
@@ -318,13 +359,20 @@ CEO of Nexus Core Systems	3049
 CEO of ReCollect Systems	4429
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Controller	7167
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Processor	7167
+CITES ASYCUDA Electronic Permit System for CITES	13042
+CITES System Online	13042
 CIVIL REGISTRATION AND VITAL STATISTICS SYSTEM	12338
 CLEARING OR SETTLEMENT SYSTEMS	12374
+CMIS Client Management Information System	12976
+CMS Central Management System COMESA Common	13005
+COMESA Virtual Trade Facilitation System	13053
 COMESA’s Regional Payment and Settlement System	10372
+COMMENCEMENT OF PAYMENT SYSTEM MANAGEMENT ACT	12943
 COMPLIANCE REQUIREMENTS FOR PAYMENT SYSTEM OPERATORS	12374
 COMPUTER INFORMATION SYSTEMS KENYA LIMITED Data	7167
 CONTINUOUS COMPLIANCE MONITORING SYSTEMS	3861
 COORDINATION COMMUNITY HEALTH SYSTEMS	11586
+COSOMA and COMESA Virtual Trade Facilitation System	13053
 COVERED DATA SYSTEM ACCESS L. Purpose	3972
 CRAFTED SYSTEMS LIMITED Data Processor INST-240435DEAF0	7167
 CREATING LEGITIMATE AND TRUSTWORTHY DATA SYSTEMS	961
@@ -332,8 +380,10 @@ CRIMINAL ATTACK SYSTEM FAULT HUMAN ERROR	2709
 CRS Civil Registration System	12367
 CRVS AND ID MANAGEMENT SYSTEMS	12327
 CRVS Namibia e WEB.pdf CENTRE OF EXCELLENCE for CRVS Systems	12327
-CRVS System	12138,81,148
+CRVS System	12138,81,148,638
+CRVS System Commitment and Good	13005
 CRVS System MINALOC	12413
+CRVS System and Database No Weaknesses	13005
 CRVS Systems	1345,1,10792
 CRVS Systems Snapshot	441
 CRVSID SYSTEM IN NAMIBIA QUESTIONNAIRE UNICEF	12337
@@ -356,7 +406,8 @@ Capeverdean Educational System	11939
 Capital CMS Content Management System CSS	236
 Carbon Pricing System	12389
 Card Russian Federation Automated System	10714
-Case Management System	5642,3032,304,805,2606,221,83
+Cargo Tracking System	13053
+Case Management System	5642,3032,304,805,2606,221,83,243,144,15
 Case Management System New Digital Platform	6806
 Case Management System PSC Project Steering	1867
 Categoria de Consumer Systems for HealthCare and Wellbeing	2816
@@ -370,6 +421,7 @@ Central Bank of Nigeria. Payments System Vision	11138
 Central Bank’s Payments System Vision	11138
 Central Billing Systems	3735
 Central Electronic Ticketing System	8888
+Central Management System	13005
 Central Securities Clearing System	10
 Central System	10714
 Central Watch and Management System	259
@@ -400,9 +452,10 @@ CitizenApp Data Interoperability System	3250
 Citizenship ID Card Issuance and Management System	10714
 Civil Protection System	10763
 Civil Registration Management and Vital Statistics System	2274,5
-Civil Registration System	10991,1160,186,30,46,259
+Civil Registration System	10991,1160,186,30,46,259,272,15
 Civil Registration System Mozambique	12167
 Civil Registration Systems Development	10822
+Civil Registration and Identity Management Systems	13095
 Civil Registration and Social Protection Systems	444
 Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46
 Civil Registration and Vital Statistics Systems	11133,1280
@@ -411,7 +464,8 @@ Claims System	11230
 Clearing and Settlement Systems	12374,297
 ClearingPost Systems Operational	5691
 Client Information and Registration Tracking Systems	318
-Client Management Information System	5126
+Client Management Information System	5126,7818,78,165
+ClimSA Satellite System Upgrade	12988
 Climate Smart Education Systems Initiative	12175
 Climate-Adaptive Malaria Chemoprevention Targeting System	11589
 Climate-Smart Education Systems Initiative	12504
@@ -419,6 +473,7 @@ Clinic Information Management System	12569
 Clinical Decision Support System	9855
 Clinical Decision Support Systems	9855
 Clinical Patient Management System	10188
+Cloud Systems Engineer	13185
 Code SO System Operator SSEG Small-Scale	11228
 Code System Countries	6666
 Code Systems	6666
@@ -426,25 +481,33 @@ Code Systems Terminology	6666
 Cold Aisle Containment System	12253
 Collaborative Support for Health Systems Strengthening	97
 Colombia Civil Registry Information System	10714
+Commencement of Payment System Management Act	12943
 Commercial Registry Information System	11939
 Commercial Systems	775
 Commissioner for Refugees VAS Visa Adjudication System	5533
 Common ID System	10991
+Common Internet File System CLI Command	13185
 Communication Systems Administration	9437
 Communication World Geodetic System Management	1009
 Communities Built and What the System Must	6947
 Community Based Information System	4202
 Community Health Data Systems Africa Rockefeller	392
 Community Health Infonnation System	4301
-Community Health Information System	4349,7897,9
+Community Health Information System	4349,7897,9,905,36
 Community Health Management System	4217
 Community Reporting System	4153
-Community-Based Health Information System	538,21,4567
+Community System Strengthening Outcome Results	12939
+Community Systems Foundation	13143
+Community Systems Strengthening	12939
+Community-Based Health Information System	538,21,4567,7896
 Compatibility Operating Systems	34
 Compensation and Valuation System	2355
-Complaint Management System Report	12241
+Complaint Management System	13095
+Complaint Management System Report	12241,839,15
 Complaints Management System	12693
-Complex Systems	2948
+Complex Systems	2948,9978
+Components of National Statistics System	12899
+Comprehensive Digital ID and Verification System	13080
 Comprehensive Integrated Digital Health Information System	7707
 Comprehensive Integrated Health Information System	2709
 Computer Information Systems	4896,419
@@ -457,6 +520,7 @@ Computer Systems Organization	8605
 Computer Systems and Cyber Security	10227
 Computerisation of Records Management System	12597
 Computerised Learner's Licence Testing System	12476
+Computerized Transit System	13042
 Computing Systems	4439,4021
 Congo's National Information Systems Security Agency	3096
 Connecting Healthcare Systems Healthcare	12458
@@ -514,7 +578,7 @@ Credit Guarantee Scheme Application System	11134
 Credit Information System	11755
 Credit Reference System	7763
 Credit Reporting System	12701
-Crime Management System	8286
+Crime Management System	8286,4667
 Criminal Information System Simplified	11939
 Criminal Justice System	11270
 Critical Systems	11952
@@ -526,6 +590,8 @@ Customer Energy Management Systems	11269
 Customer Enquiry Management System	12041
 Customer Management System	12358
 Customer Service System	11939
+Customs Declaration System	13042
+Customs Harmonised System Codes	13108
 Customs Information System Sub-Saharan Africa World	11136
 Customs Management Information System	10785
 Customs Management System	12539
@@ -556,7 +622,8 @@ DES REGLES DE SECURISATION DES SYSTEMES	1801
 DES SYSTEMES D'INFORMATION LE PRESIDENT	10903
 DES Scope System Type Binary	7221
 DES Scope System Type Nominal Identifies	7221
-DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73
+DETERMINATION UNDER PAYMENT SYSTEM MANAGEMENT ACT	13206
+DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73,638
 DEVICES TO THE ELECTRONIC INVOICING SYSTEM	4699
 DG Director-General Advance Passenger Processing System	11986
 DHIS District Health Information System	2775
@@ -582,6 +649,7 @@ DU SYSTEME STATISTIQUE NATIONAL Article	785
 DYNAMIC DATA SYSTEMS LIMITED Data Controller	7167
 DYNAMIC DATA SYSTEMS LIMITED Data Processor	7167
 DYNAMIC INTERGRATED SYSTEMS LIMITED Data Processor	7167
+Dalet Media Asset Management System	12982
 Data Acquisition SHS Solar Home Systems	12399
 Data Back-up System	7988
 Data Center Cabling Systems Introduction Structure	9123
@@ -594,8 +662,9 @@ Data Management System	12227
 Data Management Systems	12551
 Data Protection RATING SYSTEMATIC STAGE Malawi	12214
 Data Quality Monitoring System	11553
-Data Systems	3972,181,1,11,2,35,15,43,41,1051,1861,2186,2797
+Data Systems	3972,181,1,11,2,35,15,43,41,1051,1861,2186,2797,820
 Data Systems Infrastructure Ready	12325
+Data Systems Must Reflect Diversity	13016
 Data Systems Roadmap	4260
 Data Systems Roadmap. II. The U.S	4260
 Data Systems Strategic Investments	4301
@@ -604,19 +673,25 @@ Data Systems and Digital Health The U.S	4349
 Data Warehouse and Business Intelligence System	33
 Data and Evidence Education Management Information System	11907
 Data and Information Systems	10763
+Database Management System	13037
+Death System	13005
 Deaths Registration System	12639
 Debt Management System	10785
 Debt Management System I-13	10785
 Debt Management System PFM Public Financial	11863
+Decentralised Agriculture Extension Services System	13060
 Decision Support System	5097
 Decision Support Systems	11156
 Decision Systems Pty Ltd	11250
+Declaration Processing System	13042
 Deduplicator. Systematic Reviews	8606
-Deeds Registration System	1810
+Deeds Registration System	1810,11152
+Deeds Registration and Information Management System	12962
 Deeds Registry Systems and Databases	11260
 Define High-Risk AI Systems	12675
 Defining AI and Automated Systems	6442
 Definition ABIS Automated Biometric Identification System	11986
+Definitions PART II NATIONAL STATISTICS SYSTEM	12899
 Delivering Education System Transformation	12175
 Delivery System	4091
 Delivery System Strengthening and Project Management	11988
@@ -627,6 +702,7 @@ Denial of Service DNS Domain Name System	6946
 Department of Business Information Systems	2093
 Department of Information System	9653
 Department of Information Systems	5349
+Departments and Agencies MISO Management Information System	13005
 Deploy National ID System	2398
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
 Description The Payment System and Financial Inclusion	175
@@ -635,16 +711,21 @@ Description USAID Senegal Health Systems Strengthening	155
 Description USAID Tanzania Health Information Systems	218
 Design Participant Support Systems	12675
 Designated Seismic System	9123
+Designation of Systems	12938
 Designing Culturally Aligned AI Systems	6948
 Designing Culturally Aligned AI Systems for Social	6948
 Develop Public Service Management Information Systems	12453
 Developers and System Integrators	11952
 Developers of Artificial Intelligence Systems	2958
+Development Cooperation Information Management System	13080,15
 Development Office Famines Early Warning Systems	10763
 Development System PM&E Planning	11224
 Development of Angola's Payment System	10767
 Development of Financial Information Systems	12781
+Development of Malawi Election Monitoring Systems	13095
+Development of Malawi Election Monitoring Systems Report	13080
 Development of National Digital Address System	10861
+Development of National Statistics System	12899
 Device School Support System	11857
 Diagnostic of ID Systems	442,10323,10
 Diaspora Integrated Information Management System	5160
@@ -653,7 +734,7 @@ Digital Addressing System	12276
 Digital Addressing System and Address Verification System	8825
 Digital Agro-Climatic Information Systems World Bank	1024
 Digital Certification System	12161
-Digital Community System	8249
+Digital Community System	8249,4975
 Digital Currency Management System	11861
 Digital Data Protection Compliance Management System	9603
 Digital Digital ID System	10714
@@ -661,8 +742,9 @@ Digital Engagement and Advocacy Management System	12241
 Digital Health Information System	10775
 Digital Health Information Systems	11252
 Digital Health Information Systems The EMR	11252
+Digital ID System	13114
 Digital ID Systems	3735,3486
-Digital ID and CRVS System	12241
+Digital ID and CRVS System	12241,839
 Digital Identification System	12146,82,39
 Digital Identification System and Demographic Data	12146
 Digital Identity Management System for Citizens	5862
@@ -690,7 +772,7 @@ Digital Road Violation Monitoring System	12275
 Digital Single Window Business Registration System	9020
 Digital Social Protection Delivery Systems	11133
 Digital System and Technology Requirements	9855
-Digital Systems	9855
+Digital Systems	9855,3062
 Digital Technology Systems	3969
 Digital Transformation of TVET and Skills Development System	9755
 Digital and Data Systems for Health	2678
@@ -717,7 +799,8 @@ Directorate of Information Systems	11858
 Directorates for Information Systems	2321
 Directors of Information Systems	3661,1256
 Disaster Information Management System	11721
-Disaster Risk Management Information System	12241
+Disaster Risk Management Information System	12241,839,15
+Disaster Risk Management Systems	13080
 Discuss Identity System Modernization TUNIS	10521
 Disease Outbreak Surveillance System I	4260
 Disease Surveillance Systems Enhancement Project RIP	11380
@@ -727,6 +810,7 @@ Distribution System Operator. Key	12233
 District Education Management Information Systems Officers	12175
 District Health Infonnation System	4301
 District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160
+District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
 District Health Management Information System	1261
@@ -748,6 +832,9 @@ Driver’s Vocational Card Management System	718
 Driving System Wide Impact	12053
 Driving Systemic Change	11006
 DropByDrop Water Systems	6746
+Duty Waiver and Cargo Tracking System	13053
+Dynamic Delivery Systems	12980,131
+E Systems	12972
 E&S Systems	11905
 E-Cabinet System	9241
 E-Gabon National Health Information System	766
@@ -765,23 +852,27 @@ EAC Cross-Border Payment System Master Plan	7192
 EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734,1547,141
 EAC Cross-Border Payment System Masterplan. Under	7178
 EASTERN SOFTWARE SYSTEMS AFRICA LIMITED Data	7167
+ECESWA Systems	13043
 ECOWAS Payment System and Settlement	6938
 ECOWAS Payment and Settlement System	6938,1128
 EDDLINK TRACKING SYSTEMS LTD Data Processor	7167
 EDEN Information System for Birth Registration INSD	10812
+EDUCATION MANAGEMENT INFORMATION SYSTEMS	12975
 EDUCATION MANAGMENT INFORMATION SYSTEM LIST	11860
 EFFICIENCY OF ANGOLA’S HEALTH SYSTEM	10780
 EHRs. System	8605
+ELECTRONIC INFORMATION SYSTEMS MANAGEMENT ADVISORY COUNCIL	12919
 ELECTRONIC JOURNAL OF INFORMATION SYSTEMS	5349
 ELEVES PAR SYSTEME D'ENCADREMENT ET SELON	10847
 EMIS Education Management Information System	11860
 EMIS Education Management Information System GNI	11552
-EMR System	12379
+EMR System	12379,716
 EMR Systems	11980
 EMS Energy Management System ERR Economic	11549
 ESTABLISHES THE MOZAMBIQUE INSTANT PAYMENT SYSTEM	12296
 EU Health Information and Management Systems Society	1009
 EVALUATION DE LA SECURITE DU SYSTEME	10906
+EXECUTIVE SUMMARY Driving Health Gains and System	13163
 EXECUTIVE SUMMARY The Medium-Term System Adequacy	11228
 Eagle Lion System Technology Group and Tsedey	11741
 Early Warning System	11134
@@ -800,12 +891,14 @@ Economic System Question Revisited	5700
 Economy Foundational ID System	10714
 Ecuador System	10714
 Education Data Systems	12196
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98
+Education Management Information System ERP Enterprise	12917
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
 Education Management Information System F2F	6832
 Education Management Information System NGA National	12151
-Education Management Information Systems	11180,1314
+Education Management Information Systems	11180,1314,481,70,98,61,1
+Education Management Information Systems ENT Ear	12975
 Education Management and Information System	10748
 Education System	3604,7932,321,50
 Education System Capacity	12175
@@ -816,16 +909,20 @@ Education and Teaching System. Figure	10775
 Education and Training System Page	12574
 Educational Management Information System	11860
 Educational Management and Information System	11860
+Effective Governance Systems and Institutions	12987
+Effective Internal Procurement System	13005
 Egypt Egypt ACH System CCAA	6938
 El Salvador Systems	10714
 Elections Management System	7042,5524
 Electoral Registration Information System	12826
 Electoral System The Constitution	12201
 Electoral Technology Systems	12753
+Electronic Beneficiary Management System	12977
+Electronic Border Management System	12947
 Electronic Cargo Tracking System	8278
-Electronic Case Management System	958,5848
+Electronic Case Management System	958,5848,6150
 Electronic Case Management System EMF	958
-Electronic Case Management Systems	12389
+Electronic Case Management Systems	12389,547
 Electronic Certification System	11965
 Electronic Civil Registration and Vital Statistics System	12186
 Electronic Community Health Information System	1219,10554,473,9
@@ -836,20 +933,23 @@ Electronic Deeds Registrations System Act	7278
 Electronic Document Management System	12338
 Electronic Document and Records Management System	3042,9283
 Electronic Fiscal Device Management System	7746
+Electronic Fiscal Device Management System EPZ	13053
 Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic Fiscal System	11976
 Electronic Frequency Information System	7827,23,239,84,668
-Electronic Government Procurement System	8723,3730
+Electronic Government Procurement System	8723,3730,503
 Electronic Government Systems Interoperability Regulation	4180
 Electronic Health Record System Actually	5911
 Electronic Health Records Systems	12581
 Electronic Health System	12025
 Electronic Identification System	5250,385,6962
-Electronic Invoicing System	4699,287,1483,1018
+Electronic Information Systems Management Advisory Council	12919,63
+Electronic Invoicing System	4699,287,1483,1018,5566,69
 Electronic Journal of Information Systems	5349,5377
 Electronic Land Titles With AMLAK System	4596
 Electronic Legal Aid System	11939
-Electronic Logistics Management Information System	1261,11345
+Electronic Logistics Management Information System	1261,11345,581
+Electronic Manifest Management System for Advance Cargo	13042
 Electronic Medical Record Management System	3604
 Electronic Medical Record System I	4260
 Electronic Medical Record Systems	21
@@ -880,7 +980,10 @@ Emergency Dispatch A I System	8283
 Emergency Equity and System Strengthening	11916
 Emirates Emirates ID System	10714
 Emission Trading System	12389
+Enabling Environment for Social Protection Systems	12964
+Endangered Species Management System	13042
 Energy Across Energy Systems	9635
+Energy Storage System Regulatory Guidelines	13054
 Energy Systems	11953
 Energy Systems Department	12178
 Energy Systems RMakopo	11953
@@ -897,27 +1000,36 @@ Enterprise Geographic Information System	3101
 Enterprise Resource Systems	12612
 Entrepreneurship Education and Support System	12786
 Entry Exit System	1525
+Environment for Social Protection Systems	12964
 Environmental Licensing Management System	10470
+Environmental Monitoring System	13185
 Environmental Public Data Systems	7548
 Environmental and Social Systems Assessment	11905
 Environmental and Social Systems Assessment ESSA Franc	11905
 Environmental and Social Systems DLI	10870
 Equatorial Guinea National ID System	10714
-Equiano Cable System	6663,1
-Equiano Cable System and SARSSy	6664
+Equiano Cable System	6663,1,6524
+Equiano Cable System and SARSSy	6664,6524
 Equiano Cable System. The SARSSy	6638
 Equipment Bracing System Equipment	9123
 Equipment and Systems	11265
 Era of Technology. African Journal of Information Systems	11927
 Essential Logistics Management Information System	12508
+Establishment of National Payment System PART	12938
+Establishment of National Registration System	12898
 Establishment of National Statistical System	11851
+Eswatini Education System Capacity Grant	13205
 Eswatini Health System Strengthening	538
 Eswatini Health System Strengthening for Human Capital	559
+Eswatini Livestock Identification Traceability System	12945
 Eswatini National Payment System Vision	11130
 Eswatini's Client Management Information System	12470
+Eswatini's Health Management Information System	13022
 Eswatini's Health System Strengthening for Human Capital	538
 Eswatini's Healthcare Systems Now	12458
+Eswatini's National Management Information System	13016
 Eswatini’s National Payment System Vision	11130
+Eswatini’s Real-Time Gross Settlement System	12922
 EthSwitch. System	12269
 Ethical Impact Assessment of AI Systems	12389
 Ethics of Autonomous and Intelligent Systems	11135
@@ -937,6 +1049,7 @@ Europe Cable System	7329
 European Conference In Information Systems	1009
 European Criminal Records Information System	10979
 European Journal of Information Systems	5349,3888,1919
+European Union Social Protection System	12923
 Evaluation and Maintenance of Data Security System	11956
 Evaluation and Maintenance of Data Security System Article	11956
 Every Monday. Subscribe Related Systems PayShapFPS	5691
@@ -953,6 +1066,7 @@ Expert Systems	2816,5790,2550
 Expert Systems Training	12512
 Experts Denounce Systematic Attacks	6947
 Exploitation and Abuse SENI Health System Support	10829
+Extension Methodology and Systems	13060
 External System Integration	3861
 External Systems	10765,10,1614
 External Systems ID	10775
@@ -980,6 +1094,7 @@ Feature Traditional System	12211
 Federal Supreme Court's Smart Court System	11607
 Fertiliser Information System	8908
 Fiduciary Systems DLI	10870
+File System NOC Network Operating Centre	13185
 Filing System	12185
 Filing Systems	12389
 FinServ Loans Management System	11134
@@ -989,6 +1104,7 @@ Financial Complaints Resolution System	7763
 Financial Management Information System	969,859,8957
 Financial Management Information System GDP Gross	11271
 Financial Management Information System IGC Integrated	34
+Financial Management Information System ISO International	12917
 Financial Management Information System Integrated National	12453
 Financial Management Information System IoT Internet	7548
 Financial Management Information Systems	10785
@@ -1008,6 +1124,7 @@ Fingerprint Identification System DDG	11986
 Finland Finnish Population Information System	10714
 Fire Detection System	593
 Fire Detection and Suppression System	12253
+Fire Protection System	13185
 Fire Suppression System Room	12253
 Firearm Permit System	5323
 First Quarter National Financial Payment Systems	7900
@@ -1017,6 +1134,7 @@ Fiscalisation and Fiscalisation Data Management System	12509
 Fisheries Information System	10112,531
 Fixed Wireless Access System	736
 Fleet Management System Land Use and Development	4126
+Flexible Land Tenure System	12912
 Food System Transformation and Sustainable Financing	11586
 Food Systems	2957,7884
 Food Systems Resilience Program	9609,1025
@@ -1024,6 +1142,7 @@ Food Systems Resilience Programme	9965
 Food Systems Resilience Project	2872
 Food Systems US	2957
 Food and Medication Management System	11939
+Force Meeting and Justice Sector Systems Mapping	13095
 Foreigners Identity Management System	10822
 Foundation for DPI and Digital Legal Identity Systems	3434
 Foundational ID System	10714
@@ -1049,6 +1168,7 @@ GUIDELINES The Human Resource Information System	34
 Gambia Integrated Financial Management Information System	166
 Gambia's National Identity Management System	6941
 Gates Foundation's Inclusive Financial Systems	12466
+Gateway Protocol BMS Building Management System	13185
 Gautrain Rapid Rail Link System	11248
 Gender Marker System	11863
 Gender Marker System Category	11863
@@ -1060,13 +1180,14 @@ General Systems	2948
 General and Complex Systems Theories	2948
 Generation System Adequacy	11228
 Geo-Information Systems	6832
-Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529
-Geographic Information Systems	1222,10719,13,27,380,301
+Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529,573
+Geographic Information Systems	1222,10719,13,27,380,301,245
 Geographic Scope of Payment Systems	6938
 Geographic information system	5785
 Geographical Information System	12369
 Geographical Information System GSMA	958
 Geographical Information Systems	10662,1707
+Geoportal System	13031
 Geospatial Information Systems	11261
 Ghana Agricultural Information and Monitoring System	9561
 Ghana Electronic Procurement System	7457
@@ -1083,7 +1204,10 @@ Ghana’s Payment Systems and Services Act. MTN	8813
 Gigahertz HMIS Health Management Information System	34
 GitHub. Systems	11922
 Global Cybersecurity Index. The Information Systems	5307
-Global Positioning System	1248
+Global Maritime Systems Cloud-Native Platform Goods	13042
+Global Navigation Satellite System	13135
+Global Partnership for Education System Capacity Grant	13204
+Global Positioning System	1248,11887
 Global System for Mobile	10965,1041
 Global System for Mobile Communication	11857
 Global System for Mobile Communication Africa	958
@@ -1097,6 +1221,8 @@ Google Cloud System	12090
 Governance and Information System	899
 Government Accounting and Budgeting System	2576
 Government Assets Management Information System	9492
+Government Commitment System	12962
+Government Commitment System-September	12962
 Government Communication and Information System	1912,7087,2189,155
 Government Communications Information Systems	8999
 Government Information Systems	11184
@@ -1110,6 +1236,7 @@ Government Systems Index	11569
 Government Systems Prototype Showcase	6239,49
 Government Systems and Infrastructure	12453
 Government Tax Administration System State Owned	12500
+Government Unified Messaging System	12917
 Government of Mozambique's Laboratory Information System	4260
 Government-wide Monitoring and Evaluation Systems	11224
 Govt Pushes for Unified Digital Systems	6077
@@ -1127,12 +1254,13 @@ HRMIS Human Resource Information Management System	12663
 HRMIS Human Resources Management Information System	11965
 HSPSP Health System Performance Strengthening Project	11380
 HUMAN RESOURCE INFORMATION SYSTEM STANDARDS	34
-HVAC System	9123
+HVAC System	9123,4062
 Harmonised Commodity Description and Coding System	11258
 Harmonised Commodity Description and Coding System IMF	11258
 Harmonised System	11258,1003
 Harmonized Digital Delivery Systems The UBR	12181
 Harmonized National Management Information System	12197
+Harmonized System	13042
 Head of Systems Administration	2308
 Health Care System	10780
 Health Commodity Logistics Management Information System	4260
@@ -1156,7 +1284,7 @@ Health Information Technology Systems and Quality of Care	10784
 Health Information and Management Systems Society	2948
 Health Institute and National Health Information Systems	10865
 Health Insurance Information System	629
-Health Management Information System	396,581,284,563,1967,411,147,895,3132,2646,1233,46
+Health Management Information System	396,581,284,563,1967,411,147,895,3132,2646,1233,46,621,22,32,220
 Health Management Information System HIMS	1261
 Health Management Information System ICD	12338
 Health Management Information System ICT	5244
@@ -1187,19 +1315,22 @@ Health System Support and Strengthening	10829
 Health System Transformation	4430
 Health System and Health Workforce for Health Equity	10780
 Health System-Level Interoperability	1009
-Health Systems	10780,49
+Health Systems	10780,49,2110
 Health Systems Digital Information	11350
 Health Systems Governance and Human Resources	396
 Health Systems Governance and Human Resources Branch	396
 Health Systems Strengthening	21,11380,1328
 Health Systems Strengthening Plus	155
+Health Systems Strengthening for Human Capital	12976
 Health Systems Strengthening for Human Capital Development	5126
+Health Systems and Services The Malawi Health	13166
 Health Workers Management System	10812
 Health and Demographic Surveillance System	8604
 Health and Demographic Surveillance Systems	8604
 Healthcare Information System	12240
 Healthcare System Failures Cause Chaos	12227
 Healthcare System Transformation	4528,7984
+High Court Human Capital Management System	12920
 High Resistance Grounding System	9123
 High School Certificate System	2783
 High-Level Assessment of Identity Management System	3781
@@ -1222,9 +1353,10 @@ Huduma Namba Identity System	9399
 Hughes Network Systems	6980
 Human Capital Development Must Be Systemic	7548
 Human Capital Information Management System	4612,140
-Human Resource Information System	396,3953
+Human Resource Information System	396,3953,8627
 Human Resource Management Information System	127
 Human Resource Management Information System Human	10870
+Human Resource Management Information System JD	12917
 Human Resource Management Information Systems	10785
 Human Resource for Health Information System	1261
 Human Resources Information System	11974
@@ -1233,23 +1365,26 @@ Human Systems Management	4432
 Humanitarian Assistance Management System	9747
 Hz Size Projection System	34
 IATI. Tanzania Health Information Systems	218
-ICC Complaint Management System	12241
+ICC Complaint Management System	12241,839
 ICT System	1000
-ICT Systems	6936
+ICT Systems	6936,5981
 ICT Systems Challenge	6936
+ICT Systems and Processes	12917
 ID Bahrain National ID System	10714
 ID Card Public Information System	10775
 ID Certification Authority System	1379
 ID Denmark Civil Registration System	10714
 ID Lebanon National ID System	10714
 ID Scope System Type Binary	7221
+ID System	13148
 ID System Caribou	12227
 ID System Challenges for Refugees and Migrants	12227
 ID System Faces Questions Over	10890
-ID and CRVS System	12241
+ID and CRVS System	12241,839,15
 ID4D Diagnostic of ID Systems	442,957
 ID4D-Diagnostic of ID Systems	3781
 IDENTITY SYSTEM In Namibia	12337
+IDs Identity Documents IDS Identification System	12947
 IECMS Integrated Electronic Case Management System	12413
 IEEE Systems Council	8022
 IFMIS Integrated Financial Management Information System	1284
@@ -1263,12 +1398,13 @@ INDICATOR Proportion of Management Information Systems	12453
 INFORMATIK Systematic	9237
 INFORMATION SYSTEM IN MOZAMBIQUE Jose Antonio	12826
 INSTITUTIONAL SOUNDNESS TO SYSTEMIC CONFIDENCE	11138
+INTEGRATED EMPLOYMENT INFORMATION SYSTEM	13037
 INTEGRATED NATIONAL REGISTRATION INFORMATION SYSTEM Madam	12449
 INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
 INTERCONNECTED SYSTEM FOR THE MANAGEMENT	4827
 INTEROPERABILITY AND SYSTEMIC COHERENCE	3861
 INTRODUCTION The Medium-Term System Adequacy Outlook	11228
-IP Surveillance System	12253
+IP Surveillance System	12253,932
 IPM System	11270
 IPP Battery Energy Storage System	11228
 IPRS Integrated Population Registration System	12227
@@ -1278,15 +1414,17 @@ IV. Global Comparative Analysis of AI Systems	11036
 IV. PUBLIC SYSTEMS AND GOVERNANCE	12598
 Identification Management System Analysis of Burkina Faso	10812
 Identification System	2555,5208,2951,1272,160
+Identification System NAMPOL Namibian Police Force	12947
 Identification Systems	1284
 Identification Systems and Digital Services	761
 Identification of Systemic Risks and Vulnerabilities	6938
-Identity Management System	12533,1
+Identity Management System	12533,1,425,46
 Identity Management System Analysis	231
-Identity Management Systems	4677,6145,1505
+Identity Management Systems	4677,6145,1505,816
 Identity Management Systems II. Under	6177
 Identity Management Systems Ltd	6166
 Identity Management Systems Prepared	12327
+Identity Personalization System	12984
 Identity System	2430,883,1465,5997
 Identity System Eswatini National Population Register	10714
 Identity System Management Analysis of Burkina Faso	10812
@@ -1305,11 +1443,15 @@ Immigration System	11986
 Immigration and Citizenship System	5250,7347,15
 Immunisation Information System. Technical Guidance Report	8376
 Immunization Information System	8376
+Impact Based Forecasting and Early Warning Systems	13201
 Impacts Early-Warning System	8202
 Implement National Cybercrime Management System. Facilitate	1777
 Implement the E-QOSSS Outage Management System	12399
-Implementation Capacity and Systems	12214
+Implementation Capacity and Systems	12214,767
 Implementation Partner Lead for Axon Information Systems	3833
+Implementation Plan MIS Management Information System	12964
+Implementation of Application Systems	13037
+Implemented Web Interpol System for Document Management	12984
 Import Tracking System	5505
 Importance of Strengthening Systems of Care and Support	10776
 Important National Addressing System of Kenya	12149
@@ -1319,10 +1461,11 @@ Improve Welfare System Efficiency Mauritius	6458
 Improving Substations System Automation and Security	12358
 Improving the Regulatory System	10776
 Incident Management System	12729
+Incident Response and Management for Systems Hosted	12967
 Incident Response and System Recovery Mechanism	4610
 Incident Response and System Recovery Mechanism A	4610
 Includes the Single External Trade System	11891
-Inclusive Digital ID and CRVS System	12241
+Inclusive Digital ID and CRVS System	12241,839
 Inclusive Financial Systems	7073
 Inclusive Financial Systems and Digital Connectivity	10977
 Inclusive Instant Payment System	3518,736,7,11,10,3,2945,387,2791
@@ -1332,6 +1475,7 @@ Inclusive Instant Payments Systems	2197
 Indigenous Knowledge Systems	1554,5944,1370
 Indigenous Knowledge Systems. Prof Moalosi	12599
 Indigent Register System Various	11231
+Individual Performance Management System	13062
 Indonesia Payment Systems Blueprint	11994
 Industry Dispute Resolution System	11138
 InformAtion System	11332
@@ -1340,17 +1484,21 @@ Information Management Systems	12253
 Information Security Management System	1000,5432,325
 Information Security Management System IT Information	11250
 Information Security Management SystemStandard	6946
-Information Security Management Systems	2350,1511,971,5889
-Information System	1284,2507,558,6419,12,351,724,182,138,22,17,479
+Information Security Management Systems	2350,1511,971,5889,2240,76
+Information Security Management Systems ISO	12961
+Information System	1284,2507,558,6419,12,351,724,182,138,22,17,479,492
 Information System DHMT District Health Management	3791
 Information System DHRA Directorate of Human Resources	34
 Information System Directorate	11905
 Information System Emergency Operations Center Electronic	4153
+Information System HSSHCD Health System Strengthening	12976
 Information System ID Identity Document NIIS	11986
 Information System MHH Male-Headed Households MSME	11549
+Information System MUST	13185
 Information System Master Plan	4284,13
 Information System National Public Health Institute	4153
 Information System Security Assessment	10911
+Information System Unit HPV Human Papilloma	12976
 Information System and Social Action Management	10763
 Information System for Birth Registration	10812
 Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72
@@ -1365,6 +1513,7 @@ Information Systems Security Agency	2838,1917,515
 Information Systems Success	9129
 Information Systems Theories and Implementation	12581
 Information Systems and Digital Agency	6451,2049
+Information Systems and Emerging Technologies	12926
 Information Systems and Qualitative Research	5349
 Information Systems and Reporting TWG User	12240
 Information Systems and Technology	1248
@@ -1379,8 +1528,8 @@ Infrastructure and System Adaptability Sustainable	12240
 Initial Development of E-Tick System	12025
 Innovation System	5242
 Innovation Systems	12389
-Instant Payment System	1995,1445,551,207,1060,148,409,950,5506,21
-Instant Payment Systems	5124
+Instant Payment System	1995,1445,551,207,1060,148,409,950,5506,21,914
+Instant Payment Systems	5124,8082
 Instant and Inclusive Payment System Center of Excellence	2180
 Insufficient Management Systems	12214
 Integrated Border Management System	1659,212
@@ -1392,28 +1541,30 @@ Integrated Civil Status Facts System	9517
 Integrated Customs Management System	8545,891,983,103,102,412
 Integrated Data System To Make E-government	10822
 Integrated Digital ID System	4677
-Integrated Digital ID and CRVS System	12241
+Integrated Digital ID and CRVS System	12241,839,15
 Integrated Disbursement Management System	10964
 Integrated Disbursement SMEs Management System	10964
+Integrated Disease Notification System. Diarrhoea	12976
 Integrated Document Management System	5587,1
 Integrated Document and Records Management System	11349
 Integrated Document and Records Management Systems	11349
 Integrated Education Information and Management System	210
 Integrated Education Management Information System	11695
 Integrated Elections Management System	12113
-Integrated Electronic Case Management System	5039,3635,3713,86
+Integrated Electronic Case Management System	5039,3635,3713,86,524,132
 Integrated Electronic Identification Management System	10812
 Integrated Electronic Medical Record System	4260
 Integrated Emergency Response Management System	259
 Integrated Fiduciary Systems Assessment	11905,271
-Integrated Financial Management Information System	34,132,370,748,828,2061,44,1027,4695,1195,40,1002,146,131,216
+Integrated Financial Management Information System	34,132,370,748,828,2061,44,1027,4695,1195,40,1002,146,131,216,303
 Integrated Financial Management Information System IGMS	5244
 Integrated Financial Management Information System IMF	12663
 Integrated Financial Management Information System IoT	6432
 Integrated Financial Management System	1389,10551
+Integrated Financial Management System Cash Collection	12984
 Integrated Financial Management System IGFTS	12175
 Integrated Financial Management System and Human Resources	12325
-Integrated Financial Management and Information System	127,31,2731
+Integrated Financial Management and Information System	127,31,2731,10067,167
 Integrated Food Security Phase Classification System	3583
 Integrated Fuel Supply System Solution	12200
 Integrated Geographic Information System	12590,15
@@ -1429,11 +1580,12 @@ Integrated Information Systems Plan	1000
 Integrated Justice System	5533,5737,716
 Integrated Labour Market Information System	10658
 Integrated Legal Case Management System	6946
-Integrated Management Information System	10874,1499
+Integrated Management Information System	10874,1499,550,188,109
 Integrated Management Information System INSD	10874
 Integrated Management Information Systems	12453
 Integrated Management System	10812,1143
 Integrated National Registration Information System	1867,12,109,303,1271,8794,50,29,14,4
+Integrated National Systems	13143
 Integrated Outbreak Management System	4217
 Integrated Outbreak Management System. The U.S	4217
 Integrated Patient Management System	12569
@@ -1462,14 +1614,17 @@ Integrated System for Budgetary and Financial Management	11939
 Integrated System for Human Resources Management of Civil	10812
 Integrated System of Citizen Registers and Statistics	3004
 Integrated Systems	5913
-Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167
+Integrated Systems Approach. Mbwezera MIS	12980
+Integrated Tax Administration System	2112,1623,4623,187,1874,103,102,1606,167,554,109
 Integrated Tax Administration Systems	10550,1317
 Integrated Tax Adminstration System-ITAS	1789,1,1,1
 Integrated Tax and Duty Management System	11001
 Integrated Urban Land Management System	4064,6866,7
 Integrating Systems	8183
+Integration Platform ASYPM Automated System for Performance	13042
 Integration and Interoperability of National ID Systems	1367
 Integration of Forest Products Revenue Management Systems	11639
+Integration of Justice and Governance Systems	13080
 Intelligent Card Production Systems	84,2637,1956,114,6031
 Intelligent Command System	259
 Intelligent Systems	9237
@@ -1489,6 +1644,7 @@ International Gateway Monitoring System	5244
 International Gateway Monitoring System IIC	5244
 International Gateway Systems and Services	6946,2389
 International Institute for Applied Systems Analysis	11572
+International Integrated Systems Inc	13132
 International Submarine Cable SystemsLicence Granted	2677
 International System of Units	1988
 Internet Numbers Registry System	3503
@@ -1499,12 +1655,15 @@ Interoperability and Systemic Coherence	3861
 Interoperability of Payment Systems	12389
 Interoperability of Retail Payment Systems	3288
 Interoperable Instant Payment System Platform	5054,6767
+Interoperable Retail Payment Systems	13206
 Interplanetary File System	8605
 Interpretation PART II Clearance and Settlement Systems	12528
+Interview Guide System	13080
 Intruder Detection Systems	10956
 Intruder Detection Systems Continuous CCTV	9446
 Intrusion Detection and Prevention Systems	11231
 Intrusion and Hold-up Alarm Systems	11269
+Inventory Management Information System	13005
 Investigating AI-Powered Tutoring Systems	6948
 Investigating AI-Powered Tutoring Systems That Adapt	6948
 Iranian ID System	10714
@@ -1528,8 +1687,10 @@ Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Judicial System Judicial Processes Equality	10759,78,1315,188
 Judicial System Slowing Improvement Not Classified	11870
 Judiciary’s Electronic Court Case Management System	8470
+Justice Case Management System	13080,15
 Justice Information System	1348,10591
 Justice Information and Data Management System	11541
+Justice System	12920,16,3
 KENYA System-level Barriers Learner	899
 KOBIKISA Health System Strengthening	10829
 KORI System	4710
@@ -1548,6 +1709,8 @@ Kenya's National Logistics Management System	4153
 Kenya's New Digital Identity System	12227
 Kenyan Health Information Systems Interoperability	9969
 Kenya’s Faster Payments System	5124
+Key System Characteristics	13005
+Key System Characteristics The NRIS	13005
 Kgotla SystemThe Kgotla	12641
 Kilimanjaro One Submarine Cable System	3954
 Kiribati National Integrated Identity Management System	10714
@@ -1581,14 +1744,15 @@ Laboratory Information Management Systems	12508
 Laboratory Information System	34,12232
 Laboratory Systems	4167,35,15,43,41,48,1003
 Laboratory Systems GoN	4301
-Labour Market Information System	5652,881,4119,1060,900
+Labour Market Information System	5652,881,4119,1060,900,448,97
 Lack of Robust ICT Systems	940
 Lagos Unveils Digital House-Numbering System	3101
 Land Administration System	12389
 Land Administration System IMC Inter-Ministerial Committee	11261
-Land Information Management System	354,73,8530,3180,75
-Land Information System	2597,7130,2863,15
+Land Information Management System	354,73,8530,3180,75,923
+Land Information System	2597,7130,2863,15,646
 Land Information System Strengthening	12137
+Land Information System. The Deeds Registry	13251
 Land Information Systems	11981
 Land Management Information and Transaction System Table	11862
 Land Management System	11939
@@ -1596,23 +1760,28 @@ Land One-Stop Shop Information System	10937
 Land Query Notification System	12333
 Land Registry Information System	11862,77
 Land System	12211
+Land Tax Payment Reconciliation System	13179
 Land Use Planning and Management Information System	1513
 Large Value Payment System	12286
 Launch the Information Management System	12448
 Launches Fully Digital Business Registry System	3907
 Launching National Digital Identification System	2385
+Lead Systems Administrator	12961,76
+Lead Systems Administrator Mandatory Requirement Compliant	13037
+Lead Systems Analyst	12961,76
 Leadership and Strategy Implementation Capacity and Systems	12214
 Leaner Management System	11303
 Leaner Management System The Portfolio Committee	11303
 Learning Assessment System The Republic of Congo	11907
 Learning Management System	9128,1396,939,476
-Learning Management Systems	1248
+Learning Management Systems	1248,11895
 Learning Operating System	9598
 Ledger Information System Portal	12322
 Legacy COBOL Systems	6432
 Legacy Information Systems	5700
 Legacy Reporting System	6432
 Legacy System	7548
+Legacy System Integration	13037
 Legacy System Migration and Compatibility Requirements	3861
 Legal Metrology Information System	9555
 Lesotho Education Management Information System	12741
@@ -1651,12 +1820,15 @@ M System Strengthening	409
 M&E System	29,4231
 MA. Health Information and Management Systems Society	2948
 MALAWI'S SOCIAL PROTECTION SYSTEM ADAPTS	12181
+MALTIS Malawi Traffic Information System Mbps	12917
+MCHUMANISI SYSTEM TO GIVE EMASWATI ONE-STOP	13223
 MDAs System	12241
 ME SYSTEMS	11269
 MEASURE Evaluation. Health Information System Stages	12255
 MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
 MEDUSA SUBMARINE CABLE SYSTEM	854
 METIX Instant Payment System	5406
+MHz WIDEBAND DATA TRANSMISSION SYSTEMS SCOPE	12949
 MICROSOFT DYNAMICS NAVISION SYSTEM	34
 MICROSOFT DYNAMICS NAVISION SYSTEM Microsoft Dynamics	34
 MINEPIA Management Information System Ministère	10964
@@ -1669,6 +1841,7 @@ ML-Enabled Systems Model Deployment and Monitoring	11156
 MLHA's Electronic National Identification System	4145
 MODERN TAX SYSTEM P	10762
 MOF's Integrated Financial Management Information System	12500
+MOHSS MODERNISES COMMUNITY HEALTHCARE SYSTEM	13224
 MONET and West Africa Cable System	6270
 MS SYSTEMS LIMITED Data Controller INST-592595D443A	7167
 MTEF. System	2512
@@ -1677,13 +1850,21 @@ MUVU Cooperative Management System	8908
 MaHIS Malawi Healthcare Information System M&E	12240
 Maagwero Social Media Monitoring System	12241
 Madagascar Tests Biometric ID System	4769
+Magwero Social Media Monitoring System	13080,15
+Maintenance and Support of Computer Systems Within	12917
 Making Social Protection Information Systems Adaptive	11133
-Malawi Business Registration System	12176
-Malawi Healthcare Information System	12240
+Malawi Business Registration System	12176,1001
+Malawi CRVS Systems	13005
+Malawi CRVS Systems Situational Analysis	13005
+Malawi Food Systems Resilience Program	13083
+Malawi Food Systems Resilience Project	13060
+Malawi Health Information System	13160
+Malawi Healthcare Information System	12240,956
 Malawi Interbank Transfer and Settlement System	2299,3532
 Malawi Launches Broadband Mapping System	12263
 Malawi Methodology for Assessing Procurement Systems	12176
-Malawi National Electronic Procurement System	5668
+Malawi National Electronic Procurement System	5668,7454,3,2
+Malawi National Statistical System Strategic Plan	13149
 Malawi Revenue Authority's Electronic Invoicing System	6469
 Malawi Traffic Information System	12309
 Malawi's Foundational Legal Identity System Sets	12144
@@ -1691,8 +1872,12 @@ Malawi's Health Information Systems	12242
 Malawi's National Registration and Identification System	12187,104
 Malawi. Only the National Health Information System	12242
 Malawi. The Crime Management System	8286
+Malawi. The Education Management Information System	13209
+Malawi’s CRVS System	13005
+Malawi’s National Registration and Identification System	13005
 Malawi’s Payment Systems	3288
 Malaysia National Registration and Identification System	10714
+Malaŵi National Electronic Procurement System	12987
 Management Information Management Systems IFMIS Integrated	11545
 Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77,369,51
 Management Information System EMIS Essential Package	11905
@@ -1700,11 +1885,14 @@ Management Information System MOR International Monetary	12500
 Management Information System for Social Assistance	1371
 Management Information Systems	12453
 Management Information Systems Quarterly	2948
-Management System	295,2150,4501,3768,98,1402,27
+Management System	295,2150,4501,3768,98,1402,27,801,11
+Management System IRT Item Response Theory	12975
 Management System LC Local Currency M&E	11863
+Management System LSE Life Skills Education	12975
 Management System LSK Law Society of Kenya	6946
 Management System MoE Ministry of Energy NES	12717
 Management System New Digital Platform Marks	6806
+Management System PSHACC Public Sector	12970
 Management System PrDO Program Development Objective	3604
 Management System Procurement Management Unit Procurement	1554
 Management System QR Code Quick Response	9855
@@ -1729,7 +1917,7 @@ Margins ID Systems Ltd	4778
 Markets Currency National Payment Systems Centre	12390
 Markets Division National Payment Systems Department	4517,2461
 Maroc. Nexus Core Systems	5745
-Marriage Registration System	12241
+Marriage Registration System	12241,839
 Master Index HIS Health Information System	396
 Master Systems Plans	11940
 Mathematics STEP Systematic Tracking of Exchanges	1264
@@ -1761,6 +1949,7 @@ Ministry of Agriculture's Digital Farmer Registry System	2872
 Ministry's Human Resource Information System	6432
 MoH E.H.R System	2477
 MoH's System Architecture and Security Unit	12240
+Mobile Malawi Traffic Information System	13060
 Mobile Money Monitoring System Mobile	718
 Modern Data Management System	1793,1413,3881
 Modern Tax System02 Conclusion03 CONTENT	10762
@@ -1776,9 +1965,11 @@ Morocco The Systemic Risk Coordi-	6938
 Movement Control System	5533
 Movement Control System COVID-19 Coronavirus Disease	11986
 Mozambique Instant Payment System	5258,148,6890
+Mozambique System	13053
 Mozambique's Centre for Development of Information Systems	12850
 Mozambique's Digital Certification System	11120
 Multi-Agent Systems	5482,2801
+Multi-Hazard Early Warning System	12977
 Multi-Hazard Early Warning Systems	11191,1498
 Multi-Process System for Investigating Inclusive Design	5349
 Multi-light Systems and Solar Home Systems	11923,268
@@ -1788,7 +1979,12 @@ Municipal Information System	11862,77,2
 Municipal Property Tax System	2112
 Municipal Systems Act	5872,5310,66,2,29
 NA System	5533
+NAMIBIA HOUSING INFORMATION SYSTEM	13118
+NAMIBIA INTEGRATED EMPLOYMENT INFORMATION SYSTEM	13037
+NAMIBIA STRENGTHENS BIRTH REGISTRATION SYSTEMS	13141
+NAMPP Passport Personalisation System NCS Namibian	12947
 NATIONAL CLEARANCE AND SETTLEMENT SYSTEMS ARRANGEMENT	12528
+NATIONAL PAYMENT SYSTEM	13092
 NATIONAL PAYMENT SYSTEM Arrangement of Paragraphs	12374
 NATIONAL PAYMENT SYSTEM Arrangement of Paragraphs PART	12447
 NATIONAL PAYMENTS SYSTEM OVERSIGHT POLICY Table	12537
@@ -1796,6 +1992,8 @@ NBE Payment and Settlement Systems Directorate	12269
 NBE. The National Payment System	12269
 NCI-CRVS System	977
 NCS Deploys Electronic Cargo Tracking System	8278
+NCTS New Computerized Transit System PACER	13042
+NDFS Nutanix Distributed File System NDMP	13185
 NEMIS Nigeria Education Management Information System	11860
 NES National Evaluation System	11193
 NGSO Satellite System Space	2913
@@ -1811,25 +2009,33 @@ NIIMS National Integrated Identity Management System	12151
 NISR Chapter Civil Registration System	12413
 NISR. Rwanda CRVS Systems	12413
 NOMBRE DE GROUPES PEDAGOGIQUES PAR SYSTEME	10847
+NPRS Electronic National Population Registration System	12947
 NPRS National Population Registration System	12367
+NRB System	13005
+NRB System The NRIS	13005
+NRIS Central System	13005
 NRS Tax System	12022
 NSS National Statistical System NSSF National	2775
+NTFS New Technology File System NVMe	13185
 Nairobi Intelligent Transport System	2160,7487
 Nairobi Intelligent Transportation System Phase	355
 Named the Provincial Disaster Management Application System	7574
 Namibia Identity Management Systems Analysis Report	12337
+Namibia Integrated Employment Information System	12961,76
 Namibia Interbank Settlement System	6988,1263
+Namibia National Payment System Vision and Strategy	13076
 Namibia Population System	12337
 Namibia Population System NID	12337
 Namibia Traffic Information System	12476
-Namibia's National Payment System	8251,4228
+Namibia's National Payment System	8251,4228,713,2
 Namibia's National Population Registration System	589
+Namibian National Payment System	13076
 Naming Systems	6666
 Naming Systems Example	6666
 National Accounting and Financial Reporting System	11955
 National Address System	958
 National Addressing Challenges and Postcode Systems	12395
-National Addressing System	1595,509,9025
+National Addressing System	1595,509,9025,1842,188
 National Addressing System Bill	11757
 National Addressing System Committee	11129
 National Addressing System Council	11129
@@ -1845,7 +2051,7 @@ National Addressing and Postcode System	2104
 National Addressing and Postcode System Eswatini	12395
 National Agency for Information Systems Security	2759,5
 National Agency for Information and Systems Security	7048
-National Agriculture Management Information System	12194
+National Agriculture Management Information System	12194,866
 National Archives Records Management System	12597
 National Archives and Records Management System	12597
 National Biometric Identification System	2766,4,467,2,2005
@@ -1859,6 +2065,7 @@ National Civil Registration and Vistal Statistics System	12138
 National Clearance and Settlement Systems	12537
 National Clearance and Settlement Systems Act	12528,70
 National Clearing System	5125
+National Clearing and Settlement Systems Act No	12938
 National Council for Information System Security	1886
 National Council for Information Systems Security	4755
 National Crime Automated Biometric Identification System	11081
@@ -1866,7 +2073,9 @@ National Criminal Automated Biometric Identification System	11062
 National Cybercrime Management System Cybercrime Management	1777
 National Cybersecurity System	4104
 National Development-Impact Measurement System	8184
+National Digital Community System Training Workshop	13224
 National Digital Financial ID System	3957
+National Digital Health System	13095
 National Digital Land Information System	11954
 National Digital Payment System	8017
 National Digital Trust System	5975
@@ -1923,7 +2132,8 @@ National Intelligence and Security System	10822
 National Interoperability Standards for E-Government Systems	3861
 National Laboratory Information System	4349
 National Land Administration System	9727
-National Land Information Management System	3374
+National Land Information Management System	3374,9686
+National Land Information System	13251
 National Land Information System NSAAs National	11261
 National Livestock Market Information System	8183
 National Logistic Management Information System	4153
@@ -1931,7 +2141,7 @@ National Logistics Management Integrated System	4153
 National Logistics Management System	4153,11
 National Monitoring and Evaluation Information System	9966
 National Monitoring and Evaluation System	8469
-National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3,400
+National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3,400,238,7,31,83
 National Payment System Act	1020,1722,2678,6540,326
 National Payment System Bill	9585
 National Payment System DLT Eswatini Clearing	12444
@@ -1940,20 +2150,22 @@ National Payment System Department and Head	6938
 National Payment System Director	3679
 National Payment System Framework and Strategy Vision	4824
 National Payment System Law	10779,357
-National Payment System Regulations	12286
+National Payment System Regulations	12286,837
 National Payment System Strategy	8251
-National Payment System Vision	5408,2843,1,2515,1831
+National Payment System Vision	5408,2843,1,2515,1831,454,24
+National Payment System Vision and Strategy	13092
 National Payment System of Namibia	12365
 National Payment System. PART III	12365
+National Payment System. Such	13206
 National Payment System. The Committee	11289
 National Payment Systems	3964,3014,4982,430,100
-National Payment Systems Act	958,2099,970,2204,765,5368,126
+National Payment Systems Act	958,2099,970,2204,765,5368,126,633
 National Payment Systems Act Number	12364
 National Payment Systems Centre of Excellence and Innovation	12390
 National Payment Systems Collateral Requirement for Net	12364
 National Payment Systems Council	12735
 National Payment Systems Home National Payment	12390
-National Payment Systems Regulations	11134
+National Payment Systems Regulations	11134,2092
 National Payment Systems Report	2728,9486
 National Payment Systems Strategy	2276
 National Payment Systems Systems Act NPSA	12364
@@ -1961,6 +2173,8 @@ National Payment Systems Vision and Strategy	5247
 National Payment Systems. In Kenya	12286
 National Payments Switch Financial System Adequate	11131
 National Payments System	4605,463,527,220,2885,3586,251,164
+National Payments System Act	12938,114
+National Payments System Advisory Forum. PART	12938
 National Payments System Bill	11134
 National Payments System Law	6626,5972
 National Payments System Oversight Policy	12537
@@ -1975,16 +2189,18 @@ National Payments Systems Vision and Strategy Framework	5831
 National Physical Addressing System	3460
 National Police Service Information Management System	3320
 National Population Register System	12367
-National Population Registration System	159,146,20,215,11787,10,30
+National Population Registration System	159,146,20,215,11787,10,30,580,12,261
 National Population Registration System NSA	12337
 National Population Registration System Namibia	12327
 National Population Registry System	12475
+National Population Registry System. The Ministry	13180
 National Population System	12337
 National Public Health Intelligence Info1mation System	4153
 National Public Health Intelligence Information System	4153
 National Registration Information System	4378
 National Registration Information System IPF Investment	1867
-National Registration and Identification System	1451,260,2109,8397,23
+National Registration System	12898
+National Registration and Identification System	1451,260,2109,8397,23,765,2,79,128
 National Registration and Identification System Project	2264,9904
 National Registration and Identification System of Malawi	4172
 National Regulatory System	11135
@@ -1994,16 +2210,20 @@ National Security Systems	6432,4857
 National Single Window System	6946
 National Social Protection System Project	973
 National Social Security System	10775
-National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41
+National Statistical System	2360,415,5638,3438,679,21,92,29,34,10,41,144,1,60,120,67
+National Statistical System Government	12902
+National Statistical System Strategic Plan	13005
 National Statistical System. The Botswana Data	12551
 National Statistical Systems	11237,1262,207
 National Statistical Systenl J Of'ticial	11852
-National Statistics System	976,212,8297,1716,36
+National Statistics System	976,212,8297,1716,36,1662,3,117,12
+National Statistics System PART III NAMIBIA	12899
 National Statistics System and National Strategy	11201
 National Statistics System. Work	11237
 National Strategic Plan for Health System Recovery	8613
 National Strategy for Information Systems Security	2838,2469
 National Subscriber Identification System	3805
+National Surveillance System	12939,38
 National Switching and Processing System	1889
 National System	10865,1044
 National System for Civil Identification and Authentication	11939
@@ -2017,7 +2237,7 @@ National System of Innovation OA Open Access	5246
 National System of Innovation STI	12544
 National System of Protected Areas	11586
 National System of Toponymy and Addresses Information	11941
-National Systems	10865
+National Systems	10865,2172
 National Systems and Local Integration	10864
 National Traffic Point-Based Penalty Management System	12200
 National Treasury Safetyweb Banking System	10809
@@ -2038,6 +2258,7 @@ Neural Information Processing Systems	8606
 Nexus Core Systems	3049,2696,1,26,26,3685
 Nexus Core Systems and Lloyds Capital	3049
 Nexus Core Systems and Morocco's Ministry of Digital	5745
+Nicholas Stern Indigenous Knowledge Systems	13100
 Niger National ID System	10714
 Nigeria Cameroon Submarine Cable System	3782,3547
 Nigeria Case Management System	12063
@@ -2074,18 +2295,22 @@ Nigeria’s Instant Payment System	4848
 Nigeria’s Payments System Vision	11138
 Niklas. Social Systems. Stanford	11138
 Nitro System	10798
+No. System	13053
 Nortal and Baltic Computer Systems	2910
 North Macedonia National ID System	10714
 Notary's Information System	11939
+Nutanix Distributed File System	13185
 Nvidia and Nexus Core Systems	10136
 OAP Management Information System	12663
 OECD's Creditor Reporting System	11487
 OPS System	11986
 OS Operating System PABX Private Automated	34
+OTRS Open-source Ticket Request System PaaS	13185
 OVERVIEW OF THE SECONDARY EDUCATION SYSTEM	11918
 Objectives The Digital Identification System	12146
 Objectives of Oversight of Payment Systems	12537
 Occupational Safety and Health Management Systems	12253
+Office EBRS Electronic Birth Registration System	13005
 Oman National Payments Systems	7981
 Online Birth Registration System	3200,8786
 Online Border Management System	4390,3905
@@ -2099,10 +2324,14 @@ Online Verification System	4772
 Open Access System	9129
 Open Archival Information System	9888
 Open Medical Record System	8605
+Open Systems Interconnection	13073
+Open Tender Fuel Procurement System	13060
 Open Tender System	11089,1167
+Open-source Ticket Request System	13185
 Operating Licence Administrative System	11551
 Operating System	34,11922
 Operating Systems	12681
+Operating Systems and Office Suite. ICT	12917
 Operation Document SYSTEMATIC OPERATIONS RISK- RATING	3562
 Operation of National Statistical System	12530
 Operations System	11153
@@ -2117,20 +2346,26 @@ PAPSS Local Currency Settlement System	8081
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PAR Storage Systems	11209
 PART II Clearance and Settlement Systems	12528
+PART V DESIGNATION OF PAYMENT SYSTEMS	12938
 PAYMENT AND SETTLEMENT SYSTEM QUARTER ENDED	12364
+PAYMENT SYSTEM	13206
+PAYMENT SYSTEM MANAGEMENT ACT	12943
 PAYMENT SYSTEM OPERATOR	12374
 PAYMENT SYSTEM OPERATORS	12374
 PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PAYMENT SYSTEMS The CBE	11131
+PAYMENTS SYSTEM	12938
 PFM IT Systems Roll Out	321
 PHEM Information System	4349
 POWER VENDING SYSTEM Page20 Rwanda Energy	12358
 PPDA's Contract Monitoring System	11615
 PPPP Public-Private-People Partnership PSSA Payment Systems	4126
+PPS Payment Processing Systems	12973
 PROBLEM STATEMENT Health System Challenges Digital	396
 PROCESS FOR AUTHORISATION AS A SYSTEM	12374
+PROMOTE RESPONSIVE LEGAL AND JUSTICE SYSTEMS	12939
 PROTECTION SYSTEM MULTI DONOR TRUST FUND	12780,1
 PSPs Scope System Type Binary Indicates	7221
 PV and Battery Energy Storage System	11228
@@ -2144,6 +2379,7 @@ Pan-African Payment and Settlement System MTN Ghana	5908,442
 Pan-African Payment and Settlement System. Further	6679
 Pan-African Payment and Settlement System. Separate	7880
 Pan-African Payments and Settlement System	9930
+Parameters for Wideband Data Transmission Systems	12949
 Parish Development Model Management Information System	3050
 Parole System	11224
 Participant’s Core Banking System	12364
@@ -2154,6 +2390,7 @@ Partner Management System	6435
 Partner States’ National Payment System	3238
 Partnership Revolutionises Weather Systems	11283
 Partnerships Health Systems Strengthening. The Need	21
+Passport Issuance System	12917
 Passport and Border Control System	12597
 Passport and Border Control System. Under Civil	5250
 Pathogen Access and Benefit-Sharing System	6534
@@ -2165,15 +2402,16 @@ Payment System	1502,3064,349,6940,509
 Payment System Act	5244
 Payment System Bill	12735
 Payment System Department	6938
-Payment System Determination	12447
+Payment System Determination	12447,638
+Payment System Digitalization	13052
 Payment System Features	12157
 Payment System Integration	4103,2835,1209
-Payment System Management Act	1233,2481,4537,4114,9,73
+Payment System Management Act	1233,2481,4537,4114,9,73,496,133,9,7,114
 Payment System Management Body	12653
 Payment System Notice	12365,9
-Payment System Operator	4988
+Payment System Operator	4988,8218
 Payment System Operator Returns	12374
-Payment System Operators	3705
+Payment System Operators	3705,9501
 Payment System Subcommittee and Payment System Oversight	12671
 Payment System Vision	7928
 Payment System. Payment Part	12364
@@ -2203,6 +2441,7 @@ Payment Systems and Services Act	587,5122,1231,174,211
 Payment Systems.. The Company	11955
 Payment and Settlement System	10718,1282,214
 Payments System Currently	12676
+Payments System Determination	13206
 Payments System Law	10779
 Payments System Oversight Policy	12542
 Payments System Policy	6416
@@ -2210,7 +2449,7 @@ Payments System Resilience	4848
 Payments System Supervision	6644,2342
 Payments System Supervision Department	6698,237,2817,753
 Payments System Vision	4848,1568,283,1,2870,585,498,66,419
-Payments Systems	11131,3,1152
+Payments Systems	11131,3,1152,655
 Payments Systems Act	3964
 Payments Systems Mduduzi Mathunjwa Policy	11131,3
 Payments Systems Subcommittee	6720
@@ -2228,7 +2467,7 @@ Perceived Benefits of System Use	12025
 Perceived Challenges of System Use	12025
 Performance Management Development System PMO Project	5533
 Performance Management Development System SONA State	11986
-Performance Management System	11131,1537
+Performance Management System	11131,1537,294,8,2
 Performance of Routine Information System Management	766,446,9666
 Performant ID System	10819
 Permit System	11231
@@ -2240,10 +2479,13 @@ PhD Information Systems	8603
 Pharmaceuticals Regulatory Systems	4349
 Philippine Identification System	10714
 Philosophy and Information Systems	5349
+Physical Security and Monitoring System	13185
 Picture Archiving and Communication System	12606
+Plan NPS National Payment System NPS	13076
 Points-Based Valuation System for Property Taxation	11133
 Policy and Payment System Vision	12000
 Population Administration Information System	10714
+Population Registration System EU-SPS European Union-Social	12923
 Population Registration System SWA ID South	12327
 Population Registration and Identity Management Eco System	12658
 Port Community System	2392,3757
@@ -2258,12 +2500,14 @@ Power DRC's National Digital Identity System	2698
 Power Project NISO Nigerian Independent System	12062
 Power Systems	9123
 Power Systems DC	9123
+Power and Electrical Systems	13185
 Power and Electrical Systems Design Introduction Electrical	9123
 Practitioner HMIS Health Management Information System	12413
 Precision Air Conditioning System	12253
 Precision Air the PAC Units. Conditioning System	12253
 Preference Point System All	11209
 Prequalification Request for Proposal Information Systems	7951
+President and Cabinet OS Operating System Ministry	12917
 Primary Health Care Information System	11980
 Prime Systems Integrator	11184
 Principles Digital Identification System	12146
@@ -2286,20 +2530,25 @@ Property Management and Transaction Information System	11862
 Property Numbering System	11129
 Property Registration Special Regime System	11939
 Property Search Features Dispute Resolution System	12211
+Property Tax System	12948
 Protect Critical Digital Systems Senegal	5407,676
 Protection Information Management Systems CPL Commercial	2775
 Protection Program SCD Systematic Country Diagnostic	11380
 Protection Strategy STEP Systematic Tracking of Exchanges	11525
 Protection Systems	11156,1211
+Protection Systems FGT Foster Greer Thorbecke	12923
 Protection of Information Systems and Networks	10765,10
 Protection of Networks and Computer Systems	10771
 Protection of Networks and Information Systems	4206,6559,10
+Protocol Security IS Information Systems ISP	13185
+Prototype Deeds Registration System	12962
 Providers of Artificial Intelligence Systems	2958
 Provincial Health Information Systems Committees	396
 Provincial Health Information Systems EMR Electronic	396
 Provisions for Information Submission System for Patents	12389
 Public Administration Human Resources Management System	10768
 Public Budget Preparation and Execution System	9489
+Public Enterprises and Local Governments. This System	12956
 Public Finance Management System PIS	958
 Public Financial Management System	11417
 Public Health Emergency Management Information System	4349
@@ -2311,15 +2560,20 @@ Public Sector Reforms Information Management System	4609
 Public Sector Systems Strengthening Plus	1261
 Public Shop Licensing System	8189
 Public Tax Rulings System	12598
+Purpose of National Statistics System	12899
 Purpose of System Configuration	736
 Q4 System	11133
 QC System	7988
+QUALITY MANAGEMENT SYSTEMS CERTIFICATION	13068
+QUALITY MANAGEMENT SYSTEMS CERTIFICATION ISO	13068
 Qualifications System By Ange J.A de Berry	6747
+Qualifications of Lead Systems Analyst	13037
 Quality Assurance PERSAL Personnel and Salary System	11192
 Quality Assurance and Quality Management Systems	718
 Quality Information Management System	12606
 Quality Management System	3651,502,2793,687,3143
 Quality Management System RCCE	10776
+Quality Management System- ISO	12977
 Quality Management Systems	718
 Quality of Education Systems	11916
 Quarterly Financial Information PCU System Description	11525
@@ -2346,6 +2600,7 @@ Recommended Sprinkler Systems for Data Center Spaces	9123
 Record FAMS Financial Management System FTP	34
 Record and Archive Management IT System	11986
 Records Management System	3042,2208,385,6967
+Records Management System Department of E-	12917
 Redress Mechanism Global System for Mobile Communications	1228
 Reduced Systems	10550
 Referentiel General de Securite des Systemes	10906
@@ -2364,6 +2619,7 @@ Registration System of Personal Data	12146
 Registration and Certification System	9370
 Registry System	12370
 Regulation of Payment System for Member	11550
+Regulatory Agencies CDS Customs Declaration System	13042
 Regulatory System	10776
 Related Systems Found	5691
 Remote Sensing and Geographic Information Systems	12133
@@ -2373,14 +2629,17 @@ Rep. LISUNGI Safety Nets System Project	11924
 Reporting Payment Systems and Financial Inclusion	10482
 Reporting System CSA Climate Smart Agriculture-Based	970
 Republic of South Africa PURPOSE The System	11228
+Requirements System Integration Services Requirements	13185
 Rescue Troubled National ID System	6166
 Reservist System	11188
 Resilience Rating System. The Authority	6946
+Resilient and Fair Healthcare System	13163
 Resolution System SA South African SACCL	11250
 Resources Information System	34
 Resources and Systems	8022
 Results Transmission System	11115
 Results-Based Hospital Information System	10865
+Retail Payment Systems	13206
 Reutech Radar Systems	11768
 Revenue Assurance System	2527
 Revenue Collection Tools Full System Walkthrough	12211
@@ -2427,6 +2686,7 @@ SIGEFI Integrated Government Finance Management System	1284
 SIGFE Integrated State Financial Management System	10768
 SIGPE Integrated State Asset Management System	10768
 SIH Hospital Information System	3604
+SLA System	13053
 SMART Office Management System	3088
 SMART Office System	3088
 SMART Office System Include	3088
@@ -2438,6 +2698,8 @@ SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SOE Statements of Expenditure STEP Systematic Tracking	11560
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SSA Sub-Saharan Africa STEP Systematic Tracking	11380
+STANDARDS WITHIN THE NATIONAL PAYMENT SYSTEM	13206
+STATISTICS SYSTEM	12899
 STATISTICS SYSTEMS OF Annex	12138
 STATISTICS SYSTEMS OF Backlog	12138
 STATISTICS SYSTEMS OF Civil	12138
@@ -2447,7 +2709,9 @@ STATISTICS SYSTEMS OF Program Information About	12138
 STATISTICS SYSTEMS OF Support	12138
 STEP Systematic Tracking of Exchanges	2889,715
 STI Funding System	12786
+STRENGTHEN EDUCATION SYSTEM	13204
 STRENGTHENING HEALTH SYSTEM PERFORMANCE AND PREPAREDNESS	10829
+STRUCTURE OF THE EDUCATION SYSTEM	12914
 SUMMARY ENVIRONMENTAL AND SOCIAL SYSTEMS ASSESSMENT	11905
 SUMMARY FIDUCIARY SYSTEMS ASSESSMENT	11905
 SVS Stock Visibility System MTEF Medium-Term	396
@@ -2455,7 +2719,7 @@ SWA ID System	12367
 SWIPSS Central System	12484
 SYGMA Automated Gross Amount System	969
 SYSTAC- Automated Clearing System	969
-SYSTEM	7988,2831,337
+SYSTEM	7988,2831,337,1881
 SYSTEM ADMINISTRATION AND USER ASSISTANCE SECTION	12484
 SYSTEM Among	1243
 SYSTEM BREACH DESCRIBED ABOVE	2709
@@ -2471,13 +2735,14 @@ SYSTEM OPERATORS	12374
 SYSTEM OPERATORS AND SYSTEM PARTICIPANTS	12374
 SYSTEM PARTICI PANT BY THE PAYMENT	12374
 SYSTEM PARTICIPANT	12374
+SYSTEM REQUIREMENTS	13037
 SYSTEM Rwanda	12451
 SYSTEM STRENGTHENING PROJECT	10829
 SYSTEM The Standard Operating Procedures	12338
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31
 SYSTEMATIC STAGE FIGURE	12214
 SYSTEME D'ENCADREMENT DES ELEVES PAR NIVEAU	10847
 SYSTEMES D'INFORMATION AU SEIN DES MINISTERES	10905
@@ -2519,10 +2784,11 @@ Senior Lecturer Information Systems and Cyber Security	3654
 Serbia National ID System	10714
 Service DHIS District Health Information System	396
 Service Delivery and System Strengthening Project	10829
+Service SACL System Access Control List	13185
 Service SAP Systems	6432
 Services Under One Digital System	7463
 Services and Information Systems	2511
-Settlement System	9673,1045,284
+Settlement System	9673,1045,284,2050
 Settlement System.............................13 Box	10718
 Settlements System Pilot Bill	881
 Seychelles Social Protection System PforR	734
@@ -2542,11 +2808,13 @@ Smart Police Station System	11607
 Smart Traffic Management System	9394
 SmartCare System	34
 SmartCare Systems Current	2477
+Smarter Health Systems	13163
 Snapshot of CRVS Systems of Tanzania Mainland	327
 Snapshot of CRVS Systems of Uganda	328
 Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
 Social Action Management Information System	10768
 Social Benefit Registration System	12533,1
+Social Grant Disbursement System	13236
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection System	11855
 Social Protection System PforR	742
@@ -2563,7 +2831,7 @@ Software Developers Enterprise Architects Systems	21
 Software Operating System	11471
 Solar Energy Systems	11579
 Solar Home System. UNICEF	12403
-Solar Home Systems	12563
+Solar Home Systems	12563,497
 Solar Home Systems Receivables Facility Norfund	707
 Solar Home Systems and Digital Inclusion	709
 Solar PV CSP Pump DSR System	11953
@@ -2586,9 +2854,11 @@ South African School Administration and Management System	11927
 South Atlantic Cable System	144,867,636,4623,334
 South Sudan Air Traffic Management System	261
 South Sudan Interbank Payment Settlement System	3679
-Southern African Regional Submarine System	6638,25,1
+Southern African Regional Submarine System	6638,25,1,6524
 Sparc Systems	6032,479
-Sparc Systems Limited	6511
+Sparc Systems Expands Malawi's Digital Infrastructure	13165
+Sparc Systems Founder and Managing Director Dr	13165
+Sparc Systems Limited	6511,6654
 Sparc Systems Limited Group Managing Director	6511
 Special Permit MIS Management Information System	12663
 Spectrally and Power Efficient Optical Communication Systems	4676
@@ -2599,6 +2869,7 @@ St. Kitts and Nevis National Registration System	10714
 St. Lucia Voter Registration System	10714
 Staff Scheduler Management System	6946
 Staff Scheduler Management System the Kenya Bureau	6946
+Staff and Student Education Management Information System	13123
 Standalone Systems	12195
 Standard British Plug for Systems Unit	34
 Standard Chart of Accounts. Systems	9939
@@ -2609,6 +2880,7 @@ State Information System Authority	12391
 State of Identification Systems	10822
 State of Inclusion of Instant Payment Systems	12273
 State of Inclusive Instant Payment Systems	1386,2467,124,50,330,3794,335,1996,652,1356
+State of Inclusive Instant Payment Systems Report	13052
 State of Information Systems Education Research	1248
 State of Instant and Inclusive Payment Systems	797
 State’s Integrated Financial Management System	11417
@@ -2617,6 +2889,7 @@ Statistical System	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
 Statistical System Absence of Forced Migration	10835,3,130,902,16,466,1,135
 Statistical System Child	10838
 Statistical System Effective Administration Tax	10759,78,1315,188
+Statistics Agency NSS National Statistics System	12902
 Statistics Namibia Population System	12327,10
 Stock Visibility System	396
 Storage of Payment System Data	6735,200,4375
@@ -2631,11 +2904,15 @@ Strengthen the Malawi Healthcare Information System	12240
 Strengthening Civil Registration and Vital Statistics System	12250
 Strengthening Data Systems for Smarter Policymaking	11332
 Strengthening Data Systems for Smarter Policymaking UNDP	11332
+Strengthening Digital ID and CRVS Systems	13080
 Strengthening Digital ID and CRVS Systems Development	12241
+Strengthening Early Warning Systems and Climate Services	13207
 Strengthening HIV Systems	4260
+Strengthening Harmonized Delivery Systems	12980
 Strengthening Health System Performance and Preparedness	10829
 Strengthening Health Systems	11596
 Strengthening Health Systems and Medical Regulations	6594
+Strengthening Malawi's Teacher Management Information System	13070
 Strengthening Mozambique's Social Protection System MDTF	12832
 Strengthening National Health Information Systems for HIV	496
 Strengthening of Early Warning Systems and Climate Services	7030
@@ -2648,6 +2925,7 @@ Strengthening the National System of Science	3861
 Strengthening the Recipient’s Social Protection Systems	11855
 Strengthening the Recipient’s Social Protection Systems MFIS	11855
 Stronger and More Resilient Health System	12583
+Student Education Management Information System	12950
 Student Information Systems. FIGURE	9128
 Student Integrated Management and Monitoring System	11939
 Submarine Cable System Manufacturers	3513
@@ -2673,36 +2951,43 @@ Swaziland Interbank and Settlement System	11130
 Swaziland Interbank and Settlement System EPS Financial	12444
 Swaziland Payment Settlement System	11131
 Sybrin Systems Johannesburg	10193
-System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55
+Synergy International Systems	12936
+System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55,195,6,16,6,21,32,5,11,132
 System Access	8999
 System Administration	2868,8285
 System Administrator	8022
 System Administrator Deliverable	12693
 System African US	11916
 System Alien	12227
-System Analyst	12693
+System Analysis and Requirements Gathering	13037
+System Analyst	12693,268
 System Architecture As the CBE	11130
 System Architecture and Security Unit	12240
 System Availability	11952
 System Average Duration Index	12358
 System Average Interruption Duration Index	12256,102
 System Average Interruption Duration Index SAIFI	12358
+System Average Interruption Duration Index System	12969
 System Average Interruption Frequency Index	12256
 System Average Interruption Frequency Index SS	12358
 System BOP Balance of Payments BORAQs Board	2775
+System BRK Standalone Module for Mobile Registration	13005
 System Backup	2709
 System By Ahmad El-Assasy	11649
 System CCV Computer Coded Verbal Autopsy	12413
-System Capacity Grant	11916,259
+System Capacity Grant	11916,259,1030
+System Capacity Grant Project	13204,1
 System Capacity Grant SDG	12175
 System Cape Verdean Women's Self-Promotion Association	11855
 System Collapse	12062
+System Constraints Challenge	13163
 System Continuity	2515
 System Corporate Social Investment Cyber Security	11134
 System DFI Development Finance Institutions DG	11224
 System Description	11525
 System Design	11138,1262
 System Design SECTION VI	11138
+System Design and Development	13037
 System Details	736
 System Development	12025
 System Development Lifecycle	12359
@@ -2728,14 +3013,18 @@ System HMIS Health Management Information System	10829
 System Health Products and Technologies Human Resources	4153
 System IPO Initial Public Offering ISMS	11250
 System Impilo	9429
-System Implementation	9338,1914
+System Implementation	9338,1914,1785
 System Information Coverage Area	736
 System Information Network	736
 System Insight	7446
+System Integration	13095
 System Integration Integrate Impilo	12508
+System Integration Services Requirement	13185
 System Integration and Access	11957
 System Integration and Compatibility	9855
+System Integration and Regional Connectivity ASTANA-1	13042
 System Integrator	3594
+System Integrity Types	13042
 System Internet Service Provider Information Technology	12453
 System Intervention Implementation	11248
 System Inventory Table	10617
@@ -2759,13 +3048,17 @@ System Management Specialist	10765,10
 System Manual	2709
 System Masterplan	5372
 System Masterplan Companion	11948
+System Migration and Customization Eswatini	13042
 System Modification	736
 System Monitoring	4610
 System Monitoring A. Telecommunications Service Providers	4610
 System NALA	6397
+System NRAB Namibia Refugee Appeal Board	12947
 System Name Exchange	736
+System Notifications Emails	13037
 System Number	10781
 System Number BB Broadband CAGR Compound	10861
+System OSPF Open Shortest Path First	13185
 System Operation Code Version	11228
 System Operator	11228,1136
 System Operator Code	11228
@@ -2775,6 +3068,7 @@ System Optimisation	11252
 System Outlook	11228
 System Overview	5665
 System PCR Pupil Completion Rate PI	2775
+System PDU Presidential Delivery Unit PO	13005
 System PESTEL Political	11261
 System PPE Personal Protective Equipment PPECB	11197
 System Performance Report	12214
@@ -2782,11 +3076,15 @@ System Performance and Preparedness	10829
 System PrDO Program Development Objective PSC	1264
 System Processor	34
 System Processor Minimum Intel Quad Core	34
+System Program HQ Head Quarters HRMIS	12917
 System Project	11395,529
 System Ramp Residual Ramp Sources	11953
 System Recovery	4610
 System Recovery A. All Telecommunications Service	4610
+System Refi	13042
 System Report. Principles for Digital Public Infrastructure	12214
+System Requirements Documentation	13037
+System Resilience	13083
 System Rules	12269,95
 System SEforALL Sustainable Energy for All WBG	12717
 System SOFF Systematic Observations Financing Facilities	11553
@@ -2800,16 +3098,19 @@ System Steering Team	6832
 System Strengthening Project	10829
 System System	1777
 System Taxpayer Education Unit Value Added	12500
+System The Ministry of Justice and Constitutional Affairs	12936
 System The ZIPSS	12364
 System Training	10616
 System Transformation Grant	11916,259
 System Transformation Grant SWAp	12175
+System Upgrade ASYCUDA World The ASYCUDA	13053
 System Uptime	12211
 System Use of Borrower's Environmental and Social Framework	1988
 System VoIP Voice	6671
 System Voltage	12062
 System Vulnerabilities	6671,275
 System Zambia Integrated Social Protection Information	12453
+System and Application Monitoring Module	13042
 System and Residual	11953
 System and Taxpayer Relationship Management System Korea	286
 System and Technical Operator	12364
@@ -2830,8 +3131,10 @@ System. Implementation	4257
 System. Part II	2709
 System. Release	9124
 System. The U.S. Government	3972
+System. Under	13248
 Systematic	3456,976,1167,1949,1055,2,66,989,1314,182,800,98,160,27,56,87,73
-Systematic Country Diagnostic	969,5570,4226,10,54,696,20,310,69
+Systematic CPD Indicator	13095
+Systematic Country Diagnostic	969,5570,4226,10,54,696,20,310,69,1044
 Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
 Systematic Data Protection	8022
 Systematic Land Regularization	12137
@@ -2844,13 +3147,13 @@ Systematic Literature Review of Information Systems Research	1248
 Systematic Observations Financing Facility	11553
 Systematic Operations Risk-Rating Tool	6833,5891
 Systematic Practitioner	12214
-Systematic Review	1824
+Systematic Review	1824,11124
 Systematic Stage	12214
 Systematic Stage Regulation	12214
 Systematic Stage The People Pillar	12214
 Systematic Tracking and Exchange	1264
 Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135,453,108,380
-Systematically	12444
+Systematically	12444,488
 Systeme	10643
 Systemic	3583,1,2604,750,10,12,2405,251,2559,39,83
 Systemic Barriers	4443
@@ -2865,20 +3168,24 @@ Systemic Stakeholder Analysis	12376
 Systemically	5242,1931,2443,1518
 Systemically Important Financial Market Infrastructures	4103
 Systemically Important Payment Systems	12286,251
-Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23
+Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23,188,21,23,11,33,32,5,159,5
 Systems Across Africa TechAfrica News	4225
 Systems Act	11551
 Systems Act Zimswitch Technologies	12490
 Systems Act.’’. Amendment	11551
+Systems Administration and Management Functions Required	13185
 Systems Administrator	8022
 Systems Agencies	12157
 Systems Analyst	2982
 Systems Analyst Mr. Chipopa Kazuma	34
+Systems Application Products TAA	13053
 Systems Approach	1248
 Systems Approach for Better Education Results	11557
 Systems Architecture Design and Modernization Framework	12758
 Systems Change and Partnership Opportunities	12297
 Systems DLI	10870
+Systems Design	12917
+Systems Development	13053
 Systems Development and Cybersecurity	8409
 Systems Diagnostic Assessment Project	11986
 Systems Digital Policy	958
@@ -2892,28 +3199,38 @@ Systems Integrator for Fayda	10839
 Systems Leadership	3487
 Systems Limited	8625
 Systems Limited Data Processor INST-5919342C364 NAIROBI	7167
+Systems Mapping	13095
+Systems Mapping Building	13080
 Systems Ministry of Completion Measurement	10870
 Systems Ministry of Completion Measurement NA Economy	10870
 Systems Modernization Project	12735
 Systems OPE Oshakati Premier Electric PAYGo	12399
+Systems OPs	13005
 Systems Phase	1495
 Systems Point-of-Sale Persons	940
 Systems Private Radio Transceiver Stations	736
+Systems Processing	13017
 Systems Program SOGIM Société Gabonaise	766
 Systems Project Conceptual	12395
 Systems RATING OPPORTUNISTIC STAGE Malawi	12214
 Systems Requirements Specifications	12448
 Systems Review	12541
 Systems S.L Omnilia NLS Ltd	8530
+Systems SOPs	13005
 Systems Security Certified Practitioner	1940
 Systems Society ISO Health Information System	1009
 Systems Standards	12453
 Systems The Bank	12390
 Systems View of Digital Integration. South	11927
+Systems and Applications	12917
+Systems and Applications The Department of E-Government	12917
 Systems and Infrastructure Vendor Engagement Guidelines	12453
+Systems and Network Administrators	12917
 Systems and Platforms	6177
+Systems and Processes	12917
 Systems and Software	8605
 Systems for Government Procurement Khartoum	8923
+Systems for Lead Systems Analyst	13037
 Systems-Level	3791
 Systems-thinking	10060
 Systems. Deploying Infrastructure for Industrialisation	5912
@@ -2925,10 +3242,13 @@ T Statistics Namibia Population System	12327
 T Systems	4434
 TANZANIA’S Electronic Public Procurement System	10504
 TAX COMPLIANCE SYSTEM PIN CODE	11240
+TAX SYSTEM ROLLOUT	12948,304
 TRAIN ARTIFICIAL INTELLIGENCE SYSTEMS IN LESOTHO	12713
 TRANSFORMATION OF NATIONAL IDENTITY SYSTEM	12758
+TRANSMISSION SYSTEMS SCOPE	12949
 TRANSPORT SAVINGS SOLAR-POWERED WATER SYSTEMS BIODIVERSITY	11586
 TTOS Visa Application System	11986
+TVS Trade Verification System VAT	12951
 Table AS. The Open Systems Interconnection	1009
 Table of Contents Zimbabwe's Health Delivery System	21
 Tanzania Forest Management Information System	11639
@@ -2940,7 +3260,7 @@ Tanzania’s Instant Payment System	7178
 Target Systems	10617
 Targeting System Social Protection Non-consulting	11855
 Tax Administration Support System	12500
-Tax Administration System	2744,9221,483
+Tax Administration System	2744,9221,483,605
 Tax Administration System MDA Ministries	1284
 Tax Filing System	6432
 Tax Invoice Management System	7746
@@ -2950,9 +3270,10 @@ Tax Mgmt Information System I-7	10785
 Tax System Modernization Plan	10997
 Tax Systems Division	12500
 Tax and Revenue Management System	9253,144,3094,18
+Taxcore Electronic Invoicing System	13171
 Taxpayer Relationship Management System. Built	286
-Teacher Management Information Systems	12726
-Technical Support for Digital Systems	12241
+Teacher Management Information Systems	12726,344
+Technical Support for Digital Systems	12241,839,15
 Technology IRMS Incident Recording Management System	12717
 Technology ITRS International Transactions Reporting System	2775
 Technology MBA Information Systems	11134
@@ -2965,19 +3286,24 @@ Telecommunications and Artificial Intelligence Systems	2980,1323,698,144
 Tender Announcement for National Instant Payment System	5864
 ThriveAgric’s Agricultural Operating System	11127
 Through Intelligent Card Production Systems	4677
+Through the African Internet Exchange System	12904
 Through the Pan-African Payment and Settlement System	9593
 Tiered Support System	11252
 Time-of-Use TSO Transmission System Operator USD	12233
+Times of Crisis Automated System for Customs Data	13042
 ToR Systems Recurrent	11905
 Top Systemic Risks	11134
 Topographic Information Systems JBA Joint Business	11261
 Tourism Information Management System	11939
 Tourism Statistics System	12631
+Towards Inclusive Education Data Systems	13016
 Traceability and Verification System	847
 Tracking System Ensuring	4260
+Trade Facilitation System Initiatives	12951
 Trade Receivables Discounting System	3391
 Trade Systems and Pipes Data	1161
-Trade Verification System	11134
+Trade Verification System	11134,1817
+Trade Verification System. Digital	13123
 TradeNet System	6946
 Trading Partners’ Electronic Systems for International Trade	12389
 Training Institution Information System	1261
@@ -3002,10 +3328,12 @@ Turkey's Integrated Social Assistance System’. World	11133
 Tutoring Systems	1814
 U.S. Government Data System Funding	4167,35,15,43
 U.S. Government-developed Electronic Patient Tracking System	4260
+UBR Management Information System	12978
 UBR and National Identification System	12181
 UHC Business Intelligence System Nov	10970
 UJ’s School of Consumer Intelligence and Information Systems	8142
 UK's Payment Systems Regulator	9832
+UN Development System	12962
 UN System	1243
 UNHCR Upgrades Its Data Management System	12227
 UPS Power Supply System. The Data	12253
@@ -3047,12 +3375,14 @@ Urban Security and Monitoring System	619
 Urban Security and Monitoring System Project	619
 Urban Security and Monitoring System Project China	619
 Urgency for Systemic Transformation	11285
+Usability Testing Strengthens System Readiness Testing	13016
 Usage and Adoption RATING SYSTEMATIC STAGE	12214
 Use of Electronic Systems	12389
 User Stories Zambia Education Management System	12408
 Users of Artificial Intelligence Systems	2958
 Utilising Global Navigation Satellite Systems	1131
 Utilizing the GPE System Capacity Grant	12175
+V LICENSING OF PAYMENT SYSTEMS	12938
 VAS System.The	11986
 VC Venture Capital Registration System IRC	12297
 VITAL STATISTICS SYSTEMS OF KENYA	12138
@@ -3071,7 +3401,7 @@ Vice-Presidente Executivo de Space Systems da Airbus	5405
 Visa Adjudication System	5533,6453
 Visa Application System	11986
 Vital Records System	10822
-Vital Statistics System	10765,10,1376,186,1,29,46
+Vital Statistics System	10765,10,1376,186,1,29,46,546
 Vital Statistics System HIS Health Information	12151
 Vital Statistics System The Namibia Statistics	12337
 Vote Book System	12322
@@ -3082,6 +3412,7 @@ WAEMU Automated Interbank Clearing System	10853
 WAEMU Automated Transfer and Settlement System	10853
 WAEMU Regional Payment System	118
 WAEMU's Instant Payment System Launches	10929
+WIDEBAND DATA TRANSMISSION SYSTEMS WIDEBAND DATA	12949
 WMO Global Observing System	11553
 WMO Information System	11553
 Warehouse Receipt System	5883,3707
@@ -3090,7 +3421,7 @@ Water Information System	9124
 Web Application Attacks System Attacks Mobile	6671
 Web-Based Systems	12325
 WebLab System	11939
-West Africa Cable System	2677,665,179,261,899,1923,5259,102,636
+West Africa Cable System	2677,665,179,261,899,1923,5259,102,636,332,27
 West Africa. Benin Health System Enhancement	11867
 West African Police Information System	3061,8867
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
@@ -3099,6 +3430,7 @@ Wireless Access Systems	736
 Work Permit System	12612
 Working Paper E-tax System Adoption and Tax	12162
 Working System Reducing	10555
+World Bank Grievances Redress System	12990
 World Bank System Capacity UNESCO US	11916
 World Bank Systematic Country Diagnostic	3456
 World Bank Systematic Tracking of Exchanges	11924
@@ -3112,10 +3444,12 @@ World Geodetic System	11405
 World Meteorological Organization Information System	11553
 World's Trading System Needs	10718
 XXX Low Impact and Low Risk System	5665
+Xecutive AOS Acropolis Operating System API	13185
 Year Health Systems Partnership	11748
 Year U.S. Government Data System Funding	4301,1051
 Yearly Annual System	10964
 Yearly System	10964
+ZAAMWANI INTRODUCES NEW AGRICULTURAL TAX SYSTEM	13179
 ZAMBIA INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
 ZAMBIA INTERGRATED LAND ADMINISTRATION SYSTEM	1222
 ZIPSS SYSTEM Designation Comment Signature Date	12364
@@ -3134,6 +3468,7 @@ Zambia Launches Digital Property Management System	6170
 Zambia Social Protection Information System	12453
 Zambia's Integrated National Registration Information System	8039
 Zambia's SmartCarePro Electronic Health Record System	2289
+Zambia's Teacher Tracking System	13070
 Zambia. Electronic Journal of Information Systems	12467
 Zambian Interbank Payment and Settlement System	6938
 Zambian National Payment Systems Annual Report	12376

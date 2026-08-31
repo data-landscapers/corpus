@@ -77,15 +77,15 @@ INESIA	6997
 INEZA	12413
 INEZAYIMANA	12413
 INIS Instituto Nacional de Investigação de Saúde INEMA	11376
-Ineffective	5679,5722,465,50,298
+Ineffective	5679,5722,465,50,298,866
 Ineffective Lack of Hindered	12241
 Ineffective Reference	5679
 Ineffectiveness	11986
 Inefficiencies	7751,3398,1033
-Inefficient	1284,704,8988,898,7,295,26,144
+Inefficient	1284,704,8988,898,7,295,26,144,659,48,27
 Ineligibility	3714
 Inequalities	1988,8841,366,895,188
-Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254,330,814
+Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254,330,814,254
 Inequality Productivity	1828
 Inequality and Sustainable Development	12178
 Inequitable	3861,8314
@@ -133,9 +133,10 @@ Provision of Adequate Technical Support INEC	10049
 REMPE INE	10757
 RGÃOS DELEGADOS DO INE Artigo	11516
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
-Reduced Inequalities	3745,8110
+Reduced Inequalities	3745,8110,1109
 Reduced Inequalities Goal	11332
 Reduced Inequalities SDG	12457
+Reduced Inequalities. Further	12964
 Reducing Inequality	970
 Report Inefficient	12214
 SPE GRH GTIC INADE INE INEE	10766

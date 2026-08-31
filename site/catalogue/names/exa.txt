@@ -8,6 +8,7 @@ Amateur Radio Examination US	736
 Assess Enrol EXAMPLE AI-enabled	11156
 Attributes Symbol Example Application Name N	9124
 AÑO QUE SE EXAMINA	3179
+Bar Examination	12972
 Bennett S. Examining	3791
 Botswana Examinations Council	12574
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
@@ -18,21 +19,26 @@ Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
 Data Explanation Example Good Poor Definition	12360
+Deeds Examination and Registration	13251
 Digitize National Exams	4670
 Direction Générale des Examens	10847
 Directorate of Examinations of MEPPSA	11905
 Directorate of National Examinations and Assessment	12345
 Driving License Exam Results	12333
+ECESWA Examination	12975
 EU AI Act. Examples	11135
 EX189-SEC Exagrid	11209
 EXA Express	1766
 EXACT NUMBER OF DATA SUBJECTS WHOSE	2709
+EXAMINATION COUNCIL OF ESWATINI	12975
 EXAMINING HOW ORGANISATIONS MAINTAIN COMPLIANCE	1686
 EXAMPLE	11007
 EXAMPLES	11007
 EXAMPLES OF INTERNATIONAL FRAMEWORKS ON DATA	1243
 EXAMPLES OF THE USE OF AI	11156
 Educational Assessment and Examination Service	10709
+Enhanced OpenEMIS Exams	12974
+Eswatini ECESWA Examination Council of Eswatini ECOT	12975
 Exa Agent	9605,670
 ExaGrid	11209
 ExaGrid Backup Storage. ExaGrid	11209
@@ -60,14 +66,17 @@ Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
 Exames	10777
 Examinar	1701,9748
-Examination	3,8351,1842,2031,402
+Examination	3,8351,1842,2031,402,346,168
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
-Examinations	736,3874
+Examination Fee	12977
+Examinations	736,3874,8533
+Examinations Council of Eswatini	12975
 Examinations Grade	11220
 Examine	5677,6317,451
 Examine NGSO	5680
 Examined	1958,7781
 Examiner	747,8144,1985
+Examiners of Deeds	13251
 Examines	1004,7601,3609
 Examinez	747
 Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30
@@ -100,11 +109,12 @@ Example of Private Mail Bag	11129
 Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129
 Examples for Section	8530
 Examples of G2P	11130
 Examples of M-PESA	11994
 Examples of Notable Enforcement	11896
+Examples of OpenEMIS Deployment Specific	13143
 Examples of PIPs	12374
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 Examples of Successful African	10856
@@ -122,6 +132,7 @@ Grouping Roles Examples	6832
 Guides Learning and Teaching Support Materials Examinations	11241
 Harare. Example Zimbabwean Location	6666
 Highlight Real-World Examples	12675
+Human Rights Examiner	12936
 Infância. Gabinete de Exames Nacionais	11557
 Integration of ExaGrid Backup Storage	11209
 International Example	3861
@@ -133,6 +144,7 @@ Kenya National Examinations Council	899,3084,2963
 Level Description Examples Public	11952
 Malawi National Examinations Board	12175
 Matches Exa	3098
+Microsoft Professional Exam Vouchers	13095
 Mozambican Example	3861
 NABTEB National Business and Technical Examinations Board	11860
 NECO National Examinations Council	11860
@@ -144,11 +156,13 @@ National Examinations Council of Tanzania	10196,479
 Number of Examination Centres	2775
 O' Level National Exams. END	770
 Oio Quinara Tombali Example Sra. Celina	11515
+OpenEMIS Exams	12974
 PROTECTION CAN LEAD TO HARM Examples	11156
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa. Example Related Person	6666
 Park. Examples	11863
 Past Exam	11220,21
+Physical Examinations	13053
 Primary School Leaving Examination	7671
 Principles and Examples	12529
 Princípio de Exactidão	11374

@@ -3,7 +3,8 @@ C Programa de Reforzamiento de ENPIGE	4209
 ENPCT	2816,9970,33,23
 ENPCT Empresa Nacional de Parques de Ciencias	12786
 ENPCT National Company of Science and Technology Parks	4214
-ENPF Chief Executive Officer	11626
+ENPF CEO	13008
+ENPF Chief Executive Officer	11626,1382
 ENPIGE	4209
 ENPLT	10712
 Electricidade de Moçambique ENPCT	2816

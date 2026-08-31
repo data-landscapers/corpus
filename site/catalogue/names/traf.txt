@@ -40,6 +40,7 @@ Data Traffic NB	6000
 Digital Road Traffic System	5119
 Director of Traffic	3066
 Directorate of Road Traffic Services and Safety	12309
+Directorate of Road Traffic and Safety Services	13122
 Disrupting Internet Traffic	2677
 Domestic Fixed Network Traffic	6671
 Domestic Fixed Voice Traffic	6671
@@ -72,7 +73,7 @@ Fuel and Traffic Management The Ministry of Transport	12200
 General Traffic Department	8706
 HOWARD-TAYLOR REJECTS DRUG TRAFFICKING CHARGES	10581
 Heart Dis- Kidney and Road Traffic	12151
-Human Trafficking	12597
+Human Trafficking	12597,359
 Human Trafficking and Smuggling of Migrants	8480
 INCREASED TRAFFIC	1940
 INSUL. REG. CONT. TRAFICO PROTEC. SOCIEDAD	4209
@@ -111,6 +112,7 @@ Local and National Telephone Traffic	3862
 Local and National Traffic	3862
 Localise Traffic IN- Submarine Cable Landing	11857
 Localise Traffic the IXPs	11857
+MALTIS Malawi Traffic Information System Mbps	12917
 MILLION Domestic Courier Traffic Ms	9781
 MILLION International Outgoing Traffic	9781
 MILLION ONA Outgoing Traffic	9781
@@ -132,6 +134,7 @@ Mobile Data Traffic Eswatini Mobile	12395
 Mobile Data Traffic Figure	2776
 Mobile Data Traffic Recovery	12395
 Mobile Internet Traffic	2776
+Mobile Malawi Traffic Information System	13060
 Mobile Off-Net Traffic	2776
 Mobile Off-Net Traffic Distribution	2776
 Mobile SMS Traffic	6000,671
@@ -164,6 +167,7 @@ National Traffic	6000
 National Traffic Point-Based Penalty Management	12200
 National Traffic Point-Based Penalty Management System	12200
 Net Traffic	2776,7005
+Network Traffic Management	12917
 Off-Net Domestic Mobile Voice Traffic	2776
 Off-Net Domestic Voice Traffic	2776
 Off-Net Domestic Voice Traffic Mobile-to-Mobile Off-Net	2776
@@ -187,6 +191,7 @@ Postal Corporation of Kenya Traffic	6946
 Postal Corporation of Kenya Traffic Indicator	6946
 Postal Traffic	6671
 Postal and Courier Overview Postal Traffic	9781
+Prevention of People Trafficking and People Smuggling	12910
 Private Courier Traffic	6671,275
 Private Courier Traffic FY	6946
 Proactive Identification of High-Risk Traffic Factors Zambia	10347
@@ -205,14 +210,18 @@ Reported Road Traffic Accidents	2775
 Reported Road Traffic Accidents and Persons Killed	2775
 Road Traffic	1988,5857,4306
 Road Traffic Accident	12151
-Road Traffic Accidents	12151
+Road Traffic Accidents	12151,802
 Road Traffic Act	7845,320
 Road Traffic Diarrhea Accidents	12151
+Road Traffic Directorate	13122
 Road Traffic Infringement Agency	7755
+Road Traffic Safety Services Directorate	13060
 Road Traffic Sepsis	12151
 Road Traffic ZRCP ZEMA	1988
 Road Traffic and Safety Agency	1988
 Road Traffic and Safety Mitigation	1988
+Road Traffic and Transport Act	13189
+Road Traffic and Transport Regulations	13189
 Roads and Road Traffic Act	1988
 Roads and Road Traffic An Act	1988
 Roaming Traffic	2776,3895
@@ -230,10 +239,14 @@ Storage Revenue Container Freight Traffic Developments	2775
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
 TRAFFIC	11211,51,1133
+TRAFFIC CASES	12920
 TRAFFIC DATA	3862
+TRAFFIC TELEMATICS	12949
 TRAFIGO SARL	6597
 TRAFITECH	11062
 TRAFSCAN	4813
+TRANSPORT AND TRAFFIC TELEMATICS	12949
+TRANSPORT AND TRAFFIC TELEMATICS APPLICATIONS TRANSPORT	12949
 Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
@@ -277,7 +290,7 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101,87,33
+Trafficking	5242,5517,78,4,1311,101,87,33,555,18,38,201
 Trafficking Data	1243
 Trafficking In Persons	12373
 Trafic	9781

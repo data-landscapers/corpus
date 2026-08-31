@@ -14,7 +14,12 @@ Adam Soulé Zoumarou	6341
 Administration of Special Economic Zones	7160
 Administração Educacional Bissau Zona-I Private	11552
 Affaire Martinez Zogo	10379,2,310
+Agri-Ecological Zone Consultant	12912
+Agro Ecological Zone and Carrying Capacity	12912
+Agro-Ecological Zone	12912
+Agro-ecological Zone and Carrying	12912
 Agro-ecological Zones	520
+Agro-ecological Zones and Carrying Capacity	12912
 Airport Special Economic Zone. Acknowledging	12605
 Alexandra K. Zoe	8393
 All Zones Carthago Compensation SIBTEL National	6938
@@ -78,6 +83,7 @@ Director-General Zolana João	7262
 Djibouti. Zouhour	3370
 Djogol Zone	6755
 Doba-Koumra-Sarh-Kyabé-Am Timan-Abéché-Am Zoer-Guéréda-Iriba	343,18
+Dr. Davie Zolowere	13158
 Dr. Zolana Joao	5438,735
 ENEO Zone Titre Localités Observations DRY	10975
 EXCLUDED BY DESIGN MARKET DEVELOPMENT ZONE	418
@@ -85,6 +91,7 @@ East Gojjam Zone	3791
 East Shewa Zone	12246
 East Shewa Zone of Eastern Ethiopia	12246
 East Shoa Zonal Health Department	12246
+Economic Processing Zone	13108
 Economic Technology Zone	2945
 Economic Zone	11863
 Elizabete ZONGO	8321
@@ -94,9 +101,13 @@ Enseignement Général de Zogbo	10821
 Erer and Shebelle Zone of Somali	12195
 Escola Superior de Informática Bissau Zona-V Private	11552
 Esigungwini Sokulawulwa Kwezinto Zokuthutha Umphakathi	11573
+Establishment of Special Economic Zones	13122
+Estimated Population Phase District No. of Zones	13095
 Exclusive Economic Zone of Nigeria	11976
 Exclusive Economic Zones	4676
 Export Processing Zones	2775
+Export Processing Zones Authority	12956
+Export Processing Zones ESS	13053
 Faculdade de Direito de Bissau Bissau Zona-V Public	11552
 Fatimata ZOUNGRANA	4551,1913
 Fevereiro Bissau Zona-V Public	11552
@@ -162,6 +173,7 @@ Lagos Local Zone	10505
 Lagos State’s Lekki Free Zone	3006,6863
 Liberia Special Economic Zones Authority	11746
 Libreville Special Economic Zone. ST Digital	7093
+Likoma Zomba City Lilongwe City	13080
 Livelihood Zones of Angola	10763
 Local Zone	10505
 Local Zones	6471
@@ -176,6 +188,7 @@ MTN’s Zol Kebir	10657
 MW Abeokuta Technology Zone Data Centre	7960
 Machine Readable Zone	2430
 Machine-Readable Zone	2357
+Machinga Zomba Blantyre Lilongwe Salima Mulanje	13080
 Madame Aurélie ADAM SOULE ZOUMAROU	1909
 Maitengwe and Zone	7236
 Max Zoom	9769
@@ -194,7 +207,7 @@ Mrs. Aurèlie ADAM SOULE ZOUMAROU	1909
 Ms Layla Zotova	7515
 Multi Facility Economic Zones	12376
 Multi-Facility Economic Zones	12376
-Mzuzu and Zomba	12369
+Mzuzu and Zomba	12369,609
 N ID State Zone Population	11857
 NA ZONA	11531
 NAHOURI PO ZOUNWEOGO MANGA GNAGNA BOGANDE	10847
@@ -247,6 +260,7 @@ Requisitos de Zoneamento	11898
 Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revision of Agro-Ecological Zones Report Authors	520
 Revision of Zimbabwe's Agro-Ecological Zones	520
+Rundu Zoning Scheme	13189
 Régine Toulcida ZOMBRA	8321
 SERIAL NUMBER OF THIS ZONE	11129
 SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
@@ -276,9 +290,10 @@ Special Economic Zone	5793
 Special Economic Zone Regime	12208
 Special Economic Zone for Technologies	2794,9,44
 Special Economic Zones	4528,1633,2593,2470,1288
-Special Economic Zones Act	6921
+Special Economic Zones Act	6921,6035
 Special Economic Zones Amendment Bill and Technopolis	6161
 Special Economic Zones Authority	5430,1076
+Special Economic Zones Committee	12962
 Special Economic Zones. Microsoft’s Africa	6266
 Standard Zone News Skip	6281
 Startup Act and Economic Zone Expansion Macroeconomic	12376
@@ -308,6 +323,7 @@ Wi-Fi Zone	6987
 WiFi Zone	5380
 Wifi Zone	6257
 Wifi Zones	3551
+Windhoek Zoning Scheme	13189
 World Bank and Jan van Zoelen Cortes	12031
 YATENGA ZONDOMA	10847
 Yas Northern Zone Commercial Manager	9453
@@ -364,13 +380,17 @@ Zollman	12227
 Zollmann	12227,70
 Zollo	2093
 Zollo and Winter	2093
-Zomba	3349,6000,2825,39,29,36,13
-Zomba City	12291
-Zomba District	12242
+Zomba	3349,6000,2825,39,29,36,13,687,1,81,2,18,15,45
+Zomba City	12291,789
+Zomba District	12242,920
 Zomba District Health Office. Informed	12242
+Zomba District Registry	13040
 Zomba Dowa Thyolo Mulanje Mchinji Machinga	12214
 Zomba High Court	12174
 Zomba Prison	12174
+Zomba Rural	13095
+Zomba Urban	13095
+Zomba and Mzuzu	12917,61,1
 Zombo	3087
 Zona C	11415,13
 Zona Centro	2816,8745
@@ -398,6 +418,7 @@ Zondi. Under POPIA	5806
 Zondo	9128
 Zondoma	10847,28
 Zondoma Koti	10875
+Zondwako Clinic Maternity Department	12962
 Zone Categories Nationally Representative Sample	7869
 Zone Franche	235
 Zone Monétaire	8556

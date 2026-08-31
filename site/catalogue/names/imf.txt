@@ -6,6 +6,7 @@ Business IMF	3653
 CONGO References IMF	1828
 Cameroon. IMF Selected Issues Paper SIP	10997
 Case of Cabo Verde. IMF	11855
+Cataloging-in-Publication Data IMF Library Names	12948
 Communication Campaign IGA Income-Generating Activity IMF	11924
 Consolidated Fund IMF Securities Account	11131,3
 Consommation IMF	10874
@@ -21,6 +22,7 @@ Essential Analytics for Compliance Risk Management. IMF	10997
 Evaluation ILO International Labour Organization IMF	10759,78,1052,451
 Evidence-Based Analysis for Mobilizing Domestic Revenue. IMF	10997
 Executive Director for Morocco. IMF Country Report	8891
+FY Financial Year IMF International Monetary	13060
 Facebook Mail RSS X Youtube IMF	5101,850
 Financial Report IMF International Monetary Fund	11549
 Forthcoming IMF	9331
@@ -40,6 +42,7 @@ ILO. IMF	10841
 IMF AFRITAC South	11134
 IMF AI Preparedness Index	11140
 IMF AI-readiness	7989
+IMF Article IV	12962
 IMF Board	1284
 IMF Burkina Faso	1366
 IMF CELPAID	4459
@@ -59,6 +62,7 @@ IMF Departmental Paper No	11140
 IMF ECF	1592,6103
 IMF ECF and World Bank DPO	12176
 IMF Executive Board	11554
+IMF Exploring the Adoption of Selected Digital Technologies	12948
 IMF Extended Credit Facility	5247
 IMF FAD	3537
 IMF FSI Guide	6938
@@ -87,7 +91,9 @@ IMF Mission Chief for Eswatini	3653
 IMF Mission Chief for Nigeria	6679
 IMF Mission Chief for Nigeria. Bo Zhao	6679
 IMF NEWS	6679
-IMF Note	11140
+IMF Note	11140,1808
+IMF Note NOTE	12948
+IMF Notes Series	12948
 IMF Policy Paper	1828
 IMF Producer Price Index Manual Theory	11152
 IMF Quota Subscription Account	11131,3
@@ -102,6 +108,7 @@ IMF Selected Issues Paper No	10997
 IMF Selected Issues Papers	10997
 IMF Special Drawing Rights. Annual Integrated	11134
 IMF Staff Completes	10841
+IMF Staff Discussion Note	12948
 IMF Staff Discussion Note SDN	9739,1401
 IMF Staff Monitored Programme Technical Committee	11131,3
 IMF System	11906
@@ -111,7 +118,7 @@ IMF The Governor and CBE	11134
 IMF Uma IMF	11370
 IMF Underwriting	11131,3
 IMF WEO	10856,1529
-IMF Working Paper	1828,849,8463
+IMF Working Paper	1828,849,8463,1808
 IMF Working Paper No. WP	1828
 IMF Working Paper WP	1828,9028,141,143
 IMF Working Papers	1828
@@ -120,6 +127,7 @@ IMF World Economic Outlook Database	12385
 IMF World Economic Outlook Percentage	11964
 IMF World Economic Outlook Update Publication	2775
 IMF and Guinea-Bissau	11536
+IMF and WBG	12962
 IMF and World Bank	970
 IMF's	4645
 IMF's AI Preparedness Index	7637
@@ -146,7 +154,7 @@ IMF. Morocco	8891
 IMF. Outre	12065
 IMF. Sub-Saharan Africa	7637
 IMF. Todas	11370
-IMF.org	11554
+IMF.org	11554,1394
 IMFBlog	6965,580
 IMF’s	6946,4185
 IMF’s AI Preparedness Index	11140

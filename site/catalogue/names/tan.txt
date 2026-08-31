@@ -141,7 +141,7 @@ Ghana Tanzania Côte	4972
 Ghana and Tanzania	771,5880,5563
 Ghana and Tanzania. Nigeria and Egypt	11324
 Glenn Tan	9658
-Government of Tanzania	104,575,42,1956,6472,1912
+Government of Tanzania	104,575,42,1956,6472,1912,1999
 Governo da Tanzânia	4736
 Guardian Tanzania	10591
 Guinea and Tanzania	5236
@@ -190,7 +190,7 @@ KICTANet Think Tank	9547,101,2579
 KPLC and TANESCO	12256
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kartu Tanda Penduduk	11994
-Kenya and Tanzania	2677,899,863,31,325,430,2989,3617,402,23
+Kenya and Tanzania	2677,899,863,31,325,430,2989,3617,402,23,692
 Kenya and Tanzania Kenyan IDs	4439
 Kenya and Tanzania. African Development Bank	10718
 Kenya and Tanzania. Figure	4439
@@ -215,7 +215,9 @@ Lesotho and Tanzania	8026
 Libya Tanzania Guinea Bissau Uganda Equatorial	10819
 Like AlgeriaAngolaBenin Tanzania’s Heavy Rainfall	9989
 Liquid Intelligent Technologies Tanzania	6746
+Liquid Oxygen Tank	12976
 Liquid Tanzania Chief Executive Officer	6746
+Lubulini Dip Tank	12962
 M Senegal W M Tanzania W	11964
 M Tanzania	814,650
 M Vodacom Tanzania	4521
@@ -254,9 +256,10 @@ Mkilia. Tanzania	5002
 MoHCDGEC. Tanzania Health Sector Strategic Plan	1261
 Mombasa Kwale Kilifi Tana River Lamu	7869
 Mozambique Guinea Zambia Tanzania Uganda Malawi	12278
-Mozambique and Tanzania	771,2751
+Mozambique and Tanzania	771,2751,9531,7
 Mr. Kim Leng Tan	11822
 Mrs. Tania Isaac Clerk	1333
+Ms Tania Shawe	13213
 Mukherjee and Tanvir	8022
 Mupanga James and Mutume Tanaka Elspet Cordelia	2518
 Mutume Tanaka Elspet Cordelia	2518
@@ -268,6 +271,7 @@ National Tanzania	9779
 National Why Tanzania	9779
 Net Amount Tangible	11955
 Nigeria and Tanzania	771,6021,309
+Nobuyuki Tanaka	13058
 Northwest Tanzania	3791
 Nyandarua Marsabit Nyeri Tana River	12251
 Oil and Petrochemical Tank Terminal	4680
@@ -388,8 +392,10 @@ Tandis	6067,4810
 Tandjilé	3433
 Tandjilé and Ennedi Est	3433
 Tandy Kuda Lungu. Published	12416
+Tandzile Mntshali	13245
+Tanele Magongo	12948
 Tang Sanzang	8460
-Tanga	2867,1,3860,79,4816,2,18
+Tanga	2867,1,3860,79,4816,2,18,1417
 Tanga SERIKALI	11643
 Tanga. Akizungumza	11643
 Tanganda Tea’s Ratelshoek Estate	6492
@@ -417,6 +423,7 @@ Tangkawarow	8604
 Tango	10314
 Tangram	6692
 Tanguy	9418
+Tangwa-tweza Shop	13046
 Tani SAGNA	7670
 Tania Priscilla Begazo Gomez	961
 Tanimoto S	9739
@@ -462,7 +469,7 @@ TanzTech	2868
 Tanza	12256
 Tanzan	1261
 Tanzan Health Res Bull	1261
-Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,48,6,2,11,1,23,3,6,30,12,61,6,46
+Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,48,6,2,11,1,23,3,6,30,12,61,6,46,422,10,68,14,40,53
 Tanzania AI	11061,3
 Tanzania Accountants Association President Godvictor Lyimo	8888
 Tanzania Act	6921
@@ -480,6 +487,7 @@ Tanzania Business Report	5883
 Tanzania Business and Investment Guide	5715,4877
 Tanzania By Guardian Reporter	2857
 Tanzania Cap	6921
+Tanzania Centre	12972
 Tanzania Civil Aviation Authority	5883
 Tanzania Commercial Bank	8477
 Tanzania Commission for AIDS Act	6921
@@ -590,6 +598,7 @@ Tanzania Railways Corporation	10592
 Tanzania Resident Registration System Expansion Project	638
 Tanzania Resident Representative	10195
 Tanzania Revenue Authority	6816,105,234,1994,915
+Tanzania Revenue Authority UPS	13053
 Tanzania Rural Broadband Expansion	1527
 Tanzania Rural and Urban Roads Agency	5116,1805
 Tanzania School	10732
@@ -622,6 +631,7 @@ Tanzania and Angola. Dup	1727
 Tanzania and Angola. The MoU	3037
 Tanzania and Botswana. Position	1013
 Tanzania and Côte	10315
+Tanzania and Eswatini	12972
 Tanzania and Ghana	771
 Tanzania and Ghana E-levy	10856
 Tanzania and Kenya	5765
@@ -705,7 +715,7 @@ Tanzania. Want	5715
 TanzaniaDigitalTrust	9491
 TanzaniaDigitalTrustInitiative	9452,39
 TanzaniaInvest Vodacom Tanzania Launches USD	5715
-Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1,365,176,16,588,377,107
+Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1,365,176,16,588,377,107,819
 Tanzanian Fintech NALA Receives Uganda Payment	4405
 Tanzanian M-PESA	6368
 Tanzanian NGO Ubongo	6948
@@ -760,6 +770,7 @@ Tech Tanzanian Fintech NALA Receives Uganda	4405
 Technology TISEZA and Vodacom Tanzania Partner	9897
 Tehama Tanzania	8411
 Themed Reimagining Tanzania’s Future	3366
+Think Tanks	12917
 Through the Tanzania Commission for Science and Technology	11623
 Tigo Tanzania	813,1,15
 Tina Mart. Tanzania	4972
@@ -775,16 +786,17 @@ Uganda and China Vodacom Tanzania and Thunes	6102
 Uganda and Tanzania	6096,1771,2732,279,1378
 Uganda. Tanzania Instant Payment System	514
 Ugandans and Tanzanians	12227
-United Republic of Tanzania	754,208,51,248,1514,31,3362,445,2398,2122,267,262,221,281,507
+United Republic of Tanzania	754,208,51,248,1514,31,3362,445,2398,2122,267,262,221,281,507,247,24,98
 United Republic of Tanzania No	6921
 United Republic of Tanzania The Republic of Zambia	12527
-United Republic of Tanzania and Zambia	318
+United Republic of Tanzania and Zambia	318,12600
 United Republic of Tanzania. Bull World Health	771
 United Republic of Tanzania. PART I PRELIMINARY	6921
 United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
 United Republic of Tanzania. The EAC	7967,3839,1
 Uswisi. Tanzania	7218
+Vacuum Tanker	12976
 Vitol Tank Terminal International Kenya	12256
 Vitol Tank Terminal Kipevu Oil Internalional	12256
 Vodacom Tanzania	4521,1194,304,83,3047,748,143,638
@@ -813,6 +825,6 @@ Yas Tanzania Brings Fibre Connectivity	10590
 Yas Tanzania and Ericsson	6350
 Yas Tanzania. Axian	814
 Z. Tang	5349
-Zambia and Tanzania	10628
+Zambia and Tanzania	10628,2432
 Zanzibar. Tanzania	2867
 Ziwa Tanganyika	2868,3151

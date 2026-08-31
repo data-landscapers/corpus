@@ -1,5 +1,6 @@
 AIO e Web-1.pdf. Bank for International Settlements	6938
 APPLICABILITY OF DISPUTE SETTLEMENT MECHANISM	1243
+ARTICLE X DISPUTE SETTLEMENT	13031
 Abbreviations and Setswana Terms. Executive Summary	12533
 Abuja Declaration Sets Out Key Digital	8241
 Additional Settlement Window	12579
@@ -80,7 +81,7 @@ Department of Human Settlements	11244
 Development Community Real-Time Gross Settlement	11960
 Diesel Generator Sets	12253
 Dispute Avoidance and Dispute Settlement	1243
-Dispute Settlement	1243
+Dispute Settlement	1243,11788
 Dispute Settlement Chapter	1243
 Dispute Settlement Mechanism	1243
 ECOWAS Payment System and Settlement	6938
@@ -93,10 +94,12 @@ Electronic Payment and Settlement System	12286
 Em Setembro	2729
 English and Setswana	12529
 Establish Monitoring Set	1777
+Eswatini’s Real-Time Gross Settlement System	12922
 Executive Secretary of SETIC and Coordinator	6044
 Explanatory Note Setting	11265
 FG Set	9362
 Fisheries and Rural Settlement. The Office	12511
+Framework for Setting	12918
 Fund- Setup Salto	11863
 G Rollout and Sets Vision	6771
 GM-CSIRT and GNA and Set-up	1000
@@ -123,11 +126,14 @@ Human Settlements Entities	11285
 Human Settlements Programme UNHCR United Nations	10759,78,1052,451
 Human Settlements and Land Use Reaseach and Policy	4482
 Human Settlements and Land Use Research and Policy	1514
+INFORMAL SETTLEMENT BASELINE AS CONTAINED	13118
 INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
 IPPs. Sets	10995
 Implementation Unit RF Results Framework SETIC	1284
 Independent Financial Advisors Settlement	4896
-Informal Settlements	11285
+Informal Settlement-New	13046
+Informal Settlements	11285,1833
+Informal Settlements Baseline Report	13118
 Information Age SETA	6832
 Information and Communication Technologies SETA	6832
 Infrastructure NCSS National Clearing and Settlement Systems	12444
@@ -185,6 +191,7 @@ Malawi Sets	2922
 Malawi's Foundational Legal Identity System Sets	12144
 Management System and Settlement Distribution Smart Vehicle	4126
 Mauritius Automated Clearing and Settlement System	6938
+Medical Language Models for Resource-Constrained Settings	13158
 Meheba Refuge Settlement Kalumbila District	1988
 Meheba Refugee Settlement	1778,89,121
 Meheba Refugee Settlement. Component	1988
@@ -207,11 +214,13 @@ NATIONAL CLEARANCE AND SETTLEMENT SYSTEMS ARRANGEMENT	12528
 NBE Payment and Settlement Systems Directorate	12269
 NBE's Real-Time Gross Settlement	12269
 NET SETTLEMENT INSTRUCTIONS SECTION	12484
+Namibia Informal Settlements Baseline Report	13118
 Namibia Interbank Settle-	6938
 Namibia Interbank Settlement System	6988,1263
 National Bank of Ethiopia. Settlement	12269
 National Clearance and Settlement Systems	12537
 National Clearance and Settlement Systems Act	12528,70
+National Clearing and Settlement Systems Act No	12938
 National Department of Human Settlements	11285
 National Indicator Data Set	396
 National Indicator Data Set Systems DTPS	396
@@ -231,6 +240,7 @@ Nigeria Interbank Settlement System	7179
 Nigerian Inter-Bank Settlement Systems	12050
 Nigerian Interbank Settlement System	2762,941
 Nigerian Interbank Settlement Systems	5880
+Number of Cases Settled	13053
 Number of Set Top Boxes	12395
 O Plano Setorial da Educação	11557
 O Setor Empresarial	1265
@@ -242,7 +252,9 @@ PAPSS Local Currency Settlement System	8081
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PART II Clearance and Settlement Systems	12528
 PART III Finality of Settlements Within Recognised	12528
+PART XIII SETTLEMENT OF DISPUTES Settlement	12938
 PAYMENT AND SETTLEMENT SYSTEM QUARTER ENDED	12364
+PAYMENT INSTRUCTIONS AND FINALITY OF SETTLEMENT	12938
 PDF. Set	11252
 PLANO SETORIAL DA EDUCA	11523
 PSPs. Settlement	12270
@@ -256,6 +268,7 @@ Part F Settlement	11181
 Payment and Settlement System	10718,1282,214
 Payments and Settlement Department	12542
 Payments and Settlement Department. Requests	12542
+Peaceful Settlement of Disputes	12891
 Pipeline Scaling Set	6832
 Plan SDP Spatial Development Planning SETA	11261
 Populating Shared Value Sets	1009
@@ -277,6 +290,7 @@ Real-Time Gross Settlement System	8492,3218
 Real-Time Gross Settlement System of Morocco	6938
 Refugee Settlements	1988
 Refugees and Host Community of Meheba Refugee Settlement	1778
+Reginal Clearing and Settlement Operator	13147
 Regional Clearing and Settlement Operator	12836
 Regional Payment and Settlement System	6938,5348
 Regional Stock Exchange Settlement Bank	10853
@@ -292,7 +306,7 @@ SA Software Sector Set	11929
 SADC Real-Time Gross Settlement	12432,252
 SADC Real-Time Gross Settlement System	10169
 SADC Regional and Settlement System Operator	5263
-SADC-RTGS Settlement Statistics and Indicators	12252,584
+SADC-RTGS Settlement Statistics and Indicators	12252,584,311
 SCRYPT Expands Stablecoin Settlement Network Across	7378
 SET OUT IN PART	11240
 SETA Media Information and Communication Technologies Sector	11196
@@ -324,11 +338,14 @@ SETTLEMENT OF DISPUTES ARTICLE	12527
 SETTLES	11572
 STANDARD SETTING	11184
 Saniya Ansar and Seth Garz	10977
+Seamless Setup	13095
 Senate Session That Set the Tone	9517
 Set Administrative Marital Status Zimbabwe	6666
 Set Capital	12882
 Set Clear Eligibility and Evaluation Criteria	12675
 Set Countries	6666
+Set Disaster	12977
+Set Disaster Committees	12977
 Set E1	8606
 Set E2	8606
 Set En	8606
@@ -378,8 +395,10 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85
 Settat	3375
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290
 Setting Zone Setting Gender Mt Kenya	7869
+Setting the Context	13005
+Setting the Context NRB	13005
 Setting the Standard for Regional DPI	12432,252
 Setting the Vision	5241
 Setting-up	11863
@@ -388,7 +407,7 @@ Settings Sitemap	12339
 Settle	9328
 Settled	3676,1220,722
 Settled Object	8380
-Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38
+Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247
 Settlement Account	12364
 Settlement Accounts	12364
 Settlement Agent	12364
@@ -404,8 +423,9 @@ Settlement Law	969
 Settlement Obligations	12364
 Settlement Reserve Account RA Accounts	12364
 Settlement Settlement	12000,364
-Settlement System	9673,1045,284
+Settlement System	9673,1045,284,2050
 Settlement System.............................13 Box	10718
+Settlement of Disputes	13185
 Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Settlement of ZIPSS	12364
@@ -418,7 +438,7 @@ Settles the D1.1	1200
 Settling	10293
 Settor Safo	6351
 Setty Olugo and Ruth Chebet	8285
-Setup	958,927,9978,1019
+Setup	958,927,9978,1019,123
 Setup Scenarios	5665
 Setup Time	12745
 Setup and Installation Guide	5665
@@ -454,13 +474,13 @@ Tongogara Refugee Settlement	9794
 UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 US-based Global Settlement Network	3727
 Unique Nuances of Settling	5863
-United Nations Human Settlements Programme	11285,287
+United Nations Human Settlements Programme	11285,287,1594
 Updated Set of Principles	3583
 Updated Shared Value Sets	1009
 Upgrading Informal Settlements	11285
 Use the Authorised Settlement Agent	12364
 WAEMU Automated Transfer and Settlement System	10853
-Washington Group Short Set	10768
+Washington Group Short Set	10768,2248,29
 White Paper. Sets the ICT	2411
 Work-Integrated MICT SETA DHET	6832
 ZAMBIA INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364

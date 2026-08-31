@@ -13,6 +13,7 @@ AI’s Power Requirements	11140
 AMENDMENT PROCEDURES AND CONSTITUTIONAL REQUIREMENTS	3861
 API Security Requirement	11952
 APRECIAÇÃO DA CONFORMIDADE DOS REQUISITOS FORMAIS	11461
+ARCHITECTURAL AND PERFORMANCE REQUIREMENTS	13185
 AUTHORISATION REQUIRED FOR DONATIONS OR EXPENDITURE	3714
 AUTHORISATION REQUIREMENTS	12374
 Absence of Local Tax Presence Requirements	12389
@@ -34,6 +35,7 @@ Agreements Actually Require Each MOU	5456
 Amendment Procedures and Constitutional Requirements	3861
 Analysis and Requests for Proposals	11131
 Ancillary Services Technical Requirements	11228
+Annexure C Functional and Non Functional Requirements	13037
 Annual PA12b S Revenue Requirements	10779
 Annual Revenue Requirements	10779,601
 Application Requirements	10407
@@ -41,6 +43,7 @@ Application Requirements Applicants	9198
 Application Requirements Interested	9203
 Approve Requisition	9124
 Approved Provider Requirement	6432
+Architectural Requirements	13185
 Arrangement and Request for Augmentation of Access	11105
 Assessment Category BASIC INFO TABLE C-Not Required Country	11855
 AttributeSelection Require	8606
@@ -53,6 +56,7 @@ Authority. PART TWO LICENSING REQUIREMENT	762
 Authorization Requirements	12389
 Availability of Spatial Plans and Zoning Requirements	12389
 Awarding of Request for Proposals	12400
+B. Contents of Request for Bids Document	13185
 B. REQUEST FOR PROPOSAL REGISTRATION FORM	12400
 B.2 Requirements	8840
 BAI01 Managed ITCap G02 Requirements for Processes	9237
@@ -60,20 +64,27 @@ BANK REQUIRES THE SUBMISSION	12374
 BCP Requirements Code of Conduct for Public Entities	6432
 BID DOCUMENTATION REQUIREMENTS Bidders	12693
 BULK REQUESTS FOR TRN	11298
+BUSINESS FUNCTION REQUIREMENTS	13185
 Backup Requirements Implement	11952
 Backup and Recovery Requirement	11952
 Band Devices Requirements	736
 Benchmarking Requirement	11952
 Birth and Death Certificate Registration Requirements	12496
 Board for Requirements	6946
+Body Request for Bids Goods	13185
 Botswana Request	5692
 Botswana Request. State	5692
+Budget Release Request	12977
 Bulk TRN Requests the Enrolment	11298
 Burundi Request	5692
 Burundi Request. State	5692
+Business Analyst Mandatory Requirement Compliant	13037
 Business Change Request	9124
+Business Continuity Requirements	12961,76
+Business Function Requirements	13185
 Business Requirements	12454
 Business Requirements Specification	11298
+Business Requirements Specifications	13080,15
 C. REQUEST FOR PROPOSAL CONDITIONS	12400
 C. Request for Proposal Conditions	12400
 CAPITAL REQUIREMENTS	10861
@@ -101,8 +112,10 @@ Cabo Verde. Requesting Unit	11965
 Capital Adequacy Requirements	12365
 Case Minimum Requirements Password User	11952
 Category Not Required	11924
+Category Technical Score Business Function Requirements	13185
 Certification Requirements	5665
 Change Management Requirement	11952
+Change Request	13037
 Checklist of Requirements	6946
 Citing Security and Equipment Traceability Requirements	5973
 Civil Registry. Requirements	10812
@@ -141,6 +154,7 @@ Cross-Cutting Requirements	6423
 Cross-Cutting Requirements Significant	6423
 Customer Requests Service Business Business Service	9124
 Cybersecurity Coordination Requirements	3861
+D. GENERAL TECHNICAL REQUIREMENTS	13185
 DE LA REQUETE	10821
 DE LA REQUETE DECISION FINALE	10821
 DE LA REQUETE DECISION FINALE Particulier	10821
@@ -153,6 +167,7 @@ DUAT Requests	427
 Data Exchange Architecture Requirement	11952
 Data Layer Requirement	11952
 Data Lifecycle Management Requirement	11952
+Data Migration Requirements	13037
 Data Processing Which Requires Consent	11956
 Data Processing Which Requires Consent Article	11956
 Data Residency Requirements	6432
@@ -168,11 +183,13 @@ Digital Sovereignty Requires More Than Just	6879
 Digital System and Technology Requirements	9855
 Directive Training Requirements	3861
 Directive Training Requirements All	3861
+Documentation Requirements	13185
 Documentation and Support Requirement	11952
 Due Diligence Requirements A	11233
 Dévéloppement OBJET DE LA REQUETE Traitement	10821
 E-Solutech Sarl OBJET DE LA REQUETE	10821
 E. Request	7845
+E. TESTING AND QUALITY ASSURANCE REQUIREMENTS	13185
 EDGE REQUEST FOR EXPRESSIONS OF INTEREST	12834
 ESS and Requirements National Laws and Requirements Gaps	1988
 EVALUATION MATRIX. Compliance Area Requirement	6432
@@ -180,6 +197,7 @@ EXPERIENCE REQUIREMENTS FOR THE KEY EXPERTS	3678
 Economic Integration Requirements	3861
 Elastic Scaling Requirement	11952
 Elections and Actions Required Shareholders	4896
+Electrical Metering Standards Requirements	12998
 Elementos de Requisito de Consultas Públicas	11898
 Elevated Cross Cutting Requirements	6423
 Eligibility Requirements Applicants	11347
@@ -187,6 +205,7 @@ Emerging Technologies Requirement	11952
 Emerging Technologies Requires Clear Operational Guidelines	7548
 Encryption Requirement	11952
 End-User Training Requirement	11952
+Enquiries PART VII ADDITIONAL REGULATORY REQUIREMENTS	13085
 Environmental Permits Requirements for Construction	12389
 Environmental and Social Requirements	1988
 Environmental-Related Requirements	12389
@@ -209,8 +228,10 @@ Fit and Proper Requirements	8354
 Free. Required Documents	12349
 Fulfilling Notification and Communication Requirements	12170
 Functional Performance Requirements	10616
-Functional Requirements	5665,758,4786
+Functional Requirements	5665,758,4786,1828
 Functional Requirements. The Mandatory Functional	11209
+Functional Requirements.docx	13037
+Functional and Non Functional Requirements Section	13037
 Funding Requirement Secured Financing Status Ownership	12399
 GEF-8 Request for MSP	3430
 GENERAL REQUIREMENTS	12365
@@ -220,26 +241,35 @@ Gavi’s Grant Management Requirement	11401
 General Policy Requirements for Trust Service Providers	10819
 General Regulatory Requirements	9855
 General Requirements	12365
+General Requirements All	12949
 General Requirements and Architecture. Specifies	11269
+General Security Requirements	13037
+General Technical Requirements	13185
 GoK Require AI	7548
 Good Standing Certificate Request	12397
+Goods. Required Functional Guarantee Value of Functional	13185
 Governance Requirements	12365
+Government Consultant Mandatory Requirement Compliant	13037
 Grant Review Required	12123
 Gross Assets Required	12882
 Guidelines Actor Requirements	6432
 HEALTH DATA REQUEST FORM	2709
+High Coverage Requires Sustainability	13005
 Hosting Requirement	11995
 Hosting Requirement Hosted	10157
 Hosting Requirements	6432
 Hour Data Breach Notification Requirement	6632
 ID Card Request	10765,10
 ID Financing Instrument Resp CC Req	1284
+ID General Security Requirement Description Compliant	13037
 IMPACTFUL TRANSFORMATION REQUIRES A DIFFERENT APPROACH	11940
-IMPLEMENTATION AND SPECIFIC REQUIREMENTS	12447
+IMPLEMENTATION AND SPECIFIC REQUIREMENTS	12447,520
 INFRASTRUCTURE REQUIREMENTS	11860
 INPUTS REQUIRED Test	11156
+INSPIRE-O Key Project Data Government Request	12980
 INSTITUTIONAL CAPACITY REQUIREMENTS	3861
 ITEMS REQUIRED TO BE INCLUDED	3714
+IV OTHER REGULATORY REQUIREMENTS	13206
 Identity Management Requirement	11952
 Implementation Strategies Requirement	11952
 Implementation Support Plan and Resource Requirements	11905
@@ -250,9 +280,17 @@ Index A. REQUEST FOR PROPOSAL FORM	12400
 Information Request	11868
 Information Request COD200966	11868
 Information Required	22
-Infrastructure Requirements	11952
+Information Security Requirements	12961,76
+Infrastructure Requirements	11952,1085
 Infrastructure Requirements Requirement	11952
 Initial Capital Requirements	12542
+Initial FUNCTIONAL REQUIREMENTS ID Functional Requirement	13037
+Initial ID General Security Requirement Description	13037
+Initial ID Reporting Requirement Description Compliant	13037
+Initial ID Technical Environment Requirement Description	13037
+Initial ID Training Requirement Description Compliant	13037
+Initial REPORTING REQUIREMENT GENERAL SECURITY REQUIREMENTS	13037
+Initial TECHNICAL DOCUMENTATIONS ID Technical Requirement	13037
 Innovation Ecosystems Require Structural Support Constraints	7548
 Inquiries and Request for Information	6946
 Insolvency Administrators Qualification Requirements	12389
@@ -260,6 +298,7 @@ Institutional Capacity Requirements DETERMINING	3861
 Institutional Requirements	5676
 Integration Protocols Requirement	11952
 Integration Testing Requirement	11952
+Integration and API Requirements	13037
 International Requirements Engineering Conference Workshops	8130
 Interoperability Requirements	11995
 Interoperability Requirements Cloud	11995
@@ -268,9 +307,12 @@ Introduction of Market Structure Requirements	6935,2815
 Investment Required	12399
 Ivoire Request	5692
 Ivoire Request. State	5692
+JUSTICE AND LABOUR RELATIONS Request for Proposals	13037
+KEY COMPLIANCE REQUIREMENTS	13037
 KEY ONGOING COMPLIANCE REQUIREMENTS	12542
 Kenya Request	5692
 Kenya Request. State	5692
+Key Compliance Requirements	12961
 LA REQUETE DECISION FINALE Novotel	10821
 LA REQUETE Traitement	10821
 LEGACY SYSTEM MIGRATION AND COMPATIBILITY REQUIREMENTS	3861
@@ -280,8 +322,11 @@ LICENCING REQUIREMENTS	12542
 LICENSING REQUIREMENTS FOR EARTH SEGMENT SATELLITE	10407
 LICENSING REQUIREMENTS Section	2913
 LINK REQUESTS	11240
+LPG Retailers and Wholesalers Requirements	12998
 Language Requirements	12008
 Language and Localisation Requirement	11952
+Lead Analyst Programmer Mandatory Requirement Compliant	13037
+Lead Systems Administrator Mandatory Requirement Compliant	13037
 Legacy System Migration and Compatibility Requirements	3861
 Legal Publication and Official Gazette Requirements	3861
 Legal Requirements Data Protection Act	6432
@@ -302,6 +347,8 @@ Local Presence Requirement	12389
 Local Representation Requirement All GCSPs	6432
 Localisation Requirements Regular Legal	6432
 MANAGER QUALIFICATIONS REQUIREMENTS	11862
+MANDATORY DATA MAPPING REQUIREMENTS	13004
+MANDATORY REQUIREMENTS DOCUMENT All	13031
 MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
 MEET THE REQUIREMENTS OF THE DEVELOPMENT	11240
 MEMORANDUM OF ASSOCIATION Requirements	3714
@@ -309,11 +356,13 @@ MICDE Technologies Requirements	7548
 MINIMUM BALANCE REQUIREMENTS SECTION	12484
 MINIMUM FIRM REQUIREMENT The Service Provider	12693
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
+MINIMUM REQUIREMENTS FOR A DATA INVENTORY	13004
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 Malawi Request	5692
 Malawi Request. State	5692
 Managed Requirements DGov	9237
 Mandates Requirement	10738
+Mandatory Documents Mandatory Requirement Compliant	13037
 Mandatory Functional Requirements	11209
 Mandatory Technical Requirements	11209
 Mandatory Type of Information Required for Beneficial Owners	12389
@@ -340,8 +389,11 @@ Mutuário. Instrumentos A&S Requeridos	11542
 My Requests	11877
 NA Requires	10908
 NGDX Operator Requirement	11952
+NIEIS Requirements Specification	13037
 NIMC Requirement	11952
 NIST Requirement	11952
+NON-FUNCTIONAL REQUIREMENTS	13037
+NON-FUNCTIONAL REQUIREMENTS Section	13037
 NUIT. Required	12218
 Name of Requesting Officer	34
 National Framework ESS and Requirements National Laws	1988
@@ -351,7 +403,7 @@ Next Phase of Digital Inclusion Requires	9120
 Nigeria Request	5692
 Nigeria Request. State	5692
 Non-Consulting Services Requirements	1638
-Non-Functional Requirements	5665
+Non-Functional Requirements	5665,7372
 Normalise structure XML Require	8606
 Notificação de Incidentes SECÇÃO I Requisitos	6970
 November. Requirements	10775
@@ -362,19 +414,22 @@ OBJET DE LA REQUETE Enregistrement	10821
 OBJET DE LA REQUETE Traitement	10821
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519
 ONGOING REQUIREMENTS	6432
+OTRS Open-source Ticket Request System PaaS	13185
 OUTROS REQUISITOS	10755
 Obtain the Installation Request	34
 Occupational Health and Safety Requirements	1988
 Offical States Secrets Act Requirement	11952
+Open-source Ticket Request System	13185
+Operational Requirements	13037
 Operational Requirements. Each RIR	3503
 Ownership Requirements for Licences	6621
 PART IV AUTHORISATION REQUIREMENTS	12374
-PART IV GENERAL REQUIREMENTS	12365
+PART IV GENERAL REQUIREMENTS	12365,720
 PART IV OTHER REGULATORY REQUIREMENTS PART	12374
 PART V COMPLIANCE REQUIREMENTS FOR PAYMENT	12374
-PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365
+PART V SPECIFIC REQUIREMENTS FOR PAYMENT	12365,720
 PART VI ADDITIONAL REGULATORY REQUIREMENTS	12374
-PART VI COMPLIANCE REQUIREMENTS FOR PAYMENT	12365
+PART VI COMPLIANCE REQUIREMENTS FOR PAYMENT	12365,720
 PART VII ADDITIONAL REGULATORY REQUIREMENTS	12365
 PARTICIPATION REQUIREMENTS SECTION	12484
 PERIOD FOR WHICH BIDS ARE REQUIRED	11240
@@ -396,6 +451,7 @@ Performance Testing Requirement	11952
 Plaintiff’s FOIA Requests	5692
 Policy Clause Implementation Guidelines Actor Requirements	6432
 Policy Clauses Implementation Guidelines Actor Requirements	6432
+Policy Rate and Liquidity Reserve Requirement	13060
 Policy. Requirements	10157
 Post Open Request	11855
 Post Request	11855
@@ -405,6 +461,7 @@ Pre- Deployment Requirements	5665
 Prequalification Request for Proposal Information Systems	7951
 Price Proposal Requirement Annexure B	11240
 Pricing Requirements Completion	7266
+Principles and Functional Requirements for Records	13250
 Privacy Policy Terms of Service Request	12211
 Privacy-by-Design and Default Requirements	6936
 Procurement Notice Request for Bids Purchaser	12700
@@ -419,10 +476,13 @@ Publication of Property Transactions Requirements	12389
 QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744
 QUALIFICATIONS REQUIREMENTS OF THE MANAGER	11862
 Qualification Criteria and Requirements	1638
+Qualification Criteria. Requirements	13185
 Qualification Requirement of Consulting Firm	11941
 Qualification Requirements	12405
 Quality Gates Requirement	11952
 Quality Requirements and Evaluation	11216
+R Experience Required	13077
+REC Rural Education Centres RFQ Request	12975
 RECURRENT AND DEVELOPMENT BUDGET REQUESTS	12580
 REGULATORY REQUIREMENTS	12374,73
 REGULATORY REQUIREMENTS OF ARTIFICIAL INTELLIGENCE	3651
@@ -434,6 +494,7 @@ REQUEST Dr. Peter Ndegwa	7204
 REQUEST FOR EXPRESSION OF INTEREST	11750
 REQUEST FOR EXPRESSION OF INTEREST REQUEST	962
 REQUEST FOR EXPRESSIONS OF INTEREST	9603,1
+REQUEST FOR INFORMATION	13097
 REQUEST FOR PROPOSAL	8726,2514,1160,363
 REQUEST FOR PROPOSAL FOR THE UPGRADE	11209
 REQUEST FOR PROPOSAL MUST	12400
@@ -454,13 +515,15 @@ REQUIRED CITATION DCI AI Hub for Social	11156
 REQUIRED EXTENSIBLE AUDITABLE	6423
 REQUIRED REPLACEABLE AUDITABLE	6423
 REQUIREMENT	11240
-REQUIREMENTS	28,10833,348,89
+REQUIREMENTS	28,10833,348,89,1669,218,21
 REQUIREMENTS AND TECHNICAL SPECIFICATIONS	12763
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION	1000
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION Given	1000
 REQUIREMENTS FOR KNOW YOU CUSTOMER	5687
 REQUIREMENTS FOR SATELLITE NETWORKS	10407
 REQUIREMENTS OF DEVELOPMENT BANK	11240
+REQUIREMENTS SPECIFICATION	13037
+REQUIREMENTS SPECIFICATION Version	13037
 REQUIREMENTS Section	28
 REQUIREMENTS Staff Note	962
 REQUIRES	2433
@@ -476,12 +539,12 @@ Real-Time Monitoring Requirement	11952
 Realizing Africa's Digital Potential Requires Coordinated	7596
 Reconhecimento da Autenticidade de Requisitos Documentais	2816
 Recordkeeping and Archival Requirements	3861
-Registration Requirements	12193
+Registration Requirements	12193,1056
 Regulation Require	6231
 Regulatory Alignment Requirement	11952
 Regulatory Requirements	3651,7070,1698
 Reporting Is Required	11233
-Reporting Requirements	6432,6015
+Reporting Requirements	6432,6015,590
 Reporting Requirements and Time Schedule for Deliverables	11869
 Reporting and Oversight Requirements	3861
 Reporting and Oversight Requirements Entities	3861
@@ -491,15 +554,17 @@ Requerer	11383,47
 Requerimento	794,10625,48,1308
 Requerimento de Reembolso	11467
 Requerir	163
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272,58,6,16,394,93,1,35,148,351,10,8,134,34
 Request Correction	11276
+Request For Proposal	13037
 Request Form Portals Complaints Portal Voice	9109
 Request IT3	11276
 Request NDE	12689
 Request Queue Size	11952
 Request Rejected	11153
 Request for Applications	7368,33,1143,38
-Request for Bids	11417,108
+Request for Bid No	13185
+Request for Bids	11417,108,1660
 Request for Bids for Design	12253
 Request for Comments	991
 Request for Expression of Interest	962,10563,225
@@ -507,13 +572,15 @@ Request for Expressions of Interest	8669
 Request for Expressions of Interest Notice	9892,1
 Request for Information	2273,353,4320,4090
 Request for Pre-Qualification	11236
-Request for Proposal	2743,3050,2158,3289,1160,281,73
+Request for Proposal	2743,3050,2158,3289,1160,281,73,283
 Request for Proposal Openings	12400
 Request for Proposal Prices	12400
 Request for Proposal Validity Period	12400
+Request for Proposal for Consultancy Services for Improving	13031
 Request for Proposals	1371,2233,4347,3180,3,102,4,285,748,127,22,271
 Request for Proposals The RFP	11134
-Request for Quotations	2989,8536
+Request for Quotation	13017
+Request for Quotations	2989,8536,1492
 Request for Quotations RPF Resettlement Policy Framework	11525
 Request for Submission of Additional Copies CM51	12342
 Request for VAT	12630
@@ -531,9 +598,9 @@ Requested the African Union Commission	4103
 RequestedByCustomer Cancellation	12364
 Requesting	6432,4866,287,276
 Requesting Officer	34,12330
-Requesting Unit	10870
+Requesting Unit	10870,2188
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212,58,21,99,525,531,11,143
 Requests for Expressions of Interest	11855
 Requests for Rollover of Funds	11250
 Requests the AU Commission	5825
@@ -543,7 +610,7 @@ Require AI	7548
 Require SSHv2	10721
 Require Transparent Reporting	12675
 Require the FM	3604
-Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192
+Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452,172,19,65,11,441,169,192,285,146
 Required Breakeven Revenue	10738
 Required Citizenship	12281
 Required Current Address	12281
@@ -554,16 +621,22 @@ Required Documents Applicants	12085
 Required Email	12281
 Required Experience	12400
 Required Gender	12281
+Required ITB	13185
 Required Implementation Bodies	12674
 Required Qualifications	10109
 Required Qualifications and Experience Applicants	9203
+Required for Financial Evaluation	13031
 Required. For Pre-existing Entity Accounts	11233
-Requirement	11,725,1741,1237,8238,437,143
+Required. Section II	13185
+Requirement	11,725,1741,1237,8238,437,143,505,148
 Requirement Analysis	5665
+Requirement Bachelor's Degree Deadline	13077
+Requirement Description Compliant	13037
+Requirement Gathering	12917
 Requirement Requirement Level	5244
 Requirement Service Description Tariffs and Charges Contract	5676
 Requirement of Final Inspection	12389
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27,338,2,28,60,1069,27,37,81,13,36,30,104,264,143,112
 Requirements Additional	12157
 Requirements All	5665
 Requirements Analysis	12400
@@ -588,9 +661,13 @@ Requirements Kwacha	12364
 Requirements Phase	5665
 Requirements Requir Data Definition Explanation Example	12360
 Requirements Requirements PPRA	7548
+Requirements Specification	13037
+Requirements Specification Annex C	13037
 Requirements Specification Document	12400
 Requirements Speciﬁcation	2709
+Requirements System Integration Services Requirements	13185
 Requirements The Act	1988
+Requirements Traceability Matrix	13037
 Requirements and Guidelines ISO	12360
 Requirements and Procedures for Obtaining	11864
 Requirements for Buildings	11269
@@ -601,7 +678,7 @@ Requirements for Type Approval	736
 Requirements. Note	11209
 Requirements. Specifies	11269
 Requirementsforlocalclinicalval-	8301
-Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75
+Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75,741
 Requires APIs	12444
 Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370
 Requiring RIRs	3502
@@ -657,6 +734,18 @@ SPECTRUM OUTLOOK AND CAPACITY REQUIREMENTS	5245
 STATEMENTS AND FURTHER REQUIREMENTS	3714
 STATEMENTS AND FURTHER REQUIREMENTS Disclosure	3714
 STRICT CERTIFICATION REQUIREMENTS APPLY	12041
+SUBMISSION REQUIREMENT	13004
+SYSTEM REQUIREMENTS	13037
+Schedule of Requirements	13185
+Schedule of Requirements B. FUNCTIONAL	13185
+Schedule of Requirements Contents	13185
+Schedule of Requirements No Equipment Detail Qty	13185
+Schedule of Requirements PART	13185
+Schedule of Requirements Term Explanation OS Operating	13185
+Schedule of Requirements and Technical Specifications	13185
+Schedule of Requirements. Any	13185
+Schedule of Requirements. Combined Evaluation The Purchaser	13185
+Schedule of Requirements. During Contract	13185
 Scope of Work and Requirements	11252
 Score Service Level Requirements	5665
 Screening and Approval Requirements	12389
@@ -664,6 +753,7 @@ Section I General Reporting Requirements A	11233
 Section VII. Technical Requirements	10616
 Sector-Specific Requirementss Software	5665
 Sector-Specific Security Requirements	5665
+Security Req-1	13037
 Security Requirements	6432
 Security Testing Requirement	11952
 Security and Governance Requirement	11952
@@ -685,19 +775,31 @@ Specifications and Operations Requirements	12400
 Specifications and Requirements	12400
 Spectrum Outlook and Capacity Requirements	5245
 Staff Clarification Requests	12058
+Staffing Requirement and Complement Control	12972
 Standard Request for Proposals	10964,941
 Stats SA Funding Requirements	11289
 Strategic Plan Polls Request Forms Benchmarking	9109
 Strong Requires	961
 Submission of Request for Proposals	12400
+Supply Requirements	13185
+Supply Requirements Section VII	13185
 Support Requested	8999
 Support Requested Support Requested	8999
+System Analysis and Requirements Gathering	13037
+System Integration Services Requirement	13185
+System Requirements Documentation	13037
+Systems Administration and Management Functions Required	13185
 Systems Requirements Specifications	12448
 TAX COMPLIANCE REQUIREMENTS	11209,31
+TECHNICAL ENVIRONMENT REQUIREMENTS ID Technical Environment	13037
+TECHNICAL REQUIREMENTS	13185
 TECHNICAL REQUIREMENTS AND SPECIFICATIONS This RFP	12681
 TEL NO. REQUEST DETAILS	2709
 TEL NO. REQUISITE DOCUMENTS	2709
+TESTING AND QUALITY ASSURANCE REQUIREMENTS	13185
+TESTING REQUIREMENTS ID Training Requirement Description	13037
 TOWER DEPLOYMENT POLICIES P-6 Site Requirement	11857
+TRAINING REQUIREMENTS ID Training Requirement Description	13037
 TRANSPARÊNCIA DAS CONDIÇÕES E DOS REQUISITOS	10755
 TRN REQUESTS	11298
 TRN REQUESTS REVISION	11298
@@ -706,22 +808,28 @@ TRN Request Service	11298
 TRN Request Type	11298
 TRN Requests	11298
 TYPE REQUESTED	34
+Target Deduplication Disk Appliance Minimum Requirements	13185
 Tax Compliance Requirements	11209
 Tax Reference Number Request	11298
 Tax Reference Number Request Dashboard	11298
 Tax Reference Number Request Dashboard and Authorisation	11298
+Technical Bid Checklist Technical. Technical Requirement	13185
+Technical Document Requirements	13037
+Technical Environment Requirements	13037
 Technical Minimum Require-	6946
+Technical Requirement Scope	13037
 Technical Requirements	11209
 Technical Requirements All	11209
 Technical Requirements FIs	11861
 Technical Specific Performance Requirements	6432
 Technical Support Requirements	11995
 Test Automation Requirement	11952
-Testing Requirements	5665
+Testing Requirements	5665,7372
 Testing and Validation Requirement	11952
 Third-Party Testing Providers Pre- Deployment Requirement	5665
 Time Required	762
 Training Programme Requirements Service	11952
+Training Requirements	13037
 Transactions Kenyans Will Be Required	12227
 Trust Service Provider CERTIFICATION DEPARTMENT Request	10819
 Understand The Security Requirements	34
@@ -744,6 +852,7 @@ Web Request	3364
 Workloads Requirements	10616
 World Bank's Standard Request for Proposals	11905
 World Bank’s Standard Request for Proposals	10964
+Written Request	12917
 YEARS BID SUBMISSION LINK REQUESTS	11240
 ZIPSS Requested	12364
 ZSE Listings Requirements	4263,633

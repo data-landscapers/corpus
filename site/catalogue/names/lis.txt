@@ -2,6 +2,7 @@ A-Z Listing Acronymn Full Name	12357
 ACRONYMS ACLs Access Control Lists AI	6432
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
 ANEXO IV. Lista	11557
+ANNUAL REPORT List	13053
 APPENDICES APPENDIX A LIST OF INDIVIDUAL	762
 ARSEL LISTE DES SIGLES LA TRANSPARENCE	10975
 Activity Coverage and Listing of Business Enterprises	12445
@@ -15,16 +16,19 @@ CODE LISTS MOST COMMONLY USED	11180
 COMMUNICATION AUTHORITY OF KENYA List of Tables	6946
 CONTENTS LIST OF ACRONYMS	11586
 CONTENTS LIST OF TABLES AND FIGURES	11261
+CONTENTSTable of List of Tables	12951
 Case List	9507,105,1
 Clearing Agents Clearing Agents List Publications	12454
 Company Listing Estimated	4896
 Complete List of Unicorn Companies	11884,1
+Conditioning ACL Access Control List AES	13185
 Conduct Annual List	1988
 Consulter la Liste	5313
 Consulting List	1988
 Contact List	12484
 Contactos TACs Lista Contactos Tecnicos de Apoio	12018
 Contacts List Name Position Ministry	10812
+Contents LIST OF ACRONYMS	12962
 Contents List of Acronyms	12175
 Contr List	1988
 Contribuintes Lista	12018
@@ -92,6 +96,7 @@ IV.1.3.5.4 Liste	10876
 Inc.iii TABLE DES MATIÈRES Liste	7655
 Individual License APPENDIX B LIST	762
 Infrastructure Following VFEX Listing	7534
+Initial LIST OF ANNEXES Annex	13037
 Jun-2019. Listed	381
 Kennedy Lishimpi	7383,51
 Kenya Essential Medicines List	9855
@@ -114,13 +119,17 @@ LIST OF ABBREVIATIONS AfCFTA Africa Continental	4126
 LIST OF ABBREVIATIONS BWA Broadband Wireless	2776
 LIST OF ABBREVIATIONS ICT Information Communications	1000
 LIST OF ABBREVIATIONS Term Definition AI	12675
-LIST OF ACRONYMS	6000,671,5315
+LIST OF ACRONYMS	6000,671,5315,991
+LIST OF ACRONYMS ACAT Africa Cooperative	12970
 LIST OF ACRONYMS ACHPR African Charter	12201
 LIST OF ACRONYMS ADAM AI ANC	4153
 LIST OF ACRONYMS ADM Architecture Development	1009
+LIST OF ACRONYMS AGOA Africa Growth	12962
+LIST OF ACRONYMS AND ABBREVIATIONS	12920
 LIST OF ACRONYMS Acronym Definition ABIS	5533
 LIST OF ACRONYMS Acronym Definition Acronym	11986
 LIST OF ACRONYMS CNE National Election	11586
+LIST OF ACRONYMS EXECUTIVE SUMMARY	12977
 LIST OF ANNEX Annex	10980
 LIST OF APPENDICES Appendix	4153
 LIST OF AUTHORS AND CONTRIBUTORS	9855
@@ -130,16 +139,18 @@ LIST OF CONTRIBUTORS S. Name Expertise	9855
 LIST OF COUNTRIES WHICH HAVE SIGNED	4867
 LIST OF DECISIONS	4103
 LIST OF FIGURES	5533,5659,26
-LIST OF FIGURES Figure	718,2058,3895,4547,10,1130
+LIST OF FIGURES Figure	718,2058,3895,4547,10,1130,565,28,26,28
 LIST OF FIGURES List of Figures Page	5533
+LIST OF FOREIGN IMPORTED PRODUCTS	13122
 LIST OF GRAPHICS Graph	10980
-LIST OF PICTURES	718
-LIST OF PICTURES Picture	718
+LIST OF PICTURES	718,12252
+LIST OF PICTURES Picture	718,12252
 LIST OF PRIORITY HEALTH FACILITIES PROVINCE	11986
+LIST OF REFERENCES	12902
 LIST OF TABLES	718,4815,5659,26,10
 LIST OF TABLES AND FIGURES Table	11261
 LIST OF TABLES LIST OF FIGURES	11986
-LIST OF TABLES Table	718,2058,3895,4481,66,1541
+LIST OF TABLES Table	718,2058,3895,4481,66,1541,164,28,19,7,28
 LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 LISTA DAS SIGLAS E ACRÓNIMOS	11523
 LISTA DE ABREVIATURAS E SIGLAS	10777
@@ -185,6 +196,7 @@ LISTING OF ECONET INFRACO ON SHAREHOLDERS	4896
 LISTING STATEMENT FOR ECONET INFRACO	4896
 LISUNGI	11924
 LISUNGI Safety Nets System Project	11924
+LiSwati	13123
 Liberia Standards Authority LISGIS	5244
 Life Counts List of Figures Figure	12151
 Life Counts List of Tables Table	12151
@@ -220,11 +232,14 @@ List of Abbreviations	5244,1703,4183,423,509,314,299
 List of Abbreviations ACE	5244
 List of Abbreviations ADR Alternative Dispute Resolution	12062
 List of Abbreviations AfCFTA African Continental Free	12376
+List of Abbreviations BCMS	12961
 List of Abbreviations Group Cash Transfers	6947
+List of Abbreviations and Acronyms	12944
 List of Acronyms	10901,287,1471
 List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms BE Level	12175
 List of Acronyms and Abbreviations	2775
+List of Acronyms and Abbreviations Affirmative Action Chief	12920
 List of Agents Number of Agents Name of Agents	12365
 List of Boxes Box	10718,553
 List of Core CPI Items	2775
@@ -235,14 +250,22 @@ List of Decisions	4103
 List of Definitions	11188
 List of Definitions Word	11188
 List of Documents	12389
+List of Documents Reviewed	12917
+List of Drawings	13185
+List of Drawings Drawing Nr. Drawing Name	13185
 List of Expert Representatives	2958
 List of Fees	12389
-List of Figures	236,346,1232,4186,946,4249,55,812,89
+List of Figures	236,346,1232,4186,946,4249,55,812,89,800
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855
+List of Figures Glossary of Terms Abbreviation Expansion	12917
 List of Figures PART	11250
 List of Figures Table ES.1	10841
 List of Figures and Tables	12659
+List of Goods	13185
+List of Goods and Delivery Schedule	13185
+List of Goods and Delivery Schedule Line Description	13185
+List of Goods and Related Services	13185
 List of Hotels	6488
 List of ICC	11401
 List of Individuals and Organizations Included	7151
@@ -256,11 +279,15 @@ List of Organizations	7151
 List of Organizations Surveyed	7151
 List of Other Tariff Notifications Filed	11259
 List of Priority Health Facilities	11986
-List of References	10765,10
+List of Public Services for Digitization	12917
+List of References	10765,10,2127,15
+List of Related Services and Completion Schedule	13185
+List of Related Services and Completion Schedule Service	13185
 List of Relevant CR	10775
 List of Relevant CR and ID Legislation	10765,10
 List of Respondents	1261
 List of SIDS	11004
+List of Schools Supported	12977
 List of Services Offered All	12157
 List of Stakeholders Consulted	4528,7984
 List of TRAs	11986
@@ -268,9 +295,10 @@ List of TV	236
 List of Tables	236,2540,4170,4249,29,26,901
 List of Tables Chapter	10763
 List of Tables List of Figures	2775
+List of Tables Ministry of Information Civic Education	12917
 List of Tables PART	11250
 List of Tables Page List of Figures Page	11986
-List of Tables Table	1814,961,2880,345,5195,64,12,791
+List of Tables Table	1814,961,2880,345,5195,64,12,791,855,22
 List of Values	6423
 List of ZEMA	1988
 Lista	10753,24,588,1,90,72,19,27,8,1192
@@ -300,7 +328,7 @@ Listening	7320,270,3546
 Listening. Adapting. Translating	6041
 Listeria	11269
 Listes	2817
-Listing	34,1209,3653,3153,2108,642,1002,534
+Listing	34,1209,3653,3153,2108,642,1002,534,621,167
 Listing Date	4896
 Listing Obligations and Disclosure Requirements	12576
 Listing Programme. Consequently	11134
@@ -321,7 +349,7 @@ Lisungi Safety Net Program	11924
 Lisungi Safety Nets System Project	11905
 Lisungi's IGA	11924
 Lisungi's RSU	11924
-Liswati	2391
+Liswati	2391,10531,34
 MFL O Master Facility List	12863
 MONTHS List of Acronyms	11252
 MSTeams Listen	8603
@@ -333,6 +361,7 @@ Master Facility List. Este	12863
 Master Health Facility List	11252,403
 Master Health Facility List MP	11252
 Model List	10776
+Ms. Senator Lisa Cummins	13042
 NATIONAL COMMUNICATIONS AUTHORITY LIST OF AUTHORISED	3386
 NDICE LISTA DAS SIGLAS E ACRÓNIMOS	11523
 NDICE LISTA DE SIGLAS E ACRÓNIMOS	2816
@@ -353,6 +382,7 @@ Nigeria Joins Lisbon and Johannesburg Gbenga Ajao	9496
 Nigeria's Import Prohibition List	12026
 Nomes da Lista	11544
 Não Correcção de Lista de Cidadãos Maiores	11425
+OECD Development Assistance Committee List of Recipients	13082
 OPERATIONAL REVIEW Listed Opcos	10793
 Official List	4263,633
 Online Publication of List of Qualified IP Professionals	12389
@@ -372,6 +402,7 @@ Philippines' Listahanan	11133
 Pre Listing Statement	4896
 Principal Public Relations Officer Liseli Kanyanga	6391
 Private Sector Participation ANEXOS Lista	11366
+Procedure List	13251
 Project Appraisal Document for Republic of Congo LISUNGI	11924
 Projet SNC2630.pdf Listed	7439
 Proposed Listing of Econet InfraCo	4896
@@ -386,11 +417,15 @@ Rich List	753
 Robert Lisinge of UNECA	8472
 Robert Tama Lisinge	7529
 République du Congo Liste des Dépenses	1682
+SERVICE LIST OF ACRONYMS	12972
 Saved List	11276
 Saved List of IT3	11276
 Second Additional Financing Republic of Congo LISUNGI	11924
 Sector Privado ANNEXES List	11366
 Selected Zimbabwe Listed Property Companies	4896
+Senator Lisa Cummins	13042
+Service SACL System Access Control List	13185
+Short List of National Consultants	13017
 Short List of National Consultants Prior Category	11525
 Short List of National Prior Consultants Category	11525
 South Africa's National List of Occupations	6832
@@ -402,6 +437,7 @@ TABLE OF CONTENT LIST OF FIGURES	718,10510
 TABLE OF CONTENTS LIST OF ABBREVIATIONS	2776
 TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524
 TABLE OF CONTENTS LIST OF FIGURES	6671
+TABLE OF CONTENTS LIST OF TABLES	12970,7
 Table of Contents List of Tables	6000,6062
 Template Integrations Approved Vendor List VSDC	12454
 Threshold Category Open Open Short List	11855
@@ -430,4 +466,5 @@ Year of Listening	7712
 ZSE Listings Requirements	4263,633
 ZSE Listings Requirements. Accordingly	4896
 ZSE and VFEX Listings Requirements	4896
+Zambia Revenue Authority LIST OF ABBREVIATONS	13053
 Zimbabwe Listing of Econet InfraCo	4896

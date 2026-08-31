@@ -4,12 +4,13 @@ AI for Mining	12512
 AI for Mining Exploration	4528
 African Mining Legal Atlas	2889
 Agriculture Fishing Mining Public	11874
+B. Mining	13060
 Bitcoin. Mining	9367
 Business Enterprises Formal Informal Sector Mining	12445
 Christmas Pass Mining	8639
 Companies Registry Acts of Parliament Zimbabwe Mining	12511
 DEAVOUR MINING	2342
-Data Mining	2816,8442
+Data Mining	2816,8442,1763
 Data Mining Company	2536
 Data Mining Sign MoU	2536
 Data Mining and Knowledge Discovery	11156,109
@@ -17,12 +18,14 @@ Deploy Digital Identity Against Illegal Mining	7513
 Directorate-General of Mining Cadastre	10873
 ENDEAVOUR MINING	2342
 Economic Activities Mining	1988
-Energy and Mining	6490,6108
+Energy and Mining	6490,6108,381,144
+Energy and Mining Department Of Climate Change	13062
 Forestry Mining and Quarrying	2775
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
 Future of Mining Summit	7275
 GROUPE ENDEAVOUR MINING	2342
 Ghana Landscape Restoration and Small Scale Mining	1513
+Gold Mining and Processing Plant	13060
 Government of Kenya's Ministry of Mining	191
 Groupe ENDEAVOUR MINING	2342
 Information Regulator's Enforcement Notice Against Mining	6683
@@ -31,9 +34,12 @@ KICO Mining	6843
 KSh Million Year Quar- Agriculture Mining	2775
 KSh Million Year Quarter Agriculture Mining	2775
 KSh Mining	2775
+Kangankunde Rare Earth Elements Mining Project	13060
+Kanyika Niobium Mining Projects	13060
 Kisanfu Mining	6843
 Land and Mining Management Strengthening Project	10873
 Liberia International Mining	8755
+Likoma Activity Center. Energy and Mining Sector	13122
 MADAOUELA MINING COMPANY	11597
 MINEDU MININTER Others	1284
 MINFIN MININT MINSA MNO MNSSP MODIS	10763
@@ -41,6 +47,7 @@ MININFRA	718,11640
 MINING	5733
 MINING ACT	6921
 MINING AND DIGITAL ECONOMY	7167
+MINING COMPANY	13189
 MINING Par	2342
 MININT	3899,6876,654,55
 MININTER	1776
@@ -48,54 +55,71 @@ MININTER PPM	1776
 MININTER-PPM-Revise-1.pdf	1776
 MINSOLID MININFR A ICT	1284
 Machine Learning for Sustainable Mining Practices	1554
+Malawi Mining Company	13122
+Malawi Mining Investment Company	13060
+Malawi Mining Investment Forum	13060
+Malaŵi Mining Investment Company	12987
 Male Female Total Mining	12445
 Managing Director of Data Mining Company	2536
 Mandela Mining Precinct	11221
 Mimosa Mining Company	1554
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62
 Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
 Mining Cadastre Department	10873
 Mining Cadastre General Directorate	10873
+Mining Cadastre Portal	12987
 Mining Cadastre System	11232
 Mining Cap	6921
 Mining City Radio	9111
 Mining Code	2889
 Mining Code. Delivery	2889
+Mining Companies	13060
+Mining Development Agreement	13122
+Mining Development Agreements for Kasiya Graphite and Rutile	13060
 Mining Indaba	10592
+Mining Industry	13122
 Mining Malawi Wins Global Recognition for Offline	3965,1438,1506
 Mining Motor	10976,1370
 Mining Operations Transformation	7751
 Mining Operations Transformation PwC South Africa	7751
 Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
-Mining Sector	2775,9581
+Mining Sector	2775,9581,704
 Mining Sector Governance Support	2889
 Mining Sector Optimization and Transformation Zimbabwe	4528,7984
+Mining Sector Working Group	13060
+Mining Services	13122
 Mining Technology and Innovation Event	11221
 Mining VP Mohadi Launches National Child	2987,16
 Mining World	7253
 Mining and Agriculture	4528,7984
-Mining and Manufacturing	4528
+Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
+Mining and Manufacturing. The Plan	13122
 Mining and Metallurgy Regions of EU	11007
-Mining and Quarrying	1940,835,8377,1293
+Mining and Minerals Regulatory Authority	12987,73,62
+Mining and Quarrying	1940,835,8377,1293,608
 Mining and Quarrying Manufacturing	12445
 Mining and Quarrying Manufacturing Micro	12445
 Mining and Quarrying Manufacturing Utilities Services	12445
 Mining and Quarrying Manufacturing Utilities Services Having	12445
 Mining and Quarrying NPPI	11152
 Mining and Quarrying and Manufacturing	12445
+Mining and Utilities	12962
 Mining of Mineral Deposits	7759
 MiningEntrepreneurshipESG	7253
 MiningTech	4528,7984
 Minint	9399
 Minister of Energy and Mining	6490
 Minister of Energy and Mining Lejone Mpotjoane	8801
+Minister of Mining	12983
+Ministry of Energy and Mining	13122
 Ministry of Mines and Mining Development	1554
 Ministry of Petroleum and Mining Market Report	3583
 Modernizing Mining and Manufacturing	11221
+Morne Witt Mining Claim No	13189
 Mulenga. Mining	8039
 Namibia Institute of Mining and Technology	12399
 National Anti-Illegal Mining Operations Secretariat	7695
@@ -108,8 +132,10 @@ PERSEUS MINING COTE D’IVOIRE	2342
 PERSEUS MINING COTE D’IVOIRE Gestion	2342
 PERSEUS MINING YAOURE	2342
 PERSEUS MINING YAOURE Gestion	2342
+PROSPECTING AND MINING	13189
 Persus Mining	2342
 Persus Mining FIMBIASSO	2342
+Prospecting and Mining	13189
 PwC Smart Mining	7751
 Rwashi Mining	6843
 SAN HE Mining	1619
@@ -118,10 +144,15 @@ Smart Mining	395,563
 Société La DRC Mining Week	6843
 Société TELOUA SAFEGUARDING URANIUM MINING COMPAGNY	11597
 Soft Skills Gaps Mining and Quarrying Manufacturing	12445
+Songwe Rare Earth Mining	13060
 South African Mining	7751
 Strategic Outlook for Mining Technology Governance Looking	10069
+Supporting Artisanal and Small-scale Mining	13060
 Tanzania Mining Summit	10592
 Tenke Fungurume Mining	6843
 Text-and-Data Mining	7548
+Tourism and Mining	13122
+Uis Tin Mining Company	13189
+Uis Tin Mining Site	13189
 Yaouré Mining	2342
 Year Quar- Agriculture Mining	2775

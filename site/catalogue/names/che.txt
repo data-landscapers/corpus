@@ -122,11 +122,12 @@ Chebukutumi Health Centre Data Processor INST-59727688A67	7167
 Chebweek Dispensary Data Processor INST-894577CCA22 BUNGOMA	7167
 Chebwek Vocational Training Centre Data Controller	7167
 Chebwek Vocational Training Centre Data Processor	7167
-Check	1988,1669,160,737,795,269,814,88,28,81,309,260,145,305,1475,1584,14,102,114,65,15,860,45,445
+Check	1988,1669,160,737,795,269,814,88,28,81,309,260,145,305,1475,1584,14,102,114,65,15,860,45,445,558,99
 Check Against Delivery	1735
 Check Compliance of Documents	12389
 Check Me	2407,41,490,2760,1057
 Check Point	3290,603,5922,857
+Check Point Certified Security Administrator	12926
 Check Point Research	5518,4297
 Check Point Research Blog	9815
 Check Point Software Technologies	3290,5115
@@ -146,14 +147,14 @@ Checkers and Checkers Hyper and Checkers LiquorShop	9763
 Checking	8348,1081,1508,1145,285,515
 Checking Mobile Money	3150
 Checking Starlink	8131
-Checklist	2674,3758,1116,3459,979,556
+Checklist	2674,3758,1116,3459,979,556,494
 Checklist Connect Communicate Combine Collaborate Contain	8603
 Checklist Connect Communicate Combine Collaborate Repository	8603
 Checklist Infrastructure Checklist	7548
 Checklist of Compulsory Returnable Schedules and Documents	11240
 Checklist of Requirements	6946
 Checklists	10975,181
-Checkpoint	3583
+Checkpoint	3583,9392
 Checkpoint Verdict The GSMA Mobile	6714
 Checks	6938,2736
 Chedenga	3290
@@ -242,6 +243,7 @@ Cheick Modibo Diarra	7634
 Cheick Omar Ouedraogo	9172
 Cheickh Amadu Bamba Koté	11544
 Cheickna Amala Diallo	9865
+Cheif Executive	12898
 Cheikh Ahmadou Bamba	5207,2824
 Cheikh Ahmadou Bamba Younouss Ababacar Sadikh	5761
 Cheikh Ahmed Tidiane Ndome	7839
@@ -273,7 +275,7 @@ Chemical and Hazardous Materials	1988
 Chemicals	6683
 Chemichemi	7167
 Chemin	5478,589
-Chemistry	7759,4648
+Chemistry	7759,4648,671
 Chemonics. Literacy Std	12175
 Chemouni	12333
 Chemura	520
@@ -387,6 +389,7 @@ Conférence des Chefs	8269
 Conseil Exécutif des Chefs	10874
 Context. Cheltenham	2096
 Cordelia Chesnutt	10841
+Cross-cutting Checks	13037
 Culture and Children Services Hanna Wendot Cheptumo	9006
 Cyprien Cheval The Republic of Congo	11897
 D.C. Milly Chepkorir Chebochok and Nimonka Bayale	1828
@@ -426,6 +429,7 @@ Ethiopia. Fact Check	3216
 Evelyn Cheluget	4631
 Excise License Checker	12282
 F. Checchinato	2093
+Fact Checking	13050
 Feliciano Chenda	10763
 Feng Chen	10454,5
 Finding and Keeping Customers. Cherie Oyier	11033
@@ -445,6 +449,7 @@ Hazardous Chemicals	12389
 Health Check	12622
 Hon. Wanjala. Hon. Cherorot. Hon. Joseph	10313
 Hospital Chemical	9123
+Huawei Senior Vice President Leo Chen	4495
 Hyunkyung Chee	6948
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
 INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1,135
@@ -467,6 +472,7 @@ Joyce Chen	4568
 Julie Yujie Chen	226
 Justiça Chega	10751
 Kagniendia Cheick Oumar TRAORE	7670
+Kaunda and Chendawaka	13060,62
 Keegan Leech Africa Check	10729
 Keegan Leech of Africa Check	10729
 Kenya Lydia Cheruto	12297
@@ -478,7 +484,7 @@ Le CHESD	10656
 Le Chef	17,291,427,2334,749,2249,1266,592,344,2664
 Le Chef du Gouvernement	10565
 Le Directeur Général Boureima OUEDRAOGO Chevalier	737
-Leo Chen	7109,17
+Leo Chen	7109,17,6084
 Leong Man Cheong. O Gabinete de Informação	11683
 Les Chefs	2387
 Les Confidences De Pape Cheikh Diallo	4960,62,2035
@@ -493,6 +499,7 @@ M. Cheikh-Ammar	5349
 M. Cheikhna Ould Idoumou	9746
 M. Mohamed Ould Cheikh El Ghazouani	1247,7631
 M. Somé. Le Chef	10371
+MGH Chemotherapy Unit	12976
 MOT DU MINISTRE Chers	2342
 MPs Chenjerai Kangausaru	10502
 MTN Chenosis	6593
@@ -536,6 +543,7 @@ Multi-Tenant ABIS for Secure Identity Checks Congo	11987
 Multilateral Netting System Cheques	6938
 Mutinda and Cheah	9969
 N. Cherian	11140
+Namibia Fact Check	13050
 Nancy Chenard	4671
 National Database for Checking Identification	12389
 National Reality Check Platform	4528,2265
@@ -560,6 +568,7 @@ Para Chemane	12809,31
 Pay and Checkers	6996
 Paystack Checkout and Zap	6848
 Philip Chen	9128
+Physical Condition Check Inspect	13185
 Pilot No-Go Checklist Overall	11156
 Police Comptroller General Cheick Keita	3823
 President Mohamed Ould Cheikh El Ghazouani	2154,1201
@@ -616,6 +625,8 @@ TRANSPARENCY Institutional Checks	10759,78,1052,451
 Tanzania. Chen	3062
 Tapiwa Cheuka	1031
 Tapiwa Ronald Cheuka	961
+Technical Bid Checklist	13185
+Technical Bid Checklist Technical. Technical Requirement	13185
 Tony Chebani	12581
 Training Authority CHE	6832
 Transparency Institutional Checks	12152,188
@@ -628,6 +639,7 @@ Université Cheikh Ahmadoul Khadim	8031
 Université Cheikh Anta Diop de Dakar	10576
 Urbana Rural Total Chefe	10777
 Usave and Checkers	9763
+Visual and Physical Check	13185
 Vulnerability Assessment Framework and Checklist	1000
 WHT Checker	12282
 Wafula Chebukati	9645

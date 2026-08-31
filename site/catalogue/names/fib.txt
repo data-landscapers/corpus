@@ -8,7 +8,7 @@ Axian Telecom Fibre Ltd	3886
 Backbone Fibre Project	127
 Backbone Nacional de Fibra	1215
 Botswana Fibre Network	4094
-Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3
+Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485
 Bridge Fiber Solution	3396
 Bridge Fiber Solutions	10259
 Buffalo City Optic Fibre	6832
@@ -34,6 +34,7 @@ Comparative Analysis of Fibre Products	11259
 Consolidated GCT Monthly Fibre Cuts Data	11037
 Cross-Border Fiber Network Ethio	4975
 Crosslake Fibre	4676
+DIGITAL INFRASTUCTURE Malawi Fixed Wireless and Fiber	12937
 DRC FIBRE PHASE	253,598
 DRC Fibre Link	5715
 Dark Fibre	9446,1510
@@ -44,6 +45,7 @@ Deepening Trust Kenya FttH Fibre	2775
 Delayed Trans-Saharan Fiber Optic Project	2533
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
 Digital Delta Data Centre. Botswana Fibre	4083
+Digital Foundations and National Fibre Backbone Projects	12917
 Directeur Général de Bridge Fiber Solutions	10259
 E.g. Stakeholders Fibre and Base	11857
 EAST AND CENTRAL AFRICA OPTICAL FIBER	255
@@ -57,9 +59,10 @@ Ethernet and Fibre Channel	11209
 Expand Fibre Network	4069
 FIBANE	10965
 FIBANE RNSM CREMF	10965
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
+Fiber Breakdowns	12945
 Fiber Channel	11209
 Fiber Game	4879
 Fiber Gamers	4879
@@ -79,7 +82,7 @@ Fiber To The Home	1885,4399,1444
 Fiber-Optic Agreement	5001
 Fiber-Optic Network	3728
 Fiber-optic	3604
-Fiber-to-the-Home	7110
+Fiber-to-the-Home	7110,6108
 Fiber-to-the-Room	6317
 Fiber-to-the-home	5909
 FiberCo and TowerCo	2673
@@ -104,10 +107,10 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212
 Fibre Broadband	5112
 Fibre Builds	11857
-Fibre Channel	11209
+Fibre Channel	11209,1976
 Fibre Fund	2359
 Fibre Minimum	11857
 Fibre Network	3740
@@ -209,6 +212,7 @@ NCC. National Fibre Access	11857
 National Backbone Fiber	35
 National Backbone Fiber Network Project	5293
 National Backbone Fiber Optic Cable Network	35,9531
+National Fiber Backbone	12917
 National Fiber Backbone Expansion Feasibility Study	1569
 National Fiber Op Crosswalk	257
 National Fiber Optic Network	9083
@@ -247,6 +251,7 @@ Red Dorsal Nacional de Fibra	11529
 Rede Fibra	2315
 Rede Nacional de Fibra	11072
 Redundant Fibre Link Between the Lilongwe and Blantyre	12253
+Regional Fibre Connectivity Programme	12985
 SOCIETE BURKINABE DES FIBRES TEXTILES	7670
 STL Fiberco Ltd	3862
 Safaricom Launches Kenya's First Fiber-to-the-Room Service	6081
@@ -262,6 +267,7 @@ Sudatel The Horizon Fiber	4898
 Summit Fibres	12256
 Support Fibre Solutions Why Raxio Mozambique	9446
 Telkom Fibre-to-the-home	11259
+Term Explanation FC Fibre Channel FCAPS	13185
 Terrestrial Fiber Link	8214
 Terrestrial Fibre Operators	5681
 Through the Last Mile Optic Fibre Connectivity	3524

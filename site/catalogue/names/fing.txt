@@ -1,7 +1,9 @@
+Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
 Automated Fingerprint ID System	12337
 Automated Fingerprint Identification System	10812,1415,110
 Automated Fingerprints Identification System	12165
 Automatic Fingerprint Identification System	12378
+Biometric Fingerprint System	12984
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
 Company South Africa AFIS Automated Fingerprint	5533
@@ -13,7 +15,8 @@ Finger	12360
 Fingerprint	6512,4263,1272
 Fingerprint Identification System DDG	11986
 Fingerprint Purpose Limitation	6512
-Fingerprints	2115,977,660,1647,917,3284,302,873,1181,91
+Fingerprints	2115,977,660,1647,917,3284,302,873,1181,91,846
 Fingers	10812
 Fingertips Series	10985
+Formats Fingerprint Data	13005
 N Latent Fingerprint Matching	12241

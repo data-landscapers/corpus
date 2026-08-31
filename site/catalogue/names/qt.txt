@@ -1,5 +1,7 @@
 Activities Qty Output Deadline P1	11862
 Aug’24 QTB STB	5247
+Equipment Detail Qt Load	13185
+Equipment Detail Qty Load	13185
 Outstanding Qty	9599,6
 Outstanding Qty General	9605
 Outstanding Qty Organization	9605
@@ -20,4 +22,5 @@ Qty TBD TABLE	12763
 RESPONSE QTR	1988
 SB QTB	5247
 SB QTB and SB STB	5247
+Schedule of Requirements No Equipment Detail Qty	13185
 Zambia’s SB QTB and SB STB	5247

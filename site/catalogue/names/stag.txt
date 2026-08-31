@@ -14,7 +14,7 @@ COST Stage of Project Cycle No. of Staff	11924
 Centre Stage	10328
 Clear. Stage	8283
 Complaint Stage Recommended Timeline Acknowledgement	5676
-Concept Stage	1193,11233,243
+Concept Stage	1193,11233,243,442
 Consumer Protection RATING SYSTEMATIC STAGE	12214
 Countries Project Definition Project Stage Project	10892
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
@@ -59,7 +59,7 @@ None Stage	11953
 Opportunistic Stage Digital Public Infrastructure	12214
 Opportunistic Stage The Connectivity	12214
 Opportunistic Stage The Government Pillar	12214
-Opportunistic Stage of Digital Readiness	12241
+Opportunistic Stage of Digital Readiness	12241,854
 Original Research Stage	9129
 PID Concept Stage	1193,706
 Payments RATING OPPORTUNISTIC STAGE	12214
@@ -82,6 +82,7 @@ SYSTEMATIC STAGE FIGURE	12214
 Schools Takes Centre Stage	5606
 Second Stage	11240
 Seed and Early Stage	4972
+Single Stage	13017
 Skills and Literacy RATING SYSTEMATIC STAGE Malawi	12214
 Stage	408,155,680,8,1,1,1,1,15,2,1,1,1,10,1,5,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,81,1,32,1,9,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,55,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,10,1,78,17,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,320,1,1,1,1,1,89,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,158,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,172,224,1,58,11,80,90,1,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,20,1,54,1,1,1,1,1,1,143,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,47,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,36,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,78,156,89,74,131,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,427,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,152,207,1,170,237,1,1,1,93,62,108,218,1,1,1,1,1,1,1,1,23,139,1,1,1,1,1,1,1,1,1193,846,169,1656,21,29,127,25,84,12,58,631,12,11,31,149,111,351
 Stage Analytical	1243
@@ -102,7 +103,7 @@ Stages of Digital	12214
 Staggering	11214
 Stagiaire	737,2318,400,17,16,145,192,386,340,1171,742,267,575,532,1,1539,1165,307,249
 Stagiaires Africains	8891
-Staging	2378,156,274,43,23,49,122,32,678,590,923,165,20,8,511,1,212,42,5561,1,1,1,1,1,1,1,14,13,1,11,118,301
+Staging	2378,156,274,43,23,49,122,32,678,590,923,165,20,8,511,1,212,42,5561,1,1,1,1,1,1,1,14,13,1,11,118,301,932
 Staging All	9123
 Staging Room	12253
 Staging Room Power Room Split	12253

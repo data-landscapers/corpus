@@ -1,4 +1,5 @@
 Angola HDI Human Development Index MASFAMU	10765,10
+Availability HCI Hyper Converged Infrastructure HDA	13185
 CDC HDSS. Acta Tropica	8604
 CP HDR	2975
 CPA HDR	2975
@@ -17,6 +18,8 @@ HDAs. Class C4 Telecommunications Infrastructure	9123
 HDAs. Intra-data	9123
 HDAs. Zone Distribution Area	9123
 HDBSCANorhybridmodels	8606
+HDDS Coefficient Standard Error	12978
+HDDS Comparison	12978
 HDGs and B-BBEE	11235
 HDI-Human Development Index Ranking	11935
 HDI-ownership	4442
@@ -29,10 +32,12 @@ Intel HD Graphics	34
 Intermediate Distribution Area Each HDA	9123
 MDA. The HDA	9123
 MDAs and HDAs. The IDA	9123
+Manzini Government Hospital. The HDU	12976
 Non-redundant HDA	9123
 Redundant HDAs	9123
 Resolução Full HD	794
 SMART SATA II HDD Serial	34
 South Africa. The HDSS	8604
+Treatment and Control Groups HDDS	12978
 UN HDI	1008
 Within HDAs	9123

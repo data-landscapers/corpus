@@ -17,27 +17,35 @@ Avenue Fairland Gauteng	10793
 BIBLE FAITH CHURCH OF KENYA Data	7167
 Bceao. Faire	3259
 Bible Faith Church Medical Services Data	7167
+Bid. Failure	13185
 Boiler Failure and Water Chemistry	1154
 Botswana Consumer Fair	12552
 Business Botswana Northern Trade Fair	12552
+Business Education Careers Faire	12975
 Business Faiba	9940
 CEOs and Directors General of King Faisal Hospital	12338
 CHIFFRES CLÉS FAITS MARQUANTS Rapport Annuel	2342
 COMMUNES ENREGISTRER LES FAITS D'ETAT CIVIL	3381
 CP Market Failures Bill	1478
 Career Fair	5327
+Career Fairs	13037
 Central Bank of Nigeria Failure	11976
 Chief Executive Sam Hou Fai. Under	6361
 Clarisse NYIRAMANA Faina ISHIMWE Jean NYIRAMBIBI	12445
+Competition and Fair Trading Act	13151
 Competition and Fair Trading Commission	3288
+Competition and Fair Trading Regulations	13151
+Competition and Fair-Trading Act	12941
 Conclusion Faire	11669
 Congo. Faire	6661,3053
 Cooperation and Fair Competition Artificial	2958
 Correcting Market Failures	5700
 Criteria for Free and Fair Elections	12201
 Cyber Africa Forum By Faith Omoniyi	3112
+Cybersecurity Fair	13080
 DGI FORCES FAIBLESSES	10712
 DJAA Koffi Antoine FAITS MARQUANTS Adm	2342
+DPG Fair	13095
 Dakar. Faire	10642
 Data Access Failure Ratio	5744
 Denis Mark BRISTOW FAITS MARQUANTS Adm	2342
@@ -56,7 +64,7 @@ Enforcement and Remedies Failure	3861
 Enhance Enforcement Capacity Address Fair Market	12214
 Enregistrement des Faits	9637,1
 Environnemental I Faits	8891
-Eswatini International Trade Fair	11134
+Eswatini International Trade Fair	11134,1835,8,31,71,164
 Eswatini International Trade Fair Description	11131
 Eswatini International Trade Fair The Bank	11134
 Etat. Fait	435,1,112
@@ -73,6 +81,7 @@ FAIR AND REASONABLE	4896
 FAIR Forward	1814,7818
 FAIR Guidelines	5914
 FAIRCAP	2556,995,1106,1302,1374
+FAIRNESS	12951
 FAIS Act	8354
 FAIS Act. Administrative	8354
 FAIS Act. Further	4824
@@ -101,16 +110,17 @@ Faibles	9278
 Faiblesse	10965
 Faiblesses	10712,162
 Faigpueraek2inabthoevenusmhobwersotfhapt	1154
+Fail-over	13169
 Failed	3874,1655,1647,3239
 Failed Governance	12227
 Failed Namibia	6825
 Failed Response	12038
-Failing	1006,2855,3087,2179,1879,1195,71,142,279
+Failing	1006,2855,3087,2179,1879,1195,71,142,279,266
 Failing the Hustlers	10330
-Failover	8605
+Failover	8605,4437
 Failover Design	10721
 Fails	8,11,1,9,1,1,1,1,44,129,171,120,391,796,5256,598,469,333
-Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77
+Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77,165,10,66,1,26,6,3,145
 Failure Mode Institutional Implication Transaction	11138
 Failures	1903,1680,945,6610,18,1356
 Fair AI Use	12675
@@ -126,7 +136,7 @@ Fair Competition Fair	5244
 Fair Competition and Equal Treatment	6946
 Fair Competition and Market Distortion The Joint	6748
 Fair Distribution of Inputs	10931
-Fair Market Competition	12214,170
+Fair Market Competition	12214,170,597
 Fair Market Competition RATING OPPORTUNISTIC STAGE	12214
 Fair Pay A1- Fair Pay Reference	7548
 Fair Pay Reference	7548
@@ -137,6 +147,7 @@ Fair Reference	5679
 Fair Spectrum Pricing	5245
 Fair Trade	10726
 Fair Trade USA	10464
+Fair Trade and Competition Act	12941
 Fair Trading Commission	7760
 Fair Usage Policy	12769
 Fair Use Policy	7762
@@ -165,12 +176,12 @@ Fairland Lead	10793
 Fairlie	12278
 Fairly	7886,4306,22,287
 Fairmile School	6946
-Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9
+Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9,294,73,55
 Fairness and Ensure	5244
 Fairness and Housing	7147
 Fairness and Non-Discrimination	12356
 Fairness and Reasonableness	4896
-Fairness and Transparency	12185
+Fairness and Transparency	12185,819
 Fairness of Intention	11956
 Fairway Hotel	9781
 Fairwork	226,10093
@@ -181,7 +192,7 @@ Faisceau Hertzien	1934,76
 Faisons	1287,1588,6027
 Faites	5123,1983,177
 Faith	1630,5816,2623,582
-Faith Based Organisations	11860
+Faith Based Organisations	11860,1086,18
 Faith Based Organizations	11860
 Faith Jepkemoi	9855
 Faith Kasina	12173
@@ -197,7 +208,7 @@ Faith Omoniyi and Emmanuel Nwosu	2378
 Faith Sitawa	12227
 Faith-Based Organisations	11956
 Faith-Based Organization Full-Time Equivalent Global Health	4153
-Faith-Based Organizations	4153,8087
+Faith-Based Organizations	4153,8087,882
 Faith-Based Service Providers	4301
 Faith-Based and Private Sector Providers	4165
 Faith2421	12478
@@ -234,6 +245,7 @@ Infringement Notice. Failure	12046
 Inter-operable and Re-usable. Implementation of FAIR	5246
 International Eswatini Trade Fair	11667
 International Eswatini Trade Fair. Khumalo	11667
+International Trade Fair	12977
 Interruptions Number Portability Cooling-off Period Fair	5676
 Intra-African Trade Fair	3440,2687
 Introducing the Fairwork Foundation	226
@@ -252,7 +264,9 @@ Les FAI	7999
 Limited Fails	11252
 Logiciel de Gestion des Faits	10061
 MINISTRE CHIFFRES CLÉS FAITS MARQUANTS	2342
+MRA Core Values FAIRNESS SERVICE EXCELLENCE	13053
 MTN Fairs	11083
+Malawi International Trade Fair	13053
 Mamie Faitai de Bingerville	5381
 Matching Business Support Trade Fairs Standard	12376
 Matthew Willcox FAITS MARQUANTS Adm MPPEEP	2342
@@ -297,6 +311,7 @@ Registre Fait	735
 Reject Appeal Process Fail Fail Expel	10819
 Republic Fairness	12201
 Research Symposium Zimbabwe International Trade Fair	1154
+Resilient and Fair Healthcare System	13163
 Revised Fair Usage Policy	11259
 Risk Management for System Failure	9855
 République de Djibouti. Fait	4567
@@ -318,9 +333,12 @@ TTCL’s Faiba Mlangoni Kwako	10746
 Technical Failures	12364
 Tender Secretariat. Failure	12400
 Tests Fail-over Test	9123
+Time Between Failures MTTR Mean Time	13185
 Tissemsilt Faisant	10395
-Trade Fair	11134
+Trade Fair	11134,1843,102,164
 Trade Fair The Governor	11134
+Trade Fair. Mngomezulu	13243
+Trade Fair. Visitors	13243
 Trade Fairs	12376
 Traçabilité Faible	6146
 Tripoli International Fair	9479
@@ -331,6 +349,7 @@ Waterford Career Fair Description The Bank	11134
 Welfare Events ICT Fair Deep Learning	12361
 Workplace Fairness Act	11135
 Workplace Fairness Bill	11135
+Year Analysis of Early-Season Failures	13062
 Yours Faithfully	4896
 Zambia International Trade Fair	7191,5291
 Zimbabwe International Trade Fair	1154

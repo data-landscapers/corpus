@@ -9,6 +9,7 @@ CEDSIF's MZN	4507
 Chamsoudine Mzaouiyani	5530
 Chief Mzwandile Aaah	5600
 Chiradzulu Mzimba	12241
+Dedza Nkhotakota Rumphi Chitipa Mzuzu City	13080
 Digital Mzansi	11940
 Digital Payments and Digital Services. MzansiXchange	11997
 ET1Raxio Mozambique MZ1Raxio Tanzania TZ1Raxio Uganda	10956
@@ -17,6 +18,8 @@ HONOURABLE MZWANELE NYHONTSO	11261
 Inkosi Mzamo Buthelezi	8652
 Karonga and Mzuzu	10111,2
 Lilongwe Blantyre Mzimba Mangochi Dedza Kasungu	12214
+Lilongwe and Mzimba North. Thereafter	13060
+Lilongwe and Mzuzu	12979
 M MZN	5841
 MZ-CERT	761
 MZ-CONTAS2021.V1	9441
@@ -24,11 +27,15 @@ MZ.071	859
 MZ1 Key Facts Tier III Certified	9446
 MZM12.5	1228
 MZNews	859
-MZUNI	12241
+MZUNI	12241,839,15
+MZUNI Hackathon	13095
+MZUNI Mzuzu University	13095
 MZUNI--	12241
 MZUNI--served	12241
+MZUNI’s IDT4M Hackathon	13095
+MZUZU	13030
 MZWANELE NYHONTSO	11197
-Malawi University of Science and Technology MZUNI Mzuzu	12241
+Malawi University of Science and Technology MZUNI Mzuzu	12241,839,15
 Mandla Mziwabantu	11274
 Minister of Land Reform and Rural Department Mzwanele	11260
 Mwanahiba Mzee	2857
@@ -42,23 +49,34 @@ MzansiXchange Pilot	11222,3
 MzansiXchange Pilot Launch	3741
 MzansiXchange Pilot Launch. Thank	11997
 MzansiXchange. Distributed Technical CapacityA	11222
+Mzimba	13060,20,15,17,18
 Mzimba District	12174
+Mzimba Health Centre	13053
 Mzimba New UK	3035,1003,520,84,1026,183,181,224,255,853
-Mzimba North	3791
+Mzimba North	3791,9304
 Mzimba North DHO	3791
 Mzimba North and South	3791
-Mzimba South	3791,4643
+Mzimba South	3791,4643,4661
 Mzimba South MP	6754,1680
+Mzimba Turn-off- Kacheche- Chiweta	13122
+Mzimnene	12962
+Mzimpofu Hostel	13123
 Mzubanzi Mntumni	12868
-Mzuzu	446,2903,1637,1305,1196,2624,2
+Mzuni	13112
+Mzuzu	446,2903,1637,1305,1196,2624,2,2865,52,30,4,19,12,17
+Mzuzu Airport	13060,62
+Mzuzu Central Hospital	13122
+Mzuzu City	13080
 Mzuzu Maximum Prison	12174
 Mzuzu Private Bag	12178
-Mzuzu University	12178
+Mzuzu University	12178,902,32,116
 Mzuzu University Tourism Incubation Centre	10111,2
-Mzuzu and Zomba	12369
+Mzuzu Urban and Nsanje	13095
+Mzuzu and Zomba	12369,609
 Mzwanele Nyhontso	11197,52
 Mzyece	5242
 Mzyece M	5242
+M’mbelwa and Mzuzu	13122
 Ngazidja Ibrahim Mze Mohamed	1943
 Pilot Roadmap The MzansiXchange Pilot	11222
 Pilot Use Cases The MzansiXchange Pilot	11222
@@ -67,5 +85,8 @@ SOS Mzuzu	12181
 Simnikiwe Mzekandaba	5175,24,723,1129,523,48,776,37,86,425,989,16,178
 Task Teams Driving the Pilot The MzansiXchange	11222
 Technical Specifications Raxio MZ1 Data Centre	9446
+Thyolo Dedza Chikwawa Balaka Mchinji Mzuzu	13080
 US NM M W E MZ	1154
+Venancio Mzonda	12978
 Zambia Police Service. UNZA Press. Mzyece	12467
+Zomba and Mzuzu	12917,61,1

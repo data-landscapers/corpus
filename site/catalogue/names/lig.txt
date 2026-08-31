@@ -39,6 +39,8 @@ Ligação	5169,1293
 Ligações	11370,6
 Light	6921,3805,1507,32
 Light Box	12036
+Light Duty	12977
+Light Duty Children	12977
 Light Interaction Tool	11975
 Light LBR	4554
 Light Mobile Virtual US	736
@@ -63,6 +65,7 @@ Lighting Global	11923,640
 Lighting Global Program	11923
 Lighting Products Renewable	12515
 Lightning	11191,1167
+Lightning Imager	13062
 Lightning Protection	9123
 Lightning Protection Lightning	9123
 Lightrock	830,227,1253,2140,6014
@@ -74,7 +77,7 @@ Lightrock. Round	1439
 Lightrock.' Primary	1042
 Lights	3385,9117
 Lights Prediction Model SRTM	12006
-Lightstruck	6638
+Lightstruck	6638,6545
 Lightwave Health Information Management System	3832
 Lightwave Health Information Management System Limited	3833
 Ligne	998,9878,99

@@ -59,6 +59,7 @@ Case LLP	9026
 Chairman of Lloyd Corporate Capital	8626
 Communications LLC Hardin AI Trufo Inc	8530
 Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
+Construction of LLIEC	13053
 Corporation Samauma Consulting LLC	10780
 Coulson Harney LLP Data Controller INST-375721AE361	7167
 Coulson Harney LLP Data Processor INST-375721AE361	7167
@@ -113,7 +114,8 @@ LLA Chairman Kpakio	9651
 LLA Chairman Samuel F. Kpakio and Commissioner	9651
 LLC AIAdopt Black Forest Labs AiBooks	8530
 LLC Contents Full Contents of The Global	10977
-LLDCs	2663,6282,1819,80,160,559,9,348
+LLDC Landlocked Developing Country ML Machine	13042
+LLDCs	2663,6282,1819,80,160,559,9,348,1122
 LLDCs Africa	10844
 LLDCs Africa N	10844
 LLDCs Asia	10844
@@ -125,7 +127,7 @@ LLDCs N	10844
 LLDCs Percentage	10844
 LLDCs World	10844
 LLDCs and LLDCs	10844
-LLDCs and SIDS	11004
+LLDCs and SIDS	11004,2038
 LLDCs-Africa and LLDCs-Asia	10844
 LLDCs. Artiﬁcial	10844
 LLDCs. Despite	10844
@@ -206,6 +208,7 @@ Partners LLP	12232
 Partners LLP Addis Ababa	12232
 Partners LLP Aman	12232
 PhD DBA LLD	12431
+Protocol LLD Low Level Design MDAs	13185
 Respondent Google LLC	3307
 Rural Urban Rural Urban World LLDCs	10844
 Safety LLM Benchmark	8204

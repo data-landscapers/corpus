@@ -62,6 +62,7 @@ ETC UTILISATEURS DE DONNEES D'ETAT CIVIL	3381
 EVOLUÇÃO DE UTILIZAÇÃO DE SMS	11531
 EVOLUÇÃO TRIMESTRAL DE N.º DE UTILIZADORES	11531
 Electric Utility Service Feeds Independent	9123
+Electricity and Utilities	13053
 Electromagnetic Field EUCL Energy Utility Corporation	718
 Emerging Technology Utilization for Digital Transformation	2668
 Energy Utility Corporation Limited	12358
@@ -70,10 +71,13 @@ Energy and Public Utilities Ministry of Local	11332
 Energy and Utilities	9815,405
 Ethiopia Electric Utility	12195
 Ethiopian Electric Utility	8231,4002
+Expenditures Utilisation	13080
 Extended UTAUT Model	5349
 FINANCIALLY VIABLE AND OPERATIONALLY COMPETENT UTILITIES	12563
 FUENTE DE LOS RECURSOS MONTO UTILIZACIÓN	4209
+Factor Utilization	13185
 Fiidow OA. Utilization	11596
+Financial Utilization ANNEXES	13095
 Financials Utilities Banks Financial Services Energy	4972
 Financials and Utilities	4972
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
@@ -91,6 +95,7 @@ Global South Utilities CEO Ali Alshimmari	4934
 Groups Utility	12674
 HIMS System Utilisation	8949
 HIMS System Utilisation Fee	8949
+HUMAN RESOURCES REPORT EXEC UTIVE SUMMARY	12970
 Habari TANZANIA YAONESHA MAFANIKIO YA UTEKELEZAJI	7864
 Hon. Kamket. Utaratibu	10313
 IV.2.4. Utilisation	10876
@@ -127,6 +132,7 @@ Methodology Handbook. Utility Services	12389
 Mining and Manufacturing Utilities	12445
 Mining and Quarrying Manufacturing Utilities Services	12445
 Mining and Quarrying Manufacturing Utilities Services Having	12445
+Mining and Utilities	12962
 Model PURA Public Utility and Regulatory Authority	1000
 MÓVEL ATIVO COM UTILIZAÇÃO EFETIVA	11531
 National Payment Utility	5408
@@ -146,6 +152,7 @@ POR UTILIZADOR	11531
 POR UTILIZADOR ATIVO	11531
 PRESTAÇÃO E UTILIZAÇÃO DE SERVIÇOS	10755
 PROTECTION DES UTILISATEURS DE SERVICES	10836
+Parameter Design Detail Current Utilization	13185
 Pay Utility	8231
 Periodic Publication of Utilization Reports	5245
 Power EEU Ethiopian Electric Utility ETB	12233
@@ -182,6 +189,8 @@ Simplificado Online Manuais de Utilizador Relatório	12021
 Sociais Utilizados	11406
 South UTM Reference Longitude Latitude Antenna	736
 Spectrum Utilization	5245
+Streamline Resource Utilization	12945
+Supply Utilization Accounts	13049
 Supply and Utilization Account SUT Supply and Use	2775
 TRÁFEGO MÉDIO POR UTILIZADOR	11531
 TRÁFEGO MÉDIO POR UTILIZADOR DE SERVIÇO	11531
@@ -244,7 +253,7 @@ Utilisateur	4403,6433,744
 Utilisateurs	10874
 Utilisateurs Mobile Money	6383
 Utilisateurs du Réseau de Transport	10975
-Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147
+Utilisation	419,168,149,1,11,151,1085,1807,629,2366,1352,2088,485,110,53,2,89,10,822,147,1151
 Utilisation Commerciale	11593
 Utilisation Outputs Name	12241
 Utilisation Requirement	11952
@@ -255,7 +264,7 @@ Utilisation des TIC	10875
 Utilisation du Contrôle de Douala	10975
 Utilisation of Post Offices	12291
 Utilisations des TIC	10875
-Utilise	26,8579,2116,98,57,1110
+Utilise	26,8579,2116,98,57,1110,925,30
 Utilise USF	958
 Utiliser	1005,9282,587,2,134,53
 Utiliser Excel	747
@@ -266,7 +275,7 @@ Utilising Information and Communication Technology	11231
 Utilisons-nous	747
 Utilisée	10286
 Utilit	9123
-Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13
+Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6
 Utilities Climate	970
 Utilities Insurance Financial Services Banks Information	4972
 Utilities Regulatory Authority RWF Rwandan Franc	12328
@@ -275,7 +284,8 @@ Utilities and Resources Leader	7751
 Utilities and Urban Communities	9414
 Utilities and What That Means	5124
 Utilities and Wildlife Court	7771,2792
-Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187
+Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421
+Utility Companies	12896
 Utility Model	12483
 Utility Models and Industrial Designs	7845
 Utility Performance Improvement Program	11380
@@ -298,8 +308,11 @@ Utilizadores	5462,1157,4803,8,90,11
 Utilizadores de Internet	11569
 Utilizamos	9432,2133
 Utilizar	1701,2445,2316,4293,613,62,112,1232
-Utilization	1219,648,1924,1454
+Utilization	1219,648,1924,1454,7645,48,39
 Utilization Gap	6051
+Utilization of CUCI	12978
+Utilization of CUCI Money	12978
+Utilization of Funds Received Drinking	12978
 Utilization of Health Services	10829
 Utilization of Space Services	1131
 Utilização	539,255,2022,1458,5049,1432,22,582,1,9,61,31,121,436
@@ -339,6 +352,7 @@ Utsu C	9739
 Uttah Pradesh. The Eswatini	12361
 Uttam Babu Shrestha	6997
 Uttar Pradesh	3791,8455
+Uttar Pradesh and West Bengal	12979
 Utter	11975
 Utumishi	3085
 Uturuki	2868

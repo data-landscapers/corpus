@@ -22,12 +22,15 @@ El Gobierno	1701,6452,219,693,3010
 Estado Delegado Adjunto Gobierno	4209
 Estado Delegado Regional Inspector Regional Gobernador	4209
 GOBABIS	8413
+GOBABIS OUTAPI Total Eligible	13025
 GOBERNADOR PROVINCIAL	4209
 GOBIERNOS PROVINC.REG.CONT.-Concepto	4209
 GOBIERNOS PROVINC.REG.INS.-Concepto	4209
 GoB NDC	1284
 Gobabeb Namib Research Institute	5036
-Gobabis	8253,707,602,104,2810
+Gobabis	8253,707,602,104,2810,621
+Gobabis Health Centre	12947
+Gobabis TN	12933
 Gobanim Traditional Authority	8253
 Gobernabilidad Democrática	758
 Gobernador Provincial	4209
@@ -69,6 +72,7 @@ Gobonnimo Party	2743
 INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
 Junta de Gobierno	11633
 Juzgado de Instrucción Delegado de Gobierno Jefe de Prensa	4209
+Mahamba Gorge and Gobolondlo	12977
 Molly Weyulu GOBABIS	9666
 N. Goburdhan	3782
 Nishal Goburdhan	578

@@ -13,7 +13,7 @@ ANSAT	8620
 ANSAT Lire	8673
 ANSD's Data Center	6963
 ANSER	11923
-ANSI INCITS	1009
+ANSI INCITS	1009,11996
 ANSI Service	998
 ANSI-TIA	9123
 ANSICE	2314,2611,1,481,4209,196
@@ -48,6 +48,7 @@ ANSWER PART B	11240
 ANstat	3604
 Afrique Subsaharienne ANSSI	10874
 Ansah	5349,1204
+Ansah SC JA	13095
 Ansar	10714
 Ansar S. The Global Findex Database	12231
 Ansari	8283
@@ -62,7 +63,7 @@ AnsformAtion	10840
 Anshari	8022
 Anshul Sonak	12723
 Anshuman Dash	10342
-Ansible	10617
+Ansible	10617,2568
 Ansible and Terraform	10617
 Anslinger	9237
 Ansoms	12333
@@ -75,7 +76,7 @@ Ansut	3404,1620,1793,714
 Ansut-TIC	3404
 Ansut. Il	5024
 Ansuten	10691
-Answer	3874,3066,531,2131
+Answer	3874,3066,531,2131,3325
 Answer. What Was the Question	7471
 Answering	6056,2109,2841,1,88,1106,96
 Answers	5665,5515
@@ -90,6 +91,7 @@ Congo's ARPCE and ANSSI	2764
 DG Ansat	10924
 Data Localisation the Answer	7471
 Deputy General Manager of ANSICE	4925
+Dr. Ansah	13095
 Eric Ansong	226
 Founder of PACE ANSD's Fode Dieme	6963
 Generative AI Answers	12318
@@ -98,8 +100,10 @@ Gure Abdi Anshur	7897
 Hilts and Anstis2021	8436
 IPRESS ANSD DAF	3381
 Ibrahim Ansu Bangura	10572,72
+Justice Dr. Jane Mayemu Ansah SC	13095
 LEB ANSUT PMCI GUCE-CI PMY ORANGE	2342
 Label Question Answer	10714
+Malawi’s Vice President Dr Jane Ansah	13095
 Nueva Zelandia ANSELL-BRIDGES	6613
 Par Anselme Mbata	4335
 Parliament. Answering	12593
@@ -117,6 +121,7 @@ Salime Toure of ANSUT	6835
 Saniya Ansar	10841,136,983
 Saniya Ansar and Jorin Wolff	10714
 Saniya Ansar and Seth Garz	10977
+Shri M. Hamid Ansari	12979
 Tags ANSD	7570
 Tony Anscombe	9830
 Vice President Shri Hamid Ansari	12617

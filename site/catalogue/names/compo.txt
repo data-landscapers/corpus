@@ -5,10 +5,12 @@ AU and SAA PIMs. Component	1264
 Action Proposed Component Name No Change	1228
 Action Proposed Component Proposed Cost	1284
 ActiveX Component Technology Mapping	1009
+Advanced RGB Composites	13062
 Age Composition of PWDs All	12460
 Agency. Standards Exemptions Compounding	2727
 Agriculture Composition of GDP	10856
 Appendix D Components	236
+Appliances PCIe Peripheral Component Interconnect Express	13185
 Audit B. Project Components	11417
 Authority. Composition	11
 Average GTMI Components Score	10785
@@ -45,6 +47,7 @@ COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
 COMPONENTS	11965
 COMPONENTS Current Component Name Current Cost	1284
 COMPONENTS DEFINED SN Type	7845
+COMPONENTS Name	13027
 COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576,469
 COMPONENTS Name Economic Shock Responsive Cash	11988
@@ -71,7 +74,7 @@ Closing Period Component	10768
 Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Componenente	11542
-Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51
+Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57
 Component B	5370
 Component Beneficiary Profile	10964
 Component CHW Community Health Worker CPF	11560
@@ -100,7 +103,7 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
@@ -133,6 +136,7 @@ Components and Cost	1228,56,11104
 Components of Addressing Infrastructure	11129
 Components of GVA	236
 Components of Merchandise Exports Oil Output	1828
+Components of National Statistics System	12899
 Components of South Africa’s National Digital Health	396
 Comportamental	966
 Comportamento	10777
@@ -158,17 +162,23 @@ Compose	6997
 Composed	3791
 Composer	11209
 Composite	9129,2140,27
+Composite Drought Index	12931,46
+Composite Drought Index-Eswatini	12977
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239
 Composition Each Member State	11517
 Composition du Conseil Stratégique	4567
 Composition of Board	3746
+Composition of Council	12919
 Composition of Direct Taxes	5655
 Composition of Exports	2775,8374
 Composition of GDP	12385
 Composition of Imports	2775
 Composition of Tax Revenue	1828
+Composition of Tax Revenues	13053
+Composition of Tax Revenues Over the Last Five	13053
+Composition of Township	13189
 Composition of Tribunal	12549
 Composição	13,154,1971,1906,2926,3784,1,22,582,14,10,38,95,2,9,1,41,1201,53
 Composição da Codificação	11409
@@ -179,9 +189,9 @@ Composta	3519
 Composto	10749
 Composé	2342,8047
 Composée	10272
-Compound	11129
+Compound	11129,1965
 Compound Annual Growth Rate	9759,1452,948
-Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212
+Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35
 Congo Component African Development Bank	117
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002
@@ -224,6 +234,9 @@ Digital Skills Component World Bank Group	959
 E-Health Components E-Health	21
 E-waste Management Plan. Component	1988
 Emergency Response Component CERT Computer Emergency	1264
+Enhance Component Synergies	13083
+Eswatini Composite Indicator for Economic Activity	12962
+Eswatini. Board Composition	12969
 Evaluation Components	5245
 Evaluation Components Impact	5245
 Excess Energy Composition	11228
@@ -263,6 +276,8 @@ INDICATORS AND COMPONENTS VALUES Labor	12389
 INDICATORS AND COMPONENTS VALUES Market	12389
 INDICATORS AND COMPONENTS VALUES Perceptions	12389
 INDICATORS AND COMPONENTS VALUES Time	12389
+INFRASTRUCTURE COMPONENT The IDES	12941
+INNOVATION COMPONENT The Innovation	12941
 INVESTMENT PROJECT FINANCING COMPONENT	11905
 IP for Components	2989
 IPF Component	11905
@@ -293,6 +308,7 @@ Layer Component Description References Contextual	9128
 MDAP Components Component	1228
 MNO'S STAFF COMPOSITION	3862
 MOH Component	11417
+Malawi Proposed Components	12980
 Malawi. Components	1595
 Mechanical Components and Minerals Development	3760
 Meheba Refugee Settlement. Component	1988
@@ -300,6 +316,7 @@ Membership Composition	3861
 Membership Composition The NDGC	3861
 Mission Strategic Objectives Components Business Process	12322
 Mobile Money Delivery Component World Bank	1023
+Moderately Satisfactory Component	13054
 NASDAQ Composite	5985,909
 NCSA. Policy Component	12419
 NGOs. Component	10829
@@ -318,6 +335,7 @@ PCU Responsibility for Data Collection PCU Component	3604
 PI and Component	10768
 PIM. Component	10768
 PIU Component	2712,3867
+POLICY AND REGULATION COMPONENT	12941
 POLICY AREAS AND ESSENTIAL COMPONENTS	12419
 POLICY IMPLEMENTATION PLAN Policy Component	12419
 POPULAÇÃO E COMPOSIÇÃO DOS AGREGADOS FAMILIARES	10777
@@ -368,10 +386,12 @@ Revenue Composition Direct Budget Support	5655
 Revised Components	11924
 Revised Revised Revised Component	1228
 Rwanda. Component	321
+SKILLS COMPONENT The Skills	12941
 SSA COMPONENT	854
 STRATEGIC COMPONENTS	396
 STRATEGIC FRAMEWORK AND COMPONENTS	12701
 SUMMARY OF REALLOCATIONS FOR COMPONENT	4653
+Satisfactory Component	13054
 Selected Debt Service Components and Budget Funding	1828
 Semi and Fully Composed	1988
 Software Composition Analysis	11952
@@ -386,11 +406,14 @@ Suggested Composition	12359
 Suggested Composition Head	12359
 Suggested Composition Permanent Secretary	12359
 Support Project Management. Component	11855
+Swatini Composite Drought Index	12931
 System Number BB Broadband CAGR Compound	10861
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
 TWGs Composition Each TWG	7548
 Tax Revenue Composition	10997
 Team Composition	11869,72
+Team Composition and Task Assignments Professional Staff	13037
+Technical Assistance Component	13054
 Theme Project Management and Coordination Component	2989
 Through Component	6539
 Top-Level Component Sub- Component	12359

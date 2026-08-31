@@ -10,6 +10,7 @@ DELEGACIÓN DIRECTIVO ASUSTOS COORDINACION IGUALDAD INFANCIA	4209
 Diagnostic Network Optimization Early Infant Diagnosis	4153
 Diagnóstico Precoce Infantil HIV Contém Dados	966
 Doença Infantil Entre	10760
+Female Infant	13040
 Guarderías Infantiles	4209
 ID for All An Infant Registration Bill	4553
 IMR Infant	12367
@@ -22,7 +23,9 @@ INFAS de Man	10056
 Infallibly	12146
 Infalsifiable	10387
 Infancia VIH	1701
-Infant	10780,49,27,1282,13,216,46,226,16,17
+Infant	10780,49,27,1282,13,216,46,226,16,17,291
+Infant Care Support	13080
+Infant Life	13040
 Infant Mortality	12383
 Infant Mortality Rate	12367,16,30,226
 Infant Mortality Rate ASFR	12639

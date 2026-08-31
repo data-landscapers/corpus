@@ -1,11 +1,15 @@
+Application Server	13037
 Artificial Intelligence Commissioner Serve	11247
 Azure SQL Server	11578
 CBE SERVED BY OTHER FORMAL FINANCIAL	418
 CV-IXP Route Servers	11878
+Card SMB Server Message Block SPBM	13185
 Central Authentication Server Common ICT Processes	9123
 Chassis for Servers and Storages	1988
 Consumer Security Server	11952
 Consumer Security Server Requirement	11952
+Customs Scanner Server Room	13044
+Database Server	13037
 Digital Content Server and Wireless Routers	899
 Domain Server	4924
 Emergency Reboot of Servers	9123
@@ -21,28 +25,33 @@ Local Server Central Server Internet Local	10775
 Local Server Local Server Social Security	10775
 Main Server ID Production Center CPBI	10775
 Maria Server	3395
+Microsoft SQL Server	13037,148
 Microsoft SQL Server Management Studio	10617
 Microsoft Server	5866
 MySQL and SQL Server	10060
+NDMP Tape Server	13185
 NET and MS SQL Server	12196
 Oracle WebLogic Server	3279,85
 PC. Server	34
 Perso Server	4924
 Provider Security Server	11952
 Regular Reboot of Serves Scheduled	9123
+Reporting Server	13037
 Reserve Parts for Servers	9123
 Route Server Inbound	718
 SERVER AND STORAGE INFRASTRUCTURE	11209
-SQL Server	6432
+SQL Server	6432,6713,24,16
 Security Server	11952
 Sequel Server	9124
 Serve	2757,1104,667,6663,46,1119,142,14,162
 Served	1984,2958,664,283,454,183,4452,152
 Servem	12018
-Server	593,626,5213,2691,1,3129,126,302
+Server	593,626,5213,2691,1,3129,126,302,356,148
 Server Backup	34
+Server Load Balancer	13185
 Server Local Server Local Server	10775
-Server Room	12253
+Server Racks	13185
+Server Room	12253,932
 Server Warranty	12681
 Server-to-server	12404
 Servernah	6791
@@ -62,7 +71,9 @@ U Server Railing	12681
 US Servers	6487,392
 Virtual Servers	3859
 Web Content Management Server OS N	9124
-Windows Server	34,6398,2246,4003
+Web Server	13037
+Windows Server	34,6398,2246,4003,356
+Windows Server Update Services	12917
 Windows Server and SQL Server	6432
 Windows Servers	10617
 X HPe Synergy Blade Server BL480	11209

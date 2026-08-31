@@ -3,6 +3,7 @@ ADJIBI Claude Edgard Octobre	10876
 ALPHA OCEANEERING LIMITED Data Controller INST-82212241418	7167
 AMEH OCHOJILA	10270
 AREA OCCUPIED BY BUILDING	11129
+ART Anti-Retroviral Therapy BOR Bed Occupancy	12976
 ATB Oct	5247
 ATB Ranking Oct	5247
 Acacia and Port Rex OCGT	11228
@@ -83,6 +84,7 @@ EPI TEC SP CP IF Oceania	10840
 EU Digital Identity F25 Oct	10714
 East Asia and Oceania	10846
 East and Southern Africa and Indian Ocean Region	350
+Echo Namibia and OCN	13225
 Emmanuel Adewale Adedokun. For the Indian Ocean	9507
 Estados da Africa Ocidental	11542
 Europe Asia Oceania	4972
@@ -131,8 +133,8 @@ Ic Fiji Oceania Melanesia Suva High	10840
 IceKey Oct	10714
 Identification OCDE Organisation de Coopération	10712
 Indian Journal of Occupational and Environmental Medicine	12090
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31
-Indian Ocean Basin	3636,218
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164
+Indian Ocean Basin	3636,218,9166
 Indian Ocean Commission	7795
 Indian Ocean Rim Association	11183,2
 Indian Ocean and Africa	7601
@@ -154,7 +156,8 @@ Jan-2029 Oct	12267
 Jan-21 Apr-21 Jul-21 Oct-21 Jan-22 Apr-22	3583
 José Feneira AÍmame Cassamá Octávio Lopes	11544
 Jubilee and OCTP	7695
-Jul Aug Sep Oct Nov Dec	11953
+Jul Aug Sep Oct Nov	13095
+Jul Aug Sep Oct Nov Dec	11953,1142
 Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23	3583
 Jul-23 Aug-23 Sep-23 Oct-23 Nov-23 Dec-23	11953
 Jul-24 Aug-24 Sep-24 Oct-24 Nov	12256
@@ -163,6 +166,7 @@ Jun Jul Aug Sep Oct	11953
 Jun Jul Aug Sep Oct Nov	11953
 Jun’22 Nov’22 Sep’23 Aug’24 Oct’25 ATB	5247
 Kampala. Oceng	5394
+Key Priority Occupations	12934
 LUALABA SOUTH ANGOLA ZAMBIA ATLANTIC OCEAN	11900
 Large Ocean State	10348
 Latin America and Oceania	4734
@@ -194,6 +198,7 @@ Mónica Ocomo Nguema	6841
 NOSS National Occupational Skills Standards OHS	1818
 NSER National Socio-Economic Registry OCGS Office	11133
 NYDA National Youth Development Agency OCIO	11261
+Namibia Standard Classification of Occupations	13037
 National List of Occupations	6832
 National Occupational Safety and Health Policy	12597
 National Occupational Skills Standards	1818
@@ -205,6 +210,8 @@ Norme Spéciale de Diffusion des Données OCDE	10874
 O OCM	11531
 OC4IDS	3969,5463
 OC4IDS Publisher	9432
+OCASSION OF THE LAUNCH	12925
+OCCASION OF MOTIVATING VOTE	12984
 OCCASION OF THE OFFICIAL	9761
 OCCIDENTAL GOLD	2342
 OCCRP	3364
@@ -216,6 +223,7 @@ OCENAS	6613
 OCGT Utilisation	11228
 OCGTs	11297,695
 OCHA Office	969
+OCHA-UNCTAD	13042
 OCHENTA MIL	4209
 OCHENTA Y CINCO MIL	4209
 OCI. Dans	3045
@@ -238,7 +246,7 @@ OCRC Dossier	10821
 OCRC Extorsion	10821
 OCRC Règlement	10821
 OCRed	10550
-OCSEA	9843
+OCSEA	9843,3260
 OCSLA	5533
 OCSLA for Minister	11986
 OCTAVIC-BENIN Traitement	10821
@@ -260,7 +268,7 @@ Occasionally About	12501
 Occhipinti	11164
 Occidentaux	2514
 Occup Sous- Sous- Chômeu Taux TF	737
-Occupancy	9155,3272,344
+Occupancy	9155,3272,344,206
 Occupancy Permit	12389
 Occupation	1988,2908,6322,1008
 Occupation Apr-Jun	11296
@@ -271,14 +279,16 @@ Occupation Percentage	12006
 Occupational	1988,1468,3376,114,4194,58,1055
 Occupational Bands	11218
 Occupational Category	7151
-Occupational Health	1988
+Occupational Health	1988,11090
 Occupational Health and Safety	1818,170,9297,968
 Occupational Health and Safety Act	1009,10122
 Occupational Health and Safety Act No	1988
 Occupational Health and Safety Impacts	12253
 Occupational Health and Safety Institute	1988
 Occupational Health and Safety Institute Health and Safety	1988
+Occupational Health and Safety Officer	12972
 Occupational Health and Safety Official Use Only	12253
+Occupational Health and Safety Plan	13185
 Occupational Health and Safety Requirements	1988
 Occupational Health and Safety Risk	12253
 Occupational Health and Safety Specialist	11417
@@ -287,21 +297,23 @@ Occupational Health and Safety of Workers	12253
 Occupational Hygiene	1988
 Occupational Medical Surveillance	11134
 Occupational Qualifications	6832
-Occupational Safety	12253
+Occupational Safety	12253,807
+Occupational Safety and Health	12964
 Occupational Safety and Health Act	1988,10268
 Occupational Safety and Health Bill	8681
 Occupational Safety and Health Management Systems	12253
 Occupational Safety and Health Services	1988
+Occupational Therapist	12976
 Occupational and Health Safety	6946
 Occupational of PPE	12253
 Occupations	6832,4308
 Occupations SACRRA South African Credit and Risk	11198
-Occupied	8603,3780
+Occupied	8603,3780,580
 Occupied Palestinian Territories	6947
 Occupiers	1988
 Occupé Sous- Sous- Chômeur Taux Inactif	737
 Occupé Sous-emploi Sous-emploi	737
-Occurrence Book	12303
+Occurrence Book	12303,602
 Occurrence Books	12310
 Occurrence Incidence Criticité	10874
 Occurring	6432,5928
@@ -316,6 +328,7 @@ Ocean Telecom Ghana Limited	3386
 Ocean View	8161
 OceanHub Africa	1857
 Oceania	991,45,2823,875,238,1818,42,1172,2836,732,322
+Oceania Customs Organization	13042
 Oceania Linear	10840
 Oceania Northern	11572
 Oceania. CIPS	2836
@@ -354,7 +367,7 @@ Oct-2023 Progress	1284
 Oct-2023 Rev. Closing	11395
 Oct-2024	1343,571,4,794,3867,4796,20,529
 Oct-2024 Mid-Term Review No	2712,9212
-Oct-2025	2253,2435,2240,949,3592,798
+Oct-2025	2253,2435,2240,949,3592,798,760,31
 Oct-2025 BRIDGE Nigeria Practice Area	3456
 Oct-2025 Bank	3604
 Oct-2025 Effectiveness	4688,3189
@@ -372,6 +385,7 @@ Oct-2030. Part of Phase	2254
 Oct-2032 Bank	3562
 Oct-24	12256
 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25	12256
+Oct-25 Annual Average	13060
 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26	12062
 Oct-25. Current	12717
 Oct-Dec	1944,4727,275,4188
@@ -433,6 +447,7 @@ Registo de Nascimento Ocorrido	11363
 Registration of Births of Kenyans Occurring Abroad	12151
 Regulator OCGT Open-Cycle Gas Turbine PV	11228
 Residential and Hazardous Occupancies	12389
+Rights of Leasehold and Occupational Land Rights	12912
 Robert Ochola	2358,179
 Robert Ochola Engagement	7787
 Ruth Ocero Minister of Health	4217
@@ -445,6 +460,7 @@ Saúde Ocupacional	11413
 Segurança Ocupacional	11390,152
 Segurança Ocupacional QAS Quadro Ambiental	11413
 Segurança Ocupacional TI Tecnologia de Informação TIC	11413
+Short-term Occupational Health and Safety Courses	12972
 Single Occupancy	9031
 Sistema Ocidental	2816
 South Africa's National List of Occupations	6832
@@ -465,6 +481,7 @@ Tesseract OCR	163,4950
 Train OCGS	11133
 UMc Australia Oceania Australia and New Zealand	10840
 UN OCHA	3583
+UNCTAD and OCHA	13042
 UNHCR and OCHA	10776
 United States Citation Ocks	8022
 Unlawful Occupation of Land Act	11188

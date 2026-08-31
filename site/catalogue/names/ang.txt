@@ -46,6 +46,7 @@ ANGOLA Percurso da Digitalização	11480
 ANGOLA RULING PARTY SPLITS OVER HIGH-STAKES	9399
 ANGOLA TELECOM	3093
 ANGOLA Toda	539
+ANGOLA-NAMIBIA POWER INTERCONNECTION PROJECT	13155
 ANGOLANO	11397
 ANGOP	2581,2173,542,13,96,316,981,297,586,82,35,243,108,3,574,530,99,242,204,1087,239,406,48
 ANGOP. Citado	6356
@@ -137,7 +138,8 @@ Ange Kouassi	10877
 Angebot	503
 Angebote	8546
 Angebotsfristen	8546
-Angel	9495,2368,97,552
+Angel	9495,2368,97,552,472
+Angel Dlamini	13163
 Angel Gonzalez Sanz	12786
 Angel Groups	4972
 Angel Investment Fund	11863
@@ -198,7 +200,7 @@ Anglo American	937,2448,9117
 Anglo Mauritius House	11332
 Anglo-American	9364
 Anglophone	2295,1831,1922,3605,1188,121,1
-Anglophone African	12726
+Anglophone African	12726,344
 Anglophone Crisis	9616
 Anglophone West Africa	4901,4715,517
 Anglophone and Francophone	999
@@ -213,9 +215,10 @@ AngoSat	2613
 AngoSat-2	5421
 AngoSat-3	2242,189,182
 AngoSat-II	3555
-Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109,71,7,16,1,2,20,5,46,159,34,1,9,47,4,38,81,8,11,1,14,9,7,2,14,5,84,183,174
+Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109,71,7,16,1,2,20,5,46,159,34,1,9,47,4,38,81,8,11,1,14,9,7,2,14,5,84,183,174,73,24,20,20,27,33,18,87,1,7,33
 Angola 2010	9399
 Angola A Xalam Analytics Country Report	10781
+Angola AGO Benin BEN Implementing	13082
 Angola Adaptive Safety Nets Report	10768
 Angola African	10759
 Angola Angola Health Emergency Preparedness	11417
@@ -228,6 +231,7 @@ Angola Bengo	10766
 Angola Bengo Benguela	10766
 Angola Bengo Benguela Bié	10766
 Angola Bengo Benguela Bié Cabinda Cuando	10766
+Angola Benin Burkina Faso Burundi Cabo	13042
 Angola Cabinda Zaire	10760
 Angola Cables	778,233,1580,484,1069,2126,86,224,24,63
 Angola Cables A Angola Cables	6356
@@ -339,7 +343,7 @@ Angola Strengthening the National Social Protection System	11375
 Angola Strengthens Maritime Domain Awareness	9399
 Angola TB	10784
 Angola Tel	10769,1
-Angola Telecom	15,763,437,934,944,4,37,2792,698,14,25,1
+Angola Telecom	15,763,437,934,944,4,37,2792,698,14,25,1,6524
 Angola Telecom E.P	2149,948
 Angola Telecom and SATCAB	6638
 Angola Telecom and Satélite	6663
@@ -358,6 +362,7 @@ Angola and Cape Verde	10776
 Angola and Director	10776
 Angola and EDGE Group	9399
 Angola and EDGE Group Near Border Security	9399
+Angola and Georgia	13042
 Angola and Guinea-Bissau	10188
 Angola and India	4275
 Angola and Kenya	3867,4630
@@ -365,7 +370,7 @@ Angola and Malawi. The COMESA and Malawi	2712
 Angola and Mozambique	6797,955
 Angola and Mozambique Author	7752
 Angola and Mozambique. Deployment of AFR-IX	7752
-Angola and Namibia	6618,3341
+Angola and Namibia	6618,3341,3196
 Angola and Rockville	10765,10
 Angola and Rwanda	1867
 Angola and South Africa	1977,2,10397
@@ -397,7 +402,7 @@ Angola's ID	1225
 Angola's INFOSI-managed	3555
 Angola's Law	16
 Angola's MPLA	9399
-Angola's Minister of Telecommunications	3555,312,11,1560,1158,32,36,133
+Angola's Minister of Telecommunications	3555,312,11,1560,1158,32,36,133,6391
 Angola's Ministry	9399
 Angola's Ministry of Telecommunications	6482,4477
 Angola's National Artificial Intelligence Strategy	11483
@@ -410,12 +415,14 @@ Angola's OGE	4848
 Angola's Political Earthquake	9399
 Angola's President Signs Repressive Civil Society	9399
 Angola's Privatisation Programme	7134
+Angola's Rede Nacional de Transporte de Electricidade	13155
 Angola's Securitized State	9399
 Angola's Strengthening the National Social Protection System	424
 Angola-ELP Angola	11396
 Angola-France Economic Forum	2242,63
 Angola-Health-System-Assessment-2010.pdf	10780
-Angola-Namibia	12399
+Angola-Namibia	12399,756
+Angola-Namibia Power Interconnector Project	13155
 Angola-relevant	4275
 Angola-specific	171,10017
 Angola. A Lei	10166
@@ -502,7 +509,7 @@ Angola.Subsidiária	7667
 Angola.md	1770
 Angola25	11417
 AngolaOms	10776
-Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6,169,407,14,37,6,43,12,921,453
+Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6,169,407,14,37,6,43,12,921,453,95,208
 Angolan Bank of Investments	10775
 Angolan Banks Association	10775
 Angolan Communications Institute	10771
@@ -543,7 +550,7 @@ Angolana	11390,98
 Angolano	1215,9535,1,1,619,18
 Angolano. O de Identidade	10750
 Angolanos	10751,2,679
-Angolans	561,663,6,5283,2369,517,1364,2,3,6,1,1,3,601,37,61
+Angolans	561,663,6,5283,2369,517,1364,2,3,6,1,1,3,601,37,61,1506
 Angolans. Presidential Decree	10765,10
 Angolans. Weak	10765,10
 Angola’s	10780
@@ -614,7 +621,9 @@ Angosat-2. Em	11072
 Angosat-3	2242,123,66
 Angotic	5542
 Angovia	2342
+Angry	12970
 Angré	2758,400,3400
+Anguilla Antigua and Barbuda Aruba Barbados Belize	13042
 Angular	7885,3894,914
 Angular Wave Research. Tools and Weapons	1038
 Anguédedou	2342
@@ -653,6 +662,7 @@ Bengo Conecta Angola	11824
 Benin Business Angel Network	10887
 Bloomberg. Angolan President Hints At Successor	9399
 Bloomberg. Angolan President Seeks New Ruling	9399
+Body NAMIBIA AND ANGOLA SIGN AGREEMENTS	13155
 Borrower Government of Angola	10779
 Botswana Startups Through Angel Network Partnership	10151
 Breves Angola	10750
@@ -800,6 +810,7 @@ Eswatini Somalia Rwanda BEAC Morocco Angola	6938
 Ets Angue	10975
 Eucario Bacale Angüe	758
 Eucario Bacale Angüe. El Programa	758
+Evaluation and Results for Anglophone Africa CP Country	12962
 Ex- Diretor-geral da ANG	10114
 Executive Summary Angola	10763
 Executivo Angolano	14,3505,627,104,6501,620,10
@@ -842,6 +853,7 @@ Government of Angola and Angolans. GoA	10765
 Government of Angola and Angolans. The GoA	10775
 Government of Angola and Presight	793
 Government of Angola. As for Technical Assistance	11390
+Governments of Namibia and Angola	13015
 Governo Angolano	10751
 Governo da República de Angola	11455,18,7
 Governo de Angola	1192,3562,1200,641,165,2280,196,163,510,705,144,11,618,2,5,19,27,1,1,2,4,3,8,1,117
@@ -972,6 +984,7 @@ Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
 Marcos González UNICEF Angola	10748
 Marie Ange Akpa	1266
 Marie Angélique Mame Selbé Diouf	7701
+Mariental Mariental Municipality Aimablaagte Anglican Church	13046
 Mestres Angolanos	11387
 Mhe. Angellah Jasmine Mbelwa Kairuki	7863,1
 Michcoma Angola	9399
@@ -997,7 +1010,7 @@ N.º INDICADORES Angola	4044,7377
 NOVAS GRANDES HÍDRICAS Angola	11366
 Namibe. O Conecta Angola	6585
 Namibia Angola Bank of Namibia	12252
-Namibia and Angola	6596,67
+Namibia and Angola	6596,67,6385
 Namibia and Angola. Angola Telecom	5926
 National Assembly of Angola	16
 National Assembly. Angola	10779
@@ -1122,7 +1135,7 @@ Religião A Constituição da República de Angola	11577
 Rep. Eritrea Guinea-Bissau T4 Evolving Angola	10764
 Reprovação Desistência Angola	10766
 Republic Angola	10775
-Republic of Angola	974,1317,1915,2333,125,2735,1369,7,626,16,61,1162
+Republic of Angola	974,1317,1915,2333,125,2735,1369,7,626,16,61,1162,515,33
 Republic of Angola Average	11417
 Republic of Angola Civil Identification Substantive	10775
 Republic of Angola FAS Local Development Institute	10768
@@ -1208,7 +1221,7 @@ Tanzania and Angola. The MoU	3037
 Taxpayers Identification Angola	10775
 Teilnahmewettbewerb Angebotsfrist	8546
 Telecom Namibia Angola Telecom SATCAB 1200.jpg	6638
-Telecom Namibia and Angola Telecom	5926,712,26
+Telecom Namibia and Angola Telecom	5926,712,26,6524
 Telecom Namibia and Angola's Space Management Office	3759
 Televisão Pública de Angola	5974
 Tempo de Angola. Ao	3137

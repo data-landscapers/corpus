@@ -28,6 +28,7 @@ Bank of Mozambique	3407,72,735,1044,148,409,862,1126,604,2202,525,1136
 Bank of Mozambique Governor Rogério Zandamela	5815,2592
 Bank of Mozambique. Connection	6677
 Bar Association of Mozambique	12201
+Big Bend Correctional Centre Mozambican Government	12972
 Birth Registration Mozambique's Civil Registration Code	12167
 Body Ethiopia and Mozambique Seal Landmark Cooperation	12825
 Body Mozambique	12819,9
@@ -91,7 +92,7 @@ EUinMoz2026 During the Mozambique	6743
 Election Observation Mission FAMOD Forum of Mozambican	12201
 Equatorial Guinea Mozambique Sudan	12214
 Eskom and Mozambique	6490
-Eswatini and Mozambique	6996
+Eswatini and Mozambique	6996,5979
 Ethiopia and Mozambique	11914,911
 European Union Election Observation Mission Mozambique	12201
 European Union and Mozambique	6552,191
@@ -187,7 +188,8 @@ MOZIX	6967,1860,615,252,2543
 MOZIX Structured	6967
 MOZIX. Digital Realty's MPM1	12237
 Madagascar Mauritania Mozambique Nigeria Sao Tome	6938
-Malawi and Mozambique	9959,1196,1349
+Malawi Mali Mauritania Mozambique Namibia Niger	13042
+Malawi and Mozambique	9959,1196,1349,505
 Manual The World Bank Mozambique Digital	1228
 Maputo Mozambique Either Participant	4260
 Maputo Mozambique Ministerio	4260
@@ -234,7 +236,7 @@ Mozafari	7790
 Mozal	11228,978
 Mozam	4260
 Mozambicains	7737,2489,1500
-Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586,509,124,394,8,37,40,46,524,45,1,1,20,18
+Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586,509,124,394,8,37,40,46,524,45,1,1,20,18,204,93
 Mozambican Association of Artificial Intelligence	11113
 Mozambican Attorney General's Office	12179
 Mozambican Banking Association	7734
@@ -269,7 +271,7 @@ Mozambican Transport Minister	2667
 Mozambican Youth Organisation PS Polling Station	12201
 Mozambican. Performance	4260
 Mozambicans	3407,454,399,393,377,84,1661,47,981,201,1223,2974,5,573,59
-Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22,113,20,19,5,2,11,117,52,14,3,62,13,9,7,1,2,20,5,4,1,20,166,19,13,3,7,4,2,1,5,2,2,16,1,6,10,5,5,1,12,1,17,5,5,5,4,10,4,24,22,25,11,1,23,9,103,183,96,9,3,7,1,16,1,2,3,2,5,1,2,6,1,2,4,2,2,1,1,5,2,4,1,5,1
+Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22,113,20,19,5,2,11,117,52,14,3,62,13,9,7,1,2,20,5,4,1,20,166,19,13,3,7,4,2,1,5,2,2,16,1,6,10,5,5,1,12,1,17,5,5,5,4,10,4,24,22,25,11,1,23,9,103,183,96,9,3,7,1,16,1,2,3,2,5,1,2,6,1,2,4,2,2,1,1,5,2,4,1,5,1,62,4,20,3,17,10,5,2,63,12,6,87
 Mozambique Announces	6771
 Mozambique Approval Date Current Closing Date	2473
 Mozambique Approves IP Strategy	7624
@@ -319,6 +321,7 @@ Mozambique Launches Digital Platform	10470
 Mozambique Liberation Front	5815
 Mozambique Lubombo Shiselweni Manzini Hhohho Female	418
 Mozambique Lwanga Elizabeth Nanziri	9349
+Mozambique MOZ Finalised	13082
 Mozambique MUCAMBE	6613
 Mozambique Minister of Agriculture	12856
 Mozambique Ministry of Communications	6797
@@ -353,6 +356,7 @@ Mozambique Social Protection and Economic Resilience Project	12780
 Mozambique Steward Bank Limited	12252
 Mozambique Stock Exchange	7381
 Mozambique Survey-2020-07-311.pdf	9349
+Mozambique System	13053
 Mozambique Tax Authorities	12855
 Mozambique Tax Authority	12855
 Mozambique Telecom	482
@@ -365,7 +369,9 @@ Mozambique and Ethiopia	5961
 Mozambique and ICT	9905
 Mozambique and Lesotho	6593,1440
 Mozambique and Madagascar	3521
+Mozambique and Malawi	12979
 Mozambique and Mauritius	4448
+Mozambique and Namibia	13009
 Mozambique and Nigeria	771
 Mozambique and Proindicus	1829
 Mozambique and Rwanda	5212,1299
@@ -373,9 +379,10 @@ Mozambique and Senegal	12187
 Mozambique and Seychelles	3067
 Mozambique and South Africa	9761,2621
 Mozambique and South Africa. Figure	12256
+Mozambique and Sri Lanka	13042
 Mozambique and Sweden	110
 Mozambique and São Tomé and Príncipe	8043
-Mozambique and Tanzania	771,2751
+Mozambique and Tanzania	771,2751,9531,7
 Mozambique and Uzbekistan	12786
 Mozambique and Zambia	962,8453
 Mozambique'. Implementation	7624
@@ -421,7 +428,10 @@ Mozambique's Science and Technology Policy	12786
 Mozambique's Telecommunications Law	3489
 Mozambique's US	4260,6
 Mozambique's VC	12786
+Mozambique- Malawi Interconnector	13060
 Mozambique-China Cultural Center	10300
+Mozambique-Malawi and Zambia-Malawi	12985
+Mozambique-Zimbabwe Bilateral Agreement	13042
 Mozambique-based	12270
 Mozambique-specific	12294
 Mozambique. A Cybersecurity Bill	12294
@@ -477,9 +487,9 @@ Mozambique’s Public Key Infrastructure	10301
 Mozard Monzo	10291
 Mozhandling	11089
 Mozhandling Limited	11089
-Mozilla	1004,3122
+Mozilla	1004,3122,8969
 Mozilla Common Voice	8096
-Mozilla Foundation	490,1322
+Mozilla Foundation	490,1322,11268
 Mozisha	8096
 Moçambique Mozambique	9441
 NATIONAL BACKBONE AND LAST MILE Mozambique	11857
@@ -528,13 +538,14 @@ Raxio’s Mozambique	9446
 Regarding Mozambican	7679
 Regional Trade Mozambique	5407,676
 Republic of Mozambican	12294
-Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346,131,8,1,23,40
+Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346,131,8,1,23,40,75,4,50,5
 Republic of Mozambique Implementing Agencies	12832
 Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique's Attorney General	12161
 Republic of Mozambique. ARTICLE	12771
 Republic of Mozambique. Anonymization	3861
 Republic of Mozambique. Assistance	12779
+Republic of Mozambique. Currently	12977
 Republic of Mozambique. Privacy	3861
 Republic of Mozambique. RECOGNISING	3861
 Republic of Mozambique. Responsible Agency	12220
@@ -577,6 +588,7 @@ U.S. Mozambique Mozambique Government	4260
 UNDP Mozambique	9227
 UNHCR Mozambique	12806
 UNICEF Mozambique	200,453
+Uganda and Mozambique	13060
 Under Mozambican	3861
 United States and Mozambique	4260,6453
 V. The Government of Mozambique	4260

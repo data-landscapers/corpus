@@ -9,6 +9,7 @@ A3 Certificado de Actualización PE	4209
 ABBREVIATIONS AND ACRONYMS ANE CERC CERC	1228
 ABBREVIATIONS AND ACRONYMS Acronym CERC CMC	4653
 ABBREVIATIONS AND ACRONYMS CERC Contingency Emergency	2473
+ACCREDITATION OF SECURITY PRODUCTS AND CERTIFICATION	13071
 ACTUAL ACTUAL CATEGORÍA Certificado de Actualización PE	4209
 ACTUAL ACTUAL COMERCIO Certificado de Comercio	4209
 ACTUAL COMERCIO Certificado de Comercio	4209
@@ -33,8 +34,9 @@ Action Plan NCPB National Cereals and Produce	2775
 Added Tax Certificate	12400
 Additional Information I Certify	736
 Address CERT-GH	775
-Advanced Certificate	6832
+Advanced Certificate	6832,6119
 Affiliation CERT-GH	775
+Affirmative Action Compliance Certificate	13037
 Africa CERT	5677
 Agricultural Certificate Morcellement Scheme	7845
 Agência Reguladora de Certificação de Carga	8052
@@ -47,6 +49,7 @@ Application for Child's Current Birth Certificate	6783
 Application for Good Standing Certificate Enterprise Provide	12483
 Apply for Tax Compliance Certificate Import	12454
 Assigned Names and Numbers ICPAK Institute of Certified	6946
+Association of Certified Chartered Accountants Africa	12956
 Attach Company Certificate of Incorporation	736
 Authority Accreditation and Certification	587
 Authority CERT-GH	775
@@ -72,7 +75,8 @@ Back Ratio I Certify	736
 Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46
 Birth Certificate Access Changes Lives	12227
 Birth Certificate Online	6783
-Birth Certificates	445,3812,6518,1516,37,9,159
+Birth Certificates	445,3812,6518,1516,37,9,159,603
+Birth Certificates and Identity Documents	12972
 Birth Registration and Birth Certificates Currently	12328
 Birth Registration and Certificates Figure	10765
 Birth Registration and Certificates for Children Under Age	10765,10
@@ -132,6 +136,7 @@ CERRT	7630
 CERRT.NG	9118
 CERRT.NG DeepLoad	9118
 CERSA	2966
+CERT Computer Emergency Response Team CIO	12917
 CERT Coordination Centre	12232
 CERT Malawi Computer Emergency Response Team	12240
 CERT NZ	6936
@@ -149,11 +154,13 @@ CERTAIN RESPONSIBLE PARTIES	11255
 CERTAIN TIMES OF THE DAY	11004
 CERTAIN TIMES OF THE DAY M	11964
 CERTIFICATE	11240
+CERTIFICATE OF ACCREDITATION MALAWI BUREAU	13068
 CERTIFICATE OF AUTHORITY OF SIGNATORY Indicate	12693
 CERTIFICATE OF BONA FIDE TENDERING Tender	12693
 CERTIFICATE OF BUSINESS	2709
 CERTIFICATE OF ORIGIN	7020
-CERTIFICATION	12413
+CERTIFICATES	13071
+CERTIFICATION	12413,798
 CERTIFICATION DEPARTMENT Request	10819
 CERTIFICATION DEPARTMENT Request PTSP	10819
 CERTIFICATION OF INFORMATION TECHNOLOGY GOODS	11184
@@ -173,12 +180,14 @@ CERVANNA CARE LIMITED Data Controller INST-66209110F70	7167
 CERVIDA	2966
 CFR Certificat Foncier	10876
 CGI. Certains	1984
+CIVIL EVENT RECORDS AND CERTIFICATES Clause	12959
 COA Certificate of Airworthiness COHO Community Oral	2775
 COMERCIO Certificado de Comercio	4209
 COMERCIO Certificado de Comercio C1 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio C1 Libreta	4209
 COMERCIO Certificado de Comercio C2 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio Libreta	4209
+COMMENCEMENT OF CERTAIN PROVISIONS OF ELECTRONIC	13189
 CONFORME CERTIFIED TRUE COPY SECTION	10974
 COPIE CERTIFIEE CONFORME CERTIFIED TRUE COPY	10974
 COPIE CERTIFIEE JONFORME CERTIFIED TRYE COPY	10974
@@ -211,7 +220,7 @@ Cerebrium	11344
 Cerebrovascular	12151,262
 Ceremonias	6841
 Ceremonias Excelentísima	1855
-Ceremony	2737,558,245,2547,1808,576
+Ceremony	2737,558,245,2547,1808,576,4499
 Cereza	12201
 Cerillion	2235,1304
 Cerimónia	5329
@@ -221,10 +230,12 @@ Cerraduras Electrónicas	4209
 Cerrillas	4209
 CertExpress	1012,872
 CertExpress CertExpress	1882
-Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69,318,450,106,122,18,21,49,36,38,69
+Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69,318,450,106,122,18,21,49,36,38,69,560,35
 Certain AI	11135
+Certain Activities The Consultant	13037
 Certain Effects	7198
 Certain Financial Forecasts	7198
+Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
 Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770
 Certainly	11665
@@ -253,6 +264,7 @@ Certidão de Quitação Número	11532
 Certidões	11452,449
 Certidões Cadastrais	11384
 Certidões São	11528
+Certifi	13042
 Certificaciones de Pagos	4209
 Certificación de Productos	4209
 Certificado	794,9956,1,620,2,46,53,426,413
@@ -293,13 +305,15 @@ Certificat de Nationalité. Il	3045
 Certificat de Nationalité. Par	3045
 Certificat du NPI	1706
 Certificat du Numéro Personnel	5738
-Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91,319,3,19,23,688,112,175,37,38,138,67,92,19,108,43
+Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91,319,3,19,23,688,112,175,37,38,138,67,92,19,108,43,200,13,66,33,26,6,25,16,107
 Certificate Authorities	11130
 Certificate Authority	5533,58,6395
 Certificate Authority CARA Criminal Assets Recovery	5533
 Certificate Authority Document	12364
+Certificate Awarding Ceremony	13197
 Certificate DFI	11153
 Certificate Delivery System	2819,1272
+Certificate Expires	13068
 Certificate FCTA Federal Capital Territory Administration	11857
 Certificate Final.pdf	7210
 Certificate Management System	5983,963
@@ -321,11 +335,12 @@ Certificate of Birth. NOTE	12217
 Certificate of Bona	12693
 Certificate of Cohabitation	12333
 Certificate of Competency	736,7903
+Certificate of Conduct	13096
 Certificate of Divorce	12333
 Certificate of Fitness	12309
 Certificate of Full Identity	12333
 Certificate of Genocide Survivors	12333
-Certificate of Incorporation	736,1252,3550,365,1465,4981
+Certificate of Incorporation	736,1252,3550,365,1465,4981,900
 Certificate of Incorporation Certificate CM1	12342
 Certificate of Incorporation Number	1877
 Certificate of Incorporation Valid Tax Clearance Certificate	12693
@@ -348,7 +363,7 @@ CertificateKenya.jpg	12138
 Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
-Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100
+Certificates	1,1883,3399,692,44,910,3194,300,1770,48,15,108,132,43,100,254,112,90
 Certificates of Competency	8639
 Certificates of Customary Ownership	1391,8336
 Certificates of Deposits	4680
@@ -359,7 +374,7 @@ Certificates of Origin. External	12539
 Certificates of Recognition and Merit	7702
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114
 Certification Authorities	9880
 Certification Authority	1009,10175,1650
 Certification Authority and Digital Trust Centre	2692
@@ -372,7 +387,7 @@ Certification Department and External Auditor Pass Pass	10819
 Certification Electronique	2314
 Certification Procedure	3861
 Certification Process	5665
-Certification Programme	7548
+Certification Programme	7548,5547
 Certification Programs	6946
 Certification Relying Party Subject	10819
 Certification Requirements	5665
@@ -387,7 +402,8 @@ Certification of Cause of Death MIGEPROF Ministère du Gerne	12413
 Certification of Correctness of Information Supplied	12400
 Certification-leading	3299
 Certification. PCI-DSS	2350
-Certifications	6432,5524,329
+Certifications	6432,5524,329,900
+Certifications Confirm	13185
 Certifications Internationales	6163
 Certifications Issued	4528,7984
 Certificats	5899,4977
@@ -399,7 +415,8 @@ Certificação Digital	7948,361,4501
 Certificação Digital.Ao	8308
 Certificação REMPE	12021
 Certificações	2816,8625,7,8
-Certified	736,2978,220,5937,536,567,266,635,166,126,86,89,7,10,6,9,168,151
+Certified	736,2978,220,5937,536,567,266,635,166,126,86,89,7,10,6,9,168,151,338,6,212
+Certified Computer Professional	13078
 Certified DPOs	11956
 Certified Data Protection Officer	7258
 Certified Data Protection Supervisors and Officers	3582
@@ -414,11 +431,13 @@ Certified Information Systems Auditor	1940,8925
 Certified Institution	1638
 Certified Internal Auditor	3632
 Certified National Government Data Centres All	6432
+Certified Network Specialist	13078
 Certified Public Accountant	6946
 Certified SIM3 Auditor Training	9470
 Certified Secretary	6946
 Certified Threat Intelligence Managers	10689
 Certified Tier	3534
+Certified Training	13037
 Certifier	10906,1245
 Certifié	6456
 Certifié IFDD	7999
@@ -434,20 +453,23 @@ Certiﬁcation	2709
 Certiﬁcation A Digital Health Solution Vendor	2709
 Certiﬁcation Framework	2709
 Cerutti	11140
-Cervical	11417
+Cervical	11417,1746
 Cervical Cancer	1363
 Cervigni	10963,1
 Cervix	12413
 Chamber Registration Certificates	10645
 Chartered Certified Accountant	4896
+Check Point Certified Security Administrator	12926
 Circular. Certificated	4896
 Cisco Certified Support Technician	9621
 Citizen Engagement CERC Contingency Emergency Response	11549
 Citizenship Certificate	12337
 Citizenship Certificate and Old Namibian ID	12350
+CoO Electronic Certificate of Origin EU European	12951
 Collectivité Cercle	9287,55
 Commercial Intra-city Courier Services Certificate	1223
 Community CERC Contingency Emergency Response Component	969
+Company Registration Certificate	13031
 Compliance Audit Returns Certificate	11956
 Compliance and Certification	4791
 Comprehensive Agriculture Trade Programme. Certain	8550
@@ -459,13 +481,18 @@ Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contractual and Certification Actions	11995
 Controlling Person Type and Self Certification	11685
+Copies of Professional Certifications	13185
+Cost of Living and Adjustment COTE Certificate	12975
 Country Climate and Development Report CERC Contingent	1264
 Country Signing Certificate Authorities	7370,191
+Country Signing Certificate Authority COVID19 Coronavirus	13005
+Course Enrollments235 Certificates Completed	13095
 Craft Certificate	12431
 Craft Certificate Figure	12431
 Criminal Record Certificate	11939
 Criminal Record Certificate. MEDIA	12333
 Customary Right of Use Certificate	10930
+Customs Clearance Certifi	13042
 Cybersecurity Education and Certification Pathways	6936
 D.G. DE PROTOCOLO Y CEREMONIAS.- Concepto	4209
 D1 COMERCIO Certificado de Comercio	4209
@@ -503,10 +530,12 @@ Digital Certificate and Digital Signature. Authorised Person	12364
 Digital Certificates	12359
 Digital Certification Authority	11891
 Digital Certification System	12161
+Digital Government CERT	12917
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digitalizing Birth Certificates	10989
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
+Director of Ceremonies	13118
 Distribution List for Notifications CERT-GH	775
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
@@ -519,11 +548,13 @@ E-Life Certification	8999
 ECOWAS Travel Certificate and Resident Permit	12015
 EDGE Certification	11905
 EDGE Data Center Certification	1264
+ENHANCE PROPERTY OWNERSHIP CERTAINTY	13213
 ESTADO EXTERIOR PRIMERA CEREMONIAS Y SEGURIDAD	4209
 EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
 Earn Certificates Under New Training Plan	10280
 Ejercicios Cerrados	4209
 Electrical Appliance Registration Certificates The Energy	12256
+Electronic Certifi	13042
 Electronic Certification Administration	6946
 Electronic Certification Authority	11906
 Electronic Certification Service Providers	6946
@@ -537,12 +568,17 @@ Entidade de Certificação Raiz de Cabo Verde	11867
 Entidades Certificadoras	8309
 Equity Interest Type and Self Certification	11685
 Establish Certification	1000
+Eswatini General Certificate of Secondary Education	12975
+Eswatini Primary Certificate	12975
 European Cybersecurity Certification Framework	3787
 Evaluate and Certify	12675
 Exemption Certificate	12282
 Exorbitant Data Protection Certification Fees Threaten	11677
+Expert Certified Training	13037
 External Birth Certificates	12496
+FOREIGN CERTIFICATION SERVICE PROVIDERS	13071
 Fabio Cerone	2984
+Feeding HIGCSE Higher International General Certificate	12975
 Fire Certificate	1988
 Firearm Certificate Scam	7312
 Firearm Certificate Scam The Master Builder	7312
@@ -552,6 +588,7 @@ Forget the Certificates. Let’s Face the Job	9876
 Form Annual Audit Certificate	12364
 Full Birth Certificate	12337
 Full Birth Certificates	12337
+Fully Registered. Certificate	13078
 Functions of CERT-MU	783
 Functions of CERT-MU PART VII	783
 GSMA Mobile Money Certification	3463
@@ -559,9 +596,12 @@ Gambian Birth Certificate	12085
 Gastos Ejercicios Cerrados	4209
 Global Digital Health Certificate Network	1455
 Go-Live Ceremony	7973
-Good Standing Certificate	12374,26
+Good Standing Certificate	12374,26,637
 Good Standing Certificate Request	12397
+Good Standing Tax Certificate	13037
 Google Career Certificate	1363,1981,3586
+Government CERT	12917
+Government Certified Training	13037
 Governmental Electronic Certification Authority	2406
 Graduate Certificate	2308
 Grand-Bassam. Certains	9054
@@ -588,8 +628,11 @@ IX. RESULTATS DU CERTIFICAT D'ETUDES PRIMAIRES	10847
 Implementation of Medical Certification of Cause of Death	12338
 Import Duty Exemption Certificate	11866
 Imprimir Certidões	12862
+Incwala Ceremonies	12977
+Ingelo Certification Scheme Cottage Factories	13072
 Inhambane and Zambezia. The CERC Manual and Emergency	1228
 Initial Birth Certificates	12496
+Installation Certificate	13185
 Institut Cerco International	8162
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
@@ -598,6 +641,7 @@ Institute of Certified Secretaries of Kenya	6946
 Instituteur Adjoint Certifié IC	10847
 Instituteur Certifié IEPD	10847
 Integrated Modern Agricultural Morcellement Certificate	7845
+Interim Digital Registration Certificate Understanding	13095
 International Certification of Digital Literacy	12245
 International Certified Documents	12041
 International Medical Certificate of Cause of Death	12413
@@ -609,6 +653,8 @@ Issuance of Foreigner Certificate	12227
 Issuing Certificate of Civil Registration	12226
 Issuing of Rates Clearance Certificates	9437
 Joint Ceremony	8192
+Junior Certificate	12977
+Junior Certificate of Education	12914
 KRA Tax Compliance Certificate	12323
 Kenya Certificate of Primary Education	2775,9452
 Kenya Certificate of Secondary Education	2775,9452
@@ -626,12 +672,14 @@ Leading Causes of Medically Certified Registered Deaths	12151
 Liberia National CERT	5244
 Life Certification	7581,2387
 Life Certification Portal	11660
+Lugongolweni Inkhundla. The Ingelo Certification Scheme	13072
 Luis Alberto da Silva Aguiar OPACC Certified	11955
 M Certificates	12457
 MACF. Certains	8891
 MACRA and CERT	12214
 MCCD Medical Certification of Cause of Death NCD	12151
 MZ1 Key Facts Tier III Certified	9446
+Malawi CERT	12908
 Malawi Citizenship Registration Certificate. Verification	12216
 Malawi and Certificates of Marriage Registration. Through	12291
 Malawian Birth Certificate	12216
@@ -643,6 +691,7 @@ Medical Certification of Cause of Death	9370,3051
 Medically Certified Causes of Registered Deaths	12151
 Microsoft CERT-GH	775
 Microsoft Certified	2525
+Microsoft Professional Certifications	13095
 Ministry of Communications and Digitalisation CERT-GH	775
 Mission Statement CERT-GH	775
 Missions du CERT	11139
@@ -662,6 +711,7 @@ National Certification and Qualification Framework	6747
 National Computer Board Certificate Authority	1379
 National Digital Certification Agency	2578
 National Electronic Certification Authority	6268
+National IDs and Birth Certificates	13080
 National Root Certification Authority	3299,4262
 Nationality Certificate	6115,1529,3070
 Nationality Certificates	4257
@@ -681,6 +731,7 @@ Odoo Gold Certified Partner	9533
 Offsec Certified Professional	1940
 Online Certificates Made	11939
 Online IT Certification System	5466
+Operational Acceptance Certificate	13054
 Opération Certificat	10876
 Original Birth Certificate	11282,1055
 Ou Certificado de Admissibilidade	11435
@@ -698,7 +749,9 @@ People TRANCRAA Transformation of Certain Rural Areas	11197
 Permits and Registration Certificates	12062
 Phytosanitary Certificate	1988
 Plataforma Nacional de Certificação	11419
+Post Graduate Certificate	13078
 Postgraduate Certificate	4896,2050
+Postgraduate Certificates. Journal Articles	12926
 Preparation of Certificate of Civil Registration	12226
 Primary Education KCSE Kenya Certificate of Secondary	2775
 Proactive Activities CERT-GH	775
@@ -718,6 +771,9 @@ Provisional Certification Pathway	11995
 Public Keys and Encryption Information CERT	775
 Public Register of Testing Entities and Certified Software	5665
 Public Works and Infrastructure CA Certificate Authority	11986
+QUALITY MANAGEMENT SYSTEMS CERTIFICATION	13068
+QUALITY MANAGEMENT SYSTEMS CERTIFICATION ISO	13068
+Qualifying Certificates	13071
 Quality Assessor Certificate Programme	11134
 R1egistration and Certification	736
 RCZ-NCRST MoU Signing Ceremony	1554
@@ -727,11 +783,13 @@ RWANDA LAUNCHED ELECTRONIC LAND REGISTRATION CERTIFICATE	12451
 Radio Amateur Examination Certificate	736
 Radio Amateur Operator’s Certificate	736
 Receiver I Certify	736
+Recognition of Certain Marriages Act	12959
+Recognition of Certain Marriages Act The Registrar	12959
 Regime de Prescrição de Certos Bens Abandonados	11404
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar's Certificates and Special Licenses	12290
 Registrar's Certificates and Special Licenses. The Office	12290
-Registration Certificate	11250
+Registration Certificate	11250,1787
 Registration and CertificatiCoonm	736
 Registration and Certification	736,11631
 Registration and Certification System	9370
@@ -752,6 +810,7 @@ Root Certification Authority for Nigeria's National Public	8440
 Root Certification Authority. The DCS	11120
 Rota Planning Staff Technical Training and Certifications	9123
 Rwanda Document Description Birth Certificate	12328
+SADC Electronic Certificate of Origin	12951
 SAQA-approved Further Education and Training Certificate	8077
 SCUML Certificate	11976
 SEC E CERT EXPIRED	2256,6977
@@ -761,8 +820,10 @@ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEQE1. Certains	8891
 SIM3 Auditor Certification	9470
 SISP The Certified Accountant	11955
+SME Certificate	13037
 SME' Certificate	12400
 SOC and CERT	1264
+SSL Certificates The Department of E-Government	12917
 SSN. Certaines	10874
 STANDARDS CERTIFICATION	11184
 STATUTORY AFFAI COPIE CERTIFIEE GONFORME	10974
@@ -784,10 +845,14 @@ Standards Certification	11184
 Standards Certification Responsibilities	11184
 Standards and Certification	12356
 Standards and Certifications	6432
+Standing Social Security Certificate	13037
+Standing Tax Certificate	13037
 Startup Label Certificate	9598
 State Certification Authority	12161
 Sud-Ouest Certains	10975
 Summary of Certain Discussion Materials Provided	7198
+Swaziland General Certificate of Secondary Education	12914
+Swaziland Primary Certificate	12914
 Systems Security Certified Practitioner	1940
 Système Certificat	5063
 TCCF TCCD- Tier Certification of Design Documents	6432
@@ -800,6 +865,8 @@ Tax Clearance Certificate August TAX Newsletter	12855
 Tax Clearance Certificate Under	12855
 Tax Clearance Certificate and SSNIT	7368
 Tax Clearance Certificates	9779,2673,57,346
+Tax Clearance Certificates Issued Table	13053
+Tax Clearance Certificates Tax Clearance Certificates	13053
 Tax Compliance Certificate	10064,2233
 Tax Compliance Certiﬁcate	2709
 Taxa de Certidão de Quitação	11532
@@ -817,6 +884,7 @@ Token Certificate ID Serial No Renewal	12364
 Token Certificate Management	12364
 Trade Certificate of Licence Incorporation	5687
 Trade Mark Registration Certificates and Renewals	11250
+Training Certificates	13185
 Training Completion Certificates	12400
 Treasury Cashier Office. Birth Certificates	12216
 Trust Certification	10819
@@ -835,6 +903,8 @@ V Namib-Diaz and Cerim	12399
 VAT Registration Certificate	12693
 VENTURE D SOLE PROPRIETOR A. Certificate	12693
 Valid Certificates	10721
+Valid Good Standing Certificate	13031
+Valid NamRA Good Standing Certificate	13031
 Valid Tax Clearance Certificate	11252,1429,5,7
 Valid Tax Compliance Certificate	9603
 Valid Trading License Certified	12693
@@ -846,6 +916,7 @@ Willing CERTIFICATION DEPARTMENT Determines	10819
 Withholding Certificate	12282
 Withholding Tax Certificates	10064
 Workshops and Certification Programs	12675
+World Teachers Day Celebration and Awards Ceremony	12950
 Y INSTALACIONES Y FRONTERAS CIUDADANA CEREMONIAS	4209
 York-based Cerberus Capital Management	4676
 Zambia Certifies	12472

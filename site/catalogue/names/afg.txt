@@ -15,10 +15,13 @@ AFga&author	771
 Afg Bank	6059,9
 Afghan	5225,2565
 Afghan-language	7790
-Afghanistan	10,737,887,1384,3575,232,342,623,392,295,2237,71,8,36,11,4,120,40,136,216,114,102,37,637
+Afghanis	13042
+Afghanistan	10,737,887,1384,3575,232,342,623,392,295,2237,71,8,36,11,4,120,40,136,216,114,102,37,637,796
 Afghanistan Albania Algeria Andorra Angola Antigua	11765
+Afghanistan Antigua and Barbuda Bangladesh	13042
 Afghanistan Antigua and Barbuda Burundi Central African	10764
 Afghanistan Asia Southern Asia Kabul	10840
+Afghanistan Customs	13042
 Afghanistan Democracy and Development Organization	9082
 Afghanistan Guinea-Bissau Samoa Algeria Haiti Sao	11005
 Afghanistan N	10844
@@ -28,6 +31,7 @@ Afghanistan and Pakistan	5598,5187
 Afghanistan. International Trade	12467
 Afghans	4960,62,2035
 Afgooye and Mogadishu	11105,45
+CENTRAL ASIA MIDDLE EAST Afghanistan	13042
 Can AFGHS	5550
 Controller INST-217305C158B NAIROBI Afghanistan	7167
 Controller INST-3326808F045 NAIROBI Afghanistan	7167
@@ -61,6 +65,7 @@ LIMITED Data Processor INST-53463893B71 NAIROBI Afghanistan	7167
 LTD Data Processor INST-4821745D906 NAIROBI Afghanistan	7167
 NAIROBI Afghanistan	7167
 OSI M-HcI M-TII Asia Afghanistan	10840
+Outlook Afghanistan	13042
 Pacific Afghanistan Australia	10764
 Pacific T5 Building Afghanistan Dem. People	10764
 Processor INST-217305C158B NAIROBI Afghanistan	7167
@@ -69,3 +74,4 @@ Processor INST-717213162C5 NAIROBI Afghanistan	7167
 Progress No Significant Progress Afghanistan X	11005
 Sierra Leone and Afghanistan. Partners	8477
 Way Ahead The AFGHS	5550
+Zimbabwe ZWE ASIA-PACIFIC Afghanistan AFG Expired	13082

@@ -38,7 +38,8 @@ Bengo. Os	11577
 Bienvenido Osa Micha. En	9302
 Bimmiao DD OSO	163
 Blackberry OS and Windows Mobile	11211
-Bureau OSS Open-Source Software PDU Presidential	12241
+Bureau OSS Open-Source Software PDU Presidential	12241,839,15
+Business Analytics and ICT for Development. Professor Osakwe	12926
 C of Os	11981
 CAPACITAR OS CIDADÃOS	11397
 CBR for Oshana and Oshikoto	12367
@@ -59,6 +60,7 @@ Chief Information Officer and Head of Operations Ositadinma	8081
 Chief State Law Adviser OSBP One-Stop	11218
 Chris Oshiafi	9672
 Chris Oshiafi PAC Research	9672
+Chrome OS	13037
 Ciência de Dados. Requisitos Gerais. Os	11472
 Communications and Technology Minister Ahmed Osman Dirie	7643
 Comuna. Os	11366
@@ -79,6 +81,7 @@ Dados Pessoais. Os	11374
 Dahir Osman Mohamed	11596
 Daniel OSEI-BOAKYE	11863
 David Osagie	8588
+Declaration of Osona Village Extension	13189
 Definições Os	5169
 Deputy Data Commissioner Oscar Otieno	2668
 Director Adjunto Oscar Ondo Ngomo	3179
@@ -100,6 +103,7 @@ Ensino Superior. Os	11577
 Equipment and Materials for PNAD. Os	8474
 Esclarecimentos Os	12853
 Estabilidade Macroeconómica da CEDEAO. Os	11044
+Establishment of OSBPs	13053
 Estado Os	11901
 Estado. Os	5305,6156,681
 Estados-Membros. Os	11569
@@ -183,6 +187,7 @@ NOTA INTRODUTÓRIA Os Censos	4044,7377
 Na OSCAR ASSENGA	11643
 Nahen Osten	11316
 Namibia's Oshikango	9399
+National Window Single OSBP	13053
 Network OSSD Operation Support Service Directorate	1264
 News Osun Guber Aftermath	9997
 Nigerian News Osun	9876
@@ -227,6 +232,9 @@ OSD. Reports	3438
 OSEhUGy	6997
 OSF.IO	8436
 OSGF’s Email Address Can’t Receive Messages	10034,231
+OSHAKATI EAST UUKWIYU Total Eligible	13025
+OSHAKATI WEST ONDANGWA URBAN Total Eligible	13025
+OSHIKUNDE Total Eligible	13025
 OSI H-HcI H-TII Americas Nauru Middle	10840
 OSI H-HcI H-TII Oceania Sao Tome	10840
 OSI H-HcI M-TII Africa Tuvalu Middle	10840
@@ -252,7 +260,7 @@ OSIANE	2880,9156
 OSIANE Afrique Innov	2880
 OSINT	4563,3959,2131,68
 OSM and AtlasAI	12006
-OSPOs	11922
+OSPOs	11922,1158
 OSR. Part	12369
 OSR.31	12369
 OSYCOMOTTAC	718
@@ -263,6 +271,8 @@ Omusati Oshana Oshikoto	1944
 Omusati Oshana Otjozondjupa Zambezi Hardap Kavango	1944
 Omusati and Oshikoto	12367
 Open Science OSAB Open Science Advisory	5246
+Open-Source Innovation UNIMA Joins OSEE	13080
+Oponganda Pre-primary School Oshatotwa Community Centre	13046
 Opérateur de Réseau Mobile OS Objectif Spécifique	11944
 Orange GB. Os	11556
 Organización de Países Exportadores de Petróleo OSC	1701
@@ -342,6 +352,7 @@ Osborn Mushabe	10564
 Osborne	2096,720
 Oscar Abessolo	7959
 Oscar Amaman	9162
+Oscar Capelao	13108
 Oscar Félix Diakité	7800
 Oscar Félix DiakitéLaborpresse.net. Vendredi	7800
 Oscar Jeke	10019
@@ -356,15 +367,33 @@ Oseni	11140
 Oseya Phiri	9945
 Oshabe	12095
 Oshadami	7851,405,161
-Oshakati	9872,276,2235,95
-Oshana	1013,931,1531,8892,16,95
+Oshakati	4495,5377,276,2235,95,506,60
+Oshakati DISTRICT Courts	12920
+Oshakati Extension	13189
+Oshakati North Extension	13189
+Oshakati REGIONAL Courts	12920
+Oshakati State Hospital	12947
+Oshana	1013,931,1531,8892,16,95,485,19,115
 Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
+Oshana Region	12982,220
+Oshana and Hardap	13232
 Oshana and Kunene	12378
 Oshen	5975
-Oshikoto	1013,931,1531,6990,1902,16
+Oshikango	12984
+Oshikango Border Post	13044
+Oshikango and Katima Mulilo	13044
+Oshikango and Katima Mulilo Border Posts	13044
+Oshikango and Katima Mulilo Minister ShafudahCommends	13044
+Oshikoto	1013,931,1531,6990,1902,16,658,56,53
 Oshikoto and Otjozondjupa	12367
-Oshiwambo	12466
+Oshikoto and Otjozondjupa Regions	12984
+Oshikuku	13189
+Oshikuku Extension	13189
+Oshikuku Town Council	13189
+Oshivelo Police Station	13097
+Oshiwambo	12466,595
 Oshodi-Isolo	7235
+Oshoek	13051
 Osiane	6033
 Osibisa Close	3386
 Osiki	226
@@ -385,8 +414,10 @@ Osmundsen	9237
 Osobna	10714
 Osogbo	8551,553,945,5
 Osona Valley	3475
+Osona Village	13183
 Osondu Nwokoro	10053
-Oss-BOrDer	1593
+Osorio	12926
+Oss-BOrDer	1593,11361
 Ossama Eldeeb	10221
 Ossiomo Power	10689
 Ossufo Momade	12201
@@ -438,6 +469,7 @@ Países Africanos Os	2816
 Período de Inalterabilidade Os	11528
 Portugal. Os	6837
 Português. Os	11898
+President and Cabinet OS Operating System Ministry	12917
 Principais Resultados Os	11416
 Produtos de TIC. Os	2816
 Prof. Osaretin George Izevbuwa	10270
@@ -459,8 +491,10 @@ SDK. Android OS	3491
 SERVIÇOS DE DADOS Os	11556
 SIBOMANA Oscar	12445
 SIGE. Os GPEs	10766
+SUBDIVISION OSHAKATI REGIONAL OFFICE	13097
 SUMMARY PILL ARS CR OSS CUTTING	12701
 Salon OSIANE	2880
+Schedule of Requirements Term Explanation OS Operating	13185
 Secretário Executivo. Os	11561
 Secretários Executivos Adjuntos. Os	11561
 Security Identity Alliance’s OSIA	10819
@@ -477,9 +511,11 @@ Stable OS	6368
 State Minister for Communications Ahmed Osman Dirie	9373
 Subregion OSI HCI TII EGDI	10840
 Sustentabilidade Os	11569
+System OSPF Open Shortest Path First	13185
 Systems OPE Oshakati Premier Electric PAYGo	12399
 SÍNTESE DOS PRINCIPAIS RESULTADOS Os	10757
 Tayo Osiyemi	7444
+Technical University of Munich. Prof Jude Osakwe	12926
 Temitope Osunrinde	6056,92,5667
 Tennsa OS	9381
 Tiwalola Osazuwa	9877
@@ -499,6 +535,7 @@ University of Oslo. DHIS2	1219
 Uv OS	37
 Values for OSI	10840
 Variáveis de Observação Os	10766
+Victor Osamor	12926
 Violação da Livre Iniciativa Os Artigos	11436
 Web Content Management Server OS N	9124
 Willis Osemo	1814,9989,1,1,20

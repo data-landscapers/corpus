@@ -3,7 +3,8 @@ HZK-LGDC L’Agence	8360
 HZK-LGDC L’autorité	1943
 Hz Active Medical	736
 Hz Audible Noise DTV	34
-Hz EN	736
+Hz CEPT	12949
+Hz EN	736,12213
 Hz Implants	736
 Hz LPD	736
 Hz MHz	736
@@ -13,6 +14,7 @@ Hz Remote RS-232C Progressive Component	34
 Hz Service Factor	736
 Hz Size Projection System	34
 Hz TS	736
+Hz-148	12949
 Hz-30 MHz	6946
 Hz. Frequency	12233
 Kenge HZ	12003

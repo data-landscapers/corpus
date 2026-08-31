@@ -27,9 +27,9 @@ NIP and EFSD	1818
 NIP's DPI	10719
 NIP-OPay	10719
 NIPAC	958
-NIPAM	6557
+NIPAM	6557,6624
 NIPC. Includes NIN	506
-NIPDB	5086,7313
+NIPDB	5086,7313,583
 NIPDB Acting CEO	5086
 NIPOST	3942,4883,2301,3,728
 NIPOST Galaxy Backbone Ubong Essien Nigerian	11857
@@ -39,6 +39,7 @@ NIPS. Another	10075
 Namibia Boosts Cybersecurity Capacity Through NIPAM	6557
 Nigeria’s NIP	4848
 Nigerien Electricity Society NIPP National Integrated	12062
+Nipam	13175
 Nipashe	8884,2249
 Nipashe Jumapili	8884
 Nipol Telecoms Limited	3862

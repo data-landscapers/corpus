@@ -3,6 +3,7 @@ Achèvement TBFS	737
 Angola TB	10784
 Annual TB	4301
 Avatar of TBryMMz	12478
+Baseline TBC	13058
 Bill of Quantities TBA	1988
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
 Clinics and TB	12421
@@ -53,6 +54,7 @@ Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
+Patients Screened for TB	12977
 Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
 Previous TB	12678
@@ -74,6 +76,7 @@ Road Safety ZRCP TBA	1988
 S-Annual TB	4301
 SPS and TBT	11149
 Sexually Transmitted Infections TB	10776
+Significant TB	13163
 Soum le TBS	737
 South Africa's National TB Prevalence Survey	8301
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
@@ -86,8 +89,10 @@ TB Campaign	8301
 TB Capacity for M365 Backups Software Implementation	11209
 TB Capacity for Production Backups Add Additional	11209
 TB Commodity	4301
+TB DDR5 ECC RAM	13185
 TB Deaths	4167,50,1135
 TB Dispensaries	10784
+TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 TB EMR	10784
 TB Elimination Acceleration Program	4260
 TB Elimination Acceleration The Government of Mozambique	4260
@@ -95,25 +100,32 @@ TB Hack Claim Secondary	5146
 TB LFF SAS	12681
 TB Modelling Working Group	10784
 TB Multisectoral Accountability Framework	12729
+TB NVMe Gen	13185
+TB NVMe SSDs	13185
 TB National Strategic Plan	10776
 TB RAM	12253
 TB SAS	12681
 TB SAS Drive Primary Communication	9475
 TB SATA Drive Storage	9475
+TB SDD	13185
 TB SSD	8289
 TB TB	3862
 TB TRIAGE	12678
+TB Treatment Success	12922
 TB Tuberculosis UHC Universal Health Coverage	12729
 TB Tuberculosis WHO World Health Organization	771
+TB and ART	12976
 TB and HIV	3385,768,175,834,7567
 TB and TB	12729
 TB and TB Acceleration Plan	12729
 TB-10TB	5665
+TB-HIV	12922
 TB-MAF	12729
+TB-Rx Completed	12977
 TB-burdened	12678
 TB-negative	12678
 TB-positive	12678
-TB-related	12678
+TB-related	12678,244
 TB. Approximately	12395
 TB. CAD4TB	12678
 TB. Malaria	4349
@@ -146,6 +158,7 @@ TBL Molefe	10793
 TBL OLD Overall Achievement of Objectives	10779
 TBMPE	2966
 TBS Filles	2966
+TBS Transportable	12911
 TBS. Email	11654
 TBS. Under	5116
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
@@ -168,7 +181,7 @@ Tbtshsee	11152
 UNDP and TBI	4046
 V Namibia-Botswana Interconnector TBD No Pre-Feasibility	12399
 Video Surveillance Package TBA	1988
-WTO TBT	1988
+WTO TBT	1988,11046
 World TB Day	2626
 Year Gap Portable TB	2857,3026,94
 ZEMA Licence ZRCP TBA	1988

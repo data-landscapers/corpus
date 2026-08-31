@@ -12,6 +12,7 @@ ANNEX C	3861,3337
 ANNEXURE C	5533,6453
 APPENDIX C	11129,728
 APPENDIX C BUILDING IDENTIFICATION AND BUILDING	11129
+APPENDIX C SCHEDULE	12967
 ATLAS INTERACTIV C	998
 Aarthy C	9128
 AbouZahr C	766,5,10110,1374
@@ -36,11 +37,14 @@ Alíneas C	12018
 Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Angola. C. Beneficiários	11441,1
-Annex C	7198,5205
+Annex C	7198,5205,634
 Annex C. Transforming Education Summit	12175
-Annexure C	11240,712,34
+Annexure C	11240,712,34,1051
+Annexure C Functional Non	13037
+Annexure C Functional and Non Functional Requirements	13037
+Annexure C Table	12917
 Any Cell C	10673
-Appendix C	236,3626,666,2623,115,524,3227,112,1383
+Appendix C	236,3626,666,2623,115,524,3227,112,1383,493
 Appendix C Authorisation	34
 Appendix C Table	7790
 Appendix C. Mobile for Business Knowledge and Skills	11017
@@ -58,12 +62,13 @@ B Often C Sometimes D Rarely	5679
 B Satisfactory C Average D Unsatisfactory	5679
 B Satisfied C Moderately	5679
 B Significant GovTech Maturity C Medium	10785
-B and C	3583
+B and C	3583,9457
 B- Tablet C- Place of Education	582
 B- WhatsApp C- Instagram C- Cost	582
 B. C	10726,409
 BAI10 Managed ITGov C	9237
 BANCE C EPICENTRE NIGER ARCEP	998
+BERCS Rapid Response Team C. Food	12977
 BOARRDCZMBEOMABREDRSMEMBERS Prof. Z. Muranda Prof. C	1154
 Bailey C	771,10013
 Bande C A PETROLEUM S.A ARCEP	998
@@ -89,6 +94,7 @@ C C.1 Pessoa Singular	12018
 C CC	12500
 C CUOTA ANUAL	4209
 C Comissão Nacional de Direitos Humanos	6530
+C Commerce	13093
 C Crime	6970
 C Development	11006,1
 C Domesticate	961
@@ -108,6 +114,7 @@ C NN	12006
 C NOE-ARA-IDI-ARCEP- Conforme	998
 C Namibia	12373
 C News	9736
+C O M M U N	13042
 C O U N T R	11157
 C OF THIS DOCUMENT. THE FOLLOWING	11240
 C Obligations	972
@@ -129,6 +136,7 @@ C Programas de Promoción	4209
 C Public Entities	11250
 C Published	6922
 C Report	3972
+C Right	13189
 C Roads	11129
 C S S	12373
 C SA Vodacom SA Tmcel Mozambique	1013
@@ -212,7 +220,9 @@ C. C	11927
 C. COMPLIANCE WITH BANK POLICIES	11863
 C. Cabinet	2626
 C. Cap	7832
+C. Capacity Building	12977
 C. Certificate for Joint Venture	12693
+C. Children’s Month Activities Day	12977
 C. Clearance	11863
 C. Climate Change Related Natural Disasters	1828
 C. Cobo	6948
@@ -225,22 +235,29 @@ C. Confidentiality	4610
 C. Confidentiality and FOIA Information	5773
 C. Consumer Empowerment and Redress	5676
 C. Consumer Empowerment and Redress Consumers	5676
+C. Content	13039
 C. Corruption	3583
 C. Cyber Security	12364
 C. D	1248,7423
+C. Dairy Cow Farming	12977
+C. Deadline	13039
 C. Decision Timing The Department	5773
 C. Denizer	1264
 C. Dependencies	3583
 C. Developing Human Capital	11140
+C. Development Partnership	12979
 C. Di Ciccio	9237
 C. Di Francescomarino	9237
 C. Digital Infrastructure and Affordability AI	11140
+C. Disability Grants Currently	12977
+C. Disability Mainstreaming and Inclusion	12977
 C. Disbursements Arrangements	11905
 C. Draude	9237
 C. E	2816,5787
 C. E. Ndhlovu Prof. I. D.T	1154
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C. ELECTION SHAREHOLDER ENTITLEMENTS UNDER	4896
+C. Education	12977
 C. Emezue	11140
 C. Enhanced Review Procedures for High	11233
 C. Enhancing	10768
@@ -260,11 +277,15 @@ C. G. Reddick	5349
 C. Geiger	5349
 C. George	3782
 C. Ghidini	9237
+C. HG SCHLETTWEIN MINISTER OF AGRICULTURE	12924
 C. Hefeker	11310
 C. Higher Level Objectives	11525,330
 C. Homburg	9129
+C. House Rehabilitation and Reconstruction The National	12977
 C. Huawei	11740
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
+C. INTEGRATED SOCIAL PROTECTION FOR RESILIENCE	12980
+C. Implementation of VACS Data Project	12977
 C. Instant Payments	11138
 C. Institutional	4214
 C. International	5872
@@ -289,6 +310,7 @@ C. M. and Nasrabadi	11258
 C. MINISTERE DE LA FAMILLE ET	7670
 C. MINISTERE DE L’INDUSTRIE	8321
 C. Male	12188
+C. Manufacturing	13060
 C. Methodology	3583
 C. Methodology Standards	3583
 C. Modelling	10856
@@ -296,6 +318,7 @@ C. Modelo Nacional de Avaliação	11451
 C. Mouffe	11028
 C. N. Habitant	8853
 C. N. Olien	6948
+C. Network and Integration Tests	13185
 C. Newton	4432
 C. Notwithstanding	11233
 C. O	961
@@ -311,17 +334,22 @@ C. PROJECT COMPONENTS	11863
 C. Padovani	11028
 C. Participation	822,4808
 C. Payment	7845
+C. Payment Conditions Payment	13037
+C. Persons	12939
 C. Peter McColough	11154
 C. PforR Program Scope	12176
 C. Pizzinelli	11140
 C. Policy Implications	1828
 C. Policy Recommendations	1828
 C. Preparation of Applications	1638
+C. Preparation of Bids	13185
+C. Preparation of Bids ITB	13185
+C. Preparedness and Response Capabilities The NDMA	12977
 C. Procurement	1284
 C. Program Development Objectives	11905
 C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295
 C. Project Components	11863
-C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406
+C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406,279
 C. R	10726
 C. R. Harvey	11310
 C. RATIONALE FOR BANK’S INVOLVEMENT	11863
@@ -333,12 +361,18 @@ C. Regular Audits	4610
 C. Relationship	11905,271
 C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11
 C. Request for Proposal Conditions	12400
+C. Resource	12977
 C. Right	1630,1953
+C. SERVICE SPECIFICATIONS	13185
 C. Safeguards	11855
 C. Sdralevich	1828
 C. Se	12018
 C. Sectoral Context Key PFM Processes1	1284
+C. Social	12977
 C. Strategic Plan for Agriculture and Rural Statistics	12768
+C. Subvention Table	12977
+C. Summary	13040
+C. Summary of Activities	12977
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295
 C. T. Lundblad	11310
@@ -485,6 +519,7 @@ Emerging C- Annual	7548
 Encargado Grupo C Especialista Grupo C	4209
 Engr. Ngozi Ogujiofor Mohammed C. Babajika	11857
 Environment and Planning C	11028,1199
+Evaluated Bid Price C	13185
 Excluding Cell C and Comm Equipment Company	9911
 Exporting Digital Authoritarianism C	5242
 F- Busy D C- Yes Tablet	582
@@ -511,9 +546,11 @@ Glenton C	10881
 Google Cell C Icasa Liquid Intelligent	5050
 Google Scholar Nkechi C	9739
 Google Scholar Obijiaku C	9739
+Government of Eswatini. C. STAFF Training	12977
 Governments C- Readiness	7548
 Grade C	5134
 Group C	2626,8159,1082
+Group C Bids	13185
 Gustavo C	10763
 H E A LT H C	11157
 H. C	10763
@@ -521,6 +558,7 @@ HAS Excellent B Satisfactory C Average	5679
 HAS Telecommunications B Job C State	5679
 Hawa C. Wagué	1579
 Hepatitis C	12413
+Hon. Dumisani C. Ndlangamandla	12904
 Hon. Felix C. Mutati	7950
 Hon. M. C. Mohwasa	12607
 Honourable Felix C. Mutati	7793,157
@@ -544,6 +582,7 @@ ISIQEPHU C IFOMU	11573
 ITGov C	9237
 Imison C	1219
 Informação Financeira C G J Cofre	6530
+Initial C	13037
 Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
 Interfaces Service C	10876
@@ -566,6 +605,7 @@ Kamusoko Deputy Chairperson Prof. C. E	1554
 Kenya C	12235
 Kenya C- Uptake	7548
 Kishamawe C. Assessment	3791
+L E OF A C C	13068
 LEGISLATIVE AND STATUTORY AFFAIRS C COPIE	10974
 Laptop C- Sending	582
 Layer C Integration Layer	1009
@@ -600,6 +640,7 @@ Mastrini G. and Aguerre C. Global Information	236
 Mayor Sub-Director Grupo C Sub-Inspector Fuerzas	4209
 Mbps APPENDIX C	3862
 Member Attendance Prof. C. E. Ndhlovu	1554
+Mhango C	13040
 Modème VSAT Bande C	998
 Moniepoint Group Nigeria Series C	2223
 Moniepoint Group's Series C	2223
@@ -608,10 +649,13 @@ Moniepoint's Series C	2247
 Monnaie C	10965
 Moove's Series C	9098
 Mossaoa C	1009
+Mr. Peter C. Nangolo Director Land	12912
 Ms C Knoesen Chief Registrar of Deeds	11261
 Ms C Mafagane	11285
 Ms C Mkhonto	11289
 Ms C Theunissen IR	11285
+Ms Macanjana C. Motsa-Dlamini	13124
+Ms. Martha Kaukonde Member Mrs. C	13053
 Mthetho. C	11573
 Multistakeholder Governance for DPI A E C	11006
 Multistakeholder Governance for DPI B C	11006
@@ -645,7 +689,7 @@ O’Donnell C	1219
 O’Shea C	10784
 P O L I C	12674
 P R O T E C	11586
-P. C	11927
+P. C	11927,1051
 P. W. C	7548
 PART C	3714,1182,637,5664,21,6,16,10,11,725
 PDPO. C. EVIDENCE	5113
@@ -697,6 +741,7 @@ Ref. C	10769
 Regulamento C	11531
 Regulation C	7
 Republic. Part C Insert	3714
+Requirements Specification Annex C	13037
 Revenue and Fiscal Space 4 C. Tax Revenue	10997
 Robbiati C	10784
 Royal C	11156
@@ -704,10 +749,12 @@ Réservation AL IZZA C	998
 Réservation CELTEL NIGER SA C	998
 Réservation COMMISSION NATIONALE C	998
 Réservation WAYA C	998
+S C H E D U	13068
 S C I T S	11236
 S IR C M A N	10775
 S. C	2518,8617,450
 S. C. P	10763
+S43 PART C	12930
 SBD4 Declaration of Interest Annexure C	11240
 SECTION C	582,2193
 SNIP. Volet C	12043
@@ -731,6 +778,7 @@ Sierra Leone C	11867
 Sistema Político-Institucional. C	1701
 Smart Africa C Drive	961
 Soberanía F U N C	4209
+Social Worker. C. Confirmations The Office	12977
 South Sudan. C. Corruption	3583
 Sriram C	1261
 Starlink and Amazon Leo Cell C	10797
@@ -757,6 +805,8 @@ Togo C	11867
 Togo. Group C	11867
 Touche Belinda Danquah Emmanuel C. Ugah	11857
 U N C I O N	4209
+U N C T	13042
+Under Secretary Macanjana C. Motsa	13223
 User I D C	9123
 Utsu C	9739
 Vaillant C	970

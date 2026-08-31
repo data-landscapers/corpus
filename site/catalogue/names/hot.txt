@@ -31,14 +31,14 @@ COMFORT HOTELS AND LODGES LIMITED Data	7167
 CONVENT INTERNATIONAL HOTEL LIMITED Data Controller	7167
 COUNTY GREEN HOTEL Data Controller INST-404686524C8	7167
 Cabo Verde Hotel and Tourism School	11855
-Capital Hotel	10049
+Capital Hotel	10049,3167
 Carrier Hotel	8542
 Chinhoyi University of Technology Hotel	1554
 Climate and Poverty Hotspots	10763
 Community Hotspot	3570
 Corinthia Hotel Tripoli	5920
 Cresta Sprayview Hotel	6642
-Crossroads Hotel	12241
+Crossroads Hotel	12241,752,87,15,35
 DE L’INDUSTRIE HOTELIERE ET DU TOURISME	8237
 DECKEL HOTEL LIMITED Data Controller INST-901829E2AB2	7167
 DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
@@ -55,24 +55,31 @@ Ethiopian Skylight Hotel	9031
 Ezulwini Sun Hotel	11134
 Fairway Hotel	9781
 First Community Hotspots Transform Lesotho's Rural	3570
+Five Star Hotel	12962
+Five Star Hotel Grey	12962
+Five Star Hotel Project Budget	12962
+Five Star Hotel Project The Five	12962
 Flow Hotel	6174
 Font ResizerAa Hot News Business	9868
 Four Points By Sheraton Hotel	5371
 Gadileh Resort Hotel	4774
+George Hotel	13043,154
 Glee Hotel	6946
+Golden Sands Hotel	13060
 Golden Tulip Hotel	12879
 Graziella Hotels and Fast Foods. En	7496
 HOTL ICRC LMIC MLOp OCHA OCR	11156
 HOTUBA	6020,1
 HOTUBA YA WAZIRI WA MAWASILIANO NA	2868,3151
-Happy Valley Hotel	12437
+Happy Valley Hotel	12437,529,56,107,75,48
+Happy Valley Hotel. SIS	12936
 Helensvale Pension Owned Vacant Hotel	4896
 Hilton Garden Hotel	1994
 Hilton Hotel	4103,68,406
 Holiday Inn Hotel	3021
 Hon. Alexander Roosevelt Gabby Hottordze	3384
 Hot FM and News Diggers	10216
-Hotel	6927,505,413,3284
+Hotel	6927,505,413,3284,1833,91
 Hotel Africana	11759
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 Hotel Anda China	7704
@@ -86,7 +93,9 @@ Hotel Les Oliviers	8713
 Hotel Occupancy	2775
 Hotel Sofitel Malabo	4209
 Hotel Sofitel Presidencial de Malabo Malabo	4209
+Hotel Tourism Statistics Section	12962
 Hotel Verde	10392
+Hotel and Casino	12989
 Hotel de Bata	4209
 Hotelería	4209
 Hotellerie	2342
@@ -106,6 +115,7 @@ Hotuba	2868,3151
 Hotéis	11416,42
 Hotêl Président de Yamoussoukro	2342
 Hunger Hotspots	3583
+INTRODUCING THE WHISTLEBL WER HOTLINE NamRA	13044
 Indy Village Congress Hotel	12809
 Intermodal Africa EPIC SANA Luanda Hotel	8755
 Internet Hotspot An Internet Hotspot	3386
@@ -120,9 +130,10 @@ Kigali Marriott Hotel	9760,35,517,2058
 Labadi Beach Hotel	5946,4761
 Lagos Sheraton Hotel	11129
 Ledger Plazza Hotel	4327
-Lilongwe Hotel	12241
+Lilongwe Hotel	12241,854
 List of Hotels	6488
 Marriott Hotel	11968
+Mercure Hotel	13108
 Mestil Hotel	3050,8025
 Mestile Hotel	3050
 Metzy Residence Hotel	4359
@@ -157,6 +168,7 @@ Salam Rotana Hotel	8133
 Serena Hotel	9983
 Sheraton Hotel	4348,6068
 Sheraton Kampala Hotel	9695,89,2287
+Sibane Sami Hotel	13223
 SibaneSami Hotel	8136,1972
 Silver Springs Hotel	4922
 Skylight Hotel. Regional	7887
@@ -167,6 +179,8 @@ Sofitel Hotel Ivoire	6447
 Solar Hotel Tourism	11469
 Somerset Westview Hotel	8550
 Spa Hotel	12649
+Star Hotel	12962
+Sunbird Capital Hotel	13080
 Thabeng Hotel	3258
 Tier III Carrier Hotel Datacenter	8542
 Transcorp Hilton Hotel	4102
@@ -176,5 +190,6 @@ Vacant Hotel Pension Owned Vacant Hotel	4896
 Vacant Hotel Pension Owned Vacant Stand	4896
 Volta Serene Hotel	11038
 W Flex Slot Platinum Hot Plug	12681
+Whistleblower Hotline. Report	13044
 Wholesale Retail Hotels	11874
 Wi-Fi Hotspots	1236

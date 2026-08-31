@@ -22,13 +22,17 @@ Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135
 Financial Literacy Toolkit UNCDF	11017
 Global UGRIF Très Petite Entreprise UNCDF	11944
 Global Uncertainty	11134
+High Economic Risk Uncertainties	13053
 IA A Unctad	11329
-Identification Number UNCDF United Nations Capital	12241
+Identification Number UNCDF United Nations Capital	12241,839,15
 Innovation and Knowledge Development Branch of UNCTAD	12786
 J Risk Uncertain	10780
 KEY TAKEAWAYS AND NEXT STEPS UNCDF	11960
+Kazakhstan and UNCTAD’s ASYCUDA Programme	13042
+LDCs. UNCDF	12941
 Lagos Based Doctor Uncovers The Hidden	5574,215
 Malawi Connected Unconnected	12214
+Malawi. UNCDF	12941
 Manual of Best Practice. UNCTAD	1243
 Mathematics UNCTAD	5244
 Missing for TikTok. Unclear	8436
@@ -41,12 +45,15 @@ Present for Facebook and Instagram. Unclear for Google	8436
 Public Notice Uncategorized Voter Registration Tags	12465
 Refugee Research. UNCHR Evaluation and Policy Analysis	12227
 Revenue Integrated Payment System UNCTAD	236
+Road Transport Electronic Pre-Declaration UNCTAD United	13042
 Statistics South Africa UNCTAD United Nations	11196
 Sugarland Beach Next NRA Uncovers Major	5939
+Support Continuity UNCTAD’s ASYCUDA Programme	13042
+Sustainable Development Goals UNCRPD	13033
 Swiss Re. UNCTAD and Berne Union	11310
 TikTok. Unclear for Facebook	8436
 TikTok. Unclear for Netflix	8436
-Trade and Development UNCTAD	12544
+Trade and Development UNCTAD	12544,498
 Trade and Development. UNCTAD	10718
 Transitional Stabilisation Programme UNCAC United Nations	970
 Twitter. Unclear for Facebook	8436
@@ -54,14 +61,17 @@ Twitter. Unclear for Google	8436
 Twitter. Unclear for Google and TikTok	8436
 Twitter. Unclear for Google and WhatsApp	8436
 UCC and UNCDF	9781
-UNCAC	3583
+UNCAC	3583,9525
 UNCAT and OPCAT	2343
 UNCCD COP17	11106
-UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68
+UNCDF	377,17,546,79,1078,167,397,1566,13,4431,1110,930,254,2,389,417,171,16,271,18,20,64,43,68,497
 UNCDF Annual Report	8671
 UNCDF Better Than Cash Alliance	213
 UNCDF Connect Rural Uganda	394
+UNCDF Digital Financial Services for Resilience	12941
 UNCDF Eliamringi Mandari	11960
+UNCDF Inclusive Digital Economy Scorecard	12941
+UNCDF Malawi	12941
 UNCDF Migration and Remittances	11960
 UNCDF United Nations Capital Development Fund	11960
 UNCDF Zambia	527
@@ -75,20 +85,25 @@ UNCDF. UNHCR	10841
 UNCDF’s Ahmed Dermish and UCC's Joseph Kizito	9781
 UNCHR	1867,10461
 UNCITRAL	10819,731
+UNCITRAL Arbitration Rules	13037,148
 UNCITRAL Model Law	1163
 UNCITRAL’s Model Law	11550
 UNCLOS	1741,936,1999
 UNCRC General	1597
-UNCRPD	12460
+UNCRPD	12460,573,186
 UNCRPD Nations Convention	11192
 UNCTA	1243
-UNCTAD	226,10,14,376,335,103,179,21,129,724,699,224,122,421,785,77,119,409,271,1179,819,306,183,2987,41,60,3,1,12,2,1,3,3,12,105,7,64,455,88,295,9,7,2,1,264,1,9,177,1,11,1,16,7,77,35,56,130,112,1
+UNCTAD	226,10,14,376,335,103,179,21,129,724,699,224,122,421,785,77,119,409,271,1179,819,306,183,2987,41,60,3,1,12,2,1,3,3,12,105,7,64,455,88,295,9,7,2,1,264,1,9,177,1,11,1,16,7,77,35,56,130,112,1,154,101
+UNCTAD ASYCUDA Programme	13042
+UNCTAD Chair	13042
 UNCTAD Concerning	10844
 UNCTAD Cyber Exploration	1243
 UNCTAD Data	10844
 UNCTAD Data Center	10844
 UNCTAD Division	12544
 UNCTAD Exports of ICT	10844
+UNCTAD Headquarters	13042
+UNCTAD Ministerial Conference	13042
 UNCTAD News	10718
 UNCTAD Partnership On Digital Economy	1064
 UNCTAD Project	12786
@@ -100,12 +115,22 @@ UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333
 UNCTAD United Nations Trade and Development	12786
 UNCTAD World Investment Statistics	12376
 UNCTAD and Berne Union	11310
+UNCTAD and OCHA	13042
 UNCTAD and WTO Many LLDCs	10844
+UNCTAD-managed	13042
 UNCTAD. Trade Finance Supply	10718
 UNCTAD. UNCDF	10841
-UNCTAD16	2131,1682
+UNCTAD15	13042
+UNCTAD16	2131,1682,9229
+UNCTAD16 Secretary-General’s Report. Rooted	13042
+UNCTAD16. ASYCUDA	13042
 UNCTADStat	10718
 UNCTADStat. Data	1243
+UNCTAD’s ASYCUDA	13042
+UNCTAD’s ASYCUDA Programme. The ACF	13042
+UNCTAD’s Deputy Secretary-General	13042
+UNCTAD’s Trade Facilitation Branch	13042
+UNCTAD’s Trade and Development Commission	13042
 UNCTAD’s World	5163
 UnConference	3017
 Uncapped Internet	12769
@@ -113,8 +138,9 @@ Uncategorized	7018,1621,614,1152
 Uncertain	10793
 Uncertain Times	6938
 Uncertainties	12400
-Uncertainty	1161,6283,857,822,894,702,430,7,115,685,245,184
+Uncertainty	1161,6283,857,822,894,702,430,7,115,685,245,184,668
 Uncertainty for Businesses	12356
+Uncertainty of Program Expansion	12975
 Uncertainty. Digital Disruptions	11131
 Uncertified	3934
 Unchanged	1774,237,2398
@@ -130,6 +156,7 @@ Uncleared Cargo List	11036
 Uncoated	11269
 Uncollectable	12500
 Uncollected ID	10962
+Uncollectible	13053
 Uncomfortable Truth	8050
 Uncommenced	11135
 Unconditional	10829,566,460,133,170,282
@@ -138,8 +165,11 @@ Uncovering Digital Deserts	11424
 Uncritical	4528,7984
 Unctad	11329
 Unctad. Os	11329
+Under UNCDF's Strategic Framework	12941
 United Kingdom UN United Nations UNCTAD	1243
 United Nations UNCTAD United Nations Conference	6946
+WCO and UNCTAD	13042
+WTO Trade Facilitation Agreement. As UNCTAD16	13042
 WhatsApp. Unclear for Google	8436
 WhatsApp. Unclear for Instagram	8436
 WhatsApp. Unclear for Netflix	8436

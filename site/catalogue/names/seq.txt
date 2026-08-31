@@ -1,4 +1,5 @@
 A. Policy Approach and Sequencing Realizing AI	11140
+Anna Olefir Seq	13058
 Directive Launch Sequence	3861
 Directive Launch Sequence Upon	3861
 Feb-2024 ICR Sequence.01	11924
@@ -7,7 +8,7 @@ Figure SEQ Figure	12376
 HEPRR Program Phases Phase Operation Sequential	11417
 ISR Seq	764,1006,483,459,8158,1095,6,17,240,39,173
 Lap Category Sequence	1228
-Last Approved Rating ISR Seq	6579,349,949,3518
+Last Approved Rating ISR Seq	6579,349,949,3518,1632
 Loading Sequence	12360
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
 Oct-2019 Restructuring Sequence.03 Not Applicable	11924
@@ -33,6 +34,7 @@ Sequencing	2424,1878,668,1569,293,5176,432
 Sequencing Development Perhaps	4535
 Sequential	4732
 Sequestro	11430
+Sequoia	13168
 Sequoia Capital	5482
 Sequoia Capital India	12244
 Sequoia Capital and Alphabet. Starlink	4351

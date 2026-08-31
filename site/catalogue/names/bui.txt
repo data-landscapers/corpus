@@ -1,4 +1,5 @@
 A. Institutionalising Multi-Stakeholder Dialogue Building	4848
+ACF Built-In Capabilities Business Functions Available	13042
 ADDRESS GIVEN TO THE BUILDING	11129
 ADE and IDEMOC. Building	4214
 AGGREGATE DATA CENTER BUILD PIPELINE	10861
@@ -10,6 +11,7 @@ AI R&D and Innovation Building AI R&D	12210
 AI Skills Capacity Building and AI	6948
 AI. Build	4126
 AI. Building	10601
+AMTA Building Markus Ihemba Primary School	13046
 APEX MASTER BUILD	7167
 APPENDIX C BUILDING IDENTIFICATION AND BUILDING	11129
 AREA OCCUPIED BY BUILDING	11129
@@ -29,6 +31,8 @@ African Cities Are Building Smart	9206
 Agenda BEP Built Environment Professionals BEAC	2775
 Alternatives Regulators Are Building Regulators	8464
 Americas T5 Building Antigua and Barbuda T4	10764
+Analytic Support and Capacity Building	13054
+Analytical Support and Capacity Building	13054
 Annual Report Building Brighter Futures	12552
 Anti- Capacity Building	12241
 Any Building Block	6423
@@ -41,6 +45,7 @@ Area Office USAF POTRAZ Building	10764,80
 Automation NV. Built	3576
 Awareness and Capacity Building	4610
 B. Building the Foundations	11140
+B. Capacity Building	12979
 BENSIM BUILDERS LIMITED Data Processor INST-5622441EF6D	7167
 BUILD	12297
 BUILD DIGITAL LITERACY FOR ALL EDUCATORS	899
@@ -65,7 +70,7 @@ Bremner Building	11027
 Bridge Builders Circle	6808
 British Council Building Private Bag	12214
 Buijs	8436
-Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46,112,77,312,9,39,17,64,104,61,24,35,4,27,74,41,2,1,25,15,1,53,59,82,80,1,51
+Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46,112,77,312,9,39,17,64,104,61,24,35,4,27,74,41,2,1,25,15,1,53,59,82,80,1,51,185,61,24,41,172
 Build AI	7548
 Build AI Factory Powered	3049
 Build AI-specific	7548
@@ -132,10 +137,11 @@ Build. The National Cybersecurity Strategy	1777
 Builder	7409,3734
 Builders	10464
 Builders Summit	8424
-Building	54,342,182,183,138,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9,61,22,29,8,7,4,2,6,41,27,9,84,41,67,91,2,5,1,4,38,15,2,2,16,30,16,4,4,51,43,2,14,37,1,65,3,1,3,13,6,1,2,4,1,37,37,18,23,30,3,37,9,8,15,2,37,15,17,45,6,8,13,1,4,57,11,1,17,8,32,54,95
+Building	54,342,182,183,138,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9,61,22,29,8,7,4,2,6,41,27,9,84,41,67,91,2,5,1,4,38,15,2,2,16,30,16,4,4,51,43,2,14,37,1,65,3,1,3,13,6,1,2,4,1,37,37,18,23,30,3,37,9,8,15,2,37,15,17,45,6,8,13,1,4,57,11,1,17,8,32,54,95,53,17,26,4,15,4,5,9,2,26,9,7,2,16,4,15,28,13,27,44
 Building AI	9261,3414
 Building AI Capacity	12675
 Building AI for Strategic Resource Governance	7955
+Building Act	13060
 Building Africa	6930,2174,1231
 Building Africa's AI	7952
 Building Africa's Digital Backbone	9350
@@ -180,6 +186,7 @@ Building Data Centers for Africa’s Unique Market	6266
 Building Data Infrastructure for AI Readiness	11310
 Building Digital Ecosystems	5241
 Building Digital Ecosystems Historically	7752
+Building Disaster Readiness Through ASYREC Simulations	13042
 Building Education Foundations	12234
 Building Educational Foundations	12175
 Building Energy Standards	12389
@@ -187,6 +194,7 @@ Building Entrepreneurship and Youth Employment for Senegal	7106
 Building Evidence	12297
 Building Fibre Incentivise OEM	11857
 Building Financial Sector Resilience	12701
+Building Fiscal Capacity	12948
 Building Foundational DPI Focus Africa	9431
 Building Foundations Towards Digital Governance	8121,302
 Building From the Outside	11028
@@ -195,6 +203,7 @@ Building Fund	11131,3
 Building Fund ROFED Network of Women Pastoralists	11586
 Building Gender-Responsive Digital Public Infrastructure	4794
 Building Generative AI Apps	10133
+Building Global Champions From Eswatini	13168
 Building Governance SRMP	12359
 Building Ground	9123
 Building Habits That Protect the Business Gathii	11033
@@ -210,6 +219,7 @@ Building JI. Merdeka Barat No	11563
 Building Knowledge and Capabilities	1200
 Building Lasting DPI Through Local Ownership	8183
 Building Local Expertise	12675
+Building Management System	13185
 Building Materials and Technologies ADNOC Abu Dhabi	2775
 Building Momentum	11289
 Building More Helpful Products	1363
@@ -304,29 +314,35 @@ Building the Ground Network It Needs	10588
 Building the Internet’s Next Identity Layer	9328
 Building the Judiciary	8978
 Building the Technical Talent Backbone	10157
-Buildings	236,918,834,787,6198,2156,2,3,726,3,92,306,345
+BuildingTomorrowToday	13222
+Buildings	236,918,834,787,6198,2156,2,3,726,3,92,306,345,447
+Buildings Cost	13053
+Buildings Infrastructure	13060
 Buildings Revaluation	11131
 Buildings Works	2775
-Builds	128,403,105,53,172,37,191,61,318,438,194,243,52,128,153,716,1617,131,735,478,758,148,695,4292,198
-Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53,31,232,368,11,49,22,154,11,67,204,133,103
+Builds	128,403,105,53,172,37,191,61,318,438,194,243,52,128,153,716,1617,131,735,478,758,148,695,4292,198,593
+Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53,31,232,368,11,49,22,154,11,67,204,133,103,313,53,105,5
 Built Beneath the Surface	3292,1688,360,1433
 Built Environment	1988,2540,3559,4425
 Built Environment and Technology	10323
 Built Results	9129
 Built for Scale and Speed	11234
 Built for Your African	6520
-Built-in	5684,6716
+Built-in	5684,6716,642,143
 Built-up	10763
 BuiltAfrica	12119
 Buipe	10523
 Buitelandse	11190
-Buitepos	9562
+Buitepos	9562,3371
+Buitepos Extension	13189
 Buitepos-Ngoma	5066,7530
 Burundi Building Resilient and Sustainable Growth	1284
 C-Capacity Building	7548
+C. Capacity Building	12977
+C15 Capacity Building of ICT Common Services	12917
 CABRI Building PFM Capabilities Programme-Applying PDIA	11006
 CAFCA Builds Regional Manufacturing Reach Kansanshi	6011,985
-CAPACITY BUILDING	11190,670
+CAPACITY BUILDING	11190,670,1237
 CAPACITY BUILDING AND AWARENESS TRAINING	12253
 CAPACITY BUILDING AND ENGAGEMENT WORKSHOP	12691
 CAPACITY BUILDING Human	12358
@@ -348,8 +364,9 @@ CYBERSECURITY CAPACITY BUILDING AND AWARENESS	1000
 CYBERSECURITY CAPACITY BUILDING AND DEVELOPMENT	10721
 Cameroon. Building	10985
 Campaign Building	12356
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238,48,5,65,31,39,200,46,115,2,41,113,163,49,4,189,53,1,6,28,26,11,20,18,15
 Capacity Building A. The LTA and Telecommunications	4610
+Capacity Building ASYCUDA New Generation	13042
 Capacity Building Capacity	1988,10629
 Capacity Building Central	6946
 Capacity Building Cloud Services Directives Introduction	9123
@@ -359,13 +376,17 @@ Capacity Building Initiative for Transparency	11332
 Capacity Building Initiatives	5677,1269
 Capacity Building Initiatives Final Report	5677
 Capacity Building Initiatives Training	6946
+Capacity Building Intervetions	12917
+Capacity Building Malawi	12917
 Capacity Building Phase	395
 Capacity Building Programme	6427
 Capacity Building Programme for Policy Makers	4126
 Capacity Building Programmes	11579
 Capacity Building Programs	12356
+Capacity Building Q1 Q2 Q3 Q4	12917
 Capacity Building Radiocommunications	5680
 Capacity Building Services	11252
+Capacity Building Technical	13042
 Capacity Building WG2	5680
 Capacity Building Workshop	6858
 Capacity Building and Change Management	6432,6021
@@ -387,20 +408,29 @@ Capacity Building and Training	10776
 Capacity Building and Training for Contractor's Workers	12253
 Capacity Building and Training for Stakeholders	12253
 Capacity Building and Training for Stakeholders The PIU	12253
+Capacity Building for Digital Government. NACIT	12917
+Capacity Building for Frontline Responders	12977
+Capacity Building for Frontline Responders The Office	12977
 Capacity Building for NOSi	11965
+Capacity Building of ICT Common Services Government	12917
+Capacity Building of MDAs	12917
+Capacity Building of Private Sector	12917
 Capacity Building of Teachers	7405
+Capacity Building of Tinkhundla Councils	12970
 Capacity Building. Ministry of President	1777
 Capacity Building. Today	2787
 Career Center Building	9892,1
 Case of Building Internet	5700
 Cashless Economy Cameroon’s Lekel Asonganyi Builds	7301
 Central Africa Building Society	12252
+Central Statistical Office Inter-Ministerial Building	12944
 Centre Inside The Existing Building	4576
 Character Building	12642
 China Builds Underlying Infrastructure	10350
 China-Africa Building Materials Niger	3546
 China-Aid Project of ECOWAS Headquarters Building	5991
 China-aid ECOWAS Headquarters Building	6003
+Cisco Network Academy Building	13080
 Collaborative Regulation and Building Digital Ecosystems	6052
 Communities Built and What the System Must	6947
 Components Building	12228,39
@@ -411,13 +441,16 @@ Confidence Building Measures	2117
 Connecting Every Malawian Building	12214
 Consensus Building	10776
 Construction of Buildings	2775
+Construction of New Parliament Building	12962
 Construction of Water Bowser Manure Building Data	12253
 Contact Umntsholi Building	11131
+Continental Building	12984
 Continuous Professional Development and Capacity Building	11791
-Courtside Building	1900
+Courtside Building	1900,11173
 Cyber Security Capacity Building Programme for Developing	1264
 D. Capacity Building	11905
 DATA CENTER BUILD	10861
+DBTP Decentralised Build Together Programme DBN	12923
 DESIGN OF BUILDING Single Detached Housing	11129
 DESIGN OF PARKING FACILILTIES Built-in Garage	11129
 Data Centre Building Official Use Only	12253
@@ -426,12 +459,15 @@ Data Governance Capacity Building Workshop	7226
 Data Protection and Privacy Building	6946
 Decisions The Building Resilient Digital Infrastructure	7877
 Definition Workstreams Possible Actors Goal Build	899
-Department of Buildings	12253
+Department of Buildings	12253,724
 Description The Multinational Statistical Capacity Building	43
 Detective Service Build	11188
 Did Kenya Build	6231
 Digital Boom Built	6212
 Digital Capacity Building	12241
+Digital Capacity Building Programme	13080,15
+Digital Capacity Building for Government of Malawi	13080,15
+Digital Identity Capacity Building	13095
 Digital Registries Building Block	6423
 Digital Registries Building Block Specification	6423
 Digital Registries Building Block. The Digital	6423
@@ -447,6 +483,7 @@ EDGE Green Building	1264
 ESCCOM Building	8916
 Economic Modelling Building	1363
 Economic and Tech Ecosystem Impacts Building	12035
+Education Build	13077
 Education Capacity Building Specialist	11134
 Eko Building Address	11129
 Else Is Building Kasi Cloud	5200
@@ -456,6 +493,7 @@ Eskom’s Build Programme	11223
 Esri South Africa College. Building	10950
 Eswatini Bank and Swaziland Building Society. Dr	11131,3
 Eswatini IFMIS and PFM Capacity Building Project	536
+Eswatini. Building	13227
 Eswatini. Swaziland Building Society	11130
 Europe T5 Building Vatican T4 Evolving	10764
 Ever Building	6186
@@ -464,6 +502,7 @@ F. Building	9739
 FCC Building	9680
 Facilities Are Being Built	6791
 Fibre Builds	11857
+Finance Building P.O. Box	12962
 Firearm Certificate Scam The Master Builder	7312
 Floor Lesotho Communications Authority Building	12681
 Floor WTC Building	3386
@@ -471,14 +510,18 @@ Foundation Builders	2957
 Foundation Building	4528,7984
 Fraud Risk Management. Built	10193
 Future Being Built Today Liberia	8861
+G548 Construction of New Parliament Building	12962
 GBV. Building	10829
 GSMA Building Digital Ecosystems	5241
 Galaxy Backbone Building	5903
+Gateway Protocol BMS Building Management System	13185
 Ghana Launches National Cyber Capacity Building	8947
 Global Network for AI Capacity Building	7857
 GovStack Building Blocks	6423
 GovStack Building Blocks Specification	5700
+Government Agencies and Capacity Building. Table	12917
 Government Building	12253
+Government of Malawi Buildings	13053
 Green ICT's Build	12453
 Greening and Capacity Building	11131
 Gross Capital Provider Buildings Equipment Office	236
@@ -501,6 +544,7 @@ Human Capital and Resilience Building	10768
 Human Capital and Resilience Building Cash	10768
 Human Resource Capacity Building and Land	12326
 ICT Infrastructure and Capacity Building	4484
+ICT Networks and Capacity Building	12917
 II. BUILDING AN INCLUSIVE AND DEEP	12588
 IOM African Capacity Building Centre	10317
 Identification and Build	9237
@@ -531,12 +575,15 @@ KenSafeSpace Network Sets Goals and Builds	7609
 Kenya Builds for East Nairobi	6791
 Kenya Has Built Actual Seats	9648
 Kilindini Plaza Building	12256
+Knowledge Exchange and Capacity Building Recognizing	13042
 Land Use and Building Control	11231
 Larger World. Building	6705
 Laïka Mba. Built	7035
 Lesotho Officials for Capacity Building	10123
+Letshego Bank Eswatini and Swaziland Building Society	13123
 Leverage International Support for Capacity Building. Seek	1777
 Liberia Cannot Build Digital Sovereignty	6194
+Lilongwe. Build	13080
 Link Building	6806
 Literacy and Capacity Building	650,212
 MANPOWER DEVELOPMENT AND CAPACITY BUILDING	11129
@@ -544,9 +591,11 @@ MOSIP. Building	8175
 Madagascar Statistical Capacity Building World Bank	222
 Main Parliament Buildings	11247
 Malawi Mobilizes Grant Funds Building	1828
+Malawi. Building	12964
 Manpower Development and Capacity Building	11129
 Manpower Development and Capacity Building Strategy	11129
 Mapping Buildings Even	1363
+Mariental ECD Building	13046
 Marketing Strategy Built and Implemented	11863
 Maryah Building	12855
 Maximising AI Benefits for Building	1814
@@ -560,9 +609,14 @@ Mitigation Measures Responsible Party Type Buildings	1988
 Model Framework for Building Internet Resilience	2954
 Mokopane Building	11986
 Mozambique. Building	11598
+Multi-System Architecture Built for Interoperability Sri	13160
+Mutual Platz Building	13031
 Mutual Platz Building Windhoek	11152
+Mutual Platz Building-6958 Post Street Mall	13031
+Mutual Platz Building-6958 Post Street Mamay	13031
 NAC Okays Framework To Build Nigeria	11126
 NAMIBIA Building	5036
+NAP Policy Areas and Commitments Building	12987
 NCS Strategic Pillars Strategic Objectives Build	1777
 NSSF Building	6946
 NUMBER OF BUILDING ON SITE	11129
@@ -571,9 +625,11 @@ Namibia E-Governance Capacity Building Project Starting	12354
 National Building Codes	1988,9869
 National Building Regulations Part X	11269
 National Building Regulations and Building Standards Act	11573
+National Building Regulations and Codes	13060
 National Building Regulations. SANS	11269
 National Building Review Board	10055
 National Building Society	3025
+National Buildings Policy	13060
 National Capacity Building Programme	12453
 National Community Media Cyber Capability Building	8748,17,2,1
 National Community Media Cyber Capacity Building	8896,51,1436
@@ -599,6 +655,7 @@ Nutritionnelle PPP Prevention and Peace Building Assessment	643
 Obtain Building and Occupancy Permits	12389
 Office Buildings	11129
 Official Use Only Building Resilient Digital	7877
+Old-Income Tax Building. EXECUTION AND REGISTRATION	13251
 Online Platform for Issuing Building Authorizations	12389
 Open Buildings	1363
 Opportunities for Building Resilience	11863
@@ -607,9 +664,11 @@ PREVIOUS ADDRESS ON THE BUILDING	11129
 Pacific T5 Building Afghanistan Dem. People	10764
 Pan-African Open Data Commons. Building	7921
 Parkade Podium Museum Auditorium Building Component	11134
-Parliament Building	5386
+Parliament Building	5386,7576,134
 Parliament Buildings	12310
+Partners Capacity Building	13051
 Payment Rails Built for Someone Else	7208
+Peace Building	12946
 Peace Building Fund	11586
 Phase II Innovation Building Resilient Digital	11469
 Plan and Build	12358
@@ -621,9 +680,10 @@ Practitioner's Guide for Building Trust and Unlocking	11007
 Practitioner’s Guide for Building Trust and Unlocking	11006,1
 Prestige Plaza Building	3386
 Prevention and Peace Building Assessment	643
+Prime Minister Parliament Building	12927
 Private Building Plans Approved and Reported	2775
 Program Is Building Toward KICTANet	11086
-Program Management and Capacity Building	6539,5887
+Program Management and Capacity Building	6539,5887,564
 Project Coordination and Capacity Building	12175
 Project Management and Capacity Building US	6539
 Project for Building Foundations Towards Digital Governance	506
@@ -640,13 +700,17 @@ Rainforest Builder	7140
 Randburg Building Construction of Non-	11986
 Randfontein Building Bizana	11986
 Recommendations Building the Confidence Architecture	11138
+Recommendations Capacity Building of Private Sector	12917
 Recovery and Peace Building Assessment for Cameroon	10964
+Regional Offices for Capacity Building WCO Structure	13051
 Registration Building Block	6423
 Registries Building Block	6423,1780
 Reported Number and Value of Private Buildings Completed	2775
 Requirements for Buildings	11269
+Research-Informed Decision-Making Building	13042
 Resilience Building	12356
 Resilience Building CSO Civil Society Organisation	970
+Resilience Building Programme	12985
 Results Report Building Resilient Digital Infrastructure	4688,3189
 Review Building Regulations Q4	11857
 Royal Courts of Justice Rolls Building London	1829
@@ -692,12 +756,14 @@ Supreme Court Building	9546
 Survey Objectives Build	12498
 Swaziland Building Society	11130,1,1212
 Swaziland Building Society and E-mali Limited. Participation	2276
+Systems Mapping Building	13080
 T.X. Bui	9237
 TAIS Bridge Builders Circle	6808
 TRAINING AND CAPACITY BUILDING STANDARDS	11952
 TRUST AND FINANCIAL SAFEGUARDS Building	12444
 TTOS and TES. Building	5533
 TYPES OF BUILDING Places	11129
+Tax Administrations and Capacity Building	12948
 Taxpayer Relationship Management System. Built	286
 Technology Backbone Built for Flexibility and Scale NRD	3907
 Theory Building From Cases	5349
@@ -708,6 +774,7 @@ Tredgold Building	12511
 Tredgold Building Leopold Takawira Street Bulawayo	12511
 Type of Building for Domestic Firms	12389
 Type of Building for Foreign Firms	12389
+UN Building	13244
 UNESCO International Institute for Capacity Building	7405,4791
 USAF POTRAZ Building Union	11563
 USE OF BUILDING Fully Residential	11129

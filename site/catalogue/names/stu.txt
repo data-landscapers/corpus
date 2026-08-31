@@ -39,6 +39,7 @@ Bringing Discourse Theory Into Media Studies	11028
 Broadcast Studio-To-Transmitter Links Figure	6946
 Broadcasting Studio Inspections	6946
 Burundi Studies India Stack for Digital Identity	6799
+Business Studies	12975
 CAPS AND CROWN DENTAL STUDIO LIMITED	7167
 CASE STUDIES GUIDANCE	5618
 CASE STUDIES GUIDANCE AICDI	5618
@@ -58,9 +59,10 @@ Cabinet for Studies	10748
 Cabinet of Studies	10775
 Cairo Institute for Human Rights Studies	11079
 Cameroon Unveils Key Study	2918
-Case Studies	1250,3313,2384,1,203,3701,1504,184,135
+Case Studies	1250,3313,2384,1,203,3701,1504,184,135,273
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
+Case Studies Mobilizing	12948
 Case Studies and Precedents	3861
 Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,175
 Case Study A ZOOM-IN ON EGYPT	12339
@@ -107,7 +109,7 @@ Contemporary French and Francophone Studies	3782
 Context of Digital Transformation. Higher Education Studies	11927
 Cost-of-Service Study	12256
 Cost-of-Service Study Deemed Generated Energy AGOL	12256
-Country Case Studies	4430,245
+Country Case Studies	4430,245,8545
 Country Contexts. Stud Fam Plann	10881
 Critical Fantasy Studies	11028
 Critical Policy Studies	11028
@@ -136,6 +138,7 @@ Diaspora Studio	2577
 Difference Studies	10881
 Digital Infrastructure Investment Study	6152
 Digital Outreach Studio	6623
+Digital Product Design. Students	13080
 Digital Transformation Case Study World	1278
 Digital Transformation Case Study.pdf	1278
 Directorate of Studies and Planning	11974
@@ -156,10 +159,12 @@ Ecosystem Mapping Study	9309
 Education Platforms for Students	6748
 Empirical Study	11265
 Empirical Study Factors	226
+Empirical Study of Their Impact	12948
 Empowering Students With Digital Skills and Innovation	8824
 Endline Time Release Study Customs Portal	12454
 Engage IPAM Students	5939
 Enrolment of Students	12411
+Eswatini Student Revolving Fund	12956
 Ethical Studies	12675
 Evaluation Study	1824
 Expansion Feasibility Study	731
@@ -168,6 +173,7 @@ F. Stuart Chapin III	11006
 FEMALE STUDENTS AT SCHOOL OF SCIENCE	12358
 FL Studio	9739
 FM Studios	6946
+Facilitation Programme TRS Time Release Study	12951
 Feasibility Study	12399
 Feasibility Study Completed NamPower	12399
 Fewer Students	12199
@@ -178,6 +184,7 @@ Five-Country Study	11879
 Foundation for Studies and Research	6773
 Free Exam Preparation for Every Ethiopian Student	12199
 Frequency Assignments for Broadcast Studio	6946
+Fulbright Foreign Student Program	12962
 GSM Buddie Student	12690
 Gebeya Dala Studio Mini App	7625
 Gebeya's Dala Studio	8149,1492
@@ -197,12 +204,15 @@ GovTech Case Studies	994
 Government Studies and Best Practices	12467
 Graduate Programmes Distance Education Library Students	12361
 Graduate Trainees. Students	11131
+Graduated Honours Students	12926
+Graduated Masters Students	12926
 HSE Center for African Studies	4433
 Handbook of Critical Studies of Artificial Intelligence	11028
 Harvard Economic Studies	5700
 Health Data Governance Principles Case Study	12143
 Health Sciences’ Students Enrolment	2775
 Heritage Institute for Policy Studies	4091
+Higher Education Students' Loans and Grants Board	13030
 Higher Education Students’ Loans Board	3460
 History and Political Studies	6946
 Home Affairs Case Study	12533
@@ -295,7 +305,7 @@ Marketing Studies	1248
 Matheson R. Study	12231
 Means for Students and Parents	12199
 Measurement Study Ministry of Energy and Water Resources	11136
-Media Studies	6946
+Media Studies	6946,6026
 Media and Information Studies	11651
 Medical Center Service Expansion Feasibility Study	955
 Meeple S.r.l. MEGASTAR S.L. Minio Studio	8530
@@ -316,7 +326,7 @@ NIRA Launches Special ID Registration for Students	10521
 NPC-commissioned SA Digital Infrastructure Investment Study	5602
 NTU-SBF Centre for African Studies	3367
 Namibia Students Finance Assistance Fund	6765
-Namibia Students Financial Assistance Fund	5036
+Namibia Students Financial Assistance Fund	5036,7992
 National Benchmark Study and South African Digital	9045
 National Fiber Backbone Expansion Feasibility Study	1569
 National Graduate Institute for Policy Studies	11109
@@ -344,10 +354,11 @@ Peak-Season Readiness Case Study	4848
 Piya Stuti	11572
 Plan NSFAS National Student Financial Aid	11192
 Policy Study Institute	12162
-Population Studies	12323
+Population Studies	12323,649
 Population Studies and Research Institute	12138
 Port Harcourt J Hist Dipl Stud	9739
 Portal Postgraduates Programmes Applications Student Portal	12407
+Procurement of Studio Equipment	12982
 Professor of Information and Communication Studies	12325
 Programme Graduated Still Studying Doctorate	11131
 Project Coordinator. Student	11315
@@ -362,6 +373,7 @@ Regional Center for Studies	5615,5824
 Regional Institute for Population Studies	9312
 Renewed Hope Students Leaders Engagement	8824
 Renewed Hope Students Leaders Engagement and Digital	8824
+Replacement of Four Radio Studio Mixing Consoles	12982
 Rev Int Stud	5242
 Ronald Niwenshuti. Studies	12386
 Royal Institute for Strategic Studies of Morroco	1814
@@ -385,9 +397,11 @@ STUDY OUTCOMES	11228
 Saharan Africa. Stud Health Technol Inform	8376
 School Based Assessment Mind the Gap Study	11241
 School of Graduate Studies	9534
+Scoping Study	13148
 Security Studies	9616
 Social Registry Imbeleko Study Results	12480
 Social Service Delivery. Country Case Studies	12761
+Social Studies	13185
 Social Studies of Science	11028,1062
 South Africa Digital Infrastructure Investment Study	5602
 South Africa Economic Impact Study	1208
@@ -397,6 +411,7 @@ South Africa. Studies	2948
 South African Journal of Information Studies	8022
 Southern Center for Inequality Studies	8515
 StUpEco	12376
+Staff and Student Education Management Information System	13123
 Startups Strategy Students Summit Sustainability Syria	5322
 State of Communications Sector Study	4672
 Still Studying	11134
@@ -406,28 +421,36 @@ Stuart Russell	10430
 Stuart Ssebibubbu	7187
 Stuckler	961
 Stud&doi	5242
-Student	520,62,3279,186,2525,364,2192,237,3046,67
+Student	520,62,3279,186,2525,364,2192,237,3046,67,518,101
+Student Academic Portal	13080
 Student Accommodation	12411
 Student Aid Programme	10332
+Student Bootcamps and Workshops	13080
 Student Card	10775
 Student Connection and Net Corps	12529
 Student Connections	12529
 Student Credentials	10765,10
 Student Credentials Order	10775
+Student Education Management Information System	12950
 Student Identification	10765,10
 Student Information Systems. FIGURE	9128
 Student Integrated Management and Monitoring System	11939
 Student Last Name Table	12360
+Student Permits	12984
 Student Pilot License SSA Sub-Saharan Africa	2775
 Student Progression	12411
+Student Revolving Fund	12956
 Student Satisfaction	2518
 Student Success	9128
 Student Suooort	11180
 Student Support	12411
 Student Voices	6948
 Student Women	11857
-Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213,197,26,2,11,4,305,7,78,363
+Student. European Journal of Economics	12978
+Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213,197,26,2,11,4,305,7,78,363,287,133,21
 Students Engagement	2318,6506
+Students Financial Assistance Fund NCTSP National	12923
+Students ICT Training FIGURE	13095
 Students Studying	12199
 Students Welfare Teaching and Learning Research Centres	12361
 Students and Graduates	12053
@@ -455,7 +478,7 @@ Studieshaveexploredsimilarity-basedjoins	8606
 Studiesindicatethatwhenanalyticstoolsarepoorlyalignedwith	8602
 Studio	11572
 Studs	9123
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19,174,28,4,2,13,11,71,1,38,12,20,32,244,3,294,6,106
 Study AI Patentability and Digital Rights	7624
 Study Area and Climate Pattern	12614
 Study Awareness of Health Effects Due	1154
@@ -521,17 +544,21 @@ Technology Studies Botswana Digital and Innovation Hub	1154
 Ten Country Case Studies	4117
 Tertiary Scholarships and Students Allowances	12541
 Through Dala Studio	8149
+Time Release Studies	13051
+Time Release Study	12951
 Tinto's Student	9128
 Tinto's Student Integration Model	9128
 Tinto's Student Retention	9128
 Tracer Study Survey	6832
 Traffic Study	11131
+TribeFire Studios. Currently	12951
 Tuskegee Syphilis Study	4426
 UK-based Institute of Development Studies	4176,1540
 Uganda. Disability Stud Quarterly	12231
 Universities and Number of Students Funded	2775
 University for Development Studies	5349,4986
 University of Professional Studies	7968,3859
+Upgrade of Studio	12982
 Urban Studies	5700
 Vienna Institute for Global Studies	4343
 Virtual Reality Studies	6832

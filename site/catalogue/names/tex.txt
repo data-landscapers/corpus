@@ -79,7 +79,7 @@ Text-free	11801
 Text-to-Speech	8876
 Textbook	12411
 Textbook-to-pupil	12199
-Textbooks	899,11006,506
+Textbooks	899,11006,506,711
 Texte	3189,2957,2505,2249,2,19,218
 Texte Données	1984
 Texte TXT	1984
@@ -99,5 +99,6 @@ Texto	6298,1785,289,182,511,237,2083,45
 Texto Validado	11547
 Texto-base de EOI	11456
 Texts	6612,4416
+Textual Part	13017
 University of Texas	8022
 Université du Texas	10803

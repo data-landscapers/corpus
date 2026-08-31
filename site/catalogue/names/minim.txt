@@ -13,6 +13,7 @@ CPU’s. Minimum Requirement of Compute Modules Dual	11209
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
 Case Minimum Requirements Password User	11952
 Child Labour and Minimum Age Sections	1988
+Child Protection A. Development of National Minimum	12977
 Color Contrast Minimum	11952
 Component Minimum Target Type Coverage Coverage	11952
 Conventions and Exhibitions Min Minimum MM Millimeters	2775
@@ -25,7 +26,7 @@ DNCMP Ajustement du DAO Minimum	10876
 Daily Data Scrubbing and Minimal Personal Information	8022
 Data Minimisation	5244,6895,163
 Data Minimisation and Security Breach. Results	962
-Data Minimization	3861,749,2938,3173,1942
+Data Minimization	3861,749,2938,3173,1942,341
 Data Minimization All	3861
 Data Minimization Limited	12675
 Data Privacy and Security Baselines Minimum	3861
@@ -53,6 +54,7 @@ Kenya's Minimum Energy Performance	12256
 Lu Heng's Minimum Initial Specification	11797
 MES Minimum Emission Standards MTS Main	11228
 MINIMAL TO CAUTIOUS	12241
+MINIMAL TO CAUTIOUS Likelihood	13080
 MINIMAL TO Risk	12241
 MINIMISING CONFLICT OF INTEREST	11218,6
 MINIMIZATION	3861
@@ -60,6 +62,7 @@ MINIMUM BALANCE REQUIREMENTS SECTION	12484
 MINIMUM FIRM REQUIREMENT The Service Provider	12693
 MINIMUM INTEROPERABILITY STANDARDS	11184
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
+MINIMUM REQUIREMENTS FOR A DATA INVENTORY	13004
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 MISS Minimum Information Security Standards MMM	5533
 MPSS Minimum Physical Security Standards MTDP	5533
@@ -70,7 +73,7 @@ Mean Annual Minimum Temperatures	2775
 Meet Minimum Requirements	11005
 Meeting MP Member of Parliament MPSS Minimum	11218
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
-Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379
+Minimal	961,4286,967,218,2691,493,1110,375,766,85,424,379,340
 Minimal Data Collection	12281
 Minimal Identity	10775
 Minimal Meaning	9855
@@ -90,18 +93,23 @@ Minimising Conflict of Interest	11250
 Minimising the Risk	1814
 Minimisingfalsepositivesrequiresincreasingthesimilarity	8606
 Minimizar	1701,9841,13
-Minimization	3861
+Minimization	3861,9324
 Minimização	11555
 Minimize	1988,7135,1652,439,1026
 Minimized	10550
+Minimizes	13037
 Minimizing	1988,5771
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148
 Minimum Access Conditions	5620
 Minimum Alternative Tax	5247,5381
 Minimum Assurance Level	3787
+Minimum Bachelor	13185
 Minimum Capital Baseline	12882
 Minimum Cybersecurity Guidelines	9695
+Minimum Data Speed	13218
+Minimum Degree	13185
+Minimum Dietary Diversity for Women	12978
 Minimum Duration	12389
 Minimum Emission Standard Compliance	11228
 Minimum Emission Standards	11228
@@ -110,6 +118,7 @@ Minimum Energy Performance Standards Medium Speed	12256
 Minimum Fiscal Transparency Requirements House Report	11005
 Minimum Funding Threshold	12882
 Minimum Guaranteed Banking Service	10967
+Minimum ITIL	13037
 Minimum Information Interoperability Standards	1009
 Minimum Information Security Standard	1009
 Minimum Information Security Standards	11196,790
@@ -141,6 +150,8 @@ Minimum de Perception	6954
 Minimum-Wages-3.pdf	226
 Ministry of Health and Population MPA Minimum Package	10829
 NORMS AND STANDARDS Minimum	11182
+National Minimum Standard Operating Procedures for Hostels	13247
+National Minimum Standards for Child Residential Facilities	12977
 National Minimum Wage Act	11280
 No. Equipment Minimum Lifespan	34
 Non-ECC Minimum	34
@@ -151,6 +162,7 @@ Population Urban Minimum	11857
 Printing Works MIOS Minimum Information Security	11986
 Protecting the Work Force Child Labour and Minimum	1988
 QUALIFICATIONS MINIMALES REQUISES Le Cabinet	9744
+Review The Minimum Data	13218
 SCOPE The Minimum Interoperability Standard	11184
 Sensitive Data Minimisation and Fair	1243
 Soumissionnaires Minimum	10876
@@ -159,6 +171,8 @@ State. Minimum	11857
 Survival Minimum Expenditure Basket Civil Protection	10763
 System Processor Minimum Intel Quad Core	34
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
+Target Deduplication Disk Appliance Minimum Requirements	13185
 Technical Minimum Require-	6946
 Token USB. Minimum	12364
+UN Standard Minimum Rules	12984
 Uninterrupted Power Supply Minimum	9123

@@ -19,10 +19,11 @@ Elepo Square	10049
 Environment Windows Sql Server	9124
 Fix SQL	11922
 Four Thirty Square	12600
-MS SQL	7977
+MS SQL	7977,5208
 Makoanyane Square	6623,6128
 Market Square	1191
 Microsoft SQL	11922
+Microsoft SQL Server	13037,148
 Microsoft SQL Server Management Studio	10617
 Muritala Square	12038
 MySQL and SQL Server	10060
@@ -37,7 +38,7 @@ Research Square Preprint	8604
 Root Mean Square Error of Approximation	4432
 SQA Framework	8424
 SQL Injection	3214
-SQL Server	6432
+SQL Server	6432,6713,24,16
 SQuaRE	11216
 Sanbury Square Shopping Centre	8999
 Security Operations Centre SQL Structured Query	6432
@@ -45,14 +46,16 @@ Sq. Km	11857
 Square	730,8269,2130,766,265,195,132
 Square Associates	9098,46
 Square Kilometer	9485
-Square Kilometre Array	5328,116,1036,3596,1107,65
+Square Kilometre Array	5328,116,1036,3596,1107,65,1678
 Square Shopp Cntr Cape Town Station	8999
+Squared Poverty Gap	12923
 Squatrito	11140
 Squatters	1988
 Squeezed	8598
 Standardised Root Mean Square Residual	4432
 Sub-component of Digital Square	730
 TV Radio Social Media News Squeeze	8999
+Term Explanation SQL Structured Query Language	13185
 Unicorn Squad	2909,1
 VC Investment Firms Egypt E Squared	4972
 Windows Server and SQL Server	6432

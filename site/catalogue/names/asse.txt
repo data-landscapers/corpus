@@ -5,6 +5,7 @@ AACB Annual Assembly of Governors	6938
 AACB Assembly of Governors	5229,6863
 AACB Assembly of Governors AACB Bureau AACB	6938
 ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
+AEAA Association for Educational Assessment	12975
 AFRICAN ALLIANCE KENYA ASSET MANAGEMENT LIMITED	7167
 AFRINIC Staff Assessment	12058
 AI HUB RISK ASSESSMENT FRAMEWORK	11156
@@ -12,8 +13,11 @@ AI Hub Risk Assessment Framework	11156
 AI Hub Risk Assessment Framework for Social	11156
 AI Impact Assessment	7548,3608
 AI Impact Assessments	11156
+AI Landscape Assessment	13113
+AI Landscape Assessment Justice	13080
 AI Readiness Assessment	3378
 AI Readiness Assessment Methodology	4126,402,7984
+AI Readiness Assessment Report	12994
 AI Readiness Index and Maturity MINICT Assessment	1204
 ANNOUNCEMENTS National Assembly	11289
 ANNOUNCEMENTS National Assembly The Speaker	11230,59
@@ -35,37 +39,46 @@ ASSEMBLY FOR WRITTEN REPLY QUESTION	10889
 ASSEMBLY PRESS	11,576
 ASSEMBLY THE HANSARD	10313
 ASSENICE MEDICAL COMPLEX KERUGOYA Data Controller	7167
+ASSENT IMSWATI	12938
 ASSENTED	11177
 ASSEP	7106
 ASSESS	11156
 ASSESSING ALIGNMENT WITH BEST PRACTICES	12385
-ASSESSMENT	6426,5550,238
+ASSESSMENT	6426,5550,238,700
 ASSESSMENT AND COMPLIANCE	11976
 ASSESSMENT AND COMPLIANCE Self-	11976
 ASSESSMENT AND PAYMENTS PART	11976
 ASSESSMENT DESCRIPTION SCORE Excellent Exceeds	11252
 ASSESSMENT OF READINESS FOR DIGITAL SKILLS	11918
 ASSESSMENT OF SOVEREIGNTY EFFECTIVENESS The Contracting	3787
+ASSESSMENT REPORT Referrer	13040
 ASSESSMENTS	11181
-ASSETS	4360,536,3694
+ASSETS	4360,536,3694,4463
 ASSETS AND LIABILITIES	11955
 ASSETS Cash	11131,3
 ASSETS IN CHAOS	9696
 ASSETS MANAGEMENT Telegraphic Address	5793
+ASSETS NON-CURRENT ASSETS Property	13053
 ASSETS Non-current	11955
 ASSETS P.O. Box	4896
 ASsembléià Nacional Popular	11514
 AU Assembly	5141,1228,773
 AU Assembly Summit	5141
-AU Assembly of Heads of State and Government	7452
+AU Assembly of Heads of State and Government	7452,5470
 AUTOMILE ASSET MANAGEMENT LIMITED Data Controller	7167
 AUTOSCAN MOTOR ASSESSORS AND VALUERS LIMITED	7167
+Abbreviations DQAF Data Quality Assessment Framework	12902
 About the Digital Readiness Assessment	12214
 About the Digital Readiness Assessment MALAWI DIGITAL	12214
+About the Digital Readiness Assessment The UNDP	12981
+Accessible Education Assessments	13143
 Acquisition of Assets and Infrastructure Institution	1131
+Acquisition of Capital Assets N	12984
 Additional Assets	12400
 Adequacy Assessment	8290
 Advance Performance Assessment Report	12500
+AfDB's Environmental and Social Systems Assessment	13217
+Africa Association for Educational Assessment SANU Southern	12975
 Africa Cyberthreat Assessment	5820,1763
 Africa Cyberthreat Assessment Report	4861,1984
 Africa Digital Health Maturity Assessment Tool	11679
@@ -74,6 +87,7 @@ African Banking Assets of GDP	6938
 African Cyberthreat Assessment Report	9167,1365
 African Digital CRVS Shared Asset	7921
 African Financial Institution Assets of GDP	6938
+African Network of Information Commissions General Assembly	13030
 African Non-Banking Assets of GDP	6938
 African Union Assembly of Heads of State and Government	4583,2559
 Allianz Asset Management	9632
@@ -82,11 +96,14 @@ Amadu Candé. Assembleia	11544
 Ancillary Virtual Asset Service Providers	10155
 Angola Poverty Assessment	10768
 Annual Credential Assessment	11956
+Annual Vulnerability Assessment	12977
+Annuity B Assessment	13108
 Apollo Asset Management Company Limited Data	7167
 Arret Jatta The National Assembly	5273
-Artificial Intelligence Landscape Assessment	4583
+Artificial Intelligence Landscape Assessment	4583,8497,15
 Artificial Intelligence Needs Assessment Survey	1814
 Artificial Intelligence Readiness Assessment Methodology	12565
+Artificial Intelligence Readiness Assessment Report	12994
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Arusha. The Association for Educational Assessment	10675
 Asseco Data Systems	8262
@@ -126,13 +143,17 @@ Assembleia da República. Na	8658
 Assembleia da República. O Conselho Constitucional	12854
 Assembleias de Voto	11425
 Assemblies	7695
-Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8
+Assemblies of God Church Soweto A. Shipena	13046
+Assembling Laptops and Tablets	13122
+Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8,245
+Assembly Act	12939
 Assembly DHPT MoH	9855
 Assembly Decision	5825
 Assembly Disclosure of Public Records Public Perception	10759
 Assembly Members’ Allowance	7695
 Assembly Political Pluralism Civil Society Space	10759,78,1315,188
 Assembly President Daniel Gélase Ndabirabe	4643
+Assembly of God Church A Assembly of God	13046
 Assembly of Governors	4103,2835,2093
 Assembly of Heads of State and Government	5202,532
 Assembly of People’s Representatives	5101
@@ -163,7 +184,7 @@ Assemblées Générales	8891
 Assemblées des Etats	8237
 Assentamento	11460
 Assente	5663
-Assented	1,10,957,870,1745,210,7383,3,2,1,7,1,9,2,62,288
+Assented	1,10,957,870,1745,210,7383,3,2,1,7,1,9,2,62,288,1337,5,1,11,4,49,193,3
 Assento	10765,7,3
 Assento de Nascimento	10749,4,3,9,10,588,117
 Assento de Nascimento. O Registo	10753
@@ -177,7 +198,7 @@ Assertion	1009,4233
 Assertion Markup	12360
 Assertion V	1009
 Assertions	8862,114,253,1876
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43
 Assess AI	1814
 Assess Compliance	10721
 Assess Effectiveness	12356
@@ -190,6 +211,7 @@ Assess Workforce Needs	12675
 Assess and Use Results	396
 Assess and Use Results Evaluation	1824
 Assess the Criteria	12376
+Assess the Effect of CUCI	12978
 Assess the Livelihood Impact of Electricity Access. Nature	12006
 Assessable Income	11976
 Assessable Profit	11976
@@ -203,6 +225,7 @@ Assessing Digital Inequality	9759
 Assessing Digital Maturity of Hospitals	1824
 Assessing Legal Standards	11662
 Assessing Rwanda	12385
+Assessing System Integration and Coverage	13005
 Assessing the Antecedents	5349
 Assessing the Effectiveness of Cybersecurity Programs	4610
 Assessing the Effectiveness of Cybersecurity Programs A	4610
@@ -211,7 +234,7 @@ Assessing the Impact of Digital Government	226
 Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211,149,46,204
 Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment Area Network Performance Service Quality	5676
 Assessment Basic Knowledge	899
@@ -231,7 +254,7 @@ Assessment POPIA Protection of Personal Information Act	11986
 Assessment Policy Statements Practical Assessment Tasks	11241
 Assessment Procedure	1824
 Assessment Regulations	1988
-Assessment Report	962,199,9560,1332
+Assessment Report	962,199,9560,1332,941
 Assessment Report Tier	10721
 Assessment Reports	10721
 Assessment Results	1953
@@ -247,6 +270,7 @@ Assessment Vulnerability	11153
 Assessment and Goal Setting	12356
 Assessment and Management of E&S Risks and Impacts	1264
 Assessment and Planning	6432,5563
+Assessment and Quality Assurance Officer	12984
 Assessment and Recommendations. Paris	6832
 Assessment and Screening	1988
 Assessment of Achievement of Each Objective	11924
@@ -260,14 +284,17 @@ Assessment of Disability	12575
 Assessment of Enabling Factors	11907
 Assessment of Eswatini's E-Commerce Readiness	12395
 Assessment of Existing Policy and Legal Framework	11905
+Assessment of Household Vulnerability and Food Insecurity	13060
 Assessment of Indicators Using Health Facility Data	10881
 Assessment of Maize Production Dynamics. Além	2816
 Assessment of Outcomes	11956
 Assessment of Relevance of PDOs and Rating PDO Relevance	11924
 Assessment of Sovereignty Effectiveness	3787
+Assessment of Suspicious Income Tax and VAT Refunds	12951
 Assessment of Teacher	899
 Assessmentofdecision-	8606
-Assessments	573,216,475,290,1607,1267,3025,3436,683,283,121,19
+Assessments	573,216,475,290,1607,1267,3025,3436,683,283,121,19,982
+Assessments and Response	12977
 Assessments of DHIS2	10881
 Assessments. Regularly	12214
 Assessments. Washington	11136
@@ -309,7 +336,8 @@ Asset-Based and PAYGO Finance	12297
 Asset-based	12297
 AssetCo	10993
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413,100,724,21,382,31,123,444,97
+Assets Act	13076
 Assets Africa	9119
 Assets Assets Deposits	11960
 Assets Authority	11615
@@ -344,6 +372,7 @@ Baseline Systems Assessment Report	12138
 Baseline Systems Assessment Report. Nairobi	12138
 Bjune G. Assessing	10881
 Board Assessment and Strategic Conclusion	4896
+Body NATIONAL ASSEMBLY INVITATION FOR APPLICATIONS	13096
 Brazzaville and Pointe-Noire. Objectives Assess the Republic	12055
 Britam Asset Managers	7167
 Burkina Faso Asserts Digital Sovereignty	4728
@@ -367,6 +396,7 @@ CONTEXT ASSESSMENT Laws	12333
 COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 COUNTIES SHOULD DO NOW Assess	9939
 COUNTY ASSEMBLY OF KAKAMEGA Data Controller	7167
+COURT AND APPOINTMNENT OF ASSESSORS	13189
 COVERT RISK ASSESSORS LTD Data Processor	7167
 CPF ASSET MANAGERS LIMITED Data Controller	7167
 CPF ASSET MANAGERS LIMITED Data Processor	7167
@@ -375,14 +405,17 @@ CRM-RA.S3 Assessment	10721
 CRM-RA.S6 Assessment Providers	10721
 CRM-RA.S7 Assessment	10721
 CRP.5 To the Transitional National Legislative Assembly	3583
+CRVS Assessment	13005
 CRVS Shared Asset	9535,269
 CURRENT ASSETS	4896
+CURRENT ASSETS Inventories	13053
 CYTONN ASSET MANAGERS LIMITED Data Controller	7167
 CYTONN ASSET MANAGERS LIMITED Data Processor	7167
 Cameroon Poverty Assessment	10985
 Cameroon's National Assembly	3090
 Capital Assets	11230
 Cash Equivalents Harare Total Current Assets	4896
+Cash NDMA-PR-09 WV Food for Assets	12977
 Cash-for- Assets	970
 Category of Movable Assets	12389
 Central Assessment Unit	10550
@@ -390,6 +423,7 @@ Central Bank of Kenya Assets and Liabilities	2775
 Certificate Authority CARA Criminal Assets Recovery	5533
 Chad's National Assembly	361
 Chairman National Assembly Service Commission	1014
+Change Readiness Assessment	12935
 Chatterjee SC. Assessment	3791
 Chief Audit Executive CARA Criminal Assets	11218
 Claims and Reunification of Unclaimed Financial Assets	2775
@@ -403,9 +437,13 @@ Comissões da Assembleia Nacional	11436
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Commercial Banks Assets and Liabilities	2775
 Commercial Banks’ Assets and Liabilities	2775
+Competition Assessment Framework for Communications Sector	12918
 Completed Malawi's Digital Readiness Assessment	12241
 Comprehensive Assessment	12367
 Comprehensive Assessment and Strategic Plan	12337
+Comprehensive Assessment of Barriers	12944
+Comprehensive CRVS Assessment Tool	13005
+Comprehensive Country Assessment Report	12944
 Comprehensive Needs Assessment Reports	11866
 Comunicação. PARTE I ASSEMBLEIA NACIONAL POPULAR	11518
 Conduct Annual Needs Assessment Survey	11866
@@ -414,6 +452,7 @@ Conduct Data Protection Impact Assessments	12302
 Conduct National Assessment	1000
 Conduct National Risk Assessment	1000
 Conduct National Risk Assessment Risk	1000
+Conduct Training Needs Assessment	13005
 Confidential Asset Standard Comment Rationale Data	9124
 Confidential Asset Standard Comment Rationale Framework	9124
 Confiscated Property and Asset Management	2652,2999
@@ -424,8 +463,10 @@ Constitution Assembly	12201
 Constitutional Assembly	11245
 Contingent Liabilities and Contingent Assets	1154
 Contingent Liabilities and Contingent Assets. Termination	1154
+Coordinating Assembly of Non Governmental Organisations	12896
 Core Stablecoin Principles and African Market Assessment	12048
 Country Assessment Mission	6858
+Country F. Vulnerability Assessments	12977
 Country Policy and Institutional Assessment	969,2635,7921,338
 Country Policy and Institutional Assessment CRFA Country	11863
 County Assembly of Nyeri Data Processor INST-910552DD5F2	7167
@@ -435,6 +476,7 @@ Credential Assessment	11956
 Crimes Cibernéticos. ASSEMBLEIA DA REPÚBLICA Lei	6970
 Critical Digital Assets	4610
 Critical National Assets and Infrastructure Protection	9669
+Crop Assessment	12931
 Crypto Asset Manual	8840,491
 Crypto Asset Manual for Cross-Border Activities	10452
 Crypto Asset Market Study	9677
@@ -469,6 +511,7 @@ DISCLAIMER Unofficial Hansard THE NATIONAL ASSEMBLY	12607
 DMI Assessment Highlights ICT	10584
 DPIA and Legitimate Interest Assessment	11956
 DRAFT CRYPTO ASSET MANUAL FOR CROSS-BORDER	8840
+Dalet Media Asset Management System	12982
 Dashboard and Project Assets Not Handed Over	9650
 Data Assessment The Data Assessment	1161
 Data Asset Inventory	7590,72
@@ -489,6 +532,8 @@ Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
 Data Protection Officer Assessment	11956
 Data Protection Officer's Assessment Schedule	11956
+Data Quality Assessment Framework	12902
+Data Quality Assessment Report	12944
 Data Quality Assessment Standards	2709
 Data Quality Assessments	4202
 Date Environmental Assessment Category	11525
@@ -505,10 +550,13 @@ Description ISC Assessment of ZamStats	2240
 Description USAID Digital Ecosystem Country Assessment	1166
 Develop Risk Assessment Standards	12675
 Developers ASSEK	12210
+Development Centers COHA Cost of Hunger Assessment	12923
 Development PRAMS Procurement Risk Assessment and Management	1264
 Device Assembly Plant	9336
+Diagnostic Assessment	13005
 Diagnostic Assessment Tool Tax Audit Quality	12500
 Diagnostic Assessment of Rwanda’s AI Ecosystem	1204
+Diagnostic Assessments	13005
 Digitais Assegurar	11569
 Digital Asset	4610
 Digital Asset Custodian	12882
@@ -533,11 +581,12 @@ Digital ID Assessment.pdf	6143
 Digital Landscape Assesment Report	6273
 Digital Landscape Assessment Report	6273
 Digital Maturity Assessment Tool	1824,10431
-Digital Readiness Assessment	765,1123,53,12,13,35,508,4030,4793,389,493,27,185
+Digital Readiness Assessment	765,1123,53,12,13,35,508,4030,4793,389,493,27,185,545,10,99,15,18
 Digital Readiness Assessment MALAWI	12214
 Digital Readiness Assessment Methodology. Retrieved	12214
 Digital Readiness Assessment Overview The Ministry	9478
 Digital Readiness Assessment Significant	2001
+Digital Skills Ecosystem and Gap Assessment	12941
 Digital Transformation Implementation Assessment Report	12688
 Digitalisation Gap Analysis Assessment	10584
 Directorate General for State Assets and Pubic Procurement	11862
@@ -573,6 +622,7 @@ ESIA Environmental and Social Impact Assessment ESMP	11863
 ESIA Environmental and Social Impact Assessment EU	7548
 ESS2 Assessment and Management of ES Risks and Impacts	12253
 ESS9 Not Currently Relevant. Summary of Assessment	11965
+ESWATINI HOUSE OF ASSEMBLY	13131
 East Africa Device Assembly Kenya Ltd	3975
 East African Legislative Assembly	3738
 Economic Assessment of Somalia’s Accession	11136
@@ -582,14 +632,17 @@ Effective Tax Dispute Resolution Performance Assessment	12500
 Election Law Assembly	12201
 Emerging Assessment Guidelines	7548
 Employees and Corporate Assets	7198
+Employment Impact Assessments	13060
 End-of-Project Assessment Report. Accessed	12138
 Enhanced Capacity for Assessment	11905
 Enhanced Risk Assessment	2991
+Enhanced Vulnerability and Capacity Assessment	12977
 Environment Impact Assessments	2775
 Environment and Social Impact Assessment	11863
 Environmental Assessment	11134,391,338
 Environmental Assessment Category	12137
 Environmental Assessment OP	12137
+Environmental Assessment Safeguards	13185
 Environmental Impact Assessment	1988,3867,5276
 Environmental Impact Assessment EIB European Investment	2775
 Environmental Impact Assessment Regulations	1988
@@ -602,7 +655,7 @@ Environmental and Social Impact Assessment	1988,9692
 Environmental and Social Impact Assessment ESMAP Energy	11380
 Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Template	1988
-Environmental and Social Impact Assessments	1867,121,1616,3647
+Environmental and Social Impact Assessments	1867,121,1616,3647,5809
 Environmental and Social Systems Assessment	11905
 Environmental and Social Systems Assessment ESSA Franc	11905
 Equity Assessment	3583,7886
@@ -613,6 +666,7 @@ Estonian Citizens’ Assembly. Paper	7886
 Eswatini Digital Economy Assessment	796
 Eswatini Digital Economy Assessment Companion	796
 Eswatini Digital Readiness Assessment	6539,5845
+Eswatini Vulnerability Assessment Committee Report	12931
 Ethical Impact Assessment	1814
 Ethical Impact Assessment of AI Systems	12389
 Ethical Impact Assessments	4528,7984
@@ -650,13 +704,17 @@ Financial Services Assess	4848
 Financial Stability Assessment Aggregate Financial Stability	11131
 Fintech and Digital Asset Lead	9706
 Fire Risk Assessment	11134
+Fixed Asset	13053
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
 Fixed Assets Tax	12452
+Food for Asset	12977
+Food for Assets	12977
 Former Attorney General and National Assembly Speaker	10042
 Fortifying Institutional Digital Assets	10069
 Forward-Looking Assessments This Report	11131,3
+Foundational Strategy and Assessment Frameworks	13095
 Fragility Assessment	11525
 Fragility Lens Assessment	11863
 Freedom of Assembly	12201
@@ -673,7 +731,7 @@ GREEN ASSESSMENT SUMMARY ANNEX	1818
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Gambia's National Assembly	3749
 Gender Gap Assessment	11965
-General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630
+General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924
 General Assembly. Language	7320
 General and Provincial Assembly	12201
 General and Provincial Assembly Election	12201
@@ -699,6 +757,7 @@ Government Assets Management Department	9492
 Government Assets Management Information System	9492
 Government Digital Performance Assessment for Zambia S	12453
 Government MALAWI DIGITAL READINESS ASSESSMENT	12214
+Government Readiness Assessment	12961
 Government The Digital Readiness Assessment	12214
 Governo Assembleia Nacional--	11408,2
 Grievance Mechanism Assessment	11007
@@ -711,10 +770,14 @@ Harmonized Health Facility Assessment	4202
 Head of Assets and Investment Management	718
 Head of Economic Assessment and Public Policy Department	11149
 Health Health Technology Assessment Integrated Logistics	4153
+Health Passport and Assessment Report	13040
 Health Technology Assessment	4153
 High-Level Assessment of Identity Management System	3781
 High-Level Summary of Enabling Factors Assessed	11907
 Hora A Assembleia Nacional	8308
+House of Assembly	12955,58
+House of Assembly and Senate. Each Chamber	12962
+House of Assembly the Clerk	13248
 Housing Assembly	6486,857,1572
 Housing Assembly and Foxglove	8915
 Housing Assembly and UK-based	8273
@@ -723,9 +786,13 @@ Human Rights Impact Assessment	1823
 Human Rights Impact Assessments	5618
 Human Rights Impact Assessments for AI	6132
 I ASSENT KAMORU OGUNLANA	11976
+I ASSENT MSWATI III	12928,1
+I ASSENT MSWATI III KING	12930
+I ASSENT MSWATI III King of Eswatini	12916
 I ASSENT SAMIA SULUHU HASSAN President	6921
 I Assent Dr. Goodluck Ebele Jonathan	11853
 IAR Immovable Assets Register ICT Information	11261
+ICT Infrastructure Assessment	12961
 ICT Policy for Lesotho and Situational Assessment Report	12674
 ID4D Diagnostic and ID Enabling Environment Assessment	10819
 III. Strategic Assessment	6735,200
@@ -738,6 +805,9 @@ INTERPOL African Cyberthreat Assessment Report	3691,2735
 INTERPOL's African Cyberthreat Assessment Report	9757
 INTERPOL’s Africa Cyberthreat Assessment	8777
 INTERPOL’s African Cyberthreat Assessment Report	8777
+IPCC Sixth Assessment Report	13094
+IR Readiness Assessment	12935
+IR Readiness Assessment Framework	12935
 ISC Assessment of ZamStats	2240
 ISN Launches Comprehensive Hub Assessment Report	12053
 ITU CIRT Assessment	318
@@ -872,8 +942,13 @@ Malagasy National Assembly	9480
 Malawi Development Assessment Tool	12175
 Malawi Development Assessment Tool MERP	12175
 Malawi Methodology for Assessing Procurement Systems	12176
+Malawi National Assembly	13040
+Malawi Vulnerability Assessment Committee	12964
+Malawi Vulnerability Assessment Committee NELP National	12964
+Malawi Vulnerability Assessment Committee Report	13122
 Malawi's Digital Readiness Assessment	1376
 Malawi. MALAWI DIGITAL READINESS ASSESSMENT	12214
+Malawi’s Digital Readiness Assessment	13095
 Mali Digital Ecosystem Country Assessment	1166
 Management Assertion	11855
 Management Performance Assessment Tool	11224
@@ -881,6 +956,7 @@ Management of State Assets and Participations	7134,3645
 Mandate Data Protection Impact Assessments	6936
 Mandate Ethical Impact Assessments	4528,7984
 Mandatory Assessment Triggers	3861
+Materiality Assessment	12967
 Maturity Assessment Workshop	1824
 Meter Asset Providers	12062
 Meter Asset Providers. Forty-eight	12062
@@ -895,6 +971,7 @@ Migration Assessment	6432
 Ministério-Justiça Asset Publisher Menu Display Menu	6530
 Missing and Unverified Beneficiary Assets	9650
 Model Governance Assessment	1879
+Monitoring and Evaluation Capacity Assessment Toolkit	12977
 Mortality Assessment Survey	12413
 Mulugeta Assefa	12195
 Municipal Assembly	7368
@@ -905,9 +982,13 @@ Municipal and Metropolitan Assembly	11
 Mwendwa P. Assessing	1219
 NATIONAL ASSEMBLY	9399
 NATIONAL ASSEMBLY BILLS	7832
+NATIONAL ASSEMBLY BY HON. INGE ZAAMUANI	13024
 NATIONAL ASSEMBLY ELECTIONS	12652
 NATIONAL ASSEMBLY ELECTIONS Independent Electoral Commission	12652
+NATIONAL ASSEMBLY OF THE REPUBLIC	13122
 NATIONAL ASSEMBLY QUESTION FOR WRITTEN REPLY	6868
+NATIONAL ASSEMBLY SCHEDULE Manner	13096
+NATIONAL ASSEMBLY WINDHOEK Honourable Chairperson	12984
 NATIONAL ASSEMBY	11272
 NATIONAL THREAT ASSESSMENT	1000
 NFA Net Foreign Assets NGAAF National	2775
@@ -915,11 +996,13 @@ NON CURRENT ASSETS Harare	4896
 Na OSCAR ASSENGA	11643
 Namageyo-FunaAAketchMTabuCMacNeilABlolandP. Assessment	8376
 Namibia AI Readiness Assessment Methodology	5036
+Namibia Social Protection Floor Assessment Report	12923
+Namibia's AI Readiness Assessment Report	13048
 Natiolial Assembly	11852
 National AI Readiness Assessment	3712
 National AI Readiness Assessment Committee	10183
 National Artificial Intelligence Readiness Assessment	10183
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12
 National Assembly Act	12652
 National Assembly Administration Act	7859
 National Assembly Authority	3887
@@ -935,6 +1018,7 @@ National Assembly Electoral	12748
 National Assembly Electoral Act	12652
 National Assembly Energy Committee	4513
 National Assembly Health Committee	6231
+National Assembly Honourable Dr. Saara Kuugongelwa	13097
 National Assembly Honourable Speaker	6196
 National Assembly LS	11976
 National Assembly Member for Foni Kansala	8611
@@ -946,6 +1030,8 @@ National Assembly PDF	1222
 National Assembly Parliament	11289
 National Assembly Partnership	11332
 National Assembly Powers and Privileges Act	10313
+National Assembly Private Bag	13097
+National Assembly Proclamation	12890
 National Assembly Select Committee	8611
 National Assembly Speaker Moses Wetang'ula	12268
 National Assembly Standing Orders	2742,7571
@@ -987,7 +1073,9 @@ National Assembly. The First Lady	5100
 National Assembly. The UBOS	3026
 National Assembly’s Committee	6787
 National Assessment Test	12196
+National Assessment and Technology Transfer Centre	13217
 National Asset Behind Everyday Digital	12632
+National Corruption Risk Assessment	12956
 National Council for Curriculum and Assessment	7492
 National Cyber Risk Assessment	2784
 National Digital Readiness Assessment Workshop	9434
@@ -1016,7 +1104,7 @@ National Transition Assembly	3806
 National Virtual Asset Literacy Initiative	9534
 National Virtual Assets Education Manual	9534
 National and Provincial Assemblies. Overall	12201
-Needs Assessment	1867,9349
+Needs Assessment	1867,9349,1701
 Needs Assessment Report	1867
 Needs Assessment Reports	11866
 Needs Assessment and Justification	11995
@@ -1044,6 +1132,7 @@ Object To Assesment	12397
 Off-Grid Solar Market Assessment Democratic Republic	11923
 Open Data Readiness Assesment	1984
 Open Data Readiness Assessment	9406
+OpenEMIS for National Assessment	13143
 Operator Scheme UAMP User Asset Management	11218
 Organisational Law Assembly	12201
 Organization PAH. Maturity Assessment Planning Guide	12255
@@ -1120,6 +1209,8 @@ PETITION UNFAIR LENDING AND ASSET FINANCING	10313
 PHA. Assembleia Nacional	6282
 PMU-National and District Assessment for Donor-	1988
 POLICY ASSESSMENT AND RECOMMENDATIONS REPORT	11285
+PPDA Public Procurement and Disposal of Assets Authority	12917
+PPDPA Public Procurement and Disposal of Public Assets	13005
 PPE Revenue Net Profit Assets Liabilities	1944
 PPRA Technologies Baseline Assessment	7548
 PRESIDENT OF THE ASSEMBLY	12771
@@ -1151,6 +1242,7 @@ Person GRM Integrated Fiduciary Systems Assessment	11905
 Personal Information Impact Assessment	11896
 Plan ESIA Environmental and Social Impact Assessment	11549
 Platform Assessment Framework	5700
+Policy Misalignment Methodology CRVS Assessment Tool	13005
 Policy and Institutional Assessment CR Civil Registration	969
 Post SCM ASSET MANAGEMENT	11251
 Post-Disaster Needs Assessment	1228
@@ -1186,6 +1278,7 @@ Project Performance Assessment Report	10779
 Project SESA Strategic Environmental and Social Assessment	2889
 Project Yes No Environmental Assessment OP	11525,330
 Protection Impact Assessment	12302
+Protection of Assets	12964
 Protection of Critical Digital Assets and Infrastructure	4610
 Protection of Critical Digital Assets and Infrastructure A	4610
 Protection of Critical Digital Assets and Infrastructures	4610
@@ -1195,16 +1288,20 @@ Providing Personalized Guidance and Assessments	6948
 Provincial Assemblies	12201
 Provincial Assembly	12201
 Provincial Assembly AU African Union CAD	12201
+Psychiatric Assessment	13040
 Public Assets Management Regulations	9492
 Public Assets Traced	2775
+Public Expenditure and Financial Accountability Assessment	13122
 Public Investment Management Assessment. Page	3604
 Public Procurement and Asset Disposal Act	2512,3,3917,1116,1386,1379,1800,422
 Public Procurement and Asset Disposal Act. GCSPs	6432
 Public Procurement and Asset Disposal Authority. VI	3583
 Public Procurement and Disposal of Asset Authority	3583
+Public Procurement and Disposal of Assets	13053
 Public Procurement and Disposal of Assets Authority	5668
-Public Procurement and Disposal of Public Assets Act	1210,3007
-Public Procurement and Disposal of Public Assets Authority	3969,4754
+Public Procurement and Disposal of Public Assets	13005,122
+Public Procurement and Disposal of Public Assets Act	1210,3007,8770,140
+Public Procurement and Disposal of Public Assets Authority	3969,4754,4399
 Public Procurement and Public Asset Disposal Board	12535
 Publique-se. O Presidente da Assembleia Nacional	539
 Quality Assessment	1261
@@ -1214,13 +1311,15 @@ Quality Percentage Percentage Assets	11131
 RAM Readiness Assessment Methodology REC Regional	1814
 READINESS ASSESSMENT	12214
 RF-EMF Exposure Assess-	6946
+RISK ASSESSMENT	12973
 RISK ASSESSMENT AND SCORING METHOD	11156
 Radiocommunication Assembly	7074
 Rapid Assessment	6832,3944
 Rapid Assessment of Counties	5134
+Rapid Assessments	12977
 Rapid Risk Assessment and Enhanced Surveillance	10776
 Ratio Assessment	11955
-Readiness Assessment	11867,347,27,288
+Readiness Assessment	11867,347,27,288,432
 Readiness Assessment Methodology	1814,573,1739,679,2440,4238,1067,28
 Readiness Assessment Methodology RNA	2816
 Readiness Assessment SDG Sustainable Development Goal	10829
@@ -1251,6 +1350,7 @@ Resilience and Fragility Assessment CSO Civil Society	11863
 Responsibility for Data National Learning Assessment Unit	11905
 Retrospective Risk Assessment	7548
 Reunião Extraordinária da Assembleia Nacional DR Luanda	9705
+Revenue Assessed	13053
 Revenue Net Profit Assets Liabilities	1944
 Revenue Net Profit Assets Liabilities Finance	1013
 Revenue Net Profit Assets Liabilities Shareholder	1013,931
@@ -1275,11 +1375,14 @@ Risk-Based Assessment	12389
 Rivatex Digital Assembly	899
 Rwandans. Assessing	12333
 République Sénat Assemblée	1297
+S27 Assess	12917
 SADC Harmonised Data Protection Framework Assessment	962
 SEA Strategic Environmental Assessment SEAH Sexual	11863
 SEIAS Social Economic Impact Assessment System	5533,6453
+SENATE AND THE HOUSE OF ASSEMBLY	12971
 SENHORA PRESIDENTE DA ASSEMBLEIA DA REPÚBLICA	12796
 SENHORES DEPUTADOS DA ASSEMBLEIA DA REPÚBLICA	12796
+SERAT Sexuality Education Review and Assessment Tool	12975
 SIGPE Integrated State Asset Management System	10768
 SITE WEB DA ASSEMBLEIA NACIONAL POPULAR	11531
 SUMMARY ENVIRONMENTAL AND SOCIAL SYSTEMS ASSESSMENT	11905
@@ -1308,9 +1411,11 @@ Self Assessment Questionnaire Automation of Air Cargo	12454
 Senegal's National Assembly	9134
 Senegal's National Assembly ICT	699
 Senhor Presidente da Assembleia Nacional Senhoras	1265,683
+Senior Managers Asset Regis	13005
 Sentinel Data for Flood Mapping and Damage Assessment	2816
-Service Availability Readiness Assessment	766
+Service Availability Readiness Assessment	766,12210
 Service Availability and Readiness Assessment	10829
+Services Availability and Readiness Assessment	12976
 Seventy-First World Health Assembly	396
 Seventy-first World Health Assembly	12255
 Shared Digital Assets	7921
@@ -1335,6 +1440,7 @@ Stablecoin Issuer Virtual Asset Wallet Provider	10738
 Stakeholders’ Assessment	5579
 Standard Guide for Assessing Spoilage of Hemp Seed	11269
 Standardized Monitoring and Assess	10841
+Standards Training of Assessors Technical Working Group	12969
 Startup Compliance Readiness Assessment	7519
 State House of Assembly	11976
 State House of Assembly. Executive Chairman	11976
@@ -1361,16 +1467,19 @@ Systems Diagnostic Assessment Project	11986
 TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLINGS National Assembly and National Council of Provinces	11285,4
 TADAT Secretariat. Performance Assessment Report	12500
+TADAT Tax Administration Diagnostic Assessment Tool	12948
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
+TECHNOLOGY NATIONAL ASSEMBLY	12982
 TN Asset Management Nominees	4896
 TRA Threat and Risk Assessment TRV Temporary	5533
 Talent Gap Assessment	2680
-Tax Administration Diagnostic Assessment Tool	10519,465,1516
+Tax Administration Diagnostic Assessment Tool	10519,465,1516,448
 Tax Assessments	12629
 Tax Performance Assessment Report	12500
 Tax Reference Number and Year of Assessment. Click	11276
 Taxation of Virtual Assets	8826
 Technical Assessment Mission	5950
+Technical Assessment and Infrastructure Readiness	13042
 Technologies ICT Asset Disposal Guidelines	12453
 Television Authority National Assembly Senator National	11129
 Tenancy and Asset Utilisation	4896
@@ -1403,19 +1512,25 @@ Turkey. Performance Assessment Report	12500
 Type of Asset	2775
 Types of Movable Assets	12389
 Téla Nón O Presidente da Assembleia Nacional	5818
-UN General Assembly	1038,776,1769,129,3285,177,939,1600,1344,299
+UN General Assembly	1038,776,1769,129,3285,177,939,1600,1344,299,1621,63
 UN General Assembly Resolution	3583,5045
 UN General Assembly Third Committee	11210
+UN General Assembly and Climate Week	13101
 UN General Assembly. Document	1237
 UNDP Digital Readiness Assessment	1994,10220
 UNDP Digital Readiness Sector Assessment	6539
+UNECA CRVS Assessment	13005
+UNECA Comprehensive CRVS Assessment	13005
+UNECA Comprehensive CRVS Assessment Complementing the ID4D	13005
+UNECA Comprehensive CRVS Assessment Tool	13005
 UNECA's CRVS Assessment Tool	12241
+UNECA’s CRVS Assessment Tool. Aligned	13080
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
 UNESCO Readiness Assessment Methodology	7068,4415,727
 UNESCO's AI Readiness Assessment Methodology	4528
 UNESCO's Artificial Intelligence Needs Assessment Survey	1814
-UNESCO's Readiness Assessment Methodology	5036
+UNESCO's Readiness Assessment Methodology	5036,7958
 UNESCO-UNICEF Education Connectivity Assessment	4619
 UNESCO’s AI Readiness Assessment Methodology	4126,1575,1092
 UNESCO’s Ethical Impact Assessment	1814,2312
@@ -1428,7 +1543,7 @@ US Treasury Department’s Office of Foreign Assets	10793
 USF Virtual Asset Service Provider FinTech	12444
 Unclaimed Financial Assets	2775
 Unclaimed Financial Assets Received	2775
-United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858
+United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986
 United Nations General Assembly and Nigeria	8552
 Unlocking Financial Inclusion Financing Risk Assessments	12297
 Unverified Assets	9650
@@ -1474,7 +1589,10 @@ Voter Registration Assembly	12201
 Vulnerability Assessment	1000
 Vulnerability Assessment Framework and Checklist	1000
 Vulnerability Assessment Vulnerability	1000
+Vulnerability Assessment and Analysis	12977
 Vulnerability Assessment and Penetration Testing	10721
+Vulnerability Assessments	13053
+Vulnerability and Capacity Assessment	12977
 WATRA General Assembly	5677
 WATRA General Assembly Reference	5677
 WB Assessment	12337
@@ -1492,9 +1610,10 @@ World Bank Procurement Risk Assessment and Management	3604
 World Bank-supported National AI Readiness Assessment	3712
 World Bank’s Digital Economy Assessment for Madagascar	7359
 World Bank’s Procurement Risk Assessment and Management	1264
-World Health Assembly	396,5196,4596,588
+World Health Assembly	396,5196,4596,588,2149
 World Health Assembly Relatório Anual da OMS	10776
 World Health Assembly Resolution	1824
+World Health Assembly. Despite	12925
 Worsening E’000 E’000 Assets External Investments	11134
 Year of Assessment	11276
 ZICTA Assesses UASF ICT Projects	6713

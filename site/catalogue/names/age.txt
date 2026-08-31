@@ -25,6 +25,7 @@ AGENCY	2727
 AGENCY ACKNOWLEDGEMENTS The National Identification Agency	12338
 AGENCY AFRICA INTERACTIVE LIMITED Data Processor	7167
 AGENCY FOR TECHNICAL COOPERATION AND DEVELOPMENT	7167
+AGENCY SERVICES PROVIDED BY LOWER COURTS	12920
 AGENDA	2508
 AGENDA Digital Superhighway and Creative Economy Space	1131
 AGENDA E.H.R Development	2477
@@ -70,11 +71,12 @@ ARYUV AGENCIES LIMITED Data Controller INST-968858EBBF7	7167
 ASBR Age-Specific Birth Rate ASFR Age-Specific	12413
 ASFR Age Specific Fertility Rates ASPs	2775
 ASHANTI PENSION INSURANCE AGENCY LIMITED Data	7167
+ASYCUDAWORLD The Namibia Revenue Agency	13067
 ATLANTIS AGENCIES LIMITED Data Processor INST-469030ADD13	7167
-AU Agenda	1388,426,597,4586,681,5081
+AU Agenda	1388,426,597,4586,681,5081,216
 AU Agenda and EAC Vision	12403
 AU Data Policy Framework. Agency	3595
-AU Development Agency- New Partnerships for Africa	4123
+AU Development Agency- New Partnerships for Africa	4123,8940
 AU Development Agency-NEPAD	5244
 AU Digital Transformation Strategy and Agenda	1775
 AU's Agenda	1264,2230
@@ -91,13 +93,15 @@ Accreditation of Tax Agents PART II	11976
 Achieve the Goals of Agenda	8012,3,3268
 Addis Ababa Action Agenda	970,2613,6752,858
 Additional Financing AFD French Development Agency	11924
+Administration System NamRA Namibia Revenue Agency	12951
 Administrative Entities Development Agency MINEMA Ministry	12328
 Aduanero Agente Gendarme Marinero Soldado	4209
 Advancing the Agenda	7596
 Advancing the Agenda Building	7596
 Advancing the Agenda Defining	7596
+Adventist Development and Relief Agency AIDS Acquired	12970
 Advisory Committee Members Agence	11149
-Africa Agenda	12600,80
+Africa Agenda	12600,80,325
 Africa Building the Agentic Future	6441
 Africa Health Agenda International Conference	2678
 Africa Health Security and Sovereignty Agenda	5456
@@ -108,28 +112,36 @@ African Agenda	11289,1124
 African Credit Rating Agency	6338
 African Medicines Agency	4167,974
 African Risk Capacity Agency	10819
-African Space Agency	2125,4503,1647,829,3029
-African Union Agenda	961,853,6191,3188,958,129,214,265
+African Space Agency	2125,4503,1647,829,3029,968
+African Union Agenda	961,853,6191,3188,958,129,214,265,205
 African Union Agenda2063	5246
-African Union Development Agency	1243,571,1544,509,11,3070,847,4020
+African Union Development Agency	1243,571,1544,509,11,3070,847,4020,1151
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 African Union's AI Agenda	12512
 African Union's Agenda	5246,203,1489,198,457,903
 African Union’s AI Agenda	4528
-African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388
+African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388,1795
 Afrique Bailleurs Agence	10519
 Age Below	12413
 Age Composition of PWDs All	12460
+Age Determination Committee	12959
+Age Determination Committees	12959
 Age Disparities	12411
+Age Distribution Among Permanent Staff	12951
+Age Distribution Department Distribution Intern GITs	12969
 Age Female Male Sex Ratio	12151
 Age Figure	10775
 Age Group	582,11813
+Age Group Treated	12978
 Age Group and Residence	2775
-Age Group and Sex	12655
+Age Group and Sex	12655,322
+Age Group and Sex Age	12977
+Age Group and Sex for Children	12977
 Age Male Female Total Kenya	12151
 Age Range and Gender Distribution	11955
 Age Range and Gender Distribution Chart	11955
+Age Responsiveness	13080,15
 Age Single	12413
 Age Specific Death Rate AFDB	12639
 Age Specific Fertility Rate	12151,262,226
@@ -306,7 +318,7 @@ Agencia de Normalización	4209
 Agencia de Promoción de Inversiones	4209
 Agenciamento	11532
 Agencias	4209
-Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330
+Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330,106,18,55,20,15,2,25
 Agencies ANDE	3549
 Agencies C- Supply	7548
 Agencies County Focal Civil Society Points	7548
@@ -314,7 +326,9 @@ Agencies Delay	1000
 Agencies MCSAR Ministry of Civil Service and Administrative	969
 Agencies MFB Ministry of Finance and Budget MFD	3604
 Agencies MFD Maximizing Finance for Development MPA	6539
+Agencies MIP-1 Malawi Implementation Plan	13060
 Agencies MNOs Mobile Network Operators Nigerian	11857
+Agencies OPM	12961
 Agencies Offices and Locations	9409
 Agencies PFM Public Financial Management SCD	11545
 Agencies Portability Guidelines	7548
@@ -326,7 +340,8 @@ Agencies and Commissions	1777
 Agencies and Counties	5793
 Agencies and Counties MERL Monitoring	7548
 Agencies and Institutions	961,10899
-Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60
+Agencies. The Digital Eswatini Project	12990
+Agency	16,566,115,202,101,131,646,211,319,138,104,160,18,44,733,100,180,342,81,321,139,324,224,55,290,95,10,218,78,214,47,29,170,11,113,241,37,27,294,16,148,69,371,103,6,109,458,175,3,26,506,127,174,79,62,340,20,162,52,7,167,100,160,122,20,86,4,159,154,5,18,32,93,187,22,67,198,104,8,53,60,74,172,19,96,22,54,99,30,144,60,153,38,14,21,5,5,49,13,9,27,15,13,10,67
 Agency Act No	2727
 Agency Administrative	2727
 Agency Agencies	1000
@@ -340,16 +355,22 @@ Agency INRAP Monitoring and Evaluation Ministry of Social	11905
 Agency Implementing Agency Action No Change	1228
 Agency Integration	12389
 Agency Long Term	1161
+Agency MDM Master Data Management M&E	12917
 Agency MEPPSA	11905
 Agency MEPPSA Verification Entity World Bank	11905
 Agency Map	1161
 Agency Micro	11468
 Agency Ministry of Finance STAKEHOLDERS Civil	1161
+Agency NAMPOST Namibia Post Limited NBC	12973
+Agency NIAT National Institute of Advanced Technology	12917
 Agency NISR National Institute of Statistics of Rwanda	12413
 Agency NIWA National Inland Waterways Authority	11857
+Agency NSDI National Spatial Data Infrastructure	12907
 Agency OMG Object Management Group TOGAF	11184
 Agency Objective	1000
 Agency Order	1131,5672
+Agency PART VI COORDINATION OF NATIONAL	12899
+Agency PRISE Pacific Regional Integration Support	13042
 Agency Problem	9914,1,77,1820
 Agency Promote	1161
 Agency Proposed National Digital Development Council	1161
@@ -361,6 +382,7 @@ Agency Services Fees	12395
 Agency Specific Objectives	1000
 Agency TRUST Transparency	5246
 Agency The Board	11464
+Agency Urgent Notice	13108
 Agency ZPPA Zambia Public Procurement Authority	1988
 Agency and Accountability. Iswe Foundation	8628
 Agency for Digital Development	3001
@@ -372,6 +394,7 @@ Agency for Information Systems and Digital	1728,1471,7657
 Agency for Information Systems and Digital Technology	3150,48
 Agency for Information and Digital Systems	2257
 Agency for International Development	12006
+Agency for International Development VLR Voluntary Local	12962
 Agency for Regulation of Posts and Electronic Communications	5075
 Agency for Regulation of Telecommunications	173
 Agency for Rural Electrification	11366
@@ -386,7 +409,7 @@ Agency. Constitution	2727
 Agency. Priority	789
 Agency. Standards Exemptions Compounding	2727
 Agency’s Capacity	11525
-Agenda	10,779,110,59,3,9,5,156,112,14,112,1,331,113,303,8,150,136,32,138,194,41,26,91,33,52,36,440,25,64,21,54,17,186,286,279,5,294,192,327,113,343,125,226,224,19,126,140,186,200,198,28,282,94,40,71,36,113,68,8,11,117,180,77,40,9,95,83,98,79,208,10,108,163,32,61,5,288,89,1,56,164,32,279,140,70,2,95,300,64,34,265,12,42,38,52,96,8,6,1,2,1,9,45,10,65,10,7,3,83,225,131,1,22,47,20,76,45,14,157,16,291,1,61,23
+Agenda	10,779,110,59,3,9,5,156,112,14,112,1,331,113,303,8,150,136,32,138,194,41,26,91,33,52,36,440,25,64,21,54,17,186,286,279,5,294,192,327,113,343,125,226,224,19,126,140,186,200,198,28,282,94,40,71,36,113,68,8,11,117,180,77,40,9,95,83,98,79,208,10,108,163,32,61,5,288,89,1,56,164,32,279,140,70,2,95,300,64,34,265,12,42,38,52,96,8,6,1,2,1,9,45,10,65,10,7,3,83,225,131,1,22,47,20,76,45,14,157,16,291,1,61,23,180,25,41,125,19
 Agenda BEP Built Environment Professionals BEAC	2775
 Agenda Background Background	11191
 Agenda CA Communications Authority of Kenya CAJ	7548
@@ -419,7 +442,7 @@ Agenda for Information Systems Research	5700
 Agenda for Infrastructure Studies	5700
 Agenda for Job	582
 Agenda for Sustainable	12214
-Agenda for Sustainable Development	1445,3,9745,379,1214
+Agenda for Sustainable Development	1445,3,9745,379,1214,155,207
 Agenda for Sustainable Development Goals	12759
 Agenda for Sustainable Development Sub-Fund	12786
 Agenda for Sustainable Development. Kenya Vital Statistics	12151
@@ -439,7 +462,7 @@ Agendas	11387,599
 Agendas Internacionales	1701
 Agendas and Minutes	11251
 Agende	2966
-Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252
+Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738
 Agent Banking	11469
 Agent Banking Advisory	11469
 Agent Banking Enabling and Job Creation PASA	11469
@@ -520,6 +543,7 @@ Angolan Space Agency	5421
 Anti-Doping Agency of Kenya Data Controller INST-9943213BF9D	7167
 Anti-Illegal Immigration Agency	11649
 Applicable Agencies	11854
+Appointment of Agents	13085
 Appointment of Clearing Agents Clearing Agents Management	12454
 Arab Digital Agenda	8645
 Arab Marketing Agency	8133
@@ -527,6 +551,7 @@ Armed Forces SARHO Sudanese Agency for Relief	6947
 Army and Defense Agency Sector	8141
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Asset Recovery Agency	7607
+Atomic Energy Agency	12972
 Attorney General ASFR Age Specific Fertility	12151
 Authorised Settlement Agent	12364
 Authorities No Insurance Regulation and Control Agency	6938
@@ -544,6 +569,7 @@ BENJOY PRINTING AGENCIES LIMITED Data Processor	7167
 BIGTIMER AGENCIES LIMITED Data Processor INST-41126557DEE	7167
 BROOKS INSURANCE AGENCIES LIMITED Data Controller	7167
 BURAO AGENCIES LIMITED Data Controller INST-20514966105	7167
+Background The Namibia Statistics Agency	13031
 Backs Zimbabwe’s Environmental Agenda	8639
 Bali FinTech Agenda	12444
 Belgian Development Agency	1235,9629
@@ -587,6 +613,7 @@ CICO Agent Nigeria Gender Country Expansion	11469
 CITISCAPE VALUERS AND ESTATE AGENTS LIMITED	7167
 CNE. ELECTION OBSERVATION AND PARTY AGENTS	12201
 CONNECTION DRAINS MY TO AGENT TIME	11004,960
+COUNTRY CONTEXT AND DEVELOPMENT AGENDA	12968
 CPLP's Digital Agenda	975
 CURR IncorrectAgent Agent	12364
 Cabinet Approves New Agency	6526
@@ -597,6 +624,8 @@ Call for Proposals for Pre-Set Consortia AGENCY	5773
 Cameroon News Agency	10962
 Cameroon No Canada Yes Innovation Agenda	11529
 Cameroon Telecommunications Regulatory Agency	9616
+Campaign. Agenda	13005
+Canadian International Development Agency Workshop	12972
 Capacitation of Border Management Agencies	4390
 Cape Verde's Multisectoral Regulatory Agency	9051
 Carestía de Vida Administrativo Embajada A2 Agente	4209
@@ -604,6 +633,7 @@ Catalytic Agents	2957
 Central African Digital Development Agency	6333
 Central African Republic Implementing Agency	10829
 Central Agence	11916
+Central Agency	12962
 Central Agency for Public Mobilization and Statistics	9624
 Central Bank Ministry of Finance Other Agencies	6938
 Central Intelligence Agency	6477
@@ -629,6 +659,8 @@ Civil Service Agency	2548,1735,4805,123
 Civil Service Agency Director-General Josiah F	9088
 Civil Service Agency and National Identification Registry	5244
 Civil Service Agency. The Data Center	5244
+Clearing Agents	13067
+Clearing Agents Association of Eswatini	13051
 Clearing Agents Clearing Agents List Publications	12454
 Clearing and Forwarding Agent	6946
 Co-ordinating Agency	11851,1
@@ -647,6 +679,7 @@ Confirm Fully Operational Government Digital Agency	12214
 Congo's National Information Systems Security Agency	3096
 Congo. The Agency for Regulation of Posts and Electronic	3961
 Congolese Regulatory Agency for Posts and Electronic	2764
+Congratulations The Namibia Revenue Agency	13108
 Consider WRC-27 Agenda Items	7074
 Consular Agent	11877
 Cooperation Agency	9433
@@ -676,6 +709,7 @@ DES ELEVES PAR AGE	10847
 DES ELEVES PAR AGE ET SEXE	10847
 DES NOUVEAUX ENTRANTS PAR AGE ET	10847
 DGI du Bénin The Agence Française de Développement	1238
+DIGITAL AGE	13102
 DIGITAL TAILOR AGENCY LIMITED Data Controller	7167
 DIGITAL TAILOR AGENCY LIMITED Data Processor	7167
 DPs and CSOs. Grant Agent World Bank	11916
@@ -699,19 +733,23 @@ Dedicated Children's Agency Data Processor INST-84490224289	7167
 Defence Intelligence Agency	11928
 Department and Agencies	3907
 Department and Agency	11854
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16,69,1,95,70,68,41,22,19,64,13,238,183,83,160,47,72,39,20,18,9,3
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
 Departments and Agencies Independent	7548
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
 Departments and Agencies MEST Ministry of Environment	4126
-Departments and Agencies MIP-1 Malawi	12241
+Departments and Agencies MIP-1 Malawi	12241,839,15
+Departments and Agencies MISO Management Information System	13005
 Departments and Agencies ML	958
 Departments and Agencies ML Machine Learning MoH	12240
 Departments and Agencies MO Market Operator MTS	12062
+Departments and Agencies MRA	13053
+Departments and Agencies MS Microsoft MTBF Mean	13185
 Departments and Agencies NIN	11861
 Departments and Agencies Utilize	2989
 Departments and Agencies. Central	12598
+Departments and Government Agencies	12917
 Departments and Specialized Agencies	1988
 Departments and State Agencies MoH Ministry of Health	12151
 Desarrollo Territorial Agenda Guinea Ecuatorial	1701
@@ -720,6 +758,7 @@ Description National Space Research and Development Agency	1274,1196,2103
 Desenvolvimento Comunitário AP Agente Parceiro APEE	11557
 Development Agency	1885,1719,1244,1780,1036,1453,1449,970
 Development Agency STI Science	1814
+Development Agency VIP Ventilated Improved Toilets	12970
 Development Agency ZEMA Zambia Environmental Management	1988
 Development Agency of Belgium’s Federal Government	12358
 Development Agenda	11183
@@ -743,6 +782,8 @@ Digital Development Financing Implementing Agency	1284
 Digital Economy Development Agency	2306
 Digital Economy and Development Research Agenda	226
 Digital Eswatini Agenda	7687
+Digital Eswatini Executing Agency	13017
+Digital Government Transformation Agenda	12917
 Digital Health Agency	2709,1444,3554,594,633,15,1082,69,541,1673
 Digital Health Agency CEO	10331
 Digital Health Agency Chief Executive Anthony	10329
@@ -763,6 +804,8 @@ Director General Zambia Cyber Security Agency	9082
 Director General of Government Agencies and Companies	10455
 Director General of Morocco's Digital Development Agency	2715
 Directors of States Statistical Agencies	11851
+Disaster Management Agency	12977
+Disaster Management Agency NERCHA National Emergency	12970
 Distribution Agency Agreement	11215
 Distribution Agency Agreements	11236
 Djibouti's National Meteorological Agency	9238
@@ -770,6 +813,7 @@ Djibouti's National Security Agency	183
 Documents Agenda	12055
 Doing Business Reforms Agenda	12598
 Domestic Product GIZ German Development Agency	10841
+Donor Agencies	12917
 Douala Workshop Trains SME Support Agencies	5407,676
 Dr. Mercy Mwangangi and Digital Health Agency	12314
 Draft Physical Agents Regulations	1009
@@ -798,6 +842,7 @@ Ecofin Agency and TechAfrica News	3865
 Ecofin Agency's English	6323
 Ecofin Agency. Fetched	5165
 Economic Transformation Agenda	5793,639
+Egyptian Agency of Partnership for Development	12972
 Electricity Sector Regulatory Agency	10973,2,18,943
 Electronic Age andE-GovernanceWorkshop	12325
 Embajada A3 Agente Consular B3 Agregado	4209
@@ -809,6 +854,7 @@ Emirates News Agency	9098
 Emploi AUF Agence Universitaire	12
 Employment Agency	4126
 Energie du Tchad ARSEL Agence de Régulation du Secteur	10975
+Energy Agency	12972
 Energy Agency IGTVS International Gateway Traffic	718
 Energy Policy NSA Namibia Statistics Agency	12399
 English Funding Agency	8726
@@ -818,6 +864,8 @@ Environmental Agency Integration	12389
 Environmental Management Agency	1988
 Environmental Protection Agency	11,11709
 Establish the Zanzibar Civil Registration Agency	11133
+Establishing the Kingdom of Eswatini Space Agency	13101
+Establishment of Agency	12899
 Establishment of Zambia Cyber Security Agency	2727
 Establishment of Zambia Cyber Security Agency Functions	2727
 Estado Agenda Guinea Ecuatorial	1701
@@ -825,7 +873,10 @@ Estado. Agenda Guinea Ecuatorial	1701
 Estonia Yes Digital Agenda	11529
 Estonian Innovation Agency	5700
 Estratégia de Operacionalização da Agenda	11451
-Eswatini Public Procurement Regulatory Agency	11134,1288
+Eswatini Medical Stores Agency	13123
+Eswatini Medical Supplies Agency	13123
+Eswatini Public Procurement Regulatory Agency	11134,1288,616
+Eswatini Water and Agricultural Development Agency	12931
 Eswatini’s Digital Transformation Agenda	7687
 Ethiopia Korea International Cooperation Agency	505
 Ethiopia News Agency	9801
@@ -846,6 +897,7 @@ Executing Agency	603,11260
 Executing Agency COUNTRY AND STRATEGIC CONTEXT	11863
 Executive Director of Media Rights Agenda	11095
 Executivo A Agenda de Transição Digital da Administração	11394
+Exemption of Agency	12899
 Existing Systems Agencies	12157
 Expand Agent Banking Services Agent	8184
 Exports Clearing Agents Application Form CE	12454
@@ -868,6 +920,7 @@ Finnish Digital Agency	8276
 Firm Age	10976,905,465
 Firm Characteristics Age	11874
 Firms Firm Age	11874
+First Government Agency	13042
 Flood Intelligence Agent	9561
 Fluxos de Agentes	2816
 Foundations and Research Agenda	226
@@ -876,9 +929,11 @@ Francophone University Agency	10864
 French Agency for Development	11380
 French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1,572,369,19
 French Development Agency. DRC	6073
+Functions and Powers of Agency PART IV BOARD	12899
 Functions of Agency	2727,8737
 Fund and Tanzania Rural Roads Agency	6921
 Funding Agency	9274,1588
+Funds of Agency	12899
 G. A Pragmatic AI Agenda	11140
 G20's Progressive Digital Agenda Despite	7242
 GICT Agencies	1000
@@ -886,7 +941,9 @@ GICTA Agencies	1000
 GICTA Gambia Information Communications Technology Agency	1000
 GM- Agencies	1000
 GM- CSIRT Agencies	1000
+GUARANTEE AGENCY COUNTRY PARTNERSHIP FRAMEWORK	12968
 Gabon Agence Nationale des Infrastructures Numériques	6129
+Gallup World Poll. Funding Agency	13084
 Gambia Information and Communication Technology Agency	6297,644,72
 Gambia Investment and Export Promotion Agency	9020
 Gambia National Disaster Management Agency	1000
@@ -899,7 +956,7 @@ Gender and Age Gender Composition of PWDs All	12460
 General Statute of State Employees and Agents	4260
 Geographic Agent	12297
 German Agency for GRM International Cooperation	10964
-German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241
+German Agency for International Cooperation	1264,1057,749,1032,1142,319,4266,1313,1117,241,542,119
 German Agency for International Development	10964
 German Development Agency	1814,1790,7237
 Ghana Beyond Aid Agenda	789
@@ -911,15 +968,20 @@ Global Cybersecurity Agenda	10764
 Global Health Security Agenda	11376
 Global South Agenda	6386
 Glossary Agent	11994
+Go-To Agency	12917
 Golden Age of Strategic PR	7253
 Government Advertising Agency	11789
-Government Agencies	18,744,399,1837,2247,2344,2691,1577,3,3,288,34,234,120,136
+Government Agencies	18,744,399,1837,2247,2344,2691,1577,3,3,288,34,234,120,136,303
 Government Agencies France Launch Africa Ventures	4972
 Government Agencies R1	11138
 Government Agencies United Kingdom Investisseurs	4972
 Government Agencies and CII	1000
+Government Agencies and Capacity Building. Table	12917
 Government Agencies and Departments	11952
 Government Agency	798
+Government Agency Malawi Pension Fund Pension	13053
+Government Central Agencies	13251
+Government Ministries Departments and Agencies	12964
 Government Ministries and Agencies	9422,2934
 Government Pensions Administration Agency	10102
 Government of Kenya Bottom-up Economic Transformation Agenda	4153
@@ -932,11 +994,12 @@ Grant Agent	12175
 Grant Agent GDP	12175
 Grant Agents. Malawi	12175
 Greenhouse Gases GIZ The German Agency	1264
-Guarantee Agency	11468
+Guarantee Agency	11468,1500
 Guarantee Agency ML Machine Learning MPA	3604
 Guarantee Agency's Support for Private Investment	11310
 Guinea Ecuatorial. Agenda Guinea Ecuatorial	1701
 HH MEMBERS AGED	582
+Halfway House Age Groups Male Female	12977
 Harness and Realize Agenda	7951
 Heads of UN Agencies	10210
 Health Facilities Regulator Agency	9204
@@ -960,6 +1023,7 @@ IMPLEMENTATION AND COORDINATION FRAMEWORK The Agency	1131
 IMPLEMENTING AGENCY Implementing Agency Name Type	1284
 INFORMATION CONNECTION DRAINS MY TO AGENT	11964
 INNOVATION AGENCY	12834
+IR Agenda	13056
 ISR01192 Implementing Agencies	11395
 ISR03430 Implementing Agencies	2712
 ISR03691 Implementing Agencies	12228
@@ -975,13 +1039,17 @@ Immunization Agenda	10776
 Impact-First’ Agenda	8629
 Implementation of Agenda	11283
 Implementing Agencies	761,11595,56,14
+Implementing Agencies and Development Partners	12942
 Implementing Agencies and Specialized Institutions	1814
 Implementing Agency	761,467,56,970,1350,5829,1531,596,660,168,24,14,243
+Implementing Agency EPTC	13017
 Implementing Agency Investment Project Financing	10963
+Implementing Agency Investment Project Republic of Malawi	13111
 Implementing Agency Ministry of Finance and Public Private	1704
 Implementing Agency Republic of Congo Ministry	11924
 Implementing Agency The Federal Republic of Federal	3456
 Implementing Agency. Contact	12220
+Implementing Agent	12970
 Implementing Partners Ministries and Agencies	1988
 Implementing Supporting Responsibility Agencies	1000
 Inaugural Chair of National Cybersecurity Agency Kenya	10737
@@ -992,6 +1060,7 @@ Independent Verification Agent	6539,5849
 India the Community Design Agency	10846
 Individual Merchants Retail Large Customer Agent	5687
 Individuals Merchants Retail Agents and Category Lite	5687
+Indonesia and Malaysia. The Agency	12982
 Industries de Réseau AER Agence	10975
 Inform Agencies	12210
 Information Age	6008,4938
@@ -1024,6 +1093,7 @@ Insolvency and Trusteeship Agency	4553,6038
 Installation of Monitoring Agents	9123
 Institutions and Agencies	1261
 Insurance Postal Agency Counter Extension Post	11129
+Integrated Digital Agenda	12917
 Intelligence Age	8692
 Intelligence Agencies and Revenue Agencies	789
 Interagency Collaboration Among Law Enforcement Agencies	11928
@@ -1032,7 +1102,7 @@ Internal Audit Agency CSA	6936
 International Atomic Energy Agency	4070,1685,1
 International Cooperation Agency	286
 International Council of Volunteer Agencies	6947
-International Development Agency	2889
+International Development Agency	2889,10194
 International Development Cooperation Agency	11004,960
 International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,13,60,111
 International Renewable Energy Agency	11140,432,642,47
@@ -1053,9 +1123,10 @@ JE M'ABONNE AGENDA	8755
 JICA Japan International Cooperation Agency MASFAMU	11380
 JOJ. Agenda du Président	8269
 JSON CSV JSON CSV Séances Agenda	9480
+Jamaica Customs Agency	13042
 Japan Aerospace Exploration Agency	11291
 Japan Credit Rating Agency	7785,4024
-Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155,538,658,493
+Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155,538,658,493,302,34,6,161
 Japan International Cooperation Agency LNME	10776
 Japan International Cooperation Agency TA Networking	10780
 Japan International Cooperation Agency. Data	10780
@@ -1083,6 +1154,7 @@ Kenya's Bottom-up Economic Transformation Agenda	12210
 Kenya's Digital Transformation Agenda	7407
 Key Agencies	4808,7581
 Key Findings Namibia Statistics Agency	12383
+Kingdom of Eswatini Space Agency	13101
 Kiosk USSD Apps Agents QR	12490
 Kiosk USSD Apps POS Agents QR	12000
 Kisubi Associated Writers Agency	11022
@@ -1100,6 +1172,7 @@ Land Mapping Agency	12389
 Land Registry and Mapping Agency	12389
 Launches Agency Banking Roll-Out	7964
 Launching the Agent Loyalty Scheme	10249
+Law Age Group Sex Rape House	12977
 Law Enforcement Agencies	11131,3,143
 Lead Agency	12356,405
 Lead Arranger and Collateral Agent	4712
@@ -1123,10 +1196,13 @@ Location of Agent	12365
 Love By AYUE Digital Agenc	10996
 Low Organizations Borrower Responsible Agency Instituto	2473
 Lucas Ajanaku Anambra State ICT Agency	10150
-Lusaka Agenda	2678,2463,4818
+Lusaka Agenda	2678,2463,4818,3207
+Luxembourg Agency for Development Coordination	12907
 L’ Agence Nationale de Renseignement Financiers	4420
 MALE FEMALE Age	12214
 MANAGEMENT OF THE AGENCY	11464
+MANUAL AGE TO DIGITAL AGE	13251
+MDAs Nodal Agency Quick Win C14	12917
 MIDDLE AGE	940
 MISE EN PLACE D'UNE AGENCE	765
 MOICI Agencies	1000
@@ -1135,16 +1211,19 @@ MOMAG Agent Conference	10249
 MONEY FOR OLD AGE	10977
 MPA Learning Agenda	3604
 MULTILATERAL INVESTMENT GUARANTEE AGENCY COUNTRY PARTNERSHIP	11468
+MW2063 and Agenda	13005
 Madagascar's Agence	7982
 Maintenance Agency for ISO	11269
 Makerere University Korea International Cooperation Agency	2222
 Malawi Agenda	12182
+Malawi Integrated Digital Agenda	12917
 Malawi News Agency	7900
 Malawi US Trade and Development Agency	956
+Mankayane Old Age Home	12977
 Manual for Agents. Cited	12158
 Marital Status and Age Group	12151
 Mauritanian Information Agency	5119
-Mean Age	2775
+Mean Age	2775,10203
 Measurable Target Supporting Responsibil Agencies	1000
 Measurable Target Supporting Responsibil Agency	1000
 Media Rights Agenda	6770,2312,2622
@@ -1154,7 +1233,9 @@ Migration of South African Social Security Agency	2626
 Ministries Department and Agencies	3862
 Ministries Departments and Agencies	11951
 Ministries Departments and Agencies. Signed Henrietta Okokon	11951
-Ministries and Agencies	5444
+Ministries and Agencies	5444,7476,1,2,23,15,12
+Ministries and Agencies OPM Office	12923
+Ministries and Agencies PPP Public Private Partnerships	12973
 Ministry of Agencies	1000
 Ministry of Economy and Finance. Implementing Agencies	12137
 Ministry of Economy and Finance. Implementing Agency	12137
@@ -1162,37 +1243,49 @@ Ministry of Family and Social Inclusion Implementing Agency	11855
 Ministry of Justice Proposed Data Protection Agency	1161
 Ministry of Justicex National ID Agency	10812
 Mkalipi. The Road Traffic Infringement Agency	7755
+Mobile Money Agents	12978
 Mobile Money Agents Association of Ghana	3543
 Mobile Money and Banki Pafupi Agents	12182
 Moderate Agency	11863
 Moderate Agency OF THE OPERATION	11863
+Money Transfer Agencies and Operators	13122
 Monitoring System Installation of Agents for Backup-System	9123
 Moroccan Agency for Investment and Export Development	5772
 Morocco's Digital Development Agency	3272,363
 Morocco's National Telecommunications Regulatory Agency	2673,2301
 Morocco’s National Telecommunications Regulatory Agency	9868
 Mozambique’s Agency for Investment and Export Promotion	8246
-Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935
+Multilateral Investment Guarantee Agency	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1,1378,4874,2174,653,5,935,723
 Multipurpose Health Agents	4260
 Multisector Regulatory Agency	11873
 Multisectoral Economic Regulatory Agency	11891
 Multisectoral Regulatory Agency	3416,8549,79
 Municipal Infrastructure Support Agency	11289
+NAMIBIA STATISTICS AGENCY	12899,132
 NATIONAL CYBERSECURITY AGENCY	11464
+NATIONAL DISASTER MANAGEMENT AGENCY	12977
+NATIONAL DISASTER MANAGEMENT AGENCY The National	12977
 NCCD Agencies	1000
 NIGER AGENCE CONSEIL Décision	998
 NIST AI Agent Standards Initiative	5216
 NITA National Information Technology Agency Figure	582
 NITA The National Information Technology Agency	11052
 NOTICE AND AGENDA	7204
+NSA Namibia Statistics Agency NSFAF Namibia	12923
 NYDA National Youth Development Agency OCIO	11261
 NYDA National Youth Development Agency OPSC	11224
+NamRA org na Namibia Revenue Agency	13044,64
 Name Designation Age Quali	4896
+Name of Agency	13185
 Name of Implementing Agency	9603,1
-Namibia Press Agency	8253
-Namibia Revenue Agency	12363,11,92
+Namibia Dollars Purpose of Commission of Agents	13037
+Namibia Press Agency	8253,4729,62
+Namibia Revenue Agency	12363,11,92,578,64,34,25
+Namibia Revenue Agency Act	12951
+Namibia Revenue Agency EDITORIAL NOTE	13044,64
+Namibia Revenue Agency-NamRA	13044,64
 Namibia Statistical Agency	12399
-Namibia Statistics Agency	1188,2526,4291,249,159,1072,1637,30,1175,10,30,11,21,79
+Namibia Statistics Agency	1188,2526,4291,249,159,1072,1637,30,1175,10,30,11,21,79,421,3,5,16,40,40,28,2,4,81,41
 Namibia Statistics Agency Deputy Chair	12706
 Namibia Statistics Agency NAMIBIA PRODUCER PRICE	11152
 Namibia Statistics Agency Namibia Statistics Agency	11152
@@ -1251,18 +1344,20 @@ National Cybersecurity Agency By Ronald Owili	11675
 National Cybersecurity Agency Order	6787,36,4641
 National Data Agency	4528,644,7340
 National Data Protection Agency	2109,8656,10
-National Development Agenda	1554
+National Development Agenda	1554,11402,16
 National Digital Agency	12674
 National Digital Agency Purpose	12674
 National Digital Certification Agency	2578
+National Digital Government Agenda I4 Revitalize	12917
 National Digital Transformation Agency	12674
 National Digital Transformation Agenda	1271,3702,6781
 National Digital Transition Agenda	6910
-National Disaster Management Agency	1687
+National Disaster Management Agency	1687,11244,46
 National Drugs Law Enforcement Agency	11928
 National Emergency Management Agency	7110
 National Estate and Land Agency	10818
 National Financial Intelligence Agency	6938
+National Food Reserve Agency	13122
 National Frequency Agency of Tunisia	7074
 National Geospatial Development Agency	4214
 National Geospatial Development Agency AI Artificial	4214
@@ -1293,7 +1388,7 @@ National Research Agenda. Foreign Researchers Committee	1554
 National Road Safety Agency	5004
 National Security Agency	1777,741
 National Space Research and Development Agency	1274,1196,2103,6556
-National Statistics Agency	223,12276
+National Statistics Agency	223,12276,408
 National Statistics Agency ZNCC Zimbabwe National	12512
 National Statistics Agency of Côte	10508
 National Telecommunications Regulatory Agency	6312
@@ -1301,6 +1396,7 @@ National Transformation Agenda	9369,595
 National Transport Agency	10852
 National Water Resources Infrastructure Agency	11236
 National Youth Development Agency OHS Occupational	11198
+National and Global Agendas Commitments	13005
 Nationality Age	4896
 Nations Refugee Agency	12138
 Netherlands Enterprise Agency	1063
@@ -1320,6 +1416,10 @@ Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s Digital Transformation Agenda	7234
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
 No. Implementing Agency	11965
+Nodal Agency	12917
+Nodal Agency Annual	12917
+Nodal Agency High Non	12917
+Nodal Agency Quick	12917
 Non-Bank Financial Institutions Regulatory Agency PE	12540
 Northern Integrated Development Agency	12779
 Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
@@ -1327,6 +1427,7 @@ Norwegian Agency for Development Cooperation NRP	12175
 Nossa Agenda Comum	2816,8571
 Notice and Agenda	7204
 Number of Agencies	12395
+Number of Private Employment Agencies	13037
 Number of Registered Mobile Money Agents	6671
 ONU. A AGER	8487
 ONU. La Agenda Digital	975
@@ -1351,6 +1452,8 @@ PT Agenda Previsão	3192
 PUBLISHED BY KENYA SPACE AGENCY	1131
 PYRAMIDE DES AGES A L'ARSEL	10975
 Part of Digital Transformation Agenda	3096
+Partner Government Agencies	13042
+Partner Government Agency	13042
 Partners Development Agency	11916
 Passenger Rail Agency	11551
 Passenger Rail Agency of South Africa	11248,303
@@ -1358,6 +1461,7 @@ Patent And Company Registration Agency	1222
 Patent and Company Registration Agency Ministry of Finance	12454
 Patents and Companies Registration Agency	6187,6295
 Payment Agent. IBRD	11560
+Permanent Secretaries and Heads of Agencies	13005
 Person International Energy Agency International Monetary	11136
 PhantomStealer and Vidar. AgentTesla	9830
 Photos Vidéos Audio Agenda	3675
@@ -1365,6 +1469,7 @@ Photos Vidéos Audios Agenda	3675
 Plan OAP Old Age Pensions OTP	12663
 Plan Portugal Yes Agenda Portugal Digital	11529
 Policy Initiative Spain Yes Agenda Digital	11529
+Policy NAMIBIA STATISTICS AGENCY No	12907
 Population Over Age	10765,10
 Population of Selected Age-groups	12151
 Portal Zambia Development Agency Common Market	12454
@@ -1383,11 +1488,13 @@ President Renewed Hope Agenda	7664
 President Tinubu’s Renewed Hope Agenda	3018
 Primary Registration Agencies	12323
 Primero Cabo Aduanero de Primera Agente de Primera	4209
+Private Employment Agencies	13037
 Privatisation Agency	12598
 Product GIZ German International Development Agency	1814
 Professional Agency	12389
 Profitable Agent Network	10249
 Programmes By Age	12151
+Project Implementing Agency	13017
 Project Korea International Cooperation Agency	1534
 Projected Age Specific Expected Projected Age	12151
 Projected Population of Selected Age-groups	12151
@@ -1409,12 +1516,14 @@ Publics AVI Agent de Vérification Indépendant BAD	10876
 Qualité ARMP Agence de Régulation des Marchés	10975
 Questions IFMIS German Agency for International Cooperation	12500
 RBA Rwanda Broadcasting Agency REMA Rwanda	718
+REGISTRARS AND AGE DETERMINATION COMMITTEE Clause	12959
 REQUETE DECISION FINALE Agence Nationale de Traitement	10821
 RESPONSABLE DE TRAITEMENT Agence Nationale des Transports	10821
 RICYT International Energy Agency UNESCO Institute	12351
 Rack Technology Agency	10861
 Rate ASMR Age Specific Mortality Rate	12151
 Rationalisation of Agencies and Public Expenditure	2757
+Recognition of Nodal Agency	12917
 Reform Agenda	12233
 Reforming Financial Systems for Global Agency	10718
 Regarding African Agency	5242
@@ -1427,6 +1536,7 @@ Registration Agent SDG Sustainable Development Goal	12151
 Registration Agents	12138
 Registration of Tax Agents	12629
 Regulatory Agencies	12210
+Regulatory Agencies CDS Customs Declaration System	13042
 Regulatory Agencies Key	7548
 Regulatory Agencies Office	12210
 Regulatory Agencies and County Focal Points Sector	7548
@@ -1443,6 +1553,7 @@ Renewed Hope Agenda. Today	12004
 Report.pdf. Kenya News Agency	12227
 Republic of Cameroon Implementing Agencies	10963
 Republic of Guinea-Bissau Implementing Agency	11525
+Republic of Malawi Implementing Agencies National	13111
 Republic of Mozambique Implementing Agencies	12832
 Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique. Responsible Agency	12220
@@ -1450,11 +1561,14 @@ Republic of Zambia Implementing Agency	1867,424,1271
 República. Agenda Guinea Ecuatorial	1701
 Research Agenda	226
 Resident Services Agency	12222
+Respondents’ Age	12978
 Response and Resilience IEA International Energy Agency	1867
 Responsibilit Agencies	1000
 Responsibilit Agency	1000
 Retire Age	6432
+Revenue Agency	12951,102
 Revise the National Research Agenda	1000
+Road Agency	12922
 Road Development Agency	5247
 Road Fund Type Implementing Agency Implementing	1228
 Road Infrastructure Development Agency	8296
@@ -1480,13 +1594,14 @@ Rwanda Space Agency Brochure.pdf	1903
 Rwanda's AI Agency	10152
 SA Social Security Agency	6222,4992
 SADC ICT Implementing Agencies Communication Regulators	962
+SADC Integration Agenda Promotion	12921
 SAFE. During the Agentic AI Summit	9027
 SAS Shipping Agencies Services	2135
 SAS Shipping Agencies Services Sàrl	2135,1770
 SASSA South African Social Security Agency	11198
 SCHEDULE AGENCY TAXES	12629
 SCREENGRAB The Digital Health Agency	10331
-SDG Agenda	1388
+SDG Agenda	1388,11558,203
 SDGs and Agenda	1814,9410
 SDGs and New Urban Agenda	11285
 SECURITY AGENCY	2727
@@ -1501,6 +1616,7 @@ SMART Zambia Transformation Agenda	12369
 SPFP Majoritaire Agence Nationale	2342
 SSA State Security Agency PNR Passenger	11986
 SSA State Security Agency Stats SA	11196
+STATISTICS AGENCY	12899
 STILL HAVE AGENCY	7174
 SUBJECT TO PUBLIC INPUT Agencies	11854
 Safety Agency Personal Protective Equipment Zambia	1988
@@ -1522,6 +1638,7 @@ Security Border Agency Integration	12389
 Security Oversight Agency	11806
 Selected Age-group	12151
 Selected Banks Tax Agent Module Release	12491
+Self Services. The Nodal Agency	12917
 Senegal Korea International Cooperation Agency	86,612
 Senegalese Agency for Digital Development	4912
 Senegalese Press Agency	5985
@@ -1543,6 +1660,7 @@ Small and Medium Scale Enterprises Development Agency	12145
 Smart Africa Agenda	10691
 Social Agenda Guinea Ecuatorial	1701
 Social Protection Programmes Booklet Old Age	12373
+Social Security International Atomic Energy Agency	12972
 Soludo’s ICT Agency Wants AI	9936
 Somali National News Agency	2719
 Sources Agency	7548
@@ -1551,7 +1669,7 @@ South Africa's State Information Technology Agency	9776,83
 South Africa's Technology Innovation Agency	10414
 South African Intelligence Agency	11277
 South African National Roads Agency	11248,1620
-South African National Space Agency	3290,3338,4616,4,29
+South African National Space Agency	3290,3338,4616,4,29,1824
 South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11,424,337,32,94
 South African Social Security Agency Act	2307
 South African Social Security Agency and South	10394
@@ -1562,6 +1680,8 @@ Special Agent	11342
 Special Events While Health Agencies Get	10034,231
 Specialized Agencies and Oversight Bodies	4755
 Spending Agencies	12360
+Staff Age Distribution	12969
+Staff Age Distribution Figure	12969
 Standardization Agency Integration	12389
 State Agencies	12293
 State Departments and Agencies	9239
@@ -1582,6 +1702,7 @@ State Security Statistical Agencies Capacitation Regulatory	961
 State Statistical Agencies and Local Government Statistical	11851
 Statistical Agency	3641
 Statistics Agency	1161
+Statistics Agency NSS National Statistics System	12902
 Statistics Agency Zimbabwe National Chamber of Commerce	4528
 Strategy of Digital Agenda	11529
 Strengthening Institutional Capacity The Agency	1131
@@ -1589,7 +1710,7 @@ Substance Abuse Control and Enforcement Agency Bill	8681
 Sudan News Agency	9587,1076
 Sudanese Agency for Relief and Humanitarian Operations	6947
 Super Agent	1290
-Super Agents	6276,422,237,3904,47,1342
+Super Agents	6276,422,237,3904,47,1342,750
 Support Its Transformation Agenda	4132
 Supporting Responsibil Agencies	1000
 Supporting Responsibil Agency	1000
@@ -1652,6 +1773,7 @@ Towards the Digital Age	10765,10
 Towards the Digital Age PRINCIPLES INCLUSION	10765,10
 Trade Area AFD French Development Agency	10841
 Trade Promotion Agencies and Industry Bodies	5247
+Transco Agencies	13042
 Transfer Agency	12182
 Transformation Agenda	10861,1693
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
@@ -1667,15 +1789,15 @@ Técnico da AGER	5557
 U.S. Agency for International Development	5163,2587,2696,1746,309
 U.S. Agency for International Development. The U.S	5165
 U.S. International AI Agenda and Instruments	6790
-U.S. Trade and Development Agency	4830,1960,3561,1006
+U.S. Trade and Development Agency	4830,1960,3561,1006,1580
 UK Age-Appropriate Design Code	6029
 UK’s Age-Appropriate Design Code	7983
-UN Agencies	1814,2714,7025,959
+UN Agencies	1814,2714,7025,959,438
 UN Agencies and International Organizations	1243
 UN Agency for Digital Technologies	11920
-UN Legal Identity Agenda	10591,1560,186
+UN Legal Identity Agenda	10591,1560,186,668
 UN Legal Identity Agenda Task Force	5274
-UN Refugee Agency	4807,5969,1397,54,579
+UN Refugee Agency	4807,5969,1397,54,579,203
 UN Refugees Agency	2324
 UNFINISHED AGENDA	1828
 UNFPA United Nations Family and Population Agency	10829
@@ -1692,12 +1814,14 @@ Under the Renewed Hope Agenda	11126,342
 Under the Renewed Hope Agenda of Mr. President	11954
 Unfinished Agenda	1828
 Union Agenda	582
+United Nations Agencies	12942
 United Nations Family and Population Agency	10829
+United Nations Legal Identity Agenda	13005,143
 United Nations Refugee Agency	4439,7788
 United Nations Refugee Agency UNSDCF	10776
 United Nations Relief and Works Agency for Palestine	10841
 United Nations System Agencies United Nations	11332
-United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11
+United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11,746,37
 United States Agency for International Development Angola	10780
 United States Agency for International Development VfM	10768
 Universal Service Agency GIFEC	8025

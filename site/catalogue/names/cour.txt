@@ -1,3 +1,6 @@
+ACTING JUDGES OF THE HIGH COURT	12920
+ADHOC JUDGES OF THE SUPREME COURT	12920
+AGENCY SERVICES PROVIDED BY LOWER COURTS	12920
 AI-powered Smart Court System	11607
 AI. Courts AI	11607
 AVIAN COURT LIMITED Data Controller INST-53751652AF4	7167
@@ -9,7 +12,7 @@ Across Egypt’s Courts Eng. Raafat Hindi	11641
 Administration TS Supreme Court TVM Mozambique	12201
 Administrative Court	1829
 Administrative Court. PART XI Consequential Amen	972
-African Court	961,11240
+African Court	961,11240,839
 Agricultural Training Courses	2775
 Alexandria Economic Court	4583
 Apex Court and Court Martial	12668
@@ -30,7 +33,9 @@ Blantyre High Court	12174
 Body LESOTHO COURTS DATA CENTRES	12750
 Brazilian Supreme Court's	5366
 CAR’s Special Criminal Court. Minster of State	4127
+CIVIL COURT STATISTICS	12920
 COMMERCIAL INTRA CITY COURIER SERVICES OPERATOR	1223
+COMMUNITY COURTS ACT	13189
 CONSTITUTIONAL COURT RULING The CAR’s Constitutional	4127
 COURIER	6000
 COURIER REVENUE	6000
@@ -41,11 +46,16 @@ COURIER VOLUMES Postal	6000
 COURII APP LIMITED Data Controller INST-7414717F3EC	7167
 COURII APP LIMITED Data Processor INST-7414717F3EC	7167
 COURRIER	10975
+COURT ADDRESSES AND CONTACT DETAILS	12920
+COURT AND APPOINTMNENT OF ASSESSORS	13189
 COURT LITIGATION	12389
 COURT MARTIAL REPORT	12668
+COURT PHYSICAL ADDRESSES Supreme Court	12920
 COURT PROCESS SERVICE SOLUTIONS EAST AFRICA	7167
+COURT STATISTICS	12920
 COURT UPHOLDS JALLOH’S POLICE STATEMENT	10581
 COURTS TO FINE BLOUBERG LOCAL	12046
+CRIMINAL COURT STATISTICS	12920
 CSPS and High Courts	10812
 Cairo Court of Appeal	11641
 Cairo Court of Appeal President	11641
@@ -56,10 +66,11 @@ Chief Registrar Supreme Court of Nigeria	1014
 Chief Resident Magistrate Court Lilongwe Area	12174
 Children's Court	7147,4030,800
 Children's Courts	12668
+Chisenjere Magistrate Court	13040
 Chitipa Magistrate Court	12174
 Clerk of Court	4896
 Collège Catholique Cours de Soutien	10821
-Commercial Court	12668
+Commercial Court	12668,254,34
 Commercial Courts	11906
 Commercial Courts- Implement	11906
 Commercial Domestic Courier Service Licence	1223
@@ -75,7 +86,9 @@ Commercial Regional Courier Service Licence	1223
 Commercial Regional Courier Services Licence	1223
 Commission. Au Cours	4567
 Community Court of Justice	7452
+Community Courts Act	13189
 Competent Courts of First	10979
+Complaints Procedure. Court Statistics	13251
 Compte Courant Postal	10981
 Connecting Courts	1783
 Constitutional Court	17,2290,698,804,304,14,461,834,111,108,231,515,562,806,525,214,794,111,382,311,124,123,199,417,291,740,594,5,34
@@ -101,7 +114,7 @@ Cour des Comptes. Chapitre III	37
 Cour. Article	17
 Courageous	5533,6453
 Courant	2738
-Courier	718,240,265,4777,890,2891
+Courier	718,240,265,4777,890,2891,3261
 Courier Industry Association of Kenya	12149
 Courier Items	6671
 Courier Items Jan-Mar	6671
@@ -126,19 +139,24 @@ Cours Préparatoire	10847
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Cours de Soutien de Cotonou	10821
 Course	10090
+Course Enrollments235 Certificates Completed	13095
 Course Fundamentals of Central Banking Exchange Control	11131
 Course Objectives	12677
+Course Snapshot Duration	13077
 Course Synopsis	12677
 Course Synopsis I. Phishing	12677
 Course and Sex	2775
 Coursera	4197,2551,200,2431,754,2542
-Courses	1264,4406,5161
-Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,38,112,51,70,41,150,18
+Courses	1264,4406,5161,2141
+Courses Available	13095
+Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97,149,133,60,93,49,38,112,51,70,41,150,18,225,5,7,7,16,49,63,13,75
+Court Act	12920
 Court Annexed Mediation and Court Records Management	12543
 Court Cases	9992
 Court Cases Number of Cases Received	11131
 Court Challenge	4258
 Court Dashes Hope of Turaki-led PDP	2355,176,4,1,56,3,339,96,901,1006,1761,673
+Court Fees	12920
 Court GO LIVE Launch	12174
 Court Issue	3005
 Court Locations	12174
@@ -149,11 +167,14 @@ Court Of Justice Clarifies When Courts	6632
 Court Online	8521
 Court Over	7312
 Court Papers Reveal How VID Officials	8639
+Court Proceedings	12951
 Court Records Management System	12543
 Court Records Managements System Putting the Judiciary	12543
 Court Registrar	8849
 Court Regulations	11986
+Court Relations	12920
 Court Savings	12457
+Court Statistics	13251
 Court and Practitioner	3714
 Court of Account and Parliament	969
 Court of Accounts	969,315,2525,3351
@@ -161,6 +182,7 @@ Court of Accounts and Parliament	969
 Court of Accounts’ Execution Control	1284
 Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681,352,70,111,392,25,77
 Court of Appeal Performance	12668
+Court of Appeal of Kenya	13040
 Court of Auditors	3667,7101,768,50
 Court of Cassation	39,10035
 Court of Cassation and Chairman	11641
@@ -170,12 +192,15 @@ Court of First Instance	5902,5060,17
 Court of First Instance Yaoundé	10979
 Court of First Instance.13	10979
 Court of Justice	1807,4615,659,1355,311,26,3,2325
+Court of Law	13053
 Court's and Others	11986
+Court-Connected Mediation	12920
+Court-connected	12920
 Court. DEPARTMENT OF HOME AFFAIRS	11986
 Court. Factual Background	2307
 Court. Issues for Determination	3005
 Courtesy	2686,71,574,322,316,58,839,19,528,245,1370,2,218,258,740,357,71,1790,752
-Courtesy Pic	11626,41
+Courtesy Pic	11626,41,1546,13
 Courtesy Pics	4743
 Courtesy South Sudan	5428
 Courtesy The Directorate of Civil Registry and Immigration	7932
@@ -184,23 +209,26 @@ Courtesy of Ministry of Health Zambia Activists	5162
 Courtesy of National Council for Persons	8795
 Courtesy. An AWS Outpost	5837
 Courtesy. The Central Equatoria State Ministry	8330
-Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79,564,204,844,51,7,1,455,9,43,84,195
+Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79,564,204,844,51,7,1,455,9,43,84,195,309,63
 Courts Act	7845
 Courts Defining the Red Lines	4583
 Courts Mission Mode Project	8978
 Courts Nationwide	5902
 Courts Prosecuting Cat Matlala	3962
 Courts of First Instance	10979
-Courtside Building	1900
+Courts of Law	13053
+Courtside Building	1900,11173
 Courtyard Compound	11129
 Courville	2816
 Criminal Court	10192
 Criminal Court Division	12566
 D.R. La Cour	11049
 DIVORCE REGISTRATION The High Court	12337
+DOMESTIC VIOLENCE COURT	12920
 Delaware Chancery Court	9467
 Delivered Countrywide Couriers	9781
 Description Industrial Court-ICT Development	5644
+Different Courts of Law Table	13053
 Digital Platform Federal Supreme Court Moves	12260
 Digital Supreme Court	8978
 Digitization of Court Processes	12389
@@ -210,9 +238,13 @@ Distribution of Courier Outlets Operator Q3	6000
 District Court	7845
 District Court Officer	7845
 District Court of The Hague	7966,3190
+District Courts	12920
 District Courts of Maganja da Costa and Alto Molocu	12201
 District Land Court	12647
+Divisions DISTRICT Courts	12920
+Divisions REGIONAL Courts	12920
 Dr. Yaouza Ouro-Sama. The Court	11704
+Duncan Mlanjira The High Court	13128
 Dépenses Courantes	4420
 ECOWAS Community Court of Justice	961,8121,2622
 ECOWAS Court	5215,21,1534
@@ -229,17 +261,18 @@ EN COURS NKOLKOUMOU	10975
 EN COURS PAFPE	2966
 EN COURS SENEGAL	10711
 EU Court of Justice	11154
+East African Court of Appeal	13040
 East African Court of Justice	961,2622
 Ecole Formation Cours Autres	737
 Economic Court of Alexandria	3525
 El Obeid Criminal Court	10192
-Electoral Court	6387
+Electoral Court	6387,6518
 Electronic Payment of Court Fees	12389
 English Court of Appeal	8776
 English High Court	7587
 Entwicklung. Courses	178
 Ethiopian High Court. Based	12500
-European Court of Human Rights	10335
+European Court of Human Rights	10335,2705
 European Court of Justice	1243
 Expertise of Courts	12389
 Expertise of Specialized Courts	12389
@@ -254,49 +287,61 @@ Forfeiture The Court	783
 Gaborone Industrial Court	12610
 Gambia Court	5033
 Gauteng High Court	7404,183,168
+Gender Equality Act. This Court	13040
 Gifted Students’ Perceptions of Course Quality	961
 Glance Number of Postal and Courier Licensees Number	6946
 Granada GRENADE COURTNEY	6613
 HIGH COURT	12668
+HIGH COURT OF MALAWI	13040
+HIGH COURT OF NAMIBIA	12920
 HIGH COURT OF SOUTH AFRICA GAUTENG	2307
 HIGH COURT OF UGANDA AT KAMPALA	3005
+HIGH COURT STAFFING	12920
 HM Courts	8978
 Harare Magistrates’ Court	8639
 Haute Cour de Justice	1682
-High Court	11,25,551,1329,650,100,43,17,1,330,526,131,450,419,91,98,3,390,198,170,17,322,51,132,78,98,289,272,4,150,241,78,139,303,162,485,116,9,35,134,142,144,15,21,112,2,315,246,93,151,5,43,376,26,390,277,123,19,16,14,101,412,162,4,119,10,60,128,126,27,10,30,11,145,26,3,10,4,16,9,28,10,18,14,7
-High Court Act	12668
+High Court	11,25,551,1329,650,100,43,17,1,330,526,131,450,419,91,98,3,390,198,170,17,322,51,132,78,98,289,272,4,150,241,78,139,303,162,485,116,9,35,134,142,144,15,21,112,2,315,246,93,151,5,43,376,26,390,277,123,19,16,14,101,412,162,4,119,10,60,128,126,27,10,30,11,145,26,3,10,4,16,9,28,10,18,14,7,224,5,9,6,8,8,31,13,42,26,13,75,123
+High Court Act	12668,252
+High Court Challenges	12912
 High Court Civil Appeal No	3307
 High Court Gauteng Division	11148
+High Court Human Capital Management System	12920
+High Court Interdict	12912
 High Court Judge Emmanuel Baguma	8470
 High Court Judge Gregory Mutai	9645
 High Court Mugure Thande	9645
+High Court PART	13071
 High Court Petition No	3005
 High Court Station	2775
 High Court Strikes Down Cap	12227
 High Court and Court of Appeal	12668
-High Court of Eswatini	11131,3
+High Court for Judicial	12898
+High Court of Eswatini	11131,3,1828
 High Court of Ghana	8174
 High Court of Justice	9064
-High Court of Kenya	9856,457,509,1317
+High Court of Kenya	9856,457,509,1317,901
 High Court of Kenya.12 Data	12139
 High Court of Kenya.78	12227
 High Court of Lesotho	12650
-High Court of Malawi	12174
-High Court of Namibia	3714,5392,3294
+High Court of Malawi	12174,866
+High Court of Namibia	3714,5392,3294,505,15,31
 High Court of Pointe-Noire	3961
 High Court of Sierra Leone and Head	7777
 High Court of South Africa	11181,619
 High Court of South Africa Gauteng Division	2307
 High Court of The Gambia	1474
 High Court of Uganda	3572
+High Court of Zambia	13040
 High Court of Zanzibar	3115
 High Court. Africa CDC	5456
 High Court. Appeals	11
 High Court. Codes	3887
+High Court. Court Statistics	13251
 High Court.15 Failure	10979
 High Court.So	7777
 High Courts	5533,854,3507,2092,77
 High Courts Vital	12327
+High- and Magistrates Courts	12920
 House. Court	10313
 Hybrid Court	3583
 Hybrid Court and Truth Commission	3583
@@ -315,12 +360,15 @@ Improve Brand Courier Service Youth	6946
 Indian Supreme Court	8776
 Industrial Court	1660,1,1,1,1,1,1,1,1,1,5,1,1100,2869,5490,1476
 Industrial Court Deploys New Strategy	12610
-Industrial Court of Appeal	11134
+Industrial Court Notice	12930
+Industrial Court of Appeal	11134,1788
 Industrial Court of Appeal. Okavango West MP	12610
 Industrial Court-ICT Development	5644
 Industrial Court. Presenting the Industrial Court	12610
+Industrial Relations Court	13053
 Industry MOOC Massive Open Online Course	4126
 Infrastructure Course	11007
+Inter-American Court of Human Rights	13040
 Intercity Courier Towers Traffic	9781
 Intermediate Court	783
 International Courier	718
@@ -332,12 +380,16 @@ International Criminal Court	3583,2894,40
 Inwi. The Commercial Court of Rabat	2673
 Items Domestic Delivered Countrywide Couriers	9781
 Items Inter-City Delivered Countrywide Couriers	9781
+JUDGES OF THE HIGH COURT	12920
+JUDGES OF THE SUPREME COURT	12920
 JUSTICE BUSINESS AND PROPERTY COURTS	1829
 Jide Oyekunle. The Court	11704
 Johannesburg Court	9968
 Journalist The Western Cape High Court	8280
 Juba County Court	3046
 Juba High Court	3046
+Judges of The High Court	12955
+Judges of The Industrial Court	12955
 Judicial Commissioner's Court	12668
 Judicial Commissioners Court	12668
 Judiciary’s Electronic Court Case Management System	8470
@@ -348,8 +400,10 @@ Kenya's High Court	5203,4535
 Kenyan Court	3583
 Kenyan Court Ruling	9399
 Kenyan High Court	4583,2209,1687,3660
+Kenyan High Courts	13040
 Kenya’s High Court	5163,293,94
 Kiplagat S. Court	7187
+LABOURT COURT	12920
 LIKE Legal Business Court of Appeal	9750
 LPF. Court	12338
 La Cour	17,1559,5166,6144
@@ -357,24 +411,29 @@ Labour Court	7587,3693,1388
 Labour Courts and Masters' Offices	9894
 Lagos. Beside High Court	11654
 Land Court	12647
+Learner Course Registrations	13095
 Legal Litmus Tests In the High Court	11148
 Libya's Audit Bureau and Tunisia's Court of Auditors	10002
 Lilongwe High Court	12174
 Lilongwe High Court Civil Division	12174
 Lilongwe High Court Premises	12174
 London Court of International Arbitration	2512
+Lower Courts	12920
 Luno and The Courier Guy	9008
+MAGISTRATES COURTS	12920
 MILLION Domestic Courier Traffic Ms	9781
 MSMEs ONLINE COURSE BOOKLET A Digital	11017
-Magistrate Court	11129,1198,324
-Magistrate Courts	12327
+Magistrate Court	11129,1198,324,277,125
+Magistrate Courts	12327,650
 Magistrate's Court	11628
 Magistrates Court	11628,739
 Magistrates' Courts	9894
 Magistrates’ Courts Act	11181,9
+Maintenance and Children’s Court	12920
 Major MSc Computer Science Short Courses	12361
 Makindye Standards and Utilities Court	4235
 Makindye-based Standard Utilities and Wildlife Court	9781
+Malawi Supreme Court of Appeal	13040
 Manyu High Court	2319
 Marchés de Services Courants Ils	10876
 Maseru Magistrate Court	12668
@@ -382,6 +441,7 @@ Maseru Magistrates Court	11628
 Maun High Court Division President	12582
 Maun Industrial Court. Debating	12610
 Media and Information Literacy Online Course	1814
+Microsoft CISCO LinkedIn GSMA Course	13095
 Milimani High Court	5493
 Military Court	10701
 Ministry of ICT Postal and Courier Services	4528
@@ -392,7 +452,9 @@ Moot Court	11220,21
 Mozambique Court Rejects Decree Allowing Internet	8610,233
 Mozambique's Constitutional Court	9288
 Msambweni Law Courts	6946
+NOTICE TO COMPLY WITH COURT ORDER	12924
 NRM Museveni High Court Uganda Judiciary	3955,220,433,224,1245
+NUMBER OF COURSES BY PROVIDER INCREASING	13095
 Nairobi High Court	2447,9853
 Name of Officer of District Court Signature of Officer	7845
 National Industrial Court	8978,3085
@@ -409,15 +471,23 @@ OFFICER OF DISTRICT COURT Date	7845
 ONLINE COURSE BOOKLET Women ICT Frontier	11017
 ONLINE COURSE Bring	11017
 ONLINE COURSE Ecommerce Training Toolkit Mastercard	11017
+OVERVIEW OF THE HIGH COURT	12920
+OVERVIEW OF THE SUPREME COURT	12920
+Official Court Interpreter JUDGMENT	13040
+Official Court Interpreter URL	13040
 Once the Court	9809
 Online Course MOH Ministry of Health NAIO	1204
 Online Courts	8978
 Operability of Courts	12389
 Operational Efficiency of Court Processes	12389
+Opposing the Court Applications	12912
 Organizational Structure of Courts	12389
+Oshakati DISTRICT Courts	12920
+Oshakati REGIONAL Courts	12920
 Oslo Diploma Course	10752
 Others1 IN THE HIGH COURT	1829
 Outgoing Domestic Courier Item	6946
+Ovambanderu Community Court	13189
 PART B IN THE DISTRICT COURT	7845
 PAYS INITIATIVES EN COURS BÉNIN	10711
 POINTS Courier	11129
@@ -431,7 +501,7 @@ Post and Courier Sector	9781
 Postal And Courier Services	958
 Postal And Courier Universal Connectivity Services	12395
 Postal Courier	6946
-Postal and Courier	958,5042,946,5449
+Postal and Courier	958,5042,946,5449,576
 Postal and Courier Compliance	6946
 Postal and Courier Density	6000
 Postal and Courier Density Sector Outlets Q3	6000
@@ -460,6 +530,7 @@ Postal and Courier Volumes	6000
 Postal and Courier Volumes Q3	6000
 Postal and Courier Volumes Service Category Q3	6000
 Powers of Court	3714
+Presidential Court	12983
 Pretoria High Court	5323,2432,155
 Pretoria High Court Judge Narandran Kollapen	10955
 Private Courier Outlets	6946
@@ -471,12 +542,15 @@ ProponAI European Court of Auditors Refreshworks Fastweb	8530
 Provide Out of Court Compensation for Losses	12389
 Quality of Service for Postal and Courier Services	1209
 RELEVANT COURT RULINGS	11261
+RESIDUAL COURT	12920
 Ramaphosa and Boutbig Chart New Course	8015
 Re-opening of Maseru Magistrate Court Extension	12668
 Recettes Courantes	4420
 Regional Courier License	718
+Regional Court	12920
 Regional Courts of Accounts	3809
 Register for Free Online Courses	12375,6
+Registered. Courses	13078
 Registre du Courrier Enregistrement	10975
 Relevant Court Rulings	11986
 Reliability of Courts	12389
@@ -489,14 +563,19 @@ Rules of Court	2307
 SCA Supreme Court of Appeal SCM Supply	11198
 SCREENGRAB The High Court	9646
 SUPREME COURT OF MAURITIUS	1919
+SUPREME COURT OF NAMIBIA	12920
+SUPREME COURT STATISTICS	12920
 Senior Management Course	12323
 Service du Courrier	10975
 Sharia Court	12226
 Sharia and Customary Courts of Appeal	12063
+Short-term Accounts and Finance Courses	12972
+Short-term General Management and Administrative Courses	12972
+Short-term Occupational Health and Safety Courses	12972
 Should the Constitutional Court	5533
 Small Claims Court	12668
 Small Claims Court Act	12543
-Small Claims Courts	9546
+Small Claims Courts	9546,3410
 Smart Court	3622,7985
 Smart Court System	11607
 South Africa Court	6472
@@ -514,22 +593,25 @@ Superior Court	11
 Superior Court of Judicature	587
 Superior Courts Act	11190
 Supervisory Development Management Course	6946
-Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332
+Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073,871,77,138,135,332,252,2,33,4,81,13
+Supreme Court Act	12920
 Supreme Court Building	9546
 Supreme Court Govt	5343
-Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616,226,479
+Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616,226,479,1380
 Supreme Court of Appeal. GCG	9889
 Supreme Court of Appeal. Legal	10339
 Supreme Court of India	7587,1812
 Supreme Court of Kenya	6946,2600
 Supreme Court of Kenya Hon. Justice Martha	9546
 Supreme Court of Mauritius	7845
+Supreme Court of Nepal	13040
 Supreme Court of Nigeria	8978,2978
 Supreme Court of Oromia	11607
 Supreme Court. Cooperation	1333
 Supreme Court. Justice Zannah	12063
 Supreme Court’s Electronic Diary System	8978
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
+TRENDS COURSE REGISTRATION BY SEX POSTER	13095
 Technology for Development Course	11017
 Telegram Copy URL Supreme Court President	12260
 Thyolo Magistrate Court	12174
@@ -552,8 +634,13 @@ Utilities and Wildlife Court	7771,2792
 WALES KING'S BENCH DIVISION COMMERCIAL COURT	1829
 Wairagala Wakabi and Dr Tony Roberts. Court	5508
 Wakiso High Court Open Day Forgery	5731
+West African Court of Appeal	13040
 Western Cape High Court	8280,3706
+Windhoek Central DISTRICT Courts	12920
+Windhoek Central REGIONAL Courts	12920
+Windhoek Magistrate’s Court	12920
 World Outbound Courier Traffic	9781
+YEAR ROLL OF THE SUPREME COURT	12920
 Zimbabwean Constitutional Court	1037
 Zimbabwe’s Supreme Court	225
 Zomba High Court	12174

@@ -3,6 +3,7 @@ A21 Principe Saudi Arabia Automated	10714
 A2Z AUTOGLASS LIMITED Data Controller INST-444100E41C1	7167
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
+ABIS Automated Biometric Identification System AfCFTA	13080
 ACE AUTOCENTRE LTD Data Controller INST-886967D7352	7167
 ACH Automated Clearing Houses AfCFTA African	1264
 AI Artificial Intelligence ASN Autonomous System	12427
@@ -13,6 +14,7 @@ ARN A Autoridade Reguladora Nacional	11531
 ARN-TIC Autoridade Reguladora Nacional	11552
 ARN. CAPÍTULO IV AUTORIZAÇÃO GERAL ARTIGO	11520
 ASYCUDA Automated System for Customs Data AWP	969
+ASYPM The Automated System for Performance Measurement	13042
 AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
 AUTO PARKING SYSTEMS LIMITED Data Controller	7167
@@ -46,9 +48,12 @@ Achas Autorizo	11569
 Acronyms ABIS Automated Biometric Identification System	12241
 Actividades Autorizadas	11438
 Administrador da Autoridade Reguladora	4274
+Affairs and Immigration NAFIS Namibia Automatic Fingerprint	12947
 Africa and Madagascar AWS Automatic Weather Station	11553
 Africell. Automatic	11960
 Apparel Automobiles	4972
+Application Programming Interface ASYCUDA Automated System	13042
+Area ASYCUDA Automated System for Customs Data	12951
 Artificial Intelligence and Job Automation	6948
 Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
 Assunto Autoriza	11457
@@ -72,6 +77,7 @@ Auto-assessment	8670
 Auto-assignment	12211
 Auto-generate REST	6423
 Auto-generated	2674
+Auto-populates	13037
 Auto-regulação	2816
 Auto-regulação da Indústria	2816
 Auto-saisines Dans	8891
@@ -94,11 +100,13 @@ Autogas Dispensing Station	12256
 Autogirl	7798
 Automate	8817,1904,1219
 Automate Spectrum	5245
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102
+Automate the Postal Clearance	13108
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83
 Automated Biometric	11986
 Automated Biometric Identification	11986
-Automated Biometric Identification System	2073,1342,2118
+Automated Biometric Identification System	2073,1342,2118,7472
 Automated Biometric Identification System ACSA Airports	5533
+Automated Biometric Identification System ADR Assistant	13005
 Automated Clearing House	2358,1299,22,26,8005,576,78
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
@@ -120,6 +128,7 @@ Automated Fingerprints Identification System	12165
 Automated Incident Response	11231
 Automated Indicator Reporting	4153
 Automated Individual Decision Making	12185
+Automated Inspection for Second-Hand Vehicle Imports	13042
 Automated Instant Fines Enforcement	11774
 Automated Interbank Clearing System	10845
 Automated L1	11209
@@ -137,7 +146,11 @@ Automated Public Counters	6946
 Automated Records Management Systems	12325
 Automated Spectrum Management System	5390
 Automated Switched Optical Network	6691
-Automated System for Customs Data	969,8976,2441
+Automated System for Customs Data	969,8976,2441,570,86,11
+Automated System for Customs Data ASYCUDAWorld	13042
+Automated System for Customs Data BMS	13053
+Automated System for Customs Data Why ASYPM	13042
+Automated System for Relief Emergency Consignments	13042
 Automated Teller Machine	6462,1447,3225,904
 Automated Teller Machine Coronavirus Disease Digital	940
 Automated Teller Machines	6774,3387,1794,83,193
@@ -164,6 +177,8 @@ Automatic Meter Reading	8428
 Automatic Number Plate Recognition	10603
 Automatic Payment	11955
 Automatic Payment Terminals	11955
+Automatic Price Mechanism	13060
+Automatic Pricing Mechanism	13122
 Automatic Processing of Personal Data	8776
 Automatic Stay of Proceedings	12389
 Automatic Synoptic Weather Stations	12728
@@ -176,20 +191,23 @@ Automaticmapping	8606
 Automating	8436,409,392,1919,750,327,136
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
 Automation NV. Built	3576
+Automation Regional Support Centre CBRA Cross-Border	13042
 Automation and Administrative Development	7203
 Automation and Control	9123
 Automation and New Tasks	11140
 Automation and Response	5677
 Automation and Work. National Bureau of Economic Research	11265
 Automation and Workforce	226
+Automation of AEO	13053
 Automation of CRS	12151
 Automation of County Own Source Revenue	9939
 Automation of Labour Administration Function	12597
+Automation of Matching	13037
 Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
 Automation of Smart Invoice	12420
@@ -208,7 +226,7 @@ Automação de Escritório	11371
 Automação de Processos	11435
 Automne	7655
 Automobile Registration Information System	11939
-Automotive	736,3588
+Automotive	736,3588,8625
 Automotive Gas Oil	12256
 AutomotiveRamaphosa	7253
 Automóvel de São Vicente	5476
@@ -241,7 +259,7 @@ Autonomous System	7548
 Autonomous System Numbers	3503
 Autonomous Systems	762
 Autonomous Weapons Systems	2816
-Autonomy	3787,4496,815,248,1380,430
+Autonomy	3787,4496,815,248,1380,430,1761
 Autonomy Human-out-of-the-loop	10726
 Autonomy Preference Index	8283
 Autonomy and Accountability	8283
@@ -547,9 +565,11 @@ INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 IV.3.1.2 Automatisation	10711
 Improving Substations System Automation and Security	12358
 Informational Autonomy	11956
+Integration Platform ASYPM Automated System for Performance	13042
 Intelligent Hyper Automation	8974,392
 Internet da Autoridade Reguladora	2866
 Introduction of Autofill	12041
+Introduction of E-Query and Automated Shift Management	13053
 Judiciary Automation Project	6946
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kenya Verbal Autopsy Standards	10822
@@ -559,6 +579,7 @@ La Décision des Autorités	10711
 La Haute Autorité	11580
 La Haute Autorité de Protection des Données	3356
 La Haute Autorité des Médias	8772
+Launch of Vital Statistics and Verbal Autopsy	13095
 Le Revenu Maximum Autorisé	10975
 Le Réseau Africain des Autorités de Protection des Données	10821
 Legal Personality and Autonomy	3861
@@ -571,6 +592,7 @@ MINISTRE AUTORITE DE REGULATION DES COMMUNICATIONS	998
 MOGO Auto Limited	10313
 MOGO Auto Limited. Article	10313
 Maisha Digital ID Automation	12165
+Malawi PROJECT DONORS Contents ABIS Automated	13095
 Mali's Autorite de Protection des Donnees	4177
 Mauritius Automated Clearing and Settlement System	6938
 Mauritius Central Automated Switch	1386
@@ -610,6 +632,7 @@ PRÉ-REQUIS POUR UNE AUTONOMISATION	10711
 Pas Trop Trop Autom Pas de Peur	737
 Pedido de Autorização	10755
 Personal Autoridad Aeronáutica	4209
+Pilot Verbal Autopsy The IDT4M	13095
 Plan Nacional de Cajeros Automáticos	2927
 Pleno Senador Autoridad Judicial Militar Diputado	4209
 Plus Hautes Autorités	1967,2835
@@ -673,6 +696,7 @@ Sovereignty and Strategic Autonomy Policy Objective	7548
 Sovereignty and Strategic Autonomy Policy Statement	7548
 Standard for Automatic Exchange of Financial Information	11233
 Strategic Autonomy	4430
+Streamlining Humanitarian Operations Through Automation	13042
 Subject Contract Duration Automatic Renewal Service	5676
 Sustainability and Autonomy Closely	6947
 Swaziland Automated Electronic Clear-	6938
@@ -684,6 +708,7 @@ Système de Transfert Automatisé	7283,3639
 Système des Gros Montants Automatisé	10724
 Sénégal Automatisation des Consolidation	10711
 TLP-White. Autor	2784
+TWG Automated Meter Reading Average Service	12969
 Tanzania Automated Clearing House	5977
 Terminais de Caixa Automático	8493
 Terminais de Pagamento Automático	8493,1008,1937
@@ -691,6 +716,7 @@ Terminais de Pagamento Automáticos	11403
 Terminal de Pagamento Automático	6462,4976
 Test Automation	5665,6287
 Test Automation Requirement	11952
+Times of Crisis Automated System for Customs Data	13042
 Trade and Development VAR Vector Auto-Regression VAT	236
 Unlawful Automated Processing of PD	11956
 Update of Company Information Fully Automated	12389
@@ -698,7 +724,9 @@ VA Verbal Autopsy	12413
 VAR Autorégression	7655
 Valuation Automated	12211
 Variações Auto	2816
-Verbal Autopsy	12151,187,75,58
+Verbal Autopsy	12151,187,75,58,534,90
+Verbal Autopsy Pilot	13244
+Verbal Autopsy Report	13095
 Verbal Autopsy Task Force	12338
 Verbal Autopsy VS	12338
 WAEMU Automated Interbank Clearing System	10853

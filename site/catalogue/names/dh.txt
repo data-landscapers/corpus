@@ -4,6 +4,7 @@ ABU DHABI MAR INVESTMENTS LLC	1829
 ABU DHABY	4209
 ACI-2016-11-RA-0196 Dhayne	8606
 Abbreviations ANC Antenatal Care DHIS District	771
+Abhu Dhabi	13122
 Abidjan and Abu Dhabi. Through	3280
 Abu Dhab	6231
 Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587,534,542
@@ -190,7 +191,7 @@ DHIS District Health Information System	2775
 DHIS District Health Information System USAID	766
 DHIS and MAGPI	10919
 DHIS-2	1212,2990,147
-DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109
+DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7,296,20,58,12,14,7,34,15,9,80,55,2,16,32,9,113,40,5,89,121,106,12,13,109,182,76,2,22,15,3,33
 DHIS2 API	12754
 DHIS2 Aceda	11454
 DHIS2 Android	11912
@@ -199,7 +200,7 @@ DHIS2 Android Capture. Main	1018
 DHIS2 Angola	11454
 DHIS2 Annual Conference	11589,1152
 DHIS2 Capture	11970
-DHIS2 Climate	11589
+DHIS2 Climate	11589,1532
 DHIS2 Climate App	11589
 DHIS2 Contributing Partner	6153
 DHIS2 Contributing Partners	6153
@@ -223,6 +224,7 @@ DHIS2 Remark	4349
 DHIS2 SDG	6048
 DHIS2 Shared Services Fee	6153
 DHIS2 Technical Working Group	10928
+DHIS2 The Ministry of Health	13121
 DHIS2 Tracker	977,2408,7534,670,1165
 DHIS2 Training and Implementation	6048
 DHIS2 User Story	12408
@@ -235,11 +237,11 @@ DHIS2 and REC-Maternity	10881
 DHIS2 and SOFIA	12196
 DHIS2 and VigiFlow	12623
 DHIS2 for Climate	11589
-DHIS2 for Education	1947,2882,1219,979,5153,167
+DHIS2 for Education	1947,2882,1219,979,5153,167,609
 DHIS2-	10780
 DHIS2-Ed	4829
-DHIS2-based	2678,4349,4569,374
-DHIS2-based EMIS	11970
+DHIS2-based	2678,4349,4569,374,1075,115
+DHIS2-based EMIS	11970,1075
 DHIS2-based SIGE	1959
 DHIS2-certified	7921
 DHIS2-integrated	4430
@@ -277,7 +279,9 @@ DHMIS SOPs	396
 DHMTs	12240,514
 DHO COVID-19	12253
 DHRM and Ministry of Local Government	12175
-DHRMD	12241
+DHRMD	12241,676,63,142
+DHRMD C10 Explore	12917
+DHRMD. Meaningful	12917
 DHS Analysis Figure	12006
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DHS Demographic and Health Survey	12367
@@ -299,6 +303,7 @@ Delivery of DHA	11986
 Department of Employment and Labour DHET	6832
 Department of Home Affairs The DHA	5533
 Develop the DHA Litigation Strategy	11986
+Development Bank of Namibia DHS Demographic and Health	12923
 Dh100m	168
 Dh100m Maroc Numeric Fund. Cloud	168
 Dh5.2bn	168
@@ -317,6 +322,7 @@ Dhanka	9583
 Dhaou	1248
 Dhaqaalaha Soomaaliya	11136
 Dharam Gokhool	5786
+Dharm Singh Jat	12926
 Dharwad	5682
 Dhawan	12227,70
 Dhawan and Zollmann	12227
@@ -342,6 +348,7 @@ Dhushyanth Raju Task Team Leaders	10964
 Director-General of DHA	2681
 Disabilities Mainstreaming The DHA	5533
 Disability. The DHA	11986
+District Health Information System DHRMD Department	12917
 District Health Office DHIS2 District Health	3791
 Doroh Mr. E. Dhenhere Dr	1554
 Dr. Dhirane Amritlal Shah Data Processor	7167
@@ -375,6 +382,7 @@ Implementation of DHA GBVF	11986
 Implementation of DHA GBVF DHA GBVF Plan	11986
 Implementation of DHA GBVF Plan	11986
 Implementing the DHA Counter Corruption Strategy	5533,6453
+Incident Response Team DGS DGS DHIS	12917
 Industrial Research Africa DHIF Digital Health	396
 Information System DHMT District Health Management	3791
 Information System DHRA Directorate of Human Resources	34
@@ -383,6 +391,7 @@ Junior Minister of Finance Dhaneshwar Damry	7335
 Keeps DHIS2	6153
 Khairunissa Dhala	12227
 Kulani Dhumazi	8784
+Lakshmi Dhikta	13040
 Land Reform and Rural Development The DHA	11986
 Landmark Dhawan	12297
 Lassaad Ben Dhiab	4650,13,348
@@ -404,6 +413,7 @@ MISSION The DHA	5533
 MOH and DHA	12255
 MTN and DHL	9720
 Malawi's DHIS1	12242
+Malawi's DHIS2-based	13121
 Malika Dhif	965,3924,206
 Management and Workforce The DHIS2	1824
 Manya A. Dhis2	766
@@ -441,6 +451,7 @@ Pilot DHS1	1261
 Plan DHA GBVF Plan DHA GBVF	11986
 Platforma DHIS2	10780
 Prevention DH District Hospital	12379
+Prince Mshishimba A.S. Dlamini. Dhlamini	13124
 Public Service and DHA Disability Policy Frameworks	11986
 Q1 Q2 Q3 Q4 Approved DHA	5533
 Q1 Q2 Q3 Q4 DHA GBVF	11986
@@ -486,6 +497,7 @@ TECHNOLOGY CONFERENCE IN ABU DHABI	4827
 TVET Modernisation DHET	6832
 Thon Dhiei Ngor	4042
 Through the DHA	5533
+Through the DHIS2-based EMIS	13045
 Tracker DHIS2	12754
 Trade and Investment Abu Dhabi	12026
 UDPRSDtVGHVGH DHVWDSDUWH	11527

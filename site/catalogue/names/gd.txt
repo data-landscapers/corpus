@@ -19,7 +19,7 @@ B5-Cluster GDP	7548
 Backbone GDP Gross Domestic Product GSM	11857
 Banco Mundial GdA Governo de Angola GFP	11390
 Benin’s GDP	10887
-Boost GDP	3636
+Boost GDP	3636,9384
 Botswana. Real GDP	12551
 CAR GDP	10829
 Cabo Verde GDP	11863
@@ -39,6 +39,7 @@ DPI. GDN	10852
 DRC GDP	3515
 DRC’s GDP	4826
 Dar I GDwritIirGa	1154
+Debt-to GDP	12956
 Description The GDD Visibility Tech Sprint	2203
 Despite GDP	12669
 Development Office GDP Gross Domestic Product	12006
@@ -59,6 +60,7 @@ Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Empowerment Programme Financial Technology FX GDP	11134
 Equatorial Guinea’s GDP	10841
 Est Agriculture Industry Services GDP GDP	11271
+Eswatini’s GDP. Seventy-four	13123
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
 European Union’s GDPR	5242
@@ -70,6 +72,8 @@ Finance Infrastructure Indicator GDP	5247
 Financial Access and GDP Per Capita	1828
 Financial Management Information System GDP Gross	11271
 Find Your GDT Address	12745
+Fiscalised GDP	13122
+Flexible Anti-Smuggling Team GDP	13053
 Food Import Real GDP	1828
 Framework EU European Union GDP Gross	6539
 GBV GDP GoM GovNet GRADE GREPOC	1228
@@ -85,6 +89,8 @@ GD-183-7174 Mob	3386
 GDA Data Assessment Framework	1161
 GDAP PCU Coordinator	6277
 GDAZAfQIPrAArorBW	6423
+GDC Global Digital Compact GWAN Government	13005
+GDC and DPGA	13005
 GDC and WSIS	7242
 GDC-submission 5Rights.pdf. Google Scholar Ryan	11028
 GDC-submission AARP.pdf. Google Scholar Ação Educativa	11028
@@ -95,6 +101,7 @@ GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
 GDC-submission-BSM-Academy.pdf. Google Scholar Cammaerts	11028
 GDC. All	11028
 GDC. Theoretically	11028
+GDC25	13080,15
 GDD Visibility Tech Sprint and Prototype	2203
 GDDS National Summary Data Page	11558
 GDF-KSEC	6729
@@ -106,6 +113,7 @@ GDN’s Coordination and Technical Backstopping Throughout	10852
 GDN’s DPI	10852
 GDN’s Four Gear Approach	10852
 GDN’s ITERATION ARE CRUCIAL	10852
+GDP AT CONSTANT	13060
 GDP Citable	11884,321
 GDP Contribution of Target Sectors	4528,7984
 GDP Creative	11884,321,146
@@ -126,6 +134,7 @@ GDP Graduates	11885
 GDP Gross	11380,505
 GDP Gross Domestic Product	11965,821
 GDP Gross Domestic Product GEF Global	7548
+GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Grows	8466
 GDP Growth	8126,3797,268
@@ -149,12 +158,14 @@ GDP Population	10837,1052,265,186,1
 GDP Production	11884
 GDP QS	10969,915,321,146
 GDP RI6	10779
+GDP Ratio	12951,102
 GDP Real GDP	3184,1,1340,6470
 GDP Signal Strong High and Acceptable Moderate	11134
 GDP Transport	5245
 GDP US	12500
 GDP Unicorn	10969
 GDP Unit	12321
+GDP VAT	12948
 GDP VC	11884
 GDP Weaknesses	11895,264
 GDP Weaknesses Rank Code	11884
@@ -166,6 +177,7 @@ GDP and Inequality Adaptation	1828
 GDP and KSH	1923
 GDP of Africa	2865
 GDP of Cabo Verde	11863
+GDP of Eswatini	13052
 GDP of Germany	999
 GDP of Ghana	236
 GDP of Sub-Saharan Africa	2775,8420
@@ -198,6 +210,7 @@ GDP. Job	12669
 GDP. Lesotho	12663
 GDP. Masiyiwa	3596
 GDP. Morocco	7655
+GDP. Note	12948
 GDP. Over	11907
 GDP. Participation	6938
 GDP. Population	11887,1
@@ -224,13 +237,17 @@ GDP. The World Bank	2374
 GDP. Though ICT GVA	236
 GDP. UNECA	10819
 GDP. Where GDP	236
+GDP. Whilst	13123
 GDP. Within	8046
 GDP. Yet Africa	10138
 GDP.10	11924
+GDP.11	12948
+GDP.3 Note	12948
 GDP.31 About	10768
 GDP.4 Remittances	11960
 GDP.51	10856
 GDP.52 Constant	10856
+GDP.7	12948
 GDP12	11994
 GDP92	3604
 GDPHQWH D UHVLGrQFLD VXSHULRU D YLQWH	11530
@@ -313,6 +330,7 @@ Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
 Investigation GDP Gross Domestic Product GNI	10765,10
 Investment FX Foreign Exchange GDP Gross	10781,80,1566
+Kangaude GD	13040
 Kaonde.17 GDP	12376
 Kenya GDP	11994
 Kenya's GDP	7989,4221
@@ -324,10 +342,12 @@ Log of GDP	1828,9321
 Low GDP	11916
 M GDP	10822
 Malawi's GDP	12176
+Malawi’s GDP	13095
 Managed GDC Providers	4434
 Measure GDP GDP	10759
 Measure Value Rank Unit GDP	10837,1503
 Medium-term GDP	11131
+Mid-Year Budget Statement. Real GDP	13122
 Miscellaneous GDP	11524
 Mozambique's GDP	761
 Namibia GDP	12355
@@ -336,6 +356,7 @@ Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
 Nominal GDP	2775,8361,1364
 Nominal GDP USD	5247
+Nominal GDP of K31.5	13122
 Non-Oil GDP	1828
 O GdM	12142
 Open Source Report.pdf GDPR.EU	1243
@@ -377,6 +398,7 @@ South Africa’s GDP	12362
 South Sudan's GDP	7749
 Stats SA’s GDP	7751
 Strong GDP	5655
+Strong GDP Growth Performance	13123
 Sub-Saharan Africa’s GDP	5247,575
 System G2P Government-to-Person GB Gigabyte GDP	969
 System GDP Gross Domestic Product GEMS	10829
@@ -392,6 +414,7 @@ USD GDP	11572,689
 Under the GDPR	7081,1355,1551
 Union FDI Foreign Direct Investment GDPR	12675
 Union GDP Financial Management GHG Global	3604
+Union GDP Gross Domestic Product ICT	12951
 Unit GDP	11889,452
 Univ. Manchester GDI	226
 Unlike the EU GDPR	4951

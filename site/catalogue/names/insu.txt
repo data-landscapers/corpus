@@ -120,7 +120,7 @@ Financial Intelligence Unit Nigerian Deposit Insurance	6938
 Financial Services and Insurance	1940,5795
 Financial Services and Insurance Mozambique	7734,269,67,4779
 Financial and Insurance	6946
-Financial and Insurance Activities	2775
+Financial and Insurance Activities	2775,10278
 Formal Sector Social Health Insurance Programme	12004
 Funds Insurance Companies Fund of Funds Sovereign	4972
 G10 Adoption of OCR Insurers	9237
@@ -157,13 +157,14 @@ Inclusive Climate Insurance RSF	11469
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
 Insufficient Inadequate Reduced	12241
 Insufficient Lack of Inefficient	12241
 Insufficient Local Generation	12399
+Insufficient MDAs	13080
 Insufficient Management Systems	12214
 Insufficient Resources	4439
 Insufficiently	766,11150
@@ -184,8 +185,8 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97
-Insurance Act	6938,4317,1393
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132
+Insurance Act	6938,4317,1393,412
 Insurance Activity Supervisory Body	6938
 Insurance Companies	11255
 Insurance Control Department	6938
@@ -212,6 +213,7 @@ Insurance Strand	418
 Insurance Strand Without	12460
 Insurance Supervision Commission Secretary General	6938
 Insurance Supply Trade Storage	2775
+Insurance The Consultant	13031,6
 Insurance The M-PESA	11994
 Insurance and Actuarial Matters	9571
 Insurance and Assurance	940
@@ -251,6 +253,7 @@ MIGA Expands Insurance Support	11310
 Microfinance Supervisory Authority CEO Insurance Regulatory	6938
 Morocco's InsurTech	5921
 Motor Third Party Insurance	7591
+Motor Vehicle Insurance Accident Levy	13122
 NFO's Non-life Insurance Division	9675
 NHI National Health Insurance BAS Basic	396
 NHIA National Health Insurance Authority DPIA	6936
@@ -334,11 +337,12 @@ Tanzania Insurance Regulatory Authority	11133
 Tarik Dadi Combats Health Insurance Fraud	2269,19,59,9,173,4,11,6,12,38,10,6,3,57,4,664,278,96,687,933,332,433,355,605,327
 Trans-African Insurance Co Ltd	2307
 UHI Universal Health Insurance UNICEF United	11133
+Unemployment Benefit Insurance Fund	13123
 Unemployment Insurance	12389
 Unemployment Insurance Act	11280
 Unemployment Insurance Contributions Act	11181
 Unemployment Insurance Fund	7910,26,531,2818
-United General Insurance Assistant Manager Colleta	7364
+United General Insurance Assistant Manager Colleta	7364,5852
 Universal Health Insurance	2419,5288,3426
 Universal Health Insurance Act	6921
 Universal Health Insurance Fund	6921,5066
