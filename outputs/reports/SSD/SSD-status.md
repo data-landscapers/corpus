@@ -1,12 +1,12 @@
 ---
 title: South Sudan — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-31
 place: SSD
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-10
 intersections_read: 7
-sources_cited: 137
+sources_cited: 138
 sections_written: 37
 not_established: 4
 acquire_lines: 51
@@ -254,7 +254,7 @@ Behind that there is very little domestic supply. [Business and competition regu
 
 South Sudan is [not among the 133 economies covered by WIPO's Global Innovation Index 2024](https://www.wipo.int/edocs/pubdocs/en/wipo-pub-2000-2024-exec-en-global-innovation-index-2024.pdf), its data coverage being insufficient for inclusion — a gap in the machinery of innovation as much as in its measurement. There is [no startup or innovation law, and no state programme providing startup financing or small and medium enterprise support for the digital sector](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) as at 2025, and no [public-sector innovation programme, laboratory or fund, nor any stated mechanism for public-private collaboration on digital public services](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). The cheapest route in is closed too: government has [no open source software policy and no recorded public-sector adoption](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update).
 
-What exists sits outside the state, donor-built or self-organised. The University of Juba's [UNIPOD, a US$1.2 million innovation facility, opened in 2023 with UNDP support](https://www.undp.org/south-sudan/news/future-forward-unipod-launched-university-juba-south-sudan). At least three [AfriLabs member hubs — Konetahub, Ataka Hub and Junub Open Space — were operating in 2023 alongside Scenius Hub in Juba](https://www.afrilabs.com/hub_country/south-sudan/), and Juba has [an active Google Developer Group, profiled in 2021](https://developers.googleblog.com/google-developer-group-spotlight-a-conversation-with-gdg-juba-lead-kose/), one of the few organised developer communities in the country. Around them, [technology startups are very few and venture capital activity is not visible](https://tracxn.com/d/geographies/south-sudan/__aRcH8lYOC74CSa9mr7vgyF828bI4310yeks2VOg4PTw) as at 2025.
+What exists sits outside the state, donor-built or self-organised. The University of Juba's [UNIPOD, a US$1.2 million innovation facility, opened in 2023 with UNDP support](https://www.undp.org/south-sudan/news/future-forward-unipod-launched-university-juba-south-sudan). At least three [AfriLabs member hubs — Konetahub, Ataka Hub and Junub Open Space — were operating in 2023 alongside Scenius Hub in Juba](https://www.afrilabs.com/hub_country/south-sudan/), and Juba has [an active Google Developer Group, profiled in 2021](https://developers.googleblog.com/google-developer-group-spotlight-a-conversation-with-gdg-juba-lead-kose/), one of the few organised developer communities in the country. The first addition outside the capital came from an operator rather than the state or a donor: [MTN South Sudan opened the Aweil ICT Hub in Northern Bahr el Ghazal State as a digital-skills training, scholarship and innovation facility](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/) (August 2026), with no capacity, budget, term or intake figure published. Around them, [technology startups are very few and venture capital activity is not visible](https://tracxn.com/d/geographies/south-sudan/__aRcH8lYOC74CSa9mr7vgyF828bI4310yeks2VOg4PTw) as at 2025.
 
 ## Capacity
 

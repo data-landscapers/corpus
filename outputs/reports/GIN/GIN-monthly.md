@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 place: GIN
-ledger_rows: 52
+ledger_rows: 53
 not_held: 14
-record: c627cc4be607
+record: 07e66ecc8d1e
 ---
 
 # Guinea: monthly update, July – August 2026
@@ -34,6 +34,11 @@ Two payments instruments are at terms-of-reference stage and neither exists. The
 
 <!-- narrative: governance--gov-protect -->
 The day after NimbaPay opened, the consumer body AGUIDUTEN [set twelve conditions on it](https://focusguinee.info/2026/07/26/laguiduten-salue-le-lancement-de-nimbapay-la-plateforme-nationale-de-paiement-instantane/): a published complete tariff grid, fees disclosed before confirmation, a complaints mechanism with binding deadlines for handling and refund, immediate traceable receipts, data collection limited to disclosed purposes, independent audits of security and availability, guaranteed access for rural, disabled, feature-phone and low-literacy users, periodic publication of failure, outage, fraud and refund statistics, and consumer organisations seated in governance. No regulator or operator response is on file.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Guinea took the presidency of the regional audiovisual regulators' platform on 31 August, when the [12th General Assembly of the platform of the eight monetary-union states and Guinea opened in Conakry and its leadership passed to the head of the national communications authority](https://www.africaguinee.com/guinee-la-12e-assemblee-generale-des-regulateurs-de-laudiovisuel-souvre-sur-fond-de-lutte-contre-la-desinformation/). The two-day agenda was harmonising the legal and technical tools for regulating social platforms against cybersecurity and social-cohesion risks, AI-generated disinformation and deepfakes among them, and strengthening the standing of regulators over those platforms. Opening it, the Justice Minister argued for a framework that ["protects without stifling, regulates without censoring"](https://www.africaguinee.com/cyberespace-et-libertes-dexpression-le-garde-des-sceaux-appelle-a-reguler-sans-censurer-mais/) and called cybersecurity a question of sovereignty rather than a technical one. What the record holds is a presidency and an agenda: no harmonised instrument, timetable or funding is announced.
 <!-- /narrative -->
 ### Standards
 

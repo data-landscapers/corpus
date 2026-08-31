@@ -1,12 +1,12 @@
 ---
 title: Senegal — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-31
 place: SEN
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 13
-sources_cited: 185
+sources_cited: 186
 sections_written: 37
 not_established: 3
 acquire_lines: 49
@@ -210,7 +210,7 @@ Senegal's five main social-protection programmes — the family security grants,
 
 The revenue and finance machinery is real but isolated. The tax administration [runs commercial off-the-shelf software in use that is not connected to other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), customs [runs its own package with all three of the index's connection and integration measures absent](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), the [financial management information system is still in implementation, covers central government only, and handles treasury functions and budget preparation](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), and the [social insurance and pension systems are in use, with a separate pension system for public employees, and do not interoperate with other government systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025).
 
-Below the ministries, the data is still made on paper. Rural health posts, health centres and health huts [record patient data on paper registers at the point of care, with monthly aggregates entered into the national DHIS2 system at facility or district level rather than captured digitally, and many providers, particularly midwives, have never been trained to enter data at all](https://link.springer.com/article/10.1186/s12889-024-21241-x) (2025); a World Bank-funded pilot had [introduced electronic patient records in four facilities, covering around 127,000 patients as of April 2025](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law). Rural primary schools likewise [record enrolment, attendance and teacher data on paper, aggregated at district and regional level before being entered into the national education system SIMEN](https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf) (2024), alongside a [DHIS2-based education pilot launched in two districts in 2024 that produces aggregate rather than facility-level data](https://education.dhis2.org/implementation/senegal/). In the courts, a [UN-funded e-justice pilot at the Pikine-Guédiawaye court, with an installed data centre and network link, became operational from September 2025](https://www.un.org/fr/information-center-dakar/le-projet-pilote-d%E2%80%99e-justice-dans-la-banlieue-de-dakar-progresse-avec-l).
+Below the ministries, the data is still made on paper. Rural health posts, health centres and health huts [record patient data on paper registers at the point of care, with monthly aggregates entered into the national DHIS2 system at facility or district level rather than captured digitally, and many providers, particularly midwives, have never been trained to enter data at all](https://link.springer.com/article/10.1186/s12889-024-21241-x) (2025); a World Bank-funded pilot had [introduced electronic patient records in four facilities, covering around 127,000 patients as of April 2025](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-adopts-digital-health-policy-drafts-data-law). Rural primary schools likewise [record enrolment, attendance and teacher data on paper, aggregated at district and regional level before being entered into the national education system SIMEN](https://developmentgateway.org/wp-content/uploads/2024/06/WHITEpaperENG809.pdf) (2024), alongside a [DHIS2-based education pilot launched in two districts in 2024 that produces aggregate rather than facility-level data](https://education.dhis2.org/implementation/senegal/). In the courts, a [UN-funded e-justice pilot at the Pikine-Guédiawaye court, with an installed data centre and network link, became operational from September 2025](https://www.un.org/fr/information-center-dakar/le-projet-pilote-d%E2%80%99e-justice-dans-la-banlieue-de-dakar-progresse-avec-l); its final report records [five judicial procedures digitised, the platform deployed in that one court and more than 40 justice-sector professionals trained](https://www.ecofinagency.com/news-digital/2508-58308-senegal-advances-e-justice-rollout-with-dakar-area-pilot) (August 2026), with a roadmap for possible expansion and no extension to other courts announced.
 
 ### Other GovTech and e-Gov
 <!-- dpi.govtech -->

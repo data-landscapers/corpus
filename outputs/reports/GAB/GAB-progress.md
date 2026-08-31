@@ -1,12 +1,12 @@
 ---
 title: Gabon — progress report, August 2025 – August 2026
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 place: GAB
-ledger_rows: 127
+ledger_rows: 128
 not_held: 27
 indicators: 121
-record: 39be5b43fed8
+record: 5e6f5fa7829d
 ---
 
 # Gabon: progress report, August 2025 – August 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-29.*
+*The period is 2025-08-01 to 2026-08-31.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -126,7 +126,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Sectoral management information systems | Tax |  | ***No evidence*** |
 | Sectoral management information systems | Customs |  | ***No evidence*** |
 | Sectoral management information systems | Land |  | ***No evidence*** |
-| Other GovTech and e-Gov | e-government services | A [public finance system went live](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management) and connected to the Treasury, while a single window and an internal civil-service suite remain presentations. <details><summary>Full record</summary>The public finance system was launched following a presidential directive of October 2025, is live and connected to the Treasury, and national and overseas-post extension is stated as intended, with no transaction volume or coverage figure published ([public finance system](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management)).<br><br>A single digital window was presented to the President by the same supplier in February 2026, with no build stage, launch date, budget or procurement record held ([single window](https://www.gabonreview.com/gabon-connect-le-futur-guichet-unique-numerique-de-letat-presente-a-oligui-nguema/)).<br><br>An integrated suite for secure messaging and confidential document exchange between civil servants was presented in August 2026, built with a domestic start-up and with the state holding the source code at no cost; deployment follows a ministry-by-ministry review of procedures and no rollout date is published ([civil-service suite](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/)).<br><br>A tourist electronic visa platform operates for a three-month free visa, with no volumes, processing times or window dates published ([visa platform](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)).</details> | Advanced |
+| Other GovTech and e-Gov | e-government services | A [public finance system went live](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management) and connected to the Treasury, while a single window and an internal civil-service suite remain presentations. <details><summary>Full record</summary>The public finance system was launched following a presidential directive of October 2025, is live and connected to the Treasury, and national and overseas-post extension is stated as intended, with no transaction volume or coverage figure published ([public finance system](https://www.ecofinagency.com/news/1801-52022-gabon-launches-integrated-digital-platform-for-public-finance-management)).<br><br>A single digital window was presented to the President by the same supplier in February 2026, with no build stage, launch date, budget or procurement record held ([single window](https://www.gabonreview.com/gabon-connect-le-futur-guichet-unique-numerique-de-letat-presente-a-oligui-nguema/)).<br><br>An integrated suite for secure messaging and confidential document exchange between civil servants was presented in August 2026, built with a domestic start-up and with the state holding the source code at no cost; deployment follows a ministry-by-ministry review of procedures and no rollout date is published ([civil-service suite](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/)).<br><br>A tourist electronic visa platform operates for a three-month free visa, with no volumes, processing times or window dates published ([visa platform](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)).<br><br>2026-08-31 — a government services portal is in pilot preparation, the government secretariat having [opened interministerial consultations in June 2026 across five ministries with at least ten services to be integrated by December](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-s-inspire-du-modele-rwandais-pour-accelerer-sa-transformation-numerique). The base does not state whether this is the single digital window already on the ledger or a second instrument, and no budget or supplier is published.</details> | Advanced |
 
 
 ## Digitalisation

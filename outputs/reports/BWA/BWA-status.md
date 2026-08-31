@@ -2,14 +2,14 @@
 title: Botswana — digital transformation and data governance status report
 compiled: 2026-08-31
 place: BWA
-ledger_rows: 182
+ledger_rows: 183
 not_held: 7
-record: fc08718545c6
+record: b18d62927f17
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-31 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (182 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-31 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (183 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -144,6 +144,7 @@ One procurement runs against that retrenchment: a [P654.4m learning-technology c
 |---|---|---|
 | BoFiNet internet gateway upgrade | [Implemented](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | P100m spent; the Gaborone exchange point relocated |
 | BoFiNet Local Access Projects 2025/26 | [Implemented](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/) | Completion reported 2026-08-16; first integrated report presented at the 2026-08-13 AGM |
+| BTC 5G launch and network modernisation programme | [In development](https://www.itweb.africa/article/btc-steps-into-botswanas-5g-race/KWEBbvyLb2RqmRjO) | 2026/27 investment of over P240m set out in the 2026 Integrated Report |
 | BTC rural satellite connectivity programme | [Implemented](https://itweb.africa/article/btcs-new-reach-extends-to-61-villages-in-botswana/rxP3jqBEWB4MA2ye) | 61 villages connected, 105 further areas in progress |
 | Digital Delta IX | [Implemented](https://www.peeringdb.com/ix/5002) | Registered and operating in Gaborone, run by BoFiNet |
 | Mobile operator tariff reduction | [Implemented](https://www.bocra.org.bw/node/62773) | Announced by BOCRA, 22 September 2025 |

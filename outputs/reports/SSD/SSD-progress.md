@@ -3,10 +3,10 @@ title: South Sudan — progress report, August 2025 – August 2026
 compiled: 2026-08-31
 period: 2025-08-01 to 2026-08-31
 place: SSD
-ledger_rows: 74
+ledger_rows: 75
 not_held: 12
 indicators: 121
-record: 688cb717656b
+record: 1824dd9ec2ff
 ---
 
 # South Sudan: progress report, August 2025 – August 2026
@@ -150,7 +150,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | AI | Development of national / regional AI systems |  | ***No evidence*** |
 | AI | Control of AI abuse |  | ***No evidence*** |
 | ICT Industry | National capacity in DT-related production |  | ***No evidence*** |
-| Innovation ecosystem | Technology hubs |  | ***No evidence*** |
+| Innovation ecosystem | Technology hubs | The mobile operator [opened an ICT hub in Northern Bahr el Ghazal State](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/) as a digital-skills training, scholarship and innovation facility. <details><summary>Full record</summary>2026-08-31 — the mobile operator [opened the Aweil ICT Hub in Northern Bahr el Ghazal State](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/), opened at a ceremony attended by government, education-sector, youth and development-partner representatives and described as a digital-skills training, scholarship and innovation facility.<br><br>No capacity, budget, term or intake figure is published, and no public instrument stands behind it: the hub is an operator's own facility, announced by the operator, in a state where the base holds no other hub. What the record cannot say is whether it will run past the announcement.</details> | Advanced |
 | Innovation ecosystem | Tech startup ecosystem |  | ***No evidence*** |
 
 
