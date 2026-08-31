@@ -27,8 +27,6 @@ compiled: 2026-08-31 11:14
 <a href="#inclusion">Inclusion</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
-<span class="article-toc__sep" aria-hidden="true">&middot;</span>
-<a href="#other">Other</a>
 </nav>
 
 <div class="bulletin-filter screen-only" hidden>
@@ -85,6 +83,30 @@ The Council of Ministers adopted a government-wide strategy against abusive cont
 </div>
 
 ### Legislation and regulation
+
+<div class="bulletin-item" data-places="ZAF" markdown="1">
+
+**[Unlicensed SA finfluencers face enforcement action](https://www.itweb.co.za/article/unlicensed-sa-finfluencers-face-enforcement-action/WnpNgM21ZEX7VrGd)** — ITWeb South Africa, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
+
+South Africa's Financial Sector Conduct Authority named unlicensed financial advice on social media one of its highest enforcement priorities, its enforcement head Gerhard van Deventer telling a Regulatory Actions Report roundtable that operating through a platform is no exemption from the licensing law and that penalties have already been imposed on finfluencers. He drew a distinction between financial education and regulated advice, and said the regulator is also looking for a way to engage finfluencers on where that line falls.
+
+</div>
+
+<div class="bulletin-item" data-places="NGA" markdown="1">
+
+**[Nigeria wants crypto firms to lock up 80% of customer assets offline](https://techcabal.com/2026/08/31/nigeria-sec-wants-digital-asset-firms-to-store-80-of-customer-funds-offline/)** — TechCabal, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
+
+Nigeria's Securities and Exchange Commission opened for comment on 20 August a framework requiring digital-asset firms to segregate customer funds from their own, notify the regulator of material incidents within 24 hours and file a detailed report within 48. Minimum paid-up capital would be ₦2 billion (about $1.5m) for exchanges and custodians, ₦500 million for platform operators, offering platforms and tokenisation platforms, and ₦200 million for virtual asset service providers, each backed by a fidelity insurance bond covering at least a quarter of that. The rules also require a share of customer assets to be held in offline cold storage and SEC approval before a foreign-issued stablecoin may be listed.
+
+</div>
+
+<div class="bulletin-item" data-places="KEN" markdown="1">
+
+**[Kenya : le Parlement veut rétablir les sanctions contre les fausses informations en ligne](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne)** — wearetech.africa, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
+
+Kenya's National Assembly has asked the Supreme Court to overturn a Court of Appeal ruling that struck down sections 22 and 23 of the 2018 Computer Misuse and Cybercrimes Act, which criminalised knowingly publishing false or misleading data presented as authentic, with penalties up to KES 5 million (about $38,600) and, for some offences, ten years' imprisonment. The Court of Appeal held the wording too broad, capable of catching people who share content unaware it is false as well as journalists and ordinary users; Parliament argues the provisions reach neither opinion, satire nor good-faith error.
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="COD" markdown="1">
 
@@ -349,33 +371,5 @@ Xinhua's report on the 2026 China International Big Data Industry Expo in Guiyan
 **[South Sudan seeks Huawei support for digitalisation](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3)** — ITWeb Africa, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/SSD/" title="SSD">South Sudan</a>
 
 Summarised under [Rural digital data capture](#rural-digital-data-capture).
-
-</div>
-
-## Other
-
-### gov.regulate
-
-<div class="bulletin-item" data-places="ZAF" markdown="1">
-
-**[Unlicensed SA finfluencers face enforcement action](https://www.itweb.co.za/article/unlicensed-sa-finfluencers-face-enforcement-action/WnpNgM21ZEX7VrGd)** — ITWeb South Africa, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
-
-South Africa's Financial Sector Conduct Authority named unlicensed financial advice on social media one of its highest enforcement priorities, its enforcement head Gerhard van Deventer telling a Regulatory Actions Report roundtable that operating through a platform is no exemption from the licensing law and that penalties have already been imposed on finfluencers. He drew a distinction between financial education and regulated advice, and said the regulator is also looking for a way to engage finfluencers on where that line falls.
-
-</div>
-
-<div class="bulletin-item" data-places="NGA" markdown="1">
-
-**[Nigeria wants crypto firms to lock up 80% of customer assets offline](https://techcabal.com/2026/08/31/nigeria-sec-wants-digital-asset-firms-to-store-80-of-customer-funds-offline/)** — TechCabal, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
-
-Nigeria's Securities and Exchange Commission opened for comment on 20 August a framework requiring digital-asset firms to segregate customer funds from their own, notify the regulator of material incidents within 24 hours and file a detailed report within 48. Minimum paid-up capital would be ₦2 billion (about $1.5m) for exchanges and custodians, ₦500 million for platform operators, offering platforms and tokenisation platforms, and ₦200 million for virtual asset service providers, each backed by a fidelity insurance bond covering at least a quarter of that. The rules also require a share of customer assets to be held in offline cold storage and SEC approval before a foreign-issued stablecoin may be listed.
-
-</div>
-
-<div class="bulletin-item" data-places="KEN" markdown="1">
-
-**[Kenya : le Parlement veut rétablir les sanctions contre les fausses informations en ligne](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne)** — wearetech.africa, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
-
-Kenya's National Assembly has asked the Supreme Court to overturn a Court of Appeal ruling that struck down sections 22 and 23 of the 2018 Computer Misuse and Cybercrimes Act, which criminalised knowingly publishing false or misleading data presented as authentic, with penalties up to KES 5 million (about $38,600) and, for some offences, ten years' imprisonment. The Court of Appeal held the wording too broad, capable of catching people who share content unaware it is false as well as journalists and ordinary users; Parliament argues the provisions reach neither opinion, satire nor good-faith error.
 
 </div>
