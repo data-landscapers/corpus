@@ -3,13 +3,13 @@ title: National statistics — monthly update, July 2026
 compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: data.statistics
-places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; ZAF; SSD; TUN; UGA; ZWE
-record: f4362c4e3d7a
+places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; ZAF; SSD; TUN; UGA; ZWE
+record: a73e46413e51
 ---
 
 # National statistics: monthly update, July 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -90,6 +90,10 @@ The statistical service [published the third wave of its six-monthly governance 
 ## Guinea-Bissau
 
 [The Instituto Nacional de Estatistica released RGPH4 preliminary results on 23 July 2026](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), putting resident population at 2,191,202 — cut from a raw collected base of 2,246,300 after correction for repeated names, against 1,449,230 in 2009. [50.7% are women and 45.7% urban](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/); [304,939 households, 559,303 dwellings and 376,258 buildings were enumerated, using computer-assisted personal interviewing throughout](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/). UNFPA and the World Bank financed the census; demographic, social, economic and housing tabulations are to be released progressively over the coming months.
+
+## Lesotho
+
+The Bureau of Statistics [lists the strategy for 2022/23 to 2026/27 alongside the 2001 Act as its current framework](http://www.bos.gov.ls/about_bos.htm). The strategy runs out in the coming financial year and no successor is on the record.
 
 ## Libya
 

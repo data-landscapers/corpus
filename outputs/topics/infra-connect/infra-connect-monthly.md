@@ -3,13 +3,13 @@ title: Connectivity — monthly update, July 2026
 compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1dd5d08f7c23
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 1b6168754173
 ---
 
 # Connectivity: monthly update, July 2026
 
-*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -162,6 +162,10 @@ Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.
 The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
 
 An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
+
+## Lesotho
+
+The incumbent operator [began selling managed satellite connectivity as an enterprise service on 26 August](https://www.thereporter.co.ls/2026/08/26/vodacom-launches-satellite-broadband-for-enterprises/). For a landlocked country whose every terrestrial route to the internet crosses South Africa, it is the first international path that does not.
 
 ## Liberia
 

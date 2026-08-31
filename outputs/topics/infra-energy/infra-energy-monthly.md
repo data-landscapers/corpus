@@ -3,13 +3,13 @@ title: Energy — monthly update, July 2026
 compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: infra.energy
-places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; NGA; SLE; ZAF; UGA; ZWE
-record: 1d3d53d40e7f
+places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; LSO; MWI; MUS; MOZ; NGA; SLE; ZAF; UGA; ZWE
+record: 0d92bacb225e
 ---
 
 # Energy: monthly update, July 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -40,6 +40,10 @@ No power purchase, tariff or on-site generation arrangement is published for any
 ## Kenya
 
 Power is what is holding the data-centre build back, and there is no rule governing it. A hyperscale project [stalled on power capacity in July, against about 3 GW of installed supply and a 10 GW-by-2030 target — a single 1 GW facility would take a third of supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/). No published tariff, gazetted large-load connection rule or grid-connection framework for data centres exists: every power arrangement the base holds is bilateral.
+
+## Lesotho
+
+The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
 
 ## Malawi
 

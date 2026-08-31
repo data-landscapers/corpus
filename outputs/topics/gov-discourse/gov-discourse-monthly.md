@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
-record: 991238418905
+record: 194814de8d90
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026

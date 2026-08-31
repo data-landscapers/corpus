@@ -1,15 +1,15 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 subject: digital.rural
-places: TCD; EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
-record: 51d5e3ab7748
+places: TCD; EGY; SWZ; GIN; LSO; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
+record: d5bb53740fee
 ---
 
 # Rural digital data capture: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ Rural data collection got hardware rather than a system. The agriculture ministr
 ## Guinea
 
 The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
+
+## Lesotho
+
+Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
 
 ## Malawi
 
