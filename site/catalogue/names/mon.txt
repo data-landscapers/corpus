@@ -204,6 +204,7 @@ CEO of Orange Money Sierra Leone	2395
 CESE Audition de Monsieur Hassan Tariq	8891
 CHAPTER SIX MONITORING	12185
 CIRMR- Monitoring	10721
+CIUEM Centre of Informatics of Eduardo Mondlane University	12786
 CIUEM Eduardo Mondlane University Informatics Center	4214
 CIVICUS Monitor	9679
 CIVIL SANCTIONS AND MONETARY PENALTIES	3861
@@ -434,7 +435,7 @@ EdTech Mondays Rwanda	5606
 Eduardo Mondlane	996,3657
 Eduardo Mondlane Informatics Centre	12237
 Eduardo Mondlane Univ	1225,1
-Eduardo Mondlane University	8965,260
+Eduardo Mondlane University	8965,260,3561,40
 Effective Monitoring and Supervision	12064
 Eight Months	11218
 Eight Months After Becoming Vacant	11218
@@ -536,7 +537,7 @@ Freeport of Monrovia	7722,2859
 Fuel Quality Monitoring	12256
 Functions of Cyber Security and Monitoring of Interceptions	972
 Fund UEMOA West African Economic and Monetary	11552
-Fundo Monetário Internacional	1948,6827,2794
+Fundo Monetário Internacional	1948,6827,2794,1245
 Fundo Monetário Internacional GenAI	2816
 Funeka Montjane. Biometric	3435
 G 10 GB Monthly	718
@@ -673,7 +674,7 @@ Inteligência Artificial da Universidade Eduardo Mondlane	2816
 Intermediated Money Transfer Tax	9904
 International Gateway Monitoring System	5244
 International Gateway Monitoring System IIC	5244
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund Code	11895
 International Monetary Fund Country Report No	11905
@@ -920,6 +921,7 @@ Media Monitoring Africa	9967,762
 Media Rights Monitor	11095
 Meeting. Global Money Week Fair Hosted	11131
 Members Framework B Design of Monitoring for High-level	961
+Mercado Monetário	12789
 Mexico City and Montevideo	226
 Mexico Micronesia Moldova Monaco Mongolia Montenegro	11470
 Million Monthly Active M-PESA Customers	12227
@@ -1130,7 +1132,7 @@ Mongo DB	12693
 MongoDB	4434
 Mongoho Esamongon	4209
 Mongola	4209
-Mongolia	10714,50,21,59,765,285,443
+Mongolia	10714,50,21,59,765,285,443,449
 Mongolia FTA	1243
 Mongolia Montenegro Mauritius National Identity Scheme	10714
 Mongolia Mozambique Viet Nam Togo	11563
@@ -1213,7 +1215,7 @@ Monitoramento	167,372,10896,21,442
 Monitoramento de Acordos	10325
 Monitoramento de Riscos	3519
 Monitoramento de Tratados	10325
-Monitorar	2816,1458,7107
+Monitorar	2816,1458,7107,1481
 Monitorear	1701
 Monitored	5168,6062
 Monitored SA Connect	11230
@@ -1289,7 +1291,7 @@ Monitoring and Continuous Compliance	5665
 Monitoring and Continuous Improvement	5665
 Monitoring and Enforcement	718,3810,7984
 Monitoring and Evaluating	11006
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112,210,246,3,3,42,19,16,25,21,22,232,116,43,54,59,162,1,106
 Monitoring and Evaluation A Monitoring and Evaluation	12453
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Monitoring and Evaluation BMA Border Management Authority	11986
@@ -1557,7 +1559,7 @@ Montant Reste	3396
 Montant Restes	3396
 Montant Taux	3396
 Montant Taux Montant Taux Montant Taux	2966
-Montante	5169,6357
+Montante	5169,6357,1327
 Montante da Operação	10755
 Montantes	11359
 Montantes Recebidos	10755
@@ -1877,6 +1879,7 @@ Policy and Monitoring	11907,268
 Policy and Monitoring Strategic	11907
 Post Monthly Newsletter	11251
 Post-Launch Monitoring	11216
+Postos de Atendimento da Eduardo Mondlane	12784
 Poverty M&E Monitoring	11855
 Power International Mobile Money Transfers	11994
 Practice Note for Mobile Money Service Providers	11134
@@ -2137,6 +2140,7 @@ Tuberculosis and Malaria TPMA Third Party Monitoring	11560
 Tunisian Monitor Tunisia	7322
 UA. Universidade Eduardo Mondlane	2816
 UEM A Universidade Eduardo Mondlane	8827
+UEM Eduardo Mondlane University	12786
 UEM Eduardo Mondlane University WDR World	4214
 UNCDF's Migrant Money	2661
 UNICEF Value for Money USR VfM	11855
@@ -2149,7 +2153,7 @@ Union Monétaire Ouest Africaine	8316,2520,686,45,498
 Union Monétaire Ouest Africaine Le Gouverneur	10836
 Union. Monsieur Mahamane Alassane Touré	8316
 Unitel Money	5309
-Universidade Eduardo Mondlane	1526,1290,5991,20,31,836
+Universidade Eduardo Mondlane	1526,1290,5991,20,31,836,3092,51
 Universidade Eduardo Mondlane Por	8858
 Universidade Eduardo Mondlane UNESCO	2816
 Universidade Eduardo Mondlane. Disponível	2816

@@ -158,12 +158,13 @@ Autoregressive Moving Average	236
 Autoridade de Avaliação Ambiental Competente	11542
 AvXpJWp2Rn9pm1Bx2cVNxFpump	4127
 Avail	958
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672,72,18,57,56,97,1,1,3,62,658,3,17,7,24,13,38,30,228,32,7,2,47,31,13,13,5,15,10,163,193,9,95
 Availability All	9123
 Availability Problem Nobody Talks About	5874
 Availability Ranking Level	9123
 Availability SLAs	6432
-Availability Zones	1206,1,1
+Availability Zone	12849
+Availability Zones	1206,1,1,11641
 Availability and Back	6432
 Availability and Eligibility	12389
 Availability and Performance	11995
@@ -229,7 +230,8 @@ Avaliação Externa Conjunta	11376
 Avaliação Nacional da Economia Digital da Guiné-Bissau	11555
 Avaliação Nacional de Risco Cibernético	2784
 Avaliação Nacional de Riscos de Segurança Cibernética	2784
-Avaliação da Conformidade	11381
+Avaliação da Conformidade	11381,1401
+Avaliação da Conformidade CAPÍTULO I Disposições	12782
 Avaliação da ENDE-1	11526
 Avaliação da Execução	10783
 Avaliação da Governação Digital Local	11451
@@ -564,7 +566,7 @@ Avenue Pascal ZAGRÉ	10874,1
 Avenue Prosper Gandzion	7668
 Avenue Roodepoort	7198
 Avenues	1161,9680,119
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9,70,14,9,1,12,28,127,3,58,3,222,132,4,19,14,280,8,7,1,20,51,11,1,6,35,186,60,1,9,35,47,2,21,22,10,14,88,11,143,181
 Average Area	10765,10
 Average Available Capacity	12062
 Average BWA	2776
@@ -697,8 +699,9 @@ Avis-TER-VF-1.pdf	8891
 Avis-biodiversite-FR-V2.pdf	8891
 Avis-biodiversite-FR-V3.pdf	8891
 Avis-littoral-VF.pdf	8891
-Aviso	6,5163,1293,532,3761,613,2,7,9,16,1,1,11,7,6,10,27,117,351,236
+Aviso	6,5163,1293,532,3761,613,2,7,9,16,1,1,11,7,6,10,27,117,351,236,672,12
 Aviso de Comunicações	11433
+Aviso. ARTIGO	12853
 Avital	2096
 Avith Nsengiyumva	9270
 Aviv Very High EGDI V3	10840
@@ -737,7 +740,7 @@ Avuya Shibambu	1686
 Azikiwe Avenue and Azikiwe Lane	11129
 B Satisfactory C Average D Unsatisfactory	5679
 BAI04 Managed Availability ITGov	9237
-BANCO DE MOÇAMBIQUE Aviso	6462
+BANCO DE MOÇAMBIQUE Aviso	6462,6391
 BCEAO Avenue Abdoulaye Fadiga BP	10711
 BNA’s Avisos No	10779
 Baines Avenue	4896
@@ -750,6 +753,7 @@ Bosso Zambia. Available	12376
 Botswana. Available Online	12707
 Boulevard Ave. Exp. Blvd. Company Coy	11129
 Bryan Avelar	4127
+Bubble Cloud Launches Two Availability Zones	12849
 Bulawayo House Avenue	4896
 Burkina Faso Avenue Pascal ZAGRÉ	10874,1
 Burkina Faso. Avant	10259
@@ -771,6 +775,7 @@ China Sim Avançado Sim	2816
 China’s Internet Development. CNNIC. Available	8460
 Chrisanthi Avgerou and Carla Bonina	226
 Civic Watch Cameroun. Avant	6680
+Civil Aviation	12825
 Civil Aviation Act	736
 Civil Aviation Authority	11,11542,842
 Civil Aviation Authority CAK Communications Authority	2775
@@ -794,6 +799,7 @@ Conduzir Avaliação	11898
 Confidentiality Integrity and Availability	11956
 Connect Zambia. Available	12376
 Connecticut Avenue NW Washington	42
+Conselho Nacional de Avaliação da Qualidade	12809
 Constitution Ave NW	5773
 Contact AVCA	4972
 Contemporary Cases And Materials Available	11654
@@ -843,6 +849,7 @@ Dedisa and Avon	11228
 Departamento de Avaliação de Desempenho	167
 Departamento de Aviación Civil	4209
 Despite Average	12214
+Dezembro. Aviso	12853
 Digital Infrastructure Availability of DFS	11994
 Digital Service Life Cycle. Available	11216
 Digital Service. Available	11216
@@ -859,7 +866,8 @@ Dr. the Hon. Avinash Ramtohul	12132
 Découvrir le FTD Avec le Fonds de Transformation Digitale	10708
 D’ORDRE REFERENCES RESPONSABLE DE TRAITEMENT AVIS	10821
 E-government Index-2024 Africa Average World Average	12214
-E.P. AVISO	6970
+E. P. AVISO	12823
+E.P. AVISO	6970,5802
 EAF Energy Availability Factor GDP Gross	11228
 EDITOR Instituto Nacional de Estatísticas Avenida Amílcar	11537
 ELDORET AVIATION TRAINING INSTITUTE LIMITED Data	7167
@@ -1142,6 +1150,8 @@ Procédure AVI L'ANDF	10876
 Production and Average	2775
 Professores SNA Sistema Nacional de Avaliação ST	11557
 Programa Nacional de Avaliação da Conformidade	11381
+Programa de Avaliação da Conformidade	12829
+Programas de Avaliação da Conformidade	12782
 Programmes de Formation Avenue Abdoulaye FADIGA	10237
 Project. Availability	10829
 Projects Are Available	12429
@@ -1184,6 +1194,7 @@ Revenu Avoirs Inchangé Augmenté Diminué Inchangé	737
 Revenue Per Capita Average Revenue Per	10775
 Robert Mugabe Avenue	12400
 Robert Mugabe Avenue Windhoek NAMIBIA RE	12400
+Rogério Lucas Zandamela. Aviso	12853
 Rotary Avenue	11750
 Rural Rural Rural Urban Rural Average	11572
 République Centrafricaine. Avec	5223

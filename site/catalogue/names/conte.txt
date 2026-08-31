@@ -43,6 +43,7 @@ Awareness Campaigns Updated Content and Wider Reach	1777
 B. Contents	1638
 B. Introduction and Context	761,11651,14,243
 B. Introduction and Context Country Context	1704,587,1165,7507
+B. Introduction and Context Country Context Mozambique	12832
 B. Introduction and Context Mozambique	12137
 B. SECTOR AND INSTITUTIONAL CONTEXT	11863
 B. Sector and Institutional Context B.1 Cabo	11863
@@ -265,7 +266,7 @@ Contested Technology	11658
 Contesting	11050
 Contesting Dominant Algorithmic Imaginaries	11028
 Conteudo	12169
-Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11,25,26,252
+Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11,25,26,252,232
 Context Baía de Luanda	11366
 Context Global VC	10954
 Context Implementation of Tunisia	9022
@@ -301,10 +302,11 @@ Context&author	2096
 Context. Cheltenham	2096
 Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37,1031
 Contexte Conformément	1679
-Contexto	8880,1903,623,35,1,2,4,3,92
+Contexto	8880,1903,623,35,1,2,4,3,92,1244
 Contexto A Reforma	11442
-Contexto Internacional	11362
+Contexto Internacional	11362,1425
 Contexto Nacional	11362,34,55
+Contexto Nacional Situação Económica	12787
 Contexto O Governo de Angola	11463
 Contexto O Projecto de Aceleração Digital de Angola	11440,1
 Contexto Socioeconómico	11406
@@ -436,6 +438,7 @@ I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345
 I.1.1 Contexte	10876
 ID PROGRAM Contents Overview	12257
 II Contents Introduction About	11131
+II. CONTEXTO	12787
 III CONTENTS ACKNOWLEDGEMENTS	1243
 III. Context	3583
 III. POLITICAL CONTEXT	12201
@@ -605,6 +608,7 @@ Scope Implementation Guidelines Education Content	2958
 Sector Context and Notable Progress Digital	3604
 Sector Research Department. Contents	774
 Sectoral and Institutional Context	1704,587,1165,8956,14,243
+Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Segment Sectors Content Rights Online Services	1944
 Self- Generated Sexual Content	12459

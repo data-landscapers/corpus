@@ -219,7 +219,7 @@ MPSS Minimum Physical Security Standards MTDP	5533
 MSL Medical Stores Limited MTWSC Ministry	34
 MT BT EP	10975
 MT Connect	4698
-MT IMPRENSA NACIONAL DE MOÇAMBIQUE	2866,2303,1801
+MT IMPRENSA NACIONAL DE MOÇAMBIQUE	2866,2303,1801,5813,40
 MT Improve	10775
 MT KENYA REGION LIMITED Data Controller	7167
 MT Km	10975
@@ -298,7 +298,8 @@ MTFP. Il	1281
 MTFP. L'année	1281
 MTFP. Sep	10870
 MTFPS	8750
-MTGAS	4214,8006
+MTGAS	4214,8006,612
+MTGAS Ministério	12787
 MTI Computerisation	1665
 MTI. Entre	10760
 MTL and Cabinet	4653
@@ -773,6 +774,7 @@ Mt Pleasant Business Park	1877
 Mt. Centers. No Vetted	5244
 Mt. Kenya	12256
 Mt. Kenya N	12256
+Mt. O Bilhete de Identidade	12784
 Mt. Pleasant Business Park	736
 Mt. SOT	12256
 Mt.il	11572

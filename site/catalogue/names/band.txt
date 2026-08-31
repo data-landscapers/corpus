@@ -20,7 +20,7 @@ Band ITU Freq. Plan Out Stations	736
 Band Spectrum	5245
 Band VHF Alarm	6946
 Band of Operation	736
-Banda	3791,418,731,2493,453,3226
+Banda	3791,418,731,2493,453,3226,1665
 Banda Ancha	9543,1986
 Banda Larga	11396,1
 Banda Larga Nacional	5272,5800
@@ -122,6 +122,7 @@ International Bandwidth	4676,1995
 International Bandwidth Demand Trends Bandwidth	2830
 International Internet Bandwidth	718,5953,275
 Japan Radio New Japan Bande	998
+José Bandeira	12816
 Joël Bandiba	2071
 Ka Band	736
 Kaga Bandoro	10829

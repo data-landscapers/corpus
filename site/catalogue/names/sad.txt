@@ -123,7 +123,7 @@ SADC Citizens	962
 SADC Citizens. Data	962
 SADC Citizens. Related	962
 SADC Climate Experts Meeting	8006
-SADC Committee of Central Bank Governors	3484,4645,3005,1537
+SADC Committee of Central Bank Governors	3484,4645,3005,1537,181
 SADC Committee of Central Banks Governors	8129
 SADC Common Positions and Proposals	9292
 SADC Common Positions and Proposals for WRC-27	9292
@@ -289,6 +289,7 @@ SADC Secretariat Final Report	962
 SADC Secretariat. Inputs	962
 SADC Seychelles	10421
 SADC Southern Africa Development SAFE Simple	12376
+SADC Southern African Development Community	12786
 SADC Southern African Development Community SASRA	2775
 SADC Southern African Development Community SDGs	11960
 SADC Standing Committee of Senior Officials	9761
@@ -318,9 +319,9 @@ SADC's Regional Infrastructure Development Master Plan	10324
 SADC-	11960
 SADC- SARB	12252
 SADC-DTS	1007
-SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495,292,419
-SADC-RTGS Main Indicators	12252
-SADC-RTGS Settlement Statistics and Indicators	12252
+SADC-RTGS	6360,1659,1,109,139,224,2639,3,331,495,292,419,165,16
+SADC-RTGS Main Indicators	12252,584
+SADC-RTGS Settlement Statistics and Indicators	12252,584
 SADC-RTGS and TCIB	12432,252
 SADC-RTGS-CSC	12252
 SADC-backed	12469

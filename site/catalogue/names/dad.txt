@@ -5,6 +5,7 @@ AGÊNCIA DE PROTECÇÃO DE DADOS CAPÍTULO	744
 AT. Dada	11898
 Abakar Mahamat. Tarik Dadi Combats Health	2380
 Abebe Adugna Dadi Practice Manager	969
+Acordo de Partilha de Dados	12800
 Actualité Me Rodrigue Dadjé	9620
 Actualização da Base de Dados	5204,1
 Actualização de Dados	10754,629
@@ -42,7 +43,7 @@ Autoridades de Proteção de Dados de Angola	3079
 BCDF LES MAIRIES Secrétariat Exécutif DADE	10876
 BCMS CAT CGI CT DADF DC	10858
 BULLA DADACHA MEDICAL CLINICS LIMITED Data	7167
-Base de Dados	5204,1333,4217,18,633,20,91,45,332
+Base de Dados	5204,1333,4217,18,633,20,91,45,332,891
 Base de Dados de Cidadão Maior	10756
 Base de Dados de Cidadãos Maiores	5791,4981,3,650
 Base de Dados de Eleitores	11561
@@ -80,10 +81,11 @@ Centro de Dados da Universidade Eduardo Mondlane	8807
 Centro de Dados de Maluana	3334
 Centro de Nacional de Dados	11382
 Centro de Processamento de Dados	5954
-Centros de Dados	2437,379,7324
+Centros de Dados	2437,379,7324,2634,34
+Centros de Dados Nacionais	12774
 Cientista de Dados	2816
 Cientistas de Dados	2816
-Ciência de Dados	11472
+Ciência de Dados	11472,1374
 Ciência de Dados. Requisitos Gerais. Os	11472
 Ciências de Dados	2816
 Comissão Nacional de Protecção de Dados	1338,742,265
@@ -168,6 +170,7 @@ Dados ADPP Ajuda de Desenvolvimento de Povo	11390
 Dados Abertos	2816,6616,2089
 Dados Abertos Info	11521
 Dados Abertos de OGDI	11569
+Dados Autoritativos	12774
 Dados Comissão de Acompanhamento	10766
 Dados Criam Oportunidades	8003
 Dados Demográficos	11537
@@ -216,6 +219,7 @@ Elaboração de Lei de Protecção de Dados	2816
 Estatuto Orgânico da Agência Angolana de Protecção de Dados	167
 Estatuto Orgânico da Agência de Protecção de Dados	744,8
 Estratégia Nacional de Dados	11963
+Estratégia Nacional de Governação de Dados	12799,31
 Estratégia de Governação de Dados	2816
 Estruturas de Dados	12019
 Expurgar da Base de Dados	10772
@@ -230,7 +234,7 @@ GOVERNAÇÃO DE DADOS PÚBLICOS E DADOS	11461
 Gestão de Dados	549
 Gestão de Dados da ANPG	11405
 Governança de Dados	11394,54
-Governação de Dados	2816,3893
+Governação de Dados	2816,3893,6090
 Hospedagem de Dados Públicos	11448
 Hospedagem de Dados Públicos Termos de Referência Luanda	11448
 Hospedagem de Dados Públicos. Tal	11448
@@ -270,6 +274,7 @@ Lei de Protecção de Dados Pessoais Luanda	5791
 Lei de Protecção de Dados. Este	2816
 Lei de Proteção de Dados	2690
 Levantamento Cadastral Base de Dados Nacional de Verificação	11898
+Licenciamento de Centros de Dados. Estas	12808
 MB Dados	11412
 Mapear Necessidades de Hospedagem de Dados	570
 Marocain Tarik Dadi	2407,41,490,2760,1057,635
@@ -289,6 +294,7 @@ Não Apenas Mais Dados Para	8003
 O Centro de Dados	5974,6,2847,31
 O Operador de Centro de Dados	6970
 O Operador de Centros de Dados	6970
+O Regulamento de Centros de Dados	12808
 Operador de Centro de Dados	11430
 Operador de Centros de Dados	6970
 Operadores de Centros de Dados	2437,4533
@@ -308,6 +314,7 @@ Partilha de Dados	11461
 Pessoas Serviços Sustentabilidade Economia Dados Literacia	11569
 Pilar Dados	11569
 Plano de Melhoria de Qualidade de Dados	2228
+Plataforma Comum de Comunicação de Dados	12774
 Política A Agência de Protecção de Dados	6852
 Política de Governação de Dados. Fonte	2816
 Por Dados Estatísticos Individuais	11516
@@ -319,6 +326,11 @@ Preservação de Dados	10747
 Presidente da Agência de Protecção de Dados	15
 Presidente da Agência de Protecção de Dados Pessoais	10747
 Primeira Estratégia Nacional de Dados	11963
+Princípio da Integridade de Dados	12774
+Princípio de Dados Autoritativos	12774
+Princípio de Dados Autoritários	12774
+Princípio de Partilha de Dados	12774
+Princípio de Recolha de Dados	12774
 Privacidade de Dados	2816
 Processamento de Dados	10754,23
 Processamento de Dados Pessoais	11374
@@ -326,8 +338,9 @@ Processamento de Dados Pessoais Princípio	11374
 Projecto de Lei de Alteração da Lei da Protecção de Dados	6847
 Proposta da Lei de Protecção de Dados	2816
 Proposta da Lei de Protecção de Dados Pessoais	2816
+Proposta de Lei de Protecção de Dados Pessoais	12813
 Protecção da Dados Pessoais	6568
-Protecção de Dados	2345,439,32,703,900,6336,664,37,32
+Protecção de Dados	2345,439,32,703,900,6336,664,37,32,1296
 Protecção de Dados AGÊNCIA DE PROTECÇÃO	11488
 Protecção de Dados Os	2816
 Protecção de Dados Pessoais	167,409,168,51,2021,1330,7217,5,6,9,73
@@ -349,6 +362,7 @@ Rede Lusófona de Proteção de Dados	3079
 Rede Lusófona de Proteção de Dados A Comissão	3079
 Rede Lusófona de Proteção de Dados Pessoais	6568
 Regime Jurídico Geral de Protecção de Dados	2345
+Regime Jurídico de Protecção de Dados Pessoais	12813
 Registo de Dados ARTIGO	539
 Registos Primários-Bases de Dados	11391
 Regulamento Geral de Protecção de Dados	2816

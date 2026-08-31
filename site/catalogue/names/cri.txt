@@ -189,7 +189,7 @@ Criamos	8179
 Criando	4250
 Criança	6970,3780,3,611,1,151,11,20,15,580
 Criança da UNICEF	11566
-Crianças	220,10530,3,1,6,17,683,117
+Crianças	220,10530,3,1,6,17,683,117,1197
 Crianças Menores	10777
 Crianças Mulheres	10760
 Crianças Mulheres Todos	10760
@@ -199,10 +199,10 @@ Crianças Pequenas Anticorpo Contra	10777
 Crianças. Foram	10777
 Crianças..........................................290	10777
 Crianҫa	10768
-Criar	2816,703,627,72,2244,4310,596,8,9,11,1,8,44,69,51
+Criar	2816,703,627,72,2244,4310,596,8,9,11,1,8,44,69,51,1205
 Criar Chatbots	2816
 Criativas	8385
-Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120
+Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120,749,29,24
 Criação Online de Empresa	12021
 Criação de Centros de Dados	2816
 Criação de Centros de Treinamento	2816
@@ -236,6 +236,7 @@ Crimes	3519,7906,886
 Crimes Cibernéticos	6970,77,689,2404
 Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 Crimes Cibernéticos. ASSEMBLEIA DA REPÚBLICA Lei	6970
+Crimes Económicos	12787
 Crimes Reported	2775
 Criminais	10750
 Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335
@@ -815,6 +816,7 @@ SECÇÃO III CRIMES	14
 SECÇÃO III CRIMES Artigo	14
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SOUS-SECTEURS ET SERVICES CRITIQUES	10906
+Salim Cripton Valá	12842
 Scientific and Industrial Research CTA Crime Threat	11188
 Section Evaluation Criteria Points Allocation Weight	11240
 Sector-Specific Critical Information Infrastructure	11754

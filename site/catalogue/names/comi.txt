@@ -100,6 +100,7 @@ Comissão Inspectiva	11452
 Comissão Inter-americana de Telecomunicações	2816
 Comissão Interministerial	10772
 Comissão Interministerial Social	3246
+Comissão Interministerial da Administração Pública	12783
 Comissão Interministerial de Gripe H1N1-2009	11376
 Comissão Intersectorial	11406
 Comissão Multissectorial de Apoio	11421,1,24,131
@@ -110,9 +111,10 @@ Comissão Nacional de Angola	7882,3505,91
 Comissão Nacional de Educação	10766
 Comissão Nacional de Eleições	4419,519,5333,1290,369,218
 Comissão Nacional de Eleições. ARTIGO	11528
+Comissão Nacional de Eleições. ASSEMBLEIA DA REPÚBLICA	12772
 Comissão Nacional de Fronteiras	5402
 Comissão Nacional de Fronteiras da Guiné-Bissau	5402
-Comissão Nacional de Inteligência Artificial	2816,7735
+Comissão Nacional de Inteligência Artificial	2816,7735,2272
 Comissão Nacional de Protecção Civil	10763,5
 Comissão Nacional de Protecção de Dados	1338,742,265
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
@@ -121,9 +123,11 @@ Comissão Nacional de Proteção de Dados Av. D	3079
 Comissão Nacional de Proteção de Dados Pessoais	11943
 Comissão Permanente	11443
 Comissão Setorial de Recenseamento	11528
-Comissão Técnica	10755,690,5,6
+Comissão Técnica	10755,690,5,6,1336,65
 Comissão Técnica Multissectorial de Coordenação	10551
 Comissão Técnica de Especialidade	11421,25,131
+Comissão Técnica de Materialização	12792
+Comissão Técnica de Normalização Sectorial	12782
 Comissão Técnico-Científica	4274
 Comissão da CEDEAO	8051
 Comissão da Comunidade Económica	8051
@@ -157,7 +161,9 @@ Comissões Provinciais Eleitorais	539
 Comissões Recenseadoras	11893
 Comissões Regionais de Eleições	11561
 Comissões Sectoriais de Recenseamento	11561
+Comissões Técnicas de Normalização	12782
 Comissões Técnicas de Normalização Permanente	11381
+Comissões Técnicas de Normalização. ARTIGO	12782
 Comissões da Assembleia Nacional	11436
 Comissões de Gestão	11514
 Comissões de Moradores	11425
@@ -356,6 +362,7 @@ Revue Comité	12043
 Règles de Fonctionnement du Comité National	2625
 Réunion du Comité Exécutif. L’ARSEL	10975
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
+SENHORES MEMBROS DA COMISSÃO PERMANENTE	12796
 SNFI. Le Comité de Pilotage	10965
 SUBSECÇÃO I COMISSÃO FUNDIÁRIA NACIONAL ARTIGO	11527
 SUBSECÇÃO II COMISSÕES FUNDIÁRIAS REGIONAIS ARTIGO	11527
@@ -364,6 +371,7 @@ Secretario Comisión Parlamentaria	4209
 Secretario General Comisión Nal. UNESCO Secretario	4209
 Segunda Teniente Alférez Alférez de Fragata Comisario	4209
 Servicio Grupo B Presidente Comisión Parlamentaria	4209
+Sessão da Comissão	12830
 Sharada and Comini	1264
 Sibiti. Selon le Comité	11999
 Smart Campus. Le Président du Comité de Pilotage	10524
@@ -375,5 +383,6 @@ Transf. Comité Nac. de Control de Precios Combustibles	4209
 Transf. Comité Nac. de Seguridad	4209
 Transf. Comité Nacional de Control de Precios Combustibles	4209
 Transformation du Comité de Pilotage	9406
+Transformação Digital da Comissão Economica	12799
 Travail Comité National de Coordination	3396
 Un Comité de Pilotage	9406

@@ -333,7 +333,7 @@ Central Medical Stores	4202,58,8309,37
 Central Medical Stores Procurement Depa1tment	4260
 Central Medical Stores. Liberia	4202
 Central Medicines and Medical Supplies Agency	4260
-Central de Medicamentos	4260
+Central de Medicamentos	4260,8540,63
 Centre Medium Term	1161
 Centre for Media	11095
 Centre for Medical Mobilisation Board Data Controller	7167
@@ -1364,6 +1364,7 @@ National Environmental MEDIUM-TERM SYSTEM ADEQUACY OUTLOOK	11228
 National Identification System MPSS Medium Term	11986
 National Institute for Health and Medical Research	12003
 National Institute for Medical Research	1261,7353
+National Institute for Small and Medium Enterprises	12819
 National List of Essential Medicines	10776
 National List of Essential Medicines LQAS	10776
 National Media AI	4126

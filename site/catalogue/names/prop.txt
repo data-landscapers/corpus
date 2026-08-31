@@ -58,6 +58,7 @@ Basic Property Data	11129
 Basins Basin Current Number of Blocks Proposed	12256
 Bill Proposes	7832
 Blue Moonlight Properties	2307
+Body CONSULTA PÚBLICA DA PROPOSTA	12827
 Budget Proposals	12588
 Budget Proposals for Organization	12580
 Build Sustainability Engage Communities Property	12457
@@ -69,7 +70,7 @@ Business and Intellectual Property Authority Ad	3714
 Business and Intellectual Property Authority Appeal	3714
 Business and Intellectual Property Authority Legislation	3714
 C. FINANCIAL PROPOSAL	962
-C. Proposed Development Objective	761,943,587,1165,7507,1174,289
+C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406
 C. REQUEST FOR PROPOSAL CONDITIONS	12400
 C. Request for Proposal Conditions	12400
 CAMPANHA E PROPAGANDA ELEITORAL	11528
@@ -149,7 +150,7 @@ DGI Proportion	10712
 DIANI PROPERTIES LIMITED Data Controller INST-756921BE076	7167
 DIREITOS DE PROPRIEDADE Artigo	11901
 DOCUMENT ON A PROPOSED CREDIT	989,9975,891
-DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616
+DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605
 DOCUMENT ON A PROPOSED LOAN	6539,4878
 DOCUMENT ON PROPOSED CREDITS	1264
 Da Proporcionalidade	539
@@ -350,6 +351,7 @@ Modulation Technique Proposed ITU	736
 Monetary Fund Internet of Things Intellectual Property	4528
 Movable Property	12598
 Mozambique's Industrial Proprietary Code	12161
+Moçambique. A Proposta de Lei	12813
 Municipal Property Tax System	2112
 Mweiga Homes Limited and Dualway Properties Limited	6946
 NA Proportion	2342
@@ -396,6 +398,7 @@ POSAF INDICATEURS DE RÉSULTAT Proportion	10712
 POSAF Proportion	10712
 PPS Probability Proportional	582
 PRINCIPAL IMMOVABLE PROPERTY OWNED AND LEASED	4896
+PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROPAGANDA ELEITORAL	11528
 PROPERTY	10793
 PROPERTY ENTITY	4896
@@ -416,7 +419,7 @@ PROPOSED CONSTRUCTION OF JITUME CENTRES	1638
 PROPOSED CREDIT	996,10909
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PROPOSED EXCISE DUTY INCREASE	12385
-PROPOSED GRANT	2254
+PROPOSED GRANT	2254,10526,1
 PROPOSED GRANTS	1264
 PROPOSED LISTING OF ECONET INFRACO	4263
 PROPOSED LOAN	6539,4229,612
@@ -545,7 +548,7 @@ Propiedad Servicio	4209
 Propinas	11472
 ProponAI European Court of Auditors Refreshworks Fastweb	8530
 Proponents	4970,4769
-Propor	13,154,2649,1330,1,71,6565,585,13,1,66,1,12,66,42,332,512
+Propor	13,154,2649,1330,1,71,6565,585,13,1,66,1,12,66,42,332,512,361
 Proporcionalidade	6970,4478,13
 Proporcionar	163,1538,4761,4934
 Proporcione	1701
@@ -684,31 +687,34 @@ ProposingConditionalandReversible	8301
 ProposingConditionalandReversible Deployment	8301
 Proposition	765,418,1783,3017,4417,565,1245
 Propositions	643,5340,4893,1167,132
-Proposta	3519,7264,590,1,82,442,244
+Proposta	3519,7264,590,1,82,442,244,657,14
 Proposta Estratégias de Retenção A Estratégia de Retenção	2816
 Proposta Financeira	11448
 Proposta OGE	4454,2
 Proposta Preliminar da Programação Anual	10783
 Proposta Técnica	11448
+Proposta da Estratégia Nacional de Inteligência Artificial	12830,16
+Proposta da Estratégia Nacional de Transformação Digital	12830
 Proposta da Lei da Segurança Cibernética	2816
 Proposta da Lei de Crimes Cibernéticos	2816
 Proposta da Lei de Direitos Digitais	2816
 Proposta da Lei de Inteligência Artificial	2816
 Proposta da Lei de Protecção de Dados	2816
 Proposta da Lei de Protecção de Dados Pessoais	2816
-Proposta da Política	2816
+Proposta da Política	2816,9983
 Proposta da Programação Anual	10783
 Proposta de Acções Estratégicas	2816
 Proposta de Arquitectura Organizacional	11456
 Proposta de Arquitetura Organizacional	11456
 Proposta de Estratégia Nacional	3558
 Proposta de Ficha de Monitorização Ambiental	11406
-Proposta de Lei	3519,1217,1055,1289,2177,2179,25,1,411
+Proposta de Lei	3519,1217,1055,1289,2177,2179,25,1,411,940
 Proposta de Lei Sobre	11490
 Proposta de Lei da Cibersegurança	9258,541,1616
 Proposta de Lei da Identificação Civil	3606,2380
 Proposta de Lei da Inteligência Artificial	11490
 Proposta de Lei de Bases	9799
+Proposta de Lei de Protecção de Dados Pessoais	12813
 Proposta de Procedimento de Triagem de Projectos	11406
 Proposta de Programa de Investimento Público	10783
 Proposta de Programas de Capacitação de Recursos Humanos Com	2816
@@ -724,7 +730,7 @@ Proposé	8684
 Propres	10975
 Propreté	3675,1220
 Propriedade	795,9955,680,591,290
-Propriedade Intelectual	11456
+Propriedade Intelectual	11456,1326
 Propriedade Intelectual Todo	11456
 Propriedade da Infra-estrutura	2866
 Propriedades	11898
@@ -884,6 +890,7 @@ WIPO Intellectual Property Statistics	10969,915,11,264,1,44,1,146,4
 WMoonrledtaInrtyeFlleucntdual Property Organization	11884,321
 Weighted Average Sale Price for Residential Properties	2775
 West Properties	4896
+Workshop de Validação da Proposta da Política	12799
 World Bank's Standard Request for Proposals	11905
 World Bank’s Standard Request for Proposals	10964
 World Intellectual Property	11550

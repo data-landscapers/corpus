@@ -292,7 +292,7 @@ Intelligent Platform	7367
 Interaction of Commercial and Government Digital Platforms	5349
 Intermediation Platform	3161
 Intermediation Platform Intermediation Platform	3161
-Interoperability Platform	3612
+Interoperability Platform	3612,9222
 Interoperability Platforms. Since GTMI	10785
 Interoperable Cloud Governmental Platform	11869
 Interoperable Instant Payment Platform	10203,726
@@ -447,8 +447,9 @@ Open Social Protection Platform	11133
 OpenHIM Platform	12458
 Operador de Plataformas Digitais	6970
 Operador de Plataformas de Computação	6970
-Operadores de Plataformas Digitais	2816,4154
+Operadores de Plataformas Digitais	2816,4154,5831
 Operadores de Plataformas Digitais Artigo	6970
+Operadores de Plataformas Digitais. Dentre	12791
 Operadores de Plataformas de Computação	6970
 Operators of Digital Platforms	12294
 Operação de Plataformas de Computação	2816
@@ -492,9 +493,10 @@ Pay TV Platforms	718
 Pay-As-You-Go Digital Fintech Platform	263
 Payments Platform	4095
 Pilot Cross-Border Data Exchange Platform	4326
-Plataforma	2613,3361,3425,1374,598,23,19,24,24,19,75,14,329,41,82
+Plataforma	2613,3361,3425,1374,598,23,19,24,24,19,75,14,329,41,82,836,6
 Plataforma Analítica	2132,481
 Plataforma Autentika Uma	11939
+Plataforma Comum de Comunicação de Dados	12774
 Plataforma Digitais	2816
 Plataforma Digital	7527,3246
 Plataforma E-learning	11463
@@ -517,9 +519,10 @@ Plataforma Nacional de Serviços Públicos Digitais	11461
 Plataforma Nacional de Serviços Públicos Digitais Artigo	11461
 Plataforma Online	11898
 Plataforma Política da Mulher	11527
+Plataforma Rede Cidadã	12857
 Plataforma Streaming Netflix	2816
 Plataforma Streaming Netflix. Fonte	2816
-Plataforma Tecnológica de Interoperabilidade	11371
+Plataforma Tecnológica de Interoperabilidade	11371,1403
 Plataforma de Acção de Beijing	11362
 Plataforma de Atendimento Online	11480
 Plataforma de Ação de Pequim	11562
@@ -528,12 +531,14 @@ Plataforma de Comunicação VoIP	11939
 Plataforma de Concertação Técnica Regiões	11587
 Plataforma de Gestão	11480
 Plataforma de Gestão Integrada da Identificação Civil	180,40,10545,10
-Plataforma de Interoperabilidade	11569
+Plataforma de Inteligência Artificial da ITU	12846
+Plataforma de Interoperabilidade	11569,1205,48,41
 Plataforma de Interoperabilidade Central. O Plano Nacional	11371
 Plataforma de Interoperabilidade da Administração Pública	11394,48,2,17
+Plataforma de Interoperabilidade de Governo Electrónico	12774
 Plataforma de Mulheres	11362
 Plataforma de Pagamento	11569
-Plataforma de Pagamentos	8003
+Plataforma de Pagamentos	8003,4845
 Plataforma de Serviços	11555
 Plataformas	8827,2567,67,108
 Plataformas Digitais	3246,8150,1,172
@@ -541,7 +546,7 @@ Plataformas Espaciais Nacionais	11898
 Plataformas Estatísticos	9323
 Plataformas Integradas de Informação Policiais	11392
 Plataformas Intervenção	11569
-Plataformas de Computação	6970
+Plataformas de Computação	6970,5838
 Plataformas de Streaming	2816
 Plataformização. Revista Fronteiras	10775
 Plateau	737,1627,89,403,393,395,710,224,900,702,55,365,1205,268,93,2305,455,4,7,532,472,57,52
@@ -782,7 +787,7 @@ Within the Digital Government Platform	12359
 Women’s Political Platform of Guinea-Bissau	11586
 World Bank Group Guarantee Platform	11310,166
 World Bank. Poverty and Inequality Platform	11417
-X-Road Interoperability Platform	6334
+X-Road Interoperability Platform	6334,6500
 Xchange Platform	169,1427,2059,34,2486,829,5350
 Xeon Platinum	11471
 ZCHPC and National Data Platform	4528

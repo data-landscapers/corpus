@@ -69,8 +69,8 @@ ENSINO SECUNDÁRIO PEDAGÓGICO	10766
 ENSINO TÉCNICO-PROFISSIONAL	10766
 ENSO. Data	12611
 ENSPT	10948
-ENSSB	12247
-ENSSB II	12142
+ENSSB	12247,534
+ENSSB II	12142,690
 ENSUBEB	6211
 ENSURE ACCESS TO QUALITY EDUCATION	899
 ENSURE EFFICIENT DIGITAL TRANSFORMATION	3604
@@ -127,6 +127,7 @@ Ensibuuko	11773
 Ensinar	4146
 Ensinger GmbH	8342
 Ensino	2816,1228,6722,11,583,27,19,13,2,156,490
+Ensino Aberto	12777
 Ensino Básico	1948,9575,34
 Ensino Básico Nos	11523
 Ensino Especial	10766
@@ -135,7 +136,7 @@ Ensino Geral Direcção Nacional de Educação de Jovens	10766
 Ensino MASFAMU	11387
 Ensino Masculino Ministério da Educação Total de Masculinos	10766
 Ensino Presencial	10766
-Ensino Primário	10750,16,11,610,32,158,490
+Ensino Primário	10750,16,11,610,32,158,490,721
 Ensino Primário Direcção Nacional	10766
 Ensino Primário População Novos	10766
 Ensino Primário Província	10766
@@ -168,7 +169,7 @@ Ensino Privado Província MF M	10766
 Ensino Privado Província Professores	10766
 Ensino Privado Província Total Privado Definitivas	10766
 Ensino Pré-Escolar	10766
-Ensino Público	10766
+Ensino Público	10766,2022
 Ensino Público Província	10766
 Ensino Público Província Angola Bengo Benguela	10766
 Ensino Público Província MF M	10766
@@ -180,7 +181,7 @@ Ensino Público-Privado Província Angola Bengo Benguela	10766
 Ensino Público-Privado Província MF M	10766
 Ensino Público-Privado Província Professores	10766
 Ensino Público-privado	10766
-Ensino Secundário	1948,3202,5616,621,32,53,105,490
+Ensino Secundário	1948,3202,5616,621,32,53,105,490,721
 Ensino Secundário Direcção Nacional	10766
 Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
@@ -229,7 +230,7 @@ Ensino Secundário TécnicoProfissional Província TLE	10766
 Ensino Secundário de Adultos	10766
 Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
-Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75
+Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75,1138,39
 Ensino Superior ID	9441
 Ensino Superior ML	2816
 Ensino Superior Ministério da Energia	11569
@@ -240,6 +241,7 @@ Ensino Superior da Guiné-Bissau	11538
 Ensino Superior-MCTES ID	9441
 Ensino Superior. Os	11577
 Ensino Técnico	1948,9575
+Ensino Técnico Profissional	12777
 Ensino Técnico-Profissional Recenseamento Geral da População	10766
 Ensino X X Superior	11569
 Ensino da República de Angola	11387
@@ -250,7 +252,7 @@ Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
 Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79,25
 Ensure AI	1814,2714,7828,156,163
 Ensure AU Member States	1814
 Ensure Access	4528,7329,655
@@ -340,7 +342,7 @@ Infrastructure Over A Retail CBDC ENS	6998
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Innovations Ensuring Sustainability	12457
 Instituições de Ensino Públicas	11419
-Instituições de Ensino Superior	11387,4,19,222
+Instituições de Ensino Superior	11387,4,19,222,1198
 Instituições de Ensino Superior INE	11387
 Instituto Nacional de Enseñanzas Social	4209
 Integrity and Justice Ensure	5244
@@ -387,6 +389,7 @@ Privacy Design E.g. Ensure	11004
 Privacy E ENS ArticleThe New DPO	6632
 Privacy E ENS ArticleVisitor Data	6632
 Proceso de Enseñanza-Aprendizaje	4209
+Processo de Ensino	12788
 Protéines Lipides Glucides Fibres Ensemble	737
 Préscolaire Primaire Postprimaire Secondaire Ensemble	737
 Recherche ESRS Enseignement Supérieur	12
@@ -400,7 +403,7 @@ STEP. Activities Substantial Ensure	10768
 SUSTAINABILITY Ensuring	12240
 Secundário Ensino	10777
 Serviços de Ensino	12018
-Sistema de Ensino	11577
+Sistema de Ensino	11577,1200
 Site Ensuring	12253
 Source. Ensuite	747
 Specialist Ensure	1988

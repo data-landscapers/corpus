@@ -194,6 +194,7 @@ Cameroonian Civil Status Registration Ordinance	10979
 Canciller Ordenes Nacionales	4209
 Capacity-Building and Organizational Development Expert	12008
 Capgemini and Orange	6477
+Carla Alexandra Oreste	12789
 Case Study EthSwitch Ethiopia Origin	12269
 Case Study SIMO Mozambique Origin Story	12270
 Case Study of Orange Senegal and Uganda	10822
@@ -447,7 +448,7 @@ Erroneous Order	12364
 Estado Orlando Fernandes	10753
 Estado de Direito. A Ordem	11436
 Estados-Membros da Organização	11379
-Estatuto Orgânico	2866,1280,72,6554,7,582,20,1,33,34,3,64
+Estatuto Orgânico	2866,1280,72,6554,7,582,20,1,33,34,3,64,1267,6
 Estatuto Orgânico da AGT	11435
 Estatuto Orgânico da APD	10770
 Estatuto Orgânico da Administração Geral Tributária	11435
@@ -516,7 +517,7 @@ Fondation Orient-Occident	8891
 Food and Agricultural Organization	11572
 Food and Agriculture Organisation	9136
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233,88
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Agriculture Organization of United Nations	12667
 Foreign-Based Organizations	2724
@@ -680,7 +681,7 @@ International Organisation of Securities Commissions	10570
 International Organisations	1814,1682,7323,1730
 International Organization	4676,6634
 International Organization Charters	2958
-International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359
+International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552
 International Organization for Migration. Available	11909
 International Organization for Standardization	3604,257,4212,3061,1230
 International Organization of La Francophonie	3433
@@ -751,7 +752,7 @@ Le Groupement Orange Services	2608
 Le Groupement Orange Services S.A	2608
 Legal Technical Capacity Organizational	10764
 Legislação Orçamental. CAPÍTULO VI Supervisão	6970
-Lei Orgânica	11456,477
+Lei Orgânica	11456,477,852
 Lei Orgânica da APD	11456
 Lei Orgânica da Agência de Protecção de Dados	11456
 Lei de Organização Judiciária	6462
@@ -865,7 +866,7 @@ Multi-Year Tariff Order	12062
 Multigovernmental Organisations	11956
 Multilateral Organisations World Health Organisation	961
 Mº de CATASTRO Y ORDENACION DE TIERRAS	4209
-Médio Oriente	4250,2106,3634
+Médio Oriente	4250,2106,3634,2800
 N ORGANISATION	11857
 NATO North Atlantic Treaty Organization CSA	6936
 NCT05684055. Original	12712
@@ -1575,7 +1576,7 @@ Organisations for Persons	12231
 Organisations of Persons	8332,1958,2402
 Organisationsabläufe	904
 Organisationsmust	8606
-Organise	747,457,610,9062,84
+Organise	747,457,610,9062,84,1811
 Organised	3038,190,3604,340,272,61,450,1840,467,926,89,162,219
 Organised Agriculture	11188
 Organised Labour	9730
@@ -1671,6 +1672,7 @@ Organizational Structure and Governance Framework Report	3678
 Organizational Structure of Civil Registration	12151
 Organizational Structure of Courts	12389
 Organizations	1988,108,1384,646,133,626,464,804,994,4,424,21,370,452,79,575,1637,56,87,277,25,19,23,667,104,226,104,5,54,32,1,55
+Organizations Affiliated	12837
 Organizations Borrower	1867,8901,61,696,35
 Organizations CSP Country Strategy Paper CVE	11863
 Organizations Included	7151
@@ -1683,7 +1685,7 @@ Organizations Will Integrate AI	2816
 Organizations and Society	8021
 Organization’s African Joint Operation	8777
 Organization’s Name	11129
-Organização	14,2604,198,1402,2708,3821,3,4,12,604,6,3,8,3,4,11,16,4,21,9,27,61,14,4,8,8,278
+Organização	14,2604,198,1402,2708,3821,3,4,12,604,6,3,8,3,4,11,16,4,21,9,27,61,14,4,8,8,278,920
 Organização Internacional	11409,733
 Organização Internacional de Normalização	11381
 Organização Mundial	11376,5
@@ -1699,7 +1701,7 @@ Organização de Saúde	11543
 Organizações	10766,765,31,459
 Organizações Internacionais	2816,8617,114
 Organizações Internacionais de Normalização	11381
-Organizações Não Governamentais	11569
+Organizações Não Governamentais	11569,1213
 Organizações Não-Governamentais	11449
 Organizações da Sociedade	10752
 Organizações da Sociedade Civil	11569
@@ -1784,6 +1786,7 @@ Original ID	12337
 Original Investment	12457
 Original Language	9892,1
 Original Objective	11891
+Original PAD	12780
 Original PDO	1228
 Original Paper	7810,156
 Original Performance Information for Programme	11218
@@ -1889,7 +1892,9 @@ Orçamentado	10783
 Orçamentado. Artigo	10783
 Orçamentados	10783
 Orçamentados. Artigo	10783
-Orçamento	1256,9,3,70,4,89,1,429,228,57,1,669,302,1011,18,71,56,145,44,1,552,427,278,809,1989,2863,8,23,148,294,46,117
+Orçamentação	12789
+Orçamento	1256,9,3,70,4,89,1,429,228,57,1,669,302,1011,18,71,56,145,44,1,552,427,278,809,1989,2863,8,23,148,294,46,117,769,2,7
+Orçamento Anual	12823
 Orçamento Anual Estimado	11406
 Orçamento Estado	12018
 Orçamento Geral	13,154,2128,70,1154,88,286,10,315,339,545,102,1,781,708,8,4078,3,578,11,10,5,47,18,64,11,20,21
@@ -2121,7 +2126,7 @@ Serviços Orientados	11394
 Ses Hautes Orientations	8891
 Session Ordinaire	1241
 Session Ordinaire du Conseil	7925
-Sessão Ordinária	2437,379,1259,745
+Sessão Ordinária	2437,379,1259,745,7993
 Sessão Plenária Ordinária	11473
 Seventh Ordinary Session	7793,157,546
 Shanghai Cooperation Organization	10038
@@ -2376,6 +2381,7 @@ World Trade Organization. Participants	9538
 World Trade Organization. WWF	10718
 WorldTrade Organisation	961
 WveolorlpdmTerandte Organization and United	10969
+XVII Sessão Ordinária	12842
 Y ORIENT. LABO.- Conc1epto.-	4209
 Y ORIENT. LABO.- Conc4epto.-	4209
 Yamoussoukro. Organisée	4170

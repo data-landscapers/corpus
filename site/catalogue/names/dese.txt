@@ -5,6 +5,7 @@ Afectadas PIDLCP Programa Integrado de Desenvolvimento Local	11390
 Agente de Desenvolvimento Comunitário	11390
 Agentes de Desenvolvimento Comunitário	10768,9,901
 Agência Nacional de Desenvolvi-	2125
+Agência Nacional de Desenvolvimento Geo-Espacial	12823
 Agência Nacional de Desenvolvimento Geo-espacial	2125,7309
 Ajuda de Desenvolvimento de Povo	11557
 Albinismo No Plano de Desenvolvimento Nacional	11577
@@ -73,7 +74,7 @@ Desenvolver Plano de Trabalho	11448
 Desenvolvi	11527
 Desenvolvido	6837,2595
 Desenvolvido Por SP Media	9799
-Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180
+Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123,180,576,17,36
 Desenvolvimento Agrícola	12034
 Desenvolvimento Comunitário	10763
 Desenvolvimento Comunitário AP Agente Parceiro APEE	11557
@@ -83,8 +84,9 @@ Desenvolvimento Económico Local	2816
 Desenvolvimento Económico ONU	2816
 Desenvolvimento Experimental	11385
 Desenvolvimento Global	11564
-Desenvolvimento Humano	795,10567,175,6
+Desenvolvimento Humano	795,10567,175,6,1234,11
 Desenvolvimento Humano ID	9441
+Desenvolvimento Humano Título	12788
 Desenvolvimento Inclusivo Garantimos	9432
 Desenvolvimento Inclusivo O Projecto de Audiências Virtuais	10782
 Desenvolvimento Institucional	11379
@@ -93,15 +95,16 @@ Desenvolvimento Internacional	10760,17
 Desenvolvimento POP Procedimentos Operacionais Padrão	11376
 Desenvolvimento RAM	2816
 Desenvolvimento Regional. Adicionalmente	11366
-Desenvolvimento Rural	11527
+Desenvolvimento Rural	11527,1250
 Desenvolvimento Social	11108
 Desenvolvimento Sus	11527
 Desenvolvimento Sustentavel	1341,743,2330
 Desenvolvimento Sustentáveis. Fruto	1215
-Desenvolvimento Sustentável	2816,703,5741,2133,62,72
+Desenvolvimento Sustentável	2816,703,5741,2133,62,72,1282
 Desenvolvimento Sustentável RMPGB Rede	11557
 Desenvolvimento Sustentável. Cabo Verde	1948
 Desenvolvimento Sustentável. Protegemos	1265
+Desenvolvimento Territorial	12824
 Desenvolvimento Unido	12201
 Desenvolvimento Urbano Sustentável	2816
 Desenvolvimento X X Rural	11569
@@ -113,6 +116,7 @@ Desenvolvimento da Educação	9259
 Desenvolvimento da Educação Guiné-Bissau	11538
 Desenvolvimento da Educação Lei de Bases	10766
 Desenvolvimento da Estratégia de Inteligência Artificial	2816
+Desenvolvimento da Governação Electrónica	12777
 Desenvolvimento da IA	2816,703
 Desenvolvimento da IA Para	2816
 Desenvolvimento da Inteligência Artificial. Este	2816
@@ -135,6 +139,7 @@ Desenvolvimento de Instrumentos Normativos Complementares	11448
 Desenvolvimento de KPIs	11448
 Desenvolvimento de Mo	12201
 Desenvolvimento de Produtos	2816
+Desenvolvimento de Recursos Humanos	12777
 Desenvolvimento de Software	11413
 Desenvolvimento de TIC	11569
 Desenvolvimento de Talentos	11564
@@ -146,13 +151,16 @@ Desert Air	12378
 Desertification	1988
 Diplomas de Desenvolvimento	11430,1
 Distribuição Desenvolvida	11430
+EDUCAÇÃO E DESENVOLVIMENTO HUMANO	12777
+EIXOS DE DESENVOLVIMENTO O Plano Estratégico	12777
+ENDE Estratégia Nacional de Desenvolvimento	12787
 ENQUADRAMENTO AO PLANO DE DESENVOLVIMENTO NACIONAL	11397
 ESTADO DE DESENVOLVIMENTO DA INTELIGÊNCIA ARTIFICIAL	2816
 ESTUDO E DESENVOLVIMENTO DE POLÍTICAS	11397
 Elevado Desempenho	11387
 Escola Superior de Desenvolvimento Rural	2816
 Estado de Desenvolvimento da Inteligência Artificial	2816
-Estratégia Nacional de Desenvolvimento	9694
+Estratégia Nacional de Desenvolvimento	9694,3093,59
 Estratégia Nacional de Desenvolvimento Estatístico	11449
 Estratégia Nacional de Desenvolvimento da Estatística	6619,4907
 Estratégia Nacional de Desenvolvimento da Profissão Docente	11557
@@ -175,6 +183,7 @@ INDICADORES DOS OBJECTIVOS DE DESENVOLVIMENTO SUSTENTÁVEL	10777
 INOVAÇÃO E DESENVOLVIMENTO	11397
 INSTITUTO DE DESENVOLVIMENTO LOCAL-FAS	11406
 Indicadores Balanceados de Desempenho	11379
+Instituições Financeiras de Desenvolvimento	12789
 Instituto de Desenvolvimento Industrial	11443
 Instituto de Desenvolvimento Local-Fundo de Apoio Social	11406
 Juiz Desembargador	11561
@@ -192,6 +201,7 @@ O DESENVOLVIMENTO SUSTENTÁVEL	1341,743,2330
 O Desenvolvimento da Economia Digital	11396
 O Plano Nacional de Desenvolvimento	11366,203
 O Plano de Desenvolvimento Nacional	1215
+O Programa de Desenvolvimento Ambiental	12857
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
 OBJECTIVO DE DESENVOLVIMENTO DO PROJECTO	11390
 OBSERVAR PELOS DESENVOLVEDORES E FORNECEDORES	3519
@@ -201,7 +211,7 @@ Objectivo de Desenvolvimento	11406
 Objectivo de Desenvolvimento Sustentável	11387
 Objectivos de Desenvolvimento	11362
 Objectivos de Desenvolvimento Estratégico	11394
-Objectivos de Desenvolvimento Sustentável	2816,5066,1378,434,1066,17,602,15,2,1,129
+Objectivos de Desenvolvimento Sustentável	2816,5066,1378,434,1066,17,602,15,2,1,129,1305
 Objectivos de Desenvolvimento Sustentável OGE	11387
 Objectivos de Desenvolvimento Sustentável da ONU	2816
 Objectivos de Desenvolvimento Sustentável da ONU. Os	8996
@@ -209,6 +219,7 @@ Objetivo de Desenvolvimento Sustentável. Disse	2671
 Objetivos de Desenvolvimento Sustentável	2816,7941,786,26
 Objetivos de Desenvolvimento Sustentável da ONU. A AI	2816
 Os Objetivos de Desenvolvimento Sustentável	11547
+Outubro A Estratégia de Desenvolvimento	12794
 PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PRINCIPAIS ACTIVIDADES DESENVOLVIDAS PELO GOVERNO	2816
 PROMOÇÃO E ACOMPANHAMENTO DO DESENVOLVIMENTO	11397

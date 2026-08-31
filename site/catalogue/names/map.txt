@@ -17,6 +17,7 @@ Africa Nenda IPS Map	5124
 Africa's National Broadband Mapping Systems	1456
 Africa. The Africa Broadband Maps	6427
 Agency Map	1161
+Al Mansour Holding Maputo	12790
 Annex V. Maps	10763
 Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5063,40
 Azerbaijan Yes Strategic Road Map	11529
@@ -26,12 +27,17 @@ BIODEX MAPPING LIMITED Data Processor INST-783118696A8	7167
 Bajeti. MPANGO NA MAKADIRIO YA MAPATO	6019
 Banco de Moçambique. Maputo	5169
 Baraza la Mapinduzi	2868,3151
+Body MAPUTO	12784
+Body Maputo	12795,26,27
 Broadcasting Overview Country Mapping for The Pay-Tv	9781
 Business Model Mapping	9198
 Business Process Map CEC	12338
 CIUP Pedagogical University of Maputo Informatics Center	4214
 Carta de Maputo	11439
 Chama Cha Mapinduzi	6019
+Cidade de Maputo	12792
+Cidade de Maputo. Artigo	12823
+Cidade de Maputo. O Memorando	12846
 City of Maputo	12201
 Component Technology Mapping	1009
 Conselho Municipal de Maputo	574
@@ -67,6 +73,7 @@ Dr. Layli Maparyan	7721
 Dr. Maparyan	7721
 Dr. Mcebisi Maphosa	1554
 Drones and Geospatial Mapping	7016
+Dubai. Maputo	12839
 ELECTORAL COMMISSION ROAD MAP	1920
 ESWATINI Stakeholder Mapping	12444
 Ecosystem Mapping Study	9309
@@ -143,7 +150,7 @@ MAPTES	11547
 MAPTESS	10762
 MAPTESS Ministério da Administração Pública	11547
 MAPTSS	4075,7315
-MAPUTO	2816,1393
+MAPUTO	2816,1393,8578,5
 MEASURE Evaluation. Mapping	12255
 MPANGO NA MAKADIRIO YA MAPATO NA	2868
 MUHTASARI WA MAKADIRIO YA MAPATO NA	6019
@@ -217,6 +224,7 @@ Mapato Tanzania	6019,2444,1963
 Mapbox	12427
 Mape Et Nkondjock	10975
 Mapeamento	2816,8597,43,113
+Mapeamento Geográfico	12862
 Mapear Necessidades de Hospedagem de Dados	570
 Mapeera House	7875
 Mapegy	11786
@@ -278,19 +286,20 @@ Mapsanganhe Leonel Nhavene Inalda Ernesto POSITION	2989
 Mapulanga	2948
 Mapunda M. Tanzania	1261
 Mapunda&volume	1261
-Maputo	12,562,572,81,1,298,201,13,89,399,206,167,30,3,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,22,294,53,211,260,1,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58,217,133,380,1,99,159,21,5,69,68,17,161,201,8,38,15,5,1,3,27,40,363,31
+Maputo	12,562,572,81,1,298,201,13,89,399,206,167,30,3,33,117,32,173,69,349,82,44,630,17,34,291,1,452,1,71,57,27,59,215,166,109,294,109,396,73,17,191,28,4,22,369,513,96,225,43,168,1,173,22,294,53,211,260,1,1,124,47,34,2,8,4,302,211,124,56,6,81,277,48,58,217,133,380,1,99,159,21,5,69,68,17,161,201,8,38,15,5,1,3,27,40,363,31,112,1,2,3,3,1,3,4,6,2,1,1,5,1,2,3,1,6,3,4,5,2,2,4,5,2,1
 Maputo Along	9446
 Maputo Caixa Postal	2474
 Maputo Cidade	12147
 Maputo City	7679,3940,582
 Maputo City MDM	12201
 Maputo City and Beluluane	7673
+Maputo Corridor	12804
 Maputo Deadline	11619
 Maputo How Amazon	6365
 Maputo Internet Forum	110
 Maputo Mozambique Either Participant	4260
 Maputo Mozambique Ministerio	4260
-Maputo Port	8754
+Maputo Port	8754,4049
 Maputo Protocol	3583,4095,807
 Maputo Province	5406,1391,876,1034,3494
 Maputo Province Frelimo	12201
@@ -302,14 +311,17 @@ Maputo Provincia MDM	12201
 Maputo Thermal Power Plant. Revenue	12316
 Maputo Web	12148
 Maputo and Gaza	10219,1982
-Maputo and Matola	12275
+Maputo and Matola	12275,501
 Maputo. Buyer	11619
+Maputo. Com	12842
+Maputo. Falando	12795
 Maputo. IOM	1743
 Maputo. Lusa	8743
 Maputo. Na FACIM	2816
 Maputo. Para	414
 Maputo. Prof. Dr. Eng. Lourino Chemane	10300
 Maputo. The ID	8004
+Maputo. The STP	12786
 Maputsoe	12654,88,25
 Maputsoe Substation and Mabote Substation	12767
 Maputsoe-Ficksburg	12724
@@ -351,7 +363,7 @@ Preliminary Mapping of Data Localisation Measures	1243
 Professor Paul Mapfumo	520
 Protocole de Maputo	10826
 Protocolo de Maputo. A Constituição	11562
-Provinces of Maputo	12201
+Provinces of Maputo	12201,642
 Pêche MaPCAD Manuel des Procédures de Collecte	10876
 Regional Centre for Mapping of Resources for Development	5805
 Regional Map Depicts	2677

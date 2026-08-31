@@ -318,6 +318,7 @@ Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
 Hospital CEOs and Provincial	8603
 Hospital Central de Maputo	2816,7372
+Hospital Central de Quelimane	12821
 Hospital Chemical	9123
 Hospital Data Management	12207
 Hospital Data Management Module for Births Registration	12186
@@ -329,6 +330,8 @@ Hospital Edition. Byline	5984
 Hospital Electronic Health Record	12606
 Hospital General de Malabo Malabo	4209
 Hospital Geral	11429,3,47
+Hospital Geral da Beira	12821
+Hospital Geral de Mavalane	12821
 Hospital Health Information System	12207
 Hospital Information System	3604
 Hospital Information System Maturity Model	1824,10431

@@ -171,7 +171,7 @@ CONTROLE DE VERSÕES Versão Resumo	11532
 CRE Venture Capital	9616
 CRE Venture Capital Fund III	1050
 CRE Venture Capital and Janngo Capital	1138
-Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103
+Cabo Verde	356,46,401,440,13,8,1,73,1,1,2,5,1,61,1,21,1,31,2,271,125,48,15,24,106,26,1,1,7,2,3,33,218,56,99,118,64,8,117,4,5,31,13,5,56,31,127,337,142,45,64,42,12,44,78,113,125,207,123,8,159,5,252,40,137,4,138,111,3,51,36,68,20,11,8,14,33,106,204,65,123,20,10,3,25,126,45,294,20,18,3,221,15,126,5,404,110,255,174,67,95,136,21,124,314,91,447,113,616,89,194,161,242,123,45,5,4,17,50,3,8,10,112,37,103,224,107,22,52,18,2,13,15,4,1,3,286,8,4,2,1,3,13,1,2,2,4,3,3,8,21,1,2,6,2,14,8,2,4,33,6,3,3,2,2,3,18,1,113,1,9,47,68,63,11,1,32,103,347
 Cabo Verde Action Plan	11873
 Cabo Verde Action Plan Review	11873
 Cabo Verde Airlines	3956
@@ -312,7 +312,7 @@ Call for Proposals for Pre-Set Consortia Verbatim	5773
 Cambridge Enterprise and Summit Ventures	11128
 Cameroun. Vers	3107
 Can Cape Verde	2945
-Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42
+Cape Verde	599,190,224,230,220,361,970,9,8,54,80,299,133,176,11,99,518,731,125,23,373,155,27,435,311,211,366,294,277,1542,82,1751,668,57,254,6,4,5,31,22,12,59,42,801
 Cape Verde Accelerates Digital Transformation	3663
 Cape Verde António Gonçalves Partner Costa	11943
 Cape Verde Cape Verde	11909
@@ -551,6 +551,7 @@ Entidade de Certificação Raiz de Cabo Verde	11867
 Environnemental IV Vers	8891
 Estado de Cabo Verde	1256,86,712,35,1578,752,1043,2004,1309,3243
 Estado de Cabo Verde. Permite	7466
+Estado. A Linha Verde	12798
 Estimated. Algebra Ventures	4453
 Estonia and Rwanda. Cape Verde	2945
 Estratégia da Economia Digital de Cabo Verde	2690,1391,1362
@@ -700,6 +701,7 @@ Identity Verification System	7700
 Identity Verification System Platform. Businesses	7369
 Igwe-Okomiso DO. Vertical	10919
 Implementação da Interoperabilidade da AP Registo de Versão	11442
+Implementação da Linha Verde Nacional de Denúncias Contra	12798
 Important Important Very Important Graph	12445
 Importância Emissão Talão de Venda REMPE Tributo	12018
 Imprensa Nacional de Cabo Verde	1265,3,468,4794,41,5450
@@ -775,6 +777,7 @@ Levantamento Cadastral Base de Dados Nacional de Verificação	11898
 Lex Lata Vel Non	5242
 Licensed Verification Agents	3703
 Ligne Verte	4869
+Linha Verde Nacional de Denúncias Contra	12798
 Linhas de Cabo Verde	1948
 Linked Indicators and Verification Protocols	11905
 Liquidity and Velocity	5863
@@ -924,6 +927,7 @@ P1 Ventures	7517,4727
 P1 Ventures’ US	4972
 PAM External Vendor User Subscription	10616
 PAM External Vendor User Subscription Licenses	10616
+PARA IMPLEMENTAÇÃO DA LINHA VERDE NACIONAL	12798
 PARTECH AFRICA VENTURE CAPITAL FUND	188
 PARTECH AFRICA VENTURE CAPITAL FUND II	855
 PCA da Imprensa Nacional de Cabo Verde	6571
@@ -1597,7 +1601,7 @@ Verification of Security Interest Notice	12389
 Verification-to-Delegation	8283
 Verification-to-Delegation Threshold	8283
 Verifications	11212
-Verificação	2816,8561,48,5,90,62
+Verificação	2816,8561,48,5,90,62,1271
 Verificação da Conformidade	11898
 Verificação de Incapacidades	11467
 Verificações	10777
@@ -1684,7 +1688,7 @@ Versluis	8603
 Verstrekking van Kommunikasie	11190
 Verstrekking van Kommunikasie-verwante Inligting	11190
 Verswarende	11190
-Versão	2816,8628,19,69,11,12,463
+Versão	2816,8628,19,69,11,12,463,809,19
 Versão Final da Lei Orgânica	11456
 Vertente Programação	12019
 Vertente Tecnologia de Informação	12019
@@ -1740,6 +1744,7 @@ Very-small-aperture	3251
 Verzameling	1009
 VerÍssimo Tamba	11544
 Verão	6571
+Verónica Nataniel Macamo Dhlovo. Promulgada	12772
 Verônica Dos Santos	6069
 Veröffentlicht Auftraggeber	8546
 Veröffentlichung	8546
@@ -1769,6 +1774,7 @@ Vetting and Approval	11995
 Veuillez	5983,96,499,892,2241,33
 Vexa Infrastructure	12521
 Vexa SA	12521
+Vez Mais Digital	12841
 Vezeeta	7766
 Vezes	8827
 Veículo Ligeiro	11532

@@ -134,7 +134,7 @@ Association of Local Governments of Nigeria	10704,1345,2
 Au Projet De Loi N	11034
 Audit Logs	12400
 Audre Lorde	4258
-Autarquias Locais	744,6016,4023,601,4,73
+Autarquias Locais	744,6016,4023,601,4,73,1313,15
 Authentication for Loan Agreement	12333
 Autonomous District of Greater Lome	4293
 Autoridades Locais	11425
@@ -238,6 +238,7 @@ CAMARA DE LOS DIPUTADOS Cuentas CONCEPTO	4209
 CAPEX- Local Investments	3862
 CARACTERISTIQUES ET ETAT DES LOCAUX	10847
 CARACTÈRE PERSONNEL Loi	10812
+CARLA LOVEIRA	12796
 CBE Logo	11131
 CBN Data Localisation Directive	7960
 CBN Data Localization Mandate	7066
@@ -287,7 +288,8 @@ Capacity Base Stations Latitude Longitude Antenna	736
 Capital Lockup KES	10738
 Car Loan Scheme Fund Financial Statements	6946
 Career Card Logo	12215
-Carla Loveira	8003
+Carla Louveira	12816,32
+Carla Loveira	8003,4795
 Carolyn Logan	7886
 Casa Vera Lounge	12189
 Case Selection Logic and Scope Cases	7966
@@ -565,6 +567,7 @@ Enablement of Local Production	4045
 Enabling Long-Term Infrastructure Finance	11310
 Energy Regulation Board and Longacres Mall	10552
 Energy and Public Utilities Ministry of Local	11332
+Eng. Lourino Chemane	12810
 Engagement Local Aspects of Local	1988
 Enquiries Log	12041
 Ensure Long	11131,3
@@ -1185,9 +1188,9 @@ Lobola	5774,499,547,1,222
 Loc'ais	11514
 LocNet	8161,86,1014
 LocNet’s Africa	8161
-Locais	539,3679,7155,48,25,68,63
+Locais	539,3679,7155,48,25,68,63,1197
 Locais Condicionados	539
-Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67
+Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67,14
 Local AI	9921
 Local AI Ecosystem	11140
 Local Access Licence	5872
@@ -1437,7 +1440,7 @@ Local-language	8815
 LocalNationalProvincialUnspecified Province- Any	11215
 Locale	10848
 Localidade	11373
-Localidades	1526
+Localidades	1526,11258
 Localisation	961,48,234,1914,691,1394,1457,236,3253,687,1,1442
 Localisation Requirements Regular Legal	6432
 Localise	899,10958
@@ -1681,6 +1684,7 @@ Loko Abraham	1824,10431
 Lokoja	7632
 Lokossa	3682,2535,4,3689,966
 Lokossa. Elle	6341
+Loli Arribas-Banos	12832
 Loliwe	11551
 Lolodorf	2695
 Lolwe	9739
@@ -2021,17 +2025,18 @@ Lourenço Eugénia Ulo Manuel Artur Eliana	11421
 Lourenço Lopes	11963
 Lourimi	8378
 Lourino Alberto Chemane	2784,32,7323
-Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988,439,323
+Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988,439,323,698,10,31
 Lourino Chemane and Eugénio Alberto Macumbe	4214
 Lourino ChemaneChairman	11439
 Loutété and Nkayi	3801
 Louvakou	2738
+Louveira	12848
 LovCash	11117
 Lovable	5513,974,392
 Love By AYUE Digital Agenc	10996
 LovePDF	10914
 Lovedale	1009
-Loveira	3407
+Loveira	3407,9391,40
 Lover’s Walk	3654
 Loving Memory Rosemary Koech	10694
 LovqIOeYwDiU4LF	12227
@@ -2146,7 +2151,7 @@ Low. Stakeholders	11965
 Low. The Environmental and Social Systems Assessment	12176
 Low. Track II	12669
 Lowell. Chris	10794
-Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74
+Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368
 Lower Casamance. Project	5056
 Lower Cost	582
 Lower Costs	6318
@@ -2159,6 +2164,7 @@ Lower Hill Road	12151
 Lower Hill Road P.O Box	12151
 Lower House	10652
 Lower Indian Ocean Network	2677,615,3379
+Lower Limpopo Basin	12828
 Lower Maguduza Hydro Electricity	6539
 Lower Middle	10976,1370
 Lower Middle Income	10976,905,465
@@ -2273,6 +2279,7 @@ Marcy Cláudio Lopes	6614
 Marcy Lopes	2581,3407,72,554,26,179,125,22,29,315,745,2,574,2843,645
 Marcy Lopes.Localizada	11474
 Marga de Loayza	10765,10
+Maria Luísa Lopes	12809
 MariaRosa Scarlata and David Lopez-Berzosa	226
 Marie Louise NYIRANSABIMANA Francine KASINE Charlotte	12445
 Market Participation Without Local Integration SpaceX	6467
@@ -2312,9 +2319,10 @@ Mile Projects Description Responsible Party Locality	12399
 Million Financing Package for Reforms and Local Development	965,3924,206
 Min of Local Government	12333
 Minimum Loan Size	12389
+Minister Carla Louveira	12838
 Minister Carla Loveira	3407
 Minister Lomuro	3583
-Minister Loveira	3407
+Minister Loveira	3407,9431
 Minister for Local Government	12338
 Minister of Cabinet Affairs Martin Lomuro	3583
 Minister of Local Development and Environment Manal Awad	8189
@@ -2365,6 +2373,7 @@ Monitoring Locations Incident Response Processes Physical	6432
 Monitoring Loss	12253
 Monthly Low Frequency Events	11228
 Moving Beyond Local Data Ownership	3598
+Mozambique's Minister of Finance Carla Loveira	12838
 Mozambique. Located	2634
 Mozambique. The Africa Local Public	1740
 Mpakeni Dam and Lower Maguduza	11134
@@ -2609,10 +2618,10 @@ Privy Looking	8429
 Procurement and Logistics Unit Organization	9892,1
 Production Logging Tool	11405
 Prof. Albano Vicente Lopes Ferreira	11478
-Prof. Doutor Eng. Lourino Chemane	7736,2404,300
+Prof. Doutor Eng. Lourino Chemane	7736,2404,300,2368,22
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 Prof. Doutor Engº. Lourino Alberto Chemane	2784
-Prof. Doutor Lourino Chemane	9694
+Prof. Doutor Lourino Chemane	9694,3136
 Prof. Dr. Eng. Lourino Chemane	10141,160,812
 Professora Doutora Paula Meira Lourenço	3079
 Program Substantial Substantial Substantial Low Low	12440
@@ -2707,6 +2716,7 @@ Rogers Capital Port Louis Data Center	3292
 Role Management Audit Logs System Monitoring	12211
 Role of Local-Language AI . Geneva	11140
 Rosario Fernandes Loveira Minister of Finance Ministry	2474
+Rosário Fernandes Louveira	12789
 Royal Courts of Justice Rolls Building London	1829
 Run Logistics	12478
 RunyankoleEnglishLugandaRunyankoleEnglishLuganda Login Login	2757,293,919,59,207,116,37,272,27,235,32,155,234,51,171,93,73,278,112,76,42,72,124,37,21,83,76
@@ -2765,7 +2775,7 @@ Secretary Dr. Loretta N. Mkhonta	11134
 Sector Size Location Firms Characteristics	11874
 Security Load	6432
 Security Logging and Monitoring Failures	11922
-Segundo Lourino Chemane	10140
+Segundo Lourino Chemane	10140,2669
 Segundo Marcy Lopes	5988,831,125,22,344
 Semlex Located	11535
 Senegal ICT and Privacy Regulations Local	10861

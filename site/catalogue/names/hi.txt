@@ -94,6 +94,7 @@ Ayuko Hirai	12003
 BACKGROUND AND HISTORY	4896
 BINDING EFFECT AND LEGAL HIERARCHY	3861
 BKAM. Historique	8891
+BREVE HISTÓRICO DE IDENTIFICAÇÃO CIVIL	12784
 BUSINESS HIGHLIGHTS	11955
 Bacias Hidrográficas de S. João Batista	1265
 Bandar Seri Begawan Very High EGDI	10840
@@ -122,7 +123,7 @@ British High Commission	3895,231,1101,2934,1197,499,683,409,281,69
 British High Commission Nairobi	899
 British High Commission's Wilfred Oluoch	12104
 British High Commission. Stephen Isaboke	10540
-British High Commissioner	3895,1214,7620
+British High Commissioner	3895,1214,7620,127
 British High Commissioner Chesney	6576
 British High Commission’s Foreign	4126
 Building Africa’s Own Digital Trade Highway	7523
@@ -280,6 +281,7 @@ Eng. Raafat Hindy	11162
 Eng. Rafat Hindy	8222
 English High Court	7587
 Enhance High	12210
+Environment and Fisheries. British High Commissioner Helen	12856
 Eswatini Africa Southern Africa Mbabane High	10840
 Eswatini High EGDI M-OSI H-HcI VH-TII	10840
 Eswatini Higher Education Council	11134
@@ -366,6 +368,7 @@ H-TII Asia Vanuatu High EGDI M-OSI	10840
 H.E. Eng. Raafat Hindy	11162
 H.E. President Hakainde Hichilema	12366
 H1 Profit Hits N638.5bn NASCON	8178
+HEIs Higher Education Institutions	12786
 HEWs and HITs	1219
 HF High Frequency ICANN Internet Corporation	6946
 HI V	4260
@@ -576,6 +579,7 @@ Hide Awe	11168
 Hideki Matsunaga	11136
 Hideki Matsunaga Maareeyaha Dalka	11136
 Hideki Matsunaga World Bank Group	11136
+Hidrocarbonetos	12787
 Hidrocarburos	4209,5094
 Hidroelectricas	4209
 Hidroeléctrica de Cahora Bassa	9226
@@ -861,7 +865,7 @@ High-quality	1261,102,2498,2971,2728,292,1733,11,1063
 High-quality Development	9018
 High-res	12457
 High-resistance	9123
-High-resolution	12006
+High-resolution	12006,831
 High-resolution Used	12006
 High-risk	4848,2700,753,2834,1162,203
 High-risk AI	6132,1840,329
@@ -900,7 +904,7 @@ Higher Education Higher	6832
 Higher Education Institute	12325
 Higher Education Institution	6832,4445
 Higher Education Institution ICASA	6832
-Higher Education Institutions	11552,859
+Higher Education Institutions	11552,859,375
 Higher Education Loans Board	1838,10474
 Higher Education Minister Office Saudi Arabia	2958
 Higher Education Ministry	1228
@@ -1336,6 +1340,7 @@ Ministry of Higher and Tertiary Education	413,107,634,1625
 Ministry of Higher and Tertiary Education Innovation Science	4528
 Ministry of National and Higher Education	10826
 Ministry of Roads and Highways	6176,2419
+Ministry of Science and Technology and Higher Education	12786
 Ministry of Technical and Higher Education	2339
 Mission and Mandate History	12390
 Mission and Mandate History Of the Bank Departments	12390
@@ -1642,7 +1647,9 @@ Tax Submission History Select	12497
 Tech Hive Advisory	4583,2826
 Tech Hive Advisory Africa's Ridwan Oloyede	2998
 Technological Higher Education Network South Africa	10082
-Technology and Higher Education	2473,1741,5184,36
+Technologies and Higher Education	12786
+Technology and Higher Education	2473,1741,5184,36,3352
+Technology and Higher Education of Mozambique	12786
 Telecoms Minister Karim Bibi Triki and High	1842
 Terms of Historically Disadvantaged Individuals	11218
 Thomas Hines	6490
@@ -1689,7 +1696,7 @@ United Kingdom's High Commissioner	5757
 United Nations Assistant High Commissioner	1963
 United Nations High Commission for Refugees	1988,10157,513
 United Nations High Commissioner for Human Rights	3583,3368,1853,2352,1575
-United Nations High Commissioner for Refugees	1867,2260,3692,1797,1125,27,73,336,87,641,19,62,159,82,375,56
+United Nations High Commissioner for Refugees	1867,2260,3692,1797,1125,27,73,336,87,641,19,62,159,82,375,56,121,32
 United Nations High Commissioner for Refugees Integration	12227
 United Nations High Commissioner for Refugees Stories	10841
 United Nations High Commissioner for Refugees Uganda	6493

@@ -68,13 +68,13 @@ Ackerman S	1219
 Ackerman&author	1219
 Ackermans	6368
 Acknowledge	1243,2631
-Acknowledgement	26,1,1,913,68,5937,3775,42,370,46,71,901,75,76,54,23,295
+Acknowledgement	26,1,1,913,68,5937,3775,42,370,46,71,901,75,76,54,23,295,112
 Acknowledgement All	34
 Acknowledgement Conveners	6936
 Acknowledgement Slip	12216,1
 Acknowledgement The NRO EC	8047
 Acknowledgement of National Treasury	6432
-Acknowledgements	26,1,1,368,370,5,490,832,855,103,789,592,812,810,372,406,115,331,453,28,262,1,108,153,177,668,109,502,20,1005,12,8,56,41,169,86,59,76,274,8,314,130,258,1,41,30,330,2,13
+Acknowledgements	26,1,1,368,370,5,490,832,855,103,789,592,812,810,372,406,115,331,453,28,262,1,108,153,177,668,109,502,20,1005,12,8,56,41,169,86,59,76,274,8,314,130,258,1,41,30,330,2,13,114
 Acknowledgements AcknowledgementsI	3791
 Acknowledgements Itad and Steward Redqueen	12006
 Acknowledgements PMA Ethiopia	1212
@@ -83,7 +83,7 @@ Acknowledgements The Ministry of ICT	4528,7984
 Acknowledgements This National Data Governance Policy	5244
 Acknowledgements This Social Protection Review	12541
 Acknowledges	4614,1211,4940,10
-Acknowledging	789,1173,2,1521,2340,607,180,222,754,1088,984,1523,726,765,1
+Acknowledging	789,1173,2,1521,2340,607,180,222,754,1088,984,1523,726,765,1,111
 Acknowledgment	1219,9561,1220,269,1,262
 Acknowledgments	958,866,853,1537,225,237,1024,1090,1586,2342,57,37,29,78,21,37,51,121,49,374,340,113,202,4,15,167,32,88,1,129
 Acknowledgments About the Global Findex Database Executive	10977

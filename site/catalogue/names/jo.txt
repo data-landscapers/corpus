@@ -135,6 +135,7 @@ BILEY JOSEPH-DESIRE	2342
 BIUST-Zimbabwe Joint Project	1554
 BWALYA JOSHUA MWAMULIMA PRECIOUS MWANSA-CHISHA CHILUFYA-	12232
 Bacias Hidrográficas de S. João Batista	1265
+Bairro Jorge Dimitrov	12846
 Bank and Ingcebo Joint Venture	11134
 Bank of China Johannesburg Branch	10618
 Baptista Joao	12478
@@ -403,7 +404,9 @@ Emily Johannes	10147
 Emmanuel Joseph	10704
 Employment Job	10841
 Empower Youth for AI Jobs	4126
+Emílio Jorge	12809
 Energy City of Johannesburg Alternative Waste Technology	11248
+Eng. Jocélio de Jesus Oliveira	12810
 Eng. John Kipchumba Tanui	3878,2847,344,338,73,902,410,417,1190,268
 Eng. John Tanui	1236,9,3523,340,428,1,895,74,671,917,3205
 Eng. Joseph Busienei	3878
@@ -589,6 +592,7 @@ ICTACT Journal	9128
 IDs Phillipus Josef ONE IDENTITY	7743
 IEA-IRENA Joint Policies and Measures Database	12261
 IEEE Journal of Biomedical and Health Informatics	8606
+IEEE Journal of Selected Topics	12837
 IEEE Open Journal	8606
 IFC. Digital Finance for Refugees. Journal of Humanitarian	12297
 IGAD-EAC-World Bank Joint Workshop	3238
@@ -597,6 +601,7 @@ IJNRD2504292 International Journal Of Novel Research	10979
 IMMUTABLE MOBILES AND DATA JOURNEYS	12090
 INFORMATION JOB	11964
 INFORMATION ONLINE WORK INFORMATION SUPPORT JOB	11004
+INFORMATION SYSTEM IN MOZAMBIQUE Jose Antonio	12826
 INFRASTRUCTURE CENTRAL TO DIGITAL JOURNEY	12685
 INIS Infection Prevention and Control IPC Joint	11417
 INTERNATIONAL JOURNAL OF RESEARCH AND SCIENTIFIC	12508
@@ -647,6 +652,7 @@ International Journal Of Novel Research	10979
 International Journal for Cross-Disciplinary Subjects	12227
 International Journal of Academic Research	5349,1929,1851
 International Journal of Advance Research	8022
+International Journal of Advanced Research	12826
 International Journal of Agricultural Sustainability	7759
 International Journal of Communication	226,10802
 International Journal of Computer Applications	9128
@@ -803,11 +809,16 @@ Joanne Manda	2277,33,1068
 Joanne Parker	8013
 Joao Lino	12478
 Joao Lourenco	9399
+Joaquim	12786
+Joaquim Alberto Chissano	12771
 Joaquim Amaro Gomes Mustasse	11544
 Joaquim Chissano	2667,7688
 Joaquim Domingos Muhongo	10086
+Joaquim Moisés Siúta	12812
 Joaquim Muhongo	6797
 Joaquim Namoni	11561
+Joaquim Nhampoca	12776
+Joaquim Siúta	12812
 Joaquina Bento	3692,1580,716
 Joash Omoke	6053
 Job Ad	7253
@@ -864,6 +875,7 @@ Jobs Global Practice	11133
 Jobs Global Practice Africa Region	11855
 Jobs Health	10768
 Jobs Lag By Kruah Thompson MONROVIA	11720
+Jobs Now	12832
 Jobs Report Washington	7655
 Jobs Survey. Asian Development Bank Brief	10718
 Jobs Western And Central Africa	11924
@@ -940,7 +952,7 @@ Johannes Marisa	10071
 Johannes Ramokhoase Pretoria Central	11218
 Johannes Ramokhoase Street	6124,5923
 Johannes. Other African	10147
-Johannesburg	183,193,46,31,118,25,261,159,130,28,53,136,41,186,10,220,140,250,36,38,17,36,49,6,2,3,65,10,46,6,1,14,33,14,4,19,12,5,41,35,53,44,10,13,3,85,9,17,12,46,40,29,14,1,155,27,30,14,26,5,9,13,2,92,30,41,7,28,38,1,23,24,6,39,44,50,77,14,24,40,15,101,4,27,1,9,12,2,3,32,6,46,103,127,68,18,52,58,7,176,131,15,2,6,67,48,11,53,10,2,3,9,14,24,1,61,41,18,17,52,4,52,16,47,10,1,64,7,29,2,6,1,71,25,11,1,1,19,50,4,21,91,14,21,84,16,53,54,22,64,43,26,50,25,19,58,15,12,68,32,69,5,11,40,68,18,23,24,6,30,17,22,30,19,22,3,25,6,15,28,23,35,21,40,3,52,17,5,43,21,41,17,16,1,2,15,36,12,35,18,4,8,30,4,9,15,20,4,9,3,18,99,4,120,73,23,43,4,7,7,8,45,41,44,47,40,2,112,11,12,37,13,2,8,36,27,70,7,5,312,28,3,270,34,95,7,11,2,1,1,90,39,121,81,5,19,37,9,19,15,84,22,3,10,14,16,12,5,17,30,22,45,2,18,9,18,74,294,8,31,1,1,99,1,1,84,70,5,1,384,57,8,2,40,35,7,328,184,39,63,79,21,186,130,141,159
+Johannesburg	183,193,46,31,118,25,261,159,130,28,53,136,41,186,10,220,140,250,36,38,17,36,49,6,2,3,65,10,46,6,1,14,33,14,4,19,12,5,41,35,53,44,10,13,3,85,9,17,12,46,40,29,14,1,155,27,30,14,26,5,9,13,2,92,30,41,7,28,38,1,23,24,6,39,44,50,77,14,24,40,15,101,4,27,1,9,12,2,3,32,6,46,103,127,68,18,52,58,7,176,131,15,2,6,67,48,11,53,10,2,3,9,14,24,1,61,41,18,17,52,4,52,16,47,10,1,64,7,29,2,6,1,71,25,11,1,1,19,50,4,21,91,14,21,84,16,53,54,22,64,43,26,50,25,19,58,15,12,68,32,69,5,11,40,68,18,23,24,6,30,17,22,30,19,22,3,25,6,15,28,23,35,21,40,3,52,17,5,43,21,41,17,16,1,2,15,36,12,35,18,4,8,30,4,9,15,20,4,9,3,18,99,4,120,73,23,43,4,7,7,8,45,41,44,47,40,2,112,11,12,37,13,2,8,36,27,70,7,5,312,28,3,270,34,95,7,11,2,1,1,90,39,121,81,5,19,37,9,19,15,84,22,3,10,14,16,12,5,17,30,22,45,2,18,9,18,74,294,8,31,1,1,99,1,1,84,70,5,1,384,57,8,2,40,35,7,328,184,39,63,79,21,186,130,141,159,122
 Johannesburg Availability Zones	376
 Johannesburg Branch	12252
 Johannesburg Business School	2948,4279,4126
@@ -1359,6 +1371,7 @@ Jordanian Arabic	6705
 Jordanie	6613,5025
 Jordanie Maroc Turquie	7655
 Jordan’s Steering Committee	11135
+Jordi Jose Gallego-Ayala Selected	12781
 Jordi Palet Martinez	12058
 Jorf Lasfar	8891
 Jorg Greuel	415
@@ -1372,7 +1385,9 @@ Jorge Tamayo	6948
 Jorge Vasquez	6610
 Joris Jurriëns	5718
 Jornadas Técnico-Científicas	11414
+Jornal Dossier	12844
 Jornal Expansão	10751,636
+Jornal Notícias O Ministério da Agricultura	12824
 Jornal Nô Pintcha	2322,8723
 Jornal O País	12120
 Jornal OPaís	8308
@@ -1393,6 +1408,7 @@ Jornalistas Angolanos. Foto	5211
 Joromi	9739
 Jory S. Hecht	11006
 Jos Kaduna Kano Port Harcourt Yola	12062
+Jose Antonio Nhavoto	12826
 Jose Antonio Obiang Ndong	11672
 Jose Carlos Almeida and Antonio	9399
 Jose Gijon	11559
@@ -1500,6 +1516,7 @@ Josué F. MEHOUENOU	3591
 José Alfredo Román Cruz	11922
 José Almeida	12237
 José António Lopes Semedo	539
+José Bandeira	12816
 José Barahona	8297
 José Cachiva Caxito	6741
 José Calengi	10757
@@ -1520,6 +1537,7 @@ José Luís Mateus Alexandre	11410
 José Luís Mussemo Luanda	8493
 José Luís Sambo	2816
 José Malam Jassi	11561
+José Manuel	12821
 José Manuel Barroso	760
 José Manuel Costa Alegre	5818
 José Manuel Macumbo Costa Alegre	6568
@@ -1544,6 +1562,7 @@ José Ribero Uefo	6282
 José Richard Pouambi	6611
 José Richard Pouambi. Selon	6611
 José Rodrigues da Ponte	11566
+José Sambo	12840
 José Samo Gudo	11120
 José Ulisses Correia	2860
 José Ulisses de Pina Correia	11901
@@ -1780,7 +1799,7 @@ Journées	2908,3,205,476,335,1896,873,637,396,1558,55
 Journées du Droit Numérique	3675
 Journées du Droit du Numérique	6863
 Jovanovic	8605,523
-Jovens	10777,649,775
+Jovens	10777,649,775,587
 Jovens Mulheres Líderes RESEN Relatório	11557
 Jovens.............319	10777
 Jovis Omondji Okoth	9758
@@ -1866,7 +1885,7 @@ João MANUEL GONÇALVES LOURENÇO. Lei	539
 João Manuel Gonçalves Lourenço	3519,1038,1430
 João Manuel Gonçalves Lourenço. Download Para	10772
 João Manuel Neto Em	10750
-João Matlombe	10083
+João Matlombe	10083,2720
 João Papel	2816
 João Rego Jr	2816
 João Ricardo Vasconcelos	10785,1082
@@ -2230,6 +2249,7 @@ Professor John Dugard	9889
 Professor Jon Crowcroft	1246
 Professor Jonathan Tsetimi	8710
 Professor Jonathan Tsetimi of Delta State University	8710
+Professor Jose Leopoldo Nhampossa	12786
 Professor Joy Eyisi	8710
 Programação de Jogos	12019
 Project Associate Yannick Josian Rajibe GCF	11332
@@ -2347,7 +2367,7 @@ So Joseph	7065
 Social Media Join	7343
 Social Protection and Jobs	10763
 Social Protection and Jobs Global Practice	11924,617
-Social Protection and Jobs Global Practice Eastern	10768
+Social Protection and Jobs Global Practice Eastern	10768,2013
 Social Protection and Jobs Policy and Technical Note	10985
 Social Protection and Jobs Responses	10763
 Somali National Job Portal	5172

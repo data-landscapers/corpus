@@ -234,6 +234,7 @@ Client Industry Industry Group Sector Committed	11469
 Cloud Computing Services. Section	3161
 Cocoa Sector Reforms Mr. Speaker	7695
 Collections for Public and Private Sectors	12000
+Comissão Técnica de Normalização Sectorial	12782
 Comissões Fundiárias Regionais. Sectoriais	11514
 Comissões Sectoriais de Recenseamento	11561
 Commercial and Industrial Sector	12502
@@ -515,6 +516,7 @@ Financial Sector Currently	10775
 Financial Sector Deepening	132,69,76,378,1,12,812,29,664,1,33,9262,907
 Financial Sector Deepening Africa	662,456,357
 Financial Sector Deepening Kenya	12297
+Financial Sector Deepening Program	12809
 Financial Sector Deepening Trust Kenya	7548
 Financial Sector Deepening Trust Tanzania	2857
 Financial Sector Deepening Trust of Tanzania	656
@@ -913,6 +915,7 @@ Nyakabanda Sector	4941
 Nyakabanda Sector Office	4941
 Nyarugunga and Masaka Sectors	718
 O Sector Financeiro de Moçambique	2138
+O Sector Privado	12774
 ONFORME E Copy SECTION	10974
 ONLINE MARKETING Section	28
 ONLINE SAFE HARBOURS Section	28
@@ -1464,14 +1467,14 @@ Section I.C Schedule	6539
 Section I.D	10829
 Section I.F of Schedule	10964
 Section I.H.2	10768
-Section II	37,1601,1688,1241,1206,610,4382,10,360
+Section II	37,1601,1688,1241,1206,610,4382,10,360,1652
 Section II Opérations	17
 Section II Vote	17
 Section II.- Obligations	11139
 Section II.- Sanctions	11139
 Section II.A	5773
 Section II.E	1264
-Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190
+Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190,1037,47
 Section III B Agreement	1867
 Section III Consultation	17
 Section III of Schedule	1914
@@ -1481,7 +1484,7 @@ Section III.A of Schedule	2474
 Section III.B.1	1264,5275,5010,306
 Section III.F	10829
 Section IL.- Identification	11139
-Section IV	1638,4135,610,768,3614,10,363
+Section IV	1638,4135,610,768,3614,10,363,1648,1
 Section IV Décision	4420
 Section IV Lutte	4420
 Section IV Opérations	17
@@ -1497,7 +1500,7 @@ Section Page Executive	10729
 Section Refer	10617
 Section S du Code	4567
 Section Two Obligations	12185
-Section V	1638,6139,2988,10,363,279
+Section V	1638,6139,2988,10,363,279,1369
 Section V Dépouillement	17
 Section V.- Modalités	11139
 Section VI	10876,262,1
@@ -1548,7 +1551,7 @@ Sections of Prequalification Document	1638
 Sections3.1and3.2arefurther	8606
 Sections4	8606
 Sectiéh	10974
-Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8,21,3,10,9,11,16,20,135,10,12,153,2,18,113,104,5,10,1,8,6,1,18,15,1,14,4,9,10,50,11,45,45,255,7,35,36,83,140,136,17,10,8,13,36,18,14,18,3,5,198
+Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8,21,3,10,9,11,16,20,135,10,12,153,2,18,113,104,5,10,1,8,6,1,18,15,1,14,4,9,10,50,11,45,45,255,7,35,36,83,140,136,17,10,8,13,36,18,14,18,3,5,198,123,14,55
 Sector AI Ecosystem Enablers AI Ecosystem	4126
 Sector ARPU	6011
 Sector Academia	7548
@@ -1590,6 +1593,7 @@ Sector Education and Training Management Information System	11303
 Sector Educativo	11525
 Sector Eléctrico	11366
 Sector Emerging Infrastructure	7548
+Sector Empresarial	12789
 Sector Empresarial Público	11457
 Sector Enterprise Architecture	12359
 Sector Enterprise Architecture Lead	12359
@@ -1598,7 +1602,7 @@ Sector Evidence of Tier	10721
 Sector Executive Secretary. Sector Executive Secretary	12338
 Sector Executive Secretary. The Director	12338
 Sector Figura	11574
-Sector Financeiro	2138,646,32,4154
+Sector Financeiro	2138,646,32,4154,5853
 Sector Financeiro. Um	795
 Sector Focus	10841
 Sector Focus Hardware	4972
@@ -1634,7 +1638,9 @@ Sector Policy and Digital Transformation Strategy Page	3604
 Sector Policy for Bosnia and Herzegovina	11529
 Sector Politico	11576
 Sector Político	10751
-Sector Privado	14,1687,1115,1330,2824,3175,1234,64,496
+Sector Postal	12794
+Sector Postal Estratégia	12794
+Sector Privado	14,1687,1115,1330,2824,3175,1234,64,496,850,34
 Sector Privado ANNEXES List	11366
 Sector Produtivo Pede Arquitectura Financeira Mais	8003
 Sector Profile	718
@@ -1643,7 +1649,7 @@ Sector Project	11248
 Sector Project Quantity	11248
 Sector Promote Government A- AI Infrastructure	7548
 Sector Publico	2816
-Sector Público	14,2802,1330,63,7187,55
+Sector Público	14,2802,1330,63,7187,55,1333,39
 Sector Público Administrativo Institucional	11381
 Sector Público Durante	2816
 Sector Público Termos de Referência Luanda	11451
@@ -1701,12 +1707,12 @@ Sector da Comunicação Social	12311
 Sector da Defesa	2816
 Sector da Educação	10766,653,138
 Sector da Indústria	11381,62
-Sector da Justiça	10749,1,613
+Sector da Justiça	10749,1,613,1422
 Sector da Justiça. Em	10750
 Sector da Saúde	7707,3836
 Sector de Energia	6970
 Sector de Geral de Justiça	10750
-Sector de Investigação Científica	6970
+Sector de Investigação Científica	6970,5853
 Sector de Medios	1701
 Sector de Segurança Pública	2784
 Sector de Tecnologia de Informação	2784
@@ -1772,6 +1778,7 @@ Sectoral Working Group	12210
 Sectoral and Cross-Cultural Policies. Windhoek	12325
 Sectoral and External Audit	3861
 Sectoral and Institutional Context	1704,587,1165,8956,14,243
+Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Sectoral and Skills	12512
 Sectores	1701,1115,7938,627,1,132,23,32
@@ -1881,6 +1888,7 @@ Technology Sector The Republic of Cabo Verde	11863
 Technology Sector Working Group. Zambia’s Securities	12376
 Technology Startups and Private Sector Firms	11863
 Technology and Innovation Section	7529
+Technology and Innovation for Development Section	12786
 Telecom Sector	5677
 Telecommunication Sector	236,1043,665
 Telecommunication Sector Market Report	774,239

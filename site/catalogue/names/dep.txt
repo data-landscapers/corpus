@@ -168,7 +168,7 @@ Cape Town's Deputy Mayor and Mayoral Committee	6486
 Care Dependence	6222
 Care Dependency Grant	7910
 Cash Deposit Fees	12447
-Cassa Depositi	789,9914,954
+Cassa Depositi	789,9914,954,1162
 Centrais de Depósito de Títulos	11370
 Central Bank of Eswatini Deputy Governor	3647
 Central Depository	10853
@@ -433,9 +433,10 @@ Departamento de Estatísticas	11418
 Departamento de Estudos	1526,1258,32
 Departamento de Gestão	167
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
-Departamento de Informação	4044,6713,288,376
+Departamento de Informação	4044,6713,288,376,1442
 Departamento de Inspecção	167
 Departamento de Intercâmbio	11449
+Departamento de Licenciamento	12853
 Departamento de Massificação	11382
 Departamento de Matemática	2816
 Departamento de Metrologia	11381
@@ -455,7 +456,7 @@ Departamento de Relações Públicas. Artigo	167
 Departamento de Resposta	4218
 Departamento de Segurança Cibernética	2816,4920
 Departamento de Serviço Público	11461
-Departamento de Serviços Bancários	5169,1293
+Departamento de Serviços Bancários	5169,1293,6352
 Departamento de Sistemas Operativos	9694
 Departamento de Sistemas de Informação	167,2649
 Departamento de Sistemas de Pagamento	11438
@@ -854,7 +855,7 @@ Depend	1988
 Dependability	8021
 DependabilityThe	7278
 Dependabot	11922
-Depende	1701,9054
+Depende	1701,9054,2086
 Dependence	1777,682,2069,1149,800,1071,799,772,1602,1791
 Dependencia	1701
 Dependencies	1009,9712,98
@@ -966,6 +967,7 @@ Deposit Protection Fund Progress	11134
 Deposit Taking Savings and Credit Cooperatives	2775
 Deposit-Taking Institutions	8732
 Deposit-taking Savings and Credit Cooperatives	6938
+Depositar	12774
 Deposition	5246
 Depositors	9441
 Depository	10,10783
@@ -1009,6 +1011,7 @@ Deputados	539,6579,2587,1047,606,104
 Deputados Boaventura da Silva Cardoso	539
 Deputados João Manuel Gonçalves Lourenço	11365
 Deputados da ANP	11561
+Deputados da Assembleia da República	12796
 Deputados. Anteriormente	2816
 Deputados. Representantes	8760
 Deputies	2672,9700
@@ -1245,7 +1248,7 @@ Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Deputy Vice-Chancellor	9331,939
 Deputy Zonal Manager	11129
 DeputyDirector	2727
-Depósito	12311
+Depósito	12311,464
 Depósito Bankita	10775
 Depósito de Aceitante	11438
 Depósitos de Fundos	11386
@@ -1666,6 +1669,7 @@ Ministry Departments	12606
 Ministry's Acquisitions Department	11619
 Ministry's International Organizations Department	9358
 Ministry’s Education Support Services Department	8586
+Ministério da Justiça. Depois	12863
 Mission Contact Us Department of Computer Science	12361
 Mission and Mandate History Of the Bank Departments	12390
 MoH Departments	12240
@@ -1749,6 +1753,7 @@ O Departamento de Administração de Sistemas de Redes	11382
 O Departamento de Apoio	4218,7163,1
 O Departamento de Cibersegurança	11382
 O Departamento de Comunicação	4218,7163,1
+O Departamento de Estatística	12788
 O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 O Departamento de Massificação	11382
 O Departamento de Metrologia	11381
@@ -1905,6 +1910,7 @@ SARB’s Financial Surveillance Department	10452
 SDH State Department for Housing SDR Special	2775
 SDICT State Department for ICT SDICT&DE State	6432
 SECUNDARIA UNIVERSITARIA E DOCENTE JUVENTUD DEPORTES	4209
+SENHORES DEPUTADOS DA ASSEMBLEIA DA REPÚBLICA	12796
 SIGNATURE OF DEPONENT	12374
 SMART Zambia Deploys ICT Equipment Sinazongwe	11171
 SOLAR ERP Deployed Municipality	11231
@@ -1941,6 +1947,7 @@ September. The State Department	7750
 Service Delivery Environment The Department	11224
 Settlements DLRRD Department of Land Reform and Rural	11261
 Sibanye's Deputy Information Officer	6683
+Sistema Estatístico Nacional. O Departamento de Estatística	12788
 Sistema de Gestão de Depósitos	11933
 Small Business and Development DSD Department of Social	11261
 SoLHD Synod of Livingstonia Health Department DHO	3791

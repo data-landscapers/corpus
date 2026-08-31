@@ -179,6 +179,7 @@ Automation of County Own Source Revenue	9939
 B-BBEE ICT Sector Council	9935
 B. Countries	1548,2
 B. Introduction and Context Country Context	1704,587,1165,7507
+B. Introduction and Context Country Context Mozambique	12832
 B.2 The Country	11863
 BAMBA SUB COUNTY HOSPITAL Data Controller	7167
 BAMBA SUB COUNTY HOSPITAL Data Processor	7167
@@ -270,6 +271,7 @@ COUNCIL	1807,4669,1,1344,34,1544
 COUNCIL OF ELDERS	585
 COUNCIL OF ELDERS CHIEF EXECUTIVE	585
 COUNCIL OF LEGAL EDUCATION Data Processor	7167
+COUNCIL OF MINISTERS Resolution No	12779
 COUNCIL Of MINISTERS Resolution	3861
 COUNTER TERRORISM	11277
 COUNTERHOUSE CONSULTANTS	7167
@@ -293,6 +295,7 @@ COUNTRY LODGE BAR AND RESTAURANT LIMITED	7167
 COUNTRY NAME	5352
 COUNTRY NAME ABBREVIATION	3972,1380
 COUNTRY OF RESIDENCE	11240
+COUNTRY PARTNERSHIP FRAMEWORK FOR MOZAMBIQUE FY26	12804
 COUNTRY PARTNERSHIP FRAMEWORK FOR THE FEDERAL	11468
 COUNTRY PROFILE Growth	12395
 COUNTRY RANKINGS Zambia	5247
@@ -376,7 +379,7 @@ Community AI Councils	4528,7984
 Community Councilor	12661
 Community Councils	12699
 Community Councils of Seate and Mphokojoane	12699
-Community of Portuguese Language Countries	6778,4767
+Community of Portuguese Language Countries	6778,4767,1300
 Community of Portuguese Speaking Countries	11553,648
 Community of Portuguese Speaking Countries CRPD Convention	12201
 Community of Portuguese-Speaking Countries	10188
@@ -409,7 +412,7 @@ Cost Sources Technologies Council	7548
 Coun-	8301
 Coun0	11572
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60
 Council Act OAG Office	6432
 Council Advisory Committee	3583
 Council Board	1154
@@ -470,7 +473,7 @@ Council of Governors' Maarifa Centre	5134
 Council of ICT Ministers	10073
 Council of Implement	11906
 Council of Land Surveyors	12511
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115,84,99,1,227,13,18,21,16,25,545,8,7,33,26
 Council of Ministers Decree	12201
 Council of Ministers Department for Science	11135
 Council of Ministers No	10765,10
@@ -515,6 +518,7 @@ Councilors	11129
 Councils	970,184,1897,810,2395,498,192,2284,1065,923,6,1145,162,75,50,43
 Councils Leaders of Provincial Legislatures Fellow South	11215
 Councils PART VI- Privilege of Immunity	12531
+Councils and Settlement Councils	12771
 Councils. Ends	12699
 Councils. Research	1154
 Councilwoman Márcia Moiane	10219
@@ -589,7 +593,7 @@ Counting	1431,5306,1246,199,1226,629,1155
 Counting Back	11909
 Counting Out	12201
 Counting President Bio Gains	8115
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37,218,27,3,10,27,26,2,43,25,7,154,59,4,25,17,69,31,20,284,29,7,21,115
 Countries Countries	6671
 Countries EDGI	10840
 Countries GSMA	10819
@@ -698,7 +702,7 @@ Country Offices	11533
 Country Overview	10822
 Country PANEE	3604
 Country Panics	10
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49,330,69,914
 Country Partnership Framework DA Designated Account	1264,10296
 Country Partnership Framework Public Disclosure Authorized	11475
 Country Partnership Framework and Rationale for Use	11905
@@ -1190,7 +1194,7 @@ HOMABAY COUNTY Data Controller INST-895279ACA7B HOMABAY	7167
 HOMABAY COUNTY Data Processor INST-15136082003 HOMABAY	7167
 HOMABAY COUNTY Data Processor INST-495544A27E8 HOMABAY	7167
 HOMABAY COUNTY Data Processor INST-895279ACA7B HOMABAY	7167
-Hafez M. H. Ghanem Country Director	11380,475
+Hafez M. H. Ghanem Country Director	11380,475,926
 Harare City Council	9395
 Harare and Bindura The Research Council of Zimbabwe	1554
 Harghita County Council TrustOriginality.ai Hastings Music	8530
@@ -1554,6 +1558,7 @@ Matuga. Kwale County News	12322
 Matuga. Kwale County Our Social Media	12322
 Mauritius Country Programme Document	11332
 Mauritius Research and Innovation Council	7845
+May-2026 Country Director	12832
 Mayor for Blantyre City Council Isaac Jomo	5312
 Mayor of Limbe I Council	4594
 Media Council	7650,1311
@@ -1598,13 +1603,14 @@ Mombasa County Government	9436
 Monetary and Banking Council	6938
 Montserrado County	3071
 Morocco and Tunisia. MAM March-April-May Mashreq Countries	2775
+Mozambique Council of Ministers	12786
 Mozambique Republic of Mozambique Type Country	4653
 Mozambique. The National Data Governance Council	3861
 Mozambique’s Constitutional Council	8742
 Mulobezi Town Council	2386
 Multihazard Mitigation Council	1264
 Municipal Council	8661,134,2387,759
-Municipal Councils	11129,733,79
+Municipal Councils	11129,733,79,830
 Municipality Councillors	8999
 Murang'a County	6378,16,2
 Murang'a County Government The County Government	6394
@@ -1774,7 +1780,7 @@ Non-Governmental Organisation Council	5250,7347
 Non-fragile Country	1284
 Northern Northern Nairobi County Region Meru	7869
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
-Norwegian Refugee Council	2778,1479,2690,872,3022,1386
+Norwegian Refugee Council	2778,1479,2690,872,3022,1386,552
 Number County Country	7167
 Number Resource Organization Executive Council	8047
 Number Resource Organization Number Council	8047
@@ -1814,6 +1820,7 @@ Outgoing Outgoing SMS Data Volumes Country	6671
 P-CV-GB0-004 Country	11863
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
+P173640 Beneficiary Country	12832
 P2P Mobile Money Transaction Count	9781
 PART III- Powers and Duties of Councils	12531
 PART X- Revenues of Councils	12531
@@ -1923,6 +1930,7 @@ Regional Councils	10626,1699,25
 Regional and International Engagements The Research Council	1554
 Registered Proportion County County Neonatal Deaths	12151
 Registrar. The Sub- County Registrar	12151
+Regulation The Council of Ministers	12771
 Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Council	6145,872,4888
 Regulatory Council of ARTCI	6145

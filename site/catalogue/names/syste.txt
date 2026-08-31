@@ -33,6 +33,7 @@ ALPHA SYSTEMS LIMITED Data Processor INST-94203098F74	7167
 ALT PORTANT SECURITE DES SYSTEMES D’INFORMATION	1801
 APEX PIPING SYSTEMS LIMITED Data Controller	7167
 APP System	11986
+APPROVES THE NATIONAL PAYMENT SYSTEM LAW	12847
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA World System	7206
 AU-EU Space Partnership Revolutionises Weather Systems	11283
@@ -641,6 +642,7 @@ Developers of Artificial Intelligence Systems	2958
 Development Office Famines Early Warning Systems	10763
 Development System PM&E Planning	11224
 Development of Angola's Payment System	10767
+Development of Financial Information Systems	12781
 Development of National Digital Address System	10861
 Device School Support System	11857
 Diagnostic of ID Systems	442,10323,10
@@ -816,6 +818,7 @@ Educational Management and Information System	11860
 Egypt Egypt ACH System CCAA	6938
 El Salvador Systems	10714
 Elections Management System	7042,5524
+Electoral Registration Information System	12826
 Electoral System The Constitution	12201
 Electoral Technology Systems	12753
 Electronic Cargo Tracking System	8278
@@ -891,6 +894,7 @@ Ensure ICT Systems	4610
 Enterprise Content Management System	9310
 Enterprise Geographic Information System	3101
 Enterprise Resource Systems	12612
+Entrepreneurship Education and Support System	12786
 Entry Exit System	1525
 Environmental Licensing Management System	10470
 Environmental Public Data Systems	7548
@@ -1253,8 +1257,10 @@ IGSS International Gateway Systems and Services IMEI	6946
 IJS Integrated Justice System NOC National	11986
 IMF System	11906
 IMF's Enhanced General Data Dissemination System	3968,7586,419
+INAS Management Information System	12781,51
 INDICATOR Proportion of Management Information Systems	12453
 INFORMATIK Systematic	9237
+INFORMATION SYSTEM IN MOZAMBIQUE Jose Antonio	12826
 INSTITUTIONAL SOUNDNESS TO SYSTEMIC CONFIDENCE	11138
 INTEGRATED NATIONAL REGISTRATION INFORMATION SYSTEM Madam	12449
 INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
@@ -1346,7 +1352,7 @@ Information System National Public Health Institute	4153
 Information System Security Assessment	10911
 Information System and Social Action Management	10763
 Information System for Birth Registration	10812
-Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365
+Information Systems	34,966,9,239,13,2866,305,917,351,3537,823,1096,723,48,12,16,406,28,365,72
 Information Systems Audit and Control Association	9237,1179,13
 Information Systems Frontiers	11156
 Information Systems Journal	226,1867
@@ -1687,7 +1693,7 @@ Malawi. The Crime Management System	8286
 Malawi’s Payment Systems	3288
 Malaysia National Registration and Identification System	10714
 Management Information Management Systems IFMIS Integrated	11545
-Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77
+Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77,369,51
 Management Information System EMIS Essential Package	11905
 Management Information System MOR International Monetary	12500
 Management Information System for Social Assistance	1371
@@ -1769,6 +1775,7 @@ Morocco The Systemic Risk Coordi-	6938
 Movement Control System	5533
 Movement Control System COVID-19 Coronavirus Disease	11986
 Mozambique Instant Payment System	5258,148,6890
+Mozambique's Centre for Development of Information Systems	12850
 Mozambique's Digital Certification System	11120
 Multi-Agent Systems	5482,2801
 Multi-Hazard Early Warning Systems	11191,1498
@@ -1923,7 +1930,7 @@ National Logistics Management Integrated System	4153
 National Logistics Management System	4153,11
 National Monitoring and Evaluation Information System	9966
 National Monitoring and Evaluation System	8469
-National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3
+National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3,400
 National Payment System Act	1020,1722,2678,6540,326
 National Payment System Bill	9585
 National Payment System DLT Eswatini Clearing	12444
@@ -2123,6 +2130,7 @@ PPDA's Contract Monitoring System	11615
 PPPP Public-Private-People Partnership PSSA Payment Systems	4126
 PROBLEM STATEMENT Health System Challenges Digital	396
 PROCESS FOR AUTHORISATION AS A SYSTEM	12374
+PROTECTION SYSTEM MULTI DONOR TRUST FUND	12780,1
 PSPs Scope System Type Binary Indicates	7221
 PV and Battery Energy Storage System	11228
 PV and CSP System	11953
@@ -2437,6 +2445,7 @@ STATISTICS SYSTEMS OF Introduction Kenya	12138
 STATISTICS SYSTEMS OF Program Information About	12138
 STATISTICS SYSTEMS OF Support	12138
 STEP Systematic Tracking of Exchanges	2889,715
+STI Funding System	12786
 STRENGTHENING HEALTH SYSTEM PERFORMANCE AND PREPAREDNESS	10829
 SUMMARY ENVIRONMENTAL AND SOCIAL SYSTEMS ASSESSMENT	11905
 SUMMARY FIDUCIARY SYSTEMS ASSESSMENT	11905
@@ -2452,6 +2461,7 @@ SYSTEM BREACH DESCRIBED ABOVE	2709
 SYSTEM CAN'T TALK TO ITSELF	9696
 SYSTEM CHANGES AND CHANGE CONTROL SECTION	12484
 SYSTEM FOR HUMAN CAPITAL AND RESILIENCE	10768
+SYSTEM IN MOZAMBIQUE	12826
 SYSTEM IN RWANDA Revision	12338
 SYSTEM LAN	12253
 SYSTEM OPERATOR	12374
@@ -2625,6 +2635,7 @@ Strengthening HIV Systems	4260
 Strengthening Health System Performance and Preparedness	10829
 Strengthening Health Systems	11596
 Strengthening Health Systems and Medical Regulations	6594
+Strengthening Mozambique's Social Protection System MDTF	12832
 Strengthening National Health Information Systems for HIV	496
 Strengthening of Early Warning Systems and Climate Services	7030
 Strengthening the Angolan Health System	10780
@@ -2944,6 +2955,7 @@ Technical Support for Digital Systems	12241
 Technology IRMS Incident Recording Management System	12717
 Technology ITRS International Transactions Reporting System	2775
 Technology MBA Information Systems	11134
+Technology and Innovation System	12786
 Telecare Medicine Information Systems	8605
 Telecom Identity Risk Management System	5880
 Telecommunications Systems	3386

@@ -409,6 +409,7 @@ CAPI Computer Assisted Personal Interview Figure	582
 CAPITAL PAY INTERNATIONAL LIMITED Data Processor	7167
 CAPITULO II INTERLIGAÇÃO SECÇÃO I PRINCÍPIOS	11519
 CAPITULO Ill DEL TRATAMIENTO INTERNACIONAL	163
+CAPÍTULO II Intervenientes	12782
 CAPÍTULO IV Cooperação Internacional Artigo	6970
 CAPÍTULO VII INTEROPERABILIDADE	11461
 CARE International	7167
@@ -594,6 +595,7 @@ Comisión Interministerial	1701
 Comissão Inter-americana de Telecomunicações	2816
 Comissão Interministerial	10772
 Comissão Interministerial Social	3246
+Comissão Interministerial da Administração Pública	12783
 Comissão Interministerial de Gripe H1N1-2009	11376
 Comissão Intersectorial	11406
 Comité Inter-États de Lutte	10874
@@ -642,6 +644,7 @@ Computer-assisted Personal Interview	11192
 Computer-assisted Telephone Interview	11192
 Computer-assisted Telephonic Interview	11192
 Computer-assisted Web Interview	11192
+Comércio Internacional	12807
 Condições de Interligação	11519
 Conduct of The Interim Transition Governance	7934
 Conferencia Internacional	6613
@@ -676,7 +679,7 @@ Consultative Groups for International Agricultural Research	12090
 Consultor da Internacional Trade Centre	11531
 Consumers International	665,1531
 Content Providers Use the Most International Bandwidth	1766
-Contexto Internacional	11362
+Contexto Internacional	11362,1425
 Continental Africa Internet Governance Architecture	3874
 Continental and International Sources	11138
 Continuidade da Interligação	11519
@@ -690,6 +693,7 @@ Convenções Internacionais	10747,25,593,25,16
 Cooperación Internacional	4209,2632
 Cooperation IFR Interim Financial Report IPF	1264
 Cooperazione Internazionale	8774
+Cooperação Financeira Internacional	12789
 Cooperação Internacional	539,10208,646,43,133
 Coopération Internationale	1682,2720,18,569,2686,2598,553,1146
 Coopération Internationale. Sur	5223
@@ -851,6 +855,7 @@ Development Goals SIDA Swedish International	1814
 Development ISP Internet Service Providers KTRN	718
 Development Kenya Internet	7548
 Development Partners International	835,604,871
+Development and International Cooperation	12843
 Development of Advanced and Intermediate Digital Skills	3604
 Development of Intermediate and Advanced Digital Skills	3604
 Diagnostic and Interventional Radiology	718
@@ -918,6 +923,7 @@ ECHOTEL INTERNATIONAL KENYA LIMITED Data Controller	7167
 ECHOTEL INTERNATIONAL KENYA LIMITED Data Processor	7167
 ECOWAS Interest Subsidy Fund PPDU	6422
 ECPAT International	7548
+EDGE REQUEST FOR EXPRESSIONS OF INTEREST	12834
 EMPLOYMENT BY INTERNET ACCESS PROVIDERS	6000
 EMPRESTITOS EXTERIORES E INTERIORES	4209
 ENA SIGED Interconnexion des IESR PRESENTATION CONVENTION	9049
@@ -932,6 +938,7 @@ ETHNOGRAPHIC INTERVIEWS Twenty-four	12090
 ETRANGERES ET DE LA COOPERATION INTERNATIONALE	7843
 EU EOM. CITIZEN AND INTERNATIONAL ELECTION	12201
 EU's Global Gateway Strategy and International Digital	11985
+EU's International Digital Strategy and Global Gateway	12843
 EUCL International Trade	718
 EVOLUÇÃO DE ACESSO A INTERNET MÓVEL	11531
 EVOLVING DATA GAPS AND INTERVENTIONS ACCESSIBILITY	10852
@@ -952,6 +959,7 @@ Economic Integration and Interconnectivity	1264
 Economic Interest Group of Pharmacists of Burkina Faso	2985
 Economic Internal Rate of Return	10856
 Economic Policies and Internal Taxation	7452
+Edição da Feira Internacional de Moçambique	12791
 Education In-depth Structured Interview	899
 Effectiveness of Internal Control	11250
 Egypt's Interior Ministry	5019
@@ -1007,6 +1015,8 @@ Establish Interoperable Digital Payment Infrastructure	12444
 Establish Interoperable Harmonization Payment Infrastructure	12444
 Estimation Inter-agency Group	11887,266,1,9,178
 Estonian Centre for International Development	6370,355,2540,3089,37,203
+Estratégia Digital Internacional da UE	12840
+Estratégia de Gestão de Deslocados Internos	12779
 Eswatini International Trade Fair	11134
 Eswatini International Trade Fair Description	11131
 Eswatini International Trade Fair The Bank	11134
@@ -1031,6 +1041,7 @@ Evolution of International Crude Oil Prices Figure	12256
 Example of International Address	11129
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 Excellence Interdisciplinaire	2732
+Exclusive. The Policy and Strategy for Internal Displacement	12779
 Executive Director of Internet Sans Frontières	9156
 Execução de Actos Jurídicos Internacionais	9799
 Expand Nationwide Internet Connectivity	5976
@@ -1052,6 +1063,8 @@ FC Talanta and Eldoret International Union	6946
 FCTA Permits Intervention	11857
 FIAN International	12333
 FINANCIAMIENTO INTERNO NETO	4209
+FINANCING DETAILS International Development Association	12832
+FINANÇAS INICIAL INTERVENÇÃO DE SUA EXCELÊNCIA	12796
 FIXED INTERNET	6000
 FIXED INTERNET AND DATA REVENUES	11211,51
 FIs. Interventions	10718
@@ -1143,7 +1156,7 @@ Frequency of Internet	12278
 Friday. International Vulture Awareness Day	1554
 Functions of Cyber Security and Monitoring of Interceptions	972
 Fundo Internacional	12034
-Fundo Monetário Internacional	1948,6827,2794
+Fundo Monetário Internacional	1948,6827,2794,1245
 Fundo Monetário Internacional GenAI	2816
 Fundos Internacionais	11527
 Funds Credit Bureau World Bank International	12701
@@ -1257,6 +1270,7 @@ Groupe de Travail Interne	10975
 Groupement Interbancaire Monétique	5740,1543,1517,1911,1233
 Groupement Interbancaire Monétique Régional	10711
 Grupo D Interventor Grupo D Jefe	4209
+Grupo de Trabalho Inter-Ministerial	12862
 Guardian Interoperability	5977
 Guidelines C.2 Interoperability Standards	11952
 Guidelines for Payment Intermediation Service Providers	12365
@@ -1338,6 +1352,7 @@ Human Rights Law and Serious Violations of International	3583
 Human-Computer Interaction	226,5123
 Hunters International	6765
 IAASB International Auditing and Assurance Standards Board	11380
+IASP International Association of Science Parks	12786
 IASP International Association of Science Parks ICAO	2775
 IAST Interactive Application Security Testing IaC	11952
 IATA Associação Internacional de Transporte Aéreo AREA	11376
@@ -1854,8 +1869,8 @@ Intereses	4209
 Intereses BEAC	4209
 Interessados	11452
 Interesse	11514,797
-Interesse Público	11384,4,64
-Interesses	3519,7849
+Interesse Público	11384,4,64,1322
+Interesses	3519,7849,1406
 Interesses Legalmente Protegidos	11388
 Interesses de Grupos Digitalmente Desfavorecidos	3519
 Interest	573,447,244,1511,340,46,553,1182,637,154,182,1052,277,115,122,154,106,1871,1227,213,125,3,2,62,32,633,92,21,10,7,97,17,383,140
@@ -1948,7 +1963,7 @@ Interim Unaudited IFR	3604
 Interim and Preventive Measures	3861
 Interim and Preventive Measures Upon	3861
 InterimData	747
-Interior	342,215,30,413,382,194,266,13,687,149,125,311,1,365,26,85,205,90,84,164,62,12,8,22,19,20,157,58,80,1,2,28,27,135,597,184,50,345,25,63,51,18,199,227,103,79,122,600,6,34,214,5,348,322,1029,15,576,761,3,18,4,286,19,48,3,258,37,57,30,16,1,397,191,26,2,9
+Interior	342,215,30,413,382,194,266,13,687,149,125,311,1,365,26,85,205,90,84,164,62,12,8,22,19,20,157,58,80,1,2,28,27,135,597,184,50,345,25,63,51,18,199,227,103,79,122,600,6,34,214,5,348,322,1029,15,576,761,3,18,4,286,19,48,3,258,37,57,30,16,1,397,191,26,2,9,706
 Interior BCP Business Continuity Plan PKI	1000
 Interior CS Kipchumba Murkomen	3544,1755,1484,5520,10
 Interior CS Murkomen	12303
@@ -2324,7 +2339,7 @@ International Decade of Ocean Exploration	6997
 International Decade of Sciences for Sustainable Development	7498
 International Development	226,6547,5143
 International Development Agency	2889
-International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347,581,14,19,17,24,280,88,55,24,257,78
+International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347,581,14,19,17,24,280,88,55,24,257,78,85
 International Development Association IDA Integrated Disease	11417
 International Development Association ISR Implementation	2889
 International Development Cooperation Agency	11004,960
@@ -2384,6 +2399,7 @@ International Fixed Voice Traffic Jan-Mar	6671
 International Fleet Review	11579
 International Food Policy Institute	12162
 International Food Policy Research Institute	1507,5441,3820,1390
+International Food Policy Research Institute Investors	12837
 International Food Poverty Research	11986
 International Forum	8282
 International Foundation for Electoral Systems	11115
@@ -2474,6 +2490,7 @@ International Journal Of Novel Research	10979
 International Journal for Cross-Disciplinary Subjects	12227
 International Journal of Academic Research	5349,1929,1851
 International Journal of Advance Research	8022
+International Journal of Advanced Research	12826
 International Journal of Agricultural Sustainability	7759
 International Journal of Communication	226,10802
 International Journal of Computer Applications	9128
@@ -2539,7 +2556,7 @@ International Legal and Policy Frameworks Internationally	7548
 International Letter Mail Volume	12395
 International Liaison	6946
 International Liberia	7616
-International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221
+International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221,119
 International Liquidity	2775
 International Livestock Research Institute	8183
 International Macroeconomics Finance	6946
@@ -2578,7 +2595,7 @@ International Mobile Telecommunications. Interested	7980,109
 International Mobile Terminal	10407
 International Mobile Traffic	6671
 International Mobile Traffic Indicator	6671
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94,145,11,13,23,312,11,10,19,23,47,133,32,3,14,29,150,21,9,10,92,13,338
 International Monetary Fund About the Global Innovation	11895,264
 International Monetary Fund Code	11895
 International Monetary Fund Country Report No	11905
@@ -2632,7 +2649,7 @@ International Organisation of Securities Commissions	10570
 International Organisations	1814,1682,7323,1730
 International Organization	4676,6634
 International Organization Charters	2958
-International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359
+International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552
 International Organization for Migration. Available	11909
 International Organization for Standardization	3604,257,4212,3061,1230
 International Organization of La Francophonie	3433
@@ -2813,6 +2830,7 @@ International University Of Applied	12478
 International VSAT Hub	736
 International Virtual Conference	8022
 International Visitor Arrivals	2775
+International Water Management Institute	12828
 International Water Power	6633
 International Waterways OP	1284,583,1589,148,7164,61,134,1,453,108,330,50,60,172,289
 International Women's Day	12642
@@ -2826,6 +2844,7 @@ International Youth Day	9648,138,85,1,1
 International Youth Day. Note	9873
 International and Comparative Law Quarterly	3782
 International and Cross-Border Considerations	12048
+International and Fundraising	12816
 International and Regional Engagement	8143
 International and Regional Governance	961
 International and Regional Instruments	3861
@@ -2846,7 +2865,7 @@ Internationally Transferred Mitigation Outcomes	9393
 Internationaux	10826
 Interne	9062
 Internes PME Programme Indicatif Multi-Annuel PNDES	643
-Internet	7,8,6,5,1,1,6,43,47,108,4,21,3,40,18,4,89,8,9,4,1,100,11,19,2,8,3,6,3,133,44,4,29,15,89,54,5,3,4,4,3,18,1,7,2,8,28,147,2,1,9,18,2,13,3,12,14,7,19,4,76,21,38,104,28,68,1,3,1,1,19,1,42,6,5,1,2,97,5,8,1,3,33,28,8,22,11,9,15,36,42,4,67,170,17,5,5,1,3,26,19,30,7,1,7,16,12,3,10,12,6,3,2,34,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,3,1,1,1,24,3,21,2,13,6,43,53,6,17,1,17,17,1,1,58,4,8,11,2,1,1,21,37,12,25,2,25,8,2,6,52,3,23,18,3,10,32,3,7,54,20,5,1,39,16,9,13,6,16,62,22,3,5,2,8,9,7,2,32,8,5,16,5,22,10,1,23,13,12,6,3,9,16,19,12,8,17,17,12,13,15,19,42,11,10,4,1,10,4,13,50,4,8,1,1,11,7,14,1,1,2,2,3,1,1,1,22,1,11,13,22,19,5,35,11,19,2,14,27,5,10,4,6,56,5,2,1,4,4,20,31,5,59,10,3,5,16,147,12,29,8,47,3,10,37,21,3,3,28,6,18,5,9,53,19,26,23,19,2,4,8,7,6,36,3,15,4,25,19,7,31,42,43,11,1,50,2,6,27,3,17,17,12,12,5,7,1,14,13,45,45,1,19,4,4,4,56,8,41,107,2,2,9,34,29,8,5,5,8,25,49,24,9,5,14,24,43,28,11,20,15,17,15,24,35,11,8,1,6,53,3,11,8,3,6,10,1,17,4,3,2,23,11,22,5,6,17,21,16,15,12,14,22,29,6,2,37,20,11,6,16,9,1,50,5,11,39,23,4,18,71,6,18,7,21,50,18,1,4,8,11,10,7,12,3,8,22,65,13,29,49,19,8,10,5,5,2,3,2,2,2,32,5,24,11,14,26,16,29,14,4,2,2,12,12,6,7,47,16,60,11,24,17,18,16,17,40,9,16,6,29,41,43,14,31,2,6,49,25,22,1,8,8,25,21,29,9,8,38,51,13,165,50,40,6,10,37,3,22,55,29,26,19,5,25,1,2,25,3,6,1,65,15,6,5,5,8,11,14,38,3,51,1,67,31,4,37,35,1,2,14,14,81,18,6,124,24,4,11,18,2,24,7,1,9,2,23,7,8,1,48,6,3,1,3,3,30,7,28,6,18,12,7,26,2,1,1,34,4,48,11,12,22,26,6,1,8,60,18,2,22,31,13,9,3,8,38,3,50,19,17,2,3,9,13,2,32,88,4,7,3,64,21,32,9,28,34,18,11,5,31,12,6,26,2,19,4,3,7,26,1,2,9,5,1,10,6,3,1,23,4,5,8,6,4,2,1,2,1,2,1,7,5,3,2,4,47,36,8,6,6,3,3,2,1,8,5,4,1,22,11,3,25,16,13,25,1,19,9,1,9,5,6,8,11,13,3,1,15,9,39,3,9,51,1,37,9,2,25,1,18,3,6,12,4,1,1,28,13,29,5,3,5,4,2,1,9,4,5,2,3,1,7,6,3,2,8,10,17,2,8,55,5,14,4,1,6,15,7,11,16,8,11,27,1,1,23,11,2,1,11,8,3,1,1,5,1,2,4,5,2,5,1,1,1,12,19,24,21,7,3,5,10,12,1,3,29,10,11,43,5,34,14,1,1,9,12,26,9,4,41,7,1,15,21,12,4,10,3,5,2,1,4,1,3,2,6,1,6,1,16,3,4,2,4,6,8,38,4,8,35,12,2,27,5,2,16,6,67,4,17,11,2,15,22,63,7,3
+Internet	7,8,6,5,1,1,6,43,47,108,4,21,3,40,18,4,89,8,9,4,1,100,11,19,2,8,3,6,3,133,44,4,29,15,89,54,5,3,4,4,3,18,1,7,2,8,28,147,2,1,9,18,2,13,3,12,14,7,19,4,76,21,38,104,28,68,1,3,1,1,19,1,42,6,5,1,2,97,5,8,1,3,33,28,8,22,11,9,15,36,42,4,67,170,17,5,5,1,3,26,19,30,7,1,7,16,12,3,10,12,6,3,2,34,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,3,1,1,1,24,3,21,2,13,6,43,53,6,17,1,17,17,1,1,58,4,8,11,2,1,1,21,37,12,25,2,25,8,2,6,52,3,23,18,3,10,32,3,7,54,20,5,1,39,16,9,13,6,16,62,22,3,5,2,8,9,7,2,32,8,5,16,5,22,10,1,23,13,12,6,3,9,16,19,12,8,17,17,12,13,15,19,42,11,10,4,1,10,4,13,50,4,8,1,1,11,7,14,1,1,2,2,3,1,1,1,22,1,11,13,22,19,5,35,11,19,2,14,27,5,10,4,6,56,5,2,1,4,4,20,31,5,59,10,3,5,16,147,12,29,8,47,3,10,37,21,3,3,28,6,18,5,9,53,19,26,23,19,2,4,8,7,6,36,3,15,4,25,19,7,31,42,43,11,1,50,2,6,27,3,17,17,12,12,5,7,1,14,13,45,45,1,19,4,4,4,56,8,41,107,2,2,9,34,29,8,5,5,8,25,49,24,9,5,14,24,43,28,11,20,15,17,15,24,35,11,8,1,6,53,3,11,8,3,6,10,1,17,4,3,2,23,11,22,5,6,17,21,16,15,12,14,22,29,6,2,37,20,11,6,16,9,1,50,5,11,39,23,4,18,71,6,18,7,21,50,18,1,4,8,11,10,7,12,3,8,22,65,13,29,49,19,8,10,5,5,2,3,2,2,2,32,5,24,11,14,26,16,29,14,4,2,2,12,12,6,7,47,16,60,11,24,17,18,16,17,40,9,16,6,29,41,43,14,31,2,6,49,25,22,1,8,8,25,21,29,9,8,38,51,13,165,50,40,6,10,37,3,22,55,29,26,19,5,25,1,2,25,3,6,1,65,15,6,5,5,8,11,14,38,3,51,1,67,31,4,37,35,1,2,14,14,81,18,6,124,24,4,11,18,2,24,7,1,9,2,23,7,8,1,48,6,3,1,3,3,30,7,28,6,18,12,7,26,2,1,1,34,4,48,11,12,22,26,6,1,8,60,18,2,22,31,13,9,3,8,38,3,50,19,17,2,3,9,13,2,32,88,4,7,3,64,21,32,9,28,34,18,11,5,31,12,6,26,2,19,4,3,7,26,1,2,9,5,1,10,6,3,1,23,4,5,8,6,4,2,1,2,1,2,1,7,5,3,2,4,47,36,8,6,6,3,3,2,1,8,5,4,1,22,11,3,25,16,13,25,1,19,9,1,9,5,6,8,11,13,3,1,15,9,39,3,9,51,1,37,9,2,25,1,18,3,6,12,4,1,1,28,13,29,5,3,5,4,2,1,9,4,5,2,3,1,7,6,3,2,8,10,17,2,8,55,5,14,4,1,6,15,7,11,16,8,11,27,1,1,23,11,2,1,11,8,3,1,1,5,1,2,4,5,2,5,1,1,1,12,19,24,21,7,3,5,10,12,1,3,29,10,11,43,5,34,14,1,1,9,12,26,9,4,41,7,1,15,21,12,4,10,3,5,2,1,4,1,3,2,6,1,6,1,16,3,4,2,4,6,8,38,4,8,35,12,2,27,5,2,16,6,67,4,17,11,2,15,22,63,7,3,4
 Internet AFRIX TELECOM NIGER Internet COMSATE	998
 Internet Accelerated	3185
 Internet Access	736,1603,574,4033,5268,445
@@ -3068,7 +3087,7 @@ Internet de Objetivo Estratégico OE1	11569
 Internet de Starlink	1648,908
 Internet des Objets	7283
 Internet du Tchad	6275
-Internet for All	226,3058,2954
+Internet for All	226,3058,2954,6605
 Internet for Democracy	11028
 Internet for Financial Transactions	582
 Internet for ICT and Innovation	718
@@ -3191,12 +3210,12 @@ Internships	4126,2706,114
 Internships and Industrial Attachments	6946
 Internships and Scholarships	11955
 Interopera	12142
-Interoperabilidade	2816,2847,5091,1,616,8,15,36,1,11,6,13,2,56,36,343,123
+Interoperabilidade	2816,2847,5091,1,616,8,15,36,1,11,6,13,2,56,36,343,123,753,66
 Interoperabilidade Artigo	11461
 Interoperabilidade Centralização	11893
 Interoperabilidade Legal	11555
 Interoperabilidade PDEX	11898
-Interoperabilidade Técnica	11371
+Interoperabilidade Técnica	11371,1403
 Interoperabilidade da Administração Central	11371,8
 Interoperabilidade da Administração Pública	11442
 Interoperabilidade de Sistemas	3246
@@ -3219,7 +3238,7 @@ Interoperability Interoperable	12674
 Interoperability Master Plan	10991
 Interoperability Maturity Toolkit	1824,10431
 Interoperability Ongoing	12457
-Interoperability Platform	3612
+Interoperability Platform	3612,9222
 Interoperability Platforms. Since GTMI	10785
 Interoperability Requirements	11995
 Interoperability Requirements Cloud	11995
@@ -3352,6 +3371,7 @@ Interruption of Supply	11953
 Interruptions	2556,8419,1258,23
 Interruptions Number Portability Cooling-off Period Fair	5676
 Interrupção	5169,6252,25,131
+Interseccionalidade	12797
 Intersection	10764
 Intersectional	11195
 Intersectionality	1554
@@ -3375,6 +3395,7 @@ Interswitch and Temenos	9359
 Interswitch and Visa	407
 Interswitch's Chief Information Officer	10010
 Interswitch-enabled	415
+Intertek International Limited. Na	12829
 Intertitre	4386
 Intervalo	10760
 Intervalo de Confiança Angola Inferior Superior Urbana	11421
@@ -3399,7 +3420,7 @@ Intervenants Tâches Délais	10876
 Intervenants Tâches PRMP	10876
 Intervención	1701
 Intervención General de Finanzas Públicas	4209
-Intervenientes	10783
+Intervenientes	10783,1999
 Intervening	6834,5029
 Intervenon	9128
 Intervention	970,5966,12,700,728,963,2518,129,260
@@ -3448,6 +3469,7 @@ Interviews Provide	12253
 Interviews and Focus Groups	12356
 InterviewsUnboxing BUSINESS TECHNOLOGY MEDIA COMMUNITY About	10735
 Intervir	4218,7212,28,61,50
+Intervém	12782
 Intervêm	10783,759
 Interweb Satcom Ltd	3862
 Interés	1701
@@ -3635,7 +3657,7 @@ Lineas de Interconexxion	4209
 LinkLayer Internet	11259
 Liquid Home Starlink Potraz Internet Connection	6099
 Liquid Interligent Technologies Ltd	3862
-Liquidação Interbancária	11438
+Liquidação Interbancária	11438,1376
 Lit and Utilized International Internet Bandwidth	6946
 Loaded Pictures. Interview	10977
 Loans and International Development Association	2889
@@ -3791,7 +3813,7 @@ Ministry of Home Affairs and Internal Security	1222,556,89,12,109,303,723,548,26
 Ministry of Home Affairs and Internal Security Office	1778
 Ministry of Home Affairs and Internal Security Permanent	8480
 Ministry of Home Affairs and Internal Security. Madam	12449
-Ministry of Interior	761,239,637,17,34,1,56,149,581,80,506,233,132,67,90,530,101,420,43,19,1,11,259,9,43,561,535,672,24,12,43,106,187,347,683,1127,83,372,750,242,12,37,10,19,898,161,5,180,142,76
+Ministry of Interior	761,239,637,17,34,1,56,149,581,80,506,233,132,67,90,530,101,420,43,19,1,11,259,9,43,561,535,672,24,12,43,106,187,347,683,1127,83,372,750,242,12,37,10,19,898,161,5,180,142,76,473,41
 Ministry of Interior Matar Ceesay	4677
 Ministry of Interior Ministry of Health	10763
 Ministry of Interior Ministry of ICT National Registration	10822
@@ -3802,6 +3824,7 @@ Ministry of Interior and Margins ID Group	6941
 Ministry of Interior and National Administration	6823,123,5205
 Ministry of Interior and Public Security	5330
 Ministry of Interior and Security	2282
+Ministry of Interior and UNFPA	12776
 Ministry of Interior. The Gambian	4708
 Ministry of Interior’s Civil Status Sector	11739
 Ministry of Internal Administration	11553,356
@@ -4005,6 +4028,7 @@ Non-governmental Organisation ICTS International Cooperation	11986
 None Interoperability	12270
 None. Interoperability	12269
 Nordic Institute for Interoperability Solutions	3070,3598
+Normas Técnicas Internacionais	12782
 Normative Standards Framework for Interoperability	1009
 Normes Internationales du Travail	3396
 Notícias de Interesse	11429,3,47
@@ -4028,6 +4052,7 @@ O Presidente Interino da CNE	11561
 O Produto Interno Bruto	11447
 O Provedor Intermediário de Serviços Electrónicos	6970
 O Quadro de Interoperabilidade	11555
+O Quadro de Interoperabilidade de Governo Electrónico	12774
 O Regulamento Interno	11365
 O Relatório da União Internacional de Telecomunicações	795
 O Sistema de Controlo Interno	11452
@@ -4209,10 +4234,11 @@ Plan International Digital Skills	1160
 Plan International Netherlands	6982
 Plan International Strategic	12138
 Planning and International Cooperation	5268,130,1762
-Plataforma Tecnológica de Interoperabilidade	11371
-Plataforma de Interoperabilidade	11569
+Plataforma Tecnológica de Interoperabilidade	11371,1403
+Plataforma de Interoperabilidade	11569,1205,48,41
 Plataforma de Interoperabilidade Central. O Plano Nacional	11371
 Plataforma de Interoperabilidade da Administração Pública	11394,48,2,17
+Plataforma de Interoperabilidade de Governo Electrónico	12774
 Plataformas Intervenção	11569
 Plateforme Interopérable du Système	10888
 Plateforme Interopérable du Système de Paiement Instantané	3390,9,4741,176,2572,911
@@ -4227,6 +4253,7 @@ Policies and Interventions	12373
 Policy IDMC Internal Displacement Monitoring Centre	10835,3,130,902,16,466,1,135
 Policy Internet	5242
 Policy Intervention	11265
+Policy and Strategy for Internal Displacement Management	12779
 Political Risk and International Valuation	11310
 Ponto de Troca de Tráfego da Internet de Moçambique	9694
 Pontos de Interligação	11519
@@ -4295,7 +4322,7 @@ Promoting International Alignment and Sustainability	12675
 Promoting the Internet	11935
 Proposal Requirements Interested	12400
 Prosperity and International Cooperation	11288
-Protection and Assistance of Internally Displaced Persons	2106,8735,1059
+Protection and Assistance of Internally Displaced Persons	2106,8735,1059,879
 Protocol IPSAS International Public Sector Accounting	6946
 Protocol for Packet Network Intercommunication	1036
 Protocolo de Interconexão de Sistemas	12014
@@ -4330,6 +4357,7 @@ Public Service Internship Program	12210
 Public Transport for Intercity and City of Kigali	718
 Public Values and Public Interest	5700
 Pull-Weight Interaction	11265
+Páginas da Internet	12774
 Q2 INTERNET	4517
 Q2 POS ATMS INTERNET MOBILE MONEY	6978
 Q2 POS ATMs INTERNET MOBILE MONEY	6978
@@ -4341,9 +4369,14 @@ QUADRO DE INTEROPERABILIDADE	11555
 Quadro Europeu de Interoperabilidade	11555
 Quadro Governamental de Interoperabilidade	11371
 Quadro de Interoperabildiade da Amdinistração	11442
-Quadro de Interoperabilidade	11555
+Quadro de Interoperabilidade	11555,1219,66
+Quadro de Interoperabilidade ARTIGO	12774
 Quadro de Interoperabilidade da Governação Eletrónica	11555
-Quadro de Interoperabilidade de Governo Electrónico	795,2021
+Quadro de Interoperabilidade de Governo Electrónico	795,2021,9958
+Quadro de Interoperabilidade de Governo Electrónico A V	12774
+Quadro de Interoperabilidade de Sistemas de Governo Digital	12840
+Quadro de Interoperabilidade. CAPÍTULO V Disposições Finais	12774
+Quadro de Interoperabilidade. Decreto	12774
 Quality of Service. For Internet Service Providers	9110
 Quarter-on-Quarter Outbound International Traffic	2776
 Questions IFMIS German Agency for International Cooperation	12500
@@ -4361,6 +4394,7 @@ REPARTIÇÃO DE TRÁFEGO DE INTERNET MÓVEL	11531
 REPARTIÇÃO GLOBAL DE ACESSO A INTERNET	11531
 REPARTIÇÃO GLOBAL DE SERVIÇOS DE INTERNET	11531
 REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
+REPÚBLICA DE MOÇAMBIQUE MINISTÉRIO DO INTERIOR	12784
 REQUEST FOR EXPRESSION OF INTEREST	11750
 REQUEST FOR EXPRESSION OF INTEREST REQUEST	962
 REQUEST FOR EXPRESSIONS OF INTEREST	9603,1
@@ -4435,7 +4469,7 @@ Registry User Interface	6423
 Reglamento Interno	4209
 Reglamento Interno Hospitalario	4209
 Reglamento Interno de ORTEL	9543
-Regulamento Interno	167,4051,7298
+Regulamento Interno	167,4051,7298,1267,6,34
 Regulamento Sanitário Internacional	11376
 Regulamento Sanitário Internacional-2005	11376
 Regulamento Sanitário Internacional. Recomendações	11376
@@ -4499,6 +4533,7 @@ Robert Gabriel Mugabe International Airport	1713
 Robert Mugabe International Airport	4339
 Rodney Knight Interim Director of Policy Analysis	7590
 Role of International	12333
+Rosário. POLICY AND STRATEGY FOR INTERNAL	12779
 Rotary Foundation of Rotary International	12084
 Rotary International	11401
 Roteiro de Interoperabilidade	11442
@@ -4600,7 +4635,7 @@ Security Interests	12598
 Security and Interior	11185
 Security and InteriorSub-Committee	11185
 Seeing the Internet Become More Affordable	6318
-Segurança Interna	6970
+Segurança Interna	6970,5817
 Seguridad Social Interno	1701
 Sekharan Renooka Beejan International Operations Head	11332
 Selected Issues Papers. International Monetary Fund	1828
@@ -4617,7 +4652,7 @@ Service IDC International Data Corporation	11196
 Service Internet	419
 Service Provider Interface	11269
 Services. American University International Law Review	1243
-Services. Interested Consultants	9603,1
+Services. Interested Consultants	9603,1,3230
 Serviço de Interesse Público Artigo	12311
 Serviços de Internet	2866,6828,1880
 Serviços de Internet Figura	11574
@@ -4652,7 +4687,7 @@ Social PIA Partes Interessadas	11390
 Sociedad Interbanca	11134
 Sociedade Interbancaria de Mocambique S.A	12270
 Sociedade Interbancária	11933,22
-Sociedade Interbancária de Moçambique	5140,29,1293,1945,3863
+Sociedade Interbancária de Moçambique	5140,29,1293,1945,3863,544,34
 Society for Swift International	12364
 Society for Worldwide Interbank Financial Telecommunication	10026,62
 Society for Worldwide Interbank Financial Telecommunications	12364
@@ -4977,7 +5012,7 @@ Universal Postal Union International Addressing Standards	11129
 Universidade Beira Interior	10780
 Universidade da Beira Interior	10780
 University of Ghana Korea International Cooperation Agency	905
-União Internacional	13,1202,1651,5988,142,240,198,1117,845,1,134
+União Internacional	13,1202,1651,5988,142,240,198,1117,845,1,134,1299,16
 União Internacional de Radiocomunicação	9236
 União Internacional de Telecomunicações	795,2021,1330,5090,2333
 União Internacional de United Nations House Oficina	11563
@@ -5093,7 +5128,7 @@ World International	1988
 World Internet Conference Digital Silk Road	7835,25
 World Telecommunication Day and International Girls	6333
 Worldwide International Bandwidth Growth	2830
-X-Road Interoperability Platform	6334
+X-Road Interoperability Platform	6334,6500
 XIV. CITIZEN AND INTERNATIONAL ELECTION OBSERVATION	12201
 XML Metadata Interchange	12360
 XML Registry Document Reliable Interchange	1009

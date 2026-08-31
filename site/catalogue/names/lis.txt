@@ -65,6 +65,7 @@ Exclusive Legislative List	11956
 FATF Grey List. Paris	11138
 FCC’s Covered List	10444
 FULL LIST	9669,84
+Facility List Updater	12863
 Facul-dade de Direito da Universidade de Lisboa	9176
 Final Report List	12006
 Financial Action Task Force Grey List	12308
@@ -196,7 +197,7 @@ Lisa Montel	7027
 Lisa Poggiali	12227
 Lisa Simrique Singh. Au	5786
 Lisant	7788
-Lisboa	2618,1338,982,454,1950,3814,431,555
+Lisboa	2618,1338,982,454,1950,3814,431,555,642
 Lisboa T	3079
 Lisbon	627,586,150,1712,3293,840,566,1722,882,947,683,153
 Lisbon Council	7471
@@ -272,7 +273,7 @@ List of Tables Page List of Figures Page	11986
 List of Tables Table	1814,961,2880,345,5195,64,12,791
 List of Values	6423
 List of ZEMA	1988
-Lista	10753,24,588,1,90,72,19,27,8
+Lista	10753,24,588,1,90,72,19,27,8,1192
 Lista Contactos Técnicos de Apoio	12018
 Lista de Abreviaturas	11537
 Lista de Inscrição	11528
@@ -321,8 +322,14 @@ Lisungi Safety Nets System Project	11905
 Lisungi's IGA	11924
 Lisungi's RSU	11924
 Liswati	2391
+MFL O Master Facility List	12863
 MONTHS List of Acronyms	11252
 MSTeams Listen	8603
+Master Facility List	12863
+Master Facility List Módulo de Sincronização	12863
+Master Facility List Updater	12863
+Master Facility List Updater O Master	12863
+Master Facility List. Este	12863
 Master Health Facility List	11252,403
 Master Health Facility List MP	11252
 Model List	10776

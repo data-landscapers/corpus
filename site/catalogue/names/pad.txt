@@ -16,6 +16,7 @@ Level-1 PAD	767
 Mil Sorgho Riz Paddy Maïs Souchet	737
 Ms J Padiachy	11289
 O PADA	11413,27,1,1
+Original PAD	12780
 PAD Director General Cyrus Ngo'o	4108
 PAD Level	4292
 PAD-INNOVENDI	4108
@@ -79,7 +80,7 @@ Padrão de Dados	11405
 Padrão de Entrega	11405
 Padrão de Serviço Digital	11555
 Padrón	4209
-Padrões	2816,7961,665,19,94
+Padrões	2816,7961,665,19,94,1219
 Padrões Abertos de Contratação	9432
 Padrões de Energia de Edifícios	11898
 Padrões de Entrega de Dados	11405
@@ -94,6 +95,7 @@ Padvervoer	11551
 Padéma	10875
 Prenesh Padayachee	3854
 Princípio da Padronização	11419
+Procedimento Operacional Padrão	12797
 Procedimento Operacional Padrão Nacional	11376
 Procedimentos Operacionais Padrão	11376
 Program PAD	11417
@@ -120,7 +122,7 @@ V. PAD	10876
 VARIAÇÕES DOS PADRÕES DE CONSUMO ANTES	11531
 Vally Padayachee	12521
 WB Project Appraisal Document PAD3340	424
-World Bank PAD	538,196,441,2,1,1,1,1,1,391
+World Bank PAD	538,196,441,2,1,1,1,1,1,391,11207
 World Bank PAD P167183. IATI	473
 World Bank PAD. Money	7453
 World Bank PAD5527	993

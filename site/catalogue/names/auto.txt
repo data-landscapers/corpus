@@ -214,7 +214,7 @@ AutomotiveRamaphosa	7253
 Automóvel de São Vicente	5476
 Autonome	10964
 Autonome de Gestion des Dettes CCE	10876
-Autonomia	167,11192
+Autonomia	167,11192,1411
 Autonomia Administrativa	10752
 Autonomia Administrativa E DOS DIREITOS HUMANOS	10752
 Autonomia Científica	11385
@@ -266,9 +266,10 @@ Autoridad Nacional de IA. En Malabo	3494
 Autoridad Nacional de Inteligencia Artificial	3494
 Autoridad Reguladora	1701
 Autoridad de Competencia	1701
-Autoridade	15,4259,6473,612,71,84,5,8,4,38,13
+Autoridade	15,4259,6473,612,71,84,5,8,4,38,13,1188
 Autoridade Central	6970
-Autoridade Competente	6970,3785,827
+Autoridade Certificadora Raiz	12810
+Autoridade Competente	6970,3785,827,1192
 Autoridade Competente da IA	3519
 Autoridade Credenciadora	8309,3087,1
 Autoridade Estatística	11537
@@ -289,7 +290,7 @@ Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VI	6970
 Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VII	6970
 Autoridade Nacional de Segurança Rodoviária	11455
 Autoridade Pública	10747
-Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016
+Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016,1028,31
 Autoridade Reguladora Nacional	2701,8817,1,1,11,11,10,3,14,14,473
 Autoridade Reguladora Nacional. ARTIGO	11520
 Autoridade Reguladora da Concorrência	11430
@@ -298,8 +299,9 @@ Autoridade Reguladora de Energia Atómica BM Banco	11376
 Autoridade Reguladora de Farmácias	11543
 Autoridade Reguladora de Tecnologias de Informação	6970
 Autoridade Tradicional	10751
-Autoridade Tributária	8731,1352
-Autoridade Tributária de Moçambique	12142,76
+Autoridade Tributária	8731,1352,2719
+Autoridade Tributária de Moçambique	12142,76,643
+Autoridade Tributária de Moçambique. Como	12861
 Autoridade da Sociedade da Informação	11461
 Autoridade de Avaliação Ambiental Competente	11542
 Autoridade de Polícia Criminal	549
@@ -468,6 +470,7 @@ DNCMP Autorise	10876
 DUBAI NDOGO AUTO GARAGE LIMITED Data	7167
 DUNHILL AUTOMOBILES LIMITED Data Controller INST-961714F3DF5	7167
 DUNHILL AUTOMOBILES LIMITED Data Processor INST-961714F3DF5	7167
+Dados Autoritativos	12774
 Declaração de Autorização	11404
 Defining AI and Automated Systems	6442
 Definition ABIS Automated Biometric Identification System	11986
@@ -573,6 +576,7 @@ Mauritius Central Automated Switch	1386
 Meaning ABIS Automated Biometric Identification System	11218
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Modernization and Automation	10550
+Moçambique A Autoridade Reguladora	12835
 Moçambique Autores	12142
 Mr. Konate Zana Gaston Autorité de Régulation	5680
 NAFEM Nigerian Autonomous Foreign Exchange Market	8590
@@ -615,6 +619,8 @@ Port Autonome de Cotonou. Organisée	6300
 Port Autonome de Douala	5291,5684
 Port Autonome de San-Pedro	2342
 Presence of Automated Decision Making	8436
+Princípio de Dados Autoritativos	12774
+Princípio de Dados Autoritários	12774
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Processo Automático	11566

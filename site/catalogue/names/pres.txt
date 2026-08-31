@@ -68,6 +68,7 @@ Angolans. Presidential Decree	10765,10
 Annual Performance Review Retreat. Presenting the Institute	9389
 Anteproyecto de Ley de Presupuestos Generales	12075
 Anthem Press	5700
+Ao Presidente da CNIA	12823
 Armazéns de Medicamentos Prestadores	6970
 Arret Jatta President Adama Barrow	6941
 ArticleRegulatory Pressure Is Increasing. Many Organisations	6632
@@ -83,6 +84,7 @@ Authority. NCA CONTACTS AND PRESENCE COUNTRYWIDE	2776
 Authorized Regional Vice President	1228
 B.O.E. Presidencia	163
 BASES OF PRESENTATION AND KEY ACCOUNTING	11955
+BDM. BNDES President Aloizio Mercadante	12816
 BYTHE PRESIDENT OF THE REPUBLIC	11217
 Badejo-Okusanya Emerges NBA’s New National President	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Bank’s Vice President for Digital Transformation	10451
@@ -106,6 +108,7 @@ Botswana's Minister for State Presidency Moeti Mohwasa	4083
 Botswana's Vice President	3729
 Botswana's Vice President Calls for United African	3729
 Botswana. The President	12568
+Brazilian President Luiz Inácio Lula da Silva	12816
 Brazillian and South African G20 Presidencies	5803
 Bridging the Gap. Technology and Learning Press. South	11927
 Brookings Institution Press	2096
@@ -704,7 +707,7 @@ Ministry of Presidential Affairs	3583,1,1056
 Ministry of State President	2736,9850
 Ministry of State for Presidential Affairs	1777,5838,2,1471
 Modalidade Presencial Período Tarde Propina Mensal	12019
-Mozambican President Daniel Chapo	6272
+Mozambican President Daniel Chapo	6272,6566
 Mozambican President Samora Machel	5129
 Mozambican Presidents	2667
 Mozambique Border Corporate Bayobab Press10	11234
@@ -770,10 +773,10 @@ Nigeria’s Vice President Kashim Shettima	8046
 O Decreto Presidencial	11432
 O Despacho Presidencial	4641
 O PReSE	4938
-O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25
+O Presidente	13,154,3980,2315,75,1199,2704,346,572,30,61,67,2,25,1227
 O Presidente Interino da CNE	11561
 O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4
-O Presidente da República	13,154,263,314,8,42,1877,936,539,1,71,339,49,35,412,152,67,707,1,990,3784,18,11,577,1,1,7,2,1,1,5,3,1,1,2,9,2,23,11,1,2,10,2,4,3,3,2,1,9,46,17
+O Presidente da República	13,154,263,314,8,42,1877,936,539,1,71,339,49,35,412,152,67,707,1,990,3784,18,11,577,1,1,7,2,1,1,5,3,1,1,2,9,2,23,11,1,2,10,2,4,3,3,2,1,9,46,17,1303
 O Prestador de Serviços de Pagamento	11404
 O Projeto PReSE	4711
 OFFICE Presidenc MINCOTI BRB MININTER	1284
@@ -851,7 +854,9 @@ PRESIDENT BOAKAI’S GREATEST CHALLENGE IS TURNING	10581
 PRESIDENT DROUPADI MURMU Posted	12568
 PRESIDENT DROUPADI MURMU THANKS TO PRESIDENT	12568
 PRESIDENT OF INDIA IN BOTSWANA	12568
+PRESIDENT OF THE ASSEMBLY	12771
 PRESIDENT OF THE FEDERAL DEMOCRATIC REPUBLIC	12146
+PRESIDENT OF THE REPUBLIC	12771
 PRESIDENT TINUBU SIGNS NIMC ACT	6871
 PRESIDENT'S RECOMMENDATION	1818
 PRESIDENTE	4209
@@ -981,7 +986,7 @@ Present for Facebook and Instagram. Unclear for Google	8436
 Present for Netflix	8436
 Present the Auditor General	3583
 Presentación	1701
-Presentation	422,344,196,70,668,78,54,645,512,792,2072,2016,1334,1619,467,512,56,129,215
+Presentation	422,344,196,70,668,78,54,645,512,792,2072,2016,1334,1619,467,512,56,129,215,570
 Presentation Attack Detection	9747,54,3,23
 Presentation B	12201
 Presentation Outline Introduction	12383
@@ -1080,7 +1085,7 @@ Presidency. The Chairperson	12372
 Presidency.156	3583
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166,3,2,4,7,41,2,9,9,15,14,21,1,10,5,44,19,8,30,41,3,9,6,50,19,48,20,31,6,44,3,3,6,7,12,59,33,20,34,2,1,3,10,4,2,1,19,19,8,4,11,10,20,8,92,58
 President Abdel Fattah El Sisi	10103
 President Abdelmadjid Tebboune	2406,161,719,67,518,57,267,1112,563,83,1078,285
 President Adama Barrow	6008,218,787,3049
@@ -1132,7 +1137,7 @@ President Cyril Ramaphosa and Microsoft President Brad	4950
 President Cyril Ramaphosa of South Africa	5032
 President Cyril Ramaphosa. Includes	2523
 President Cyril Ramaphosa. Picture	7079
-President Daniel Chapo	5114,3132
+President Daniel Chapo	5114,3132,4597
 President Daniel Francisco Chapo	6771,199
 President Denis Sassou N'Guesso	1643,663,1103,190
 President Denis Sassou N'Guesso's State	3409
@@ -1374,6 +1379,7 @@ President of Microsoft Africa	2417,109
 President of Microsoft Frontier Company	7007
 President of MoMAG	10249
 President of Mozambique	2667
+President of Mozambique. The UAE	12803
 President of NITRA	8288
 President of Namibia	2626
 President of NiRA	6536
@@ -1405,7 +1411,7 @@ President. The DRCPass VALIDATION PHASE	2389
 President. The President	11247
 PresidentFebruary	2541,73,1275,141,801
 Presidenta	4209
-Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348
+Presidente	13,2,152,53,210,1271,107,976,32,50,741,540,62,9,1054,152,148,648,242,157,1433,692,482,77,96,295,300,146,607,625,10,6,61,64,3,2,2,8,3,9,21,5,3,14,160,220,348,488,9,1,1,20,5,5
 Presidente Audiencia Provincial	4209
 Presidente B. Maria	10770
 Presidente Consejo	4209
@@ -1429,10 +1435,11 @@ Presidente da Agência de Protecção de Dados	15
 Presidente da Agência de Protecção de Dados Pessoais	10747
 Presidente da Assembleia Nacional	539,2980,7890,16
 Presidente da Assembleia Nacional Popular	11561
-Presidente da Assembleia da República	6970
+Presidente da Assembleia da República	6970,5802,24
 Presidente da Associação	11566
 Presidente da CNE	11432,129
 Presidente da CNE Carmem Batista Lobo	10271
+Presidente da CNIA	12823
 Presidente da CNPD	3079
 Presidente da Comissão de Cultura	539
 Presidente da Comissão de Recenseamento	11528
@@ -1440,17 +1447,19 @@ Presidente da Comissão de Trabalho Especializada	539
 Presidente da Huawei	3692
 Presidente da Ministro da Justiça	10752
 Presidente da Rep	11513
-Presidente da República	13,1,424,2006,137,467,644,383,71,1,71,339,154,36,558,87,426,156,6,6,2,30,519,77,26,407,1063,198,1,227,1158,215,841,1,3,18,11,575,2,1,1,7,2,1,1,5,3,1,1,1,10,2,9,3,11,2,9,3,10,6,3,3,2,10,46,5,10,33,16,734
+Presidente da República	13,1,424,2006,137,467,644,383,71,1,71,339,154,36,558,87,426,156,6,6,2,30,519,77,26,407,1063,198,1,227,1158,215,841,1,3,18,11,575,2,1,1,7,2,1,1,5,3,1,1,1,10,2,9,3,11,2,9,3,10,6,3,3,2,10,46,5,10,33,16,734,479,2
 Presidente da República João Manuel Gonçalves Lourenço	10772
 Presidente da República Luanda	11379
 Presidente da República Pela República Federativa	11393
 Presidente da República Publicação	13,154,263,314,8,42,9978
 Presidente da República de Angola	10772
+Presidente da República de Moçambique	12792,15
 Presidente da República de Transição	4435
 Presidente da República. Artigo	13,154,263,314,8,42,9978,11,613
 Presidente da República. Publicação	11361,1,7,16,60,10,2,1
 Presidente de Moçambique Filipe Nyusi	3048,1663,36,1071,200
 Presidente. ARTIGO	11528
+Presidente. Artigo	12823
 Presidentes	11393,168
 Presidentes Parlamento Nacional	4209
 Presidential	958,819,992,224,1595,9,12,2843,98,2095,512,156,466,257,179,74,697,150,65,98,39,12,21,42,98,57,30
@@ -1550,9 +1559,10 @@ Presiding Judge	10960
 Presiding Officers	10049,1240
 Presidir	13,11422,14
 Presidium	1554
-Presidência	2401,4123,2747,719,1416,163
+Presidência	2401,4123,2747,719,1416,163,1264
 Presidência da CNE	11561
-Presidência da República	5046
+Presidência da República	5046,7787
+Presidência da República. Segundo	12792
 Presidência de Sua Excelência Eng.º Cipriano Cassamá	11561
 Presight	793,3035,7561,371
 Presight International Services	3624,87,522,525
@@ -1660,7 +1670,7 @@ Prestige Centres	8366,2775
 Prestige Plaza Building	3386
 Prestigious	4253,324
 Prestigious Euromoney Awards NetOne Steps Up	2987,16,2400,1506
-Prestiti	789,9914,954
+Prestiti	789,9914,954,1162
 Presume-se	11374,208,436,293
 Presumem-se	11383
 Presumption of Regularity	5574
@@ -1679,6 +1689,7 @@ Presutti	8604
 PresuttiEtAl	8604
 Previsão de Prestação de Serviços	1432,715,2317
 Prima de Vehículo Presidente	4209
+Prime Minister Abiy Ahmed and President Daniel	12825
 Prime Minister Modi. President Zuma and Prime	11183
 Prime Minister of Somalia and Presidential Candidate	11150
 Primeiro Presidente da República	10750
@@ -1698,7 +1709,7 @@ Provincial Presence	8999
 Public Presentation	11866
 Publication Media Events Calendar Press Statements	12390
 Publique-se. O Presidente da Assembleia Nacional	539
-Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410
+Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,21,16,94,1,7,3,371,410,461
 Qualidade Prestação de Serviço	1256,84,743,2330
 Quit Presidential Race	2355,176,4,1,56,3,339,96,901,1006,1761,673
 RELATIONS PRESS OFFICER	11554
@@ -1721,10 +1732,11 @@ Regime de Prestação	11430
 Regional Integration and Development The President	10321
 Regional Presence Careers Contact Us Legal	9109
 Regional President	2310,6807
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
+Regulamento da Actividade de Prestação	12794
 RegulamentoO Presidente da República	794
 Regulate Technology. Oxford University Press	5242
 Regulations Prescribing Universal Levy	1900
@@ -1771,6 +1783,7 @@ SECÇÃO IV PRESTAÇÃO DE INFORMAÇÕES	15
 SECÇÃO IV Prestação de Informações	15
 SECÇÃO V PRESERVAÇÃO DA SOBERANIA	10747
 SEGURIDAD PRESIDENC	4209
+SENHORA PRESIDENTE DA ASSEMBLEIA DA REPÚBLICA	12796
 SERVIÇOS SATISFAÇÃO PELA PRESTAÇÃO SERVIÇOS	10751
 SHA. The President	10662
 SIGNATURE SOUS FORME ELECTRONIQUE LE PRESIDENT	10896
@@ -1842,6 +1855,7 @@ South Africa HOL Somali President	3774
 South Africa Presidencies	7242
 South Africa Presidency	7242
 South Africa President Cyril Ramaphosa	11226
+South Africa and Past President of IASP Advisory	12786
 South Africa's G20 Presidency	2626,6450,159,1975
 South Africa's Presidency	7242
 South Africa. President Cyril Ramaphosa	5161
@@ -2009,6 +2023,7 @@ Visa's Regional President for CEMEA	2610
 Visit of Mozambique’s President	2667
 WEF Future of Jobs 2025 Press Release PTBR.p	2816
 Wavel Ramkalawan President	1333
+Welcoming President Chapo	12803
 Westview Press	1161
 White House. President Donald Trump	10433
 White Paper Presentation	11986

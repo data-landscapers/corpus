@@ -39,6 +39,7 @@ Access XCDR Cross-Community Document Reliable Interchange	1009
 Access XCDR XCPD Cross-Community Document Reliable	1009
 Accessing Bidding Documents Electronically	12389
 Accord Documents	3675
+Action Document for Team Europe for Digital Transformation	12843
 Action Documents	970
 Activities MSF Doctors	10829
 Actualisation des Données Cadastrales	10876
@@ -318,7 +319,7 @@ Contact Contribuer Contribuer Home Données	9482
 Contesting Dominant Algorithmic Imaginaries	11028
 Continental Ownership Doctrine	9119
 Continuity of Care Document Continuity of Care Record	1009
-Controlo de Doenças	11376
+Controlo de Doenças	11376,1439
 Conventional Travel Documents	12227
 Copy of Identification Documents	12400
 Core Analysis How Trust Breaks Down	11138
@@ -386,7 +387,7 @@ DOCUMENT Chapter Section Heading Comments Number	236
 DOCUMENT DE POLITIQUE NATIONALE DE L’ENSEIGNEMENT	12
 DOCUMENT IS IN MILLIONS	3537
 DOCUMENT ON A PROPOSED CREDIT	989,9975,891
-DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616
+DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605
 DOCUMENT ON A PROPOSED LOAN	6539,4878
 DOCUMENT ON PROPOSED CREDITS	1264
 DOCUMENT REVIEW	11129
@@ -606,6 +607,7 @@ Dobson Kwala	10146
 Doc Healthcare	7151
 Doc-E Health Technologies Data Controller INST-98496355ED3	7167
 Doc. S	1243
+Doc.9303	12784
 Doc.do	1243
 DocDate	11135
 DocFlow	2287
@@ -668,7 +670,7 @@ Doctrine	5970
 Doctrouvé Koï	10253
 Doctype	1264,603,606,416,567,148,1049,1886,4229,649,143,345,19
 Docum Nombre	3396
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314
 Document Analysis	11028
 Document Approval History Version	2779
 Document Authentication and Registration Service	12500
@@ -780,7 +782,7 @@ Documented	962,1026,1873,1959,1401,3935,705,91,548
 Documented National CII	1000
 Documenter	747
 Documenting	4863,2288,1562,3643,252
-Documento	2431,385,7671,873,23,21,15,22,3,4,3,5,2,3,2,4,88,27,316,3,120
+Documento	2431,385,7671,873,23,21,15,22,3,4,3,5,2,3,2,4,88,27,316,3,120,829,11
 Documento Alfandegário	12018
 Documento Atraso	11532
 Documento Cartão de Pagamento	10777
@@ -793,7 +795,7 @@ Documento de Identidad Personal	2672,1537
 Documento de Identificação	11383
 Documento de Proyecto	8048
 Documento. ID. Doc	11444,19
-Documentos	549,10811,3,20,36,11,60,30,62,319
+Documentos	549,10811,3,20,36,11,60,30,62,319,952
 Documentos Administrativo	11358
 Documentos Administrativos	11461
 Documentos Electrónicos	3519
@@ -892,7 +894,7 @@ Doha. Nigeria	8046
 Dohmke	11929
 Dohouba	3338
 Doing	573,3137,1782,2377,1101,133,20,181,838,621,243,22,829,353,166
-Doing Business	789,6,1834,770,38,329,55,45,459,408,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,97,47,229,2066,304,831,1042,641
+Doing Business	789,6,1834,770,38,329,55,45,459,408,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,97,47,229,2066,304,831,1042,641,238
 Doing Business Cahiers	7655
 Doing Business Made Easier URL	12280
 Doing Business Portal	6593
@@ -1137,6 +1139,7 @@ Domínio AO	11382,14,1
 Domínio Funcional	10777
 Domínio Público	11430
 Domínio Público Radioeléctrico	11430
+Domínio da Defesa	12823
 Domínio.Ao	11389
 Domínio.ao	8491
 Domínios	576,10784,195
@@ -1212,7 +1215,7 @@ Données XML	1984
 Données de Source de Fréquence Partie	10965
 Données du HCP	8891
 Données. Par	747
-Donohoe	7397
+Donohoe	7397,5441
 Donor	40,650,1,2892,1064,2300,1,661,1790,1430,395,263,368,8,143,169
 Donor Aid	11134
 Donor Alignment	10829
@@ -1451,7 +1454,7 @@ DownLoadPublicCommunicationFile	4127
 Downes	10763
 Downey J	9739
 Downlink	5502
-Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157,269,14,18,4,180,168,37,151
+Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157,269,14,18,4,180,168,37,151,411
 Download Agreement	1234
 Download App	12336
 Download Asycudaworld Tax Information Turnover Tax	12454
@@ -1473,6 +1476,7 @@ Download Registering	12350
 Download Related	9067
 Download Speed	4130
 Download Supplementary REGISTRATION OF VOTERS	12350
+Download TG Regulamento de Centro de Computacao	12808
 Download Trust Privacy Terms Accessibility	9429
 Download the ECZ App	12465
 Download the ESG Economic Validation Learn Google	4434
@@ -1489,7 +1493,7 @@ Downloadable	12211,137
 Downloaded	236,7965,3624
 Downloaded Domestic Off Net Minutes	9781
 Downloading	34
-Downloads	2816,3729,2477,40,1816,255,1094,118
+Downloads	2816,3729,2477,40,1816,255,1094,118,449
 Downloads Article Details References Addis Standard	8671
 Downloads Download	12467
 Downloads PDF Published	12467,19
@@ -1644,7 +1648,7 @@ GB Download and Login Incentive Promotion	11259
 GBV Gender-Based Violence GDP Gross Domestic	1988,8780
 GDP Domestic	12205
 GDP Financing Agreement GNI Gross Domestic	11855
-GDP Gross Domestic Product	11965
+GDP Gross Domestic Product	11965,821
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GRM Grievance	11525
 GDS Orion Licence Dossier	10975
@@ -1657,6 +1661,7 @@ GOVERNMENT DOMESTIC ARREARS IN THE REPUBLIC	1828
 GRA’s Domestic Tax Revenue Division	10419
 GSM Association Official Document FS.31 CM	10721
 GT HC Foreign Exchange Gross Domestic	11134
+Gabriel Domingos	12814
 Gambia. Policy Document	9727
 Gas and Downstream	718
 Gas and Downstream Petroleum	718
@@ -1774,6 +1779,7 @@ INTERVIEWED Does NAME	582
 ISBN and DOI	6483
 ITU SG Doreen Bogdan-Martin	7197
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
+Identificação Tributária. Documentos	12861
 Identity Doc	12152
 Identity Document	8250,2509,9,67,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135,85
 Identity Document BUSINESS	10759
@@ -1847,6 +1853,7 @@ Joice Neto Domingos	3899
 Joint Programming Document	644,145
 Jonathan Dolan	6668,4184
 Jonathan Donner	226,5596
+Jornal Dossier	12844
 José Domingos Brito	2401
 José de Lima Massano. Download Para	11377
 Journal of Documentation	8605
@@ -2150,6 +2157,7 @@ PAULA AGOSTINHO SANGUAHAMGA DONGA	10751
 PAYMENT MEANS Dodoma	6922
 PERSPECTIVE MEASURES TO ARREST DOWNTURNS	10
 PHONE DOES	11004,960
+PIDIAF0329 Project Information Document	12832
 PMU-National and District Assessment for Donor-	1988
 POLICY COMPLIANCE Does	3562
 POLICY COMPLIANCE Policy Does	1867,1737,2935,4229,649,143,345
@@ -2158,8 +2166,10 @@ POLL CLOSED Don't	5551
 PORTANT PROTECTION DES DONNÉES	10812
 PRESSING QUESTION DOMINATES THE CONVERSATION	12339
 PRIMARY DOCUMENT	1826
+PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROJECT APPRAISAL DOCUMENT PCR	12253
 PROJECTS IN NORTH IMENTI Hon. Dorothy	10313
+PROTECTION SYSTEM MULTI DONOR TRUST FUND	12780,1
 PROTOCOLO DE COOPERAÇÃO TÉCNICA NO DOMÍNIO	11455
 PS Raymond Omollo and IG Douglas Kanja	12313
 PUBLIC DOCUMENT	6422
@@ -2178,7 +2188,7 @@ Parents’ Identity Documents	11282
 Parfait Wilfried Douniama Notification	1299
 Participations Mr. Fernandes Silva Dojo	11579
 Partnerships and Donor Relations	11469
-Paschal Donohoe	7397
+Paschal Donohoe	7397,5441
 Pereira Domingos Sá Maria Paula Costa	11544
 Period Total Foreign Foreign Domestic Domestic	6408
 Person GDP Gross Domestic Product GDPR	12663
@@ -2219,14 +2229,14 @@ Procurement Documents	11417
 Producción de Documentales Cinematográficos	4209
 Prof. Doutor Américo Muchanga	9694,446
 Prof. Doutor Eng	2816
-Prof. Doutor Eng. Lourino Chemane	7736,2404,300
+Prof. Doutor Eng. Lourino Chemane	7736,2404,300,2368,22
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 Prof. Doutor Engº. Lourino Alberto Chemane	2784
 Prof. Doutor Genito A. Maúre	2816
 Prof. Doutor Genito Maúre	2816
 Prof. Doutor José Blaunde Patimale	2816
 Prof. Doutor José Nhampossa	2816
-Prof. Doutor Lourino Chemane	9694
+Prof. Doutor Lourino Chemane	9694,3136
 Prof. Doutor Luís Neves	9694
 Prof. Doutor Luís Neves Domingos	2816
 Prof. Doutor Manuel Guilherme Júnior	9694
@@ -2494,6 +2504,7 @@ Telcables South Africa Strengthen Domestic Networks	4993
 Telecommunication GDP Gross Domestic Product GFCF	236
 Temporary Identity Document	10962
 Ten Million US Dollars	5903
+Tender Document	12850
 Tender Documents	8346,4043
 Tendering Document. The Procuring Entity	1638
 Territoire Douanier Unique. L'usage	5077
@@ -2631,6 +2642,7 @@ World Bank Ease of Doing Business	10841
 World Bank Ease of Doing Business Index	4528,7984
 World Bank ICR DOCUMENT CG	11924
 World Bank ICR DOCUMENT CG Rep	11924
+World Bank Managing Director Paschal Donohoe	12838
 World Bank Program Appraisal Document	1693
 World Bank Program Document	558
 World Bank Project Appraisal Document	541,34,1679

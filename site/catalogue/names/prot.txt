@@ -221,7 +221,7 @@ Child Protection Officer	10765,10
 Child Protection Plan	12253
 Child Protection and Safety Online	11400
 Child Protection and Safety Online in Africa Report .pdf	11400
-Children and Social Protection	2548,1788,1812,6581
+Children and Social Protection	2548,1788,1812,6581,52
 Children and Social Protection MoJ	5244
 Children's Protection and Welfare	12737
 China. The Protocol	5440
@@ -658,6 +658,7 @@ Directive Engagement Protocols The NDGC	3861
 Director of Data Protection Compliance	3360
 Director of Data Protection and Privacy	10198
 Director of Legal Affairs and Consumer Protection	9514
+Directorate of Social Protection Coordination	12832
 Direitos Humanos. Protocolo de Cooperação	10752
 Direção da Proteção Social Solidariedade	8749
 Disabilities Protocol	11986
@@ -1034,6 +1035,7 @@ Lei de Protecção de Dados Pessoais Luanda	5791
 Lei de Protecção de Dados. Este	2816
 Lei de Protecção de Informações Pessoais	3519
 Lei de Protecção de Redes	4146,6625
+Lei de Proteção	12820
 Lei de Proteção de Dados	2690
 Level of Protection	12185
 Leverage Social Protection	12761
@@ -1092,6 +1094,7 @@ Ministry of Justice Proposed Data Protection Agency	1161
 Ministry of Protection Sociale des Public Health	10985
 Modernising and Enforcing Data Protection Law	6936
 Morocco Second Identity and Targeting for Social Protection	1571,421
+Mozambique Social Protection and Economic Resilience Project	12780
 Mozambique's Consumer Protection Law	12161
 MyT Protect	7367
 NATIONAL PERSONAL DATA PROTECTION DIRECTOR Personal	5113
@@ -1128,11 +1131,11 @@ National Personal Data Protection Commission	1799,2905,9,2079
 National Personal Data Protection Director	5113,3177
 National Privacy and Personal Data Protection Conference	6927
 National Social Protection Framework	12541
-National Social Protection Institute	12220
+National Social Protection Institute	12220,561,51
 National Social Protection Policy	10963,1,7,14,915
 National Social Protection Policy Framework	3583
 National Social Protection Policy and Strategy	11900
-National Social Protection Strategy	4427,6439,98
+National Social Protection Strategy	4427,6439,98,1817,51
 National Social Protection Strategy II	12715
 National Social Protection Strategy II. Lesotho	5274
 National Social Protection System Project	973
@@ -1248,6 +1251,7 @@ PROTECTION OF PERSONAL DATA Article	11517
 PROTECTION OF PERSONAL INFORMATION ACT	11209
 PROTECTION OFFICE Having	5113
 PROTECTION SOCIALE	5478
+PROTECTION SYSTEM MULTI DONOR TRUST FUND	12780,1
 PROTECTION WHEREAS	12185
 PROTECTION WITHIN ECOWAS THE HIGH CONTRACTING	11517
 PROTECTIVE CAPABILITY PROGRAM	1000
@@ -1376,6 +1380,7 @@ Proposed Data Protection Agency Develop	1161
 Proposed Data Protection Agency Ministry of Justice	1161
 Proposta da Lei de Protecção de Dados	2816
 Proposta da Lei de Protecção de Dados Pessoais	2816
+Proposta de Lei de Protecção de Dados Pessoais	12813
 Prote	10841
 Protea Bond	11134
 Protean	7981
@@ -1486,7 +1491,7 @@ Protection Systems	11156,1211
 Protection Uganda	5113
 Protection Unit	11134
 Protection and Assistance	2106
-Protection and Assistance of Internally Displaced Persons	2106,8735,1059
+Protection and Assistance of Internally Displaced Persons	2106,8735,1059,879
 Protection and Challenges	11400
 Protection and Data Protection Cybersecurity	4126
 Protection and Justice Act	12253
@@ -1571,7 +1576,7 @@ Protective Equipment	1988
 Protective Program	1000
 Protectorate	12151
 Protects	12214
-Protecção	14,1,524,37,1562,300,1081,627,2824,1415,2362,3,614,1,53,8,4,26,5,59,62,515
+Protecção	14,1,524,37,1562,300,1081,627,2824,1415,2362,3,614,1,53,8,4,26,5,59,62,515,677,11
 Protecção Civil	11455
 Protecção IP66	794
 Protecção Individual ERR Equipas	11376
@@ -1581,7 +1586,7 @@ Protecção Social Obrigatória	11433,34
 Protecção da Dados Pessoais	6568
 Protecção da Privacidade	3519
 Protecção de Conteúdo	3519
-Protecção de Dados	2345,439,32,703,900,6336,664,37,32
+Protecção de Dados	2345,439,32,703,900,6336,664,37,32,1296
 Protecção de Dados AGÊNCIA DE PROTECÇÃO	11488
 Protecção de Dados Os	2816
 Protecção de Dados Pessoais	167,409,168,51,2021,1330,7217,5,6,9,73
@@ -1697,6 +1702,7 @@ Refugee Protection Bill	11986
 Refugees Protection	11986
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209
 Regime Jurídico Geral de Protecção de Dados	2345
+Regime Jurídico de Protecção de Dados Pessoais	12813
 Regime da Protecção Social Obrigatória	11467
 Regimes de Proteção Social Contributivos	11547
 Registro General de Protección de Datos	163
@@ -1757,8 +1763,10 @@ SECÇÃO II PROTECÇÃO DOS UTILIZADORES	11430
 SECÇÃO II Protecção	11360
 SECÇÃO III Protecção	11360
 SECÇÃO IV MEDIDAS DE PROTECÇÃO	10747
+SECÇÃO IV Protecção	12785
 SENTENCING AND ORDERS TO PROTECT COMPLAINANTS	11190
 SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99
+SOCIAL PROTECTION AND ECONOMIC RESILIENCE	12780,1
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SOCIAL PROTECTION COVERAGE Despite	11998
 SOCIAL PROTECTION D	11156
@@ -1787,6 +1795,7 @@ Senior Data Protection Analyst World Press	4800
 Senior Social Protection Consultant	10763
 Senior Social Protection Economist	12541
 Senior Social Protection Specialist	10763,2,10,1406,231,251
+Senior Social Protection Specialist Borrower	12832
 Senior Social Protection and Economic Inclusion Consultant	10763
 Service Central de Protection	10137
 Service POPIA Protection of Personal Information Act	11196
@@ -1800,7 +1809,8 @@ Serviços da Proteção de Dados Pessoais	11683
 Seychelles Data Protection Act	1652
 Seychelles Social Protection System PforR	734
 Shared Consumer Protection	11138
-Shock Responsive Social Protection	12181
+Shock Responsive Social Protection	12181,651
+Shock-Responsive Social Protection. Finances	12832
 Sierra Leone’s Draft Data Protection Bill	1161
 Sierra Leon’s Shock Responsive Social Protection	10763
 Signed Council of Europe Additional Protocol	10908
@@ -1815,7 +1825,7 @@ Smart Africa Data Protection Working Group	961,9858
 Social Assistance MIS and Linking Social Protection	10822
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344
 Social Protection Act	10775
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Baseline	11469
@@ -1847,10 +1857,11 @@ Social Protection System Project	11855
 Social Protection System for Human Capital and Resilience	10768
 Social Protection Toolbox	11133
 Social Protection Transformation Project	12440
-Social Protection and Economic Resilience Project	12220
+Social Protection and Economic Resilience Project	12220,560,52
+Social Protection and Economic Resilience Project Operation	12832
 Social Protection and Jobs	10763
 Social Protection and Jobs Global Practice	11924,617
-Social Protection and Jobs Global Practice Eastern	10768
+Social Protection and Jobs Global Practice Eastern	10768,2013
 Social Protection and Jobs Policy and Technical Note	10985
 Social Protection and Jobs Responses	10763
 Social Protection and Labor	10964
@@ -1890,6 +1901,7 @@ Strengthening Data Protection Frameworks	2459
 Strengthening Digital Social Protection	12370
 Strengthening Financial Consumer Protection and AML	12701
 Strengthening Financial Risk Protection	10776
+Strengthening Mozambique's Social Protection System MDTF	12832
 Strengthening Togo's Data Protection Framework	8282
 Strengthening the National Social Protection Project	10768
 Strengthening the National Social Protection System Project	424,549,9795,607,20
@@ -2017,6 +2029,7 @@ World Bank’s Disaster Protection Program	10763
 World Bank’s Disaster Protection Program. JICA	10768
 World Bank’s Strategies for Social Protection	11855
 X Xº Protecção de Dados República de Angola	10770
+X-Road Message Protocol and Security Server. Project	12834
 XI. Protection	6612
 XIV. Protection	6612
 Yamify's Managed Cloud Prototypes	11344

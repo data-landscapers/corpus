@@ -13,6 +13,7 @@ AI. Constraint	8182
 AMENDMENT PROCEDURES AND CONSTITUTIONAL REQUIREMENTS	3861
 ARC Resources Corporation Ltd and Winners Construction	3583
 ARK CONSTRUCTION LIMITED Data Controller INST-691796047FC	7167
+ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Estatisticas	12862
 ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Menu	12156
 ATU Constitution	7793,157
 ATU Constitution and Convention	6488,2315
@@ -33,7 +34,8 @@ Applicable Fee Schedules for All Types of Construction	12389
 Appointment and Constitutional Basis	3861
 Area CRSA Constitution	11196
 Artificial Intelligence University Construction	7085
-Assuntos Constitucionais	1268,7990,2898
+Assembleia da República. O Conselho Constitucional	12854
+Assuntos Constitucionais	1268,7990,2898,675
 Aﬀairs Ministry of Works Ministry of Law and Constitutional	12674
 BARIZE CONSTRUCTION LIMITED Data Controller INST-974973478EC	7167
 BLOX CONSTRUÇÕES S.A. Nos	10751
@@ -126,8 +128,11 @@ Comparative Constitutional and Regulatory Analysis	10270
 Computer Room Wall Construction	9123
 Conference Hall Superstructure Construction	11134
 Conseil Constitutionnel	17,3379,7527
-Conselho Constitucional	8658,87,219
+Conselho Constitucional	8658,87,219,3890
 Conselho Constitucional de Moçambique	8243
+Conselho Constitucional. Em	12854
+Conselho Constitucional. Lei	12785
+Conselho Constitucional. Num	12854
 Const2010. Accessed	12143
 Consta	6595
 Constable Bongekile Mamba	12463
@@ -174,7 +179,7 @@ Constitucionales Técnicos	4209
 Constitucionalmente	11569
 Constitución	1701
 Constitue	1231,9645,90
-Constituem	13,2,152,409,2290,653,699,951,1801,3785,627,4,33,11,13,18,6,49,2,2,8,591,192
+Constituem	13,2,152,409,2290,653,699,951,1801,3785,627,4,33,11,13,18,6,49,2,2,8,591,192,472
 Constituencies	2668,8466,1067
 Constituency	1988,4600,4543,3,1225,24,336
 Constituency Development Fund	1988,3259,275,2912,141,166,190
@@ -189,10 +194,10 @@ Constituindo	11366
 Constituindo-se	3519
 Constituir	1701,9054,627,61,126,332
 Constituir Empresa Online Como Constituir Empresa	10753
-Constituição	15,524,4672,3447,87,30,189,1789,319,316,48,7,9,9,52,15,9,32,8,324,120,98,192
+Constituição	15,524,4672,3447,87,30,189,1789,319,316,48,7,9,9,52,15,9,32,8,324,120,98,192,459,3,81
 Constituição da RGB	11562
 Constituição da Repú-	539
-Constituição da República	795,6175,2206,1576,673,11,77,3,2,1,1,27,764
+Constituição da República	795,6175,2206,1576,673,11,77,3,2,1,1,27,764,464,2,5,2,1,38,10,21
 Constituição da República Info	11513
 Constituição da República da Guiné-Bissau	11557
 Constituição da República de Angola	13,1,1,152,263,109,10,195,8,42,2725,88,539,1,71,339,2290,3900,2,5,1,1,16,11,576,1,1,1,1,1,1,2,1,1,2,1,1,5,3,1,1,1,1,3,2,4,2,1,8,1,3,10,6,5,1,2,3,7,2,4,3,3,1,1,1,3,6
@@ -203,7 +208,7 @@ Constituição de Direito de Superfície	11443
 Constituição. ARTIGO	11513
 Constituição. Sociedades Pesquisar	10753
 Constitute	12253
-Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7
+Constitution	3,8,6,8,3,85,195,105,16,156,2,160,1,51,100,59,11,1,2,238,4,17,53,63,283,112,95,1,146,109,24,190,205,3,16,16,52,27,100,1,9,39,31,2,197,53,168,157,13,105,82,127,4,147,181,85,79,15,140,1,1,57,1,107,39,21,9,156,360,28,1,31,71,289,40,280,19,122,128,183,82,56,45,27,12,61,24,54,205,36,93,176,67,204,1,10,12,24,44,10,147,87,50,87,159,6,34,60,10,252,30,9,34,135,94,1,61,62,1,19,1,4,79,14,22,198,26,169,246,93,56,42,78,1,24,1,51,1,57,25,5,137,32,22,35,8,62,19,123,133,62,17,36,10,46,1,4,15,35,32,141,49,31,2,3,5,38,1,1,2,1,6,2,3,3,5,10,5,2,6,6,15,2,14,1,3,7,5,3,5,1,3,128,47,87,7,22,12,15,11,32,12,129,5,5,10,1,1,31,10,14,32,5,2,41,8,20,1,9,7,16,45,41,18,32,1,5,10,24,3,13,25,6,21,40,1,8,17,8,10,12,23,38,102,16,3,15,2,1,7,24,39,32,1,9,7,103,8
 Constitution Amendment Bill No	12556
 Constitution Art	2456,2686
 Constitution Article	2456
@@ -339,7 +344,7 @@ Constitutional and Legal Authority for Enactment	3861
 Constitutional and Legal Authority for Enactment This Policy	3861
 Constitutional and Political Doctrine	3861
 Constitutional and Political Doctrine Data	3861
-Constitutional and Religious Affairs	4545,2335
+Constitutional and Religious Affairs	4545,2335,5937
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Constitutionalising Global Content Governance	11028
 Constitutionality	2307,3565
@@ -371,7 +376,7 @@ Constructed	2973,610
 Constructing	9155,1686,1249
 Constructing Housing	12175
 Constructing the Core Engine	4528,7984
-Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7
+Construction	35,23,63,216,381,546,374,44,185,10,63,48,33,321,134,34,29,236,191,23,56,269,82,27,37,401,150,114,95,456,6,214,109,242,147,399,515,114,68,103,40,191,84,13,25,724,4,21,148,394,59,25,285,603,357,253,942,86,11,3,14,25,2,34,39,62,97,2,112,48,228,57,293,7,1,23,81,267,105,15,26,22,24,55,97,120,7,126
 Construction ARCEP	998
 Construction Act	1988
 Construction Agriculture Non	10875
@@ -721,6 +726,7 @@ PROPOSED CONSTRUCTION OF JITUME	1638
 PROPOSED CONSTRUCTION OF JITUME CENTRES	1638
 PROPOSTA DE REGULAMENTO DE CONSTRUÇÃO	2437
 Padrões de Regulamentos de Construção	11898
+Para Constantino Sotomane	12801
 Parlamento Consejo Sup. PJ Constitucional Vocales	4209
 Permanent Constitution	3583
 Phase Action Responsable Constitution Création	10876
@@ -758,7 +764,7 @@ Reformed Constituency Development Fund Dashboard	8667
 Región Continental Continental Construcción	4209
 Regulamento Constituição da República de GuinéBissau Lei	11542
 Regulamento de Constituição	11426
-Regulamento de Construção	2816
+Regulamento de Construção	2816,9992
 Religião A Constituição da República de Angola	11577
 Representing ROKO Construction	9322
 Republic of Congo’s Constitution	10841

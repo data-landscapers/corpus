@@ -157,7 +157,7 @@ Addis Ababa. Printed	10819
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Addis Ababa. Vodacom and Vodafone	8843
 Addis AbabaOctober	2947
-Addis Abeba	571,2605,1033,4678,3298
+Addis Abeba	571,2605,1033,4678,3298,599
 Addis Abeba.2	12257
 Addis Albaba	7065
 Addis Insight	12244
@@ -175,7 +175,7 @@ Addisfortune	8671
 Addison-Wesley	3782
 Addit	4260
 Additif N	5983
-Addition	585,151,277,931,2788,2189
+Addition	585,151,277,931,2788,2189,5911
 Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8,137,22,52,67,17,32,4,167,99,8,4,3,3,8,5,1,1,1,11,5,18,12,8,21,12,26,23,113,14,1,1,9,3,9,26,30,2,8,20,8,47,19,2,1,2,1,11,1,7,16,3,20,1,3,10,28,4,13,19,11,2,12,22,1,14,61,29,34
 Additional APS	4260
 Additional Assets	12400
@@ -184,7 +184,7 @@ Additional Conditions IBRD	11417
 Additional Confirmations	5903
 Additional Declarations	12379
 Additional Districts	12241
-Additional Financing	166,417,701,294,517,378,4050,4440,1,505,422,74,43
+Additional Financing	166,417,701,294,517,378,4050,4440,1,505,422,74,43,772,52
 Additional Financing AFD French Development Agency	11924
 Additional Financing AM Accountability Mechanism ARCEP	2889
 Additional Financing African Development Bank	808
@@ -192,8 +192,10 @@ Additional Financing CAB4 World Bank Group	162
 Additional Financing Credit Grant SML Guarantee	2889
 Additional Financing NewFinEnh1 World Bank Group	1284
 Additional Financing No	11965
+Additional Financing Request	12780,52
 Additional Financing Type	11965
 Additional Financing World Bank Group	307,450
+Additional Financing. D. Project Description	12832
 Additional Financing. IDA	757
 Additional Financings	11924
 Additional Frictions	11138

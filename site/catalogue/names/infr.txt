@@ -145,6 +145,7 @@ C. Digital Infrastructure and Affordability AI	11140
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
 CA Infrastructure Interoperability Framework	7548
 CAPÍTULO VI INFRACÇÕES RELATIVAS AO RECENSEAMENTO	11528
+CAPÍTULO VI Infracções	12785
 CAPÍTULO X INFRA-ESTRUTURAS DIGITAIS E CENTROS	11461
 CBL Building Digital Payment Infrastructure	12092
 CEO of MTN Group Digital Infrastructure	11489,9
@@ -378,6 +379,7 @@ Dgtl Infra	597
 Digital Access and Infrastructure Research Projects	3678
 Digital Financial Infrastructure	263,828,3383
 Digital Health Infrastructure	12240
+Digital ID and Digital Public Infrastructure. Far	12825
 Digital Identity Infrastructure Work	4848
 Digital Information Infrastructure	396
 Digital Infrastructure	3861,265,770,345,3,325,103,867,1009,438,3154,56,695,465,318
@@ -414,7 +416,7 @@ Digital Infrastructure for Growth	4688
 Digital Innovation Digital Infrastructure Smart Education	2256
 Digital Payment Infrastructure Component World Bank	1197
 Digital Payments Infrastructure Loan Belgian Investment	1419
-Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14,125,66,6,43,4,199,4,14,25
+Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14,125,66,6,43,4,199,4,14,25,107
 Digital Public Infrastructure -DPI Report.pdf	5485
 Digital Public Infrastructure 0.pdf	7242
 Digital Public Infrastructure Based Approach	12214
@@ -800,6 +802,7 @@ Infra-estruturas Críticas	2784,4186
 Infra-estruturas Críticas Nacionais	2784
 Infra-estruturas Críticas de Informação	2784
 Infra-estruturas Críticas de Informação. Edição	2784
+Infra-estruturas Resilientes	12787
 Infra-estruturas Tecnológicas	11394
 Infra-estruturas de Internet Prestadores	6970
 InfraCo	299,4040,557,2650
@@ -817,7 +820,7 @@ Infracos and MSPs Focused	10781
 Infractions	142,10997
 Infractores	1701
 Infracção Disciplinar	11425
-Infracções	539,2327,8559,157
+Infracções	539,2327,8559,157,1203
 Infraestructura	4209
 Infraestructuras	1701,2508
 Infraestructuras Aeroportuarias	1855,2354
@@ -853,7 +856,7 @@ Infrastructural	4676,2272,3217,1695
 Infrastructural Development for Whom	12227
 Infrastructural Dimension	12210
 Infrastructural State Capacity	5700
-Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78
+Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78,84
 Infrastructure Access	12214
 Infrastructure Accessibility	12411
 Infrastructure Act	1777
@@ -909,6 +912,7 @@ Infrastructure Financing WG2	5680
 Infrastructure Financing and Implementation Support Agency	8564
 Infrastructure First	4752
 Infrastructure Following VFEX Listing	7534
+Infrastructure For The Republic of Mozambique	12834
 Infrastructure Fund	7548,1515,2185,41
 Infrastructure Fund Table D.8	11248
 Infrastructure Fund. IFISA	11248
@@ -1403,7 +1407,7 @@ Public Electric Charging Infrastructure	12436
 Public Infrastructure	5519,181,6252,262,27
 Public Infrastructure and Minister	11285
 Public Infrastructure and Private Protection	5700
-Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221
+Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221,160
 Public Key Infrastructure Asymmetric	11869
 Public Key Infrastructure NDP National Development	1000
 Public Key Infrastructure ORTIA One-stop	11986
@@ -1490,6 +1494,7 @@ STANLIB Infrastructure Fund II. Following	4730
 STRUCTURE OF ECONET INFRACO Econet InfraCo	4896
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 Safeguarding Digital Public Infrastructure for Children	11007
+Sanções SECÇÃO I Infracções Artigo	12785
 Satellite Connectivity Where Infrastructure Falls Short	7375
 Scalar Infrastructure and Real Assets	5393,53
 Scale Infrastructure Financing Across Africa	9803
@@ -1522,6 +1527,7 @@ Service Infrastructure-as-a-Service	9123
 Setup of Infrastructure	11209
 Shared Telecom Infrastructure	2140
 Shareholding Structure Econet InfraCo	4896
+Signature Infrastructure For The Republic of Mozambique	12834
 Slowing Deterioration. Infrastructure	11888
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Smart Africa's Director of Digital Infrastructure	10450

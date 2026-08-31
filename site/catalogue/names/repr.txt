@@ -213,7 +213,7 @@ Represent	940,4736,6127
 Represent Diplomáticas Pedido de Restituição	12018
 Represent Zimbabwe	4528,7984
 Represent. Carestia de Vida	4209
-Representa	9289,405
+Representa	9289,405,3104
 Representación	11563
 Representación Parlamentaria	4209
 Representando	10325
@@ -226,12 +226,12 @@ Representante Residente	758,8502
 Representante da CEDEAO	11540
 Representante da Delegação da União Europeia	6018
 Representante da União Europeia	11540
-Representantes	4209,2761,734,3725,25,4,58
+Representantes	4209,2761,734,3725,25,4,58,1307
 Representantes Legais	11404
 Representantes da Comissão Intersectorial	10752
 Representantes da Sociedade Civil	10752
 Representar	13,154,4051,7163,1,53,8,6,69
-Representation	27,945,502,2240,147,1815,1872,207,166,707,136
+Representation	27,945,502,2240,147,1815,1872,207,166,707,136,4007
 Representation Conflicts	12360
 Representation Equal Civil Liberties Equal Socioeconomic	10759
 Representation and Hearing	3005
@@ -335,7 +335,7 @@ Reproductive Maternal Newborn Child and Adolescent Health	12606
 Reproductive Rights All	6534
 Reproductive Social	970
 Reproductive and Child Health	10878
-Reprodutiva	10777
+Reprodutiva	10777,2020
 Reprodutiva Antes	10777
 Reprodução	2816,7941,20
 Reprofilage	2342
@@ -416,7 +416,7 @@ UNFPA Nigeria Resident Representative Muriel Mafico	9540
 UNFPA Resident Representative Mr. John Musoti	12719
 UNFPA Resident Representative. Charting	7702
 UNHCR Country Representative Aissatou M. Ndiaye	4652
-UNHCR Representative	1901
+UNHCR Representative	1901,10910
 UNHCR's Representative	12173
 UNICEF Country Representative	7171
 UNICEF Country Representative Wafaa Abdelatef	5100

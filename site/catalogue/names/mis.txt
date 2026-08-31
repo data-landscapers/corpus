@@ -288,7 +288,7 @@ MISA Zambia	8481
 MISA Zimbabwe	3021,3772,158
 MISA Zimbabwe and Media Alliance of Zimbabwe	6951
 MISA-Check	12201
-MISAU	1228,1245,1787,7882
+MISAU	1228,1245,1787,7882,655,3,21,1,41
 MISAU APS	4260
 MISAU CHW	4260
 MISAU Ministry of Health	2473
@@ -335,6 +335,7 @@ MISSION Safeguarding	1630
 MISSION The DHA	5533
 MISSION300	12399
 MISSOLE	10975
+MISSÃO E METAS O Plano Estratégico	12777
 MISTI	11909
 MISTT	11004,13,947
 MISTT Internet Fundamentals and Popular Apps	11017
@@ -422,7 +423,7 @@ Missing and Unverified Beneficiary Assets	9650
 Missing for Facebook	8436
 Missing for TikTok. Unclear	8436
 Missingdatacouldbeaddressedthroughadvanced	8606
-Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15,102,61,76,17,39,44,85,26,11,30,12
+Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15,102,61,76,17,39,44,85,26,11,30,12,20
 Mission Aide Memoire	12553
 Mission Chrétienne	10826
 Mission Contact Us Department of Computer Science	12361
@@ -465,11 +466,11 @@ Mississippi	7140
 Missolè	10975
 Missouri	12413
 Missouri Vital Statistics	12413
-Missão	795,3423,1445,5409,307,2,1,67,7,81,6
+Missão	795,3423,1445,5409,307,2,1,67,7,81,6,1234
 Missão Regular	11415,13
 Missão da União Europeia	2315,129,1086,2027,15,247
 Missão de Observação Eleitoral da União Europeia	3530
-Missões Diplomáticas	10772,653,27
+Missões Diplomáticas	10772,653,27,1332
 Missões Diplomáticas de Cabo Verde	11893
 Mistaken	12253
 Mistakes	11156

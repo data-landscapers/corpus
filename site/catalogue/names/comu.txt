@@ -28,6 +28,7 @@ CPLP A Comunidade	2816
 CPLP Comunidade	11545
 Carta da Comunidade	11393
 Centros Infantis Comunita	11387
+Centros Multimédia Comunitários	12835
 Chefes de Estado da Comunidade	11531
 Comissão da Comunidade Económica	8051
 Comum	6462,4922
@@ -52,15 +53,18 @@ Comunicacoes de Mocambique	1526
 Comunicado	8578,2881
 Comunicado Final	4147
 Comunicar	163,2658,7934,629,54,5,83,375
-Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238
+Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317,245,43,3,11,2,1,2,3,4,4,4,2,1,42,2,4,2,1,4,9,70,11,27,13,1,126,192,64,53,1,37,238,480,13,4,8,2,4,4,1,13,4,3,10,6
+Comunicação Decorreu	12799
 Comunicação IM Mediador	11555
 Comunicação Institucional	1192,9580
 Comunicação Instituto Nacional de Avaliação	10766
 Comunicação IoT	2816
+Comunicação Já	12808
+Comunicação O Conselho de Ministros	12813
 Comunicação PAAO Plano de Ação Anual Orçamentado	11557
 Comunicação Prévia	11458
 Comunicação S	539
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522
 Comunicação Social Artigo	12311
 Comunicação Social Sublinhou	5974
 Comunicação Social. Artigo	12311
@@ -75,12 +79,13 @@ Comunicação de Angola	6585,32,2
 Comunicação de Dados	11425
 Comunicação de Incidentes de Segurança	3519
 Comunicação. Abaixo	2816
-Comunicação. Artigo	15,6955
+Comunicação. Artigo	15,6955,5853
+Comunicação. Este	12791
 Comunicação. Já	10614
 Comunicação. PARTE I ASSEMBLEIA NACIONAL POPULAR	11518
 Comunicação. Perfil de Entrada	12019
 Comunicação. Sob	167
-Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14
+Comunicações	13,2,1200,13,49,855,163,139,3,379,50,661,366,254,71,56,181,53,594,1360,360,148,29,736,265,70,737,20,31,72,11,409,84,125,135,392,54,411,196,613,22,20,13,13,2,31,24,34,1,11,11,27,13,127,433,14,631,34,1,1,7,10
 Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1,625,1,18,13,2,1,2,136
 Comunicações Eletrónicas	4435
 Comunicações Eletrônicasetc	11456
@@ -92,7 +97,8 @@ Comunicações Publicitárias	11360
 Comunicações and Tecnologias de Informação	2295
 Comunicações da Comunidade	11393
 Comunicações da Guiné-Bissau	11518,13
-Comunicações de Moçambique	2866,5792,308,468,1677,1045
+Comunicações de Moçambique	2866,5792,308,468,1677,1045,698,8
+Comunicações-INCM	12835
 Comunicações. Artigo	15,2851
 Comunicações. Neste	11415
 Comunicaçōes	2866
@@ -130,7 +136,7 @@ Conductor B1 Oficial de Comunicación A1 Recepcionista	4209
 Conductor B2 Oficial de Comunicación B2 Recepcionista	4209
 Conselho Municipal de Auscultação da Comunidade	11373
 Conselho Nacional de Comunicação Social	11513,48
-Conselho Superior da Comunicação Social	12311
+Conselho Superior da Comunicação Social	12311,522
 Coordenação Escolar Comunal Centro de Formação Local	10766
 Coordenações Comunais da Educação	10766
 DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO	11396
@@ -148,6 +154,7 @@ Departamento de Comunicações	9236,2225
 Desenvolvimento Comunitário	10763
 Desenvolvimento Comunitário AP Agente Parceiro APEE	11557
 Desenvolvimento da Comuna	11390
+Director de Comunicações	12835
 Director. O Gabinete de Comunicação Institucional	167
 Direito da Comunicação Social	11358
 Direitos Humanos Jurisdição Comum	10752
@@ -163,6 +170,7 @@ Encriptação de Redes de Comunicações Electrónicas	10747
 Entendimentos Comuns	11564
 Equipamento de Comunicação Móvel	10747
 Equipamento de Comunicações Electrónicas	10747
+Estatutos da Comunidade	12842
 Estrategia de Comunicación	8048
 Estratégia de Comunicação da CNPD	1338
 FUNDO DE DESENVOLVIMENTO DAS COMUNICAÇÕES	11397
@@ -190,6 +198,7 @@ La Comunicación Audiovisual	9303
 Laboratório da Comunidade	7342
 Lei da Comunicação Social	12124
 Lei da Comunicação Social URL	12311
+Lei de Comunicação Social	12833
 Lobito. Gabinete de Comunicação Institucional	11474
 MINISTÉRIO DOS TRANSPORTES E COMUNICAÇÕES PROJECTO	11542
 MUNICÍPIOS E NAS COMUNAS	1215
@@ -229,6 +238,7 @@ Operadores de Comunicações Electrónicas	6970,4460,1
 Os Operadores de Comunicações Electrónicas	15,11415
 Partido Comunista da China	11045
 Partners Hidroeléctrica de Cahora Bassa Comunidade	9409
+Plataforma Comum de Comunicação de Dados	12774
 Plataforma de Comunicação VoIP	11939
 Política de Comunicaciones	1701
 Política de Comunicaciones ODS	1701

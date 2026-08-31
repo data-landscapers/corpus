@@ -160,7 +160,7 @@ Computer Security Incident Response Teams	5677,1259,1961,573,1219
 Consolidated Response	8582
 Contingency Emergency Response Component	2989,7779,195,1002
 Contingent Emergency Response	1284,3369,2275,4489,554,204
-Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -170,6 +170,7 @@ Contingent Emergency Response Component Indicator Name	4653
 Contingent Emergency Response Component Proposed Cost	1228,3425
 Contingent Emergency Response Component TOTAL Current	1228,3425
 Contingent Emergency Response Component TOTAL Original	4653
+Contingent Emergency Response Component. COSTS	12832
 Contingência de Resposta	11413
 Coordinate the Response	5677
 Corporate Responsibility	11611
@@ -223,6 +224,7 @@ Differentiated Responsibilities and Respective Capabilities	11210
 Digital Identity Responsibility	10819
 Digital Response Connecting Citizens	641
 Digital Solutions for COVID-19 Response	10919
+Direct Social Assistance for Emergency Response	12781
 Director of Responsible Business	5618
 Direito de Resposta	12311
 Disclaimer Thematic Categories Question Responses Please	5247
@@ -749,7 +751,7 @@ Respective Part	1264
 Respectively	12201
 Respeitar	2816,3646,4906,62
 Respeite	11461
-Respeito	11367,21,42,22,91
+Respeito	11367,21,42,22,91,1230,47
 Respeito Pelos Direitos	11388
 Respetar	1701
 Respirator	1988
@@ -775,7 +777,7 @@ Respondingtothisgap	8602
 ResponsAbility	389
 Responsa	11432
 Responsabilidad Extendida	1701
-Responsabilidade	14,562,2240,703,2943,508,3785,317,288,8,6,5,5,57,11,9,6,88,27,316,3,410
+Responsabilidade	14,562,2240,703,2943,508,3785,317,288,8,6,5,5,57,11,9,6,88,27,316,3,410,474
 Responsabilidade Artigo	11461
 Responsabilidade Civil	12311
 Responsabilidade Civil Conexa	3519
@@ -798,7 +800,7 @@ Responsabilité Limitée Pluripersonnelles	11522
 Responsabilité Sociale des Entreprises	839
 Responsabilité Sociétale des Entreprises	839
 Responsabilités	11522
-Responsabilização	10750
+Responsabilização	10750,2091
 Responsabilização. República	10750
 Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34
 Responsable Deporte Militar	4209
@@ -853,7 +855,7 @@ Response of Project Implementation Team	1778
 Response. The Executive Secretary of Héritiers	11868
 Response. The Secretary General	11864
 Response. This Response	11864,4
-Responses	3791,1057,2099,1,1488,167,1013,245,951,489,566,35
+Responses	3791,1057,2099,1,1488,167,1013,245,951,489,566,35,930
 Responses Increased N	5247
 Responses Score	10812
 Responses Score ICT	10812
@@ -1054,7 +1056,7 @@ Shared Responsibility	8343
 Shared Responsibility Model	11995
 Shock Responsive Mechanism	8399
 Shock Responsive Safety Net	12229
-Shock Responsive Social Protection	12181
+Shock Responsive Social Protection	12181,651
 Sierra Leon’s Shock Responsive Social Protection	10763
 Silicon Valley Responsable	7403
 Sintomas de Infecção Respiratória Aguda	10777
@@ -1135,6 +1137,7 @@ Unit of Responsibility for Indicator Name Core Baseline	11525
 Uphold Shared Responsibility	11995
 Uso Responsável da IA	2816
 VAT. Respondents	9630
+VI. ROLES AND RESPONSIBILITIES	12779
 VI.4. Responsabilités	10876
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
 Vieider FM. Responsibility	10780

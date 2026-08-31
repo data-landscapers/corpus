@@ -647,7 +647,7 @@ Behoudens	11189
 Behuria	12333
 BeiDou Navigation Satellite System	5288
 Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co	998
-Beijing	125,1701,1,691,1080,12,7,83,930,46,4,254,207,176,399,641,433,103,53,68,856,144,258,59,164,15,380,31,97,798,210,42,227,55,23,57,13,1,171,34,197,289,19,39,169,256,54
+Beijing	125,1701,1,691,1080,12,7,83,930,46,4,254,207,176,399,641,433,103,53,68,856,144,258,59,164,15,380,31,97,798,210,42,227,55,23,57,13,1,171,34,197,289,19,39,169,256,54,1112
 Beijing Declaration and Platform for Action	11193,379
 Beijing Declaration and Platform of Action	11193
 Beijing Model	5242
@@ -667,7 +667,8 @@ Beijing. Under	10444
 Being	236,519,488,496,219,30,1475,459,33,482,596,91,409,219,50,1032,584,17,9,23,1136,178,31,85,46,92,373,123,634,316,155,90,50,76,165,26,92,415,310,126,8,216,118,36,25
 Being Offered	3862
 Being Offered S	3862
-Beira	1808,859,149,717,5951,2656,8,53
+Beira	1808,859,149,717,5951,2656,8,53,617,17,23,1
+Beira Corridor	12804
 Beira and Lobito	9959
 Beira and Nacala	12376
 Beirut for MENA	1237
@@ -967,6 +968,7 @@ Beneficiário Efectivo Deputados	11462
 Beneficiário. Módulo de Rendas Comerciais	9403
 Beneficiário. Módulo de Veículos	9403
 Beneficiários	13,6957,3784,611,13,28,736
+Beneficiários-alvo Os	12862
 Benefit	4258,1091,201,5435,246,186,391,116,134,315,396
 Benefit Administration	10102
 Benefit Sharing	6534
@@ -1000,6 +1002,7 @@ Benefícios Fiscais	12018
 Benelux	11561
 Beneyam D Ashebo	11986
 Beneﬁting	11154
+Benfica	12846
 Bengaluru	6692,4154
 Bengaluru and Vijayawada	6692
 Bengaluru. Mr. Carlos Pinto Pereira	11579
@@ -1349,6 +1352,7 @@ Berhe M	12379
 Beringer	12333
 Berka	1243
 Berkeley	137,2057,1271,661,4403,498
+Berlim	12784
 Berlin	2096,720,1442,464,1509,29,1018,516,548,786,109,395,446,241,997,772
 Berlin Disclaimer	11156
 Berlin School of Economics and Law	9237
@@ -1638,6 +1642,7 @@ Beyond Senegal and Zimbabwe	5242
 Beyond Speed	6051
 Beyond Speed From Connectivity	6051
 Beyond Starlink and Cybastion	7344
+Beyond Technicality	12830
 Beyond Technology	11940
 Beyond Translation	3745
 Beyond the AI	8113
@@ -1681,6 +1686,7 @@ Bjoern Bengelsdorf	11922
 Board Audit and Risk Assurance Committee BETA	6946
 Bob Bell	12544
 Body Betrügereien	11316
+Body INGD Vai Digitalizar Registo de Beneficiários	12859
 Bold Bet	5200
 Bolsas de Estudo Externas BEI	11387
 Bonaventure Benjamin Panzet Sébas	3319
@@ -2207,6 +2213,7 @@ Hon. George Best. Hon. George Murugara	10313
 Honourable Anita Anand and Benin's Minister of Foreign	9043
 Hope Behind Bars Africa	6770
 Hospital Beds and Cots Available	2775
+Hospital Geral da Beira	12821
 Hosted the CBE Beneficiaries’ Brunch	11131
 Hotel Bed-Nights	2775
 Hotel Bed-Nights Occupancy	2775
@@ -2232,6 +2239,7 @@ IFC Benin	3255
 IIGnnldnooebvxaal2t0io2n4 Beaecnhchomf	11885
 III. Benchmark-Objectifs-Impacts IV. Critères	1247
 III. Benchmark-Objectifs-Impacts Objectifs	1247
+INGD Vai Digitalizar Registo de Beneficiários de Assistência	12859
 INTERNATIONAL BEST PRACTICE INTEGRATION	3861
 INTERPLAY BETWEEN DATA SHARING	12419
 INTRODUCTION Being	1000
@@ -2473,6 +2481,7 @@ Marca Mercedez Benz	11532
 Marginalised Beneficiaries	12479
 Maria Belen	10763
 Maria Benvinda Delfina Levi	4274
+Maria Benvinda Delfina Levi Preço	12823
 Maria Benvinda Levi	11340
 Maria Paola Bertone	10829
 Market Dynamism and Competitive Behaviors	12389
@@ -2554,6 +2563,7 @@ Moving Beyond the Headline Numbers	9148
 Moxico Benguela VENTURA NDALA BAPTISTA	10751
 Moxico Province Benguela	11418
 Moxico and Benguela	10763
+Mozambique PM Maria Benvinda Levy	12838
 Mr. Bekithemba L. Nkomo	8626
 Mr. Belachew Tsehay	12276
 Mr. Benjamin MOUANDZA	5075

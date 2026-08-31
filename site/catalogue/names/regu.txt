@@ -140,7 +140,7 @@ Authority for Regulation of Telecommunications and Posts	4803
 Authority of Regulation of Public Procurement	10870
 Authority's Regular	4251
 Autoridad Reguladora	1701
-Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016
+Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016,1028,31
 Autoridade Reguladora Nacional	2701,8817,1,1,11,11,10,3,14,14,473
 Autoridade Reguladora Nacional. ARTIGO	11520
 Autoridade Reguladora da Concorrência	11430
@@ -275,7 +275,7 @@ Competition Regulations No Change Freedom of Expression	11870
 Competition Regulatory Authority	7381,3398
 Competition and Consumer Protection Regulations	4583
 Competências da Autoridade Reguladora	4274
-Competências da Entidade Reguladora	576
+Competências da Entidade Reguladora	576,12198
 Complaints Handling Regulations	12301
 Compliance Laws and Regulations	11250
 Compliance Requirements Compliance Level Score Regulations	5665
@@ -406,6 +406,7 @@ Director of Regulated Services and Consumers	9923
 Director of Regulation and Affairs	10474
 Disabilities. Regulations	5883
 Domain Management and Regulation	4487
+Download TG Regulamento de Centro de Computacao	12808
 Draft Amendment Regulations	4732
 Draft Amendment Regulations. The Authority	4732
 Draft Capital Flow Management Regulations	9127
@@ -506,7 +507,7 @@ English and Portuguese. Legal and Regulatory Specialist	12008
 Enhance Cybersecurity Protection Regulations	12444
 Enhancing Regular and Safe Mobility Pathways	7048
 Enhancing Regulatory Frameworks	12399
-Entidade Reguladora	576,1861,1,378
+Entidade Reguladora	576,1861,1,378,9958
 Entidade Reguladora Independente da Saúde	8324
 Entidade Reguladora de Tecnologias de Informação	6970
 Entidades Reguladoras	11531
@@ -897,6 +898,7 @@ Moving the Regulatory Cursor for Digital Regulation	11531
 Mozambican Communications Regulatory Authority	6775
 Mozambique Communications Regulatory Authority	6771
 Mozambique Regulatory Authority of Communications	3489
+Moçambique A Autoridade Reguladora	12835
 Multi-year Performance- Based Regulation	12399
 Multiple Regulatory Framework	11956
 Multisector Regulatory Agency	11873
@@ -1003,6 +1005,7 @@ O Conselho de Administração da Autoridade Reguladora	2866
 O Regulamento C	11531
 O Regulamento Europeu de Inteligência Artificial	2816
 O Regulamento Interno	11365
+O Regulamento de Centros de Dados	12808
 OECD’s Regulatory Sandbox Toolkit	11007
 OPEN DATA AND REGULATION All	12419
 Objectivos de Regulação	11430
@@ -1114,11 +1117,12 @@ Proclamation and Regulation	12226
 Proclamation and Regulations	12146
 Procurement Applicable Procurement Regulations	11525
 Procurement Regulation Authority	969
-Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735
+Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735,134
 Procurement Regulations Page	10964
 Procurement Regulations for IPF	7951
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134
 Procurement Regulations. Annex	11855
+Procurement Regulations. Further	12834
 Procurement Regulations. The PIU	10829
 Procurement Regulations. Workload	10964
 Procurement Regulatory Authority	2889
@@ -1163,6 +1167,7 @@ Q1. Electricity Regulatory Commission	12062
 QUADRO LEGAL E REGULAMENTAR	2816
 QoS Regulations	9563
 Quadro Regulamentar	2816
+Quadro Regulamentar de TIC	12808
 Quality of Service Regulations	9110
 Quick Highlights Regulatory	2668
 RECOGNITION OF RIGHTS TO REGULATE Generic	1243
@@ -1268,20 +1273,20 @@ Registration of Telephone Subscribers Regulations	11993
 Regu-	11,8290
 Regufasies	11249
 RegulAIte Working Paper No	11135
-Regula	2819,207,4440,3899,5,91
+Regula	2819,207,4440,3899,5,91,1352
 Regula-	4848,2090
 Regulación	1701
 Regulador	15,1200,1601,4154,4426,1,18,15,1,100
 Regulador de Comunicações Electrónicas	11430
 Regulador de TIC	6970
 Reguladora Espanhola	11531
-Reguladores	2816
+Reguladores	2816,10014
 Reguladores de Telecomunicações	11531
 Regulamentar	2816,2847
 Regulamentar de Segurança Cibernética	7736
-Regulamentares	10755
+Regulamentares	10755,2036
 Regulamentares Relacionados	2816
-Regulamentação	14,1,2801,4154,4388,1,4,31,175,742
+Regulamentação	14,1,2801,4154,4388,1,4,31,175,742,512
 Regulamentação Continental	2816
 Regulamentação Específica	10754
 Regulamentação Multilateral Por	2816
@@ -1292,7 +1297,7 @@ Regulamentação da Inteligência Artificial da União Europeia	2816
 Regulamentação de Cartões de Pagamento	11403
 Regulamentações	2816
 Regulamentações de Danos Ambientais	11390
-Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27,226,103,120
+Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27,226,103,120,756,8,12,14,32,13
 Regulamento ANEXO II	794
 Regulamento C	11531
 Regulamento Constituição da República de GuinéBissau Lei	11542
@@ -1304,16 +1309,19 @@ Regulamento Geral da Lei da Terra	11527
 Regulamento Geral de Avaliação de Impacto Ambiental	11390
 Regulamento Geral de Protecção de Dados	2816
 Regulamento IA	2816
-Regulamento Interno	167,4051,7298
+Regulamento Interno	167,4051,7298,1267,6,34
 Regulamento Orgânico	11376
 Regulamento Relativo	11519
 Regulamento Sanitário Internacional	11376
 Regulamento Sanitário Internacional-2005	11376
 Regulamento Sanitário Internacional. Recomendações	11376
 Regulamento Sanitário Nacional	11376
+Regulamento Sobre Rácios	12853
 Regulamento Técnico	11405
 Regulamento Técnico de Entrega de Dados de Pesquisa	11405
 Regulamento da Actividade Inspectiva da Administração	11452
+Regulamento da Actividade de Prestação	12794
+Regulamento da Computação	12808
 Regulamento da Conta	11568
 Regulamento da Inteligência Artificial	2816
 Regulamento da Inteligência Artificial Europeu. Disponível	2816
@@ -1321,16 +1329,22 @@ Regulamento da Lei da Toponímia	11373
 Regulamento da Lei da Videovigilância	794
 Regulamento da Lei da Videovigilância. Conteúdo	794
 Regulamento da Lei de Bases	11396
+Regulamento da Segurança Social Arrancou	12812
+Regulamento da Segurança Social Obrigatória	12812
 Regulamento de Acesso	2816
 Regulamento de Aquisição	10769
 Regulamento de Aquisição. Mais	10769
+Regulamento de Cartões Bancários	12853
+Regulamento de Cartões Bancários Sem	12853
+Regulamento de Computação	12808
 Regulamento de Comércio Electrónico	2816
 Regulamento de Constituição	11426
-Regulamento de Construção	2816
+Regulamento de Construção	2816,9992
 Regulamento de Consultas Públicas	11390
 Regulamento de Contratação de Empreitada de Obras Públicas	4274
 Regulamento de Controlo	8745
 Regulamento de Controlo de Tráfego de Telecomunicações	4274,3969,415
+Regulamento de Controlo de Tráfego de Telecomunicações. Este	12854
 Regulamento de Dados Abertos	2816
 Regulamento de Desenvolvimento	2816
 Regulamento de Exploração	11520
@@ -1339,14 +1353,19 @@ Regulamento de Fiscalização da Qualidade	2816
 Regulamento de Funcionamento	11443
 Regulamento de Gestão	11443
 Regulamento de Implementação	11448
+Regulamento de Licenciamento	12794
+Regulamento de Licenciamento da Actividade Industrial	12842
 Regulamento de Licenciamento de Telecomunicacoes	11795
+Regulamento de Licenciamento de Telecomunicações	12842
+Regulamento de Normalização	12782
 Regulamento de Oferta de Redes	11520
 Regulamento de Padrões de Desenvolvimento de Sistemas	2816
 Regulamento de Procedimento de Consulta Pública	11520
-Regulamento de Registo	2816
+Regulamento de Registo	2816,9975
 Regulamento de Riscos	11898
 Regulamento de Segurança de Redes de Telecomunicações	795
 Regulamento de Tratamento de Reclamações	5169
+Regulamento. ARTIGO	12782
 Regulamento. Artigo	744
 Regulamento. BANCO DE MOÇAMBIQUE Aviso	5169
 Regulamento. CAPÍTULO II TAXAS EM ESPECIAL	744
@@ -1412,7 +1431,7 @@ Regulating Telecom Competition	12214
 Regulating Virtual Asset Business Rwanda Finance	6998
 Regulating the Activity of Foreign Exchange	11960
 Regulating the Skies	5241
-Regulation	3,4,4,11,6,548,142,44,27,172,48,149,85,340,167,27,30,78,15,88,11,97,211,32,262,18,90,598,5,303,36,71,137,2,108,157,88,518,381,168,201,51,26,59,59,10,178,7,157,23,335,10,79,1,35,91,288,15,31,1,143,117,80,194,66,10,59,214,34,232,24,6,319,97,184,52,71,94,133,42,18,272,233,16,19,92,96,132,326,27,165,260,10,44,3,34,194,79,6,19,1,1,28,14,15,17,18,2,300,20,92,195,34,65,30,7,2,5,41,6,47,52,15,3,21,16,13,12,67,1,1,1,6,31,34,9,8,5,10,7,4,5,29,15,83,34,99
+Regulation	3,4,4,11,6,548,142,44,27,172,48,149,85,340,167,27,30,78,15,88,11,97,211,32,262,18,90,598,5,303,36,71,137,2,108,157,88,518,381,168,201,51,26,59,59,10,178,7,157,23,335,10,79,1,35,91,288,15,31,1,143,117,80,194,66,10,59,214,34,232,24,6,319,97,184,52,71,94,133,42,18,272,233,16,19,92,96,132,326,27,165,260,10,44,3,34,194,79,6,19,1,1,28,14,15,17,18,2,300,20,92,195,34,65,30,7,2,5,41,6,47,52,15,3,21,16,13,12,67,1,1,1,6,31,34,9,8,5,10,7,4,5,29,15,83,34,99,104
 Regulation Authority of Mail and Electronic Communications	3764
 Regulation C	7
 Regulation Federal	11857
@@ -1433,6 +1452,7 @@ Regulation No.156	11529
 Regulation Pillar	12214
 Regulation Require	6231
 Regulation Roline Tjipueja	12466
+Regulation The Council of Ministers	12771
 Regulation The Department	11230
 Regulation and Article	576
 Regulation and Cybersecurity	2001
@@ -1469,7 +1489,7 @@ Regulation. Specify	1777
 Regulation. Such	7821
 Regulation.12 Pillar	4126
 Regulation29	10765
-Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27
+Regulations	3,8,11,551,14,131,18,47,15,174,24,24,141,62,40,70,46,22,229,120,27,30,3,4,30,3,30,23,9,79,319,40,16,96,167,48,3,32,18,91,95,45,29,9,134,31,65,62,19,231,176,79,68,26,82,614,27,43,46,33,112,107,162,3,353,18,46,26,3,41,62,15,7,46,132,430,137,42,38,96,13,11,103,57,4,37,67,23,23,3,2,418,22,78,3,66,10,12,40,7,93,11,49,3,58,11,2,11,5,5,172,153,35,86,164,122,29,47,7,33,91,46,1,75,6,12,47,270,274,193,20,41,190,3,15,43,13,21,66,38,145,408,55,80,5,115,30,15,29,65,62,2,2,1,2,1,4,1,11,12,20,2,14,6,4,18,2,71,234,78,189,23,7,1,23,72,9,7,1,53,15,32,6,49,15,6,15,41,6,1,20,3,37,1,3,4,1,44,19,9,2,13,6,15,5,29,15,25,5,1,36,4,5,2,5,4,3,9,4,13,1,21,1,26,5,1,9,4,4,4,10,8,5,48,15,1,27,95
 Regulations Act	12523,5
 Regulations Amendment	5687
 Regulations An Act	3887,8637,8
@@ -1728,8 +1748,9 @@ Regulatory and Policy Framework Zimbabwe's AI	12512
 Regulatory and Policy Framework Zimbabwe’s AI	4528
 Regulatory and Standards	395
 Regulatórias Guiné-Bissau	11569
+Regulatório	12841
 Regulatório Favorável. Apoiar	11898,123
-Regulação	2295,521,1330,2404,1937,2883,60,101
+Regulação	2295,521,1330,2404,1937,2883,60,101,1246
 Regulação Digital	11448,83
 Regulação Externa	10366
 Regulação da Inteligência Artificial	2816
@@ -1783,7 +1804,10 @@ Sacco Societies Regulatory Authority	6938
 Sacco Societies Regulatory Authority SBR Statistical	2775
 Safety DRC Energy and Petroleum Regulatory Authority	12256
 Safety Regulations	12389
+Sandbox Regulatório de Inteligência Artificial	12830,16
+Sandbox Regulatório de Saúde Digital	12846
 Sandboxes Regulatórios	2816
+Sandboxes Regulatórios de Inteligência Artificial	12830
 Satellite Internet Expansion Faces Regulatory Pushback	3217
 Satellite Operator Regulatory Framework	1259
 Scope of Digital Pharmacy Regulation	9855

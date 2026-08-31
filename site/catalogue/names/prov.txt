@@ -115,6 +115,7 @@ CSA Cybersecurity Service Provider	4791
 CSD NUMBER MUST BE PROVIDED	11240
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
 CSPs Content Services Providers CT-OVC Cash	2775
+Cabo Delgado Province	12811
 Cabo Delgado Province. Summit	12640
 Caching Provider	26
 Capitales Provinciales	4209
@@ -275,6 +276,7 @@ Digital Identity and Security Overview Providing Digital	12359
 Direction Provinciale	10847
 Directive for Digital Credit Service Providers	8732
 Directive for Digital Credit Services Providers	7464
+Direcções Provinciais	12775
 Direcções Provinciais de Saúde	11401
 Direitos Delegação Provincial de Luanda	10753
 District and Province	12338
@@ -385,6 +387,7 @@ Ensino Secundário de Formação de Professores Província	10766
 Environmental Sustainability and Quality of Water Provision	12389
 Environmental Sustainability of Electricity Provision	12389
 Establish Provincial Government Cache Data Centre	12453
+Estado da Província. ARTIGO	12783
 Eswatini MMSP Mobile Money Service Provider	12444
 Eswatini National Provident Fund	11626
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
@@ -470,8 +473,10 @@ Gauteng Province HDI	11252
 Gauteng Provincial Department of Health	12025
 Gauteng Provincial Government	5597
 Gaza Frelimo Maputo Province Frelimo Name	12201
+Gaza Province. Mobile	12806
 General Policy Requirements for Trust Service Providers	10819
 General Provisions	12523,9,98
+General Provisions ARTICLE	12771
 General Provisions Insert	3714
 General and Provincial Assembly	12201
 General and Provincial Assembly Election	12201
@@ -738,7 +743,7 @@ NITDA Indigenous IT Service Providers	5665
 NITDA Indigenous IT Service Providers and Contractors	5665
 NW Ngaka Modiri Molema Mafikeng Provincial	11986
 Named the Provincial Disaster Management Application System	7574
-Nampula Province	12220
+Nampula Province	12220,598
 Nampula's Provincial Police Command	12147
 National Council of Provinces	11285,4
 National Council of Provinces Honourable Chairperson	11215
@@ -936,7 +941,7 @@ Provedor	9040
 Provedor Intermediário de Serviço	6970
 Provedor Intermediário de Serviços Electrónicos	6970
 Provedor Intermediário de Serviços Electrónicos Artigo	6970
-Provedor de Justiça	14,1324,742,6163,415,87,219,1818
+Provedor de Justiça	14,1324,742,6163,415,87,219,1818,2072
 Provedor de Justiça. Estas	10782
 Provedor de Segurança Cibernética	6970
 Provedor de Serviço	6970
@@ -956,7 +961,7 @@ Provedores de Serviços de Internet Rede Tecnológica Privada	6970
 Provedores de Serviços de Segurança Cibernética	6970
 Provedoria de Justiça. Resolução	11365
 Proveedores	1701
-Proven	962,415,2301,755,143,5533,876,267,689,67,392,354
+Proven	962,415,2301,755,143,5533,876,267,689,67,392,354,80
 Proven Playbook For Quitting	4554
 Proven Precedents for Shared Infrastructure Nigeria	11138
 Proven SaaS	6432
@@ -1002,7 +1007,7 @@ Provided	1,2,19,373,341,236,251,2381,110,32,126,35,989,791,1234,1244,1574,1045,3
 Provided Feedback	9772
 Provided the Authority	972
 Providencia	11371
-Providenciar	11370
+Providenciar	11370,1404
 Provider	26,692,18,1360,679,611,476,748,4513,1595,101,42,1425,330
 Provider Certification	7548
 Provider Class A US	736
@@ -1073,12 +1078,12 @@ Provinces Présents Admis Taux	10847
 Provinces and Districts	11343
 Provinces and Prefectures of Arrondissements. Stated	557
 Provinces and Spending Agencies	12360
-Provinces of Maputo	12201
+Provinces of Maputo	12201,642
 Provincia	1701,9050
 Provincia Agregado Militar A1 Agregado Militar	4209
 Provincia da Huíla	539
 Provinciais	10783,638,25,131
-Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48,102,365,2,68,39,176,132,5,71,51
+Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48,102,365,2,68,39,176,132,5,71,51,336
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
 Provincial Affairs and Devolution Minister Judith Ncube	9397
@@ -1090,6 +1095,7 @@ Provincial Coordinator	11986
 Provincial Delegations of Justice	10765,10
 Provincial Delegations of Justice and Human Rights	10765,10
 Provincial Director of GUCE	12031
+Provincial Director of Justice and Labor	12839
 Provincial Directorate	10780
 Provincial Directorates and National Hospitals	10780
 Provincial EMR	11252
@@ -1104,7 +1110,7 @@ Provincial Executive	7738
 Provincial Gazette	11551
 Provincial Government of Huíla	10748
 Provincial Governor Responsible	11916
-Provincial Governors	12201
+Provincial Governors	12201,570
 Provincial Governors. Candidates	12201
 Provincial Growths Development Plans	11289
 Provincial Head	11285
@@ -1147,6 +1153,7 @@ Provincial Regulatory Entity	11494,57
 Provincial Secretaries	7814
 Provincial Secretario Consejo Superior	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
+Provincial Statistics Delegation	12839
 Provincial Tabulation EU	12201
 Provincial Technical Committee	11916
 Provincial Tender Board	2307
@@ -1196,7 +1203,7 @@ Provision of TLM for ECE	12175
 Provision of Uninterrupted Services	12616
 Provision of Upgrades and Maintenance of CA	6946
 Provision. Geneva	10718
-Provisional	2775,92,847,1104,2128,5249,102,186,112
+Provisional	2775,92,847,1104,2128,5249,102,186,112,176
 Provisional CNE	12201
 Provisional Certification Pathway	11995
 Provisional Constitution	12492
@@ -1219,6 +1226,7 @@ Provisions for Information Submission System for Patents	12389
 Provisions for Public AI	7548
 Provisions for Unaffiliated Security Holders	7198
 Provisión	1701,2508
+Provisão de Serviços Inclusivos	12797
 Provisórias	10766
 Provisórias Improvisadas Angola	10766
 Provocar	11430
@@ -1257,7 +1265,7 @@ Província da Lunda Norte	11460
 Província da Lunda-Norte	539
 Província de Cabinda	11427
 Província de Luanda	11394,52,3,128
-Províncias	10757,15,593,8,5,31
+Províncias	10757,15,593,8,5,31,1375
 Províncias da Região Centro-Norte	11406
 Províncias da Região Leste	11406
 Províncias da Região Norte	11406
@@ -1558,7 +1566,7 @@ Zambezia Province	1228,10952
 Zambia Lusaka Province	12431
 Zambia’s North-Western Province	7130
 Zambia’s Southern Province	11171
-Zambézia Province	12266
+Zambézia Province	12266,552
 Zhejiang Province	11318
 Zimbabwe Province Code System	6666
 Zimbabwe Province Value Set	6666

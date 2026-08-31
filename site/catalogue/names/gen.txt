@@ -413,6 +413,7 @@ DEPARTMENT OF GENDER	7167
 DES DISPOSITIONS GENERALES CHAPITRE	785
 DES DISPOSITIONS GENERALES Section	113
 DES DISPOSITIONS GENERALES4 Section	1801
+DEVELOPMENT Geneva	12786
 DFF Direct Facility Financing DGMP General	10829
 DG INTPA Directorate General for International Partnerships	970
 DGCP Public Tenders General Directorate	11549
@@ -951,8 +952,9 @@ GENERATION OF VITAL STATISTICS	12413
 GENERATION SCENARIOS AND OPTIONS	11366
 GENERIC SYSTEM DESCRIPTION Global	2913
 GENERO	4209
-GENEVA	3584,9176
+GENEVA	3584,9176,46
 GENIE	2783,8746
+GENIE AI	12846
 GENIUS	5159
 GENIUS Act	5159,4550
 GENIUS Act Establishes First Federal Stablecoin	10351
@@ -1023,7 +1025,7 @@ Gendarmerie Education	6959
 Gendarmerie Nationale	3604,816
 Gendarmería	4209,7424
 Gendarmería Nacional	11633
-Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91
+Gender	322,249,218,151,21,9,291,23,583,10,63,48,181,122,445,143,577,31,75,42,187,70,578,89,355,89,242,32,239,28,20,18,988,113,96,198,716,207,17,265,453,100,332,167,58,280,75,156,437,505,51,3,7,54,15,26,93,1,12,1,27,129,9,38,13,2,23,199,108,32,193,107,4,2,11,5,2,1,20,3,11,2,6,40,1,6,15,64,40,56,53,11,4,6,33,28,16,31,18,53,4,6,17,49,37,39,91,190
 Gender Access	11857
 Gender Action Plan	11863
 Gender Advancement	1264
@@ -1135,7 +1137,7 @@ Gender and Social Services	7167
 Gender and Social Welfare	3583
 Gender-	10964
 Gender- High Lack	11916
-Gender-Based Violence	1228,5721,2,4279,187
+Gender-Based Violence	1228,5721,2,4279,187,1359
 Gender-Based Violence GPEI	10776
 Gender-Based Violence Gross Domestic Product Government	1228
 Gender-Based Violence TA Systematic Tracking of Exchanges	11905
@@ -1174,8 +1176,8 @@ Gendering AI	9261
 Gene Roi de Bata	4209
 GeneXpert	3385,964,8153,176
 Genealogicalstudieslikewisematchhistoricalre-	8606
-Genebra	10551,199,30,596,17
-General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6
+Genebra	10551,199,30,596,17,1437
+General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6,90,8
 General Abdirahman Mohamed Turyare	10701
 General Abdourahamane Tiani	5580,306
 General Adj. B1 Cónsul General Adj	4209
@@ -1303,7 +1305,7 @@ General Election	1210,2548,902,27,2095,1051,36,53,2094,2,24,296,777,998,194,3,16
 General Election Political Parties	7869
 General Election. The Bill	8791
 General Election. The Electronic	12465
-General Elections	4378,283,2381,1818,352,165,384,225,31,45,1140,999,271
+General Elections	4378,283,2381,1818,352,165,384,225,31,45,1140,999,271,373
 General Elections. On Electoral Processes	7452
 General Elections. Public Accounts Committee	5343
 General Elections. ZCSA	10706
@@ -1430,6 +1432,7 @@ General Professional Experience	962
 General Programme of Work	10776
 General Programme of Work HPV Human Papillomavirus	12729
 General Provisions	12523,9,98
+General Provisions ARTICLE	12771
 General Provisions Insert	3714
 General Public	236,539,3986,2884,4221,809
 General Public Neighbouring Entities Public	11131
@@ -1987,7 +1990,7 @@ Minister of Labour and Home Affairs Major General	8165
 Minister of Youth and Gender Affairs	7672,4935,28
 Minister of Youth and Gender Affairs Hon. Lesego	12626
 Ministro Secretario General	11743
-Ministry of Gender	1371,1177,1035,753,908,1408,43,4127,1353,6,1,71,75,346,18,5,2,30
+Ministry of Gender	1371,1177,1035,753,908,1408,43,4127,1353,6,1,71,75,346,18,5,2,30,52
 Ministry of Gender Equality	12337,36,75
 Ministry of Gender Equality and Child Welfare	1188,11139,148
 Ministry of Gender Labor and Social Development	3005
@@ -2201,6 +2204,7 @@ Prime Minister Major General Abdoulaye Maïga	9343
 Prime Minister's Director General	6938
 Primer Ministro Tercero Fiscal General República	4209
 Principal Gender Officer	11863
+Principle of Gender Equity and Equality	12779
 Privacy Notice Generator	7409
 Private Sector Generation Initiatives	11228
 Processing of Personal Data Generality	27

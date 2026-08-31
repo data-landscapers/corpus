@@ -377,6 +377,7 @@ BlueSalt Financial Services. Mark	3213
 Bn. Fixed Service and IoT Revenue	6100
 Bn. Service	6100
 Board State Service	11976
+Body Consulting Services For The Implementation	12834
 Body Revenue Services Lesotho Launches Integrated	12711
 Body SERVICOM's National Coordinator	11951
 Body The Revenue Service Lesotho	12670
@@ -496,7 +497,7 @@ CONCEPTO NOTARIADO SERVICIOS CIVIL PROPIEDAD MALABO	4209
 CONCLUSION These Public Service ICT Data	12360
 CONSULAR OUTSOURCING SERVICES KENYA LIMITED Data	7167
 CONSULTANCY SERVICES FOR THE DEVELOPMENT	11750
-CONSULTING SERVICES	9603,1,2146
+CONSULTING SERVICES	9603,1,2146,1084
 CONSULTING SERVICES-FIRMS SELECTION	8669
 COOPERACIÓN INTERNACIONAL Y DIASPORA Servicio	4209
 CORPORATE AND PENSION TRUST SERVICES LIMITED	7167
@@ -531,6 +532,7 @@ Calidad Integral de Servicio	9543
 Call Center Service License	762
 Camarade Ministre des Serviteurs du Peuple	7800
 Cameroon Postal Services	1946,9037
+Canais de Disponibilização de Serviços	12774
 Capacity Building Cloud Services Directives Introduction	9123
 Capacity Building Services	11252
 Capacity Development and Employment Services Board	12329
@@ -757,6 +759,7 @@ Consultancy Services	9604
 Consulting Service Type	8726
 Consulting Services	210,9393,1,1921,338,42
 Consulting Services Consultants	11855
+Consulting Services For The Implementation of National	12834
 Consulting Services and Specific Tasks	3678
 Consumer Goods and Services	9815
 Consumer-Centred Service Delivery	5676
@@ -960,7 +963,7 @@ Denial of Service DNS Domain Name System	6946
 Denial of Service ECOWAS Economic Community of West	1777
 Departamento de Metrologia. Serviços de Apoio Agrupados	11381
 Departamento de Serviço Público	11461
-Departamento de Serviços Bancários	5169,1293
+Departamento de Serviços Bancários	5169,1293,6352
 Department Services Management Coordination	6946
 Department for Immigration and Citizen Service	12151
 Department for Refugee Services	12227
@@ -1514,7 +1517,7 @@ Financial Services Wildlife and Forest Conversation Key	4126
 Financial Services and Digitilisation	12598
 Financial Services and Economic Inclusion Transformation	4528,7984
 Financial Services and Insurance	1940,5795
-Financial Services and Insurance Mozambique	7734,269,67
+Financial Services and Insurance Mozambique	7734,269,67,4779
 Financial Services. Crosswalk	1128
 Financial Stability Board UNESWA Universal Service	12444
 Financial and Administration Services Division	11188
@@ -1648,6 +1651,7 @@ Government Cloud Services	6432
 Government Cloud Services Contractual	6432
 Government Cloud Services Provider	6432
 Government Cloud and Enterprise Service	359
+Government Communication Service	12825
 Government Digital Service Team	583,1512,9913
 Government Digital Service. Service Manual	11216
 Government Digital Service. Service Manual. Available	11216
@@ -2536,6 +2540,7 @@ Number of Short Messages Services SMS	2776
 Number of Spectrum Licenses Issued Service Class	12395
 Nursing and Midwifery Services	12606
 Nutrition and Medical Services	723
+NÍVEL DE COBERTURA DOS SERVIÇOS	12784
 Níveis de Serviço	10777
 O Fundo de Serviço de Acesso Universal	2866
 O Operador de Serviço Essencial	6970
@@ -2912,9 +2917,11 @@ Provision of Medical Services	3405
 Provision of Services	11955,661
 Provision of Services and Sales	11955
 Provision of Uninterrupted Services	12616
+Provisão de Serviços Inclusivos	12797
 Préparation Service Identifier	10876
 Préparation de Service	10876
 Psychosocial Support Services	11241
+Public Cadastre Services	12771
 Public Cloud Services	10157
 Public Data Service	958,2428
 Public Data Service Internet	3386
@@ -3667,7 +3674,7 @@ ServiceNow	4434
 ServiceNow Government	6432
 ServicePublic	3604
 ServicedeliveryZA Issued	11278,3
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132
 Services Act	7845,3706
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
@@ -3782,7 +3789,7 @@ Services&author	2096
 Services. American University International Law Review	1243
 Services. Enrolment	12359
 Services. Gazette	11235
-Services. Interested Consultants	9603,1
+Services. Interested Consultants	9603,1,3230
 Services. LA TRANSPARENCE POUR UN SECTEUR	10975
 Services. Mahindra	12617
 Services. NTT Global. Retrieved	6832
@@ -3819,6 +3826,7 @@ Servicos Provinciais de Geografia	427
 Servicos. Layout	1526
 Servicos. Traducao	1526
 Servidões	15
+Servimo-nos	12802
 Serving	2888,32,354,504,59,691,694,877,6,100,41,639,129,293,115,1701,1034,1199,508,461,33,154
 Serving Copy	12302
 Serving Households NSE Nairobi Securities Exchange	2775
@@ -3848,12 +3856,13 @@ Serviço Nacional de Contratação	2365
 Serviço Nacional de Contratação Pública. Meick Afonso	6309
 Serviço Nacional de Investigação Criminal	6970
 Serviço Nacional de Migração	2816,5396
-Serviço Nacional de Saúde	10775
+Serviço Nacional de Saúde	10775,2025
 Serviço Nacional de Saúde de Portugal	10780
 Serviço Nacional de Saúde. Serão	1265
 Serviço O Suborno	10751
 Serviço Personalizado	11381
 Serviço Postal	11386
+Serviço Postal Decreto	12794
 Serviço Postal Universal	10755
 Serviço Protegido	11430
 Serviço Provincial	4979,171,5607,20
@@ -3885,9 +3894,10 @@ Serviço de Dados	11556
 Serviço de Dados Administrativos	11423
 Serviço de Detecção	11386
 Serviço de Educação	12148
+Serviço de Estatísticas Vitais	12831
 Serviço de Genética Médica	10188
 Serviço de Identificação	6741
-Serviço de Informação	11386
+Serviço de Informação	11386,1437
 Serviço de Informações	4147
 Serviço de Iniciação	11386
 Serviço de Inteligência	4147,1064,4779,2129
@@ -3897,6 +3907,7 @@ Serviço de Investigação Criminal	539,3607,1,1125
 Serviço de Meteorologia Nacional Francês	11372
 Serviço de Migração	5392,427,4171,1445,684
 Serviço de Migração Estrangeiros	3899
+Serviço de Pagamentos	12796
 Serviço de Protecção Civil	10763,613,69,13
 Serviço de Proteção	11566
 Serviço de Relações Externas	11423
@@ -3904,7 +3915,7 @@ Serviço de Reparação de Queixas	11390
 Serviço de Tecnologias de Informação	5319
 Serviço de Telecomunicações	2866,8652
 Serviço de Voz	11556
-Serviços	15,152,2270,379,1259,143,56,1188,1106,284,118,1190,1243,1211,133,4,1,17,3,11,577,11,1,5,4,1,4,7,1,2,10,9,13,2,1,6,5,7,12,58,12,9,2,13,1,5,8,13,49,387,3
+Serviços	15,152,2270,379,1259,143,56,1188,1106,284,118,1190,1243,1211,133,4,1,17,3,11,577,11,1,5,4,1,4,7,1,2,10,9,13,2,1,6,5,7,12,58,12,9,2,13,1,5,8,13,49,387,3,755,1,6
 Serviços Baseados	2816
 Serviços Cadastrais	11514
 Serviços Centrais	2688,1530,7224
@@ -3926,6 +3937,7 @@ Serviços Fiscais Regional ECM	11435
 Serviços Foram	9040
 Serviços Funerários	12018
 Serviços Gerais	4218,7163,1,67
+Serviços Inclusivos	12797
 Serviços Informação	11519
 Serviços Integrados de Atendimento	6060,4705,10
 Serviços Locais	167,4051,6533,631,67
@@ -3979,9 +3991,10 @@ Serviços de Dados	2866
 Serviços de Electricidade	11380
 Serviços de Ensino	12018
 Serviços de Estatística	11561
+Serviços de Governo Electrónico	12774
 Serviços de Identificação	10772
-Serviços de Identificação Civil	2953,7819
-Serviços de Informação	11386,134
+Serviços de Identificação Civil	2953,7819,2012
+Serviços de Informação	11386,134,1341
 Serviços de Iniciação	11386
 Serviços de Integração	12021
 Serviços de Inteligência	794
@@ -3995,8 +4008,10 @@ Serviços de Migração	5819
 Serviços de Pagamento	10755,631
 Serviços de Polícia	11371
 Serviços de Polícia Unitários	11683
+Serviços de Registo Central	12775
 Serviços de Registo Civil	10751,786
 Serviços de Registos	10765,7,3
+Serviços de Registro	12862
 Serviços de Saneamento	11406
 Serviços de Saúde	11390,197,431
 Serviços de Segurança	3519,7871
@@ -4255,6 +4270,7 @@ Telko Managed Services Limited	3862
 Telkom Kenya and AAR Health Services	11777
 Telkom SOC Ltd’s Universal Service and Access	11259
 Temba Gubula Parliamentary Communication Services	9883
+Terminais E Novos Serviços Terão	12841
 Terms of Reference for Consultancy Services	2112
 Terms of Service	1815,3298,1884,1779
 Terms of Service. Users Personal Data	5113

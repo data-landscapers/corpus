@@ -40,6 +40,7 @@ BURKINA FASO IVE REPUBLIQUE	113,672,1016,9024
 BURKINA FASO REPUBLIQUE DU MALI REPUBLIQUE	1967
 BYTHE PRESIDENT OF THE REPUBLIC	11217
 Background The Republic of Cabo Verde	11869
+Background The Republic of Mozambique	12834
 Background and Context The Republic of Cabo Verde	12008
 Basic Education REPUBLIC OF SOUTH AFRICA	11180
 Benchmarking SMEs Banking Activity1 In the Republic	1828
@@ -51,6 +52,7 @@ Body Federal Republic of Nigeria Official Gazette	11851
 Body REPUBLIC OF BOTSWANA COMMITTEE	12612
 Body REPUBLIC OF BOTSWANA Ministry of Health	12606
 Body REPUBLIC OF BOTSWANA THE COMMITTEE	12580
+Body REPUBLIC OF MOZAMBIQUE	12779
 Body Republic of Botswana	12588
 Body Republic of Botswana Committee of Supply Speech	12598
 Bolivarian Republic	11765
@@ -370,6 +372,7 @@ Implementing Agency The Federal Republic of Federal	3456
 Independence Day and Republic Day	7845
 Indian Ocean. TCLE Democratic Republic of Congo	11916
 Industry and Competition Republic of South Africa Date	11250
+Infrastructure For The Republic of Mozambique	12834
 International Monetary Fund. Not for Redistribution REPUBLIC	1828
 International Republican Institute	12201
 Introduction Introduction The Republic of Guinea-Bissau	11553
@@ -468,6 +471,7 @@ PRESIDENCE DE LA REPUBLIQUE CHAPITRE PREMIER	232
 PRESIDENCE DE LA REPUSLIQUE Interconnection	10974
 PRESIDENCE DELA REPU PRESIDENCY	10974
 PRESIDENT OF THE FEDERAL DEMOCRATIC REPUBLIC	12146
+PRESIDENT OF THE REPUBLIC	12771
 PROGRAMME AUDIT REPORT Republic of Angola	11401
 Pakistan Republic of Korea Singapore Thailand Viet	10764
 Palestine Sudan Suriname Syrian Arab Republic	10764
@@ -495,7 +499,7 @@ Public Disclosure Authorized REPUBLIC OF ANGOLA	11417
 Public Disclosure Authorized REPUBLIC OF ZAMBIA	1988
 RAP Resettlement Action Plan RCV Republic	11863
 REGISTRATION NUMBER REPUBLIC OF ZAMBIA SIGNATURE	12410
-REPUBLIC	11900
+REPUBLIC	11900,871
 REPUBLIC OF ANGOLA	1914
 REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
 REPUBLIC OF BURUNDI	1284
@@ -525,9 +529,10 @@ REPUBLIC OF KENYA THE NATIONAL TREASURY	5793
 REPUBLIC OF KENYA THIRTEENTH PARLIAMENT NATIONAL	10313
 REPUBLIC OF KENYA The National Registration	12165
 REPUBLIC OF MALAWI	12176
-REPUBLIC OF MOZAMBIQUE	989,7,1478
+REPUBLIC OF MOZAMBIQUE	989,7,1478,10306,1
 REPUBLIC OF MOZAMBIQUE Claimant	1829
 REPUBLIC OF MOZAMBIQUE DIGITAL DEVELOPMENT	1228
+REPUBLIC OF MOZAMBIQUE MINISTRY OF COMMUNICATIONS	12834
 REPUBLIC OF NAMIBIA BANK OF NAMIBIA	12365,9
 REPUBLIC OF NIGERIA FY26	11468
 REPUBLIC OF Nigeria PREAMBLE The United	4302
@@ -593,7 +598,7 @@ Readiness Analysis DRC Democratic Republic of Congo	11545
 References Republic of South Africa. Department of Home	6512
 Refugee Profiles The Central African Republic	10841
 Repubblica	8774
-Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31,132,216
+Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31,132,216,191,8,66
 Republic Angola	10775
 Republic CC	12201
 Republic Day Youth Exchange	12617
@@ -753,9 +758,13 @@ Republic of Mauritius Watch	11332
 Republic of Mauritius. Constitution	8866
 Republic of Moldova	6613,4233,1048
 Republic of Mozambican	12294
-Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346
+Republic of Mozambique	772,16,208,833,645,584,803,399,1529,954,1503,508,1962,573,128,744,40,18,1,74,346,131,8,1,23,40
+Republic of Mozambique Implementing Agencies	12832
+Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique's Attorney General	12161
+Republic of Mozambique. ARTICLE	12771
 Republic of Mozambique. Anonymization	3861
+Republic of Mozambique. Assistance	12779
 Republic of Mozambique. Privacy	3861
 Republic of Mozambique. RECOGNISING	3861
 Republic of Mozambique. Responsible Agency	12220
@@ -907,6 +916,7 @@ Second Additional Financing Republic of Congo LISUNGI	11924
 Second Republic	3247
 Senegal and Dominican Republic	10991
 Sep-2021 TO Republic of Mozambique Institutions Global	2473
+Signature Infrastructure For The Republic of Mozambique	12834
 Skills Among Central African Republic Refugee	10841
 Slovak Republic	10714,71
 Slovak Republic REGOB	10714

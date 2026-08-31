@@ -120,6 +120,7 @@ CSD Name User ID Certificate Issuance	12364
 CSP Information Item Details Name of Entity	6432
 CV-IXP Internet Exchange Point Details Name	11878
 Cabinda Luanda Namibe Bengo Zaire Moxico	10775
+Cabo Delgado and Nampula	12779
 Candidate Name Number of Votes Percentage	12201
 Capacity Base Station Name	736
 Capacity Project ID Project Name Additional	1284
@@ -1133,15 +1134,17 @@ Nampevo Construção	9432
 Nampost and Letshego Bank Namibia	8252
 Nampower	1944
 Nampower AFS	1944
-Nampula	1526,282,1008,967,3896,431,1449,992,1597,53,19
+Nampula	1526,282,1008,967,3896,431,1449,992,1597,53,19,592,6,17,4,4
+Nampula Civil Registry Office	12839
 Nampula Frelimo	12201
 Nampula MDM	12201
-Nampula Province	12220
+Nampula Province	12220,598
 Nampula and Maputo	12201
 Nampula and Nacala	12140,61
 Nampula and Niassa	12201
 Nampula and Zamb	12201
 Nampula and Zambezia	12180,21
+Nampula and Zambézia	12843
 Nampula's Provincial Police Command	12147
 Nampula. Campaign Finance Registered	12201
 Nampula. Election	12201

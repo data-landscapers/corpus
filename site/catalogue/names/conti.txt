@@ -238,7 +238,7 @@ Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
 Contingent Emergency Response	1284,3369,2275,4489,554,204
-Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -248,6 +248,7 @@ Contingent Emergency Response Component Indicator Name	4653
 Contingent Emergency Response Component Proposed Cost	1228,3425
 Contingent Emergency Response Component TOTAL Current	1228,3425
 Contingent Emergency Response Component TOTAL Original	4653
+Contingent Emergency Response Component. COSTS	12832
 Contingent Liabilities and Contingent Assets	1154
 Contingent Liabilities and Contingent Assets. Termination	1154
 Contingência de Resposta	11413
@@ -257,6 +258,7 @@ Continu Information	10876
 Continua	8606,2151,9,11
 Continua... Características	10777
 Continua... Indicadores	10777
+Continuadores	12842
 Continually	12208
 Continuar	1701,9355
 Continuaremos	2618
@@ -264,7 +266,7 @@ Continuation	3714,7467,1354
 Continuation of Appeals Tribunal	12549
 Continuation of Existing Essential Contracts	12389
 Continuation of Information and Data Protection Commission	12549
-Continuação	6425,36
+Continuação	6425,36,6316
 Continuação Características	10777
 Continuação Luanda	10757
 Continuação Taxas	10777

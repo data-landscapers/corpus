@@ -59,9 +59,10 @@ Consent Decrees and Settlement Authority	3861
 Cookie Settings	3907,2274
 Cookie Settings Accept All CookiesManage	3907
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
+Councils and Settlement Councils	12771
 Covid-19 SETIC	9799
 C’ River Set	8520
-DE SETEMBRO	11520
+DE SETEMBRO	11520,1272
 DG Set	12253
 DG Sets	12253
 DGTIC SETIC BRB SETIC	1284
@@ -276,6 +277,7 @@ Real-Time Gross Settlement System	8492,3218
 Real-Time Gross Settlement System of Morocco	6938
 Refugee Settlements	1988
 Refugees and Host Community of Meheba Refugee Settlement	1778
+Regional Clearing and Settlement Operator	12836
 Regional Payment and Settlement System	6938,5348
 Regional Stock Exchange Settlement Bank	10853
 Rehabilitation of SETIC	1284
@@ -290,7 +292,7 @@ SA Software Sector Set	11929
 SADC Real-Time Gross Settlement	12432,252
 SADC Real-Time Gross Settlement System	10169
 SADC Regional and Settlement System Operator	5263
-SADC-RTGS Settlement Statistics and Indicators	12252
+SADC-RTGS Settlement Statistics and Indicators	12252,584
 SCRYPT Expands Stablecoin Settlement Network Across	7378
 SET OUT IN PART	11240
 SETA Media Information and Communication Technologies Sector	11196
@@ -340,7 +342,7 @@ Set-up Institutional Governance Framework for Cybersecurity	1000
 Set-up Provincial	12453
 Set. Artículo	163
 Setect	3972
-Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5,495,10,33,70
+Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5,495,10,33,70,598,3,1,1,19
 Setembro FC Tengueth	11587
 Setembro Havendo	576
 Setembro. Artigo	6462

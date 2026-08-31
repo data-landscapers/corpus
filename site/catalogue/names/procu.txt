@@ -169,6 +169,7 @@ Non-Competitive Procurement	9650
 Notify Firms of Procurement Decisions and Legal Framework	12389
 Nova Lei Procura Acompanhar Um Sistema	8003
 Number of Registered and Reporting Procuring Entities	2775
+O Procurador-Geral da República	12798
 Ombudsman Procurement Committee. Consultants	12693
 Open and Competitive Procurement	12389
 Operations Procurement Review Committee	11905
@@ -215,20 +216,21 @@ Prior Review Procurement Methods Thresholds	11855
 Private Partnership PPSD Project Procurement Strategy	1264
 Private Procurement	1818
 ProGrant. B. Procurement Procurement	11863
-Procura	10760,17,589,47
+Procura	10760,17,589,47,1365
 Procura de Ajuda Entre	10777
 Procura de Cuidados	10777
 Procura de PF	10760
 Procura de Planeamento Familiar	10777
 Procura-se	11569
 Procurador Geral da República	10750
+Procurador-Geral da República	12798
 Procurador-Geral da República de Angola	4147
 Procuradora Natacha	10751
 Procuradora Natacha Andrade	10751
 Procuradora-Geral Adjunta de Humanos	10750
 Procuradoria Geral da República	5211,1759,3782
 Procuradoria Geral da República. A Polícia Nacional	10751
-Procuradoria-Geral da República	4146,1126,1547,3933,700,88
+Procuradoria-Geral da República	4146,1126,1547,3933,700,88,1258
 Procurar Aconselhamento	10777
 Procurar Ajuda	10777
 Procure	1264,724,8476,669,167,686,267,69
@@ -240,7 +242,7 @@ Procure IPP	12399
 Procure. Lipa Later Lipa Later	10464
 Procured	1988,7411,1151,306,14
 Procuremen	6432
-Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54
+Procurement	352,618,191,67,36,20,6,264,264,49,121,81,630,168,22,100,62,21,319,213,257,265,134,303,90,594,376,809,66,41,64,343,2,112,162,44,282,100,273,30,498,62,117,95,110,301,175,90,204,1,1117,47,17,44,10,47,78,11,154,5,64,13,7,6,24,2,12,139,16,108,225,105,8,4,38,19,11,30,21,5,4,181,19,6,144,13,63,27,54,341
 Procurement A1-Local AI	7548
 Procurement AI	4126
 Procurement Action Plan	11905
@@ -296,11 +298,12 @@ Procurement Process	9274,2721,394
 Procurement Programme	11248
 Procurement Programme SAGC South African Grid	11228
 Procurement Regulation Authority	969
-Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735
+Procurement Regulations	1264,603,1022,715,2299,2048,1652,1,1164,61,1026,50,60,735,134
 Procurement Regulations Page	10964
 Procurement Regulations for IPF	7951
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330,845,134
 Procurement Regulations. Annex	11855
+Procurement Regulations. Further	12834
 Procurement Regulations. The PIU	10829
 Procurement Regulations. Workload	10964
 Procurement Regulatory Authority	2889

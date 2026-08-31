@@ -95,7 +95,7 @@ Assefa S	3791
 Assefa&author	1219
 Assegura	10755
 Asseguramento	13
-Assegurar	167,372,2540,1068,71,2244,68,4225,28,577,2,6,8,5,1,2,3,9,1,33,5,6,1,1,1,4,1,2,1,11,53,2,8,35,8,332,120
+Assegurar	167,372,2540,1068,71,2244,68,4225,28,577,2,6,8,5,1,2,3,9,1,33,5,6,1,1,1,4,1,2,1,11,53,2,8,35,8,332,120,753,3
 Assegurou	6995
 Assemble	1161
 Assemble Diverse Expertise	12675
@@ -120,12 +120,13 @@ Assembleia Nacional. Artigo	14,1,534
 Assembleia Nacional. Elaborar	11376
 Assembleia Popular Nacional	11569
 Assembleia República	8745,219
-Assembleia da República	2816,263,1989,1902,77,1196,415,87,3566
+Assembleia da República	2816,263,1989,1902,77,1196,415,87,3566,459,2,1,2,10,10,14,4,20,21
 Assembleia da República de Moçambique	5841
 Assembleia da República. Na	8658
+Assembleia da República. O Conselho Constitucional	12854
 Assembleias de Voto	11425
 Assemblies	7695
-Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135
+Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96,290,291,16,1,1,1,263,1,1,9,38,9,130,1,11,1,135,283,8
 Assembly DHPT MoH	9855
 Assembly Decision	5825
 Assembly Disclosure of Public Records Public Perception	10759
@@ -210,7 +211,7 @@ Assessing the Impact of Digital Government	226
 Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
 Assessing the Macroeconomic Productivity Gains	11140
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3,25,344,225,105,42,8,43,8,30,8,14,82,120,4,27,14,42,32,29,21,6,68,47,8,27,40,211
 Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment Area Network Performance Service Quality	5676
 Assessment Basic Knowledge	899
@@ -272,6 +273,7 @@ Assessments. Regularly	12214
 Assessments. Washington	11136
 Assessor Científico da Faculdade de Direito de Bissau	11566
 Assessorar	167,4051,7231
+Assessores	12814
 Assessoria Técnica	11538
 Asset	767,1221,4950,600,213,1372,583,1015,17,393,3,75,797,532
 Asset Accumulation	12445
@@ -395,6 +397,7 @@ Climate Change Institutional Assessment	1828
 Climate Co-Benefits Assessment	5620
 Colina CanoL. Assessing	12246
 Combined Category of Movable Assets	12389
+Comissão Nacional de Eleições. ASSEMBLEIA DA REPÚBLICA	12772
 Comissões da Assembleia Nacional	11436
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Commercial Banks Assets and Liabilities	2775
@@ -496,6 +499,7 @@ Demand-Side Assessment	9781
 Democratic Republic of Congo Digital Economy Assessment	11994
 Departamento de Assessoria Técnico-Jurídico	167
 Deploys Asset-Financing Solution for Rwandan Drivers Foluso	7324
+Deputados da Assembleia da República	12796
 Description ISC Assessment of ZamStats	2240
 Description USAID Digital Ecosystem Country Assessment	1166
 Develop Risk Assessment Standards	12675
@@ -546,7 +550,7 @@ Dubai’s Virtual Assets Regulatory Authority	11501
 E Assemblée	11139
 E&S Environmental and Social EA Environmental Assessment	1988
 E. P. ASSEMBLEIA NACIONAL Lei	539
-E. P. SUMÁRIO Assembleia da República	12311
+E. P. SUMÁRIO Assembleia da República	12311,464
 EASY ASSET MANAGEMENT LIMITED Data Controller	7167
 EASY ASSET MANAGEMENT LIMITED Data Processor	7167
 ECOWAS Infrastructure Sector Assessment Program	1264
@@ -751,6 +755,7 @@ Information Infrastructure Assets CM-NSCI	10721
 Information System Security Assessment	10911
 Information Systems for Health Maturity Assessment Toolkit	1824,10431
 Information and Communication Technology Maturity Assessment	1824
+Informação. Assembleia da República Lei	12773
 Infrastructure DPIA Data Protection Impact Assessment	7548
 Initial Assessment	3058
 Institutional Assessment	12043
@@ -767,6 +772,7 @@ Interpol Assembly	12617
 Interpol’s African Cyberthreat Assessment Report	9797,228
 Intra-group Data Protection Impact Assessment WhatsApp	5113
 Intrinsic Risk Assessment Worksheet Tool	11156
+Irrigation Performance Assessment and Diagnostic Tool	12828
 Issuance Platform Virtual Asset Broker Virtual	10738
 Item of Intangible Assets Years Computer	11955
 Item of Tangible Fixed Assets Years Buildings	11955
@@ -1106,6 +1112,7 @@ PMU-National and District Assessment for Donor-	1988
 POLICY ASSESSMENT AND RECOMMENDATIONS REPORT	11285
 PPE Revenue Net Profit Assets Liabilities	1944
 PPRA Technologies Baseline Assessment	7548
+PRESIDENT OF THE ASSEMBLY	12771
 PROCESSES Enterprise Assets Management	11231
 PROGRAM RISK ASSESSMENT FRAMEWORK Establish Program	1000
 PS4R Assessment Methodological Framework	10841
@@ -1149,7 +1156,7 @@ Preferential Performance Assessment Report	12500
 Preliminary Readiness Assessment	8301
 Presidente da Assembleia Nacional	539,2980,7890,16
 Presidente da Assembleia Nacional Popular	11561
-Presidente da Assembleia da República	6970
+Presidente da Assembleia da República	6970,5802,24
 Presidential and National Assembly	12201
 Presidential and National Assembly Elections. View	12350
 Press Law Assembly	12201
@@ -1214,6 +1221,7 @@ Recovery and Peace Building Assessment for Cameroon	10964
 Recovery of Assets	1829
 Regimento da Assembleia Nacional	539,2980
 Regional Economic Impact Assessment	2677
+Registo Civil. ASSEMBLEIA DA REPÚBLICA Lei	12775
 Regular Risk Assessments	12356
 Regulating Virtual Asset Business Rwanda Finance	6998
 Regulation MALAWI DIGITAL READINESS ASSESSMENT	12214
@@ -1258,12 +1266,14 @@ République Sénat Assemblée	1297
 SADC Harmonised Data Protection Framework Assessment	962
 SEA Strategic Environmental Assessment SEAH Sexual	11863
 SEIAS Social Economic Impact Assessment System	5533,6453
+SENHORA PRESIDENTE DA ASSEMBLEIA DA REPÚBLICA	12796
+SENHORES DEPUTADOS DA ASSEMBLEIA DA REPÚBLICA	12796
 SIGPE Integrated State Asset Management System	10768
 SITE WEB DA ASSEMBLEIA NACIONAL POPULAR	11531
 SUMMARY ENVIRONMENTAL AND SOCIAL SYSTEMS ASSESSMENT	11905
 SUMMARY FIDUCIARY SYSTEMS ASSESSMENT	11905
 SUMMARY TECHNICAL ASSESSMENT39 A. Strategic Relevance	11905
-SUMÁRIO Assembleia da República	6970
+SUMÁRIO Assembleia da República	6970,5802
 SUPLEMENTO SUMÁRIO PARTE I Assembleia Nacional	11518
 Safety and Security Assessment	11285
 Sample AI Governance Assessment Template	6442

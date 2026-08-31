@@ -152,6 +152,7 @@ Assessment Council of Lesotho Bill	12748
 Assessor Científico da Faculdade de Direito de Bissau	11566
 Assistant Don Divin Bizimungu Operations and Programme	11332
 Assistência Técnica BI Bilhete de Identidade BM	11390
+Atribuir Bilhete de Identidade	12784
 Au BIP	10876
 Audiencia Provincial de Bioko Norte	4209
 Audit Bill	9439
@@ -880,7 +881,7 @@ Bilgin	7759
 Bilhete	7310,2089,1351,1,21,673,35,97
 Bilhete Amarelo	10772
 Bilhete Identidade Digital	11480
-Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53
+Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53,664,64,13
 Bilhete de Identidade Bengo	6741
 Bilhete de Identidade CDT	11435
 Bilhete de Identidade Características	10777
@@ -889,9 +890,11 @@ Bilhete de Identidade Digital Fase	11480
 Bilhete de Identidade Integrado	10750
 Bilhete de Identidade Nacional	10750
 Bilhete de Identidade O Presidente da República	10772
+Bilhete de Identidade da República Popular de Moçambique	12784
 Bilhete de Identidade de Cidadão Nacional	10749,7,16
 Bilhete de Identidade. Acrescentou	6944
 Bilhete de Identidade. Apesar	10751
+Bilhete de Identidade. Artigo	12775
 Bilhete de Identidade. Assim	10772
 Bilhete de Identidade. Campanha de Bilhete de Identidade	10753
 Bilhete de Identidade. Conteúdo	10772
@@ -920,7 +923,7 @@ Bilhete de Identidade. Verifica-se	11446
 Bilhete de Identificação	11569
 Bilhete de Ministério da Justiça	10752
 Bilhetes	10751,21
-Bilhetes de Identidade	220,4491,1903,26,101,78,18,158,315,2988,452,22,707
+Bilhetes de Identidade	220,4491,1903,26,101,78,18,158,315,2988,452,22,707,1305
 Bilhetes de Identidade Já Disponíveis	6837
 Bilhetes de Identidade O Ministério da Justiça	10750
 Bilhetes de Identidade. Ainda	10772
@@ -987,7 +990,7 @@ Billing Billing TTC MT298 SMT	12364
 Billing Efficiency	12062
 Billing Section	9437
 Billing TTC	12364
-Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89
+Billion	1191,988,413,185,1903,216,267,492,214,590,134,188,665,77,503,1091,664,1021,20,488,46,354,147,137,84,174,143,105,17,89,230
 Billion Agreement	6551
 Billion Agriculture Manufacturing Services	6593
 Billion Average	12252
@@ -1771,6 +1774,7 @@ D.G. BIENESTAR SOCIAL.- Concepto.-	4209
 DANIEL KIBET BITOK Data Processor INST-900211C9FDA	7167
 DATA PROTECTION AND PRIVACY BILL	1474
 DBSA. Bidders	11240
+DE IDENTIFICAÇÃO CIVIL E DO BILHETE	12784
 DEIDF Bill	8364
 DEL PROV. BIOKO SUR	4209
 DEL. PROV. BIOKO SUR	4209
@@ -1907,6 +1911,7 @@ ELECTRONIC AND BIOMETRIC IDENTIFICATION DATA CAPTURE	10816
 ELECTRONIC COMMUNICATIONS AMENDMENT BILL	5872
 ELECTRONIC TRANSACTION BILL	410
 ELEMENT WEIGHT BIDDER’S RELEVANT EXPERIENCE	11209
+EMISSÃO DO BILHETE DE IDENTIDADE	12784
 EMPLOYMENT SERVICES AMENDMENT BILL	11280
 ENTITY IN CONSORTIUM BIDDER	11240
 ESTDEV Invites Bids	9309
@@ -2335,6 +2340,7 @@ LCOE Bioenergy	11953
 LIVE BIRTHS	12064
 LPSOSHGB da Guiné Bissau	9732
 La Bible	12099
+Laboratório Biomédico Híbrido	12846
 Lagos Man Visited Birth Registration Website	10034,231
 Land Bill	11197
 Land Redistribution Bill	11197
@@ -2458,6 +2464,7 @@ Mr. Georges Bigirimana	5076
 Mr. Jean-François Le Bihan	26,1,1
 Ms. Nafisa Binte Shafique	7171
 Msc. Biostatistics	7955
+Mt. O Bilhete de Identidade	12784
 Mukankunga Bisamaza	11960
 Mulheres LPHG SOS da Guiné Bissau	9732
 Multi-Billion Birr Accounting Failure	7909
@@ -2492,6 +2499,7 @@ NITA Data Harmonisation Bill	3802
 NORD NOU M BIEL CENTRE	10847
 NOTIFICATION Birth	12413
 NOVALES BILBAO	6613
+NOVO BILHETE DE IDENTIDADE	12784
 NPC Opens Nationwide Digital Birth	7632
 NPRS. Birth	12327,10
 NPS Bill. Entry	3318
@@ -2573,7 +2581,8 @@ Notification of Birth	12226
 Ntfonjeni and Big Bend. CBE Trains ESRIC	11134
 Number of Births	12533
 Number of Births Number	12151
-O Bilhete de Identidade	5988,4784,674,131
+NÍVEL DE COBERTURA DO BILHETE	12784
+O Bilhete de Identidade	5988,4784,674,131,1207
 O Bilhete de Identidade de Cidadão Nacional	10749,7
 O Governo da Guiné Bissau	11542
 O MEUPRIMEIRO BI RUMO	10752

@@ -1121,7 +1121,7 @@ Voltage Required AC	34
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89
 Volume CXVII	1844
 Volume Down Global	4972
 Volume Financeiro	11434
@@ -1194,6 +1194,7 @@ Vorwurf des Menschenschmuggels	11316
 Vorwürfen	11316
 Vos Commissaires	11151
 Vosloo	10247
+Vossa Excelência	12790
 Vosso	10753
 VotaW. DHIS2	12246
 Votación	6613
@@ -1222,6 +1223,7 @@ Voter Registration Assembly	12201
 Voter Registration Card	12218
 Voter Registration Data Voter	10714
 Voter Registration Kit	12350
+Voter Registration Law	12845
 Voter Registration List	10714
 Voter Registration Officer	9645
 Voter Registration Procedures	12201

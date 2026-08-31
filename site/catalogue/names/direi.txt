@@ -20,7 +20,7 @@ DIREITOS A Universidade Lusíadas de Angola	10752
 DIREITOS DE PROPRIEDADE Artigo	11901
 DIREITOS E OBRIGAÇÕES RELATIVAMENTE	10755
 DOS DIREITOS E DEVERES	11528
-Direito	14,400,125,10,203,42,2022,703,2943,508,2206,990,584,2,606,2,2,1,11,10,3,1,3,57,7,1,5,67,9,361,3,117,293
+Direito	14,400,125,10,203,42,2022,703,2943,508,2206,990,584,2,606,2,2,1,11,10,3,1,3,57,7,1,5,67,9,361,3,117,293,462,12
 Direito Administrativo	11358,90
 Direito Ambiental	11358
 Direito Angolano	13,1,153,263,119,195,8,42,2813,7147,1,1,603,1,3,1,3,1,2,1,1,1,4,1,3,1,1,1,2,1,1,6,2,8,1,3,1,5,5,6,6,2,2,3,5,6,3,15,7
@@ -51,11 +51,11 @@ Direito de Recurso	10755
 Direito de Regresso	10755
 Direito de Resposta	12311
 Direito de Superfície	11443
-Direito de Uso	12137
+Direito de Uso	12137,687
 Direito de Uso Privativo	11514
 Direito. A Administração Pública	11388
 Direito. Banco de Moçambique	6462
-Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410
+Direitos	14,525,1898,1,378,50,653,7231,1,1,3,605,10,4,19,19,18,27,56,7,8,41,332,410,463,11,35
 Direitos ARTIGO	539
 Direitos Anteriores	11443
 Direitos Autorais Online	2816
@@ -63,7 +63,7 @@ Direitos Conexos	8385
 Direitos Delegação Provincial de Luanda	10753
 Direitos Direitos Humanos	10752
 Direitos E DOS DIREITOS HUMANOS Humanos	10753
-Direitos Económicos	11547,15
+Direitos Económicos	11547,15,1223
 Direitos Fundamentais	794,10658
 Direitos Fundiários	11443
 Direitos Gerais	11430
@@ -100,6 +100,7 @@ Direitos Iguais	3519
 Direitos Igualmente	10750
 Direitos Não	10752
 Direitos Reservados	9432
+Direitos Sobre Acessibilidade Artigo	12785
 Direitos da Criança	10750
 Direitos da Criança O Instituto Nacional de Estudos	10750
 Direitos da Mulher	6018
@@ -116,7 +117,7 @@ Dra. Ana Celeste Cardoso Direitos Humanos	10750
 E DOS DIREITOS HUMANOS APOSTA NA	10752
 Estado Democrático de Direito	4146,7221,69
 Estado de Direito	10750,686,25
-Estado de Direito Democrático	11436,875
+Estado de Direito Democrático	11436,875,522
 Estado de Direito. A Ordem	11436
 Estado de Direito. Entre	11414
 Facul-dade de Direito da Universidade de Lisboa	9176

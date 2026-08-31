@@ -210,7 +210,7 @@ Centenary Sacco Society Limited Data Controller	7167
 Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918
 Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
@@ -716,6 +716,8 @@ SADC Pooled Procurement Center	4260
 Santo Antão Island Maintenance Center	11955
 Scale Centers	2420
 SecOps. The Academic Security Operation Center	11077
+Secondary Data Center	12850
+Secondary Data Center for Cedsif	12850
 Sectoral Center for Vigilance	6657
 Sectoral Cybersecurity Operations Centers	11464,211
 Secure National Data Center Ahead of Launch	4926

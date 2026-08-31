@@ -212,6 +212,7 @@ Board of Directors. Finally	11955
 Board of Executive Directors	10714,51,10,10,27,29,135,1,8,151,13,122,274,322,7,5,2,84,211,152,7,11,188,125
 Board. Any Director	585
 Boards of Directors	10718
+Body Visita de Director Regional	12835
 Boriowo Folasade Director	12061
 Botswana Alpha Direct	12540
 Botswana Managing Director	10051
@@ -220,7 +221,7 @@ Boutheina Guermazi Regional Director	1264
 Britam Uganda Managing Director Allan Mafabi	7591
 Budget DGFD Direction	10712
 Bureau of Statistics Director	12749
-Business Development Director	7673,79
+Business Development Director	7673,79,5097
 Business Development Director of Hytera	2511
 Bénin Djabirou AMADOU Directeur Adjoint de Cabinet	10708
 C Heimann Acting Director-General	11261
@@ -372,7 +373,7 @@ Conflict of Interest A Director	585
 Connect Direct	11298
 Consejos Directivos Sectoriales	11525
 Conselho Directivo	3421,168,629,1360,847,36,2314,2607
-Conselho de Direcção	10753,699
+Conselho de Direcção	10753,699,1331
 Conselho de Direcção A Delegação da Justiça	10752
 Contracts of Ministers and Directors	4126
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
@@ -518,6 +519,7 @@ DIRECTORSHIP	11240
 DIRECTORS’ RESPONSIBILITY FOR THE INTERIM FINANCIAL	10793
 DIRECTRIZES PARA TRIAGEM	11406
 DIRECÇÃO FINANCEIRA	11531
+DIRECÇÃO NACIONAL DE IDENTIFICAÇÃO CIVIL SISTEMA	12784
 DIRECÇÃO NACIONAL Foi	10750
 DIRECÇÃO NACIONAL Houve	10752
 DISTRITOS TOTAL DIRECTIVO PUB. Y PREV	4209
@@ -668,6 +670,7 @@ Direct Recipient Country of Incorporation	18,9548
 Direct Residency Permits	2115
 Direct SSA	862
 Direct Selection	11525
+Direct Social Assistance for Emergency Response	12781
 Direct Social Benefit	1992
 Direct Taxes Actual	5655
 Direct Taxes Indirect Taxes Non-tax Revenue	10997
@@ -866,7 +869,7 @@ Directive for Digital Credit Services Providers	7464
 Directive for Entry	3861
 Directive for Land Mobile Radio Licenses	762
 Directive. Cette	1185
-Directives	587,1220,1908,1070,585,317,1785,66,1384,201,1927,1012,84,39,41,233
+Directives	587,1220,1908,1070,585,317,1785,66,1384,201,1927,1012,84,39,41,233,312
 Directives Royales	2696
 Directives and Decisions	2913
 Directives and Schedules	11956
@@ -874,7 +877,7 @@ Directives and Schedules Article	11956
 Directivos	4209
 Directly	513,1315,982,3272,366,976,445
 Directoire	7620
-Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11
+Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11,46,2,14
 Director AI Skills Microsoft ELEVATE	5551
 Director Academy of Teaching and Learning Coordinator MSc	12508
 Director Adjunto Ministerio	4209
@@ -1047,8 +1050,9 @@ Director Mr. Mohammed Haji	6946
 Director Mr. Peter Mwangi	6946
 Director Ms Nyefolo Seboka	12706
 Director Ms. Patricia Muchiri	6946
-Director Nacional	13,11397
+Director Nacional	13,11397,1365
 Director Nacional de Sistemas de Informação	2816
+Director Nacional de Transformação Digital	12840
 Director National Payment System Department	12365
 Director National Payment System and Financial	12374
 Director National Payment Systems	9820
@@ -1079,8 +1083,11 @@ Director and Chair	11800
 Director and Chief Operating Officer	5276
 Director and Other Staff	12643
 Director da Divisão de Governação Digital	2816
+Director da Divisão de Licenciamento	12791
 Director da Divisão de Segurança Cibernética	2784,32
+Director de Comunicações	12835
 Director de Tecnologia da Amazon	2816
+Director de Tecnologias Emergentes	12799
 Director for Africa	3987
 Director for Critical Information Infrastructure	7308
 Director for Education Management Information Systems	11241
@@ -1296,10 +1303,11 @@ Director-General. The Director-General	6512
 Director-General. The Minister	11280
 Director-General.’’. Amendment	11280
 Director-Generals	11006
-Director-Geral	4147,71,7154
-Director-Geral Adjunto	4218
+Director-Geral	4147,71,7154,1411,26
+Director-Geral Adjunto	4218,8565
+Director-Presidente	12810
 Director-general Nonkqubela Jordan-Dyani	9967
-Director-geral	10271
+Director-geral	10271,2544
 Director. A Direcção de Administração	167
 Director. A Direcção de Auditoria	167
 Director. A Direcção de Registo de Ficheiros	167
@@ -1312,6 +1320,7 @@ Director. O Gabinete de Tecnologias de Informação	167
 Director. Such	585
 DirectorGeneral	2727
 Directora	2816,2905,5045
+Directora Executiva	12809
 Directora Executiva da FSDMoç	8003
 Directora General	12220
 Directora General de Comercio	9927
@@ -1321,6 +1330,7 @@ Directora Nacional	10753
 Directora Nacional de Gestão da Dívida Pública	12220
 Directora Nacional de Saúde Pública	11459
 Directora-Geral	10773
+Directora-geral Adjunta	12815
 Directorate	34,537,429,3528,1587,1134,257,426,137,39,268,564,646,185,1041,317,61,51,38,626,1,80,171,83,260,12,54,176
 Directorate Analysis	11986
 Directorate Analysis. Method	11986
@@ -1428,6 +1438,7 @@ Directorate of Research and Statistics	9469,1039
 Directorate of Revenue and Taxes	8358
 Directorate of Road Traffic Services and Safety	12309
 Directorate of Science	1161,1178,2937,2538,1089,1771
+Directorate of Social Protection Coordination	12832
 Directorate of Stan	11550
 Directorate of Strategy	1131
 Directorate of Studies and Planning	11974
@@ -1453,7 +1464,7 @@ Directorates for Information Systems	2321
 Directorates of Administrative Organization Modernization	3604
 Directorates of Town Planning and Estates Management	12253
 Directorates. Directorates	7548
-Directores	11377,72
+Directores	11377,72,1328,33
 Directores Digitais	11461
 Directores Generales	4209
 Directores Generales Servicio	4209
@@ -1504,10 +1515,10 @@ Directrizes de Reporte de Incidentes Tecnológicos	5169
 Directs the African Union Commission	5825
 Directs the National AI Strategy and Roadmap	4528,7984
 Directório Moçambique	2125
-Direcção	167,3962,2439,4182,2,1,682,26,53,504
+Direcção	167,3962,2439,4182,2,1,682,26,53,504,843
 Direcção Comercial da INACEP	11518,1
 Direcção Geral	11381,169
-Direcção Nacional	10750,2,1,15,10,602,776
+Direcção Nacional	10750,2,1,15,10,602,776,619,87
 Direcção Nacional Assinatura de Contrato	10753
 Direcção Nacional CIVIL E CRIMINAL	10753
 Direcção Nacional Em	10752
@@ -1528,6 +1539,7 @@ Direcção de Estatísticas Demográficas	11449
 Direcção de Estatísticas Económicas	11449
 Direcção de Identificação	12067
 Direcção de Metodologia	11449
+Direcção de Planificação	12788
 Direcção de Registo de Ficheiros	167
 Direcção de Registo de Ficheiros de Dados	167
 Direcção de Serviços Fiscais	11435
@@ -1537,6 +1549,7 @@ Direcção de Trânsito	3899,7556
 Direcção-Geral	5329
 Direcção-Geral da Função Pública	11518,1
 Direcções	167,10599,683
+Direcções Provinciais	12775
 Direcções Provinciais de Saúde	11401
 Direcções de Escolas. Os	10766
 Distribution of Address Directories	11129
@@ -1579,6 +1592,7 @@ EVENTS Directors Legal Advisors Econet InfraCo	4896
 EXECUTIVE DIRECTOR	1154,10596
 EXIM's Board of Directors	3626
 EXPLANATORY NOTE AND FINAL POLICY DIRECTION	11235
+Early-Stage Finance Director	12856
 Econet Shares The Directors of Econet	4896
 Economia Director Geral	6069,541
 Economia Director Nacional	7245
@@ -1677,6 +1691,7 @@ FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
 FBI Director Kash Patel	11342
 FCCPC's Director of Corporate Affairs	7560
 FCFA. La Direction Générale du Trésor	2971
+FDI Foreign Direct Investment	12786
 FDSU Director General	10167
 FDSU Director General Paterne Binene	12032
 FICHA TÉCNICA Directora Irene Cristina Agostinho	10766
@@ -1833,7 +1848,7 @@ H. Directions	7845
 HEs. Direct	11417
 HISP Centre Deputy Director	7027
 HRM&D Deputy Director-General	11986
-Hafez M. H. Ghanem Country Director	11380,475
+Hafez M. H. Ghanem Country Director	11380,475,926
 Hassan Zaman Country Director	2473,9703
 Hautes Directives Royales	8891
 Health Information Directorate	10928
@@ -1888,6 +1903,7 @@ Iain Shuker Country Director	1867
 Ian Mackay Associate Director	7751
 Ibrahim Dikko Director	11857
 Idah Z. Pswarayi-Riddihough Country Director	2474
+Idah Z. Pswarayi-Riddihough Regional Director	12781
 Identification M. Parbignalé Arsène Yoda Directeur	10812
 Imelda Anika Legal Director IKM Advocates	12301
 Immediate Basis ESCCOM Foreign Direct Investment	12444
@@ -2119,6 +2135,7 @@ Mandated Funding Directions The Ministry of Finance	3861
 March-2022 Cabinet Directive	1655
 Matar NDAO Directeur	8498
 Mavuso Director Financial Regulation Lindiwe Mlambo	11131
+May-2026 Country Director	12832
 McKinnon B. Direct	3791
 Mckinsey Global Directions des Impôts	10711
 Medical Director	11062
@@ -2254,13 +2271,14 @@ National Director of Public Prosecutions’’means	11190
 National Director of Registries and Notaries	12219
 National Director of SOS Children’s Villages Eswatini	11134
 National Director of State Modernization	11873
+National Director of Treasury and Financial Cooperation	12816
 National Directorate	10765,10,192,450
 National Directorate for Cultural Heritage	12161
 National Directorate for Land Administration	12137
 National Directorate for Public Health	11417
 National Directorate for Teachers Wages	11950
 National Directorate of Civil	2972
-National Directorate of Civil Identification	1782,4552,1345,325
+National Directorate of Civil Identification	1782,4552,1345,325,4830
 National Directorate of Food	10768
 National Directorate of Food and Nutrition Security	10763
 National Directorate of Health	11969
@@ -2272,6 +2290,8 @@ National Directorate of Public Accounting	10768
 National Directorate of Public Health	10188,1213,16
 National Directorate of Registries and Notaries	10765,10
 National Directorate of Registries and Notary Services	12167
+National Directorate of Science and Technology	12819
+National Directorate of Social Assistance	12832
 National Directorate of State Assets	10768
 National Directorate of State Revenue	11941,24
 National Directorate of Treasury and Public Accounting	2597
@@ -2463,6 +2483,7 @@ Project Director	4640,7719
 Project Sprint Country Director	8264
 Provider Directory	1009
 Provincial Director of GUCE	12031
+Provincial Director of Justice and Labor	12839
 Provincial Directorate	10780
 Provincial Directorates and National Hospitals	10780
 Provincial Education Directorates	2989
@@ -2800,6 +2821,7 @@ World Bank Executive Director	11134
 World Bank Executive Director Africa Group	11134
 World Bank Group Board of Directors	2253,2581
 World Bank IPF Policy and Directive	1264,2340
+World Bank Managing Director Paschal Donohoe	12838
 World Bank Managing Director of Operations Anna	7426
 World Bank Policy and Directive	1867
 World Bank Policy and Directive for IPF	11905

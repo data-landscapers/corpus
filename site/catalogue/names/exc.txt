@@ -132,7 +132,7 @@ Centres of Excellence	209,1429,3100,2208,2263,1926,102,719,400
 Centres of Excellence and Research Labs	6936
 Centres of Excellence. Mitigation	4528
 Centres of Excellence. Risk	12512
-Centro de Excelência	2816
+Centro de Excelência	2816,9999
 Ceremonias Excelentísima	1855
 Cetera EXCO Executive Committee FPSU Farmer	11261
 Change Agents and EXCO	11131
@@ -248,6 +248,8 @@ ETA Electronic Travel Authorisation EXCO Executive	11218
 EU Economic Partnership Agreement. Cross-Regional Exchange	1243
 EVIDENTIARY SPINE FOR DIGITAL-BY-DEFAULT EXCLUSION	4793
 EXCELLENCY JOHN DRAMANI MAHAMA PRESIDENT	4126
+EXCELÊNCIA	12796
+EXCELÊNCIAS	12796
 EXCEPTIONS	1474
 EXCERPT	5912,1169,740
 EXCERPT ONLY	4145
@@ -391,7 +393,7 @@ Excellente	10975
 Excelsimo	3554
 Excelsimo Networks Ltd	3862
 Excelência Senhor Embaixador	10753
-Excepcionalmente	549,2317,7890,632,64
+Excepcionalmente	549,2317,7890,632,64,1323
 Excepciones	163
 Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67
 Except Indonesia	11964
@@ -556,6 +558,7 @@ Exclusive Flexible Payment Offering	9790
 Exclusive Legislative List	11956
 Exclusive Nigeria	2293
 Exclusive Q&A	2459
+Exclusive. The Policy and Strategy for Internal Displacement	12779
 Exclusively	582,10422
 Exclusivity	11960
 Exclusión	163
@@ -567,6 +570,7 @@ Exploitation Exclusive des Gisements Pétroliers	2342
 Express Exchange	3779
 FICHA DE EXCLUSÃO	11406
 FINANCE COST AND NET FOREIGN EXCHANGE	10793
+FINANÇAS INICIAL INTERVENÇÃO DE SUA EXCELÊNCIA	12796
 FX Foreign Exchange PUE Power Usage	3184,1,1340,6470
 Facilitate the Market-Driven Exchange of Data. China	10350
 Falls Stock Exchange	4896
@@ -958,9 +962,10 @@ Stock Exchange News Service	11159
 Stock Exchange of Mauritius	12132
 Stock Exchanges Control Act	3714
 Su Excelencia Nguema Obiang Mangue	8083
-Sua Excelência	1265,10171
+Sua Excelência	1265,10171,1360
 Sua Excelência Américo António Cuononoca	11436
 Sua Excelência Arlete Leona Chimbinda	11436
+Sua Excelência Daniel Francisco Chapo	12792
 Sua Excelência Justino Feltro da Costa Pinto	11436
 Sua Excelência Ministra	12220
 Sua Excelência Raúl Augusto Lima	11436
@@ -1014,6 +1019,7 @@ Victoria Falls Stock Exchange-listed InfraCo	7546
 Victoria Falls Stock Exchange. FINANCIAL INFORMATION	4896
 Victoria Falls Stock Exchange. Publication	4896
 Virtual Asset Exchange Virtual Asset Manager	10738
+Vossa Excelência	12790
 WORD FROM HIS EXCELLENCY	10965
 West Africa Interconnection Exchange	7329
 West Africa Internet Exchange	7329

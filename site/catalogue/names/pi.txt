@@ -169,6 +169,7 @@ DETAIL Pillar	12444
 DFC PIS	594
 DHA. Pillar	5533
 DLA Piper	1243,5966,4671,414,7
+DLA Piper Africa	12802
 DLA Piper LLP	11880,421
 DLA Piper's Data Protection Laws	11880
 DLR. The PIU	11905
@@ -623,6 +624,7 @@ PIDIA00880 BASIC INFORMATION A. Basic Project	2291
 PIDIA01308. Date Prepared	12412
 PIDIA01397	2253
 PIDIA01397 Official Use Only The World	3456
+PIDIAF0329 Project Information Document	12832
 PIDISDSC23969	12137
 PIE Agreement	1228
 PIETP	6884
@@ -635,6 +637,7 @@ PIIPS	11392
 PIIS2214-109X	7836
 PIISAH	10980
 PIIs. The EthSwitch IPS	12269
+PILAR	12787
 PILLAR	940,60,2161,7560,1668,55,119,117
 PILLAR I CAPACITY EXPANSION AND COST	12399
 PILLAR II	12389,174,117
@@ -929,7 +932,7 @@ Pilar Literacia	11569
 Pilar Pessoas	11569
 Pilar Serviços Públicos	11569
 Pilar Sustentabilidade Pilar Confiança	11569
-Pilares	795,906,437,3525,5708,198,452
+Pilares	795,906,437,3525,5708,198,452,766
 Pilares Estratégicos	5663
 Pilares da ENGD.GW	11569
 Pilares da ENIF	11426
@@ -1182,6 +1185,7 @@ Regulation Pillar	12214
 Regulation.12 Pillar	4126
 Regulatory Framework Pillar	12389
 Remittances Piece	418
+Report No PIDIAF0329	12780
 Report No. PIDIA00880	2291
 Republic of Liberia Strategic Pillar	1777
 Responsibility for Data PIU Collection Grievances	11905
@@ -1342,7 +1346,7 @@ WAEMU BCEAO PI-SPI	4330
 WEST AFRICA DATA CENTER PIPELINE	10861
 Western Province. Picture	718
 Wojtek Piorko	4906,894,386,2290,679
-World Bank PID	1572
+World Bank PID	1572,11208
 World Bank PIP	11424
 World Bank PIP and ITU	11563
 World Bank and MEPA PIU	12253

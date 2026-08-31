@@ -1828,7 +1828,7 @@ Contrat-plan	3396
 Contratante	11456
 Contratar	167
 Contratação	15,2416,385,7956,588,78
-Contratação Pública	11449
+Contratação Pública	11449,1349
 Contratação de Empresa	12034
 Contratação de Especialista	11440,1
 Contratação de Seguro	3519
@@ -1873,7 +1873,7 @@ Contribuer	643,7274,2941,17,90
 Contribuer Copyright	9482
 Contribuicao	1144
 Contribuicoes	12018
-Contribuinte	8578,153,2031,621,149,486
+Contribuinte	8578,153,2031,621,149,486,837,6
 Contribuinte Obs. CI	11532
 Contribuinte Obs. Imposto	11532
 Contribuinte Outras	10762
@@ -1884,7 +1884,7 @@ Contribuinte. Neste	11532
 Contribuintes	11383,52,583
 Contribuintes Lista	12018
 Contribuintes.pdf Declaração Periódica Devido	12018
-Contribuir	13,1688,2445,6626,609,1,136,1,9,15
+Contribuir	13,1688,2445,6626,609,1,136,1,9,15,1234
 Contribuites Declaração Eletrónica Mod	12018
 Contribuição	1251,831,784,1546,7112,7
 Contribuição Audiovisual	11532
@@ -2008,6 +2008,7 @@ Control the RIR	3503
 ControlAI	9027
 Controladores de Finanzas Púb	4209
 Controlar	163,1538,2517,7163,68,3,66,503
+Controle de Tráfego de Telecomunicações	12795
 Controles	2816,1393
 Controlled	3503,7653
 Controlled Deployment and Pilot Activation	6442
@@ -2318,11 +2319,12 @@ Controlling Person Type and Self Certification	11685
 Controlling Persons	11233
 Controlling Persons Who Are Reportable	11233
 Controlo	438,356,2022,1620,4414,1905,22,6,5,582,9,27,24,22,67,18
+Controlo Cambial	12853
 Controlo Interno	5319
 Controlo Sobre	10777
 Controlo Sociedade	10788
 Controlo de Despesas	11430
-Controlo de Doenças	11376
+Controlo de Doenças	11376,1439
 Controlo de Fronteiras	9990,2129
 Controlo de Gestão	11435
 Controlo de Infecções PdE Pontos de Entrada PFN	11376
@@ -2456,6 +2458,7 @@ DAYSTAR UNIVERSITY Data Controller INST-7286093B830 NAIROBI	7167
 DDPs. Controllers	8436
 DE CONTROLE ET DE CERTIFICATION DES	10904
 DE CONTROLO23	11473
+DE DENÚNCIAS NA CONTRATAÇÃO PÚBLICA Num	12798
 DE LA STRUCTURE DE CONTROLE Section	113
 DE REGIONAL CONTROL DE S ERVICIOS	4209
 DEADAN GROUP LIMITED Data Controller INST-15537353009	7167
@@ -3190,6 +3193,7 @@ ITWeb Africa Contributor. Johannesburg	7388,453
 ITWeb Africa ContributorJohannesburg	6900,3207
 Impact UNDP Mauritius Contribution	11332
 Implement Security Controls	11995
+Implementação da Linha Verde Nacional de Denúncias Contra	12798
 Implementing Partners. Contrary	1261
 Import Control Act	6921
 Improve Vector Control	7016
@@ -3361,6 +3365,7 @@ Limited Data Controller INST-300629886FD NAIROBI Kenya	7167
 Limited Data Controller INST-5581092D02B NAIROBI Kenya	7167
 Limited Data Controller INST-8627332335A NAIROBI Kenya	7167
 Limited Data Controller INST-962062D5FA8 NAIROBI Kenya	7167
+Linha Verde Nacional de Denúncias Contra	12798
 Liquidação Correctiva. Contribuição Industrial	11532
 List of Major Contracts for Works	11525
 Livestock Data Controller INST-1443778C6D8 KITUI Kenya	7167
@@ -3561,6 +3566,7 @@ Passport and Border Control System. Under Civil	5250
 Payroll Management and Establishment Control System	12453
 Pensiones No Contributivas	4209
 Pensiones No Contributivas TCI	4209
+Pequenos Contribuintes	12802
 Percentage Contribution	2775
 Percentage Contribution Type of Asset	2775
 Perfomance Contractual	6946
@@ -3664,6 +3670,7 @@ Registration of Data Controllers and Data Processors	12232,69
 Regulamento de Contratação de Empreitada de Obras Públicas	4274
 Regulamento de Controlo	8745
 Regulamento de Controlo de Tráfego de Telecomunicações	4274,3969,415
+Regulamento de Controlo de Tráfego de Telecomunicações. Este	12854
 Remote Access Control	10721
 Remote Control	34
 Repeals Controversial Telecom Ownership Regulations NetOne	2987

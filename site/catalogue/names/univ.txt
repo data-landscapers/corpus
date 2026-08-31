@@ -122,6 +122,7 @@ C- Universal Access SDG	11863
 CA Innovation Universities	7548
 CHAPTER SIX UNIVERSAL ACCESS INITIATIVES	6946
 CHUKA UNIVERSITY SACCO LTD Data Controller	7167
+CIUEM Centre of Informatics of Eduardo Mondlane University	12786
 CIUEM Eduardo Mondlane University Informatics Center	4214
 CIUP Pedagogical University of Maputo Informatics Center	4214
 COMMUNICATION AUTHORITY OF KENYA Universal Service	6946
@@ -261,7 +262,7 @@ Economist Gilbert Mwabeza of Marian University	8888
 Edn. Oxford University Press	2096
 Edo State Universal Basic Education	8588
 Eduardo Mondlane Univ	1225,1
-Eduardo Mondlane University	8965,260
+Eduardo Mondlane University	8965,260,3561,40
 Education and States Universal Basic Education Board	11860
 Egerton University	6946,5377
 Egerton University SACCO Society Limited Data	7167
@@ -770,6 +771,7 @@ UC Berkeley and New York University	10464
 UCAN Universidade Católica de Angola UIP Unidade	11390
 UCF Unguaranteed Commercial Financing USF Universal	6539
 UEM A Universidade Eduardo Mondlane	8827
+UEM Eduardo Mondlane University	12786
 UEM Eduardo Mondlane University WDR World	4214
 UHI Universal Health Insurance UNICEF United	11133
 ULFASA GRIEVANCES REACH BOAKAI AS UNIVERSITY	10581
@@ -862,7 +864,7 @@ Universal Coverage Scheme	9804
 Universal DPI Safeguards	1879
 Universal DPI Safeguards Framework	2930,1706
 Universal Declaration	1814,1769,7258
-Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166
+Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412
 Universal Declaration of Human Rights. Retrieved	10819
 Universal Design	12356
 Universal Digital Access	4234
@@ -974,7 +976,7 @@ Universidade Católica da Guiné-Bissau	11552
 Universidade Católica de Angola	11632
 Universidade Colinas de Boé Biombo Safim Private	11552
 Universidade Digital	11411
-Universidade Eduardo Mondlane	1526,1290,5991,20,31,836
+Universidade Eduardo Mondlane	1526,1290,5991,20,31,836,3092,51
 Universidade Eduardo Mondlane Por	8858
 Universidade Eduardo Mondlane UNESCO	2816
 Universidade Eduardo Mondlane. Disponível	2816
@@ -996,6 +998,7 @@ Universidade Lúrio	2816
 Universidade Mandume Ya Ndemufayo	6585
 Universidade Metodista de Angola	11632
 Universidade Nova da Guiné Bissau Bissau Private	11552
+Universidade Pedagógica and Instituto Superior Politécnico	12786
 Universidade Pedagógica de Maputo	2816
 Universidade Politécnica	9099
 Universidade Politécnica A VICE-REITORA	9099
@@ -1019,7 +1022,7 @@ Universidade de Trento	2816
 Universidade. Na	9694
 Universidade. Para Manuel Guilherme Júnior	9694
 Universidade. Segundo	9694
-Universidades	2816,7936
+Universidades	2816,7936,2030
 Universidades. Edição Nº	10752
 Universitaire	11916,2
 Universitaires	8321
@@ -1253,6 +1256,7 @@ University of The Gambia and Mrs Mary P	7823
 University of The Gambia's Education Management Information	6048
 University of Tokyo	12376
 University of Toronto	5215,5918
+University of Twente	12837
 University of Tübingen	4676
 University of Uyo	9115
 University of Venda	2093,9250

@@ -1697,13 +1697,17 @@ Sheidu	12045
 Sheik	2117
 Sheik Muhammad Shameen Hosenbocus	3281
 Sheik Omaru Jalloh	3895
-Sheikh	766,7692
+Sheikh	766,7692,4332
 Sheikh Abdullah	11185
 Sheikh Abdullah Al Nahyan	11185
 Sheikh Ali	11596
 Sheikh Dina Amadou	786
 Sheikh Hamdan	793
 Sheikh Jaffar Khan Mandokhail	9786
+Sheikh Mansour	12790
+Sheikh Mansour Al Thani. Falando	12790
+Sheikh Mansour Bin Jabor Bin Jassim	12790
+Sheikh Mansour Bin Jabor Jassim	12790
 Sheikh Walid Baba	2710,8,79,265,23,1,361,62,552,38,265,23,703,326,599,587,23,625,61
 Sheikh of Mombasa. Mr Ibrahim	8949
 Sheikh&author	766
@@ -1890,9 +1894,10 @@ Shmitchell	11135
 Shobhana	10964
 Shock Responsive Mechanism	8399
 Shock Responsive Safety Net	12229
-Shock Responsive Social Protection	12181
+Shock Responsive Social Protection	12181,651
 Shock-Responsive Digital Delivery Systems	971,9992,1
-Shock-responsive	10768,1452,9
+Shock-Responsive Social Protection. Finances	12832
+Shock-responsive	10768,1452,9,603
 Shocks	10763,1235
 Shocks and Aid Cuts Intensify Risks	11105,31
 Shoes	11134
@@ -1998,7 +2003,7 @@ Shortt	11131
 Shoshana Zuboff	571,7809
 Shoshong Clinic	12607
 Shoshong MP	12610
-Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24
+Should	27,546,1205,50,1109,7,2,445,583,178,515,229,346,107,189,255,675,18,334,424,8,91,15,1,596,318,1238,461,90,30,178,153,74,238,29,200,165,1,26,35,49,58,265,346,86,197,167,5,9,3,24,455
 Should Apply	9198,111,2018
 Should Change	6947
 Should Kenya Be Asking	8091

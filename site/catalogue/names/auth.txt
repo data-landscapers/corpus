@@ -161,7 +161,7 @@ Author-	11
 Author. Licensee	8021
 Authored	765,8011,2388,190,300
 Authorisa	3386
-Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148,514,362,74,30,13,688,61,318,9,73,88,14,102
+Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148,514,362,74,30,13,688,61,318,9,73,88,14,102,120
 Authorisation Framework	11952
 Authorisation ITU Mobile Alert Communication Management	1009
 Authorisation Monthly	11952
@@ -171,7 +171,7 @@ Authorisation for SARS	11181
 Authorisation of High Court	12523
 Authorisation of Participants	12364
 Authorisations	6946,3211,1141
-Authorise	1009,10289
+Authorise	1009,10289,1473
 Authorised	236,784,1893,597,1282,104,763,2049,1659,1822
 Authorised CASP	8840
 Authorised CASPs	8840
@@ -381,7 +381,7 @@ Authorized User	3972
 Authorized User Access	3972
 Authorized Users	3972
 Authorlty Application	11517
-Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40
+Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81,84,45,325,372,110,120,6,85,4,26,145,4,11,34,15,93,4,40,168,34,30,3,53,40,130
 Authors Alison Gillwald	5044
 Authors ArticleDraft Guidance Note	6998
 Authors ArticleID Like To Know	6632
@@ -553,7 +553,7 @@ Certificate Authority	5533,58,6395
 Certificate Authority CARA Criminal Assets Recovery	5533
 Certificate Authority Document	12364
 Certification Authorities	9880
-Certification Authority	1009,10175
+Certification Authority	1009,10175,1650
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Chairman of Authority	6422
@@ -724,6 +724,7 @@ Datacentre Edition Author	12681
 Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
 Declaration and Authorization	6432
+Deficiência Author	12797
 Definition Authorised	12364
 Definition User User An Authorised Person	12364
 Delegation of Authority	940,10065
@@ -1308,9 +1309,12 @@ Morne Gijben AfricaWebinar Mar2022 PPT.pdf Author	11191
 Moroccan Capital Market Authority	6938
 Mothepane Kotele The Lesotho Communications Authority	11744
 Mozambican Communications Regulatory Authority	6775
+Mozambican Tax Authority	12855
 Mozambique Communications Regulatory Authority	6771
 Mozambique Regulatory Authority of Communications	3489
 Mozambique Revenue Authority	12218
+Mozambique Tax Authorities	12855
+Mozambique Tax Authority	12855
 Multi Factor Authentication	10721
 Multi-Factor Authentication	4610,1183,4928,510,764
 Multi-factor Authentication	12302
@@ -1653,7 +1657,7 @@ Refugee Appeals Authority	5533,5644
 Refugee Appeals Authority of South Africa	11218
 Regional Council B Yes Local AuthorityA	12325
 Regional and International Organisations The Authority	6946
-Registration Authorities	12360
+Registration Authorities	12360,474
 Registration Authority	2555,2530,5311
 Registration Authority Registration	10822
 Regulation Authority of Mail and Electronic Communications	3764

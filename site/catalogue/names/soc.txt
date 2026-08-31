@@ -45,7 +45,7 @@ Action Plan ESMS Environmental and Social Management	1818
 Action Sociale	10812,1112
 Actos Administrativos da Protecção Social Obrigatória	11433
 Actualité Société Facebook X Pinterest WhatsApp	9620
-Acção Social	5296,2586,2872,18,634,272,18,446
+Acção Social	5296,2586,2872,18,634,272,18,446,645
 Acção Social Escolar Direcção Nacional de Educação	10766
 Adaptive Governance of Social-Ecological Systems	11006
 Adaptive Social Protection	11525,399
@@ -285,7 +285,7 @@ Chepsaiti Farmers Co-operative Society Limited Data	7167
 Chief of Demographics and Social Statistics Section	12330
 Child and Social Welfare	3583
 Child and Social Welfare.361	3583
-Children and Social Protection	2548,1788,1812,6581
+Children and Social Protection	2548,1788,1812,6581,52
 Children and Social Protection MoJ	5244
 Children's Fund UN Unified Social Registry	11855
 Chile's Registro Social de Hogares	11133
@@ -350,7 +350,7 @@ Ciências Socias	414
 Clinical Social Worker Year U.S. Government	4153
 Closing Date Guarantee Environmental and Social Risk	1284
 Co-Production of Science and Social Order	8380
-Coesão Social	11547
+Coesão Social	11547,1240
 Cogent Social Sciences	1248,7423
 Cohésion Sociale	643
 Cohésion Sociale des Régions du Nord du Golfe de Guinée	10876
@@ -376,7 +376,7 @@ Computer Emergency Response Team SOC Security	1000
 Computer Society of Zimbabwe	4528,7984
 Computing and Sustainable Societies	4439
 Comunicacao Social	11045
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193,487,522
 Comunicação Social Artigo	12311
 Comunicação Social Sublinhou	5974
 Comunicação Social. Artigo	12311
@@ -390,7 +390,7 @@ Congo Ministry of Social Affairs	11987
 Congo. Société	1299
 Conselho Municipal de Concertação Social CMVC Conselho	11390
 Conselho Nacional de Comunicação Social	11513,48
-Conselho Superior da Comunicação Social	12311
+Conselho Superior da Comunicação Social	12311,522
 Conselho de Auscultação Social. Disse	5721
 Conselho de Concertação Social	1861
 Consolidation of Social Grants	12448
@@ -514,10 +514,12 @@ Digital Transformation and Social Inclusion	5349
 Digital and Social Media	8999
 Digitally Transformed Economy and Society	11230
 Digitally Transformed Economy and Society The Department	11230
+Direct Social Assistance for Emergency Response	12781
 Direct Social Benefit	1992
 Director General of Rwanda Social Security Board	718
 Director General of Social Affairs and Community Development	8838
 Director of Health and Social Services	12141
+Directorate of Social Protection Coordination	12832
 Direito da Comunicação Social	11358
 Direção Geral de Inclusão Social	11855
 Direção da Proteção Social Solidariedade	8749
@@ -732,7 +734,7 @@ Eskom Holdings SOC Ltd	2307
 Eskom SA Eskom Holdings SOC Limited	11953
 Estonian Society for Laboratory Medicine	11006
 Estonian Society of Family Doctors	11006
-Estratégia Nacional de Segurança Social Básica	12142
+Estratégia Nacional de Segurança Social Básica	12142,639
 Estratégia de Inclusão Social	11562
 Estratégia de Proteção Social	11562
 Eswatini Bank and Swaziland Building Society. Dr	11131,3
@@ -884,6 +886,7 @@ II. Inclusión Social	1701
 III.2.10 Direction Générale des Affaires Sociales	10876
 ILO Social Protection Floors Recommendation	1445,3
 IMPACTOS AMBIENTAIS E SOCIAIS	11390,152
+INAS Social Registry	12781
 INCLUSIÓN SOCIAL Y PAZ SOSTENIBLE	1701
 INFORMATION SOCIETY DAY	6168
 INITIATIVE FOR SOCIAL AND ECONOMIC RIGHTS	3005
@@ -958,12 +961,12 @@ Institute of Social Communication	12201
 Institute of Social Policy and Research	3583
 Institute of Social Studies	6946
 Instituto Nacional da Previdência Social	12142
-Instituto Nacional de Acção Social	12142
+Instituto Nacional de Acção Social	12142,716,1
 Instituto Nacional de Enseñanzas Social	4209
 Instituto Nacional de Fomento da Sociedade da Informação	11317,54,11
 Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
 Instituto Nacional de Previdência Social	12021
-Instituto Nacional de Segurança Social	4075,6697,631,30,116,593
+Instituto Nacional de Segurança Social	4075,6697,631,30,116,593,670
 Instituto Nacional de Seguridad Social	4209,4163
 Instituto de Desenvolvimento Local-Fundo de Apoio Social	11406
 Instituto de Fomento da Sociedade da Informação	2581,8749,507
@@ -1093,6 +1096,7 @@ Legislação Social	11406
 Lei da Comunicação Social	12124
 Lei da Comunicação Social URL	12311
 Lei de Bases da Protecção Social	11467
+Lei de Comunicação Social	12833
 Lei de Enquadramento da Proteção Social	11547
 Leverage Social Protection	12761
 Leverage Social Safety Nets	10964
@@ -1127,6 +1131,7 @@ MEDICINA CRONICAS NO SOCIAL PATRIMONIO	4209
 MEIO SOCIOECONÓMICO	11390
 MFIS Unified Social Registry	11855
 MGDR-2016-01-02-03 Law Society of South Africa	7278
+MILLION FROM THE STRENGTHENING MOZAMBIQUE'S SOCIAL	12780,1
 MINAS Ministère des Affaires Sociales	10964
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINISTERE DE L’ACTION SOCIALE	2966
@@ -1239,6 +1244,7 @@ Mount Soche Hotel	7270
 Mouvement Socialiste Militant	2367
 Move and Wider Society	12227
 Movilización Social	8048
+Mozambique Social Protection and Economic Resilience Project	12780
 Mr. Waleed Hamdi Head of Information Society	1814
 Muhanga Societe Petroliere Muhazi	718
 Mulheres Profissionais da Comunicação Social	11562
@@ -1256,12 +1262,14 @@ Nacional da Sociedade Civil	10750
 Namibia Chapter Internet Society	7628
 Namibian-based Social Enterprise	12450
 National Agency for Economic and Social Inclusion	10991
+National Bank for Economic and Social Development	12816
 National Basic Social Security Strategy	12247
 National Budget Social Protection	12373
 National Building Society	3025
 National Center for Social Pensions	11855
 National Center for Social Security	10812
 National Center of Social Pensions	11855
+National Directorate of Social Assistance	12832
 National Economic and Social Development Board	5096
 National Environmental and Social Assessment and Permitting	1988
 National Environmental and Social Permits	1988
@@ -1280,16 +1288,16 @@ National Social Insurance Authority	4944
 National Social Investment Programmes	11857
 National Social Investment Programs	11857
 National Social Protection Framework	12541
-National Social Protection Institute	12220
+National Social Protection Institute	12220,561,51
 National Social Protection Policy	10963,1,7,14,915
 National Social Protection Policy Framework	3583
 National Social Protection Policy and Strategy	11900
-National Social Protection Strategy	4427,6439,98
+National Social Protection Strategy	4427,6439,98,1817,51
 National Social Protection Strategy II	12715
 National Social Protection Strategy II. Lesotho	5274
 National Social Protection System Project	973
 National Social Register	10093,1764,131,10,22,29
-National Social Registry	10964
+National Social Registry	10964,1816,52
 National Social Registry MIS	10964
 National Social Registry. MIS	10964
 National Social Registry. Percentage	10964
@@ -1452,7 +1460,7 @@ Procedures ESCON Environmental and Social Compliance Note	11863
 Procedures Manual for Environmental and Social Management	1988
 Processo de Constituição de Sociedades Comerciais	11365
 Produce Marketing Organization and Société Coopérative	10841
-Productive Social Action Program	12220
+Productive Social Action Program	12220,561
 Productive Social Safety Net	3604,7529
 Profissionais de Comunicação Social Artigo	12311
 Program Specific ID Cards. Social Protection	12533
@@ -1543,6 +1551,8 @@ Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
 Registre Social Unifié du Cameroun	10985
 Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86
+Regulamento da Segurança Social Arrancou	12812
+Regulamento da Segurança Social Obrigatória	12812
 Regulatory Authority TFS The Future Society	1204
 Reinserção Social	11365
 Reinserção Social MINFIN Ministério	11390
@@ -1578,6 +1588,7 @@ Robotics and Artificial Intelligence Society Bill	4734
 Role of Civil Society	11028
 Role of Civil Society Civil	4528,7984
 Role of Nafeer and Social Networks	6947
+Rosário. PLANO ESTRATÉGICO PARA A SOCIEDADE	12777
 Royal Society	12090
 Royal Society Open Science	12090
 Rubavu Societe Petroliere Bugesera Standard Gas	718
@@ -1659,6 +1670,7 @@ SOCIAL MEDIA USER SOCIAL MEDIA IDENTITIES	12214
 SOCIAL MILITAR MILITAR MUTILADO NACIONAL MILITAR	4209
 SOCIAL OBRIGATÓRIA	11433
 SOCIAL PROTECTION	10759,76,2,1,130,188,714,16,2,1,263,1,10,177,1,11,1,36,99
+SOCIAL PROTECTION AND ECONOMIC RESILIENCE	12780,1
 SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SOCIAL PROTECTION COVERAGE Despite	11998
 SOCIAL PROTECTION D	11156
@@ -1751,6 +1763,7 @@ Secretário de Estado da Acção Social	11378
 Secretário de Estado da Comunicação Social	11378
 Sector Social	4209
 Sector da Comunicação Social	12311
+Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Security Public Perception of Social Protection	10837,1315,188
 Secção da Sociedade da Informação. CAPÍTULO IV GESTÃO	11382
@@ -1767,6 +1780,7 @@ Select Social Sectors Health	3604
 Senior Social Protection Consultant	10763
 Senior Social Protection Economist	12541
 Senior Social Protection Specialist	10763,2,10,1406,231,251
+Senior Social Protection Specialist Borrower	12832
 Senior Social Protection and Economic Inclusion Consultant	10763
 Service Providers CSR Corporate Social Responsibility	6946
 Services Sociaux	643
@@ -1781,7 +1795,8 @@ Serviços da Sociedade de Informação	8309
 Sexual Harassment SIGAS Social Action Management	10768
 Seychelles Social Protection System PforR	734
 Shanghai Planning Office of Philosophy and Social Science	8460
-Shock Responsive Social Protection	12181
+Shock Responsive Social Protection	12181,651
+Shock-Responsive Social Protection. Finances	12832
 Shoogga Socodka	11136
 Si le Registre Social Unique	10910
 Sierra Leon’s Shock Responsive Social Protection	10763
@@ -1821,9 +1836,10 @@ Sociais Adversos Relacionados	11406
 Sociais PADA Projecto de Aceleração Digital de Angola	11413
 Sociais Positivos Relacionados	11406
 Sociais Relacionados	11406
+Sociais SECÇÃO I Saúde Artigo	12785
 Sociais Utilizados	11406
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2,26,2,7
 Social APDCH Aliança	11390
 Social Accountability	12194
 Social Action	10763,5,7,1080
@@ -1831,6 +1847,7 @@ Social Action Centers	11395
 Social Action Fund	10775
 Social Action Grant for Elderly	2928
 Social Action Management Information System	10768
+Social Action Policy and Strategy	12779
 Social Affairs Minister	3073,7898
 Social Affairs USD United States	11960
 Social Affairs and Humanitarian Action	11924
@@ -2020,12 +2037,13 @@ Social Pensions	11855,69,15
 Social Performance Management	10967
 Social Performance Task Force	10965
 Social Policy	9349,2120
+Social Policy Borrower	12832
 Social Policy Options	2307
 Social Progress	12356
 Social Progression	12448
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344
 Social Protection Act	10775
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Baseline	11469
@@ -2057,10 +2075,11 @@ Social Protection System Project	11855
 Social Protection System for Human Capital and Resilience	10768
 Social Protection Toolbox	11133
 Social Protection Transformation Project	12440
-Social Protection and Economic Resilience Project	12220
+Social Protection and Economic Resilience Project	12220,560,52
+Social Protection and Economic Resilience Project Operation	12832
 Social Protection and Jobs	10763
 Social Protection and Jobs Global Practice	11924,617
-Social Protection and Jobs Global Practice Eastern	10768
+Social Protection and Jobs Global Practice Eastern	10768,2013
 Social Protection and Jobs Policy and Technical Note	10985
 Social Protection and Jobs Responses	10763
 Social Protection and Labor	10964
@@ -2255,17 +2274,18 @@ Sociedad de Información de Guinea Ecuatorial	975
 SociedadEstrategia Nacional de Banda Ancha Cyprus	11529
 Sociedade	2816,1270,5997,664,6,4,1,613,8,3,14,1,35,769
 Sociedade Anónima Nestas	10757
-Sociedade Civil	15,2801,7936,817
+Sociedade Civil	15,2801,7936,817,1254
 Sociedade Civil Organizada Sociedade de Cabo da Guiné-Bissau	11569
 Sociedade Civil Organizada X X	11569
 Sociedade Civil. Artigo	15
 Sociedade Geral	11490
 Sociedade Global da Informação	795
+Sociedade Globalizada da Informação	12777
 Sociedade Inteligente	11396,1
 Sociedade Inteligência	6895
 Sociedade Interbancaria de Mocambique S.A	12270
 Sociedade Interbancária	11933,22
-Sociedade Interbancária de Moçambique	5140,29,1293,1945,3863
+Sociedade Interbancária de Moçambique	5140,29,1293,1945,3863,544,34
 Sociedade Luanda	7882
 Sociedade Marroquina de Saúde Digital	5020
 Sociedade Menongue	4294
@@ -2280,17 +2300,17 @@ Sociedade Super	11396,1
 Sociedade Sábado	11429
 Sociedade Técnica de Obras	7381
 Sociedade Unipessoal	10753,4
-Sociedade da Informação	15,780,1639,382,4154,3777,624,8,14,3,1
+Sociedade da Informação	15,780,1639,382,4154,3777,624,8,14,3,1,1380
 Sociedade da Informação. O PDN	11396,1
 Sociedade de Cabo da Guiné-Bissau	11545,7,17
 Sociedade de Cabos da Guiné-Bissau	11555
-Sociedade de Informação	13,782,10587,163,318,78,24
+Sociedade de Informação	13,782,10587,163,318,78,24,812
 Sociedade de Informação EPE	11909
 Sociedades	4209,6544,682,583
 Sociedades Anónimas Simplificadas	11372
 Sociedades Comerciais	10755,610,92
 Sociedades Cooperativas	4209
-Sociedades Financeiras	6462
+Sociedades Financeiras	6462,6391
 Sociedades Operadoras de Sistemas	10755
 Sociedades Petroleras	4209
 Sociedades Pluri-pessoal	10753
@@ -2505,6 +2525,7 @@ Strategic Environmental and Social Assessment	2889,715
 Strategic Plan for Information Society	12161
 Strategy. Department of Social Development	11188
 Strengthening Digital Social Protection	12370
+Strengthening Mozambique's Social Protection System MDTF	12832
 Strengthening the National Social Protection Project	10768
 Strengthening the National Social Protection System Project	424,549,9795,607,20
 Strengthening the Recipient’s Social Protection Systems	11855

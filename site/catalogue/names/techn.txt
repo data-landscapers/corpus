@@ -247,6 +247,7 @@ Beijing Orbital Twilight Technology Co	9816
 Belgium Technical Participation	11916
 Benefits of Technology Neutral Spectrum Licences	10856
 Benin Telecom S.A. and Huawei Technologies Co	54
+Beyond Technicality	12830
 Beyond Technology	11940
 Biden Information Technology Beijing Co Ltd	8285
 Billion Technological Innovation Fund	3218
@@ -1368,7 +1369,7 @@ Information Technology and Media	4583
 Information Technology and Social Communication	2411
 Information Technology for Development	1248,3184,4697,1597
 Information Technology. International Journal of Innovations	11265
-Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188
+Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204
 Information and Communication Technologies Act	22,761,1943,1,186
 Information and Communication Technologies Authority	783,6469,1966,812,1618
 Information and Communication Technologies Commission	9970
@@ -1664,6 +1665,9 @@ Making Technology Work for Malawi UK FCDO	262
 Making and Governing of Digital Technology	11028
 Malawi University of Science and Technology	2816,1742,1293,1563,4764,62
 Malawi University of Science and Technology MZUNI Mzuzu	12241
+Maluana Science and Technology Park	12786
+Maluana Science and Technology Park. Despite	12786
+Maluana Science and Technology Park. Emerging	12786
 Manage Technology Addiction	12214
 Managing Director of Barnksforte Technologies Limited	11915
 Managing Director of OKTO Technologies	3690
@@ -1769,6 +1773,7 @@ Ministry of Public Technologies	7548
 Ministry of Science and Technology	761,10374,1221
 Ministry of Science and Technology Permanent Secretary	8294
 Ministry of Science and Technology Role and Function	12356
+Ministry of Science and Technology and Higher Education	12786
 Ministry of Technical and Higher Education	2339
 Ministry of Technical and Vocational Education	11905
 Ministry of Technologies	7548
@@ -1796,6 +1801,7 @@ Monitoring of Emerging Digital Technologies	6707
 Moonlight Technologies	10184
 Moyenne Entreprise NTIC Nouvelles Technologies	11944
 Moyenne Entreprise PTF Partenaire Technique	11944
+Mozambique's Science and Technology Policy	12786
 Muehlbauer High Technology International	1210
 Muehlbauer High Technology and Veridos Identity Solutions	1210
 Muhoko Technology	12478
@@ -1803,6 +1809,7 @@ Multi Dimensions Technology Ltd	3862
 Multi Dimensions Technology Nig Ltd	3862
 Multi-Sector Technical Commission	5114
 Mwetana Consulting and Technology Group	4283
+MyRide Technologies	12844
 Myrmidon Technology Solutions	12478
 MzansiXchange. Distributed Technical CapacityA	11222
 N Mobile Technologies Coverage	3862
@@ -1857,10 +1864,12 @@ National Cloud Technical Guideline and National Digital	11338
 National Commission for Science and Technology	1554,2885
 National Commission of Science and Technology	1154
 National Company for Information Technology Development	6403
+National Company of Science and Technology Parks	12786
 National Council for Science and Technology	12358
 National Data Governance and Emerging Technologies	6516,15
 National Data Governance and Emerging Technologies Council	6516,3,273
 National Directorate of Information Technology	6858
+National Directorate of Science and Technology	12819
 National Emerging Technologies Centre of Excellence	1965
 National Emerging Technologies Centre of Excellence Role	12356
 National Financial Inclusion Technical Committee	940
@@ -2203,7 +2212,7 @@ Science And Technology	899
 Science Technology Park	11863
 Science and Elementary Technology	12411
 Science and Research Technical Advisory Committee	5036
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -2218,6 +2227,7 @@ Science and Technology In Phase II	899
 Science and Technology Minister Prof Adolf Mkenda	10196
 Science and Technology National Development Strategy	1554
 Science and Technology Park	4561
+Science and Technology Parks National Corporation	12786
 Science and Technology Policy	6133
 Science and Technology Policy ICT Short Term	6133
 Science and Technology Policy The Kenya Kwanza	6133
@@ -2451,7 +2461,7 @@ Technecultura	4734,5993
 Technecultura Meta	10727
 Technext	9112,1393
 Technext24	8852
-Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12
+Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45
 Technical ACTC	12364
 Technical AI Governance	5276
 Technical Acceptance	12364
@@ -2491,7 +2501,7 @@ Technical Capacity and Skills	5244
 Technical Capacity and Skills Data	5244
 Technical Certification	5466
 Technical Clearance	5994
-Technical Commission	9227,1540
+Technical Commission	9227,1540,2051
 Technical Committee	1284,6264,539,280,174,63,909,1888,462,42,71,265,154,58,168
 Technical Committee The Secretary	12453
 Technical Committee and Bureau	4103
@@ -2791,6 +2801,7 @@ Technologies Tuberculosis Data	10784
 Technologies UK FCDO	1090
 Technologies UNESCO	7548
 Technologies and Data Advances	11133
+Technologies and Higher Education	12786
 Technologies and Technologies	7548
 Technologies for Continental Integration	5825
 Technologies of Choice	10726
@@ -2811,7 +2822,7 @@ Technologique	12,3663,8568
 Technologique CSLP Cadre Stratégique de Lutte	12
 Technologiquement	4325
 Technologiste	7670
-Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53
+Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111,19,3,21,1,10,10,3,19,4,21,4,11,1,18,67,77,16,13,1,15,29,1,5,4,20,66,1,28,8,14,4,1,1,12,3,4,19,16,4,12,12,5,34,9,20,5,42,8,3,24,85,1,12,7,14,53,25
 Technology Acceptance Model	5349,2672,109,2810,987
 Technology Acceptance Model and Diffusion of Innovation	8671
 Technology Acceptance Model and Internet Self-Efficacy	11927
@@ -2988,10 +2999,11 @@ Technology and Digital Transformation Pillar	11791
 Technology and From Connectivity	12512
 Technology and Green Technologies	4450
 Technology and Health	9560,437
-Technology and Higher Education	2473,1741,5184,36
+Technology and Higher Education	2473,1741,5184,36,3352
+Technology and Higher Education of Mozambique	12786
 Technology and Infrastructure	7182
 Technology and Innovatio	12675
-Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4
+Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94,15,77,150,43,98,90,223,130,1,10,6,3,1,1,6,2,10,1,10,2,9,14,1,7,4,4,20
 Technology and Innovation Act	2709,1644
 Technology and Innovation Conference	5601
 Technology and Innovation Create Innovation Fund	1161
@@ -3013,8 +3025,11 @@ Technology and Innovation Nthati Moorosi	10292
 Technology and Innovation Nthati Mootosi	8801
 Technology and Innovation Office	5249
 Technology and Innovation Outlook	7548
-Technology and Innovation Policy	4528,3020,1977
+Technology and Innovation Parks	12786
+Technology and Innovation Parks for Sustainable Development	12786
+Technology and Innovation Policy	4528,3020,1977,3261
 Technology and Innovation Policy UB	12544
+Technology and Innovation Policy and Strategy	12786
 Technology and Innovation Policy. INTIC	10300
 Technology and Innovation Recommendations	1154
 Technology and Innovation Report	226,12143
@@ -3022,10 +3037,13 @@ Technology and Innovation STIP	12544
 Technology and Innovation Salima Bah	9077
 Technology and Innovation Salima Monorma Bah	6063
 Technology and Innovation Section	7529
+Technology and Innovation Strategy	12786
 Technology and Innovation Strategy for Africa	789,1025,5183,5678
+Technology and Innovation System	12786
 Technology and Innovation Technologie	1214
 Technology and Innovation and Digital	644
 Technology and Innovation and Economic Diversification	5276
+Technology and Innovation for Development Section	12786
 Technology and Innovation of South Africa	6480
 Technology and Innovation' and EUR	1465
 Technology and Innovation. Milestones	11940

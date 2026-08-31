@@ -191,7 +191,7 @@ Chef du Service	10712
 Chef du Service Matériel	10876
 Chef du Service des Etudes	10712
 Chef-lieu	2342
-Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2,681,78,53
+Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2,681,78,53,1226,41
 Chefe da Casa Civil	2581,1566,2390,103,4753,15
 Chefe da Casa Militar	4147,7274,156
 Chefe da Divisão de Documentação	11473
@@ -262,7 +262,8 @@ Cheli and Peacock Limited Data Controller INST-893019F0BBD	7167
 Cheltenham	9616
 Cheltenham. Yoon	4432
 Chema-Chema	12567
-Chemane	4180,2151,204,243,2448,913,2,159,1,1038,439,323
+Chemane	4180,2151,204,243,2448,913,2,159,1,1038,439,323,685
+Chemane. O PCA	12808
 Chemba	2868
 Chembo Sumbwe	6484
 Chemical	1988,787,1112,8502
@@ -415,6 +416,7 @@ Emerging Technologies Checklist. Checklist. Technologies	7548
 Emissão de Cheques	11403
 Enfouissement des Déchets de Chebelly. Par	4402
 Eng. Dennis Chepkwony	10397
+Eng. Lourino Chemane	12810
 Enseignant Chercheur	2966
 Environmental and Social Screening Process and Checklists	1988
 Eskinder Mesfin Cherinet	4766
@@ -482,7 +484,7 @@ Les Confidences De Pape Cheikh Diallo	4960,62,2035
 Les Larmes De Pape Cheikh Diallo	4960,62,2035
 Lingjiao Chen	5682
 Lourino Alberto Chemane	2784,32,7323
-Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988,439,323
+Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988,439,323,698,10,31
 Lourino Chemane and Eugénio Alberto Macumbe	4214
 Lourino ChemaneChairman	11439
 Lydia Cheruto	12297
@@ -553,6 +555,7 @@ PROVINCES ET CHEFS-LIEUX REGION CHEFS-LIEUX DRENA	10847
 Palais Royal du Chef de Canton de Tahoua	9567
 Pape Cheikh Diallo	4960,62,2035
 Par Salif D. Cheickna	9028,1897
+Para Chemane	12809,31
 Pay and Checkers	6996
 Paystack Checkout and Zap	6848
 Philip Chen	9128
@@ -564,10 +567,10 @@ Pria Chetty Research ICT Africa	6512
 Prior Security Check	12185
 Procure Check	11240
 Prof. Chemane	11113
-Prof. Doutor Eng. Lourino Chemane	7736,2404,300
+Prof. Doutor Eng. Lourino Chemane	7736,2404,300,2368,22
 Prof. Doutor Eng. Lourino Chemane. Na	10140
 Prof. Doutor Engº. Lourino Alberto Chemane	2784
-Prof. Doutor Lourino Chemane	9694
+Prof. Doutor Lourino Chemane	9694,3136
 Prof. Dr. Eng. Lourino Chemane	10141,160,812
 Project Cheetah	12568
 Pvt Ltd Stand Land Chegutu CBD	4896
@@ -591,7 +594,7 @@ Samuel Chepkonga	6787
 Screening Checklist Review Form	1988
 Seasonal Malaria Chemoprevention	11586
 Security Check Points	2113
-Segundo Lourino Chemane	10140
+Segundo Lourino Chemane	10140,2669
 Senate Majority Leader Aaron Cheruiyot	11115
 Senate Majority Leader Aaron Cheruiyot and Minority	9545
 Serser Chelulei	4631

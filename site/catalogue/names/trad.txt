@@ -485,7 +485,7 @@ Minister for Trade	4359,642,4930
 Minister of Economy and Trade	3826,1438,2178,1771,266
 Minister of Economy and Trade New Libyan	3841
 Minister of Foreign Affairs and International Trade	9761
-Minister of Foreign Trade	5086,6940
+Minister of Foreign Trade	5086,6940,777
 Minister of Foreign Trade and Export Promotion	2131,1682,1639
 Minister of Foreign Trade and Minister	12026
 Minister of Industrialisation and Trade	3714
@@ -804,7 +804,7 @@ Trade Unions and Employers	11280
 Trade Verification System	11134
 Trade Worldwide Information Network	6369
 Trade and Cooperation Agreement	1243
-Trade and Development	226,735,303,2863,241,3180,3170,123,128,910,8,266,1,9,42,136,203,130
+Trade and Development	226,735,303,2863,241,3180,3170,123,128,910,8,266,1,9,42,136,203,130,112
 Trade and Development AfDB African Development Bank	10835,3,130,902,16,466,1,135
 Trade and Development Bank	8472
 Trade and Development Canada	1651
@@ -974,8 +974,10 @@ UK Trade and Cooperation Agreement	1243
 UK-Southeast Asia Trade Digitalisation Pilots	10718
 UN Trade And Development	250,814
 UN Trade and Development	7548,1267
+UNCTAD United Nations Trade and Development	12786
 UNCTAD. Trade Finance Supply	10718
 UNECA African Trade Policy Centre	1356
+UNITED NATIONS CONFERENCE ON TRADE	12786
 US International Trade Administration	6519
 US Trade Representative	5366,896
 US Trade and Development Agency	955,1329,1,2931,6141

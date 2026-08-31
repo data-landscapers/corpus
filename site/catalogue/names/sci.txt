@@ -106,6 +106,7 @@ Centres for Disease Control CSIR Council for Scientific	396
 Chair of Data Science	3987
 Chapter Zimbabwe National University of Science Technology	1154
 Charge of Science and Technology	6997
+Chief of Science	12786
 China Aerospace Science and Technology Corporation	9816
 China’s Academy of Military Sciences	8510
 Citizen Science	5246
@@ -133,7 +134,7 @@ Commissioner for Science and Digital Economy Dr Frank	10229
 Communication Sciences	7886
 Communication Sciences and Techniques	11658
 Community and Health Sciences Faculty	8022
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Information Systems	10060
@@ -321,6 +322,7 @@ Humanities Social Scien1c5e	1154
 Humanities and Social Science Research Ethics Committee	8022
 Humanities and Social Sciences	1599,10726
 Humanities and Social Sciences Communications	9128,2012,16
+IASP International Association of Science Parks	12786
 IASP International Association of Science Parks ICAO	2775
 ICPC’s Marine Scientific Adviser	3513
 IGI Global Scientific Publishing	5349,1599,2181
@@ -403,6 +405,8 @@ MALI ET DE LA RECHERCHE SCIENTIFIQUE	12
 MCTES Ministry of Science	4214
 MINISTRY SCIENCE	10889
 MIT International Science and Technology Initiatives	11909
+MOSTIS Mozambique's Science	12786
+MSTHE Ministry of Science	12786
 Mahlatse M. Shekgola Department of Information Science	8021
 Major MSc Computer Science Short Courses	12361
 Malawi College of Health Sciences	12253
@@ -412,6 +416,9 @@ Malawi University of Science	10227
 Malawi University of Science and Technology	2816,1742,1293,1563,4764,62
 Malawi University of Science and Technology MZUNI Mzuzu	12241
 Malawi. Glob Health Sci Pract	10881
+Maluana Science and Technology Park	12786
+Maluana Science and Technology Park. Despite	12786
+Maluana Science and Technology Park. Emerging	12786
 Management Association Science Granting Councils Initiative	1554
 Management Science	8130
 Management Sciences	9237
@@ -447,11 +454,13 @@ Ministry of Higher Education and Scientific Research	4762,1985,146,4055
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
 Ministry of Higher and Tertiary Education Innovation Science	4528
-Ministry of Science	2473,4007,4300
+Ministry of Science	2473,4007,4300,2006
 Ministry of Science and ICT CIFAR	11135
 Ministry of Science and Technology	761,10374,1221
 Ministry of Science and Technology Permanent Secretary	8294
 Ministry of Science and Technology Role and Function	12356
+Ministry of Science and Technology and Higher Education	12786
+Ministry of Sciences	12786
 Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Ministry of Technology and Science M&E	12356
@@ -461,12 +470,15 @@ Ministry of Technology and Science. Relevance	4528
 Ministry of Technology and Science. The Ministry	12356
 Mission Contact Us Department of Computer Science	12361
 Mozambique's Ministry of Science	9398
+Mozambique's Science	12786
+Mozambique's Science and Technology Policy	12786
 Mozambique. Glob Health Sci Pract	11596
 Muhimbili University of Health and Allied Sciences	1261,7353,3009
 NACOSTI National Commission for Science	2775
 NASA's Planetary Science Division	8787
 NCST National Commission for Science and Technology NRIS	12240
 NEPAD Office of Science and Technology	12675
+NSTIS National Science	12786
 NTV and Uganda's Minister of Science	6258
 NYAN TO SPECIAL SCIENTIFIC MEETING	10581
 Namibia University Of Science	12478
@@ -481,8 +493,10 @@ National Academies of Sciences	12265
 National Commission for Science	2709,4839,3699,338,646
 National Commission for Science and Technology	1554,2885
 National Commission of Science and Technology	1154
+National Company of Science and Technology Parks	12786
 National Council for Science and Technology	12358
 National Deep Science Institute	4126
+National Directorate of Science and Technology	12819
 National Ethics Committee of Life Sciences and Health	10919
 National Forensic Science Authority	1988
 National Institute for Science	9582
@@ -599,6 +613,8 @@ SOUTH AFRICAN OPEN SCIENCE POLICY	5246
 SOUTH AFRICAN OPEN SCIENCE POLICY Science	5246
 STEM Science	1264,2862,8386
 STEM Science Technology Engineering and Mathematics TCAs	12399
+STI Science	12786
+STIPS2023 Science	12786
 SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE	12
 Santé Publique IST Information Scientifique	12
 School of Humanities and Social Sciences	10780
@@ -617,7 +633,7 @@ SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -653,7 +669,7 @@ Science and Innovation	1614,5218
 Science and Public Policy	12090
 Science and Research Technical Advisory Committee	5036
 Science and Resources	11135
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9,121,33
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -668,6 +684,7 @@ Science and Technology In Phase II	899
 Science and Technology Minister Prof Adolf Mkenda	10196
 Science and Technology National Development Strategy	1554
 Science and Technology Park	4561
+Science and Technology Parks National Corporation	12786
 Science and Technology Policy	6133
 Science and Technology Policy ICT Short Term	6133
 Science and Technology Policy The Kenya Kwanza	6133

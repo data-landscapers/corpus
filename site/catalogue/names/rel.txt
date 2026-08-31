@@ -12,6 +12,7 @@ ANCHOR RELATIONSHIP NETWORK LIMITED Data Controller	7167
 ANY OTHER RELEVANT INFORMATION DECLARATION	2709
 APA Reliance	1228
 ARMP. Relation	10829
+ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Estatisticas	12862
 ASSUNTOS CONSTITUCIONAIS E RELIGIOSOS Menu	12156
 ATITUDES E COMPORTAMENTOS RELACIONADOS COM VIH	10777
 AVAILABILITY AND RELIABILITY OF DIGITAL SERVICES	12389
@@ -127,7 +128,7 @@ Complaints Relating	12201
 Comportamentos Relativos	10777
 Connectivity Reliable	12240
 Consolidação Final Relatório Final Consolidado	11448
-Constitutional and Religious Affairs	4545,2335
+Constitutional and Religious Affairs	4545,2335,5937
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Constraints Related	5677
 Contacts Media Relations Office Global Affairs	9275
@@ -430,6 +431,7 @@ Legislation Interpretation Relevance Compliance	1988
 Legislation Interpretation Relevance Compliance The Gender	1988
 Legislação Relatório	11933
 Lei Uniforme Relativa	10755
+Lei de Liberdade Religiosa	12795
 List of Relevant CR	10775
 List of Relevant CR and ID Legislation	10765,10
 Local Communities Cultural Heritage Relevant Financial	1284
@@ -773,7 +775,7 @@ Relationship Manager Inquiry for Actual Knowledge	11233
 Relationship Managers	11233
 Relationships	1777,7460
 Relativa	9543
-Relativamente	1215,1100,501,1478,1694,340,374,117,76,49,1831,726,1251,5,3,6,11,593,17,169,13,8,324,117
+Relativamente	1215,1100,501,1478,1694,340,374,117,76,49,1831,726,1251,5,3,6,11,593,17,169,13,8,324,117,826
 Relative	582,781,3609,18,2769,3085,2,15,108,226,689,1,10,58,53,153,1,45,41,105,4,28,37,67
 Relative Citation Ratio	2518
 Relative Education Qualification	11180
@@ -786,7 +788,7 @@ Relativistic Cryptography	9698
 Relato	11365
 Relatorio	574
 Relatorio de Regulacao	1526
-Relatório	13,154,577,51,636,1,714,1,669,50,380,1217,1,6286,10,627,34,25,2,4,4,81,20,5,15,5,316,123
+Relatório	13,154,577,51,636,1,714,1,669,50,380,1217,1,6286,10,627,34,25,2,4,4,81,20,5,15,5,316,123,775
 Relatório Anual	2866,8599
 Relatório Anual da OMS	10776
 Relatório Censo Populacional	11422
@@ -1005,7 +1007,7 @@ Relies	3073
 Religion	1876,3203,5733
 Religion News Service	6231
 Religion News Service and New York Times	6231
-Religiosos	12156
+Religiosos	12156,675
 Religious	1877,1169,8083,63,724,269
 Religious Affairs	4126
 Religious Freedom	4154,11,2

@@ -8,6 +8,8 @@ BOLDATA SYSTEMS LIMITED Data Processor INST-40149976A33	7167
 BOLDPLUS PLATFORMS LIMITED Data Controller INST-265456FD439	7167
 BOLDSTEP VENTURE LIMITED Data Controller INST-50543677498	7167
 BOLDSTEP VENTURE LIMITED Data Processor INST-50543677498	7167
+BOLETIM DA REPÚBLICA	12773,1
+BOLETIM DA REPÚBLICA PUBLICAÇÃO OFICIAL	12772,1,1
 BOLETIM OFICIAL	11519,25
 BOLETIM OFICIAL DA REPÚBLICA DA GUINÉ-BISSAU	11530
 BOLETIM OFICIAL Quinta-feira	11518
@@ -31,6 +33,7 @@ Benin Bermuda Bhutan Bolivia Bonaire	11470
 Benjamin Bol Mel	3583,1
 Beyon Money To Bolster Digital Payments	5322
 Bhutan Yes Broadband Master Plan Bolivia	11529
+Body BOLETIM DA REPÚBLICA	12777,8
 Bol Mel	3583
 Bol Mel-affiliated	3583
 Bol Mel-associated	3583
@@ -57,7 +60,7 @@ Boldnet Internet Solutions Authorisa	3386
 Bole International Airport	9031
 Bole-Megenagna	4806
 Bolesti	10780
-Boletim	10772,3
+Boletim	10772,3,2000
 Boletim Estatístico de Construção	9441
 Boletim Informativo	167,10583
 Boletim ODINES	11453
@@ -66,10 +69,11 @@ Boletim Oficial	1251,1,1,1,1,1,86,747,1103,1219,8,597,427,441,687,4947,1,1,7,1,3
 Boletim Oficial da República da Guiné-Bissau	11569
 Boletim PIB	11447
 Boletim da Justiça	10750,1
-Boletim da República	576,219,2071,995,413,895,1801,77,1196,415
+Boletim da Repùblica	12808
+Boletim da República	576,219,2071,995,413,895,1801,77,1196,415,4114,1,1,5,3,1,6,34,30,1
 Boletim da República I Série	2437,1,428,2303,1293,508
 Boletim da República I Série. Disponível	2816
-Boletim de Nascimento	10756,9,7,3
+Boletim de Nascimento	10756,9,7,3,2086
 Boletim de Nascimento. Ou	10772
 Boletim de Registo de Nascimento	10749
 Boletins	10753

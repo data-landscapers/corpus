@@ -20,6 +20,7 @@ Article V	1914
 Assertion V	1009
 Attachment V	12500
 Authority.300 V. Government	3583
+Body SUMÁRIO A V I S	12783
 Book V	3193
 Braun V. Teaching	12231
 CAPÍTULO V	576,2943,699,6537,706,67,783
@@ -34,6 +35,7 @@ CAPÍTULO V DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11467
 CAPÍTULO V Deveres	6462
 CAPÍTULO V Disposições Finais	11359,27
 CAPÍTULO V EXERCÍCIO DE ATIVIDADES CADASTRAIS	11901
+CAPÍTULO V Estatística Artigo	12785
 CAPÍTULO V Fundo de Segurança Cibernética Artigo	6970
 CAPÍTULO V GESTÃO DE DADOS	549
 CAPÍTULO V Gestão	2866
@@ -48,10 +50,10 @@ CAPÍTULO V REGIMES ESPECIAIS DE APLICAÇÃO	3519
 CAPÍTULO V SINAIS E MENÇÕES	794
 CHAPITRE V	436,10400
 CHAPITRE V DU REGISTRE NATIONAL DES	10813
-CHAPTER V	11517
+CHAPTER V	11517,1254
 CHAPTER V CRYPTOGRAPHY PROVIDERS Register	11179
 CSIRT Nacional. SUBSECÇÃO V Operadores de Infra-estruturas	6970
-Capítulo V	1701,9054,782
+Capítulo V	1701,9054,782,1247
 Central Bank. PART V General	12528
 Chapitre V	1231,4676,5673
 Chapitre V Commission	308
@@ -82,7 +84,7 @@ E V BAPTIE	11272
 E-Government Infrastructure Phase V Export-Import Bank	1150
 E-Government Infrastructure Project Phase V	1283
 E. H. and V. Singel	10
-E. P. A V I S	2866,2303
+E. P. A V I S	2866,2303,7684
 EGI Phase V	1089,194
 Effectiveness Article V	1867,8901
 Effectiveness Article V IBRD	1867
@@ -183,6 +185,8 @@ Platform-Led Finance SECTION V	11138
 Poder Executivo. CAPÍTULO V IDENTIDADE DIGITAL	11461
 Practice SECTION V	11138
 Project Implementing Effectiveness Article V	10768
+Quadro de Interoperabilidade de Governo Electrónico A V	12774
+Quadro de Interoperabilidade. CAPÍTULO V Disposições Finais	12774
 R. V	10763
 Risk Category V	9123
 Rural V	10847
@@ -200,9 +204,9 @@ SECÇÃO V MEDIDAS DE SEGURANÇA	14
 SECÇÃO V MEDIDAS DE SEGURANÇA Artigo	14
 SECÇÃO V PRESERVAÇÃO DA SOBERANIA	10747
 SECÇÃO V REGISTO	11430
-SUMÁRIO A V I S	795
+SUMÁRIO A V I S	795,11987,7
 Secretary Ministry for Defence Mr. Ephraem V	11134
-Section V	1638,6139,2988,10,363,279
+Section V	1638,6139,2988,10,363,279,1369
 Section V Dépouillement	17
 Section V.- Modalités	11139
 Sections V	11233
@@ -359,6 +363,7 @@ V. PAG	10876
 V. PERFORMANCE OF STATE-OWNED ENTERPRISES	12598
 V. PND	10876
 V. PNF	10876
+V. POLICY GUIDING PRINCIPLES	12779
 V. PRÉSENTATION DES RÉSULTATS LIÉS AUX	10876
 V. Pilier	10914
 V. Policy	6832

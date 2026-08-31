@@ -874,9 +874,10 @@ Julaya	515,10427,1
 Jules Hervé Yimeumi	2459
 Jules Tapsoba	5351,4871,350
 Julgamento	9399
-Julho	2365,451,703,88,539,128,332,35,528,1256,37,336,146,22,4,21,3,1,4,81,35,3,48,79,65,28,2,395,147,63,55,3,51,3,65,37,84,65,1,76,106,2,50,51,64,17,70,134,85,196,66,275,613,157,157,322,5,2,15,5,5,1,248,327,2,1,3,1,2,1,1,1,2,5,2,4,11,2,7,6,6,14,3,10,2,1,7,1,5,21,2,1,2,1,34,1,6,21,8,32,91,117,223,59
+Julho	2365,451,703,88,539,128,332,35,528,1256,37,336,146,22,4,21,3,1,4,81,35,3,48,79,65,28,2,395,147,63,55,3,51,3,65,37,84,65,1,76,106,2,50,51,64,17,70,134,85,196,66,275,613,157,157,322,5,2,15,5,5,1,248,327,2,1,3,1,2,1,1,1,2,5,2,4,11,2,7,6,6,14,3,10,2,1,7,1,5,21,2,1,2,1,34,1,6,21,8,32,91,117,223,59,693,13,6,23,19,15,7
 Julho Havendo	6970
 Julho Health Center	12266
+Julho Mostrando-se	12853
 Julho. A PCTI	2816
 Julho. ANG	8744
 Julho. ASSEMBLEIA DA REPÚBLICA Lei	12311
@@ -884,6 +885,8 @@ Julho. Art	4274
 Julho. Artigo	11396
 Julho. Conteúdo	11396
 Julho. Na	2816
+Julho. Salim Valá	12842
+Julho. Segundo	12848
 Julho.ACC	8675
 Julia	10829
 Julia Clark	10714,51,10,202
@@ -912,6 +915,8 @@ Julienne	1892
 Julienne UWAMBAJIMANA Leontine MUKANTWALI UMUGWANEZA Devotha	12445
 Juliet	10704
 Juliet Kyinyamatama	12095
+Juliet Munro	12856
+Juliet Munro. The Minister	12856
 Juliet Nsubuga	2798
 Juliet Umeh	8288,1
 Juliette Ally	1652
@@ -1071,21 +1076,25 @@ June-2025	1973,734,898,1626
 June-2026	2781
 June-July	1642,10263
 Jung Kook	7253
-Junho	14,1,152,263,365,731,1290,50,86,141,44,284,168,14,671,937,580,671,63,12,13,18,17,10,15,4,3,2,21,62,7,32,19,59,28,48,75,196,144,743,722,624,35,125,932,258,1,2,1,2,1,1,13,2,5,6,57,521,2,1,1,3,9,1,1,6,2,3,4,9,6,16,4,1,2,5,14,2,3,17,1,5,9,32,17,5,1,4,248,223,101
+Junho	14,1,152,263,365,731,1290,50,86,141,44,284,168,14,671,937,580,671,63,12,13,18,17,10,15,4,3,2,21,62,7,32,19,59,28,48,75,196,144,743,722,624,35,125,932,258,1,2,1,2,1,1,13,2,5,6,57,521,2,1,1,3,9,1,1,6,2,3,4,9,6,16,4,1,2,5,14,2,3,17,1,5,9,32,17,5,1,4,248,223,101,658,5,3,42,2,11,1,10,2
 Junho A Constituição da República de Angola	11365
 Junho Assembleia Nacional	15
 Junho Assembleia Nacional A Assembleia Nacional	15
 Junho Assembleia Nacional Artigo	15
 Junho Assembleia Nacional Sumário Das Comunicações	15
-Junho Havendo	6462
+Junho Havendo	6462,6323
 Junho Mostrando-se	6462
 Junho de Conflitos	10753
 Junho- Lei de Bases	10755
 Junho. A PENSC	795
+Junho. ARTIGO	12853
 Junho. Apesar	3603
+Junho. Art	12782
 Junho. Complementando	4146
+Junho. Esta Lei	12784
 Junho. Lei	12311
 Junho. O Regulamento	11795
+Junho. Segundo	12842
 Junia Kaindjee	12475
 Junie	6907,4283,23,338
 Junio	758,3451,5334
@@ -1159,7 +1168,7 @@ Jurnal Kependidikan	2093
 Jurnal Mantik	4432
 Juros	11435,97,486
 Jurídica	11518
-Jurídico	539,10909
+Jurídico	539,10909,1334
 Jurídicos	539,8719,2178
 Jurídicos. Resolução	539
 Jus Sanguinis	10765,10
@@ -1374,7 +1383,7 @@ Justine Lacey	11006
 Justine Phiri	7778
 Justinho	10762
 Justisa	11586
-Justiça	438,101,713,1,1,1,693,106,31,1,1,1,493,235,137,95,559,667,141,1,1,1,854,24,128,239,58,267,72,107,370,77,26,101,78,125,22,4,25,315,744,577,927,1192,1,1,1,635,48,25,18,5,46,7,3,2,5,15,7,17,315,38,75,25,80
+Justiça	438,101,713,1,1,1,693,106,31,1,1,1,493,235,137,95,559,667,141,1,1,1,854,24,128,239,58,267,72,107,370,77,26,101,78,125,22,4,25,315,744,577,927,1192,1,1,1,635,48,25,18,5,46,7,3,2,5,15,7,17,315,38,75,25,80,656,56
 Justiça Algorítmica	2816
 Justiça Chega	10751
 Justiça Digital	10782
@@ -1382,7 +1391,7 @@ Justiça João Manuel Neto	10750
 Justiça Luanda	5272
 Justiça de São Tomé	3048
 Justiça. A Lei	9158
-Justiça. ARTIGO	539
+Justiça. ARTIGO	539,12236
 Justiça. Artigo	6462,5439
 Justiça. Edição Nº	10750
 Justiça. Joana Rosa	5424
@@ -1427,6 +1436,7 @@ LA JUSTICE	8321
 LA JUSTICE Le Conseil	5826,2495
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135
 LEI QUE ALTERA O REGIME JURÍDICO	10756
+LEI QUE ESTABELECE O REGIME JURÍDICO	12784
 LEI SOBRE O REGIME JURÍDICO	11384
 LESLEY KUFANDADA Jul	2888,32,354,504,1444,877,6,100,680,129,293,115
 LPF. PROCEDURES FOR REGISTRATION OF JUDICIAL	12338
@@ -1489,6 +1499,7 @@ MINISTERE DE LA JUSTICE	2048
 MINISTERIO DE JUSTICIA	4209
 MINISTRA DE JUSTIÇA INAUGURA CENTRO REFORMULADO	11540
 MINISTRO O Ministério da Justiça	10750
+MINISTÉRIO DA JUSTIÇA	12862
 MINISTÉRIO DA JUSTIÇA E DOS DIREITOS	10750,1,1,1
 MINJUSDH Ministério da Justiça	10765,10
 MISAU Ministry of Health MJCR Ministry of Justice	4214
@@ -1508,6 +1519,7 @@ Malawi Economic Justice Network Executive Director	5595
 Malawi Judiciary	12174
 Malawi's Ministry of Justice	3678
 Malawi. Transforming How Justice Is Delivered	8286
+Mansour Mohammed Ali Al Juwaied	12803
 Mar Apr May Jun Sep Oct	11953
 Marang Junior Secondary School	5295
 Mariam Jubril	9879
@@ -1537,7 +1549,7 @@ Minister Léon Juste Ibombo	3676,87,14,936
 Minister for Constitution and Legal Affairs Juma Homera	9778
 Minister for Justice	3352
 Minister for Justice and Constitutional Affairs	3331,727,2972,234
-Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75
+Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75,404
 Minister of Justice Online	12459
 Minister of Justice and Constitutional Affairs	3026,4421
 Minister of Justice and Constitutional Development	11227,43,20
@@ -1561,10 +1573,10 @@ Ministries of Justice and Digital Transition	3052
 Ministries of Justice and Health	11586
 Ministries of Posts and Telecommunications and Justice. All	5994
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
-Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721
+Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721,1357
 Ministry Justice	12674
 Ministry of Foreign Ministry of Territorial Security Justice	10812
-Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39
+Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305
 Ministry of Justice Foreign Affairs	1777
 Ministry of Justice MOH	12338
 Ministry of Justice Ministries	1161
@@ -1587,10 +1599,12 @@ Ministry of Justicex National ID Agency	10812
 Ministry of Law and Justice	12674
 Ministry of Revenues and Ministry of Justice	7909
 Ministério Da Justiça	1252,1,1,1
-Ministério da Justiça	220,956,76,1,1,1,1,798,31,1,1,1,865,239,414,1,808,1,1,1,38,968,3,294,1098,1235,1,2,202,1012,1479,1,1,1,1,11,7,3,615,90,47,4,6,32,471,27,89
+Ministério da Justiça	220,956,76,1,1,1,1,798,31,1,1,1,865,239,414,1,808,1,1,1,38,968,3,294,1098,1235,1,2,202,1012,1479,1,1,1,1,11,7,3,615,90,47,4,6,32,471,27,89,707
 Ministério da Justiça Africana	10750
-Ministério da Juventude	3519,8008,42
-Ministérios da Justiça	4435,6337,765
+Ministério da Justiça. Depois	12863
+Ministério da Justiça. Estes	12863
+Ministério da Juventude	3519,8008,42,1275
+Ministérios da Justiça	4435,6337,765,1325
 Minpostel. Jusqu’ici	2932
 Mithika Linturi and Justin Muturi	9645
 Mme Jumoke Akande	9993
@@ -1653,7 +1667,7 @@ None Primary Junior Senior Higher	11879
 None Second Middle Primary Junior Senior	11879
 O Gabinete Jurídico	167
 O Ministro da Justiça	9271
-O Ministério da Justiça	6060,1997,2693,1,2,726,58,477,26
+O Ministério da Justiça	6060,1997,2693,1,2,726,58,477,26,791
 O Portal da Justiça	2054
 O Princípio da Justiça	11388
 O Regime Jurídico	11901
@@ -1767,12 +1781,13 @@ Promotion of Administrative Justice Act	2307,3226,854,1017,3878,704
 Promotion of Social Justice	2958
 Proposed Data Protection Agency Ministry of Justice	1161
 Protection and Justice Act	12253
-Provedor de Justiça	14,1324,742,6163,415,87,219,1818
+Provedor de Justiça	14,1324,742,6163,415,87,219,1818,2072
 Provedor de Justiça. Estas	10782
 Provedoria de Justiça. Resolução	11365
 Provincial Affairs and Devolution Minister Judith Ncube	9397
 Provincial Delegations of Justice	10765,10
 Provincial Delegations of Justice and Human Rights	10765,10
+Provincial Director of Justice and Labor	12839
 Provincial Justice and Human Rights Delegations	10765,10
 Provincial Treasury Head Julinda Gantana	8564
 Provincial da Justiça	10751
@@ -1816,6 +1831,7 @@ Regime Jurídico da Identificação Civil	10749,7,16
 Regime Jurídico da Instalação	11458
 Regime Jurídico da Transitoriedade	10783
 Regime Jurídico de Acesso	11448
+Regime Jurídico de Protecção de Dados Pessoais	12813
 Regional and Global Frameworks. Ministry of Justice Foreign	1777
 Regulator July-Sept	3518
 Relatório de Diagnóstico Jurídico Institucional	11456
@@ -1875,7 +1891,7 @@ Secretario de Estado de Juventud	1855
 Secretary National Judicial Council	1014
 Secrétariat Juridique	2342
 Sector Juventud	4209
-Sector da Justiça	10749,1,613
+Sector da Justiça	10749,1,613,1422
 Sector da Justiça. Em	10750
 Sector de Geral de Justiça	10750
 Security Operations Centres. JUMOKE LAMBO BABATUNDE	12232

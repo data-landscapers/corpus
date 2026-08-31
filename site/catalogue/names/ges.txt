@@ -18,6 +18,7 @@ BONDOUKOU MANGANÈSE SA Gestion	2342
 BONIKRO GOLD MINE Gestion	2342
 BPM Gestão	11555
 Bestuurde Gesondheidssorg Organisasies	11255
+Body O Instituto Nacional de Gestão	12858
 CAPÍTULO II GESTÃO E COORDENAÇÃO	10754
 CAPÍTULO II Gestão	2866
 CAPÍTULO IV GESTÃO ECONÓMICA	167
@@ -31,6 +32,7 @@ COMPAGNIE MINIÈRE DU LITTORAL Gestion	2342
 CONOMIQUE ET FINANCIÈRE UNE GESTION AMÉLIORÉE	2342
 Cellule de Gestion	10712
 Cellule de Gestion des Marchés Publics	11905
+Centro de Gestão de Tecnologias	12785
 Champions Gestion	2342
 Champions Opportunité de Gestion	2342
 Comissão de Gestão	167
@@ -83,6 +85,8 @@ Entidade Gestora da Rede	11438
 Entidade Gestora de Protecção Social Obrigatória	11433,34
 Entidades Gestoras	11443
 Erzielung von Allgemeiner Gesundheitsabsicherung Digital	904
+Estratégia de Gestão da Dívida	12796
+Estratégia de Gestão de Deslocados Internos	12779
 FLOLEU Gestion	2342
 FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 Finances MGP Mécanisme de Gestion des Plaintes MPA	10876
@@ -204,7 +208,7 @@ Gestor Municipal	10754
 Gestor de Negócios	2816
 Gestor de Projecto	11448
 Gestora da Rede Tecnológica Privativa	11939
-Gestores	11436
+Gestores	11436,1378
 Gestores da Saúde	11453
 Gestores de Componente	11390
 Gestores de Informação Científica	8000
@@ -217,6 +221,7 @@ Gestão Autárquica	9403
 Gestão Cibernética	4218
 Gestão Comercial	10614
 Gestão D G P J Direção	6530
+Gestão De Risco Operacional Ganha Novo	12841
 Gestão Documental	11371
 Gestão Económica	2866
 Gestão Eleitoral Guineense	11561
@@ -235,6 +240,7 @@ Gestão da Implementação	11543
 Gestão da Mudança	11394
 Gestão da Poluição Relevante Os	11542
 Gestão de Acidente	10747
+Gestão de Activos Apreendidos. ARTIGO	12789
 Gestão de Cadastro de Veículos Motorizados	11435
 Gestão de Dados	549
 Gestão de Dados da ANPG	11405
@@ -302,6 +308,7 @@ LAs. GESD	5620
 La Gestion Axée	10712
 La Société de Gestion des Stocks	2342
 Le Contrôle de Gestion	10975
+Lei. II. Na Gestão da Dívida Pública	12796
 Les Comités Techniques de Gestion de Programmes	10712
 Les Gestionnaires	748
 Les Gestionnaires de Données	747,1,1236
@@ -338,6 +345,7 @@ O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 O Estatuto da Entidade Gestora	11457
 O Gabinete de Gestão	6610,1933
 O Gestor Municipal	10754
+O Instituto Nacional de Gestão	12859
 ORGANES D’ADMINISTRATION ET DE GESTION	1186
 Obrigações da Entidade Gestora	11443
 Omnium de Gestion	10821
@@ -416,7 +424,7 @@ Sistema Integrado de Gestão Documental	4294
 Sistema Integrado de Gestão Eleitoral	11893
 Sistema Integrado de Gestão Financeira	10768,15,4
 Sistema Integrado de Gestão SIGFE Financeira	11417
-Sistema Integrado de Gestão Tributária	11371
+Sistema Integrado de Gestão Tributária	11371,1477
 Sistema Integrado de Gestão Tributária Base da Dados	10762
 Sistema Integrado de Gestão Tributária SPFT	11435
 Sistema Integrado de Gestão de Assentos	2688
@@ -432,6 +440,7 @@ Sistema de Gestao de Residuos Solidos Urbanos	574
 Sistema de Gestao de Terras	574
 Sistema de Gestão	10768,613,99
 Sistema de Gestão Autárquica	9403
+Sistema de Gestão da Dívida Pública da Commonwealth	12796
 Sistema de Gestão da Terra	795
 Sistema de Gestão de Aprendizagem	11463
 Sistema de Gestão de Base de Dados	12021

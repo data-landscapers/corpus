@@ -234,7 +234,7 @@ FACEBOOK Sensibilisation	10821
 FACILITAÇÃO DAS TRANSACÇÕES ELECTRÓNICAS	11582
 FACILITIES	4153
 FACILITIES MANAGEMENT	12400
-FACIM	2816
+FACIM	2816,9975
 FACT SHEET	10864
 FACT SHEET Burkina Faso January-	10864
 FACT SHEET KEY INDICATORS ON UPTAKE	12251
@@ -437,7 +437,7 @@ Facilities Leasing Regulations	5872
 Facilities Management	12400
 Facilities Registry	5639,6967
 Facilities-connected	11965
-Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63,81,87
+Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63,81,87,255
 Facility Agreement	7198
 Facility B2-Portfolio	7548
 Facility Bill	266
@@ -447,6 +447,7 @@ Facility GII Gender Inequality Index GPN	10829
 Facility Gap	6266
 Facility ID	12622
 Facility Kipevu Oil Terminal FEC Kenya	12256
+Facility List Updater	12863
 Facility Maternal Mortality Rate	4153
 Facility Neonatal Mortality Rate	4153
 Facility Provider NGO Non-Governmental Organization NKCC	6946
@@ -506,6 +507,7 @@ Factors Influencing The Integration Of ICT	899
 Factors Subject	11924
 Factory Co. Biojules	12256
 Factory Facilities and Equipment	3760
+Factos	12844
 Facts	428,116,1326,5134,2755,1396,580,492
 Facts Date	12689
 Facts First	10661
@@ -759,6 +761,7 @@ M-KOPA Pay-As-You-Go Solar and Digital Credit Facility	211
 M-Pesa Faces Its Adult Future	6603
 MARRIAGE AND DIVORCE FACT SHEET.pdf	12471
 MCCOD FORM USED IN HEALTH FACILITIES	12413
+MFL O Master Facility List	12863
 MIGA Guarantee Facility. Risks	287
 MOR Facebook	12500
 MSMEs. Facilitates	5245
@@ -776,6 +779,11 @@ Management Framework EU Primary Healthcare Facility	3604
 Maputo. Na FACIM	2816
 Market Access and Trade Facilitation	4167
 Market Factors	12445
+Master Facility List	12863
+Master Facility List Módulo de Sincronização	12863
+Master Facility List Updater	12863
+Master Facility List Updater O Master	12863
+Master Facility List. Este	12863
 Master Facility Registry	12141
 Master Facility Registry. Vaccines	1824
 Master Health Facility List	11252,403

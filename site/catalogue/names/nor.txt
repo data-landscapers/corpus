@@ -8,6 +8,7 @@ Aba North	11129
 Abuja North	11857
 Accra North Operational	3386
 Acting North West Regional Education Director	12636
+Actividades de Normalização	12782
 Africa Asia Europe North America South	10718
 Africa North America	5618
 Africa. Nor	9593
@@ -72,6 +73,7 @@ Bungoma North Technical and Vocational College Data	7167
 Business Botswana Northern Trade Fair	12552
 Busongora County North MP	10890
 CAF. Norfund	2234
+CAPÍTULO III Normas Técnicas Moçambicanas ARTIGO	12782
 CENORED Central Northern Regional Electricity Distributor	12399
 CENTRE NORD TX Prom	10847
 CEO of Medusa Norman Albi	3872
@@ -97,7 +99,10 @@ Central and Northern	9398
 Centre Nord	643,6184,4020,28
 Centre- Nord	737
 Cohésion Sociale des Régions du Nord du Golfe de Guinée	10876
+Comissão Técnica de Normalização Sectorial	12782
+Comissões Técnicas de Normalização	12782
 Comissões Técnicas de Normalização Permanente	11381
+Comissões Técnicas de Normalização. ARTIGO	12782
 Comité Régional de Normalisation Financière	9177
 Compute North	11135
 Convergence That Matters for Broader North	5340
@@ -231,6 +236,7 @@ Government of Norway and UNICEF	12198
 Governor of Lunda Norte	9399
 Great Britain and North Ireland	12500
 Great Britain and Northern Ireland United Nations	11765
+Grupos de Trabalho de Normalização	12782
 HEALTH NORMATIVE STANDARDS FRAMEWORK FOR DIGITAL	1009
 HIc Iceland Europe Northern Europe Reykjavik	10840
 Hauts Bassins Nord	737
@@ -267,6 +273,7 @@ Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Insight Northeast Nigeria	6876
 Institut Marocain de Normalisation	9406
 Instituto Angolano de Normalização	11381
+Instituto Nacional de Normalização	12782,33,14
 Instrumentos Normativos Secundários	11448
 Internal North-South	789
 Irlande du Nord	6613
@@ -515,11 +522,11 @@ Norfund. FX	864
 Norfund. WeLight	390
 Norleo Space Investments	10162,37,1
 Norleo Space Investments and Grant Gordon	10162
-Norma	15,11446,850
+Norma	15,11446,850,463
 Norma Ambiental	11390,152
 Norma Angolana	11450
 Norma ISO IEC	11381
-Norma Revogatória	11370,7
+Norma Revogatória	11370,7,1406
 Norma Transitória	576,10857
 Norma Técnica	4274
 Norma de Aplicação	10755
@@ -544,7 +551,7 @@ Normalização	11409
 Normalized Difference Vegetation Index	10763,571
 Normalized Difference Wetness Index and Dry Matter	11334
 Normalized Market	10954
-Normally	6211,4493,258,1096
+Normally	6211,4493,258,1096,759
 Normalmente	1701,1115,9326
 Norman Albi	1213,1162
 Norman Baloyi	2626
@@ -563,6 +570,8 @@ Normas Executivas	11430
 Normas Operacionais	11442
 Normas Técnicas	4274,6481
 Normas Técnicas Ferramentas Exemplos Benefícios Riscos	2816
+Normas Técnicas Internacionais	12782
+Normas Técnicas Moçambicanas	12782
 Normas da Actividade Inspectiva	11452
 Normas de Conduta	11368
 Normativa	1701
@@ -608,7 +617,7 @@ Norte Lunda Sul Malanje Moxico Namibe	10766
 Norte-Centro-Sul	11366
 Norte-Sul	11373,20
 Nortey Street	3386
-North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109
+North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25
 North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
@@ -717,6 +726,7 @@ North Western Western	12431
 North Wollo Zone	3791
 North and Central Africa	9858
 North and Central Africa. Discussions	2627
+North and Centre of Mozambique	12843
 North and Far North	3412,7551
 North and Horn of Africa	11277
 North and South America	1036,5568
@@ -735,6 +745,7 @@ North-Holland	5700
 North-Holland. Stoyan	7886
 North-Kivu	11882,36
 North-South	789,1755,7415,1251,259,629
+North-South Corridor	12804
 North-West	3862,741,4396,751,1091,123,16,5,483
 North-West Province	11281
 North-West University	4448,6888
@@ -788,6 +799,7 @@ Northern Ethiopia European Commission	1066
 Northern Europe	12441
 Northern European	2910
 Northern Guéra Region	10841
+Northern Integrated Development Agency	12779
 Northern Ireland	6866
 Northern Kafue National Park	1988
 Northern Kenya	2324,395,2415,7093
@@ -849,7 +861,7 @@ NorvanReports	8174
 Norvig	2816,4016
 Norvisi Addo	2824
 Norvège	5667,946
-Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524
+Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643
 Norway Global Cybersecurity Index	10764
 Norway MFA	8561
 Norway National Population Register	10714
@@ -869,7 +881,7 @@ Norwegian Agency for Development Cooperation NRP	12175
 Norwegian Centre for Tax Research	10335
 Norwegian Government	12168
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
-Norwegian Refugee Council	2778,1479,2690,872,3022,1386
+Norwegian Refugee Council	2778,1479,2690,872,3022,1386,552
 Norwegian-origin	7921
 Não Aplicável NAS Normas Ambientais	11413
 O Departamento de Normalização	11381
@@ -917,6 +929,7 @@ Regime Normal	12021
 Regime Normativo de Governança	11448
 Regime Normativo de Hospedagem	11448
 Região Norte	11406
+Regulamento de Normalização	12782
 Reino da Noruega	10752
 Resource Plan Nored Northern Regional Electricity	12399
 Royal Norwegian Embassy	4767,7408
@@ -971,6 +984,7 @@ Southern Copperbelt Lusaka Central Western North	12431
 Southern Lusaka Central North Western Luapula	12431
 Southwest Asia and North Africa	12088
 Statistics Norway	12367,46
+Subcomissões Técnicas de Normalização	12782
 Sugar Cane Mkt Borno North East	11857
 Suitable Strategies The North West and North	11998
 Sustainable Development Goals. Nor	11356

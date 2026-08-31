@@ -657,6 +657,7 @@ FB Formule	10876
 FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
 FCDO United Kingdom Foreign	10768
 FDI Foreign	11994
+FDI Foreign Direct Investment	12786
 FIJ Story Forced Contractor Back	7176
 FINANCE COST AND NET FOREIGN EXCHANGE	10793
 FIRC Forum des Institutions de Régulation du Cameroun FISUEL	10975
@@ -796,7 +797,7 @@ For-Tesfaye-Research The East African	8671
 ForEveryChild	12764
 ForPubOfPage	5349
 Forage	2966
-Foram	2816,158,6125,127,1524,2,25,589,21,4,25,5,5,8,8,23,58,24,9,13,8,565,6,42
+Foram	2816,158,6125,127,1524,2,25,589,21,4,25,5,5,8,8,23,58,24,9,13,8,565,6,42,612
 Forbearance	11
 Forbes	388,700,155,1280,1259,894,2480,597,853,201,1396,489
 Forbes Advisor	7278
@@ -818,6 +819,7 @@ Force Majeure	11956,408
 Force Majeure Force Majeure French	12364
 Force Multiplier and Global Conduit	4528,7984
 Force Public Relations Officer	2269
+Forced	12779
 Forced Displacement	10841,23
 Forced Displacement. Justification of Overall Rating of Bank	11924
 Forced Evictions	11285
@@ -857,7 +859,7 @@ Forecasts Division Mr ONANA MANGA Christian	10980
 Forecasts for LTE	236
 Forefront of Environmental Action Across UNDP Namibia	9873
 Forefront of Transformation Videos Rising Up for SIDS	11332
-Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272
+Foreign	7,229,159,2002,62,317,50,87,157,417,96,71,391,81,1,455,359,28,13,262,411,209,544,15,246,268,1,12,598,668,85,539,64,32,107,356,171,23,37,22,20,67,284,107,27,178,403,55,6,42,139,151,2,1,2,54,34,74,171,55,26,142,231,32,1,44,6,36,109,24,52,42,1,45,98,7,25,45,6,272,3,33
 Foreign AI	4528,7984
 Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
@@ -1136,7 +1138,7 @@ Form of Proxy Card	7198
 Form of Proxy US	4896
 Form the National	12356
 Form-feed	10718,3
-Forma	167,382,4620,5597,592,30,61,69,793
+Forma	167,382,4620,5597,592,30,61,69,793,464
 Forma Electrónica	11374
 Forma Jurídica	10753
 Forma da Execução	549
@@ -1259,7 +1261,7 @@ Formação Profissional Básica	10766,653
 Formação Prévia	11361
 Formação de Formadores	10777
 Formação de Professor	11419
-Formação de Professores	10766,653
+Formação de Professores	10766,653,1369
 Formação de Utilizadores	12021
 Formação. Artigo	167
 Formações	11444
@@ -1271,6 +1273,7 @@ Formelle	10875
 Formellement	10965
 Former	1867,121,978,415,1249,50,153,200,284,185,6,460,789,77,569,574,744,164,863,259,437,198,216,18,89,1078,40,143,148
 Former Attorney General and National Assembly Speaker	10042
+Former CEO of The Innovation Hub	12786
 Former Chairman of ZESCO’s Board of Directors	194
 Former Controller and Auditor General Ludovic Utouh	3632
 Former Decomel	11546
@@ -1325,6 +1328,7 @@ Forms of Proxy	4896
 Formula	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,6558,81,387
 Formula Scalable Description Captures	11905
 Formula Scalable Description Supports	11905
+Formuladores de Políticas Públicas	12830
 Formulaire	5983,971
 Formulaire PDF	11934
 Formulaire de Divulgation des Bénéficiaires Effectifs	9339
@@ -1367,7 +1371,7 @@ Fornecedores de Bens	10783
 Fornecedores de IA	3519
 Fornecedores. Os	12018
 Fornecem	2816
-Fornecer	4218,2244,4304,664,13,99
+Fornecer	4218,2244,4304,664,13,99,1320
 Fornecer Parcerias Público-Privadas	1192
 Fornecimento	6172,5200,66
 Fornecimento de Bens	4274
@@ -1481,7 +1485,7 @@ Forum. The Open Consultation	6190
 Forum. WEF	1243
 Forum. Washington	10763
 Forums	5733,3342,583
-Forvis Mazars	6832,745,1929,2,198
+Forvis Mazars	6832,745,1929,2,198,3149
 Forvis Mazars. Financial	9706
 Forward	6355,4438,224
 Forward Africa Leaders Summit	7337
@@ -1859,7 +1863,7 @@ Minister of Foreign Affairs of Côte	9275
 Minister of Foreign Affairs of Nigeria	5499
 Minister of Foreign Affairs. Minister of Foreign Allairs	11517
 Minister of Foreign Affairs. PROCEDURES FOR REGISTRATION	12338
-Minister of Foreign Trade	5086,6940
+Minister of Foreign Trade	5086,6940,777
 Minister of Foreign Trade and Export Promotion	2131,1682,1639
 Minister of Foreign Trade and Minister	12026
 Minister of Investment and Foreign Trade Mohamed Farid	8770

@@ -51,6 +51,7 @@ Banking Sidney Jele Legal	11131,3
 Banking Transportation Maritime Legal Business Research	9750,247
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
 Binding Effect and Legal Hierarchy	3861
+Body Legislação	12794
 Body PROTOCOL ON LEGAL AFFAIRS	12527
 Budget Allocation Reported Expenditure Legal	3583
 Business and Intellectual Property Authority Legislation	3714
@@ -267,6 +268,7 @@ ICT Legal Reform Taskforce	12529
 ICT Legislative Framework	12529
 ID Legislation	10775
 ID. Legally	11124
+IDPs. II. POLICY LEGAL FRAMEWORK	12779
 II. LEGAL FRAMEWORK	10765
 II. Legal	3583
 II. Legal Architecture	11036
@@ -394,6 +396,7 @@ Legacy Support	4130
 Legacy System	7548
 Legacy System Migration and Compatibility Requirements	3861
 Legacy of Impact	11244
+Legais	12791
 Legal	28,208,513,212,1,7,40,152,82,21,20,63,250,33,147,41,49,11,1,60,157,10,1,782,69,81,57,130,71,94,203,3,8,73,36,73,74,111,18,136,1,27,13,35,15,43,41,48,19,53,107,29,6,298,112,29,111,19,220,11,170,132,51,176,15,508,8,9,10,366,119,9,2,172,63,105,193,67,10,48,100,276,55,19,132,258,1,34,23,109,193,44,48,93,24,77,235,73,83,21,12,97,13,44,67,150,74,80,10,47,128,293,255,1,10,18,19,2,5,3,19,3,67,86,9,37,86,1,1,2,5,2,9,5,2,23,2,41,47,7,95,30,151,17,38,194,6,5,51,35,7,4,10,36,1,4,26,122,43,50,13,5,31,47,5,23,2,11,5,6,7,11,22,4,20,70,29,20,2,15,49,52,24
 Legal Access	6432
 Legal Adviser	10079,1897
@@ -469,6 +472,7 @@ Legal Framework for Birth Registration	10822
 Legal Framework for Civil Identification	12161
 Legal Framework for Cooperation	12389
 Legal Framework for Cyberlaws	1243
+Legal Framework for Disaster Risk Reduction and Management	12779
 Legal Frameworks	3,1197,4163
 Legal Genius AI. The Johannesburg High	9968
 Legal Guardian	11180
@@ -724,7 +728,7 @@ Legitimate Interest Pursued	12302
 Legitimate Interests Assessment. WhatsApp	8290
 Legitimation	12337,1
 Legitimation Requirements	12496
-Legitimidade	11374,9
+Legitimidade	11374,9,1390
 Legitimidade Tem	11528
 Legitimisation Through	4258
 Legitimization	12413
@@ -827,7 +831,7 @@ Portal da Legislação Angolana	11358,16
 Presidential and Legislative	11536,665
 Principal Legal Counsel	11863
 Principles Governance Legal Framework Priority Areas	21
-Princípio da Legalidade	11374,14,31
+Princípio da Legalidade	11374,14,31,1355
 Princípio da Presunção da Legalidade	11452
 Privacy Legal	8203
 Privacy Syntegral Legal Practice	6632

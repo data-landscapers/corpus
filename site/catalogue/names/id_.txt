@@ -18,6 +18,7 @@ Angola's ID	1225
 Angolan ID	10775
 Angola’s CR and ID	10775
 Angola’s ID Card	10765,10
+App-based Mobile ID	12834
 Application ID	1920
 Application for National ID	12333
 Application for National ID Correction	12333
@@ -173,6 +174,7 @@ Digital ID Wallet. Working	9147
 Digital ID and AU Data Policy Framework	1243
 Digital ID and CRVS System	12241
 Digital ID and Civil Registration	6539
+Digital ID and Digital Public Infrastructure. Far	12825
 Digital ID and Digital Transformation	1714
 Digital ID and Maisha Integrated Database	12165
 Digital ID and UPI	1354
@@ -458,6 +460,7 @@ ID and SIM	4439
 ID and UGHub	8074
 ID and UNHCR	3597
 ID and UPI. REPUBLIC OF KENYA	12165
+ID de Referência	12788
 ID for Africa	12151
 ID for Africa Proposal. Version	10819
 ID for All	1769,158,394,69,37,20,331,41,1,94,11,116,29,444,228,61,227,37,634,63,12,50,29,230,57,2,181,75,48,45,7,80,298,15,73,236,86,56,27,128,301,208,56,47,32,3829
@@ -700,7 +703,7 @@ Ministry of Information. Margins ID	7013
 Ministry of Interior and Margins ID Group	6941
 Ministry of Justicex National ID Agency	10812
 Missions Article ID	37
-Mobile ID	1278,101,325,165,494,1242,280,29,508,535,19,1,1895,5487
+Mobile ID	1278,101,325,165,494,1242,280,29,508,535,19,1,1895,5487,475
 Mobile ID E-Houwiya	2475
 Mobile ID World	2578,1305
 Mobile ID. Organisé	4957
@@ -898,6 +901,7 @@ SADX and Digital ID	3959
 SDC ID	12420
 SHIPMENT TO LOCAL ID UNIT	10775
 SIDC Smart ID Card SIEM Security	5533
+SIM-based Mobile ID	12834
 SMART ID CARDS AND PASSPORTS	11986
 SRHR ID Number	8604
 SSRN Scholarly Paper ID	961

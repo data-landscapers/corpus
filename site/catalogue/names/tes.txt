@@ -250,9 +250,9 @@ Tesoro Nacional	1701
 Tesoro Público	8153
 Tesoro Público. En	8554
 Tesouraria	11449,452
-Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8,190,330
+Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8,190,330,897,1
 Tesouro Nacional	4218,6534,626
-Tesouro Público	11532,36
+Tesouro Público	11532,36,1228
 TessHcptoEoun	12205
 Tessalit	5380
 Tesseract	2625,648,2414,5083,204
@@ -301,6 +301,7 @@ Testes Recentes de VIH	10777
 Testes de VIH	10760,17
 Testes de VIH Prévios	10777
 Testified	6635
+Testimonial	12771
 Testimonials	12287
 Testimonies	11332
 Testimony	2518

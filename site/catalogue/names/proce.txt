@@ -2093,6 +2093,7 @@ Manage the Tender Procedure	12389
 Managed Business Process Controls	9237
 Mandatory Upload of Electronic Copies of Processes	8978,3085
 Manuais de Procedimentos	11898
+Manual de Procedimentos	12774
 Manual de Procedimentos Internos	11370
 Manual of Procedures	3640
 MappingWordnetsontheflywithpermanentsensekeys. Proceedings	8606
@@ -2269,7 +2270,8 @@ ProCEED	12399
 ProCEED Mini-Grid Project Host	12399
 Proce	972
 Procedam	11363
-Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332
+Procede	12783
+Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332,873
 Procederá	163
 Procedeu-se	11543,26,332
 Procedia	9129
@@ -2279,6 +2281,7 @@ Procedimento Administrativo	11388,45,19,9
 Procedimento Administrativo Conjunto	11388
 Procedimento Geral de Consulta	11518
 Procedimento Inspectivo	11452
+Procedimento Operacional Padrão	12797
 Procedimento Operacional Padrão Nacional	11376
 Procedimento Simplificado	11383
 Procedimento de Aprovação	11430
@@ -2322,7 +2325,7 @@ Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
-Procedure	11,1977,178,141,118,1289,7265,150,52,687,37,396,37,4,7,25,36,121,116
+Procedure	11,1977,178,141,118,1289,7265,150,52,687,37,396,37,4,7,25,36,121,116,208
 Procedure DLR	11905
 Procedure Make	9109
 Procedure Name	12349
@@ -2454,7 +2457,7 @@ Processing of Personal Data	27,12158,364
 Processing of Personal Data Generality	27
 Processing of Personal Data for Private Security	12301
 Processing of Sensitive Personal Data	12185,364
-Processo	576,218,7449,2523,6,11,577,5,11,3,6,2,3,35,27,9,86,8,14
+Processo	576,218,7449,2523,6,11,577,5,11,3,6,2,3,35,27,9,86,8,14,1288
 Processo Actualmente	10772
 Processo Administrativo	11388
 Processo Automático	11566
@@ -2475,6 +2478,7 @@ Processo de Consulta Nacional	11387
 Processo de Definição de Mercados	11430
 Processo de Desenvolvimento	11362
 Processo de Encerramento	12021
+Processo de Ensino	12788
 Processo de Falência	10755
 Processo de Implementação	11448,15
 Processo de Inspecção	11452
@@ -2651,7 +2655,9 @@ Processor of Major Importance. The NDPC	3480
 Processors	1652,1221,988,1177,6918,229,8,109
 Processors and FMCG	11127
 Processors of Major Importance	8078,40,60,3815
-Processos	2228,8525,607,4,88,569
+Processos	2228,8525,607,4,88,569,841
+Processos Administrativos	12774
+Processos Administrativos. ARTIGO	12774
 Processos de Execução Fiscal	11435
 Processos de Negócio	11569
 Processos de Registo	11363

@@ -642,7 +642,7 @@ Urbana Rural Total Chefe	10777
 Urbana Rural Total Entrevistas	10777
 Urbana-Champaign	4734
 Urbanis	11527
-Urbanisation	2079,2330,2386,2096,1569,1909
+Urbanisation	2079,2330,2386,2096,1569,1909,402
 Urbanism	2598,2347,5816
 Urbanism and Cadastre	4064
 Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913,2009,2
@@ -654,6 +654,7 @@ Urbanismo H	11527
 Urbanismo Ministério	11569
 Urbanización	4209
 Urbanización de Terrenos	4209
+Urbanization and Housing	12825
 Urbanization and Infrastructure	718
 Urbanização	11367
 Urbano	1526,9251,755
@@ -670,7 +671,7 @@ Urgences	9339
 Urgencias	4209
 Urgency	7695,1169
 Urgency for Systemic Transformation	11285
-Urgent	1777,1606,5330,410,1741,689,936,7
+Urgent	1777,1606,5330,410,1741,689,936,7,310
 Urgent Call	11417
 Urgent Global Challenges	4430
 Urgent Need	5061,6904

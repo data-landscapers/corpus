@@ -60,6 +60,7 @@ CAPÍTULO I DOS PRINCÍPIOS GERAIS ARTIGO	11513
 CAPÍTULO II PRINCÍPIOS DA ACTIVIDADE INSPECTIVA	11452
 CAPÍTULO II PRINCÍPIOS E GARANTIAS FUNDAMENTAIS	11461
 CAPÍTULO II PRINCÍPIOS GERAIS	11388
+CAPÍTULO II Princípios	12774
 CBS PRINCIPAL SECRETARY	12165
 CBS Principal Secretary State Department for ICT	6432
 CEO of Government Printing Works Ms	2681
@@ -466,6 +467,7 @@ Principais Actividades Planificadas	2816
 Principais Atividades	11538
 Principais Cargos	6568
 Principais Conclusões	10777
+Principais Indicadores de Impacto	12777
 Principais Obrigações	11390
 Principais Razões	10777
 Principais Resultados Os	11416
@@ -588,7 +590,7 @@ Principe de Subsidiarité	9824
 Principes	2739,1828,3003,3266,38,2,37,52,1,173,805,99
 Principia	11517
 Principios	1701
-Principle	3861,1380,4175,741,662,337,361,343,100,225,41
+Principle	3861,1380,4175,741,662,337,361,343,100,225,41,553
 Principle Asset	12006
 Principle Data	3861
 Principle Plan for Heads of Departments	11193
@@ -600,6 +602,7 @@ Principle and Rationale Data	3861
 Principle and Scope	3861
 Principle and Scope Data	3861
 Principle of Data Transfer Without	12185
+Principle of Gender Equity and Equality	12779
 Principle of Lawfulness	3861
 Principles	21,948,251,23,231,119,235,1130,625,45,1,2910,407,1097,561,520,617,332,641,15,90,311,24,25,90,80,90,352,165,187,3,5,15,190,11,18,145,6,139
 Principles Digital Identification System	12146
@@ -640,18 +643,20 @@ Principles of Personal Data Protection	11956
 Principles of Personal Data Protection Article	11956
 Principles-based	8436
 Princípe	6568
-Princípio	14,1,3504,7238,602,6,9,10,4,15,49,9,55,39
+Princípio	14,1,3504,7238,602,6,9,10,4,15,49,9,55,39,1218
 Princípio da Acessibilidade	11419
 Princípio da Adequação Procedimental	11388
 Princípio da Administração Digital	11388,64
+Princípio da Administração Pública	12773
 Princípio da Audiência Prévia	11388
-Princípio da Autenticidade	11419
+Princípio da Autenticidade	11419,1355
 Princípio da Boa Administração	11388
 Princípio da Boa-Fé	11388
+Princípio da Celeridade	12774
 Princípio da Coesão da Administração	11452
 Princípio da Colaboração da Administração Pública	11388
 Princípio da Complementaridade	4146
-Princípio da Confidencialidade	11419
+Princípio da Confidencialidade	11419,1355
 Princípio da Constitucionalidade	11388
 Princípio da Continuidade	11388
 Princípio da Decisão	11388
@@ -666,10 +671,11 @@ Princípio da Inclusão	4146
 Princípio da Inexigibilidade de Documentos Emitidos	11388
 Princípio da Inovação Tecnológica	11419
 Princípio da Integração da Norma Administrativa	11388
+Princípio da Integridade de Dados	12774
 Princípio da Internacionalização	11419
 Princípio da Juridicidade	11388
 Princípio da Justiça	11388
-Princípio da Legalidade	11374,14,31
+Princípio da Legalidade	11374,14,31,1355
 Princípio da Oficiosidade	11452
 Princípio da Oportunidade	11452
 Princípio da Padronização	11419
@@ -678,7 +684,7 @@ Princípio da Participação	11388
 Princípio da Presunção da Legalidade	11452
 Princípio da Presunção de Inocência	11452
 Princípio da Proporcionalidade	4146,7242
-Princípio da Prossecução	11388,64
+Princípio da Prossecução	11388,64,1322
 Princípio da Protecção	11452
 Princípio da Publicidade	11388
 Princípio da Rastreabilidade	11419
@@ -686,20 +692,25 @@ Princípio da Responsabilidade	4146
 Princípio da Responsabilidade Institucional	11419
 Princípio da Simplificação	11388
 Princípio da Subsidiariedade	4146
-Princípio da Transparência	11419
+Princípio da Transparência	11419,1355
 Princípio da Transparência Administrativa	11388
 Princípio da Unificação de Documentos	11388
 Princípio da Urbanidade	11452
 Princípio da Verdade Material	11452
+Princípio de Autenticidade	12774
 Princípio de Auxílio Administrativo	11388
 Princípio de Confidencialidade	11374
 Princípio de Consentimento	11374
+Princípio de Dados Autoritativos	12774
+Princípio de Dados Autoritários	12774
 Princípio de Exactidão	11374
 Princípio de Exclusividade	11386
 Princípio de Finalidade	11374
-Princípio de Transparência	11374
-Princípios	15,524,2277,50,1178,1619,1307,4389,11,1,3,19,13,15,4,13,8,15,86,8,22
-Princípios Artigo	11461
+Princípio de Partilha de Dados	12774
+Princípio de Recolha de Dados	12774
+Princípio de Transparência	11374,1400
+Princípios	15,524,2277,50,1178,1619,1307,4389,11,1,3,19,13,15,4,13,8,15,86,8,22,1196,1,11
+Princípios Artigo	11461,1309
 Princípios Digitais	11393
 Princípios Duração	11569
 Princípios Estratégicos	11379
@@ -857,6 +868,7 @@ United Nations Principles and Recommendations	12151,186,30
 United Nations Principles of Official Statistics	11201
 Updated Set of Principles	3583
 Usave Prince Albert Usave Touwsriver Shoprite	8999
+V. POLICY GUIDING PRINCIPLES	12779
 VALEURS PRINCIPES DIRECTEURS FONDAMENTALES	10712
 Values of Principal	2775
 Values of Principal Domestic Exports1	2775

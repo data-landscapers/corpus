@@ -65,7 +65,7 @@ ARTCLES	4896
 ARTEC	3394,3905
 ARTF-DGE	2436
 ARTHUR GOLDSTUCK	3318,1707,183
-ARTICLE	2465,1107,675,1941,2702,2208,858,571
+ARTICLE	2465,1107,675,1941,2702,2208,858,571,244
 ARTICLE ENQUIRY FEEDBACK	6387
 ARTICLE THE ROLE OF HEALTH INFORMATION	10780
 ARTICLES	2400,39,1,1,1,1,139,165,81,292,300,1479,308,258,41,255,18,1345,145
@@ -84,7 +84,7 @@ ARTIFICIAL INTELLIGENCE	4824,6441
 ARTIFICIAL INTELLIGENCE Cabinet	3760
 ARTIFICIAL INTELLIGENCE STRATEGY	4126,8230
 ARTIFICIAL INTELLIGENCE TRANSVERSAL	1885
-ARTIGO	539,37,2943,7230,616,60,5,1,14,13,3,52,1,4,1,1,7,1,2,39
+ARTIGO	539,37,2943,7230,616,60,5,1,14,13,3,52,1,4,1,1,7,1,2,39,1205,1,7,1,6,64
 ARTISANAT D'ART	10875
 ARTISANAT DE PRODUCTION	10875
 ARTISANAT DE SERVICE	10875
@@ -114,6 +114,7 @@ Activités de Communications Electroniques Article	37
 Address Grievance Article	11956
 Administrador Executivo. Artigo	430
 Administração Pública Artigo	11461
+Administração Pública. ARTIGO	12774
 Administração Pública. Artigo	15
 Administração da Justiça. Artigo	6970
 Administração. ARTIGO	11461
@@ -231,7 +232,7 @@ Arti Dhar	5367
 ArtiCle	11517
 Artic	10813
 Articl	10190
-Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89
+Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89,163
 Article 12.html	6471
 Article B	37
 Article Cairo University Launches Free Program	5322
@@ -364,7 +365,7 @@ Artificial Alignment Proposal Data Protection Act	7548
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
 Artificial Humans	8460
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
@@ -505,13 +506,15 @@ Artificial IntelligenceCloud ComputingCloud	6506
 Artificial IntelligenceDigital	7270
 Artificial Intelligent	1481
 Artificial Neural Networks	2816
+Artificial de Moçambique. Este	12827
 Artificial. Capacidade Institucional	2816
 ArtificialIntelligence	7860,566,934,63,2244
 Artificielle	7403
-Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293
+Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508,3777,2,5,1,1,16,11,575,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,3,1,1,1,1,1,2,2,3,1,2,8,1,4,10,6,5,1,2,3,2,5,2,4,3,3,2,1,3,6,49,2,1,1,8,4,5,5,27,5,8,319,117,293,459,2,1,1,1,2,5,2,1,3,35,30
 Artigo Científico	11385
 Artigos	9799,1637
 Artigos Medicos	4260
+Artigos Médicos	12800,63
 Artikel	11199,2,62
 Artis Bertulis	11540,26
 Artisanal Villages	10980
@@ -568,6 +571,7 @@ Autoridade Reguladora Nacional. ARTIGO	11520
 Autorité de Protection. Article	1231
 Autorité. Article	113,1118
 Autres Entités Publiques. Article	10981
+Aviso. ARTIGO	12853
 BACKGROUND Artificial Intelligence	12675
 BACKGROUND OF THE BILL Artificial Intelligence	11247
 BELLAS ARTES CULTUR	4209
@@ -579,6 +583,7 @@ Bachelor of Arts Degree	6946,4185,3
 Bachelor of Arts Honours	6832
 Bachelor of Arts Social Science Degree	11131,3
 Balanced Legal Framework for Artificial Intelligence	10270
+Banco de Moçambique. ARTIGO	12853
 Banco de Moçambique. Artigo	6462
 Bank AI Artificial Intelligence API Application	7548
 Banque Centrale. Article	10836
@@ -591,6 +596,7 @@ Ben Arthur	1032
 Benin's National Artificial Intelligence and Big Data	6893
 Biennale Artistique	7843
 Big Data and Artificial Intelligence	4762
+Bilhete de Identidade. Artigo	12775
 Bis Article	1231
 Bloomberg LATEST ARTICLES Safety	7343
 Board. Article	8866,1126
@@ -612,8 +618,8 @@ CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739
 CAPÍTULO I DISPOSIÇÕES PRELIMINARES Artigo	11901
 CAPÍTULO I DISPOSiÇÕES GERAIS ARTIGO	11528
 CAPÍTULO I DOS PRINCÍPIOS GERAIS ARTIGO	11513
-CAPÍTULO I Disposições Gerais ARTIGO	11445
-CAPÍTULO I Disposições Gerais Artigo	2866,3596,508
+CAPÍTULO I Disposições Gerais ARTIGO	11445,1329
+CAPÍTULO I Disposições Gerais Artigo	2866,3596,508,5803
 CAPÍTULO II CLASSIFICAÇÃO DOS PRÉDIOS Artigo	11901
 CAPÍTULO II Disposições Penais Materiais Artigo	6970
 CAPÍTULO II ESTRUTURA ORGÂNICA Artigo	167
@@ -623,6 +629,7 @@ CAPÍTULO II TAXAS EM ESPECIAL Artigo	744
 CAPÍTULO III Competências ARTIGO	11458
 CAPÍTULO III DISPOSIÇÕES FINAIS Artigo	752
 CAPÍTULO III LICENÇAS ARTIGO	11520
+CAPÍTULO III Normas Técnicas Moçambicanas ARTIGO	12782
 CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO Artigo	13
 CAPÍTULO III REGIME SANCIONATÓRIO Artigo	15
 CAPÍTULO III RESOLUÇÃO DE CONFLITOS ARTIGO	11520
@@ -633,6 +640,7 @@ CAPÍTULO IX DISPOSIÇÕES FINAIS ARTIGO	3519
 CAPÍTULO V COMUNICAÇÕES ELECTRÓNICAS Artigo	15
 CAPÍTULO V DISPOSIÇÕES COMUNS ARTIGO	11520
 CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14
+CAPÍTULO V Estatística Artigo	12785
 CAPÍTULO V Fundo de Segurança Cibernética Artigo	6970
 CAPÍTULO V PESSOAL E ORGANIGRAMA Artigo	167
 CAPÍTULO VI DISPOSIÇÕES FINAIS Artigo	167,627
@@ -653,6 +661,7 @@ CIBERSEGURANÇA ARTIGO	11461
 CIL. Article	10825
 CIT and Article	12500
 CITE THIS ARTICLE	12090
+CNIA. Artigo	12823
 CNR ARTIGO	11365
 COBE the Memo and Articles	4896
 COMESA Regional Artificial Intelligence	9182
@@ -697,6 +706,8 @@ Chief Executive Officer Rationale This Article	8866
 Chile's National Center for Artificial Intelligence	7151
 China-Gates Foundation Tuberculosis Control Program Article	10784
 Cibernética Artigo	6970
+Cidade de Maputo. Artigo	12823
+Cite This Article	12826
 Civil and Political Rights. Article	10453
 Clara B. Arthur	6075
 Clash Against Future FC Artificial	7814
@@ -706,31 +717,36 @@ Code Pénal. Article	1231
 Code. Article	4420
 Comissão Fundiária Nacional. ARTIGO	11527
 Comissão Nacional de Eleições. ARTIGO	11528
-Comissão Nacional de Inteligência Artificial	2816,7735
+Comissão Nacional de Inteligência Artificial	2816,7735,2272
+Comissões Técnicas de Normalização. ARTIGO	12782
 CommiSSion. Article	11517
 Commission Article	11956
 Common Article	3583
 Company These Articles	3714
 Company's Articles of Association	4896
 Company's Memorandum and Articles of Association	4896
+Competências ARTIGO	12782
 Comunicação Social Artigo	12311
 Comunicação Social. Artigo	12311
-Comunicação. Artigo	15,6955
+Comunicação. Artigo	15,6955,5853
 Comunicações. Artigo	15,2851
 Comunidades. ARTIGO	11514
 Concessão de Asilo ARTIGO	11365
+Conferência Anual de Inteligência Artificial	12823
 Conferência Global de Inteligência Artificial	8630
 Conferência Nacional de Inteligência Artificial	2816
 Congo. Article	7152
 Congolese Academy of Artificial Intelligence	3747,8288
 Connectivity Plan Artificial	8241
 Conseil des Ministres. Article	1231
+Conselho Fiscal. ARTIGOS	12783
 Conselho Nacional de Inteligência Artificial	3519
 Conselho Superior da Magistratura Judicial. Artigo	14
+Conselho Superior de Estatística Artigo	12770
 Conselho de Administração da APD. Artigo	752
 Conselho de Administração da ARN. ARTIGO	11520
 Conselho de Administração. Artigo	13,154
-Conselho de Ministros. Artigo	6970,5341
+Conselho de Ministros. Artigo	6970,5341,512
 Conselho. ARTIGO	11518
 Conselho. Artigo	167
 Consent Article	11956
@@ -875,8 +891,9 @@ Data and Artificial Intelligence	11314
 De la Conciliation Article	37
 De la Protection des Consommateurs Article	37
 Decreto Presidencial. Artigo	13
-Decreto. ARTIGO	11527
-Decreto. Art	576,2290,1408
+Decreto. ARTIGO	11527,1256
+Decreto. Art	576,2290,1408,8500,8
+Decreto. Artigo	12823
 Defining Artificial Intelligence	3651
 Defining and Measuring Artificial Intelligence	11140
 Definition and Interpretation Rationale This Article	8866
@@ -904,6 +921,7 @@ Developed the Draft National Artificial Intelligence	11230
 Developers of Artificial Intelligence Systems	2958
 Development and Use of Artificial Intelligence	2958
 Development of Artificial Intelligence	3233,5273
+Dezembro. ARTIGO	12853
 Dezembro. Artigo	6462
 Digitais Artigo	6970
 Digital Governance and Artificial Intelligence	7017
@@ -920,9 +938,10 @@ Directorate of Artificial Intelligence	4583
 Directorate of Arts	12345
 Direito CAPÍTULO I Disposições Gerais Artigo	6462
 Direitos ARTIGO	539
+Direitos Sobre Acessibilidade Artigo	12785
 Direção-Geral da Pesca Artesanal	11527
 Discover Artiﬁcial Intelligence	11135
-Disposições Gerais Artigo	5169,7142
+Disposições Gerais Artigo	5169,7142,474
 Document. Article	3503
 Downloads Article Details References Addis Standard	8671
 Draft Arab Charter of Ethics for Artificial Intelligence	2958
@@ -959,6 +978,7 @@ ES Artículo	163
 ESTADO DE ARTE DA INTELIGÊNCIA ARTIFICIAL	2816
 ESTADO DE DESENVOLVIMENTO DA INTELIGÊNCIA ARTIFICIAL	2816
 ESTATÍSTICA Artigo	11516
+ESTRATÉGIA NACIONAL DE INTELIGENCIA ARTIFICIAL	12827
 ET DE L’ADEQUATION DES RESSOURCES Article	785
 ETABLISSEMENTS DE MONNAIE ELECTRONIQUE Article	11522
 EU AI Act's Article	9921
@@ -1003,17 +1023,18 @@ Era da Inteligência Artificial. Disponível	2816
 Escola Nacional Superior de Inteligência Artificial	11472
 Estado Artigo	11461
 Estado da Arte da IA	2816
+Estado da Província. ARTIGO	12783
 Estado de Arte da Inteligência Artificial	2816
 Estado de Desenvolvimento da Inteligência Artificial	2816
 Estado de Pressão Arterial	10777
-Estado. ARTIGO	11513,1
+Estado. ARTIGO	11513,1,1260
 Estado. Artigo	13,1,2852,7917,1118
 Estado. Artículo	163,4046
 Estado. CAPÍTULO VII Disposições Finais Artigo	2866
 Estatuto Editorial. Artigo	12311
 Estratégia Brasileira de Inteligência Artificial	2816,703
 Estratégia Continental de Inteligência Artificial	2816,6878
-Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306
+Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306,2272,4,3
 Estratégia PILLER. ARTIGO	11530
 Estratégia de Inteligência Artificial	2816
 Estudo de Arte da IA	2816
@@ -1073,11 +1094,13 @@ Federal Government’s Artificial Intelligence Strategy AI	11135
 Federal Republic of Artificial Intelligence	12512
 Feeder ART Anti-Retroviral Treatment BOYD Bring	34
 Festival Nacional de Arte	4209
+Fevereiro. Artigo	12772
 Finais Artigo	6970,5341
 Finance E ENS ArticleDraft Guidance Note	6998
 Finance E ENS ArticleThird-party Payment Providers	6998
 Finance E ENS ArticleTwo Upgrades	6998
 Finances. Article	1231,606
+Finanças CAPÍTULO I Disposições Gerais ARTIGO	12789
 Finanças. Artigo	11901
 Finland Artificial Intelligence	11135
 Firmin Ayessa Article	5079
@@ -1121,6 +1144,7 @@ Garantia de Articulação Normativa	11448
 General Art. XIV GATS	11154
 General Directorate for Artificial Intelligence. Malawi	4583
 General Members' Meetings Rationale This Article	8866
+General Provisions ARTICLE	12771
 General-Purpose Artificial Intelligence Broad AI	12675
 Generalidades ARTIGO	11365
 Generative Artificial	11227
@@ -1130,6 +1154,7 @@ Generative Artificial Intelligence IA	2816
 Generative Artificial Intelligence-enabled Medical Device	3651
 Gerente de Treinamento de Modelos de Inteligência Artificial	2816
 Germany. Southern Africa Research Foundation for Artificial	2816
+Gestão de Activos Apreendidos. ARTIGO	12789
 GhIPSS CEO Clara B. Arthur	6097
 Ghana's Artificial Intelligence	5227
 Ghana's National Artificial Intelligence	5935
@@ -1248,7 +1273,7 @@ Inteligencia Artificial	3494,4209,1
 Inteligencia Artificial By Marisa Pilar Oyana	7100
 Inteligencia Artificial. En	9318
 Inteligência Artifical	2816
-Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78
+Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11
 Inteligência Artificial A Parceria Global	2816
 Inteligência Artificial Actualmente	2816
 Inteligência Artificial Centrada	2816
@@ -1262,6 +1287,7 @@ Inteligência Artificial da UNESCO	2816
 Inteligência Artificial da Universidade Eduardo Mondlane	2816
 Inteligência Artificial. Além	2816
 Inteligência Artificial. Ao Prof. Doutor Eng	2816
+Inteligência Artificial. Artigo	12823
 Inteligência Artificial. Disponível	2816
 Inteligência Artificial. Em	2816
 Inteligência Artificial. Estas	3519
@@ -1297,9 +1323,11 @@ Judiciais. ARTIGO	539
 Julho. Art	4274
 Julho. Artigo	11396
 Junho Assembleia Nacional Artigo	15
+Junho. ARTIGO	12853
+Junho. Art	12782
 Just Artificial Intelligence	8380
 Justice Article	11956
-Justiça. ARTIGO	539
+Justiça. ARTIGO	539,12236
 Justiça. Artigo	6462,5439
 KEY ACRONYMS AI Artificial Intelligence BI	12240
 KIE- PROVINCIAL TOTAL ARTESANÍA REGIONAL DISCAP	4209
@@ -1336,11 +1364,13 @@ LES ACTIVITES STATISTIQUES PUBLIQUES Article	785
 LLDCs. Artiﬁcial	10844
 LOCALIZAÇÃO Artigo	15
 La Ley de Inteligencia Artificial	3494
+Law. ARTICLE	12771
 Lawful Bases of Data Processing Article	11956
 Lead Artificial Intelligence In North Africa	6326
 Legal Obligation Article	11956
 Legal and Policy Pathways Artificial Intelligence	8747
 Legitimate Interest Article	11956
+Lei Cambial. ARTIGO	12853
 Lei Eleitoral. ARTIGO	11513
 Lei da Iniciativa Nacional de Inteligência Artificial	3519
 Lei da Radiodifusão. Artigo	12311
@@ -1349,7 +1379,7 @@ Lei da Videovigilância. Artigo	549,245
 Lei de Base da Inteligência Artificial	2690
 Lei de Inteligência Artificial	3519
 Lei. ARTIGO	539,10922,67
-Lei. Artigo	549,2317,4104,5341
+Lei. Artigo	549,2317,4104,5341,462
 Lesotho's Artificial Intelligence Policy	12760
 Lesotho. Artificial Intelligence	12675
 Ley. Articulo	163
@@ -1431,6 +1461,7 @@ NEED FOR ADVOCACY ON ARTIFICIAL INTELLIGENCE	12737
 NEWS ARTICLE	7972
 NIS 2 Directive Article 21.html	6471
 NOUS SUR FACEBOOK Apbinfo Articles Récents	9810
+NUIC. Artigo	12775
 Nacional. Artigo	6462
 Names ARTCI	6340
 Namibia’s Artificial Intelligence Strategy Framework	9107
@@ -1584,7 +1615,9 @@ Parquet. Article	37
 Partes. Artigo	2866
 Pavilhão de Artes	11387
 Paying Customers Article	12616
+Payments ARTICLE	12771
 País. ARTIGO	11513
+País. Artigo	12770
 Percolation Leaching for Artisanal Gold Recovery	1554
 Performance Management Data Submission Article	12616
 Performance Measurement and Compliance Article	12616
@@ -1592,6 +1625,7 @@ Personal Purposes Article	11956
 Pesca Artesanal	4209
 PhD-level Artificial Intelligence	5871
 Plataforma Nacional de Serviços Públicos Digitais Artigo	11461
+Plataforma de Inteligência Artificial da ITU	12846
 Platform APC Article Processing Charge ARC	5246
 Poder Executivo. ARTIGO	539,10826,96
 Poder Executivo. Artigo	14,1,152,10616
@@ -1613,6 +1647,7 @@ President Arthur Peter Mutharika	4642,386,2814,1375
 President Professor Arthur Peter Mutharika	5028
 Presidente da República. Artigo	13,154,263,314,8,42,9978,11,613
 Presidente. ARTIGO	11528
+Presidente. Artigo	12823
 Previous Article DPP	4775
 Previous Article Efficient	5595
 Previous Article Experts	4609
@@ -1625,13 +1660,14 @@ Preâmbulo ARTIGO	11569
 Primeiro-Ministro. Artigo	6970
 Principles of Artificial Intelligence Ethics	2958
 Principles of Personal Data Protection Article	11956
-Princípios Artigo	11461
+Princípios Artigo	11461,1309
 Privacy Article	11956
 Privacy E ENS ArticleThe New DPO	6632
 Privacy E ENS ArticleVisitor Data	6632
 Privé Cultivateur Eleveur Artisan Employé de Employé	10847
 Procedimento de Instalação ARTIGO	539
 Proceedings of Directors Rationale This Article	8866
+Processos Administrativos. ARTIGO	12774
 Profissionais de Comunicação Social Artigo	12311
 Programa de Investimento Público. Artigo	10783
 Project Implementing Effectiveness Article V	10768
@@ -1640,6 +1676,7 @@ Projectos. Artigo	10783
 Promise of AI for Zambia Artificial Intelligence	12356
 Promise of Artificial Intelligence	9025,533,1577,175
 Proposed Article	9992
+Proposta da Estratégia Nacional de Inteligência Artificial	12830,16
 Proposta da Lei de Inteligência Artificial	2816
 Proposta de Lei da Inteligência Artificial	11490
 Protecting Future Generations Artificial	2958
@@ -1657,6 +1694,7 @@ Publicações Artigo	12311
 PÚBLICO Artigo	14,10769
 QLGRV SHOR Governo. ARTIGO	11527
 QUALITY OF SERVICE Article	12616
+Quadro de Interoperabilidade ARTIGO	12774
 Quality of Service Network Compliance Article	12616
 Quénia A Estratégia Nacional de Inteligência Artificial	3519
 RANKING SOBRE A INTELIGÊNCIA ARTIFICIAL	2816
@@ -1697,6 +1735,7 @@ Rede Neural Artificial SADC	2816
 Redes Neurais Artificiais	2816
 Regime Sancionatório Artigo	2866
 Regional African School of Artificial Intelligence	7072
+Registo Civil Artigo	12775
 Registo de Dados ARTIGO	539
 Registo' Ptedlâl. ARTIGO	11514
 Registre Article	735
@@ -1705,6 +1744,7 @@ Regulamentação da Inteligência Artificial da União Europeia	2816
 Regulamento EU de Inteligência Artificial	2816
 Regulamento da Inteligência Artificial	2816
 Regulamento da Inteligência Artificial Europeu. Disponível	2816
+Regulamento. ARTIGO	12782
 Regulamento. Artigo	744
 Regulation and Article	576
 Regulation of Artiﬁcial Intelligence	11154
@@ -1721,6 +1761,7 @@ Related Articles of Human Rights	8943
 Reporting Periods Article	12616
 Reports and Articles	7548
 Republic of Ghana National Artificial Intelligence	4126
+Republic of Mozambique. ARTICLE	12771
 Republic of Zimbabwe MINDFUL of Article	12527
 República da Guiné-Bissau. ARTIGO	11513
 República de Angola. ARTIGO	11365
@@ -1728,7 +1769,7 @@ Research Article	8604
 Research Article Assessment	12379
 Research Article Enablers	8602
 Research Article T	8605,1
-Resolução. Art	795,5667
+Resolução. Art	795,5667,6315
 Responsabilidade Artigo	11461
 Responsibilities Article	1214
 Responsible Artificial Intelligence	1814
@@ -1741,6 +1782,7 @@ Rise of Artificial Intelligence	9511
 RjoRok Artículo	163
 Robotics and Artificial Intelligence Nigeria	10133
 Robotics and Artificial Intelligence Society Bill	4734
+Rosário. ARTIGO	12774
 Royaume Article	17
 Rwanda The National Artificial Intelligence Policy	12210
 Rwanda's Data Protection Act. Article	4763
@@ -1755,6 +1797,7 @@ SADC. Artificial	7656
 SANCTIONS ADMINISTRATIVES Article	10825
 SANCTIONS PENALES Article	10825
 SE-Review Articles	12255
+SECÇÃO I Artigo	12770
 SECÇÃO I CONSELHO DE ADMINISTRAÇÃO Artigo	13
 SECÇÃO I DISPOSIÇOES GERAIS ARTIGO	11518
 SECÇÃO I DISPOSIÇÕES GERAIS ARTIGO	11527
@@ -1769,6 +1812,7 @@ SECÇÃO II CONTRAVENÇÕES E MULTAS Artigo	14
 SECÇÃO II DAS TRANSGRESSÕES ESTATÍSTICAS Artigo	11516
 SECÇÃO II DEFINIÇÕES E PRINCÍPIOS Artigo	11516
 SECÇÃO II EXECUÇÃO Artigo	549
+SECÇÃO II Educação Artigo	12785
 SECÇÃO II IA CRÍTICA ARTIGO	3519
 SECÇÃO II OBJECTIVOS ORIENTADORES Artigo	15
 SECÇÃO II PRESTAÇÕES SOCIAIS Artigo	752
@@ -1783,7 +1827,8 @@ SECÇÃO III RESPONSABILIDADE CIVIL ARTIGO	3519
 SECÇÃO IV SECRETARIADO EXECUTIVO Artigo	13
 SECÇÃO V MEDIDAS DE SEGURANÇA Artigo	14
 SEJOUR ARTICLE	2465
-SEN. Artigo	11516
+SEN Artigo	12770
+SEN. Artigo	11516,1254
 SETTLEMENT OF DISPUTES ARTICLE	12527
 SEU ARMAZENAMENTO Artigo	794
 SFEC Article	7346
@@ -1810,14 +1855,17 @@ SUCH AS ARTIFICIAL INTELLIGENCE	1885
 SUPERIOR DE ESTATÍSTICA Artigo	11516
 SUPERVISÃO E FISCALIZAÇÃO ARTIGO	3519
 Sala de Inteligência Artificial	8807
+Sandbox Regulatório de Inteligência Artificial	12830,16
+Sandboxes Regulatórios de Inteligência Artificial	12830
 Sanções Artigo	6970
+Sanções SECÇÃO I Infracções Artigo	12785
 Saudi Data and Artificial Intelligence Authority	2958
 Scientific Research Artificial	2958
 Scope Under Article	10370
 Secretariado Executivo. Artigo	13
 Section Articles License Copyright	12467
 Segurança Artigo	6462
-Segurança. Artigo	6970
+Segurança. Artigo	6970,5853
 Senegal’s ARTP Advances Digital Transformation	4803
 Senior ICT Advisor Mr. Arthur Sichivula	34
 Senior Research Analyst Artificial Intelligence	7334
@@ -1830,6 +1878,8 @@ Setembro. Artigo	6462
 Siasa Premium Articles IDO	9646
 Sierra Leone Advances Artificial Intelligence Agenda	6380
 Signals ARTCI	1873
+Singulares. ARTIGO	12782
+Sistema Estatístico Nacional. Artigo	12770
 Sistema Nacional de Segurança Cibernética Artigo	6970
 Sistema de Gestão de Inteligência Artificial	2816
 Sistema de Gestão de Inteligência Artificial Em	2816
@@ -1844,6 +1894,7 @@ Sistemas de Inteligencia Artificial Excelentísimo	1855
 Sizing the Prize. PwC’s Global Artificial Intelligence	1814
 Smart Co for Technology Projects and Artificial Intelligence	3826
 Snowballing Literature Search Author Name and Article	1248
+Sociais SECÇÃO I Saúde Artigo	12785
 Sociedade Civil. Artigo	15
 Socio-Economic Impact Main Article Content Abstract	8671
 Somali National Artificial Intelligence Centre	7504
@@ -1870,13 +1921,16 @@ Sport and Arts	7432,1705
 Sport and Arts Kangwa Chileshe	7432
 Sports and Arts	9792
 Stanford University Human-Centered Artificial Intelligence	1243
+State Land Fund. ARTICLE	12771
 State of Artificial Intelligence	2816
+State. ARTICLE	12771
 State. Article	11517
 Structure and History The Centre for Artificial Intelligence	11336
 Sub Article	7538,4608,39,41
 Sub- Article	12185,41
 Sub- Articles	12185,41
 Sub-Categoria da Inteligência Artificial A IA	2816
+Subcomissão Nacional de Inteligência Artificial	12823
 Subsector Pesca Artesanal	4209
 Sudanese Data and Artificial Intelligence Authority	3902,681
 Sudan’s Criminal Act and Articles	10334

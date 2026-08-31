@@ -65,6 +65,7 @@ Arquivo de Identificação PAULO PEDRO MIGUEL AUGUSTO	10750
 Arquivos de Identificação Civil	10750,1
 Assistência Técnica BI Bilhete de Identidade BM	11390
 Atos and Idemia	5956
+Atribuir Bilhete de Identidade	12784
 Atribuição de Maritime Mobile Service Identity	11531
 Audio By Carbonatix The National Identification	11020,1
 Authority CNIB National Burkinabe Identity Card	10812
@@ -79,6 +80,7 @@ B. Identity Infrastructure	11138
 B9 National Identification	1765,1383,3772
 BILHETE DE IDENTIDADE DE CIDADÃO NACIONAL	10756
 BILHETE DE IDENTIDADE E SUA IMPORTÂNCIA	10772
+BREVE HISTÓRICO DE IDENTIFICAÇÃO CIVIL	12784
 BRR Barbuda Civil and Criminal Identification	10714
 BRR Belarus Identification Card	10714
 BRR Civil Identification System	10714
@@ -97,7 +99,7 @@ Bhutan National Digital Identity	9135
 Bhutan National Digital Identity Limited	7111
 Bhutan’s National Digital Identity	7111,3563
 Bilhete Identidade Digital	11480
-Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53
+Bilhete de Identidade	220,218,738,1512,842,76,1,437,42,370,255,439,146,106,25,294,265,2,72,9,468,77,26,101,78,18,107,22,29,315,743,1,1,2,53,149,372,768,591,308,130,322,1,1,1,3,9,7,3,2,594,12,21,15,2,4,21,26,7,1,48,49,490,53,664,64,13
 Bilhete de Identidade Bengo	6741
 Bilhete de Identidade CDT	11435
 Bilhete de Identidade Características	10777
@@ -106,9 +108,11 @@ Bilhete de Identidade Digital Fase	11480
 Bilhete de Identidade Integrado	10750
 Bilhete de Identidade Nacional	10750
 Bilhete de Identidade O Presidente da República	10772
+Bilhete de Identidade da República Popular de Moçambique	12784
 Bilhete de Identidade de Cidadão Nacional	10749,7,16
 Bilhete de Identidade. Acrescentou	6944
 Bilhete de Identidade. Apesar	10751
+Bilhete de Identidade. Artigo	12775
 Bilhete de Identidade. Assim	10772
 Bilhete de Identidade. Campanha de Bilhete de Identidade	10753
 Bilhete de Identidade. Conteúdo	10772
@@ -135,7 +139,7 @@ Bilhete de Identidade. VII. OPÇÕES ESTRATÉGICAS	10772
 Bilhete de Identidade. VIII. COMUNICAÇÃO E IMAGEM	10772
 Bilhete de Identidade. Verifica-se	11446
 Bilhete de Identificação	11569
-Bilhetes de Identidade	220,4491,1903,26,101,78,18,158,315,2988,452,22,707
+Bilhetes de Identidade	220,4491,1903,26,101,78,18,158,315,2988,452,22,707,1305
 Bilhetes de Identidade Já Disponíveis	6837
 Bilhetes de Identidade O Ministério da Justiça	10750
 Bilhetes de Identidade. Ainda	10772
@@ -242,6 +246,10 @@ Criminal and Civil Identification	10775
 Cross Functional Identity Group	8203
 Cybersecurity Education Cluster. Identify	1777
 DA IDENTIFICAÇÃO CIVIL E EMISSÃO	10756
+DE IDENTIDADE	12784
+DE IDENTIDADE CIVIL ELECTRÓNICA	12784
+DE IDENTIDADE Com	12784
+DE IDENTIFICAÇÃO CIVIL E DO BILHETE	12784
 DENTIFii Identity Index	1972,5506
 DES Scope System Type Nominal Identifies	7221
 DFS. FACTOR CURRENT IMPACT Identification and KYC	11994
@@ -260,6 +268,7 @@ DIGITAL IDENTITY INTEROPERABILITY FRAMEWORK	1243
 DIGITAL IDENTITY LANDSCAPE	1939
 DIGITAL IDENTITY Post Benin Workshop BLUEPRINT	10819
 DIRECTOR THE NATIONAL IDENTIFICATION AND REGISTRATION	1920
+DIRECÇÃO NACIONAL DE IDENTIFICAÇÃO CIVIL SISTEMA	12784
 DNIRN Direcção Nacional de Identificação	10765,10
 DOI Digital Object Identifier DORA San	5246
 DPI Indicators for Digital Identity Systems	7222
@@ -399,6 +408,7 @@ Dutch Identity Card	10714
 E- Tax Identification Number. Company	5864
 ECOWAS National Biometric Identity Card	4102,6807,1106
 ELECTRONIC AND BIOMETRIC IDENTIFICATION DATA CAPTURE	10816
+EMISSÃO DO BILHETE DE IDENTIDADE	12784
 ETHIOPIAN DIGITAL IDENTIFICATION PROCLAMATION WHEREAS	12146
 ETSI Identity	10819
 EU Digital Identity	4842
@@ -573,6 +583,7 @@ IDEEA	10819
 IDEMIA	1864,488,1015,57,1585,6106,867
 IDEMOC	2989,1664
 IDEMOC National Infrastructure for Spatial Data INAGE	4214
+IDENTIDADE	12784
 IDENTIDADE DIGITAL	11461
 IDENTIDADE I. INTRODUÇÃO	10772
 IDENTIFICA A DATOS	4209
@@ -612,6 +623,7 @@ III. IDENTITY ECOSYSTEM IN ANGOLA	10765
 IN-1 Develop CNI Identify	11857
 INFLUENCING Identity	1939
 INTRODUCTION The National Identity Management Commission	9670
+INTRODUÇÃO A Identificação Civil	12784
 IV. SECTORAL DEMAND FOR IDENTIFICATION	10765
 IV.1.3.1.2.2 Identification	10876
 IV.C Identity Token	10812
@@ -645,7 +657,8 @@ Identi	12214
 Identical	1305,1,1,1,5,1,3,712,1,1,1,5,1,3,2265,1,1,1,5,1,3
 Identidad Digital	10714
 Identidad Electrónica	10714
-Identidade	2816,6583,1353,678,31,19,40
+Identidade	2816,6583,1353,678,31,19,40,1264
+Identidade Civil	12784
 Identidade Digital	2581,8813,67,19
 Identidade Económica	8003
 Identidade Eletrónica	11555
@@ -671,7 +684,7 @@ Identificador-único	11419
 Identificadores	10755,1387
 Identificam-se	11569
 Identificar	167,1534,1115,1402,6529,7,23,6,593,10,1,17,26,19,3,90,27,329
-Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,50,133,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7
+Identification	33,75,128,237,525,7,4,178,27,78,410,76,36,14,2,109,49,69,361,340,325,389,132,47,24,87,163,53,392,363,1005,35,94,57,462,4,149,143,256,775,50,133,6,91,25,56,380,443,509,68,163,1,30,49,339,98,83,195,115,165,2,7,43,11,37,2,5,2,33,13,8,1,15,29,18,37,2,179,23,12,4,38,11,21,4,298,290,12,6,2,23,9,1,16,29,5,12,4,10,20,35,2,103,68,13,26,46,34,4,22,5,41,95,7,336
 Identification Act	1939,3594,539,52,263,125,4664,37,69,291,413,61,7,273,10,30
 Identification Act.I	6196
 Identification Agency OLA Operational Level Agreement	12359
@@ -744,12 +757,14 @@ Identification of Systemic Risks and Vulnerabilities	6938
 Identification. Ce	7713
 Identification. Officials	10899
 Identificationofaresponsiblehealth-	8301
-Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82
+Identificação	15,534,245,1,1643,378,4154,2301,1479,3,1,12,6,5,6,578,4,3,16,2,18,15,11,21,5,2,3,58,47,3,329,3,38,82,754
+Identificação Bancária	12848
 Identificação Biométrica	10754
-Identificação Civil	10750,1,1,20,765,32
+Identificação Civil	10750,1,1,20,765,32,1215,78
 Identificação D G P O G	6530
 Identificação Fiscal	10765,10
-Identificação Tributária	2438
+Identificação Tributária	2438,10364,46,13
+Identificação Tributária. Documentos	12861
 Identificação de Processos	11555
 Identified	236,1238,6376,2089,30,909,139,216,683,40,215
 Identified Gender Barriers and Proposed Actions	969
@@ -921,6 +936,7 @@ India's Modular Open Source Identity Platform	2804
 Information System ID Identity Document NIIS	11986
 Inkomoko. Refugee Identification Documents	12297
 Innovation NIDA National Identification Agency NID	12328
+Instituição de Identificação Civil	12784
 Institution Name Institution Identifier C319 SCHEDULE	5687
 Integrate Digital Identity	3743
 Integrated Civil Registration and Integrated Identity Card	10775
@@ -961,6 +977,7 @@ Key Operational Challenges Identified	5677
 Kiribati National Integrated Identity Management System	10714
 LEI DA IDENTIFICAÇÃO OU LOCALIZAÇÃO CELULAR	549
 LEVELS OF ASSURANCE Digital Identity	10819
+LUZ DA NOVA LEI DE IDENTIFICAÇÃO	12784
 Lack of Identity	12373
 Lack of Identity Documents	12227
 Lagos Identity Project	3101
@@ -1007,6 +1024,7 @@ Minimal Identity	10775
 Minister Identification Registration Bill	11986
 Ministry of Home Affairs’ National Identity and Civil	12663
 Minor Digital Identification	12146
+Mobile Digital Identity And Electronic Signature	12834
 Mobile Identification	3722,7053
 Mobile Services and Proof of Identity	10714,108
 Mobile-enabled Economic Identities for Smallholder Farmers	10819
@@ -1020,6 +1038,7 @@ Mongolia Montenegro Mauritius National Identity Scheme	10714
 Morocco Second Identity and Targeting for Social Protection	1571,421
 Morpho. The Electronic Voter Identification Devices	11115
 Mozambique's National Directorate of Civil Identification	1800
+Mt. O Bilhete de Identidade	12784
 Muehlbauer High Technology and Veridos Identity Solutions	1210
 Multi-Tenant ABIS for Secure Identity Checks Congo	11987
 Mustapha Iderawumi	6572,177
@@ -1040,6 +1059,7 @@ NIMC Identity Management Standards Annexure	11952
 NIN Naira Value of Trades Counterparty Identity	4602
 NIN National Identification Number	11952
 NIST’s Digital Identity Guidelines	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294
+NOVO BILHETE DE IDENTIDADE	12784
 NPR. Identifying	11986
 NSDS II. Identifier	12013
 Namespace Identifier	6666
@@ -1066,7 +1086,7 @@ National Digital Identity Platform	1770
 National Digital Identity Programme	12165
 National Digital Identity Strategy	1360
 National Director of Identity	10775
-National Directorate of Civil Identification	1782,4552,1345,325
+National Directorate of Civil Identification	1782,4552,1345,325,4830
 National Directorate of Identification	10765,10
 National Electronic Identity	4441
 National Electronic Identity Card	1780
@@ -1173,6 +1193,7 @@ National Identity for Development	4257
 National Identity of Chairman	736
 National Integrated Identity Management System	9856,966,184,1133
 National Integrated Identity Management System United	12138
+National Mobile Digital Identity And Electronic	12834
 National Mobile Digital Identity and Electronic Signature	11120
 National Office for Identification	4788
 National Office of Civil Status and Identification	3604,1060,6251
@@ -1219,7 +1240,7 @@ Número de Identificação Predial Nas	11901
 Número de Identificação Social	10754
 Número de Identificação da Segurança Social	10749
 Números de Identificação Predial	11384
-O Bilhete de Identidade	5988,4784,674,131
+O Bilhete de Identidade	5988,4784,674,131,1207
 O Bilhete de Identidade de Cidadão Nacional	10749,7
 OAU Official Identity Management Policy JCPS	11986
 OCR'd. Identification	10898
@@ -1379,6 +1400,7 @@ SECÇÃO III FACTURAÇÃO DETALHADA E IDENTIFICAÇÃO	15
 SIM CARD Subscriber Identity Module SMMEs	12395
 SIM Subscriber Identification Module Figure	582
 SIM Subscriber Identification Module SIRC Sistema	10765,10
+SISTEMA ELECTRÓNICO DE IDENTIFICAÇÃO CIVIL	12784
 SOCIAL IMPACTS Identify	1988
 SOCIAL MEDIA USER IDENTITIES	12214
 SOCIAL MEDIA USER SOCIAL MEDIA IDENTITIES	12214
@@ -1403,7 +1425,7 @@ Service IAM Identity and Access Management	6432
 Serviço Provincial de Identificação Civil	4505
 Serviço de Identificação	6741
 Serviços de Identificação	10772
-Serviços de Identificação Civil	2953,7819
+Serviços de Identificação Civil	2953,7819,2012
 Singapore National Digital Identity	7981
 Singapore's National Digital Identity	11952
 Single Digital Identification Law	5399
@@ -1411,10 +1433,12 @@ Single Digital Identification Number	5539
 Single Digital Identification System	2914,501
 Single Digital Identity	4067
 Single Identification Number	12218
+Sistema Electrónico de Identificação Civil	12784
 Sistema Integrado de Identificação Nacional	2953
 Sistema Nacional de Identificação	1252,1,1,1,1,6210,4100,327
 Sistema Nacional de Identificação Civil	1252,1,1,1,830,1,1,1,2327,1,1,1,2153
 Sistema da Identidade Digital	11480
+Sistema de Identificação Civil	12784
 Smart Africa Digital Identity Working Group	10819
 Smart Africa Working Group for Digital Identity	10819
 Smart Identity Card Yes BRR Bulgaria	10714
@@ -1468,6 +1492,7 @@ TRENDS IN IDENTIFICATION FOR DEVELOPMENT Figure	10714
 TRENDS IN IDENTIFICATION FOR DEVELOPMENT REFERENCES	10714
 Tabled National Identification Legislation	11986
 Tabling of National Identification Registration Bill	11986
+Tackle Civil Identification Deficit	12817
 Tanzania's National Identification Authority	3027
 Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173
 Tax Identification Numbers	9570
@@ -1485,6 +1510,7 @@ Technology ID Identity Card IDA International	2775
 Technology ID Identity IDP Internal Displaced	969
 Technology NIDA National Identification Agency	718
 Technology and Subject Independent Identity Registry Allows	1009
+Tecnologias de Identificação	12810
 Telecom Identity Risk Management System	5880
 Temporary Identity Document	10962
 Thales Digital Identity	10822

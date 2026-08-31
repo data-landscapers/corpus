@@ -15,7 +15,7 @@ Arts Competition	10776
 Asbestos Report. Competent Person	1988
 Authority and Competi-	5872
 Autoridad de Competencia	1701
-Autoridade Competente	6970,3785,827
+Autoridade Competente	6970,3785,827,1192
 Autoridade Competente da IA	3519
 Autoridade de Avaliação Ambiental Competente	11542
 Autoridades Competentes	15
@@ -97,7 +97,7 @@ Compensation of Batswana Ex-Miners	12597
 Compensation of Consumption of Taxes	236
 Compensation of Employees	2775,4920,3529,61,701
 Compensação	5169,5586,1146,117
-Compete	13,2,524,37,218,1644,428,1281,127,2263,433,2206,1571,7,1,28,193,384,10,3,1,10,35,6,5,3,10,2,4,3,5,1,3,57,1,1,7,1,14,40,292,7,14,6,32,226,152,35,43
+Compete	13,2,524,37,218,1644,428,1281,127,2263,433,2206,1571,7,1,28,193,384,10,3,1,10,35,6,5,3,10,2,4,3,5,1,3,57,1,1,7,1,14,40,292,7,14,6,32,226,152,35,43,381,4,1,7,1,2,38
 Compete Amazon	10588
 Competence	4762,6507
 Competence Licence	1988
@@ -203,13 +203,14 @@ Competitividade Digital. Equipar	11898,123
 Competitors	961,2516
 Competição Justa Promovemos	9432
 Competição Saudável	11555
-Competência	539,255,9960,604,1,4,10,6,2,2,47,11,4,13,62,62,436
+Competência	539,255,9960,604,1,4,10,6,2,2,47,11,4,13,62,62,436,752
 Competência Compete	11358,543
 Competência Para	11373
 Competência Para Execução	11373
 Competência Sancionatória	11430
 Competência da Administração Municipal	11458
-Competências	13,2,152,2649,50,1281,71,1445,1307,4389,2,20,1,2,4,6,36,19,12,55,2,9,1
+Competências	13,2,152,2649,50,1281,71,1445,1307,4389,2,20,1,2,4,6,36,19,12,55,2,9,1,1246,8,1,6,34
+Competências ARTIGO	12782
 Competências Compete	11527
 Competências Digitais	11440,115
 Competências Digitais. Luanda	11440
@@ -221,7 +222,7 @@ Competências O CSE	11516
 Competências Transversais	2816
 Competências Técnicas	2816,8625,7
 Competências da Autoridade Reguladora	4274
-Competências da Entidade Reguladora	576
+Competências da Entidade Reguladora	576,12198
 Conselho de Competitividade	11898
 Conservação de Cadernos de Recenseamento Compete	11528
 Consumer Compensation Framework	9112
@@ -424,6 +425,7 @@ Shifting Competition	5700
 Sistema Financiero Competitiva	1701
 Sistema Integrado de Compensação Interbancária	11933
 Sistema de Compensação	11370
+Sistema de Compensação Electrónica	12814
 Sistema de Compensação de Cheques	11465
 Sistemas de Compensação	11933
 Skills and Competencies The Consultant	12686

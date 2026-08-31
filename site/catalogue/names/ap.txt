@@ -223,7 +223,7 @@ API. Every	6603
 API. User Documentation	5665
 APICULTURE VENTURE LIMITED Data Processor INST-627494A7670	7167
 APIDE	6835
-APIEX	8246
+APIEX	8246,4602
 APIEx	10823
 APIFA	9333
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
@@ -380,11 +380,12 @@ APPROPRIATIONS ON ITS OVERSIGHT VISIT	11289
 APPROVAL	11184,1390
 APPROVAL Erkin Mamadaliev	10963
 APPROVAL OF PROMOTIONS	718
-APPROVAL Task Team Leader	3456
+APPROVAL Task Team Leader	3456,9376
 APPROVALS	12364
 APPROVED	1228,3439,229,1527
 APPROVED BY THE BOARD	6539
 APPROVES ITS REGULATION	12296
+APPROVES THE NATIONAL PAYMENT SYSTEM LAW	12847
 APPROVISIONNEMENTS	998
 APPROX	11863
 APPROXIMATE	5625
@@ -528,6 +529,8 @@ Apapa Area Command	8278
 Apapa Port	10620,69
 Aparatos	9543
 Aparatos Diversos	4209
+Aparelho	12789
+Aparelho de Estado	12770
 Aparición	1701
 Apart	36,270,652,32,258,13,666,501,497,56,565,37,175,434,22,682,136,366,19,76,103,106,553,33,211,102,50,580,64,149,102,132,73,156,207,346,145,635,11,447,615,506,169,205,385,378,8,42,84,95,23,48,113,3,41
 Apart Without Change	7471
@@ -557,7 +560,7 @@ Aper-	8606
 Aperson	5687,6862
 Apertura	1701,2508
 Aperçu	643,3464,4784,1926,9,21,1097
-Apesar	1215,1080,20,116,385,518,559,2678,227,128,955,279,333,208,475,50,764,1397,19,45,10,2,60,8,12,18,1,7,8,55,266,244,48
+Apesar	1215,1080,20,116,385,518,559,2678,227,128,955,279,333,208,475,50,764,1397,19,45,10,2,60,8,12,18,1,7,8,55,266,244,48,611,13,48
 Apesar da IA	2816
 Apete	11653
 Apetrechamento	15,2801,8722
@@ -590,17 +593,19 @@ Aplicaciones	1701
 Aplicaciones Móviles	10361
 Aplicación	1701,2508
 Aplicam-se	11433,10,18
-Aplicando	7881
+Aplicando	7881,4893
 Aplicar	167,11207,168
 Aplication Express BI	11435
 Aplicativo	11435
 Aplicativo CONFIN	4209
+Aplicativo Online	12791
+Aplicativo Online O Instituto Nacional de Tecnologias	12791
 Aplicativo PROMOREM. Esta	10772
 Aplicativo de Control de Gastos	4209
 Aplicativo de Gestión	4209
 Aplicativos	4209
 Aplicativos de Transporte	2816
-Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35
+Aplicação	14,1,534,195,8,42,2022,50,653,755,6473,8,28,581,3,18,3,17,4,10,11,84,2,4,35,1298
 Aplicação Específica	11367
 Aplicação Subsidiária	549,10206,678
 Aplicação Web	12021
@@ -657,6 +662,7 @@ App Store. MOBILE INTERNET USER	11964
 App Store. Smart	11004,960
 App Txapita. Disponível	2816
 App-based	8624,3351
+App-based Mobile ID	12834
 App. Depuis	2513
 App. Once the PPMs	12335
 AppTheme	10848
@@ -838,7 +844,7 @@ Applicable Regulations	1988
 Applicable Table	11180
 Applicable Taxes	8590
 Applicable and Up	12389
-Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653,469,93,189,7,158,65,1,85,71,37,73,13
+Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653,469,93,189,7,158,65,1,85,71,37,73,13,275
 Applicant Code	12367
 Applicant Functions	6423
 Applicant Information	12302
@@ -853,7 +859,7 @@ Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,50
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76,172,63,286,75,11,4,20,10,9,46,6,91,7,66,3,2,25,92,4,1,4,22,1,2,7,28,3,5,37,84,1,3,13,1,31,23,26,1,18,2,1,2,8,110
 Application Application	11
 Application Architecture	9124
 Application Attacks DDOS Total Cyber Advisories	6671
@@ -1006,6 +1012,7 @@ Applied AI Research Ghana’s AI	4126
 Applied AI Research PILLAR	4126
 Applied Clinical Informatics	8606
 Applied Computing	8604,1
+Applied Earth Observations and Remote Sensing	12837
 Applied Economics Letters	7886
 Applied Economics. Bergeron	12369
 Applied Health Informatics	766
@@ -1102,7 +1109,7 @@ Appraisal Environmental and Social Review Summary	1260
 Appraisal Mission	11863
 Appraisal Report	11790
 Appraisal Rights	7198
-Appraisal Stage	1260,312,132,549,38,1165,7507,1449
+Appraisal Stage	1260,312,132,549,38,1165,7507,1449,420
 Appraisal Stage PID	12137
 Appraisal Stage. Date Prepared	761
 Appraisal-Stage Project Information Document	1704
@@ -1179,7 +1186,7 @@ Appropriée	10876
 Approuve	10876
 Approuver	10876
 Approuvée	8891
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108
 Approval Approval Package	6579,349,949,3518
 Approval Approved Approved	12364
 Approval Approved Installation	736
@@ -1219,7 +1226,7 @@ Approve GCT	6947
 Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Proposals	7198
-Approved	26,2,6,570,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284
+Approved	26,2,6,570,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
 Approved BFI	11248
@@ -1300,6 +1307,7 @@ Apr-June	11134
 Apr-May	1261,6026,760
 Apr19 22 1058788986.jpg	415
 Apr2026	10914,221
+Apraz-me	12796
 Apreciado	13,154,577,8,42,3352,1,71,6536,18,11,577,1,1,7,2,1,1,5,3,1,1,11,2,23,11,3,16,3,3,2,10
 Apreciados	11901
 Apreciar	167,3352,699,6537,626,1,67,452
@@ -1310,14 +1318,14 @@ Aprender	11569
 Aprendizado	2816
 Aprendizado de Máquina	2816
 Aprendizado de Máquinas	2816
-Aprendizagem	2816,8571
+Aprendizagem	2816,8571,1401
 Aprendizagem Organizada	10777
 Aprendizagem Profunda	2816
 Apres	4386,3359
 Apresentada	11520
 Apresentado	3709,7846,6
 Apresentam-se	11569
-Apresentar	5169,1293,4293,688,13,72
+Apresentar	5169,1293,4293,688,13,72,1268
 Apresentar CV	11448
 Apresentação	1265,3,468,1080,5363,2577,27,582,8,70,18,59,37,344
 Apresentação A Direção Geral	11532
@@ -1341,24 +1349,25 @@ Aprobación	4209
 Aprofundar	4146
 Apropiación	1701
 Apropriação	11569
-Aprova	167,372,37,168,8,42,1,2071,1408,2188,508,4395,6,1,1,5,3,1,12,25,30,3,36,495
-Aprovada	15,780,6175,4548,14,36,743
+Aprova	167,372,37,168,8,42,1,2071,1408,2188,508,4395,6,1,1,5,3,1,12,25,30,3,36,495,791,3,5,7
+Aprovada	15,780,6175,4548,14,36,743,461,5
 Aprovadas	11532
-Aprovado	576,2290,1408,2806,4439,1,49,332
+Aprovado	576,2290,1408,2806,4439,1,49,332,873,8,14,27
 Aprovado Luísa Maria Alves Grilo Ministra	10766
 Aprovado Regulamento Geral da Lei da Terra. PARTE	11527
 Aprovado Regulamento de Oferta de Redes	11519
 Aprovados M F	10766
 Aprovar	13,154,372,3679,6536,616,6,5,1,48,5,14,67
 Aprovar Projectos de Investimento Público	10783
-Aprovação	167,577,8,42,2022,1330,1,71,6531,4,1,2,10,6,11,579,7,2,1,1,5,3,1,6,6,2,9,1,13,30,3,3,1,1,1,69,42
+Aprovação	167,577,8,42,2022,1330,1,71,6531,4,1,2,10,6,11,579,7,2,1,1,5,3,1,6,6,2,9,1,13,30,3,3,1,1,1,69,42,1213,7
 Aprovação da Programação Anual	10783
 Aprovação da Proposta	10783
 Aprovechar	1701
 Aproveitamento	10766,600
-Aproveitamento Escolar	9441
+Aproveitamento Escolar	9441,3347
 Aproveitamento Escolar Mozambique	9441
 Aproveitamento da Terra	12137
+Aproveitamento de Terra	12824
 Aproveitamos	10757
 Aproveitando	5020
 Aproveitar	9434,2135
@@ -1514,6 +1523,7 @@ CHAPTER I ADMINISTRATION Application of Act	11176
 CIB Secures Preliminary Approval	10665
 CINEMA ATTENDANCE APR	9781
 CIPESA Urges Rights-Centred Approach	6132
+CIVIL ESTRUTURA DA APRESENTAÇÃO	12784
 CKAN API	2258
 CL-2019-000775 and CL-2021-000628 Judgment Approved	1829
 CMSS. Après	8103,349
@@ -1713,6 +1723,7 @@ DGID. Après	6954
 DHA Department of Home Affairs APP DHET	11986
 DHIS2 API	12754
 DHIS2 Climate App	11589
+DHIS2. Após	12863
 DIRECTORS' APPROVAL AND SIGNATURE	4896
 DISSENTING SHAREHOLDERS’ APPRAISAL RIGHTS	3714
 DISSENTING SHAREHOLDERS’ APPRAISAL RIGHTS Exemptions	3714
@@ -1901,7 +1912,7 @@ Estado. A APD	167
 Estado. APRESENTAÇÃO DOS PRINCIPAIS RESULTADOS	10757
 Estado. Apesar	4146
 Estatuto Orgânico da APD	10770
-Estimated Appraisal Date	2291,10121,14
+Estimated Appraisal Date	2291,10121,14,406
 Estimated Appraisal Date Financing Instrument Digital	3456
 Estimated Approval Date	11863,549,14
 Estimated Approval Date Estimated Environmental	6539
@@ -2010,6 +2021,7 @@ General Motors and Apple	4447
 Genomic Applications	10188
 Geographic Approach	11252
 Geographic Approach The EMR	11252
+Gestão de Activos Apreendidos. ARTIGO	12789
 Get the Punch News App	5800
 Get the Punch News App Read PUNCH	9669,84
 Ghana APPENDICES	236
@@ -2105,6 +2117,7 @@ III. Apoiar	11441
 III. Approfondissement	5928
 III. PROJECT APPRAISAL SUMMARY	11855
 III. PROJECT APPRAISAL SUMMARY A. Technical	11855
+III. SCOPE OF APPLICATION	12779
 IIS Application Pool	10617
 IMPACTFUL TRANSFORMATION REQUIRES A DIFFERENT APPROACH	11940
 IMPLEMENTATION APPROACH	11196
@@ -2273,7 +2286,7 @@ LLM API	11585
 LOCAL INFORMATION BATTERY SUPPORT ACCESS APPROVE	11964
 Labour. APPROVAL OF NOMINEE FOR APPOINTMENT	10313
 Language of Application	1638
-Last Approved	11965
+Last Approved	11965,867
 Last Approved International Development Association	2889
 Last Approved Rating	11965,23
 Last Approved Rating ISR Seq	6579,349,949,3518
@@ -2444,6 +2457,7 @@ My Appointments	11877
 My Ooredoo App	4178
 MyAirtel App	9997,231
 Módulo de Apoio	9403
+NA SESSÃO DE APRECIAÇÃO E ANÁLISE	12796
 NAME OF APPLICANT	1223
 NAME OF LOAN APP	8732
 NASA Space Apps Challenge	2096
@@ -2546,6 +2560,7 @@ Notice of Appeal	7776
 Nov Dec Jan Feb Mar Apr	11953
 Nov-2013 Approval	11924
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
+Novembro. Aprovado	12783
 Nowcasting Satellite Application Facility	11191
 Number of Approvals	12395
 Number of Type Approved Equipment	12395
@@ -2651,6 +2666,7 @@ PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PRIVATE NETWORK LICENCE Application	736
 PROCEDIMENTOS APLICÁVEIS	11435
 PROCEDIMENTOS APLICÁVEIS AOS PROCESSOS DA SECÇÃO	11435
+PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROJECT APPRAISAL DOCUMENT PCR	12253
 PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863
 PROTECTION AUTHORITY NOT APPOINTED. Fact	4785
@@ -2937,6 +2953,7 @@ Safaricom App	7568
 Safaricom Ethiopia. Approval	1135
 Safaricom Launches M-PESA Super App	11994
 Safaricom and Apeiro Limited	10329
+Samantha Zaldivar Chimal Approved	12832
 Sanções Aplicáveis	11419
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 Scaling Core Applications	4528,7984
@@ -3033,6 +3050,7 @@ Sunbird's API	3745
 Super App	2725,2787,171,124
 Super App IA Gouvernementale	5478
 Super Apps	6971,1136
+Supervisão Mais Apertada Num Sistema Cada	12841
 Supp III Approved	1734
 Supplementary Appropriation	1838,898,3852
 Supplementary Appropriation Act	1838

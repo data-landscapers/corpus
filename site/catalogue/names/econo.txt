@@ -501,7 +501,7 @@ Digital Economy Minister Léon Juste Ibombo	3294
 Digital Economy Minister Mark Alexandre Doumba	3579,661
 Digital Economy NACOSTI National Commission for Science	7548
 Digital Economy Ousman Bah	1714
-Digital Economy Package	11155
+Digital Economy Package	11155,1688
 Digital Economy Package Philip-	11155
 Digital Economy Package for Kenya	11155
 Digital Economy Partnership Agreement	1243
@@ -544,7 +544,7 @@ Digital Economy and Digitalization	2569,4360
 Digital Economy and Digitalization of Administration	5339,5381
 Digital Economy and Digitalization of Public Administration	6857
 Digital Economy and E-Government Project	6346
-Digital Economy and Electronic Government Project	6334
+Digital Economy and Electronic Government Project	6334,6500
 Digital Economy and Governance Project	2989
 Digital Economy and Growth	7831
 Digital Economy and ICT	1794,1,1412,1,3880,1
@@ -588,7 +588,7 @@ Digital EconomyRead	5320
 Digital Economy’s Announcement The National AI	2359
 Digital Gig Economy	226
 Digital Governance and Economy	2473,1741,1203
-Digital Governance and Economy Project	1228,1245,1
+Digital Governance and Economy Project	1228,1245,1,10360
 Digital Governance and Economy Project Grant Number	2474
 Digital Governance and Economy Project World Bank	772
 Digital Inclusion for Women's Economic Empowerment	5244
@@ -1287,6 +1287,7 @@ G20 Digital Economy Ministers Meeting Outcome	11006
 G20 Digital Economy Working Group	2626,3074,6240
 G20 Summit Digital Economy Ministers Meeting	5700
 GDP Developments Quarterly Developments Economic	11131,3
+GIKES Gauteng Innovation and Knowledge Economy Strategy	12786
 GOV Electronic Government EIRR Economic Internal	11863
 GSMA Intelligence. The Mobile Economy Africa	6467
 GSMA Mobile Economy Africa	6714
@@ -1633,7 +1634,7 @@ Minister of Digital Economy and Innovation	3948,347,675,750,2744
 Minister of Digital Economy and Transformation	3987
 Minister of Economic Affairs and Employment	11135
 Minister of Economic Planning and Development Honorable Dr	2832
-Minister of Economy	3841,1427,69,450,30,1885,2806
+Minister of Economy	3841,1427,69,450,30,1885,2806,2295
 Minister of Economy Hwej	3826
 Minister of Economy and Finance	1228,4289,5370
 Minister of Economy and Planning	1689
@@ -1709,7 +1710,7 @@ Ministry of Planning and Economic Development	8189,1777,1675
 Ministry of Planning and Economic Development. HSSP III	12240
 Ministry of Telecommunications and Digital Economy	1865,5198,2901
 Ministério Da Economia Digital	1339,742,2330
-Ministério da Economia	2138,335,1656,6196,24,405,4,769,33,9,573
+Ministério da Economia	2138,335,1656,6196,24,405,4,769,33,9,573,687
 Ministério da Economia Digital	1256,83,92,1,659,55,1,1411,109,796,1,1727
 Ministério da Economia da Plano	11549
 MoE Ministry of Economy	11560
@@ -1727,6 +1728,7 @@ Morocco Economic Monitor	7655
 Movement for Economic Change	12669
 Moving the Economy	970
 Mozambique Digital Governance and Economy Project	772,456,3317
+Mozambique Social Protection and Economic Resilience Project	12780
 Mozambique's Minister of Economy	7044
 Mozambique’s Digital Transformation and Economic Development	3861
 Msonkho Online World Economic Forum	12214
@@ -1746,6 +1748,7 @@ Namibian Namibia’s Digital Economy Needs	6765
 Namibia’s Digital Economy Needs Cybersecurity	6765
 Nasarawa State Information Technology and Digital Economy	12050
 National Agency for Economic and Social Inclusion	10991
+National Bank for Economic and Social Development	12816
 National Bank of Rwanda Minister of Finance and Economic	6938
 National Broadband Plan and Digital Economy Policy	3740
 National Bureau of Economic Research	10964,176
@@ -1814,6 +1817,7 @@ Novaspace's Space Economy Report	6467
 O DESENVOLVIMENTO DA ECONOMIA DIGITAL	11397
 O Desenvolvimento da Economia Digital	11396
 O Ministro da Economia	9289
+O Ministério da Economia	12829
 O Secretário de Estado da Economia Digital	3527
 OEC Observatory for Economic Complexity	11887,266,1,9,178
 OECD Digital Economy Outlook	226
@@ -1878,6 +1882,7 @@ Planning and Economic Development	756,526,1,1474,1460,2264,308,1683,251,246,353,
 Planning and Economic Development Dr.Acen	4217
 Planning and Economic Development The Chairperson	6938
 Planning and Economic Development and Parliament	10299
+Planning and Economic Research	12816
 Platform Economy	226,3261
 Platform Economy Convention	6612,1,489
 Platform Economy and Digital Work	226
@@ -2021,6 +2026,7 @@ SITUATION ECONOMIQUE Consolider	7655
 SITUATIONAL ANALYSIS FOR DATA ECONOMY	961
 SMEs and Social Economy Actors	10980
 SOCIAL CONTRACT AND INNOVATION ECONOMY	961
+SOCIAL PROTECTION AND ECONOMIC RESILIENCE	12780,1
 SOCIO-POLITICS AND ECONOMICS	1161
 SOCIO-POLITICS AND ECONOMICS OBJECTIVE	1161
 SOMALIA STRENGTHENING ECONOMIC GOVERNANCE AND INFRASTRUCTURE	8669
@@ -2087,7 +2093,8 @@ Social Economy and Handicrafts	10963,22
 Social Economy and Handicrafts General	10980
 Social Economy and Handicrafts VSE National Development	10980
 Social Economy and SEO Handicrafts SE Social	10980
-Social Protection and Economic Resilience Project	12220
+Social Protection and Economic Resilience Project	12220,560,52
+Social Protection and Economic Resilience Project Operation	12832
 Social Protection and Youth Economic Inclusion Project	11924
 Social Solidarity Economy	10980
 Social Systems Ministry of Completion NA Economy	10870
@@ -2202,6 +2209,7 @@ Trade and Economy Initiative	10819
 Trading Economics Public Administration	10856
 Training Centre WAEMU West African Economic	2775
 Training Is Creating Real Economic Opportunities	12493
+Transformação Digital da Comissão Economica	12799
 Transforming the Economy	10819
 Transparent Economies... Visit Rwanda Becomes Aston	3256
 Transport Economic Survey	2775

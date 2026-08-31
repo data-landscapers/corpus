@@ -102,6 +102,7 @@ BETTER SUPPORT TO COUNTRIES	10776
 BETTER SUPPORT TO COUNTRIES Relatório Anual	10776
 BI and Market Research Supervisor	7385
 BN TO SUPPORT UNIVERSAL ACCESS	8730
+BNDES Supports Structuring	12816
 BOLT SUPPORT KE LIMITED Data Controller	7167
 BOLT SUPPORT KE LIMITED Data Processor	7167
 BUILT AND MAINTAINED WITH SUPPORT	6133
@@ -275,12 +276,14 @@ Consejero Superior	4209
 Consejo Superior	4209
 Consejo Superior P.J	4209
 Conselho Superior	12039
-Conselho Superior da Comunicação Social	12311
+Conselho Superior da Comunicação Social	12311,522
 Conselho Superior da Estatística	11526
 Conselho Superior da Magistratura Judicial	4435,6923,115,566
 Conselho Superior da Magistratura Judicial. Artigo	14
 Conselho Superior da Magistratura Judicial. O Conselho	11561
 Conselho Superior da Magistratura Judicial. Os	11561
+Conselho Superior de Estatística	12770
+Conselho Superior de Estatística Artigo	12770
 Conselho Superior de Magistratura Judicial	167
 Conselho Supervisor	3137
 Conselhos Superiores	5424
@@ -483,7 +486,7 @@ Enhanced and Proactive Supervision	10
 Enhancing Public Support for Credit Instruments	12701
 Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
-Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75
+Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75,1138,39
 Ensino Superior ID	9441
 Ensino Superior ML	2816
 Ensino Superior Ministério da Energia	11569
@@ -498,6 +501,7 @@ Enterprise Service Bus Farmer Input Support	12453
 Enterprise Support C-AI	7548
 Enterprise and Supplier Development	11321
 Entrepreneur Support Organizations	1264
+Entrepreneurship Education and Support System	12786
 Entrepreneurship Support	10841
 Entrepreneurship Support Organisations	9309
 Entrepreneurship Support Organizations	761
@@ -724,7 +728,7 @@ Insider Pro Advisors Support	7343
 Insolvency Risks. Supply Chain	11131
 Inspection and Supervision	9855
 Instituições Superiores de Controlo	11473
-Instituições de Ensino Superior	11387,4,19,222
+Instituições de Ensino Superior	11387,4,19,222,1198
 Instituições de Ensino Superior INE	11387
 Institut Supérieur	86,12042
 Institut Supérieur Africain des Postes	10948
@@ -980,7 +984,7 @@ Nigerian Electricity Supply Industry	12062
 Nigerian Electricity Supply Industry NICE Notice	12062
 No. Description Contract Number Supplier Name	6946
 Normale Supérieure de Natitingou	10821
-O Conselho Superior de Estatística	11516
+O Conselho Superior de Estatística	11516,1254
 O Crédito Adicional Suplementar	3606,1
 O SUPLEMENTO	11544
 O SUPLEMENTO AA BOLETIM AHGAL	11544
@@ -1206,9 +1210,11 @@ SUPERVISÃO E FISCALIZAÇÃO ARTIGO	3519
 SUPERVISÃO E FISCALIZAÇÃO DA ATUALIZAÇÃO	11561
 SUPERVISÃO E FISCALIZAÇÃO NO TERRENO	11561
 SUPINFO	10467
+SUPLEMENTO	12773,16
 SUPLEMENTO AO BOLETIM OFICIAL DA REPÚBLICA	11514,6,49
 SUPLEMENTO Conselho de Ministros	795
-SUPLEMENTO IMPRENSA NACIONAL DE MOÇAMBIQUE	12311
+SUPLEMENTO Edição	12853
+SUPLEMENTO IMPRENSA NACIONAL DE MOÇAMBIQUE	12311,542
 SUPLEMENTO LEGISLATIVO N.º	11582
 SUPLEMENTO Lei	11514
 SUPLEMENTO SUMÁRIO	11569
@@ -1450,6 +1456,7 @@ Supervisory and Regulatory Technology	11134
 Supervisão	3519,3451,3784,616,60,3,5,3,1,6,13,100
 Supervisão Governo de Angola	11387
 Supervisão Institucional	11378
+Supervisão Mais Apertada Num Sistema Cada	12841
 Supervisão O Especialista	11441
 Supervisão da Execução	10783
 Supl. B. O	11519
@@ -1592,6 +1599,7 @@ Supply Sources Solar Wind CSP	11953
 Supply Storage	2775
 Supply Tiers	10721
 Supply Trade Storage	2775
+Supply UPS Batteries Installed	12850
 Supply Use Tables	236
 Supply and Communications	22,12
 Supply and Communications NCH Ndola Central Hospital	34
@@ -1968,7 +1976,7 @@ Transmissão de Direito de Superfície	11443
 Treatment and Supply	11152
 Treatment and Supply NPPI	11152
 Tribunal Constitucional Magistrado Corte Suprema Justicia	4209
-Tribunal Supremo	6462,4288
+Tribunal Supremo	6462,4288,2073
 Tribunal Supremo da República Popular da China	10752
 Tribunal Supremo da República de Angola	11473
 Tuberculosis. Support	4301
@@ -2001,6 +2009,7 @@ Uninterrupted Power Supply	12253
 Uninterrupted Power Supply Minimum	9123
 Uninterruptible Power Supply	5793,1696,5274
 United Nations Support Mission	10409
+Universidade Pedagógica and Instituto Superior Politécnico	12786
 Unstructured Supplementary Service	3862
 Unstructured Supplementary Service Data	1257,4891,3791,836,190,165,3,503,308,503
 Unstructured Supplementary Service Data South African	11130

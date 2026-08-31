@@ -93,7 +93,7 @@ Clínicas de Porto Alegre	10188
 Cocody. Portée	8894
 Colectiva Por	11403
 Commerce Portal	12008
-Community of Portuguese Language Countries	6778,4767
+Community of Portuguese Language Countries	6778,4767,1300
 Community of Portuguese Speaking Countries	11553,648
 Community of Portuguese Speaking Countries CRPD Convention	12201
 Community of Portuguese-Speaking Countries	10188
@@ -197,7 +197,7 @@ English and Portuguese. Legal and Regulatory Specialist	12008
 Environment Portfolio	9873,1459
 Equiano. Por	5542
 Eskom Data Portal	11297,656
-Estado. Por	11379,639
+Estado. Por	11379,639,822
 Estonia’s Health Portal	11006
 Estratégia da Cooperação Portuguesa	11455
 Eswatini Parliamentary Portfolio Committee	5733
@@ -342,7 +342,7 @@ MODIFICATION DU DÉCRET PORTANT	2342
 MVola Developer's Portal	2633
 Malawi. Porous	4172
 Managed Co-Lending Portfolio Program	891,628
-Maputo Port	8754
+Maputo Port	8754,4049
 Mar-2017 Portal Additional Financing	11924
 Mar-2017 Portal Development Objective	11924
 Mar-2017 Portal Results	11924
@@ -351,6 +351,7 @@ Mary Porter Peschka	8938,141
 Masha Borak Portuguese-speaking African	5615
 Massawa Port	10001
 Mauritius Mauritius Bureau PORT LOUIS	10621
+Metodologia Por	12862
 Migration Data Portal	6372,1
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minister of State Reform of Portugal. The Delegation	6552
@@ -362,6 +363,7 @@ Mobile Number Portability	4268
 Mobile Number Portability. BTCL	4268
 Mombasa Port	4753
 Morocco's DPA and Portugal's DPA	6792
+Moçambique. Por	12830
 MÉDIA DE TARIFA OFF-NET PRATICADA POR	11531
 MÓVEL DE BANDA LARGA POR TECNOLOGIA	11531
 Médico Forense Portavoz Adjunto Grupo Parlamentario	4209
@@ -490,7 +492,7 @@ Patrícia Portela	11963
 Países Africanos de Língua Oficial Portuguesa	12190
 Países Africanos de Língua Oficial Portuguesa P&D	2816
 Países Africanos de Língua Portuguesa	6709
-Países de Língua Portuguesa	2618,198,3752,3,771,4051,30,32,76,38
+Países de Língua Portuguesa	2618,198,3752,3,771,4051,30,32,76,38,1273
 Países de Língua Portuguesa de Direitos	11393
 Países de Língua X Portuguesa	11569
 Pension Online Services I-24 Job Portal	10785
@@ -645,10 +647,10 @@ Portail des Startups	4567
 Portails des Régions	6685
 Portails des Régions du Burkina Faso	6685
 Portails des Régions du Burkina Faso. Il	6685
-Portais	11408,2,51,13
+Portais	11408,2,51,13,1300
 Portais de Serviços	2816
 Portais de Serviços Digitais	11371
-Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120
+Portal	80,1,2,129,72,432,85,89,48,346,269,224,518,136,6,1,222,793,36,105,313,941,168,86,142,328,996,180,243,904,528,155,153,199,50,60,392,1135,195,468,135,6,12,1,22,2,2,23,28,11,1,1,95,71,96,130,25,48,37,42,124,72,81,26,38,30,120,346
 Portal Biometrics Application	11877
 Portal Cabo Verde	11939
 Portal Consular	11893
@@ -802,13 +804,14 @@ Portugal’s Atlantic	5252
 Portugal’s Minister for State Reform	8246
 Portugal’s RD	10188
 Portuguesa	2816,8721,8,476
-Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5,26,600,38,86,11,14,312,47,99,3,150,40,46
+Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5,26,600,38,86,11,14,312,47,99,3,150,40,46,532,77
 Portuguese Cooperation	11586,383
 Portuguese Cooperation Center	10776
 Portuguese Health Ministry	10188
 Portuguese Ministry of Health	10188
 Portuguese National Data Protection Commission	6361
 Portuguese Neonatal Screening Program	10188
+Portuguese O Manual Operacional	12797
 Portuguese Republic	6743
 Portuguese Space Agency	6628
 Portuguese and English	1526,10343
@@ -821,7 +824,7 @@ Portuguese-speaking African	12161
 Portuguese-speaking Countries	11423
 Portuguese. South Africa	11929
 Portugueses	11565
-Português	10777,800,759
+Português	10777,800,759,452
 Português. Ilustração	11537
 Português. Os	11898
 Portulans Institute	1243,11431
@@ -940,7 +943,7 @@ Tanzania Intergrated Statistical Portal	6019
 Tanzania Ports Authority	5883,2973,1736
 Tarrafal de Santiago and Porto Novo	8638
 Tax Online Service Portals	10785
-Taxpayer Portal	10775
+Taxpayer Portal	10775,2080
 Taxpayer’s Portal	10762
 Technical Project Portfolio Management	4528,7984
 Technology Portals	8208,197,791

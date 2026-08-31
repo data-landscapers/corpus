@@ -63,7 +63,7 @@ Area AI Artificial Intelligence AI4D AI	12512
 Artif. Intell	11585
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
@@ -291,7 +291,7 @@ China's National Intelligence Law	8970
 China’s National Intelligence Law	4563
 Cloud and Artificial Intelligence	6582
 Collective Intelligence	2096,6604
-Comissão Nacional de Inteligência Artificial	2816,7735
+Comissão Nacional de Inteligência Artificial	2816,7735,2272
 Companies and Intellectual Property Agency	10358
 Companies and Intellectual Property Authority	12598,1,13
 Companies and Intellectual Property Authority. Unique	12533
@@ -301,6 +301,7 @@ Companies and Intellectual Property Registration Office CIS	11261
 Competition and Intellectual Property	961
 Computational Intelligence	8022
 Computing Machinery and Intelligence	2816
+Conferência Anual de Inteligência Artificial	12823
 Conferência Global de Inteligência Artificial	8630
 Conferência Nacional de Inteligência Artificial	2816
 Congolese Academy of Artificial Intelligence	3747,8288
@@ -380,6 +381,7 @@ EE Business Intelligence	4950
 ESPECTATIVAS VS PRONTIDÃO PARA A INTELIGÊNCIA	2816
 ESTADO DE ARTE DA INTELIGÊNCIA ARTIFICIAL	2816
 ESTADO DE DESENVOLVIMENTO DA INTELIGÊNCIA ARTIFICIAL	2816
+ESTRATÉGIA NACIONAL DE INTELIGENCIA ARTIFICIAL	12827
 EU Artificial Intelligence Act	7966
 EU's Artificial Intelligence Act	8348
 EU’s Artificial Intelligence Act	11156
@@ -419,7 +421,7 @@ Estate Intel	6471,1574
 Estate Intel Lagos Real Estate Development	8045
 Estratégia Brasileira de Inteligência Artificial	2816,703
 Estratégia Continental de Inteligência Artificial	2816,6878
-Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306
+Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306,2272,4,3
 Estratégia de Inteligência Artificial	2816
 Eswatini Financial Intelligence Unit	11130,1274,40
 Eswatini Financial Intelligence Unit. The Data	11130
@@ -598,7 +600,7 @@ Inteligencia Artificial. En	9318
 Inteligente	11394
 Inteligência	539,255,2022,703,7942
 Inteligência Artifical	2816
-Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78
+Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27,324,34,1,20,4,17,18,79,18,106,326,78,726,7,5,11
 Inteligência Artificial A Parceria Global	2816
 Inteligência Artificial Actualmente	2816
 Inteligência Artificial Centrada	2816
@@ -612,6 +614,7 @@ Inteligência Artificial da UNESCO	2816
 Inteligência Artificial da Universidade Eduardo Mondlane	2816
 Inteligência Artificial. Além	2816
 Inteligência Artificial. Ao Prof. Doutor Eng	2816
+Inteligência Artificial. Artigo	12823
 Inteligência Artificial. Disponível	2816
 Inteligência Artificial. Em	2816
 Inteligência Artificial. Estas	3519
@@ -903,6 +906,7 @@ Passport Guidance and Case Intelligence OR Indexing	10347
 Per Africa Intelligence	11910
 PhD-level Artificial Intelligence	5871
 Plano Brasileiro de Intelig	7548
+Plataforma de Inteligência Artificial da ITU	12846
 Politics of Intelligence Artificial	5970
 Política Nacional de Inteligência Artificial	3519
 Pooling Intelligence	7835
@@ -916,9 +920,10 @@ Project for Introduction of Intelligent Transport System	1130
 Promise of AI for Zambia Artificial Intelligence	12356
 Promise of Artificial Intelligence	9025,533,1577,175
 Propiedad Intelectual	9303
+Proposta da Estratégia Nacional de Inteligência Artificial	12830,16
 Proposta da Lei de Inteligência Artificial	2816
 Proposta de Lei da Inteligência Artificial	11490
-Propriedade Intelectual	11456
+Propriedade Intelectual	11456,1326
 Propriedade Intelectual Todo	11456
 Protecção de Direitos de Propriedade Intelectual	3519
 Providers of Artificial Intelligence Systems	2958
@@ -962,6 +967,8 @@ STANFORD UNIVERSITY. Artificial Intelligence Index Report	2816
 SUB-CATEGORIA DA INTELIGÊNCIA ARTIFICIAL	2816
 SUCH AS ARTIFICIAL INTELLIGENCE	1885
 Sala de Inteligência Artificial	8807
+Sandbox Regulatório de Inteligência Artificial	12830,16
+Sandboxes Regulatórios de Inteligência Artificial	12830
 Saudi Data and Artificial Intelligence Authority	2958
 Sector Risk Intelligence	11840
 Senior Research Analyst Artificial Intelligence	7334
@@ -1009,6 +1016,7 @@ Strengthen Cyber Intelligence Collection Support	1000
 Structure and History The Centre for Artificial Intelligence	11336
 Sub-Categoria da Inteligência Artificial A IA	2816
 Sub-Saharan Africa. Liquid Intelligent Technologies	684
+Subcomissão Nacional de Inteligência Artificial	12823
 Subsidised Education NUST Advances Intellectual Property	12357
 Sudanese Data and Artificial Intelligence Authority	3902,681
 Sudan’s General Intelligence Service	10192

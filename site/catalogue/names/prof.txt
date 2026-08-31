@@ -185,6 +185,7 @@ Ensino Secundário Técnico Profissional MF M	10766
 Ensino Secundário Técnico- Profissional Província População	10766
 Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
+Ensino Técnico Profissional	12777
 Entity's Profile	12400
 Equity Profit Margin Return	1013
 Eritrea Profile	10001
@@ -213,7 +214,7 @@ Formation Professionnelle	643,2753,4530,965,2073
 Formação Profissional	10768,10,609,136,332,163
 Formação Profissional Básica	10766,653
 Formação de Professor	11419
-Formação de Professores	10766,653
+Formação de Professores	10766,653,1369
 Framework HPCSA Health Professions Council of South	396
 Fraud and Corruption Risk Profile	5533
 Full Professor	8126
@@ -495,6 +496,7 @@ Professor John Dugard	9889
 Professor Jon Crowcroft	1246
 Professor Jonathan Tsetimi	8710
 Professor Jonathan Tsetimi of Delta State University	8710
+Professor Jose Leopoldo Nhampossa	12786
 Professor Joy Eyisi	8710
 Professor Kannan Navaneetham	12533,1
 Professor Kenneth Kalu	2552
@@ -659,6 +661,7 @@ Secretary of State for Innovation and Professional Training	11965
 Sector Profile	718
 Sector Profile Energy	718
 Segredo Profissional	4218,6537
+Sensibilização de Professores	12777
 Shareholder’s Equity Profit Margin USD	1013
 Shortage of Skilled Cybersecurity Professionals	6936
 Shortage of Skilled Cybersecurity Professionals Challenge	6936

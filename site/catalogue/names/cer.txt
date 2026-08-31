@@ -51,6 +51,7 @@ Attach Company Certificate of Incorporation	736
 Authority Accreditation and Certification	587
 Authority CERT-GH	775
 Authority Certification	7548
+Autoridade Certificadora Raiz	12810
 Autoridades Certificadoras	11396,1
 Availability of Digital Property Title Certificates	12389
 B-BBEE CERTIFICATE OR SWORN AFFIDAVIT	11240
@@ -234,7 +235,7 @@ Certainty	5487,6370
 Certamen Miss Guinea	4209
 Certes	8891,1604,326,1278
 Certi	4896
-Certidão	10772,5,668,453,3,120
+Certidão	10772,5,668,453,3,120,754
 Certidão Cadastral	11384
 Certidão Comercial Online	12021
 Certidão Comercial Online Manuais de Utilizador	12021
@@ -245,7 +246,7 @@ Certidão de Baptismo	10749,7
 Certidão de Casamento	10777
 Certidão de Dívida Tributária	11435
 Certidão de Dívida Tributária CRF	11435
-Certidão de Nascimento	10765,7,3
+Certidão de Nascimento	10765,7,3,2009
 Certidão de Nascimento. Ou	10772
 Certidão de Quitação Fiscal	8731
 Certidão de Quitação Número	11532
@@ -255,6 +256,7 @@ Certidões São	11528
 Certificaciones de Pagos	4209
 Certificación de Productos	4209
 Certificado	794,9956,1,620,2,46,53,426,413
+Certificado ISO	12815
 Certificado Positivo	10750,1
 Certificado de Actualizacion PE	4209
 Certificado de Actualizacion PE INFORMACIÓN Rótulos	4209
@@ -269,11 +271,12 @@ Certificado de Capacidade Matrimonial. Esta	2688
 Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
+Certificado de Conformidade	12829
 Certificado de Registo Comercial	11404
 Certificado de Registo Criminal	2688,3298
 Certificado de Registo Criminal. Edição Nº	10752
 Certificado de Residência Fiscal	11435
-Certificados	10752,667
+Certificados	10752,667,1443
 Certificados Digitais	1431,715,2317
 Certificados de Encriptação	794
 Certificados de Registo Criminal	10750
@@ -358,7 +361,7 @@ Certificates of Registered Title	12605
 Certificates of Registration	9646,511
 Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29
 Certification Authorities	9880
-Certification Authority	1009,10175
+Certification Authority	1009,10175,1650
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Certification CM-NSCI.S8 Infrastructure	10721
@@ -389,9 +392,9 @@ Certifications Issued	4528,7984
 Certificats	5899,4977
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045
-Certificação	2816,703,2943,4957,25,577
+Certificação	2816,703,2943,4957,25,577,770
 Certificação Artigo	6462
-Certificação Digital	7948,361
+Certificação Digital	7948,361,4501
 Certificação Digital.Ao	8308
 Certificação REMPE	12021
 Certificações	2816,8625,7,8
@@ -583,6 +586,7 @@ ISSUED THE CERTIFICATE	11240
 IX. RESULTATS DU CERTIFICAT D'ETUDES PRIMAIRES	10847
 Implementation of Medical Certification of Cause of Death	12338
 Import Duty Exemption Certificate	11866
+Imprimir Certidões	12862
 Inhambane and Zambezia. The CERC Manual and Emergency	1228
 Initial Birth Certificates	12496
 Institut Cerco International	8162
@@ -790,9 +794,11 @@ TEUT and CERPIT. This Competitive	9129
 TH E UE PUBLIQ SOPIE CERTIFIEE	10974
 TRANSITIONAL PERIOD FOR CERTAIN STATE PARTIES	1243
 Targeted Review for Q2 Targeted Life Certifications	8999
-Tax Clearance Certificate	5247,4532,285,343,221,1869,12
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346
+Tax Clearance Certificate August TAX Newsletter	12855
+Tax Clearance Certificate Under	12855
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673,57
+Tax Clearance Certificates	9779,2673,57,346
 Tax Compliance Certificate	10064,2233
 Tax Compliance Certiﬁcate	2709
 Taxa de Certidão de Quitação	11532

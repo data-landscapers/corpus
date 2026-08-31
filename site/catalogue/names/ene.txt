@@ -246,7 +246,7 @@ Eneo LA TRANSPARENCE POUR UN SECTEUR	10975
 Eneo. Au	10975
 Eneo. Cependant	10975
 Energe	3604
-Energia	2437,347,32,1331,1516,1307,3250,1159,1,49,533
+Energia	2437,347,32,1331,1516,1307,3250,1159,1,49,533,825,36
 Energia EUinMoz2026	6743
 Energia Elétrica	11532
 Energia Elétrica Doméstica Contribuição Audiovisual	11532
@@ -271,7 +271,7 @@ Energies Vendues MT	10975
 Energising Development	12191,33
 Energization Outcome	12358
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8,155
 Energy Access	10157,2076
 Energy Access Deficit	11923,268
 Energy Access Diagnostic Report	12376
@@ -665,6 +665,7 @@ Ministério da Energia	11380,189
 Ministério da Energia- ME	11549
 Modern Energy Cooking Services	11572
 Modern Energy Enhanced Energy Efficiencies Improved	12515
+Modernizar Pagamento de Energia	12791
 Monthly Electrical Energy Imports	12256
 Monthly Energy Curtailment	12256
 Monthly Geothermal Energy Generated	12256

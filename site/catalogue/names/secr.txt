@@ -526,7 +526,7 @@ North-Western Province Permanent Secretary Colonel Grandson	7130
 Nyambirai First Transfer Secretaries D3	4896
 O Principal Secretary	7549
 O Secre-tário de Estado	11520
-O Secretariado Executivo	11527,34
+O Secretariado Executivo	11527,34,1262
 O Secretário Executivo	2866,8695
 O Secretário de Estado	11519,1
 O Secretário de Estado da Economia Digital	3527
@@ -724,6 +724,7 @@ SECÇÃO IV SECRETARIADO EXECUTIVO	13
 SECÇÃO IV SECRETARIADO EXECUTIVO Artigo	13
 SEGUIMTO. Y DERECHOS GABINETE SECRETDO. ASUNTOS	4209
 SEGUNDO SECRETARIO	4209
+SENHORES MINISTROS E SECRETÁRIOS DE ESTADO	12796
 SETIC Executive Secretary and PAFEN	6061
 SGCB-UMOA Secrétariat Général	4459
 SMART AFRICA SECRETARIAT FOREWORD	10819
@@ -776,7 +777,7 @@ Secretaria de Estado de Seguridad	1855
 Secretaria de Estado de Traducciones	1855
 Secretariado	167,4051,3727,3504,81,31
 Secretariado Exe	11561
-Secretariado Executivo	13,4133,1,7414
+Secretariado Executivo	13,4133,1,7414,1262
 Secretariado Executivo da CNE	11561
 Secretariado Executivo. Artigo	13
 Secretariado Executivo. SECÇÃO I CONSELHO	13
@@ -784,6 +785,7 @@ Secretariado Permanente	6568
 Secretariado Técnico	11557
 Secretariado Técnico Permanente	11526
 Secretariado Técnico UA União Africana UNESCO	11557
+Secretariado Técnico de Administração Eleitoral	12772
 Secretariado da Cimeira	11387
 Secretariado-Geral	4435
 Secretarias	4209
@@ -986,7 +988,7 @@ Secretária Permanente	10140
 Secretária de Direitos Humanos	10750
 Secretária de Estado	1180,84,9486,2
 Secretária de Estado Moçambique	10750
-Secretário	10750,2,1,625,10,139
+Secretário	10750,2,1,625,10,139,1256
 Secretário Execu	11561
 Secretário Executivo	2866,8665,30
 Secretário Executivo Adjunto	11561
@@ -996,9 +998,10 @@ Secretário Executivo da WATRA	11531
 Secretário Executivo. Os	11561
 Secretário Geral	10753
 Secretário Nacional de APU-PDGB	10114
+Secretário Permanente	12822
 Secretário da Força Aérea	2816
 Secretário de Estado	4075,4234,541,1900,2,1,625,28,691
-Secretário de Estado Adjunto	11963
+Secretário de Estado Adjunto	11963,837
 Secretário de Estado da Acção Social	11378
 Secretário de Estado da Administração	11378
 Secretário de Estado da Comunicação Social	11378

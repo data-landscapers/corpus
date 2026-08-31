@@ -69,7 +69,8 @@ Armed Conflict	10835,3,130,902,16,466,1,135
 Armed Conflict1	12353
 Australasian Conference	5349
 Authority. The Video Conference	8616
-Avaliação da Conformidade	11381
+Avaliação da Conformidade	11381,1401
+Avaliação da Conformidade CAPÍTULO I Disposições	12782
 Avis Conforme	10975
 Avis Conformes	10975
 BAOFANG UV-9RPlus GSP-BAO-UV5-ARCEP- Conforme VITAL SECURITE	998
@@ -132,6 +133,7 @@ Capital Market Development Package Conference	8770
 Central African Digital Development Entities Conference	4132
 Centre International de Conférence de Bamako. Cette	7634
 Centro de Conferências de Beijing	11045
+Certificado de Conformidade	12829
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
 Chief of Defence Intelligence Annual Conference	11928
 China Na Conferência Anual	11454
@@ -156,6 +158,8 @@ Confederation of Sahel States	2317,809,697,102,776,158
 Confederation of Zimbabwe Industries	1554,2974,7984
 Confederation. Analysts	4394
 Confederazione Svizzera	1243
+Confederação	12848
+Confederação Helvética. Durante	12830
 Confer	7548
 Confere	12119
 Conferen	6612
@@ -193,10 +197,11 @@ Conferencia de Jefes de Estado	4209
 Conferencing	12769
 Conferment	12531
 Confers	12337
-Conferência	2816,9281
+Conferência	2816,9281,765
 Conferência Anual	11454
 Conferência Anual DHIS2	11454
 Conferência Anual da Rede Africana de Engenharia	11411
+Conferência Anual de Inteligência Artificial	12823
 Conferência CSA	2816
 Conferência Estatística da CPLP	2816
 Conferência Geral da OIT	11547
@@ -220,6 +225,7 @@ Conferência de Dados	10140
 Conferência de Dartmouth	2816
 Conferência de IA da SADC	2816
 Conferência de Rabat	5020
+Conferência de Saúde Digital de Moçambique. Segundo	12821
 Conferências	2816
 Conferências Internacionais	11362
 Conferências de IA	2816
@@ -231,6 +237,7 @@ Confiance	6959,1378,548,164,1663
 Confiance Numérique	1247,2129
 Confiança	2138,9304,127,528
 Confiança Digital	8487
+Confiança Passa A Ser Um Activo	12841
 Confiança. Acautelam-se	11569
 Confidence	7611,1111,84,511,996,140,7,546,132,629
 Confidence Building Measures	2117
@@ -239,7 +246,7 @@ Confidence Mr Acheampong	7558
 Confidence and Security	395
 Confidence and Security of Networks and Services	395
 Confidence-Building and Inclusive Dialogue Project	11586
-Confidencialidade	15,11057,292,19,36,11,3,9,10,4,63
+Confidencialidade	15,11057,292,19,36,11,3,9,10,4,63,1251,27
 Confidencialidade da Informação	11438
 Confident	3691,7440
 Confidenti Limited	11952
@@ -340,7 +347,7 @@ Conflict-of-Interest Policy	6946
 Conflict-phase	8201
 Conflict-related	3583
 Conflicting	3714,733
-Conflicts	4381,3167,2004,407,2031,243,127
+Conflicts	4381,3167,2004,407,2031,243,127,411
 Conflicts of Interest	5349,5679,899
 Conflicts of Interest None	1824,9095,1106
 Conflit	6959,696,3203,18
@@ -707,16 +714,19 @@ Politics Conference	7886
 Portatif VHF SAM-MOT-DP2-ARCEP- Conforme	998
 Pre-Action Conference	11956
 Preparação da Realização da Conferência Nacional	2816
+Primeira Conferência Nacional	12809
 Primera Conferencia Económica Nacional	1701
 Principles for Conflict Resolution	3861
-Princípio da Confidencialidade	11419
+Princípio da Confidencialidade	11419,1355
 Princípio de Confidencialidade	11374
 Privacy and Confidentiality	21
 Privacy and Confidentiality Supporting Infrastructure	21
 Private Credit Information Centres Confirms Angola	3722
 Procurement At the Suppliers Conference	9781
 Programa Nacional de Avaliação da Conformidade	11381
+Programa de Avaliação da Conformidade	12829
 Programa de Conferencias de Alto Nivel	4209
+Programas de Avaliação da Conformidade	12782
 Promoção da Conformidade	11555
 Protect Privacy and Confidentiality	12419
 Préambule Conformément	1649
@@ -833,12 +843,13 @@ UNCTAD United Nation Conference	2775
 UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333
 UNECA Conference of Ministers	5789
 UNESCO General Conference Date	12565
+UNITED NATIONS CONFERENCE ON TRADE	12786
 USE MOBILE CONFIDENT SUFFICIENT READING	11964
 Union CZI Confederation of Zimbabwe Industries ECD	12512
 Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1,135
 United Nations Climate Change Conference	10768,804
 United Nations Climate Change Conference DRE	11572
-United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361,339
+United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361,339,242
 United Nations Economic Commission for Africa Conference	8472
 United Nations UNCTAD United Nations Conference	6946
 Unsafe Containers Sierra Leone Confirms Measles	4619

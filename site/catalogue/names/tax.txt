@@ -70,6 +70,7 @@ Benin. Tax	10856
 Betting Tax	7695
 Bill the Senate the House of Representatives Nigeria Tax	11976
 Body A.185 TAX ADMINISTRATION ACT	12629
+Body TAX Newsletter Electronic	12855
 Boost Tax Capacity	1828
 Boosting Tax Revenue	1828
 Botswana Value Added Tax	12624
@@ -450,6 +451,9 @@ Modernizing the Congolese Tax Administration	11858
 Modified Taxation Scheme	9729
 Motor Vehicle Tax	10852
 Motorcycle Taxi Services	718
+Mozambican Tax Authority	12855
+Mozambique Tax Authorities	12855
+Mozambique Tax Authority	12855
 Municipal Property Tax System	2112
 Museveni’s Shs20 Billion Relief Fund Tax	3955
 My Tax	12454
@@ -583,6 +587,7 @@ Service. Taxpayer	11976
 Shaping High-Performance Tax Administrations	7692
 Significant Economic Presence Tax	7786
 Simplified Tax Record Keeping and Reporting	12389
+Simplified Tax for Small Taxpayers	12802
 Single Flat-Rate Tax	9037
 Single Requests for Tax Reference	11298
 Single Tax Reference Number	11298
@@ -698,9 +703,11 @@ Tax Calculator	12022
 Tax Cap	6921
 Tax Capacity and Growth	1828
 Tax Clearance	11252,1245
-Tax Clearance Certificate	5247,4532,285,343,221,1869,12
+Tax Clearance Certificate	5247,4532,285,343,221,1869,12,346
+Tax Clearance Certificate August TAX Newsletter	12855
+Tax Clearance Certificate Under	12855
 Tax Clearance Certificate and SSNIT	7368
-Tax Clearance Certificates	9779,2673,57
+Tax Clearance Certificates	9779,2673,57,346
 Tax Codes	10762
 Tax Collection	8669
 Tax Compliance	1698
@@ -755,6 +762,7 @@ Tax Management System	11858
 Tax Mar	2611
 Tax Matters	573,8680,1980,452
 Tax Mgmt Information System I-7	10785
+Tax Newsletter	12855
 Tax OTTs Over-the-Top Technologies PAYE Pay	12395
 Tax Offences	12629
 Tax Office	10775
@@ -843,6 +851,7 @@ Tax-base	7789
 Tax-revenue	4445
 Tax-to-GDP	6385
 Tax-to-GDP Ratio	3955
+Tax.mz	12855
 TaxClaw.AI	8784
 TaxCore	11666
 TaxDev	1123
@@ -937,7 +946,7 @@ Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbers	2744,9885
 Taxpayer Information	11976
 Taxpayer P5-15. Use	12500
-Taxpayer Portal	10775
+Taxpayer Portal	10775,2080
 Taxpayer Ref No	11276
 Taxpayer Register	12500
 Taxpayer Register Table	12500

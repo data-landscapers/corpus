@@ -49,6 +49,7 @@ Bank of Zambia ZIPSS Rules Note	12364
 Biometric Update. Note	2970,3168
 Birth Notification Number	12337
 Birth Notification Number CRVSID	12337
+Body NOTICE No	12860
 Body PUBLIC NOTICE	12603
 Botswana Power Corporation NOTE	12592
 Breach Notification	3861,8332
@@ -130,6 +131,7 @@ Data Breach Notification	3279,8677,237,109
 Data Breach Notification Article	11956
 Data Breach Notification Form	1877
 Data Subject's Standard Notice	11956
+December. This Notice	12860
 Description USAID Guinea Notre Santé	1165
 Developing Countries. IMF Staff Discussion Note	10997
 Digital Credit Services Providers Notice	6940
@@ -314,8 +316,10 @@ International Center for Not-for-Profit Law	2549,6473
 International Youth Day. Note	9873
 Internet. Note	7320
 Intervenants Tâches Délai PRMP Notifie	10876
+Introductory Note	12855
 Ivoire. Notre	3045
 JavaScript Object Notation	11585
+Jornal Notícias O Ministério da Agricultura	12824
 Jornal de Notícias	2816
 Jupyter Notebook	8877
 Jupyter Notebooks	11922
@@ -408,6 +412,7 @@ NOTICE AND AGENDA	7204
 NOTICE ENACTED	3887,8644,1,3,11,3,13
 NOTICE NO	12296
 NOTICE NO.BG	7464,1268
+NOTICE No	12860
 NOTICE OF EXTRAORDINARY GENERAL MEETING	4896
 NOTICE TO ALL LICENSED FINANCIAL INSTITUTIONS	8732
 NOTICE TO STAKEHOLDERS AND LANDLORDS	4360
@@ -460,7 +465,7 @@ Notable Sierra Leonean Personalities Who Died	5390,965,827
 Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102,10,21,146,3,1,1,18,41,2,14,17,9,53,6,1,281,7,281,56,2,43,23,4,32,9,116,10,26,1,22,4,42,22,19,31,11,21,16,27,8,2,32,57,64
 Notaires	10858
 Notamment	3248,20,568,2620,3799,652,68,98
-Notariado	2688,265,577,1181,1349,470,2741,1479,1,1,1,12,10,590,6,156,10,28,1,455,46,75,14
+Notariado	2688,265,577,1181,1349,470,2741,1479,1,1,1,12,10,590,6,156,10,28,1,455,46,75,14,619,87
 Notariado RUBRICADO CONTRATO PARA A MELHORIA	10753
 Notariado SISTEMA DE REGISTO CIVIL	12156
 Notariado de Identificação	5476
@@ -519,9 +524,9 @@ Nothing	28,8,74,5,118,1,161,40,128,456,70,60,37,57,538,184,472,1,136,1009,131,32
 Nothing Delta Wants Public Projects Feedback	10034,231
 Nothing For Us	12038
 Notic.e No	11852
-Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141,8,18,26,13,81,14,2
+Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141,8,18,26,13,81,14,2,215
 Notice Following Technical Evaluation for Consultancy	3700
-Notice No	4732,1945,5278,341,1
+Notice No	4732,1945,5278,341,1,563
 Notice No. BG	6940,524,1268
 Notice Number	6512
 Notice Type	9892,1,1383
@@ -588,7 +593,7 @@ Notification of Registration Centre Premises	1263
 NotificationUser.aspx	6735,200,4375
 Notifications	2674,707,1351,2534,2449,2269,186,12,183,286
 Notifications of Service Outage Article	12616
-Notificação	14,6956,4390,8,4,4,10,47,19,130,311
+Notificação	14,6956,4390,8,4,4,10,47,19,130,311,882
 Notificação da Liquidação	744
 Notificação de Acesso	11368
 Notificação de Incidentes	10755
@@ -644,7 +649,7 @@ Notwithstanding Sub-Article	762
 Notwithstanding Sub-Articles	762
 Notwithstanding the Provisions of Sub Article	12146
 Notwitstanding	11182
-Notícias	1192,73,3,468,1783,2322,1686,1414,158,2290,39,4,106
+Notícias	1192,73,3,468,1783,2322,1686,1414,158,2290,39,4,106,1254,59
 Notícias Declaração	1265,3,468
 Notícias Francisco Carvalho	1265,3,468,6464
 Notícias Ministro Clóvis Silva	1265,3,468
@@ -820,6 +825,7 @@ UNLESS OTHERWISE NOTED	10977
 UN’S GUIDANCE NOTE ON BIG DATA	1243
 UN’s Guidance Note	1243
 URGENCY TO BE TAKEN NOTE	2709
+USING BANK CARDS AND REVOKES NOTICE	12860
 Uganda-specific Privacy Notice	8290
 University of Notre Dame	6326
 University of Notre Dame Global Adaptation Initiative	3456

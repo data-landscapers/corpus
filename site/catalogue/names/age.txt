@@ -364,6 +364,7 @@ Agency The Board	11464
 Agency ZPPA Zambia Public Procurement Authority	1988
 Agency and Accountability. Iswe Foundation	8628
 Agency for Digital Development	3001
+Agency for Digital Transformation and Innovation	12834
 Agency for Healthcare Research and Quality	8604,2176
 Agency for ICT Development	2533,2393
 Agency for Information Systems	10852
@@ -418,8 +419,9 @@ Agenda for Information Systems Research	5700
 Agenda for Infrastructure Studies	5700
 Agenda for Job	582
 Agenda for Sustainable	12214
-Agenda for Sustainable Development	1445,3,9745,379
+Agenda for Sustainable Development	1445,3,9745,379,1214
 Agenda for Sustainable Development Goals	12759
+Agenda for Sustainable Development Sub-Fund	12786
 Agenda for Sustainable Development. Kenya Vital Statistics	12151
 Agenda for Sustainable Development. New York	12231
 Agenda for Transformation	31
@@ -472,7 +474,7 @@ Agente Grupo G Delineante Director Grupo	4209
 Agente Público	11452
 Agente de Desenvolvimento Comunitário	11390
 Agente de Registo	576
-Agentes	1701,1115,1393,7203,102,60
+Agentes	1701,1115,1393,7203,102,60,1203
 Agentes Bancários	11438
 Agentes Pofivalentes de Saude	4260
 Agentes Seniores de Saúde	10763
@@ -956,6 +958,7 @@ III.2.8 Agence Béninoise	10876
 IMPLEMENTATION AND COORDINATION FRAMEWORK The Agency	1131
 IMPLEMENTING AGENCY Implementing Agency Name Type	1284
 INFORMATION CONNECTION DRAINS MY TO AGENT	11964
+INNOVATION AGENCY	12834
 ISR01192 Implementing Agencies	11395
 ISR03430 Implementing Agencies	2712
 ISR03691 Implementing Agencies	12228
@@ -1316,6 +1319,7 @@ Nigeria’s Digital Transformation Agenda	7234
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
 No. Implementing Agency	11965
 Non-Bank Financial Institutions Regulatory Agency PE	12540
+Northern Integrated Development Agency	12779
 Norwegian Agency for Development Cooperation	1947,4745,1194,2828,105,1373,86,223
 Norwegian Agency for Development Cooperation NRP	12175
 Nossa Agenda Comum	2816,8571
@@ -1437,6 +1441,8 @@ Renewed Hope Agenda. Today	12004
 Report.pdf. Kenya News Agency	12227
 Republic of Cameroon Implementing Agencies	10963
 Republic of Guinea-Bissau Implementing Agency	11525
+Republic of Mozambique Implementing Agencies	12832
+Republic of Mozambique Implementing Agency	12832
 Republic of Mozambique. Responsible Agency	12220
 Republic of Zambia Implementing Agency	1867,424,1271
 República. Agenda Guinea Ecuatorial	1701
@@ -1667,7 +1673,7 @@ UN Agencies and International Organizations	1243
 UN Agency for Digital Technologies	11920
 UN Legal Identity Agenda	10591,1560,186
 UN Legal Identity Agenda Task Force	5274
-UN Refugee Agency	4807,5969,1397,54
+UN Refugee Agency	4807,5969,1397,54,579
 UN Refugees Agency	2324
 UNFINISHED AGENDA	1828
 UNFPA United Nations Family and Population Agency	10829
