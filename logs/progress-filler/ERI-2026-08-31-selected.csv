@@ -1,180 +1,229 @@
-indicator_id,file,brief,rank,why
-gov.protect--data-protection-authority,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,Most detailed authoritative statement that no DPA/comprehensive law exists
-gov.protect--national-data-protection-readiness,baseline/2022-05-24-data-protection-africa-eritrea-factsheet.md,1,1,Precisely-dated structured readiness factsheet NO DATA PROTECTION LAW AUTHORITY NOT APPOINTED
-gov.protect--national-data-protection-readiness,progress/2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent.md,2,1,Regional HoAI reassessment grouping Eritrea nascent target date pushed to Dec 2026
-gov.regional--regional-policy-collaboration,baseline/2026-01-26-igad-eardip-programme-page-member-states.md,1,1,IGAD own EARDIP coverage list excludes Eritrea despite membership
-gov.regional--regional-policy-collaboration,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,1,Eritrea formally withdrew from IGAD
-gov.regional--regional-policy-collaboration,progress/2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent.md,2,2,Distinct regional-assessment event reused
-gov.regional--regional-legal-harmonisation,baseline/2024-07-08-au-malabo-convention-status-table.md,1,1,AU official treaty-status table no signature/ratification
-gov.regional--regional-legal-harmonisation,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,1,Withdrawal ends IGAD cybersecurity-law harmonisation track reused
-gov.regional--shared-regional-infrastructure,baseline/2021-06-21-world-bank-overview-digital-development-horn-of-africa-eritrea.md,1,1,Names Eritrea excluded from planned regional cable/data-centre projects
-gov.regional--shared-regional-infrastructure,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,1,Weakens prospects for IGAD-coordinated infrastructure reused
-gov.regional--cross-border-data-transfers,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,UNECA profile Cross-border data policies section reused
-gov.regional--cross-border-data-transfers,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,1,IGAD is the regional cross-border-data-flow vehicle just exited reused
-gov.standards--national-interoperability-standards,baseline/2025-12-17-world-bank-govtech-maturity-index-2025.md,1,1,GTMI 2025 tracks Government Interoperability Framework I-3
-gov.standards--national-interoperability-standards,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,1,National interconnected customs interoperability system launched reused
-gov.standards--national-quality-standards,baseline/2017-01-01-iso-member-profile-eritrean-standards-institution.md,1,1,ISO own member profile for ESI legal basis governance 446 standards
-gov.standards--national-quality-standards,progress/2026-04-18-hadas-eritrea-standards-institution-revitalisation.md,2,1,State press reports ESI revitalisation drive ahead of 11 new industrial plants
-gov.standards--national-quality-standards,progress/2026-07-12-shabait-workshop-national-food-control-policy.md,2,2,Distinct event inception of National Food Control Policy
-gov.standards--adoption-of-international-standards,baseline/2017-01-01-iso-member-profile-eritrean-standards-institution.md,1,1,Same ISO profile establishes ESI correspondent-member status reused
-gov.standards--adoption-of-international-standards,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,1,UNCTAD-standardised platform adoption reused
-finance.mou--strategic-relationships,baseline/2021-01-01-un-eritrea-sustainable-development-cooperation-framework-2022-2026.md,1,1,Signed UN-Eritrea umbrella cooperation framework
-finance.mou--strategic-relationships,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,1,Dated AfDB IPR IFMIS/DMFAS go-live readiness highly satisfactory
-finance.mou--strategic-relationships,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,2,Distinct UNDP/UNCTAD partnership milestone reused
-finance.new--mobilisation-of-non-state-finance,baseline/2025-01-01-us-state-dept-2025-investment-climate-statement-eritrea.md,1,1,Most authoritative dated statement Investment Center dormant 1994 law suspended
-finance.new--mobilisation-of-non-state-finance,progress/2026-07-08-undp-gef-eritrea-land-management-investment.md,2,1,GEF 8.4M plus 30M co-financing mobilised clearest blended finance event
-finance.new--mobilisation-of-non-state-finance,progress/2026-06-19-afdb-gpn-eritrea-massawa-tesseney-road-bankability.md,2,2,Distinct AfDB pipeline-building event bankability studies
-infra.connect--internet-usage,baseline/2026-03-24-itu-statistical-findings-umc-africa-eritrea-data-gap.md,1,1,ITU own dated statement no WTI submission since 2017 last survey 2002
-infra.connect--mobile-affordability,baseline/2026-01-01-eritel-mobile-gsm-services-tariff-schedule.md,1,1,EriTel own operative mobile tariff schedule mobile platform voice-only
-infra.connect--internet-exchange-points,baseline/2026-01-01-isoc-pulse-ixp-tracker-eritrea.md,1,1,ISOC dated tracker confirms no active IXP none listed in PeeringDB
-infra.store--local-data-centre-capacity-all-providers,baseline/2026-08-31-eritel-private-cloud-services.md,1,1,EriTel own current cloud-hosting service page primary evidence local data centre exists
-infra.store--local-data-centre-capacity-all-providers,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,1,Dated completion Nov 2025 of IFMIS plus NSO data-centre hardware
-infra.store--local-data-centre-capacity-national-providers,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,1,AfDB report most authoritative on government-run Finance Ministry NSO data centres
-infra.store--off-site-backup-capacity,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,1,Explicit dated statement automated backup exists no DR servers at alternative site
-infra.energy--sufficient-energy-and-water-for-data-centres,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,1,AfDB appraisal 52MW reliably available vs 74.3MW demand water-pumping component
-infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-05-11-afdb-eritrea-deepen-partnership-mission.md,2,1,Dekemhare 30MW solar plant confirmed grid-connected operational
-infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-02-20-afdb-press-release-58m-eritrea-energy-integrated.md,2,2,58.04M approval explicitly funding solar plus clean-water pumping
-infra.energy--grid-reliability,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,1,Same AfDB appraisal quoted for grid-capacity/reliability figures
-infra.energy--grid-reliability,progress/2026-05-11-afdb-eritrea-deepen-partnership-mission.md,2,1,Dekemhare plant operational adds non-diesel generation to grid
-infra.energy--grid-reliability,progress/2026-01-24-shabait-president-isaias-interview-12-minigrid-energy-plan.md,2,2,Presidential interview formalises 12-mini-grid decentralised architecture
-infra.energy--rural-electrification,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,1,AfDB dated rural-access figure 37 to 39pct and institutional response
-infra.energy--rural-electrification,progress/2026-02-20-afdb-press-release-58m-eritrea-energy-integrated.md,2,1,58.04M approval targeting 61382 households 306000 people
-infra.energy--rural-electrification,progress/2025-12-20-shabait-adi-keih-tserona-electricity-line-phase-one.md,2,2,Concrete completed physical milestone Adi-Keih-Tserona line phase one
-infra.capacity--robustness-of-government-hardware-and-software,baseline/1998-08-17-eritrea-legal-notice-43-1998-telecom-regulations.md,1,1,Operative telecom regulation reliability/quality-monitoring obligations
-infra.cybersec--national-cybersecurity-readiness,baseline/2015-03-12-eritrea-itu-cyberwellness-profile.md,1,1,ITU structured assessment no cybercrime law no CIRT no strategy
-dpi.exchange--national-data-exchange-system,baseline/2022-01-01-eritrea-global-digital-identity-index-govtech.md,1,1,Field-level GovTech dataset no interoperability framework no service bus
-dpi.exchange--use-of-digital-id-in-other-systems,baseline/1992-04-06-eritrea-nationality-proclamation-21-1992.md,1,1,Founding statute for Eritrean nationality/ID certification
-dpi.exchange--interoperability-of-education-systems,baseline/2023-09-01-eritrea-2023-2027-partnership-compact.md,1,1,MoE/GPE compact operative EMIS analysis planned TMIS integration
-dpi.mis--health,baseline/2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system.md,1,2,MoH strategic plan NHIS/HMIS structure DHIS2 rollout
-dpi.mis--health,baseline/2025-08-16-who-jee-eritrea-mission-report-2025.md,2,1,WHO JEE records AMR/DHIS2 integration Aug 2025 mission
-dpi.mis--education,baseline/2024-04-19-eritrea-gpe-programme-document-emis-standing.md,1,4,GPE programme document on EMIS standing
-dpi.mis--education,progress/2026-06-11-unesco-iicba-eritrea-emis-data-analytical-support-rfp.md,2,1,UNESCO-IICBA RFP commissioning EMIS data-use support June 2026
-dpi.mis--education,progress/2025-11-01-gpekix-emis-policy-study-kix-africa-19.md,2,2,19-country study Eritrea in no formal EMIS policy group Nov 2025
-dpi.mis--social-protection,baseline/2025-03-05-ohchr-crc-concluding-observations-eritrea.md,1,3,UN CRC Committee instructs Eritrea to expedite Child/Social Protection MIS
-dpi.mis--social-protection,baseline/2026-07-22-acerwc-concluding-observations-eritrea.md,2,2,ACERWC recommends centralized national data system 2026
-dpi.mis--justice,baseline/2025-01-10-eritrea-ministry-of-justice-activity-assessment.md,1,2,MoJ own 2025 plan names advancing use of technology as priority
-dpi.mis--tax,baseline/2026-06-15-afdb-estap-eritas-implementation-progress-report.md,1,1,AfDB own supervision report on ErITAS June 2026 Release 1 SRS complete
-dpi.mis--tax,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,2,2,AfDB country strategy reaffirms ErITAS operationalisation as priority
-dpi.mis--land,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,1,1,UNECA/MLWE report Mai Chihot digital cadastral pilot March 2026
-dpi.mis--land,progress/2026-07-08-undp-gef-eritrea-land-management-investment.md,2,2,GEF-approved 8.4m land-governance/monitoring investment July 2026
-dpi.mis--land,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,3,UNDP annual report geospatial capacity extended ministry-wide
-digital.localgov--ict-infrastructure-for-local-government,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,1,1,Ministry of Information report GIS training addressing information-system gaps July 2026
-digital.localgov--ict-infrastructure-for-local-government,progress/2026-02-28-eritrea-gis-training-asmara-unega.md,2,3,Cross-government GIS/remote-sensing training incl regional administrations Feb 2026
-digital.localgov--digitalisation-of-local-government-records,baseline/2025-09-08-shabait-training-documentation-archives.md,1,1,Anseba Region documentation/archives training incl digital document management
-digital.localgov--digitalisation-of-local-government-records,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,1,Mai Chihot cadastral pilot paper records converted to GIS geodatabase
-digital.localgov--digitalisation-of-local-government-records,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,2,2,Gash Barka regional documentation-systems training July 2026
-digital.rural--digitalisation-of-rural-health-clinics,baseline/2025-08-16-who-jee-eritrea-mission-report-2025.md,1,1,WHO JEE scores rural surveillance/reporting digitisation gaps Aug 2025
-digital.rural--digitalisation-of-rural-health-clinics,progress/2026-05-16-redseabeacon-eritrea-quiet-revolution-health-care.md,2,1,Formal introduction of Digital Health Policy/HICT Strategic Plan 2026-2030
-digital.rural--digitalisation-of-rural-health-clinics,progress/2025-10-15-who-vigimobile-eritrea-workshop.md,2,2,VigiMobile digital adverse-event-reporting launch Oct 2025
-digital.rural--digitalisation-of-rural-primary-schools,baseline/2024-04-19-eritrea-gpe-programme-document-emis-standing.md,1,2,GPE programme document covers rural/zoba EMIS reach reused
-digital.rural--digitalisation-of-rural-primary-schools,progress/2025-12-18-unicef-eritrea-country-profile-emis.md,2,1,UNICEF profile digital EMIS rollout reached remote regions Dec 2025
-digital.rural--digitalisation-of-rural-primary-schools,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,2,Adi Keih substation electrified 124 rural schools for digital learning
-digital.rural--digitalisation-of-rural-registry-offices,baseline/2026-07-22-acerwc-concluding-observations-eritrea.md,1,1,ACERWC current CRVS-plan assessment July 2026
-digital.rural--digitalisation-of-rural-police-stations,baseline/2017-03-28-eritrea-achpr-initial-national-report.md,1,1,Eritrea own 1999-2016 national report computerized police data system
-digital.rural--digitalisation-of-rural-police-stations,progress/2026-06-04-shabait-vocational-training-college-students-police.md,2,2,Nationwide computer/networking training for personnel from all police stations June 2026
-dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2025-11-01-us-state-dept-eritrea-civil-documents-national-id.md,1,1,Most current description of operative national ID card issuer fee backlog
-dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2026-07-22-acerwc-concluding-observations-eritrea.md,2,1,Independent treaty-body review of 2024-2028 CRVS plan
-dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2025-09-01-unfpa-eritrea-ephs-2025-data-for-development.md,2,2,EPHS 2025 CAPI digitization distinct adjacent data-infrastructure event
-dpi.id--authentication,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,Only located authoritative statement no e-signature/e-authentication framework
-dpi.id--digital-id-from-birth,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,1,1,Government own account ID issued at 18 not birth CRVS plan prospective
-dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2021-01-21-swiss-sem-focus-eritrea-digital-population-registers.md,1,1,Most detailed technical description birth registration feeds Zoba digital registers
-dpi.id--use-by-other-systems,baseline/2014-09-08-eritrea-aml-cft-proclamation-175-2014-id-kyc.md,1,2,Primary legal instrument bank customer-identification ID card as KYC
-dpi.pay--g2p-functionality,baseline/2025-06-19-shabait-eritrea-monetary-support-families-martyrs.md,1,1,Dated account of standing cash G2P martyrs family scheme founding proclamation
-dpi.pay--revenue-collection,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,1,1,Actual operative digital revenue-collection system inaugurated in-window
-dpi.pay--revenue-collection,progress/2026-01-01-imf-afritac-east-eritrea-revenue-administration-digitalization.md,2,2,Distinct system domestic tax platform ErITAS e-taxpayer/data-migration progress
-dpi.pay--revenue-collection,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,3,Distinct system IFMIS/PFM platform UAT/go-live readiness
-dpi.pay--b2b-and-b2g-functionality,baseline/1997-03-10-eritrea-bank-of-eritrea-proclamation-93-1997.md,1,1,Founding legal mandate payment systems clearing settlement
-dpi.pay--b2b-and-b2g-functionality,progress/2026-05-11-afdb-eritrea-deepen-partnership-mission.md,2,1,Dated institutional-track movement AfDB mission prospective modernisation
-dpi.pay--p2p-p2g-and-p2b-functionality,baseline/2026-01-01-bti-2026-eritrea-country-report.md,1,1,Authoritative statement of absence cash-only no free-market payment mechanisms
-dpi.pay--population-uptake,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,1,1,Best-available published assessment no Global Findex/IMF FAS data
-dpi.pay--population-uptake,progress/2026-03-30-fintech-times-eritrea-fintech-ecosystem-2026.md,2,1,Dated industry estimate 70pct unbanked 15-20pct digital-payment growth
-dpi.pay--cross-border-functionality,baseline/2025-07-01-esaamlg-eritrea-mutual-evaluation-report.md,1,1,Formal regional AML/CFT peer assessment no ATMs cards internet banking
-dpi.pay--cross-border-functionality,progress/2026-04-26-geeska-us-considers-easing-sanctions-eritrea.md,2,1,Distinct dated policy-track event US sanctions-easing consideration
-dpi.pay--cross-border-functionality,progress/2025-08-26-world-bank-remittance-prices-uk-eritrea-corridor.md,2,3,Distinct dated quantitative snapshot UK-Eritrea remittance corridor
-dpi.pay--consumer-protection,baseline/1997-07-14-imf-eritrea-selected-issues-financial-system.md,1,1,Founding-era financial-sector supervisory framework
-dpi.pay--consumer-protection,progress/2026-07-20-eritrea-today-nationwide-cash-deposit-directive.md,2,1,Distinct dated regulatory event affecting consumer banking access/liquidity
-dpi.pay--consumer-protection,progress/2026-01-14-shabait-eritrea-microcredit-savings-program-inclusive-finance.md,2,2,Distinct dated financial-inclusion programme growth consumer-facing
-dpi.registry--population-register,baseline/2021-01-21-eritrea-focus-identity-civil-status-documents-sem.md,1,1,Swiss SEM focused report zoba-level digital population-register architecture
-dpi.registry--civil-register,baseline/2015-05-15-eritrea-civil-code-2015.md,1,1,Primary operative legal instrument civil-status officers registers records
-dpi.registry--business-register,baseline/2002-12-27-eritrea-business-information-register-proclamation-124.md,1,1,Founding proclamation Ministry of Trade and Industry Business Information Register
-dpi.registry--social-protection-register,baseline/2024-02-23-eritrea-upr-national-report-46th-session.md,1,1,Eritrea own dated UPR report beneficiary identification ad hoc not a registry
-dpi.registry--electoral-register,baseline/2026-05-07-un-hrc-special-rapporteur-eritrea-a-hrc-62-20.md,1,1,Most current UN statement Constitution/elected institutions unimplemented
-dpi.registry--tax-register,baseline/2026-08-31-eritrea-estap-iati-dportal-project-status.md,1,1,Live IATI status record tax-administration modernization project 20pct complete
-tech.industry--national-capacity-in-dt-related-production,baseline/1998-03-02-eritrea-communications-proclamation-102.md,1,1,Founding communications-sector law statutory objective develop capabilities
-tech.innovate--technology-hubs,progress/2026-05-22-eritrea-national-innovation-creativity-competition.md,2,1,Distinct 20 May 2026 NUEYS innovation-hub competition loan support
-tech.innovate--technology-hubs,progress/2025-08-13-eritrea-innovation-creativity-nueys-festival.md,2,2,Distinct Aug 2025 festival-based innovation-hub event separate venue
-tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2021-01-16-shabait-agricultural-strategic-information-system-eritrea-ai.md,1,1,Founding document ASISD Agricultural Expert System explicitly named AI
-capacity.literacy--digital-literacy-civil-service,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,1,Founding ICT policy mandating basic ICT literacy for Ministry of Education staff
-capacity.literacy--digital-literacy-civil-service,progress/2025-11-01-eritrea-vocational-training-anseba-workers.md,2,1,108 government employees trained computer technology networking Nov 2025
-capacity.literacy--digital-literacy-general-population,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,1,Same founding policy targets all citizens narrowing digital divide
-capacity.literacy--digital-literacy-general-population,progress/2025-11-11-eritrea-vocational-training-keren-mendefera.md,2,1,NUEYS youth computer-training cohorts Keren/Mendefera Nov 2025
-capacity.training--dt-related-training-in-secondary-education,baseline/2012-07-01-eritrea-moe-overview-of-education.md,1,1,MoE status overview naming ICT in Education distinct secondary-curriculum area
-capacity.training--dt-related-training-in-secondary-education,progress/2026-07-03-shabait-halay-technical-school-44-graduates.md,2,1,44 graduates computer maintenance/networking certificate secondary/TVET
-capacity.training--dt-related-university-facilities-and-qualifications,baseline/2019-07-17-shabait-eit-12th-commencement.md,1,1,Dated official statement of EIT ICT degree/diploma structure
-capacity.training--dt-related-university-facilities-and-qualifications,baseline/2026-07-18-eritrea-mai-nefhi-college-297-graduates.md,2,1,297 graduates incl Computer Science and Engineering in-window
-capacity.training--graduates-entering-dt-ecosystem,baseline/2020-11-07-shabait-eripromo-eit-graduate-entrepreneur.md,1,1,Named dated case of EIT CS graduate entering tech entrepreneurship
-capacity.training--graduates-entering-dt-ecosystem,progress/2026-07-21-shabait-polytech-ai-and-the-future.md,2,1,700 grads/year private tech institute alumni open tech shops
-capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2002-07-01-estda-establishment-proclamation-122.md,1,1,Founding proclamation ESTDA explicit Information Science and Technology R&D mandate
-capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2025-11-13-eeas-research-documentation-center-digital-reality.md,2,1,RDC concrete contribution to draft Law on National Archives and Libraries
-capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-08-10-mesobjournal-eritrea-digital-sovereignty.md,2,2,Substantive digital-infrastructure/governance policy blueprint in-window
-include.divides--bridging-of-digital-divides,baseline/2024-04-06-shabait-rora-digital-library.md,1,1,Named institution explicitly practicing positive discrimination toward remote areas
-geopol.eu--eu-mous-engagements-and-commitments,baseline/2023-12-28-eu-oacps-samoa-agreement.md,1,1,Binding EU-OACPS framework listing Eritrea as party e-governance/data articles
-geopol.eu--eu-mous-engagements-and-commitments,progress/2025-11-13-eeas-research-documentation-center-digital-reality.md,2,1,EU-funded digital-preservation engagement Nov 2025 also staged under tech research
-geopol.eu--eu-mous-engagements-and-commitments,progress/2025-12-10-eeas-ambassador-credentials.md,2,2,Highest-level EU-Eritrea diplomatic engagement in window
-geopol.gulf--gulf-mous-engagements-and-commitments,baseline/2010-10-19-shabait-eritrea-saudi-cooperation-agreement.md,1,1,Signed general cooperation agreement later reaffirmed
-geopol.gulf--gulf-mous-engagements-and-commitments,progress/2025-12-10-shabait-isaias-mbs-riyadh-talks.md,2,1,Summit-level Riyadh talks with Crown Prince MBS
-geopol.gulf--gulf-mous-engagements-and-commitments,progress/2026-02-13-shabait-isaias-saudi-deputy-minister-implementation.md,2,2,Follow-up decision to expedite implementation of 2010 agreement
-geopol.india--india-mous-engagements-and-commitments,baseline/2019-11-07-india-eritrea-e-vbab-mou.md,1,1,Signed MoU joining India e-VBAB tele-education/tele-medicine network
-geopol.india--india-mous-engagements-and-commitments,progress/2025-12-06-mea-india-eritrea-foc-third-round.md,2,1,Third India-Eritrea Foreign Office Consultations Dec 2025
-include.access--citizen-feedback-portals,baseline/2025-12-17-world-bank-govtech-maturity-index-2025.md,1,1,World Bank GTMI 2025 documents absence of citizen feedback platform
-include.access--citizen-participation-in-policy,baseline/2025-02-27-ohchr-enhanced-interactive-dialogue-eritrea.md,1,1,Most recent UN statement unimplemented constitution no functioning legislature
-include.access--citizen-participation-in-policy,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,1,National Development Plan completed via participatory gender-responsive process
-include.access--citizen-participation-in-policy,progress/2026-04-01-shabait-community-centered-justice-system.md,2,3,New community conciliation councils in Ministry of Justice 2026-2030 plan
-include.access--gender-equity,baseline/2024-01-01-un-hlpf-eritrea-vnr-2024.md,1,1,Government primary VNR statement SDG 5 labour/citizenship/land proclamations
-include.access--gender-equity,baseline/2025-09-01-unfpa-eritrea-ephs-2025-data-for-development.md,2,1,EPHS 2025 first population/health survey in 15 years explicit gender parameters
-include.access--gender-equity,progress/2026-04-23-un-eritrea-annual-results-report-2025.md,2,2,Skilled birth attendance 81 to 85pct 992 villages newly FGM-free 2025
-include.access--inclusion-of-persons-with-disabilities,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,1,1,Government own report National Disability Policy 2021 revision CRPD accession
-include.access--inclusion-of-persons-with-disabilities,progress/2026-08-09-shabait-national-association-hearing-impaired-congress.md,2,2,Fifth congress of the 30000-member National Association of Hearing Impaired
-include.access--inclusion-of-persons-with-disabilities,progress/2026-02-01-habeneri-quarterly-newsletter-2026-issue-1.md,2,3,Diaspora NGO 2026 accessibility/rehabilitation projects Denden Adi Gadad
-include.access--inclusion-of-refugees-and-idps,baseline/2026-01-01-unhcr-rimap-eritrea-country-profile.md,1,1,UNHCR consolidated profile no national refugee/asylum legal framework
-include.access--inclusion-of-refugees-and-idps,baseline/2026-07-22-acerwc-concluding-observations-eritrea.md,2,1,Recommends Eritrea establish refugee-status-determination procedures
-include.access--inclusion-of-refugees-and-idps,progress/2026-04-01-unhcr-guidance-note-eritrea.md,2,3,Supersedes 2011 eligibility guidelines 679000 plus refugees worldwide
-data.statistics--national-strategy-for-development-of-statistics,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,2,NSO data-center/IT modernization highly satisfactory rating
-data.statistics--national-strategy-for-development-of-statistics,progress/2026-02-24-uneca-eritrea-nadabas-national-accounts-training.md,2,3,2008 SNA GDP-compilation and NADABAS training 19-30 Jan 2026
-data.open--use-of-open-data,progress/2026-07-14-hdx-hapi-eritrea-dataset.md,2,1,Actively maintained CC-licensed machine-readable open dataset modified Jul 2026
-data.satellite--agricultural-use-of-satellite-data,baseline/2025-05-07-ifad-eritrea-iadp-mid-term-review.md,1,1,IFAD/GoSE mid-term review ASISD remote-sensing use active/developmental
-data.satellite--agricultural-use-of-satellite-data,progress/2025-09-03-fao-giews-eritrea-country-brief.md,2,3,Earliest-in-window satellite-informed ASI crop-monitoring favourable 2025
-data.satellite--agricultural-use-of-satellite-data,progress/2026-08-19-icpac-fsnwg-el-nino-special-report.md,2,2,Later-in-window El Nino drought report less than 60pct normal rainfall
-data.satellite--meteorological-use-of-satellite-data,baseline/2026-01-28-adaptation-fund-eritrea-anseba-ex-post-evaluation.md,1,1,Independent evaluation hydrometeorological station network EWS concept-stage
-data.satellite--meteorological-use-of-satellite-data,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,2,Four-week GIS/remote-sensing training Ministry of Lands Water Environment
-data.satellite--meteorological-use-of-satellite-data,progress/2026-08-25-eurac-nbs4water-geodesign-asmara.md,2,3,Geodesign/hydrological-modelling workshops GEOframe training Asmara
-geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,baseline/2025-01-01-us-state-dept-2025-investment-climate-statement-eritrea.md,1,1,Most authoritative US instrument-status document no hyperscaler instrument
-geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2025-09-26-shabait-osman-saleh-trump-adviser-unga80.md,2,2,First substantive bilateral meeting of the window UNGA80
-geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2026-04-23-addis-standard-us-sanctions-relief-eritrea.md,2,1,Most significant escalation US exploring sanctions relief diplomatic reset
-geopol.china--chinese-mous-engagements-and-commitments,baseline/2021-11-30-ndrc-china-eritrea-bri-mou-signing.md,1,1,NDRC own record of the actual signed BRI cooperation MoU 24 Nov 2021
-geopol.china--chinese-mous-engagements-and-commitments,progress/2026-04-10-shabait-isaias-meets-china-special-envoy-horn-africa.md,2,1,Later Envoy-level meeting regional peace/development framing
-geopol.china--chinese-mous-engagements-and-commitments,progress/2025-12-08-shabait-isaias-met-china-special-envoy.md,2,2,Earlier Envoy-level meeting strategic-partnership reaffirmation
-gov.legislate--data-protection-legislation,baseline/2022-05-24-data-protection-africa-eritrea-factsheet.md,1,1,Structured factsheet NO DATA PROTECTION LAW DATA PROTECTION AUTHORITY NOT APPOINTED
-gov.legislate--data-protection-legislation,progress/2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent.md,2,1,HoAI regional matrix reassessed as nascent stage without legislation
-gov.legislate--data-protection-legislation,progress/2026-08-01-lawlab-africa-eritrea-data-protection.md,2,2,Law Lab Africa dossier verification pass reconfirms no comprehensive law
-gov.legislate--cybersecurity-legislation,baseline/2015-03-12-eritrea-itu-cyberwellness-profile.md,1,1,ITU Cyberwellness Profile None for cybercrime legislation CIRT strategy agency
-gov.legislate--cybersecurity-legislation,progress/2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent.md,2,1,Same HoAI matrix Cybersecurity pillar gaps in laws enforcement institutional capacity
-gov.legislate--legislation-covering-digital-id,baseline/2023-12-31-netherlands-eritrea-country-origin-information-report.md,1,1,Dutch COI report identity register runs on general administrative law no dedicated enactment
-gov.legislate--digital-payments-legislation,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,UNECA DTRI profile Payment systems pillar no licensing e-money interoperability framework
-gov.legislate--legislation-enabling-data-interoperability,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,Same profile Cross-border/domestic data policies pillars no enabling legal regime
-gov.legislate--legislation-enabling-data-interoperability,progress/2026-04-06-uneca-eritrea-domesticated-igif-action-plan.md,2,1,Eritrea domesticated IGIF action plan submitted Apr 2026
-gov.legislate--legislation-enabling-data-interoperability,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,2,AfDB IFMIS/DMFAS report cross-ministry integrated-reporting system go-live readiness
-gov.legislate--ai-legislation-regulations,baseline/2026-06-08-levellers-ai-regulation-eritrea.md,1,1,Dated dedicated legal-status page no AI law no strategy no regulator
-gov.legislate--e-commerce-legislation,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,1,Same profile Electronic transactions pillar UNCITRAL Model Law not adopted
-gov.legislate--e-commerce-legislation,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,1,ASYCUDA World digital customs system inauguration 8 Jan 2026
-gov.legislate--e-commerce-legislation,progress/2026-07-01-tralac-afcfta-legal-texts-policy-documents.md,2,2,tralac AfCFTA tracker Eritrea sole AU member yet to sign
-gov.legislate--statistics-legislation,baseline/2007-01-08-norad-eritrea-nso-statistics-norway-mid-term-review.md,1,1,Norad MTR draft Statistical Proclamation submitted but formal issue still pending
-gov.legislate--statistics-legislation,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,1,Same AfDB report NSO equipped with servers data-centre IT infrastructure
-gov.legislate--statistics-legislation,progress/2026-02-24-uneca-eritrea-nadabas-national-accounts-training.md,2,2,UNECA NADABAS/2008-SNA capacity-building mission Jan 2026
-gov.legislate--access-to-information-legislation,baseline/2026-01-01-unesco-upr46-eritrea-freedom-of-information.md,1,1,UNESCO UPR46 contribution No freedom of information law has been adopted
-gov.legislate--access-to-information-legislation,progress/2026-05-01-rsf-world-press-freedom-index-2026.md,2,1,RSF 2026 Index Eritrea ranked last of 180 for third consecutive year
-gov.discourse--non-governmental-contribution-to-national-policy,baseline/2026-05-07-un-hrc-special-rapporteur-eritrea-a-hrc-62-20.md,1,1,UN SR report absence of democratic institutions elected legislature independent civil society
-gov.discourse--non-governmental-contribution-to-national-policy,baseline/2026-06-19-eritrea-ohchr-special-rapporteur-no-improvement.md,2,1,OHCHR press release SR final report no signs of meaningful improvement
-gov.discourse--open-discussion-of-government-policy,baseline/2026-05-07-un-hrc-special-rapporteur-eritrea-a-hrc-62-20.md,1,1,Same SR report no free press no elected legislature legislative authority held solely by President
-gov.discourse--open-discussion-of-government-policy,progress/2026-07-08-eritrea-hrc-resolution-62-2.md,2,1,HRC Resolution 62/2 renews SR mandate continued deep concern
-gov.discourse--open-discussion-of-government-policy,progress/2026-05-01-rsf-world-press-freedom-index-2026.md,2,2,RSF 2026 Index distinct dated global reassessment of open-discussion environment
+indicator_id,file,brief,why
+gov.policy--digital-transformation-strategy,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,states broader National ICT Policy pending
+gov.policy--digital-transformation-strategy,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,discrete digital-transformation activities across 2025
+gov.policy--ict-strategy,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,same absence-statement baseline
+gov.policy--ict-strategy,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,ASYCUDA World launch
+gov.policy--data-storage-cloud-strategy,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no infrastructure/local-storage requirement
+gov.policy--data-storage-cloud-strategy,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,sovereign server room source-code transfer
+gov.policy--data-storage-cloud-strategy,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,NSO data centre established servers migrated
+gov.policy--data-interoperability-framework-roadmap,baseline/2021-01-01-un-eritrea-sustainable-development-cooperation-framework-2022-2026.md,1,commits to design and roll out integrated national data ecosystem
+gov.policy--data-interoperability-framework-roadmap,progress/2026-04-06-uneca-eritrea-domesticated-igif-action-plan.md,2,national IGIF domestication action plan
+gov.policy--data-interoperability-framework-roadmap,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IFMIS rollout roadmap finalised UAT complete
+gov.policy--data-localisation-policies,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no local-storage law
+gov.policy--data-localisation-policies,progress/2026-02-28-eritrea-gis-training-asmara-unega.md,2,government-wide domestic geospatial-capacity training
+gov.policy--data-governance-policy,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no comprehensive data-protection legal framework
+gov.policy--data-governance-policy,progress/2026-04-06-uneca-eritrea-domesticated-igif-action-plan.md,2,policy-planning step
+gov.policy--data-governance-policy,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,NSO data-governance capacity built
+gov.policy--open-data-policy,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no open-data policy identified
+gov.policy--open-data-policy,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,geospatial-data capacity building prototype dashboards
+gov.protect--data-protection-authority,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no DPA established
+gov.protect--national-data-protection-readiness,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,narrow Penal-Code/Proclamation coverage only
+gov.protect--national-data-protection-readiness,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IT-security training disaster-recovery gap
+gov.protect--national-data-protection-readiness,progress/2026-08-01-lawlab-africa-eritrea-data-protection.md,2,dated re-confirmation of unchanged absence
+gov.regional--regional-policy-collaboration,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,1,IGAD formal record Eritrea withdrew Dec 2025
+gov.regional--regional-policy-collaboration,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,same event HTML companion
+gov.regional--regional-legal-harmonisation,progress/2026-07-01-tralac-afcfta-legal-texts-policy-documents.md,2,updated July 2026 sole non-signatory
+gov.regional--regional-legal-harmonisation,baseline/2026-01-26-igad-eardip-programme-page-member-states.md,2,EARDIP coverage omits Eritrea
+gov.standards--national-interoperability-standards,baseline/2022-01-01-eritrea-global-digital-identity-index-govtech.md,1,GTMI I-3 No government interoperability framework
+gov.standards--national-interoperability-standards,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IFMIS/DMFAS adopted
+gov.standards--national-interoperability-standards,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,ASYCUDA World customs system
+gov.standards--national-quality-standards,progress/2026-07-12-shabait-workshop-national-food-control-policy.md,2,National Food Control Policy inception workshop
+gov.standards--adoption-of-international-standards,progress/2026-07-12-shabait-workshop-national-food-control-policy.md,2,Codex-linked food-policy process
+gov.standards--adoption-of-international-standards,baseline/2026-03-24-itu-statistical-findings-umc-africa-eritrea-data-gap.md,2,no WTI submission since 2017
+finance.budget--sustainable-domestic-financing-of-digital-transformation,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,quantified PFM-system disbursement progress
+finance.new--mobilisation-of-non-state-finance,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,1,current authoritative account
+infra.connect--internet-exchange-points,progress/2026-08-10-mesobjournal-eritrea-digital-sovereignty.md,2,first published explicit call to establish Asmara IXP
+infra.store--local-data-centre-capacity-all-providers,baseline/2026-08-31-eritel-private-cloud-services.md,1,Eritel private-cloud/datacentre service offering
+infra.store--local-data-centre-capacity-all-providers,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,new solar-powered central-server deployment
+infra.store--local-data-centre-capacity-national-providers,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,NSO data centre established
+infra.store--local-data-centre-capacity-national-providers,progress/2026-08-10-mesobjournal-eritrea-digital-sovereignty.md,2,national data centres unmet strategic priority
+infra.store--off-site-backup-capacity,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,IFMIS automated backup no separate DR site
+infra.store--off-site-backup-capacity,progress/2026-08-10-mesobjournal-eritrea-digital-sovereignty.md,2,sovereign-cloud/redundant-hosting need
+infra.energy--sufficient-energy-and-water-for-data-centres,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,157MW installed 35-52MW reliable vs 74.3MW demand
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-02-20-afdb-press-release-58m-eritrea-energy-integrated.md,2,58m financing approval second solar mini-grid
+infra.energy--grid-reliability,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,capacity/demand baseline plus historical SAIDI
+infra.energy--grid-reliability,progress/2026-02-20-afdb-press-release-58m-eritrea-energy-integrated.md,2,542km distribution-line construction
+infra.energy--rural-electrification,baseline/2026-02-01-afdb-energy-integrated-project-appraisal-grid-reliability.md,1,12MW existing mini-grid programme 38pct national access
+infra.energy--rural-electrification,progress/2026-02-20-afdb-press-release-58m-eritrea-energy-integrated.md,2,306000-person rural electrification project approved
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,IFMIS go-live DMFAS operational
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,ASYCUDA World replaces legacy 2007 system
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,staff trained on IFMIS/DMFAS/NSO servers
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,source code transferred 100 staff trained
+infra.cybersec--national-cybersecurity-readiness,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,locally-controlled source-code-owned deployment
+dpi.exchange--national-data-exchange-system,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IFMIS cross-ministry rollout UAT complete
+dpi.exchange--interoperability-of-education-systems,progress/2025-12-18-unicef-eritrea-country-profile-emis.md,2,EMIS digital rollout
+dpi.pay--revenue-collection,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,1,ErITAS operationalisation named as priority
+dpi.pay--revenue-collection,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,ASYCUDA World digital customs operational launch
+dpi.pay--b2b-and-b2g-functionality,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,IFMIS 7-module pilot UAT complete
+dpi.pay--b2b-and-b2g-functionality,progress/2026-05-11-afdb-eritrea-deepen-partnership-mission.md,2,continued financial-sector-modernisation dialogue
+dpi.pay--p2p-p2g-and-p2b-functionality,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,2,0pct to 2pct mobile-money target set
+dpi.pay--p2p-p2g-and-p2b-functionality,progress/2026-05-11-afdb-eritrea-deepen-partnership-mission.md,2,continued modernisation dialogue
+dpi.pay--population-uptake,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,1,gt70pct unbanked 2024 0pct mobile-money
+dpi.pay--cross-border-functionality,progress/2025-12-12-igad-regrets-eritrea-withdrawal.md,2,Eritrea formally withdrew from IGAD
+dpi.pay--consumer-protection,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,no accountability-principle law
+dpi.registry--population-register,baseline/2023-12-31-netherlands-eritrea-country-origin-information-report.md,1,dedicated section2.6 Population register
+dpi.registry--civil-register,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,2,2024-2028 Strategic CRVS Plan
+dpi.registry--civil-register,baseline/2025-09-01-unfpa-eritrea-ephs-2025-data-for-development.md,2,EPHS 2025 first major survey in 15 years
+dpi.registry--address-register,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,cadastral GIS capacity-building MLWE
+dpi.registry--address-register,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,2,GIS training extended to regional administration
+dpi.registry--business-register,baseline/2002-12-27-eritrea-business-information-register-proclamation-124.md,1,founding Business Information Register Proclamation
+dpi.registry--tax-register,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,2,EriTAS taxpayer-registration automation
+dpi.registry--tax-register,baseline/2026-06-15-afdb-estap-eritas-implementation-progress-report.md,2,ESTAP IRP publication
+dpi.registry--land-register,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,Mai Chihot digital cadastral pilot moved to baseline
+dpi.mis--health,baseline/2021-10-01-eritrea-hssdp-iii-2022-2026-health-information-system.md,1,NHIS/HMIS well-established but incomplete
+dpi.mis--health,baseline/2025-08-16-who-jee-eritrea-mission-report-2025.md,2,paper-based sub-zoba surveillance
+dpi.mis--education,baseline/2024-04-19-eritrea-gpe-programme-document-emis-standing.md,1,EMIS exists largely paper-based
+dpi.mis--education,progress/2026-06-11-unesco-iicba-eritrea-emis-data-analytical-support-rfp.md,2,UNESCO RFP for EMIS data-analytics
+dpi.mis--social-protection,baseline/2025-03-05-ohchr-crc-concluding-observations-eritrea.md,1,recommends expediting Child and Social Protection MIS
+dpi.mis--justice,progress/2026-04-01-shabait-community-centered-justice-system.md,2,MoJ community-conciliation reform
+dpi.mis--tax,baseline/2026-06-15-afdb-estap-eritas-implementation-progress-report.md,2,ESTAP IRP Release1 complete Release2 ahead
+dpi.mis--land,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,1,most authoritative current-standing statement
+dpi.mis--land,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,2,regional GIS training distinct event
+dpi.mis--land,progress/2026-07-08-undp-gef-eritrea-land-management-investment.md,2,GEF-backed land-management monitoring track
+digital.localgov--ict-infrastructure-for-local-government,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,2,GIS training routine regional-administration operations
+digital.localgov--digitalisation-of-local-government-records,baseline/2025-09-08-shabait-training-documentation-archives.md,1,Anseba regional-administration digital-document-management training
+digital.localgov--digitalisation-of-local-government-records,baseline/2026-07-13-shabait-eritrea-gis-training-gash-barka.md,2,Gash Barka GIS training distinct event
+digital.rural--digitalisation-of-rural-health-clinics,progress/2025-10-15-who-vigimobile-eritrea-workshop.md,2,VigiMobile smartphone adverse-event-reporting
+digital.rural--digitalisation-of-rural-primary-schools,baseline/2024-04-19-eritrea-gpe-programme-document-emis-standing.md,1,school data collection still manual/paper
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-06-11-unesco-iicba-eritrea-emis-data-analytical-support-rfp.md,2,EMIS data-analytical support commissioned
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2025-03-05-ohchr-crc-concluding-observations-eritrea.md,2,urging civil-register digitisation planned computer database
+digital.rural--digitalisation-of-rural-police-stations,baseline/2017-03-28-eritrea-achpr-initial-national-report.md,1,police-wide computerised crime-record system
+digital.rural--digitalisation-of-rural-police-stations,progress/2026-06-04-shabait-vocational-training-college-students-police.md,2,nationwide police computer-maintenance training
+tech.ai--use-of-ai-in-government-administration,baseline/2021-01-16-shabait-agricultural-strategic-information-system-eritrea-ai.md,1,Agricultural Expert System explicitly named AI
+tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2021-01-16-shabait-agricultural-strategic-information-system-eritrea-ai.md,1,same Agricultural Expert System sectoral angle
+tech.ai--use-of-ai-in-sectoral-management-information-systems,progress/2026-07-21-shabait-polytech-ai-and-the-future.md,2,private AI-skills training ecosystem movement
+tech.ai--control-of-ai-abuse,baseline/2025-03-05-ohchr-crc-concluding-observations-eritrea.md,1,2015 Penal Code not yet in force
+tech.industry--national-capacity-in-dt-related-production,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,ASYCUDA World full source-code transfer
+capacity.literacy--digital-literacy-civil-service,baseline/2026-01-08-undp-eritrea-asycuda-world-digital-customs.md,2,100-participant digital customs capacity-building
+capacity.literacy--digital-literacy-civil-service,progress/2026-02-28-eritrea-gis-training-asmara-unega.md,2,UNECA GIS training 25 govt experts
+capacity.literacy--digital-literacy-general-population,progress/2025-11-11-eritrea-vocational-training-keren-mendefera.md,2,300+/136 youth computer-tech training
+capacity.training--dt-related-training-in-secondary-education,progress/2026-07-21-shabait-polytech-ai-and-the-future.md,2,private Polytech AI/computer courses
+capacity.training--dt-related-university-facilities-and-qualifications,baseline/2026-07-18-eritrea-mai-nefhi-college-297-graduates.md,1,297 graduates incl Computer Science and Engineering
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-06-04-shabait-vocational-training-college-students-police.md,2,400+ college students 37 in computer technology
+capacity.training--graduates-entering-dt-ecosystem,progress/2026-07-21-shabait-polytech-ai-and-the-future.md,2,Polytech 700 grads/yr 50 AI-course grads
+capacity.training--graduates-entering-dt-ecosystem,baseline/2026-07-18-eritrea-mai-nefhi-college-297-graduates.md,2,Mai-Nefhi 297 grads incl Computer Science
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2002-07-01-estda-establishment-proclamation-122.md,1,ESTDA founding law national S&T R&D mandate
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,UNECA geospatial capacity workshop
+include.access--citizen-participation-in-policy,baseline/2026-06-19-eritrea-ohchr-special-rapporteur-no-improvement.md,1,UN Special Rapporteur closed civic space
+include.access--citizen-participation-in-policy,progress/2026-07-08-eritrea-hrc-resolution-62-2.md,2,HRC Resolution 62/2 renewed scrutiny
+include.access--gender-equity,progress/2025-11-11-eritrea-vocational-training-keren-mendefera.md,2,144 female trainees computer technology
+include.access--gender-equity,baseline/2025-11-01-shabait-anseba-vocational-training-government-employees.md,2,63 female workers computer tech/networking
+include.access--inclusion-of-persons-with-disabilities,baseline/2026-07-22-acerwc-concluding-observations-eritrea.md,1,2021 National Disability Policy revision CRPD accession
+include.access--inclusion-of-persons-with-disabilities,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,485 disadvantaged women incl disabilities
+include.access--inclusion-of-refugees-and-idps,progress/2026-04-01-unhcr-guidance-note-eritrea.md,2,UNHCR new April 2026 guidance
+include.divides--bridging-of-digital-divides,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,founding 2005 ICT policy explicit digital-divide objective
+data.statistics--national-strategy-for-development-of-statistics,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,1,NSO data-centre/IT modernisation complete
+data.statistics--national-strategy-for-development-of-statistics,progress/2026-04-06-uneca-eritrea-domesticated-igif-action-plan.md,2,domesticated geospatial-information governance
+data.statistics--national-strategy-for-development-of-statistics,progress/2026-02-24-uneca-eritrea-nadabas-national-accounts-training.md,2,national-accounts/NADABAS training
+data.open--use-of-open-data,baseline/2025-09-01-unfpa-eritrea-ephs-2025-data-for-development.md,1,no open-data portal exists dissemination plan
+data.open--use-of-open-data,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,NSO IT/data-centre modernisation
+data.open--use-of-open-data,progress/2026-04-06-uneca-eritrea-domesticated-igif-action-plan.md,2,geospatial-data governance plan
+data.satellite--agricultural-use-of-satellite-data,baseline/2021-01-16-shabait-agricultural-strategic-information-system-eritrea-ai.md,1,ASISD operational GIS/remote-sensing
+data.satellite--agricultural-use-of-satellite-data,baseline/2026-03-01-uneca-eritrea-geospatial-capacity-workshop.md,2,4-week UNECA remote-sensing/GIS workshop
+geopol.eu--eu-mous-engagements-and-commitments,progress/2025-11-13-eeas-research-documentation-center-digital-reality.md,2,EU-funded digital-heritage-preservation
+geopol.india--india-mous-engagements-and-commitments,progress/2025-12-06-mea-india-eritrea-foc-third-round.md,2,3rd FOC Dec2025 ITEC/ICCR reaffirmed
+gov.legislate--statistics-legislation,baseline/2007-01-08-norad-eritrea-nso-statistics-norway-mid-term-review.md,1,NSO statistical proclamation still pending
+gov.legislate--access-to-information-legislation,baseline/2026-01-01-unesco-upr46-eritrea-freedom-of-information.md,1,UNESCO UPR46 contribution no FOI law adopted
+gov.legislate--access-to-information-legislation,progress/2026-05-01-rsf-world-press-freedom-index-2026.md,2,RSF 2026 index Eritrea last of 180
+gov.legislate--ai-legislation-regulations,baseline/2026-06-08-levellers-ai-regulation-eritrea.md,1,no dedicated AI law found
+gov.discourse--open-discussion-of-government-policy,progress/2026-05-01-rsf-world-press-freedom-index-2026.md,2,RSF index reused
+gov.legislate--data-protection-legislation,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,absence finding reused
+gov.legislate--data-protection-legislation,progress/2026-08-01-lawlab-africa-eritrea-data-protection.md,2,dated re-confirmation
+gov.legislate--cybersecurity-legislation,baseline/2015-05-15-eritrea-penal-code-2015-computer-offences.md,1,Arts 374-375 only identifiable provisions
+gov.legislate--legislation-covering-digital-id,baseline/1992-04-06-eritrea-nationality-proclamation-21-1992.md,1,closest legal basis no dedicated digital-ID law
+gov.legislate--digital-payments-legislation,baseline/2025-07-01-esaamlg-eritrea-mutual-evaluation-report.md,1,absence finding reused
+gov.legislate--digital-payments-legislation,progress/2026-07-20-eritrea-today-nationwide-cash-deposit-directive.md,2,Central Bank directive reused
+gov.legislate--legislation-enabling-data-interoperability,baseline/2025-09-01-hoai-digital-policy-matrix-update-data-protection-nascent.md,1,nascent-stage finding
+gov.legislate--legislation-enabling-data-interoperability,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IFMIS cross-ministry pilot
+gov.legislate--e-commerce-legislation,baseline/2022-01-01-uneca-dtri-eritrea-digital-trade-regulatory-country-profile.md,1,same doc reused
+gov.legislate--e-commerce-legislation,progress/2026-01-01-the-abc-journey-draft-laws-commercial-code.md,2,unofficial consultation-draft commercial code
+gov.discourse--non-governmental-contribution-to-national-policy,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,reused
+gov.discourse--non-governmental-contribution-to-national-policy,baseline/2026-06-01-undp-eritrea-annual-report-2025-ndp.md,2,NDP consultation
+gov.discourse--non-governmental-contribution-to-national-policy,progress/2026-08-25-eurac-nbs4water-geodesign-asmara.md,2,Asmara geodesign workshops
+gov.regional--shared-regional-infrastructure,baseline/2020-03-06-igad-irimp-volume-2-ict-infrastructure.md,1,IGAD master plan Eritrea unconnected
+gov.policy--broadband-strategy,baseline/2019-01-01-itu-broadband-strategies-policies-plans-2019.md,1,ITU inventory no adopted strategy
+gov.standards--adoption-of-international-standards,baseline/1995-09-20-proclamation-75-eritrean-standards-institution.md,1,founding ESI proclamation
+gov.standards--national-quality-standards,baseline/1995-09-20-proclamation-75-eritrean-standards-institution.md,1,founding ESI proclamation reused
+include.access--citizen-feedback-portals,baseline/2026-08-31-eritel-internet-complaint-hub.md,1,only operational digital complaint channel
+gov.regional--cross-border-data-transfers,progress/2025-12-02-au-validation-data-governance-frameworks.md,2,AU continental data-governance framework validation
+gov.regional--shared-regional-infrastructure,progress/2025-12-02-au-validation-data-governance-frameworks.md,2,AU framework validation reused
+include.access--inclusion-of-persons-with-disabilities,progress/2026-04-29-shabait-training-sign-language-central-region.md,2,accessibility training
+include.access--citizen-feedback-portals,progress/2026-02-12-shabait-assessment-meetings-reconciliation-committees.md,2,community grievance-redress scale
+include.access--citizen-participation-in-policy,baseline/2026-06-19-eritrea-ohchr-special-rapporteur-no-improvement.md,2,UN SR no meaningful civic-space improvement
+gov.policy--ai-strategy,progress/2026-03-12-shabait-biotech-marikos-biomedical-engineering.md,2,AI-adjacent capacity-building
+tech.innovate--technology-hubs,baseline/2025-04-09-shabait-innovation-hub-nueys-youth-entrepreneurship.md,1,NUEYS youth innovation hub
+tech.innovate--technology-hubs,progress/2026-07-21-shabait-polytech-ai-and-the-future.md,2,reused Polytech AI
+data.satellite--meteorological-use-of-satellite-data,baseline/2024-12-06-shabait-eritrea-unccd-cop16-statement-meteorological-services.md,1,UNCCD COP16 statement
+data.satellite--meteorological-use-of-satellite-data,progress/2026-08-10-icpac-climate-watch-advisory-dry-conditions.md,2,ICPAC drought advisory
+data.satellite--meteorological-use-of-satellite-data,progress/2026-07-06-hdx-wfp-eritrea-rainfall-indicators-subnational.md,2,WFP rainfall indicators
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-05-08-shabait-mai-nefhi-engineering-day.md,2,Engineering Day Mai-Nefhi
+infra.connect--mobile-affordability,baseline/2023-03-01-itu-measuring-digital-development-ldc-focus-2023.md,1,ITU LDC-focus affordability report
+infra.energy--grid-reliability,progress/2025-12-03-afdb-hirgigo-genset-rehabilitation-spare-parts.md,2,Hirgigo genset rehabilitation
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-01-28-shabait-scaling-water-security-southern-region.md,2,water-security scaling
+tech.ai--control-of-ai-abuse,progress/2026-04-02-afp-factcheck-ai-warfare-ethiopia-eritrea.md,2,AI-generated war-imagery factcheck
+digital.rural--digitalisation-of-rural-police-stations,progress/2025-11-14-shabait-training-police-profession-new-members.md,2,reused police training
+dpi.exchange--interoperability-of-education-systems,progress/2025-12-16-unesco-iicba-eritrea-tmis-zambia-workshop.md,2,MoE TMIS capacity-building visit
+dpi.exchange--interoperability-of-health-systems,progress/2025-11-24-unfpa-eritrea-ephs-2025-case-study.md,2,EPHS 2025 case study
+dpi.govtech--e-government-services,baseline/2024-10-30-un-egovernment-survey-2024-technical-appendix.md,1,UN E-Gov Survey OSI/EGDI standing
+dpi.id--interoperability-of-birth-registration-and-digital-id,progress/2026-03-02-uk-gov-eritrea-knowledge-base-profile.md,2,UK Home Office ID-required-for-passport
+dpi.id--national-maintenance-of-id-and-credentials-systems,progress/2026-01-24-shabait-president-isaias-interview-12-minigrid-energy-plan.md,2,diaspora database announcement
+dpi.mis--education,progress/2026-04-01-shabait-community-centered-justice-system.md,2,TMIS Teaching Council capacity movement
+dpi.mis--health,progress/2026-07-17-who-eritrea-genomic-sequencing-national-health-laboratory.md,2,genomic-surveillance capacity development
+dpi.mis--tax,baseline/2026-06-15-afdb-estap-eritas-implementation-progress-report.md,1,ErITAS satisfactory-rated implementation
+dpi.mis--tax,baseline/2026-02-20-afdb-ipr-pfm-statistics-ifmis-nso-datacentres.md,2,IFMIS government-wide rollout
+dpi.pay--consumer-protection,progress/2026-01-14-shabait-eritrea-microcredit-savings-program-inclusive-finance.md,2,microcredit consumer-facing channel
+dpi.pay--cross-border-functionality,baseline/2025-07-01-esaamlg-eritrea-mutual-evaluation-report.md,1,ESAAMLG MER cash-based non-digital
+dpi.pay--cross-border-functionality,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,2,AfDB payment-processing modernisation roadmap
+dpi.pay--g2p-functionality,baseline/2024-06-01-africanenda-siips-2024-eritrea.md,1,SIIPS 2024 no Eritrean IPS/G2P system
+dpi.pay--p2p-p2g-and-p2b-functionality,baseline/2025-11-01-afdb-eritrea-interim-country-strategy-paper-2025-2027.md,1,0-2pct mobile-money target reused
+dpi.registry--business-register,progress/2025-10-14-eritrea-focus-state-dept-ics-2024-business-register.md,2,dated confirmation register non-digitised
+dpi.registry--civil-register,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,1,government current CRVS status statement
+dpi.registry--electoral-register,baseline/2026-06-08-eritrean-electoral-law-constitutionnet.md,1,Electoral Commission founding law
+dpi.registry--land-register,baseline/1997-05-19-eritrea-proclamation-95-1997-land-registration-cadastral-office.md,1,Cadastral Office founding proclamation
+dpi.registry--population-register,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,2,5-year CRVS Plan in-window submission
+dpi.registry--population-register,progress/2026-07-22-acerwc-eritrea-concluding-observations-crvs.md,2,external validation of CRVS plan
+dpi.registry--social-protection-register,baseline/2025-10-01-eritrea-fourth-periodic-report-acrwc-disability.md,1,confirms no unified beneficiary registry
+dpi.registry--social-protection-register,progress/2026-06-18-shabait-eritrea-martyrs-families-6-2-billion-nakfa.md,2,operative programme-level beneficiary disclosure
+dpi.registry--tax-register,baseline/2026-06-15-afdb-estap-eritas-implementation-progress-report.md,1,ErITAS taxpayer-registration module status reused
+geopol.china--chinese-mous-engagements-and-commitments,baseline/2021-11-30-ndrc-china-eritrea-bri-mou-signing.md,1,BRI MoU signing
+geopol.china--chinese-mous-engagements-and-commitments,progress/2025-12-08-shabait-isaias-met-china-special-envoy.md,2,special envoy meeting
+geopol.china--chinese-mous-engagements-and-commitments,progress/2026-04-10-shabait-isaias-meets-china-special-envoy-horn-africa.md,2,distinct later meeting
+geopol.gulf--gulf-mous-engagements-and-commitments,baseline/2010-10-19-shabait-eritrea-saudi-cooperation-agreement.md,1,Saudi cooperation agreement
+geopol.gulf--gulf-mous-engagements-and-commitments,progress/2025-12-10-shabait-isaias-mbs-riyadh-talks.md,2,MBS Riyadh talks
+geopol.gulf--gulf-mous-engagements-and-commitments,progress/2026-02-13-shabait-isaias-saudi-deputy-minister-implementation.md,2,distinct implementation meeting
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,baseline/2025-01-01-us-state-dept-2025-investment-climate-statement-eritrea.md,1,no hyperscaler engagement found
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2025-09-26-shabait-osman-saleh-trump-adviser-unga80.md,2,UNGA80 meeting
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2026-04-23-addis-standard-us-sanctions-relief-eritrea.md,2,sanctions relief distinct event
+finance.mou--strategic-relationships,baseline/2019-11-07-india-eritrea-e-vbab-mou.md,1,India e-VBAB MoU
+dpi.id--use-by-other-systems,baseline/2014-09-08-eritrea-aml-cft-proclamation-175-2014-id-kyc.md,1,ID required for AML/CFT KYC in banking system
+dpi.id--authentication,baseline/2021-01-21-swiss-sem-focus-eritrea-digital-population-registers.md,1,technical description of population-register/ID system
+dpi.id--digital-id-from-birth,baseline/2025-11-01-us-state-dept-eritrea-civil-documents-national-id.md,1,"ID card issued from age 18, not from birth"
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2022-01-01-eritrea-global-digital-identity-index-govtech.md,1,GovTech dataset: no data exchange across systems
+infra.connect--internet-usage,baseline/2026-03-24-itu-statistical-findings-umc-africa-eritrea-data-gap.md,1,"ITU: no WTI submission since 2017, last survey 2002"
+capacity.literacy--digital-literacy-civil-service,baseline/2025-11-01-shabait-anseba-vocational-training-government-employees.md,1,"NCEW Anseba training, 108 govt employees"
+digital.localgov--ict-infrastructure-for-local-government,baseline/2002-07-08-worldbank-eritrea-education-training-sector-note.md,1,"WB 2002 sector note, zoba ICT infrastructure"
+dpi.exchange--interoperability-of-health-systems,baseline/2021-03-15-who-score-eritrea-assessment.md,1,WHO SCORE: interoperability Not there
+dpi.registry--address-register,baseline/2026-08-01-upu-general-addressing-issues.md,1,UPU: no national postcode system
+gov.discourse--open-discussion-of-government-policy,baseline/2015-06-05-un-coi-eritrea-detailed-findings-chapter-vi.md,1,UN CoI: government systematically silences discourse
+gov.policy--ai-strategy,baseline/2026-01-01-oxford-insights-government-ai-readiness-index-2025.md,1,"Oxford Insights: Policy Capacity 0.00, no AI strategy"
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2023-04-01-un-eritrea-annual-results-report-2022.md,1,"UN Eritrea 2022 ARR: vulnerability database, no linkage documented"
+dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2023-12-31-netherlands-eritrea-country-origin-information-report.md,1,"Dutch COI: no central population register, decentralised zoba registers"
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2021-01-21-swiss-sem-focus-eritrea-digital-population-registers.md,1,Swiss SEM: partially sequential but not interoperable
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2021-01-21-swiss-sem-focus-eritrea-digital-population-registers.md,1,Swiss SEM: rural registers predominantly paper-based
+capacity.training--dt-related-training-in-secondary-education,baseline/2012-07-01-eritrea-moe-overview-of-education.md,1,MoE overview of education sector
+capacity.training--graduates-entering-dt-ecosystem,baseline/2019-07-17-shabait-eit-12th-commencement.md,1,EIT 12th commencement graduates
+dpi.mis--justice,baseline/2025-01-10-eritrea-ministry-of-justice-activity-assessment.md,1,Ministry of Justice activity assessment
+digital.rural--digitalisation-of-rural-health-clinics,baseline/2026-05-16-redseabeacon-eritrea-quiet-revolution-health-care.md,1,rural health-care digitalisation account
+geopol.eu--eu-mous-engagements-and-commitments,baseline/2023-12-28-eu-oacps-samoa-agreement.md,1,EU-OACPS Samoa Agreement
+geopol.india--india-mous-engagements-and-commitments,baseline/2019-11-07-india-eritrea-e-vbab-mou.md,1,India e-VBAB MoU
+gov.regional--regional-legal-harmonisation,baseline/2024-07-08-au-malabo-convention-status-table.md,1,Malabo Convention ratification status
+gov.regional--cross-border-data-transfers,baseline/2021-06-21-world-bank-overview-digital-development-horn-of-africa-eritrea.md,1,WB Horn of Africa digital-development overview
+include.access--gender-equity,baseline/2024-01-01-un-hlpf-eritrea-vnr-2024.md,1,VNR 2024 gender content
+include.access--inclusion-of-refugees-and-idps,baseline/2026-01-01-unhcr-rimap-eritrea-country-profile.md,1,UNHCR RIMAP country profile
+infra.connect--internet-exchange-points,baseline/2026-01-01-isoc-pulse-ixp-tracker-eritrea.md,1,ISOC Pulse IXP tracker
+infra.cybersec--national-cybersecurity-readiness,baseline/2015-03-12-eritrea-itu-cyberwellness-profile.md,1,ITU Cyberwellness Profile
+tech.industry--national-capacity-in-dt-related-production,baseline/1998-03-02-eritrea-communications-proclamation-102.md,1,founding Communications Proclamation
+dpi.exchange--interoperability-of-education-systems,baseline/2023-09-01-eritrea-2023-2027-partnership-compact.md,1,"GPE education-sector compact, EMIS basis"
+finance.budget--sustainable-domestic-financing-of-digital-transformation,baseline/2025-01-01-us-state-dept-2025-investment-climate-statement-eritrea.md,1,State Dept: national budget not public
+dpi.exchange--national-data-exchange-system,baseline/2022-01-01-eritrea-global-digital-identity-index-govtech.md,1,"GovTech: no interoperability framework I-3, no service bus I-4"
+capacity.literacy--digital-literacy-general-population,baseline/2005-07-01-eritrea-national-policy-ict-in-education.md,1,2005 policy: universal basic ICT literacy vision
