@@ -597,7 +597,7 @@ Department of Electricity and Energy	11215,14,43
 Department of Emerging Technologies	7548
 Department of Employment Services	5250,7347
 Department of Employment and Job Creation	5172
-Department of Employment and Labour	5533,1299,4448,809
+Department of Employment and Labour	5533,1299,4448,809,779
 Department of Employment and Labour DHET	6832
 Department of Energy	11342,548,435,238
 Department of Energy and Electricity	11272
@@ -638,7 +638,7 @@ Department of Health. World Bank	12240
 Department of Higher	11986
 Department of Higher Education and Training	5533,50,1249,790,1506,237,1029,799,32,23,29,8,18,694
 Department of Higher Education and Training DTIC	6832
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821
 Department of Home Affairs Annual Report	11977
 Department of Home Affairs Privatte Bag X114	11986
 Department of Home Affairs Strategic Plan	2662,9315
@@ -681,7 +681,7 @@ Department of Justice and Constitutional Development’s	2117
 Department of Labour	11285
 Department of Labour Services	12253
 Department of Labour and Social Security	12597
-Department of Land Reform and Rural Development	2660,7016,1585
+Department of Land Reform and Rural Development	2660,7016,1585,1607
 Department of Land Reform and Rural Development Physical	11261
 Department of Land Reform and Rural Development. P	11260
 Department of Land and Agriculture	3761
@@ -814,7 +814,7 @@ Departmental Revenue	11218
 Departmental Technical Committee	12138
 Departmental-Papers-Pol-	961
 DepartmentofInformatics	8603
-Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30
+Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,110,45,107,247,45,717,921,200,405,1835,51,225,31,4,17,308,309,3,136,56,96,6,6,57,27,12,92,192,14,93,30,207
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
 Departments Sector	7548
@@ -1108,7 +1108,7 @@ Deputy General Manager of Huawei South Africa	7979
 Deputy Gov. Matilda Asante-Asiedu	4905
 Deputy Govenor Felicia Dlamini	11131
 Deputy Government Statistician	9419
-Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4
+Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4,1733
 Deputy Governor CBG	4254
 Deputy Governor Dr. Innocent Matshe	3965
 Deputy Governor Engr. Ikechukwu Emetu	5072
@@ -1588,6 +1588,7 @@ Laboratory Departments	4202
 Labour DFFE Department of Forestry	11261
 Labour Department	1988
 Lagos State Deputy Governor	2825
+Lagos State Deputy Governor Dr. Kadri	12871
 Land Reform DPME Department of Planning Monitoring	11224
 Land Reform and Rural Development DBE Department	11261
 Legal Department	6806
@@ -1972,6 +1973,7 @@ South Africa. DEPARTMENT OF HOME AFFAIRS	11986
 South Africa. Department of Science	10118
 South Africa. Science and Innovation Department	1940
 South Africa. The Department	7757
+South Africa. The Department of Electricity and Energy	12868
 South African Department of Basic Education	11927
 South African Department of Health	2948
 South African Department of Home Affairs	12663

@@ -699,14 +699,15 @@ LGA and State	11860
 LISTING STATEMENT FOR ECONET INFRACO	4896
 LITIGATION STATEMENT	4896
 LITIGATION STATEMENT SHAREHOLDERS	4896
-Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543
+Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157,543,1014
 Lagos State AIDS Control Agency	9444
 Lagos State Blood Transfusion Service	9444
 Lagos State Deputy Governor	2825
+Lagos State Deputy Governor Dr. Kadri	12871
 Lagos State Director	10704
 Lagos State Domestic and Sexual Violence	2445
 Lagos State Employment Trust Fund	9549
-Lagos State Government	2563,538,6016,327,96,2428
+Lagos State Government	2563,538,6016,327,96,2428,913
 Lagos State Health Insurance Scheme	11968
 Lagos State Internal Revenue Service	9972
 Lagos State Judiciary	8978
@@ -721,7 +722,7 @@ Lagos State PHC Digitization Programme	11968
 Lagos State Primary Health Care Board	9444,2524
 Lagos State Resident Identity Card	12050
 Lagos State Target Group	11314
-Lagos State University	11715
+Lagos State University	11715,1166
 Lagos State and Kasi Cloud	6376
 Lagos State and Nigeria	9540
 Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
@@ -1405,7 +1406,7 @@ State Information Agency General Regulations	11184
 State Information Service	5869
 State Information System	11939
 State Information System Authority	12391
-State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597,112
+State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597,112,911
 State Information Technology Agency Act	1009,10175
 State Information Technology Agency Bids	7514
 State Information Technology Agency General Regulation	11184
@@ -1893,7 +1894,7 @@ Union USD United States Dollar WACREN	11552
 United Mexican States	1243
 United Nations Member States	12453
 United State of America N	12151
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7,171,5,12,29,13,68,10,25,53,6,67,57,2,46,9,36,24,192,23,342
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125,875,162,11
 United States Agency for International Development Angola	10780
 United States Agency for International Development VfM	10768

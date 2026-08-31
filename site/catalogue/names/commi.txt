@@ -404,7 +404,7 @@ Commissaires	2342,5278,3201,15,315,371
 Commissariat	2513,5478,278,91,2531,977
 Commissariat Général	2594,2135
 Commissariats	10891
-Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101
+Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14,42,10,75,17,34,32,1,4,13,3,1,12,18,8,26,23,5,3,12,17,13,21,204,28,3,15,247,16,38,36,15,1,28,12,20,17,6,55,8,51,21,2,9,56,31,21,40,6,32,64,20,29,9,12,7,40,34,2,1,48,54,1,101,129,1
 Commission A.140	12549
 Commission A.148	12549
 Commission Activity	12549
@@ -803,7 +803,7 @@ Committees of Council	11178
 Committees. Part V	12643
 Committee’s Report	10313
 Committing	12232,227
-Commodity Futures Trading Commission	2826
+Commodity Futures Trading Commission	2826,10056
 Commonwealth Scholarship Commission	10252
 Commonwealth War Graves Commission Data Controller	7167
 Communication Technology and Postal Services. The Commission	6776
@@ -1867,7 +1867,7 @@ National Commission for Data Protection	3080
 National Commission for Education	2958
 National Commission for Electronic Payment Methods	6204
 National Commission for Foreigners’ Employment	11900
-National Commission for Persons	11975,63
+National Commission for Persons	11975,63,843
 National Commission for Refugee	10864
 National Commission for Refugees	11900,245
 National Commission for Refugees Act	12145
@@ -2024,7 +2024,7 @@ Nigeria's Commitments Under the Agreement	12026
 Nigeria's Corporate Affairs Commission	7631
 Nigeria's National Identity Management Commission	5031,4639
 Nigeria's Securities and Exchange Commission	6679
-Nigerian Communications Commission	925,1001,3,68,332,44,17,82,66,20,119,335,444,124,145,15,56,2,64,80,3,478,160,18,3,19,9,369,54,157,3,30,63,369,3,104,96,171,239,195,51,153,19,41,43,33,9,17,27,232,125,21,31,42,140,56,35,2,30,155,29,17,58,99,167,90,34,15,32,3,126,49,86,111,46,220,44,74,63,2,134,108,1,8,123,28,49,1,105,639,229,152,478,339,25,462,44
+Nigerian Communications Commission	925,1001,3,68,332,44,17,82,66,20,119,335,444,124,145,15,56,2,64,80,3,478,160,18,3,19,9,369,54,157,3,30,63,369,3,104,96,171,239,195,51,153,19,41,43,33,9,17,27,232,125,21,31,42,140,56,35,2,30,155,29,17,58,99,167,90,34,15,32,3,126,49,86,111,46,220,44,74,63,2,134,108,1,8,123,28,49,1,105,639,229,152,478,339,25,462,44,844
 Nigerian Communications Commission NFMC National Frequency	11857
 Nigerian Communications Commission's	5874
 Nigerian Communications Commission. All Rights Reserved	9667
@@ -2039,9 +2039,9 @@ Nigerian Upstream Petroleum Regulatory Commission	12308
 Nigerians the Nigerian Communications Commission	6876
 Nigeria’s Digital Public Infrastructure. As the Commission	7748
 Nigeria’s National Data Protection Commission	5463
-Nigeria’s National Identity Management Commission	7143
+Nigeria’s National Identity Management Commission	7143,5738
 Nigeria’s National Insurance Commission	2462
-Nigeria’s Securities and Exchange Commission	8265,1690,606,182
+Nigeria’s Securities and Exchange Commission	8265,1690,606,182,2139
 Ninth Joint Ministerial Commission	11183
 Nkeyema District Commissioner	2386
 No. Category Allocation Committed Allocation	2473
@@ -2656,7 +2656,7 @@ United Nations AI for Good Global Commission	11682
 United Nations Assistant High Commissioner	1963
 United Nations Broadband Commission	1264,9580
 United Nations Broadband Commission for Sustainable	10851
-United Nations Commission	10819,731
+United Nations Commission	10819,731,1314
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760
 United Nations Committee of Experts	9651

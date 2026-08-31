@@ -167,6 +167,7 @@ BSC Broadband Systems Corporation CAPEX Capital	718
 BT Basse Tension CAPEX Capital Expenditure	10975
 BUILDING CYBERSECURITY CAPABILITIES	1000
 BUiLDiNG CAPACiTY OF REGULATORY BODiES Rapidly	961
+Back Calculate Capital Drag	12882
 Bain Capital	12069
 Bandwidth Capacity	3862,2809
 Bandwidth Capacity. S	3862
@@ -699,6 +700,7 @@ Capacity Building and Change Management Objective	12453
 Capacity Building and Change Management The Eighth	12453
 Capacity Building and Content Development	395,563
 Capacity Building and Content Development Zimbabwe	395
+Capacity Building and Cooperation Conference	12866
 Capacity Building and Education Pillar	4528,7984
 Capacity Building and Education Unit	4528,7984
 Capacity Building and Improving	12138
@@ -813,7 +815,7 @@ Cape Gate Regional Centre	8999
 Cape Metropolitan Council	6683
 Cape Mount	10406
 Cape Peninsula University of Technology	8130,4048
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184,39,94,95,44,91,20,5,246,159,20,211
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
 Cape Town Campus	2994,938
@@ -847,6 +849,7 @@ Cape Town. Azure	10505
 Cape Town. Botswana Tech Fund	5957
 Cape Town. Debeljak	2093
 Cape Town. King David Golf Club	6486
+Cape Town. Non-compulsory	12868
 Cape Town. Produced	6436
 Cape Town.The	11273
 Cape Town.md	1404
@@ -932,7 +935,7 @@ Capitaine Ibrahim TRAORÉ	4029,822
 Capitaine Ibrahim Traoré	4124,746
 Capitaine Ibrahim Traoré. Elle	10545
 Capitais Maioritariamente Públicos	10783
-Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,182,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189
+Capital	10,226,12,692,80,681,77,7,2,1,200,74,72,208,96,337,182,245,2,1,378,131,495,210,109,320,47,1,76,230,12,324,117,32,225,1,98,137,38,80,75,239,156,150,52,145,2,1,487,34,182,16,179,2,149,310,19,8,135,178,55,3,488,54,30,13,165,510,16,38,516,45,13,2,5,1,16,2,36,43,5,34,64,15,26,125,26,3,2,4,9,49,27,23,62,46,30,83,55,240,19,74,98,98,78,110,97,27,44,35,68,189,181
 Capital Adequacy Ratio	11131,3
 Capital Adequacy Requirements	12365
 Capital Application	10762
@@ -941,6 +944,7 @@ Capital Balance	11131
 Capital Budget	11136
 Capital CMS Content Management System CSS	236
 Capital City	12253,38
+Capital Drag Value Issued	12882
 Capital Employed	7009
 Capital Enabling PCM Private Capital Mobilization	1264
 Capital Entretanto	11569
@@ -1431,7 +1435,7 @@ FPAC and CAPF	10244
 Fair Cap	6921
 Family Promotion Capacity	12328
 Federal Capital Abuja	10861
-Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96
+Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565,808,24,49,96,736
 Federal Capital Territory Administration	4301
 Federal Capital Territory H.E. Dr. Mariya	5991
 Federal Capital Territory Nyesom Wike	7176
@@ -1827,6 +1831,7 @@ Mercado De Capitais Exige Empresas Preparadas	8003
 Message du Camarade Capitaine Ibrahim Traoré	3395,3488
 Metier Capital Growth Fund III. EM-Three	10735
 Million Capital Raise Anchored	9735
+Minimum Capital Baseline	12882
 Minimum Liquid Capital KES	10738
 Mining Cap	6921
 Minister for Kampala Capital City and Metropolitan Affairs	11848
@@ -2168,6 +2173,7 @@ Sequoia Capital’s Julien Bek	5482
 Service Capability	6051
 Service Land and Network Furniture& Motor Capital	236
 Service Manager Web and Live Capture	10619
+Set Capital	12882
 Sex Male Female Total Western Cape	11192
 Seychelles Civil Status Act Cap	1012
 Shares of Capacity Underutilization	12445
@@ -2182,6 +2188,7 @@ Sky Capital	12026
 Smart Africa Capacity Building Programme	11822
 Social Capital	265
 Social Protection System for Human Capital and Resilience	10768
+Soft Cap	12882
 SoftSuite Human Capital Management	7973
 Solcon Capital	7145,3450,216
 Somalia Capacity Advancement	412,345,2829
@@ -2209,6 +2216,7 @@ Stakeholder Engagement and Capacity Building The Research	1554
 Stamp Duty Cap	6921
 Standard Bank Group's Capital Markets Day	6870
 Standard Chartered Foundation and Village Capital	10745
+Starting Paid-Up Capital	12882
 Startup Boost Capital	3131
 State Capacity	10997
 State Capacity and Institutional Development Cluster MISS	11986
@@ -2322,6 +2330,7 @@ Transfer Capacity	12399
 Transferencia de Capital	4209
 Transferencias de Capital	4209
 Transmit Capacity	736
+Trapped Capital	12882
 Tri-State Capital	7984
 Tri-State Capital Limited and Mombo	7984
 Tribunal Administrativo. CAPÍTULO VI Fiscalização	2866
@@ -2378,6 +2387,7 @@ Unplanned Capacity Loss Factor	11297
 Use of CAPI1	12409
 Used International Internet Bandwidth Capacity	6000
 Used International Internet Bandwidth Capacity for Starlink	6245
+Users Locked Capital Drag Target Circulating	12882
 Utilized Bandwidth Capacity	6671
 Utilized Capacity	6671
 Utilizing the GPE System Capacity Grant	12175

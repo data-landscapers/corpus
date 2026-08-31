@@ -315,6 +315,7 @@ Data Element Definitions Data	12360
 Data Element Name	12360
 Data Element Specification	12360
 Data Element Specification ISO	12360
+Data Elements	12864
 Data Protection Act Elevating AI	12512
 Data Protection Election Watch	5603
 DataReportal. Electricity	5316
@@ -1226,6 +1227,8 @@ Elektroniese Kommunikasies	11189
 Elektroniese Stelsel	11189
 Elektronische Abgabe	8546
 Elektronska	10714
+Elelwani Mundalamo	12868
+Elelwani.Mundalamo	12868
 Eleme Climate	11469
 Element	9810,1009,734
 Element Element	11553
@@ -2220,6 +2223,7 @@ Somalia's Electoral Commission	2571
 Soon Access Their National IDs Electronically	12313
 South Africa's Electronic Communications Act	4244
 South Africa's Electronic Travel Authorisation	9076,159
+South Africa. The Department of Electricity and Energy	12868
 South African Electoral Commission	7266
 South African Wholesale Electricity Market	8018,581,2637
 South Africa’s Electronic Travel Authorisation	9250,808

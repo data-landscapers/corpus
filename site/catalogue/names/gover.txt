@@ -654,7 +654,7 @@ Department of Government Printing and Publishing Services	12575
 Department of Home Affairs and Government Printing Works	4786
 Depth Governments	9804
 Deputy Government Statistician	9419
-Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4
+Deputy Governor	940,305,17,1025,1153,143,64,318,2707,1143,477,548,1545,77,669,3,4,1733
 Deputy Governor CBG	4254
 Deputy Governor Dr. Innocent Matshe	3965
 Deputy Governor Engr. Ikechukwu Emetu	5072
@@ -2906,7 +2906,8 @@ Laboratory The U.S. Government	4349
 Laboratory Workers Year U.S. Government	4153
 Lack of Coordinated Governance	12240
 Lagos State Deputy Governor	2825
-Lagos State Government	2563,538,6016,327,96,2428
+Lagos State Deputy Governor Dr. Kadri	12871
+Lagos State Government	2563,538,6016,327,96,2428,913
 Land For Government Increased	12211
 Last Name Government MEPST	11916
 Launches the Political Economy of Digital Governance Report	5715
@@ -3840,6 +3841,7 @@ Standard for Government Datasets	3861
 Standard. At the Local Government	11129
 Standard. Every Local Government Area	11129
 Standards GSCID Governance	11986
+Standards and Guidelines for Government Websites	12881
 State Government	2552,9424
 State Government Dr Emmanuel Meribeole	5072
 State Government Prince Enobong Uwah	10229

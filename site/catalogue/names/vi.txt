@@ -2287,6 +2287,7 @@ Vice President Sales Europe	11500
 Vice President Senator Kashim Shettima	8241
 Vice President Shri Hamid Ansari	12617
 Vice President Shri M. Venkaiah Naidu	12617
+Vice President Teodoro Nguema Obiang Mangue	12870
 Vice President Tiémoko Meyliet Koné	9275
 Vice President W.K. Mutale Nalumango	12474
 Vice President and Head of Customer Unit West	4906
@@ -2497,7 +2498,7 @@ Vidal	8606
 Vidal-Hall	8776
 Vidart	11572
 Vidatel	2543,4565
-Video	52,3531,139,225,203,413,3567,869,124,329,541,32,404,1,266,46,393,96,492,241,296,99,44,278,88
+Video	52,3531,139,225,203,413,3567,869,124,329,541,32,404,1,266,46,393,96,492,241,296,99,44,278,88,95
 Video Calls	582
 Video Calls R A- Access	582
 Video Compatibility High Picture Quality	34
@@ -2857,9 +2858,9 @@ Virtual Asset Act	3270,19
 Virtual Asset Council	7448,46,1736,524,201
 Virtual Asset Exchange Virtual Asset Manager	10738
 Virtual Asset Office	7448,46,1736
-Virtual Asset Service Provider	9311,223,220,121,2101
+Virtual Asset Service Provider	9311,223,220,121,2101,906
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
@@ -2912,6 +2913,7 @@ Virtual University	3604
 Virtual University of Burkina Faso	6707
 Virtual VSAT Network	736
 Virtual-assets-red	4127
+VirtualTender	12868
 Virtualbo	557
 Virtualised Services	9446,1510
 Virtualization	958

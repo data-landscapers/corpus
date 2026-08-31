@@ -339,6 +339,7 @@ Balance Sheet Position Net Assets	11955
 Bank Assets	10718
 Bank Assets.......8 Figure	10718
 Banking Sector Indicators Capital Adequecy Asset	11131
+Base Asset	12882
 Baseline Systems Assessment Report	12138
 Baseline Systems Assessment Report. Nairobi	12138
 Bjune G. Assessing	10881
@@ -510,9 +511,17 @@ Diagnostic Assessment Tool Tax Audit Quality	12500
 Diagnostic Assessment of Rwanda’s AI Ecosystem	1204
 Digitais Assegurar	11569
 Digital Asset	4610
-Digital Asset Exchanges	4602
+Digital Asset Custodian	12882
+Digital Asset Custodian. Several Nigerian and Africa-serving	12882
+Digital Asset Custodians	12882
+Digital Asset Exchange	12882
+Digital Asset Exchanges	4602,8280
+Digital Asset Exchanges and Digital Asset Custodians	12882
+Digital Asset Offering Platform	12882
+Digital Asset Offering Platforms	12882
 Digital Asset Operators	4602
-Digital Assets	3870,740
+Digital Asset Platform Operators	12882
+Digital Assets	3870,740,8272
 Digital Assets Regulation	8697
 Digital Economy Assessment	7358
 Digital Economy Country Assessment	11545
@@ -693,6 +702,7 @@ Government MALAWI DIGITAL READINESS ASSESSMENT	12214
 Government The Digital Readiness Assessment	12214
 Governo Assembleia Nacional--	11408,2
 Grievance Mechanism Assessment	11007
+Gross Assets Required	12882
 Guidance Note and Assessment Tool	11133
 HARMS AND BENEFITS ASSESSMENT Data	1243
 HM FMoCDE Declare Critical National Assembly	11857
@@ -1217,6 +1227,8 @@ Readiness Assessment SDG Sustainable Development Goal	10829
 Readiness Assessments	12529
 Real World Asset	8093
 Real-World Asset Eswatini Revenue Services SADC	12444
+Real-World Asset Tokenisation	12882
+Real-World Asset Tokenisation Platforms	12882
 Recovery and Peace Building Assessment for Cameroon	10964
 Recovery of Assets	1829
 Regimento da Assembleia Nacional	539,2980
@@ -1436,9 +1448,9 @@ Virtual Asset Act	3270,19
 Virtual Asset Council	7448,46,1736,524,201
 Virtual Asset Exchange Virtual Asset Manager	10738
 Virtual Asset Office	7448,46,1736
-Virtual Asset Service Provider	9311,223,220,121,2101
+Virtual Asset Service Provider	9311,223,220,121,2101,906
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690,310,751
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738

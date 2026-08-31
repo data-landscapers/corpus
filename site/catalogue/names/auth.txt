@@ -608,7 +608,7 @@ Communications Regulatory Authority Act	12532,6,14,6,58
 Communications Regulatory Authority Act No	12558
 Communications Regulatory Authority Regulations	12558
 Communications Regulatory Authority of Mozambique	3783,2104
-Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7
+Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399
 Communications Technology Authority	34
 Communications Technology Authority ID Identifier	6432
 Communications and Information Regulatory Authority	2837
@@ -1704,7 +1704,7 @@ Road Authority	12476
 Road Development Authority	7845
 Roads Authority	10626,1055,785
 Root Certificate Authority	11867
-Root Certification Authority	8440,1440
+Root Certification Authority	8440,1440,2985
 Root Certification Authority for Nigeria	10423
 Root Certification Authority for Nigeria's National Public	8440
 Root Certification Authority. The DCS	11120
@@ -1732,6 +1732,7 @@ SADC Data Protection Authorities	6792
 SADC Model Law Authorization	27
 SAQA South African Qualification Authority SCM	11192
 SARS and Malawi Revenue Authority	9745
+SEC Authorisation Status ARIP	12882
 SECTION THREE Relying Parties and Authentication Service	12146
 SECTORAL DEMAND FOR IDENTIFICATION AND AUTHENTICATION	10775
 SECURITY Public Disclosure Authorized ZAMBIA REFUGEE	1988

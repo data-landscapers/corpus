@@ -2273,5 +2273,120 @@
     "published": "2026-08-30",
     "written": "2026-08-30",
     "summary": "Rwanda's registrar general describes company registration as wholly online and free of charge, completed within six working hours on the issue of a certificate of incorporation. There is no minimum share capital, shareholding may be entirely foreign, and a support unit at the board's Kigali offices assists applicants who cannot complete the form unaided."
+  },
+  "2026-08-31-beltandroad-xinhua-china-data-ai": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Xinhua's report on the 2026 China International Big Data Industry Expo in Guiyang profiles Wazisana, a blockchain platform launched two years ago by Zimbabwean entrepreneur Dubuya Thulani, which requires African farmers to upload video of their production process for AI to turn into product descriptions for Chinese buyers. Thulani says coffee, red wine and avocados have been exported through it and the business is profitable; no volumes, participating countries or farmer numbers are given."
+  },
+  "2026-08-31-itweb-africa-namibia-digital-trust-framework": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Namibia's Communications Regulatory Authority and the German identity supplier Veridos signed an implementation agreement with the Ministry of Home Affairs, Immigration, Safety and Security for a national public key infrastructure. CRAN acts as national Root Certification Authority and the ministry becomes the first Certification Service Provider, issuing electronic IDs — the base for digital identity, electronic signatures and identity verification in government services. No timetable or cost is stated."
+  },
+  "2026-08-31-itweb-africa-south-sudan-huawei-digitalisation": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "South Sudan's minister of information, communication technology and postal services, Ateny Wek Ateny, held exploratory talks with Huawei's vice-president for global public business, Eric Ma, in Hangzhou on the margins of the China-Africa Digital Capacity Building and Cooperation Conference. The government is seeking Huawei's participation in e-governance, smart cities, energy and a national data hub in Juba; the report notes the two sides fell out in 2014, when officials accused the company of hacking government email and forging documents, and dates the repair to a Juba meeting in early 2026. Nothing is committed or costed at this stage."
+  },
+  "2026-08-31-itweb-co-za-finfluencers-enforcement": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "South Africa's Financial Sector Conduct Authority named unlicensed financial advice on social media one of its highest enforcement priorities, its enforcement head Gerhard van Deventer telling a Regulatory Actions Report roundtable that operating through a platform is no exemption from the licensing law and that penalties have already been imposed on finfluencers. He drew a distinction between financial education and regulated advice, and said the regulator is also looking for a way to engage finfluencers on where that line falls."
+  },
+  "2026-08-31-itweb-co-za-home-affairs-revenue-admin-tender": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "South Africa's Department of Home Affairs re-advertised its tender for the supply, hosting and support of the revenue administration system that handles collection, reconciliation and Basic Accounting System reporting, replacing June's generic \"400+\" site count with a two-tier footprint of 275 fixed sites and 230 mobile units. The revision reframes transaction channels around point-of-sale devices and mobile offices rather than the standalone kiosks and e-Home listed earlier, so bidders must price deployment, licensing and support against a larger and more dispersed estate. Bidding is restricted to suppliers on SITA transversal contract RFB 1183, with a non-compulsory briefing on 4 September and submissions closing 18 September."
+  },
+  "2026-08-31-itweb-co-za-samsung-digital-wallet": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Samsung South Africa added Scan to Pay QR-code payments, provided by EFT Corp, to Samsung Wallet, four years after launching the wallet locally in November 2022. The company puts Scan to Pay at more than 600,000 acceptance locations in South Africa and inside over 19 million banking, fintech and financial-services app installations; no figure for Samsung Wallet's own local user base is given."
+  },
+  "2026-08-31-spaceinafrica-starlink-equatorial-guinea": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Starlink went live in Equatorial Guinea on 29 August, its 30th African market, with a consumer order page and residential tariffs in CFA francs. The entry is not a permanent licence: it runs under a provisional approval granted by Vice-President Teodoro Nguema Obiang Mangue on 29 July, with the state infrastructure company GITGE assessing operations and deciding what regulatory conditions should apply longer term. An earlier framework had confined authorised access largely to oil, gas and strategic infrastructure, and whether that restriction survives the review period is unresolved."
+  },
+  "2026-08-31-techafricanews-huawei-agentic-ai-cloud-nigeria": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Huawei launched its Agentic AI Cloud in Nigeria at a summit in Lagos on 27 August, presenting local cloud infrastructure with data residency and low latency as a base for deploying AI agents in finance, telecommunications, government and enterprise. It follows the company's first hyperscale local cloud in Nigeria in 2024 and an industry-focused expansion in 2025. NITDA's director-general Kashifu Inuwa Abdullahi placed it against the National Sovereign Cloud Initiative and the country's ambition to move from consuming technology to hosting AI and cloud innovation."
+  },
+  "2026-08-31-techafricanews-lbpay-cameroon": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Cameroon-based Looping Binary launched LBPay, a payments platform for transfers, wallet management and moving money between mobile money networks, with bill and airtime payment alongside. It also offers payment links, developer tools and APIs for businesses integrating payments; the company says Cameroon is the initial market with the intention of scaling elsewhere in Africa, and no licensing or partner-institution detail is given."
+  },
+  "2026-08-31-techafricanews-mtn-momo-schoolpay": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "MTN MoMo Uganda marked ten years of its partnership with SchoolPay Uganda for digital school-fee payment, and handed the SchoolPay team a van at the anniversary event. Neither party gives transaction volumes, fee value or the number of schools and parents using the channel."
+  },
+  "2026-08-31-techafricanews-mtn-uganda-digital-skills": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "MTN Uganda graduated 503 young people from its MTN Ace digital skilling programme at the National ICT Innovation Hub, on a hybrid course covering ICT, digital marketing, e-commerce, cybersecurity and artificial intelligence. The initiative has now trained 1,191 people in total, and the MTN Uganda Foundation put UGX 5.1 billion through its programmes in 2025, which it says reached more than 60,000 people."
+  },
+  "2026-08-31-techafricanews-nitda-infracorp-sovereign-cloud": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "NITDA's director-general Kashifu Inuwa received Infracorp chief executive Lazarus Angbazo for talks on Nigeria's sovereign cloud agenda, focused on operationalising the Investment Strategy — unlocking local funding, increasing private-sector participation and attracting foreign investment into sovereign cloud and digital infrastructure. No commitment, sum or project is attached to the meeting."
+  },
+  "2026-08-31-techafricanews-nitda-trains-children-coding": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Nigeria's National Information Technology Development Agency closed its 2026 Kids Long Vacation Coding Bootcamp in Kano, Kwara, Jigawa and Gombe, with training still running in the South-South, South-East and South-West. Participants covered coding, computational thinking and digital creativity and received certificates and devices at closing ceremonies; the number of children trained is not given."
+  },
+  "2026-08-31-techafricanews-senegal-gambia-digital-cooperation": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Senegal's Minister of Telecommunications and Digital Affairs, Samba Diouf, visited Banjul to review the implementation roadmap for the telecommunications and digital-development memorandum of understanding signed between Senegal and The Gambia. Connectivity, cybersecurity, capacity building and digital transformation were named as the areas discussed, with initiatives to be advanced according to readiness; no first projects, funding or timetable are stated."
+  },
+  "2026-08-31-techafricanews-smart-africa-uganda-reforms": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Smart Africa and Uganda's Ministry of ICT and National Guidance convened a national validation workshop in Kampala on the findings of Uganda's Digital Entrepreneurship and Innovation Country Assessment. Priorities identified were advancing the Startup Bill, strengthening science and innovation policy, widening access to regulatory sandboxes, and using public procurement to create a market for local startups. The work sits under the Africa-Europe Digital Innovation Bridge (AEDIB 2.0); the assessment itself is not published with the report."
+  },
+  "2026-08-31-techafricanews-ttcl-zff-nfc-ticketing": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Tanzania Telecommunications Corporation and the Zanzibar Football Federation signed a sponsorship and partnership agreement in Zanzibar on 30 August to introduce e-ticketing at football stadiums through TTCL's N-Card platform. The agreement is also said to cover the federation's wider digital systems and football administration; no value, term or start date for the ticketing service is given."
+  },
+  "2026-08-31-techafricanews-zamportal-lupososhi-road-tax": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "An official at Lupososhi District Administration in Zambia's Northern Province printed a road-tax document from his own office rather than travelling to Kasama for it, after the Northern Provincial ICT Unit connected the office and ran orientation on Zamportal, Microsoft Teams and Outlook. The report is a single demonstration rather than a rollout figure: how many district offices have been connected, and which Zamportal services they can now transact, are not stated."
+  },
+  "2026-08-31-techcabal-assistive-tech-accessibility": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "The Nigerian Communications Commission ran its fourth Hackathon Live Show in Abuja on 26 and 27 August under the theme \"Technology Without Barriers\", producing prototypes for speech-to-text, real-time sign-language translation, voice-enabled complaints and image-to-voice navigation. TechCabal sets that against the platforms Nigerians are already expected to use: NITDA's guidelines require government websites to meet the Web Content Accessibility Guidelines, and the Nigeria Web Design Standards toolkit promised for public feedback within 8 to 10 weeks of its July 2025 launch could not be found published, nor any evidence of Federal Executive Council approval or rollout — while the communications ministry's 2025 Year in Review still lists the launch as an achievement. The National Commission for Persons with Disabilities estimates 35 million Nigerians have disabilities."
+  },
+  "2026-08-31-techcabal-sec-crypto-custody": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Nigeria's Securities and Exchange Commission opened for comment on 20 August a framework requiring digital-asset firms to segregate customer funds from their own, notify the regulator of material incidents within 24 hours and file a detailed report within 48. Minimum paid-up capital would be ₦2 billion (about $1.5m) for exchanges and custodians, ₦500 million for platform operators, offering platforms and tokenisation platforms, and ₦200 million for virtual asset service providers, each backed by a fidelity insurance bond covering at least a quarter of that. The rules also require a share of customer assets to be held in offline cold storage and SEC approval before a foreign-issued stablecoin may be listed."
+  },
+  "2026-08-31-wearetech-benin-phital-azah-whatsapp-mobile-money": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "A profile of Beninese developer Phital Azah, founder of Xèdo, a 2024 company whose platform lets merchants build an online shop by importing a WhatsApp Business catalogue with its photos, descriptions and prices, then centralise orders. It automates WhatsApp notifications through payment and delivery, chases abandoned baskets, settles by Mobile Money or cash on delivery, and carries an analytics dashboard. Azah is also lead mobile developer at Benin's Commission électorale nationale autonome."
+  },
+  "2026-08-31-wearetech-cote-ivoire-anka-afrikrea": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "ANKA has separated its businesses at its tenth anniversary and relaunched its consumer marketplace under the Afrikrea name, through which African and diaspora creators sell fashion, art and crafts internationally with cross-border payment and delivery handled on the platform. What the remaining ANKA business now covers is not stated in the report."
+  },
+  "2026-08-31-wearetech-ghana-drone-delivery-ebenezer-sasu": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "A profile of Ghanaian aerospace engineer Ebenezer Sasu, founder of Wingxtra Aerospace, which since 2019 has combined drones with electric bikes, motorcycles and vans for last-mile delivery in African cities, switching mode automatically on parcel size, distance, urgency and traffic. An allocation and tracking system matches vehicle position and drone status to each order and exposes real-time tracking to customers and merchants. Sasu co-founded OrcaDynamics in 2025, designing drones and aerial systems through 3D modelling and printing."
+  },
+  "2026-08-31-wearetech-kenya-online-misinformation-sanctions": {
+    "published": "2026-08-31",
+    "written": "2026-08-31",
+    "summary": "Kenya's National Assembly has asked the Supreme Court to overturn a Court of Appeal ruling that struck down sections 22 and 23 of the 2018 Computer Misuse and Cybercrimes Act, which criminalised knowingly publishing false or misleading data presented as authentic, with penalties up to KES 5 million (about $38,600) and, for some offences, ten years' imprisonment. The Court of Appeal held the wording too broad, capable of catching people who share content unaware it is false as well as journalists and ordinary users; Parliament argues the provisions reach neither opinion, satire nor good-faith error."
   }
 }

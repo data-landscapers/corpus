@@ -306,7 +306,7 @@ Agencia de Normalización	4209
 Agencia de Promoción de Inversiones	4209
 Agenciamento	11532
 Agencias	4209
-Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107
+Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68,220,148,437,137,3,3,3,131,2,56,96,12,57,27,12,114,16,61,107,330
 Agencies ANDE	3549
 Agencies C- Supply	7548
 Agencies County Focal Civil Society Points	7548
@@ -486,6 +486,7 @@ Agentes de Registo	576
 Agenti	10780
 Agentic	6603,1186,413
 Agentic AI	2715,3687,918,14,691,119
+Agentic AI Cloud	12871
 Agentic AI Hackathon	5327
 Agentic AI System	7548
 Agentic AI and Infrastructure Investments	6930
@@ -1045,6 +1046,7 @@ Irembo Agent Application Form	12333
 Italian Agency for Development Cooperation	9434,1029,321
 Ivoire's Space Agency Space	12133
 Ivoire’s National Agency for Information System Security	8073
+Ivoire’s Space Agency	12870
 Ivorian Agency for Radio Frequency Management	3604
 Ivorian Press Agency	7344
 JE M'ABONNE AGENDA	8755
@@ -1272,7 +1274,7 @@ National Identity Agency	12371
 National Information Systems Development Agency	6130
 National Information Systems Security Agency	3228
 National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39,993,13
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5
 National Information Technology Development Agency Act	10157,1836
 National Information Technology Development Agency NVDA	11952
 National Information Technology Development Agency Nigeria	8764
@@ -1548,7 +1550,7 @@ South Africa US Trade and Development Agency	219,187,325,1,441
 South Africa's State Information Technology Agency	9776,83
 South Africa's Technology Innovation Agency	10414
 South African Intelligence Agency	11277
-South African National Roads Agency	11248
+South African National Roads Agency	11248,1620
 South African National Space Agency	3290,3338,4616,4,29
 South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11,424,337,32,94
 South African Social Security Agency Act	2307
@@ -1566,7 +1568,7 @@ State Departments and Agencies	9239
 State IT Agency	10129,1041
 State IT Agency and Eskom	5968
 State Information Agency General Regulations	11184
-State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597,112
+State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597,112,911
 State Information Technology Agency Act	1009,10175
 State Information Technology Agency Bids	7514
 State Information Technology Agency General Regulation	11184

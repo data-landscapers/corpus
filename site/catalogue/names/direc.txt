@@ -323,7 +323,7 @@ Chief Director	396,613,2824,695,1005,591,2171,2767,198,29,697,61,465
 Chief Director Alexander Yaw Arphul	10736
 Chief Director CDC Coega Development Corporation	11261
 Chief Director Mr. Prince Sibanda	4528,7984
-Chief Directorate	11350
+Chief Directorate	11350,1518
 Chief Directorates	11237
 Chief Executive Officer and Managing Director	8352
 Chief Finance Officer and Managing Director of Ultimate	718
@@ -877,7 +877,7 @@ Directives and Schedules Article	11956
 Directivos	4209
 Directly	513,1315,982,3272,366,976,445
 Directoire	7620
-Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11,46,2,14
+Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92,38,159,2,3,15,28,47,26,21,8,10,30,6,36,17,23,1,17,30,19,57,16,13,28,72,185,16,2,3,3,110,3,10,8,114,37,3,47,132,15,16,6,1,9,26,5,7,1,87,12,21,1,8,83,18,5,13,45,8,22,12,9,11,46,2,14,46
 Director AI Skills Microsoft ELEVATE	5551
 Director Academy of Teaching and Learning Coordinator MSc	12508
 Director Adjunto Ministerio	4209
@@ -1005,7 +1005,7 @@ Director General of NCA	1694,9345
 Director General of NCSA	11675
 Director General of NIMC	2536
 Director General of NISR	12413
-Director General of NITDA	3054,690,2314,2366,694,458,2175
+Director General of NITDA	3054,690,2314,2366,694,458,2175,1125
 Director General of NatCA	5849
 Director General of National Communications Authority	3583
 Director General of National Security	4052
@@ -2046,12 +2046,13 @@ MP MATSOSO DIRECTOR-GENERAL DATE	396
 MTC Managing Director Dr Licky Erastus	12596
 MTN Benin Executive Director Uche Ofodile	4246
 MTN Board of Directors MH Jonas	10793
+MTN MoMo Uganda Managing Director Phrase	12873
 MTN MoMo Uganda Managing Director Richard	4348
 MUKESHA Josephine DIRECTOR GENERAL NATIONAL IDENTIFICATION	12338
 MURENZI Ivan Director General of NISR	12413
 Macau Personal Data Protection Bureau's Director	3601
 Madagascar Conducts First Direct-to-Cell Satellite Trial	2362,225,502,4210
-Magazine CIO Directory CISO Directory ITWeb	10735
+Magazine CIO Directory CISO Directory ITWeb	10735,2132,1,1
 Mahdi Hassani Hamad Ali Director of Education	2958
 Mail M. Jean Armand Yanogo Directeur	10812
 MainOne Managing Director for West Africa Wole	10229
@@ -2059,7 +2060,7 @@ Makhtar Diop Country Director	11525
 Malawi Economic Justice Network Executive Director	5595
 Mali Aboul Kader KY Directeur National	10708
 Managing Acting Managing Director	12358
-Managing Director	1749,601,477,14,94,95,35,371,495,970,348,916,134,95,370,182,261,171,462,247,169,118,564,42,122,49,293,492,214,976,1400
+Managing Director	1749,601,477,14,94,95,35,371,495,970,348,916,134,95,370,182,261,171,462,247,169,118,564,42,122,49,293,492,214,976,1400,345
 Managing Director Aashish Dutt	6291
 Managing Director Forh	10405
 Managing Director Gbenga Alade	8291
@@ -2109,6 +2110,7 @@ Managing Director of Ecobank Sierra Leone	3895
 Managing Director of Equinix West Africa	7234
 Managing Director of GCB Bank	8081
 Managing Director of Guinéenne de Monétique	7706
+Managing Director of Huawei Cloud Nigeria	12871
 Managing Director of Microsoft Nigeria and Ghana	2417
 Managing Director of Nifty ICT Solutions	7475
 Managing Director of OKTO Technologies	3690
@@ -2237,8 +2239,9 @@ NITA-U Executive Director	1718
 NITDA Director General	9576,2175
 NITDA Director General Abdullahi Kashifu Inuwa	5144
 NITDA Director-General	2933,5491,2000,142
-NITDA Director-General Kashifu Inuwa	3510,6243
+NITDA Director-General Kashifu Inuwa	3510,6243,3122
 NITDA Director-General Kashifu Inuwa Abdullahi	7630,809,1443,545
+NITDA Director-General and CEO Kashifu Inuwa Abdullahi	12871
 NITDA’s Director-General	2680
 NOA Director-General Mallam Lanre Issa-Onilu	7144
 NPA Managing Director Sekou A.M. Dukuly	7722

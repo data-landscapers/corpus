@@ -61,6 +61,7 @@ Angolan Payment System	4876,5899
 Annual PAYE	4191
 Apple Pay	3957,25,342,4684,2111
 Apple Pay and Google Pay	11119
+Apple Pay and Samsung Pay	12869
 Approve Payment System Vision	10767
 Approved Push Payment	7334
 Arif Pay	1677
@@ -1235,6 +1236,7 @@ SPECIFIC REQUIREMENTS FOR PAYMENT SERVICES	12365
 SS Payet	7911
 STATE OF INCLUSIVE INSTANT PAYMENT	12000,269,1,220
 SYSTEM PARTICI PANT BY THE PAYMENT	12374
+Samsung Pay and Samsung Pass	12869
 Samsung Wallet and Pay Later. Businesses	9008
 Says Digital Payments Key	11710
 Scale Targeted Digital Payment Solutions	12444

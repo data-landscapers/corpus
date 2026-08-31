@@ -1294,6 +1294,7 @@ Finance. Ministerial	11
 Finance. Policy	587
 Finance.'393	3583
 FinanceFisheryFood	11215
+FinanceTok	12867
 Financed	158,701,548,308,2521,106,440,1469,4713,12,898,346,126
 Financeira	2816,50,7886,6,2029
 Financeira de Macau	11683
@@ -1831,7 +1832,7 @@ Financial-infrastructure	2138
 FinancialInclusion	7653,833,168
 Financialinstitutionsmustreconcileinconsistentaccountiden-	8606
 Financially	418,7116,129,3567,1041,138
-Financials	4972,2564,3695
+Financials	4972,2564,3695,1651
 Financials Utilities Banks Financial Services Energy	4972
 Financials and Information Technology	4972
 Financials and Utilities	4972
@@ -3061,7 +3062,7 @@ Public Finance Fiscal	11134
 Public Finance ICT Service	5588
 Public Finance Law	11900
 Public Finance Management	789,6007,150,885,2291,191,1077,146,1052,10
-Public Finance Management Act	1154,400,1182,315,2057,425,1413,602,362,854,170,1085,294,871,14,1,31,10,7,3,2,11,16,1,184,1134
+Public Finance Management Act	1154,400,1182,315,2057,425,1413,602,362,854,170,1085,294,871,14,1,31,10,7,3,2,11,16,1,184,1134,270
 Public Finance Management Act Part	9437
 Public Finance Management Act. Action SA	7532
 Public Finance Management Act.’’. Substitution	11280

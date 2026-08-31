@@ -219,6 +219,7 @@ Bamako Railway	6422
 Bank Rakyat	11994
 Bank Rakyat Indonesia	11994
 Bank for International Settlement Capital Adequacy Ratio	11134
+Base SEC Reserve Ratio	12882
 Bearisoa Rakotoniaina	8914
 Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co	998
 Bello-Gomez RA. Designing Difference	10881
@@ -475,6 +476,7 @@ Data Exchange RATING OPPORTUNISTIC STAGE Malawi	12214
 Data Mean Data Rate	5744
 Data Protection RATING SYSTEMATIC STAGE Malawi	12214
 Date Social Risk Rating	11417
+Day Redemption Rate	12882
 Death Rate CoD Cause of Death CR	12413
 Debt Pension Assets Ratio	11134
 Debt-to-Equity Ratio	12445
@@ -1603,6 +1605,7 @@ RA001fn9	11140
 RAADGEWING OF VERKRYGING OM MISDRYF TE	11190
 RAAMP	11469
 RAAMP-SU	11469
+RAB Tech	12883
 RABAT	2258,1951,6612
 RABES UNIDOS REFORÇAM COOPERAÇÃO EM AGRICULTURA	12807
 RABIDA	5509
@@ -1722,7 +1725,8 @@ RATIONALE FOR A SPECTRUM ROADMAP	5245
 RATIONALE FOR ADDITIONAL FINANCING	2889
 RATIONALE FOR RESTRUCTURING	2473,2180
 RATIONALE FOR THE DATA AND CLOUD	11196
-RATOPs	10561
+RATOP	12882
+RATOPs	10561,2321
 RAVAIL	7655
 RAVEC	2781,2502,5431
 RAVELOMAHATRATRA	6613
@@ -2882,6 +2886,7 @@ Tanzania Railways Corporation	10592
 Tanzanian Railways	9971
 Tanzanian Railways General Manager Machibya Masanja	9971
 Target Leverage Ratio	11134
+Target Token Raise	12882
 Targeted RI Achievement Rating Change PDO1	10779
 Tariff Exchange Rate	7933
 Tariff Exchange Rate Adjustment	7933,2635
@@ -2891,6 +2896,7 @@ Taxa de Espetro Radioelétrico	1251,831,2330
 Teacher Ratio PSIG	12175
 Teacher Ratio RNE	12175
 Tebello Ralebitso	769
+TechCabal Intelligence SEC Token Raise	12882
 Technical Specifications Raxio MZ1 Data Centre	9446
 Technological and Socioeconomic Rationale	3861
 Technological and Socioeconomic Rationale Data	3861

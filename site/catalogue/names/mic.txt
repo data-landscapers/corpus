@@ -706,6 +706,7 @@ Microsoft Office Word	962
 Microsoft Office and Google Docs	6517
 Microsoft Open Education	4126
 Microsoft Outlook	7503
+Microsoft Outlook and Zamportal	12880
 Microsoft Power BI	11231,1523
 Microsoft Power Platform	6353
 Microsoft Power Platforms	11231
@@ -723,12 +724,13 @@ Microsoft Semantic Kernel	5327
 Microsoft Server	5866
 Microsoft South Africa	4504,2230,733
 Microsoft South Africa and SABC	5810
-Microsoft Teams	2093,320,261,5929,1499,707,431,1155
+Microsoft Teams	2093,320,261,5929,1499,707,431,1155,473,12
 Microsoft Teams Tender	10102,707
 Microsoft Teams and Google	12006
 Microsoft Teams and Zoom	9304
 Microsoft Teams. Meeting ID	10102
 Microsoft Teams. Tender	7514,2162
+Microsoft TeamsTender	12868
 Microsoft Tech for Social Impact	4606,35
 Microsoft Vice Chair and President	2525
 Microsoft Visual Studio	12693

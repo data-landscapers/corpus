@@ -264,7 +264,7 @@ Equations	8606
 Equatoguinean	2432,251,346,934,2335
 Equatoguineans	2683,2894
 Equatoria State	8330
-Equatorial Guinea	57,106,150,445,485,105,17,234,102,15,93,19,604,76,41,36,97,1,92,205,49,9,456,1,1,412,219,23,59,94,564,134,110,34,31,140,91,170,127,204,175,267,152,1205,336,149,1321,30,479,166,571,26,50,3,2,1,51,76,471,170,42,212,4,3,16,1,2,20,51,57,136,1,9,47,131,11,1,32,103,30
+Equatorial Guinea	57,106,150,445,485,105,17,234,102,15,93,19,604,76,41,36,97,1,92,205,49,9,456,1,1,412,219,23,59,94,564,134,110,34,31,140,91,170,127,204,175,267,152,1205,336,149,1321,30,479,166,571,26,50,3,2,1,51,76,471,170,42,212,4,3,16,1,2,20,51,57,136,1,9,47,131,11,1,32,103,30,352
 Equatorial Guinea Bahamas Fiji Barbados Gabon	10764
 Equatorial Guinea D	11867
 Equatorial Guinea Digital Economy Country	1752
@@ -513,7 +513,7 @@ Equity-BCDC	11960
 EquityBCDC	4286
 EquityBank	8654
 Equité	6902,3810,1204
-Equivalent	10721,559,673,41,308
+Equivalent	10721,559,673,41,308,580
 Equivalent Grades	2779
 Equivalent Prices for Telkom Mobile	11259
 Equivalent Prices for Telkom Mobile Tariff	11259
@@ -700,6 +700,7 @@ National Security Adviser OEM Original Equipment	11857
 National Social Equality	11857
 Ndzingeni and Ntfonjeni. Equipped	12425
 Nedbank Private Equity	10595
+Net Equity	12882
 Network Equipment	10721
 Network Equipment NAD	1944
 Network Equipment USD	1013

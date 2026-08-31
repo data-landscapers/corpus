@@ -377,6 +377,7 @@ Certification Programs	6946
 Certification Relying Party Subject	10819
 Certification Requirements	5665
 Certification Scheme	7548
+Certification Service Provider	12865
 Certification Standard	2889
 Certification WhatsApp Channel Planned Interventions Current	8999
 Certification and Compliance	11995
@@ -745,7 +746,7 @@ Risks of Falling Behind Certainly	7596
 Roaming Cero	3963
 Robert Kahn and Vinton Cerf	1036
 Root Certificate Authority	11867
-Root Certification Authority	8440,1440
+Root Certification Authority	8440,1440,2985
 Root Certification Authority for Nigeria	10423
 Root Certification Authority for Nigeria's National Public	8440
 Root Certification Authority. The DCS	11120

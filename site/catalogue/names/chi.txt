@@ -395,7 +395,7 @@ Chief Director	396,613,2824,695,1005,591,2171,2767,198,29,697,61,465
 Chief Director Alexander Yaw Arphul	10736
 Chief Director CDC Coega Development Corporation	11261
 Chief Director Mr. Prince Sibanda	4528,7984
-Chief Directorate	11350
+Chief Directorate	11350,1518
 Chief Directorates	11237
 Chief Diversification Officer	9097
 Chief Economic Adviser	5072
@@ -856,7 +856,7 @@ Children’s Investment Fund Foundation	1824
 Children’s Literacy Whilst	1363
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
-Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71,61,145,13,1,128,2,19,455,285,70
+Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71,61,145,13,1,128,2,19,455,285,70,900
 Chile BUSTOS	6613
 Chile Frente	11563
 Chile Global Cybersecurity Index	10764
@@ -910,7 +910,7 @@ Chimwemwe Mangazi	3933,676,166
 Chimène Anani Dègla	5899
 Chimène Lougbegnon Bossa	6475
 Chin J Int Polit	5242
-China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10,85,8,15,22,9,15,50,57,117,107,22,7,217,55,71,138,286
+China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10,85,8,15,22,9,15,50,57,117,107,22,7,217,55,71,138,286,104,2
 China Academy of Information and Communications Technology	7174,4628
 China Academy of Space	12545
 China Aerospace Science and Technology Corporation	9816
@@ -968,6 +968,7 @@ China Household Registration	10714
 China In The Xi Jinping Era	2518
 China Industrial Bank	6485
 China Information Technology Expo	5755,1
+China International Big Data Industry Expo	12864
 China Is Turning Data	10350
 China JIA	6613
 China Macao SAR Resident Identity Card	10714
@@ -1012,7 +1013,7 @@ China Washington	10068
 China X Congo	11005
 China Yes Digital	11529
 China Yes Telecom Industry Development Plan	11529
-China and Africa	5863,1007,4432,16
+China and Africa	5863,1007,4432,16,1546
 China and African	2518
 China and Asia	5863
 China and Austria	5756
@@ -1058,16 +1059,20 @@ China's Domestic Policy Towards Orbital Data	9816
 China's FiberHome	10796
 China's Framework for Data Commercialization	10350
 China's Genew Technologies	4478,2534
+China's Guizhou Province	12864
+China's Guizhou Province. Yang Jie	12864
 China's Huawei Technologies. Having	3546
 China's Internet Development	8460
 China's MAZU	9238
+China's National Data Administration	12864
 China's National Intelligence Law	8970
 China's People's Liberation Army	7870
 China's Permanent Representative	8740
 China's Shandong Province	9238
 China's SpaceSail	8134
 China's UN	8740
-China-Africa	5239,624,128,12,787,3236,1276,316
+China's Xinjiang Uygur Autonomous Region and Guizhou	12864
+China-Africa	5239,624,128,12,787,3236,1276,316,1248
 China-Africa AI	9238
 China-Africa Building Materials Niger	3546
 China-Africa Cooperation	183,608,2808,2392,12,787,4528,300
@@ -1213,7 +1218,7 @@ Chinedu Okafor	3413
 Chinemenma Igbokwe and Adedola Adetokunbo-Ajayi	9750
 Chinenye Ifebirinachi	6423
 Chines	5242
-Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164,45,209,71,10,4,5,14,1,129,58,398,447,23,54,72,209
+Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164,45,209,71,10,4,5,14,1,129,58,398,447,23,54,72,209,319,2
 Chinese AI	1965,374,2899,19,107,1426,1482,188,35,15,237,41,102,373,21,754,177,215,97,627
 Chinese AI Published	9659
 Chinese Ambassador	35,147,7,39,1,31,1,39,43,18,430,5200,12,1867,1220,289,187,1057,322,1529
@@ -1825,6 +1830,7 @@ LSE Kenya's Child Protection Information Management	9083
 La Chine	3465,3312,3476,380
 Laptops for Non-Technical Chief Directors	2779
 Laptops for Technical Chief Directors	2779
+Latin America. China	12864
 Lawyers for Human Rights and Centre for Child Law	11977
 Le Chief Executive Officer de Mauritius Telecom	9948
 Leading Causes of Registered Deaths Among Children	12151
@@ -2350,6 +2356,7 @@ Uganda China Ministry of Commerce	184
 Uganda and China	6102,3285
 Uganda and China Vodacom Tanzania	6102
 Uganda and China Vodacom Tanzania and Thunes	6102
+Uganda. The Chief Guest	12874
 Ugandan and Chinese	6102
 Under President Xi Jinping the Chinese	2518
 Understanding China	2518

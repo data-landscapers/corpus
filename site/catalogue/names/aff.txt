@@ -348,7 +348,7 @@ Department of Economic and Social Affairs.2	12376
 Department of Economics and Social Affairs. World Health	12367
 Department of Foreign Affairs and Trade	11868
 Department of Gender Affairs Policy Development	12642
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42,821
 Department of Home Affairs Annual Report	11977
 Department of Home Affairs Privatte Bag X114	11986
 Department of Home Affairs Strategic Plan	2662,9315
@@ -521,7 +521,7 @@ Health Aff Sch	7836
 Health Platform Ministry of Foreign Affairs	186
 Higher Learning Institutions. Affordability	12333
 Home Affair	3017
-Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127
+Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467,59,2,10,127,217
 Home Affairs APP	5876
 Home Affairs Act	5533,6453
 Home Affairs Act Home Affairs Bill	11986
@@ -789,7 +789,7 @@ Ministry of Foreign and Diaspora Affairs	7548
 Ministry of Foreign and International Affairs	1161
 Ministry of Foreign and International Affairs Civil	1161
 Ministry of Health. The Ministry of Foreign Affairs	7030
-Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3
+Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3,104
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Home Affairs Internal Security	1988
 Ministry of Home Affairs and Cultural Heritage	3274,9240
@@ -953,6 +953,7 @@ Sector-specific Foreign Affairs	7548
 Seeing the Internet Become More Affordable	6318
 Senegal Affordability	11964
 Senegal's Minister of Telecommunications and Digital Affairs	9962,215
+Senegal’s Minister of Telecommunications and Digital Affairs	12877
 Senior Communications and External Affairs Officer	11136
 Senior Director and Head of Government Affairs	3987
 Service des Affaires Contentieuses Suivi du Marché	10975

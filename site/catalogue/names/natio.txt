@@ -466,6 +466,7 @@ CONCLUSION The National FinTech Strategy	12444
 CONSEIL NATIONAL DE LA TRANSITION LOI	113
 CONSEIL NATIONAL DE LA TRANSITION Vu	113
 CPF Country Management Unit CPS National	11855
+CRAN’s National Trust Framework	12865
 CRITICAL NATIONAL INFRASTRUCTURE	1000,11459
 CRP.5 Nations	3583
 CRP.5 To the Transitional National Legislative Assembly	3583
@@ -563,6 +564,7 @@ China National Petroleum Corporation Niger Company	3546
 China National Register	10714
 China National Space Administration	9816
 China National Technical Import	2285
+China's National Data Administration	12864
 China's National Intelligence Law	8970
 China’s National Economic and Social Development Plan	5242
 China’s National Intelligence Law	4563
@@ -1270,7 +1272,7 @@ Fonds National	3157,7807
 Fonds National de Développement Local	9637,1
 Fonds National des Retraites	10821
 Fonds de Solidarité Nationale	4402
-Fonds des Nations	8072,2441,95
+Fonds des Nations	8072,2441,95,2275
 Fonds des Nations Unies	6578,104,1873,336,386,1008,589,1108
 Fonds des Nations-Unies	11982
 Food and Agriculture Organization of United Nations	12667
@@ -3064,7 +3066,7 @@ National Commission for Data Protection	3080
 National Commission for Education	2958
 National Commission for Electronic Payment Methods	6204
 National Commission for Foreigners’ Employment	11900
-National Commission for Persons	11975,63
+National Commission for Persons	11975,63,843
 National Commission for Refugee	10864
 National Commission for Refugees	11900,245
 National Commission for Refugees Act	12145
@@ -3984,6 +3986,7 @@ National Geo-spatial Information NGMS National Geomatics	11261
 National Geomatics Management Services	11261
 National Geospatial Development Agency	4214
 National Geospatial Development Agency AI Artificial	4214
+National Geospatial Information	12868
 National Geospatial Information Policy	12457
 National Geospatial Technical Committee	12457
 National Girls Education Strategy	12175
@@ -4150,7 +4153,7 @@ National ICT Infrastructure Master Plan	2867
 National ICT Initiatives Support Program	2676
 National ICT Innovation Awards	5906
 National ICT Innovation Awards Malawi	5906
-National ICT Innovation Hub	2676,2433,1756,787,1207,530,512
+National ICT Innovation Hub	2676,2433,1756,787,1207,530,512,2973
 National ICT Master	12214
 National ICT Master The COVID-19	899
 National ICT Ministry	7548
@@ -4248,7 +4251,7 @@ National Identification Document NPC	12337
 National Identification Needs	2363
 National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6
 National Identification Number TIN	11861
-National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617
+National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167
 National Identification Numbers and Libyan	4531
 National Identification Office	1864,8948
 National Identification Project	5855
@@ -4383,7 +4386,7 @@ National Information Technology Authority-Uganda	5064,1512,1456,42,649,1060,2
 National Information Technology Authority-Uganda Palm Courts	11750
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226,120,41,2,237,643,1,5
 National Information Technology Development Agency Act	10157,1836
 National Information Technology Development Agency NVDA	11952
 National Information Technology Development Agency Nigeria	8764
@@ -5266,7 +5269,7 @@ National Solidarity	10826
 National Solidarity Fund	6458,4527
 National Solidarity Fund--and	10985
 National Sovereign Cloud	5297,14,1356,3086,200,1088
-National Sovereign Cloud Initiative	8986,132,455,98,753,257,272,385
+National Sovereign Cloud Initiative	8986,132,455,98,753,257,272,385,1533
 National Sovereign Cloud Initiative Implementation	10952
 National Sovereign Cloud Initiative Implementation Taskforce	10952,1
 National Sovereign Wallet	6444
@@ -5829,7 +5832,7 @@ Nigeria’s National Cybersecurity Policy and Strategy	10689
 Nigeria’s National Data Protection Commission	5463
 Nigeria’s National Digital Economy Policy and Strategy	5215
 Nigeria’s National HMIS	771
-Nigeria’s National Identity Management Commission	7143
+Nigeria’s National Identity Management Commission	7143,5738
 Nigeria’s National Information Technology Development	10424
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
 Nigeria’s National Insurance Commission	2462
@@ -6548,7 +6551,7 @@ South African National Normative Standards	9969
 South African National Policy Framework for Women	11193
 South African National Research Foundation	12025
 South African National Research Network	9126
-South African National Roads Agency	11248
+South African National Roads Agency	11248,1620
 South African National Space Agency	3290,3338,4616,4,29
 South African National Standards	11269
 South African National Statistics System	11237
@@ -6897,7 +6900,7 @@ Uganda's National Identification and Registration Authority	1850
 Uganda's National Security Information System	1850
 Uganda's SECOND National Financial Inclusion Strategy	1262
 Ugandan Ministry of ICT and National Guidance	8546
-Uganda’s Ministry of ICT and National Guidance	6239
+Uganda’s Ministry of ICT and National Guidance	6239,6635,4
 Uganda’s National AI and Emerging Technologies Strategy	6113
 Uganda’s National Development Plan IV	9389
 Uganda’s National E-Commerce Platform	9781
@@ -6950,7 +6953,7 @@ United Nations Children’s Fund USR Unified	10964
 United Nations Children’s Fund Vertical Expansion	10763
 United Nations Climate Change Conference	10768,804
 United Nations Climate Change Conference DRE	11572
-United Nations Commission	10819,731
+United Nations Commission	10819,731,1314
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760
 United Nations Committee of Experts	9651

@@ -225,6 +225,7 @@ GoK Require AI	7548
 Good Standing Certificate Request	12397
 Governance Requirements	12365
 Grant Review Required	12123
+Gross Assets Required	12882
 Guidelines Actor Requirements	6432
 HEALTH DATA REQUEST FORM	2709
 Hosting Requirement	11995
@@ -602,7 +603,7 @@ Requirements. Specifies	11269
 Requirementsforlocalclinicalval-	8301
 Requires	961,2900,1804,767,1810,882,1732,146,1004,363,75
 Requires APIs	12444
-Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210
+Requiring	961,282,3285,835,2108,3304,230,74,77,1146,210,370
 Requiring RIRs	3502
 Requiring Telecom Users	11079
 Requisiros	11390

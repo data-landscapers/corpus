@@ -1644,7 +1644,7 @@ Naima Muse	5225
 Naime	10780
 Naing Ngan Thar Sisityay Card	10714
 Nair Abakar	5671
-Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339,819,1,91,24
+Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339,819,1,91,24,906
 Naira Branch Wallets An FI	11861
 Naira Helpdesk	11861
 Naira Helpdesk Team	11861
@@ -1666,7 +1666,8 @@ Naira Treasury Wallets	11861
 Naira URL	11861
 Naira Wallet Payments	4901
 Naira Wallets	11861
-Naira-backed	9285
+Naira-Backed	12882
+Naira-backed	9285,3597
 Naira-based	9751
 Naira-denominated	9751,406
 Naira. Financial	11861

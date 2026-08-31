@@ -101,7 +101,7 @@ Asset Wealth Index AtlasAI’s Asset Wealth	12006
 Associations WAEMU West African Economic and Monetary	10841
 Atakunmosa East and Atakunmosa West. Team Five	10049
 Ateny Minister of Information Ateny Wek Ateny	9078
-Ateny Wek Ateny	4223,726,158,939,232,3,5403
+Ateny Wek Ateny	4223,726,158,939,232,3,5403,1182
 Attribution WELT HUNGER HILF Décision	998
 Audiencia Provincial de Wele Nzas	4209
 Aug-26 Province Western Cape Western Cape	8999
@@ -155,6 +155,7 @@ Busia West Pok	12151
 Business Amazon Web Services AWS	10236
 Business Reporter Bayport Targets Women’s Wealth	10151
 Business Reporter Website	10151
+BusinessSouth SudanAteny Wek AtenyDigital	12866
 Bénin Web TV	4157
 C04 Weak	9237
 C07 Weak	9237
@@ -866,6 +867,7 @@ Niger. The West Africa Unique Identification	2778
 Nigeria Country Office World Bank Western	11468
 Nigeria Fintech Week	3732
 Nigeria NOG Energy Week	3383
+Nigeria Web Design Standards	12881
 Nigeria Welcomes IMF Recognition	8010
 Nigeria Welfare	4302
 Nigeria and West Africa	9117
@@ -1179,6 +1181,7 @@ Sovereign Wealth Funds	4972
 Space Science and Technology Bill. Weiping	5010
 Staff Town Wolseley Wolseley Gugulethu Wellington	8999
 Standards OASIS Web Services Notification Family	1009
+Standards and Guidelines for Government Websites	12881
 Starlink. We’re	10797
 State of Digital Wellness	9045
 Strengths Weaknesses	961,11483,56
@@ -1389,7 +1392,7 @@ WURI. The West Africa Unique Identification	1635
 Wallis and Futuna Western Sahara Yemen Zambia	11470
 Wapendwa Wetu	6019
 We'll	1038,728,526,905,3432,356,80,2008,180,2936
-We're	1038,212,499,54,489,46,348,71,67,111,1,43,7,2,62,125,22,25,33,77,91,106,38,82,112,56,152,59,27,180,24,92,37,272,27,235,9,23,4,1,89,61,111,72,51,28,23,19,9,143,93,73,47,189,42,98,14,76,1,41,72,124,37,21,83,76,333,20,60,183,119,28,36,4,44,3,130,143,382,353,59,42,132,58,201,91,25,264,12,259,8,32,10,85,405,205,40,1235,246,30,39,7,50,219,43,145,89,163
+We're	1038,212,499,54,489,46,348,71,67,111,1,43,7,2,62,125,22,25,33,77,91,106,38,82,112,56,152,59,27,180,24,92,37,272,27,235,9,23,4,1,89,61,111,72,51,28,23,19,9,143,93,73,47,189,42,98,14,76,1,41,72,124,37,21,83,76,333,20,60,183,119,28,36,4,44,3,130,143,382,353,59,42,132,58,201,91,25,264,12,259,8,32,10,85,405,205,40,1235,246,30,39,7,50,219,43,145,89,163,180
 We're Only Human After All	11028
 We've	1038,703,25,194,565,421,26,9,33,98,63,22,25,65,211,420,1,1,135,1792,75,336,93,714,188,182,47,120,33,855,98,3,101,206,84,89,27,268,226,176,405,90,167,1277,61,234,519
 WeAreDelivering	6355
@@ -1470,8 +1473,9 @@ Web Application Attacks System Attacks Mobile	6671
 Web Application Firewall	6432
 Web Camera	12359
 Web Consortium	12360
-Web Content Accessibility Guidelines	5665,1601,1173,2567,1,945
+Web Content Accessibility Guidelines	5665,1601,1173,2567,1,945,929
 Web Content Management Server OS N	9124
+Web Design Standards Toolkit	12881
 Web Designers	6832
 Web Developer	11941
 Web Developers	6832
@@ -2157,6 +2161,7 @@ World Wide Web Foundation	149,6519
 World Wide Web. IP	1036
 Y PAGINA WEB BIBLIOTECAS E NACIONAL	4209
 YEZI-2025 UNgqongqoshe Wezokuthutha	11573
+Yang Wenbin	12864
 Yes. We're	3175
 Yet Not So Wild West	8629
 Yolandi de Wet	7253

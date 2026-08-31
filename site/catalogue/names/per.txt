@@ -1198,7 +1198,7 @@ Name of Person	11976
 Names of Persons Filing Statement	7198
 Namibia Super Computer PARAM High Performance	9475
 National Agency for Identification of Persons	6147
-National Commission for Persons	11975,63
+National Commission for Persons	11975,63,843
 National Committee for Personal Data Protection	11873
 National Council for Older Persons Act	3005
 National Council for Persons	2775,5886,134,3436
@@ -2542,6 +2542,7 @@ Responsibility for Data Collection The MOH Percentage	11417
 Responsibility for Data Collection The MOH Performance	11417
 Responsibility for Data The MOH. Collection Percentage	11417
 Results Areas Baseline Period	11905
+Results Select Your Perspective Choose	12882
 Retabled Performance Information for Programme	11218
 Retention Period	3861
 Retention Period and Expiry	3861

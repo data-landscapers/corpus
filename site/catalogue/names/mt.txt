@@ -305,6 +305,7 @@ MTI. Entre	10760
 MTL and Cabinet	4653
 MTM Management Team Meeting	11860
 MTMUSR	3396
+MTN Ace	12874
 MTN Airtel Tigo Service	10822
 MTN App	11259
 MTN BENIN	10821
@@ -363,7 +364,7 @@ MTN FiberX	11506
 MTN FibreX	5874,1236
 MTN Financials	10425
 MTN Fintech	8025,4318,101
-MTN Foundation	9102,1
+MTN Foundation	9102,1,3771
 MTN GHANA	6242
 MTN GLO AIRTEL EMTS	3862
 MTN GLO AIRTEL EMTS SMILE NTEL	3862
@@ -460,8 +461,9 @@ MTN MoMo Fintech	3507
 MTN MoMo Merchant	8410
 MTN MoMo Rwanda	8682
 MTN MoMo Rwanda CEO Chantal Kagame	8682
-MTN MoMo Uganda	3330,5773
+MTN MoMo Uganda	3330,5773,3770
 MTN MoMo Uganda Beyond	9102
+MTN MoMo Uganda Managing Director Phrase	12873
 MTN MoMo Uganda Managing Director Richard	4348
 MTN MoMo and Airtel Money	3727
 MTN MoMo and Eswatini Mobile	3422
@@ -587,12 +589,13 @@ MTN Telecel Total Figure	2776
 MTN Telecoms	11885
 MTN Transformation Team	7491,2651
 MTN USD	2454
-MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283
+MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283,743
 MTN Uganda CEO	3330
 MTN Uganda CEO Sylvia Mulinge	3330
 MTN Uganda Calls for Greater Support	6865
 MTN Uganda Chief Executive Officer Sylvia	9102
 MTN Uganda EBITDA	10793
+MTN Uganda Foundation Board	12874
 MTN Uganda Mulinge	9102
 MTN Uganda Syndicated	10793
 MTN Uganda and Airtel Uganda	4753,4000,724

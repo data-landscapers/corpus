@@ -469,6 +469,7 @@ Communication and Postal Services Minister Ateny Wek	10657
 Communication and Transport Minister	3460
 Communication. Le Conseil des Ministres	2738,3329
 Communications Minister	2338,1620,332,1411,705,5235,1050
+Communications Minister Bosun Tijani	12881
 Communications Minister Mohamed Adan Moalim	3637
 Communications Minister Mohamed Aden Mohamud Ali	3774
 Communications Minister Salima Bah	4140
@@ -1011,7 +1012,7 @@ Federal Ministry of Agriculture and Food	3742
 Federal Ministry of Agriculture and Food Security	5765,1454,2657
 Federal Ministry of Budget and Economic Planning	10063,93
 Federal Ministry of Communication	3456,5527,2969
-Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81
+Federal Ministry of Communications	381,1164,814,35,72,467,523,92,177,217,586,41,265,233,493,165,178,329,55,1597,237,588,271,6,131,552,394,70,23,1,1,151,115,275,430,725,3,95,33,81,815
 Federal Ministry of Communications and Digital Economy	2253,5624,3980
 Federal Ministry of Education	3426,1711,2268,1181,2,121,1046,402,1703,91,86,24
 Federal Ministry of Education Parastatals	11860
@@ -2897,7 +2898,7 @@ Ministre du Plan	7978,2535
 Ministre.des Télécommunications	11139
 Ministres	548,666,753,1,374,466,237,336,15,279,892,1500,1403,799,415,2467
 Ministri	10829
-Ministries	395,323,71,169,203,100,516,37,24,150,299,240,4,244,4,210,397,90,72,56,74,183,23,23,219,88,814,216,200,349,142,59,79,204,155,10,66,31,129,118,162,42,154,225,179,147,53,120,105,77,71,246,54,19,29,163,37,253,58,1,23,70,142,514,29,146,49,98,11,93,1,156,290,78,82,107,39,848,18,16,60,6,3,1,44,19,15,17,35,2,33,23,22,23,41,10,12,18,1,34,4,26,1,12,103,4,7,16,30,40,41,47,10,37,10,41,4,1,1,15,5,9,83
+Ministries	395,323,71,169,203,100,516,37,24,150,299,240,4,244,4,210,397,90,72,56,74,183,23,23,219,88,814,216,200,349,142,59,79,204,155,10,66,31,129,118,162,42,154,225,179,147,53,120,105,77,71,246,54,19,29,163,37,253,58,1,23,70,142,514,29,146,49,98,11,93,1,156,290,78,82,107,39,848,18,16,60,6,3,1,44,19,15,17,35,2,33,23,22,23,41,10,12,18,1,34,4,26,1,12,103,4,7,16,30,40,41,47,10,37,10,41,4,1,1,15,5,9,83,124
 Ministries Allocated	10870
 Ministries C1- Baseline	7548
 Ministries DLR	11905
@@ -3405,7 +3406,7 @@ Ministry of Higher Legally	12512
 Ministry of Higher and Tertiary	4528,7984
 Ministry of Higher and Tertiary Education	413,107,634,1625
 Ministry of Higher and Tertiary Education Innovation Science	4528
-Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3
+Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71,183,5,9,3,83,3,104
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Home Affairs Internal Security	1988
 Ministry of Home Affairs and Cultural Heritage	3274,9240
@@ -4606,6 +4607,7 @@ Senegalese Ministry	3834
 Senegalese Petroleum Minister	10314
 Senegalese Prime Minister Ousmane Sonko	2288
 Senegal’s Digital Ministry	5985
+Senegal’s Minister of Telecommunications and Digital Affairs	12877
 Senegal’s Ministry of Communication	5672,676
 Senegal’s Ministry of National Education	2550
 Senegal’s Ministry of Telecommunications and Digital Economy	10509
@@ -4890,7 +4892,7 @@ Uganda’s Minister for Science	3065
 Uganda’s Ministry of Foreign Affairs	11075
 Uganda’s Ministry of Gender	6113
 Uganda’s Ministry of Gender and Social Development	10822
-Uganda’s Ministry of ICT and National Guidance	6239
+Uganda’s Ministry of ICT and National Guidance	6239,6635,4
 Ukraine's Ministry of Veterans Affairs	12391
 Ukrainian Prime Minister Yuriy Yekhanurov	7493
 Union Minister Dr Jitendra Singh	6480
