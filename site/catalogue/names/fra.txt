@@ -8,6 +8,7 @@ ADILSON FRANCISCO GUIMARÃES	10751
 ADOPTION OF THE FRAMEWORK A Member	961
 AFD Agence Française de Développement	11380
 AFD Agence Française de Développement AMR Avis	10712
+AFD France	13260
 AFD and Expertise France	3036
 AFGHS Cooperation Framework	4153
 AFRICAN POLICY AND REGULATORY FRAMEWORK	1243
@@ -222,6 +223,8 @@ CBN Open Banking Framework	4848
 CCFA Franc BCEAO	11563
 CDC Health Data Governance Framework. Together	6794
 CEO Max Francisco	2923
+CEO of Franc	13267
+CEO of Franc. Business Day	13267
 CFA Franc	10841,1064
 CFA Franc FCV Fragile	969
 CFA Francs	7958,3595,371
@@ -642,7 +645,7 @@ Expenditure Framework MTSF Medium Term Strategic	11224
 Expenditure Framework N	11261
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Expenditure Framework NDP National Development Plan	1988
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218
 Expertise France Comores	3772
 Expertise France and CMM Oxford	1000
 Expertise France and ESTDEV	9265
@@ -880,7 +883,7 @@ Frameworks for National AI Policy and Regulatory Governance	8710
 Frameworks&body	5363
 Frameworks&summary	5363
 Frameworks&url	5363
-Framing	432,809,2296,887,740,650,627,391,128,830,2179,760,406
+Framing	432,809,2296,887,740,650,627,391,128,830,2179,760,406,2122
 Framing Adaptive Safety Nets	10763
 Framing Adaptive Social Safety Nets	10763
 Framing Social Protection and Labor Policies	10985
@@ -894,7 +897,7 @@ Franc	9616,1242,17,647,295,88
 Franc CFA	2342,2344
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75
 France Connect	7981
 France Câbles Radio	7421
 France Embassy	12972
@@ -933,6 +936,7 @@ France's Idemia. Malian	3823
 France's Mistral	8347
 France's National Health Platform. Framed	6001
 France's Scaleway	6879
+France's Trois Océans	13260
 France- and Russia-targeting	1008
 France-Maroc	11742
 France-based	3874
@@ -1011,7 +1015,7 @@ Francisco Ramos da Cruz	11837
 Francisco Tchimbavo	10366
 Francisco Valle	10764
 Francisco de Pina	11561
-Francistown	3688
+Francistown	3688,9578
 Francistown. Improve Access	12552
 Franck Djodjo Mulamba	7811
 Franck Engonga	10036
@@ -2224,6 +2228,7 @@ Tax Audit Framework	12389
 Tax Refund Fraud	12951
 Tax and Customs Administrations Expertise France	648
 Teacher Competency Framework	12175
+Team France Export	13260
 Tech France and Senegal Strengthen Ties	2544
 Technical Description Example Profile Framework	1009
 Technical Framework	1009

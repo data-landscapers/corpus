@@ -976,7 +976,7 @@ Dependency Ratio	2775
 Dependent	9129,2167,690,374,588
 Dependents	12217,243
 Dependerá	1701
-Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002,108,151,156,12,128,3,357,273,323,187,81,537,5
+Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002,108,151,156,12,128,3,357,273,323,187,81,537,5,228
 Dependência	10777
 Dependência Primária de Tecnologias	10777
 Dependência de IA	2816
@@ -1186,7 +1186,7 @@ Deputy DG	1915
 Deputy Daaga Nassouri	7361
 Deputy Data Commissioner John Walubengo	2668
 Deputy Data Commissioner Oscar Otieno	2668
-Deputy Director	761,619,1347,1519,2425,1038,614,263,2,392,113,2036,160,697,152,207,60,363,121,5,11,46,21,6,2,8,17,92,46
+Deputy Director	761,619,1347,1519,2425,1038,614,263,2,392,113,2036,160,697,152,207,60,363,121,5,11,46,21,6,2,8,17,92,46,118
 Deputy Director Appointment of District	12898
 Deputy Director Bashir Dagoro	10530
 Deputy Director Fintech and Innovation	11134
@@ -1386,6 +1386,7 @@ Deputy Representative	9766
 Deputy Resident District Commissioner	8032
 Deputy Resident Representative	8343,3430
 Deputy Resident Representative Nana Chinbuah	8343
+Deputy Resident Representative for UNDP Malawi	13280
 Deputy SRSG	4280
 Deputy Secretary	7432,20,4405
 Deputy Secretary General	9707
@@ -2393,7 +2394,7 @@ UN Department of Field Support Figure	11552
 UN ECA's Deputy Executive Secretary and Chief	8472
 UNCTAD’s Deputy Secretary-General	13042
 UNDESA United Nations Department of Economic and Social	11887,266,1,9,178
-UNDP Deputy Resident Representative	8531,4549
+UNDP Deputy Resident Representative	8531,4549,200
 UNDP Deputy Resident Representative Nessie Golakai-Gould	12997
 UNDP Malawi Deputy Resident Representative	3820
 UNDP Malawi Deputy Resident Representative Challa	13007

@@ -452,6 +452,7 @@ Components RESULT FRAME T BL IO DLI Baseline	11855
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Components Resilient Digital Infrastructure Baseline Actual	4688,3189
+Computer Basics	13280
 Computer Basics for Visually Impaired	13095
 Concertação Social CBD Condições Baseadas	11390
 Conditional Basic Income Grant	12448
@@ -786,7 +787,7 @@ Metric Baseline Average	4217
 Mexico Basket	11563
 Minimum Capital Baseline	12882
 Minister Innocent Bashungwa. Its NIDA	2924
-Minister of Basic Education	11180
+Minister of Basic Education	11180,2088
 Minister of Child Welfare and Basic Education	12565,42
 Ministries C1- Baseline	7548
 Ministry for Basic	1000

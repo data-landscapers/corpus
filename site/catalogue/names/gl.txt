@@ -307,7 +307,7 @@ ESMAP Global Solar Atlas	11136
 ESMAP Global Wind Atlas Boosting Access	11136
 ESTIMATING THE GLOBAL ID COVERAGE GAP	10714
 ESTRATEGIA GLOBAL DE DESARROLLO GUINEA ECUATORIAL	1701
-EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609
+EU Global Gateway	1129,1024,1308,1189,13,836,4,3043,2609,2102
 EU Global Gateway Agreements	6743
 EU Global Gateway EuinMoz2026 The Mozambique	6743
 EU Global Gateway Strategy	6743
@@ -315,6 +315,7 @@ EU Global Gateway. Crosswalk	1463
 EU Global Gateway. ECDPM	11155
 EU R93.5bn Global Gateway	2210
 EU's Global Gateway	3080,10090,72
+EU's Global Gateway Africa	13257
 EU's Global Gateway Strategy	6743
 EU's Global Gateway Strategy and International Digital	11985
 EU's Global Gateway Strategy. Team Europe	12985
@@ -902,7 +903,7 @@ Global Funding	12227
 Global Funding Report	4972
 Global Funding Report Africa	4972
 Global Funding Report. Calculations of Africa	4972
-Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283,230,318,15,71,1201,416,313,101
 Global Gateway Africa-Europe Investment Package	11288
 Global Gateway Afrique-Europe	1189
 Global Gateway Communication	11155
@@ -1356,7 +1357,7 @@ Globalised Synchronized Slowdown	10
 Globalization	4970,2308,4576
 Globalization and Health	6948
 Globalizations	4676
-Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19
+Globally	940,18,3,243,39,650,47,4,22,405,306,25,246,457,1034,393,16,459,14,6,113,430,166,567,105,6,232,2,23,577,241,190,452,1,28,861,385,124,308,576,4,45,1,65,22,5,129,86,67,127,280,27,39,233,59,19,43,21,11,154,59,17,45,95,139,376,160,19,195
 Globally Competitive	5134
 Globally Competitive Knowledge	770
 Globalmente	10760

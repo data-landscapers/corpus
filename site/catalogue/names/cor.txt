@@ -120,7 +120,7 @@ Botswana Power Corporation	12553,42,3,11
 Botswana Power Corporation Act	12535,60
 Botswana Power Corporation Botswana Power Corporation	12604
 Botswana Power Corporation NOTE	12592
-Botswana Telecommunications Corporation	2999,1269,8284,73
+Botswana Telecommunications Corporation	2999,1269,8284,73,641
 Botswana Telecommunications Corporation Limited	3174,9427
 Botswana Telecommunications Corporations Limited	2576
 Botswana Telecoms Corporation	4106
@@ -1052,7 +1052,7 @@ Intel Corporation	12723
 Inteligência Artificial da ONU O Corpo Consultivo	2816
 International Data Corporation	2816,867,4606,2907
 International Development Finance Corporation	2025,2422
-International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36
+International Finance Corporation	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,92,91,19,1,1,1,1,1,1,229,1,1,138,253,1,1,1,1,1,1,1,202,15,285,187,1,1,73,86,9,25,154,11,4,490,188,341,8,1121,499,264,48,1047,205,44,52,62,313,1192,27,601,26,398,1,229,1,1,68,68,113,467,267,123,16,107,16,141,19,35,23,107,450,124,65,301,8,44,36,923
 International Finance Corporation Environmental	12253
 International Finance Corporation INP-HB Interim Financial	3604
 International Finance Corporation. Inclusive Banking	12231
@@ -1250,7 +1250,7 @@ National Petroleum Corporation Hospital Jama’at Izalatul	11129
 National Police's Career Police Corps	11868
 National Rural Youth Service Corps	11261
 National Social Security and Welfare Corporation	9338
-National Youth Service Corps	3030,2114,183,3111,1137,2079
+National Youth Service Corps	3030,2114,183,3111,1137,2079,1619
 Nations High Corporation Commissioner for Refugees USD	12297
 Nature of Fraud and Corruption Cases	11250
 Neo Corneliah Sebolao	12327
@@ -1364,7 +1364,7 @@ Public Entities Corporate GovernanceAct	1154
 Public Entities and Corporate Governance Act	11791
 Public Fi- The Deposit Insurance Corporation	6938
 Public Interest Corpus	7313
-Public Investment Corporation	684
+Public Investment Corporation	684,12585,2
 Public Service Delivery and Corruption	5349
 Publications Corporation NFC Namibia Film Commission	12973
 Q2. Corroborates	4583

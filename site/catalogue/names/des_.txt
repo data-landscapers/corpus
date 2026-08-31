@@ -833,7 +833,7 @@ GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
 GSM. Banque des Etats	11944
 GUIDE POUR LA DIGITALISATION DES PAIEMENTS	10711
 Gabon Agence Nationale des Infrastructures Numériques	6129
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684
 Gestion Electronique des Documents	2342
 Gestion Intégrée des Ressources	643
 Gestion L'Assemblée Générale des Etablissement Publics	3396
@@ -1391,6 +1391,7 @@ Plan de Passation des Marchés Publics	10876
 Plan de Passation des Marchés du Programme	10876
 Plan de Protection des Infrastructures	10906
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
+Plateforme des Régulateurs	13264,1
 Poids des IPP	10975
 Poids des MPME	11944
 Police des Nations	10475

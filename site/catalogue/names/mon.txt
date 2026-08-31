@@ -62,7 +62,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -80,7 +80,7 @@ Airtel Money School Pay	10664
 Airtel Money School Pay Expands Digital	10664
 Airtel Money Tanzania	2226
 Airtel Money Tanzania and Dar Teknohama Business	11333
-Airtel Money Uganda	7591,2308
+Airtel Money Uganda	7591,2308,3378
 Airtel Money Zambia	7387
 Airtel Money and Safaricom M-Pesa	6409
 Airtel Money and T-Kash	4801
@@ -1225,7 +1225,7 @@ MoniePoint	2610
 MonieWorld	11119
 Moniebook	4725,3276
 Moniebook and Orda	4725,1040
-Moniepoint	608,103,311,417,151,633,20,4,63,516,795,106,237,486,104,75,96,247,152,76,172,102,216,53,22,104,659,940,163,58,239,11,62,106,620,618,407,129,129,147,8,119,221,294,2,318
+Moniepoint	608,103,311,417,151,633,20,4,63,516,795,106,237,486,104,75,96,247,152,76,172,102,216,53,22,104,659,940,163,58,239,11,62,106,620,618,407,129,129,147,8,119,221,294,2,318,2137
 Moniepoint Digital Payments Equity Investment Swedfund	2243
 Moniepoint GB	11119
 Moniepoint Ganiu Oloruntade	2310
@@ -1656,7 +1656,7 @@ Monter Capital	12376
 Montero	10726
 Montesanti	3791
 Montesanti S	3791
-Montesquieu	8993
+Montesquieu	8993,4274
 Montesquiou	11133,9
 Montgomery	5349
 Month	236,2476,966,390,449,136,1020,998,1206,2993,525,462,114,37,220,5,34,89,38,1,15,30,60,60,417,54,6
@@ -1828,6 +1828,7 @@ NIR By Kruah Thompson MONROVIA	10127
 NOC Monitoring	12253
 NRIS Monthly CRVS	13005
 NSIA BANQUE ORABANK UBA MOOV MONEY	11588
+NSSF and Airtel Money Renew Partnership	13277
 Naom Monari	11348
 Nation. J'espère Monsieur le Président	2695
 National Cyber Security Awareness Month Roundtable	6936,3448

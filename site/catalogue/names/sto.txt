@@ -127,6 +127,7 @@ Forbidden Stories	4127
 Fuel Backup Storage On-site	9446
 Fuel Storage Facilities	12979
 Fuel Storage Tank	12253
+Funding Setback Did Not Stop	13254
 GB Storage	9475
 GROWTH Opening Debt Stock	13053
 Gas Hydro Pumped Storage Imports	11953
@@ -452,7 +453,7 @@ Stork and Aochamus	12325
 Stork and Deen	12325
 Stork and Deen-Swarray	12325
 Storm	12977
-Story	6972,809,1,97,416,369,279,502,589,231,1045,924
+Story	6972,809,1,97,416,369,279,502,589,231,1045,924,1033
 Story Meet the Team Our Work Programs	12493
 Story of Hope and Heritage	12005
 Story of Transformation	5245

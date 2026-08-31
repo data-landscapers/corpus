@@ -3,7 +3,7 @@ Aayushya Ranjan MTN South Sudan	2716
 Abbreviation Full Wording CCS Collective Sudan	6947
 Africa. The South Sudan	4069
 AfricaAlertsSouth SudanMore	2313
-Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536
+Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763
 Afrique du Sud BVG Bureau du Vérificateur Général	6959
 Afrique du Sud Pilier	8525
 Afrique du Sud. Alors	10611
@@ -110,6 +110,7 @@ Finance South Sudan No Insurance Regulatory	6938
 First Sudanese-Arab Smart Transport Forum	8133
 Ghana and Sudan	8111
 Ghana and Sudan Regions	8111,1788,689
+Ghazal State and South Sudan	13276
 Government of South Sudan	122,139,198,2257,867,1,4165,1390
 Government of South Sudan Ministry of Interior	4257
 Government of South Sudan and China Eximbank	261
@@ -144,8 +145,10 @@ Lesotho and South Sudan	714
 Life Counts Sudden	12151
 Liquid Telecom South Sudan	5014
 MTN Digital Infrastructure’s South Sudan	4069
-MTN South Sudan	1470,1246,726,801,232,539,85,2912,704,38,1904
+MTN South Sudan	1470,1246,726,801,232,539,85,2912,704,38,1904,2619
+MTN South Sudan CEO	13276
 MTN South Sudan CEO Monzer A	2302
+MTN South Sudan Launches Aweil ICT	13276
 MTN South Sudan Pioneers	2302
 MTN South Sudan and MTN Ghana	10793
 MTN Sudan	1887,1561,7345
@@ -221,7 +224,7 @@ Somalia State of Palestine Sudan Syrian Arab	10764
 Somalia and South Sudan	1216,5712,5369
 Soudan du Sud	1680,1688,2873,372,3108,37,1068,1279
 South Suda	11900
-South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378
+South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14
 South Sudan Air Traffic Management System	261
 South Sudan Announces	3728
 South Sudan Author	3212
@@ -305,6 +308,7 @@ South Sudan's Electronic Money Regulation	6776
 South Sudan's GDP	7749
 South Sudan's Government	3583,1
 South Sudan's Human Development Index	3583
+South Sudan's ICT and Postal Services Minister	13262
 South Sudan's Minister of ICT and Postal Services	6046
 South Sudan's Minister of Information	9770
 South Sudan's NCA	4654
@@ -337,6 +341,7 @@ South Sudan. Recent	4097
 South Sudan. South Sudan	4257,4882
 South Sudan. Tanzanians and Egyptians	7507
 South Sudan. The Bank of South Sudan	6259
+South Sudan. The ICT Hub	13276
 South Sudan. The South Sudan	4069
 South Sudan. The United States	3583
 South Sudan. Through the EFSD	5099
@@ -401,7 +406,7 @@ Suda Pass	11066
 SudaChad Telecom	5033
 SudaPass	4807,58,5326,391
 Sudamérica. Guinea Ecuatorial	3179
-Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668
+Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106
 Sudan Airways	9490
 Sudan Cash Working Group	6947
 Sudan Companion	779
@@ -445,6 +450,7 @@ Sudan and Zimbabwe	9082
 Sudan's Battle for Connection By Kassem Mnejja	1887
 Sudan's Blue Nile State	7809
 Sudan's DFS	5118
+Sudan's Digital Transformation and Communications Minister	13262
 Sudan's General Administration for Procurement	10008
 Sudan's Minister of State for Finance	10008
 Sudan's National Payment Switch	9451

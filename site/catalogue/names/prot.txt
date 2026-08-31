@@ -291,7 +291,7 @@ Conselho de Administração da Agência de Protecção de Dados	430,322,3395
 Consumer Affairs Committee CHAPTER VI11 PROTECTION	11179
 Consumer Education and Protection	958
 Consumer Protection	940,60,243,3998,435,1264,6,602,137,4275,34,220,151,24,58,85,227,222
-Consumer Protection Act	940,985,3940,1021,295,2062,1070,337,1560,731
+Consumer Protection Act	940,985,3940,1021,295,2062,1070,337,1560,731,329
 Consumer Protection Act Chapter	1925
 Consumer Protection Act Regulations	5865
 Consumer Protection Annual Report	11138
@@ -907,6 +907,7 @@ GUIDELINES DATA PROTECTION ACT	2816
 Gama. The Data Protection Act	6820
 Gateway Protocol BMS Building Management System	13185
 Gender and Child Protection Branch	12626
+Gender and Social Protection	13254
 General Data Protection Regulation	842,234,1763,119,1087,706,615,121,900,549,145,885,80,390,311,29,1988,55,29,306,1,1,506,15,555
 General Data Protection Regulation Acts	1243
 General Data Protection Regulation English	9067
@@ -1028,6 +1029,7 @@ International Monetary Fund IP Internet Protocol	12663
 Internet Protection Society	9082
 Internet Protocol	573,163,26,21,178,30,45,159,1581,385,342,2886,233,49,67,140,68,64,1597,2114,253
 Internet Protocol Detail Record	4274,899
+Internet Protocol Multimedia Subsystem-based	13266
 Internet Protocol Version	4849,261,482,1418
 Internet Protocol WIPO World Intellectual Property	12973
 Internet Protocol. ICT Infrastructure	34
@@ -1668,7 +1670,7 @@ Protection of Personal Data and Access	1906
 Protection of Personal Data and Privacy	9969,2450
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Protection of Personal Information	396,1721,2466,3439,1106,2088,1016
-Protection of Personal Information Act	396,576,37,596,335,784,94,833,311,671,900,273,318,263,84,41,120,95,65,40,75,148,223,3,224,251,266,108,7,780,211,106,9,534,174,18,123,249,2,110,44,693,6,13,46,10,14,629,78,60,1,7,178
+Protection of Personal Information Act	396,576,37,596,335,784,94,833,311,671,900,273,318,263,84,41,120,95,65,40,75,148,223,3,224,251,266,108,7,780,211,106,9,534,174,18,123,249,2,110,44,693,6,13,46,10,14,629,78,60,1,7,178,1038
 Protection of Personal Information Act PSC Public	11198
 Protection of Personal Information Act QRS Query	11250
 Protection of Personal Information Act Villegas-Ch	9128
@@ -1786,7 +1788,7 @@ Prototyping Facilities and Soft Skills Development	12376
 Protracted	12227
 Protracted Refugee Crisis	12227
 Protus	7155
-Protéger	142,856,2269,599,1957,2094,938,36,1655,32,456
+Protéger	142,856,2269,599,1957,2094,938,36,1655,32,456,2230
 Protéines Lipides Glucides Fibres Ensemble	737
 Protótipo	12021
 Public Data Protection Law	4575,354

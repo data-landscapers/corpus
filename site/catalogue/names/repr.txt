@@ -84,6 +84,7 @@ Deputados. Representantes	8760
 Deputy Representative	9766
 Deputy Resident Representative	8343,3430
 Deputy Resident Representative Nana Chinbuah	8343
+Deputy Resident Representative for UNDP Malawi	13280
 Details of Appointed Partnership Representative	11276
 Development Team Presentation of Results Representatives	236
 Difusão Tiragem Formato Digital Reprodução	4044,7377
@@ -274,7 +275,7 @@ Representation of Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Representation of Women Rights	10759,78,1315,188
 Representational State Transfer	12419
 Representations	4049,198,55,594,5817
-Representative	1638,2811,491,307,2074,469,511,2475,353,52,220,264,186,9,395,105,264,105,159,275,22
+Representative	1638,2811,491,307,2074,469,511,2475,353,52,220,264,186,9,395,105,264,105,159,275,22,68
 Representative Authorities Proclamation	12890
 Representative Bodies	3861,2971
 Representative Body	6832
@@ -439,7 +440,7 @@ UMOA Representative	6938
 UN Resident Representative	13080
 UN Secretary-General’s Special Representative and Head	10409
 UN Special Representative	10776
-UNDP Deputy Resident Representative	8531,4549
+UNDP Deputy Resident Representative	8531,4549,200
 UNDP Deputy Resident Representative Nessie Golakai-Gould	12997
 UNDP Eswatini Resident Representative	1953
 UNDP Malawi Deputy Resident Representative	3820

@@ -9,7 +9,7 @@ Different Scenarios Gasoline Price	1828
 F. Reform Scenarios	10997
 GARDE DES SCEAUX RELATIF	8236
 GENERATION SCENARIOS AND OPTIONS	11366
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684
 Grand Sceau de Sa Majesté Mohammed VI	17,291,427
 Grand Sceau de Sa Majesté Mohammed VTI	308
 Growth Scenarios	5245
@@ -41,7 +41,7 @@ SCENGAriRd IO	11572
 SECTION A International Scene Economic Survey	2775
 SOCIAL SCENE Chapter	2775
 Sceau	1214
-Sceaux	9726,279,2517
+Sceaux	9726,279,2517,742
 Scellé	10875
 Scenario	2913,7916,1404,890
 Scenario Analysis of Africa's AI Trajectory	2957

@@ -460,7 +460,7 @@ Le Secrétaire Exécutif	9164
 Le Secrétaire Général	7470
 Le Secrétaire Général Adjoint du Ministère	9668
 Le Secrétaire Général du Gouvernement	9287,1618,692
-Le Secrétariat	7658,1092,1726,426
+Le Secrétariat	7658,1092,1726,426,2380
 Le Secrétariat Exécutif	10876
 Le Secrétariat Général du Gouvernement	3121
 Legal and Board Secretariat	11134
@@ -613,6 +613,7 @@ Permanent Secretary for Innovation	6707
 Permanent Secretary for Youth	9792
 Permanent Secretary of Local Government	12338
 Permanent Secretary of Local Organize	12413
+Permanent Secretary of Political and Economic Affairs Office	13281
 Permanent Secretary's Office	1778
 Permanent Secretary-CRIAR	1778
 Permanent Secretary. Guidelines	34
@@ -952,7 +953,7 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86,82,109,1,16,227,6,11,5,91,47,5,27,16,31,62,92
 Secretary Administration	12433
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Secretary Clinton	11154

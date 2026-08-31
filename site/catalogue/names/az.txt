@@ -92,7 +92,7 @@ Azur Partners	1232
 Azura	11469
 Azura Power West Africa Ltd	11469
 Azura Power West Africa Ltd. Infrastructure	11469
-Azure	411,627,805,681,1,630,1104,431,471,39,282,147,164,174,265,200,39,196,399,142,263,77,3648,35,126,420,145,24,1239
+Azure	411,627,805,681,1,630,1104,431,471,39,282,147,164,174,265,200,39,196,399,142,263,77,3648,35,126,420,145,24,1239,87
 Azure AI Language Service	11231
 Azure Databricks	6232
 Azure East Africa and West Africa	6266
@@ -171,7 +171,7 @@ Microsoft Azure MMM Private Cloud	11231
 Microsoft Azure South Africa	2523,1,1980
 Microsoft Azure Stack	1843
 Microsoft Azure Stacks	1843
-Microsoft Azure and Google Cloud	6471,595,3439,630
+Microsoft Azure and Google Cloud	6471,595,3439,630,2137
 Microsoft Azure and Oracle	12362
 Microsoft Azure. Enables	2621
 Microsoft Windows Azure Storage	9123

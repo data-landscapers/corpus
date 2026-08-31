@@ -592,7 +592,7 @@ Brasil. Em	8760
 Brasil. JurídicoAI. Disponível	2816
 Brasil. Trata-se	8179
 Brasilia	10764,80,719,1532
-Brass	2277,33,1068,3637
+Brass	2277,33,1068,3637,6258
 Brassage	747
 Brastorne	4931
 Brastorne Enterprises	4931
@@ -780,7 +780,7 @@ Brenda Maniraguha	6358
 Brenda Maniraguha Project Manager	5064
 Brendan Pearce	12432,252
 Brenden Kuerbis and Milton MuellerGeneral Across	6562
-Brennan	1248
+Brennan	1248,12019
 Brennan Michael Young	3598
 Brent	7655,3063,416,2,1987
 Brent Eiseb	13108
@@ -839,7 +839,7 @@ Bribe	10034
 Bribery	5533,5443,898,7,1,104,241,119
 Bribes	5533,6453
 Brice Allowanou	3687
-Brice Clotaire Oligui Nguema	2336,789,173,827,980,138,886,673,233,86,1031,289
+Brice Clotaire Oligui Nguema	2336,789,173,827,980,138,886,673,233,86,1031,289,4841
 Brice Clotaire Oligui Nguema. Dans	4138
 Brice GOTOA	2325,1569,850,499,1327
 Brice Gangoué	5103
@@ -856,7 +856,7 @@ Briclinks Africa Plc Chief Executive Officer	11764
 Brics	3318,5574,754
 Bride	10814
 Bride and Groom Expo	12108
-Bridge	958,1030,783,146,72,567,570,402,97,888,3604,2118,54,367,296,560
+Bridge	958,1030,783,146,72,567,570,402,97,888,3604,2118,54,367,296,560,769
 Bridge Academies	10290
 Bridge Bank	5324,5020
 Bridge Builders Circle	6808
@@ -1048,7 +1048,7 @@ Brites	7578
 Brithol	9399
 Brithol Michcoma	9399
 Brithol Michcoma International	9399,591
-British	34,719,285,609,449,2532,624,10,425,246,24,32,242,1480,338,534,424,392,1034,31,25,51,149,104,326,12,43,125,171,672,770,128
+British	34,719,285,609,449,2532,624,10,425,246,24,32,242,1480,338,534,424,392,1034,31,25,51,149,104,326,12,43,125,171,672,770,128,219
 British Ambassador Mark Bryson-Richardson	4628
 British American Tobacco Kenya Generation	12256
 British Army	11783
@@ -1063,14 +1063,14 @@ British Council	9579,1460
 British Council Building Private Bag	12214
 British Crown	5957
 British Empire	5252
-British High Commission	3895,231,1101,2934,1197,499,683,409,281,69
+British High Commission	3895,231,1101,2934,1197,499,683,409,281,69,1960
 British High Commission Nairobi	899
 British High Commission's Wilfred Oluoch	12104
 British High Commission. Stephen Isaboke	10540
 British High Commissioner	3895,1214,7620,127
 British High Commissioner Chesney	6576
 British High Commission’s Foreign	4126
-British International Investment	45,2,1,194,93,118,155,1,2,73,27,104,1,1,1,1,231,365,1,1,1,567,154,1,1,96,48,25,841,66,5234,1052,1,106,1,191,1,1372,125,10,696
+British International Investment	45,2,1,194,93,118,155,1,2,73,27,104,1,1,1,1,231,365,1,1,1,567,154,1,1,96,48,25,841,66,5234,1052,1,106,1,191,1,1372,125,10,696,1250
 British International Investment Backs Africa50	9503
 British International Investment Chief Executive Officer	9503
 British International Investment Plc	1135
@@ -1235,6 +1235,7 @@ Broadcasting Authority of Zimbabwe	958
 Broadcasting Authority of Zimbabwe BDA	958
 Broadcasting Authority of Zimbabwe.72	6951
 Broadcasting Baseline Survey	6946
+Broadcasting Complaints Commission	13267
 Broadcasting Digital Migration	1610,200,1089,8331
 Broadcasting Disputes and Resolution Panel	5168
 Broadcasting Economic Indicators	12395
@@ -2452,7 +2453,7 @@ Project BRIDGE Investment Tour	9047
 Project BRIDGE Provide	5903
 Project BRIDGE SPV	5903,3080,503
 Project BRIDGE SPV. Private Sector	5903
-Project Bridge	2359,512,1581,73,1279,1046
+Project Bridge	2359,512,1581,73,1279,1046,6431
 Project Brief Description Links	3604
 Project E&S Brief	6539
 Project Implementation Unit of Project BRIDGE	5903
@@ -2711,6 +2712,8 @@ Tercera Brigada Jefe Inspector	4209
 Terms of Reference and Project Brief Annexure	11240
 Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Thailand Yes National Broadband Policy	11529
+Thomas Brennan	13267
+Thomas Brennan The Competition Commission	13267
 Through the Brand Namibia	12982
 Through the Brussels Effect	4751
 Thuchira Bridge	13122

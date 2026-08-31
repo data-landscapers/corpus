@@ -2,6 +2,7 @@ A- GPU and AI	7548
 ACCRA. GPCI A696	11
 ACCRA. GPCL	587
 AI. Service-Wise GPT	2347
+Access GPU	13272
 Accra P.O Box GP	3386
 African-researcher GPU	4425
 B300 GPUs	5122
@@ -134,6 +135,7 @@ GPU-as-a-Service	1429,4803
 GPU-backed	11310
 GPU-centric	11502
 GPU-dense	3554
+GPU-first	13272
 GPU-heavy	3554
 GPU-intensive AI	6735
 GPU-optimised	3859

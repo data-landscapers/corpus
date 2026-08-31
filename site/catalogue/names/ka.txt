@@ -715,7 +715,7 @@ Iraq Jamaica Kazakhstan	13042
 Ireland Israel Kazakhstan Lithuania Malta Mexico	10764
 Irene Kabura	10462
 Irungu Kang'ata	5110
-Isaac K. Kassouwi	965,725,679,5,9,12,11,29,75,63,191,18,450,12,18,115,596,159,50,22,11,185,526,80,428,120,337,312,1231,303,501,1219,443,191,84,51,221,37,1242,11,295
+Isaac K. Kassouwi	965,725,679,5,9,12,11,29,75,63,191,18,450,12,18,115,596,159,50,22,11,185,526,80,428,120,337,312,1231,303,501,1219,443,191,84,51,221,37,1242,11,295,1242
 Isaac K. Kassouwi Adapted	4875,919,828,5641
 Isaac K. Kassouwi Date	2369,5,858,12,133,596,209,218,475
 Isaac K. Kassouwi Edité	5766,1331
@@ -1009,13 +1009,14 @@ Kadotien Soro	9028
 Kadri	9560
 Kadri Kaska	10764
 Kadu Designer	11435
-Kaduna	2355,1936,1222,361,2333,3140,532,119,6,34,12,3
+Kaduna	2355,1936,1222,361,2333,3140,532,119,6,34,12,3,1208
 Kaduna DisCo	12062
 Kaduna State	670,1685,8485,1164,34
 Kaduna State Bill	670
 Kaduna State Governor	2355
 Kaduna State Public Procurement Authority	11867
 Kaduna Unveils Software	2355
+Kaduna and Abuja	13261
 Kaduna and Kano	12004
 Kaduna and Sokoto	7895
 Kadzamira	13209
@@ -1417,6 +1418,8 @@ Kano Governor Abba Yusuf	9876
 Kano N2	8207
 Kano State	9576,1553,750,172
 Kano State Command Lagos State Command	8471
+Kano State Polytechnic	13261
+Kano State Polytechnic. Pledge	13261
 Kano and Kaduna	1681,9061
 Kano and Lagos	11954
 Kanombe	718
@@ -1702,7 +1705,7 @@ Kashifu	10681
 Kashifu Abdullahi	4621,5952
 Kashifu Abudullahi	10681
 Kashifu Inuwa	3133,4615,676,693,456,2,1,95,1281,89,565,145,1125
-Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178,528
+Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178,528,1449
 Kashifu Inuwa Abdullahi CCIE Director-General	5665
 Kashifu Inuwa By Justice Okamgba Kindly	9753
 Kashifu Inuwa CCIE	4725
@@ -2378,6 +2381,7 @@ OKAKARARA KATIMA MULILO URBAN Total Eligible	13025
 OPEYEMI KAREEM	11169,614
 Octivius Kahiya	5315
 Officer Mawano Kambeu	6187
+Ohad Kadan	13258
 Ohangwena Region and Karasburg Sub-regional Office	12984
 Ol Kalou	2668,74,1016,2434,124,311,160,213,869,1676,1541
 Ol Kalou Comprehensive School	9545
@@ -2514,6 +2518,7 @@ RAPPORTERINGSVERPLIGTINGE EN KAPASITEITSBOU	11190
 REMERA-KIBAYA VIA KANOMBE	718
 RESULTS Karakteristike	10780
 RUBAVU NYABIHU GAKENKE RUTSIRO KARONGI RULINDO	12413
+Rafael Arcanjo Kapose	13275
 Ramazani and Katembo	9408
 Ramloll Driver Kavish Soorjee Driver Getachew	11332
 Raxio Kampala	11310

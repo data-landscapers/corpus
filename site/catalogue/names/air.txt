@@ -221,7 +221,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629,1109,10,34,80,1203
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -239,7 +239,7 @@ Airtel Money School Pay	10664
 Airtel Money School Pay Expands Digital	10664
 Airtel Money Tanzania	2226
 Airtel Money Tanzania and Dar Teknohama Business	11333
-Airtel Money Uganda	7591,2308
+Airtel Money Uganda	7591,2308,3378
 Airtel Money Zambia	7387
 Airtel Money and Safaricom M-Pesa	6409
 Airtel Money and T-Kash	4801
@@ -516,6 +516,7 @@ Moshoeshoe I International Airport	12710,32
 My Airtel	4657
 Mzuzu Airport	13060,62
 NAF Airstrikes Cripple Terrorist Camp	4738
+NSSF and Airtel Money Renew Partnership	13277
 Namibia Airports Company	6765,976
 Nation Wide Remote Sensing Airborne Geophysical	191
 National Identity Cards. Despite Airtel Malawi	12978

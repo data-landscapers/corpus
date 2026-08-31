@@ -50,7 +50,7 @@ Africa Ethiopia International Telecommunication Union	10764
 Africa Telecommunications Union	961
 African Advanced Level Telecommunications Institute	7167
 African Telcos	4993
-African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302
+African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302,1460
 African Telecommunications Union Secretariat	7562
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
@@ -163,7 +163,7 @@ Body Telecom Namibia and CRAN Formally Sign	13150
 Bosnia and Herzegovina Yes The Telecommunication	11529
 Botswana Telecommuni	12325
 Botswana Telecommunications	6834
-Botswana Telecommunications Corporation	2999,1269,8284,73
+Botswana Telecommunications Corporation	2999,1269,8284,73,641
 Botswana Telecommunications Corporation Limited	3174,9427
 Botswana Telecommunications Corporations Limited	2576
 Botswana Telecoms Corporation	4106
@@ -713,6 +713,7 @@ International Telecommunications Union Landing Rights	10407
 International Telecommunications Union Treaties	11
 International Telephone	3862
 Internet AFRIX TELECOM NIGER Internet COMSATE	998
+Internet Packet Telephony	13266
 Internet& Telecom	5281
 Internetsional Ltd and Odua Telecoms Ltd	3862
 Inwi and Maroc Telecom	2673

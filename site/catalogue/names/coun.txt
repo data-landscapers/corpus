@@ -443,7 +443,7 @@ Cost Sources Technologies Council	7548
 Coun-	8301
 Coun0	11572
 CounCil of Ministers	11517
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40,102,51,48,62,37,147,50,26,111,18,156,14,1,4,112,18,13,1,26,5,20,60,107,1,11,1,10,3,51,1,99,8,179
 Council Act OAG Office	6432
 Council Advisory Committee	3583
 Council Board	1154
@@ -850,7 +850,7 @@ Country’s Name	11129
 Country’s’ Project Performance and Similar Context	11863
 Counts	1232,1026,1604,1374,7131,46
 Counts Percentages Same	12413
-County	2775,2359,1298,1116,442,1949,374,1836,2
+County	2775,2359,1298,1116,442,1949,374,1836,2,1103
 County AI	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -863,6 +863,7 @@ County Assembly of Nyeri Data Processor INST-910552DD5F2	7167
 County B- Government AI	7548
 County C- Portfolio	7548
 County CRMS Committee	9939
+County Chief Officer for Education	13254
 County Civil Registration Coordinator SCRO	12138
 County Contribution	2775
 County County	4153,3395,4603
@@ -925,6 +926,7 @@ County Investment Plans	10346
 County K	1219
 County Kenya	7548,4603
 County Licensing Uniform Procedures Act	9852
+County Officials Thank KICTANet Partners Mr	13254
 County Physical MICDE	7548
 County Public Service Board	7167
 County Registrar	12151
@@ -1416,6 +1418,7 @@ Jackson County Library Services	8022
 January. Counsel	11813
 Jessica Charles Wade FY25-29 COUNTRY PARTNERSHIP	12968
 Jobberman's Country Head of Programmes	9115
+John Muiru County Executive Committee Member	13254
 Joint Country Representation	12968
 Juba City Council	3046,1051
 Juba County Court	3046
@@ -1930,7 +1933,7 @@ Number of Council	7548
 Nurses and Midwives Council of Malawi	12240,918
 Nurses and Midwives Council of Malawi. MaHIS Malawi	12240
 Nyamira County	8383,3768
-Nyandarua County	6627,4459
+Nyandarua County	6627,4459,2168
 Nyandarua County Assistant Director for Gender	11086
 Nyandarua County Assistant Director for Gender Immaculate	11086
 Nyeri County	6946,3367
@@ -2025,9 +2028,10 @@ Presidential Foreign Intervention Promotion Council	8632
 Presidential Foreign Investment Promotion Council	9400
 Presidential Strategic Oversight Council	3424
 President’s Youth Advisory Council	8195
-Press Council	8917,1818,2132,1,1
+Press Council	8917,1818,2132,1,1,398
 Press Council Chairperson Phathiswa Magopeni	10729
 Press Council of South Africa	8917,1818,2132,1,1
+Press Council. Digital	13267
 Primary Storage Locations Storage ID Country	6432
 Principal Council Member	7522,1
 Principal Crown Counsel	11131,3
@@ -2215,6 +2219,7 @@ Signed Council of Europe Additional Protocol	10908
 Sinazongwe Town Council Goes Digital	11171
 Single Window Countries	13042
 Sioma Town Council	2386
+Six African Countries	13278
 Six Arab Countries The NTRA	11642
 Six Asian and African Countries	226
 Six Countries	10964

@@ -1815,8 +1815,9 @@ Shayo	8888
 Shcherbovich	2117
 She'll	11653
 SheCodes	13080
-SheConnects	9072
-SheConnects Digital Accelerator	9547
+SheConnects	9072,4182
+SheConnects Digital Accelerator	9547,3707
+SheConnects Digital Accelerator Trainer of Trainers	13254
 SheConnects EmpowerHer Digital Accelerator	11086
 SheConnects EmpowerHer Digital Accelerator. Trainers	11018
 SheKgalagari	12567
@@ -2028,7 +2029,7 @@ Ship House	7847
 Ship Station	6946
 Shipment	13037,148
 Shipment Receipt Date	12360
-Shipments	10489
+Shipments	10489,2774
 Shipping	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,93,84,1,11,1,135
 Ships	9068
 Shire River	12985,256

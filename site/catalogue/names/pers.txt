@@ -634,7 +634,7 @@ Persian and Pashto	7790
 Persistance	8891
 Persistem	11461
 Persistence	9855
-Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52
+Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52,975,179,106,311,71,52,107
 Persistent Benchmarks	6051
 Persistent Bottlenecks High	6051
 Persistent Challenges	13030,100
@@ -819,7 +819,7 @@ Personalized	2958,1470,100,4471,3513
 Personalizedadaptivelearninginhigher	8602
 Personalizedbywhom	8602
 Personalizedlearningsupportedby	8602
-Personally	8376,3714
+Personally	8376,3714,1189
 Personally Identifiable Information	34,4213,55,6411,8,1519
 Personas	163,3228,818
 Personas Físicas	4209
@@ -945,7 +945,7 @@ Protection of Personal Data and Access	1906
 Protection of Personal Data and Privacy	9969,2450
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Protection of Personal Information	396,1721,2466,3439,1106,2088,1016
-Protection of Personal Information Act	396,576,37,596,335,784,94,833,311,671,900,273,318,263,84,41,120,95,65,40,75,148,223,3,224,251,266,108,7,780,211,106,9,534,174,18,123,249,2,110,44,693,6,13,46,10,14,629,78,60,1,7,178
+Protection of Personal Information Act	396,576,37,596,335,784,94,833,311,671,900,273,318,263,84,41,120,95,65,40,75,148,223,3,224,251,266,108,7,780,211,106,9,534,174,18,123,249,2,110,44,693,6,13,46,10,14,629,78,60,1,7,178,1038
 Protection of Personal Information Act PSC Public	11198
 Protection of Personal Information Act QRS Query	11250
 Protection of Personal Information Act Villegas-Ch	9128
