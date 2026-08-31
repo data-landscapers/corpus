@@ -1,12 +1,12 @@
 ---
 title: South Sudan — progress report, August 2025 – August 2026
-compiled: 2026-08-27
-period: 2025-08-01 to 2026-08-27
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 place: SSD
 ledger_rows: 74
 not_held: 12
 indicators: 121
-record: 2fd688661a3c
+record: 688cb717656b
 ---
 
 # South Sudan: progress report, August 2025 – August 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-27.*
+*The period is 2025-08-01 to 2026-08-31.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -195,7 +195,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
 | US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments | The [e-Government contractor was sanctioned by the United States](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/) in May 2026, on a secondary-sourced account with no designation notice held. <details><summary>Full record</summary>The sanction is reported secondarily and no designation notice is held ([sanction](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/)).<br><br>The company sanctioned is the one holding the exclusive e-government concession through which the visa portal and the tax platform run, so a sanctions designation and the state's principal digital service channel are the same entity.</details> | Advanced |
-| China activities | Chinese MoUs, engagements and commitments | A [Chinese vendor re-engaged](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) after a rift dating from 2014. <details><summary>Full record</summary>The re-engagement was reported in February 2026, following stated interest in the country's digital future the previous September ([re-engagement](https://itweb.africa/article/huawei-reconnects-with-south-sudan/), [interest](https://itweb.africa/article/huawei-expresses-interest-in-south-sudans-digital-future/nWJadMbNYGgMbjO1)).<br><br>No contract, memorandum or workstream is named. The largest single commitment on this ledger is a Chinese loan for an air traffic management system, dated only to its year, so the relationship is substantial and almost entirely undocumented here.</details> | Advanced |
+| China activities | Chinese MoUs, engagements and commitments | A [Chinese vendor re-engaged](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) after a rift dating from 2014, and [exploratory talks were held in Hangzhou in August 2026](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3) with nothing contracted. <details><summary>Full record</summary>The re-engagement was reported in February 2026, following stated interest in the country's digital future the previous September ([re-engagement](https://itweb.africa/article/huawei-reconnects-with-south-sudan/), [interest](https://itweb.africa/article/huawei-expresses-interest-in-south-sudans-digital-future/nWJadMbNYGgMbjO1)).<br><br>No contract, memorandum or workstream is named. The largest single commitment on this ledger is a Chinese loan for an air traffic management system, dated only to its year, so the relationship is substantial and almost entirely undocumented here.<br><br>2026-08-31 — the ICT minister [held exploratory talks with a vendor vice-president in Hangzhou, on the sidelines of a China-Africa digital conference, and said the government is ready to seek the vendor's expertise in connecting public services](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). [Participation is sought in smart cities, energy solutions and a national data hub in Juba, and the 2014 rift followed government accusations of hacked official email and forged documents, through which the vendor stayed in the market](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Still no agreement, contract or figure.</details> | Advanced |
 | EU activities | EU MoUs, engagements and commitments |  | ***No evidence*** |
 | Gulf/UAE activities | Gulf MoUs, engagements and commitments |  | ***No evidence*** |
 | India activities | India MoUs, engagements and commitments |  | ***No evidence*** |

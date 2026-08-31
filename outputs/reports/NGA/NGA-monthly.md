@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 place: NGA
-ledger_rows: 172
+ledger_rows: 176
 not_held: 8
-record: 5da580a8ae21
+record: 34807fa91fe9
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -292,6 +292,13 @@ A state put a household survey at the centre of its budgeting. Katsina [launched
 
 <!-- narrative: geopolitics--geopol-usa -->
 The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+On 27 August Huawei [launched an agentic artificial-intelligence cloud in Nigeria at its own Lagos summit, running on local cloud infrastructure it offers with data residency, security, compliance and low-latency claims for finance, telecommunications, internet services, government and enterprises](https://techafricanews.com/2026/08/31/huawei-launches-agentic-ai-cloud-nigeria/). [The technology development agency's director-general used the platform to set out the National Sovereign Cloud Initiative as the route from consuming technology to leading African cloud and artificial-intelligence innovation, and the Lagos deputy governor said the state is building the digital foundations for artificial intelligence rather than waiting for it](https://techafricanews.com/2026/08/31/huawei-launches-agentic-ai-cloud-nigeria/).
+
+Sovereignty language attaching to a foreign vendor's platform is the pattern here rather than the exception: the same company's [Lagos innovation centre opened in May 2025 to a ministerial framing as a catalyst for the country's technology sovereignty](https://itweb.africa/article/huawei-nigeria-opens-innovation-centre-in-lagos/mYZRXM9g6gWvOgA8). No customer, contract, capacity or price is stated for the cloud launch, and the residency and compliance claims are the vendor's own.
 <!-- /narrative -->
 ### EU activities
 

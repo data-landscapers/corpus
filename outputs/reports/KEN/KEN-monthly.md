@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 place: KEN
 ledger_rows: 159
 not_held: 7
-record: 91c345350616
+record: e3f529191151
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -31,6 +31,8 @@ A revised Hustler Fund merchant tariff schedule takes effect on 7 August, delive
 Virtual-asset regulations were [gazetted on 22 July 2026 as Legal Notice 134](https://new.kenyalaw.org/akn/ke/act/ln/2026/134/eng@2026-07-22/source), setting paid-up capital by licence class from KES 300m for stablecoin issuance to nil for investment advisers, and a seizure and freezing framework; the draft's ownership cap did not survive into the gazetted text. Existing operators must license afresh by 4 November 2026 under the 2025 Act.
 
 On 28 July the Court of Appeal's narrowing of the Computer Misuse and Cybercrimes Act was [reported at a coalition close-out](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/): the false-publication sections and the power to shut down websites without judicial oversight were struck, and a conservatory order blocks a national internet shutdown pending full hearing.
+
+On 31 August the National Assembly was reported to have [asked the Supreme Court to restore sections 22 and 23, which punished the intentional publication of false, misleading or fictitious data presented as authentic and the knowing spread of false information liable to cause panic, chaos or violence or to damage a reputation, with fines of up to KES 5m and, for some offences, up to ten years' imprisonment](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne). [The Court of Appeal had held the wording too broad, catching users who share false content without knowing it is false along with journalists and people expressing opinions; Parliament's case is that the sections reach neither opinion, satire nor good-faith error, only knowing publication presented as authentic](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne). The narrowing is therefore contested rather than settled.
 
 Cyber cafés acquired licence conditions and then a clarification of them. The conditions came in [Gazette Notice 12180 of 7 August 2026, which sets licence conditions for two categories under a revised telecommunications market structure — Public Communications Access Centre and Communications Equipment Vendor — after public consultation, effective 30 days from the notice](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf); the same page carries [a second notice covering five further categories, among them Network Facilities Provider Tier 2 and Tier 3 and International Gateway Systems and Services](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf), so the market structure is being licensed category by category rather than in one instrument. The access-centre conditions require [customer name and identity number, terminal and session times to be captured and kept at least three years, taking effect on 7 September](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/), and the regulator [clarified on 13 August that operators need not track customers' browsing history](https://techcabal.com/2026/08/13/kenya-says-cyber-cafes-dont-have-to-track-browsing-history/). An earlier account of the same rules gave the effective date as 14 August; the gazette notice the regulator cites puts it four weeks later.
 

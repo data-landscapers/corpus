@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 place: SSD
-ledger_rows: 23
+ledger_rows: 24
 not_held: 12
-record: 0c876df50b77
+record: d2c568747d36
 ---
 
 # South Sudan: monthly update, July – August 2026
@@ -109,4 +109,14 @@ Prices completed their third rise of the year and the record still cannot say by
 
 <!-- narrative: data--data-statistics -->
 On 23 July the National Bureau of Statistics [published a demographic projection putting the population at about 16.36 million by end-2026 and 19.99 million by 2030, against 13.2 million in 2021](https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/), of which some 2.2 million is attributed to migration from the Sudan conflict.
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+On 31 August the ICT minister was reported to have [held exploratory talks with a Huawei vice-president in Hangzhou, on the sidelines of a China-Africa digital capacity building conference, saying the government is ready to seek the company's expertise in connecting public services](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Beyond e-governance, [participation is sought in building smart cities, providing energy solutions and setting up a national data hub in Juba](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3).
+
+This is a repair, not an opening. [Government officials accused the company in 2014 of hacking government emails and forging documents; it stayed in the market through the rift, connecting schoolchildren to the internet and refurbishing school laboratories, and the restoration is credited to two officials who took post in 2025, whose meeting in Juba in early 2026 covered the digital divide, the data hub and a smart capital](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Nothing has been agreed: no contract, memorandum, workstream or figure is on record, which is where this relationship stood in February and where it still stands.
 <!-- /narrative -->
