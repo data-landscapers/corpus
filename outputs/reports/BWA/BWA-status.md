@@ -4,7 +4,7 @@ compiled: 2026-08-31
 place: BWA
 ledger_rows: 182
 not_held: 7
-record: 1941fa58d19f
+record: fc08718545c6
 ---
 
 # Botswana: status report
@@ -474,13 +474,13 @@ No India-Botswana technology or digital cooperation is held. The most substantia
 
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
+| AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
 | National IPv6 transition plan | a regulator or ministry IPv6 transition plan with a target date, or a published IPv6 adoption percentage for Botswana | not yet probed |
 | Audited outturn for digital budget lines | the Auditor General's report on the accounts of the Government of Botswana for FY2024/25 or FY2025/26 | not yet probed |
 | National Cybersecurity Strategy | the strategy document itself, or a gazette notice or ministerial statement giving its date of adoption and version | not yet probed |
+| National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
 | National digital literacy measure | a dated statistics-office or regulator household ICT survey reporting a digital-literacy or digital-skills rate | not yet probed |
 | Official internet penetration figure | the regulator's annual report, or a statistics-office household ICT access survey | 2026-08-31 |
-| AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
-| National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
 
 <!-- narrative: gaps -->
 Eleven rows carry no reliable statement, and the pattern is that Botswana's instruments are named in speeches and absent from documents. Four are missing instruments: no cybersecurity strategy, named as the coming authority's implementing mandate; no AI policy or strategy at any date; no IPv6 transition plan; and no open-data portal or policy, the only open-data item in the base being a hackathon.

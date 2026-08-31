@@ -6,7 +6,7 @@ place: BWA
 ledger_rows: 195
 not_held: 7
 indicators: 121
-record: ecee3ae0fa56
+record: f11c317ab771
 ---
 
 # Botswana: progress report, August 2025 – August 2026
@@ -205,11 +205,11 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
+| AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
 | National IPv6 transition plan | a regulator or ministry IPv6 transition plan with a target date, or a published IPv6 adoption percentage for Botswana | not yet probed |
 | Audited outturn for digital budget lines | the Auditor General's report on the accounts of the Government of Botswana for FY2024/25 or FY2025/26 | not yet probed |
 | National Cybersecurity Strategy | the strategy document itself, or a gazette notice or ministerial statement giving its date of adoption and version | not yet probed |
+| National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
 | National digital literacy measure | a dated statistics-office or regulator household ICT survey reporting a digital-literacy or digital-skills rate | not yet probed |
 | Official internet penetration figure | the regulator's annual report, or a statistics-office household ICT access survey | 2026-08-31 |
-| AI legislation or regulations | an AI Act, or regulations made under an existing statute, with a gazette reference | 2026-08-31 |
-| National address register | a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned | 2026-08-31 |
 
