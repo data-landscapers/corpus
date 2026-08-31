@@ -1,12 +1,12 @@
 ---
 title: Nigeria — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-31
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 253
+sources_cited: 254
 sections_written: 37
 not_established: 0
 acquire_lines: 41
@@ -291,7 +291,7 @@ Formal research capacity is otherwise slight in what is established: [the Nation
 
 Surveys of Nigerian banks by the Association for the Blind in Nigeria and the Centre for Infrastructural and Technological Advancement for the Blind find [most mobile banking apps, USSD channels and ATMs unusable for blind and low-vision customers — screen-reader incompatibility, unlabelled buttons, timed USSD menus and facial-recognition steps — with some made to sign indemnity forms to obtain an ATM card](https://punchng.com/inside-nigerias-banking-system-where-the-blind-are-denied-inclusion/) (2026).
 
-The obligation is already on the books. The [Discrimination Against Persons with Disabilities (Prohibition) Act 2018 covers banks, and Central Bank ATM guidelines require at least 2% of machines to carry tactile graphic symbols within five years of release](https://www.ripplesnigeria.com/feature-marginalised-defrauded-how-nigerian-banks-shut-out-visually-impaired-customers-from-atms/), and accessibility is now [a testable requirement for citizen-facing government platforms](https://prnigeria.com/2026/07/30/nitda-launches-national/).
+The obligation is already on the books. The [Discrimination Against Persons with Disabilities (Prohibition) Act 2018 covers banks, and Central Bank ATM guidelines require at least 2% of machines to carry tactile graphic symbols within five years of release](https://www.ripplesnigeria.com/feature-marginalised-defrauded-how-nigerian-banks-shut-out-visually-impaired-customers-from-atms/), and accessibility is now [a testable requirement for citizen-facing government platforms](https://prnigeria.com/2026/07/30/nitda-launches-national/). The requirement is not reaching the platforms. [None of eight public websites audited in May 2026 — among them the admissions board, the identity commission, the revenue service and the disability commission itself — had implemented baseline accessibility features, an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the agency's website guidelines and 14 sites unusable for people with disabilities, and the Nigeria Web Design Standards meant to make the guidelines buildable have published no toolkit a year after promising one within eight to ten weeks](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/) (August 2026), against [an estimated 35 million Nigerians who are persons with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
 Where access widens, a condition comes with it. Every eligibility option in the Nigerian Communications Commission's June 2026 consultation on zero-rated access to educational platforms [requires users to register](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf). Identification is the other condition, now running through nearly everything: a working number is [required for healthcare, education, banking, employment, telecoms and welfare](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/), [registering a newborn requires a parent to hold one](https://www.nigeriacommunicationsweek.com.ng/npc-opens-nationwide-digital-birth-death-registration-platform/), and the [social register's own linkage to the identity system is unfinished](https://tribuneonlineng.com/77-million-nigerians-now-on-fgs-safety-net-register-nassco/), so qualifying for a service and being able to obtain it have come apart. Over the decade to 2023 the Ibrahim Index had Nigeria [21st of 54 African states on the equal distribution of access to public services, a score that rose 1.1 points](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf), while Nigerians rated the [difficulty of obtaining an identity document among the country's worst and most deteriorated measures in the same index](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ng.pdf).
 

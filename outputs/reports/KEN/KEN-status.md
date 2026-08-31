@@ -1,12 +1,12 @@
 ---
 title: Kenya — digital transformation and data governance status report
-compiled: 2026-08-28
+compiled: 2026-08-31
 place: KEN
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 14
-sources_cited: 239
+sources_cited: 240
 sections_written: 37
 not_established: 0
 acquire_lines: 63
@@ -57,7 +57,7 @@ Kenya's newest instrument would duplicate a standards regulator it already has: 
 ### Public debate and participation in policymaking
 <!-- gov.discourse -->
 
-The space for online speech in Kenya has been widened by litigation rather than by legislation. A challenge to the 2025 amendment of the Computer Misuse and Cybercrimes Act [struck out the coordination committee's power to shut websites without judicial oversight, along with a provision criminalising speech deemed to cause suicide](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/); [the Bloggers Association of Kenya's five-year Court of Appeal challenge struck down the same Act's false-publication sections](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/); and [a conservatory order blocks any national internet shutdown pending a full hearing](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/). Running the other way, [an Access to Information (Amendment) Bill would criminalise sharing classified information over personal WhatsApp or email](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338), and [disclosure of public records, one of Kenya's stronger measures continentally, has slipped over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ke.pdf).
+The space for online speech in Kenya has been widened by litigation rather than by legislation. A challenge to the 2025 amendment of the Computer Misuse and Cybercrimes Act [struck out the coordination committee's power to shut websites without judicial oversight, along with a provision criminalising speech deemed to cause suicide](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/); [the Bloggers Association of Kenya's five-year Court of Appeal challenge struck down the same Act's false-publication sections](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/); and [a conservatory order blocks any national internet shutdown pending a full hearing](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/). The widening is not final: [the National Assembly has asked the Supreme Court to restore sections 22 and 23, which carried fines of up to KSh 5m and up to ten years' imprisonment, arguing they reach neither opinion, satire nor good-faith error but only knowing publication presented as authentic](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne) (August 2026). Running the other way, [an Access to Information (Amendment) Bill would criminalise sharing classified information over personal WhatsApp or email](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338), and [disclosure of public records, one of Kenya's stronger measures continentally, has slipped over the decade to 2023](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ke.pdf).
 
 Reporting the argument is riskier than making it. [Media freedom is among Kenya's ten most deteriorated measures in the 2024 Ibrahim Index, down 16.8 points over 2014–2023 to 57.8 of 100 and 21st of 54 African states](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-ke.pdf), and [at the Ol Kalou by-election on 16 July 2026 masked men assaulted NTV, Nation and Star journalists and took their cameras while police stood by](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024).
 
