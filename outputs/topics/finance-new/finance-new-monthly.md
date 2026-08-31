@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 subject: finance.new
-places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 532163d55b5d
+places: AGO; BEN; BWA; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: a25492946bdf
 ---
 
 # New investments: monthly update, July 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The digital acceleration project acquired published targets for the first time. 
 ## Benin
 
 One commitment entered the window. During a ministerial visit of 4 to 6 August, Canada [announced CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html). The remaining six lines are outside the digital estate. What the digital line does not carry is an implementing partner, a start date or a duration, so there is nothing yet to follow from the announcement to a system.
+
+## Botswana
+
+The Arab Bank for Economic Development in Africa [signed a EUR110m mixed credit facility with the Botswana Development Corporation, and a EUR500,000 grant to the agriculture university, at its board meeting in Gaborone on 15 July](https://dailynews.gov.bw/news-detail/92265). The facility is to the development corporation rather than to a ministry, which places the lending at one remove from the budget the transformation plan is executed through.
 
 ## Burkina Faso
 

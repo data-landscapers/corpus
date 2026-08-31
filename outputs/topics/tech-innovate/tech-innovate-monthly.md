@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 subject: tech.innovate
-places: DZA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: e69a221112dd
+places: DZA; BWA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: ea61f0101f88
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -18,6 +18,10 @@ record: e69a221112dd
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
 
 The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
+
+## Botswana
+
+Two instruments for the innovation system arrived within three days of each other. The technology innovation agency of South Africa and the Botswana Digital and Innovation Hub [agreed a five-year joint programme and fund covering co-funding, commercialisation and cross-border work on 27 July](https://www.linkedin.com/posts/technology-innovation-agency_dsti-nsi-bdih-activity-7487557461781045248-NbOB). Two days later the communications minister [presented a Bill to create a national research and innovation council, reporting the national innovation system ranked 87th of 139 in the 2025 Global Innovation Index with research and development intensity below 0.5 per cent of output](https://dailynews.gov.bw/news-detail/92434). The diagnosis in the second is the case for the first.
 
 ## Burkina Faso
 

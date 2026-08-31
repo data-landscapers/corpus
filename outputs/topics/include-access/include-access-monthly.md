@@ -1,15 +1,15 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 subject: include.access
-places: DZA; AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 7c70e4990e31
+places: DZA; AGO; BWA; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4334de66d3dd
 ---
 
 # Access to services: monthly update, July 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -22,6 +22,10 @@ Consumer cloud storage prices were [raised for new subscribers from 27 July 2026
 Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
+
+## Botswana
+
+The Ministry of Youth and Gender Affairs [describes the Department of Gender Affairs as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs), the standing institution behind this subject. Nothing else in the inclusion ledger moved in this window; the gender-based violence programme and the one-stop centres both date from earlier in the year.
 
 ## Burkina Faso
 
