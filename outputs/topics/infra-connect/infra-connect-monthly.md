@@ -4,7 +4,7 @@ compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1b6168754173
+record: 75edb8555958
 ---
 
 # Connectivity: monthly update, July 2026
@@ -356,6 +356,8 @@ A government-owned shared 4G network for public institutions was launched at Ndo
 On 5 August the institute confirmed that connectivity gaps persist at Nakonde, Victoria Falls, Kazungula and Chirundu, and set a single national standard through the government network of tiered 10 to 100 Mbps bandwidth, dual links with automatic failover and enterprise-grade firewalls. A trade facilitation body has commissioned an audit of ICT infrastructure at five border posts; no budget, timetable or completion date is published, and the audit precedes the procurement rather than following it ([status update](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/)).
 
 The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
+
+A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
 
 ## Zimbabwe
 

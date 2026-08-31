@@ -3,13 +3,13 @@ title: China activities — monthly update, July 2026
 compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: geopol.china
-places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB; ZWE
-record: f4ac01162139
+places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; NGA; SEN; SSD; ZMB; ZWE
+record: 6968b77c619d
 ---
 
 # China activities: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -61,9 +61,21 @@ The President met a vendor's executives in Shenzhen on 7 July and urged the comp
 
 China's newly arrived ambassador [met the vendor's vice-president to discuss deepening cooperation](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4). The vendor has operated in Niger since 1998 and a [2014 export-credit loan of RMB 623.7m built a 2,275 km domestic fibre backbone completed in 2017](https://china.aiddata.org/projects/58683/); no Chinese financing or vendor contract after 2017 is on record.
 
+## Nigeria
+
+On 27 August Huawei [launched an agentic artificial-intelligence cloud in Nigeria at its own Lagos summit, running on local cloud infrastructure it offers with data residency, security, compliance and low-latency claims for finance, telecommunications, internet services, government and enterprises](https://techafricanews.com/2026/08/31/huawei-launches-agentic-ai-cloud-nigeria/). [The technology development agency's director-general used the platform to set out the National Sovereign Cloud Initiative as the route from consuming technology to leading African cloud and artificial-intelligence innovation, and the Lagos deputy governor said the state is building the digital foundations for artificial intelligence rather than waiting for it](https://techafricanews.com/2026/08/31/huawei-launches-agentic-ai-cloud-nigeria/).
+
+Sovereignty language attaching to a foreign vendor's platform is the pattern here rather than the exception: the same company's [Lagos innovation centre opened in May 2025 to a ministerial framing as a catalyst for the country's technology sovereignty](https://itweb.africa/article/huawei-nigeria-opens-innovation-centre-in-lagos/mYZRXM9g6gWvOgA8). No customer, contract, capacity or price is stated for the cloud launch, and the residency and compliance claims are the vendor's own.
+
 ## Senegal
 
 The sovereign cloud is [in testing, with data-centre infrastructure deployed and verified for redundancy and reliability to host sensitive national data on Senegalese territory](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/), accelerated ahead of an international sporting event. No contract, value, hosting term, exit arrangement or data-access terms are reported — a sovereignty claim resting on a vendor relationship whose terms are not held.
+
+## South Sudan
+
+On 31 August the ICT minister was reported to have [held exploratory talks with a Huawei vice-president in Hangzhou, on the sidelines of a China-Africa digital capacity building conference, saying the government is ready to seek the company's expertise in connecting public services](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Beyond e-governance, [participation is sought in building smart cities, providing energy solutions and setting up a national data hub in Juba](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3).
+
+This is a repair, not an opening. [Government officials accused the company in 2014 of hacking government emails and forging documents; it stayed in the market through the rift, connecting schoolchildren to the internet and refurbishing school laboratories, and the restoration is credited to two officials who took post in 2025, whose meeting in Juba in early 2026 covered the digital divide, the data hub and a smart capital](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Nothing has been agreed: no contract, memorandum, workstream or figure is on record, which is where this relationship stood in February and where it still stands.
 
 ## Zambia
 
