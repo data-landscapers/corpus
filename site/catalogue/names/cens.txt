@@ -1,4 +1,6 @@
 ANÁLISE DOS PRINCIPAIS RESULTADOS DO CENSO	10766
+Agricultural Census	12551
+Agriculture Census	12598
 Annual Education Census	12345
 Annual School Census	10359,1501,201,114
 Biometric Electoral Census Designed	11939
@@ -25,7 +27,8 @@ Censores de Cuentas	4209
 Censorship	6562
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94
+Census Act	12551
 Census EAs	11296
 Census Final	12383
 Census Shows By Stephen Kamanzi	7992
@@ -68,8 +71,10 @@ Freedom of Information and Censorship of Content	6949,2
 Freight CIP Census of Industrial Production CIPI	2775
 General Census	10765,10
 General Population and Housing Census	7702,4701
+HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
 Household Surveys and Censuses	11237
 Housing Census	10870,1281
+Housing and Population Census	12749
 I Censo Agropecuario V Censo de Población	10487
 I Censo General Agropecuario	8048,2439
 II Censo Agropecuario	4209
@@ -81,6 +86,8 @@ Kenya Population and Housing Census	7548,4603,80
 Kenya Population and Housing Census KVSR Kenya	12151
 Kenya Population and Housing Census Results	10822
 KwaZulu-Natal and Free State. Census	11192
+Lesotho Housing and Population Census	12719,30
+Lesotho Population and Housing Census	12749
 Malawi Census	262,11913
 Malawi Population and Housing Census. Main Report	12175
 Management of Population and Housing Censuses	4040,4,7377,25,131
@@ -106,7 +113,8 @@ P0301.4 Census	11192
 Population Census	10748,122,1037
 Population Census Preliminary Report	11905
 Population Census Team	12413
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55
+Population and Housing Census and National Energy Use	12551
 Population and Housing Census. About	9111
 Population and Housing Census. Population	12413
 Population and Housing Census. Thematic	12413

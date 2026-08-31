@@ -28,7 +28,7 @@ GET Handbook	1818
 GET Handbook Annex	1818
 GET Teams	10347
 GET-trust-fund	3431
-GET.transform	11936
+GET.transform	11936,744
 GET.transform Energy System Transformation	11936
 GET.transform Launches EU-funded Country Window	11936
 GETANGE	7167
@@ -77,7 +77,7 @@ Getachew Wassie	11315
 Getesa Money	6323
 Gets Harder	6947
 Gets Selected	6947
-Getting	961,2018,985,468,538,1104,873,113,384,345,391,547,130,41,213,537,324,21,82,598,285,59,118,1064,168,42
+Getting	961,2018,985,468,538,1104,873,113,384,345,391,547,130,41,213,537,324,21,82,598,285,59,118,1064,168,42,323,9
 Getting Credit	12376
 Getting Eswatini	5799
 Getting It Right	8088
@@ -119,6 +119,7 @@ Pretoria Close Menu Get	6898
 RELIABLY GET HOLD	10977
 Ramloll Driver Kavish Soorjee Driver Getachew	11332
 Raxio CIV1. Get	10956
+Residents Get	12745
 SEGESA and GETESA	6298
 Samsa Fundacja BBS Signly Ltd Getty	8530
 Scaling-up Impact and Getting Back	10964

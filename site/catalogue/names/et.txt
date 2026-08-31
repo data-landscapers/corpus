@@ -17,6 +17,7 @@ AI Ethics Board	1814,2714,3744,2993,1247
 AI Ethics Charter	2958,3475
 AI Ethics Committee	4528,7984
 AI Ethics Framework	4528,3955,4029
+AI Ethics Guidelines	12675
 AI Ethics and Governance	11135
 AI Ethics and Regulatory Sandbox Council	9030
 AI Governance and Data Ethics	7955
@@ -52,6 +53,7 @@ Addis Ababa Ethiopia Tel	8754,1962,1020
 Addis Ababa Ethiopia Union	10844
 Addis Ababa Inside Ethiopia	12298
 Addis Ababa. Ethiopian	5073
+Address Ethical and Privacy Concerns	12675
 Addressing and Mitigating AI Risks and Fostering the Ethical	1814
 Admired Ethiopian Brands Doing Good	8919
 AfCFTA Digital Trade Protocol. Ethiopia	4766
@@ -119,6 +121,7 @@ Bitcoin and Ethereum	10653
 Bn. Safaricom Telecommunications Ethiopia	6100
 Board Ethiopian Ships An Ethiopian	12226
 Brice Voltaire Etou Obami	6456,555
+Broadcom BCM5719 Ethernet	12681
 Budget ETAT	10847
 Budget Etat	10874
 Business Daily Africa. Capital Ethiopia	8671
@@ -528,6 +531,7 @@ ETSI Identity	10819
 ETSI TR	10819
 ETSI TS	1009
 ETSIP	12325
+ETSSP	12574
 ETTORS	4349
 EXECUTION ET SUIVI DES MARCHÉS	10876
 EXECUTION ET SUIVI DES MARCHÉS VI.1	10876
@@ -553,6 +557,7 @@ Empowering Ethiopians	8671,3574
 Energy Landscape Ethiopia	12233
 Enerweb ETRM	8018
 Engagement Human Capital Management Our Ethics	11131
+Ensuring Ethical Usage of AI	12675
 Entomologie Médicale Et Véterinaire	10919
 Environmental Ethics and Defensive Sovereignty	8629
 Era of Ethiopia’s Digital Sovereignty and Inclusive	8920
@@ -741,6 +746,7 @@ EthSwitch. Payment	12269
 EthSwitch. System	12269
 Ethan Perez	9592
 Ethan Wang and Liz Lee	10373
+Ethanol	12680
 Ethanol Ethanol	12233
 Ethekon	3758,8355
 Ethekon Edung-led	9645
@@ -752,12 +758,12 @@ Ether	2378,6212
 Ethereum	2826,1301,1865,4661,464,704
 Ethereum and Base	11117
 Ethereum and Solana	9367
-Ethernet	34,1813,4504,3091,1767,1036
+Ethernet	34,1813,4504,3091,1767,1036,524
 Ethernet and Fibre Channel	11209
 Ethi-	1204
 Ethica	3897
 Ethica's CloudAccess	3897
-Ethical	771,190,243,15,42,832,855,10,1168,306,96,320,685,18,67,423,401,504,2,330,270,211,207,55,1,108,171,75,84,193,215,260,1,726,333,947,21,91,739,4,100,120,21,15,9,180,77
+Ethical	771,190,243,15,42,832,855,10,1168,306,96,320,685,18,67,423,401,504,2,330,270,211,207,55,1,108,171,75,84,193,215,260,1,726,333,947,21,91,739,4,100,120,21,15,9,180,77,166
 Ethical AI	2958,1570,238,515,2267,3590,1072,146,156
 Ethical AI Framework and Implementation Ubuntu-Centred AI	4528,7984
 Ethical AI for Development	4528
@@ -777,8 +783,10 @@ Ethical Data Management. Accessed	5700
 Ethical Development and Implementation of AI. In India	11135
 Ethical Development and Implementation of Artiﬁcial Intel-	1204
 Ethical Framework	4528,7984
+Ethical Framework Ensure	12674
 Ethical Governance	2958
 Ethical Guidelines	11050
+Ethical Guidelines for Trustworthy AI	12675
 Ethical Hackers	6832
 Ethical Hacking	4610
 Ethical Impact Assessment	1814
@@ -787,9 +795,11 @@ Ethical Impact Assessments	4528,7984
 Ethical Insights	6538
 Ethical MINICT	1204
 Ethical Oversight	12356
+Ethical Oversight Committees	12675
 Ethical Principles	5676
 Ethical Principles Consumer	5676
 Ethical Safeguards	7548
+Ethical Studies	12675
 Ethical Use of Artificial Intelligence	2958
 Ethical Zimbabwe	12512
 Ethical and Developmental State	11230
@@ -800,7 +810,7 @@ Ethical and Responsible AI	12356
 Ethical and Responsible AI Adoption	12356
 Ethical and Scientific Committee for Research	7313
 Ethicaltensionswereespeciallyapparent	8602
-Ethics	766,5,190,251,7,1739,833,70,265,402,718,987,704,9,601,1,753,75,752,1060,596,97,59,110,84,1,21,422,7,418,207,21,15,9,164,93
+Ethics	766,5,190,251,7,1739,833,70,265,402,718,987,704,9,601,1,753,75,752,1060,596,97,59,110,84,1,21,422,7,418,207,21,15,9,164,93,163
 Ethics Ambassadors	11131,3
 Ethics Ambassadors Initiative The Bank	11134
 Ethics Ambassadors Programme	11134
@@ -809,7 +819,7 @@ Ethics Approach The CBE	11134
 Ethics Approval and Consent	11596
 Ethics Code	11131,3
 Ethics Code and Ethics Policies	11131,3
-Ethics Committee	7845,2939,1306
+Ethics Committee	7845,2939,1306,585,3
 Ethics Councils	11135
 Ethics Dare	4528,7984
 Ethics Directorate	12500
@@ -819,16 +829,20 @@ Ethics Integrity	11131
 Ethics Literacy	12512
 Ethics Office	11134
 Ethics Officer	11131,3
+Ethics Oversight	12675
 Ethics Recommendations	12356
 Ethics The Bank	11134
 Ethics Zimbabwean	12512
 Ethics and Anti- Total Corruption Commission	6946
 Ethics and Anti-Corruption Commission	2775,9338
 Ethics and Corruption	2775
+Ethics and Data Privacy	12675
 Ethics and Embed Ubuntu	12512
 Ethics and Governance of Arti-	8301
+Ethics and Human Rights Safeguards	12675
 Ethics and Inclusion	6508
 Ethics and Information Technology	10726
+Ethics and Integrity Directorate	12566
 Ethics and Operations	4528,7984
 Ethics and Protection	1243
 Ethics and Protection. United Nations Development Group	1243
@@ -840,8 +854,9 @@ Ethics and Responsible AI Mission Transform	4528
 Ethics and Security	6947
 Ethics and Sustainability	7211
 Ethics and Transparency	1814
+Ethics and Trust	12675
 Ethics for Artificial Intelligence	2958
-Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146
+Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146,194
 Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873
 Ethics of Autonomous and Intelligent Systems	11135
 Ethio	2272,1215,286,202,196,100,10,617,37,40,364,2570,62,675,273,609,4,1051,120,6,1491,2,31,3,13,23
@@ -1346,6 +1361,7 @@ EtriLabs	10887
 Ets Angue	10975
 Ets BECO	10975
 Ets Jubris	10975
+Etsha	12552
 Etther Party	3972
 Etude	613,672,649,76,332,1054,319,687,819,409,3776,831,728,10
 Etude Assistant N	10975
@@ -1446,7 +1462,7 @@ Ghana Ethiopia Men	11004
 Ghana and Ethiopia	8046,1410
 Gigabit Ethernet	34
 Gigabit and Ethernet	9475
-Global AI Ethics and Governance Observatory Country	11483
+Global AI Ethics and Governance Observatory Country	11483,1095
 Global Artificial Intelligence Alliance Ethiopia	7474
 Global Context of Artificial Intelligence Ethics	2958
 Global Innovation Index. Ethiopia	12205
@@ -1476,6 +1492,7 @@ Home Affairs ETA	7569
 Home Affairs’ ETA	9250,645
 Horn of Africa. Ethiopia	4555
 House of People's Representatives of Ethiopia	1971
+Human Sciences Research Council Research Ethics	12678
 Human-Centric and Ethical Ai Local First and Transparency	12512
 Humanities and Social Science Research Ethics Committee	8022
 I- CONTEXTE ET JUSTIFICATION	12
@@ -1511,6 +1528,7 @@ Impact First and Ethics	8629
 Implement Ubuntu-based AI Ethics Framework	4528
 Implement Ubuntu-based AI Ethics Pillar	12512
 Implementation of Electronic Travel ETA	11986
+Include Ethical and Legal Aspects	12675
 Inclusion Financière Banque des Etats	11944
 Inclusive and Ethical Artificial Intelligence	3366
 India and Ethiopia	11004,1242
@@ -1595,6 +1613,7 @@ Le Sort Nabou Léye Et Tarba	4960,62,2035
 Legal and Ethics Expert	4528,7984
 Les Etats	1968,1497,6906,337,1236
 Les Etats-Unis	3486
+Lesotho Research and Ethics Committee	12678
 Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503
 Livestock Information System. Ethiopia	1368
 Livestock Information Vision for Ethiopia	8183
@@ -1715,6 +1734,7 @@ National Election Board of Ethiopia	12288,19
 National Ethics Committee of Life Sciences and Health	10919
 National Health Ethics Committee	10188,1815
 National Health Research Ethics Sub-Committee	1261
+National Health Research and Ethics Committee of Lesotho	12678
 National ID Ethiopia	12202
 National ID Program of Ethiopia	12173
 Nationaux Etrangers	10875
@@ -1726,6 +1746,7 @@ Northern Ethiopia	12188
 Northern Ethiopia European Commission	1066
 Northwest Ethiopia	3791,8464
 Northwest Ethiopia. BMC Med Inform Decis	3791
+Northwest and Central Switzerland Ethics Committee	12678
 Nuscid Et Dicitatem Et	12151
 OBJECTIFS ET MÉTHODOLOGIE DE L’ENQUÊTE	737
 OBJECTIFS ET MÉTHODOLOGIE DE L’ENQUÊTE Cette	737
@@ -1803,6 +1824,7 @@ Press Code of Ethics and Conduct	8917
 Principal Investigators of PMA Ethiopia	1212
 Principles and Ethical Considerations	2958
 Principles of Artificial Intelligence Ethics	2958
+Prioritize Ethical AI Development Implement	12675
 Private Sector Practical Ethical Guidelines	1204
 Produits Retail. Et	4815
 Professional Etiquette	6946
@@ -1838,6 +1860,7 @@ Related Posts Ethiopia	9801
 Reporter Ethiopia	5248,970
 Republic of Ethiopia	12500
 Responsibility and Ethics CODATA ISC Committee	5246
+Responsible and Ethical	12674
 Results Report Ethiopia Digital ID for Inclusion	12228,39
 Revenue Target Ethio	3487
 Review of Ethiopia's Data Protection Act	1860
@@ -1919,6 +1942,7 @@ Somcable CEO Mohammed Ibrahim Ahmed and Ethio	4806
 Sommaire SIGLES ET ABREVIATIONS	12
 Sous-Direction des Etudes	10975
 South Africa Nigeria Kenya Ethiopia Tanzania	4525
+South Africa. Ethical	12678
 South Africa. Ethio	12272
 South Africa’s Linea Capital and Ethiopia’s Cooperative	7798
 South Ethiopia	12199,51
@@ -1929,6 +1953,7 @@ Southern Ethiopia	10322,559
 Southern Ethiopia Regional Government	12276
 Southern Ethiopia. PLoS ONE	3791
 Southwest of Ethiopia	3791
+Staff Code of Ethics	12598
 Statut Effectif Pourcentage Rural Etablissement	10875
 Statut Général des Etablissements	10975
 Statut Général des Etablissements Publics	10975,6
@@ -1989,6 +2014,9 @@ U.S. Government and Ethiopia	4349
 U.S. Government and Ethiopian Government	4349
 UAE's Etisalat	2673
 UNESCO Ethics Recommendation	1814
+UNESCO's Global AI Ethics and Governance Observatory	12578
+UNESCO’s AI Ethics Guidelines	12675
+UNESCO’s AI Ethics Recommendation and OECD AI	12675
 UNESCO’s Ethical Impact Assessment	1814,2312
 UNESCO’s Ethics of AI Recommendation	5618
 UNHCR and Ethiopia’s Refugees and Returnees Service	4842
@@ -2016,6 +2044,7 @@ Use ETSI TS	10721
 V- PRÉSENTATIONS SECTORIELLES ANNEXES ET FICHES	2342
 V- PRÉSENTATIONS SECTORIELLES ET FICHES ENTREPRISES	2342
 VC Fund Managers Ethiopia Y Combinator	4972
+VCL and ETL	12657
 VERSIONS ANNOTÉES ET COMMENTÉES DES LOIS	2342
 VI. CARACTERISTIQUES ET ETAT DES LOCAUX	10847
 VI.4 NATURE ET ETAT DES SALLES	10847

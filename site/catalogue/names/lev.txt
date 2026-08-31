@@ -1,9 +1,11 @@
 ABOUT THE ICT SURVEY Level of Data	582
 AC.KE Lower and Middle Level Institutions	6671
+AI. Leveraging AI	12675
 Abstraction Level Incompatibilities	12360
 Achieved Level	11131
 Achieving B-BBEE Level	7210
 Administration Levers	10997
+Africa Service Level	12622,121
 Africa. Valérie Levkov	1196
 African Advanced Level	6946
 African Advanced Level Telecommunications Institute	7167
@@ -61,7 +63,7 @@ Central Level	10964
 Civil Society Leveraging	899
 Claire Vo and Leveraging AI	11143
 Classification Definition Examples Residency Security Level	5244
-Community Level	958
+Community Level	958,11803
 Community Levy	6422,1030
 Community Levy Protocol	7452
 Compliance Level	6946
@@ -88,6 +90,7 @@ Digital Network AFRALTI African Advanced Level	6946
 Dikgomo KZN KwaZulu-Natal SLA Service Level	11197
 District Level Coordination Committee	12338
 Domain Level Incompatibilities	12360
+Duration and Level of Effort	12754
 E.g. Leverage	11004,960
 EDGE26 Level	11417
 EMPLOYMENT LEVELS FOR THE THREE SECTORS	11211,51
@@ -114,6 +117,7 @@ Example Levels of Assurance	10765,10
 Excise Revenue Levied	2775
 Excluded Overal Level	940
 Excluded Overal Level of Financial Inclusion	940
+Expertise Levels	12675
 Extra-High Level	11956
 Factor Level	11916
 Federal Leverage NYSC	11857
@@ -169,14 +173,17 @@ KENYA LEVEL	899
 KRA Miscellaneous Fees and Levies Act	7548
 Keep Low Levels of Banking Sector Non-Performing	11131
 Kenya Lever	6948
+Know Your Customer LoA Level of Assurance	12663
 LA TECHNOLOGIE COMME LEVIER TRANSVERSE	5478
 LCD Liquid Crystal Display LMGH Levy	34
 LEVEL	899,2705,7248,1143
 LEVELS	3861
 LEVELS OF ASSURANCE	10819
 LEVELS OF ASSURANCE Digital Identity	10819
+LEVERAGE BENEFITS OF INCREASED REGIONAL INTEGRATION	12680
 LEVERS	1885
 Lagos Level	10157
+Letlhakeng and Gumare Level I Primary Hospitals	12606
 Levadura	4209
 Levam	10777
 Levantamento	2816,4021,3913,633,52,16
@@ -196,6 +203,7 @@ Level Agreement SMS Short Message Service	34
 Level Agreements SMT Senior Management Team	12240
 Level Completed Figure	12431
 Level Description Examples Public	11952
+Level Expert Group	12675
 Level H.E. Romuald Wadagni	7452
 Level I II	12431
 Level III	1219
@@ -232,16 +240,18 @@ Levels.fyi	10319
 Levenshtein	8604,2
 Levenshteintreatsalleditsequallyandislessefficientforlong	8606
 Lever	6948,707,1236,1084
-Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68
+Leverage	899,59,856,2312,402,716,433,755,454,61,3865,29,24,218,57,717,9,75,19,250,4,142,20,68,68,162,1
 Leverage AI	4126,8230
 Leverage AI for Development	1814,3784
 Leverage AI for Development AU Member States	1814
 Leverage AI for National Development	12356
 Leverage AI for Page	11265
 Leverage AI-enabled	12214
+Leverage AR	12675
 Leverage AU Membership	1814
 Leverage AfCFTA	11149
 Leverage Africa Already Has	6410
+Leverage Benefits of Increased Regional Integration	12717
 Leverage CSP	6432
 Leverage Digital Rights Convenings Digital	6950
 Leverage Evidence	10865
@@ -252,17 +262,20 @@ Leverage International Seek	1777
 Leverage International Support NCC	1777
 Leverage International Support for Capacity Building. Seek	1777
 Leverage Kenya	7548
+Leverage Online Platforms	12675
 Leverage Private Sector Financing. This CPF	11468
 Leverage Public	4126
 Leverage Ratio	11131,3
 Leverage Regulatory Authority	1777
+Leverage Resources	12675
 Leverage SADC	12444
+Leverage Social Protection	12761
 Leverage Social Safety Nets	10964
 Leverage the Identity	10819
 Leverage the Universal Access Fund	5244
 Leverages	12359
-Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45
-Leveraging AI	2445,1989,5102,592,1012,1070,146
+Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11
+Leveraging AI	2445,1989,5102,592,1012,1070,146,319
 Leveraging BEAC	10841
 Leveraging China	9238
 Leveraging Digital Technology for Adaptive Social Protection	11133
@@ -398,7 +411,7 @@ Service Level Agreement	34,2708,761,758,349,1066,756,4531,246,31,12,300,404,39
 Service Level Agreement SMS Senior Management	11218
 Service Level Agreement SOP	11252
 Service Level Agreement Security Operations Centre	10157
-Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4,239,124
+Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4,239,124,173
 Service Level Availability	6432
 Service Level Benchmark26 Targets	970
 Service Level and Institutional Arrangements	10157

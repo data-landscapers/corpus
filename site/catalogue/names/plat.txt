@@ -89,7 +89,7 @@ Citizens Wealth Platform	11866
 Citizens' E-Feedback Platform	11951
 Claude Platform	9608
 Client UI Platform N	9124
-Cloud Platform	9455
+Cloud Platform	9455,3238
 CnC Platform	11469
 Code of Practice for Interactive Computer Service Platforms	5215
 Coligaçáo Plataforma Aliança	11544
@@ -161,7 +161,7 @@ Digital Platform Policy and Regulation	11028
 Digital Platform Structure and Access	9855
 Digital Platform and Services	12253
 Digital Platform for Psychological Counseling	5167
-Digital Platforms	226,5015,108,7007
+Digital Platforms	226,5015,108,7007,303,16
 Digital Platforms Challenge	11662
 Digital Platforms DIODE Paper	226
 Digital Platforms for MSME Growth	12241
@@ -204,13 +204,17 @@ Electoral Platform Decide	12201
 Electronic Auctions Platform	10411
 Energy Platform	4896
 Ericsson Fintech Platform	10666
+Establish Engagement Platforms	12675
+Establish and Join Knowledge-Sharing Platforms AI	12675
 Evidence Platform	10911
 Examining Platform Governance and User Behavior	5349
 Examining Platform Governance and User Behaviours	5349
 Exhibitions and Conferences Platform	9479
+Existing Platforms Duration	12728
 Expérience API Government Platforms	12043
 FAO's IDEA Platform Contact Donald Chidoori	12507
 FG Unveils National Digital Education Platform	12061
+FORENSIC AUDIT PUBLIC ENGAGEMENT PLATFORM CONTACTS	12557
 FSP Platform EcoDEQ	10819
 Fairer Platform Economy	226
 Few' Digital Platforms	12214
@@ -223,13 +227,16 @@ Fintech Platform Convergence Partners	53
 Fintech Platform Expansion	1091
 First Kurdish Conversational AI Platform	5322
 Flot Platform	5939
+Forensic Audit Public Engagement Platform	12557
 Founding Partner of Ventures Platform	11735
 France's National Health Platform. Framed	6001
 Fully Digital Platform for Pharmaceutical Imports	5076
+Functions of E-tax Platform	12676
 Fusepay Launches Payments Platform	4095
 GEP Global Electrification Platform GtCO2	11572
 GOV Cloud Platform	8632
 GPT Educational Platform	4759
+GUIDE ON E-TAXATION PLATFORM	12676
 Galaxy Cloud Platform	6058
 General Partner and Head of Platform and Operations	5897
 General Platform Overview Land Registration Module	12211
@@ -330,6 +337,7 @@ Launch of TELEMO Platform Guinea	6349
 Lead for Safety Evals Platform	9592
 Les Plateformes	1231
 Let’s Make Platform Capitalism More Accountable	226
+Leverage Online Platforms	12675
 Liberia MOE Digital Learning Platform	4554
 Libya Activates LY GOVREP Platform for Government Monitoring	5775
 Libyan Government Reporting Platform	5775
@@ -365,13 +373,14 @@ Mobile Platform	11216
 Mobile Platforms	11131
 Modelo de Referência de Plataforma Digital Pública	11555
 Modular Open Source Identification Platform	658,1512
-Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75
+Modular Open Source Identity Platform	1846,874,71,1043,1866,687,305,2664,75,3284
 Modular Open Source Identity Platform Development	290
 Modular Open-Source Identity Platform	2289,693,2103,1286,172
 Modèles-type DNCMP Plateforme SIGMaP	10876
 Monitoring and Reporting Online Platform	9353
 Moov Africa Mobile Money Platform Investment	836
 Mozambique Launches Digital Platform	10470
+Multistakeholder Advisory Platform	12675
 Mutual Platz Building Windhoek	11152
 NCC CSIRT's VTEM Platforms Incident Management	10721
 NIA Identity Verification Platform	7294
@@ -395,6 +404,7 @@ National Health Information Exchange Platform. Over	12004
 National Interagency Spatial Planning Platform	12137
 National Interoperability Platform	5514,661
 National Logistics Management Information Services Platform	2709
+National Platform	12732
 National Reality Check Platform	4528,2265
 National Reality Check Platform and Information	6793
 National Spatial Platforms	12389
@@ -428,7 +438,8 @@ Online Platform	3161
 Online Platform Imaginaries	11028
 Online Platform for Issuing Building Authorizations	12389
 Online Platform for Property Transfer	12389
-Online Platforms	573,11588
+Online Platforms	573,11588,514
+Open AI Platforms	12675
 Open Data Platform	3310,1717,6527
 Open Government Data Platform	4098
 Open Smart Register Platform	10919
@@ -721,6 +732,7 @@ Support for Fact-Checking Platforms	8522
 Sustainable Medical Supply Platform	10128
 Systems and Platforms	6177
 TRB Receives QoS Monitoring Platforms	4562
+Tax Platform	12676
 Tech Senegal Launches New Platform	2356
 Technology Platform	12419
 Technotrend Platforms Nigeria Limited	3862
@@ -734,6 +746,7 @@ Through the Ericsson Fintech Platform	10666
 Togo Launches Digital Platform	11758
 Togo Launches Platform	11103
 Tourism Platform Roadmap	5931
+Trade Facilitation Platform	12539
 U-Learn Platform	9783
 U.S. Targets Brazil’s Payments Platform Pix	4970
 UAE Investments Platform	9098,248
@@ -759,6 +772,7 @@ Ventures Platform Pan-African Fund II	11735
 Video Surveillance Platform Project	420,1,132
 Virtual Platform	8564
 Vodacom Tanzania M-Pesa Platform Modernisation	4521
+W Flex Slot Platinum Hot Plug	12681
 WBG Guarantee Platform	11468,1
 Western Cape Infrastructure Virtual Platform	8564
 WhatsApp Business Platform. Désormais	10685

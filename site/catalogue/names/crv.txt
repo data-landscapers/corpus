@@ -19,12 +19,14 @@ CRVS Civil	12367
 CRVS Civil Registration and Vital Statistics CSOs	12241
 CRVS Civil Registration and Vital Statistics D4H	12413
 CRVS Civil Registration and Vital Statistics DCI	11133
+CRVS Civil Registration and Vital Statistics DHIS2	12729
 CRVS Core Technical Team	12338
 CRVS Core Technical Technicians	12413
 CRVS Costed Plan and Civil Registry Rules	4257
-CRVS Day	3434,6114
+CRVS Day	3434,6114,3091
 CRVS Decade	9535,13,217
 CRVS Forms	12338
+CRVS Integration Experiences. Plenary Session	12761
 CRVS KenyaSnapshot e.pdf CENTRE OF EXCELLENCE LE CENTRE	12138
 CRVS Key Message	12064
 CRVS MAS RDHS	12413
@@ -43,8 +45,11 @@ CRVS Systems	1345,1,10792
 CRVS Systems Snapshot	441
 CRVS TC	12367
 CRVS Technical Working Group	12413
+CRVS The Ministry of Labour and Home	12639
 CRVS and EIR	977
 CRVS and Health	12219
+CRVS and Identity Management Investment Plan	12534
+CRVS and Identity Management Investment Plan. Strategic	12533
 CRVS and Legal Identity	12219
 CRVS and Legal Identity Specialist	12337
 CRVS and MOSIP	6985
@@ -53,6 +58,7 @@ CRVS and Rwanda’s National Person Registry	977
 CRVS and Securing the Future of CRVS	9765
 CRVS-EIR	977
 CRVS-ID	6236,4355
+CRVS-Social Protection Integration Linking Legal Identity	12761
 CRVS-adjacent	6607
 CRVS-integrated	5399
 CRVS-national ID	10591
@@ -78,6 +84,8 @@ Coordination of CRVS	12338
 D'EXCELLENCE for CRVS Systems	12138
 DHIS2 EIR and CRVS	977
 Decentralized CRVS	12250
+Deepen CRVS-NISSA Integration	12761
+Develop Costed CRVS Strategic Plan	12761
 Development of Integrated ID and CRVS Software	12241
 Digital CRVS	12064
 Digital CRVS Roadmap	12064
@@ -96,11 +104,13 @@ ID and CRVS	12241
 ID and CRVS System	12241
 Identité CRVS	12043
 Inclusive Digital ID and CRVS System	12241
+Integrate CRVS	12761
 Integrated CRVSID System	12337
 Integrated Digital ID and CRVS System	12241
 Interoperability of CRVS and EIR	977
 Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Leveraging VITALREG for Sustainable CRVS Country Case	12064
+Linking CRVS	12761
 Linking CRVS and EIR	977
 Linking National ID and CRVS Systems	326
 Linking National ID and CRVS Systems Companion	326
@@ -108,6 +118,7 @@ MOH Celebrates African CRVS Day Posted	9548
 Marriage and CRVS	12241
 Mauritius's CRVS-to-ID	422
 Ministry of CRVS Web-based	12413
+Ministry of Labour and Home Affairs CRVS	12639
 NCI CRVS	12413,58
 NISR. Rwanda CRVS Systems	12413
 Namibia's CRVS	12367

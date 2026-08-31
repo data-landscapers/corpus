@@ -18,6 +18,7 @@ Act. Government Printer. Republic of Zambia	12467
 Act. SUBSIDIARY LEGISLATION The Laws of Zambia	12410
 Act. Zambia Cyber Incident Response Team	2727
 ActionAid Zambia	8513
+Adaptation and Implementation Following the Zambia	12726
 Admissible. ZAF	7145
 Africa Business Insight Zambia	7583
 Africa. Fabrice Zapfack	2822
@@ -250,6 +251,7 @@ Evaluation.pdf Revolutionary Government of Zanzibar	11133
 Executive Summary The Zambian	12376
 Expand Access Across Zambia The Ministry	11640
 Expand Digital Inclusion Across Rural Zambia	6713
+Explore Zambia's Teaching Council	12726
 FIGUEIREDO SAMBOLO ZAI PAPELO	10751
 FINCA Zambia	12376
 FINSCOPE SURVEY METHODOLOGY In Zambia	12409
@@ -578,7 +580,7 @@ Release ELECTORAL COMMISSION OF ZAMBIA COMMENCES	12465
 Release Journalist Zainab Sodiq	7176
 Rep. Zambia Register VIZ Database	10714
 Report Finds Zambia	8677
-Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305,939,8,45,1,43,14,45
+Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305,939,8,45,1,43,14,45,128
 Republic of Zambia CC	9082
 Republic of Zambia Digital Economy	12512
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
@@ -586,6 +588,7 @@ Republic of Zambia HIV Human Immunodeficiency Virus	1988
 Republic of Zambia Implementing Agency	1867,424,1271
 Republic of Zambia Ministry of Health Information	34
 Republic of Zambia Office	12360
+Republic of Zambia. Done	12640
 Republic of Zambia. Lusaka	10018
 Revolutionary Government of Zanzibar	7034,3163,936,9
 Revolutionary Government of Zanzibar RSH Registro Social	11133
@@ -709,6 +712,7 @@ Tanzania Mainland and Zanzibar	2806
 Tanzania and Zambia	318,4929,4712,2273
 Tanzania and Zanzibar	634,10499
 Teacher Zainab C. Koroma	11651
+Teaching Council of Zambia	12726
 Team Zambia	7432
 Tech Accelerator. The Zambia Information and Communications	12376
 Technology CAMTEL Showcases Zamengoe Data Center	9917
@@ -743,6 +747,7 @@ Under Zanzibar	11133
 Unguja Zanzibar	11612
 Unguja. Zanzibar	10676
 UniPod Zambia UNDP Zambia ABOUT	10347
+United Republic of Tanzania The Republic of Zambia	12527
 United Republic of Tanzania and Zambia	318
 University X of Zambia University of X Lusaka	12376
 University of Zambia	3711,1362,5274,433,1627
@@ -752,6 +757,7 @@ University of Zambia. Kelly	12369
 University of Zambia. Over	10347
 Urban REPUBLIC OF ZAMBIA Figure	12431
 Uruguay Uzbekistan Zambia Tier	10764
+Usama Zafar	12541
 User Stories Zambia Education Management System	12408
 Uíge Province Zaire	11418
 Uíge Province Zaire Province	11418
@@ -869,6 +875,7 @@ ZAR for Vodacom Group	8035
 ZAR-denominated	1524
 ZAR. Lead	1402
 ZAR10	6593,3859,788
+ZAR12.63	12671
 ZAR20.4bn	2523
 ZAR200	4972
 ZAR2bn	1404
@@ -1018,7 +1025,7 @@ Zambezia Province	1228,10952
 Zambezia and Nampula	12201
 Zambezia and Nampula. Page	12201
 Zambi	12376
-Zambia	22,12,6,8,11,3,131,1,2,30,1,13,2,7,45,108,21,103,1,83,11,30,32,1,3,27,10,29,13,157,35,4,51,25,10,147,17,31,5,1,1,113,177,12,2,150,22,27,25,36,1,52,7,1,4,22,24,40,12,3,5,3,37,229,35,2,95,91,21,20,51,113,25,5,28,6,143,57,68,74,184,93,69,50,61,17,133,34,8,23,31,68,61,126,81,23,215,13,67,85,8,28,17,22,3,16,1,101,8,6,143,24,5,19,41,88,69,33,41,10,4,1,16,4,9,16,119,51,23,5,22,5,12,1,28,21,33,43,176,164,18,1,112,7,32,29,5,17,14,28,32,6,64,46,50,9,27,21,8,19,11,12,7,52,100,17,3,7,105,1,25,25,62,14,62,22,65,10,19,57,1,3,7,63,17,13,84,8,1,48,1,70,6,30,40,4,62,33,29,43,28,1,57,127,34,25,17,7,44,21,183,124,31,28,2,1,1,69,100,27,221,97,87,55,15,10,36,173,8,13,1,6,17,8,7,172,1,31,1,65,58,2,18,13,1,224,9,6,69,68,46,1,1,130,4,23,136,92,26,86,45,4,5,12,13,36,6,3,2,4,2,73,13,18,18,9,14,6,9,90,31,13,9,6,12,4,63,167,6,10,108,47,37,8,23,51,1,100,78,16,1,2,10,18,76,133,3,24,1,9,24,14,9,22,6,4,10,11,23,47,2,6,11,1,3,4,4,2,3,6,1,1,3,1,1,1,2,11,3,7,2,1,1,4,1,13,3,4,8,10,3,6,2,3,5,2,14,14
+Zambia	22,12,6,8,11,3,131,1,2,30,1,13,2,7,45,108,21,103,1,83,11,30,32,1,3,27,10,29,13,157,35,4,51,25,10,147,17,31,5,1,1,113,177,12,2,150,22,27,25,36,1,52,7,1,4,22,24,40,12,3,5,3,37,229,35,2,95,91,21,20,51,113,25,5,28,6,143,57,68,74,184,93,69,50,61,17,133,34,8,23,31,68,61,126,81,23,215,13,67,85,8,28,17,22,3,16,1,101,8,6,143,24,5,19,41,88,69,33,41,10,4,1,16,4,9,16,119,51,23,5,22,5,12,1,28,21,33,43,176,164,18,1,112,7,32,29,5,17,14,28,32,6,64,46,50,9,27,21,8,19,11,12,7,52,100,17,3,7,105,1,25,25,62,14,62,22,65,10,19,57,1,3,7,63,17,13,84,8,1,48,1,70,6,30,40,4,62,33,29,43,28,1,57,127,34,25,17,7,44,21,183,124,31,28,2,1,1,69,100,27,221,97,87,55,15,10,36,173,8,13,1,6,17,8,7,172,1,31,1,65,58,2,18,13,1,224,9,6,69,68,46,1,1,130,4,23,136,92,26,86,45,4,5,12,13,36,6,3,2,4,2,73,13,18,18,9,14,6,9,90,31,13,9,6,12,4,63,167,6,10,108,47,37,8,23,51,1,100,78,16,1,2,10,18,76,133,3,24,1,9,24,14,9,22,6,4,10,11,23,47,2,6,11,1,3,4,4,2,3,6,1,1,3,1,1,1,2,11,3,7,2,1,1,4,1,13,3,4,8,10,3,6,2,3,5,2,14,14,25,90,109
 Zambia AFRICA TRADE BAROMETER AN OVERVIEW	5247
 Zambia AI Strategy and Vision	12356
 Zambia Accessed	12376
@@ -1245,6 +1252,7 @@ Zambia University College of Technology	3524
 Zambia Vulnerability Risk Assessment and Mapping Report	1988
 Zambia Wildlife Act	1988
 Zambia Wildlife Act No	1988
+Zambia Workshop	12726
 Zambia X Academic	12376
 Zambia Zambia	1988,10465
 Zambia Zambia Refugee and Host Communities Project	1867
@@ -1268,9 +1276,10 @@ Zambia and Senegal	5716
 Zambia and South Africa	10026,822
 Zambia and Tanzania	10628
 Zambia and Uganda	8898,3298
-Zambia and Zimbabwe	962,503,4078,2725,954,291,244,316,381,5,491,933,484,15,17
+Zambia and Zimbabwe	962,503,4078,2725,954,291,244,316,381,5,491,933,484,15,17,134
 Zambia and Zimbabwe. Both Equiano and Umoja	3619
 Zambia and Zimbabwe. For African	11324
+Zambia and Zimbabwe. Issued	12671
 Zambia and Zimbabwe. SADC ICT Implementing Agency	318
 Zambia and Zimbabwe. Starlink	5617
 Zambia and Zimbabwe. West African Economic and Monetary	2775
@@ -1303,6 +1312,7 @@ Zambia's National AI Strategy	7432
 Zambia's National Digital ID	4624
 Zambia's POC	1988
 Zambia's SmartCarePro Electronic Health Record System	2289
+Zambia's Teaching Council	12726
 Zambia's UN	8740
 Zambia's Vision	7779
 Zambia-	1726,299
@@ -1350,6 +1360,7 @@ Zambia. Operating	12376
 Zambia. Over	7997
 Zambia. Page	12502
 Zambia. Permanent Secretary Zechariah Luhanga	11640
+Zambia. Phaee Mariti	12726
 Zambia. REG	701,836
 Zambia. Science and Technology	12467
 Zambia. Services	923

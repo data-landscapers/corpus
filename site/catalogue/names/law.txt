@@ -1,5 +1,6 @@
 ACORN LAW ADVOCATES LLP Data Controller	7167
 AI Law	4583,2965
+AI-Specific Law	12675
 AI. The Global AI Law and Policy	12210
 APPLICABLE LAWS	4153
 About the Centre for Child Law The CCL	11977
@@ -8,7 +9,9 @@ Absence of Forced Migration and Laws	12153
 Abubakar Lawal Musa	9360
 Abuja Lawyer	9117
 Access Information Law	1161
+Accountability Lawfulness	12549
 Act. SUBSIDIARY LEGISLATION The Laws of Zambia	12410
+Adapt IP Laws	12675
 Addis Ababa University School of Law	8647
 Adequate Enforcement of Data Protection Law	1243
 Administrative Law Alignment	3861
@@ -52,6 +55,7 @@ Artificial Intelligence Safety Law	3364
 Asian Journal of Comparative Law	2518
 Associate Professor of Law	8697
 Attorney Rule of Law	12201
+Aﬀairs Ministry of Works Ministry of Law and Constitutional	12674
 B.A. Law	11131,3
 BASIC PRINCIPLES AND LAWFUL PROCESSING	1474
 BURUNDI'S LAW COULD DECIDE	12100
@@ -68,6 +72,7 @@ Bello Lawal	11126
 Ben Musanje The Uganda Law	8470
 Benin Finance Law	10856
 Berlin School of Economics and Law	9237
+Big Data Laws and Regulations	12675
 Big Data and Global Trade Law	1243
 Big Data and Global Trade Law. Cambridge	1243
 Biometric ID and Passport Laws	1637
@@ -76,6 +81,7 @@ Black's Law Dictionary	10979
 Blacks' Law Dictionary	10979
 Board Secretariat Bachelor of Laws	11134
 Boston University Law Review	5113
+Botswana Law Enforcement	12542
 Bowmans Law	10246
 Brazil’s General Law	1243
 Broke the Law	7176
@@ -139,11 +145,13 @@ Communications and Technology Law Committee	1387,10774
 Company Law SAPS South African Police	11250
 Competition Law Code of Conduct	3513
 Compliance Laws and Regulations	11250
+Comprehensive Data Protection Law	12675
 Comput Law Secur Rev	5242
 Computer Law	1243,6779,754,461
 Conditions for Lawful Data Processing	11896
 Conflict of Law Resolution	3861
 Conflict of Laws and Supremacy Provisions	3861
+Connectivity Laws and Policies	12529
 Consent and Other Lawful Bases Article	11956
 Constitution and Law	11900
 Constitutional Law and Fundamental Rights	3861
@@ -205,6 +213,7 @@ Data Security Law	8277,2073
 Data Sovereignty Laws Are Changing	6266
 Decree Law	10775,1094,292
 Decree- Law	10765
+Deep Fakes Amid Lack of Cyber Law	12687
 Department of Law	7777
 Develop and Adopt the Primary Law	1777
 Digital Code Law	11880
@@ -302,6 +311,7 @@ Green Fields Law Representative Nigerian Dynatech	11857
 Groundbreaking Guide For Lawyers	11654
 Guinea-Bissau’s Law	11550
 H.E. Cina Lawson	3987
+HON. LAWRENCE OOKEDITSE ASSISTANT MINISTER	12606
 Hadiza Lawan	12051
 Hard Law	2816
 Harmonization of Business Law	10841,708
@@ -389,6 +399,7 @@ Labor Law	3058
 Labor Law Launch	2989
 Labour Code and Electronic Transactions Law	12161
 Labour Law	12101,193
+Labour Laws	12597
 Land Law Regulations	12137
 Land Law and Regulations	12137
 Law Against Domestic Violence	12201
@@ -409,6 +420,7 @@ Law Governing Radiation Protection	718
 Law Inclusion	10835,3,130,902,16,466,1,135
 Law Law Enforcement Property Rights Public	10759,78,1315,188
 Law Library	11235
+Law Ministry of Finance	12674
 Law Ministry of Justice MOPT	1777
 Law N	718,10108,85,68,1359,81
 Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22,620,2,303,9,36,5,50,5,164,43,103,63,86
@@ -419,12 +431,14 @@ Law Officers Act	7845
 Law Reform Commission	769
 Law Reform Commission KMD Kenya Meteorological	7548
 Law Regulating the Use of AI	4583
+Law Reports of Lesotho Appeal Cases	12668
 Law Republic States	12201
 Law SJ. Team	10780
 Law Schools	8978
-Law Society	4753,2525,5122
+Law Society	4753,2525,5122,268
 Law Society of Eswatini	12473
 Law Society of Kenya	4801,1430,715,2699,398
+Law Society of Lesotho	12661
 Law Society of South Africa	7278
 Law Source National Registration Act	12406
 Law Source National Registration Regulations	12406
@@ -451,6 +465,7 @@ Law&volume	5242
 Law-2024-016	4579
 Law-enforcement	6426
 Law-firm	1685,726,704,15,222,1599
+Law. Ministry of Finance	12674
 Law. Russia	6935
 LawGPT	10530
 Lawabien Gustave Toé	6889
@@ -466,7 +481,7 @@ Lawful Bases of Processing	6792
 Lawful Basis and Context of Processing	11956
 Lawful Disclosure and Access	3861
 Lawful and Irreversible Disposal	3861
-Lawfulness	1630,1500,731,8441
+Lawfulness	1630,1500,731,8441,247
 Lawfulness and Fairness	5244
 Lawfulness of Processing	12185
 Lawfulness of Purpose	11956
@@ -498,6 +513,7 @@ Laws and Regulations. Business Continuity	11131
 Laws of Kenya	2775,8047,1316,13
 Laws of Kenya. The Act	12151
 Laws of Kenya. The Board	9854,1
+Laws of Lesotho	12668
 Laws of Malawi	12214
 Laws of Northern Section	11857
 Laws of The Federation of Nigeria	11853
@@ -546,6 +562,9 @@ Metropolitan University’s Lincoln Alexander School of Law	6521
 Michaël Guibougna Lawakiléa Folané. Ingénieur	8678
 Michel Lawson	7125
 Minister of Communication Technologies. Organic Laws	1689
+Minister of Law and Justice	12744
+Ministry of Justice and Law	12748
+Ministry of Law and Justice	12674
 Model Law	26,1,1,934,201,80,2618,4624,914,1330,821
 Model Law HIPSSA	26,1,1
 Model Law HIPSSA H	26,2
@@ -595,7 +614,7 @@ National Healthcare Basis Law	10775
 National Law	11905
 National Law The National Registration Act	12217
 National Payment System Law	10779,357
-National Payments System Law	6626
+National Payments System Law	6626,5972
 National Security Law	9399
 National Security Law International	9399
 Nationality Law	2683
@@ -605,6 +624,7 @@ Nigerian Law School	8978
 Nigerian Law of Electronic Transactions	8978
 Nigeria’s Existing Data Protection Law Does	7173
 Northwest Univ Law Rev	5242
+OFFICES CONFERENCE. The Ministry of Law and Justice	12744
 Obtain RULE OF LAW	10835,3,130,902,16,466,1,135
 Omoniyi Lawson	9116
 Open Data Policy and Data Protection Law	1161
@@ -632,6 +652,7 @@ Parties. Ls Governing Law	3972
 Passage of Cyber-crime Law	1000
 Patent Laws	12512
 Patent Laws Heritage-Based Education	4528
+Payment Systems Model Law and SADC Payments	12735
 Payments System Law	10779
 Payments Systems and Services Law	10779
 Personal Data Guarantee and Protection Law	1387
@@ -712,7 +733,7 @@ Review of Sexual and Gender-Based Violence Laws. Christine	8948
 Revisits Law	8647
 Rights Lawyer	2626
 Risk and Law Enforcement Strategy Directorate	12500
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19,382,50,284,16,1,1,1,263,1,1,9,177,1,11,1,135,153
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759,1395
@@ -843,6 +864,7 @@ Sustainable the DHA. Lawyers for Human Rights	11986
 TRANSPARENCY RULE OF LAW	11870
 Tax Administration Laws Amendment Act	11263
 Tax Law Advisor	12500
+Tax Laws Division	12629
 Tech Senegal's Startup Law Advances	2333
 Technology Lawyer	4861
 Technology and Law Review Committee	3861
@@ -893,6 +915,7 @@ Washington College of Law	9632
 What's Next for Privacy Law	11896
 Wits School of Law	5892
 Wits University School of Law. Founded	9889
+Workforce and Labor Law Adaptation	12675
 World Business Law Institute	6946
 World Justice Project Rule of Law Index	4528,793,7191
 Yale Journal of Law and Technology	1243

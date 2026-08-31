@@ -189,6 +189,7 @@ MW IPPs	12399
 MW IT Power	9446,1510
 MW JB7	1402
 MW Jan Feb Mar Apr	11953
+MW Jwaneng Solar Project	12609
 MW Kabwe Solar Project	5247
 MW Karuma Hydro Power Plant	3561
 MW Kasi Cloud Lagos	10861
@@ -200,10 +201,12 @@ MW LOS	10861
 MW LOS1	4191
 MW Licence	10975
 MW Live	10781,1646
+MW Lobatse Solar Project	12609
 MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Megawatt NDP National Development Plan	12399
 MW Megawatt NEP National Electrification Program	12233
+MW Mmadinare Solar Plant	12609
 MW NA NA Live DC	10995
 MW Nairobi	9016
 MW Namibia	12399
@@ -218,7 +221,7 @@ MW Peak	12256
 MW Potential	10781,1646
 MW Production	10975
 MW Puissance	10975
-MW RE	12399
+MW RE	12399,164
 MW Rack Centre LG3 Lagos	10861
 MW Schweppes Zimbabwe	6492
 MW Siavonga	5247
@@ -251,6 +254,7 @@ MW-capable	1845
 MW. Across	12062
 MW. Also Yahoo Finance	594
 MW. Available	12399
+MW. Baseload	12604
 MW. Beyond Lagos	3554
 MW. CROSS-REF	596
 MW. Captive	12256
@@ -260,6 +264,7 @@ MW. Ces	4833
 MW. Cette	2342
 MW. Chiffre	2342
 MW. Combined South Africa	596
+MW. Demand	12604
 MW. Demand Side Response	11953
 MW. Edited	11904
 MW. Electricity	12256
@@ -320,6 +325,8 @@ MWh. Domestic	718
 MWh. Figure	12256
 MWp Danzi	10857
 MWp Danzi Solar Power Plant	10857
+MWp Mmadinare Solar PV Plant. Together	12604
+MWp Solar Plant	12604
 MYTO Target Sales MW Megawatts MWh	12062
 Makamu Mwenyekiti	2868,3151,5593
 Managed Service Provider MW Megawatts NDC	10781,1646
@@ -402,6 +409,7 @@ Mwanza Mundungani	9198
 Mwanza and Dar	6807
 Mwape	9986
 Mwapwele	6832
+Mwariri Mwangi	12581
 Mwasaga	2703,663,1348,2801,761
 Mwasalyanda	6577
 Mwea Pishori Rice	10313

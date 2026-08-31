@@ -33,7 +33,7 @@ Assuming	1828,7219,1213,556,324,385,60,270,69,293
 Assuming the Council’s Chairpersonship	7142
 Assumir	4218,7166,517
 Assumiu-se	11569
-Assumption	7845,14,3317,687
+Assumption	7845,14,3317,687,803
 Assumptions	2775,939,1819,58,6395,189
 Assumptions All	11986
 Assumptions Availability	11986
@@ -110,6 +110,7 @@ Baseline Assumptions All	10157
 Board Audit and Risk Assurance Committee	6946
 Board Audit and Risk Assurance Committee BETA	6946
 Board Member of Africa Merchant Assurance Company	6946
+Botswana Data Quality Assurance Framework	12551
 Britam Life Assurance Data Controller INST-42678342703	7167
 Britam Life Assurance Data Processor INST-42678342703	7167
 C P9-29-1. Assurance	12500
@@ -181,6 +182,7 @@ Infrastructure Assurance Framework	11338
 Infrastructure Assurance Registration	10157
 Insurance and Assurance	940
 Internetwork System Specialisation Assurance	6832
+Know Your Customer LoA Level of Assurance	12663
 LEVELS OF ASSURANCE	10819
 LEVELS OF ASSURANCE Digital Identity	10819
 LIBERIA ASSURES DIGNITY	10581
@@ -201,6 +203,7 @@ National Digital Infrastructure Assurance Framework	8986,132,1039,267,914
 National Digital Infrastructure Assurance Framework Nigeria	10157
 National External Quality Assurance Laboratory	4301
 National Quality Assurance Program	4260
+National Quality Assurance and Patient Safety Strategic	12729
 National Software Quality Assurance	8424,15,679
 National Software Quality Assurance Framework	8424,15,679,1306
 National Software Quality Assurance Framework for Nigeria	5665
@@ -215,15 +218,18 @@ Planning Assumptions The Electoral Commission	7266
 Proficiency Testing Quality Assurance I Quality	4153
 QUALITY ASSURANCE	9855
 QUALITY ASSURANCE Standard Digital	9855
-Quality Assurance	899,6367,63,4528,3,96,400,44
+Quality Assurance	899,6367,63,4528,3,96,400,44,212
 Quality Assurance Framework	9855
+Quality Assurance Manager	12726
 Quality Assurance Manual. Audit Transformation	11134
 Quality Assurance Office	8957
+Quality Assurance Officer	12726
 Quality Assurance PERSAL Personnel and Salary System	11192
 Quality Assurance Peer Review	11134
 Quality Assurance Support	899
 Quality Assurance Testing	8670
 Quality Assurance and Continuous Improvement	9855
+Quality Assurance and Patient Safety Framework	12729
 Quality Assurance and Public	6832
 Quality Assurance and Quality Control	4301
 Quality Assurance and Quality Control. The Federal	4301

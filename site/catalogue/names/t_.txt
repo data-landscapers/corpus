@@ -22,6 +22,7 @@ Binarisesimilaritymatrixusingthreshold T	8606
 Bissau. T	11513
 Boerma T. Generating	771
 Boerma T. Health	766,5,10009,101
+Botswana T	12559
 Brik T	8606
 Bucher T	8460
 C L I M A T	11586
@@ -29,6 +30,7 @@ C O U N T R	11157
 C T Frolick	11272
 C. T. Lundblad	11310
 CATHRINE T. NENGOMASHA	12325
+CF T CCI	12701
 Cabinet Nathaniel T. Kwabo	10581
 Cameroon Rostov State T. University NUBiP	12467
 Carslake Nominees Ltd T	7167
@@ -61,7 +63,7 @@ E A C T	11586
 E F R O M T	11586
 E I E I T	11522
 E I T D	11522
-E N T	11527
+E N T	11527,1147
 E N T I D ITEM	582
 E N T L I V	11586
 E PA R T M	12500
@@ -93,6 +95,7 @@ H. T. B	2518
 Hailemariam T	12255
 Hailu T	12255
 Hinks T	5242
+Hon. T. Ntsima	12607
 Hunnicutt T. Trump	7187
 I C T R A N	11586
 I E D R IT T	582
@@ -147,7 +150,9 @@ Member Ms. Nomusa T. Dlamini Non-Executive	11131,3
 Meyer T	5242
 Minister T Mavetera	9030
 Mleme T	3791
+Mohlomphehi. HON. SENATOR DR. T. LEBESE	12748
 Moonsamy T	8605
+Mrs. T	12646
 Mrs. T. Mpofu	4263
 Ms. T Simelane	11285
 Ms. T. Moyo	4263
@@ -186,6 +191,7 @@ Rob T. Lee	8702
 République du Bénin T	10712
 S C I T S	11236
 S I T Y A N	11586
+S T A T E M	12674
 S. T	6832
 Satta T. Massaley Sow	9861
 Savory T	10784
@@ -292,6 +298,7 @@ T. Kleiner and A. Garcia Rodriguez	11154,1
 T. Kolawole	11140
 T. Liebetrau	3782
 T. M	2518,8615,9
+T. Madonsela	12675
 T. Matekaire	2779
 T. Matsila	11140
 T. Mayer	11310

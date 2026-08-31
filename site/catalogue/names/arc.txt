@@ -157,7 +157,7 @@ Archival	3861,4160
 Archive	585,3841,2006,1478,974,1992,999,77
 Archive About Us Contact Us Oshiwambo	11122
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284
 Archived Articles	11220,21
 Archived Documents	11220
 Archived Information National Archives Building	11349
@@ -188,7 +188,7 @@ Benin. Arch Public Health	766
 Bi-Annually ARCT	1284
 Bijagós Archipelago GUINEA-BISSAU AT A GLANCE	11586
 Bm ARCEP Signal	10856
-Botswana National Archives and Records Services	5250
+Botswana National Archives and Records Services	5250,7347
 Bridgforte Trust Architecture Framework	11138
 Bridgforte Trust Architecture Framework Across	11138
 Bridgforte Trust Architecture Framework Applying	11138
@@ -288,6 +288,7 @@ Faustin Archange Touadéra	1806,1271,1050,208,204,6304
 Faustin Archange Touadéra Touadéra	4127
 Faustin Archange Touadéra. Elle	4346
 Federal Republic ofNigeria Thematic Arca Surveillance	4301
+Federated Architecture Model for Government	12529
 Federated Health Information Architecture	1009,7594
 Financial Architecture	9672
 Financial Architecture Summit	7341
@@ -301,6 +302,7 @@ G20 International Financial Architecture Working	2626
 GEONETCast. ARC-ISCW	11334
 GHz COR-RAD-MIM- Conforme ARCEP-180521	998
 GHz D PETROLEUM S.A ARCEP	998
+GOVERNMENT OF LESOTHO ENTERPRISE ARCHICTURE	12673
 GROUPEMENT ARCEP	998
 Gabana Architects and Consultants	4083
 Gabon's ARCEP	3963
@@ -313,6 +315,7 @@ Government Enterprise Architecture	963,321,3780,1294,2250,236,3108
 Government Enterprise Architecture Framework	5994
 Government Platform EA Enterprise Architecture EAF	12359
 Government Wide Enterprise Architecture MoU Minimum	11986
+Government of Lesotho Enterprise Architecture	12673
 Government of Rwanda Enterprise Architecture	9124
 Government of Rwanda Enterprise Architecture Framework	9124,3235
 Government of Rwanda Enterprise Architecture Framework.docx	9124
@@ -328,7 +331,7 @@ HELD ARCHITECTURE	3200
 HOL Archaeologists	2279
 HTTP Archive	6542
 Health Architecture	4301,7954
-Health Enterprise Architecture	396
+Health Enterprise Architecture	396,12185
 Health Organization ZTA Zero-trust Architecture	12240
 II. Legal Architecture	11036
 Implement Zero Trust Architecture	10721
@@ -370,9 +373,12 @@ Namibia Archives Act	12325
 National AI Delivery Architecture	7548
 National Archives	3088,4460,4305,472
 National Archives Act No.2	12325
+National Archives Records Management System	12597
 National Archives and Record Service of South	1009
 National Archives and Record Service of South Africa	11196
 National Archives and Record Services of South Africa	1009
+National Archives and Records Management Policy	12597
+National Archives and Records Management System	12597
 National Archives and Records Service of South Africa	8021,1,3174
 National Archives and Records Services Act	9525
 National Archives and Records Services of South Africa	8021
@@ -399,7 +405,7 @@ No. Date ISR Archived DO Rating	11924
 Numérisation des Archives	4025
 Open Architecture	5700
 Open Archival Information System	9888
-Open Group Architecture Framework	21,12338
+Open Group Architecture Framework	21,12338,222
 Open Group Architecture Framework UML	11184
 Open Menu Home Announcements Current Archives	12486
 Order of Architects	11941
@@ -408,6 +414,7 @@ PRIVACY AND SECURITY ARCHITECTURE	3861
 PalArch’s Journal of Archaeology of Egypt	4432
 Patient Synchronised Application Architecture	1009
 Per ARCEP	5005
+Picture Archiving and Communication System	12606
 Platform APC Article Processing Charge ARC	5246
 Platform-Led Finance Trust Architecture	11138
 Plus-value Cellule CCDA Organisme Archivage	10975
@@ -442,6 +449,7 @@ SURVEILLANCE ARCHITECTURE	9399
 Sector Enterprise Architecture	12359
 Sector Enterprise Architecture Lead	12359
 Secure Archival and Integrity Protection	3861
+Secure Archiving Policy	12674
 Security Architecture	5665
 Senior Blockchain Architect and Developer	11869
 Service Oriented Architecture	11371
@@ -461,6 +469,7 @@ Strategic Architecture AI	7548
 Surveillance Architecture	9399
 System Architecture As the CBE	11130
 System Architecture and Security Unit	12240
+Systems Architecture Design and Modernization Framework	12758
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 Tier Broadband Architecture Framework	11857
 Transformation Digitale Cina Lawson. ARCEP	1205

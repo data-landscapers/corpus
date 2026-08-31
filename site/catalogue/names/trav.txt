@@ -50,7 +50,7 @@ Electronic Travel Authorisation DHA GBVF Plan	11986
 Electronic Travel Authorisation Means	11986
 Electronic Travel Authorisation Target	11986
 Electronic Travel Authorisation The Electronic	6867,1
-Electronic Travel Authorization	5032,1223,3930,1801
+Electronic Travel Authorization	5032,1223,3930,1801,748
 FULL TRAVEL TIME	8603
 Food Travel Books Events Others Health	9646
 Foreigner Travel Document	12333
@@ -158,8 +158,10 @@ Travel Ban	7845
 Travel Documents and Passports	5533
 Travel Documents and Passports Bill	11986
 Travel IDs	7561
+Travel Lodge	12625
 Travel Rule	10138
 Travel System	11131
+Travel Travel	12754
 Travel World PR Day	7253
 Travel and Recreation	9815
 Travelers	7516,4648

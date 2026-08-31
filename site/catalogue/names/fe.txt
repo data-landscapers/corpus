@@ -5,6 +5,7 @@ AGEROUTE CI-ENERGIES FER CIPREL OIC PAA	2342
 AI Fears	5385
 AI Fellowshipsw	4126
 AI. The US Federal Trade Commission	12210
+ALL FEATURES	12681
 APPROPRIATE The Federal Republic of Nigeria	4301
 ARTICLE ENQUIRY FEEDBACK	6387
 ASFR Age Specific Fertility Rates ASPs	2775
@@ -41,10 +42,11 @@ Africa Tech Festival	3854,1954,1495
 African States Federal Executive Council Federal	10157
 Age Female Male Sex Ratio	12151
 Age Male Female Total Kenya	12151
-Age Specific Fertility Rate	12151,262
+Age Specific Fertility Rate	12151,262,226
+Age Specific Fertility Rate ASDR	12639
 Age Specific Fertility Rates	12151
 Age-Specific Fertility Rate	12413
-Age-Specific Fertility Rates	12413
+Age-Specific Fertility Rates	12413,259
 Agency Services Fees	12395
 Agenda of Fintech Festival Tanzania	2275
 Agricultura FETP Programa de Formação	11376
@@ -60,12 +62,14 @@ Allied GBVF Gender Based Violence and Femicide	11986
 Amal El Fellah Seghrouchni	3892
 American Enterprise Fellow Ryan Fedasiuk	5257
 Ana Fernandes	11149
+Annual Fees	12542
 Annual Renewal Fee	10738
 Anoumabo Urban Music Festival	6005
 Appearance and Security Features of Documents Issued	11868
 Applicable Fee Schedules for All Types of Construction	12389
 Application Fee	10738
 Application Fee KES	10738
+Application and Licence Fees	12542
 Architecting Feminist Digital Futures	8713
 Argentina Yes Plan Federal De Internet	11529
 Aristide Guy Adjinacou Gnahoui. Feeds	3387
@@ -113,10 +117,12 @@ Bolama Bijagós. Drª. Felisberta Aurora Menezes	11561
 Borgeaud and Fedus2022	8283
 Borrower the Federal Republic of Nigeria	2253
 Bosun Tijani The Federal Government	10386
+Botswana's Total Fertility Rate	12639
 Brookings Fellow	5302
 Bryce Ferguson	4716
 Burundi Federal Chamber of Commerce and Industry	9153
 C. Feuille	1218
+C.V. Raman Fellowship	12617
 CDSP Ill Beneficiaries Feature Animations Documentaries	9781
 CENTRE KADIOGO Femmes	10847
 CENTRE-EST BOULGOU Femmes	10847
@@ -160,6 +166,7 @@ Chinese Spring Festival	7845
 Chioma Obinna The Federal Government	7454
 Christian Fellowship. Employee Assistance Services	11131
 Cites EU AI Act's Feb-2025	6635
+Citizen Feedback Mechanism	12665
 Citizen Feedback System	6432
 Citizens E- Feedback	11951
 City of Cape Town Water Desalination Feasibility	11248
@@ -411,6 +418,7 @@ FETAL DEATH REGISTRATION	12338
 FETAPH	2966
 FETCH FAILURE	6540
 FETCH NOTE	2740,6,436,365,1005,188,317,1334,193,639
+FETP Frontline	12729
 FEWS NET	10763
 FEWSNET	10841
 FEixgpuenredit2u.r1e	10763
@@ -757,12 +765,14 @@ Federal and State-owned	4301
 Federal-Audit-Service-Commission-Bill.pdf	11866
 Federal-state	11596
 Federalism Requires Process	3615
-Federated	6720,3468,587,358,1081,218
+Federated	6720,3468,587,358,1081,218,252
+Federated Architecture Model for Government	12529
 Federated Ecosystems for Digital ID	10714
 Federated Health Information Architecture	1009,7594
 Federated Hospitality Association of Southern Africa	5533
 Federated Identity	10721
 Federated Identity. Document Digital	1009
+Federated Learning Analysis	12675
 Federated States	10840,165,760
 Federation	1014,925,314,94,34,1,8,137,4,403,522,406,240,3346,46,67,98,314,659,27,159,7,156,329,644,109,93,525,138,310,724,4,9,76,14,20,15,2,2,150
 Federation Account	2531
@@ -813,16 +823,17 @@ Feed Ghana	7695
 Feed Nigeria Every Day	5765
 Feed Salone	2872,2404,573
 Feed Salone Agenda	9965
-Feedback	1009,769,1724,102,257,700,1104,1557,537,31,257,960,121,644,1098,263,201,262,339,16,290,104,4,9,142
+Feedback	1009,769,1724,102,257,700,1104,1557,537,31,257,960,121,644,1098,263,201,262,339,16,290,104,4,9,142,175
 Feedback Channels	12356
 Feedback Channels Almost	9772
 Feedback Form	7590
 Feedback Informant	12151
 Feedback Loops and Data-Use Culture Feedback	11596
 Feedback Matters	11131,3
-Feedback Mechanisms	5665,6691
+Feedback Mechanisms	5665,6691,319
 Feedback Received	9772
 Feedback Response of Project Follow-up Timetable	1988
+Feedback and Recommendations	12675
 Feeder	7695
 Feeder ART Anti-Retroviral Treatment BOYD Bring	34
 Feeders	9123,2174
@@ -837,6 +848,7 @@ Fees Fees	736
 Fees Licence Fees	736
 Fees License Type Tenure Application Annual	10407
 Fees Limit Daily AdoptionSouth Africa	5691
+Fees PART VII	12535
 Fees Payable	12365,9
 Fees Service Type Tenure Application Annual	10407
 Fees Stress Policy	7695
@@ -904,6 +916,7 @@ Felix Biga	12192,86,223
 Felix Chipota Mutati	6201
 Felix Eduful Otabil	6936
 Felix Eigelshoven	4127
+Felix Gerber	12712
 Felix H	771
 Felix Houphouët Boigny	2342
 Felix Ike	10010
@@ -919,6 +932,7 @@ Felix&author	771
 Fell Short Kenya	8050
 Fellow	5440,110,1396,1263,76,1743,1278,509,141
 Fellow Africans	9959
+Fellow Heads of State and Government	12688
 Fellows	2732,3907,536,3077
 Fellows Paper	10028
 Fellowship	4528,2111,536,1034,118,137,425,871,2752
@@ -927,7 +941,7 @@ Felten	7789,3351
 Felten’s AI Occupational Exposure	11140
 FemDataSummit	8713
 FemTech	2239
-Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,417,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33
+Female	582,207,151,18,196,713,226,404,215,892,187,71,130,661,35,34,1857,254,95,19,505,417,8,9,244,716,935,855,132,12,32,17,41,70,24,12,28,79,97,12,203,130,28,7,295,19,7,1,20,3,13,6,40,1,6,17,6,12,145,24,24,21,8,18,5,16,61,8,10,33,4,17,9,2,2,18,9,20,33,162
 Female Across	12409
 Female Agripreneurs	5923,191,295,107,247,33,469
 Female Basic Phone Smartphone Feature Phone	582
@@ -976,7 +990,7 @@ Female-led	12339
 Female-owned	2712,3867
 Female. Figure	3862
 Female. Proportion	12383
-Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56
+Females	582,376,9810,196,5,162,61,692,1,10,264,1,44,1,146,4,54,4,18,56,152
 Females Board Composition Summary Gender Distribution	11131
 Femi Edgal	10572
 Femi Hamzat	2563
@@ -1089,9 +1103,10 @@ Fertile	1778
 Fertiliser Information System	8908
 Fertilisers Imports	11258
 Fertility	5889,6262,232,30
+Fertility Fertility	12655
 Fertility Measures	12151
 Fertility Other Measures	12383
-Fertility Rate	12151,232,30
+Fertility Rate	12151,232,30,242,17
 Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate TJ Tera Joules	2775
 Fertilizantes	4209
@@ -1125,7 +1140,7 @@ Fet.2013.0503&linkType	3782
 Fetal	10814,1337,187
 Fetal-death	12413
 Fetan Pay. Having	11620
-Fetch	1,1020,1209,26,2142,2261,4156,150,918,33,1,181
+Fetch	1,1020,1209,26,2142,2261,4156,150,918,33,1,181,430,5,4,37
 Fetched	3,9,223,192,338,233,146,47,27,29,17,310,127,106,60,126,581,334,951,1024,89,551,10,237,57,164,435,519,4,2,23,1,11,29,262,578,270,118,357,376,253,323,1,12,1,2,1182,7,207,174,1143,80,31,3,11,1,1,14,32,2,6,2,1,7,2,8,11,1,1,1,1,1,1,4,1,1,1,1,3,1,3,1
 Fetene	3791
 Fetene N	3791
@@ -1243,6 +1258,7 @@ Health Minister Mustapha Ferjani	7766
 Health Quality Public Perception of Female Leadership	12488
 Helena Fernandes	6822,34
 Helena Fernandes. Headcount	1526
+Home-Grown School Feeding Programme	12567
 Homme Femme	737
 Homme Femme Homme Femme Activités	10875
 Homme Femme S2Q05	6959
@@ -1275,6 +1291,7 @@ Implement... The Egyptian National Theatre Festival	7322
 Implementing Agency The Federal Republic of Federal	3456
 Import Declaration Fee	7548
 Inclusion of Government No Feb	11395
+Incorporate Feedback	12675
 India CIS Europe Russian Federation Switzerland	10844,719
 India CIS Russian Federation International Telecommunication	10764
 Individuals Individuals National Male Female	12251
@@ -1343,6 +1360,7 @@ LERABA Femmes	10847
 LES BALE Femmes	10847
 LGA and Federal Medical	11857
 LICENCE FEES Fees	736
+LO Licensed Features	12681
 LOROUM Femmes	10847
 La FEN	4739
 La FES	6959
@@ -1358,6 +1376,8 @@ Laws of The Federation of Nigeria	11853
 Le Commonwealth Startup Fellowship	10251
 Learning Feedback	12356
 Least One Female Founder	4972
+Lesotho National Federation Organisations	12661
+Lesotho National Federation of Organisations	12692
 Licence Fee	8582
 Licence Fee Annual Compliance Burn KES	10738
 Licence Fees	736,7846
@@ -1533,6 +1553,7 @@ Nonresident Fellow	1887
 Normas Técnicas Ferramentas Exemplos Benefícios Riscos	2816
 North Caribbean Africa Smartphone Feature	10977
 North West InfraCo and Data Center Feasibility	299
+Northern Division. Feasibility	12668
 Northern and KwaMashu WWTW and Reuse PPP Feasibility	11248
 Nothing Delta Wants Public Projects Feedback	10034,231
 Nov Dec Jan Feb Mar Apr	11953
@@ -1567,6 +1588,7 @@ P-SO-KZ0-001 The Federal Republic of Somalia	8669
 PARTICIPANT FEEDBACK Participants	11138
 PASSORE Femmes	10847
 PCU. Feedback	3604
+PHC Age Specific Fertility Rates	12655
 PHII. Federated	4782
 PLATEAU CENTRAL GANZOURGOU Femmes	10847
 PORTE- FEUILLE DE L’ETAT FORMATION DES	2342
@@ -1607,6 +1629,7 @@ Pour Ferdinand Tra	7214
 Preamble Implementation Procedures Feedback	3502
 President Felix Antoine Tshisekedi Tshilombo	5900
 President Felix Tshisekedi	11888
+President Festus Mogae	12617
 Presidente da República Pela República Federativa	11393
 Prime Minister and Minister of Federal Governance and Rural	8613
 Private Radio Station Fees and Conditions Licence	736
@@ -1698,6 +1721,7 @@ SALIENT FEATURES OF THE CORPORATE ACTIONS	4896
 SANGUIE Femmes	10847
 SANMATENGA Femmes	10847
 SC CRW E&S EDGE ESCR FE	1228
+SENATE BACKS FEE WAIVER TO BOOST	12738
 SENO Femmes	10847
 SEP TO DEC'24 JAN-25 FEB-25 MAR-25	8999
 SISSILI Femmes	10847
@@ -1812,9 +1836,11 @@ Telecom Towers The Federal Government	9362
 Telma Fernandes	8882
 Terminal Network Fee	6891
 Termination Fees	7198
+Tertiary Education Tuition Fees	12598
 Theatre Festival Unveils Intellectual Program... Saber	7322
 Through the Iso Lomso Fellowship	4448
 Through the Mastercard Foundation EdTech Fellowship	8209
+ToRs for ODI Fellow	12595
 Topics of Feedback Most Feedback	9772
 Townhalls and Feedback	11131
 Track and Analyze Federal Government Spending Over	11866

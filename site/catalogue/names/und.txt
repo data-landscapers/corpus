@@ -65,6 +65,7 @@ CASPs. Under	10452
 CCNA and IT Essentials. Undergraduate Programmes	12407
 CEO of SoleCrypt. Under	4933
 COMBATING CORRUPTION UNDP	11586
+COMMONWEALTH DIGITAL ROADSHOW UNDERWAY IN LESOTHO	12730
 CSA. Under	10268
 Cameroon Customs Information System. Under	6293
 Card Verification Under New L.I	7369
@@ -81,6 +82,7 @@ China Builds Underlying Infrastructure	10350
 China Memorandum of Understanding	7407
 Chips Joint Undertaking	6468
 Climate Change. Under	11417
+Collective Investment Undertakings Act	12629
 Commerce Undersecretary	7209
 Community FOR Under	12151
 Comprehensive Memorandum of Understanding	11185
@@ -94,6 +96,7 @@ Coverage UNDB United Nations Development Business	10829
 Cross-Border Data Exchange Guidelines. Under	4583
 Cyber and Data Protection Act. Under Statutory	8437
 Cybersecurity Implications of Chinese Undersea Cable	4676
+DATA SOURCES AND DISCLAIMER Under the Mission	12717
 DECISION ISSUED UNDER SECTION	2913
 DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73
 DIME UNDP	11295
@@ -130,6 +133,7 @@ EEA. Under	6539
 ES-08542-210318. UNDP	11006
 ESCCOM and UNDP	9423
 ETL and UNDP	8531
+EU and UNDP	12668
 EU. UNDP Malawi Quarterly Progress Report	12241
 Earn Certificates Under New Training Plan	10280
 Editorial Team F E Under	9964
@@ -183,6 +187,7 @@ Group of Undertakings	12302
 Guiding UNDP	11356
 Guinea-Bissau UNDP	2245
 Guinea-Bissau. UNDP	11586
+Head of UNDP's Digital Capacity Lab	12723
 Health Memorandum of Understanding	5165,3697,114,253
 Hectares of Land Placed Under Improved Management	11332
 Hectares of Land Under Improved Management Enhanced	11332
@@ -207,6 +212,7 @@ ITU and UNDESA	10844
 Identity Management Systems II. Under	6177
 Identity Underpinning	767
 Impact UNDP Mauritius Contribution	11332
+Impact UNDP's Lesotho Country Office	12723
 Impact of UNDP Malawi Quarterly Progress Report	12241
 Implementation Plan MoU Memorandum of Understanding MUBAS	12241
 Importance of Undersea Cables	2677
@@ -216,7 +222,7 @@ Inflation Down Under	11720
 Infrastructure Projects Under Construction	11218
 Infrastructure Support Agent MoU Memorandum of Understanding	11261
 Inter-Governmental Memorandum of Understanding	3760
-International IDEA and UNDP	9227
+International IDEA and UNDP	9227,3529
 Introduction Undersea	2677
 IoT. Under the Nigeria Data Protection Act	6070
 Ivoire and UNDP	6345
@@ -232,6 +238,7 @@ Kenya. Under the Regulations	12301
 Kigali Genocide Memorial Site Under	718
 KoboToolbox. Under the National Social Protection Strategy	4427
 L.10 Undecies	3537,2277
+LMPS and UNDP	12732
 Landmark Ruling For Private Bodies Under	6683
 Language of Leadership for Decision-makers UNDP Mauritius	11332
 Launch of NPR and Undertaking	12413
@@ -240,6 +247,7 @@ Lead for UNDP Europe and Central Asia	9170
 Leading Causes of Registered Deaths For Under	12151
 Legacy Constraining Progress Understanding Eswatini	4535
 Legal Harassment Under Cybercrime Laws Beyond	5215
+Lesotho National Energy Compact Targets Under	12717
 Libya. Under	9262
 M. Part of UNDP	951
 M.emorandum of Understanding	4302
@@ -269,11 +277,13 @@ Malawi. Under	4150
 Mathematics UNDP United Nations Development Programme	12376
 Mauritius. Under the ICTA	1401
 Media COMMISSION FOR GENDER EQUALITY UNDERTAKES	11257
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894,641,580,4,511
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894,641,580,4,511,25,138,82
+Memoranda of Understanding. BOS	12706
 Memorandum Of Understanding	11923
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205,119,24,31,43,25,64,163,80,151,139,23,116,38,33,31,21,1,15,4,20,26,57,3
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding MPOX	10776
+Memorandum of Understanding NSDP II	12759
 Memorandum of Understanding and Commercial Terms Agreement	6664
 Memorandum of Understanding. PIC. Business Botswana Business	2360
 Memorandums of Understanding	4030,2904,2497,1703,1224
@@ -290,6 +300,7 @@ MoU Memorandum of Understanding CIRT Common Market	12444
 MoU Memorandum of Understanding MSME Micro	1988
 Modernizing Government for Better Service Delivery UNDP	8861
 Monday. Under	5601
+Monetary Fund UNDP Lesotho European Union	12701
 Mrs. Nghikembua. Under the MoU	11713
 Multi-Country Cross-Border Memorandum of Understanding	11590
 Mutual Understanding	10601
@@ -416,6 +427,7 @@ Sustainable Development Goals. UNDP Mauritius Open	11332
 Switzerland. Under	10776
 TBI and UNDP	4046
 TBS. Under	5116
+TECHNICIANS UNDERGO TRAINING TO IMPROVE PROJECT	12733
 TOR Terms of Reference UNDP United Nations	1867
 Team-9 Initiative. Under	11579
 Technology and Innovation. Under	5898
@@ -451,6 +463,7 @@ UNDERSERVED AREAS Table	11857
 UNDERSTANDING	762,1688
 UNDERSTANDING AND MITIGATING THE RISKS So	11156
 UNDERSTANDING BARRIERS TO MOBILE INTERNET ADOPTION	11902
+UNDERSTANDING CAT	12574
 UNDERSTANDING PEOPLE’S LIVES	418
 UNDERSTANDING WOMEN'S MOBILE INTERNET USE	11902
 UNDERSTATEMENT PENALTY Part A Imposition	11181
@@ -518,6 +531,8 @@ UNDP Investing Beyond Crisis Mechanism	11356
 UNDP Kenya	8094,3251,11
 UNDP Kenya. Pledge	11345
 UNDP LESP Communications Specialist	8860,352
+UNDP Lesotho Accelerator Lab	12732
+UNDP Liberia Artificial Intelligence	12723
 UNDP Libya	1390
 UNDP Malawi	8286,861,2997,28,42,27
 UNDP Malawi Deputy Resident Representative	3820
@@ -539,6 +554,7 @@ UNDP Namibia's Inclusive Green Growth Portfolio	9873
 UNDP Nigeria	8471,1689
 UNDP Nigeria Resident Representative	10160
 UNDP Partners	6336
+UNDP Peacebuilding Fund	12732
 UNDP Project	12241
 UNDP Reaffirms Partnership	10160
 UNDP Regional Bureau for Africa	1564,2867
@@ -567,6 +583,7 @@ UNDP The Gambia	9170
 UNDP UNESCO USA USSD UZ VC	4528
 UNDP Uganda Country Office	11773
 UNDP Under	6336
+UNDP United Nations Cooperation Programme	12675
 UNDP United Nations Development Budgeting	11193
 UNDP United Nations Development Programme UNFPA	11586
 UNDP United Nations Development Programme UNICEF	10964
@@ -581,7 +598,10 @@ UNDP and ESEPARC	1994
 UNDP and Government of Malawi Officials	12241
 UNDP and Huawei. Malawians. Digital	12214
 UNDP and IOM	2967
+UNDP and Intel	12723
+UNDP and Intel Join Hands	12723
 UNDP and International IDEA	9227
+UNDP and LMPS	12732
 UNDP and Libya	3188
 UNDP and Microsoft	7588
 UNDP and Ministry of Local Government Strengthen Partnership	10346
@@ -626,6 +646,7 @@ UNDP-managed PAPEC	4280
 UNDP-owned	11546
 UNDP-supported	3004,955,1527,3711
 UNDP-supported Eswatini Youth Empowerment Programme	9197
+UNDP. Bringing AI	12723
 UNDP. Dedup	3892
 UNDP. E. Lessons Learned	3604
 UNDP. Exercise	2000
@@ -636,7 +657,7 @@ UNDP. Pre-adoption	5098
 UNDP. Together	6336
 UNDP... Eligible	9134
 UNDP65	12376
-UNDPLesotho	8100
+UNDPLesotho	8100,4652
 UNDPMalawi. UNDP Malawi Quarterly Progress Report	12241
 UNDPMauritius	11332
 UNDP’s Action Platform	12376
@@ -670,7 +691,7 @@ Undecided	7869
 Undecided NR	7869
 Undecided NR Base	7869
 Undenatured	6921
-Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40
+Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8,21,11,27,9,48,60,11,49,1,10,40,6,4,54,11,39,19,25,21,23,10,19,10,75,8,23,5,8,67,9,63,11,7,5,43,8,3,22,10,14,38,15,3,12,40,22,186,24
 Under AFRINIC	11797
 Under Administrative Circular No	5731
 Under Article	1742,3502,4670,2021
@@ -701,6 +722,7 @@ Under Goal	10550
 Under Guinea-Bissau’s Law	11550
 Under ICESCR	3583
 Under India	11902
+Under JCM	12543
 Under Kenya	7548
 Under Kenya’s VASP Regulations	9311
 Under Korean	10219
@@ -708,7 +730,9 @@ Under LOC of USD	2667
 Under LTA Regulations	1910
 Under Law	7903,3647
 Under Law No	3713,7195
+Under Lesotho	12688
 Under MCTD	4653
+Under MLHA	12612
 Under Mauritanian	4637
 Under Mauritian	7252
 Under Method	11036
@@ -727,6 +751,7 @@ Under PA13b	10779
 Under PILLAR	1000
 Under PRAASED	11905
 Under Phase II	6946
+Under Pillar	12729
 Under President Adama Barrow	5279
 Under President Xi Jinping the Chinese	2518
 Under Pressure From Nigerians	7176
@@ -760,6 +785,7 @@ Under the Acemoglu	11140
 Under the Act	6820
 Under the Advertisement Code	12294
 Under the Algerian	5376
+Under the BETP	12588
 Under the Bank	3318
 Under the Bilateral Agreement	4260
 Under the Buy Kenya Build	6946
@@ -770,10 +796,11 @@ Under the Civil Procedural Code	11550
 Under the Commission	11155
 Under the Commonwealth’s Nagdi	4172
 Under the Constitution	11900,394
-Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783
+Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206
 Under the Cyber Security and Crime Act	7777,3977
 Under the Cyber and Data Protection Act	4529
 Under the Cybercrimes Act	12232
+Under the DM	12588
 Under the DPA	12232
 Under the DSR	4676
 Under the Data Protection	12301
@@ -800,11 +827,12 @@ Under the ICT Act	34,8995
 Under the ISA	2826
 Under the Inclusive ICT Support Programme	3524
 Under the Income Tax	5247
+Under the Integrated Resource Plan	12609
 Under the Jordan	1243
 Under the MOU	5066,3560
 Under the MSA	6663
 Under the MTF	11136
-Under the MoU	6557,2811
+Under the MoU	6557,2811,3208
 Under the NIMC Act	9880
 Under the NTAA	4602
 Under the National Broadband Plan	3725
@@ -822,12 +850,14 @@ Under the Orange Business	8125
 Under the PAAF	11918
 Under the PAIF-PME	10845
 Under the Participation Agreement	4261
+Under the Peacebuilding Fund	12732
 Under the Personal Data Protection Act	5385
 Under the Primary Health Care	12004
 Under the Project	11855,110
 Under the RPL	11504
 Under the Registration of Persons Act	10890
 Under the Regulations	6512,1668,4121
+Under the Renewable Lesotho	12680
 Under the Renewed Hope Agenda	11126,342
 Under the Renewed Hope Agenda of Mr. President	11954
 Under the Reserve Bank	5544
@@ -851,7 +881,8 @@ Under the World Bank's EDGE	4214
 Under the World Economic Forum’s Network Readiness	236
 Under-5	12151,216,46
 Under-5 BRR	10714
-Under-five	10829,588,734,262
+Under-Five Mortality Rate	12639
+Under-five	10829,588,734,262,242
 Under-five Mortality Rate	12383
 Under-floor	9123
 Under-resourced	6832
@@ -883,6 +914,7 @@ Underpins Ethiopia	1804
 Underprivileged Communities	6948
 Underreporting	9616
 Underrepresented	9786
+Underrepresented Communities	12675
 Underscores	5825
 Underscoring	2145
 Underscoring IBSA	11183
@@ -916,10 +948,10 @@ Underserved Traditional Local Communities	1988
 Underserved Traditional Local Communities Cultural Heritage	12253
 Underspending	11230,18
 Understaffing	12325
-Understand	236,182,839,373,358,1291,871,2282,1345,1701,56,1187,283,212,686,46,16
+Understand	236,182,839,373,358,1291,871,2282,1345,1701,56,1187,283,212,686,46,16,762
 Understand The Security Requirements	34
 Understandably	10
-Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55,213,478,62,22,8,64,32,80,18,90,19,59,2,2,16,19,18,31,64
+Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55,213,478,62,22,8,64,32,80,18,90,19,59,2,2,16,19,18,31,64,246
 Understanding AI	6948
 Understanding Africa’s AI Governance Landscape	6603
 Understanding China	2518
@@ -938,6 +970,7 @@ Understanding MTR Mobile Termination Rate NEMA	6946
 Understanding Machine Learning Adoption	5349
 Understanding Maisha Namba	12227
 Understanding Media	8380
+Understanding NICA National Identity Cards Act	12663
 Understanding SMEs	9129
 Understanding Starlink's Capacity Constraints	7762
 Understanding Surveillance Trends	2549
@@ -964,7 +997,7 @@ Understanding-MOSIP-Biometric-Update-report.pdf	6025,263,83,172
 Understandlnfl User Needs	1009
 Understatement	11181
 Understood	7320
-Undertake	32,364,604,131,499,9145,443,768,165,34,143,125
+Undertake	32,364,604,131,499,9145,443,768,165,34,143,125,221
 Undertake ICT Number	12453
 Undertaken	5533,6453
 Undertakes	12226
@@ -984,6 +1017,7 @@ Undisbursed	2712,1941,35,6182,505,94,496,6,257,39,173
 Undisbursed Historical Disbursed	6928,949
 Undisbursed IDA	2989
 Undisbursed Themes Type Approval	11469
+Undocumented	12533
 Undoubtedly	2307,9880
 Undue	11857
 UnduePayment Payment	12364

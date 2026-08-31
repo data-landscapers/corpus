@@ -48,7 +48,7 @@ DHIS2 Database Responsibility for Data Collection	11417
 DataBank	10714
 DataBreachToday	3279
 DatabankWide.xlsx	11960
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,64,77
 Database Administration	9437
 Database Administrators	6832
 Database ID	6423
@@ -90,6 +90,7 @@ Extent Databases Contain Sufficient Information	11233
 External Data Sources DIMAMO Operational Database	8604
 Family Database	8891
 Findex Database	10977,1272
+Foundational ID. National ID Database	12533
 Full Contents of The Global Findex Database	10977
 GIS Addressing Database. At the Local Government	11129
 GSMA Tax Database. Côte	10932
@@ -121,6 +122,7 @@ Installers Database Application Forms	12515
 Integrated Database Development	12165
 Integrated Personnel Payroll Database	12254
 Intelligence Database	1000
+Interpol International Child Sexual Exploitation Database	12628
 Investments AVCA’s Venture Capital Database	4972
 Libyan Legal Database	0
 Local Addressing Database	11129

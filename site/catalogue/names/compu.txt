@@ -49,7 +49,7 @@ Big Data and Cognitive Computing	9128,2028
 Births and Deaths Compulsory Act	12064
 Botswana Computer Security	3887
 Botswana Computer Security Incident Response	3887
-Botswana Computer Security Incident Response Team	3887
+Botswana Computer Security Incident Response Team	3887,8738
 Branch Exchange PC Personal Computer PDF	34
 Business Case for Edge Computing	6773
 CAPI Computer Assisted Personal Interview Figure	582
@@ -78,6 +78,7 @@ COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
 COMPUTER INFORMATION SYSTEMS KENYA LIMITED Data	7167
 COMPUTER LEARNING CENTRE LIMITED Data Processor	7167
 COMPUTER REVOLUTION AFRICA GROUP LIMITED Data	7167
+COMPUTER-CRIME-AND-CYBER-SECURITY-BILL-2024.pdf	12675
 COMPUTERWAYS LIMITED Data Processor INST-2780679FFE9 NAIROBI	7167
 COMPUTING MACHINERY AND INTELLIGENCE. Mind	2816
 CPU Compute Modules	11209
@@ -128,6 +129,7 @@ Compulsion	7777,4273
 Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70,886,199,63
 Compulsory Briefing Session Meeting Registration Link	11240
 Compulsory Documents	11240
+Compulsory Registration of Births and Deaths	12523
 Compulsory Security Governance	4755
 Compulsory Social Security	2775
 Compulsory Specification NT National Treasury NYDA	11198
@@ -151,7 +153,8 @@ Computational Fluid Dynamics	9475
 Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Computational Intelligence	8022
 Computational Logic	11336
-Computational Resources	12356
+Computational Resources	12356,319
+Computational Resources Provide	12675
 Computational Sovereignty Zimbabwe National AI Adoption	12512
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computação	2816,7324,1237
@@ -185,7 +188,7 @@ Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
 Computed	11907
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69
 Computer Aided Personal Interview	12409
 Computer Applications	10001
 Computer Assisted Personal Interview	582,3462,6733,669,131
@@ -204,13 +207,15 @@ Computer Corridor	4194
 Computer Crime	12395
 Computer Crime Proclamation	11607,625
 Computer Crime Proclamation No	11607,625
+Computer Crime and Cyber	12674
 Computer Crime and Cyber Crime Act	1642
 Computer Crime and Cyber Security Act	1535
 Computer Crime and Cyber Security Bill	1200,335
 Computer Crime and Cybercrime	26,12369
 Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31
 Computer Crime and Cybercrime Draft Regulations	12395
-Computer Crime and Cybersecurity Bill	1535,7165
+Computer Crime and Cybersecurity Bill	1535,7165,3975
+Computer Crime and Cybersecurity Bill7	12675
 Computer Crimes Proclamation	1860,10333
 Computer Donation	8323
 Computer Donations	7394
@@ -222,7 +227,8 @@ Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
 Computer Emergency Response Teams	395,5137,145,5087,147
-Computer Engineering	11862
+Computer Engineer	12693
+Computer Engineering	11862,831
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58
 Computer Incident Response Teams	11920
@@ -246,7 +252,7 @@ Computer Owner	34
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Information Systems	10060
@@ -279,6 +285,8 @@ Computer Weekly and Submarine Networks	1991
 Computer X X	236
 Computer and Telecommunications Engineering	9128
 Computer-	26,8275
+Computer-Aided Detection	12678
+Computer-Aided Diagnosis	12678
 Computer-Aided Mass Valuation	12369
 Computer-Assisted Personal Interviewing	6106,4179,2118
 Computer-Assisted Personal Interviews	10757
@@ -290,8 +298,11 @@ Computer-related	582,201,6994,3402,1280
 Computer-related Forgery	26
 Computer-related Fraud	26
 Computer-related Offenses	12459
-Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4
+Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4,6945,17
 Computerisation P42	5634
+Computerisation Projects	12597
+Computerisation and Fleet Expansion Programmes. Funds	12606
+Computerisation of Records Management System	12597
 Computerised	9237
 Computerised Learner's Licence Testing System	12476
 Computerization	12138
@@ -303,10 +314,12 @@ Computers Conference	9237
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Computers Shipping	10759,78,1315,188
 Computers and Education	11879
+Computers for Schools	12529
 Computing	2096,7379,1660,5
 Computing Can Unlock	4970
 Computing Centre	5932,2574
 Computing Infrastructure	7548
+Computing LAST Lesotho Academy of Science and Technology	12675
 Computing Machinery and Intelligence	2816
 Computing Platforms	1814
 Computing Power Hub	5242
@@ -326,11 +339,12 @@ Contemporary Computing and Informatics	9237
 Cost of Compute	4528,7984
 Curriculum ICDL International Computer Driving License	12329
 Cyber Crimes and Computer Abuse Act	5083
+Cyber Crimes and Computer Related Crimes Act	12586
 CyberCrimes and Computer Abuse Act	5107
 Cybercrime and Abuse of Computer Bill	4223
 Cybercrime and Computer Misuse Act	6006,1441
 Cybercrime and Computer Misuse Bill	4583
-Cybercrime and Computer Related Crimes Act	3887
+Cybercrime and Computer Related Crimes Act	3887,8675
 Cybercrimes and Computer Misuse	12459
 Cybercrimes and Computer Misuse Bill	4042
 Cybercrimes and Computer Misuse Provisional	12459
@@ -416,9 +430,10 @@ HAG Personal Computers Traitement	10821
 Hariri Institute for Computing	11135
 High Performance Computer	5847,5344
 High Performance Computers	1814
+High Performance Computing	12728
 High Performance Computing Center	51
 High-Confidence Computing	8605
-High-Performance Computing	2816,1712,875,2145,4808,156
+High-Performance Computing	2816,1712,875,2145,4808,156,224
 High-Performance Computing Center Project	51,134
 High-Performance Computing Centre	3561
 High-Performance Computing and Data Processing Centre	2117
@@ -428,10 +443,12 @@ IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
 INDIVIDUAL OWNERSHIP AND USAGE OF COMPUTERS	582
 INVALID. PART C CHECKLIST OF COMPULSORY	11240
+ITIL and Cloud Computing	12693
 IndabaX Hackathon Computer Science Society Staff	12361
 Individuals Computer Usage	12251
 Information Technology BSc Computer Science Education	12361
 Information Technology and Computer Science	6832
+Information Technology and Computer Training	12677
 Infrastructure and Compute	7548
 Infrastructure and Compute Constraints Kenya	7548
 Institute for Quantum Computing	9698
@@ -464,6 +481,7 @@ Kenya’s National Computer and Cyber Crimes Coordination	8095
 LOCATION OF FINANCIAL COMPUTING FACILITIES	1243
 Laptop Computer Specifications DATE QUANTITY	34
 Legal Protection of Computer Programs	5700
+Lesotho Communications Sector Computer Security Incident	12759
 Lesotho. Procedia Computer Science	8605
 Liberia Computer Emergency Response Team	4583
 Location of Computer Facilities	12364
@@ -475,6 +493,7 @@ MET Computerisation	1668,977,2998
 MHE Computerisation	2653
 MJCS Computerisation	2651
 MLA Computerisation	2640,2996
+MLHA Computerisation	12597
 MSP Computerisation	1660,977,2995
 MTE Computerisation	2642,2996
 MTI Computerisation	1665
@@ -491,6 +510,7 @@ MoE Computerisation	1675
 MoF Computerisation	1661,977,1208,1,1786
 MoH Computerisation	1666,977,2996
 MoHE Computerisation	5652
+MoHE Computerization	12612
 MoSA Computerisation	2654,2999
 Mozambique's Computer Emergency Response Team	761
 NCC's Computer Security Incident Response Team	5677

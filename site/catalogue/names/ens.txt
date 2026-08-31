@@ -67,6 +67,7 @@ ENSINO SECUNDÁRIO	10777
 ENSINO SECUNDÁRIO GERAL	10766
 ENSINO SECUNDÁRIO PEDAGÓGICO	10766
 ENSINO TÉCNICO-PROFISSIONAL	10766
+ENSO. Data	12611
 ENSPT	10948
 ENSSB	12247
 ENSSB II	12142
@@ -249,13 +250,14 @@ Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
 Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68
-Ensure AI	1814,2714,7828,156
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33,102,6,36,10,6,13,3,10,6,7,13,2,31,16,26,28,2,1,14,26,5,40,68,162,1,79
+Ensure AI	1814,2714,7828,156,163
 Ensure AU Member States	1814
 Ensure Access	4528,7329,655
 Ensure Accountability	3503,8853
 Ensure Annual School Census	11860
 Ensure Cloud Networks And Connections	34
+Ensure Compliance and Monitoring	12675
 Ensure Curriculum	958
 Ensure Cybersecurity Awareness	1000
 Ensure Data Security Kenya	12143
@@ -269,8 +271,10 @@ Ensure Inclusivity CBZ Bank Crowned Zimbabwe	2987
 Ensure Intellectual Property	958
 Ensure Interoperability	11995
 Ensure Long	11131,3
+Ensure Long-Term Sustainability	12675
 Ensure O&M EHS Plan	1988
 Ensure Proper Protection of Data and Information Security	34
+Ensure Public Transparency	12675
 Ensure Reporting	11857
 Ensure Security and Resilience of Infrastructure	958
 Ensure Socio-Economic Development	11134
@@ -279,15 +283,17 @@ Ensure Strategic Align	1777
 Ensure Strategic Alignment of NCC	1777
 Ensure Their Growth	10718
 Ensure Transparency	11995
+Ensure Transparency and Explainability Mandate	12675
 Ensure Vulnerable Groups	1000
 Ensure XML	12360
 Ensure the Alignment	1777
 Ensure the National Cloud Policy	11995
-Ensured	10776
+Ensured	10776,1953
 Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4,262,32
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7,184,9,7,2,4,19,7,1,5,7,4,40,5,26,1,27,8,5,9,21,12,42,99,56,15,40,6,5,1,84
 Ensuring Agile AI Governance	12210
+Ensuring Ethical Usage of AI	12675
 Ensuring ICT	12453
 Ensuring Justice and Equality The Charter	2958
 Ensuring National Population	12323
@@ -300,6 +306,7 @@ Ensuring Transparency and Accountability	2958
 Ensuring Young People Succeed Sub-Saharan Africa	1363
 Equipamiento de Enseñanza	4209
 Escola de Formação de Professores Ensino Geral Avaliação	10766
+Ethical Framework Ensure	12674
 Etudes Bancaires Direction des Enseignements	10237
 Excel. As Instituições de Ensino Superior	11391
 Experts Ensure	4126
@@ -325,6 +332,7 @@ II Ciclo Ensino Secundário	10766
 II. Ensure	4260
 INCLUSIVE AND SUSTAINABLE FINANCE Ensuring FinTech	12444
 INSTITUIÇÕES DE ENSINO SUPERIOR	11391
+IV. Ensure	12706
 IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
 IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 Inclusive and Ensuring FinTech	12444
@@ -401,6 +409,7 @@ Stacking Ensemble Regres-	8604
 Subsistemas de Ensino. FORMAÇÃO PROFISSIONAL BÁSICA	10766
 Substantial Ensure	10768
 Sud-Ouest Ensemble	10875
+Sustainable Ensuring	12674
 Système Statistique National Ensemble	10874
 TIC NO SISTEMA DE ENSINO	11397
 Tracking System Ensuring	4260

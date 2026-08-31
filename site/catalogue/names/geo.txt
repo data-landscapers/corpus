@@ -59,7 +59,7 @@ Digital Geography and Society	8185,1047
 Digital Technology and Innovation Samuel Nartey George	3543,4744
 Digital Technology and Innovations Samuel Nartey George	3550
 Direção-Geral de Geologia	11527
-Dr. George Ah-Thew	318
+Dr. George Ah-Thew	318,12378
 Dr. George C. Ogonji Data Processor	7167
 Dr. George Elombi	4401
 Draft Exclusive Geographic Areas	7980,109
@@ -124,6 +124,7 @@ GeoMaize The GeoMaize	11239
 GeoNames	1828
 GeoPackage	5785
 GeoPackage. Failure	5785
+GeoPandas	12547
 GeoPoint	6423
 GeoPoll	6102
 GeoPortal	7130
@@ -158,6 +159,7 @@ Geographic Approach	11252
 Geographic Approach The EMR	11252
 Geographic Area	11252
 Geographic Area and Coverage	11252
+Geographic Barriers	12761
 Geographic Clusters	12053
 Geographic Coverage of Western Cape Region	8999
 Geographic Distribution and National Resilience In Nigeria	10157
@@ -165,7 +167,7 @@ Geographic Distribution of Businesses	12445
 Geographic Exposure	11140
 Geographic Focus REGIONAL PROFILE	4972
 Geographic Information System	104,685,1803,2773,4284,303,1177,585,146,529
-Geographic Information Systems	1222,10719,13,27,380
+Geographic Information Systems	1222,10719,13,27,380,301
 Geographic Origin	4972
 Geographic Performance	4130
 Geographic Performance MTN	4130
@@ -179,7 +181,7 @@ Geographic and Devolution Scope This Policy	7548
 Geographic and Population Coverage	6000
 Geographic information system	5785
 GeographicReference	4856
-Geographical	10829,304,2,720,296,176,6,80
+Geographical	10829,304,2,720,296,176,6,80,210
 Geographical Coverage	11955
 Geographical Coverage ATM	11955
 Geographical Coverage of Terminals	11955
@@ -211,7 +213,7 @@ Geometry of Power	3463
 GeomsK	1885
 Geomxn	12478
 Geoorloofde	11190
-Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341,173
+Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341,173,163
 Geopolitical AI	11135
 Geopolitical Contest India	9431
 Geopolitical Currency	8629
@@ -298,6 +300,7 @@ Geospatial AI Ops Atlas AI	5226
 Geospatial Capability	520
 Geospatial Data	196,3665
 Geospatial Data Platform	1796,1413
+Geospatial Information Centre	12588,2
 Geospatial Information Dashboard	11277
 Geospatial Information Management Strategy	11275
 Geospatial Information Systems	11261
@@ -357,6 +360,7 @@ Installed Geothermal	12256
 Instituto Geodesía	10761
 Instituto Geográfico	11408
 Instituto Geológico	1701
+Integrated Geographic Information System	12590,15
 Integrated Georreferenced Assets Management System	11939
 Integrated Geospatial Information Framework VAT	11261
 International Geophysical Year	6997
@@ -469,6 +473,7 @@ Sistema de Referência Geográfica	11405
 Sistemas de Informação Geográfica	4979
 Society of Exploration Geophysicists	11405
 Software GeoGebra Impulsiona Inovação	10349
+South African Journal of Geomatics	12547
 Southern Africa Geography	10759,1395,186
 Space Science and Geospatial Institute	1796,1413,9067
 St Georges Primary School	10049
@@ -484,6 +489,7 @@ Tina George Karippacheril	10985
 Tina George and Phillippe Leite. World Bank	11133
 Tinubu Seeks China’s Geophysical Data Partnership	9018
 Transformation Through Geospatial Data	6903
+U.S. Geological Survey	12611
 UCC Executive Director George William Nyombi	6207,56
 UCC Executive Director George William Thembo	10563
 US Geological Survey's EROS Data Center	11334

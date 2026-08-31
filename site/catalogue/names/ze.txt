@@ -359,7 +359,7 @@ Zero-Tolerance	4528,7984
 Zero-Touch Broadband	5133
 Zero-data	11591
 Zero-rate	6948,4909,83
-Zero-rated	6748,200,4615
+Zero-rated	6748,200,4615,1067
 Zero-rating	544
 Zero-trust	10025
 Zero-trust Architecture	12240

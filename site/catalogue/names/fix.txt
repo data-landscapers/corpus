@@ -76,7 +76,7 @@ Fixate	7751
 Fixating	9759
 Fixação	11518,2
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
@@ -161,6 +161,7 @@ Fixed Service Offices	8999
 Fixed Service Providers	3862,3084
 Fixed Service and Incoming	3898
 Fixed Service and Wholesale Transit Revenue Fixed	3898
+Fixed Solutions Internet	12769
 Fixed Telephone	2775,1
 Fixed Telephone Financial Year	12395
 Fixed Telephone Lines	12395
@@ -178,7 +179,7 @@ Fixed VoIP Subscription Market Shares	6000
 Fixed VoIP Subscription Market Shares Liquid	6000
 Fixed VoIP Subscriptions	6000,671
 Fixed VoIP Subscriptions Operator Q3	6000
-Fixed Voice	2776
+Fixed Voice	2776,9993
 Fixed Voice Call Traffic	3862
 Fixed Voice Minute of Use	2776
 Fixed Voice Minute of Use6 Fixed Voice	2776
@@ -198,7 +199,7 @@ Fixed Wired	3862
 Fixed Wired Broadband Fixed Wireless Broadband	12395
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
-Fixed Wireless	3862,2809
+Fixed Wireless	3862,2809,5865
 Fixed Wireless Access	2528,2808,339,325,4793,165,1357
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
@@ -235,6 +236,7 @@ Fixed-term	10776,358,162
 Fixed-wired	12395
 Fixed-wireless	1818,5080,5497
 FixedBB	11563
+Fixedsales	12769
 Fixer	7920,971,1985
 Fixes	998
 Fixes L’évolution	998
@@ -295,6 +297,7 @@ Mbps. Fixed	1818
 Mn Fixed	3898,2202
 Mn Fixed Service and IoT	3898
 Mobile Data and Fixed Broadband	11262
+Mobile Drive Test and Fixed Internet Test	12616
 Mobile Fixed	1013
 Mobile Network Operators Fixed Network Operators	12395
 Mobile and Fixed Network	2776
@@ -355,6 +358,7 @@ Uzbekistan. Fixed-broadband	10844
 VDSL and Fixed Wireless Access	1818
 VHF PMR Fixed	6946
 VOICE SUBSCRIPTINS- FIXED WIRED	3862
+Vodacom Broadband Fixed Wireless	12769
 Voice Traffic Fixed	2776
 WHOLESALE RETAIL BROADBAND FIXED MOBILE	6539
 WRITE AMOUNT IN N A- Fixed	582

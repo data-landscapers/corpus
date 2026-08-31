@@ -95,10 +95,11 @@ Encontrar	1701,1115,7931
 Encontrámos	8179
 Encore	2629,478,292,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,1234,1740,290,96
 Encounters	11578
-Encourage	940,18,3,39,243,571,126,728,290,150,753,265,722,396,431,1,1,3,762,494,12,547,53,3173,120,163,136,56,658,3,107,250,19,20,103,20
+Encourage	940,18,3,39,243,571,126,728,290,150,753,265,722,396,431,1,1,3,762,494,12,547,53,3173,120,163,136,56,658,3,107,250,19,20,103,20,298,1,5
 Encourage DFS	1161
 Encourage ISPs	1000
 Encourage Innovation	11952
+Encourage International Collaboration Work	12675
 Encourage Member States	1814
 Encourage WATRA	5677
 Encourage Web	1000
@@ -146,6 +147,7 @@ Grupo E Encargado Grupo E Especialista	4209
 II Encuesta Demográfica	4209
 II Encuesta de Población Activa-EPA	4209
 IP and Patents Unit Encourage	4126
+Innovation and Collaboration Encouraging	12674
 Investment Encouragement	12376
 Jefe Servicio Grupo G D.G. ENCARGADO	4209
 LE GOUVERNEMENT DÉFEND UN ENCADREMENT STRICT	5157

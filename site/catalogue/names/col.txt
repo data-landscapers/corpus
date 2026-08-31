@@ -59,8 +59,8 @@ Bomet University College Data Controller INST-2221615DBAC	7167
 Bomet University College Data Processor INST-76185125576	7167
 Book Collection	961
 Boston College	5224
-Botswana Accountancy College	4060
-Botswana Public Service College	5250
+Botswana Accountancy College	4060,8538,14
+Botswana Public Service College	5250,7347
 Brazil Chile Uruguay Colombia Peru Costa	11135
 Brazil and Colombia. Rwanda	8449
 Brazilian and Colombian	9639
@@ -266,11 +266,12 @@ Colin Walsh	9713
 Colina CanoL. Assessing	12246
 Collab Citizen	11251
 Collab Citizen App	11251
-Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40
+Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191,707,62,181,69,66,76,20,77,40,83,1,98,79
+Collaborates	12639
 Collaborateur	3879
-Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130
+Collaborating	1243,850,185,497,829,1244,685,144,359,4805,1145,254,6,130,298
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242,353,35,14,11,106,100,122,63,20,37,26,107,6,122,1,86
 Collaboration Age Group	582
 Collaboration Becoming	1810
 Collaboration Index	7548
@@ -284,17 +285,18 @@ Collaboration Updates	1154
 Collaboration and Commercialisation. Commercialisation	10098
 Collaboration and Information	12359
 Collaboration and Knowledge Sharing Pursuant	11134
-Collaboration and Partnership	4528,7828,156
+Collaboration and Partnership	4528,7828,156,130
 Collaboration and Partnerships	1154
 Collaboration for Better Governance	11867
-Collaborations	1903,572,1692,1277,5332,514,1066
-Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2,219,577,220,56,242
-Collaborative Approach	1718
+Collaborations	1903,572,1692,1277,5332,514,1066,190
+Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2,219,577,220,56,242,163,86
+Collaborative Approach	1718,10956
 Collaborative Foundations for Implementa-	4848
 Collaborative Opportunities	12376
 Collaborative Regulation	5241,811
 Collaborative Regulation and Building Digital Ecosystems	6052
 Collaborative Regulation. Convened	6052
+Collaborative Research Programs	12675
 Collaborative Risks Specific Risk	4528
 Collaborative Support for Health Systems Strengthening	97
 Collaborative Work of Loan Payment	226
@@ -309,13 +311,15 @@ Collate	5681,5448
 Collateral	940,71,9707,1646
 Collateral Agent	4462,250
 Collateral Amounts	4517,2461
+Collateral Arrangements	12653
 Collateral Benefit Principle	1829
 Collateral Mysteries	12227
-Collateral Registry	940
+Collateral Registry	940,11658,103
 Collateral Registry Page	940
 Collating	12325
 Colleagues	6152,3706,595,803
-Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68
+Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430,622,68,422
+Collect Data	12642
 Collect Hours	11563
 Collect Prepare Calculate Calculate Optimal	10856
 Collectables	8494
@@ -327,7 +331,7 @@ Collectible3	12500
 Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805,6039
 Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100,360,3,36,27,312,39,105,17,52,32,31,112,8
 Collection Average	11417
 Collection Becomes Harder When Ugandans Doubt	3955
 Collection Date	3861
@@ -350,10 +354,12 @@ Collection and Curation. Volume	8021
 Collection and Processing	4951
 Collection and Processing Personal Data	11662
 Collection and Processing Regulations	4951
+Collection and Recovery of Tax Division	12629
 Collection and Transportation	718
 Collection of Administrative Data	12344
 Collection of Biometric Data	11877
 Collection of Fund	7538
+Collection of VAT	12630
 Collections	3583,1,4313,10,807,3541,245
 Collections for Public and Private Sectors	12000
 Collective	2096,529,2417,658,531,459,248,907,41,1006,2068,178,86
@@ -368,6 +374,9 @@ Collective Davos	4723
 Collective Defence Primary	11138
 Collective Intelligence	2096,6604
 Collective Investment Scheme	8464
+Collective Investment Scheme Common Monetary Area	12701
+Collective Investment Undertakings Act	12629
+Collective Labour Agreements	12566
 Collective Management Organisations	10562
 Collective Model for Sustaining DHIS2 DHIS2	6153
 Collective Sudan	6947
@@ -375,14 +384,14 @@ Collective Threshold Below	8283
 Collective X	6832,4114
 Collective X and Harambee	5551
 Collective. At Venture	12339
-Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98
+Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330,518,255,98,253,137
 Collectivité Cercle	9287,55
 Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858
 Collectivités Territo-	2342
 Collectivités Territoriales	643,1699
 Collectivités Territoriales Décentralisées	10965,10
 Colleen Wile	12327
-College	6727,1142,153,3840
+College	6727,1142,153,3840,735
 College English Test Band	8460
 College Hospital First Bank Of Nigeria	11129
 College London	899
@@ -450,9 +459,10 @@ Colo Colocation DC Data Center DIF	10781,1646
 Colo and Raxio	2634
 Coloca São Tomé	4747
 Colocación	4209
-Colocation	593,2884,2316,3330,1833,1329
+Colocation	593,2884,2316,3330,1833,1329,484
 Colocation Cut	9446,1510
 Colocation NDC National Data Center DC	3184,1,1340,6470
+Colocation Vodacom	12769
 Colocação	11373,57
 Colocação de Sinais	794
 Cologne-based	6879
@@ -600,6 +610,7 @@ Data Collection and Real-Time Monitoring Effective Spectrum	5245
 Data Collection and Registration Centre	11928
 Data Colonialism	961,7668
 Data MIS Collection Collection Households	10964
+Data and Information Collection	12530
 Data for Health Cross-Country Collaboration Series	11157
 Dates of Data Collection Mode	10862
 De la Collecte	998
@@ -641,6 +652,7 @@ Election Guidelines. Collectively	8866
 Electronic Payments and Collections	12000
 Emma Hobson and Colin Andrews	10985
 Emmanuelle Collet du Systèmes des Nations-unies	5530
+Encourage International Collaboration Work	12675
 Eng. Collins Mbulo	3524,5558
 Enhancing Collection of Revenue and Expenditure	3295
 Enhancing Collection of Revenue and Expenditure Management	3295,20
@@ -654,6 +666,7 @@ Etat Collectivité APE Promoteur Plan BF	10847
 Expert Collaboration	12356
 FAS-IDL Methodology for Data Collection FAS-IDL	10768
 FAS-IDL Responsibility for Data Collection Page	10768
+FIRST CYCLE OF DATA COLLECTION	12717
 FSD Zambia and MM4P Collaboration	12376
 Federal College of Education	9576
 Federal Unity Colleges	8586
@@ -662,7 +675,10 @@ FinTech Collaboration Corridor	9491
 Finance Hub A Call for Collaborative Action	12444
 Following Mayor Ada Colau	5700
 Forecasted Collection	3583
+Foster Academic-Industry Collaboration	12675
 Foster Collaboration and Investment	12356
+Foster Collaborative Projects	12675
+Foster Global Collaboration	12675
 Fostering International Collaboration	12356
 Foundations for Collaborative Regulation Date	5241
 Founder Collective	529,10599
@@ -707,16 +723,20 @@ INIS Report Methodology for Data Collection INIS	11417
 IP Principais Colaboradores Internos	2816
 ISPs Methodology for Data Collection Data	3604
 ITU Methodology for Data Collection Data	3604
+Identify Key Summits and Collaborations	12675
 Immigration’s Aslem Umogbai Collected N1.2m	7176
 Imperial College	1246
 Imperial College London	10251
 Import Duty Collections	2775
 Imposto de Rendimentos de Pessoas Coletivas. Exemplos	12018
 Individuelle Collective Propriétaire Prêt	737
+Industry Collaboration	12675
 Industry and Cooperatives and Col Edith Nakalema	6576
+Information Collection and Enforcement	12629
 Information and Collaboration System	11939
 Ingham and Collerette	8130
 Initiative for Collective Voice	11866
+Innovation and Collaboration Encouraging	12674
 Innovation and Industry Collaborations Posted	6480
 Insolvency Collateral Registry Hire Purchase Registry	12280
 Institutional Isomorphism and Collective Rationality	5349
@@ -728,6 +748,7 @@ Inter-Agency Collaboration	12356
 Interagency Collaboration Among Law Enforcement Agencies	11928
 Interagency Collaboration WAPIS	11928
 International Collaboration	4528,6248,1736
+International Collaboration and Alignment	12675
 International Collaboration and Partnerships	12356
 International Collaboration and Standards	5245
 International Colloquium	10864
@@ -762,6 +783,7 @@ Le Colonel Maina Boukar	10547
 Le Colonel-major Idrissa Chaibou	4813
 Lead Arranger and Collateral Agent	4712
 Les Centres de Collecte des Données	10891
+Lesotho College of Education	12726
 Liberia College of Physicians and Surgeons	4202
 Likouala Timber Company. Collaboration	11897
 Loud Colors ApS Lrytas M1-AUB	8530
@@ -834,6 +856,7 @@ Ministry of Education. Colombia	2566
 Ministry of Revenue Tax Collections	12500
 Ministry of Small Business Development Collaborate	11195
 Mobile Backup Collection	12508
+Moeng College	12618
 Morehouse College	36
 Morgenster Teachers' College	4528,7984
 Mpumalanga CET College	11281
@@ -905,6 +928,8 @@ Pierre Collet	1183
 Plataforma Kobo Collect	11562
 Platform for Collaboration	1828
 Police College	5174
+Police Training College	12763
+Police Training College Police Stations	12763
 Poor Collaboration and Institutional Fragmentation	6936
 Poor Collaboration and Institutional Fragmentation Challenge	6936
 Portail National des Collectivités Territoriales	557
@@ -952,6 +977,7 @@ Relevance Collaborate	11004
 Rendimentos Pessoas Coletivas	12018
 Reporting Responsibility for Data Collection The MOH	11417
 Research Collaboration The RCZ and POTRAZ	1154
+Research and Collaboration	12675
 Research and Development Collaboration	1814
 Responsibility for Data Collection	11417
 Responsibility for Data Collection Children	10829

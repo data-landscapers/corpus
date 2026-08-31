@@ -16,6 +16,7 @@ Aluguer de Licença	794
 Amendment of License Conditions	762
 Any Licensee	736,26
 Application Modification Licence No	736
+Application and Licence Fees	12542
 Application for Driving License	12333
 Application for Licences	736
 Approval and License Issuance	5665
@@ -44,6 +45,7 @@ Broadcasting Licensing The Authority	6946
 Broader Licensing and Ownership Framework	6891
 Business Licences	9437
 Business Licensing	12218
+Business Licensing and Registration	12737,1
 Business Registration and Licensing Agency	5883,933
 Bénéficiaires de Licences Individuelles	998
 CAPÍTULO III LICENÇAS ARTIGO	11520
@@ -101,6 +103,7 @@ Cumulative Number of Telecommunications Licensees	6946
 Curriculum ICDL International Computer Driving License	12329
 DC. License	10977,172
 DSB Licence	6946
+DUTIES AND OBLIGATIONS OF LICENSED SERVICE	12616
 Data Center Service Provider License	762
 Data Controller Licence	5562,4606
 Data Controller License	1877,1126
@@ -130,6 +133,7 @@ Driving License Exam Results	12333
 Duplicate of Driving License	12333
 E LICENÇAS AMBIENTAIS	11898
 ECTS Licenciatura	11534
+ELECTRONIC PAYMENT SERVICES LICENSING GUIDELINES	12542
 Effect of License Revocation	762
 Electricity Licensing Regulations N	718
 Emission License	1988
@@ -211,7 +215,7 @@ Interepretation. PART II Public Licences	736
 International Computer Driving License	10865
 International Courier License	718
 International Gateway License	762
-International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19
+International License	5656,4083,1045,222,1,147,1,852,83,137,28,212,19,221
 International Public License. Any	10841
 Internet Service Provider License	762
 Internet Services Licence	11788
@@ -230,6 +234,7 @@ LICENCE FEES Fees	736
 LICENCES	11211,51
 LICENCES OTHER THAN PRIVATE RADIO	736
 LICENCIA D3 ACTUAL ACTUAL TOTAL TESORO	4209
+LICENCING REQUIREMENTS	12542
 LICENSE	12478
 LICENSE AND SHARES	762
 LICENSES	762
@@ -240,11 +245,13 @@ LICENSING REQUIREMENTS Section	2913
 LICENSING The Regulatory Authority	718
 LICs and LMICs	771,9943
 LMD Licence-Master-Doctorat MEN Ministère	12
+LO Advanced Electronic License	12681
+LO Licensed Features	12681
 LTA License	10407
 LTA-issued Satellite Communications License. Stakeholders	10406
 LTE Licensees Expansion	11857
 Legislação de Licenciamento Ambiental	11898
-Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3,1121,1,94
+Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3,1121,1,94,208
 Licence Appeals By Rihab Ben Moussa	6784
 Licence Application Forms	736
 Licence CCCE Comité Consultatif des Consommateurs	10975
@@ -270,7 +277,7 @@ Licence. Fincra	6368
 Licence.pdf	2677
 Licenced	8180,2473
 Licencees	8841,1897
-Licences	11,725,234,628,279,3656,2598,2985,870,76
+Licences	11,725,234,628,279,3656,2598,2985,870,76,477
 Licences Electrical Worker C2 C1 B	12256
 Licences Issued	12062
 Licences Professionnelles	10893
@@ -314,7 +321,7 @@ License and Regulatory Fees	10407
 License for Radiation Sealed	718
 License-free Data	11854
 License. PART FIVE RADIO FREQUENCY SPECTRUM	762
-Licensed	718,2057,355,1429,1106,1713,385,2092,468,84,2038
+Licensed	718,2057,355,1429,1106,1713,385,2092,468,84,2038,90,228
 Licensed CC	7954,1071
 Licensed CC BY-NC-SA	3162
 Licensed Captive Power Capacities1	2775
@@ -328,6 +335,7 @@ Licensed Network Owned	736
 Licensed Payment Service Providers MTN Fintech	12390
 Licensed Personnel	2775
 Licensed Pharmacy Premises	9855
+Licensed Service Provider	12616
 Licensed Service Providers	236
 Licensed Software Testing Organisation	5665
 Licensed Software Testing Organisations	5665,2759,15
@@ -335,7 +343,7 @@ Licensed TV Stations	2776
 Licensed Testing Organisation	5665
 Licensed Testing Organisations	5665
 Licensed Verification Agents	3703
-Licensee	306,456,3970,3850,546
+Licensee	306,456,3970,3850,546,3430
 Licensee Installed Capacity	12399
 Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740,538
 Licensees Interference	736
@@ -345,13 +353,15 @@ Licenses	762,1150,765,2743,4435,761,240,1533,6
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
-Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6
+Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6,140,2,116,1
+Licensing Agreement	12723
 Licensing Board	7845
 Licensing Categories This Guideline	5665
 Licensing Considerations	6432
 Licensing Criteria	12389
 Licensing Division Licensing USAC Sercretarial Management	6946
 Licensing Fees Client	5665
+Licensing Guidelines	12542
 Licensing II	6946
 Licensing Mechanisms	5245
 Licensing Process Application Submission Testing	5665
@@ -415,6 +425,7 @@ MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL CULTURA	4209
 MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL INFORMACIÓN	4209
 MEDIO AMBIENTE LICENCIA TOTAL TESORO PÚBLICO	4209
 MHz Spectrum Licence	89
+MTC Managing Director Dr Licky Erastus	12596
 MTN Rwandacell Plc License	718
 MW Licence	10975
 Mali Telecoms Licence Renewal	1440
@@ -497,6 +508,7 @@ PPP Strategic Partnership for Smart Driving Licences	11789
 PRIVATE NETWORK LICENCE Application	736
 Part. PART VI LICENSING OF CYBER	2727
 Passporting Digital Licences	8111
+Passports and Driver's Licenses	12597
 Payment Aggregator Licence	6684
 Payment Institution License	3260
 Payment Service Provider Licence	6074
@@ -599,6 +611,7 @@ Software Testing Organisations Licensing Framework	5665
 Software Testing Organisations Licensing Guideline	5665
 Software Testing Organisations Licensing Guideline Title	5665
 Solar PV and Energy Audit Licensing	12256
+Sophos Central Management and Central Orchestration Licenses	12681
 Special Numbering. These Licensees	3862
 Spectrum Licence	736,4762,31
 Spectrum Licencing Cybersecurity	12395
@@ -678,6 +691,9 @@ Universal Services Licence	736
 VAS Licensees	3862
 VID Licences Scam	9397
 VMware Licensing Renewals	11209
+Valid Trader's Licence	12686
+Valid Traders Licence	12681
+Valid Trading License Certified	12693
 Value-Added Service Licensees	3862
 Veeam Licensing Renewal	11209
 Vehicle Registration and Driver Licensing	2576
@@ -695,7 +711,7 @@ Webinars Business Agents Customs Electronic Licensing	12454
 Wholesale Electronic Communications Infrastructure License	5277
 Work Permits and Business Licenses	12227
 World Bank Group. License	10714
-World Bank License	10765,10,37,1516
+World Bank License	10765,10,37,1516,206
 World Bank. License	10714,422,436,307
 Year License	2716,1353
 ZEMA Licence	1988

@@ -17,7 +17,7 @@ Acção Judicial	3519
 Admin Data for Tax Justice Initiative	10335
 Administración de Justicia	4209
 Administration and Judiciary School	969
-Administration of Justice	1667,977,2996,4
+Administration of Justice	1667,977,2996,4,6899
 Administration of Justice Standing Committee	8948
 Administration of Justice Time Bound Measurable Target	1000
 Administrative Data for Tax Justice	10335
@@ -98,9 +98,12 @@ Bilhetes de Identidade O Ministério da Justiça	10750
 Birth Registration and Justice for Children	10765,10
 Blessed Ndlovu Jun	6244,1
 Board of Directors Jurisdiction	10762
+Body MINISTRY OF JUSTICE AND CORRECTIONAL	12602
+Body The Judiciary	12543
 Boitumelo Makhurane Jul	6885
 Boletim da Justiça	10750,1
 Boniface Wamala JUDGE	3005
+Botha Bothe and Mokhotlong. Justice Nathane and Justice	12668
 Boukar Michel and GNB's Julio Mamadou Balde	3506
 Brasil. JurídicoAI. Disponível	2816
 Buba and Mobile Justice. Looking	11541
@@ -157,8 +160,9 @@ Chef du Gouvernement Julien NKOGHE BEKALE	548
 Cheplelaibei Junior School	10313
 Chief Executive Officer Julius Neequaye Kotey	8927
 Chief Judge of Borno State	12063
-Chief Justice	587,3127,5264,336
+Chief Justice	587,3127,5264,336,3268,78,1,7
 Chief Justice David Maraga	9645
+Chief Justice Gaolapelwe Ketlogetswe	12582
 Chief Justice Mandisa Maya	2626
 Chief Justice Rony Govinden	6806
 Chief Justice and President	6946,2600
@@ -208,6 +212,7 @@ Coordenador Justiça	10751
 Corte Suprema de Justicia	4209
 Cour de Justice	11944
 Court Of Justice Clarifies When Courts	6632
+Court Records Managements System Putting the Judiciary	12543
 Court of Justice	1807,4615,659,1355,311,26,3,2325
 Crianças O Ministério da Justiça	10750
 Crime Prevention and Criminal Justice	2117
@@ -262,6 +267,7 @@ Data Market Development and Integration Jun	6928
 Data Protection and Jurisdiction	2913
 Data Transfers Jurisdictions	11993
 Date of Judgment	2307
+De Jure Population	12655
 Dec'22 Mar'23 Jun'23 Sep'23 Dec'23 Mar'24	11198
 Dec-26 Feb-27 Feb-27 Jun-26 Annex	2989
 Defence DoJ Department of Justice DPME Department	11261
@@ -296,6 +302,7 @@ Digital Sovereignty Requires More Than Just	6879
 Digital Togo Director General Justine Adebiyi	6446
 Digitalization of Justice	6473
 Dikeledi and Jude	12220
+Dikgatlho Junior Secondary School	12635
 Dinka and Juba Arabic. Crails	9944
 Direction des Affaires Juridique	10975
 Direction des Affaires Juridiques	10975
@@ -345,6 +352,7 @@ Electronic Case Management for Judges and Lawyers	12389
 Electronic Civil Registration Jun	3061
 Elias Hakizimana Jul	8038
 Em Junho	7667,1034
+Emergency Support for Judicial Assistance	12668
 Empresa Pública Natureza Jurídica Sociedade Anónima	10757
 Empresa Pública Natureza Jurídica Sociedade Sociedade	10757
 Eng. Leonard Jukwa	4528,7984
@@ -438,10 +446,12 @@ Global Digital Justice Forum	6960,4068
 Global Digital Justice Forum's Rejoinder	11028
 Global E-Commerce Jumps	1243
 Golden Jubilee	6422
+Golden Jubilee. Mr. Ramoeletsi	12744
 Goré Bi Tié Jules	5816
 Gouvernance. La Direction des Affaires Juridiques	2342
 Governance Team Leader Julius Coredo and Project	8094
 Government Dr Justin Saidi	8575
+Government. The Judiciary	12543
 Grand Jury	2932
 Guinea-Bissau's Minister of Justice Carlos Pinto Pereira	4984
 Général de Brigade Justin Andouka	9928
@@ -454,6 +464,7 @@ H1 By Staff Reporter Jul	6885
 HFRQKHFHQGR TXH R JUXSR HP UHIHUrQFLD	11530
 HON MR JUSTICE ROBIN KNOWLES	1829
 HON. JUSTICE BONIFACE WAMALA RULING Introduction	3005
+HONOURABLE CHIEF JUSTICE SAKOANE PETER SAKOANE	12668
 Harnessing AI for Justice	4126
 Haute Cour de Justice	1682
 Haute Juridiction	11049
@@ -476,6 +487,8 @@ Hon. Makilap and Hon. Ariko. Hon. Julius	10313
 Hon. Sunkuli. Hon. Julius Sunkuli	10313
 Honneur Fraternité Justice	1702
 Honourable Chief Justice of Nigeria	8978
+Honourable Deputy Prime Minister and Minister of Justice	12668
+Honourable Judges	12668
 Hora O Ministério da Justiça	8054
 House of Justice	11541
 Houses of Justice	11541
@@ -508,6 +521,7 @@ Ile Marenga Bwishyura Juru Karenge Mpanga	12413
 Illustrative Jumia	9984
 Implement National Cybercrime Ministry of Justice	1777
 Improve Technical Infrastructure Ministry of Justice	1777
+Improvement Of Access To Justice	12668
 India’s Judiciary	8978
 Indicator Name Jun	6928
 Indústria Ministério da Justiça	11569
@@ -677,7 +691,7 @@ Jude Dike	10155
 Jude Fuhnwi	8150,3942
 Jude Mathurine	10729
 Jude Nwauzor	8291
-Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413
+Judge	3,780,1136,388,1407,2094,375,1269,393,1964,2237,413,84,125
 Judge Allen-Yaman	7587
 Judge Brian Spilg	10955
 Judge K Allen-Yaman	7587
@@ -692,9 +706,11 @@ Judge Twala	7910
 Judge. Keeping	9809
 Judged	8015,2194
 Judgements	11240
-Judges	958,2756,1004,282,3460,518,638,2585
+Judges	958,2756,1004,282,3460,518,638,2585,342,67,58
+Judges and Magistrates	12668
+Judges' Clerks and Mediators	12668
 Judging	36
-Judgment	1829,90,1746,11,854,516,1648,4462
+Judgment	1829,90,1746,11,854,516,1648,4462,1473
 Judgment Approved	1829
 Judgment No	8742
 Judgment of Hon. Justice Boniface Wamala	3005
@@ -704,29 +720,37 @@ Judicature	12453
 Judicaël Gbaguidi	7355
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
-Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75
+Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135
 Judicial Authority	27,485
 Judicial Authority Recourse	27
 Judicial Branches	3861
+Judicial Case Management	12543,67
+Judicial Case Management JCM	12543
+Judicial Commissioner	12668
+Judicial Commissioner's Court	12668
+Judicial Commissioners Court	12668
 Judicial Competence	12389
 Judicial Information Technology Policy Committee	12063
 Judicial Institutions	12337
+Judicial Management	12528
 Judicial Militar Delegada Consejero Presidencia	4209
 Judicial Officer	11976
 Judicial Officer. Nigeria Tax Administration Act	11976
+Judicial Officers	12668
 Judicial Police	11536,332
 Judicial Processes	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Judicial Reforms The Judiciary	12668
 Judicial Review	3861
 Judicial Review Upon	3861
 Judicial Review of Data Governance Decisions	3861
-Judicial Service Commission	9241,1
+Judicial Service Commission	9241,1,3324,53,49
 Judicial Services Commission	3583
 Judicial System	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Judicial System Judicial Processes Equality	10759,78,1315,188
 Judicial System Slowing Improvement Not Classified	11870
 Judicial Training Institute	10563
 Judicial Training School	10990
-Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14
+Judiciary	587,371,880,937,92,716,278,122,130,13,592,2228,602,922,20,121,89,278,238,330,496,521,1078,422,111,27,126,40,86,6,14,70,39,86
 Judiciary Automation Project	6946
 Judiciary Corruption	12201
 Judiciary Hon. Winfridah Mokaya	9546
@@ -921,7 +945,7 @@ July-2022 Sinohydro	1088
 July-2023	1154
 July-2024	1799
 July-2026	3950
-July-August	10705
+July-August	10705,1890
 July-Ethiopia-EHealth-Architecture-Document-1-5. Date	12255
 July-June	1284
 July-Sept	6946
@@ -1003,7 +1027,7 @@ Jun-2023	6833,4037,599,496
 Jun-2023 Closing Date	10779
 Jun-2023 Effectiveness	10870
 Jun-2023 IBRD	10779
-Jun-2024	1744,968,1941,1926,254,4562,74,436,60
+Jun-2024	1744,968,1941,1926,254,4562,74,436,60,759
 Jun-2024 Digital Development Financing	1704
 Jun-2024 Effectiveness	2712,3867
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
@@ -1031,6 +1055,7 @@ Jun-25 Figure	12256
 Jun-26	8999
 Jun-26 GOLD CARDS	8999
 Jun-26 Province Western Cape Western Cape	8999
+Jun-26. Current	12717
 Juna Chiloveque	5140
 Junaid Ahmad	11310
 Junaid Dadan	9008
@@ -1114,6 +1139,8 @@ Jurisdiction Over Insolvency Proceedings	12389
 Jurisdiction and Cross-Border Considerations All	3861
 Jurisdiction of Court and Access	11956
 Jurisdiction of Magistrates’ Court	11181
+Jurisdiction of Tribunal	12549
+Jurisdiction of Tribunal Tenure	12549
 Jurisdiction the Nigeria Revenue Service	11976
 Jurisdictional	431,3356,155,8360
 Jurisdictional Complexity and Regulatory Overlap	4848
@@ -1170,7 +1197,7 @@ Just Platforms	8050
 Just Transition	2143
 Just Transition Framework	5533,6453
 Just Wi-Fi	9936
-Just World	10321
+Just World	10321,2319
 JustJobs Network	6948
 JustJobs Network. Final Technical Report Gender	6948
 Justani	11586
@@ -1179,7 +1206,7 @@ Justella	6877
 Justella O. Elle	6877
 Justement	2443,4384,2021
 Justi-	539
-Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34
+Justice	11,223,353,56,94,24,28,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25,45,11,88,31,443,17,22,6,249,33,2,16,1,1,1,11,40,16,2,85,95,7,7,1,1,9,78,99,1,11,1,3,31,72,29,34,21
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice Abodo	5731
@@ -1206,8 +1233,10 @@ Justice E.O Ashade	11993
 Justice Edward Amoako Asante	11704
 Justice Egonda-Ntende	5422
 Justice F.N. Ogazi	8078,40,60
+Justice Godfrey Nthomiwa	12582
 Justice Gouvernance	4895
 Justice Health	4794
+Justice Hungwe	12668
 Justice ISP Internet Service Provider RNP	1000
 Justice Information System	1348,10591
 Justice Information and Data Management System	11541
@@ -1218,6 +1247,7 @@ Justice Kashim Zannah	12063
 Justice Kawumi	10563
 Justice Kayode Agunloye	8648
 Justice Kekere-Ekun	12063
+Justice Ketlogetswe	12582
 Justice Kudirat Kekere-Ekun	12063
 Justice Kudirat Motonmori Olatokunbo Kekere-Ekun	8978
 Justice Lawrence Mugambi	12300
@@ -1226,6 +1256,7 @@ Justice Lenaola	9645
 Justice Lewis-Allagoa	7560
 Justice Lotfi Boudjemaâ	6957
 Justice Mande	9646
+Justice Mathaba and Justice Kopo	12668
 Justice Minister	9124,1641,10,866
 Justice Minister Carlos Pinto Pereira. Part	4984
 Justice Minister Mahmoud El Sherif and Minister	9828
@@ -1249,7 +1280,7 @@ Justice Proposed Data Protection Agency Promote	1161
 Justice Rank	11889
 Justice Ricardo Cláudio Monteiro Goncalves	11704
 Justice SDG	12457
-Justice Sector	12179
+Justice Sector	12179,372
 Justice Sengu Mohamed Koroma	11704
 Justice Service Commission's Integrated Electronic Case	9397
 Justice Service Delivery	970
@@ -1291,6 +1322,7 @@ Justice.ci. Cette	5867
 JusticeLabourLandLegal	11215
 JusticeSystem	12473
 Justices	5448,3530,2212,873
+Justices Mokhesi	12668
 Justicia	758,943,2508,3839,1491
 Justicia Economía	1701
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
@@ -1418,6 +1450,7 @@ Legislation Judicially Considered ACT	11177
 Lei DA JUSTIÇA	10752
 Lei da Cooperação Jurídica	6970
 Lei de Organização Judiciária	6462
+Lesotho Judiciary	12668
 Leta Minister of Justice and Attorney General Ministre	1214
 Li Junfeng	5359
 Liberian Observer Corporation ELWA Junction	4261
@@ -1446,6 +1479,8 @@ M. Léon Juste IBOMBO	3326
 M. Léon Juste Ibombo	3173
 MAGISTRADO CORTE SUPREMA JUSTICIA	4209
 MDAs. The Judiciary	958
+MICSTI Ministry Justice	12674
+MICSTI Ministry of Public Service Ministry Justice	12674
 MIIF Chief Executive Officer Mrs. Justina	10069
 MILLION OF THEM LIVE IN JUST	10977
 MINIJUST Ministry of Justice MoH Ministry of Health	12413
@@ -1506,16 +1541,19 @@ Minister of Justice	3714,869,4483,58,275,704,1075,23,316,124,697,75
 Minister of Justice Online	12459
 Minister of Justice and Constitutional Affairs	3026,4421
 Minister of Justice and Constitutional Development	11227,43,20
-Minister of Justice and Correctional Services	2999
+Minister of Justice and Correctional Services	2999,9608,3
+Minister of Justice and Correctional Services Mr Nelson	12627
 Minister of Justice and Correctional Services and Others	2117
 Minister of Justice and Human Rights	2349,9230
 Minister of Justice and Labour Relations	8006
 Minister of Justice and Legislation	4246
+Minister of Law and Justice	12744
 Minister van Justisie	11201
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Ministerio Juez Comarcal Secretario Juzgado Comarcal	4209
 Ministerio da Justica	12156
 Ministerio de Justicia	1701,5140,2698
+Ministers of Justice	12527
 Ministra da Justiça	3048,2376,594,5548,474
 Ministries of Communications and Justice	11641
 Ministries of Justice	3635
@@ -1524,6 +1562,7 @@ Ministries of Justice and Health	11586
 Ministries of Posts and Telecommunications and Justice. All	5994
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721
+Ministry Justice	12674
 Ministry of Foreign Ministry of Territorial Security Justice	10812
 Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39
 Ministry of Justice Foreign Affairs	1777
@@ -1535,8 +1574,9 @@ Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,
 Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry of Justice and Constitutional Affairs. Under	9242
 Ministry of Justice and Constitutional Development	5107
-Ministry of Justice and Correctional Services	1674,977,2999
+Ministry of Justice and Correctional Services	1674,977,2999,6952
 Ministry of Justice and Human Rights	1344,9421,10,811
+Ministry of Justice and Law	12748
 Ministry of Justice and Ministry of Interior	761
 Ministry of Justice and Ministry of Revenues	7909
 Ministry of Justice's Real Property Registry	12137
@@ -1544,6 +1584,7 @@ Ministry of Justice. Among	10701
 Ministry of Justice. Defence	11607
 Ministry of Justice. Similarly	4583
 Ministry of Justicex National ID Agency	10812
+Ministry of Law and Justice	12674
 Ministry of Revenues and Ministry of Justice	7909
 Ministério Da Justiça	1252,1,1,1
 Ministério da Justiça	220,956,76,1,1,1,1,798,31,1,1,1,865,239,414,1,808,1,1,1,38,968,3,294,1098,1235,1,2,202,1012,1479,1,1,1,1,11,7,3,615,90,47,4,6,32,471,27,89
@@ -1620,6 +1661,7 @@ OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
 OBTENÇÃO DE AUTORIZAÇÃO JUNTO DA AGÊNCIA	14
 ODM Inside Politics Justin Muturi	9940
 ODM UDA DCP Jubilee Wiper	7869
+OFFICES CONFERENCE. The Ministry of Law and Justice	12744
 OHADA Subsector Instituto de Practicas Judiciales	4209
 ONEM. Jusqu'ici	6976
 OPPOSITION UNITY WITHOUT PRINCIPLE IS JUST	10581
@@ -1738,6 +1780,7 @@ Provincial de Provedoria de Justiça	10751
 Prática Jurídica	9176
 Public Primary and Junior School Teachers1	2775
 Publication of Judgments	12389
+Puisne Judges	12668
 Puntland and Jubaland	11136
 Puntland and Jubbaland	3610
 Purpose and Justification	10157
@@ -1753,6 +1796,7 @@ RENAPER F25 Jul	10714
 RMB Jun	1404
 Raila Junior	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 Rapports Textes Juridiques	3675
+Recruitment Policy for Judges	12668
 Reference Jurg	8436
 Reference the Criminal Justice	11857
 Regarding the Juba-Nimule	3583
@@ -1912,6 +1956,7 @@ Templates Jurídicos	11448
 Tendai Sauta Jul	2888,32,354,504,1444,877,6,100,680,129,293,115
 Tercero Fiscal Corte Suprema Justicia Fiscal	4209
 Territorial and Personal Jurisdiction	3861
+Thamani Junior Secondary School	12552
 Theme Contain Just	8603
 Thierry Vircoulon and Julian Rademeyer	4127
 Thinkroom and Jumpstarter Crowdfunding	8898,1893
@@ -1928,6 +1973,7 @@ Tribunais Judiciais	6462
 Tribunais da Jurisdição Comum. MINISTÉRIO DA JUSTIÇA	10752
 Tribunais da Justiça	10752
 Tribunal Constitucional Magistrado Corte Suprema Justicia	4209
+Tshwaragano Junior Secondary School	12557
 Turismo Juan José Ekuna Esono Mangue	9303
 UDA ODM Wiper Jubilee DCP	7869
 UK Ministry of Justice	6477

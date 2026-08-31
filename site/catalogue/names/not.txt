@@ -49,6 +49,8 @@ Bank of Zambia ZIPSS Rules Note	12364
 Biometric Update. Note	2970,3168
 Birth Notification Number	12337
 Birth Notification Number CRVSID	12337
+Body PUBLIC NOTICE	12603
+Botswana Power Corporation NOTE	12592
 Breach Notification	3861,8332
 Breach Notification Form DP3	1877
 Breach Notification Procedures Technical Infrastructu	6432
@@ -147,6 +149,7 @@ ENVIRONMENTAL AND SOCIAL COMPLIANCE NOTE	11863
 ES NOTE TABLE III. SUMMARY	1228
 EXPLANATORY NOTE AND FINAL POLICY DIRECTION	11235
 Economy Note 2024 Final.pdf	8891
+Editor's Note	12625
 Editorial Note	6934
 Editorial. Note	7553
 Editor’s Note	3213
@@ -207,6 +210,7 @@ GENERAL NOTICE REASONS DOCUMENT FOR END-USER	4732
 GENERAL NOTICES	1009
 GLANCE Gazette Notice	9939
 GOV.UK Notify	3922
+GOVERNMENT NOTICE	12653,13
 GOVERNMENT NOTICE DEPARTMENT OF BASIC EDUCATION	11180
 GOVERNMENT NOTICE DEPARTMENT OF HOME AFFAIRS	12047
 GOVERNMENT NOTICE DEPARTMENT OF LAND REFORM	11249
@@ -326,8 +330,8 @@ LTIMAS NOTÍCIAS Regiões	11587
 Land Query Notification System	12333
 Land Registry Offices and Notaries	11862
 Land and Notary Registry Offices	11862
-Legal Notice	2709,3678,597,5313
-Legal Notice No	1131,78,607,1180,9,788,2994,820,227,4463,8
+Legal Notice	2709,3678,597,5313,350,75
+Legal Notice No	1131,78,607,1180,9,788,2994,820,227,4463,8,460
 Legal Notices	5903
 Legal Notices Subscribe Home Business CBE	4027
 Legal Notices Subscribe Home Business E2.8m	4672
@@ -343,6 +347,7 @@ Legal Notices Subscribe Home News Eswatini	7030
 Legal Notices Subscribe Home News Outcry	3331
 Legal Notification Framework Due	6432
 Lei Notarial	10756
+Lesotho Representative Notable	12729
 Levantamento de Notas	11438
 Limited Note	4896
 Linda Dlamini Fintech and Innovation Nothando Nxumalo	11131,3
@@ -363,6 +368,7 @@ Mayor Notario Registrador	4209
 Meta Model NOTE	9124
 Michael Sata and Edgar Lungu. FETCH NOTE	7025
 Microsoft Entra ID MFA Note	10617
+Minister Notwithstanding Part II	12645
 Minister Raafat Hindi. Note	6758
 Minutes and Notice	12201
 Mobile Government How-To Note	11867
@@ -397,9 +403,9 @@ NOTE ON THE ACQUISITION TARGET	8125
 NOTE ON THIS CAPTURE	12403
 NOTE The Constitution of Kenya	1630
 NOTFORPUBUCRELEASE	4301
-NOTICE	3887,473,2906,2069,1861,39,30
+NOTICE	3887,473,2906,2069,1861,39,30,1283
 NOTICE AND AGENDA	7204
-NOTICE ENACTED	3887
+NOTICE ENACTED	3887,8644,1,3,11,3,13
 NOTICE NO	12296
 NOTICE NO.BG	7464,1268
 NOTICE OF EXTRAORDINARY GENERAL MEETING	4896
@@ -447,11 +453,11 @@ Nota de Esclarecimento Público	5462
 Nota de Esclarecimento. Através	7527
 Nota de Liquidação SA	11435
 Nota-se	11547
-Notable	1348,509,728,190,2197,270,121,926,166,835,732,570,11,1158,1003,12,9,76,270,3,1,1,619,145,40,122,314,10
+Notable	1348,509,728,190,2197,270,121,926,166,835,732,570,11,1158,1003,12,9,76,270,3,1,1,619,145,40,122,314,10,220
 Notable Elements	12395
 Notable Initiatives	12356
 Notable Sierra Leonean Personalities Who Died	5390,965,827
-Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102,10,21,146,3,1,1,18,41,2,14,17,9,53,6,1,281,7,281,56,2,43,23,4,32,9,116,10,26,1,22,4,42,22,19,31,11,21,16,27,8,2,32,57
+Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102,10,21,146,3,1,1,18,41,2,14,17,9,53,6,1,281,7,281,56,2,43,23,4,32,9,116,10,26,1,22,4,42,22,19,31,11,21,16,27,8,2,32,57,64
 Notaires	10858
 Notamment	3248,20,568,2620,3799,652,68,98
 Notariado	2688,265,577,1181,1349,470,2741,1479,1,1,1,12,10,590,6,156,10,28,1,455,46,75,14
@@ -463,11 +469,12 @@ Notariado. Anualmente	11537
 Notariado. Esta Direção	11537
 Notariado. Nesta	10753
 Notariados	10753,1389
+Notarial Deed of Trust	12552,6
 Notarial Sector Digital Partnership TechAfrica	3278
 Notaries	10775,1087
 Notaries Public	4896,4082
 Notario Servicio	4209
-Notarisation	28,11151
+Notarisation	28,11151,1353
 Notarization	12333
 Notarized	12342
 Notary	10765,10,1134,132
@@ -508,11 +515,11 @@ Noteworthy Recovery	5202
 Notez	747
 Nothias	5242,5893
 Nothias T	5242
-Nothing	28,8,74,5,118,1,161,40,128,456,70,60,37,57,538,184,472,1,136,1009,131,32,96,45,85,77,104,1,13,35,15,30,13,41,1,47,239,445,319,66,141,71,192,67,152,109,94,1,98,99,34,14,215,60,142,121,411,17,239,17,65,4,1,63,34,12,295,109,200,55,36,41,2,80,246,31,443,200,528,556,1,51,10,10,27,165,94,83,23,94,34,240,13,14,281,26,77,20,71,184,97
+Nothing	28,8,74,5,118,1,161,40,128,456,70,60,37,57,538,184,472,1,136,1009,131,32,96,45,85,77,104,1,13,35,15,30,13,41,1,47,239,445,319,66,141,71,192,67,152,109,94,1,98,99,34,14,215,60,142,121,411,17,239,17,65,4,1,63,34,12,295,109,200,55,36,41,2,80,246,31,443,200,528,556,1,51,10,10,27,165,94,83,23,94,34,240,13,14,281,26,77,20,71,184,97,206
 Nothing Delta Wants Public Projects Feedback	10034,231
 Nothing For Us	12038
 Notic.e No	11852
-Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141,8,18
+Notice	1750,1255,53,656,173,85,924,666,211,92,7,1019,49,6,518,9,75,229,47,26,101,71,452,252,138,2312,5,61,374,185,431,21,17,26,46,141,8,18,26,13,81,14,2
 Notice Following Technical Evaluation for Consultancy	3700
 Notice No	4732,1945,5278,341,1
 Notice No. BG	6940,524,1268
@@ -547,7 +554,7 @@ Notice-Based Filing	12389
 Notice-Based Registry	12389
 Notice. SpaceX	6891
 Notice.pdf	8495
-Notices	1988,1726,258,77,105,13,35,15,30,13,41,1,47,261,742,421,1173,3461,306,1243,20,65,5,167,176,11
+Notices	1988,1726,258,77,105,13,35,15,30,13,41,1,47,261,742,421,1173,3461,306,1243,20,65,5,167,176,11,229
 Notices Get	9429
 Notices No	4732
 Notices of Birth	11986
@@ -560,7 +567,7 @@ Notifiable	1020
 Notifiable Diseases	10780
 Notificacao	966
 Notificar	11368,653
-Notification	22,998,313,141,263,2235,182,147,1364,108,210,3140,216,516,545,3,433,40,32,221,10,140,243,454,17,54,123,23,18,42,85,26,3,22
+Notification	22,998,313,141,263,2235,182,147,1364,108,210,3140,216,516,545,3,433,40,32,221,10,140,243,454,17,54,123,23,18,42,85,26,3,22,160,67,8,5,1,21
 Notification Any	12364
 Notification DPSS.CO.OD No	11310
 Notification Engine	12359
@@ -579,7 +586,8 @@ Notification of Personal Data Breach	12185
 Notification of Prequalification	5903
 Notification of Registration Centre Premises	1263
 NotificationUser.aspx	6735,200,4375
-Notifications	2674,707,1351,2534,2449,2269,186,12,183
+Notifications	2674,707,1351,2534,2449,2269,186,12,183,286
+Notifications of Service Outage Article	12616
 Notificação	14,6956,4390,8,4,4,10,47,19,130,311
 Notificação da Liquidação	744
 Notificação de Acesso	11368
@@ -627,9 +635,10 @@ Notto Alternative	9222
 Notto Gouye Diama	8270
 Notulu Salwind	7778
 Notwihthstanding	12185
-Notwithstanding	1,9,18,557,151,26,21,157,283,110,495,39,440,269,281,32,614,80,131,173,266,500,243,217,19,533,22,934,270,30,26,319,272,221,86,320,423,17,261,895,1202,11,160,4,2,36,1,12,9,35,14,16,201,72,13,58,246,2,2,52,47,20,78,4,87,1,39,41,68,70,3,33,10,37
+Notwithstanding	1,9,18,557,151,26,21,157,283,110,495,39,440,269,281,32,614,80,131,173,266,500,243,217,19,533,22,934,270,30,26,319,272,221,86,320,423,17,261,895,1202,11,160,4,2,36,1,12,9,35,14,16,201,72,13,58,246,2,2,52,47,20,78,4,87,1,39,41,68,70,3,33,10,37,81,3,4,11,2,1,13,26,24,17,19,3,1,9,40
 Notwithstanding Article	762,8104,3090,190
 Notwithstanding Articles	585,8281
+Notwithstanding Part II	12644
 Notwithstanding Sub	7538
 Notwithstanding Sub-Article	762
 Notwithstanding Sub-Articles	762
@@ -672,6 +681,7 @@ PRMP Notifie	10876
 PUBLIC NOTICE	12491
 PUBLIC NOTICE ROLL-OUT AND IMPLEMENTATION	12509
 PUBLIC NOTICE The Uganda Communications Commission	4761
+Page LEGAL NOTICE	12722
 Page Notably	6671
 Pan-African Survey and Noted Trends. Journal	1243
 Parfait Wilfried Douniama Notification	1299
@@ -694,6 +704,7 @@ Priority Areas of Implementation Noting	21
 Privacy Notice	6792,212,1432
 Privacy Notice Generator	7409
 Procedures ESCON Environmental and Social Compliance Note	11863
+Procurement Notice Request for Bids Purchaser	12700
 Proklamasies PROCLAMATION NOTICE	11217
 Public Notice	3216,1483,2578,5214,18
 Public Notice No	12509
@@ -789,6 +800,7 @@ Supplemental Technical Note	1264
 Sustainable Development PCN Project Concept Note	11863
 System Event Notification	12364
 TAKE NOTICE	11956
+TECHNICAL NOTE	12540
 TES NOTE BY THE DEPARTMENT	4247,55
 TT Notification	12138
 TaRMS. Public Notice	12491

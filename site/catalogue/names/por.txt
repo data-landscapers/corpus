@@ -38,6 +38,8 @@ BIO-key’s PortalGuard IAM	5140
 BOT. Pour le Port Autonome de Douala	5291
 Banco Comercial Português	9832
 Bank Gender Data Portal	3604
+Bank of Botswana Fintech Portal	12603
+Bank of Botswana Fintech Portal. All	12603
 Bata Por Catalina Obono Mba Nchama	11633
 Benguela Por	10750
 Benin BENIN Porto-Novo Country	10822
@@ -139,12 +141,14 @@ Data Interoperability and Portability	6432
 Data Portability	3861,2571,5524,229
 Data Portability Article	11956
 Data Portability and Platform Competition	961
+Data Portal	12768
 Data Portal Ethiopia	12257
 Data Portals	9485
 David Porteous	10020
 David Porter	9127
 Decrease of Port-In	3862
 Decrease of Port-Out Activities	3862
+Delft Light Portable X-ray	12678
 Desconhecimento da Língua Portuguesa	11363
 Desenvolvido Por SP Media	9799
 Develop New Ease of Doing Business Portal	3907
@@ -243,7 +247,7 @@ Gov Portal	5642,1189
 Government Digital Services Single Portal	11965
 Government Employee Portal	12359
 Government Employee Portal The Government Employee	12359
-Government Portal	1912
+Government Portal	1912,10617
 Government Procurement Portal	3969
 Government Procurement PortalPPDACoST Uganda Local	3969
 Government Service Portal	506,7615,302,557
@@ -313,6 +317,7 @@ Kenya Ports Authority CEO Captain William	8274
 Key Infrastructure NPRC Number Portability Routing	6946
 LAPSSET Lamu Port Southern Sudan-Ethiopia Transport	2775
 LE PORTAIL NATIONAL DU SERVICE PUBLIC	10819
+LMIS Portal	12612
 LSEZA Says Trade Portal Could Ease	11746
 La Direction du Portefeuille des Secteurs Primaire	2342
 La Déclaration de Porto-Novo	8318
@@ -384,6 +389,7 @@ National Port Authority	7722
 National Ports Act	11236
 National Ports Authority	11236
 National Single Window Portal	11976
+National Tourism Portal	12529
 National Treasury Redevelopment of Ports of Entry Project	11248
 Nature Portfolio Reporting Summary	11585
 Network Operators MNP Mobile Numbers Ported	2775
@@ -566,6 +572,7 @@ Port Louis	3292,567,6437,325,711,800
 Port Louis Mauritius	11332
 Port Maritime Institute	11553
 Port Master	7845
+Port PoE Access Switch	12763
 Port Reitz	12256
 Port Said	1213,1096,4322,3747
 Port Secondary Communication	9475
@@ -743,7 +750,7 @@ Portia Eyram Gbokpui	10250
 Portia Khuzwayo	10102
 Porting	3862,5613
 Portion	1009,2595,7272,1514
-Portions	8021
+Portions	8021,4531
 Portland	1036,5885,335,518
 Portland Cement Company	6946
 Portnet	168
@@ -767,7 +774,7 @@ Portos Angolanos	8729
 Portos de Língua Portuguesa	8729
 Portrait	9993
 PortraitLayout	10848
-Ports	1288,3959,1959,759,2430
+Ports	1288,3959,1959,759,2430,2286
 Ports Act	7845
 Ports and Free Zones Authority	1287
 Portugais	8755
@@ -817,7 +824,7 @@ Portugueses	11565
 Português	10777,800,759
 Português. Ilustração	11537
 Português. Os	11898
-Portulans Institute	1243
+Portulans Institute	1243,11431
 Portuária	4747,3305,677
 Portuárias. ARTIGO	11514
 Portuário	8729,2798
@@ -971,6 +978,7 @@ Vichittra Purdassee Digital Portfolio Manager	11332
 Visit the Portal	4449
 Voter Portal	7266
 WBG Portfolio Snapshot	11469
+Web Portal	12769
 Web Portals	11952
 World Bank Climate Change Knowledge Portal	10763
 World Bank Data Portal	11863

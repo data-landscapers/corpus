@@ -63,7 +63,7 @@ RTGS Settlement	12490
 RTGS Steering Committee	12484
 RTGS Transaction Type Codes	12364
 RTGS Transaction Type Codes TTC Priority	12364
-RTGS and TCIB	12432
+RTGS and TCIB	12432,252
 RTGS and US	12490
 RTGS-ready	6368
 RTGS. The DRC	11960

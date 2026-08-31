@@ -7,6 +7,8 @@ Adverse Price	11994
 African Prices	10856
 Annual Average Retail Prices of Selected Consumer	2775
 Applicant's Best Price Offer	8582
+Authority of His Majesty the King Price	12722
+Authority of His Majesty the King. Price	12653,13
 Avatar of PriceListNamibia	12478
 Average Export Prices of Selected Minerals	2775
 Average Fully Indexed Price Biomass	11953
@@ -43,6 +45,7 @@ Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
 Contract Price	6946
+Control of Goods Prices and Other Charges	12629
 Cost Proposal and Price Declaration Form	11209
 Cost Reflectivity of Energy Prices Increased Uptake	12515
 Cross-Border Carbon Pricing Instruments	12389
@@ -155,7 +158,7 @@ PS-6 Spectrum Pricing PS-7 Clear	11857
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75
 Price Changes	2775
 Price Developments Consumer	11131
 Price Developments Inflationary	11134
@@ -187,13 +190,15 @@ PriceWaterhouseCoopers	6409
 Priced	6690
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
+Prices and Other Charges	12629
+Prices and Other Charges Act	12535
 PricewaterhouseCoopers	6893
 PricewaterhouseCoopers Zambia	2240
 Prichard	11133,1236
-Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5
+Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5,266
 Pricing Mechanism	1828
 Pricing Power	12389
 Pricing Requirements Completion	7266
@@ -216,6 +221,7 @@ Quantum and Price Indices of Recorded Sales of Agricultural	2775
 Quarterly Construction Inputs Price Indices and Inflation	2775
 Quarterly Producer Price Index	2775
 RAMP Index. Prices	9759
+RIA's Africa Mobile Pricing	12657
 RIA’s Retail Africa Mobile Pricing	9759
 RPPI Residential Property Price Index SARB	11286
 Remittance Prices	5255

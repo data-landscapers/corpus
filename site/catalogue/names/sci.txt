@@ -33,7 +33,10 @@ African Open Science Platform	5246,2252
 African Science	6695,3726
 African Science Granting Councils	862
 African Science Granting Councils Initiative	5036
+African Science and Technology Consolidated Plan	12675
+African Science and Technology Consolidated Plan of Action	12675
 African Scientific Journal	11593
+Africa’s Science and Technology Consolidated Plan of Action	12675
 Agribusiness Forum STEM Science	12329
 Agricultural Research Council ASSAf Academy of Science	5246
 Alliances for Science	643,1
@@ -61,11 +64,12 @@ Availability of Science and Technology Parks	12389
 BRICS Science	6480
 BRICS Science and Innovation Initiatives India and South	6480
 BSc Information Science BSc Computer Science	12361
+Bachelor Of Science	12675
 Bachelor of Accounting Science	4896
 Bachelor of Arts Social Science Degree	11131,3
 Bachelor of Computer and Information Sciences	6832
 Bachelor of Political Science	6946
-Bachelor of Science	6832,114,1893,44,3446,78
+Bachelor of Science	6832,114,1893,44,3446,78,268
 Bachelor of Science Honours	6832
 Bachelor of Social Science Degree	11131,3
 Background Open Science	5246
@@ -74,8 +78,11 @@ Behavioral Sciences	2518,5241,4249
 Benin's Minister of Higher Education and Scientific Research	6893
 Big Data and Data Science	11424
 Bindura University of Science Education	520,4008,4869,3115
+Botswana Academy of Sciences	12544
 Botswana Centre for Nuclear Science and Technology	5444
-Botswana International University of Science and Technology	2553,1507
+Botswana International University of Science and Technology	2553,1507,8505,13
+Botswana School of Business Sciences	12612
+Botswana University of Information Science and Technology	12582
 Bremen International Graduate School of Social Science	2702
 British Journal of Applied Science	4432
 British Journal of Political Science	7886
@@ -126,7 +133,7 @@ Commissioner for Science and Digital Economy Dr Frank	10229
 Communication Sciences	7886
 Communication Sciences and Techniques	11658
 Community and Health Sciences Faculty	8022
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Information Systems	10060
@@ -139,6 +146,7 @@ Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Technology	9128
 Computer Science and Telecommunication	6832
 Computer Science. Plans	12407
+Computing LAST Lesotho Academy of Science and Technology	12675
 Contracts and Science	10157
 Council for Natural Scientific Professions SA-EU South	5246
 Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047,1680,419,40,71,17,624,9,11,93
@@ -172,7 +180,7 @@ DES ECHANGES SCIENTIFIQUES RICHES ET CONSTRUCTIFS	9277
 DPSR SCIMR SCIMR SCIMR SCIMR SCIMR	10858
 DSTI Data Science Unit	6903
 Data CSIR Council for Scientific and Industrial Research	5246
-Data Science	648,556,1321,2511,1796,855,1121,31,1221,1171,1130
+Data Science	648,556,1321,2511,1796,855,1121,31,1221,1171,1130,314,79
 Data Science Analytics	6832
 Data Science Catalytic Fund	392
 Data Science Hub	9322
@@ -205,7 +213,8 @@ Department of Learning Health Sciences	11990
 Department of Library and Information Science	8022
 Department of Mathematics and Computer Science	5097
 Department of Nursing Science	8604
-Department of Science	5533,947,500,518,1104,524,1680,415,23,21,16,344,361
+Department of Research Science and Technology MCKT	12544
+Department of Science	5533,947,500,518,1104,524,1680,415,23,21,16,344,361,689
 Department of Science and Education	6948
 Department of Science and Innovation	6832,54,4450
 Department of Science and Technology	396,1418
@@ -251,6 +260,7 @@ Ethiopia. Ethiop J Health Sci	12255
 Ethiopia. Glob Health Sci Pract	11596,650
 Ethique des Science	10919
 Eurasia Proceedings of Educational and Social Sciences	6948
+European Commission’s Science and Knowledge Service	12675
 European Framework for Science Diplomacy	11210
 European Open Science Cloud	3861,3452
 European Scientific Journal	9129
@@ -306,6 +316,7 @@ Higher Education and Scientific Research Law	11552
 Histoire Géographie Sciences Grammaire Autre Nb	10847
 Human Capital Education Innovation Science	12512
 Human Sciences	7886
+Human Sciences Research Council Research Ethics	12678
 Humanities Social Scien1c5e	1154
 Humanities and Social Science Research Ethics Committee	8022
 Humanities and Social Sciences	1599,10726
@@ -375,6 +386,7 @@ Kwame Nkrumah University of Science and Technology KPI	4126
 LA RECHERCHE SCIENTIFIQUE ET TECHNOLOGIQUE	7670
 Lead Scientific Adviser	8529
 Lecture Calcul Histoire Géographie Sciences Grammaire	10847
+Lesotho Academy of Science and Technology	12675
 Lesotho. Procedia Computer Science	8605
 Library Science	8022
 Library and Information Science	1154,6868
@@ -454,6 +466,7 @@ Muhimbili University of Health and Allied Sciences	1261,7353,3009
 NACOSTI National Commission for Science	2775
 NASA's Planetary Science Division	8787
 NCST National Commission for Science and Technology NRIS	12240
+NEPAD Office of Science and Technology	12675
 NTV and Uganda's Minister of Science	6258
 NYAN TO SPECIAL SCIENTIFIC MEETING	10581
 Namibia University Of Science	12478
@@ -480,6 +493,7 @@ National Open Science	5246
 National Open Science Policy	7498
 National Science	9525,2100
 National Science and Technology Council	1554
+National Science and Technology Policy	12544
 National University of Science	7062
 National University of Science and Technology	1154,400,2974,7984
 National University of Science and Technology Office	1154
@@ -572,7 +586,9 @@ SAZ Standards Association of Zimbabwe SIRDC Scientific	12512
 SCI. Dates	1993
 SCI.I	11852
 SCIAM	4273
+SCIENCE	12544
 SCIENCE ADVISER NEWSLETTER	6997
+SCIENCE AND TECHNOLOGY	12529
 SCIENTIFIC AND TECHNICAL COOPERATION	1234
 SCIMR SCIMR Programmation	10858
 SCITI	6514
@@ -600,7 +616,8 @@ SciELO Scientific Electronic Library Online STM	5246
 SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25
+Scien	12674
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -636,15 +653,17 @@ Science and Innovation	1614,5218
 Science and Public Policy	12090
 Science and Research Technical Advisory Committee	5036
 Science and Resources	11135
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2,300,250,236,101,17,15,112,9
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
 Science and Technology Bright Msaka	10295
 Science and Technology Cooperation	1234
+Science and Technology Department	12675
 Science and Technology Development	413,107,2259,1749,7984
 Science and Technology Development Project	6174,707
 Science and Technology Education	6572,1
+Science and Technology Government Paper	12529
 Science and Technology In Phase II	899
 Science and Technology Minister Prof Adolf Mkenda	10196
 Science and Technology National Development Strategy	1554
@@ -652,6 +671,7 @@ Science and Technology Park	4561
 Science and Technology Policy	6133
 Science and Technology Policy ICT Short Term	6133
 Science and Technology Policy The Kenya Kwanza	6133
+Science and Technology and Innovation	12720
 Science and Technology of Namibia	1554
 Science for Africa	5601
 Science of Building	12357
@@ -788,7 +808,7 @@ Themba Laboratory for Accelerator Based Sciences MRC	5246
 Through the Tanzania Commission for Science and Technology	11623
 Training and Scientific Research	11907
 UK Bachelor of Science	4896
-UN Independent International Scientific Panel	5074,1859,179,24
+UN Independent International Scientific Panel	5074,1859,179,24,5624
 UN Scientific Advisory Panel	8629
 UN Scientific Panel	7174
 UN's Independent International Scientific Panel	6933

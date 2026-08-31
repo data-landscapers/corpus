@@ -215,7 +215,7 @@ BEACON TECHNOLOGIES LIMITED Data Controller INST-3014592FA62	7167
 BEACON TECHNOLOGIES LIMITED Data Processor INST-3014592FA62	7167
 BEAMING SMILES DENTAL CENTRE LIMITED Data	7167
 BEAN INTERACTIVE LIMITED Data Controller INST-958033A67C3	7167
-BEARING IN MIND	11182
+BEARING IN MIND	11182,1345
 BEATBNK LIMITED Data Controller INST-191719EF06B NAIROBI	7167
 BEATBNK LIMITED Data Processor INST-191719EF06B NAIROBI	7167
 BEATRICE MURIITHI Data Processor INST-6921816EC19 NAKURU	7167
@@ -293,6 +293,7 @@ BENARD OTIENO NYANGA ADUOL Data Controller	7167
 BENCHMARK SOUS-RÉGIONAL	7999
 BENCHMARK VALUERS LTD Data Controller INST-374880C61AA	7167
 BENCHMARK VALUERS LTD Data Processor INST-374880C61AA	7167
+BENCHMARKING AND E-READINESS ASSESSMENTS	12529
 BENDA BAITURIU'S MEDICAL CENTRE Data Processor	7167
 BENDITO SANTOS HOSPITAL LTD Data Controller	7167
 BENE BUSINESS SYSTEMS LTD Data Controller	7167
@@ -331,6 +332,7 @@ BENWIN	7167
 BENZION INVESTMENTS LIMITED Data Controller INST-61473260E82	7167
 BENZION INVESTMENTS LIMITED Data Processor INST-61473260E82	7167
 BEPHA	10970
+BERA Act	12595
 BERA EAR	7167
 BERCE	11131
 BERE Directeur des Statistiques	10875
@@ -393,6 +395,7 @@ BETHESDA NURSING HOME	7167
 BETHESDA SPRINGS MEDICAL CENTRE Data Controller	7167
 BETHSAIDA EYE CENTRE LIMITED Data Controller	7167
 BETLOUNGE LIMITED Data Controller INST-7538720DD7F NAIROBI	7167
+BETP and GPW14	12623
 BETTER	11994
 BETTER BET LTD Data Controller INST-6701067F096	7167
 BETTER HEALTH AND WELLNESS LIMITED Data	7167
@@ -499,6 +502,7 @@ Badouard and Bellon	7790
 Bahamas Bahrain Bangladesh Barbados Belarus Belgium	11765
 Bahir Dar University. Besrat Nigussie	8671
 Bahrain Bangladesh Barbados Belarus Belgium Belize	11470
+Balance Benefits and Risks	12675
 Bambari and Berberati	10857
 Banco Africano de Desenvolvimento BEE	11387
 Bandar Seri Begawan Very High EGDI	10840
@@ -584,6 +588,7 @@ Becoming More Competitive	7869
 Becoming Phill	12478
 BecomingPhill	12478
 Beconomy	3782,894
+Becton Dickinson	12678
 Bed Night Occupied	2775
 Bed-Nights Occupancy	2775
 Bedarf	696,205
@@ -630,7 +635,7 @@ Beheira	9414
 Behera	7759
 Beheton	10887
 Behigamlak	11607
-Behind	3133,558,436,22,219,268,192,968,415,1,636,167,559,74,44,3,51,141,71,2,247,79,194,51,19,112,738,193,146,157,171,102,191,236,132,412,10,555,68,265,13
+Behind	3133,558,436,22,219,268,192,968,415,1,636,167,559,74,44,3,51,141,71,2,247,79,194,51,19,112,738,193,146,157,171,102,191,236,132,412,10,555,68,265,13,581
 Behind Emotions and The American Bias	4554
 Behind Linda Mwananchi	7869
 Behind the MyMzansi	3922
@@ -888,7 +893,7 @@ Benchmark of Namibia	12355
 Benchmark of Zimbabwe	12487
 Benchmark-driven	7790
 Benchmarked	11271
-Benchmarking	2816,4335,397,3216,687,80,54,367,4,52,348,20
+Benchmarking	2816,4335,397,3216,687,80,54,367,4,52,348,20,153,128,2
 Benchmarking Congo’s Petroleum Import Cost	1828
 Benchmarking Congo’s Petroleum Import Cost Gasoline	1828
 Benchmarking E-Government	10840
@@ -962,13 +967,13 @@ Beneficiário Efectivo Deputados	11462
 Beneficiário. Módulo de Rendas Comerciais	9403
 Beneficiário. Módulo de Veículos	9403
 Beneficiários	13,6957,3784,611,13,28,736
-Benefit	4258,1091,201,5435,246,186,391,116,134,315
+Benefit	4258,1091,201,5435,246,186,391,116,134,315,396
 Benefit Administration	10102
 Benefit Sharing	6534
 Benefit Size Erosion	10985
 Benefit-sharing	4154
 Benefiting	11156
-Benefits	395,2380,1274,105,93,55,1248,125,864,408,701,812,210,453,5,1564,21,51,28,27,10,254,57,714,1,180,110,19,47,75,3,38,1,31,14,16,8,23,32,46
+Benefits	395,2380,1274,105,93,55,1248,125,864,408,701,812,210,453,5,1564,21,51,28,27,10,254,57,714,1,180,110,19,47,75,3,38,1,31,14,16,8,23,32,46,41,230
 Benefits Achieved	12457
 Benefits Automation	4528
 Benefits Digital	4563
@@ -1208,6 +1213,7 @@ Benishangul Gumuz	12198
 Benishangul Gumz	11004,960
 Benishangul-Gumuz	12257
 Benishangul-Gumz	12199
+Benita Magopane Location	12599
 Benitez	9237,1760
 Benjamin	6231,717,1018,56
 Benjamin Adamafio Commey	8369
@@ -1298,7 +1304,11 @@ Berber Kramer	6948
 Berbera and Bosaso	3774
 Berberati	1189,8090
 Berbérati	1226,1648,1316
-Berea	309
+Berea	309,12346,13,15,14,58,8
+Berea and Hlotse Police Stations	12763
+Berea and Leribe. Supported	12764
+Berea and Mafeteng	12740
+Berea and Mafeteng. DAR	12740
 Bereavement	11940
 Bereich Landrecht	504,399
 Bereich Wirtschaftsförderung	8546
@@ -1401,6 +1411,7 @@ Berth	11248
 Bertha Gxowa	11986
 Bertha Nguluwe	12278
 Bertha Phiri	5595
+Bertha Pitso	12734
 Bertin Bakolo	3316
 Bertin M	8641
 Bertin Nahum	5927
@@ -1432,7 +1443,7 @@ Beschäftigungs-	1052
 Beschäftigungsförderung	455
 Beschäftigungsperspektiven	458,969
 Beside	11855,484
-Besides	236,482,243,39,204,39,14,4,553,303,3193,53,368,480,735,1155,1374,284,1063,142,1,14,151,204,370,156,12,37,9,7,14,7,242,13,39,93,29
+Besides	236,482,243,39,204,39,14,4,553,303,3193,53,368,480,735,1155,1374,284,1063,142,1,14,151,204,370,156,12,37,9,7,14,7,242,13,39,93,29,193,113,73
 Besides MTN	3184
 Besides the Births and Deaths Registration Act	12151
 Besides the Cape Town	1820
@@ -1508,7 +1519,7 @@ Betrug	11316
 Betrugsskandal	11316
 Bets Masiyiwa’s Cassava	4425
 Bettason	7167
-Better	395,1,334,231,227,640,39,229,1289,1498,604,771,174,376,881,187,132,714,1180,37,409,105,321,55,27,104,17,338,41,216,36,47,208,53,125,170,148,99,44
+Better	395,1,334,231,227,640,39,229,1289,1498,604,771,174,376,881,187,132,714,1180,37,409,105,321,55,27,104,17,338,41,216,36,47,208,53,125,170,148,99,44,189
 Better Africa and World	11230
 Better Auth	4972,7272
 Better Auth Raises	12244
@@ -1545,7 +1556,7 @@ Betts	11140,1087,70
 Betty Aol Ochan	12095
 Betty Lee	9098,248
 Betty Ndagire	10429
-Between	7,3,18,198,170,22,598,227,399,12,112,11,51,1,38,77,78,546,42,362,100,3,189,119,74,110,16,1,47,54,113,644,234,2,104,190,61,10,81,118,40,84,405,139,62,180,2,439,78,19,118,59,1,78,92,17,16,249,126,22,80,40,34,73,45,1,1,144,11,11,31,53,33,351,31,53,18,441,392,183,1,75,189,13,261,60,217,343,49,16,41,4,1,1,3,31,36,2,1,6,8,2,10,17,73,9,1,4,9,8,19,33,82,10,1,3,2,1,122,39,59,113,22,34,47,9,4,1,235,42,7,16,1,2,8,3,2,5,17,40,28,98,62,1,1,9,64,14,4,4,16,32,43,1,11,1,14,9,10,25,77
+Between	7,3,18,198,170,22,598,227,399,12,112,11,51,1,38,77,78,546,42,362,100,3,189,119,74,110,16,1,47,54,113,644,234,2,104,190,61,10,81,118,40,84,405,139,62,180,2,439,78,19,118,59,1,78,92,17,16,249,126,22,80,40,34,73,45,1,1,144,11,11,31,53,33,351,31,53,18,441,392,183,1,75,189,13,261,60,217,343,49,16,41,4,1,1,3,31,36,2,1,6,8,2,10,17,73,9,1,4,9,8,19,33,82,10,1,3,2,1,122,39,59,113,22,34,47,9,4,1,235,42,7,16,1,2,8,3,2,5,17,40,28,98,62,1,1,9,64,14,4,4,16,32,43,1,11,1,14,9,10,25,77,130,85,29
 Between Ambition and Implementation	3271
 Between Geneva	7320
 Between Innovation and Accountability	10270
@@ -1589,7 +1600,7 @@ Beyon Connect and Post Connect	4111
 Beyon Group	4093
 Beyon Money To Bolster Digital Payments	5322
 Beyon Romain NEBIE Didier OUEDRAOGO	4211
-Beyond	572,327,62,193,50,24,135,391,12,48,89,193,182,7,9,26,38,64,13,24,59,7,1,43,108,25,33,68,11,75,56,40,20,54,6,30,38,2,40,47,92,35,60,78,46,6,14,30,21,4,55,36,8,35,35,63,37,28,27,2,31,120,55,10,21,7,13,13,3,161,9,57,80,29,1,10,4,25,19,10,14,1,42,5,2,13,25,8,1,2,9,30,2,3,25,34,28,8,34,44,17,13,2,1,2,1,19,39,39,58,12,13,87,2,8,7,1,4,1,18,12,9,14,7,2,3,14,44,34,44,15,13,54,30,18,7,69,15,9,27,9,2,28,20,13,6,36,29,11,9,20,76,5,19,13,14,10,7,10,15,24,30,8,15,9,1,21,40,6,15,11,22,28,41,16,22,27,35,22,32,9,52,13,16,8,55,42,26,29,20,20,32,1,24,4,3,91,45,16,17,10,30,5,76,57,16,8,6,10,7,1,12,14,3,31,6,6,74,22,69,3,44,12,10,17,13,4,25,7,64,1,6,25,18,52,80,88,13,21,9,21,1,10,2,3,36,27,48,8,14,4,27,82,5,12,107,30,22,4,48,8,15,3,1,3,45,4,13,24,14,105,19,47,26,22,54,4,29,26,26,20,16,11,46,25,29,42,8,11,96,76,9,34,8,35,4,17,8,34,41,9,11,26,67,64,3,9,25,17,3,23,4,3,47,50,32,1,5,53,25,3,12,5,9,6,39,17,9,23,6,12,8,15,41,10,8,20,12,4,54,10,36,53,1,113,27,53,36,12,2,11,4,24,22,11,4,1,16,3,2,18,10,5,7,5,15,70,23,16,4,9,6,12,3,23,5,51,39,5,3,1,4,1,4,9,81,14,6,63,12,7,1,84,74,26,29,26,78,60,4,1,20,1,121,34,11,14,48,26,15,32,13,40,43,59,22,19,31,33,22,14,6,30,42,13,11,8,18,8,11
+Beyond	572,327,62,193,50,24,135,391,12,48,89,193,182,7,9,26,38,64,13,24,59,7,1,43,108,25,33,68,11,75,56,40,20,54,6,30,38,2,40,47,92,35,60,78,46,6,14,30,21,4,55,36,8,35,35,63,37,28,27,2,31,120,55,10,21,7,13,13,3,161,9,57,80,29,1,10,4,25,19,10,14,1,42,5,2,13,25,8,1,2,9,30,2,3,25,34,28,8,34,44,17,13,2,1,2,1,19,39,39,58,12,13,87,2,8,7,1,4,1,18,12,9,14,7,2,3,14,44,34,44,15,13,54,30,18,7,69,15,9,27,9,2,28,20,13,6,36,29,11,9,20,76,5,19,13,14,10,7,10,15,24,30,8,15,9,1,21,40,6,15,11,22,28,41,16,22,27,35,22,32,9,52,13,16,8,55,42,26,29,20,20,32,1,24,4,3,91,45,16,17,10,30,5,76,57,16,8,6,10,7,1,12,14,3,31,6,6,74,22,69,3,44,12,10,17,13,4,25,7,64,1,6,25,18,52,80,88,13,21,9,21,1,10,2,3,36,27,48,8,14,4,27,82,5,12,107,30,22,4,48,8,15,3,1,3,45,4,13,24,14,105,19,47,26,22,54,4,29,26,26,20,16,11,46,25,29,42,8,11,96,76,9,34,8,35,4,17,8,34,41,9,11,26,67,64,3,9,25,17,3,23,4,3,47,50,32,1,5,53,25,3,12,5,9,6,39,17,9,23,6,12,8,15,41,10,8,20,12,4,54,10,36,53,1,113,27,53,36,12,2,11,4,24,22,11,4,1,16,3,2,18,10,5,7,5,15,70,23,16,4,9,6,12,3,23,5,51,39,5,3,1,4,1,4,9,81,14,6,63,12,7,1,84,74,26,29,26,78,60,4,1,20,1,121,34,11,14,48,26,15,32,13,40,43,59,22,19,31,33,22,14,6,30,42,13,11,8,18,8,11,124,2,3,16,88,34,5
 Beyond AI	9936
 Beyond AI Initiative	10695
 Beyond Access	10726
@@ -1668,6 +1679,7 @@ Birr. Beyond	8646
 Birth Registration Completeness Between	12151
 Bjoern Bengelsdorf	11922
 Board Audit and Risk Assurance Committee BETA	6946
+Bob Bell	12544
 Body Betrügereien	11316
 Bold Bet	5200
 Bolsas de Estudo Externas BEI	11387
@@ -1675,6 +1687,7 @@ Bonaventure Benjamin Panzet Sébas	3319
 Boost Its Economy Adel Bentoumi	2790
 Boost Your Bedroom Performance	5574,215
 Boris Bertolt	2534
+Botswana. Between	12601
 Bouar and Berbérati	4190
 Brazil Daniel Berhanie Enyew	12246
 Brigadier General Abdeslam Belghoul	5270
@@ -1761,6 +1774,7 @@ Chief Benefits Officer RSSB	12370
 Chief Executive Officer of MTN Benin	6210
 Chief of Staff Ato Tefera Befekadu	12195
 Chieftainess Mat'senolo Bereng	309
+Child Should Be Left Behind	12636
 Chile and Belgium	8075
 China's Belt and Road Initiative	10632
 China. Beneficiaries	8560
@@ -1899,6 +1913,7 @@ Desistência Angola Bengo	10766
 Desmond Bermingham	1679,10228
 Despite BEE	9935
 Deterioration Increasing Deterioration Not Classified Best	10759
+Develop Beta Version	12693
 Development Agency of Belgium’s Federal Government	12358
 Development of Lithops BESS	12399
 Development of Omburu BESS	12399
@@ -2078,6 +2093,7 @@ Fondation Bestseller	11351
 Food Provision Beneficiaries	12373
 Food and Beverage	4972
 Foreign and Security Policy Between the African Union	7794
+Formal ICT Benchmarking	12529
 Fornecedores de Bens	10783
 Fornecimento de Bens	4274
 Forum de Beijing	10615
@@ -2181,6 +2197,7 @@ Heal Psychol Behav Med	8376
 Health and Behaviour	1154
 High Commissioner for Digitalisation Meriem Benmouloud	5742
 High Commissioner for Digitalization Meriem Benmouloud	2845
+Highlight Benefits	12675
 Homabay County Women Representative Hon. Bensuda	6946
 Hon. Ben Phiri	8667
 Hon. Bensuda	6946
@@ -2339,9 +2356,12 @@ Kok and Berthold1999	8283
 Komora Vocational Training Centre and St. Benedict	7394
 Kribi Bertoua	10975
 L. Beyene	1828
+LAA SCOOPS BEST GIS AWARD	12662
 LEGISLATIVE FRAMEWORK Below	11216
 LESSONS LEARNED AND BEST PRACTICES	12333
+LEVERAGE BENEFITS OF INCREASED REGIONAL INTEGRATION	12680
 LMICs. Between	11902
+LNDC and BEDCO	12703
 LOPEZ BENITEZ	6613
 La BEAC	5353,1833,97,3441,1220
 La Nation Benin	87,11707
@@ -2373,8 +2393,10 @@ Legal Harassment Under Cybercrime Laws Beyond	5215
 Legislature. Construction Projects Behind Schedule	9650
 Leila Benali	4032
 Leone Belize Lesotho Somalia Burma Liberia	11005
+Leribe and Berea. The Commission	12753
 Lesedi Bewlay. Report	4145
 Leste. Em Benguela	10751
+Leverage Benefits of Increased Regional Integration	12717
 Leveraging BEAC	10841
 Licence Appeals By Rihab Ben Moussa	6784
 Life Below Water	1131
@@ -2469,6 +2491,7 @@ Mauritius Bets	6458
 Maximising AI Benefits for Building	1814
 Maximising the Benefit of AI for Africa	1814
 Mbeya Regional Commissioner Beno Malisa	5002
+Mean Time Between Failures	12592
 Meijer and Bekkers	5700
 Membership Benefits	3513
 Merci Beaucoup	9761
@@ -2579,6 +2602,7 @@ Nardos Bekele-Thomas	7795
 Nassuf Ben Amad	5833,15,712,1800,926
 Nassuf Ben Amad L’Institut National	10285
 Nathan M. Belete Practice Manager	1867,1695,8614
+National Asset Behind Everyday Digital	12632
 National Bank of Belgium	6373
 National Benchmark Study and South African Digital	9045
 National Budget. Reserve Bank of Zimbabwe Benchmarking	11131
@@ -2634,6 +2658,7 @@ O País Mozambique’s Prime Minister Benvinda	11340
 OADC Rondebosch and OADC Bellville	9617
 OECD's Best Practice Principles	10570
 OPTIMISED BENEFICIAL OWNERSHIP DECLARATION MS. LUCINDA	11219
+OUTCOMES Berea	12733
 October. Beyond	8095
 Officer Bernice Lemedeket	12310
 Omar Berkouk	8720
@@ -2680,7 +2705,7 @@ PROVÍNCIA Bengo	10751
 PUBLIC Health Service Tax Benefits Voting	10819
 PURPOSE AND BENEFITS	11184
 Pan-African Venture Capital Belgian Investment Company	612
-Paolo Belli	10763
+Paolo Belli	10763,1778
 Par Beaugas Orain DJOYUM	1648
 Par Belmondo ATIKPO	9042
 Par Dounia Ben Mohamed Après	8140
@@ -2699,6 +2724,7 @@ Paul Bennell	11907
 Paulo Beirao	12220
 Payload the Beninese	8713
 Payment Story Behind Its Food	5765
+Pearle Beach Resort	12649
 Pebble Bed Modular Reactor	11272
 Peer Benchmarking	4896
 Perceived Benefits of System Use	12025
@@ -2744,6 +2770,8 @@ Prime Minister Robert Beugré Mambé	3261,370
 Prime Minister Robert Beugré Mambé. Gilles	6193
 Prince Beganssou Protection	9620
 Principal Chief Seeiso Bereng Seeiso	3570
+Principal Managers and Ultimate Beneficial Owners	12542
+Principal Officers and Ultimate Beneficial Owners	12542
 Priorities for G20 Action. Berlin	12297
 Privada Angola Bengo Benguela	10766
 Privada Angola Bengo Benguela Bié	10766
@@ -2812,6 +2840,7 @@ Refugee Benefits	12328
 Regarding Benin	6147
 Regime de Prescrição de Certos Bens Abandonados	11404
 Regional Beneficiary Overview Current Beneficiaries	8999
+Regional Digital Hub Beyond	12632
 Regional Export Opportunity Beyond	10157
 Register Beneficial Owners' Information	12389
 Register of Beninese Abroad	3387
@@ -2888,6 +2917,7 @@ SEC Begins Full	9117
 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEN. Beneficiaries	1540
 SERVICES ON BEHALF OF THE CHAIRPERSON	10569
+SESOTHO WORD BANK BEING COMPILED	12713
 SHA Benefits Package and Tariffs Advisory Panel	4153
 SKILLS GAP HIDING BEHIND	12050
 SOMETHING YOU D0 Patterns Behaviuor	10819
@@ -2955,6 +2985,7 @@ Single Registry of Beneficiaries	12335
 Sir Tim Berners-Lee	748
 Sitack Yombatina Beni	2384,1204,745,235,171,1105,245
 Slowing Deterioration. Between	11888
+Social Benefit Registration System	12533,1
 Social Registries for Social Assistance and Beyond	10819,314
 Société Berkeley Energy	10975
 Solar PV and BESS Project	3688
@@ -3027,6 +3058,7 @@ Tamba Benoît Kamano. L'événement	4936
 Tania Priscilla Begazo Gomez	961
 Tarajal Beach	8810
 Target Beneficiaries and Stakeholders	11265
+Target Group Beginners	12677
 Tariff Average No. of Beneficiaries	12256
 Tax Benefits	11955
 Tech Behind the Vision	10983
@@ -3042,6 +3074,7 @@ Tensions Between Reform and Revolution Continuum	11028
 Theory of Planned Behaviour	5349
 Third-Party Benefits Assessment Accountability Collaborators	1243
 Through Regxta Daniel Goldberg Bets	6887,414
+Through the BETP	12588
 Thursday. Italian Social-Democrat Brando Benifei	8014
 Tihtina Belete Tihtina Belete	12162
 Tim Berners-Lee	748,1938
@@ -3095,10 +3128,11 @@ Ubale Ahmed Maska Bello Hayatudeen	11857
 Uganda Begins Nationwide Enforcement Against Illegal	7133
 Uganda Bets	2676
 Ultimate Beneficial Owner	9750
-Ultimate Beneficial Owners	9750
+Ultimate Beneficial Owners	9750,2792
 Ultimate Beneficial Ownership	6698,237
 Ultimate Beneficial Ownership Disclosure	6935,2815
 Ultimate Beneficial Ownership Disclosure CBN	9750
+Under the BETP	12588
 Universal Access Service Fund. Between	12395
 Universidade Beira Interior	10780
 Universidade da Beira Interior	10780

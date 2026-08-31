@@ -71,7 +71,7 @@ Closing Period Component	10768
 Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Componenente	11542
-Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14
+Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18
 Component B	5370
 Component Beneficiary Profile	10964
 Component CHW Community Health Worker CPF	11560
@@ -100,7 +100,7 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
@@ -160,7 +160,7 @@ Composer	11209
 Composite	9129,2140,27
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18
 Composition Each Member State	11517
 Composition du Conseil Stratégique	4567
 Composition of Board	3746
@@ -169,6 +169,7 @@ Composition of Exports	2775,8374
 Composition of GDP	12385
 Composition of Imports	2775
 Composition of Tax Revenue	1828
+Composition of Tribunal	12549
 Composição	13,154,1971,1906,2926,3784,1,22,582,14,10,38,95,2,9,1,41
 Composição da Codificação	11409
 Composição da Comissão de Fiscalização	11358
@@ -180,7 +181,7 @@ Composé	2342,8047
 Composée	10272
 Compound	11129
 Compound Annual Growth Rate	9759,1452,948
-Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651
+Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212
 Congo Component African Development Bank	117
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002
@@ -232,6 +233,7 @@ Females Board Composition Summary Gender Distribution	11131
 Figures O.1 Trade-Growth Line and Composition of Exports	11149
 Formas de Comportamentos Controladores	10777
 Foundations for Accelerated Digital Transformation Component	1228,1761,1664
+GOVERNANCE Composition of Board of Trustees The Universal	12552
 GPD DELIVERY COMPONENTS	11129
 GRM. Regarding Component	11525
 Gabon Component	301
@@ -272,6 +274,7 @@ Indirect Component	10964
 Information Components	12041
 Infrastructure SLAs Component Availabili Redundancy	11952
 Institutional Coordination and Citizen Engagement Component	1228,1761,1664
+Interactive Components	12675
 Intermediate Indicator Component	11965
 Intermediate Indicator for Component	1228
 Investment Project Financing Component	12176
@@ -366,6 +369,7 @@ Revised Revised Revised Component	1228
 Rwanda. Component	321
 SSA COMPONENT	854
 STRATEGIC COMPONENTS	396
+STRATEGIC FRAMEWORK AND COMPONENTS	12701
 SUMMARY OF REALLOCATIONS FOR COMPONENT	4653
 Selected Debt Service Components and Budget Funding	1828
 Semi and Fully Composed	1988

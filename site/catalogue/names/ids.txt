@@ -8,7 +8,7 @@ Cost of IDs	12328
 Cost of IDs Adjust	12328
 Daily Nations. Digital IDs	12138
 Description Number of IDs	1867
-Digital IDs	961,2774,879,1987,440,2642,470,809,1247,5
+Digital IDs	961,2774,879,1987,440,2642,470,809,1247,5,449
 Digital IDs Empower Women Cross	10819
 Digital IDs Means	11986
 Digital IDs Target	11986
@@ -28,6 +28,7 @@ IDS March-2026	6635
 IDS OpenDocs	4145
 IDS Uganda	2549
 IDSR DHIS2	11912
+IDSR Edition	12729
 IDSR Using Individual Case Form Compared	11912
 IDSR and BES Maternal Mortality Rate	4260
 IDSR and DHIS2	12003
@@ -112,6 +113,7 @@ Refugee IDs and Financial Access Kenya	12297
 Refugee IDs. Refugees	12297
 Registration for SWA IDs	12367
 Replacement of Green-barcoded IDs	11986
+Revision IDSR Integrated Disease Surveillance and Response	12729
 Rwandan IDs	12328
 SWA IDs	12327,10,30
 Smart IDs	2541,121,538,25,1561,1338,131,1076,412,2876,627,694,9

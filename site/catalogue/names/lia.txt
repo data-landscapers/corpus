@@ -67,7 +67,8 @@ Liabiilities	12389
 Liabilities	1154,790,8849,1162,409
 Liabilities Currency	11131,3
 Liabilities NAD	1013,931
-Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43,795,366,103
+Liabilities of Council	12526
+Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43,795,366,103,184
 Liability No Monitoring	26
 Liability Regimes	12389
 Liability and Asset Management Corporation	12233
@@ -109,6 +110,7 @@ PPE Revenue Net Profit Assets Liabilities	1944
 Parliamentary Liaison Office	10313
 Parliamentary Liaison Officer	11289
 Pending Litigations and Contingent Liabilities	5903
+Product Liability Standards	12675
 Professional Liability Insurance	12400
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Public Liability Company LGA P.O Ins	11129

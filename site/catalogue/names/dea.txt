@@ -6,6 +6,7 @@ Activities Qty Output Deadline P1	11862
 Actualité Jeff Dean	9620
 AfCFTA Secretariat Sign Deal	7523
 Africa Deal Volume Finds	4972
+Age Specific Death Rate AFDB	12639
 Algeria Sets One-Month Deadline for Government Data	6678,209,414,15,8
 Analyzing Mortality Levels and Causes of Death	12413
 Analyzing Mortality and Causes of Death	12413
@@ -20,6 +21,7 @@ Authorised Dealers	8840,2291
 Avec le New Deal	2442,3337
 Average Deal Volume Median Deal	4972
 BIRTHS AND DEATHS REGISTRATION ACT	11176
+BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BREAKDOWN BY NUMBER OF DEALS BREAKDOWN	10954
 Barcelona’s New Data Deal	5700
 Bay HOL Deadly	3637
@@ -34,6 +36,7 @@ Birth Registration Marriage Registration Death Registration	10814
 Birth and Death Certificate Registration Requirements	12496
 Birth and Death Registration Act CAP	1867
 Birth and Death Registration Act. Submission of Draft	11986
+Birth and Death Tables	12672
 Birth and Deaths Registration Act CAP	10822
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -43,14 +46,18 @@ Births and Deaths Compulsory Act	12064
 Births and Deaths Office	11133
 Births and Deaths Registrar	3287
 Births and Deaths Registration	5142,5680,1316
-Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130
+Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130,407,10,64
+Births and Deaths Registration Act CAP	12533
+Births and Deaths Registration Act Cap	12639
 Births and Deaths Registration Act No	12449
 Births and Deaths Registration Act. Regulations	8280
 Births and Deaths Registration Act. The RA	12151
 Births and Deaths Registration Bill	5299
 Births and Deaths Registration Ordinance	12151
 Births and Deaths Registration Ordinance No	12151
-Births and Deaths Registration System	5634,1
+Births and Deaths Registration System	5634,1,6962,42
+Births and Deaths Registration System MOH	12639
+Births and Deaths Registration System The Births	12639
 Births and Deaths Registration System. The Labour	5250
 Births and Deaths Registry	3287,5082,1166,1287
 Busoga Kingdom Seal Five-Year Deal	4608
@@ -84,14 +91,17 @@ Center Deal Doha Dubai	5322
 Certification of Cause of Death MIGEPROF Ministère du Gerne	12413
 Child Deaths	12367
 Children Deaths	12383
+Children's Act. The Births and Deaths Registration	12597
 Community Deaths	12151,262
 Compliance Deadline Lapses	5562
+Compulsory Registration of Births and Deaths	12523
 Congo Dead Weight Tonnage COSSOP	12256
 Control and Prevention CoD Cause of Death CRDP	12151
 Corporation CDR Crude Death Rate CECM	2775
 Country Of Death	12151
 Crowdfunding. Deals	4972
-Crude Death Rate	12151,232,30
+Crude Death Rate	12151,232,30,259
+Crude Death Rates	12639
 Current Representative Mr Dean Veverka	3513
 DEADAN GROUP LIMITED Data Controller INST-15537353009	7167
 DEADAN GROUP LIMITED Data Processor INST-15537353009	7167
@@ -121,16 +131,18 @@ Dead Capital	2592
 Dead SIMs Died	3798
 Dead-end	9123
 DeadLock	9815
-Deadline	7253,1232,61,453,893,1,723,206,505,190,872
+Deadline	7253,1232,61,453,893,1,723,206,505,190,872,328
 Deadline Responsible Body Key Outputs	3861
 Deadline for Development	8485
+Deadline for Obtaining Tender Document	12693
 Deadline for Submission of Applications	1638
 Deadline for Submissions	6748
-Deadlines	9794,1387,695
+Deadlines	9794,1387,695,841
 Deadlock	1695
 Deadly	4885,236,1152
 Deadly Attacks	10025
 Deadweight Tons EA Environmental Audit EAC	2775
+Deaf Lesotho	12692
 Deaf Outreach Program	8209
 Deal Activity Deal Value Shows Early	4972
 Deal Count	10954
@@ -161,7 +173,7 @@ Dealer	736
 Dealers	4513,7882
 Dealers and ISPs	1872
 Dealing	587,1931,1065,742,1208,1301,2006,165,2981
-Dealings	3714
+Dealings	3714,8936
 Dealroom	7181
 Deals	3695,1277,1818,397,1516,2566,766,304
 Deals US	4972
@@ -177,8 +189,8 @@ Dear Listers	9858
 Dear Madam	7074
 Dear Shareholders	11955,360
 Dear Sirs Space Exploration Technologies Corp	6891
-Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58
-Death Certificate	12217,74
+Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9
+Death Certificate	12217,74,348
 Death Certificates	11282,1009,205
 Death Certificates Personal	12496
 Death Death	12151
@@ -189,23 +201,27 @@ Death Match of Institutional Orders	11028
 Death Occurring	12226
 Death Prematurity Prematurity Prematurity	12151
 Death Rate CoD Cause of Death CR	12413
-Death Registration	2775,9376,90
+Death Registration	2775,9376,90,431
 Death Registration Completeness	12151
 Death Registration Forms Appendix A1	12151
 Death Registration Platform National Population Commission	7632
 Death Registration The Civil Registration Code	12167
 Death Services	12333
+Death Surveillance and Response MR Measles-Rubella NAPHS	12729
 Death X	12138
 Death X Minimum	12138
 Death and Identity Registers	2072
 Death of Member of Defence Force	12226
 Death of Several Persons	12226
-Deaths	2775,1485,41,6479,351,3,426,409,169,13,16,167,3,1,29,46
+Deaths	2775,1485,41,6479,351,3,426,409,169,13,16,167,3,1,29,46,120,139
 Deaths Among	12151
 Deaths Among Children Under	12151
+Deaths Mortality	12639
+Deaths Register	12523
 Deaths Registered	12291
 Deaths Registration	12151,216
 Deaths Registration Act	11986,351,30
+Deaths Registration System	12639
 Deaths Registry	2772
 Deaths Registry and Ghana Health Service	2772
 Deaths Table D01	12367
@@ -214,6 +230,7 @@ Deaths and Marriages	12367
 Decisões da CE DEAO	11519
 Declare Death	12226
 Defends NRM Cooperation Deal MTN Apologises	4608
+Development Dear Sir	12576
 Digital Ambassadors and Advocates. DEAMS	12241
 Disease Death Death Prematuri- Prematurity	12151
 Disease Death Death Prematurity Prematurity	12151
@@ -244,6 +261,7 @@ Female Death	12413
 Food Bank The Goal for Zero Deaths	12448
 Free-Trade Deal. Now Comes the Hard Part	10555
 GAB. Deal	5801
+Gaborone Dear Sir	12551
 Global Gateway. Deal	5499
 Government Extends Deadline for Obtaining National Identity	1655
 Government. Ministry of Planning Deals	11916
@@ -255,6 +273,7 @@ HOL Deadly	3405
 Harmonised Births and Deaths Registry Portal	9535
 Have Seen Enough Death	6947
 Health Institution Deaths	12151
+Hours Applications Deadline	12603
 ICD-10 International Classification of Causes of Deaths	12413
 ID. New Deal	3656
 IHS Deal	5752
@@ -323,6 +342,7 @@ Number of Deals	10
 Number of Deals Breakdown	12339
 OUTPUTS AND DEADLINES	11862
 Oct-2028. Proposed Deadline for Withdrawal Applications	11965
+On-site Registration of Births and Deaths	12533
 One-Month Deadline for Government Data Center Integration	6678
 Operations Bank of Zambia LUSAKA Dear Sir	12364
 Orchestration of Palestinian Life and Death	7147
@@ -353,9 +373,10 @@ Registered Deaths Of Kenyans Occuring Ovition	12151
 Registered Deaths of Kenyans Occuring Abroad	12151
 Registered Neonatal Deaths	12151
 Registered Proportion County County Neonatal Deaths	12151
+Registrar of Births and Deaths	12523
 Registration of Births and Death Act	12151
 Registration of Births and Deaths	5533,6444,9
-Registration of Births and Deaths Act	10822
+Registration of Births and Deaths Act	10822,1826
 Registration of Deaths	12151
 Renewal of Radio Dealer Certificate	736
 Republic. CHAPTER III REGISTRATION OF DEATHS	11176

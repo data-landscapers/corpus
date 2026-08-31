@@ -42,6 +42,13 @@ Benin Power Compact	87
 Bi-lateral Power Purchase Agreements	12399
 Biogas Power	12256
 BoC Power Bhola-2	11310
+Board. Powers	12535
+Body Botswana Power Corporation Electricity Generation	12604
+Body POWER HOUR	12592
+Botswana Power Corporation	12553,42,3,11
+Botswana Power Corporation Act	12535,60
+Botswana Power Corporation Botswana Power Corporation	12604
+Botswana Power Corporation NOTE	12592
 Build AI Factory Powered	3049
 Business Eswatini Pivotal Power Meeting	5015
 CONSTRAINED POWER	10861
@@ -56,8 +63,10 @@ Central African Power Pool	11149
 Chania Power Company	12256
 Chapter Powers	3714
 Chief Power	11976
+Commission Powers	12549
 Committee PUE Power Usage Efficiency PURA	1264
 Communication Power	2096
+Competence and Powers	12549
 Computer Room Equipment Power Distribution	9123
 Computing Power Hub	5242
 Conceal Market Power and Expand Platform Dominance	5700
@@ -192,12 +201,15 @@ Kenya Power and Rural	899
 Koeberg Nuclear Power Station. Programme	11272
 Koysha Hydroelectric Power	12233
 Kusile Power Station	2626,8597
+LCPDP Least-Cost Power Development Plan MCC	12717
 Labor Power	5366,52,1069,625,35,27
 Lack of Available Power Shared	11857
 Lake Turkana Wind Power	12256
 Land Construction Power	10861
-Least Cost Power Development Plan	12358
+Large Scale Renewable Energy and Power Infrastructure	12576,1
+Least Cost Power Development Plan	12358,322
 Least Cost Power Development Plan LKMP	12358
+Least-Cost Power Development Plan	12717
 Legal Power of Attorney	4283
 Licence To Construct Solar Power Plant	306
 Licensed Captive Power Capacities1	2775
@@ -205,6 +217,7 @@ Licensees Telecom Namibia Powercom MTC Paratus	1944
 Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Longitude Latitude Antenna Power Stations Station	736
+Low Halogen Power Supply Kit	12681
 M Benin Power Compact	87
 M MULTI-STAGE VENTURE FUND TO POWER	5879
 M P170734 Power Sector Recovery Performance	11469
@@ -237,7 +250,7 @@ Megawatts of Geothermal Power Generation	1245
 Menengai Geothermal Thika Power	12256
 Meter Power Cable	34
 Metumi Power Company	12256
-Microsoft Power BI	11231
+Microsoft Power BI	11231,1523
 Microsoft Power Platform	6353
 Microsoft Power Platforms	11231
 Microsoft Power Point	962
@@ -247,6 +260,7 @@ Middle Powers Can Build Influence	5029
 Middle Powers Digital Antitrust Efforts	5044
 Minister of Power	11976
 Ministry of Energy and Power Development	395,12106
+Morupule B Power Station	12604
 NIN and Power	9600
 NamPower and Powercom	1013
 Namibia Power Corporation Limited	12399
@@ -254,6 +268,7 @@ Namibia Power Corporation Pty. Ltd	12399
 National Assembly Powers and Privileges Act	10313
 National Electric Power Authority	11857
 National Electric Power Authority Act	11857
+National Electrification Strategy PPA Power Purchase	12717
 Ndola Energy Power Plant	5247
 Network Performance Network Performance Powered	6051
 Niklas. Trust and Power. Chichester	11138
@@ -270,6 +285,7 @@ Ontario Power Generation Pension Plan	9098,46
 Ossiomo Power	10689
 Out Stations Associated Latitude Power Capacity	736
 Out Stations Longitude Latitude Power Capacity	736
+PART III- Powers and Duties of Councils	12531
 PASEB Bissau City Power Supply Improvement	11549
 PIU Project Implementation Unit PPA Power	11549
 POWER DISTRIBUTION	12358
@@ -310,10 +326,10 @@ Powder	9123
 Powdered	8182
 Powell	2948,5018
 PowellBJWaltzTJChinmanMJDamschroderLJSmithJLMatthieuMMet	8376,3870
-Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9
+Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9,10,4,82,26,5,32,1
 Power Africa	11923,268
 Power Africa’s AI Future NetOne Steps	3965
-Power BI	6432,4444,99,256
+Power BI	6432,4444,99,256,1523
 Power BI and Excel. Trainings	8183
 Power BI. Ce	10975
 Power Behind Burundi’s... Katanga Lawyers File	3245
@@ -351,6 +367,7 @@ Power Operations Division	4896
 Power Outages	12213
 Power Packs	10742
 Power Parity PPP Project Procurement Strategy	11855
+Power Parity SADC Southern African Development	12663
 Power Platform	2524,4210
 Power Platform Fundamentals	6353
 Power Pool	12233,166
@@ -380,6 +397,7 @@ Power Smart City Vision Without	3101
 Power Station	736
 Power Supply	958,8165
 Power Supply Issues	12508
+Power Supply Report	12592
 Power Systems	9123
 Power Systems DC	9123
 Power Taken. The High Voltage Tariff	9409
@@ -398,7 +416,9 @@ Power of Attorney	22,8844,1237,272,1448,526
 Power of Attorney Sub-Merger Co	7198
 Power of Attorney. Recognising	8866
 Power of Collective Inteligence	11546
+Power of Commission	12548
 Power of Communities	3162
+Power of Council	12531
 Power of Minister	11181
 Power of Partnership and Invisible Infrastructure	5528
 Power of Registrar	3714
@@ -424,6 +444,7 @@ Powercom	1013,266,568,97
 Powercom and Nampower	1944
 Powered	3035,541,1669,216,311,97,182,191,688,67,8,248,286,490,1209,244,51,108,229,291,961,229,156,32,752
 Powered By China	3598
+Powered Overhead Fans	12681
 Powered Sustainability	11332
 Powered Sustainability UNDP Mauritius Annual Report	11332
 Powerful	9230
@@ -437,7 +458,7 @@ Powering Growth	11105,31
 Powering Regional Integration	11608
 Powering the Future of Enterprise Innovation	6056
 PoweringAfrica	12399
-Powers	11,16,756,437,113,141,119,925,1065,131,147,7318,2,9,274,512,413,70
+Powers	11,16,756,437,113,141,119,925,1065,131,147,7318,2,9,274,512,413,70,72,4,14,80,15,1,16
 Powers Africa Digital Academy	7687
 Powers B	8460
 Powers The NDGC	3861
@@ -445,10 +466,13 @@ Powers and Duties	3861
 Powers and Functions	12185
 Powers of Access	2913
 Powers of Board	7845
+Powers of Commissioner General	12546
 Powers of Court	3714
 Powers of Directors Rationale This Article	8866
 Powers of Members	585
 Powers of Members Rationale	8866
+Powers of Minister	12531
+Powers of Tax Tribunal	12629
 Powerstove	7015
 Powertel	1817,55,4128,245,769,22
 Powertel Acting Managing Director	7014,22
@@ -470,6 +494,7 @@ Public Services Political Power	11870
 Purchasing Power Parity	11183,398
 Purchasing Power Parity PPSD Project Procurement	10829
 PyTorch and PowerToys	11922
+REGIONAL INTEGRATION AND POWER TRADE	12563
 REMOVAL OF DIRECTORS POWERS OF DIRECTORS	585
 RISKS TO THE POWER SYSTEM	11228
 RMIPPPP Risk Mitigation Independent Power Producer	11228
@@ -477,11 +502,13 @@ Rabai Power	12256
 Reality Layers and Symbolic Power	9914,1,77
 Reclaiming Control of Data Systems Josh Powell	6337
 Redundant Power Supplies	11209
+Redundant Power Supply	12681
 Regional Emergency Solar Power Intervention	10180
 Regional Emergency Solar Power Intervention Project	6523
 Regional Integration and Power Trade Enhance Readiness	12399
 Registry Power Detaches	9914,1,77
 Regulations Independent Power Producers Recommended LED	12515
+Regulator. Powers	12666
 Reliable Power	12445
 Remote Station Tx Power Tunability	736
 Renewable Energy Independent Power Producer	11248
@@ -494,6 +521,7 @@ Restore NCC’s Exclusive Telecom Powers Wale	7776
 Risk Mitigation Independent Power Producer Procurement	11228
 Roads Rail Ports Power Supply	5247
 Ruacana Hydro Power Plant	12399
+Rural Electrification Unit Powers Remote Villages	12682
 Ruzizi III Holding Power Company Limited	3093
 Rx Power	736
 SADC Model Law Powers	27
@@ -517,7 +545,7 @@ Solar PV REFIT HOPSOL Power Generation	12399
 Solar PV Solicited IPPs HOPSOL Power	12399
 Solar Power	12358
 Solar Power for Telecom Towers Guarantee MIGA	704,1
-Southern African Power Pool	9959,1057,133,1084,166
+Southern African Power Pool	9959,1057,133,1084,166,281
 Southern African Power Pool. Every	10169
 Specific Powers of Board	7845
 Spectrally and Power Efficient Optical Communication Systems	4676
@@ -558,7 +586,7 @@ Unbroken Chain of Hutu Power Rwanda Leaves	6343
 Under the Risk Mitigation Independent Power Producer	11248
 Uninterrupted Power Supply	12253
 Uninterrupted Power Supply Minimum	9123
-Uninterruptible Power Supply	5793,1696
+Uninterruptible Power Supply	5793,1696,5274
 Union WAPP West Africa Power Pool	11549
 Unlocking the Economic Power of Refugees	10841
 VISION AND ATLAS III.1 Power	11366

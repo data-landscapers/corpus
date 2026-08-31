@@ -36,7 +36,7 @@ Banque Marocaine du Commerce Ext-rieur	10718
 Birth Registry Extraction	10765,10
 Bolsas de Estudo Externa	11472
 Bolsas de Estudo Externas BEI	11387
-Botswana Government Extraordinary Gazette	3887
+Botswana Government Extraordinary Gazette	3887,8662,75,6
 Bryanston Ext	11286
 CAMEROON EXTENDED NETWORK	11002
 CAR’s Joint External Evaluation	10829
@@ -46,8 +46,10 @@ CHEXIM. Extends	478
 COMPANIES External	3714
 COORP. Y LENGUAS EXTRANJ	4209
 COORP. Y LENGUAS EXTRANJ.- Concepto.-	4209
+COPYRIGHT RESERVED Extracts	12639
 Cabinet Minute Extract	2757
 Cameroon Fibre Optic Transmission Backbone Extension	4473
+Certificates of Origin. External	12539
 Certification Department and External Auditor Pass Pass	10819
 Channel Extra Domestic Revenue	10405
 Chief External Affairs Officer	4993,2438
@@ -95,6 +97,7 @@ Deuda Exterior Bilateral	4209
 Deuda Exterior Multilateral	4209
 Deuda Externa	4209
 Deuda Pública Externa	4209
+Development Partners and External Relations	12753
 Digital Cameras External Drives	34
 Digital Extension Tools	848
 Director External Fund and Credit Management Directorate	12195
@@ -133,6 +136,7 @@ EXTRACTS FROM THE M&A	4896
 EXTRACTS FROM THE MEMORANDUM AND ARTICLES	4896
 EXTRAORDINAIRES	3396
 EXTRAORDINARY GENERAL MEETING	4896,2302
+EXTRAORDINARY LESOTHO REVENUE AUTHORITY ACT NO	12644
 East African Community Common External Tariff	6921
 Economic Governance and Extractive Sector Support Project	7160
 Effects and Externalities of Smart Governance	5349
@@ -152,12 +156,14 @@ Extend	1828,2298,2706,716,3585,16,757,450
 Extend Google Cloud	4434
 Extend Its Super-App Ecosystem	5397
 Extend NSFAS	6832
-Extended	209,2268,2802,2428,265,50,1717
+Extended	209,2268,2802,2428,265,50,1717,2861
 Extended Abstracts	8460
 Extended Credit Facility	1828,1755,544,7409,13,10,617
 Extended Data Fig	11585
 Extended Deterrence Theory Approach	226
 Extended Fund Facility	10779
+Extended National Strategic Development Plan	12759
+Extended National Strategic Development Plan II	12759
 Extended Network	11002
 Extended Network. Country Currency Minimum Maximum	11002
 Extended Networks Limited	3862
@@ -166,6 +172,7 @@ Extended Reality	6832,716
 Extended Regular Cash Transfer	11988
 Extended Term Consultant for Poverty	10763
 Extended UTAUT Model	5349
+Extended Unemployment Rate	12600
 Extender	1701
 Extending	547,1338,2847,742,3398,277,1673,320,149,281,38,396,291,102
 Extending Broadband Connectivity	5245
@@ -186,7 +193,7 @@ Extensible	7988,4372
 Extensible Markup Language	12360
 Extensible Project Management Sparx Enterprise	9124
 Extensible Stylesheet Language	12360
-Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165,40,48,61,635,41
+Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165,40,48,61,635,41,583,81,88
 Extension Africa	5267
 Extension Couverture	3537
 Extension Definitions	6666
@@ -220,10 +227,11 @@ Exterior	4209,7152,75,457
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Exteriores	4209
 Externa	10757
-External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4
+External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,260,96,47,107,4,175,54
 External API	11952
 External Affairs Minister	2667
 External Affairs Minister Dr. S. Jaishankar	2667
+External Analysis	12759
 External Audit Program	3604
 External Audit The Audit Committee	1154
 External Audit The Auditor-General of Zimbabwe	1554
@@ -244,6 +252,7 @@ External Debt	2775
 External Debt Ser-	2775
 External Dependencies	10721
 External Development World Bank	6832
+External Environment	12759
 External Environment Analysis	11986
 External Environment and Material Trends	3410
 External Evaluation JEE Lower-Middle-Income Country LMIC	11417
@@ -275,7 +284,7 @@ External-Company-Registration-v 1 2-31-Mar-2026.pdf	12041
 Externalisation	10836,303
 Externalisation Article	10836
 Externalized	8460
-Externally	3255,2278,144,1932,412,3110,855
+Externally	3255,2278,144,1932,412,3110,855,646
 Externally-financed	1756,1,4,1,2,1376,4,1,2,3765,4,1,2
 Externallymaintained	8606
 Externo	4507,1
@@ -332,9 +341,11 @@ Extranet du GIM Pour	10711
 Extranjería	6841
 Extrants RI	10858
 ExtraordinaNryigeria Tax Administration Act	11976
+Extraordinary Gazette	12575
 Extraordinary General Meeting	3330,1566,2302,1741,161
 Extraordinary Meeting	7198
 Extraordinary Meeting Number	7912
+Extraordinary Summit	12640
 Extrapolating	5820,5184,898,62
 Extrapolating Regressions	236
 Extras	34
@@ -380,18 +391,21 @@ GABON EXTENDED NETWORK	11002
 GBF Ext GBF Int SBF Ext	7655
 GDP Developments Price Developments External Sector	11131
 GHANA EXTRACTIVE INDUSTRY TRANSPARENCY INITIAVE	170
+GOVERNMENT GAZETTE EXTRAORDINARY Vol. LXIII	12575
 GTMI Group A Extensive GovTech Maturity	10785
 GUINEA-BISSAU EXTENDED NETWORK	11002
 Gazetta. Extra Ordinary Issue No	12188
 Ghana’s Extended Credit Facility	7695
 Governance ETL Extract	11250
 Government Extends Deadline for Obtaining National Identity	1655
+Government. FOR EXTERNAL USE GLOSSARY AfDB	12717
 Guichet Unique des Opérations du Commerce Extérieur	5593
 Guichet Unique du Commerce Extérieur de Côte	2342
 Guichet Unique du Commerce Extérieur de Côte PROCHAINES	2342
 Harvard Extension School. Md Abdullah Omar	1828
 Health Extension Program	1219,11027
 Health Extension Workers	1219,11027,9
+Health Regulations JEE Joint External Evaluation	12729
 Health-Sector Extension	4260
 Home Affairs and External Communications	7845
 Huduma Kenya. Extra	9435
@@ -419,7 +433,7 @@ Inversión Directa Extranjera	4209
 Inversión Extranjera Directa	1701
 Inversión Extranjera Directa INAP	1701
 Join the Extractive Industries Transparency Initiative	3583
-Joint External Evaluation	10776,641
+Joint External Evaluation	10776,641,1312
 Joint External Evaluation JICA	10776
 Joint External Evaluation of International Health Regulation	11912
 KIGALI CHANNELS BPR EXTENDED NETWORK	11002
@@ -456,6 +470,7 @@ NPR. Extreme	11212
 Nacional de Emergência JEE Joint External Evalution	11376
 National External Quality Assessment	4217
 National External Quality Assurance Laboratory	4301
+Network of Agricultural Extension Agents	12529
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
 Notice of Extraordinary General Meeting	4896
 Notice of Extraordinary General Meeting of Shareholders	7198
@@ -505,6 +520,7 @@ RECOMMENDED EXTENSIBLE AUDITABLE	6423
 RELAÇÕES EXTERIORES E COOPERAÇÃO	11531
 REQUIRED EXTENSIBLE AUDITABLE	6423
 RESOLUÇÃO EXTRAJUDICIAL DE LITÍGIOS E PROCEDIMENTO	10755
+Re-opening of Maseru Magistrate Court Extension	12668
 Receitas Extraordinárias	10750
 Recent Economic Developments and Outlook External	11136
 Recursos Externos	4209

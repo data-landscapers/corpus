@@ -20,7 +20,7 @@ Business Days and Operating Hours	12364
 Business Days and Operating Hours The ZIPSS	12364
 CERTAIN TIMES OF THE DAY	11004
 CERTAIN TIMES OF THE DAY M	11964
-CRVS Day	3434,6114
+CRVS Day	3434,6114,3091
 CSO Open Days	7784
 Camtel Cloud Days	10994
 Capital Markets Day	6851,3942
@@ -56,11 +56,12 @@ DGSN Open Days	6452
 DPI Day	5356,114
 DPI Day. Rwanda's DPI Day	8449
 DRC DAY	2880
-Data Protection Day	1243,3557,7595
+Data Protection Day	1243,3557,7595,191
 Day Africa Lost Internet	2677
 Day Ago	11040,56
 Day Anti Drug Walkathon Liquid Intelligent	2987,16,962,1438,1506
 Day C	771
+Day Data	12690
 Day Enterprise	12017
 Day Hope Arrived	11656
 Day One Mark WalkerSeptember	7156
@@ -91,9 +92,10 @@ Days of Activism Against Gender-Based Violence	11332
 Daystar University	6946,584,1093
 Dayton Eberwein	10829
 DbHOXlX0py4 Day	8713
-Demo Day	5413,4704,628,1499
+Demo Day	5413,4704,628,1499,459
 Democracy Day	11857
 Digital Financial Services Day	940
+Ditladi Digital Centres World Radio Day	12625
 Dr. Dayo Lajide	9444
 ECA-convened World Fintech Day	12033,15
 ESS Reporting Official Use Only Day	12253
@@ -137,7 +139,7 @@ IR Demo Day	11309
 Imports Nuclear Day	11953
 Inaugural AI Innovation Demo Day	5413
 Income Days	11874
-Independence Day	2968,1204,992,563,624,1750,3231
+Independence Day	2968,1204,992,563,624,1750,3231,1293
 Independence Day and Republic Day	7845
 Information Commission Data Protection Day	4800
 Information Technology Day	6243
@@ -148,7 +150,9 @@ International Data Protection Day	12395
 International Day of Older Persons	10776
 International Day of Persons	4133
 International Identification Day	3586
+International Men's Day	12642
 International Open Data Day	4429
+International Women's Day	12642
 International Women’s Day	2668,9690
 International Women’s Day Webinar	2668
 International Youth Day	9648,138,85,1,1
@@ -186,8 +190,10 @@ Pan-African Women’s Day	8662
 Poppy Day Next Article Treasury	3933
 Posts Liquor Trading Days and Hours Application	11251
 Quality Days	10976
+Refugee Day	12627
 Regulatory Sandbox Demo Day. Barigye	6184
 Regulatory Sandbox Demo Day. Rwanda	6184
+Republic Day Youth Exchange	12617
 Revisit the Open Day	11332
 République Centrafricaine ID DAY	10880
 SADC Malaria Day	10776
@@ -200,6 +206,7 @@ Statistical Awareness Day	8248
 Statistics Awareness Day	8005,408
 Submarine Cables Each Day	4676
 Supplier Day	11134
+Support for World TB Day	12729
 Swati. Day	6821
 TH DAY	762
 TH DAYOF	11517
@@ -234,10 +241,11 @@ World Password Day	9902
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
 World Press Freedom Day	2844,3434,672
-World Radio Day	4660
+World Radio Day	4660,7965,89
+World Refugee Day	12627
 World Statistics Day	9708,1624
 World TB Day	2626
-World TV Day	4058
+World TV Day	4058,8567
 World Telecommunication Day and International Girls	6333
 World Telecommunication and Information Society Day	6168,151
 World Telecommunications Day	1215

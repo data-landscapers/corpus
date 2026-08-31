@@ -94,7 +94,7 @@ Autogas Dispensing Station	12256
 Autogirl	7798
 Automate	8817,1904,1219
 Automate Spectrum	5245
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102
 Automated Biometric	11986
 Automated Biometric Identification	11986
 Automated Biometric Identification System	2073,1342,2118
@@ -149,6 +149,8 @@ Automated Transfer and Settlement System	10845
 Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
 Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22
+Automatic Agro-Meteorological Stations	12728
+Automatic Climate Stations	12728
 Automatic Credit and Debit Notes Management	12509
 Automatic Data Processing	972
 Automatic Exchange of Customs Information	9745
@@ -164,9 +166,11 @@ Automatic Payment	11955
 Automatic Payment Terminals	11955
 Automatic Processing of Personal Data	8776
 Automatic Stay of Proceedings	12389
+Automatic Synoptic Weather Stations	12728
 Automatic Teller Machine DCC	11955
 Automatic Teller Machines	11939
-Automatic Weather Stations	11553
+Automatic Weather Stations	11553,1175
+Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296
 Automaticmapping	8606
 Automating	8436,409,392,1919,750,327,136
@@ -185,6 +189,7 @@ Automation and Work. National Bureau of Economic Research	11265
 Automation and Workforce	226
 Automation of CRS	12151
 Automation of County Own Source Revenue	9939
+Automation of Labour Administration Function	12597
 Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
 Automation of Smart Invoice	12420
@@ -401,6 +406,7 @@ BUFFALO AUTOLAB LTD Data Controller INST-7135671F063	7167
 Balancing Autonomy	6487
 Baseline Standards for Automated Anti-Money Laundering	5369
 Benefits Automation	4528
+Botswana Automated Clearing House	12537,42
 Business Processes Automation Phase	11231
 CA Autoridade Certificadora CFE Centro	11555
 CAPITULO III A AUTORIDADE REGULADORA NACIONAL	11518
@@ -444,8 +450,11 @@ Continuous Automated Red Teaming	10721
 Copilot Autofix	11922
 Cotonou. Autour	3591
 Couffo. Autorités	5823
+Counter Financing of Terrorism Automatic Teller Machine	12701
 Cox Automotive	10638
 Crédit Autogérée DSCE Document de Stratégie	10965
+Customs Procedures and Automation	12654
+Customs Procedures and Automation ASYCUDAWorld Registration	12654
 Câmara de Compensação Automatizada de Angola	11370
 D.G. AUTORIDAD AERONAUT.- Concepto	4209
 D.G. DE ENTIDADES AUTONOMAS Y EMPRESAS	4209
@@ -540,6 +549,7 @@ Introduction of Autofill	12041
 Judiciary Automation Project	6946
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kenya Verbal Autopsy Standards	10822
+Key Process Automated. Improve NSS Coordination	12551
 La Caisse Autonome de Retraite des Fonctionnaires	7800
 La Décision des Autorités	10711
 La Haute Autorité	11580
@@ -573,6 +583,7 @@ Nana Appiah Acquaye The Autorité de Régulation	5962
 National Crime Automated Biometric Identification System	11081
 National Criminal Automated Biometric Identification System	11062
 Nationale Autonome	10821
+Needs Assessment for Automated Case Management System	12668
 Nets Automated Teller Machines Integrated Social	10763
 Nigerian Autonomous Foreign Exchange Market	6408
 Nshi-Foumban Autorisation En	10975
@@ -588,6 +599,7 @@ Ola Auto	226
 Operational Autonomy and Integration	11285
 Os Autos de Declarações	11452
 PESCA Autorización	4209
+POS RGTS SACU SACCOs WB Automatic	12701
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
 PRÉ-REQUIS POUR UNE AUTONOMISATION	10711
 Pas Trop Trop Autom Pas de Peur	737

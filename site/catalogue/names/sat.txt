@@ -28,6 +28,7 @@ B Satisfactory C Average D Unsatisfactory	5679
 B Satisfied C Moderately	5679
 B. and H.-A. Satti	6947
 BeiDou Navigation Satellite System	5288
+Botswana Satellite	12554
 BrainSAT Satellite Services	6980
 BrainSAT Satellite Services and Thuraya	6980
 BrainSAT Satellite Services and Thuraya Satellite Phones	11290
@@ -75,9 +76,11 @@ Earth Segment Satellite Services	3641
 Earth. Satellite	10407
 Editorial Team The Satellite Gateway	5976
 Elevate Customer Satisfaction and Experience	3487
+Embedded SATA	12681
 Empresa GUICHÉ ONLINE PRODUZ RESULTADOS SATISFATÓRIOS	10753
 Enhance Employee Satisfaction and Drive	3487
 Enhancing LEO Satellite Connectivity	4232
+Enterprise Satellite Connectivity	12766
 Eswatini Commissions Starlink Satellite Gateway	5976
 Eswatini Tourism Satellite Account Committee	11131,3
 Eutelsat OneWeb Satellite Gateway	7207
@@ -109,9 +112,11 @@ Hugues Saturnin Kibangou	12027
 ICASA Spells Out Satellite Licensing Rules	6906
 II. CUSTOMER SATISFACTION SURVEY OF MOBILE	5679
 IN- National Satellite Leverage	11857
+Improve Customer Satisfaction	12552
 Infrastructure Satellite	11857
 Inquérito Nacional de Satisfação	6619,4803
 Integrated Customer Satisfaction Survey	11986
+Intel SATA Hybrid RAID	12681
 Interweb Satcom Ltd	3862
 Issue Licenses for More Satellite Operators	3773
 Jan-2016 Satisfactory Satisfactory	11924
@@ -153,7 +158,7 @@ Mobile Satellite Service Terminal	736
 Mobile Satellite Services	10407
 Mobile Satellite Station	736
 Mobile Satellite Station Details Type	736
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,657,177,100,605,1059,6126,107,78,431,529,41,6,17,207
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,657,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365
 Moderately Satisfactory Jun	6928
 Moderately Satisfactory Overall Implementation Progress	6579,5409
 Moderately Satisfactory Overall Risk Rating	6579,5409
@@ -219,6 +224,8 @@ SAT-2	3782
 SAT-3	2304,373,1105,150,316,1110,323,1092,435,121,962,818,1048
 SAT-3 and ACE	9573
 SAT3 Cable	3782
+SATA DVD-RW Optical Drive	12681
+SATA SSDs	12681
 SATA Trust Service Provider	10819
 SATA-relevant and African	10819
 SATA. All	10819
@@ -249,7 +256,7 @@ Sat-3	2320,1022,179
 Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
 Satellite Backhaul Services	10407
@@ -332,6 +339,7 @@ Satellite PMU and REA Soil	1988
 Satellite PMU and Reinstatement Dust	1988
 Satellite Paradox SpaceX	6467
 Satellite Project Management Unit	1867
+Satellite Rainfall Estimates	12611
 Satellite Receiving System	11966
 Satellite Service	762
 Satellite Service Fees	736
@@ -359,6 +367,7 @@ Satellite US	10407
 Satellite Wide Terrestrial	9781
 Satellite Wide Terrestrial Jinja	9781
 Satellite and Regional Models Satellite	11191
+Satellite-Based Land Cover Mapping and Monitoring	12667
 Satellite-Earth-Stations.pdf	1259
 Satellite-backed	8871
 Satellite-based	3641,8812
@@ -399,7 +408,7 @@ Satoshi Nakamoto	10702
 Satta T. Massaley Sow	9861
 Sattari M. Health	12255
 Satti	6947
-Satu Kahkonen	2832,541,1162
+Satu Kahkonen	2832,541,1162,8048
 Satu Kristiina Jyrintytar Kahkonen	12412,14
 Satu Kristiina Jyrintytar Kahkonen Practice Manager	6539
 Satu Kristiina Jyrintytar Kahkonen. Practice Manager	12388
@@ -439,6 +448,7 @@ Telecom Namibia Angola Telecom SATCAB 1200.jpg	6638
 Thuraya Satellite Phone and BrainSAT Satellite Services	6980
 Thuraya Satellite Phones and BrainSAT Satellite Services	11290
 Togo First. Satellite	8275
+Tourism Satellite Account	12631
 Trust Alliance SATA Institutional Framework TRUST	10819
 Trust Service Providers. The SATA	10819
 USAGERS Satisfaction	8637
@@ -450,6 +460,7 @@ User Satisfaction	8671
 User Satisfaction Survey	5679
 Using Satellite Imagery and Machine Learning	12006
 Utilising Global Navigation Satellite Systems	1131
+Vodacom Lesotho Satellite Broadband Solution for Enterprises	12766
 WB EHSGs Satellite PMU and Contractor Poor	1988
 Whilst the SATA	10819
 Will Control Africa's Satellite Internet	10588

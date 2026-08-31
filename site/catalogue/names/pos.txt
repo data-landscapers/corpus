@@ -22,6 +22,7 @@ African Common Positions	6488
 African Post	961
 Agence de Régulation des Postes	6684,5237
 Agency for Regulation of Posts and Electronic Communications	5075
+Aleksandra Posarac	12541
 Algeria Post	1343,1943
 Algeria Post and Sonelgaz Distribution	3286
 Algeria's Minister of Post and Wire and Wireless Transport	3669
@@ -56,6 +57,7 @@ Autorité des Postes	10691
 Autres Poste	2342
 B- BBEE Procurement Recognition Levels Postal	11211
 BONDOUKOU MANGANESE POSTE ET FINANCE CMB	2342
+BTC and Botswana Post	12601
 Baden Powell Drive Mobile Teams Postbank	8999
 Balance Sheet Position	11955
 Balance Sheet Position Equity	11955
@@ -78,7 +80,7 @@ BoZ.zm Postal	12364
 Board Chairman Moses Afetsi Positive	2829
 Border Post PFMA Public Finance Management	11218
 Border Posts	4535
-Botswana Post	2576,1321
+Botswana Post	2576,1321,8639,65
 Boîte Postale N	11139
 Branch Exchange PAYG Pay-As-You-Go PCK Postal	6946
 Bridgetown Apartado Postal	11563
@@ -87,6 +89,7 @@ Broadband Speed Ranking for Africa Position	1944
 Broadcasting and Postal	9335
 Broadcasting and Postal Questionnaire	11211,51
 Broadcasting and Postal Questionnaires	11211,51
+Broadcasting and Postal Services	12538
 Bureau de Poste	10965
 Business Post	4848,3338
 Bénin. Le POSAF	10712
@@ -221,6 +224,7 @@ Director of Telecoms and Postal Services	9669
 Directorate of Digital Economy and Posts	1264
 Direitos Humanos. Estes Postos de Recolha	10772
 District Postal Manager	11129
+Dobe Border Post	12597
 DÉMARCHE MÉTHODOLOGIQUE D’ÉLABORATION DU POSAF	10712
 Développement POSAF Plan	10712
 E DE OLHOS POSTOS NA ERA	11473
@@ -276,6 +280,7 @@ Finances. Le POSAF	10712
 Financial Position	1154,4384,3565
 Financial Post and TechCrunch	9098
 Findings Document and Position Paper	11235
+First Past the Post	12652
 First Qua National Breweries Posts First	6011,985
 Fonction des Postes	1837
 Foreign Position Exchange Reserves Capital	11134
@@ -286,6 +291,7 @@ GII Position	11895,264
 Gabinete de Comunicação Tomada de Posse	10752
 General Directorate of Posts and Telecommunications	2306
 Glance Number of Postal and Courier Licensees Number	6946
+Global Competitiveness and Strategic Positioning	12675
 Global Partners Digital’s Africa OEWG Positions	2117
 Global Positioning	11940
 Global Positioning System	1248
@@ -322,6 +328,7 @@ Impactos Positivos	11390
 Implementation Unit Post-Disaster Needs Assessment Project	1228
 Impossible Position Africa CDC Director-General Jean	5456
 Indonesia Business Post	11994
+Infrastructure Projects Establishment of Dobe Border Post	12597
 Initial Draft Posted	12058
 Innovation and Industry Collaborations Posted	6480
 Institut Supérieur Africain des Postes	10948
@@ -363,7 +370,9 @@ Le N'djam Post	2266,48,70,1204,745,235,171,806,299,245
 Le POSAF	10712
 Legal Integration and Hierarchical Positioning	3861
 Lesotho Post	5168
-Lesotho Post Bank	12252
+Lesotho Post Bank	12252,422
+Lesotho Postbank	12676
+Lesotho Postbank and Nedbank Lesotho	12676
 Letter Post	11129
 Letter Post Manual	11129
 Letter Posting Boxes	6946
@@ -407,7 +416,7 @@ Minister of Post and Telecommunication	5763
 Minister of Post and Telecommunications	2406,14,370,178,1019,546,346,233
 Minister of Post and Telecommunications Sid Ali Zerrouki	2567,215,1413
 Minister of Post and Wire and Wireless Transport	3764
-Minister of Posts	2398,112,285,165,120,16,217,96,190,172,13,175,71,651,117,490,593,6154
+Minister of Posts	2398,112,285,165,120,16,217,96,190,172,13,175,71,651,117,490,593,6154,688
 Minister of Posts and Tele	8505
 Minister of Posts and Telecommunications	2126,1109,957,370,131,2366,899,547,1,2494
 Minister of Posts and Telecommunications Category	11000
@@ -444,6 +453,7 @@ Mobile Data Pre-paid and Post-paid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions	2776
 Mobile Data Prepaid and Postpaid Subscriptions Mobile	2776
 Mobile Mobile Money Registered Posta Uganda	9781
+Mobile Positioning Data	12551
 Moderate Post Limited Direct Contract	11855
 Moderate Post Limited Qualifying	11855
 Moderate Post Limited Request	11855
@@ -454,6 +464,7 @@ Moniepoint's POS	8001
 Monrovia. Minister of Posts and Telecommunications Sekou M	3008
 Moses Afetsi Positive	2829
 Mozambique Government Network Global Rapid Post-Disaster	1228
+Mr. M. Posholi	12646
 MultiPay-enabled POS	4286
 Multinationale Supérieure des Postes	3604
 NALA's Own Position	6397
@@ -466,6 +477,7 @@ NIH Insight Fogarty Postdoctoral Fellow	10662
 NPLs NPS POS QGDP QPM REMCO	11134
 NRI Year Position	236
 Nakonde One-Stop Border Post	5247
+Name and Position	12693
 Name of Post Office Country Text	11180
 Namibia's Global Position	2230
 Nat. ID No. Postal Address Physical	736
@@ -513,7 +525,7 @@ October. Egypt Post	9064
 Office des Postes	4715
 Office of Postgraduate Studies	3791
 Offices des Postes	11522
-One-Stop Border Post	8167,332
+One-Stop Border Post	8167,332,4235
 One-Stop Border Post Bill	5533,6453
 One-Stop Border Posts	10324,961
 One-Stop Border Posts. The C-BRTA	10324
@@ -533,6 +545,7 @@ POS Fleet	11955
 POS Machines	11955
 POS PC	11955
 POS Parts	11955
+POS RGTS SACU SACCOs WB Automatic	12701
 POS Sales	11955
 POS Terminals	12038
 POS Terminals Nationwide	9117
@@ -580,6 +593,7 @@ POST-ISAC	8392
 POST-PAID DATA PRICES	11211
 POSTAL	2677,3323,5262
 POSTAL ADDRESS	11218,6,16
+POSTAL ADDRESS Head of Project	12557
 POSTAL AND COURIER SERVICES	6671,5724
 POSTAL AND COURIER SERVICES LICENCE FEES	1223
 POSTAL AND COURIER SERVICES Table of Contents	395
@@ -609,8 +623,10 @@ POSt8S	37
 PREPAID AND POST-PAID MOBILE CELLULAR PHONE	11211
 PREPAID AND POST-PAID VOICE AND MESSAGING	11211
 PREPAID AND POSTPAID MOBILE CELLULAR PHONE	11262
+PRESIDENT DROUPADI MURMU Posted	12568
 PRI Post-conflict FCS US	11310
 Pan African Postal Union	5185,1761
+Pan African Postal Union PESTEL	12759
 Pan-African Postal Union	4953,5556
 Pan-African Regulatory Position	8301
 Parcel Post	11129
@@ -644,18 +660,20 @@ Posicionamiento	1701
 Posicionarse	1701
 Posición	1701
 Positif	1005
-Position	34,1843,8,59,44,2908,2302,1801,1866,1091,255,91,63,79,3
+Position	34,1843,8,59,44,2908,2302,1801,1866,1091,255,91,63,79,3,102,126
 Position AfCFTA	11149
 Position Cabo Verde	11863
 Position Eswatini Regionally	12444
 Position GI-KACE	4126
 Position Kenya	7548,4662
+Position Lesotho	12675
 Position Nigeria	4848,6193,816
 Position Paper	4824,4066
 Position Paper N	10865
 Position Paper No	10865
 Position Rwanda	1204
 Position Still Under Development	5919
+Position Tenderer	12693
 Position Zambia	12356
 Position the Central African Republic	2211,1389
 Positionality Statement	4439
@@ -675,7 +693,7 @@ Positions NOT FOR PUBLIC RELEASE	4301
 Positions The Gambia	4829
 Positions WSIS	2110
 Positions for AfCFTA-interoperable	4791
-Positive	940,888,2620,77,914,1765,1925,3149,19
+Positive	940,888,2620,77,914,1765,1925,3149,19,396
 Positive H10	9129
 Positive H11	9129
 Positive H7	9129
@@ -716,7 +734,7 @@ Possibility	766,10009
 Possibility of Derecognition. Subject	3503
 Possibilité	6045
 Possibilités	10708
-Possible	789,181,249,913,298,5360,1333,1652,54,168,137,94,119,510,99,258,94
+Possible	789,181,249,913,298,5360,1333,1652,54,168,137,94,119,510,99,258,94,410
 Possible Agreement VIII	1243
 Possible Candidate William Ruto Edwin Sifuna	7869
 Possible Options for Adaptation	10829
@@ -748,7 +766,7 @@ Post Monthly Newsletter	11251
 Post Move	2103
 Post Natal Care	12440
 Post National Individuals	11855
-Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183
+Post Office	1810,1454,3457,4408,50,1,19,1,1016,1,183,265
 Post Office Address Type	11129
 Post Office Box	11129
 Post Office Box Ad	3386
@@ -825,6 +843,7 @@ Post-Reset Floor	4972
 Post-School Education and Training	6832,2296
 Post-School Education and Training PM	6832
 Post-Settlement Support Fund	12373
+Post-Supply Adjustments	12630
 Post-Upper Secondary485599	12413
 Post-VAT	12385
 Post-adoption	7759
@@ -869,7 +888,7 @@ Posta Uganda	5394,2638,929,820
 Posta Uganda National Postal Operator	9781
 Postagens Relacionadas	10114
 Postais	11415,13
-Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112
+Postal	718,18,222,265,1033,181,949,328,273,541,640,785,47,890,56,1970,865,1348,2,3,46,17,1,13,50,1,1133,5,112,40,6
 Postal Act	11211,51
 Postal Address	1735,142,431,2588,7250,254,10
 Postal Address Code	12140
@@ -904,6 +923,7 @@ Postal Network Public Perception of Infrastructure Rural	10837,1315,188
 Postal Network Secure Employment Opportunities Access	10759
 Postal Networks	5241
 Postal Operations Council	4093
+Postal Operator	12558
 Postal Regulator Services	2104
 Postal Sector	10509,1886
 Postal Sector Employment Employment	12395
@@ -915,7 +935,7 @@ Postal Sector Revenue Postal	12395
 Postal Service General Operators	958
 Postal Service Point Counter	12395
 Postal Service Revenue	12395
-Postal Services	1223,1552,357,285,7794,1184
+Postal Services	1223,1552,357,285,7794,1184,143,20,101
 Postal Services Act	7878,3321,1,11,51
 Postal Services Act No	7779,99,4498,77
 Postal Services Corporation	7878
@@ -928,6 +948,7 @@ Postal Telecommunications Regulatory Authority of Zimbabwe	9433
 Postal Traffic	6671
 Postal Transformation	5241
 Postal Union	12395
+Postal and Broadcasting	12601
 Postal and Courier	958,5042,946,5449
 Postal and Courier Compliance	6946
 Postal and Courier Density	6000
@@ -1054,6 +1075,7 @@ Postgis	11941
 Postgraduate	3791,3155,5461
 Postgraduate Certificate	4896,2050
 Postgraduate Diploma	4896,1936,114,1569,3892
+Postgraduate Qualification	12686
 PostgreSQL	2966,3466,3125,503,1704,378
 PostgreSQL and Amazon Web Services	7977
 PostgreSQL. Migrate	6432
@@ -1079,11 +1101,12 @@ Postos de Identificação Civil	10772,3
 Postos de Recolha	10772
 Postos de Registo	11537
 Postos de Registo Civil	11537
-Postpaid	2776,3961,3996,60,182,1461
+Postpaid	2776,3961,3996,60,182,1461,165
 Postpaid Active SIM	1944
 Postpaid Active SIM TN Mobile	1013
 Postpaid Energy Ex	12358
 Postpaid Mobile Voice Subscriptions	3862
+Postpaid Uncapped Internet Vodacom Uncapped	12769
 Postpaid Voice Subscriptions- Mobile	3862
 Postpaid. Tableau	10975
 Postpartum Infant Care Program	6423
@@ -1173,6 +1196,7 @@ Préscolaire Primaire Postprimaire Secondaire Ensemble	737
 Public Counter Positions	6946
 Public Key Infrastructure POS- Point of Sales	11955
 Public Postal	718
+Public Postal Operator	12558
 Puts Technology In Young Hands Posted	9648
 Q2 POS ATMS INTERNET MOBILE MONEY	6978
 Q2 POS ATMs INTERNET MOBILE MONEY	6978
@@ -1258,6 +1282,7 @@ Shirika la Posta Tanzania	2868,3151,1830
 Signature Type of Radio System Position Held	736
 Similar Posts	11297
 Sistema de Posicionamento Global	10777,750
+Smart One Stop Border Post	12742
 Sociais Positivos Relacionados	11406
 Social Media Post Sparks Diplomatic Exchange	4942
 Société Congolaise des Postes	6438
@@ -1279,7 +1304,7 @@ Southern Africa Postal Operators Association	962
 Southern African Development POS	11960
 Statement of Financial Position	1554,9577,3,75,21
 States and Local Government Areas. Delineation of Postcode	11129
-Stop Border Posts	9168,87
+Stop Border Posts	9168,87,3469
 Strategic Positioning	4896
 Subsector Postal	4209
 Substantial. Positive	1988
@@ -1294,7 +1319,7 @@ Sunyani. Sunyani Municipal Operational Postal Address	3386
 Supabase PostgreSQL	5513
 Supply of Internet Possession Administration and Electronic	1797,1413,3880
 Swazi Post	12405
-Swedish Post and Telecom Authority	215
+Swedish Post and Telecom Authority	215,12410
 Syrian Telecommunication and Post Regulatory Authority	10793
 THIRTY-FIRST POST-CABINET PRESS BRIEFING	3760
 THÉORIE DE CHANGEMENT DU POSAF	10712
@@ -1335,10 +1360,12 @@ Undergraduate and Postgraduate	2667
 Union Postale Universelle	998
 Union of Teachers Development Mohammed Nigerian Postal	11129
 Universal Postal Authority	6946
+Universal Postal Services	12558
 Universal Postal Union	940,4013,232,1761,2810,1227,146,1020
 Universal Postal Union Council of Administration	3990
 Universal Postal Union International Addressing Standards	11129
 Universal Postal Union Standard for Mail Addressing	11129
+Universal Postal Union USF	12759
 Universal Postal Union V-DEM Varieties of Democracy	10759,78,1052,451
 Universal Postal Union for Eswatini	12395
 University and Eswatini Post	12361

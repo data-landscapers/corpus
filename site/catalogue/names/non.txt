@@ -44,6 +44,8 @@ Bank and Other Formal Non Bank Banked	940
 Bank and Other Non Formal	940
 Banked and Other Formal Non Bank	940
 Biometrics APIs None Bank	12490
+Botswana Council of Non-Governmental Organisations	12556
+Botswana Council of Non-Governmental Organizations	12626
 Branche Aucun SYSCOHADA Cahier de Non	10875
 Branche Micro- Petite Moyenne Grande Non	10875
 Branche Oui Non Non	10875
@@ -67,11 +69,13 @@ Challenges Non-cost-reflective SAPP	12399
 Change Non-current	11955
 Charges and Non-Tariff Measures	12389
 China. Nonetheless	3554
-Civil Society and Non-Governmental Organizations	4528
+Civil Society and Non-Governmental Organisations	12591
+Civil Society and Non-Governmental Organizations	4528,8164
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 Coincidence None	10010
 Commercial Banks’ and Non-Bank Financial Institutions’ Bills	2775
 Commercial Banks’ and Non-bank Financial Institutions’ Bills	2775
+Communicable and Non-Communicable Diseases	12729
 Communication ONG Organisation Non Gouvernementale ORM	11944
 Company Non-controlling	10793
 Confidentiality and Non-Disclosure Agreement	9211
@@ -178,6 +182,7 @@ Laptops for Non-Technical Chief Directors	2779
 Laptops for Non-Technical Staff	2779
 Les Contributions Foncière des Propriétés Non Bâties	6954
 Les Contributions Foncière des Propriétés Rurales Non	6954
+Lesotho Council of Non-Governmental Organisations	12661
 Lex Lata Vel Non	5242
 Liberia Nona Deprez	3008
 List of Non-Core CPI Items	2775
@@ -204,6 +209,7 @@ Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
 Mozambique. Nonetheless	12161
 Ms Nonkosi Mvana	11229
 Ms Nonkqubela Thathakahle Jordan-Dyani	11940
+Ms Nono Kgafela-Mokoka	12565
 Ms Thoko Moyo. Non-Executive	4896
 Ms. Nonhlanhla Dlamini. Mr. Maalim	12433
 Ms. Odete J. Sons Non-Executive Board	11134
@@ -292,17 +298,22 @@ Non-Automated Public Counters	6946
 Non-Bank Financial Institutions	4987,4839
 Non-Bank Financial Institutions Act	6940
 Non-Bank Financial Institutions Building Society	11134
+Non-Bank Financial Institutions Regulatory Agency PE	12540
+Non-Bank Financial Institutions Regulatory Authority	12598
 Non-Bank Financial Institutions The NBFIs	11131
 Non-Bank Financial Intermediation	6938
+Non-Bank Lending Bill	12598
 Non-BanksThe SARB	5691
 Non-Citizen Birth Certificates	12496
 Non-Citizen Identity Card	7317
 Non-Citizens	7845
 Non-Communicable	12413
+Non-Communicable Diseases	12729
 Non-Communicable Diseases NAPHS	10776
 Non-Communicable Group III	12413
 Non-Competitive Procurement	9650
 Non-Compliance	11896
+Non-Compliant	12597
 Non-Concerné	737
 Non-Consulting	11525
 Non-Consulting Services	1638,9887,380
@@ -312,6 +323,7 @@ Non-ConsultingServices	1638
 Non-Core Basket and Weights	2775
 Non-Core Index	2775
 Non-DPI	11487
+Non-Development Manager	12606
 Non-Disclosure Agreement	7433,3288
 Non-Disclosure Agreement and Memorandum of Understanding	8514
 Non-Discrimination	3861
@@ -336,12 +348,13 @@ Non-Geostationary	10407
 Non-Geostationary Orbit	10407
 Non-Geostationary Satellite Orbit	2913,2767
 Non-Geostationary Satellite Orbits	2913
+Non-Governemental Organisations	12642
 Non-Government Organisation	12367
 Non-Government Organisation NHNSF	11252
 Non-Government Organizations Act	3583
 Non-Governmental Organisation	789,1535
 Non-Governmental Organisation BDS Business Development NRB	12297
-Non-Governmental Organisation Council	5250
+Non-Governmental Organisation Council	5250,7347
 Non-Governmental Organisation NIPAC	958
 Non-Governmental Organisations	396,544,5181,5033,706
 Non-Governmental Organization	12356
@@ -372,6 +385,7 @@ Non-Oil GDP	1828
 Non-Oil Revenue	10997
 Non-Payment of Successful Grant Applicants	2307
 Non-Performing Loans	11131,338
+Non-Permanent Member	12640
 Non-Personal Data	7548
 Non-Pilot Health Zones	11912
 Non-Polio Acute Flaccid Paralysis	4217
@@ -401,7 +415,7 @@ Non-Tariff Measures	12389
 Non-Tax Revenue	2757
 Non-Tax Revenue Portal Across Different MDAs	8669
 Non-Technical Staff	2779
-Non-Terrestrial Networks	5245
+Non-Terrestrial Networks	5245,7521
 Non-Traditional Consumer Lending	7469,91,1103
 Non-Traditional Consumer Lending Regulation	7600
 Non-Traditional Consumer Lending Regulations	3538,5043
@@ -430,7 +444,9 @@ Non-citizen	12496
 Non-citizens	2119
 Non-citizens Registered	12291
 Non-climate	1988
-Non-communicable	5889,3567,2957
+Non-commercial	12598
+Non-communicable	5889,3567,2957,193
+Non-communicable Diseases	12606
 Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457,866,2,220,495,90,9,198,307
 Non-compliant	3003,535,6105,1758,456
 Non-compliant VASPs	4602
@@ -454,6 +470,7 @@ Non-digital	6832,5382
 Non-dilutive	674
 Non-disclosure	9915
 Non-discrimination	1243,2618,3361,2935
+Non-discrimination and Inclusion	12663
 Non-discriminatory Data	11854
 Non-ducted	11269
 Non-eligible RFPs	12400
@@ -462,6 +479,7 @@ Non-excludable	3391
 Non-exclusion	28
 Non-exclusion Any	28
 Non-exclusion Complaints	11179
+Non-exclusion PART VII	12532
 Non-exclusive	11857
 Non-exclusive Herotel	10797
 Non-existence	11129
@@ -489,6 +507,7 @@ Non-interest	10218,912,1,3
 Non-involvement	11905
 Non-life Insurance Division	9675
 Non-limiting	12058
+Non-marital	12639
 Non-market	961,10335,285
 Non-metallic	9123
 Non-metro	11296
@@ -506,6 +525,7 @@ Non-participant	10711
 Non-payment	12500
 Non-performing	4217,7307
 Non-performing Loans	11134
+Non-permit	12539
 Non-personal	4214,1030,1272,3
 Non-postal	11129
 Non-pressure	11269
@@ -516,6 +536,7 @@ Non-profit Organisations Belgium Holocene Ventures	4972
 Non-promotional	11563
 Non-proprietary Data	11854
 Non-protected	6946
+Non-public	12562
 Non-redundant HDA	9123
 Non-refundable	736,6632
 Non-relative	582
@@ -523,6 +544,7 @@ Non-renewable	12261
 Non-repudiation	5665,6694
 Non-resident	3161,4625,4190
 Non-resident Non-resident	3161
+Non-residents	12676
 Non-respect	10874
 Non-response	11296
 Non-rivalrous	3391
@@ -561,6 +583,7 @@ Nonceba Mhauli	11256
 Nonceba Ntoyanto-Tyatyantsi	7278
 Noncommercial	11572
 Noncommunicable	12413
+Noncommunicable Diseases NHA National Health Accounts	12729
 Noncommunicable Injuries	12413
 Noncompliance	5137,5628,10,504
 Nondzwakazi Gumede	396
@@ -582,7 +605,7 @@ None. APIs	12269
 None. Correspondent	12269
 None. Interoperability	12269
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157
 Nongo	8022
 Nongobzanga Zongo	3668,543,85,2472
 Nongoma	2626
@@ -594,6 +617,7 @@ Nonoil	10841
 Nonperforming	10841
 Nonperforming Loans	1746
 Nonprofit Organisations Act	4633,6646
+Nonprofits	12675
 Nonprofits and NGOs	676
 Nonproﬁt Organisations Act	5872
 Nonrated	9123
@@ -646,6 +670,7 @@ RMD Non-patient File Sharing SA NHIS	1009
 Randburg Building Construction of Non-	11986
 Real Non-Oil GDP and Public	1828
 Real Non-Oil GDP and Public Demand Impulse	1828
+Real Non-mining GDP Growth	12551
 Reasonable and Non-Discriminatory	961
 Reasons for Nonalignment PforR Objective	11905
 Recettes Non Fiscales Domaines	4420
@@ -671,7 +696,9 @@ Small and Medium Enterprises Nonbank Financial Institutions	11134
 Société Non	10875
 Solutions and Konecta Non-Executive Vice Chairman	8222
 Soro Nongolougo	3644
+South Africa and Lesotho Nonhlanhla Nzimande	12678
 Special Statutory Mandate None	10738
+Strategy Non-Bank Financial Institutions Over the Counter	12701
 Structures Non Commerciales	2342
 Sudan and Uganda. None	8275
 Summary of Weights for Core and Non-Core Indices	2775

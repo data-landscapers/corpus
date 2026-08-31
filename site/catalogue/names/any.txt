@@ -45,6 +45,7 @@ Any TPD	6790
 Any Telecommunications Service Provider	4610
 Any U.S. TPDs	6790
 Any VASP	11976
+Any Wi-Fi	12690
 Any of This Is Being Built	9075
 AnyConnect	10617
 AnyDesk	5780
@@ -67,7 +68,7 @@ Anytime From Now	7176
 Anytime Minutes Promotion	11259
 Anyuon	4668
 Anyway	4676
-Anywhere	11130,81
+Anywhere	11130,81,1534
 Anywhere Send	12287
 Anywhere Unlock	9669,84
 Appeals Any	972

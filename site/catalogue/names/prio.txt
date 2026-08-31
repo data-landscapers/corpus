@@ -16,6 +16,8 @@ Business Priority	5212,662
 C- Priority	7548
 C. OTHER CROSS-CUTTING PRIORITIES	11863
 CAPTURE FOR BIRTH REGISTRATION Province Priority	11986
+CONSIDERATON OF DEVELOPMENT PRIORITIES	12759
+CROSS-CUTTING STRATEGIC PRIORITIES	12701
 Capital Structure Prior	4896
 Certificate of Simple Prior Notification	8769
 Changing Data Priorities	3810
@@ -28,6 +30,8 @@ DIMENSÃO RECOMENDAÇÃO PERÍODO PRIORIDADE PONTO	2816
 DIRECTOR Advancing National Research Priorities	1554
 DPCI Directorate for Priority Crime Investigation DPCI	11188
 DPMIs. Prior	11993
+Data Protection Impact Assessment and Prior Consultation	12549
+Data Usage Priority	12690
 Department of Priority Crime Investigation	5533,6453
 Departmental Priorities	5533,6453
 Depreciation Reported Constant Prior	10793
@@ -51,6 +55,7 @@ Established Policy Priorities The National Digital	1161
 Expenditure Per Strategic Priority The Department	11230
 Extending Prior	3583
 FIXATION DES PRIORITES DE PROTECTION	10906
+FOCUS ON PRIORITY REFORMS ACTIONS	12717
 Financial Capability Priority Area Consumer Protection	940
 Five Priorities for Zimbabwe’s AI Ecosystem Government	9030
 Fonds de Garantie des Investissements Prioritaires	7106
@@ -87,6 +92,7 @@ Joint Initiative for Priority Skills Acquisition JOI	6832
 Kay-Lyne Wolfenden Priority	3891
 Kenya’s Recognition of Prior Learning	11504
 Key Priorities	11285
+Key Priority Area LCA	12759
 Key Strategic Priorities	8367
 LEARNING High Priority	899
 LIST OF PRIORITY HEALTH FACILITIES PROVINCE	11986
@@ -95,6 +101,7 @@ Limited Political Prioritization and Coordination	12384
 List of Priority Health Facilities	11986
 Local Content Priority	11995
 Low Priority	899,10232,1044
+METHODOLOGY Priority Reform Action	12717
 MIP Priority Areas	970
 MTDP Strategic Priority	11218
 Match Technology Prioritize Scale Fit-for-purpose	12457
@@ -165,13 +172,14 @@ Presidential Priorities Areas of President Bola Ahmed	12308
 Presidential Priority Areas	12308
 Principal Results and Comparison With Prior Work	10919
 Principles Governance Legal Framework Priority Areas	21
-Prior	27,7,728,21,189,247,24,18,72,321,124,31,179,1386,209,58,220,24,286,92,176,214,230,13,642,83,56,684,151,61,49,324,332,260,31,221,55,176,363,219,263,262,56,53,1556,48,11,29,38,21,20,171,3,43,2,18,61,22,14,231,276,54,2,98,1,47,190,2,37,14,7,17,31,1,77,29,51
+Prior	27,7,728,21,189,247,24,18,72,321,124,31,179,1386,209,58,220,24,286,92,176,214,230,13,642,83,56,684,151,61,49,324,332,260,31,221,55,176,363,219,263,262,56,53,1556,48,11,29,38,21,20,171,3,43,2,18,61,22,14,231,276,54,2,98,1,47,190,2,37,14,7,17,31,1,77,29,51,80,3,7,137,40
 Prior Actions	10779
 Prior Approvals	3651
 Prior Authorization	12193
 Prior Authorization and Consultation	12185
 Prior CDC-CI	10943
 Prior EIB	472,379
+Prior Learning	12574
 Prior Public Offerings	7198
 Prior Review Procurement Methods Thresholds	11855
 Prior S	12231
@@ -195,7 +203,7 @@ Priorities Sectors Team Europe Initiative	789
 Priorities for G20 Action. Berlin	12297
 Priorities for Governments	7648
 Prioritisation	11,12348
-Prioritise	899,59,1591,1577,1118,1588,104,815,1648,1561,256,638,98,4,42,212,43,123
+Prioritise	899,59,1591,1577,1118,1588,104,815,1648,1561,256,638,98,4,42,212,43,123,298
 Prioritise Dispute Resolution Investment Financial	11138
 Prioritise Privacy	4800
 Prioritised	11854,505,25
@@ -207,7 +215,8 @@ Prioritising Sustainability	10718
 Prioritization	1885,4654
 Prioritization Matrix	12356
 Prioritization of Projects	12356
-Prioritize	1814,1465,304,543,300,102,717,37,394,792,1080,48,2819,570,155,1195,109,68
+Prioritize	1814,1465,304,543,300,102,717,37,394,792,1080,48,2819,570,155,1195,109,68,163
+Prioritize Ethical AI Development Implement	12675
 Prioritize Integrated Housing Policy	11285
 Prioritize Local Solutions	5042
 Prioritize PUE	12399
@@ -216,7 +225,7 @@ Prioritized Adoption	7548
 Prioritized Risk Management	12189
 Prioritizing	899,320,553,1186,1577,2413,600,635,2823,128,771
 Prioritizing Spectrum	5245
-Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55
+Priority	471,173,145,181,244,4,247,255,146,99,1551,345,108,248,84,1,546,14,115,115,120,561,188,90,48,440,283,726,48,235,90,153,526,399,124,1065,27,294,254,5,25,341,2,4,56,22,12,17,3,27,89,103,67,53,167,152,8,44,17,9,83,139,89,36,23,8,25,55,84,101,88
 Priority AI-relevant	7548
 Priority Africa	10601
 Priority Applicants	11314
@@ -249,6 +258,7 @@ Priority Plan	2781
 Priority Projects	2256
 Priority RTGS	11960
 Priority Reform	12175
+Priority Reform Actions. Priority	12717
 Priority Reform Overview	12175
 Priority Reforms Strengthen	11136
 Priority Sector Lending	11134
@@ -257,6 +267,7 @@ Priority Sectors All	1814
 Priority Title	11960
 Priority Use Cases	3150,9060
 Priority Use Cases The Kenyan Government	12210
+Priority for Botswana	12541
 Priority of Claims Outside of Insolvency	12389
 Priority of Labor and Environmental Claims	12389
 Priority of Secured Claims	12389
@@ -308,7 +319,7 @@ Simple Prior Notification	8769
 Six Priority Areas Enablers	1204
 Starlink Priority Connectivity	4656
 Strategic Policy Actions Policy Priority	958
-Strategic Priorities	1161,2326,1048,7451,329,129
+Strategic Priorities	1161,2326,1048,7451,329,129,257
 Strategic Priorities for Nigeria’s Fintech Future Based	4848
 Strategic Prioritization Focusing	4528,7984
 Strategic Priority	6603,5841
@@ -320,6 +331,7 @@ Ten Priority Policy Options	4848
 Togo Sets New Priorities	8610,233
 UNE PRIORITE PRESIDENTIELLE POUR L'EMERGENCE	2695
 Uganda. Priority	9136
+Union KPA Key Priority Area KYC	12663
 Use Case Prioritization Framework	3731
 Virtual Asset Service Strategic Priority	12444
 Voices.’ Community Priorities and Perceptions	6947

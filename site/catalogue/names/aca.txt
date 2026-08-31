@@ -29,14 +29,16 @@ Acacia Park Primary School	11285
 Acacia Park. SAPS	11285
 Acacia Surgical	7167
 Acacia and Port Rex OCGT	11228
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
 Academia Criteria	12376
+Academia Private Sector	12674
 Academia and Civil Society Representatives	11995
 Academia and Research	7548,4964
 Academia and Research Institutions	1261,3267,7335,89
+Academia and Research Institutions Universities	12675
 Academia and Scientific Networks	3861
 Academia de Ciências Policiais	7736
 Academia de Clima	11454
@@ -66,7 +68,7 @@ Academic City University. References Cybersecurity Act	6936
 Academic City University. Sean Ofori Addo	6936
 Academic Conferences International	9237
 Academic Forum	8460
-Academic Institutions	12241
+Academic Institutions	12241,434
 Academic Journal of Interdisciplinary Studies	2093
 Academic Lead	5598
 Academic Librarians	8022
@@ -74,6 +76,7 @@ Academic Partnerships and Global Health	10776
 Academic Press	8130,4167
 Academic Security Operation Center	11077
 Academic SuQport	11180
+Academic and Research Communities	12675
 Academic and Research Institutions	1261,11095
 Academic and Research Institutions University Of Mauritius	11332
 Academics	991,5841,3183,1139,762,109
@@ -114,6 +117,7 @@ Bandari Maritime Academy Data Controller INST-313944219ED	7167
 Bandari Maritime Academy Data Processor INST-313944219ED	7167
 Bloomsbury Academic. Hao	11050
 Blossom Academy	4126
+Botswana Academy of Sciences	12544
 Bridge Academies	10290
 CHRISTS GIFT ACADEMIES Data Controller INST-9898680D571	7167
 CISCO Academy Programme	12453
@@ -122,6 +126,7 @@ CISCO Networking Academy	12361,46
 CITY ROSE ACADEMY LIMITED Data Processor	7167
 CUNY Academic Works	1261
 China Academy of Information and Communications Technology	7174,4628
+China Academy of Space	12545
 China’s Academy of Military Sciences	8510
 Chris Hani Baragwanath Academic Hospital George	11248
 Cisco Academy	12241
@@ -133,6 +138,7 @@ Cloud Hero and Google Hustle Academy. Google	1590
 Coding Academy	8016,4066
 Coding Academy’s Project-Based Learning	8839
 Colegio Nacional Acacio Mane Ela Malabo	4209
+Computing LAST Lesotho Academy of Science and Technology	12675
 Comércio Classe Acadêmica Comitê Técnico	11569
 Confiança. Acautelam-se	11569
 Congolese Academy of AI	3747
@@ -147,7 +153,7 @@ D.G. ORDENAC. ACADEMICA Y PROFESORADO.- Concepto.-	4209
 Daraja Academy Data Processor INST-544488D8CDD LAIKIPIA	7167
 Dayforce Partner Academy	2700
 Diaspora and Academia	11863
-Digital Academy	3982,144,4434
+Digital Academy	3982,144,4434,4153
 Digital Champions Academy	11306
 Digital Government Academy	3604
 Digital Government Academy. Participants	7687
@@ -172,6 +178,8 @@ FiberOne Training Academy	10742
 Foreign Affairs Academy Hall	9680
 Formação Académica	11456
 Formação Académica Mínima	11448
+Foster Academic-Industry Collaboration	12675
+Foster Industry and Academic Partnerships	12675
 Founder of IBTC DC Academy	11491
 Frequência Académica	11472
 GRADUADOS NO ANO ACADÉMICO	11391
@@ -215,15 +223,20 @@ Interoperable Europe Academy	6468
 Journal of Academic Science	5349
 June. Cisco Networking Academy	10247
 KPMG and Tablet Academy	9202
+Khan Academy	12675
 Kouma Academy	9845
 Language Academy	10451
 Latin ACamreibrbiceaa&n	11964
 Leadership Academy	11586
+Lesotho Academy of Science and Technology	12675
 Liberia National Police Training Academy	5244
 Liberia's National Research and Academic Network. Facilitate	1777
 Light Not Ghanaian Academic and House Chapel	3386
 LuSE Academy	6938
 M-PESA Foundation Academy	7204
+MICSTI Academia Development Partners	12674
+MICSTI Academia Private Sector Ministry of Education	12674
+MICSTI Line Ministries Private Sector Academia	12674
 MICTPCS ZIMCHE Academia Development	958
 MICTPCS ZIMCHE Reserve Bank of Zimbabwe Academia	958
 MTN SA Foundation and MTN Skills Academy	8579

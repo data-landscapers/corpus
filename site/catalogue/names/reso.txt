@@ -29,7 +29,7 @@ Africa. Resources	1579
 African Resources Corporation Ltd	3583
 Ag. Director Director Human Resource and Services	6946
 Alert Response SLAs Severit Response Resolution	11952
-Alternative Dispute Resolution	2668,3008,6224,56,106,239
+Alternative Dispute Resolution	2668,3008,6224,56,106,239,309
 Alternative Dispute Resolution Procedure. Key	1742
 Alternative Labor Dispute Resolution Mechanisms	12389
 Alternative Land Disputes Resolution Mechanism	12389
@@ -50,7 +50,9 @@ Base Resources Limited Data Processor INST-5055129782F	7167
 Benefits Functionalities Cities Resources Documentation Case	12211
 Board Resolution	22
 Board’s Resolutions and Recommendation	7198
+Botswana University of Agriculture and Natural Resources	12634
 Broadcasting Disputes and Resolution Panel	5168
+Build Educational Resources and Infrastructure	12675
 Building AI for Strategic Resource Governance	7955
 Building Resources	9227
 Bureau of Standards HR Human Resources HRH	396
@@ -92,7 +94,8 @@ Common-Pool Resource	5700
 Company Resource Experience	11240
 Complaint Resolution Rate	5676
 Complaints Handled Total Resolved Pending No	6946
-Computational Resources	12356
+Computational Resources	12356,319
+Computational Resources Provide	12675
 Confidential Business Business Event Human Resources	9124
 Conflict of Law Resolution	3861
 Confronting Institutional Passive Perspectives With Resource	11028
@@ -111,6 +114,7 @@ Currently Relevant Resources ESS	10768
 Currently Relevant Resources Indigenous Peoples	1284
 Currently Relevant Resources Relevant ESS	3604
 Customary Conflict Resolution Advisory Committees	11900
+Customer Complaints Resolution Article	12616
 Customers IT Infrastructure Resources Management	9123
 D Visualization Dispute Resolution Digital	12211
 DEPARTMENT OF WATER NATURAL RESOURCES ENVIRONMENT	7167
@@ -137,6 +141,7 @@ Department of Mineral and Petroleum Resources	11232
 Deputy Commissioner of Police and Senior Technical Resource	8286
 Deputy Secretary of State for Management and Resources	11005
 Desportos. Resolução	539
+Develop Tools and Resources	12675
 Developing Country Facing Resource Depletion	1828
 Development Dispute Resolution TOTAL Scheduled Board	1154
 Development Plan HRM&D Human Resource Management	11986
@@ -153,7 +158,7 @@ Directorate of Human Resources CHWs	10829
 Directorate of Human Resources Number	10829
 Disclosure Query Resolution	11250
 Disconnection Complaint Resolution Time... Order Completion	5168
-Dispute Resolution	3502,1108,7186,160,408,25
+Dispute Resolution	3502,1108,7186,160,408,25,286
 Dispute Resolution A. Any	4610
 Dispute Resolution API Business-to-Business IGF Inclusive	12444
 Dispute Resolution AfCFTA African Continental Free	1243
@@ -182,8 +187,10 @@ Effective Tax Dispute Resolution Performance Assessment	12500
 Effective Tax Dispute Resolution This POA	12500
 Energy and Mineral Resources	1228
 Energy and Natural Resources	10348
+English. Resource	12718
 Enquiries Handled Category Total Received Resolved	6946
 Enterprise Resource Planning	3051,491,4445,683,1249
+Enterprise Resource Systems	12612
 Environment and Natural Resources	2775
 Environment and Natural Resources Gross Value Added	2775
 Environment and Natural Resources Overview	2775
@@ -232,12 +239,15 @@ Government Resource	12165
 Gridlock Resolution	12364
 Group Managing Director of Human Resources	11809
 H. Tax Dispute Resolution	12500
+HL7 Fast Healthcare Interoperability Resources and HL7	12581
 HP Resort de Yamoussoukro	2342
 HRA Human Resources and Administration HRIS Human	34
 HREA High Resolution Electricity Access ICT	12006
+HRH Human Resources for Health ICC Interagency	12729
 HRIS Human Resource Information System IaaS	6432
 HRIS for Human Resource Management	4217
 HRMC Human Resource Management Circular MTEF	11986
+HRMIS Human Resource Information Management System	12663
 HRMIS Human Resources Management Information System	11965
 HUMAN RESOURCE CAPACITY	5665
 HUMAN RESOURCE HEALTH AND SAFETY HR	12253
@@ -260,14 +270,14 @@ Housing and Water Resources	1228,6467
 Hum Resour Health	771,448,11027
 Hum Resour Manage	10780
 Human Papillomavirus HPV Angola Human Resources	11417
-Human Resource	236,1704,5006,1027,1882,2084,155,19,101
+Human Resource	236,1704,5006,1027,1882,2084,155,19,101,515
 Human Resource Administration	6946,5399
 Human Resource Capacity	21
 Human Resource Capacity Building and Land	12326
 Human Resource Capacity Monitoring and Evaluation	21
 Human Resource Constraints Training Gaps	12508
 Human Resource Department	12240
-Human Resource Development	3583,7605
+Human Resource Development	3583,7605,1341
 Human Resource Development Component	11188
 Human Resource Development Council	11290
 Human Resource Development Developing	11188
@@ -305,6 +315,7 @@ Human Resources Committee The Finance	1554
 Human Resources Committee Total Number	1554
 Human Resources Development	12008
 Human Resources Development Committee	10337
+Human Resources Development Council and Legal Aid	12551
 Human Resources Given	11198
 Human Resources IHR	10776
 Human Resources Information System	11974
@@ -319,7 +330,9 @@ Human Resources Support	5533,6453
 Human Resources and Administration	34
 Human Resources and Agriculture Statistics	12325
 Human Resources and School Administration Directorate	11905
+Human Resources and Staff Welfare	12753
 Human Resources and Technical Expertise	5677
+Human Resources and Universal Access Fund	12646
 Human Resources for Health	21,1198,2998,43,89,6480
 Human Resources for Health Conference	7321
 Human Resources for Health SAHPRA South African	396
@@ -334,10 +347,12 @@ IPPIS Human Resource Modules	7973
 IRC Information Resource Catalogue IT Information	12359
 Illicit Financial Flows and Domestic Resource Mobilisation	9162
 Implementation Support Plan and Resource Requirements	11905
+Improve Management of Financial Resources	12552
 Inadequate Resources	11289
 Inadequate Resources for Implementing the Strategy	940
 Incident Resolution Advising	775
 Incident Response Timelines Severit Initial Resolution	11952
+Independent Dispute Resolution	12597
 Indian Resolution	11925
 Industry Dispute Resolution System	11138
 Industry and Natural Resources Mr. Antonio Serifo	11579
@@ -356,7 +371,7 @@ Integrated Goverment Resource Planning	11939
 Integrated Government Resource Planning	1348
 Integrated Human Resources Information System	12421
 Integrated Human Resources Management Information System	11965
-Integrated Resource Plan	11228,8,36
+Integrated Resource Plan	11228,8,36,1332,76
 Integrated Resources Centre	7751
 Integrated System for Human Resources Management of Civil	10812
 Integration of Generation Resource Assessment	12358
@@ -369,6 +384,7 @@ Internet Number Resource Transfers Feedback	3502
 Internet Number Resources	585,2918,5363
 Internet Number Resources. Member	8866
 Investigation Resolution Appeal	5676
+Investment Facilitation Unit ERP Enterprise Resource	12717
 JURISPRUDENTIAL HIERARCHY AND CONFLICT RESOLUTION	3861
 Japan Policy and Human Resources Development	11525
 Johannesburg and Cairo. Resources	4563
@@ -392,6 +408,7 @@ Las Resoluciones	163
 Last Resort	5528
 Legal Resource Centre	7343
 Legal Resources Centre	6486,1787,642
+Leverage Resources	12675
 Liability and Resolution of Issues	11995
 Licensing of Telecommunication and Scarce Resources	12294
 Lilongwe University of Agriculture and Natural Resources	12194
@@ -453,6 +470,8 @@ NIGCOMSAT Communications Satellite SUPEB Resources	11857
 NRGP Natural Resource Governance Project PDO	2889
 NRM Natural Resource Management NTFP Non-Timber	970
 Namibia's National Integrated Resource Plan	12399
+National Cybersecurity Unit. Resource	12674
+National Human Resource Development Strategy	12612
 National Human Resources Ad-	10780
 National Human Resources Cabinet	10765
 National Institute for Water Resources	11380
@@ -490,6 +509,7 @@ Number Resources Management Policies	585,8281
 Numbering Resources Management	718
 ORDINARY RESOLUTION	4896,4043
 OVERVIEW OF HUMAN RESOURCES	11218,6
+Offer Expert Guidance and Resources AI	12675
 Online Dispute Resolution Mechanism	12389
 Open Education Resources Portal	6946
 Open Education Resources Project	6946
@@ -511,6 +531,7 @@ PROGRAMME RESOURCE CONSIDERATIONS Budget	11986
 PUBLICITY AND RESOURCE MOBILISATION COMMITTEE Resource	1154,400
 Participants. Gridlock Gridlock Resolution	12364
 Pastoral Water and Resource Management Project	10841
+Pearle Beach Resort	12649
 Peduase Valley Resort	6277
 Penda Health’s Human Resources	11578
 Petição de Resolução	11520
@@ -520,6 +541,7 @@ Physical Cultural Resources	11525
 Physical Cultural Resources OP	11525,330,282
 Plant Genetic Resources for Food and Agriculture JE	11197
 Points WRA Water Resources Authority	2775
+Pool Resources and Infrastructure	12675
 Por Resolução	5016
 Post Offices and Youth Resource Centres	12375
 Power DER Distributed Energy Resources DFFE	11228
@@ -537,6 +559,9 @@ Projecto de Resolução	5791
 Property Search Features Dispute Resolution System	12211
 Proteção de Dados Pessoais Resolução	11374
 Provedoria de Justiça. Resolução	11365
+Provide Resources	12675
+Provide Resources and Authority	12675
+Provide Training and Resources	12675
 Providing Open Resources	5246
 Public Administration Human Resources Management System	10768
 Public Service and Human Resource Development	6811
@@ -616,14 +641,14 @@ Resolver	1701,9760
 Resolves	7100
 Resolves REV-001	2682
 Resolve’s CEO	7051
-Resolving	961
+Resolving	961,11771
 Resolving Appeals	12389
 Resonating	10
 Resort Estate	2841
 Resort and Spa	7512
 Resorts	11458
 Resour	1219
-Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489,768,265,805,12,34,264,109,1,16,37
+Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489,768,265,805,12,34,264,109,1,16,37,262,18
 Resource Allocation	11193
 Resource Allocation and Sustainable Funding Sustaining	1777
 Resource Allocation for Digital Platforms	11927
@@ -653,7 +678,7 @@ Resource Mobilisation Committee	1554
 Resource Mobilisation Committee The Research Promotion	1554
 Resource Mobilisation Committee Total Number	1554
 Resource Mobilisation Department	6946
-Resource Mobilization	4528,2492,2832,2504,156
+Resource Mobilization	4528,2492,2832,2504,156,130
 Resource Mobilization KSA	1131
 Resource Mobilization Strategy	8183
 Resource Mobilization and Financial Support	10776
@@ -691,6 +716,7 @@ Resources Policy	11006
 Resources Relevant Relevant Indigenous Peoples	10964
 Resources Resources Access	9067
 Resources and Associate	585,8281
+Resources and Enabling Environment	12550
 Resources and Responsibilities	1778
 Resources and Systems	8022
 Resources for Single Sign-On	12157
@@ -712,6 +738,7 @@ SPECIAL RESOLUTION	4896,4043
 Santos. Resolução	539
 Savoy Resort and Spa	6831
 Science and Resources	11135
+Secure Funding and Resources	12675
 Serena Beach Resort and Spa	10313
 Shortage of Resources	1261
 Ski Resorts Private-sector	4723
@@ -746,11 +773,13 @@ Through Resolution	10764
 Through Resolution No	11722
 Traditional Methods of Conflict Management and Resolutions	1248
 Training and Human Resources	12325
+Transformation Resource Centre	12674
 U.N. Adopts Landmark NTD Resolution	965,3924,206
 UN General Assembly Resolution	3583,5045
 UN Security Council Resolution	7452
 UNLOCK ADDITIONAL RESOURCES	12399
 UNSC Resolution	11210
+Under the Integrated Resource Plan	12609
 Uneven Resource Distribution and Infrastructure Gaps	6936
 Uneven Resource Distribution and Infrastructure Gaps Launch	6936
 Uneven Resource Distribution and Infrastructure Gaps SUMMARY	6936

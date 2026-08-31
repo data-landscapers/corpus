@@ -192,6 +192,7 @@ ILO Harmonized Microdata	11581
 ILO Harmonized Microdata Repository	11581
 INES de Micomiseg Micomiseng	4209
 INES de Micomiseng Micomiseng	4209
+Identify Target Audiences MICSTI Ministry of Education	12675
 Ifakara. Michael Joseph	7250
 Industry Finance Micro	12445
 Industry Health Other Services Micro	12445
@@ -225,11 +226,13 @@ Leadership Marketing Meta Metarverse Microsoft Ministère	9993
 Leprosería de Micomeseng	4209
 Leprosería de Micomiseng	4209
 Les Micros	11944
+Lesotho National Development Corporation Micro Small	12701
 Lesotho's MICSTI	5097
 Links Microfinance Bank	7907
 LipaLater Michael Maina	10464
 Lobamba MP Michael Masilela	7264
 M Engineering Hub Nairobi and Lagos Microsoft	388
+M&E Monitoring and Evaluation MICSTI Ministry of Information	12674
 M-90M National MICDE	7548
 M. Boukar Michel	3799
 M. HIEN TOTO Michel	4273
@@ -309,6 +312,7 @@ MICROFINANCING	940
 MICROSOFT	2060,984,1329,6448
 MICROSOFT DYNAMICS NAVISION SYSTEM	34
 MICROSOFT DYNAMICS NAVISION SYSTEM Microsoft Dynamics	34
+MICROSOFT OFFICE	12677
 MICS Inquérito	966,10581
 MICS Multiple Indicator Cluster Survey MOH	10829
 MICS V	10777
@@ -325,8 +329,28 @@ MICS6.pdf	11562
 MICS7	10273
 MICS7. Cette	10273
 MICSP	10826
-MICSTI	1200,2158,1739,177,249,1839,357,511,470,778,814
+MICSTI	1200,2158,1739,177,249,1839,357,511,470,778,814,2382,1,10,11,12,6,1,10,26,7,3
+MICSTI AI	12675
+MICSTI AND UNICEF SIGNED DIGITAL ID	12715
+MICSTI Academia Development Partners	12674
+MICSTI Academia Private Sector Ministry of Education	12674
+MICSTI All	12674
+MICSTI Cabinet Oﬃce	12674
+MICSTI Curriculum	12675
+MICSTI Line Ministries Private Sector Academia	12674
+MICSTI Ministry Justice	12674
+MICSTI Ministry of Education and Training AI	12675
+MICSTI Ministry of Education and Training Planning	12675
+MICSTI Ministry of Finance	12674
+MICSTI Ministry of Public Service Ministry Justice	12674
+MICSTI Ministry of Public Service Ministry of Local	12674
+MICSTI Planning	12675
 MICSTI Principal Secretary Kanono Ramashamole	7161
+MICSTI Private	12674
+MICSTI The MICSTI	12675
+MICSTI The Ministry of Information	12675
+MICSTI and UNICEF	12715
+MICSTI's Principal Secretary	12696
 MICT Executive Director Audrin Mathe	2977
 MICT Members	6539
 MICT PIU	6539
@@ -406,6 +430,7 @@ Michael Daniel	3212,2216,578,1855,70,1,137
 Michael Daniel. The Directorate of Civil Registry	7931
 Michael Darcy	3952
 Michael Eduah	10234
+Michael Ehst	12701
 Michael Frese	10964
 Michael Gurstein	6948
 Michael Gwarisa The United States	8862
@@ -413,12 +438,14 @@ Michael Harrup	10977
 Michael Jacobsen	12478
 Michael Joseph	9098,248
 Michael Kaiyatsa	7041
+Michael Kidd	12663
 Michael Kimani	571
 Michael Kimberley	12521
 Michael Komla Nfodzo	3848
 Michael Kratsios	5216,41
 Michael Kwakye	6936
 Michael Lenasalon	8569
+Michael Lim	12544
 Michael Louis and Jonathan Irwin	11344
 Michael M. Muthamia	9855
 Michael Machokoto	10718
@@ -501,6 +528,7 @@ Michelet Jerome	10764
 Michelin Njoh Project Coordinator	10963
 Michelle Chivunga and Alastair Tempest	1006
 Michelle Galloway	4448
+Michelle Moghadassi	12581
 Micheweni	5855
 Micheweni District	5855,38
 Micheweni District Headquarters	5855
@@ -517,7 +545,7 @@ Michèl GUEDENON Comment	6744
 Michèl GUEDENON Date	9044
 Micoc	4209
 Micomiseng	4209
-Micro	824,116,1261,574,41,1712,716,639,1665,297,569,256,58,389,306,429,905,99,109,52,117,131,161,123,445,24,192,87,4,144,37,30
+Micro	824,116,1261,574,41,1712,716,639,1665,297,569,256,58,389,306,429,905,99,109,52,117,131,161,123,445,24,192,87,4,144,37,30,189,37
 Micro Enterprises	7759,3437
 Micro Finance	10965
 Micro Finance Banks	11956
@@ -530,6 +558,7 @@ Micro and Small Enterprises Act	7548
 Micro-	6832,5162
 Micro- CHE	6832
 Micro-Banks SDG	10819
+Micro-Credentials	12675
 Micro-Enterprise	226
 Micro-Enterprises	2420
 Micro-Finance Banks Assets and Liabilities	2775
@@ -605,7 +634,7 @@ Microprojects	10964
 Micros	11944,74
 Microsave Consulting	11994
 Microsimulations	10985
-Microsoft	34,354,23,151,185,152,139,156,35,12,30,32,60,8,276,73,1,7,38,62,15,97,87,130,260,106,1,1,1,268,22,14,41,120,241,32,111,21,45,21,3,152,165,26,51,128,139,133,45,121,79,102,35,12,23,274,75,17,42,77,55,2,21,3,10,75,37,3,166,18,47,23,61,42,86,12,18,93,34,183,4,78,34,1,86,49,8,1,21,13,26,6,21,19,4,44,15,23,64,67,39,17,18,71,69,59,25,24,10,13,56,4,1,11,22,35,77,82,221,9,16,118,287,108,135,87,57,90,7,28,68,82,31,53,188,64,153,33,2,314,56,43,54,258,22,42,22,53,89,196,66,86,112,3,80,98,150,102,33,19,31,2,5,69,21,1,77,49,37,24,176,146,37,2,25,1,10,42,6,83,40,8,12,19,3,82,86,14,31,138,124
+Microsoft	34,354,23,151,185,152,139,156,35,12,30,32,60,8,276,73,1,7,38,62,15,97,87,130,260,106,1,1,1,268,22,14,41,120,241,32,111,21,45,21,3,152,165,26,51,128,139,133,45,121,79,102,35,12,23,274,75,17,42,77,55,2,21,3,10,75,37,3,166,18,47,23,61,42,86,12,18,93,34,183,4,78,34,1,86,49,8,1,21,13,26,6,21,19,4,44,15,23,64,67,39,17,18,71,69,59,25,24,10,13,56,4,1,11,22,35,77,82,221,9,16,118,287,108,135,87,57,90,7,28,68,82,31,53,188,64,153,33,2,314,56,43,54,258,22,42,22,53,89,196,66,86,112,3,80,98,150,102,33,19,31,2,5,69,21,1,77,49,37,24,176,146,37,2,25,1,10,42,6,83,40,8,12,19,3,82,86,14,31,138,124,51,123,77
 Microsoft AI	2816,2511,1680
 Microsoft AI Economy Institute	8126
 Microsoft AI National Skilling Initiative	5327
@@ -613,7 +642,7 @@ Microsoft AI for Good Lab	9929,15
 Microsoft Access	12408
 Microsoft Africa Development Centre	388
 Microsoft Application Development N	9124
-Microsoft Azure	411,1309,2,121,973,341,279,118,129,176,267,133,766,59,841,307,239,50,146,124,88,56,131,107,6,288,81,1096,595,1378,1051,278
+Microsoft Azure	411,1309,2,121,973,341,279,118,129,176,267,133,766,59,841,307,239,50,146,124,88,56,131,107,6,288,81,1096,595,1378,1051,278,747
 Microsoft Azure Blog	411
 Microsoft Azure ExpressRoute Metro	7467
 Microsoft Azure Government	6477
@@ -654,6 +683,7 @@ Microsoft Excel	747,3044,4585,748
 Microsoft Excel Ease	9124
 Microsoft Excel and Stata	771
 Microsoft Exchange	9455
+Microsoft Fabric	12754
 Microsoft Form. Budget and CV	9630
 Microsoft Foundry and MAI Playground	6498
 Microsoft France	6471,50
@@ -671,11 +701,12 @@ Microsoft Nigeria	2417
 Microsoft Office	747,7274,1402,407,27,1339
 Microsoft Office CD	34
 Microsoft Office Dust Covers	34
+Microsoft Office Suite	12754
 Microsoft Office Word	962
 Microsoft Office and Google Docs	6517
 Microsoft Open Education	4126
 Microsoft Outlook	7503
-Microsoft Power BI	11231
+Microsoft Power BI	11231,1523
 Microsoft Power Platform	6353
 Microsoft Power Platforms	11231
 Microsoft Power Point	962
@@ -700,6 +731,7 @@ Microsoft Teams. Meeting ID	10102
 Microsoft Teams. Tender	7514,2162
 Microsoft Tech for Social Impact	4606,35
 Microsoft Vice Chair and President	2525
+Microsoft Visual Studio	12693
 Microsoft Windows	11922
 Microsoft Windows Azure Storage	9123
 Microsoft Windows Operating System	34
@@ -763,7 +795,7 @@ Microsoft’s Head of Legal Affairs for Africa	6689
 Microsoft’s In-House AI Family	6498
 Microsymbionts for Food and Forage	1154
 Microtraction	11163,1176
-Microwave	3862,1383,577,4766,133,548,1114,12
+Microwave	3862,1383,577,4766,133,548,1114,12,374
 Microwave Equipment	6946
 Microwave Link Data Bearer Microwave Lin	736
 Microwave Links	6946
@@ -776,8 +808,13 @@ Minister Michael Makuei	3583
 Minister Michel	4132
 Minister of MICSTI	8230
 Ministre Boukar Michel	3799
+Ministry of Finance and Planning MICSTI Ministry of Home	12674
+Ministry of Foreign Aﬀairs MICSTI	12674
+Ministry of Public Service MICSTI	12674
+Ministry of Trade MICSTI Institutions	12674
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 MoU Memorandum of Understanding MSME Micro	1988
+Monitoring and Evaluation The MICSTI	12674
 Monsieur Michael Edgar Lewin Downs	7670
 Moyens de Paiement EMF Etablissement de Microfinance Banque	11944
 Mr. Michael Atingi-Ego	7815
@@ -803,6 +840,7 @@ National and MICDE MCDAs CSPs Ministry	6432
 Ndakize Michel	12403
 Ndiame Diop Michel Rogy Fily Sissoko	4653
 Network Micro-Segmentation	11231
+Network Operators Micro Finance Institutions Ministry	12701
 Newsfeed Microsoft	2417
 Nsang Micomiseng	4209
 Number of Micro	970
@@ -835,6 +873,7 @@ President of Microsoft	11154
 President of Microsoft Africa	2417,109
 President of Microsoft Frontier Company	7007
 Principal Secretary for Micro	8261
+Principal Secretary of MICSTI	12708
 Private MICDE	7548
 Professor Michael Bridges	4439
 Professor Michael Goldsmith	1200
@@ -918,6 +957,7 @@ Unified National Digital Microfinance Platform	8184
 Unité de Micro-finance Islamique	4402
 University of Michigan	11990
 University of Michigan Medical School	11990
+Use Microsoft	12677
 Varma. Microsoft	8405
 Verite Microfinance Bank	7496
 Vice Chair and President of Microsoft	2525
@@ -925,6 +965,7 @@ Vice-Chairman and President of Microsoft	2526
 Vietnam MIC	1962
 Vietnam's MIC	1962
 Washington-based Microsoft Corporation	11357
+Wole Michael Olatokun	12707
 Work-Integrated MICT SETA DHET	6832
 Working Groups MICDE	7548
 World Bank Microdata Library	10714
@@ -938,3 +979,4 @@ Zanzibar the Microfinance Act No	7763
 Zimbabwe Women Microfinance Bank	940
 Zimbabwe Women's Microfinance Bank	3025
 Zimbabwe Women's Microfinance Bank and EmpowerBank	940
+Zoe Cordelia Lu and Michael Ehst	12540

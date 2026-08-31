@@ -25,7 +25,7 @@ Pretende	10751,818
 Pretende-se	2125,1394,627,6601,10,614,25,1,56,10,64
 Pretendendo	2816
 Preterm	12151
-Pretoria	52,266,78,177,436,1298,265,54,318,256,541,118,934,159,371,275,526,165,223,320,486,509,109,44,38,1,1,1,23,117,437,4,1,2,47,12,465,106,94,347,213,5,73,125,405,24,85,123,160,259,37,6,1,4,1,16,8,3,13,11,2,4,4,3,4,21,3,7,47,165,65,413,55,6
+Pretoria	52,266,78,177,436,1298,265,54,318,256,541,118,934,159,371,275,526,165,223,320,486,509,109,44,38,1,1,1,23,117,437,4,1,2,47,12,465,106,94,347,213,5,73,125,405,24,85,123,160,259,37,6,1,4,1,16,8,3,13,11,2,4,4,3,4,21,3,7,47,165,65,413,55,6,555,24,11
 Pretoria Call Centre	11220,21
 Pretoria Central SASSA	9372
 Pretoria Close Menu Get	6898
@@ -49,12 +49,14 @@ Private Bag X114 Pretoria	11218
 Private Bag X250 Pretoria	11197
 Private Bag X833 Pretoria	11261
 RSMC Pretoria	11191
+RSMC Pretoria Daily Guidance and Website	12649
+RSMC Pretoria and RSMC La Réunion	12649
 Reference Pretorius2021	2117
 South Africa. Pretoria	1009
 Statistics South Africa Pretoria	11258,28
 Statistics South Africa. Pretoria	11237
 Thabo Sehume and Struben Streets Pretoria	396
-University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641
+University of Pretoria	396,1601,1347,643,445,1166,2424,580,3,420,324,992,388,405,87,115,641,567
 University of Pretoria Department of Library Services	8022
 University of Pretoria Faculty of Health Sciences	8022
 University of Pretoria and Standard Bank	7210

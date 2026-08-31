@@ -53,6 +53,7 @@ Artificial Intelligence and The Labour Market	6948
 Assurance Lab National Blood	4153
 Atlantic Council’s Digital Forensic Research Lab	5252
 Audit Reporting Across Health Facilities. Laboratory	4202
+Automation of Labour Administration Function	12597
 B Lab Africa Data Controller INST-64979742AD2	7167
 B Lab Africa Data Processor INST-64979742AD2	7167
 BIS Innovation Lab	4848
@@ -69,6 +70,7 @@ Blu Label Blu Label	11335
 Blu Label Unlimited	9911,711,537
 Blue Label	9911
 Blue Label Telecom	78,1
+Botswana Labour Market Information System	12612
 Bureau of Labor Statistics. Regardless	3583
 Burkina Faso's Fab Labs Burkina Faso	10834
 Business Art and Ideas Bookshelf Labour Law	9878
@@ -84,6 +86,7 @@ COMISARIA LOGÍSTICA E NARCÓTICOS Y LABORATORIO	4209
 COVID-19 Private Laboratories	3583
 CREATIVE DIGITAL LAB LIMITED Data Processor	7167
 CROP NUTRITION LABORATORY SERVICES LIMITED Data	7167
+CRVS The Ministry of Labour and Home	12639
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CV Labs	6368
 CV Labs Accelerator	10810
@@ -93,6 +96,7 @@ Chad's Labor Code	10841
 Characteristics of Outside the Labour Force	11296
 Child Labour	1988
 Child Labour and Minimum Age Sections	1988
+Child Labour. Administration of Worker's Compensation	12597
 Childcare and Mothers' Labor Market Outcomes	10963
 Childcare and Mothers’ Labor Market Outcomes	10964
 Citizen Lab	5215
@@ -101,6 +105,7 @@ Civic Media Lab. Retrieved	6211
 Climate and Labor Concerns	5418
 Coding and Labelling	1261
 Cog Labs	8119
+Collective Labour Agreements	12566
 Column Labels Row Labels REF ANG	11900
 Commissioner Laboratory Services	4922
 Commissioner Labour	6652
@@ -134,6 +139,7 @@ Department of Employment and Labour	5533,1299,4448,809
 Department of Employment and Labour DHET	6832
 Department of Labour	11285
 Department of Labour Services	12253
+Department of Labour and Social Security	12597
 Description National Laboratory Quality Policy	11417
 Develop and Implement Labour Management Procedure	1988
 Development and Labour Council Act	11280
@@ -153,6 +159,7 @@ Digital Labour	226
 Digital Labour Platforms	226
 Digital Labour Skills and Digital	4359
 Digital Labour and Development	226
+Digital Skills Learning Labs	12723
 Digital Solutions Lab	10113
 Directeur Exécutif de Med.IA Lab. Ces	3724
 Directeur du Laboratoire	10237
@@ -175,10 +182,14 @@ Embeddedness of Digital Labour	226
 Emerging Labour	7548
 Employment and Labour	1009,3117,7814,149
 Employment and Labour Relations	4126
+Employment and Labour Relations Act	12566,31
+Employment and Labour Relations Act No	12597
+Employment and Labour Relations Council	12597
 Encargado de Relaciones Laborales	6841
 Energy Living Lab	11006
 Eng. Laban Kiplagat	9609
 Epidemiology and Laboratory and Training Program	4153
+Eradication of Child Labour	12597
 Establish Joint Innovation Labs	4528,7984
 Establish National Forensics Laboratory	1000
 Establish National Tech Labs Program	1204
@@ -237,14 +248,16 @@ Google Labs	3947
 Google Opens Africa AI Lab for Startup	8698
 Google's Africa Applied AI Lab	2209
 GovTech Innovation Lab	5342
-GovTech Lab	9291
+GovTech Lab	9291,3384
 Government of Mozambique's Laboratory Information System	4260
 Grafana Labs	4434
 GreenTech AI Lab	8094
 Growth Lab	11308,587,456
+HEADLINE LABOUR FORCE INDICATORS BMTHS	12600
 HRH Labo	4301
 HRH Laboratory	4301
 Hanno Labuschagne	7423,707
+Head of UNDP's Digital Capacity Lab	12723
 Health Lab Ethiopia	12255
 Hospitals Clinics Laboratories Other Major	8605
 ICT Lab	4392
@@ -269,7 +282,7 @@ Information Disclosure Relevant Labor and Working Conditions	1284,9545,135
 Information and Labour Market Intelligence	11791
 Innovation Lab Bill	878
 Innovation Laboratory for Public Finance	5587,1
-Innovation Labs	12512
+Innovation Labs	12512,163
 Innovations Lab and Standard Chartered Women	12376
 Inovation Lab Um	11939
 Integrated Labour Market Information System	10658
@@ -333,6 +346,7 @@ LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135
 LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16,466,1,135
 LABOUR ENVIRONMENT Rank	10759,78,1049,454
 LABOUR ENVIRONMENT Regional Integration	10759,78,1052,451
+LABOUR EXPORT	12746
 LABOUR HEALTH PARTICIPATION ENVIRONMENT Rank	11870
 LABOUR PUBLIC ADMINISTRATION ENVIRONMENT Rank	10968
 LABOUR Rank	12352,1,135
@@ -384,7 +398,7 @@ Labone Limited	3386
 Labone Prestige Centre	11020
 Labont	3791
 Labonté R	3791
-Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42
+Labor	1284,704,1616,7159,83,16,107,7,9,19,136,734,7,1,2,1,10,10,60,6,188,1,44,1,124,17,5,4,34,7,3,46,42,268
 Labor Climate Change and Disaster Screening	11855
 Labor Code	10841
 Labor Contributing Practice Areas Education Fragile	11525
@@ -480,13 +494,13 @@ Laboria Park	11285
 Laboria Park Parliamentary Village	11285
 Laborinho	9399
 Laborpresse.net	7800
-Labour	236,1752,1995,1261,1408,180,270,339,107,241,147,523,1854,967,16,285,375,254,43,163,37
+Labour	236,1752,1995,1261,1408,180,270,339,107,241,147,523,1854,967,16,285,375,254,43,163,37,144
 Labour Act	3714
 Labour Activation Programme	12089
 Labour Code	10841,1059,261
 Labour Code and Electronic Transactions Law	12161
 Labour Construction	12253
-Labour Court	7587,3693
+Labour Court	7587,3693,1388
 Labour Courts and Masters' Offices	9894
 Labour DFFE Department of Forestry	11261
 Labour Day	6034,1811
@@ -500,21 +514,26 @@ Labour Environment Infrastructure Rural Economy Health	10759
 Labour Environment Infrastructure Rural Economy Human	10837,1315,188
 Labour Environment Rank	11889
 Labour Environment. Regional Integration	11887
-Labour Force	11296
+Labour Force	11296,1304
+Labour Force Participation Rate	12600
+Labour Force Preliminary Stats Brief	12600
+Labour Force Preliminary Stats Brief VERSION	12600
+Labour Force Preliminary Stats Brief Version	12600
 Labour Force Survey	6652,845,959,3626,247
 Labour Force Survey Annual Report	12329
 Labour Force Survey NISR	12445
 Labour Force Survey Report	1867
 Labour Influx Due	1988
 Labour Law	12101,193
+Labour Laws	12597
 Labour Management Measures	12253
 Labour Management Plan	1988
 Labour Management Procedure	12253
 Labour Management Procedures	1988,10265
 Labour Management Procedures MoA Ministry of Agriculture	1988
-Labour Market	6832,116
+Labour Market	6832,116,5649
 Labour Market Employees	12445
-Labour Market Information System	5652,881,4119,1060
+Labour Market Information System	5652,881,4119,1060,900
 Labour Market Information Tnz Sida	148
 Labour Market Intelligence	11712
 Labour Market Intelligence MICT SETA	6832
@@ -539,6 +558,8 @@ Labour Statistics	11237
 Labour Tenants	11197
 Labour and Employment	12145
 Labour and Energy	7481
+Labour and Home Affairs	12627
+Labour and Industrial Relations Organisations	12597
 Labour and Public Service Minister Faya François	4142
 Labour and Services	12326
 Labour and Skills	7211
@@ -569,6 +590,7 @@ M&E Lower-Middle-Income Country Labor Management Procedures	10964
 MICDE of Labour	7548
 MINECOFIN Ministry of Public Service and Labour MINEDUC	1204
 MINISTER OF EMPLOYMENT AND LABOUR	11280
+MINISTER OF LABOUR AND HOME AFFAIRS	12607
 MIT's Fab Labs Scaled Around	10834
 MUBAS Innovation Lab	401
 Maintenance of Digital Forensic Lab Tools Limited	6946
@@ -586,12 +608,15 @@ Minister of Employment and Labour	11280
 Minister of Justice and Labour Relations	8006
 Minister of Labor	3583
 Minister of Labour	2667
-Minister of Labour and Home Affairs	5250
+Minister of Labour and Employment	12746
+Minister of Labour and Employment Mr. Ts'eliso Mokhosi	12719
+Minister of Labour and Home Affairs	5250,7323,34,20
 Minister of Labour and Home Affairs Major General	8165
 Minister of Labour and Rehabilitation	7723
 Minister of Labour and Social Security	4192
 Ministers of Home Affairs and Employment and Labour	11280
 Ministers of Labour and Education	11179
+Ministries of Labour	12746
 Ministry Ministry of Labour	7548
 Ministry of Development Labour	7548
 Ministry of Gender Labor and Social Development	3005
@@ -604,7 +629,10 @@ Ministry of Labor and Social Security	10964,1448
 Ministry of Labor. Singapore	11135
 Ministry of Labour	1188,2928,26,278,824,2479,1365,2624,389,152,163
 Ministry of Labour Launches Digital Strategy	12416
-Ministry of Labour and Home Affairs	1662,977,2611,384,1,898
+Ministry of Labour and Employment	12674,72
+Ministry of Labour and Home	12533,1
+Ministry of Labour and Home Affairs	1662,977,2611,384,1,898,6000,64,15
+Ministry of Labour and Home Affairs CRVS	12639
 Ministry of Labour and Home Affairs. Even Parliament	2736
 Ministry of Labour and Rehabilitation	7723,2686
 Ministry of Labour and Social	1988
@@ -618,6 +646,7 @@ Mobile Money Research and Innovation Laboratory Bill	276
 Model for Africa NHLS National Health Laboratory	396
 Monsieur Mohamed Mahmoud BEN LABAT	8237
 Muganga Innovation Lab	7955
+Multi-Protocol Label Switching	12769
 Multiprotocol Label Switching Virtual Private Network	5883
 NCA DFS Security Lab	5428
 NMP and The Gambia Labour Act	10463
@@ -626,10 +655,12 @@ Namibia Labor Force Survey	12399
 Namibia Labour Force Survey	9485
 National Artificial Intelligence Research Laboratory	1787,1417,3881
 National Computer Forensic Laboratory	1000
+National Drug Quality Control Laboratory	12583
 National Economic Development Labour Council	11280
 National Economic Development and Labour Council	6832
 National External Quality Assurance Laboratory	4301
 National Forensic Laboratory of Rwanda	12413
+National Health Laboratory	12606
 National Health Laboratory Service	396
 National Health Laboratory Strategic Plan	11417
 National Laboratory Data Repository	4922
@@ -637,12 +668,14 @@ National Laboratory Equipment Calibration Center	4301
 National Laboratory Information System	4349
 National Laboratory Quality Policy	11417
 National Labour AI Competency Framework for Civil	4126
-National Public Health Laboratory	10188
+National Public Health Laboratory	10188,2395
 National Public Health Reference Laboratory	4202
 National Quality Control Lab	4153
 National Quality Control Lab KEMSA Quality	4153
 National RegTech and SupTech Lab	6549
 Nidaamka Diiwaangelinta Ganacsiga Soomaaliya. Labada	9583
+Niklaus Daniel Labhardt Corresponding	12712
+Niklaus Daniel Labhardt. Affiliation	12712
 Number of Labels	1988
 Official Use Only Labor Projets Filets	10985
 Online Labour	226
@@ -672,6 +705,8 @@ Planet Labs PBC	9544
 Planetary Labour Market	226
 Platform Labour	226
 Platform for Digital Labor Unions	226
+Policy Lab	12674
+Population Outside Labour Force	12600
 Portfolio Approach of Accelerator Lab Guinea Bissau	11541
 Potential Labour Force	11296
 President of Medtronic LABS	12438
@@ -713,6 +748,7 @@ Sloane Lab	8605
 Sloane Lab and Towards	8605
 Smart Education Project The ICT Lab	2256
 Smart Labs Programme	5444
+SmartBots Lab	12587,7,14
 Social Insurance Labor Market Social Assistance	10985
 Social Protection and Labor	10964
 Social Protection and Labor Global Practice Africa	11525
@@ -745,6 +781,7 @@ Technology Displaces and Reinstates Labor	11140
 Testing Labs	5665
 Themba LABS	5246
 Themba Laboratory for Accelerator Based Sciences MRC	5246
+Through the Accelerator Lab	12732
 Togo AI Lab	7282
 Togo AI Lab. Selon	7282
 Togo Data Lab. Kafui Ekouhoho	8275
@@ -759,6 +796,7 @@ UNDP Accelerator Lab	12376
 UNDP Accelerator Labs	402
 UNDP Accelerator Labs Network Africa UNDP	402
 UNDP Digital Capacity Lab	12241
+UNDP Lesotho Accelerator Lab	12732
 UNDP's Accelerator Lab	1871
 UNDP's Digital Capacity Lab	12241
 UN’s International Labour Organization	9786
@@ -769,11 +807,13 @@ Upanzi Lab	11077
 Urban Living Lab Way of Working	11007
 Urban Living Lab Way of Working Handbook	11007
 Urban Living Labs	11006
+Venture Creation Labs	12540
 Verification of Laboratory Quality	10776
 Visual Cognition Lab	7151
 Vumah Labs	7530
 Water Resources Management Authority. Ministry of Labour	1988
 Work Lab	1232
+Workforce and Labor Law Adaptation	12675
 World Bank Social Protection and Labor Strategy	11855
 World Data Lab	9541
 X X Accelerator Lab Growth Africa	12376
@@ -785,6 +825,7 @@ Y ORIENT. LABO.- Conc4epto.-	4209
 Year Lab Commoditie	4202
 Year Lab Commodities	4153
 Year Laboratory Commodities	4217
+Youth Labour Force	12600
 Zambia Employment and Labour Management System	12416
 Zambia Employment and Labour Market Information System	11640
 Zambia. Accelerator Lab	12376

@@ -15,6 +15,7 @@ ACREL ELECTRIC	10975
 ACRESAL	11469
 ACRIAJUDA	12201
 ACRONYMS	11192,26,6,47,589,469,115,9
+ACRONYMS AAR After-Action Review AFP Acute	12729
 ACRONYMS ACFEE African Centre	396
 ACRONYMS ACLs Access Control Lists AI	6432
 ACRONYMS ACRONYMS AI AIA API DCI	11156
@@ -23,8 +24,11 @@ ACRONYMS AFI	940
 ACRONYMS AGSA Auditor General of South Africa	11224
 ACRONYMS AI AIGF African Development Bank	3604
 ACRONYMS AML	11960
+ACRONYMS AND ABBREVIATIONS	12701,58
 ACRONYMS AND ABBREVIATIONS ADB Asian Development	11572
 ACRONYMS AND ABBREVIATIONS APME Small and Medium-sized	10980
+ACRONYMS AND ABBREVIATIONS BTS	12759
+ACRONYMS AND ABBREVIATIONS EXECUTIVE SUMMARY Introduction	12701
 ACRONYMS ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 ACRONYMS Abbreviation Full	11261
 ACRONYMS Acronym Description	11218
@@ -68,33 +72,34 @@ Acrew Capital	1547
 Acritical	8602
 Acriticalreviewofusinglearningana-	8602
 Acronimos	2228
-Acronym	3730
+Acronym	3730,8830
 Acronym Definition Acronym Definition ETA Electronic	11986
 Acronym Definition Acronym Definition PI Performance	11986
 Acronym Definition LRB Late Registration of Birth	5533
 Acronym Definition STAGES Screen Talent and Global	5533
 Acronym Description	11218
 Acronym WBES	10862
-Acronyms	427,4101,5088,1143,76,2,75,56,225,4,113,91,144,341,1,2,105,158,2,9,164,13,1,12,5,2,53,99
+Acronyms	427,4101,5088,1143,76,2,75,56,225,4,113,91,144,341,1,2,105,158,2,9,164,13,1,12,5,2,53,99,25,7,95,18
 Acronyms ABIS Automated Biometric Identification System	12241
 Acronyms ACE Africa Coast	11545
 Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1,135
 Acronyms AFP	10776
 Acronyms AMEX	11955
 Acronyms AfCFTA AI AI4D AISIO API	4528
-Acronyms AfCFTA African Continental Free Trade	12512
+Acronyms AfCFTA African Continental Free Trade	12512,151
 Acronyms AmeliCA Open Knowledge for Latin America	5246
 Acronyms BNN	12337
 Acronyms Description MOFI Ministry of Finance	11857
 Acronyms MSME Micro	12297
 Acronyms Terminology Executive Summary Digital Government	12359
-Acronyms and Abbreviations	970,5862,114,4304,901
+Acronyms and Abbreviations	970,5862,114,4304,901,523
 Acronyms and Abbreviations ACP Africa	970
+Acronyms and Abbreviations AfCFTA African Continental Free	12674
 Acronyms and Definitions	12328
 Acronyms and Definitions BC Birth Certificate CSOs	12328
 AcronymsAacnrdonAybmbrseavniadtiAobnbsreviations PART	10157
 Acronymsp.16 Country	10838,1032,482,136
-Across	1200,43,571,808,122,74,379,25,361,148,128,291,280,98,148,14,135,23,58,64,74,107,96,116,27,28,133,14,53,91,7,195,2,29,33,73,7,52,64,41,54,119,28,58,63,105,29,1,21,15,15,20,50,4,38,19,28,7,52,10,34,165,4,24,67,56,15,24,10,97,7,97,147,36,20,39,46,21,10,2,7,70,20,35,35,240,35,30,7,78,1,11,22,11,24,179,6,67,158,69,4,9,12,18,89,14,8,17,116,191,141,7,16,6,13,6,12,86,38,27,155,10,16,16,36,30,31,90,89,389,48,15,35,1,10,18,26,33,111,1,13,14,13,12,119,1,2,2,96,36,28,168,15,102,65,126,81,6,39,16,1,45,77,7,3,11,165,70,3,15,61,7,28,2,2,29,1,67
+Across	1200,43,571,808,122,74,379,25,361,148,128,291,280,98,148,14,135,23,58,64,74,107,96,116,27,28,133,14,53,91,7,195,2,29,33,73,7,52,64,41,54,119,28,58,63,105,29,1,21,15,15,20,50,4,38,19,28,7,52,10,34,165,4,24,67,56,15,24,10,97,7,97,147,36,20,39,46,21,10,2,7,70,20,35,35,240,35,30,7,78,1,11,22,11,24,179,6,67,158,69,4,9,12,18,89,14,8,17,116,191,141,7,16,6,13,6,12,86,38,27,155,10,16,16,36,30,31,90,89,389,48,15,35,1,10,18,26,33,111,1,13,14,13,12,119,1,2,2,96,36,28,168,15,102,65,126,81,6,39,16,1,45,77,7,3,11,165,70,3,15,61,7,28,2,2,29,1,67,162,73
 Across ASEAN	8629
 Across Africa	3059,486,359,520,130,51,219,72,10,391,14,218,21,387,311,89,256,117,4,76,36,349,71,45,87,89,121,118,44,136,77,357,144,138,510,510,26,169,54,82,109,131,479,629,736
 Across Anambra	3133
@@ -174,6 +179,7 @@ CONTENTS LIST OF ACRONYMS	11586
 Cameroon’s GDP Across Sectors	10841
 Comparative Analysis Synthesis Across	7966
 Consistently. Across Sub-Saharan Africa	5910
+Contents Acknowledgments. Acronyms	12533
 Contents Acronyms	5246
 Contents List of Acronyms	12175
 Cooperation Acronym Description	11218
@@ -234,6 +240,7 @@ II ACRONYMS	11261
 INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
 INDÍCE ACRÓNIMOS E ABREVIATURAS	11555
 Impact Across Sectors	4625
+Incorporate AI Across Disciplines	12675
 Individuals and Businesses Across Africa Wayne Venter	7324
 Institutional Responsibilities Across Government	6442
 Instituto Angolano de Acreditação	11381
@@ -263,7 +270,7 @@ LISTE DES ACRONYMESvii REMERCIEMENTS L	7655
 Lavanya Choudhary ABBREVIATIONS AND ACRONYMS AU	6539
 Life Counts Acronyms	12151
 Linking the Ghana Card Across National Identity	6177
-List of Acronyms	10901,287
+List of Acronyms	10901,287,1471
 List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms BE Level	12175
 List of Acronyms and Abbreviations	2775
@@ -338,6 +345,7 @@ Safety Across	11585
 Scale Infrastructure Financing Across Africa	9803
 Scale Nigeria's Language Model Template Across	8552
 Scale Women-Led Enterprises Across Africa Jordan	5322
+Scaling AI Readiness Across Borders	12723
 Seeks Full Adoption Across MDAs	8632
 Service Acronym Description	11218
 Shared Widely Across	12214
@@ -363,7 +371,7 @@ TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524
 Table of Contents ABBREVIATIONS AND ACRONYMS	1988
 Table of Contents ACRONYMS	6432
 Table of Contents Abbreviations and Acronyms	10718,123
-Table of Contents Acronyms	396,10797
+Table of Contents Acronyms	396,10797,1470
 Table of Contents Acronyms and Abbreviations	6832
 Targets Digital Access Across Liberia	10406
 Taxation. Across	12389

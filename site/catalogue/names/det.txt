@@ -46,8 +46,11 @@ Code of Practice for Information Security Controls Detailed	3861
 Collision Detection	3604
 Competitive Obj. Objective Details No	1818
 Complainant Details Grievance Ref	1778
+Computer-Aided Detection	12678
+Contact Details Ministry of Youth and Gender Affairs	12642
 Contas Detidas Junto	10755
 Contents Introductory Comments Summary Findings Detailed	7869
+Corruption Detection and Prevention Strategy	12598
 Court. Issues for Determination	3005
 Crime Detection Strategy NCPS National Crime	11188
 Cross-Border Transfer Mechanisms and Adequacy Determinations	3861
@@ -110,7 +113,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -121,12 +124,13 @@ Detailed Implementation Plan	4349
 Detailed Project	11855
 Detailed Quarterly Dashboard Progress	11236
 Detailed Risk Analysis and Mitigation Strategies. National	4528,7984
+Detailed Roles and Responsibilities	12674
 Detailed Roles and Responsibilities for AISIO Leadership	4528,7984
 Detailed STG and GEA	11916
 Detailed Sector Analyses	2957
 Detailed Urban Planning Plans	10930
 Detailing	10388,757,1255
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19
 Details Application	8726
 Details Baseline Target Due	1818
 Details Hydro Methane Thermal Solar Peat	12358
@@ -196,7 +200,7 @@ Determinants Of Implementation Of The Digital	899
 Determinants of Health Addressed	10776
 Determinants of Property Tax Revenue	10997
 Determinar	1701,9076,653,88,1
-Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73
+Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52
 Determination Committee	11177
 Determination No	6946
 Determination Officer SA South Africa	5533
@@ -205,7 +209,7 @@ Determinations	10157
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276
 Determine Whether the Entity	11233
 Determine the MNE Group	573
 Determined	11169,49
@@ -229,6 +233,7 @@ Dette225	1682
 Dettes	10975
 Detty	4848
 Detty Rave	9869
+Developing A Lesotho-Specific Disease Detection Model	12707
 Developing Telecoms Details Vaughan O'Grady Category	5908
 Digital Transformation Necessity DETERMINING	3861
 Disease Detectives	9779
@@ -239,6 +244,7 @@ ET DE LA DETTE FLOTTANTE	2342
 ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
 Endpoint Detection and Response	11231
 Enhance Cybercrime Detection	1000
+Equipment Detailed Specifications Server	12681
 Equity and Inclusion Imperative DETERMINING	3861
 Estimated Number of Activity Activity Details Direct	1867
 Eswatini’s Nationally Determined Contribution	11134
@@ -393,6 +399,7 @@ RSD Refugee Status Determination	12227
 Radar Interference Detection	736
 Rapid Detection and Response	10776
 Rapidly Detected And Responded To Responding	10776
+Refugee Status Determination	12658
 Refugee Status Determination Officer	11177,41,768
 Refugee Status Determination Officers	11177
 Registo de Detalhe de IP	4274
@@ -448,9 +455,11 @@ System Details	736
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TEL NO. DETAILS OF DATA PROTECTION	2709
 TEL NO. REQUEST DETAILS	2709
+TIME FRAMES AND OTHER DETAILS	12681
 Tables A.1 Details	10977
 Tanzania and Uganda. Explore Firm Details South	6683
 Taxpayer Details	11276
+Timetable and Submission Details Proposals	12754
 Title Details Update	12333
 Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1,135
 Trend Increasing Deterioration Accountability	12341

@@ -13,8 +13,9 @@ Alcatraz and Tristao Islands Marine Protected Areas	1264
 Alexandre Cose TRIBUNAL DE CONTAS APROVA	11473
 Anambra Digital Tribe	10160
 António Carlos Semedo Hernâni Trigueiros João	11955
-Appeals Tribunal	7755
+Appeals Tribunal	7755,4793,1,49
 Appeals Tribunal Service Proclamation	12185
+Appointment of Registrar of Tribunal	12549
 Arbitral Tribunals	1243
 Arbitration Tribunal	11279
 Arbitration Tribunal.’’. Amendment	11279
@@ -27,6 +28,7 @@ Autoridade Tributária de Moçambique	12142,76
 Availability of Specialized Procurement Tribunals	12389
 BA Trim	2081,2,1,2327,2,1
 Bank Indonesia Trials QRIS Tap	11994
+Banking Appeals Tribunal	12598
 Beneficios Fiscais Novos Códigos Tributários Desdobrável	12018
 Bermuda Triangle	10955
 Breach Triage And The Insurer’s First	6632
@@ -60,6 +62,7 @@ Competition Tribunal. EP.06	4730
 Competition and Consumer Protection Tribunal	6055,3762,2176
 Complexity H1 Compability Skills Trialability H2	9129
 Components Results Safeguard Policies Triggered Disbursement	11924
+Composition of Tribunal	12549
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
 Conselho da Administração Geral Tributária	10786
 Conselho de Administração da Administração Geral Tributária	6309
@@ -70,6 +73,7 @@ Consumer Tribunal NGB National Gambling Board	11198
 Consumer Tribune	5679
 Conta Provisória I Trimestre	4411,2,1
 Contas Nacionais Trimestrais	11447
+Continuation of Appeals Tribunal	12549
 Control Trial SCM Synthetic Control Method	12006
 Copyright Disputes Tribunal	8490
 Copyright Tribunal	8568
@@ -87,6 +91,7 @@ DRC and Singapore's Trident	2389
 DRC and Trident	2385
 DRC and Trident Digital Tech Holdings Ltd	2385
 Data Sources and Triangulation	7966
+Decision of Tax Tribunal	12629
 Delays of Tribunal de Contas	10768
 Democratic Republic of Congo. Trident Digital Tech	6753
 Digital Preservation Triad	9888
@@ -106,6 +111,7 @@ Electronic Communications Tribunal Establishment	11
 Elemi Triangle	6946
 Employees of Companies Tribunal	3714
 Environmental and Social Standards Triggered	12253
+Establishment of Tax Tribunal	12629
 Estatuto Orgânico da Administração Geral Tributária	11435
 Etapas da Triagem Ambiental	11406
 Europe Tried	6487
@@ -141,6 +147,7 @@ Futures Triangle Approach	11265
 Futures Triangle23	11265
 General Tributaria	4209
 Germany’s GTZ Municipality of Tripoli Centre	5948
+Hearings of Tax Tribunal	12629
 Huy Nguyen Trieu	4611
 I Trim	1265
 I Trimestre	744,5283,164,5196,80
@@ -163,11 +170,14 @@ India and Italy Launch Trilateral Sovereign AI	5095
 Indicative Triggers	10779
 Indicators and Triggers	12175
 Indigenous and Tribal Peoples Convention	10765,10
+Information and Data Protection Appeals Tribunal	12549
 Ingresos Tributarios	4209
 Intellectual Property Tribunal. Instead	10041
 Intendente Eridson Trindade	5819
 Jamaica Panama Paraguay Peru Trinidad and Tobago	10764
 Job Descriptions What Nigeria Has Tried	10015
+Jurisdiction of Tribunal	12549
+Jurisdiction of Tribunal Tenure	12549
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
 LASR's Tripoli	9091
@@ -236,10 +246,12 @@ Plan Triennal Spécial Territorial	10985
 Plano Trianal	11557
 Pleno Magistrado Tribunal Constitucional Maestro	4209
 Posts Eden Joint Municipal Tribunal	11251
+Powers of Tax Tribunal	12629
 Preenchimento da Ficha de Triagem Ambiental	11406
 President Trina S. Haque Country Director	11924
 Presidente Tribunal Presidente Tribunal Presidente Consejo	4209
 Procedimentos Tributários	11383
+Proceedings of Tribunal	12549
 Programme de Travail Trimestriel RESA	10874
 Proposta de Procedimento de Triagem de Projectos	11406
 Président du Tribunal	436
@@ -269,6 +281,7 @@ SUMÁRIO Tribunal Supremo	6462
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 Safeguard Policies Triggered	11525,330
 Secretario Fiscalía Tribunal Constitucional	4209
+Secretary of Tax Tribunal	12629
 Senegal Sierra Leone Trinidad and Tobago Tunisia	10764
 Servicios Tributarios	4209
 Serviço Regional Tributário RF	11435
@@ -301,6 +314,7 @@ Supremo Tribunal de Justiça. Como	11561
 Syndicate Says Sudan Tribune	10213
 Sónia Trigo	2816
 T Assinant. Trim N-1 O II Trimestre	11574
+TB TRIAGE	12678
 TOE and DOI Trialability	9129
 TRI Project	10841
 TRI- POD	8301
@@ -337,6 +351,7 @@ TRIPS Agreement and Public Health	6534
 Tajikistan Thailand Timor-Leste Togo Tonga Trinidad	11765
 Tax Appeal Tribunal	9972,2004
 Tax Dispute Resolution and Tax Tribunal	8669
+Tax Tribunal	12598,31
 Technopolis Dispute Resolution Tribunal	6161
 Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecoms Minister Karim Bibi Triki and High	1842
@@ -375,6 +390,7 @@ Triangulating	1018
 Triangulation	3791,3157,330,688,1162,3275
 Triangulo	10751
 Tribal	3761
+Tribal Administration	12551
 Tribal Heads	8820
 Tribal Land Act	3761
 Tribal Leaders	8999
@@ -396,9 +412,12 @@ Tribunais de Relação	10752
 Tribunais. Desses	10751
 Tribunais. Foi	10752
 Tribunais. Quando	10752
-Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13
+Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13,990,18
+Tribunal A.180	12549
+Tribunal A.181	12549
 Tribunal Administrativo	2866
 Tribunal Administrativo. CAPÍTULO VI Fiscalização	2866
+Tribunal Appointment of Registrar of Tribunal Appeals	12549
 Tribunal Arbitral	11520
 Tribunal Constitucional	1701,2508,4327,640
 Tribunal Constitucional Magistrado Corte Suprema Justicia	4209
@@ -406,7 +425,12 @@ Tribunal Constitucional Ministro de Estado Ministro Vocal	4209
 Tribunal Constitucional Servicio	4209
 Tribunal Constitucional Tribunal de Cuentas	4209
 Tribunal Constitucional de Angola	11473
+Tribunal Disqualification	12549
 Tribunal General	11
+Tribunal PART XVII	12549
+Tribunal Proceedings of Tribunal Appeal	12549
+Tribunal Protection	12549
+Tribunal Resignation	12549
 Tribunal Supremo	6462,4288
 Tribunal Supremo da República Popular da China	10752
 Tribunal Supremo da República de Angola	11473
@@ -524,6 +548,7 @@ Tripesa	3065
 Triple Helix	11863
 Triple Helix Curriculum Design	4528
 Triple Helix Curriculum Infrastructure	12512
+Triple Helix Model	12675
 Triple Line	11916
 Triple Logic Telecommunication Ltd	3862
 Triple Logic Telecomunication Ltd	3862
@@ -563,5 +588,7 @@ TÉCNICO-CIENTÍFICAS DO TRIBUNAL SUPREMO	11414,59
 TÉCNICO-CIENTÍFICAS DO TRIBUNAL SUPREMO O Tribunal	11414
 TÍTULO II DE LAS MEDIDAS TRIBUTARIAS	4209
 VICE-PRESIDENTE DO TRIBUNAL DE CONTAS	11473
+Valuation Tribunal	12531
+Valuation Tribunal PART IX	12531
 Vocales Magistrado Tribunal Magistrado	4209
 Wi-Fi Triangulation	12041

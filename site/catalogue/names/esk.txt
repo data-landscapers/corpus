@@ -8,7 +8,7 @@ ESKOM	11131,1268
 ESKOM Prog	11890
 ESKOM and Statistics South Africa	11244
 Eskinder Mesfin Cherinet	4766
-Eskom	1402,549,675,692,1632,75,25,158,2045,385,380,581,1170,333,278,257,53,119,207,86,109,4,8,1,4,8,36,13,12,547,46,14,49,39,81,307,141
+Eskom	1402,549,675,692,1632,75,25,158,2045,385,380,581,1170,333,278,257,53,119,207,86,109,4,8,1,4,8,36,13,12,547,46,14,49,39,81,307,141,246
 Eskom Crime Line	11297,695
 Eskom Data Portal	11297,656
 Eskom Dx	8018
@@ -56,6 +56,7 @@ GDP. Eskom	12073
 Generation Capacity Eskom	11953
 Hattingh Equinix Eskom Jan Hnizdo Mteto	9769
 Imports Eskom1 IPPs1 Imports Exports	11953
+Muela and Eskom	12767
 Municipalities and Eskom	11890
 Notes. Eskom	11953
 References Eskom Holdings SOC Limited	11953

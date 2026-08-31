@@ -42,11 +42,12 @@ Inpor Quotas Unipessoal	10757
 Inpracticalterms	8602
 Inpractice	8602,4
 Inprinciple	8602
-Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42
+Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42,143
 Input Distribution	9123
 Input Tax	12509
 Input Tax Claim Schedules for VAT Returns	12509
 Input Tax Claims for Taxpayers	12509
+Input Tax Credit	12630
 Inputs	961,1792,4795,1575,2010,55,752,235,181,3
 Inputs-financial	7548
 International Finance Corporation INP-HB Interim Financial	3604
@@ -64,6 +65,7 @@ Policy Input	12356
 Pre-Treatment Heterogeneous XML Input	8606
 Project Inputs	12253
 Project Inputs Materials	12253
+Public Input Mechanisms	12675
 Quarterly Construction Inputs Price Indices and Inflation	2775
 REPÚBLICA DE CABO VERDE INPS	12021
 SADC Secretariat. Inputs	962

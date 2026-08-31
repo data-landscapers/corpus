@@ -45,6 +45,7 @@ CONDITIONAL GRANTS	5533,5685,6
 CONDITIONAL GRANTS Name	11986
 CONDITIONING ENGINEERS	7167
 CONDITIONS	11897
+CONDITIONS Bid	12681
 CONDITIONS DE PARTICIPATION Chaque	10237
 CONDITIONS DE SUCCÈS DU POSAF	10712
 CONDITIONS D’EXERCICE Article	10836
@@ -86,7 +87,7 @@ Condicionantes	10783
 Condicionantes Decorrentes	11396
 Condicionantes Macroeconómicas	11396
 Condicionar	11386,18
-Condition	1474,2109,5816,373,1629
+Condition	1474,2109,5816,373,1629,1260
 Condition for Issuing Tax Clearance Certificate	12509
 Condition for Lifesaving Aid Citing ProPublica	10446
 Condition of Global Health Funding	5456
@@ -102,7 +103,7 @@ Conditional Grants	11197,789
 Conditional Vanguard	11487
 Conditionality Puts Life-Sustaining Treatment	6534
 Conditionner	8891
-Conditions	11,725,1,482,4,595,2749,1588,268,523,252,719,629,397,310,367,1088,4,109,15,40,303,117,567,42,60,186,75,112,62
+Conditions	11,725,1,482,4,595,2749,1588,268,523,252,719,629,397,310,367,1088,4,109,15,40,303,117,567,42,60,186,75,112,62,135,14,26
 Conditions Applicable	736
 Conditions Couverture	747
 Conditions Financing	10964
@@ -163,8 +164,9 @@ Condor Galaxy. The Condor Galaxy	6411
 Conducive	395,11938
 Conducive ICT	12453
 Conducive Macro-Economic Environment	940
-Conduct	396,544,18,42,204,44,9,520,37,9,62,103,489,72,440,594,95,36,412,76,12,314,82,634,289,132,11,1,3,1,671,80,4,358,142,13,599,998,57,520,613,985,98,10,131,57,114,2,1,22,25,3,4,10,18,20,11,54,504,52,3,6,74,1,11,4,30,8,4,153,42,2,19,13,13,1,12,49,54,3,17,23,1,53,55,4
+Conduct	396,544,18,42,204,44,9,520,37,9,62,103,489,72,440,594,95,36,412,76,12,314,82,634,289,132,11,1,3,1,671,80,4,358,142,13,599,998,57,520,613,985,98,10,131,57,114,2,1,22,25,3,4,10,18,20,11,54,504,52,3,6,74,1,11,4,30,8,4,153,42,2,19,13,13,1,12,49,54,3,17,23,1,53,55,4,20,31,112,11,7,24
 Conduct AI	7548
+Conduct AI-related	12675
 Conduct African-led	1814
 Conduct Annual List	1988
 Conduct Annual Needs Assessment Survey	11866
@@ -202,9 +204,9 @@ Conduct of Financial Institutions Bill	4824,3530
 Conduct of Money Laundering and Terrorism Re	12297
 Conduct of Recognition Review	3503
 Conduct of The Interim Transition Governance	7934
-Conducted	582,618,690,1133,4037,1727,994,995
+Conducted	582,618,690,1133,4037,1727,994,995,1953
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
-Conducting	1248,306,223,1,36,304,1533,1038,159,829,862,253,146,9,591,816,2422,353,2,3,22,26,16,387,43,234,44,80,20,2,158,74,13,146
+Conducting	1248,306,223,1,36,304,1533,1038,159,829,862,253,146,9,591,816,2422,353,2,3,22,26,16,387,43,234,44,80,20,2,158,74,13,146,131,144
 Conducting Consultative Meetings	1824
 Conducting KYC	6940
 Conducting the Population and Housing Census	2775
@@ -218,7 +220,7 @@ Conductor B1 Oficial de Comunicación A1 Recepcionista	4209
 Conductor B2 Oficial de Comunicación B2 Recepcionista	4209
 Conductor B3	4209
 Conductors	1988
-Conducts	1686,5852
+Conducts	1686,5852,5101
 Conduire	10858,107,967
 Conduit	9123,1753
 Conduite	748,2956,885,144,2424,40,463,3181,134,164
@@ -232,6 +234,7 @@ Contractor's Code of Conduct	12253
 Contractors Code of Conduct	12253
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Credit Conditions Survey	7907
+CruisingNicely General Terms and Conditions	12690
 Cybersecurity Conduct	6432
 CÓDIGO DE CONDUTA	11390,23
 Código de Conduta	2816,7935,2,615,73,1,6,3
@@ -257,8 +260,9 @@ EMPLOI ET CONDITIONS DE TRAVAIL DANS	10875
 EPS Terms and Conditions	12343
 ESS2 Labor and Working Conditions Relevance	1988
 ET LES CONDITIONS DE VIE DES	2342
+EVALUATION CRITERIA GENERAL EVALUATION CONDITIONS	12693
 Economic Conditions	12376
-Electoral Code of Conduct	6907,4169
+Electoral Code of Conduct	6907,4169,1576
 Enabling Conditions	12175
 Enabling Conditions This Partnership Compact	12175
 Environmental and Sustainability Conduct Prefer	6432
@@ -436,6 +440,7 @@ South Africa’s Financial Sector Conduct Authority	2826
 Special Conditions of Contract	11252
 Specific Conditions of Bid	11209
 Standard Terms and Conditions Regulations	4732
+Standardized Temperature Condition Index	12614
 Starlink's Licence Conditions	1929
 Steam and Air Conditioning Supply	2775,3550
 Structural Conditions and Employee Affective Orientation	5349

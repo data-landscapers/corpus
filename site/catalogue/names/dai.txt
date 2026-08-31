@@ -4,7 +4,8 @@ Africa Daily Focus	12382
 Average Daily Demand	12256
 Avon Rise Avenue Date Daily	4896
 Beezop’s Dairo	7798
-Botswana Daily News	5634,4729
+Body DailyNews	12545,16,3,1,4,1,3,11,7,2,6,10,4,6,1,7,1,3,3,1,1,2
+Botswana Daily News	5634,4729,2247
 Business Daily	3303,1302,1545,81,199,303,240,131,302,725,2607
 Business Daily Africa	6231,2440
 Business Daily Africa and Daily Nation. the Kenya	6231
@@ -24,6 +25,7 @@ DAICF Modelo Oficial v1.0.pdf	12018
 DAICF ZIP Anexos Extras.pdf	12018
 DAIKUAN LIMITED Data Controller INST-755101B84DC NAIROBI	7167
 DAILY CARD REPLACEMENT RATE	8999
+DAILY HANSARD	12607
 DAILY NEWS Reporter	8276
 DAILY NEWS Reporter DAR ES	10460
 DAILY NEWS ReporterApril	5771
@@ -34,7 +36,7 @@ DAIMA SACCO Data Controller INST-76693881789 NAIROBI	7167
 DAIRIAM	6613
 Dai Fangfang	10764
 Daigle	1243
-Daily	587,1099,980,4996,27,211,1575,1341,188,224,639,86,11,394,6,39,19
+Daily	587,1099,980,4996,27,211,1575,1341,188,224,639,86,11,394,6,39,19,192,76
 Daily Average Population of Prisoners	2775
 Daily Base	11004
 Daily Business Reality	9815
@@ -45,6 +47,7 @@ Daily Data Scrubbing and Minimal Personal Information	8022
 Daily Demand Profile	12256
 Daily Graphic	3287,280,4,3886,34,1089,494,1231
 Daily Limits Limits	11002
+Daily M10	12690
 Daily Market The Nigerian National Broadband	11857
 Daily Markets	11857
 Daily Maverick	1695,286,558,896,502,305,708,2146,207,56,1482,1553,1266
@@ -82,7 +85,8 @@ Daily VWAP Daily Volume Weighted VWAP	4896
 Daily Volume Weighted VWAP	4896
 Daily Weekly The Mobile Gender Gap	11964
 Daily and Weekly Data Bundles	11259
-DailyNews	5166,283
+DailyNews	5166,283,7108,58
+DailyNewsbw Business Dikgang Arts	12557
 Dailynews	6123,3467
 Daima Towers	6946
 Daima Towers-Eldoret	6946
@@ -122,6 +126,7 @@ People’s Daily Overseas Edition	8460
 Prices and In-bundle Rates for Standard Daily Data	11259
 Quarterly Daily	11952
 RPS Mandatory Daily	11952
+RSMC Pretoria Daily Guidance and Website	12649
 Russia. Daily Maverick	1695
 Safaricom's Daima	9738
 Space Daily	5252

@@ -20,6 +20,7 @@ ASUNTOS SERVICIOS DE Cuentas CONCEPTO ADMINIS	4209
 AUDIENCIA PROVINCIAL DE BATA Concepto	4209
 Activists Flag Security Concerns By Tetee	6166
 Actual Date Concept Review	11924
+Address Ethical and Privacy Concerns	12675
 Adverse Conclusion	4896
 AfCFTA Secretariat. Under the Concession Agreement	9255
 Affordability Concerns Persist	4182
@@ -89,7 +90,7 @@ CONCESSIONAL FINANCE A European Fund for Sustainable	1818
 CONCLUDING	1938
 CONCLUDING REMARKS	10861
 CONCLUDING REMARKS African	10861
-CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260,368,2,84
+CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260,368,2,84,153,9
 CONCLUSION ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 CONCLUSION Angola	9399
 CONCLUSION Artificial	11156
@@ -143,6 +144,8 @@ Commission de Conciliation	10975
 Commission for Conciliation	7961
 Competition Concentration	961
 Complaint Concerning Violation	5113
+ConCourt	12591,28
+ConCourt Establishing	12591
 Conc2e0pto	4209
 Conce1p0to	4209
 Conce1pto	4209
@@ -181,10 +184,10 @@ Concept Note and Programme	12174
 Concept Note for Zimbabwe's National Research Policy	1554
 Concept Note. Page	10819
 Concept Project Information Document	12253
-Concept Review Decision	12426
-Concept Stage	1193,11233
+Concept Review Decision	12426,243
+Concept Stage	1193,11233,243
 Concept and Role for UHC. Geneva	10829
-Concept and Viability	11134
+Concept and Viability	11134,1472
 Concept of MORHCSA	1778
 Concept of The Team	1988
 Concept-stage PID	1193
@@ -211,10 +214,10 @@ Concepto666314	4209
 Conceptos	4209
 Conceptos LEY MONTO Var	4209
 Conceptos Liquidac. Liquidac. Liquidac. Ley	4209
-Concepts	236,501,524,835,4697,155,1488,692,278,1852,38,855
+Concepts	236,501,524,835,4697,155,1488,692,278,1852,38,855,617
 Concepts Age-specific	12151
 Concepts Ltd	718
-Concepts and Definitions	11258,38,1135
+Concepts and Definitions	11258,38,1135,275
 Concepts and Methods	11258
 Conceptual	396,355,510,1687,1311,173,810,2036,481,31,231,355,226,526,1,108,522,1181,1050
 Conceptual Al-Amin	9129
@@ -312,7 +315,7 @@ Conclue	4549
 Conclui-se	10780
 Concluir	1701,9675
 Concluiu	10777
-Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4,30,6,2,23,8,13,4,28,2
+Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4,30,6,2,23,8,13,4,28,2,120,1,129,11
 Conclusion AI-driven	11140
 Conclusion Acknowledgements References Appendix	7759
 Conclusion Adopting ICT	12327
@@ -352,6 +355,7 @@ Conclusion Mr. President	11356
 Conclusion Multi-stakeholder	12231
 Conclusion Navigating	12170
 Conclusion Nigeria	9739
+Conclusion Overall	12639
 Conclusion Perhaps	9877
 Conclusion Public PHC	771
 Conclusion Qualitative	8376
@@ -385,7 +389,7 @@ Conclusion and Recommendations	236,3155,8760
 Conclusion and Recommendations. The National	12151
 Conclusion. L’interopérabilité	9177
 Conclusion48 Recommendations	12227
-Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230,74
+Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230,74,271,57
 Conclusions PHC	771
 Conclusions and Lessons Learnt	236
 Conclusions and Recommendations	1824,10182
@@ -412,7 +416,7 @@ Concours Huawei ICT	6235
 Concours Médias Droits	8808
 Concours Prix Gallian	10858
 Concretamente	11898
-Concrete	4444,340,334,559,646,158,112,3595,802,139,9,2,53,294,410
+Concrete	4444,340,334,559,646,158,112,3595,802,139,9,2,53,294,410,829
 Concrete GNQ	3963
 Concrete PPP	2702
 Concrete-encased	9123
@@ -426,7 +430,7 @@ Concurrence Se	7655
 Concurrency	7560,1103,3134
 Concurrency and Computation	8605
 Concurrent	1828,4044,3251,3237
-Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370
+Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370,1395
 Concurrently Maintainable Tier III	9123
 Concursal	4557
 Concurso	14,1,11414,50,41
@@ -552,7 +556,9 @@ Director General Concepto	4209
 Director General D.G. DE DIASPORA Concepto	4209
 Disclaimer CONCLUSION Zambia	5247
 Disputed Concession Liberia	8393
+Dukwi Refugee Camp. CONCLUSION	12602
 DÉFINITION DES CONCEPTS CLÉS	10906
+E. Concepts and Definitions F. BOS Data	12768
 ECOWAS COMMISSION AND AFRICAN UNION CONCLUDE	9469
 ELEC.- Concepto	4209
 ELECTRICIDAD Y ENERGÍAS RENOVABLES Cuentas CONCEPTO	4209
@@ -609,6 +615,7 @@ INSTITUTO GEOGRAF. Y CATASTRAL.- Concepto	4209
 INSULAR.- Concepto	4209
 ISDS Concept Stage. Date Prepared	12137
 IV. CONCLUSION	2966
+IX. CONCLUSION	12598
 Ijara. Concernant	10965
 Implementation Roadmap. Conclusions	6832
 India-Africa Defence Minister's Conclave	11579
@@ -784,6 +791,7 @@ SOLARHYDROW Concession Attente Nombre	10975
 SUMMARY AND CONCLUSION	10,11209
 Sectoral Concertation Committee	11916
 Senate Concurrence Clears Path for Cybercrime Act	4651
+Simplify Concepts	12675
 Situation Difficultés Observations Concession	10975
 Smart Africa Concept Note	10819
 Smart Africa’s Concept Note	10819
@@ -826,6 +834,7 @@ Um Relatório de Conclusão	11898
 United Nations Sustainable Development Goals. Concurrently	4126
 Unpacking the Concept of Digital Public Infrastructure	10775
 Update of Concepts	10768
+V. CONCLUSION	12580
 V. Conclusion Ghana's ICUMS	11036
 VICE- DELEGACIÓN PRESIDENCIAL BIBLIOTECA Cuentas CONCEPTO	4209
 VII. Conclusion	6735,200

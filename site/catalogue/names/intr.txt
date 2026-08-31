@@ -2,21 +2,25 @@ A. INTRODUCTION	3862,1251
 A. Introduction	1828,9028
 A. Introduction The African Union Agenda	10856
 A. Introduction and Policy Context	10997
+ACRONYMS AND ABBREVIATIONS EXECUTIVE SUMMARY Introduction	12701
 ADDITIONAL FINANCING A. Introduction	11965
 Abstract Introduction	10940
 Abstract Introduction Literature	8021,1,108
 Abstract Introduction Research	7759
 Afrobarometer Working Papers Introduction Institutional	7886
+Aide Memoire I. INTRODUCTION	12595
 Aide Memoire I. Introduction	2989
 Asia. Intra-African	10718
 Audio By Carbonatix I. Introduction	11036
 Authors. Introduction Licensee	9237
-B. Introduction and Context	761,11651,14
+B. Introduction and Context	761,11651,14,243
 B. Introduction and Context Country Context	1704,587,1165,7507
 B. Introduction and Context Mozambique	12137
 BACKGROUND AND INTRODUCTION Persistence	11193
 Bank Introduction	1988
 Blog Introducing the Changemaker Fellowship	11006,1
+Body A. INTRODUCTION	12597
+Botswana Speaks IntroductionBotswana	12641
 Burkina Faso Introduces Digital System	5517
 Business Registries KAUTRA Introduces Smarter Onboard	3907
 CASE STUDIES GUIDANCE Introduction REUTERS	5618
@@ -58,6 +62,7 @@ Ethiopia I. INTRODUCTION	12500
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 Executive Summary I. Introduction	10841
 FINANCING A. Introduction	1284
+FSDS II and NFIS II. INTRODUCTION	12701
 Figure O.3 Africa’s Extra- and Intraregional Exports	11149
 Firewall and Intrusion Detection	12253
 Founder and CEO of Intron. At Branch International	11497
@@ -78,7 +83,7 @@ HUMAN RESOURCE MANAGEMENT Introduction	11198
 High Intrinsic Risk	11156
 Host Intrusion Detection Systems	1000
 I. INTRODUCCIÓN	1701
-I. INTRODUCTION	10765,1430
+I. INTRODUCTION	10765,1430,385,8,10
 I. INTRODUÇÃO Desde	4146
 I. Introduction	235,6597
 I. Introduction South Africa	6832
@@ -96,7 +101,7 @@ INTRADAY LIQUIDITY FACILITIES OVERVIEW SECTION	12484
 INTRODUCCIÓN	1701
 INTRODUCCIÓN Fue	1701
 INTRODUCCIÓN I. INTRODUCCIÓN	1701
-INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9
+INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8,38,5,15,149,55,8,4,15,5,2,6,4,8,12,14,23,4,9,559,3,92,91,47,150,13,80,27,43,41,9,89,59,1,10,9,54,26,58
 INTRODUCTION AND BACKGROUND	34,12294
 INTRODUCTION AND LEGAL FRAMEWORK	9855
 INTRODUCTION AND MISSION	10819
@@ -106,17 +111,21 @@ INTRODUCTION AND SUMMARY OF ENFORCEMENT INTERVENTIONS	8354
 INTRODUCTION ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 INTRODUCTION Africa	5247
 INTRODUCTION Artificial	11156
+INTRODUCTION Artificial Intelligence	12675
 INTRODUCTION Au Burkina Faso	10875
 INTRODUCTION Aux	10821
 INTRODUCTION Avec	6146
 INTRODUCTION Background	12508
 INTRODUCTION Being	1000
+INTRODUCTION Broadband	12536
 INTRODUCTION CAPITAL EMPLOYED	4896
 INTRODUCTION CHAPTER	11156
 INTRODUCTION Data	961
 INTRODUCTION European Union	11156
+INTRODUCTION LCA	12681
 INTRODUCTION Lacking	10714
 INTRODUCTION Le Gouvernement	12043
+INTRODUCTION Lesotho	12659
 INTRODUCTION L’insertion	10712
 INTRODUCTION Non-compliance	4896
 INTRODUCTION Organisations	1940
@@ -131,6 +140,7 @@ INTRODUCTION T	11271
 INTRODUCTION The African Trade Policy Centre	11550
 INTRODUCTION The Electoral Act	12054
 INTRODUCTION The European Union	12201
+INTRODUCTION The Lesotho Communications Authority	12763
 INTRODUCTION The Medium-Term System Adequacy Outlook	11228
 INTRODUCTION The National Addressing Policy	11129
 INTRODUCTION The National Identity Management Commission	9670
@@ -198,8 +208,9 @@ Intro Technology	10380
 IntroModule	10848
 Introducao	2228
 Introducción	1701
-Introduce	396,604,257,571,160,1653,485,1407,903,396,104,559,1105,2165,10,185,47,149,120,664,37,9,12,216,27,115
+Introduce	396,604,257,571,160,1653,485,1407,903,396,104,559,1105,2165,10,185,47,149,120,664,37,9,12,216,27,115,319
 Introduce Broadband State Ranking Report	11857
+Introduce Competitions and Challenges	12675
 Introduce GenderResponsive Public Procurement	12389
 Introduce ICT	12453
 Introduce Proportional Local Talent Regulation	12444
@@ -211,7 +222,7 @@ Introduces	2656,2575,3374
 Introduces Digital Code	3153
 Introduces Mastercard	12270
 Introduces VISA	12270
-Introducing	34,1209,5,306,1335,893,1066,397,305,812,1010,1231,3138,6,499
+Introducing	34,1209,5,306,1335,893,1066,397,305,812,1010,1231,3138,6,499,417
 Introducing Equiano	2677,1105
 Introducing Kau Criar	11546
 Introducing Multimodal Llama	10133
@@ -220,7 +231,7 @@ Introducing the Children's Climate Risk Index	3583
 Introducing the Fairwork Foundation	226
 Introducing the Reformed Hardship Support Scheme	12175
 Introducir	1701
-Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67
+Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,20,22,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19,19,4,6,19,3,10,11,22,83,1,2,20,36,3,2,39,1,13,2,6,1,6,4,2,15,10,14,90,1,68,76,5,2,11,18,69,230,1,24,11,11,17,8,3,1,2,6,22,8,1,11,19,18,5,40,2,8,40,13,24,7,9,2,3,14,17,6,7,15,47,25,6,23,2,9,9,7,12,16,2,6,26,67,21,1,3,1,2,18,21,21,57,2,4,11,1,84
 Introduction A. Contexte	1218
 Introduction AI	7451
 Introduction Accurate	10919
@@ -296,6 +307,7 @@ Introduction Small	7759
 Introduction Smart	958
 Introduction Society	5246,454
 Introduction Submarine	3782
+Introduction Table	12534
 Introduction The Asbestos Management Plan	1988
 Introduction The Census	12383
 Introduction The Central Bank of Nigeria	11861
@@ -308,9 +320,11 @@ Introduction The ES	10976,1370
 Introduction The Electoral Commission	7266
 Introduction The Government	11941
 Introduction The Government of Eswatini	418
+Introduction The Government of Lesotho	12674
 Introduction The Government of Rwanda	9124,3235
 Introduction The Government of Zambia	12431
 Introduction The ICT Sector Market	1944
+Introduction The Independent Electoral Commission	12652
 Introduction The Joint Nigerian Communications Commission	6748
 Introduction The Mobile Gender Gap Report	11004
 Introduction The National Department of Health	11252
@@ -326,19 +340,23 @@ Introduction The XMUVI	11258
 Introduction These Guidelines	8590
 Introduction This Annex	7548
 Introduction This Partnership Compact	12175
+Introduction Tuberculosis	12678
 Introduction Undersea	2677
 Introduction WHEREAS the Republic of Mozambique	3861
 Introduction and Background	11265,1063
 Introduction and Context	1257,557,477,3385,2994
 Introduction and Context VAT	8670
 Introduction and MTN's First Standalone Stand	5752
+Introduction and Methodology	12672
 Introduction and Migration	5675
 Introduction and Supply-Side Analysis	11195
 Introduction of Autofill	12041
 Introduction of Market Structure Requirements	6935,2815
+Introduction of Mixed Member Proportion	12652
 Introduction of VAT	12233
 Introduction5	582
 Introduction8	12227
+Introductory	12523
 Introductory AI	12241
 Introductory Comments	7869
 Introductory PART	3714
@@ -430,6 +448,7 @@ TABLE OF CONTENTS INTRODUCTION	3161,7799
 TABLE OF CONTENTS INTRODUCTION This Amendment	7198
 TABLE OF CONTENTS Introduction	10714
 TRUST FRAMEWORK Introduction The Trust	10819
+Teamwork. Accountability INTRODUCTION	12606
 Trade Finance Supply for Intra-African Trade	10718
 Trade Finance Supply for Intra-African Trade Intra-African	10718
 UNECA INTRODUCTION	12338

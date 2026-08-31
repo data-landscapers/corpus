@@ -3,7 +3,9 @@ ADMINISTRATIVE PENALTIES	8354
 AIC KIJABE HOSPITAL STAFF PENSION SCHEME	7167
 ASHANTI PENSION INSURANCE AGENCY LIMITED Data	7167
 Absa Pension Services Limited Data Controller	7167
-Administrative Penalties	12447,12
+Administrative Fines and Penalties	12549
+Administrative Penalties	12447,12,170,108
+Administrative Penalties and Tax Offences Division	12629
 Africa. Pension	8837
 Afrique. Pendant	2842,7800
 All of Penda Health	11578
@@ -25,6 +27,7 @@ Bank Fund Vacant Group Pension Fund	4896
 Basic Retirement Pension	6458
 Bidang Pendidikan	2093
 Blu Penguin	3304
+Botswana Public Officers Pension Fund CEDA	12540
 Broadband Penetration	3862
 Broadband Penetration Rate	3862
 Broadcasting Licensees Mobile Money Penetration	6946
@@ -161,6 +164,7 @@ Mobile Data Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate	2776
 Mobile Data Subscriptions and Penetration Rate Subscription	2776
 Mobile Money Penetration	940
+Mobile Network Operators Fintech Companies Pension	12701
 Mobile Penetration	2776,4170,5299
 Mobile Penetration Mobile	6946
 Mobile Smartphone Penetration	12395
@@ -199,12 +203,15 @@ OS Pensé	12128
 OUHAM PENDE BOZOUM- BOSSEMPTELE	10829
 OUHAM PENDE PAOUA	10829
 Offences and Penalties	512,4098
+Old Age Pension Program	12663
+Old Age Pensions	12663,6
 Only the Social Pensions	11855
 Ontario Power Generation Pension Plan	9098,46
 Ouham Pende	2366
 PAL Pensions	7496
 PEN-DTN	10780
 PEN-DTNs	10780
+PEN-Plus	12729
 PENALTIES	1807
 PENALTIES AND GENERAL	3714
 PENDING	12364
@@ -226,7 +233,7 @@ Penalidades	11383,60,13
 Penalizar	1701
 Penalizações	4274
 Penalizing	6362
-Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25
+Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25,134,8,98
 Penalties Apply	12454
 Penalties CHAPTER	11190
 Penalties Ibrahim	9522
@@ -237,7 +244,7 @@ Penalties for Non-Compliance	12389
 Penalties for Non-Performance	11995
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
-Penalty	10814,367,795
+Penalty	10814,367,795,555,98
 Penalty Notice	7845
 Penalty Payments	12333
 Penalty Regimes	3861
@@ -290,9 +297,10 @@ Pensamos	3692,3423
 Pensar	1701
 Pensez	747
 Pensioen Fondse	11255
-Pension	418,3469,2451,600,1043,1621,1183,27,319,845,278,129,14,12
+Pension	418,3469,2451,600,1043,1621,1183,27,319,845,278,129,14,12,126,62
 Pension Fund Depreciation	4896
 Pension Fund Regulatory and Development Authority	7981
+Pension Funding	12551
 Pension Funds	2775,2197,6283
 Pension Funds Act	3714,7541
 Pension Online Services I-24 Job Portal	10785
@@ -315,6 +323,7 @@ Pensionistas	2816
 Pensionistas Formula A.3 Trabalhador Isento	12018
 Pensionistas IRPS Fórmula de Retenção	12018
 Pensions	10544,167,423,1203,72
+Pensions Department	12663
 Pensions Financial	6938
 Pensions Reform Act	11851
 Pensions and Insurance	12409
@@ -336,6 +345,7 @@ Pentecost University	9007
 Pentecostal Brethren Church	3046
 Penyi-Aflao	7695
 Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Plan OAP Old Age Pensions OTP	12663
 Politics. Penguin Random House	12227
 Population Penetration Rate	2776
 Private Pension Schemes Act	7845
@@ -345,6 +355,7 @@ Processo Penal. Lei	539
 Processual Penal	10747
 Projection of Broadband Penetration Year	3862
 Prospect Pension Owned Vacant Residential	4896
+Public Officers’ Defined Contribution Pension Fund	12701
 Public Service Pension Fund	4896
 RAPDP. Pendant	10821
 RESULTAM EM PENALIZAÇÕES O Gabinete de Inspecção	10751
@@ -356,6 +367,7 @@ Responsabilidade Penal	11436
 Retirement Pension	12389
 Retraités Pensions	10711
 Rita Penedo	11566
+Rollout of PEN-Plus for NCD	12729
 Ruwa Econet Zimbabwe Group Pen- Building	4896
 Ruwa Stands Pension Owned Vacant Residential	4896
 S1Q02 Pensez	6959

@@ -40,7 +40,7 @@ Expert Task Team	5246
 FATF Financial Action Taskforce GNU Government	11250
 Facilitation and Digital Services Task Order USAID	405
 Federal Democratic Republic of Ethiopia. Task Team	10832
-Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532,583
+Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532,583,133,60,1
 Financial Action Task Force Grey List	12308
 Food Security Task Forces	12158
 Friday. The Task Force	7447
@@ -58,7 +58,9 @@ Human Task Document Workflow	1009
 IA. Boukary BONKOUNGOU Bark-Wendé Sandrine TASSEMBEDO	7306
 ICCA-IBA Task Force Report	2806
 ICT Authority Chairperson Tassarajen Pillay Chedumbrum	9949
+ICT Legal Reform Taskforce	12529
 ICT Task Force	1257
+ICT Taskforces	12529
 IDAS. The Task Force	10819
 IWG. Tasks	2112
 Incident Response Task Force	1777
@@ -107,7 +109,7 @@ Pan-African Task Force	1243
 Paul Viet-Minh Nguyen Task Team Leaders	3604
 Pilot TASAF	11133
 Presidential Task DCDT	6832
-Presidential Task Force	6832,620
+Presidential Task Force	6832,620,5154
 Presidential Task Team	6832
 Profile of Taslim Okunola	5570
 Project Progress Task	11134
@@ -142,6 +144,7 @@ TASAF	11133,9
 TASAS Y DCHOS. ADMINISTRATIVOS	4209
 TASAS Y DERECHOS ADMINISTRATIVOS Artículo	4209
 TASDJIL	9448
+TASKS	12675
 Tasa Selectiva	4209
 Tasa de Comercio	4209
 Tasa de Registro	4209
@@ -163,7 +166,7 @@ Task Manager Yusuf Bob Foday	4840
 Task Order	95
 Task Order USAID	534
 Task Team	6539,4649,89,898
-Task Team Leader	1228,673,1088,1664,6815,387,8,4,270,44
+Task Team Leader	1228,673,1088,1664,6815,387,8,4,270,44,359,1,122
 Task Team Leader Alia Hamid Hassan	12195
 Task Team Leader Tounwendé Alain Sawadogo	1641
 Task Team Leader for Social Protection	11855
@@ -175,11 +178,13 @@ Task-force	9190
 Task-force. Il	9190
 Task-force. Section	9190
 Tasked	5147
-Taskforce	961,7089,2902,1258,31,80
+Taskforce	961,7089,2902,1258,31,80,277
+Taskforce Committees	12529
 Taskforce Coordinator	1243
 Taskforce Members	1243
 Taskforce Secretariat	12321
-Tasks	1333,3195,1000,5606,181,554,643
+Taskforces	12529
+Tasks	1333,3195,1000,5606,181,554,643,163
 Tasks and Deliverables	11941
 Tasks and Position of Data Protection Officers	6608,4976
 Tasneem Ahmed	10246

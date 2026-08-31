@@ -4,8 +4,10 @@ Abuso Sexual EAS	11413
 Actividade Sexual Recente	10777
 Adolescent and Youth Sexual	10865
 Age Female Male Sex Ratio	12151
+Age Group and Sex	12655
 Age and Sex	2775,9376
 Age and Sex Figure	12367
+Age and Sex of Decedent	12672
 Alteration of Sex Description and Sex Status Act	5533,6453
 Analysis and Publication of Sex-Disaggregated Data	12389
 Arch Sex Behav	1219
@@ -63,10 +65,12 @@ Industry and Sex	2775
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
 Infecções Transmissíveis Sexualmente	10777
+Interpol International Child Sexual Exploitation Database	12628
 Interpretação Sexo	11421
 La Sextorsion	9133
 Lagos State Domestic and Sexual Violence	2445
 Lilongwe Official Use Only Sexual	12253
+Live Births and Sex	12672
 M Member Sex	582
 Male Female Both Sexes Rank Cause	12151
 Marital Status and Sex	12151
@@ -95,11 +99,13 @@ Online Sexual Offences	587
 Online Sexual Offences Non-consensual	587
 Perpetradores de Violência Sexual	10777
 Phases Multiples MST Maladie Sexuellement Transmissible	10876
+Place of Occurrence and Sex of Decedent	12672
 Policy Framework SEA Sexual Exploitation and Abuse	1988
 Politics Spice Special Features Education Sex	9669,84
 Política Sexta	11479
 Portal de Denúncias de Imagens de Abuso Sexual	10750
 Prevalência da Violência Sexual	10777
+Prevention of Sexual Exploitation	12729
 Primeira Experiência de Violência Sexual	10777
 Primeira Relação Sexual	10777
 Privé Sexe I.P. Total Travaillant	10847
@@ -158,7 +164,7 @@ Sexe Nombre	10847
 Sexe du CM	737
 Sexe du CM Homme	737
 Sexe du CM Masculin	737
-Sexes	12413
+Sexes	12413,242
 Sexes Country Of Birth N	12151
 Sexes N	12151
 Sexo Fonte	11387
@@ -192,7 +198,7 @@ Sexual Reproductive Health and Rights	8604
 Sexual and Gender-Based Violence	5244
 Sexual and Reproductive Health	9766,1010
 Sexual and Reproductive Health Rights	11791
-Sexual and Reproductive Health and Rights	970
+Sexual and Reproductive Health and Rights	970,11636
 Sexually Transmitted Infections	1988,10265
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776

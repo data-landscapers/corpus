@@ -5,8 +5,10 @@ CA Autoridade Certificadora CFE Centro	11555
 CBDC CCBG CFT CMA CPI CSI	11131
 CBE CFT CMA DLT EBA ECH	11130
 CCBG CFT CMA COE CPI CPS	11134
+CDD Customer Due Diligence CFT Combating	12663
 CEC CEC CFL CNEPT DME DNASE	10766
 CF Mounana	10036
+CF T CCI	12701
 CF and OR for Mozambique	771
 CF&start	4127
 CFA Franc	10841,1064
@@ -169,15 +171,22 @@ CFR Certificat Foncier	10876
 CFR InfoGuide	12227
 CFRSP	11599
 CFT AML	11861
+CFT ATM BSA CBL CIS CMA	12701
 CFT Anti-Money NFIS National Financial Laundering	12297
+CFT Arrangements	12542
 CFT BCM BIS CAR CBE CBDC	11134
 CFT Bill	2193
 CFT CBS CIF EA EAC EMDEs	11136
 CFT Compliance Financial Institutions	11861
+CFT Compliance Officer	12542
 CFT Financing of Terrorism ICT Information and Communication	12444
 CFT Laws Frameworks	12444
 CFT Onsite Inspections. Enhanced AML	11134
+CFT Policy	12542
+CFT Regime	12701
 CFT Regulations	4848
+CFT Supervision	12542
+CFT&P	12598
 CFTC Chief Executive Officer	3288
 CFTC持仓	10369
 Cameroon Cocoa Farmgate Prices Rise CFA250	965,3924,206

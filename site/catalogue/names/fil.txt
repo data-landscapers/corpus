@@ -7,6 +7,7 @@ Advisor Filing	7343
 Africa Film Drama Arts	10481
 Airtel Africa Filings	8727
 Allocution du Chef de File des PTF	2966
+Amend the Filed CIT	12676
 Annual Return Gross Filing	11250
 Annual Returns Filings	11250
 António Filipe Dias da Fonseca Brás Partner	11955
@@ -82,6 +83,7 @@ Date Signature of Offender TO BE FILLED	7845
 Deon Filmer	10977
 Directorate of File Automation	4967,30,333
 Document Non-patient File Non-patient File Sharing	1009
+Due Dates for Filing and Payment of Tax	12676
 ENVIRONMENTAL AND SOCIAL SCREENING FORM Filled	1988
 EST Filles	10847
 EST GNAGNA Filles	10847
@@ -114,7 +116,8 @@ Filani Funso	10571
 Filas	1701
 File Annual Returns	12389
 File Bank of Tanzania	2857
-File Count	11268
+File CIT	12676
+File Count	11268,1405
 File Dispute Online	12389
 File Format	3972
 File My Return	12454
@@ -123,7 +126,7 @@ File Photo Purchase Licensing Rights	4057,2874
 File Photo The U.S	10068
 File President Dr Samia Suluhu Hassan	5883
 File Returns	573,2588
-File Size	9854,1414
+File Size	9854,1414,1405
 File Tanzania	8135
 File Transfer	12395
 File Transfer Protocol GB Gigabyte GHz	34
@@ -197,8 +200,9 @@ Filles BOUCLE DU MOUHOUN	10847
 Filles Ensemble Garçons Filles Ensemble Banwa	10847
 Filles Ensemble Garçons Filles Ensemble Houet	10847
 Filles Total Filles	10847
-Filling	972,2915,5430,1625
+Filling	972,2915,5430,1625,1588,5,11,3
 Filling Annual	12483
+Filling of Council	12531
 Filling of Funded Vacant SMS	11218
 Filling of LPG	12256
 Filling the Agriculture Data Gap	7596

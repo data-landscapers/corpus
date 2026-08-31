@@ -159,8 +159,8 @@ BoZ.zm Zambia Tel	12364
 Bosnia and Herzegovina Yes The Telecommunication	11529
 Botswana Telecommuni	12325
 Botswana Telecommunications	6834
-Botswana Telecommunications Corporation	2999,1269
-Botswana Telecommunications Corporation Limited	3174
+Botswana Telecommunications Corporation	2999,1269,8284,73
+Botswana Telecommunications Corporation Limited	3174,9427
 Botswana Telecommunications Corporations Limited	2576
 Botswana Telecoms Corporation	4106
 Bouygues Telecom and Free	8125
@@ -265,6 +265,7 @@ Chinese SOEs China Mobile and China Telecom	4676
 Chronicle of Telecom Operators' Efforts	8288
 Chunghwa Telecom	4676
 Circuit Television	11285
+Civil and Vital Statistics Unit Tel	12639
 Class C0 and C1 Telecommunications Infrastructure	9123
 Class C2 Telecommunications Infrastructure A Class	9123
 Class C3 Telecommunications Infrastructure A Class	9123
@@ -280,7 +281,7 @@ Comba Telecom and Sicotel Communications	5772
 Combustible Teléfono Prima de Prima de Prima de Prima	4209
 Comissão Inter-americana de Telecomunicações	2816
 Commercial Television	12395
-Commonwealth Telecommunications Organisation	7719
+Commonwealth Telecommunications Organisation	7719,5011
 Communication and Telecommunications	11517
 Communications Tel	10723
 Community Not Telecommunication Network	3386
@@ -317,6 +318,7 @@ Contact Telephone Number	11250
 Corporate Communications and Public Affairs Department Tel	11807
 Corporate Services Tel	11224
 Correios Tel	11515
+Counter Financing of Terrorism Automatic Teller Machine	12701
 Cumulative Number of Telecommunications Licensees	6946
 Current Telecommunications Taxation Policy	6789
 Cut Telecom Costs	2362
@@ -417,7 +419,7 @@ Ecofin Agency Tanzania’s State Telecom Targets	6083
 Ecofin Telecom	3450
 Econet InfraCo Expands AI Across Telecom	7534
 Econet Netone Telecel Male	6000
-Econet Telecom Lesotho	2547,220,117,176,198,4842,431
+Econet Telecom Lesotho	2547,220,117,176,198,4842,431,4126,74,1,11
 Econet Telecom Lesotho and Vodacom Lesotho	5744
 Econet and Telecel	6000
 Economic Telecommunications Cluster	5087
@@ -555,6 +557,7 @@ GT-161-2118 Tel	3386
 GZ-147-3531 Tel	3386
 Gabon Telecom	6157
 Gabon and Zimbabwe. ITU Telecommunication Development Bureau	2464
+Gaborone Tel	12600
 Gambia Telecommunications Company	238
 Gambia Telecommunications Company Limited	7195
 Gambia Telecommunications Company Ltd	4519,24
@@ -587,6 +590,7 @@ Gregoire Owona. Ethio Telecom	4192
 Group CEO of Telecel Group	7158
 Guinea Telecom	11550
 Guinea Telecoms	4116
+Gujarati Samaj and Telugu Association of Botswana	12617
 Gukwirakwiza Telefoni	1214
 Gweru. Tel	12515
 HAS Telecommunications B Job C State	5679
@@ -651,6 +655,7 @@ Indicative Teledensity Scenario Optimistic	5245
 Indonesia India International Telecommunication Union	10764
 Indonesia International Telecommunication Union	10844
 Indústria de Telecomunicações	2816
+Information Technology ITU International Telecommunication	12663
 Infraestrutura de Telecomunicações	11518,51
 Infrastructure PDQ International Telecommunication Union PHC	1009
 Instagram and Telegram	9616
@@ -670,11 +675,12 @@ International Telecommunica- Alignment	961
 International Telecommunication	736,10480
 International Telecommunication Ethiopia	11563
 International Telecommunication In Kenya	6593
-International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178
+International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178,137,79,6,11,21
 International Telecommunication Union Council	6007
 International Telecommunication Union ICT Development Index	11935
 International Telecommunication Union ITI Internet User	1009
 International Telecommunication Union JIPSA	6832
+International Telecommunication Union KPA	12759
 International Telecommunication Union KPIs Key Performance	12240
 International Telecommunication Union LAN Local Area	6539
 International Telecommunication Union Treaties	11
@@ -737,6 +743,11 @@ Le Chief Executive Officer de Mauritius Telecom	9948
 Legon Accra Tel	3386
 Lei de Telecomunicações	795,3479
 Leo and Telecom Namibia Limited	1847
+Lesotho Tel	12652
+Lesotho Telecommunications Authority	12759
+Lesotho Telecommunications Authority MOU	12759
+Lesotho Telecommunications Policy	12646
+Lesotho. Tel	12646
 Liberia Telecommunication Authority	2362,2455
 Liberia Telecommunications Act	5244
 Liberia Telecommunications Authority	1777,133,860,467,2,1371,268,366,1724,262,180,205,1,1,103,1,672,410,32,120,132,1,654,117,1,267,279,1
@@ -762,7 +773,7 @@ LinkedIn WhatsApp Telegram Email Copy Link	6286
 Linkedin Print Telegram Brandon Wanguep	10983
 Linkedin Telegram X TRENDSNAFRICAAFRICAN NEWS PORTAL	3768
 Liquid Intelligent Technologies. Liquid and TelOne	6244
-Liquid Telecom	415,180,26,62,3,28,1513,958,2615,3263,2943
+Liquid Telecom	415,180,26,62,3,28,1513,958,2615,3263,2943,651
 Liquid Telecom Bond	683,31
 Liquid Telecom Equity Investment	684
 Liquid Telecom H L Involved	12210
@@ -914,7 +925,7 @@ Mobile Cellular Telephone Network	12395
 Mobile Cellular Telephone Subscriptions	12395
 Mobile Telecommunications Company	2340,248,9890
 Mobile Telecommunications IOC Intelligent Operations Centre	2775
-Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296,2544
+Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296,2544,490
 Mobile Telecommunications Network	12333
 Mobile Telecommunications Service Tariffs	2776
 Mobile Telecommunications Service Tariffs Quarter-on-Quarter	2776
@@ -925,10 +936,11 @@ Mobile Telephone Networks	7198,1741
 Mobile Telephone Networks Holdings Limited Loan	10793
 Mobile Telephone Traffic	6000
 Mobile Telephone Traffic Change Traffic Category	6000
-Mobile Telephony	12395
+Mobile Telephony	12395,206
 Mobile Telephony Network	6946
 Mobile Telephony Services	6946
 Mobile Telephony Services Operator	6946
+Mobile Telephony Subscriptions Mobile Telephony	12601
 Mobile and Fixed Telephone Services Mobile	718
 Mocambique Telecom SA	482
 Model LLM Exchange for Telcos Public	5226
@@ -951,6 +963,7 @@ Mozambique Telecom SA	859,1302
 Mozambique's Telecommunications Law	3489
 Mozambique. International Telecommunication Union	1248
 Moçambique Telecom	10959,763
+Mr. Alessandro Telo	12658
 Mr. Purpose Chifani Telephone	962
 Ms Khabo Skosana Telephone	11180
 Musikavanhu's Telemedicine Story By Regina Pasipanodya	11656
@@ -1087,6 +1100,7 @@ PS-8 Deployment of Television White Space	11857
 Pakistan Telecommunication Authority	11964
 Pan-African Film and Television Festival of Ouagadougou	10864
 Paraguay Yes Plan Nacional de Telcomunicaciones	11529
+Parameters for Mobile Telephone Services Article	12616
 Paratus Group and Kampala-based ISP Roke Telkom	11320
 Paratus Group and Kampala-based Roke Telkom	10697
 Paratus Telecom	1944
@@ -1328,7 +1342,7 @@ SudaChad Telecom	5033
 Sudatel Telecom Group	4919
 Sue Telcos	9117
 Support Resilience of Submarine Telecom Cables	2677
-Swedish Post and Telecom Authority	215
+Swedish Post and Telecom Authority	215,12410
 Swift Telephone	3862
 Swift Telephone Network	3862
 Swift Telephone Network and Big Picture	3862
@@ -1366,7 +1380,7 @@ TELECOMMUNICATIONS LICENSING DIRECTIVE NO	762
 TELECOMMUNICATIONS MARKET PERFORMANCE	12395
 TELECOMMUNICATIONS PROCUREMENT SPEND TO ALL SUPPLIERS	11211,51
 TELECOMMUNICATIONS ROADMAP	7828
-TELECOMMUNICATIONS SECTOR	11211,51
+TELECOMMUNICATIONS SECTOR	11211,51,1339
 TELECOMMUNICATIONS SECTOR REVENUES	11211,51
 TELECOMMUNICATIONS SECTOR TO GROSS DOMESTIC PRODUCT	236
 TELECOMMUNICATIONS SUBSCRIPTIONS	11211,51
@@ -1428,7 +1442,7 @@ TelOne and Telecontract	6000
 TelOne's Omni Centre	9397
 TelOne’s ADSL2	6244
 TelQuel Dans	11835
-Telangana	9025,533,1598
+Telangana	9025,533,1598,1461
 Telangana’s Integrated Platform	11156
 Telas	2816
 Telcables South Africa Conclusion	4993
@@ -1630,7 +1644,7 @@ Telecommunication Union Newsletter	9109
 Telecommunication X X	236
 Telecommunication and Information Policy	4896
 Telecommunication and Postal Regulation Authority	1851
-Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212,77,230,182,48,43,51,50,67
+Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212,77,230,182,48,43,51,50,67,26,20,74,61,30
 Telecommunications ACT	4610
 Telecommunications Act	3760,850,634,2166,206,1126,93,921,650,1,1450,396
 Telecommunications Authority	3464
@@ -1849,6 +1863,7 @@ Telemedicine	21,1240,1448,676,1860,133,1027,3783,114,236,1118,846
 Telemedicine Applications National Action Plan	21
 Telemedicine Essential	11939
 Telemedicine Hub	6378,18,9
+Telemedicine and Telehealth Implementation	12581
 Telemedicine. Telemedicine	21
 Telemetry	10721
 Telemetry Security	10721
@@ -1860,7 +1875,7 @@ Telenor	11964
 Teleperformance	11162
 Teleperformance Talent and AI Drive Next Phase	11162
 Telepharmacy	9855
-Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1
+Telephone	36,682,18,418,69,331,274,49,1579,758,485,979,1,753,607,2697,978,51,10,10,8,19,29,122,13,1,8,164,31,17,64,10,15,259,27,295,7,5,2,24,347,4,72,18,18,19,17,13,86,1,34,125
 Telephone Bearer Microwave Link TV Bearer	736
 Telephone Call Traffic	2775
 Telephone Enquiry Call Waiting Time for Financial	12500
@@ -1889,7 +1904,7 @@ Televis	12201
 Televisa	7381
 Televisao Digital	1526
 Televisheni	6019
-Television	236,346,2194,2348,91,3165,1299,102,212,2182,208,12
+Television	236,346,2194,2348,91,3165,1299,102,212,2182,208,12,230
 Television Authority National Assembly Senator National	11129
 Television Broadcasters	958
 Television Broadcasting KINGDOM OF ESWATINI	12395
@@ -2100,7 +2115,7 @@ World Bank and International Telecommunication Union	961
 World Bank. Telemedan	2380
 World Telecommunication	1248,5698,2813,1770,815
 World Telecommunication Day and International Girls	6333
-World Telecommunication Development Conference	4132,4813
+World Telecommunication Development Conference	4132,4813,3759
 World Telecommunication and Information Society Day	6168,151
 World Telecommunications Day	1215
 World Telecommunications and Information Society Day	6152,168,5647

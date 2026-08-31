@@ -5,7 +5,9 @@ BWALYA JOSHUA MWAMULIMA PRECIOUS MWANSA-CHISHA CHILUFYA-	12232
 CONDITIONS PRECEDENT	4896
 Case Studies and Precedents	3861
 Class Precision Recall F1-Score Support	8606
+Climate Hazards Center Infrared Precipitation	12614
 Climate Hazards Group InfraRed Precipitation	10763
+Climate Hazards Group Infrared Precipitation	12611
 Component Climate Hazards Group InfraRed Precipitation	10763
 Conditions Precedent Harare	4896
 D.G. CONTROL DE PRECIOS Y PROTEC	4209
@@ -49,7 +51,7 @@ Precious Adigwe	12308
 Precious Kemilembe	6019
 Precious Lunga	562
 Precious Ugwuzor	11041
-Precipitation	9123,1640
+Precipitation	9123,1640,1851
 Precipitation Anomaly	11762
 Precipitation Indicators	11762
 Precisam	10752
@@ -75,6 +77,8 @@ Resultados Precisam De Ser Acompanhados	8827
 SNNP. Precisely	111
 Salvokop Precinct PPP Project Various	11248
 Scale Precision Agriculture AI Tunisian	9385
+Standardized Precipitation Evapotranspiration Index	12611,3
+Standardized Precipitation Index	12611,3
 Transf. Comité Nac. de Control de Precios Combustibles	4209
 Transf. Comité Nacional de Control de Precios Combustibles	4209
 Treasury Precision	9752

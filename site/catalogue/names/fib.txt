@@ -8,7 +8,7 @@ Axian Telecom Fibre Ltd	3886
 Backbone Fibre Project	127
 Backbone Nacional de Fibra	1215
 Botswana Fibre Network	4094
-Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101
+Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3
 Bridge Fiber Solution	3396
 Bridge Fiber Solutions	10259
 Buffalo City Optic Fibre	6832
@@ -57,7 +57,7 @@ Ethernet and Fibre Channel	11209
 Expand Fibre Network	4069
 FIBANE	10965
 FIBANE RNSM CREMF	10965
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
 Fiber Channel	11209
@@ -104,7 +104,7 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6
 Fibre Broadband	5112
 Fibre Builds	11857
 Fibre Channel	11209
@@ -120,6 +120,7 @@ Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
 Fibre Optique	3469,498,22,3631
+Fibre Patch Panel	12681
 Fibre Plans	11259
 Fibre Reach	11857
 Fibre Reach Infrastructure IN4	11857

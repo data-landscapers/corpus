@@ -5,12 +5,12 @@ ACTION POINTS FOR POLICY IMPLEMENTATION Policy	4848
 ADDRESS POINT LIMITED Data Controller INST-952593C30A0	7167
 AI Focal Points	7548
 ARPCE Pointe-Noire	6455
-Access Point	8670
+Access Point	8670,4093
 Access Point Name	12241
 Access Point Providers	7746
 Access Point Providers and System Integrators	7746
 Access Point Providers and System Integrators. Every	7746
-Access Points	6946
+Access Points	6946,5817
 Action Points for Policy Implementation References	4848
 Actualités Services Point Santé	8755
 Agencies County Focal Civil Society Points	7548
@@ -24,8 +24,10 @@ Associação Cabo Verde Internet Exchange Point	11878
 Aster Point Hospital Data Controller INST-266477267AE	7167
 BENRECCA POINT LIMITED Data Processor INST-5077415CFED	7167
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
+Body Lesotho Internet Exchange Point Peers	12743
 Bonga Points	7710
 Border Points	2775
+Botswana Internet Exchange Point	12625
 Brazil's Internet Exchange Point	3840
 Brazzaville and Pointe Noire	11907,17
 Brazzaville and Pointe Noire. AF2	11924
@@ -58,6 +60,7 @@ Chief Executive Officer Pharmacy and Poisons	9855
 China. As Poignonnec	415
 Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
+Community Access Points	12536
 Confusing Collection Points	9696
 Congo. Internet Exchange Points	10506
 Contact Point	12412,14
@@ -84,9 +87,11 @@ Economy World Bank Poised	8478
 Educare Point Limited Data Processor INST-35748873455	7167
 Emerging Technologies Focal Points	7548
 Enquiry Points	12389
+Entry Point	12761
 Entry Point for U.S.-Africa AI Partnerships	6790
 Establish Focal Points	1000
 Ethiopia's New Digital Strategy Poised	12183
+Exchange Point	12622,121
 Exchange Point JTB Joint Tax Board	11857
 Exchange Points	961
 Exchange Points FMCT	11857
@@ -121,16 +126,19 @@ IXPN Points. INTERNATIONAL SUBMARINE CABLE LANDING	11857
 Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203
+Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
+Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
 Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 KENYA The Pharmacy and Poisons Board	9854
 KEY POINTS	6377
+KIX Focal Point	12726
 Kenya Internet Exchange Point	7548,4689,46
 Kenya Internet Exchange Point KLRC Kenya	7548
 Key Entry Point for Cyber Risk	9815
@@ -143,6 +151,9 @@ LPA Point-of-Sale	4283
 LPA-approved Point-of-Sale	4283
 Le Point De Vue De L’Expert	11034
 Les Points	11592
+Lesotho Internet Exchange Point	12709
+Lesotho Internet Exchange Point City	12743
+Limited Registration Points	12761
 Low Point of Sale	10901
 Lusaka Internet Exchange Point	12377
 M2200000020563ON MOULINS GM PNR DE POINTE-NOIRE	7346
@@ -184,6 +195,7 @@ POINTS Arial	11129
 POINTS Courier	11129
 PP Nine Point Plan NT National	11193
 PRETORIA Points of Contact Mr Enos Sella	11180
+Partial Credit Guarantee Point of Sale Real	12701
 Partners Exchange Point C- Connectivity Resilience	7548
 Pay Point Managers	12335
 Payment Access Points	4517,2461
@@ -199,7 +211,7 @@ Poids des MPME	11944
 Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point Configuration	736
@@ -251,7 +263,7 @@ Points Weight	10785
 Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
 Points of Entry	11590
-Points of Presence	1289,2573,2887,4757,522,425
+Points of Presence	1289,2573,2887,4757,522,425,148
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
 Points. Government of Cybersecurity	1777
@@ -273,7 +285,7 @@ RPO Recovery Point Objective RPS Requests	11952
 Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
-Recovery Point Objective	6432,30,4259,1231
+Recovery Point Objective	6432,30,4259,1231,586
 Recovery Point Objectives	11995
 Refuge Point	346
 Regional Internet Exchange Point	578

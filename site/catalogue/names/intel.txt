@@ -36,13 +36,14 @@ African Intellectual Property Organisation	7452
 African Intellectual Property Organization	10358,1192
 African Intelligence	4127
 African Regional Intellectual Property Organisation B-BBEE	11250
-African Regional Intellectual Property Organization	6997,848
+African Regional Intellectual Property Organization	6997,848,4899
 African Research Centre for Artificial Intelligence	1814
 African Union Artificial Intelligence	1243
 African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union’s Continental Artificial Intelligence	9119
 African Union’s Continental Artificial Intelligence Strategy	10620
 Age of Artificial Intelligence	2918,7808
+Age of Artificial Intelligence Botswana	12625
 Age of Intelligence	8343
 Age of Networked Intelligence	395,848
 Agency CAIR Centre for Artificial Intelligence Research	1814
@@ -62,13 +63,14 @@ Area AI Artificial Intelligence AI4D AI	12512
 Artif. Intell	11585
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
 Artificial Intelligence APPETD	6832
 Artificial Intelligence ARPU	6000
-Artificial Intelligence Act	1807,1151,1793,2721,574,390,2614,85,21
+Artificial Intelligence AU African Union CPA	12675
+Artificial Intelligence Act	1807,1151,1793,2721,574,390,2614,85,21,1519
 Artificial Intelligence Action Summit	2816
 Artificial Intelligence Adoption and Service Transformation	3760
 Artificial Intelligence Anti-DDoS Anti	6432
@@ -105,7 +107,7 @@ Artificial Intelligence GFIN Global Financial Innovation	12444
 Artificial Intelligence Ghanaian Entrepreneur Alfred Opare	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Artificial Intelligence Global	11134
 Artificial Intelligence Google	1363
-Artificial Intelligence Governance	4126,2923,10,1569,633
+Artificial Intelligence Governance	4126,2923,10,1569,633,3499
 Artificial Intelligence Governance Artificial Intelligence	2958
 Artificial Intelligence Governance Working Group	8645
 Artificial Intelligence Index Report	2816
@@ -116,15 +118,18 @@ Artificial Intelligence Institute of South Africa	6832
 Artificial Intelligence Institution	1787,1417,3881
 Artificial Intelligence Landscape	12241
 Artificial Intelligence Landscape Assessment	4583
+Artificial Intelligence Learning	12675
 Artificial Intelligence Needs Assessment Survey	1814
 Artificial Intelligence Nigeria	2329,88,121,468,6,121,80,257,110,145,217,103,378,411,250,379,417,34,225
 Artificial Intelligence Office	8014
 Artificial Intelligence Plaintiff	9629
-Artificial Intelligence Policy	10210,82
+Artificial Intelligence Pol	12675
+Artificial Intelligence Policy	10210,82,2262
 Artificial Intelligence Policy and Implementation Plan	9741
 Artificial Intelligence Programme Issued	11135
 Artificial Intelligence Projects Assistant	5036
 Artificial Intelligence Project’s Success	2816
+Artificial Intelligence Readiness Assessment Methodology	12565
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
 Artificial Intelligence Refers	2958
 Artificial Intelligence Regulation Act	8991
@@ -156,6 +161,7 @@ Artificial Intelligence and Cloud Commuting	6376
 Artificial Intelligence and Cyber Diplomacy Unit	8982,376
 Artificial Intelligence and Cybersecurity	7691
 Artificial Intelligence and Data	10343
+Artificial Intelligence and Data Centres	12688
 Artificial Intelligence and Emerging Technologies	5276,1721,1648,1601
 Artificial Intelligence and Emerging Technologies Policy	9169
 Artificial Intelligence and Ethics	2518
@@ -182,6 +188,7 @@ Artificial Intelligence for Economic Growth and Job Creation	8363,185
 Artificial Intelligence for Health Security	11140
 Artificial Intelligence for Healthcare	6948
 Artificial Intelligence for Low Income Countries	11140
+Artificial Intelligence-Driven Healthcare Diagnosis	12707
 Artificial Intelligence-Powered Society	4126
 Artificial Intelligence-enabled	452
 Artificial Intelligence-powered	10250
@@ -205,6 +212,7 @@ Association of Artificial Intelligence	11778
 Authority CEO Financial Intelligence Authority Zambia	6938
 Autoridad Nacional de Inteligencia Artificial	3494
 B Intel	9629
+BACKGROUND Artificial Intelligence	12675
 BACKGROUND OF THE BILL Artificial Intelligence	11247
 BI Business Intelligence BM Banque Mondiale	10712
 BROAD ACCESS TO ARTIFICIAL INTELLIGENCE APPLICATIONS	7362
@@ -214,6 +222,7 @@ Bank AI Artificial Intelligence API Application	7548
 Bem A Inteligência Artificial	2816
 Benin's National Artificial Intelligence and Big Data	6893
 Big Data and Artificial Intelligence	4762
+Body ARTIFICIAL INTELLIGENCE POLICY AND IMPLEMENTATION	12675
 Brazil’s Artificial Intelligence Observatory	11135
 Briter Bridges. Briter Intelligence	12376
 Briter Intelligence	12042,334
@@ -284,6 +293,8 @@ Cloud and Artificial Intelligence	6582
 Collective Intelligence	2096,6604
 Comissão Nacional de Inteligência Artificial	2816,7735
 Companies and Intellectual Property Agency	10358
+Companies and Intellectual Property Authority	12598,1,13
+Companies and Intellectual Property Authority. Unique	12533
 Companies and Intellectual Property Commission	8018,1773,1459,44,2,745
 Companies and Intellectual Property Commission. Cyber	3290
 Companies and Intellectual Property Registration Office CIS	11261
@@ -296,7 +307,7 @@ Congolese Academy of Artificial Intelligence	3747,8288
 Conselho Nacional de Inteligência Artificial	3519
 Context of Artificial Intelligence	2958
 Context of Artificial Intelligence Refers	2958
-Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34,4657
+Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34,4657,848,13
 Continental Artificial Intelligence Strategy Harnessing AI	1814,863
 Continental Artificial Intelligence Strategy. UNECA	7529
 Continental Intelligence Report	6441
@@ -314,6 +325,7 @@ DESAFIOS DA INTELIGÊNCIA ARTIFICIAL EM MOÇAMBIQUE	2816
 DESAFIOS GLOBAIS DA INTELIGÊNCIA ARTIFICIAL	2816
 DESENVOLVIMENTO DA INTELIGÊNCIA ARTIFICIAL EM MOÇAMBIQUE	2816
 DGI Intelligence	10712
+DIALOGUE ON ARTIFICIAL INTELLIGENCE GOVERNANCE DELIVERED	12760
 DIGEST THE ARTIFICIAL INTELLIGENCE BILL	11247
 DIGITAL ECONOMY KENYA ARTIFICIAL INTELLIGENCE	7548
 DPI Readiness and Intelligent Revenue Authorities	3735
@@ -373,6 +385,7 @@ EU's Artificial Intelligence Act	8348
 EU’s Artificial Intelligence Act	11156
 EVOLUÇÃO DA INTELIGÊNCIA ARTIFICIAL	2816
 EXECUTIVE SUMMARY Artificial Intelligence	7548
+EXECUTIVE SUMMARY This Draft Artificial Intelligence	12675
 East African Artificial Intelligence Policy Outlook	8334
 Eastcastle DRC and Liquid Intelligent Technologies	9061
 Economia Inteligência	10787
@@ -432,9 +445,10 @@ Explainable Artificial Intelligence	2958
 Exploring the Impacts of Artificial Intelligence	11927
 Federal Government’s Artificial Intelligence Strategy AI	11135
 Federal Republic of Artificial Intelligence	12512
+Financial Intellegence Unit Basotho Enterprises Development	12701
 Financial Intelli-	6938
-Financial Intelligence	11960
-Financial Intelligence Act	3445,269,1973,1704,773,4201,9,73
+Financial Intelligence	11960,582,56
+Financial Intelligence Act	3445,269,1973,1704,773,4201,9,73,95
 Financial Intelligence Agency	700,4544,1694,3642,1689
 Financial Intelligence Authority	3583,8548,160
 Financial Intelligence Centre	587,2858,269,919,2305,2,1900,2859
@@ -485,6 +499,8 @@ Gates GSMA Intelligence	11004
 General Directorate for Artificial Intelligence. Malawi	4583
 General Intelligence Laws Amendment Act	11277
 General Intelligence Service	10213,121
+General-Purpose Artificial Intelligence Broad AI	12675
+Generation Intel Xeon Gold Scalable Processor	12681
 Generative Artificial Intelligence	7179,499,3614,21
 Generative Artificial Intelligence An AI	2958
 Generative Artificial Intelligence IA	2816
@@ -522,6 +538,7 @@ Harnessing Artificial Intelligence and Digital Inclusion	10598
 Harnessing Artificial Intelligence’s Potential	11140
 Harnessing Demographic Intelligence	7749
 Hawks and Crime Intelligence	5323
+Heads of Intellectual Property Offices Conference	12744
 Heads of Intellectual Property Offices HR Human	11250
 Health Intelligence Center	8815
 Health Intelligence Centres for Africa	10659
@@ -547,6 +564,7 @@ INTELIGÊNCIA ARTIFICIAL PARA A CAPACITAÇÃO NA	2816
 INTELLECTUAL PROPERTY	4153,8008
 INTELLIGENCE ACADEMY	11277
 INTELLIGENCE STRATEGY	4126,8230
+INTRODUCTION Artificial Intelligence	12675
 Ilasan. Estate Intel	8045
 Imaginaries of Artificial Intelligence	11028
 Impact of Artificial Intelligence	2844
@@ -564,9 +582,12 @@ Instituto de Inteligencia Artificial	2816
 Instituto de Inteligência Artificial	2816
 Instruments Continental Artificial Intelligence Strategy	5244
 Integrate Artificial Intelligence	1814,4104
-Intel	34,865,1386,509,1640,1499,2240,1111,345
+Intel	34,865,1386,509,1640,1499,2240,1111,345,3094
 Intel Capital and Africa Internet Ventures	10464
+Intel Corporation	12723
+Intel Digital Readiness Programs	12723
 Intel HD Graphics	34
+Intel SATA Hybrid RAID	12681
 Intel Xeon Gold	9475
 Intel and NVIDIA. Known	11502
 Intel-prclation	11852
@@ -608,7 +629,7 @@ Intellectua	1009
 Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123,555,26,334,1,10,264,1,44,1,146,4,41,64,23,4,25
 Intellectual Barrier	11180
 Intellectual Disabilities	2518
-Intellectual Property	1243,571,5146,2330,3066,135
+Intellectual Property	1243,571,5146,2330,3066,135,184
 Intellectual Property Act	3714
 Intellectual Property Institute	11550
 Intellectual Property Intricom Resources S.L	8530
@@ -641,6 +662,7 @@ Intelligence Division	11279
 Intelligence Ethics and International Organization Charters	2958
 Intelligence Government	12359
 Intelligence Grid	6411
+Intelligence Learning	12675
 Intelligence Numérique	3380
 Intelligence Officer	10213
 Intelligence Partnership	3861
@@ -677,6 +699,7 @@ Intelligent Operations Center	7688
 Intelligent Operations Centre	5793
 Intelligent Platform	7367
 Intelligent Population Register	2662,1594,516,1755,3658,1079
+Intelligent Provisioning	12681
 Intelligent Resources	11209
 Intelligent Systems	9237
 Intelligent Technologies	6000
@@ -720,6 +743,7 @@ Kigali Global Artificial Intelligence Summit	2685
 LARGE-SCALE RENEWABLE ENERGY MARKET INTELLIGENCE REPORT	11953
 LEI SOBRE A INTELIGÊNCIA ARTIFICIAL CAPÍTULO	3519
 LEI SOBRE A INTELIGÊNCIA ARTIFICIAL I-	3519
+LESOTHO HOSTED HEADS OF INTELLECTUAL PROPERTY	12744
 La Ley de Inteligencia Artificial	3494
 Labour Market Intelligence	11712
 Labour Market Intelligence MICT SETA	6832
@@ -729,6 +753,9 @@ Legal and Policy Pathways Artificial Intelligence	8747
 Lei da Iniciativa Nacional de Inteligência Artificial	3519
 Lei de Base da Inteligência Artificial	2690
 Lei de Inteligência Artificial	3519
+Lesotho's Artificial Intelligence Policy	12760
+Lesotho. Advancing Climate Intelligence	12728
+Lesotho. Artificial Intelligence	12675
 Libya Launches National Strategy for Artificial Intelligence	3841
 Libyan Financial Intelligence Unit	7159
 Liquid Intelligence	1817
@@ -772,6 +799,7 @@ NATIONAL ARTIFICIAL INTELLIGENCE	12210
 NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	1965,2161,8230
 NCC Intelligence	11857
 NCRST Artificial Intelligence Working Group	5036
+NEED FOR ADVOCACY ON ARTIFICIAL INTELLIGENCE	12737
 Nairobi Intelligent Transport System	2160,7487
 Nairobi Intelligent Transportation System Phase	355
 Namibia's Financial Intelligence Centre	12232
@@ -779,7 +807,7 @@ Namibia’s Artificial Intelligence Strategy Framework	9107
 Nasionale Strategiese Intelligensie	11190
 Nat Mach Intell	11135
 National AI Council National Artificial Intelligence	4528
-National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938
+National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160
 National Artificial Intelligence Agency	6526,38,3010,2108
 National Artificial Intelligence Agency. Samuel Mizero	10152,19
 National Artificial Intelligence Centre	10451
@@ -818,7 +846,7 @@ National Council for Artificial Intelligence. Kenya	8088
 National Financial Intelligence Agency	6938
 National Financial Intelligence Unit	11928
 National Health Intelligence Center	7764
-National Health Intelligence Centre	5837
+National Health Intelligence Centre	5837,6752,17
 National Higher School of Artificial Intelligence	9703
 National Intellectual Property Commission	7624,1343
 National Intellectual Property Committee	7624,1343
@@ -900,6 +928,7 @@ R2 Mandatory Fraud Intelligence Sharing	11138
 RANKING SOBRE A INTELIGÊNCIA ARTIFICIAL	2816
 REGULATORY REQUIREMENTS OF ARTIFICIAL INTELLIGENCE	3651
 REPUBLIC OF GHANA NATIONAL ARTIFICIAL INTELLIGENCE	4126
+Radio and Artificial Intelligence	12625,89
 Ranking Global de Inteligência Artificial Governamental	2816
 Rankings de Inteligência Artificial	2816
 Regional African School of Artificial Intelligence	7072
@@ -956,7 +985,7 @@ Sociedade Inteligência	6895
 Software-Defined Intelligent Access	3897
 Somali National Artificial Intelligence Centre	7504
 South Africa AI Artificial Intelligence API	5533
-South Africa National Artificial Intelligence Policy	11265
+South Africa National Artificial Intelligence Policy	11265,1410
 South Africa. This National Artificial Intelligence	11265
 South African Intelligence Agency	11277
 South African Intelligence Service	11277
@@ -988,6 +1017,7 @@ Swarm Intelligence and Speech Technologies. CAIR	11336
 System Processor Minimum Intel Quad Core	34
 TELECOMUNICACIONES Y SISTEMAS DE INTELIGENCIA ARTIFICIAL	4209
 TRADEMARKS AND INTELLECTUAL PROPERTY	11184
+TRAIN ARTIFICIAL INTELLIGENCE SYSTEMS IN LESOTHO	12713
 Tags AI Opportunity Artificial Intelligence Pax	6849
 Tanzania Intelligence Service	2867
 TechAfrica News. Intelsat	2810
@@ -1009,6 +1039,7 @@ Threat Intelligence Platforms. Membership	10721
 Threat Intelligence and Analytics	11231
 Through Intelligent Card Production Systems	4677
 Trade Agreement AI Artificial Intelligence APEC	1243
+Trade Area AI Artiﬁcial Intelligence API	12674
 Trade-Related Aspects of Intellectual Property Rights TVET	11250
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
 Transitioning Intellectual Copyright	12512
@@ -1018,6 +1049,9 @@ Trustworthy Development and Use of Artificial Intelligence	11135
 UHC Business Intelligence System Nov	10970
 UJ’s School of Consumer Intelligence and Information Systems	8142
 UK Artificial Intelligence Regulation	1814
+UNDP Liberia Artificial Intelligence	12723
+UNDP and Intel	12723
+UNDP and Intel Join Hands	12723
 UNESCO's Artificial Intelligence Needs Assessment Survey	1814
 US Cloud Act and Foreign Intelligence Surveillance	11154
 US Foreign Intelligence Surveillance Act	6477
@@ -1040,7 +1074,7 @@ Western Cape Artificial Intelligence	11012
 Windhoek Statement on Artficial Intelligence	2816
 World Artificial Intelligence Conference	7474,383,105,17,229,287,395,502,823,215
 World Artificial Intelligence Cooperation Organisation	9938,601
-World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147
+World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147,2547
 World Intellectual Property	11550
 World Intellectual Property Organisation	961
 World Intellectual Property Organization	7548,3421,914,1,1,10,40,224,1,1,43,1,146,4,21,111

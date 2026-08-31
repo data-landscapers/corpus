@@ -48,6 +48,7 @@ African Declaration	2954,9260
 Africanfuturism and Decolonial AI	9739
 Africanfuturist and Decolonial AI	9739
 Africa’s AI Declaration	2839
+Age and Sex of Decedent	12672
 Air Cargo Express Declaration User Guidelines	12454
 Alarming Decline Completion	12199
 Algiers Declaration	5586
@@ -119,7 +120,7 @@ Commission Implementing Decision	970
 Commission Implementing Decision C	644
 Commission Implementing Decision EU	8533
 Completed Dec	255
-Concept Review Decision	12426
+Concept Review Decision	12426,243
 Condicionantes Decorrentes	11396
 Conflict of Interest Declaration. Applicants	9198
 Congo’s No Dec	11971
@@ -178,7 +179,7 @@ DECISIVE STEP TOWARDS MODERNISING LAND	10987
 DECKEL HOTEL LIMITED Data Controller INST-901829E2AB2	7167
 DECKO LIMITED Data Controller INST-863964D811A NAIROBI	7167
 DECLANDEN MEDICAL SERVICES LTD Data Controller	7167
-DECLARATION	22,214,2473,6951,1550,1164,25,11
+DECLARATION	22,214,2473,6951,1550,1164,25,11,270
 DECLARATION FORM	12454
 DECLARATION MENSUELLE OU TRIMESTRIELLE DES IMPÔTS	6954
 DECLARATION OF AUTHENTICITY OF REPORT CONTENTS	1988
@@ -275,10 +276,11 @@ Decade of Action for Sustainable Development	10840
 Decade of Economic Impact	9350
 Decade of Financial Inclusion Hype	12249
 Decade of Innovation	4126
+Decade. EGMRG Victoria Falls	12761
 Decades	4300,3621,2806
 Decades of Connection	12104
 Decastro95	12478
-Deceased	2775,9418,180,123
+Deceased	2775,9418,180,123,37,1
 Deceased Taxpayer	4449
 Deceased. The Ministry of Foreign Affairs	12496
 Decem	4775
@@ -298,7 +300,7 @@ Decent Work	226,6386,1,489
 Decent Work and Economic	11855
 Decent Work and Economic Growth	5883,6610
 Decent Work and Economic Growth Goal	11332
-Decentralisation	970,584,7981,2790
+Decentralisation	970,584,7981,2790,343
 Decentralisation Extension Programme	12325
 Decentralisation Policy	12325
 Decentralisation and Digitalisation	9765
@@ -336,7 +338,7 @@ Decilitro Sistema de Posicionamento Global Hepatite B	10777
 Decimal	736,11624
 Deciphering Ethiopia	3176
 Decis	766,453,42,2530
-Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112
+Decision	27,735,199,11,235,36,18,443,284,303,484,138,543,671,986,116,596,598,9,649,371,482,21,58,589,465,1268,821,21,4,616,63,366,112,210,81
 Decision Advantage	10566
 Decision Authority	4528,3755,4229
 Decision Authority. Stage	8283
@@ -351,6 +353,8 @@ Decision Support System	5097
 Decision Support Systems	11156
 Decision Systems Pty Ltd	11250
 Decision and Control	9128
+Decision of Commission	12548
+Decision of Tax Tribunal	12629
 Decision-Maker Pathway	10189
 Decision-Makers Said Minister Theofelus	6825
 Decision-Makers UNDP	11332
@@ -363,7 +367,7 @@ Decision-provenance	7451
 Decision-support	10881
 Decision. H. ORDERS	5113
 Decision. Personal Data	5113
-Decisions	11,707,756,514,970,903,563,10,80,494,477,2481,414,47,810,162,283,28,167,82,99,761,1181,90,95,85,119,101
+Decisions	11,707,756,514,970,903,563,10,80,494,477,2481,414,47,810,162,283,28,167,82,99,761,1181,90,95,85,119,101,139,16
 Decisions The Building Resilient Digital Infrastructure	7877
 Decisão	795,1642,2732,2076,2869,641,610,18,23,55,67,491
 Decisão Final	11898
@@ -378,11 +382,13 @@ DeclanRiedel	12478
 Declaración	1701,1478
 Declarada	11443
 Declarado	11538
-Declarant	12226
+Declarant	12226,428
 Declarar	10783,668,7,443
-Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16
+Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105,579,113,211,17,8,71,41,158,16,18,1,109,40
 Declaration and Authorization	6432
 Declaration and Denarau Action Plan	940
+Declaration of Commitment Increase	12680
+Declaration of Commitment The Government of Botswana	12563
 Declaration of Compliance	12393
 Declaration of Force Majeure	3583
 Declaration of Helsinki and Good Clinical Practice	11578
@@ -485,6 +491,7 @@ Decreasing	236
 Decreasing Better	1940
 Decreasing Incomes	12445
 Decree	10,1,14,551,393,413,436,289,1418,79,1351,27,191,1652,110,3830,10,37,29,107,602,350,5,19,31,206,40,93
+Decree Absolute Certificate	12639
 Decree Law	10775,1094,292
 Decree No	1382,914,1308,1109,4029,1,26,519,1491,33,29,70,19,7,11,602,20,16,314,5,1,59,254,75,1
 Decree- Law	10765
@@ -611,7 +618,7 @@ ICGLR Declaration	4257
 IDENTIFICATION TO DECISION PHASE	11156
 INTERNET SUBSCRIPTIONS DECEMBER’23	3862
 Illiterate Declarant	12338
-Implementation Status and Key Decisions	2712,3867,254,4562,833
+Implementation Status and Key Decisions	2712,3867,254,4562,833,496
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
 Implementation Status and Key Decisions Nigeria Building	4688
@@ -786,6 +793,8 @@ Partial Assessment. Concept Review Decision	12137
 Past Decade and Opportunities Ahead. Abidjan	10718
 Past Decade. TWP Community of Practice	11006
 Pax Silica Declaration	9025,1013
+Place of Occurrence and Sex of Decedent	12672
+Plan and Make Decisions	12551
 Policy Decisions That Matter	6714
 Pre-Filled Declarations	12389
 Pre-Filled Tax Declarations	12389

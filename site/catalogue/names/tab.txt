@@ -17,6 +17,7 @@ APPENDIX TABLES	11524
 APPENDIX TABLES Table A1.1 Structure	11524
 APPENDIX Table A.1	8603
 ARSEL Tableau	10975
+ASYCUDA World Registration Process Table	12654
 AWS Region Table. Pricing	7210
 Abdallah Tabhiret	5760
 Abolia Taba Mopolo	6859
@@ -45,6 +46,7 @@ Application WBG World Bank Group TABLE	969
 Assessment Category BASIC INFO TABLE C-Not Required Country	11855
 Attachment II. Data Tables Numerical	12500
 Austria. Table	10775
+Authority. TABLE OF CONTENTS CHAPTER	12616
 Authority’s National Table of Frequency	762
 B- Tablet C- Place of Education	582
 B-BBEE Compliance Table	11250
@@ -55,7 +57,9 @@ BIRR Table	1731,2,1,1228
 Bank of Zambia ZIPSS Rules Table of Contents	12364
 Banque Mondiale Table des Matières Version	1187
 Bereitstellung von Tablets	383
+Birth and Death Tables	12672
 Births Table B.01	12367
+Botswana. Table	12600
 Bridgforte Executive Table	11138
 Bridgforte. Executive Table	11138
 Budget Statement's Table	4389,3
@@ -128,6 +132,7 @@ Diploma Tabela de Taxas da APD O Presidente	744
 Director of Tablet Academy	9202
 Diseases Table	12151
 District Tabulation The EU EOM	12201
+Divorces Tables	12672
 Domestic Economy Domestic Economy Table	2775
 Domestic Economy Table	2775
 Dondo and Nhamatanda. National Tabulation	12201
@@ -151,6 +156,7 @@ Energy Physical Supply and Use Tables	2775
 Ethiopia Attachment III. Data Tables A	12500
 Ethiopia Table	12500
 European Union. TABLE OF CONTENTS I	12201
+Executive Summary and Table of Recommendations	12540
 Executive Table	11138
 Explore the Table Use	12020
 Extrême-Nord. Tableau	10975
@@ -203,6 +209,7 @@ Hostel Staff Table	11180
 Human Rights and Disinformation Table	10729
 I LISTA DE TABELAS E FIGURAS	2816
 IA. Tabela	2816
+ID. Taba	12748
 ID4D Practitioner’s Guide.8 Table	10765
 IFISA. Table D.4 Blended	11248
 IHE CORE COMPONENTS32 TABLE A.5 IHE	1009
@@ -226,6 +233,7 @@ Inclusion and Integrity Table Of Contents Executive	4848
 Industry Subscription Table	2776
 Infrastructure Fund Table D.8	11248
 Integrity Committee Total Number of Meetings Table	1554
+Introduction Table	12534
 Job Shimankana Tabane	11986
 João Carlos Domingos Table of Contents Table	10776
 KPMG and Tablet Academy	9202
@@ -236,7 +244,7 @@ LA MATRICE FFOM Tableau	10712
 LIST OF TABLES	718,4815,5659,26,10
 LIST OF TABLES AND FIGURES Table	11261
 LIST OF TABLES LIST OF FIGURES	11986
-LIST OF TABLES Table	718,2058,3895,4481,66
+LIST OF TABLES Table	718,2058,3895,4481,66,1541
 LISTA DE MESAS Tabela	11555
 LISTA DE TABELAS Quadro	2138
 LISTE DES TABLEAUX	737,10138,90
@@ -251,6 +259,7 @@ Life Counts List of Tables Table	12151
 Life Counts Table	12151
 Life Counts Table of Contents Definition of Terms	12151
 List of Figures Table ES.1	10841
+List of Figures and Tables	12659
 List of Tables	236,2540,4170,4249,29,26,901
 List of Tables Chapter	10763
 List of Tables List of Figures	2775
@@ -272,9 +281,11 @@ MW. Table	12256
 Madame Tabaski BA	8269
 Male Female Table	11192
 Mali Tab	6959
+Marriage Tables	12672
 Marriages Table M01	12367
 Mbps APPENDIX D Table	3862
 Meningitis Tables	12151
+Ministry of Minerals and Energy. Table	12563
 Mobile Table	10856
 Mogadishu-based Tabaarak ICT	7897
 Monsieur TABAKA Mexan Guillaume	3191
@@ -282,6 +293,7 @@ Montserrat Bonkanka Tabares	8372
 Moulaye Tabouré	7440
 Movéis Tabela	11574
 Mozambique Mozambique Digital Acceleration Project TABLE	4653
+NATIONAL PAYMENTS SYSTEM OVERSIGHT POLICY Table	12537
 NBC. Table	1944
 NDICE DE TABELAS Tabela	11537
 NET FINANCE COST Table	10793
@@ -349,6 +361,7 @@ Purchasing and Construction of Houses Table	2775
 PwC Table	7751
 Q1 Q2 Q3 Q4 Tabling of Home	11986
 Q1 Q2 Q3 Q4 Tabling of National	11986
+Qty TBD TABLE	12763
 REALISE ITS POTENTIAL Table of Contents Executive	899
 REIPPPP Table of Contents	11953
 REPUBLIC OF ZAMBIA Table	12431
@@ -378,6 +391,7 @@ SEP Budget Table Budget Category	1778
 SEP Summary Table Project	1778
 SLOC Summary Tables	12210
 SOCIAL PROTECTION PROJECT TABLE OF CONTENTS	11525
+SOUTHERN AFRICAN DEVELOPMENT COMMUNITY TABLE	12527
 SUMMARY TABLE OF THE PRIORITY AREAS	970
 SUPPLEMENTARY MATERIAL Table A.1	8605
 Sample Table	1778
@@ -385,6 +399,7 @@ Sector Tabela	11574
 Segurança Cibernética. Tabela	2816
 Sexo Tabela	11387
 Site Supervising Engineer. Table	12253
+Site. Table	12681
 Skills Needed Table	10964
 Social Registry. ME PDO Table SPACE	11855
 Somalia-Specific Operational Model Table	11596
@@ -406,6 +421,7 @@ Substantial. Table	11417,438
 Summary Table	2775
 Summary Table DESCRIPTION Unit	2775
 Summary Tables	12413
+Summary Tables. Annexes	12672
 Supplementary Table	11578,7
 Supplementary Table S1	10188
 Supplementary Table S2	10188
@@ -420,7 +436,7 @@ TABASAMU DENTAL SURGEONS LIMITED Data Controller	7167
 TABELA	11531
 TABELAS E FIGURAS Tabelas Tabela	2816
 TABELAS E QUADROS Gráfico	11387
-TABLE	1009,152,667,265,855,1484,221,1824,1282,262,1107,1,108,1760,132,27,701,22,490
+TABLE	1009,152,667,265,855,1484,221,1824,1282,262,1107,1,108,1760,132,27,701,22,490,231,159,4
 TABLE B	3714
 TABLE DES MATIERES	737,10138,31
 TABLE DES MATIERES AVANT-PROPOS	10875
@@ -431,7 +447,7 @@ TABLE LEGEND	12389
 TABLE OF CONTENT FOREWORD	7548
 TABLE OF CONTENT First Edition	10819
 TABLE OF CONTENT LIST OF FIGURES	718,10510
-TABLE OF CONTENTS	34,1784,170,791,1435,2984,3663,424,4,574,546
+TABLE OF CONTENTS	34,1784,170,791,1435,2984,3663,424,4,574,546,266
 TABLE OF CONTENTS ABBREVIATIONS AND ACRONYMS	11417
 TABLE OF CONTENTS ACRONYMS	11860
 TABLE OF CONTENTS ANNEXURES	11986
@@ -445,7 +461,7 @@ TABLE OF CONTENTS DATA SHEET	11924
 TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50
 TABLE OF CONTENTS EXECUTIVE SUMMARY	940,10271,51,991
 TABLE OF CONTENTS Executive Summary	12210
-TABLE OF CONTENTS FOREWORD	34,1127,9819
+TABLE OF CONTENTS FOREWORD	34,1127,9819,1594,127
 TABLE OF CONTENTS GLOSSARY	11857
 TABLE OF CONTENTS I. BACKGROUND	2889
 TABLE OF CONTENTS I. PROJECT	2473,2180
@@ -463,6 +479,7 @@ TABLE OF CONTENTS SECTION	11209
 TABLE OF CONTENTS SIGNATURES	7198
 TABLE OF CONTENTS Sections CHAPTER	11182
 TABLE OF CONTENTS TABLE OF CONTENTS	7198,4100
+TABLE OF CONTENTS Table of Contents	12659
 TABLE OF CONTENTS Why Fuze	6155
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
 TABLEAU	2561
@@ -502,7 +519,7 @@ Tabeli	10780
 Tabelot	7183
 Tabioucom	1842,2700
 Tabitha Karanja	1245
-Table	7,3,16,1,1,6,202,160,322,47,1,5,169,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4,50,6,7,21,24,4,7,22,7,24,22,79,4,2,1,2,14,4,24,12,1,2,3,11,7,2,6,4,22,2,6,1,2,25,10,14,91,16,107,1,27,1,7,3,15,3,4,205,4,61,2,6,4,3,9,4,3,1,7,8,3,2,9,2,6,28,3,5,4,1,21,4,4,12,14,5,37,76,13,3,9,12,20,4,11,17,6,7,6,7,2,1,69,2,1,13,11,1,5,2,5,2,2,10,4,12,18,6,12,13,1,2,6,31,4,12,12
+Table	7,3,16,1,1,6,202,160,322,47,1,5,169,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4,50,6,7,21,24,4,7,22,7,24,22,79,4,2,1,2,14,4,24,12,1,2,3,11,7,2,6,4,22,2,6,1,2,25,10,14,91,16,107,1,27,1,7,3,15,3,4,205,4,61,2,6,4,3,9,4,3,1,7,8,3,2,9,2,6,28,3,5,4,1,21,4,4,12,14,5,37,76,13,3,9,12,20,4,11,17,6,7,6,7,2,1,69,2,1,13,11,1,5,2,5,2,2,10,4,12,18,6,12,13,1,2,6,31,4,12,12,17,4,62,62,2,13,2,1,6,78,4
 Table A	4214,7036
 Table A of Schedule	3714
 Table A. Recommendations	4214
@@ -600,7 +617,7 @@ Table of Administrative Penalties	587
 Table of Agreed Actions	12195
 Table of Content	582
 Table of Content PART	3861
-Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88,249,5,117
+Table of Contents	970,1805,2472,1419,280,135,2678,272,69,675,359,46,8,7,41,40,34,599,43,1,7,88,249,5,117,139
 Table of Contents ABBREVIATIONS	11196
 Table of Contents ABBREVIATIONS AND ACRONYMS	1988
 Table of Contents ACKNOWLEDGEMENTS	12240
@@ -609,18 +626,19 @@ Table of Contents ACRONYMS	6432
 Table of Contents Abbreviations and Acronyms	10718,123
 Table of Contents Acknowledgement	10763
 Table of Contents Acknowledgements	11195,350
-Table of Contents Acronyms	396,10797
+Table of Contents Acronyms	396,10797,1470
 Table of Contents Acronyms and Abbreviations	6832
 Table of Contents Digital Lilangeni Design Paper	11130
 Table of Contents EXECUTIVE SUMMARY	5245
 Table of Contents Executive Summary	8670,3325
 Table of Contents FOREWORD	12444
-Table of Contents Foreword	5244
+Table of Contents Foreword	5244,7430
 Table of Contents Glossary	11259
 Table of Contents List of Tables	6000,6062
 Table of Contents Preface	10852
 Table of Contents Table of Contents	11250,705
 Table of Contents Table of Figures	12376
+Table of Contents Tarrif Reductions	12625
 Table of Contents US	4972
 Table of Contents What GCTs Look Like	6947
 Table of Contents Zimbabwe's Health Delivery System	21
@@ -638,7 +656,7 @@ Table5	8606
 Table6	8606
 TablePress	9458
 TableView.aspx	11550
-Tableau	643,94,261,207,13,766,358,134,85,64,341,158,981,57,297,1855,27,82,125,224,124,759,1236,534,1286,1,144,18,1,1,89,10,549,420
+Tableau	643,94,261,207,13,766,358,134,85,64,341,158,981,57,297,1855,27,82,125,224,124,759,1236,534,1286,1,144,18,1,1,89,10,549,420,810
 Tableau Armoire Table Meuble	10847
 Tableau des Ressources	9276
 Tableaux	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,237,533,700,5291
@@ -650,7 +668,7 @@ Tabled Home Affairs and Registration Bill Legislation	11986
 Tabled National	11986
 Tabled National Identification Legislation	11986
 Tabled National Legislation	11986
-Tables	236,773,4,1612,150,1617,776,77,1701,882,22,3114,273,723,215,78,74,118,55
+Tables	236,773,4,1612,150,1617,776,77,1701,882,22,3114,273,723,215,78,74,118,55,263
 Tables A.1	12403
 Tables A.1 Details	10977
 Tables A.2.2 and A.2.3 of Annex	10844

@@ -129,6 +129,7 @@ Central African Republic. Components Component Name	10829
 Certificate of Origin Name	1988
 Challenges Despite Namibia	5036
 Change Participant Name	12364
+Change of Name Act	12533,106
 Chapter CHAPTER X DOMAIN NAME AUTHORITY	11179
 Charles Gichira. Hon. John Namoit	10313
 Citizenship Certificate and Old Namibian ID	12350
@@ -151,7 +152,7 @@ Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
 Communication and Technology of Namibia	12354
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7
-Company Name	12389
+Company Name	12389,311
 Company Name Change	12041
 Component Name	3604,7360,891
 Component Name Cost	11560
@@ -164,6 +165,7 @@ Conditions PROJECT TEAM Bank Staff Name	11525
 Confidential Attributes Symbol Example Process Name	9124
 Congo and Namibia	9399
 Conselho Municipal da Cidade de Nampula	1808
+Consulted Stakeholders ID Name of Institution	12674
 Contact Information Name	9892,1
 Contacts List Name Position Ministry	10812
 Contingent Emergency Response Component Indicator Name	4653
@@ -200,6 +202,7 @@ Data Protection Overview Namibia	12468
 Data Protection Supervisory Authority of Namibia	512
 Data for NamPower and IPPs	12399
 Date Expiry Date Project Name Business	11469
+Date Name	12693
 Deep Learning IndabaX Namibia	5036
 Deepcatch Namibia Holding	12478
 Defensive Name	12342
@@ -401,6 +404,7 @@ LARGEST NAMED DIGITAL PROJECT OUTSIDE	1783
 LEGAL FRAMEWORK The Constitution of Namibia	12337
 LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
 LIST OF CONTRIBUTORS S. Name Expertise	9855
+LIXP Long Name	12743
 La Namibie	6241
 Lagos. Named	3187
 Laldemira Nambala	5405,1392
@@ -480,6 +484,7 @@ Minister of Information Shadric Namalomba	3933
 Minister of Information and Digitalisation Shadric Namalomba	10598
 Minister. Entity Name	11230
 Ministry of Education. Republic of Namibia	12325
+Ministry of Finance and Development Planning. Project Name	12669
 Miriam Namutebi	6576
 Momentum Metropolitan Namibia	12478
 Mongolia Mozambique Viet Nam Togo	11563
@@ -527,6 +532,7 @@ NAM-NSA-NCA-CN-2013-2014-v02	9485
 NAM-SIRIIT	12459
 NAMADAL BILINGUNG NGUNG	1855
 NAMDA	7895
+NAME ADDRESS SIGNATURE DATE	12693
 NAME AND CONTACT ADDRESSES OF PROCURING	1638
 NAME Américo Muchanga Nilza Miquidade Horacio	2989
 NAME Does	582
@@ -536,6 +542,7 @@ NAME MOSTLY	582
 NAME OF APPLICANT	1223
 NAME OF BIDDER	11240
 NAME OF DEPONENT	12374
+NAME OF FIRM ADDRESS AUTHORISING SIGNATURE	12693
 NAME OF FIRST PRINCIPAL RESPONDENT	582
 NAME OF HOUSEHOLD HEAD	582
 NAME OF LOAN APP	8732
@@ -700,6 +707,7 @@ Name Title Sector Unit Samia Melhem	10812
 Name ZIPSS	12364
 Name and Address. IHS Holding Limited	7198
 Name and Address. The Company	7198
+Name and Position	12693
 Name and Registration	12041
 Name and Registration Details	5538
 Name and ZRCP	1988
@@ -784,7 +792,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia Affirmative Action Act	12399
@@ -889,6 +897,7 @@ Namibia Securities Exchange	12107
 Namibia Shuts The Door On Starlink	6825
 Namibia Statistical Agency	12399
 Namibia Statistics Agency	1188,2526,4291,249,159,1072,1637,30,1175,10,30,11,21,79
+Namibia Statistics Agency Deputy Chair	12706
 Namibia Statistics Agency NAMIBIA PRODUCER PRICE	11152
 Namibia Statistics Agency Namibia Statistics Agency	11152
 Namibia Statistics Agency SWA ID	12337
@@ -905,6 +914,7 @@ Namibia Tel	11152
 Namibia Telecom	3459,2909
 Namibia The Brief	1975
 Namibia The Communications Regulatory Authority of Namibia	1980
+Namibia The Republic of Seychelles The Republic	12527
 Namibia To The World	12478
 Namibia Traffic Information System	12476
 Namibia URL	12337,3,49,77,2,10
@@ -919,7 +929,7 @@ Namibia Windhoek	12478
 Namibia Zambia Repeat	418
 Namibia and Angola	6596,67
 Namibia and Angola. Angola Telecom	5926
-Namibia and Botswana	5066,4200,296,197
+Namibia and Botswana	5066,4200,296,197,2837
 Namibia and Cameroon	6248
 Namibia and INTERPOL	9399
 Namibia and India	9749
@@ -930,8 +940,9 @@ Namibia and Mauritius	10714
 Namibia and Nigeria	10218
 Namibia and Patrick Ngulube	12325
 Namibia and Russia	8245
-Namibia and South Africa	6825,1181,4168
+Namibia and South Africa	6825,1181,4168,362
 Namibia and Starlink	1980
+Namibia and Swaziland	12657
 Namibia and Togo	7825,727
 Namibia and Uganda	11198
 Namibia and Uganda. The DHA	5533,6453
@@ -978,6 +989,7 @@ Namibia's University Of Science	12478
 Namibia's Vision	2588,3338,738
 Namibia-	12399
 Namibia-Angola MoU	6596
+Namibia-Botswana	12596
 Namibia-Botswana Bi-National Commission	9266,296
 Namibia-PPI-Bulletin-Q2-2026 Release.pdf	11152
 Namibia-RSA Interconnector	12399
@@ -1078,7 +1090,7 @@ Namibian-based Social Enterprise	12450
 Namibian-ownership	5529
 Namibian-registered	3714
 Namibian. All	11122
-Namibians	1013,931,36,1,607,389,118,1845,589,83,5,1145,3,60,131,153,17,779,344,4,1100,313,206,1,273,1,412,92,1062,393,219,2,9,1,5,25,6,5,2,19
+Namibians	1013,931,36,1,607,389,118,1845,589,83,5,1145,3,60,131,153,17,779,344,4,1100,313,206,1,273,1,412,92,1062,393,219,2,9,1,5,25,6,5,2,19,198
 Namibians Interoperability	12477
 Namibians for CRAN	5612,5
 Namibians for Namibians	8255
@@ -1285,7 +1297,7 @@ Registered Name	4896,6380,1124
 Regularization of Status of Certain Residents of Namibia	12337
 Rep. Namibia Ghana Benin Kenya Togo	10819
 Repeat Mistakes of Huduma Namba	12227
-Republic of Namibia	318,7,700,974,1588,127,1322,1628,5661,2,40,32,1,59
+Republic of Namibia	318,7,700,974,1588,127,1322,1628,5661,2,40,32,1,59,138
 Republic of Namibia HE Higher Education HVDC	12399
 Republic of Namibia Nauru Yes Nauru ICT	11529
 Responsibility for Data Indicator Name Definition	1284

@@ -44,8 +44,8 @@ Bundesministerium	5948
 Bundesregierung	11316
 Bundesverband IT-Mittelstand	457
 Bundibugyo	6435,3734
-Bundibugyo Virus Disease	9761
-Bundle	718,4014,6527,304
+Bundibugyo Virus Disease	9761,2879
+Bundle	718,4014,6527,304,1127
 Bundle AI	5226
 Bundle Bonanza	11259
 Bundle Name MBs	718
@@ -54,7 +54,7 @@ Bundle Ya Deree	3898
 Bundled	1431,715,2317,6677
 Bundled Services Regulations	9970
 Bundled Value Index	236
-Bundles	11259,304
+Bundles	11259,304,1127
 Bundles Data Volume Telkom Mobile	11259
 Bundles Tariff Plan Changes	11259
 Bundling	582
@@ -211,6 +211,7 @@ Speed-based Bundles	11259
 Speed-based Bundles. Table	11259
 Standard Prepaid Data Bundles	11259
 Standard Prepaid Data Bundles Prices and OOB	11259
+Streaming Bundle	12690
 Telkom Mobile Mo’Town Promotional Bundles	11259
 Telkom Mobile WhatsApp and Plug'd Bundles	11259
 Telkom Mobile WhatsApp and Plug’d Bundles	11259

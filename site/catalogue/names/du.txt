@@ -9,6 +9,7 @@ Act. Duty	587,11872
 Aden Duale	6651,2283
 Adjudication and Due Process	3861
 Adrien Duval	9218
+Advocate Duma Gideon Boko	12588
 African and Dutch	12333
 Airtel Malawi Managing Director Aashish Dutt	4558
 Algeria Moves Business Registration Stamp Duties	4377
@@ -42,9 +43,11 @@ Briguel Duarte	11566
 Broadcasting Services Due	958
 CAPTAIN DUNGA ENTERPRISES LIMITED Data Processor	7167
 CBDCs. Dube	11048
+CDD Customer Due Diligence CFT Combating	12663
 CENTRO DE RESOLUÇÃO Durante	10753
 CEO de LeMark Group. Durante	7703
 COMMENCEMENT AND DURATION	4153
+CONFIDENTIALITY AND PROPERTY RIGHTS Due	12693
 CPU’s. Minimum Requirement of Compute Modules Dual	11209
 CS Duale	3400,8914
 CS Duale Leads Consultative Forum	12314
@@ -64,6 +67,7 @@ China and Dubai	4055
 Choosing Dubai Over London for Headquarters	10010
 Commercial and Financial Due	6539
 Comores Durant	11109
+Competence of Commission Duties of Commission A.147	12549
 Conecta Angola Comercial. Durante	8543
 Conselho Consultivo. Durante	4081
 Constituição da República de Durante	10753
@@ -71,7 +75,7 @@ Constitution. Duties	11178
 Coordenadora Dulce Alexandre Beatriz Gomes Mendes	10757
 Customer Average Interruption Duration Index	12256
 Customer Due Diligence	4582,7645,162
-Customs Duties	2117
+Customs Duties	2117,10594
 Cybersecurity Incident Reporting Duty	587
 D Duplex I Simplex	736
 D. Duty	7845
@@ -94,6 +98,7 @@ DUE DATES	12509
 DUE DATES FOR SUBMISSION OF TAX	12397
 DUE DILIGENCE FOR THIRD-PARTY COLLABORATORS	1243
 DUKALOCO MARKETING AGENCY LIMITED Data Controller	7167
+DUKWI Event	12627
 DUMISANI SITHOLE Jul	6099,6
 DUMISHA SACCO LTD. Data Controller INST-104992C447D	7167
 DUMORA MEDICAL CLINIC Data Controller INST-161563051F8	7167
@@ -125,6 +130,7 @@ DURO MODERN HOSPITAL LIMITED Data Controller	7167
 DURO MODERN HOSPITAL LIMITED Data Processor	7167
 DUSRU'HVSDFKRGRSULPHLUR	11527
 DUTEGETSE	1214
+DUTIES AND OBLIGATIONS OF LICENSED SERVICE	12616
 DUTIES OF AUDITOR AS TO ANNUAL	3714
 DUTY ACT	6921
 DUTY TO COMPLY	6907
@@ -177,6 +183,7 @@ Duaúe Pinto	11544
 Dubai	1619,639,147,106,156,445,247,77,187,432,72,538,57,199,942,548,154,381,34,176,597,1273,72,46,458,601,348,141,101,929,416,257
 Dubai Bank Ltd	6946
 Dubai Cares	403
+Dubai Chambers	12750
 Dubai DET Partner	5322
 Dubai Declaration	11478
 Dubai Dream	9616
@@ -218,6 +225,7 @@ Ducts	11857
 Dudu Regulated Non-WDT Sacco Society LIMITED	7167
 Dudula	10729
 Due DLI	10870
+Due Dates for Filing and Payment of Tax	12676
 Due Diligence	6432
 Due Diligence DBSA	11240
 Due Diligence Procedure and Joint Account	11685
@@ -225,6 +233,7 @@ Due Diligence Requirements A	11233
 Due Diligence Risks	1243
 Due Process and Constitutional Safeguards	3861
 Due and Payable	573,2588
+Due for Return	12693
 Duekoué-Daloa	2342
 DuelaEasy	5666
 Duet AI	1267
@@ -249,6 +258,8 @@ Duke Juliet	10704
 Duke University Press	3782,894,5063,1311,1177
 DukeKempel	12478
 Dukingire Isi Yacu	6389
+Dukwi	12602
+Dukwi Refugee Camp. CONCLUSION	12602
 Dulce Nicolau	5296
 Dull Disasters	10763
 Dullabh	6632
@@ -286,6 +297,7 @@ Duniani	2710,3309
 Dunleavy	2096
 Dunleavy and Margetts	2096
 Dunn Cavelty	2117
+Dunn and Calinski-Harabasz	12611
 Dunns	6368
 Dunoon	8999
 Dunsin Fatuase	7578
@@ -293,7 +305,7 @@ Dunyan	12092
 Dupla Tributação	11435
 Dupla Tributação APEX	11435
 Duplex	34
-Duplicate	34,702,512,1937,2040,686,1874,2,364,53,238,44,6,114,95,32,1,1,7,139,5,110,52,1729,16,88,1270,262,83
+Duplicate	34,702,512,1937,2040,686,1874,2,364,53,238,44,6,114,95,32,1,1,7,139,5,110,52,1729,16,88,1270,262,83,29
 Duplicate Account Prevention	12404
 Duplicate Death Certificates	12496
 Duplicate Identity Records	7404
@@ -322,13 +334,14 @@ Durame	10574
 Durand	7966,640
 Durant	429,308,1605,927,1018,133,576,69,4,140,105,212,20,193,117,239,14,480,72,19,599,434,2,542,144,122,763,162,20,87,42,18,97,312,347,18,11,147,141,188,6,83,10,592,78,16,40,243
 Durante	163,1105,433,1115,2489,50,202,234,569,254,205,172,109,242,362,32,209,103,4,102,5,52,669,185,111,113,13,16,2,674,120,162,85,79,311,15,11,634,10,6,3,2,8,1,1,4,27,9,38,8,10,19,4,5,11,119,47,158
-Duration	3,8,196,380,149,53,181,229,330,249,210,1726,258,77,105,13,35,15,30,13,41,1,47,977,26,4506,202,653,99,42,7,20,655,333,36,11,25,43,24,189,56,44,92,11,48
+Duration	3,8,196,380,149,53,181,229,330,249,210,1726,258,77,105,13,35,15,30,13,41,1,47,977,26,4506,202,653,99,42,7,20,655,333,36,11,25,43,24,189,56,44,92,11,48,227,2,16,35
 Duration Automated Scans Monthly	11952
 Duration Estimated No. Environmental and Measures	12253
 Duration Quality of Service Consumer Rights Data	5676
 Duration and Continuity	3861
 Duration and Continuity This Policy	3861
 Duration and Expiration	762
+Duration and Level of Effort	12754
 Duration and Termination	762
 Duration of Access	3972
 Duration of Extension	12364
@@ -339,7 +352,7 @@ Duration of Personal Data Protection	12185
 Duration of Provision of Data	4154
 Duração	13,154,372,10208,30,583,12,58,11,7,3,5,78,35,329,123
 Duração da Execução	549
-Durban	411,550,402,1209,422,206,322,1503,376,407,161,155,59,182,106,587,21,939,247,338,1158,357,51,152,83,325,152,304,24,1023
+Durban	411,550,402,1209,422,206,322,1503,376,407,161,155,59,182,106,587,21,939,247,338,1158,357,51,152,83,325,152,304,24,1023,408
 Durban Central	2626
 Durban Container Terminal	11236
 Durban Container Terminal Pier	11236
@@ -372,7 +385,7 @@ Dustin Washburn	12478
 Dusty	12253
 Dusubiye	1214
 DutIes	1593
-Dutch	1828,79,403,1398,1318,1451,40,337,1582,456,12,35,2067,169,295
+Dutch	1828,79,403,1398,1318,1451,40,337,1582,456,12,35,2067,169,295,1070
 Dutch DPA	8436
 Dutch Dental Care Kenya	7167
 Dutch Development Bank	198,667,606,1,1
@@ -389,9 +402,13 @@ Dutch Supervisory Authority	8436
 Dutch and Kinyarwanda	12413
 Dutch and Norwegian DFIs	11300
 Dutch-North African Diplomacy	6997
-Duties	25,2,1566,2121,7464,21,661,529
+Duties	25,2,1566,2121,7464,21,661,529,137,23,80,15,1
+Duties and Obligations of Service Providers	12616
+Duties and Obligations of Service Providers Article	12616
 Duties and Responsibilities Monitoring	9123
 Duties and Responsibilities of Data Subjects	10341
+Duties of Commission	12549
+Duties of Commissioner General	12546
 Duties of Data Controller	972
 Duties of Data Controller Every	972
 Duties of Data Protection Officer	12185
@@ -403,6 +420,7 @@ Duty Cycle	34
 Duty Free	11955
 Duty Free Trade	12389
 Duty The Ministry of Defence	12226
+Duty of District Registrar	12523
 Dutzend Personen	11316
 Duvha and Matla	11228
 Duwayne EsauSpokesperson	11212
@@ -430,6 +448,7 @@ Egito Praia Durante	10298
 Eliminate Duplication	12022
 Emanuel Dundão	11479
 Engenharias. Duração	12019
+Enhancing Customer Financial Due Diligence and Promoting	12663
 Enock Duma	8943
 Equinix South Africa MD Sandile Dube	11844
 Estado. Durante	7705
@@ -441,10 +460,11 @@ Eswatini. For Dube	11048
 Euronext Dublin	4461,2285,4047
 Europe. Dutch	6879
 Excise Duty	6949
-Excise Duty Act	6409,540,1804,3455
+Excise Duty Act	6409,540,1804,3455,421
 Excise Duty Act. The Bills	7695
 Excise Duty Bill	7695
 Excise Duty Reforms	7695
+Existing Platforms Duration	12728
 Expected Duration	12364
 Exportation Duty Rates Exportation Of Goods	12454
 FINANCIAL STATEMENTS Duties	3714
@@ -452,6 +472,7 @@ FM Action Plan Responsible Due Date	11855
 FTTB Ducts Regulation P-6 Site Acquisition	11857
 FUNCTIONAL SHIFT DUE TO AI	11156
 FUNCTIONAL SHIFT DUE TO AI Systems	11156
+FY26-EpiC Lesotho-2026-002 Proposal Due Date	12754
 Facilitate the P-4 Duct Network Adopt	11857
 Faso. Durant	4870
 Features Automatic Duplexing Consumables	34
@@ -478,6 +499,7 @@ Grand Duchy of Luxembourg	7198
 Guidelines. P-4 Duct Network Development	11857
 Guinea Ecuatorial. Durante	10361,77,49
 Guinée. Durant	10137
+H.E. Advocate Duma Gideon Boko	12568
 H.E. Ambassador Yu Dunhai	5991
 H.E. Yu Dunhai	6003
 Health CS Aden Duale	3393
@@ -541,6 +563,7 @@ MINISTERS MEETING DURBAN	9761
 MTN Dubai	10793
 MTN Dutch Holdings	8025
 MTN Dutch Holdings B.V	5709
+MULTI-SECTOR INVESTMENT AT DUBAI TALKS	12750
 Mabunge Duniani	2868
 Madam Saybah Dunyan	12092
 Madame Julie DUBOIS	5206
@@ -598,6 +621,7 @@ OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Option Due	12038
 Orange Money DuelaEasy	5666
 Outstanding Work Items Due	5680
+PART III- Powers and Duties of Councils	12531
 PART V Duties of Data Controller	972
 PERFORMANCE OF THEIR DUTIES	12338
 PM Rui Duarte Barros	2351
@@ -621,7 +645,9 @@ Posta Dunia	6019
 Posta Duniani	2868
 Pour Nathalia Dukhan	4334
 Powers and Duties	3861
+President Advocate Duma Boko	12566,1,48
 President Advocate Duma Boko and Absa Bank	10051
+President Advocate Duma Gideon Boko	12552,54
 President Duma Boko	2553
 President Duma Gideon Boko Highlights Digital	2909
 Prime Minister Rui Duarte Barros	2351
@@ -662,6 +688,7 @@ Rwanda. Due	755
 République du Bénin. Motif Durée Mariage	10876
 S.E M. Duke Buchan III	5745
 SADC Model Law Duties	27
+SAST Duration of Consultancy	12754
 SEA and SH. Due	10829
 STIs Due	1988
 Sabot Duflo FINAL web.pdf	7151
@@ -705,6 +732,7 @@ Subject Contract Duration Automatic Renewal Service	5676
 System Average Duration Index	12358
 System Average Interruption Duration Index	12256,102
 System Average Interruption Duration Index SAIFI	12358
+Systems Duration	12728
 Sébastien Dupuis	10998
 TAKING DUTY SERIOUSLY’ United Democratic Front	12378
 TIFA Inside Politics Duale	7833
@@ -723,6 +751,7 @@ Title Organization Location Daniel Dupety Consultant	11525
 Tolouwachê Durand Lafounlou	7886
 Tom Duff Gordon	8692
 Transfer Duration and Frequency Contribute	10985
+Transfer Duty Act	12629
 Trinity College Dublin’s AI Accountability Lab	10727
 Tripartite. Due	2779
 Tshabalala and Dube	8022
@@ -746,6 +775,7 @@ West Africa. Due	11909
 Western Cape. Due	7343
 World Bank Duchochois	10841
 X4 RENAULT DUSTER	10821
+YET DUE	12717
 Year Duration Energy DSR of Shed	11953
 Yogo Dubois	3807
 Yzerfontein and Duynefontein	11234

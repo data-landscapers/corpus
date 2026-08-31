@@ -103,7 +103,7 @@ Instability	4750,7626
 Instabilité	10712,146,16
 Instabilité S’adapter	10874
 Instacash	11130,1213
-Instagram	318,643,1543,1,420,157,383,377,76,1,1,255,78,707,62,68,23,171,87,439,201,592,231,223,363,39,182,2,407,386,374,1,80,93,15,83,29,286,219,85,513,16,15,457,29,72,18,38,156,31,309,176,123,12,20,191,116,9,9,41,96,41,12,13,168,13,46
+Instagram	318,643,1543,1,420,157,383,377,76,1,1,255,78,707,62,68,23,171,87,439,201,592,231,223,363,39,182,2,407,386,374,1,80,93,15,83,29,286,219,85,513,16,15,457,29,72,18,38,156,31,309,176,123,12,20,191,116,9,9,41,96,41,12,13,168,13,46,288
 Instagram Impressions	8999
 Instagram and Facebook	12336
 Instagram and LinkedIn	10464
@@ -127,9 +127,9 @@ Instalação de Infra-estruturas	11520
 Instalação de Sistema de Videovigilância	539
 Instalações	4274,3066,4027,54,20,136
 Instalações de Controlo	6970
-Install	1988,1795,91,1209,1763,2277,1598,832,310,390,146
+Install	1988,1795,91,1209,1763,2277,1598,832,310,390,146,301,63
 Installability	5665
-Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41
+Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41,318,11
 Installation Environmental Impacts	12253
 Installation and CA	6946
 Installation and Commissioning	12253
@@ -259,6 +259,7 @@ Obtain the Installation Request	34
 Official Use Only Install	12253
 Onafriq and PAPSS Launch Africa’s First Instant	4901
 PROJET ET DES INSTANCES DE PILOTAGE	10711
+PROVISION AND INSTALLATION OF NETWORK EQUIPMENT	12763
 Paiement Instantané	10888
 Pillar In Investment Strategy Facebook Instagram	3768
 Pinterest Pin Instagram Follow Latest News	9925,238
@@ -291,6 +292,8 @@ SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
 STATE OF INCLUSIVE INSTANT PAYMENT	12000,269,1,220
 SUGF Banque INStaD DGB CAGeD DGFD	10876
 SUMTECH Renewable and Electrical Installation	10180
+SUPPLY AND INSTALLATION	12681
+SUPPLY AND INSTALLATION OF IT EQUIPMENT	12681
 Salary Instantly	3425
 Saúde Instalações	6970
 Scaling Instant Payments	5237
@@ -333,6 +336,7 @@ Supply and Installation of Datacenter Infrastructure	10839
 Supply and Installation of Wireless Infrastructure Solution	7951
 Système de Paiement Instantané	7621
 Sécurité FES Friedrich Ebert Stiftung INSTAT	6959
+TENDER FOR THE SUPPLY AND INSTALLATION	12681
 Tanzania Instant Payment System	269,14,238,990,4466,839,376,571,372,330,1812
 Tanzania Instant Payment System Phase	1511
 Tanzania Instant Payments System	2857

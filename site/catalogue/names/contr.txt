@@ -589,9 +589,9 @@ Affordable Housing Board Data Controller INST-2364763E1C0	7167
 Affordable and Contributing	8559
 Africa Center for Disease Control	560
 Africa Centers for Disease Control and Prevention	4049,2288
-Africa Centre for Disease Control and Prevention	562
+Africa Centre for Disease Control and Prevention	562,12113
 Africa Centres for Disease Control	5213
-Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721
+Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721,2922
 Africa Data Controller INST-7189263D4FA NAIROBI Kenya	7167
 Africa Nazarene University Data Controller INST-44287758F89	7167
 Africa's Voices Foundation Limited Data Controller	7167
@@ -618,7 +618,7 @@ Aissata Coulibaly ICR Main Contributor	11924
 Al-HAMEED MEDICAL CENTER LIMITED Data Controller	7167
 Algiers Tightens Trade Controls	5505
 Alice Wangui Gikandi Data Controller INST-54398826AED	7167
-Aliens Control Act	11176
+Aliens Control Act	11176,1472
 All the Telecommunications Contractors	6946
 Allan Mutange Data Controller INST-1231259F8B0 NAKURU	7167
 Almasi Financial Services Limited Data Controller	7167
@@ -1042,6 +1042,7 @@ BUZZAPP ENTERPRISES LIMITED Data Controller INST-751510916CF	7167
 BVQ MEDICAL CLINIC LIMITED Data Controller	7167
 BYRON TRUSTKETT INVESTMENT LIMITED Data Controller	7167
 BYTRONICS COMPUTERS LIMITED Data Controller INST-205399F2A1F	7167
+Background Meeting Targets and Maintaining Epidemic Control	12754
 Bahai Health Centre Data Controller INST-999582ABBFE	7167
 Baimoo Afya Medical Centre Data Controller	7167
 Bakisa Vocational Training Centre Data Controller	7167
@@ -1446,6 +1447,7 @@ CONTRAT DE PARTENARIAT ENTRE L’ETAT	2342
 CONTRATO PARA O PROJECTO DE MODERNIZAÇÃO	11372
 CONTRATOS Y MERCADOS DEL ESTADO- Concepto	4209
 CONTRATOS-QUADRO	10755
+CONTRAVENTIONS AND ENFORCEMENTS Article	12616
 CONTRIBUCIONES A ORGAN	4209
 CONTRIBUINTE PARA PAGAMENTO SIMPLICADO NO KONTAKTU	11532
 CONTRIBUIÇÕES	11532
@@ -1457,7 +1459,7 @@ CONTRIBUTING	11922
 CONTRIBUTION BY POTRAZ	578
 CONTRIBUTION OF THE ICT SECTOR	12395
 CONTRIBUTION TO THE NDP The DHA	11285
-CONTRIBUTIONS	12168
+CONTRIBUTIONS	12168,434
 CONTRIBUTORS Published	11586
 CONTROL ACT	6921
 CONTROL DE DESARROLLO NTEM NZAS CENTRO	4209
@@ -1703,7 +1705,7 @@ Contraceptive	10829
 Contraceptive Device JKIA Jomo Kenyatta International	2775
 Contracepção	10777
 Contracepção de Emergência	10777
-Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11
+Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11,149,144,7
 Contract A Lump-Sum	11869,72
 Contract Account Number. Customers	8231
 Contract Article	11956
@@ -1737,7 +1739,7 @@ Contracted Capacity	11953
 Contracted Capacity PHED Port Harcourt Electricity	12062
 Contracted Workers Contracted Workers The Borrower	1988
 Contracting	962,3255,3049,1280,2979,26
-Contracting Authority	3787,2006
+Contracting Authority	3787,2006,6815
 Contracting States	10841
 Contracting System	10008
 Contracting and Disposal of Surplus	10008
@@ -1857,6 +1859,7 @@ Contrats de Projet	10975
 Contraven-	11976
 Contravention	3714,4608,542,3112
 Contraventions	5785
+Contraventions Measures Article	12616
 Contravenções	14,1,561,6394,3777,8,605,951
 Contravenções Especialmente Graves	10755
 Contre	6613
@@ -1895,12 +1898,12 @@ Contribuições	4274,304,6852,11,86,5,18,468
 Contribuições Atraso	11532
 Contribuições Juros	11532
 Contribuições Recebidas Empresas	11490
-Contribute	1885,1976,567,11,424,384,286,620,5082,301,450,370
-Contributed	5224
+Contribute	1885,1976,567,11,424,384,286,620,5082,301,450,370,202,117
+Contributed	5224,7505
 Contributes	861,2930,466
 Contributeur	4567
 Contributeurs Salissou Soumana Karimou Webmaster Société	9668
-Contributing	11,571,998,721,36,582,39,76,44,155,102,773,471,15,670,9,64,253,29,80,594,1239,223,613,126,756,117,372,229,568,595,787,37,440,72
+Contributing	11,571,998,721,36,582,39,76,44,155,102,773,471,15,670,9,64,253,29,80,594,1239,223,613,126,756,117,372,229,568,595,787,37,440,72,152
 Contributing Partner	6153
 Contributing Partners	6153
 Contributing Partners Program	6153
@@ -1952,7 +1955,7 @@ Contributors Dr. Emrys Schoemaker	11006,1
 Contributors Raymond Onuoha	6948
 Contributors Task Team	11188
 Contribuya	1701
-Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202
+Control	34,384,300,983,287,1515,148,558,904,133,271,18,952,78,269,637,260,399,123,960,24,162,38,179,541,564,72,363,701,95,4,354,202,16,141
 Control APPENDIX	1000
 Control Act	6921
 Control Administrative Officer for Civil Registration	7905
@@ -1983,12 +1986,16 @@ Control and Coordination Committee	1554
 Control and Prevention CoD Cause of Death CRDP	12151
 Control and Prevention Comité Nacional de Bioética	10777
 Control and Registration	11939
+Control and Surveillance Coordination Centre	12640
 Control da Polícia Nacional	10788
 Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Corruption	1828,2700
 Control of Counterfeit and Low-Quality Medicines	10776
+Control of Digital Services	12562
 Control of Foreign Products	4045
+Control of Goods	12535,94
 Control of Goods Act	8399
+Control of Goods Prices and Other Charges	12629
 Control of HIV	11417
 Control of Neglect-	10780
 Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
@@ -2004,7 +2011,7 @@ Controlar	163,1538,2517,7163,68,3,66,503
 Controles	2816,1393
 Controlled	3503,7653
 Controlled Deployment and Pilot Activation	6442
-Controlled Environment	6975
+Controlled Environment	6975,5700
 Controlled Medicines	9855
 Controlled Transfers	3861
 Controlled Transfers Cross-border	3861
@@ -2814,7 +2821,7 @@ Data Controller INST-9993924E7E6 NAIROBI Kenya	7167
 Data Controller Licence	5562,4606
 Data Controller License	1877,1126
 Data Controller Licenses	2987
-Data Controller and Data Processor	27
+Data Controller and Data Processor	27,12522
 Data Controller and Data Processor Information	27
 Data Controller and Processor of Major Importance	8118
 Data Controllers	2873,5205,40,60,3778,37,309
@@ -3117,6 +3124,7 @@ GEORGE KHATEIH MUSEVE Data Controller	7167
 GESTÃO E CONTROLO DE TRÁFEGO	11531
 GILL GRAY PHILANTHROPY RWANDA Data Controller	7167
 GITIMBINE Data Controller INST-9883074DA3A MERU Kenya	7167
+GLOSSARY Term Definition Access Control Role-based	12675
 GOUVERNANCE ET CONTRÔLE INTERNE Article	10836
 GSMA Contributor	10822
 General Administration for Emergencies and Epidemic Control	7809
@@ -3408,6 +3416,7 @@ Media Access Control Parameters	3604
 Media Limited Data Controller INST-801646B309F NAIROBI	7167
 Medidas de Control	9543
 Merger Control	12389
+Meter Control Center MDMS Meter Data	12717
 Migration Control	11960
 Million Contract	6044
 Million Tax Digitalization Contract	11001
@@ -3440,11 +3449,14 @@ Nandi County Data Controller INST-63153456D27 NANDI	7167
 Narcotics Control Commission	587
 National AIDS Control Council	4260,7878
 National Authentication and Access Control Service	12455
+National Cancer Control Plan	12606
 National Command and Control Centre. Digital Services	11774
 National Contravention Register	7755
 National Control Centre for Energy European Commission	844
 National Determined Contribution	970
 National Distribution Control Center	87
+National Drug Control Master Strategy	12566
+National Drug Quality Control Laboratory	12583
 National Drug Substance Abuse Control and Enforcement	3746
 National Malaria Control Program Report	10776
 National Malaria Control Programme	10776,813
@@ -3522,6 +3534,7 @@ P HOUSE COMPANY Data Controller INST-794111D7814	7167
 PAC Partial Activation of Contract PCC Partial	12062
 PART V Duties of Data Controller	972
 PART V- OBLIGATIONS OF CONTROLLERS	1474
+PAS II Service Contract	12706
 PEACOCK MANAGEMENT LIMITED Data Controller INST-5230737C7E4	7167
 PERIOD Capital Contributions	11955
 PERSONAL JURISDICTION OVER DATA CONTROLLERS	3861
@@ -3543,6 +3556,7 @@ Partially Contracted Capacity	12062
 Participant Internal Controls The Participants	12364
 Partner Contributions	11469
 Partners Centre for Disease Control	12291
+Passport and Border Control System	12597
 Passport and Border Control System. Under Civil	5250
 Payroll Management and Establishment Control System	12453
 Pensiones No Contributivas	4209
@@ -3613,6 +3627,7 @@ PubMed Google Scholar Contributions	9739
 PubMed Google Scholar Contributions Conceptualization	10784
 Public Contracts Minister	2221
 Public Contributions	12478
+Public Officers’ Defined Contribution Pension Fund	12701
 Public Works and Transport Data Controller INST-2314000B989	7167
 Publication of Contracts and Contract Amendments	12389
 Puestos de Control	4209
@@ -3765,6 +3780,7 @@ Standard Contractual Clauses	5244,6712,37
 Standstill Period Between Contract Award Notice	12389
 Statement of Compliance The Contract MUST	6432
 Stock Exchanges Control Act	3714
+Storage Controller	12681
 Stratégie National de Lutte Contre	3396
 Strengthen Monitoring of Government Contracts By Lawrence	11615
 Structural Contradiction Africa	7337
@@ -3834,7 +3850,7 @@ Transmission Control Protocol	1036
 Transmission Control Protocol Internet Protocol	11179
 Transmission and Distribution Service Network Contracts	12320
 Trata-se da Proposta de Lei Contra Informações Falsas	11415
-Trust Property Control Act	11276
+Trust Property Control Act	11276,1276,6,71
 Trustees Data Controller INST-813173D2D9A NAIROBI Kenya	7167
 Tráfego de Controlo de Telecomunicações	8745,219
 U.S. Centers for Disease Control	12334

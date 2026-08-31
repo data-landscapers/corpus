@@ -23,6 +23,7 @@ Asian and Oceanic Countries	12383
 Atlantic Ocean	395,818,434,728,302,7459,93,926,246,151,357,418,40,32
 Aug-24 Sep-24 Oct-2	12256
 BANCO DA AFRICA OCIDENTAL BDU CORIS	11588
+BASE-T OCP3 Adapter for HPE	12681
 BFT Oct	1041
 Bed Night Occupied	2775
 Bed-Nights Occupancy	2775
@@ -63,11 +64,13 @@ DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
 Date of Occurrence	12151
 Death Occurring	12226
+Department of Occupational Health and Safety	12597
 Dial Oct	511
 Digital Ocean	9594
 Director Mr. Charles Ocici	8969
 Directorate of Occupational Health and Safety	12253
 Disposal Occupational	1988
+District and Site of Occurrence	12672
 Dr. Ochola	8865
 Dr. Robert Ochola	4357,2716,633,1159
 Dr. Wilfred Ochieng Clinical Pharmacology Kabarak	9855
@@ -192,6 +195,7 @@ NOSS National Occupational Skills Standards OHS	1818
 NSER National Socio-Economic Registry OCGS Office	11133
 NYDA National Youth Development Agency OCIO	11261
 National List of Occupations	6832
+National Occupational Safety and Health Policy	12597
 National Occupational Skills Standards	1818
 National Strategic Plan for Tuberculosis OCHA	10776
 National Youth Development Agency OHS Occupational	11198
@@ -369,6 +373,7 @@ Oct-2032 Bank	3562
 Oct-24	12256
 Oct-24 Nov-24 Dec-24 Jan-25 Feb-25 Mar-25	12256
 Oct-25 Nov-25 Dec-25 Jan-26 Feb-26 Mar-26	12062
+Oct-25. Current	12717
 Oct-Dec	1944,4727,275,4188
 Oct-Dec Voice	6671
 Octagon	9332
@@ -376,6 +381,7 @@ Octavia Carbon	7482
 Octivius Kahiya	5315
 October-2023	1154
 October-2025	3917
+October-April	12611
 October-December	969,243,1563,4092,1
 October-November-December	2775
 October116	12201
@@ -405,7 +411,8 @@ Padrão Global OC4IDS	9432
 Patricia Asero Ochieng and Others	3005
 Per Diem Occupational Health Local	1988
 Perform Occupational Health and Safety Act	11986
-Place of Occurrence	2775,9376,75
+Place of Occurrence	2775,9376,75,446
+Place of Occurrence and Sex of Decedent	12672
 Plateau. Occasion	2911
 Pour Robert Ochola	7826
 Present Value OHS Occupational Health and Safety	10829

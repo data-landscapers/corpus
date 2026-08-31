@@ -15,7 +15,7 @@ AI Citizen Service Assistant for Smart Local	10347
 AI City Scheme	7845
 AI City Scheme AI City Scheme	7845
 AI City Scheme Certificate	7845
-AI for Citizens	4528,7984
+AI for Citizens	4528,7984,211
 AI-powered Smart City	12210
 AIR CI	2342
 AKONIBE CIUDAD	4209
@@ -110,6 +110,7 @@ Allexer Namundjembo The City of Windhoek	8676
 Amadou A. Cisse	9861
 Ameaça Cibernética	6970,4466
 Amend the Civil Registration Code. ST	10765
+Amend the Filed CIT	12676
 Analysis of Civil Society Typologies	11028
 Analyzing Civil Society Actors' Definitions of Digital	11028
 Angola's President Signs Repressive Civil Society	9399
@@ -217,6 +218,7 @@ Blantyre City Council	5312,5286
 Bo City	4189
 Boas Práticas de Segurança Cibernética	9226
 Bobo. CITADEL	2732
+Body Lack of Civil Society Inclusion and Participation	12556
 BofA Securities and Citi	7198
 Bookmark Civil	9253
 Borno State. Cisco	8512
@@ -253,6 +255,7 @@ CEO of The Cimplicity Institute. Bernard Chadenga	3290
 CERC Business Plan Competition CISE Caisse	10964
 CESC Civil Society Centre for Learning and Training	12201
 CFO Eulogio Oyó Riqueza CFO Ciriaco	4209
+CFT ATM BSA CBL CIS CMA	12701
 CFT CBS CIF EA EAC EMDEs	11136
 CHAPTER Il CIVIL AND PENAL PENALTIES	10974
 CHP Community Health Promoter CIF Climate	2775
@@ -424,7 +427,7 @@ CIPC Values	11250
 CIPC's Intention	11250
 CIPC's Performance	11250
 CIPC's Total Revenue Trend	11250
-CIPESA	2549,456,353,214,686,986,241,628,19,162,500,155,1,1,9,157,561,1404,63,672,120,1074,299,1023
+CIPESA	2549,456,353,214,686,986,241,628,19,162,500,155,1,1,9,157,561,1404,63,672,120,1074,299,1023,358
 CIPESA Blog	10246
 CIPESA Public Dialogue	5485
 CIPESA Public Dialogue Series	5485
@@ -811,6 +814,7 @@ CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
 CONSERVER LES ARCHIVES D'ETAT CIVIL DELIVRER	3381
 COSTS OF A CIVIL STATUS DOCUMENT	12338
 CPoS-2023-01. More Citation Formats ACS APA	12486
+CR Civil Registration DA District Administrator	12663
 CR Civil Registry CSU Cadastro Social	10765,10
 CRS Civil Registration Services CRVS Civil	12151
 CRS Civil Registration System	12367
@@ -818,6 +822,7 @@ CRVS Civil	12367
 CRVS Civil Registration and Vital Statistics CSOs	12241
 CRVS Civil Registration and Vital Statistics D4H	12413
 CRVS Civil Registration and Vital Statistics DCI	11133
+CRVS Civil Registration and Vital Statistics DHIS2	12729
 CRVS Costed Plan and Civil Registry Rules	4257
 CS Ruku Citizen Digital	6192
 CSO Civil Society Organisation CSS Corporate	11261
@@ -1056,6 +1061,7 @@ Cirera	7655,3201
 Cirilo Ndong Oyana	9302
 Cisco	2157,1,151,560,244,119,209,21,146,18,71,14,95,53,575,38,1203,888,227,263,426,109,585,339,1164,508,37,26,686,297
 Cisco Academy	12241
+Cisco C9200L-48PXG-4X	12681
 Cisco Certified Support Technician	9621
 Cisco Explores AI for Nigeria Farmers Brian	8512
 Cisco Foundation	8512
@@ -1075,7 +1081,7 @@ Cisse	9861
 Citable	10969,915,1,10,264,1,45,146
 Citadel Valuers Limited Data Processor INST-36029396413	7167
 Citant	8452,3627
-Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112
+Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46
 Citation Adetayo	9256
 Citation Agence Nationale	7439
 Citation Banque	5740
@@ -1190,7 +1196,7 @@ Citing the African Development Bank	7692
 Citing the SIIPS	4285
 Citing the State of Inclusive Instant Payment Systems	4282
 Citiweb	8339
-Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22,44,11
+Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22,44,11,52,110
 Citizen Affairs	1616,2,1286,2292,337,5685,67,701
 Citizen Affairs Management	11986
 Citizen App Search	12209
@@ -1220,9 +1226,12 @@ Citizen Engagement Indicator MIS	11855
 Citizen Engagement Stats Public I-32	10785
 Citizen Engagement Survey	12241
 Citizen Engagements	9437
+Citizen Entrepreneurial Development Agency	12540
+Citizen Entrepreneurial Development Agency LEA	12540
 Citizen Experience Management	12359
 Citizen Experience Management MINALOC RGB RGB	12359
 Citizen Experiences	11994,233
+Citizen Feedback Mechanism	12665
 Citizen Feedback System	6432
 Citizen Fraud Probe	5558
 Citizen Frequency User	736
@@ -1238,6 +1247,7 @@ Citizen In the World Bank’s GovTech	4612
 Citizen Interactions	9455
 Citizen Justice Chacha Mwita	6796
 Citizen KSh	5660
+Citizen LS	12696
 Citizen Lab	5215
 Citizen MCDA	12157
 Citizen Mbeya. Tanzania’s Personal Data	5002
@@ -1304,7 +1314,7 @@ CitizenExperience Management	12359
 CitizenLab	9201
 CitizenTVKe	6133
 Citizenry	4528,7984
-Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80
+Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222
 Citizens Advice Bureau	11648
 Citizens Benefits	395
 Citizens Budget Satisfaction Survey	11866
@@ -1332,8 +1342,8 @@ Citizens' Gavel	11996
 Citizens' NINs	3938
 Citizens' Track for AI	7320
 Citizens. Broadband	6539
-Citizenship	899,980,1208,1040,129,1277,663,1373,698,1701,90,1160,46,21,654,17,30,202,139,73
-Citizenship Act	1867,12,109,3262,283,2747,3706
+Citizenship	899,980,1208,1040,129,1277,663,1373,698,1701,90,1160,46,21,654,17,30,202,139,73,197
+Citizenship Act	1867,12,109,3262,283,2747,3706,611
 Citizenship Act No	12449
 Citizenship Advisory Panel	11264
 Citizenship Card	10714
@@ -1484,11 +1494,14 @@ Civic Watch	6680
 Civic Watch Cameroon	10370
 Civic Watch Cameroun. Avant	6680
 Civic and Voter	10016
+Civic and Voter Education	12753
+Civic and Voter Education Strategy	12756
+Civic and Voter Education Strategy and Voter	12756
 Civic-public	1161
 CivicTech	10785,1082
 Civics Services	5533,6453
 Civicus	9022
-Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9
+Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84,22,19,27,1,21,22,54,160,1,4,121,451,13,1,5,6,7,23,13,34,28,167,13,50,126,1,6,3,1,18,2,9,9,23,14,31,9,138,60,23
 Civil Abogado	4209
 Civil Action No	5692
 Civil Adaptation and US	970
@@ -1573,7 +1586,7 @@ Civil Registration Services Directorate	12151
 Civil Registration Services The Kenya Vital	12151
 Civil Registration Services and Legal Affairs	9696
 Civil Registration Substantive	10775
-Civil Registration System	10991,1160,186,30,46
+Civil Registration System	10991,1160,186,30,46,259
 Civil Registration System Mozambique	12167
 Civil Registration Systems Development	10822
 Civil Registration Units	10765,10
@@ -1589,13 +1602,16 @@ Civil Registration and National Identification Regulations	7644
 Civil Registration and Social Protection	444
 Civil Registration and Social Protection Systems	444
 Civil Registration and Vital	12241
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43
+Civil Registration and Vital Events	12533
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226
+Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics DG	12338
 Civil Registration and Vital Statistics Department	10765,10
 Civil Registration and Vital Statistics Strategic Plan	12334
 Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46
 Civil Registration and Vital Statistics Systems	11133,1280
+Civil Registration and Vital Statistics The Mountain	12761
 Civil Registration of Ethiopians	12226
 Civil Registration. Best	12340
 Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21
@@ -1638,7 +1654,7 @@ Civil Service and Administrative Modernization	3280
 Civil Service and Vice Chairperson	8371
 Civil Service and Vice-Chair	8371
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162
 Civil Society Alliances for Digital Empowerment	12442
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
@@ -1657,12 +1673,13 @@ Civil Society Learning and Training Centre	12201
 Civil Society Legislative Advocacy Centre	10093,1773
 Civil Society Leveraging	899
 Civil Society MoFNP	12453
+Civil Society Organisation	12551
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120
+Civil Society Organisations	1630,919,2695,2213,2273,1281,849,473,120,300
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization DHIS2	10776
 Civil Society Organization DPI Digital Public	7548
-Civil Society Organizations	1778,6155,3074,122,731,144,171,181
+Civil Society Organizations	1778,6155,3074,122,731,144,171,181,319
 Civil Society Organizations COVID-19 Corona Virus	12241
 Civil Society Organizations Financing	7548
 Civil Society Organizations and Development Partners	11863
@@ -1676,7 +1693,8 @@ Civil Society and Advocacy Groups	11952
 Civil Society and Business Leaders	11275
 Civil Society and Community Involvement	3861
 Civil Society and Media Support Organisations	9660
-Civil Society and Non-Governmental Organizations	4528
+Civil Society and Non-Governmental Organisations	12591
+Civil Society and Non-Governmental Organizations	4528,8164
 Civil Society and Public Interest Litigation	9817
 Civil Society and Who Represents	11028
 Civil Society's Role	11028
@@ -1704,12 +1722,14 @@ Civil and Criminal Identification Unit	10775
 Civil and Criminal Records	10979
 Civil and Family Registration Proclamation	12226,24
 Civil and Family Registration Proclamation No	12226,24
-Civil and National Registration	5634
+Civil and National Registration	5634,6899,64
+Civil and National Registration MLHA	12639
 Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245
 Civil and Political Rights ICERD International Convention	12201
 Civil and Political Rights. Article	10453
 Civil and Political Rights.31 B. International	3583
 Civil and Public Services	7659
+Civil and Vital Statistics Unit Tel	12639
 Civil registration	10979
 Civil-Society Coalition Call	6770
 Civil-society	1375,9354
@@ -1760,6 +1780,7 @@ Closing Civic Space	1250
 Co-Benefits. Citizen Engagement	10829
 CoK City of Kigali CSI Cybersecurity Strategic	718
 Code Civil Mauricien	7845
+Coherent Action CII	12759
 Collab Citizen	11251
 Collab Citizen App	11251
 Colombia Civil Registry Information System	10714
@@ -1896,9 +1917,13 @@ Department of Civil Registration Hass Plaza	12151
 Department of Civil Registration ICT	12337
 Department of Civil Registration Services. Nairobi. Kenya	12138
 Department of Civil Registry	4257
-Department of Civil and National Registration	1662,3972
+Department of Civil and National	12533,40
+Department of Civil and National Registration	1662,3972,6899,1,63,10,32
+Department of Civil and National Registration The Department	12533
+Department of Immigration and Citizenship	12573,24
 Department of Immigration and Citizenship Services	7070,5147
 Department of Immigration and Civil Status	1884
+Department of National Identity and Civil Registry	12663,98
 Department of National Registration Passport and Citizenship	12415
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Citizens	12210
@@ -1919,6 +1944,7 @@ Digital Citizen Engagement The AFW	11867
 Digital Citizen Engagement and GovTech Enablers. Tanzania	4612
 Digital Citizen Identity	3117
 Digital Citizen Serra Leoa	11569
+Digital Citizens Forums	12564
 Digital Citizenship and Online Safety Initiative	9829
 Digital City	3314,2123
 Digital Civic	12241
@@ -1988,6 +2014,7 @@ ELECTRONIC RECORDING IN CIVIL STATUS REGISTERS	12338
 EN16931 CIUS	8670
 EPC CI	2342
 ESEC SNAPSHOT OF CIVIL REGISTRATION	12138
+ESTABLISHED BY THE DEPARTMENT OF CIVIL	12607
 ESTADO CIVIL	11421
 ESTADO PARA CIÊNCIA	11391
 ESTRATÉGIA NACIONAL DE CIBERSEGURANÇA	4146,7251
@@ -2073,6 +2100,7 @@ Exchequer State Department Civil	7548
 Expand Civil Registration Services	10521
 Export Corporation CIIP Critical	10765,10
 Expropriation and War and Civil Disturbance	1543
+F for CIT	12676
 FCP CIE	2342
 FEC-approved Federal Civil Service Digital	10156
 FREE VISA TO ALL TANZANIAN CITIZENS	7506
@@ -2097,6 +2125,7 @@ Feu FANNY Ibrahima CIDT	2342
 Ficheiro Informático de Cidadãos Maiores	5791,5634
 Ficheiro de Cidadãos Maiores	10428
 Fiji Civil Registry	10714
+File CIT	12676
 Filets Sociaux CI	2713
 Film and Cinema	3990
 Film and Cinema Key Headlines	9781
@@ -2173,6 +2202,7 @@ Government And Civil Society	18
 Government And Civil Society. Flow Type	7589
 Government CIRT Component	1704
 Government CIRT10	1704
+Government Civil	12674
 Government Press and Nairobi City County	3983
 Government Services Bus and Citizen Support Services	11640
 Government and Citizens	395
@@ -2222,11 +2252,13 @@ I I Citizenship of Applicant Contact Person	736
 I. Understanding the Circular	6735,200
 IA. CITADEL	2732
 IADB Dictionary of Civil Registration and Identification	12338
+ICAO International Civil Aviation Organization ICT	12663
 ICD10. The Civil Registration Service	12138
 ID Austria Civil Registry	10714
 ID BRR Civil State Registration	10714
 ID Denmark Civil Registration System	10714
 ID and Civil Registration	445,11883
+ID and Civil Registry	12663
 IDs. Citizens	9696
 II Ciclo	4044,6722,621,32,2
 II Ciclo Ensino Secundário	10766
@@ -2258,7 +2290,7 @@ Immigration and Citizen Services Principal Secretary	2742,183
 Immigration and Citizenship Agency	3408,1902,5211
 Immigration and Citizenship Service	10709,1517,24
 Immigration and Citizenship Services	12250
-Immigration and Citizenship System	5250
+Immigration and Citizenship System	5250,7347,15
 Implement CI	6432
 Implementação da Política de Segurança Cibernética	11377
 Implications for Investors The Circular	9750
@@ -2394,6 +2426,7 @@ La Maison du Citoyen	260,40
 Labo Citoyennetés	10812
 Laboratoire Citoyennetés	10812
 Laboratórios de Investigação Científica	11385
+Lack of Civil Society Inclusion and Participation	12556
 Lagos City Hall	11129
 Launches Digital Skills Training Programme for Civil	5276
 Laying the Foundation for Digital Citizenship	3313
@@ -2411,6 +2444,8 @@ Lei de Segurança Cibernética	2816,4920
 Lei de Segurança Cibernética. Lei	6970
 Leis da Segurança Cibernética	7047
 Les Sèmè City Hubs	5512
+Lesotho Internet Exchange Point City	12743
+Lesotho’s National ID and Civil Registration System	12663
 Ley de Funcionarios Civiles	4209
 Liberia CI Critical Infrastructure DDoS Distributed	1777
 Life Counts Nairobi City County	12151
@@ -2487,7 +2522,7 @@ Masaka City	2928,495
 Masdar City	12261
 Maseru City	2674
 Maseru City Construction Permit	2674
-Maseru City Council	2674
+Maseru City Council	2674,10000
 Mass Registration Program for Civil Registration	10765,10
 Massyla CisséDate de Deces	5022
 Master's Office. Citizens	5032
@@ -2523,6 +2558,7 @@ Ministry of Economy and Finance. Civil	1982
 Ministry of Energy Civil Society Organisations	21
 Ministry of Foreign and International Affairs Civil	1161
 Ministry of Home Affairs. Citizens	10017
+Ministry of Home Affairs’ National Identity and Civil	12663
 Ministry of Information and Civic Education	5898,3866,202
 Ministry of Interior’s Civil Status Sector	11739
 Ministry of Labor Source and Civil Service Fiduciary	10870
@@ -2558,6 +2594,7 @@ Mozambican Civil Procedural Code	12161
 Mozambique's Civil Code	12161
 Mozambique's National Directorate of Civil Identification	1800
 Ms Cindy	11289
+Ms Cindy Kememi	12591
 Multi-Stakeholder Engagement and Civil Society Integration	3861
 Municipal Departments of Civil Registry and Notaries	10765,10
 Mvera Innovation City	12172
@@ -2569,6 +2606,7 @@ NACIONAL CIBERNÉTICOS Y DE SEGURIDAD LUCHA	4209
 NBS Bank and Blantyre City Council	5312
 NCCE National Commission for Civic Education	6936
 NDGC Circular	3861
+NICR National Identity and Civil Registry NID	12663
 NIDP and Immigration and Citizenship Services	12188
 NIEFANG CIUDAD	4209
 NISR Chapter Civil Registration System	12413
@@ -2614,6 +2652,7 @@ National Civil Registration Act The Sierra	2113
 National Civil Registration Agency	7289
 National Civil Registration Authority	1161,494,458,759,109,2104,363,2968,404,524,12,14,1210
 National Civil Registration Authority Statistics Sierra	1161
+National Civil Registration Civil	12533
 National Civil Registration Office	2319,2275
 National Civil Registration Office of Cameroon	10972
 National Civil Registration and Vistal Statistics System	12138
@@ -2628,6 +2667,7 @@ National Department of Health Civitas Building Cnr	396
 National Directorate of Civil	2972
 National Directorate of Civil Identification	1782,4552,1345,325
 National Emergency Operations Center CGD Citizen-generated	4214
+National Identity and Civil Registry	12672,86
 National Initiative for Civic Education	12291
 National Labour AI Competency Framework for Civil	4126
 National Office of Civil	3661
@@ -2869,6 +2909,7 @@ Recentering the Civic Internet	1071
 Reclaiming Data for Improved City Governance	5700
 Red Urbana Ciudades Muy	1701
 Redwood City	5628
+Refugees Citizenship Sixty-four	12627
 Reg. CIVIL	4209
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209
 Regime Jurídico da Cibersegurança	8880
@@ -3167,6 +3208,7 @@ Togo Minister of Digital Economy and Transformation Cina	4030
 Togo Reviews Civil Registration Law	11104
 Trabalhadores Cidadania	10750
 Trabalho Científico	12019
+Training of Village Health Workers and Civil Registration	12761
 Transformation Digitale Cina Lawson. ARCEP	1205
 Transformation Minister Cina Lawson	4279
 Transitory Provisions Civil	12226
@@ -3215,6 +3257,7 @@ VRR Somalia Civil Registry	10714
 VU La Circulaire	4420,147
 Vancouver Download Citation Endnote	12467,19
 Vanuatu Civic Identification	10714
+Village Health Workers and Civil Registration Officers	12679,82
 Voller CIPC Commissioner	11250
 Voting Card Mozambique Myanmar Civil Registry	10714
 WC West Coast DM Citrusdal	11986

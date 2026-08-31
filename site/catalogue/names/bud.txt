@@ -33,11 +33,15 @@ BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
 BUDGET BY INSTITUTION	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
 BUDGET DE L'ETAT	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,770,2955
 BUDGET DEFICIT	5655
+BUDGET ESTIMATES	12606
 BUDGET GLOBAL	10712
 BUDGET MENAPLN	10847
 BUDGET PERFORMANCE Actual-	9437
+BUDGET PROPOSALS Recurrent Budget	12602
 BUDGET REACTIONS	8723
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
+BUDGET SPEECH Ndaba Nkosinathi Gaolathe Minister	12588
+BUDGET UTILISATION RECURRENT BUDGET ESTIMATES	12602
 BUDGET VOTE	11285
 BUDGET-CREDIBILITY FINDING	1794,1413,2813,1068
 BUDGET-EXTRACT	1601,1,1,1,1,1,8,1,1,1,1
@@ -73,7 +77,7 @@ Buddy Buruku	10977
 Budg. Act. Budg. Act. Budg. Act	11907
 Budg. Targ. Targ. Targ. Education	11907
 BudgIT	5155,190,6521,76,54
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6
 Budget Address	12369
 Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
@@ -81,6 +85,7 @@ Budget Allocation Reported Expenditure Regional	3583
 Budget Allocations	3176
 Budget Annuel	3396,420,7060
 Budget Annuel REESS Rapport	10876
+Budget Botswana	12589
 Budget CAST	10847
 Budget CHF	690,1
 Budget Citoyen	1272,781,1484
@@ -97,6 +102,7 @@ Budget ETAT	10847
 Budget EUR	256,384,2,442,1
 Budget Education	10847
 Budget Estimate of National Expenditure. Acting CEO	3504
+Budget Estimates	12602
 Budget Etat	10874
 Budget Execution	1756,1,1,1,1,1,1,1,1,1
 Budget Execution Report	1756,1,1,1,1,1,1,1,1,1
@@ -120,7 +126,9 @@ Budget National. Article	4420
 Budget National. PFC-MTFP	1281
 Budget Office	10681,1185
 Budget Ouvert	6500,250
-Budget Performance	2527
+Budget Performance	2527,10061
+Budget Pitso	12584
+Budget Pitso Date	12584
 Budget Policy Statement	5108
 Budget Principaux Stratégique	10965
 Budget Prioritisation Framework	11193,31
@@ -128,10 +136,12 @@ Budget Process	7831
 Budget Process National Treasury	11289
 Budget Process Review	11289
 Budget Programming and Monitoring Congo	11907
+Budget Proposals	12588
+Budget Proposals for Organization	12580
 Budget Quote	11228
 Budget Reporting and Control Stores Accounts Payable	9437
 Budget Review	5199
-Budget Speech	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,742,221,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1010,540,759,2154,4021
+Budget Speech	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,742,221,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1010,540,759,2154,4021,722,2,8
 Budget Statement	970,776,2354,1,290
 Budget Statement and Economic Policy	7695
 Budget Statement and Economic Policy of Government	7695
@@ -141,6 +151,7 @@ Budget Structures	10858
 Budget Support	11863
 Budget Support Group	11863
 Budget Technologies	7548
+Budget Total Phase	12608
 Budget Treasury	7548
 Budget US	3339
 Budget Variance Analysis	9437
@@ -223,6 +234,8 @@ Convenção de Budapest. Os	2816
 Croissance Budget	10712
 Current Budget	2989
 D Budgetary	961
+DEVELOPMENT BUDGET	12597
+DEVELOPMENT BUDGET ESTIMATES	12606
 DIRECTION GENERALE DU BUDGET Introduction Dans	2476
 DIRECTION GENERALE DU BUDGET RAPPORT	3396
 DU BUDGET DE L'ETAT	3396
@@ -233,6 +246,9 @@ Delivering the Home Affairs Budget Vote Debate	11274
 Departments Affected By Supplementary Budget	2428
 Description BudgIT	5155,190
 Despite Budget Constraints	965,3804,120,206,68,334,86
+Development Budget	12580,17,1,4,4
+Development Budget for Organisation	12597
+Development Budget. RECURRENT BUDGET	12597
 Direct Budget Support	5655
 Direct Budget Support The Federal Government	5655
 Direction Generale du Budget	11794
@@ -272,6 +288,7 @@ Executive's Budget Proposal	6463
 Exécution Budgétaire	4420
 Exécution du Budget	998,9977
 FCFA Digital Budget	5458
+FINANCIAL YEAR BUDGET REQUESTS	12597
 FY2017 Budget Proclamation	750,540
 Federal Government Budget and Donor Agencies	11866
 Federal Ministry of Budget and Economic Planning	10063,93
@@ -279,12 +296,16 @@ Finance and Budget	5787,30
 Finance and Budget Committees of Parliament	7695
 Finance and Budget Minister Essowe Georges Barcola	4395
 Finance and Budget Minister Georges Barcola	7426
+Finance and Budget Oversight	12753
 Finance and Budget of Guinea	5787
 Financial Affairs and Budget Oversight Commission	3901
 Financial Resources and Budgetary Allocation	3861
 Financière Budget Renvoie	10876
+Fiscal Year Budget	12714
 Fiscal and Budget Decentralization	10775
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
+GSM Buddie	12690
+GSM Buddie Student	12690
 Gautam Budhnagar	11579
 Gender Responsive Budgeting	11193
 Gender-Responsive Budgeting	11193
@@ -372,13 +393,17 @@ Ministry of Budget Responsible	11916
 Ministry of Budget and Economic Planning	7143,4326
 Ministry of Budget and National Planning	11129
 Ministry of Budget and Planning	5072
+Ministry of Finance Recurrent and Development Budget	12598
 Ministry of Finance and Budget	969,12,2623,8254
 Ministry of Finance and Budget. The E-TAX	11858
 Ministry of Finance's Programme-Based Budget	4491
+Ministry's Budget Estimates	12602
 Ministère du Budget	3024,1133,241,22
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
+NAHPA Budget	12606
 NATIONAL BUDGET ALLOCATION	11285
 NCOP Plenary. The Budget	3200
+National Assembly the Budget Proposals	12588
 National Budget	940,344,2817,1146,5884,3,756
 National Budget Policy Statement	5851
 National Budget Social Protection	12373
@@ -413,6 +438,8 @@ PROGRAMME RESOURCE CONSIDERATIONS Budget	11986
 PROPORTION DU STRATEGIQUES BUDGET PAR AXE	10965
 PROVINCIAL BUDGET ALLOCATION	11285
 Parallel Budget Across	6588
+Parliament the Recurrent Budget Estimates	12602
+Parliament. These Budget Proposals	12580
 Parliamentary Budget Office	6463
 Penn Wharton Budget Model	11140
 Post Budget Seminar	11131
@@ -432,14 +459,25 @@ Project Activities Budget Funding US	395
 Project Description Budget Allocation District Specific	11986
 Project Management and Citizen Engagement. Budget	4653
 Proposed Capacity Building and Training Budget	12253
+Proposed Recurrent Budget	12606
 Proposed Revised Budget Post Restructuring	2989
 Prospective DPBEP Document de Programmation Budgétaire	10712
 Public Budget Preparation and Execution System	9489
 Public Information Budget	5244
 Publication of Budget	11866
 Quarterly Economic and Budgetary Review Reports	10313
+RECURRENT AND DEVELOPMENT BUDGET	12580
+RECURRENT AND DEVELOPMENT BUDGET REQUESTS	12580
+RECURRENT BUDGET ESTIMATES	12606
 RUBRIQUE EXECUTION BUDGET	998
+Recurrent Budget	12598,8
 Recurrent Budget Book	6431
+Recurrent Budget and Seventy Million	12597
+Recurrent Budget and Six Hundred and Fifty-Three Million	12606
+Recurrent Budget for Organisation	12597,5
+Recurrent Budget for Organization	12580
+Recurrent Budget of P1	12598
+Recurrent and Development Budget	12580,17,1
 Regional State Budget	5655
 Regulation and Standards Strategic Project Budget Funding	395
 Represented Political Party Savings and Budget Cuts	11986
@@ -483,6 +521,8 @@ Trillion Birr Budget	3176
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trillion Birr Federal Budget	7091
 UNDP United Nations Development Budgeting	11193
+VII. BUDGET UTILISATION FOR FINANCIAL YEAR	12598
+VIII. PROPOSED MINISTRY BUDGET FOR FINANCIAL	12598
 Vashish Kiranchand Sookrah Le Budget	7994
 Volatility Budget	12241
 Women’s Budget Initiative	11193

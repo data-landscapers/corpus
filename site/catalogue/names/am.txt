@@ -98,7 +98,7 @@ AMCON Managing Director and Chief Executive Officer	8157
 AMCOS	8465,1125
 AMCOST	6997
 AMCUL	9899
-AMD EPYC	9496
+AMD EPYC	9496,3185
 AMD and Microsoft	11740
 AMDIE	5745,1
 AMDIE. Designed	5798
@@ -112,6 +112,7 @@ AMELSTAR MEDICAL CENTRE Data Controller INST-1220615886B	7167
 AMEN Program	1954
 AMENDED STANDARDS	11269
 AMENDMENT	2677,1184,521,1305,1704,441,2481,94
+AMENDMENT ARTICLE	12527
 AMENDMENT BILL	4633,1239,5407,775
 AMENDMENT OF ARTICLES OF ASSOCIATION	4896
 AMENDMENT OF EXISTING STANDARDS	11269
@@ -192,6 +193,7 @@ AMODORA	10188
 AMOENA RESORT LIMITED Data Controller INST-1675796927E	7167
 AMOENA RESORT LIMITED Data Processor INST-1675796927E	7167
 AMOLO GACOKA	7167
+AMONG PARLIAMENTARIANS Resumption	12737
 AMOORE SPECIAL CLINIC LTD Data Controller	7167
 AMOORE SPECIAL CLINIC LTD Data Processor	7167
 AMOR HOMES Data Processor INST-509810F00A3 MOMBASA	7167
@@ -293,10 +295,12 @@ Africa. American Economic Review	12006
 Africa. Among	6794
 African Americans. Doctors	4426
 African Continental Free Trade Agreement AMP	5244
+African Development Bank AMI Advanced Metering	12717
 African Development Bank Group Amb. Baba	7452
 African Nations Among Top Cybersecurity Models	11917
 African and South American	124
 Africa’s AI Policy Ambitions Ignore Energy	5418
+Agreement Amending the SADC Protocol	12615
 Ahmad Amsyar	10764
 Ahmadou Al Amine Lô. Ministre	2442
 AiP. Among	11167
@@ -304,6 +308,7 @@ Ajab Amin	10841
 Al Americani	5714
 Al Amine Lô	2442
 Alaidar Amirseiit	10764
+Alain Amstutz	12712
 Albert Ludwig of AmCham Ghana	7696
 Albertina Amutenya	6676,2046
 Alexandre Amard	10714
@@ -559,9 +564,10 @@ Ambassadeur du Japon	8956
 Ambassadeur du Niger	8808
 Ambassadeur du Sénégal	11024
 Ambassadeurs	3396,6242,451
-Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778
+Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778,626
 Ambassador A.R. Chimbindi	5148
 Ambassador Abbas	10427
+Ambassador Al Harbi	12710
 Ambassador Anne Katusiime	7815
 Ambassador Bianca Odumegwu-Ojukwu	5991
 Ambassador Bitange Ndemo	12104
@@ -572,6 +578,7 @@ Ambassador David Pierre	8609
 Ambassador Dr Ali	3160
 Ambassador Dr. Kadah	8335
 Ambassador Dr. Mohamed Kadah	8335
+Ambassador Faisal Bin Falah Al Harbi	12710
 Ambassador Gong Tao	1088
 Ambassador Halinen	10510
 Ambassador Han Jing	10215
@@ -613,6 +620,7 @@ Ambassador of Dominica Philbert Aaron	9786
 Ambassador of Egypt	11738
 Ambassador of France	1229
 Ambassador of Iraq	11738
+Ambassador of Japan	12620
 Ambassador of Senegal	6869
 Ambassador of Uganda	6197,30
 Ambassadors	3604,5346,3378
@@ -709,12 +717,13 @@ Amenable	11956
 Amenazas	1701
 Amenazas Amenazas Debilidades	1701
 Amenazas Oportunidades Fortalezas	1701
-Amend	899,4345,1707
+Amend	899,4345,1707,5724,1
 Amend Official Voter Registration Law	9399
 Amend ZCSRA Act	11133
 Amend and Extend Agreement	1234
 Amend the Anti-Pornography Act	6949
 Amend the Civil Registration Code. ST	10765
+Amend the Filed CIT	12676
 Amend the Interception of Communications Act	6951
 Amend the Law	11906
 Amend the Lawful Interception Framework	958
@@ -724,7 +733,7 @@ Amend the Personal Income Tax Code	3479
 Amend the Regulations	6512
 Amend the Uganda Communications Act	6949
 Amende	10842
-Amended	585,5006,5618,60,588,205,32
+Amended	585,5006,5618,60,588,205,32,535,47
 Amended Broad-Based Black Economic Empowerment	11235
 Amended ICT Sector Code	6183
 Amended Mandatory Use of National Identity Card	1263
@@ -736,7 +745,7 @@ Amendes Transactionnelles Vu	7470
 Amending	1867,8989
 Amending the Law	11906
 Amendmen	10713
-Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22
+Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7,160,54,34,62,3,23,14,63,22,34,33,10,14,17,27,19,9,16,69,1,10
 Amendment Act	3383,2489,1079,3206,1042,1,786,68,178
 Amendment Bill	2626,2007,107
 Amendment Bill Bill	7548
@@ -763,6 +772,7 @@ Amendment of License Conditions	762
 Amendment of Prequalification Document	1638
 Amendment of S.I. No	1844
 Amendment of Schedule	5687
+Amendment of Schedules	12630
 Amendment of Sec	12208
 Amendment of Utilisation	12058
 Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195,352
@@ -802,7 +812,7 @@ America-First-Global-Health-Strategy-Report.pdf	4426,2508
 America-India Connect	5122,2243,1,1333
 America-to-Europe	11863
 America. Yet Nigeria	6266
-American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398,206,136,28,100,307
+American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398,206,136,28,100,307,23
 American AI	5216,41,516,1017,277,142,805,333,148,15,505,248,366,801,97,1213
 American AI Exports Program	5216,41,516,1017,277,142,1286,2032,783
 American AI Exports Program. Applicants	7067
@@ -1057,7 +1067,7 @@ Amofia Nara	6211
 Amon Magunje	10418
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Amonestación	163
-Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66,204,39,8,14,2,37,9,30,2,7,2,46,100,37,4,7,2,13,13,4,15,1,2,4,3,1,14,7,19,61,8,3,10,1,19,4,6,2,8,12,14,26,10,20
+Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66,204,39,8,14,2,37,9,30,2,7,2,46,100,37,4,7,2,13,13,4,15,1,2,4,3,1,14,7,19,61,8,3,10,1,19,4,6,2,8,12,14,26,10,20,73,45,38,6,7,1,41
 Among Age	12151
 Among CQC	9698
 Among Chadians	10841
@@ -1272,6 +1282,7 @@ Anthea P. Amadi-Echendu	7278
 Anthropic CEO Dario Amodei	9592
 Appeals. PART XI Consequential Amen	972
 Arbitration Tribunal.’’. Amendment	11279
+Area AML Anti-Money Laundering API Application	12663
 Aregash Getachew Hailu and Zerihun Yohannes Amare	12158
 Armas Amukoto	10148
 Arranjo Institucional de Gestão Ambiental	11406
@@ -1427,6 +1438,7 @@ Consejo Nacional de Medio Ambiente	1701
 Conselho de Gestão da AMECON	8003
 Consequential Amendments	3714
 Consider Latin America	2830
+Constitution Amendment Bill No	12556
 Constitution of Zimbabwe Amendment	3051,2682,1218
 Constitutional Amendment Act No	7782
 Continental Free Trade Area AM Accountability	1264
@@ -1447,6 +1459,7 @@ Cross-Sectional Survey Among Users Skip	10919
 Cross-Sectional Survey Among Users URL	10919
 Current Perceptions Among Senior Practitioners Seventy-two	11138
 Customs Act. Amiwero	9361
+Customs Amendment Bill	12598
 Cybersecurity Ambassador for Liberia	1777
 Cybersecurity and Personal Data Protection. Ambassador Wang	3029
 D. Amaglobeli	1828,9312
@@ -1475,6 +1488,7 @@ Data Protection Amendment Bill	7853
 Deaths Among	12151
 Deaths Among Children Under	12151
 Deeds Registries Amendment Act	11217
+Deep Fakes Amid Lack of Cyber Law	12687
 Department Matters Amendment Act	11986
 Deposit Protection Corporation Amendment Bill	8681
 Depreciation and Amortisation	3898,2202,1104,2435,24,479,1193
@@ -1487,7 +1501,7 @@ Dickson Amoung-Yam	8696
 Digital Advocates and Ambassadors	12241
 Digital Ambassador	2989
 Digital Ambassador Program	906,11422,110
-Digital Ambassadors	906,2083,615,1049,7312,276,87
+Digital Ambassadors	906,2083,615,1049,7312,276,87,395
 Digital Ambassadors Forum	7471
 Digital Ambassadors Guidelines	12241
 Digital Ambassadors Program	1903
@@ -1562,6 +1576,7 @@ EMP-SAL- AMT Employee Salary Amount Student	12360
 EMPLOYMENT SERVICES AMENDMENT BILL	11280
 END-USER AND SUBSCRIBER SERVICE CHARTER AMENDMENT	4732
 EPI TEC SP CP IF Americas	10840
+EPS Regulations. AML	12542
 ES OF AMERICA FEDERAL REPUBLIC Richard	4302
 ES.5 Latin America	10977
 ESRS Sumário da Revisão Ambiental	11390
@@ -1607,8 +1622,9 @@ Eng. Ammar Al-Bouzaidi	9262
 Eng. Amos Siwoi	1245
 English and Amharic	11607
 Enhance AML-CFT Compliance	940
-Enhancing AML	12432
+Enhancing AML	12432,252
 Enterprise AML	12297
+Environment and Tourism. Among	12551
 Equivalents Amounts	11134
 Erastus Amunwe	12478
 Eric K Amoh	10142
@@ -1668,6 +1684,7 @@ Finnish Ambassador Saana Halinen	10510
 Firearms and Ammunition Recovered	2775
 First Amendment Institute	5700
 Fiscalía Titular de Medio Ambiente	4209
+Flaccid Paralysis AMR Antimicrobial Resistance ART	12729
 Foreign Ministry and Chinese Ambassador	4630,50,637
 Formal Amendment Pathways	3861
 Foster United States of America-Kenya	4153
@@ -1763,8 +1780,10 @@ ID Ambassadors Programme	9873
 ID. Among	10775
 IHS Towers and American Tower Corporation	4896
 IHS’s Latin American	9330
+II. Among	12663
 III. A Ameaça Combinada	11436
 IMPACTOS AMBIENTAIS E SOCIAIS	11390,152
+IMPLEMENTATION ACH AML	12701
 IPOs Amazon Leo	6559
 Ibero América. OEI. Disponível	2816
 Ibrahim AM	11596
@@ -1803,6 +1822,7 @@ Inspecção Ambiental	11542
 Instrumentos Ambientais	11406
 Interagency Collaboration Among Law Enforcement Agencies	11928
 Interface AWS Amazon Web Services BCP	6432
+Internet. Among	12657
 Inês Amado	4938
 Início Precoce da Amamentação	10777
 Ishielu Amagunze	6211
@@ -1854,6 +1874,8 @@ Kenya’s Deputy Ambassador	6946
 Kenya’s Economic Outlook Remains Stable Amid	10822
 Khalil F. Al Americani	5714
 Kijiji Cha Amani	8201
+Kingdoms. Ambassador Faisal Bin Falah	12710
+Kingdoms. The Ambassador	12710
 Komi Amedjonekou ICT	5087
 Korean Ambassador	9729
 Kousseri and Amchidé	302,37
@@ -1904,6 +1926,7 @@ Legislação Ambiental	11406
 Legislação de Licenciamento Ambiental	11898
 Lei da Avaliação Ambiental	11542
 Leon Amos Schreiber	12047
+Lesotho's Digital Ambassadors	12723
 Ley de Delitos Ambientales	1701
 Ley de Educación Ambiental	1701
 Liberações Ambientais	11898
@@ -2056,6 +2079,7 @@ Mr. Amumpaire Raymond and Ms. Awino Mercy	3307
 Mr. Gabriel Amudipe	8586
 Mrs. Amal El Fallah Seghrouchni	6140
 Ms. Amaka Onyemenam	7314,594
+Ms. Amanda Khozi Mukwashi	12725
 Ms. Amanda Serumaga	11332
 Ms. Amazouz	4123
 Ms. Souhila Amazouz	1814,2309
@@ -2237,6 +2261,7 @@ Pesos de Amostragem	10777
 Petrus Amukugo	12478
 Philip Amoateng	10249
 PikaDo Amro Mohamed	11786
+Plan. Among	12759
 Plano de Acção. Norma Ambiental	11542
 Plano de Compromisso Ambiental	11406,136
 Plano de Gestão Ambiental	11406,136
@@ -2319,6 +2344,7 @@ Rabat. Par Amal Mountassir	7732
 Radio Amani FM Malinde	10097
 Radio Amateur Examination Certificate	736
 Radio Amateur Operator’s Certificate	736
+Raise Awareness Among Stakeholders	12675
 Rarieda's Otiende Amollo	9545
 Rayinatou Amidou	7355
 Raymond Amumpaire and Mercy Awino. Google	3312
@@ -2442,6 +2468,7 @@ South American	9832
 South East Asia and South America	4676
 South Sudan's Ambassador	3583
 Special Economic Zones Amendment Bill and Technopolis	6161
+Springer Nature America	12712
 Stability Amid Global Contraction	4972
 Starlink and Amazon	10673
 Starlink and Amazon Leo Cell C	10797
@@ -2451,6 +2478,7 @@ Statistics Amendment Act	11178,23,36,19
 Stephane Boyera and Aman Grewal	769
 Strategic Ambition	12356,88
 Strengthen AML	12444
+Strengthening Financial Consumer Protection and AML	12701
 Study Ranks Rwanda Among Africa’s	3256
 Sua Excelência Américo António Cuononoca	11436
 Submissão de Licenças Ambientais Mecanismo Disponível	11898
@@ -2525,7 +2553,7 @@ United Nations Economic Commission for Latin America	11572
 United State of America N	12151
 United States Ambassador	6199,65
 United States and American	7430
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Japan International Scene	2775
@@ -2559,6 +2587,7 @@ VodaCash. Al Americani	5714
 Voice of America	11868,359
 Voz de América	2444
 W M Guatemala LATIN W AMERICA	11964
+W. Hamdi and S. Amazouz	12675
 WAEMU. Amount-quality	508
 WERs. Among	12003
 Wacc Amortissement Base Tarifaire Nette	10975

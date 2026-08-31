@@ -24,7 +24,7 @@ Anti Money Laundering Unit	3691
 Anti Money Laundering Unit of EOCO	3691
 Anti- Money Laundering	11131,3
 Anti- Money Laundering and Counter Terrorist Financing	3583
-Anti-Money Laundering	789,2052,3857,1395,1657,257,1123,4,727,115,310
+Anti-Money Laundering	789,2052,3857,1395,1657,257,1123,4,727,115,310,251,61
 Anti-Money Laundering Act	587,6353
 Anti-Money Laundering Controls	10007
 Anti-Money Laundering The CBE Centre of Excellence	11134
@@ -32,6 +32,7 @@ Anti-Money Laundering and Combating Terrorism Financing	4633
 Anti-Money Laundering and Counter Financing of Terrorism	5131
 Anti-Money Laundering and Terrorist Financing Unit	11153
 AntiMoney Laundering	11136
+Area AML Anti-Money Laundering API Application	12663
 Article Cairo University Launches Free Program	5322
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
 Assistance Launched	11380
@@ -47,8 +48,11 @@ Basketball With Launch of Safari Classic	10151
 Benin Launches First Local Language Voice	3150
 Bishop Mafararikwa Launches Pedah Ministry Ahead	8639
 BoSS Launches First-Ever Electronic Interbank Payment	3736
+Body Revenue Services Lesotho Launches Integrated	12711
+Body THE EQUITABLE LESOTHO INITIATIVE LAUNCHED	12716
 Botswana Launches Community Wi-Fi	2999
 Botswana Tech Fund Launches	5879
+Botswana's Anti-money Laundering	12598
 Burkina Faso Launches Central Portal	6092
 Burkina Faso Launches Digital Travel Declaration	5758
 Burkina Faso's ARCEP Launches National Drive	6939
@@ -58,6 +62,7 @@ Burundi Launches Digital Civil Registry and Biometric	6111
 Burundi Launches Framework	5918
 Burundi Launches Real-Time Payments Platform Backed	5971
 Business Intelligence Platform Successfully Launched	11134
+CAFI ENTREPRENEURSHIP HUB LAUNCHES	12721
 CAMTEL and Government Launch Initiative	6489
 CBL Launches Inclusive Instant Payment System	4282
 CBN Launches Payments System Vision	6700
@@ -91,6 +96,7 @@ Digital Identity Innovation VP Mohadi Launches	3965,1438,1506
 Directive Launch Sequence	3861
 Directive Launch Sequence Upon	3861
 Director-General Coker-Odusote Launches	7144
+Ditladi Digital Centre Launches	12625
 Djezzy Launches Nationwide	5289
 Djibouti Launches Digital Skills Program for Government	2435
 Djibouti Launches G2B Digital Platform	4295
@@ -100,6 +106,7 @@ Dra. Elsie Laurence-Chounoune	758
 EAC and Germany Launch	9707
 ECOBLOX and Digital Parks Africa Launch Africa	11502
 EU EOM Chief Observer Laura	12201
+EXPERT Mr Richard Laux	12706
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273
 Eastern and Southern African Anti-Money Laundering Group	11134
 Eastern and Southern African AntiMoney Laundering Group	11131
@@ -178,11 +185,12 @@ Lauderdale	8283
 Laudolino Medina	11566
 Lauds Nigeria’s National Innovation Hub Standard	11304
 Lauer J	5242
-Launch	560,398,246,80,493,37,723,452,420,717,399,3,215,105,35,39,48,141,133,433,243,709,203,104,12,636,337,525,341,1878,110,86,270,2,103,627,43,34,46,8,198,18,4,27,115,43,45,55,13
-Launch AI	4126
+Launch	560,398,246,80,493,37,723,452,420,717,399,3,215,105,35,39,48,141,133,433,243,709,203,104,12,636,337,525,341,1878,110,86,270,2,103,627,43,34,46,8,198,18,4,27,115,43,45,55,13,163
+Launch AI	4126,8549
 Launch AI Infrastructure Hub	6332
 Launch AI Investor Education Program	4528
 Launch AI Investor Education Program for Cooperation	12512
+Launch AI Partnership	12675
 Launch ATLAS Umoja Backed	7825
 Launch Africa	3779,1380,720,78,1525,129,465,3,977,411,2872
 Launch Africa Seed Fund	7611
@@ -200,6 +208,7 @@ Launch CCZ Verified	3003
 Launch Collateral Registry By Maximilian K	9943
 Launch Customer	6467
 Launch Côte	3436
+Launch Date	12572
 Launch Digital Wallet	5322
 Launch Integrating Africa	11839
 Launch Jean Claude Musabyimana	12370
@@ -221,6 +230,7 @@ Launch of Dûnîa Platform	5268
 Launch of Geospatial Information Management Strategy	11275
 Launch of Integrating Africa	11839
 Launch of International Advisory Body	2677
+Launch of Lehokela App	12731
 Launch of MauStats	11332
 Launch of NDASC	3751
 Launch of NPR and Undertaking	12413
@@ -250,7 +260,7 @@ Launches Digital Skills Training Programme for Civil	5276
 Launches Fully Digital Business Registry System	3907
 Launches MSME Training National Information Technology	9117
 Launches the Political Economy of Digital Governance Report	5715
-Launching	2459,1983,498,382,624,1477,397,863,528,594,1505,437
+Launching	2459,1983,498,382,624,1477,397,863,528,594,1505,437,873
 Launching ATLAS Umoja AI Supporting	7825
 Launching Event By Stephen G. Fellajuahs	9861
 Launching LOS	9598
@@ -347,6 +357,7 @@ Ministry of Labour Launches Digital Strategy	12416
 MoTRI Launches Online Business Registration and Licensing	12259
 Money Laundering	3586,945,2921,3679,3,727
 Money Laundering Act	7845
+Money Laundering Regulations. Hence	12558
 Money Laundering and Financing of Terrorism	12404
 Monsieur Laurent Haba	11725
 Moov Africa Bénin Launches High-Speed Network	5981
@@ -375,6 +386,7 @@ OJK Officially Launches Inclusive Financial Ecosystem	11994
 OWLPRESS Fintech Firm Open Hub Launches	5939
 Officer In-Charge of Anti-Money Laundering Unit	3691
 Official Launch	5244
+Official Launch Date	12631
 Official Launch and Platform Capabilities The Fayda	12238
 Official Launch and Product Demonstration	3895
 Onafriq and PAPSS Launch Africa’s First Instant	4901
@@ -458,6 +470,7 @@ Technology Uganda Launches Two New E-Services	9783
 Togo Launches Biometric ID Registration	3437
 Togo Launches Digital Platform	11758
 Togo Launches Platform	11103
+Tourism Dashboard Launch Date	12620
 Trident Launches RDC-PASS	6753
 Tripoli Centre Launches BaladiyaBOT for Digital Municipal	5948
 Tuesday. Launched	8287

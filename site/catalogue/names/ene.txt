@@ -1,5 +1,6 @@
 A- Renewable Energy Percentage	7548
 A- Renewable Energy Sourcing Criterion A1-	7548
+A. Renewable Energy Support and Access Accelerator	12595
 AAAS Energy	3688,20
 AAAS Energy MD Maarten Mennes	3688
 AAAS Energy and ChillMine	3688
@@ -11,7 +12,7 @@ AI and Energy	7548
 ANGOLA ENERGIA	11366
 AU Commissioner for Infrastructure and Energy	7326
 About Convalt Energy Convalt Energy	6633
-Accelerating Sustainable and Clean Energy Access	2391
+Accelerating Sustainable and Clean Energy Access	2391,10356
 Act EPRA Energy and Petroleum Regulatory Authority	7548
 Addax Energy	3583
 Adopt Energy-Saving Practices	12389
@@ -34,6 +35,7 @@ African Union Infrastructure and Energy Department	8192
 African Union's Commissioner for Infrastructure and Energy	8113
 Africa’s AI Policy Ambitions Ignore Energy	5418
 Agency for Sustainable Energy ME Ministry of Energy	11549
+Agricultural Transformation and Energy Transition	12640
 Agriculture Transportation Energy Financial Services Lands	4126
 Agriculture and Digital Transformation Energy	11608
 Air Vice Marshal Effiom Enebong Ewa	9669
@@ -57,15 +59,24 @@ BESS Battery Energy Storage System BOAD	11549
 BESS Battery Energy Storage System BONA	12399
 BESS Battery Energy Storage System BWs	11228
 BII’s Virunga Energies	12006
+BOTSWANA ENERGY REGULATORY AUTHORITY ACT	12535
 Barr. Godfrey Nya Eneye	11993
+Battery Energy Storage System	12576
 Battery Energy Storage System Sources	11953
 Battery Energy Storage Systems	12256,143
 Battery Energy Storage Systems The Kenya	12256
 Beyond Connections Energy Access Diagnostic	423
 Biotechnology and Hydrogen Energy Dr Jitendra Singh	6480
 Blu Energy	11159,176
+Body NATIONAL ENERGY COMPACT FOR BOTSWANA	12563
 Boost Clean Energy	6743
+Botswana Energy Regulatory Authority	12535,18,42
+Botswana Energy Regulatory Authority Act	12535
+Botswana Renewable Energy Support and Access	12553
 Botswana Stock Exchange. Tlou Energy Limited	3649
+Botswana's Ministry of Minerals and Energy	12577
+Botswana's Ministry of Minerals and Energy and KP Group	12576
+Botswana's Renewable Energy Support and Access Accelerator	12553
 Building Energy Standards	12389
 Business Reporter Vivo Energy Botswana Expands	10151
 CEO of Convalt Energy	6529
@@ -86,6 +97,7 @@ CURRENT FUEL PRICES Current Energy Prices	12515
 Cabinet Secretary for Energy Davis Chirchir	1245
 Cabinet Secretary for Energy and Petroleum	10313
 Cameroon's Ministry of Water and Energy	6400
+Canada-World Bank Clean Energy and Forests Climate	12595
 Centre for Renewable Energy Systems Technology	12178
 Chief of Cabinet of Minister of Energy	11579
 Circular Energy	9869
@@ -128,7 +140,7 @@ DPDC NHPC ENEO	10975
 Danish Energy Agency	12233
 Data Centre IT Energy	12253
 Department of Electricity and Energy	11215,14,43
-Department of Energy	11342,548,435
+Department of Energy	11342,548,435,238
 Department of Energy and Electricity	11272
 Department of Infrastructure and Energy	4123
 Department of Mineral Resources and Energy	6683,4589
@@ -222,6 +234,7 @@ Electricity and Renewable Energy The Regulatory Board	718
 Electricité Actif Net Eneo	10975
 Electrification and Renewable Energy	899
 Electromagnetic Field EUCL Energy Utility Corporation	718
+Embrace Distributed Renewable Energy and Clean Cooking	12717
 Embracing Renewable Energy Over	11332
 Emissions and Energy Efficiency of Infrastructure	12389
 Emploi ENESI	10874
@@ -258,7 +271,7 @@ Energies Vendues MT	10975
 Energising Development	12191,33
 Energization Outcome	12358
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44,12,37,11,119,14,36,7,23,13,41,3,59,49,89,80,23,36,113,33,61,55,16,1,1,1,34,2,28,109,90,1,1,9,29,14,27,21,2,5,79,1,11,1,5,36,5,4,85,14,10,9,42,41,13,57,6,8
 Energy Access	10157,2076
 Energy Access Deficit	11923,268
 Energy Access Diagnostic Report	12376
@@ -284,7 +297,7 @@ Energy Charge	12394,42
 Energy City of Johannesburg Alternative Waste Technology	11248
 Energy Commission	6936
 Energy Committee	10313
-Energy Compact	11136
+Energy Compact	11136,1581
 Energy Compact23	3604
 Energy Conference	8755
 Energy Conservation	1988
@@ -305,6 +318,7 @@ Energy Development Corporation Limited	12358
 Energy Development Corporation Limited EDPRS	12358
 Energy Development Ministry of Water and Energy	12233
 Energy Disclosure of Public Records	10835,3,130,902,16,466,1,135
+Energy EC Energy Commission EIFU Energy	12717
 Energy Efficiency	3487,7469,313,1089
 Energy Efficiency Act	7845
 Energy Efficiency Energy	9446
@@ -333,6 +347,7 @@ Energy LNG Liquefied	12233
 Energy Landscape	12233
 Energy Landscape Ethiopia	12233
 Energy Lead Institutions	6936
+Energy Lefoko Moagi	12617
 Energy Lerato D. Mataboge and ITU SG	7326
 Energy Limit	12256
 Energy Limited	12256
@@ -395,6 +410,7 @@ Energy Specialist Abalo Irene Jerry Fabiano	12195
 Energy Specialist Selam Tarkeghn Neda	12195
 Energy Star	1264,2340,8361
 Energy Star58	3604
+Energy Statistics	12768
 Energy Storage IPP	11228
 Energy Storage IPP Bid Windows	11228
 Energy Subsidy Reform	1828
@@ -425,7 +441,7 @@ Energy and Extractives Global Practice Western and Central	11549
 Energy and Hospitality Rise	9815
 Energy and Industrial Strategy	11135
 Energy and Mineral Resources	1228
-Energy and Mining	6490
+Energy and Mining	6490,6108
 Energy and Minister of Economy	2667
 Energy and Natural Resources	10348
 Energy and Petroleum Regulatory Authority	4513,3035,2765,1879,64
@@ -477,6 +493,7 @@ European Atomic Energy Community	1243
 European Code of Conduct for Energy Efficiency	7489
 Excess Energy	11228
 Excess Energy Composition	11228
+Expand Energy Access and Economic Opportunity for Nearly	12747
 Expansion of Off-Grid Renewable Energy	12224
 FUTURE OUTLOOK ENERGY	12256
 Facility for Energy Inclusion Off-Grid Energy Ac-	11923
@@ -505,6 +522,7 @@ Godfrey Nya Eneye	11993
 Government Energy Kenya	11994
 Government Energy and Resources Authority	7548
 Government and Energy	9815
+Government's National Energy Compact	12595
 Green Bio Energy	10846
 Green Energy	3487
 Green Energy Africa Summit	12380
@@ -545,6 +563,7 @@ International Energy Agency	6935,613,183,58,1846,1334,171,170,262,312,11,264,33,
 International Renewable Energy Agency	11140,432,642,47
 International Renewable Energy Agency LDC	11572
 International Renewable Energy Agency Living Standards	11136
+International Renewable Energy Certificates	12604,5
 Ivoire Energies	2342
 Ivoire’s National Energy Compact	3604
 Japan Organisation for Metals and Energy Security	2626
@@ -557,6 +576,10 @@ Just Energy Transition Partnership.2.3	2626
 KENYA'S ENERGY	12256
 KENYA'S ENERGY BALANCE	12256
 KIPETO ENERGY PLC SOSIAN MENENGAI GEOTHERMAL	12256
+KP Energy Limited	12576
+KPI Green Energy Limited	12576,1
+KPI Green Energy Limited Email	12576
+KPI Green Energy Limited Moh	12576
 KenGen Green Energy Park	1245,394,82,1,5418
 KenGen Green Energy Park Olkaria	1721
 Kenya ENERGY	12256
@@ -567,9 +590,13 @@ Kenya's Minimum Energy Performance	12256
 Kenya. Kenya Ministry of Energy and Petroleum	12192
 Kisumu Energy and Petroleum Regulatory Authority	12256
 LARGE-SCALE RENEWABLE ENERGY MARKET INTELLIGENCE REPORT	11953
+LESOTHO NATIONAL ENERGY COMPACT	12717
+LESOTHO The Energy	12680
 Labour and Energy	7481
+Large Scale Renewable Energy and Power Infrastructure	12576,1
 Latin American Energy Organization	11572
 Lead Energy Specialist	11136
+Lesotho National Energy Compact Targets Under	12717
 Limited EWATSAN Energy	718
 Local Government. Energy	11245
 Logistics Clean Energy Access	4972
@@ -594,6 +621,7 @@ Mainstream Energy	5800
 Mais Energia	2989
 Mais Energia Grant Facility	2989
 Management Parameters for Energy-Efficient Ethernet	3604
+Management System MoE Ministry of Energy NES	12717
 Mandatory Minimum Energy Efficiency Performance Standards	12389
 Materials Energy Health Care Utilities Hardware	4972
 Measurement Study Ministry of Energy and Water Resources	11136
@@ -609,11 +637,13 @@ Minister of Energy Transition and Sustainable Development	4032
 Minister of Energy and Industry	11579
 Minister of Energy and Mining	6490
 Minister of Energy and Mining Lejone Mpotjoane	8801
+Minister of Minerals and Energy	12576,17,14
 Minister of State for Energy Ato Adisalem Mebrahtu	12195
 Ministro da Energia	3246,901
-Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661
+Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661,434,6,2
 Ministry of Energy Access	1988
 Ministry of Energy Civil Society Organisations	21
+Ministry of Energy Ministry of Finance	12674
 Ministry of Energy and Convalt Energy	6490
 Ministry of Energy and Dams	3583
 Ministry of Energy and Hydraulics	11936
@@ -623,7 +653,9 @@ Ministry of Energy and US-based Convalt Energy	6551
 Ministry of Energy and Water	11380
 Ministry of Energy and Water Resources	11136
 Ministry of Energy of Lesotho	6490
+Ministry of Minerals and Energy	12553,42
 Ministry of Minerals and Energy and P23.7	2736
+Ministry of Minerals and Energy. Table	12563
 Ministry of Mines and Energy	1242,4002,3844,3237,55,86
 Ministry of Mines and Energy Electricity Control Board	12399
 Ministry of Natural Resources and Energy	6273,757
@@ -660,20 +692,21 @@ NATIONAL ENERGY COMPACT FOR NAMIBIA Promote	12399
 NATIONAL ENERGY COMPACT FOR NAMIBIA Strengthen	12399
 NATIONAL ENERGY COMPACT FOR NAMIBIA Transmission	12399
 NATIONAL ENERGY COMPACT FOR NAMIBIA V	12399
+NATIONAL ENERGY COMPACT FOR THE KINGDOM	12680
 Namibia Centre of Excellence for Green Energy	9873
 Namibia Energy Institute. Nearly	1242
 National AI and Energy Ministry	7548
 National Assembly Energy Committee	4513
 National Clean Cooking Energy Strategy	10460
 National Control Centre for Energy European Commission	844
-National Energy Compact	5247,6689,463
+National Energy Compact	5247,6689,463,164,32,85,37,30
 National Energy Compact for Namibia URL	12399
-National Energy Compacts	9635,1502
+National Energy Compacts	9635,1502,1580
 National Energy Crisis Committee	11245
 National Energy Dominance Council	4447
 National Energy Efficiency Action Plan79	3604
 National Energy Efficiency Plan of Côte	3604
-National Energy Fund	2473
+National Energy Fund	2473,10207
 National Energy Policy	2391,7922,2075
 National Energy Policy. The National Energy	10313
 National Energy Regulator of SA. Within the IRP	11272
@@ -721,11 +754,13 @@ Photovoltaic RE Renewable Energy REIPPP Renewable	11228
 Physical Energy Flow Accounts	2775
 Physical Energy Supply Table	2775
 Physical Energy Use Table	2775
+Planning GEA Global Energy Alliance GIS	12717
 Policy and Strategy for National Energy Security	11366
 Política de Energía	1701
 Política de Energía Eje IV	1701
 Política de Energía ODS	1701
 Política de Segurança Energética Nacional	11366
+Population and Housing Census and National Energy Use	12551
 Postpaid Energy Ex	12358
 Power DER Distributed Energy Resources DFFE	11228
 Power Generation and Renewable Energy	5533
@@ -739,6 +774,7 @@ Public Enemy Number	1037
 Puma Energy	2987
 Quiet Energy Transformation Another	6714
 RCA. Pour ENERCA	9279
+REHABILITATE AND EXPAND ENERGY INFRASTRUCTURE	12680
 RENEWABLE ENERGY	11572,684
 REREC Rural Electrification and Renewable Energy Corporation	2775
 RGE Africa Energy Rwanda Ltd Nyirabuhombohombo	718
@@ -752,8 +788,9 @@ Regional Energy Security	5765,6634
 Regulatory Indicators for Sustainable Energy	11923,268
 Renewable Energies and Energy Efficiency	789
 Renewable Energies and Ibn Zohr University	4032
-Renewable Energy	718,252,3926,1526,1995,2719,333,484,446
+Renewable Energy	718,252,3926,1526,1995,2719,333,484,446,164,46
 Renewable Energy Business Conference	6743
+Renewable Energy Certificates	12604
 Renewable Energy Consumption	12261
 Renewable Energy Expansion	12399
 Renewable Energy Imports Thermal Figure	12256
@@ -771,6 +808,8 @@ Renewable Energy Scale-	11469
 Renewable Energy Scale-Up Cross Boundary Energy	11469
 Renewable Energy Scale-up	11468
 Renewable Energy Scale-upinitiative and Mission300	11469
+Renewable Energy Support and Access	12553,42
+Renewable Energy Support and Access Accelerator Project	12595
 Renewable Energy Usage	4528,7984
 Renewable Energy Zimbabwe	970
 Renewable Energy and Climate Technologies Sub-Saharan Africa	12191
@@ -850,6 +889,7 @@ Sustainable Energy for All	11137,435,619
 Sustainable Energy for All. Nigeria	11469
 Sustainable Sawmill Waste Biomass Pyrolytic Energy	1154
 Sutainable Energy We Are for Sustainable Energy	12515
+System SEforALL Sustainable Energy for All WBG	12717
 TECHNOLOGY URGED TO JOIN ENERGY	12358
 TERM VISION ANGOLA ENERGIA	11366
 TIC NA ENERGIA	11397
@@ -900,6 +940,7 @@ Wind Energy Generated	12256
 Wind REFIT Osona Sun Energy	12399
 Windhoek DRE Distributed Renewable Energy ECB	12399
 World Bank Transmission Expansion and Energy Storage	12399
+World Bank-Canadian Clean Energy and Forests Climate	12595
 Worst Excess Energy Scenario	11228
 Worst Unserved Energy	11228
 Year Duration Energy DSR of Shed	11953

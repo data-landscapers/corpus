@@ -45,6 +45,7 @@ Copper Switch-off	6539
 Council Cession Business Park Switch Bindura	4896
 Country ICT Survey for Namibia. Sweden	12325
 Cristina Swartz	8960
+Currency Bond Market Lesotho National Switch	12701
 DLRRD SWOT	11261
 Dan Swinhoe UAE	1639
 Daniel Swiegers	8784
@@ -157,6 +158,7 @@ Mali Ya Wakazi and Komor Switch	6146
 Masvingo EWZL Owned Switch N	4896
 Matriz SWOT	10783
 Mauritius Central Automated Switch	1386
+Mauritius. The SWFDP	12649
 Mayor of Swakopmund	5926
 Member States and Switzerland	789
 Mheshimiwa Dkt. Switbert Zac	6019
@@ -165,9 +167,11 @@ Minister Swaraj	11183
 Modules. This Payments Switch	11134
 Moniepoint Digital Payments Equity Investment Swedfund	2243
 Mozambique and Sweden	110
+Multi-Protocol Label Switching	12769
 Multiprotocol Label Switching Virtual Private Network	5883
 Muuo SW	12231
 Namibia Statistics Agency SWA ID	12337
+Namibia and Swaziland	12657
 National Central Switch	3491
 National Domestic Switch	11131
 National Electronic Payment Switch	4282,3
@@ -176,14 +180,16 @@ National Instant Payment Switch	2395
 National Interoperable Payment Switch	3473
 National Money Switch	11994
 National Money Switch.123	11994
-National Payment Switch	2849,28,524,91,3,210,5746,1680,3
+National Payment Switch	2849,28,524,91,3,210,5746,1680,3,1567
 National Payment Switch Bolstering FX Reserves	11134
 National Payments Switch Financial System Adequate	11131
 National Payments Switch Project	11131,3
+National Retail Payment Switch	12589,9
 National Switch	3895,1936,846,1424,3859,34,220
 National Switching and Processing System	1889
 Nicolai Swanepoel	12478
 Northern and Central Switzerland	10919
+Northwest and Central Switzerland Ethics Committee	12678
 Norway Portugal Serbia Slovenia Spain Sweden	10764
 Norway and Switzerland	9424,2777
 Nvidia. Swedish Lovable	6487
@@ -203,6 +209,7 @@ Per SWEEP-IATI.md	91,57,1007,1084,1
 Pockets Hill EWZL Owned Switch N	4896
 Point of Sale and ATM Switching	2276
 Population Registration System SWA ID South	12327
+Port PoE Access Switch	12763
 Portuguese and Swahili	961
 Premier Switch	1677
 Property Swornrich Investments Pvt Ltd	4896
@@ -244,7 +251,7 @@ SWEDFUND	2373
 SWEEP NOTE	10144,160
 SWEEP-IATI.md	110,5,904,7542,2625,1,7,8,1,1,1,1,1,1,87
 SWEPR	12198
-SWFDP	11191
+SWFDP	11191,1458
 SWFDP-Southern Africa	11191
 SWFP-Southern Africa	11191
 SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120
@@ -277,6 +284,7 @@ SWIPSS and ECH	11130
 SWIPSS and SWIFT	12484
 SWIPSS. Five	12484
 SWITCH	12325
+SWITZERLAND	12760
 SWKStock	7655
 SWL and SCT	12335
 SWL. Urban SCT	12335
@@ -301,6 +309,7 @@ Society for Swift International	12364
 Somali and Swahili	10728
 Somalia Payment Switch	2612,5318,94
 South Africa Sri Lanka Switzerland Togo	10764
+South Africa The Republic of Swaziland	12527
 Spain Sweden Tanzania Thailand Türkiye United	10764
 Spain and Sweden	8346
 Spain and Switzerland	789
@@ -351,7 +360,7 @@ Swati Mehta	12227
 Swati Mehta Dhawan and Julie Zollmann	12227
 Swati. Day	6821
 Swati. Sometimes	3647
-Swatini	6539,2301
+Swatini	6539,2301,3823
 Swatini Data Protection Act	12331
 Swatini WhatsApp	10263
 Swatini's Starlink	2748
@@ -362,7 +371,7 @@ Swazi Bridge	5799
 Swazi National High	11134
 Swazi Plaza	12405
 Swazi Post	12405
-Swaziland	1,2296,478,8359,200,275,677,155,43
+Swaziland	1,2296,478,8359,200,275,677,155,43,176
 Swaziland Automated Electronic Clear-	6938
 Swaziland Automated Electronic Clearing House	12484
 Swaziland Building Society	11130,1,1212
@@ -377,11 +386,13 @@ Swaziland Payment Settlement System	11131
 Swazipharm	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Swazis	2885
 Swe Tax Agency	33
+Swearing	12531
 Swear’n’Slash	3395
 Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166
 Sweden Global Cybersecurity Index	10764
 Sweden Sverige	12142
 Sweden and Ericsson	6649
+Sweden and Iceland	12660
 Sweden&author	1219,877
 Sweden's Arbetsformedlingen	148
 Sweden's BankID	10147
@@ -406,9 +417,9 @@ Swedish International Development Cooperation	11572
 Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223
 Swedish International FSD Financial Sector Development	12297
 Swedish Mapping	888
-Swedish Post and Telecom Authority	215
+Swedish Post and Telecom Authority	215,12410
 Swedish Privacy Protection Authority	8436
-Swedish Programme for ICT	93,851
+Swedish Programme for ICT	93,851,11681
 Swedish Public Employment	148
 Swedish Public Employment Service	148
 Swedish Tax Agency	33
@@ -472,7 +483,7 @@ Swiss-funded	3004
 SwissID F25 Syrian Arab Civil Registry	10714
 Swistak	10997
 Switalski	2096
-Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74,147
+Switch	1988,2692,3876,621,223,804,311,616,78,735,56,269,74,147,191
 Switch Close	4896
 Switch Financial Technology Gross Domestic Product	11131
 Switch Highlands	4896

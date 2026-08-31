@@ -1,3 +1,4 @@
+Abstract The Food and Agriculture Organization	12667
 Abuja The Federal Ministry of Agriculture and Food	7219
 Accommodation and Food Service	2775
 Accommodation and Food Service Ac-	2775
@@ -90,7 +91,8 @@ Food Security Task Forces	12158
 Food Security and Agricultural Development	7452
 Food Security and Cooperative Development	7167
 Food Security and Livelihoods	6947
-Food Security and Nutrition	970
+Food Security and Nutrition	970,11704,66
+Food Security and Nutrition Ministry of Public Works	12701
 Food SecuritySub-Committee	11185
 Food Service	2775
 Food Service Activities	2775
@@ -112,8 +114,9 @@ Food and Agricultural Research and Extension Institute	7845
 Food and Agricultural Research and Extension Institute Act	7845
 Food and Agriculture Organisation	9136
 Food and Agriculture Organisation Food Price Index	11134
-Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349
+Food and Agriculture Organization	3583,3058,389,3811,557,155,19,41,545,349,233
 Food and Agriculture Organization FBO Faith Based	2775
+Food and Agriculture Organization of United Nations	12667
 Food and Beverage	4972
 Food and Commercial Justice	10960
 Food and Drugs Authority	10630,402
@@ -128,7 +131,8 @@ FoodCourt	2762,389,6344
 Foodcare	5589
 Foodora	8515
 Foondamate	818,77
-Foot and Mouth Disease	5444
+Foot and Mouth	12640
+Foot and Mouth Disease	5444,7144
 Foot-and-Mouth Disease	2626,4610,2525
 Football	1876,3203,3805,1109,43,2375
 Football Congo	5079
@@ -170,7 +174,7 @@ Main Food Groups	2775
 Microsymbionts for Food and Forage	1154
 Minister of Agriculture and Food Security	7219,2746
 Minister of State for Agriculture and Food Security	9876
-Ministry of Agriculture and Food Security	2872,711,1
+Ministry of Agriculture and Food Security	2872,711,1,9111
 Ministry of Food and Agriculture	7695,4395
 Modeling Crow’s Foot Notation Data	9124
 Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
@@ -186,6 +190,7 @@ National Strategy for Food and Nutrition Security	10776
 Nigerian National Agency for Food and Drug Administration	4426
 Noki Food	11911
 Non- Footnote	11986
+Northern Lowlands and Foothills	12755
 Not... Senate Warns Wildlife Shortage of Food	4942,664,283,454,183
 Open Access Data Centres Expands Footprint	11243
 Organization FBS Food Balance Sheet FCM	2775

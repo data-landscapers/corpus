@@ -90,7 +90,7 @@ Caractère Non Commercial	2342
 Celui du Commerce	9819
 Central African Republic Commercial Forests Briefing	10841
 Certification Commence Business CM46	12342
-Chamber of Commerce	1000,4172,692,6648
+Chamber of Commerce	1000,4172,692,6648,149
 Chamber of Commerce Bureau of Standards	12376
 Chamber of Commerce Data Controller INST-585749569B8 NAIROBI	7167
 Chamber of Commerce and Industry of Mali	9343
@@ -122,18 +122,20 @@ Commence	11265
 Commence Business	12342
 Commence Enforcement NIGELEC Société Nigerienne	12062
 Commence-	11976
-Commenced	1,2708,17,1,8737
+Commenced	1,2708,17,1,8737,1181,2,1,3,10
 Commencemen	12253
 Commencemen Data Centre	12253
 Commencemen NACIT	12253
-Commencement	783,1943,1,2005,596,1593,60,864,2312,1043,657,501,42,20
+Commencement	783,1943,1,2005,596,1593,60,864,2312,1043,657,501,42,20,225
 Commencement Cited	1535
+Commencement Date	12629
 Commencement Dates and Effective Periods	3861
 Commencement Order	12453
 Commencement These Regulations	1844,2888
 Commencement and Legal Effect	3861
 Commencement of Business	11976
 Commencement of Formal Reorganization Proceedings	12389
+Commencement of Parts	12575
 Commencement of Schedule PART	3714
 Commencement of Schedule SCHEDULE	3714
 Commencer	6954
@@ -145,7 +147,7 @@ Commendation The Omanhene	2824
 Commending	8667
 Commends	5825
 Commensurate	1828
-Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13
+Comment	747,1130,111,379,391,274,73,143,217,297,46,921,164,129,7,130,121,393,473,277,410,56,70,360,13,23,300,20,39,155,130,99,417,210,91,177,59,201,73,156,9,28,78,439,195,158,11,94,21,50,133,10,109,10,15,136,56,40,518,10,84,115,13,910
 Comment Bédié	9620
 Comment CITADEL	2732
 Comment Dahouët-Monique	9620
@@ -193,8 +195,8 @@ Commentdraftlegislation	4633
 Commenter Partager Facebook X WhatsApp Linkedin	10625
 Commenter Une	10401
 Commentez	4960,62,2035
-Commenting	1196,440,978,1308,681,104,18,139,288,173,300,918,354,360,188,340,437,188,32,210,316,3,630,88,137,45,262,1615,174,210,371,10
-Comments	2712,1941,35,702,92,92,279,502,224,328,21,99,155,62,8,445,1,1,88,67,6,17,1,488,501,299,894,75,158,85,401,91,120,144,75,119,67,406,123,47,17,106,134,27,12,173
+Commenting	1196,440,978,1308,681,104,18,139,288,173,300,918,354,360,188,340,437,188,32,210,316,3,630,88,137,45,262,1615,174,210,371,10,63
+Comments	2712,1941,35,702,92,92,279,502,224,328,21,99,155,62,8,445,1,1,88,67,6,17,1,488,501,299,894,75,158,85,401,91,120,144,75,119,67,406,123,47,17,106,134,27,12,173,104,16
 Comments Actual	11131
 Comments Actual Annual	11131
 Comments Add Euronews	9608,208,16
@@ -211,11 +213,12 @@ Comments Partially Comply Not Comply Partially	11209
 Comments Restacks Top Latest Discussions	10848
 Comments Substantiate	11209
 Comments The Bank	11131,3
+Comments The Department of Agricultural Research	12740
 Comments The Financial Inclusion Framework	11134
 Comments4 Mins Read Kenya	8216
 Commenté	10966
 Commerc	12256
-Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19
+Commerce	28,94,104,169,64,103,81,94,9,215,39,53,399,230,302,112,61,296,61,115,239,488,40,3,87,172,108,55,45,226,458,183,547,33,138,4,138,96,14,2,102,70,6,41,210,15,126,145,85,62,277,19,65,179,16,2,84,59,14,259,190,247,241,18,328,72,171,83,444,129,18,33,40,264,480,228,294,54,25,234,390,26,260,45,2,499,20,19,134
 Commerce Advertisement Connect	5264
 Commerce Agriculture	10763
 Commerce Construction	10763
@@ -249,7 +252,7 @@ Commerce and Technology	1512
 Commerce and Treasury	10444
 Commerce extérieur Vers	5452
 Commerce’s BIS	10444
-Commercial	226,76,962,603,909,51,412,1713,172,409,58,84,189,386,182,514,258,17,78,728,98,9,274,28,244,637,355,30,48,592,8,57,263,123,48,20,1,111,132,24,1,1,3,2,44,43,17,31,526,159,38,6,62,162,32,30,11,61,11,7,13,101,10
+Commercial	226,76,962,603,909,51,412,1713,172,409,58,84,189,386,182,514,258,17,78,728,98,9,274,28,244,637,355,30,48,592,8,57,263,123,48,20,1,111,132,24,1,1,3,2,44,43,17,31,526,159,38,6,62,162,32,30,11,61,11,7,13,101,10,133
 Commercial Agriculture Development Project	11380,517
 Commercial Bank	1867,7959
 Commercial Bank Branches ATMs	1828
@@ -270,6 +273,7 @@ Commercial Banks’ and Non-bank Financial Institutions’ Bills	2775
 Commercial Cargo and Mail Traffic	2775
 Commercial Catalogue	1011
 Commercial Cloud Enterprise	6477
+Commercial Court	12668
 Commercial Courts	11906
 Commercial Courts- Implement	11906
 Commercial Data Centres	12436
@@ -277,6 +281,7 @@ Commercial Director	4994
 Commercial Division	1919,2977,3278,340,190
 Commercial Domestic Courier Service Licence	1223
 Commercial Domestic Courier Services Licence	1223
+Commercial FM	12552
 Commercial FM Radio	6946
 Commercial FM Stations	2776
 Commercial FTA TV	6946
@@ -378,14 +383,16 @@ DRAFTS FOR COMMENTS	11269
 DRAINAGE Structures Non Commerciales	2342
 DU COMMERCE ET DE L’ARTISANAT	8321
 DU COMMERCE ET DE L’ARTISANATLe Conseil	7670
+Data Protection Commemoration Date	12586
 DataGovernance Comments	9474
-Date of Commencement	3887
+Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1
 Decentralization Governance Comments Table	11855
 Delegation of German Industry and Commerce Data Controller	7167
 Department of Commerce	5773,1017,139,1566,1254,778,1052,814
 Department of Commerce. ACTION	5773
 Department of Commerce. Proposers	5773
 Departments of Commerce and State	10527
+Dept. of Commerce	12617
 Description Commercial	478
 Djibouti Office of Industrial and Commercial Assets	6938
 Domestic Small Commercial	12256
@@ -471,6 +478,7 @@ ID Comments	12228,39
 II FORMAT FOR COMMENTING	236
 IP Commercialization C1-Number	7548
 IRENA. Comments	11572
+ITEMS CRITERION SCORE COMMENTS	12693
 Ibadan and Kano. Commenting	9141
 Inaugural Economic and Commercial Dialogue Together	12517
 Inclusion.44 AI and Big Data Commencement	10856
@@ -524,6 +532,7 @@ Lectures22 Commentaires PolitiquePastef Tivaouane	4960,62
 Lectures32 Commentaires	4960,62,2035
 Lectures47 Commentaires Actualités	7057
 Lectures47 Commentaires Societe	4960,62
+Lesotho Chamber of Commerce	12644
 Lesotho National Bank of Commerce Limited	12252
 Liberia Agriculture Commercialization Fund	9650
 Libyan General Union of Chambers of Commerce	5264
@@ -636,6 +645,7 @@ S- Commerce and Enterprise	12339
 S3 Small Commercial	12394
 SADC Electronic Transactions and Electronic Commerce	28
 SLE Comments	12440
+SPECIFIED PARTS COMMENCEMENT DATE	12575
 STAKEHOLDER COMMENTS	11924
 STAKEHOLDER COMMENTS Summary of Borrower's ICR	11924
 Sadiya Assouma du Commerce. Selon	4162
@@ -645,6 +655,7 @@ Secretary of Commerce	5773,1294
 Services Transportation Commercial	4972
 Seychelles Commercial Bank	3279,85
 Seychelles Commercial Bank Confirms Customer Data	3279,85
+Short Title and Commencement	12538
 Simplified Licensing for Wholesale Commerce	11939
 Simtrex Commercial Brokers LLC	4127
 Sinohydro Corp Ltd. Commercial	1149
@@ -657,6 +668,7 @@ South Africa Industrial and Commercial Bank of China	378
 South Sudan Chamber of Commerce. R2868050	3583
 South Sudan’s ICT Ministry Commends MTN	4243
 Space Programme. Commercialization	1131
+Specified Parts Commencement Date	12575
 Standard Bank Business and Commercial Banking Research	5247
 State-owned Commercial Banks	7589
 Statistics Agency Zimbabwe National Chamber of Commerce	4528

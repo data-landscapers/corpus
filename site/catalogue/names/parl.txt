@@ -1,11 +1,12 @@
 ACT of Parliament	7832
 AI. Morocco’s Parliament	4583
-Act of Parliament	1154,2560,79,692,1048,339,1913,874,105,54,1495,934,709,30
+AMONG PARLIAMENTARIANS Resumption	12737
+Act of Parliament	1154,2560,79,692,1048,339,1913,874,105,54,1495,934,709,30,660
 Act of Parliament Purpose Electronic Communications Security	396
 Act of Parliament- County Statistical Office	2775
 Act of Parliament. Parliament	10041
 Actas Pleno Parlamento Administrador Grupo	4209
-Acts of Parliament	4597,6225
+Acts of Parliament	4597,6225,1711
 African Centre for Parliamentary Affairs	9203
 African Parliaments	9191
 Annual Parliamentary National	7548
@@ -15,7 +16,9 @@ Association of Parliamentary Librarians	8090
 Assuntos Parlamentares	4435,1583,3253
 Azerbaijani Member of Parliament Parvana Valiyeva	11285
 Bi-annually Briefing of Parliament Committee	958
+Body PARLIAMENT OF THE KINGDOM	12737
 Botswana Parliament	11748
+Botswana Speaks Constituency OfficersAll Parliament	12641
 Botswana’s Parliament	4583
 CIO Africa Members of Parliament	8050
 CONSIDERATION OF DEPLOYMENT LETTERS Parliament’s JSCD	11289
@@ -67,11 +70,11 @@ Ethiopian Parliament	12188
 Ethiopian Parliament Ratifies	7091
 Europe. European Parliament	1243
 European Parl	11155
-European Parliament	789,454,571,303,2559,1801,40,564,391,349,193,333,89,631,765,987,37,194,85,19,1,1046
+European Parliament	789,454,571,303,2559,1801,40,564,391,349,193,333,89,631,765,987,37,194,85,19,1,1046,474
 European Parliament The President R	7855
 European Parliament Think Tank	11155
 European Parliamentary Research Service	10088
-Executive and Parliament	8382
+Executive and Parliament	8382,4286
 Executive. Parliament	8611
 FSCA and Parliament	5420
 Federal Parliament	4810
@@ -94,6 +97,7 @@ Grupos Parlamentarios Salvador Nguema Mangue	9303
 House of Parliament. Next Order. Disclaimer	10313
 House of Parliament. Next Order. PAPERS Hon	10313
 Houses of Parliament	3714,7516,59,1184
+II. PARLIAMENT REFORMS	12580
 ISSUDED BY PARLIAMENTARY COMMUNICATION SERVICES	11232
 ISSUED BY THE PARLIAMENTARY COMMUNICATION SERVICES	9126,2103
 Iddi Isabirye Deputy Chairperson Parliamentary Committee	3050
@@ -114,6 +118,7 @@ Legal and Parliamentary Affairs Committee	3026
 Leone Parliament	2113
 Liberia’s Parliament	4583
 Lilongwe Msinja South Constituency Member of Parliament	7486
+Live Broadcasting of Parliament Proceedings	12580
 Lunga Lunga Member of Parliament Mangale Chiforomodo	8214
 L’ADMINISTRATION Le Parlement	10966
 L’INTELLIGENCE ARTIFICIELLE PARLE NOS LANGUES	9916
@@ -125,7 +130,7 @@ Malawi Parliament	340,6414,1987
 Malawi's Parliament	127
 Malawi’s Parliament	340
 Meeting MP Member of Parliament MPSS Minimum	11218
-Member of Parliament	3229,1354,174,3456,155,177,1768
+Member of Parliament	3229,1354,174,3456,155,177,1768,2328,4
 Member of Parliament Fadiel Adams. Take	10263
 Member of Parliament Minister of Trade	11250
 Member of Parliament for Arusha Urban	7360
@@ -133,10 +138,13 @@ Member of Parliament for Dagoretti South. Eng. Tanui	5108
 Member of Parliament for Kibamba	8884
 Member of Parliament for Kilifi North	10313
 Member of Parliament for Maun West	7671
+Member of Parliament for Molepolole South	12573
 Member of Parliament for Tano North	8368
+Member of Parliament for Tlokweng Mr Phenyo Segokgo	12619
 Member of Parliament. The Minister	3384
 Member of Provincial Parliament	8999
-Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162,1169,12
+Members of Parliament	1222,749,771,1034,1567,168,9,613,918,1349,561,8,127,25,106,73,41,55,1735,3,36,162,1169,12,67,8,3,144
+Members of Parliament and Constituent	12641
 Mid-Year Assessment Report of Parliament	11230
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministry and Parliament	10299
@@ -153,12 +161,14 @@ National Parliament. Voters	12201
 National Treasury and Parliament’s Standing Committee	7096
 Notícias Parlamento	1265,3,468
 O Parlamento	5467
+Office of Parliamentary Counsel	12706
 Open Data Parlementaire Accueil Open Data	9480
 Ordenes Nacionales Portavoz Grupo Parlamentario Secretario	4209
 Outside Parliament	7264
 PARLAMENTO ANÁLISIS PROYECTOS DIVERSIFIC. VPM CONSEJEROS	4209
-PARLIAMENT	11230,55,4
+PARLIAMENT	11230,55,4,1291
 PARLIAMENT OF KENYA THE SENATE BILL	11247
+PARLIAMENT OF THE KINGDOM OF LESOTHO	12748
 PARLIAMENT OF THE REPUBLIC	11
 PARLIAMENT'S WARNINGS	9696
 PARLIAMENT.pdf	5631
@@ -207,7 +217,7 @@ Parler	10354
 Parlez-nous de CITADEL	2732
 Parlez-nous de VaulFi	5159
 Parliame	5533
-Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,26,5,62,16,9,8,10,19,16,81,6,14,27,1,4,7,2
+Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33,161,18,27,26,33,22,15,68,41,80,9,10,7,26,5,62,16,9,8,10,19,16,81,6,14,27,1,4,7,2,32,2,7,1,5,1,4,3,1,3,7,4,5,8,1,7,3,30,3,5,5,1,9,13
 Parliament Approves Draft Law	5674
 Parliament B	5533
 Parliament Building	5386
@@ -215,8 +225,9 @@ Parliament Buildings	12310
 Parliament By Arthur Arnold Wadero	1210
 Parliament Chairperson	11256
 Parliament Computerisation	5631
-Parliament Date	8165
+Parliament Date	8165,4390,9,5,1,3,20,20,25
 Parliament Digital	5631
+Parliament Digital Transformation Strategy	12580
 Parliament Draft Home Affairs Bill	5533
 Parliament Explanation	11986
 Parliament Home Affairs Bill	5533
@@ -239,12 +250,16 @@ Parliament Target	11986,434
 Parliament Technologies. Data Governance Amendment Within	7548
 Parliament This Week Only the Senate	8681
 Parliament Wednesday	8400
+Parliament and Government	12641
 Parliament and Kshs.2.1	1838
+Parliament and Ntlo Ya Dikgosi	12580
 Parliament for Bill	11986
-Parliament of Botswana	9191
+Parliament of Botswana	9191,3333,8,98
 Parliament of Botswana. A.222 PART	3887
+Parliament of Botswana. PART	12531,4,11,3,13,67
 Parliament of Ghana	9191,12,1619,214
 Parliament of Kenya	5142,2690,2108,306
+Parliament of Lesotho	12643,1,1,3,3,1,1,8,14
 Parliament of Malawi	483,1110
 Parliament of Mauritius	783,7062
 Parliament of Rwanda	5070,3604
@@ -257,12 +272,15 @@ Parliament of Uganda Companion	1283
 Parliament of Zambia	2726,2521
 Parliament of Zambia. Enactment PART I PRELIMINARY	2727
 Parliament of Zimbabwe	4528,7984
+Parliament the National Research and Innovation Council	12638
+Parliament the Recurrent Budget Estimates	12602
 Parliament'. Prefer	4534
 Parliament's Committee	1637
 Parliament's Committee of Commissions	1811
 Parliament's Finance Committee	10209
 Parliament's Permanent Committees and Caucuses	8015
 Parliament's Public Accounts Committee	9696
+Parliament. Answering	12593
 Parliament. Audited	741
 Parliament. DPI	11085
 Parliament. Date	2576,784,1890
@@ -282,18 +300,20 @@ Parliament. Section	3307
 Parliament. State Minister for Works Mr. Free	12319
 Parliament. The Committee	11289
 Parliament. The DHA	5533
+Parliament. The Need for Botswana Speaks	12641
+Parliament. These Budget Proposals	12580
 Parliament. Under	6816
 Parliament. Welcome	10313
 Parliament.’’. Amendment	11201
 ParliamentKE	9940
 ParliamentKE Jamii Telecommunications Limited	9940
 Parliamentarian Track	10707
-Parliamentarians	1814,9471
+Parliamentarians	1814,9471,1452
 Parliamentarians Roundtable	11285
-Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96,912,299
+Parliamentary	958,331,578,805,321,621,247,2169,558,244,264,452,542,511,235,1526,296,148,387,96,912,299,80,27,130
 Parliamentary Act	3861
 Parliamentary Action	8015
-Parliamentary Affairs	2428
+Parliamentary Affairs	2428,10223
 Parliamentary Approval	10313
 Parliamentary Bills	1243
 Parliamentary Budget Office	6463
@@ -318,6 +338,7 @@ Parliamentary Ratification	2872
 Parliamentary Report	5363
 Parliamentary Select Committee	11
 Parliamentary Service	2844,2474,1845
+Parliamentary Services Division	12580
 Parliamentary Standing Committee	4528,2264,2872,1,305,39,456,2047
 Parliamentary Village	11285
 Parliamentary Villages	11285
@@ -325,7 +346,7 @@ Parliamentary Villages Rules	11285
 Parliamentary Villages. SAPS	11285
 Parliamentary Villages. SAPS PSS	11285
 Parliamentary and Local Government Elections	4609
-Parliaments	8090
+Parliaments	8090,4647
 Parliament’s Committee	6274
 Parliament’s ICT Portfolio Committee	4535
 Parliament’s Joint Rules	11289
@@ -364,7 +385,9 @@ Rondebosch and Parliamentary Villages	11285
 Rules of Parliament	11230
 Rumphi Central Member of Parliament Mathews Mtumbuka	7842
 SADC Parliamentary Forum Discussion Paper	961
+SESSION OF THE THIRTEENTH PARLIAMENT	12607
 SEVENTH PARLIAMENT	11230,55,4
+SUPPLY SPEECH DELIVERED TO PARLIAMENT	12580
 Second Deputy Speaker of Parliament	5219
 Secretario Comisión Parlamentaria	4209
 Seguridad Parlamentaria	4209
@@ -374,6 +397,7 @@ Seventh Pan-African Parliament Opens	8015
 Seventh Parliament	8012,3
 Seventh Parliament The PAP President	8015
 Shiselweni Members of Parliament	12480
+Shri V. Somanna and Members of Parliament	12568
 Sibaya People Parliament	11131
 Sierra Leone Parliament	953
 Sierra Leone’s Parliament	360
@@ -387,6 +411,7 @@ Speaker of Parliament Mr. Jacob Oboth-Oboth	12319
 Speaker of Parliament Segepoh Solomon Thomas	9096
 THIRTY-EIGHTH ACT OF THE PARLIAMENT	587
 TOR Terms of Reference TPTTP Taking Parliament	11197
+Taking Parliament	12580
 Temba Gubula Parliamentary Communication Services	9883
 Transport Committee of Parliament. Nyirenda	12309
 Travail Parlementaire	9480
@@ -395,6 +420,7 @@ UK Parliament	1243
 Uganda Parliamentary Internet Governance Forum	10066
 Uganda Parliamentary Internet Governance Forum and Uganda	10066
 Uganda’s Parliament	10672
+VOICE IN PARLIAMENT	12607
 WASTE OF RESOURCES Parliamentary	10148
 WUF13 Parliamentarians	11285
 WhatsApp Le Parlement	4367

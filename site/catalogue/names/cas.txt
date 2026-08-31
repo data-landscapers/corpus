@@ -11,10 +11,12 @@ ASSETS Cash	11131,3
 AU SUD DE CASABLANCA-MAROC	8891
 Aalia Cassim	8779
 Abbreviations ADECOS ASP ASSN ATM CASI	10763
+Absence of Case Management System	12693
 Access Waje Casino Safely	3383
 Accessing Cash Transfers	12182
 Accounting System CBS Case-based Surveillance NHISSA	396
 Active. Cassava	242
+Additional NID Use Cases	12663
 Administration CASEM	10874
 Administration du Secteur Ministériel CAST	10874
 Africa’s Space Industry Makes Its Case	8275
@@ -199,7 +201,7 @@ Case Law And Digital Proof	11654
 Case Lines	2307
 Case List	9507,105,1
 Case Management	10776,1715
-Case Management System	5642,3032,304,805,2606
+Case Management System	5642,3032,304,805,2606,221,83
 Case Management System New Digital Platform	6806
 Case Management System PSC Project Steering	1867
 Case Management-Disability Persons	12373
@@ -209,7 +211,7 @@ Case Of Kikuyu Constituency	899
 Case Register and Allegations	11250
 Case Register and Allegations Annual Comparison	11250
 Case Selection Logic and Scope Cases	7966
-Case Studies	1250,3313,2384,1,203,3701,1504
+Case Studies	1250,3313,2384,1,203,3701,1504,184,135
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies and Precedents	3861
@@ -298,6 +300,7 @@ Cash Over Combat	10409
 Cash Persists	10277
 Cash Point	8816
 Cash Power	9973
+Cash Prizes	12690
 Cash RA	12364
 Cash Reserve Account	12364
 Cash Reserve TTC	12364
@@ -533,6 +536,7 @@ Emergency Cash Transfers	10963,1,21
 Emergency Cash Transfers Households	10964
 Emergency Response Room GCT Group Cash	6947
 Entout Cas	5022
+Eradicate Case Backlog	12610
 Erik De Castro	5618
 Establish AI Use Case	7548
 Estudo de Caso	10775
@@ -572,6 +576,7 @@ Harvard Kennedy School Case Program. August	5700
 Head Payment and Cash Management	4695
 Health Data Governance Principles Case Study	12143
 High Profile Cases	11250
+Home Affairs Case Study	12533
 Homens Casados	10777
 Honduras MOLINA CASTRO	6613
 Household Uplifting Programme-Conditional Cash Transfers	10093
@@ -622,6 +627,9 @@ Italian Case	5349,351
 Javier Diaz Cassou	7655
 John Mushayavanhu ZiG Cash	5222
 José Feneira AÍmame Cassamá Octávio Lopes	11544
+Journal of Medical Case Reports	12675
+Judicial Case Management	12543,67
+Judicial Case Management JCM	12543
 Judiciary’s Electronic Court Case Management System	8470
 Justice Casier	3381
 Justice Service Commission's Integrated Electronic Case	9397
@@ -629,6 +637,7 @@ Kenya Case Study	1923
 Kenya and Morocco. Cassava Technologies	6232
 Kenya's Cashlet App	8464
 LIBERIA’S COCAINE CASE IS THE ULTIMATE	10581
+Law Reports of Lesotho Appeal Cases	12668
 Le CASEM	10125
 Le Cas D’Une Unité De Production	11034
 Learning Case	11909
@@ -691,6 +700,7 @@ National Interoperability Use Cases21	1009
 National Interoperability Use Cases33	1009
 Nations Group Cash Transfers	6947
 Nature of Fraud and Corruption Cases	11250
+Needs Assessment for Automated Case Management System	12668
 Nick Cook and Lauren Cassells	12048
 Nicolás Castro Vergara	6948
 Nigeria Case Management System	12063
@@ -780,8 +790,10 @@ Social Cash Transfer Programme's Learning	12182
 Social Cash Transfer. Government	12453
 Social Cash Transfers	10765,10
 Social Cash Transfers Social	10775
+Social Service Delivery. Country Case Studies	12761
 South Africa's Cash Smart Strategy	4824
 South Africa. Case	6512
+Special Cases	12630
 Standards for Business Cases	1009
 State of Cash Dependency and Digital Financial	6412
 Statement of Cash Flows	1554,9577,3,821
@@ -834,7 +846,7 @@ Use Case for African Counterparts	3796
 Use Case. Activity	12008
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
-Use Cases	3859,4343,2617,420,580,189,25
+Use Cases	3859,4343,2617,420,580,189,25,630
 Use Cases Proposed Use Cases for Pilot	10819
 Use Cases S	10617
 Use Cases and Accessibility	11130

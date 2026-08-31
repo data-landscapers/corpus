@@ -55,11 +55,16 @@ GSM Active Voice Subscriptions	3862
 GSM Association	1228,2676,2877,34,4004,22,136,1254
 GSM Association Introduction Benin Ghana Digital	10822
 GSM Association Official Document FS.31 CM	10721
+GSM Buddie	12690
+GSM Buddie Student	12690
 GSM Connectivity	11857
 GSM FIXED ISP VAS C&I OTHERS	3862
 GSM FSP Providers	10819
 GSM Global System for Mobile Communications Association	6946
 GSM Global System for Mobile Communications HPP	718
+GSM LTE Hybrid	12690
+GSM Libertie	12690
+GSM Libertie Hybrid	12690
 GSM Moov Africa	3361
 GSM OBJET DE LA REQUETE Connexion	10821
 GSM Pro-	10819
@@ -261,7 +266,7 @@ Gsionveesrsn	12351
 ICOM UV-5R GSP-ICO-ICF-ARCEP- VHF	998
 IDAS Pilot. GSMA	10819
 IMEIs. A GSMA	8941
-ITU and GSMA	11857
+ITU and GSMA	11857,802
 Identity The GSMA	10822
 Indonesia and Kenya GSMA Mobile Money	11994
 Infrastructure Program GSC Gambia Submarine Cable	1000
@@ -275,6 +280,7 @@ LMIS and GS1	4164
 La GSMA	5434,1427,1235,1628,16,435
 Launching the GSMA Malawi Report	9820
 Le GSDA	6424,929
+Lesotho GSMA Global System for Mobile Communications	12663
 MOTOROLA MT-777R MT-777R GSP-MOT-MT7-ARCEP- Ministère	998
 Malawi GSMA	10819
 Market Share of Mobile GSM Operators	3862

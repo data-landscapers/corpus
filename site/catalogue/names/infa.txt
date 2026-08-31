@@ -22,9 +22,10 @@ INFAS de Man	10056
 Infallibly	12146
 Infalsifiable	10387
 Infancia VIH	1701
-Infant	10780,49,27,1282,13,216,46
+Infant	10780,49,27,1282,13,216,46,226,16,17
 Infant Mortality	12383
-Infant Mortality Rate	12367,16,30
+Infant Mortality Rate	12367,16,30,226
+Infant Mortality Rate ASFR	12639
 Infant Mortality Rate and Neonatal	12138
 Infant Registration Bill	4534
 Infant and Child	12367

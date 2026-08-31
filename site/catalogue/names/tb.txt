@@ -1,4 +1,4 @@
-AIDS and TB	771
+AIDS and TB	771,11958
 Achèvement TBFS	737
 Angola TB	10784
 Annual TB	4301
@@ -39,6 +39,7 @@ KoN and TB	771
 Label of ZRCP TBA	1988
 Laboratory Commodity TB Lab Commodities HIV	4217
 Le TBFS	737
+Lesotho TB National Prevalence Survey	12678
 MW Equinix TBD Abidjan In Construction	10861
 MW TBD Abidjan	10861
 Material Specifications ZRCP TBA and Cost	1988
@@ -54,8 +55,11 @@ P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
+Previous TB	12678
 Project Development Objective Indicators RESULT FRAME TBL PD	10964
 QC QMS RTCQI SHA STI TB	4153
+Qty TBD	12763
+Qty TBD TABLE	12763
 Quantity of ZRCP TBA	1988
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
@@ -74,7 +78,9 @@ Soum le TBS	737
 South Africa's National TB Prevalence Survey	8301
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
 Stop TB Partnership	2816
+Support for World TB Day	12729
 Système Educatif National TBS Taux Brut	12
+TB Acceleration Plan	12729
 TB Backup	9475
 TB Campaign	8301
 TB Capacity for M365 Backups Software Implementation	11209
@@ -86,19 +92,33 @@ TB EMR	10784
 TB Elimination Acceleration Program	4260
 TB Elimination Acceleration The Government of Mozambique	4260
 TB Hack Claim Secondary	5146
+TB LFF SAS	12681
 TB Modelling Working Group	10784
+TB Multisectoral Accountability Framework	12729
 TB National Strategic Plan	10776
 TB RAM	12253
+TB SAS	12681
 TB SAS Drive Primary Communication	9475
 TB SATA Drive Storage	9475
 TB SSD	8289
 TB TB	3862
+TB TRIAGE	12678
+TB Tuberculosis UHC Universal Health Coverage	12729
 TB Tuberculosis WHO World Health Organization	771
-TB and HIV	3385,768,175,834
+TB and HIV	3385,768,175,834,7567
+TB and TB	12729
+TB and TB Acceleration Plan	12729
 TB-10TB	5665
+TB-MAF	12729
+TB-burdened	12678
+TB-negative	12678
+TB-positive	12678
+TB-related	12678
 TB. Approximately	12395
+TB. CAD4TB	12678
 TB. Malaria	4349
 TB. Prevention	4260
+TB. Still	12678
 TB. The Government of Mozambique	4260
 TBA Improper	1988
 TBBPA	1988

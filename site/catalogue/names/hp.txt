@@ -3,6 +3,7 @@ AI and Compute Infrastructure HPC	3859
 AU CZI ECD GDP HIT HPC	4528
 Africa HPs	12242
 Africa PPI Public Private Investment HPRN	396
+BASE-T OCP3 Adapter for HPE	12681
 CDAC HPC Resource Management Engine	9475
 Chief HP RA Others Key RCRO	12138
 Diego HP Descande	12478
@@ -16,6 +17,7 @@ GD WDEHOD LQGLFLiULD HP YLJRU QD	11530
 GRV GDV FOiXVXODV HP DQH	11530
 GSM Global System for Mobile Communications HPP	718
 GSMA GSM Association HPC High-Performance Computing	7548
+General Programme of Work HPV Human Papillomavirus	12729
 Giciye III HPP	718
 Governo UHVSRQViYHOSHODViUHDVGRDVLORHGDPLJUDomR HP	11530
 HFRQKHFHQGR TXH R JUXSR HP UHIHUrQFLD	11530
@@ -35,7 +37,11 @@ HPCSA	396,7905,2951
 HPCSA Booklet	8301
 HPE Cores	11471
 HPE Cray XD670	11471
+HPE DDR5 Smart Memory	12681
 HPE Infrastructure	11209
+HPE OneView Standard	12681
+HPE ProLiant DL360 Gen11	12681
+HPE ProLiant DL385 Gen11	12681
 HPE Synergy	11209
 HPE Synergy Frames. Proposed Specification	11209
 HPE. Selon	10933

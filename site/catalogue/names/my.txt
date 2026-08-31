@@ -106,7 +106,7 @@ My Impilo	9429
 My Impilo Create	9429
 My Impilo Work	9429
 My Lines	9827,278
-My Ministry	3511
+My Ministry	3511,9091,4
 My Money	4439,7995
 My Municipality	11294,47
 My NTRA	9410,2,35,25,633
@@ -157,7 +157,7 @@ MyMzansicitizen	8779
 MyMzanzi	3922
 MyNumber Card	10714
 MyOoredoo	5391
-MySQL	6432
+MySQL	6432,6261
 MySQL and SQL Server	10060
 MyShopp	3065
 MySol	12376
@@ -186,8 +186,10 @@ Myanmar Rapid	226
 Myanmar and Pakistan	11894
 Myanmar and South Africa. Four	11964
 Mycheal Sebihile	12478
+Mycobacterial Diseases	12678
 Myers	5349,3928,2865
 Myers West	11135
+MyfoodnessApp	12540
 Mykolas Majauskas	9658
 Myo-Kye	1365
 Myra Harrison	1679
@@ -220,6 +222,7 @@ Seychelles. My	3511
 South Africa’s MyMzansi	11006
 South Africa’s MyMzansi Digital Public Infrastructure	10185
 Sri Lanka Kiribati Mongolia Myanmar Nepal	10764
+TVET. My	12612
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433
 Voting Card Mozambique Myanmar Civil Registry	10714
 WhatsApp. The My NTRA	11642

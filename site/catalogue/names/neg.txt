@@ -74,7 +74,8 @@ Negativo	10750,1,1267
 Negação	3519
 Neglected	12405
 Neglected Aspect of Nigerian Public Financial	11866
-Neglected Tropical Diseases	10780
+Neglected Tropical Diseases	10780,1949
+Neglected Tropical Diseases PHC Primary Health	12729
 Negligence	11198
 Negligently	11984
 Negligible PAGE	2775
@@ -98,7 +99,7 @@ Negotiating	226,4448,4445,2079
 Negotiating Across Institutions AfCFTA	10555
 Negotiating Sustainable Development Provisions	1243
 Negotiation	1243
-Negotiations	1243,4120,1220,615,1925,633,1037,392,63
+Negotiations	1243,4120,1220,615,1925,633,1037,392,63,1305,42
 Negotiations Continue After Signing	10555
 Negotiations and Agreements	7198
 Negotiations and Agreements Regulation M-A Item	7198

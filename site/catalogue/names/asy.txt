@@ -3,13 +3,15 @@ APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48
 ASYCUDA Automated System for Customs Data AWP	969
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268
+ASYCUDA World Password Reset Process	12654
+ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
 ASYCUDA. The TIN	12349
-ASYCUDAWorld	1393,999,9183
+ASYCUDAWorld	1393,999,9183,1079
 ASYFIVE	4747
 ASYLUM SEEKERS	11177
 Amnesty International. Doğu Asya Araştırmaları Dergisi	2518
@@ -39,6 +41,7 @@ CMR Asylum-seekers REF	11900
 CONCLUSION Remote Channels ASYCUDA WORLD Email	10762
 Chad’s Asylum Law	10841
 Courier Manifest ASYCUDA IATA Cargo XML	12454
+Customs Procedures and Automation ASYCUDAWorld Registration	12654
 Djibouti Digital Customs ASYCUDAWorld.pdf	1393
 Download Asycudaworld Tax Information Turnover Tax	12454
 European Union Agency for Asylum	11868

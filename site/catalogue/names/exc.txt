@@ -16,7 +16,7 @@ AU Regional Internet Exchanges Initiative	578
 AWS Outpost and Centre of Excellence	9853
 Accelerating the Centre of Excellence and Innovation	11134
 Act NGDX Nigerian Data Exchange NIBSS	11952
-Addressing Regional Exclusion Through Shared Infrastructure	12432
+Addressing Regional Exclusion Through Shared Infrastructure	12432,252
 Administración Local Excelentísimo	1855
 Africa Congo Internet Exchange	6446,979
 Africa Cybersecurity Centre of Excellence. Starting	7079
@@ -61,13 +61,20 @@ Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
 Average Exchange Rates.pdf Powercom Powercom	1944
 BDO Zimbabwe Chartered Accountants Exchange Control	4896
+BOCRA Auditorium. The Botswana Internet Exchange	12625
 Balancing Operational Excellence	11134
 Banco Nacional de Angola. Exceptuam-se	11386
 Bench Database Exclusive Features Roadmaps Deep	9629
 Benefits of Data Exchange Standards	12360
 Bills of Exchange	9220,121
 Bills of Exchange Amendment Bill	9215
+Body Lesotho Internet Exchange Point Peers	12743
 Bolstering of Foreign Exchange Reserves	11131
+Bombay Stock Exchange	12577
+Botswana Health Information Exchange	12569
+Botswana Internet Exchange Point	12625
+Botswana Mercantile Exchange	12598
+Botswana Stock Exchange	12598
 Botswana Stock Exchange Limited	6938
 Botswana Stock Exchange-listed	3174
 Botswana Stock Exchange. The Lesedi	8786
@@ -166,7 +173,7 @@ Customer Experience Excellence	3487
 Customer Service The Centre of Excellence and Innovation	11134
 Customer-Centric Experience Excellence	3487
 Customs Data Exchange	5244
-Customs and Excise	5247
+Customs and Excise	5247,7397
 Customs and Excise Act	11181,9,73
 Customs and Excise Bills	7695
 Customs and Excise Junior Officer	11289
@@ -208,6 +215,7 @@ Decentralised Continuous Transaction Control and Exchange	8670
 Deep Tech Centre of Excellence	5249
 Defending the Data Exchange	9879
 Deletion of Zimbabwe Stock Exchange	4896
+Deliver Excellent Patient Care	12529
 Deportes. Excelentísimo	6841
 Deputy Director of Customs and Excise	7823
 Deputy Director of Monitoring and Exchange Regulations	6938
@@ -282,7 +290,7 @@ Exceeded	11198
 Exceeding	5676
 Exceeding E50	12393
 Excei	3972
-Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172
+Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304
 Excel Joab	9739
 Excel-based	1824,10201
 Excel-based E-tick	12025
@@ -296,7 +304,7 @@ Excelentísimo	1855,4986
 Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Excelia	3394
 Excellen Crosswalk	124
-Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422
+Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422,40
 Excellence Cloud	3857
 Excellence Consumer Price Index Consumer Protection	11134
 Excellence Foundation	4042
@@ -311,7 +319,8 @@ Excellence Universities	4126
 Excellence and Innovation Fintech Development Finance CBE	12390
 Excellence des Données	2991
 Excellences	1967,7671
-Excellencies	7103,2658,198,210,1058,129,598
+Excellencies	7103,2658,198,210,1058,129,598,734,14,58
+Excellencies Heads of Diplomatic Missions	12668
 Excellency	958,196,400,998,74,161,973,2988,911,2461,1006,731,97,27
 Excellency CDE	4528,7984
 Excellency Corinne Amori Brunet	9043
@@ -319,8 +328,11 @@ Excellency Dr Omar Seguna	8992
 Excellency Dr Seguna	8992
 Excellency Dr. E.D. Mnangagwa	1554
 Excellency Dr. Emmerson D. Mnangagwa	958
-Excellency Dr. Emmerson Dambudzo Mnangagwa	5148,5173
+Excellency Dr. Emmerson Dambudzo Mnangagwa	5148,5173,2319
 Excellency Dr. Florentino Mendes Pereira	6087
+Excellency Dr. Joaquim Alberto Chissano	12640
+Excellency Dr. Mathew Antonio Patrick	12640
+Excellency Dr. Mokgweetsi Eric Keabetswe	12640
 Excellency Dr. Samia Suluhu Hassan	9011
 Excellency Governor Babajide Sanwo- Olu	6376
 Excellency Governor Yvon Sana Bangui	7150
@@ -335,13 +347,14 @@ Excellency Mahmoud Ali Youssouf	10169
 Excellency Minister Musabyimana	12370
 Excellency Mohammed B.S. Jallow	7694
 Excellency Mr Cyril Ramaphosa	11183
+Excellency Mr Daniel Francisco Chapo	12640
 Excellency Mr Elias M. Magosi	10321
 Excellency Mr Hakainde Hichilema	11112
 Excellency Mr Jacob Zuma	11183
 Excellency Mr Jean Yvan Robert	9658
 Excellency Mr. Bola Ahmed Tinubu	11925
 Excellency Mr. Louis-Paul	4103
-Excellency Mr. Matamela Cyril Ramaphosa	10321
+Excellency Mr. Matamela Cyril Ramaphosa	10321,2319
 Excellency Mr. Mário Oliveira	11466
 Excellency Mrs. Sarah S. Molosiwa	6642
 Excellency Muhammadu Buhari	11857
@@ -356,9 +369,11 @@ Excellency President Emmerson Mnangagwa	10169
 Excellency President Félix Tshisekedi	6753
 Excellency President John Dramani Mahama	7695
 Excellency President Mahama	7695
+Excellency President Matamela Cyril Ramaphosa	12640
 Excellency President William Samoei Ruto	10313
 Excellency President Yoweri Kaguta Museveni	9781
 Excellency Prime Minister Rimtalba Jean	4727,1
+Excellency Professor Arthur Peter Mutharika	12640
 Excellency Shri Narendra Modi	11183,742
 Excellency Tewodros Mihret	12288
 Excellency The Deputy President	12321
@@ -368,7 +383,7 @@ Excellency the President	3760,3935,972,3124,662
 Excellency the President Cde. Dr. Emmerson	3760
 Excellency the President's Attendance	3760
 Excellency the Prime Minister Russel Dlamini	11131
-Excellent	962,3563,722,2540,2273,703,1100,145,206,213
+Excellent	962,3563,722,2540,2273,703,1100,145,206,213,259,7,61
 Excellent Renouvellement	10876
 Excellent. Get	10313
 Excellent. Well	7065
@@ -429,6 +444,7 @@ Exchange ECPC Economic and Monetary Community of Central	10980
 Exchange Gateway	6019
 Exchange MINFIN Ministério	10765,10
 Exchange Office	7655
+Exchange Point	12622,121
 Exchange Point JTB Joint Tax Board	11857
 Exchange Points	961
 Exchange Points FMCT	11857
@@ -465,7 +481,7 @@ Excise	5655,2844,2498,527,861,115
 Excise Cap	6921
 Excise Division	11289
 Excise Duty	6949
-Excise Duty Act	6409,540,1804,3455
+Excise Duty Act	6409,540,1804,3455,421
 Excise Duty Act. The Bills	7695
 Excise Duty Bill	7695
 Excise Duty Reforms	7695
@@ -525,12 +541,13 @@ Exclusion Thresholds	7548
 Exclusion and Optimal PodYield Production	1154
 Exclusion of SMEs	1248
 Exclusionary Regulations	2307
-Exclusions	2624,9515,200
+Exclusions	2624,9515,200,236
+Exclusions PART IV	12532
 Exclusions This Supplementary Act	11517
 Exclusions and Carve-Outs	3861
 Exclusiva Digital	5568
 Exclusivamente	11373
-Exclusive	2677,85,389,976,117,432,400,171,144,1041,821,106,766,613,1707,384,221,1386
+Exclusive	2677,85,389,976,117,432,400,171,144,1041,821,106,766,613,1707,384,221,1386,99
 Exclusive Analysis	5278
 Exclusive Economic Zone of Nigeria	11976
 Exclusive Economic Zones	4676
@@ -572,6 +589,7 @@ Foreign Position Exchange Reserves Capital	11134
 Formal Financial Exclusion	2775
 Fostering Payments Exchange Access	12214
 Foundational and Applied Research Excellence	4528,7984
+Framework for Secure Exchange of Information	12562
 Functional AI Exchequer	7548
 Fund Female Education Excellence	5163
 G Network Now Exceeds NetOne and Telecel	6011
@@ -605,7 +623,7 @@ Harare Internet Exchange Point	578
 Harare Regional Internet Exchange Point EXPECTED	578
 Health Excellence	396
 Health Excellence NGO Non-Governmental Organisation ADB	396
-Health Information Exchange	21,2594,785,753,1486,634
+Health Information Exchange	21,2594,785,753,1486,634,6333
 Health Information Exchange HIE	3400
 High Excess Energy Week	11228
 High Representative of His Excellency Mr. Paul	4103
@@ -633,10 +651,12 @@ Instant and Inclusive Payment System Center of Excellence	2180
 Interconnect Exchange	3862
 International Information Exchange Ethiopia	12500
 Internet Exchange	6238
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203
+Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
+Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
 Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
 Internet Exchange Q4	11857
@@ -670,6 +690,8 @@ LISTA DE EXCLUSÃO	11406
 LONG TERM Create the Regional Centre of Excellence	5677
 LUSAKA SECURITIES EXCHANGE SBICZMLX SBICZMLX MINISTRY	12364
 Language Excellence	4126
+Lesotho Internet Exchange Point	12709
+Lesotho Internet Exchange Point City	12743
 Levy Excise	5655
 Libyan National Data Exchange	7159
 Lilongwe Internet Exchange	7246
@@ -688,7 +710,7 @@ MALAWI INTERNET EXCHANGE MIP	12253
 MERJ Exchange Seychelles	950
 MIDN Dakar Peer Exchange	6963
 MOT DE SON EXCELLENCE MONSIEUR	10965
-MS Excel	3118,9033
+MS Excel	3118,9033,525
 MS Excel-based	11122,30
 MS Excel. Analytical	2948
 MS- Excel	747
@@ -751,6 +773,7 @@ National Health Information Exchange	1009
 National Health Information Exchange Platform. Over	12004
 National Health Information Exchange System	12004
 National Payment Systems Centre of Excellence and Innovation	12390
+National Stock Exchange of India Limited Exchange	12576
 Natural Language Processing Centre of Excellence	4126
 Neither the Securities and Exchange Commission	7198
 Network Service Provider CoE Centre of Excellence	6946
@@ -779,7 +802,7 @@ OPERATION EXCELLENCE Eﬃciency	11131
 Old New Excise Excise	6921
 On-time Filing of Domestic Excise Tax Declarations	12500
 On-time Filing of Domestic Excise Tax Declarations--Large	12500
-Open Health Information Exchange	12141
+Open Health Information Exchange	12141,440
 Operational Excellence	3487
 Orientación de Tierras Excelentísimo	1855
 Output Centre of Excellence Central Bank of Reference	11134
@@ -829,7 +852,9 @@ Regional Internet Exchanges Initiative	578
 Regional Stock Exchange Settlement Bank	10853
 Regulating the Activity of Foreign Exchange	11960
 Reporting Exchange Control Secretaries Advisor Broker	4896
+Republic Day Youth Exchange	12617
 Republic of Congo His Excellency	12052
+Research Exchanges	12675
 Research and Exceptions	12185
 Research for Agricultural Excellence Indaba	1554
 Restore NCC’s Exclusive Telecom Powers Wale	7776
@@ -915,6 +940,8 @@ Sorting Centres Excluding Delivery Offices	12395
 Sous la Présidence de Son Excellence	4402
 Southern Africa Health Community ECSA-HC Excellence	11417
 Speech of His Excellency	2958
+Sports Exchanges Botswana	12617
+Sports and Social Development Their Excellencies	12692
 Staff Excellence Awards	11134
 Staff Excellence Awards Flowing	11134
 Staff Excellence Awards. Motivation	11134
