@@ -1,0 +1,151 @@
+indicator_id,file,brief,rank,why
+gov.policy--broadband-strategy,progress/2026-02-27-mayotte-hebdo-comores-qualite-services-operateurs-mobiles.md,2,1,ANRTIC's biennial quality-of-service control results distinct regulatory movement on network quality/4G coverage
+gov.policy--data-interoperability-framework-roadmap,progress/2026-05-04-beit-salam-president-lance-nouveaux-moyens-paiement.md,2,1,Presidential launch of Komor Switch an interoperable cross-institution payments platform
+gov.policy--ai-strategy,baseline/2024-06-11-com-anaden-ia-encore-balbutiements-comores.md,1,1,ANADEN's own dated statement that AI is in its infancy in Comoros baseline evidence of no adopted strategy
+gov.policy--ai-strategy,progress/2026-01-27-gazette-comores-webinaire-uoni-ia-comores.md,2,2,Diaspora researchers webinar explicitly calling for a national AI strategy distinct civil-society event
+gov.policy--data-localisation-policies,baseline/2014-06-26-comores-loi-14-protection-donnees-caractere-personnel.md,1,1,2014 law Art 9/43(h)/45(f) conditional cross-border-transfer regime the operative localisation-adjacent instrument
+gov.policy--data-governance-policy,progress/2026-03-19-alwatwan-conseil-ministres-strategie-gouvernance-donnees.md,2,1,Council of Ministers working-group proposal formal government sponsorship precursor to the already-held Aug 2026 strategy validation
+gov.policy--open-data-policy,baseline/2011-03-26-com-loi-11-003-au-organisation-reglementation-activites-statistiques.md,1,1,2011 statistics law Art 5 public-access/transparency rule closest instrument to an open-data legal foundation
+gov.policy--open-data-policy,progress/2026-05-20-inseed-rga2-2025-agricultural-census-microdata.md,2,1,New agricultural-census microdata release on INSEED's NADA open-data portal 21 years after the first census
+gov.protect--national-data-protection-readiness,baseline/2014-06-26-comores-loi-14-protection-donnees-caractere-personnel.md,1,1,Same 2014 law CNIL establishment (Art 19-40) primary data-protection-readiness instrument
+gov.protect--national-data-protection-readiness,progress/2026-03-19-alwatwan-conseil-ministres-strategie-gouvernance-donnees.md,2,1,Same Council of Ministers note bears on protection readiness too
+gov.standards--national-interoperability-standards,baseline/2026-08-31-puc-gouv-km-portail-unique-citoyen-note-conceptuelle.md,1,1,Government's own statement that the Plan National e-Gouv includes a Government Enterprise Architecture and Interoperability Framework
+gov.legislate--legislation-covering-digital-id,baseline/2024-08-28-decret-14-137-pr-carte-identite-comorienne-numerique.md,1,1,promulgation decree of the 2014 digital-ID law
+gov.legislate--digital-payments-legislation,baseline/2017-01-01-com-bcc-reglement-01-2017-monnaie-electronique.md,1,1,BCC e-money implementing regulation
+gov.legislate--digital-payments-legislation,progress/2026-02-24-com-axian-bcc-digital-finance-institution-license.md,2,1,BCC-licensed digital finance institution
+gov.legislate--digital-payments-legislation,progress/2026-04-15-com-dgi-atelier-teleprocedures-fiscales-cadre-juridique.md,2,2,DGI teleprocedures legal-framework workshop
+gov.legislate--ai-legislation-regulations,baseline/2024-06-11-com-anaden-ia-encore-balbutiements-comores.md,1,1,ANADEN dated statement AI legislation absent
+gov.legislate--ai-legislation-regulations,progress/2026-03-12-com-conseil-ministres-evaluation-preparation-ia.md,2,1,Council of Ministers AI-readiness evaluation
+gov.legislate--statistics-legislation,baseline/2011-03-26-com-loi-11-003-au-organisation-reglementation-activites-statistiques.md,1,1,the statistics act itself
+gov.legislate--access-to-information-legislation,baseline/2026-01-01-com-unesco-upr46-no-ati-law.md,1,1,UNESCO dated statement no ATI law adopted
+gov.regional--regional-legal-harmonisation,baseline/2024-07-08-com-au-malabo-convention-status-signed-not-ratified.md,1,1,AU treaty status signed not ratified
+gov.regional--regional-legal-harmonisation,progress/2025-10-09-com-comesa-summit-24-communique-digital-integration.md,2,1,COMESA Summit digital-integration commitment
+gov.regional--shared-regional-infrastructure,baseline/2023-03-23-com-worldbank-rcip4-icr-submarine-cables.md,1,1,World Bank RCIP4 completion report (cables)
+gov.regional--shared-regional-infrastructure,progress/2025-11-11-com-comores-cables-angola-cables-mou-africacom.md,2,1,Comores Cables-Angola Cables MoU
+gov.regional--shared-regional-infrastructure,progress/2025-09-08-com-comores-cables-angola-cables-atelier-retaj.md,2,2,precursor technical workshop
+gov.regional--cross-border-data-transfers,baseline/2014-06-26-comores-loi-14-protection-donnees-caractere-personnel.md,1,1,data-protection law Art 9 transfer rule
+gov.regional--cross-border-data-transfers,baseline/2026-08-26-com-ria-national-data-strategy-validated.md,2,1,National Data Strategy validated
+gov.regional--cross-border-data-transfers,progress/2026-06-02-com-bahrain-comoros-digital-cooperation-mou.md,2,2,Bahrain-Comoros digital-cooperation MoU
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2023-03-08-comores-code-electoral-2023.md,1,1,the only document establishing CNI use in another government system electoral registration
+dpi.exchange--interoperability-of-health-systems,baseline/2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026.md,1,1,national digital-health strategy standing interoperability picture
+dpi.exchange--interoperability-of-health-systems,progress/2026-07-01-dhis2-comores-climate-health-country-profile.md,2,1,MoH-ANACM MOU
+dpi.exchange--interoperability-of-health-systems,progress/2025-12-01-openimis-comores-amg-digital-pilot.md,2,2,distinct AMG/openIMIS pilot
+dpi.exchange--interoperability-of-education-systems,progress/2025-11-25-alwatwan-e-msomo-bulletin-unique-strategie-modernisation.md,2,1,e-Msomo bulletin unique launch
+dpi.exchange--interoperability-of-education-systems,progress/2026-02-02-alwatwan-bulletin-unique-taux-adhesion-e-msomo.md,2,2,University-admission use of bulletin unique
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2025-12-05-pfss-rrc-aide-memoire-mission-decembre-2025.md,1,1,PFSS RRC aide-memoire
+dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2024-08-28-decret-14-137-pr-carte-identite-comorienne-numerique.md,1,1,promulgation decree
+dpi.id--national-maintenance-of-id-and-credentials-systems,progress/2026-03-12-com-conseil-ministres-evaluation-preparation-ia.md,2,1,ANEC/CNI suspension deliberation
+dpi.id--authentication,baseline/2017-01-01-world-bank-id4d-state-of-identification-systems-africa-comoros.md,1,1,World Bank ID4D 2017 assessment
+dpi.id--digital-id-from-birth,baseline/2023-09-25-comores-decret-23-103-pr-loi-etat-civil.md,1,1,état civil reform decree
+dpi.id--digital-id-from-birth,progress/2025-09-25-oif-projet-ruwa-mwana-etat-civil-comores.md,2,1,OIF/CNDHL national birth-registration campaign
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2023-09-25-comores-decret-23-103-pr-loi-etat-civil.md,1,1,état civil reform decree reused
+dpi.id--interoperability-of-birth-registration-and-digital-id,progress/2026-08-11-alwatwan-journee-africaine-etat-civil-modernisation.md,2,1,African Civil Registration Day event
+dpi.pay--g2p-functionality,baseline/2026-02-26-world-bank-icr-comoros-financial-inclusion-project.md,1,1,World Bank ICR financial inclusion project
+dpi.pay--g2p-functionality,baseline/2025-12-05-pfss-rrc-aide-memoire-mission-decembre-2025.md,2,1,PFSS RRC aide-memoire reused
+dpi.pay--g2p-functionality,progress/2026-03-12-africa24-pfss-msaanda-filets-sociaux-40000-menages.md,2,2,Africa24 PFSS Msaanda coverage
+dpi.pay--revenue-collection,baseline/2026-01-29-imf-country-report-26-047-comoros-article-iv.md,1,1,IMF country report 26/047
+dpi.pay--revenue-collection,progress/2025-12-26-loi-de-finances-2026-teledeclaration-telepaiement.md,2,1,Loi de finances 2026
+dpi.pay--revenue-collection,progress/2026-04-15-com-dgi-atelier-teleprocedures-fiscales-cadre-juridique.md,2,2,DGI atelier validation cadre juridique teleprocedures fiscales
+dpi.pay--consumer-protection,baseline/2017-01-01-com-bcc-reglement-01-2017-monnaie-electronique.md,1,1,BCC reglement 01-2017 reused
+dpi.pay--consumer-protection,progress/2026-02-01-axian-dfi-license-comores-mondovisione.md,2,1,Axian DFI license
+dpi.registry--population-register,baseline/2023-09-25-comores-decret-23-103-pr-loi-etat-civil.md,1,1,2023 decree amending civil-status law basis for ANEC
+dpi.registry--population-register,progress/2025-09-25-oif-projet-ruwa-mwana-etat-civil-comores.md,2,1,OIF/CNDHL national birth-registration campaign launched 2025-09-25
+dpi.registry--address-register,baseline/2022-12-20-com-adeau-processus-adressage-annuaire-lance.md,1,1,ADEAU's official launch of the addressing/directory programme
+dpi.registry--business-register,baseline/2024-01-12-com-anpi-annuaire-entreprises-registre-public.md,1,1,ANPI's live public business-register directory itself
+dpi.registry--business-register,progress/2026-06-27-com-anpi-generic-plateforme-phase-operationnelle.md,2,1,GENERIC platform operational-phase deployment EU/UNCTAD-backed
+dpi.registry--electoral-register,baseline/2023-03-08-comores-code-electoral-2023.md,1,1,Controlling law establishing the FEN CNTDE CENI
+dpi.registry--electoral-register,progress/2026-04-18-com-rfi-seminaire-evaluation-scrutins-audit-fichier-electoral.md,2,1,Roadmap commits to an independent electoral-file audit
+dpi.registry--electoral-register,progress/2026-07-24-com-atelier-electoral-revision-fichier-electoral.md,2,2,Later distinct workshop file-revision implementation begins August 2026
+dpi.registry--tax-register,baseline/2011-07-23-com-code-general-impots-2023-fichier-unique-contribuable.md,1,1,Founding CGI establishing the unique-taxpayer-file system
+dpi.registry--tax-register,baseline/2026-01-29-imf-country-report-26-047-comoros-article-iv.md,2,1,IMF ECF review records taxpayer-administration reform progress
+dpi.registry--land-register,baseline/2023-05-02-com-decret-23-045-pr-creation-dnafd.md,1,1,Current DNAFD decree title/cadastre/digitisation mandate
+dpi.registry--land-register,progress/2025-09-23-com-nomination-dg-dnafd-affaires-foncieres.md,2,1,New DNAFD director-general appointed
+dpi.mis--social-protection,baseline/2020-06-23-com-decret-20-090-pr-registre-social-unique.md,1,1,Founding RSU decree via PFSS-RRC documentation index
+dpi.mis--social-protection,progress/2025-09-11-com-worldbank-second-dpf-financing-agreement.md,2,1,Second DPF financing agreement signed Sept 2025
+dpi.mis--customs,baseline/2026-06-11-com-dgd-modernisation-sydonia-world-guichet-unique.md,1,1,DGD's current statement SYDONIA World operational under audit
+dpi.mis--land,baseline/2025-03-24-com-ungggim-cartographic-unit-status-report.md,1,1,UN-GGIM status report on the Cartographic Unit's geospatial database
+dpi.mis--land,progress/2026-01-31-com-atelier-restitution-cartographie-nationale-moroni.md,2,1,14-theme national geospatial database validated
+dpi.mis--land,progress/2026-04-23-com-lancement-sat-ngazidja-ndzouani.md,2,2,SAT territorial-planning process launched two islands
+infra.connect--internet-usage,baseline/2021-01-01-anrtic-taux-penetration-internet-comores.md,1,1,Regulator's own standing figure 28% 2021
+infra.connect--internet-usage,progress/2025-11-08-datareportal-digital-2026-comoros.md,2,1,316k users 35.7% penetration end-2025
+infra.connect--internet-usage,progress/2025-10-01-worldbank-global-findex-2025-comoros.md,2,2,New official demand-side survey instrument catalogued in-window
+infra.connect--internet-exchange-points,baseline/2026-01-01-comores-cables-technologies.md,1,1,Operator's own statement IXP installed at Moroni
+infra.energy--sufficient-energy-and-water-for-data-centres,baseline/2026-03-24-worldbank-comoros-wash-mpa-project-appraisal.md,1,1,Most current cross-sector water-reliability appraisal
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-04-02-worldbank-ascent-comoros-pid.md,2,1,$57m grid modernisation/SCADA/redundancy programme
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2025-08-27-undp-iawasur-comoros-water.md,2,2,$71.9m climate-resilient water programme
+infra.energy--grid-reliability,baseline/2025-03-31-worldbank-comoros-solar-energy-access-additional-financing.md,1,1,Quantified 2024 capacity/demand/loss baseline
+infra.energy--grid-reliability,progress/2026-04-07-pv-magazine-comoros-solar-storage-microgrid.md,2,1,16MW solar+storage commissioned
+infra.energy--grid-reliability,progress/2026-08-04-alwatwan-moheli-penurie-carburant-electricite.md,2,2,Concrete near-blackout fuel-logistics failure
+infra.energy--rural-electrification,baseline/2025-11-01-worldbank-comoros-national-energy-compact-mission-300.md,1,1,Government's own electrification roadmap/targets
+infra.energy--rural-electrification,progress/2026-06-15-amp-comoros-minigrid-pricing-regulation-training.md,2,1,Mini-grid regulatory decree + capacity training
+infra.energy--rural-electrification,progress/2026-04-02-worldbank-ascent-comoros-pid.md,2,2,42000 new-connection target distributed-renewables component
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2024-09-01-com-afdb-padec-project-appraisal-report.md,1,1,Most authoritative technical appraisal of govt ICT state
+infra.capacity--robustness-of-government-hardware-and-software,progress/2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet.md,2,1,Distinct procurement step design/supervision firm
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2024-09-01-com-afdb-padec-project-appraisal-report.md,1,1,Same document capacity-constraint findings
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-06-03-bizbahrain-bahrain-comoros-mou-digital-cooperation.md,2,1,Bahrain-ANADEN capacity-building MoU
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-07-30-isdb-anaden-eoi-digitalisation-supervision-cabinet.md,2,2,Supervision-capacity outsourcing
+infra.cybersec--national-cybersecurity-readiness,baseline/2021-11-04-ancs-about-direction-nationale-cybersecurite.md,1,1,Primary statement national CERT authority legal basis
+digital.localgov--ict-infrastructure-for-local-government,baseline/2024-09-01-com-afdb-padec-project-appraisal-report.md,1,1,PADEC appraisal report
+digital.localgov--ict-infrastructure-for-local-government,progress/2025-12-22-comores-mfbsb-appel-offre-cablage-informatique-23-sites.md,2,1,Tender to cable 23 sites
+digital.localgov--ict-infrastructure-for-local-government,progress/2025-09-03-anaden-comores-rencontre-secretariat-general-gouvernement.md,2,2,ANADEN meeting with Secretariat-General
+digital.localgov--digitalisation-of-local-government-records,baseline/2023-09-25-comores-decret-23-103-pr-loi-etat-civil.md,1,1,etat civil reform decree
+digital.localgov--digitalisation-of-local-government-records,progress/2025-10-04-amecc-comores-atelier-lancement-etude-digitalisation-etat-civil.md,2,1,AMECC launch workshop for civil-registry digitisation study
+digital.rural--digitalisation-of-rural-health-clinics,baseline/2021-07-01-comores-strategie-nationale-sante-numerique-2022-2026.md,1,1,national digital-health strategy
+digital.rural--digitalisation-of-rural-health-clinics,progress/2025-10-31-dhis2-comores-supply-chain-management-open-msupply.md,2,1,DHIS2 supply-chain openMSupply
+digital.rural--digitalisation-of-rural-health-clinics,progress/2025-10-03-oms-comores-innovation-numerique-campagnes-vaccination.md,2,2,WHO Comoros digital-innovation vaccination campaigns
+digital.rural--digitalisation-of-rural-primary-schools,baseline/2025-01-01-comores-gpe-rapport-achevement-education-primaire.md,1,1,GPE completion report education primaire
+digital.rural--digitalisation-of-rural-primary-schools,progress/2025-11-25-alwatwan-e-msomo-bulletin-unique-strategie-modernisation.md,2,1,e-Msomo bulletin unique modernisation strategy
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-03-05-unicef-comores-kits-informatiques-ecoles-primaires-ngazidja.md,2,2,UNICEF computer kits for primary schools Ngazidja
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2023-09-25-comores-decret-23-103-pr-loi-etat-civil.md,1,1,etat civil reform decree reused
+digital.rural--digitalisation-of-rural-registry-offices,progress/2025-10-09-amecc-comores-retour-video-moment-cle-avenir-etat-civil.md,2,1,AMECC retour en video moment cle avenir etat civil
+digital.rural--digitalisation-of-rural-registry-offices,progress/2026-08-28-lagazettedescomores-amecc-etat-civil-enterrer-registres-papier.md,2,2,AMECC etat civil enterrer registres papier
+digital.rural--digitalisation-of-rural-police-stations,baseline/2023-06-01-comores-strategie-nationale-lbc-ft-padm-2023-2027.md,1,1,national AML/CFT PADM strategy 2023-2027
+tech.ai--use-of-ai-in-government-administration,progress/2026-08-15-anpi-comores-ai-forward-comores-edition-2026.md,2,1,AI Forward Comores edition 2026
+tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2024-06-11-com-anaden-ia-encore-balbutiements-comores.md,1,1,ANADEN AI in its infancy statement reused
+tech.ai--use-of-ai-in-sectoral-management-information-systems,progress/2026-07-01-dhis2-comores-climate-health-country-profile.md,2,1,DHIS2 climate health country profile
+tech.ai--use-of-ai-in-sectoral-management-information-systems,progress/2026-05-11-dhis2-community-ai-predictive-epidemiology-malaria-comoros.md,2,2,DHIS2 community AI predictive epidemiology malaria
+tech.ai--control-of-ai-abuse,baseline/2022-01-18-comores-decret-22-003-pr-loi-cybersecurite-cybercriminalite.md,1,1,cybersecurity/cybercrime law decree
+tech.ai--control-of-ai-abuse,progress/2026-02-27-cnpa-comores-nouveau-souffle-code-information-communication.md,2,1,CNPA new momentum on information/communication code
+tech.ai--control-of-ai-abuse,progress/2026-04-26-cnpa-comores-emicn-colloque-moroni-2026.md,2,2,CNPA EMICN colloquium Moroni 2026
+tech.innovate--tech-startup-ecosystem,baseline/2024-09-01-com-afdb-padec-project-appraisal-report.md,1,1,PADEC appraisal report reused
+tech.innovate--tech-startup-ecosystem,progress/2026-08-11-lagazettedescomores-hackathon-wamanga-wa-komor-10-projets.md,2,1,Hackathon Wamanga Wa Komor 10 projects
+tech.innovate--tech-startup-ecosystem,progress/2026-05-07-afd-comores-facilite-emploi-2-11-projets-locaux.md,2,2,AFD Facilite Emploi 2 11 local projects
+capacity.literacy--digital-literacy-civil-service,progress/2026-07-18-com-douane-renforcement-capacites-formation-chine.md,2,1,20 customs officials completed ICT-focused capacity-building in China
+capacity.literacy--digital-literacy-general-population,progress/2026-04-28-com-oif-inauguration-centre-d-clic-clac-iconi.md,2,1,first D-CLIC community digital-training centre opened 60-person cohort
+capacity.training--dt-related-university-facilities-and-qualifications,baseline/2026-08-31-com-udc-institut-universitaire-technologie-presentation.md,1,1,UDC's own IUT page clearest primary public ICT training structure
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-07-18-com-vertex-international-university-accreditation.md,2,1,new private institution accredited College of Engineering and IT
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-05-05-com-iut-esti-convention-partenariat.md,2,2,IUT-ESTI Madagascar curriculum-modernisation partnership
+capacity.training--graduates-entering-dt-ecosystem,progress/2026-06-15-com-technopole-numerique-34-attestations.md,2,1,34 IUT students completed and certified web-dev training
+capacity.training--graduates-entering-dt-ecosystem,progress/2026-02-02-com-d-clic-2e-cohorte-moheli.md,2,2,second D-CLIC cohort decentralised to Moheli
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2026-08-26-com-ria-national-data-strategy-validated.md,1,1,RIA's own account of validating Comoros's first National Data Strategy
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-07-15-com-ria-data-governance-review-workshop.md,2,1,earlier draft-review milestone in the same process
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-01-22-com-shikomori-ict-comprehension-access-uptake.md,2,2,distinct peer-reviewed academic policy output
+include.access--citizen-feedback-portals,baseline/2026-08-31-com-justice-nous-contacter-reclamation-plainte.md,1,1,Ministry of Justice's live citizen complaint form
+include.access--citizen-feedback-portals,progress/2026-03-09-com-worldbank-wash-mpa-project-appraisal-arsee-feedback.md,2,1,planned ARSEE public feedback mechanism WASH programme
+include.access--citizen-feedback-portals,progress/2026-03-30-com-ccardesa-fsrp-grievance-redress-consultation.md,2,2,FSRP grievance-mechanism stakeholder consultation
+include.access--citizen-participation-in-policy,baseline/2024-09-01-com-afdb-padec-project-appraisal-report.md,1,1,PADEC's CSO-inclusive Steering Committee the operating mechanism
+include.access--citizen-participation-in-policy,progress/2026-07-15-com-ria-data-governance-review-workshop.md,2,1,draft data-governance strategy review workshop
+include.access--citizen-participation-in-policy,baseline/2026-08-26-com-ria-national-data-strategy-validated.md,2,2,final strategy validation civil society included
+include.access--inclusion-of-persons-with-disabilities,baseline/2026-01-01-com-fahac-upr46-joint-submission-disability-law.md,1,1,most detailed authoritative account of the 2014 disability law's standing/implementation gap
+include.access--inclusion-of-persons-with-disabilities,progress/2026-04-07-com-droits-humains-mise-en-oeuvre-recommandations-epu.md,2,1,UPR-recommendations implementation roadmap launched
+include.access--inclusion-of-persons-with-disabilities,progress/2026-01-28-com-undrr-gender-disability-inclusive-sendai-workshop.md,2,2,disability inclusion in DRR/early-warning governance
+include.access--inclusion-of-refugees-and-idps,baseline/1988-01-01-com-loi-82-026-conditions-entree-sejour-etrangers.md,1,1,operative legal instrument currently applied to foreign arrivals
+include.access--inclusion-of-refugees-and-idps,progress/2025-11-30-com-unhcr-samco-monthly-protection-dashboard-nov2025.md,2,1,Nov 2025 registration snapshot 24 persons
+include.access--inclusion-of-refugees-and-idps,progress/2026-01-19-com-unhcr-protection-dashboard-dec2025-comoros-mission.md,2,2,Dec 2025 UNHCR mission to Moroni/Anjouan
+data.statistics--statistics-from-administrative-data,baseline/2011-03-26-com-loi-11-003-au-organisation-reglementation-activites-statistiques.md,1,1,Founding statute defines fichiers administratifs makes INSEED lead body
+data.statistics--statistics-from-administrative-data,progress/2026-08-31-unsd-datas-in-comoros.md,2,1,UNSD/INSEED DATAS initiative admin-data integration
+data.open--use-of-open-data,baseline/2026-08-23-inseed-archive-nationale-microdonnees.md,1,1,INSEED's operative national microdata archive the instrument itself
+data.open--use-of-open-data,progress/2026-05-20-inseed-rga2-2025-agricultural-census-microdata.md,2,1,New RGA-2 agricultural-census microdata published to the archive
+data.open--use-of-open-data,progress/2026-05-10-inseed-ehcvm-2024-microdata.md,2,2,New EHCVM 2024 household-survey microdata published to the archive
+data.satellite--agricultural-use-of-satellite-data,baseline/2026-08-31-fao-giews-earth-observation-comoros.md,1,1,FAO GIEWS operative satellite-based drought/vegetation monitoring system
+data.satellite--meteorological-use-of-satellite-data,baseline/2024-07-01-country-hydromet-diagnostics-comores-anacm.md,1,1,Most authoritative direct assessment of ANACM satellite-meteorology capability
+data.satellite--meteorological-use-of-satellite-data,progress/2025-11-18-wmo-crews-swio-project-comoros.md,2,1,CREWS SWIO Phase II pipeline regional forecasting capacity
+data.satellite--meteorological-use-of-satellite-data,progress/2026-02-23-meteocomores-atelier-transformation-digitale-wigos-wis2.md,2,2,ANACM national WIGOS/WIS2 data-transmission training workshop
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,baseline/2023-05-31-usembassy-american-corner-connects-comoros.md,1,1,Clearest completed US-govt digital-technology engagement no hyperscaler MoU found
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2025-09-05-usembassy-fbi-cybercrime-training-comorian-officers.md,2,1,FBI digital-evidence/cybercrime training INL-funded
+geopol.china--chinese-mous-engagements-and-commitments,baseline/2025-11-19-china-embassy-ambassador-huang-meets-telecoms-minister.md,1,1,Most current dated diplomatic statement on China-Comoros digital cooperation
+geopol.china--chinese-mous-engagements-and-commitments,progress/2026-02-13-huawei-axian-telecom-strategic-cooperation-mou.md,2,1,AXIAN-Huawei strategic MoU most concrete commercial commitment in window
+geopol.china--chinese-mous-engagements-and-commitments,progress/2025-11-18-china-embassy-huawei-ict-academy-opening-speech.md,2,2,Huawei ICT Academy launch distinct capacity-building event
+geopol.gulf--gulf-mous-engagements-and-commitments,baseline/2016-11-18-huawei-marine-avassa-submarine-cable-delivered.md,1,1,UAE-linked (e-marine) physical asset the standing infrastructure itself
+geopol.india--india-mous-engagements-and-commitments,baseline/2026-04-01-mea-india-comoros-bilateral-brief.md,1,1,India's own current-state brief confirms e-VBAB MoU as standing digital commitment
+geopol.india--india-mous-engagements-and-commitments,progress/2026-03-24-eoi-antananarivo-itec-day-2025-26-comoros.md,2,1,ITEC Day 2025-26 ceremony sole in-window candidate
