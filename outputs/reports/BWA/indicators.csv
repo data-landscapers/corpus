@@ -229,3 +229,412 @@ Four years of a nine-year facility with no disbursement is the position. The min
 geopol.gulf--gulf-mous-engagements-and-commitments,No change,"Heads of agreement with a Gulf counterparty on the private data centre [are unchanged, and the counterparty is not named in the operator's latest quarterly account](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana).","[Heads of agreement with a Gulf counterparty were negotiated in March 2025 with site and technical planning progressed by September 2025](2025-09-26-kala-data-centre-tlou-energy-itweb); 2026-08-03 — [the counterparty is not named in the operator's quarterly account](2026-08-03-itweb-tlou-energy-kala-data-centre-botswana).
 
 It is the only Gulf instrument the base holds for the country at any date, and the silence is the finding: the data centre it concerned is now commissioned and reporting revenue, reported under storage, with no statement of whether the agreement survived into the operating phase.",BWA-geopol.gulf-kala-data-heads-agreement
+gov.policy--ict-strategy,"No change, the adopted policy is nineteen years old",The [2007 Maitlamo policy remains the only adopted national ICT policy](2007-08-01-bwa-maitlamo-national-ict-policy); the 2030 roadmap that has replaced it in ministerial usage carries no adoption date.,"2025-08-17 — [Parliament passed the Digital Services Bill and the Cybersecurity Bill under certificate of urgency](2025-08-17-bwa-digital-services-cybersecurity-bills-passed), the legislative core of the current agenda.
+
+2026-02-09 — [the national digital-ID programme is named among the strategic projects the 2026/27 budget analyses under the economic transformation plan](2026-02-09-botswana-2026-budget-speech).
+
+The base holds no revision of the 2007 policy and no instrument adopting the roadmap.",BWA-gov.policy-maitlamo-ict-policy|BWA-gov.policy-ict-roadmap-2030
+gov.policy--broadband-strategy,"Advanced, on the machinery around the strategy rather than the strategy","The [2018 National Broadband Strategy is unrevised](2018-06-01-bwa-national-broadband-strategy), but its funding and its service-quality machinery both moved this year.","2025-09-01 — [a framework formalised the levy funding the strategy’s universal-access arm and set the fund’s governance and categories of intervention](2025-09-01-bwa-uasf-framework).
+
+2026-04-01 — [service-quality guidelines came into force for licensed communications operators](2026-04-01-bwa-bocra-qos-qoe-guidelines), the first enforceable nationwide quality regime the base holds.
+
+The strategy itself has not been revised since June 2018 and no successor is on the record.",BWA-gov.policy-national-broadband-strategy|BWA-gov.standards-bocra-qos-qoe-guidelines|BWA-include.divides-uasf-framework
+gov.policy--data-storage-cloud-strategy,"Advanced, facilities with no strategy behind them",No national data-storage or cloud strategy is held; the [Tier III Digital Delta data centre](2025-11-25-bwa-digital-delta-data-centre-launch) is the nearest thing to one.,"2025-11-25 — [the Digital Delta Data Centre was launched as a Tier III certified facility](2025-11-25-bwa-digital-delta-data-centre-launch), with core government systems to migrate onto it.
+
+2025-10-17 — [the Digital Services Act supplies the hosting and information-security architecture around the build](2025-10-17-bwa-digital-services-act-2025).
+
+The base holds no standalone cloud or data-storage strategy, and no policy stating where government workloads must sit.",BWA-infra.store-digital-delta-data-centre|BWA-infra.store-government-migration-digital-delta
+gov.policy--data-interoperability-framework-roadmap,"Advanced, a statutory duty with no published framework",The [Digital Services Act requires a framework for secure exchange of information and an information gateway](2025-10-17-bwa-digital-services-act-2025); neither the framework nor a roadmap is published.,"2025-10-17 — [sections 12 and 22 require a standardised framework for secure exchange of information and an information gateway](2025-10-17-bwa-digital-services-act-2025).
+
+2026-02-17 — [a programme running since August 2024 is improving and aligning the national interoperability framework, its standards, guidelines and tools](2026-02-17-eu-support-digital-transformation-botswana).
+
+No framework document, roadmap or timetable has been published, and the base carries nothing on the gateway being built.",BWA-dpi.exchange-framework-secure-exchange-information|BWA-gov.standards-national-interoperability-framework
+gov.policy--ai-strategy,"Advanced, at final drafting for a second year",The National AI Policy [was reported at an advanced stage in December 2025](2025-12-22-bwa-unesco-ai-ethics-country-profile) and is not adopted.,"2025-08-13 — [an assistant minister said the policy was being finalised, naming pilots in agriculture, remote-area health diagnostics and the digitisation of licensing and social welfare](2025-08-13-bwa-ai-policy-final-stage).
+
+2025-12-22 — [the country profile still records the policy at an advanced stage](2025-12-22-bwa-unesco-ai-ethics-country-profile), four months later.
+
+The [readiness assessment behind it was completed and published](2025-01-01-bwa-unesco-ai-readiness-assessment-report). No draft text, adoption date or implementation plan is held.",BWA-tech.ai-ai-policy-or-strategy|BWA-tech.ai-ai-readiness-assessment
+gov.policy--data-governance-policy,"Advanced, statute and practice moving with no policy between them",No standalone data-governance policy is held; the [Digital Services Act carries the enterprise data inventory and information-resource duties instead](2025-10-17-bwa-digital-services-act-2025).,"2025-10-17 — [the Act establishes the Digital Services Authority and requires enterprise data inventories, information resource management and information-security provision](2025-10-17-bwa-digital-services-act-2025).
+
+2026-02-02 — [the public service began harmonising employee privacy notices and issued a standard data-subject-rights form](2026-02-02-bwa-dpsm-harmonise-privacy-notices).
+
+The base holds no data-governance policy document, and no statement of who owns government data across ministries.",BWA-gov.legislate-digital-services-act|BWA-gov.protect-dpsm-employee-privacy-notices
+gov.policy--open-data-policy,"Advanced, mandated by statute and still unadopted",[Part V of the Digital Services Act mandates a national open data policy](2025-10-17-bwa-digital-services-act-2025); the policy itself is not published.,"2025-10-17 — [section 24 requires a national open data policy and machine-readable publication](2025-10-17-bwa-digital-services-act-2025).
+
+2026-03-14 — [terms of reference were issued for a second phase of open data hackathons and a forum, tied to the policy’s anticipated adoption by Parliament](2026-03-14-bwa-haus-open-data-hackathon-tor-phase2).
+
+The statutory duty was made in October 2025 and no draft policy, adoption date or national portal has followed.",BWA-data.open-open-data-portal-or|BWA-data.open-open-data-hackathons
+gov.legislate--legislation-covering-digital-id,Advanced,"[Section 14 of the Digital Services Act provides for online unique identification](2025-10-17-bwa-digital-services-act-2025), and the [amending registration Act commenced in November 2025](2026-02-24-mlha-committee-of-supply-speech-2026-27).","2025-10-17 — [the Digital Services Act was assented, its section 14 providing for online unique identification](2025-10-17-bwa-digital-services-act-2025).
+
+2026-02-24 — [the ministry confirmed the National Registration (Amendment) Act No. 7 of 2025 commenced in November 2025, and reported a digital-ID roadmap facilitated by the African Development Bank due at the end of March 2026](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+No commencement notice for the Digital Services Act itself is held, and no roadmap document.",BWA-gov.legislate-digital-services-act|BWA-dpi.id-registration-amendment-act-2025
+gov.legislate--legislation-enabling-data-interoperability,Advanced,"The [Digital Services Act supplies the enabling law for data interoperability](2025-10-17-bwa-digital-services-act-2025), at sections 12 and 22.","2025-10-17 — [the Act requires a standardised framework for secure exchange of information and an information gateway](2025-10-17-bwa-digital-services-act-2025), the first statutory basis for cross-government data exchange the base holds.
+
+No regulations have been made under either section, and the base carries nothing on the gateway being built.",BWA-gov.legislate-digital-services-act|BWA-dpi.exchange-framework-secure-exchange-information
+gov.legislate--ai-legislation-regulations,No change,[No AI-specific Act or regulation exists](2025-12-22-bwa-unesco-ai-ethics-country-profile); the Data Protection Act 2024 is the closest adjacent enacted instrument.,"2025-12-22 — [the country profile records no AI legislation and the national policy at an advanced stage](2025-12-22-bwa-unesco-ai-ethics-country-profile).
+
+2025-08-13 — [a minister said the policy was in final drafting](2025-08-13-bwa-ai-policy-final-stage), the earliest in-window movement toward one.
+
+The absence was searched on 31 August 2026 and nothing was found: no Bill, no regulations under an existing statute, and no announced timetable for either.",BWA-gov.legislate-ai-legislation|BWA-tech.ai-ai-policy-or-strategy
+gov.legislate--e-commerce-legislation,"Advanced, on the tax side",The [Electronic Communications and Transactions Act 2014 is the principal e-commerce statute](2014-05-14-bwa-electronic-communications-transactions-act); the movement this year was in taxing digital supply.,"2014-05-14 — [the Act gives legal recognition to electronic communications and transactions](2014-05-14-bwa-electronic-communications-transactions-act) and is unamended on the record.
+
+2026-05-29 — [regulations set the registration and compliance machinery for foreign suppliers of remote services](2026-05-29-bwa-vat-remote-services-regulations).
+
+2026-07-01 — [the Value Added Tax Act 2026 was gazetted, taxing remote services and electronic marketplaces supplied into Botswana](2026-07-01-bwa-vat-act-2026).
+
+The capture of the 2014 Act is a truncated scan and does not carry its commencement date.",BWA-gov.legislate-electronic-communications-transactions-act|BWA-gov.legislate-remote-service-vat-act
+gov.legislate--statistics-legislation,"No change, with the movement in strategy rather than law",The [Statistics Act commenced in December 2010](2010-12-01-bwa-statistics-act-2009) and is unamended; a second development strategy launched in its place.,"2010-12-01 — [the Act establishes Statistics Botswana and the national statistical system](2010-12-01-bwa-statistics-act-2009), including the ten-yearly census mandate.
+
+2025-11-24 — [the second strategy for the development of statistics was launched, after more than a year’s preparation](2025-11-24-bwa-paris21-bsds-ii-launch).
+
+No amendment to the Act is on the record and none is announced.",BWA-data.statistics-statistics-act-2009|BWA-data.statistics-second-statistics-development-strategy
+gov.legislate--access-to-information-legislation,"Advanced, passed and not commenced","The [Access to Information Act was passed, its passage confirmed from the podium in November 2025](2025-11-11-bwa-sona-2025-access-to-information-act-passed); no commencement notice is held.","2024-07-26 — [the Act sets out the commission’s functions, its audit power and the identity-card regime](2024-07-26-bwa-access-to-information-act-2024), with commencement on notice.
+
+2025-11-11 — [the President confirmed passage in the State of the Nation Address](2025-11-11-bwa-sona-2025-access-to-information-act-passed).
+
+2025-10-17 — [the Digital Services Act subordinates itself to this Act and ties enterprise data inventories to its disclosure obligations](2025-10-17-bwa-digital-services-act-2025).
+
+No commencement notice is on the record.",BWA-gov.legislate-access-to-information-act-2024
+gov.protect--national-data-protection-readiness,Advanced,The [Data Protection Act 2024 is in force](2024-10-29-botswana-data-protection-act-2024) and the commission is [taking and investigating complaints](2026-02-02-bwa-dpsm-harmonise-privacy-notices).,"2024-10-29 — [the Act was gazetted, repealing the 2018 statute and continuing the Information and Data Protection Commission](2024-10-29-botswana-data-protection-act-2024).
+
+2026-02-02 — [the commissioner confirmed the commission is receiving and empowered to investigate complaints of unlawful processing, as the public service began harmonising employee privacy notices and issued a standard data-subject-rights form](2026-02-02-bwa-dpsm-harmonise-privacy-notices).
+
+No figure for complaints received, staffing or budget is published.",BWA-gov.protect-data-protection-act-no|BWA-gov.protect-information-data-protection-commission|BWA-gov.protect-dpsm-employee-privacy-notices|BWA-gov.protect-determination-enforcement-notice-against
+gov.regional--regional-legal-harmonisation,Advanced,"Botswana [signed the SADC Regional Development Fund operationalisation agreement in March 2026](2026-03-31-bwa-signs-sadc-development-agreement), the clearest regional legal step in the window.","2000-08-07 — [the SADC Protocol on Legal Affairs constitutes the regional legal sector Botswana harmonises through](2000-08-07-sadc-protocol-on-legal-affairs).
+
+2026-03-31 — [Botswana signed the agreement operationalising the regional development fund, together with the agreement amending the protocol on finance and investment](2026-03-31-bwa-signs-sadc-development-agreement).
+
+2026-08-17 — [the 46th summit approved the agreement establishing a regional tourism univisa](2026-08-17-sadc-46th-summit-communique).
+
+No domestication instrument for any of the three is held.",BWA-gov.regional-sadc-protocol-legal-affairs|BWA-gov.regional-sadc-regional-development-fund|BWA-gov.regional-sadc-tourism-univisa
+gov.standards--national-interoperability-standards,"Advanced, under external assistance",The [national interoperability framework is being aligned under an externally funded programme](2026-02-17-eu-support-digital-transformation-botswana); the framework itself is not published.,"2025-10-17 — [the Digital Services Act requires a standardised framework for secure exchange of information, an information gateway and an interoperability standard](2025-10-17-bwa-digital-services-act-2025).
+
+2026-02-17 — [a programme running since August 2024 through Expertise France, ESTDEV and HAUS is improving and aligning the framework, its standards, guidelines and tools](2026-02-17-eu-support-digital-transformation-botswana).
+
+No standard, framework document or conformance regime is published, and no list of the systems the framework covers.",BWA-gov.standards-national-interoperability-framework|BWA-gov.legislate-digital-services-act
+gov.standards--national-quality-standards,Advanced,"The [standards bureau publishes an annual standards-development programme](2026-04-16-bobs-standards-annual-work-programme-2026-27), under a statute in force since 1995.","1995 — [the Standards Act establishes the Botswana Bureau of Standards and the Standards Council](1995-01-01-botswana-standards-act).
+
+2026-04-16 — [issue 341 of the annual standardisation work programme was published, setting the pipeline of standards-development projects](2026-04-16-bobs-standards-annual-work-programme-2026-27).
+
+2025-11-21 — [a national quality standard for school uniforms was developed and published](2025-11-21-bobs-school-uniform-quality-standards), on the minister’s account to Parliament.
+
+No ICT or data standard from the programme is separately identified in the base.",BWA-gov.standards-standards-act-1995|BWA-gov.standards-bobs-annual-work-programme
+gov.discourse--non-governmental-contribution-to-national-policy,"Mixed, a statutory channel alongside a contested one","The [National Planning Act provides the formal channel](2024-01-30-botswana-national-planning-act-2024), while civil society [rejected the constitution amendment process outright](2025-08-20-hivos-lack-of-cso-inclusion-constitution-review).","2024-01-30 — [the Act establishes the National Planning Commission, a duty to liaise with civil society and a power to form thematic working groups](2024-01-30-botswana-national-planning-act-2024).
+
+2025-08-20 — [the civil-society umbrella body mobilised against and formally rejected the Constitution (Amendment) Bill No. 14 of 2025, demanding a people-driven Constitutional Review Act](2025-08-20-hivos-lack-of-cso-inclusion-constitution-review).
+
+2026-02-10 — [the same body pressed government directly for structured and inclusive participation on the proposed Constitutional Court](2026-02-10-mohwasa-concourt-civil-society-engagement), six months after the rejection.
+
+The base holds no record of a thematic working group being convened under the Act.",BWA-gov.discourse-national-planning-act-2024|BWA-gov.discourse-constitution-review-process|BWA-gov.discourse-constitutional-court-proposal
+gov.discourse--open-discussion-of-government-policy,Advanced,[Botswana Speaks became a Parliamentary Services Division in April 2025](2026-01-01-botswana-speaks-committee-of-supply-speech-2026) and released a mobile application on both app stores.,"2025-04 — [the citizen-to-Parliament platform transitioned into a Parliamentary Services Division, was upgraded, and a mobile application was released on both app stores](2026-01-01-botswana-speaks-committee-of-supply-speech-2026); it is free and reachable by web and phone.
+
+2026-04-13 — [a public panel in Tlokweng on the proposed Constitutional Court drew legal experts, traditional leadership, political representatives and the public](2026-04-13-batlokwa-kgosi-open-dialogue-concourt).
+
+2025-10-13 — [the health ministry opened the proposed national health insurance scheme to private providers and medical-aid societies at a stakeholder session](2025-10-13-govt-courts-private-sector-health-reforms).
+
+No usage figure for the platform is published.",BWA-gov.discourse-botswana-speaks|BWA-gov.discourse-constitutional-court-proposal
+finance.new--development-partner-project-financing,Advanced,"Three development-partner packages moved in the window, the largest a [EUR110m facility to the Botswana Development Corporation](2026-07-15-bwa-badea-p1-713-billion-deal).","2026-01-26 — [the World Bank board approved a $43m health emergency preparedness project, a $40m loan and a $3m grant, whose digital component is a logistics management system for medical supplies](2026-01-26-world-bank-heprr-project-botswana).
+
+2026-02-17 — [the renewable energy support and access project became effective on 3 December 2025 and first disbursed on 23 December](2026-02-17-worldbank-resa-implementation-support-mission), an $88m IBRD loan with Green Climate Fund co-financing.
+
+2026-07-15 — [a EUR110m mixed credit facility to the Botswana Development Corporation and a EUR500,000 grant to the agriculture university were signed in Gaborone](2026-07-15-bwa-badea-p1-713-billion-deal).
+
+The [2026/27 budget places development-partner and private financing at the centre of the transformation plan’s delivery](2026-02-09-botswana-2026-budget-speech).",BWA-finance.new-badea-facility-2026|BWA-finance.new-worldbank-resa-project|BWA-finance.new-heprr-project
+infra.connect--mobile-penetration,Advanced,"[Mobile telephony subscriptions reached 4,370,350 by September 2025, a rise of 6%%](2026-03-01-bocra-state-of-icts-2026), with mobile broadband up 7%%.","2026-03-01 — [the regulator reported 4,370,350 mobile telephony subscriptions at September 2025 against 4,104,304 a year earlier, and 3,112,962 mobile broadband subscriptions against 2,915,158](2026-03-01-bocra-state-of-icts-2026). [Prepaid accounts were 96% of the mobile base and mobile money subscriptions rose 24% to 1,455,986](2026-03-01-bocra-state-of-icts-2026).
+
+2025-09-22 — [all three mobile operators cut retail tariffs after the regulator’s costing and pricing study, with inter-network termination rates reduced](2025-09-22-bocra-mno-tariff-reduction).
+
+The report publishes subscription counts and no penetration rate, so the share of people connected cannot be stated from the base.",BWA-infra.connect-mobile-telephony-subscriptions|BWA-infra.connect-mobile-broadband-subscriptions|BWA-infra.connect-mno-tariff-reduction
+infra.connect--internet-exchange-points,"Advanced, an exchange with one peer","[Digital Delta IX is registered and operating in Gaborone with one peer and 10G of capacity](2026-04-21-peeringdb-digital-delta-ix), run by the state wholesale operator.","2026-04-21 — [the exchange’s registry entry records one peer, one connection and 10G of total capacity](2026-04-21-peeringdb-digital-delta-ix), the only public description of its size.
+
+2025-11-25 — [the Tier III data centre behind the exchange was launched](2025-11-25-bwa-digital-delta-data-centre-launch).
+
+2026-02-18 — [Namibia’s MTC and BoFiNet agreed cross-border interconnection, IP transit and wholesale capacity exchange through the Buitepos-Ngoma corridor](2026-02-18-mtc-bofinet-namibia-botswana-mou).
+
+No traffic figure for the exchange is published.",BWA-infra.connect-digital-delta-ix|BWA-gov.regional-sadc-regional-internet-exchange
+infra.store--off-site-backup-capacity,Advanced,"Two Tier III facilities now sell disaster recovery, the state’s [Digital Delta](2025-11-25-bwa-digital-delta-data-centre-launch) and [Mascom’s Innovation Centre](2026-07-13-mascom-tier-iii-data-centre-market-shift).","2019-10 — [the regulator’s business continuity and disaster recovery guidelines require licensed communications operators to hold backup and recovery plans](2019-10-01-bocra-business-continuity-disaster-recovery-guidelines).
+
+2025-11-25 — [the government launched the Tier III Digital Delta Data Centre for hosting, recovery and backup workloads](2025-11-25-bwa-digital-delta-data-centre-launch).
+
+2026-07-13 — [Mascom repositioned its Tier III centre, built for its own workloads, to sell colocation, cloud, infrastructure-as-a-service and disaster recovery externally](2026-07-13-mascom-tier-iii-data-centre-market-shift).
+
+No capacity figure, utilisation figure or government backup policy is held.",BWA-infra.store-bocra-bc-dr-guidelines|BWA-infra.store-digital-delta-data-centre|BWA-infra.store-mascom-innovation-centre
+infra.energy--grid-reliability,Advanced,"[Mean time to repair fell from about 30 to 50 days to 12, and mean time between failures rose to an average of 120 days](2026-02-13-bpc-power-hour-supply-report).","2026-02-13 — [the power corporation reported mean time to repair down from roughly 30 to 50 days to 12, and mean time between failures averaging 120 days](2026-02-13-bpc-power-hour-supply-report), while noting that units not yet remediated still take forced outages.
+
+2026-03-04 — [the 100 MWp Mmadinare solar plant reached full commercial operation in the last quarter of 2025](2026-03-04-bpc-electricity-generation-update), expected with the Morupule B work to lift the share of demand met locally.
+
+2016 — [the energy regulator carries a statutory duty to see that electricity is safe, reliable, efficient and affordable](2016-09-26-botswana-energy-regulatory-authority-act-2016).
+
+No outage-minutes or system-average interruption figure is published.",BWA-infra.energy-bpc-supply-reliability|BWA-infra.energy-mmadinare-solar|BWA-infra.energy-bera
+infra.energy--rural-electrification,Advanced,"[Electricity access stood at 76.6%% as of March 2025, with universal access targeted for 2030](2025-10-22-botswana-national-energy-compact).","2025-10-22 — [the energy compact records access at 76.6% and targets universal access by 2030, reaching an additional 220,000 households through grid extension in peri-urban and accessible rural areas and off-grid solutions further out](2025-10-22-botswana-national-energy-compact).
+
+2026-02-17 — [Tsodilo was completed and connected to the grid in November 2025 and Chukumuchu was at tender stage](2026-02-17-chukumuchu-tsodilo-electrification), both under the 112-village programme.
+
+2026-03-16 — [off-grid solar deployment for six remote villages put access at about 83% of gazetted villages](2026-03-16-bpc-targets-50-percent-renewable-energy-2030).
+
+No year-on-year national access series is held.",BWA-infra.energy-national-energy-compact|BWA-infra.energy-village-electrification-programme
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"Advanced, against acknowledged capacity gaps","The [government e-services platform was built on an open-source approach led by a local developer](2025-10-27-digital-platform-key-driver-innovation), against acknowledged downtime and IT-capacity gaps.","2025-10-27 — [the communications minister confirmed the platform was developed through an open-source approach led by a local developer, while acknowledging perennial system downtime and IT capacity gaps](2025-10-27-digital-platform-key-driver-innovation).
+
+2025-11-25 — [the launch of the national Tier III data centre brought core government systems onto state-hosted infrastructure](2025-11-25-bwa-digital-delta-data-centre-launch).
+
+2026-02-10 — [52 public services are fully available online with a further 179 in integration testing](2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget).
+
+No establishment figure, vacancy rate or skills audit for government ICT staff is held.",BWA-dpi.govtech-1gov-1citizen-platform|BWA-infra.store-government-migration-digital-delta
+dpi.exchange--national-data-exchange-system,"Advanced, enacted and not built",The [statutory framework for secure exchange of information and an information gateway was enacted in October 2025](2025-10-17-bwa-digital-services-act-2025); nothing on the build is held.,"2025-08-17 — [Parliament passed the Digital Services Bill under certificate of urgency](2025-08-17-bwa-digital-services-cybersecurity-bills-passed).
+
+2025-10-17 — [sections 12 and 22 of the resulting Act require a standardised framework for secure exchange of information and an information gateway](2025-10-17-bwa-digital-services-act-2025).
+
+2025-11-25 — [the Tier III data centre was launched, framed by government as underpinning the national digital ecosystem](2025-11-25-bwa-digital-delta-data-centre-launch).
+
+No exchange platform, technical specification, participating-agency list or timetable is on the record.",BWA-dpi.exchange-framework-secure-exchange-information
+dpi.exchange--use-of-digital-id-in-other-systems,Advanced,The identity number is being reused in new systems: the [labour market system integrated with it](2026-03-23-ministry-of-higher-education-committee-of-supply-speech) and the [health exchange keys on it](2026-03-05-ministry-of-health-committee-of-supply-speech).,"2016 — [a diagnostic described reuse of the national identification system across electoral, payroll and transport systems](2016-01-01-id4d-country-diagnostic-botswana), the fullest account the base holds.
+
+2026-03-05 — [the health exchange’s client registry, using the Omang or passport number for unique patient identification, was reported ready for deployment](2026-03-05-ministry-of-health-committee-of-supply-speech).
+
+2026-03-23 — [phase one of the labour market information system went operational with completed integrations to the identification system, the company registry and the government SMS gateway](2026-03-23-ministry-of-higher-education-committee-of-supply-speech).
+
+No count of systems consuming the identifier is published.",BWA-dpi.mis-labour-market-information-system|BWA-dpi.exchange-health-information-exchange|BWA-dpi.registry-national-identity-register
+dpi.exchange--interoperability-of-health-systems,Advanced,The [health information exchange’s client and facilities registries were reported ready for deployment in March 2026](2026-03-05-ministry-of-health-committee-of-supply-speech).,"2026-01-01 — [a case study set out the national eHealth enterprise architecture and its HL7 FHIR interoperability framework](2026-01-01-developing-a-national-ehealth-enterprise-architecture-in-botswana), describing a health sector running numerous unconnected systems.
+
+2026-03-05 — [the ministry reported the exchange’s client and facilities registries ready for deployment and phase one of the electronic medical record rolling out](2026-03-05-ministry-of-health-committee-of-supply-speech).
+
+No go-live date, connected-system list or data-sharing agreement is held.",BWA-dpi.exchange-health-information-exchange|BWA-dpi.exchange-ehealth-enterprise-architecture
+dpi.exchange--interoperability-of-education-systems,Advanced,"The [credit accumulation and transfer policy took effect in November 2025](2025-11-27-policy-on-credit-accumulation-and-transfer-cat), the only cross-provider education-data instrument held.","2025-11-27 — [the qualifications authority’s policy on credit accumulation and transfer took effect](2025-11-27-policy-on-credit-accumulation-and-transfer-cat), setting the terms on which learner credit moves between education and training providers.
+
+2026-03-23 — [phase one of the labour market information system went operational with a completed education information subsystem, and a second phase funded at P8m](2026-03-23-ministry-of-higher-education-committee-of-supply-speech).
+
+The base holds nothing on a schools-level education management information system, and no technical interoperability standard between education systems.",BWA-dpi.exchange-credit-accumulation-transfer-policy|BWA-dpi.mis-labour-market-information-system
+dpi.exchange--interoperability-of-social-protection-systems,Advanced,The [Single Social Registry was operationalised](2025-11-11-govt-overhauls-social-protection-system) and [covered 98 per cent of beneficiaries in the five main programmes by March 2025](2025-10-07-botswana-development-policy-loan-ii-icr).,"2022 — [a review described the registry’s identity validation link and its proxy-means-test software](2022-01-01-botswana-social-protection-programs-and-systems-review), following a pilot in a handful of districts.
+
+2025-10-07 — [a completion report verified coverage of 98 per cent of beneficiaries in the five main programmes by March 2025, against a target of 75.8 per cent](2025-10-07-botswana-development-policy-loan-ii-icr).
+
+2025-11-11 — [the State of the Nation Address announced the registry’s operationalisation and the introduction of proxy means testing](2025-11-11-govt-overhauls-social-protection-system).
+
+No list of the systems the registry exchanges with is held.",BWA-dpi.registry-single-social-registry
+dpi.id--registration-of-entire-population,"No change, with an electronic product still at feasibility",The [Omang register operates under a 1986 statute](1986-12-24-national-registration-act-1986); an [electronic identity card was piloted and remains at feasibility](2025-11-25-ministry-commits-to-customer-centric-service-delivery).,"1986-12-24 — [the National Registration Act establishes the register, its contents and the registration requirement](1986-12-24-national-registration-act-1986).
+
+2025-11-25 — [a feasibility study supported by the African Development Bank and a pilot of electronic identity card production were announced in Parliament](2025-11-25-ministry-commits-to-customer-centric-service-delivery).
+
+No coverage figure — how many of the eligible population hold an Omang — is published, which is the figure this indicator turns on.",BWA-dpi.id-national-registration-act|BWA-dpi.registry-national-identity-register|BWA-dpi.id-electronic-identification-system
+dpi.id--national-maintenance-of-id-and-credentials-systems,"No change, funded annually and unchanged in form","[P108,505,050 was sought in 2026/27 for Omang card production and the registration systems’ maintenance](2026-02-24-mlha-committee-of-supply-speech-2026-27).","2026-02-24 — [the ministry requested P108,505,050 to cover, among other things, the production of national identity cards and the maintenance of the birth and death registration and identification systems](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+No supplier, contract value or maintenance arrangement is separately published, and the base holds no statement of where the systems are maintained or who holds the source code.",BWA-dpi.registry-national-identity-register|BWA-dpi.id-omang-card-production-replacement
+dpi.id--digital-id-from-birth,"No change, a number from birth on paper rails",A [unique number is issued at birth registration and becomes the Omang number at sixteen](2026-08-01-statistics-botswana-vital-statistics-report-2024); no digital credential sits behind it.,"2026-08-01 — [the statistics office describes the birth and death registration system as partially automated and decentralised, integrated with the identification system, with the identifier issued at birth carrying through to the identity card at sixteen](2026-08-01-statistics-botswana-vital-statistics-report-2024).
+
+2025-11-25 — [an electronic identity card was piloted and a feasibility study commissioned](2025-11-25-ministry-commits-to-customer-centric-service-delivery).
+
+No digital credential is issued at birth, and the base holds no birth-registration completeness figure.",BWA-dpi.registry-births-deaths-registration-system|BWA-dpi.id-electronic-identification-system
+dpi.id--interoperability-of-birth-registration-and-digital-id,Advanced,"[Online registration of births, deaths and marriages is complete and waiting on the government platform to go live](2026-02-24-mlha-committee-of-supply-speech-2026-27).","2015-09 — [a country report set out the identity lifecycle from birth registration through to the identity card at sixteen](2015-09-01-identity-management-systems-analysis-botswana-country-report), the base’s fullest technical account of the link.
+
+2026-02-24 — [the ministry reported digitisation of online birth, death and marriage registration complete, awaiting the government platform’s go-live](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+The [marriage register is still manual](2026-08-01-statistics-botswana-vital-statistics-report-2024), and no go-live date is held.",BWA-dpi.registry-births-deaths-registration-system|BWA-dpi.registry-national-identity-register
+dpi.pay--b2b-and-b2g-functionality,Advanced,A [second phase of the retail payment switch and a government cash-deposit system are named in the 2026/27 estimates](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).,"2003 — [the National Clearance and Settlement Systems Act empowers the central bank to recognise and regulate clearance and settlement systems](2003-01-01-national-clearance-and-settlement-systems-act), the statutory basis for the interbank rails.
+
+2026-02-26 — [the finance ministry named a second phase of the national retail payment switch and a new central-bank digital cash-deposit system for government revenue collection](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+Neither carries an operator, cost or go-live date on the record, and no business-to-government transaction volume is published.",BWA-dpi.pay-clearance-settlement-systems-act|BWA-dpi.pay-payment-switch|BWA-dpi.pay-government-cash-deposit-system
+dpi.pay--p2p-p2g-and-p2b-functionality,Advanced,"The [switch’s second phase is intended to connect banks and mobile-money providers](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026), and the [regulatory sandbox opened in March 2026](2026-03-04-bank-of-botswana-regulatory-sandbox-call-for-applications).","2022-02 — [the central bank’s licensing guidelines define and license the electronic payment categories, person-to-person and person-to-business among them](2022-02-01-electronic-payment-services-licensing-guidelines).
+
+2026-02-26 — [the second phase of the retail payment switch is intended to connect banks and mobile-money providers](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+2026-03-04 — [the central bank opened its regulatory sandbox to applicants on a theme of inclusive payments and interoperability](2026-03-04-bank-of-botswana-regulatory-sandbox-call-for-applications).
+
+No retail transaction volume or value is published.",BWA-dpi.pay-electronic-payment-services-guidelines|BWA-dpi.pay-payment-switch|BWA-dpi.pay-bob-regulatory-sandbox
+dpi.pay--consumer-protection,Advanced,A [mandatory 60-minute crediting rule for electronic funds transfers took effect on 1 February 2026](2025-12-31-enhancement-to-clearing-and-settlement-framework-for-efts).,"2019 — [the central bank’s payments oversight policy sets consumer-recourse and fair-disclosure objectives](2019-01-01-national-payments-system-oversight-policy).
+
+2025-12-31 — [an enhancement to the clearing and settlement framework introduced a mandatory 60-minute customer crediting rule and an added settlement window, in effect from 1 February 2026](2025-12-31-enhancement-to-clearing-and-settlement-framework-for-efts).
+
+No complaints figure, redress statistic or dispute-resolution route for payment users is held.",BWA-dpi.pay-payments-system-oversight-policy|BWA-dpi.pay-eft-clearing-settlement-enhancement
+dpi.registry--population-register,Advanced,"The [National Registration (Amendment) Act commenced in November 2025](2026-02-24-mlha-committee-of-supply-speech-2026-27), and a biometric card is funded within the wider identity programme.","1986-12-31 — [the National Registration Act establishes the register, its contents and the registration requirement](1986-12-31-national-registration-act).
+
+2026-02-24 — [the amending Act of 2025 commenced in November 2025, and funding for an electronic and biometric identity card was folded into the broader digital identity initiative](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+No registered-population figure, deduplication rate or register-quality measure is published.",BWA-dpi.registry-national-identity-register|BWA-dpi.id-national-registration-act|BWA-dpi.id-registration-amendment-act-2025
+dpi.registry--civil-register,Advanced,Civil registration runs on a [partially automated system across 35 district offices and 17 on-site points](2026-08-01-statistics-botswana-vital-statistics-report-2024).,"1969 — [the Births and Deaths Registration Act is the founding statute](1969-04-01-births-and-deaths-registration-act).
+
+2026-08-01 — [the registration system is described as partially automated and decentralised, introduced in 2003 and operated through 35 district registration offices and 17 on-site registration points at major health facilities](2026-08-01-statistics-botswana-vital-statistics-report-2024), with the marriage register still manual.
+
+2026-02-24 — [online registration of births, deaths and marriages was reported complete, awaiting the government platform’s launch](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+No registration-completeness figure is published.",BWA-dpi.registry-births-deaths-registration-system
+dpi.registry--address-register,No change,[No national addressing system exists](2024-06-20-location-addressing-system-tlokweng-case-study); the addressing component of the land project was never implemented nationally.,"2024-06-20 — [a case study on rural addressing records that no national addressing system is in place and that the addressing component of the land administration project was never implemented nationally](2024-06-20-location-addressing-system-tlokweng-case-study).
+
+2026-03-04 — [a four-year modernisation of the land information and geospatial systems was funded in the lands budget](2026-03-04-mps-approve-ministry-of-lands-and-agriculture-budget), the nearest thing to address infrastructure now moving.
+
+The absence was searched on 31 August 2026 and nothing settling it was found.",BWA-dpi.registry-national-address-register|BWA-dpi.mis-land-information-system
+dpi.registry--social-protection-register,Advanced,"The [Single Social Registry reached 98 per cent coverage of beneficiaries in the five main programmes by March 2025](2025-10-07-botswana-development-policy-loan-ii-icr), against a 75.8 per cent target.","2022 — [a review dates the registry’s development to 2016, a pilot in four districts across 2019 and 2020, and six districts uploaded by May 2021](2022-01-01-botswana-social-protection-programs-and-systems-review).
+
+2025-10-07 — [coverage of beneficiaries in the five main poverty-targeted programmes reached 98 per cent by March 2025 against a target of 75.8 per cent](2025-10-07-botswana-development-policy-loan-ii-icr).
+
+2025-11-11 — [the registry’s operationalisation was announced from the podium](2025-11-11-govt-overhauls-social-protection-system).
+
+No figure for people recorded, as against beneficiaries of existing programmes, is published.",BWA-dpi.registry-single-social-registry
+dpi.registry--tax-register,Advanced,"The [Tax Administration Act 2026 was assented in June](2026-06-29-tax-administration-act-2026), carrying a registration framework the previous law spread across several statutes.","2026-06-29 — [the Act was assented, its 128 sections covering taxpayer registration, assessment and collection](2026-06-29-tax-administration-act-2026).
+
+2026-05-29 — [regulations under the VAT Act set the registration and compliance machinery for foreign suppliers of remote services](2026-05-29-bwa-vat-remote-services-regulations).
+
+2026-02-26 — [the finance ministry described a modernisation programme covering real-time taxpayer accounts, automated risk scoring and third-party data integration, and an electronic VAT invoicing solution](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+No registered-taxpayer count is published.",BWA-gov.legislate-tax-administration-act-2026|BWA-dpi.mis-lekgetho-live
+dpi.mis--health,"Advanced, on several fronts at once","[DHIS2 is the selected aggregate-data platform](2026-05-27-who-botswana-biennial-report-2024-2025), with an [intelligence centre, a supplies system and an electronic record all in train](2026-03-05-ministry-of-health-committee-of-supply-speech).","2026-05-27 — [DHIS2 is named as the government’s selected aggregate-data platform, alongside VigiFlow, with persistent reporting-quality problems recorded](2026-05-27-who-botswana-biennial-report-2024-2025).
+
+2026-01-26 — [the health emergency project’s core digital component is a logistics management system to track medical supplies in real time from central warehouses to remote health posts](2026-01-26-world-bank-heprr-project-botswana).
+
+2026-03-05 — [the ministry reported the exchange registries ready for deployment, a national health intelligence centre due before the end of 2025/26, and phase one of the electronic medical record rolling out](2026-03-05-ministry-of-health-committee-of-supply-speech).
+
+No go-live date is published for the intelligence centre or the supplies system.",BWA-dpi.mis-dhis2|BWA-dpi.mis-elmis|BWA-dpi.mis-national-health-intelligence-centre|BWA-dpi.mis-electronic-medical-records
+dpi.mis--education,"Advanced, on the tertiary and labour side only",[Phase one of the labour market information system is operational with an education information subsystem](2026-03-23-ministry-of-higher-education-committee-of-supply-speech); no schools system is held.,"2026-03-23 — [phase one of the labour market information system went operational with a completed education information subsystem and integrations to the identification system, the company registry and the government SMS gateway, and a second phase funded at P8m](2026-03-23-ministry-of-higher-education-committee-of-supply-speech).
+
+The base holds no education management information system for basic or secondary schooling — no enrolment system, no teacher register, no school census platform. The absence sits at the level where the sector is largest.",BWA-dpi.mis-labour-market-information-system
+dpi.mis--social-protection,"Mixed, the registry advancing while the targeting tool did not","[Registry coverage reached 98 per cent while proxy means testing remained unimplemented](2025-10-07-botswana-development-policy-loan-ii-icr), on the same report.","2022 — [a generic management information system was developed and customised for the public works programme](2022-01-01-botswana-social-protection-programs-and-systems-review), the fullest account of a programme system the base holds.
+
+2025-10-07 — [the completion report confirms proxy means testing still not implemented, despite the registry’s coverage gains](2025-10-07-botswana-development-policy-loan-ii-icr).
+
+2025-11-11 — [the local government ministry was reported automating key social-protection processes](2025-11-11-govt-overhauls-social-protection-system), with proxy means testing announced from the podium a month after the report that found it absent.",BWA-dpi.mis-ipelegeng-mis|BWA-dpi.registry-single-social-registry
+dpi.mis--justice,"Regressed, with a replacement under way","The [court records system was reported malfunctioning in January 2026](2026-01-21-judiciary-tackles-case-backlog), with a locally built replacement commissioned.","2022-08-05 — [the court records management system is the case-file record, holding parties, pleadings, status and orders](2022-08-05-aoj-reforms-and-developments).
+
+2026-01-21 — [the Chief Justice reported the digital records system malfunctioning and a local university engaged to develop a locally managed replacement](2026-01-21-judiciary-tackles-case-backlog), against a growing case backlog.
+
+2026-03-16 — [the Industrial Court’s electronic case management system was developed, with a soft launch planned for the first quarter of 2026/27](2026-03-16-industrial-court-deploys-new-strategy-to-eradicate-case-backlog).
+
+No case-disposal or backlog figure is published.",BWA-dpi.mis-court-records-management-system|BWA-dpi.mis-industrial-court-case-management
+dpi.mis--tax,Advanced,"[Lekgetho Live is to bring real-time taxpayer accounts, automated risk scoring and third-party data integration](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026) to the revenue service.","2026-02-26 — [the finance ministry described the modernisation programme as covering real-time taxpayer accounts, automated risk scoring and third-party data integration, alongside an electronic VAT invoicing solution](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+2026-06-29 — [the Tax Administration Act supplies the statutory framework the system administers](2026-06-29-tax-administration-act-2026).
+
+No go-live date, cost or supplier is on the record.",BWA-dpi.mis-lekgetho-live|BWA-dpi.govtech-mandatory-electronic-invoicing
+dpi.mis--customs,Advanced,[Pre-lodgment of customs approval became mandatory for commercial road freight from 1 August 2026](2026-07-14-botswana-mandatory-pre-lodgment-system).,"2019-10-22 — [the revenue service described migrating from its customs IT system to a national trade platform with an integrated customs management architecture](2019-10-22-botswana-national-trade-platform).
+
+2026-07-14 — [commercial road freight operators must obtain customs approval before travelling to the border from 1 August 2026](2026-07-14-botswana-mandatory-pre-lodgment-system).
+
+2026-02-26 — [a customs programme covering real-time cargo monitoring and risk profiling, and a track-and-trace system for excisable goods, are scheduled for deployment in 2026/27](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+No clearance-time or declaration-volume figure is published.",BWA-dpi.mis-customs-management-system|BWA-dpi.mis-smart-customs
+dpi.mis--land,Advanced,A [four-year modernisation of the land information and geospatial systems is funded from 2026/27](2026-03-04-mps-approve-ministry-of-lands-and-agriculture-budget).,"2026-02-10 — [the modernisation is aimed at outdated systems, fragmented data, weak inter-agency coordination and delays, and runs through a geospatial information centre](2026-02-10-government-modernises-land-administration-systems).
+
+2026-03-04 — [Parliament approved a P5.322bn lands and agriculture budget carrying the upgrade, with an electronic deeds registration statute planned](2026-03-04-mps-approve-ministry-of-lands-and-agriculture-budget).
+
+No parcel count, coverage figure or completion date is held.",BWA-dpi.mis-land-information-system
+digital.localgov--ict-infrastructure-for-local-government,"Advanced, by inclusion in a national statute",The [Digital Services Act brings local authorities within its duties](2025-10-17-bwa-digital-services-act-2025); no local-government ICT infrastructure plan of its own is held.,"2025-10-17 — [the Act applies to all public bodies, local authorities among them, and requires a digital government plan and a centralised public-services platform](2025-10-17-bwa-digital-services-act-2025).
+
+2025-11-25 — [the national Tier III data centre was launched as the platform beneath public services delivered through local offices](2025-11-25-bwa-digital-delta-data-centre-launch).
+
+The base holds no connectivity, equipment or systems inventory for district and council offices, and no separate local-government ICT budget line.",BWA-digital.localgov-local-government-digital-systems|BWA-infra.store-digital-delta-data-centre
+digital.localgov--digitalisation-of-local-government-records,Advanced,"The [archives records management system reached its final phase, with a records unit sub-system rolling out to selected ministries](2026-02-24-mlha-committee-of-supply-speech-2026-27).","2026-02-24 — [the final phase of the national archives records management system is live and its records management unit sub-system is rolling out to selected ministries and departments](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+2025-10-17 — [sections 17 and 18 of the Digital Services Act require public and private bodies, local authorities included, to keep records in secure electronic form and to digitise existing records to prescribed standards](2025-10-17-bwa-digital-services-act-2025).
+
+2026-02-26 — [a national e-procurement system, its strategy approved in June 2025, is to cover the procurement chain across government, local authorities and state enterprises](2026-02-26-ministry-of-finance-committee-of-supply-speech-2026).
+
+No council is separately named as having digitised its records.",BWA-digital.localgov-narms|BWA-digital.localgov-local-government-digital-systems
+digital.rural--digitalisation-of-rural-health-clinics,Advanced,"[Phase one of the electronic medical record is live at 22 facilities in Ngami](2026-03-05-ministry-of-health-committee-of-supply-speech), with the remaining districts to follow.","2026-03-05 — [phase one of the centralised electronic medical record is rolling out at 22 Ngami facilities, extending to Okavango and the remaining 29 districts](2026-03-05-ministry-of-health-committee-of-supply-speech).
+
+2025-11-20 — [223 clinics are connected under the village connectivity programme, with legacy systems active but not interfaced](2025-11-20-motshegwa-medicine-shortage-rural-health-digital), on the minister’s answer to Parliament.
+
+2026-01-26 — [the health emergency project funds a logistics management system to track supplies to remote health posts](2026-01-26-world-bank-heprr-project-botswana).
+
+No count of clinics with a working record system is published.",BWA-dpi.mis-electronic-medical-records|BWA-dpi.mis-elmis|BWA-infra.connect-village-connectivity-project
+digital.rural--digitalisation-of-rural-primary-schools,Advanced,"[Twelve primary-school ICT laboratories were commissioned in the year to March 2025, taking the national total to 14](2025-03-01-uasf-annual-report-2024-25).","2025-03-01 — [the universal access fund commissioned twelve primary-school ICT laboratories in the year to March 2025, bringing the nationwide total to 14, and deployed 219 IT officers](2025-03-01-uasf-annual-report-2024-25).
+
+2026-06-01 — [digital centres at Ditladi and Mabele primary schools were launched in November 2025 at P1.59m each](2026-06-01-bocra-newsletter-issue-003).
+
+2026-07-22 — [a P1.5m digital centre with 30 laptops, connectivity and a smart board was handed over at Sankoyo primary school](2026-07-22-sankoyo-digital-centre-handover).
+
+The fund publishes its laboratory count and no denominator: the base holds no total for the primary school estate the fourteen sit within.",BWA-include.divides-universal-access-service-fund|BWA-finance.new-universal-fund-annual-allocation
+digital.rural--digitalisation-of-rural-registry-offices,"Mixed, online registration complete while kiosks close","[Nine of fifteen hospital registration kiosks still operate](2026-03-06-hansard-hospital-kiosks-dcnr), while [online registration is reported complete and waiting on the platform](2026-02-24-mlha-committee-of-supply-speech-2026-27).","2026-08-01 — [registration runs through 35 district offices and 17 on-site points at major health facilities and clinics](2026-08-01-statistics-botswana-vital-statistics-report-2024), on a system described as partially automated and decentralised.
+
+2026-03-06 — [of fifteen hospital kiosks established for on-site birth and death registration, nine remain operational and six have closed, mainly for want of the two officers each was meant to have](2026-03-06-hansard-hospital-kiosks-dcnr).
+
+2026-02-24 — [online registration of births, deaths and marriages was reported complete, pending the government platform’s launch](2026-02-24-mlha-committee-of-supply-speech-2026-27).
+
+The closures are staffing, not systems: what constrains rural registration on this record is people.",BWA-dpi.registry-births-deaths-registration-system|BWA-digital.rural-hospital-registration-kiosks
+digital.rural--digitalisation-of-rural-police-stations,"Advanced, on surveillance rather than station systems","[Surveillance was extended to six named remote border points, monitorable from police headquarters](2026-06-25-cybercrime-surges-safer-city-borders).","2025-02-17 — [administrative data digitalisation reached twelve sectors, with tablets supplied to four agencies including the police service for digital data capture](2025-02-17-statistics-botswana-annual-report-2023-24).
+
+2026-06-25 — [the surveillance programme expanded to remote border points at Ramotswa, Martins Drift, Maitengwe, Kazungula, Mohembo and Mamuno, monitorable from headquarters, as the commissioner reported cybercrime up 25 per cent on the year under review](2026-06-25-cybercrime-surges-safer-city-borders).
+
+What the base does not hold is any account of case or record systems inside rural stations: the movement on record is cameras, not files.",BWA-digital.rural-safer-city-surveillance|BWA-digital.rural-administrative-data-digitalisation
+tech.ai--use-of-ai-in-sectoral-management-information-systems,"Advanced, at pilot and announcement stage",Sectoral pilots are [named in the policy process](2025-08-13-bwa-ai-policy-final-stage) and a [real-time health data platform is due](2026-03-05-ministry-of-health-committee-of-supply-speech); nothing is in production.,"2025-01 — [the readiness assessment is the base’s most authoritative statement on whether AI governance exists at all](2025-01-01-bwa-unesco-ai-readiness-assessment-report).
+
+2025-08-13 — [pilots were named in agriculture, remote-area health diagnostics and machine-learning-assisted digitisation of licensing and social welfare](2025-08-13-bwa-ai-policy-final-stage).
+
+2026-03-05 — [a national health intelligence centre was announced as a real-time platform running from community health workers to tertiary hospitals](2026-03-05-ministry-of-health-committee-of-supply-speech).
+
+No sectoral system is described as using AI in production, and no procurement for one is held.",BWA-tech.ai-ai-policy-or-strategy|BWA-dpi.mis-national-health-intelligence-centre|BWA-tech.ai-ai-adoption-chatbot-visits
+tech.ai--control-of-ai-abuse,"Advanced, on diagnosis rather than control",The [readiness assessment was validated](2025-11-03-government-pursues-education-transformation-ai-ram) and a [minister warned publicly about harm to children](2026-07-22-minister-warns-ai-misuse-children); no control framework exists.,"2025-11-03 — [the minister told the UNESCO General Conference that Botswana had validated the readiness assessment methodology, calling it a key milestone toward a governance and regulatory framework](2025-11-03-government-pursues-education-transformation-ai-ram).
+
+2026-07-22 — [the communications minister warned that chatbots had given harmful advice to children and called for stronger governance and developer accountability](2026-07-22-minister-warns-ai-misuse-children).
+
+No AI-specific Act, regulation, code of practice or complaints route is held. The absence was searched on 31 August 2026.",BWA-gov.legislate-ai-legislation|BWA-tech.ai-ai-readiness-assessment
+tech.innovate--technology-hubs,Advanced,[UniPod Botswana opened with ten specialised laboratories and six start-ups at commercial acceleration stage](2026-02-26-unipod-empower-youth-research).,"2023 — [an independent policy review names the digital and innovation hub, the technology research institute and the agricultural research institute among the national system’s hub institutions](2023-01-01-unctad-botswana-sti-policy-review).
+
+2026-02-26 — [the higher education minister toured UniPod Botswana, described as the first of its kind in the country, with ten specialised laboratories and six start-ups at commercial acceleration stage](2026-02-26-unipod-empower-youth-research).
+
+2026-07-27 — [South Africa’s technology innovation agency and the Botswana Digital and Innovation Hub agreed a five-year joint programme and fund covering co-funding, commercialisation and cross-border ecosystem development](2026-07-27-tia-bdih-mou-innovation-fund).
+
+No occupancy, funding or graduation figure is published for any hub.",BWA-tech.innovate-unipod-botswana|BWA-tech.innovate-sa-botswana-innovation-fund
+tech.innovate--tech-startup-ecosystem,"Advanced, against a market still described as nascent","The [innovation system ranked 87th of 139 in the 2025 Global Innovation Index](2026-07-29-national-research-innovation-council-bill), with early-stage finance [diagnosed as nascent](2021-12-01-worldbank-botswana-early-stage-finance-diagnostic).","2021-12 — [a technical note diagnoses the early-stage finance market as nascent](2021-12-01-worldbank-botswana-early-stage-finance-diagnostic).
+
+2026-02-04 — [the national innovation network met for the first time in January 2026, with participants naming fragmented pathways, siloed programmes and disjointed funding as the barriers](2026-02-04-botswana-national-innovation-network-bnin).
+
+2026-07-29 — [a Bill to create a national research and innovation council was presented to Parliament, reporting the innovation system ranked 87th of 139 in the 2025 index with research and development intensity below 0.5 per cent of output](2026-07-29-national-research-innovation-council-bill).
+
+No count of active start-ups, funding rounds or exits is published.",BWA-tech.innovate-botswana-national-innovation-network|BWA-tech.innovate-national-research-innovation-council-bill|BWA-tech.innovate-early-stage-finance-market
+include.access--citizen-feedback-portals,Advanced,"[Botswana Speaks carries citizen messages to members of Parliament by web and phone](2026-01-01-botswana-speaks-committee-of-supply-speech-2026), free of charge.","2026-01 — [the platform lets citizens communicate with their members of Parliament on constituency and national issues, including Bills, free and through web and mobile](2026-01-01-botswana-speaks-committee-of-supply-speech-2026).
+
+2025-08-21 — [the forensic audit public engagement platform, launched in August 2025, published its contact channels for public submissions](2025-08-21-forensic-audit-public-engagement-platform-contacts).
+
+2026-02-10 — [52 public services are fully available online with a further 179 in integration testing](2026-02-10-botswana-doubles-down-on-digital-transformation-2026-budget).
+
+No submission or response figure is published for either platform.",BWA-gov.discourse-botswana-speaks|BWA-include.access-forensic-audit-engagement-platform|BWA-dpi.govtech-1gov-1citizen-platform
+include.access--citizen-participation-in-policy,Advanced,"The [pre-budget consultation](2026-01-27-budget-pitso-202627) and [constitutional court consultations](2026-01-29-trade-unions-constitutional-court-consultations) both ran in the window, on top of the statutory local channel.","2012 — [the Local Government Act establishes councils and, at Part XII, the district, urban, village and ward development committees that carry citizen participation into local planning](2012-11-09-local-government-act-2012).
+
+2026-01-27 — [the pre-budget consultation drew local authorities, youth, civil society and labour into the 2026/27 priorities](2026-01-27-budget-pitso-202627).
+
+2026-01-29 — [trade unions and faith bodies were consulted on the proposed constitutional court, framed as giving vulnerable citizens a route to challenge unfair decisions](2026-01-29-trade-unions-constitutional-court-consultations).
+
+No participation figure, and no record of how a submission changed a decision, is held.",BWA-include.access-local-government-act-2012|BWA-include.access-budget-pitso|BWA-gov.discourse-constitutional-court-proposal
+include.access--gender-equity,Advanced,"A [four-pillar gender-responsive violence prevention programme launched in June 2026](2026-06-10-gender-responsive-gbv-prevention-response-programme), with [one-stop centres being established](2026-03-24-one-stop-service-centre-gbv-survivors).","2026-03-24 — [one-stop service centres are being established to bring medical, legal, counselling and psychosocial support for survivors of gender-based violence under one roof, addressing the gap between reporting and support](2026-03-24-one-stop-service-centre-gbv-survivors).
+
+2026-06-10 — [a joint government and United Nations gender-responsive prevention and response programme was launched on a four-pillar framework](2026-06-10-gender-responsive-gbv-prevention-response-programme).
+
+The [Department of Gender Affairs is secretariat to the National Gender Commission](2026-08-28-ministry-of-youth-and-gender-affairs). No prevalence, caseload or centre-count figure is published.",BWA-include.access-national-gender-commission|BWA-include.access-gbv-joint-programme|BWA-include.access-gbv-one-stop-centres
+include.access--inclusion-of-persons-with-disabilities,Advanced,[Core Parts of the Persons With Disability Act were commenced and disability defined by regulation in December 2025](2025-12-04-persons-with-disability-commencement-gazette).,"2025-12-04 — [two statutory instruments were gazetted, one defining who qualifies as a person with a disability and one commencing specified Parts of the Act](2025-12-04-persons-with-disability-commencement-gazette).
+
+The base holds nothing on accessibility of digital public services, assistive technology provision, or whether the commenced Parts carry duties on the systems this report covers. The instrument is in force and its reach into digital service delivery is not on the record.",BWA-include.access-persons-with-disability-act-2024
+include.access--inclusion-of-refugees-and-idps,Advanced,"The [Refugees (Recognition and Management) Act commenced on 1 November 2025](2026-03-01-mjcs-committee-of-supply-speech-2026), replacing the 1968 framework.","2026-03-01 — [the minister confirmed commencing the Act on 1 November 2025, its provisions aligned to protection of refugees’ family members](2026-03-01-mjcs-committee-of-supply-speech-2026).
+
+2026-06-22 — [64 long-term refugees were granted citizenship on World Refugee Day, meeting a Global Refugee Forum commitment](2026-06-22-botswana-grants-64-refugees-citizenship).
+
+2026-04-03 — [flooding in the Palapye sub-district between 15 and 19 March 2026 displaced people and cut access to services](2026-04-03-botswana-floods-dref-operational-mdrbw009).
+
+No framework for internally displaced people is held, and no figure for registered refugees is published.",BWA-include.access-refugees-act-2024
+data.statistics--censuses-and-surveys,Advanced,"[Preliminary 2024/25 household survey results put unemployment at 21.0 per cent, against 17.6 per cent in 2015/16](2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief).","2026-03-01 — [preliminary labour-force results from the 2024/25 multi-topic household survey put unemployment for people aged 15 and over at 21.0 per cent, against 17.6 per cent in 2015/16](2026-03-01-bmths-2024-25-labour-force-preliminary-stats-brief), with a full analytical report to follow.
+
+2026-07-08 — [the first tourism satellite account was launched alongside the 2025 inbound visitor survey](2026-07-08-tourism-satellite-account-inbound-visitor-survey).
+
+2010-12-01 — [the Statistics Act carries the ten-yearly census mandate](2010-12-01-bwa-statistics-act-2009).
+
+No date for the next population and housing census is on the record.",BWA-data.statistics-statistics-act-2009|BWA-data.statistics-multi-topic-household-survey|BWA-data.statistics-tourism-satellite-account
+data.open--use-of-open-data,Advanced,"A [tourism statistics dashboard went live in April 2026](2026-04-15-tourism-statistics-dashboard), the clearest instance of reuse; the [open data policy remains unadopted](2025-10-17-bwa-digital-services-act-2025).","2025-10-17 — [Part V of the Digital Services Act establishes the open data framework, requiring machine-readable publication and enterprise data inventories](2025-10-17-bwa-digital-services-act-2025).
+
+2026-04-15 — [a tourism statistics dashboard was launched with Japanese agency support](2026-04-15-tourism-statistics-dashboard), to track industry growth.
+
+2026-03-14 — [terms of reference were issued for a second phase of hackathons and a forum, tied to the policy’s anticipated adoption](2026-03-14-bwa-haus-open-data-hackathon-tor-phase2).
+
+No national open data portal exists, and no dataset count or licence is published.",BWA-data.open-open-data-portal-or|BWA-data.open-tourism-statistics-dashboard|BWA-data.open-open-data-hackathons
+data.satellite--meteorological-use-of-satellite-data,"Advanced, in research rather than operations",A [satellite ground receiving and processing system was donated to the meteorological service](2023-12-12-botswana-receives-meteorological-satellite-assistance); the applications on record are academic.,"2023-12-12 — [China donated a meteorological satellite ground receiving and processing system to the Department of Meteorological Services at COP28](2023-12-12-botswana-receives-meteorological-satellite-assistance).
+
+2026-03-20 — [a study regionalised drought using long-term satellite rainfall data and recommended building climate indices into national early-warning systems](2026-03-20-drought-regionalization-chirps-satellite-data).
+
+2026-03-25 — [a second study linked satellite-derived drought indices to crop-yield variability for agricultural monitoring](2026-03-25-crop-yield-drought-indices-agricultural-monitoring).
+
+Both studies recommend operational use; the base holds no early-warning system that has adopted either.",BWA-data.satellite-meteorological-ground-station|BWA-data.satellite-agriwatch-dashboard
+geopol.india--india-mous-engagements-and-commitments,Advanced,"The [first presidential visit from India took place in November 2025](2025-11-12-president-murmu-botswana-state-visit), with cooperation agreed across digital technology among other fields.","2025-11-12 — [India’s President visited Botswana for the first time, with cooperation agreed across trade, energy, health, education, defence and digital technology, and a pharmacopoeia agreement signed](2025-11-12-president-murmu-botswana-state-visit).
+
+2025-12-17 — [the minerals and energy ministry signed a memorandum with India’s KP Group envisaging about $4bn of renewable energy and transmission infrastructure](2025-12-17-kp-group-botswana-renewable-energy-mou).
+
+2026-04-01 — [India’s official country brief is the fullest statement of the relationship the base holds](2026-04-01-india-botswana-bilateral-brief).
+
+No instrument from the visit is published, and the memorandum carries no build on the record.",BWA-geopol.india-india-botswana-technology-or|BWA-geopol.india-kp-group-renewable-energy-mou
