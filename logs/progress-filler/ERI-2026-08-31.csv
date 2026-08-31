@@ -1,0 +1,109 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--digital-transformation-strategy,gov.policy,2,10,1,0,0,1,10,"already-seen, no-development, off-topic",nil,0
+gov.policy--ict-strategy,gov.policy,2,9,2,0,0,2,9,"already-seen, no-development, off-topic, duplicate-in-run",nil,0
+gov.policy--broadband-strategy,gov.policy,2,8,0,0,0,0,8,"already-seen, no-development, off-topic",nil,0
+gov.policy--data-storage-cloud-strategy,gov.policy,2,8,0,0,0,0,8,"already-seen, no-development, off-topic",nil,0
+gov.policy--data-interoperability-framework-roadmap,gov.policy,2,11,0,0,0,0,11,"already-seen, no-development, off-topic",nil,0
+gov.policy--ai-strategy,gov.policy,2,8,0,0,0,0,8,"already-seen, no-development, off-topic",nil,0
+gov.policy--data-localisation-policies,gov.policy,2,5,0,0,0,0,5,"already-seen, no-development, off-topic",nil,0
+gov.policy--data-governance-policy,gov.policy,2,11,0,0,0,0,11,"already-seen, no-development, off-topic",nil,0
+gov.policy--open-data-policy,gov.policy,2,10,0,0,0,0,10,"already-seen, no-development, off-topic",nil,0
+finance.budget--sustainable-domestic-financing-of-digital-transformation,finance.budget,2,9,0,0,0,0,9,"already-seen, no-development, off-topic, duplicate-in-run",nil,0
+gov.protect--data-protection-authority,gov.protect,2,9,2,1,0,1,0,,staged,1
+gov.protect--national-data-protection-readiness,gov.protect,2,10,3,1,1,1,1,off-topic,staged,1
+gov.regional--regional-policy-collaboration,gov.regional,2,7,4,1,2,1,0,,staged,0
+gov.regional--regional-legal-harmonisation,gov.regional,2,9,4,1,1,2,0,,staged,0
+gov.regional--shared-regional-infrastructure,gov.regional,2,9,4,1,1,2,1,off-topic,staged,0
+gov.regional--cross-border-data-transfers,gov.regional,2,6,4,1,1,3,0,,staged,0
+gov.standards--national-interoperability-standards,gov.standards,2,10,3,1,1,3,1,headline-only-stub,staged,0
+gov.standards--national-quality-standards,gov.standards,2,10,4,1,2,1,1,fetch-blocked,staged,0
+gov.standards--adoption-of-international-standards,gov.standards,2,9,2,1,1,0,2,off-topic,staged,0
+finance.mou--strategic-relationships,finance.mou,2,10,3,1,2,1,1,out-of-window,staged,0
+finance.new--mobilisation-of-non-state-finance,finance.new,2,10,3,1,2,0,8,none,staged,1
+infra.connect--internet-usage,infra.connect,2,6,2,1,0,1,5,"headline-only-stub, already-seen",staged,3
+infra.connect--mobile-affordability,infra.connect,2,5,1,1,0,0,4,none,staged,3
+infra.connect--internet-exchange-points,infra.connect,2,7,2,1,0,1,6,"already-seen, no-development",staged,3
+infra.store--local-data-centre-capacity-all-providers,infra.store,2,7,3,1,1,1,5,"already-seen, no-development",staged,0
+infra.store--local-data-centre-capacity-national-providers,infra.store,2,8,1,1,0,0,7,"out-of-window, no-development, duplicate-in-run",staged,0
+infra.store--off-site-backup-capacity,infra.store,2,7,1,1,0,0,6,"out-of-window, no-development",staged,0
+infra.energy--sufficient-energy-and-water-for-data-centres,infra.energy,2,7,3,1,2,0,4,duplicate-in-run,staged,0
+infra.energy--grid-reliability,infra.energy,2,7,3,1,2,0,4,duplicate-in-run,staged,0
+infra.energy--rural-electrification,infra.energy,2,5,4,1,2,1,1,headline-only-stub,staged,0
+infra.capacity--robustness-of-government-hardware-and-software,infra.capacity,2,8,1,1,0,0,7,already-seen,staged,0
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,infra.capacity,2,7,0,0,0,0,7,already-seen,nil,0
+infra.cybersec--national-cybersecurity-readiness,infra.cybersec,2,7,2,1,0,1,6,"already-seen, headline-only-stub, no-development",staged,0
+dpi.exchange--national-data-exchange-system,dpi.exchange,2,8,1,1,0,0,7,"already-seen, no-development",staged,1
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,7,1,1,0,0,6,"already-seen, no-development",staged,1
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,7,0,0,0,0,7,"already-seen, no-development",nil,1
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,9,2,1,0,1,8,"already-seen, no-development",staged,1
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,6,1,0,0,1,6,"already-seen, off-topic, no-development",nil,1
+dpi.govtech--e-government-services,dpi.govtech,2,6,0,0,0,0,6,"already-seen, no-development, out-of-window",nil,0
+dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,6,3,1,2,0,3,duplicate-in-run,staged,1
+dpi.id--authentication,dpi.id,2,5,2,1,0,1,2,duplicate-in-run,staged,1
+dpi.id--digital-id-from-birth,dpi.id,2,5,1,1,0,0,4,duplicate-in-run,staged,1
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,6,2,1,0,1,4,"duplicate-in-run, off-topic",staged,1
+dpi.id--use-by-other-systems,dpi.id,2,10,1,1,0,0,8,"duplicate-in-run, no-development, headline-only-stub",staged,1
+dpi.pay--g2p-functionality,dpi.pay,2,7,1,1,0,0,5,"already-seen, duplicate-in-run, no-development",staged,1
+dpi.pay--revenue-collection,dpi.pay,2,7,3,1,2,0,4,"off-topic, no-development",staged,1
+dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,5,2,1,1,0,3,"duplicate-in-run, no-development",staged,1
+dpi.pay--p2p-p2g-and-p2b-functionality,dpi.pay,2,6,1,1,0,0,5,"duplicate-in-run, no-development",staged,1
+dpi.pay--population-uptake,dpi.pay,2,5,2,1,1,0,3,"already-seen, no-development",staged,1
+dpi.pay--cross-border-functionality,dpi.pay,2,7,3,1,2,0,4,"duplicate-in-run, headline-only-stub, off-topic",staged,1
+dpi.pay--consumer-protection,dpi.pay,2,12,3,1,2,0,8,duplicate-in-run,staged,1
+dpi.registry--population-register,dpi.registry,2,9,1,1,0,0,8,"already-seen, duplicate-in-run",staged,0
+dpi.registry--civil-register,dpi.registry,2,8,1,1,0,0,7,"already-seen, duplicate-in-run",staged,0
+dpi.registry--address-register,dpi.registry,2,12,0,0,0,0,12,"off-topic, duplicate-in-run",nil,0
+dpi.registry--business-register,dpi.registry,2,6,1,1,0,0,5,"no-development, duplicate-in-run",staged,0
+dpi.registry--social-protection-register,dpi.registry,2,9,1,1,0,0,8,"no-development, duplicate-in-run",staged,0
+dpi.registry--electoral-register,dpi.registry,2,9,1,1,0,0,8,no-development,staged,0
+dpi.registry--tax-register,dpi.registry,2,9,2,1,0,1,8,"duplicate-in-run, fetch-blocked",staged,0
+dpi.registry--land-register,dpi.registry,2,8,0,0,0,0,8,duplicate-in-run,nil,0
+dpi.mis--health,dpi.mis,2,5,0,1,1,0,1,already-seen,staged,0
+dpi.mis--education,dpi.mis,2,6,1,1,2,0,0,,staged,0
+dpi.mis--social-protection,dpi.mis,2,5,2,1,1,2,3,"already-seen, headline-only-stub, fetch-blocked",staged,0
+dpi.mis--justice,dpi.mis,2,5,1,1,0,0,1,already-seen,staged,0
+dpi.mis--tax,dpi.mis,2,5,1,1,1,0,0,,staged,0
+dpi.mis--land,dpi.mis,2,6,0,1,2,0,0,,staged,0
+tech.industry--national-capacity-in-dt-related-production,tech.industry,2,11,1,1,0,0,10,"already-seen, duplicate-in-run",staged,0
+tech.innovate--technology-hubs,tech.innovate,2,7,2,0,2,0,5,duplicate-in-run,staged,1
+digital.localgov--ict-infrastructure-for-local-government,digital.localgov,2,8,1,1,1,0,1,already-seen,staged,0
+digital.localgov--digitalisation-of-local-government-records,digital.localgov,2,6,0,1,2,0,0,,staged,0
+digital.rural--digitalisation-of-rural-health-clinics,digital.rural,2,7,2,1,2,0,1,already-seen,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,digital.rural,2,7,0,1,2,0,0,,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,digital.rural,2,8,0,1,0,0,3,"already-seen, off-topic, out-of-window",staged,0
+digital.rural--digitalisation-of-rural-police-stations,digital.rural,2,4,0,1,1,0,1,inadmissible-origin,staged,0
+tech.ai--use-of-ai-in-government-administration,tech.ai,2,4,1,0,0,1,2,off-topic,nil,1
+tech.ai--use-of-ai-in-sectoral-management-information-systems,tech.ai,2,5,1,1,0,0,3,off-topic,staged,1
+tech.ai--control-of-ai-abuse,tech.ai,2,5,1,0,0,1,1,already-seen,nil,1
+capacity.literacy--digital-literacy-civil-service,capacity.literacy,2,2,1,1,1,0,0,,staged,0
+capacity.literacy--digital-literacy-general-population,capacity.literacy,2,5,0,1,1,0,3,"already-seen, duplicate-in-run",staged,0
+capacity.training--dt-related-training-in-secondary-education,capacity.training,2,6,3,1,1,1,2,"out-of-window, already-seen",staged,0
+capacity.training--dt-related-university-facilities-and-qualifications,capacity.training,2,8,2,1,1,0,1,out-of-window,staged,0
+capacity.training--graduates-entering-dt-ecosystem,capacity.training,2,6,2,1,1,0,1,duplicate-in-run,staged,0
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,capacity.research,2,7,3,1,2,0,0,,staged,0
+include.divides--bridging-of-digital-divides,include.divides,2,6,1,1,0,0,3,"already-seen, duplicate-in-run",staged,1
+geopol.eu--eu-mous-engagements-and-commitments,geopol.eu,2,5,2,1,2,0,0,,staged,0
+geopol.gulf--gulf-mous-engagements-and-commitments,geopol.gulf,2,6,3,1,2,0,0,,staged,0
+geopol.india--india-mous-engagements-and-commitments,geopol.india,2,5,2,1,1,0,0,,staged,0
+include.access--citizen-feedback-portals,include.access,2,8,2,1,0,1,6,"off-topic, inadmissible-origin",staged,0
+include.access--citizen-participation-in-policy,include.access,2,7,4,1,2,1,3,"no-development, off-topic",staged,0
+include.access--gender-equity,include.access,2,9,3,1,2,0,6,"no-development, duplicate-in-run",staged,0
+include.access--inclusion-of-persons-with-disabilities,include.access,2,7,4,1,2,1,3,"no-development, off-topic",staged,0
+include.access--inclusion-of-refugees-and-idps,include.access,2,7,4,1,2,1,3,"no-development, duplicate-in-run",staged,0
+data.statistics--national-strategy-for-development-of-statistics,data.statistics,2,5,2,0,2,0,3,"already-seen, no-development",staged,1
+data.open--use-of-open-data,data.open,2,6,3,0,1,2,3,"off-topic, already-seen",staged,0
+data.satellite--agricultural-use-of-satellite-data,data.satellite,2,6,3,1,2,0,3,"no-development, duplicate-in-run",staged,0
+data.satellite--meteorological-use-of-satellite-data,data.satellite,2,7,3,1,2,0,4,"no-development, duplicate-in-run",staged,0
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,geopol.usa,2,10,3,1,2,0,7,"no-development, off-topic",staged,0
+geopol.china--chinese-mous-engagements-and-commitments,geopol.china,2,12,3,1,2,0,9,"out-of-window, no-development",staged,0
+gov.legislate--data-protection-legislation,gov.legislate,2,4,0,1,2,0,0,,staged,1
+gov.legislate--cybersecurity-legislation,gov.legislate,2,3,0,1,1,0,0,,staged,1
+gov.legislate--legislation-covering-digital-id,gov.legislate,2,5,0,1,0,0,2,"out-of-window, no-development",staged,1
+gov.legislate--digital-payments-legislation,gov.legislate,2,7,0,1,0,0,2,"out-of-window, no-development",staged,1
+gov.legislate--legislation-enabling-data-interoperability,gov.legislate,2,5,0,1,2,0,1,no-development,staged,1
+gov.legislate--ai-legislation-regulations,gov.legislate,2,8,1,1,0,0,3,no-development,staged,1
+gov.legislate--e-commerce-legislation,gov.legislate,2,6,0,1,2,0,1,off-topic,staged,1
+gov.legislate--statistics-legislation,gov.legislate,2,6,1,1,2,0,2,"no-development, off-topic",staged,1
+gov.legislate--access-to-information-legislation,gov.legislate,2,7,2,1,1,0,2,"out-of-window, off-topic",staged,1
+gov.discourse--non-governmental-contribution-to-national-policy,gov.discourse,2,4,0,1,1,0,1,off-topic,staged,0
+gov.discourse--open-discussion-of-government-policy,gov.discourse,2,5,1,1,2,0,1,out-of-window,staged,0
