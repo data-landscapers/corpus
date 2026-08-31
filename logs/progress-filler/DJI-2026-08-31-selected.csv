@@ -1,0 +1,202 @@
+indicator_id,file,brief,rank,why
+gov.policy--ict-strategy,baseline/2025-07-11-mcpt-djibouti-smsi-2025-vision-numerique-inclusif.md,1,1,most current dated official statement of Djibouti's ICT-strategy standing
+gov.policy--ict-strategy,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID launch concrete delivery milestone reused file
+gov.policy--ict-strategy,progress/2026-03-01-primature-discours-politique-generale-numerique-hub.md,2,2,PM general-policy speech restating digital-hub strategy
+gov.policy--broadband-strategy,baseline/2024-10-17-lanation-snhd-strategie-nationale-haut-debit.md,1,1,dedicated national broadband strategy itself SNHD
+gov.policy--broadband-strategy,progress/2026-04-23-armd-universal-service-fund-feedback.md,2,1,ARMD USF final-report feedback meeting reused file
+gov.policy--broadband-strategy,progress/2026-03-22-armd-netcatonline-authorization.md,2,2,ARMD grants first national wired-network authorization to NetCatOnline reused file
+gov.policy--data-storage-cloud-strategy,baseline/2024-05-15-worldbank-djibouti-digital-economy-diagnostic.md,1,1,strongest dated assessment of data-storage/cloud-strategy standing
+gov.policy--data-storage-cloud-strategy,progress/2026-03-25-interieur-ministre-delegation-banque-mondiale.md,2,1,Digital Foundations financing acceleration sovereignty-focused reused file
+gov.policy--data-storage-cloud-strategy,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,Mobile ID sovereign-hosting use case reused file
+gov.policy--data-interoperability-framework-roadmap,baseline/2022-01-01-cadre-interoperabilite-djibouti-cid.md,1,1,national data-interoperability framework itself CID
+gov.policy--data-interoperability-framework-roadmap,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID interoperable identity-based service access reused file
+gov.policy--data-localisation-policies,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,1,1,Digital Code Arts 99-103 international transfer regime
+gov.policy--data-localisation-policies,progress/2025-10-07-presidence-conseil-ministres-mdeni-catalogue-services-numeriques-diagnostic.md,2,1,government diagnostic naming Code dissemination as unresolved gap
+gov.policy--data-governance-policy,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,1,1,Digital Code Book I personal-data protection closest national data-governance instrument
+gov.policy--data-governance-policy,progress/2025-11-18-presidence-conseil-ministres-nomination-dg-anc.md,2,1,ANC Director General appointed institutional operationalisation step
+gov.policy--open-data-policy,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,1,1,Digital Code Title 2 access to administrative documents
+gov.policy--open-data-policy,progress/2025-11-18-instad-repertoire-localites-populations.md,2,1,INSTAD RGPH-3 locality/population directory publication reused file
+finance.mou--strategic-relationships,baseline/2024-12-09-egov-mdeni-mou-digital-transformation.md,1,1,clearest single MoU matching strategic-relationships indicator
+finance.mou--strategic-relationships,progress/2026-07-19-djibouti-linkwise-protocole-accord-investissements.md,2,1,$1.35bn Djibouti-LinkWise AI/digital-infrastructure investment MoU
+gov.discourse--non-governmental-contribution-to-national-policy,baseline/2022-04-13-undp-djibouti-roadmap-digital-economy-innovation-launch.md,1,1,launch of Digital Economy and Innovation Roadmap with named private-sector panelists
+gov.discourse--non-governmental-contribution-to-national-policy,progress/2026-01-30-unesco-djibouti-strategie-nationale-ia-consultation.md,2,1,national AI-strategy consultation ~80 participants incl academia private sector civil society reused file
+gov.discourse--non-governmental-contribution-to-national-policy,progress/2025-10-07-brefons-codesign-workshop-digital-agriculture-djibouti.md,2,2,BREFONS digital-agriculture co-design workshop distinct sectoral participatory event
+gov.discourse--open-discussion-of-government-policy,baseline/2025-07-01-ecofinagency-djibouti-digital-code-adoption.md,1,1,National Assembly public plenary-session adoption of the Digital Code
+gov.discourse--open-discussion-of-government-policy,progress/2025-11-06-techreviewafrica-djibouti-digital-code-gafd-general-assembly.md,2,1,Digital Code presented to France-Djibouti Business Group assembly
+gov.legislate--cybersecurity-legislation,progress/2025-11-04-djibouti-presidence-conseil-ministres-anc-bill.md,2,1,Council of Ministers approval of the ANC bill
+gov.legislate--cybersecurity-legislation,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,2,2,Digital Code in-window Gazette publication cybersecurity provisions
+gov.legislate--legislation-covering-digital-id,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,1,1,Digital Code Art 456 makes electronic identification obligatory
+gov.legislate--legislation-covering-digital-id,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,official Mobile ID system launch operational implementation
+gov.legislate--digital-payments-legislation,baseline/2016-07-16-djibouti-loi-118-systeme-paiement-national.md,1,1,founding National Payment System law
+gov.legislate--digital-payments-legislation,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,2,1,Digital Code publication
+gov.legislate--digital-payments-legislation,progress/2025-07-07-djibouti-bcd-communique-syrad-normes-cheques.md,2,2,BCD SYRAD cheque-conformity tightening
+gov.legislate--legislation-enabling-data-interoperability,baseline/2022-07-27-djibouti-loi-164-mdeni-missions.md,1,1,MDENI statutory interoperability mandate
+gov.legislate--legislation-enabling-data-interoperability,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,2,1,Digital Code publication
+gov.legislate--legislation-enabling-data-interoperability,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,Mobile ID launch interoperable identity-based service access
+gov.legislate--statistics-legislation,baseline/2026-05-12-journalofficiel-decret-2026-075-statut-cadres-instad.md,1,1,latest act citing/building on the 2011 statistics law
+gov.legislate--statistics-legislation,progress/2026-06-11-journalofficiel-decret-2026-105-attributions-ministeres.md,2,1,confirms INSTAD ministerial tutelage
+gov.legislate--statistics-legislation,progress/2026-02-25-djibouti-arrete-2026-041-budget-instad.md,2,2,INSTAD 2026 budget approval
+gov.legislate--access-to-information-legislation,baseline/2026-04-01-djibouti-statemediamonitor-country-panel.md,1,1,most current dated confirmation no ATI/FOI law exists
+gov.regional--regional-policy-collaboration,baseline/2022-06-16-igad-regional-health-data-sharing-framework.md,1,1,Djibouti active domestication of IGAD regional data-sharing framework
+gov.regional--regional-policy-collaboration,progress/2025-10-06-igad-cyber-resilience-workshop-djibouti.md,2,1,IGAD ISAC workshop hosted in Djibouti
+gov.regional--regional-policy-collaboration,progress/2025-12-11-au-16th-psf-djibouti-declaration.md,2,2,AU Private Sector Forum hosted in Djibouti Djibouti Declaration
+gov.regional--shared-regional-infrastructure,baseline/2024-07-17-djibouti-telecom-connectivity-hub.md,1,1,operator own hub-status statement
+gov.regional--shared-regional-infrastructure,progress/2025-08-28-dare1-subsea-cable-extension.md,2,1,DARE1 southward extension announced
+gov.regional--shared-regional-infrastructure,progress/2026-02-04-ethiotelecom-horizon-fiber-tripartite-signing.md,2,2,Horizon Fiber tripartite agreement signed
+gov.regional--cross-border-data-transfers,baseline/2025-09-18-djibouti-loi-019-code-numerique.md,1,1,Digital Code Arts 98-103 transfer regime
+gov.regional--cross-border-data-transfers,progress/2025-09-12-worldbank-eardip-implementation-mission-aide-memoire.md,2,1,EARDIP mission cross-border-data TWG
+gov.regional--cross-border-data-transfers,progress/2026-07-21-unesco-east-africa-data-governance-workshop-nairobi.md,2,2,UNESCO regional data-governance workshop Djibouti attended
+gov.standards--national-interoperability-standards,baseline/2022-01-01-cadre-interoperabilite-djibouti-cid.md,1,1,national interoperability framework document itself
+gov.standards--national-interoperability-standards,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID national digital-identity launch
+gov.standards--national-interoperability-standards,baseline/2025-09-18-journalofficiel-loi-019-code-numerique.md,2,2,Digital Code publication binding legal foundation
+gov.standards--national-quality-standards,baseline/2022-05-04-decret-2022-092-pr-mct-adn-organisation.md,1,1,ADN organisational decree
+gov.standards--national-quality-standards,progress/2025-12-15-jord-23-codex-alimentarius-arrete-2025-163.md,2,1,Codex Alimentarius standards adopted nationally
+gov.standards--national-quality-standards,progress/2026-01-13-conseil-ministres-adn-budget-ctn-operationalises.md,2,2,ADN 2026 budget 2 CTN operationalised
+gov.standards--adoption-of-international-standards,baseline/2019-02-14-loi-33-an-18-8eme-l-normalisation-qualite.md,1,1,founding standardisation-system law
+gov.standards--adoption-of-international-standards,progress/2025-11-18-decret-2025-320-pr-mefi-ifac-normes.md,2,1,IFAC standards homologated for accountants
+gov.standards--adoption-of-international-standards,progress/2025-12-15-jord-23-codex-alimentarius-arrete-2025-163.md,2,2,Codex Alimentarius adoption reused file
+infra.connect--internet-usage,baseline/2026-04-14-fred-internet-users-djibouti.md,1,1,standing usage figure FRED mirrors WB series
+infra.connect--internet-usage,progress/2026-02-04-ethiotelecom-horizon-fiber-tripartite-signing.md,2,1,Horizon Fiber tripartite agreement
+infra.connect--mobile-affordability,baseline/2025-11-17-itu-measuring-digital-development-facts-figures-2025.md,1,1,ITU global affordability-basket methodology standing context
+infra.connect--mobile-affordability,progress/2026-03-22-armd-netcatonline-authorization.md,2,1,new-entrant authorisation pro-competition
+infra.connect--mobile-affordability,progress/2026-04-23-armd-universal-service-fund-feedback.md,2,2,Universal Service Fund framework advanced
+infra.store--off-site-backup-capacity,baseline/2021-02-23-wb-icr-governance-private-sector-development-finance.md,1,1,Central Bank NPS disaster-recovery contract
+infra.store--off-site-backup-capacity,progress/2026-02-11-dcd-horizon-fiber-agreement.md,2,1,Horizon Fiber redundancy angle
+infra.store--off-site-backup-capacity,progress/2025-08-28-dare1-subsea-cable-extension.md,2,2,DARE1 southward extension reused file
+infra.energy--grid-reliability,baseline/2025-11-01-afdb-mid-term-review-csp-2023-2027.md,1,1,SAIDI baseline import dependency
+infra.energy--grid-reliability,progress/2025-11-24-afdb-contract-award-semera-galafi-230kv-line.md,2,1,second interconnection contract awarded
+infra.energy--grid-reliability,progress/2026-06-18-afdb-ifb-nagad-substation-lot-3b.md,2,2,Nagad substation procurement
+infra.energy--rural-electrification,baseline/2026-05-25-pacte-national-energie-lanation.md,1,1,National Energy Pact roadmap
+infra.energy--rural-electrification,progress/2025-09-12-longi-adailou-off-grid-solar.md,2,1,Adailou village solar plant commissioned
+infra.energy--rural-electrification,progress/2026-04-21-dawan-japan-undp-solar-yoboki-omar-jaggaa.md,2,2,Japan/UNDP two-village pilot
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2023-04-10-wb-govtech-operations-djibouti-case-study.md,1,1,GovTech case study abstract only
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2025-06-16-wb-icr00178-public-admin-modernization.md,1,1,ICR evaluating actual capacity outcomes
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2025-11-25-ecofin-e-skills-campus-42-launch.md,2,1,E-SKILLS/Campus 42 programme launch
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2025-12-16-itu-iso-27005-training-djibouti.md,2,2,ITU risk-management training
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2019-01-21-djibouti-loi-39-an-19-rnpp.md,1,1,founding NNI/RNPP law mandatory cross-service use
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID national launch reused progress event
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2025-09-18-journalofficiel-loi-019-code-numerique.md,2,2,Digital Code publication enabling trust framework
+dpi.exchange--interoperability-of-health-systems,baseline/2025-04-14-who-management-response-djibouti-evaluation.md,1,1,WHO own dated HIS status statement
+dpi.exchange--interoperability-of-health-systems,progress/2025-08-29-igad-communique-second-ministerial-one-health-pandemic-preparedness.md,2,1,IGAD One Health interoperability commitment
+dpi.exchange--interoperability-of-health-systems,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,Mobile ID health-record linkage angle reused
+dpi.exchange--interoperability-of-education-systems,baseline/2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization.md,1,1,only baseline naming education among connected systems
+dpi.exchange--interoperability-of-education-systems,progress/2025-09-02-lanation-rentree-scolaire-gose-smis.md,2,1,GOSE/SMIS consolidation priority set
+dpi.exchange--interoperability-of-education-systems,progress/2025-11-20-lanation-interview-ministre-education-gose-smis.md,2,2,operational use confirmed 3000+ at-risk students
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization.md,1,1,same review names Social Registry reused
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID CNSS verification angle reused
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2025-09-18-journalofficiel-loi-019-code-numerique.md,2,2,Digital Code reused
+dpi.id--registration-of-entire-population,baseline/2019-01-21-djibouti-loi-39-an-19-rnpp.md,1,1,founding law reused
+dpi.id--registration-of-entire-population,progress/2026-03-25-interieur-ministre-delegation-banque-mondiale.md,2,1,WB delegation Fondation Numerique financing
+dpi.id--registration-of-entire-population,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,Mobile ID reused
+dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2020-07-13-decret-2020-150-nni-composition-caracteristiques.md,1,1,operationalising decree mandatory-use scope
+dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID reused
+dpi.id--digital-id-from-birth,baseline/2020-07-13-decret-2020-150-nni-composition-caracteristiques.md,1,1,explicit digital instrument assigned from birth reused
+dpi.id--digital-id-from-birth,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID reused
+dpi.id--digital-id-from-birth,progress/2025-12-24-presidence-forum-djiboutiens-etranger-guichets-etat-civil.md,2,2,diaspora civil-status desks distinct event
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2025-06-16-wb-icr00178-public-admin-modernization.md,1,1,task-team ICR distinct document from the IEG review
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID reused
+dpi.id--interoperability-of-birth-registration-and-digital-id,progress/2026-06-11-journalofficiel-decret-2026-105-attributions-ministeres.md,2,2,Justice+MDENI joint digitisation mandate
+dpi.id--use-by-other-systems,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,1,1,Mobile ID itself as standing instrument baseline wins folder
+dpi.pay--governance-role-of-central-bank,baseline/2016-07-16-djibouti-loi-118-systeme-paiement-national.md,1,1,founding National Payment System law BCD licensing mandate
+dpi.pay--governance-role-of-central-bank,progress/2025-07-07-djibouti-bcd-communique-syrad-normes-cheques.md,2,1,BCD operational intervention SYRAD cheque-standard enforcement
+dpi.pay--revenue-collection,progress/2026-06-11-rtd-djibouti-lance-pagef.md,2,1,PAGEF launch 20m tax-admin/e-gov reform programme
+dpi.pay--b2b-and-b2g-functionality,baseline/2021-07-15-bcd-infrastructures-ats-syrad.md,1,1,SYRAD RTGS+ACH operative wholesale/institutional infrastructure
+dpi.pay--cross-border-functionality,progress/2026-02-11-igad-tor-payments-interoperability-framework.md,2,1,IGAD regional payment-interoperability regulatory framework ToR
+dpi.pay--cross-border-functionality,progress/2025-09-21-santimpay-meras-djibouti-partnership.md,2,2,Ethiopia-Djibouti cross-border fintech partnership
+dpi.pay--consumer-protection,baseline/2016-07-16-djibouti-loi-118-systeme-paiement-national.md,1,1,same payment-system law Arts 73-81 consumer-protection provisions
+dpi.pay--consumer-protection,baseline/2025-09-18-journalofficiel-loi-019-code-numerique.md,2,1,Digital Code adoption new transversal legal groundwork
+dpi.registry--population-register,baseline/2019-01-21-djibouti-loi-39-an-19-rnpp.md,1,1,founding RNPP/NNI law
+dpi.registry--population-register,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID launch RNPP-linked digital identity
+dpi.registry--population-register,progress/2026-03-25-interieur-ministre-delegation-banque-mondiale.md,2,2,WB delegation on Digital Foundations project financing
+dpi.registry--address-register,baseline/2025-01-01-djibouti-la-poste-what3words.md,1,1,La Poste what3words addressing offer current operational system
+dpi.registry--address-register,progress/2025-11-18-instad-repertoire-localites-populations.md,2,1,INSTAD national locality/geocode directory RGPH-3
+dpi.registry--address-register,progress/2026-01-01-geohorn-portail-interactif-djibouti.md,2,2,GeoHorn territorial-information portal built on new locality data
+dpi.registry--social-protection-register,baseline/2020-07-13-djibouti-jord-n13-decret-2020-137-registre-social.md,1,1,gazette record of registry founding/amending decrees
+dpi.registry--social-protection-register,progress/2026-02-05-worldbank-p506969-isr-djibouti-integrated-community-resilience.md,2,1,WB registry-expansion project effective Aug 2025
+dpi.registry--social-protection-register,progress/2026-01-29-sociales-gouv-dj-discours-semaine-solidarite.md,2,2,President speech on registry poverty-mapping policy role
+dpi.registry--electoral-register,baseline/2026-01-12-djibouti-decret-2025-359-convocation-college-electoral.md,1,1,election-convocation decree confirming register maintained/used
+dpi.registry--electoral-register,progress/2026-03-15-interieur-distribution-cartes-electeur.md,2,1,nationwide voter-card distribution roll-out
+dpi.registry--electoral-register,progress/2026-04-21-conseil-constitutionnel-decision-03-resultats-definitifs.md,2,2,Constitutional Council final certified register/results count
+dpi.registry--tax-register,baseline/2009-03-22-djibouti-loi-42-an-08-code-general-impots.md,1,1,founding General Tax Code DGI taxpayer-registration mandate
+dpi.registry--tax-register,progress/2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance.md,2,1,WB status tax system not operational VAT-registration indicator zero
+dpi.registry--land-register,baseline/2018-04-12-djibouti-loi-006-an-18-livres-fonciers-numerises.md,1,1,digitised land-books amendment current operative legal form
+dpi.registry--land-register,progress/2026-06-11-journalofficiel-decret-2026-105-attributions-ministeres.md,2,1,ministerial-reorganisation decree reassigning cadastre responsibility
+dpi.registry--land-register,progress/2025-12-07-igad-validation-workshop-politique-fonciere-nationale.md,2,2,IGAD-backed National Land Policy validation workshop
+dpi.mis--education,baseline/2026-02-05-worldbank-p166059-isr-djibouti-expanding-opportunities-learning.md,1,1,latest ISR GOSE deployed nationally to public primary schools
+dpi.mis--education,progress/2026-04-27-giga-ai-tool-connectivity-djibouti-school-mapping.md,2,1,100% Giga Maps validation first country to reach it
+dpi.mis--education,progress/2025-09-02-lanation-rentree-scolaire-gose-smis.md,2,2,distinct MENFOP governance/data-systems reform SAQ
+dpi.mis--social-protection,baseline/2025-02-21-worldbank-pad-djibouti-integrated-community-resilience-project.md,1,1,Social Registry 515730 registered audit/interoperability upgrade underway
+dpi.mis--social-protection,progress/2026-02-05-worldbank-p506969-isr-djibouti-integrated-community-resilience.md,2,1,project effectiveness 2025-08-26 registry-scaling component activated
+dpi.mis--social-protection,progress/2026-01-29-adds-president-guelleh-fight-against-poverty.md,2,2,presidential address naming Social Registry as operational targeting basis
+dpi.mis--justice,baseline/2025-07-15-undp-djibouti-2024-annual-report.md,1,1,UNDP dated statement case-management pilot under construction
+dpi.mis--justice,progress/2026-03-26-lanation-plateforme-numerique-e-jo.md,2,1,e-JO platform maturation + Oct-2025 African Forum
+dpi.mis--tax,baseline/2025-06-16-wb-icr00178-public-admin-modernization.md,1,1,ICR ITAS/SIGTAS not deployed at June 2024 closure
+dpi.mis--tax,progress/2026-01-27-worldbank-p180696-isr-djibouti-economic-financial-governance.md,2,1,follow-on project ISR ITAS indicator still 0% as of Jan 2026
+dpi.mis--tax,progress/2025-08-22-imf-djibouti-2025-article-iv-consultation.md,2,2,IMF digitalisation/integration reform planned 2026-30
+dpi.mis--land,baseline/2018-04-12-djibouti-loi-006-an-18-livres-fonciers-numerises.md,1,1,operative law giving digitised land books evidentiary title status
+dpi.mis--land,progress/2025-12-09-worldbank-restructuring-djibouti-integrated-slum-upgrading.md,2,1,ISUP extension for land-tenure regularisation
+dpi.mis--land,progress/2025-12-10-lanation-cloture-projet-information-geospatiale-jica.md,2,2,JICA geospatial-capacity project closure
+digital.localgov--ict-infrastructure-for-local-government,baseline/2026-02-10-worldbank-isr8-djibouti-digital-foundations-project.md,1,1,pilot connecting 33 MDAs 22 in the regions
+digital.localgov--ict-infrastructure-for-local-government,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,Mobile ID national launch
+digital.localgov--ict-infrastructure-for-local-government,progress/2026-03-25-interieur-ministre-delegation-banque-mondiale.md,2,2,distinct later WB/Interior ministerial coordination meeting reused
+digital.localgov--digitalisation-of-local-government-records,baseline/2025-06-16-wb-icr00178-public-admin-modernization.md,1,1,reused from tax Einguela CSC pilot not fully operational
+digital.localgov--digitalisation-of-local-government-records,progress/2026-04-27-decentralisation-ouverture-antenne-etat-civil-mouloud.md,2,1,direct territorial civil-status transfer to Dikhil Regional Council
+digital.localgov--digitalisation-of-local-government-records,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,reused national records-modernisation enabler
+digital.rural--digitalisation-of-rural-health-clinics,baseline/2025-04-19-worldbank-p178033-isr-djibouti-health-system-strengthening.md,1,1,69% DHIS2 direct entry 37% eLMIS connectivity partial not comprehensive
+digital.rural--digitalisation-of-rural-health-clinics,progress/2025-08-29-igad-communique-second-ministerial-one-health-pandemic-preparedness.md,2,1,regional One-Health digital-surveillance commitment reused
+digital.rural--digitalisation-of-rural-health-clinics,progress/2026-06-11-journalofficiel-decret-2026-105-attributions-ministeres.md,2,2,ministerial decree formally assigning health-service digitalisation
+digital.rural--digitalisation-of-rural-primary-schools,baseline/2025-04-28-worldbank-project-paper-djibouti-expanding-opportunities-learning.md,1,1,GOSE national deployment rural electricity/connectivity still constrained
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-04-27-giga-ai-tool-connectivity-djibouti-school-mapping.md,2,1,reused 100% school-location validation
+digital.rural--digitalisation-of-rural-primary-schools,progress/2025-12-16-giga-improving-school-location-accuracy-connectivity.md,2,2,distinct earlier milestone 80% validation Dec 2025
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2026-01-01-unescwa-digitizing-civil-registration-vital-statistics-arab-region.md,1,1,ESCWA no electronic records in local CRVS offices
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,1,reused Mobile ID as rural-access-relevant enabler
+digital.rural--digitalisation-of-rural-registry-offices,progress/2026-04-27-decentralisation-ouverture-antenne-etat-civil-mouloud.md,2,2,reused territorial civil-status transfer
+digital.rural--digitalisation-of-rural-police-stations,baseline/2024-06-30-worldbank-iegicr-review-djibouti-public-admin-modernization.md,1,1,IEG review e-ID subcomponent dropped CSC reduced no rural-station evidence
+tech.ai--use-of-ai-in-government-administration,baseline/2026-01-22-rtd-mdeni-lancement-strategie-nationale-ia.md,1,1,most direct primary launch statement AI Strategy 2026-2030
+tech.ai--use-of-ai-in-government-administration,progress/2026-07-08-adi-djibouti-ambitions-geneve-ia-connectivite.md,2,1,Geneva WSIS/AI for Good engagement
+tech.ai--control-of-ai-abuse,baseline/2025-09-18-journalofficiel-loi-019-code-numerique.md,1,1,Digital Code operative framework reaching AI-enabled abuse
+tech.ai--control-of-ai-abuse,progress/2026-08-05-adi-arrestation-faussaire-ia-waafi.md,2,1,first concrete AI-enabled-fraud enforcement action
+tech.ai--control-of-ai-abuse,baseline/2026-01-22-rtd-mdeni-lancement-strategie-nationale-ia.md,2,2,AI-strategy launch as governance movement reused
+capacity.literacy--digital-literacy-general-population,baseline/2021-05-22-worldbank-pid-djibouti-digital-foundations-project.md,1,1,founding project instrument Sub-component 2.1 general-population skills
+capacity.literacy--digital-literacy-general-population,progress/2025-11-24-rtd-lancement-projet-e-skills.md,2,1,EUR7m E-SKILLS launch largest funded expansion
+capacity.literacy--digital-literacy-general-population,baseline/2026-02-10-worldbank-isr8-djibouti-digital-foundations-project.md,2,2,latest disclosed implementation-status report
+capacity.training--dt-related-training-in-secondary-education,baseline/2024-08-12-journalofficiel-loi-113-reorganisation-menfop.md,1,1,current operative MENFOP reorganisation law
+capacity.training--dt-related-training-in-secondary-education,progress/2025-09-01-menfop-mise-en-place-deux-centres-stem.md,2,1,two STEM centres opened at lycees
+capacity.training--dt-related-training-in-secondary-education,progress/2025-12-13-ifef-djibouti-strategie-numerique-eftp-validee.md,2,2,EFTP digital-transformation strategy validated
+capacity.training--graduates-entering-dt-ecosystem,baseline/2025-10-21-menfop-ceremonie-cloture-formations-numeriques-d-clic.md,1,1,240 graduates cybersecurity/mobile/web dev
+capacity.training--graduates-entering-dt-ecosystem,progress/2025-11-24-rtd-lancement-projet-e-skills.md,2,1,E-SKILLS + Campus 42 launch reused
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2023-05-01-univ-dj-strategie-regionale-2023-2025.md,1,1,sole national university own research strategy
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-01-30-unesco-djibouti-strategie-nationale-ia-consultation.md,2,1,AI-strategy consultation explicit academic participation
+data.statistics--censuses-and-surveys,baseline/2026-01-01-unfpa-dji-rapport-resultats-definitifs-rgph3.md,1,1,RGPH-3 definitive results current census reference
+data.statistics--censuses-and-surveys,progress/2025-12-31-instad-linkedin-lancement-mics7.md,2,1,MICS-7 launch distinct survey after ~20 years
+data.statistics--statistics-from-administrative-data,baseline/2015-09-21-journalofficiel-decret-2015-263-oneq.md,1,1,ONEQ founding decree explicit admin-sources mandate
+data.statistics--statistics-from-administrative-data,progress/2026-06-11-journalofficiel-decret-2026-105-attributions-ministeres.md,2,1,ministry reorganisation statistical governance reused
+data.statistics--statistics-from-administrative-data,baseline/2026-05-12-journalofficiel-decret-2026-075-statut-cadres-instad.md,2,2,INSTAD statisticians statute
+include.access--citizen-feedback-portals,baseline/2026-08-31-arulos-e-doleances-plateforme-gestion-doleances.md,1,1,ARULoS operational digital complaint platform
+include.access--citizen-feedback-portals,progress/2026-05-06-lanation-numero-vert-2020-protection-consommateurs.md,2,1,national consumer-complaints hotline launched
+include.access--citizen-feedback-portals,baseline/2026-02-10-interieur-mobile-id-lancement-officiel.md,2,2,Mobile ID national digital-identity gateway official launch
+include.access--citizen-participation-in-policy,baseline/2024-03-07-loi-107-organisations-societe-civile.md,1,1,founding civil-society dialogue law Article 10
+include.access--citizen-participation-in-policy,progress/2025-08-10-lanation-pnd-2025-2030-consultations-dikhil.md,2,1,regional PND 2025-2030 consultation Dikhil
+include.access--citizen-participation-in-policy,progress/2025-12-07-igad-validation-workshop-politique-fonciere-nationale.md,2,2,National Land Policy validation workshop reused
+include.access--gender-equity,baseline/2025-01-01-politique-nationale-genre-2024-2030.md,1,1,National Gender Policy 2024-2030 standing umbrella instrument
+include.access--gender-equity,progress/2025-11-24-rtd-lancement-projet-e-skills.md,2,1,EU-funded E-SKILLS launch women/youth digital-skills reused
+include.access--gender-equity,progress/2026-05-01-igad-hdmi-call-gender-sensitive-digital-trade.md,2,2,IGAD gender-sensitive digital-trade training
+include.access--inclusion-of-persons-with-disabilities,baseline/2022-07-31-loi-151-droits-personnes-handicapees.md,1,1,current core disability-rights law
+include.access--inclusion-of-persons-with-disabilities,progress/2026-06-22-anph-plan-travail-annuel-commun-2026.md,2,1,ANPH-UN System 2026 work plan
+include.access--inclusion-of-persons-with-disabilities,progress/2026-04-20-worldbank-djibouti-skills-development-employment.md,2,2,WB SKILLS project disability-inclusive training pathways
+include.access--inclusion-of-refugees-and-idps,baseline/2017-01-05-loi-159-statut-refugies.md,1,1,founding refugee-status law
+include.access--inclusion-of-refugees-and-idps,progress/2026-05-19-afdb-technical-facility-refugees-hosts.md,2,1,AfDB refugee financial-inclusion facility
+include.access--inclusion-of-refugees-and-idps,progress/2025-09-08-jointdatacenter-displaced-populations-djibouti.md,2,2,EDAM5 survey boosted-sample inclusion of displaced populations
+data.satellite--agricultural-use-of-satellite-data,baseline/2022-06-10-spatialdjiboutien-hydrosat.md,1,1,HYDROSAT Djibouti own national satellite system
+data.satellite--agricultural-use-of-satellite-data,progress/2026-03-05-igad-eoi-crop-monitoring-forecasting.md,2,1,IGAD HQ Djibouti satellite crop-monitoring consultancy
+data.satellite--agricultural-use-of-satellite-data,progress/2026-01-01-fao-asis-datasets-google-cloud-storage.md,2,2,FAO ASIS data-access expansion applied to Djibouti
+data.satellite--meteorological-use-of-satellite-data,baseline/2012-07-11-decret-2012-167-anm-mission-organisation.md,1,1,ANM founding organisational decree
+data.satellite--meteorological-use-of-satellite-data,progress/2025-12-26-cma-mazu-urban-operationnel-djibouti.md,2,1,MAZU-Urban satellite-fed AI early-warning system commissioned
+data.satellite--meteorological-use-of-satellite-data,progress/2026-07-17-wmo-mazu-djibouti-2-0-delivered.md,2,2,MAZU-Djibouti 2.0 upgrade distinct handover event
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,baseline/2021-07-29-google-raman-subsea-cable-djibouti.md,1,1,Google own Raman cable announcement naming Djibouti
+geopol.eu--eu-mous-engagements-and-commitments,baseline/2025-09-30-ec-djibouti-partnership-page.md,1,1,EC own current country-cooperation statement
+geopol.eu--eu-mous-engagements-and-commitments,progress/2025-10-10-ec-global-gateway-forum-blue-raman-digital-corridor.md,2,1,Blue Raman/EU-Africa-India Digital Corridor announcement
+geopol.eu--eu-mous-engagements-and-commitments,progress/2025-08-21-jrc-global-gateway-transport-corridors-africa.md,2,2,JRC corridor assessment naming the Djibouti corridor
+geopol.india--india-mous-engagements-and-commitments,baseline/2022-01-01-mea-india-djibouti-bilateral-brief.md,1,1,India own bilateral-relations brief
+geopol.india--india-mous-engagements-and-commitments,progress/2025-10-10-ec-global-gateway-forum-blue-raman-digital-corridor.md,2,1,same Blue Raman corridor announcement explicitly names India reused
+geopol.india--india-mous-engagements-and-commitments,progress/2026-07-28-escindia-national-ai-forum-djibouti-invitation.md,2,2,Djibouti invitation to Indian AI companies for National AI Forum
