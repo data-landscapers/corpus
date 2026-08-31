@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-31
+period: 2026-07-01 to 2026-08-31
 place: LSO
-ledger_rows: 26
-not_held: 2
-record: 5460633dd5e8
+ledger_rows: 36
+not_held: 4
+record: 9c33b1ca3a90
 ---
 
 # Lesotho: monthly update, July – August 2026
@@ -48,12 +48,22 @@ The development-partner support named at the Blueprint workshop carries no amoun
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The incumbent operator [began selling managed satellite connectivity as an enterprise service on 26 August](https://www.thereporter.co.ls/2026/08/26/vodacom-launches-satellite-broadband-for-enterprises/). For a landlocked country whose every terrestrial route to the internet crosses South Africa, it is the first international path that does not.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
 
 Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -93,6 +103,14 @@ MICSTI hosted the [first national stakeholder consultative workshop on a Nationa
 At the CSIRT launch the ministry also stated a plan to move ICT services out of the civil service into a separate agency, for which no enabling instrument or date was given.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
@@ -124,6 +142,14 @@ MICSTI reported [digital-literacy training running across all ten districts](htt
 
 <!-- narrative: inclusion--include-access -->
 At Geneva on 9 July the ministry gave its own measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), which it attributed to affordability.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The Bureau of Statistics [lists the strategy for 2022/23 to 2026/27 alongside the 2001 Act as its current framework](http://www.bos.gov.ls/about_bos.htm). The strategy runs out in the coming financial year and no successor is on the record.
 <!-- /narrative -->
 
 ## Geopolitics

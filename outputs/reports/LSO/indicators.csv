@@ -192,3 +192,413 @@ No value, term or wider European digital engagement is recorded, and no European
 geopol.india--india-mous-engagements-and-commitments,No change,"The [memorandum with India](2025-07-29-lesotho-india-dpi-mou-publiceye) of July 2025 named digital identity, a unified payment environment and once-only exchange as priorities, and nothing under it is on record.","The memorandum was signed during the Indian minister of state's visit to Maseru on 29 July 2025, naming those three priorities for the year ([memorandum](2025-07-29-lesotho-india-dpi-mou-publiceye)).
 
 No deliverable, workstream or funding under it is on record a year later, though both the identity and the interoperability workstreams recorded elsewhere in this ledger cite it as their starting point.",LSO-geopol.india-indiamou
+gov.policy--data-interoperability-framework-roadmap,"Advanced, commissioned and unpublished",An [enterprise architecture and interoperability framework was commissioned in 2024](2024-07-22-lesotho-glea-e-gif-terms-of-reference); neither it nor a roadmap has been published.,"2024-07-22 — [terms of reference commissioned the government enterprise architecture and e-government interoperability framework](2024-07-22-lesotho-glea-e-gif-terms-of-reference).
+
+2025-08-26 — [the communications ministry opened a two-day workshop to develop a digital public infrastructure framework](2025-08-26-lesotho-dpi-framework-workshop-lena).
+
+Two years on from the commission, no framework document, roadmap or timetable is on the record, and the base carries nothing on what the architecture covers.",LSO-dpi.exchange-eaif|LSO-dpi.exchange-xroad
+gov.policy--data-localisation-policies,"Advanced, on a general data policy rather than a residency rule",No localisation or residency rule is held; [section 52 of the Data Protection Act governs cross-border transfer](2012-02-22-lesotho-data-protection-act-2012) instead.,"2012-02-22 — [the Act’s section 52 governs cross-border transfer of personal information](2012-02-22-lesotho-data-protection-act-2012), the closest enacted instrument to a residency rule.
+
+2025-10-14 — [a validation workshop aligned the draft data management policy with the African Union data policy framework](2025-10-14-lesotho-data-governance-workshop-follow-up).
+
+2026-02-20 — [the ministry’s ICT director said the policy was on the verge of being finalised](2026-02-20-lesotho-infrastructure-development-remains-key-masiu), four months before it was signed.
+
+No rule requiring government or personal data to be held in Lesotho is on the record.",LSO-gov.policy-datapolicy|LSO-gov.legislate-data-protection-act-2012|LSO-gov.regional-audpf
+gov.policy--open-data-policy,No change,The government’s own digital policy records that [open government data legislation has yet to be promulgated](2024-12-30-lesotho-national-digital-policy-2024-2035).,"2024-12-30 — [the National Digital Policy states Lesotho has yet to promulgate legislation on open government data](2024-12-30-lesotho-national-digital-policy-2024-2035), the most current statement the base holds.
+
+2025-09-24 — [the Prime Minister told a leaders’ symposium that Lesotho had adopted a national digital framework and was piloting digital public infrastructure, working with regional and European partners to validate a data governance policy](2025-09-24-lesotho-pm-matekane-africa-leaders-symposium).
+
+The absence was searched on 31 August 2026: no portal, no policy, no dataset inventory. A data management policy was signed in June 2026 and is not an open-data instrument.",LSO-data.open-portal|LSO-gov.policy-datapolicy
+gov.legislate--legislation-covering-digital-id,Advanced,The [National Identity Cards Act 2011 is the founding statute](2011-03-21-lesotho-national-identity-cards-act-2011); an electoral Bill now ties voter registration to the identity number.,"2011-03-21 — [Act 9 of 2011 establishes the National Identity Register and the identity-card regime](2011-03-21-lesotho-national-identity-cards-act-2011), commenced in 2013.
+
+2026-06-04 — [the Senate adopted its legislation committee’s report on the electoral amendment Bill, which ties voter registration and verification to the national identity number](2026-06-04-lesotho-senate-hansard-electoral-amendment-bill).
+
+2026-06-29 — [the home affairs ministry opened a workshop on a systems architecture and modernisation framework, setting out the legal and institutional implications of the reforms proposed](2026-06-29-lesotho-home-affairs-digital-id-modernization).
+
+No amendment to the 2011 Act is before Parliament.",LSO-gov.legislate-national-identity-cards-act-2011|LSO-gov.legislate-electoral-amendment-bill-2026|LSO-dpi.id-nicr-modernisation
+gov.legislate--digital-payments-legislation,Advanced,"The [Payment System Bill reached second reading in May 2026](2026-05-05-lesotho-finance-minister-payment-system-bill), to replace the 2014 Act and license fintech providers.","2014-09-12 — [the Payment Systems Act governs payment systems and instruments, electronic money and cards among them](2014-09-12-lesotho-payment-systems-act-2014).
+
+2025-11-17 — [the financial sector strategy sets strengthening the payments system and access to digital financial services as cross-cutting priorities](2025-11-17-lesotho-financial-sector-development-strategy-ii).
+
+2026-05-05 — [the finance minister moved the Payment System Bill to second reading, to repeal and replace the 2014 Act and license fintech payment providers](2026-05-05-lesotho-finance-minister-payment-system-bill).
+
+No enactment date is on the record.",LSO-gov.legislate-payment-systems-act-2014|LSO-gov.legislate-payment-system-bill-2025
+gov.legislate--legislation-enabling-data-interoperability,"Advanced, on a tax regulation rather than a general statute",No dedicated interoperability statute exists; the [VAT e-invoicing regulations are the binding data-exchange rule](2026-03-27-lesotho-vat-e-invoicing-regulations-2026) the base holds.,"2012-02-22 — [the Data Protection Act is the closest enacted instrument bearing on lawful sharing of personal government data](2012-02-22-lesotho-data-protection-act-2012).
+
+2026-03-27 — [Legal Notice 25 of 2026 requires system-to-system electronic transmission of VAT transaction data](2026-03-27-lesotho-vat-e-invoicing-regulations-2026), a binding interoperability rule confined to one revenue stream.
+
+2025-08-26 — [a workshop opened to develop a digital public infrastructure framework](2025-08-26-lesotho-dpi-framework-workshop-lena).
+
+No statute enabling data exchange across government generally is held.",LSO-gov.legislate-data-protection-act-2012|LSO-gov.legislate-vat-e-invoicing-regulations-2026|LSO-dpi.exchange-eaif
+gov.legislate--ai-legislation-regulations,"No change, a policy with no statute behind it",The government names the [AI Policy of 2025 as its governance foundation](2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance); no AI Act or regulation exists.,"2026-02-20 — [the ministry’s ICT director reported the national AI policy successfully approved](2026-02-20-lesotho-infrastructure-development-remains-key-masiu).
+
+2026-07-07 — [the Deputy Prime Minister told the UN global dialogue that the policy is the country’s AI governance foundation](2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance).
+
+2026-07-20 — [Lesotho signed the founding agreement of a world AI cooperation organisation in Shanghai](2026-07-20-lesotho-joins-waico), an international commitment ahead of any domestic law.
+
+The absence was searched on 31 August 2026. No Bill, no regulations, and no announced timetable for either.",LSO-gov.legislate-ai-legislation|LSO-gov.policy-aipolicy|LSO-tech.ai-waico-membership
+gov.legislate--e-commerce-legislation,"No change, the Bill still pending",The [Electronic Transactions and Electronic Communications Bill remains pending promulgation](2024-12-30-lesotho-national-digital-policy-2024-2035); the movement was in adjacent law.,"2024-12-30 — [the National Digital Policy records the 2022 Bill as still pending promulgation](2024-12-30-lesotho-national-digital-policy-2024-2035).
+
+2026-03-27 — [electronic invoicing was made mandatory for VAT transactions](2026-03-27-lesotho-vat-e-invoicing-regulations-2026), a direct digital-commerce compliance rule made while the general statute waits.
+
+2026-05-05 — [the Payment System Bill reached second reading](2026-05-05-lesotho-finance-minister-payment-system-bill).
+
+Four years after it was drafted, Lesotho still has no statute recognising electronic transactions generally.",LSO-gov.legislate-electronic-transactions-bill-2022|LSO-gov.legislate-vat-e-invoicing-regulations-2026|LSO-gov.legislate-payment-system-bill-2025
+gov.legislate--statistics-legislation,Advanced,"A [fourth Statistics Bill is expected to be enacted before the end of 2026](2026-06-27-lesotho-eu-backs-new-statistics-bill-sundayexpress), replacing a statute from 2001.","2001 — [Act 8 of 2001 establishes the Bureau of Statistics and the national statistical system](2001-01-01-lesotho-bureau-of-statistics-act-2001).
+
+2025-12-12 — [a regional peer review recorded a fourth Statistics Bill in drafting and recommended modernising the 2001 Act](2025-12-12-lesotho-nss-peer-review-report).
+
+2026-06-27 — [bureau officials described the Bill’s content and expected enactment before the end of 2026](2026-06-27-lesotho-eu-backs-new-statistics-bill-sundayexpress).
+
+The Bill text is not held.",LSO-gov.legislate-bureau-of-statistics-act-2001|LSO-gov.legislate-statistics-bill
+gov.regional--shared-regional-infrastructure,Advanced,Lesotho is a [founding pilot country of the regional settlement system](2023-11-08-sadc-rtgs-10-year-anniversary-press-release) and hosts the [regional cyber drill](2025-11-04-lesotho-ramashamole-sadc-cyber-drill).,"2023-11-08 — [Lesotho is named one of four founding pilot countries of the regional real-time gross settlement system](2023-11-08-sadc-rtgs-10-year-anniversary-press-release).
+
+2025-08-25 — [a partnership was announced to build a federated regional identity-verification ecosystem, on a validated Lesotho-South Africa pilot](2025-08-25-codevelop-sadc-cross-border-digital-identity-framework).
+
+2025-11-04 — [Lesotho hosted the sixth regional cyber drill and announced joining the Smart Africa Alliance](2025-11-04-lesotho-ramashamole-sadc-cyber-drill).
+
+A small landlocked economy reaches shared infrastructure it could not build alone; what the base does not hold is any figure for what Lesotho contributes to or draws from it.",LSO-gov.regional-sadc-rtgs|LSO-gov.regional-sadc-cross-border-ekyc|LSO-gov.regional-smart-africa-alliance
+gov.standards--adoption-of-international-standards,Advanced,The [standards institution is operational](2020-09-16-lesotho-lsi-operationalisation-address) and the identity build runs on an [international open-source standard](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).,"2020-09-16 — [the trade minister declared the standards institution operational, with a standards-development, testing and certification mandate](2020-09-16-lesotho-lsi-operationalisation-address).
+
+2025-10-14 — [a validation workshop aligned the data management policy with the African Union data policy framework](2025-10-14-lesotho-data-governance-workshop-follow-up).
+
+2026-02-26 — [the 2026 work plan continues deployment of an internationally developed open-source digital identity standard](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+No list of standards adopted, and no conformance regime, is published.",LSO-gov.standards-lesotho-standards-institution|LSO-gov.standards-mosip-standard-adoption|LSO-gov.regional-audpf
+infra.connect--mobile-affordability,"Advanced, on enforcement rather than price",The regulator [found against an operator over unnotified airtime restrictions and ordered them reversed](2025-12-05-groundup-vodacom-airtime-ruling); no price series is published.,"2020-02 — [a World Bank diagnostic is the base’s fullest account of digital infrastructure and affordability](2020-02-01-lesotho-digital-economy-diagnostic-worldbank).
+
+2025-10-01 — [an operator published promotional bundle terms](2025-10-01-econet-hoa-khonahala-terms).
+
+2025-12-05 — [the regulator found against an operator over airtime restrictions applied without notice and ordered them reversed](2025-12-05-groundup-vodacom-airtime-ruling).
+
+No basket price, income share or affordability index for Lesotho is held, which is what this indicator turns on.",LSO-infra.connect-vodacom-airtime-ruling|LSO-infra.connect-econet-khonahala-bundles
+infra.connect--international-internet-bandwidth,Advanced,"A [managed satellite enterprise service launched in August 2026](2026-08-26-thereporter-vodacom-satellite-broadband), the first international path not transiting a neighbour.","2018-02-13 — [the regulator’s sector review describes the international gateways and bandwidth pricing structure](2018-02-13-lca-state-of-ict-lesotho-2016).
+
+2026-07-01 — [the regulator’s strategic plan makes universal and meaningful connectivity its top theme](2026-07-01-lca-strategic-plan-2026-2029).
+
+2026-08-26 — [the incumbent operator launched managed satellite enterprise connectivity](2026-08-26-thereporter-vodacom-satellite-broadband).
+
+Lesotho is landlocked and every terrestrial route crosses South Africa. No capacity figure in gigabits, and no wholesale price, is published.",LSO-infra.connect-international-gateways|LSO-infra.connect-vodacom-satellite-broadband
+infra.connect--internet-exchange-points,Advanced,"The [exchange was relaunched after a revamp in February 2026](2026-02-02-thereporter-lixp-revamp), with a [refreshed registry record in May](2026-05-13-peeringdb-lixp-record).","2011 — [the regulator’s annual report covers the exchange’s founding period and the regional cable completion](2011-01-01-lca-annual-report-2010-11).
+
+2026-02-02 — [the Internet Society chapter relaunched the revamped exchange](2026-02-02-thereporter-lixp-revamp).
+
+2026-05-13 — [a refreshed registry record gives a later externally visible snapshot](2026-05-13-peeringdb-lixp-record).
+
+No peer count, traffic figure or capacity for the exchange is published.",LSO-infra.connect-lixp
+infra.store--local-data-centre-capacity-national-providers,Advanced,The incumbent operator runs [two commercial data centres](2026-08-29-vodacom-fixed-solutions); the state’s own hosting is still in build.,"2026-08-29 — [the operator names two facilities, at Maseru West and Lekokoaneng](2026-08-29-vodacom-fixed-solutions), the strongest current self-description held.
+
+2025-08-01 — [the regulator opened procurement for disaster-recovery IT equipment](2025-08-01-lca-rfp-dr-site-it-equipment).
+
+2026-05-07 — [the minister raised a high-performance computing upgrade and pitched data-centre investment at the United Nations](2026-05-07-lena-moorosi-un-data-centre).
+
+No floor space, rack count or power figure is published for any facility in Lesotho.",LSO-infra.store-vodacom-data-centres|LSO-infra.store-lca-disaster-recovery-site|LSO-infra.capacity-hosting|LSO-infra.store-datacentreroadmap
+infra.energy--grid-reliability,"No change, on the utility’s own figures","The utility reports [more than 99% availability on transmission and around 95% on distribution](2026-08-29-lec-transmission-distribution), held over recent years.","2026-08-29 — [the electricity corporation states it has maintained availability above 99% on the transmission network and around 95% on distribution for the past years](2026-08-29-lec-transmission-distribution), attributing faults to an ageing network and weather.
+
+2026-05-27 — [a $50m credit was approved combining grid expansion with utility-reform technical assistance](2026-05-27-worldbank-ascent-lesotho-press-release).
+
+2026-03-01 — [the first quarterly progress report against the energy compact’s reform commitments was published](2026-03-01-mission300-lesotho-compact-progress-report-q1-2026).
+
+The availability figures are the utility’s own and the base holds nothing testing them. No outage-duration or interruption-frequency figure is published.",LSO-infra.energy-lec-supply-availability|LSO-infra.energy-ascent-lesotho|LSO-infra.energy-national-energy-compact
+infra.energy--rural-electrification,Advanced,"[National access stood at 53% in July 2025](2025-07-01-national-energy-compact-lesotho) — 303,074 households on the grid and 840 on mini-grids of 569,631 in all.","2025-07-01 — [the energy compact records 303,074 households electrified through grid extension and 840 through mini-grids, of 569,631 households in total, leaving 47% without access](2025-07-01-national-energy-compact-lesotho), against a universal-access target for 2030.
+
+2025-08-04 — [a grid extension launched to electrify four remote villages in Thaba-Tseka](2025-08-04-lec-mantsonyane-rural-electrification).
+
+2026-05-27 — [a $50m credit was approved for grid expansion in peri-urban, rural and highland areas with off-grid solar](2026-05-27-worldbank-ascent-lesotho-press-release).
+
+The compact publishes a national rate and household counts; no separate rural rate is stated, so the gap between the settled lowlands and the highlands cannot be read from the base.",LSO-infra.energy-electrification-rate|LSO-infra.energy-mantsonyane-electrification|LSO-infra.energy-ascent-lesotho|LSO-infra.energy-national-energy-compact
+infra.capacity--robustness-of-government-hardware-and-software,"No change, on a three-year-old assessment",Government ICT was [assessed as fragmented with low cybersecurity preparedness in 2023](2023-03-06-worldbank-lesotho-public-sector-foundations-pid); no later assessment is held.,"2023-03-06 — [a project appraisal assessed government ICT as fragmented, with low cybersecurity preparedness](2023-03-06-worldbank-lesotho-public-sector-foundations-pid).
+
+2026-02-26 — [the 2026 work plan continues building the identity platform](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan), the one part of the estate with funded work behind it.
+
+The assessment is three years old and nothing has re-tested it. No uptime figure, asset register or refresh cycle for government systems is published.",LSO-infra.capacity-government-ict-estate|LSO-infra.capacity-hosting|LSO-dpi.id-mosip
+dpi.exchange--use-of-digital-id-in-other-systems,Advanced,"The identity number is [used for customer verification by banks, insurers and mobile operators](2025-11-17-lesotho-financial-sector-development-strategy-ii), and a cross-border use is proposed.","2011-03-21 — [the founding Act provides for third-party access to the register](2011-03-21-lesotho-national-identity-cards-act-2011), the legal basis for other-system use.
+
+2025-11-17 — [the financial sector strategy records the identity number in use by the credit bureau, banks, insurers and mobile network operators for customer verification](2025-11-17-lesotho-financial-sector-development-strategy-ii).
+
+2026-02-26 — [the 2026 work plan formalises cross-sector identity verification on the open-source platform](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+2026-04-22 — [use of the identity card as a travel document at the South African border was proposed](2026-04-22-lesotho-south-africa-border-crossing-id-cards), with no agreement on the record.
+
+No count of systems consuming the identifier, and no authentication volume, is published.",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-cross-border-id-travel|LSO-dpi.id-mosip|LSO-gov.legislate-national-identity-cards-act-2011
+dpi.exchange--interoperability-of-health-systems,Advanced,A [consultancy is integrating donor-project systems with the national DHIS2 platform](2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy).,"2026-04-09 — [the World Health Organization records the endorsed national digital health strategy and names digital transformation a priority](2026-04-09-who-lesotho-2025-annual-report).
+
+2026-04-01 — [a workshop called for interoperability among the identity, civil registration, education and health databases](2026-04-01-lesotho-unicef-dpi-workshop-child-services).
+
+2026-06-19 — [a consultancy was commissioned to integrate project systems with the national DHIS2 platform](2026-06-19-epic-lesotho-digital-health-data-analytics-consultancy).
+
+The integration on the record is of a donor project into the national platform, not of national systems with each other. No health information exchange is held.",LSO-dpi.exchange-health-system-interoperability
+dpi.exchange--interoperability-of-education-systems,Advanced,"The [education management system is rolling out on the DHIS2 platform](2026-05-11-lesotho-lemis-dhis2-education-data-system), with a teacher system developed separately.","2026-05-11 — [the education management information system is rolling out on the DHIS2 platform](2026-05-11-lesotho-lemis-dhis2-education-data-system), the same platform the health sector uses.
+
+2026-04-01 — [a teacher management information system is being developed, informed by a peer exchange with Zambia](2026-04-01-lesotho-teacher-management-zambia-lessons), a workstream distinct from the education system.
+
+Two education systems are being built on separate tracks and the base holds nothing on their connecting to each other or to the identity layer.",LSO-dpi.mis-lemis|LSO-dpi.mis-tmis|LSO-dpi.mis-flndashboard
+dpi.exchange--interoperability-of-social-protection-systems,Advanced,"[Digital birth registration feeds the social registry](2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration), with a district data refresh run from December 2025.","2025-06-19 — [digital birth registration under the child programme is integrated with the social registry](2025-06-19-lesotho-ntlafatsa-bana-nissa-digital-birth-registration), the base’s clearest evidence of two national registries exchanging data.
+
+2025-11-12 — [a registry data-refresh exercise ran from December 2025 to March 2026](2025-11-12-lesotho-nissa-data-update).
+
+2026-02-26 — [the identity work plan references alignment with the second national social protection strategy](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+No data-sharing agreement or technical specification for the linkage is published.",LSO-dpi.exchange-crvs-social-protection-link|LSO-dpi.registry-nissa|LSO-dpi.mis-missa
+dpi.id--registration-of-entire-population,"No change, on a four-year-old coverage figure",The identity register [covered roughly 85% of the eligible population in 2022](2022-05-01-worldbank-lesotho-national-id-service-delivery); no later figure is published.,"2022-05 — [an assessment put coverage at an estimated 85 per cent of the eligible population, a little over a million people of a total 1.2 million](2022-05-01-worldbank-lesotho-national-id-service-delivery).
+
+2026-02-26 — [a 2026 commitment was made to an integrated digital identity ecosystem](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+2026-06-29 — [a modernisation framework consultation opened at the home affairs ministry](2026-06-29-lesotho-home-affairs-digital-id-modernization).
+
+The coverage figure is four years old and both movements since are about the platform rather than enrolment. No later count is published.",LSO-dpi.id-national-identity-register|LSO-dpi.id-mosip|LSO-dpi.id-nicr-modernisation
+dpi.id--digital-id-from-birth,Advanced,"A [unique personal identification number is issued on birth registration](2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability), with a scale-up roadmap to 2030.","2011-03-21 — [the founding Act provides for a unique identity number at registration, including for children entered through a parent or guardian](2011-03-21-lesotho-national-identity-cards-act-2011).
+
+2026-07-18 — [the registry’s own presentation states a unique personal identification number is issued on birth registration, with a nationwide scale-up roadmap running to 2030](2026-07-18-lesotho-egmrg-crvs-social-protection-interoperability).
+
+2026-04-01 — [a proposal was put to use maternal health records to trigger earlier birth registration](2026-04-01-lesotho-unicef-dpi-workshop-child-services).
+
+No birth-registration completeness figure is published, so how many children the number actually reaches cannot be stated.",LSO-dpi.id-identity-number-at-birth|LSO-dpi.id-birthreg
+dpi.id--interoperability-of-birth-registration-and-digital-id,Advanced,"The registry runs an [integrated civil registration and identity architecture](2022-05-01-worldbank-lesotho-national-id-service-delivery), now under a modernisation framework.","2022-05 — [an assessment documents the integrated civil registration and national identity architecture and the interoperability gaps left in it](2022-05-01-worldbank-lesotho-national-id-service-delivery).
+
+2026-02-26 — [the 2026 work plan frames civil registration and digital identity development together](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+2026-06-29 — [a stakeholder consultation opened on a systems architecture and modernisation framework covering both](2026-06-29-lesotho-home-affairs-digital-id-modernization).
+
+The architecture is integrated on paper and the gaps named in 2022 have not been reported closed.",LSO-dpi.id-national-identity-register|LSO-dpi.id-nicr-modernisation|LSO-dpi.id-identity-number-at-birth
+dpi.id--use-by-other-systems,Advanced,"The identity number is [in use for customer verification across the financial sector](2025-11-17-lesotho-financial-sector-development-strategy-ii), and cross-sector authentication is being formalised.","2025-11-17 — [the financial sector strategy is the most current statement of the identity number’s linkage to the credit bureau, banks, insurers and mobile network operators](2025-11-17-lesotho-financial-sector-development-strategy-ii).
+
+2026-02-26 — [the 2026 work plan formalises cross-sector authentication and financial-services identity verification](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+2025-08-26 — [a framework workshop set out identity-verified access to services](2025-08-26-lesotho-dpi-framework-workshop-lena), the earliest in-window statement of the design.
+
+What the base does not hold is a transaction figure: how often the identity is actually checked, by whom, and at what cost to the relying party.",LSO-dpi.id-id-in-financial-services|LSO-dpi.id-mosip|LSO-dpi.id-servicepilot
+dpi.pay--b2b-and-b2g-functionality,Advanced,The [national e-invoicing platform is rolling out with business-to-business and business-to-government invoicing](2026-08-12-lesotho-lekuka-e-invoicing-system).,"2023-03-14 — [the revenue authority launched its e-payment and e-taxation platform](2023-03-14-lesotho-rsl-e-payment-e-taxation-launch), the operative business-to-government rail.
+
+2026-02-10 — [a payment gateway with a commercial bank went live for tax settlement](2026-02-10-lesotho-rsl-standard-lesotho-bank-payment-integration).
+
+2026-08-12 — [the national e-invoicing platform is rolling out nationwide, carrying business-to-business and business-to-government invoicing](2026-08-12-lesotho-lekuka-e-invoicing-system).
+
+No transaction volume or value is published for any of the three.",LSO-dpi.pay-lekuka|LSO-dpi.pay-rsltax|LSO-dpi.pay-leswitch
+dpi.pay--consumer-protection,Advanced,[Three implementing regulations under the consumer protection Act reached Senate adoption in May 2026](2026-05-07-lesotho-senate-fcp-regulations-order-paper).,"2022-06-03 — [the Financial Consumer Protection Act establishes the regime and the central bank’s powers under it](2022-06-03-lesotho-financial-consumer-protection-act-2022).
+
+2026-05-07 — [three implementing regulations reached Senate adoption](2026-05-07-lesotho-senate-fcp-regulations-order-paper), four years after the Act.
+
+2026-05-05 — [the Payment System Bill would license fintech providers under one law](2026-05-05-lesotho-finance-minister-payment-system-bill).
+
+No complaints figure, redress statistic or dispute-resolution route for payment users is published.",LSO-dpi.pay-financial-consumer-protection-act-2022|LSO-dpi.pay-financial-consumer-protection-regulations|LSO-gov.legislate-payment-system-bill-2025
+dpi.registry--population-register,"Advanced, on the platform rather than the register","The [National Identity Register is established by the 2011 Act](2011-03-21-lesotho-national-identity-cards-act-2011); the movement is a modernisation framework, not enrolment.","2011-03-21 — [section 3 of the Act establishes the register itself](2011-03-21-lesotho-national-identity-cards-act-2011).
+
+2026-02-26 — [the 2026 work plan ties open-source platform development to the register](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+2026-06-29 — [a consultation opened on a systems architecture design and modernisation framework for the registry](2026-06-29-lesotho-home-affairs-digital-id-modernization).
+
+No registered-population figure later than 2022, no deduplication rate and no register-quality measure is published.",LSO-dpi.id-national-identity-register|LSO-dpi.id-nicr-modernisation|LSO-dpi.id-mosip
+dpi.registry--address-register,"Mixed, a private platform where the state has none",[No state address register exists](2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooana); a [private nationwide platform launched in May 2026](2026-05-22-lesotho-geddit-digital-address-platform).,"2011-02-24 — [the land regulations carry the allocation and identification registers](2011-02-24-lesotho-land-regulations-2011), the closest operative instrument to an address register.
+
+2026-05-08 — [officials proposed a national spatial development infrastructure policy, stating that no spatial-data policy currently exists](2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooana).
+
+2026-05-22 — [a private nationwide digital-address platform launched](2026-05-22-lesotho-geddit-digital-address-platform), filling the gap the officials had described a fortnight earlier.
+
+The addressing layer a state usually owns is in private hands here, and the base holds no arrangement governing that.",LSO-dpi.registry-national-address-register|LSO-dpi.registry-spatial-data-infrastructure-policy|LSO-dpi.registry-geddit-address-platform
+dpi.registry--business-register,Advanced,"A [single window is in development at the one-stop business facilitation centre](2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window), and registration fees were waived for small firms.","2011-09-02 — [the Companies Act establishes the Registrar of Companies and the incorporation regime](2011-09-02-lesotho-companies-act-2011).
+
+2025-11-20 — [a competitiveness project confirms a business facilitation single window to simplify registration and licensing](2025-11-20-lesotho-cafi-project-trade-growth-obfc-single-window).
+
+2026-05-07 — [the Senate backed a registration and licensing fee waiver for micro, small and medium enterprises, already yielding new registrations](2026-05-07-lesotho-senate-msme-fee-waiver-business-registration).
+
+No count of registered companies, and no processing time, is published.",LSO-dpi.registry-companies-register|LSO-dpi.registry-business-single-window|LSO-dpi.exchange-national-single-window
+dpi.registry--electoral-register,Advanced,"A [voter registration strategy was formally endorsed in June 2026](2026-06-25-lesotho-idea-voter-registration-strategy-launch), with constituency readiness assessments under way.","2013 — [the electoral commission’s report describes the constitutional mandate for the general register of electors and the 2011 electoral Act](2013-01-01-lesotho-iec-2012-national-assembly-elections-report).
+
+2026-06-15 — [constituency readiness assessments began ahead of registration intensification, with a commissioner deployment framework covering register audits](2026-06-15-lesotho-iec-constituency-assessment-press-release).
+
+2026-06-25 — [the commission, government and international partners formally endorsed the voter registration strategy](2026-06-25-lesotho-idea-voter-registration-strategy-launch).
+
+2026-06-04 — [a Bill before the Senate would tie registration and verification to the national identity number](2026-06-04-lesotho-senate-hansard-electoral-amendment-bill).
+
+No registered-elector count is published.",LSO-dpi.registry-electoral-register|LSO-gov.legislate-electoral-amendment-bill-2026
+dpi.registry--tax-register,Advanced,The taxpayer register is now fed by [mandatory structured electronic transaction data](2026-03-27-lesotho-vat-e-invoicing-regulations-2026).,"2001 — [section 7(1) of the Revenue Authority Act authorises systems for taxpayer identification](2001-01-01-lesotho-revenue-authority-act-2001).
+
+2026-03-27 — [the e-invoicing regulations legally establish structured electronic transaction data in taxpayer records](2026-03-27-lesotho-vat-e-invoicing-regulations-2026).
+
+2026-02-10 — [a bank payment gateway with automatic reconciliation went live](2026-02-10-lesotho-rsl-standard-lesotho-bank-payment-integration).
+
+No registered-taxpayer count is published.",LSO-dpi.registry-taxpayer-register|LSO-dpi.mis-e-taxation-platform|LSO-dpi.pay-rsltax
+dpi.registry--land-register,Advanced,"The land authority is [taking register services into the districts](2025-08-05-lesotho-laa-brings-services-closer-to-communities), with new offices planned.","2010-06-15 — [the Land Administration Authority Act charges the authority with maintaining a complete land-holding database](2010-06-15-lesotho-land-administration-authority-act-2010).
+
+2025-08-05 — [district outreach expanded access to register services, with new district offices planned](2025-08-05-lesotho-laa-brings-services-closer-to-communities).
+
+2025-08-27 — [the authority put its 2026-2029 strategic plan out to tender, prioritising technology adoption for registration services](2025-08-27-lesotho-laa-strategic-planning-exercise-call-for-bids).
+
+No parcel count, coverage figure or registration time is published.",LSO-dpi.registry-land-register|LSO-dpi.mis-laa-gis
+dpi.mis--justice,"No change, an assessment three years old",The [needs assessment for an automated case management system was still in progress in 2023](2023-02-01-lesotho-chief-justice-sakoane-high-court-opening-speech); nothing later is held.,"2023-02-01 — [the Chief Justice reported the needs assessment for an automated case management system still in progress](2023-02-01-lesotho-chief-justice-sakoane-high-court-opening-speech), the latest statement the base holds.
+
+2026-04-20 — [a crime-reporting platform launched nationally, with a police digital transformation policy and strategy alongside it](2026-04-20-lesotho-undp-lehokela-digital-policing-launch), the clearest movement in the police-to-justice chain.
+
+2026-05-18 — [the law and justice ministry hosted a regional conference on digital transformation of intellectual property offices](2026-05-18-lesotho-ip-offices-conference-digital-transformation).
+
+The courts themselves have no case management system on the record, and the reporting end of the chain has moved while the adjudicating end has not.",LSO-dpi.mis-case-management-system|LSO-dpi.mis-lehokela
+dpi.mis--tax,Advanced,The [e-taxation platform gained bank payment integration and mandatory electronic invoicing](2026-03-27-lesotho-vat-e-invoicing-regulations-2026) inside the window.,"2025-02-06 — [the revenue authority published its operational guide to the e-taxation platform](2025-02-06-lesotho-rsl-e-taxation-platform-guide), the tax-sector system itself.
+
+2026-02-10 — [a payment gateway with a commercial bank went live with automatic reconciliation](2026-02-10-lesotho-rsl-standard-lesotho-bank-payment-integration).
+
+2026-03-27 — [electronic invoicing was made mandatory, putting structured transaction data into the system](2026-03-27-lesotho-vat-e-invoicing-regulations-2026).
+
+No filing rate, collection figure or system availability is published.",LSO-dpi.mis-e-taxation-platform|LSO-dpi.pay-rsltax|LSO-gov.legislate-vat-e-invoicing-regulations-2026
+dpi.mis--customs,Advanced,[ASYCUDAWorld has run at all commercial borders since 2015/16](2016-07-27-lesotho-asycudaworld-registration-procedures); a smart one-stop border post is now in build.,"2016-07-27 — [the customs system was piloted in 2014/15 and reached all commercial borders in 2015/16](2016-07-27-lesotho-asycudaworld-registration-procedures).
+
+2026-03-30 — [a project supervision report covers the customs and trade facilitation component and the smart one-stop border post](2026-03-30-lesotho-worldbank-isr-littl-project).
+
+2026-05-13 — [a mission reviewed customs administration and border post progress](2026-05-13-lesotho-worldbank-mission-littl-project-review).
+
+No clearance time, declaration volume or revenue figure is published.",LSO-dpi.mis-asycudaworld|LSO-dpi.exchange-national-single-window
+dpi.mis--land,Advanced,"The land authority runs an [integrated geographic information system](2021-11-10-lesotho-laa-gis-award-southern-africa), now reaching into the districts.","2021-11-10 — [the authority’s geographic information system, built to manage all land records, was recognised by a regional award](2021-11-10-lesotho-laa-gis-award-southern-africa).
+
+2025-08-05 — [district outreach carried register services closer to communities](2025-08-05-lesotho-laa-brings-services-closer-to-communities).
+
+2026-05-08 — [officials proposed a national spatial data policy, stating none currently exists](2026-05-08-lesotho-national-spatial-development-infrastructure-policy-mahooana), which is the policy layer the land system has been running without.
+
+No performance or coverage figure for the system is published.",LSO-dpi.mis-laa-gis|LSO-dpi.registry-land-register|LSO-dpi.registry-spatial-data-infrastructure-policy
+digital.localgov--ict-infrastructure-for-local-government,Advanced,[Digital ambassadors have been deployed across local councils](2026-04-01-lena-un-rc-digital-ambassadors) for internet access and computer-literacy training.,"2018-01-04 — [the ministry connected its first community council, with a stated plan to reach all of them](2018-01-04-govls-internet-connection-community-councils).
+
+2025-11-05 — [a social registry update ran across five community councils in Leribe](2025-11-05-lena-nissa-five-community-councils).
+
+2026-04-01 — [digital ambassadors were reported deployed across local councils for internet access and computer-literacy training](2026-04-01-lena-un-rc-digital-ambassadors).
+
+Eight years after the plan to connect every council, the base holds no count of how many are connected.",LSO-digital.localgov-community-council-connectivity|LSO-digital.localgov-municipal|LSO-dpi.registry-nissa
+digital.rural--digitalisation-of-rural-health-clinics,Advanced,A [trial across 103 rural villages found village health workers on mobile decision support outperformed facility referral](2026-02-12-nature-medicine-combacal-trial).,"2026-04-09 — [the World Health Organization names DHIS2 and digital transformation among health priorities](2026-04-09-who-lesotho-2025-annual-report), the most current status statement held.
+
+2026-02-12 — [a cluster-randomised trial across 103 rural villages found community health workers using mobile decision support outperformed facility referral for hypertension care](2026-02-12-nature-medicine-combacal-trial).
+
+The evidence here is outcome evidence, which is rare in this frame; what it does not establish is how many clinics run any digital system, a figure the base does not hold.",LSO-digital.rural-combacal|LSO-digital.rural-tconnectimpact|LSO-dpi.exchange-health-system-interoperability
+digital.rural--digitalisation-of-rural-registry-offices,Advanced,[Thirty SMS-based birth registration stations were established across three districts](2026-08-05-unicef-lesotho-sms-birth-registration) in August 2026.,"2022-05 — [an assessment sets out the registry’s use cases and coverage](2022-05-01-worldbank-lesotho-nid-service-delivery).
+
+2026-08-05 — [thirty birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe, on a low-technology SMS platform](2026-08-05-unicef-lesotho-sms-birth-registration).
+
+2026-02-26 — [the 2026 work plan continues the identity infrastructure behind them](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+The capture point chosen is the health facility rather than the registry office, and the platform is SMS rather than a terminal. No count of registry offices with a digital system is published.",LSO-digital.rural-sms-birth-registration|LSO-dpi.id-identity-number-at-birth|LSO-dpi.id-national-identity-register
+digital.rural--digitalisation-of-rural-police-stations,Advanced,"A [crime-reporting platform launched nationally in April 2026](2026-04-20-lesotho-undp-lehokela-digital-policing-launch), with station equipment and connectivity following.","2026-04-20 — [the crime-reporting platform, in development since 2019, launched nationally alongside a police digital transformation policy and strategy](2026-04-20-lesotho-undp-lehokela-digital-policing-launch).
+
+2026-06-12 — [twenty desktop computers were handed to the police service for selected stations](2026-06-12-undp-lesotho-lmps-desktop-handover).
+
+2026-07-31 — [the universal service fund opened procurement for Wi-Fi and network equipment at police stations across all ten districts](2026-07-31-lca-rfp-police-stations-wifi).
+
+The reporting app reached the public before the stations received computers or connectivity, and the base holds no count of stations with either.",LSO-dpi.mis-lehokela|LSO-digital.rural-police-desktop-handover|LSO-digital.rural-police-station-wifi
+tech.ai--use-of-ai-in-government-administration,"Advanced, at policy and pilot stage",The [AI Policy of 2025 is the stated foundation](2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance); the one named tool is a planned chatbot for farmers.,"2025-10-30 — [the ministry’s principal secretary described a planned government chatbot for farmers, with an implementation plan for 2026](2025-10-30-lesotho-itu-digital-transformation-ict-regulation).
+
+2026-06-11 — [digital policies were signed at a ceremony that also confirmed the innovation studio operational](2026-06-11-lesotho-digital-studio-makoanyane-square-unipod).
+
+2026-07-07 — [the government told the UN global dialogue that the 2025 policy is its AI governance foundation](2026-07-07-lesotho-country-statement-un-global-dialogue-ai-governance).
+
+No AI system is described as running in government administration. The base holds a policy, a plan and a pilot.",LSO-gov.policy-aipolicy|LSO-tech.ai-agriculture-extension-chatbot|LSO-gov.policy-national-ai-strategy
+tech.ai--use-of-ai-in-sectoral-management-information-systems,Advanced,"[Computer-aided screening is in use in tuberculosis case-finding](2025-06-04-cad4tb-ai-tb-screening-lesotho-south-africa), the one production system the base holds.","2025-06-04 — [a peer-reviewed study confirms computer-aided chest X-ray screening operating in tuberculosis case-finding](2025-06-04-cad4tb-ai-tb-screening-lesotho-south-africa).
+
+2026-05-11 — [the agricultural research department was validating content for an extension chatbot ahead of a pilot](2026-05-11-lesotho-dar-fao-chatbot-content-scrutiny).
+
+2025-12-12 — [an academic proposal was published for a Lesotho-specific health diagnostic model](2025-12-12-lesotho-specific-disease-detection-model-atlantis).
+
+The screening tool is a donor-supplied clinical device rather than a component of a national system; no sectoral management information system is described as using AI.",LSO-tech.ai-cad4tb|LSO-tech.ai-agriculture-extension-chatbot
+tech.ai--development-of-national-regional-ai-systems,Advanced,A [Sesotho word bank is being compiled to train locally relevant AI systems](2026-02-18-lesotho-sesotho-word-bank-ai-training).,"2025-01-21 — [a 73-page draft implementation plan sits behind the AI policy](2025-01-21-lesotho-draft-ai-policy-implementation-plan); the plan itself is not published.
+
+2026-02-18 — [the ministry, a development agency and the national university are compiling a Sesotho word bank to train locally relevant AI systems](2026-02-18-lesotho-sesotho-word-bank-ai-training).
+
+A language resource is the foundation a small-language country needs before anything else can be built locally. No model, dataset licence or compute arrangement is on the record.",LSO-tech.ai-ai-policy-implementation-plan|LSO-tech.ai-sesotho-word-bank|LSO-gov.policy-national-ai-strategy
+tech.ai--control-of-ai-abuse,"Advanced, on warnings rather than powers",The [Data Protection Act is the strongest legal safeguard reaching AI-processed personal data](2012-02-22-lesotho-data-protection-act-2012); the cyber law is still a Bill.,"2025-08-31 — [a government press statement warned the public about AI-generated deepfakes impersonating the King and the Prime Minister, naming the absent cyber law as the enforcement gap](2025-08-31-lesotho-deepfake-warning-royal-pm).
+
+2026-01-13 — [a meeting between the ministry and the regulator linked AI-enabled cyber threats to the stalled Cybersecurity Bill](2026-01-13-lesotho-ramashamole-lca-cyber-attacks).
+
+2012-02-22 — [the Data Protection Act is the binding statute reaching AI-processed personal data](2012-02-22-lesotho-data-protection-act-2012).
+
+The head of state has been impersonated and the government said in its own statement that it lacked the law to act. That Bill was still awaiting approval a year later.",LSO-gov.legislate-ai-legislation|LSO-tech.ai-deepfake-impersonation|LSO-gov.legislate-cybersecuritybill|LSO-gov.legislate-data-protection-act-2012
+tech.innovate--technology-hubs,Advanced,"The [innovation studio is operational with a second under way](2026-06-11-lesotho-digital-studio-makoanyane-square-unipod), alongside two incubation programmes.","2026-06-11 — [the studio at the polytechnic was confirmed operational and ground was broken for a second](2026-06-11-lesotho-digital-studio-makoanyane-square-unipod).
+
+2026-03-20 — [an entrepreneurship hub opened its fifth incubation cycle with sixty enterprises selected](2026-03-20-lesotho-cafi-entrepreneurship-hub-5th-cycle).
+
+2025-10-29 — [the first software factory cohort graduated, eight in number](2025-10-29-lesotho-vodacom-software-factory-hub-graduation).
+
+Three hubs are running and none publishes a survival, funding or employment figure for what leaves them.",LSO-tech.innovate-unipod-digital-studio|LSO-tech.innovate-cafi-entrepreneurship-hub|LSO-tech.innovate-software-factory-hub|LSO-tech.innovate-undpmou
+capacity.literacy--digital-literacy-civil-service,Advanced,Ministry-level platform training and a [geospatial application course for roads engineers](2026-04-22-lesotho-roads-directorate-geospatial-app-training) ran on top of the standing course list.,"2025-02-19 — [the public service ministry lists its courses for public-sector digital skills](2025-02-19-lesotho-mps-itct-digital-literacy-programme).
+
+2025-11-06 — [a service-delivery project funded capacity building for digital administrative platforms across key ministries](2025-11-06-lesotho-public-service-delivery-project-stakeholders).
+
+2026-04-22 — [roads directorate engineers and technicians were trained on project management and an offline-capable geospatial mobile application](2026-04-22-lesotho-roads-directorate-geospatial-app-training).
+
+No civil servants trained, pass rate or coverage of the establishment is published.",LSO-capacity.literacy-public-service-ict-training|LSO-capacity.training-digitalliteracy
+capacity.training--dt-related-training-in-secondary-education,Advanced,"[AI literacy content entered the digital skills learning labs](2026-03-30-lesotho-undp-intel-ai-for-citizens), several of whose ambassadors are teachers.","2024-12-30 — [the National Digital Policy is the standing statement on digital-skills frameworks for schools](2024-12-30-lesotho-national-digital-policy-2024-2035).
+
+2025-11-13 — [an education improvement project opened procurement for 500 laptops with mandatory ICT-skills training attached](2025-11-13-lesotho-leip-laptops-ict-skills-procurement).
+
+2026-03-30 — [AI literacy content reached the digital skills learning labs and digital ambassadors, several of them teachers](2026-03-30-lesotho-undp-intel-ai-for-citizens).
+
+The training on the record reaches teachers and labs rather than a secondary curriculum, and no curriculum change is held.",LSO-capacity.training-leip-laptops|LSO-capacity.training-ai-literacy-labs|LSO-capacity.training-aiskills
+include.access--citizen-feedback-portals,Advanced,"The [crime-reporting app launched as a zero-rated feedback channel](2026-04-20-lesotho-undp-lehokela-digital-policing-launch), alongside the standing [contact centre](2022-05-17-lesotho-pm-visits-ncc).","2022-05-17 — [the National Contact Centre opened as the citizen feedback mechanism](2022-05-17-lesotho-pm-visits-ncc).
+
+2025-10-24 — [the Ombudsman opened procurement for an electronic case management system to replace manual complaint recording](2025-10-24-lesotho-ombudsman-complaints-management-system-rfp).
+
+2026-04-20 — [the crime and violence reporting app launched nationally as a zero-rated channel](2026-04-20-lesotho-undp-lehokela-digital-policing-launch).
+
+None of the three publishes a volume, response time or resolution figure.",LSO-include.access-national-contact-centre|LSO-include.access-ombudsman-case-management|LSO-dpi.mis-lehokela
+include.access--gender-equity,"Advanced, on convening rather than measurement",A [dedicated women in digital forum was held in April 2026](2026-04-20-lesotho-commonwealth-digital-roadshow-women-in-digital); no gender gap figure is published.,"2024-12-30 — [the National Digital Policy is the overarching statement](2024-12-30-lesotho-national-digital-policy-2024-2035).
+
+2025-11-20 — [the minister described a community inclusion model whose digital ambassador approach targets women](2025-11-20-meaningful-connectivity-pathway-to-economic-opportunity-moorosi).
+
+2026-04-20 — [a dedicated women in digital forum ran on the Commonwealth digital roadshow](2026-04-20-lesotho-commonwealth-digital-roadshow-women-in-digital).
+
+No sex-disaggregated figure for phone ownership, internet use or digital skills in Lesotho is held, which is what this indicator turns on.",LSO-include.access-women-in-digital|LSO-include.divides-community-digital-inclusion-model|LSO-gov.policy-digitalpolicy
+include.access--inclusion-of-persons-with-disabilities,Advanced,"An [accessible digital library and insight centre was announced in March 2026](2026-03-16-lesotho-4g-digital-library-disability), under a statute in force since 2021.","2021-03-12 — [the Persons with Disability Equity Act establishes the advisory council and accessible-communication duties](2021-03-12-lesotho-persons-with-disability-equity-act-2021).
+
+2025-10-15 — [the UN resident coordinator called for accessible technology investment at the country’s first disability accessibility conference](2025-10-15-lesotho-disability-accessibility-conference).
+
+2026-03-16 — [a memorandum with the incumbent operator announced a 4G-enabled digital library and insight centre carrying assistive technologies](2026-03-16-lesotho-4g-digital-library-disability).
+
+Five years after the Act, the base holds no accessibility standard for public digital services and no compliance assessment against the statute’s communication duties.",LSO-include.access-persons-with-disability-equity-act-2021|LSO-include.access-accessible-digital-library
+include.access--inclusion-of-refugees-and-idps,No change,"[Biometric registration for refugees has run since 2018](2018-10-11-lesotho-unhcr-primes-digital-id-handover) on a separate system, with no stated pathway into the mainstream one.","2018-10-11 — [a biometric registration system for refugees and forcibly displaced people was handed to government](2018-10-11-lesotho-unhcr-primes-digital-id-handover).
+
+2026-02-26 — [the 2026 identity work plan advances the mainstream platform](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan) and states no refugee or displaced-person inclusion pathway.
+
+Two identity systems run in parallel and the newer one is being built without a route from the older. No count of registered refugees is published.",LSO-include.access-refugee-biometric-identity|LSO-dpi.id-refugee-identity-document-freeze|LSO-dpi.id-mosip
+include.divides--bridging-of-digital-divides,Advanced,"[245 of more than 1,800 mapped schools are connected](2025-11-19-lesotho-schools-connectivity-wtdc25-statement), and the community inclusion model passed to the universal service fund.","2025-11-19 — [a ministerial statement reports 245 of more than 1,800 mapped schools connected under the schools connectivity programme, alongside universal-fund community digital centres](2025-11-19-lesotho-schools-connectivity-wtdc25-statement).
+
+2025-11-20 — [the community digital inclusion model moved from a development-agency pilot to full universal service fund management](2025-11-20-meaningful-connectivity-pathway-to-economic-opportunity-moorosi).
+
+2026-07-01 — [the regulator’s three-year plan makes universal and meaningful connectivity its top theme](2026-07-01-lca-strategic-plan-2026-2029).
+
+The ministry put [broadband coverage at 100% against about 50% regular internet use](2026-07-09-lesotho-equitable-ai-future-itweb), so the divide these programmes address is one of use rather than reach.",LSO-include.divides-schools-connectivity-programme|LSO-include.divides-community-digital-inclusion-model|LSO-include.access-usage
+data.statistics--national-strategy-for-development-of-statistics,Advanced,The [strategy covering 2022/23 to 2026/27 is in force](2026-08-29-lesotho-bos-about-nsds) and was [peer-reviewed for the first time](2025-12-12-lesotho-nss-peer-review-report).,"2026-08-29 — [the Bureau of Statistics lists the strategy for 2022/23 to 2026/27 alongside the 2001 Act as its current framework](2026-08-29-lesotho-bos-about-nsds).
+
+2025-12-12 — [the first independent peer review of the national statistical system assessed the strategy and recommended legal and coordination reforms, the fourth Statistics Bill among them](2025-12-12-lesotho-nss-peer-review-report).
+
+2026-02-27 — [an EU-funded initiative launched to strengthen the Bureau’s institutional framework and system coordination](2026-02-27-equitable-lesotho-initiative-launched).
+
+The strategy runs out in 2026/27 and no successor is on the record.",LSO-data.statistics-nsds|LSO-gov.legislate-statistics-bill|LSO-gov.legislate-bureau-of-statistics-act-2001
+data.statistics--censuses-and-surveys,Advanced,The [seventh census was enumerated by June 2026](2026-06-05-lesotho-completed-2026-census-enumeration) and is in analysis; the 2016 round is still the last with published results.,"2018 — [the 2016 census summary is the most recent completed round with published results](2018-01-01-lesotho-2016-phc-summary-key-findings).
+
+2026-03-13 — [2,750 tablets and 1,045 power banks were delivered for the first fully digital census](2026-03-13-statistics-south-africa-handed-over-gadgets).
+
+2026-06-05 — [nationwide enumeration for the seventh census was completed and moved to analysis](2026-06-05-lesotho-completed-2026-census-enumeration).
+
+Ten years separate the last published census from the one now in analysis, and no publication date for the new results is on the record.",LSO-data.statistics-population-housing-census|LSO-data.statistics-census-digital-capture
+data.statistics--statistics-from-administrative-data,Advanced,Vital statistics are [produced from civil registration records](2024-01-01-lesotho-2022-vital-statistics-report); the peer review [flagged integration gaps](2025-12-12-lesotho-nss-peer-review-report).,"2024 — [the fourth vital statistics report was produced from home affairs civil-registration records for the 2022 reference year](2024-01-01-lesotho-2022-vital-statistics-report).
+
+2025-12-12 — [the peer review confirms administrative data in use across health, education and civil registration, and flags integration gaps and legal constraints](2025-12-12-lesotho-nss-peer-review-report).
+
+2026-02-26 — [the 2026 work plan strengthens the identity and civil-registration infrastructure underneath](2026-02-26-lesotho-micsti-unicef-digital-id-work-plan).
+
+The legal constraints the review names are the same ones the fourth Statistics Bill is meant to lift, and that Bill is not yet enacted.",LSO-data.statistics-vital-statistics-from-civil-registration|LSO-gov.legislate-statistics-bill|LSO-dpi.exchange-crvs-social-protection-link
+data.satellite--agricultural-use-of-satellite-data,Advanced,"A [public land cover dashboard launched in March 2026](2026-03-02-renoka-land-cover-dashboard), built on the operational national mapping system.","2022-07-08 — [an operational satellite land-cover and cropland mapping system was built for the catchment programme and official statistics](2022-07-08-operational-use-of-eo-data-lesotho-land-cover).
+
+2026-03-02 — [a public-facing land cover dashboard launched, naming farmers among its intended users](2026-03-02-renoka-land-cover-dashboard).
+
+2026-06-25 — [the June food security outlook draws on satellite rainfall and remote-sensing indicators for crop-condition and drought assessment](2026-06-25-lesotho-fews-net-food-security-outlook-june-2026).
+
+No figure for use of the dashboard, or for advisory services reaching farmers from it, is published.",LSO-data.satellite-national-land-cover-mapping|LSO-data.satellite-food-security-monitoring
+data.satellite--meteorological-use-of-satellite-data,Advanced,"A [nowcasting system integrating satellite data with observations was set up in 2026](2026-04-08-wis-lesotho-climate-weather-enhancement-initiative), over a network described as fragmented.","2011-07-19 — [regional forecasting arrangements put satellite products into the cascading framework the national service works within](2011-07-19-wmo-swfdp-southern-africa-rtit-report).
+
+2025-09-29 — [technical assistance opened to modernise a meteorological network of more than ninety stations and the multi-hazard early-warning systems on it](2025-09-29-ctcn-accessing-ews4all-lesotho).
+
+2026-04-08 — [a nowcasting system integrating satellite data with observations and model output was set up, with a capacity-building phase from January to May 2026](2026-04-08-wis-lesotho-climate-weather-enhancement-initiative).
+
+The satellite layer is arriving over a ground network its own funders describe as fragmented.",LSO-data.satellite-meteorological-satellite-products|LSO-data.satellite-meteorological-station-network
+geopol.gulf--gulf-mous-engagements-and-commitments,Advanced,"Labour arrangements are [concluded with Qatar, before cabinet for the Emirates and at an advanced stage with Saudi Arabia](2026-05-27-lesotho-advances-plans-overseas-labour-export).","2026-02-05 — [the Saudi ambassador reaffirmed an airport rehabilitation commitment while presenting credentials](2026-02-05-saudi-arabia-commits-airport-rehabilitation).
+
+2026-05-27 — [the minister separated concluded, cabinet-pending and advanced-stage bilateral labour arrangements across the Gulf states](2026-05-27-lesotho-advances-plans-overseas-labour-export).
+
+2026-06-05 — [Lesotho pitched data-centre and multi-sector investment to Dubai Chambers, arguing from its water resources for cooling](2026-06-05-lesotho-courts-data-centres-dubai-talks).
+
+The engagements on record are labour export and an investment pitch; no signed digital or data instrument with a Gulf state is held.",LSO-geopol.gulf-gulf-labour-arrangements|LSO-geopol.gulf-saudi-airport-commitment|LSO-geopol.gulf-dubai-data-centre-pitch

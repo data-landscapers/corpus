@@ -1,8 +1,8 @@
 row_id,place,subject,section,name,what_would_settle_it,probe_at,disposition
+BWA-gov.legislate-ai-legislation,BWA,gov.legislate,Governance,AI legislation or regulations,"an AI Act, or regulations made under an existing statute, with a gazette reference",2026-08-31,
 BWA-gov.standards-ipv6-transition-plan,BWA,gov.standards,Governance,National IPv6 transition plan,"a regulator or ministry IPv6 transition plan with a target date, or a published IPv6 adoption percentage for Botswana",,
 BWA-finance.budget-audited-outturn-digital-budget,BWA,finance.budget,Finance,Audited outturn for digital budget lines,the Auditor General's report on the accounts of the Government of Botswana for FY2024/25 or FY2025/26,,
 BWA-infra.cybersec-cybersecurity-strategy,BWA,infra.cybersec,ICT Infrastructure,National Cybersecurity Strategy,"the strategy document itself, or a gazette notice or ministerial statement giving its date of adoption and version",,
+BWA-dpi.registry-national-address-register,BWA,dpi.registry,DPI,National address register,"a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned",2026-08-31,
 BWA-capacity.literacy-digital-literacy-measure,BWA,capacity.literacy,Capacity,National digital literacy measure,a dated statistics-office or regulator household ICT survey reporting a digital-literacy or digital-skills rate,,
 BWA-include.access-official-internet-penetration-figure,BWA,include.access,Inclusion,Official internet penetration figure,"the regulator's annual report, or a statistics-office household ICT access survey",2026-08-31,
-BWA-gov.legislate-ai-legislation,BWA,gov.legislate,,AI legislation or regulations,"an AI Act, or regulations made under an existing statute, with a gazette reference",2026-08-31,
-BWA-dpi.registry-national-address-register,BWA,dpi.registry,,National address register,"a national addressing standard or register with a coverage figure, or a ministerial statement that none is planned",2026-08-31,
