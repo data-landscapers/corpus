@@ -1,13 +1,13 @@
 ---
-title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: finance.mou
 places: XAF
-record: df13c52d7d91
+record: 991734c5f223
 ---
 
-# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-29
+# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-31
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: df13c52d7d91
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | AUC-Google memorandum on AI | Did not exist | [Signed on AI and cloud infrastructure, skills, research and AI policy, with a pledge to train three million students and teachers by 2030](https://cioafrica.co/auc-signs-partnership-with-google-to-advance-africas-ai-digital-capacity/) | Advanced |
 | AUC-ITU cooperation memorandum | Did not exist | [Signed across AI, digital public infrastructure, skills, connectivity, cybersecurity, space technology and standards, naming the Commission the continental coordinating partner for the 55 member states](https://techreviewafrica.com/news/6310/african-union-commission-itu-sign-cooperation-agreement) | Advanced |

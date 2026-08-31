@@ -1,13 +1,13 @@
 ---
-title: EU activities — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: EU activities — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: geopol.eu
 places: XAF
-record: 6fce81204213
+record: 2b28befc3706
 ---
 
-# EU activities: progress report, 2025-08-01 to 2026-08-29
+# EU activities: progress report, 2025-08-01 to 2026-08-31
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: 6fce81204213
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | AU-Germany strategic dialogue | No dated session held in the base | [Reviewed the partnership and named AI governance and cybersecurity among the areas for cooperation, within a dialogue that is principally about peace and security](https://au.int/en/pressrelease/strategic-dialogue-foreign-and-security-policy-between-african-union-commission-and) | Advanced, marginal |

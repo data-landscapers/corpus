@@ -1,13 +1,13 @@
 ---
-title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: gov.policy
 places: XAF; XSA; XWA
-record: e92f20a34820
+record: f1e5900ccc6e
 ---
 
-# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-30
+# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: e92f20a34820
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Anti-IFFs Policy Tracker | Piloted eighteen months in Cote d'Ivoire, Ghana, Liberia, Namibia, Uganda and Zambia, built by Tax Justice Network Africa with the AU Commission's ETTIM department and the African Tax Administration Forum | [Endorsed for continental roll-out as a standing self-assessment instrument scoring anti-IFF policy, legal, institutional and data-sharing frameworks; no roll-out timetable, country list or governance body named](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | Advanced |
 | AUDA-NEPAD island economies programme | Did not exist | [A country-owned framework for seven island states built around industrialisation, digitalisation, corridors and AI, in partnership with the Republic of Korea; the ministerial communique adopting it is not published](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |

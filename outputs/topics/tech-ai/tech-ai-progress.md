@@ -1,13 +1,13 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: AI — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: tech.ai
 places: XAF; XSA; XWA
-record: 207a840b2101
+record: 12c207507444
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-30
+# AI: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 207a840b2101
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Advanced |
 | Free student access to a commercial assistant | Did not exist | [A technology company offered African students one year of its paid artificial-intelligence assistant tier at no charge, pitched at study materials, assignments and planning](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/) | Advanced |

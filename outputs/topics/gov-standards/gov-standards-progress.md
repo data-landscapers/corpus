@@ -1,13 +1,13 @@
 ---
-title: Standards — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Standards — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: gov.standards
 places: XAF; XSA; XWA
-record: 643dc14b7c34
+record: 17711c2b9940
 ---
 
-# Standards: progress report, 2025-08-01 to 2026-08-30
+# Standards: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 643dc14b7c34
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Africa PKI Forum harmonisation of digital-trust rules | Did not exist | [Participants called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders; nothing is adopted and no instrument, timetable or signatory list is on file](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/) | Advanced |
 | African Common Proposals for WRC-27 | Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published | [The union's third radiocommunication working group met as an e-meeting convened from Nairobi from 18 to 21 August 2026, input contributions having closed on 11 August, to prepare its recommendations for the third African Preparatory Meeting; the meeting's own output is not published, and no proposal text is published](https://atuuat.africa/event/atu-r-wg3/) | Advanced |

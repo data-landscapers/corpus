@@ -1,13 +1,13 @@
 ---
-title: Data protection — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Data protection — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: gov.protect
 places: XAF; XSA; XWA
-record: 368f87c21ae1
+record: 400549f55166
 ---
 
-# Data protection: progress report, 2025-08-01 to 2026-08-30
+# Data protection: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 368f87c21ae1
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Signatures and ratifications of the Malabo Convention | 21 of 55 signed, 20 ratified or acceded and 20 deposited (2026-02-02, the depositary's register) | [Equatorial Guinea, where the Convention was adopted and after whose then-capital it is named, signed on 2026-07-28 and has not deposited an instrument of ratification](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | Advanced, marginal |
 | Malabo Convention | In force, and the continental benchmark against which national data-protection regimes are measured | [Unchanged in text; a majority of the Union's 55 members remain outside it twelve years after adoption](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |

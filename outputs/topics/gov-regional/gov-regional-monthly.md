@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, July 2026
 compiled: 2026-08-31
 period: 2026-07-01 to 2026-08-31
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BDI; CAF; TCD; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 8d2b4121e3ac
+places: DZA; AGO; BEN; BWA; BDI; CAF; TCD; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: bab51fc55ffd
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -81,6 +81,10 @@ Ghana's regional position moved on three fronts, none of them with a text attach
 
 
 A fourth front does have something running. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated.
+
+## Guinea
+
+Guinea took the presidency of the regional audiovisual regulators' platform on 31 August, when the [12th General Assembly of the platform of the eight monetary-union states and Guinea opened in Conakry and its leadership passed to the head of the national communications authority](https://www.africaguinee.com/guinee-la-12e-assemblee-generale-des-regulateurs-de-laudiovisuel-souvre-sur-fond-de-lutte-contre-la-desinformation/). The two-day agenda was harmonising the legal and technical tools for regulating social platforms against cybersecurity and social-cohesion risks, AI-generated disinformation and deepfakes among them, and strengthening the standing of regulators over those platforms. Opening it, the Justice Minister argued for a framework that ["protects without stifling, regulates without censoring"](https://www.africaguinee.com/cyberespace-et-libertes-dexpression-le-garde-des-sceaux-appelle-a-reguler-sans-censurer-mais/) and called cybersecurity a question of sovereignty rather than a technical one. What the record holds is a presidency and an agenda: no harmonised instrument, timetable or funding is announced.
 
 ## Guinea-Bissau
 

@@ -1,13 +1,13 @@
 ---
-title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: dpi.id
 places: XAF; XSA; XWA
-record: 13e6af41e8a1
+record: 01848a021678
 ---
 
-# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-30
+# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 13e6af41e8a1
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Advanced |
 | Adults holding official identification in Sub-Saharan Africa | None published on this basis | [81% of adults, 82% of men against 79% of women, a 3.56-point gender gap (2025)](https://id4d.worldbank.org/global-dataset) | ***Baseline not held*** |

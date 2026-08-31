@@ -1,13 +1,13 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: 318f278446c7
+record: df2cdce81477
 ---
 
-# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-30
+# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 318f278446c7
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Advanced |
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf) | Advanced |

@@ -1,13 +1,13 @@
 ---
-title: Regional collaboration — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Regional collaboration — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: gov.regional
 places: XAF; XSA; XWA
-record: d57d387ff615
+record: 3f87d0d55e0a
 ---
 
-# Regional collaboration: progress report, 2025-08-01 to 2026-08-30
+# Regional collaboration: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: d57d387ff615
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | AfCFTA Protocol on Digital Trade | State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing | [Eight annexes to the protocol were approved in February 2025 and the intellectual-property annexes adopted in February 2026, and all of them still await national ratification and incorporation; the July 2026 calls to action to expedite ratification carry no enforcement mechanism, no deadline and no named financing, and no ratification count is published](https://srnnews.com/the-media-line-africa-has-a-free-trade-deal-now-comes-the-hard-part/) | Advanced, unratified |
 | AfCFTA Secretariat | Council bureau chaired by Egypt; the digital trade protocol adopted but no forum convened on it | [Nigeria in the chair with digital trade among four stated priorities, a second digital trade forum held and a data-exchange system of the Secretariat's own launched](https://www.africannewspage.net/2026/07/nigeria-takes-afcfta-council-chair/) | Advanced |

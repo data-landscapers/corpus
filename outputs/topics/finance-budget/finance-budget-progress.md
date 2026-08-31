@@ -1,13 +1,13 @@
 ---
-title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: finance.budget
 places: XAF; XWA
-record: 4c0cc3698161
+record: cf6693182f4e
 ---
 
-# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-30
+# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-31
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 4c0cc3698161
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | Share of the African Union's budget financed by its own members | About 22 to 25 per cent, a decade after the 2016 Kigali Decision | [Unchanged on the newest figure held; the Union's 2025 programme budget was 77.5 per cent externally funded](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) | No change |
 

@@ -1,13 +1,13 @@
 ---
-title: Data Exchange — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Data Exchange — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: dpi.exchange
 places: XAF; XSA; XWA
-record: 5e3219ded612
+record: aa1164f17bf6
 ---
 
-# Data Exchange: progress report, 2025-08-01 to 2026-08-30
+# Data Exchange: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 5e3219ded612
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |

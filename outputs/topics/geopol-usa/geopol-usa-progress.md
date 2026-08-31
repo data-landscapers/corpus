@@ -1,13 +1,13 @@
 ---
-title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: geopol.usa
 places: XAF
-record: 37f85af0b264
+record: ab5ec278b8c7
 ---
 
-# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-29
+# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-31
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: 37f85af0b264
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy data-sharing agreements | Did not exist; no bilateral United States health agreement of this kind on record before December 2025 | [Memorandums worth US$20bn signed with more than 30 countries since December 2025, on a model Data Sharing Agreement giving the United States at-will access to seven classes of national health system for 25 years with a 10-year post-termination tail; Ghana refused in April 2026, Zimbabwe withdrew in February 2026 and Zambia shelved in May 2026, and Kenya's framework is before the Court of Appeal with a final ruling due at the end of October 2026; the State Department's standard-form memorandum, held as a blank template dated 2026-03-11, commits a partner government to name and run its electronic medical record, laboratory, pharmacy, surveillance, commodity-inventory and national data warehouse systems, to load 90 per cent of clinical encounters into the electronic medical record within two years of rollout in a facility, to enter a data sharing agreement expected to run twenty-five years, and to provide specimens and genetic sequence data of pathogens with epidemic potential within five days of detection, with section 4.7 making failure on those commitments grounds for changing or discontinuing the assistance; the signed texts are withheld, the department having published a subset of the memorandums in March 2026 and then removed public access, and a freedom-of-information suit covering sixteen African countries (Public Citizen v. Department of State, No. 1:26-cv-01137, D.D.C.) was unresolved when filed on 2026-04-02; a rights organisation's clause-by-clause assessment of the seven signed memorandums it holds - Ethiopia, Kenya, Mozambique, Nigeria, Rwanda, Liberia and Uganda - reports that the model's terms were not applied uniformly: all seven require broad audit access, three (Liberia, Mozambique and Rwanda) commit to supplying any data requested for that audit with no privacy safeguard stated, two (Liberia and Nigeria) defer the data-sharing arrangement to an unpublished appendix, and the specimen and pathogen-sequencing clause appears in five of the seven, with Liberia and Kenya outside it Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the demands for direct access to partner governments' own health-data systems as a condition of lifesaving aid, calling them unprecedented and at odds with United States policy on the data of American citizens, and requesting a briefing on the agreements' data requirements and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced, refused by three states and challenged in the United States Senate |
 | US-AUC Strategic Investment Working Group | Did not exist | [Agreed to channel US private investment into AU-backed infrastructure including digital transformation, on an investment-in-place-of-aid posture; no membership, meeting or work programme held](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group) | Advanced |

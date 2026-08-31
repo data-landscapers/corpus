@@ -1,13 +1,13 @@
 ---
-title: New investments — progress report, 2025-08-01 to 2026-08-30
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: New investments — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: finance.new
 places: XAF; XSA; XWA
-record: a2722a317bb8
+record: 2796c1b6db75
 ---
 
-# New investments: progress report, 2025-08-01 to 2026-08-30
+# New investments: progress report, 2025-08-01 to 2026-08-31
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: a2722a317bb8
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
 | African technology equity and debt funding | US$3.25bn in total equity and debt funding across 534 deals in 2024 | [US$4.1bn in 2025, up about 25% year on year and the strongest level since 2022, across 570 deals, up 7%; debt reached its highest volume ever at US$1.6bn, up 63% on a 40% rise in the number of debt transactions and making up almost half of total capital raised, while equity funding grew 8% on a broadly stable deal count, so the growth came through larger ticket sizes rather than more transactions](https://partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report) | Advanced |
 | Development agency shift from aid delivery to investment mobilisation | Did not exist | [A United Nations development agency told its executive board that its finance model is shifting from delivering aid to using scarce public resources to unlock investment at scale, citing official development assistance down 23.3% in 2025 with a further fall expected](https://www.undp.org/speeches/second-regular-session-undp-executive-board-2026) | Advanced |
@@ -37,6 +37,7 @@ record: a2722a317bb8
 | EU Multiannual Indicative Programme for Sub-Saharan Africa 2021-2027 | EUR 490m for priority area 4, Digital and Science, Technology and Innovation, of which EUR 240m for digital transformation, within a regional envelope of EUR 12,000m | [Unchanged; the mid-term review cut priority area 4 from EUR 1,240m to EUR 490m and its digital transformation component from EUR 940m to EUR 240m, or 2.0 per cent of an envelope enlarged from EUR 10,242m to EUR 12,000m, and no later amendment is held](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | No change |
 | Africa Finance Corporation digital bond | Baseline not held | [CHF 350m raised on a five-year digital bond listed, traded and settled on a regulated digital exchange — stated as the first by an African institution — priced at a 1.4925% coupon and arranged by two European banks; it is the issuer’s fourth and largest Swiss franc issuance](https://techafricanews.com/2026/08/13/africa-finance-corporation-breaks-new-ground-with-chf350m-digital-bond/) | ***Baseline not held*** |
 | Africa50 Infrastructure Acceleration Fund | ***Baseline not held*** | [Fourth close of about US$330m, joined by British International Investment's US$20m commitment alongside the African Development Bank, the International Finance Corporation and more than 20 African institutional investors; the fund, managed by Africa Infrastructure Investment Partners, directs capital to logistics, power, water and sanitation and social infrastructure as well as digital connectivity; the size and date of earlier closes are not established](https://von.gov.ng/british-international-investment-backs-africa50-with-20-million/) | ***Baseline not held*** |
+| African share of a European development group's digital portfolio | Baseline not held | [EUR 558m, 59% of the group's standing digital portfolio of about EUR 948m and its largest region by a wide margin, against EUR 293m newly committed group-wide across 47 projects in 2025 and 152 projects in execution in 57 countries and territories (2025, published 2026-08-28)](https://www.afd.fr/sites/default/files/2026-08/a4bilan_numerique_2025_vfinale.pdf) | ***Baseline not held*** |
 | AI 10 Billion Initiative | Did not exist | [Launched, with a ten-month partnership roadshow to follow](https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-undp-ai-hub-sustainable-development-and-partners-launch-ai-10-billion-initiative-during-2026-nairobi-ai-forum-91104) | ***Baseline not held*** |
 | BIASHARA 2063 project (AU Commission institutional systems) | ***Baseline not held*** | [A World Bank-financed programme building the Commission's own institutions and systems, procuring wireless infrastructure for its headquarters; no envelope, timetable or results framework held](https://au.int/en/bid/supply-and-installation-wireless-infrastructure-solution-african-union-commission-headquarters) | ***Baseline not held*** |
 | Capital raised by startups from a technology company's African accelerators | Baseline not held | [More than US$1bn raised cumulatively since 2017, with a stated survival rate above 90% against a 70-80% failure rate for the wider ecosystem (2026-08)](https://techeconomy.ng/google-backed-startups-hit-1bn-funding-milestone-with-90-survival-rate) | ***Baseline not held*** |

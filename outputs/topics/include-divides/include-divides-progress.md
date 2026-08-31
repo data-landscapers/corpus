@@ -1,13 +1,13 @@
 ---
-title: Digital divides — progress report, 2025-08-01 to 2026-08-29
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+title: Digital divides — progress report, 2025-08-01 to 2026-08-31
+compiled: 2026-08-31
+period: 2025-08-01 to 2026-08-31
 subject: include.divides
 places: XAF; XSA
-record: 15daea86b3c8
+record: 76eb5c43b26b
 ---
 
-# Digital divides: progress report, 2025-08-01 to 2026-08-29
+# Digital divides: progress report, 2025-08-01 to 2026-08-31
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,8 +17,9 @@ record: 15daea86b3c8
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
 |---|---|---|---|
+| Smartphone shipments and entry-level affordability | Three consecutive years of shipment growth to the second quarter of 2025, with aggressive price reductions in that quarter | [Shipments fell 7% year on year in the second quarter of 2026, the first decline in three years, with the sub-$100 segment down 34% - nearly three million units - and the average selling price up $41 to $202; the research house forecasts a 26% decline for 2026, memory now accounts for nearly 60% of the bill of materials for sub-$400 devices and over 64% under $99, and an entry-level handset can cost up to 73% of a low-income adult's monthly income in sub-Saharan Africa](https://www.connectingafrica.com/digital-divide/africa-smartphone-market-set-for-sharp-2026-decline) | Regressed |
 | Women and girls digital-inclusion accelerator | ***Baseline not held*** | [An industry-body accelerator backed by two private foundations opened its next call for digital-inclusion solutions for women and girls across India and sub-Saharan Africa, with a grant amount listed at INR 42,000,000](https://www.ngobox.org/full_grant_announcement_Applications-Invited-for-SheConnects-Digital-Accelerator-to-Advance-Womens-Digital-Inclusion-_13239) | ***Baseline not held*** |
 
 ## Southern Africa
