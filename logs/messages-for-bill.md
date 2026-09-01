@@ -14,6 +14,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-01 11:55 · build
+
+- **`documentation/methodology-journey.md` was cut from 200 lines to 45 at 11:53, mid-word inside a bold marker — a partial write, not an edit.** Obsidian holds the vault open and wrote its workspace file in the same minute as the mirror pass. The run restored the committed version, byte-identical, and committed that. If you were editing it, your change is gone and the restore is the thing to undo.
+
 ## 2026-08-28 22:41 · build
 
 - **`report-register-check.py` read narrative markers only, so the 40 status baselines authored by STATUS-INIT scored nought words and had their register and check H pass over nothing while printing 0 hits.** Fixed: it now reads body paragraphs there. That exposes 218 register hits and 47 uncited figures across those documents. This run cleared KEN's and ZAF's; the rest is a report pass of about 38 documents, which is yours to commission or leave.
