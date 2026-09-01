@@ -431,3 +431,120 @@ The audit evidence beneath it is specific: 31 of 419 government services are onl
 Against that, change agents are in training across ministries under the digitisation programme, and the auditor-general's 2026-2030 strategic plan urges more than 80 audit officers to take up artificial intelligence and digital methods.
 
 Neither the training nor the plan carries a headcount target for the technical staff the estate is short of.",SWZ-gov.policy-digital-readiness-assessment|SWZ-infra.cybersec-govservices|SWZ-infra.cybersec-backups|SWZ-capacity.training-changeagents|SWZ-dpi.govtech-auditor-general-strategic-plan
+dpi.exchange--national-data-exchange-system,Advanced,[Mchumanisi](2026-07-22-mchumanisi-data-exchange-platform) is proposed as the national exchange platform in a draft policy; more than half of ministries still lack meaningful interoperability.,"The draft data governance policy names Mchumanisi as the platform through which authorised institutions would reach information a citizen supplies once ([proposal](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The ICT ministry's report to Parliament for 2024/25 records a Government In Your Hand platform soon to launch and the electronic-government interoperability framework under review ([report](2025-01-01-eswatini-mict-annual-performance-report-2024-25)).
+
+Where exchange exists it is sectoral: a health information exchange runs a master patient index with deterministic and probabilistic matching, and the revenue service is integrating national databases for data matching.
+
+The measure against all of it is the audit finding that more than half of ministries lack meaningful system interoperability. Mchumanisi is a proposal with no specification, procurement or date.",SWZ-dpi.exchange-mchumanisi-data-exchange-platform|SWZ-dpi.exchange-interop|SWZ-dpi.exchange-health-information-exchange|SWZ-dpi.exchange-revenue-service-data-matching
+dpi.exchange--use-of-digital-id-in-other-systems,Advanced,"A [national e-KYC registry](2025-09-26-eswatini-national-ekyc-system) is under construction to let banks and ministries verify identity against one record, targeting 500,000 users by 2028.","The registry is under construction with a cross-border dimension inside the regional bloc, and the FinTech Strategy targets 500,000 users of it by 2028 ([registry](2025-09-26-eswatini-national-ekyc-system), [strategy](2025-12-07-fintech-strategy-to-transform-eswatini-digital-future)).
+
+The health information exchange already matches patients to one identity through a master patient index using deterministic and probabilistic methods, which is the base's only operating instance of a shared identity across systems.
+
+The revenue service is integrating national databases for data matching, with taxpayers segmented four ways.
+
+The constraint is the credential: the national identity card does not meet the criteria for digital identification, and the digital identity itself remains planned under the Digital Eswatini project.",SWZ-dpi.id-ekyc|SWZ-dpi.exchange-health-information-exchange|SWZ-dpi.exchange-revenue-service-data-matching|SWZ-dpi.id-nationalid
+dpi.exchange--interoperability-of-education-systems,Advanced,The [education management information system](2025-11-04-eswatini-disability-indicators-emis) is keyed to a personal identification number and stated by government to allow linkage with other systems.,"Government's own performance report records the system launched as a real-time platform keyed to a personal identification number and allowing linkages with other management information systems ([report](2024-01-01-government-performance-report-2023-2024)).
+
+Disability indicators were integrated into it in November 2025 with more than 900 staff trained, and the stated next priority is connecting it to other disability-tracking systems ([integration](2025-11-04-eswatini-disability-indicators-emis)).
+
+The finance minister's 2026 budget speech names it as a benchmark for education data management ([budget speech](2026-02-27-eswatini-budget-speech-2026)).
+
+No actual linkage to another government system is recorded as operating, and most rural primary schools still collect on paper.",SWZ-dpi.mis-school-education-management-information-system|SWZ-dpi.exchange-interop
+dpi.exchange--interoperability-of-social-protection-systems,Advanced,"The [social registry](2026-08-27-imbeleko-rollout-lubombo) reached its second region in August 2026, and the provident fund is cleaning client records ahead of pension conversion.","A second regional rollout began in Lubombo in August 2026 on an E41.7 million data-collection exercise, after 44,683 households were registered in the first region ([rollout](2026-08-27-imbeleko-rollout-lubombo)).
+
+The deputy prime minister's office had reported the registry under development with project documents finalised and a first regional pilot from March 2025 ([annual report](2025-02-01-eswatini-dpmo-annual-performance-report-2024-25)).
+
+The national provident fund reports going paperless and beginning a know-your-customer data-cleaning exercise on client records ahead of conversion into a national pension scheme ([fund](2025-09-04-pm-government-behind-enpf-conversion)).
+
+Both are preparing data rather than exchanging it: nothing on the base records the registry reading from, or writing to, another government system.",SWZ-dpi.registry-social-registry-imbeleko|SWZ-dpi.pay-provident-fund-digitisation
+dpi.id--registration-of-entire-population,Advanced,"Birth registration completeness reached [61 per cent](2026-08-25-eswatini-crvs-gains-2025-report) in 2025 and death registration 62 per cent, against 8.3 and 26.5 per cent in 2016.","The 2022 annual vital statistics report put completeness at 35.6 per cent of births and 55 per cent of deaths ([report](2023-10-01-vital-statistics-report-2022)).
+
+The 2025 figures announced at the ninth Africa civil registration day are 61 per cent of births and 62 per cent of deaths, against 8.3 and 26.5 per cent in 2016 ([commemoration](2026-08-25-eswatini-crvs-gains-2025-report)). The 2025 report itself is not held as a downloadable government publication.
+
+The population register is a compulsory register of every birth, marriage and death since 1984, and is a paper-based statute not shown to be digitised.
+
+The 2027 census is the next whole-population count, with household mapping begun and E130.5 million allocated. Two in five births are still unregistered.",SWZ-dpi.registry-crvs-completeness|SWZ-dpi.registry-population|SWZ-data.statistics-2027-population-and-housing-census
+dpi.id--national-maintenance-of-id-and-credentials-systems,"Mixed, production restored after a suspension while a campaign asks citizens to correct the records themselves","Identity card production [resumed in February 2026](2026-02-23-id-card-services-resume) after a suspension for technical upgrades, and in August the ministry asked citizens to verify the chief code on their documents.","Production resumed at ten service centres in February 2026 after a pause for technical upgrades, with a plan to clear the resulting backlog ([resumption](2026-02-23-id-card-services-resume)).
+
+In August 2026 the ministry asked citizens to check that the chief code on their identity documents matches their actual chiefdom, warning that an incorrect code creates difficulty in reaching government services, and describing how corrections are made in the civil registration system ([campaign](2026-08-18-home-affairs-chief-codes-verification)).
+
+The statutory basis is the Identification Order of 1998, which establishes the population register and the personal identity number ([Order](1998-11-24-eswatini-identification-order-1998)).
+
+The card does not meet the criteria for digital identification. No issuance figure, backlog size or correction count is published at any date.",SWZ-dpi.id-nationalid|SWZ-dpi.registry-population
+dpi.id--digital-id-from-birth,Advanced,"The [Closing of the Tap](2026-04-14-home-affairs-40-years-closing-of-the-tap) initiative registers newborns inside health facilities under the Civil Registration Act of 2023, with offices in seven towns.","The ministry's own retrospective describes the Civil Registration Act of 2023 and an initiative registering newborns directly within health facilities, with registration offices now open in seven towns ([ministry](2026-04-14-home-affairs-40-years-closing-of-the-tap)).
+
+A unique identification number is issued at birth and appears on both the birth-registration record and the birth certificate ([scoping study](2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping)).
+
+Registration completeness stands at 61 per cent of births in 2025 ([commemoration](2026-08-25-eswatini-crvs-gains-2025-report)), so the pathway exists for rather more than half of newborns.
+
+What is issued at birth is a number and a certificate, not a credential: the identity document itself comes at 16 under the 1998 Order, and no count of births registered through the health-facility route is held.",SWZ-dpi.id-birth-registration-in-health-facilities|SWZ-dpi.id-unique-identification-number-at-birth|SWZ-dpi.registry-crvs-completeness
+dpi.id--interoperability-of-birth-registration-and-digital-id,Advanced,"A [unique identification number](2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping) issued at birth appears on both the registration record and the certificate, linking civil registration to the population register.","A seven-country regional scoping study confirms that a unique identification number is issued at birth and carried on both the birth-registration record and the birth certificate ([study](2026-04-01-vital-strategies-unhcr-birth-registration-citizenship-scoping)).
+
+The annual vital statistics report is the base's clearest primary description of how that number assignment links registration to the national population register ([report](2023-10-01-vital-statistics-report-2022)).
+
+The draft data governance policy names birth-certificate services among the intended uses of the proposed national exchange platform ([proposal](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The same study finds registrars in some of the seven countries making a citizenship determination at the point of birth registration, which is a linkage that decides status rather than merely records it.",SWZ-dpi.id-unique-identification-number-at-birth|SWZ-dpi.registry-population|SWZ-dpi.exchange-mchumanisi-data-exchange-platform
+dpi.id--use-by-other-systems,Advanced,"The [e-KYC registry](2025-09-26-eswatini-national-ekyc-system) is being built so banks and ministries can verify against one identity record, with 500,000 users targeted by 2028.","The central bank convened banks, financial-service providers and government ministries around a national identity-verification registry, with a cross-border dimension inside the regional bloc ([registry](2025-09-26-eswatini-national-ekyc-system)).
+
+The FinTech Strategy 2025-2030 commits to it, targeting 500,000 users and 80 per cent interoperability by 2028 ([strategy](2025-12-07-fintech-strategy-to-transform-eswatini-digital-future)).
+
+Technical assistance is funded to connect the national system into a federated regional framework.
+
+Against the commitments, the credential itself does not qualify: the national identity card does not meet the criteria for digital identification, and no verification volume is published for any system.",SWZ-dpi.id-ekyc|SWZ-dpi.pay-fintech|SWZ-gov.regional-regional-federated-ekyc|SWZ-dpi.id-nationalid
+dpi.pay--g2p-functionality,Advanced,A [social grant disbursement system](2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly) built with the science park moved bank-paid elderly grants to the 25th of the month from August 2026.,"The deputy prime minister's office introduced the system to make grant payment safer, faster and more reliable, shifting the bank-paid elderly grant date from the 20th to the 25th ([system](2026-08-13-bank-paid-elderly-grants-shift-to-25th-monthly)).
+
+Its own annual report gives the operational split of elderly-grant payment between mobile money and bank accounts for April to December 2024 ([annual report](2025-02-01-eswatini-dpmo-annual-performance-report-2024-25)).
+
+35 post offices accept government-service payments, which is the counter-flow from citizen to state.
+
+No disbursement value, recipient count or failure rate is published for the new system, and the social registry that would target it has covered one region of four.",SWZ-dpi.pay-social-grant-disbursement-system|SWZ-dpi.pay-postoffices|SWZ-dpi.registry-social-registry-imbeleko
+dpi.pay--revenue-collection,Advanced,"An [electronic invoicing programme](2026-05-12-ers-turns-to-technology-amid-e4-25bn-annual-tax-gap) launched in May 2026 against an estimated E4.259 billion annual tax gap, and customs payments now clear in near real time.","The programme was launched on 11 May 2026 with a Serbian technology vendor engaged to build it, presented as the answer to an estimated E4.259 billion annual leakage ([launch](2026-05-12-ers-turns-to-technology-amid-e4-25bn-annual-tax-gap)), and rollout began with wholesale and retail businesses ([rollout](2026-08-29-retailers-wholesalers-to-lead-eswatinis-new-e-invoicing-tax-system-rollout)).
+
+The revenue service and a commercial bank integrated their payment systems in June 2026 so customs payments reflect on the trade platform in near real time, replacing manual bank-statement reconciliation ([integration](2026-06-20-ers-fnb-complete-real-time-customs-payment-integration)).
+
+An integrated revenue administration system has been running since March 2024 ([budget speech](2024-02-26-budget-speech-2024)).
+
+No enrolled-business count and no revenue effect is published for the invoicing programme, so the gap it was built to close cannot yet be measured against it.",SWZ-tech.ai-fiscalisation-and-electronic-invoicing|SWZ-dpi.mis-customs-management-system|SWZ-finance.budget-tax-gap
+dpi.pay--b2b-and-b2g-functionality,Advanced,"All bank and non-bank participants are connected to the [payment switch's](2026-02-27-eswatini-budget-speech-2026) round-the-clock fast-payments platform, on a wholesale system running since 2007.","The interbank payment and settlement system has operated under its 2007 rulebook since then, and is the wholesale rail beneath business and government payments ([rulebook](2007-05-01-swipss-rules-and-procedures)).
+
+The finance minister told Parliament in February 2026 that all bank and non-bank participants are connected to the payment switch's 24-hour fast-payments platform ([budget speech](2026-02-27-eswatini-budget-speech-2026)); the eighth and final participant went live on 15 November 2025 ([remarks](2025-11-13-eswatini-cbe-governor-siips-remarks)).
+
+The FinTech Strategy 2025-2030 targets 80 per cent interoperability by 2028 ([strategy](2025-12-07-fintech-strategy-to-transform-eswatini-digital-future)).
+
+Against the rails, more than 90 per cent of person-to-business payments are still cash ([survey](2025-08-05 Robust DPI inevitable for Eswatini's economic, jobs boom - World Bank)), and no business-to-business or business-to-government transaction volume is published.",SWZ-dpi.pay-interbank-payment-and-settlement-system|SWZ-dpi.pay-switch|SWZ-dpi.pay-fintech|SWZ-dpi.pay-cash
+dpi.registry--address-register,Advanced,[National addressing standards](2026-07-20-eswasa-national-addressing-standards-launch) launched in July 2026 with two municipal pilots; no address register exists yet.,"The Eswatini National Addressing Standards, the ISO 19160 parts 1 and 2 domesticated as SZNS, launched on 20 July 2026 by the standards authority with the communications regulator and the ICT and housing ministries ([launch](2026-07-20-eswasa-national-addressing-standards-launch)).
+
+Mbabane is leading implementation of a national street addressing and house numbering programme, framed as a smart-city initiative to make deliveries, emergency response and navigation work ([Mbabane](2026-07-23-mbabane-national-addressing-pilot)), and Ezulwini is among the pilot municipalities ([Ezulwini](2026-07-20-ezulwini-national-addressing-pilot)).
+
+What exists is a standard and two pilots. No address register, no count of addressed properties and no national coverage figure is held, and the standard is six weeks old at the close of this window.",SWZ-gov.standards-national-addressing-standards
+dpi.registry--electoral-register,Advanced,"The commission runs [continuous voter registration](2025-09-18-by-elections-registrations-begin), and a proposed compulsory chief code and residency rule are under review.","Continuous voter registration was operationalised from 19 to 28 September 2025 for two by-election divisions, open to newly eligible voters and to prospective candidates ([registration](2025-09-18-by-elections-registrations-begin)).
+
+The commission's own account of the process describes voter registration on an optical-mark-recognition identification system, production of a preliminary register and validation at chiefdom level ([process](2026-08-29-ebc-electoral-process)).
+
+A proposal to make the chief code compulsory at registration, alongside a six-month residency rule, divided residents at Ezulwini and is under commission review ([debate](2026-08-10-times-eswatini-chief-code-rule-divides-ezulwini)).
+
+The same code is the one the home affairs ministry asked citizens to correct on their identity documents in August 2026. No registered-voter count is held at any date on this base.",SWZ-dpi.registry-voter-register|SWZ-dpi.id-nationalid
+dpi.mis--social-protection,Advanced,"The [social registry](2026-08-27-imbeleko-rollout-lubombo) reached its second region in August 2026 on an E41.7 million exercise, after 44,683 households in the first.","The deputy prime minister's office reported the registry under development with project documents finalised and a first regional pilot from March 2025 ([annual report](2025-02-01-eswatini-dpmo-annual-performance-report-2024-25)).
+
+44,683 households were registered in the first region out of 47,766 covered, with 3,088 vacant or non-consenting, and targeting runs on a proxy means test of 20 variables from the household income and expenditure survey ([first region](2026-06-18-world-bank-injects-e42-5-million-social-registry)).
+
+A second rollout began in Lubombo in August 2026 on an E41.7 million data-collection exercise ([Lubombo](2026-08-27-imbeleko-rollout-lubombo)).
+
+Two of four regions in two years, and no statement that the registry has yet carried a live targeting decision for a grant.",SWZ-dpi.registry-social-registry-imbeleko|SWZ-dpi.pay-social-grant-disbursement-system
+dpi.mis--customs,Advanced,"Customs runs on [ASYCUDAWorld 4.4](2025-11-01-asycuda-report-2025) since December 2024, and payments from one commercial bank now clear on it in near real time.","The trade body's 2025 report records migration to ASYCUDAWorld version 4.4 in December 2024 with locally developed customs modules ([report](2025-11-01-asycuda-report-2025)).
+
+The revenue service and a commercial bank integrated their payment systems in June 2026 so customs payments reflect on the platform in near real time, replacing manual bank-statement reconciliation ([integration](2026-06-20-ers-fnb-complete-real-time-customs-payment-integration)).
+
+Ten border agencies endorsed an inter-agency standard-operating-procedure framework and a national data catalogue aligned to the customs data model in November 2025, under a project backed by the World Customs Organization ([framework](2025-11-11-landmark-milestone-as-eswatini-advances-border-efficiency-through-coordinated-border-management)).
+
+The integration covers one bank. No clearance-time, declaration-volume or single-window figure is published.",SWZ-dpi.mis-customs-management-system|SWZ-dpi.mis-coordinated-border-management
+dpi.mis--land,Advanced,"The [deeds system](2024-10-28-second-quarter-performance-report-fy2024-25) reached a phase-2 prototype at 60 per cent in October 2024, and registry staff were trained on sectional title in July 2026.","Government's own quarterly report to Parliament records the deeds registration and information management system at a phase-2 prototype, 60 per cent complete and under testing for gradual rollout ([report](2024-10-28-second-quarter-performance-report-fy2024-25)).
+
+A registry delegation benchmarked Kenya's land platform in August 2025 while preparing a fully electronic system, with registration and storage of deeds still manual at that point ([benchmarking](2025-08-25-eswatini-delegation-kenya-lands-benchmarking)).
+
+In July 2026 the deeds registry and the surveyor-general's department were trained by South African specialists on sectional plans and sectional-title deeds ([training](2026-07-10-government-strengthens-land-registration-system-to-enhance-property-ownership-certainty)).
+
+Two years on from that prototype no go-live date, budget or system name is held, and the registry itself describes a department whose records came from Pretoria in 1973 ([registry](2026-08-29-gov-sz-deeds-registry)).",SWZ-dpi.registry-deeds-registry-digitisation
