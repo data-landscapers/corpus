@@ -3,9 +3,9 @@ title: Namibia — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: NAM
-ledger_rows: 30
-not_held: 12
-record: a2254c07a80a
+ledger_rows: 36
+not_held: 10
+record: d18e81794783
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -57,6 +57,16 @@ The communications regulator and the electricity distributor [signed a five-year
 Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
+<!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The national data centre moved from a Cabinet directive to a budget line: it is now [one of the ICT ministry's flagship projects for 2026/27 inside a N$639.2 million budget](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Four years after a government task force found the country had none and recommended building one, it still has no site, capacity, cost or completion date.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
 <!-- /narrative -->
 
 ## DPI
