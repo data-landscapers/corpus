@@ -3,9 +3,9 @@ title: Djibouti — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: DJI
-ledger_rows: 9
-not_held: 10
-record: b703a381cd74
+ledger_rows: 10
+not_held: 11
+record: 6c44cfe2d63f
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -17,7 +17,7 @@ record: b703a381cd74
 <!-- narrative: summary -->
 The state's own records were the month's subject. [126 years of the Journal officiel were digitised and published online](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/), under a letter of accord with the UN development agency signed on 2 August. Police body-worn cameras [are described as standard issue for the national police and road-safety officers](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/), and no retention period, access rule, data controller or authorising instrument for the footage is published â€” a working surveillance capability with no instrument behind it.
 
-On artificial intelligence the record moved to the policy side. The [first national strategy is to be launched at a national forum](https://www.adi.dj/article/138846), alongside [a readiness assessment scoring the country 24.5 out of 100](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) â€” the first such measurement the base holds. Elsewhere an Italian mission [reported a submarine-cable inspection and protection project at the landing station on 3 August](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater), and [a digital route connecting graduates with recruiters entered service](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs).
+On artificial intelligence the record moved to the policy side. The [first national strategy is to be launched at a national forum](https://www.adi.dj/article/138846), alongside [a readiness assessment scoring the country 24.5 out of 100](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) â€” the first such measurement the base holds. Elsewhere an Italian mission [reported a submarine-cable inspection and protection project at the landing station on 3 August](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater), and [a digital route connecting graduates with recruiters entered service](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The urban rehabilitation agency's [complaint portal](https://www.doleances.arulos.dj/) is the first digital citizen-feedback channel the base holds, and it serves one agency.
 <!-- /narrative -->
 
 ## Governance
@@ -66,6 +66,14 @@ The forum will also present the national readiness assessment behind the strateg
 
 <!-- narrative: capacity--capacity-training -->
 Against unemployment, the state is [using digital channels to connect graduates with recruiters](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The account names no platform, no registration count and no placement figure, so what is held is a stated direction rather than a measurable one. It is read here alongside the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the base holds to a measure of the problem the initiative is written against.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the base holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
 <!-- /narrative -->
 
 ## Data

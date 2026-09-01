@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-09-01
 place: DJI
-ledger_rows: 69
-not_held: 10
-record: 0680881b0375
+ledger_rows: 128
+not_held: 11
+record: 55d51ba91329
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (69 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-01 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (128 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -29,7 +29,14 @@ The largest commitment on the ledger is not built: a [memorandum of 19 July 2026
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Cadre d'Interoperabilite de Djibouti | [Implemented, no evidence of application on file](https://thedocs.worldbank.org/en/doc/e3b093b92e0531dcb5994e53e1b0733d-0460012022/original/Cadre-d-Interop-rabilit-de-Djibouti.pdf) | Published by the state information-systems agency |
+| National land policy | [In development](https://igad.int/djibouti-advances-its-national-land-policy-for-inclusive-and-sustainable-land-governance/) | Draft validated at a workshop, 6-7 December 2025 |
+| National Spectrum Management Plan | [In development](https://www.armd.dj/blog/atelier-sur-la-strategie-et-la-reglementation-de-la-gestion-du-spectre-des-frequences-radioelectriques-69) | Preparatory workshop, 9-10 November 2025 |
 | PND-ADEEG 2025-2030 (third National Development Plan) | [Implemented](https://www.adi.dj/article/138724) | Adopted by decree in the Conseil des ministres, 30 June 2026 |
+| Politique Nationale de Developpement des TIC | [Implemented, no adopted successor on file](https://communication.gouv.dj/djibouti-porte-sa-vision-dun-numerique-inclusif-au-sommet-mondial-sur-la-societe-de-linformation-2025/) | Cited as the reference framework, July 2025 |
+| Smart Nation strategy | [Implemented, under revision](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf) | Update initiated, February 2026 |
+| Sovereign cloud project and national cloud framework | [Planned](https://www.presidence.dj/conseil-des-ministres/2025-10-07) | Named as still to be put in place, October 2025 |
+| Strategie Nationale du Haut-Debit | [Implemented, no enacting decree on record](https://www.lanation.dj/editorial-linclusion-numerique-comme-nouvel-horizon-par-ibrahim-miyir-ali/) | Presented October 2024 |
 | Vision Djibouti 2035 | [Implemented](https://www.lanation.dj/geneve-djibouti-affiche-sa-vision-dun-numerique-inclusif-et-dun-hub-technologique-regional/) | Standing national frame, restated at WSIS 2026 as the basis of the digital hub ambition |
 
 ### Legislation and regulation
@@ -37,7 +44,12 @@ The largest commitment on the ledger is not built: a [memorandum of 19 July 2026
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Digital Code (eight volumes, about 800 articles) | [Implemented](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code) | Adopted by the National Assembly, 30 June 2025 |
+| Loi n 113/AN/24 reorganising the education ministry | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n113-an-24-9eme-l-portant-reorganisation-du-ministere-de-leducation-nationale-et-de-la-formation-professionnelle/) | Published 12 August 2024 |
+| Loi n 118/AN/15 creating the national payment system | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n118-an-15-7eme-l-portant-creation-dun-systeme-de-paiement-national-sa-reglementation-et-sa-surveillance/) | In force since 2016 |
+| Loi n 164/AN/22 on the ministry for the digital economy | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n164-an-22-8eme-l-portant-missions-organisation-et-fonctionnement-du-ministere-delegue-charge-de-leconomie-numerique-et-de-linnovation/) | In force since 27 July 2022 |
+| Loi n 39/AN/19 on the identification of natural persons | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n39-an-19-8eme-l-portant-identification-des-personnes-physiques-en-republique-de-djibouti-creation-du-numero-national-didentification-et-etablissement-dun-registre-national/) | Implementing decree published 13 July 2020 |
 | Startup Act (Loi n 179/AN/25) | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n179-an-25-9eme-l-portant-startup-act-djibouti/) | Signed 1 December 2025; Journal officiel n 23 of 15 December 2025 |
+| Access-to-information law | ***Not held, searched 2026-04-01 - a media-regulation country panel finds no dedicated instrument and the 1992 communication law never substantially reformed*** | No dedicated instrument on record |
 | Startup Act implementing decrees | ***Not held*** | None held as at 2026-07-20, so no label award, sandbox admission or visa issue can be stated |
 
 ### Data protection
@@ -45,6 +57,7 @@ The largest commitment on the ledger is not built: a [memorandum of 19 July 2026
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Data-protection regime within the Digital Code (156 articles) | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law) | Enacted within the Digital Code |
+| International personal-data transfer rules (Digital Code, articles 99-103) | [Implemented](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf) | Published in the Official Journal, 18 September 2025 |
 | Police body-worn cameras | [Implemented](https://www.lanation.dj/la-bodycam-un-bouclier-de-verite-au-service-des-policiers-et-des-citoyens/) | Described as standard issue for the Police Nationale and road-safety officers |
 | Prior authorisation for national-identifier and biometric processing | [Implemented](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law) | Tiered prior-authorisation regime enacted in the Digital Code |
 | Commission nationale de protection des donnees (CNDP) | ***Not held*** | Established by the Digital Code; no record of its constitution, membership, register or decisions |
@@ -55,13 +68,22 @@ The largest commitment on the ledger is not built: a [memorandum of 19 July 2026
 | System or instrument | Status | Milestone |
 |---|---|---|
 | African Union Malabo Convention | [Implemented](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | Ratified November 2023 |
+| Djibouti Declaration of the 16th African Union Private Sector Forum | [Implemented](https://au.int/en/pressreleases/20251211/16th-psf-concluded-strong-assertion-digital-economy-transformation) | Adopted 10 December 2025 |
+| IGAD Regional Health Data Sharing and Protection Policy Framework | [Implemented, non-binding](https://igad.int/download/igad-regional-health-data-sharing-and-protection-policy-framework/) | Adopted 2022 |
+| Regional payment-interoperability regulatory framework | [Planned](https://igad.int/wp-content/uploads/2026/02/ToR-IGAD-Payments-Interoperability-V6-1.pdf) | Terms of reference issued, February 2026 |
 | United Nations Convention against Cybercrime | [Planned, signed not ratified](https://www.ecofinagency.com/news-digital/1211-50395-djibouti-advances-bill-to-create-national-cybersecurity-authority) | Signed in Hanoi, late October 2025, as one of 71 signatories |
+
+### Standards
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Agence Djiboutienne des Normes et de la Qualite | [Implemented](https://www.presidence.dj/conseil-des-ministres/2026-01-13) | Two technical standardisation committees operationalised in 2025 |
 
 ### Public debate and participation in policymaking
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Public debate and civil-society record on digital governance | ***Not held*** | No civil-society, parliamentary or press-freedom source on digital governance is held for this place |
+| Public consultation on digital-governance instruments | [Implemented](https://www.unesco.org/fr/articles/djibouti-sengage-dans-lelaboration-dune-strategie-nationale-en-matiere-dia-alignee-aux-directives) | National artificial-intelligence strategy workshop, 22 January 2026 |
 
 <!-- narrative: governance -->
 The [Digital Code of 30 June 2025](https://www.jonesday.com/en/insights/2025/07/national-assembly-of-the-republic-of-djibouti-approves-digital-code) folds data protection, cybersecurity and electronic commerce into eight volumes and about 800 articles. Its [156-article privacy regime provides for 72-hour breach notification, mandatory data-protection officers, a public register and tiered prior authorisation over biometric processing](https://www.techhiveadvisory.africa/insights/review-of-djiboutis-data-protection-law).
@@ -80,6 +102,12 @@ Open data is strong on legal publication and thin elsewhere: no dataset inventor
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Domestic budget appropriation for digital transformation | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | ANSIE 2026 budget arrete approved by the Council of Ministers, 30 December 2025; arrete itself not published |
+
+### MoUs and other agreements
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Memorandum of understanding with the eGov Foundation | [Implemented](https://egov.global/news-and-media/egov-and-ministry-of-digital-economy-and-innovation-mdeni-sign-mou-to-advance-digital-transformation-of-public-services-in-djibouti/) | Signed 9 December 2024 |
 
 ### New investments
 
@@ -105,16 +133,20 @@ No domestic figure had been on file against the 2026 loi de finances, which name
 |---|---|---|
 | DARE1 southern extension (Mombasa-Mtunzini) | [In development](https://www.connectingafrica.com/connectivity/dare1-subsea-cable-to-link-kenya-to-south-africa) | Extension announced, ready for service 2028 |
 | Djibouti Digital Foundation and EARDIP domestic fibre rollout | [Implemented](https://www.lanation.dj/damerjog-entre-dans-lere-du-numerique-grace-au-projet-djibouti-fondement-du-numerique-dfn/) | Damerjog school, sub-prefecture and clinic connected, October 2025 |
-| Djibouti Telecom statutory monopoly (loi 13/1998, loi 80/2004) | [Implemented](https://www.lanation.dj/du-hub-regional-au-catalyseur-continental-la-nouvelle-ere-de-djibouti-telecom/) | Monopoly restated in the operator's own profile |
+| Djibouti Telecom statutory monopoly (loi 13/1998, loi 80/2004) | [Implemented](https://www.armd.dj/en/blog/armd-grants-authorization-to-netcatonline-73) | First authorisation to a competing operator, 22 March 2026 |
 | Horizon Fiber terrestrial corridor (Djibouti-Addis-Port Sudan) | [In development](https://www.lanation.dj/djibouti-telecom-ethio-telecomet-sudatel-telecom-group-signent-un-accord-strategique-pour-linitiative-horizon-fiber/) | Binding agreement signed in Djibouti, 4 February 2026 |
 | Internet exchange points (DjIX and AMS-IX Djibouti) | [Implemented](https://www.connectingafrica.com/data-centers/wingu-africa-secures-60m-to-fuel-east-african-expansion) | AMS-IX Djibouti launched alongside the existing DjIX |
 | Italian cable inspection and protection project (Med-Or, Piano Mattei) | [In development](https://www.med-or.org/news/il-ministro-bernini-a-gibuti-e-il-progetto-promosso-da-med-or-sullunderwater) | Project at the landing station reported during the Italian minister's mission, 3 August 2026 |
+| Universal Service Fund | [In development](https://www.armd.dj/en/blog/a-feedback-meeting-of-the-final-report-regarding-the-universal-service-fund-establishment-74) | Draft decree and operations guide delivered, April 2026 |
+| Mobile broadband affordability figure | ***Not held, searched 2025-11-17 - the annual global reference publication carries the basket methodology and global medians and no country figure in its own text*** | No national price figure on record |
 | Satellite broadband market authorisation | ***Not held*** | The incumbent's chief executive states there is no clear regulatory framework for new entrants; no licensing decision on file |
 
 ### Data Storage
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Central government data centre | [Implemented](https://documents1.worldbank.org/curated/en/099051424093541979/pdf/P1784611a050540f218c4c11bcae7dd96ba.pdf) | Recorded as fully operational |
+| Disaster-recovery site for the national payment system | [Implemented](https://documents1.worldbank.org/curated/en/331131646420868726/pdf/Djibouti-Governance-for-Private-Sector-Development-and-Finance-Project.pdf) | Hosting contracted with the national operator |
 | LinkWise AI compute centre and AI Special Economic Zone | [Planned](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Memorandum of understanding signed 19 July 2026, valid one year |
 | PAIX and Fonds Souverain JIB1 data centre | [Planned](https://w.media/paix-partners-with-djiboutis-sovereign-fund-to-build-data-centers) | Joint venture announced; nothing on file since |
 | Wingu TO7 data centre and cable landing station | [Implemented](https://www.wingu.africa/latest-news/djibouti-president-inaugurates-wingu-tier-3-carrier-neutral-data-centre) | Inaugurated 25 November 2024 |
@@ -123,7 +155,10 @@ No domestic figure had been on file against the 2026 loi de finances, which name
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Off-grid solar electrification of rural villages | [Implemented](https://www.dawan.africa/news/djibouti-launches-solar-project-to-support-rural-communities) | Second project launched, April 2026 |
+| Pacte national de l'energie | [Implemented](https://www.lanation.dj/le-pacte-national-de-lenergie-trace-la-voie-vers-lacces-universel-a-lelectricite-dici-2035/) | Validated at a national workshop, May 2026 |
 | Renewable generation for the AI compute zone | [Planned](https://www.lanation.dj/un-partenariat-strategique-pour-faire-de-djibouti-un-pole-regional-de-linnovation/) | Provided for in the LinkWise memorandum: solar, wind and storage |
+| Second Ethiopia-Djibouti power interconnection | [In development](https://www.afdb.org/en/documents/contract-awards-ethiopia-design-supply-and-installation-230kv-double-circuit-transmission-line-semera-substation-galafi-djibouti-border-ethiopia-djibouti-second-power-interconnection-project) | Transmission-line contract awarded, November 2025 |
 
 ### Cybersecurity
 
@@ -166,23 +201,34 @@ Cybersecurity has institutions ahead of evidence. The [Autorité Nationale de Cy
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Cross-border retail payment corridor with Ethiopia | [Planned](https://capitalethiopia.com/2025/09/21/santimpay-meras-djibouti-join-hands-to-strengthen-financial-services/) | Partnership signed 21 September 2025 |
 | D-Money mobile wallet | [Implemented](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/) | In service since June 2020 |
 | D-Money online payment gateway | [Implemented](https://www.lanation.dj/lancement-de-la-premiere-plateforme-en-ligne-a-djibouti-developpe-par-djibouti-telecom-a-travers-d-money/) | Launched under the Prime Minister's patronage, 10 December 2023 |
 | Smart Wallet national digital wallet (Visa, Tech5) | [Planned](https://idtechwire.com/djibouti-partners-with-visa-to-develop-national-digital-wallet) | Memorandum of understanding signed 16 September 2025 |
+| SYRAD real-time settlement and clearing system | [Implemented](https://banque-centrale.dj/infrastructures-ats/) | In service since 15 July 2021 |
+| Consumer-protection rules for digital payments | ***Not held, searched 2025-09-18 - the Digital Code carries electronic-commerce and personal-data titles with no payment-specific consumer regime, and the payment-system law confines itself to licensing and supervision*** | No payment-specific consumer regime on record |
 
 ### Registries
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-registry archive digitisation | [In development](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) | Digitisation running alongside enrolment; staffing and archive space named as the constraints |
+| Digitised land register (livres fonciers numerises) | [Implemented](https://www.journalofficiel.dj/texte-juridique/loi-n006-an-18-8eme-l-modifiant-et-completant-la-loi-n177-an-91-2eme-l-du-10-octobre-1991-portant-organisation-de-la-propriete-fonciere/) | Given legal effect in 2018 |
 | Fichier Unique of state personnel | [Implemented, under statutory update](https://www.journalofficiel.dj/texte-juridique/loi-de-finances-n203-an-25-9eme-l-portant-budget-initial-de-letat-pour-lexercice-2026/) | Update ordered by article 32 of the 2026 budget law |
 | Online company creation platform (ANPI) | [Implemented](https://www.lanation.dj/djibouti-lance-sa-plateforme-de-creation-en-ligne-des-entreprises/) | Launched by the Prime Minister, 26 January 2026 |
+| Postal three-word addressing service | [Implemented](https://www.laposte.dj/) | Offered by the postal service |
+| Registre Social | [Implemented](https://documents1.worldbank.org/curated/en/099020526154525280/pdf/P506969-8944364d-b716-457b-8444-723719632bd9.pdf) | Scaling component effective 26 August 2025 |
 
 ### Sectoral management information systems
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Court case-management system | [In development](https://www.undp.org/sites/g/files/zskgke326/files/2025-07/undp_djibouti_annual_report_en_v2.pdf) | Pilot under construction for minor offences |
+| DHIS2 health information system | [Implemented, under review](https://documents1.worldbank.org/curated/en/099041925105538435/pdf/P178033-d78154cd-d774-432b-a705-9636c8a8a3b0.pdf) | 69% of facilities entering data directly by 31 December 2024 |
+| GOSE education management information system | [Implemented](https://giga.global/impact/ai-as-a-tool-for-connectivity/) | School locations fully validated, April 2026 |
+| Integrated tax administration system | [In development](https://documents1.worldbank.org/curated/en/099012726115520907/pdf/P180696-28ecf2f4-34e9-4559-9695-f14bd83f8798.pdf) | Effectiveness of the follow-on project extended to 9 March 2026 |
 | Inter-hospital medical record sharing over the DFN fibre | [Implemented](https://www.lanation.dj/ali-sabieh-le-dfn-propulse-lhopital-regional-dans-une-nouvelle-ere-numerique/) | Ali-Sabieh regional hospital connected |
+| National geospatial information platform | [Implemented](https://www.lanation.dj/cloture-dun-projet-cle-pour-moderniser-la-gestion-de-linformation-geospatiale/) | Capacity project closed 9 December 2025 |
 
 ### Other GovTech and e-Gov
 
@@ -204,7 +250,17 @@ The state's own records are digitised on a state-funded programme running since 
 
 ## Digitalisation
 
-_The base holds no digitalisation rows for Djibouti. A thin evidence base is a finding, not a gap in this document._
+### Digitalisation of sub-national government
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Civil-status administration transferred to regional councils | [Implemented](https://decentralisation.gouv.dj/louverture-de-lantenne-detat-civil-dans-la-sous-prefecture-de-mouloud/) | Transfer at Mouloud, 27 April 2026 |
+
+### Rural digital data capture
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Digital records in rural police stations | ***Not held, searched 2024-06-30 - an independent evaluation of the platform intended to connect ministerial systems gives no evidence that police stations were connected or equipped*** | No station-level deployment on record |
 
 <!-- narrative: digitalisation -->
 The base holds no digitalisation rows for Djibouti. What is on record of service delivery outside the capital sits under DPI and Infrastructure rather than under a digitalisation programme of its own.
@@ -219,7 +275,7 @@ The base holds no digitalisation rows for Djibouti. What is on record of service
 | Cross-border data corridor between Shanghai and Djibouti | [Planned](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Named by the signing minister as a success indicator of the LinkWise memorandum |
 | First national artificial-intelligence strategy | [In development](https://www.adi.dj/article/138846) | National forum on artificial intelligence convened, with media briefed to cover it |
 | MAZU-Djibouti AI weather early-warning system | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Version 2.0 handed over on the sidelines of the World AI Conference, Shanghai |
-| Instrument governing artificial-intelligence systems in public use | ***Not held*** | No AI law, decree or procurement rule is held; the strategy in preparation is not an instrument |
+| Instrument governing artificial-intelligence systems in public use | ***Not held, searched 2026-01-29 - the Digital Code carries no artificial-intelligence provision and the national strategy remained in draft*** | No instrument on record |
 
 ### ICT Industry
 
@@ -245,20 +301,29 @@ The domestic sector is small and newly organised: the ministry [launched the LIM
 
 ## Capacity
 
+### Literacy
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| General-population digital-skills component of the Digital Foundations project | [In development](https://documents1.worldbank.org/curated/en/099021026071059349/pdf/P174461-c8bd0e28-2653-456e-845a-f8242ec8facc.pdf) | People-using-broadband indicator at zero on its February 2025 reading |
+
 ### Training and skills
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-service digital skills programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-launches-digital-skills-program-for-government-officials) | Programme launched with Djibouti Cloud Operator, Oracle University and INAP |
+| D-CLIC digital-skills training programme | [Implemented](http://www.education.gov.dj/index.php/categories-1-layout/item/417-ceremonie-de-cloture-des-formations-aux-metiers-du-numerique-21-octobre-2025) | 240 graduates, October 2025 |
 | Digital job matching for graduates | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs) | Digital route to connect graduates and recruiters, August 2026 |
+| Digital-transformation strategy for technical and vocational education | [Implemented](https://ifef.francophonie.org/djibouti-valide-sa-strategie-nationale-de-transformation-numerique-de-leftp/) | Validated at a workshop, 6 November 2025 |
 | E-SKILLS Digital Houses | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative) | Initiative announced across five inland regions |
 | Ecole 42 coding school | [In development](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation) | Project launched with the European Union, Expertise France and Association 42 |
+| STEM centres in secondary schools | [Implemented](http://mail.education.gov.dj/index.php?Itemid=1524&id=419%3Aceremonie-de-remise-de-kits-scolaires-et-de-machines-braille-a-l-eabs&lang=en&option=com_k2&view=item) | Two centres opened, September 2025 |
 
 ### Research institutions
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Public research programme in digital or data science | ***Not held*** | No research programme document, university centre mandate or published research output is held |
+| Public research programme in digital or data science | ***Not held, searched 2026-01-30 - the sole public university names research as a pillar of its own strategy without a digital or data-science programme in the text held, and the only recorded academic contribution is participation in a policy workshop*** | No programme on record |
 
 <!-- narrative: capacity -->
 No public research programme in digital or data science is held for Djibouti: no programme document, university centre mandate or published research output. The absence is what the record supports, and it sits oddly beside a national artificial-intelligence forum now being convened.
@@ -266,7 +331,14 @@ No public research programme in digital or data science is held for Djibouti: no
 
 ## Inclusion
 
-_The base holds no inclusion rows for Djibouti. A thin evidence base is a finding, not a gap in this document._
+### Access to services
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| E-Doleances complaint-management platform | [Implemented](https://www.doleances.arulos.dj/) | Operated by the urban rehabilitation agency |
+| Gender-sensitive digital-trade training programme | [Planned](https://igad.int/wp-content/uploads/2026/05/HDMI-In-Country-Call-for-Applications.pdf) | Call for applications opened, May 2026 |
+| Skills Development for Employment project | [Implemented](https://www.worldbank.org/en/news/feature/2026/04/20/where-training-meets-opportunity-djibouti-s-path-from-skills-to-jobs) | About 1,500 people trained |
+| Technical facility for refugee and host-community financial access | [Planned](https://www.afdb.org/en/documents/djibouti-technical-facility-enhance-financial-well-being-refugees-and-hosts-project-appraisal-report) | Appraisal report published, May 2026 |
 
 <!-- narrative: inclusion -->
 Connectivity reaches most of the population. DataReportal's Digital 2026 report puts [internet users at 772,000, a penetration of 65.0%, against 616,000 active mobile connections of which 92.4% are broadband, on data available in October 2025](https://datareportal.com/reports/digital-2026-djibouti). That is a reference study; no state figure for coverage or affordability is held.
@@ -280,6 +352,12 @@ The [E-SKILLS Digital Houses initiative covers five inland regions, 3,000 to be 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Displaced-population module in the national household survey | [In development](https://www.jointdatacenter.org/activites/displaced-populations-in-djibouti/) | Boosted sample and displacement modules added |
+| Institut de la Statistique de Djibouti | [Implemented](https://www.journalofficiel.dj/texte-juridique/decret-n2026-075-pr-mefi-portant-creation-du-statut-particulier-des-cadres-de-linstad/) | Statistics mandate restated by decree, 11 June 2026 |
+| Multiple Indicator Cluster Survey, seventh round | [In development](https://fr.linkedin.com/posts/institut-de-la-statistique-de-djibouti_mics7-lancementofficiel-statistiques-activity-7411930519883620355-xPnK) | Regional fieldwork began, December 2025 |
+| Observatoire de l'Emploi et des Qualifications | [Implemented](https://www.journalofficiel.dj/texte-juridique/decret-n2015-263-pr-mtra-portant-organisation-et-fonctionnement-de-lobservatoire-de-lemploi-et-des-qualifications/) | Founded by decree in 2015 |
+| Repertoire des localites et des populations residentes | [Implemented](https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/RGPH%2F0%2FTome%2020_Localit%C3%A9s%20et%20Populations%20r%C3%A9sidentes%20de%20Djibouti_18112025.pdf?alt=media&token=4d122ebf-70f1-4de4-8d13-0b20748795f5) | Published November 2025 |
+| Third General Population and Housing Census | [Implemented](https://djibouti.unfpa.org/fr/publications/le-rapport-des-r%C3%A9sultats-d%C3%A9finitifs-du-troisi%C3%A8me-recensement-g%C3%A9n%C3%A9ral-de-la-population) | Definitive results published |
 | Third national statistics development strategy (SNDS-3, 2025-2029) | [In development](https://www.lanation.dj/instad-validation-de-la-troisieme-strategie-nationale-de-developpement-de-la-statistique-2025-2029-snds-3/) | Validated at an INSTAD workshop, 29 April 2025 |
 
 ### Open data
@@ -289,12 +367,17 @@ The [E-SKILLS Digital Houses initiative covers five inland regions, 3,000 to be 
 | Djibouti Open Data platform | [Implemented](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | Hosts the national summary data page; access arranged through the African Development Bank |
 | IMF e-GDDS National Summary Data Page | [Implemented](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | Launched at the Banque Centrale de Djibouti, 12 June 2025 |
 | Journal officiel published online | [Implemented](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) | 126 years of the legal record digitised and published online |
+| Open-data and public-information reuse provisions of the Digital Code | [Implemented](https://www.journalofficiel.dj/wp-content/uploads/2025/09/code-numerique.pdf) | Published in the Official Journal, 18 September 2025 |
+| Portail interactif territorial | [Implemented](https://www.geohorn.org/portail_djibouti/) | Launched January 2026 |
 
 ### Use of satellite data
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Earth-observation or geospatial data programme | ***Not held*** | One AI weather system on file and no programme document; no national geospatial mandate held |
+| Agence Nationale de la Meteorologie | [Implemented](https://www.journalofficiel.dj/texte-juridique/decret-n2012-167-pr-met-portant-mission-et-organisation-de-lagence-nationale-de-la-meteorologie-de-djibouti/) | Founded by decree in 2012 |
+| HYDROSAT national satellite programme | [Implemented](https://spatialdjiboutien.net/hydrosat/) | Second nanosatellite launched 21 December 2024 |
+| MAZU-Urban multi-hazard early-warning system | [Implemented](https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202512/t20251226_7514696.html) | Commissioned 18 December 2025 |
+| Regional crop monitoring and forecasting service | [Planned](https://necjogha.net/igad-seeks-consultant-for-crop-monitoring-and-forecasting-to-strengthen-food-systems-resilience/) | Consultancy sought, March 2026 |
 
 <!-- narrative: data -->
 No earth-observation or geospatial programme is held for Djibouti. One artificial-intelligence weather system is on file and no programme document behind it, and no national geospatial mandate.
@@ -302,11 +385,23 @@ No earth-observation or geospatial programme is held for Djibouti. One artificia
 
 ## Geopolitics
 
+### US / hyperscaler activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| United States hyperscaler engagement | [Implemented](https://cloud.google.com/blog/products/infrastructure/announcing-the-blue-and-raman-subsea-cable-systems) | Cable announced with Djibouti on its route |
+
 ### China activities
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Industrial and artificial-intelligence cooperation roadmap with China | [Planned](https://www.adi.dj/article/138698) | Presented to Chinese counterparts and China Exim Bank in Beijing, June 2026 |
+
+### EU activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| European Union country partnership | [Implemented](https://global-gateway-forum.ec.europa.eu/news/global-gateway-forum-accelerating-digital-transformation-through-imec-eu-africa-india-digital-2025-10-10_en) | Digital corridor presented at the Global Gateway Forum, October 2025 |
 
 ### Gulf/UAE activities
 
@@ -318,7 +413,7 @@ No earth-observation or geospatial programme is held for Djibouti. One artificia
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Indian digital cooperation with Djibouti | ***Not held*** | No India-Djibouti digital agreement, line of credit or programme document is held |
+| Indian digital cooperation with Djibouti | [Implemented](https://escindia.in/blog/event/national-forum-on-artificial-intelligence-djibouti) | Indian companies invited to the national artificial-intelligence forum |
 
 <!-- narrative: geopolitics -->
 No India-Djibouti digital agreement, line of credit or programme document is held. The country's external digital relationships that the base does hold run through cable transit and are carried under Infrastructure.
@@ -329,15 +424,16 @@ No India-Djibouti digital agreement, line of credit or programme document is hel
 | System or instrument | What would settle it | Last probed |
 |---|---|---|
 | Satellite broadband market authorisation | A licensing decision or authorisation register from the telecommunications regulator, or a ministerial statement on satellite market entry. | not yet probed |
-| Earth-observation or geospatial data programme | A national earth-observation or geospatial-data programme document, or an agency mandate covering satellite data. | not yet probed |
 | Commission nationale de protection des donnees (CNDP) | The decree constituting the CNDP, its membership, its public register of processing, or any published opinion or authorisation. | 2026-08-09 |
 | Instrument governing police body-camera footage | The arrete, protocol or CNDP authorisation governing body-camera recording, retention and access. | not yet probed |
 | Startup Act implementing decrees | The implementing decrees under Loi n 179/AN/25, or the first arrete awarding the Startup label. | 2026-08-09 |
-| Public debate and civil-society record on digital governance | A civil-society, parliamentary or press-freedom account of digital governance in Djibouti. | not yet probed |
-| Instrument governing artificial-intelligence systems in public use | An AI law, decree, procurement rule or published national AI strategy document. | not yet probed |
-| Indian digital cooperation with Djibouti | Any India-Djibouti digital cooperation agreement, line of credit or programme document. | not yet probed |
 | Gulf-state digital investment or cooperation instrument | A Gulf-state investment, financing or memorandum covering Djiboutian digital infrastructure. | not yet probed |
-| Public research programme in digital or data science | A public research programme, university research-centre mandate or published research output in digital or data science. | not yet probed |
+| Access-to-information law | A freedom-of-information or access-to-information act, or a bill before the National Assembly. | 2026-04-01 |
+| Mobile broadband affordability figure | A national price for a data-only mobile broadband basket, from the regulator, the operator or the telecommunications union price database. | 2025-11-17 |
+| Consumer-protection rules for digital payments | A central-bank instruction or code provision on redress, disclosure, fee transparency or dispute resolution for electronic money and digital payments. | 2025-09-18 |
+| Digital records in rural police stations | A deployment record, equipment list or connectivity figure for police stations outside the capital. | 2024-06-30 |
+| Public research programme in digital or data science | A university research-centre mandate, a funded research programme or a published research output in digital or data science. | 2026-01-30 |
+| Instrument governing artificial-intelligence systems in public use | An artificial-intelligence law, decree or procurement rule, or the adopted national strategy text. | 2026-01-29 |
 
 <!-- narrative: gaps -->
 The gaps cluster in the distance between an instrument existing and one operating. Four concern machinery the Digital Code and the Startup Act created — the data-protection commission, the implementing decrees, the rule governing body-camera footage, and any instrument covering artificial intelligence. Two of the four, the commission and the decrees, were probed on 9 August 2026 and returned nothing. The domestic-budget gap that stood alongside them was settled outside the probe cycle: the Council of Ministers' record of the ANSIE 2026 budget arrêté, approved 30 December 2025, put a figure on file, and the row is no longer carried here. The other eight were not probed.
