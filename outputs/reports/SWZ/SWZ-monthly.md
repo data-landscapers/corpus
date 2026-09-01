@@ -3,9 +3,9 @@ title: Eswatini — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: SWZ
-ledger_rows: 18
-not_held: 7
-record: 3fafc9b2c514
+ledger_rows: 29
+not_held: 4
+record: a3b9818c0f04
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -39,10 +39,23 @@ The next day ESCCOM, as the data protection authority, [began validating draft a
 
 In August the same rule-making reached a second sector and produced a ranking. A week-long workshop [validated draft sector data-protection guidelines and produced a proposed whistle-blower-protection framework, with the regulator naming the financial sector as the leading source of personal-data breaches](https://times.co.sz/41235/news/financial-sector-tops-customer-information-leaks/) — through misdirected statements and invoices, and cybersecurity incidents exposing customer records. No breach count, penalty or enforcement action is published behind the ranking, and the draft guidelines are not held.
 <!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The King was [elected Chairperson of the SADC Organ on Politics, Defence and Security Cooperation](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026) at the bloc's 46th summit in Durban on 17 August. It is a security portfolio, not a digital one, and no ICT or data responsibility attaches to it in the communique.
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+A domestic internet provider put [E570,000 into free wireless access across the nine-day national trade fair](https://eswatinipositivenews.online/jenny-internet-boosts-eitf-2026-with-e570-000-wifi-sponsorship/), its third consecutive year as official sponsor. It is the month's only new private digital commitment on this ledger, and it is a sponsorship rather than an investment.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -55,10 +68,24 @@ The one dated position here is a standing statutory right rather than a change. 
 
 ## DPI
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The home affairs ministry [asked citizens to check that the chief code on their identity documents matches their actual chiefdom](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/), warning that an incorrect code creates difficulty in reaching government services. Six months after card production resumed from a technical suspension, the maintenance question has moved from the machine to the record.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the base holds that the rail changed hands technically and nothing about what that cost its users.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+Civil registration completeness reached [61 per cent of births and 62 per cent of deaths in 2025](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/), against 8.3 and 26.5 per cent in 2016, announced at the ninth Africa civil registration day. The underlying annual report is not held as a downloadable publication.
+
+The social registry began its [second regional rollout in Lubombo on an E41.7 million data-collection exercise](https://eswatinipositivenews.online/e41-7m-imbeleko-rollout-targets-vulnerable-households-in-lubombo/), two of four regions in two years.
+
+The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
