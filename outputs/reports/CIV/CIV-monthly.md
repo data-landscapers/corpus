@@ -15,7 +15,9 @@ record: 5cd41679066b
 ## Summary of the month
 
 <!-- narrative: summary -->
-July brought the trust layer and the market layer within eight days of each other. The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/), announced on 23 July, and a low-orbit satellite operator [went on sale by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) on a twelve-month provisional licence. The data-protection compliance platform went live on 2 July, all 39 first-instance tribunals were connected on 29 June, and the United States announced [formal authorisation of a US$170m data-centre and border-surveillance package](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) on 16 July.
+Registry and connectivity work reached places rather than announcements. The civil-registry agency [handed 283 birth-registration terminals to health workers in the Tonkpi region](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) and [opened an agency inside a Yopougon shopping centre](https://www.oneci.ci/actualites/1787127124), while the rural connectivity programme [commissioned its first phase at Djebakaha and launched two more, against a target of 575 localities](https://techafricanews.com/2026/08/28/cote-divoire-68m-rural-connectivity-programme-targets-575-localities/).
+
+Money and institutions moved with them. The government [authorised a United States technology firm to run a US$170m digital-infrastructure programme](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/), with no contract, component list or timetable held; [a five-year telecommunications and digital-infrastructure memorandum with an Indian company was executed on 19 August](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356); the space agency [gained its inaugural director general](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); and the universal-access agency [unveiled a strategic plan for 2026-2030](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/).
 <!-- /narrative -->
 
 ## Governance
@@ -41,12 +43,12 @@ The regulator [validated a harmonised procedure for handling consumer complaints
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-On 29 July the agency [set a target of 1,200 certified cyber-security specialists in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/), with 88 auditors certified that day.
+Migration data was the month's standards work, and it is regional. Two workshops [ran at Abidjan from 18 to 22 August on harmonising migration and macroeconomic data across the regional bloc](https://ang.gw/cote-divoire-cedeao-rumo-a-harmonizacao-dos-dados-migratorios-e-macroeconomicos/). A national migration data governance strategy [was named by the diaspora directorate at a profiling workshop](https://www.linfodrome.com/societe/124564-cedeao-abidjan-accueille-une-reunion-regionale-sur-les-donnees-migratoires-et-la-mobilite-internationale), but no text, timetable or adopting instrument is held for it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-A consumer federation [launched a complaints platform on 30 July](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) charging FCFA 150 per report, with eight stages from filing through mediation to published reports.
+The month's one entry here is research rather than an instrument. A study [documented cyclical online gendered violence against election candidates in this country and one other](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/). No regulatory response, platform obligation or reporting route stands against it on the ledger.
 <!-- /narrative -->
 
 ## Finance
@@ -80,9 +82,7 @@ The rural programme's own account reached the base for the first time. Its [firs
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) on an announcement dated 23 July 2026, on the legal basis of the 2013 electronic-transactions law and its 2014 and 2016 decrees. It is the trust anchor for every certification authority operating on Ivorian territory; the agency's own notice is not held, so the technical commissioning date is unestablished.
-
-The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given.
+The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given, so the gap can be stated and the progress against it cannot.
 <!-- /narrative -->
 
 ## DPI
@@ -124,7 +124,7 @@ August turned to the supply side and to the state's own paperwork. The ministry 
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-Six francophone West African states adopted common artificial-intelligence governance guidelines announced on 6 July, non-binding and complementary to national strategies, submitted as a written contribution to a United Nations dialogue. The minister addressed that dialogue in Geneva on 6 and 7 July and proposed a regional African school of artificial intelligence.
+The meteorological agency [signed a memorandum with China's meteorological administration at Shanghai](https://www.aip.ci/cote-divoire-aip-la-sodexam-signe-un-memorandum-dentente-avec-ladministration-meteorologique-chinoise/). It is a cooperation instrument rather than a system: no scope, model, data-sharing term or duration is published.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -154,5 +154,5 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-A guarantee arrangement was the month's only committed money in this section. Two conventions signed on 23 July mobilise [up to FCFA 17bn across two windows](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) for small and medium enterprises, with stated attention to women's entrepreneurship; it is an envelope rather than a committed sum.
+Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
 <!-- /narrative -->

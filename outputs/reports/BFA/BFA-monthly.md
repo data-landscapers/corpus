@@ -15,7 +15,9 @@ record: 962178008d36
 ## Summary of the month
 
 <!-- narrative: summary -->
-The legislature [voted a data-protection law and an organic law merging the broadcasting regulator with the data-protection commission on 3 August 2026](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/); neither is promulgated. Two days earlier, automated traffic enforcement went live and [detected 1,099 offences in its first twelve hours](https://lefaso.net/spip.php?article148326). The Council of Ministers adopted three decrees on 30 July — mass biometric enrolment, critical-infrastructure classification and security-audit accreditation — and the digital ministry [put 120 externally hosted public platforms on the record for the first time](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/).
+Two laws were voted and neither is promulgated. The legislative assembly [passed a data-protection law and an organic law merging the broadcasting regulator with the data-protection commission on 3 August](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/), which would close two institutions and open one, and announced dedicated artificial-intelligence regulation to follow the national roadmap.
+
+Enforcement went live first. Automated traffic enforcement [started at midnight on 1 August and detected 1,099 offences in its first twelve hours](https://lefaso.net/spip.php?article148326), collecting through the national payments platform â€” a working chain from detection to payment, running under a data-protection law that has not been promulgated. The cybersecurity estate is measured but unfunded: [205 public platforms were put through security testing under the critical-infrastructure programme](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-205-plateformes-publiques-testees-pour-renforcer-la-cybersecurite), while the national computer emergency response team [has no appropriation in the 2024, 2025 or 2026 budget volumes](https://lefaso.net/spip.php?article148338).
 <!-- /narrative -->
 
 ## Governance
@@ -43,7 +45,7 @@ The same organic law creating the merged communications and data-protection auth
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A digital acceleration project stated on 13 July that it will support connectivity to [1,000 localities in 2026](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/) against nearly 2,000 still without mobile or internet service, expected to benefit one and a half to two million people, most of them rural. No regulator or ministry primary states whether that count is of telecom sites or of localities served.
+The regional development bank's Digital Transformation Fund [was presented to public administrations on 18 and 19 August, with its programme site and eligibility terms published](https://ftd.boad.org/). No allocation to this country, application window or committed amount is stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -100,9 +102,9 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-At a regional digital salon on 14 to 16 July, the monetary union's commission announced it would prepare a community artificial-intelligence strategy, counting this country among four member states already holding a national one — a count another source published five days earlier contradicts. An operator pitched credit scoring built on mobile-money patterns at the same event; no model-disclosure duty or contestation route for an automated refusal is on file. Six francophone West African states adopted common governance guidelines announced on 6 July, non-binding and complementary to national strategies.
+Automated enforcement produced the month's only measurement of a system deciding for itself: [1,099 offences detected in the first twelve hours of operation](https://lefaso.net/spip.php?article148326), with no accuracy, contest route or false-positive figure beside it.
 
-Asked in plenary where AI sat in the new data-protection law, the justice minister said it was already integrated via the ban on transferring sensitive data abroad, with the national roadmap to become dedicated regulation later.
+Asked in plenary where artificial intelligence sat in the new data-protection law, the justice minister said it was [already integrated through the ban on transferring sensitive data abroad, with the national roadmap to become dedicated regulation later](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). No draft, timetable or scope for that regulation is on file.
 <!-- /narrative -->
 ### Innovation ecosystem
 

@@ -15,9 +15,9 @@ record: b5806d88800f
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two things were approved and four institutions were stood up. Project Kobong was [approved and launched at a ceremony hosted by the US Embassy on 31 July 2026](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/), and on 29 July MICSTI and the Lesotho Communications Authority [launched an interim national CSIRT and the inaugural National Cybersecurity Forum](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/), alongside a first Chief Information Security Officer across government and a Security Operations Centre being stood up.
+Four cybersecurity institutions were stood up ahead of their statute. The ministry and the communications authority [launched an interim national computer security incident response team and the inaugural National Cybersecurity Forum, appointed a first government chief information security officer and began standing up a security operations centre](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/), while the Cybercrime and Cybersecurity Bills remain before the National Assembly.
 
-On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-based investment on 22 July, and Econet Telecom Lesotho and UNDP [signed a memorandum on 28 July](https://lestimes.com/?p=91121) that names a National AI Academy. Drafting of a National Data Value Creation Blueprint [opened at a consultative workshop on 14–15 July](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/), and in the window's closing week a [six-ministry workshop in Maseru began drafting a national data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) with UN and World Bank support.
+Two builds and a platform followed. Project Kobong, a hydropower and artificial-intelligence data-centre scheme, [was approved and launched at a ceremony hosted by the US Embassy](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/); a Maseru workshop [opened drafting of a national artificial-intelligence strategy and a data-centre implementation roadmap on 17 August](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/); and the [National Single Window was launched at Maseru on 24 August](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/). Against them, a freeze on refugee identity documents [is reported to have left families stranded and bank accounts frozen](https://lestimes.com/?p=91350).
 <!-- /narrative -->
 
 ## Governance
@@ -78,21 +78,17 @@ A freeze on refugee identity documents is reported to have left [families strand
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Vodacom Financial Services and STANLIB Lesotho launched [Tsetela](https://lestimes.com/?p=91054) at the Mpilo Boutique Hotel in Maseru on Wednesday 22 July 2026 — the date fixed by [Vodacom Lesotho's own announcement of that day](https://www.linkedin.com/posts/vodacomlesotho_mpesa-tsetela-financialinclusion-activity-7485718047811489792-WV1A), against two press accounts that dated it relatively. Eligible individual M-Pesa customers can invest from M50 and Mokhatlo group-savings customers from M300, with balances, daily interest and withdrawals over USSD on *200#. STANLIB Lesotho is licensed by the Central Bank of Lesotho, with segregated investor funds, annual audit and an independent trustee.
-
-Standard Bank's [extension of CIPS renminbi settlement](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) beyond South Africa, reported on 27 July, names Lesotho as one of five added markets.
+The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being rolled out and not how far it has reached.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
+The national commission [advertised a consultancy to strengthen its capacity to coordinate national monitoring and evaluation reporting](https://selibeng.com/consultant-to-strengthen-nac-capacity-to-coordinate-national-me-reporting/). A tender for the capacity to coordinate reporting is itself a statement that the reporting is not coordinated; no scope, budget or deliverable date is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-MICSTI hosted the [first national stakeholder consultative workshop on a National Data Value Creation Blueprint](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) in Maseru on 14–15 July 2026, opened by Principal Secretary Kanono Ramashamole and supported by Smart Africa, the African Union and the German Embassy. A Smart Africa representative is reported saying Lesotho had been selected to participate in the programme alongside Senegal and Kenya; that account of a spokesperson's remarks is the only evidence held for the membership, and no Smart Africa programme document naming Lesotho is on file.
-
-At the CSIRT launch the ministry also stated a plan to move ICT services out of the civil service into a separate agency, for which no enabling instrument or date was given.
+At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
 <!-- /narrative -->
 
 ## Digitalisation

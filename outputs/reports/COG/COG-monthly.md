@@ -15,11 +15,9 @@ record: 0c0b682f3510
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two compulsory revenue systems came into effect within five weeks. Certified electronic invoicing became [mandatory for every economic agent on 1 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), and on 3 August the [public-revenue platform went live for online payment of taxes, levies and customs duties](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), on an order that makes it the sole lawful channel. The treasury single account meant to centralise those receipts was still being finalised on the day the platform opened.
+Revenue systems and the payroll carried the month. The public-revenue platform [went live for online payment of taxes, levies and customs duties after its pilot cohort completed](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), while [the treasury single account meant to centralise those receipts was still being finalised on the day it opened](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/) â€” a collection rail running ahead of the account it collects into.
 
-The country's cybersecurity strategy and national training plan went [out to open international tender on 23 July, bids closing 2 September](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), financed by a European bank through the transformation project. The country has had a cybersecurity agency since 2019 and neither document exists.
-
-A ministerial adviser published a [digital roadmap of five ambitions and nine programmes on 28 July](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses), with delivery placed in an interministerial task force. It is a signed opinion piece, not an adopted instrument.
+The payroll is where the record is unusually candid. Its operator's minutes and a Senate disclosure [put duplicate payroll numbers and deceased or retired staff still drawing salaries on the record](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/), with an integrated civil-status system presented as the structural fix, its software validated and its deployment unfunded. Elsewhere customs digitalisation [was handed to a Nigerian firm on a 20-year, US$3.1bn concession signed at Abuja](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160), and a public-administration digitalisation task force [was gazetted on 6 August](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf) with no session yet on record.
 <!-- /narrative -->
 
 ## Governance
@@ -27,12 +25,12 @@ A ministerial adviser published a [digital roadmap of five ambitions and nine pr
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-A [public-finance digital transformation steering committee met for the first time on 15 July](https://www.finances.gouv.cg/fr/articles/ouverture-du-copil-de-la-transformation-num%C3%A9rique-de-la-gestion-des-finances-publiques), chaired by the minister and seating the directors-general of the revenue authorities, on improving revenue collection, securing public funds and raising the quality of public spending. And the [ministry's roadmap places delivery in an interministerial task force under the Prime Minister rather than the ministry acting alone](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses); a separate nine-point ministerial list of 10 July is not reconciled with it.
+The education ministry's digital roadmap [was validated at a Brazzaville workshop on 19 August](https://www.adiac-congo.com/content/education-la-feuille-de-route-sur-le-numerique-validee-171319). Validated is not adopted: no text, budget line, sequencing or implementing body is published with it.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Namibia's cabinet [approved an ICT cooperation memorandum and authorised its minister to sign](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/); no Congolese source, approval step or text is held.
+The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the base holds is that two regulators have agreed to cooperate.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -57,9 +55,9 @@ What the regulator does have is an enforcement record. It [dismantled a sixth SI
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-Regionally, an [interoperable QR-code standard launched at Douala on 29 July](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any application scan any merchant code across the six member states; no country-specific adoption figure is held. The same roadmap names an [inter-administration data exchange platform among three digital public infrastructure foundations](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+One exchange went into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), focal-point training having completed in Brazzaville beforehand. No supplier, custodian or results-publication date is stated, and the platform is not publicly accessible on the record held.
 
-One exchange did go into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), with focal-point training completed in Brazzaville on 15 July with UNDP support. No supplier, custodian or results publication date is stated, and the platform is not publicly accessible on the record held.
+The larger exchange was contracted out. Customs-procedure digitalisation under the continental free-trade agreement [was awarded to a Nigerian firm on a 20-year concession valued at US$3.1bn, signed at Abuja](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160). No revenue share, data-ownership term or exit provision is published for a twenty-year hold over the state's customs data.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -79,7 +77,7 @@ Health acquired equipment rather than a system. On 7 August the Global Fund and 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-Compulsory electronic invoicing took effect on 1 July for [every economic agent except the state, local authorities on public-service missions and diplomatic bodies](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), three months after its enabling decree, with no phase-in by firm size and no assisted or offline route stated on the accounts held. On the same date a [user guide for the tax filing portal fixed filing regimes, delegation and irreversible submission](https://www.finances.gouv.cg/fr/download/file/fid/10535): one delegate at a time, the legal representative's own rights removed for the duration, and no correction route once a return is sent. The same roadmap [commits civil status, passport, criminal record and company creation as digitised priority services within two years](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget â€” an instrument creating a body, with the work still to be defined.
 <!-- /narrative -->
 
 ## Capacity
@@ -95,7 +93,7 @@ Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-One statistical build opened: the [quarterly labour-market and informal-sector survey entered its preparatory phase](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792), with four series of indicators a year planned — a first for the country — and no fieldwork date, sample or budget stated.
+The quarterly labour-market and informal-sector survey moved from preparation into regional alignment: a [harmonisation workshop opened on 19 August, running to 27 August, on aligning the region's labour statistics with international standards](https://www.aci.cg/afrique-centrale-statistiques-les-pays-disposes-a-aligner-les-statistiques-du-travail-sur-les-normes-internationales/). Four series of indicators a year are planned, a first for the country, and no fieldwork date, sample or budget is stated.
 <!-- /narrative -->
 ### Use of satellite data
 

@@ -15,7 +15,9 @@ record: 672239aff8f3
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two things in this period bear on everything else Burundi is building. The regulator [conceded on 3 August 2026 that internet quality is degraded and set out six causes, four of them electricity](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/). And an [access-to-information bill was listed on the National Assembly's order paper for the session opened the day before](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/), the first dated marker the base holds for it. In between, the consumer association reported that the regulator's [own injunctions on consent had changed nothing](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), the civil-service ministry [published its own list of what its reform has not delivered](https://lerenouveau.bi/administration-publique-des-reformes-strategiques-en-cours-pour-une-administration-plus-efficace-tournee-vers-les-citoyens/), and the [first documented AI-governance workshop was run by an alumni association, not a regulator](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/).
+Payments were the month's substance and electricity its limit. The national instant payment system [had 17 of 78 licensed institutions live by 4 August](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank), the central bank [acceded to the pan-African payment and settlement system with four domestic banks authorised](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and it [told the regional governors it expects to join the East African cross-border payment network by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616). Against three rails opening, traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/).
+
+The regulator says the same thing about connectivity. It [conceded on 3 August that network quality is degraded and named six causes, four of them electricity](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), and later told a workshop that [internet use in the country is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/) without publishing a figure. On the legislative side an [access-to-information bill was listed on the National Assembly's order paper](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) and [consultation opened on a law regulating social-media influencers](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/).
 <!-- /narrative -->
 
 ## Governance
@@ -30,7 +32,7 @@ The ministry opened consultations on the country's first dedicated framework for
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Vietnam's science and technology ministry [received Burundi's governing-party secretary-general on 28 July 2026 and pressed for faster implementation of the November 2024 memorandum](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). The channel runs through the party rather than the ministry. Vietnam asked Burundi to create conditions for Lumitel, its own operator's subsidiary, to contribute more; Burundi named postal-system modernisation and internet infrastructure as its priorities. No monetary commitment was announced.
+Two regional processes opened and neither has a text. A technical team [agreed on 3 August, during the continental free-trade secretariat's mission to Bujumbura, to produce a country profile and an implementation roadmap](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/), and [consultation was held in Bujumbura on a memorandum for cross-border health-security cooperation with the regional authority](https://igad.int/igad-and-burundi-push-for-stronger-regional-health-security-through-cross-border-cooperation/). Neither carries a signature, a date or a funding line.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -60,7 +62,9 @@ It is being built onto a base that already reaches most children: [84% of under-
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The same EAC central bank governors [agreed to accelerate the East African Monetary Union roadmap and welcomed progress on the Regional Cross-Border Payment System Master Plan](https://www.rtnb.bi/?mypost?id=529). On their own account the plan's first activities are work plans and resource mobilisation — design, not deployment.
+Three payment rails moved. The national instant payment system, launched publicly in April, [had 17 of 78 licensed institutions live by 4 August, five commercial banks and ten microfinance institutions among them](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank). The central bank [acceded to the pan-African payment and settlement system, with four domestic banks authorised to participate](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and [told the regional governors it expects to join the East African cross-border payment network by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616).
+
+At the counter, none of that reaches the constraint. Traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/), which is the same limit the regulator names for network quality.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -70,7 +74,7 @@ The one new management system in the window sits outside the state's own stack. 
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The civil-service ministry [put a set of digitisation claims on the record on 31 July and published the constraints against them](https://lerenouveau.bi/administration-publique-des-reformes-strategiques-en-cours-pour-une-administration-plus-efficace-tournee-vers-les-citoyens/), which is the more useful half. The programme covers performance evaluation of public agents, a job-classification scheme, an annual costed work plan used across public institutions, progressive interconnection of administrative services, and one-stop service desks. The ministry itself names archive management as still largely manual, service digitisation as unfinished and working tools as insufficient. Citizens interviewed framed digitisation as a distance problem: fewer journeys for people living far from administrative centres.
+The revenue authority's online tax platform, live since January, [became the exclusive channel for new taxpayer registrations from 4 August](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/). Making a channel exclusive is the point at which a platform's availability becomes a condition of registering at all, and no fallback, uptime figure or exemption is stated.
 <!-- /narrative -->
 
 ## Inclusion
@@ -78,7 +82,7 @@ The civil-service ministry [put a set of digitisation claims on the record on 31
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-ABUCO's [statement of 28 July 2026](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) is the month's one dated position on affordability: internet package tariffs have more than doubled since the January 2025 instruction to operators to improve service, while quality fell, and it runs against the service obligations that instruction set. Its president describes the sector as having returned to the situation of the early 2000s and names businesses, traders and public administrations among those affected. The two sources on file attribute that instruction differently, one to the telecommunications ministry and one to the interior minister; no text of it is held.
+A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
 <!-- /narrative -->
 ### Digital divides
 

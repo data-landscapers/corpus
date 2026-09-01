@@ -15,9 +15,9 @@ record: 22735a37c84b
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two threads run through the window. The identity programme moved from card to travel document and from decree to build: [passport enrolment opened on 16 July](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), the [restructured WURI project was set out with its three statutory registers and its new agency](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), a [technical mission went to Burkina Faso to study its identification stack](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/), and in August the population register's awareness tour took the statutory texts to the regions, [officially launched at Dosso on 14 August](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/).
+Identity ran through the month as an institution rather than a launch. The national registration and identification agency [is created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and its awareness tour took the statutory texts to the regions â€” Dosso on 14 August, then [Tillaberi as the third stop on 19 August](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/) â€” while a technical mission [went to Burkina Faso to study its identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/).
 
-The second is administrative consolidation onto state platforms: the [integrated human resources and payroll system was presented with its first digitisation figures](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/), and [student grants are to be routed through the Treasury's own application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/).
+The other thread is hardware and skills. The electronics assembly plant at Hamdallaye [was put at 63% complete and due in service by the end of October](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre), a university at Diffa [opened the workshop validating its innovation hub's project document](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/), and a digital-skills caravan [trained 140 young people at its Tahoua stage](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/). A mobile operator [launched an international transfer service on its money platform](https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html).
 <!-- /narrative -->
 
 ## Governance
@@ -30,7 +30,7 @@ On 30 July a Nigerien technical mission led by the interior ministry's secretary
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-On 27 July the regulator's verification campaign opened against the [mises en demeure served on all four mobile operators on 10 June 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/). [Persistent breach exposes an operator to a fine of 1 to 3% of prior-year turnover, partial or total licence suspension, a shortened licence term, or definitive withdrawal by the Council of Ministers](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/).
+The regulator's quality-of-service thresholds are not held. Its 2021 annual report [names the decision that sets them and what it does, but not its threshold values](https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf), and the regulator's own site does not surface the 2026 formal notices either. The standard the operators are being measured against cannot be read off the record, and neither, therefore, can the finding that they failed it.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -46,9 +46,7 @@ On 27 July the telecommunications regulator [opened a second drive-test campaign
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-On 16 July the [president was the first enrollee for the AES biometric passport](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), a second phase after the identity card, in five categories — ordinary, service, diplomatic, refugee and Hadj — produced by the police security directorate with a Libyan supplier and a local partner; the [prime minister enrolled on 23 July](https://anp.ne/passeport-biometrique-aes-le-premier-ministre-nigerien-zeine-senrole/).
-
-On 27 July an account of the [restructured WURI-Niger project](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) set out the four instruments of April and May 2026 behind it — the civil-status ordonnance and its application décret, and the two décrets creating and chartering ANEI — and the three registers they establish, with population-register enrolment starting in Niamey's five arrondissements.
+The identification agency exists in law. It [was created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and a national awareness tour is taking the civil-status and identification reforms to the regions, officially launched at Dosso on 14 August. No enrolment figure, budget or operating date for the agency is published, so what has moved is the instrument and not yet the register.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -91,7 +89,7 @@ The innovation estate gained a site and not yet a hub. A university at Diffa [wa
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-Skills work in the window travelled rather than sat still. The Niger Digital Day caravan [opened its Maradi stage as a two-day youth digital-skills programme its organisers say will run in all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/). Coverage and reach are the organisers' own figures and no per-stage completion count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
+Skills work travelled rather than sat still. The Niger Digital Day caravan [trained 140 young people at its Tahoua stage on 25 August](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/), one leg of a programme its organisers say will run in all eight regions and reach more than 800 young people. Coverage and reach are the organisers' own figures and no completion or follow-up count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
 <!-- /narrative -->
 ### Research institutions
 

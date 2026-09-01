@@ -15,13 +15,9 @@ record: 9dab74ee4546
 ## Summary of the month
 
 <!-- narrative: summary -->
-The data-protection commission issued a [determination and enforcement notice against the public service management directorate on 17 July 2026](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/), taking the government payroll portal offline. It is the first published enforcement against a government body, and the portal has no reopening date.
+Payments and cross-border links carried the month. Three payment products entered service â€” [a cashless payment and financing partnership for taxi operators](https://businessweekly.co.bw/companies-markets/absa-opens-new-financing-cashless-payment-opportunities-for-taxi-operators), [a wallet-linked card](https://www.connectingafrica.com/fintech/mukuru-launches-mobile-wallet-linked-visa-card-in-botswana), and [e-commerce acceptance for a foreign card scheme extended across nine African markets](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) â€” all three private, and none of them a public rail.
 
-The public accounts committee was told on 30 July that the [national public key infrastructure is funded, begun, incomplete and non-operational](https://weekendpost.co.bw/p420-million-digital-bombshell/): P423m secured, control transferred to the intelligence directorate, no working system, no timeline and no accountable owner.
-
-A parliamentary answer of 28 July attributed identity-card delays to [too few production staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439), running since the start of 2026 with no backlog figure and no restoration date.
-
-Two instruments were made rather than reported on: a [national e-waste management strategy launched with an inter-agency memorandum on 13 July](https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement), carrying no targets or budget, and the [first phase of a regional fibre corridor carrying traffic from 6 July](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V).
+Regional agreements were the other half: [an ICT memorandum with Namibia signed at Kasane on 7 August](https://observer24.com.na/trans-kalahari-4g-rollout-requires-n52m/), alongside the completed cross-border fibre interconnection it sits over, [an innovation memorandum with South Africa](https://www.mmegi.bw/business/botswana-sa-strengthen-cross-border-innovation/news), and [a regional tourism univisa agreement approved at the SADC summit on 17 August](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026). Domestically the statistics office [launched its second statistics development strategy for 2026-2030](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), and the health ministry [signed a ten-year health-systems partnership with a foreign operator](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/).
 <!-- /narrative -->
 
 ## Governance
@@ -69,17 +65,17 @@ The month's three payments developments are all commercial and narrow. A commerc
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Against those two, one registry system entered testing this month. The electoral commission's [elections management system is built and under extensive testing, replacing platforms developed in the 1990s, for deployment at the 2029 general election](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/); no supplier, cost or acceptance date is held, and the commission's secretary separately states as personal opinion that Batswana do not want electronic voting machines.
+The vital-statistics report [describes the births and deaths registration system as partially automated and decentralised](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) â€” a description of the system rather than a change to it. Separately, government [committed in Parliament on 19 August to an electoral-reform package including electronic voter registration](https://allafrica.com/stories/202608190305.html), with no bill, supplier, cost or date attached.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-In the week of 13 July an [animal disease surveillance dashboard was launched, integrating the traceability system with district veterinary networks](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news); the source is a paywalled lede and no coverage or user figure is held.
+The health ministry [signed a ten-year strategic partnership with a foreign health-systems operator](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The announcement is the counterparty's; no contract value, list of systems, data-handling terms or governance arrangement is published, so a ten-year commitment sits on the ledger with nothing describing what it obliges either side to do.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated. Separately, a tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
+A tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
 <!-- /narrative -->
 
 ## Technology
@@ -87,7 +83,7 @@ The government payroll portal was [taken offline on 22 July, with a privacy noti
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
-The incumbent operator reported [profit before tax of P146.2m for the year to 31 March, down 45%, on revenue of P1.47bn, down 1.6%](https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news). The figures are company-reported, and the [prior year is given as P259m in the 2025 account against P266.6m in the 2026 one](https://www.mmegi.bw/business/demand-for-data-broadband-push-btc-revenue-up/news) — unreconciled.
+The state wholesale network operator [presented its first integrated report, for the year ended 31 March 2025, at its annual general meeting on 13 August, with revenue down on the year](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf), and [reported its 2025/26 local access projects complete](https://na.co.bw/bofinet-hosts-agm-showcasing-enhanced-accountability-and-value-creation/). Publishing an integrated report is itself part of the movement: the operator has not accounted for itself in one document before.
 <!-- /narrative -->
 
 ## Inclusion

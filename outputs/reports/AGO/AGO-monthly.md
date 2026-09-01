@@ -15,9 +15,9 @@ record: 5cbc88997ed7
 ## Summary of the month
 
 <!-- narrative: summary -->
-A nine-day national mobile outage from 28 July dominated the month and tested an architecture that has decrees but no law. The incumbent's network went down at 02:20 and the mobile layer was [restored gradually to 30 July](https://techafricanews.com/2026/07/30/unitel-restores-services-after-cyberattack-disrupts-mobile-network-across-angola/), but the operator dates [the return of every service carried over it to 5 August](https://angop.ao/noticias/economia/unitel-conclui-reposicao-dos-servicos-moveis/); the state had [settled the sale of 15% of that operator the day before](https://angop.ao/en/noticias/economia/estado-encaixa-kz-300-mil-milhoes-com-venda-de-15-da-unitel/). The kwanza [entered the regional settlement system on 27 July](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system).
+The month's law-making outran its infrastructure. The National Assembly [adopted the cybersecurity bill on 12 August by 104 votes to 56](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersÃ©curitÃ©-adoptÃ©e-par-le-parlement-fait-craindre-un-tour-de-vis-sÃ©curitaire), not yet promulgated and objected to over its data-access provisions a year before the presidential election, while [a law punishing the spread of false information online came into force on 4 August](https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html) carrying up to ten years' imprisonment, [which journalists' bodies warn will inhibit citizen journalism](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html).
 
-The law arrived at the end of the month: the National Assembly [adopted the cybersecurity bill on 12 August](https://angop.ao/fr/noticias/economia/angola-conta-com-lei-sobre-ciberseguranca/), which is not yet promulgated and which the opposition and part of civil society [object to over its data-access provisions](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire) a year before the presidential election. Two days later the President [authorised US$28m and opened tender for a national digital identity and electronic signatures platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) sized for 30 million identities.
+The incumbent operator closed out July's cyberattack: [core services were declared fully restored nationwide on 21 August](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/) and [customers compensated automatically](https://angop.ao/noticias/economia/unitel-compensa-clientes-pelo-ataque-cibernetico/), against a base that still holds no critical-infrastructure designation instrument. Money went to identity: the President [authorised US$28m and opened tender for a national digital identity and electronic-signature platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/), and [US$2.5m by direct award to digitise the finance ministry](https://valoreconomico.co.ao/artigo/pr-autoriza-2-5-milhoes-de-dolares-para-digitalizar-ministerio-das-financas). The electoral register was the contested ground, with opposition parties [demanding an independent audit of the database](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html).
 <!-- /narrative -->
 
 ## Governance
@@ -60,12 +60,12 @@ The standards estate entered the record this month rather than moving in it. The
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-On 23 July a state-owned telecoms arm [commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027](https://angop.ao/en/noticias/economia/filda-2026-servico-5g-empresarial-da-mercury-chega-a-provincia-de-cabinda/) — the operator's own figures.
+Two lines moved and neither is national. An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-The commercial data centre is [operating at up to 3 MW and more than 800 racks over 19,000 square metres on US$30m, near the cable landings, with a plan to exceed 7 MW within five years](https://www.raxiogroup.com/raxio-opens-angolas-largest-data-centre-in-landmark-30-million-expansion/). Its [group contracted six times as much power in the first half of 2026 as a year earlier](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/) — a group figure, not an Angolan one.
+The government's own hosting moved rather than the commercial estate. The telecommunications ministry [reinaugurated the government cloud's backup centre on 25 August after modernisation](https://pti.ao/minttics-conclui-modernizacao-do-centro-de-backup-da-cloud-do-governo/). No capacity, power figure or recovery objective is published with it, so what the base holds is that the facility exists and has been worked on.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -86,7 +86,7 @@ Check Point Research's July telemetry [puts Angolan organisations at 5,714 attac
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-A logistics regulator communiqué of 27 July described a single window absorbing three separate agency platforms, framed explicitly as a formalisation and tax-base instrument.
+The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -113,7 +113,7 @@ The education ministry made school enrolment independent of documentation. Circu
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart. No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
+The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart; [the initiative was launched in Luanda from 5 to 7 August](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems). No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -153,14 +153,12 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
+The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), with no national total, backlog figure or target date beside it.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 <!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
-Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
-
-The programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and a connection under way at [Quirimbo municipality in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports.
+The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
 <!-- /narrative -->

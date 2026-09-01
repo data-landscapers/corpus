@@ -15,7 +15,9 @@ record: 38c19a2f5a46
 ## Summary of the month
 
 <!-- narrative: summary -->
-Within nine days the country's identity spine, its sovereign hosting and its mobile network all changed state: the identity system and the state's first data centre entered service on 1 July, and [80% of the state mobile operator passed to a private buyer on 9 July](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement). The second cluster is revenue administration — between 20 July and 4 August the Accountant General signed in a new collection platform, customs agreed a data-exchange roadmap with Senegal, and the finance ministry gave its fullest account yet of what digitalised collection has recovered.
+Identity and elections were the month's two threads. The government [launched the first phase of the new biometric national identity card, publishing a phased rollout calendar and a fee](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout), and published its first unified land policy, which [mandates a digitalised national land administration system and a centralised land information system](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1).
+
+The electoral register is contested. Opposition parties put it to the commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), and the [commission's chairman gave a public assurance on the register's credibility](https://thepoint.gm/africa/gambia/headlines/iec-chair-assures-gambians-of-credible-voter-register-ahead-of-2026-polls) without a reconciled figure being published. Elsewhere the civil servant and pensioner verification exercise [was suspended up-country over technical difficulties](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/), the press union [reported the access-to-information law still largely unimplemented](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/), and Senegal and Gambia [held the first steering-committee session of their digital cooperation memorandum at Banjul on 29 August](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/).
 <!-- /narrative -->
 
 ## Governance
@@ -62,7 +64,7 @@ The rollout got the calendar the base had been missing. The government [publishe
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Government collection acquired a fourth channel. The Office of the Accountant General [signed a memorandum integrating the SUTURA platform into revenue collection](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection), reported on 20 July 2026 — domestically built, distributed through the postal service, alongside the Yonna Wallet arrangement of March 2026. The Deputy Accountant General said several commercial banks are already integrated; the text is not held and no go-live date, volume or fee structure is given.
+The country appears here in a survey of other people's pilots rather than in an account of its own. A UN development agency [names a wallet pilot in the Gambia among blockchain-based payment-distribution schemes said to cut distribution costs from about 10% to as little as 2%](https://www.biometricupdate.com/202608/undp-pushes-blockchain-from-dpi-pilots-to-deployment). The cost figure is the agency's own and describes its portfolio rather than this pilot; no caseload, value distributed or evaluation is held for the Gambian instance.
 <!-- /narrative -->
 ### Registries
 

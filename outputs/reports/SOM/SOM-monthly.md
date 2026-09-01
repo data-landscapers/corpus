@@ -15,7 +15,9 @@ record: 028bf0c660f8
 ## Summary of the month
 
 <!-- narrative: summary -->
-The Central Bank published, for the first time, the sequence by which banks and mobile wallets are to reach a single national payment rail — and named the wallets, which carry most Somali transactions, as the piece still missing. Around it, a cluster of institution-building: a national cybersecurity risk framework, a university AI centre, a national startup network, a regulator memorandum with a private innovation hub, and a statistics-office pilot putting official microdata in the hands of domestic researchers. At state level, Hirshabelle moved a public charge onto the mobile-money rails its payers already use. Cabinet approved a third-generation passport plan in the first week of August.
+Registers and identity documents moved. Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/), the health ministry [launched the country's first unified national registry of health facilities](https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html), and the mobile identity application [passed 50,000 downloads on a renewed public adoption call](https://www.biometricupdate.com/202608/somalia-pushes-for-stronger-adoption-of-eaqoonsi-digital-id-app) â€” a figure that measures how marginal it still is.
+
+The Auditor-General supplied the month's hardest finding. The 2025 annual audit [puts seven government revenue and financial-management systems outside the state financial management information system, and records 66 legal-compliance breaches across 22 audited bodies covering 60.1% of the national budget](https://goobjoog.com/2026/08/10/hantidhawrka-guud-oo-soo-saaray-warbixinta-baarista-dowladda-ee-2025/). Against that, the cybersecurity bill [had its first reading in the Upper House on 29 August](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), and accession to the continental free-trade area [is to be deposited in September](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/).
 <!-- /narrative -->
 
 ## Governance
@@ -30,7 +32,7 @@ The House of the People [approved a Cybersecurity Law on 26 January 2026](https:
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The connection to the Pan-African Payment and Settlement System is [a target for before the end of 2026 rather than a concluded arrangement](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx).
+Accession to the continental free-trade area reached its last procedural step: the [instrument of ratification is to be deposited in September 2026](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/), with a first shipment named as the test that follows it. No implementation roadmap, tariff schedule or customs-systems requirement is published alongside it.
 <!-- /narrative -->
 ### Standards
 
@@ -77,6 +79,8 @@ Health information gained a project and a set of funders. The health minister [l
 
 <!-- narrative: dpi--dpi-govtech -->
 A [national single window is named as planned within a regional trade project, alongside a trade information portal and the existing customs and livestock traceability systems it is to connect to](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). It is stated in an agenda piece by the national trade facilitation coordinator rather than in an instrument, and no design, timetable or budget is published.
+
+The federal electronic visa is running and contested: [a fee exemption for one region is under negotiation](https://raxanreeb.com/dfs-oo-somaliland-kala-hadashay-e-visa-da/). A national travel system whose terms are settled region by region is a federal question before it is a technical one, and no agreed text is held.
 <!-- /narrative -->
 
 ## Technology

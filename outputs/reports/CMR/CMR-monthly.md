@@ -15,11 +15,9 @@ record: 82b5ae106072
 ## Summary of the month
 
 <!-- narrative: summary -->
-Cabinet reviewed the national artificial-intelligence strategy on 30 July and was told it is [still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) — a year after a 2040 roadmap on seven pillars was presented. The same session recorded Cameroon as a [founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), with no accession date published.
+Identity and enforcement dates were the month's fixed points. A ministerial letter of 26 August [restarted the school-based birth-certificate drive from September](https://www.biometricupdate.com/202608/cameroon-restarts-birth-registration-drive-using-schools-as-gateway-to-legal-identity), a programme this ledger has carried as stalled, and the census [extended complementary enumeration to 15 September](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/). From 1 September the networks [begin deactivating handsets that have not cleared customs, on a date set by ministerial communique of 20 August](https://www.digitalbusiness.africa/blocage-des-telephones-non-dedouanes-cameroun-enfin-le-consensus-entre-les-acteurs/).
 
-Payments moved regionally rather than nationally: an [interoperable QR-code standard launched at Douala on 29 July](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), and the regional central bank [joined the pan-African settlement system on 9 July](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/).
-
-The data-protection authority's position was restated and did not change: [created in law, not established, and carrying no appropriation in the FY2025 or FY2026 estimates](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf).
+Payments are opening at the edges rather than the middle. [Less than 1% of regional transactions were interoperable merchant payments in the first quarter](https://leconomie.info/paiement-marchand-moins-de-1-des-transactions-interoperables-enregistrees-en-zone-cemac-au-premier-trimestre-2026/), the trade minister [called on businesses to take up the pan-African settlement system, which is not yet available to them](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/), and [a private payments platform launched on 31 August](https://techafricanews.com/2026/08/31/looping-binary-launches-lbpay-digital-payments-cameroon/). On infrastructure, the United States and Cameroon [announced an intention to build an artificial-intelligence data centre and power plant at Douala](https://www.africa-newsroom.com/press/united-states-and-cameroon-announce-7-billion-in-investment-and-trade-opportunities-at-inaugural-economic-and-commercial-dialogue?lang=en), with nothing signed.
 <!-- /narrative -->
 
 ## Governance
@@ -42,10 +40,6 @@ The 2026 national Internet Governance Forum [met at the Palais des Congres in Ya
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-An account of 27 July put the national fibre backbone at [over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), against about 12,000 km terrestrial on the 2024 reference year; the two figures are not reconciled to a single primary and may rest on different measurement bases.
-
-The same account records the [2024 customs circular on satellite terminals still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with kits entering through indirect registration abroad and ten modems seized at one post in December 2025.
-
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
 <!-- /narrative -->
 ### Data Storage
@@ -56,9 +50,7 @@ The state operator spent the month selling capacity it has already built. It [sh
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
-
-The month also produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
+The month produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
 <!-- /narrative -->
 
 ## DPI
@@ -122,9 +114,7 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The AI workforce target was carried into the same cabinet review without moving: [60,000 specialists by 2040 including 40% women](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain) was set in July 2025, and a year later [AI modules in curricula appear among ten priorities with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy).
-
-What was delivered was smaller and dated. A first implementation wave under an operator and higher-education memorandum [opened 115 internships across all ten regions on 22 July](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/), in disciplines from telecommunications and cybersecurity to finance and law; no stipend, duration or conversion-to-employment figure is published.
+Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the base holds is an intention with a meeting behind it.
 <!-- /narrative -->
 
 ## Data
