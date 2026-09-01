@@ -3,9 +3,9 @@ title: Burundi — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: BDI
-ledger_rows: 19
-not_held: 12
-record: adf72e6dd41c
+ledger_rows: 29
+not_held: 15
+record: 165224324446
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -15,9 +15,11 @@ record: adf72e6dd41c
 ## Summary of the month
 
 <!-- narrative: summary -->
-Payments were the month's substance and electricity its limit. The national instant payment system [had 17 of 78 licensed institutions live by 4 August](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank), the central bank [acceded to the pan-African payment and settlement system with four domestic banks authorised](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and it [told the regional governors it expects to join the East African cross-border payment network by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616). Against three rails opening, traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/).
+Two state systems went into production and the register underneath them did not. The revenue authority's platform [became the exclusive channel for new taxpayer registration from 4 August](https://obr.bi/index.php/e-kori), and the instant payment system [had 17 of 78 licensed institutions live by the same date](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank), with the central bank [acceded to the pan-African settlement system](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/) and [expecting to join the East African cross-border network by December](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616). Against them, traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/).
 
-The regulator says the same thing about connectivity. It [conceded on 3 August that network quality is degraded and named six causes, four of them electricity](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), and later told a workshop that [internet use in the country is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/) without publishing a figure. On the legislative side an [access-to-information bill was listed on the National Assembly's order paper](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) and [consultation opened on a law regulating social-media influencers](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/).
+Civil registration is the month's other thread and it is still a pilot. [Thirteen communes are stated to hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596), the interior ministry [puts health-facility interoperability at 123 facilities](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/), and the country's own account to the African registrars states that civil registration is not yet interoperable with the digital identity it is meant to feed.
+
+The regulator was unusually candid about the network beneath all of it: it [conceded on 3 August that quality is degraded and named six causes, four of them electricity](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), and later told a workshop that [internet use in the country is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/) without publishing a figure. On the legislative side an [access-to-information bill reached the National Assembly's order paper](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) and [consultation opened on a law regulating social-media influencers](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/).
 <!-- /narrative -->
 
 ## Governance
@@ -82,6 +84,27 @@ The one new management system in the window sits outside the state's own stack. 
 The revenue authority's online tax platform, live since January, [became the exclusive channel for new taxpayer registrations from 4 August](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/). Making a channel exclusive is the point at which a platform's availability becomes a condition of registering at all, and no fallback, uptime figure or exemption is stated.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+Local government gained equipment rather than systems. A development agency [handed laptops, uninterruptible power supplies, printers and photocopiers to provincial governors and communal administrators, alongside vehicles](https://lerenouveau.bi/le-pnud-octroie-un-don-destine-aux-gouverneurs-de-province-et-administrateurs-communaux/). It is the most direct addition to the ICT equipment held by Burundian local government offices this ledger records, and it is a donation: no count of offices reached, no maintenance arrangement and no connectivity provision accompanies it.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the base records is a pilot that has been running for at least a quarter and a national position that has not moved.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+School equipment moved as procurement. A national request for proposals [opened on 11 August and closed on 24 August for the supply and installation of computer equipment in 39 central schools in three former provinces, its bill of quantities naming 585 computers and uninterruptible power supplies across three lots](https://www.ungm.org/Public/Notice/310460). Set against the education ministry's own target of 760 school networks, thirty-nine schools is the increment this month records; nothing states when the equipment arrives or who maintains it.
+<!-- /narrative -->
+
 ## Inclusion
 
 ### Access to services
@@ -93,4 +116,17 @@ A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/
 
 <!-- narrative: inclusion--include-divides -->
 The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the base can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the base can date the process and cannot read what it found.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the base holds.
 <!-- /narrative -->
