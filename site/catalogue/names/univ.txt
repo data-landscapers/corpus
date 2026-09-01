@@ -176,6 +176,7 @@ Cell C University Student Data Bundles	11259
 Central University of Technology	6886,4345
 Centre Hospitalier Universitaire de Butare CHUK	12338
 Centre Hospitalier Universitaire de Kigali CHW	12338
+Centre Spatial Universitaire de Montpellier	13844
 Centro de Dados da Universidade Eduardo Mondlane	8807
 Chairmen of State Universal Education Boards	11860
 Chapter Zimbabwe National University of Science Technology	1154
@@ -263,6 +264,7 @@ Directeur du Fond de Service Universel Fidele IRANYIBUTSE	13482
 Director Universal Service Fund	6946
 Direitos Humanos A Universidade Lusíadas de Angola	10752
 Direitos Humanos. Universidade Angolana	10752
+Djibouti Is Laying the Foundations for Universal	13935
 Docteur Emmanuel Thierry Koumba Universitaire	11669
 Dodoma. Ardhi University	8883
 Doubling of Online Services Universal Access	13314
@@ -334,7 +336,7 @@ Federal University of Technology	8560,2142
 Femke de Rijk University of Oxford	9739
 Financial Stability Board UNESWA Universal Service	12444
 Fond de Service Universel	13331
-Fonds de Service Universel	3262,10269
+Fonds de Service Universel	3262,10269,322
 Fonds de Service Universel. L'ARCT	13482
 Fonds du Service Universel	13301,23
 Francophone University Agency	10864
@@ -684,6 +686,7 @@ Public and Private Universities	2775
 Pune University	4896
 Purdue University	11149
 Push University	10405
+Pôle Universitaire de Djibouti	13848
 Queen Mary University London	12227
 Queen Njinga Mbandi University	10776
 Queen’s University	4429
@@ -1034,7 +1037,7 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Committee	5168
@@ -1271,6 +1274,7 @@ University of Copenhagen	12162
 University of Craiova for Journalism	4127
 University of Crete	8604
 University of Dar	1261,3855,395,1305,339,867,866,126
+University of Djibouti	13891
 University of Dodoma	8614
 University of Dundee	11131,3
 University of East Anglia	11131,3
@@ -1452,7 +1456,7 @@ University6	12413
 UniversityofPretoria	8603
 Università	8774
 Universitário. Fiscalização	10750
-Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232
+Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245,2062,431,232,302
 Université Abdelmalek Essaâdi de Tétouan	8876
 Université Al Akhawayn	8891
 Université Alassane Ouattara	10919
@@ -1516,7 +1520,10 @@ Université de Cocody-Abidjan	12133
 Université de Dallas. Elle	10803
 Université de Datcha	8620
 Université de Diffa	10492
-Université de Djibouti	4402,6129
+Université de Djibouti	4402,6129,3317
+Université de Djibouti UD	13848
+Université de Djibouti URL	13848
+Université de Djibouti. Dans	13848
 Université de Dosso	3356
 Université de Dschang. Tél	10826
 Université de Greenwich	10642

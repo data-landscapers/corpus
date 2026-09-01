@@ -9,7 +9,7 @@ Agenda Ministère Gouvernement	3675
 Ahmat Goukouni Mourali	8388
 Avenue du Gouvernement B.P	13467
 B ORGANISATION NON GOUVERNEMENTALE	13300
-Bonne Gouvernance	643,7693,281,2364,2309,10,246
+Bonne Gouvernance	643,7693,281,2364,2309,10,246,295
 Bonne Gouvernance Financière	6260
 Burundi. Le Gouvernement	13290
 Burundi. Le Gouverneur	13517
@@ -21,17 +21,19 @@ CEMAC Mot du Gouverneur L’écosystème	11944
 CENTRE DE SANTÉ DU GOUVERNEMENT	13300
 CENTRE DE SANTÉ GOUVERNEMEN	13300
 CENTRE DE SANTÉ GOUVERNEMENT	13300
-CHEF DU GOUVERNEMENT	10981
+CHEF DU GOUVERNEMENT	10981,2853
+CHEF DU GOUVERNEMENT LE PRESIDENT	13923
+CHEF DU GOUVERNEMENT VU La Constitution	13825,2,16,80,14,3
 COMPOSANTS DU DISPOSITIF NATIONAL DE GOUVERNANCE	4403
 CONTEXTE GENERAL Le Gouvernement du Burundi	13341
 CONTREPARTIE GOUVER BDI PEAPPJF	13630
 Celine Gouveia	10635
 Cellule Group Expert En Gouvernance	11034
 Chef de Gouvernement	10897
-Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599
+Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22
 Chef du Gouvernement Alain-Claude BILIE-BY-NZE Le Ministre	1231
 Chef du Gouvernement Brice Clotaire OLIGUI NGUEMA	11580
-Chef du Gouvernement ISMAÏL OMAR GUELLEH	4420,147
+Chef du Gouvernement ISMAÏL OMAR GUELLEH	4420,147,9310,46
 Chef du Gouvernement Julien NKOGHE BEKALE	548
 Chef du Gouvernement du Congo	4169
 Chef du Gouvernement. La DNSSI	1185
@@ -121,9 +123,10 @@ GouvNum Committee	8608
 Gouvciofficiel	5464
 Gouver	13325
 Gouver-	13341,64
-Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197,280,44,235,1012,11,5,35,101,41,17,25,203,4,58
+Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197,280,44,235,1012,11,5,35,101,41,17,25,203,4,58,51,100
 Gouvernance Electronique	13290
 Gouvernance Financière	3715,627,1472,19,7938,25
+Gouvernance Intégrée des Services Publics	13841
 Gouvernance Nationale des Comm	4020
 Gouvernance Nationale des Communications Electronique	4020
 Gouvernance Numérique	2006
@@ -138,7 +141,7 @@ Gouverne	13341
 Gouverne-	10965,2376
 Gouvernemen-	13341
 Gouvernemenl	10813
-Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25,183,12,14,24,27,34,1239,8,2,8,1,28,5,7,19,30,15,28,9,3,31,49,27,13,103,4,5,32,6,8,14,14,2,28,5,3,9,11
+Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25,183,12,14,24,27,34,1239,8,2,8,1,28,5,7,19,30,15,28,9,3,31,49,27,13,103,4,5,32,6,8,14,14,2,28,5,3,9,11,16,2,16,9,25,5,4,22,15,1,4,12,1
 Gouvernement ACTEURS	10965
 Gouvernement Accueil Bilan	4895
 Gouvernement Activités	13341
@@ -153,6 +156,7 @@ Gouvernement Explorez	9482
 Gouvernement G2P	10711
 Gouvernement Hervé NDOBA	1300
 Gouvernement I.P	13377
+Gouvernement ISMAÏL OMAR GUELLEH	13829
 Gouvernement IX. CADRE LOGIQUE	13341
 Gouvernement Il	13341
 Gouvernement Ouvert	1218,6945,33,1714
@@ -309,7 +313,8 @@ M. Raymond GOULA	9277
 MODES DE GESTION Gouvernance Pilotage	2342
 MOT DU GOUVERNEUR	13452
 Madame le Commissaire du Gouvernement	10821
-Membres du Gouvernement	10895,1,1,1,5,1,1
+Membres du Gouvernement	10895,1,1,1,5,1,1,2938,3
+Membres du Gouvernement. Article	13940
 Ministère Gouvernement	3675
 Ministère Gouvernement Accueil Ministère	3675
 Ministère Gouvernement Adresse	3675
@@ -329,6 +334,7 @@ Organisation Non Gouvernementale PAEEJ Programme	13341
 Organisation Non Gouvernementale PDSEB	10847
 Oui. Gouvernement	13390
 PNDIS II. III.6 GOUVERNANCE En	13306
+PREFACE Le Gouvernement	13890
 PROGRAMME GOUVERNEMENT	13300
 Pacte Gouvernement du Burundi	13433
 Palais des Gouverneurs	6292
@@ -336,7 +342,7 @@ Palais du Gouvernement	9498,98
 Para Célio Gourgel	11473
 Plan Gouvernance	3381
 Politique de Gouvernance des Données	3064
-Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243
+Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243,5332
 Porte-parole du Gouvernement Edgard Anicet MBOUMBOU MIYAKOU	548
 Porte-parole du Gouvernement. Ouvrant	11151
 Posts and Telecommunications Justin Gourna Zacko	6185
@@ -372,6 +378,7 @@ Secrétaire Général du Gouvernement	8750
 Secrétariat Général du Gouvernement	233,2888,275,5354,1071,1776,2156
 Secrétariat Général du Gouvernement Dans	3121
 Secrétariat Général du Gouvernement. Ce	8750
+Secrétariat Général du Gouvernment	13861
 Selon Héliodore Francis Alex Gouloubi	7424
 Selon le Ministre Porte-parole du Gouvernement	8454
 Sida Gouvernance	13300

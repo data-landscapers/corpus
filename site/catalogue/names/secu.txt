@@ -181,6 +181,7 @@ CM-NSG.S5 Security	10721
 CM-PS.S2 Security	10721
 CNIB. Minister of Security Mahamadou Sana	3925
 CNSS National Center for Social Security CPC	10812
+CNSS National Social Security Fund	13861
 COBRA SECURITY COMPANY LIMITED Data Controller	7167
 COMMITTEE ON NATIONAL SECURITY	13328
 COMPONENT OASIS Secure XML Encoding for OASIS	12360
@@ -403,7 +404,7 @@ Cyber Security and Digital Forensics	12926
 Cyber Security and Monitoring Centre	972
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -1032,7 +1033,7 @@ NCC’s Computer Security Incident Response Team	5308
 NCSC National Cyber Security Commission NCSA	1000
 NIS2 Network and Information Security Directive	6936
 NIST Cyber Security Framework	1939
-NRD Cyber Security	2298,948
+NRD Cyber Security	2298,948,10634
 NX Secures Partnership	2552
 Nairobi Securities Exchange	4978,2226,295,49,19,526,531
 Nairobi Securities Exchange-listed	4561

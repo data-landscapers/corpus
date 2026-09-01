@@ -29,7 +29,7 @@ Dec-2028 Expected Disbursements	1284
 Description Disbursement IBRD	969,315,9545,720
 Description Disbursement Trust Funds	10829
 Disband AI	12675
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20,472,98,6,257,39,173,540,78,768,7,64
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed IBRD	2473
@@ -41,7 +41,7 @@ Disbursed USD	85,297,515,231
 Disbursed Undisbursed	6579
 Disbursed Undisbursed IDA-71820	1228
 Disbursed-usd	607
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426,135,330,8,102,230,25,834,277,89,455,22
 Disbursement Arrangements	11924
 Disbursement Categories	1228,56
 Disbursement Category	4653
@@ -56,7 +56,7 @@ Disbursement Letter	11525
 Disbursement Letter. Oth	10829
 Disbursement Linked Indicators	10870,6,1029,271
 Disbursement Linked Indicators DLI	11905
-Disbursement Summary	1284,1189,2180,7312
+Disbursement Summary	1284,1189,2180,7312,1866,66
 Disbursement and Financial Information Letter	1264,603,1737,7164,196,891,1476
 Disbursement and Financial Information Letter. A Designated	1284
 Disbursement of Funds	2775

@@ -170,8 +170,8 @@ Ghana. Fiber	3184
 Glass Fiber Network	11529
 Guinea and Sierra Leone Link National Fibre	3089
 Home FttO Fibre	2775
-Horizon Fiber	3788,1104,6,20,1,56,2713,2895
-Horizon Fiber Initiative	4918,17,5648
+Horizon Fiber	3788,1104,6,20,1,56,2713,2895,3332,6,3
+Horizon Fiber Initiative	4918,17,5648,3332,6
 Housing FTTx Fibre	11857
 Huawei for Fibre-to-the-Home	6864
 Hypa Fibre	10735

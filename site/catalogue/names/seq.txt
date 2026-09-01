@@ -1,5 +1,6 @@
 A. Policy Approach and Sequencing Realizing AI	11140
 Anna Olefir Seq	13058
+Aug-2025. ISR Sequence	13833
 Directive Launch Sequence	3861
 Directive Launch Sequence Upon	3861
 Feb-2021 Restructuring Sequence.01	13742
@@ -7,7 +8,9 @@ Feb-2024 ICR Sequence.01	11924
 Felicien Donat Edgar Towenan Accrombessy Seq	10870
 Figure SEQ Figure	12376
 HEPRR Program Phases Phase Operation Sequential	11417
-ISR Seq	764,1006,483,459,8158,1095,6,17,240,39,173
+ISR Seq	764,1006,483,459,8158,1095,6,17,240,39,173,1480
+ISR Sequence	13840
+ISR's Sequence	13833
 Lap Category Sequence	1228
 Last Approved Rating ISR Seq	6579,349,949,3518,1632
 Loading Sequence	12360
@@ -25,10 +28,10 @@ SEQE1	8891
 SEQE1. Certains	8891
 Selectivity and Sequencing. The CPF	11468
 Sep-2022 Restructuring Sequence.04 Not Applicable	11924
-Seq No	10870
+Seq No	10870,2987
 Sequel Server	9124
 Sequele	4044,7532,1,54
-Sequence	1331,1100,3979,4730,277,384,187
+Sequence	1331,1100,3979,4730,277,384,187,1845,7
 Sequence No	996,335
 Sequenced	6735,97
 Sequencing	2424,1878,668,1569,293,5176,432,1184

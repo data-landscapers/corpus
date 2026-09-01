@@ -511,7 +511,7 @@ Independence Avenue Emmanuel Church Zanele Mbeki	13046
 Independence Avenue Gaborone	12559
 Independence Avenue Soweto Market	13046
 Independence DPOs	13381
-Independence Day	2968,1204,992,563,624,1750,3231,1293
+Independence Day	2968,1204,992,563,624,1750,3231,1293,1249
 Independence Day and Republic Day	7845
 Independence Drive	12214,839
 Independence and Accountability	3861
@@ -579,7 +579,7 @@ Independent Electricity Distribution Network IE Ikeja	12062
 Independent Engineer	5793
 Independent Environmental Audit	1988
 Independent Evaluation Board	13226
-Independent Evaluation Group	10779,531
+Independent Evaluation Group	10779,531,2540
 Independent Evaluation Office BSG Budget Support	11863
 Independent Evaluation and Verification Panels	1988
 Independent Expert	4127
@@ -618,6 +618,7 @@ Independent Power Producers Independent Power Producers	9458
 Independent Procurement Review	11855
 Independent Producers	10861
 Independent Producers Organisation	10481
+Independent Public Media. See the State Media	13929
 Independent Quality Assessment	11237
 Independent Regulatory Authority	718
 Independent Regulatory Board for Auditors	11198
@@ -630,6 +631,9 @@ Independent Review Mechanism	5574
 Independent Review Panel	11006
 Independent Service Providers	12389
 Independent Software Inspectors UGO AMADI	8424
+Independent State Funded Media	13929
+Independent State Funded and State Managed	13929
+Independent State Managed	13929
 Independent Technical Advisory Panel	12175,1174
 Independent Technical Advisory Panel JSR	12175
 Independent Third-Party Verification	12175
@@ -651,13 +655,14 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65,111
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
 Index Customer Average Interruption Frequency Index	12969
 Index Description	12917
 Index ESB Enterprise Service Bus FISP	13345
+Index ICR Implementation Completion and Results Report	13861
 Index ICT Information and Communication Technologies MCTI	12376
 Index Illuminating Kerosene EHS Independent Power	12256
 Index Mundi	12786
@@ -666,6 +671,7 @@ Index Non-Governmental Organisation Near Real-Time National	10763
 Index Overall Engagement	11131
 Index The Aggregate Financial Stability Index	11131
 Index The Global Innovation Index	11895,264
+Index ToC Theory of Change TTL Task	13861
 Index of Economic Freedom	13358
 Index-linking	12233
 IndexFair	9317
@@ -867,6 +873,7 @@ RIA RAMP Index Q4	9759
 RMIPPPP Risk Mitigation Independent Power Producer	11228
 ROI Regulatory Outcome Index RSI Regulatory	12256
 RPPI Residential Property Price Index SARB	11286
+RSF Index	13929
 Readiness Index	12333
 Readiness Index Readin	12917
 Redress Mechanism HCI Human Capital Index	10768

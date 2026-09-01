@@ -86,11 +86,13 @@ Africa DPI Private Sector Coalition	8654
 Africa DPI Private Sector Coalition. Let	8654
 African Health Sector	1814
 African Regional Cyber Sector Symposium. Hosting	6946
+African Union Private Sector Forum Concluded	13899
 Agence de Régulation des Secteurs	13743,66
 Agence de Régulation du Secteur	10975
 Agence. LA TRANSPARENCE POUR UN SECTEUR	10975
 Agency Sector IT Units	1000
 Agricultural Sector	6948,3908
+Agricultural Sector Expert	13885
 Agriculture Sector	2775,10187,160
 Aid Coordination and Management Section	11131,3,1828
 Algeria Launches Sectoral Cyber Incident Response	6657
@@ -339,6 +341,7 @@ Constitution. Section	2307,7685,461,808,1779,464
 Construction Sector	2775,8381
 Consultant Section	13037
 Consultants. Section	13037
+Context B. Sectoral and Institutional Context II	13856
 Contract Agreement Section X	13185
 Contract Award Section	13185
 Contract Price. Section IX	13185
@@ -676,6 +679,7 @@ Financial Sector Developments	12922,34,167
 Financial Sector Developments Monetary Policy	12922,34
 Financial Sector Developments Monetary Policy and Interest	13123
 Financial Sector Efficiency	1046
+Financial Sector Expert	13885
 Financial Sector Faces Rising Cyber Threats	4832
 Financial Sector Legal and Regulatory Landscape	12701
 Financial Sector Performance Mr. Speaker	7695
@@ -735,6 +739,7 @@ GEA and Sections	13040
 GENERAL CONDITIONS OF BID SECTION	11209
 GENERALES Section	13293
 GIZ’s Sector Initiative Social Protection	11156
+GOVERNANCE FOR PRIVATE SECTOR DEVELOPMENT	13836
 GOVERNANÇA E DA PILOTAGEM DO SECTOR	11523
 GSS Head of Industrial Statistics Section Anthony	236
 GSS Head of Trade Statistics Section Tetteh	236
@@ -805,6 +810,7 @@ Healthcare Sector	12356
 Heart Land. In Gitega Sector	4941
 High Priority Rating Gender-Responsive Sector Planning	13349
 High Sector Strategies and Policies	13058
+High-Level African Union Private Sector Forum	13899
 History of Nigerian Telecoms Sector	5245
 Hotel Tourism Statistics Section	12962
 Housing and Shelter Section of UN-Habitat	1391
@@ -1077,6 +1083,7 @@ Malawi Education Sector Project Implementation Grant	12175
 Malawi Health Sector Strategic Plan III	12240
 Male Female Formal Sector Industry	12445
 Male-dominated Sectors	10964
+Management FSAP Financial Sector Assessment Program	13836
 Management System PSHACC Public Sector	12970
 Management of Public Sector Records	12325
 Manual PSDGP Public Sector Digital Governance	2889
@@ -1265,6 +1272,7 @@ POWER SECTOR VISION Demand	11366
 PRELIMINARY PROVISIONS SECTION	12484
 PRELIMINARY PROVISIONS Section	13371
 PRELIMINARY Sections	1333
+PREMIÈRE PARTIE CONSIDÉRATIONS GÉNÉRALES SECTION	13828
 PRIVATE SECTOR	2775
 PRIVATE SECTOR AND Digital	10852
 PRIVATE SECTOR Citizen	1161
@@ -1480,7 +1488,7 @@ Public Finance Management PSIP Public Sector	13060
 Public Private Partnership Commission Section	13185
 Public Protector's Section	10394
 Public Register of Public Sector AI Systems	7548
-Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43
+Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43,443
 Public Sector AI Academies	4528,7984
 Public Sector AI Transformation Programme	7548
 Public Sector Accountant	3604
@@ -1680,7 +1688,7 @@ SECTEUR PUBLIC Pas	13300
 SECTEUR PUBLIC RÉGIONAL	13300
 SECTEUR PUBLIC SECTEUR PUBLIC HÔPITAL	13300
 SECTEUR Principales	13433
-SECTION	34,202,346,154,549,1,1179,310,182,166,1,737,306,35,15,43,41,48,35,1,260,251,456,1071,498,277,3621,155,164,14,57,24,627,96,189,1,264,74,209,607,90,329,53
+SECTION	34,202,346,154,549,1,1179,310,182,166,1,737,306,35,15,43,41,48,35,1,260,251,456,1071,498,277,3621,155,164,14,57,24,627,96,189,1,264,74,209,607,90,329,53,56
 SECTION A International Scene Economic Survey	2775
 SECTION B	2775,8494
 SECTION B Domestic Economy PAGE	2775
@@ -1845,7 +1853,7 @@ Secteurs Non-résidents TOTAL Effectif	13390
 Secteurs Non-résidents TOTAL FEUILLE	13390
 Secteurs Primaire	2342
 SectiDn Il	37
-Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22,190,13,2,2,4,2,37,52,2,2,4,16,1,9,7,1,1,11,32,16,8,2,75,4,8,23,7,6,12,21,7,5,21,3,30,11,4,1,25,1,14,8,10,4,3,2,4,1,2,19,9,2,7,2,69,5,20,17,7,5,4,7,2,7,8,14,18,7,47,11,11,220,18,16,2,1,1,7,4,3,13,2,7,4,18,14,26,1,4,2,2,1,2,11,7,37,11,14,5,51,7,4,62,37,4,1,2,8,1,6,1,1,2,5,3,1,7,1,3,16,1,1,3,6,15,5,4,2,4,12,17,29,4,8,9,7,2,5,9,3,1,7,4,19,5,23,4,47,12,31,32,14,3,36,5,33,9,28
+Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22,190,13,2,2,4,2,37,52,2,2,4,16,1,9,7,1,1,11,32,16,8,2,75,4,8,23,7,6,12,21,7,5,21,3,30,11,4,1,25,1,14,8,10,4,3,2,4,1,2,19,9,2,7,2,69,5,20,17,7,5,4,7,2,7,8,14,18,7,47,11,11,220,18,16,2,1,1,7,4,3,13,2,7,4,18,14,26,1,4,2,2,1,2,11,7,37,11,14,5,51,7,4,62,37,4,1,2,8,1,6,1,1,2,5,3,1,7,1,3,16,1,1,3,6,15,5,4,2,4,12,17,29,4,8,9,7,2,5,9,3,1,7,4,19,5,23,4,47,12,31,32,14,3,36,5,33,9,28,18
 Section A Description	12975
 Section A of Annex	7821
 Section A of Annex I	7821
@@ -1890,7 +1898,7 @@ Section I.C Schedule	6539
 Section I.D	10829
 Section I.F of Schedule	10964
 Section I.H.2	10768
-Section II	37,1601,1688,1241,1206,610,4382,10,360,1652,253,145,110,232
+Section II	37,1601,1688,1241,1206,610,4382,10,360,1652,253,145,110,232,303
 Section II Opérations	17
 Section II Vote	17
 Section II.- Obligations	11139
@@ -1966,12 +1974,13 @@ Sectional Title Act	12912
 Sectional Titles	13251
 Sectional Titles Act	11189
 SectionalTitles	13213
-Sections	3,25,368,189,2,149,1001,64,76,49,3,46,5,339,465,129,80,12,156,146,131,100,45,131,258,195,35,12,3,18,25,41,48,252,9,23,480,19,114,106,70,111,339,2,958,958,55,10,263,60,404,92,175,588,443,112,276,2,136,435,35,253,4,23,28,51,45,30,136,407,103,35,2,45,113,150,1,25,79,5,4,118,9,7,7,2,54,17,14,246,6,8,5,3,1,22,12,26,18,47,2,1,246,1,28,61,2,20,5,94,109,75,4
+Sections	3,25,368,189,2,149,1001,64,76,49,3,46,5,339,465,129,80,12,156,146,131,100,45,131,258,195,35,12,3,18,25,41,48,252,9,23,480,19,114,106,70,111,339,2,958,958,55,10,263,60,404,92,175,588,443,112,276,2,136,435,35,253,4,23,28,51,45,30,136,407,103,35,2,45,113,150,1,25,79,5,4,118,9,7,7,2,54,17,14,246,6,8,5,3,1,22,12,26,18,47,2,1,246,1,28,61,2,20,5,94,109,75,4,155
 Sections B	12400
 Sections Department of Youth Department of Gender Botswana	12642
 Sections Foncières Nombre	10876
 Sections I and II	6935
-Sections II	11233
+Sections I-V	13836
+Sections II	11233,2628
 Sections L.1	3972
 Sections Nombre	10876
 Sections Print	5440
@@ -2015,6 +2024,7 @@ Sector CNII	10721
 Sector CONSUMER STAPLES Consumer Staples	4972
 Sector Classifications	4972
 Sector Companies	12453
+Sector Context	13885
 Sector Context and Notable Progress Digital	3604
 Sector Cooperation	10721
 Sector Cooperation Page	10721
@@ -2102,6 +2112,7 @@ Sector Quarterly Progress Reports	12977
 Sector Quietly Powering Everyday Life	13532
 Sector Reform TC	1818
 Sector Reform and Capacity Building	6175
+Sector Reform and Strengthening Initiative FM Financial	13836
 Sector Reforms and Sustainable Utilities	12399
 Sector Regulation	9877
 Sector Regulators	6936
@@ -2284,6 +2295,7 @@ Size Sector Size Manufacturing	12445
 Skills for Private Sector Development. Durham	13624
 Smart Sector	395
 Snapshot SECTION	11138
+Social Sector Expert	13885
 Social and Human Sciences Sector	13557
 Social and Political Sectors	9707
 Sociedade Sector Informal Unipessoal Quadro	10757
@@ -2326,7 +2338,7 @@ Strengthening Energy Sector’s Financial Viability	11380
 Strengthening the Private Sector	12922,34,167
 Strengthening the Private Sector Private Sector Credit	12922,34,167
 Structure Section	3025
-Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118
+Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118,1932
 Substantial Sector Strategies and Policies Technical Design	11395
 Subtotals Section	13037
 Summary of Key Financial Sector Risks Despite	11131
@@ -2449,6 +2461,7 @@ Uganda’s Banking Sector Report	5343
 Under Section	5113,1068,603,1451,541,172,2088,1266,737,1
 Under Sections	11036
 Under Water and Sanitation Sector	718
+Unit PSD Private Sector Development SCAPE	13836
 United Nations Cartographic Section	12344
 United Republic of Tanzania. Sectoral	11142
 United States and China. Section	7151

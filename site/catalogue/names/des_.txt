@@ -35,6 +35,7 @@ ANNEXE B ESTIMATION DES ERREURS D’ÉCHANTILLONAGE	13300
 ANNOTÉES ET COMMENTÉES DES LOIS ISSUES	2342
 ANNUAIRE DES SITES WEB GOUVERNEMENTAUX Ministère	3675
 ANNUELLE REUNION SUR LA REGULATION DES	998
+ANSIE Agence Nationale des Systèmes	13836
 APPROCHE GLOBALE DE GESTION DES RISQUES	10906
 APPUI AU Des	3396
 ARCT Des	13301
@@ -90,6 +91,7 @@ Afrique des Nations	11761
 Afrique des Nations U17	8321
 Afrique du Droit des Affaires	10829,7,139,547,27
 Afrique du Droit des Affaires ONG Organisation Non	10876
+Agence Djiboutienne des Normes	13843,65
 Agence Djiboutienne des Routes	4402
 Agence Ivoirienne de Gestion des Fréquences	3604
 Agence Marocaine de Développement des Investissement	5745,1
@@ -100,7 +102,8 @@ Agence Nationale de Sécurité des Systèmes	8058,2816
 Agence Nationale des Eaux	8891
 Agence Nationale des Infrastructures Numériques	2961,3818,23,3033
 Agence Nationale des Parcs	11597
-Agence Nationale des Systèmes	4402
+Agence Nationale des Renseignements	13877
+Agence Nationale des Systèmes	4402,9459
 Agence Nationale des Technologies	2695,1290,2753
 Agence Nationale des Titres Sécurisés	3588,2394,107,4752
 Agence Nationale des Transports Terrestres	6300,4521
@@ -207,6 +210,7 @@ Autonome de Gestion des Dettes CCE	10876
 Autonomisation Economique des Femes	13547
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Malienne de Régulation des Télécommunications	7999
+Autorité Nationale de Régulation des Médias	13929
 Autorité Nationale de Régulation des TIC	13716
 Autorité Nationale de Régulation des Technologies	13722,59
 Autorité Nationale de Sécurité des Systèmes	7668
@@ -267,6 +271,7 @@ Banque Mondiale. Banque des Etats	11944
 Banque de Développement des Etats	11944,1385
 Banque des Dépôts du Trésor	3396
 Banque des Etats	969,330,4441,155,1368,3702,979
+Banque des Règlements	13838
 Banque des Règlements Internationaux	11799,1653,16
 Banques Connaissance des Banques BANCOBU BCB IBB	13390
 Banques Connaissance des Banques Effectif	13390
@@ -291,6 +296,7 @@ Business Income Tax DES	12445
 C QUALITÉ DES DONNÉES Tableau C.1	13300
 C TITRE XIV. DES DISPOSITIONS PENALES	13293
 CAB-25 COMPTE RENDU DU CONSEIL DES	2738,453,135
+CADRE DES ADMINISTRATEURS DE LA STATISTIQUE	13937
 CADRE INSTITUTIONNEL DE LA PROTECTION DES	436
 CADRE JURIDIQUE DES TÉLÉPROCÉDURES FISCALES	5814
 CADRE MÉTHODOLOGIQUE DE MESURE DES DIMENSIONS	5928
@@ -320,7 +326,9 @@ CHAPITRE V DU REGISTRE NATIONAL DES	10813
 CHAPITRE VI DU REGIME DES SANCTIONS	13709
 CHAPITRES DU REGLEMENT DES RADIOCOMMUNICATIONS Chapitre	5361
 CHAPIÏRE III DES INSCRIPTIONS AU REGISTRE	10813
-CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402
+CHARGE DES DROITS DE L'HOMME	13908,32
+CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
+CHARGE DES RELATIONS AVEC LE PARLEMENT	13940
 CHIFFRES CLES DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CHIFFRES CLÉS DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CIPRES. Banque des Etats	11944
@@ -387,6 +395,7 @@ Capacités des Systèmes	13783
 Caractère Personnel. Autorité de Protection des Données	1325,690,2140
 Caractéristique Des	13300
 Case des Tout-Petits	8269,862
+Catalogue des Services Publics Numériques	13882
 Caucus des Femmes	11868
 Cellule Nationale de Traitement des Informations Financières	2623,8899,45
 Cellule Technique Nationale des Projets	10829
@@ -487,6 +496,7 @@ Commission Nationale de Contrôle de Protection des Données	8891
 Commission Nationale de Protection des Données	1799,1468
 Commission Nationale des Droits	8750,2076,15
 Commission Nationale des Droits Humains	3396
+Commission Nationale des Marchés Publics	13861
 Commission Nationale des Terres	13442
 Commission Permanente Indépendante des Droits	3045
 Commission de Contrôle des Marchés	5907
@@ -510,8 +520,10 @@ Communauté. La Communauté des Etats	13452
 Communautés des Etats Indépendants CELAB	13377
 Communes Des	10858
 Communication des Postes	2514
+Communication du Registre National des Personnes Physiques	13835,11
 Communication. Le Conseil des Ministres	2738,3329
 Communications. Le Conseil des Ministres	3326
+Communiqué Le Ministre des Affaires	13908
 Communiqué du Conseil des Ministres	12243
 Communiqué du Ministère des Finances	4363
 Communiqués du Conseil des Ministres	8673
@@ -560,10 +572,10 @@ Conseil National des Jeunes Entrepreneurs Centrafricains	10841
 Conseil de Régulation des Activités de Sécurité	8269
 Conseil des Administrateurs	7655
 Conseil des Ministre. Section Il	37
-Conseil des Ministres	548,199,1,483,350,761,281,115,70,237,146,135,55,15,279,892,1500,1776,394,1050,55,1369,165,721,1693,39,2,10,104,193,85
+Conseil des Ministres	548,199,1,483,350,761,281,115,70,237,146,135,55,15,279,892,1500,1776,394,1050,55,1369,165,721,1693,39,2,10,104,193,85,120,39,4,5,17,32
 Conseil des Ministres PRÉSIDENCE DE LA RÉPUBLIQUE	4402
 Conseil des Ministres Président	10876
-Conseil des Ministres. Article	1231
+Conseil des Ministres. Article	1231,12601
 Conseil des Ministres. Ces	13329
 Conseil des Oulémas	8891
 Conseil des Promouvoir	10965
@@ -619,6 +631,7 @@ Crédits des MESPTA	2966
 Culture Ministère des Affaires	13341
 Culture Ministère des Finances	13341
 Culture Régie Nationale des Postes des Ministère	13341
+Cérémonie de Clôture des Formations	13884
 Cérémonie de Lancement des Nouveaux Moyens de Paiement	6045
 D'ARCHIVAGE ET DE SECURISATION DES DONNEES	13303
 D'ELIGIBILITE DES REFUGIES	998
@@ -667,8 +680,10 @@ DE VALIDATION DES SPECIFICATIONS TECHNIQUES HARMONISEES	1967
 DECISIONS ET AVIS MINISTERE DES AFFAIRES	4658
 DECLARATION MENSUELLE OU TRIMESTRIELLE DES IMPÔTS	6954
 DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
+DECRETE Des	13834
 DEFINITION DES TERMES CLES	10876
 DEFINITION DES TERMES CLES1 Aliénation Transmission	10876
+DEFINITIONS DES TERMES Article	13828
 DEFINITIONS SECTION I DES PRINCIPES Article	13709
 DELAIS DE REMPLACEMENT DES TRANSFORMATEURS MT	10975
 DERNIÈRE NAISSANCE DES NAISSANCES	13300
@@ -708,12 +723,13 @@ DES DISPOSITIONS DIVERSES ET FINALES IGICE	13303
 DES DISPOSITIONS FINALES Article	37,748,12549
 DES DISPOSITIONS FINANCIERES ET COMPTABLES Chapitre	1186
 DES DISPOSITIONS GENERALES	13293
-DES DISPOSITIONS GENERALES Article	13293,414
+DES DISPOSITIONS GENERALES Article	13293,414,120
 DES DISPOSITIONS GENERALES C Article	13293
 DES DISPOSITIONS GENERALES CHAPITRE	785,12507
 DES DISPOSITIONS GENERALES Chapitre	13781
 DES DISPOSITIONS GENERALES Section	113,13180
 DES DISPOSITIONS GENERALES4 Section	1801
+DES DISPOSITIONS GÉNÉRALES Article	13843
 DES DISPOSITIONS PARTICULIERES A LA MAIRIE	13292
 DES DISPOSITIONS PARTICULIERES A LA SAISIE	13293
 DES DISPOSITIONS PRELIMINAIRES CHAPITRE	13293
@@ -750,7 +766,7 @@ DES ENTREPRISES SECTEURS PUBLIQUES PRÉSENTATION DES	2342
 DES ETUDES ECONOMIQUES ET DEMOGRAPHIQUES Oct	13746
 DES EXERCICES	3396
 DES FINANCES	2476,11079
-DES FINANCES CHARGE DE L'INDUSTRIE	6902
+DES FINANCES CHARGE DE L'INDUSTRIE	6902,7038
 DES FINS STATISTIQUES. Article	13707
 DES FORMATIONS ET DE L'ÉDUCATION AUX	13781
 DES FREQUENCES RADIOELECTRIQUES	1205
@@ -770,6 +786,7 @@ DES MESURES CONSERVATOIRES ET DES VOIES	13293
 DES METIERS ET LA FORMATION PROFESSIONNELLE	13478
 DES MINES ET DES CARRIERES	8321
 DES MINES ET DES CARRIERESLe Conseil	7670
+DES MINISTERES	13846
 DES MISSIONS DE L’AGENCE Article	1186
 DES MODALITES D'ETABLISSEMENT ET DE DELIVRANCE	2465
 DES MOIS	13300
@@ -902,6 +919,7 @@ Des Burkinabè	11652
 Des CNIB	3396
 Des Certificats Nationaux de Transhumance	3396
 Des Clients	13390
+Des Data Center	13924
 Des Dispositions Transitoires Relatives	37
 Des Drganes	37
 Des Définitions Article	37,13286
@@ -960,12 +978,12 @@ Directeurs des Systèmes	4881,1
 Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Générale des Collectivités Territoriales	557
 Direction Générale des Domaines	4420,6291
-Direction Générale des Douanes	2971,425,1024,4388,2068,2869
+Direction Générale des Douanes	2971,425,1024,4388,2068,2869,116
 Direction Générale des Douanes DGEP	10874
 Direction Générale des Etudes	10847
 Direction Générale des Examens	10847
 Direction Générale des Finances Publiques	10532
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65
 Direction Générale des Impôts. CHAPITRE	13723
 Direction Générale des Impôts. L'enjeu	7348
 Direction Générale des Marchés Publics	969,9860
@@ -1016,6 +1034,7 @@ Distribution des Eaux	13743
 District des Montagnes	2342
 Divers Le Conseil des Ministres	13445
 Division des Fonds	7660
+Diwan des Waqfs	13891
 Données Findex Banque des Etats	11944
 Dossiers Noirs Des Lions	4960,62,2035
 Doter des Cartes	13341
@@ -1285,6 +1304,7 @@ Gestion des Risques	2342,8370
 Gestion des Réseaux SCI	10975
 Gestion des Réseaux de Transport SDCB	10975
 Gestionnaire des Ressources	8237
+Gouvernance Intégrée des Services Publics	13841
 Gouvernance Nationale des Comm	4020
 Gouvernance Nationale des Communications Electronique	4020
 Gouvernance. La Direction des Affaires Juridiques	2342
@@ -1310,6 +1330,7 @@ Générale des Ressources Humaines	11905
 H SI AUCUN DES SYMPTÔMES CI-	13300
 HAUTS RISQUES Des	13300
 HL7 FHIR. Des	13568
+Harmonisation des Processus Métier	13841
 Harmonisation des Statistiques	10874
 Haut Commissariat des Nations-Unies	11982
 Haut-Commissariat des Nations	13300
@@ -1326,6 +1347,7 @@ I MÉTHODE DES JOURS FIXES	13300
 I- RAPPEL DES PRINCIPAUX ELEMENTS	10858
 I. AU TITRE DU MINISTERE DES	8321,3276
 I. CHAMP D'APPLICATION ET DÉFINITION DES	10906
+I. DEFINITION DES CONCEPTS ET INDICATEURS	13890
 I. OBSERVATOIRE DU MARCHE DES SERVICES	13586
 I.2.9. Monnaies Numériques des Banques Centrales	13452
 I.3. AU TITRE DU MINISTERE DES	8321
@@ -1407,6 +1429,7 @@ Ibrahim Mohamed Abdourazak. Des	4386
 Identification des Exploitants	10096
 Identification des OPP	998
 Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43
+Importance des Plateformes	13849
 Inc.iii TABLE DES MATIÈRES Liste	7655
 Inclusion Financière Banque des Etats	11944
 Indicateurs de Déclenchement des Paiements	10876
@@ -1417,9 +1440,11 @@ Indice des Infrastruc-	13341
 Indice des Prix des Services Bancaires	5928
 Indice des Services En	13341
 Industrie des Comores	5996
+Industrie. Le Conseil des Ministres	13923,14
 Infirme des Infirme des Sourd	13442
 Information des Infrastructures	11139
 Information des Ressources Humaines	6240
+Ingénieur des Travaux Statistiques	13937
 Insertion des Personnes Handicapées	10826
 Insertion des Valeurs	13375
 Inspecteur Général des Services	3191
@@ -1463,6 +1488,7 @@ Internet. Des	4744
 Interopérabilité des Systèmes de Paiement Instantané	7283
 Intervention du Chef de File des PTF	2966
 Intégrée des Schémas Directeurs	3396
+Intérieur. Le Conseil des Ministres	13834
 Intérêt Le Ministère des Finances	3715
 Intérêt des PTF	10874
 Inventaire des Données Ouvertes	13689
@@ -1489,6 +1515,7 @@ Kaya. Des	7916
 Kenya. Des	4343
 Komor Switch Des	6146
 L'Agence Nationale des Infrastructures Numériques	3581
+L'Agence Nationale des Systèmes	13919
 L'Association des Médias	9053
 L'Autorité Nationale des Elections	2366,1108
 L'Autorité de Protection des Données	2792
@@ -1499,6 +1526,7 @@ L'Autorité de Régulation des Télécommunications	3402,473,3114
 L'ECONOMIE ET DES FINANCES	11597
 L'ECONOMIE ET DES FINANCES Le Conseil	3044,145,2637
 L'EGARD DES TRAITEMENTS DES DONNEES	13709
+L'EMPLOI ET DES QUALIFICATIONS Article	13827
 L'ENCOURS TOTAL DES CREDITS BRUTS	13390
 L'ENQUÊTÉ DES PHOTOS AUTRE	13300
 L'ENQUÊTÉ MINEUR POUR DES TESTS SUPPLÉMENTAIRES	13300
@@ -1518,6 +1546,7 @@ L'environnement des Datacenters	1244
 L'informatisation des SPT	13306
 L'organisation Création des Opportunités	9270
 L'organisation des Jeux	8725
+L'utilisation des TIC	13841
 L3 du Livre des Procédures Fiscales	10978
 LA COMMUNICATION ET DES NOUVELLES TECHNOLOGIES	11597
 LA CYBERSECURITE ET LA PROTECTION DES	4867,8503
@@ -1613,11 +1642,12 @@ La SOCIÉTÉ DES MINES	2342
 La Société de Gestion des Stocks	2342
 La Surveillance des Systèmes de Paiement	13468
 Le Banque des Etats	11944
+Le Catalogue des Solutions Interopérables	13841
 Le Centre de Formation des Handicapés Moteurs	10826
 Le Comité de Concertation des Partenaires Techniques	11944
 Le Comité des Affaires Monétaires	7956
 Le Commissariat Général des Migrations	13360,82
-Le Conseil des Ministres	2342,283,113,453,135,1094,147,1500,1776,394,1050,55,1534,20,684,17,1695,1,30,6,1,4,111,278
+Le Conseil des Ministres	2342,283,113,453,135,1094,147,1500,1776,394,1050,55,1534,20,684,17,1695,1,30,6,1,4,111,278,102,2,1,1,17,6,25
 Le Directeur Général des Impôts M. Athoumani	13796
 Le Directeur Général des TIC	13290,51
 Le Directeur des Systèmes	7674
@@ -1726,17 +1756,20 @@ MINEUR POUR DES TESTS L'échantillon	13300
 MINFI Ministère des Finances MW MégaWatt PfoR	10975
 MINISTERE DE LA COMMUNICATION ET DES	6067
 MINISTERE DE LA DEFENSE ET DES	8237
+MINISTERE DE LA JUSTICE ET DES	13940
 MINISTERE DE L’ECONOMIE ET DES FINANCES	3396,7462,18
+MINISTERE DES AFFAIRES SOCIALES ET DES	13835
 MINISTERE DES FINANCES	4645
 MINISTERE DES POSTES	2561
 MINISTRE AUTORITE DE REGULATION DES COMMUNICATIONS	998
 MINISTRE DES FINANCES	10965
 MINISTRE DES FINANCES L’inclusion	10965
 MINISTÈRE DE L'ÉCONOMIE ET DES FINANCES	2959,1443
+MINISTÈRE DE LA JUSTICE ET DES	13908
 MINISTÈRE DES AFFAIRES FONCIÈRES	12009
 MINISTÈRE DES FINANCES	7470
 MINISTÈRE DES FINANCES DU BUDGET ET	3715
-MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402
+MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402,9506
 MINPMEESA Ministère des Petites	10964
 MINPOSTEL Ministère des Postes	10965
 MINPOSTEL des PSF	10965
@@ -1790,7 +1823,7 @@ Ministere des Finances du Budget	13771,25
 Ministre Ministère des Finances	10708
 Ministre des Af- Vice-Président	13405
 Ministre des Affaires	7978,2734,1260,37
-Ministre des Affaires Etrangères	4420,8985,35,5
+Ministre des Affaires Etrangères	4420,8985,35,5,478
 Ministre des Affaires Sociales	10824,45
 Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6,1031,1313,4,5,111,37,23,19,1,62,1,2,68,57,22
 Ministre des Finances Hervé NDOBA	1300
@@ -1814,7 +1847,7 @@ Ministry of Protection Sociale des Public Health	10985
 Ministère des Affaires	2366,2769,2198,1558,3025,1425,101
 Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422,1162
 Ministère des Affaires IPF Sociales	11905
-Ministère des Affaires Sociales	3351,7470,48,95,941,19
+Ministère des Affaires Sociales	3351,7470,48,95,941,19,1932,56
 Ministère des Droits	13442
 Ministère des Eaux	3045
 Ministère des Enseignements	2966
@@ -1838,6 +1871,7 @@ Ministère des Travaux Publics	3231
 Ministère des Télécommunications	10720,967,1603
 Ministères des Finances	13476
 Ministères des Postes	11944
+Ministères. Le Conseil des Ministres	13843
 Minsitere des Finance	940
 Mlnistre des Fjnances. Section IV	13781
 Mobilisation des	3396
@@ -1934,6 +1968,7 @@ Office des Changes	8891
 Office des Changes. Disponible	8891
 Office des Postes	4715
 Office des Produits	8237
+Office des Voiries de Djibouti	13908
 Office for Europe Place des Nations CH-1211 Geneva	10764,80
 Office for Europe Place des Nations Union	11563
 Offices des Postes	11522
@@ -2052,6 +2087,7 @@ Parc des Expositions	6159
 Parc des Technologies Numériques	10795
 Parlement MTPT OCDE O.M. Ministère des Transports	13290
 Parlement des Jeunes du Bénin	10089
+Partage des Données	13898
 Partage des Fréquences Radioélectriques	998
 Parties Prenantes des TIC	13290
 Partnership PPR Peste des Petites Ruminants PPR	11197
@@ -2092,7 +2128,7 @@ Poids des MPME	11944
 Police des Nations	10475
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
 Politique National de Développement des Technologies	13442
-Politique Nationale de Développement des TIC	13290,51
+Politique Nationale de Développement des TIC	13290,51,523
 Politique Nationale de Développement des Technologies	13312,1,1,17
 Politique Nationale des Personnes Handicapées	13442
 Politique Nationale des TIC	13290
@@ -2103,6 +2139,7 @@ Politiques Réseau des Centres des Personnes Handicapées	13442
 Pool des Transports Publics de Voyageurs	6901
 Population des Femmes	13300
 Population des Hommes	13300
+Portabilité des Données	13841
 Portail National des Collectivités Territoriales	557
 Portail des Startups	4567
 Portails des Régions	6685
@@ -2130,6 +2167,7 @@ Programme des Nations-Unies	1684,9028
 Projet Modernisation des Systèmes de Paiement	13468
 Projet de Développement des Compétences	11924
 Projet de Développement des Infrastructures	11529
+Projet de Renforcement des Capacités	13898
 Projet de Restauration des Terres Dégradées	11604
 Projet de Résilience des Systèmes Alimentaires	13806
 Projets Compte-rendu du Conseil des Ministres	3675
@@ -2137,7 +2175,7 @@ Prolifération des Armes	13725
 Promotion des Article	13293
 Promotion des Droits Fondamentaux	10821
 Promotion des FinTech	10237
-Promotion des Investissements	4567,8726,434
+Promotion des Investissements	4567,8726,434,109
 Promotion des Investissements. Article	13293
 Promotion des Investissements. Ils	13293
 Promotion des Investissements. Section	13293
@@ -2162,6 +2200,7 @@ Protection des Droits des Personnes Handicapées	13442
 Protection des Infrastructures	11151
 Protection des Réfugiés	13442
 Protection des Victimes	13330
+Préservation des Informations	13841
 Présidence du Burundi Ministère des Finances MAEIRCD	13427,233
 Président du Conseil des Ministres. Le Conseil des Ministres	11597
 Président du Faso. Des	4029
@@ -2199,6 +2238,7 @@ REGIONS ET DES	10847
 REGULATION A RESPONSABILITE PARTAGEE DES ACTEURS	10906
 RELATIVE A LA PROTECTION DES DONNEES	436
 RENFORCEMENT DES INTERVENTIONS AU NIVEAU COMMUNAUTAIRE	13306
+REPERTOIRE DES LOCALITES ET DES POPULATIONS	13890
 REPERTOIRE DES ORGANES DE PRESSE ET	13324
 RESINA Des	10858
 RESPONSABILITÉ DES PRESTATAIRES TECHNIQUES DE SERVICES	13719
@@ -2363,6 +2403,7 @@ Santé des Femmes	13442
 Scan des QR	13513
 Schéma Directeur des Systèmes	4297
 Secondaires Le Service des Le Service de Gestion	2342
+Secrétaire Exécutif des Réformes des Finances Publiques	13891
 Secrétariat Exécutif des TIC	13290
 Secrétariat Exécutif des TIC Burundi	5958
 Secrétariat Exécutif des Technologies	1284,12006,41,48,127,28,56,68
@@ -2435,15 +2476,19 @@ Spécifications Techniques des Equipements Informatiques	13694
 Startup. Le Collège des Startups	4567
 Statut Général des Etablissements	10975
 Statut Général des Etablissements Publics	10975,6
+Statut Général des Fonctionnaires	13937
 Statut Responsable Des	2966
 Statut des Réfugiés Convention	13442
 Statut des Réfugiés Protocole	13442
+Statuts Particuliers des Fonctionnaires	13937
+Statuts Particuliers des Fonctionnaires. Il	13937
 Stratégie Nationale des Systèmes	9906
 Stratégie des Réformes des Finances Publiques	4739
 Stratégie. La Le Ministère des Finances	10965
 Stratégies de Croissance Accélérée Analyste des Enjeux	7999
 Suecia BARBOU DES PLACES	6613
 Suivi des Actions Gouvernementales	2951
+Suivi des Elèves	13860
 Suivi des Engagements Contractuels Dans	10975
 Suivi des FinTech	10237
 Suivi des Résolutions du Conseil	10975
@@ -2471,8 +2516,8 @@ Système de Gestion des Flux	10921
 Système de Gestion des Impôts	3715
 Système de Gestion des Titres	10922
 Système des Gros Montants Automatisé	10724
-Système des Nations	7555
-Système des Nations Unies	643,5822,95,18,1147,619,547,1983
+Système des Nations	7555,6386
+Système des Nations Unies	643,5822,95,18,1147,619,547,1983,3035,5
 Système des Nations Unies. Il	6578
 Système des Nations-Unies	5530
 Système des Points	13291
@@ -2489,7 +2534,9 @@ Sénégal Fonds National des Rétraites du Bénin	10821
 TABLE DES MATIERES	737,10138,31,2572,239
 TABLE DES MATIERES AVANT-PROPOS	10875
 TABLE DES MATIERES Avant	10847
+TABLE DES MATIERES CONTEXTE	13890
 TABLE DES MATIERES I. Acronymes	13306
+TABLE DES MATIERES Livre Préliminaire	13876
 TABLE DES MATIERES TABLE DES MATIERES	10876,89
 TABLE DES MATIERES. Pages Avant	13377
 TABLE DES MATIÈRES AVANT-PROPOS	13390
@@ -2524,7 +2571,7 @@ TRAVAIL DES ENFANTS Selon la Convention	13300
 TRAVERS DES COLLABORATIONS INTERSECTORIELLES	13306
 TRIPLÉS SUR DES LIGNES SÉPARÉES. S'IL	13300
 Table Ronde des Investisseurs	13405,1
-Table des Matières	747,1,1236,11316
+Table des Matières	747,1,1236,11316,541
 Tableau des Ressources	9276
 Tableaux de Bord de Suivi des Indicateurs	10712
 Tahirou. S'agissant des VTC	12128
@@ -2696,6 +2743,7 @@ Verbesserung des Zugangs	504,399
 Viabilisés Des	3396
 Victimes des Crises	8237
 Village des Technologies	1598,820
+Visualisation des Données	13898
 Volume des TRANSACTIONS BÉNIN	4459
 Vorwurf des Menschenschmuggels	11316
 Vu la Loi des Finances N	7470

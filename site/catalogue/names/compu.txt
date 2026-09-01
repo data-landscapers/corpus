@@ -100,6 +100,7 @@ CSIR. The Centre for High Performance Computing	9126
 CSIRT Computer Security Incident Response Team	6936
 CSPs and MCDAs National Computer and Cybercrime Coordination	6432
 Carbon Footprint of National Compute	4528,7984
+Catalogue of Interoperable Solutions CERT Computer Emergency	13861
 Center Computer Security Incident Response Team	4653
 Central Computation Resources	12240
 Centre for Development of Advanced Computing	6411
@@ -222,6 +223,7 @@ Computer Assisted Personal Interview	582,3462,6733,669,131
 Computer Assisted Personal Interview1	4040,7381
 Computer Assisted Personal Interviewing	11416,5,156
 Computer Assisted Personal Interviewing. EAs	12403
+Computer Assisted Personal Interviews	13873
 Computer Assisted Telephone Interviewing	11416,5,156,1782
 Computer Assisted Telephonic Interview	4044,7402,131
 Computer Assisted Telephonic Interview2	4040,7381
@@ -251,11 +253,11 @@ Computer Donations	7394
 Computer Education Projects	11134
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
-Computer Emergency Response Teams	395,5137,145,5087,147
+Computer Emergency Response Teams	395,5137,145,5087,147,2969
 Computer Engineer	12693
 Computer Engineering	11862,831
 Computer Incidence Response Team	958

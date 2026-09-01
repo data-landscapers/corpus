@@ -202,6 +202,7 @@ Ethiopia. Primary	156
 Ethiopia’s Prime Minister	11607
 Excellency Prime Minister Rimtalba Jean	4727,1
 Excellency the Honourable Prime Minister. Baphalali	12977
+Excellency the Prime Minister	13842
 Excellency the Prime Minister Russel Dlamini	11131
 Excellency the Right Honourable Prime Minister	12956,14
 Excellency the Rt. Hon. Prime Minister	13119,7
@@ -571,7 +572,7 @@ Primary Education Primary	12411
 Primary Education Sector	11916
 Primary Eight and Senior Four	8940
 Primary Health	11857
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
@@ -656,7 +657,7 @@ Primarymath	13392
 Primas	4209
 Primas de Domesticidad	4209
 Primatura	9065,2465
-Primature	312,874,105,391,379,382,140,598,159,56,94,11,873,25,336,116,20,10,1,2394,394,308,21,64,382,305,299,141,91,563,428,206,201,296,726,342,1298,92,235,21
+Primature	312,874,105,391,379,382,140,598,159,56,94,11,873,25,336,116,20,10,1,2394,394,308,21,64,382,305,299,141,91,563,428,206,201,296,726,342,1298,92,235,21,154,65,16
 Primature Disponibilité	3396
 Primature Ministères Choisissez	13668
 Primature and ARCT	13372
@@ -675,7 +676,7 @@ Prime Contractor	11209
 Prime Contractor and Subcontractor	11209
 Prime Lending Rate	11289
 Prime Lending Rate Policy	11289
-Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22
+Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37
 Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073

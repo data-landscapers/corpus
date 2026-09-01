@@ -198,8 +198,9 @@ COMMUNIQUÉ DE L'OFFICE TOGOLAIS DES RECETTES	9976
 COMPANY RECORDS	3714
 COMPANY RECORDS Form	3714
 CONCLUSION ET RECOMMANDATIONS	13390
-CONCLUSIONS AND RECOMMENDATIONS	2518
+CONCLUSIONS AND RECOMMENDATIONS	2518,11367
 CONCLUSÃO E RECOMENDAÇÕES	11561
+CONCOURS DE RECRUTEMENT URL	13863
 CONGO B. The Recent Seasonal	1828
 CONSTITUTIONAL COMMITMENT AND ENACTMENT Recital	3861
 CONSTITUTIONAL FOUNDATIONS Recital	3861
@@ -221,7 +222,7 @@ Cell C Recharge Enhancer Promotion	11259
 Central Service Administration Resource Records Mobilization	12138
 Centralise Records Pressed	9517
 Centre Suisse de Recherches Scientifiques	10919
-Centre de Recherche	3855,4031,69,2314,1647
+Centre de Recherche	3855,4031,69,2314,1647,1936
 Centre de Recherches	2148,584
 Certificat Foncier Recto	13375
 Certificate Authority CARA Criminal Assets Recovery	5533
@@ -1438,7 +1439,7 @@ Recenseamento de Empresas. O Recenseamento de Empresas	10757
 RecenseamentoGeral da População	11421
 Recensement	17,720,2019,640,105,1856,491,712,656,267,58,687,510,153,240,62,1320,334,24,4,10,39,51,74,2341,43,9,232
 Recensement Administratif	2781,8040,1
-Recensement Général	737,1887,1,1700,4063,503,395,999,562,27,2426,90,52,76,228,60
+Recensement Général	737,1887,1,1700,4063,503,395,999,562,27,2426,90,52,76,228,60,84
 Recensement Général des Entreprises	10875,105
 Recensement Général des Entreprises RGPH	10874
 Recensement des Propriétaires des Propriétés	13689
@@ -1518,7 +1519,7 @@ Recharge	13301
 Rechargeable NiCd-batteries	1988
 Rechargements	4459
 Rechenschaftspflicht	900
-Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49
+Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348,274,2,31,277,37,1346,10,6,35,287,49,171
 Recherche Appliquée LCV Laboratoire Central Vétérinaire	12
 Recherche DD	10874
 Recherche Démographiques IHPC	10874
@@ -1530,7 +1531,7 @@ Recherche Scientifique CNRST Centre National	12
 Recherche Scientifique FAST Faculté des Sciences	12
 Recherche Scientifique Ministère	13341
 Recherche Scientifique Oct	13746
-Recherche de Djibouti	4402
+Recherche de Djibouti	4402,9442
 Rechercher	233,1933,4788,2526,4247,19
 Rechercher Loi	4420
 Recherches	12
@@ -1646,15 +1647,15 @@ Recomendações da UNESCO	2816
 Recomendações de Aceitação Em	11442
 Recomendações de Governança	11442
 Recomendou	9226
-Recommandation	1005,9395,2990
+Recommandation	1005,9395,2990,524
 Recommandation UIT	5361
-Recommandations	998,249,1719,430,4603,892,1930,53,2,1167,1298,49,78,45
+Recommandations	998,249,1719,430,4603,892,1930,53,2,1167,1298,49,78,45,336
 Recommandations Bien	13390
 Recommandations Dans	3396
 Recommandations Mesures	1005
 Recommande	550,18,20
 Recommend	21,941,169,1305,1242,1566,910,627,1765,1611,1244,456
-Recommendation	1072,171,571,1144,363,540,265,910,2134,28,350,130,163,181,570,2393,150,21,322,67,415,241,9,128,22,16,9,15,15,129,53,320,18,14,20,25,54,262,110,94,43,106
+Recommendation	1072,171,571,1144,363,540,265,910,2134,28,350,130,163,181,570,2393,150,21,322,67,415,241,9,128,22,16,9,15,15,129,53,320,18,14,20,25,54,262,110,94,43,106,195
 Recommendation Authorisation	13420
 Recommendation Empowermering NACIT	12917
 Recommendation Examples Entrepreneurship Support	10841
@@ -1673,7 +1674,7 @@ Recommendation X.509	1009
 Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4,111,153,194,110,45,25,37,13,9,20,52,93,45,5,9,4,13,15,55,28,3,48,3,32,246,2,4,123,131,18,40,3,73,236,23,2,1,1,21,23,30,30,2,41,71,390
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations Aligning ICT Skills Training	12214
@@ -2192,6 +2193,7 @@ Scheme of Reconstruction Agreement	4360
 Scheme of Reconstruction Disclosure	4896
 Scholarship Recovery Project	12922
 Search for Historical National Registration Card Records	10347
+Secretariat. PREAMBLE RECALLING WITH APPRECIATION	13870
 Sectoral Recovery and Cost Pressures Economic	13532
 Secure and Phased Launch Recognizing	3679
 Services Companies Registry Official Receiver	12280
@@ -2310,6 +2312,7 @@ Transform Africa Summit. RECs	1264
 Transformation and Recommendations for Strengthening	11545
 Transport License. CRIMINAL RECORD	12333
 Travel and Recreation	9815
+Troisième Recensement Général	13890,17
 Type of Notifications Received	11259
 U.S. Recipients	4049,198,55
 UK-initiated AI Safety Summits. Recently	11154

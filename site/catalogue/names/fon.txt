@@ -95,8 +95,9 @@ Directeur du Fond de Service Universel Fidele IRANYIBUTSE	13482
 Direction Nationale des Affaires Foncières	13723
 Direction des Titres Fonciers	13329
 Division des Fonds	7660
+Djibouti Fondation Numérique	13927
 Djibouti Fondations Numériques	3098
-Djibouti Fondement Numérique	7157,40
+Djibouti Fondement Numérique	7157,40,6745
 Djibouti Fondements du Numérique	3370
 Dotación de Fondos	4209
 Dotación de Fondos Especiales	4209
@@ -160,13 +161,14 @@ Foncière RAF	737
 Foncières	10876
 Fonction	737,494,53,398,155,902,502,155,32,205,11,128,1308,200,149,1321,734,171,28,117,43,135,185,33,73,52,196,49,19,87,330,744,73,659,87,60,83,104,24,40,217,632,24,342,20,1230,127
 Fonction Publiqe	8227
-Fonction Publique	548,421,312,3,43,690,497,294,548,40,208,553,241,415,290,2850,56,218,2297,288,9,5,77,2,771,567,1063,8,17,10,49,52
+Fonction Publique	548,421,312,3,43,690,497,294,548,40,208,553,241,415,290,2850,56,218,2297,288,9,5,77,2,771,567,1063,8,17,10,49,52,495
 Fonction Publique MSPLS Ministère	13306
 Fonction Publique Page	10876
 Fonction Publique Restez	1297
 Fonction Publique Sigle	13377
 Fonction Publique Traitement	10821
 Fonction Publique-DGFP	969
+Fonction de Coordination	13841
 Fonction des Postes	1837
 Fonction... Numérique	3658,2617,145
 Fonctionnaires	1301,9410,2630
@@ -213,11 +215,12 @@ Fondation Mastercard	7106
 Fondation Mojaloop	7826
 Fondation OCP	2696,279
 Fondation Orient-Occident	8891
-Fondation Patrick J. McGovern	7282
+Fondation Patrick J. McGovern	7282,6632
 Fondation SNK	2992,202
 Fondation SNK. Il	3329
 Fondation Sèmè City	6514
 Fondation des Médias	2261,51
+Fondation van Allen	13844
 Fondations	1284,4773,548,6847,100,3,10,2,18,92
 Fondatrice	9620
 Fondazione Aurora	10834
@@ -268,6 +271,7 @@ Fonds Monétaire JANVIER International	2342
 Fonds National	3157,7807
 Fonds National de Développement Local	9637,1
 Fonds National des Retraites	10821
+Fonds Numérique	13846
 Fonds Pourquoi le FTD	10708
 Fonds Propres	10847
 Fonds Routier	10087
@@ -285,7 +289,7 @@ Fonds de Garantie Partielle de Portefeuille	6827
 Fonds de Garantie de Djibouti	4567
 Fonds de Garantie des Investissements Prioritaires	7106
 Fonds de Roulement	10975
-Fonds de Service Universel	3262,10269
+Fonds de Service Universel	3262,10269,322
 Fonds de Service Universel. L'ARCT	13482
 Fonds de Solidarité	8269
 Fonds de Solidarité Nationale	4402
@@ -409,6 +413,8 @@ Nomination du PDF du Registre Foncier	13375
 Notification Show More Font ResizerAa Reading	9868
 Nouveau Statut Général des Fonctionnaires	4567
 Nouvelle Loi Foncière	12009
+ORGANISATION ET FONCTIONNEMENT DE L'OBSERVATOIRE	13827
+ORGANISATION ET FONCTIONNEMENT DU CONSEIL D'ADMINISTRATION	13843
 Occupation Fonds	10876
 OpenAI. Fonte	2816
 Organisation Fonctionnetnent du Ministère des Finances	13334
@@ -444,6 +450,7 @@ Programme National Foncier	10876
 Programme National de Sécurisation Foncière	10876
 Projet Djibouti Fondement du Numérique	3795
 Promotion des Droits Fondamentaux	10821
+Propriété Foncière	13829
 Provider G2B Fond de Service Universel	13331
 Proyecto de Fondo de Garantía de Créditos	4209
 Prénom Fonction Email BOAD Tontama Charles	10708
@@ -479,6 +486,9 @@ Sexo Fonte	11387
 Social la Fonction Publique Public Service	10985
 Sociale Stratégique RFU Registres Fonciers Urbains	10876
 Société des Opérations Foncières Immobilières du Cameroun	10987
+Statut Général des Fonctionnaires	13937
+Statuts Particuliers des Fonctionnaires	13937
+Statuts Particuliers des Fonctionnaires. Il	13937
 Sub-sahariana. Fonte	2816
 Système Intégré de Gestion du Foncier Urbain	10937
 Sécurisation Foncière Rurale	10936

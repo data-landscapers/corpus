@@ -968,6 +968,7 @@ ASTRAL AERIAL SOLUTIONS LIMITED Data Controller	7167
 ASTRAL AERIAL SOLUTIONS LIMITED Data Processor	7167
 ASTURE CREDIT LIMITED Data Processor INST-166361A5597	7167
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Automated System for Customs Data CatIS	13861
 ATAGLOB LIMITED Data Processor INST-252924AB19A NAIROBI	7167
 ATC KENYA OPERATIONS LIMITED Data Controller	7167
 ATC KENYA SERVICES LIMITED Data Controller	7167
@@ -1248,7 +1249,7 @@ African Population and Health Research Center Data	7167
 African Regional Data Cube	345
 African Renaissance Trust Data Controller INST-57051983125	7167
 African Spatial Data Infrastructure	13645
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -3564,7 +3565,7 @@ Cyber Security And Data Perfomance Sector	12395
 Cyber Security And Personal Data	1243
 Cyber Security Data	9937
 Cyber Security and Data Protection	318,644
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -3821,7 +3822,7 @@ DATA SECURITY Robust	1243
 DATA SERVICES	6000
 DATA SHARING	3861,8189
 DATA SHARING AND VERIFICATION SERVICES	12047
-DATA SHEET	11924
+DATA SHEET	11924,1912
 DATA SHEET Product Information Operation ID	13742
 DATA SOURCES AND DISCLAIMER Under the Mission	12717
 DATA SOVEREIGNTY AS CONSTITUTIONAL IMPERATIVE	3861
@@ -4944,7 +4945,7 @@ Data Managers	8603,3735
 Data Mapping	13004
 Data Mapping Exercise	6792
 Data Mapping Guideline 3.pdf	6792
-Data Market Development and Integration	1264,5664
+Data Market Development and Integration	1264,5664,6994
 Data Market Development and Integration Jun	6928
 Data Market Inquiry	11195
 Data Marketplace	5244
@@ -5165,7 +5166,7 @@ Data Product	4214
 Data Project	1704,587,11496
 Data Promotion	11259
 Data Protec	13381
-Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60
+Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60,464
 Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65,402,10,4,27,19,21,4,18,8,53,8,1,29,17,12,35,19,12,86,36,1,13,10,6,8,65,12,12,82,172,52,6,17,1,30,1,3,23,259,1,30,39,39,82,54
 Data Protection Act 2011.pdf	12675
 Data Protection Act DSM Dispute Settlement	1243
@@ -5355,6 +5356,8 @@ Data Protection The Office	2668
 Data Protection Week	4757,16
 Data Protection and CII	5780
 Data Protection and Child Safety	6748
+Data Protection and Cross-Border Data	1216,12659
+Data Protection and Cross-Border Data TWG	13875
 Data Protection and Cybersecurity	3162,964,8269
 Data Protection and Cybersecurity Acts	12973
 Data Protection and Cybersecurity Advisor	6096
@@ -5623,6 +5626,7 @@ Data Use and Statistical Capacity	769
 Data User Personas	1161
 Data Users	6792
 Data Validation	12367
+Data Validation and Coordination Collaborate	13925
 Data Value Chain	8427
 Data Value Creation Mandates	5244
 Data Value Creation Mandates Data	5244
@@ -5780,6 +5784,7 @@ Deputy Data Commissioner John Walubengo	2668
 Deputy Data Commissioner Oscar Otieno	2668
 Deputy Data Protection Commissioner Ms Misozi	13430
 Deputy Data Protection Commissioners	13321
+Des Data Center	13924
 Description Africa Data Centres	1041,524
 Description Cyber Security and Data Security. Human	11131
 Description Data Protection And Privacy	1760,1383,3772
@@ -6192,6 +6197,7 @@ East Africa Data Centre Nairobi	12285
 East Africa Data Controller INST-190042FFF42 NAIROBI	7167
 East Africa Data Controller INST-4911146A91D NAIROBI	7167
 East Africa Data Processor INST-190042FFF42 NAIROBI	7167
+East Africa Regional Data Governance Workshop	13944
 East African Breweries Foundation Data Controller	7167
 East African Carbon and Biodiverity Ltd Data	7167
 East African Data Centres	9239
@@ -6761,10 +6767,13 @@ ID. Data	10714,61,1144
 ID4D-Findex Survey Data The ID4D	10714
 ID4D-Global Findex Data	10714
 IDEMOC National Infrastructure for Spatial Data INAGE	4214
+IGAD Regional Health Data Sharing	13845
+IGAD Regional Health Data Sharing and Protection	13845
 IGInnldnooebvxaal2t0io2n4 Data	11885,466
 IGInnlndooebvxaal2t0io2n4 Data	11884
 II OCA AN DATA SHARING AGREEMENT	4154
 II. PROJECT DATA AND RATINGS	12195
+II. PROJECT DATA AND RATINGS Table	13875
 IIGnnldnooebvxaal2t0io2n4 Data	10969
 III Certification for Data Centre	10956
 III. Mapping of Data Flows	13004
@@ -6993,6 +7002,7 @@ Kenya’s Data Protection Commissioner	6410
 Key Data	13054
 Key Laboratory for Industrial Big Data Analysis	13666
 Key Project Data and Ratings	12195
+Key Project Data and Ratings Project Data	13875
 Khazna Data Center	8045
 Khazna Data Centers. Khazna	1639
 Kind of Data	13084,675
@@ -8205,6 +8215,7 @@ Program. Frequency Annual Data	3604
 Program. Frequency Annual. Data	3604
 Programme Officer for Data Management	9469
 Project Activities The National Data Centre	12253
+Project Data Project ID	13850
 Project Financing Data	12388,24,14,243,1124
 Project Implementation Services For Establishing Data	4576
 Project Location The National Data Centre	12253
@@ -8270,6 +8281,7 @@ Questioning Data Saturation	5349
 Quotes Data Highlights Collaboration	10857
 RACKS DU DATA CENTER	13524
 RAMESH MEGHI SHAH Data Processor	7167
+RAS DIKA CLS and Data Center	13851
 RATINGS Project Data	13378
 RATINGS Project Data Key Project	13392
 RATIONALE FOR THE DATA AND CLOUD	11196
@@ -8655,7 +8667,7 @@ Site New Data Centre	13185
 Skills Data Challenge	13636
 Skills and Human Capital Data	3861
 Smart Africa Data Exchange	4036,290,1624,419
-Smart Africa Data Governance Blueprint	10073,1366
+Smart Africa Data Governance Blueprint	10073,1366,2505
 Smart Africa Data Protection Working Group	961,9858
 Smart Data Ukimet. All	1749
 SmartCare Data Analyst MoH	34
@@ -8955,7 +8967,7 @@ UNCTAD Data	10844
 UNCTAD Data Center	10844
 UNCTADStat. Data	1243
 UNDP Human Development Data Centre	11586
-UNESCO's Data Governance Toolkit	8043,2030
+UNESCO's Data Governance Toolkit	8043,2030,3871
 UNESCO’s Data Governance Toolkit	10601
 UNESCO’s Data Governance Toolkit. UNESCO	11439
 UNHCR Joint Data Center	13203
@@ -9120,6 +9132,7 @@ World Data Organization	12864
 World Data System WDS	5246
 World Health Organization. Data Quality Review	11596
 World of Open Data	2096
+Worldwide Governance Indicators DATA SHEET RESTRUCTURING	13861
 Worldwide Mobile Data Pricing	12336
 X Data	13331
 XALAM DATA CENTER MARKET BRIEFING	3184,1,1340,6256,214
@@ -9156,6 +9169,7 @@ Zamengoe Data Center. CAMTEL	4271
 Zamengoe Data Centre	6606
 Zanzibar Data	11133
 Zanzibar Data Protection Act	11133
+Zero Slum Program. BASIC DATA Operation	13897
 Zero-Rated Data Access	6748
 Zero-Rated Data Access Project	6748
 Zimbabwe Appointed SADC Data Protection Leader	3016

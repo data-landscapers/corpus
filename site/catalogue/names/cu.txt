@@ -17,9 +17,11 @@ ANUAL CUOTA ANUAL Ficha	4209
 ANY CURRICULUM Examinations Council of Zambia Haile	13477
 ARCEP Customer	5679
 ARTS AND CULTURE Cabinet	13673
+ARULOS. Current Development Objective	13897
 ASUNTOS GENERAL DE Cuentas CONCEPTO	4209
 ASUNTOS SERVICIOS DE Cuentas CONCEPTO ADMINIS	4209
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Customs Digitalization	13042
 ASYCUDA Customs G2B	13314
 ASYCUDA New Generation Customs Management Software	13042
@@ -188,6 +190,7 @@ CHANGES TO INTERMEDIATE INDICATORS Current Indicator	4653
 CHANGES TO PDO-LEVEL INDICATORS Current Indicator	4653
 CMF HACIENDA CMF CUOTA ANUAL CUOTA	4209
 CO2. Currently	1264
+COCF TABLE OF CONTENTS CURRENCY EQUIVALENTS	13885
 COMERCIO CUOTA ANUAL	4209
 COMPLIMENT TOTAL POSITIONS CURRENT Minister’s Officer	12970
 COMPONENTS Current Component Name Current Cost	1284
@@ -268,7 +271,7 @@ CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CURIAE CORAM	13040
 CURR IncorrectAgent Agent	12364
 CURRENCY CONVERSIONS	1818
-CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1
+CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88,81,356,19,41,211,792,363,1,402,8,1,118,24
 CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649
 CURRENCY EQUIVALENTS Exchange Rate Effective Oct	11855
 CURRENCY UPGRADES	13532
@@ -362,6 +365,7 @@ Collection and Curation. Volume	8021
 Colocation Cut	9446,1510
 Colombia Costa Rica Cuba Dominican Rep	10764
 Comissão de Cultura	539
+Commission Nationale du Patrimoine Culturel	13908
 Commissioner of Customs	7512
 Commissioner of Customs Patrick Kachingwe	9093
 Common European Data Space for Cultural Heritage	7313
@@ -579,7 +583,7 @@ Cultural-norm	7790
 Culturally Develop	4126
 Culturally Grounded Misogyny Detection Framework	7790
 Culturas Autóctonas	4209
-Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56
+Culture	1200,47,741,820,150,438,91,338,301,276,493,351,305,43,1238,335,381,251,44,135,254,5,32,449,32,38,103,515,463,21,71,32,307,219,328,284,3,1,16,123,940,32,99,67,479,80,1,318,100,84,87,124,43,16,56,108
 Culture AI	2958
 Culture Any Arab	2958
 Culture Applications	2958
@@ -713,7 +717,7 @@ Cure International	13445
 Cure Weak Erection	5574,215
 Curently	12925
 Cureus	8460
-Curie	1766,2016
+Curie	1766,2016,10057
 Curie Cable	3782
 Curing TB	4260
 Curiosity	5551,5592
@@ -753,12 +757,12 @@ Currency Taxes	11563
 Currency Technical Working Group	10260
 Currency US	1284
 Currency USD	3676
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25
 Currency Unit1 Equivalent	11863
 Currency and Banking	11134
 Currency and Exchanges Act	8840
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277,54,2,48,11,7,1,31,5,11,15,2,6,64,152,9,9,5,22,12,30,72,30,41,5,12,103,120,44,188,11,16,5,20,41,35,13,1,4,256,17,54,33,2,59,53,284,104
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775
@@ -783,11 +787,12 @@ Current Closing Date	12220
 Current Column	10841
 Current Connectivity AI	7548
 Current Constitution	9914,1,77
+Current DARE1 Network Map DARE1	13869
 Current DLP	899
 Current Data	7548
 Current Demand-linkage	7548
 Current Design-linked	7548
-Current Development Objective	2473
+Current Development Objective	2473,11443
 Current EAC	7548
 Current Energy	7548
 Current Energy Prices	12515
@@ -1214,6 +1219,7 @@ DEUDA PÚBLICA Cuentas CONCEPTO	4209
 DFS. FACTOR CURRENT IMPACT Identification and KYC	11994
 DFS. FACTOR CURRENT IMPACT Population	11994
 DFS.145 FACTOR CURRENT IMPACT Population	11994
+DGDDI General Directorate for Customs and Indirect Taxation	13861
 DISBURSTBL Fiscal Year Annual Cumulative	1284
 DMDI Cuts Ribbon	10644
 DO THE CURRENCY DIRECTIVES MEAN	13532
@@ -1311,6 +1317,7 @@ ESS9 Not Currently Relevant. Summary of Assessment	11965
 ESTRUTURA DE CUSTOS DA EMPRESA	10757
 ET DE CUISSON PROPRE POUR UN	13433
 East Africa's Single Customs Territory. Côte	4149
+East And North Africa Region CURRENCY	13836
 Eastern and Southern Africa World Customs Organisation	12454
 Ecobank. Customers	9449
 Economic Development and Cultural Change	10985,540
@@ -1567,6 +1574,7 @@ Know Your Customer-KYC	13522
 Know-Your Customer System	4894
 Know-Your- Customer	1704
 Korea Customs Service	13044
+LA CULTURE	13908
 LEY Cuenta Explicación	4209
 LFR Cuenta Explicación	4209
 LMIS. Currently	13187
@@ -1737,6 +1745,7 @@ Norte Cuanza Sul	10766
 Norte Cuanza Sul Cunene	10766
 Norte Cuanza Sul Cunene Huambo Huíla	10766
 Norte Cuanza Sul Malanje Lunda Norte	10777
+Nov-2018. Current Closing Date	13897
 O- Cultural	582
 OOB. Customers	4732
 OPS TABLE PDO CURRENTPDO Summary Status of Financing	1228
@@ -1781,6 +1790,7 @@ Pacific Islands Customs and Trade	13042
 Parameter Design Detail Current Utilization	13185
 Parking Cubierta	4209
 Parlamento Interventor de Cuentas	4209
+Patrimoine Culturel National	13908
 Património Cultural	11390,16
 Paying Customers Article	12616
 Payment Payment Cut-off Cut-off Manifestation	12364

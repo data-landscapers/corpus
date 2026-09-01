@@ -75,7 +75,7 @@ Anti Entropy Data Controller INST-464292EB613 NAIROBI	7167
 Appendix III- Entities GCSPs MICDE	6432
 Application for Good Standing Certificate Enterprise Provide	12483
 Application. The Procuring Entity	1638
-ArcGIS Enterprise	10761
+ArcGIS Enterprise	10761,3137
 Artificial Intelligence Enters the Justice System	11641
 Artificial Intelligence Ghanaian Entrepreneur Alfred Opare	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Arts and Entertainment	4528,7984
@@ -476,6 +476,7 @@ Education Management Information System ERP Enterprise	12917
 Education Management Information Systems ENT Ear	12975
 Effectif Pourcentage Entreprise	10875
 Emerging Market and Developing Economies ERM Enterprise	6946
+Emploi SMEs Small and Medium Enterprises ToR	13836
 Employment and Entrepreneurial Team	13358
 Empower Enterprise	10793
 Empower Women Enterprises	2206
@@ -788,7 +789,7 @@ Entrent	13300
 Entrent-elles	10190
 Entreposage	8719
 EntreprenHER	12613
-Entreprenariat	1247,461,6561,5056
+Entreprenariat	1247,461,6561,5056,521
 Entreprendre	12,8666,4623
 Entrepreneur	437,810,6769,299,522,1599,3025
 Entrepreneur Journey	3907
@@ -799,16 +800,17 @@ Entrepreneurial Ecosystem	940
 Entrepreneurial State	5700
 Entrepreneurial Support Organizations	13358
 Entrepreneurial and Vocational Education and Training	13060
-Entrepreneuriat	4343,550,2324,510,991,1801
+Entrepreneuriat	4343,550,2324,510,991,1801,3360,15,15
 Entrepreneuriat Engagement	13822
 Entrepreneuriat National	7926
 Entrepreneuriat Rapide des Femmes	7106
 Entrepreneuriat du Gabon	7268
+Entrepreneuriat. Il	13846
 Entrepreneurs	415,622,2559,932,1272,1673,991,509,449,176,427,798,140,1,890,9,68,104,18,323,68,672,231,11
 Entrepreneurs BongoHive	9198
 Entrepreneurs X X	12376
 Entrepreneurs of Youth	12512
-Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13
+Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13,412
 Entrepreneurship Agro-entrepreneurship	10841
 Entrepreneurship Development	940
 Entrepreneurship Development Centre	3253
@@ -1052,6 +1054,7 @@ III.2.1 ENTREPÔT DE DONNÉES	13306
 III.2.1 Entrepôt	13306
 INACOM. Entretanto	6798
 INT. ENTRADA	11574
+INTERACTION ENTRE LE MDENI ET L'ENSEMBLE	13846
 INTIC Consulting Entity	3058
 IRA Entre	10777
 IRPC Entidades	12018
@@ -1110,6 +1113,7 @@ JUDICIAL ENTRE AS RECOMENDAÇÕES DAS JORNADAS	11414,59
 Job and Entrepreneurial Expo for Persons	12977
 Jobs and Entrepreneurship Opportunities The Digital Futures	10290
 Joint Enterprise Defense Infrastructure	4259
+Jordan's Ministry of Digital Economy and Entrepreneurship	13902
 Journal of Enterprise Africa	9129
 Journal of Small Business and Enterprise	9129
 KPIs. GCSPs Entities CAC Entities	6432
@@ -1546,6 +1550,7 @@ Small and Medium Enterprises Development	940,6496,825,3041,2289,82
 Small and Medium Enterprises Development Agency of Nigeria	11309
 Small and Medium Enterprises Development FOREWORD My	13391
 Small and Medium Enterprises MTEF Medium Term	1988
+Small and Medium Enterprises NDP National Development	13836
 Small and Medium Enterprises National Development Strategy	940
 Small and Medium Enterprises Nonbank Financial Institutions	11134
 Small and Medium Enterprises. ARTICLE	13326
@@ -1717,7 +1722,7 @@ Youth Economic Inclusion and Entrepreneurship US	971
 Youth Enterprise Development Fund Loan Disbursement	2775
 Youth Enterprise Fund	13245
 Youth Enterprise Revolving Fund	4535,7877,544
-Youth Entrepreneurship	792,3988,1642,7052,211
+Youth Entrepreneurship	792,3988,1642,7052,211,214
 Youth Entrepreneurship Investment Bank	8101,3619
 Youth Entrepreneurship and Innovation Multi-Donor Trust Fund	567,373
 Youth Entrepreneurship and Innovation Trust Fund	940

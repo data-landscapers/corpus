@@ -12,6 +12,7 @@ AIDS DSSC District Social Support Committee	12964
 ALL ADULTS USE SOCIAL MEDIA	10977
 AMBIENTAL E SOCIAL	11390
 AMBIENTAL E SOCIAL O Ministério	11542
+ARULOS Urban Rehabilitation and Social Housing Agency	13861
 ASA Angola Adaptive Social Safety Nets	10768
 ASPECTOS AMBIENTAIS E SOCIAIS DO PROJECTO	11390
 ASUNTOS SOCIALES Y ARTESANIA	4209
@@ -39,6 +40,7 @@ AfDB's Environmental and Social Systems Assessment	13217
 Affaires Sociales	10829,2500,12,101
 Affaires Sociales DGEFC Direction Générale des Eaux	10876
 Affaires Sociales Guy Patrick OBIANG NDONG	1231
+Affaires Sociales URL	13912
 Affairs The Department of Economic and Social Affairs	10840
 Africa. Social and Cultural Studies of Robots and AI	2816
 Africa. United Nations Economic and Social Commission	12413
@@ -47,6 +49,7 @@ African Space Policy and African Strategy for Social	1814
 Agence Djiboutienne de Développement Social	4402
 Agence Nationale de Protection Sociale	10824
 Agency INRAP Monitoring and Evaluation Ministry of Social	11905
+Agency for Slum Upgrading and Social Housing	13897
 Agency for Social Protection	10307
 AgriSoko Digital Platform Ministry of Labor and Social	5172
 Agriculture and Social Statistics	12962
@@ -142,6 +145,7 @@ CLASSIFICAÇÃO DO RISCO AMBIENTAL E SOCIAL	11390
 CNE’s Gender and Social Inclusion Unit	11586
 CNPS Conselho Nacional de Proteção Social	11547
 CNSS National Center for Social Security CPC	10812
+CNSS National Social Security Fund	13861
 CONSTAT D’IMPACT ENVIRONNEMENTAL ET SOCIAL	1005
 CORE-MIS Building the Unified Social Registry	13395
 CORPORATE SOCIAL RESPONSIBILITY	12951
@@ -156,7 +160,7 @@ Cadastro Social Unico	10775,4
 Cadastro Social Unico Gaspar Dos Santos	7882,3599
 Caisse Malienne de Sécurité Sociale	8103
 Caisse Nationale de Prévoyance Sociale	10087,876,1
-Caisse Nationale de Sécurité Sociale	4402,165,422,5823,64,191
+Caisse Nationale de Sécurité Sociale	4402,165,422,5823,64,191,2794
 Caisse Nationale de Sécurité Sociale CNSS	737
 Cameroon Estimated Appraisal Date Project Social	10963
 Cameroon's Unified Social Registry	10985
@@ -289,6 +293,7 @@ Data Science for Social Impact	11143
 Date Social Risk Rating	11417
 Dec-2021. Republic of Mozambique. Social Protection	12220
 Decentralization and Social Cohesion	10828
+Demographic and Social Statistics	13906
 Demographics and Social Statistics Section	12330
 Demography and Social	12768
 Departamento da Comunicação Social	11561
@@ -358,6 +363,7 @@ District Social Welfare Officer	12216
 District Social Welfare Officers	13332
 Districts. The Provincial Social Welfare Office	13332
 Diálogo Social	6841
+Djiboutian Agency for Social Development URL	13911
 Du Registre Social Unique ARTICLE	13715
 Dutch Ministry of Social Affairs and Employment	7966
 Dyck Senior Social Protection Specialist Borrower	13523
@@ -498,7 +504,7 @@ Environmental and Social Requirements	1988
 Environmental and Social Review Summary	1260,30,4330,1736,4034
 Environmental and Social Review Summary FNE Environmental	10964
 Environmental and Social Risk	1988
-Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9
+Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113
 Environmental and Social Risk Classification Concept Review	13111
 Environmental and Social Risk Management	1988,1468
 Environmental and Social Risk Management Instruments	1988
@@ -564,6 +570,7 @@ FICHA DE TRIAGEM AMBIENTAL E SOCIAL	11390
 FIDUCIARY COMPLIANCE Environmental and Social	11924
 FILETS SOCIAUX DE SÉCURITÉ ET INDICATEURS	737
 FM Environmental and Social Standards GCP European	3604
+FORMALISATION ET DE LA PROTECTION SOCIALE	13891
 Facebook Social Plugin	5784,4,162,263
 Facebook The South African Social Security	3504
 Facebook Website Social Networking	12395
@@ -800,6 +807,7 @@ Limited. Social	13654
 Limpopo Department of Social Development	8018
 Livelihood Restoration Plan Satellite Social Specialist	1988
 Local Server Local Server Social Security	10775
+Logement Social	13831,30
 Logements Sociaux	1284,12045
 Logements Sociaux Assemblée Nationale Infrastructures	13341
 Logements Sociaux L’Office Burundais	13329
@@ -823,6 +831,7 @@ MILLION FROM THE STRENGTHENING MOZAMBIQUE'S SOCIAL	12780,1
 MINAS Ministère des Affaires Sociales	10964
 MINISTER OF HEALTH AND SOCIAL SERVICES	12925
 MINISTERE DE L’ACTION SOCIALE	2966
+MINISTERE DES AFFAIRES SOCIALES ET DES	13835
 MINISTERIO DE SANIDAD Y BIENESTAR SOCIAL	4209
 MINISTRY OF LABOUR AND SOCIAL	13126
 MISA Institute of Social Communication of Southern Africa	4214
@@ -868,8 +877,9 @@ Minister of Human Resources and Social Development Moatasim	8613
 Minister of Labour and Social Security	4192
 Minister of Poverty Eradication and Social Welfare	12923
 Minister of Social Action	10763
-Minister of Social Affairs	10971
+Minister of Social Affairs	10971,2958
 Minister of Social Affairs and High Committee	3073
+Minister of Social Affairs and Solidarity	13911
 Minister of Social Development	2307,1295,1031,34,1555,4926,66
 Minister of Social Development and Others	2307
 Minister of Social Integration	6458
@@ -902,6 +912,7 @@ Ministry of Social Action	10765,3,7,1,599,5,15
 Ministry of Social Action and National Solidarity	10812
 Ministry of Social Affairs	1828,9001,12,122,1,6,15,21,891,8,2,17,1388,2
 Ministry of Social Affairs and Inclusion	3500
+Ministry of Social Affairs and Solidarities	13857
 Ministry of Social Development	12661,13
 Ministry of Social Solidarity	2955
 Ministry of Social Welfare	11133
@@ -910,7 +921,7 @@ Ministry of State for Social Action	10763
 Ministry of Women and Social Affairs	12188,38
 Ministry of Women and Social Cohesion	11525
 Ministère des Affaires IPF Sociales	11905
-Ministère des Affaires Sociales	3351,7470,48,95,941,19
+Ministère des Affaires Sociales	3351,7470,48,95,941,19,1932,56
 Ministério da Acção Social	7882,2872,9,2,3,7,603,2,7,19,75,1
 Ministério da Comunicação Social	7527
 Ministério da Comunicação Social X X	11569
@@ -1137,6 +1148,7 @@ Projet de Filets Sociaux de Sécurité Résilients	13737,51
 Promote Social Inclusion	12356
 Promoted Five Social Workers	12977
 Promoting Justice and Social Equality	2958
+Promoting Social Inclusion and Economic Livelihoods Zoom	13865
 Promotion Social CSP	737
 Promotion Sociale	10812,69
 Promotion of Social Justice	2958
@@ -1189,7 +1201,7 @@ Regional Social Cohesion Project	7426
 Regional Social Welfare Offices and Tinkhundla Centres	12405
 Regional and International Frameworks The Social Protection	12964
 Registo Social Nacional	11547
-Registre Social	13715
+Registre Social	13715,120
 Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
 Registre Social Unifié du Cameroun	10985
@@ -1376,7 +1388,7 @@ Sociais Relacionados	11406
 Sociais SECÇÃO I Saúde Artigo	12785
 Sociais Utilizados	11406
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2,26,2,7,116,11,13,20,8,16,2,23,45,3,1,41,16,22,87,80,14,17,27,60,43,62,9,78,44,31
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231,14,2,43,5,19,31,9,1,21,8,6,2,48,7,33,47,64,9,4,6,33,17,21,36,6,2,2,22,1,10,3,10,6,6,17,19,9,1,2,32,15,22,22,7,134,15,69,2,26,2,7,116,11,13,20,8,16,2,23,45,3,1,41,16,22,87,80,14,17,27,60,43,62,9,78,44,31,226,6
 Social APDCH Aliança	11390
 Social Accountability	12194,776
 Social Action	10763,5,7,1080
@@ -1446,6 +1458,7 @@ Social Communication Institute	12201
 Social Communication Minister Mario Oliveira	9500
 Social Conflict	12253
 Social Construction of Reality	8380
+Social Context and Cross-Cutting Themes	13885
 Social Contract	4430,9044
 Social Contracting for Health Policy	12421
 Social Contribution	12389
@@ -1667,7 +1680,7 @@ Social Register	11988,32
 Social Registers	11988
 Social Registries	3276,9167
 Social Registries for Social Assistance and Beyond	10819,314
-Social Registry	1992,840,8034,659,330,515,42,68,18,43,439,100,119,260,64,69
+Social Registry	1992,840,8034,659,330,515,42,68,18,43,439,100,119,260,64,69,264,1
 Social Registry Enhanced	11855
 Social Registry Imbeleko Programme	12480
 Social Registry Imbeleko Study Results	12480
@@ -1681,6 +1694,7 @@ Social Registry WBG World Bank Group	10964
 Social Registry. Importantly	11525
 Social Registry. ME PDO Table SPACE	11855
 Social Registry. Page	11855
+Social Registry. TABLE OF CONTENTS DATASHEET	13856
 Social Registry. The Social Registry	11525
 Social Registry. The WFP	11525
 Social Registry. the RSI Program. Thise	11855
@@ -1722,6 +1736,7 @@ Social Sciences	1554,6205,127,490,1733,941,2697,67
 Social Sciences and Humanities	8436,3763
 Social Screening for Local	1988
 Social Searcher	11651
+Social Sector Expert	13885
 Social Security	2307,2303,1848,480,1831,2006,37,1093,1059,8,507
 Social Security Act	12327
 Social Security Commission	12466,12,445,38,76
@@ -1770,6 +1785,7 @@ Social Support Technical Committee NSSP Social	12964
 Social Support for Resilient Livelihoods Programme	13191
 Social Support for Resilient Livelihoods Project	12181,799,131
 Social Sustainability and Inclusion Extractives	1867
+Social Sustainability and Inclusion Middle East and North	13856
 Social Systems Ministry of Completion NA Economy	10870
 Social Tariff	9409
 Social Team Manager	12195
@@ -1901,7 +1917,7 @@ Stress Testing Social Protection Tool	10763
 Studies School of Technology and Social Sciences Dept	10123
 Sub-Saharan Africa. Social	11855
 Subsector Social	4209
-Substantial Environment and Social	1284,1428,3867,5392,17,1070
+Substantial Environment and Social	1284,1428,3867,5392,17,1070,862
 Substantial Environment and Social Stakeholders Overall	11395
 Sudan Social Development Organization	6947
 Summary of Assessment of Environmental and Social Risks	10963
@@ -1924,6 +1940,7 @@ T Ministry of Health and Social Services	12327
 T Ministry of Poverty Eradication and Social Services	12327
 TBD Social Recovery and Human Development	970
 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO SOCIAL	3519
+TP.1 Economic and Social Commission for Western Asia	13906
 TRIAGEM AMBIENTAL E SOCIAL	11390
 TV Radio Social Media News Squeeze	8999
 Tanzania Social Action Fund	136,10997,9
@@ -1982,7 +1999,7 @@ United Nations Department of Economics and Social Affairs	11572
 United Nations Department of Social and Economic Affairs	12962
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Asia	12367,46
-United Nations Economic and Social Commission for Western	4492,2736
+United Nations Economic and Social Commission for Western	4492,2736,6678,7
 Unité de Gestion des Projets Filets Sociaux	13737
 Universal Social Protection	1445,3
 University of Social Sciences	11017

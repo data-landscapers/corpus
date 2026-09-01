@@ -379,6 +379,7 @@ Excellences	1967,7671,3317
 Excellencies	7103,2658,198,210,1058,129,598,734,14,58
 Excellencies Heads of Diplomatic Missions	12668
 Excellency	958,196,400,998,74,161,973,2988,911,2461,1006,731,97,27,915,26,33,15,12,51,262,96,52,44,45,59,82,143
+Excellency Abdoulkader Kamil Mohamed	13842
 Excellency CDE	4528,7984,1031
 Excellency Corinne Amori Brunet	9043
 Excellency Daniel Aristi Gaztelumendi	13156
@@ -392,13 +393,16 @@ Excellency Dr. Emmerson D. Mnangagwa	958,12586
 Excellency Dr. Emmerson Dambudzo Mnangagwa	5148,5173,2319
 Excellency Dr. Emmerson Mnangagwa. President	13440
 Excellency Dr. Florentino Mendes Pereira	6087
+Excellency Dr. Jane Ruth Aceng	13870
 Excellency Dr. Joaquim Alberto Chissano	12640
 Excellency Dr. Lazarus McCarthy Chakwera	12987
+Excellency Dr. Marian Mohamed Hussein	13870
 Excellency Dr. Mathew Antonio Patrick	12640
 Excellency Dr. Mokgweetsi Eric Keabetswe	12640
 Excellency Dr. Samia Suluhu Hassan	9011
 Excellency Dr. Stefan Scholz	13156
 Excellency Dr. William Samoei Ruto	13440
+Excellency Dr. Workneh Gebeyehu	13870
 Excellency Emmerson Dambudzo Mnangagwa	13557
 Excellency Gabriele Annis	13207
 Excellency General Shaikh Rashid	13807
@@ -408,6 +412,7 @@ Excellency Hakainde Hichilema	12356
 Excellency Henri Eyebe Ayissi and MINDCAF	10987
 Excellency High Commissioner Shri Alok	13466
 Excellency Isaak Mohamud Mursal	13440
+Excellency Ismail Omar Guelleh	13911
 Excellency Joseph Dion Ngute	8506
 Excellency Josephine Gauld	3895
 Excellency Kenya's President Dr. William	4165
@@ -416,11 +421,13 @@ Excellency Lucia Witbooi	2626
 Excellency Mahmoud Ali Youssouf	10169
 Excellency Minister Musabyimana	12370
 Excellency Mohammed B.S. Jallow	7694
+Excellency Mr Ahmed Osman Ali	13842
 Excellency Mr Cyril Ramaphosa	11183
 Excellency Mr Daniel Francisco Chapo	12640
 Excellency Mr Elias M. Magosi	10321
 Excellency Mr Elias Magosi	12942
 Excellency Mr Hakainde Hichilema	11112
+Excellency Mr Isman Ibrahim Robeh	13842
 Excellency Mr Jacob Zuma	11183
 Excellency Mr Jean Yvan Robert	9658
 Excellency Mr. Bakar Mvoulana	13816
@@ -429,6 +436,7 @@ Excellency Mr. Evariste Ndayishimiye	13440
 Excellency Mr. Louis-Paul	4103
 Excellency Mr. Matamela Cyril Ramaphosa	10321,2319
 Excellency Mr. Mário Oliveira	11466
+Excellency Mrs Mariam Hamadou Ali	13842
 Excellency Mrs. Sarah S. Molosiwa	6642
 Excellency Muhammadu Buhari	11857
 Excellency Park Jae Kyung	13551
@@ -452,6 +460,7 @@ Excellency President Yoweri Kaguta Museveni	9781
 Excellency Prime Minister Rimtalba Jean	4727,1
 Excellency Professor Arthur Peter Mutharika	12640,482
 Excellency Saana Halinen	13156
+Excellency Sarah Cletto Hassan Rial	13870
 Excellency Shri Narendra Modi	11183,742
 Excellency Tewodros Mihret	12288
 Excellency The Deputy President	12321
@@ -462,6 +471,7 @@ Excellency the Honourable Prime Minister. Baphalali	12977
 Excellency the President	3760,3935,972,3124,662,669,204,19,42,56,230,15
 Excellency the President Cde. Dr. Emmerson	3760,9683
 Excellency the President's Attendance	3760,9683
+Excellency the Prime Minister	13842
 Excellency the Prime Minister Russel Dlamini	11131
 Excellency the Right Honourable Prime Minister	12956,14
 Excellency the Rt. Hon. Prime Minister	13119,7
@@ -502,7 +512,7 @@ Exceptua-se	14,11416,83
 Exceptuam-se	4274,2696,3785,765
 Excepté	737,12556
 Excepções	15
-Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59,1266,312,29,7,1,3,17,15,64,24,13,40
+Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59,1266,312,29,7,1,3,17,15,64,24,13,40,370,9,33
 Excerpt of Dashboard	11912
 Excerpts	13149,17,366
 Excesiva	1701
@@ -541,7 +551,7 @@ Exchange Points FMCT	11857
 Exchange Programs	12356
 Exchange Rate	3583,2825,6652
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1,93,25
 Exchange Rate Policy	13060
 Exchange Rates	4896,8066
 Exchange Rates.pdf	1944
@@ -636,7 +646,7 @@ Exclusion Thresholds	7548
 Exclusion and Optimal PodYield Production	1154
 Exclusion of SMEs	1248
 Exclusionary Regulations	2307
-Exclusions	2624,9515,200,236
+Exclusions	2624,9515,200,236,1301
 Exclusions PART IV	12532
 Exclusions This Supplementary Act	11517
 Exclusions and Carve-Outs	3861
@@ -1014,6 +1024,7 @@ Restore NCC’s Exclusive Telecom Powers Wale	7776
 Risks of Algorithmic Bias and Exclusive Digital	8747
 Rwanda Internet Exchange	7246
 Rwanda Internet Exchange Point	718
+République Son Excellence Ismail Omar Guelleh	13918
 République du Burundi Son Excellence Evariste Ndayishimiye	13406
 SA-based Digital Exchange Port	7005
 SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
@@ -1054,18 +1065,21 @@ Smart Africa Data Exchange	4036,290,1624,419
 Social Exclusion	1988,8738
 Social Media Post Sparks Diplomatic Exchange	4942
 Son Excel-	13341,64
-Son Excellence	2738,453,114,21,55,565,2121,3019,2511,433,1375
+Son Excellence	2738,453,114,21,55,565,2121,3019,2511,433,1375,523
+Son Excellence Abdoulkader Kamil Mohamed	13941
 Son Excellence Brice Clotaire Oligui Nguema	3581
 Son Excellence Denis Sassou N’Guesso	3173
 Son Excellence Evariste Ndayishimiye	13405
 Son Excellence Félix Antoine Tshisekedi Tshilombo	6460,5549
 Son Excellence Félix Tshisekedi	2565
 Son Excellence Félix-Antoine TSHISEKEDI TSHILOMBO	2602
-Son Excellence Ismaïl Omar Guelleh	7149
+Son Excellence Ismaïl Omar Guelleh	7149,6779,6
 Son Excellence José Mpanda Kabangu	6460
 Son Excellence Judith Suminwa	2565
 Son Excellence Kamel Abdel Hadi Al-Wazir	4402
 Son Excellence Kassim Majaliwa Majali- Dans	13405
+Son Excellence M. Ismail Omar Guelleh	13928
+Son Excellence M. Ismaïl Omar Guelleh	13919
 Son Excellence Madame Jessica Davis Ba	10925
 Son Excellence Madame Mariam HAMADOU Ali	3267
 Son Excellence Madame la Première Ministre	4893
@@ -1095,6 +1109,7 @@ Son Excellence Prenant	13405
 Son Excellence Samia Suluhu Hassan	13405
 Son Excellence le Capitaine Ibrahim TRAORE	3189,2637
 Son Excellence le Capitaine Ibrahim TRAORÉ	5304
+Son Excellence le Dr. Abiy Ahmed Ali	13908
 Son Excellence le Général	3967,72,763,3435,1050,55
 Son Excellence le Premier	4881,1
 Son Excellence le Premier Ministre	13525,143
@@ -1105,7 +1120,7 @@ Son Excellence le Président	4957,3921,759,1,3691,12,64,233,163
 Son Excellence le Président AZALI Assoumani	13801
 Son Excellence le Président AZALI Assoumani. Au	13789
 Sorting Centres Excluding Delivery Offices	12395
-Sous la Présidence de Son Excellence	4402
+Sous la Présidence de Son Excellence	4402,9484,22
 Southern Africa BESS Centre of Excellence	13228
 Southern Africa Health Community ECSA-HC Excellence	11417
 Speech of His Excellency	2958

@@ -141,10 +141,10 @@ Arc NDUWIMANA Claudine NSHIMIRIMANA Jacqueline NDUWIMANA	13300
 Arc. Ahmed Musa Dangiwa	11954,27
 Arc. Dangiwa	11981
 Arc. Sonny S. T. Echono	11860
-ArcGIS	2989,1990,5782,113,2608,220
+ArcGIS	2989,1990,5782,113,2608,220,223
 ArcGIS Collector	10761
 ArcGIS Drone2Map	10761
-ArcGIS Enterprise	10761
+ArcGIS Enterprise	10761,3137
 ArcGIS Online	4979,869
 ArcGIS Pro	5848,4913,2757
 ArcGis	11231
@@ -184,7 +184,7 @@ Architectural Schematic Diagram FIGURE	13005
 Architectural Schematic Diagram for National	13005
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947,768,91,140,176,41,31,900,151,269,90
 Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
@@ -210,7 +210,7 @@ Archive	585,3841,2006,1478,974,1992,999,77,1794
 Archive About Us Contact Us Oshiwambo	11122
 Archive Center	13624
 Archive Subscribe Now Desert Radio Podcast	11122
-Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31
+Archived	2712,1976,1735,156,254,95,949,2993,41,484,593,240,39,173,284,303,31,801,51,6,1,3
 Archived Articles	11220,21
 Archived Documents	11220
 Archived Information National Archives Building	11349
@@ -538,6 +538,7 @@ Records and Archives Management Excellence Awards	13477
 Registration of Architects and Quantity Surveyors BOSA Back	2775
 Regulatory Architecture and Accountability	5574
 Reporting Tools Architect	9124
+Robust Network Architecture	13851
 Rwanda Architecture	9124
 Rwanda Enterprise Architecture Principles	12359
 S6 Enterprise Architecture Development Development	12917

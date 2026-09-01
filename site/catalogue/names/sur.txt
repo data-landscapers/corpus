@@ -536,7 +536,7 @@ Labour Force Survey Annual Report	12329
 Labour Force Survey NISR	12445
 Labour Force Survey Report	1867
 Labour Force Surveys	13479
-Land Surface Temperature	11334
+Land Surface Temperature	11334,2591
 Land Survey Act	12511,136,265
 Land Surveyor	11129
 Launch Smart Surveillance Infrastructure	8520
@@ -824,6 +824,8 @@ SUR Le PROJET DE LOI N	11151
 SUR L’INCLUSION FINANCIÈRE AU BURUNDI	13390
 SUR PAPIER FILTRE. LE PAPIER FILTRE	13300
 SUR PLACE	13468
+SUR Proposition	13937
+SUR Proposition du Ministre	13825,9,89
 SUR SUPPLÉMENTAIRES	13300
 SURCHARGE WILL APPLY IN ORDER	13122
 SURE TF	11310
@@ -996,7 +998,7 @@ Suru-Léré	7355,3512
 Surulere	3580,843,178,453,820,1232,177,3448,1237
 Surv Companion	11459
 Surveillanc	4301
-Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21
+Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214,113,1031,40,502,652,71,48,219,21,88
 Surveillance Architecture	9399
 Surveillance By Evin McMullen Age Verification	9328
 Surveillance Capitalism	11028
@@ -1011,6 +1013,7 @@ Surveillance Threats	3021
 Surveillance and Integrate HAI	4202
 Surveillance and Laboratory Testing	10776
 Surveillance and Market Control	10776
+Surveillance and Outbreaks	13870
 Surveillance and Privacy Violations Beyond	5215
 Surveillance and Response IDSR Intergovernmental Authority	11417
 Surveillance des Opérations	8269

@@ -206,6 +206,7 @@ Political Affairs	7182,270
 Political Alignment	7869
 Political Bureau	362
 Political Champion	11266
+Political Context and Outlook	13885
 Political Crime	12346
 Political Decentralization	13418
 Political Decentralization Political	13418
@@ -260,7 +261,7 @@ Political Terror Scale RSF Reporters	10759,78,1052,451
 Political Will	5349
 Political and Economic Integration	1814
 Political and Economic Origins of Our Time	5700
-Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1
+Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588
 Political and Governance Substantial	11380,525
 Political and Institutional Dimension	5676
 Political and Rating Description	11469
@@ -305,7 +306,7 @@ PoliticsDigest.ng	4738
 Politicsweb	10058
 Politik-	615
 Politiqu	13325
-Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198
+Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302
 Politique Economique	6163,1492
 Politique Européenne	11050
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
@@ -315,7 +316,7 @@ Politique Nationale Genre	13442
 Politique Nationale Genre du Burundi	13331
 Politique Nationale Qualité	13329
 Politique Nationale Sécurité Alimentaire	643
-Politique Nationale de Développement des TIC	13290,51
+Politique Nationale de Développement des TIC	13290,51,523
 Politique Nationale de Développement des Technologies	13312,1,1,17
 Politique Nationale de Développement du Numérique	3305,2069
 Politique Nationale de Genre PNUD	10874
@@ -345,6 +346,7 @@ Politiques Publiques	5745,4967
 Politiques Réseau des Centres des Personnes Handicapées	13442
 Politiques TIC	13290
 Politiques de Développement du Ministère	10712
+PolitiquesPubliques	13904
 Polity	6072
 Polity Press	11138
 Polity&volume	2096

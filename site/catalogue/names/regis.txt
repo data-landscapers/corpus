@@ -485,6 +485,7 @@ Commission Employment and Per- Registrar of Cooperative So-	6938
 Commissioner Registration Services	6121
 Commissioner for Registration Services	6121
 Communication Authority of Kenya and Register of Companies	6394
+Communication du Registre National des Personnes Physiques	13835,11
 Communiqué Publication du Registre National	1184
 Community Birth Registration Integration	12241
 Companies Register	3714,5792
@@ -2182,7 +2183,7 @@ Registrations Fig	1554
 Registrations Useful Info	12454
 Registrations and Intellectual Property Centre	13177
 Registrations for National ID	13080
-Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70
+Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70,105
 Registre Article	735
 Registre Commerce	13524
 Registre Electronique de Consultations-Maternite	10881
@@ -2192,11 +2193,11 @@ Registre Foncier	13375
 Registre Foncier Figure	13375
 Registre Foncier. Compte	13375
 Registre Foncier. Pour	13375
-Registre National	557,627,47,6762,1644,1,30,879,274,1222
+Registre National	557,627,47,6762,1644,1,30,879,274,1222,1791
 Registre National Unique	417,3783
 Registre National des Nationalités	7993,1675
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
-Registre Social	13715
+Registre Social	13715,120
 Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
 Registre Social Unifié du Cameroun	10985
@@ -2209,6 +2210,7 @@ Registre du Courrier Enregistrement	10975
 Registred	5687
 Registred Note	5687
 Registres	10821,2554,302
+Registres de Base	13841
 Registrieren Bitte	13014
 Registries	6423,1780,2572
 Registries Building Block	6423,1780
@@ -2406,7 +2408,7 @@ Social Register	11988,32
 Social Registers	11988
 Social Registries	3276,9167
 Social Registries for Social Assistance and Beyond	10819,314
-Social Registry	1992,840,8034,659,330,515,42,68,18,43,439,100,119,260,64,69
+Social Registry	1992,840,8034,659,330,515,42,68,18,43,439,100,119,260,64,69,264,1
 Social Registry Enhanced	11855
 Social Registry Imbeleko Programme	12480
 Social Registry Imbeleko Study Results	12480
@@ -2420,6 +2422,7 @@ Social Registry WBG World Bank Group	10964
 Social Registry. Importantly	11525
 Social Registry. ME PDO Table SPACE	11855
 Social Registry. Page	11855
+Social Registry. TABLE OF CONTENTS DATASHEET	13856
 Social Registry. The Social Registry	11525
 Social Registry. The WFP	11525
 Social Registry. the RSI Program. Thise	11855

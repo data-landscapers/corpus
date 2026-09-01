@@ -421,6 +421,7 @@ Distance Operators FMoP Licensees	11857
 Distribution System Operator. Key	12233
 Distribution of Courier Outlets Operator Q3	6000
 Distribution of Operators	3862
+Djibouti. Operation ID	13856
 Docket Operations	12984
 Domestic Economy Operating	2775
 Dr. Rakiya Opemi Yusuf	9752
@@ -1655,7 +1656,7 @@ OpenSi	2312
 OpenSource GIS	11941
 OpenStack	2617,10568
 OpenStack and Huawei FusionSphere	9455
-OpenStreetMap	1828,5485,1590,663,1852,1009,1055
+OpenStreetMap	1828,5485,1590,663,1852,1009,1055,423
 OpenStreetMap Com	11418
 OpenStreetMap Current Health	12006
 OpenStreetMap&author	2096
@@ -1672,7 +1673,7 @@ Openbare Finansiële Bestuur	11263
 Opendata	747,1,439
 Opendefinition.org	5246
 Opened	3313,1561,6082,224
-Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44
+Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157,205,86,28,321,316,277,18,127,259,10,84,421,11,45,304,104,44,289
 Opening Date	4896
 Opening Date and Time	12686
 Opening Doors for Zimbabwe’s Gold Producers	8639
@@ -1869,7 +1870,7 @@ Operation of EV	12233
 Operation of National Statistical System	12530
 Operation the Information Regulator	10729
 OperationVulindlela	11236
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17,32,1,27,134,2,1,4,18,261,190,277,1,7,3,10,47,1,33,67,5,4,97,1,45,92,41,13,5,8,63,60,13,49,358,31,12,55,48,219,59,87,433,78
 Operational Acceptance	7987,5198
 Operational Acceptance Certificate	13054
 Operational Acceptance Tests	13185
@@ -1944,6 +1945,7 @@ Operational PIU	1284,12047
 Operational Package. NCC MOPT	1777
 Operational Performance	12062
 Operational Performance and Structural Re	12233
+Operational Phase Rich	13865
 Operational Plan	11218
 Operational Plan APP Annual Performance Plan	11218
 Operational Plan PAPU	12759
@@ -2177,10 +2179,12 @@ Owners and Operators CII	1000
 Ownership Implementation Operation RDGP Global Ownership	12359
 Oxford Open Digital Health	1824
 Oxford Open Digital Health. Published	12581
+P162901. Operation Name	13897
 P166193 Operation Name	13742
 P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 P505094 Operation Name	2291
+P506969. Operation Name	13856
 P514166. Operation Name	13743
 P515127. Operation Name	13793
 PART II Operational Re	13606
@@ -2275,6 +2279,7 @@ Pre-clearance PART V DESIGNATION AND OPERATION	13403
 President and Cabinet OS Operating System Ministry	12917
 Prevalence and Operational Efficiency of Labor Disputes	12389
 Primary Health Care Operational Framework	13166
+Principal Operations Officer	13885
 Principles of Open Data	170
 Private Postal and Courier Operators National Courier	6946
 Private Sector Operation	1818
@@ -2457,7 +2462,7 @@ SYSTEM The Standard Operating Procedures	12338
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862
 Safe Innovation Open Data Rights	1243
 Sage Open	2093
 Sahel. Open	4394
@@ -2714,7 +2719,7 @@ Wireless Open Access Networks	6152
 World Bank Financed Operations F	10768
 World Bank Geospatial Operation	10765
 World Bank Geospatial Operation Support Team	10775
-World Bank GovTech Operations	1278
+World Bank GovTech Operations	1278,12569
 World Bank Group. OPERATION INFORMATION	11965
 World Bank Managing Director of Operations Anna	7426
 World Bank Open Data	11994
@@ -2736,6 +2741,7 @@ ZW Soc Registry Operation ID	13523
 Zambia Operation Name	3562
 Zambia. Operating	12376
 Zanzibar Registration and Identity Cards Office. Operating	11133
+Zero Slum Program. BASIC DATA Operation	13897
 Zimbabwe Open University	4528,7984,1039
 Zimbabwe Social Registry Support Project Operation	13523
 Zimbabwe's National Health Operating System	9429

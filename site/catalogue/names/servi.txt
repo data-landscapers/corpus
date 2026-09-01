@@ -258,6 +258,7 @@ Approval of Products and Services	12395
 Approval of Products and Services Section	12395
 Approved Government Cloud Service Providers	6432
 Aquisição de Serviços de Telecomunicações	4556,1
+Arab Network of Judicial Inspection Services	13865
 Arandis Old Service Station	13046
 Armed Forces Health Services	11401
 Armed Services Integrated Information System Establishment	246,92
@@ -615,6 +616,7 @@ Cascading Style Sheet CST Communication Service	236
 Caso de Serviços de Informação	10755
 Caso de Serviços de Iniciação	10755
 Catalogue Service	13031
+Catalogue des Services Publics Numériques	13882
 Catholic Relief Services	6903
 Catholic Relief Services Data Controller INST-565076B2C51	7167
 Catálogo de Serviços	11371
@@ -633,6 +635,7 @@ Central Sterile Services Department Technicians	4202
 Centralize Customs Services A Guide	3907
 Centralized Public Services Platform	12214
 Centre Dashboard Customer Service Goes Digital	13080
+Centre de Services	13861
 Centre of Excellence for Business Development Services	8969
 Century Customs Service	8278
 Certificate Service	11952
@@ -666,6 +669,7 @@ Christian Fellowship. Employee Assistance Services	11131
 Cidadão TRANSFORMAÇÃO Serviço E V Serviço	11379
 Citizen Centered Services	11867
 Citizen SMS Short Message Service UIN	10812
+Citizen Service Center	13830,20
 Citizen Service Centre	5948
 Citizen Service Life Cycle	11941
 Citizen Service Number	10775
@@ -850,12 +854,12 @@ Consider Services	4126
 Constitucional Servicio	4209
 Consultancy Service Providers	11131,3
 Consultancy Service for Contracts	13017
-Consultancy Services	9604
+Consultancy Services	9604,4318
 Consultancy Services Provide	13077
 Consultant Services	13017
 Consultant Services for Digital	13017
 Consulting Service Type	8726
-Consulting Services	210,9393,1,1921,338,42,1132
+Consulting Services	210,9393,1,1921,338,42,1132,888
 Consulting Services Category Prior Review	13017
 Consulting Services Consultants	11855
 Consulting Services For The Implementation of National	12834
@@ -1153,6 +1157,7 @@ Development and Social Services	1988
 Development of Computer Services	2919
 Development of ICT Enabled Services	13295
 Development of Universal Services	10167
+Digital Agro-Climate Advisory Services	13925
 Digital Certificate Service	11955
 Digital Certificate Service The PKI	11955
 Digital Certificate Services	11955
@@ -1762,7 +1767,7 @@ Fixed-Line Services Record	11642
 Flipping the Service Delivery Model	5700
 Flows E-Health Solutions Service Delivery Tools	21
 Fond de Service Universel	13331
-Fonds de Service Universel	3262,10269
+Fonds de Service Universel	3262,10269,322
 Fonds de Service Universel. L'ARCT	13482
 Fonds du Service Universel	13301,23
 Food Communi- Services	2775
@@ -1885,6 +1890,7 @@ Goods and Service Excise	5655
 Goods and Services	2775,2880,6331,403,733,63,235
 Goods and Services The Purchaser	13185
 Google Play Terms of Service	11324
+Gouvernance Intégrée des Services Publics	13841
 Governance Revenue Management of Procurement of Service	3051
 Governance Structure Service	11952
 Governance The Universal Service Fund	5168
@@ -2673,6 +2679,7 @@ Mining and Quarrying Manufacturing Utilities Services Having	12445
 Minister for Public Service Mabulala Maseko	13008
 Minister for Public Service and Administration	11986
 Minister of Correctional Services	11270
+Minister of Health and Human Services	13870
 Minister of Health and Social Services	4940
 Minister of ICT and Postal Services	3583
 Minister of Justice and Correctional Services	2999,9608,3
@@ -3349,6 +3356,7 @@ Prestadores de Serviços da Sociedade da Informação	11360
 Prestadores de Serviços de Informação	10755
 Prestadores de Serviços de Pagamento	10755,631,18
 Prestataires de Services de Paiement	5740,7728
+Prestation de Services Publics Intégrée	13841
 Prestação Não Presencial de Serviços Públicos	10775,619
 Prestação de Serviços	4274,2578,3497,406,800,14
 Prestação de Serviços Digitais	8487
@@ -3979,6 +3987,7 @@ School for Social Service Technicians	10768
 Scientific and Cultural Organization USAC Universal Service	6946
 Scope of Services	11869
 Scope of Services This Policy	11995
+Scope of Services and Specific Tasks Under	13925
 Score Service Level Requirements	5665
 Screen Reader Compatibility Service	11952
 Seamless Government Services Journey	3907
@@ -4033,7 +4042,7 @@ Sereno B3 Servicio	4209
 Servers Regular Restoration Tests of Servers and Services	9123
 Servi	9399
 Servic	13325
-Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95,39,23
+Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95,39,23,44
 Service AI	7548
 Service APIs	6423
 Service APIs The APIs	6423
@@ -4246,7 +4255,7 @@ Service Providers. Each Service Provider	10721
 Service Provision	11569
 Service Provision Guidelines	34
 Service Prépare	10876
-Service Public	10975
+Service Public	10975,2866
 Service Public CI	3604
 Service Public Structures	2342
 Service Quality	5676
@@ -4337,7 +4346,7 @@ ServiceNow Government	6432
 ServicePublic	3604
 Serviced Land	13474
 ServicedeliveryZA Issued	11278,3
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9,53,11,23
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9,53,11,23,35
 Services Act	7845,3706
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
@@ -4422,6 +4431,7 @@ Services Provided and People Assisted	12977
 Services Provider	8980
 Services Providers	7464,4522
 Services Publics	3604,675,6825
+Services Publics Numériques. La République de Djibouti	13882
 Services Publics du Burundi	13341
 Services Published	12151
 Services Refugee	10822
@@ -4444,6 +4454,7 @@ Services Strengthening Project	1654
 Services Subscriptions	2776
 Services Supply	10839
 Services TaxProperty TaxCorporate Income TaxPersonal Income	13624
+Services Techniques	13825
 Services The Business Incubator	13100
 Services The NSA	13031
 Services Transportation Commercial	4972
@@ -4478,6 +4489,7 @@ Services. Currently	12977
 Services. Enrolment	12359
 Services. Gazette	11235
 Services. Interested Consultants	9603,1,3230
+Services. L'Agence	13825
 Services. LA TRANSPARENCE POUR UN SECTEUR	10975
 Services. Mahindra	12617
 Services. Malawi	12917
@@ -4836,6 +4848,7 @@ State Information Service	5869
 State Intelligence Service	1000,7611
 State Internal Revenue Service	11976
 State Internal State Internal Revenue Service	11976
+State Minister of Health and Human Services	13870
 State Service	11976
 State Service Establishment	11976
 State of Alaska. Department of Health and Social Services	12413
@@ -4852,6 +4865,7 @@ Stop Service Centre for GBV	12613
 Storage Authority NYS National Youth Service	2775
 Strategic Direction The Business Registration Service	12280
 Strategic Studies Service	13363
+Strategy CSC Citizen Service Center	13861
 Strategy Service Providers	10721
 Strategy and Service Delivery Support Department of Planning	11224
 Strengthen Digital Public Services	7384
@@ -5167,7 +5181,7 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 Universal Service Agency GIFEC	8025
 Universal Service Development Fund	9756,168,2111
-Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17
+Universal Service Fund	958,265,647,30,688,325,64,433,98,238,782,334,430,111,131,14,683,715,476,126,1216,454,118,736,325,68,63,120,405,177,705,310,54,143,70,145,17,28,2,55,4,219,120,12,36,162,1,1,17,602
 Universal Service Fund Ad	10856
 Universal Service Fund Agreement	13150
 Universal Service Fund Committee	5168

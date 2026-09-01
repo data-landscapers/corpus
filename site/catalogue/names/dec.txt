@@ -239,6 +239,9 @@ DECRET Nº100	13587,1
 DECRET3 0ektpXg.PDF	10898,8
 DECRET3.PDF	10897,1,8
 DECRETE	234,2391,8271,7,2,234,2152,12,31,253,1,131,4,49,9,28
+DECRETE Article	13825,112,3
+DECRETE CHAPITRE	13827,16
+DECRETE Des	13834
 DECRETE Titre	13715
 DECRETS	436
 DECRETS Décret	4658
@@ -262,10 +265,11 @@ Dec'22 Mar'23 Jun'23 Sep'23 Dec'23 Mar'24	11198
 Dec-2013	11924
 Dec-2017 Moderately Satisfactory Moderately Satisfactory	11924
 Dec-2018	11855
+Dec-2019	13826
 Dec-2020	11469
 Dec-2020 Closing Date	10779
 Dec-2020 IBRD	10779
-Dec-2021	10870,525,74,519,232,612
+Dec-2021	10870,525,74,519,232,612,1008,80
 Dec-2021 Closing Date	10779
 Dec-2021 IBRD	10779
 Dec-2021 Yes Dec	10870
@@ -279,7 +283,7 @@ Dec-2023 Operation Closing	13742
 Dec-2023 Page	10870
 Dec-2023 Wage	10870
 Dec-2023 Yes Jan	10870
-Dec-2024	1655,681,8534,599,971
+Dec-2024	1655,681,8534,599,971,1419
 Dec-2024 Change Statistics	10870
 Dec-2024 Department	10870
 Dec-2024 MoU	4892
@@ -296,6 +300,7 @@ Dec-2025 RATINGS SUMMARY Outcome Bank Performance	13742
 Dec-2025 Restructuring Level	6928
 Dec-2025 US	5141
 Dec-2025 Yes Sep	4688
+Dec-2025. Borrower	13897
 Dec-2026	11469,751,220
 Dec-2026 Operation Closing	10870,1397,173
 Dec-2027	11469,502
@@ -443,7 +448,7 @@ Decision of Tax Tribunal	12629
 Decision-Maker Pathway	10189
 Decision-Makers Said Minister Theofelus	6825
 Decision-Makers UNDP	11332
-Decision-Making	13418
+Decision-Making	13418,447
 Decision-Making Context and Needs	13094
 Decision-Making Procedures	3861
 Decision-Making for Enhanced Transparency	2668
@@ -642,6 +647,7 @@ Delhi Leaders' Declaration	9431
 Description Decree N	302
 Design Decisions	5665
 Digital Decade	845
+Digital Economy Transformation and Intra-Africa Trade Dec	13899
 Digitised Declaration Process	11134
 Directives and Decisions	2913
 Directors' Declaration of Interests	9915
@@ -649,6 +655,7 @@ Direitos Humanos Decorreu	10752
 Discrete Decimal	12203
 Dispute Building Permit Decisions	12389
 District Council Decisions	13418
+Djibouti Declaration	13899
 Doha Declaration	6534,4659
 Driven Decisions Primary Health Care Strengthening	7761
 Dubai Declaration	11478
@@ -745,7 +752,7 @@ ICGLR Declaration	4257
 IDENTIFICATION TO DECISION PHASE	11156
 INTERNET SUBSCRIPTIONS DECEMBER’23	3862
 Illiterate Declarant	12338
-Implementation Status and Key Decisions	2712,3867,254,4562,833,496,303
+Implementation Status and Key Decisions	2712,3867,254,4562,833,496,303,883,6,4
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
 Implementation Status and Key Decisions Nigeria Building	4688
@@ -753,6 +760,7 @@ Implementation Status and Key Decisions Nov	12440
 Implementation Status and Key Decisions Progress	11988
 Implementation Status and Key Decisions The Congo	11971
 Implementation Status and Key Decisions The Malawi	13058
+Implementation Status and Key Decisions The Project	13917
 Implementation Status and Key Decisions The World	7877,4390
 Implementação da Declaração	11562
 Import Declaration Fee	7548

@@ -1,4 +1,5 @@
 A. NOUVEAU QUESTIONNAIRE	13300
+A. QU'EST-CE QUE LE SYSTEME SYRAD	13838
 ACCOUCHEUSE CE QUI EST MENTIONNÉ. TRADITIONNELLE	13300
 AGGREGATED DATA FROM ICASA QUESTIONNAIRES	11211,51
 AI Strategy POTRAZ National Quest Implementation	12512
@@ -115,7 +116,7 @@ Asset Quality Asset Quality	11134
 Assinatura Qualificada	7948
 Assistência de Profissionais Qualificados Durante	10777
 Assunto Que	10756
-Assurance Qualité	11597
+Assurance Qualité	11597,2295
 Assurance Qualité des Données	2625,10817
 Assurance Qualité des Données. Article	13323
 Assurance Qualité des Médicaments	13329
@@ -712,6 +713,7 @@ Key Quotes	9852
 Koweït. Qu'en	5412
 Kumar R. Quality	3791
 Kwenda Quarta	11479
+L'EMPLOI ET DES QUALIFICATIONS Article	13827
 L'homme Qui Fait Trembler La Fsf	4960,62,2035
 LA COLONNE SUIVANTE DE CE QUESTIONNAIRE	13300
 LA FEMME No QUESTIONS ET FILTRES	13300
@@ -1210,6 +1212,7 @@ QUEUES	13664
 QUI DOIT SE SITUER APRÈS	13300
 QUI N'A PAS	13300
 QUI ON POSERA LE MODULE SUR	13300
+QUI SOMMES-NOUS	13844
 QUICK FACTS	12409
 QUINIENTOS MIL	4209
 QUIPE DES FORMATEURS	10237
@@ -1226,7 +1229,7 @@ QUOTA DE MERCADO GLOBAL DE SMS	11531
 QoS Qualidade de Serviços de SOA Arquitetura Orientada	11555
 Qu'a-t-on	13300
 Qu'en	2732,2680,1415,2557,90
-Qu'est-ce	3465,1694,1098,620,3410,555
+Qu'est-ce	3465,1694,1098,620,3410,555,3077
 Qu'est-ce Que J'ai Fait Pour	4960,62,2035
 Qu'il	2695,462,4376,2377
 Qu'ils	9326
@@ -1240,6 +1243,7 @@ Quadrado II	11373
 Quadrennial Conference of UN Trade and Development	13042
 Quadri	11927
 Quadri Goodness	6235
+Quadripartite Alliance	13870
 Quadripartite National Bridging Workshop	13166
 Quadro	574,1564,678,1228,6713,9,11,610,3,1,25,5,21,2,2,15,70,3,13,8,14,8,321,244,632
 Quadro A.3 Quadro A.4 Quadro A.5	10777
@@ -1328,7 +1332,7 @@ Qualification Registry for Persons	12977
 Qualification Requirement of Consulting Firm	11941
 Qualification Requirements	12405
 Qualification des Consultants	9744
-Qualifications	736,902,302,1774,628,2490,716,2068,1848,544,381,141,131,25,7,61,283,148,586
+Qualifications	736,902,302,1774,628,2490,716,2068,1848,544,381,141,131,25,7,61,283,148,586,56
 Qualifications Applicants	10060
 Qualifications Authority Adopt the National AI Priority	7548
 Qualifications Bodies	6832
@@ -1520,7 +1524,7 @@ QualityEducation	13204
 QualityFilterEnabled	10848
 QualityInfrastructure	13221
 Qualität	383,1150,687
-Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43,283,102
+Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43,283,102,25,5,60
 Qualité ARMP Agence de Régulation des Marchés	10975
 Qualité Gouvernance Gouvernance Annexe	2966
 Qualité Gouvernance Primaire Accès	2966

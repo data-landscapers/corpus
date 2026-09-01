@@ -70,6 +70,7 @@ Australia Bangladesh India Indonesia Japan Malaysia	10764
 Automated Clearing House Related Indicator	7221
 Automated Indicator Reporting	4153
 Automated Individual Decision Making	12185
+B. Theory of Change and PDO Indicators C	13856
 BAD. Indice	8891
 BANK OF INDIA Data Controller INST-2062751BC30	7167
 BANK OF INDIA Data Processor INST-2062751BC30	7167
@@ -206,6 +207,7 @@ DANS LES FONCTIONS INDIVIDUELLESA. AU TITRE	7670
 DCEI Indicator-Level Responses	10785
 DES INDICATETEURS TIC AU BURUNDI	13324
 DG Indicator	11986
+DGDDI General Directorate for Customs and Indirect Taxation	13861
 DGTED OUTCOME INDICATOR	11863
 DHA ANNUAL PERFORMANCE INDICATORS AND TARGETS	11285
 DLI Indicadores Vinculados	11390
@@ -255,7 +257,7 @@ Diu. The Indian	2667
 Divyajeet Mahajan Engineer Indian	4896
 Domestic Indirect	5655
 Dr. Shadric Namalomba. India and Malawi	13152
-Droits Indirects	2971,1449
+Droits Indirects	2971,1449,9441
 Droits Indirects DGTCP Direction Générale du Trésor	10876
 Droits Indirects. II. Ce	4420
 Drought Indices for Agricultural Drought Monitoring	12614
@@ -402,6 +404,7 @@ Households and Individuals	11424,920
 Human Capital Development Objective Lagging Indicators	12512
 Hungary Iceland India Indonesia Iran	11765
 Hungary Iceland India Indonesia Iran Iraq	11470
+I. DEFINITION DES CONCEPTS ET INDICATEURS	13890
 I. Indian Community	12979
 I. Indicateurs	5928
 IBU Identifiant Bancaire Unique IDH Indicateur	11944
@@ -464,6 +467,7 @@ INDICATORS Objective	12675
 INDICE	11531
 INDICE DE DÉVELOPPEMENT DU JEUNE ENFANT	13300
 INDICE PRÉFACIO	10766
+INDIGO and Havfrue	13839
 INDIGO-Central	1766
 INDIGO-West	1766
 INDIRECT INDIRECT PARTICIPANT PARTICIPANT E-money	12490
@@ -504,7 +508,7 @@ Income Tax Individual Salaried Any	12397
 Income Tax Returns for Individuals	11976
 Ind Indicadores-Chave	11569
 Indi-	10780
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -573,7 +577,7 @@ India With Huge Amount of Cocaine Hidden	8115
 India Women	11964
 India Writes	688
 India Yes National Telecom Policy	11529
-India and Africa	2787,8396
+India and Africa	2787,8396,2700
 India and African	2787
 India and Angola	2787
 India and BRICS	12069
@@ -713,7 +717,7 @@ IndiaAI Mission. Among	9208
 IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
 IndiaStack	5700,992
 IndiaStack. Everyone	6692
-Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47
+Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47,154
 Indian AI	7151,830
 Indian Ambassador	2667,4232
 Indian Army	11925
@@ -873,7 +877,7 @@ Indicativos de Ameaças	11569
 Indicativos de Forças	11569
 Indicativos de Fraquezas	11569
 Indicativos de Oportunidades	11569
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1,74,56,170,120,612,14,2,1,1,1,6,76,15,165,1,1,1,5,4,42,135,1,10,1,1,3,11,12,16,18,75,112,377,355,15,583
 Indicator Baseline	940
 Indicator Baseline Intermediate Targets End Target	12675
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
@@ -1012,7 +1016,7 @@ Indiquant	13524
 Indiquer	1187,9213,436,2554
 Indiquez	747,1606,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1175,170,145,6121
 Indiqué	13524
-Indirect	236,509,3908,1268,4859,222,522,476,269,1,115,105,353
+Indirect	236,509,3908,1268,4859,222,522,476,269,1,115,105,353,995
 Indirect Beneficiaries Beneficiaries	10964
 Indirect Component	10964
 Indirect Estimation of Maternal Mortality	13300
@@ -1043,6 +1047,7 @@ Individual Code of Conduct	12253
 Individual Company	22
 Individual Comprehensive	1900
 Individual Consultant	962,10563
+Individual Consultant Selection	13925
 Individual Consultants	962,10893,1162
 Individual D	736
 Individual Data Protection Rights	1243
@@ -1339,6 +1344,7 @@ Oceania. India	10846
 Océan Indien	6883,6841,16
 Océan Indien. Hamdi Abdillahi Rahilie	13802
 Official Use Only Indicator Intervention	11469
+Oman and India. Developing	13839
 Omidyar Network India. Copyright	12139
 Only Individual Consultants	962
 Operações de Pagamento Individuais	10755
@@ -1359,10 +1365,12 @@ PD O Indicator Name DLI Baseline	11855
 PD O Indicator Name PBC Baseline	13332
 PDI Project Development Indicator PDCE Skills	11924
 PDO Indicator	3604
-PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31
+PDO Indicators	1264,603,845,892,1049,35,1891,349,949,2891,102,525,22,488,19,41,6,17,240,39,145,28,587,31,862
 PDO Indicators Beneficiaries of SSN	11924
+PDO Indicators Direct	13917
 PDO Indicators Enhanced	1867
 PDO Indicators Improved	1867
+PDO Indicators Increase	13910
 PDO Indicators Indicator	6539
 PDO Indicators Indicator Name Definition	10829,135,891,1476
 PDO Indicators Key Outputs	11924
@@ -1561,6 +1569,7 @@ Result Indicators Associated PAs RI Relevance	10779
 Results Framework for DMAP Indicators Baseline	1704
 Results Framework. Intermediate Indicator Component	11965
 Results Indicator	12560
+Results Indicator ITAS Integrated Tax Management	13861
 Results Indicator SSR	12560
 Results Indicators ISR Implementation Status and Results	1284
 Results Indicators Quality of ICR ICR Moderately	10779
@@ -1779,12 +1788,14 @@ World Bank’s Worldwide Governance Indicators	1828
 World Development Indicators	4325,6497,7,12,15,280,244,37,107,28,8,26,319,1719
 World Development Indicators Benin’s GDP	10856
 World Development Indicators Figure	13314
+World Development Indicators Units	13930
 World Development Indicators WEO World Economic	11271
 World Development Indicators. The World Bank	10829
 World Development Indicators. Washington	13624
 World Economic Outlook Indicators. International Monetary	13332
 World Indices	7343
 Worldwide Governance Indicators	8075,4594
+Worldwide Governance Indicators DATA SHEET RESTRUCTURING	13861
 Worth Individuals	13624
 XI. EVOLUTION COMPARATIVE DE QUELQUES INDICATEURS	10847
 XMUVI Export and Import Unit Value Indices	11258

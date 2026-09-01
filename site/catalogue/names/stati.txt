@@ -24,6 +24,7 @@ Acting Statistician General	13455,77
 Acting Statistician-General	11256
 Acting Statistician-General Mrs. Sheila S. Mudenda	13455
 Acting Statistician-General PART V FINANCIAL PROVISIONS	12899
+Activité Statistique	13923,14
 Addis Ababa Plan of Action for Statistical Development	13359
 Administration of National Statistical System	13305
 Administrative Sata for Labor Migration Statistics	11283
@@ -153,6 +154,7 @@ Business Cycles. IMF Statistical Forum	13624
 C. Statistical Processes	13310
 C. Strategic Plan for Agriculture and Rural Statistics	12768
 CA Q4 Sector Statistics Report	7548
+CADRE DES ADMINISTRATEURS DE LA STATISTIQUE	13937
 CAR National Statistical Office	10829
 CATEGORIES OF AUTHORISED FM STATIONS	2776
 CAUSE OF DEATH STATISTICS.pdf	12471
@@ -297,6 +299,7 @@ Default and Recovery Statistics	11310
 Definitions PART II NATIONAL STATISTICS SYSTEM	12899
 Degrees Height Power Base Station Decimal	736
 Demographic and Population Statistics	11237
+Demographic and Social Statistics	13906
 Demographic and Vital Statistics	12962
 Demographic and Vital Statistics Division	12962
 Demographics and Social Statistics Section	12330
@@ -542,6 +545,9 @@ Information Statistique	2625,10678,20,11,108
 Information Statistique DRH	10874
 Information Statistique du Burundi	13300
 Information and Communications Technology. A. Statistics Act	12768
+Ingénieur Statisticien Informaticien	13937
+Ingénieur Statisticien-Economiste	13937
+Ingénieur des Travaux Statistiques	13937
 Innovation and Modernisation of Statistical Systems	13359
 Institut Centrafricain des Statistiques	7675
 Institut National de Statistique EVS	737
@@ -550,6 +556,7 @@ Institut de Statistique	13300
 Institut de Statistiques	13300,25,6,3,43,65
 Institute for Statistics	12706
 Institute of Statistics	10780,745
+Institute of Statistics of Djibouti	13873
 Institute of Statistics of Rwanda	12385
 Institution du Visa Statistique	2625
 Instituts Nationaux de Statistique	9615
@@ -1018,6 +1025,7 @@ Rwanda’s Civil Registration and Vital Statistics	5399
 Rwanda’s National Institute of Statistics	6139
 Répertoire Statistique des Entreprises	10875
 République du Burundi BTS Base Transmitter Station	13312,2
+Réseaux de Stations	13825
 SADC Regional Statistics	12972
 SADC Regional Statistics Project	3476,10328
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
@@ -1123,6 +1131,7 @@ State Owned Enterprises SG Statistician General	11192
 State Security Statistical Agencies Capacitation Regulatory	961
 State Statistical Agencies and Local Government Statistical	11851
 State of Statistics	13343
+Statelessness Statistics	13873
 Static	8283,2623,227,1310,942
 Static Application Security Testing	11952
 Static Commander	11285
@@ -1137,6 +1146,7 @@ Station Issuance	736
 Station N47ame Latitude Longitude	736
 Station Name Latitude Longitude Altitude Antenna	736
 Station Purpose Coordinates	736
+Station Sol	13844
 Station Tx	736
 Station Types	6946
 Station Types Frequency Station Type FY	6946
@@ -1360,7 +1370,7 @@ Statistiese	11201
 Statistiese Klaringshuis	11201
 Statistikus	11201
 Statistikus-generaal	11201
-Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31,58,2
+Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31,58,2,21,96,14
 Statistique Africaines RGE	10874
 Statistique CS	10874
 Statistique IFORD	10874
@@ -1373,7 +1383,9 @@ Statistique SPSS	10874
 Statistique Université du Lac Tanganyika	13689
 Statistique Yihweje Ibwirizwa Shingiro	13323
 Statistique de Côte	10500
-Statistique de Djibouti	2768,256
+Statistique de Djibouti	2768,256,10880,19,14
+Statistique de Djibouti URL	13904
+Statistique de Djibouti-INSTAD	13923
 Statistique du Burundi	2625,10709,43,13,3,296
 Statistique du Burundi INSS	13377
 Statistique du Burundi. Limitation	13393
@@ -1384,7 +1396,7 @@ Statistique-CNS	10874
 Statistique. Article	13707
 Statistique. Présidé	13707
 Statistiquement	6959
-Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4,267
+Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4,267,155
 Statistiques DGEPF Direction Générale	11944
 Statistiques F	7655
 Statistiques Fiables	13377
@@ -1411,6 +1423,7 @@ Survey KNBS Kenya National Bureau of Statistics	12151
 Survey Regulations Board STATSSA Statistics South	11261
 System of Civil Registration and Vital Statistics	12161
 Systems Private Radio Transceiver Stations	736
+Système Statistique	13923,14
 Système Statistique National	3045,6231,1598,1108,1341,366
 Système Statistique National Article	13323
 Système Statistique National Budget Etat	10874

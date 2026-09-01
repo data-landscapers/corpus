@@ -228,13 +228,14 @@ Discounted	3604,2935
 Discounted Cash Flow	4896
 Discounts	7966,3989,1230
 Discouraged	11296,1304
-Discours	2442,524,5925,4434,80,37,247
+Discours	2442,524,5925,4434,80,37,247,235
 Discours Royal	8891
 Discours de Mr NDAYISENGA Modeste	13689
 Discours du Ministre	2966
 Discours du Ministre des Droits	13442
 Discours du Ministre des Maliens	11090
 Discours du Premier Ministre	13689
+Discours du Président	13918
 Discourse	6948,3077,1003
 Discourse Studies	8460
 Discourse Theory	11028
@@ -287,7 +288,7 @@ Discs	6921
 Discursando	9694,389,2729
 Discurso	1265,683
 Discurso de Investidura	11379
-Discuss	2989,2833,6536,317
+Discuss	2989,2833,6536,317,1245
 Discuss Identity System Modernization TUNIS	10521
 Discuss. Another	5822
 Discussed	2351,959,793,9229
@@ -310,7 +311,7 @@ Discussion Questions	11909
 Discussion Technological	7278
 Discussion and Implications	7966
 Discussion and Recommendations	4439
-Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129
+Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,104
 Discussões	2816
 Discuter	13783
 Discutir	12021
@@ -371,6 +372,7 @@ INSPECC. GRAL. DISCIPLINA. R. CONT.- Concepto	4209
 INSPECC. GRAL. DISCIPLINA. R. INSULAR.- Concepto	4209
 INTEGRITY AND DISCIPLINE	11182
 INTEGRITY AND DISCIPLINE Public Administration Ethics	11182
+ISR Disclosable URL	13859,51,6,1,3
 ISR05328 Public Disclosure Authorized	12267
 ISR05783 Public Disclosure Authorized	12440
 IUA Mobile Care Services Discovery	1009

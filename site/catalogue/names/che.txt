@@ -67,7 +67,9 @@ CHECKNOCRATS KENYA LIMITED Data Controller INST-61580217705	7167
 CHEF DE L'ETAT	548,683
 CHEF DE L’ÉTAT	1837
 CHEF DE MÉNAGE	13300
-CHEF DU GOUVERNEMENT	10981
+CHEF DU GOUVERNEMENT	10981,2853
+CHEF DU GOUVERNEMENT LE PRESIDENT	13923
+CHEF DU GOUVERNEMENT VU La Constitution	13825,2,16,80,14,3
 CHEGA	10751
 CHEGE KIBATHI	7167
 CHEIKH AWDate de Deces	7057
@@ -198,10 +200,10 @@ Chef du Département	8636
 Chef du Département Planification Suivi-Evaluation	10876
 Chef du Département Transmet	10876
 Chef du Département des Infrastructures de Communication	8678
-Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599
+Chef du Gouvernement	17,531,1200,947,43,307,62,66,125,559,545,198,1145,2492,654,252,144,55,295,1,927,248,82,1,2,5,1,1,9,67,599,2306,22
 Chef du Gouvernement Alain-Claude BILIE-BY-NZE Le Ministre	1231
 Chef du Gouvernement Brice Clotaire OLIGUI NGUEMA	11580
-Chef du Gouvernement ISMAÏL OMAR GUELLEH	4420,147
+Chef du Gouvernement ISMAÏL OMAR GUELLEH	4420,147,9310,46
 Chef du Gouvernement Julien NKOGHE BEKALE	548
 Chef du Gouvernement du Congo	4169
 Chef du Gouvernement. La DNSSI	1185
@@ -275,6 +277,7 @@ Cheikh Hamidou Kane	10493,83
 Cheikh Hamidou Kane Digital University	2335
 Cheikh Oumar Seck	9001
 Cheikh Oumar Seck. Au-delà	9001
+Cheikh Sougueh Sougueh	13881
 Cheikh Tidiane NDIAYE	11051
 Cheikhou AIDARA Publié	7640
 Chekidine Said Madi	3772,2033
@@ -439,6 +442,7 @@ Digital Safety Checkup	11033
 Disponibilité du Chef	12043
 Djibouti Chemical	4774
 Dr. Aurelia Chepkirui Rono	8382
+Dr. CHEN Zhenlin	13943
 Du Chef	13292
 Décentralisation Chers	9637
 Développement Le Chef	13405
@@ -502,6 +506,7 @@ Invoice Number Checker	12282
 JHL.S631123 Checked	11596
 Jan Marc Van Gyseghem and Pria Chetty	27
 Jean Edouard Odilon DOAMBA Chef	737
+Jean-Pierre Chebat	13842
 Jessie Jia Chen Xu	4214
 Joyce Chen	4568
 Julie Yujie Chen	226

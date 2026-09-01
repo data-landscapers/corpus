@@ -909,6 +909,7 @@ Carrier Network	10588
 Carrier Sense Multiple Access	3604
 Carrier- Saharan Africa	10861
 Carrier-Neutral Green Centre	10404
+Carrier-grade	13915
 Carrier-neutral	3184,1341,613,62,1176,4485,134,1432
 Carrier-neutral Data	3184,1,1340,6470
 Carrier-neutral Facilities	10781,80
@@ -927,7 +928,7 @@ Carrière	8436
 Carrière-Swallow	961
 Carrières	3396,7312,1383
 Carrosserie	2966
-Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192
+Carry	1988,1490,200,4868,3410,193,77,27,27,78,31,241,287,205,192,544
 Carry Case	34
 Carry Home Never	7777
 Carry1st	673
@@ -958,7 +959,7 @@ Carta de Serviços	11569
 Cartas	8930
 Cartas Universal	1701
 Cartas da Nigéria	2401
-Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68
+Carte	643,2809,397,76,199,10,87,1519,219,135,381,3,142,713,385,1019,317,426,264,803,164,3,112,21,28,975,193,1298,34,15,110,68,281
 Carte Business GUCE	5593
 Carte Nationale	547,1420,1614,181,2197,2034,1675,307,739,98,2480,207
 Carte Rose	11934
@@ -979,7 +980,7 @@ Cartels	12389
 Carter	4432,2515,1659
 Carter Center	10776
 Carterpillar Hikuama	7671
-Cartes	1576,9271,2477,66,110
+Cartes	1576,9271,2477,66,110,349
 Cartes Carte Administrative du Burundi Carte	13702
 Cartes Kajou	13635
 Cartes Nationales	7959
@@ -1002,7 +1003,7 @@ Cartografía	4209
 Cartograma	4044
 Cartographer	13777
 Cartographers	11129
-Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220
+Cartographie	235,952,3138,1523,591,2452,1200,785,26,1141,1439,220,203
 Cartographie Censitaire	13518
 Cartographie URL	13702
 Cartographier	1187,7338,2351,89,69,1009
@@ -1351,6 +1352,7 @@ Ghana Cards. The Authority	7165
 Gig and Career Support Participants	11347
 Given CAR	5973
 Global Expansion of AI Surveillance. Carnegie	2518
+Gloria Carolina Gutierrez Tejada. Reviewed	13850
 Gold Card	9037
 Gold Cards	8999
 Gold Cards Outdoor Media	8999
@@ -1804,7 +1806,7 @@ Prepaid Cards Mobile Banking Subscribers Internet	4517
 President Jorge Carlos Fonseca	11889
 President of Huawei Southern Africa Region Carrier	13782
 Presidente da CNE Carmem Batista Lobo	10271
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980

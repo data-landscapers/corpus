@@ -429,7 +429,9 @@ Cotton Technical Assistance Programme	12979
 Country Policies and Programs Outcomes	11935
 Country Program Officer	4840
 Country Programme	7785,259,4918
+Country Programme Advisor	13885
 Country Programme Coordinator	13042
+Country Programme Officer	13885
 Country Programme Results and Resources Framework	13095
 Country Programmes	12962
 Coverage Network Enhancement Program	5058
@@ -695,7 +697,7 @@ EU. UNDP Malawi Quarterly Progress Report	12241
 EVALUATION PROGRAMMEE Il	13468
 EXIM Powers American AI Exports Program	11310
 EXIM's China and Transformational Exports Program	2158,1324,144
-Eastern Africa Regional Digital Integration Program	1264,16,10965
+Eastern Africa Regional Digital Integration Program	1264,16,10965,1630
 Eastern Africa Regional Statistics Program for Results	8527
 Eastern Deanery AIDS Relief Program Data	7167
 Eastern and Southern Africa Multiphase Programmatic Approach	13058
@@ -817,6 +819,7 @@ FG Launches Digital Acceleration Programme	8824
 FII Ventures Programme	6368
 FISCAL GOVERNANCE PROGRAM FOR RESULTS	12176
 FMO Ventures Program USD10M	1473
+FOOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN	13925
 FREIGHT LOGISTICS REFORM PROGRESS Q3 REPORT	11236
 FUNGUO Programme Manager	10195
 FY26. PDO and Implementation Progress	10886
@@ -1036,13 +1039,14 @@ IDEA Programs	1704
 IDT4M’s Digital Ambassadors Programme	13095
 IFC Collaboration No Proposed Program Development	11905
 IFC's Managed Co-Lending Portfolio Program	889
+IGAD Land Governance Programme	13896
 IGNITE Digital Economy Incubator and Accelerator Programme	9198
 II. PROGRAM DESCRIPTION	11905,271
 II. PROGRAM DESCRIPTION A. Government Program	11905
 II. Programmatic Simplification	4260
 II. Programme Overview EBRD	1818
 III Programme	8891
-III. IMPLEMENTATION PROGRESS AND KEY FINDINGS	12195
+III. IMPLEMENTATION PROGRESS AND KEY FINDINGS	12195,1680
 III. PROGRAM IMPLEMENTATION	11905,271
 IMF Staff Monitored Programme Technical Committee	11131,3
 IMF Staff-Monitored Programme	13685
@@ -1159,6 +1163,7 @@ Joint Management of Cybersecurity Programs	1000
 Joint Monitoring Programme	13325
 Joint Monitoring Programme WHO-UNICEF	13325
 Joint Programme	6106
+Joint Programme Review Mission	13858
 Joint Programming	789
 Joint Programming Document	644,145
 Joint Programming and Team Europe	970
@@ -1322,6 +1327,7 @@ Malawi. The United Nations Development Programme	12241,839,15
 Malawi. UNDP Malawi Quarterly Progress Report	12241
 Managed Co-Lending Portfolio Program	891,628
 Management Development Programme	11131,3
+Management FSAP Financial Sector Assessment Program	13836
 Management System PrDO Program Development Objective	3604
 Management of Older Persons Cash Transfer Programme	11994
 Marginalized Communities Special Feeding Programme	12373
@@ -1384,7 +1390,7 @@ Mkhondvo Ngwavuma Water Augmentation Programme	13123
 Mme Valérie Lefebvre Education Programme FCDO	11916
 Mme. Stephanie Ngongo Regional Programme Manager	11916
 Moderate Overall MPA Program Risk	11417
-Moderately Satisfactory Overall Implementation Progress	6579,5409
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932
 Moderately Satisfactory Progress	11971
 Moderately Unsatisfactory Overall Implementation Progress	2712
 Modernisation Programme	8670
@@ -1671,6 +1677,7 @@ PROGRAMME PILOTAGE ET SOUTIEN AUX SERVICES	4105
 PROGRAMME Prévisions Montant	3396
 PROGRAMME RESOURCE CONSIDERATIONS	5533
 PROGRAMME RESOURCE CONSIDERATIONS Budget	11986
+PROGRAMME SPATIAL DJIBOUTIEN	13844
 PROGRAMME TERRA BENIN	10876
 PROGRAMME TERRA BENIN MANUEL D’OPERATIONS	10876
 PROGRAMME WURI	1744,315,1,2312,1
@@ -1776,7 +1783,7 @@ Productivity Enhancement Programmes	789
 Productivity and Reporting Programme	6652
 Professional Programmes	11131
 Professional Training Program RAIO	1204
-Program	602,367,235,80,78,342,120,43,47,340,37,43,143,73,162,69,185,39,548,51,117,131,184,145,120,237,79,71,705,47,126,17,87,103,102,413,49,202,40,253,96,6,133,142,217,92,72,287,618,443,84,57,211,482,505,486,2,3,7,5,39,3,6,1,27,14,93,1,21,148,2,137,123,22,52,56,35,295,8,4,38,1,10,7,16,26,6,17,6,157,25,5,5,28,174,124,22,129,3,312,49,31,273,1,130,26,32,221,15
+Program	602,367,235,80,78,342,120,43,47,340,37,43,143,73,162,69,185,39,548,51,117,131,184,145,120,237,79,71,705,47,126,17,87,103,102,413,49,202,40,253,96,6,133,142,217,92,72,287,618,443,84,57,211,482,505,486,2,3,7,5,39,3,6,1,27,14,93,1,21,148,2,137,123,22,52,56,35,295,8,4,38,1,10,7,16,26,6,17,6,157,25,5,5,28,174,124,22,129,3,312,49,31,273,1,130,26,32,221,15,164
 Program A. Actions Taken Under the Program	13756
 Program ANACM National Agency of Civil Aviation	13729
 Program Action Plan	11905,271,882
@@ -2182,6 +2189,7 @@ Programme UK FCDO	2162
 Programme UNECE United Nations Economic Commission	13042
 Programme UNESCO United Nations Educational	6946,602
 Programme WACREN Western and Central Africa Research	1264
+Programme WDR World Development Report WGI	13861
 Programme WIPO World Intellectual Property Organization	7548
 Programme WURI	5206,4948
 Programme Working Group	8469
@@ -2282,7 +2290,7 @@ Program’s RAC	11417
 Progresar	1701
 Progresión	1701
 Progresos	1701
-Progress	789,181,273,21,20,90,180,216,4,54,39,121,105,533,214,36,72,57,259,319,374,90,154,178,9,395,499,268,863,61,65,129,536,17,11,14,68,146,88,215,27,118,117,574,1,2,334,101,91,17,1043,463,63,49,8,14,27,17,27,36,78,33,1,130,4,16,43,1,33,5,12,49,1,119,146,9,14,10,258,12,24,45,5,24,1,21,8,214,6,27,8,1,47,59,2,41,22,23,162,68,43,7,188,53,11,4,100,2,40,1,191,106,39,148,17,67
+Progress	789,181,273,21,20,90,180,216,4,54,39,121,105,533,214,36,72,57,259,319,374,90,154,178,9,395,499,268,863,61,65,129,536,17,11,14,68,146,88,215,27,118,117,574,1,2,334,101,91,17,1043,463,63,49,8,14,27,17,27,36,78,33,1,130,4,16,43,1,33,5,12,49,1,119,146,9,14,10,258,12,24,45,5,24,1,21,8,214,6,27,8,1,47,59,2,41,22,23,162,68,43,7,188,53,11,4,100,2,40,1,191,106,39,148,17,67,174,24,27,4
 Progress Begins When We Stop Excusing	4942,664,283,454,183
 Progress Capital Stocks	236
 Progress Current	1802,10382
@@ -2307,6 +2315,7 @@ Progress and Challenges Prime Minister Hamza Abdi	10521
 Progress and Learning	13005
 Progress and Way Forward Recently	3735
 Progress of Selected Major Roadworks	2775
+Progress. Date	13858
 ProgressSoft	10022
 Progressed	12273,702
 Progression	4972,1557,4446,1019
@@ -2852,7 +2861,7 @@ United Nations Development Program UNDP	11525
 United Nations Development Program UNECA United	13005
 United Nations Development Program UNICEF United	13332
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,271
 United Nations Development Programme DPI Safeguards	11940
 United Nations Development Programme Reference	9605
 United Nations Development Programme UNESCO	12966
@@ -3019,6 +3028,7 @@ Zambia's Farmer Input Support Programme	91
 Zambia’s Child Grant Program	10964
 Zambia’s Child Grant Programme	13332
 Zambia’s School Feeding Programme	10510
+Zero Slum Program. BASIC DATA Operation	13897
 Zero-Rated Programme	6748
 Zimbabwe Global Skills Partnership Programme	13685
 Zimbabwe Harmonized Social Cash Transfer Program	11855,69

@@ -131,12 +131,13 @@ Detaded	3972
 Detaiked	3972
 Detail	5665,758,4396,29,285,152,1666
 Detail.php	9399
+DetailArticles	13912
 DetailByLanguage	10848
 DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,466
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Changes	13459
@@ -186,7 +187,7 @@ Detalle de Gastos	4209
 Detalle de Ingresos	4209
 Detalle de Inversiones Públicas	4209
 Dete Solar Mini-Grid	13614
-Detect	1777,2483,1416,5045,696,1678
+Detect	1777,2483,1416,5045,696,1678,830
 Detect Financial Fraud	6549
 Detectar	2816,1402
 Detected	4610,7757
@@ -292,7 +293,7 @@ Equity and Inclusion Imperative DETERMINING	3861
 Estimated Number of Activity Activity Details Direct	1867
 Eswatini's Nationally Determined Contribution	13207
 Eswatini’s Nationally Determined Contribution	11134
-Event Details	10707
+Event Details	10707,3238
 Expertise Contact Details	6432
 Extended Deterrence Theory Approach	226
 FINANCING DETAILS International Development Association	12832

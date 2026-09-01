@@ -213,7 +213,7 @@ CEO of Mauritius Telecom	4759,2485,246
 CEO of Mauritius Telecom. Domestically	3292
 CEO of Telecom Namibia	13150
 CGTN Africa Telemedicine	11653
-CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402
+CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
 CHINA TELECOM	7167
 CLICK N TELL LIMITED Data Controller	7167
 CLICK N TELL LIMITED Data Processor	7167
@@ -423,11 +423,12 @@ Director of Telecommunications	11857
 Director of Telecoms and Postal Services	9669
 Directorate of Telecommunications and Digital Economy	11863,102
 Direcção de Telecomunicações	11392
-Djibouti Telecom	85,297,905,1,1391,842,1,1,10,26,229,632,295,183,20,1,16,40,1071,534,432
+Djibouti Telecom	85,297,905,1,1391,842,1,1,10,26,229,632,295,183,20,1,16,40,1071,534,432,6837,2,18,46,6,5,7
 Djibouti Telecom CEO Mohamed Assoweh Bouh	4918,17
 Djibouti Telecom Chief Executive Officer Mohamed	4898
 Djibouti Telecom Expands DARE1 Cable	3523
 Djibouti Telecom Sudatel Group Chief Executive	4898
+Djibouti Telecom URL	13869
 Djibouti Telecom and Sudatel Group	4935
 Djibouti Telecom's CEO	4975
 Djibouti Telecom. L’IA	7715
@@ -489,7 +490,7 @@ Eswatini Posts and Telecoms Corporation	1966
 Eswatini Telecommunications Corporation Bill	6539
 Eswatini Telephone	12361,583
 Eswatini Television Authority	4058,8337,576,152
-Ethio Telecom	1219,458,14,204,1322,249,322,79,108,175,21,21,163,200,251,22,88,2,1,114,100,200,471,64,178,547,257,162,117,221,48,290,2,111,18,152,567,1,107,25,172,686,2,228,141,803,183,1363,15,3,5
+Ethio Telecom	1219,458,14,204,1322,249,322,79,108,175,21,21,163,200,251,22,88,2,1,114,100,200,471,64,178,547,257,162,117,221,48,290,2,111,18,152,567,1,107,25,172,686,2,228,141,803,183,1363,15,3,5,1643,6
 Ethio Telecom CEO	4192
 Ethio Telecom CEO Frehiwot Tamru	4806,112,17,4594
 Ethio Telecom CEO Frehiwot Tamru and Djibouti	3788
@@ -513,6 +514,7 @@ Ethio Telecom-Ericsson	5333
 Ethio Telecom-National ID	4916
 Ethio Telecom-ZTE	5333
 Ethio Telecom. Authentication	12267
+Ethio Telecom. Djibouti City	13921
 Ethiopia Tel	961,6990,3857,9
 Ethiopia Telecom Market Assessment	3773
 Ethiopia's Ethio Telecom	4192,5708
@@ -615,6 +617,7 @@ Global ICT Index Telecom Review Africa	3219
 Global Telecommunication System	11553
 Global Telecommunications	7562
 Global Telecommunications System	13686
+Google Cloud for Telecommunications Today	13839
 Google Google China Telecom Google Google	6477
 Google Telecom	6878
 Gov Telecommunication Infrastructure Index	10785
@@ -722,7 +725,7 @@ International Telecommunica- Alignment	961
 International Telecommunication	736,10480
 International Telecommunication Ethiopia	11563
 International Telecommunication In Kenya	6593
-International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178,137,79,6,11,21,226,61,91,7,134,4,77,19,17,22,159,144,9
+International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30,182,31,18,178,137,79,6,11,21,226,61,91,7,134,4,77,19,17,22,159,144,9,223,7,7,28
 International Telecommunication Union Council	6007
 International Telecommunication Union ICT Development Index	11935
 International Telecommunication Union ITI Internet User	1009
@@ -1187,6 +1190,7 @@ Partner Tel	12855
 Passive Telecommunications Infrastructure	4896
 Passive Telecommunications Infrastructure Revenue Pro	4896
 Patrick Kelly Telephone	11258
+Paul Lipscombe Ethio Telecom	13921
 Pay Television Subscription Information	582
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
@@ -1226,7 +1230,7 @@ Postal and Telecommunications Regulatory Authority	736,236
 Postal and Telecommunications Sector Performance Report	13673
 Postal and TelecommunicationsAct	972
 Postes Et Telecommunications	4384
-Posts and Telecommunications	969,1540,885,1364,4,7,19,1,1184,360,512,454,699,5314,2
+Posts and Telecommunications	969,1540,885,1364,4,7,19,1,1184,360,512,454,699,5314,2,615,4
 Posts and Telecommunications Corporation	225,3176
 Posts and Telecommunications Institute of Technology	1962
 Posts and Telecommunications Justin Gourna Zacko	6185
@@ -1443,6 +1447,7 @@ Syrian Telecommunication and Post Regulatory Authority	10793
 System Monitoring A. Telecommunications Service Providers	4610
 System Recovery A. All Telecommunications Service	4610
 Sénégal Tel	10237
+TCI Telecommunication Infrastructure	13861
 TECHNOLOGY SECTOR REPORT Fixed Telephony Main	12395
 TEL AVIV	4209
 TEL NO	2709
@@ -1649,6 +1654,7 @@ Telecom Egypt. Telecom Egypt	10461
 Telecom Fraud and Social Engineering	11840
 Telecom GITEX Nigeria	9117
 Telecom Giant Orange Côte	6017
+Telecom Hub for East Africa and Beyond Djibouti	13851
 Telecom Identity Risk Management System	5880
 Telecom Infrastructure Development	12245
 Telecom Infrastructure and Digital Connectivity Development	6459
@@ -1692,6 +1698,7 @@ Telecom Review Africa	2145,133,524,419,324,154,97,375,3,4,93,621,1188,513,111,59
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433
 Telecom Review Africa. Telecom	8852
 Telecom Review Asia	8945
+Telecom SA	13851
 Telecom Sector	5677
 Telecom Services	7315
 Telecom Services ITU International Telecommunication Union	13312,2
@@ -1776,6 +1783,7 @@ Telecommunications Banking	1777
 Telecommunications Broadcasting	11211
 Telecommunications CA	6946
 Telecommunications Cabling Infrastructure Classes	9123
+Telecommunications Code	13920
 Telecommunications Compliance and Telkom Kenya Limited	6946
 Telecommunications Consumer Protection Regulations	4610
 Telecommunications Consumer Rights Directive. The Ethiopian	12193
@@ -2265,7 +2273,7 @@ Wireless Technologies TelOne Potraz Starlink	6244
 Work Nigerian Telecommunications Limited Grammar Cooperative	11129
 World Bank and International Telecommunication Union	961
 World Bank. Telemedan	2380
-World Telecommunication	1248,5698,2813,1770,815
+World Telecommunication	1248,5698,2813,1770,815,1586
 World Telecommunication Day and International Girls	6333
 World Telecommunication Development Conference	4132,4813,3759
 World Telecommunication and Information Society Day	6168,151,7306

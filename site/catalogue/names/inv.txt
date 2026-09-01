@@ -442,7 +442,7 @@ Ethiopian Investment Commission	10709
 Ethiopian Investment Holdings	5383,3537,51,99,337,8
 Ethiopian Investment Holdings Portfolio. Addis Ababa	8971
 European Investigation Order	10088
-European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16,123,175,201,113,67,121,206,1379,218
+European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16,123,175,201,113,67,121,206,1379,218,407,12
 European Investment Bank EU European Union	970
 European Investment Bank. Connecting Europe and Asia	11155
 European Investment Bank. Every	11356
@@ -574,6 +574,7 @@ Global Data Asset Inventory	7590,72
 Global Data Asset Inventory Memo. AidData	7662
 Global Earth Observations for Crop Inventory Forecasting	13094
 Global Gateway Africa-Europe Investment Package	11288
+Global Gateway Forum. The European Investment	13883
 Global Gateway Investment Package	2626
 Global Gateway Investment Package of EUR	11210
 Global Impact Investing Network	4972
@@ -736,6 +737,7 @@ INVTTCPARTTYPE The TTC	12364
 IPF Investment Project Financing	11965
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
+IPF Investment Project Financing IRI Intermediate	13861
 IPF Investment Project Financing ISP Implementation	11855
 IRENA Public Investments Database	11572
 ISA Investments and Securities Act	8590
@@ -917,7 +919,7 @@ Investimento Privado	1265,10165
 Investimento Público	10783,583
 Investimento Público. Artigo	10783
 Investimentos	1948,868,3158,4809,786,370
-Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56,159,133,104,11,108,113,91,25,294,13,32,62,8,181,6,33,6,13,64,59,20,35,28,27,28,1,17,162,311,362,113,14,94,69
+Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56,159,133,104,11,108,113,91,25,294,13,32,62,8,181,6,33,6,13,64,59,20,35,28,27,28,1,17,162,311,362,113,14,94,69,242
 Investing for Employment	789
 Investing for Food and Job	789
 Investing.com	5734
@@ -931,7 +933,7 @@ Investissement P	13390
 Investissement Public	3396
 Investissement Sectoriel	12
 Investissement. L’Unité de Gestion du PEAPPJF	13630
-Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956,128,2315,3,140,379
+Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956,128,2315,3,140,379,127,1
 Investissements Au	1682
 Investissements Dans	10975
 Investissements Directs Etrangers	2342,5313
@@ -947,7 +949,7 @@ Investisseur Air	4567
 Investisseurs	1047,9794
 Investisseurs Air	4567
 Investitionen	696,205
-Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,25,160,40,198,1,85,238,74,207,19,12,36,12,15,5,93,15,7,1,125,29,5,2,110,14,15,12,21,11,35,168,12,16,11,9,285,17,7,3,1,10,60,31,20,20,9,15,108,1,1,45,5,23,20,36,8,32,17,5,4,1,2,1,17,19,62,21,9,6,1,8,10,17,145,1,86,156,4,1,60,71,110,3,4,43,101,18,19,36,16,58,13,77,46
+Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,25,160,40,198,1,85,238,74,207,19,12,36,12,15,5,93,15,7,1,125,29,5,2,110,14,15,12,21,11,35,168,12,16,11,9,285,17,7,3,1,10,60,31,20,20,9,15,108,1,1,45,5,23,20,36,8,32,17,5,4,1,2,1,17,19,62,21,9,6,1,8,10,17,145,1,86,156,4,1,60,71,110,3,4,43,101,18,19,36,16,58,13,77,46,254
 Investment Accelerator	11356
 Investment Account	12920
 Investment Advisor for Phase	5897
@@ -1032,7 +1034,7 @@ Investment Programme ONSA Office	11857
 Investment Programme PVHES Plant	13060
 Investment Programs	11857
 Investment Project	1704
-Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6
+Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6,63,3,38,13,6,1,3
 Investment Project Financing Component	12176
 Investment Project Financing Current Closing	1228
 Investment Project Financing Goods	11750
@@ -1430,6 +1432,7 @@ Parlement. Invité	2738
 Parties Involved	7198
 Partner Nature of Involvement	3604
 Partnership for Global Infrastructure and Investment	11310,47
+Patrimoine Inventaires	13905
 Payment of Invoices	12358
 Payroll Investments Asset Management and Insurance	9437
 Pedido de Investigação	11520
@@ -1507,11 +1510,12 @@ Promote and Attract Investment	958
 Promoting Trade and Investment	12962
 Promotion and Reciprocal Protection of Investments	13326
 Promotion and Reciprocal Protection of Investments Agreement	13326
-Promotion des Investissements	4567,8726,434
+Promotion des Investissements	4567,8726,434,109
 Promotion des Investissements. Article	13293
 Promotion des Investissements. Ils	13293
 Promotion des Investissements. Section	13293
 Promotion of Investment	12376
+Promotion of Investments	13836
 Promotion of Private Investment	9043
 Promoção de Investimentos	10325
 Property Swornrich Investments Pvt Ltd	4896

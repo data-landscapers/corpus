@@ -187,7 +187,7 @@ Assembly. He’s Very Wrong	10034,231
 Assembly. So	7932
 Assembly1	12352
 Assemblé Nationale	2342
-Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9
+Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12,452,329,77,1255,1,76,49,15,106,4,168,24,2,1,9,53,9,96
 Assemblée Administration	9480
 Assemblée Générale	10821,154
 Assemblée Générale des Nations Unies	10826
@@ -198,7 +198,7 @@ Assemblée Générale. ARTICLE	13809
 Assemblée Législative Du Peuple	8734
 Assemblée Législative de Transition	2575,1801
 Assemblée Mondiale	13728
-Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40
+Assemblée Nationale	12,130,1089,50,19,382,389,624,97,1571,204,2175,4079,2480,40,505,78
 Assemblée Nationale de Madagascar Aller	9480
 Assemblée Nationale de Madagascar. Tous	9480
 Assemblée Nationale du Burundi	13511
@@ -229,7 +229,7 @@ Assertion	1009,4233
 Assertion Markup	12360
 Assertion V	1009
 Assertions	8862,114,253,1876
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210,453,98,3,240,45,116,3,40,46,197,275,123,43,298,477,67
 Assess AI	1814
 Assess Compliance	10721
 Assess Effectiveness	12356
@@ -418,6 +418,7 @@ Bank Assets	10718
 Bank Assets.......8 Figure	10718
 Banking Sector Indicators Capital Adequecy Asset	11131
 Base Asset	12882
+Baseline Assessment Report	13922
 Baseline Systems Assessment Report	12138
 Baseline Systems Assessment Report. Nairobi	12138
 Bjune G. Assessing	10881
@@ -774,6 +775,7 @@ European Union. Assessing	1219,11027
 Evaluation Assessment	12389
 Evaluation GIAMA Government Immovable Asset Management	11986
 Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
+Executive Board Assessment Djibouti	13868
 Executive Director of Diversified Assets	9098,248
 Expanding Green Assets	9117
 FDI IFC Asset Recycling	11469
@@ -822,6 +824,7 @@ Full Assessment	13392
 Fundamental Rights Impact Assessments	4689
 Future Assets	12389
 Future Society. AI Readiness Assessment	5701
+GAFD General Assembly URL	13887
 GDA Data Assessment Framework	1161
 GENERAL ASSESSMENT OF THE ELECTION Based	10049
 GENERAL ASSESSMENT PROCEDURE	13381
@@ -832,7 +835,7 @@ Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Gambia's National Assembly	3749
 Gender Assessment	13332
 Gender Gap Assessment	11965
-General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567
+General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567,410
 General Assembly. Language	7320
 General and Provincial Assembly	12201
 General and Provincial Assembly Election	12201
@@ -1066,6 +1069,7 @@ Malawi. MALAWI DIGITAL READINESS ASSESSMENT	12214
 Malawi’s Digital Readiness Assessment	13095
 Mali Digital Ecosystem Country Assessment	1166
 Management Assertion	11855
+Management FSAP Financial Sector Assessment Program	13836
 Management Performance Assessment Tool	11224
 Management of Assets and Government Properties	13420
 Management of State Assets and Participations	7134,3645
@@ -1119,7 +1123,7 @@ Natiolial Assembly	11852
 National AI Readiness Assessment	3712
 National AI Readiness Assessment Committee	10183
 National Artificial Intelligence Readiness Assessment	10183
-National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51
+National Assembly	783,231,11,241,67,141,61,290,13,120,23,18,68,198,393,69,15,17,85,80,229,29,11,41,17,16,165,162,12,97,43,115,26,61,5,17,101,18,16,109,1,5,35,165,98,115,10,392,107,176,89,399,49,17,105,43,1,102,10,18,54,26,70,15,63,99,58,52,131,43,109,15,35,25,217,202,57,36,192,94,88,13,14,26,202,1,2,5,99,70,176,51,120,70,19,91,71,254,18,256,9,1,100,45,100,231,4,56,27,78,2,133,137,147,260,59,110,208,3,15,115,6,11,25,2,5,1,5,4,43,185,28,4,30,49,129,94,2,13,43,38,29,10,68,8,87,52,126,42,5,4,43,28,4,61,10,2,3,6,11,3,13,18,8,41,23,8,8,67,155,1,1,13,4,37,36,2,64,48,1,37,12,148,32,19,42,49,12,36,5,2,10,25,6,29,30,17,51,203,49
 National Assembly Act	12652
 National Assembly Administration Act	7859
 National Assembly Authority	3887
@@ -1555,6 +1559,7 @@ Security and Risk Assessment	10157
 Segunda Vice-Presidentes da Assembleia Nacional	11365
 Segundo Vice-Presidente da Assembleia Nacional	11365
 Self Assessment Questionnaire Automation of Air Cargo	12454
+Senait Nigiru Assefa Task Team Leader	13856
 Senate and National Assembly	13501,158
 Senegal's National Assembly	9134
 Senegal's National Assembly ICT	699
@@ -1610,6 +1615,7 @@ Strategic Risk Assesment Strategy Implementation	13532
 Strategy Financial Sector Assessment Program Gross	12701
 Strategy for Development PRAMS Procurement Risk Assessment	3604
 Strengthen Virtual Asset Regulation The Capital	11501
+Strong Assertion	13899
 Study Assessing	13418
 Submit Data Transfer Impact Assessments	13381
 Subproject Assessment and Analysis	1988
@@ -1626,7 +1632,7 @@ TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLINGS National Assembly and National Council of Provinces	11285,4
 TADAT Assessor Field Guide	13624
 TADAT Secretariat. Performance Assessment Report	12500
-TADAT Tax Administration Diagnostic Assessment Tool	12948
+TADAT Tax Administration Diagnostic Assessment Tool	12948,913
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TECHNOLOGY NATIONAL ASSEMBLY	12982
 TH GLOBAL EDUCATIONAL ASSESSMENT CONFERENCE Inside	13477

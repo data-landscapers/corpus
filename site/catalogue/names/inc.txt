@@ -1160,7 +1160,7 @@ Inclusao Social	11855
 Incluse	10876
 InclusiFI	789
 Inclusif	7621
-Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,242,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247
+Inclusion	312,106,134,91,123,133,41,21,120,136,47,20,47,483,14,99,348,42,125,35,304,176,143,159,168,10,50,117,1,45,202,13,261,211,212,6,70,169,214,83,130,20,216,28,94,98,375,39,321,4,84,332,105,9,3,469,130,242,260,61,226,117,174,184,79,587,10,53,314,44,38,770,14,38,60,3,7,6,2,1,38,33,5,54,38,11,176,290,372,15,16,1,1,1,8,47,27,35,146,1,1,9,47,4,22,5,16,34,42,7,1,11,1,13,13,32,77,187,17,279,6,10,18,11,64,15,165,71,1,58,52,247,152,90
 Inclusion Access	13042
 Inclusion Africa	7283
 Inclusion Agenda	13521
@@ -1355,7 +1355,9 @@ Inclusive and Sustainable	12444
 Inclusive and Sustainable AI for People	4583
 Inclusive and Sustainable Development	13042
 Inclusive and Sustainable Digital Future	12702
+Inclusive and Sustainable Economies	13938
 Inclusive and Sustainable Finance Support Programme	7128
+Inclusive and Sustainable Land Governance URL	13896
 Inclusive and Trusted Digital ID Can Unlock	10819
 Inclusive the SADC	12395
 Inclusive. Instant. Liberia	4282,3
@@ -1541,7 +1543,7 @@ Incorrer	11430
 Incoterms	13185
 Incoterms. Incidental	13185
 Incoterms. Responsibility	13185
-Increase	395,23,371,110,59,203,103,308,132,110,14,57,103,251,52,386,35,850,21,21,236,313,64,43,41,48,1109,218,3,860,40,164,38,155,12,164,1785,102,1017,746,1,5,17,8,19,7,10,27,14,94,21,146,3,723,6,10,33,47,2,26,5,49,116,24,1,34,4,13,29,72,1,27,17,3,8,1,14,153,11,31,6,41,33,1,42,200,6,9,9,23,6,1,4,2,50,26,42,200,17,2,17,16,12,128,45,255
+Increase	395,23,371,110,59,203,103,308,132,110,14,57,103,251,52,386,35,850,21,21,236,313,64,43,41,48,1109,218,3,860,40,164,38,155,12,164,1785,102,1017,746,1,5,17,8,19,7,10,27,14,94,21,146,3,723,6,10,33,47,2,26,5,49,116,24,1,34,4,13,29,72,1,27,17,3,8,1,14,153,11,31,6,41,33,1,42,200,6,9,9,23,6,1,4,2,50,26,42,200,17,2,17,16,12,128,45,255,123
 Increase AI	7548
 Increase Access	12245,154,164
 Increase Accessibility	12675
@@ -1563,7 +1565,7 @@ Increase Taxpayer Satisfaction Figure	13053
 Increase Text	12454
 Increase Women's Participation	9893
 Increase the Level of Security Management Consumer Awareness	6946
-Increased	33,362,388,6,151,30,66,119,40,9,159,465,57,55,20,28,489,235,63,1570,7,176,320,398,1,286,142,481,423,276,83,8,602,85,403,87,482,726,106,1113,168,43,3,15,14,51,12,14,94,13,3,151,3,50,14,32,35,20,240,329,1,2,6,3,7,24,8,17,42,100,79,8,24,35,4,19,12,8,3,14,59,4,23,2,2,35,16,9,24,1,84,23,42,29,86,259,3,16,18,35,93,30,3,148,17,1,15,1,70,145,61,61
+Increased	33,362,388,6,151,30,66,119,40,9,159,465,57,55,20,28,489,235,63,1570,7,176,320,398,1,286,142,481,423,276,83,8,602,85,403,87,482,726,106,1113,168,43,3,15,14,51,12,14,94,13,3,151,3,50,14,32,35,20,240,329,1,2,6,3,7,24,8,17,42,100,79,8,24,35,4,19,12,8,3,14,59,4,23,2,2,35,16,9,24,1,84,23,42,29,86,259,3,16,18,35,93,30,3,148,17,1,15,1,70,145,61,61,225
 Increased AI	7548
 Increased AI No	12210
 Increased AI No. of AI Innovators Program	12210
@@ -1934,7 +1936,7 @@ National Financial Inclusion Framework	11994
 National Financial Inclusion II	940
 National Financial Inclusion Secretariat	940
 National Financial Inclusion Steering Committee	940
-National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262
+National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35,257,255,96,262,624
 National Financial Inclusion Strategy DPI Distributed	12444
 National Financial Inclusion Strategy II	940,3025
 National Financial Inclusion Strategy Implementation Support	1475
@@ -2035,6 +2037,7 @@ PART III CYBER INCIDENT RESPONSE TEAMS	2727
 PART IX AMENDMENT OF THE INCOME	6921
 PART XI AMENDMENT OF THE INCOME	6921
 PCA da INCV	6571
+PDO Indicators Increase	13910
 PDO Outcomes INCREASE THE INCLUSIVE	3604
 PDO Outcomes Increase	2712,3867,4189,2259
 PDO Outcomes Increased	10870,1101
@@ -2118,6 +2121,7 @@ Promoting Inclusion	11905
 Promoting Inclusive Development	2117
 Promoting Inclusive Human Capital Development and Building	11133
 Promoting Inclusivity	12356
+Promoting Social Inclusion and Economic Livelihoods Zoom	13865
 Property and Site-Based Income	4896
 Prosperous Middle Income Country	13346
 Prosperous and Empowered Upper Middle Income Society	940
@@ -2300,6 +2304,7 @@ Social Protection and Youth Economic Inclusion Project	11924
 Social Protection and Youth Productive Inclusion Project	11905,19
 Social Reforms for Inclusive Growth The African	165
 Social Sustainability and Inclusion Extractives	1867
+Social Sustainability and Inclusion Middle East and North	13856
 Social and Economic Inclusion	2775
 Social and Economic Inclusion Overview	2775
 Social da Inclusão Produtiva	11406

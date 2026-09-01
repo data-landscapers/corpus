@@ -212,6 +212,8 @@ Director General and CEO of Smart Africa	3987,1834,3811
 Director of SMRP	12403
 Disciplinary Steps Taken Against SMS Members	11218
 Disclaimer SMEs	9129
+Djibouti Smart Nation	13854
+Djibouti Smart Nation Strategy	13840,80
 Djibouti's Smart Nation	4329
 Djibouti-Visa Smart Wallet	3616
 Domestic Mobile Voice and SMS	6671
@@ -247,6 +249,7 @@ Egbunike SMEs	9129
 Either SMS	12041
 Ekurhuleni's Logistics SMEs	9129
 Ekurhuleni-based SMEs. Analysis	9129
+Emploi SMEs Small and Medium Enterprises ToR	13836
 Empower African SMEs	10151
 Empower SMEs	3636,9384
 Empowers SMEs	1534
@@ -976,7 +979,7 @@ SMS. Users	3012,10030
 SMSA En	2342
 SMSI de Tunis	13290
 SMSI-2026	7197
-SMSI-26	7157
+SMSI-26	7157,6785
 SMSI. Ce	13290
 SMSWithoutBorders	9082
 SMS’. The SACF	4732
@@ -1044,6 +1047,7 @@ Small Island Developing State	10348,984,237
 Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734
 Small Island Developing States SIGMAT Regional	13042
 Small Island Developing States. Education	8992
+Small Islands Developing States	13889
 Small Language Model TIC	2816
 Small Language Models	3859
 Small Language Models Algorithms Small	12210
@@ -1087,6 +1091,7 @@ Small and Medium Enterprises Development	940,6496,825,3041,2289,82
 Small and Medium Enterprises Development Agency of Nigeria	11309
 Small and Medium Enterprises Development FOREWORD My	13391
 Small and Medium Enterprises MTEF Medium Term	1988
+Small and Medium Enterprises NDP National Development	13836
 Small and Medium Enterprises National Development Strategy	940
 Small and Medium Enterprises Nonbank Financial Institutions	11134
 Small and Medium Enterprises. ARTICLE	13326
@@ -1118,7 +1123,7 @@ Smallholder Farmers Fertiliser Revolving Fund	4172
 Smallholder Fields of Malawi Abstract. Accurate	13162
 Smallroombigdream	7655
 Smart	395,187,207,169,507,631,422,184,245,11,319,217,367,667,35,571,366,633,78,221,141,136,770,13,40,16,203,125,146,261,177,143,2,601,503,1103,204,114,727,6,370,126,44,33,54,22,212,281,32,95,95,85,2,10,7,199,3,11,15
-Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532,512
+Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532,512,1066
 Smart Africa AI	10801
 Smart Africa AI Blueprint	6054,5211
 Smart Africa AI for Africa Blueprint	2682
@@ -1137,7 +1142,7 @@ Smart Africa Concept Note	10819
 Smart Africa Council of African Regulators	3549
 Smart Africa DG Lacina Koné	3959,3238
 Smart Africa Data Exchange	4036,290,1624,419
-Smart Africa Data Governance Blueprint	10073,1366
+Smart Africa Data Governance Blueprint	10073,1366,2505
 Smart Africa Data Protection Working Group	961,9858
 Smart Africa Digital Academy	1182,82,2285,481,6,1748,37,5127
 Smart Africa Digital Academy Services	4126
@@ -1310,7 +1315,7 @@ Smart Market Initiative	7254
 Smart Meter	8231
 Smart Mining	395,563
 Smart Money Talks	13532
-Smart Nation	3193,420,3,1189,1398,1025,4694
+Smart Nation	3193,420,3,1189,1398,1025,4694,1972,1,19
 Smart Nation Roadmap	4197
 Smart National Transport Databank	10603
 Smart Nkunganire	5267

@@ -998,7 +998,7 @@ Electromagnetic Interference ITE	9123
 Electron	1261
 Electron J Inform Syst Developing Ctries	1261
 Electron. J. Inf. Syst. Dev. Ctries	12926
-Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105
+Electronic	11,10,5,2,198,10,346,189,12,226,44,208,727,108,310,254,878,176,147,427,172,99,337,351,664,293,181,561,332,179,12,26,65,40,146,35,147,23,425,4,85,116,6,76,52,81,182,877,333,526,50,48,10,22,12,81,42,150,9,41,5,6,50,10,2,298,1,12,33,225,48,40,30,4,12,5,16,10,4,10,25,16,214,39,31,13,12,15,2,12,10,6,10,10,5,33,6,6,2,33,33,29,101,18,19,208,11,11,18,47,90,100,66,44,12,1,6,8,35,68,36,105,323,17
 Electronic Addressing	11129
 Electronic Age andE-GovernanceWorkshop	12325
 Electronic Airtime Distribution	3862
@@ -1440,7 +1440,7 @@ Elevada	11448
 Elevado	11557
 Elevado Desempenho	11387
 Elevados	1701,9868,324
-Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223
+Elevage	737,1887,1,5644,1284,115,1207,2466,34,15,223,230
 Elevage Crédit	13390
 Elevage Sénat	13341
 Elevage des Volailles	10830
@@ -1753,6 +1753,7 @@ Information System Emergency Operations Center Electronic	4153
 Information and Elections	10729
 Infraestrutura de Notificações Electrónicas	11461
 Infrastructure and Electricity	11720
+Innovation and Electronic Policy Development	13902
 Installations. Electrification	13809
 Installed and Effective Capacity of Electricity	2775
 Instituições Elegíveis	11438

@@ -54,6 +54,7 @@ Asia United Gateway East	1766
 Assessment Unit	11905
 Assistance IFC International Finance UNHCR United	12297
 Authority of South Africa UN United Nations	11986
+Available Units	13930
 Avatar of UnitBuilds	12478
 Awka The United Nations Development Programme	10160
 B RESULTS MATRIX UNIT BASELINE TARGET	11863
@@ -85,6 +86,7 @@ CHALLENGES The National Population Unit	12962
 CID Cybercrime Unit	6936
 CM1 and Unit	11905
 CMU Country Management Unit CNP Concelho	11380
+CMU Country Management Unit COVID-19 Coronavirus	13836
 CNE’s Gender and Social Inclusion Unit	11586
 COMMUNICATION TECHNOLOGY UNIT AUTHORISATION TO ACCESS	34
 COMMUNICATION TECHNOLOGY UNIT EQUIPMENT SUPPORT LOG	34
@@ -170,7 +172,7 @@ Coût Moyen Unitaire Pondéré	10975
 Creation of Additional Polling Units The Commission	10049
 Crisis Coordination Unit	6947
 Cultural Organization WASH United Nations High	11905
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1,93,25
 Currency Unit1 Equivalent	11863
 Custom Duties Unit Price	13185
 Cyber Crime Unit	7777
@@ -241,6 +243,7 @@ Disabilities PMU Project Management Unit PSC-LED	11863
 Disability Unit	12977
 Disaster Management and Mitigation Unit	1988,11377,22
 Distribution Unit PMC Preventive Maintenance Compliance	13185
+Djibouti Commissioning Unit	13858
 Dwelling Units Tenant Households Prefer	2775
 E-Government Technology Unit	2779
 E-Government Technology Unit Head	2779
@@ -260,6 +263,7 @@ ESTABLISHMENT OF THE PROSECUTION UNIT	12459
 ESWATINI PREAMBLE The United States	4247
 EU and United States	11149
 East Africa. United Nations	12138
+Eastern Mediterranean Regional Office Unit	13858
 Economic Farming Unit	12912
 Economic Farming Units	12912
 Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
@@ -664,6 +668,7 @@ PBF National Technical Unit Quality	10829
 PBF National Technical Unit The World	10829
 PCA da UNITEL	4248
 PCU Project Coordination Unit PDISA Water	11380
+PCU Project Coordination Unit PdD Djibouti	13861
 PDU Power Distribution Unit PDU Power	13185
 PHA. A UNITA	9159
 PIU Project Implementation Unit PPA Power	11549
@@ -739,7 +744,7 @@ Programme UNESCO United Nations Educational	6946,602
 Project Coordination Unit	3604,2673,5248,887,980
 Project Coordination Unit. Specifically	11863
 Project Delivery Units	11857
-Project Implementation Unit	1228,36,20,494,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64
+Project Implementation Unit	1228,36,20,494,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293,473,42,19,213,83,179,164,491,277,64,541
 Project Implementation Unit PIU Project Operations	11855
 Project Implementation Unit PPP Public-Private Partnership	6539
 Project Implementation Unit PRAASED Project Procurement	11905
@@ -946,7 +951,7 @@ Track gauge in the United States	4259
 Trade Policy Unit	7845
 Trade and Development UNDESA United Nations Department	10759,78,1052,451
 Trade and Development UNDG United Nations Development	1243
-Trade and Development UNDP United Nations Development	1264,5682,602
+Trade and Development UNDP United Nations Development	1264,5682,602,6313
 Trade and Development UNECA United Nations Economic	10841
 Trade and Development UNESCO United Nations Educational	2775
 Traffic Management and Road Safety Unit	7845
@@ -983,7 +988,7 @@ UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 UNAIDS Joint United Nations Programme	11887,266,1,9,178
 UNCDF United Nations Capital Development Fund	11960
 UNCTAD United Nation Conference	2775
-UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333
+UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178,333,1187
 UNCTAD United Nations Conference for Trade	13312,2
 UNCTAD United Nations Trade and Development	12786
 UNDESA United Nations Department of Economic and Social	11887,266,1,9,178
@@ -1082,6 +1087,7 @@ Unit PKI Public Key Infrastructure PND	13331
 Unit POM Project Operations Manual PPP	10829
 Unit PPE Personal Protective Equipment SCT	13332
 Unit PPPs Public-Private Partnerships PTFs Technical	13731
+Unit PSD Private Sector Development SCAPE	13836
 Unit Permanent Secretary World Bank Organogram	13332
 Unit Price Negarit G. P.O.Box	12146,39,41
 Unit Prices and Value of Selected Crops	2775
@@ -1119,7 +1125,7 @@ Unite and Transform	7426
 United	736,35,1325,1487,1659,5893,434,395,277,154,642,425,144
 United Africa Blockchain Association	8298
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates Government	13795
@@ -1206,6 +1212,7 @@ United Nations An Operational Guide	13681
 United Nations Assistant High Commissioner	1963
 United Nations Association of China	11572
 United Nations Avenue	4154
+United Nations Beirut	13906
 United Nations Broadband Commission	1264,9580
 United Nations Broadband Commission for Sustainable	10851
 United Nations Capital Development Fund	273,92,12,287,215,235,371,1176,1579,5541,1060,515,604,981,314,91,1,41
@@ -1252,7 +1259,7 @@ United Nations Development Program UNDP	11525
 United Nations Development Program UNECA United	13005
 United Nations Development Program UNICEF United	13332
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14,404,152,26,33,13,64,147,48,201,39,18,25,62,70,74,2,13,28,2,11,8,6,48,127,7,23,1,15,78,15,268,4,43,271
 United Nations Development Programme DPI Safeguards	11940
 United Nations Development Programme Reference	9605
 United Nations Development Programme UNESCO	12966
@@ -1278,7 +1285,7 @@ United Nations Economic Commission for Western Asia	11572
 United Nations Economic Programme for Europe	11572
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Asia	12367,46
-United Nations Economic and Social Commission for Western	4492,2736
+United Nations Economic and Social Commission for Western	4492,2736,6678,7
 United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109,304,310,26,270,181,39,571,697
 United Nations Electronic Government Development	12453,892
 United Nations Electronic Participation	11569
@@ -1460,7 +1467,7 @@ United Nations-backed Digital Public Goods Alliance	11922
 United Nations-brokered	13024
 United Nations-led SSE	8093
 United Nations-supported	12986
-United Nations. All	13382
+United Nations. All	13382,524
 United Nations. Available	11133
 United Nations. Closing Sessions	8628
 United Nations. Global Dialogue	8628
@@ -1575,7 +1582,7 @@ United States and South Africa. Figure	12376
 United States and South Korea	11028
 United States and South Korea. Minerva	11050
 United States and Uganda	4217
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Email	13042
@@ -1703,6 +1710,7 @@ World Bank and United Nations	10829
 World Bank and United Nations Development Program	11133
 World Bank and United Nations High Commissioner	10841
 World Bank-funded Project Implementation Units	1228
+World Development Indicators Units	13930
 World Food Programme and United Nations	3583
 World Trade Organization and United	10969
 WveolorlpdmTerandte Organization and United	10969

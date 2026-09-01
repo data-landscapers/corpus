@@ -1001,6 +1001,7 @@ Multiple Regulatory Framework	11956
 Multisector Regulatory Agency	11873
 Multisectoral Economic Regulatory Agency	11891
 Multisectoral Regulatory Agency	3416,8549,79
+Multisectoral Regulatory Authority of Djibouti	13888,38,7
 Municipal PPP Regulation	11248
 Municipal Regulatory Entities	11551
 Municipal Regulatory Entity	11551
@@ -1557,7 +1558,7 @@ Regulate Mobile Virtual Networks	958
 Regulate Recognition	12214
 Regulate Regulatory Tools Communications Monitoring	9109
 Regulate Technology. Oxford University Press	5242
-Regulated	718,222,888,2298,862,5372,359,103,440,952
+Regulated	718,222,888,2298,862,5372,359,103,440,952,1712
 Regulated APIs	10719
 Regulated Economic Activity	1802,10382,51
 Regulated Entities	12399
@@ -1762,6 +1763,7 @@ Regulatory Agencies Key	7548
 Regulatory Agencies Office	12210
 Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Agency	718,251,2682,45,105,8240
+Regulatory Agency CCDR Country Climate and Develop	13885
 Regulatory Agency for Post and Electronic Communications	3805
 Regulatory Agency for Posts and Electronic Communications	2306,9541
 Regulatory Alignment	5665,6287,723
@@ -1838,7 +1840,7 @@ Regulatory Framework Pillar	12389
 Regulatory Framework and Policy Development	5245
 Regulatory Framework and Standards	4528
 Regulatory Framework for Open Banking	11138
-Regulatory Frameworks	11265
+Regulatory Frameworks	11265,2634
 Regulatory Gaps	12241,115
 Regulatory Governance Index	12256
 Regulatory Guardian The National Digital	4528,7984

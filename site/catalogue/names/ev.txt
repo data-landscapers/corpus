@@ -141,6 +141,7 @@ Commerce and Industry Every Property	9437
 Communications and Events Manager	11809
 Community Events	12675
 Compendium Of Cases On Electronic Evidence	11654
+Completion and Results Report M&E Monitoring and Evaluation	13836
 Computação Evolutiva	2816
 Confidential Business Business Event Human Resources	9124
 Connecting Every Malawian Building	12214
@@ -394,7 +395,7 @@ Evaluating Europe's Package	6545
 Evaluating Technological Capacities and Opportunities	13005
 Evaluating the Conduct and Practice of Digital Lending	12227
 Evaluating the Impact of Generative AI	11140
-Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,200,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111
+Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,200,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42,124,57,5,31,24,319,11,7,206,133,32,9,6,35,2,82,48,37,71,110,3,53,5,257,1,242,59,2,39,20,45,103,116,5,25,1,9,2,47,2,60,16,56,111,213,10
 Evaluation Approach	12759
 Evaluation Area Criteria Description Weight Score	13031
 Evaluation Arrangements	10964
@@ -432,6 +433,7 @@ Evaluation MoH Ministry of Health MoE Ministry	6539
 Evaluation NPV Net Present Value PBF	11924
 Evaluation Numbering Division Strategy	6946
 Evaluation Objective	12175
+Evaluation Office	13858
 Evaluation Officer MoH	34
 Evaluation Performance	13005
 Evaluation Plan	1284,583,8962,135,453,438,50,451,975,1
@@ -560,7 +562,7 @@ Event Data Project	11887,266,1,9,178
 Event Data Project AfDB African Development	10759,78,1052,451
 Event Data Project UNCTAD United Nations	10835,3,130,902,16,466,1,135
 Event Date	12618
-Event Details	10707
+Event Details	10707,3238
 Event Documents	12904
 Event Event	12364
 Event Event Attendance Mode	10244
@@ -935,11 +937,13 @@ IAC Commissioning Event Gallery	13551
 IDEV Evaluation of Cabo Verde CSPs	11863
 IDs. Every	2930
 IHME Institute for Health Metrics and Evaluation	11887,266,1,9,178
+II. Evolution	13848
 III.5. Evolution	13452
 IM-managed Event Gateway	6423
 IMPLEMENTATION PLAN AND MONITORING AND EVALUATION	12675
 IMPLEMENTATION ROADMAP AND PERFORMANCE EVALUATION	12240
 IMTT Affects Every Swipe and Transfer	3016,2546
+Iciar Evaluation Title	13858
 Illegal Land Eviction and Invasion	11188
 Impact Evaluation	10964,2014
 Impact Evaluation of Indonesia Conditional Cash Transfer	12978
@@ -950,7 +954,7 @@ Implementation and Evaluation. Washington	8376
 Implications for Kenya’s Evolving AI Ecosystem	10246
 Inadequate Technical Support for Digital Program Evaluations	12214
 Independent Evaluation Board	13226
-Independent Evaluation Group	10779,531
+Independent Evaluation Group	10779,531,2540
 Independent Evaluation Office BSG Budget Support	11863
 Independent Evaluation and Verification Panels	1988
 Independent Monitoring and Evaluation Framework	11857

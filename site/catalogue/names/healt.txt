@@ -748,6 +748,7 @@ Director General of Health Services	4922
 Director of Health	9852,2486
 Director of Health and Social Services	12141
 Director of Reproductive Health	13040
+Director-General of Health Emergencies and Epidemics Control	13870
 Directorate of Community Health and Health Promotion	10940
 Directorate of Health and Human Services	11596
 Directorate of Occupational Health and Safety	12253
@@ -777,6 +778,7 @@ District Hospital Health Center Very	12379
 Diversified Health Financing	12606
 Division of Global Health Protection	11912
 Division of Health Informatics	2678
+Djibouti Health System Strengthening	13859
 Doc Healthcare	7151
 Doc-E Health Technologies Data Controller INST-98496355ED3	7167
 Domestic Government Health Expenditures	4153,64,132
@@ -1106,7 +1108,7 @@ HUMAN RESOURCE HEALTH AND SAFETY HR	12253
 Harmonized Health Facility Assessment	4202
 Harvard School of Public Health	12367,46
 Head of Health	12338
-Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69
+Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69,57,36
 Health AI	6233
 Health AI Governance Workshop	9784
 Health Academic	12025
@@ -1115,6 +1117,7 @@ Health Administration and Patient	1877
 Health Aff	3604
 Health Aff Sch	7836
 Health Ambassador	13562
+Health Approach	13870
 Health Architecture	4301,7954
 Health As Most Critical Sectors of Any	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Health Assistance Operational Manuals	13420
@@ -1262,6 +1265,7 @@ Health Gap	5162
 Health Hazards	12233
 Health Health	970
 Health Health Technology Assessment Integrated Logistics	4153
+Health High Level Expert Panel	13870
 Health High-Level Expert Panel	9969
 Health ICT	21
 Health IRB	10881
@@ -1762,6 +1766,9 @@ Hygiene WASH World Health Organization	11417
 IATI. Tanzania Health Information Systems	218
 ID Credentials Ministry of Health	12241
 IEEE Journal of Biomedical and Health Informatics	8606
+IGAD Health Ministerial Committee Meeting	13870
+IGAD Regional Health Data Sharing	13845
+IGAD Regional Health Data Sharing and Protection	13845
 IGAE International Health Regulations IHR Multiple	11417
 IHME Institute for Health Metrics and Evaluation	11887,266,1,9,178
 IIMS National Institute for Health Research	11417
@@ -2099,8 +2106,9 @@ Mental Health Issues and Drug Dependency	6948
 Men’s Health	12970
 Methodology for Data Collection One Health Committee	11417
 Minis- Health Maps	10780
+Minister for Health	13870
 Minister for Health Mduduzi Matsebula	13008
-Minister of Health	396,1911,1276,249,1,334,121,61,2125,1490,122,1004,177,258,1251,53,572,16,331,232,358,75,148,46,122,293,18,64,283
+Minister of Health	396,1911,1276,249,1,334,121,61,2125,1490,122,1004,177,258,1251,53,572,16,331,232,358,75,148,46,122,293,18,64,283,483
 Minister of Health Dr. Haitham Mohamed Ibrahim	8613
 Minister of Health Dr. Sabin Nsanzimana	4781
 Minister of Health Either Participant	4217
@@ -2108,6 +2116,7 @@ Minister of Health Somalia Launched the Pandemic	10477
 Minister of Health Sudan Street	4349
 Minister of Health and Another	2307
 Minister of Health and Child Care	4528,2894,5090,528
+Minister of Health and Human Services	13870
 Minister of Health and Population	6206
 Minister of Health and Sanitation Madalitso Baloyi	8575
 Minister of Health and Social Services	4940
@@ -2117,12 +2126,13 @@ Minister of Health of Botswana	11748
 Minister of Public Health	8506
 Minister of Public Health Manaouda Malachie	8666
 Minister of Public Health and Prevention	6929
+Ministers of Health	13870
 Ministers of Health and Social Services	5086
 Ministries of Health	560,1218,5156,987,148,2750,1683
 Ministries of Health and Child Welfare and Local Government	21
 Ministries of Health and Education	10768,757
 Ministries of Justice and Health	11586
-Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22
+Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22,46,11
 Ministry of Health Annual Budget Performance Report	12976
 Ministry of Health Community Development	1261
 Ministry of Health Data Governance Manual	3861
@@ -2557,7 +2567,7 @@ Presidential Decree for Targeted Free Healthcare	10829
 Presidential Health Compact	1009
 Presidential Health Summit	396
 Primary Health	11857
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
@@ -2654,6 +2664,7 @@ Real Education Health Other FISIM All	2775
 Real Estate Education Health Other Ser-	2775
 Rebuilding Global Health Data	3884
 Reforming for Universal Health Coverage	13166
+Refugee and Cross-Border Health	13870
 Region Prefecture Health Districts Population	10829
 Regional Directorate of Health	7322
 Regional Ethics Committee for Health Research	8376
@@ -2832,7 +2843,9 @@ St Francis Kijjaguzo Health Centre III	11022
 Stabilization Levy NHIL National Health Insurance	236
 Standalone National Digital Health Strategic Plan	7707
 Standards for Improving Child Health and Newborn Care	12729
+State Department of Public Health and Professional Standards	13870
 State Health Insurance Schemes	12004
+State Minister of Health and Human Services	13870
 State Primary Health Care Boards	12004
 State of Alaska. Department of Health and Social Services	12413
 State of Health	11998
@@ -3046,6 +3059,7 @@ World Bank CAR Health Service Delivery	10829
 World Bank Environmental Health and Safety Guidelines	1988
 World Bank Environmental Safety and Health Guidelines	1988
 World Bank Environmental and Health Safety Guidelines	1988
+World Bank Group Djibouti Health System	13859
 World Bank Group General Environmental Health	1988
 World Bank Group. World Health Organization	12240
 World Bank and World Health Organization	1261
@@ -3066,7 +3080,7 @@ World Health Day and World Mental	10776
 World Health Or-	8301
 World Health Organisation	21,937,1668,4695,1293,756,1452,342,31,310,470,226,39,173,227,336,64,347,2
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416
 World Health Organization Every	10881
 World Health Organization FFP Fund	10835,3,130,902,16,466,1,135
 World Health Organization Malawi WHO MALAWI	13166

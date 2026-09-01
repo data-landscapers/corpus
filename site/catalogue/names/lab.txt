@@ -341,7 +341,7 @@ International Labour Conference	6612,1
 International Labour Office	6612,4217
 International Labour Organisation	6652,1807,3077,1386,467
 International Labour Organisation. Statistics	12376
-International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10
+International Labour Organization	1264,4939,409,336,154,3215,512,12,123,5,48,123,16,102,22,292,140,172,11,99,165,46,150,132,491,82,97,298,10,430
 International Labour Organization Enterprise Formalization	10823
 International Labour Organizations	12972
 Interviews Labour	12253
@@ -720,6 +720,7 @@ Minister of Labour and Rehabilitation	7723
 Minister of Labour and Social Security	4192
 Ministers of Home Affairs and Employment and Labour	11280
 Ministers of Labour and Education	11179
+Ministries of Education and Labor	13931
 Ministries of Labour	12746
 Ministry Ministry of Labour	7548
 Ministry of Development Labour	7548
@@ -826,6 +827,7 @@ Platform Labour	226
 Platform for Digital Labor Unions	226
 Policy Lab	12674
 Population Outside Labour Force	12600
+Port Labor Supply	13931
 Portfolio Approach of Accelerator Lab Guinea Bissau	11541
 Potential Labour Force	11296
 President of Medtronic LABS	12438

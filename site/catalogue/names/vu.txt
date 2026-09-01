@@ -16,6 +16,7 @@ Burkina Point de Vue Politique Quantum Robotics	9993
 Burundi. Vu	13306
 C Vu	13293
 CARACTERE PERSONNEL L’ASSEMBLEE NATIONALE Vu la Constitution	10825
+CHEF DU GOUVERNEMENT VU La Constitution	13825,2,16,80,14,3
 CLIMATE CHANGE RISK AND VULNERABILITIES	10829
 CONSEIL NATIONAL DE LA TRANSITION Vu	113
 Cash NDMA-PR-08 Vulnerable	12977
@@ -155,15 +156,19 @@ United Nation Children's Funds. VUP	12403
 Urban Rural Poor Vulnerable Other Poor	10763
 V Vulnerabilidade	6970
 VAPT Vulnerability Assessment and Penetration Testing	11952
-VU La Circulaire	4420,147
-VU La Constitution	4567
-VU La Loi	4420,147
-VU La Loi Constitutionnelle	4420,147
+VU L'Ordonnance	13825
+VU La Circulaire	4420,147,9279,31
+VU La Constitution	4567,9261,18,31
+VU La Loi	4420,147,9258,2,1,1,14,3,31,46,14
+VU La Loi Constitutionnelle	4420,147,9276,3,31,46,14,3
 VU La Loi de Finances	4420
-VU Le Décret	4420,147
+VU Le Décret	4420,147,9258,3,15,3,31,46,14,3
+VU Les Délibérations du Conseil	13923
+VU Loi	13827
 VU la Constitution	13715,4,4,49,37
-VU la Loi	4567
+VU la Loi	4567,9258
 VU la Loi N	13715
+VU le Décret	13827
 VU le Décret N	13715,8
 VUCA World	7444
 VUKELIĆ PAVLINOVIĆ	6613

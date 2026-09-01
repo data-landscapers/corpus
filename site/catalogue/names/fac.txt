@@ -211,7 +211,7 @@ Digital Investment Facility EAC East African	10781,1646
 Digital Trade Facilitation	3861
 Digital and Sustainable Trade Facilitation UPU Universal	13042
 Digital for Health Facilities	10865
-Direct Facility Financing	10829
+Direct Facility Financing	10829,3030
 Director for Trade Facilitation and Investment Promotion	8167,332
 Directorate of Infrastructure. Facilities	962
 Disclaimer FAST FACT	5247
@@ -622,7 +622,7 @@ Facts First	10661
 Facts Population	10908
 Facts and Africa	6946
 Facts and Figure	1814
-Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316,335
+Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316,335,1675
 Facts- Figures2019.pdf International Telecommunication Union	961
 Facts-Figures-2024	12227
 FactsFigures2021.pdf ITU	1243
@@ -1195,6 +1195,7 @@ Tariff Category Facility Charge	12394
 Technical Assistance Facility	1204
 Technical Assistance Facility for Youth	10841
 Technical Cooperation Facility	970
+Technical Facility	13938
 Technology Faculty Research Ethics Committee	9129
 Technology and Innovation Facilitate	1161
 Telecommunication Licence for Network Facilities Services	736

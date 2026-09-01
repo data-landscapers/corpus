@@ -610,6 +610,7 @@ Africa Nazarene University Data Controller INST-44287758F89	7167
 Africa's Voices Foundation Limited Data Controller	7167
 African Centre for Technology Studies Data Controller	7167
 African Centres for Disease Control and Prevention	9969
+African Development Bank Group Contract Awards	13893
 African Leadership Centre Trust Data Controller	7167
 African Plant Nutrition Institute Data Controller	7167
 African Power Pool SCADA Supervisory Control	12399
@@ -1765,7 +1766,7 @@ Contraceptive Device JKIA Jomo Kenyatta International	2775
 Contraceptive Knowledge and Use	13454
 Contracepção	10777
 Contracepção de Emergência	10777
-Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11,149,144,7,278,39,14,6,17,131,207,184
+Contract	59,295,608,160,516,1199,152,594,845,1248,756,107,532,1475,1151,1112,389,20,6,9,17,575,44,72,15,176,121,49,87,11,149,144,7,278,39,14,6,17,131,207,184,346
 Contract A Lump-Sum	11869,72
 Contract Account Number. Customers	8231
 Contract Administration Price Code	13385
@@ -1778,6 +1779,7 @@ Contract Article	11956
 Contract Award	13185
 Contract Award Notice	7951,215,5019,342
 Contract Award Section	13185
+Contract Awards	13893
 Contract Closing	8546
 Contract Closing Support Support	8546
 Contract Completion	13017
@@ -1794,7 +1796,7 @@ Contract Management System	11231
 Contract Manufacturing and Development Organization	13412
 Contract Necessity	7409
 Contract Negotiations	13031
-Contract No	13185
+Contract No	13185,740
 Contract No. AVIC	258
 Contract No. NTSA	11789
 Contract Notice Date	13621
@@ -1890,7 +1892,7 @@ Contractors Code of Conduct	12253
 Contractors ESMP	12253
 Contractors Registration ISO	5665
 Contractors SEA	1988
-Contracts	961,1027,1726,849,113,12,988,756,1116,208,121,751,491,280,540,902,390,20,274,25,142,303,200,724,53,213,126,20,61,262
+Contracts	961,1027,1726,849,113,12,988,756,1116,208,121,751,491,280,540,902,390,20,274,25,142,303,200,724,53,213,126,20,61,262,272
 Contracts Management and Project Accounting	11231
 Contracts and Commercial Law	6683
 Contracts and Science	10157
@@ -1978,7 +1980,7 @@ Contravenções	14,1,561,6394,3777,8,605,951
 Contravenções Especialmente Graves	10755
 Contre	6613
 Contre-plaqué	13300
-Contrepartie	1291,1,1,1,1,1,448,313,1,1,1,1,1,2308,1,1,1,1,1,8,1443
+Contrepartie	1291,1,1,1,1,1,448,313,1,1,1,1,1,2308,1,1,1,1,1,8,1443,8002
 Contreparties Centrales	13468
 Contrevenir	13781
 Contribuable Demande	13341
@@ -2017,7 +2019,7 @@ Contribuições	4274,304,6852,11,86,5,18,468
 Contribuições Atraso	11532
 Contribuições Juros	11532
 Contribuições Recebidas Empresas	11490
-Contribute	1885,1976,567,11,424,384,286,620,5082,301,450,370,202,117,346,287,24,31
+Contribute	1885,1976,567,11,424,384,286,620,5082,301,450,370,202,117,346,287,24,31,562
 Contributed	5224,7505,233,12,207
 Contributes	861,2930,466,8712
 Contributeur	4567
@@ -3076,6 +3078,7 @@ Direct Contracting and CQS	11525
 Directeur du Contrôle	8269
 Direction du Contrôle	4420
 Direction du Contrôle des Dépenses	4420
+Director-General of Health Emergencies and Epidemics Control	13870
 Directorate General of Contributions and Taxes	11939
 Directorate for Public Procurement Control	11905
 Directorate of Citizenship and Immigration Control	3005,3430,58,1581,2748
@@ -3444,6 +3447,7 @@ Interoperability Contract	6432
 Interoperability Controls	10721
 Irembo. Control	12359
 Irungu Mwangi Data Controller INST-516004EF48C	7167
+Ismail Lubbad and Kaylin Fabian. Contributors	13906
 J. Award of Contract ITB	13185
 JOINT SPECIALITY CENTER LIMITED Data Controller	7167
 JUL VAI CONTRIBUIR PARA DIMINUIÇÃO	8052
@@ -3650,6 +3654,7 @@ Media Access Control	4274
 Media Access Control Parameters	3604
 Media Limited Data Controller INST-801646B309F NAIROBI	7167
 Medidas de Control	9543
+Mehdi Benyagoub ICR Main Contributor	13836
 Merger Control	12389
 Meter Control Center MDMS Meter Data	12717
 Micro Contribuables	13427
@@ -3740,6 +3745,7 @@ Number of Grievance Contractor	12253
 Number of Grievances and Grievance Contractor's Construction	12253
 Nutanix Controller VM	13185
 Nyalani Data Controller INST-1197985FF5E KILIFI Kenya	7167
+Nyandeng Gajang ICR Contributing Author	13861
 Nyeri County Data Controller INST-2547114DAAC NYERI	7167
 Não Apenas Contribuintes A Ministra	8003
 O Centro de Controlo	10751
@@ -4072,6 +4078,7 @@ Staffing Requirement and Complement Control	12972
 Standard Contract	962
 Standard Contractual Clauses	5244,6712,37,1388
 Standstill Period Between Contract Award Notice	12389
+State Controlled Media	13929
 Statement of Compliance The Contract MUST	6432
 Stock Exchanges Control Act	3714
 Storage Controller	12681

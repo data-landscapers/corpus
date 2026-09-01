@@ -431,6 +431,7 @@ Chief Growth and AI Officer	5327
 Chief Home Officer	7558
 Chief Home Officer of MTN Ghana	7558
 Chief Human Resources Officer	4993
+Chief ICT Officer	13885
 Chief Immigration Officer	12888,22,141,444
 Chief Immigration Officer IOM	12972
 Chief Impact Officer	9544
@@ -574,10 +575,11 @@ Counselling and Guidance The Office	12977
 Country Director of KOICA Nigeria Office	9360
 Country Director of KOICA Rwanda Office	770
 Country Mozambique Official Use Only	4653
-Country Office	10776,152,404,1397
+Country Office	10776,152,404,1397,1129
 Country Office Director for Zambia and Malawi	13455
 Country Offices	11533
 Country Program Officer	4840
+Country Programme Officer	13885
 County Chief Officer for Education	13254
 County Governments Public Private Office	7548
 County Officials Thank KICTANet Partners Mr	13254
@@ -755,6 +757,7 @@ District Social Welfare Officers	13332
 District and Provincial Offices	1778
 Districts. The Provincial Social Welfare Office	13332
 Divisional Officer for Tiko	9513
+Djeina Issa Kalidi FOR OFFICIAL USE	13856
 Djibouti Office of Industrial and Commercial Assets	6938
 Djibouti Officially Launches Mobile ID Digital	4977
 Djibouti Telecom Chief Executive Officer Mohamed	4898
@@ -790,6 +793,7 @@ ETL Chief Executive Officer	8531
 EX OFFICIO	12374
 EXCEPT IN PRESENCE OF THE OFFICIAL	13037
 Eastern Africa. Officials	6096
+Eastern Mediterranean Regional Office Unit	13858
 Eastern and Central Africa. Officials	7989
 Ebola Outbreak Comorian Officers Join FBI	13754
 Eco Point Office Park	6891
@@ -849,6 +853,7 @@ European AI Office	8686,6
 European Commission's AI Office	8529
 European Commission’s AI Office	8691
 European Union AI Office	6997
+Evaluation Office	13858
 Evaluation Officer MoH	34
 Ex Officio Member	13053
 Example of Post Office Box	11129
@@ -1048,7 +1053,7 @@ I Post Office Text	11180
 ICCC Office Suite	13527
 ICCC Office Suite Office	13527
 ICT Office	34
-ICT Officer	34,9278,3067,1086
+ICT Officer	34,9278,3067,1086,436
 ICT Officer MoH	34
 ICT Officer Mr. Rutendo Chitembure	34
 ICT Officer Ms. Gwendoline Hamabele	1874
@@ -1081,6 +1086,7 @@ ITIDA Chief Executive Officer Ahmed Elzaher	7045
 ITO and District Registration Officer for Buliisa District	3005
 ITU Arab Regional Office	3750,4895
 ITU Area Office for Southern Africa	12695
+ITU Regional Office	13902
 ITU Regional Office for Africa	27
 IX OFFICIAL SIGN-OFF	11261
 Identification. Officials	10899
@@ -1146,7 +1152,7 @@ Janeiro Team Member Disbursement Officer WFACS	11525
 Job Officer	10721
 Joint Offices Responsible for SIC and SINSE	9399
 Joseph Lukhelo District Education Standard Officer	13392
-Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390,94
+Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390,94,16,4,48,46
 Journal Officiel Nombre	3396
 Journal Officiel RDC	12010
 Journal Officiel Spécial	10902
@@ -1558,7 +1564,7 @@ Occupation Health and Safety Impacts Official Use	12253
 Occupational Health and Safety Officer	12972
 Occupational Health and Safety Official Use Only	12253
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74,83
 Office Accommodation	5533,6453
 Office Accra	2308
 Office Act	12138
@@ -1623,6 +1629,7 @@ Office des Changes	8891
 Office des Changes. Disponible	8891
 Office des Postes	4715
 Office des Produits	8237
+Office des Voiries de Djibouti	13908
 Office du Café du Burundi OMS	13377
 Office du Thé du Burundi PASA	13377
 Office for Digital and Emerging Technologies	10210
@@ -1731,7 +1738,7 @@ Offices The Deputy Prime Minister’s Office	12977
 Offices des Postes	11522
 Officesx Health	10812
 Office’s Guidance Note	1630
-Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26
+Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26,455
 Official Accreditation Marks	13816
 Official Africa CDC	4782
 Official Citation and Designation	3861
@@ -2067,6 +2074,7 @@ Principal Officers	13556
 Principal Officers and Senior Managers	12542
 Principal Officers and Ultimate Beneficial Owners	12542
 Principal Officers of Bayero University	2933
+Principal Operations Officer	13885
 Principal Planning Officer	13477
 Principal Planning Officer Ministry of Foreign Affairs	12972
 Principal Programme Officer for Tariffs and Customs Regimes	4827
@@ -2174,6 +2182,7 @@ ROSA Regional Office for Southern Africa SADC	12975
 RSS Dark Mode Officials	2743,2482
 RTSA Station Manager for Ridgeway Office	12381
 RULES FOR OFFICERS	4896
+Rahul Ingle For Official Use Only	13916
 Railways Golf Club. Regional Office	6946
 Rates and Valuation Office	11129
 Rates and Valuation Officer	11129
@@ -2348,6 +2357,7 @@ Shanghai Planning Office of Philosophy and Social Science	8460
 Sharing The Office	2668
 Sheriff's Office. Phase	13619
 Sheriff’s Office	13504
+Shyamala Balu FOR OFFICIAL USE ONLY	13860
 Sibanye's Deputy Information Officer	6683
 Singapore National AI Office	4126,2871
 Siphofaneni Sub-Regional Office	12970
@@ -2533,6 +2543,7 @@ UNFPA Head of Office	12962
 UNFPA Head of Office Margaret Thwala	13047
 UNFPA Monitoring and Evaluation Officer	12962
 UNICEF Child Protection Officer Patrick Halton	9765
+UNICEF Djibouti Country Office	13901
 UNICEF Eswatini Country Office	12330
 UNICEF Eswatini Education Specialist and Education Officer	13204
 UNICEF Ethiopia. Country Office Annual Report	12188
@@ -2612,7 +2623,7 @@ Woodmead North Office Park	12046
 Workshop United Nations Office for Digital and Emerging	9942
 World Bank Country Office	13312,2
 World Bank Document FOR OFFICIAL USE	11380
-World Bank FOR OFFICIAL USE	13722
+World Bank FOR OFFICIAL USE	13722,114
 World Bank Group FOR OFFICIAL USE	969,10580
 World Bank Official Use Only Page	11417
 World Bank Safeguard Office. Review	12253

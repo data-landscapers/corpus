@@ -61,7 +61,7 @@ Affairs and Foreign Trade	7379
 Afghanistan. International Trade	12467
 Afreximbank Trade Finance and Trade Facilitation Program--to	10718
 Afreximbank's TradEX and Patiti	8537
-Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632
+Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
 Africa Digital Access and Public Infrastructure for Trade	6344,25,2052,614
 Africa Free Trade Area	961
@@ -79,7 +79,7 @@ Africa. Trade Finance Supply	10718
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -262,6 +262,9 @@ Develop Africa's Digital Trade Infrastructure	7522
 Develop Digital Trade Competitiveness In Selected	626
 Development Goal TAPED Trade Agreements Provisions	1243
 Differentiating Transformational Traditional	12214
+Digital Economy Transformation and Intra-Africa Trade	13899
+Digital Economy Transformation and Intra-Africa Trade Dec	13899
+Digital Economy and Trade Integration	13899
 Digital Services Trade Re-	13357
 Digital Services Trade Restrictiveness	11550
 Digital Trade	1031,212,3340,7,1144,144,593,168,400,25,78,368,12,1,496,279,300,437,387,116,619,398,165,415,5,1226,23,285,783
@@ -423,6 +426,8 @@ GOVERNMENT SUPPORT ON TRADE	5247
 GSS Head of Trade Statistics Section Tetteh	236
 GSS Trade Statistics Section Naa Amerley	236
 GUINEA-BISSAU DIGITAL TRADE REGULATORY INTEGRATION COUNTRY	11550
+Gender Sensitive Digital Trade URL	13936
+Gender-Sensitive Digital Trade	13936
 Ghana Champions Continental Digital Trade Corridor	6136
 Ghana Trade Fair Redevelopment	1041
 Ghana Trade Fair Redevelopment Project	1041
@@ -530,6 +535,7 @@ Interprete Traductor Embajada A2	4209
 Interprete Traductor Embajada A3	4209
 Intra-Africa Digital Trade	961
 Intra-Africa Trade	11221
+Intra-Africa Trade and Sustainable Development	13899
 Intra-African Trade	5765,1173,3780
 Intra-African Trade Fair	3440,2687
 Intra-African Trade Finance Overall	10718
@@ -619,6 +625,7 @@ Minister of Trade and Industry Hon. Alpha Ibrahim	8271
 Minister of Trade and Industry Parks Tau	4242
 Minister of Trade and Industry William Anyuon Kuol	3583
 Minister of Trade and Regional Integration	12177
+Minister of Trade and Tourism	13899
 Ministry of Commerce Industry and Trade	12349,744
 Ministry of Commerce Trade Statistical Bulletin	13479
 Ministry of Commerce Trade and Industry Zambia Trade	12454
@@ -873,7 +880,7 @@ Topics U.S. Trade and Development Agency	10351
 Tourism and Trade	9781
 Trada-Digilink	8029
 Tradability Index	5247
-Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126,75,26,22,3,12,113,7,154,19,5,76,28,38,60,168,57,104,172,24,1,2,1,10,30,30,1,4,66,133,1,45,28,93,20,5,4,1,20,13,56,42,52,35,23,104,23,171,27,34,16,62,8,10,1,19,51,33,14,150,37,25,3,18,160,142,39
+Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126,75,26,22,3,12,113,7,154,19,5,76,28,38,60,168,57,104,172,24,1,2,1,10,30,30,1,4,66,133,1,45,28,93,20,5,4,1,20,13,56,42,52,35,23,104,23,171,27,34,16,62,8,10,1,19,51,33,14,150,37,25,3,18,160,142,39,155
 Trade Act	12629
 Trade Agreement	13042
 Trade Agreement AI Artificial Intelligence APEC	1243
@@ -1041,7 +1048,7 @@ Trade and Development UN	13042
 Trade and Development UNCTAD	12544,498,340
 Trade and Development UNDESA United Nations Department	10759,78,1052,451
 Trade and Development UNDG United Nations Development	1243
-Trade and Development UNDP United Nations Development	1264,5682,602
+Trade and Development UNDP United Nations Development	1264,5682,602,6313
 Trade and Development UNECA United Nations Economic	10841
 Trade and Development UNESCO United Nations Educational	2775
 Trade and Development VAR Vector Auto-Regression VAT	236

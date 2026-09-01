@@ -20,6 +20,7 @@ CLIQUEZ ICI POUR SUIVRE	10291
 CNSMO Comité National de Suivi de Mise	11944
 COL. SUIVANTE	13300
 COLONNE SUIVANTE	13300
+COMMUNIQUÉ Suite	13863
 CREDIT SUISSE AG	1829
 CREDIT SUISSE INTERNATIONAL	1829
 CREDIT SUISSE SECURITIES	1829
@@ -51,7 +52,7 @@ DDC Suisse	2966
 DE LA PLANIFICATION ET DU SUIVI-ÉVALUATION	10876
 DE SUIVI EVALUATION	10965
 DES OBJECTIFS STRATÉGIQUES SUIVI	2342
-DONT LA TENEUR SUIT	4420
+DONT LA TENEUR SUIT	4420,9409,23,25
 DONT LA TENEUR SUIT VU	4420
 Dental Suite Ltd Data Controller INST-16572535FFF	7167
 Description Suit	10876
@@ -86,7 +87,7 @@ JOUR SUIVANT	13300
 Je Suis Citoyen Béninois	6217
 L'AVANT- SUIVANTE	13300
 LA COLONNE SUIVANTE DE CE QUESTIONNAIRE	13300
-LA LOI DONT LA TENEUR SUIT	4420,147
+LA LOI DONT LA TENEUR SUIT	4420,147,9285
 LA SUITE APRÈS LA PUBLICITÉ	5303
 LA SUITE APRÈS LA PUBLICITÉ Autres	2763
 LA SUITE APRÈS LA PUBLICITÉ Ladite	1588
@@ -164,7 +165,7 @@ Suid-Afrikaanse Poskantoor MIS Bpk	11199
 Suid-Afrikaanse Reserwebank	11190
 Suid-Afrikaanse Statistiese Gehaltebeoordelings	11201
 Suid-Afrikaanse Vervoerdienste	11551
-Suisse	643,355,1968,499,1947,1201,509,2,159,4246,1796,270
+Suisse	643,355,1968,499,1947,1201,509,2,159,4246,1796,270,269
 Suisse. Au	8237,1050,55
 Suisse. C'est	3465
 Suisse. Il	3465
@@ -196,7 +197,7 @@ SuiveursSuivre	1876
 Suivez	1588,2792,671,2977,5661
 Suivez-nous	8718,1573,3062,21
 Suivez-vous	9993
-Suivi	1214,224,904,624,2030,139,495,516,4547,19,164,89,10,1068,1247,100,43,315
+Suivi	1214,224,904,624,2030,139,495,516,4547,19,164,89,10,1068,1247,100,43,315,95
 Suivi Agricole PIB	13377
 Suivi CTGP Comité Technique de Gestion de Programme	10712
 Suivi CVDS Cycle de Vie du Développement du Système	13341
@@ -207,6 +208,7 @@ Suivi Financières	10975
 Suivi Régulatoire	10975
 Suivi Suivi	10708
 Suivi des Actions Gouvernementales	2951
+Suivi des Elèves	13860
 Suivi des Engagements Contractuels Dans	10975
 Suivi des FinTech	10237
 Suivi des Résolutions du Conseil	10975
@@ -223,6 +225,7 @@ Suiza BERSET BIRCHER	6613
 Système Intégré de Suivi-Evaluation	8237
 Système de Suivi	13783
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
+TENEUR SUIT	13828,18
 Tableaux de Bord de Suivi des Indicateurs	10712
 Technique de Suivi Le Comité Technique de Suivi	13341
 Thales Evidence and Investigation Suite	3296

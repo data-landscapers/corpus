@@ -49,10 +49,11 @@ COMPONENT OASIS Secure XML Encoding for OASIS	12360
 COMPONENTES COM ACTIVIDADES QUE POSSAM GERAR	11542
 COMPONENTES DO PROJECTO	11542
 COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
-COMPONENTS	11965
+COMPONENTS	11965,1945
+COMPONENTS Component	13859,57,1
 COMPONENTS Current Component Name Current Cost	1284
 COMPONENTS DEFINED SN Type	7845
-COMPONENTS Name	13027
+COMPONENTS Name	13027,893
 COMPONENTS Name Building	12228,39
 COMPONENTS Name Component	2712,3867,349,4467,576,469
 COMPONENTS Name Economic Shock Responsive Cash	11988
@@ -93,7 +94,7 @@ Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Comoros. Components	13793
 Componenente	11542
-Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56
+Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5
 Component B	5370,8284,77
 Component Beneficiary Profile	10964
 Component C	13654,77
@@ -125,14 +126,14 @@ Componente de Gestao da Receita	574
 Componente de Resposta de Emergência	11406
 Componente de Resposta de Emergência Contingente	11440,1,101
 Componentes	10777,629,7,3,44,109
-Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264
+Components	236,191,334,503,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,327,1123,785,1700,196,169,242,42,168,205,70,9,55,41,210,20,25,136,3,53,312,108,64,66,65,283,21,47,7,7,131,264,74
 Components Adaptive Safety Nets Youth Economic	10963
 Components Amounts	11924
 Components Baseline Closing Period Strengthening	11417
 Components Baseline Period	1264,603,1737,7164
 Components Building	12228,39
 Components COMPONENT	10768
-Components Component	2712,1941,1926,349,4467,22,1023
+Components Component	2712,1941,1926,349,4467,22,1023,1410
 Components Component Name Cost	1867,8901,757,1806,1
 Components Consumer Services Distribution	4972
 Components Consumer Services Food	4972
@@ -195,7 +196,7 @@ Composite Drought Index	12931,46
 Composite Drought Index-Eswatini	12977
 Composite Score	2957
 Composite Video	34
-Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30
+Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522
 Composition Comité de Pilotage des Projets TIC	13290
 Composition Comités Directeurs Interministériels	13290
 Composition Commission Nationale	13290
@@ -233,7 +234,7 @@ Congo Component African Development Bank	117
 Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002
-Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9,97,19,61
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -407,6 +408,7 @@ Prevalência de Comportamentos Controladores	10777
 Program. Component	13392
 Programs’ Components	10775
 Project Beneficiaries Component Beneficiary Profile	10964
+Project Beneficiaries D. Project Components III	13856
 Project Components	1988,4551,5324,28,497,1355
 Project Components Activities	1988
 Project Components IDA GFF Total Component	10829
@@ -418,6 +420,7 @@ Project Financing Allocation Components IDA Financing	3604
 Project Location Component	1778
 Project Management Contingent Emergency Response Component	11417
 Project Management. Component	13392
+Project Objectives and Components	13850
 Project for Component	11855
 Projecto WARDIP Guiné-Bissau Componente	11542
 Proposed Component Name Component	4653

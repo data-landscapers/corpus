@@ -92,7 +92,8 @@ Austria Global Cybersecurity Index	10764
 Authority. Cybersecurity	587
 Authority. Cybersecurity Risk Register	587
 Authorization for Cybersecurity Product and Service	7538
-Autorité Nationale de Cybersécurité	4255,2894
+Autorité Nationale de Cybersécurité	4255,2894,6737,5
+Autorité Nationale de Cybersécurité. Dans	13886
 Autorité Nationale de Cybersécurité. L'ANC	7149
 Avatar of Cybercash-100	12478
 Awareness Campaigns Month Reach Implement Cybersecurity	1777
@@ -368,7 +369,7 @@ Cybastion's Digital Fast Track	5843,88
 Cybastion's Digital Solutions	3786
 Cybastion's Oct	2157
 Cybastion. Il	10258
-Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189
+Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189,161
 Cyber Accelerated Maturity Program	6936
 Cyber Africa Forum	2451,645,9,1,6,45,18,22,2,15,8,77,215,12,841,2690,21,3303,310
 Cyber Africa Forum By Faith Omoniyi	3112
@@ -542,7 +543,7 @@ Cyber Security and Digital Forensics	12926
 Cyber Security and Monitoring Centre	972
 Cyber Security and Other ICT Legislative Initiatives	13295
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843,499,140,612,5,41,253,134,111,388,35
 Cyber Security and Personal Data Protection AfCFTA	12055,1402
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
@@ -699,11 +700,11 @@ Cyberphysicalism	11715
 Cyberport de Hong Kong	6568
 Cybersecurit	6432
 Cybersecurite	10494
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101,43,1,6,4,21,48,4,4,4,92,183,3,6,14,76,1,37,17,29,293,44,19,221,26,3,20,20,26,22,39,24,99,40,4,26,1,154,49,108,122,252,45,1,1,8,1,71,27,126,89,36,15,10,25,151,19,24,1,26,47,16,215,22,18
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108,1838,18,330,996
 Cybersecurity Advisory Board	1000
 Cybersecurity Advocacy	10721
-Cybersecurity Agency	12232,442
+Cybersecurity Agency	12232,442,1166,80
 Cybersecurity Agency and Data Protection Office	3372,29,1134
 Cybersecurity Agenda	6946
 Cybersecurity Ambassador for Liberia	1777
@@ -723,6 +724,7 @@ Cybersecurity Bootcamp	6946
 Cybersecurity Bootcamp Competition	6946
 Cybersecurity CCB-CTA.S3	10721
 Cybersecurity Capability Index	10721
+Cybersecurity Capacity Building Expert	13880
 Cybersecurity Capacity Centre for Southern Africa	1200
 Cybersecurity Capacity Maturity Model for Nations	1200,11474
 Cybersecurity Capacity Review	1200
@@ -1177,6 +1179,7 @@ Fintech and Cybersecurity Growth	4897
 First National Cyber Drill	12625
 Five Cybersecurity	12971
 Forensics and Cybercrime Department	13581
+Founder Cybersan	13842
 Framework Cyber and Data Protection Act Ministry	4528
 Framework NIST Cybersecurity	12043
 France Global Cybersecurity Index	10764
@@ -1360,7 +1363,7 @@ Keto Kayemba and Eng. Cyrus Titus Aomu	3700
 Key Cybercriminal Threats	6426
 Key Entry Point for Cyber Risk	9815
 Kyrgyzstan Global Cybersecurity Index	10764
-L'Autorité Nationale de Cybersécurité	7149
+L'Autorité Nationale de Cybersécurité	7149,6770
 L'UNION AFRICAINE SUR LA CYBER SECURITE	234
 LA CYBERSECURITE ET LA PROTECTION DES	4867,8503
 LPG Cylinder Installation Standards	12998
@@ -1466,7 +1469,7 @@ NIST Cybersecurity Framework	1686,1130,2957,650,5529
 NIST Cybersecurity Framework and Australia’s Essential Eight	6936
 NIYUBAHWE Cynthia	13390
 NPF National Cybercrime Center	8662
-NRD Cyber Security	2298,948
+NRD Cyber Security	2298,948,10634
 Nam-X Cybersecurity	12391
 Named Cybastion	7344
 Namibia Boosts Cybersecurity Capacity Through NIPAM	6557
@@ -1752,6 +1755,7 @@ SADC Regional Cyber Drill	318
 SCHEDULE Cyber Security	2727
 SCHEDULES FIRST SCHEDULE Cybersecurity Services SECOND	587
 STRATÉGIE NATIONALE DE CYBERSÉCURITÉ	7439
+Safer Digital Future Through Regional Cyber	13880
 Saint Lucia Global Cybersecurity Index	10764
 Samoa Global Cybersecurity Index	10764
 Sanction Screening and Cyber Security	12364

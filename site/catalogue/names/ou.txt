@@ -173,6 +173,7 @@ COMPTEZ LE NOMBRE DE FRÈRES OU	13300
 CONDITIONS D’OCTROI DE L’AGREMENT OU	11522
 CONSOLIDATED INDICATORS Institution Output	11986
 CONSULAR OUTSOURCING SERVICES KENYA LIMITED Data	7167
+COUNTRY CONTEXT AND OUTLOOK	13885
 COUTE. PAS. PRES. PAS OU PAS	13300
 COVID-19 Dampens Kenya’s Economic Outlook	10822
 CPF Outcomes and Indicators CPF Outcome CPF	11469
@@ -312,6 +313,7 @@ Domestic Economic Growth and Medium-Term Outlook Economic	13123
 Domestic Economic Outlook	13685
 Dominique Ouédraogo Lefaso.net	7353
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
+Données Ouvertes	13841
 Don’t Miss Out	3796,1205
 Dr. Ould Tah	5202
 Dr. Ouma Oluga	4165,8149
@@ -349,6 +351,7 @@ East African Artificial Intelligence Policy Outlook	8334
 Ebola Outbreak Comorian Officers Join FBI	13754
 Ebola Outbreak Worldwide Caution	13754
 Ebola Outbreak. Summit	12640
+Economic Context and Outlook	13885
 Economic Outlook	2775,4171
 Economic Outlook Kenya	2775
 Economic Outlook Overall	11134
@@ -391,6 +394,7 @@ Expected Outcome KPI Baseline Midterm Target	7548
 Expected Outcome KPIs Time Estimated Funding	7548
 Expected Outcome Key Performance Indicators Timeframe	7548
 Expected Outcomes	4301,7565,189
+Expected Outcomes Participants	13936
 Expected Outcomes and Results	2958
 Expected Outcomes of Interoperability	13308
 Expected Outcomes of Interoperability The Standard	13308
@@ -668,6 +672,7 @@ L'UNION MONÉTAIRE OUEST AFRICAINE Le Gouverneur	10836
 L'atelier de Ouahigouya	3668
 LA MAINTENANCE DE CERTAINS OUVRAGES	13467
 LA MAISON OU PAS D'ENQUÊTÉ COMPÉTENT	13300
+LA MINISTRE Mme Ouloufa Ismail Abdo	13912
 LA PIÈCE OU A ESSAYÉ D'INTERVENIR	13300
 LA TÊTE OU LES OREILLES	13300
 LABORÉ PARQUET OU BOIS CIRÉ	13300
@@ -834,6 +839,7 @@ Mpox Outbreak Response	10776
 Mr. Djibril Ouattara	7072
 Mr. Ouattara	5605
 Ms Out-	13341
+Ms. Ouloufa Ismail Abdo	13911
 Muriel Dominique Ouédraogo Lefaso.net	5707
 Mwanza and Mangochi. Outreach	13095
 MÉNAGES OU PLUS	13300
@@ -1263,6 +1269,7 @@ Oukaimeden	1735
 Ould El Hassan	10172
 Ould Ghazouani. Il	8105
 Ould Merzoug and Digital Transformation Minister Ahmed	7190
+Ouloufa Ismail Abdo	13929
 Oulre	10813
 Oum Er-Rbia	8891
 Oumar Bady Diallo Pour Africaguinee.com Créé	8566
@@ -1306,6 +1313,9 @@ Ousmane Diagana Regional Practice Director	3604
 Ousmane Diagana. Regional Practice Director	11965
 Ousmane Diallo Nacanabo	1950
 Ousmane Dione	7584
+Ousmane Dione Country Director	13861
+Ousmane Dione Regional Director	13856
+Ousmane Dione. Regional Director	13860,37
 Ousmane Fall. Assis	11745
 Ousmane Gaoual Diallo	7978,1349
 Ousmane KOUTOU Raissa ZOUNGRANA Koudjari PISSIGA	10875
@@ -1358,7 +1368,7 @@ Out-of-School	11860
 Out-of-School Children	11860
 Out-of-Scope Assumptions	6423
 Out-of-date	13314
-Out-of-school	13681
+Out-of-school	13681,179
 Out-of-scope	11017
 Out-patients	12242
 Outage Management System	12399
@@ -1386,7 +1396,7 @@ Outbreak Response	4153,14,35,15,43,41,48,1003
 Outbreak Response Funding	4153,14,35,15,43,1092
 Outbreak. Summit	12640
 Outbreaks	21,5204,5972
-Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2
+Outcome	1129,26,1554,1071,1753,1299,619,1677,1593,160,312,44,158,73,1,116,331,8,62,189,183,95,248,103,132,159,250,2,479,35
 Outcome Area	11905
 Outcome Areas	11905
 Outcome Baseline Targets Description of Target Data	13005
@@ -1556,7 +1566,7 @@ Outras Fontes Nacionais	1339,1,1,1,739,2,1,2327,2,1
 Outras Notícias Na EPC de Djuba	12148
 Outras Obrigações de Acesso	11430
 Outras Responsabilidades	11430
-Outre	12,723,263,233,35,413,582,51,139,460,55,172,208,50,373,566,67,911,11,88,700,1522,599,83,575,466,734,620,1,114,17,32,90,1,9,164,475,1678,1,41,56,77,1,251
+Outre	12,723,263,233,35,413,582,51,139,460,55,172,208,50,373,566,67,911,11,88,700,1522,599,83,575,466,734,620,1,114,17,32,90,1,9,164,475,1678,1,41,56,77,1,251,110,5
 Outre-mer	13260
 Outreach	1284,2320,2989,1232,3139,39,1,13,116,722,109,22,8,1011,326
 Outreach AI Literacy AI	12356
@@ -1620,7 +1630,7 @@ Outward Telegraphic Transfers	13408
 Ouvert	1984,2760,1007,4895
 Ouverte	8524
 Ouverts	3083
-Ouverture	747,1,439,60,1095,815,33,206,5129,366,1034,786,106,59,99,2349,17,34,149,165
+Ouverture	747,1,439,60,1095,815,33,206,5129,366,1034,786,106,59,99,2349,17,34,149,165,152
 Ouverture de QGIS	13375
 Ouverture des Appels	2975
 Ouverture des COE Ouverture	10876
@@ -1664,6 +1674,7 @@ PAS ENCEINTE ENCEINTE OU PAS SÛRE	13300
 PDO Indicators Key Outputs	11924
 PDO Outcome	11924
 PDO Outcomes	4653,35,3189,4351,39,791
+PDO Outcomes Assist Djibouti	13920
 PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164
 PDO Outcomes Expand	11988
@@ -1731,6 +1742,7 @@ Point Outcome Document	11285
 Policy Outcomes	12964
 Policy Outputs	12932
 Polio Outbreak	10776
+Political Context and Outlook	13885
 Politique Oui Ruvubu	13433
 Polytechnique de Ouagadougou. Il	10642
 Population Outside Labour Force	12600
@@ -1807,6 +1819,7 @@ ROAMING TRAFFIC Out-bound Out-bound Roaming Voice	2776
 ROI Regulatory Outcome Index RSI Regulatory	12256
 ROLL OUT EIB Global	255
 RSI. Outro	11376
+Rabah Ounissi ABBREVIATIONS AND ACRONYMS ANSIE	13861
 Rapports ATAB Outil de Mesure	13325
 Ratings Ratings Outcome Bank Performance Relevance	10779
 Recent Economic Developments and Outlook	11136
@@ -1949,6 +1962,7 @@ Summary and Outlook International Scene	2775
 Summer Outlook	11992
 Supply Risks Cloud the Outlook	4769,394,334,86
 Support Strong Growth Outcomes	13624
+Surveillance and Outbreaks	13870
 Synthèse de Armelle Ouédraogo Lefaso.net	9048
 System Outlook	11228
 Sécurité Sociale M. Dahoud Ouedraogo Direction	10812

@@ -40,6 +40,7 @@ Citizen Dar	3366,1348,402,269,126,272,239,8,547,239,111,99,334
 Commissioner General Yankuba Darboe	3236
 Committee Member Professor Dr. Ashraf Darwish	2958
 Conferência de Dartmouth	2816
+Current DARE1 Network Map DARE1	13869
 DAILY NEWS Reporter DAR ES	10460
 DAR AL FOUAD HOSPITAL LIMITED Data	7167
 DAR ES SALAAM	5925,1503,848,612,126,764,321,278
@@ -57,7 +58,10 @@ DARE Index Score. Peer Economic Development	11935
 DARE Index. Definitions	11935
 DARE Regional Submarine Cable Project Islamic	382
 DARE-1	382
-DARE1	3521,1,1,10,26,1156,1889
+DARE1	3521,1,1,10,26,1156,1889,7260,5
+DARE1 Route Extension Announced	13869
+DARE1 Southward Extension Building	13869
+DARE1 Subsea Cable Extension Announced	13869
 DARES	9635,1834
 DARIKA NURSING HOME LIMITED Data Processor	7167
 DARMT	13033
@@ -70,7 +74,7 @@ Dar Al-Handasah Consultants	5407,676
 Dar Blend	3583
 Dar Bouazza	8891
 Dar Chaabane El Fehri	9022
-Dar Es Salaam	12784,608
+Dar Es Salaam	12784,608,483
 Dar I GDwritIirGa	1154
 Dar Ko	12478
 Dar Petroleum Operating Company	3583
@@ -204,6 +208,7 @@ North Darfur	6947
 Oman and Kenya. The Daraja	3839
 Ousainu Darboe	10062
 Progress DARE Index Score Summary	11935
+Proposed DARE1 Extension Map Planned DARE1	13869
 Providers CA Communications Authority of Kenya Dare	6671
 RSS Dark Mode	2279,440,686,2536
 RSS Dark Mode A GSMA	3463

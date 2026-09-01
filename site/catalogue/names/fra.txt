@@ -8,6 +8,7 @@ ACE. Framed	5145
 ACRONYMS BPC CAA Agence Française	10964
 ADILSON FRANCISCO GUIMARÃES	10751
 ADOPTION OF THE FRAMEWORK A Member	961
+AF Additional Financing AFD Agence Française	13836
 AFD Agence Française de Développement	11380
 AFD Agence Française de Développement AMR Avis	10712
 AFD France	13260
@@ -96,7 +97,7 @@ African Development Bank Senior Fragility and Resilience	10644
 African Financial Stability Framework Index	6938
 African Internet Governance Framework	9858
 African Reference Financial Stability Framework	6938
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524,197
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -269,6 +270,8 @@ CPF Country Partnership Framework CPIA Country	969
 CPF Country Partnership Framework CPS Country	11380
 CPF Country Partnership Framework CSF Climate	11549
 CPF Country Partnership Framework DA Designated	1867,9658
+CPF Country Partnership Framework EIRR Economic	13836
+CPS Country Partnership Framework	13861
 CRAN’s National Trust Framework	12865
 CRI Country Partnership Framework CVE Country	11855
 CRM Framework	12500
@@ -404,6 +407,7 @@ Country Partnership Framework for Burundi	13331
 Country Partnership Framework for Nigeria	11486
 Country Partnership Framework for Togo	2026
 Country Programme Results and Resources Framework	13095
+Country Strategic Framework	13885
 Crime Avenue de France	4127
 Critical and Alternative Perspectives Framing	7966
 Croatia Yes National Framework Programme	11529
@@ -554,6 +558,8 @@ Digitalization RF Resettlement Framework RNPP National	3604
 Director General of Artificial Intelligence Systems. Framed	3496
 Direitos Humanos Francisco Queiroz	10751
 Disabilities The Framework	11193
+Djibouti Franc	13861
+Djibouti Franc SDR	13836
 Document Fraud Related	11864
 Does Better Information Curb Customs Fraud	12948
 Domingos Juliasse Viola Manica Francisca Domingos	12201
@@ -692,7 +698,7 @@ Expenditure Framework MTSF Medium Term Strategic	11224
 Expenditure Framework N	11261
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Expenditure Framework NDP National Development Plan	1988
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73,73
 Expertise France Comores	3772
 Expertise France and CMM Oxford	1000
 Expertise France and ESTDEV	9265
@@ -957,7 +963,7 @@ Franc Burundais	13524
 Franc CFA	2342,2344
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2,16,44
 France Connect	7981
 France Câbles Radio	7421
 France Embassy	12972
@@ -980,6 +986,7 @@ France and Cameroon	2366
 France and China	6001
 France and Croatia	13005
 France and Estonia	5328,3218,5105
+France and Finland	13883
 France and Germany	6369
 France and India	3394,3644
 France and Italy	4617
@@ -1000,6 +1007,7 @@ France's National Health Platform. Framed	6001
 France's Scaleway	6879
 France's Trois Océans	13260
 France- and Russia-targeting	1008
+France-Djibouti Business Group	13887
 France-Maroc	11742
 France-based	3874
 France-co-hosted Africa Forward	8598
@@ -1131,7 +1139,7 @@ Francophone West African	9291
 Francophone West and Central Africa	6580
 Francophone and Anglophone	10801
 Francophone. Francophone North Africa	12339
-Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14
+Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14,90,16
 Francophonie Avant	7122
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Francophonie SDG Sustainable Development Goal SOP	13681
@@ -1306,6 +1314,7 @@ General Education Framework	12384
 General Information Systems Security Reference Framework	10911
 General Leopoldino Fragoso	2543
 Geopolitical Fragmentation and Loss of Consensus NGFS	13532
+Germany and France	13879
 Germany and France. Report	9739
 Germany's StackIT and France's OVHcloud	5846
 Ghana. Agence France-Presse	8479
@@ -1361,6 +1370,7 @@ Guiding Legal Framework Overview of Namibia’s Social	12373
 Guinea Bissau Franc	11525
 H.E. Daniel Francisco Chapo	8754
 H.E. Francine Inarukundo	13457
+H.E. Francisca Tatchouop Belobe	13899
 H.E. Mr. Daniel Francisco Chapo	2667
 HAROPA PORT of France	7722
 HEALTH NORMATIVE STANDARDS FRAMEWORK FOR DIGITAL	1009
@@ -2010,6 +2020,8 @@ Platform Assessment Framework	5700
 Policies and Legal Framework	6432
 Policies and Regulatory Frameworks for ICT Growth	13295
 Policy Development Framework	11986
+Policy FRAMEWORK	13845
+Policy FRAMEWORK Representatives	13845
 Policy Framework	961,282,5277,1028,2179,1466,31,636,390,262,458,358
 Policy Framework Act Empowerment STEE Social	11193
 Policy Framework Act SAMEA South African	11224
@@ -2113,6 +2125,7 @@ RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 RESULTS FRAMEWORK	2889,8974
 RESULTS FRAMEWORK AND KEY OUTPUTS	11924
 RESULTS FRAMEWORK AND MONITORING	11417
+RESULTS FRAMEWORK ANNEX	13856
 RESULTS FRAMEWORK FOR NATIONAL STRATEGY	12939
 RESULTS FRAMEWORK MATRIX	11905
 RESULTS FRAMEWORK Project Development Objective	11965
@@ -2136,6 +2149,7 @@ Refugee Policy Review Framework Country Summary	10841,1386
 Refugee Policy Review Framework. Country Summary	11905
 Regional AI Governance Framework	4738
 Regional Cooperative Oversight Framework	11807,141
+Regional Fragility and Resilience Coordinator	13885
 Regional Fragmentation	6051
 Regional Framework	11400
 Regional Framework for Trusted Cross Border Data	8426
@@ -2153,7 +2167,7 @@ Regulatory Framework Pillar	12389
 Regulatory Framework and Policy Development	5245
 Regulatory Framework and Standards	4528
 Regulatory Framework for Open Banking	11138
-Regulatory Frameworks	11265
+Regulatory Frameworks	11265,2634
 Regulatory Payment Framework	13052
 Regulatory and Legal Frameworks	10841
 Regulatory and Legal Frameworks Equatorial Guinea Equatorial	10841
@@ -2173,8 +2187,9 @@ Reshaping the Modern SOC Risk Management Framework	3279
 Resilience and Fragility Assessment CSO Civil Society	11863
 Resolution Framework	11134
 Response Framework	13474
+Result Framework	13897
 Results Based Logical Framework	13005
-Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14
+Results Framework	1284,1007,598,715,7225,134,1,453,438,8,42,19,41,43,348,558,66,351,1,46,14,439
 Results Framework Adjustments	4653
 Results Framework COUNTRY	10829
 Results Framework Intended Outcome	13095

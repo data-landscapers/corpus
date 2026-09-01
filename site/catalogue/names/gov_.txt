@@ -11,7 +11,8 @@ Gov Directorate	12384
 Gov Division	4566
 Gov Enterprise Architecture I-2	10785
 Gov Entity for PS Innovation I-47	10785
-Gov Foundation	13513
+Gov Foundation	13513,341
+Gov Foundation Key	13854
 Gov GPT	3465
 Gov Info	10992
 Gov Interoperability Framework I-3	10785

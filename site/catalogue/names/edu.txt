@@ -457,6 +457,7 @@ EDUCATION SECTOR The Ministry of Education	13310
 EDUCATION SOCIAL PROTECTION	10837,1503
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
 EDUCATION STATISTICAL YEARBOOK SCHOOL YEAR ENDED	12411
+EDUCATION TRUST FUND	13860
 EDUCATIONAL PLATFORMS Issued	6748
 EDUCATIONAL TESTING	12975
 EDUCATIVA	4209
@@ -556,7 +557,7 @@ Educated	4301,4159,3754
 Educatel	10121
 Educati	13368
 Educating	958,3774,7443,1183
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21,64,2,3,6,1,3,4,5,2,3,1,1,1,1,1,6,5,5,2,9,2,6,1,2,8,9,12,14,1,23,4,10,49,27,67,1,1,1,5,1,3,12,17,13,5,4,13,26,5,70,1,4,3,1,3,1,4,1,5,1,1,2,1,27,16,4,6,1,1,20,8,5,1,42,1,13,3,8,88,42,19,13,1,79,137,5,7,4,7,3,5,1,3,8,1,15,6,7,1,8,3,2,1,16,11,26,6,16,40,21,9,7,74,86,5,5,10,4,27,5,3,15,4,17,5,11,17,36,16,4,3,43,42,13,1,57,13,29,6,4,25,18,4,1,41,16,70
 Education A Mixed School Bag	5606
 Education Above All	899
 Education Act	3583,8324,1068,312,23,61,20
@@ -669,7 +670,7 @@ Education Loans	2775
 Education MDAs Ministries	6539
 Education Management	13310
 Education Management Information	11860
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41
 Education Management Information System ERP Enterprise	12917
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
@@ -693,7 +694,7 @@ Education Ministry	8896,753,874,1172
 Education Ministry Advances Digital School Permit	9649
 Education Ministry Rolls Out KEMIS	12312
 Education Mutani Tambala	13130
-Education Nationale	3045,351,5495,2022,684,347,1385,2,10,23,210
+Education Nationale	3045,351,5495,2022,684,347,1385,2,10,23,210,278,39
 Education Nationale OEF Observatoire	12
 Education Ne	582
 Education Network	11552
@@ -1151,6 +1152,7 @@ Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,
 Global Partnership for Education Fund IDA Resources	11905
 Global Partnership for Education GPI	12175
 Global Partnership for Education System Capacity Grant	13204
+Global Partnership of Education	13860
 Global Smart Education Conference	10295,729
 Global Smart Education Conference. Coorganisée	11673
 Google AI Education	12675
@@ -1502,8 +1504,9 @@ Ministers of Education	13310
 Ministers of Education and Training	13310
 Ministers of Labour and Education	11179
 Ministra da Educação	11402
-Ministries of Education	21,703,1223,1657,2198,285,1204,4569,110,1340
+Ministries of Education	21,703,1223,1657,2198,285,1204,4569,110,1340,591
 Ministries of Education and ICT	502,397,12076
+Ministries of Education and Labor	13931
 Ministries of Education and Training	12950,360
 Ministries of Education and ZIMSTAT	13310
 Ministries of Finance and Education	3088
@@ -1517,7 +1520,7 @@ Ministry of Basic Education Sport and Culture	12325
 Ministry of Basic and Secondary Education	1000,5048,6186,1080
 Ministry of Basic and Senior Secondary Education	953,3666
 Ministry of Child Welfare and Basic Education	1664,977,2996,1926,5007,28
-Ministry of Education	288,409,73,90,39,262,3,24,6,35,13,468,108,49,53,27,40,1,748,222,566,48,106,148,123,177,428,482,208,51,507,737,397,308,123,65,60,56,147,146,165,833,810,398,312,106,210,73,20,7,1,65,200,376,108,11,24,63,237,13,27,16,54,67,101,37,21,49,67,13,4,9,7,11,12,5,26,12,35,215,39,29,192,20,29,2,5,16,17,38,45,2,28,7,13,66,8,12,18,63,4,17,1,23,23,14,67,18,55,39,58,7,26,19
+Ministry of Education	288,409,73,90,39,262,3,24,6,35,13,468,108,49,53,27,40,1,748,222,566,48,106,148,123,177,428,482,208,51,507,737,397,308,123,65,60,56,147,146,165,833,810,398,312,106,210,73,20,7,1,65,200,376,108,11,24,63,237,13,27,16,54,67,101,37,21,49,67,13,4,9,7,11,12,5,26,12,35,215,39,29,192,20,29,2,5,16,17,38,45,2,28,7,13,66,8,12,18,63,4,17,1,23,23,14,67,18,55,39,58,7,26,19,220,34
 Ministry of Education A Teachers Resource Centre	13046
 Ministry of Education Arts and Culture	12923
 Ministry of Education B Agricultural Centre Hall	13046
@@ -1584,6 +1587,7 @@ Ministry of National Education and Literacy	210
 Ministry of National Education and New Citizenship	11918
 Ministry of National Education and Scientific Research	13331,18
 Ministry of National Education and UNICEF Comores	2960
+Ministry of National Education and Vocational Training	13935
 Ministry of National and Higher Education	10826
 Ministry of Pre-school and Primary Education	10831
 Ministry of Primary Education	11924

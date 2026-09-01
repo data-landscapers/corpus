@@ -1,5 +1,7 @@
 ABC Daily Newspaper Circulation Q3	13461
 ACCESS Newswire	9735
+ADI News	13942
+ADI News URL	13942
 AI Institute of South Africa. UJ Newsroom	6832
 AI-generated ZA News Publishers	13462
 AIT News	11690
@@ -77,6 +79,7 @@ Camunda News	5211
 Canada. Old News	13461
 Cape Business News	10243
 Capital News	10025,797
+Capital Newspaper URL	13878
 Capitalethiopia News In Brief	10025
 Categories News	9936
 Central News	10394
@@ -130,6 +133,8 @@ Digital News	5090
 Digital News Transformation	13461,1
 Digital News Transformation Fund	13461
 Digital News Transformation Google Search	13461
+Directorate-General for International Partnerships News	13883
+Djibouti News Agency	13895
 Donations and Education Support TechAfrica News	6320
 Download the UN News	9786
 Drive Nationwide Digital Transformation TechAfrica News	3593
@@ -263,6 +268,7 @@ JOIN OUR TECHTRENDS NEWSLETTER	6385
 Joel R. McConvey Categories Biometrics News	2873
 Join The Punch Newspapers Channel	5800
 Join The Punch Newspapers Channel Stay	9669,84
+Joint Research Centre News	13867
 Joy Odor Reportcircle News	11097
 JoyNews' Newsfile	6406
 K. A. Finances News Hebdo	8993
@@ -284,7 +290,7 @@ Latest Biometrics News	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32
 Latest Biometrics News Foundational ID	9801,26
 Latest Biometrics News OfDIA	10293
 Latest Eswatini Parliament News Piggs Peak	12989
-Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352
+Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,352,1473
 Latest News Inside Politics	9940
 Latest News Latest	12454
 Latest News News	12322

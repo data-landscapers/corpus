@@ -179,7 +179,7 @@ Analogue Digital Back Haul	736
 Analogue Terrestrial Television	236
 Analysability	5665
 Analysant	4383
-Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150,115
+Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150,115,142
 Analyse CAPEX	12043
 Analyse Economique	10975
 Analyse FFOM Calendrier	13341
@@ -465,6 +465,7 @@ Correlation Analysis	13624
 Cost Benefit Analysis- Summary Results Effect	11924
 Cost-Benefit Analysis	3604,2935,4229,61,1136
 Country Analyses And Plans	899
+Crop Conditions Monitoring and Analysis Utilise	13925
 Cross-Country Data Analysis	5349
 Current Analysis of Ecosystem Nodes	12512
 Cyber Incident Statistics and Comparative Analysis	9678
@@ -517,7 +518,7 @@ Data and Analytics	6832
 Data and Analytics Platform	10188
 DataReportal. Analysts	6156
 Database Managers and Analysts	11860
-Debt Sustainability Analysis	12956
+Debt Sustainability Analysis	12956,912
 Deep Learning for Sentiment Analysis	11265
 Deep Learning for Sentiment Analysis A Survey	11265
 Definition and Analytical Framework	7966
@@ -694,6 +695,7 @@ Impact Analysis Exercise	1554
 Impact The University of Eswatini Data Analytics	13077
 Implications and Impact Analysis	12935
 Improved Analytics and Reporting	13037
+In-Country Plan for Information Sharing and Analysis Centre	13880
 In-Depth Analysis Risk	4528
 In-Depth Analysis. Brussels	4676
 Independent Data Analyst	12478
@@ -872,6 +874,7 @@ Readiness Analysis DRC Democratic Republic of Congo	11545
 Reconstructed Cohort Analysis	12199
 Referral Analysis	9773
 Refugee Research. UNCHR Evaluation and Policy Analysis	12227
+Regional Information Sharing and Analysis Centre	13880
 Regulatory Impact Analysis	13320
 Regulatory Implications And Comparative Analysis Nigeria	6632
 Related Analysis	5366

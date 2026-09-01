@@ -152,7 +152,7 @@ Gest-exo	3674
 Gestao	574
 Gestao de Contas	570
 Gestao de Receitas	574
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319,1247,11,5,35,34,15,123,115,74,158,12,26
 Gestion Axée	10712,164
 Gestion Barrages	3396
 Gestion Bois	3396
@@ -198,7 +198,7 @@ Gestion du Foncier	10873,29
 Gestion du Fonds	1214
 Gestion du Fonds de Fonds	4567
 Gestion du Personnel	10975
-Gestion du Portefeuille	2342
+Gestion du Portefeuille	2342,11598
 Gestion du Réseau	10975
 Gestion du Réseau de Transport	10975
 Gestion du Réseau de Transport. Elle	10975

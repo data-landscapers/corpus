@@ -557,6 +557,7 @@ Application Re-application	2709
 Application Requirements	10407
 Application Requirements Applicants	9198
 Application Requirements Interested	9203
+Application Scenario of Urban Multi-hazard Early Warning	13943
 Application Security	10721
 Application Security Project PFS Perfect Forward	11952
 Application Security Specialist	12926
@@ -687,7 +688,7 @@ Apply AES-256	10721
 Apply AI	6477
 Apply AI Strategy	6487,392
 Apply Common But Differentiated Responsibilities	6960
-Apply Interested	9309,751,1254,13,20
+Apply Interested	9309,751,1254,13,20,2589
 Apply Online Apply Online Welcome	12495
 Apply Online Careers IDF-Application Contact AI	12495
 Apply Online Media News Events Gallery	12495
@@ -778,7 +779,7 @@ Appraisal Environmental and Social Review Summary	1260
 Appraisal Mission	11863
 Appraisal Report	11790
 Appraisal Rights	7198
-Appraisal Stage	1260,312,132,549,38,1165,7507,1449,420,955
+Appraisal Stage	1260,312,132,549,38,1165,7507,1449,420,955,50
 Appraisal Stage PID	12137
 Appraisal Stage. Date Prepared	761,13032
 Appraisal Summary	13459
@@ -833,6 +834,7 @@ Approaching Quantum Dawn	9698
 Approbation	2342,6549,1985,1096,1318,143
 Approbation du Marché	13524
 Approche	1187,2139,2460,1173,3915,2,89,1078,1263
+Approche Centrée	13841
 Approche DPI	12043
 Approche Open	1984
 Approche Open Data	747,1,1236
@@ -877,11 +879,11 @@ Appropriée	10876
 Approuve	10876
 Approuver	10876
 Approuvée	8891
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46,145,20,98,369,43,19,28,13,6,15,2,213,27,39,28,7,56,6,25,6,26,19,43,45,196,108,106,67,22,26,5,13,25,192,73,98,107,156,104,7,7,19,51,6,1,3
 Approval Approval Package	6579,349,949,3518,1632
 Approval Approved Approved	12364
 Approval Approved Installation	736
-Approval Date	4653,7312,255,454,1060
+Approval Date	4653,7312,255,454,1060,163
 Approval Date Investment Project IBRD	1284
 Approval Date Practice Area	1704
 Approval Date Social Risk Rating	3604
@@ -919,7 +921,7 @@ Approve GCT	6947
 Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Proposals	7198
-Approved	26,2,6,570,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136
+Approved	26,2,6,570,132,25,46,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73,134,462,34,14,19,41,6,15,2,240,28,11,92,60,21,284,47,8,53,145,50,31,79,322,147,136,91,7,19,38,13,6,1,3
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
 Approved BFI	11248
@@ -955,6 +957,7 @@ Approved Schools and Umphakatsi Child Justice Committees	12977
 Approved Supplier	13606
 Approved Suppliers	13606
 Approved Township	13189
+Approved US	13830,20
 Approved Written	306
 Approving	3714,7065,1215,973
 Approving Authority	11986
@@ -980,7 +983,7 @@ Appréciation	6959
 Apprécier	10876
 AppsTech	3808
 Appstore	6946
-Appui	357,286,196,130,112,166,34,3,22,106,47,190,281,2,3,68,1,4,3,19,18,26,268,24,330,179,85,15,200,221,208,111,38,263,291,15,1,19,302,73,418,395,283,1,19,224,408,140,222,279,177,372,852,49,1,996,1159,161,1,2,4,62,1,22,10,10,106,60,520,226,8,11,8,20,99,1217,30,35,52,13,43,9,10,61,39,3,10,2,18,50,8,29,5,94,10,15,3,24
+Appui	357,286,196,130,112,166,34,3,22,106,47,190,281,2,3,68,1,4,3,19,18,26,268,24,330,179,85,15,200,221,208,111,38,263,291,15,1,19,302,73,418,395,283,1,19,224,408,140,222,279,177,372,852,49,1,996,1159,161,1,2,4,62,1,22,10,10,106,60,520,226,8,11,8,20,99,1217,30,35,52,13,43,9,10,61,39,3,10,2,18,50,8,29,5,94,10,15,3,24,118
 Appui Institutionnel	10975
 Appui Technique	11916
 Appui Technique Direction Générale	10708
@@ -1030,6 +1033,7 @@ BUSINESS RESCUE PROCEEDINGS Application and Definitions	3714
 Back-end Developers Applications Development Cybersecurit	6832
 Background Facts The Applicant	13493
 Bank AI Artificial Intelligence API Application	7548
+Bank Approval Date	13830,20
 Bank Supervision Application System Version	11131
 Bank of Zambia Banknote App. Instead	13532
 Bank of Zambia ZIPSS Rules Appendix	12364
@@ -1046,7 +1050,7 @@ Benin Tax Application Base Current	10856
 Bi APPENDIX	12949
 Bibliography Appendix	12921
 Board Appointment Our Board Individual Members	11134
-Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74
+Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80
 Board Approved Financing Envelope	11417
 Board Approved Financing Envelope US	6539
 Board Approved MPA Financing Envelope	3562,7855
@@ -1079,6 +1083,7 @@ C. Preparation of Applications	1638
 CABINET APPROVES	13532
 CAC. Approved Data Centres	6432
 CACP Application	12454
+CALL FOR APPLICATIONS	13936
 CALL FOR APPLICATIONS FOR ENTRY INTO	12603
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
 CEO. Non-Refundable Application	736
@@ -1403,6 +1408,7 @@ Electronic Appeals and Litigation Format	12260
 Electronic Application	12389
 Electronic Commerce Research and Applications	8460
 Electronic Government Application of Act	13322
+Eligibility Criteria Applicants	13936
 Eligibility Requirements Applicants	11347
 Eligible Applicants	1638,7434,2273
 Elsie Appau-Klu	11038
@@ -1517,6 +1523,7 @@ Ghana Appoints Nana Yaw Amoah-Yeboah	7372
 Ghana Opens Applications for Mobile Broadband	7401
 Ghana. Appendices A and B	236
 Ghana. Int J Telemed Appl	1219,11027
+Giga's Validation Approach	13901
 Glob Implement Res Appl	8376
 Global Approach	1243
 Google Africa Applied AI Lab	6930,1269,499,1421
@@ -1550,6 +1557,7 @@ HELB Loan Applicants	2775
 Haaga-Helia University of Applied Sciences. Manda	2093
 Hand App	12423
 Have the Company Name Approved	12389
+Health Approach	13870
 Health Facility Applicant	12216
 Health Products and Mobile Apps	6946
 Health Service Consumers and App Users	6794
@@ -1733,7 +1741,7 @@ Labour. APPROVAL OF NOMINEE FOR APPOINTMENT	10313
 Language of Application	1638
 Last Approved	11965,867
 Last Approved International Development Association	2889
-Last Approved Rating	11965,23
+Last Approved Rating	11965,23,1932
 Last Approved Rating ISR Seq	6579,349,949,3518,1632
 Late Applications	1638
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
@@ -1794,6 +1802,7 @@ MOR's Tax Appeal Office	12500
 MRA Mobile App	13053
 MTN App	11259
 MTN Nigeria Communication Ltd Appeal	11993
+MTR Mid-Term-Review PAD Project Appraisal Document	13861
 MULTI-PHASE PROGRAMMATIC APPROACH ACCELERATING ACCESS	13743
 MULTI-PHASE PROGRAMMATIC APPROACH PROGRAM	6539
 MULTI-PHASE PROGRAMMATIC APPROACH WITH AN OVERALL	11417
@@ -2051,6 +2060,7 @@ PROGRAMMATIC APPROACH	12990
 PROGRAMME Appui	13635
 PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROJECT APPRAISAL DOCUMENT PCR	12253
+PROJECT IMPLEMENTATION IV. PROJECT APPRAISAL SUMMARY	13856
 PROJECT IMPLEMENTATION SCHEDULE FOR BOARD APPROVAL	13731
 PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863
 PROTECTION AUTHORITY NOT APPOINTED. Fact	4785
@@ -2141,11 +2151,12 @@ Programme AIA Appropriation In Aid AIDS	2775
 Programme Terra Bénin. IV.1.2.1.2 Application S’applique	10876
 Programme Terra Bénin. IV.1.4.2 Application S’applique	10876
 Project APPROVED	2473,2180
-Project Appraisal Document	541,2,16,183,229,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197,1355
+Project Appraisal Document	541,2,16,183,229,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197,1355,107,6
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PHEOC Public Health	11417
 Project Appraisal Document for Republic of Congo LISUNGI	11924
+Project Appraisal Report URL	13938
 Project Appraisal and Project Paper	10985
 Project Approval	13392
 Project Design and Credit Appraisal Team Manager	12195
@@ -2324,6 +2335,7 @@ Scope of Application This Proclamation	7538,4608,80
 Screening and Approval Requirements	12389
 Sealing and Marking of Applications	1638
 Second Schedule. Application	587
+Secretariat. PREAMBLE RECALLING WITH APPRECIATION	13870
 Section IV- Application Forms PART	1638
 Section VI. Approved Selection Methods	11905
 Section VII. Approved Selection Methods	11905

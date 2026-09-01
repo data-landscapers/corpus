@@ -7,6 +7,7 @@ AFFAIRES DROIT MONETAIRE FINANCES PROJETS EGYPT	10996
 AFFAIRES ETRANGERES	8321
 AFFAIRES ETRANGERES Le Conseil	8321
 AFFAIRES ETRANGERESLe Conseil	7670
+AFFAIRES PENITENTIAIRES	13908,32
 AFFAIRS	5533,5752,1768
 AFFAIRS AND INTERNATIONAL COOPERATION PORTFOLIO COMMITTEE	13131
 AFFAIRS ANNUAL PERFORMANCE REPORT	13126
@@ -49,7 +50,7 @@ Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1,148
 Affaires Contentieuses ST	10975
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
@@ -67,6 +68,7 @@ Affaires Ministère	10812
 Affaires Sociales	10829,2500,12,101
 Affaires Sociales DGEFC Direction Générale des Eaux	10876
 Affaires Sociales Guy Patrick OBIANG NDONG	1231
+Affaires Sociales URL	13912
 Affaires Thomas Hines	6695,2106
 Affaires Zimmerman	4340,5
 Affaires and Head of Cooperation	13426
@@ -321,6 +323,7 @@ Commissioner for Refugee Affairs	12227
 Commissioner for Refugee Affairs Mercy Mwasaru	4631
 Communication and Public Affairs Department	10522
 Communications and Public Affairs	408
+Communiqué Le Ministre des Affaires	13908
 Competition Management and Consumer Affairs	1797,1413,3880
 Compliance and Head Internal Affairs	11131,3
 Congo Ministry of Social Affairs	11987
@@ -800,6 +803,7 @@ MHAI Ministry of Home Affairs and Immigration NIDS	12327
 MINAS Ministère des Affaires Sociales	10964
 MINISTER OF FOREIGN AFFAIRS	4202
 MINISTER OF LABOUR AND HOME AFFAIRS	12607
+MINISTERE DES AFFAIRES SOCIALES ET DES	13835
 MINISTRY OF FOREIGN AFFAIRS	13126
 MINISTRY OF HEALTH Humanitarian Affairs	4154
 MINISTRY OF HOME AFFAIRS	12984
@@ -880,8 +884,9 @@ Minister of Local Government and Traditional Affairs	12569,38
 Minister of Overseas Indian Affairs	2667
 Minister of Police Affairs	11928
 Minister of Presidential Affairs	12617
-Minister of Social Affairs	10971
+Minister of Social Affairs	10971,2958
 Minister of Social Affairs and High Committee	3073
+Minister of Social Affairs and Solidarity	13911
 Minister of State for Disability Affairs	4133
 Minister of State for External Affairs	13561
 Minister of State for External Affairs and Environment	13561
@@ -898,7 +903,7 @@ Minister of Youth and Gender Affairs	7672,4935,28
 Minister of Youth and Gender Affairs Hon. Lesego	12626
 Ministers of Home Affairs and Employment and Labour	11280
 Ministre des Affaires	7978,2734,1260,37
-Ministre des Affaires Etrangères	4420,8985,35,5
+Ministre des Affaires Etrangères	4420,8985,35,5,478
 Ministre des Affaires Sociales	10824,45
 Ministries of Home Affairs and Internal Security	1778,210
 Ministries of Interior and Foreign Affairs	7295
@@ -971,6 +976,7 @@ Ministry of Public Administration and Political Affairs	7182
 Ministry of Religious Affairs and Wakfs	6938
 Ministry of Social Affairs	1828,9001,12,122,1,6,15,21,891,8,2,17,1388,2
 Ministry of Social Affairs and Inclusion	3500
+Ministry of Social Affairs and Solidarities	13857
 Ministry of Social and Humanitarian Affairs	11905
 Ministry of Sports Culture and Youth Affairs	13093
 Ministry of State for Presidential Affairs	1777,5838,2,1471
@@ -985,7 +991,7 @@ Ministry of Youth and Gender Affairs Overview	12642
 Ministère des Affaires	2366,2769,2198,1558,3025,1425,101
 Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718,1422,1162
 Ministère des Affaires IPF Sociales	11905
-Ministère des Affaires Sociales	3351,7470,48,95,941,19
+Ministère des Affaires Sociales	3351,7470,48,95,941,19,1932,56
 MoF&EA Ministry of Finance and Economic Affairs MNSSP	12964
 Mobile Money Taxes and Affordability	5234
 Monetary Affairs	4103,3684,1375

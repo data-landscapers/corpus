@@ -127,11 +127,12 @@ Africa. World Bank Group	10768
 Africa. World Bank Group Page	10768
 Africa. World Bank Group. Bastagli	10768
 AfricaNenda and Equity Group	7073
-African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365
+African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419,726,1114,87,365,509
 African Development Bank Group Amb. Baba	7452
 African Development Bank Group Approves	11310
 African Development Bank Group Avenue Joseph	10718
 African Development Bank Group Carlos Monteiro	2865
+African Development Bank Group Contract Awards	13893
 African Development Bank Group Independent Recourse	11863
 African Development Bank Group President	9905
 African Development Bank Group Published	13429
@@ -225,6 +226,7 @@ B. Growth	13295
 BACE Group	4126
 BAILEY CONSULTING GROUP LIMITED Data Controller	7167
 BANDWIDTH AND CLOUD SERVICES GROUP LIMITED	7167
+BANK GROUP STRATEGY FOR THE REMAINING	13885
 BAS Group	11127
 BASICOM CONSULTING GROUP LLP Data Controller	7167
 BASILISK GROUP LIMITED Data Processor INST-1116850331F	7167
@@ -244,12 +246,12 @@ Bangladesh Leveraging ICT Growth	13331
 Bank Building Resilient Digital Infrastructure for Growth	3456
 Bank Country and Lending Groups.9	11004
 Bank Fund Vacant Group Pension Fund	4896
-Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366
+Bank Group	156,387,454,193,11,383,131,534,3102,4112,405,847,3,259,27,875,366,1585,1,2,24
 Bank Group AI Artificial Intelligence API	13042
 Bank Group ASC Annual School Census	13310
 Bank Group Director General for Nigeria	5351,4871
 Bank Group Environment	1988
-Bank Group Strategy	4840
+Bank Group Strategy	4840,9045
 Bank Group TABLE OF CONTENTS DATASHEET	13331
 Bank Group Technical Report	10841
 Bank Group's	10715
@@ -620,6 +622,7 @@ E2820-BI GROUPE DE LA BANQUE MONDIALE	13555
 EAC Gross Domestic Product Green House	12256
 EAC Inaugurates Three Technical Working Groups	11807
 EAC Maximum Demand Growth	12256
+EAC's Technical Working Group	1216
 EACO E-Waste Technical Working Group Based	6946
 EAF Energy Availability Factor GDP Gross	11228
 EASYGARI GROUP LTD Data Controller INST-9541533038B	7167
@@ -665,6 +668,7 @@ Economic Growth Economic	13053
 Economic Growth Forecast for CEMAC	10841
 Economic Growth Plan	2626
 Economic Growth SDG	13624
+Economic Growth and Development	13847
 Economic Growth and Finance	1554
 Economic Growth and Inclusive Transformation	2957,7758
 Economic Growth and Job Creation	5735,1,1
@@ -750,7 +754,7 @@ Executive Chairman of Trans-IT Group	7371
 Executive Director and Group COO of Seamfix Limited	9876
 Executive Head of Growth and Partnerships	10193
 Expand and Diversify Domestic Capacity Grow	10157
-Expert Group	582,1232,1827,7123,498,162,139
+Expert Group	582,1232,1827,7123,498,162,139,2310
 Expert Group Meeting	10840
 Expert Groups	11424
 Expert Leaders Group	11138
@@ -761,6 +765,7 @@ Eyeonid Group AB	8315
 F FIN DE GROSSESSE	13300
 F. BANK GROUP EXPERIENCE AND LESSONS	11863
 F. Bank Group Experience and Lessons Reflected	11863
+FATOU FAYE AFRICAN DEVELOPMENT BANK GROUP	13885
 FCFA Gross Domestic Product Gross Enrollment	11905
 FEMMES Groupe	13300
 FGD Focus Group Discussion FPI European	970
@@ -805,6 +810,7 @@ Founder and Group CEO of Moniepoint	2310
 Founding Promoter and Chairman of KP Group	12576
 Fourteen Focus Group Discussions	12946
 Framework EU European Union GDP Gross	6539
+France-Djibouti Business Group	13887
 Francis Group	8376
 Frank Grozel	6423
 Frontier of Power. Penguin Publishing Group	961
@@ -842,6 +848,7 @@ GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRM Grievance	11525
 GDP Gross Domestic Product GTS Sector	13731
+GDP Gross Domestic Product ICI Djibouti	13836
 GDP Grows	8466
 GDP Growth	8126,3797,268
 GERD Gross Expenditure	12786
@@ -1077,7 +1084,7 @@ GroundUp	7343,1907
 Groundbreaking Ceremony Held For Construction of Statistics	9322
 Groundbreaking Guide For Lawyers	11654
 Groundbreaking NBO2 Sameer Jan	594
-Grounded	2100,13,2093,1036,3218,2872,146,1564
+Grounded	2100,13,2093,1036,3218,2872,146,1564,854,35
 Grounding	5081,4042,1065,3273,95
 Grounding AI	6793,6856
 Grounding LLMs. Available	13461
@@ -1089,7 +1096,7 @@ Groundtruthmatrix	8606
 Groundwater	1988
 Groundwater Infiltration Soil	9123
 Groundwater and Boreholes	1988
-Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144
+Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404,117,1,28,17,8,26,25,119,1,155,2,110,267,65,246,58,119,228,83,5,56,55,31,68,22,226,212,59,5,1,57,217,150,45,16,112,144,62
 Group A	10785
 Group A and B Bids	13185
 Group A and Group D	10785
@@ -1241,7 +1248,7 @@ Group. SPAR6C	9393
 Group. The Group	4360
 Group1 and Group	12361
 GroupBy	4434
-Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74
+Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135,186,56,47,20,1000,1316,40,90,43,9,10,30,40,57,62,74,134,78
 Groupe AFD	12427,833
 Groupe Actis	10975
 Groupe Al Massour Holding	13405,1
@@ -1333,7 +1340,7 @@ Growing Transatlantic Divide European	13532
 Growing Uses of PeaceTech	8202
 Growing Youth	12843
 Grows H1 Profit After Tax	8178
-Growth	236,182,522,18,285,461,124,61,99,560,163,64,1,984,102,8,28,790,220,64,53,630,214,71,145,15,39,400,407,310,212,151,36,148,74,386,145,199,313,632,183,422,535,22,4,15,7,53,48,15,5,93,10,1,12,3,24,130,2,2,2,75,50,6,197,1,37,23,43,39,172,72,2,45,308,23,23,5,9,69,17,20,19,16,540,5,6,14,77,70,172,36,87,22,3,18,224,102
+Growth	236,182,522,18,285,461,124,61,99,560,163,64,1,984,102,8,28,790,220,64,53,630,214,71,145,15,39,400,407,310,212,151,36,148,74,386,145,199,313,632,183,422,535,22,4,15,7,53,48,15,5,93,10,1,12,3,24,130,2,2,2,75,50,6,197,1,37,23,43,39,172,72,2,45,308,23,23,5,9,69,17,20,19,16,540,5,6,14,77,70,172,36,87,22,3,18,224,102,81,63
 Growth Accelerator	12214,866
 Growth By Burundi Times	2296
 Growth Centers Program	5247
@@ -1507,7 +1514,7 @@ Income Growth Rates	12445
 Income Quintile Group BURUNDI C	13624
 Income Quintile Group Text Figure	13624
 Increasing Gross Domestic Expenditure	12175
-Independent Evaluation Group	10779,531
+Independent Evaluation Group	10779,531,2540
 India Africa Growth Partnership	13562
 India Blueprint for Growth	4444
 India's KP Group	12577
@@ -2027,6 +2034,7 @@ Protection Regulation GMV Gross Merchandize Volume	1243
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Provincial Gross Domestic Product	13474
 Provincial Growths Development Plans	11289
+Proxy Group	13874
 Président du Groupe KAYDAN	6180
 Président du Groupement Interbancaire Monétique	4208
 Président-Directeur Général du Groupe GUICOPRES	8553
@@ -2272,8 +2280,9 @@ Sub-Saharan Africa. Income Group	11881,1
 Submarine Cable System Market Growth	4676
 Sudan Cash Working Group	6947
 Sudan.56 Group Cash Transfers	6947
-Sudatel Group	4898,20,57,1071,966
+Sudatel Group	4898,20,57,1071,966,6903,6
 Sudatel Group CEO Magdi Abdalla Taha	4935
+Sudatel Group Sign Tripartite Agreement	13915
 Sudatel Group's CEO	4975
 Sudatel Telecom Group	4919
 Sudlows Consulting and X2X Group	1639
@@ -2313,12 +2322,12 @@ Targeted Inclusion for Marginalized Groups	13095
 Tatenda Alice Ngowe Group Company Secretary	4896
 Tax Capacity and Growth	1828
 Teachers Focus Group Discussion	899
-Technical Advisory Group	11572
+Technical Advisory Group	11572,2334
 Technical Assistance Project for Economic Growth	10774
 Technical Execution and Expertise Specialized Working Groups	4528,7984
 Technical Group	11401
 Technical Groups HSBB High-Speed Broadband ICT	13731
-Technical Working Group	4528,1152,521,587,2723,341,656,533,598,112,387,37,37,28,15,82,76,35,488,113,587
+Technical Working Group	4528,1152,521,587,2723,341,656,533,598,112,387,37,37,28,15,82,76,35,488,113,587,239
 Technical Working Group HAC Humanitarian Aid	6947
 Technical Working Group Is the Digital Health	12240
 Technical Working Group UCJC Umphakatsi Child	12939
@@ -2342,6 +2351,7 @@ Tenfold Growth Strategy. Musasizi	8559
 Tenfold Growth Strategy. Zhang Hao	8559
 Teraco Group	4950
 Teraco and Cavaleros Group	4950
+Terms of Reference WBG World Bank Group	13836
 Terrorist Armed Groups	7452
 Textile and Apparel Sector Thematic Working Group	12703
 Thematic Working Groups	940,8898,3521
@@ -2518,7 +2528,7 @@ Working Groups. BOS	12706
 Working Working Group	12512
 World Bank Country and Lending Groups	10785,219
 World Bank Executive Director Africa Group	11134
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32,202,105
 World Bank Group Approach	10714,292,1437
 World Bank Group Approach. Digital	11310
 World Bank Group Board of Directors	2253,2581
@@ -2529,6 +2539,7 @@ World Bank Group Country Partnership Framework	12176,935
 World Bank Group DEFINITIONS	12717
 World Bank Group Data	6539
 World Bank Group DataBank	10768
+World Bank Group Djibouti Health System	13859
 World Bank Group Environmental	1988,4551
 World Bank Group FOR OFFICIAL USE	969,10580
 World Bank Group Financing	3456,148,7813,488,483,38,243,662,462
@@ -2556,6 +2567,7 @@ World Bank Group Publications	11136
 World Bank Group Report	2889
 World Bank Group Spring Meetings	3653,7481
 World Bank Group Strategy for Fragility	13312,2
+World Bank Group The World Bank	13837
 World Bank Group WDI World Development	13312,2
 World Bank Group and African Development Bank	4214,5421
 World Bank Group and European Commission	12540

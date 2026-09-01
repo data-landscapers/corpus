@@ -20,6 +20,7 @@ Deal Horizon	2622
 Description The Horn of Africa Digital Market	806
 Dr. Petrovius Horton	12996
 EN Factsheet IDGC Horn	886
+EU Alliance Horn of Africa	13894,1
 EU Horizon	12926
 EU Programmes ERASMUS and HORIZON	13170
 EU-South Africa Horizontal Agreement for Air Services	11210
@@ -49,14 +50,14 @@ Hordhac	11136
 Hordiichuk	9128
 Horen	10718
 Horezo	13641
-Horizon	736,1188,516,440,189,443,306,478,419,66,117,21,16,40,540,868,1575,776,1,156,3152,1247,152
+Horizon	736,1188,516,440,189,443,306,478,419,66,117,21,16,40,540,868,1575,776,1,156,3152,1247,152,479
 Horizon Ebibeyín	4209
 Horizon Engage	9399
 Horizon Europe	9816,1472
 Horizon Europe Moonshot Projects	9816
 Horizon Europe. The JSTCC	11288
-Horizon Fiber	3788,1104,6,20,1,56,2713,2895
-Horizon Fiber Initiative	4918,17,5648
+Horizon Fiber	3788,1104,6,20,1,56,2713,2895,3332,6,3
+Horizon Fiber Initiative	4918,17,5648,3332,6
 Horizon Group. Dr. KAYIHURA MUGANGA DIDAS	718
 Horizon International Flight Academy	11131,3
 Horizon Project	4555
@@ -84,14 +85,16 @@ Hormuud Telecom and Somtel	3637
 Hormuud University	10183
 Hormuud’s EVC Plus	3463,4434
 Horn Hussein Sheikh-Ali Far-right	3463
-Horn of Africa	469,337,1008,1673,34,1,105,928,251,1,863,296,338,924,566,2007,917,402,16,1052,60
+Horn of Africa	469,337,1008,1673,34,1,105,928,251,1,863,296,338,924,566,2007,917,402,16,1052,60,1621,10,1,16,26,3
 Horn of Africa Deutsche Gesellschaft	886
-Horn of Africa Digital Market Integration	806
-Horn of Africa Initiative	469,337
+Horn of Africa Digital Market Integration	806,13130
+Horn of Africa Digital Market Integration Project	13936
+Horn of Africa Initiative	469,337,410,12659
 Horn of Africa and Egypt	5138
 Horn of Africa and Mozambique	12825
 Horn of Africa. Ethiopia	4555
 Horn of Africa. Given	12227
+Horn of Africa. Paulius Bagdonas	13880
 Horngren	7789
 Horodatage	11614,2105
 Horohoro	2867,1,1231,4115
@@ -133,7 +136,7 @@ N. van Horen	10718
 NAME Américo Muchanga Nilza Miquidade Horacio	2989
 NEXT HORIZON	3487,684
 National Digital Plan Horizon	2278,1237
-Next Horizon	3487,1341,70,235,200,2017,48,290,850,1,380,610,1054,120,1561
+Next Horizon	3487,1341,70,235,200,2017,48,290,850,1,380,610,1054,120,1561,1651
 Next Horizon Three-Year Strategy	3487
 Next Horizon Year	9532
 North and Horn of Africa	11277

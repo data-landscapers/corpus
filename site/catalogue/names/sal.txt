@@ -72,7 +72,7 @@ DETALLE DE LOS SALARIOS DE FUNCIONARIOS	4209
 DG SALUD	4209
 DR. SALIM K. NOORANI Data Processor	7167
 Daily News DAR ES SALAAM	5771
-Dar Es Salaam	12784,608
+Dar Es Salaam	12784,608,483
 Dar-es Salaam	2816
 Decoder Sales Decoder Repairs	1944
 Dedza and Salima	12253
@@ -339,6 +339,7 @@ Public Service Salary Review	13123
 Pueblo Salario Bruto República D.E.S. Mensual	4209
 Quality Assurance PERSAL Personnel and Salary System	11192
 Quantum and Price Indices of Recorded Sales of Agricultural	2775
+RDGE Salomé ZURIEL	13885
 READY Salone	8271,525
 RECEIVE UGANDA SALAAM BANK ACCESS STANBIC	11002
 Radio Tamazuj South Sudan's President Salva	4597
@@ -388,7 +389,7 @@ Sala de Conferencia de Luba Malabo	4209
 Sala de Inteligência Artificial	8807
 Sala de Reuniões	12810
 Sala de Servidores	9694
-Salaam	637,177,332,81,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,731,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132,618,123,279,11,4,110,495,144,542,136,6,508,42
+Salaam	637,177,332,70,11,34,660,329,25,305,138,149,1,79,41,74,304,94,49,445,145,288,52,314,165,35,92,45,26,300,95,204,56,12,142,68,22,7,8,16,37,85,303,106,239,26,85,228,103,63,194,30,731,135,52,64,88,140,133,126,135,201,26,313,89,211,51,59,96,65,200,132,618,123,279,11,4,110,495,144,542,136,6,508,42
 Salaam Business School	6816
 Salaam Declaration	11572
 Salaam Energy Declaration	2391
@@ -402,6 +403,7 @@ Salaam Stock Exchange	6921
 Salaam Telephone House	2868
 Salaam and Mombasa	3954
 Salaam and Mtwara	3533
+Salaam-Nairobi-Addis Ababa-Berbera-Djibouti	13867
 Salaam. As Tanzania	4714,2441
 Salaam. Baada	4099
 Salaam. Businesses	8616

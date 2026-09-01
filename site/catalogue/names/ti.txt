@@ -601,6 +601,7 @@ ITWeb Sectors Companies About Subscribe Timeline	5175
 IV. AU TITRE DU MINISTERE	11597
 IV.2.2 Infrastructures TIC	13306
 Ic Albania Europe Southern Europe Tirana	10840
+Iciar Evaluation Title	13858
 Identification France Secure Electronic Titles File	10714
 Imagem Redes Adversas Generativo Tipos de Redes	2816
 Implementation Support Plan Time Focus Skills	10964
@@ -659,6 +660,7 @@ Khaleej Times Staff On Finance Day	13057
 Kingdom of Eswatini Ministry of Tinkhundla	12944
 Kinshasa Tier-III DCs	1845,13
 L'intervention de Ngueto Tiraïna Yambaye	2915
+L'utilisation des TIC	13841
 L2 Support Cloud Operational Experience Timeless	11209
 LLM's Tribune and Time.446 Copilot	13461
 LOGISTICS AND TIMING Location	962
@@ -966,7 +968,7 @@ Points Focaux TIC	13341
 Points Focaux TIC PKI Public Key	13341
 Policies ISO Tier	10721
 Political and Economic Origins of Our Time	5700
-Politique Nationale de Développement des TIC	13290,51
+Politique Nationale de Développement des TIC	13290,51,523
 Politique Nationale des TIC	13290
 Politiques TIC	13290
 Population Register and Secure Titles	2876
@@ -1236,6 +1238,7 @@ T1 Role-modelling Brazil United States Tier	10764
 TALLERES Y TIENDAS ARTESANALES	4209
 TCCF TCCD- Tier Certification of Design Documents	6432
 TDR TFG TGF TIP TLF TMPF	10777
+TF-D0339 Assignment Title	13925
 TFA Trade Facilitation Agreement TIR-EPD International	13042
 TI AN CCRA TERN AL TR	2776
 TI Ministère des Finances Ministère des Finances Postes	13290
@@ -1456,8 +1459,9 @@ TISPA	2868
 TISTICS	11178
 TITAO KENEDOUGOU YAKO TUY OUAHIGOUYA GOURCY	10847
 TITLE	12011,350,29,51,1141
-TITRE	785,401,615,2619,147,6258,742,1725,1,426,62
+TITRE	785,401,615,2619,147,6258,742,1725,1,426,62,65
 TITRE DU BUDGET DE L'ETAT	3396
+TITRE ET PORTEE	13828
 TITRE II	785,401,3381,6258,11,130,556,2197,2
 TITRE II DU REGISTRE NATIONAL DES	10813
 TITRE III	37,748,401,3381,6258,11,130,556,2197
@@ -1634,7 +1638,7 @@ Tier IV-certified	7244
 Tier IV-standard	4528,7984
 Tier IV. Elle	8685
 Tier Performance	10764
-Tier-1	10505,997,415
+Tier-1	10505,997,415,1934
 Tier-1 Nigerian	3383
 Tier-1 Nigerian Bank	7446
 Tier-1 Sectors Deliver	2957
@@ -1646,6 +1650,7 @@ Tier-4 Plus	3561
 Tier-4 and Tier-5	10848
 Tier-III	1845,13,1128,1205,2988,4712,1294
 Tier-III Kinshasa	1845,13
+Tier-One	13851
 Tier-based	10764
 Tier-certification	1244
 Tier-certified	1244,1757
@@ -1894,7 +1899,7 @@ Timeframe for Execution	12917
 Timeframe for Execution Execution Timeframe Quick Win	12917
 Timeframes and Budgets	7548
 Timeframes and Budgets Implementing	7548
-Timeline	1777,25,1876,1920,523,826,509,3674,808,70,50,126,143,1,91,256
+Timeline	1777,25,1876,1920,523,826,509,3674,808,70,50,126,143,1,91,256,1194
 Timeline Project Description Funding	12399
 Timeline Project Objective	1778
 Timeline Yet for Service Restoration Starlink	4601
@@ -2134,7 +2139,7 @@ Titelseite	13014
 Tithe	3972
 Titie	3972
 Titina Sylla	5402
-Title	25,153,232,204,2,120,253,697,191,111,1101,707,176,2460,152,37,152,224,853,696,887,8,164,1270,26,11,1,1,6,2,10,197,77,63,211,731,42,49,81,27,41,33,57,132,98,177,89,148,113,4,5,65,9,17,161,47,15
+Title	25,153,232,204,2,120,253,697,191,111,1101,707,176,2460,152,37,152,224,853,696,887,8,164,1270,26,11,1,1,6,2,10,197,77,63,211,731,42,49,81,27,41,33,57,132,98,177,89,148,113,4,5,65,9,17,161,47,15,255
 Title Affiliation No Chief Executive Officer	9855
 Title Affiliation No Project Director Jhpiego	9855
 Title Chapter Extent of Repeal Criminal Code	11857
@@ -2181,9 +2186,10 @@ Tito Ejenavi	11097
 Tito Magoti	12232
 Tito Vibes	10776
 Tito Vicente S. Joaquim Winner	10776
-Titre	435,752,147,348,394,1,2,66,320,1371,570,1,1,1,12,163,1,1,1,1,6248,40,99,547,1868,391,23,2
+Titre	435,752,147,348,394,1,2,66,320,1371,570,1,1,1,12,163,1,1,1,1,6248,40,99,547,1868,391,23,2,46,24
 Titre Foncier	13300,75
-Titre II	8891,2075,2749
+Titre I Article	13825
+Titre II	8891,2075,2749,137
 Titre III	10836,130,2749
 Titre III. Article	10966
 Titre IV	10836,2879

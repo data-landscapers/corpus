@@ -25,7 +25,7 @@ Americas Botswana High EGDI M-OSI H-HcI	10840
 Americas Kiribati Middle EGDI M-OSI H-HcI	10840
 Americas Tajikistan High EGDI M-OSI H-HcI	10840
 Angola EAC CEMAC CEMAC CEMAC Egypt	6938
-Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837
+Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837,930
 Arab Republic of Egypt Right Honourable Russell	13440
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Egypt International Telecommunication Union	10764
@@ -96,6 +96,7 @@ Desenvolvimento de Governo Eletrónico EGDI Enquanto	11569
 Digital Egypt	1033,869,2056,332,242,810,1416,1431,1111,422,1983
 Digital Egypt Generations	7537
 Digital Egypt Portal	1902
+Digital Public Infrastructure EGDI E-Government Development	13861
 Distribution of EGDI	10840
 Dr. William Egaddu	12874
 Drive Digital Economy Growth Egypt	6678
@@ -170,6 +171,7 @@ EGP20	2657
 EGPAF	12240,1,764
 EGPAF Elizabeth Glaser Paediatric AIDS Foundation	13005
 EGRA Early Grade Reading Assessment EI	11560
+EGRISS	13873
 EGTI Expert Group	582
 EGTI and EGH	11424
 EGX Chairman Omar Radwan and ITDA Head	10498

@@ -482,6 +482,7 @@ Digital Public Infrastructure DPPA	5244
 Digital Public Infrastructure DRO District Registration	13005
 Digital Public Infrastructure Development	11007
 Digital Public Infrastructure Digitalisation	9535
+Digital Public Infrastructure EGDI E-Government Development	13861
 Digital Public Infrastructure EMSP Economic Community	3604
 Digital Public Infrastructure MALAWI DIGITAL READINESS	12214
 Digital Public Infrastructure Map	5700
@@ -968,7 +969,7 @@ Infrastructural	4676,2272,3217,1695
 Infrastructural Development for Whom	12227
 Infrastructural Dimension	12210
 Infrastructural State Capacity	5700
-Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78,84,53,21,1,7,1,9,6,15,11,4,4,30,1,105,12,15,157,36,9,1,3,1,12,2,59,50,63,79,14,30,7,24
+Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8,34,1,5,8,7,4,86,8,11,15,25,24,78,84,53,21,1,7,1,9,6,15,11,4,4,30,1,105,12,15,157,36,9,1,3,1,12,2,59,50,63,79,14,30,7,24,220
 Infrastructure Access	12214
 Infrastructure Accessibility	12411
 Infrastructure Act	1777
@@ -1191,7 +1192,7 @@ InfrastructureICT and GovernanceCloudCyber	3557
 InfrastructureSouth SudanHuaweiEthiopiaRead	3659
 InfrastructureTelecomsBusinessParatus GroupRead	3371
 InfrastructureZambiaSmart Zambia InstituteDigital	7383
-Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137,404,39,164,12,879,13,414,833,11,23,17,34,39,54,242,9,4
+Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137,404,39,164,12,879,13,414,833,11,23,17,34,39,54,242,9,4,115,3,2,55
 Infrastructures Actualité Nathalie Roy	3658,2617,145
 Infrastructures Critiques	1801
 Infrastructures Fibre Optique	13414
@@ -1251,6 +1252,7 @@ Kenya Steps Up Digital Infrastructure Preparations	6678,209,414,23
 Kenya. InfraCo Africa	1127
 Key Infrastructure	13341
 Key Infrastructure NPRC Number Portability Routing	6946
+Key Infrastructure PLR Performance and Learning Review	13861
 Key Infrastructure and Digital Public Infrastructure	8440
 L'Agence Nationale des Infrastructures Numériques	3581
 LA QUALITÉ DES INFRASTRUCTURES ET	13306
@@ -1288,7 +1290,7 @@ MELHORAR A INFRAESTRUTURA BÁSICA DE BANDA	11397
 MIELS Ministry of Infrastructure	1284
 MINISTERIO DE AVIACIÓN CIVIL E INFRAESTRUCTURAS	4209
 MINISTERIO DE TURISMO E INFRAESTRUCTURAS TURISTICAS	4209
-MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402
+MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402,9506
 MLHA Infrastructure Development	12597
 MOBILE TELEPHONY INFRASTRUCTURE	6000
 MODERNISATION OF COURT INFRASTRUCTURE Modern	13504
@@ -1592,7 +1594,7 @@ Public Infrastructure	5519,181,6252,262,27
 Public Infrastructure NDP6 Sixth National Development	13076
 Public Infrastructure and Minister	11285
 Public Infrastructure and Private Protection	5700
-Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221,160,171,317,19,4
+Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89,221,160,171,317,19,4,505
 Public Key Infrastructure Asymmetric	11869
 Public Key Infrastructure NDP National Development	1000
 Public Key Infrastructure ORTIA One-stop	11986
@@ -1728,6 +1730,7 @@ Securing Broadband Infrastructure	11857
 Security Framework and Central Infrastructure	13005
 Security Framework and Central Infrastructure The NRIS	13005
 Senior Cloud Infrastructure Expert	12693
+Senior Rural Infrastructure Engineer AHHD.1	13885
 Sentech and Broadband Infraco	5208,760,1088
 Sentech-Broadband Infraco	5968
 Service Infrastructure	11857
@@ -1808,6 +1811,7 @@ System Report. Principles for Digital Public Infrastructure	12214
 Systemically Important Financial Market Infrastructures	4103
 Systems and Infrastructure Vendor Engagement Guidelines	12453
 Systems. Deploying Infrastructure for Industrialisation	5912
+TCI Telecommunication Infrastructure	13861
 TECHNICAL INFRASTRUCTURE	5665
 TECHNOLOGICAL INFRASTRUCTURE NECESSITIES	3861
 TELECOM INFRASTRUCTURE VANDAL JAILED	8730

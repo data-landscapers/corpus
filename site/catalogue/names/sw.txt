@@ -520,6 +520,7 @@ Swearing	12531
 Swear’n’Slash	3395
 Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94
 Sweden Global Cybersecurity Index	10764
+Sweden Government	13896
 Sweden Sverige	12142
 Sweden and Ericsson	6649
 Sweden and Iceland	12660
@@ -538,7 +539,7 @@ Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41,1133
 Swedish Ambassador	2373,11053
 Swedish Civil Contingencies Agency	6649
 Swedish DPA	8436
-Swedish Embassy	3277
+Swedish Embassy	3277,10619
 Swedish Employment Setvices	148
 Swedish ICT	2673
 Swedish International Development Agency	1814,11518

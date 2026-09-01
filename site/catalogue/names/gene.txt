@@ -387,7 +387,7 @@ DEFENDANT ATTORNEY GENERAL	13040
 DEPARTMENT GENERAL INFORMATION	11224
 DES COMPETENCES GENERALES DE LA COMMUNE	13292
 DES DISPOSITIONS GENERALES	13293
-DES DISPOSITIONS GENERALES Article	13293,414
+DES DISPOSITIONS GENERALES Article	13293,414,120
 DES DISPOSITIONS GENERALES C Article	13293
 DES DISPOSITIONS GENERALES CHAPITRE	785,12507
 DES DISPOSITIONS GENERALES Chapitre	13781
@@ -397,8 +397,10 @@ DEVELOPMENT Geneva	12786
 DFF Direct Facility Financing DGMP General	10829
 DG INTPA Directorate General for International Partnerships	970
 DGCP Public Tenders General Directorate	11549
+DGDDI General Directorate for Customs and Indirect Taxation	13861
 DGE General Directorate for Environment	11905
 DGEB General Directorate of Basic Education	11905
+DGI General Directorate of Tax	13861
 DGMP Procurement General Directorate	969
 DGSC General Directorate of Civil Security	13729
 DGSN Director General	4052
@@ -550,6 +552,7 @@ Director General of ART	4991
 Director General of ARTP	6869
 Director General of ASIN	3198,1,100
 Director General of Africa CDC	2678
+Director General of African Union Commission	13899
 Director General of Angola's National Space Programme	6628
 Director General of Arabic World	13744
 Director General of Artificial Intelligence Systems. Framed	3496
@@ -663,6 +666,7 @@ EAC Deputy Secretary General	7815,152,5643,41
 EAC Deputy Secretary General for Customs	6096,746
 EAC Secretary General	9707
 EC O Tambo DM Mthatha General	11986
+ECCE General and Technical Supervision Alex MUBIRU	13885
 ECONOM. JURIDICOS CENTRALES TOTAL GENERAL ESTADO	4209
 ECSA-HC Director General Dr Ntuli Kapologwe	8907
 ENG. BALCHA REBA DIRECTOR GENERAL ETHIOPIAN	762
@@ -808,6 +812,7 @@ G Second Generation Telephone Wireless Technology	11857
 G Third Generation	6671,6675
 G Third Generation Network	2775
 G Third Generation Telephone Wireless Technology	11857
+GAFD General Assembly URL	13887
 GB HTTP General Internet	12395
 GDPR General Data Protection Regulation	11196
 GENERAL	3396,318,495,2687,271,3654,154,207,1499,660,49
@@ -926,7 +931,7 @@ General Amended	11269
 General Andrade	10751
 General Application and Implementation Directive	4583,278,1581,4155,1359,37
 General Art. XIV GATS	11154
-General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567
+General Assembly	1237,880,454,1012,1950,144,4,1252,179,1509,2220,352,163,630,924,567,410
 General Assembly. Language	7320
 General Auction Conditions	7266
 General Auditing Commission	8835,120,2765
@@ -1186,6 +1191,7 @@ General Personal Data Protection Law	6936
 General Plan No. B432	13189
 General Platform Overview Land Registration Module	12211
 General Policy Requirements for Trust Service Providers	10819
+General Population	13837
 General Population and Housing Census	7702,4701
 General Practice	1824
 General Practitioner Practice	11980
@@ -1311,7 +1317,7 @@ Generally Resilient	4848
 Generals	12064,697,459,458
 Generals Victoria Falls	11480
 Generar	1701
-Generate	2477,1951,1995,1565,618,2223,1382,465
+Generate	2477,1951,1995,1565,618,2223,1382,465,1249
 Generate Accounts Statement Accounts	12676
 Generate Aggregate	1009
 Generate MERL	7548
@@ -1555,6 +1561,7 @@ Inspector General de Servicio	4209
 Inspector General de Servicios Servicio	4209
 Inspector General of Police	4677,159,660,2975,611,2775,1031,693
 Inspector General of Police Douglas Kanja	3320,8990
+Inspectorate General	13865
 Inspectorate General of Finance	11910
 Inspectorate General of Judicial Services	10990
 Installed Generation	11136
@@ -2003,6 +2010,7 @@ SECTION ONE General Provisions	12146
 SECÇÃO I GENERALIDADES	11388
 SEFS General Manager Moeketsi Mafereka	2767
 SERVICES GENERATION INFORMATION SUPPORT MOBILE MONEY	11964
+SGG Secretary General	13861
 SIDA DIRECTION GENERALE DE LA PLANIFICATION	13306
 SIN's Director General Attia Byll and ST	6446
 SITA General Regulations	11184
@@ -2037,7 +2045,7 @@ Secretario General PJ	4209
 Secretario General Secretario General	4209
 Secretario de General	4209
 Secretarios Generales	4209
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191,239,65
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
 Secretary General John Omo	9236,2264

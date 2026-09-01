@@ -33,7 +33,7 @@ Adja Satu Camará Pinto	11544
 Adjaba Biwoli Jean Pierre	10379
 AfDB. The PIM	11863
 Afectadas PIDLCP Programa Integrado de Desenvolvimento Local	11390
-Africa's Pioneer	12202
+Africa's Pioneer	12202,1713
 Africa. PILLARS	4126
 African Atlantic Gas Pipeline	7452
 African Pilot	5247
@@ -721,7 +721,9 @@ PICMA	12976
 PICTURE	8864,4106
 PICTURES Visitors	1154
 PICTURES-MANICALAND	1154
+PICU.7	13885
 PID Concept Stage	1193,706
+PIDA30789	13837
 PIDA31008	761
 PIDA32489 Public Disclosure Authorized Nov	10963
 PIDA33722	996
@@ -747,6 +749,7 @@ PIE Agreement	1228
 PIERRES AVEC BOUE	13300
 PIERRES AVEC CHAUX	13300
 PIETP	6884
+PIFD.1	13885
 PIFD.3	10718
 PII S030859612600145X. Available	8172
 PII S2666378326000309. Available	8185
@@ -853,6 +856,7 @@ PIT Revenue	10997
 PIT and CIT	1828,9169,1951
 PIT-related	13624
 PITD Sector Manager Nicholas WILLIAMS	11863
+PITD.2	13885
 PITD2 Country Manager Joseph RIBEIRO	11863
 PITD2 Jessica MUGANZA	11863
 PITD2 Joel Daniel MUZIMA	11863
@@ -1120,7 +1124,7 @@ Pilla	3335,2364
 Pillage	4127
 Pillaged	4127
 Pillai R. Leveraging	10919
-Pillar	10,101,358,180,360,35,220,513,687,697,867,8,90,402,1005,1202,97,95,8,1221,2623,86,55,44,185,39,5,187,170,241,64,8,53,32,38,218,10,170,5,10,45,4,64,48,51,90,16,12,210,23,2,14,353,1,12,3,38,296,75
+Pillar	10,101,358,180,360,35,220,513,687,697,867,8,90,402,1005,1202,97,95,8,1221,2623,86,55,44,185,39,5,187,170,241,64,8,53,32,38,218,10,170,5,10,45,4,64,48,51,90,16,12,210,23,2,14,353,1,12,3,38,296,75,182
 Pillar Access Connectivity Affordability Description Promote	5676
 Pillar Action	12399
 Pillar Alignment Pillar	4528
@@ -1138,7 +1142,7 @@ Pillar Strategic Activities	940
 Pillar Structurew	4528,7984
 Pillar V	12717
 Pillar and Research	12512
-Pillars	395,566,39,3214,314,1148,1156,105,18,3824,1012,66,48,11,596,151,233,435,60
+Pillars	395,566,39,3214,314,1148,1156,105,18,3824,1012,66,48,11,596,151,233,435,60,474
 Pillars AI Adoption and Service Transformation AI	4528
 Pillars Enablers	13347
 Pillars I and II	11863
@@ -1355,6 +1359,7 @@ Program Objectives and Pillars	10779
 Programmes. Under the Governance Pillar	11791
 Project Company. The PIU	3456
 Project Development Objective PIM Project Implementation	2889
+Project Development Objective PIU Project Implementation	13836
 Project Implementation Manual PIU Project Implementation	13331
 Project Implementation Unit PIU Project Operations	11855
 Project. The PIU	11417

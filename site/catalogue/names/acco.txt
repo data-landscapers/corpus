@@ -85,7 +85,7 @@ Accord-cadre	2808
 Accordance	11853
 Accorder	7917,974,1985,2414,11,480
 Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102
-Accords	2465,2896,1536,3929,50,47,599,1779
+Accords	2465,2896,1536,3929,50,47,599,1779,540
 Accordées	10876
 Accou- Infirmière	13300
 Accouchement	10876,2424
@@ -800,8 +800,9 @@ Public Accounts SLA Senior Legal Advisor	11198
 Public Accounts Standards Board	10313
 Public Accounts and Audit	9338
 Public Accounts. Help	7096
-Public Expenditure and Financial Accountability	3604,6915,1981
+Public Expenditure and Financial Accountability	3604,6915,1981,1441
 Public Expenditure and Financial Accountability Assessment	13122
+Public Expenditure and Financial Accountability PKI Public	13861
 Public Expenditure and Financial Accountability Program	11866
 Public Finance Accounts Management Regulations	10313
 Public Finance Management Act. Accordingly	13685

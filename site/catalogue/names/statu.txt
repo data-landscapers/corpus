@@ -77,6 +77,7 @@ Statut Effectif Pourcentage Rural Etablissement	10875
 Statut Général	548
 Statut Général des Etablissements	10975
 Statut Général des Etablissements Publics	10975,6
+Statut Général des Fonctionnaires	13937
 Statut Responsable Des	2966
 Statut Responsable Recommandations	2966
 Statut des Réfugiés Convention	13442
@@ -117,7 +118,10 @@ Statutory Remedy	11956
 Statutory Reserve	12364
 Statutory The Borrower	1988
 Statutory Wayleaves	11
-Statuts	10836,686,45,1901,56,188,11,86
+Statuts	10836,686,45,1901,56,188,11,86,19
+Statuts Particuliers	13846
+Statuts Particuliers des Fonctionnaires	13937
+Statuts Particuliers des Fonctionnaires. Il	13937
 Statuts-types	10823
 Statuts. Notre	8237
 T R LEGISLATIF LEGISLATIVE AND STATUTORY	10974

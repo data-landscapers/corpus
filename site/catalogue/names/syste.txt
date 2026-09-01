@@ -1,5 +1,6 @@
 A-SEAT Audit Management Information System	9680
 A. APERCU SUR LE SYSTEME EDUCATIF	13478
+A. QU'EST-CE QUE LE SYSTEME SYRAD	13838
 A19 National Automated System	10714
 A19 Zimbabwe National Identification System	10714
 ABIS Automated Biometric Identification System AfCFTA	13080
@@ -41,6 +42,7 @@ APP System	11986
 APPROVES THE NATIONAL PAYMENT SYSTEM LAW	12847
 ASSESSMENT OF THE PAYMENT SYSTEMS INFRASTRUCTURE	13388
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Automated System for Customs Data CatIS	13861
 ASYCUDA Exemption System	13042
 ASYCUDA New Generation Customs Management System	13042
 ASYCUDA System for Performance Measurement	13042
@@ -303,6 +305,8 @@ Births and Deaths Registration System. The Labour	5250
 Blantyre Malawi Management System	13068
 Block Management System BOBJ	13053
 Blood System	4153
+Blue Submarine Cable System	13839
+Blue and Raman Submarine Cable Systems	13839
 BoG Payment Systems Department	1384
 BoZ Director Payment System. The Participants	12364
 Board HIS Health Information System HSNP	2775
@@ -574,6 +578,7 @@ Connecting Healthcare Systems Healthcare	12458
 Constituency Development Fund Management Information System	13423
 Constituency Development System	12375
 Construction Permit Automation System	2674
+Construction Permit System	13854
 Consultas Pré-natais Census and Survey Processing System	10777
 Consumer Protection RATING SYSTEMATIC STAGE	12214
 Consumer Protection System	11134
@@ -693,6 +698,7 @@ DIRECTION DU SYSTEME NATIONAL D’INFORMATION SANITAIRE	13306
 DIRECTOR NATIONAL PAYMENT SYSTEM	12447
 DISCLAIMER While the System Operator	11228
 DORIS Digital Online Reporting and Information System	12729
+DPCS Djibouti Port Community Systems DPI	13861
 DPI Indicators for Data Exchange Systems	7222
 DPI Indicators for Digital Identity Systems	7222
 DPI Indicators for Digital Payment Systems	7222
@@ -878,6 +884,7 @@ District Health Information System Electronic Management	12037
 District Health Information System Version	12037
 District Health Management Information System	1261
 District Health Management Information Systems	396
+Djibouti Health System Strengthening	13859
 Djibouti Port Community Systems	1288,4705
 Djibouti Ports Community System	9821,1912
 Document Management System	6432,4799
@@ -947,7 +954,7 @@ Eagle Lion System Technology Group and Tsedey	11741
 Early Warning System	11134,2505
 Early Warning System Food and Agriculture Organisation	10763
 Early Warning System for All	12689
-Early Warning Systems	11134
+Early Warning Systems	11134,2768
 Earth Observation Satellite System	2242,63
 East Africa Submarine System	12601
 East African Community Payments and Settlement Systems	13452
@@ -966,7 +973,7 @@ Economy Foundational ID System	10714
 Ecuador System	10714
 Education Data Systems	12196
 Education Information Management System	13314
-Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211
+Education Management Information System	210,1749,1460,153,1672,6308,46,262,45,13,119,15,123,21,149,63,86,522,27,2,98,167,4,18,86,211,231,41
 Education Management Information System ERP Enterprise	12917
 Education Management Information System EU	5244
 Education Management Information System EoI	12175
@@ -1111,6 +1118,7 @@ Eswatini's Healthcare Systems Now	12458
 Eswatini's National Management Information System	13016
 Eswatini’s National Payment System Vision	11130
 Eswatini’s Real-Time Gross Settlement System	12922
+Etat ATS Automated Transfer System CBD	13836
 EthSwitch. System	12269
 Ethical Impact Assessment of AI Systems	12389
 Ethics of Autonomous and Intelligent Systems	11135
@@ -1161,6 +1169,7 @@ FHIR Health Information System HIMSS Health	1009
 FINANCE MINISTER PRESENTS PAYMENT SYSTEM BILL	12735
 FINANCIAL MARKETS DIVISION NATIONAL PAYMENT SYSTEMS	4517,2461
 FINANCIAL SYSTEM IN AFRICA Fourth	6938
+FOOD SYSTEMS RESILIENCE PROGRAM FOR EASTERN	13925
 FRAMEWORK For Government Information Systems	11184
 FREIGHT LOGISTICS SYSTEM REFORM Objective	11236
 FUNCTIONAL SHIFT DUE TO AI Systems	11156
@@ -1265,6 +1274,7 @@ Gambia's National Identity Management System	6941
 Gates Foundation's Inclusive Financial Systems	12466
 Gateway Protocol BMS Building Management System	13185
 Gautrain Rapid Rail Link System	11248
+Gender Action Learning System	13936
 Gender Marker System	11863
 Gender Marker System Category	11863
 Gender-Based Violence TA Systematic Tracking of Exchanges	11905
@@ -2219,6 +2229,7 @@ National Addressing and Postcode System	2104
 National Addressing and Postcode System Eswatini	12395
 National Agency for Information Systems Security	2759,5
 National Agency for Information and Systems Security	7048
+National Agency for State Information System	13861
 National Agriculture Management Information System	12194,866
 National Archives Records Management System	12597
 National Archives and Records Management System	12597
@@ -2312,7 +2323,7 @@ National Logistics Management Integrated System	4153
 National Logistics Management System	4153,11
 National Monitoring and Evaluation Information System	9966
 National Monitoring and Evaluation System	8469
-National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3,400,238,7,31,83,182,178
+National Payment System	718,302,4400,2510,94,227,156,308,2052,407,40,1055,1,16,79,9,70,3,400,238,7,31,83,182,178,260,10
 National Payment System Act	1020,1722,2678,6540,326,1280
 National Payment System Bill	9585
 National Payment System DLT Eswatini Clearing	12444
@@ -2438,6 +2449,7 @@ Nets System Project	11924
 Nets System Project P145263 Operation Short	11924
 Network Intrusion Detection Systems	1000
 Network Monitoring System	12395
+Network SUBMARINE CABLE SYSTEMS	13851
 Network and IT Systems Protection	3722
 Network for Greening the Financial System	13532
 Networking and Systems Administration	2308
@@ -2689,6 +2701,7 @@ Philosophy and Information Systems	5349
 Physical Security and Monitoring System	13185
 Picture Archiving and Communication System	12606
 Plan NPS National Payment System NPS	13076
+Plan NPS National Payment System PDO	13836
 Points-Based Valuation System for Property Taxation	11133
 Policy and Payment System Vision	12000
 Population Administration Information System	10714
@@ -2796,6 +2809,7 @@ REPRESENTATION OF THE PEOPLE Electoral Systems	13294
 RISKS TO THE POWER SYSTEM	11228
 RSI Systematic Country Diagnosis SCD Sustainable	11855
 Rafay Systems	5439
+Raman Submarine Cable System	13839
 Ranking List Rank System Vendor	11471
 Rating SYSTEMATIC OPERATIONS RISK- RATING TOOL	11905
 Rating System	5817,1129
@@ -2964,7 +2978,7 @@ SYSTEM The Standard Operating Procedures	12338
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143
 SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416,145,330,110,1366,1
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173,587,31,862
 SYSTEMATIC STAGE FIGURE	12214
 SYSTEME	13302,166
 SYSTEME D'ENCADREMENT DES ELEVES PAR NIVEAU	10847
@@ -3133,6 +3147,7 @@ Strategy and Business Systems	6832
 Strategy and Business Systems and Digital Design and User	6832
 Street Addressing System Necessary	11129
 Strengthen Digital Payment Systems Bill	2196
+Strengthen Food Systems Resilience URL	13925
 Strengthen Health Insurance Systems Through Digital	9837
 Strengthen Information Security Management Systems	12453,892
 Strengthen National Health Information Systems	10865
@@ -3190,7 +3205,7 @@ Swaziland Interbank and Settlement System EPS Financial	12444
 Swaziland Payment Settlement System	11131
 Sybrin Systems Johannesburg	10193
 Synergy International Systems	12936
-System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55,195,6,16,6,21,32,5,11,132,125,10,13,55,7,109,8,20,74,75,7
+System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55,154,28,298,1,8,2,1,42,11,36,1,23,10,14,62,31,45,1,4,3,29,25,11,3,42,13,1,16,28,13,10,27,3,7,21,62,18,9,6,38,2,13,138,12,8,5,55,195,6,16,6,21,32,5,11,132,125,10,13,55,7,109,8,20,74,75,7,172
 System AU African Union B2B Business-to-Business	13312,2
 System Access	8999
 System Administration	2868,8285
@@ -3287,6 +3302,7 @@ System Load Residual Load Capacity GW	11953
 System Losses	12256
 System Losses System	12256
 System Ltd	6946
+System MDENI Ministry	13861
 System Maintenance	3972,182
 System Maintenance GmbH	6946
 System Management IHP	766
@@ -3419,7 +3435,7 @@ Systemic Stakeholder Analysis	12376
 Systemically	5242,1931,2443,1518
 Systemically Important Financial Market Infrastructures	4103
 Systemically Important Payment Systems	12286,251
-Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23,188,21,23,11,33,32,5,159,5,212,59,55,60,14,23
+Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7,44,10,90,54,87,1,124,7,18,60,49,4,14,577,45,81,51,101,19,70,14,56,28,2,32,94,4,141,74,2,1,31,23,188,21,23,11,33,32,5,159,5,212,59,55,60,14,23,281
 Systems Across Africa TechAfrica News	4225
 Systems Act	11551
 Systems Act Zimswitch Technologies	12490
@@ -3457,6 +3473,7 @@ Systems Mapping Building	13080
 Systems Ministry of Completion Measurement	10870
 Systems Ministry of Completion Measurement NA Economy	10870
 Systems Modernization Project	12735
+Systems Multi-Donor Trust Fund FGPCD Djibouti	13836
 Systems OPE Oshakati Premier Electric PAYGo	12399
 Systems OPs	13005
 Systems Phase	1495
@@ -3697,6 +3714,7 @@ Work Permit System	12612
 Working Paper E-tax System Adoption and Tax	12162
 Working System Reducing	10555
 World Bank Grievances Redress System	12990
+World Bank Group Djibouti Health System	13859
 World Bank System Capacity UNESCO US	11916
 World Bank Systematic Country Diagnostic	3456
 World Bank Systematic Country Diagnostic for Zambia	13332

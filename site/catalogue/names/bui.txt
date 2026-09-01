@@ -143,7 +143,7 @@ Build. The National Cybersecurity Strategy	1777
 Builder	7409,3734
 Builders	10464
 Builders Summit	8424
-Building	54,342,182,183,138,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9,61,22,29,8,7,4,2,6,41,27,9,84,41,67,91,2,5,1,4,38,15,2,2,16,30,16,4,4,51,43,2,14,37,1,65,3,1,3,13,6,1,2,4,1,37,37,18,23,30,3,37,9,8,15,2,37,15,17,45,6,8,13,1,4,57,11,1,17,8,32,54,95,53,17,26,4,15,4,5,9,2,26,9,7,2,16,4,15,28,13,27,44,65,40,2,34,37,3,32,39,3,9,3,3,27,19,9,12,53,27,30,31,20,90
+Building	54,342,182,183,138,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9,61,22,29,8,7,4,2,6,41,27,9,84,41,67,91,2,5,1,4,38,15,2,2,16,30,16,4,4,51,43,2,14,37,1,65,3,1,3,13,6,1,2,4,1,37,37,18,23,30,3,37,9,8,15,2,37,15,17,45,6,8,13,1,4,57,11,1,17,8,32,54,95,53,17,26,4,15,4,5,9,2,26,9,7,2,16,4,15,28,13,27,44,65,40,2,34,37,3,32,39,3,9,3,3,27,19,9,12,53,27,30,31,20,90,38,40,6,37
 Building AI	9261,3414
 Building AI Capacity	12675
 Building AI for Strategic Resource Governance	7955
@@ -345,7 +345,7 @@ Buildings Infrastructure	13060
 Buildings Revaluation	11131
 Buildings Works	2775
 Builds	128,403,105,53,172,37,191,61,318,438,194,243,52,128,153,716,1617,131,735,478,758,148,695,4292,198,593
-Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53,31,232,368,11,49,22,154,11,67,204,133,103,313,53,105,5,67,373,133
+Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53,31,232,368,11,49,22,154,11,67,204,133,103,313,53,105,5,67,373,133,48,7,7,17
 Built Beneath the Surface	3292,1688,360,1433
 Built Environment	1988,2540,3559,4425
 Built Environment and Technology	10323
@@ -425,6 +425,7 @@ Capacity Building and Education Pillar	4528,7984
 Capacity Building and Education Unit	4528,7984
 Capacity Building and Improving	12138
 Capacity Building and Institutionalization	12008
+Capacity Building and Knowledge Transfer Train	13925
 Capacity Building and Mentorship Program	12255
 Capacity Building and Mentorship Program Universities	1824
 Capacity Building and Readiness The Office	11134
@@ -476,7 +477,9 @@ Continental Building	12984
 Continuous Professional Development and Capacity Building	11791
 Courtside Building	1900,11173
 Cyber Security Capacity Building Programme for Developing	1264
+Cybersecurity Capacity Building Expert	13880
 D. Capacity Building	11905
+DARE1 Southward Extension Building	13869
 DATA CENTER BUILD	10861
 DBTP Decentralised Build Together Programme DBN	12923
 DESIGN OF BUILDING Single Detached Housing	11129
@@ -551,6 +554,7 @@ GovStack Building Blocks	6423
 GovStack Building Blocks Specification	5700
 Government Agencies and Capacity Building. Table	12917
 Government Building	12253
+Government Foundation and Institutional Building	13830,20
 Government of Malawi Buildings	13053
 Green ICT's Build	12453
 Greening and Capacity Building	11131
@@ -576,6 +580,7 @@ Human Capital and Resilience Building Cash	10768
 Human Resource Capacity Building and Land	12326
 ICT Infrastructure and Capacity Building	4484
 ICT Networks and Capacity Building	12917
+IGAD Builds	13880
 II. BUILDING AN INCLUSIVE AND DEEP	12588
 INSTITUTION BUILDING	13474
 IOM African Capacity Building Centre	10317
@@ -788,6 +793,7 @@ Stakeholder Engagement and Building Partnerships	12642
 Stakeholder Engagement and Capacity Building The Research	1554
 Stanger Building Construction	11986
 Star Green Building Council of South Africa	11134
+State Building	13902
 State and Peace Building Fund Grant	11525
 Statistics and Statistical Capacity Building	650
 Statstics Modernization and Capacity Building	1788,1417,3881

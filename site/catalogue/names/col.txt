@@ -391,6 +391,7 @@ Collect.android	13375
 Collectables	8494
 Collectant	13341
 Collecte	747,1,9964,109,54,1,99,969,1356,41,36,13,391
+CollecteDeDonnées	13904
 Collected	13053
 Collectent	10876
 Collecter	998,7,9812,158,2315,85,77,16
@@ -729,6 +730,7 @@ Data Collection and Registration Centre	11928
 Data Colonialism	961,7668
 Data MIS Collection Collection Households	10964
 Data Source Baseline Result Data Collection	13095
+Data Validation and Coordination Collaborate	13925
 Data and Information Collection	12530
 Data for Health Cross-Country Collaboration Series	11157
 Dates of Data Collection Mode	10862

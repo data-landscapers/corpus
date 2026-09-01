@@ -73,6 +73,7 @@ Apr-19 Jun	5875
 Apr-25 May-25 Jun-25 AGO PMS JET	12256
 Apr-25 May-25 Jun-25 Figure	12256
 Apr-27 Jul-26 Mar-26 Page	2989
+Arab Network of Judicial Inspection Services	13865
 ArchitectsTerror-TheSentry June2023.pdf	4127
 Areas Beyond National Jurisdiction	8681
 Artificial Intelligence Enters the Justice System	11641
@@ -175,7 +176,7 @@ Cabo de San Juan	3179
 Cambridge Judge Business School	6231,1843,1946
 Camtel Chief Executive Judith Yah Sunday	7801
 Caroline Juma Data Processor INST-295685B3306 KAKAMEGA	7167
-Casier Judiciaire	2048,2596
+Casier Judiciaire	2048,2596,9211
 Categories Cybersecurity Allan Juma	9830
 Catholic Commission for Justice	2993
 Center for Human Rights and Global Justice	1823
@@ -204,7 +205,7 @@ Christina Justice	13094
 Citizen Justice Chacha Mwita	6796
 City of Justice	10103
 Climate Justice Coalition	9682,1008
-Closing Period Jun	11971
+Closing Period Jun	11971,1949
 Cloud Policy. Jurisdiction	6432
 Co-respondent JUDGMENT	1919
 Cofre Geral da Justiça	10750
@@ -643,6 +644,7 @@ International Association of Women Judges	2626
 International Commission of Jurists	1642,9008,435
 International Commission of Jurists Kenya Section	12227
 International Court of Justice	7452
+Interopérabilité Juridique	13841
 Início Legislação Dicionário Jurídico	11374
 Irish Department of Justice	7147
 Italy Identification Document Jun	10714
@@ -836,6 +838,7 @@ Judgments	11198,1722
 Judicael Elidje	9766
 Judicature	12453,892,139
 Judicaël Gbaguidi	7355
+Judiciaires	13908
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
 Judicial	477,62,3322,348,2178,2449,1296,620,156,480,568,245,25,34,77,1,75,135,372,52,532
@@ -927,6 +930,7 @@ Judith Yah Sunday	10255
 Judith Yah Sunday Achidi	6606
 Judith Yah Sunday. La CEO	4355
 Judy Obitra Gama	9696
+Judyth L. Twigg. ICR Review Coordinator	13850
 Jueces	4209
 Juegos	4209
 Juez Distrito	4209
@@ -954,7 +958,7 @@ JuiCAP	8673
 Juice	4673,5372
 Juicetel	8652
 Juicyway	9754
-Juillet	998,2161,32,111,275,3377,5,98,160,57,71,79,146,1,52,17,172,46,71,70,68,161,29,13,907,1699,99,969,1357,113,38,237,28
+Juillet	998,2161,32,111,275,3377,5,98,160,57,71,79,146,1,52,17,172,46,71,70,68,161,29,13,907,1699,99,969,1357,113,38,237,28,117,43
 Juillet-août-septembre	8321
 Juin Juillet Aout Septembre Octobre Novembre	13452
 Juin-25	6737
@@ -1166,6 +1170,7 @@ Jun- May-26	2989
 Jun-20 Jun-21	718
 Jun-2013	11924
 Jun-2013 Decision Review	11924
+Jun-2014	13826
 Jun-2014 Moderately Satisfactory Moderately Satisfactory	11924
 Jun-2015 Satisfactory Satisfactory	11924
 Jun-2017	11469
@@ -1173,8 +1178,8 @@ Jun-2018	11924,1798
 Jun-2018 Portal Financial Management	11924
 Jun-2019	381
 Jun-2019. Listed	381
-Jun-2020	11469
-Jun-2021	761
+Jun-2020	11469,2364,83
+Jun-2021	761,13065,14
 Jun-2021 Moderately Satisfactory Moderately Satisfactory	11924
 Jun-2021. Estimated Board Date	761
 Jun-2021. Report	761
@@ -1190,6 +1195,7 @@ Jun-2024 Effectiveness	2712,3867
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
 Jun-2024 Yes Apr	11395
 Jun-2024. Component	1704
+Jun-2024. Original	13850
 Jun-2025	4653,2180,4037,1382,174
 Jun-2025 Bank	13332
 Jun-2025 Closing Period Result Month	4653
@@ -1735,12 +1741,14 @@ MILLION OF THEM LIVE IN JUST	10977
 MINIJUST Ministry of Justice MoH Ministry of Health	12413
 MINISTER JUMOKE ODUWOLE EXPLAINS WHAT NIGERIA	12026
 MINISTERE DE LA JUSTICE	2048
+MINISTERE DE LA JUSTICE ET DES	13940
 MINISTERIO DE JUSTICIA	4209
 MINISTRA DE JUSTIÇA INAUGURA CENTRO REFORMULADO	11540
 MINISTRO O Ministério da Justiça	10750
 MINISTRY OF JUSTICE AND CONSTITUTIONAL	13126
 MINISTRY OF JUSTICE AND LABOUR	13037
 MINISTRY OF JUSTICE AND LABOUR RELATIONS	13189
+MINISTÈRE DE LA JUSTICE ET DES	13908
 MINISTÉRIO DA JUSTIÇA	12862
 MINISTÉRIO DA JUSTIÇA E DOS DIREITOS	10750,1,1,1
 MINJUSDH Ministério da Justiça	10765,10
@@ -1828,7 +1836,7 @@ Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721,1357
 Ministry Justice	12674
 Ministry of Education and Ministry of Justice	13310
 Ministry of Foreign Ministry of Territorial Security Justice	10812
-Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49
+Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49,135,17
 Ministry of Justice Foreign Affairs	1777
 Ministry of Justice MOH	12338
 Ministry of Justice Ministries	1161

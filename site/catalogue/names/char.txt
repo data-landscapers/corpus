@@ -67,7 +67,9 @@ CHARACTERS	13311
 CHARBON	13300
 CHARBON DE BOIS	13300
 CHARGE DE L'INDUSTRIE Projet de Décret	4402
-CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402
+CHARGE DES DROITS DE L'HOMME	13908,32
+CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
+CHARGE DES RELATIONS AVEC LE PARLEMENT	13940
 CHARGEABLE RATES	13496
 CHARGES AND FEES DIRECTIVES	13304
 CHARGES ENERGETIQUES	4420
@@ -145,7 +147,7 @@ Charged	9123
 Chargement	11673,1701,1,352
 Chargement des Lots	13375
 Charger	9668,1208,2499
-Charges	2077,265,134,85,822,13,440,3104,3835,200,645,241,83,56,606,698
+Charges	2077,265,134,85,822,13,440,3104,3835,200,645,241,83,56,606,698,619
 Charges Financières	1682
 Charges Public Consultations National Frequency Allocation	9109
 Charges and Cost Structure	11861
@@ -336,7 +338,7 @@ Cut Phone Charges Zambia Launches GovLink	2362
 Cybercrime Charge	8849
 D. Fintech Trust and Safety Charter	4848
 DEMOGRAPHIC CHARACTERISTICS	11192
-DES FINANCES CHARGE DE L'INDUSTRIE	6902
+DES FINANCES CHARGE DE L'INDUSTRIE	6902,7038
 DISCLOSURE BDO Zimbabwe Chartered Accountants	4896
 DISPOSITIONS RELATIVES AUX CHARGES- RECRUTEMENTS	4420
 DL Charges	11774
@@ -359,6 +361,7 @@ Director Mr. Charles Ocici	8969
 Director-General Charles Odii	11309
 Disclosure of Bank Charges	12447
 Doris Duke Charitable Foundation	12246
+Dr. Charles Businge	13870
 Dr. Charles Kuria Njuguna	13166
 Dr. Charles Ndakala	13310
 Dr. Charles Ndakala Director-Curriculum Development	13392
@@ -469,6 +472,9 @@ Lucy Charles-Shaidi	10020
 Lucy Wakiaga and Charity Waweru-Mwangi	6948
 M for Payment Rails Growth By Charles	6397
 MEF Charles ILBOUDO	10885
+MINISTERE DELEGUE CHARGE DE L'ECONOMIE NUMERIQUE	13846
+MINISTÈRE DU TRAVAIL CHARGÉ	13891
+MINISTÈRE DÉLÉGUÉ CHARGÉ DE L'ECONOMIE NUMÉRIQUE	13882
 Main Characteristics and Features The ASYCUDA	13042
 Malawi Charter of Rights for Patients	12242
 Malawi Standard Chartered Bank Zambia Plc	12252
@@ -507,6 +513,7 @@ Organisational Structure Service Charter	12515
 Organization Charts	3861
 Out-of-Bundle Charges Submission	4732
 Ownership Characteristics	12445
+PARAMETRES DE LA CHARGE UTILE	13844
 PECG2 Charlotte CHEUMANI	11863
 PHASE CHARACTERISTICS TYPICAL STRATEGIES Phase	6432
 PRISE EN CHARGE DES OPÉRATIONS ET	10711

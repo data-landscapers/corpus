@@ -33,12 +33,13 @@ Applicant Signature Position Held Date Area	736
 Applicant Signature Position Held Date Official	736
 Application Type Date	1877
 Appraisal Stage. Date Prepared	761,13032
-Approval Date	4653,7312,255,454,1060
+Approval Date	4653,7312,255,454,1060,163
 Approval Date Investment Project IBRD	1284
 Approval Date Practice Area	1704
 Approval Date Social Risk Rating	3604
 Approved Date Approvi	736
 ApprovingOffice Approved Date	736
+Apr-2018. Closing Date	13850
 Arrangement Loan Closing Date Extension Loan	4653
 Arrangements Additional Financing Loan Closing Date	11924
 Assignation PERMISSIONNAIRE REFERENCE DECISION DATE	998
@@ -47,6 +48,7 @@ Ausland Dateiname	8546
 Avon Rise Avenue Date Daily	4896
 BADEA's Board of Directors Date	12634
 BORDEREAU DES PRIX Date	13524
+Bank Approval Date	13830,20
 Bank of Zambia ZIPSS Rules Date of Issue	12364
 Bank. Governor Date Bank of Namibia	12943
 Bid Opening Date	13621
@@ -84,7 +86,7 @@ Central Africa Date	6764
 Change Date	9892,1
 Classification Expiration Date	1284
 Clients Additional Financing Loan Closing Date	11924
-Closing Date	2473,3832,2421,2053,2252,6
+Closing Date	2473,3832,2421,2053,2252,6,838
 Closing Date CKS	11269
 Closing Date Extension Components Results Legal	11924
 Closing Date Guarantee Environmental and Social Risk	1284
@@ -111,7 +113,7 @@ Cost of Date of Date	13031
 Country of Delivery Date	13185
 Covered Date System	3972
 Crawford Date	3583
-Create Date	9854,1414,1405
+Create Date	9854,1414,1405,1172
 Current Cancellation New for Status Currency Date	2473
 Current Closing Date	12220
 DATE APPROXIMATE	2092,2333,9
@@ -191,7 +193,7 @@ Date Passed	11976
 Date Posted	5213
 Date Posted Zambia	5501
 Date Practice Area	13111
-Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264,50
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
 Date Received Time Received Subscriber’s BOZ	12364
@@ -205,6 +207,7 @@ Date Time Received Received Subscriber’s BOZ	12364
 Date Title	12693
 Date Updated	8831
 Date Value Date Sep	10870
+Date de Publication	13825,2,1,1,3,3,8,3,6,25,46,14,3
 Date of Adjustment	13185
 Date of Application	12364
 Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1,669,6,13,3,1,17,11,1,1,19,32,93,1
@@ -239,7 +242,7 @@ Datenschutz	11316
 Datenschutzbehörde	8436
 Datenschutzbehörde and CRIF	8436
 Datenzentrum	902
-Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441,110
+Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441,110,31
 Dates Under Review	9022,3286
 Dates of Consultations	1778
 Dates of Data Collection Mode	10862
@@ -336,6 +339,7 @@ IBRD-92180 Bank Approval Date	10779
 IBRD-93450 Bank Approval Date	10779
 ICTD Date	12162
 ICTD. Date	12485
+IDA-62270. Closing Date	13850
 IDC BID CLOSING DATE	11209
 IFC Collaboration No Expected Approval Date	1284
 IHS Holding Limited Dated	8939
@@ -398,7 +402,7 @@ Line Description of Goods Delivery Date Quantity	13185
 Link CLOSING DATE	11240
 Listing Date	4896
 Loan Closing Date	1228,56
-Loan Closing Date Extension	2473,9451,41
+Loan Closing Date Extension	2473,9451,41,1896
 MOTHIBI G. RAMUSI CHAIRPERSON DATE	4732
 MP MATSOSO DIRECTOR-GENERAL DATE	396
 MP MINISTER OF HEALTH DATE	396
@@ -440,6 +444,7 @@ National Procurement Pitso. Date	5449
 National Treasury Date	4633
 NewZimbabwe.com Date	13675
 No. Date ISR Archived DO Rating	11924
+Nov-2018. Current Closing Date	13897
 Nov-2020. Closing Date	11965
 Nov-2020. Operation Closing Date	11965
 Nov-2021 Region Estimated Board Date AFRICA	10963
@@ -463,6 +468,7 @@ Ouest. Date	9906
 P174171. Estimated Appraisal Date	12669
 PIDDC01229. Date Prepared	12426
 PIDIA01308. Date Prepared	12412
+PM CDT Next Release Date	13930
 PM CLOSING DATE	11240
 PMCI Date	2342
 PNUD Mauritanie. Date	765
@@ -485,6 +491,7 @@ Preferred Date	12211
 Printer Computer Specifications DATE QUANTITY	34
 Production Contract Renewal Date N	9124
 Program MS Current Closing Date Dec	13392
+Progress. Date	13858
 Project Closing Date	11863
 Project’s Effective Date	1264
 Project’s Effective Date. Guinea ESCP	1264

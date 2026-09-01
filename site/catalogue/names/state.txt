@@ -131,7 +131,7 @@ Any Member State. the Council of Ministers	11517
 Appropriation Statement	1607,1,1,1,1,1,1,9617
 Arab Emirates United Kingdom United States	10764
 Arab Member States Country Expert Name	2958
-Arab States	6946,3818,799,2098,4
+Arab States	6946,3818,799,2098,4,237
 Arab States Algeria Global Cybersecurity Index	10764
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Asia-Pacific Indonesia India International	11563
@@ -386,6 +386,7 @@ Directorate General of Taxes and State Property	7290
 Directors of States Statistical Agencies	11851
 Directors’ Responsibility Statement	13053
 Disclosure Statement	11209
+Djibouti State	13929
 Documents Monetary Policy Statements Reports Legislations	12390
 Documents Statement	13457
 Drawing Rights SDHUD State Department for Housing	2775
@@ -422,7 +423,7 @@ ES United States Embassy Eswatini	4247
 ESG Performance Overview and Awards Executive Statements	9103
 ESWATINI PREAMBLE The United States	4247
 EU Joint Press Statement	9067
-EU Member States	644,145,181,8582,538,1120,16,767,208,1259
+EU Member States	644,145,181,8582,538,1120,16,767,208,1259,423
 EU Member States Ambassadors	13170
 EU Member States. Special	10090
 EU and Member States	970,10566
@@ -445,7 +446,7 @@ Economic Community of African States	10841
 Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381,1047
 Economic Community of Central African States ESO	10841
 Economic Community of Central African States European	9616
-Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112
+Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112,1718
 Economic Community of West African States EGDI	11545
 Economic Community of West African States EMIS	5244
 Economic Community of West African States President	10838
@@ -645,7 +646,7 @@ HISTORICAL FINANCIAL STATEMENTS	4896
 HRVP Josep Borell's Statement.pdf	12201
 Haryana State	3791
 Head of Service of Rivers State	7659
-Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584
+Head of State	1644,265,1862,449,342,1425,501,36,1722,259,1,2481,144,414,415,1584,367
 Head of State Brice Clotaire Oligui Nguema	3579
 Head of State and Minister	6806
 Head of State. Priority	3891
@@ -675,7 +676,10 @@ ICT and Digital Economy Budget Policy Statement	5108
 ID BRR Civil State Registration	10714
 IDENTITY The State Parties	1243
 IFRs and Annual Financial Statements	10768
-IGAD Member States	6928,2279,1427
+IGAD Heads of State and Government	13870
+IGAD Member State	13922
+IGAD Member States	6928,2279,1427,3246,56
+IGAD Member States In-Country Training	13936
 IHS Cameroon and State-owned	11728
 III. Context and Current State Interventions	13512
 INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
@@ -695,6 +699,10 @@ Income Statement	4896,7059
 Income and Expenditure Statement	13420
 Incubators United States	4972
 Incubators United States All	4972
+Independent Public Media. See the State Media	13929
+Independent State Funded Media	13929
+Independent State Funded and State Managed	13929
+Independent State Managed	13929
 India's Minister of State for External Affairs	3363
 Industry and Trade and State Business Relations	12977
 Informal State	12119
@@ -819,7 +827,7 @@ Large Taxpayer Offices and State Suppliers	10792
 Latest Audited Financial Statements	11209
 Law Republic States	12201
 Leadership Statement	11131
-League of Arab States	2958,202,4973,512,1393,1700
+League of Arab States	2958,202,4973,512,1393,1700,2164
 Legal and Regulatory Frameworks Policy Statement	7548
 Lesotho Government Press Statement	12687
 Level of Heads of State And Government	3583
@@ -893,7 +901,7 @@ Member State of SADC	958
 Member State. AVERAGE Organize	5677
 Member State. Section	28
 Member State. This Supplementary Act	11517
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4,93,19,12,15,141,98,81,37,40,92,3,146,137,29,160,79,34,31,31,84,57,61,9,5,23,1,20,10,22,48,21,85,8,63,21,70,72,6,52,17,23,77,6,66,26,215,10,9,7,26
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Questionnaire	10840,1054
@@ -1039,6 +1047,7 @@ Nasarawa State Information Technology and Digital Economy	12050
 Nasarawa State University	8560
 Nation Address SSA State Security Agency	5533
 National Agency for State Digitalization	6228
+National Agency for State Information System	13861
 National Budget Policy Statement	5851
 National Budget Speech and Statement	4100,293
 National Budget Statement	4101,288,1,2
@@ -1402,6 +1411,7 @@ Small Island Developing State	10348,984,237
 Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734
 Small Island Developing States SIGMAT Regional	13042
 Small Island Developing States. Education	8992
+Small Islands Developing States	13889
 Small Medium and Micro Enterprises SOC State	11224
 Small State	1284,583,1695,42,7164,61,135,453,143,295,50,60,1366,1,402,9
 Small States	7060,4849
@@ -1427,7 +1437,7 @@ Spectrum Management States	12395
 Speech Commissioner HHS Statement	11283
 Speech STATEMENT FOR H.E. Moses Vilakati	11283
 StatEduc	1017,930,12,1007,3082,2339,3809
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137,100,7,5,7,17,33,21,56,41,24,37,31,1,56,2,2,3,2,22,1,10,5,5,1,19,14,10,3,3,1,20,10,8,4,6,16,18,12,4,83,8,6,8,1,14,11,3,13,4,22,5,21,41,1,7,35,1,12,1,4,14,4,23,3,28,29,3,28,61,1,3,4,6,5,1,20,41,22,10,59,51,45,74,1,1,1,6,3,4,6,8,9,1,6,15,8,3,15,2,3,51,7,20,36,12,19,58,91,11,7,1,1,1,8,6,2,1,2,1,1,3,5,13,13,29,1,5,4,12,17,32,6,12,23,11,37,20,5,73,15,208,49,18
 State AI Observatory	11135
 State Abbreviation International	11129
 State Accounts	12951
@@ -1447,6 +1457,7 @@ State Board	11976
 State Border Management and Trade Facilitation Single	13403
 State Budget	5841,186,5509,319,84,16
 State Budgets	11536
+State Building	13902
 State Bureau of Statistics	11860
 State Business Relations	12956
 State CID Yaba	8471
@@ -1459,6 +1470,7 @@ State Committee	11129,731,341
 State Committees	11860
 State Compliance	6946
 State Connectivity Infrastructure Modernization Project	4548
+State Controlled Media	13929
 State Corporation	6946,2909
 State Corporations	6946,3367
 State Corporations Act	6787,159,3367,1362
@@ -1505,6 +1517,7 @@ State Department for Transport	10313
 State Department of Emerging Technologies B2-Private	7548
 State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268
 State Department of Immigration and Citizen Services	3936
+State Department of Public Health and Professional Standards	13870
 State Department of Talent Development	7548
 State Department of Water	2428
 State Department's	4202
@@ -1548,6 +1561,7 @@ State Governor Lieutenant General Mohammed Ahmed	9587
 State Governors	3456,845
 State Govts	11857
 State Govts Various	11857
+State Great Khural	13902
 State Health Insurance Schemes	12004
 State High Court	11956
 State Hospital	12367
@@ -1601,6 +1615,9 @@ State Level At the State	11129
 State Level and FCT	11860
 State Library	12720
 State Maintenance	12383
+State Managed	13929
+State Media Monitor	13929
+State Media Monitor URL	13929
 State Minister	5356,2827,1190,1104,1756,267
 State Minister for Communications Ahmed Osman Dirie	9373
 State Minister for Finance	1150,7202,1947
@@ -1616,6 +1633,7 @@ State Minister of Finance Mohamed Nour Abdel	8923
 State Minister of Finance for Investment and Privatisation	320
 State Minister of Foreign Affairs	3408,10032
 State Minister of General Education and Instruction	8940
+State Minister of Health and Human Services	13870
 State Minister of Information	8330
 State Minister of Internal Affairs Gen David	2820
 State Minister of Trade and Regional Integration	12259
@@ -1778,7 +1796,7 @@ State of Mobile Internet Connectivity Report	1243,12209
 State of Nation Address Date	12566
 State of Open Data	1814
 State of Origin	11861
-State of Palestine	2958,7806,421
+State of Palestine	2958,7806,421,2721
 State of Palestine Global Cybersecurity Index	10764
 State of Passwordless Identity Assurance	9902
 State of Play	3391
@@ -1891,6 +1909,7 @@ Stateless Determination and Protection Bill	12984
 Stateless Persons	2106,9799,240
 Statelessness	1963
 Statelessness Conventions	4257
+Statelessness Statistics	13873
 Statelessness and Climate Change Factsheet	1867
 Statement	1243,292,200,95,158,638,281,807,387,288,3,191,313,1292,244,1116,958,537,60,1210,408,47,25,21,340,2,25,16,1,11,26,605,485,17,22,119,146,17,20,384,3,258,9,23,77,146,58
 Statement 0.pdf Author	13122
@@ -1947,7 +1966,7 @@ Statements of Cash Flows	13420
 Statements of Expenditures	1264
 StateofPrey TheSentry-Oct2020.pdf	4127
 StateofPrey-TheSentry Oct2020.pdf	4127
-States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17,242,55,39,9,92,101,43,49,3,34,34,26,2,20,5,17,6,16,125,19,24,13,26,98,602,113,2,166,106,12,62,15,59,101,43,6,61,8,71
+States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17,242,55,39,9,92,101,43,49,3,34,34,26,2,20,5,17,6,16,125,19,24,13,26,98,602,113,2,166,106,12,62,15,59,101,43,6,61,8,71,154
 States CNE	12201
 States DHIS2	1959
 States Embassy Monrovia	4202
@@ -2195,7 +2214,7 @@ United States and South Africa. Figure	12376
 United States and South Korea	11028
 United States and South Korea. Minerva	11050
 United States and Uganda	4217
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715,257,59,209,93,133,317,22,138,1,187,151,1,421
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Email	13042

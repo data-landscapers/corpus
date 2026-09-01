@@ -179,11 +179,11 @@ Mobile Satellite Services	10407
 Mobile Satellite Station	736
 Mobile Satellite Station Details Type	736
 Moderate Satisfactory. Compensation	13054
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,657,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87
 Moderately Satisfactory Component	13054
 Moderately Satisfactory Jun	6928
-Moderately Satisfactory Overall Implementation Progress	6579,5409
-Moderately Satisfactory Overall Risk Rating	6579,5409
+Moderately Satisfactory Overall Implementation Progress	6579,5409,1932
+Moderately Satisfactory Overall Risk Rating	6579,5409,1932
 Moderately Satisfactory Progress	11971
 Moderately Satisfactory. Achievement Rating	10779
 Moderately Satisfactory. As the Highly Satisfactory	10779
@@ -199,6 +199,7 @@ NGSO Satellite System Space	2913
 NIA. INTEGRATED NATIONAL SATELLITE INFRASTRUCTURE DEPLOYMENT	11857
 NIGCOMSAT Communications Satellite SUPEB Resources	11857
 NJtE SAtDY	11517
+NOS SATELLITES	13844
 NamRA Satellite Office	13108
 Name Satisfactory Satisfactory Progress	12228,39,173
 Natcom SAT-3	7329
@@ -430,7 +431,7 @@ Satisfacer	1701
 Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248,187,1011
 Satisfaction Connecting Availability	6051
 Satisfaction Trend Glo T2	6051
-Satisfactory	1228,62,963,636,4988,2902,40,51,16,509,22,488,19,41,6,1009,47,27,405
+Satisfactory	1228,62,959,4,636,4988,2902,40,51,16,509,22,488,19,41,6,1009,47,27,405,367,7
 Satisfactory Component	13054
 Satisfactory Moderately Satisfactory	10779
 Satisfactory Moderately Satisfactory Current	2989

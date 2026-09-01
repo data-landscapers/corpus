@@ -42,9 +42,11 @@ NIVEAU PRIMAIRE Résidence	13300
 NIVEAU SECONDAIRE Résidence	13300
 Nationalité Sexe Age Niveau	13390
 Niveau	643,94,450,60,737,492,920,3500,63,1932,1821,146,17,1,99,786,282,1257,24,51,15,52,193,97
+Niveau Administrative	13841
 Niveau Comité	10712
 Niveau Comité Comités	10712
 Niveau Indicateurs	11944
+Niveau Interagences	13841
 Niveau International	5370
 Niveau National	13433
 Niveau National Femme Homme	13390

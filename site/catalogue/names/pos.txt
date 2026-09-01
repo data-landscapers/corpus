@@ -80,10 +80,12 @@ Balance Sheet Position Equity	11955
 Balance Sheet Position Net Assets	11955
 Balance of Payments International Investment Position	2775
 Bangkok Post	7972
+Bank's Positioning and Comparative Advantages	13885
 Banking and POS Terminals	6671
 Banks Are Better Positioned	8717
 Bank’s Distribution Partners Postbank	8999
 Bank’s Position Paper	12365
+Banque Postale	13908
 Banque Postale Congo	6954
 Barr. Bisi Adegbuyi POSTMASTER-GENERAL	11129
 Beitbridge Border Post	1713,6454,332
@@ -131,7 +133,7 @@ CBN Requires All POS Machines	3491
 CEO of La Poste de Côte	4093,18
 CEO of Post Connect	4093
 CEO of Post Connect. La Poste de Côte	4111
-CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402
+CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402,9506
 CI ROXGOLD SANGO POSTE CI SHILOH	2342
 CNE Postado	10271
 COMMUNES ET POSTES CONSULAIRES	3381
@@ -434,10 +436,11 @@ LA POSTE Au Burundi	13390
 LA POSTE BF	3396,4274
 LONGUE DURÉE D’ACTION1 Possession	13300
 LYD. POS	5143
-La Poste	4093,571,217,1,32,3,2324,3451
+La Poste	4093,571,217,1,32,3,2324,3451,3163
 La Poste Burkina Faso	7670,1839
 La Poste Côte	6710
 La Poste de Côte	4093,18,553,22
+La Poste de Djibouti LA MAISON	13855
 La Poste du Bénin SA	6240
 Largo António Jacinto Caixa Postal	10766
 Latest Posts Anthropic	9769
@@ -882,7 +885,7 @@ Posse de Bens	10777
 Posse de MTI	10777
 Posse de Mosquiteiros Tratados	10777
 Possemato	2948
-Possess	7538
+Possess	7538,6398
 Possessed Photography	5224
 Possesses	26,736
 Possessing	3391,8937,1180
@@ -963,6 +966,7 @@ Post Ofice	11178
 Post Open	11855
 Post Open Direct Contract Quality	11855
 Post Open Request	11855
+Post PDO Project Development Objective PEFA	13861
 Post PESS and Thematic Analysis for Statistics	32
 Post Press Releases and Statements	11251
 Post Recent Posts Climate	9682
@@ -1258,9 +1262,10 @@ Postcom	9776,83
 Postconditions	6423
 Postdoctoral Fellow. Additional	10840
 Postdoctoral Researcher	7112
-Poste	969,29,180,420,337,76,65,266,192,252,3,91,9,467,164,288,208,115,53,222,396,11,697,243,10,3,450,969,52,439,135,288,346,1120,353,7,50,737,110,73,1,1,1,77,154,468,104,243,99,1247,100
+Poste	969,29,180,420,337,76,65,266,192,252,3,91,9,467,164,288,208,115,53,222,396,11,697,243,10,3,450,969,52,439,135,288,346,1120,353,7,50,737,110,73,1,1,1,77,154,468,104,243,99,1247,100,465,53
 Poste Burkina Faso	5491
 Poste CI	2342
+Poste Call	13908
 Poste Code	13390
 Poste HIRE GOLD MINE IMMSA AIGF	2342
 Poste Hommes Femmes	10975
@@ -1274,6 +1279,7 @@ Poste SA	3540
 Poste de Bafoussam	10975
 Poste de Deido	10975
 Poste de Directeur	2400,40,1,1,1,304,373,300,2086,273,1345
+Poste de Djibouti	13908
 Poste de Maroua	10975
 Poste de Ngaoundéré	10975
 Poste de Nsimalen	10975
@@ -1293,7 +1299,7 @@ Poster	13300
 Poster Presentation	13021
 Posteriormente	11633,486
 Posters	13095
-Postes	37,528,404,220,96,1,1,47,3,313,32,8,54,93,76,60,78,39,193,17,41,5,96,98,14,2,40,59,77,7,54,61,9,69,10,78,78,6,19,1,14,35,67,28,30,4,17,27,22,2,26,10,49,14,2,1,101,60,25,7,3,2,86,36,3,17,6,7,102,19,47,36,30,134,18,27,24,7,77,6,3,14,15,1,14,141,1,66,40,24,74,77,1,51,7,5,32,1,4,13,129,105,89,121,54,76,159,11,15,27,1,36,323,159,34,84,23,38,37,154,74,16,30,20,1,16,219,170,40,77,5,27,48,67,478,16,1,83,68,110,120,47,110,47,40,93,22,1,64,87,26,346,89,18,55,59,311,106,80,95,98,164,4,68,27,3,22,2,162,2,59,87,152,20,71,41,92,84,429,118,3,244,85,13,36,24,1187,11,5,35,142,306,22
+Postes	37,528,404,220,96,1,1,47,3,313,32,8,54,93,76,60,78,39,193,17,41,5,96,98,14,2,40,59,77,7,54,61,9,69,10,78,78,6,19,1,14,35,67,28,30,4,17,27,22,2,26,10,49,14,2,1,101,60,25,7,3,2,86,36,3,17,6,7,102,19,47,36,30,134,18,27,24,7,77,6,3,14,15,1,14,141,1,66,40,24,74,77,1,51,7,5,32,1,4,13,129,105,89,121,54,76,159,11,15,27,1,36,323,159,34,84,23,38,37,154,74,16,30,20,1,16,219,170,40,77,5,27,48,67,478,16,1,83,68,110,120,47,110,47,40,93,22,1,64,87,26,346,89,18,55,59,311,106,80,95,98,164,4,68,27,3,22,2,162,2,59,87,152,20,71,41,92,84,429,118,3,244,85,13,36,24,1187,11,5,35,142,306,22,53,65,13
 Postes Consulaires Dossier	3381
 Postes Direction Générale des TIC	13341
 Postes Et Telecommunications	4384
@@ -1405,7 +1411,7 @@ Posts and Electronic Communications Minister Aminata Zerbo	6091
 Posts and ICT	13312,2
 Posts and ICT MSME Micro	13312,2
 Posts and Points and Customs	10762
-Posts and Telecommunications	969,1540,885,1364,4,7,19,1,1184,360,512,454,699,5314,2
+Posts and Telecommunications	969,1540,885,1364,4,7,19,1,1184,360,512,454,699,5314,2,615,4
 Posts and Telecommunications Corporation	225,3176
 Posts and Telecommunications Institute of Technology	1962
 Posts and Telecommunications Justin Gourna Zacko	6185

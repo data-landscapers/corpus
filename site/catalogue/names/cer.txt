@@ -161,6 +161,7 @@ CERT Malawi Computer Emergency Response Team	12240
 CERT NZ	6936
 CERT National Health Cybersecurity Emergency Response	12240
 CERT and ICTAM	12240
+CERT and PKI	13830
 CERT-GH	775
 CERT-GH RFC	775
 CERT-In and Ng-CERT	11925
@@ -199,7 +200,7 @@ CERTIFIEE CONFORME CERTIFIED TRUE COPY PART	10974
 CERTINUM	6810,209,1727,1452
 CERTMU	4850
 CERTS	5677
-CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588,84,1384
+CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588,84,1384,1648
 CERTs and Cybersecurity Operations Centres	9964
 CERVANNA CARE LIMITED Data Controller INST-66209110F70	7167
 CERVIDA	2966
@@ -226,6 +227,7 @@ Cabo Verde Covid Certificate Cabo Verde	11939
 Cameroun. Certains	10965
 Capacity Certified Digital Trainer	12241
 Carolina Cerqueira. Promulgada	3519,7890,16
+Catalogue of Interoperable Solutions CERT Computer Emergency	13861
 Center for Media Studies and Peacebuilding CERT	5244
 Ceramic	13385
 Cerca	795,3249,6713,830
@@ -268,7 +270,7 @@ Certain Residents of Namibia	12984
 Certain Responsible Parties	11255
 Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770,1545,10,60,4,26,43,113
 Certainly	11665,1796,16
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246,199,168,1178,10,29,31,15,15,52,71,33,27,309
 Certains Camerounais	3808
 Certains EMF	11944
 Certainty	5487,6370
@@ -323,7 +325,7 @@ Certificados de Encriptação	794
 Certificados de Registo Criminal	10750
 Certificados de Título de Terra Formato	11898
 Certificar	11376
-Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344
+Certificat	1706,1339,407,968,1111,686,4,1567,949,2139,2499,344,136
 Certificat Foncier	13375
 Certificat Foncier Figure	13375
 Certificat Foncier Recto	13375
@@ -411,7 +413,7 @@ Certificates of Origin. External	12539
 Certificates of Recognition and Merit	7702
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166,185,89,296,1,29,527,1,110,26,6,31,3,114,135,55,330,141
 Certification Authorities	9880
 Certification Authority	1009,10175,1650
 Certification Authority and Digital Trust Centre	2692

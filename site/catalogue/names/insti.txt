@@ -287,6 +287,7 @@ Conselho de Revisão Institucional	10777
 Consulted Stakeholders ID Name of Institution	12674
 Consumériste Appui Institutionnel Financière	10975
 Contact Information SMART Zambia Institute	12375,6
+Context B. Sectoral and Institutional Context II	13856
 Converged Institutions	13295
 Cooperação Institucional	10747
 Corporate and Institutional Venture	7548
@@ -338,7 +339,7 @@ Desenvolvimento Institucional	11379
 Development Association INSTAD Djibouti’s National Institute	11271
 Development Finance Institute Canada	9275
 Development Finance Institution	11240
-Development Finance Institutions	4972,7643,445
+Development Finance Institutions	4972,7643,445,823
 Development Finance Institutions and National Treasury	11215
 Development Financial Institutions	970
 Development Institutes	10098
@@ -552,6 +553,7 @@ Governance and Institutional Reform Expert	12008
 Governance and Institutional Setting	11553
 Governance and Institutions	11545,1786
 Government Departments Institution	736
+Government Foundation and Institutional Building	13830,20
 Government Institute	2473
 Government Institution	736
 Government Institutions	12843,254,28
@@ -793,7 +795,7 @@ Instituições de Moeda Eletrónica As Instituições de Moeda	11933
 Instituições de Pagamento As Instituições de Pagamento	11933
 Instituições-chave	11569
 Instituições. Os	11377
-Institut	737,10,1,2218,645,791,198,214,9,534,491,166,221,155,827,279,35,24,115,346,305,244,1,11,318,391,431,319,34,156,177,33,77,334,27,1,18,780,16,179,37,16,51,52,78,1275,65,26,131,75
+Institut	737,10,1,2218,645,791,198,214,9,534,491,166,221,155,827,279,35,24,115,346,305,244,1,11,318,391,431,319,34,156,177,33,77,334,27,1,18,780,16,179,37,16,51,52,78,1275,65,26,131,75,226,4,19
 Institut Africain	8906
 Institut Centrafricain des Statistiques	7675
 Institut Centrafricaine des Etudes Economiques	10826
@@ -810,7 +812,7 @@ Institut Jazari ROOT	11346
 Institut Malgache des Techniques de Planification	7725
 Institut Marocain de Normalisation	9406
 Institut Monétaire Ouest-Africain	8556
-Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732,527,35,22,5,45,45,1,10,998,9,1352,43,13,3,314,39,58,2
+Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732,527,35,22,5,45,45,1,10,998,9,1352,43,13,3,314,39,58,2,117,14
 Institut National Polytechnique Félix Houphouët-Boigny	3604
 Institut National de IM Recherche	11905
 Institut National de Sante Publique	10940
@@ -952,6 +954,7 @@ Institute of South Africa NICIS National Integrated	11196
 Institute of South Africa and AI Hubs	4970
 Institute of Standards and Technology	11196
 Institute of Statistics	10780,745
+Institute of Statistics of Djibouti	13873
 Institute of Statistics of Rwanda	12385
 Institute of Tax Administration	13053
 Institute of Tax Administration KPAs	13053
@@ -1370,7 +1373,7 @@ Institutos Nacionais de Estatística	8051
 Institutos Nacionais de Segurança de IA	2816
 Institutos Públicos	11361,20,1
 Institutos de Medicina Legal	11537
-Instituts	8072,884,1517,401,1070
+Instituts	8072,884,1517,401,1070,1902
 Instituts Al Jazari. Cette	4600
 Instituts Jazari	4833
 Instituts Nationaux	11944

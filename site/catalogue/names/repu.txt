@@ -33,7 +33,7 @@ Albania Austria Croatia Czech Republic Georgia	10764
 Annex. Republic of Congo	1828
 April. Republic of South Africa	6512
 April. Republic of South Africa. Department of Home	6512
-Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837
+Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837,930
 Arab Republic of Egypt Right Honourable Russell	13440
 Argentina and Dominican Republic. Five	11004
 Audit and Investigations Gavi Programme Audit Republic	11401
@@ -336,7 +336,7 @@ FISCAL GENERAL DE LA REPUBLICA Mensual	4209
 FRAMEWORK FOR THE FEDERAL REPUBLIC	11468
 FUND TO THE REPUBLIC OF ZAMBIA	13459
 Federal Democratic Republic Of Ethiopia	4576
-Federal Democratic Republic of Ethiopia	156,594,12,528,3059,1476,136,1577,1993,2615,39,3,38,7,24,1193
+Federal Democratic Republic of Ethiopia	156,594,12,528,3059,1476,136,1577,1993,2615,39,3,38,7,24,1193,420
 Federal Democratic Republic of Ethiopia His Excellency	13440
 Federal Democratic Republic of Ethiopia Vital Event	12188
 Federal Democratic Republic of Ethiopia and Chairperson	5825
@@ -365,7 +365,7 @@ Federal Republic of Nigeria. Interpretation. SECTION	12145
 Federal Republic of Nigeria. Nigeria	3226
 Federal Republic of Nigeria. PREAMBLE	9660
 Federal Republic of Nigeria. The Kingdom of Eswatini	12962
-Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41
+Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1,685,948,10,160,41,219
 Federal Republic of Somalia. The Upper House	12492
 Federal Republic of Yugoslavia	11765
 Federal Republic ofNigeria	4301,1
@@ -448,7 +448,7 @@ Kosovo United Republic of Tanzania United States	11765
 Kyrgyz Republic	10714,71,192,28
 Kyrgyz Republic Unified State Register	10714
 Kyrgyz Republic. Trop Med Infect Dis	10784
-LA REPUBLIQUE	10898,5
+LA REPUBLIQUE	10898,5,3020
 LA REPUBLIQUE AGENCE DE REGULATION ET	13324,90
 LA REPUBLIQUE CENTRAFRICAINE Tengho Serge Marcellin	10826
 LA REPUBLIQUE DU BURUNDI ENQUÊTE NATIONALE	13390
@@ -476,6 +476,7 @@ MILLION TO THE CENTRAL AFRICAN REPUBLIC	10829
 MILLION TO THE REPUBLIC OF ANGOLA	10768,612
 MILLION TO THE REPUBLIC OF BOTSWANA	12560
 MILLION TO THE REPUBLIC OF GUINEA	1178,86
+MILLION TO THE Republic of Djibouti	13860
 MINISTER REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 MINISTERE DE LA COMMUNICATION REPUBLIQUE	2738,453,135
 MINISTERE DE L’ENSEIGNEMENT SUPERIEUR REPUBLIQUE	12
@@ -598,6 +599,7 @@ REPUBLIC OF CAMEROON REPUBLIQUE DU CAMEROUN	10980
 REPUBLIC OF CONGO	1828
 REPUBLIC OF CONGO FOR TRANSFORMING	11905
 REPUBLIC OF CONGO SELECTED ISSUES	1828
+REPUBLIC OF DJIBOUTI	13836,20
 REPUBLIC OF ETHIOPIA	4349
 REPUBLIC OF GHANA	4126
 REPUBLIC OF GHANA Appendix SURVEY	582
@@ -707,7 +709,7 @@ Readiness Analysis DRC Democratic Republic of Congo	11545
 References Republic of South Africa. Department of Home	6512
 Refugee Profiles The Central African Republic	10841
 Repubblica	8774
-Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31,132,216,191,8,66,46,15,103,31,42,203,9,4,7,7,1,1,7,1,24,1,3,2,3,16,16,1,15,69,12,9,4,35,34,36
+Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31,132,216,191,8,66,46,15,103,31,42,203,9,4,7,7,1,1,7,1,24,1,3,2,3,16,16,1,15,69,12,9,4,35,34,36,309
 Republic Angola	10775
 Republic CC	12201
 Republic Day	13509
@@ -815,7 +817,11 @@ Republic of Croatia	11529
 Republic of Côte	3281,323,3848,3056
 Republic of D	11867
 Republic of Data	9128
-Republic of Djibouti	450,1799,904,1142,4350
+Republic of Djibouti	450,1799,904,1142,4350,5181,4,1,2,4,3,17,5,8,18,8,3,27,17
+Republic of Djibouti FOR Public	13861
+Republic of Djibouti URL	13943
+Republic of Djibouti Urban	13897
+Republic of Djibouti. Responsible Agency	13897
 Republic of Equatorial Guinea	8192
 Republic of Estonia	12961
 Republic of Estonia Ministry of Foreign Affairs	12427
@@ -843,7 +849,7 @@ Republic of Iraq. Gambia	13042
 Republic of Ireland	12410
 Republic of Italy	13207
 Republic of Japan	10989
-Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1,331,13,76,4,724,485,170,41
+Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1,331,13,76,4,724,485,170,41,219,74
 Republic of Kenya Ministry of Health	10822
 Republic of Kenya Your Lordship	12955
 Republic of Kenya and Africa Finance Corporation	10313
@@ -970,10 +976,10 @@ Republic of South Africa. The DHA	11986
 Republic of South Africa. The Marriage Bill	5533
 Republic of South Africa’s Department of Higher Education	6832
 Republic of South Korea	3601
-Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41
+Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1,357,1446,41,219
 Republic of South Sudan South Sudan Poverty	3583
 Republic of South Sudan. SDGs	3583
-Republic of Sudan	1851,4013,7576
+Republic of Sudan	1851,4013,7576,430
 Republic of Sudan Phone	5864
 Republic of Tanzania	11289
 Republic of The Comoros	13816
@@ -984,8 +990,9 @@ Republic of Togo	10509,1195
 Republic of Tunisia	7074,1571,591,1583
 Republic of Tunisia Honourable Mulambo Haimbe	13440
 Republic of Tunisia Page	10819
-Republic of Uganda	107,213,436,526,1723,1212,896,1836,1018,3839,1,357,1446,41,22
+Republic of Uganda	107,213,436,526,1723,1212,896,1836,1018,3839,1,357,1446,41,22,197
 Republic of Uganda Excellence M. Mohamed Ali	13440
+Republic of Uganda and Acting Coordinator	13896
 Republic of Uganda and Chairperson	13673
 Republic of United States of America Mozambique	10713
 Republic of Uruguay	13226

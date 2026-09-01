@@ -135,7 +135,7 @@ CRASA and SADC Secretariats	26,1,1
 CRS Secretary Paul Mwangemi	5299
 CS Cabinet Secretary for ICT CSP Cloud	6432
 Cabinet Secretaries	2742,4806,2765,1493
-Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217,675,12,81,24,24,21,13
+Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217,675,12,81,24,24,21,13,1556
 Cabinet Secretary MICDE	7548
 Cabinet Secretary Ministry for ICT and Digital Economy	1245
 Cabinet Secretary Ministry of Information	7548
@@ -321,11 +321,13 @@ Executive Secretary Wendlassida Patrice Compaoré	4182
 Executive Secretary Wisdom Kwaku Deku	2829,3473
 Executive Secretary ZPC	11133
 Executive Secretary and Chief Executive Officer	7317
+Executive Secretary for Public Finance Reforms	13910
 Executive Secretary of ATAF	7694
 Executive Secretary of Cell	12338,75
 Executive Secretary of Cell. Available	12338
 Executive Secretary of GACC	7457
 Executive Secretary of Héritiers	11864,4
+Executive Secretary of IGAD and Chairman	13870
 Executive Secretary of NBTE	9575,180
 Executive Secretary of SADC	9959,210,2773
 Executive Secretary of SADC. Summit	12640
@@ -424,6 +426,7 @@ IDs. NRB Principal Secretary Patrick Machika	7041
 IFM de Ségou. Le Secrétaire	8577
 IGAD Secretariat	9207,2383
 IGAD Secretariat Immigration Expert Mujib Jemal	10317
+IGAD's Secretariat	13936
 III.1.3.1.1 Le Secrétariat Exécutif	10876
 INCM Secretariat	3489
 INTERPOL General Secretariat	6426
@@ -448,6 +451,7 @@ Internal Audit NPC Secretariat Director	11224
 Internet Governance Secretariat	8038
 Intérprete Traductor Bilingüe Secretario Particular	4209
 Item GCSP- Top Secret	6432
+JICA. Les Secrétaires Généraux	13898
 Jean Tchoffo Secretary General	10963
 John OMO Secretary General	10235
 John OMO Secretary General Attachment	6488,586
@@ -709,7 +713,7 @@ Primer Secretario A3	4209
 Principal Secretaries	5536,5763,1000,113,560,4
 Principal Secretaries for Interior	6787
 Principal Secretaries for Reforms	10736
-Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102
+Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14,259,9,1,1,17,7,7,29,138,16,26,36,5,24,4,49,3,18,26,13,2,8,102,644
 Principal Secretary John Tanui	10668
 Principal Secretary Ministry for Finance Non-Executive Board	11131,3
 Principal Secretary Ministry of Homeland and Security	13214
@@ -850,6 +854,7 @@ SETIC Executive Secretary and PAFEN	6061
 SETIC Secrétariat Exécutif des TIC SIF Land	13312,2
 SETIC- Secrétariat Exécutif des Technologies	13395
 SGCB-UMOA Secrétariat Général	4459
+SGG Secretary General	13861
 SMART AFRICA SECRETARIAT FOREWORD	10819
 SMEs. The Secretariat	6127
 SPIVTEN Permanent Secretary Dr. Yaya Traoré	7361
@@ -951,6 +956,7 @@ Secretariat of National Development Coordinating Committee	13318
 Secretariat of Provincial Development Coordinating Committee	13318
 Secretariat. Accountability	7548
 Secretariat. Infrastructure	7548
+Secretariat. PREAMBLE RECALLING WITH APPRECIATION	13870
 Secretariat. The Commission	3583
 Secretaries	4896
 Secretaries and Administrative Assistant Training	13095
@@ -1042,7 +1048,7 @@ Secretary Dr. Aminah Zawedde	6247
 Secretary Dr. Loretta N. Mkhonta	11134
 Secretary Federal Ministry of Education	11860
 Secretary GENDER DIVISION	13399
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307,364,1187,178,81,130,191,239,65
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
 Secretary General John Omo	9236,2264
@@ -1109,7 +1115,7 @@ Secretary of Tax Tribunal	12629
 Secretary of USPF	10386
 Secretary's Desk First Edition	13503
 Secretary's Desk Q1-2026 A PDF	13503
-Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413
+Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139,188,872,836,667,413,58
 Secretary-General António Guterres	8143
 Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
@@ -1166,10 +1172,11 @@ Secretários Executivos Adjuntos	11561
 Secretários Executivos Adjuntos. Os	11561
 Secré-	13405
 Secréloire Générol	10813
-Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65
+Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525,1614,2,83,30,183,84,21,65,126,16
 Secrétaire Dans	13405
 Secrétaire Exécutif	3045,316,7515
 Secrétaire Exécutif SIG Système	10876
+Secrétaire Exécutif des Réformes des Finances Publiques	13891
 Secrétaire Exécutif du SETIC	13290,192,108
 Secrétaire Exécutif. L'OQSF	3361
 Secrétaire Général	548,683,4583,540,4138,344,1108,1697,140
@@ -1182,6 +1189,7 @@ Secrétaire Général du CNEF. Le CNSMO	11944
 Secrétaire Général du CNPA	13781
 Secrétaire Général du Gouvernement	8750
 Secrétaire Général du MFBSB	13796
+Secrétaire Général du MVUH	13898
 Secrétaire Général du Ministère	10712,1232
 Secrétaire Permanent	11926,1415,64,141,6,22
 Secrétaire Permanent du Ministère	13341
@@ -1208,6 +1216,7 @@ Secrétariat Général du COMESA	13290
 Secrétariat Général du Gouvernement	233,2888,275,5354,1071,1776,2156
 Secrétariat Général du Gouvernement Dans	3121
 Secrétariat Général du Gouvernement. Ce	8750
+Secrétariat Général du Gouvernment	13861
 Secrétariat Juridique	2342
 Secrétariat Permanent	4020,7896,1390,69
 Secrétariat Permanent Secondaire	11916
@@ -1362,6 +1371,7 @@ WCO Secretariat	13051
 WINNING SECRETS Serving	13044
 WIPO Secretariat	11883
 Wanted Notices The Executive Secretary of Héritiers	11868
+Web. Le Secrétaire	13884
 X Private Secretary	13097
 Yaoundé Secretariat	10841
 Yes. The Cabinet Secretary	11247

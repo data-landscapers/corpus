@@ -49,7 +49,7 @@ B. Contents	1638
 B. Contents of Bidding Document For Clarification	13185
 B. Contents of Request for Bids Document	13185
 B. Introduction and Context	761,11651,14,243
-B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6
+B. Introduction and Context Country Context	1704,587,1165,7507,2148,676,6,44
 B. Introduction and Context Country Context Mozambique	12832
 B. Introduction and Context Mozambique	12137
 B. SECTOR AND INSTITUTIONAL CONTEXT	11863
@@ -63,7 +63,7 @@ BBOXX CAPITAL RDC. Table of Contents Acronyms	11572
 BIZPEPE CONTENT MARKETING Data Controller INST-30734770842	7167
 BLOX Content Management System	4261
 BUDGET ALLOCATION CONTEXT	1810
-Background and Context	10028,2907,483
+Background and Context	10028,2907,483,455
 Background and Context Somalia	9766
 Background and Context The Republic of Cabo Verde	12008
 Background and Statistical Development Context	13359
@@ -94,6 +94,7 @@ CHAPITRE II DU CONTENU DES DOCUMENTS	10813
 CHAPITRE II DU CONTENU ET	10813
 CIPC Context CIPC	12041
 CIPESA Table of Contents	13313
+COCF TABLE OF CONTENTS CURRENCY EQUIVALENTS	13885
 COMMUNICATION AUTHORITY OF KENYA Table of Contents	6946
 CONFIDENT SUFFICIENT IS NOT CONTENT CONTACTING	11964
 CONFIDENT SUFFICIENT NOT RELEVANT CONTENT CONTACTING	11004
@@ -125,7 +126,7 @@ CONTENTS ENHANCING DOMESTIC REVENUE MOBILIZATION	13624
 CONTENTS FOREWORD	961,3165
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 CONTENTS FOREWORDS EXEC SUMMARY INTRODUCTION FINDINGS	5618
-CONTENTS I. BACKGROUND AND RATIONALE	1284
+CONTENTS I. BACKGROUND AND RATIONALE	1284,12576
 CONTENTS IV FOREWARD	12941
 CONTENTS LIST OF ACRONYMS	11586
 CONTENTS LIST OF TABLES AND FIGURES	11261
@@ -174,6 +175,7 @@ CONTEXTS Literature	1248
 CONTEÚDOS DIGITAIS	11397
 COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
 COUNTRY CONTEXT AND DEVELOPMENT AGENDA	12968
+COUNTRY CONTEXT AND OUTLOOK	13885
 COUNTRY CONTEXT The Democratic Republic	11960
 COUNTRY CONTEXT While the Democratic Republic of Congo	11918
 COUNTRY CONTEXT Zimbabwe	940
@@ -313,6 +315,7 @@ Contesting	11050
 Contesting Dominant Algorithmic Imaginaries	11028
 Conteudo	12169
 Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55,306,7,32,47,345,11,25,26,252,232,488,1,56
+Context B. Sectoral and Institutional Context II	13856
 Context Baía de Luanda	11366
 Context Country Context Zimbabwe	13523
 Context Global VC	10954
@@ -437,6 +440,7 @@ Economic Context Cameroon	10841
 Economic Context Central African Republic	10841
 Economic Context Chad	10841
 Economic Context Equatorial Guinea	10841
+Economic Context and Outlook	13885
 Ecosystem Tatweer Misr Backs ConTech and CleanTech	5322
 Education and Priority Content	12982
 Educational Content	6748,6223
@@ -460,6 +464,7 @@ Fast Content Creation E-Government Desktop Only	6051
 Fidelity TABLE OF CONTENTS DATASHEET	6539
 Financial Community of Africa TABLE OF CONTENTS	11549
 Financial Content	4127
+Foreword National Context Key Results	13865
 Foreword and Context	5677
 Foreword and Context Final Report	5677
 Fournisseurs de Contenus	13291
@@ -504,6 +509,7 @@ I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924
 I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345,271,1155,1
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1
+I. STRATEGIC CONTEXT A. Project Strategic	13856
 I. Strategic Context	13743
 I.1.1 Contexte	10876
 ICF. CONTENTS	13454
@@ -607,6 +613,7 @@ Namibian Context	4980,7943
 Nation. Content D5 NIRA Free Collaboration	11857
 National Context	7548,4004,658
 National Context Currently	12210
+National Context Djibouti	13865
 National Context Guinea-Bissau	11552
 National Context Kenya	7548,4662
 Network TABLE OF CONTENTS	6936
@@ -659,6 +666,7 @@ Policy Context and Environment	11265
 Policy Context for Nigeria	6442
 Policy Context'. Supporting	12419
 Policy and Regulatory Context	1009
+Political Context and Outlook	13885
 Political Environment Global Context	12210
 Popular Content	6632,366
 Presidential Contest and Coalition Dynamics	7869,53
@@ -710,6 +718,7 @@ STRATEGIC CONTEXT Tunisia	1818
 Schedule of Requirements Contents	13185
 Schwarz GmbH ContentLens.ai Barcelona Provincial Council	8530
 Scope Implementation Guidelines Education Content	2958
+Sector Context	13885
 Sector Context and Notable Progress Digital	3604
 Sector Overview and Context	13582
 Sector Research Department. Contents	774
@@ -724,6 +733,8 @@ Service des Affaires Contentieuses Suivi du Marché	10975
 Setting the Context	13005
 Setting the Context NRB	13005
 Shutterstock. DIGITAL SKILLS IN NIGERIA Contents	11879
+Social Context and Cross-Cutting Themes	13885
+Social Registry. TABLE OF CONTENTS DATASHEET	13856
 Social and Political Context	12968
 Socio-Economic Impact Main Article Content Abstract	8671
 Sponsored Content	767
@@ -736,6 +747,7 @@ Support for Local Content	10157
 Support of MSB Contestable Customers	12399
 Supremo Tribunal de Justiça. CAPÍTULO V CONTENCIOSO	11528
 SÍNTESE DO CONTEÚDO DO DIPLOMA	11461
+TABLE DES MATIERES CONTEXTE	13890
 TABLE OF CONTENT	12907
 TABLE OF CONTENT FOREWORD	7548
 TABLE OF CONTENT First Edition	10819

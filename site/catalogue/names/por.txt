@@ -69,6 +69,7 @@ COMESA Trade Information Portal	13563
 COMMUNICATION AND TECHNOLOGY PORTFOLIO COMMITTEE	13131
 CONSOLIDAÇÃO DO PROGRAMA DE CONECTIVIDADE POR	11397
 CONSTITUTIONAL AFFAIRS PORTFOLIO COMMITTEE	13131
+COUNTRY PORTFOLIO PERFORMANCE	13885
 CPLP. Brazil and Portugal	10188
 CRAN Portal	1944
 CRESCIMENTO TRIMESTRAL DE UTILIZADORES POR OPERADOR	11531
@@ -154,6 +155,7 @@ DISTRIBUIÇÃO DE TRABALHADORES POR GRUPOS PROFISSIONAIS	11531
 DISTRIBUIÇÃO POR UNIDADE ORGÂNICA	11531
 DM Port St Johns	11986
 DPC Investment Portfolio Excellence Award	13688
+DPCS Djibouti Port Community Systems DPI	13861
 DPI Mogadishu Somali National Job Portal	5172
 DU NOUVEAU CADRE JURIDIQUE DU PORTEFEUILLE	2342
 DU PORTEFEUILLE DE L’ETAT Rapport Annuel	2342
@@ -275,7 +277,7 @@ GSP Portal	8121
 Garantie Partielle de Portefeuille	7891
 Genève. Portée	7282
 Geographic Portal for Namibia	13031
-Gestion du Portefeuille	2342
+Gestion du Portefeuille	2342,11598
 Gov Portal	5642,1189
 Government Digital Services Single Portal	11965
 Government Employee Portal	12359
@@ -354,6 +356,7 @@ Kenya Cyberspace Portal	2447
 Kenya Ports Authority	8274,1162
 Kenya Ports Authority CEO Captain William	8274
 Key Infrastructure NPRC Number Portability Routing	6946
+L Portant Code Numérique	13877
 LAPSSET Lamu Port Southern Sudan-Ethiopia Transport	2775
 LE PORTAIL NATIONAL DU SERVICE PUBLIC	10819
 LMIS Portal	12612
@@ -398,6 +401,7 @@ Mauritius Mauritius Bureau PORT LOUIS	10621
 Member Portal	13533
 Members of Parliamentary Portfolio Committee	13562
 Metodologia Por	12862
+Middle East and Europe. Neighboring Port Sudan	13921
 Migration Data Portal	6372,1
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Mining Cadastre Portal	12987
@@ -650,6 +654,7 @@ Port Harcourt and Benin City	5874
 Port Health	13042
 Port IPMI Communication	9475
 Port Information System. The PAC	10856
+Port Labor Supply	13931
 Port Loko	4619,3195
 Port Louis	3292,567,6437,325,711,800,1310
 Port Louis Mauritius	11332
@@ -660,7 +665,7 @@ Port Reitz	12256
 Port Said	1213,1096,4322,3747
 Port Secondary Communication	9475
 Port St Johns Information Health	11986
-Port Sudan	1851,886,846,3364
+Port Sudan	1851,886,846,3364,6989
 Port Sudan City	1887
 Port Tape Library	9475
 Port Trade Service	9213
@@ -671,6 +676,7 @@ Port of Antwerp	10592
 Port of Antwerp International	11536
 Port of Bissau	11536,39
 Port of Cotonou	2392,8464
+Port of Djibouti	13931
 Port of Durban	10595
 Port of Le Havre	7722
 Port of Lomé	10203
@@ -713,6 +719,7 @@ Portability Guidelines	7548
 Portability Testing	5665
 Portability and Interoperability Safeguards	10157
 Portabilité	1231
+Portabilité des Données	13841
 Portable	1988,4958,205,6234
 Portable Document Format PII Personally Identifiable	34
 Portable Document Format Patient Demographics Query	1009
@@ -720,6 +727,8 @@ Portable Lanterns	12191
 Portable Satellite Terminals	10407
 Portador de Moeda Electrónica	11386
 Portail	235,513,17,418,1767,1472,2017,515,258,725,1112,972,44,480,67,99,2630,86,72,161
+Portail Interactif	13905
+Portail Interactif de Djibouti Plateforme	13905
 Portail National	9277
 Portail National des Collectivités Territoriales	557
 Portail Open Data	9277
@@ -798,7 +807,7 @@ Porte Parole Prosper NTAHORWAMIYE	13329
 Porte-monnaie	10711
 Porte-parolat	13511
 Porte-parole	2808,237,146,4264,5972
-Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243
+Porte-parole du Gouvernement	2738,70,237,281,1076,1665,1266,1243,5332
 Porte-parole du Gouvernement Edgard Anicet MBOUMBOU MIYAKOU	548
 Porte-parole du Gouvernement. Ouvrant	11151
 Ported	6737
@@ -935,8 +944,9 @@ Portulans Institute	1243,11431
 Portuária	4747,3305,677
 Portuárias. ARTIGO	11514
 Portuário	8729,2798
-Porté	2851,2085,576,722,1592,699,15,1281,430,3572
+Porté	2851,2085,576,722,1592,699,15,1281,430,3572,71
 Portée	1187,1763,829,641,1153,576,1384,122,485,189,196,111,255,353,376,246,339,327,44,135,379,2200
+Portée du CID	13841
 Portés	5992
 Portôn	11461
 Porém	795,2021,5065,1295,1855,428,2,82,34,542
@@ -1051,6 +1061,7 @@ TABLING OF PORTFOLIO COMMITTEES' REPORTS	13131
 TAS-JCP Total AS Portfolio	11469
 TAXPAYER PORTAL Website	10762
 TEMPO MÉDIO GLOBAL DE COMUNICAÇÃO POR	11531
+TITRE ET PORTEE	13828
 TMCEL. The Portuguese	7381
 TRAINING PORTFOLIO COMMITTEE	13131
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
@@ -1096,6 +1107,7 @@ University of Port Harcourt	8560
 Upcoming Data Center Portfolio	2572
 Use of Local Port Services	12389
 V. BUT ET PORTÉE DE L’ETUDE	13635
+VII Portant	13825
 VOA Portugu	9399
 VOA Português	2816
 Vaincrons PORTE-PAROLE DU GOUVERNEMENT COMPTE RENDU	8321

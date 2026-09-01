@@ -15,6 +15,7 @@ ARN A Autoridade Reguladora Nacional	11531
 ARN-TIC Autoridade Reguladora Nacional	11552
 ARN. CAPÍTULO IV AUTORIZAÇÃO GERAL ARTIGO	11520
 ASYCUDA Automated System for Customs Data AWP	969
+ASYCUDA Automated System for Customs Data CatIS	13861
 ASYPM The Automated System for Performance Measurement	13042
 AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
@@ -385,8 +386,10 @@ Autorité Ministérielle	13334
 Autorité Ministérietle	13334
 Autorité Monétaire	10965
 Autorité Nationale	1231,517,618,2036
-Autorité Nationale de Cybersécurité	4255,2894
+Autorité Nationale de Cybersécurité	4255,2894,6737,5
+Autorité Nationale de Cybersécurité. Dans	13886
 Autorité Nationale de Cybersécurité. L'ANC	7149
+Autorité Nationale de Régulation des Médias	13929
 Autorité Nationale de Régulation des TIC	13716
 Autorité Nationale de Régulation des Technologies	13722,59
 Autorité Nationale de Sécurité des Systèmes	7668
@@ -406,7 +409,7 @@ Autorité de Protection. Article	1231
 Autorité de RégulatiDn des Communications Electroniques	37
 Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342
 Autorité de Régulation CHAPITRE	13781
-Autorité de Régulation Multisectorielle de Djibouti	4402
+Autorité de Régulation Multisectorielle de Djibouti	4402,9451
 Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des CCDB Marchés Publics	11905
 Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357
@@ -570,6 +573,7 @@ Esta Autoridade	11531
 Estabelecimento da Autoridade Reguladora Nacional	11518
 Estatisticas Usuarios Autorizados	12156
 Estimated Automated	11986
+Etat ATS Automated Transfer System CBD	13836
 Ethics of Autonomous and Intelligent Systems	11135
 Ethiopian Automated Transfer System	12269
 Evidence Autorité de Régulation des Télécommunications	10911
@@ -757,6 +761,7 @@ Swaziland Automated Electronic Clearing House	12484
 System CCV Computer Coded Verbal Autopsy	12413
 Système Interbancaire de Compensation Automatisé	10922
 Système de Gros Montants Automatisé	969
+Système de Règlement Automatisé de Djibouti	13838
 Système de Transfert Automatisé	7283,3639
 Système des Gros Montants Automatisé	10724
 Sénégal Automatisation des Consolidation	10711
