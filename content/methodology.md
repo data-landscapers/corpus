@@ -27,7 +27,7 @@ The aim of Corpus is to provide a fast-track information service for researchers
 	  - All process instructions are written in markdown and managed by Obsidian
 ## Data collection
 
-The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 4 focused searches that repeat every 4 days.
+The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 3 focused searches that repeat every 3 days. Most of the searches are defined by lookup lists that can be altered without
 
 - **Daily**
   Searches for items published in the past 48 hours for:
@@ -49,7 +49,6 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 	- Governance (institutions and instruments, excluding data exchange)
 	- Data exchange (content, not transport)
 	- Demand and political economy
-- **Day 4**
   Deep searches for regions and [regional institutions](lookups/#regional-institutions) focusing on:
 	- Policy collaboration and coordination
 	- Legal harmonisation

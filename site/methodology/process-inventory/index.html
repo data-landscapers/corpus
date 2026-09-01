@@ -68,8 +68,8 @@
       <a href="../lookups/">Process Lookups</a>
       </nav>
       <h2 id="introduction">Introduction</h2>
-      <p>Corpus is run by written procedure. Every step below is a markdown file — an instruction document a language model reads and follows — or a Python script that checks or renders what those steps produced. The table is the whole inventory, in the order the work happens: collection first, then classification and storage, then the reports, then the checks that run before anything is published.</p>
-      <p>Two repositories are involved and the split is visible in the file names. Collection and classification run on the private machine that holds the source text; everything from <em>Notice a cycle has closed</em> onwards runs on this one, over the metadata the first machine publishes. <a href="../document-lifecycle/">Document Lifecycle</a> is the same system told as a story, following one document from a Somali news site to three published reports.</p>
+      <p>Corpus is run by written procedure. Every step below is a markdown file - an instruction document a language model reads and follows - or a Python script that checks or renders what those steps produced. The table is the whole inventory, in the order the work happens: collection first, then classification and storage, then the reports, then the checks that run before anything is published.</p>
+      <p>Two repositories are involved and the split is visible in the file names. Collection and classification run on the private machine that holds the source text; everything from <em>Notice a cycle has closed</em> onwards runs on a second machine, over the metadata the first machine publishes. <a href="../document-lifecycle/">Document Lifecycle</a> is the same system told as a story, following one document from a Somali news site to three published reports.</p>
       <h2 id="the-processes">The processes</h2>
       <table>
       <thead>
@@ -83,37 +83,37 @@
       <tr>
       <td><strong>Decide what this cycle looks for</strong></td>
       <td><code>SWEEP-<wbr>CYCLE.md</code></td>
-      <td>Orchestrates a collection run, started by hand — there is no scheduled trigger. Runs one test search first and abandons the run if the search service is down, rather than recording a false empty result. Selects the least-recently-run day from a rotation, passes that day's sweeps their collection window, runs them, then ingest, then the checks, committing at each boundary. Holds a hard budget on how much work one run may spawn.</td>
+      <td>Orchestrates a collection run, currently started by hand but due to be automated. Runs one test search first and abandons the run if the search service (Exa) is down. Selects the least-recently-run day from a rotation, passes that day's sweeps their collection window, runs them, then ingest, then the checks, committing at each boundary.</td>
       </tr>
       <tr>
       <td><strong>Sweep the standing list of trade journals</strong></td>
       <td><code>SWEEP-<wbr>DAILY-<wbr>LIST.md</code></td>
-      <td>Works a fixed list of domains for what each published since the last run, with a 24-hour overlap so a late-indexed story is caught next time. Three instruments in union, not in sequence: the publisher's own feed where it has one, its listing page, and a date-bounded domain-scoped search. Takes every date from the article body, never from a listing or a page header. Keeps its own high-water mark rather than being handed a window.</td>
+      <td>Works a <a href="https://corpus.data-landscapers.io/methodology/lookups/#daily-journals">lookup list of domains</a> for what each published since the last run, with a 24-hour overlap so a late-indexed story is caught next time. Three instruments in union, not in sequence: the publisher's own RSS feed where it has one, its listing page, and a date-bounded domain-scoped search. Takes every date from the article body, never from a listing or a page header.</td>
       </tr>
       <tr>
       <td><strong>Sweep the open web</strong></td>
       <td><code>SWEEP-<wbr>DAILY-<wbr>OFFLIST.md</code></td>
-      <td>Everything <em>not</em> on that list, on two thematic tracks, using a deep research agent rather than a domain-scoped search — one track Africa-scoped, one worldwide for material that bears on Africa. This is the sweep that finds publishers Corpus does not yet know about, and it shares the other's staging machinery but not its searching.</td>
+      <td>Everything <em>not</em> on that list, on two thematic tracks, using a deep research agent rather than a domain-scoped search — one track Africa-scoped, one worldwide for material that bears on Africa. This is the sweep that finds publishers Corpus does not yet know about.</td>
       </tr>
       <tr>
-      <td><strong>Sweep newspapers, journals and think tanks</strong></td>
-      <td><code>SWEEP-<wbr>NEWSPAPERS.md</code>, <code>SWEEP-<wbr>JOURNALS.md</code>, <code>SWEEP-<wbr>THINKTANKS.md</code></td>
-      <td>Content-scoped rather than time-scoped: each works its own list and picks up whatever has appeared since it last ran, however long ago that was.</td>
+      <td><strong>Sweep national newspapers, academic journals and think tanks</strong></td>
+      <td><a href="https://corpus.data-landscapers.io/methodology/lookups/#national-newspapers"><code>SWEEP-<wbr>NEWSPAPERS.md</code></a>, <a href="https://corpus.data-landscapers.io/methodology/lookups/#academic-journals"><code>SWEEP-<wbr>JOURNALS.md</code></a>, <a href="https://corpus.data-landscapers.io/methodology/lookups/#ngos-and-think-tanks"><code>SWEEP-<wbr>THINKTANKS.md</code></a></td>
+      <td>Content-scoped: each works its own list and picks up whatever has appeared since it last ran, however long ago that was.</td>
       </tr>
       <tr>
       <td><strong>Sweep the money</strong></td>
-      <td><code>SWEEP-<wbr>FINANCIERS.md</code>, <code>SWEEP-<wbr>IATI.md</code></td>
-      <td>The first walks a list of financiers, looking at commitments, plans, reviews and critique from the funder's side rather than the recipient's. The second polls the IATI datastore — donors' own structured reporting, with amounts and dates attached, and the only instrument for a commitment nobody wrote about.</td>
+      <td><a href="https://corpus.data-landscapers.io/methodology/lookups/#financiers"><code>SWEEP-<wbr>FINANCIERS.md</code></a>, <code>SWEEP-<wbr>IATI.md</code></td>
+      <td>The first walks a list of financiers, looking at commitments, plans, reviews and critique from the funder's side rather than the recipient's. The second polls the IATI datastore API.</td>
       </tr>
       <tr>
       <td><strong>Research a country or region in depth</strong></td>
       <td><code>SWEEP-<wbr>COUNTRY-<wbr>DEEP.md</code>, <code>SWEEP-<wbr>REGIONAL.md</code></td>
-      <td>Four standing research briefs per country — non-state finance, governance, data exchange, demand and political economy — for the institutional depth the news sweeps pass over. The regional sweep runs two loops: regional institutions (their programmes, relationships, financing and the critique of them), and the regions themselves (policy coordination, legal harmonisation, shared infrastructure).</td>
+      <td>Four standing research briefs per country - non-state finance, governance, data exchange, demand and political economy - for the institutional depth the news sweeps pass over. The regional sweep runs two loops: regional institutions (their programmes, relationships, financing and the critique of them), and the regions themselves (policy coordination, legal harmonisation, shared infrastructure).</td>
       </tr>
       <tr>
       <td><strong>Refuse a bad origin before fetching it</strong></td>
       <td><code>wiki/<wbr>origin-<wbr>screen.md</code></td>
-      <td>Screens <em>where</em> an item came from against an adjudicated drop list, matched on the registrable domain. Called twice — once by the sweep, to stop the fetch, and again at ingest, to catch anything that arrived another way. A single sighting of a hostile pattern puts a domain on watch; a second adjudicates it. A hosting or CDN domain is never treated as an origin.</td>
+      <td>Screens <em>where</em> an item came from against an adjudicated drop list, matched on the registrable domain. Called twice: once by the sweep, to stop the fetch, and again at ingest, to catch anything that arrived another way. A single sighting of a hostile pattern puts a domain on watch; a second adjudicates it.</td>
       </tr>
       <tr>
       <td><strong>Store the document's own words</strong></td>
@@ -123,17 +123,17 @@
       <tr>
       <td><strong>Fill today's half of the bulletin window</strong></td>
       <td><code>SWEEP-<wbr>BULLETIN.md</code></td>
-      <td>A late-morning top-up, also hand-started. The overnight cycle supplies yesterday and nothing of today; this sweeps today only, ingests what it finds and copies across, so the two-day bulletin window is actually covered at both ends.</td>
+      <td>A late-morning top-up, also currently hand-started, to keep the <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a> up to date. The overnight cycle supplies yesterday and nothing of today; this sweeps today only.</td>
       </tr>
       <tr>
       <td><strong>Admit, reject or route each candidate</strong></td>
       <td><code>INGEST.md</code> (Phase A)</td>
-      <td>The only door into the archive. One of four dispositions per item: admitted; turned into a contradiction brief; turned into an acquisition line; or deleted. Out-of-scope material is rejected and deleted rather than parked — there is no holding folder. Where an item announces a gazette, plan or strategy, the <em>document</em> is the source and the announcement is secondary.</td>
+      <td>The only door into the archive. One of four dispositions per item: <strong>admitted</strong>; turned into a <strong>contradiction</strong> brief; turned into an <strong>acquisition</strong> line; or <strong>deleted</strong>. Out-of-scope material is rejected and deleted rather than parked — there is no holding folder.</td>
       </tr>
       <tr>
       <td><strong>Handle a budget document</strong></td>
       <td><code>INGEST.md</code> fifth route, <code>BUDGET-<wbr>EXTRACT.md</code></td>
-      <td>Estimates volumes, appropriation acts and budget annexes go to a separate staging tree with a manifest row, for structured extraction rather than summary. A budget figure is recorded at its stage — proposed, appropriated, released, executed, audited — and stages are never conflated.</td>
+      <td>Estimates volumes, appropriation acts and budget annexes go to a separate staging tree with a manifest row, for structured extraction rather than summary. A budget figure is recorded at its stage: proposed, appropriated, released, executed, audited. Currently waiting further development.</td>
       </tr>
       <tr>
       <td><strong>Refuse a duplicate without re-reading the corpus</strong></td>
@@ -148,27 +148,27 @@
       <tr>
       <td><strong>Write the document's one sentence</strong></td>
       <td><code>INGEST.md</code> step 4a</td>
-      <td>Authors the single claim the document earns — a bolded statement of what happened, then the dated specifics — written once, on the source, with the full text in hand. Where several outlets carry one event, one source carries the sentence and names the others. No sentence, no bullet; a refusal is recorded with its reason.</td>
+      <td>Authors the single claim the document earns — a bolded statement of what happened, then the dated specifics — written once, on the source, with the full text in hand. Where several outlets carry one event, one source carries the sentence and names the others.</td>
       </tr>
       <tr>
       <td><strong>Classify it</strong></td>
       <td><code>INGEST.md</code> steps 3–4, <code>wiki/<wbr>facets.md</code></td>
-      <td>Four facets, written into the document's own metadata rather than expressed as a folder: place (country or region code), topic (taxonomy slugs, dominant one first — the order is what decides where the record is filed wherever one topic is needed), lens, and three to six entities — the actors in the development, not every name mentioned. Officeholders are not tagged where the institution is the story.</td>
+      <td>Three facets, written into the document's own metadata rather than expressed as a folder: place (country or region code), topic (taxonomy slugs, dominant one first) and three to six entities - the actors in the development.</td>
       </tr>
       <tr>
       <td><strong>Hold the vocabularies</strong></td>
       <td><code>lookups/<wbr>countries.csv</code>, <code>lookups/<wbr>taxonomy.md</code>, <code>wiki/<wbr>facets.md</code></td>
-      <td>54 countries and 8 region codes as a single-parent tree so totals roll up by walking parents; 10 categories and ~36 topics, also single-parent, with cross-listing done by multi-tagging a document rather than by giving a topic two parents. A value outside a vocabulary is rejected. Blocs are entities, not places, because place is geographic; a region code is earned by the development — a regional body's own act, a system spanning three or more of its countries, an analysis of the region itself — not by how many countries are named.</td>
+      <td>54 countries and 8 region codes as a single-parent tree so totals roll up by walking parents; 10 categories and 36 topics, also single-parent, with cross-listing done by multi-tagging a document rather than by giving a topic two parents. A value outside a vocabulary is rejected.</td>
       </tr>
       <tr>
       <td><strong>Keep the compiled pages readable</strong></td>
       <td><code>wiki/<wbr>places/</code>, <code>wiki/<wbr>concepts/</code>, <code>wiki/<wbr>intersections/</code>, <code>LINT.md</code> #8</td>
-      <td>Three page types over the same evidence: 62 place hubs, 38 topic pages, 599 place × topic intersections minted where a country's material on a topic has earned one. The rule that holds them apart: a country fact goes to its intersection and leaves one line on the topic page, and only a finding that survives being lifted off its country belongs in the topic page's argument. Left alone, a topic page becomes a matrix of country cells and stops being worth reading; the length check is what catches it.</td>
+      <td>Three page types over the same evidence: 62 place hubs, 38 topic pages, and currently 599 place × topic intersections minted where the volume of a country's material on a topic has earned one.</td>
       </tr>
       <tr>
       <td><strong>File it and record the disposition</strong></td>
       <td><code>INGEST.md</code> step 11</td>
-      <td>Moves the item to the dated archive, appends what each affected topic page is owed, and writes the URL's outcome to the log at the moment of disposition — for all four dispositions, never batched to the end of the run.</td>
+      <td>Moves the item to the dated archive, appends what each affected topic page is owed, and writes the URL's outcome to the log at the moment of disposition.</td>
       </tr>
       <tr>
       <td><strong>Bring in historical material without treating it as news</strong></td>
@@ -178,7 +178,7 @@
       <tr>
       <td><strong>Rebuild each country's recent developments</strong></td>
       <td><code>HUB-<wbr>COMPILE.md</code></td>
-      <td>Gathers every source for a place that carries a claim sentence, sorts by publication date and rewrites a delimited block on the hub. Aggregates only: it ingests nothing and researches nothing, and running it twice changes nothing. Dated absences, and bullets predating the July 2026 cut-over to compiled hubs, sit outside the markers and are never overwritten.</td>
+      <td>Gathers every source for a place that carries a claim sentence, sorts by publication date and rewrites a delimited block on the hub. Aggregates only: it ingests nothing and researches nothing, and running it twice changes nothing.</td>
       </tr>
       <tr>
       <td><strong>Write the topic pages</strong></td>
@@ -193,7 +193,7 @@
       <tr>
       <td><strong>Settle a disagreement between sources</strong></td>
       <td><code>RECONCILE.md</code></td>
-      <td>Takes every open contradiction brief, researches it externally for the <em>primary</em> — the gazette, the regulator's bulletin, the filing, the court record — ingests what it finds as ordinary sources, and applies the resolution to every affected page, dated. Research notes are never filed; only documents are. One attempt: where it cannot be settled, what is not established is written onto the page and the brief is closed. A third value settles nothing and is recorded as a live conflict rather than picked between.</td>
+      <td>Takes every open contradiction brief, researches it externally for the <em>primary</em> — the gazette, the regulator's bulletin, the filing, the court record — ingests what it finds as ordinary sources, and applies the resolution to every affected page, dated. One attempt: where it cannot be settled, what is not established is written onto the page and the brief is closed. A third value settles nothing and is recorded as a live conflict rather than picked between.</td>
       </tr>
       <tr>
       <td><strong>Chase a document the base wants and lacks</strong></td>
@@ -203,17 +203,17 @@
       <tr>
       <td><strong>Keep the base honest</strong></td>
       <td><code>LINT.md</code></td>
-      <td>Around thirty checks, the incremental ones over each run's new records and the whole-corpus ones at the close. Most have one correct action and lint takes it: fill a missing field, correct a slug to its controlled value, rename a file whose date prefix is wrong, rewire a dead link, recover a real document URL behind a bare domain, re-date a stale figure or write the absence. It does not produce a to-do list. Where a check cannot have one correct action — a genuine conflict, a stranded queue item, an unruled vocabulary value — it reports rather than guesses.</td>
+      <td>Around thirty checks, the incremental ones over each run's new records and the whole-corpus ones at the close. Most have one correct action and lint takes it: fill a missing field, correct a slug to its controlled value, rename a file whose date prefix is wrong, rewire a dead link, recover a real document URL behind a bare domain, re-date a stale figure or write the absence.</td>
       </tr>
       <tr>
       <td><strong>Age out the worklists</strong></td>
       <td><code>PRUNE.md</code></td>
-      <td>One place for every retention rule: which registers, logs and manifests are cleared, after how long, and by which pass. Closed work is deleted rather than kept as an archive — version control holds it — and anything that ages without a named owner is itself reported.</td>
+      <td>One place for every retention rule: which registers, logs and manifests are cleared, after how long, and by which pass. Closed work is deleted rather than kept as an archive.</td>
       </tr>
       <tr>
       <td><strong>Keep the base honest about its own coverage</strong></td>
       <td><code>LINT.md</code> #23, #32, #30</td>
-      <td>Reports a place bar leak — a record accounted for by no place — with a floor of zero. Nominates a region code where three or more of a region's countries appear without one, as a candidate for a person to rule on rather than a fix. Reports entity slugs no source tags, which is either a typo or a stale registration.</td>
+      <td>Reports a place bar leak — a record accounted for by no place — with a floor of zero. Nominates a region code where three or more of a region's countries appear without one, as a candidate for a person to rule on rather than a fix.</td>
       </tr>
       <tr>
       <td><strong>Keep going until the queues are empty</strong></td>
