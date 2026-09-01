@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: CIV
-ledger_rows: 35
+ledger_rows: 39
 not_held: 10
-record: fdcba9985d8e
+record: 987ee7314533
 ---
 
 # Cote d'Ivoire: monthly update, August – September 2026
@@ -39,6 +39,11 @@ The cyber-security agency is [operating a national security operations centre, a
 The one place where a statute is acquiring machinery is consumer redress. The regulator [consulted operators, internet service providers and consumer associations on 13 and 14 August on a draft procedure for handling consumer complaints about electronic communications services](https://techreviewafrica.com/news/6772/artci-consults-stakeholders-on-new-consumer-complaint-handling-procedure), implementing the 2024 electronic communications law. No draft text, adoption date or redress standard is held.
 
 The regulator [validated a harmonised procedure for handling consumer complaints](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/) against operators and internet service providers, now to be transmitted to its Conseil de regulation for possible adoption.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Côte d'Ivoire is standing for a seat at the table that writes the rules. It [declared its candidacy for election to the ITU Council and will press it at the 7th World Telecommunication/ICT Policy Forum in Nassau](https://digitalmag.ci/telecom-conseil-de-luit-la-cote-divoire-va-defendre-sa-candidature-aux-bahamas/), with a delegation [attending the forum to prepare that candidacy](https://news.abidjan.net/articles/749043/7e-forum-mondial-des-tic-aux-bahamas-la-cote-divoire-annonce-sa-participation-pour-preparer-sa-candidature-au-conseil-de-luit). The record held names no platform the candidacy would run on and no other state's support for it.
 <!-- /narrative -->
 ### Standards
 

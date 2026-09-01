@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: ZMB
-ledger_rows: 36
+ledger_rows: 40
 not_held: 46
-record: 1d2f764ef344
+record: 6375709fea4b
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -73,6 +73,11 @@ On 5 August the institute confirmed that connectivity gaps persist at Nakonde, V
 The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
 
 A further Northern Province district administration was connected in August, and the account is unusually specific about what a connection reached. After the provincial ICT unit installed connectivity at Lupososhi District Administration and ran a virtual orientation on the national portal and two office collaboration tools, an official [printed a road-tax document from his own office instead of travelling to Kasama for it, days before it expired](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/). It is one office and one document: no district count, schedule or cost for the programme is published.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+Power at the tower is where a network's reliability is decided, and one operator put money against it. The tower company INFRATEL [says it has invested US$5 million in power resilience at mobile sites, deploying high-powered thermal batteries and upgrading solar plant](https://efficacynews.africa/2026/08/31/infratel-invests-us5-million-to-strengthen-mobile-network-power-resilience/). The figure is the company's own; no site count, no before-and-after outage measure and no independent verification is in the record held.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -178,6 +183,14 @@ Training in the window is a private programme rather than a state one. A ride-ha
 
 <!-- narrative: inclusion--include-access -->
 The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
+<!-- /narrative -->
+
+## Data
+
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+Weather data for aviation is being examined rather than improved. The Civil Aviation Authority and the International Civil Aviation Organisation [launched an assessment to strengthen aviation weather data](https://efficacynews.africa/2026/08/26/caa-icao-launch-assessment-to-strengthen-aviation-weather-data-in-zambia/). What the assessment starts from is not stated: the record held carries nothing on what meteorological data Zambia currently produces, from which sources, or how it reaches the people flying.
 <!-- /narrative -->
 
 ## Geopolitics
