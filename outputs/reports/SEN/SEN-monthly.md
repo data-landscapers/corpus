@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SEN
 ledger_rows: 31
 not_held: 14
-record: ee6d8bea8b41
+record: 2a64df31dd8d
 ---
 
 # Senegal: monthly update, August – September 2026

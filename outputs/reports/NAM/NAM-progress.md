@@ -6,7 +6,7 @@ place: NAM
 ledger_rows: 231
 not_held: 11
 indicators: 121
-record: 5736bbd451ca
+record: a4c6944df3b2
 ---
 
 # Namibia: progress report, September 2025 – September 2026
@@ -218,4 +218,5 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Information and communications technology ministry budget vote | The ministry's vote in the appropriation bill or its budget-vote motivation speech; the base holds no Namibian technology appropriation of any year, and the one appropriation figure held anywhere in the base is the civil registration department's, on a source tagged to other subjects | 2026-08-06 |
 | Universal Service Fund annual accounts | The fund's annual report, or the regulator's disclosure of levy receipts and project disbursements; the base establishes the fund exists, its launch month, its initial endowment and two in-kind outputs, all from secondary reporting of ministerial statements, and carries no levy rate, contribution base, receipts or project list | 2026-08-06 |
 | Power supply plan for the national data centre | A power purchase agreement, grid-connection study or energy annex to the data-centre project proposal; the subject carries one Namibian source, a signed opinion piece arguing the case for hosting compute locally, so there is no held statement of how any planned facility would be powered, at what cost, or by whom | 2026-08-06 |
+| United States health data and specimen sharing arrangement | A signed data or specimen sharing arrangement with the United States, or a published text of the proposal that was refused. | 2026-08-31 |
 

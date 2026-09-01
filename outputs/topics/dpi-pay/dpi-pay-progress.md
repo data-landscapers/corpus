@@ -1,13 +1,13 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-09-01 to 2026-09-01
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+title: Digital Payments and Fintech — progress report, 2025-09-01 to 2026-09-02
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: 8b25a5b331ed
+record: ecec5fd54021
 ---
 
-# Digital Payments and Fintech: progress report, 2025-09-01 to 2026-09-01
+# Digital Payments and Fintech: progress report, 2025-09-01 to 2026-09-02
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,8 +15,9 @@ record: 8b25a5b331ed
 
 ## Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
+| African take-up of China's Cross-Border Interbank Payment System | Baseline not held | [a cross-border payments startup launching direct yuan payouts into Chinese bank accounts from dollar, euro, sterling and stablecoin balances, alongside continental take-up of China's own cross-border interbank system](https://techcabal.com/2026/09/01/grey-chinese-yuan-payouts-for-africa/) | Advanced |
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Advanced |
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf) | Advanced |
 | CARICOM Payment and Settlement System (CAPSS) | Did not exist; modelled on PAPSS since CARICOM governors' unanimous October 2023 selection | [Proof of concept complete in two countries; the ECCB Governor says at least two more central banks are needed for the initial pilot; not commercially operational, with settlement, FX, liquidity, AML and interoperability arrangements unresolved](https://www.truthng.com/caricom-prepares-papss-inspired-local-currency-payment-system/) | Advanced |
@@ -24,16 +25,16 @@ record: 8b25a5b331ed
 | Fintech volume carried by the continent's largest operator | None published on this basis | [13.0 billion transactions carrying US$330.5bn in the half, up 17.2% in volume and 33.8% in value in constant currency, on 70.8 million monthly active mobile-money users](https://senspdf.jse.co.za/documents/2026/JSE/ISSE/MTN/MTNH126.pdf) | Advanced |
 | Pan-African Payment and Settlement System (PAPSS) | Operating from January 2022 across West and East African cores, with no Central African central bank participating | [Extended into Central Africa by the BEAC's accession, wired into a national switch in Kenya for the first time, and carrying a wallet-based Nigeria-to-Ghana rail settled in naira](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) | Advanced |
 | PAPSSCARD | Did not exist | [A continental card scheme launched to route African card payments inside the continent rather than through global networks; no issuance, volume or country coverage held](https://www.vanguardngr.com/2026/01/nigerias-papss-cross-border-payments-falls-53-to-n5-6bn/) | Advanced |
+| Regulatory obstacles to instant payment interoperability | Did not exist | [instant payment systems across the continent described as meeting a regulatory wall, with divergent national rules limiting interoperability](https://www.newtimes.co.rw/article/38524/news/africas-instant-payments-hitting-regulatory-wall/amp) | Regressed |
 | Stablecoin settlement rails serving African cross-border payments | Not held | [Described by a pan-African payments operator's product chief as moving from speculative use into the plumbing of remittances and business settlement, on the evidence of Mastercard's agreement to acquire BVNK at up to US$1.8bn and Visa's stablecoin-card expansion through Stripe's Bridge into more than 100 countries, African markets among them; a first named African deployment is Flutterwave's tie-up with Caliza offering USD accounts with USDC and USDT conversion. At a UN Economic Commission for Africa webinar on 18 August 2026, market supervisors from Uganda's Capital Markets Authority, the Bank of Ghana and the Financial Services Commission of Mauritius set out three national approaches to virtual assets and stablecoins and agreed on consumer protection, financial stability, regulatory clarity and monetary sovereignty as shared objectives, arguing that compatible outcomes and supervisory cooperation matter more than identical legislation; the Commission put continental digital-asset users above 54 million, Nigeria alone at about 25.9 million, against a global tokenised money market that passed US$300bn in 2025](https://eastafricanpolicyobserver.org/news/celebrating-world-fintech-day-eca-and-partners-advance-dialogue-on-tokenised-money-and-stablecoins-in-africa/) | Advanced |
 | UnionPay online acceptance through Standard Bank | A collaboration between the two parties dating from 2024, with no merchant count published | [Online-payment acceptance for nearly 900 merchants across Botswana, Ghana, Kenya, Malawi, Namibia, Tanzania, Uganda, Zambia and Zimbabwe, settling in local currency, US dollars or both, against a stated African footprint of about 7 million UnionPay cards issued](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/) | Advanced |
-| African take-up of China's Cross-Border Interbank Payment System | Baseline not held | [Reported as spreading across African banks as an alternative to Swift, smoothing trade settlement and potentially easing exposure to dollar sanctions, with Libyan banks set to join after talks between the Central Bank of Libya and the People's Bank of China. No participant list, transaction volume or value is held](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency) | ***Baseline not held*** |
 | Cost of sending money within Africa | Baseline not held | [Put at 8.78% of the amount sent against the SDG target of 3% (2026-08)](https://techcabal.com/2026/08/17/africa-is-building-a-single-payments-market-but-its-currencies-remain-divided/) | ***Baseline not held*** |
 | Payment Systems Directive for Africa (PSDA) | ***Baseline not held*** | [Directed to be led by central banks rather than an external entity, with the Assembly's own task force on payment system integration to lead harmonisation; no draft directive held](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | ***Baseline not held*** |
 | Unmet trade finance demand | ***Baseline not held*** | [US$74bn to US$100bn of unmet trade finance demand, with commercial banks intermediating about 23% of the continent's trade against 40% over 2011 to 2019, and intra-African trade at US$213.8bn in 2025 (2026-08)](https://www.thisdaylive.com/2026/08/11/pac-research-identifies-digital-innovation-financial-reforms-as-key-to-closing-africas-100bn-trade-finance-gap/) | ***Baseline not held*** |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | COMESA Digital Retail Payments Platform | Did not exist | [Piloting between Malawi and Zambia, targeting settlement costs under 3% of value against about 8%](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/) | Advanced |
 | SADC-RTGS | Settling in rand alone since 2013; 15 of 16 members participating | [Second settlement currency live; more than 80 banks, R250.7bn settled a month](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
@@ -42,7 +43,7 @@ record: 8b25a5b331ed
 
 ## West Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [104 authorised at 31 July 2026, against 80 connected at 24 June 2026 and 74 at the end of December 2025, with Senegal (24) and Cote d'Ivoire (23) holding nearly half, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each)](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/) | Advanced |

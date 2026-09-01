@@ -1,15 +1,17 @@
 ---
 title: Standards — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.standards
-places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; ZMB
-record: 159b23bf941a
+places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; UGA; ZMB
+record: 5d797f4f75e2
 ---
 
 # Standards: monthly update, August 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -72,6 +74,10 @@ On 2 August the Municipal Guard's Investigation and Information Gathering Office
 
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
 
+## Mauritius
+
+Mauritius moved to bind its own digital services to a standard. Cabinet [took note on 28 August of a Digital Service Framework setting mandatory principles and standards for every government digital service, from procurement through maintenance](https://maurice-info.mu/2026/08/28/deliberations-du-conseil-des-ministres-du-28-aout-2026.html), and the government information service [set out that the framework will cover every service developed, procured or maintained by the state](https://gis.govmu.org/gis/?page_id=4022). Noted is not issued: the record held carries no compliance date, no owner and no consequence for a service that fails it.
+
 ## Mozambique
 
 The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
@@ -107,6 +113,10 @@ Parliament's communications committee [prefers strengthening the existing regula
 ## Tanzania
 
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+
+## Uganda
+
+The sector agreed to count itself consistently. The technology ministry [will standardise information and communication technology indicators and definitions with NITA-U and the Uganda Bureau of Statistics](https://www.newvision.co.ug/category/news/government-to-standardise-ict-indicators-skil-NV_239486_082026). Agreeing what an indicator means is the precondition for any of the sector's published figures being comparable year to year; the record held carries no date by which the standardised set is to be in use.
 
 ## Zambia
 

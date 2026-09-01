@@ -1,15 +1,17 @@
 ---
 title: Literacy — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: capacity.literacy
-places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; TZA; TGO; ZMB
-record: 700538cce057
+places: AGO; COD; GHA; KEN; LBR; MOZ; RWA; SEN; TZA; TGO; ZMB
+record: 6efe8eaf0b5e
 ---
 
 # Literacy: monthly update, August 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -38,6 +40,10 @@ The month's only movement on digital literacy was a demand for it. At the launch
 ## Rwanda
 
 [More than 5,000 teachers across every district were trained in the first phase of a national artificial-intelligence literacy programme, reported complete at end-2025](https://www.linkedin.com/pulse/africas-biggest-ai-risk-isnt-being-left-behind-its-misread-njila-3zj4c/). The assertion is a diplomat's, in an opinion piece, and no ministry primary is held for it.
+
+## Senegal
+
+Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
 
 ## Tanzania
 

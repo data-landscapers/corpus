@@ -1,15 +1,17 @@
 ---
 title: National statistics — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: data.statistics
 places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; SYC; ZAF; UGA; ZWE
-record: 3685bc36c612
+record: c182069e6fec
 ---
 
 # National statistics: monthly update, August 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 

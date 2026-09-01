@@ -1,13 +1,13 @@
 ---
-title: Other GovTech and e-Gov — progress report, 2025-09-01 to 2026-09-01
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+title: Other GovTech and e-Gov — progress report, 2025-09-01 to 2026-09-02
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 subject: dpi.govtech
 places: XWA
-record: 007d18147161
+record: 24ea08e1e288
 ---
 
-# Other GovTech and e-Gov: progress report, 2025-09-01 to 2026-09-01
+# Other GovTech and e-Gov: progress report, 2025-09-01 to 2026-09-02
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: 007d18147161
 
 ## West Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Strengthening Tax Administration Capacity Project | Did not exist | [A regional tax administration forum project financed by a US$5.52m grant from a development fund's transition support facility, with implementation running to 30 July 2030 under a forum-hosted project implementation unit and a multi-stakeholder steering committee](https://www.afdb.org/en/news-and-events/press-releases/african-development-fund-provide-552-million-grant-west-african-tax-administration-forum-boost-domestic-revenue-mobilization-91508) | Advanced |

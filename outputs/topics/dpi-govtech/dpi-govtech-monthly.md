@@ -1,15 +1,17 @@
 ---
 title: Other GovTech and e-Gov — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 6e6dc570ef00
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6f292c2e9e13
 ---
 
 # Other GovTech and e-Gov: monthly update, August 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -56,6 +58,10 @@ The water utility [began rolling out a centralised commercial platform, WATERIS,
 ## Cape Verde
 
 A municipal council [presented a services platform it plans to put into public presentation in October 2026 and into operation by the end of that year, opening with 17 services - applications submitted, cases tracked in real time, payments made and official documents received in digital form with legal validity](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273). It is funded by the UN joint office, whose resident coordinator asked the council to consider integrating further procedures in a second phase, while the minister for family, inclusion, social development and labour argued for keeping and improving traditional counter services for those still facing difficulties with digital access, and for replicating the model in the other municipalities if it succeeds.
+
+## Central African Republic
+
+An operator described its own contribution. Orange [published an account of work to build more accessible and inclusive public digital services in the country](https://fr.linkedin.com/posts/orange-centrafrique_orangecentrafrique-transformationnum%C3%A9rique-activity-7498417069621870592-Y_Eb). It names no service and carries no user figure, and it is the operator's own account of its role rather than the state's account of what it has delivered.
 
 ## Chad
 
@@ -146,6 +152,11 @@ The platform sells better abroad than it migrates at home. Its operator [pitched
 The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
 
 The election system's own procurement stopped moving. The electoral commission [said tenders for the Integrated Elections Management System hardware and for ballot papers were temporarily halted after a request for review at the procurement review board, with the Register of Voters to undergo a 30-day biometric verification and an independent audit before certification](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations).
+
+
+The platform also failed twice. On 26 August the payment layer [went down for much of the day, leaving transport authority services unusable, transactions abandoned or paid for twice and invoices missing](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays); the authority confirmed the fault and said a platform team had been dispatched. Five days later the electronic tax invoicing service reached through eCitizen [was down for three days to 31 August, taxpayers able to generate invoices but not download them](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546) — and because revenue rules make payment conditional on that invoice, rent, school fees and a semester start were delayed. No uptime figure is published for the platform, so its reliability is measured only by the outages that get reported.
+
+Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
 
 ## Lesotho
 
@@ -284,6 +295,10 @@ The central bank [launched a sovereign yield curve system on 7 August](https://w
 Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
 
 The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
+
+## Togo
+
+One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The wider programme it sits in was described the same week: the ministry [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
 
 ## Tunisia
 

@@ -1,15 +1,17 @@
 ---
 title: Strategies, plans and policies — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.policy
-places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: bcc3278059fe
+places: BFA; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: d5b47a5ce0f9
 ---
 
 # Strategies, plans and policies: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burkina Faso
 
@@ -60,6 +62,10 @@ The month's largest single transaction was spectrum: [410 MHz awarded across 1.8
 ## Eswatini
 
 The National Data Governance Policy is still being written. The ICT minister [told the Senate it is targeted for completion before the end of 2026, with government undecided between a standalone instrument and a broader one](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy). The text is not published and no adoption date is given; being undecided on the instrument's form is itself a statement about how far the drafting has got.
+
+## Gambia
+
+The policy shelf was restocked, with an unusually frank admission attached. The Gambia [validated a ten-year science, technology and innovation policy for 2027-2035 after its minister conceded the previous one achieved none of its objectives](https://thepoint.gm/africa/gambia/national-news/gambia-validates-new-10-year-sti-policy-to-drive-jobs-innovation-and-climate-resilience). A minister saying so on the record is worth more than the policy document itself, because it dates the failure the successor has to avoid. Cabinet separately [approved a bill to establish a national research, development and innovation council](https://www.linkedin.com/posts/ministry-of-higher-education-research-science-and-technology_cabinet-approves-national-research-development-activity-7499615459382775808-MOKX); the council does not yet exist.
 
 ## Ghana
 

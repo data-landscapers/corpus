@@ -1,15 +1,19 @@
 ---
 title: US / hyperscaler activities — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: geopol.usa
-places: KEN; LSO; MUS; NGA; SEN; UGA; ZWE
-record: 8a24c972c5f1
+places: EGY; KEN; LSO; MUS; NGA; SEN; UGA; ZWE
+record: cace5d7b5dab
 ---
 
 # US / hyperscaler activities: monthly update, August 2026
 
-*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Egypt
+
+The vendor relationship moved a step, and only a step. The prime minister [witnessed the signing of a letter of intent between the communications ministry and Cisco Systems](https://sis.gov.eg/en/media-center/news/pm-witnesses-inking-of-letter-of-intent-between-communications-ministry-cisco-systems/). A letter of intent binds nobody to anything: the record held carries no value, no scope of works and no date by which either side is to do something, which is the difference between this and the Mediterranean capacity partnership already on the ledger.
 
 ## Kenya
 

@@ -1,15 +1,17 @@
 ---
 title: Rural digital data capture — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; NGA; SLE; ZMB; ZWE
-record: 036fc9db6135
+places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; NGA; SLE; TGO; ZMB; ZWE
+record: eb9fde677798
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
@@ -50,6 +52,10 @@ The communications minister told the President on 4 August that [deployment of a
 ## Sierra Leone
 
 The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
+
+## Togo
+
+Togo's agricultural digital work is now being copied. Chad [drew on the Togolese experience of deploying agricultural digital solutions](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise). The account is the host government's own. What the record held does not carry is a measure of what those solutions have achieved in Togo, which is what would make the visit worth making.
 
 ## Zambia
 

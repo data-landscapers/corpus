@@ -1,19 +1,25 @@
 ---
 title: Digital divides — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: include.divides
-places: AGO; BDI; COD; EGY; SWZ; GHA; KEN; MWI; MOZ; NER; NGA; SEN; UGA
-record: 72d6706fc9a6
+places: AGO; BWA; BDI; COD; EGY; SWZ; GHA; KEN; MWI; MOZ; NER; NGA; SEN; ZAF; UGA
+record: 950567da1a66
 ---
 
 # Digital divides: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
+
+## Botswana
+
+The creative sector was surveyed for a digital purpose. A two-day multistakeholder workshop in Gaborone [mapped Botswana's creative industries to shape a more inclusive digital future](https://www.unesco.org/en/articles/botswana-maps-its-creative-industries-shape-more-inclusive-digital-future). A mapping is a starting position; the record held carries no output from it and no policy it is to feed.
 
 ## Burundi
 
@@ -70,6 +76,10 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 ## Senegal
 
 The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
+
+## South Africa
+
+Two measurements of the divide moved in opposite directions. Official household figures published on 28 August show [the share of households with no telephone at all down to 3.7%, about 740,000 households, from nearly 55% in 2002, with 93.8% now holding a cellphone only](https://groundup.org.za/article/a-look-at-south-africas-mobile-revolution/) — device access is close to universal. What it costs to use is the other half, and there the obligation is late: the communications minister [acknowledged on 27 August that the zero-rating of public-benefit websites owed under the 2022 spectrum auction is moving slowly, five months before its deadline](https://www.businessday.co.za/economy/2026-08-27-concern-over-slow-rollout-of-free-data-for-public-benefit-sites/), while saying he remains confident it will be met. A handset in almost every home and no free route to public-interest content is the shape of the gap the licence condition was written to close.
 
 ## Uganda
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SSD
 ledger_rows: 16
 not_held: 12
-record: ae758c1b5953
+record: 105f6c9f204b
 ---
 
 # South Sudan: monthly update, August – September 2026

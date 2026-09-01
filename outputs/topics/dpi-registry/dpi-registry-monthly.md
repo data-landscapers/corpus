@@ -1,15 +1,17 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 272c1f2e57bc
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6c73ae7ca434
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -67,6 +69,10 @@ The company that built the vehicle identification platform [is refusing to hand 
 
 On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179).
 
+## Eritrea
+
+The month establishes an absence rather than a system. The postal union's addressing reference, dated August 2026, [does not list Eritrea among the countries that require or use a postal-code system](https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf), so there is no national postcode scheme. Nothing on the record names another national addressing scheme, digital or otherwise. The reference does not itself say whether one is planned, and no street-naming programme, digital addressing initiative or geocoding of the population registers appears anywhere on the record. The registers themselves remain six separate regional systems with no central national register, so an address held in one is not resolvable from another.
+
 ## Eswatini
 
 Civil registration completeness reached [61 per cent of births and 62 per cent of deaths in 2025](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/), against 8.3 and 26.5 per cent in 2016, announced at the ninth Africa civil registration day. The underlying annual report is not held as a downloadable publication.
@@ -97,6 +103,10 @@ The register moved without the electorate changing. The electoral support office
 The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
 
 A second register was announced rather than built. The agriculture cabinet secretary is championing a nationwide rollout of an [animal identification and traceability system giving every head of livestock a unique identity and a lifetime record of origin, ownership, health, vaccination and movement, tagged physically and linked to a central platform readable by veterinarians, abattoirs and traders](https://ynews.digital/development-news/kagwe-digital-ids-livestock-theft/). No operator, legal basis, budget or start date accompanies it.
+
+## Lesotho
+
+A sector got its own register. Lesotho [launched a National Farmers Portal, placing every farmer in a single digital registry](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html). A farmer register is the base for subsidy, extension and insurance delivery, so what matters next is enrolment and what other systems it connects to. The record held carries neither: no farmer count, and no statement that the portal exchanges data with the social registry or any payment mechanism.
 
 ## Liberia
 

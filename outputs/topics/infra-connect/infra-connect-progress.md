@@ -1,13 +1,13 @@
 ---
-title: Connectivity — progress report, 2025-09-01 to 2026-09-01
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+title: Connectivity — progress report, 2025-09-01 to 2026-09-02
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 subject: infra.connect
 places: XAF; XSA; XWA
-record: 036c8b55457f
+record: a1434416b264
 ---
 
-# Connectivity: progress report, 2025-09-01 to 2026-09-01
+# Connectivity: progress report, 2025-09-01 to 2026-09-02
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: 036c8b55457f
 
 ## Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity for Africa | Did not exist | [Adopted, committing member states to technology-neutral regulation, continental harmonisation, fair access to spectrum and fibre, shared infrastructure and data governance; the text itself is not published](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Advanced |
 | Harmonised national broadband mapping project | Did not exist | [A 2025-2028 project to establish or strengthen harmonised national broadband mapping systems in eleven sub-Saharan regulators - Benin, Botswana, Burundi, Ethiopia, Ivory Coast, Kenya, Malawi, Nigeria, Uganda, Zambia and Zimbabwe - with a five-day intermediate GIS and data-management training opened at Lilongwe for practitioners from Malawi, Zimbabwe, Botswana and Zambia, hosted by the Malawian regulator and supported by the European Union](https://www.itweb.africa/article/itu-launches-sub-saharan-broadband-push/o1Jr5MxPawdMKdWL) | Advanced |
@@ -25,7 +25,7 @@ record: 036c8b55457f
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Powertel-Paratus cross-border fibre corridor | Did not exist | [Phase 1 live and carrying traffic, on a route to link Zimbabwe with Botswana, Zambia and South Africa](https://itweb.africa/article/powertel-paratus-zimbabwe-switch-on-new-digital-highway/Gb3Bw7WadXZq2k6V) | Advanced |
 | SADC regional internet exchange point | No host selection process on record | [BoFiNet of Botswana and one Zimbabwean company shortlisted; no award held in the eight months since](https://itweb.africa/article/botswana-seeks-to-host-sadc-internet-exchange/j5alr7QALmK7pYQk) | Advanced |
@@ -35,7 +35,7 @@ record: 036c8b55457f
 
 ## West Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | EllaLink Mauritania branch | Launched at Nouadhibou in July 2025, with nothing laid | [Coastal landing complete, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |

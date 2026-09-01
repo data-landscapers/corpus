@@ -1,13 +1,13 @@
 ---
-title: Data protection — progress report, 2025-09-01 to 2026-09-01
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+title: Data protection — progress report, 2025-09-01 to 2026-09-02
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 subject: gov.protect
 places: XAF; XSA; XWA
-record: fdd0059b9306
+record: 3872711c2e99
 ---
 
-# Data protection: progress report, 2025-09-01 to 2026-09-01
+# Data protection: progress report, 2025-09-01 to 2026-09-02
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: fdd0059b9306
 
 ## Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Signatures and ratifications of the Malabo Convention | 21 of 55 signed, 20 ratified or acceded and 20 deposited (2026-02-02, the depositary's register) | [Equatorial Guinea, where the Convention was adopted and after whose then-capital it is named, signed on 2026-07-28 and has not deposited an instrument of ratification](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | Advanced, marginal |
 | Malabo Convention | In force, and the continental benchmark against which national data-protection regimes are measured | [Unchanged in text; a majority of the Union's 55 members remain outside it twelve years after adoption](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |
@@ -23,12 +23,12 @@ record: fdd0059b9306
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | SADC Data Protection Model Law | The 2012 model law, unrevised, with a modernisation consultancy tendered February 2022 | [Unchanged; no revised text and no outcome of the 2022 revision on record](https://www.itu.int/en/ITU-D/Projects/ITU-EC-ACP/HIPSSA/Documents/FINAL%20DOCUMENTS/FINAL%20DOCS%20ENGLISH/sadc_model_law_data_protection.pdf) | No change |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base; the complete text is now held, adopted at the thirty-seventh session of the Authority of Heads of State and Government in Abuja on 16 February 2010](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf) | Advanced |

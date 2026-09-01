@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: GMB
 ledger_rows: 16
 not_held: 13
-record: bbb4fcf983dc
+record: 40444693640c
 ---
 
 # Gambia: monthly update, August – September 2026

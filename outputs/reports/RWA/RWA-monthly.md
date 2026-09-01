@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: RWA
 ledger_rows: 35
 not_held: 9
-record: cf2dbd226af2
+record: ee8795caa285
 ---
 
 # Rwanda: monthly update, August – September 2026

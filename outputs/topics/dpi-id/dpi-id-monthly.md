@@ -1,15 +1,17 @@
 ---
 title: Digital Identity and CRVS — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.id
-places: DZA; AGO; BDI; CMR; COM; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 39f82d7b85de
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; COM; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 3f6d143c7209
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -22,6 +24,18 @@ On 28 July the justice ministry [launched an at-home service priced at Kz 250,00
 The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
 
 The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
+
+## Benin
+
+The identity agency wants to analyse what it holds. It [opened a tender for the architecture of a business-intelligence environment over its national identity data](https://www.ungm.org/Public/Notice/312907). Analytics over a population register raises the question of what the analysis is for and who may run it; the tender notice in the record held does not answer either, and no purpose limitation is stated.
+
+## Botswana
+
+The credential's problem this month is forgery rather than production. The labour and home affairs ministry [is contending with a cartel producing fake identity documents](https://allafrica.com/stories/202608260258.html). That is a statement about the integrity of the Omang credential, not only about the backlog in issuing it, and the two compound each other: a slow replacement queue is what makes a forged card useful. No arrest, prosecution or volume figure is in the record held.
+
+## Burkina Faso
+
+The Sahel alliance's shared credential reached another town. Enrolment for the common biometric identity card [opened in Arbinda on 27 August](https://www.aib.media/soum-arbinda-la-cib-aes-suscite-un-fort-engouement-des-populations/). Arbinda is in the Soum province, which makes where enrolment opens a security question as much as an administrative one. The record held carries no enrolment total for the card, in Burkina Faso or across the alliance.
 
 ## Burundi
 

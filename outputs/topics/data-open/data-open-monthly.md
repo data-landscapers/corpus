@@ -1,15 +1,17 @@
 ---
 title: Open data — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: data.open
-places: BEN; COM; DJI; COD; GAB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
-record: 9d56e37fe95f
+places: BEN; COM; DJI; COD; GAB; GMB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
+record: 048299aadc5d
 ---
 
 # Open data: monthly update, August 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -30,6 +32,10 @@ The month's one open-data movement came from the central bank rather than from t
 ## Gabon
 
 Gabon was assessed again as [not meeting the minimum fiscal transparency requirements in the 2026 review, published 11 August 2026 for the period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/). Of 139 governments and one entity reviewed, 73 met the requirements and 67 did not.
+
+## Gambia
+
+One measured position moved into the record. The Gambia [ranked third in sub-Saharan Africa on budget transparency in the 2025 open budget survey](https://foroyaa.net/gambia-ranks-third-in-sub-saharan-africa-on-budget-transparency/). Budget transparency and open data are different things: the survey measures what a government publishes about its own spending, and the record held still carries no dataset count or portal for The Gambia.
 
 ## Ghana
 

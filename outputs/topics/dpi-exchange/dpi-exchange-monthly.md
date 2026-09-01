@@ -1,15 +1,17 @@
 ---
 title: Data Exchange — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
-record: 980eaa673197
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
+record: ab90f0142732
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -139,6 +141,10 @@ A state built its own exchange for the most sensitive category of all. Lagos [se
 ## Senegal
 
 A government enterprise-architecture account of 3 August records [platforms still siloed sixteen months after the interoperability platform launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy), with the architecture to be fed by a full inventory of national digital systems. Four narrower exchanges moved in the same weeks: a [workshop on 23 July to diagnose social-protection systems](https://aps.sn/vers-la-creation-dun-guichet-unique-pour-un-meilleur-acces-aux-services-sociaux/), the minister stating each structure runs its own system and cannot share data; a [climate-transparency data project launched on 22 July over 42 months](https://www.seneweb.com/fr/news/M%C3%A9t%C3%A9o/donnees-climatiques-le-ministere-de-lenvironnement-lance-le-projet-cbit-senegal-pour-renforcer-les-capacites-nationales_n_499084.html); a [three-month customs roadmap with Gambia](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict); and a [convention to interconnect the digital agency and the health-cover platform](https://www.seneweb.com/fr/news/Sante/le-numerique-au-service-de-la-sante-senum-sa-et-la-sen-csu-unissent-leurs-forces-pour-rapprocher-la-couverture-sanitaire-universelle-des-citoyens_n_499078.html), whose personal-data commitment was not referred to the regulator.
+
+## Seychelles
+
+The corridor Seychelles had a memorandum for was signed with somebody else. The AfCFTA Secretariat and Quest Ghana [signed a joint venture agreement in Accra on 31 August to establish the AfCFTA Digital Trade Corridor, to facilitate, track and settle cross-border trade transactions](https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/) — the same secretariat and the same company as the Seychelles memorandum of March, which remains under review. The corridor is proceeding, and it is proceeding through Accra. Nothing in the record held says whether the Seychelles arrangement is superseded, subsumed or simply waiting.
 
 ## Sierra Leone
 

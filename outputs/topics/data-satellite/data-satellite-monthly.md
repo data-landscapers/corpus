@@ -1,15 +1,17 @@
 ---
 title: Use of satellite data — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: data.satellite
-places: BDI; COM; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE
-record: 35c039311a3e
+places: BDI; COM; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE; TZA; ZMB
+record: 665ee5d5bdf6
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
@@ -62,3 +64,11 @@ A [national satellite data programme launched with a commercial imagery provider
 ## Sierra Leone
 
 DSTI announced on 4 August that it is [developing a national base map with the Ministry of Lands, with JICA support and Japanese technical direction, phase one covering Western Area Urban District](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/). No cost, timetable, hosting arrangement or data licence is stated.
+
+## Tanzania
+
+A research capability ended rather than started. The three-year Precision Livestock Farming project, run by a national institution with a foreign university and foundation funding, [closed on 27 August and presented its results](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-turns-to-smart-technology-to-boost-livestock-productivity-5574406). Nothing in the record held says the work continues under national funding, which is the question a closing donor project always raises.
+
+## Zambia
+
+Weather data for aviation is being examined rather than improved. The Civil Aviation Authority and the International Civil Aviation Organisation [launched an assessment to strengthen aviation weather data](https://efficacynews.africa/2026/08/26/caa-icao-launch-assessment-to-strengthen-aviation-weather-data-in-zambia/). What the assessment starts from is not stated: the record held carries nothing on what meteorological data Zambia currently produces, from which sources, or how it reaches the people flying.

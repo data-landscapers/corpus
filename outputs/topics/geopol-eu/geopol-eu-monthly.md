@@ -1,10 +1,10 @@
 ---
 title: EU activities — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: geopol.eu
 places: KEN; MWI; MLI; MAR; NGA
-record: 2469b9155418
+record: e98e63a9a0ee
 ---
 
 # EU activities: monthly update, August 2026

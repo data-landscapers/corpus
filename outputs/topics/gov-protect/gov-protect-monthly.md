@@ -1,15 +1,17 @@
 ---
 title: Data protection — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.protect
-places: AGO; BFA; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MLI; MOZ; NGA; RWA; STP; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
-record: a4da02c8050c
+places: AGO; BFA; CAF; DJI; COD; EGY; ERI; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MLI; MAR; MOZ; NAM; NGA; RWA; STP; SLE; ZAF; SDN; TZA; UGA; ZMB; ZWE
+record: d77c830b3145
 ---
 
 # Data protection: monthly update, August 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -22,6 +24,10 @@ A report published on 15 August by the South African organisation Intelwatch [fo
 On 3 August the legislature [voted the personal-data protection bill and the organic law creating a merged communications and data-protection authority](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/). The new law prohibits and sanctions processing without consent, indexes administrative fines to turnover excluding tax and scales them by gravity, and prohibits transferring sensitive data abroad. The merged authority takes the data-protection commission's mandate and is given its own rule-making power with artificial intelligence named specifically. Neither text is held, neither is promulgated, and no commencement, seat or leadership is stated.
 
 The same 23 July sitting replaced the 2017 decree governing the non-profit register, fixing for the first time a retention period for that data after dissolution.
+
+## Central African Republic
+
+The month's sharpest item is an allegation about surveillance. A critical outlet reported that [the president has turned to mobile operators to trace citizens through SIM card records](https://corbeaunews-centrafrique.org/depasse-par-lia-touadera-se-tourne-vers-les-operateurs-mobiles-pour-traquer-les-centrafricains-via-les-cartes-sim/). The account is one outlet's and the record held carries no official instrument authorising such tracing, no operator confirmation and no data-protection safeguard attached to it. It is recorded here because a claim of state access to subscriber records is the kind of thing a base should carry even before it is confirmed.
 
 ## Djibouti
 
@@ -36,6 +42,10 @@ Data protection has an authority that does not exist, a code that is now being p
 The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the base does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
 
 The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
+
+## Eritrea
+
+The data-protection position was re-verified rather than changed. A legal-research pass dated 1 August 2026 [records no comprehensive data-protection law in force, no supervisory authority established and no enforcement decisions published](https://research.lawlab.africa/eritrea/). What the month adds is the date, not the finding: the absence is now a searched one rather than an unexamined one. It agrees with a regional ministerial assessment placing Eritrea's data-protection policy area at a nascent stage without legislation or regulatory oversight, and with a trade regulatory profile recording no data-protection officer, impact-assessment or retention requirements. Three independent assessments across four years say the same thing, which is what distinguishes a reported absence from an unexamined one.
 
 ## Eswatini
 
@@ -80,9 +90,17 @@ The data-protection statute exists. The Personal Information Act [was signed int
 
 On 3 August the [data-protection authority opened its second 2026 session](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) with more than 1,000 files before it over ten days — authorisations, declarations, video-surveillance oversight, formal notices and direct sanction procedures — its president grounding the sanctions in Loi n2013-015 as amended.
 
+## Morocco
+
+The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
+
 ## Mozambique
 
 The data-protection law is closer to Parliament than it has been. Authorities [are preparing to submit the draft bill](https://clubofmozambique.com/news/mozambique-calls-to-strengthen-data-protection-digital-space-legislation/). Preparing to submit is not tabling: no bill number, date or text is held, and the country remains without a data-protection law in force while its identity, humanitarian and payment registers all expand.
+
+## Namibia
+
+Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this base to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
 
 ## Nigeria
 

@@ -1,15 +1,17 @@
 ---
 title: Digital Payments and Fintech — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.pay
-places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MOZ; NAM; NER; NGA; RWA; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e7fca1fa145c
+places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MOZ; NAM; NER; NGA; RWA; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 14aaa83db2a5
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -60,6 +62,10 @@ On 3 August the [public-revenue platform went live on the national payments swit
 ## Cote d'Ivoire
 
 A private schools federation signed a convention on 21 July putting fee collection onto mobile money in a 200-school pilot from August. The flat FCFA 100 agency fee levied on every mobile-money counter transaction since November 2025 was [documented on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) as authorised by no operator tariff and no regulator, regressive by construction on small transfers.
+
+## DR Congo
+
+Fare collection took its first digital step. The state bus operator Transco [opened the trial phase of QR-code electronic ticketing in Kinshasa on 31 August, its director general scanning the first code on the inaugural run](https://acp.cd/business/kinshasa-la-vente-des-produits-maraichers-presentee-comme-un-levier-de-renforcement-financier/). It is a trial on one operator's buses. No fare volume, route coverage or payment provider is named, and nothing connects it to the national payment rails.
 
 ## Egypt
 

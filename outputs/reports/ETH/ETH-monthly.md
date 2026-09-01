@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: ETH
 ledger_rows: 30
 not_held: 5
-record: 3ac280871fec
+record: 49f4b4ef91cc
 ---
 
 # Ethiopia: monthly update, August – September 2026

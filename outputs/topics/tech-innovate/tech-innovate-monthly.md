@@ -1,15 +1,17 @@
 ---
 title: Innovation ecosystem — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB; ZWE
-record: 821ae0cd2340
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NAM; NER; NGA; RWA; ZAF; TZA; TUN; UGA; ZMB; ZWE
+record: 8634bc2af797
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -84,6 +86,10 @@ UNDP set out its contributions at the summit, adding in its own account of 3 Aug
 
 A civil-society organisation [launched an application for reporting and checking online content, alongside the closing report of a digital campaign against viral falsehood which it says reached 68,885 people](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html). It is aimed at young people and civil-society organisations, and funded through a Danish foreign-ministry facility with support from the ministry responsible for communication and the digital economy. No user or report-volume figure is published.
 
+## Namibia
+
+Two small pieces of ecosystem plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
+
 ## Niger
 
 The innovation estate gained a site and not yet a hub. A university at Diffa [was selected through a competitive process to host an innovation hub under a development-bank and UN-backed youth agripreneurship programme, and the workshop validating its project document opened](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/). A project document at validation is the stage before a budget: none is published, and no opening date is set.
@@ -107,6 +113,10 @@ No hub count, spend or enterprise figure is published for any of the three, so t
 ## Tanzania
 
 The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
+
+## Tunisia
+
+The startup framework reached for the diaspora. The Dot [opened applications for Dot Landing, a diaspora-entrepreneur programme targeting 30 to 45 founders across three cohorts by 2028](https://www.tunisie.fr/the-dot-lance-un-programme-dedie-aux-entrepreneurs-de-la-diaspora-tunisienne/). It is a pipeline programme with a target and no results yet; the record held carries no count of founders returned, companies incorporated or capital placed under it.
 
 ## Uganda
 

@@ -1,15 +1,17 @@
 ---
 title: New investments — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: finance.new
-places: BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; KEN; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 7b0c1e2746af
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; SWZ; ETH; KEN; MWI; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
+record: 573c80a5c92b
 ---
 
 # New investments: monthly update, August 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -19,11 +21,19 @@ One commitment entered the window. During a ministerial visit of 4 to 6 August, 
 
 The regional development bank's Digital Transformation Fund [was presented to public administrations on 18 and 19 August, with its programme site and eligibility terms published](https://ftd.boad.org/). No allocation to this country, application window or committed amount is stated.
 
+## Cameroon
+
+What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
+
 ## Chad
 
 The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
 
 The fund's own appraisal report now settles the amount the base could not reconcile: the [grant is UA 9.52m against a phase-one total cost of UA 10.535m](https://www.afdb.org/sites/default/files/documents/projects-and-operations/chad_-_support_program_to_improve_the_business_climate_and_the_modernization_of_public_administration_paacama_phase_i.pdf), so the FCFA figure the base had been carrying was a reporting outlet's conversion, and the gap between the two is the rest of the financing plan rather than a discrepancy.
+
+## Congo
+
+A number was put on the sector's future. Consultancy forecasts reported by the state news agency [attribute more than 800 billion of gross domestic product to the digital economy within five years](https://www.aci.cg/congo-numerique-plus-de-800-milliards-du-pib-pour-leconomie-numerique-dici-cinq-ans/). It is a projection carried by the state agency, not a measurement, and the record held carries no current figure for the sector's contribution against which to read it.
 
 ## Cote d'Ivoire
 
@@ -55,6 +65,10 @@ On 4 August the development lender committed [US$24.2m across three Kenyan lende
 
 
 On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement. One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
+
+## Malawi
+
+The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either.
 
 ## Mauritius
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SYC
 ledger_rows: 11
 not_held: 6
-record: a78ae87fc8aa
+record: 6e53f71fba80
 ---
 
 # Seychelles: monthly update, August – September 2026

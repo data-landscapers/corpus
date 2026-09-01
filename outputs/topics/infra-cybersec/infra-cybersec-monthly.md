@@ -1,15 +1,17 @@
 ---
 title: Cybersecurity — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e6d984d7fe89
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; SWZ; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 3e8edb89f04b
 ---
 
 # Cybersecurity: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -64,6 +66,10 @@ What the regulator does have is an enforcement record. It [dismantled a sixth SI
 ## Cote d'Ivoire
 
 The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given, so the gap can be stated and the progress against it cannot.
+
+## Eswatini
+
+Government applications got somewhere to be tested. Eswatini [opened a Government Mobile App Testing Lab, funded and supported by the government of the Republic of China (Taiwan)](https://www.eswatiniobserver.com/govt-puts-cybersecurity-at-heart-of-digital-services/). Testing capacity is the practical end of the cybersecurity legislation still awaiting assent. Nothing in the record held says what the lab has tested, or whether testing is a condition of any application going live.
 
 ## Gabon
 
@@ -137,6 +143,10 @@ The trust layer beneath the September electronic identity launch was signed in t
 ## Nigeria
 
 The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named. Where staffing did move it moved on a foreign programme: the national cybersecurity coordinator [put a United Kingdom-funded bilateral partnership at more than 90 per cent implemented on 22 August, crediting it with the continent's first four SIM3-certified incident-response auditors at the national coordination centre, a reviewed national incident response plan and maturity frameworks for critical national information infrastructure](https://businessday.ng/news/article/how-nigeria-uk-cyber-alliance-is-countering-ai-driven-threats-financial-crime/). The completion figure is his own, and neither the memorandum nor the programme document is held.
+
+## Rwanda
+
+A fraud figure moved the right way. The central bank reported that [cases of fraud involving digital payments fell 30% while electronic transactions rose](https://radiotv10.rw/en/digital-payment-fraud-cases-fall-30-as-electronic-transactions-rise/). What is counted is reported cases, not losses, and the record held carries no reporting rate — so a fall in cases is consistent with better controls and with fewer people bothering to report.
 
 ## Senegal
 

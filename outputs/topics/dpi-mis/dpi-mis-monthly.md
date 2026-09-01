@@ -1,15 +1,17 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: bd36e00e265a
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; GNQ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 107cd40473ec
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -58,6 +60,10 @@ Enforcement caught up with the standardised electronic invoice. The finance mini
 ## Egypt
 
 The social insurance authority reported on 3 August that it had served 8,621,000 people in about four months and cleared 92% of its arrears backlog — while the 95 online services it undertook in February within six months remained forthcoming as that window fell due ([authority account](https://gate.ahram.org.eg/News/5882131.aspx)).
+
+## Equatorial Guinea
+
+Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
 
 ## Ethiopia
 
@@ -134,6 +140,10 @@ The higher-education, research and innovation ministry [reported a further step 
 ## Seychelles
 
 [Firstpost reported on 8 August 2026](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) that bilateral consultations between India and Seychelles on adopting the e-Sanjeevani, e-Office and e-Hospital platforms were advancing, with no MoU, pilot or date yet established.
+
+## Sierra Leone
+
+Two sectoral systems moved in the same week. The government [launched a digital jobs portal, stated as intended to break the nepotism cycle in youth employment](https://sierraloaded.sl/local/sierra-leone-digital-jobs-youth-employment/), and the science and technology directorate [signed a memorandum with the pharmacy board to advance digital pharmaceutical regulation](https://owlpress-sl.com/dsti-pharmacy-board-sign-mou-advance-digital-pharmaceutical-regulation/). Neither carries a volume figure: no vacancies posted, no placements made, no products registered.
 
 ## Somalia
 

@@ -1,15 +1,17 @@
 ---
 title: Legislation and regulation — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.legislate
-places: DZA; AGO; BDI; CMR; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
-record: f324c6b80337
+places: DZA; AGO; BDI; CMR; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: d9940de6e4c8
 ---
 
 # Legislation and regulation: monthly update, August 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -186,6 +188,10 @@ Two instruments moved on the same week, one drafting and one made. The labour mi
 ## Namibia
 
 The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
+
+## Niger
+
+The civil-status reforms are being explained rather than amended. The national awareness tour reached its fourth stage with [a workshop opening in Agadez on the civil-status and personal-identification reforms](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/), where [the region mobilised its actors around inclusive governance of the new regime](https://airinfoagadez.com/2026/08/28/reformes-de-letat-civil-et-de-lidentification-agadez-mobilise-ses-acteurs-pour-une-gouvernance-inclusive/). Explaining a reform is not implementing it, and the record held carries no count of registrations made under the new regime in any region the tour has passed through.
 
 ## Nigeria
 

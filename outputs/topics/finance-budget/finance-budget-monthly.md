@@ -1,15 +1,23 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: finance.budget
-places: EGY; GMB; SEN; SDN; TUN
-record: 42f9a84b7c3f
+places: AGO; COD; EGY; GMB; SEN; SDN; TUN
+record: abf195068c6d
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, August 2026
 
-*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Angola
+
+August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what the integrated ecosystem consists of, who will build it, or by when.
+
+## DR Congo
+
+The money behind the finance inspectorate's digitalisation turns out to be domestic. The US$22 million presented in May as already-identified financing [is the state's own allocation rather than donor money](https://www.deskeco.com/2026/08/26/rdc-les-22-millions-usd-annonces-pour-le-projet-de-digitalisation-du-controle-de-ligf-proviendront/), its inspecteur général chef de service confirmed. That distinction matters for a programme whose durability depends on whether it survives a budget cycle rather than a grant period; the record held carries no disbursement schedule against it.
 
 ## Egypt
 

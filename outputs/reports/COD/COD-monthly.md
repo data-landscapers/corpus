@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: COD
 ledger_rows: 47
 not_held: 13
-record: ad142a21cfe7
+record: 242f3a5b350a
 ---
 
 # DR Congo: monthly update, August – September 2026

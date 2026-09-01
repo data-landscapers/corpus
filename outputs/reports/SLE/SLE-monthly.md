@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SLE
 ledger_rows: 31
 not_held: 11
-record: 7cc33b7186e5
+record: a97aba57d69e
 ---
 
 # Sierra Leone: monthly update, August – September 2026

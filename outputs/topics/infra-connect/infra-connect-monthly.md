@@ -1,15 +1,17 @@
 ---
 title: Connectivity — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 0abdc8483dc3
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 4b716b5588fc
 ---
 
 # Connectivity: monthly update, August 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -18,6 +20,10 @@ The one dated position is the licence award rather than any new build. [Three co
 ## Angola
 
 Two lines moved and neither is national. An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
+
+## Benin
+
+The regulator published a competitive ranking. Its weekly readings [placed the state-linked operator Celtiis ahead of MTN and Moov Africa on 3G and 4G data speed](https://www.lanation.bj/numerique/telecoms-debit-internet-3g-4g-les-donnees-de-larcep-placent-celtiis-devant-mtn-et-moov-africa). The measurement is the regulator's own, the ordering rather than the absolute speeds is what it publishes, and the state's interest in one of the three operators is worth holding in mind while reading it.
 
 ## Botswana
 
@@ -44,6 +50,10 @@ On the money side, the universal service fund's [revised FY2026/27 procurement p
 ## Cameroon
 
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
+
+## Central African Republic
+
+The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
 
 ## Comoros
 
@@ -219,6 +229,10 @@ The legacy-network retirement plan the ministry announced on 28 July fixes third
 
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
+
+## Somalia
+
+Price is Somalia's unusual strength. Mobile data prices [were reported among the cheapest in Africa, alongside smartphone financing offers](https://radiodalsan.com/2026/08/29/somalia-mobile-data-prices/). The record held carries no price-to-income figure, which is the measure that decides affordability; cheap data in a low-income country is not the same as affordable data, and nothing here settles which this is.
 
 ## South Africa
 

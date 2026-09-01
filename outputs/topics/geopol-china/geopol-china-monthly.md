@@ -1,15 +1,15 @@
 ---
 title: China activities — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: geopol.china
-places: DZA; BWA; BFA; TCD; KEN; NER; NGA; SEN; SSD; ZMB; ZWE
-record: 317502fe6d01
+places: DZA; BWA; BFA; TCD; KEN; NER; NGA; SEN; SSD; SDN; ZMB; ZWE
+record: b329c5f40ed1
 ---
 
 # China activities: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -50,6 +50,10 @@ The sovereign cloud is [in testing, with data-centre infrastructure deployed and
 On 31 August the ICT minister was reported to have [held exploratory talks with a Huawei vice-president in Hangzhou, on the sidelines of a China-Africa digital capacity building conference, saying the government is ready to seek the company's expertise in connecting public services](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Beyond e-governance, [participation is sought in building smart cities, providing energy solutions and setting up a national data hub in Juba](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3).
 
 This is a repair, not an opening. [Government officials accused the company in 2014 of hacking government emails and forging documents; it stayed in the market through the rift, connecting schoolchildren to the internet and refurbishing school laboratories, and the restoration is credited to two officials who took post in 2025, whose meeting in Juba in early 2026 covered the digital divide, the data hub and a smart capital](https://www.itweb.africa/article/south-sudan-seeks-huawei-support-for-digitalisation/RgeVDvPRk61MKJN3). Nothing has been agreed: no contract, memorandum, workstream or figure is on record, which is where this relationship stood in February and where it still stands.
+
+## Sudan
+
+The China relationship acquired a physical address. Sudan's minister of digital transformation and communications [attended the opening of a digital cooperation centre with China](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/). Until this month the base held nothing at all on Chinese digital engagement with Sudan. What it still holds nothing on is the instrument behind the centre, its value, or what it is to do.
 
 ## Zambia
 

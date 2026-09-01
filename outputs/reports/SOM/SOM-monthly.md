@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SOM
 ledger_rows: 19
 not_held: 10
-record: bb00b3ab6767
+record: eb5744c928b3
 ---
 
 # Somalia: monthly update, August – September 2026

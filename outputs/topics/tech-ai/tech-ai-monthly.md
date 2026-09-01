@@ -1,15 +1,17 @@
 ---
 title: AI — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: tech.ai
-places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: 8069347da00b
+places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
+record: ddc0b5c8134d
 ---
 
 # AI: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -109,6 +111,10 @@ AXIAN Telecom was [named a founding partner of an African-language artificial-in
 
 A [Madagascar-Egypt government partnership on the use of artificial intelligence in public administration and the sector's digital transition was reported on 1 August](https://midi-madagasikara.mg/transformation-numerique-recrutement-de-jeunes-au-sein-du-mndpt/), with no date of signature given.
 
+## Malawi
+
+The artificial-intelligence strategy is being argued over before it is adopted. A commentary [urged that a verification standard be settled before any scaling into public services](https://www.maravipost.com/malawis-ai-strategy-needs-a-verification-standard-before-public-services-scale/), following regional consultations. No adopted strategy text has been located, so what is in public debate is a direction rather than a document, and the verification question it raises has nothing yet to attach to.
+
 ## Mali
 
 On 1 August the Semaine du Numerique [recommended a national AI strategy](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), which Mali does not have, alongside an AES protocol on AI governance. The [Centre d'intelligence artificielle et de robotique closed the week with a demonstration of a locally built intrusion-detection technology](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0).
@@ -171,6 +177,10 @@ On 13 August the ICT ministry [held a two-day working session with a hyperscaler
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 
 What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
+
+## Sierra Leone
+
+The electoral commission is thinking two years ahead. It [publicly considered the use of artificial intelligence for the 2028 elections](https://sierraloaded.sl/news/ecsl-use-ai-for-2028-sierra-leone-elections/). What function is contemplated, and what safeguards would attach to it, is not stated. An electoral body considering artificial intelligence in public is worth recording early, because the decisions that matter are taken before procurement rather than after it.
 
 ## Somalia
 

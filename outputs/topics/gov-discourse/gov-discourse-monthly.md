@@ -1,15 +1,21 @@
 ---
 title: Public debate and participation in policymaking — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.discourse
-places: BFA; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NGA; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
-record: 2122072e6bda
+places: BEN; BFA; CMR; TCD; COG; CIV; COD; EGY; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MWI; MLI; MUS; MAR; NGA; SYC; SOM; ZAF; SSD; TZA; TGO; UGA; ZMB
+record: 3e4de40fed34
 ---
 
 # Public debate and participation in policymaking: monthly update, August 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
+
+## Benin
+
+Internet governance was taught rather than legislated. A school on the subject [was held in Ouidah with human rights at the centre of its programme](https://lematinal.bj/ecole-sur-la-gouvernance-de-linternet-au-benin-a-ouidah-les-droits-humains-au-coeur-de-la-revolution-numerique/). It is a training event; the record held names no policy process it feeds into.
 
 ## Burkina Faso
 
@@ -27,6 +33,10 @@ On 4 August the Haute autorité des médias et de l'audiovisuel [announced](http
 
 A [national internet governance forum devoted to artificial intelligence is in preparation](https://tchadinfos.com/2026/08/25/gouvernance-dinternet-le-tchad-prepare-un-forum-national-consacre-a-lintelligence-artificielle/), with no date, venue or agenda yet announced.
 
+## Congo
+
+The month's governance news is a prosecution. An international observatory [recorded continued judicial harassment of the defender Ghislain Ondele Kanga and the opening of his trial](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088). The record held carries no state response to the account.
+
 ## Cote d'Ivoire
 
 The month's one entry here is research rather than an instrument. A study [documented cyclical online gendered violence against election candidates in this country and one other](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/). No regulatory response, platform obligation or reporting route stands against it on the ledger.
@@ -40,6 +50,14 @@ The audiovisual and communications council and the press-freedom council [formal
 ## Egypt
 
 Two administrative reforms are stated and neither is dated. The head of the Council of State told circuit presidents the Council [continues to implement an integrated digital transformation plan](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) to speed litigation, naming no system, date or deliverable — the only first-hand record that this branch has a digitisation programme at all. A [proposed cut of the VAT credit-refund period to four months, three for smaller firms](https://www.alborsaanews.com/2026/07/29/1982823), still awaits its legislative steps, and will not meet its objects while the problems obstructing proof of balances remain.
+
+## Eritrea
+
+Outside consultation reached Asmara. A water-security project [held two rounds of geodesign workshops in July 2026 with more than twenty government, academic, private-sector and non-governmental participants, alongside a hydrological-modelling training session for Eritrean technical experts](https://www.eurac.edu/en/news/center-for-global-mountain-safeguard-research/nbs4water-geodesign-workshops-advance-nature-based-planning-for-asmaras-water-sec). It is the convener's own account of process, and it sits against a state the record elsewhere describes as silencing criticism systematically.
+
+## Eswatini
+
+The regulator drew a line in public. ESCCOM [stated that cyberbullying is a criminal offence under the computer crime statute](https://eswatinipositivenews.online/esccom-warns-emaswati-cyberbullying-is-a-crime/). Stating an existing offence is a step short of enforcing it: the record held carries no prosecution, complaint volume or reporting route created alongside the statement.
 
 ## Ethiopia
 
@@ -110,6 +128,10 @@ A former prime minister published an argument that [the country cannot afford an
 ## South Africa
 
 The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
+
+## South Sudan
+
+The e-government contract came under an allegation the minister denies. The information technology minister [denied two documents alleging a US$15 million influence-buying transfer by the contracted firms](https://www.eyeradio.org/ateny-dismisses-alleged-15-million-dollar-transfer-documents-as-fake/). The documents' authenticity is contested and the record held carries no independent verification either way. Separately, a published argument [held that South Sudan needs digital payments but also needs the ability to follow the money](https://www.radiotamazuj.org/en/news/article/op-ed-south-sudan-needs-digital-payments-but-it-also-needs-to-follow-the-money) — a case the month's other news makes concrete.
 
 ## Tanzania
 

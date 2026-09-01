@@ -1,15 +1,17 @@
 ---
 title: Energy — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: infra.energy
-places: BWA; BDI; COM; ETH; LSO; MWI; MUS; MOZ; SLE; ZAF; UGA; ZWE
-record: 87e7882f28de
+places: BWA; BDI; COM; ETH; LSO; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
+record: 420a45a10974
 ---
 
 # Energy: monthly update, August 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 
@@ -56,6 +58,10 @@ It closes a build programme rather than opening one: the last unit of the two fl
 ## Uganda
 
 The largest operator's 2025 sustainability report puts [45% of network sites on solar or hydro, with a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). The [figures are the company's own and unaudited](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf), and no prior-year share is held against which to read that share.
+
+## Zambia
+
+Power at the tower is where a network's reliability is decided, and one operator put money against it. The tower company INFRATEL [says it has invested US$5 million in power resilience at mobile sites, deploying high-powered thermal batteries and upgrading solar plant](https://efficacynews.africa/2026/08/31/infratel-invests-us5-million-to-strengthen-mobile-network-power-resilience/). The figure is the company's own; no site count, no before-and-after outage measure and no independent verification is in the record held.
 
 ## Zimbabwe
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: SDN
 ledger_rows: 22
 not_held: 12
-record: a80266b56e61
+record: 3fcb59ab000b
 ---
 
 # Sudan: monthly update, August – September 2026

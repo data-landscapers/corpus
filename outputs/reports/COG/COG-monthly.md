@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: COG
 ledger_rows: 18
 not_held: 12
-record: 937ccafb76a9
+record: 68edaecd05a4
 ---
 
 # Congo: monthly update, August – September 2026

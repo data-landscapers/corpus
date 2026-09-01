@@ -1,15 +1,17 @@
 ---
 title: Access to services — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: include.access
-places: DZA; AGO; BWA; BDI; COM; CIV; DJI; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
-record: 3d0aaac87713
+places: DZA; AGO; BWA; BDI; COM; CIV; DJI; COD; EGY; ERI; SWZ; ETH; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: fb14aee24587
 ---
 
 # Access to services: monthly update, August 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -49,11 +51,19 @@ On 23 July a state bank and the payroll monitoring committee settled the technic
 
 The month's clearest inclusion move was a reopening rather than an extension. From 24 July the state accepted ration-card grievance and data-update forms at 500 post offices on Friday afternoons and Saturday mornings, alongside the online route that had until then been the only channel for appeals against the 2026 eligibility criteria, with a daily adjudication committee, results notified by text message and every case checked against official databases.
 
+## Eritrea
+
+One digital feedback channel is on the record, and it belongs to the operator rather than the state. The sole state telecommunications provider [runs a live web form for internet-connectivity, website-access and web-application complaints, with telephone and email alternatives](https://eritel.com.er/internet_complaint_hub.php?id=1041). No whole-of-government complaint route is recorded, and no volume of complaints made or resolved is published.
+
 ## Eswatini
 
 The country's second innovation hub opened at [Macetjeni in the Lubombo region on 7 August, extending digital-skills and small-business support to a rural community](https://times.co.sz/41030/news/empowering-lubombo-macetjeni-ihub-officially-launched/), built by the small enterprise development company with the communications commission and UNDP under a youth empowerment programme, and following the Piggs Peak hub of 2025. No financing figure was disclosed for the facility, and no user, training or enterprise-support count is published for either.
 
 What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the base holds no reliability series to test it against.
+
+## Ethiopia
+
+The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 
 ## Ghana
 
@@ -134,6 +144,10 @@ The grant-review audit reached [105,600 of 352,000 targeted reviews with an esti
 ## Tanzania
 
 Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
+
+## Togo
+
+A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part. It is a pilot: no case volume, geographic coverage or referral outcome is in the record held.
 
 ## Uganda
 

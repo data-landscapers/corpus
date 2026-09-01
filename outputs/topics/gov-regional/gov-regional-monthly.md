@@ -1,15 +1,17 @@
 ---
 title: Regional collaboration — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BDI; TCD; COG; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TGO; TUN; ZWE
-record: 68ac7a762afd
+places: DZA; AGO; BEN; BWA; BDI; TCD; COG; CIV; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TZA; TGO; TUN; ZWE
+record: 1ccb7c5ce3cf
 ---
 
 # Regional collaboration: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
@@ -38,6 +40,10 @@ The telecommunications minister [received an Azerbaijani delegation in N'Djamena
 ## Congo
 
 The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the base holds is that two regulators have agreed to cooperate.
+
+## Cote d'Ivoire
+
+Côte d'Ivoire is standing for a seat at the table that writes the rules. It [declared its candidacy for election to the ITU Council and will press it at the 7th World Telecommunication/ICT Policy Forum in Nassau](https://digitalmag.ci/telecom-conseil-de-luit-la-cote-divoire-va-defendre-sa-candidature-aux-bahamas/), with a delegation [attending the forum to prepare that candidacy](https://news.abidjan.net/articles/749043/7e-forum-mondial-des-tic-aux-bahamas-la-cote-divoire-annonce-sa-participation-pour-preparer-sa-candidature-au-conseil-de-luit). The record held names no platform the candidacy would run on and no other state's support for it.
 
 ## DR Congo
 
@@ -145,6 +151,10 @@ Accession to the continental free-trade area reached its last procedural step: t
 ## South Sudan
 
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
+
+## Tanzania
+
+Tanzania was the one being studied this month. A Somali government delegation [examined the labour and employment digital systems in Dodoma on 28 August](https://www.kazi.go.tz/news/somalia-yakoshwa-na-mifumo-ya-kidijitali-sekta-ya-kazi-na-ajira), and Somalia is [seeking to learn from the wider public-service digitalisation experience](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/). Both accounts are the host's. Nothing in the record held sets out what is to be transferred, on what terms, or whether either side has committed anything beyond a visit.
 
 ## Togo
 

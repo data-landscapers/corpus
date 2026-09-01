@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: CAF
 ledger_rows: 12
 not_held: 15
-record: 34da3cb86b47
+record: f825d345514c
 ---
 
 # Central African Republic: monthly update, August – September 2026

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: GNQ
 ledger_rows: 18
 not_held: 6
-record: abaf9322dfcc
+record: 6ab87bb80418
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026

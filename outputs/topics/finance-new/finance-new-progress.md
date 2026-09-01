@@ -1,13 +1,13 @@
 ---
-title: New investments — progress report, 2025-09-01 to 2026-09-01
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+title: New investments — progress report, 2025-09-01 to 2026-09-02
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 subject: finance.new
 places: XAF; XSA; XWA
-record: f3bd89d6fd39
+record: 293b7a814792
 ---
 
-# New investments: progress report, 2025-09-01 to 2026-09-01
+# New investments: progress report, 2025-09-01 to 2026-09-02
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,9 +15,9 @@ record: f3bd89d6fd39
 
 ## Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
-| African technology equity and debt funding | US$3.25bn in total equity and debt funding across 534 deals in 2024 | [US$4.1bn in 2025, up about 25% year on year and the strongest level since 2022, across 570 deals, up 7%; debt reached its highest volume ever at US$1.6bn, up 63% on a 40% rise in the number of debt transactions and making up almost half of total capital raised, while equity funding grew 8% on a broadly stable deal count, so the growth came through larger ticket sizes rather than more transactions](https://partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report) | Advanced |
+| African technology equity and debt funding | US$3.25bn in total equity and debt funding across 534 deals in 2024 | [US$4.1bn in 2025, up about 25% year on year and the strongest level since 2022, across 570 deals, up 7%; debt reached its highest volume ever at US$1.6bn, up 63% on a 40% rise in the number of debt transactions and making up almost half of total capital raised, while equity funding grew 8% on a broadly stable deal count, so the growth came through larger ticket sizes rather than more transactions](https://techcabal.com/2026/09/01/chipmango-raises-1-9-million/) | Advanced |
 | Development agency shift from aid delivery to investment mobilisation | Did not exist | [A United Nations development agency told its executive board that its finance model is shifting from delivering aid to using scarce public resources to unlock investment at scale, citing official development assistance down 23.3% in 2025 with a further fall expected](https://www.undp.org/speeches/second-regular-session-undp-executive-board-2026) | Advanced |
 | Digital Africa Seed Fund | Did not exist | [A closed-end seed-stage fund with a ten-year horizon, sized at EUR 30m with a hard cap of EUR 50m, targeting 30 startups across 20 priority African countries at an average first ticket of EUR 300,000, and positioned as the seed step between the sponsor's pre-seed vehicle and institutional Series A investors](https://www.digital-africa.co/en/blog/digital-africa-launches-the-seed-fund) | Advanced |
 | Digitalisation of cooperative agricultural financial institutions | Did not exist | [EUR 12,000,000 committed by a bilateral development ministry to digitalise cooperative agricultural financial institutions in West Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202501146) | Advanced |
@@ -28,6 +28,7 @@ record: f3bd89d6fd39
 | Hewlett Foundation grant to Data4Change (Data Hub: Africa) | Did not exist | [US$400,000 committed (US$200,000 disbursed) to Data4Change's Africa Hub, building community-generated evidence for policy and practice in East and West Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06796-GRA) | Advanced |
 | Hewlett Foundation grant to ICED (AI-enabled evidence generation) | Did not exist | [US$100,000 committed and fully disbursed for the International Centre for Evaluation and Development to adopt AI-enabled evidence generation institution-wide](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-07006-GRA) | Advanced |
 | IFC equity investment in Jumia | Did not exist | [US$25m of IFC equity inside a wider US$50m raise](https://www.ifc.org/en/pressroom/2026/world-bank-group-invests-in-africa-s-digital-commerce-infrastructure-to-support-jobs-and-small-businesses) | Advanced |
+| Investment in a carrier-neutral digital infrastructure platform | Did not exist | [a shareholder subscription agreement signed in Riyadh for a combined US$300m investment from a continental infrastructure financier and a Saudi investment company, the largest capital raise in the platform's history](https://www.africafc.org/news-and-insights/news/wiocc-group-secures-strategic-investment-from-afc-and-vision-invest-to-accelerate-its-digital-infrastructure-expansion-across-africa) | Advanced |
 | Mergers and acquisitions in the digital economy | 68 deals across the whole of 2025 | [84 deals worth an estimated US$11.4bn in disclosed value between 1 January and 17 August 2026](https://techcabal.com/2026/08/24/84-ma-deals-worth-11-4-billion-in-disclosed-value-recorded-so-far-in-2026/) | Advanced |
 | Share of funded African tech startups led by a female chief executive | 17 of 178 funded ventures, 9.6%, taking 7.9% of the capital (2025) | [5 of 60, 8.3%, taking 2.8% of the capital (2026 to May)](https://disruptafrica.com/2026/08/05/worrying-trend-for-funding-for-female-founded-startups-in-african-tech/) | Regressed |
 | TaxDev III (IFS tax and social-protection policy data programme) | Did not exist | [Institute for Fiscal Studies programme, funded by the UK's FCDO, building tax and social-protection policy data resources and tools with finance ministries and revenue authorities in Ethiopia, Ghana, Kenya, Nigeria, Rwanda and Uganda; about US$6.36m disbursed 2023-2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-COH-954616-TaxDevIII) | Advanced |
@@ -48,14 +49,14 @@ record: f3bd89d6fd39
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Botswana Tech Fund | Did not exist | [First phase of GBP 5m against a GBP 50m target, backing pre-seed and growth companies across Southern Africa](https://botswanatech.com/blog/botswana-tech-fund-launches-with-%C2%A35m-phase-1) | Advanced |
 | UK science and technology accelerator programme | ***Baseline not held*** | [A three-year programme of up to GBP2.5m out to expressions of interest, covering artificial intelligence and emerging technologies and digital access and inclusion alongside climate, energy, health and space, with a primary focus on South Africa and a first-year focus on Zimbabwe and Zambia](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund (BOAD/KfW) | Did not exist | [A joint fund of the West African Development Bank and the German development bank carrying an envelope of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, with a published six-step instruction and validation process, a named focal point in each member state, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing; no date of signature or entry into force, no country allocation and no committed or disbursed total is published](https://ftd.boad.org/) | Advanced |
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |

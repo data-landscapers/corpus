@@ -1,15 +1,17 @@
 ---
 title: Data Storage — monthly update, August 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 subject: infra.store
 places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
-record: 0d3049f97a36
+record: 576b7aa9d164
 ---
 
 # Data Storage: monthly update, August 2026
 
 *23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
