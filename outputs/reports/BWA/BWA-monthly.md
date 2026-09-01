@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: BWA
-ledger_rows: 24
+ledger_rows: 26
 not_held: 7
-record: 963e02ccc6b9
+record: 673254ab3313
 ---
 
 # Botswana: monthly update, August – September 2026
@@ -57,6 +57,11 @@ A published account documents a [growing digital safety problem](https://www.mme
 
 ## DPI
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The credential's problem this month is forgery rather than production. The labour and home affairs ministry [is contending with a cartel producing fake identity documents](https://allafrica.com/stories/202608260258.html). That is a statement about the integrity of the Omang credential, not only about the backlog in issuing it, and the two compound each other: a slow replacement queue is what makes a forged card useful. No arrest, prosecution or volume figure is in the record held.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -92,6 +97,11 @@ The state wholesale network operator [presented its first integrated report, for
 
 <!-- narrative: inclusion--include-access -->
 The Ministry of Youth and Gender Affairs [describes the Department of Gender Affairs as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs), the standing institution behind this subject. Nothing else in the inclusion ledger moved in this window; the gender-based violence programme and the one-stop centres both date from earlier in the year.
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The creative sector was surveyed for a digital purpose. A two-day multistakeholder workshop in Gaborone [mapped Botswana's creative industries to shape a more inclusive digital future](https://www.unesco.org/en/articles/botswana-maps-its-creative-industries-shape-more-inclusive-digital-future). A mapping is a starting position; the record held carries no output from it and no policy it is to feed.
 <!-- /narrative -->
 
 ## Data

@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: CMR
-ledger_rows: 24
+ledger_rows: 26
 not_held: 7
-record: ec895be2832f
+record: 7895979dd367
 ---
 
 # Cameroon: monthly update, August – September 2026
@@ -33,6 +33,14 @@ The one legislative act in the window changes the regulator rather than the rule
 The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The base holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
 
 The 2026 national Internet Governance Forum [met at the Palais des Congres in Yaounde from 18 to 20 August](https://techgriot.co/english/cameroon/2026/08/cameroons-fgi-2026-bet-on-data-to-connect-public-services/) under the theme of moving from fragmentation to interoperability and making data the backbone of public digital services. No resolution, communique or follow-up mechanism came out of it.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+What deters investment was named out loud. At a United States-convened business climate forum in Yaoundé, [financial technology and foreign-exchange rules rather than the investment case dominated the discussion](https://www.businessincameroon.com/public-management/2708-16628-cameroon-s-regulatory-hurdles-take-center-stage-in-talks-to-unlock-u-s-investment), and a separate assessment [set out what is still getting in the way of United States digital investment despite strong demand](https://www.ecofinagency.com/news-digital/2808-58424-u-s-digital-investment-in-cameroon-what-is-still-getting-in-the-way). Demand is not the constraint here and both accounts say so; the record held carries no rule changed in response.
 <!-- /narrative -->
 
 ## ICT Infrastructure

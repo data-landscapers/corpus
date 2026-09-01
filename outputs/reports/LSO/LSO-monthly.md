@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: LSO
-ledger_rows: 24
+ledger_rows: 26
 not_held: 4
-record: 9ab181af91e0
+record: 57fc17eb26c3
 ---
 
 # Lesotho: monthly update, August – September 2026
@@ -79,6 +79,11 @@ A freeze on refugee identity documents is reported to have left [families strand
 
 <!-- narrative: dpi--dpi-pay -->
 The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being rolled out and not how far it has reached.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+A sector got its own register. Lesotho [launched a National Farmers Portal, placing every farmer in a single digital registry](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html). A farmer register is the base for subsidy, extension and insurance delivery, so what matters next is enrolment and what other systems it connects to. The record held carries neither: no farmer count, and no statement that the portal exchanges data with the social registry or any payment mechanism.
 <!-- /narrative -->
 ### Sectoral management information systems
 

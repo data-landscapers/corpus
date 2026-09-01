@@ -1,15 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-31
+compiled: 2026-09-02
 place: LSO
-ledger_rows: 156
+ledger_rows: 158
 not_held: 4
-record: bbb3f8b91179
+record: e6e07f8b4d85
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-31 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (156 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (158 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -34,7 +34,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 | Broadband Infrastructure Sharing Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
 | Data Management Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
 | National AI Policy | [Implemented](https://lestimes.com/?p=90715) | Signed by the MICSTI minister, 2026-06-12 |
-| National AI Strategy | [In development](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/) | Drafting workshop opened in Maseru 2026-08-17 |
+| National AI Strategy | [In development](https://www.thereporter.co.ls/2026/08/26/advancing-national-ai-strategy-and-data-centre-blueprint/) | Policy workshop held 2026-08-26 |
 | National Digital Policy 2024 | [Implemented](https://www.policyvault.africa/wp-content/uploads/2025/09/LSO61.pdf) | Issued in 2024 |
 | National Digital Transformation Strategy: Agenda 2030 | [Implemented](https://www.gov.ls/download/lesotho-national-digital-transformation-strategy-2024-2030/) | Launched in 2024 |
 
@@ -235,6 +235,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 | General register of electors | [Implemented](https://www.idea.int/news/lesotho-takes-strategic-step-towards-inclusive-electoral-participation) | Constituted under section 66 of the Constitution and the 2011 electoral Act |
 | Land holding database | [Implemented](https://www.lena.gov.ls/laa-brings-services-closer-to-communities/) | The Land Administration Authority is charged with maintaining it under the 2010 Act |
 | Land Regulations 2011 | [Implemented](https://lesotholii.org/akn/ls/act/ln/2011/21/eng@2011-02-24) | Made under the Land Act 2010; carry the allocation and identification registers |
+| National Farmers Portal | [Implemented](https://www.prnewswire.com/news-releases/lesotho-launches-national-farmers-portal-giving-every-farmer-a-place-in-a-single-digital-registry-302864372.html) | Launched 2026-08-30 |
 | National Spatial Development Infrastructure Policy | [Planned](https://www.lena.gov.ls/mountain-areas-are-project-based-areas-mahooana/) | Proposed by officials, May 2026 |
 | NISSA social registry | [Implemented](https://dpi.africa.com/lesothos-digital-leap/) | Child-centred redesign piloted in Mafeteng District |
 | Registrar of Companies | [Implemented](https://businessregistrations.gov.ls/law/companies-act-2011.html) | Established by the Companies Act 2011 |
@@ -263,6 +264,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 |---|---|---|
 | E-Parliament system | [Implemented](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | Completion reported in the 2025/26 budget speech, 2025-02-19 |
 | eGovernment Infrastructure Project Phase II | [Implemented](https://lestimes.com/?p=90715) | Digital Outreach Studio launched under the project, 2026-06-12 |
+| Integrated financial management information system upgrade | [In development](https://www.finance.gov.ls/PDFDocuments/TOR%20IFMIS%20UPGRADE%20PROJECT%20MANAGER-639130560784133389.pdf) | Terms of reference published 2026-08-26 |
 | National Data Value Creation Blueprint | [In development](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) | First national stakeholder consultative workshop, 14-15 July 2026 |
 | Separate government ICT agency | [Planned](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) | Announced as a plan to move ICT services out of the civil service, 2026-07-29 |
 

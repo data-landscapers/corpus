@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: BFA
-ledger_rows: 23
+ledger_rows: 25
 not_held: 11
-record: 02ad1e64d983
+record: 92f674842bf8
 ---
 
 # Burkina Faso: monthly update, August – September 2026
@@ -76,6 +76,11 @@ Alongside the build, the state published a count of what it has tested. [205 sta
 
 ## DPI
 
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The Sahel alliance's shared credential reached another town. Enrolment for the common biometric identity card [opened in Arbinda on 27 August](https://www.aib.media/soum-arbinda-la-cib-aes-suscite-un-fort-engouement-des-populations/). Arbinda is in the Soum province, which makes where enrolment opens a security question as much as an administrative one. The record held carries no enrolment total for the card, in Burkina Faso or across the alliance.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->

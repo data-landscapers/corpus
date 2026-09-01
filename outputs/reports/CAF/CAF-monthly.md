@@ -1,11 +1,11 @@
 ---
 title: Central African Republic — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: CAF
-ledger_rows: 9
+ledger_rows: 12
 not_held: 15
-record: c6cd351e19e5
+record: 34da3cb86b47
 ---
 
 # Central African Republic: monthly update, August – September 2026
@@ -29,6 +29,11 @@ The World Bank published a public finance review of the Central African Republic
 
 It is the first independent assessment the base holds of the ground the government's own public-finances digitalisation plan 2025-2027 covers. That plan's costed operational annex, due in April 2025, is still unpublished.
 <!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The month's sharpest item is an allegation about surveillance. A critical outlet reported that [the president has turned to mobile operators to trace citizens through SIM card records](https://corbeaunews-centrafrique.org/depasse-par-lia-touadera-se-tourne-vers-les-operateurs-mobiles-pour-traquer-les-centrafricains-via-les-cartes-sim/). The account is one outlet's and the record held carries no official instrument authorising such tracing, no operator confirmation and no data-protection safeguard attached to it. It is recorded here because a claim of state access to subscriber records is the kind of thing a base should carry even before it is confirmed.
+<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -39,6 +44,11 @@ Two of the operators visited said they had not been told registration was requir
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The country's dependence on one neighbour was examined. A published assessment [set out the options for reaching submarine cable capacity other than through Cameroon](https://www.camerounlink.com/news/2026/9/1/acces-aux-cables-sous-marins-quelles-options-pour-la-centrafrique-au-dela-du-cameroun-156491/). For a landlocked country, the transit route is the bandwidth constraint. The assessment names alternatives; the record held carries no route secured, no agreement signed and no capacity figure.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
@@ -56,6 +66,11 @@ Electricity bills became payable over mobile money at [a Bangui launch on 4 Augu
 
 <!-- narrative: dpi--dpi-mis -->
 Health information in the window is a single link run by someone other than the state. A remote hospital [is using telemedicine to reach a global network of healthcare professionals](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/), the service run by an international medical organisation rather than the health ministry. One site is a capability and not yet a system: no case volume, connectivity arrangement or continuity plan is published, so what happens to the link when the organisation leaves is not on record.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+An operator described its own contribution. Orange [published an account of work to build more accessible and inclusive public digital services in the country](https://fr.linkedin.com/posts/orange-centrafrique_orangecentrafrique-transformationnum%C3%A9rique-activity-7498417069621870592-Y_Eb). It names no service and carries no user figure, and it is the operator's own account of its role rather than the state's account of what it has delivered.
 <!-- /narrative -->
 
 ## Capacity

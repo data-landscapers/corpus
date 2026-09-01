@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-31
+compiled: 2026-09-02
 place: BWA
-ledger_rows: 183
+ledger_rows: 184
 not_held: 7
-record: b18d62927f17
+record: 3670915da3dd
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-31 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (183 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (184 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -184,7 +184,7 @@ One procurement runs against that retrenchment: a [P654.4m learning-technology c
 | Cybercrime and Computer Related Crimes Act 2018 | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Its repeal takes effect only on the 2025 Act's commencement |
 | Liquid Secure360 | [Implemented](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r) | Service portfolio launched in Botswana |
 | National Cyber Drill | [Implemented](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news) | A four-day drill held, opened by the regulator's chief executive |
-| Online safety exposure | [Implemented](https://www.mmegi.bw/features/inside-botswanas-growing-digital-safety-challenge/news) | Growing exposure documented in the national press, August 2026 |
+| Online safety exposure | [Implemented](https://www.mmegi.bw/features/interpol-flags-cyber-threats-for-botswana/news) | Police threat assessment reported 2026-08-28 |
 | National Cybersecurity Strategy | ***Not held*** | — |
 
 <!-- narrative: ict-infrastructure -->
@@ -219,7 +219,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | National Public Key Infrastructure | [In development, stalled](https://weekendpost.co.bw/p420-million-digital-bombshell/) | Public accounts committee told it is funded, begun, incomplete and non-operational |
 | National Registration (Amendment) Act 2025 | [Implemented](https://dailynews.gov.bw/news-detail/90334) | In force by 2026-03-02; a passport or driving licence valid while an identity card is replaced |
 | National Registration Act (Cap. 01:02) | [Implemented](http://citizenshiprightsafrica.org/wp-content/uploads/2019/12/Botswana-National-Registration-Act-1986.pdf) | Assented 24 December 1986 |
-| Omang card production and replacement | [Implemented, production degraded](https://dailynews.gov.bw/news-detail/92439) | Parliamentary answer: too few production staff and ageing equipment with frequent breakdowns |
+| Omang card production and replacement | [Implemented, production degraded](https://allafrica.com/stories/202608260258.html) | Document cartel reported 2026-08-26 |
 
 ### Digital Payments and Fintech
 
@@ -391,6 +391,7 @@ Research capacity is the better-evidenced half of Botswana's record: a [National
 | System or instrument | Status | Milestone |
 |---|---|---|
 | BTC Community Wi-Fi, Old Naledi | [Implemented](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/) | Launched June 2025 |
+| Mapping of the creative industries for digital inclusion | [Implemented](https://www.unesco.org/en/articles/botswana-maps-its-creative-industries-shape-more-inclusive-digital-future) | Workshop held 2026-08-30 |
 | Universal Access and Service Fund Framework | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/BOTSWANA_UASF_FRAMEWORK_FINAL_VERSION.pdf) | Issued September 2025 |
 | Universal Access and Service Fund school digital centres | [Implemented](https://dailynews.gov.bw/news-detail/92351) | Two handovers in the North West District, 22 and 23 July 2026 |
 
