@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: ZWE
-ledger_rows: 38
-not_held: 9
-record: 863c9c34aca6
+ledger_rows: 43
+not_held: 7
+record: 5785ed6874be
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -15,9 +15,9 @@ record: 863c9c34aca6
 ## Summary of the month
 
 <!-- narrative: summary -->
-A five-year artificial-intelligence strategy arrived complete with its own institutions. The launch on 4 August [named a regulatory sandbox and a supervising council](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85), and [an innovation fund and a grand challenge alongside a national data commons](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) â€” four bodies announced on one day, none of them yet carrying a budget, a constituting instrument or an opening date on this ledger.
+A five-year artificial-intelligence strategy arrived complete with its own institutions. The launch on 4 August [named a regulatory sandbox and a supervising council](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85), and [an innovation fund and a grand challenge alongside a national data commons](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) — four bodies announced on one day, none of them yet carrying a budget, a constituting instrument or an opening date on this ledger.
 
-The applied end of the same technology is already running on the roads: [artificial-intelligence traffic cameras are being expanded nationwide](https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses), with no data-protection authorisation, retention rule or contest route recorded for the footage. Data protection itself is being priced rather than enforced: doctors [object to the levies under the data-controller licensing regime](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) and civil society [warns that certification fees will exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/), with mandatory compliance inspections due to begin on 1 September. The anti-corruption commission meanwhile [is investigating cyber-enabled fraud in the vehicle licensing, mobile airtime and revenue authority systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/) â€” fraud inside the state's own digital estate, named system by system.
+The applied end of the same technology is already running on the roads: [artificial-intelligence traffic cameras are being expanded nationwide](https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses), with no data-protection authorisation, retention rule or contest route recorded for the footage. Data protection itself is being priced rather than enforced: doctors [object to the levies under the data-controller licensing regime](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) and civil society [warns that certification fees will exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/), with mandatory compliance inspections due to begin on 1 September. The anti-corruption commission meanwhile [is investigating cyber-enabled fraud in the vehicle licensing, mobile airtime and revenue authority systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/) — fraud inside the state's own digital estate, named system by system.
 <!-- /narrative -->
 
 ## Governance
@@ -126,12 +126,14 @@ Acceptance also widened from outside. A commercial bank and an international car
 <!-- narrative: dpi--dpi-registry -->
 The same registrars-general meeting heard that all ten provinces and 63 districts are computerised for civil registration but only more than 20 of 209 sub-offices ([meeting account](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
 
-The transfer of voter registration and roll management from the electoral commission to the registrar-general, begun under the third constitutional amendment, is under way, with no date, transition plan or safeguard stated ([Senate account](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
+The voters' roll transfer moved from statement to operation. On 18 August [the civil registry department and the electoral commission began a nationwide joint handover of voter registration and roll management to the registrar-general, provincial and district officers of both bodies meeting in Harare to work out how](https://www.zimbabwesituation.com/news/rg-zec-begin-nationwide-handover-of-voter-registration-mandate/), under the constitutional amendment signed earlier in the year. No completion date, transition plan or safeguard has been stated at either end of the month.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 The national electronic medical record reached [1,254 of a planned 1,900 health facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), on a health financing partner's account rather than the ministry's. The [platform's own front page describes it as the national health operating system](https://impilo.mohcc.gov.zw/), spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an assistant and public health notices — run largely without a citizen account and gated by a separate professional-authority check — and carries no facility-coverage figure and no last-updated date of its own. An operator separately reports [more than 20 telehealth centres established](https://www.263chat.com/netone-at-30-from-zimbabwes-first-mobile-call-to-a-digital-future/), company-reported to an anniversary feature with no patient, consultation or availability figure.
+
+On land the state consolidated rather than built: the lands minister said on 24 August that [three land databases had been merged into one integrated digital system reached through a One Stop Title Processing Centre, with 27,045 plots surveyed and 10,231 mapped to beneficiaries and 1,824 agreements of sale worth about US$110 million concluded](https://www.zimbabwesituation.com/news/govt-keen-to-unlock-us20bn-in-land-value/). The figures are the implementation committee's own and nothing on this ledger tests them.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -165,13 +167,23 @@ The same 29 July address committed to indigenous-language corpora work led by un
 
 The listed infrastructure company described its remote monitoring system and digital twin as advancing rather than in production for the quarter ended May 2026 ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
 <!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+A locally built enterprise platform was [formally launched at a university technology expo on 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/), its developer already carrying systems across 83 local authorities and government projects including a mines export permit system and the citizen engagement platform. It is the base's clearest instance of Zimbabwean-written software at national scale; no licence value, contract or user figure is stated.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The same institute's [innovation hub hosted a three-day expo from 28 to 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/) with an anticipated 10,000 participants, and carries a technopreneurship centre and a new centre for artificial intelligence. It follows the [presidential commissioning on 27 July of a university industrial incubation centre supporting 11 start-ups](https://www.uz.ac.zw/index.php/commissioning-of-the-specialist-medical-centre) across agriculture, ICT, engineering, pharmaceuticals, health, transport and energy. Attendance is the organisers' own expectation rather than a count.
+<!-- /narrative -->
 
 ## Capacity
 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The ICT minister told a small-business meeting on 17 July that a digital skills programme targets 1.5 million people ([meeting account](https://techafricanews.com/2026/07/17/zimbabwe-unveils-digital-roadmap-to-accelerate-msme-growth/)).
+The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.
 <!-- /narrative -->
 
 ## Inclusion
@@ -210,4 +222,9 @@ Zimbabwe withdrew from the bilateral health talks, and the dispute over why was 
 
 <!-- narrative: geopolitics--geopol-china -->
 A Harare forum [argued that cooperation with China will help African countries build technological capability](https://www.chinadaily.com.cn/a/202608/20/WS6a865f51a3106bc57421c7d5.html), with the terms of technology transfer the point at issue. The account is carried by Chinese state media, which is part of what it evidences. No project, transfer arrangement or commitment is named in it, so it records an argument about the relationship rather than a movement within it.
+<!-- /narrative -->
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+The Emirati minister of state [met the President in Harare on 10 August to discuss economy, investment and trade](https://www.wam.ae/en/article/c1nwx85-shakhboot-bin-nahyan-meets-president-zimbabwe). No agreement was announced, which is the movement: the two governments had [agreed in Dubai in February to conclude a comprehensive economic partnership agreement within three months](https://www.zimbabwenow.co.zw/articles/21312/zimbabwe-uae-push-three-month-cepa), and August is three months past that deadline.
 <!-- /narrative -->
