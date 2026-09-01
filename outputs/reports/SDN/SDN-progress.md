@@ -1,12 +1,12 @@
 ---
 title: Sudan — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: SDN
-ledger_rows: 52
-not_held: 13
+ledger_rows: 53
+not_held: 12
 indicators: 121
-record: 2849f03a2476
+record: 902fd0d4775a
 ---
 
 # Sudan: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -103,7 +103,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Digital Identity and CRVS | Digital id from birth |  | ***No evidence*** |
 | Digital Identity and CRVS | Interoperability of birth registration and digital id |  | ***No evidence*** |
 | Digital Identity and CRVS | Use by other systems |  | ***No evidence*** |
-| Digital Payments and Fintech | Governance role of central bank | The [national payment switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy) launched with one bank connected, and a [rival payment-switch licence was revoked](https://sudantribune.net/article/315827) days after that platform's launch with no breach disclosed. <details><summary>Full record</summary>The switch went live connecting one bank as its first and only participant, with the first cash-machine withdrawal completed over it; the central bank's own framing is restoration rather than a greenfield rail ([switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy), [tender](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips)).<br><br>A separate payment-switch licence was revoked days after the platform launched, with no specific breach disclosed; a Gulf linkage was reported by domestic outlets and not confirmed by the central bank ([revocation](https://sudantribune.net/article/315827)).<br><br>A regulator that licenses and then revokes without stating a reason, and simultaneously operates the competing rail, is a market-structure fact the record states without explaining.</details> | Mixed, a national payment switch launched with one participant while a rival switch licence was revoked days after launch |
+| Digital Payments and Fintech | Governance role of central bank | The [national payment switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy) launched with one bank connected, and a [rival payment-switch licence was revoked](https://sudantribune.net/article/315827) days after that platform's launch with no breach disclosed. <details><summary>Full record</summary>The central bank launched an electronic capital-flows system on 26 August 2026, replacing manual processing ([launch](https://thesudantimes.com/sudan/central-bank-of-sudan-launches-electronic-capital-flows-system/)).<br><br>The switch went live connecting one bank as its first and only participant, with the first cash-machine withdrawal completed over it; the central bank's own framing is restoration rather than a greenfield rail ([switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy), [tender](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips)).<br><br>A separate payment-switch licence was revoked days after the platform launched, with no specific breach disclosed; a Gulf linkage was reported by domestic outlets and not confirmed by the central bank ([revocation](https://sudantribune.net/article/315827)).<br><br>A regulator that licenses and then revokes without stating a reason, and simultaneously operates the competing rail, is a market-structure fact the record states without explaining.</details> | Advanced |
 | Digital Payments and Fintech | G2P functionality |  | ***No evidence*** |
 | Digital Payments and Fintech | Revenue collection | An [electronic government-collection system](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) is named among the reforms behind a stated rise in first-half 2026 revenue, and the ministry states no figure, baseline or attribution method behind the claim. <details><summary>Full record</summary>The system is contracted through a national bank ([contract](https://www.suna.sd/posts/shrak-byn-almaly-obnk-alaamal-alotny-ltkdym-khdm-aysaly)) and has been transferred between states ([transfer](https://www.suna.sd/posts/taazyza-lltaaaon-almaly-mdyr-aaam-maly-alkdarf-ystkbl-ofd-olay-ksla-lbhth-alyat-althsyl-alalktrony-201)), with one state's collection rate praised by the minister ([praise](https://www.suna.sd/posts/ozyr-almaly-yshyd-bghod-olay-alnyl-alabyd-fy-ttbyk-althsyl-alaalktrony-odaam-altnmy-alzraaay)).<br><br>That state's figure of more than 90 per cent is the state's own and unverified, and the ministry states no revenue figure, baseline or attribution method behind the claimed rise ([reforms](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), [directives](https://www.suna.sd/posts/finance-minister-issues-directives-to-modernize-ministry-performance)).<br><br>A collection system spreading state by state is the most concrete delivery in this unit; the revenue claim attached to it is not testable from anything published.</details> | Advanced |
 | Digital Payments and Fintech | B2B and B2G functionality |  | ***No evidence*** |
@@ -195,7 +195,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
 | US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments |  | ***No evidence*** |
-| China activities | Chinese MoUs, engagements and commitments |  | ***No evidence*** |
+| China activities | Chinese MoUs, engagements and commitments | The digital transformation and communications minister attended the opening of a digital cooperation centre with China ([report](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/)). <details><summary>Full record</summary>The digital transformation and communications minister attended the opening of a digital cooperation centre with China ([report](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/)). No instrument, value or scope is stated.</details> | Advanced |
 | EU activities | EU MoUs, engagements and commitments |  | ***No evidence*** |
 | Gulf/UAE activities | Gulf MoUs, engagements and commitments | A Gulf-based processor [signed a strategic processing agreement with a domestic bank](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/) for card-sponsored digital-payment processing, formalised at a regional trade event. <details><summary>Full record</summary>The agreement covers card-network-sponsored digital payment processing and was formalised at a regional technology exhibition ([agreement](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/)).<br><br>No value, term or volume is published. It is the only foreign commercial arrangement in the payments stack the base holds, alongside a revoked switch licence whose reported Gulf linkage the central bank never confirmed.</details> | Advanced |
 | India activities | India MoUs, engagements and commitments |  | ***No evidence*** |

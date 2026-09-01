@@ -1,11 +1,11 @@
 ---
 title: Eswatini — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SWZ
-ledger_rows: 29
+ledger_rows: 31
 not_held: 4
-record: a3b9818c0f04
+record: df4a71e9d983
 ---
 
 # Eswatini: monthly update, August – September 2026
@@ -49,6 +49,11 @@ The King was [elected Chairperson of the SADC Organ on Politics, Defence and Sec
 <!-- narrative: governance--gov-standards -->
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
 <!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The regulator drew a line in public. ESCCOM [stated that cyberbullying is a criminal offence under the computer crime statute](https://eswatinipositivenews.online/esccom-warns-emaswati-cyberbullying-is-a-crime/). Stating an existing offence is a step short of enforcing it: the record held carries no prosecution, complaint volume or reporting route created alongside the statement.
+<!-- /narrative -->
 
 ## Finance
 
@@ -64,6 +69,11 @@ A domestic internet provider put [E570,000 into free wireless access across the 
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The one dated position here is a standing statutory right rather than a change. Free adjudication of consumer complaints against communications providers [runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications](https://times.co.sz/40791/technology-today/consumers-guide-to-type-approved-communications-equipment/). It is structural provision and not movement: no complaint volume, adjudication count or outcome is published against it.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+Government applications got somewhere to be tested. Eswatini [opened a Government Mobile App Testing Lab, funded and supported by the government of the Republic of China (Taiwan)](https://www.eswatiniobserver.com/govt-puts-cybersecurity-at-heart-of-digital-services/). Testing capacity is the practical end of the cybersecurity legislation still awaiting assent. Nothing in the record held says what the lab has tested, or whether testing is a condition of any application going live.
 <!-- /narrative -->
 
 ## DPI

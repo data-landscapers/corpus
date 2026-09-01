@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-09-02
 place: MLI
-ledger_rows: 77
+ledger_rows: 78
 not_held: 4
-record: 1cd07d5450c3
+record: 8f7a9109c923
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (77 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (78 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -49,7 +49,7 @@ A national AI strategy, a data-management law and a national public key infrastr
 | Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Second 2026 session opened 2026-08-03 with more than 1,000 files |
 | Benin and Mali data-protection cooperation | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation) | Cooperation agreed 2025-04-16 |
 | Data-protection authorisation for DDR beneficiary data | [Implemented](https://gouvernement.ml/protection-des-donnees-personnelles-la-cnddr-et-la-cni-se-forment-aux-enjeux-du-ddr-i/) | Three-day training on the authorised processing, 17-19 August 2026 |
-| Loi n2013-015 on personal data protection | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | In force since 21 May 2013 as amended |
+| Loi n2013-015 on personal data protection | [Implemented](https://malijet.com/la_sante_au_mali/311528-protection-des-donnees-la-canam-cloture-une-formation-dedi.html) | Sectoral training completed 2026-08-29 |
 | Mandatory lease-declaration decree | [In development](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Draft decree before the authority October 2025 |
 
 ### Regional collaboration
@@ -270,6 +270,12 @@ Higher-education and research digital capacity rests on a [national policy docum
 <!-- /narrative -->
 
 ## Inclusion
+
+### Access to services
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Citoyens 2.0 digital participation project | [Implemented](https://maliexpress.net/numerique-et-participation-citoyenne-le-projet-citoyens-2-0-au-de-la-capitalisation-des-acquis/) | Capitalisation stage 2026-08-29 |
 
 ### Digital divides
 

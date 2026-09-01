@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SDN
-ledger_rows: 20
-not_held: 13
-record: 6746aededf0c
+ledger_rows: 22
+not_held: 12
+record: a80266b56e61
 ---
 
 # Sudan: monthly update, August – September 2026
@@ -86,4 +86,12 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
 
 A third oversight system was announced without a shape. The finance ministry says a [comprehensive electronic oversight system covering public bodies and government companies is forthcoming](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), in the same statement in which it attributes a significant rise in first-half 2026 public revenue to expanding the electronic collection system, rolling out electronic invoicing and tightening customs and tax exemptions, without new taxes. No revenue figure, baseline or attribution method is given for the rise, and no scope, custodian or timetable for the oversight system.
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+The China relationship acquired a physical address. Sudan's minister of digital transformation and communications [attended the opening of a digital cooperation centre with China](https://sudanhorizon.com/sudans-minister-of-digital-transformation-participates-in-opening-of-china-africa-digital-technology-cooperation-center/). Until this month the base held nothing at all on Chinese digital engagement with Sudan. What it still holds nothing on is the instrument behind the centre, its value, or what it is to do.
 <!-- /narrative -->

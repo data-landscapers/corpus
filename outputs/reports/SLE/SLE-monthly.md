@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SLE
-ledger_rows: 28
+ledger_rows: 31
 not_held: 11
-record: 071d309e9e8b
+record: 7cc33b7186e5
 ---
 
 # Sierra Leone: monthly update, August – September 2026
@@ -105,6 +105,11 @@ The registry the state has least of is the one for deaths. The national public h
 
 Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
 <!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+Two sectoral systems moved in the same week. The government [launched a digital jobs portal, stated as intended to break the nepotism cycle in youth employment](https://sierraloaded.sl/local/sierra-leone-digital-jobs-youth-employment/), and the science and technology directorate [signed a memorandum with the pharmacy board to advance digital pharmaceutical regulation](https://owlpress-sl.com/dsti-pharmacy-board-sign-mou-advance-digital-pharmaceutical-regulation/). Neither carries a volume figure: no vacancies posted, no placements made, no products registered.
+<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -119,6 +124,14 @@ Two systems the state watches itself with did move. The audit service's [managem
 
 <!-- narrative: digitalisation--digital-rural -->
 The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The electoral commission is thinking two years ahead. It [publicly considered the use of artificial intelligence for the 2028 elections](https://sierraloaded.sl/news/ecsl-use-ai-for-2028-sierra-leone-elections/). What function is contemplated, and what safeguards would attach to it, is not stated. An electoral body considering artificial intelligence in public is worth recording early, because the decisions that matter are taken before procurement rather than after it.
 <!-- /narrative -->
 
 ## Capacity

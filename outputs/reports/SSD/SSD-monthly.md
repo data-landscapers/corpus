@@ -1,11 +1,11 @@
 ---
 title: South Sudan — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SSD
-ledger_rows: 13
+ledger_rows: 16
 not_held: 12
-record: 903024fa70bf
+record: ae758c1b5953
 ---
 
 # South Sudan: monthly update, August – September 2026
@@ -33,6 +33,11 @@ The other statute in play has a text and a process behind it. The central bank a
 
 <!-- narrative: governance--gov-regional -->
 The one regional move in the window is a pledge without a workplan. On 12 August the minister [visited the African Telecommunications Union's Nairobi headquarters and pledged deeper collaboration on infrastructure, capacity building and standardisation](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building). No workplan, contribution or membership status is stated, and it sits alongside the payment-system bill validated the same month with East African Community and Bank of Uganda backing — the substantive regional support in this record runs through that bill rather than through the union.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The e-government contract came under an allegation the minister denies. The information technology minister [denied two documents alleging a US$15 million influence-buying transfer by the contracted firms](https://www.eyeradio.org/ateny-dismisses-alleged-15-million-dollar-transfer-documents-as-fake/). The documents' authenticity is contested and the record held carries no independent verification either way. Separately, a published argument [held that South Sudan needs digital payments but also needs the ability to follow the money](https://www.radiotamazuj.org/en/news/article/op-ed-south-sudan-needs-digital-payments-but-it-also-needs-to-follow-the-money) — a case the month's other news makes concrete.
 <!-- /narrative -->
 
 ## ICT Infrastructure

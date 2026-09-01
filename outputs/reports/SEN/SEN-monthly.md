@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SEN
-ledger_rows: 30
+ledger_rows: 31
 not_held: 14
-record: 8b8400a77edf
+record: ee6d8bea8b41
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -116,6 +116,11 @@ What none of it runs under is a statute. A four-country comparative study presen
 
 ## Capacity
 
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+Connectivity is being aimed at classrooms. The education ministry [plans to connect more than 8,000 primary schools to the internet through Starlink](https://techgriot.co/english/africa/2026/08/senegal-to-connect-8000-primary-schools-via-starlink/). Satellite is the route because terrestrial reach is the constraint, and a plan of that size would change what the Digital Schools programme can assume. Nothing in the record held names a school connected, a cost or a funding source.
+<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
