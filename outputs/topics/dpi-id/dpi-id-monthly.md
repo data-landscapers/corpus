@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.id
-places: DZA; AGO; BDI; CMR; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 8f4379f57a94
+places: DZA; AGO; BDI; CMR; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 1dc7f44024c4
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -44,6 +44,10 @@ Identification in the window is a provincial operation rather than a national on
 Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The scale of the problem showed in the complaint traffic: the regulator [logged over 3,000 line-fraud complaints and 100,000 call-centre inquiries in two days](https://www.egyptindependent.com/egypt-is-cracking-down-on-phone-line-fraud-ntra-assures/), saying it checks each disputed registration against the provider's own records. What the fix itself costs is now being asked in public: a member of parliament [has pressed the government on what institutional framework governs collection, storage and access to the facial-recognition data taken at registration](https://www.egyptindependent.com/mp-raises-concerns-over-egyptian-state-collecting-facial-recognition-data/), and digital-rights researchers argue that [biometric data cannot be reissued once compromised, which makes the protection framework the precondition rather than the sequel](https://www.madamasr.com/en/2026/08/12/feature/society/privacy-chaos-from-fraudulent-sim-registration-to-biometric-data-collection/). The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
 
 The telecoms regulator [launched a remote biometric verification system in a pilot phase](https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752), built with ITIDA, CyShield and licensed electronic-signature companies, letting users reach services requiring identity verification and electronic signatures through mobile applications rather than company branches. Operators are to enable it in their own apps as their technical readiness allows, and its stated scope is to widen later to a broader range of digital services.
+
+## Eswatini
+
+The home affairs ministry [asked citizens to check that the chief code on their identity documents matches their actual chiefdom](https://eswatinipositivenews.online/home-affairs-ministry-urges-emaswati-to-verify-chief-codes-2/), warning that an incorrect code creates difficulty in reaching government services. Six months after card production resumed from a technical suspension, the maintenance question has moved from the machine to the record.
 
 ## Ethiopia
 

@@ -3,13 +3,13 @@ title: New investments — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: finance.new
-places: BEN; BFA; TCD; CIV; COD; EGY; ETH; KEN; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
-record: 3d0d635d48b5
+places: BEN; BFA; TCD; CIV; COD; EGY; SWZ; ETH; KEN; MUS; MAR; MOZ; NGA; RWA; ZAF; TZA; ZMB; ZWE
+record: 7b0c1e2746af
 ---
 
 # New investments: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
@@ -38,6 +38,10 @@ A development fund committed [US$32.8m into an upsized US$179m senior secured fa
 ## Egypt
 
 The data-centre position moved by cancellation. [Telecom Egypt's board withdrew on 17 July from the agreement to sell 75-80% of its Regional Data Center Hub because the conditions were not met](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale); the hub is instead to be carved out as a wholly-owned subsidiary ([cancellation account](https://www.connectingafrica.com/data-centers/telecom-egypt-cancels-helios-data-center-stake-sale)). Neither the consideration nor the unmet conditions were disclosed.
+
+## Eswatini
+
+A domestic internet provider put [E570,000 into free wireless access across the nine-day national trade fair](https://eswatinipositivenews.online/jenny-internet-boosts-eitf-2026-with-e570-000-wifi-sponsorship/), its third consecutive year as official sponsor. It is the month's only new private digital commitment on this ledger, and it is a sponsorship rather than an investment.
 
 ## Ethiopia
 

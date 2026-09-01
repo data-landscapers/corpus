@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August 2
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a7568fedb9aa
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6e3db1050a61
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -66,6 +66,14 @@ The company that built the vehicle identification platform [is refusing to hand 
 ## Egypt
 
 On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179).
+
+## Eswatini
+
+Civil registration completeness reached [61 per cent of births and 62 per cent of deaths in 2025](https://eswatinipositivenews.online/eswatinis-crvs-gains-put-every-citizen-on-the-map/), against 8.3 and 26.5 per cent in 2016, announced at the ninth Africa civil registration day. The underlying annual report is not held as a downloadable publication.
+
+The social registry began its [second regional rollout in Lubombo on an E41.7 million data-collection exercise](https://eswatinipositivenews.online/e41-7m-imbeleko-rollout-targets-vulnerable-households-in-lubombo/), two of four regions in two years.
+
+The electoral commission is reviewing a [proposal to make the chief code compulsory at voter registration, alongside a six-month residency rule](https://times.co.sz/41170/news/chief-code-rule-divides-ezulwini-residents/), after it divided residents at Ezulwini — the same code the home affairs ministry was asking citizens to correct eight days later.
 
 ## Gambia
 

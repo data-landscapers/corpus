@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BDI; TCD; COG; COD; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TGO; TUN; ZWE
-record: 0f8e35631492
+places: DZA; AGO; BEN; BWA; BDI; TCD; COG; COD; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MUS; NAM; NER; NGA; RWA; SEN; SLE; SOM; SSD; TGO; TUN; ZWE
+record: aada24977557
 ---
 
 # Regional collaboration: monthly update, August 2026
 
-*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -42,6 +42,10 @@ The broadcasting regulator and its counterpart across the river [signed a memora
 ## DR Congo
 
 The [African Telecommunications Union's return to Kinshasa was ratified on 23 July at the union's plenipotentiary conference in Abuja, after the country paid more than US$1.4m in arrears](https://thepanafricanpress.info/one-year-of-suminwa-ii-jose-mpandas-telecom-milestones-in-the-drc/). No date for the move is stated, the arrears figure and the account are the minister's own, and a bid for a seat on the ITU's administrative council for 2027 to 2030 is still pending.
+
+## Eswatini
+
+The King was [elected Chairperson of the SADC Organ on Politics, Defence and Security Cooperation](https://www.sadc.int/latest-news/communique-46th-ordinary-summit-sadc-heads-state-and-government-17th-august-2026) at the bloc's 46th summit in Durban on 17 August. It is a security portfolio, not a digital one, and no ICT or data responsibility attaches to it in the communique.
 
 ## Ethiopia
 
