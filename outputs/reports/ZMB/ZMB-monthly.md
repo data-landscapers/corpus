@@ -15,9 +15,9 @@ record: 95d0607abaf7
 ## Summary of the month
 
 <!-- narrative: summary -->
-Enforcement of the Cyber Crimes Act No. 4 of 2025 was declared fully operational on 18 July 2026, twenty-six days before the general election of 13 August ([enforcement account](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/)). In the same weeks the state extended its collection systems to local government, reporting about K21.7 million from eight of 116 councils in their first month ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)), and launched a government-owned private 4G network for public institutions ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
+The election was the month's frame. The cyber security agency [warned against hate speech and cyberbullying after the poll](https://www.zambiamonitor.com/cyber-security-agency-warns-against-hate-speech-cyberbullying/), observer missions [reported on the digital systems used in the general election](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/), the rights commission [considered 105 alleged violations in the election period and resolved 62](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/), and a survey [put public support for media freedom and a watchdog role on the record](https://www.afrobarometer.org/publication/ad1223-zambians-call-for-freedom-and-a-watchdog-role-for-the-media/). A consent judgment [obliges the regulator to give a reason for any internet interruption within 36 hours](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/); no interruption is on the record for this election.
 
-The month closed with the state ICT institute confirming that four named border posts still lack the connectivity the government network was meant to provide ([status update](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/)).
+Collection and connectivity moved in the districts. Eight of 116 councils [are on the e-council platform](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/), a district administration [was connected to the government wide area network](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/), and the state ICT institute [set a national standard for border-post connectivity and commissioned an independent ICT audit](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/). The regulator [blocked 43,500 SIM cards linked to mobile-money fraud in the first half of the year](https://diggers.news/business/2026/08/04/zicta-blocks-43500-sim-cards-linked-to-scammers-secures-k19-8m/).
 <!-- /narrative -->
 
 ## Governance
@@ -25,7 +25,7 @@ The month closed with the state ICT institute confirming that four named border 
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The head of the Presidential Delivery Unit said on 17 July 2026 that Zambia's National AI Strategy was nearing completion and invited stakeholder contributions ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)). Against that, a continental review published on 1 July reads a Zambian national AI strategy alongside six others as an existing analysable text. Nothing on file settles whether a draft has been circulated to researchers without being published, or whether the review is in error.
+The national artificial-intelligence strategy has reached the end of the period it was written for. The technology ministry's permanent secretary [says it is nearing the end of its cycle and is due for review](https://api.oecdai.org/storage/policy-initiatives/Apr2026/117ojpi25umobje3ol-Zambia-Ai-Strategy-Book-option-2.pdf). A strategy due for review before its successor exists is the position the base can state; no review terms of reference, timetable or drafting body is published.
 <!-- /narrative -->
 ### Data protection
 
@@ -106,14 +106,12 @@ A [national carbon registry went live on 8 August](https://www.lusakatimes.com/2
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The national electronic health record and its hospital tier are migrating onto the new shared 4G network, alongside the network's launch at Ndola Teaching Hospital ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
+An emergency outbreak response platform [entered two days of user-acceptance testing](https://www.cidrz.org/2026/08/19/infectious-disease-response-goes-digital/). User-acceptance testing is the last stage before a system becomes someone's responsibility in an emergency; no go-live date, participating facilities or data flow is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-A contract tracking and management system was launched with the Ministry of Justice on 12 July for digital submission of government contracts to the Attorney General's Chambers and real-time tracking of approval progress; no volume or turnaround figure was published.
-
-The other movement is at the far end of the network rather than the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
+The movement is at the far end of the network rather than at the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -121,7 +119,9 @@ The other movement is at the far end of the network rather than the centre. The 
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-The eight onboarded local authorities returned about K21.7 million in their first month, for property rates, business levies and permits, with Lusaka City Council urging business and property owners to use the platform on stated grounds of minimising revenue leakages ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
+The eight onboarded local authorities returned about K21.7 million in their first month, for property rates, business levies and permits, with one city council urging business and property owners to use the platform on stated grounds of minimising revenue leakages ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
+
+Connectivity followed the collection: the state ICT institute [equipped a town council with ICT and telepresence equipment](https://techafricanews.com/2026/08/26/sinazongwe-town-council-goes-digital-as-smart-zambia-deploys-ict-equipment/). It is one council of 116, and no cost, rollout schedule or list of the rest is published.
 <!-- /narrative -->
 
 ## Technology
@@ -129,9 +129,7 @@ The eight onboarded local authorities returned about K21.7 million in their firs
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The same 17 July statement disclosed an opportunity to establish Zambia's first artificial intelligence laboratory with the International Telecommunication Union, with no signature, funding, siting or timetable reported ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)). On 30 July the home affairs permanent secretary cited the cyber security agency's establishment as strengthening the response to online scams and artificial-intelligence-enabled trafficking, placing organised crime inside a cyber regulator's remit.
-
-On 28 July an implementing partner published a first-hand account of automating public query handling at the National Assembly, consolidating budget and administrative data and surfacing information to members during debates and committee hearings. The same account reports parliamentary staff using public artificial intelligence tools on personal judgment, limited monitoring of what data flows into those platforms, and no consistent approach to hallucinations — findings the partner reports from two other African parliaments as well.
+The month's artificial-intelligence entry is a competition rather than a capability. Applications [closed on 18 August for an AI for Public Good Challenge run with a UN development agency](https://www.undp.org/zambia/news/call-applications-ai-public-good-challenge). No entry count, prize, selection criterion or follow-on funding is published, and the base still holds no national artificial-intelligence laboratory, model or compute position.
 <!-- /narrative -->
 ### ICT Industry
 
@@ -141,9 +139,6 @@ The third edition of a continental diversity report puts [29% of Zambian startup
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-Three private ventures carry the innovation position, all on their own accounts. A [private hub ran the nine-month pipeline that took a Zambian team to the Geneva global finals](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) of the 2026 artificial-intelligence summit and youth robotics challenge among nearly 50 countries, its chief executive saying the talent pool is real and the investment in research and innovation is not. An [agritech pairs satellite imagery with artificial intelligence to route smallholders into premium markets](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), operating a virtual warehouse in which buyers specify variety, quality and compliance before planting. And a [roadside-assistance marketplace connects drivers to nearby providers](https://www.wearetech.africa/fr/fils/tech-stars/avec-padue-dalitso-mbewe-connecte-les-automobilistes-en-panne-aux-depanneurs) with in-app messaging and real-time geolocation. No user numbers, revenue, funding or independent evaluation is held for any of the three.
-
-
 A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.
 <!-- /narrative -->
 
@@ -157,7 +152,7 @@ The state ICT institute, with the International Telecommunication Union and the 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-On 20 July the state ICT institute reported training 146 public officers across three district administrations of Southern Province; no cumulative national total is published.
+Training in the window is a private programme rather than a state one. A ride-hailing company's fellowship [expanded to six African countries and selected its 2026 cohort](https://techafricanews.com/2026/08/31/yango-fellowship-expands-six-african-countries/), this country among them. No Zambian intake figure, curriculum or placement outcome is published, and no state training total sits on the ledger for the month.
 <!-- /narrative -->
 
 ## Geopolitics

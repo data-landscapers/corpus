@@ -15,9 +15,9 @@ record: 365d5beef2fb
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two things moved in Malawi between 1 July and 6 August 2026, in opposite directions. The data protection regime crossed from paper into scope: the twenty-four-month exemption in the Data Protection Act 2024 elapsed in early June, and on 13 July the regulator consulted on draft regulations, guidelines and a registration fee schedule ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). At the same time the regulator enforced consumer telecommunications law against both mobile operators, ordering compensation for a tariff-notice breach ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)).
+Two systems went the wrong way and one was made more resilient. The farm input subsidy programme [reverted to manual coupons for 2026-27, a return technologists questioned before the September rollout](https://malawi24.com/2026/08/22/it-experts-question-return-to-manual-fisp-coupons/) â€” this ledger's clearest case of a digitised process being undone â€” and the state oil company [confirmed the loss of K700m to payment fraud](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/). Against them, the revenue authority's [secondary data centre is reported improving service continuity at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/).
 
-The month also produced the clearest statement yet of what local-government digitisation has not achieved: councils receiving clean audit opinions fell to 18 in 2024/25 from 22, announced on the same day as a public real-time spending dashboard ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)).
+The measurements were the month's more useful half. An industry association [put 80% of the population offline against 87% 4G population coverage](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/) â€” a usage gap rather than a coverage one â€” while the statistics office and the regulator [opened enumerator training for a fourth national ICT survey covering 12,000 households](https://malawi24.com/2026/08/19/nso-macra-face-questions-over-ict-survey-jobs/). Parliament [passed the Financial Crimes (Amendment) Bill](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/), which awaits assent, and the minister [stated an intention to legislate on artificial intelligence](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/).
 <!-- /narrative -->
 
 ## Governance
@@ -32,14 +32,12 @@ The revenue authority launched a five-year Corporate Strategic Plan in Blantyre 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-A consultative meeting concluded in Lilongwe reviewing the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable was placed on record.
-
-The statutory copyright society's position on artificial intelligence became public on 23 July: it will not register works created entirely by artificial intelligence or distribute royalties on them. Its own statement is not held, the decision date is not established, and no test was published for how much assistance is admissible.
+Two instruments, one passed and one only intended. Parliament [passed the Financial Crimes (Amendment) Bill in the week to 6 August](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/), which awaits assent; the bill text is not held, so what it changes for digital finance cannot be read off the record. Separately the minister [stated an intention to legislate on artificial intelligence](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/), with no draft, scope or timetable behind the statement.
 <!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-The regulator and UNDP [named priorities in exploratory discussions — national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). No memorandum, funding figure or timetable is stated.
+Regional work was two conversations. The minister [urged the regional bloc to target artificial-intelligence investment at a Lilongwe workshop](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m), and a delegation [visited Accra to discuss digital-government cooperation with Ghana](https://dig.watch/updates/ghana-malawi-digital-government-partnership). Neither carries a memorandum, funding figure or timetable.
 <!-- /narrative -->
 ### Standards
 
@@ -63,9 +61,7 @@ The operator's annual report replaced a figure that had carried no period. It [p
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
-On 3 July the e-government department agreed integration of immigration e-services onto the national exchange platform ([e-government department](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
-
-The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The specific financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
+The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -103,20 +99,17 @@ The same report gives the mobile-money platform its first published revenue line
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-[About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
+The land register was reviewed rather than extended. A [workflow review workshop was convened on the Land Information Management System](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m). Reviewing workflows is what is done when a system is in service and not working as intended; no parcel count, coverage figure or defect list is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
+Two internal systems are close to the point where they carry real work. The automated human resource and payroll management platform [is in pilot ahead of government-wide rollout](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85), and the Labour Market Information System [reached the final stage before launch after a technical workshop in mid-August](https://www.miragenews.com/malawi-nears-launch-of-labour-market-1732758/). Neither carries a go-live date, a coverage figure or a data-source list.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-Passport printing resumed at Mangochi, stated in Parliament on 20 July, where a member said applicants who filed nine months to a year earlier were being overtaken by same-day issuances. The homeland security minister accepted in principle a sequence number assigned at application.
-
-
-A second paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
+A paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -124,9 +117,7 @@ A second paper process is being scoped out of existence. The partnership commiss
 ### Digitalisation of sub-national government
 
 <!-- narrative: digitalisation--digital-localgov -->
-Parliament ratified an SDR 58.2m grant for the successor local-government service delivery project on 29 July 2026, covering 32 councils with four entering for the first time, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). The predecessor closed on 30 June.
-
-The results announced on 31 July give the counterpoint. Councils receiving clean audit opinions fell to 18 in 2024/25 from 22 the year before, with one district council receiving an adverse opinion — disclosed at the same event that launched a public real-time dashboard for tracking constituency development spending ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)). No address for that dashboard is established in anything the wiki holds, so it cannot be inspected.
+The spending dashboard is running and its address is not on the record. The ministry [stated the real-time constituency development fund dashboard's coverage and its complaints channel](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/), at the same event that disclosed councils receiving clean audit opinions falling to 18 in 2024/25 from 22 the year before. No address for the dashboard is established in anything the base holds, so a transparency instrument published against a falling audit record cannot itself be inspected.
 <!-- /narrative -->
 
 ## Capacity

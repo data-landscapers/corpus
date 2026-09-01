@@ -15,11 +15,9 @@ record: 8ea55e714c8f
 ## Summary of the month
 
 <!-- narrative: summary -->
-[Ethio Telecom's FY2025/26 figures](https://www.fanamc.com/english/215-8-billion-birr-revenue-and-9-13-trillion-birr-in-digital-transactions-ethio-telecoms-new-economic-footprint/) put it at 69% of all national identity registrations, at 60.6m mobile-money users moving about 11bn Birr a day, and at 90.1m subscribers on 99.8% coverage. A single vertically integrated state incumbent now supplies the identity enrolment, the payments rail and the network beneath both.
+The identity system is now most of the state's digital surface. Fayda [neared 50 million enrolments](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy), the programme [was inaugurated as a state-owned enterprise under the sovereign wealth fund on 4 August](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m), and its wallet [is being extended beyond core government credentials](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/). A public critique [set out the absence of independent data-protection safeguards over it](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), which is the position the base holds on the other side of that expansion.
 
-At the launch of a three-year plan, regional executives [told federal management](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) that the one-stop service platform is absorbing services that were never digitised, that two incompatible integration models have emerged, and that no legal framework compels an institution to digitise before joining.
-
-The central bank widened its virtual-asset prohibition by clarification rather than by new rule. The payment-gateway sector continued to be taxed on an arithmetic error the same bank has admitted and corrected, with no effect on the assessment.
+Three instruments and one build moved alongside. The Critical Infrastructure Cybersecurity Proclamation [was signed, designating twelve critical sectors and placing eighteen obligations on owners and operators, commencing about a year after gazettement](https://www.ena.et/web/eng/w/eng_9359494); a [Berne Convention ratification draft went to the Council of Ministers alongside an online-infringement amendment to the 2004 copyright proclamation](https://www.thereporterethiopia.com/52113/); and the incumbent [entered active deployment of a terrestrial fibre corridor from Djibouti through Ethiopia and Sudan to Jeddah](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/). The unified public-service platform [now lists more than 180 services from 23 organisations](https://mesobcenter.et/).
 <!-- /narrative -->
 
 ## Governance
@@ -27,16 +25,14 @@ The central bank widened its virtual-asset prohibition by clarification rather t
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-On 23 July the central bank issued a [public notice](https://www.thereporterethiopia.com/51969/) stating that use, sale, transfer, settlement and facilitation of virtual assets are prohibited unless expressly authorised, and that the prohibition was never confined to cryptocurrencies. No new regulation and no enforcement mechanism accompanied it: the instrument is a notice restating scope, not a rule.
-
-On 25 July the [payment-gateway tax case](https://www.thereporterethiopia.com/52044/) was set out in full. The central bank, compiling processing data for a revenue audit, [conflated gross transaction volume with gateway revenue — restating one gateway's three-year throughput of ETB 32bn as ETB 143.9bn and taxing the difference at 30%, where gateways in fact earn about 2.5% commission](https://www.thereporterethiopia.com/52044/). Corrected datasets issued by letter in April 2026 and verified by a governor's technical committee were not accepted; ETB 818m was swept from frozen accounts in May against a liability counsel puts at ETB 20–30m, with parallel sweeps against two other gateways, and the justice ministry declined to intervene on the ground that no administrative body can reverse a revenue decision.
-
-Three instruments moved in the window and none binds yet. The Critical Infrastructure Cybersecurity Proclamation was [signed by the President at Addis Ababa on 21 July, designating twelve critical sectors, placing eighteen core obligations on owners and operators and creating a cybersecurity fund](https://www.ena.et/web/eng/w/eng_9359494), with commencement set one year after gazettement — about July 2027 — and regulation-making powers left to the Council of Ministers and the security agency. On copyright, a [draft ratification proclamation for the Berne Convention went to the Council of Ministers, and a separate amendment to the 2004 copyright proclamation is being drafted with a university law school to add internet service provider duties, site-blocking procedures and a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/). Ethiopia is not yet a party to the convention and neither draft has a published text.
+Three instruments moved in the window and none binds yet. The Critical Infrastructure Cybersecurity Proclamation was [signed by the President at Addis Ababa on 21 July, designating twelve critical sectors, placing eighteen core obligations on owners and operators and creating a cybersecurity fund](https://www.ena.et/web/eng/w/eng_9359494), with commencement set one year after gazettement â€” about July 2027 â€” and regulation-making powers left to the Council of Ministers and the security agency. On copyright, a [draft ratification proclamation for the Berne Convention went to the Council of Ministers, and a separate amendment to the 2004 copyright proclamation is being drafted with a university law school to add internet service provider duties, site-blocking procedures and a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/). Ethiopia is not yet a party to the convention and neither draft has a published text.
 <!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The Development Bank [adopted an information disclosure policy classifying client credit information permanently non-disclosable](https://www.thereporterethiopia.com/52220/), alongside legal case files, strategy papers, security protocols and third-party contracts, where disclosure could cause substantial harm to the Bank, its stakeholders or the national interest. The Bank may also decline a request that would require it to create a record it does not already hold. No instrument number, gazette reference or appeal mechanism is stated.
+
+Two further positions sit beside it. A public critique [set out the absence of independent data-protection safeguards over the national digital identity](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), which this ledger records as not held. And the foreign ministry [circulated a diplomatic note asking missions for staff and property records](https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/), with no legal basis, retention period or purpose limitation stated for the collection.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -54,7 +50,7 @@ A project on [climate-change disinformation and information integrity across Afr
 ### New investments
 
 <!-- narrative: finance--finance-new -->
-A [US$300,000 grant was committed on 31 July](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) for 2026 to 2028, converting a catalytic start-up initiative into a longer programme delivering agricultural extension services through digital channels.
+The month's finance entry is an allegation rather than a commitment. Corruption allegations against a donor-funded digital project [were raised in the German federal parliament](https://afdbundestag.de/betruegereien-in-der-entwicklungshilfe-muessen-konsequent-aufgeklaert-werden/). No project name, amount, Ethiopian response or investigation outcome is on the record held, so what the base carries is that the question has been asked in a donor's own legislature.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -117,7 +113,7 @@ The flagship coder-training programme is [now reported as a seven million coders
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-The FY2026/27 federal budget ratified on 7 July [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. A national AI policy was adopted in 2024 and the AI institute has operated since 2020.
+University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
-Nothing moved on the national AI policy itself, on the model-development side, or on which foundation models the country runs.
+Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) â€” domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
 <!-- /narrative -->

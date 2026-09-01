@@ -15,7 +15,9 @@ record: d7d3dfe20131
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's largest event was the entry into service of the Nkok data centre on 3 July 2026, and its largest set of commitments was the open-innovation programme launched on 14 July with two accords attached. A satellite seminar closed on 27 July with eleven recommendations, the unified social register produced its first deliverable on 29 July, and the regional QR-code payment standard entered force on 29 July with the Gabonese scheme as its pilot.
+Two systems failed and one was repaired. The national fibre backbone [suffered a massive outage on 25 August](https://gabonclic.info/gabon-le-backbone-national-plonge-dans-le-noir-numerique-simple-incident-ou-sabotage-cible/), and the civil service's single reference file for staff and payroll [was found near-inoperative, with an emergency restoration plan ordered on 25 August](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). Against them, the water and electricity utility [reported progressive recovery from the cyberattack that took down 95% of its systems, with billing and payment restored at Libreville](https://www.gabonreview.com/apres-leffondrement-de-95-de-ses-systemes-la-seeg-reprend-progressivement-le-controle/).
+
+The month's instruments were fiscal and regional. The supplementary finance law [brought in value added tax and a solidarity contribution on non-resident digital platforms](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/), the advance passenger and passenger-name-record system [entered its operational phase](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), and a Libreville workshop [adopted a Central African roadmap for cross-border health-data sharing](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires). An external assessment meanwhile [found the country not meeting minimum fiscal-transparency requirements](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/).
 <!-- /narrative -->
 
 ## Governance
@@ -43,7 +45,7 @@ Service quality is the one obligation the base cannot show being enforced. Repor
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-The suspension of social media has now run [about five months, the Presidency calling it temporary and conservatory](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), with no lifting date given. [Nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). The decision's text is not held; its February start is inferred from a five-month count and, independently, from an operator's half-year filing, so the date carries month precision only.
+The regulator [established a tripartite dialogue forum at Libreville on 20 August](https://www.union.sonapresse.com/index.php/fr/telecommunications-larcep-instaure-un-dialogue-tripartite), seating itself, the operators and consumers. It is the first standing consultation channel the base holds for this sector, and no meeting schedule, published minutes or complaints route follows from the announcement.
 <!-- /narrative -->
 
 ## ICT Infrastructure

@@ -15,7 +15,9 @@ record: c92e8cb87dda
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's substance is one document and one event. The omnibus bill introduced on 24 July to execute the 2026-2027 budget amends 58 Acts and creates the statutory frames for fintech governance, artificial intelligence, virtual-asset marketing, digital immigration and compulsory cyber threat-sharing — a legislative volume larger than any standalone technology act on the continent, arriving as a finance instrument. The state operator's summit on 16 and 17 July produced a cable commitment, a hyperscaler memorandum and a compute claim; reporting since has established what is contracted behind each.
+Government services moved online one at a time while the artificial-intelligence apparatus acquired a building. [An online motor vehicle licence and road tax system launched at Port Louis on 18 August](https://techafricanews.com/2026/08/18/mauritius-launches-online-licensing-road-tax-system-for-taxi-operators/), [an airport parking management system entered full operation](https://lexpress.mu/s/un-nouveau-systeme-pour-fluidifier-le-stationnement-561540), and Cabinet [took note of a plan to consolidate government services onto a single personalised platform](http://topfm.mu/portail-gouvernemental-une-plateforme-numerique-unique-et-personnalisee-en-preparation). The [first artificial-intelligence innovation lab was inaugurated on 21 August under the national strategy and its FAIR guidelines](https://cajnewsafrica.com/2026/08/21/mauritius-commissions-pioneering-ai-innovation-lab/).
+
+Speech and security were the month's other subjects. The ministry [reminded the public of the sanctions for undesirable online content](https://lexpress.mu/s/le-ministere-rappelle-les-sanctions-contre-les-contenus-indesirables-en-ligne-561596) and [warned that online speech would be prosecuted](https://mitci.govmu.org/mitci/wp-content/uploads/2026/08/COMMUNIQUE_social_media.pdf), while a further communiquÃ© [set cybercrime reports for January to July against the number of investigators available](https://lexpress.mu/node/561791). A two-year contract was signed [to bring satellite connectivity to St Brandon](https://platformafrica.com/2026/08/28/emtel-is-awarded-icta-contract-to-bring-internet-connectivity-to-st-brandon/).
 <!-- /narrative -->
 
 ## Governance
@@ -110,14 +112,9 @@ Cabinet [took note of a plan to consolidate the government portal and the separa
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-The [AI Registry went live on 9 July 2026](https://journaldudimanche.com/intelligence-artificielle-mauritius-telecom-devoile-airegistry-mu/), a week before the summit that showcased it: a directory of Mauritius-relevant models, agents and skills carrying provider identity and any institutional validation, which does not host or sell what it lists. The stack is open-sourced and is being offered to other operators.
+The state's artificial-intelligence apparatus gained a building and the incumbent operator gained a language. The [first AI Innovation Lab was inaugurated on 21 August under the national strategy and its FAIR guidelines](https://cajnewsafrica.com/2026/08/21/mauritius-commissions-pioneering-ai-innovation-lab/); no capacity, staffing, access rule or research programme is published for it.
 
-The [same keynote recorded a retreat](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/): the schools pilot moved from a student tutor to a teacher assistant after teacher and parent resistance.
-
-The month closed with the state's AI apparatus being measured from outside it. On [27 July the chamber of commerce and two partners launched an adoption, readiness and governance study](https://www.lemauricien.com/le-mauricien/mcci-une-etude-de-marche-sur-ladoption-de-lia-par-les-entreprises/713704/), because there is no clear picture of adoption among Mauritian firms or of what skills exist. The AI City Scheme has no drafted narrative this period.
-
-
-The incumbent operator set out what sits behind that directory. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), putting the education platform's exam-marking tools at 99% accuracy across the tools introduced. The figures and the claim of a first are the operator's own, given in an interview.
+The incumbent operator set out what sits behind its own platform. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), and recorded a retreat in the same interview: the schools pilot moved from a student tutor to a teacher assistant after teacher and parent resistance. The figures and the claim of a first are the operator's own, given in an interview.
 <!-- /narrative -->
 
 ## Capacity

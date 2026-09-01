@@ -15,11 +15,9 @@ record: 5787b48058ce
 ## Summary of the month
 
 <!-- narrative: summary -->
-The electronic identity card moved from announcement into a dated rollout. Officials confirmed on 25 July that issuance begins in September 2026, that existing documents stay valid until a gazette notice withdraws them, and that first-time applicants receive a randomly generated number ([ministry account](https://informante.web.na/?p=398234)); on 28 July the ministry confirmed the card is free for first-time applicants, renewals of expired cards and amendments ([costs account](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/)).
+The electronic identity card acquired a shape and a price. The ministry [set out ten-year card validity and PIN authentication](https://informante.web.na/?p=398234) and [clarified the fee schedule, duplicates included](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/), while the Data Protection Bill [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/) â€” an identity card arriving ahead of the law that would govern what is done with it.
 
-The payments layer published its first full account of itself. The central bank confirmed the instant payment solution became operational in June 2026 with three participating institutions ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)), and an association report released on 28 July recorded a national quick-response standard finalised, open banking specifications complete and the interbank settlement system migrated to an international messaging standard ([report account](https://www.namibiansun.com/mw-main/namibia-moves-closer-to-instant-payments-NMH014446-3015-17893)).
-
-An opposition member asked parliament on 4 August to compel disclosure of the Chinese smart-city agreements and to pass a data protection act before the build ([member's account](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)).
+Two artificial-intelligence contracts went opposite ways in the same month: an agricultural monitoring contract [was reported let for a year](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/), and a crop-monitoring contract [was discontinued with the ministry weighing action against the authorising official](https://www.namibiansun.com/local-news/govt-weighs-action-against-official-over-n40m-ai-deal-nmh015803-1-20661). Elsewhere China [handed over the country's first satellite data-receiving ground station](https://itweb.africa/article/namibia-gets-chinese-satellite-ground-station/LPwQ57lbLyAqNgkj), operators [were instructed to retire 2G and 3G and refarm the spectrum](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462), and the central bank [put full functionality of the instant payment solution at about June 2027](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/).
 <!-- /narrative -->
 
 ## Governance
@@ -32,7 +30,7 @@ The ICT minister met a consultancy delegation in Windhoek on 3 August on trustwo
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The ICT minister told the regulator's new board on 13 July that the Cybercrime Bill and the Data Protection Bill were being finalised, and the ministry stated that Namibia is still developing a comprehensive legislative framework for cybercrime, with law enforcement and the judiciary relying meanwhile on the Electronic Transactions Act, the Communications Act and the penal code ([board account](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
+The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -56,7 +54,7 @@ The communications regulator and the electricity distributor [signed a five-year
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-On 30 July the ministry, the regulator and three operators met the traditional authorities' trust on streamlining tower siting and cutting deployment delays and costs; the ministry reported no agreement, instrument or timetable ([convening account](https://www.itweb.africa/article/namibia-taps-chiefs-for-network-rollout/LPwQ57lbeY5qNgkj)). Traditional authorities manage communal land, which the ministry treats as the siting constraint.
+Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
 <!-- /narrative -->
@@ -91,9 +89,7 @@ The securities depository was used for the first time by a listed corporate issu
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
-
-The Roads Authority [launched a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
+The Roads Authority [commissioned a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -140,7 +136,7 @@ What that looks like in one region was put to the parliamentary ICT committee on
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-At the inaugural statistics awareness day at Gobabis on 27 July the central bank governor said the identity card presents an opportunity to establish a statistical system enabling secure data matching across administrative databases ([awareness day account](https://thebrief.com.na/2026/07/bon-backs-e-id-rollout-to-reduce-census-costs-and-improve-policymaking/)), and on 30 July an international statistician told the same event that poor-quality data could weaken public trust and undermine policymaking ([second account](https://neweralive.na/stats-key-for-development-bon-nsa/)).
+The statistics agency is publishing both its data and, unusually, an account of its own machinery. Its [data portals and microdata catalogue are live, neither page carrying its own publication date](https://nsa.org.na/data-portals/); the [second-quarter producer price index bulletin is held in full](https://nsa.org.na/wp-content/uploads/2026/08/Namibia-PPI-Bulletin-Q2-2026_Release.pdf); and the agency [disclosed in that bulletin that it has completed a migration of the index's compilation system](https://www.namibian.com.na/new-system-rewrites-producer-price-data/). Disclosing a system change inside the statistical release it affects is the practice that lets a reader judge a break in series; no back-series revision or comparability note is published with it.
 <!-- /narrative -->
 ### Open data
 

@@ -15,7 +15,9 @@ record: ccf4147cb48a
 ## Summary of the month
 
 <!-- narrative: summary -->
-On 1 July digital identity stopped being optional for two classes of user, and on 20 July the five-year plan that carries the state's digital programme was promulgated. Between those dates the health ministry disclosed what its new national identifier actually is and what it is bound to, three registers went live or online, and the regulator's own survey found Tunisians using artificial-intelligence tools at nearly twice the rate they use the state's online services.
+Digitalisation was declared a necessity and the state's own platforms were tested by their users. The head of government [chaired a ministerial council on digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix), with [114 projects in execution and 192 under national tracking](https://pm.gov.tn/fr/detail-decision/2997). The tax directorate [opened online business tax registration](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/), the industry ministry [put its unified services platform into use on 28 August](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B6%D8%B9-%D8%A3%D9%88%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AD%D9%8A%D9%91%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84), and [34 digital service houses were completed across 21 governorates](https://www.lapresse.tn/2026/08/14/tunisie-34-maisons-de-services-numeriques-creees-dans-21-gouvernorats/).
+
+Then the education platform showed what happens when a channel becomes the only channel: [online school enrolment was reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/). On artificial intelligence the [outlines of a national strategy went to a restricted ministerial council and were immediately criticised as vague](https://www.leconomistemaghrebin.com/2026/08/17/souverainete-numerique-le-flou-de-la-strategie-ia-tunisienne/), while a diaspora association [published its own open-source white paper](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/). A published legal analysis separately [found no rule allocating the loss when an electronic payment is compromised](https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/).
 <!-- /narrative -->
 
 ## Governance
@@ -30,9 +32,7 @@ The customs administration [settled a 2026-2030 strategic plan built around digi
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
-Tunisia took a [2027-2030 seat on the African Telecommunications Union's administrative council on 24 July 2026](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071), giving it a vote on continental direction across digital transformation, artificial intelligence and cybersecurity. What it intends to press for is not reported.
-
-A [Japanese-financed triangular programme was signed](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/), reported 28 July 2026, to run 2026-2028 with the communication technologies ministry and the national technopark operator, convening African participants in Tunis on how startup support systems are built and run; the first session in December 2026 takes eight countries. No amount is disclosed.
+Tunisia chairs and convenes rather than signs. It [was elected chair of the Arab League's working group on artificial-intelligence innovation and technological solutions at the permanent committee's inaugural meeting in Tunis](https://www.businesstec.news/23334), and [hosted the ninth Arab conference of directors of nationality and civil-status departments, which closed in Tunis on 19 August](https://gate.ahram.org.eg/News/5891986.aspx). Neither carries a work programme, a decision or a text on the record.
 <!-- /narrative -->
 
 ## Finance
@@ -88,14 +88,12 @@ The founding instrument behind the online honour loans is now held: [Decree 2026
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The [business register went fully digital with access requiring a digital identity](https://en.africanmanager.com/tunisia-national-business-register-accelerates-digitalization-of-its-services/) for individuals, companies and regulated professions, paper filing discontinued and electronic documents given the same legal value as paper, from 1 July 2026.
-
-At one hospital a first national births-declaration platform had registered 202 births as at 27 July 2026, assigning an identifier automatically at birth and wiring it into civil-status registers and social-affairs platforms.
+The social-housing application platform [has a completion timetable, set at a follow-up meeting on 3 August, with interconnection to the beneficiary database still under way](https://www.webmanagercenter.com/2026/08/04/570984/logements-sociaux-en-tunisie-une-plateforme-numerique-pour-accelerer-les-demandes-daccession-a-la-propriete/). The interconnection is the part that decides what the platform is: an application front end that cannot read the beneficiary register is a form, and no date for that link is published.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Six days before the health identifier's provenance became public, the ministry had said the [Sahetna.tn portal's technical validation and cybersecurity audit were complete](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/), the audit reviewed at a steering committee on 10 June.
+The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -130,5 +128,7 @@ The family and women's ministry, a national entrepreneurs' organisation and a UN
 ### Open data
 
 <!-- narrative: data--data-open -->
-An agrifood sector data portal [launched on 23 July 2026](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/), free after registration, run jointly by three public bodies and built inside a German- and EU-financed project. No amount is disclosed, and nothing is said about what happens to it when the project ends.
+The national public data registry [is confirmed live and enabling citizen data requests, in an independent reporting-mechanism report on the country's open-government commitments](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/). Confirmation by an external reviewer is a stronger record than a launch announcement, and no dataset count, request volume or response-time figure accompanies it.
+
+Where the state does not count, others do: a civil-society organisation [announced a femicide data platform for launch on 12 August](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides). No official series on the same subject is held.
 <!-- /narrative -->

@@ -15,7 +15,9 @@ record: c2b1bef90476
 ## Summary of the month
 
 <!-- narrative: summary -->
-Eswatini's World Bank digital financing was [approved at more than E1.06bn on 19 July 2026](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/) for a fibre backbone, connectivity for 1,031 public institutions and electronic identity by 2027. In the same weeks the data-protection authority [moved into sectoral rule-making](https://times.co.sz/39805/news/health-data-guidelines-enter-validation-stage/), the National Data Governance Policy [reached validation](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy), the regulator [proposed raising the minimum internet speed fivefold](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/), and a parliamentary committee [put the price of a bank transaction on the record](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/). The sponsoring ministry also [stated that data-protection enforcement is not its mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) while announcing an instrument carrying data-protection duties.
+Data-protection rules were drafted and applied in the same month. Sector guidelines [were validated at a week-long workshop, with the financial sector topping customer-information leaks](https://times.co.sz/41235/news/financial-sector-tops-customer-information-leaks/), the ICT minister [told the Senate the national data governance policy is targeted for completion before the end of the year](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy), and the Data Protection Act reached online naming and shaming, [exposing it to a E100,000 penalty](https://www.eswatiniobserver.com/baby-daddy-shaming-could-attract-e100-000-fine/). Restrictions on children's access to social media [were raised in the Senate](https://times.co.sz/41773/news/eswatini-eyes-curbing-childrens-social-media-access/), and online media publishing guidelines [are stated complete](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) though not published.
+
+On the delivery side, a second community innovation hub [opened at Macetjeni in the Lubombo region](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities), with [artificial-intelligence, robotics and cybersecurity training announced as the next phase](https://independentnews.co.sz/47100/business/ai-robotics-training-coming-to-innovation-hubs/); the agriculture ministry [handed 44 digital devices to extension officers](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/); and the Auditor-General [launched a 2026-2030 strategic plan putting artificial intelligence at the centre of public-sector accountability](https://techafricanews.com/2026/08/17/eswatini-auditor-general-urges-oag-staff-to-embrace-ai-and-digital-transformation/) â€” in a country whose own artificial-intelligence strategy this ledger records as not held.
 <!-- /narrative -->
 
 ## Governance
@@ -23,7 +25,7 @@ Eswatini's World Bank digital financing was [approved at more than E1.06bn on 19
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The National Data Governance Policy [was validated on 27 July 2026](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy) by stakeholders from government, business, civil society, academia and development partners, with a stated cycle of 2027 to 2031 — a policy dated to begin the year after it was drafted. Support runs through the Team Europe Data Governance in Africa initiative, the same channel behind the April 2026 workshop. The text is not published and no adoption date is given.
+The National Data Governance Policy is still being written. The ICT minister [told the Senate it is targeted for completion before the end of 2026, with government undecided between a standalone instrument and a broader one](https://techreviewafrica.com/news/6470/eswatini-validates-national-data-governance-policy). The text is not published and no adoption date is given; being undecided on the instrument's form is itself a statement about how far the drafting has got.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -48,11 +50,7 @@ Asked on 4 August how online publications comply with the data-protection law, t
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-ESCCOM [proposed on 20 July 2026, in Notice 08/2026, raising the minimum internet speed from 2 Mbps to 10 Mbps](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/), citing demand for high-bandwidth low-latency service. It is a proposal; the 2 Mbps standard stands.
-
-At a workshop for ICT parastatal directors on 22 July, the Ministry of ICT [put mobile coverage at 95% and mobile-internet subscription at 57%](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/), blaming data prices and paper-based public services, and set out a target of 859 schools and 134 health facilities to be connected. It named institutional leadership, not technology, as what will decide the outcome.
-
-Free adjudication of consumer complaints against communications providers runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications — a structural provision, not dated state.
+The one dated position here is a standing statutory right rather than a change. Free adjudication of consumer complaints against communications providers [runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications](https://times.co.sz/40791/technology-today/consumers-guide-to-type-approved-communications-equipment/). It is structural provision and not movement: no complaint volume, adjudication count or outcome is published against it.
 <!-- /narrative -->
 
 ## DPI
@@ -60,9 +58,7 @@ Free adjudication of consumer complaints against communications providers runs u
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-Three days after the FinScope survey launch, a Ministry of Finance portfolio committee [reported charges differing between institutions for equivalent services and higher than comparable banks in the sub-region](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/), recommending the central bank benchmark them against SACU and Common Monetary Area banks within 30 days of adoption. The dated figure on the record is a withdrawal of E4,000 attracting E79 to E89 in fees; the ministry replied that the bank concerned had not raised charges but moved to real-time display of each fee.
-
-Cross-border, an account published on 21 July established two things by implication. Eswatini's central bank governor [discussed leveraging Egyptian experience to accelerate PAPSS accession](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO), which places Eswatini outside PAPSS as at that date. The same account reports low-value Common Monetary Area transactions migrating off domestic electronic-funds-transfer rails onto the TCIB scheme, with no timetable, volume, value or mandating instrument given.
+The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the base holds that the rail changed hands technically and nothing about what that cost its users.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

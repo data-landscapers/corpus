@@ -15,7 +15,9 @@ record: b59beb8836a5
 ## Summary of the month
 
 <!-- narrative: summary -->
-July 2026 was organised around the Liberia Technology Summit of 21-22 July, at which the President made the whole-of-government digital office the centre of the agenda and the telecoms ministry named four builds — a national digital addressing system, a second subsea cable, expanded fibre and a national data centre — none of them dated or costed. In the same weeks the telecoms regulator revoked an operator's licence, refused to publish its own revenue and became the subject of a corruption complaint; the African Development Bank launched a six-year country strategy with no digital sector in it; and the first figures were published for the e-procurement platform and the interoperable payment fee schedule.
+Two laws were signed on one day. The President [signed the Cybercrime Act and the Personal Information Act into force on 19 August](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees), closing a gap this ledger has carried for months, and the telecoms regulator [set licensing, tax and service rules for the satellite market](https://www.wearetech.africa/fr/fils/actualites/telecom/licences-taxes-services--le-liberia-definit-les-regles-du-marche-des-telecoms-par-satellite).
+
+Against that the state auditor supplied the month's hardest finding: a [digital lending platform paid for in full was still undelivered at field verification, a year after its contractual go-live](https://frontpageafricaonline.com/liberia-auditor-general-cites-missing-audit-committee-non-competitive-procurement-unverified-assets-delayed-projects-and-undelivered-digital-lending-platform/). Elsewhere the biometric identity programme's [draft concession agreement went to Parliament after consultations concluded](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd), the regulator [rolled out automated telecom licensing and renewal](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system), and the country's first legal artificial intelligence [was launched over Supreme Court opinions from 1861](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/).
 <!-- /narrative -->
 
 ## Governance
@@ -31,8 +33,7 @@ One piece of it is now a signed instrument. The regulator [signed satellite comm
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
-
+The data-protection statute exists. The Personal Information Act [was signed into force on 19 August alongside the cybercrime law](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees). What follows a signature is the part the base cannot yet see: no commencement date, supervisory authority, appointment or implementing regulation is held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -52,7 +53,7 @@ The month's one channel built to hear from the public rather than about it was r
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The Cybercrime Act 2025 [had still not received presidential signature as of 1 July](https://liberianinvestigator.com/moye-liberia-cybersecurity-bill-boakai-signature/), nearly six months after the Senate's concurrence cleared its passage through the Legislature. The full text the base holds is the 2021 base bill, which carries none of the 2025 provisions.
+The Cybercrime Act 2025 [was signed into force by the President on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), ending a wait that ran from the Senate's concurrence through most of this year. The full text the base holds is still the 2021 base bill, which carries none of the 2025 provisions, so the Act is on record as in force and not as read.
 <!-- /narrative -->
 
 ## DPI
@@ -107,9 +108,7 @@ A second permit process is following it online. The education ministry says it i
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-At the President's third national youth town hall in Buchanan on 29 July, the President's Youth Advisory Council called for artificial intelligence to be made a national priority through education frameworks, innovation and fabrication laboratories and skills provision. The President [did not dismiss it and conditioned support on applications in agriculture, transport and commerce; no policy, institution, budget line or date followed](https://fpa.news/young-liberians-challenge-boakai-on-artificial-intelligence-he-accepted-what-comes-next/).
-
-The country's first working legal AI was launched on 31 July: [CJ Lewis, built by the law library Liblaw over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with OHCHR support on human-rights principles in the design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation.
+The country's first working legal artificial intelligence was launched on 31 July: [CJ Lewis, built by a law library over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with human-rights support on the principles in its design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation â€” which makes public access to the law rest on a private body's curation.
 <!-- /narrative -->
 ### Innovation ecosystem
 
