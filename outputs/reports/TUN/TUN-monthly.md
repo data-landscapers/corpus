@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: TUN
-ledger_rows: 29
+ledger_rows: 33
 not_held: 9
-record: 78a4a7eed977
+record: ff6ea9f35db9
 ---
 
 # Tunisia: monthly update, August – September 2026
@@ -113,6 +113,11 @@ The industry ministry [opened a unified digital services platform on 28 August, 
 The period's artificial-intelligence document came from outside the state. A diaspora alumni association [presented a Livre Blanc at the Tunisia Global Forum on 21-22 July](https://www.lapresse.tn/2026/07/22/tunisia-global-forum-2026-la-tunisie-face-au-defi-strategique-de-lintelligence-artificielle/) and its contents were [reported on 5 August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/): a 2030 vision of a country able to create, adopt and deploy trustworthy artificial intelligence, against a stated baseline of 12.7% adoption at end-2025 and 4,120 developers per million inhabitants. It [names the constraints as the absence of large-scale data centres and sovereign compute, brain drain, and small firms that are 90% of the economic fabric](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/), and prescribes frugal compute investment sized by measured demand. The document is declared open source and is not posted anywhere reachable, so all of that is held at press-summary precision.
 
 The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The startup framework reached for the diaspora. The Dot [opened applications for Dot Landing, a diaspora-entrepreneur programme targeting 30 to 45 founders across three cohorts by 2028](https://www.tunisie.fr/the-dot-lance-un-programme-dedie-aux-entrepreneurs-de-la-diaspora-tunisienne/). It is a pipeline programme with a target and no results yet; the record held carries no count of founders returned, companies incorporated or capital placed under it.
 <!-- /narrative -->
 
 ## Capacity

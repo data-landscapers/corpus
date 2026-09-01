@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: NAM
-ledger_rows: 36
-not_held: 10
-record: 9fef19ed44a3
+ledger_rows: 40
+not_held: 11
+record: 61b089fc451d
 ---
 
 # Namibia: monthly update, August – September 2026
@@ -31,6 +31,11 @@ The ICT minister met a consultancy delegation in Windhoek on 3 August on trustwo
 
 <!-- narrative: governance--gov-legislate -->
 The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Namibia said no to a data deal. The government [rejected a United States health data and specimen-sharing proposal, citing sovereignty](https://www.namibian.com.na/us-health-deal-faces-data-privacy-backlash-in-namibia/), while the two sides [raced to finalise HIV funding talks with the data-sharing question still open](https://www.namibian.com.na/critical-moment/). A refusal of this kind is rare enough on this base to be worth recording as its own position. What the record held does not carry is the text of what was proposed, or what the funding now depends on.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -109,6 +114,11 @@ Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed ov
 The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
 
 The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+Two small pieces of ecosystem plumbing. The ninth national ICT summit [received over N$1.2 million ahead of the event](https://www.nbcnews.na/node/118562), and the communications regulator [held a second entrepreneurship breakfast in Oshakati to build the northern digital economy](https://economist.com.na/cran-drives-northern-digital-economy-at-second-entrepreneurship-breakfast-in-oshakati/). Both are convening rather than capital: nothing in the record held names a company founded, funded or scaled through either.
 <!-- /narrative -->
 
 ## Capacity

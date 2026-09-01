@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: MAR
-ledger_rows: 28
+ledger_rows: 31
 not_held: 17
-record: 5fccfa5eb0b9
+record: 2e691b72631f
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -30,6 +30,11 @@ A 50-article digital health bill was adopted in the government council on 22 Jul
 A constitutional-law academic stated on 30 July that the revised electoral framework criminalises use of artificial intelligence to distort the truth or intrude on the private lives of candidates and voters, naming no law, article number or gazette reference ([commentary](https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html)).
 
 The data-protection statute is being recast rather than replaced. The regulator's president stated on the record that a recast of law 09-08, developed with the justice ministry, has entered the legislative circuit and been sent to the secretariat general of the government; he describes it as clarification rather than replacement. The [law itself has been in force since 2009](https://www.trade.gov/country-commercial-guides/morocco-digital-economy), and no transmission date or text for the recast is held.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The data-protection authority moved first on the election. It [set out in a communiqué of 28 August the rules binding political parties, candidates and artificial-intelligence-generated content during the campaign](https://fr.walaw.press/country/cirdi/QWSP/articles/legislatives_2026_la_cndp_encadre_l_usage_des_donnees_personnelles_et_de_l_ia_pendant_la_campagne/GPFLSXGWQQFM), having already [set out the requirements for processing personal data in the legislative elections](https://maroc.ma/fr/actualites/elections-legislatives-la-cndp-fixe-les-imperatifs-respecter-dans-le-traitement-des-donnees-caractere). Naming synthetic content in an election instrument is the notable part. The record held carries no enforcement action under it and no complaint mechanism a voter could use.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

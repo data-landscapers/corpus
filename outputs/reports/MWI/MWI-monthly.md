@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: MWI
-ledger_rows: 34
+ledger_rows: 40
 not_held: 39
-record: 7e38e5a065c1
+record: 55efb79de5f6
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -48,6 +48,14 @@ On 3 August the copyright society's blank media levy distribution was reported t
 
 <!-- narrative: governance--gov-discourse -->
 A [four-day regional consultation on artificial intelligence and digital inclusion opened in Lilongwe on 19 August](https://www.comesa.int/comesa-launches-artificial-intelligence-and-digital-inclusion-consultations-in-malawi/) under ministerial patronage, gathering public, private, academic and civil-society input. It is the fourth consultative event of the window and, like the three before it, has produced no output document.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The largest digital programme on the books came under review. The World Bank [opened a five-day implementation support mission on Malawi's US$150 million Digital Acceleration Project](https://techreviewafrica.com/news/6993/world-bank-begins-review-of-malawis-150-million-digital-acceleration-project). Against it sits an estimate of what the reform agenda is worth: [about 1.1 trillion kwacha, some US$634 million, in economic value projected from targeted digital reforms](https://www.financialafrik.com/en/2026/08/28/malawi-634-million-in-economic-value-expected-through-targeted-digital-reforms/). A projection and a mission are not results; the record held carries no disbursement figure and no delivered output against either.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -133,6 +141,14 @@ The spending dashboard is running and its address is not on the record. The mini
 
 <!-- narrative: digitalisation--digital-rural -->
 The university [ran two days of computer-skills training for 75 police officers](https://www.unima.ac.mw/news/single-post/university-of-malawi-trains-police-officers-in-computer-skills-14-08-2026) on 13 August. It follows the budget statement's [requirement that police fees be paid cashlessly from 1 April 2026](https://finance.gov.mw/documents/uploads/2026-03/Doc%201_2026-27%20Budget%20Policy%20Statement_0.pdf), and neither reaches a station: the crime management system is still at pilot, and no station count or deployment outside headquarters is on file.
+<!-- /narrative -->
+
+## Technology
+
+### AI
+
+<!-- narrative: technology--tech-ai -->
+The artificial-intelligence strategy is being argued over before it is adopted. A commentary [urged that a verification standard be settled before any scaling into public services](https://www.maravipost.com/malawis-ai-strategy-needs-a-verification-standard-before-public-services-scale/), following regional consultations. No adopted strategy text has been located, so what is in public debate is a direction rather than a document, and the verification question it raises has nothing yet to attach to.
 <!-- /narrative -->
 
 ## Capacity
