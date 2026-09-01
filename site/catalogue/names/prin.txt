@@ -72,6 +72,8 @@ CBS Principal Secretary State Department for ICT	6432
 CEO of Government Printing Works Ms	2681
 CHAPITRE PREMIER DES PRINCIPES ET DES	13709
 CHAPTER III FUNDAMENTAL PRINCIPLES	12891
+CHAPTER TEN NATIONAL POLICY PRINCIPLES	13948
+CHAPTER TWO FUNDAMENTAL PRINCIPLES	13948
 CHAPTER TWO PRINCIPLES OF PROCESSING	12185
 COMESA Principles	13122
 CONSTITUTIONAL DATA PRINCIPLES	3861
@@ -189,6 +191,8 @@ Federal Government Printer	1220,10631,125
 Feminist Guiding Principles and Commitments for Global	9261
 Feminist Guiding Principles for Global AI Governance	9261
 Fidelity Printers and Refiners	12514
+Fiduciary Principles Agreement	13938
+Fiduciary and Principles Agreement	13938
 Finance Principal Finance Officer Republic of China	12972
 Finance Principal Finance Officer SADC Secretariat	12972
 First Lady Rachel Ruto and Principal Secretary	10399
@@ -199,6 +203,7 @@ Four Principles	10360
 Fourth Industrial Revolution. Guiding Principles	4528,7984
 Frequency Principles Interoperabili	11952
 Fundamental Principles Integration	3861
+Fundamental Principles and Rights	14039
 Fundamental Principles of Official Statistics	11237,1469
 Fundamental Principles of Official Statistics UNICEF United	13359
 G20 High-Level Principles	11960
@@ -423,7 +428,7 @@ OPERATIONAL GOVERNANCE PRINCIPLES	3861
 OPPOSITION UNITY WITHOUT PRINCIPLE IS JUST	10581
 ORIGIN GATE IS PRINTED	1795,1413,3881
 Official Statistics and Principles of Official Statistics	12530
-Once Only Principle	5920,5635
+Once Only Principle	5920,5635,2432
 Once-Only Principle	8189,14,3805
 Once-only Principle	10775
 Open Data Charter Principles. Open Data	961
@@ -463,9 +468,10 @@ PRINCIPES ET VALEURS	10858
 PRINCIPES ET VALEURS I.1.1- Mission	10858
 PRINCIPES FONDAMENTAUX Article	10825
 PRINCIPIOS RECTORES SOBRE LA PROTECCION	163
-PRINCIPLES	1243,9941
+PRINCIPLES	1243,9941,2820
 PRINCIPLES AND ECONOMIC POLICIES	13294
 PRINCIPLES AND LAWFUL BASIS GOVERNING PROCESSING	1220
+PRINCIPLES CHAPTER	13977
 PRINCIPLES FOR RIGHTS-BASED USE OF AI	11156
 PRINCIPLES FOR THE SMART AFRICA TRUST	10819
 PRINCIPLES GOVERNANCE	11156
@@ -486,7 +492,7 @@ PRINTER STANDARDS AND GUIDELINES	34
 PRINTER STANDARDS AND GUIDELINES The ICT	34
 PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
 PRINTING DEPARTMENT	410
-Paris Principles	13097
+Paris Principles	13097,1052
 Participatory Implementation Principle Implementation	7548
 Partner Principal Associate Senior Associate Aman	12232
 PascalinaChiliboyiChishiba Principle Education Officer	13392
@@ -531,6 +537,7 @@ Prince Mshishimba Dlamini	3648
 Prince Mshiyeni	11986
 Prince NedNwoko	5363
 Prince Noluthando Jokazi Kuhle Majola Donnavan	13461
+Prince Régent	14281
 Prince Sibanda	6885
 Prince Sicalo Non-Executive Board Member Mr	11131
 Prince Sicalo Non-Executive Board Member Principal	11134
@@ -561,7 +568,7 @@ Principais Resultados Os	11416
 Principais Riscos Ligados	11406
 Principais Serviços Públicos	11555
 Principais Serviços Públicos Cliente Programa Regional	11555
-Principal	33,685,19,1091,4608,510,236,147,1769,248,53,360,1,763,171,83,167,189,253,15,185,220,54,67,299,15,50,384,612
+Principal	33,685,19,1091,4608,510,236,147,1769,248,53,360,1,763,171,83,167,189,253,15,185,220,54,67,299,15,50,384,612,581
 Principal Act	11280
 Principal Agreement	11956
 Principal Agribusiness Development Officer	11863
@@ -579,12 +586,13 @@ Principal Consultant	8654
 Principal Contractor	1988
 Principal Council Member	7522,1
 Principal Country Economist	13885
+Principal Country Program Officer	13938
 Principal Crown Counsel	11131,3
 Principal Customs and Excise Officer	13108
 Principal Digital Services Officer	9152
 Principal Digital Skills Officer Chunga Manzi	9792
 Principal Digital Skills and Capabilities Officer	9137
-Principal Disbursement Officer	11863
+Principal Disbursement Officer	11863,2075
 Principal Economist	11131,3,1828,102,135
 Principal Education Officer	5295
 Principal Energy Expert	13885
@@ -606,11 +614,14 @@ Principal IT Solutions Architect	11863
 Principal Information Technology Officer	3238
 Principal Internal Auditor Mr. Noel Masese	34
 Principal Investigator	9420,10,1170
+Principal Investigator Dr. Blal Adem Esmail	14162
 Principal Investigator Title	1154
 Principal Investigator and Executive Director Pria Chetty	13747
 Principal Investigator and Scientific Director of RAIL	5227
+Principal Investigator of NBS4Water	14162
 Principal Investigators	1554
 Principal Investigators of PMA Ethiopia	1212
+Principal Investment Climate Regulatory Officer	13938
 Principal Legal Counsel	11863
 Principal MInavleestigators	1154
 Principal Magistrate P.K. Mutai	9188
@@ -667,6 +678,7 @@ Principal Secretary for Investment Promotion Abubakar Hassan	10632
 Principal Secretary for Medical Services	4165,4784,3365
 Principal Secretary for Micro	8261
 Principal Secretary for Parliamentary Affairs	8382
+Principal Secretary for Science	14305
 Principal Secretary for State Department for Energy	10313
 Principal Secretary for The National Treasury	6946
 Principal Secretary for Trade and Industry Ms Christina	13029
@@ -718,7 +730,7 @@ Principes Fondamentaux Intumbero	13323
 Principes Sous-jacents	13841
 Principia	11517
 Principios	1701
-Principle	3861,1380,4175,741,662,337,361,343,100,225,41,553
+Principle	3861,1380,4175,741,662,337,361,343,100,225,41,553,1245
 Principle Asset	12006
 Principle Data	3861
 Principle Plan for Heads of Departments	11193
@@ -733,7 +745,7 @@ Principle of Data Transfer Without	12185
 Principle of Gender Equity and Equality	12779
 Principle of Lawfulness	3861
 Principle of National Policy. The State	12891
-Principles	21,948,251,23,231,119,235,1130,625,45,1,2910,407,1097,561,520,617,332,641,15,90,311,24,25,90,80,90,352,165,187,3,5,15,190,11,18,145,6,139,233,46,51,245,55,9,4,3,35,112,476
+Principles	21,948,251,23,231,119,235,1130,625,45,1,2910,407,1097,561,520,617,332,641,15,90,311,24,25,90,80,90,352,165,187,3,5,15,190,11,18,145,6,139,233,46,51,245,55,9,4,3,35,112,476,52
 Principles Data	12902
 Principles Digital Identification System	12146
 Principles Governance Legal Framework Priority Areas	21
@@ -756,9 +768,11 @@ Principles for Conflict Resolution	3861
 Principles for Digital Development	3731
 Principles for Digital Development. Africa	363
 Principles for Digital Functional Identification	10819
+Principles for External Relations	13948
 Principles for Financial Market Infrastructures	4103,8434
 Principles for Financial Market Infrastructures3	12364
 Principles for Financial Markets Infrastructures	12735
+Principles for National Defence	13948
 Principles for Responsible Banking	10718
 Principles for Responsible Digital Payments	3673
 Principles for Successful Electrification	13624
@@ -882,7 +896,7 @@ Print Speed	34
 Print and Digital	13461
 PrintFloods	2816
 Printable	6436
-Printed	736,236,37,214,621,33,3995,749,300,3895,24,97,259,17,67,293,474,442,830,1,36,1,28,52,33,31,76,29,53
+Printed	736,236,37,214,621,33,3995,749,300,3895,24,97,259,17,67,293,474,442,830,1,36,1,28,52,33,31,76,29,53,304
 Printed and Published	11851,125
 Printemps	7655
 Printer	12359,1045
@@ -937,6 +951,7 @@ SIMple Principle	11941
 SOCIEDADE DA INFORMAÇÃO CAPÍTULO I PRINCÍPIOS	15
 STRATEGIC PRINCIPLES	396
 SUPERVISION ENQUÊTE PRINCIPALE BAVAKURE Juvenal	13300
+Sabur Printing Services CODIFICATION	13963
 Sao Tome and Principe	236,756,6164,70,3538,76,577,146,46,601,832
 Sao Tome and Principe Angola Lesotho Guinea	12214
 Sao Tome and Principe By LUSA	6361

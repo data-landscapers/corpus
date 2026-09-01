@@ -10,7 +10,7 @@ ACADEMIA E INOVAÇÃO	12777
 ACADEMIC CITY	6936
 ACADEMICS DONORS AND VENDORS	9399
 ACAFEJ	9512
-ACAPS	568,5062,291,1017,9,1944
+ACAPS	568,5062,291,1017,9,1944,5210
 ACAT and Women Farmer Foundation	12977
 ACE Startup Academy	11309
 AI Academia	4126
@@ -32,7 +32,7 @@ Acacia Park Primary School	11285
 Acacia Park. SAPS	11285
 Acacia Surgical	7167
 Acacia and Port Rex OCGT	11228
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
@@ -41,7 +41,7 @@ Academia Private Sector	12674
 Academia Shall	13347
 Academia and Civil Society Representatives	11995
 Academia and Research	7548,4964
-Academia and Research Institutions	1261,3267,7335,89,1012
+Academia and Research Institutions	1261,3267,7335,89,1012,1115
 Academia and Research Institutions Universities	12675
 Academia and Scientific Networks	3861
 Academia de Ciências Policiais	7736
@@ -80,9 +80,11 @@ Academic Lead	5598
 Academic Librarians	8022
 Academic Partnerships and Global Health	10776
 Academic Press	8130,4167
+Academic Qualifications	14185
 Academic Security Operation Center	11077
 Academic Stream	13016
 Academic SuQport	11180
+Academic Year Education Statistics Annual Abstract	13994
 Academic and Research Communities	12675
 Academic and Research Institutions	1261,11095
 Academic and Research Institutions University Of Mauritius	11332
@@ -119,7 +121,7 @@ African Leadership Academy	8433
 Agricultural Research Council ASSAf Academy of Science	5246
 Anda Academy	10789,1
 Ano Académico	11391
-Anwar Gargash Diplomatic Academy	12983
+Anwar Gargash Diplomatic Academy	12983,1151
 Arab Academy for Science	8645
 BAYINAH ACADEMY LIMITED Data Controller INST-31759001209	7167
 BAYINAH ACADEMY LIMITED Data Processor INST-31759001209	7167
@@ -135,9 +137,11 @@ CISCO Digital Academies	12241
 CISCO Networking Academy	12361,46,565
 CITY ROSE ACADEMY LIMITED Data Processor	7167
 CUNY Academic Works	1261
-China Academy of Information and Communications Technology	7174,4628
+China Academy of Information and Communications Technology	7174,4628,2469
 China Academy of Space	12545
 China’s Academy of Military Sciences	8510
+Chinese Academy of Sciences	14140
+Chinese Academy of Sciences. No	14140
 Chris Hani Baragwanath Academic Hospital George	11248
 Cisco Academy	12241,685
 Cisco Network Academy Building	13080
@@ -233,6 +237,7 @@ IFMIS Academy About Academy Training Schedule	12322
 INTELLIGENCE ACADEMY	11277
 ITU Academy	8945,4567
 Industry-Led Skills Academies	4528,7984
+International Academic Conference	14267
 International Academy for Counter-Terrorism	9275
 International Journal of Academic Research	5349,1929,1851
 International Law Enforcement Academy	13754
@@ -277,6 +282,7 @@ Nairobi Jiu-Jitsu Academy	10464
 Namibia. Academic	5036
 National AI Academy	7853,678
 National AI Governance Academy	4528,7984
+National Academic Digital Library of Ethiopia	13991
 National Academies of Sciences	12265
 National Research and Academic Network LTA Liberia	1777
 Networking Academy	10247,2114
@@ -307,6 +313,7 @@ Refactory Academy Digital Solutions Expo	6865
 Regional Somali Language Academy	10451
 Registros Académicos	4209
 Requisitos Académicos Específicos. Os	11472
+Research and Academic Digital Repository of Ethiopia OER	13991
 Researchers Academia H H University of Nairobi	12210
 Rising Academies	6232
 Role of Academia Academia	4528,7984
@@ -325,6 +332,7 @@ Sector Academia	7548
 Servicios Académicos	4209
 Simandou Academy	3900,130
 Simandou Academy. Smart Africa	4036
+Simulated Laboratories National Academic Digital Library	13991
 Skills Academy	9871
 Skills Academy. Launched	9871
 Smart Africa Digital Academy	1182,82,2285,481,6,1748,37,5127

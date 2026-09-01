@@ -109,7 +109,7 @@ Budg. Act. Budg	13349
 Budg. Act. Budg. Act. Budg. Act	11907,1442
 Budg. Targ. Targ. Targ. Education	11907
 BudgIT	5155,190,6521,76,54
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,31,2
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15,228,7,333,1,8,50,70,26,31,84,49,64,1,2,79,7,62,193,4,1,9,4,6,309,5,34,15,5,1,5,17,54,2,25,13,2,27,1,23,20,137,26,2,3,7,14,8,27,28,18,9,31,6,23,6,8,5,1,24,3,3,10,18,4,1,2,63,5,10,6,11,30,56,1,9,15,112,30,1,2,210,34,27,128,10,44
 Budget Actual	13093
 Budget Address	12369,1067
 Budget Allocation Reported Expenditure	3583
@@ -183,6 +183,7 @@ Budget Process National Treasury	11289
 Budget Process Review	11289
 Budget Programming and Monitoring	13349
 Budget Programming and Monitoring Congo	11907
+Budget Proposal	14212
 Budget Proposals	12588
 Budget Proposals for Organization	12580
 Budget Quote	11228
@@ -203,7 +204,9 @@ Budget Support	11863
 Budget Support Group	11863
 Budget Support for Education Reforms	13460
 Budget Technologies	7548
+Budget The House	13948
 Budget Total Phase	12608
+Budget Transparency By Kebba A.F. Touray	14212
 Budget Treasury	7548
 Budget US	3339
 Budget Utilisation and Budgetary Control	13420
@@ -225,7 +228,7 @@ Budget and Disbursement	13332
 Budget and Economic Cooperation	13312,2
 Budget and Economic Planning	1284,1556,4015,6476
 Budget and Economic Planning Minister Abubakar Bagudu	7143
-Budget and Finance	13130
+Budget and Finance	13130,1006
 Budget and Finance Affairs Standing Committee	7091
 Budget and GC	10721
 Budget and Instruction	11900
@@ -258,7 +261,7 @@ Budget. Sectors	13722
 Budget. The Department	11224
 Budget. WORLD	13122
 Budget2024	12977
-Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135
+Budgetary	789,151,2643,7176,76,2,1,74,56,902,16,1,1,1,249,15,1,9,177,1,11,1,135,1697
 Budgetary Allocation	11860
 Budgetary Central Government	2775
 Budgetary Control	9437
@@ -279,6 +282,7 @@ Budgeting and Accounting System	13418
 Budgets	1382,9623
 Budgets and Finance Arrangements	11193
 Budgets and Procurement Plans	11401
+Budgets of State	13948
 BudgiT	11866
 Budgit Foundation’s	10093
 Budgétisation	10965,2376
@@ -293,6 +297,7 @@ CTA Vehicle Charges The Budget for CTA	12971
 Capital Budget	11136
 Cashflow Budget	11209
 Central African Republic Ministry of Finance and Budget	4127
+Citizens Budget	14212
 Citizens Budget Satisfaction Survey	11866
 Civil Society Budget Advocacy Group	11615
 Commissioner for Budget and Economic Planning	12135
@@ -364,7 +369,7 @@ Elaboration du Budget Annuel	10876
 Electricity and Energy Dept Budget Vote	11215
 Emerging Budget	7548
 Emerging Technologies Budgetary Service	7548
-Enacted Budget	6463,5751
+Enacted Budget	6463,5751,1998
 Enhance Revenue and Budget Efficiency	2527
 Enquete Exploratoire Budjet-Consommation	13746
 Environnementales DGB Direction Générale du Budget DG	10876
@@ -375,12 +380,14 @@ Estimated Budget Outlay for NRB NRB Budget	13005
 Eswatini Budget	11131
 Executive Budget Proposal EFY	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Executive's Budget Proposal	6463
+Executive’s Budget Proposal	14212
 Exécution Budgétaire	4420
 Exécution du Budget	998,9977
 Exécution du Budget du MCTIT Par Année	13500
 FCFA Digital Budget	5458
 FINANCIAL YEAR BUDGET	13122
 FINANCIAL YEAR BUDGET REQUESTS	12597
+FINANCING PLAN AND BUDGET	13965
 FY2017 Budget Proclamation	750,540
 Federal Government Budget and Donor Agencies	11866
 Federal Ministry of Budget and Economic Planning	10063,93
@@ -392,6 +399,7 @@ Finance and Budget Oversight	12753
 Finance and Budget of Guinea	5787
 Finances du Budget	13341
 Financial Affairs and Budget Oversight Commission	3901
+Financial Analysis Annual Planned Budget	14058
 Financial Performance Report Item Estimated Budget	12971
 Financial Performance Report Operating Costs Budget	12971
 Financial Resources and Budgetary Allocation	3861
@@ -403,6 +411,7 @@ Fiscal and Budget Decentralization	10775
 Five Star Hotel Project Budget	12962
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
 GOVERNMENT CAPITAL INVESTMENT PROGRAMME Budget	12962
+GPE Total Budget	13999
 GSM Buddie	12690
 GSM Buddie Student	12690
 Gautam Budhnagar	11579
@@ -497,13 +506,14 @@ Member for Budalang’i	10313
 Microsoft Form. Budget and CV	9630
 Mid Year Budget Implementation Review	5655
 Mid-Year Budget	13122
-Mid-Year Budget Review	7739,1,5382
+Mid-Year Budget Review	7739,1,5382,1094
 Mid-Year Budget Review Statement	13055,67
 Mid-Year Budget Statement	4932,8190
 Mid-Year Budget Statement. Real GDP	13122
 Million Budget	7548
 Million Budget CA	7548
 Minister of Budget	13842
+Minister of Budget Robleh	13868
 Minister of Budget and Economic Planning	3054
 Minister of Budget and National Planning	2934
 Minister of Finance and Budget	11858
@@ -513,7 +523,7 @@ Ministre du Budget	4420,6485
 Ministre du Budget. Article	4420
 Ministries and Other Extra- Budgetary Institutions	2775
 Ministries of Finance and Budget	3604
-Ministry of Budget	7143,4762
+Ministry of Budget	7143,4762,1963
 Ministry of Budget Responsible	11916
 Ministry of Budget and Economic Planning	7143,4326
 Ministry of Budget and National Planning	11129
@@ -564,7 +574,7 @@ National Treasury's Budget Review	5199
 Next Expected Nb Activity Budget	2989
 Number of MDAs' Annual Budgets	11866
 Open Budget	9278
-Open Budget Survey	6463,37,1507,1452,2407
+Open Budget Survey	6463,37,1507,1452,2407,2346
 Open Budget Survey. En	6500
 Open Budgets	11866
 Open Data Budget Description URL	748
@@ -573,6 +583,7 @@ Operational Budget and One Hundred and Fourty Million	12982
 Organic Budget Law	11866
 Organisation Budget	8726,408,140
 Original Budget ZWL	13420
+Output Activities Budget	13938
 Outputs Name Annual Budget	13080,15
 Over Budget	6588
 Overall Capital Budget Performance	12962
@@ -613,6 +624,7 @@ Programme Based Budgeting	13685
 Programme-Based Budget	1514,694,2282,1
 Programme-Based Budget Estimates	1512,1,1,2969,7,1
 Project Activities Budget Funding US	395
+Project Budget UNHCR GBV	13938
 Project Description Budget Allocation District Specific	11986
 Project Management and Citizen Engagement. Budget	4653
 Projet de Budget	13923
@@ -620,6 +632,7 @@ Proposed Capacity Building and Training Budget	12253
 Proposed Recurrent Budget	12606
 Proposed Revised Budget Post Restructuring	2989
 Prospective DPBEP Document de Programmation Budgétaire	10712
+Public Budget Allocation	14033
 Public Budget Preparation and Execution System	9489
 Public Information Budget	5244
 Publication of Budget	11866
@@ -644,8 +657,11 @@ Recurrent and Development Budget	12580,17,1
 Regional State Budget	5655
 Regulation and Standards Strategic Project Budget Funding	395
 Represented Political Party Savings and Budget Cuts	11986
+Required Budget for Ethiopian National Strategy	13965
 Resources Institute IBP International Budget Partnership	10835,3,130,902,16,466,1,135
 Responsive Planning UN United Nations and Budgeting	11193
+Result Framework And Budget.......66	13999
+Resumption of EU Budget Support	14109
 Revenue Composition Direct Budget Support	5655
 Revenue Management Budget	11939
 Revenue Mobilisation Budgetary	10759,78,1315,188

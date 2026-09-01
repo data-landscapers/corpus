@@ -15,9 +15,10 @@ Airtel Tanzania Ltd	4896
 Airtel Tanzania Towers	4896
 Airtel Tanzania and ZICTIA Partner	3458
 Along the Tana River Irrigation Scheme	9547
+Amesema Tanzania	14217
 Angola and Tanzania	1147
 Arusha and Mwanza. Airtel Tanzania	9149
-Arusha. Tanzania	2710
+Arusha. Tanzania	2710,11562
 August. John Tanui	8092
 Ayman El Tanbouly	10264
 Ayman El Tanbouly and Ahella El Saban	10264
@@ -119,6 +120,7 @@ Eng. John Kipchumba Tanui	3878,2847,344,338,73,902,410,417,1190,268
 Eng. John Tanui	1236,9,3523,340,428,1,895,74,671,917,3205
 Eng. Tanui	3878,1230,2372
 Equity Bank Tanzania	12252
+Eswatini Liberia Seychelles Tanzania Zambia	14098
 Ethiopia and Tanzania	2988,2641,6627
 Ethiopia and Tanzania Challenge Funds	11142
 Ethiopia and Tanzania. KenGen	12256
@@ -129,6 +131,7 @@ FAO and WWF Tanzania	11639
 FREE VISA TO ALL TANZANIAN CITIZENS	7506
 File Bank of Tanzania	2857
 File Tanzania	8135
+FinScope Tanzania	14399
 FinTech Festival Tanzania	2275
 Financial Intelligence Unit Tanzania Financial Stability	6938
 Financial Sector Deepening Trust Tanzania	2857
@@ -175,6 +178,7 @@ ID for All Tanzania	5697
 ID for All Tanzania’s Home Affairs Minister	2947
 Impact Tank Impact Tank	12450
 Income Tax Act. Tanzania	10388
+Informa Markets. For Tanzania	14397
 Infrastructure Business John Tanui	9938
 InnoIP Tanzania	11643
 Innovating Tanzania's Path	10195
@@ -188,6 +192,7 @@ J-PAL. Tanele Magongo	12485
 JUSTICE FOR WOMEN IN TANZANIA	11206
 Jeshi la Polisi Tanzania	6019
 Jeshi la Polisi Tanzania Bara	6019
+Jhpiego Tanzania’s Alice Christensen	14398
 Jimbo la Tangany	6019
 John Kipchumba Tanui	8569
 John Kipchumba Tanui and ICT Authority CEO	5964
@@ -197,6 +202,7 @@ Jubilee Group Tanzania	8884
 Judiciary of Tanzania	8616
 KICTANet Engages Tana River County Leadership	7990
 KICTANet Think Tank	9547,101,2579
+KOFIH Tanzania	14398
 KPLC and TANESCO	12256
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kartu Tanda Penduduk	11994
@@ -278,6 +284,7 @@ Musongati. Tanzanie	13405
 Mutume Tanaka Elspet Cordelia	2518
 NAO Tanzania	741
 NE PAS CONTINUEZ TANT QUE VOUS	13300
+Nana Appiah Acquaye Rwanda and Tanzania	14282
 National Assembly of Tanzania	2806
 National Examination Council of Tanzania	10196
 National Examinations Council of Tanzania	10196,479
@@ -285,6 +292,8 @@ National Tanzania	9779
 National Why Tanzania	9779
 Net Amount Tangible	11955
 Nigeria and Tanzania	771,6021,309
+Nigeria and Tanzania. About the Africa Ecosystem Catalysts	14233
+Nikiwe Tanga	14390
 Nobuyuki Tanaka	13058
 Northwest Tanzania	3791
 Nyandarua Marsabit Nyeri Tana River	12251
@@ -338,7 +347,8 @@ STANBIC Bank Tanzania Limited	12252
 SYR TAN	11900
 Sabine N'Doute Tantos	2366
 Salaam. As Tanzania	4714,2441
-Salaam. Tanzania	3366,143,1103,773,398,239,8,897,394,194,950,2561,1088
+Salaam. Tanzania	3366,143,1103,773,398,239,8,897,394,194,950,2561,1088,2283,2
+Salaam. Tanzania and South Korea	14398
 SandBox Security X Tanzania Privacy Professionals	9452
 Sanjay Tanna	6576
 Sanjay Tanna and Huawei Technologies	6576
@@ -388,7 +398,7 @@ TANZANIA ACT	6921
 TANZANIA Men	11964
 TANZANIA The Personal Data Protection Act	12232
 TANZANIA YANADI MAFANIKIO YA MATUMIZI YA	7218
-TANZANIA’S	5771
+TANZANIA’S	5771,8552
 TANZANIA’S Electronic Public Procurement System	10504
 TIPS TanQR	8465
 TOA Tanzania	1417
@@ -500,7 +510,7 @@ TanzTech	2868
 Tanza	12256
 Tanzan	1261
 Tanzan Health Res Bull	1261
-Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,48,6,2,11,1,23,3,6,30,12,61,6,46,422,10,68,14,40,53,165,1,1,17,34,5,18,2,17,5,45,15,65,73,26,15,34,28,79,75,2,6
+Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,48,6,2,11,1,23,3,6,30,12,61,6,46,422,10,68,14,40,53,165,1,1,17,34,5,18,2,17,5,45,15,65,73,26,15,34,28,79,75,2,6,128,95,42,36,13,1,21,22,18,12,9,10,41,69,5,1,1
 Tanzania AI	11061,3
 Tanzania Accountants Association President Godvictor Lyimo	8888
 Tanzania Act	6921
@@ -523,7 +533,7 @@ Tanzania Civil Aviation Authority	5883
 Tanzania Commercial Bank	8477
 Tanzania Commission for AIDS Act	6921
 Tanzania Commission for Science and Technology	5715,3575
-Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711,94,269
+Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711,94,269,2292,7
 Tanzania Communications Regulatory Authority. South Korea	2947
 Tanzania Computer Emergency Response Team	2703,3465
 Tanzania Cooperative Development Commission	12114
@@ -534,7 +544,7 @@ Tanzania Côte	10837,1503
 Tanzania Dar	12232
 Tanzania Data Lab	10392
 Tanzania Data Lab Executive Director Dr	10392
-Tanzania Development Vision	1261,4907,409,938,2584
+Tanzania Development Vision	1261,4907,409,938,2584,4300
 Tanzania Digital Economy Strategic Framework	1388,1469
 Tanzania Digital Economy Strategy Framework	6168
 Tanzania Digital Health Strategy 2019 -2024.pdf	1261
@@ -576,6 +586,7 @@ Tanzania Inclusive Digital Economy	849
 Tanzania Insights	5893
 Tanzania Instant Payment System	269,14,238,990,4466,839,376,571,372,330,1812
 Tanzania Instant Payment System Phase	1511
+Tanzania Instant Payment System Proof of Concept	14282
 Tanzania Instant Payments System	2857,10531
 Tanzania Institute of Arbitrators	2806
 Tanzania Insurance Regulatory Authority	11133
@@ -618,6 +629,7 @@ Tanzania National Steering Committee. The DEEP	11133
 Tanzania Nov	5629
 Tanzania People’s Defence Force	2867
 Tanzania Phase II	2238
+Tanzania PoC. Participants	14282
 Tanzania Ports Authority	5883,2973,1736
 Tanzania Posts Corporation	4953
 Tanzania President Mwinyi Reviews TTCL’s Digital	10746
@@ -674,8 +686,9 @@ Tanzania and Nigeria. AfricaNenda	3977
 Tanzania and Russia	7515
 Tanzania and Rwanda	7192,3068,202
 Tanzania and Somalia	2876
+Tanzania and South Korean	14398
 Tanzania and US	2153,555
-Tanzania and Uganda	5236,866,1189,502,153,4,803,857,196,731,863,564,275,1705
+Tanzania and Uganda	5236,866,1189,502,153,4,803,857,196,731,863,564,275,1705,149
 Tanzania and Uganda. Affordability Coalition	6593
 Tanzania and Uganda. BujaHub	13314
 Tanzania and Uganda. Co-financed	719
@@ -704,6 +717,7 @@ Tanzania's Registration	10591
 Tanzania's Southern Highlands	9454
 Tanzania's TIPS and Rwanda's RSwitch	7178
 Tanzania's UCSAF	5788
+Tanzania's Vice President Emmanuel Nchimbi	14237
 Tanzania's Watumishi and Senegal's Numerique	13688
 Tanzania-Digital-Tanzania-Project.pdf	5893
 Tanzania-German Centre for Eastern African Legal Studies	7155
@@ -723,6 +737,7 @@ Tanzania. Can	5925
 Tanzania. Chen	3062
 Tanzania. Dar	3062
 Tanzania. Dr Mkilia	12134
+Tanzania. Experts	14398
 Tanzania. Hakika	6019
 Tanzania. Hii	3062
 Tanzania. ICT Authority	899
@@ -751,7 +766,7 @@ Tanzania. Want	5715
 TanzaniaDigitalTrust	9491
 TanzaniaDigitalTrustInitiative	9452,39
 TanzaniaInvest Vodacom Tanzania Launches USD	5715
-Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1,365,176,16,588,377,107,819,272,2,74
+Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1,365,176,16,588,377,107,819,272,2,74,823,181,5,1,1
 Tanzanian Fintech NALA Receives Uganda Payment	4405
 Tanzanian M-PESA	6368
 Tanzanian NGO Ubongo	6948
@@ -769,7 +784,7 @@ Tanzanian and European ICT	8276
 Tanzanian and Kenyan Swahili	4439
 Tanzanian and Polish	7428
 Tanzanian and Russian	7515
-Tanzanians	1644,159,1121,3001,425,18,194,464,480,1,8,620,330,149,270,894,231,90,96,82,314,466,568
+Tanzanians	1644,159,1121,3001,425,18,194,464,480,1,8,620,330,149,270,894,231,90,96,82,314,466,568,2551,35,26
 Tanzanians. Ink	2867
 Tanzanians. Internet	6577
 Tanzanians. Public	9492
@@ -780,7 +795,7 @@ Tanzania’s	6562
 Tanzania’s AI	3366
 Tanzania’s Communication and Information Minister	3460
 Tanzania’s Data Protection	5002
-Tanzania’s Development Vision	9897
+Tanzania’s Development Vision	9897,4375
 Tanzania’s Digital Economy Strategic Framework	9014
 Tanzania’s Financial Inclusion Index	8135
 Tanzania’s GDP	4714,5878
@@ -807,7 +822,7 @@ Tech Tanzanian Fintech NALA Receives Uganda	4405
 Technology TISEZA and Vodacom Tanzania Partner	9897
 Tehama Tanzania	8411
 Themed Reimagining Tanzania’s Future	3366
-Think Tanks	12917
+Think Tanks	12917,1199
 Through the Tanzania Commission for Science and Technology	11623
 Tigo Tanzania	813,1,15
 Tina Mart. Tanzania	4972
@@ -816,11 +831,12 @@ TowerCo of Africa Tanzania	1417
 Transmission Company Limited VTTI Vitol Tank	12256
 Transport Minister Edoardo Rixi and Tanzanian Transport	9971
 UNICEF Tanzania	64,1197
+UNITED REPUBLIC OF TANZANIA	13996
 UNITED REPUBLIC OF TANZANIA NO	6921
 UNITED REPUBLIC OF TANZANIA No	6921
 Uganda and China Vodacom Tanzania	6102
 Uganda and China Vodacom Tanzania and Thunes	6102
-Uganda and Tanzania	6096,1771,2732,279,1378
+Uganda and Tanzania	6096,1771,2732,279,1378,1934
 Uganda and Tanzania. Under the East African Community	13312
 Uganda. Tanzania Instant Payment System	514
 Ugandans and Tanzanians	12227
@@ -830,6 +846,7 @@ United Republic of Tanzania No	6921
 United Republic of Tanzania The Republic of Zambia	12527
 United Republic of Tanzania and Zambia	318,12600
 United Republic of Tanzania. Bull World Health	771
+United Republic of Tanzania. In Ethiopia	14157
 United Republic of Tanzania. PART I PRELIMINARY	6921
 United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
@@ -866,6 +883,7 @@ Yas Tanzania Brings Fibre Connectivity	10590
 Yas Tanzania and Ericsson	6350
 Yas Tanzania. Axian	814
 Z. Tang	5349
+ZCSA Cites Tanzania Vice President Report	14237
 Zambia and Tanzania	10628,2432
 Zanzibar. Tanzania	2867
 Ziwa Tanganyika	2868,3151

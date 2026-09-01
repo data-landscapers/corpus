@@ -11,6 +11,8 @@ Airfare Compensation Platform Designed	11939
 Algiers. Designed	3775
 Analysis Preliminary Designs Progress Update Activities	11131
 Annonciate UWIMANA Desire KEZAKARAYAGWA Eric YAMUREMYE	13300
+Application for Designation	14024
+Application for Startup Ecosystem Builder Designation	14024
 Applications Design	10861
 Approved Individuals and Designated Individuals	13559
 Architectural and Structural Design	9123
@@ -20,6 +22,7 @@ B Strategy and Design	11006,1
 BNXR3060-1 Related Project Designing the Global DPI	11006
 BNXR3060-2 Related Project Designing the Global DPI	11007
 BRAND DESIGN DEVELOPMENT LIMITED Data Controller	7167
+BUILDERS DESIGNATION	14024
 Bachelor of Design and Technology	12972
 Bello-Gomez RA. Designing Difference	10881
 Biometric Electoral Census Designed	11939
@@ -46,6 +49,7 @@ Convening Design The Bridgforte Executive Table	11138
 Cooking Design	12399
 Country Partnership Framework DA Designated Account	1264,10296
 Cover Page Design Desmond Manatsa	520
+Criteria for Designating Inspectors	14113
 Critical Information Infrastructure Designation	6295,605
 Current Design-linked	7548
 Curriculum Designer	12972
@@ -90,7 +94,7 @@ Data Centre Design	12253
 Data for Policy and Digital Product Design. Work	12241
 DeSIRA	12985
 DesInventar	10763
-Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24
+Design	32,364,268,102,5,128,59,4,38,580,408,686,1004,179,4,265,88,44,1,269,235,27,10,48,393,3,169,380,639,10,161,229,104,11,1,11,45,544,100,142,161,62,5,57,15,103,353,57,1,1,207,311,5,475,461,93,557,36,2,13,10,41,3,10,11,123,1,32,8,11,56,12,47,3,7,16,53,7,49,4,107,209,157,62,59,6,47,36,1,3,8,44,11,72,48,29,17,25,2,12,11,7,11,84,21,18,23,1,53,25,34,162,19,141,83,47,11,30,32,43,15,90,128,30,42,39,119,113,139,74,24,45,53,89,57
 Design AI	12356
 Design API	6432
 Design Applications	11250
@@ -139,6 +143,7 @@ Design and Modelling	2816
 Design and Preparation	10779
 Design and Technology	12975
 Design and Text	11332
+Design for Change	14353
 Design for Greater Efficiencies	1264,2340,7813
 Design for Greater Efficiencies EDGE Financial Management	11417
 Design for Greater Efficiencies High Multinational School	3604
@@ -158,7 +163,7 @@ Designada Autoridade Reguladora	4274
 Designate	1000,777,37,174,689,47,1137,1816,1932,2548,850,1188,45,13,200
 Designate Commissioner	11289
 Designate ZCSRA	11133
-Designated	6900,167,2771,2415,2
+Designated	6900,167,2771,2415,2,1769
 Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
@@ -182,8 +187,13 @@ Designated Post Offices	12216
 Designated Postal Operator	6946
 Designated Private Sector Data	11995
 Designated Seismic System	9123
+Designated Startup	14024
+Designated Startup Ecosystem Builder	14024
+Designated Startup Ecosystem Builders	14024
+Designated Startups	14024
 Designating	2775,6348,3062,1496
-Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261
+Designation	22,565,887,119,144,990,1134,26,1886,659,176,3549,1427,372,85,418,90,350,10,29,16,351,261,458,89
+Designation Committee	14024
 Designation and Protection of CNII Order	10721
 Designation and Protection of CNNI Order	10721
 Designation of Critical Infrastructure	7538
@@ -192,12 +202,14 @@ Designation of Data Controllers and Data Processors of Major	11956
 Designation of Data Protection	1593,11361
 Designation of Data Protection Officers	11956
 Designation of His Excellency Duma Gideon Boko	8485
+Designation of National ICT Steering Committee	13956
 Designation of Regulated Data	10157
+Designation of Startup Ecosystem Builder	14024
 Designation of Systems	12938
 Designations	11129
 Designação	9799,956,28,578,12,46,11
 Designação Descrição	2816
-Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77
+Designed	562,230,844,70,1210,329,13,99,52,623,34,264,334,657,21,77,94,164,494,332,90,239,153,8,305,1751,344,6,230,77,316,9,339,478,499,828,173,55,8,631,15,23,93,103,257,259,77,282
 Designed and Hosted	13518
 Designed for Ethiopia	12215
 Designed for Real-World Use	11987
@@ -210,6 +222,7 @@ Designing	745,1351,2253,90,75,1306,1118,8,1076,583,632,502,321,210,105,388,234,2
 Designing CPD Programs for Teachers	13070
 Designing Culturally Aligned AI Systems	6948
 Designing Culturally Aligned AI Systems for Social	6948
+Designing TVET	14251
 Designing and Evaluating	8856
 Designing and Managing	11006
 Designing and Procurement Phase	12253
@@ -221,7 +234,7 @@ Desigualdade	2816,7949,10,651
 Desigualdades	11569
 Desire	11131
 Desire Nimubona	3560,2829
-Desired	11224,762,1019
+Desired	11224,762,1019,1093
 Desired Organizational Benefits	13037
 Desiree Reddy	9127
 Desistidos M	10766
@@ -258,22 +271,28 @@ Digital for Government and Digital Product Design	13080
 Digitalization Life Cycle B Strategy and Design	11006,1
 Direction Générale desImpôts	13809
 Director General for Digital Centre Design	3654
+Disabilities DML Desired Mastery Level DP	13990
 Disbursement and Financial Information Letter. A Designated	1284
+Duty Free Privilege for Designated Startup Ecosystem	14024
+Duty Free Privilege for Designated Startups	14024
 E Money Issuer and Designation of Payment	12286
 E.g. Design	11004,960
 ELECTRONIC ID CARD DESIGN	12165
 EM-DAT and DesInventar. Satellite	10763
 EMBEDDING SAFETY IN FAST-PAYMENT DESIGN	11138
 ENDORSEMENT OF DESIGNATION	22
+ESTABLISHING NATIONAL DESIGNATION COMMITTEE	14024
 EXCLUDED BY DESIGN MARKET DEVELOPMENT ZONE	418
 Education Design Unlimited	899
 Electronic Design Automation	6468
 Electronic Eleventh Design Research Institute	181,9
+Eligibility for Designation	14024
 Energy and Environmental Design	11905,1057
 Engineering Design	3840
 Ensino. TAXA DE DESISTÊNCIA ESCOLAR	10766
 Enterprise Design Quality Assurance and Results Division	10550
 Equipment Design and Safety	1988
+Establishment of National Designation Committee	14024
 Eswatini SWZ Designing Eritrea ERI Implementing	13082
 Ethiopia's DPI. Designed	8183
 Evidence for Usercentric Design. Springer	2096
@@ -284,12 +303,13 @@ Failover Design	10721
 Forms Designer	12359
 Functional Design Strategy	13532
 Fund. Critical Information Infrastructure Designation	587
+GRAPHIC DESIGN	13977
 General Facility Design and Operation	1988
 Genève Design	11376
 Ghana GHA Designing National Strategy	13082
 Government Executing TECHNICAL DESIGN High	11863
 Government of Sierra Leone. Designed	9450
-Graphic Design	6832,4515
+Graphic Design	6832,4515,2801
 Graphic Web Design Analysts	6832
 Grill Area Design	11134
 Guidance for Design Price Code	13385
@@ -353,16 +373,20 @@ National Cybersecurity Coordinator. Designate	1777
 National Designated Authority	10348
 National Governance Framework Design Report	12008
 National Governance Framework Design Report. Activity	12008
+National Startup Designation Committee	14024
 Network Design	6832,4720
 Network Design and Rollout Implementation Plan	7368
 Nigeria Web Design Standards	12881
 Number of Designated Employers	13037
 Number of Designated Employers Registered	13037
 OPPORTUNITY The B Strategy and Design	11006
+Obligation of Designated Startup Ecosystem Builders	14024
 Official Citation and Designation	3861
 Online Design Renewals	11250
 Operador Postal Designado Decreto	12794
 Original Design Manufacturer	12264
+Overall Design	14090
+PART FOUR INCENTIVES FOR DESIGNATED STARTUPS	14024
 PART III- CRITICAL NATIONAL INFRASTRUCTURE Designation	12459
 PART V DESIGNATION AND OPERATION	13403
 PART V DESIGNATION OF PAYMENT SYSTEMS	12938
@@ -385,18 +409,21 @@ Preliminary Designs	11131
 Privacy Design E.g. Ensure	11004
 Privacy Design Guidelines for Mobile Application Development	11004,960
 Private Sector Adoption and KPI Monitoring Design	4126
+Proclamation. SUB SECTION ONE SATRTUP DESIGNATION	14024
 Program Design	3604
 Program Design Effectiveness Risk Internal Audit	3604
+Programme Design	14000
 Project Design	969,295,603,8901,61,135,416,145,24,11,295,110,1366,1
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project Design and Credit Appraisal Team Manager	12195
 Project’s Designated Account	13392
+Protection for Designated Startups	14024
 Protocol LLD Low Level Design MDAs	13185
 Província Reprovados Desistidos Angola Bengo Benguela	10766
 Província Reprovados MF M F Desistidos	10766
 Quantitative Engineering Design	12240
 Quarterly and Annually Desired	11986
-REFLECTED IN DESIGN	11863
+REFLECTED IN DESIGN	11863,2075
 RESEARCH DESIGN	1248
 REST API Design Standards	11952
 Relations DESIR	10975
@@ -413,10 +440,11 @@ Review of Design and Use	11133
 S A Designated Account	10829
 SENI-Plus Designated Account	10829
 SODD System Overview Design Document PMDS	11986
+SUB-SECTION TWO DESIGNATION OF STARTUP ECOSYSTEM	14024
 SUBSTITUIÇÃO E DESISTÊNCIA DE CANDIDATO	11528
 SURVEY AND INSTRUMENT DESIGN The FinScope	12409
 Safaricom's Head of Network Planning and Design. Ericsson	5332
-Sample Design	13454
+Sample Design	13454,613
 Sampling Design	12445,533
 Sampling Design Sampling	12978
 Satellite Beam Designation Assigned Tx Frequency	736
@@ -429,6 +457,9 @@ Smart Curriculum Design	6948
 Software Development and Digital Design	6832
 Solution Design	12400
 Solution Design and Architecture	12400
+Startup Designation	14024
+Startup Ecosystem Builder Designation	14024
+Startup Ecosystem Builder Designation Shall	14024
 Strategy and Business Systems and Digital Design and User	6832
 Strategy and Design	11006,1
 Strategy and Design Consider	11007
@@ -460,6 +491,7 @@ Theorizing About the Design of Information Infrastructures	5700
 Tier III Design	6419,612,285
 Triple Helix Curriculum Design	4528
 Tunisia. Designed	1213
+UDL Universal Design for Learners UNESCO United	13991
 UI Designers	6832
 UK Age-Appropriate Design Code	6029
 UK’s Age-Appropriate Design Code	7983
@@ -468,12 +500,14 @@ Under Design	13005
 Unified Platform for Business Services Designed	3907
 Universal Design	12356,621
 Universal Design CRC	13033
+Universal Design for Learners	13991
 Update the Design	11869
 Uptime Institute Tier III Design Certification	1956
 Uptime Institute Tier III Design and Construction	5793
 User Experience Design VCT Voluntary Counselling	396
 User Experience and User Interface Design	11216
 Utility Models and Industrial Designs	7845
+Utilized the Designation	14024
 VIII. Benefits of Designation Designation	5773
 Visual Communication Design	6832
 WEST AFRICA DATA CENTER MARKETS Design	10861

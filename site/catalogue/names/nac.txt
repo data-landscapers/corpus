@@ -56,7 +56,7 @@ Archivo Nacional	10438
 Arquivo Nacional de Identificação	10750
 Arquivo Nacional de Identificação Civil	7466,1805
 Arquivo de Identificação Direcção Nacional	10750
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1,107,2743
 Assembleia Nacional Lei	539,10826
 Assembleia Nacional Popu	11518
 Assembleia Nacional Popular	11513,5,10,3,6,6,18,1,7
@@ -171,6 +171,7 @@ Centro Nacional de Cibersegurança. Em	11072
 Centro Nacional de Cibersegurança. Por	5272
 Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Dados	10754,628,7,180
+Centro Nacional de Documentação	14261
 Centro Nacional de Emisión de Documentos Oficiales	1382,2827
 Centro Nacional de Emisión de Documentos Oficiales. Created	1382
 Centro Nacional de Formação Administrativa	11516
@@ -305,7 +306,8 @@ Consejo Nacional	1701,2508
 Consejo Nacional Fiscalía Defensor	4209
 Consejo Nacional de Aguas	1701
 Consejo Nacional de Desarrollo Sostenible	1701
-Consejo Nacional de Estadística	10487
+Consejo Nacional de Estadística	10487,3728
+Consejo Nacional de Estadística. Con	14215
 Consejo Nacional de Medio Ambiente	1701
 Consejo Nacional de Planificación	1701
 Conselho Nacional	4736,6628,1,1405,53
@@ -342,6 +344,7 @@ Coordinador Nacional Grupo A Especialista Grupo	4209
 Costa Rica Yes Estrategia Nacional de Banda	11529
 Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 Criminal Direcção Nacional	10750
+Cuentas Nacionales de Salud	14181
 Cámaras de Comercio Múltiples Nacional	4209
 Célula Apoyo Ordenador Nacional FED	4209
 Células Sectoriales Comisión Nacional de Coordinación	4209
@@ -445,6 +448,7 @@ Educação Nacional. Este	11523
 Efectivo da Polícia Nacional	11392
 Egipto A Estratégia Nacional de Inteligência Artificial	3519
 Ej. Consejo Nacional de Población	1701
+El Consejo Nacional de Estadística	14215
 El Instituto Nacional de Estadística de Guinea Ecuatorial	8048
 El Plan Nacional	1701
 Elaboração da Estratégia Nacional de IA	2816
@@ -478,6 +482,7 @@ Estado SNCPE Sistema Nacional da Contratação Pública	11390
 Estado. SUBSECÇÃO I Conselho Nacional de Segurança	6970
 Estrada Nacional Número	10083
 Estrategia Global Nacional	1701
+Estrategia Nacional de Desarrollo Estadístico	14215
 Estrategia Nacional de Desarrollo Sostenible	1701,2508,5093
 Estrategia Nacional de Desarrollo Sostenible IMPLEMENTACIÓN	1701
 Estrategia Nacional de Desarrollo Sostenible SISTEMAS	1701
@@ -556,6 +561,7 @@ Habitação Sistema Estatístico Nacional Sem Formação	10766
 Hassan Naciri	8391
 Hellen Nachilongo Dar	9589
 Hora A Assembleia Nacional	8308
+Huawei. Nació	14304
 IMPRENSA NACIONAL DA GUINÉ-BISSAU Avenida	11569
 IMPRENSA NACIONAL DE MOÇAMBIQUE	795,2071,2303,1801,5805,2,5,1,6,34
 INE Instituto Nacional de Estatísticas	10765,10
@@ -612,7 +618,7 @@ Instituto Nacional de Estadísticas de Guinea Ecuatorial	4209
 Instituto Nacional de Estatistca ID	9441
 Instituto Nacional de Estatistica ID	9441
 Instituto Nacional de Estatisticas de Mocambique	115
-Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47,532,614,18,43,20
+Instituto Nacional de Estatística	2816,1224,4,42,43,377,473,171,1469,372,675,215,330,490,622,1435,2,6,9,2,3,598,16,12,15,25,3,67,9,12,32,7,1,47,532,614,18,43,20,1461
 Instituto Nacional de Estatística INSS	10757
 Instituto Nacional de Estatística LBSEE	11387
 Instituto Nacional de Estatística Tiragem	10766
@@ -656,7 +662,7 @@ Instituto Nacional de Seguridad Social	4209,4163
 Instituto Nacional de TIC	12142
 Instituto Nacional de Tecnologia da Informação	11394,1416
 Instituto Nacional de Tecnologia de Informação	12294
-Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13
+Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,3103,1006,899,100,703,649,8,2,7,1,1,3,14,13,1343
 Instituto Nacional de Tecnologías	3029
 Instituto Nacional de Telecomunicações	13
 Institutos Nacionais de Estatística	8051
@@ -675,6 +681,7 @@ La Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,6002
 La Agencia Nacional de Investigación Financiera	1701
 Laboratório Nacional	10777
 Laboratório Nacional de Metrologia	11381
+Las Cuentas Nacionales de Salud	14181
 Legislação Nacional	11406
 Lei da Comissão Nacional de Eleições	11528,33
 Lei da Iniciativa Nacional de Inteligência Artificial	3519
@@ -749,12 +756,14 @@ NACOSTI Emerging	7548
 NACOSTI Establish	7548
 NACOSTI National Commission for Science	2775
 NACSA	6355
+NACVOT National Center for Vocational Training NBHE	13960
 NaCCA	7492
 Nac. UNESCO Director General Jefe	4209
 Nacala	3533,6228,1350,1037,912
 Nacala Corridor	12804
 Nacala Rail Corridor	13122
 Nacala-Lobito	6775
+Nacala-Porto	14197
 Nacanabo	2603,1780,1339
 Nacanabo. Au	1918
 Nachfrage	2219
@@ -925,7 +934,7 @@ Plan Nacional de Desarrollo Sanitario PNP	1701
 Plan Nacional de Desarrollo de Guinea Ecuatorial	9302
 Plan Nacional de Operacionalización	4209
 Plan Nacional de Telecomunicaciones	11529
-Planificación Nacional	1701,5140,1207,330,924,1059,126
+Planificación Nacional	1701,5140,1207,330,924,1059,126,3728
 Planificación Nacional. Durante	8378
 Plano Estratégico Nacional	7707
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
@@ -1008,6 +1017,7 @@ Programa Nacional de Alimentação Escolar	11482
 Programa Nacional de Avaliação da Conformidade	11381
 Programa Nacional de Control de Epizootias	4209
 Programa Nacional de Controlo	10188
+Programa Nacional de Formação de Agentes Locais	1770,12430
 Programa Nacional de Gestão Ambiental	11390
 Programa Nacional de Lucha	4209
 Programa Nacional de Lucha Contra	4209
@@ -1109,6 +1119,7 @@ Segunda Vice-Presidentes da Assembleia Nacional	11365
 Segundo Plan Nacional de Desenvolvimento Sanitario	11525
 Segundo Vice-Presidente da Assembleia Nacional	11365
 Seguridad Nacional	1701,2508,3839
+Según la Oficina Nacional	14181
 Selon Aboubakar Nacanabo	4550
 Semana Nacional	4209
 Semana Nacional da Estatística	4979
@@ -1127,7 +1138,7 @@ Serviço Nacional de Saúde. Serão	1265
 Serviço de Meteorologia Nacional Francês	11372
 Sistema Educativo Nacional	11557
 Sistema Educativo Nacional RGPH Recenseamento Geral	11557
-Sistema Estadístico Nacional	1701,2508
+Sistema Estadístico Nacional	1701,2508,10006
 Sistema Estatístico Nacional	4040,4,2381,194,4138,602,62,1,24,3,67,21,40,1193
 Sistema Estatístico Nacional. Artigo	12770
 Sistema Estatístico Nacional. O Departamento de Estatística	12788

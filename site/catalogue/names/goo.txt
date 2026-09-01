@@ -5,10 +5,10 @@ ADF-15 Regional Public Good	603
 AI and Robotics for Good Youth Challenge	7432
 AI for Good	2816,1712,1803,46,569,92,98,38,23,85,5230
 AI for Good Disponível	2816
-AI for Good Global Commission	5950,315,741,168,146,505,288,439
+AI for Good Global Commission	5950,315,741,168,146,505,288,439,5795
 AI for Good Global Commission. Ministers	7825
 AI for Good Global Commission. Rwanda's President	7309
-AI for Good Global Summit	7038,98,21,42,56,65,6,106,196,485,4733,1096
+AI for Good Global Summit	7038,98,21,42,56,65,6,106,196,485,4733,1096,432
 AI for Good Global Summit and Robotics for Good	7432
 AI for Good Lab	7432,2512,2902
 AI for Good Sandbox	6331,46,6453
@@ -23,6 +23,7 @@ AWS and Google	3375,3096,1315
 AWS and Google Cloud	5967
 AWS and Google Cloud. Azure	5967
 About Google Cloud	6930
+About the Good Financial Grant Practice	14225
 Access Google Distributed Cloud	4434
 Accra and Nairobi. Google Search and Ads	1363
 Act. Google	3307
@@ -121,6 +122,7 @@ CRVS System Commitment and Good	13005
 CTRs for Google	13461
 Cape of Good Hope	6593,3366
 Capital Goods	12509
+Capital Goods Finance Companies	13976
 Capital for Good	1476
 Capitec Connect Goodwill Bundles	11259
 Cash Transfers and Temptation Goods	10985,540
@@ -135,7 +137,9 @@ Client. Origin of Goods and Consulting Services	13037
 Cloud Google	6894
 Cloud Hero and Google Hustle Academy. Google	1590
 Coastal President Goodluck Jonathan	11886
+Code of Good Governance	13868
 Code of Good Practice	5533,6453,909
+Code of Good SOE Governance	13868
 Cohorts Google	674
 Common Good	5700,5306
 Common Good Economy	5700
@@ -145,7 +149,7 @@ Communications and Technology and Google Cloud EMEA Ltd	5799
 Comparison of Goodness-of-Fit Indices for Model	4432
 Compendium of Good Practices	10765,10,1552,10
 Connecting Businesses With Customers Google	1363
-Connectivity for Good	6593,1232,3031,147,1,13,947,421
+Connectivity for Good	6593,1232,3031,147,1,13,947,421,1708
 Constitutional Public Good RECOGNISING	3861
 Consumer Goods	5247
 Consumer Goods and Services	9815
@@ -153,6 +157,7 @@ Consumer Insights and Google	13462
 Contact Google Distributed Cloud	4434
 Continued Google	6593
 Contract Price of Goods	13185
+Contract for International Sales of Goods	13985
 Contract the Goods	13185
 Control of Goods	12535,94
 Control of Goods Act	8399,5004
@@ -234,6 +239,7 @@ Eligible Goods and Related Services	13185
 Embrace Good Governance	11131
 Emerald Insight and Google	9237
 Emerald Insight and Google Scholar	9237
+Enhancing Good Governance Through NRLAIS	13998
 Enugu Google Scholar Okafor	9739
 Environmental Goods	12389
 Equiano de Google	2812
@@ -267,6 +273,7 @@ GDC-submission R3D.pdf. Google Scholar Puukko	11028
 GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
 GDC-submission-BSM-Academy.pdf. Google Scholar Cammaerts	11028
 GDPR. Google	8436
+GOOBJOOG NEWS	14309
 GOOD DATA	2839
 GOOD ETHICS	2839
 GOOD GOVERNANCE MAKES GOOD NEIGHBOURS	2839
@@ -299,6 +306,7 @@ Goobo	3405
 Good AI	9622
 Good Agricultural Practices	12931
 Good Agricultural Practices For All	13314
+Good C2C	14330
 Good Clinical Practice	7845
 Good Countries	1264
 Good Digital Identity	10819
@@ -309,6 +317,7 @@ Good Faith	3502
 Good Faith. ICANN	3503
 Good Financial Gouvernance	6260
 Good Financial Governance Phase	1462
+Good Financial Grant Practice	14225
 Good First Issue	11922
 Good Friday Services	12977
 Good Governance	970,11994,206,304
@@ -328,7 +337,7 @@ Good Governance and Stability	11536
 Good Governance and Trust Compliance	13042
 Good Government	970
 Good Health and Well-Being	12964
-Good Health and Well-being	1131,2614,7031,2188
+Good Health and Well-being	1131,2614,7031,2188,1059
 Good Health and Well-being Goal	11332
 Good Hygiene Practice	13385
 Good ID	10819,3
@@ -341,7 +350,7 @@ Good Issue	11922
 Good Jobs for Angolan Youth	10768
 Good Manufacturing Practices	10776
 Good Meets	11252
-Good Morning	10210,1017,1891
+Good Morning	10210,1017,1891,1098
 Good Nature Agro	12376
 Good Nature Agro. Available	12376
 Good News for Small Businesses	13044
@@ -360,6 +369,8 @@ Good Practices For Ensuring Data Protection	11156
 Good Practices for Subsea Cables Policy	2677
 Good Projects	1264
 Good Regulatory Practices and Confidence Criteria	10776
+Good SOE	13868
+Good SOE Governance	13868
 Good SaaS	6432
 Good Shepherd High	12977
 Good Standing	8866,1509
@@ -385,9 +396,10 @@ Goodlife Pharmacy Kenya	145
 Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146,537,70,218
 Goods Agreement	13042
 Goods Dispatch Date	12360
+Goods Implementation Addis Ababa	14156
 Goods In Transit Importation Of Foreign	12454
 Goods Manufactured	13185
 Goods Manufactured Outside the Purchaser's Country	13185
@@ -417,7 +429,7 @@ Goodwell Investments and LUN Partners	606
 Goodwill	4102
 Goodwood Station Social Housing Project	11248
 Googe	13461
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46,310,85,397,60,10
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
@@ -618,8 +630,8 @@ Google Only	3798
 Google Opens Africa AI Lab for Startup	8698
 Google Pay	7596,1412,2111,2333
 Google Photos	11477
-Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491
-Google Play Store	7266,3804,1139,256,176,91,568
+Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491,1515
+Google Play Store	7266,3804,1139,256,176,91,568,752
 Google Play Store and Apple App Store	2885
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
@@ -746,13 +758,14 @@ Google and Bing	13461
 Google and Bing.450 Microsoft	13461
 Google and Equinix	3782
 Google and Facebook	2679,1103
+Google and Huawei	14391
 Google and Intel	4434
 Google and Intel Enable Real-time Manufacturing Operations	4434
 Google and Liquid C2. Beyond	5736
 Google and Meta	4676,605,931,20,284,6945
 Google and Meta Owe US Publishers	13461
 Google and Meta. Kepios	3918,1,1,8082,439
-Google and Microsoft	2517,4362,709,628,5245
+Google and Microsoft	2517,4362,709,628,5245,930
 Google and NVIDIA	6580
 Google and SubCom	4676
 Google and Walmart	6386
@@ -789,6 +802,7 @@ Google's Regional Director for Sub-Saharan Africa	13109
 Google's SERP	13461
 Google's Top Stories	13461
 Google's WAXAL	9944
+Google's X Moonshot Factory	14219
 Google-Cloud-powered Partner Experience Centre	5737
 Google-Extended	13461
 Google-Ipsos	6848
@@ -1028,7 +1042,7 @@ Public Good...................118	13461
 Public Goods	3391
 Public Goods Beyond	4848
 Public Goods and Public Choices	1161
-Public Service Management and Good Governance	3632
+Public Service Management and Good Governance	3632,10691
 Public Trust and Good Governance	12891
 Putting Google	1363
 Quadri Goodness	6235

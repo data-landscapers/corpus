@@ -84,7 +84,7 @@ Almajiri School	11857
 Along the Tana River Irrigation Scheme	9547
 Amendment of Charging Schedule	13351
 Amendment of Fifth Schedule	13351
-Amendment of Schedule	5687
+Amendment of Schedule	5687,8580
 Amendment of Schedules	12630
 Amendment of Third Schedule	13252
 Andela and Moringa Schools	12239
@@ -151,7 +151,7 @@ Assessment of Digital Readiness of Secondary Schools	11918
 Association for Computing Machinery. Crossref Google Scholar	8460
 Association of International Schools	7167
 Association. Proposed Schedule	1284
-Association. Schedule	3604
+Association. Schedule	3604,10391
 Association. Sections and Description Schedule	10829,2502
 Athens Book Google Scholar Collins J	9739
 Automatic Input Tax Schedule for Fiscal Tax	12509
@@ -349,6 +349,7 @@ DGENAF Collection Sub-indicator Schools	11905
 DIAMOND JUNIOR SCHOOL LIMITED Data Controller	7167
 DIAMOND JUNIOR SCHOOL LIMITED Data Processor	7167
 DLP. School	899
+DM Orotta School of Medicine and Dental Medicine	13960
 DPI. Scheme	3391
 DREAMS HILLS SCHOOL LIMITED Data Controller	7167
 DRPP Scheme Rulebook	9516
@@ -399,16 +400,20 @@ Ditladi Primary School and Mabele Primary School	12625
 Ditladi Primary Schools	12625
 Ditladi and Mabele Primary Schools' Digital Centres	12625
 Divundu Combined School A Divundu Combined	13046
+Domestic Payment Scheme	14032
+Domestic Payment Scheme EthioPay	14032
 Dominik Schiener	6344
 Don’t Automatic Scheduled Upon	1686
 Doubleday Anchor Books. Google Scholar Gran	8460
 Dr. Alpo Mauno Mbamba Secondary School	13046
 Dr. Leon Schreiber	2943
 Dr. Romanus Kampungu Secondary School AFM	13046
+Dr. Stefan Schneiderbauer and Dr. Giacomo Bertoldi	14162
 Drama School	12982
 Driving Schools	718
 Dyron Howell School Data Controller INST-582309ACAD9	7167
 Dyron Howell School Data Processor INST-582309ACAD9	7167
+E-Business School Tour	14174
 ECOWAS Trade Liberalisation Scheme Taskforce Mr	7452
 EDUCATION STATISTICAL YEARBOOK SCHOOL YEAR ENDED	12411
 EIGHTH SCHEDULE	7845
@@ -450,6 +455,7 @@ Enabling Environment ACCESSIBILITY OF SCHOOLS Public	11918
 Engagement Schedule	12990
 Engineering Management HJL ARUP AFRY Schneider	10861
 Enhance Availability of School Equipment	11918
+Enhance SchoolNet	13991
 Ensure Annual School Census	11860
 Entertainment Scheme TES Trusted Employer Scheme	5533
 Enugu Google Scholar Okafor	9739
@@ -559,6 +565,7 @@ GIGA Project School Connectivity Dashboard	899
 GTGirma Taye Aweke School of Public Health	12246
 Ganes Secondary School Origo Primary School	13046
 Gazette. SCHEDULE	12054
+General Conditions and Schedule	13995
 General. Schedule	13559
 Georgetown High School	11281
 Georgina Sturge and Tanja Schmidt	11525
@@ -711,6 +718,7 @@ Improve Accessibility of Schools	11918
 Improve School Planning	11695
 Improved Inclusive School Readiness	12175
 Improved Inclusive School Readiness Research	12175
+Improved School Readiness	13990
 Improvement of Secondary Schools Project	12962
 Improving School Administration. Tsai	11927
 Improving School Location Accuracy for Connectivity	13901
@@ -785,6 +793,7 @@ Kamaila Primary School-01	13598
 Kamaila Primary School-02	13598
 Kamiba Primary School	1867
 Kamwandi Primary School	13046
+Kanjedza Police Training School	14402
 Kanuni Haruwodi Primary School Nkurenkuru Health	13046
 Kapila Primary School-01	13598
 Kapila Primary School-02	13598
@@ -960,6 +969,7 @@ Mhubhe High School	3331
 Middle School	12199
 Middle School GER	12199
 Middle School Gap Widens Primary	12199
+Middle School Grades	13991
 Middle Schools	12199
 Millet Primary Schools	11857
 Million Corruption Scheme By Fanuel Chinowaita	8639
@@ -978,6 +988,7 @@ Misumbi Wamulume School Accounting OfficerR	13392
 Mkhomazi Bulk Water Supply Scheme Construction	11248
 Mkhwenyane Irrigation Scheme	12962
 Mkwichi and Bwaila Secondary School	12253
+MoE. Improved Inclusive Quality School Readiness	13990
 Modern School	1577
 Modernize Schools	3059
 Modified Taxation Scheme	9729
@@ -1042,13 +1053,15 @@ National Association of Proprietors of Private Schools	8588
 National Health Insurance Scheme	2714,854,2431,1696,3633,2019
 National Higher School of Artificial Intelligence	9703
 National Immunization Schedule	12623
+National Payment Scheme National Payment	14032
 National Pension Fund and Medical Aid Scheme	12327
 National Pension Scheme	6458,6506
 National Pension Scheme Authority	13465
 National Pensions Scheme Act No.7	1988
 National Pensions Scheme Authority	13510
+National Schedule	14067
 National School Internet Connectivity and Digital Learning	13571
-National School Nutrition Programme	11241
+National School Nutrition Programme	11241,2952
 National School of Administration	3604,7982,1726,2
 National School of Administration and Magistracy	10990
 National School of Government	2526,7576,1080,42
@@ -1108,6 +1121,7 @@ Operator Scheme	11986
 Operator Scheme UAMP User Asset Management	11218
 Oponganda Pre-primary School Oshatotwa Community Centre	13046
 Orlando West High School	9968
+Orotta School of Medicine and Dentistry	14120
 Out of School Children	13314
 Owo Smart Green School	6211
 Oyo School Pupils	2355,176,4,1,56,3,339,96,901,1006,1761,673
@@ -1122,7 +1136,7 @@ POM. Schedule	10829
 PR Activity Schedule Media Elements	8999
 PRIVATE SCHOOL Madam First Deputy Speaker	13387
 PROJECT IMPLEMENTATION SCHEDULE FOR BOARD APPROVAL	13731
-PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863
+PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863,2075
 PROSPECTUS SCHEDULE	3714
 PSK School Hall	13046
 PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
@@ -1153,6 +1167,7 @@ Presidential AI Scholarships	4528,7984
 Presidential Internet Scheme	3332,3975,6366
 Prevoc Schools	12975
 Price Schedule	13185
+Price Schedule Form Annex VI	14131
 Price Schedule Forms	13185
 Price Schedule. Question	7987
 Price Schedules	13185
@@ -1179,6 +1194,7 @@ Primary School Teacher Management Strategy and Guidelines	12175
 Primary Schools	11857,768,337,10,3
 Primary Schools Health Facilities	11857
 Primary and Junior School Enrolment	2775
+Primary and Middle Schools	13991
 Primary and Secondary Schools	11956,1006,160,270
 Principal of Shimbode Primary School	13102
 Principles of Data Protection Schedule	11956
@@ -1364,7 +1380,7 @@ Schalkwyk	1243
 Scharpf	7451
 Schauer	7451
 Schaumburg	9237
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,31,23,9,119,41,1,16,6,32,17,5,4,23,14,1,6,43,45,144,5,7,3,8,4,1,123,2,11,25,2,12,37,67,17,92,13,28,13,51,67,14,12,2,61,47,150
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9,297,11,9,79,9,11,10,7,2,52,7,91,75,33,49,31,23,9,119,41,1,16,6,32,17,5,4,23,14,1,6,43,45,144,5,7,3,8,4,1,123,2,11,25,2,12,37,67,17,92,13,28,13,51,67,14,12,2,61,47,150,239,362
 Schedule A. CSP	11995
 Schedule A. Temporary	11995
 Schedule AGREEMENT BETWEEN THE GOVERNMENT	13326
@@ -1390,6 +1406,7 @@ Schedule Risk	12448
 Schedule System	7988
 Schedule Video Conference	11877
 Schedule for Internal Sensitisation and Training	11956
+Schedule of Charges	14327
 Schedule of Frequency Usage	736
 Schedule of Requirements	13185
 Schedule of Requirements B. FUNCTIONAL	13185
@@ -1420,7 +1437,7 @@ Schedule. Meaning	3714
 Schedule. Repeal	12047
 Schedule. SANKWASA J. SANKWASA MINISTER	13189
 Schedule. Short	11551
-Scheduled	3554,50,257,581,5944,866,34,1530,264
+Scheduled	3554,50,257,581,5944,866,34,1530,264,1320
 Schedules	1209,2374,131,32,1941,1920,238,3334,5,25,60,687,39,535,1,99,13,257,285,114,12,60
 Schedules PART	3714
 Schedules. Made	1877
@@ -1505,7 +1522,7 @@ Scholars	2096,422,2158,1465,1010,870,415,693
 Scholars Journal of Engineering and Technology	7759
 Scholars Nick Couldry and Ulises Mejias	6001
 Scholarship	12962
-Scholarship Programme	7548
+Scholarship Programme	7548,6450
 Scholarship Recovery Project	12922
 Scholarship and TVET	3898
 Scholarships	12356,616
@@ -1517,7 +1534,7 @@ Schonwetter	1243
 Schoo	11180
 SchooiPhases	11180
 SchooiSpecialisation Indicates	11180
-School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254
+School	899,915,53,80,41,268,410,1726,317,586,586,330,993,467,920,190,233,1299,335,100,108,113,8,157,48,89,586,3,24,1,10,10,13,88,153,1,15,24,6,17,107,22,4,28,28,20,56,83,380,25,2,63,6,241,23,4,18,57,10,19,263,254,56
 School A Matutura New Primary School	13046
 School About Message	12407
 School Accounting Regulations and Procedures	12975
@@ -1545,6 +1562,7 @@ School Committees	12975
 School Connect Program	7721
 School Connection	5802
 School Connectivity Across	13935
+School Connectivity Initiative	1572,12823
 School Connectivity Initiative for Sub-Saharan Africa	403
 School Connectivity Landscape Analysis	5851
 School Coordinators	13477
@@ -1594,6 +1612,7 @@ School Management Team	11927
 School Management Teams	11927
 School Management. South African Journal of Education	11927
 School Meals	12964
+School Network	13991
 School Never	12431
 School Nutrition	12411
 School Of Public Service and Governance Dept	10123
@@ -1652,13 +1671,13 @@ School-level Barriers	899
 School-linked	13681
 School-to-Work	11271,310
 SchoolAp	11918
-SchoolNet	5871
+SchoolNet	5871,8120
 SchoolNet Namibia	12325
 SchoolNet Programme	899
 SchoolPay	11773,1100
 SchoolPay Uganda	12873
 Schooling	11916,24
-Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213
+Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112,616,3,45,11,2,6,3,248,5,16,3,15,39,76,16,66,15,315,65,108,36,25,83,72,138,19,133,54,207,7,213,55,35,107,99
 Schools Central	11857
 Schools Complementing Routine Civil Registration Systems	13681
 Schools Connectivity Programme	12702
@@ -1748,12 +1767,12 @@ Second Schedule. Realisation of Property Freezing	587
 Second Schedule. Retention	587
 Second Schedule. Withdrawal	587
 Second and Third Schedules	1223
-Secondary School	9014,2843,596,892
+Secondary School	9014,2843,596,892,646
 Secondary School Data Challenge	5137
 Secondary School Habitat Centre AFM Parish	13046
 Secondary School Teachers Using the Dig Comp	1154
 Secondary School Teachers Using the DigComp Tool	1554
-Secondary Schools	2775,736,8346,82,736,300,417
+Secondary Schools	2775,736,8346,82,736,300,417,599
 Secondary Schools Rightsizing Exercise	12975
 Secondary Schools and Teacher Training Colleges	13122
 Secretary-General. United Nations. Google Scholar UN	11028
@@ -1761,9 +1780,10 @@ Section I.A of Schedule	13756
 Section I.A.1 Schedule	6539
 Section I.A.5 of Schedule	10829
 Section I.B of Schedule	1867
+Section I.B.1 of Schedule	13995
 Section I.C Schedule	6539
 Section I.F of Schedule	10964
-Section III of Schedule	1914
+Section III of Schedule	1914,12081
 Section III.A of Schedule	2474
 Sections and Description Schedule	10829
 Security Testing Schedule Test Type Frequenc	11952
@@ -1776,6 +1796,7 @@ Senior Secondary Schools	12552
 Service Federal Housing Authority School Secondary	11129
 Seventh Schedule	585,7260,1021
 Seventh Schedule. Regulation	1988
+Shemelako Primary School	13999
 Siaya Schools	7394
 Sidloko and Enhlanhleni Methodist Primary Schools	12962
 Sifundzani High School	12996
@@ -1868,10 +1889,12 @@ THIRD SCHEDULE	2709,5136
 THIRD SCHEDULE Oath of Secrecy	587
 THIRD SCHEDULE-Prescribed	12410
 TKL’s KRTS and KCCT Communications Engineering Schools	6946
+TVET and School-to-Work Transition	14251
 Table A of Schedule	3714
 Table B of Schedule	3714
 Table C of Schedule	3714
 Table Schema8	1187
+Talent Development School	14010
 Tallinn Summer School of Cyber Diplomacy	1446
 Tanja Schmidt	10985
 Tanzania School	10732

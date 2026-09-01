@@ -37,7 +37,7 @@ Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
 Deviation	10870,365,751,1199
 Deviations	9855,1142,2188
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850
 Device Affordability	8111
 Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
@@ -152,6 +152,7 @@ POSTPAID DEVICE	11262
 Payment Access Devices	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 Percentage Deviation	11259
+Pharmaceuticals and Medical Devices Management and Services	14033
 Power Device External	34
 Public Debt Consumption Deviation	1828
 RFP. Deviations	12681
@@ -167,6 +168,7 @@ Smart Device Devices	11857
 Smart Devices	3862
 Smart Smart Devices	11857
 Smart Wearable Device for Women’s Menstrual Cycle	2816
+Supply of Pharmaceuticals and Medical Devices	14033
 Surge Protection Device	9123
 Surge Protection Device NFPA	9123
 Surge Protective Devices	9123

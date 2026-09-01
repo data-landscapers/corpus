@@ -5,7 +5,7 @@ A. PRODUITS D	13390
 A8me international d	1984
 A9gie Nationale de D	10815
 ANEXO D	11406,50
-ANNEX D	3861,3337
+ANNEX D	3861,3337,6767
 ANNEXE D PERSONNEL DE L’ENQUÊTE DÉMOGRAPHIQUE	13300
 ANNEXURE D	5533,6453
 APPENDIX D	11857
@@ -19,12 +19,15 @@ Aimable Annexe D	13300
 Alan D. Guidance	12413
 Alfred D Jaftha	12478
 Anne Linn Tom Fish Annexe D	13300
-Annex D	3861,3337,3516
+Annex D	3861,3337,3516,3296
+Annex D. ECE	13990
 Annex D. Estimation Method	10714
+Annex D. Just	14010
 Annexe D	13300,394
 Annexe D AGENTS DE DENOMBREMENT ET	13300
 Annexe D NDUWAYEZU Esperance NSENGIYUMVA J	13300
 Annexe D NSABIMANA Odette SHUGUGU Richard	13300
+Annexes D	14010
 Annexure D	11240,746,1434
 Annexure D Annexure D	11986
 Annexure D Health Annexure D	11986
@@ -128,6 +131,7 @@ D CODE APPROPRIÉ U ET SIGNEZ	13300
 D Change Management XUA Cross-Enterprise User	1009
 D Clustering Figure8	8606
 D Combien	13300
+D Committee	14011
 D Coordinador Regional Grupo D Delegado	4209
 D D CIT and VAT	12500
 D D D P4-12-2	12500
@@ -170,6 +174,7 @@ D Explanation	5533
 D F- Satellite	582
 D FILLE	13300
 D GOUVERNEMENT	13300
+D GovTech Maturity Index Low GovTech	13984
 D Gqibela	11285
 D H Cadastro	11527
 D Handheld D Vehicle Mounted Others	736
@@ -185,8 +190,10 @@ D IT Electronic Eleventh Design Research	182
 D Imininingwane	11573
 D Information Modeling	8604
 D Initiative	13461
+D J I B O U	13868
 D Jurisdiction	972
 D Line	11405
+D Low	13984
 D Lupungela Acting Deputy Director-General	11261
 D MEDICAL CENTRE LIMITED Data Controller	7167
 D MENTIONNÉ. AGENT DE SANTÉ COMMUNAUTAIRE	13300
@@ -226,6 +233,7 @@ D Spam Any	972
 D TABAC	13300
 D THE GOVERNMENT	4049,252,1051
 D TRADITIONNELLE	13300
+D Technologies	14190
 D Term	11177
 D The GTMI	10785
 D The MOR	12500
@@ -293,7 +301,7 @@ D. Correctional Services Act	12939
 D. Cross-Border Data Transfers Requirement	13381
 D. Current	13040
 D. DATA REPORTING	11860
-D. DEVELOPMENT PARTNERS COORDINATION	11863
+D. DEVELOPMENT PARTNERS COORDINATION	11863,2075
 D. Deadline	13039
 D. Deuff	5349
 D. Development Partners Coordination D.1	11863
@@ -317,6 +325,7 @@ D. Ex-Servicemen	12977
 D. Exposure	7886
 D. F	2816,1860,3929,5019
 D. Fahland	9237
+D. Family	14031
 D. Filing of Tax Declarations	12500
 D. Fintech Trust and Safety Charter	4848
 D. Fostering	11140
@@ -377,9 +386,9 @@ D. M	2816,8338
 D. M. F	8605
 D. MINISTERE DE LA SANTELe Conseil	7670
 D. MOBILIERS ET EQUIPEMENTS	13478
-D. MONITORING AND EVALUATION	11863
+D. MONITORING AND EVALUATION	11863,2075
 D. Mavridis	11140
-D. Monitoring and Evaluation	11863
+D. Monitoring and Evaluation	11863,2075
 D. Multiphase Programmatic Approach	3604,2935,4878
 D. Mumby	5349
 D. N	7886,5738
@@ -397,7 +406,7 @@ D. Ossouna	1828
 D. P	13532
 D. P. Gaonkar	11050
 D. P. I	5700
-D. PROJECT COST AND FINANCING ARRANGEMENTS	11863
+D. PROJECT COST AND FINANCING ARRANGEMENTS	11863,2075
 D. Pajank	1828
 D. Pandey	6948
 D. Partenariat	8556
@@ -409,6 +418,7 @@ D. Prady	1828
 D. Preliminary Description Activities	13523
 D. Prihardini	11140
 D. Procurement	11525,440
+D. Project Cost and Financing Arrangements	13938
 D. Project Cost and Financing Arrangements Financing	11863
 D. Project Description	1704,1752,7507
 D. Project Description Investment Project Financing	761
@@ -439,9 +449,11 @@ D. STATUS ON THE IMPLEMENTATION	12597
 D. Section VI Due Diligence	11233
 D. Soares	2093
 D. South Africa	11233
+D. Structural Reforms	13868
 D. Submission of Applications	1638
 D. Sustainability	10829,2466
 D. Sustentabilidade	11451
+D. THE RIGHT	14073
 D. Tax Expenditures	10997
 D. Tax Policy Complexity	13624
 D. The Last Mile	11857
@@ -469,6 +481,7 @@ Dd D Q A Mm S	163
 Department DDiplomatic Mission D Public Company	736
 Disability D- Glo I A-	582
 Display Início Orgânica D G	6530
+Djibouti. D. Development Partners Coordination	13938
 Dr. C. G. D. N. Chiwenga	1554
 Dr. D. Mboweni	4263
 Dr. ERNEST NSABIMANA D G	718
@@ -489,6 +502,7 @@ E- Surfline B- Yes Desktop D-	582
 E. D	12333
 E. D. Mnangagwa PREFACE	13391
 E. D. Mnangagwa PRESIDENT	13320
+ETSwitch. D. Implementation Progress Component	14010
 EU CSP D C S	9123
 EU CSP D S	9123
 EU D C S	9123
@@ -512,6 +526,7 @@ F. D. Davis	5349
 Figure D	12062
 Friend D- Glo D	582
 G A B C D	236
+G D P Baseline Multiplier	13868
 G D P Public	11248
 G D P R	8436
 G D P R Article	8436
@@ -584,6 +599,7 @@ Jefe Sección Grupo D	4209
 Jefe Servicio Grupo D	4209
 Jefe ServicioGrupo D	4209
 Jefe de Servicio Grupo D	4209
+John D. Salus	14394
 Kaseje D	1219
 Kemilson D	2315,129
 Kouyaté Mohamed D	5816
@@ -641,6 +657,7 @@ Mexico. D. Role of Ministries	11525
 Michael D. Francois and Chris George	2677
 Minda D	12379
 ModDate D	1685
+Monetary and Financial Sector Policies 13 D. Structural	13868
 Monitoring and Evaluation D. DPMO’s Strategic Plan	12977
 Mont D. Making	12231
 Morris D Wonder Boy	7182
@@ -687,6 +704,7 @@ Part D Search	11181
 Part D Tax	11181
 Pearce D	12231
 Ph. D	10
+Phillip D. Kargbo	14226
 Policía Judicial Grupo D	4209
 Policía Judicial Grupo D Servicio	4209
 Practice D. Artificial Intelligence	11138
@@ -704,6 +722,7 @@ Project. D. Results Chain	11855
 QHP D UHSDUWLomR GH GLUHLWRV	11527
 QLWLYDPHQWH D LQWHJUDomR	11530
 R E D I T	13068
+R I C A N D	13938
 R. D	5349,2537,719
 R. D. S	11265
 RDGE Laté D. LAWSON ZANKLI	13885
@@ -777,6 +796,7 @@ Veuf N D	13442
 Victorien D. Kougblénou	2354
 Volet D	12043
 Vu le Décret D	234
+WB. D. Next Steps and Timeline for Future	14010
 WLQDGRV D VHU UHSRYRDGRV SDUD	11527
 World Bank’s D	13527
 Writer D. Kenya Olkaria	6935

@@ -49,9 +49,9 @@ IDs and CRVS	13005
 IDs and Class M	12227
 IDs and KRA PINs	12227
 IDs and Passports	6196,59
-IDs and SIM	12297
+IDs and SIM	12297,1893
 IDs for IDPs. NITDA	2725
-IDs for KYC	12297
+IDs for KYC	12297,1641
 IDs for SIM	4439
 IDs of Kenyan	12227
 IDs' QR	10890
@@ -75,6 +75,8 @@ IDs. NIDA	12328
 IDs. NRB Principal Secretary Patrick Machika	7041
 IDs. Nag	8250
 IDs. Note	10714
+IDs. Organizing	13991
+IDs. Procedure	14045
 IDs. Refugees	11994
 IDs. Services	10765,10
 IDs. Such	6512

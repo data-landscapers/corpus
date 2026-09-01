@@ -37,6 +37,7 @@ Action National Pour	10963,1
 Affaires Coutumières Shabani Lukoo Pour	5123
 Afrique. POUR LA REPUBLIQUE DU BURUNDI	13433
 Afrique. Pour	4029,2545,2944
+Agadez. Pour	14243
 Agence Nationale Pour	10821
 Agence. LA TRANSPARENCE POUR UN SECTEUR	10975
 Agence. Pour	13652
@@ -50,6 +51,7 @@ Anip. Pour Judicaël Gbaguidi	7355
 Annexe E SELECTION D’UN ENFANT POUR	13300
 Annexe E TABLEAU POUR SÉLECTIONNER	13300
 Assembleia Nacional Poupolar	11528
+Association Concert Ahomey. Pour	14163
 Assurance Maladie Généralisée. Pour	13717
 Autre Q49. Pour	13390
 Axione Gabon. Pour Bissa Bi Mbele	9418
@@ -66,7 +68,7 @@ Boucle du Mouhoun. Pour	737
 Branche Effectif Pourcentage	10875
 Branche Effectif Pourcentage Moyenn Effectif	10875
 Branches Effectif Pourcentage Activités	10875
-British Pound	12962
+British Pound	12962,1427
 Bujumbura Pourcentage	13300
 Burkina Faso Pour	10860
 Burkina Faso. Pour	8721,2154
@@ -270,6 +272,7 @@ Hommes Pourcentage	13300
 I. Poursuite	5928
 IA. Pour	2387
 IA. Pourquoi	7715
+IGF. Pour	14171
 II.3 Valeurs Pour	13341
 IIC Pour	11139
 III.2.12 SYSTÈMES DE GESTION PHARMACEUTIQUE Pour	13306
@@ -311,7 +314,8 @@ Illimi Niger Pour	6578
 Immatriculation. Pour	13620
 Indicateur Pourcentage Effectif Allaitement	13300
 Information Foncière. Pour	13375
-Internet. Pour	5069,4864,727,2871
+Internet Pour	14306
+Internet. Pour	5069,4864,727,2871,832
 Internet. Pourquoi	7830
 Introduction Pour	13375
 Intérieur Pour	743
@@ -371,6 +375,7 @@ Malienne Maïmouna Dicko. Pour la DG	11652
 Mapé. LA TRANSPARENCE POUR UN SECTEUR	10975
 Marc André Loko. Pour	7392
 Marché DAAFRH LA TRANSPARENCE POUR UN	10975
+Maroc Pour	14187
 Maurice Mavoungou. Pour	1299
 Maurice. Pour	13274
 Mme Mariama Ciré Sylla. Pour	7901
@@ -510,6 +515,7 @@ Pour Abdoul Karim Bangoura	7730
 Pour Abdoulaye Bio Tchané	11603
 Pour Aboudou	7113
 Pour Abuja	10808
+Pour Adiapko Seyram	14163
 Pour Afreximbank	7186
 Pour Africaguinee.com Créé	13264
 Pour Ahmed Bacar	13802
@@ -522,6 +528,7 @@ Pour Amadou Konia Camara	9542
 Pour Aminata Kane	8140
 Pour André A. Todjè	6217
 Pour André Wameso	10163
+Pour Aristide Bulakali	14172
 Pour Augustin Kibassa	8902
 Pour Avinash Meetoo	5712
 Pour Awa Gueye	8098
@@ -585,6 +592,7 @@ Pour Kankindi	13530
 Pour Karamoko Ibrahim	8953
 Pour Kiné Diagne Ndoye	11814
 Pour Kouka Gansonré	8634
+Pour Kra Emile Kouakou	14248
 Pour Lakoun Ouattara	4814
 Pour Laurence Ndong	12111
 Pour Libreville	11014
@@ -595,9 +603,11 @@ Pour M. Cissé	11745
 Pour M. Diouf	7858
 Pour M. Guy Adoua	7374
 Pour M. Ndikumana	6605
+Pour M. Nicolas NDAYISHIMIYE	14244
 Pour M. Roger Bini	10432
+Pour M. Samuel Nouetagni	14244
 Pour M. Traoré	6701
-Pour Madagascar	3559
+Pour Madagascar	3559,10782
 Pour Mahamoudou Sana	3592
 Pour Maixent Bekangba	6116
 Pour Marc Alexandre Doumba	5120
@@ -659,7 +669,7 @@ Pour la CDHC	9512
 Pour la CEDEAO	9975
 Pour la Ceni	8233
 Pour la Commission	9512,324,139,319
-Pour la Côte	2911,465
+Pour la Côte	2911,465,10943
 Pour la Directrice	9325
 Pour la Directrice du Pôle Budget	8196
 Pour la GIZ	3821
@@ -673,8 +683,8 @@ Pour la République du Niger	1967
 Pour la Tunisie	7032,2049,931,193
 Pour la ZLECAf	7658
 Pour le Burkina Faso	1967,1979,5901
-Pour le Burundi	9614,3761,67,34
-Pour le Bénin	3577
+Pour le Burundi	9614,3761,67,34,768
+Pour le Bénin	3577,10783
 Pour le CARE	9497
 Pour le CNT	6959
 Pour le Cameroun	6555,3489,921,10

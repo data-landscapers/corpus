@@ -68,6 +68,7 @@ Administration Numérique Faire du Numérique	1247
 Adolescent Health and Nutrition SARA Service Availability	10829
 Adressage Numérique National	9033,547
 Adressage Numérique National. Kept	9580
+Adult Health Nursing	14120
 Advisory Number	1818
 AfriNIC and Number Resources	11552
 African Plant Nutrition Institute Data Controller	7167
@@ -176,7 +177,7 @@ Budget Document Number	13122
 Burundi. Nul	13303
 Business Number	10964
 Business Partner Number	13333
-Business Registration Number	13333
+Business Registration Number	13333,1029
 Business Registration Service Number	12302
 C1- Number	7548
 C1- Number of Partner States	7548
@@ -233,6 +234,8 @@ Championne Numérique	4092
 Child Health And Nutrition	877
 Child Health Nursing	12972,4
 Child Health and Nutrition	12246
+Child Nutritional	14067
+Child and Adolescent Health and Nutrition	14033
 Child and Adolescent Health and Nutrition SDG Sustainable	11560
 Citizen Service Number	10775
 Civil Numérique	3588
@@ -268,6 +271,7 @@ Company. Number of Econet InfraCo	4896
 Complaints Phone Number	6946
 Completeness Number	12413
 Composante Numérisation	13635
+Comprehensive Nursing	14120
 Comput Inform Nurs CIN	12246
 Computação Em Nuvem Pode Ampliar	8827
 Compétences Numériques	1247
@@ -462,6 +466,7 @@ Enquête Nationale Sur La Situation Nutritionnelle	13325
 Entity Registration Number	6121
 Entry Number	12338
 Environment Nuisance	12253
+Eritrea Number	14049
 Ernest Nutsugah	8548
 Ernest Nutsugah Accra	8548
 Ernest Nutsugah. Edited	5932
@@ -495,6 +500,7 @@ Fear of Small Numbers	12227
 Female Number	10964
 Femme Numérique	5685
 Fernando Daniel Nunes	7381
+Fernando Nunes Correia	14312
 Festival Numérique	13658
 Filled Vacant Number	11986
 Finances NPI Numéro Personnel	10712
@@ -507,8 +513,10 @@ Fonds Numérique	13846
 Fonds. II. L'ECONOMIE NUMERIQUE AU CAMEROUN	2695
 Fongod Edwin Nuvaga	2534,2956,803
 Fongod Nuvaga	8167,332
-Food Security and Nutrition	970,11704,66,621
+Food Security and Nutrition	970,11704,66,621,947
 Food Security and Nutrition Ministry of Public Works	12701
+Food Security and Nutrition. The Ministry	14308
+Food System and Nutrition Proclamation	14122
 Food and Nutrition Act	13578
 Food and Nutrition Bulletin	12255
 Food and Nutrition Security	10768
@@ -627,6 +635,7 @@ Igoudar Numérique Dakhla	7904
 Immunization and Nutrition	4301
 Imports Nuclear	11953
 Imports Nuclear Day	11953
+Improved Foundational Literacy and Numeracy	13990
 Incident Reporting Number	6936
 Indicator Number	6671
 Indicator Number of PhD	1204
@@ -732,6 +741,8 @@ Life Number	12227
 Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
 List of Agents Number of Agents Name of Agents	12365
 Loan Number	1770,144
+Loan Number Date	14132
+Loan Number Net	14132
 Locality Number	12399
 Logical Channel Numbering	6946
 Lot Description of Goods Quantity Delivery Number	13185
@@ -779,6 +790,8 @@ Masque de Nuages Precipitation	13701
 Meeting Number	789
 Methodology Number	11905
 Minister. RESOLUTION NUMBER	12912
+Ministry of Education NUP	13956
+Ministry of Labour and Social Welfare NUEW	14031
 Ministry of Number	7548
 Ministry of Revenues Number	12500
 Ministère du Numérique	1270,687,494,404,1250,292,1944,555,3812
@@ -807,6 +820,8 @@ N. Nunn	10964
 NA IQP Number	6868
 NA Number	5533,6453
 NAWE NUZE	13442
+NBE Account Number	14145
+NBE Account Numbers	14145
 NCC Number	11857
 NDFS Nutanix Distributed File System NDMP	13185
 NDP. Nuclear	11272
@@ -844,6 +859,7 @@ NUCAP	6485,3901
 NUCLEAR AND RADIATION PROTECTION	718
 NUDOR	12333,128
 NUEVA YORK	4209
+NUEYS	14013,18,94
 NUIC. Artigo	12775
 NUIT Pessoas Singulares	12861
 NUIT. Interligado	12142
@@ -944,7 +960,7 @@ National Food and Nutrition Commission	13578
 National ID Number	1868,1137
 National ID Numbers	1868
 National Id Number	977
-National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348
+National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1,181,265,41,66,27,1,1,6,1276,348,495,186,32
 National Identification Number TIN	11861
 National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401,617,1167
 National Identification Numbers and Libyan	4531
@@ -960,11 +976,12 @@ National Payment Systems Act Number	12364
 National Pilot Enterprises Nursery	10980
 National Refugee Identification Numbers	2823
 National Register of Identification Numbers	10714
-National School Nutrition Programme	11241
+National School Nutrition Programme	11241,2952
 National Strategy for Food and Nutrition Security	10776
 National Strategy for Transformation NUC	12358
 National Street Addressing and House Numbering Programme	13227
 National Telecommunications Numbering Plan	11,725
+National Union of Eritrean Women NUEYS National	13990
 National Unique Identification Number	4788
 Nations UIN Unique Identification Number Figures	12327
 Natl Heal Stat Reports Number	12379
@@ -993,17 +1010,19 @@ NuRan	6834
 Nuance	6808
 Nuance PaperPort	34
 Nubia Capital	4690
+Nubia Capital-backed	14396
+Nubia Capital’s Davidson Oturu	14396
 Nubian	4443,7784
 Nubian Rights Forum	2024,7058
 Nubians	3597
-Nuclear	718,7662,3573,308
+Nuclear	718,7662,3573,308,1817
 Nuclear Coal	11953
 Nuclear Energy Regulation and Management	11272
 Nuclear Industrialisation Plan	11272
 Nuclear Magnetic Resonance	12949
 Nuclear Note	11953
 Nuclear Power Plants Authority	10081
-Nuclear Science and Technology	5755,1
+Nuclear Science and Technology	5755,1,8196
 Nuclear Weapon Search War	10
 Nuclear and Radiation Protection	718
 Nuclear and Radiological Weapons Acts Cap	3887
@@ -1037,7 +1056,7 @@ Nullifications	12944
 Nullity	12338
 Nulty	12090
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
-Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,329,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89,54,22,108,330,2,6,3,8,7,1,23,19,29,2,1,4,5,6,15,2,6,26,126,5,40,11,8,1,9,8,12,13,14,79,10,2,2,7,2,10,10,6,4,12,2,14,13,5,8,47,12,21,191,30,163,22,9,29,28,32,16,5,37,236,1,12,1,2,40,5,11,58,40,19,71,319,10
+Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,329,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89,54,22,108,330,2,6,3,8,7,1,23,19,29,2,1,4,5,6,15,2,6,26,126,5,40,11,8,1,9,8,12,13,14,79,10,2,2,7,2,10,10,6,4,12,2,14,13,5,8,47,12,21,191,30,163,22,9,29,28,32,16,5,37,236,1,12,1,2,40,5,11,58,40,19,71,319,10,18,32,21
 Number 1	11180
 Number Competitions AI	12356
 Number County Country	7167
@@ -1420,7 +1439,7 @@ Numerousstudiesreportapersistentgapbetweenthestrategicas-	8602
 Numida	2676,2296
 Numious Kiti	7990
 Numoro	7165
-Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50,53,42,24,48,15,10
+Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50,53,42,24,48,15,10,370
 Numérique Augustin Kibassa Maliba	2602
 Numérique Burkina Faso Smartphone SNC BOBO	9993
 Numérique Date	10519
@@ -1485,7 +1504,7 @@ Nurse-in-Charge Eigboche Bernice Ibrahim	4794
 NursePadi	8327,562
 Nursery	13287
 Nursery A- Hearing	582
-Nurses	1988,2179,93,710,255,127,3024,3280,256,113,947,4,184
+Nurses	1988,2179,93,710,255,127,3024,3280,256,113,947,4,184,1234
 Nurses Association of Lesotho	12661
 Nurses U.S. Mozambique Mozambique Year Government	4260
 Nurses Year	4202,147
@@ -1513,6 +1532,8 @@ Nurturing Care For Early Childhood Development	10768
 Nurturing Refugee Entrepreneurship	10841
 Nurturing Refugee Entrepreneurship Entrepreneurship	10841
 Nurudin Mithani	2300
+Nus-Zoba	13979
+Nus-Zobas	13979
 Nusantara Hasana Journal	8460
 Nuscid Et Dicitatem Et	12151
 Nutanix	10471,2714
@@ -1533,6 +1554,7 @@ Nutrición Muy	1701
 Nutrition	1828,1776,3709,956,1442,1057,61,588,52,56,35,813,40,121,357,73,12,324,174
 Nutrition Awareness	13474
 Nutrition Health	13474
+Nutrition Program	14033
 Nutrition Results	11469
 Nutrition SEA	11417
 Nutrition Security	10768,2706
@@ -1572,12 +1594,14 @@ ORDER ORDER IN NUMBERS NamRA	13044
 OUVERTURE SOLENNELLE DU FESTIVAL NUMÉRIQUE JUNETECH	13658
 Objectif Général Effets Composante Numérisation	13635
 Observations Number	10997
+Oct-2018. Number	13970
 Office Centrafricain du Numérique	969
 Official Use Only Nuisance	12253
 Official Use Only Number	6928
 Oncology Nursing	7759
 Operational Not Operational Number	3386
 Operational Nucleus	11863,28,18
+Ophthalmic Nursing	14120
 Optional Phone Number	12281
 Organizational Nucleus	11873
 OxhSavaFGLv7xN8Pjt NuAo&amp	5790
@@ -1661,7 +1685,7 @@ Project Number	12241,839
 Project Operations Manual Number	11855
 Project Title and Atlas Project Number	13095
 Projet Djibouti Fondement du Numérique	3795
-Projet de Gouvernance Numérique du Secteur Public	5139
+Projet de Gouvernance Numérique du Secteur Public	5139,9029
 Projet de Transformation Numérique	7976,1,4066
 Promotion of Nutrition-Sensitive Agriculture	13474
 Property Identification Numbers	11862
@@ -1727,6 +1751,7 @@ Resource Mobilisation Committee Total Number	1554
 Responsibility for Data Collection The MOH Number	11417
 Resultado Nulo	10757
 Review Report Number	10779
+Reçu Numérique	14302
 Risk Committee Total Number of Meetings	1554
 Roll-Out of ZILAS Number	12453
 Rural Electrification Rate Number	11923
@@ -1791,6 +1816,7 @@ Services Financiers Numériques FSVA Fournisseur de Services	11944
 Services Publics Numériques. La République de Djibouti	13882
 Sexe Numéro	13300
 Shafiishuna Nujoma The Ombudsman	13097
+Sierra Leone Nursing and Midwifery Council	14227
 Single Digital Identification Number	5539
 Single Identification Number	12218
 Single Tax Reference Number	11298
@@ -1857,6 +1883,7 @@ TANQR Pay Number	6453
 TAT NUTRITIONNEL DES ENFANTS	13300
 TAT NUTRITIONNEL DES FEMMES Au	13300
 TAX REFERENCE NUMBER	11298
+TAXPAYER IDENTIFICATION NUMBERS	13968
 TELEPHONE NUMBER	11218,22
 TELEVISION NUMERIQUE DENOMMEE TELEVISION	13324
 TERRAIN NUMÉRO	13300
@@ -1870,7 +1897,7 @@ Tanzania's Watumishi and Senegal's Numerique	13688
 Tape Number	11405
 Target Number	1228
 Targeted Nutrition Programme	12964
-Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176
+Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10,1247,235,173,1176,756
 Tax Identification Numbers	9570,3430
 Tax Payer Identification Number	22
 Tax Reference Number	11276,22
@@ -1880,7 +1907,7 @@ Tax Reference Number Request Dashboard and Authorisation	11298
 Tax Reference Number and Year of Assessment. Click	11276
 Tax Registration Number	10064
 Taxpayer Identification Identification Number for NIL NIL	6921
-Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78
+Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78,284
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbers	2744,9885,977
 Team Leader UIN Unique Identifier Numbers	13861
@@ -1928,6 +1955,7 @@ Télévision Numérique Terrestre	3224,10077,480
 UIN Unique Identification Number UNICEF United	13681
 UNAM. RESOLUTION NUMBER	12912
 UNDERUTILIZED LAND AND RESOLUTION NUMBER	12912
+USD Responsibility Number	13938
 USG Nurses Pharmacy Technicians G2Gsupported Frontline	4260
 Un Numéro	10813,2996
 Undertake ICT Number	12453
@@ -1972,6 +2000,7 @@ Usages Numériques	4930
 Use Of Accounts Number Of Mobile	1828
 Use the National Identity Number	11952
 Utilização de Recursos de Numeração	11430
+Uዝ-FAN Number	14055
 VAM NDVI NGO NRT NUPRP PMT	10763
 VAT REGISTRATION NUMBER OR VAT REGISTRATION	11240
 VAT Registration Number	12400
@@ -1990,11 +2019,13 @@ WASH SNFI Nutrition DTM Methodology	9772
 WFP Specialized Nutritious Foods	10841
 WHATSAPP NUMBER	11350
 WMC World Meteorological Centres NWP Numerical	11553
+Wakgari Nukus	14104
 Wind PV Nuclear Hydro Hybrid Gas	11236
 Women's Nutrition and Health Bill	2177
 World Bank's Projet de Gouvernance Numérique du Secteur	1684
 X PROVINCE Number of Number	2477
 X4 TOYOTA COROLLA IMMATRICULATIONS NUMERO	10821
+YAHAYA NUHU NADAA	14213
 Yandile Nuku	12587
 Year Coal Nuclear Diesel	11953
 Year Number	11395,833,39,146

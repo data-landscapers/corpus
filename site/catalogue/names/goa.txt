@@ -47,11 +47,13 @@ Development Goals Under	13842
 Digital Sovereignty and Tech Hub Goals Senegal	2627
 Digital Transformation Goals	2306
 Divisional Goals	13532
+EFA Goals	13960
 EMIS Sustainable Development Goal	13016
 Economic Development Goals	3861
 Education and Training Sustainable Development Goals	12946
 Equity SDGs Sustainable Development Goals SOE	11271
 Equity and Inclusion Goal	12210
+Ethiopia Goal	13991
 Ethiopia. Goal	952
 Financial Inclusion Goals	6362
 Food Bank The Goal for Zero Deaths	12448
@@ -82,7 +84,7 @@ Goal Thriller Independent	2885,1650,350,49,187,653,25,474,547,1,222
 Goal and Objectives. Section	12946
 Goal of Policy Reform	12675
 GoalBall	13442
-Goals	395,198,196,472,647,867,728,1411,764,395,4703,556,606,272,36,198,315,152,6,55,104,251,31,186
+Goals	395,198,196,472,647,867,728,1411,764,395,4703,556,606,272,36,198,315,152,6,55,104,251,31,186,412,102
 Goals Ongoing	6133
 Goals Quick	7204
 Goals SEACMEQ South and East African Consortium	12975
@@ -98,6 +100,9 @@ Good Health and Well-being Goal	11332
 Governance Goal	12210
 Government of Angola and Angolans. GoA	10765
 Government of Angola and Angolans. The GoA	10775
+Groups Sustainable Development Goal Small and Medium	13938
+Guide MDG Millennium Development Goals MLA	13960
+HSSDP III Goal	13982
 Hogares SDGs Sustainable Development Goals SISBEN	11133
 Hon. Natalia Goagoses	13044
 ICASA's Strategic Outcome-Oriented Goal	7980
@@ -118,6 +123,8 @@ KenSafeSpace Network Sets Goals and Builds	7609
 Key Goals	12035
 Key Strategic Goals	12975
 Land Goal	11332
+Learning Goal	13991
+Learning Policy Goal	13991
 Life Below Water Goal	11332
 MDGs Millennium Development Goals MFIS Ministry	11855
 MGDS III and UN’s Sustainable Development Goal	12917
@@ -125,7 +132,7 @@ MULTIDIMENSIONAL FOCUS ON IMPACTS DEVELOPMENT GOALS	10852
 Malawi’s National Goals	12917
 Mbps. Goal	10072
 Millenium Development Goals	5822
-Millennium Development Goals	10829,696,330,61,980
+Millennium Development Goals	10829,696,330,61,980,1060,4,5
 Millennium Development Goals NDCN	13033
 Monitoring and Evaluation MDG Millennium Development Goal	11525
 NCSS Vision and Strategic Goals	1000
@@ -137,12 +144,16 @@ National and International Goals	13005
 Nations Sustainable Development Goals	11964,431
 Objectives and Goals of Street Addressing	11129
 Official Use Only Overarching Goal	11469
+Overarching Goal and Theory of Changes	14000
 Policy Goal	7548,5416,11
 Policy Goal and Objectives	7548
+Policy Goals	13956
 Poverty Goal	11332
 Price and Specific Goals	11209
 Product GoA Government of Angola GRM Grievance	10768
 Project Goal	12168
+Promote EdTech Innovation and Encourage PPP Goal	13991
+Provide Digitally Inclusive Education for All Goal	13991
 Quality Assurance SDG Sustainable Development Goals	12917
 Quality Education Goal	11332
 RCZ Goat Project. The RCZ	1554
@@ -152,6 +163,7 @@ Refugee Affairs SDG Sustainable Developmental Goals	5533,6453
 Registration Agent SDG Sustainable Development Goal	12151
 Registration Our Goal	13477
 Related Sustainable Development Goals	8943
+Relevant Sustainable Development Goals	13999
 Responsible Consumption and Production Goal	11332
 Responsible Consumption and Production and Goal	12376
 SDG Goal	13624
@@ -166,6 +178,7 @@ SDGs Sustainable Development Goals SLAs Service	12240
 SDGs Sustainable Development Goals SME Small	7548,5414
 SDGs Sustainable Development Goals SRHD Social	970
 SDGs Sustainable Development Goals UIN Unique	12241,839,15
+SP Goals	14058
 SPECIFIC GOALS POINTS	11209
 Set Goals	12675
 Shaping Collective Goals	5700
@@ -174,6 +187,7 @@ Social Development Goals	940,10917
 Sovereignty and Tech Hub Goals	2627
 Specific Goals	11209
 Specific Goals¹	11209
+Staff Goal	13991
 States SDGs Sustainable Development Goals SIDS	13042
 Strategic Focus Area Business Objectives and Goals	11231
 Strategic Goal	1000,3301,9058
@@ -181,6 +195,7 @@ Strategic Goals	1000,2487,9872
 Strategic Goals Objective	1000
 Strategic Goals and Pillars	12917
 Strategic Goals and Strategic Objectives Strategic Goal	13359
+Strategic Plan Goal Expenses	14058
 Strategic Plan and Goals	13051
 Strategy Paper SDG Sustainable Development Goals	11863
 Sustainable Cities and Communities Goal	11332
@@ -190,7 +205,7 @@ Sustainable Development Goal No	13363
 Sustainable Development Goal No.16	13123
 Sustainable Development Goal SFP	12175
 Sustainable Development Goal Target	13148
-Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21,176,3,22,17,17,9,93,4,19,1,10,9,27,10,2,38,40,6,8,5,22,20,40,6,74,1,17,87,138,5,1,21,11,7,2,9,2,30,37,18,35,54,17,41,7,5,108,18,14,40,30,14,42,129,10,57,71,24,89
+Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1,269,5,80,16,19,21,176,3,22,17,17,9,93,4,19,1,10,9,27,10,2,38,40,6,8,5,22,20,40,6,74,1,17,87,138,5,1,21,11,7,2,9,2,30,37,18,35,54,17,41,7,5,108,18,14,40,30,14,42,129,10,57,71,24,89,100,35,21,2,99
 Sustainable Development Goals Goal	11332
 Sustainable Development Goals In the UN General	11193
 Sustainable Development Goals Perfonnance Fund	4349
@@ -217,13 +232,13 @@ Sustainable Developmental Goals	12494,816
 Talent Development Goal	12210
 UN Millennium Goals	12939
 UN Sustainable Development Goal	12959
-UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846,363,40,991
+UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846,363,40,991,767,73,157
 UN Sustainable Development Goals. Entities Joint	3583
 UN’s Sustainable Development Goals	12354
 Under Goal	10550
 United Nation's Sustainable Development Goals	940,11734
 United Nations Development Goals. Borsa Istanbul	12231
-United Nations Sustainable Development Goal	8147,889,3566
+United Nations Sustainable Development Goal	8147,889,3566,1538
 United Nations Sustainable Development Goals	582,358,21,235,1078,314,1538,1550,798,730,154,329,335,2569,231,155,27,898,54,400,57,526,141,311
 United Nations Sustainable Development Goals Guidance	1243
 United Nations Sustainable Development Goals. Africa	1196

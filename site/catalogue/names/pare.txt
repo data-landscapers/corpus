@@ -70,6 +70,7 @@ PARESI	2966
 PARESO	12201
 PARESSEUX	13300
 PFSS Projet Parent	13737
+PRC Pedagogic Resource Center PTSA Parent	13960
 Parece-nos	11930
 Parecer	10783,590
 Parecer Prévio da Agência de Protecção de Dados	11363
@@ -98,12 +99,12 @@ Parent-line	2132,2323
 ParentLearnerRelationship Describes	11180
 ParentZEEPinUSD PBC PBC	13392
 Parentage	12338
-Parental	899
+Parental	899,13192
 Parental Dialogue	6122
 Parental Empowerment and Engagement	899
 Parenting	2757
 Parenting URSB	2757
-Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381
+Parents	899,262,416,343,2468,1011,600,1474,1665,656,359,675,151,201,680,45,72,190,50,74,47,29,16,19,38,366,310,171,13,381,267
 Parents Paires	13442
 Parents and Caregivers	899,7151
 Parents and Caregivers Focus Group Discussion	899

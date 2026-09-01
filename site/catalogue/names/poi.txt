@@ -74,6 +74,7 @@ Clients du Point	13291
 Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
 Col NIBIZI Elias Point Focal TIC	13341
+Communications Focal Point	14146
 Community Access Points	12536,437
 Confusing Collection Points	9696
 Congo. Internet Exchange Points	10506
@@ -96,6 +97,7 @@ Demerit Points System	11774
 Deployment of Access Point Name	12241
 Digital Access Points Operators	10856
 Digital Economy Focal Points	11545
+Digital Penalty Points	14340
 ECOWAS National Focal Points	10508
 ESTABLISHING NATIONWIDE MONITORING POINTS	1000
 ET POIDS DE SONDAGE	13300
@@ -152,7 +154,7 @@ Information CAP Community Access Point CRAN	12973
 Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point KYC Know	13312,2
@@ -161,7 +163,7 @@ Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
 Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 Juste NKENGURUTSE Louis Point Focal TIC	13341
@@ -210,6 +212,7 @@ NCP Neighbourhood Care Point NDMA National	12970
 NIJIMBERE Samson Point Focal TIC Ministère	13341
 NTARABAGANYI Pierre Point Focal TIC Channel	13341
 National Accreditation Focal Point	13320
+National Enquiry Point	14225
 National Focal Points	12918
 National Key Points Act	5161
 National Signalling Point Codes	6946
@@ -264,7 +267,7 @@ Poids des MPME	11944
 Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point Calculation Rules For CPD	13381
@@ -286,10 +289,12 @@ Point Santé	8755,1856
 Point Zéro	10097
 Point de Présence	3402
 Point de Vue	9993
+Point of Care	14394
 Point of Common Coupling	11269
 Point of Contact	11190
 Point of Presence	2913,226,723
-Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302
+Point of Presence R&D	13956
+Point of Sale	1925,924,28,1848,1728,9,516,931,169,40,4064,1122,302,426
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
 Point of Sales	4630,50,637,6721
@@ -335,6 +340,7 @@ Poised	11469
 Poisons	9855
 Poisons Board	9855
 Poisons and Medicines Regulatory Authority	12253
+Poisson	14123
 Portant Cadre Réglementaire du Point D'échange Internet	13313
 Postal Facility Delivery Point	11129
 Postal Service Point Counter	12395
@@ -392,6 +398,7 @@ Single Point of Decision Making	12389
 Single Point of Payment	12389
 Speaker. OPENING NEW MARKETING POINTS	13387
 Staff Development and Learning Focal Point	10776
+Starting Point	14137
 Sticking Point	10360
 Surpoids Poids	13300
 Swaziland Launching of Internet Exchange Point	12904
@@ -406,7 +413,7 @@ Talking Points	5752,2359
 Tax Authority Access Point	8670
 Technology IXP Internet Exchange Point KBPS	12973
 Telecommunications Union IXP Internet Exchange Point	1264
-Tipping Point	1828,4584
+Tipping Point	1828,4584,7456
 Tipping Point BURUNDI EAC	13624
 Transit Point	4993
 Trust Breakdown Points	11138

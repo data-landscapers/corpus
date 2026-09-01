@@ -14,6 +14,8 @@ API Standards All APIs	11952
 API Standards Enact Consumer	12444
 AU EMIS Norms and Standards	13629
 Aaron Stanley	8764
+About Kenya Bureau of Standards	14225
+About the African Organisation for Standardisation	14225
 Access and Connectivity Standards	11995
 Access and Connectivity Standards Cloud	11995
 Accessibility Requirements Feature Requirement Standar	11952
@@ -43,7 +45,7 @@ Africa's Standing	10848
 Africa. Standard Bank	6870
 Africa. The Standard	8131
 African Export-Import Bank and South Africa’s Standard	10026
-African Organisation for Standardisation	10336
+African Organisation for Standardisation	10336,3889,48
 African Revenue Service SCRA Standing Committee	5533
 African Standards Organization	13494
 African Union EMIS Norms and Standards	13629
@@ -86,6 +88,7 @@ Bank's Standard Procurement Documents	13017
 Basel Standards	7535
 Baseline Standards	5369
 Baseline Standards for Automated Anti-Money Laundering	5369
+Basic and Standard	14219
 Bay Forex Bureau and Standard Chartered Bank	6946
 Benefits of Data Exchange Standards	12360
 Benefits of Data Security and Privacy Standards	12360
@@ -171,7 +174,7 @@ Common Reporting Standard	11233,743
 Common Standards	3861
 Communication Technology Standards and Guidelines	34
 Communications Technology Standards and Guidelines	34
-Community Standards	13461
+Community Standards	13461,931
 Comoros SOP Standard	13729
 Competition Universal Service Cyber Security Standards	6946
 Compliant Standards ISIS	34
@@ -210,6 +213,7 @@ DATA STEWARDSHIP NETWORK AND PROFESSIONAL STANDARDS	3861
 DATA SUBJECT'S STANDARD NOTICE TO ADDRESS	11956
 DEPLOYMENT AND OPERATIONS STANDARDS	11952
 DETERMINATION ON STANDARDS FOR FEES	12447
+DEVELOPING STANDARDIZED DATA	14004
 DHL Express Sub-Saharan Africa Standard Bank	9720
 DIGITAL PUBLIC SERVICES STANDARD TABLE	11216
 DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS Standard	9855
@@ -237,6 +241,7 @@ Data Security Controls and Standards	11956
 Data Security Standard	434
 Data Standardization	13037,14
 Data Standards	11940
+Data Standards Initiatives Djibouti	13868
 Data Standards and Methods	400
 Data Stewardship Network and Professional Standards	3861
 Data Subject's Standard Notice	11956
@@ -286,6 +291,7 @@ EQUIPMENT SPECIFICATIONS STANDARDS AND GUIDELINES	34
 EQUIPMENT SPECIFICATIONS STANDARDS AND GUIDELINES Guidelines	34
 ESS Environmental and Social Standards EU European	11560
 ESWASA Information Centre and Standards Sales Office	13221
+Early Learning Development Standards	13990
 Econet Life Stands Fund Land Stand	4896
 Education Standards and Quality Assurance Council	899
 Education Standards and Quality Assurance and Inclusion	899
@@ -317,6 +323,8 @@ Environmental and Social Standards Relevance E. Relevant	13523
 Environmental and Social Standards Relevance Given	10829,135,2367,1
 Environmental and Social Standards Triggered	12253
 Era. Standard Bank Group	6875
+Eritrean Standards	13949
+Eritrean Standards Institution	13949
 Establish Audit Standards	12675
 Establish Security Standard	1000
 Establish Security Standard Time Bound Measurable	1000
@@ -331,6 +339,7 @@ Eswatini National Standards Notice	12930
 Eswatini Standard Bank of South Africa Limited	12252
 Eswatini Standards Authority	12894,75,103,149
 Eswatini's National Addressing Standards	13222
+Ethiopia's Standard Treatment Guidelines	14094
 European Telecommunications Standards Institute	10819,2130
 European Union-funded Global Gateway ICT Standards	7985
 Evolving Global Standards for Sustainable Trade Finance	10718
@@ -362,6 +371,8 @@ G Standalone	2528,15,3822,6030
 G20 Minimum Standards	2626
 GB Google One Standard	11324
 GCSPs. Standardized	6432
+GFGP Standard	14225
+GFGP Standards	14225
 GOVERNANCE AND COMPLIANCE STANDARDS	11952
 GOVERNMENT ICT SPECIFICATIONS STANDARDS	2779
 GS1 Standards	10631
@@ -370,7 +381,7 @@ Ghana Living Standard Survey	236
 Ghana Living Standard Surveys	236
 Ghana Living Standards Survey	236
 Ghana Standard	4126
-Ghana Standards Authority	6936,3695,401
+Ghana Standards Authority	6936,3695,401,3184
 Global Digital Standards	8610
 Global Governance and Standard-Setting	4528,7984
 Global Industry Classification Standard Classifications	4972
@@ -378,7 +389,7 @@ Global Internal Audit Standards	11134
 Global Internal Auditing Standards	11131
 Global Partnership for Human-Centric ICT Standardization	10336
 Global Partnerships for Human-Centric ICT Standardisation	1068
-Global Standards	4153,1922,4556,1725
+Global Standards	4153,1922,4556,1725,1748
 Global Standards Alignment	12675
 Global Standards and Frameworks Annexure D	11952
 Global Standards and Frameworks C.1 Security Frameworks	11952
@@ -426,6 +437,7 @@ HPT DELIVERY AND LOGISTICS MANAGEMENT Standard	9855
 HUMAN RESOURCE INFORMATION SYSTEM STANDARDS	34
 Harmonized Standard Maximum	5676
 Harvard and Stanford	415
+Head of Standards	14225
 Health Care Standards	12606
 Health Documents PWP Minimum Interoperability Standard	1009
 Health Level Seven International Standards for Care	12143
@@ -455,6 +467,7 @@ ICT Standards	12917
 ICT Standards Technical Task Team	13308
 ICT Standards Technical Task Team Creation	13308
 ICT Standards and Guidelines	13662
+IEAG SUPPORTS THE GSA STANDARDISATION POLICY	14216
 IEC International Organization for Standardization	10765,10
 IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
@@ -514,7 +527,8 @@ International Financial Reporting Standards	1154,400,1497,1101,744,2949,3286,3,8
 International Financial Reporting Standards INE	11955
 International Financial Standards	1554
 International Human Rights Standards	2958
-International Organisation for Standardisation	961,11403,531
+International Labour Standards	14039
+International Organisation for Standardisation	961,11403,531,1378
 International Organisation for Standardization	13320
 International Organization for Standardization	3604,257,4212,3061,1230,670,323,277
 International Organization for Standardizations	13452
@@ -533,7 +547,7 @@ International Standard ISO	13068
 International Standard Industrial Classification	236,10916,1293,592
 International Standard Industrial Classification LFS	12445
 International Standardization Organisation	13468
-International Standards	236,663,2152,553,1292,1536,514,3847,36,571,125,1012,505,11,255,23,89,285
+International Standards	236,663,2152,553,1292,1536,514,3847,36,571,125,1012,505,11,255,23,89,285,371
 International Standards Certificates	6432
 International Standards Certificates. All	6432
 International Standards Internationally	12217
@@ -562,7 +576,7 @@ Joseph Lukhelo District Education Standard Officer	13392
 Julia Stanyard	4127
 KCB and Stanbic Bank	11994
 Kanvoli Stanislas	3449,2506
-Kenya Bureau of Standards	7548,1216,1549,1836,61
+Kenya Bureau of Standards	7548,1216,1549,1836,61,2015,48
 Kenya National Bureau of Standards	12210
 Kenya Quick Response Code Standard	11994
 Kenya Standard Industrial	2775
@@ -570,6 +584,7 @@ Kenya Standard. Importers	12256
 Kenya Standards	12256
 Kenya Verbal Autopsy Standards	10822
 Kenya and EU Strengthen Digital Standards Partnership	7985
+Kenya. The GFGP Standard	14225
 Kilos Standard Mètres Cubes- KSM3	7263
 LABORATORY INFORMATION MANAGEMENT SYSTEM STANDARDS	34
 LEGAL AND PROCEDURAL STANDARDS IN INSOLVENCY	12389
@@ -580,6 +595,7 @@ LPG Cylinder Installation Standards	12998
 Lady Stanely	4896
 Laptops Standards and Guidelines The ICT Unit	34
 Lauds Nigeria’s National Innovation Hub Standard	11304
+Learning Development Standards EMIS Education Management	13990
 Learning MBS Malawi Bureau of Standards MOU	13042
 Legal Interoperability. The Standard	13308
 Legal Standing	3861
@@ -591,11 +607,13 @@ Level Seven HIS Health Normative Standards	1009
 Leveraging Standard Bank’s African	10459
 Liberia Standards Authority LISGIS	5244
 Living Standards	13332
-Living Standards Measurement Study	1219,10353,9,2223
+Living Standards Measurement Study	1219,10353,9,2223,321
+Living Standards Measurement Survey	14125
 Local Standards and Policies Annexure	11952
 Local Standards and Policies D.1 Nigerian Government	11952
 Locus Standi	1919
 M Stany Ngendakumana	13427
+MACRA’s Stand	14190
 MALAWI BUREAU OF STANDARDS MDAs	12253
 MANDATORY IMPLEMENTATION STANDARDS	3861
 MARKS AND LICENCES Standards	12894
@@ -656,6 +674,7 @@ Ministry of Health Standards for Post Abortion Care	13040
 Ministry. The ICT Standards and Guidelines	34
 Modernization Through International Standards The Zimbabwe	12499
 Modified Cash Standard	5533,5685
+Monetary Policy Stance. FSI	13868
 Morgan Stanley	3405
 Mutoko EWZL Owned Vacant Shop Stand	4896
 NAMING CONVENTIONS STANDARDS AND GUIDELINES	34
@@ -715,6 +734,7 @@ National Stand-In Processing Service	6697
 National Standardisation Strategy and Plan	13034
 National Standardised Price List	13685
 National Standards Bureau	1000
+National Standards Council	14273
 National Treasury and Parliament’s Standing Committee	7096
 National and International Cybersecurity Standards	1000
 National and International Standards	13705
@@ -943,12 +963,14 @@ STANDARD FOR MAIL ADDRESSING	11129
 STANDARD Framework	6792
 STANDARD OPERATING PROCEDURES	12338
 STANDARD SETTING	11184
+STANDARDISATION DEVELOPMENT Eritrea	13962
 STANDARDS	3861,7408,2073,140
 STANDARDS ACT	11269,1626
 STANDARDS AND GUIDELINES	34
 STANDARDS AND QUALITY ACT	12894
 STANDARDS ARRANGEMENT OF SECTIONS SECTION	12526
 STANDARDS CERTIFICATION	11184
+STANDARDS Eritrea	13962
 STANDARDS Established	13068
 STANDARDS FRAMEWORK	13247
 STANDARDS MATTERS	11269
@@ -1008,10 +1030,11 @@ South Africa Standard Bank	498
 South Africa Standard Time	13576
 South Africa Standard Time Deadline	13576
 South Africa. Standard Bank	5806
-South African Bureau of Standards	396,10873,2001
+South African Bureau of Standards	396,10873,2001,955,132
 South African National Normative Standards	9969
 South African National Standards	11269
 South African Revenue Service SCRA Standing	11986
+South African Standard Time	14224
 South Sudan Minimum Standards for Education	3583
 Specifications and Standards	13185
 StanChart	6311
@@ -1060,20 +1083,22 @@ Stand da Mercury Beyond Connection Gaspar	7667
 Stand da UNITEL Nelson Malamba	11031
 Stand for Media Freedom	13030
 Stand- of Democratic Republic of Congo	11923
+Stand-By Apr	13868
 Stand-alone	11572,1330
 Stand-alone Mini	11572
 Standaardbedryfsprosedures	11190
 Standal K. Willingness	12379
 Standalone	582,5083,10,4000
 Standalone AI	5463
+Standalone Enterprise Architecture	13987
 Standalone Estratégia Nacional de Saúde Digital	7707
 Standalone National Digital Health Strategic Plan	7707
 Standalone Systems	12195
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299,220,90,11,41,128,66,12,90,17,34,132,23,132,236,31,50,7,30,5,13,27,15,114,99,2,10,21,44,165,155,520,9,39,34
 Standard Articles	13299
 Standard Assessment and Evaluation	13392
-Standard Bank	378,604,421,26,6,1621,379,10,596,12,120,288,363,260,163,286,58,215,1064,5,464,160,259,268,425,304,838,109,18,176,130,163,265,5,213,134,369,811,255,50,70,619,73,27,15,27,1,133
+Standard Bank	378,604,421,26,6,1621,379,10,596,12,120,288,363,260,163,286,58,215,1064,5,464,160,259,268,425,304,838,109,18,176,130,163,265,5,213,134,369,811,255,50,70,619,73,27,15,27,1,133,809
 Standard Bank ATMs	6996
 Standard Bank Africa Trade Barometer	6870,1156,2602
 Standard Bank Africa Trade Barometer Group	5247
@@ -1199,6 +1224,7 @@ Standard Technical Committee TC	10313
 Standard Technologies	7548
 Standard Terminology Relating	11269
 Standard Terms and Conditions Regulations	4732
+Standard The GFGP Standard	14225
 Standard This Standard	11180
 Standard Treatment Guidelines	9855
 Standard Twin Room	9031
@@ -1218,7 +1244,7 @@ Standard. Every Local Government Area	11129
 Standard. These ISO	6946
 StandardAI	4434
 StandardBank Eswatini	12361
-Standardisation	21,940,11403,941
+Standardisation	21,940,11403,941,968
 Standardisation and Business Leaders' Conference	13601
 Standardise	1161,7445,4068,636
 Standardise Testing Practices	11952
@@ -1239,7 +1265,7 @@ Standardization Marks	12900
 Standardization Sector	1264
 Standardization and Interoperability	5677
 Standardization and Legal Metrology Continuing	11906
-Standardize	2724,2953,5472,1210,1,39
+Standardize	2724,2953,5472,1210,1,39,1592
 Standardized	970,2891,399,2172,719,397,3171,44,373,721,499,310,376,343
 Standardized AI Number	7548
 Standardized Data Element Definitions	12360
@@ -1250,14 +1276,14 @@ Standardized Items	11129
 Standardized Levels of Assurance	10819
 Standardized Monitoring and Assess	10841
 Standardized Precipitation Evapotranspiration Index	12611,3
-Standardized Precipitation Index	12611,3
+Standardized Precipitation Index	12611,3,1544
 Standardized Reporting	12512
 Standardized SOPs	13005
 Standardized Temperature Condition Index	12614
 Standardized Templates	12356
 Standardized Toolkits	12053
 Standardizing	12255,104,618
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153,566,85,39,26,15,1,100,3,1,29,58,6,59,14,11,138,219,5,8,10,52,8,63,13,27,12,93,121,2,2,10,37,63,41,13,30,28,24,80,69,20,224,55,221
 Standards Act	1988,5560,3721,1257,369,508
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
@@ -1354,12 +1380,12 @@ Standing	749,496,375,1,7,482,11,358,1,474,382,395,130,52,872,2428,917,973,2127,3
 Standing About-Us	1246
 Standing Advisory Committee	11250
 Standing Cabinet Committee	10246
-Standing Committee	5533,4136,1508,41,12,55,4,999,37,1577
+Standing Committee	5533,4136,1508,41,12,55,4,999,37,1577,234
 Standing Committee for Refugee Affairs	11177
 Standing Committee of Senior Officials	9761
 Standing Disciplinary Committee	12500
 Standing Fintech Engagement Forum Establish	4848
-Standing Order	2367,2741,374,1762,8,3061,2425,10,371,7,261
+Standing Order	2367,2741,374,1762,8,3061,2425,10,371,7,261,953
 Standing Order No	3746,9002,639
 Standing Orders	5273,5040,843,2231,204
 Standing Rules and Orders	13420

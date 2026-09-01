@@ -82,6 +82,7 @@ ETC UTILISATEURS DE DONNEES D'ETAT CIVIL	3381
 EVOLUÇÃO DE UTILIZAÇÃO DE SMS	11531
 EVOLUÇÃO TRIMESTRAL DE N.º DE UTILIZADORES	11531
 EXPOSITION AUX MEDIAS ET UTILISATION	13300
+Earth Observation Data Utilization	14077
 Electric Utility Service Feeds Independent	9123
 Electricity and Utilities	13053
 Electromagnetic Field EUCL Energy Utility Corporation	718
@@ -90,7 +91,7 @@ Energy Utility Corporation Limited	12358
 Energy Utility Corporation Limited Ex	12358
 Energy and Public Utilities Ministry of Local	11332
 Energy and Utilities	9815,405
-Ethiopia Electric Utility	12195
+Ethiopia Electric Utility	12195,1861
 Ethiopian Electric Utility	8231,4002
 Expenditures Utilisation	13080
 Extended UTAUT Model	5349
@@ -191,6 +192,7 @@ POSSESSION ET UTILISATION DE COMPTES BANCAIRES	13300
 POSÉE PAS ACTUELLEMENT UTILISE ACTUELLEMENT	13300
 PRESTAÇÃO E UTILIZAÇÃO DE SERVIÇOS	10755
 PROMOTE IDENTIFY LEVERAGE STRENGTHEN UTILISE	13681
+PROMOTING UTILIZATION OF AI INFRASTRUCTURE	14004
 PROTECTION DES UTILISATEURS DE SERVICES	10836
 Parameter Design Detail Current Utilization	13185
 Pay Utility	8231
@@ -209,6 +211,7 @@ Public Utilities Regulatory Commission Act	11
 Public Utility and Regulatory Authority	4543
 QUEM DEVE UTILIZAR O MANUAL	11435
 QUOTA DE MERCADO DE UTILIZADORES ATIVOS	11531
+R3.2. Utilization	14020
 REACHES FULL UTILISATION Regional Office Buteko	13532
 RESILIENCE FACILITY REACHES FULL UTILISATION	13532
 RESOURCES AVAILABILITY AND UTILISATION	13310
@@ -264,7 +267,7 @@ UTC. Data	11553
 UTESP	13433
 UTESP Experts	13433
 UTESP Ministre	13433
-UTF-8	12,561,162,12,251,208,480,15,237,1,45,1177,146,902,639,770,805,3387,947,36,171,1,6,9,24,60,74,4,9,3,3,637,344
+UTF-8	12,561,162,12,251,208,480,15,237,1,45,1177,146,902,639,770,805,3387,947,36,171,1,6,9,24,60,74,4,9,3,3,637,344,2086
 UTF-8 Mandatory Standards Format	11952
 UTF-836	1984
 UTGAM	13770
@@ -319,10 +322,12 @@ Utambuzi	2868,4053
 Utande	1817
 Utangulizi	2868,3151
 Utapeli	2868,4382
+Utatuzi	14263
 Utawala	10556
 Utawala Bora	3085
 Ute Collier	11572
 Utekelezaji	2868,3151,5608
+Utendaji	14323
 Utengenezaji	6019
 Utentes	3899
 Uterine	10780
@@ -367,7 +372,7 @@ Utilisons-nous	747
 Utilisé	13375
 Utilisée	10286
 Utilit	9123
-Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6
+Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891
 Utilities Climate	970
 Utilities Insurance Financial Services Banks Information	4972
 Utilities Quality	13624
@@ -377,7 +382,7 @@ Utilities and Resources Leader	7751
 Utilities and Urban Communities	9414
 Utilities and What That Means	5124
 Utilities and Wildlife Court	7771,2792
-Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310
+Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386
 Utility Companies	12896
 Utility Index	13624
 Utility Model	12483
@@ -405,7 +410,7 @@ Utilizadores	5462,1157,4803,8,90,11
 Utilizadores de Internet	11569
 Utilizamos	9432,2133
 Utilizar	1701,2445,2316,4293,613,62,112,1232
-Utilization	1219,648,1924,1454,7645,48,39
+Utilization	1219,648,1924,1454,7645,48,39,971
 Utilization Gap	6051
 Utilization of CUCI	12978
 Utilization of CUCI Money	12978
@@ -433,6 +438,7 @@ Utilized Bandwidth	6946
 Utilized Bandwidth Capacity	6671
 Utilized Capacity	6671
 Utilized International Internet Bandwidth	6946
+Utilized the Designation	14024
 Utilizem	11430,1
 Utilizing	4528,1904,3420,1079,1425,156,151,693
 Utilizing AI	11265
@@ -453,7 +459,7 @@ Uttar Pradesh	3791,8455
 Uttar Pradesh and West Bengal	12979
 Utter	11975
 Utugegene	13300
-Utumishi	3085
+Utumishi	3085,11178
 Uturuki	2868
 VII. BUDGET UTILISATION FOR FINANCIAL YEAR	12598
 Water Utility	718,10061

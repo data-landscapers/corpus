@@ -19,6 +19,7 @@ AUTRES QUESTIONS PARTICULIERES Q	13390
 Abuja Nigeria Either Participant	4301
 Access Control Participants	12364
 Access and Firm's Participation	12389
+Accessible Digital Civic Participation for Blind Communities	14284
 Acordo de Partilha de Dados	12800
 Acordos de Partilha	11430
 Action XI.3.1 Participer	13306
@@ -128,7 +129,7 @@ Completelyx Partially	10812
 Conference of Parties	11011
 Conférence des Parties	8891
 Continuity Business Day Participant	12364
-Contracting Parties	13326
+Contracting Parties	13326,670
 Contributions and Participation	6951
 Coordination of Youth Parties and Politicians	10104
 Countering Strategic Litigation Against Public Participation	8485
@@ -172,6 +173,7 @@ E. Participation	8556
 E.2 Project Participation	11863
 ECSPs. Particularly	2117
 EMR. Participating	11585
+ENCOURAGING THE PRIVATE SECTOR TO PARTICIPATE	14004
 EQUALITY PARTICIPATION RULE OF LAW	10837,1503
 Eddy Symphorien Kparekouti du Parti	4539
 Either Participant	4167,35,15,43,41,48,1003
@@ -201,6 +203,7 @@ FINANCEMENT PARTICIPATIF	4567
 FOREIGN PORTFOLIO PARTICIPATION IN EQUITY TRADING	6408
 FOSS. Participants	8021
 FOURNITURES CAHIER DES CLAUSES TECHNIQUES PARTICULIERES	13524
+FSAP Participation A Financial Sector Stability	13868
 FUNDING I0.1The Participants	4153
 Facilitate Public Participation	12389
 Federal Ministry of Justice. Participants	7409
@@ -223,9 +226,10 @@ Full List of Participants	13392
 GCTs and Local Markets Participants	6947
 GDP. Participation	6938
 GIFT Principles of Public Participation	6463
+GIZ. Participants	14178
 GOVERNMENT DATA The State Parties	1243
 Gabon Minister of Economy and Participations	1575
-Gambia Participates	7650
+Gambia Participates	7650,6562
 Garantie Partielle de Portefeuille	7891
 Gauteng. Participants	9129
 Gender Income Age Labor Force Participation	1828
@@ -236,6 +240,7 @@ German Embassy. Participation	11897
 Gig and Career Support Participants	11347
 Global Service Participant	12517
 HMIS. Participants	1261
+High and First-Instance Courts. Particulars	13948
 Home Affairs The Parties	11185
 Homens...........................389 Participação	10777
 I- Participate	11586
@@ -316,6 +321,7 @@ Liberia Either Participant	4202
 Lilongwe. Participants	13080
 Limitations Participants	4439
 Linking Participation and Perception	2518
+Low Participation of Women and Vulnerable Groups	13998
 M Round Participant Google	1515
 MANUEL CHANG Third Parties	1829
 MDM and Partido Humanit	12201
@@ -378,6 +384,7 @@ PARTICIPANT EXTENDED NETWORK	11002
 PARTICIPANT FEEDBACK Participants	11138
 PARTICIPANTES E BANCO NACIONAL DE ANGOLA	10755
 PARTICIPANTES E UTILIZADORES	10755
+PARTICIPATE IN AI DEVELOPMENT AND BENEFIT	14004
 PARTICIPATE IN PAYMENT	12374
 PARTICIPATING IN THE JOURNEY	11940
 PARTICIPATION	10759,76,2,1,74,56,902,16,1,1,1,263,1,1,9,177,1,11,1,135
@@ -417,6 +424,7 @@ PARTIR DE N'IMPORTE QUEL ENDROIT AVEC	13300
 PARTIR DES QUESTIONS	13300
 PARTIR DU CARNET DE SANTÉ	13300
 PDC Participation Observing Member Sitemap	11493
+PDWG Participant	14240
 PERSONNES AYANT PARTICIPE DANS L'ENQUETE AU	13390
 PEUT LIRE SEULEMENT UNE PARTIE MONTREZ	13300
 PEUT SEULEMENT LIRE UNE PARTIE	13300
@@ -425,9 +433,11 @@ PILLAR IX INCENTIVIZE PRIVATE SECTOR PARTICIPATION	12399
 PILOT PARTICIPANTS Bank Windhoek Nampost Letshego	12477
 PISP. Participants	12269
 PO5. Participação	11379
+POLITICAL PARTIES REGISTRATION	13973
 PREMIERE PARTIE	10821,92
 PREMIÈRE PARTIE CONDITIONS GÉNÉRALES DE L'ÉQUILIBRE	13772
 PREMIÈRE PARTIE CONSIDÉRATIONS GÉNÉRALES SECTION	13828
+PRIVATE PARTICIPATION FRAMEWORKS	14022
 PRIVATE SECTOR PARTICIPATION	12563
 PRÉSENTATION DES PARTICIPANTS Je	13390
 PSPs. Participants	4848
@@ -448,7 +458,9 @@ Partial Credit Guarantee Fund	6754,1645,35
 Partial Credit Guarantee Fund FIRST Financial	13836
 Partial Credit Guarantee Point of Sale Real	12701
 Partial Disclosure	26
+Partial Least Square Structural Equation Modeling	14267
 Partial Least Squares	11107
+Partial Least Squares Structural Equation Modeling	14267
 Partial Partial	10861
 Partial Use Used	12214
 Partially	1988,1063,7761,58,1469,40,1006,7
@@ -518,7 +530,7 @@ Participant7explainedthat	8602
 Participante Directo	5169
 Participantes	10755
 Participantes São	5169
-Participants	991,270,3,99,191,224,46,114,2,403,92,233,570,128,177,61,164,110,212,58,5,14,35,15,5,24,14,12,29,48,90,53,85,76,70,15,110,15,99,40,170,126,29,25,4,64,11,78,74,159,208,2,12,76,16,57,4,231,5,129,52,154,145,70,33,10,2,15,295,20,20,1,130,28,51,11,90,82,18,40,12,62,123,44,31,22,31,3,53,5,14,1,126,6,17,12,30,2,8,25,37,14,29,16,27,33,48,12,11,5,102,57,29,151,10,47,27,97,120,56,65,178,62,19,13,19,20,50,113,41,17,88,93,6,123,24,93,7,8,120,46,20,1,41,30,8,25,95,65,25,11,11,78,21,62,4,80,45,7,103,44,21,8,19,14,231,12,44,24,54,107,3,5,100,98,27,29,9,120,4,13,2,2,10,1,4,6,17,1,17,41,15,21,15,5,24,53,5,18,6,97,88,2,19,37,8,17,60,10,8,40,86,15,1,12,11,4,19,18,6,1,3,10,33,34,15,3,10,97,4,3,157,47,3,8,36,8,39,30,62,38,103,110,11
+Participants	991,270,3,99,191,224,46,114,2,403,92,233,570,128,177,61,164,110,212,58,5,14,35,15,5,24,14,12,29,48,90,53,85,76,70,15,110,15,99,40,170,126,29,25,4,64,11,78,74,159,208,2,12,76,16,57,4,231,5,129,52,154,145,70,33,10,2,15,295,20,20,1,130,28,51,11,90,82,18,40,12,62,123,44,31,22,31,3,53,5,14,1,126,6,17,12,30,2,8,25,37,14,29,16,27,33,48,12,11,5,102,57,29,151,10,47,27,97,120,56,65,178,62,19,13,19,20,50,113,41,17,88,93,6,123,24,93,7,8,120,46,20,1,41,30,8,25,95,65,25,11,11,78,21,62,4,80,45,7,103,44,21,8,19,14,231,12,44,24,54,107,3,5,100,98,27,29,9,120,4,13,2,2,10,1,4,6,17,1,17,41,15,21,15,5,24,53,5,18,6,97,88,2,19,37,8,17,60,10,8,40,86,15,1,12,11,4,19,18,6,1,3,10,33,34,15,3,10,97,4,3,157,47,3,8,36,8,39,30,62,38,103,110,11,96,81,4,9,31,5,18,5,16,71,3,3,45,102
 Participants Agents	13689
 Participants Allowance	12253
 Participants Autorités	13689
@@ -572,7 +584,8 @@ Participaram	10751,26,707
 Participate	396,565,816,108,1976,265,722,828,1,476,279,1116,998,526,406,2108,10,258,3,82,262,155,33,64,222,287,333,25
 Participate All	1261
 Participated	10776,2186
-Participating	1131,130,3587,406,1228,91,219,756,2571,38,190,28,339,6,121,290,3,191,92,268,172,84,114,185,237,126
+Participates	14069
+Participating	1131,130,3587,406,1228,91,219,756,2571,38,190,28,339,6,121,290,3,191,92,268,172,84,114,185,237,126,1731
 Participating Countries	1914
 Participating Institutions	11134
 Participating Institutions Key Features One-stop	12215
@@ -581,11 +594,12 @@ Participating Jurisdiction Financial Institution	11233
 Participating Jurisdictions	11233
 Participating PSPs	12269
 Participating States	10864
-Participation	395,1,217,345,11,22,170,543,73,37,10,157,361,1014,358,718,131,409,377,201,127,78,708,37,1048,107,54,177,521,149,335,238,132,511,1,289,95,31,523,7,41,3,59,14,2,1,3,7,8,18,2,43,45,4,7,1,30,124,4,50,56,17,167,129,144,104,11,43,15,11,5,1,1,1,8,8,39,56,47,105,1,1,9,47,30,15,42,36,7,1,5,6,1,3,33,42,26,31,187,302,103,210,5,5,6,8,6,21,18,22,18,19,24,12,16,4
+Participation	395,1,217,345,11,22,170,543,73,37,10,157,361,1014,358,718,131,409,377,201,127,78,708,37,1048,107,54,177,521,149,335,238,132,511,1,289,95,31,523,7,41,3,59,14,2,1,3,7,8,18,2,43,45,4,7,1,30,124,4,50,56,17,167,129,144,104,11,43,15,11,5,1,1,1,8,8,39,56,47,105,1,1,9,47,30,15,42,36,7,1,5,6,1,3,33,42,26,31,187,302,103,210,5,5,6,8,6,21,18,22,18,19,24,12,16,4,524,80
 Participation Absence of Corruption	10759
 Participation Air Quality Political Power	10759
 Participation Application Form	12364,120
 Participation Business	10837,1052,263,11,177,1
+Participation Citoyenne	14289
 Participation Fee Required Payment	13621
 Participation Financière Publique	2342
 Participation Financière Publique Minoritaire	2342
@@ -619,7 +633,7 @@ Participation. But Are We Debating the Right	8091
 Participations	2342,9238,1721
 Participations Mr. Fernandes Silva Dojo	11579
 Participative	12214
-Participatory	1212,5300,639,162,235,242,96,136,3524,40,439,189,27,158,588,431,355
+Participatory	1212,5300,639,162,235,242,96,136,3524,40,439,189,27,158,588,431,355,218
 Participatory AI Research and Practice Symposium	7038
 Participatory Approaches	12356
 Participatory Consultations and Synthesis	13005
@@ -628,7 +642,7 @@ Participatory Governance	7313,3446,76,2,1,130,317,585,16,1,1,1,264,1,9,177,1,11,
 Participatory Governance Participatory	7313
 Participatory Implementation Principle Implementation	7548
 Participatory Integrated Climate Services for Agriculture	4172
-Participatory M&E	12333
+Participatory M&E	12333,1658
 Participatory Monitoring	3861,7146
 Participatory Monitoring Stakeholder	3861
 Participatory Research for Low-Resourced Machine Translation	11140
@@ -649,14 +663,14 @@ Participer	3465,4512,2899,89,967,111,1247,11,113,305,62
 Particle	11269
 Particle Physics SCOAP	5246
 Partics	4154
-Particular	970,294,290,2050,610,1795,149,780,106,504,242,337,227,13,114,385,164,1147,587,199,1,305,200,67,369,498,575,27,326,251,194,16
+Particular	970,294,290,2050,610,1795,149,780,106,504,242,337,227,13,114,385,164,1147,587,199,1,305,200,67,369,498,575,27,326,251,194,16,280,297
 Particular Supplies	12630
 Particularattentionwasgiventomomentsofambiguity	8602
 Particulares	11388
 Particularité	3683
 Particularly	21,13,865,62,90,110,663,1234,1470,148,448,239,1585,640,1994,295,886,156,217,782,172,120,43,133,126,466
 Particularmente	2816,3453
-Particulars	3714,7462,375,675,667,5,61,81,31,240
+Particulars	3714,7462,375,675,667,5,61,81,31,240,637
 Particulars of Loss	13040
 Particulars of Records of Birth	12226
 Particulars of Records of Death	12226
@@ -697,7 +711,7 @@ Partie III Activités du CESE	8891
 Partie PAFEN	13555,12
 Partie Titre Nomenclature LFR	4420
 Partiellement	6959,3916,2593
-Parties	28,977,238,535,529,1276,177,212,77,105,93,13,42,2362,283,3087,231,446,2,441,31,25,79,912,59,104,14,11,11,251,278,102,6,151,102,11,11,2,12,117,19,211
+Parties	28,977,238,535,529,1276,177,212,77,105,93,13,42,2362,283,3087,231,446,2,441,31,25,79,912,59,104,14,11,11,251,278,102,6,151,102,11,11,2,12,117,19,211,323,79,60
 Parties Finalisent	10876
 Parties Government	12201
 Parties Involved	7198
@@ -706,6 +720,7 @@ Parties Self-Assessment Annual Reporting SPAR Systematic	11417
 Parties and Candidates	7266
 Parties' Fund VAS Visa Adjudication System	11986
 Parties. Ls Governing Law	3972
+Parties. The Parties	14135
 Parties’ Obligations Responsibilities	6432
 Partilha	2866,8582,7,6,440,241,633
 Partilha de Conhecimento	12777
@@ -742,9 +757,11 @@ Political Parties. The Political Party	1630
 Poor Tracking and Communication Mechanisms. . Participants	4439
 Practice Participants	11138
 Premier Ministre Café Statistique Participants	13689
+Prime Minister. Particulars	13948
 Prime Ministry. Participants	1688
 Princípio da Participação	11388
 Princípio de Partilha de Dados	12774
+Private Participation Frameworks	14022
 Private Sector Participation	2626,9773,1075
 Private Sector Participation ANEXOS Lista	11366
 Private Sector Participation Financial	12399
@@ -795,6 +812,7 @@ Responsibilities of Participants The Participants	12364
 Results Participants	12231
 Review of Users Participants	12364
 Revise Participants	4653
+Riparian Communities Participation Plan	13938
 Risk Management The Participants	12364
 Rule of Law PARTICIPATION	10837,1052,263,11,177,1
 Rule of Law Participation	10759,76,3,130,902,16,466,1,135
@@ -836,17 +854,18 @@ Service Providers Relying Parties Accountable Trusted	10819
 Serviços Partilhados	11382
 Siavonga. Participants	7503
 Sistema de Participação	11406
+Sixteenth Conference of Parties	14007
 Slowing Improvement Participation	12341
 Somalia. Participants	5947
 South Africa. Participants	7278,743
 Specified Parties	12542
 Spectrum of Public Participation	11007
 Stakeholder Method Instances Total Participants Sub-county	899
-State Parties	1243,5796,2129,87,1221,717,1008,326,513
+State Parties	1243,5796,2129,87,1221,717,1008,326,513,1098
 State Parties Self-Assessment Annual Reporting	11417
 State Parties.66	1243
 State Parties12	1243
-States Parties	3583,7610,1840,7
+States Parties	3583,7610,1840,7,898
 Statuts Particuliers	13846
 Statuts Particuliers des Fonctionnaires	13937
 Statuts Particuliers des Fonctionnaires. Il	13937
@@ -868,10 +887,13 @@ TROISIEME PARTIE	10821,92,2611
 TSPs and Relying Parties	10819
 TVET Providers and Participation Around	13358
 Table Partially	12972
+Tanzania PoC. Participants	14282
+Target Participants	14090
 Taxa de Participação	10777
 Technical Participation AI	7548
 Technology Transfer and Local Participation Investment	10157
 Third Parties	3861,2571,5932
+Through Accessible Digital Civic Participation for Blind	14284
 TikTok Publisher Participating	13462
 Tl PREMIERE PARTIE	13524
 Transferring and Receiving Parties	12302
@@ -905,6 +927,7 @@ WOMEN’S PARTICIPATION IN THE DIGITAL	11257
 West Africa. Participants	10297,515
 Will the Participants	12343
 Women Public Perception of Female Leadership Participation	10837,1315,188
+Women and Social Affairs. Participating UN System	13999
 Workshop Participants Focus Areas Output Outcome	6946
 World Bank. Participants	3238
 World Trade Organization. Participants	9538

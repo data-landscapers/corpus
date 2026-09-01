@@ -55,6 +55,9 @@ EHRs. Middle-income	12025
 East Asia Europe Latin Middle South	10977
 East Asia and Europe and Latin America Middle	10977
 Eastern and Middle Africa	10714
+Elementary and Middle	13960
+Elementary and Middle Levels	13960
+Elementary and Middle Levels Currently	13960
 Empowered Upper Middle Income Society	13474
 Empowered Upper Middle- AI	12512
 Empowered Upper MiddleIncome Society	4528
@@ -72,6 +75,7 @@ Firms108 Lower Middle Income	12346
 Firms5Lower Middle Income	10976
 Following the Mid-Term Review	6928
 Founder and CEO of JATDEV Middle East	6653
+Global LIFE Mid	13960
 Governance Middle East And North Africa	13861
 Group's Middle East	10793
 Guiding Principles The MIDAS	12917
@@ -89,6 +93,7 @@ Hold Middle East Crisis Summit	3437,3942,47
 Honduras Middle EGDI M-OSI H-HcI M-TII	10840
 ICAO and INTERPOL. MIDAS	7048
 IFC-Orange Middle East and Africa	3984
+INFORMATIONAL ANNEX Prepared By The Middle	13868
 IRM Midterm Status Summary	11866
 IRM Midterm Status Summary Action Plan	11873
 International Monetary Fund MENA Middle East	11271
@@ -132,6 +137,8 @@ MID AA Implementation	11248
 MID EAST	13910,6,1,3
 MID-TERM	13885
 MID-TERM BREAK FOR SCHOOLS STARTS	13252
+MID-TERM OUTCOMES Increased	13938
+MID-TERM REVIEW of Cooperation	13957
 MID-YEAR BUDGET PERFORMANCE	13055
 MID-YEAR BUDGET REVIEW REFORMS	13122
 MID-YEAR BUDGET REVIEW STATEMENT Presented	13055
@@ -166,7 +173,7 @@ Mid East	13897
 Mid Project Reflections 2018.pdf	226
 Mid Term	11133
 Mid Term Expenditure Framework	13332
-Mid Term Review	4653
+Mid Term Review	4653,9304
 Mid Year	13122
 Mid Year Budget Implementation Review	5655
 Mid Year Public Debt Report	483
@@ -183,12 +190,13 @@ Mid-Term Review Date	12980
 Mid-Term Review Mission	2989,9206
 Mid-Term Review No	13742
 Mid-Term Review Project Development Objective Project	4653
+Mid-Term Review of Cooperation	13957
 Mid-Term Strategy Refresh	4528,7984
 Mid-Tier Stability	6051
 Mid-Year	13055,67
 Mid-Year Assessment Report of Parliament	11230
 Mid-Year Budget	13122
-Mid-Year Budget Review	7739,1,5382
+Mid-Year Budget Review	7739,1,5382,1094
 Mid-Year Budget Review Statement	13055,67
 Mid-Year Budget Statement	4932,8190
 Mid-Year Budget Statement. Real GDP	13122
@@ -198,8 +206,9 @@ Mid-Year Global Update Report	9857
 Mid-Year ICT Market Report	13479
 Mid-Year Reports	11251
 Mid-Year Revenue Performance Discover	13044
-Mid-Year Review	6463,1277
+Mid-Year Review	6463,1277,6472
 Mid-Year Review Media Breakfast	12375
+Mid-Year Review and Year-End Report	14212
 Mid-Year Strategic Plan Review Workshop	1554
 Mid-Year and Annual Economic Reports	13479
 Mid-Year. Specifically	13122
@@ -238,7 +247,7 @@ Midday RSG Geldsake SAfm Market Update	7343
 Middelburg	11986
 Middelburg Ms G Sekhu	11986
 Middelburg Nkangala	11986
-Middle	2709,2335,2107,580,1398,1732,268,440,9,316,92,213
+Middle	2709,2335,2107,580,1398,1732,268,440,9,316,92,213,1792
 Middle Africa	2504,1,1413,1,6921,630
 Middle Darfur	1851
 Middle E- Physical	582
@@ -252,12 +261,12 @@ Middle EGDI M1	10840
 Middle EGDI M2	10840
 Middle EGDI M3	10840
 Middle EGDI MH	10840
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110,44,34,10,181,50,279
 Middle East Conflict	11285
 Middle East Europe	11922
 Middle East Peace Process	11185
 Middle East War	11134,2551
-Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266,350,188,209,72,378
+Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266,350,188,209,72,378,2210,26
 Middle East and Africa. Singapore	10342
 Middle East and Africa. Under	10342
 Middle East and Asia	3342,6919
@@ -266,9 +275,11 @@ Middle East and Central Asia	2775,4171,4194
 Middle East and Europe	6270,624,6957,32,38
 Middle East and Europe. Mohamed Assoweh Bouh	2679
 Middle East and Europe. Neighboring Port Sudan	13921
+Middle East and Gulf	14039
 Middle East and India	5138
 Middle East and Indian Ocean. Partner2Connect	1634
 Middle East and Latin America	1843
+Middle East and Latin America. Masiyiwa	14219
 Middle East and Latin America. Orange	4721
 Middle East and North Africa	2172,2152,1274,1447,471,68,2014,192,35,1,1151,27,28,103,5,9,251,467
 Middle East and North Africa Qatar Jordan	11135
@@ -314,6 +325,7 @@ Middle Powers Digital Antitrust Efforts	5044
 Middle School	12199
 Middle School GER	12199
 Middle School Gap Widens Primary	12199
+Middle School Grades	13991
 Middle Schools	12199
 Middle Shabelle	11136
 Middle and Back Office	8018
@@ -346,11 +358,12 @@ Midlands State University and Chinhoyi University of Science	520
 Midline	11924
 Midline and MCDSS	13332
 Midnight	11240,19
-Midrand	1404,556,3201,441,1887,526,1181,2295
+Midrand	1404,556,3201,441,1887,526,1181,2295,2913
 Midrand Heights Social Housing Project	11248
 Midrand MIDRAND	8015
 Midrand NCR	11198
 Midrand PART	11198
+Midrift Human Rights Network	14299
 Midstream and Downstream	12256
 Midterm	11857,1225
 Midterm Evaluation	13082
@@ -363,7 +376,7 @@ Midwife	3791,8592
 Midwife Director	977
 Midwife Technicians	13166
 Midwife Vacancies	13166
-Midwifery	12972,4,102
+Midwifery	12972,4,102,1042
 Midwifery. This Masters	12972
 Midwives	10828
 Midwives Year	4202
@@ -404,10 +417,13 @@ PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 Paymentology Enters the Middle East’s Digital Payments	7156
 People's Democratic Republic Middle EGDI M-OSI	10840
 Pioneer Consulting Middle East	1741
-Planned Mid-term Review	11863
+Planned Mid-term Review	11863,2075,142
 Policy Significance Statement Middle	7731
 Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
+Primary and Middle	13991
+Primary and Middle Education	13991
+Primary and Middle Schools	13991
 Principe Middle EGDI	10840
 Prosperous Middle Income Country	13346
 Prosperous Middle-Income Nation	13346
@@ -425,6 +441,7 @@ Second Middle Fourth Ritchest	11879
 Senior Sales Director for Middle East	11502
 Senior VP Africa and Middle East	1196
 Sep-2021 Effectiveness Mid-Term Review No	11395
+Sierra Leone Nursing and Midwifery Council	14227
 Small Medium Africa Middle	10976,1370
 Social Sustainability and Inclusion Middle East and North	13856
 Somalia’s Middle Shabelle	3637

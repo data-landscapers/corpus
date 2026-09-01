@@ -31,6 +31,7 @@ Civil Inspector General Servicios	4209
 Comissão Inspectiva	11452
 Commissioner Sam SHIVUTE Inspires	13044
 Coordenador da Comissão Inspectiva	11452
+Criteria for Designating Inspectors	14113
 Cuerpo de Inspectores	4209
 Cyber Inspectors	587
 Cybersecurity Inspection and Evaluation	7538
@@ -46,6 +47,7 @@ DOCUMENTS AVAILABLE FOR INSPECTION	4896
 DOCUMENTS AVAILABLE FOR INSPECTION Interest Interest	4896
 Deep Packet Inspection	9940,1145
 Departamento de Inspecção	167
+Deployment of Inspectors and Conducting Control	14113
 Deputy Inspector-General of Police	10049
 Destination Inspection	13053
 District Education Inspector	13310
@@ -160,7 +162,7 @@ Inspecteur des Finances	8269
 Inspecteur des Impôts	8269
 Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105,303,236,78,210,126,9,61,71,16,70,28,383,222
 Inspection EDO	12253
 Inspection Generale	8651,1473,3168
 Inspection Générale	557,8193,1374,1781,1537
@@ -179,6 +181,7 @@ Inspection and Supervision	9855
 Inspection des Services	8237
 Inspection des Services des Impôts	10978
 Inspection of Contractor	12253
+Inspection of Documents	13968
 Inspection of Ministry	12253
 Inspection of Schools	12975
 Inspection of Site Monthly	12253
@@ -190,7 +193,7 @@ Inspections and Audit	13185
 Inspections and Auditing The Consultant	13037
 Inspections and ISO	13320
 Inspections and Tests	13185
-Inspector	11452,1869,149
+Inspector	11452,1869,149,643
 Inspector General	4209,426,4667,2277,96,193,442,787
 Inspector General Adjunto	4209
 Inspector General Adjunto Servicio	4209
@@ -204,7 +207,7 @@ Inspector General de Peaje Inspector General Servicios	4209
 Inspector General de Servicio	4209
 Inspector General de Servicios Servicio	4209
 Inspector General of Police	4677,159,660,2975,611,2775,1031,693
-Inspector General of Police Douglas Kanja	3320,8990
+Inspector General of Police Douglas Kanja	3320,8990,1954
 Inspector Gral	4209
 Inspector Gral. de Servicio	4209
 Inspector Grupo	4209
@@ -224,7 +227,7 @@ Inspector de Servicios	4209
 Inspector de Servicios Servicio	4209
 Inspector-General	11464,1495,369
 Inspector-General of Intelligence	11277
-Inspector-General of Police	587,427,5773,4275,2341
+Inspector-General of Police	587,427,5773,4275,2341,813
 Inspector-General of Police. ANNEXURE B DEPUTY INFORMATION	13096
 Inspector-Geral da Administração	11452
 Inspectorate	5533,5685,62,706,611
@@ -289,6 +292,7 @@ MPs. The Inspector General	12310
 Metro Inspection Services	6683
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Monitoring and Compliance. The Inspection Department	14014
 Motor Vehicle Inspection	12333
 Motor Vehicle and Inspection Equipment	13320
 NIC. Inspired	10822
@@ -323,12 +327,14 @@ Planeamento da Actividade Inspectiva	11452
 Plano Estratégico da Inspecção-Geral da Administração	11452
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Postal and Courier Inspections	6946
+Pre-Shipment Inspection and Vehicle Age Verification	14216
 Primary Inspectorate Cadre	12975
 Primeira Infância IGE Inspeção-Geral da Educação INDE	11557
 Procedimento Inspectivo	11452
 Procedimentos Inspectivos	11452
 Procedures for Planning and Carrying Out Inspections	10776
 Processo de Inspecção	11452
+Professional Code of Ethics for Inspectors	14113
 Programa de Inspecciones	4209
 Provincial Inspector General Servicios Magistrado Audiencia	4209
 Provincial Ministerio Inspector Regional Ministerio Delegado	4209
@@ -365,6 +371,7 @@ Vehicle Inspection Department	8639,755,3
 Vehicle Inspection Department and Zimbabwe Borders	13673
 Vehicle Inspection Stations	13060
 WB Inspection Panel	13331
+Working Environment and Protocol of Inspectors	14113
 World Bank Inspection Panel	10829,135,561,330,1477
 XAF Inspector General Servicios Servicio	4209
 ZEMA Inspector	1988

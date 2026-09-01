@@ -48,6 +48,7 @@ Intensifier	13290
 Intensify	961,10170,1122,669
 Intensifying	11468,1
 Intensity	11884,773
+Intensity of Internet	14098
 Intensive	10768
 Intensive Care Unit	12976
 Intensive Care Units	12922
@@ -56,8 +57,9 @@ Intensive Margin of African Trade	10718
 Intensivierung	457
 Intensivo	2816
 Intent	7198,1456
-Intention	4896,453,2781,2270,540,1122,613,625
-Intentional	899,9168,2118,29
+Intention	4896,453,2781,2270,540,1122,613,625,924
+Intention Relative	14267
+Intentional	899,9168,2118,29,1810
 Intentional DPI Governance	5700
 Intentional Olaito	12038
 Intentionality	11131

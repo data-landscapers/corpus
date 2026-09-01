@@ -1,5 +1,6 @@
 A- Spouse A- Basic	582
 A. Bashir	11140
+A. Basic Information26 Project Title	13938
 A. Basic Information35 Project Title	11863
 A. Basic Project Data	12426
 A. Basic Project Data P175363 Adaptive	10963
@@ -30,6 +31,7 @@ Accountability and Basic Risk Evaluation	11956
 Accountable Governance for Basic Service Delivery	2112
 Accounting System BASA Banking Association of South	11261
 Activation and Baseline	10157
+Actual Baseline Baseline	13991
 Actualização da Base de Dados	5204,1
 Adjusted EBITDA Basis	9735
 Adult Basic Education Programme	12574
@@ -42,6 +44,7 @@ Aimé Ossambié Bassolé	6889
 All Basotho Convention	11053
 Allied GBVF Gender Based Violence and Femicide	11986
 Allocution du Président Bassirou Diomaye Faye	2442
+Alternative Basic Education	13991
 Annex for Early Learning and Basic Education	899
 Anthea Basson	12986
 Anti-Gender Based Violence Act	1988,738
@@ -86,7 +89,7 @@ BASHA RUKUNGA HALAL COMPANY LIMITED Data	7167
 BASHEY NURSING HOME LIMITED Data Controller	7167
 BASHY AFRICAN CREDIT LIMITED Data Controller	7167
 BASHY AFRICAN CREDIT LIMITED Data Processor	7167
-BASIC DATA	11965
+BASIC DATA	11965,2073
 BASIC DATA Product Information Operation ID	2473,2180
 BASIC DATA Product Information Operation Name	11924
 BASIC DATA Product Information Project ID	1228
@@ -95,6 +98,7 @@ BASIC INFORMATION A. Basic Project Data	3456,9655,412
 BASIC INFORMATION OPS TABLE BASIC DATA Project ID Project	10963
 BASIC INFORMATION Project	13856
 BASIC INTERMEDIATE ADVANCED	11994
+BASIC POLICY ISSUES AND DIRECTIONS	14004
 BASIC PRINCIPLE OF IMPLEMENTATION	4153
 BASIC PRINCIPLES AND LAWFUL PROCESSING	1474
 BASIC SAFETY and ESSENTIAL PERFORMANCE	11269
@@ -162,6 +166,7 @@ Base Version	1512,1
 Base de Amostragem	10777
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Base de Cible	11944
+Base de Cotización	14265
 Base de Dados	5204,1333,4217,18,633,20,91,45,332,891
 Base de Dados de Cidadão Maior	10756
 Base de Dados de Cidadãos Maiores	5791,4981,3,650
@@ -175,7 +180,7 @@ Base-T	34
 Base-T Gigabit LAN	34
 Base-TX	34
 Baseband Security	10721
-Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75
+Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264,10,2,6,4,38,2,15,2,40,22,20,27,118,7,12,15,16,26,6,13,5,5,41,28,3,1,29,9,3,6,3,6,3,11,28,18,7,48,106,2,55,6,6,31,190,15,6,3,26,2,29,67,6,3,11,84,164,2,17,1,4,13,36,3,30,43,193,12,75,127,70,53,19,22,24,57,14,13
 Based Black Economic Empowerment CBM Citizen-based	11224
 Based Black Economic Empowerment DPME Department	11986
 Based Budgeting	13420
@@ -207,7 +212,7 @@ Basel Regulations Chaired	6938
 Basel Standards	7535
 Basel and Financial Stability Institute	6938
 Baselin1e.7AsBsausmelpinteioAnssumptions	10157
-Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9,198,109,7,339,16,48,187,252,133,164,334,37,237,15,45,528
+Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9,198,109,7,339,16,48,187,252,133,164,334,37,237,15,45,476,52,18,32,21
 Baseline Actual	2712,1941,6742,833,39,173
 Baseline Allocation	11890
 Baseline Assessment Report	13922
@@ -215,6 +220,7 @@ Baseline Assumptions All	10157
 Baseline Comparison	9772
 Baseline Configuration	4610
 Baseline Configurations	4610
+Baseline Customization of Default Settings Interactions Size	13868
 Baseline Cybersecurity Measures. Define	1777
 Baseline Cybersecurity Measures. NCC	1777
 Baseline Data	12399
@@ -232,6 +238,8 @@ Baseline Obligations	3861
 Baseline People	4653
 Baseline Period	11905
 Baseline Prohibition Absent Adequacy	3861
+Baseline Scenario	13868
+Baseline Scenario Gross Nominal PPG External	13868
 Baseline Standards	5369
 Baseline Standards for Automated Anti-Money Laundering	5369
 Baseline Systems Assessment Report	12138
@@ -243,6 +251,7 @@ Baseline Target Component	4653
 Baseline Values	7548
 Baseline Values Baseline	7548
 Basemaps	13375
+Basengezi	14172
 Basepaws	10165
 Bases	3118,1091,2761,1667,3318,1386
 Bases da Toponímia	11373
@@ -259,11 +268,12 @@ Bashir Sempa Lubega	1210
 Bashir. Similarly	1887
 Bashungwa	2947
 BasiGo	11300,921
-Basic	582,179,197,12,30,161,51,36,390,186,4,116,724,107,1,807,21,1292,8,1635,209,84,116,3124,58,663,36,148,27,1,128,3,46,342,36,297,22,39,37,1,8,1,21,8,1,142,77,27,32,24,106,28,14,248,248,132,130,128,16,9,29,33,43,18
+Basic	582,179,197,12,30,161,51,36,390,186,4,116,724,107,1,807,21,1292,8,1635,209,84,116,3124,58,663,36,148,27,1,128,3,46,342,36,297,22,39,37,1,8,1,21,8,1,142,77,27,32,24,106,28,14,248,248,132,130,128,16,9,29,33,43,18,481
 Basic A Tier	9123
 Basic AI	12675
 Basic AI Literacy	12675
 Basic Accounting System	12868
+Basic Antigen Coverage	14067
 Basic Authentication	11872
 Basic Bank Account	12447
 Basic Bank Account and Cash Deposit Fees	12447
@@ -278,11 +288,12 @@ Basic Demographic Indicators	13295
 Basic Digital Literacy	1284
 Basic Drinking Water Supply	970
 Basic EPS	10793
-Basic Education	899,110,10221,630,80,46,1328
+Basic Education	899,110,10221,630,80,46,1328,646
 Basic Education Act	7832,2448,2022
 Basic Education Act No	899
 Basic Education Assistance Module	13420,54,165,40,6
 Basic Education Budget	11274
+Basic Education CASS College of Arts and Social	13960
 Basic Education DDG Deputy Director-General DDM	11261
 Basic Education John Ololtuaa. Tanui	10399
 Basic Education Law of Guinea-Bissau	11552
@@ -303,11 +314,12 @@ Basic Emergency Obstetric and Newborn Care	9766
 Basic Formal Financing Instruments	12445
 Basic Guide. Cambridge	11310
 Basic Health	970
-Basic Health Care Provision Fund	4301,493,7210,46
+Basic Health Care Provision Fund	4301,493,7210,46,2344
 Basic Health Care Provisions Fund	12004
 Basic Healthcare Provision Fund	4301
 Basic Human Right	12336
 Basic ICT	6832,6085
+Basic ICT Literacy	13956
 Basic IDs	12214
 Basic IT Skills	12445
 Basic IT Skills Solving	12445
@@ -333,7 +345,7 @@ Basic Prices Prices Adjusted	2775
 Basic Principles and Guidelines	3583
 Basic Privacy Checklist	11956
 Basic Property Data	11129
-Basic Published	13694
+Basic Published	13694,622
 Basic RFC1738 RFC2616 XML V1.0	1009
 Basic RFC3798. Cross-Enterprise	1009
 Basic Recruit Training	13078
@@ -344,6 +356,7 @@ Basic Social Allowance Programme	12247
 Basic Social Protection	10765,10
 Basic Stage The Economy Pillar	12214
 Basic Tools	5665
+Basic and Standard	14219
 Basic-income	7789
 Basic-level	6832
 Basically	1243,404,5145,1354,3710,66,33,298
@@ -368,12 +381,13 @@ Basin Development Organisation PEESIC Plan for Higher	11552
 Basing	12201
 Basins Basin Current Number of Blocks Proposed	12256
 Basiru Jaye	5210
-Basis	396,393,181,250,925,906,1845,6621,19,1517
+Basis	396,393,181,250,925,906,1845,6621,19,1517,939
 Basis Law	10775
 Basis Switching Checker	7409
 Basis Tetrapol Whip UHF-SHF MDN-TET-ATT-ARCEP- Conforme	998
 Basis for Adverse Opinion	4896
 Basis for Commencement of Formal Insolvency Proceedings	12389
+Basis for Enterprise Solution Fixed Broadband Services	14151
 Basis for Opinion	13053
 Basis for Qualified Opinion	13420
 Basis of Measurement	1154
@@ -394,7 +408,7 @@ Baskouré	10875
 Basl'lilll	4301
 Basmati	13561
 Basnet S	12231
-Basotho	2547,201,129,306,387,1527,1526,89,8,933,66,121,58,136,66,431,93,76,739,3217,2,1,1,3,11,6,12,3,6,1,9,2,6,10,5,4,2,6,4,1,2,6
+Basotho	2547,201,129,306,387,1527,1526,89,8,933,66,121,58,136,66,431,93,76,739,3217,2,1,1,3,11,6,12,3,6,1,9,2,6,10,5,4,2,6,4,1,2,6,1439
 Basotho and South Africans	12734
 Basotho. Developed	7840
 Basotho. Government	12669
@@ -410,7 +424,7 @@ Bassar	2966,7007
 Basse	8311,5498
 Basse Tension	2342,8633,2458
 Basse Tension Adoption	13433
-Basse and Fatoto	11716
+Basse and Fatoto	11716,2544
 Basse and Fatoto Registration Fees and Exemptions	12085
 Bassem Lotfy	7540,1993
 Bassessment	3782
@@ -461,6 +475,7 @@ CARACTÉRISTIQUES DE BASE DES ENQUÊTÉS	13300
 CBC. The Basic Council	899
 CBE Competence Based Education CCC Curriculum	12975
 CBT-Computer Based Training	13290
+CEO Adrian Basson	14376
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
 CODAN ENVOY X1 Base	998
@@ -568,7 +583,7 @@ Deep Offshore and Inland Basin Act	11947
 Degrees Height Power Base Station Decimal	736
 Demographic Data Basic	12281
 Department For Early Learning And Basic	899
-Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487
+Department of Basic Education	6832,3270,1078,38,2,5,16,686,70,10,487,1863
 Department of Basic Education DCDT	6832
 Department of Basic Education Health	11237
 Department of Basic Education Integrate	11195
@@ -597,6 +612,7 @@ Délivrance des Services de Base	3443
 E&S Planning Based	1988
 E-government Knowledge Base	12674
 E.g. Stakeholders Fibre and Base	11857
+EAC Basic Education Council	14251
 EAC Partner Baseline	7548
 EACO E-Waste Technical Working Group Based	6946
 EBAH Basile	2342
@@ -674,6 +690,7 @@ Free Basics	5252,8209
 Free Compulsory Basic Education	7695
 Full Baseline	13392
 Funding for Base Stations	11857
+G D P Baseline Multiplier	13868
 G. Based	8828
 GENDER BASED VIOLENCE GLAN	12253
 GENERAL ASSESSMENT OF THE ELECTION Based	10049
@@ -733,6 +750,7 @@ Home Based UNICEF	13575,1
 Home- Based ECD	12440
 Hon Bashir Lubega	1015
 Human Basic	970
+Human Rights Based Approach and Gender Equality	13998
 Hydro Cahora Bassa	11228
 ICT Analytical Report Based	12251
 ICT Based	7548
@@ -740,6 +758,7 @@ ICT Price Basket	11262,137
 ICT Price Basket Manual	11563
 ICT. Based	13357
 ICTs BASED	12251
+IEC and Department of Basic Education	14357
 III.2.2 GESTION DU FINANCEMENT BASÉ SUR	13306
 INDUCEMENT AND OTHER ELECTORAL MALPRACTICES Based	10049
 INFORMAL SETTLEMENT BASELINE AS CONTAINED	13118
@@ -758,6 +777,8 @@ Inclusion Indicator Name Baseline Actual	11971
 Indian Ocean Basin	3636,218,9166
 Indicator Baseline	940
 Indicator Baseline Intermediate Targets End Target	12675
+Indicator Baseline Target Data Source Frequency	13991
+Indicator Description Indicator Baseline Year	13991
 Indicator Name Baseline Actual	10870,1101,257,39,173
 Indicator Name Baseline Closing Period	11924
 Indicator Name Core Baseline End Target	11525
@@ -787,6 +808,7 @@ KUSUAMINA BASOLA	6613
 Karoo Basin	5407,676
 Kenya Base Set of Profiles	10100
 Keren Weitzberg and Yussuf Bashir	12227
+Knowledge Base	14091
 Knowledge Based Society	12359
 Kwekwe Mars Owned Vacant Mars Base	4896
 LAWFUL BASIS FOR PROCESSING PERSONAL DATA	13381
@@ -845,6 +867,7 @@ M. Bassirou Diomaye Diakhar FAYE	3381
 M. Bassolé	6889
 MALAWI DIGITAL READINESS ASSESSMENT Pillar Basic	12214
 MAN-MOT-GM3- Conforme SECURITE AH-710 Base	998
+MEASUR EMENT BASEL INE	13938
 MNOs Apparently Free Basics	13461
 MOUNTAIN AREAS ARE PROJECT BASED AREAS-MAHOOANA	12739
 MW. Baseload	12604
@@ -856,6 +879,7 @@ Malawi’s Digital Readiness Score Baseline	13095
 Male Basic Phone Feature Phone Smartphone	582
 Mandatory Baseline	11036
 Mandera Basin	12256
+Marcellin Basengezi	14172
 Market Share of Mobile Base Stations	6000
 May-2026 BASIC DATA A. Product Information	12832
 Mbaye Bashir Lo	4253
@@ -913,6 +937,7 @@ News PS Ummi Bashir	8217
 Nigeria Baseline Actual	4688,3189
 Nigeria Movable Asset Based	11469
 Nigeria’s Basic Health Care Provision Fund	4794
+Nile Basin	14030
 No. Output Indicator Baseline Annual Activities	12358
 Nome da Base	966
 Non-Core Basket and Weights	2775
@@ -962,6 +987,7 @@ PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164
 PDO-Level Indicators Baseline End Target	11417
 PEOs and DEBS Baseline	13392
+PIDDC01347 BASIC INFORMATION A. Basic Project	14015
 PIDIA00549 BASIC INFORMATION A. Basic Project	1704
 PIDIA00880 BASIC INFORMATION A. Basic Project	2291
 PIDIA01635 BASIC INFORMATION A. Basic Project	13787
@@ -975,6 +1001,7 @@ Pays Bas	13325
 Per-operator Base Stations	6000
 Performance Based	11469
 Performance Based Conditions	6539,5849
+Performance Based Financing	14033
 Performance Based Grant	12175
 Performance Based Grant PCR	12175
 Physical Controls Basic	21
@@ -987,7 +1014,7 @@ Population Bas-Sassandra	747
 Portfolio Committee Chairpersons of Basic Education	11220
 President Bassirou Diomaye Diakhar Faye	7543
 President Bassirou Diomaye Diakhar Faye and Prime	5907
-President Bassirou Diomaye Faye	2168,290,1198,46,1851
+President Bassirou Diomaye Faye	2168,290,1198,46,1851,8639
 Presidents Adama Barrow of The Gambia and BassirouDiomaye	7512
 Prevailing Reserve Bank of Malawi Base Lending	13185
 Prevent Gender Based Violence. Washington	10964
@@ -1092,6 +1119,7 @@ Selection Based	11525,1512
 Senegalese President Bassirou Diomaye Faye	5330
 Serigne Mountakha Bassirou MBACKE	8269
 Serviços Baseados	2816
+Shoprite CEO Whitey Basson	14376
 Simplified Procurement Procedures’. Based	11525
 Sindicato de Base	10114
 Sistema Gestor de Base de Dados	12021

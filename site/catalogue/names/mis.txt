@@ -41,7 +41,7 @@ Annual MIS Quantitative	13332
 Annual Project MIS	11855
 Annual Project's MIS The RSI	11855
 Annual SCT MIS Quantitative	13332
-Appraisal Mission	11863
+Appraisal Mission	11863,2075,142
 Archaeological Mission Discovers Ancient Theatre	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Arctic Observing Mission	11291
 Article IV Mission	10841
@@ -72,6 +72,7 @@ CADRE ORGANISATIONNEL DE MISE EN	13290
 CASE YOU MISSED	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,2470
 CDMU. While Mission	12717
 CERFIS Mise	13306
+CHAPTER ELEVEN MISCELLANEOUS PROVISIONS Article	13948
 CHAPTER SEVEN MISCELLANEOUS PROVISIONS	12185
 CHESONGOCH MISSION HOSPITAL Data Controller INST-2653199501B	7167
 CHRISTIAN MISSION INTERNATIONAL-SAMBOCHO HEALTH CENTRE Data	7167
@@ -131,6 +132,7 @@ DES MISSIONS DE L’AGENCE Article	1186
 DIGITAL Mise	3381
 DISCOVER THE MISSION	6265
 DISPOSITIF DE MISE EN OEUVRE ET	10965
+DMAP. The Implementation Support Mission	14395
 DOCUMENTS PEDAGOGIQUES MIS A LA DISPOSITION	10847
 DP Mise	10876
 DUREE DE VIE DE LA MISSION	13844
@@ -186,6 +188,7 @@ Emmanuel Misago	8853
 Enabler Mission Key Actions Pillar Alignment	12512
 Etat Mise	10821
 Ethics and Responsible AI Mission Transform	4528
+Ethiopia Implementation Support Mission	14010
 Etisalat Misr	3859
 European Union Election Observation Mission	10017
 European Union Election Observation Mission Mozambique	12201
@@ -230,6 +233,7 @@ Human Resources MIS I-9	10785
 I. THE MISSING DATA	11860
 I.1- MISSION	10858
 I.1.1- Mission	10858
+ICAO Augmented Data Availability Assessment Mission	14167
 ICT Misr	7053
 II. MISSION FINDINGS AND KEY RECOMMENDATIONS	12595
 II. Mission	13414
@@ -255,8 +259,9 @@ IV.1.4.4.3.4 Mise	10876
 Identification Mission	1778
 Igniting the National AI Mission	4528,7984,1031
 Implementation Plan MIS Management Information System	12964
-Implementation Support Mission	1216,12,1761,615,1049,6176,57,969,1199,338,483
+Implementation Support Mission	1216,12,1761,615,1049,6176,57,969,1199,338,483,135
 Implementation Support Mission and MALAWI	12980
+Implementation Support Mission for Malawi	14395
 Implementation Support Missions	1284,12048
 Implication Misstatements	13420
 Implications Theoretical. Misogyny	7790
@@ -285,6 +290,7 @@ Kwenda MIS FAS-IDL	10768
 Kwenda MIS Methodology for Data Collection FAS-IDL	10768
 Kwenda MIS Methodology for Data FAS-IDL	10768
 Kwenda MIS. Responsibility for Data Collection FAS-IDL	10768
+L'expertise de MISTRAL	14321
 LA MISE EN PLACE DES SOLUTIONS	10711
 LA MISSION	12043
 LES MISSIONS ET LES ATTRIBUTIONS	13846
@@ -295,6 +301,7 @@ LITERATURE REVIEW Balsam and Mishra	8605
 La Mission	3680,4877,2269,2607
 Le Projet de Mise	10876
 Les Comités Nationaux de Suivi de Mise	11944
+Lesotho Foreign Missions	14185
 Lesotho Mission	12672
 Lettres de Mission	10712
 Likuni Mission	12253
@@ -313,6 +320,7 @@ MIS GM	13332
 MIS Handicrafts	10964
 MIS Inventory and Register Upgrade	12453
 MIS Management	11133
+MIS Management Information System	14038
 MIS Management Information System M&E Monitoring	11924
 MIS Management Information System NDC Nationally	10768
 MIS Monitoring PIU	10964
@@ -327,6 +335,7 @@ MIS Specialist	13332
 MIS and Payment Gateway	12335
 MIS. A MIS	11855
 MIS. Following	13016
+MIS. Full	14038
 MIS. Project	11855
 MIS. Senegal	10991
 MIS. Strong	11855
@@ -338,6 +347,7 @@ MISA Institute of Social Communication of Southern Africa	4214
 MISA Lesotho	12674
 MISA Mozambique	11339,862
 MISA Mozambique and Deutsche Welle	12201
+MISA Moçambique Ernesto Nhanale	14183
 MISA Non-Governmental	12512
 MISA Regional	6793,3423
 MISA Regional Communique About MISA	13124
@@ -356,11 +366,12 @@ MISAU. Recruitment	4260
 MISCELLANEOUS	1333,141,9500,1918,205
 MISCELLANEOUS CAUSE NO	3005
 MISCELLANEOUS Cooperation	1333
+MISCELLANEOUS INCENTIVES	14024
 MISCELLANEOUS MATTERS	12919
 MISCELLANEOUS PROVISIONS	7845,4012,119,170,80,672
 MISCELLANEOUS PROVISIONS Article	12616
 MISCELLANOUS	1474
-MISCTI	12674
+MISCTI	12674,1511
 MISE A JOUR DE L'EVALUATION DES	13468
 MISE A LA RETRAITE ET DIVERS	4420
 MISE EN	10825,50,39
@@ -408,8 +419,10 @@ MISSIONS DU MINISTERE	13500
 MISSOLE	10975
 MISSÃO E METAS O Plano Estratégico	12777
 MISTI	11909
+MISTRAL AI	14321
 MISTT	11004,13,947
 MISTT Internet Fundamentals and Popular Apps	11017
+MISUNDERSTANDING’ A US	14307
 MISVA	11420
 MISWG	6938
 MISs A BLUEPRINT FOR CREATING	11133
@@ -417,11 +430,13 @@ MISs. While Kadi	11133
 MIS’s	13332
 MIsceLLaneOus	1593,11361
 MODALITES DE MISE EN OEUVRE DES	11567
+MS MS MS C. Summary of Mission	14010
 MTN’s Mission	7558
 Malawi Missions	12217
 Malawi. Mission Statement	12917
 Manama Mission Hospital	13397
 Mapping Mission	9635,1381
+Martha Makana Mission Title	14087
 Mayor of Misrata	2837
 Mbwezera MIS	12980
 Merankabandi CORE MIS. Configuration	13395
@@ -447,7 +462,7 @@ Miscellaneous Application No	8470
 Miscellaneous Cause No	3005
 Miscellaneous Fees and Levies Act	7548
 Miscellaneous GDP	11524
-Miscellaneous Provisions	587,3300,3958,149,3027,836,692,13,13
+Miscellaneous Provisions	587,3300,3958,149,3027,836,692,13,13,1692
 Miscellaneous Provisions International	587
 Misch	11140
 Misconduct	11224
@@ -464,7 +479,7 @@ Mishkat Salama El Khaldi	8998
 Mishler	7886
 Mishra	7759,846,1,631
 Mishra M	9739
-Misinformation	3216,3730,205,3500,1563,836,411
+Misinformation	3216,3730,205,3500,1563,836,411,816
 Misinformation Reporting and Digital Oversight	9855
 Misiones	4209
 Misiones de FMI	4209
@@ -504,12 +519,14 @@ Missing and Unverified Beneficiary Assets	9650
 Missing for Facebook	8436
 Missing for TikTok. Unclear	8436
 Missingdatacouldbeaddressedthroughadvanced	8606
-Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15,102,61,76,17,39,44,85,26,11,30,12,20,123,9,6,4,25,26,3,1,3,74,24,151,67,6,40,2,16,33,25,16,55,14,26,4,60,32,65,48,202
+Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15,102,61,76,17,39,44,85,26,11,30,12,20,123,9,6,4,25,26,3,1,3,74,24,151,67,6,40,2,16,33,25,16,55,14,26,4,60,32,65,48,202,52,19,75,2,156
 Mission Aide Memoire	12553
 Mission Assurer	13375
 Mission Chrétienne	10826
 Mission Contact Us Department of Computer Science	12361
 Mission Creep	12139
+Mission Date	14087
+Mission Ensuring	13991
 Mission Exploit	958,12337
 Mission Hospitals	12606
 Mission Impossible	1038
@@ -526,7 +543,7 @@ Mission Statement LCA	12646
 Mission Strategic Objectives Components Business Process	12322
 Mission The Mission	1814
 Mission ZERA	12515
-Mission and Core Values	2775,10230
+Mission and Core Values	2775,10230,960
 Mission and Core Values Vision Statement	13005
 Mission and Mandate History	12390
 Mission and Mandate History Of the Bank Departments	12390
@@ -540,7 +557,8 @@ Mission of Enabling	6946
 Mission the Bureau	2775
 Mission-critical	5675,757
 Mission-oriented	7548
-Missions	998,1344,283,1050,518,374,3003,273,895,549,55,64,1139,297,34,99,164,2191,4,7,76,170,1,260,4
+Mission300	14022
+Missions	998,1344,283,1050,518,374,3003,273,895,549,55,64,1139,297,34,99,164,2191,4,7,76,170,1,260,4,158
 Missions Article ID	37
 Missions Conformément	998
 Missions Définir	7917
@@ -569,7 +587,7 @@ Mistaken	12253
 Mistakes	11156,2376
 Mister Mr	11129
 Mistral	3465,1577,1837,1135,516,114,144,1739
-Mistral AI	2379,1503
+Mistral AI	2379,1503,10439
 Mistral AI and Vertiv	10004
 Mistrust	7886,4341
 Mistry N	771
@@ -610,6 +628,7 @@ P158570 Mid-Term Review Mission	13378
 PAP VLF MISP	4396,2344
 PART IV MISCELLANEOUS	12892
 PART NINE MISCELLANEOUS PROVISIONS	762
+PART SEVEN MISCELANEOUS PROVISIONS	14024
 PART SIX MISCELLANEOUS PROVISIONS	7538
 PART VI MISCELLANEOUS PROVISIONS	12894
 PART VI MISCELLANEOUS PROVISIONS Personal	12894
@@ -695,6 +714,7 @@ State Capacity and Institutional Development Cluster MISS	11986
 Strategic Advocacy Missions	10776
 Suid Afrikaanse Poskantoor Mis BPK	11199
 Suid-Afrikaanse Poskantoor MIS Bpk	11199
+Supervision Mission IPR AfDB Twice	13938
 THINK WHICH NUMBER IS MISSING	13532
 TRANSITIONAL AND MISCELLANEOUS PROVISIONS	3714
 TRANSITIONAL AND MISCELLANEOUS PROVISIONS Conversion	3714
@@ -744,6 +764,7 @@ VISION AND MISSION	2776
 VISION AND MISSION Vision	2776
 VISION AND VALUES Mission	13097
 Vision Mission	1204
+Vision Mission and Values. June	13991
 Vision and Mission	395,851,568,11158
 Vision and Mission MRA’s Core Values DIRECTORS	13053
 Vision and Mission Statements	11860

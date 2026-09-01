@@ -4,7 +4,7 @@ APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429,501
 ASYCUDA Advisory Board	13042
 ASYCUDA Advisory Board and Deputy Secretary-General	13042
 ASYCUDA Automated System for Customs Data AWP	969
@@ -37,7 +37,7 @@ ASYCUDA Support for Migration Tailored	13042
 ASYCUDA System for Performance Measurement	13042
 ASYCUDA TileSW	13042
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261,762,142
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
@@ -151,6 +151,7 @@ Measurement ASYREC ASYCUDA Relief Emergency Consignment	13042
 Migration and Asylum	789
 Ministry of Finance of Kazakhstan and ASYCUDA	13042
 Modern Trade Solutions ASYCUDA Solutions Upgrade	13042
+Needs of Asylum-Seekers	14101
 Nepal and Vanuatu. ASYREC	13042
 Nutritional Security and ASYCUDA	13042
 Outlook ASYCUDA New Generation	13042

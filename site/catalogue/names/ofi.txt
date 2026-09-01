@@ -38,7 +38,7 @@ FY2024 Boletim Oficial	2085,1,1,1
 GW OFICIAL	11531
 Gabinete Ministerio Oficial Mayor	4209
 General Adjunto Oficial Mayor Interventor Abogado	4209
-Gobierno de Guinea Ecuatorial Oficina de Información	9065
+Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Imprensa Oficial	11569
 Jefe Económico Admón.. B3 Oficial de Comunicación	4209
@@ -48,6 +48,7 @@ LEI DO REGISTO ELEITORAL OFICIOSO	11425
 MINTTICS Oficial	11490
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Ministerio de Telecomunicaciones Oficina de Información	9927
+Nchi Ofisi	14263
 OFICIAL DE COMUNICACION	4209
 OFICIAL MAYOR DE LA CAMARA	4209
 OFICIAL MAYOR DEL SENADO	4209
@@ -84,7 +85,7 @@ Oficina Nacional de Representación	4209
 Oficina Nacional de Turismo	4209
 Oficina Reguladora de Telecomunicaciones	9543
 Oficina de Contratos	4209
-Oficina de Información	975,5323,1785,289,182,511,2607
+Oficina de Información	975,5323,1785,289,182,511,2607,2509,34,89
 Oficina de Representación	10764,80,719
 Oficina de Seguimiento BAD	4209
 Oficina de Tramitación de Documentación de Vehículos	4209
@@ -95,7 +96,7 @@ Oficiosidade	11425,103
 Ofisa Mkuu	3509
 Ofisa Tehama	8411
 Ofisa Ulinzi	3447
-Ofisi	2868,217,2934,2392,3216
+Ofisi	2868,217,2934,2392,3216,2636
 PRESEIDENTE DE LA REPÚBLICA Boletín Oficial	163
 PUBLICAÇÃO OFICIAL DA REPÚBLICA DE MOÇAMBIQUE	6970,5805,2,8
 Parlamento Oficial Administrativo	4209
@@ -122,7 +123,9 @@ República Oficina de Información	6298,1785,289
 Residencia Oficial	4209
 SEGUNDA CATEGORIA Oficina	4209
 SUPLEMENTO AO BOLETIM OFICIAL DA REPÚBLICA	11514,6,49
-Sarilusi Tarifa King Oficina de Información	9302
+Sarilusi Tarifa King Oficina de Información	9302,4913
+Según la Oficina Nacional	14181
 TRATIVA CENTRALES OFICIAL DEL INTEGRACIÓN COORDCIÓN	4209
 União Internacional de United Nations House Oficina	11563
 Unlike the FY2024 Boletim Oficial	2089
+Wapongeza Ofisi	14263

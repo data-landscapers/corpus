@@ -386,7 +386,7 @@ Cahier des Clauses Administratives Générales	13771
 Cahier des Clauses Administratives Particulières	13524
 Cahier des Ouvrage	10876
 Caisse de Stabilisation des Prix des Hydrocarbures	10087
-Caisse des Dépôts	7649,1351,1,1941
+Caisse des Dépôts	7649,1351,1,1941,3290
 Camarade Ministre des Serviteurs du Peuple	7800
 Cameroun Des	3808
 Cameroun. Dans des EMF	10965
@@ -441,6 +441,7 @@ Charte Africaine des Droi	10826
 Charte Africaine des Droits	2808,10522,112,339
 Charte des Très Petites Entreprises69	8891
 Chasse DGI Direction Générale des Impôts DGDDI	10876
+Chef de Service de Modernisation des Systèmes	14184
 Chef de Service du Traitement des Données	9277
 Chef du Département des Infrastructures de Communication	8678
 Chef du Service des Etudes	10712
@@ -605,7 +606,7 @@ Contrôle du Spectre des Fréquences	13301
 Contrôle du Spectre des Fréquences Service Etudes	13301
 Contrôles des Télécommunications	13652
 Convention des Droits	13442
-Convention des Nations	10003,1085
+Convention des Nations	10003,1085,3315
 Convention des Nations Un	10826
 Convention des Nations Unies	5573,1329,3924,2504,112,283
 Convention des Nations-Unies	10841
@@ -983,7 +984,7 @@ Direction Générale des Douanes DGEP	10874
 Direction Générale des Etudes	10847
 Direction Générale des Examens	10847
 Direction Générale des Finances Publiques	10532
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724,88,65,308,133
 Direction Générale des Impôts. CHAPITRE	13723
 Direction Générale des Impôts. L'enjeu	7348
 Direction Générale des Marchés Publics	969,9860
@@ -1210,6 +1211,7 @@ FOSA Etablir des PPP	13306
 FOSA. Des	13306
 FOURNISSENT DES SERVICES FIABLES ET	13433
 FOURNITURES CAHIER DES CLAUSES TECHNIQUES PARTICULIERES	13524
+FSRP-Togo. Des	14401
 Faculté des Sciences	1183,5818
 Faculté des Sciences de Gabès	1183
 Facultés des Sciences Appliquées FSEA	13377
@@ -1244,7 +1246,7 @@ Fonds des Nations	8072,2441,95,2275
 Fonds des Nations Unies	6578,104,1873,336,386,1008,589,1108,1318
 Fonds des Nations-Unies	11982
 Formation des Formateurs	13390
-Formulaire de Divulgation des Bénéficiaires Effectifs	9339,4228
+Formulaire de Divulgation des Bénéficiaires Effectifs	9339,4228,720,1
 Formule Dénombrement des CEC	10876
 Forum Africain des Régulateurs des Services Publics	10975
 Forum Arabe des Régulateurs	10975
@@ -1254,6 +1256,7 @@ Forum des Entreprises Publiques	2342
 Fournisseurs des Services Financiers	11944
 Fournisseurs des Services de Radiodiffusion Sonore	13301
 Fécondité LISTE DES TABLEAUX Pour	13300
+Fédération Nationale des Acteurs du Commerce de Côte	14302
 Fédération Syndicale Autonome des Télécommunications	6284
 Fédération des Entreprises du Congo	7812
 Fédération des Entreprises du Gabon	4208
@@ -1277,7 +1280,7 @@ GSM. Banque des Etats	11944
 GUIDE POUR LA DIGITALISATION DES PAIEMENTS	10711
 Gabon Agence Nationale des Infrastructures Numériques	6129
 Garantir des Publication	13433
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684,26
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682,1684,26,920
 Gestion Electronique des Documents	2342
 Gestion Intégrée des Ressources	643
 Gestion L'Assemblée Générale des Etablissement Publics	3396
@@ -1428,7 +1431,8 @@ Ibid. Banque des Etats	11944
 Ibrahim Mohamed Abdourazak. Des	4386
 Identification des Exploitants	10096
 Identification des OPP	998
-Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43
+Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43,3375,74
+Identification des Personnes Physiques	14243
 Importance des Plateformes	13849
 Inc.iii TABLE DES MATIÈRES Liste	7655
 Inclusion Financière Banque des Etats	11944
@@ -1695,6 +1699,7 @@ Licence CCCE Comité Consultatif des Consommateurs	10975
 Ligue des Champions	8321
 Ligue des Champions UEFA	8797
 Ligue des Consommateurs des Services	9999
+Livre des Procédures Fiscales	14169
 Logiciel de Gestion des Faits	10061
 Loi Organique de Loi des Finances	969
 Loi Portant Protection des Données	10822
@@ -1835,7 +1840,7 @@ Ministre des PT-N	2886
 Ministre des PT-NTIC Samedi	2565
 Ministre des PTN	2565
 Ministre des Pietro Parolin	13405
-Ministre des Postes	2565,321,74,270,98,3132,4064,3212
+Ministre des Postes	2565,321,74,270,98,3132,4064,3212,425
 Ministre des Relations	1231
 Ministre des Ressources Minières	13445
 Ministre des Rnanœs	13303
@@ -1966,6 +1971,7 @@ Office Nationale des Pensions	13390
 Office Togolais des Recettes	4034,5942
 Office des Changes	8891
 Office des Changes. Disponible	8891
+Office des Nations	14403
 Office des Postes	4715
 Office des Produits	8237
 Office des Voiries de Djibouti	13908
@@ -2263,7 +2269,7 @@ Referentiel General de Securite des Systemes	10906
 Refuse des Une	13300
 Regard des Malien.ne.s	6959
 Registre National des Nationalités	7993,1675
-Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
+Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117,3378
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
 Remontée des Comité	11944
 Remplacement des Terminé	10975
@@ -2296,7 +2302,7 @@ RÉPARTITION DES DÉPENSES DU BUDGET	2476
 RÉPUBLIQUE DU BURUNDI MINISTERE DES FINANCES	13567
 RÉSUMÉ DES CHAPITRES SPÉCIAUX DES DERNIÈRES	7655
 Règlement de Gestion des Budgets Publics	13334
-Règlement de Passation des Marchés	1649,4334,3356,405,3811,12
+Règlement de Passation des Marchés	1649,4334,3356,405,3811,12,720,1
 Règlement des Radiocommunications	5361
 Règlement des Radiocommunications ABBREVIATIONS AFP	5361
 Règlement des Radiocommunications Rec	5361
@@ -2758,6 +2764,7 @@ X.1. Objectifs du Plan de Gestion des Risques	10876
 XI Le Recensement Général des Entreprises	3396
 Y AUCUN DES	13300
 Yaoundé. Des	8906
+Zaire. Des	14364
 Ziel des VCHF	692,1
 des AGENT	13390
 des ANDF	10876

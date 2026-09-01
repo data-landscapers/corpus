@@ -56,7 +56,7 @@ AdulaiBaldé	11544
 Adulcínio Lutucuta	11484
 Adulcínio Lutucuta DR Delegado	11484
 Adulcínio Lutucuta. Localizado	11484
-Adult	1828,1755,21,7110,290,853,107,22,165,216,16,19,98,787
+Adult	1828,1755,21,7110,290,853,107,22,165,216,16,19,98,787,673,31
 Adult Basic Education Programme	12574
 Adult Basic Education and Training	12914
 Adult Centres	2775
@@ -64,15 +64,19 @@ Adult Content	12395
 Adult Education	2775
 Adult Education Centres	2775
 Adult Education Enrollment	12411
+Adult Education and Media	13990
 Adult Education and Training	11252
 Adult HIV	12729
+Adult Health Nursing	14120
 Adult ID	10714
 Adult Learning Application	899
+Adult Learning and Education	14073
 Adult Literacy	12411
 Adult Literacy Centers	12411
 Adult Population	940,11469
 Adult and Continuing Education and Training	6832
-Adult and Non-Formal Education	12975
+Adult and Non-Formal Education	12975,985,31,3
+Adult and Non-formal Education	13991
 Adult and Youth Literacy	12383
 Adulte	13390
 Adulte Jeune Adulte Jeune Adulte Crédit	13390
@@ -103,6 +107,7 @@ Adurelang Nsomo	4209
 Adurelang Oyek Añisok	4209
 Adusei J. Achieving	12231
 Adut Salva Kiir Mayardit	4678
+Advance Digital Literacy and Skills for Students and Adults	13991
 António Adulai Queta	11561
 Autoridade Geral Aduaneira	4747
 Autres Total Jeune Hommes Adulte	13390
@@ -127,6 +132,7 @@ DEMOGRAPHICS Regional Distribution of Adults	12409
 DERECHOS ADUANEROS	4209
 DERECHOS ADUANEROS Artículo	4209
 DG Aduanas	4209
+Department of Adult and Media Education AUP	13956
 Direcciones Generales de Aduanas	4209
 Direct Estimates of Adult and Maternal Mortality	13454
 Directorate of Adult Education	12345
@@ -170,6 +176,7 @@ Hommes Jeune Adulte	13390
 Hommes Jeune Femmes Adulte Mixte Publiques	13390
 Hommes Jeunes Adultes Sous-total	13390
 IMAI Integrated Management of Adolescent and Adult Illness	12976
+Integrated Functional Adult Education	13991
 Jeffery Acheampong Adu	10143
 Jeu Adu Jeu Adu AL Jeu	13390
 Jeu Adu Jeu Adu TOT Jeu	13390

@@ -3,6 +3,8 @@ ANUÁRIO ESTATÍSTICAS VITAIS GUINÉ-BISSAU	11537
 AVEC QUI IL VIT	13300
 About Mobile Vital Records System	10822
 Abroad Kenya Vital Statistics Report	12151
+Access Vital Reports City Administration	14137
+Access Vital Statistics Reports Integration	14137
 Acknowledgements The Civil Registration Vital Statistics	12337
 Act Kenya Vital Statistics Report	12151
 Administration VITIB	1005
@@ -41,7 +43,7 @@ Civil Registration Services The Kenya Vital	12151
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics DG	12338
@@ -72,6 +74,7 @@ Electronic Civil Registration and Vital Statistics	3061,4571,4283,142
 Electronic Civil Registration and Vital Statistics System	12186
 Elisângela Vitor Mango	11586
 Emmanuel Vitus Agbenonwossi Dear NRI Coordinators	9858
+Enhance the Vitality of NRLAIS	13998
 Estadísticas Vitales	9539
 Estatísticas Vitais	10765,10,615,147,605,633,87,1
 Estatísticas Vitais Do Registo Civil	12862
@@ -81,6 +84,7 @@ Eswatini Vital Statistics Report. Ruben Sahabo	12334
 Eventos Vitais	11537
 FOREWORD Vital	12367
 FORM F-2 FORMAT OF CURRICULUM VITAE	13031
+Family Registration Vital Services	14137
 Fayda ID and Ethiopia’s Civil Registration and Vital	8074
 Federal Democratic Republic of Ethiopia Vital Event	12188
 Form B1 Kenya Vital Statistics Report	12151
@@ -163,6 +167,7 @@ SNAPSHOT OF CIVIL REGISTRATION AND VITAL	12138
 Serviço de Estatísticas Vitais	12831
 Sistema de Registo de Eventos Vitais	11537
 Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
+Strategic Civil Registration and Vital Statistics	14149,1
 Strategic Plan. Vital	12367
 Strengthening Civil Registration and Vital Statistics System	12250
 Stress Test By Emmanuel Vitus	10375
@@ -206,6 +211,7 @@ ViT-LSTM	13162
 ViT-based	13162
 Village de Vitré	1005
 Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474
+Vital Documents	14137
 Vital Event	12151,75
 Vital Event Record	12151
 Vital Events	12226
@@ -275,7 +281,7 @@ Vitimas	539
 Vitol	11122
 Vitol Tank Terminal International Kenya	12256
 Vitol Tank Terminal Kipevu Oil Internalional	12256
-Vitor	10609
+Vitor	10609,3259
 Vitoria	11955
 Vitumbiko	13095
 Vituo	2868,3151

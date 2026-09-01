@@ -31,7 +31,7 @@ Cédric Villani	11135
 DANS LA VILLE DE GRAND BASSAM	1005
 Daan Viljoen	3475
 Declaration of Osona Village Extension	13189
-Digital Embassy Village	10404
+Digital Embassy Village	10404,3863
 Digital Village	4148,1119
 Digital Village Project	2285
 Digital Villages Initiative	12740
@@ -39,6 +39,7 @@ Digital Youth Village	7068
 Eau Villageoises	2476
 Entlaq and Village Capital	10745
 Filomena Vili	12266
+Fisiwe Vilane	14257
 Gochas Gochas Village Council Hall KALKRAND	13046
 H.E Moses Vilakati	8192,1417
 H.E. Moses Vilakati	11283
@@ -105,6 +106,7 @@ Sections Villageoises	10876
 Silikin Village	3888,2128
 Smart Village	12435
 Smart Villages	566
+Smart Villages and Education for Rural Transformation	14267
 Special Handicrafts Villages	10980
 Speech STATEMENT FOR H.E. Moses Vilakati	11283
 Standard Chartered Foundation and Village Capital	10745
@@ -114,6 +116,7 @@ Tech City and Victoria Falls Lifestyle Villas	7534
 Tokai Village Centre	8999
 Tour of Villages	11285
 Training of Village Health Workers and Civil Registration	12761
+United States Dollar Village Savings and Loans	13938
 Urugwiro Village	6526
 VHW Village Health Workers VIP Very	12663
 VILA-NOVA GOUVEIA	6613
@@ -121,9 +124,11 @@ VILLAGE LEADERS Data	10763
 VILLANUEVA CARBAJAL	6613
 VILLE	13300
 Victoria Falls Lifestyle Villas	7534
+VilCap	14233
 Vila Nova	3048,1663,36,1071,200,154
 Vilakazi	3614
 Vilanculos District	1228
+Vilane	14257
 Vilcom Network Ltd	6671
 Vilcom Networks and Ahadi Wireless	6732
 Vilevile	2868,641,2510,583,648,614,599,152
@@ -135,7 +140,7 @@ Village	2760,1370,6699,456,431,501,133,59,489,409,307
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
 Village Business Units	13673,12
-Village Capital	6231,4514
+Village Capital	6231,4514,3488
 Village Capital and Hatch Blue	10464
 Village Connectivity Project	6110
 Village Connectivity and E-Cabinet	1660,977,2995

@@ -4,7 +4,7 @@ AI’s GDP	11140
 AU CZI ECD GDP HIT HPC	4528
 Actual Percent of GDP	11136
 Africa CSLP EAC EDF GDP GIS	13290
-Africa's GDP	1038,1769,4,146,4474,173,2301,810,1112
+Africa's GDP	1038,1769,4,146,4474,173,2301,810,1112,2311
 African Banking Assets of GDP	6938
 African Chapter of GDF	12048
 African Financial Institution Assets of GDP	6938
@@ -16,6 +16,7 @@ Africa’s GDP	4906,87,102,1619,3906,199
 Agriculture Composition of GDP	10856
 Annual GDP	6027,6368
 Annual Real GDP Growth	12551,981
+B. Bound Tests B1. Real GDP	13868
 B5-Cluster GDP	7548
 Backbone GDP Gross Domestic Product GSM	11857
 Banco Mundial GdA Governo de Angola GFP	11390
@@ -55,7 +56,7 @@ EFIU EFT FSB FSP G2P GDP	11130
 EPS Fintech GDP GT HC HRH	11131
 ESI ESP FGS FMS FOB GDP	11136
 EU GDP	13532
-EU GDPR	961,282,104,1377,82,750,4880
+EU GDPR	961,282,104,1377,82,750,4880,5692
 EU's GDPR	1652,11023
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
@@ -66,6 +67,7 @@ Empowerment Programme Financial Technology FX GDP	11134
 Equatorial Guinea’s GDP	10841
 Est Agriculture Industry Services GDP GDP	11271
 Eswatini’s GDP. Seventy-four	13123
+Ethiopia's GDP	14010
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
 European Union’s GDPR	5242
@@ -111,7 +113,9 @@ GDC. All	11028
 GDC. Theoretically	11028
 GDC25	13080,15
 GDD Visibility Tech Sprint and Prototype	2203
+GDDS Corrective	13868
 GDDS National Summary Data Page	11558
+GDDS. The National Summary Data Page	13868
 GDF-KSEC	6729
 GDJF and GSA	6960
 GDN and Co-Develop	10852
@@ -193,6 +197,7 @@ GDP of Germany	999
 GDP of Ghana	236
 GDP of Sub-Saharan Africa	2775,8420
 GDP of US	1264,9555
+GDP of USD	14043
 GDP of Zimbabwe	9396
 GDP--ten	10985
 GDP-ga	11136
@@ -203,10 +208,12 @@ GDP. Authorities	6458
 GDP. Businesses	1814
 GDP. But Econsult	4932
 GDP. C. Conclusion and Policy Recommendations	1828
+GDP. Commerce	14259
 GDP. Comparing Tanzania	6562
 GDP. Consistent	1828
 GDP. Despite	9852
 GDP. Digital	1243
+GDP. Djibouti	13868
 GDP. E-gov	3375
 GDP. Eskom	12073
 GDP. Fiber-Optic Network Expansion	12035
@@ -247,6 +254,7 @@ GDP. The MSMEs	940
 GDP. The NDPC	2799
 GDP. The World Bank	2374
 GDP. Though ICT GVA	236
+GDP. Total PPG	13868
 GDP. UNECA	10819
 GDP. Where GDP	236
 GDP. Whilst	13123
@@ -307,6 +315,7 @@ GDPRinterpretive	8436
 GDPYears	13624
 GDPand Inequality	1828
 GDPin	12487
+GDPt-1	13868
 GDS Government Digital Service	4214
 GDS ORION	10975
 GDS Orion Licence Dossier	10975
@@ -374,7 +383,7 @@ National GDP	13418
 Nigeria's GDP	8466
 Nigerian GDP	3782
 Nigeria’s GDP	2417,4755,4685
-Nominal GDP	2775,8361,1364,1148,37
+Nominal GDP	2775,8361,1364,1148,37,183
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Non-Oil GDP	1828
@@ -396,7 +405,7 @@ RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RUHVWDO H GD IDXQD R UHJLPH	11527
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153
 Real GDP Growth Inflation Current Account	2775
@@ -433,6 +442,7 @@ Tanzania’s GDP	4714,5878
 Tea Development Agency GDP Liquefied Petroleum	12256
 Telecommunication GDP Gross Domestic Product GFCF	236
 UHDV GD FRRSHUDomR LQWHUQDFLRQDO H GD	11530
+UK GDPR	14128
 UK GDRP	8436
 UN's GDC	11028
 US GDP	8126
@@ -464,5 +474,5 @@ Zambia's GDP	13348
 Zambian Real GDP Growth	5247
 Zambia’s GDP	5247
 Zimbabwe GDP	12487
-Zimbabwe's GDP	13295
+Zimbabwe's GDP	13295,924
 Zimbabwe's Real GDP Growth	940

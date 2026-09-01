@@ -44,6 +44,7 @@ Africa-Asia Fund Provides	9060
 Agency. PART IV GENERAL PROVISIONS	13305
 Agreement Service Providers	12364
 Aimee Providence NTIBAZIYAREMYE Jean Baptiste IRIBAGIZA	12445
+Air Navigation Service Provider	14167
 Aircraft Sta- Aeronautical Ra- Provision	6946
 Algiers Province	7127
 All Communications Service Providers	5132
@@ -81,6 +82,7 @@ Authentication Service Provision and Usage	12146
 Authorised Crypto Asset Service Provider	8840
 Authorised Crypto Asset Service Providers	8840
 Automated Processing Provides	10908
+Autonomous Province of Bolzano	14162
 Autorização Geral Provisória	2701
 Awale Connectivity Provider	10956
 Award. Provide	13185
@@ -90,7 +92,7 @@ BOZ Annual Provider Survey	13347
 BPS Bureau Provincial	13306
 Bamenda Ecclesiastical Provincial Health Assistance	10970
 Bank of Ghana ISP Internet Service Provider	6936
-Basic Health Care Provision Fund	4301,493,7210,46
+Basic Health Care Provision Fund	4301,493,7210,46,2344
 Basic Health Care Provisions Fund	12004
 Basic Healthcare Provision Fund	4301
 Bié Province Cuando Cubango Province C	11418
@@ -114,8 +116,10 @@ CAPTURE FOR BIRTH REGISTRATION Province Priority	11986
 CAPÍTULO IV ELEMENTOS DE PROVA Artigo	549
 CC Provides	10768
 CCDB and MEPPSA. Provisions	11905
+CHAPTER ELEVEN MISCELLANEOUS PROVISIONS Article	13948
 CHAPTER I GENERAL. PROVISIONS Article	11517
 CHAPTER ONE GENERAL PROVISIONS	12226
+CHAPTER ONE GENERAL PROVISIONS Article	13948
 CHAPTER SEVEN MISCELLANEOUS PROVISIONS	12185
 CHAPTER V CRYPTOGRAPHY PROVIDERS Register	11179
 CHAPTER VI AUTHENTICATION SERVICE PROVIDERS Part	11179
@@ -124,10 +128,12 @@ CHAPTER XIV GENERAL PROVISIONS	11179
 CIRMR-CSM.S3 Service Providers	10721
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
 COMMENCEMENT OF CERTAIN PROVISIONS OF ELECTRONIC	13189
+COMMUNICATIONS PROCLAMATION Part One General Provisions	13951
 COMPLIANCE REQUIREMENTS FOR PAYMENT SERVICE PROVIDERS	12365
 CONFLICT OF LAWS AND SUPREMACY PROVISIONS	3861
 CONSIDERATIONS OF CORE PROVISIONS	1243
 COOPERATIVE A01 Province A02 Commune A03	13390
+COUNCIL OF MINISTERS REGULATION TO PROVIDE	13986
 CRM-RA.S6 Assessment Providers	10721
 CSA Cybersecurity Service Provider	4791
 CSD NUMBER MUST BE PROVIDED	11240
@@ -144,6 +150,7 @@ Central Province	13455
 Central Province Broadcasting Studio	13336
 Certificate PDA Provincial Department of Agriculture PDIs	11261
 Certification Service Provider	12865
+Certification Service Providers	14253
 Challenges of Providing Education	12227
 Change Provision	11955
 Chief Executive Officer of Technology Service Providers	6946
@@ -344,6 +351,7 @@ Eastern Province	4942,457,207,283,454,183,20,482,2732,2643,6,4,18,40,921,85,103
 Eastern Province Kigali	12413
 Eastern Provnce Other Sector	12413
 Education and Training Providers	12574
+Education and Training Provision and Organization	13953
 Educational Provincial Offices	11916
 Electronic Certification Service Providers	6946
 Electronic Communications Service Providers	11277
@@ -469,7 +477,10 @@ Finance E ENS ArticleThird-party Payment Providers	6998
 Financial Provisions	3887,9013
 Financial Service Provider	11130,2402
 Financial Service Provider Cooperative Organisation SIDA	12297
-Financial Service Providers	11130,1167,755,480
+Financial Service Providers	11130,1167,755,480,406
+Financial Service Providers EthSwitch	14032
+Financial Service Providers FSPs	13938
+Financial Service Providers Gender-based	13938
 Financière Province BUHUMUZA BUJUMBURA BURUNGA BUTANYERERA	13390
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
@@ -498,8 +509,8 @@ GENERAL AND ADMINISTRATIVE PROVISIONS PART	11976
 GENERAL CAPITALES DE PROVINCIAS CAPITALES	4209
 GENERAL ENABLING PROVISIONS	28
 GENERAL ENABLING PROVISIONS CHAPTER	28
-GENERAL PROVISIONS	783,1943,988,3824,3643,9,786,71,99,313,440,440,32,32
-GENERAL PROVISIONS Article	12616
+GENERAL PROVISIONS	783,1943,988,3824,3643,9,786,71,99,313,440,440,32,32,570,140
+GENERAL PROVISIONS Article	12616,1380
 GENERAL PROVISIONS CHAPITRE PREMIER	1214
 GENERAL PROVISIONS Definitions General	3714
 GENERAL PROVISIONS FOR THIS SCHEDULE Penalties	3714
@@ -528,9 +539,11 @@ Gauteng Provincial Department of Health	12025
 Gauteng Provincial Government	5597
 Gaza Frelimo Maputo Province Frelimo Name	12201
 Gaza Province. Mobile	12806
+Gender Reference Provisions	13948
 General Policy Requirements for Trust Service Providers	10819
 General Provisions	12523,9,98,394,161
 General Provisions ARTICLE	12771
+General Provisions Article	14127
 General Provisions Insert	3714
 General and Provincial Assembly	12201
 General and Provincial Assembly Election	12201
@@ -669,6 +682,7 @@ Internet Service Provider Association	10506
 Internet Service Provider Core Network	2913
 Internet Service Provider IT Information Technology	13185
 Internet Service Provider ITU	958
+Internet Service Provider LAN	13956
 Internet Service Provider License	762
 Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761,91,598,136,247,213,148,108,469,40,95,32,1,358
 Internet Service Providers Association	12625,721
@@ -712,6 +726,7 @@ Kwango Province Among	12003
 Kwekwe. The Midlands Province	13504
 LIABILITY OF SERVICE PROVIDERS FOR UNLAWFUL	12919
 LIST OF PRIORITY HEALTH FACILITIES PROVINCE	11986
+LMIS-Livestock Market Provide	14002
 LTA A. Any Telecommunications Service Provider	4610
 Ladysmith Provincial	11986
 Landing Rights Authorization for Satellite Service Provider	10407
@@ -729,6 +744,7 @@ Lewis Mwape Deputy Provincial Permanent Secretary	13392
 Licensed Communications Provider	958
 Licensed Communications Providers	958,12337
 Licensed Internet Service Providers	7133
+Licensed Payment Service Providers	14014
 Licensed Payment Service Providers MTN Fintech	12390
 Licensed Service Provider	12616
 Licensed Service Providers	236
@@ -829,7 +845,8 @@ Mineworkers Provident Fund Administrators. Currently	12597
 Minister for Copperbelt Province	13387
 Minister of Local Government Provide	12413
 Minister of State for Harare Metropolitan Province Senator	13646
-Miscellaneous Provisions	587,3300,3958,149,3027,836,692,13,13
+Ministry Provides Equipment	14059
+Miscellaneous Provisions	587,3300,3958,149,3027,836,692,13,13,1692
 Miscellaneous Provisions International	587
 Mlle Love Providence Akeza	13547
 MoU Memorandum of Understanding MPSA Ministry Province	13308
@@ -909,6 +926,7 @@ Northwest Province	12972
 Northwestern Province	1867,121,11390
 Northwestern Province and Mayukwayukwa	1988
 Notice for Digital Credit Services Providers	6940
+Notwithstanding the Provisions	13948
 Notwithstanding the Provisions of Sub Article	12146
 Number Internet Access Providers	958
 Number of Pay TV Service Providers ANNUAL	12395
@@ -944,7 +962,7 @@ Os Provedores Intermediários de Serviços Digitais	6970
 Os Provedores de Serviços Digitais	6970
 Over Unlicensed Cybersecurity Provider	9839
 PAR PROVINCE REGIONS	10847
-PART I PRELIMINARY PROVISIONS	13305,47
+PART I PRELIMINARY PROVISIONS	13305,47,609
 PART I PRELIMINARY PROVISIONS Definitions	12899
 PART I PRELIMINARY PROVISIONS Sections	12930
 PART I PROVISIONS RELATING TO DOCUMENTS	13398
@@ -953,6 +971,8 @@ PART III FINANCIAL AND ACCOUNTING PROVISIONS	12894
 PART IV GENERAL PROVISIONS	13305
 PART IX GENERAL PROVISIONS	2727
 PART NINE MISCELLANEOUS PROVISIONS	762
+PART ONE GENERAL PROVISIONS	14024
+PART SEVEN MISCELANEOUS PROVISIONS	14024
 PART SIX MISCELLANEOUS PROVISIONS	7538
 PART V GENERAL PROVISIONS	13318,34
 PART VI CRYPTOGRAPHY PROVIDERS	12930
@@ -1054,12 +1074,13 @@ Parameters for Infrastructure Service Providers Article	12616
 Paratus Provider Data Centre	13169
 Parliament of Zambia PART I PRELIMINARY PROVISIONS	13299
 Parliament of Zambia. PART I PRELIMINARY PROVISIONS	13403
+Part One General Provisions	14113
 Party Cloud Service Providers	6432
-Payment Service Provider	4095,1979,1147,5122,863,108,154
+Payment Service Provider	4095,1979,1147,5122,863,108,154,546
 Payment Service Provider Licence	6074
 Payment Service Provider Returns	12365
 Payment Service Provider and Payment System Operator	4405
-Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326
+Payment Service Providers	2857,4078,825,972,2399,1155,49,155,621,95,326,482
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Systems Providers	13388
 Payment Terminal Service Providers	3491,3207,237
@@ -1120,7 +1141,7 @@ Provedores de Serviços de Internet Rede Tecnológica Privada	6970
 Provedores de Serviços de Segurança Cibernética	6970
 Provedoria de Justiça. Resolução	11365
 Proveedores	1701
-Proven	962,415,2301,755,143,5533,876,267,689,67,392,354,80,203
+Proven	962,415,2301,755,143,5533,876,267,689,67,392,354,80,203,1148
 Proven Playbook For Quitting	4554
 Proven Precedents for Shared Infrastructure Nigeria	11138
 Proven SaaS	6432
@@ -1132,9 +1153,10 @@ Proverbes	12099
 Provi	13390
 Provi-	13461
 Provid	12233
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,289
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25,40,2,18,19,2,48,569,3,3,3,53,24,1,11,4,30,9,13,130,13,6,11,17,10,19,13,6,7,1,12,49,54,3,17,7,16,1,44,9,45,14,130,32,1,18,61,9,154,10,5,30,2,8,3,2,5,8,34,7,4,2,3,43,102,73,37,13,4,2,6,11,2,14,10,2,22,80,71,104,232,57,24,1,4,37,33,8
 Provide APIs	6423
 Provide ARCT	13314
+Provide All Services Citizen	14137
 Provide Biometric Data Press Release	11079
 Provide Business Innovation Support	12675
 Provide COVID-19	12253
@@ -1144,8 +1166,12 @@ Provide Connectivity and Managed Network Services	2552
 Provide Connectivity and Managed Network Services Partner	2552
 Provide Criteria	12376
 Provide Data	4167,35,15,43,41,48,1003
+Provide Digitally Inclusive Education for All	13991
+Provide Digitally Inclusive Education for All Goal	13991
 Provide Education Support	12675
 Provide FPIs	11995
+Provide For the Registration of Land and Other Immovable	13950
+Provide Government	14023
 Provide Grants and Scholarships	12675
 Provide Housing Financing	2775
 Provide ICT	12927
@@ -1161,6 +1187,7 @@ Provide Research Support	12675
 Provide Resources	12675
 Provide Resources and Authority	12675
 Provide Safe and Secure Solutions	12287
+Provide Shared Platform	14032
 Provide State Ranking	11857
 Provide Training and Resources	12675
 Provide Warranty Certificate	7988
@@ -1200,7 +1227,7 @@ Providers of Such Products and Services	13073
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1,588,15,67,1,12,294,110,3,60,1,24,9,233,276,7,8,60,5,52,214,6,31,1,166,166,3
 Provides ICT	907
 Provides Integrated Basic Education	11939
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,102,1,84,22,66,258,2,38,13,137,63,85,44,47,100,90,300
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81,247,4,1,43,36,11,34,8,14,37,87,43,14,19,19,13,13,2,42,59,8,12,23,102,1,84,22,66,258,2,38,13,137,63,85,44,47,100,90,300,87,53,2,361
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -1449,6 +1476,7 @@ Provision of Medical Services	3405
 Provision of PPE	1988
 Provision of PPE ESSO MEPA	12253
 Provision of PPE Records MEPA	12253
+Provision of Public Use Files	14115
 Provision of Services	11955,661
 Provision of Services and Sales	11955
 Provision of TLM for ECE	12175
@@ -1461,6 +1489,7 @@ Provisional	2775,92,847,1104,2128,5249,102,186,112,176,352,338
 Provisional Authority	13078
 Provisional CNE	12201
 Provisional Certification Pathway	11995
+Provisional Commercial Code of Eritrea and Provisional Civil	13985
 Provisional Constitution	12492
 Provisional Data for Telkom Kenya Limited Table	6671
 Provisional Register of Voters	10017,2448,7
@@ -1482,7 +1511,7 @@ Provisionally Registered. Bachelor of Arts	13078
 Provisionally Registered. Bachelor of Medicine and Surgery	13078
 Provisionally Registered. Franchised Programmes	13078
 Provisioning	11209
-Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498,200,154,52,774,21,10,403,140,115,257,11,47,45,49,132,126
+Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498,200,154,52,774,21,10,403,140,115,257,11,47,45,49,132,126,637,2,46
 Provisions Amounts	11131,3
 Provisions Concerning Closely Held Companies	3714
 Provisions Enabling Open Science	12389
@@ -1740,12 +1769,13 @@ State Identity Provi- Shared	10819
 State of Cabo Verde. Provides	11872
 Statistical Operations and Provincial Coordination	11237
 Strategy Service Providers	10721
+Strengthen Legal Literacy and Provision of Free Legal	14012
 Stringent and Salient Provisions of Act No	13477
 Sub-Saharan African Historically Provide	1988
 Submarine Cable Providers	9109
 Summary of Certain Discussion Materials Provided	7198
 Suppliers and Service Providers	12976
-Supporting Financial Service Providers	1066
+Supporting Financial Service Providers	1066,12872
 Swaziland Internet Service Providers Association	12896
 Switch Internet Provider	12389
 System ISP Internet Service Provider	13345
@@ -1772,7 +1802,9 @@ Technical Service Provider Guideline	11041
 Technology Provider	11130
 Technology Service Providers Strengthen	12453
 Technology Service Providers of Kenya	6946
+Telecom Infrastructure Facilities Provider	14010
 Telecom Providers CAPEX	3862
+Telecom Tower Facilities Provider	14010
 Telecommunications Entrance Room Provide	9123
 Telecommunications Service Provider	4610
 Telecommunications Service Provider License	762

@@ -46,7 +46,7 @@ Centro Electrónico de Segurança Pública	10788
 Centro Integrado de Segurança Pública	646,148,9978,655,57
 Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Segurança Cibernética	2784
-Centro de Operações de Segurança	3838,7575
+Centro de Operações de Segurança	3838,7575,2899,1
 Centro de Operações de Segurança EAS Exploração	11413
 Ciber Segurança	2089,2321,9
 Cidade Segura	8638,1356
@@ -372,7 +372,7 @@ Segredo Estatístico	11516
 Segredo Estatístico O Segredo Estatístico	11516
 Segredo Profissional	4218,6537
 Segregate	1988
-Segregation	1867,4565,5932
+Segregation	1867,4565,5932,1821
 Segregação	11370
 Segu-	539
 Seguas Aire Comprimido	8530
@@ -393,11 +393,13 @@ Segunda	3137,1617,651,316,70,1454,700,3484,3,49
 Segunda Conferencia Económica Nacional	1701
 Segunda Convenção Africana de Média	2816
 Segunda Encuesta Demografía	4209
+Segunda Encuesta Demográfica	14215
+Segunda Encuesta de Población Activa	14215
 Segunda Sessão	2816
 Segunda Teniente Alférez Alférez de Fragata Comisario	4209
 Segunda Vice-Presidentes da Assembleia Nacional	11365
 Segunda-feira	8807,2675,1300,7
-Segundo	220,1641,573,147,235,5,227,45,44,55,573,128,10,183,117,375,63,70,25,11,232,171,4,50,1,6,85,9,4,83,51,99,276,32,34,90,12,32,42,112,110,46,282,131,57,49,79,18,55,81,165,421,69,319,56,149,49,16,101,67,1,43,122,71,2,13,16,47,20,23,4,4,72,229,77,22,1,242,57,1,135,95,201,93,237,46,62,14,309,6,20,6,262,11,261,70,2,5,21,31,13,3,23,38,46,8,106,26,115,13,179,40,11,10,113,603,3,4,8,6,27,1,2,10
+Segundo	220,1641,573,147,235,5,227,45,44,55,573,128,10,183,117,375,63,70,25,11,232,171,4,50,1,6,85,9,4,83,51,99,276,32,34,90,12,32,42,112,110,46,282,131,57,49,79,18,55,81,165,421,69,319,56,149,49,16,101,67,1,43,122,71,2,13,16,47,20,23,4,4,72,229,77,22,1,242,57,1,135,95,201,93,237,46,62,14,309,6,20,6,262,11,261,70,2,5,21,31,13,3,23,38,46,8,106,26,115,13,179,40,11,10,113,603,3,4,8,6,27,1,2,10,1407
 Segundo Adelino Mangonga	4294
 Segundo African Union	2816
 Segundo Aguinaldo Jaime	4250
@@ -495,13 +497,16 @@ Seguro	1701,736,1,9034
 Seguro Aviones	4209
 Seguro Elemento de Transporte	4209
 Seguro Medico Seguro Mantento Luz	4209
-Seguro Médico Universal	4209
+Seguro Medico Universal	14181
+Seguro Médico Universal	4209,9972
+Seguro Médico Universal. En	14181
 Seguro Personal	4209
 Seguro Vehículos	4209
 Seguro de Saídas	11566
 Seguro. Funções	11480
 Seguros	4209,7809,79,692
-Según	4209,3494,1178,1606,1146
+Según	4209,3494,1178,1606,1146,2632
+Según la Oficina Nacional	14181
 Semana Nacional da Estatística. Segundo	4979
 Serviços de Segurança	3519,7871
 Shenzhen. Segundo	4754

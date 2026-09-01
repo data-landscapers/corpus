@@ -29,6 +29,7 @@ ENDEAVOUR MINING	2342
 Economic Activities Mining	1988
 Energy and Mining	6490,6108,381,144
 Energy and Mining Department Of Climate Change	13062
+Eritrean National Mining Corporation	14008
 Finances MiniTPT Mininfo MiniTPT Mininfo	13290
 Forestry Mining and Quarrying	2775
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
@@ -61,7 +62,7 @@ MINING ACT	6921
 MINING AND DIGITAL ECONOMY	7167
 MINING COMPANY	13189
 MINING Par	2342
-MININT	3899,6876,654,55
+MININT	3899,6876,654,55,2828
 MININTER	1776,11555,215
 MININTER Ministry of Interior MINSOLID Ministère	13331
 MININTER PPM	1776
@@ -79,7 +80,7 @@ Mimosa Mining Company	1554
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419
 Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -97,6 +98,7 @@ Mining Cooperation Agreement	13666
 Mining Cooperation Agreement URL	13666
 Mining Development Agreement	13122
 Mining Development Agreements for Kasiya Graphite and Rutile	13060
+Mining Engineering	14147
 Mining Indaba	10592
 Mining Industry	13122
 Mining Malawi Wins Global Recognition for Offline	3965,1438,1506
@@ -110,10 +112,12 @@ Mining Sector Governance Support	2889
 Mining Sector Optimization and Transformation Zimbabwe	4528,7984
 Mining Sector Working Group	13060
 Mining Services	13122
+Mining Technology	14147
 Mining Technology and Innovation Event	11221
 Mining VP Mohadi Launches National Child	2987,16
 Mining World	7253
 Mining and Agriculture	4528,7984
+Mining and Energy	14089
 Mining and Manufacturing	4528,8501,31,62
 Mining and Manufacturing Utilities	12445
 Mining and Manufacturing. The Plan	13122
@@ -170,6 +174,7 @@ Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 Songwe Rare Earth Mining	13060
 South African Mining	7751
 Strategic Outlook for Mining Technology Governance Looking	10069
+Support Artisanal and Small-scale Mining Formalisation	13938
 Supporting Artisanal and Small-scale Mining	13060
 TI Postes Radiodiffusion MiniCommerce MiniTPT Mininfo	13290
 Tanzania Mining Summit	10592

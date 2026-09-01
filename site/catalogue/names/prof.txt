@@ -9,6 +9,7 @@ Adopt the International Professional Practices Framework	1155
 Africa. International Association of Privacy Professionals	1243
 Agenda BEP Built Environment Professionals BEAC	2775
 Agência Profissional	11898
+Allied Health Professions Council	14227
 Ambassador Professor Royson Mukwena	13631
 Angola Risk Profile	10763
 Annual Global Profes	4209
@@ -77,6 +78,7 @@ COUNTRY PROFILE I N DIC ATORS	13357
 COUNTRY PROFILE The Republic of Zimbabwe	13310
 CPD Continuous Professional Development CSP Content	6946
 CSI Profiles for Survey Participants	12978
+CYBERWELLNESS PROFILE	13962
 Cameroon Country Profile	10841
 Capacitação Profissional	2816
 Carteira Profissional	12311
@@ -120,7 +122,7 @@ Component Beneficiary Profile	10964
 Comprehensive Company Profile	8985
 Consortium Profile Provide	5903
 Continuing Professional Development	11990
-Continuous Professional Development	6946,4188,822,457,313,344,96,226,66
+Continuous Professional Development	6946,4188,822,457,313,344,96,226,66,599
 Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
 Continuous Professional Development Coordinators	12175
@@ -134,7 +136,7 @@ Corporate Profile. Lagos	11138
 Corruption Risk Profile	11986
 Council for Natural Scientific Professions SA-EU South	5246
 Council of Ministers View Profile	5775
-Country Profile	1356,742,8878,906,269,195,326
+Country Profile	1356,742,8878,906,269,195,326,1386
 Country Profile Companion	2098
 Country Profile Contents	11881
 Country Profile ENTERPRISE SURVEYS	11874
@@ -149,6 +151,7 @@ Crescimento Profissional	2816
 Customer Account and User Profile	12654
 Cybercrime Legislative Profile	1276
 Cybersecurity Profiling	10721
+Cyberwellness Profile	13962
 Cédula Profissional	11435
 D E- Professional	582
 D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
@@ -180,6 +183,7 @@ Dever de Sigilo Profissional	167
 Deveres Profissionais	11452
 Digital Identity Country Profile	10822
 Digital Productivity for ICT Professionals	12241
+Digital Trade Regulatory Integration Country Profile	13985
 Digital for Healthcare Professionals Together	10865
 Displacement Context and Refugee Profiles	10841
 Displacement Context and Refugee Profiles Equatorial Guinea	10841
@@ -201,6 +205,7 @@ Efectivo de Professores	10766
 Electronic Continuous Professional Development ELM	12175
 Emerging Professionals	7719
 Emerging Professionals Programme	7719
+Emeritus Professor of Economics	14017
 Employment and Professional Training Centers	11855
 Enseignement Professionnel	86
 Enseñanza Profesional	4209
@@ -216,7 +221,8 @@ Ensino Secundário de Formação de Professores Província	10766
 Ensino Técnico Profissional	12777
 Entity's Profile	12400
 Equity Profit Margin Return	1013
-Eritrea Profile	10001
+Eritrea Country Profile	14058
+Eritrea Profile	10001,4147
 Escola Formação de Professores Domingos Mendonça	11552
 Escola de Formação de Professores Ensino Geral Avaliação	10766
 Estratégia Nacional de Desenvolvimento da Profissão Docente	11557
@@ -284,6 +290,7 @@ Health Informatics Professional	1219
 Health Professional Council of Zambia	34
 Health Professional Education	8605
 Health Professionals	2775,8405
+Health Professionals' Competency Assessment and Regulation	14033
 Health Professions Act	10071,3215,25,4,6
 Health Professions Authority	3025
 Health Professions Authority of Zimbabwe	10071
@@ -316,6 +323,7 @@ Impilo Professional	9429
 Imposto Profissional	11532
 Income and Profits	13122
 Individual Business Profit Tax	12500
+Information Technology Professionals Examination Council	14188
 Infrastructure Profiles	1009
 Initiative Masse Critique de Professionnels	6031
 Insertion Professionnelle	2808,1594,9492
@@ -341,6 +349,8 @@ KSh Million Year Quarter Public Profes-	2775
 Kenya Base Set of Profiles	10100
 Khalifa Al Abdulsalam Assistant Professor	2958
 Kingdom of Eswatini Profile Eswatini	12395
+Law Professor	14190
+Law Professor. Interestingly	14190
 Le Professeur Enaw Ebot Ebot	3985
 Learning Digital Content Professional Life Consumption	582
 Ley Orgánica de Formación Profesional	4209
@@ -381,7 +391,9 @@ National Authority for Professional Education	2989
 National Cybersecurity Committee Professor Vinaye Armoogum	9949
 National Digital Innovation Profile Workshop	9434
 National Institute of Employment and Professional Training	10768
+National Profile Sharing	14140
 Net Profit	1944,10011
+Net Profit Allocation	14032
 Net Profit NAD	1013,931
 Nigeria. Professional	9739
 NileSat’s Net Profit Falls	12870
@@ -404,12 +416,15 @@ Online Publication of List of Qualified IP Professionals	12389
 Operator Profiles	4130
 Ordens Profissionais	11383
 Organisational Profile	9198
+Organisations Professionnelles de Commerçants	14302
 PMP Project Management Professional PSU Power	13185
 POUR LES USAGERS PROFESSIONNELS	6954
 PPE Revenue Net Profit Assets Liabilities	1944
+PRODUCING SUFFICIENT COMPETENT PROFESSIONALS	14004
 PROFESIONAL	4209
 PROFESIONAL REGIONAL	4209
 PROFESSIONAL ADVISORS	4896
+PROFESSIONAL CERTIFICATION Eritrea	13962
 PROFESSIONAL SERVICES	12962
 PROFESSIONNALISATION ET CERTIFICATION ARTICLE	13809
 PROFESSIONNE	13300
@@ -422,7 +437,7 @@ PROFFESSIONAL SERVICES	12977
 PROFI	3868,9934
 PROFIL DU CABINET ET DES EXPERTS	12043
 PROFILE	4429,5,792,5686,977,263,188,1,335
-PROFILE African Trade Policy Centre	11550
+PROFILE African Trade Policy Centre	11550,2435
 PROFILE US	4972
 PROFISSIONAIS LIBERAIS	11435
 PROFOGMEPS	11390
@@ -480,7 +495,7 @@ Professeur Tahirou Djara	9044
 Professeur Vincent Kangulumba	5888
 Professeur Wilfried Gabsa	11673
 Professeure Mariatou Koné	10925
-Profession	2775,2121,5879,2256
+Profession	2775,2121,5879,2256,948
 Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12,55,390,69,11,49,6,16,69
 Professional Accountants Bodies	13420
 Professional Agency	12389
@@ -488,11 +503,12 @@ Professional Bar of Certified Auditors and Accountants	11955
 Professional Bodies	12453,892
 Professional Certificate	10133
 Professional Certifications	12389
+Professional Code of Ethics for Inspectors	14113
 Professional Course for Foreign Diplomats	13744
 Professional Development	6946
 Professional Etiquette	6946
 Professional Evaluation and Certification Board	11131
-Professional Experience	962
+Professional Experience	962,13223
 Professional Growth	13477
 Professional Growth By Mwamba Lesa	13477
 Professional ID	10823
@@ -539,7 +555,7 @@ Professionnelle	643,12799
 Professionnelle des Education	10985
 Professionnelle des Jeunes	10826
 Professionnels	9287,55,1269,364,2400
-Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86,277,25,768,622
+Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86,277,25,768,622,1447
 Professor A. Murwira	413
 Professor Abate	8529
 Professor Abdalla Omar Mansur	10451
@@ -565,6 +581,7 @@ Professor Chiratidzo Ellen Ndhlovu	1554
 Professor Chul-In Lee of Seoul National University	9729
 Professor David Eaves	10852
 Professor David Hand	1246
+Professor Dechasa	14140
 Professor Doutor Pedro Magalhães	11411
 Professor Dr. Al-Amin Mohsen Al-Amin	13816
 Professor Dr. Anicia Peters	13010,38
@@ -586,6 +603,7 @@ Professor Herman Wasserman	10729
 Professor Hoexter	2307
 Professor Ibrahim Adeyanju	3557,2501
 Professor Idris Bugaje	9755
+Professor Isaac Wiafe	14353
 Professor Jamila Shuara	9576
 Professor Jerry John Kponyo	5227,4193,10
 Professor John Dugard	9889
@@ -599,6 +617,7 @@ Professor Kazhila C. Chinsembu	13556,67
 Professor Kenneth Kalu	2552
 Professor Kerry-Lynn Thomson	8563
 Professor Kofi Sarpong Adu-Manu	10383
+Professor LIU Weidong	14140
 Professor Lawrence Muganga of Victoria University	4795
 Professor Michael Bridges	4439
 Professor Michael Goldsmith	1200
@@ -611,6 +630,7 @@ Professor Myung-Ho Park of Hongik University	9729
 Professor N'Zué Félix Fofana	8532
 Professor Naana Jane Opoku-Agyemang	6097
 Professor Ndubueze Mbah	7444
+Professor Nigussie Dechasa	14140
 Professor Nii Narku Quaynor	4706
 Professor Ntoi Rapapa	3183
 Professor Oliver Silumbe	13581
@@ -639,6 +659,7 @@ Professor Shoshana Zuboff	4426
 Professor Silumbe	13581
 Professor Sir Anthony Finkelstein	1246
 Professor Smaranda Olarinde of Afe Babalola University	8710
+Professor Solomon Masho	14140
 Professor Somadoda Fikeni	7058,13
 Professor Stefaan Verhulst	1246
 Professor Tagwira	13671
@@ -649,9 +670,11 @@ Professor Thokozani Majozi	11027
 Professor Titular	2816
 Professor Vera Fiador of UGBS	11032
 Professor Vukosi Marivate	6152,1605
+Professor WU Bingfang	14140
 Professor Wei Lu	13631
 Professor William Dutton	1200
 Professor William Webb	7508
+Professor Zemenfes Tsighe	14117
 Professor Zoo Zame	2705
 Professor Zororo Muranda	1554
 Professor of Comparative Criminal Law	10270
@@ -679,7 +702,7 @@ Profile	775,234,27,855,1057,565,915,363,6050,383,731,285,13,800
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 Profile Completions	13095
-Profile Global Registration System	12227
+Profile Global Registration System	12227,1711
 Profile Profile	12364
 Profile of DIAL's Digital ID Assessment	1582
 Profile of Employees Who Have Salary Levels	11218
@@ -692,7 +715,7 @@ Profiles	1875,240,2781,1684,6381,289
 Profiles MauCAS	1386
 Profiles Tolúlọpẹ	9739
 Profiles of African	6580
-Profiling	3861,7113,1211
+Profiling	3861,7113,1211,1753
 Profiling the LCC	7886
 Profissionais	2816,8240,962
 Profissionais Qualificados	10777
@@ -804,6 +827,7 @@ Taxation Profit	10793
 Teacher Professional Development Index	13392
 Teacher Professional Learning	899
 Teacher Proficiency Development Index	13477
+Teacher Workforce and Continuous Professional Development	14251
 Teacher and Health Professionals	1988
 Team Composition and Task Assignments Professional Staff	13037
 Technical Description Example Profile Framework	1009
@@ -823,6 +847,7 @@ University of Professional Studies	7968,3859
 Use of Built Environment Professionals	2775
 User Profile	12364
 User Profiles	12364
+Vetting of Justice Sector Officials and Professionals	14012
 Vice Chancellor Professor Justice Thwala	13182
 Vice Chancellor Professor Q.C. Kanhukamwe	13688
 Vice-chancellor Professor Nana Aba Appiah Amfo	8287

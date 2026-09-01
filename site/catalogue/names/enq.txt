@@ -117,7 +117,7 @@ Enquête Post-Censitaire	9277
 Enquête Régionale Intégrée	737,10137
 Enquête SMART Valeur	643
 Enquête TIC	3159
-Enquêtes	7655,1236,1983,104,1065,1282
+Enquêtes	7655,1236,1983,104,1065,1282,919
 Enquêtes Démographiques	10874,2426,25
 Enquêtes Harmonisées	11581
 Enquêtes MICS	13300
@@ -152,6 +152,7 @@ N CODE APPROPRIÉ ENQUÊTÉ A REFUSÉ	13300
 N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
 N'EST PAS ENQUÊTÉE	13300
 NDICE Sumário Executivo Enquadramento PARTE II	11366
+National Enquiry Point	14225
 PME TPE Enquêtes	643
 Perguntas Frequentes IRPC Enquadramento CIRPC	12018
 Reports and Enquiry Facilities	12364

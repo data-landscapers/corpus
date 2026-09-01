@@ -187,7 +187,7 @@ Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,1
 Comité CPIM	13468
 Comité Central	11045
 Comité Cette	10975
-Comité Científico	10487
+Comité Científico	10487,3728
 Comité Consultatif	13728
 Comité Consultatif Communautaire	2342
 Comité Consultatif des Consommateurs	10975
@@ -241,7 +241,7 @@ Comité Technique de Supervision	5531,5345
 Comité Technique du Système	13898
 Comité Technique. Au	11944
 Comité Technique. Contrôle Assure	11944
-Comité Técnico	5721,5806,4,11
+Comité Técnico	5721,5806,4,11,2639
 Comité Técnico de Avaliação Científica da IEEE	2816
 Comité Técnico de Cibersegurança	4147
 Comité de Balanza de Pagos Trabajos de Seguimiento Coyuntura	4209
@@ -273,6 +273,7 @@ Comité de Pilotaje	5111,183,6449
 Comité de Politique	2623
 Comité de Politique Monétaire	8316
 Comité de Preços	1215,10215
+Comité de Programas Estadísticos	14215
 Comité de Resolução de Reclamações	11390
 Comité de Restructuration	2342
 Comité de Régulation	13433
@@ -321,6 +322,7 @@ Dados Comissão de Acompanhamento	10766
 Données Intégré National CNDSP Comité National	13341
 Du Comité National	13323
 Du Comité de Direction Article	13334
+El Comité Técnico Multisectorial	14181
 El Comité de Pilotaje	11743
 Electoral Census Comissions	11909
 Electricité CEN Comité Electrotechnique National CLUB-ER	10975

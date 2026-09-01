@@ -8,7 +8,7 @@ A9rosion c	8891
 AFRICATEL AVS C	998
 AI and Other Emerging Technologies C	7549
 ANEXO C	11406,50
-ANNEX C	3861,3337
+ANNEX C	3861,3337,6767
 ANNEXE C TABLEAUX POUR L’ÉVALUATION	13300
 ANNEXURE C	5533,6453
 APPENDIX C	11129,728
@@ -38,7 +38,7 @@ Alíneas C	12018
 Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Angola. C. Beneficiários	11441,1
-Annex C	7198,5205,634
+Annex C	7198,5205,634,973
 Annex C. Transforming Education Summit	12175
 Annexe C	13300,394
 Annexe C PERSONNEL DE L’ENQUÊTE Annexe	13300
@@ -74,6 +74,7 @@ B- Tablet C- Place of Education	582
 B- WhatsApp C- Instagram C- Cost	582
 B. C	10726,409
 B. Resource Availability and Utilisation C. Statistical	13310
+B. State-Owned Enterprise Governance Reform 12 C	13868
 B. Theory of Change and PDO Indicators C	13856
 BAI10 Managed ITGov C	9237
 BANCE C EPICENTRE NIGER ARCEP	998
@@ -84,6 +85,7 @@ Bande C A PETROLEUM S.A ARCEP	998
 Bande C Annexe	998
 Bande C CBA-COM-CDD- Conforme	998
 Bande C WHH-CHA-24M- Conforme Hilfe	998
+Bank. C. Financial Management	13938
 Barkman C	1219
 Base C	9123
 Bathseba C. Sakala Mr Boniface	13477
@@ -271,19 +273,20 @@ C. BANK PERFORMANCE Quality	11924
 C. Baraka	3782
 C. C	11927
 C. CHAPITRE	13937
-C. COMPLIANCE WITH BANK POLICIES	11863
+C. COMPLIANCE WITH BANK POLICIES	11863,2075
+C. CULTURAL RIGHTS	14073
 C. Cabinet	2626
 C. Cap	7832
 C. Capacity Building	12977
 C. Certificate for Joint Venture	12693
 C. Children’s Month Activities Day	12977
-C. Clearance	11863
+C. Clearance	11863,2075
 C. Climate Change Related Natural Disasters	1828
 C. Cobo	6948
 C. Collaboration	7845,711
 C. Complaint Monitoring	5676
 C. Complaint Monitoring Consumer	5676
-C. Compliance	11863
+C. Compliance	11863,2075
 C. Conclusion and Policy Recommendations	1828
 C. Confidentiality	4610
 C. Confidentiality and FOIA Information	5773
@@ -323,7 +326,7 @@ C. Environmental and Social	2989,8916
 C. Expenditure Framework	11905
 C. F	10780
 C. F. Tabela	10780
-C. FINANCIAL MANAGEMENT	11863
+C. FINANCIAL MANAGEMENT	11863,2075
 C. FINANCIAL PROPOSAL	962
 C. Feuille	1218
 C. Fills	3130
@@ -358,6 +361,7 @@ C. Karagueuzian	10718
 C. Katzenbach	11028
 C. Kemei	13312,2
 C. L'inclusion	5630
+C. LEGISLATION	14031
 C. Lagging Preparedness Sub-Saharan Africa	11140
 C. Lang	9128
 C. Lawson	5700
@@ -382,6 +386,7 @@ C. Methodology	3583
 C. Methodology Standards	3583
 C. Modelling	10856
 C. Modelo Nacional de Avaliação	11451
+C. Monetary and Financial Sector Policies	13868
 C. Mouffe	11028
 C. N. Habitant	8853
 C. N. Olien	6948
@@ -391,17 +396,18 @@ C. Non	13287
 C. Notwithstanding	11233
 C. O	961
 C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
-C. OTHER CROSS-CUTTING PRIORITIES	11863
+C. OTHER CROSS-CUTTING PRIORITIES	11863,2075
 C. Objetivos	11898
 C. On-budget	3583
 C. Onyefuluchi	11140
 C. Open Finance Lab	4848
+C. Other Cross-cutting Priorities Poverty	13938
 C. P	8603
 C. PARTICIPANTS AU SYRAD	13838
 C. PDO-Level Results Indicators	11525
 C. PERSONNEL	13478
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
-C. PROJECT COMPONENTS	11863
+C. PROJECT COMPONENTS	11863,2075
 C. Padovani	11028
 C. Parent Project Status and Results	13459
 C. Part	13385
@@ -421,15 +427,17 @@ C. Preparedness and Response Capabilities The NDMA	12977
 C. Procurement	1284
 C. Program Development Objectives	11905
 C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295,1476,1
-C. Project Components	11863
+C. Project Components	11863,2075
 C. Proposed Development Objective	761,943,587,1165,7507,1174,289,406,279
 C. Préparation	13524
 C. R	10726
 C. R. Harvey	11310
-C. RATIONALE FOR BANK’S INVOLVEMENT	11863
+C. RATIONALE FOR BANK’S INVOLVEMENT	11863,2075
 C. RECORD BOOKS	11860
 C. REQUEST FOR PROPOSAL CONDITIONS	12400
 C. Rapports	13442
+C. Rationale for Bank's Involvement	14080
+C. Rationale for Bank’s Involvement	13938
 C. Rationale for Bank’s Involvement C.1	11863
 C. Registration	12452
 C. Regular Audits	4610
@@ -459,12 +467,14 @@ C. TEEVAN	11155
 C. TEEVAN European Commission	11155
 C. TEEVAN Open Access	11155
 C. TEEVAN Teething Problems	11155
+C. Tailored Tests C1. Combined	13868
 C. Tax Revenue Performance and Challenges Tax	10997
 C. Teevan	11155
 C. Telephone Enquiries	12500
 C. Term	7845
 C. The Challenge	1828
 C. The National Backbone	11857
+C. Transforming Education Summit Commitments	13990
 C. Types of Exposed Sectors	11140
 C. UPDATE ON PROGRAMMES	12597
 C. Utility	7845
@@ -677,6 +687,7 @@ ISIQEPHU C	11573
 ISIQEPHU C IFOMU	11573
 ITGov C	9237
 Imison C	1219
+Impact of C	13998
 Income Quintile Group BURUNDI C	13624
 Informação Financeira C G J Cofre	6530
 Initial C	13037
@@ -729,6 +740,7 @@ MEASURING PERFORMANCE PART C	5533
 MINFI C	10965
 MINPOSTEL C	10965
 MOOV AFRICA NIGER C	998
+MS MS MS C. Summary of Mission	14010
 MTN and Cell C	11259,2202
 Maheba C Primary School	1867
 Malawi Annex C. Transforming Education Summit	12175
@@ -832,6 +844,7 @@ Processo Eleitoral C N D H	6530
 Production Airtel A B C D	236
 Prof. Z. Muranda Prof. C. E	1154
 Professor Kazhila C. Chinsembu	13556,67
+Progress and Challenges C. Political	13969
 Project. C. Project Beneficiaries	11855
 Projecto C. Beneficiários	11440
 Q4. While Series C	4972
@@ -839,6 +852,7 @@ R A T I C RWANDA	11900
 R C- Modem Bande C IRC-CHA-NOR-ARCEP-	998
 R E C O M M	12328
 R EFE R E N C	396
+R I C A N D	13938
 R T C	12373
 R. C. W	8604
 R4.9bn Cell C	11159

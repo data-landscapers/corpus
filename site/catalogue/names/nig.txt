@@ -65,7 +65,7 @@ Airtel Money Niger SA. Une	12074
 Airtel Money Niger. Airtel Money	12074
 Airtel Niger	2556,2101,7417
 Airtel Niger. Avec Starlink	4657
-Airtel Nigeria	2134,404,20,856,515,1126,253,1570,714,1135,125,77,434,634,591,918
+Airtel Nigeria	2134,404,20,856,515,1126,253,1570,714,1135,125,77,434,634,591,918,2866
 Airtel Nigeria CEO Dinesh Balsingh	2134,1280
 Airtel Nigeria Ltd	11993
 Airtel Nigeria Unveils Hundreds of Retail Shops	9117
@@ -221,7 +221,7 @@ Census Reference Night	12963
 Central African Republic and Nigeria	2823,8018
 Central African and Nigerian	10841
 Central Bank of Nige-	4848
-Central Bank of Nigeria	10,989,111,1066,111,31,79,365,64,15,171,479,241,138,61,11,648,181,77,8,35,10,10,17,272,67,102,541,131,375,133,95,35,10,10,1,35,79,121,238,6,230,7,32,12,8,26,413,21,32,127,20,50,29,106,388,37,269,244,16,39,74,211,8,16,96,60,2,2,121,80,97,23,80,2,4,109,40,114,81,148,28,21,2,15,79,63,241,27,9,468,158,87,9,1,5,110,17,7,38,12,182
+Central Bank of Nigeria	10,989,111,1066,111,31,79,365,64,15,171,479,241,138,61,11,648,181,77,8,35,10,10,17,272,67,102,541,131,375,133,95,35,10,10,1,35,79,121,238,6,230,7,32,12,8,26,413,21,32,127,20,50,29,106,388,37,269,244,16,39,74,211,8,16,96,60,2,2,121,80,97,23,80,2,4,109,40,114,81,148,28,21,2,15,79,63,241,27,9,468,158,87,9,1,5,110,17,7,38,12,182,1957
 Central Bank of Nigeria Act	11993
 Central Bank of Nigeria Banking Sector Reform	10
 Central Bank of Nigeria CBN Fintech Report	4848
@@ -289,6 +289,7 @@ Coris Niger	4459
 Corporate Affairs Division. The Nigerian	10699
 Corporate Venture Firm Nigeria Azur Innovation	4972
 Country Director of KOICA Nigeria Office	9360
+Country Head for Zoho Nigeria	14199
 Country Partnership Framework for Nigeria	11486
 Country. The Nigerian National Broadband Plan	11857
 CrossBoundary Energy Nigeria Infrastructure	11469
@@ -411,6 +412,7 @@ Equinix Nigeria	2155
 Equipment Import Clearance The Nigerian National	11857
 Etat du Niger	1967
 Ethiopia Eritrea Nigeria Somalia	10819
+Ethiopia Ghana Nigeria	14098
 Ethiopia and Nigeria	12122,110
 Etisalat Nigeria	80,250
 Europe. Nigeria	4583
@@ -434,7 +436,7 @@ FCFA. Au Nigeria	2280
 FCMB Nigeria FIG Trade Finance	11469
 FCT Nigeria. P.M.B	5903
 FDX Nigeria	9117
-FEDERAL REPUBLIC OF NIGERIA	10157
+FEDERAL REPUBLIC OF NIGERIA	10157,3839
 FEDERAL REPUBLIC OF NIGERIA Acronyms and Abbreviations	10157
 FEDERAL REPUBLIC OF NIGERIA By Presidential	11857
 FEDERAL REPUBLIC OF NIGERIA NATIONAL DIGITAL	10157
@@ -510,6 +512,7 @@ GSMA Intelligence Nigerian National Broadband Plan	11857
 GSMA Nigeria Digital Economy Report	5245
 Gabon Nigeria Madagascar Eswatini Angola Mali	10837,1503
 Gabon and Niger	4150
+Gambia. H.E. Mr. Anthony OGUNJIMI of Nigeria	14325
 GenAI and Nigerian	9739
 General Evangelist of CAC Nigeria and Overseas	6690
 General Manager of Microsoft Nigeria and Ghana	11357
@@ -538,6 +541,7 @@ GoMed Nigeria CEO Anthony Edeki	9540
 Google Cloud. Nigeria	7179
 Google Nigeria	2769,1588,2179
 Google Why Nigeria	7314
+Gouvernement du Niger	14243
 GovGuide Nigeria	6287
 Governance Nigeria	10719,750
 Government of Niger	35,9531
@@ -707,6 +711,7 @@ Liberia and Nigeria	6534
 Liquid Intelligent Technologies Nigeria	9141,546
 Local Governments. The Nigeria Open Data	11854
 Local Standards and Policies D.1 Nigerian Government	11952
+London. A Nigerian	14189
 Ltd Central Bank of Nigeria	6938
 Luno Fintech Nigeria	8464
 Luno Nigeria	9903
@@ -739,7 +744,7 @@ MOOV AFRICA Niger	998
 MSR Innovations Nigeria Limited	3862
 MTN Ghana and MTN Nigeria	10793
 MTN Ghana and The Nigeria	10861
-MTN Nigeria	240,209,190,286,880,329,195,143,66,25,592,31,1,33,110,84,274,52,57,353,574,331,145,108,401,430,271,298,83,87,451,962,117,173,146,202,39,395,197,4,75,481,305,112,256,14,360,339,351,46
+MTN Nigeria	240,209,190,286,880,329,195,143,66,25,592,31,1,33,110,84,274,52,57,353,574,331,145,108,401,430,271,298,83,87,451,962,117,173,146,202,39,395,197,4,75,481,305,112,256,14,360,339,351,46,2469
 MTN Nigeria CEO	4724
 MTN Nigeria CEO Karl Toriola	3187,3521
 MTN Nigeria Capital Expenditure Equipment Facility	240
@@ -969,7 +974,7 @@ Nigcomsat MD Jane Egerton-Idehen	2294
 Nigcsi	11852
 Nige-	4848,3453
 Nigeiria	38
-Niger	7,28,196,5,98,68,1,2,32,3,85,41,59,18,5,53,7,16,13,99,1,54,2,27,78,15,52,124,54,21,13,54,110,24,169,257,2,89,159,186,15,35,13,37,87,19,23,13,18,95,93,3,23,36,109,180,1,1,177,1,35,15,39,49,23,79,5,86,21,165,102,42,22,44,6,20,43,174,183,130,19,49,137,8,11,45,1,50,3,94,54,110,204,59,1,21,58,16,51,5,96,121,2,9,73,73,132,3,147,10,6,321,35,97,116,57,9,67,89,17,59,59,108,42,15,26,78,57,44,67,87,286,6,74,155,9,166,17,81,76,7,1,88,82,53,14,465,55,15,209,1,101,132,160,72,59,63,79,111,148,55,1,63,4,45,51,3,28,17,26,50,3,2,1,3,12,9,7,3,9,38,26,3,17,584,1,19,9,16,12,217,20,21,3,16,1,2,30,6,79,2,9,35,15,9,54,25,1,9,93,44,29,12,11,1,32,103,554,272,56,198,145
+Niger	7,28,196,5,98,68,1,2,32,3,85,41,59,18,5,53,7,16,13,99,1,54,2,27,78,15,52,124,54,21,13,54,110,24,169,257,2,89,159,186,15,35,13,37,87,19,23,13,18,95,93,3,23,36,109,180,1,1,177,1,35,15,39,49,23,79,5,86,21,165,102,42,22,44,6,20,43,174,183,130,19,49,137,8,11,45,1,50,3,94,54,110,204,59,1,21,58,16,51,5,96,121,2,9,73,73,132,3,147,10,6,321,35,97,116,57,9,67,89,17,59,59,108,42,15,26,78,57,44,67,87,286,6,74,155,9,166,17,81,76,7,1,88,82,53,14,465,55,15,209,1,101,132,160,72,59,63,79,111,148,55,1,63,4,45,51,3,28,17,26,50,3,2,1,3,12,9,7,3,9,38,26,3,17,584,1,19,9,16,12,217,20,21,3,16,1,2,30,6,79,2,9,35,15,9,54,25,1,9,93,44,29,12,11,1,32,103,554,272,56,198,145,425,63,38,4
 Niger AES-aligned	5580
 Niger ARCEP-070920	998
 Niger Abdoul Farouk ADAMOU HAMIDOU Ministère	10708
@@ -1000,7 +1005,8 @@ Niger Safety Net Program. Nov	10963
 Niger Safety Net Program. Page	10964
 Niger Smart Villages for Rural Growth and Digital	3604,9727
 Niger Soumaila ABDOULKARIM Conseiller Technique du Ministre	10708
-Niger State	4794,5085
+Niger State	4794,5085,4515
+Niger State Contributory Health Agency	14394
 Niger StateAugust	9876
 Niger State’s Primary Healthcare Centres	4794
 Niger Telecom	3967
@@ -1033,11 +1039,13 @@ Niger-Population Tahoua Créez	9668
 Niger-Poste. L’élaboration	3305
 Niger. Algeria's Minister of Posts and Telecommunications	5585
 Niger. Annexe	998
+Niger. Aïr-Info Agadez	14242
 Niger. BFS	10259
 Niger. C'est	8227
 Niger. Ce	2514,4701,778,1294,55
 Niger. Cela	2801
 Niger. Cette	9287,55
+Niger. Durant	14243
 Niger. E-Mobility Niger	3395
 Niger. Elle	3989
 Niger. Elles	2514
@@ -1050,6 +1058,7 @@ Niger. L'entrepreneuriat	12128
 Niger. L'ouverture	3993
 Niger. L'étude	7293
 Niger. Les Sociétés	3259
+Niger. Lors	14239
 Niger. L’évènement	4657
 Niger. Mais	2514
 Niger. Matshepo Sehloho	2569
@@ -1062,8 +1071,10 @@ Niger. Soon	2569
 Niger. Sur	2514
 Niger. The West Africa Unique Identification	2778
 Niger. Une	2556
+NigerDigitalDay	14186
+NigerDigitalDay2026	14186
 Nigera	4623
-Nigeria	10,26,4,5,25,10,2,12,26,10,24,22,19,1,2,21,17,4,2,7,14,2,27,1,6,23,8,5,9,20,6,11,7,11,3,2,1,1,1,4,4,32,2,5,19,11,22,2,2,5,17,3,25,7,4,24,2,5,7,1,2,3,8,1,25,5,21,10,16,10,6,7,7,1,6,29,4,5,25,15,4,1,24,11,5,1,4,1,3,10,12,16,1,3,1,12,6,3,8,6,1,6,1,5,24,13,15,25,4,8,4,1,5,30,4,16,13,13,3,23,9,1,1,22,48,4,3,14,91,7,1,21,52,3,26,34,16,5,17,10,3,2,1,10,6,11,10,57,1,41,6,5,105,7,2,6,4,1,23,35,43,3,15,33,3,17,76,29,53,1,13,49,5,9,11,4,6,16,8,3,4,1,2,6,1,9,7,8,6,5,10,8,8,4,5,8,1,9,8,4,3,20,6,4,18,2,12,2,1,4,6,49,8,2,2,1,1,1,2,3,8,3,5,1,8,3,17,3,1,2,1,2,10,4,1,4,2,42,19,1,2,2,38,5,7,22,8,7,6,2,1,21,10,10,1,3,2,1,1,12,2,30,2,6,35,11,8,1,9,2,1,1,10,22,19,8,5,1,5,1,8,4,7,16,1,9,2,9,8,19,2,8,1,21,18,3,1,23,2,33,4,3,2,4,29,17,13,18,41,21,13,5,8,38,27,4,10,7,3,1,10,7,40,10,5,1,3,23,15,1,2,21,2,1,1,65,15,15,2,1,4,2,5,3,2,3,2,1,1,24,14,9,6,1,3,2,17,39,3,8,3,2,14,8,32,2,11,3,19,3,10,10,2,41,9,6,10,12,18,3,9,5,7,11,7,22,1,41,18,30,52,1,9,1,22,4,2,27,11,14,41,2,1,13,6,6,1,1,47,25,3,25,1,7,4,4,14,7,11,1,2,15,2,2,3,5,1,37,5,14,2,32,3,9,16,21,5,18,7,6,2,22,3,14,5,1,2,5,22,1,5,2,5,5,3,2,4,1,1,16,9,27,6,2,16,2,3,8,5,23,2,7,3,13,1,5,7,17,1,39,13,4,3,1,20,10,25,2,10,2,1,3,12,1,3,1,3,1,6,2,20,14,3,1,15,10,11,6,15,21,1,5,3,61,1,5,9,8,5,2,11,19,4,1,1,4,5,10,11,24,7,9,1,4,22,2,13,11,1,42,5,8,1,1,1,1,2,6,2,5,9,3,7,9,7,5,6,9,13,1,34,1,1,2,16,2,25,22,5,1,3,2,23,7,1,3,16,26,1,34,12,33,5,14,3,7,5,2,13,52,2,8,3,21,15,25,1,1,1,12,6,9,7,2,5,6,1,4,1,7,13,3,18,17,14,5,7,12,5,8,9,25,6,10,16,25,4,14,3,11,13,9,7,6,2,5,3,2,3,14,3,15,2,10,8,2,25,7,10,5,1,16,2,10,10,1,8,1,1,8,2,4,18,3,1,12,1,21,3,17,1,1,8,7,7,9,2,1,6,16,3,9,6,5,5,2,14,41,2,3,10,2,2,11,8,26,11,19,5,7,25,2,10,17,8,5,4,7,10,11,3,1,1,1,9,3,16,1,3,3,2,6,1,10,1,9,2,9,15,1,21,27,1,2,1,4,18,5,9,6,30,11,1,11,23,4,6,1,4,24,1,1,2,4,2,4,2,5,3,8,18,2,13,4,32,3,12,1,1,2,1,6,6,1,10,4,8,2,2,14,1,10,1,1,1,13,3,3,8,5,5,1,8,11,6,12,39,1,1,2,26,10,7,5,27,11,11,4,2,1,14,9,6,1,2,9,12,1,6,7,2,5,1,9,1,11,4,6,13,28,3,4,2,7,23,5,1,4,23,5,9,1,8,11,6,5,3,10,18,1,7,10,11,4,4,8,12,1,12,22,15,2,6,1,10,13,1,2,1,9,26,23,9,17,10,22,9,1,3,2,1,14,1,1,3,21,2,5,24,4,13,10,30,8,26,1,1,2,26,11,5,8,2,6,11,3,1,2,15,29,1,1,1,5,8,2,20,33,16,7,15,5,1,1,1,26,19,18,9,24,7,21,18,5,4,1,2,1,1,1,1,1,1,1,20,1,10,7,10,1,11,9,12,14,2,1,12,7,6,2,1,1,1,1,1,1,11,3,1,8,3,4,2,4,1,39,36,7,9,10,7,22,25,1,2,8,9,15,10,3,1,1,1,1,1,4,1,22,10,27,16,1,12,20,7,3,10,17,2,3,42,3,1,5,1,1,1,1,1,1,1,2,1,14,1,16,1,5,4,2,11,1,1,1,3,3,18,3,6,1,1,1,15,3,13,6,10,14,2,4,1,10,1,1,1,1,1,1,1,2,43,2,7,4,2,30,22,5,1,1,1,2,1,1,1,21,5,11,11,14,9,1,1,1,1,1,3,8,3,21,4,13,5,17,5,12,4,22,2,14,2,5,22,3,10,14,8,2,1,1,2,1,3,5,9,20,1,3,6,2,1,11,6,14,18,9,4,1,9,6,3,15,2,9,16,16,30,5,37,1,1,2,37,25,16,20,9,3,4,20,5,5,2,24,3,2,1,50,27,1,8,2,8,5,10,4,1,2,4,2,11,1,1,2,1,16,5,21,8,5,1,2,6,1,11,3,7,6,3,2,1,5,2,8,5,23,3,22,23,7,3,8,2,1,1,4,5,1,4,36,3,9,25,56,3,2,14,3,2,1,4,1,2,8,1,2,15,8,4,1,1,6,20,9,30,9,49,12,1,5,3,1,5,5,14,6,3,10,43,1,67,1,6,1,1,9,3,3,13,1,39,3,24,34,3,8,33,4,3,57,1,36,13,28,18,9,8,5,14,8,2,1,3,3,3,1,3,9,4,1,2,1,2,13,1,12,7,3,3,1,13,4,1,4,1,2,2,8,6,5,1,5,4,3,2,3,1,1,1,2,2,4,9,2,2,3,2,4,2,9,1,7,4,1,1,2,4,3,1,2,1,2,12,12,2,13,22,3,6,9,8,1,9,33,25,11,5,2,7,17,45,10,15,6,2,11,1,9,14,9,6,10,14,29,44,15,9,359,4,6,1,55,25,20,78,20,181,2,9,1,1,5,2,32,1,13,19,24,18,73,16,6,85,58,59,28,34,67
+Nigeria	10,26,4,5,25,10,2,12,26,10,24,22,19,1,2,21,17,4,2,7,14,2,27,1,6,23,8,5,9,20,6,11,7,11,3,2,1,1,1,4,4,32,2,5,19,11,22,2,2,5,17,3,25,7,4,24,2,5,7,1,2,3,8,1,25,5,21,10,16,10,6,7,7,1,6,29,4,5,25,15,4,1,24,11,5,1,4,1,3,10,12,16,1,3,1,12,6,3,8,6,1,6,1,5,24,13,15,25,4,8,4,1,5,30,4,16,13,13,3,23,9,1,1,22,48,4,3,14,91,7,1,21,52,3,26,34,16,5,17,10,3,2,1,10,6,11,10,57,1,41,6,5,105,7,2,6,4,1,23,35,43,3,15,33,3,17,76,29,53,1,13,49,5,9,11,4,6,16,8,3,4,1,2,6,1,9,7,8,6,5,10,8,8,4,5,8,1,9,8,4,3,20,6,4,18,2,12,2,1,4,6,49,8,2,2,1,1,1,2,3,8,3,5,1,8,3,17,3,1,2,1,2,10,4,1,4,2,42,19,1,2,2,38,5,7,22,8,7,6,2,1,21,10,10,1,3,2,1,1,12,2,30,2,6,35,11,8,1,9,2,1,1,10,22,19,8,5,1,5,1,8,4,7,16,1,9,2,9,8,19,2,8,1,21,18,3,1,23,2,33,4,3,2,4,29,17,13,18,41,21,13,5,8,38,27,4,10,7,3,1,10,7,40,10,5,1,3,23,15,1,2,21,2,1,1,65,15,15,2,1,4,2,5,3,2,3,2,1,1,24,14,9,6,1,3,2,17,39,3,8,3,2,14,8,32,2,11,3,19,3,10,10,2,41,9,6,10,12,18,3,9,5,7,11,7,22,1,41,18,30,52,1,9,1,22,4,2,27,11,14,41,2,1,13,6,6,1,1,47,25,3,25,1,7,4,4,14,7,11,1,2,15,2,2,3,5,1,37,5,14,2,32,3,9,16,21,5,18,7,6,2,22,3,14,5,1,2,5,22,1,5,2,5,5,3,2,4,1,1,16,9,27,6,2,16,2,3,8,5,23,2,7,3,13,1,5,7,17,1,39,13,4,3,1,20,10,25,2,10,2,1,3,12,1,3,1,3,1,6,2,20,14,3,1,15,10,11,6,15,21,1,5,3,61,1,5,9,8,5,2,11,19,4,1,1,4,5,10,11,24,7,9,1,4,22,2,13,11,1,42,5,8,1,1,1,1,2,6,2,5,9,3,7,9,7,5,6,9,13,1,34,1,1,2,16,2,25,22,5,1,3,2,23,7,1,3,16,26,1,34,12,33,5,14,3,7,5,2,13,52,2,8,3,21,15,25,1,1,1,12,6,9,7,2,5,6,1,4,1,7,13,3,18,17,14,5,7,12,5,8,9,25,6,10,16,25,4,14,3,11,13,9,7,6,2,5,3,2,3,14,3,15,2,10,8,2,25,7,10,5,1,16,2,10,10,1,8,1,1,8,2,4,18,3,1,12,1,21,3,17,1,1,8,7,7,9,2,1,6,16,3,9,6,5,5,2,14,41,2,3,10,2,2,11,8,26,11,19,5,7,25,2,10,17,8,5,4,7,10,11,3,1,1,1,9,3,16,1,3,3,2,6,1,10,1,9,2,9,15,1,21,27,1,2,1,4,18,5,9,6,30,11,1,11,23,4,6,1,4,24,1,1,2,4,2,4,2,5,3,8,18,2,13,4,32,3,12,1,1,2,1,6,6,1,10,4,8,2,2,14,1,10,1,1,1,13,3,3,8,5,5,1,8,11,6,12,39,1,1,2,26,10,7,5,27,11,11,4,2,1,14,9,6,1,2,9,12,1,6,7,2,5,1,9,1,11,4,6,13,28,3,4,2,7,23,5,1,4,23,5,9,1,8,11,6,5,3,10,18,1,7,10,11,4,4,8,12,1,12,22,15,2,6,1,10,13,1,2,1,9,26,23,9,17,10,22,9,1,3,2,1,14,1,1,3,21,2,5,24,4,13,10,30,8,26,1,1,2,26,11,5,8,2,6,11,3,1,2,15,29,1,1,1,5,8,2,20,33,16,7,15,5,1,1,1,26,19,18,9,24,7,21,18,5,4,1,2,1,1,1,1,1,1,1,20,1,10,7,10,1,11,9,12,14,2,1,12,7,6,2,1,1,1,1,1,1,11,3,1,8,3,4,2,4,1,39,36,7,9,10,7,22,25,1,2,8,9,15,10,3,1,1,1,1,1,4,1,22,10,27,16,1,12,20,7,3,10,17,2,3,42,3,1,5,1,1,1,1,1,1,1,2,1,14,1,16,1,5,4,2,11,1,1,1,3,3,18,3,6,1,1,1,15,3,13,6,10,14,2,4,1,10,1,1,1,1,1,1,1,2,43,2,7,4,2,30,22,5,1,1,1,2,1,1,1,21,5,11,11,14,9,1,1,1,1,1,3,8,3,21,4,13,5,17,5,12,4,22,2,14,2,5,22,3,10,14,8,2,1,1,2,1,3,5,9,20,1,3,6,2,1,11,6,14,18,9,4,1,9,6,3,15,2,9,16,16,30,5,37,1,1,2,37,25,16,20,9,3,4,20,5,5,2,24,3,2,1,50,27,1,8,2,8,5,10,4,1,2,4,2,11,1,1,2,1,16,5,21,8,5,1,2,6,1,11,3,7,6,3,2,1,5,2,8,5,23,3,22,23,7,3,8,2,1,1,4,5,1,4,36,3,9,25,56,3,2,14,3,2,1,4,1,2,8,1,2,15,8,4,1,1,6,20,9,30,9,49,12,1,5,3,1,5,5,14,6,3,10,43,1,67,1,6,1,1,9,3,3,13,1,39,3,24,34,3,8,33,4,3,57,1,36,13,28,18,9,8,5,14,8,2,1,3,3,3,1,3,9,4,1,2,1,2,13,1,12,7,3,3,1,13,4,1,4,1,2,2,8,6,5,1,5,4,3,2,3,1,1,1,2,2,4,9,2,2,3,2,4,2,9,1,7,4,1,1,2,4,3,1,2,1,2,12,12,2,13,22,3,6,9,8,1,9,33,25,11,5,2,7,17,45,10,15,6,2,11,1,9,14,9,6,10,14,29,44,15,9,359,4,6,1,55,25,20,78,20,181,2,9,1,1,5,2,32,1,13,19,24,18,73,16,6,85,58,59,28,34,67,189,90,5,13,78,1,9,13,21,92,23,11,1,3,9,9,8,2,2,3,7
 Nigeria A Xalam Analytics Country Report	4525
 Nigeria ADC	388
 Nigeria AI Collective	9117
@@ -1344,7 +1355,7 @@ Nigeria Signs Agreement	3054
 Nigeria Signs MoU	3743
 Nigeria Sovereign Fibre Project	4466
 Nigeria Sovereign Investment	11469
-Nigeria Sovereign Investment Authority	3054,1446,700,1176,204,5077
+Nigeria Sovereign Investment Authority	3054,1446,700,1176,204,5077,2724
 Nigeria Spectrum Roadmap	5245
 Nigeria Start-Up Act	8418
 Nigeria Start-up Act	8386
@@ -1406,7 +1417,7 @@ Nigeria and Equatorial Guinea Sign Landmark Subsea	5001
 Nigeria and Estonia	4807
 Nigeria and Ethiopia	6394,2,2708
 Nigeria and Finland	5518
-Nigeria and Ghana	265,777,1903,2027,1801,875,1204,883,142,863,53,29,12,287,882
+Nigeria and Ghana	265,777,1903,2027,1801,875,1204,883,142,863,53,29,12,287,882,2209
 Nigeria and Ghana. POTRAZ Director General	2987
 Nigeria and Ghana. Tizeti	265
 Nigeria and Guatemala	11004
@@ -1426,7 +1437,7 @@ Nigeria and Nigerians	473
 Nigeria and Portugal	3782
 Nigeria and Representative	5991
 Nigeria and Rwanda	4330,2307,994,451,3882,158
-Nigeria and Senegal	5242,1143,716,3760,874
+Nigeria and Senegal	5242,1143,716,3760,874,2444
 Nigeria and Senegal. Additional	10861
 Nigeria and Sierra Leone	7,5203
 Nigeria and Somalia	6024
@@ -1441,6 +1452,7 @@ Nigeria and South Korea. Oxford Internet Institute	9739
 Nigeria and Sub-Saharan Africa	908,7819
 Nigeria and Sub-Saharan Africa.18 Governments	11990
 Nigeria and Tanzania	771,6021,309
+Nigeria and Tanzania. About the Africa Ecosystem Catalysts	14233
 Nigeria and Togo	3255,4570,288,439,3315
 Nigeria and Uganda	5709,999,4032,53,211,960
 Nigeria and Uganda. Covers	404
@@ -1470,6 +1482,7 @@ Nigeria's CBN	4928,1707,1829
 Nigeria's CBN Data Localisation Directive	6814
 Nigeria's CDIAL AI	3859
 Nigeria's Central Bank	7519
+Nigeria's Chassis	14365
 Nigeria's Civil Registration and Vital Statistics	7632
 Nigeria's Commitments Under the Agreement	12026
 Nigeria's Competitive Position For Nigeria	10157
@@ -1593,6 +1606,7 @@ Nigeria. Angered	8849
 Nigeria. Anosike	11966
 Nigeria. Applicants	9670
 Nigeria. Arc. Sunny S.T. Echono Permanent	11860
+Nigeria. At the NBA’s Annual General Conference	14396
 Nigeria. Attendees	5991
 Nigeria. Authority	5665
 Nigeria. Available	3456
@@ -1628,6 +1642,7 @@ Nigeria. Excluding	10793
 Nigeria. Expert	3103
 Nigeria. Flutterwave	9150
 Nigeria. Following	8078,3231
+Nigeria. For Liquid	14219
 Nigeria. For Niger State	4794
 Nigeria. For The Gambia	10098
 Nigeria. Functions	12145
@@ -1723,6 +1738,7 @@ Nigeria. The Conference	11860
 Nigeria. The GAID	11993
 Nigeria. The Group	10793
 Nigeria. The IMF	9428
+Nigeria. The Marina	14372
 Nigeria. The Ministry	12061
 Nigeria. The NCC	2373,8794,826
 Nigeria. The NDPC	12232
@@ -1757,7 +1773,7 @@ Nigeria1's.2CoNmigpeeritait'sivCeoPmospietitoitnive Position	10157
 NigeriaDataProtectionRegulation11.pdf	3735
 NigeriaMRS	4301
 NigeriaToGhana	7854
-Nigerian	10,35,37,248,61,8,16,190,3,103,56,4,45,222,12,78,122,598,78,3,68,250,30,7,1,8,1,16,8,11,10,8,34,1,8,27,94,7,11,2,5,2,14,6,37,14,49,22,82,7,56,1,45,63,72,5,1,6,12,33,2,36,10,22,18,4,58,13,29,123,5,87,21,7,50,5,1,3,23,41,97,3,4,2,5,5,5,40,16,64,67,13,22,81,10,47,7,11,71,110,1,22,4,95,3,99,36,22,18,1,21,3,6,58,35,46,30,8,25,14,5,8,22,28,17,60,2,41,23,1,29,16,41,3,56,12,3,30,36,40,42,9,68,16,7,11,25,9,10,42,10,41,54,25,16,19,18,57,2,2,65,11,28,6,71,6,67,7,9,65,111,16,24,60,1,25,40,26,29,50,7,8,8,22,10,7,45,51,19,10,27,13,43,23,20,14,23,7,57,36,32,63,40,4,31,3,7,22,6,2,6,21,25,1,49,1,45,2,39,1,11,33,5,20,4,1,1,12,2,8,8,49,35,1,4,14,9,63,8,5,25,57,4,36,67,31,11,12,7,14,82,12,18,48,32,1,65,8,4,9,57,28,58,26,10,22,15,1,14,1,4,21,2,56,30,8,27,1,39,13,2,20,1,2,15,30,1,1,5,10,53,44,2,26,19,18,89,8,1,48,33,44,5,2,22,13,14,16,1,52,9,39,26,10,37,1,4,1,36,43,13,39,1,64,9,1,1,2,1,1,18,1,22,17,1,5,30,2,68,11,3,116,7,3,1,1,1,25,12,17,17,2,1,2,14,38,5,19,3,83,13,22,2,1,4,3,5,9,21,11,1,63,9,26,9,13,91,1,1,2,54,24,20,30,5,1,10,32,50,27,9,13,2,17,4,17,1,50,8,6,34,20,91,89,56,3,2,15,2,2,5,1,2,9,2,27,1,7,117,12,1,4,4,1,5,5,14,19,111,1,28,111,42,4,3,106,1,93,9,1,12,24,12,10,17,4,1,5,2,2,19,1,14,3,2,1,4,4,18,4,11,1,12,7,3,1,1,7,47,29,76,18,100,532,5,5,1,55,324,11,1,6,2,406
+Nigerian	10,35,37,248,61,8,16,190,3,103,56,4,45,222,12,78,122,598,78,3,68,250,30,7,1,8,1,16,8,11,10,8,34,1,8,27,94,7,11,2,5,2,14,6,37,14,49,22,82,7,56,1,45,63,72,5,1,6,12,33,2,36,10,22,18,4,58,13,29,123,5,87,21,7,50,5,1,3,23,41,97,3,4,2,5,5,5,40,16,64,67,13,22,81,10,47,7,11,71,110,1,22,4,95,3,99,36,22,18,1,21,3,6,58,35,46,30,8,25,14,5,8,22,28,17,60,2,41,23,1,29,16,41,3,56,12,3,30,36,40,42,9,68,16,7,11,25,9,10,42,10,41,54,25,16,19,18,57,2,2,65,11,28,6,71,6,67,7,9,65,111,16,24,60,1,25,40,26,29,50,7,8,8,22,10,7,45,51,19,10,27,13,43,23,20,14,23,7,57,36,32,63,40,4,31,3,7,22,6,2,6,21,25,1,49,1,45,2,39,1,11,33,5,20,4,1,1,12,2,8,8,49,35,1,4,14,9,63,8,5,25,57,4,36,67,31,11,12,7,14,82,12,18,48,32,1,65,8,4,9,57,28,58,26,10,22,15,1,14,1,4,21,2,56,30,8,27,1,39,13,2,20,1,2,15,30,1,1,5,10,53,44,2,26,19,18,89,8,1,48,33,44,5,2,22,13,14,16,1,52,9,39,26,10,37,1,4,1,36,43,13,39,1,64,9,1,1,2,1,1,18,1,22,17,1,5,30,2,68,11,3,116,7,3,1,1,1,25,12,17,17,2,1,2,14,38,5,19,3,83,13,22,2,1,4,3,5,9,21,11,1,63,9,26,9,13,91,1,1,2,54,24,20,30,5,1,10,32,50,27,9,13,2,17,4,17,1,50,8,6,34,20,91,89,56,3,2,15,2,2,5,1,2,9,2,27,1,7,117,12,1,4,4,1,5,5,14,19,111,1,28,111,42,4,3,106,1,93,9,1,12,24,12,10,17,4,1,5,2,2,19,1,14,3,2,1,4,4,18,4,11,1,12,7,3,1,1,7,47,29,76,18,100,532,5,5,1,55,324,11,1,6,2,406,502,170,13,9,8,2,2,3
 Nigerian AI	2417,4979,2179,164,1758
 Nigerian AI-governance	10270
 Nigerian Academy of Science	7187
@@ -1773,6 +1789,7 @@ Nigerian Autonomous Foreign Exchange Market	6408
 Nigerian B2B	1138
 Nigerian Banks	11975
 Nigerian Bar Association	8978,1071,1783
+Nigerian Bar Association’s Section	14396
 Nigerian Broadband	11857
 Nigerian Broadband Plan	11857
 Nigerian Building and Road Research Institute	6211
@@ -1882,6 +1899,7 @@ Nigerian Medical Association Germany	7895
 Nigerian Meteorological Agency	11966
 Nigerian Minister of Communications	2677
 Nigerian Minister of Foreign Affairs Yusuf Tuggar	5145
+Nigerian Minister of Mines and Steel Development	14134
 Nigerian Ministry of Foreign Affairs	5141
 Nigerian Naira	1929,51,2643,1435,2350,35,3533,24
 Nigerian National Addressing Standard	11129
@@ -1924,6 +1942,7 @@ Nigerian Project	11650
 Nigerian Railway Corporation NSCDC Nigeria Security	11857
 Nigerian Responsible AI Governance Framework	6442
 Nigerian Revenue Service	4629,2865
+Nigerian SME	14189
 Nigerian SMEs	1439,12248
 Nigerian SaaS	9574
 Nigerian Satellite Week	5623
@@ -1977,7 +1996,7 @@ Nigerian-trained	11163
 Nigerian. Key	11857
 Nigerian. The Government Service Portal	8980
 Nigerianeconomic	7219
-Nigerians	72,8,291,136,36,1138,604,33,63,1,15,20,169,4,2,17,153,47,17,15,30,135,6,6,12,33,150,170,73,24,1,29,28,16,26,42,81,22,73,64,8,61,114,57,7,11,171,10,125,40,224,35,109,14,8,5,30,10,36,101,177,30,22,14,3,37,6,172,71,4,37,178,121,155,222,198,14,45,145,19,62,78,23,7,263,3,29,3,138,106,25,1,2,6,4,36,13,53,1,27,63,200,2,42,12,1,6,14,159,34,73,13,57,24,1,3,27,105,14,1,1,111,36,40,21,15,48,16,97,153,2,1,2,1,1,3,60,67,1,1,1,113,132,38,28,112,20,4,6,3,20,1,75,21,49,14,1,1,121,2,1,78,3,55,48,30,5,22,13,24,4,109,4,10,26,76,103,82,26,56,27,19,3,96,43,200,56,3,19,7,3,9,2,28,137,4,10,28,121,1,7,10,21,147,60,1,36,12,1,90,3,22,24,43,1,7,21,16,7,6,24,10,11,1,10,6,64,15,731,5,1,399
+Nigerians	72,8,291,136,36,1138,604,33,63,1,15,20,169,4,2,17,153,47,17,15,30,135,6,6,12,33,150,170,73,24,1,29,28,16,26,42,81,22,73,64,8,61,114,57,7,11,171,10,125,40,224,35,109,14,8,5,30,10,36,101,177,30,22,14,3,37,6,172,71,4,37,178,121,155,222,198,14,45,145,19,62,78,23,7,263,3,29,3,138,106,25,1,2,6,4,36,13,53,1,27,63,200,2,42,12,1,6,14,159,34,73,13,57,24,1,3,27,105,14,1,1,111,36,40,21,15,48,16,97,153,2,1,2,1,1,3,60,67,1,1,1,113,132,38,28,112,20,4,6,3,20,1,75,21,49,14,1,1,121,2,1,78,3,55,48,30,5,22,13,24,4,109,4,10,26,76,103,82,26,56,27,19,3,96,43,200,56,3,19,7,3,9,2,28,137,4,10,28,121,1,7,10,21,147,60,1,36,12,1,90,3,22,24,43,1,7,21,16,7,6,24,10,11,1,10,6,64,15,731,5,1,399,1067
 Nigerians Benefited From NDHII. The Federal	7895
 Nigerians Increased	11854
 Nigerians N2m Legit.ng	8350
@@ -2035,7 +2054,7 @@ Nigeria’s Cybercrimes	5215
 Nigeria’s DPA	4583,2209
 Nigeria’s DPI	3735
 Nigeria’s Data Exchange Platform and Finnish	5518
-Nigeria’s Data Protection Act	7003
+Nigeria’s Data Protection Act	7003,7393
 Nigeria’s Data Protection Crisis	6770
 Nigeria’s Data Protection Regulation	5242
 Nigeria’s Data Protection Regulations	2462
@@ -2160,13 +2179,13 @@ Nighttime	13795
 Nigusie	12255
 Nigusse Bedada	12255
 NigussieZYZemichealNFTirunehGTBayouYTTekluGAKibretESet	12246
-Nigéria	1189,58,559,1010,229,443,39,512,2120,639,872,234,611,10,309,707,17,241,315,529,232,604,52,38
+Nigéria	1189,58,559,1010,229,443,39,512,2120,639,872,234,611,10,309,707,17,241,315,529,232,604,52,38,2743
 Nigérians	8984,1857,44
 Nigérien	3395,2699
 Nigérien. Qwiper	12128
-Nigérienne	5959
+Nigérienne	5959,8280
 Nigérienne du Net	2801
-Nigériens	2514,42,245,594,156,1823,1959,41,179,1031,2027,274,712,531
+Nigériens	2514,42,245,594,156,1823,1959,41,179,1031,2027,274,712,531,2111,4
 Nigériens Direct Go	12128
 Nigériens. Ainsi	7333
 Nigériens. Cela	12128
@@ -2226,6 +2245,7 @@ Pour le Nigeria	9847
 Power Nigeria’s Digital Economy Nigeria	3796,1205
 Power Project NISO Nigerian Independent System	12062
 Pre-2007 Nigeria	6699
+Premier Ministre Nigérien	14239
 Prepared for Nigeria's Public Sector	6442
 Presidency NIMC Emerges Nigeria’s Digital Signature	7371
 President Nigeria Internet Registration Association	6536
@@ -2237,6 +2257,7 @@ Private Investment. Nigeria	11469
 Private Network Nigerian National Broadband Plan	11857
 Prof. Philemon Zoo Zame. The Nigerian	9514
 Professional Women Accountants of Nigeria	11866
+Professor Nigussie Dechasa	14140
 Project. Remaining WBG-GP Nigeria	11469
 Projet Niger LIRE	11597
 Promotion Council Nigerian Electricity Regulatory Commission	10157
@@ -2249,6 +2270,7 @@ Quidax Nigeria	8265
 RECAP OF THE NIGERIAN COMMUNICATIONS LANDSCAPE	5245
 RECEIVE NIGERIA ACCESS BANK ACCESS CORONATION	11002
 REPORT OF THE NIGERIAN BAR ASSOCIATION	10049
+REPUBLIC OF NIGER	13996
 REPUBLIC OF NIGERIA FY26	11468
 REPUBLIC OF Nigeria PREAMBLE The United	4302
 REPUBLIQUE DU NIGER CABINET DU PREMIER	998
@@ -2284,7 +2306,7 @@ Rubrique Niger FPV	2556
 Rural Niger	10963,1
 Rwanda and Nigeria	6198,1545
 République Fédérale du Nigeria. Cette	8237
-République du Niger	1465,502,3203,1994,829,1294,55,4110
+République du Niger	1465,502,3203,1994,829,1294,55,4110,749,38
 République. Le Projet WURI Niger	7993
 Réservation CELTEL NIGER SA C	998
 Réservation CELTEL NIGER SA Décision	998
@@ -2331,7 +2353,7 @@ Shutterstock. DIGITAL SKILLS IN NIGERIA Contents	11879
 Sierra Leone and Nigeria	3378,5232
 Signs Nigeria	11886
 Simbanet Nigeria Ltd	3862
-Small and Medium Enterprises Development Agency of Nigeria	11309
+Small and Medium Enterprises Development Agency of Nigeria	11309,2890
 Smile Communications Nigeria Ltd	3862
 Société Nigérienne des Télécommunications	35,9531
 South Africa Nigeria Ghana SEA	10793
@@ -2501,6 +2523,7 @@ Yet Nigeria	8727
 Yet Nigerians	9400
 Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
 Yoruba and Nigerian-accented English	9261
+Yosef Nigussie	14052
 Young Africa Works Nigeria	507
 Young The Nigerian National Broadband Plan	11857
 Yuval Azulay Nigeria	12078

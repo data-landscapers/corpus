@@ -3,6 +3,7 @@ AI. Despite	8023,4187
 Abstract Despite	13774
 Accessible Despite	12092
 Accountability and Enforcement Remain Critical Gaps. Despite	6936
+Action Plan. Despite	13868
 Addressing Matters Despite	10983
 Advancing Gender Equity Despite	12175
 Africa Despite	11990
@@ -21,6 +22,7 @@ Best Practices Despite	13418
 Boost Employment for Nigerian Tech Talents Despite	2680
 Botswana Communications Regulatory Authority. Despite	3897
 Botswana Police Service. Despite	12626
+CEIRS. Despite	14190
 CENTRAL LOMAMI REPUBLIC OF Despite	11900
 CNPS. Despite	10980
 COMPONENT DESPATCH COMPONENTS POSTCODE	11129
@@ -40,11 +42,11 @@ Defence. Despite	3583
 Department. Despite	6152
 Despachantes Sou	12018
 Despachar	11435
-Despacho	167,1603,2787,489,5704,4,614,13,1,2,51,10,4,3,78,2,29,7,333
+Despacho	167,1603,2787,489,5704,4,614,13,1,2,51,10,4,3,78,2,29,7,333,2413
 Despacho Conjunto	4218,6531,633,134
 Despacho Inicial	11452
 Despacho Ministerial	11537
-Despacho Presidencial	2242,2314,1,49,35,2053,8,2177,1030,186,677,624,25,5,151
+Despacho Presidencial	2242,2314,1,49,35,2053,8,2177,1030,186,677,624,25,5,151,2737
 Despacho Presidencial Nº	1215
 Despacho da Entidade Concedente	11443
 Despacho de Pronúncia	549
@@ -55,7 +57,7 @@ Despesa	1339,1,1,1,739,2,1,5,1578,744,2,1,5,36,102,84,371,90,1089
 Despesas	167,1175,2247,78,551,2207,1456,2902,604,468,163,765,13
 Despesas de Funcionamento	4129
 Despesas de Recenseamento	11528
-Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,31,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57,85,5,1,1,2,7,10,1,12,1,1,1,2,1,1,1,5,1,38,7,13,2,7,24,12,32,4,35,34,58,27,24,66,124,8,63
+Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,31,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57,85,5,1,1,2,7,10,1,12,1,1,1,2,1,1,1,5,1,38,7,13,2,7,24,12,32,4,35,34,58,27,24,66,124,3,5,63,2,22,25,2,4,42,32,9,4,2,45,35,30,22,84,3,1
 Despite Access	12376
 Despite Africa	8263
 Despite Average	12214
@@ -95,6 +97,7 @@ Despite the DIS	8320
 Despite the DRC	11918
 Despite the Ebola	10302
 Despite the Employment Code Act	13566
+Despite the Eritrean	14008
 Despite the GRZ	1867
 Despite the Ghana Card	1367
 Despite the Government	11900
@@ -129,6 +132,7 @@ Elmi Islamic Educational Institute. Despite	3046
 Enduring Competitor Despite	11138
 Engenheiros Técnicos. Despacho Decreto Lei	11534
 Eswatini. Remaining Challenges Despite	13163
+Ethiopia. Despite	14123
 European Competitiveness and Technology Sovereignty Despite	11155
 Executive Summary Despite	11136
 Existing Challenges Despite	13418
@@ -163,6 +167,7 @@ Kilinda Hospital. Despite	13418
 Kwacha. Despite	4609
 LLDCs. Despite	10844
 Landlocked Developing Countries Affordability Despite	10844
+Laws Governing Electronic Monitoring Despite	14190
 Lesotho. Despite	12701
 Madagascar. Despite	6892
 Maisha Integrated Database.126 Despite	12227
@@ -183,11 +188,13 @@ NEMISA. Despite	11230
 NSS. Despite	13386
 National ICT Policy Despite	13346
 National Identity Cards. Despite Airtel Malawi	12978
+National Strategy for Teacher Education. Despite	14057
 Need Despite	8183
 Network Management Standards. Despite	12453,892
 Nigeria and South Africa. Despite	6139
 Nigeria. Despite	4962
-O Despacho Presidencial	4641
+O Despacho Presidencial	4641,9559
+OEC. Despite Africa	14389
 OUTRAS DESP. CORRENTES-ORGÃOS EXTERNOS	1338,4,738
 Objectives Despite	12229
 Obrigações Operacionais Desproporcionais	11436
@@ -200,6 +207,7 @@ Quadro de Despesa de Médio Prazo	10783
 Quadro de Despesas de Médio Prazo	10783
 RECTIFICATION OF CIVIL STATUS RECORDS Despite	12338
 Reference Implementations Despite	21
+SMEs. Despite	13938
 SOCIAL PROTECTION COVERAGE Despite	11998
 STRATEGY Despite	11131
 Saharan Africa. Despite	12399

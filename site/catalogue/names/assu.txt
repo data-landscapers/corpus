@@ -33,18 +33,20 @@ Assuch	8602
 Assume	958,8155,1608,2574,25
 Assume-se	10777
 Assumed	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,237,154,1,1,1,1,2,1,691,7772
+Assumes	13868
 Assuming	1828,7219,1213,556,324,385,60,270,69,293,1097
 Assuming the Council’s Chairpersonship	7142
 Assumir	4218,7166,517
 Assumiu-se	11569
 Assumption	7845,14,3317,687,803,835,158
-Assumptions	2775,939,1819,58,6395,189,742,120
+Assumptions	2775,939,1819,58,6395,189,742,120,901,52
 Assumptions All	11986
 Assumptions Availability	11986
 Assumptions CCSS	11986
 Assumptions DHA	11986
 Assumptions NA Disaggregation	11986
 Assumptions Network	11986
+Assumptions Promote	13938
 Assumptions Q1	11986
 Assumptions Q2	11986
 Assumptions Q3	11986
@@ -81,7 +83,7 @@ Assurance Internal Audit Activities	11134
 Assurance Islamique	4402
 Assurance Lab National Blood	4153
 Assurance Levels	7008
-Assurance Maladie	643,5486,3706,3935
+Assurance Maladie	643,5486,3706,3935,520
 Assurance Maladie Généralisée	1961
 Assurance Maladie Généralisée. Pour	13717
 Assurance Maladie Obligatoire	8891
@@ -179,6 +181,7 @@ Enterprise Design Quality Assurance and Results Division	10550
 Environnemental Assurer	8891
 Establish Information Security Assurance	1000
 Evaluation and Quality Assurance	11791
+Evolution of Selected Macroeconomic Assumptions	13868
 Example Levels of Assurance	10765,10
 Federation Assurance Level	10775
 Fees and Assumptions	11240
@@ -216,6 +219,7 @@ Management Approach Material Matters Assurance Finance	11131
 Manager for Information System Quality Assurance	7155
 Minimum Assurance Level	3787
 Mission Assurer	13375
+Monitoring and Quality Assurance	13960
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
 NITDA Launches National Software Quality Assurance	8439
 NITDA's National Software Quality Assurance Framework	5665

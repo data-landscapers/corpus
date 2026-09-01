@@ -1,4 +1,5 @@
 A. Disclosure	7845
+A. RIGHT TO EDUCATION Discrimination	14073
 A2 DISCOTECAS	4209
 ACCOUNTING AND DISCLOSURE	3714
 ACCOUNTING AND DISCLOSURE Accounting	3714
@@ -8,6 +9,7 @@ AI Discovery	7005
 AI. Disclosing	8460
 AI. Discovery	6232
 AI. Discussions	8043
+AM Panel Discussion	14054
 ANNUAL REPORT Disclaimer	13166
 ASSOCIATION Public Disclosure Authorized PROJECT APPRAISAL	10964,2367
 Academic City University. Disclaimer	6936
@@ -28,6 +30,7 @@ Authorized Public Disclosure Authorized Public Disclosure	11560,973,781
 Authorized Public Disclosure Authorized Regional Vice	4653
 Auto Discovery	11209
 B. Disclosure and Compliance Monitoring	11863
+B. Disclosure and Compliance Monitoring B.1	13938
 B. Discover	7015
 B2- Disclosure	7548
 BANK'S OWN AI DISCLOSURE	9025
@@ -87,7 +90,7 @@ DISCIPLINE DES ENFANTS	13300
 DISCIPLINE DES ENFANTS DE LA BOîTE	13300
 DISCIPLINE DES ENFANTS Méthodes	13300
 DISCIPLINE DES ENFANTS NO. QUESTIONS ET	13300
-DISCLAIMER	4214,3483,1,1,667,1594,1368,4,762,854
+DISCLAIMER	4214,3483,1,1,667,1594,1368,4,762,854,1014
 DISCLAIMER AVCA	4972
 DISCLAIMER Unofficial Hansard THE NATIONAL ASSEMBLY	12607
 DISCLAIMER While the System Operator	11228
@@ -142,9 +145,9 @@ Discharging	8603,3842
 Disciples of Mercy School	10313
 Disciplina	10760,17,602
 Disciplina de Tecnologia	11555
-Disciplinary	5147,386,1844,3847,26,736,1301
+Disciplinary	5147,386,1844,3847,26,736,1301,677
 Disciplinary Action	11218
-Disciplinary Committee	11986
+Disciplinary Committee	11986,1978
 Disciplinary Enquiries	11134
 Disciplinary Hearings	11218
 Disciplinary Proceedings	12976
@@ -156,7 +159,7 @@ Discipline	3941,228,448,1772,2093,2412,2,1,1,5,1,1,1,7,62,1997,315,13
 Discipline Budgétaire	8750,3155
 Discipline This Demands	10078
 Disciplined Practice	11658
-Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309
+Disclaimer	2093,683,172,103,1163,218,464,351,753,671,266,558,264,263,648,458,75,34,898,178,102,236,190,418,41,49,204,453,132,67,139,35,27,91,220,62,641,309,268
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Disclaimer APPENDICES Appendix	5247
 Disclaimer All	8376,3870
@@ -189,7 +192,7 @@ Disclosed Last Updated	12622,121
 Disclosed Not Disclosed	4972
 Disclosed Terms	12622
 Disclosing	3,7365,3777,1087,1300
-Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,1555,2030,48,1,8,19,387,193,72,115,277,136,70,71,5,13,96,1,1,15,5,233,2,8,7,3,9,31,94,18,240,28,13,19,97,98
+Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,1555,2030,48,1,8,19,387,193,72,115,277,136,70,71,5,13,96,1,1,15,5,233,2,8,7,3,9,31,94,18,240,28,13,19,97,98,388,439
 Disclosure Authorized Public Private Partnership Commission	12253
 Disclosure Form	13185
 Disclosure Query Resolution	11250
@@ -255,12 +258,12 @@ Discovery	1009,5423,66,432,75,50,2684,1492
 Discovery Alert	5247
 Discovery Bank	5533,58,1662,31
 Discovery Engine	6498
-Discovery Health	7167
+Discovery Health	7167,7199
 Discovery Ltd and Others	961
 Discovery of Grounded Theory	5349
 Discovery of Grounded Theory. Strategies	5349
 Discrepancies	11585,597
-Discrepancy	2775
+Discrepancy	2775,11231
 Discrepancy2	2775
 Discrepâncias	11901
 Discrete	5237,1013
@@ -270,7 +273,7 @@ Discretion	11797,572
 Discretionary	4439
 Discretionary Industrials Real Estate Communication Services	4972
 Discriminant	9129
-Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1,135,403,48,451,52
+Discrimination	1940,367,501,150,4001,3800,67,9,2,1,130,902,16,1,1,1,67,196,1,1,9,90,87,1,11,1,135,403,48,451,52,631
 Discrimination Against Persons	12038
 Discrimination Against Women	3583
 Discrimination Against Women and Girls CRS Creditor	970
@@ -311,7 +314,7 @@ Discussion Questions	11909
 Discussion Technological	7278
 Discussion and Implications	7966
 Discussion and Recommendations	4439
-Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,104
+Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33,194,113,37,94,59,267,223,59,1,34,66,102,15,286,9,143,56,74,129,76,28,42,196,5,68,42,2,16,128
 Discussões	2816
 Discuter	13783
 Discutir	12021
@@ -350,6 +353,7 @@ Formas de Práticas Disciplinares	10777
 Format of Disclosure	11198
 Forms of Discrimination	1988
 Fourteen Focus Group Discussions	12946
+GIZ. Discussions	14178
 GSS Discours	13689
 Geographical Discrimination	226
 Giga. Disclosed	403
@@ -441,6 +445,7 @@ North and Central Africa. Discussions	2627
 Não Discriminação	11430,1
 OBJECTIVE Public Disclosure Authorized	11971,257,39,173
 Obrigação de Não Discriminação	11519
+Online Discussions	14224
 Open Discussion	9858
 Open Science. Disclaimer	8130
 Own Device CD Compact Disc	34
@@ -448,6 +453,10 @@ P505095 Public Disclosure Authorized UPDATED ENVIRONMENTAL	12253
 PARIS21 Discussion Paper	7213
 PARTIALLY DISCLOSED	12339
 PIDA32489 Public Disclosure Authorized Nov	10963
+PM Panel Discussion	14054
+POLICY DISCUSSIONS	13868
+POLICY DISCUSSIONS Amid	13868
+PRESSURE MOUNTS ON MASSAQUOI TO DISCLOSE	14354
 PROACTIVE DISCLOSURE OBLIGATIONS	13484
 PROCESS AT ITS SOLE DISCRETION	12400
 PROJECT DEVELOPMENT OBJECTIVE Public Disclosure Authorized	10870

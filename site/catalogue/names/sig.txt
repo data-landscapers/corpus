@@ -112,6 +112,7 @@ Congo Signs Agreement	2398
 Congo’s SIGAJ	10990
 Contract Signing	9409,2980
 Contract Signing Electronically	12389
+Council of Ministers. The Electronic Signature	14051
 Counter Corruption and Security Services Signature	5533,6453
 Country Signing Certificate Authorities	7370,191
 Country Signing Certificate Authority COVID19 Coronavirus	13005
@@ -144,11 +145,13 @@ Digital Signature	12359,5
 Digital Signature Platform	10785
 Digital Signature Platform I-42	10785
 Digital Signature RISA RISA RISA Digital	12359
+Digital Signature Service	14185
 Digitally Signed Biometric QR Code	13095
 Digitally Signed Biometric QR Verification	13214
 Digitally Signed Biometric QR Verification for Secure	13214
 Digitally Signed QR Code	12291,789,15
 Digitally Signed QR Code IDs and Birth	12241
+Digitals SARL. Signaler	14163
 Director Sign	9855
 Djibouti Signs MoU	3613
 Djibouti Signs With Visa	3605
@@ -173,6 +176,7 @@ Early Warning Signal Against	5550
 Economic Planning of Rwanda Signed Framework Agreement	791
 Education Completion Warning Signs Business	11870
 El SIGFE	1701
+Electronic Signature	14051
 Electronic Signature A Sound	12453,892
 Electronic Signature Regulations	13073
 Electronic Signatures	1163,1243,3465,6518,593
@@ -182,6 +186,7 @@ Email Signature of Complainant	1778
 Enhancing the SIGTP	11862
 Enugu Sign Deal	9117
 Equatorial Guinea Signs the Malabo Convention	8192
+Erlend Sigvaldsen	13957
 Ernest Sigande	13415
 Ethiopia Signs Up	7474
 Europe. Signing	8125
@@ -317,7 +322,7 @@ Naaba Sigri	12068
 Name Designation Comment Signature Date	12364
 Name Designation Comment Signature Date and Time	12364
 Name Signature	12364
-Name Signature Date Environmental Safeguards Officer	11863
+Name Signature Date Environmental Safeguards Officer	11863,2075
 Name Signature Date Time BOZ ZIPSS	12364
 Name Signature Mr Godfrey Gomwe	4896
 Name and Title of Signatory	13037,148
@@ -537,7 +542,7 @@ SIGRH	3064,9047,1171
 SIGRHEP	8009,218,358
 SIGRHEP Par ONEP NE	8227
 SIGSANTE	10928
-SIGTAS	7502,3048,162,1788,814,554
+SIGTAS	7502,3048,162,1788,814
 SIGTAS Système Intégré de Gestion des Taxes	10712
 SIGTAS Tax	13314
 SIGTAS and TAS	10550
@@ -622,11 +627,11 @@ Signatories Verbatim	6849
 Signatory Organizations	11079
 Signatory Tech Review Africa	6897
 Signatur	8546
-Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49,58,4,10,26,10,264,19,224,114,6,148,116,40,40,9,43,91,119,76
+Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49,58,4,10,26,10,264,19,224,114,6,148,116,40,40,9,43,91,119,76,276
 Signature B. Informations	13390
 Signature By Destiny D. Jabula	6968
 Signature C. Informations	13390
-Signature Date	1770,144,11842
+Signature Date	1770,144,11842,239
 Signature Date. Description Schedule	13331
 Signature Division Director	13756
 Signature Düment	13524
@@ -658,7 +663,7 @@ Signatário. CLÁUSULA	11455
 Signatários	11455
 Signe	3024,7852
 Signe le B	10876
-Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34,143,36,178,151,197,5,4,3,17,118,148,207
+Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34,143,36,178,151,197,5,4,3,17,118,148,207,636,104,255,18
 Signed Bid Submission Form	13031
 Signed CVs	11252
 Signed CoC	12253
@@ -681,10 +686,10 @@ Signet Unified Login Portal	8175
 SigniFlow. Simplify	2284,13,97,3,65,10,86,28,4,209,10,16,25,134,79,190,7,70,41,80,30,76,30,47,9,16,38,19,16,322,19,14,524,10,7,509,12,171,64,5,22,3,94,10,19,294,222,54,54,23,322,60,26,6,125,80,6,91,102,189,9,1,69,2,1,107,3
 Signicat	6344,767
 Significa	1948,8603,1467
-Significance	2113,835,4938,135,1,5396
+Significance	2113,835,4938,135,1,5396,573
 Significance Rating of Project Impacts Assessment	12253
 Significance of Big Data	9128
-Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,27,8,170,89,109,92,304,48,27,15,28,295,183,84,19
+Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,27,8,170,89,109,92,304,48,27,15,28,295,183,84,19,164,92,138
 Significant Corporate Events	7198
 Significant Cyber	5242
 Significant Economic Presence	961,2200,5303,3402
@@ -695,7 +700,7 @@ Significant Is Sub-Saharan Africa’s Demographic	6948
 Significant Issues	12971
 Significant Market Player	6834,1191
 Significant Market Players	11857
-Significant Market Power	7368,657
+Significant Market Power	7368,657,5985
 Significant Progress	11005
 Significant Remarks	12370
 Significant Social Media Intermediaries	9208
@@ -749,6 +754,7 @@ Sigwe	12977,146
 Sigwe MP David	13013
 Similar Signals	10954
 Single Authentication and Digital Signature	11869
+Single Sign	13987
 Single Sign On Login	11939
 Single Sign- On RISA RISA RISA	12359
 Single Sign-On	5140,3831,2260,641,487,30,653
@@ -763,6 +769,7 @@ South African Sign Language	9767
 South African Sign Language Curriculum Learning	11220,21
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
 Stakeholders Integração de SIG	11898
+State of Eritrea Signed the Belt and Road Initiative	13983
 Statistician-General of South Africa Official Sign-Off	11237
 Stay Informed Sign	6932
 Strategic Cooperation MoU Signing Ceremony	13782

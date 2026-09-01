@@ -12,6 +12,7 @@ African Centres for Disease Control and Prevention	9969
 Africa’s Center for Disease Control In Burundi	10865
 Agricultural Inputs Programme CDC Centre for Disease	13080
 Animal Disease Act	11188
+Animal Disease Notification Information System	14002
 Animal Disease Notification and Investigation System	8183
 Animal Disease Surveillance Dashboard	7236
 Antiretroviral Therapy CDC Centers for Disease Control	12379
@@ -69,8 +70,9 @@ Disease N	12151
 Disease Outbreak	8183
 Disease Outbreak Module	4153
 Disease Outbreak Surveillance System I	4260
+Disease Outbreak and Vaccination Reporting System	14002
 Disease Prevention	1988
-Disease Prevention and Control	12246,920
+Disease Prevention and Control	12246,920,867
 Disease Surveillance Systems Enhancement Project RIP	11380
 Disease The Borrower	1988
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
@@ -113,6 +115,7 @@ Heart Diseases	12151
 Immediately Notifiable Diseases	11912
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Implementing Real-time Disease Surveillance	11912
+Infection Disease Specialists	14094
 Infections Heart Diseases	12151
 Infections Infections Diseases	12151
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
@@ -159,6 +162,7 @@ Outpatient Diseases	2775
 Partners Centre for Disease Control	12291
 Percentage of Immediately Notifiable Diseases Entered	11912
 Plan for Neglected Tropical Diseases	10780
+Prevention and Control of Neglected Tropical Diseases	14033
 Programme CDC Centre for Disease Control CDO	13095
 Proyecto de Diseño Curricular	4209
 Rare Disease Cures Accelerator	10188

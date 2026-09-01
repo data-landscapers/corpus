@@ -179,6 +179,7 @@ Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Computational Intelligence	8022,4999
 Computational Logic	11336
 Computational Physics	13078
+Computational Resource	14004
 Computational Resources	12356,319
 Computational Resources Provide	12675
 Computational Sovereignty Zimbabwe National AI Adoption	12512
@@ -215,8 +216,10 @@ Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
 Computed	11907,1016,426
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319,288,9
 Computer Aided Personal Interview	12409
+Computer Application	13972
+Computer Application Technology	14147
 Computer Applications	10001
 Computer Assisted Mass Appraisal	13418
 Computer Assisted Personal Interview	582,3462,6733,669,131
@@ -243,7 +246,7 @@ Computer Crime and Cyber Crime Act	1642
 Computer Crime and Cyber Security Act	1535
 Computer Crime and Cyber Security Bill	1200,335
 Computer Crime and Cybercrime	26,12369
-Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31,502
+Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31,502,1329
 Computer Crime and Cybercrime Draft Regulations	12395
 Computer Crime and Cybersecurity Bill	1535,7165,3975
 Computer Crime and Cybersecurity Bill7	12675
@@ -253,19 +256,20 @@ Computer Donations	7394
 Computer Education Projects	11134
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
 Computer Emergency Response Teams	395,5137,145,5087,147,2969
 Computer Engineer	12693
 Computer Engineering	11862,831
+Computer Hardware and Networking Technology	14147
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58
 Computer Incident Response Teams	11920
 Computer Information Systems	4896,419,8053
 Computer Lab	12971
-Computer Laboratory	1246
+Computer Laboratory	1246,12929
 Computer Law	1243,6779,754,461
 Computer Literacy	21
 Computer Misuse	3983,2966,2196,3087
@@ -287,7 +291,7 @@ Computer Programmers	13361
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12,817
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Education	13078
@@ -297,6 +301,7 @@ Computer Science Review	8603,2
 Computer Science Systems	6832
 Computer Science and BSc	12361
 Computer Science and Data Processing	6832
+Computer Science and Engineering	14147
 Computer Science and Informatics	6832
 Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Technology	9128
@@ -319,7 +324,7 @@ Computer Supported Cooperative Work	226,1870,9994
 Computer Systems Engineering	6832
 Computer Systems Organization	8605
 Computer Systems and Cyber Security	10227
-Computer Technology	10001
+Computer Technology	10001,4147
 Computer Vision	2816,9696
 Computer Vision Robotic Process Automation	4528
 Computer Weekly and Submarine Networks	1991
@@ -329,7 +334,7 @@ Computer-	26,8275
 Computer-Aided Detection	12678
 Computer-Aided Diagnosis	12678
 Computer-Aided Mass Valuation	12369
-Computer-Assisted Personal Interviewing	6106,4179,2118,897
+Computer-Assisted Personal Interviewing	6106,4179,2118,897,821
 Computer-Assisted Personal Interviews	10757
 Computer-assisted Personal Interview	11192
 Computer-assisted Telephone Interview	11192
@@ -403,7 +408,7 @@ DEFINITION OF CLOUD COMPUTING	11196
 DEFINITION OF CLOUD COMPUTING The National	11196
 Datasets and Computing Platforms for AI Development	1814
 Department Bachelor of Computer Science Bachelor of Software	12407
-Department of Computer Science	766,4647,3191,1779,953,919,106,660
+Department of Computer Science	766,4647,3191,1779,953,919,106,660,1332
 Department of Computer Science Home Programmes BSc	12361
 Department of Computer Science and Information Technology	10323
 Department of Computing	13237
@@ -488,6 +493,7 @@ Green Computing	7715,4646
 Guérin CAPI Computer Assisted Personal Interview	13300
 H Mistral Diginetica Multiverse Computing	8530
 HAG Personal Computers Traitement	10821
+Hardware Computer Engineering	14148
 Hariri Institute for Computing	11135
 High Performance Computer	5847,5344
 High Performance Computers	1814
@@ -519,6 +525,7 @@ Institute for Quantum Computing	9698
 Institute of Computing	7906,933
 Integrated Accounting Computerized Network	3604
 Interim Lesotho National Computer Security Incident	8230
+International Computer Driver's License	14010
 International Computer Driving License	10865
 International Journal of Computer Applications	9128
 International Journal of Computer Networks and Applications	7278
@@ -723,7 +730,7 @@ Utilização de Recursos Computacionais	3519
 Valuation and Computation of Taxable Gains Taxable	8590
 Visão Computacional	2816
 Western Computing	5242
-Wingu Compute	5629,296
+Wingu Compute	5629,296,8175
 YEARS COMPULSORY BRIEFING	11240
 Yes. The Computer Misuse Act	12232
 Yes. The Cybercrime and Computer Related Crimes	12232

@@ -18,7 +18,7 @@ Delegado Gobierno	4209
 Delegado de Gobierno	4209
 Delegado de Gobierno Adjunto	4209
 EAC East African Community GoB Government	1284
-El Gobierno	1701,6452,219,693,3010
+El Gobierno	1701,6452,219,693,3010,2190
 Estado Delegado Adjunto Gobierno	4209
 Estado Delegado Regional Inspector Regional Gobernador	4209
 GOBABIS	8413
@@ -41,7 +41,7 @@ Gobernador Provincial	4209
 Gobernador Provincial Secretario Administrativo	4209
 Gobernanza	4209
 Gobernanza Muy	1701
-Gobierno	163,595,217,726,154,2354,2089,802,948,324,6,176,511,237,1,15,2,204,2551,443
+Gobierno	163,595,217,726,154,2354,2089,802,948,324,6,176,511,237,1,15,2,204,2551,443,1663,84,39
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
 Gobierno Administrador General de Palacio Asesor S.E	4209
 Gobierno Canciller Secretario General Secretario General	4209
@@ -63,7 +63,7 @@ Gobierno Secretario General Ministerio Fiscal Audiencia	4209
 Gobierno Servicio	4209
 Gobierno Vice-Presidente Primero	4209
 Gobierno de Guinea Ecuatorial	7100,983,3589,846
-Gobierno de Guinea Ecuatorial Oficina de Información	9065
+Gobierno de Guinea Ecuatorial Oficina de Información	9065,5116
 Gobierno de Malabo	9065
 Gobierno. Ante	11672
 Gobierno. Asimismo	8378
@@ -77,6 +77,7 @@ INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
 Issa Goba Roukiyat	13774
 Junta de Gobierno	11633
 Juzgado de Instrucción Delegado de Gobierno Jefe de Prensa	4209
+La G de Guinea El Gobierno	14265
 Mahamba Gorge and Gobolondlo	12977
 Molly Weyulu GOBABIS	9666
 N. Goburdhan	3782

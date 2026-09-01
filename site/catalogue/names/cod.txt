@@ -1,5 +1,6 @@
 A' CODE	13300
 A-H UN CODE A-H UN CODE	13300
+ABC Journey. Draft Acts and Codes	14072
 AI Code of Practice	7548
 AICT100 Code	11235
 AICT102 Code	11235
@@ -64,6 +65,7 @@ Biseau Codel	11544
 Bissau Codex	11518,1,8
 Blantyre ZIP Code	13185
 Board’s Health Safety Code	9855
+Body Code of Practice for Official Statistics	13993
 Body Criminal Procedure Code	13564
 Body Postal Codes	13081
 Branch Code	12364,36
@@ -155,7 +157,7 @@ Chief Code	13239
 Chief Codes	13239
 Chief Codes. Dlamini	13239
 Chipboard Price Code	13385
-Civil Code	27,1833,10286,15,32,8,25,68
+Civil Code	27,1833,10286,15,32,8,25,68,1691,23
 Civil Code. MINALOC	12413
 Civil Procedural Code	12161
 Civil Processual Code	12201
@@ -163,6 +165,7 @@ Civil Registration Code	10765,10,1392
 Civil Registration Code of Mozambique	12167
 Civil Registration Code. ST	10775
 Civil Registration Code.23 This Legislation	10765
+Civil and Penal Codes	14008,141,1
 Claude Code	5286,132,1564,2626
 Claude and Claude Code	5418
 Claude and Claude Code. Along	5048
@@ -215,7 +218,7 @@ Code Penal	13292
 Code Pénal	743,488,10349,2297
 Code Pénal. Article	1231
 Code Pénal. Cette	743
-Code QR	5471,5682
+Code QR	5471,5682,3169
 Code Region	12151
 Code Review Continuo N	11952
 Code SO System Operator SSEG Small-Scale	11228
@@ -266,11 +269,14 @@ Code of Conduct. Sensitize	12253
 Code of Corporate Governance for Issuers of Securities	7204
 Code of Criminal Procedure	11900,1413
 Code of Criminal Procedure. Under	13313
+Code of Eritrea	13985
 Code of Ethics	11131,3,821,545
 Code of Ethics for Accountants and Auditors	11955
 Code of Ethics for Print	10735,2132,1,1
 Code of GBV	1988
+Code of Good Governance	13868
 Code of Good Practice	5533,6453,909
+Code of Good SOE Governance	13868
 Code of Governance for Corporations Act	6946
 Code of Internet Practice	6748
 Code of Penal Procedures of Burundi	13313
@@ -279,6 +285,7 @@ Code of Practice	8529,1,1078,313,2754,224,3
 Code of Practice MS	12253
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
+Code of Practice for Official Statistics	13993
 Code of Public Procurement	11525
 Code of USAC Committee Meetings Ethics and Conduct	6946
 Code the Future	3527,26
@@ -291,6 +298,7 @@ Code. ARTICLE	13809
 Code. Although the Authority	6946
 Code. Article	4420
 Code. Désormais	3267
+Code. Second	13963
 Code.ai	3527
 CodeForAfrica	6055
 CodeGrogu	12478
@@ -305,7 +313,7 @@ Coder	12478
 Coders Eswatini	4866,2821,4776,660
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740
 Codes Add	8603
 Codes MFP Mutuelle	13306
 Codes NSPC National Signalling Point Codes	6946
@@ -354,6 +362,10 @@ Coding4Girls	2989,1664
 Codinger	7053
 Color Code Exceptional Performance Moderate Performance	13053
 Combined Ref. Code	11180
+Commercial Code	13967,41,16,194
+Commercial Code and Payment Systems and Digital Finance	14072
+Commercial Code of Ethiopia	13967,1
+Commercial Code of Liberia	14206
 Community Health Worker CoD	12338
 Competition Law Code of Conduct	3513
 Complétant le Code de Commerce	4567
@@ -365,6 +377,7 @@ Content Services Using Short Code Numbers	3862
 Contenu Code des Marchés Publics du Bénin Référence	10876
 Contract Administration Price Code	13385
 Contractor's Code of Conduct	12253
+Contractor's ESMP and Code of Conduct	14010
 Contractors Code of Conduct	12253
 Control and Prevention CoD Cause of Death CRDP	12151
 Copyright Code	11550
@@ -377,7 +390,7 @@ Criminal Law Code	972,8279,4060
 Criminal Law Codification and Reform Amendment Act	6951
 Criminal Procedure Code	10979,2424
 Criminal Procedure Code Law	11857
-Criminal Procedure and Evidence Code	12174
+Criminal Procedure and Evidence Code	12174,1838
 Customs Code	13624
 Customs Harmonised System Codes	13108
 Customs Procedure Code	13122
@@ -423,6 +436,7 @@ Draft Code of Practice for Lifts Inside Wind	1009
 Draft Electoral Code of Conduct	6907
 Draft Information Technology Artificial Intelligence Code	12210
 Dématérialisation En Code	10975
+ELECTION'S CODE OF CONDUCT PROCLAMATION	13973
 ELECTORAL CODE OF CONDUCT ON COUNTERING	6907
 ENCERCLEZ CODE Y. SYMPTÔMES CI- SYMPTÔMES	13300
 ENCERCLEZ LE CODE APPROPRIÉ	13300
@@ -436,6 +450,7 @@ ENCERCLÉS CODE ENCERCLÉS CODE ENCERCLÉ ENCERCLÉ	13300
 ENCOURAGE LOCAL PRODUCTION HS Code Description	13122
 ENREGISTREZ LE CODE DU RÉSULTAT	13300
 ENREGISTREZ LE CODE RÉSULTAT MÉDICAMENT DONN	13300
+EPLF Civil Code	13979
 ET FILTRES CODES ALLEZ	13300
 ET FILTRES CODES PASSER	13300
 EU Code of Practice	11050
@@ -460,6 +475,7 @@ Ethical Code	3861
 Ethics Code	11131,3
 Ethics Code and Ethics Policies	11131,3
 Ethiopia Code Indicator	12205
+Ethiopian Codes	14008
 European Code of Conduct for Energy Efficiency	7489
 European Electronic Communications Code	13512
 Event CPD Code	13381
@@ -583,6 +599,7 @@ Leading COD	12413
 Legacy Code	11952
 Lei da Codificação	11409
 Leon CodeZilla Matota	12478
+Liberia’s Commercial Code	14274
 Life Safety and Fire Safety Codes	1988
 Livre III du Code	11932
 Location Code	12364
@@ -603,7 +620,7 @@ Million Coders	4766,4001,1483
 Million Coders Initiative	8113,5308
 Million Coders Programme	3582,1637,8,71,480,157,2352,78,400,657,116,534,162,351
 Million Ethiopian Coders	5871
-Million Ethiopian Coders Initiative	8349
+Million Ethiopian Coders Initiative	8349,5781
 Minig Code	2889
 Mining Code	2889,10735
 Mining Code. Delivery	2889
@@ -656,16 +673,23 @@ OpenAI. Codex	5967
 Ordem de Codificação	11409
 Ouest CGI Code Général des Impôts CMR	10712
 PAS DE CODE ENCERCLÉ	13300
+PENAL CODE	13963
+PENAL CODE ERITREA.pdf	13963
+PENAL CODE OF THE STATE	13963
+PENAL CODE URL	13963
 PIU Code	1988
 PLUS CODE ENCERCLÉ ENCERCLÉ ENCERCLÉS ENCERCLÉ	13300
 PORTANT CODE DE COMMERCE LE PRESIDENT	13293
 PORTANT CODE DE L'INFORMATION ET	13781
-PROJECT NAME AND SAP CODE	11863
-Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699
+PRELUDE The Penal Code	13963
+PROJECT NAME AND SAP CODE	11863,2075
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93,746,699,224,22,56,5,27,76,1
 Penal Code Act	1535,3887,7981
 Penal Code Cap	11857,596,892
 Penal Code Chapter	1988
 Penal Code Republic Information	12201
+Penal Code of Eritrea	13954
+Per the Djiboutian Nationality Code	13938
 Petroleum Code	10841
 Plus Code	4118
 Postal Address Code	12140
@@ -681,18 +705,20 @@ Price Code	13385
 Price Code Gr	13385
 Priced Code	13385
 Primarv Ret Code	11180
+Professional Code of Ethics for Inspectors	14113
 Programming Code	6946
 Project Specification Price Code	13385
 Projection Specification Price Code	13385
 Promo Code	9031
 Property Registration Code	12137
+Provisional Commercial Code of Eritrea and Provisional Civil	13985
 Proyecto Comisión Nacional de Codificación	4209
 Public Procurement Code	11905
 Public Procurement Code. Single Investment Window	11939
 Publicity Code	12294
 Purpose and Scope This Code of Conduct	6432
 QR CODE	13123
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27
 QR Code GIMACPAY	4208
 QR Code Security	10823
 QR Code VDS	2465
@@ -756,6 +782,7 @@ SIDA No QUESTIONS ET FILTRES CODES	13300
 STANDARD FOR DATA CODING	11180
 STP COD BDI MRT ETH BFA	6593
 SWIFT Bank Identifier Codes	12484
+Sabur Printing Services CODIFICATION	13963
 Screwdrivers Price Code	13385
 Scrip Code	12576
 Search Code	13333
@@ -803,7 +830,7 @@ Tagged COD	3117,2041,678
 Tarpaulins Price Code	13385
 Tax Codes	10762
 Tax Procedures Code	6121
-Tax Procedures Code Act	10202
+Tax Procedures Code Act	10202,4160
 Tax Procedures Code Act. But the Data	10281
 Team CodeCraft Mavericks	9007
 TechCabal Codar	7395
@@ -816,6 +843,8 @@ Tone Code	736
 Tone Code Frequerr	736
 Transaction Type A Code	12364
 Transaction Type Codes	12364
+Transitional Civil Code	13979
+Transitional Penal Code of Eritrea	13963
 Translate Code	1988
 Type Code	12360
 Typical Bills of Quantities Price Code	13385

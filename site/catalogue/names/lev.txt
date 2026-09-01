@@ -16,6 +16,7 @@ African Advanced Level The Authority	6946
 African Development Bank's Leveraging Energy Access	12191
 African Union High Level Panel	3691
 African Union Lever	6948
+Age Level	14098
 Agency SLA Service Level Agreement DEPARTMENT	11986
 Aggregation Level	3972
 Analyzing Mortality Levels and Causes of Death	12413
@@ -102,6 +103,7 @@ Digital Economy Solidarity Levy	6418
 Digital Network AFRALTI African Advanced Level	6946
 Digital Skills Development Levy	13602
 Dikgomo KZN KwaZulu-Natal SLA Service Level	11197
+Disabilities DML Desired Mastery Level DP	13990
 District Level	13060
 District Level Coordination Committee	12338
 District- Level Factsheets	13040
@@ -119,6 +121,8 @@ Educational Level	582
 Educational Level District Hospital	12379
 Electronic Money Transfer Levy	9113
 Electronic Transfer Levy	7695
+Elementary and Middle Levels	13960
+Elementary and Middle Levels Currently	13960
 Emissions Levy	7695
 Employees With Salary Levels Higher	11218
 Employment Levels	11262
@@ -136,6 +140,7 @@ Excluded Overal Level of Financial Inclusion	940
 Executive Management Level	12972
 Expertise Levels	12675
 Extra-High Level	11956
+FX Intervention and Reserves Level Background. Official	13868
 Factor Level	11916
 Federal Leverage NYSC	11857
 Federation Assurance Level	10775
@@ -177,6 +182,7 @@ High. Leveling	10779
 Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411
 Higher Level Objectives Policy Context and Strategic	969
 Highly Sensitive Level	10157
+Housing Characteristics Country Level	14005
 ICT Governance and Service Level Management	12917
 IN- National Satellite Leverage	11857
 ISTQB Advanced Level	5665
@@ -214,6 +220,7 @@ LEVERAGE BENEFITS OF INCREASED REGIONAL INTEGRATION	12680
 LEVERS	1885
 Lagos Level	10157
 Latency Levels	12967
+Learning Achievement MML Minimum Mastery Level	13990
 Letlhakeng and Gumare Level I Primary Hospitals	12606
 Levadura	4209
 Levam	10777
@@ -229,7 +236,7 @@ Levantine Arabic	6705
 Levantine Arabic and African French	6705
 Levar	11362
 Levari S	1219
-Level	427,62,300,96,55,18,3,9,135,49,130,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146
+Level	427,62,300,96,55,18,3,9,135,49,130,704,437,101,249,114,494,3,7,7,461,292,14,35,15,43,41,48,895,105,3,269,241,319,206,45,400,96,18,1041,450,1310,54,3,23,261,69,153,465,10,80,75,24,167,3,419,25,277,8,3,39,19,71,204,157,23,30,553,13,78,70,43,19,113,12,4,67,92,35,146,214,70,318
 Level AA	9603,1403,1,945,275
 Level Agreement SMS Short Message Service	34
 Level Agreement SmartNIC Smart Network Interface	13185
@@ -248,6 +255,9 @@ Level Labor	12205
 Level Level	10157
 Level Of Worry Concerning Financial Management	12409
 Level One Project	138,2720
+Level Playing	14017
+Level Playing Field for P2G	14017
+Level Playing Field for Person-to-Government	14010
 Level Policy Dialogue. Persons	12461
 Level Recovery GPU Graphics Processing Unit	13185
 Level Seven HIS Health Normative Standards	1009
@@ -264,11 +274,12 @@ Level of Income	10840
 Level of Protection	12185
 Level-1 PAD	767
 Level-2	764,13,422,575,2273
-Leveling	10779
+Leveling	10779,3089
 Levelised	11953
 Levelized	11953,280
 Levell	3895
 Levelled	1988
+Levellers	14128
 Levelling	12253
 Levels	34,362,22,540,3925,7033,487,8,2,640,261
 Levels of Assurance	10765,10,44
@@ -314,13 +325,14 @@ Leverage Social Safety Nets	10964
 Leverage the Identity	10819
 Leverage the Universal Access Fund	5244
 Leverages	12359,955,367
-Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194
+Leveraging	465,324,110,255,94,397,448,3,664,727,108,9,567,89,268,148,314,91,310,142,1012,330,73,256,386,169,262,1,289,293,367,719,1139,12,7,115,1,33,137,8,10,2,64,32,237,15,245,239,220,4,45,121,68,23,45,27,136,11,276,78,447,194,187,123,86
 Leveraging AI	2445,1989,5102,592,1012,1070,146,319
 Leveraging BEAC	10841
 Leveraging Burundi	13314
 Leveraging China	9238
 Leveraging Customs Digitalization for Relief	13042
 Leveraging Digital Innovations	13395
+Leveraging Digital Payments	14054
 Leveraging Digital Technology for Adaptive Social Protection	11133
 Leveraging Digitalization	3760,9680,3
 Leveraging Disruptive Technologies	9397
@@ -330,6 +342,8 @@ Leveraging Fibre for Accelerated Development	11132
 Leveraging ICBC	6870
 Leveraging ICT	5015
 Leveraging L'Archer	12017
+Leveraging National Interoperable Infrastructure	14054
+Leveraging Open Source Technologies for NRLAIS	13998
 Leveraging Open-Source Tools for Decentralisation	12196
 Leveraging OpenEMIS for Efficient	13143
 Leveraging Regulatory Advantages	3798
@@ -338,6 +352,7 @@ Leveraging TECHSO-GROUP	4925
 Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Leveraging Trade and Foreign Direct Investment	10841
 Leveraging VITALREG for Sustainable CRVS Country Case	12064
+Leveraging for Maximized Project Outcomes	13998
 Leveraging the African Continental Free Trade Area	11140
 Leveraging the FOCAC	6003
 Leveraging the Full Potential of Single African Air	5825
@@ -432,6 +447,7 @@ Perimeter Level Security	12253
 Phase Timeline Complexity Level Risk Level	6432
 Pig Levy Fund	13420
 Pillai R. Leveraging	10919
+Population and Housing Census Country Level	14005
 President Mr. Levy Mwanawasa	13561
 Prime Minister Benvinda Levi	2631,3,4990
 Priority Level Priority Level Super Priority	11131
@@ -453,13 +469,15 @@ Requirement Requirement Level	5244
 Research Animal Health Level	4153
 Restructuring Level	6833
 Review Leveling	10779
-Right Level	12198,925
+Right Level	12198,925,925
 Right Level TGE	12175
+Right Level TLM Teaching and Learning Material	13990
 Rising Across Every Level	12199
 Risk Level	13080
 Risk Level How MRA Manages the Risk	13053
 Risk Risk Level	12241
 Risk-Based Risk Indicators and Tolerance Levels PART	13206
+Rollout of Second Level Land Certification	13998
 SADC High Level Ministerial Round Table	12918
 SADC Level	958
 SC.KE Lower and Middle Level Institutions	6946
@@ -488,7 +506,7 @@ Service Level Agreement SMS Senior Management	11218
 Service Level Agreement SOP	11252
 Service Level Agreement Security Operations Centre	10157
 Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4,239,124,173,430,639
-Service Level Availability	6432
+Service Level Availability	6432,7895
 Service Level Benchmark26 Targets	970
 Service Level Management	12917
 Service Level and Institutional Arrangements	10157
@@ -512,6 +530,7 @@ State Level At the State	11129
 State Level and FCT	11860
 Strengthen Organisational Culture Staff Productivity Level	13053
 Sub-National Level Structures and Other Stakeholders	12240
+Subnational Level	14141
 Summary of Maturity Level Assessment of Zambia Meteorology	13365
 Supervisory Levy Regulations. Directives	13060
 System Development Lifecycle SLA Service Level	12359
@@ -536,6 +555,7 @@ UHC USG WPV Maturity Level	4153
 Ultra High Level and Extra-High Level	11956
 Ultra-High Level	11956
 Universal Service Levy	1900
+Urgency Level	14326
 VELASQUEZ LEVY	6613
 Vocational Education and Training Levy's Key Priority	12934
 WRMA Levy	12256

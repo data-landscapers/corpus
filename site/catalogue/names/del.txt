@@ -79,6 +79,7 @@ Clement Delangue	8014
 Cliff's Delta	10940
 Clément Delangue	8702,582
 Cognitive Delegation	8380
+Collaboration Representing the European Union Delegation	14050
 Commission and Delivery	12700
 Commission and Delivery of Five Hundred	12700
 Communication Bill. Delivering	7650
@@ -115,7 +116,7 @@ DE LA DELIMITATION ET DE L’ORGANISATION	13292
 DEL.REG. DE TRAFICO	4209
 DEL.REG.DE TRAFICO RODADO	4209
 DELAIS DE REMPLACEMENT DES TRANSFORMATEURS MT	10975
-DELAYED	12717
+DELAYED	12717,1305
 DELCANS JOSCURE MEDICAL CENTER Data Controller	7167
 DELCOM	427
 DELEG	4209
@@ -209,6 +210,7 @@ DELIVERY COMPONENT	11129
 DELIVERY DETAILS	4896
 DELIVERY IN PREVIOUS YEARS	12168
 DELIVERY MECHANISMS	11940
+DELIVERY OFFICE	14043
 DELIVERY PHARMACY Data Controller INST-8409740E45F NAIROBI	7167
 DELOITTE	7167
 DELTA MOBILE LIMITED Data Processor INST-553236A6F7F	7167
@@ -243,10 +245,10 @@ Delano	9144
 Delaporte	12278
 Delarosa J	1219
 Delarosa&author	1219
-Delaware	3006,2218,3240
+Delaware	3006,2218,3240,5577
 Delaware Chancery Court	9467
 Delawares	3006
-Delay	1000,8506,1470,242,656,7,1,464,99,472,88,639
+Delay	1000,8506,1470,242,656,7,1,464,99,472,88,639,413
 Delay E-ID	6956
 Delayed	2477,735,1227,989,578,1542,826,754,889,1088,1128,180,95,404,50,43
 Delayed Birth Registration	12216
@@ -261,7 +263,7 @@ Delayed Trans-Saharan Fiber Optic Project	2533
 Delayed Trials	12977
 Delayed U.S	6790
 Delaying	1867,11757
-Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323
+Delays	27,1527,2050,1244,3948,182,1073,273,444,61,147,160,389,26,323,7,103,2,190,96,56,18,10,33,573,13,30,37,12,26,28,101,323,336,70,322
 Delays of Tribunal de Contas	10768
 Delbari	7759
 Delbridge	12369
@@ -304,11 +306,11 @@ Delegate Representation	12675
 Delegate-General Martin Mbarga Nguele	2357
 Delegated	6423
 Delegated Entity	12185
-Delegated Legislation	6787
+Delegated Legislation	6787,7435,48
 Delegated Legislation. Following	6946
-Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888,1739,527,82,3
+Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888,1739,527,82,3,504
 Delegating	6512
-Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148
+Delegation	970,3587,847,1339,795,3035,604,108,4,259,303,85,40,650,264,5,4,17,240,5,9,45,27,45,18,66,47,148,481,102
 Delegation Delegation	13418
 Delegation Members of Parliament	11285
 Delegation Part IV	12900
@@ -348,7 +350,7 @@ Delgado Jesus. Discussions	6007
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Delgado Valige Tauabo Nampula Eduardo Mariano	12201
 Delgro	163
-Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92
+Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163,217,16,203,287,548,362,187,395,1,182,47,92,468
 Delhi Declaration	7548
 Delhi Indian	5044
 Delhi Leaders' Declaration	9431
@@ -411,7 +413,7 @@ Deliverable	11869,490,334
 Deliverable Responsible Business Unit Time	11188
 Deliverable Short Description	11188
 Deliverable Time	11188
-Deliverables	1000,381,214,2266,8080,67,667,11,7,338,6
+Deliverables	1000,381,214,2266,8080,67,667,11,7,338,6,1148
 Deliverables D1-D5	1381
 Deliverables Schedule Pagamento	11898
 Deliverance	7167
@@ -421,10 +423,10 @@ Deliverance Church Kiserian Data Controller INST-533250540CE	7167
 Deliverance Church Nakuru Life Celebration Center	7167
 Deliverance Church Ngong Data Controller INST-3301668CC89	7167
 Deliverance Church Olmoran CDC Data Processor	7167
-Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484,873,441,4,176,470,297,120,232
+Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484,873,441,4,176,470,297,120,232,472
 Delivered Countrywide Couriers	9781
 Deliveries	1988,787,1905,5523
-Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206,653,228,241,186,14,22,20,11,56,91,209,269,152,65,51
+Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206,653,228,241,186,14,22,20,11,56,91,209,269,152,65,51,465,376,26
 Delivering Education System Transformation	12175
 Delivering Governance That Works for Citizens	7337
 Delivering Impact	7880,3452
@@ -444,6 +446,7 @@ Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,2
 Delivery Architecture	7548
 Delivery Audit Trails	9855
 Delivery Cambodia	13042
+Delivery Care	14067
 Delivery Date	13185
 Delivery Dates and Completion Dates	13185
 Delivery Enablers	1284
@@ -502,7 +505,7 @@ Dell and Akamai	6692
 Dell and Oracle	778
 Deller B	10881
 Dell’Oro Group	11155
-Deloitte	961,402,1266,770,367,55,45,566,2,299,163,43,84,13,277,142,234,14,2,102,70,6,41,210,371,62,277,263,16,2,157,1825,1,10,1084,79,694,882,286,901
+Deloitte	961,402,1266,770,367,55,45,566,2,299,163,43,84,13,277,142,234,14,2,102,70,6,41,210,371,62,277,263,16,2,157,1825,1,10,1084,79,694,882,286,901,1344
 Deloitte Analysis of National Broadband Plans and Country	11857
 Deloitte Audit	7620
 Deloitte Fintech	10393
@@ -572,7 +575,7 @@ EDIT AS NECESSARY. DELETE THIS PART	13618
 EFFECT OF THE DELISTING OF ECONET	4896
 ELECAM Regional Delegate	10988
 EU Delegated Regulation	7548
-EU Delegation	970,1699,3883,191,2691,1158,563,1028,18,555,1,285
+EU Delegation	970,1699,3883,191,2691,1158,563,1028,18,555,1,285,985
 EU Delegation Fund	13457
 EU Delegations	11155,2712
 EUR Delivery	970
@@ -595,12 +598,14 @@ Enhance Service Delivery	13005
 Enhance Service Delivery and Strengthen the Social	11136
 Enhanced Governance and Public Service Delivery	13095
 Entire Deliverance and Service	1797,1413,3880
+Eritrea's Delegation Presents National Statement	14007
 Estado Delegado Adjunto Gobierno	4209
 Estado Delegado Regional Inspector Regional Gobernador	4209
 Estado Director General Adjunto Ministerio Delegado	4209
 Eswatini Delegation Returns	12433,529
+Ethiopia EU Delegation	14028
 Ethiopia. Delivers	2162
-European Union Delegation	970,3132,137,6602,463,681,771,400,486,9
+European Union Delegation	970,3132,137,6602,463,681,771,400,486,9,287,90
 European Union Delegation. Key	13080
 Evidence-Based and Consultative Process Delivering	8367
 Expected Deliverables	9203,2666
@@ -651,10 +656,12 @@ Growth Effects of Transmission Delays	13624
 HEALTH SERVICE DELIVERY	10829
 HIDRAÚLICAS GENERAL DE DELEGACIÓN PROVINCIAL DELEGACIÓN	4209
 HIGHER EDUCATION DELIVERED TO THE NATIONAL	12612
+HKV and Deltares	14103
 HPT DELIVERY AND LOGISTICS MANAGEMENT	9855
 HPT DELIVERY AND LOGISTICS MANAGEMENT Standard	9855
 HPT Delivery and Logistics Management	9855
 Harmonized Digital Delivery Systems The UBR	12181
+Head of EU Delegation	14047
 Heads of Cooperation Group. The EU Delegation	789
 Heads of Delegation	10169
 Health Delivery System Structure Public Private	21
@@ -700,7 +707,8 @@ Institution. F. Delcros	11154
 Institutional Mechanisms for Policy Delivery	4848
 Institutional Mechanisms for Policy Delivery Delivering	4848
 Integrated Service Delivery	4217,8544
-Integration and Business Delivery	7452
+Integration and Business Delivery	7452,6486
+Integration and Business Delivery Regional Member Countries	13938
 Items Delivered Countrywide	9781
 Items Domestic Delivered Countrywide Couriers	9781
 Items Inter-City Delivered Countrywide Couriers	9781
@@ -884,7 +892,7 @@ Public Health Facilities With Service Delivery	12379
 Public Sector Efficiency and Service Delivery Unbiased	12210
 Public Sector Foundations for Service Delivery	12758
 Public Service Delivery	5349,351,5841,326,343,707,70
-Public Service Delivery Index	10785,1082
+Public Service Delivery Index	10785,1082,2117
 Public Service Delivery and Corruption	5349
 Public Service Delivery. Integration	12917
 Public Service Delivery. Table	12917
@@ -962,6 +970,7 @@ Service Delivery and Integration	13005
 Service Delivery and Organisational Environment Statistics	11250
 Service Delivery and System Strengthening Project	10829
 Service Delivery. Through	12552
+Services Delivery Systems	13982
 Shock-Responsive Digital Delivery Systems	971,9992,1
 Single Phase Delay	13524
 Single Window for Remote Delivery of Public Services	10765,10
@@ -971,6 +980,7 @@ Social Service Delivery. Country Case Studies	12761
 Sofala and Cabo Delgado	12201
 Sorting Centres Excluding Delivery Offices	12395
 Starlink Licence Gets Delayed	6315
+State of Delaware	14046
 States and Local Government Areas. Delineation of Postcode	11129
 Stop Public Services Delivery Centers	12917
 Strategic DPI and Delivery	5072
@@ -980,6 +990,7 @@ Strategic and Special Delivery Unit	11236
 Strategy and Service Delivery Support Department of Planning	11224
 Street Delivery	11129
 Strengthen E-Services Delivery	6077
+Strengthen Public Service Delivery Addis Ababa	14034
 Strengthen Social Protection Delivery	13395,197
 Strengthening Community-Based Health Service Delivery	10829
 Strengthening Harmonized Delivery Systems	12980
@@ -999,6 +1010,7 @@ Table of Contents Zimbabwe's Health Delivery System	21
 Tasks and Deliverables	11941
 Tech Telemedan Delivers Healthcare	2380
 Technical Deliverables and Infrastructure	11774
+Technical Delivery Partner	14308
 Technical Exchange Visit for Mozambique Delegates	11134
 Telemedan Delivers Healthcare	2380
 Tier-1 Sectors Deliver	2957

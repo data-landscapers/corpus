@@ -3,7 +3,7 @@ Agregado de Prensa	4209
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 D.G. PRENSA ESCRITA	4209
 DIRECTIVO TELEVISIÓN RADIO PRENSA ESCRITA	4209
-Dirección General de Prensa	9065
+Dirección General de Prensa	9065,5116
 ENFANT PRENANT ENFANT PRENANT ENFANT PRENANT	13300
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
 Gabinete de Prensa	6298,1785,289,931,2440
@@ -33,14 +33,15 @@ Prenant	547,3,18,20,149,1865,136,366,15,190,17,77,759,184,504,43,26,144,2,13,39,
 Prenant la Parole	13405
 Prendi	2281
 Prendre	1303,724,1995,282,6572,2414,10,419
+Prends	14163
 Prenesh Padayachee	3854
 Prenez	6889,485
 Prenons	5029,2801,1018
 Prensa	4209,2632,1313,1149,1135,1234
 Prensa Digital	9303
 Prensa Escrita	4209
-Prensa de Guinea Ecuatorial	975,5323,1785,289,182,511,237,1,624,1745
-Prensa de Guinea Ecuatorial Aviso	975,5323,1785,289,182,511,2607
+Prensa de Guinea Ecuatorial	975,5323,1785,289,182,511,237,1,624,1745,2509,34,89
+Prensa de Guinea Ecuatorial Aviso	975,5323,1785,289,182,511,2607,2509,34,89
 Prentice	7886
 Prentice Hall	11130
 RDC. Prenant	5888

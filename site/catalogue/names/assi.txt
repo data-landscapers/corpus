@@ -54,6 +54,7 @@ Assignment	427,3251,4150,718,577,2734,12,72,35,32,635,5,245,138,6,46,102
 Assignment Assuming	13031
 Assignment The Consultant	13037
 Assignment Title	9603,1
+Assignment of Frequency The Department	13951
 Assignment of High Demand Spectrum	11857
 Assignment of Numbering Resources	6946
 Assignment of Proceeds Agreements	13122
@@ -83,7 +84,7 @@ Assinatura Qualificada	7948
 Assinatura Relatório	12021
 Assinaturas	1144,10438
 Assinaturas Digitais	11555
-Assinaturas Electrónicas	9909,1552
+Assinaturas Electrónicas	9909,1552,2852
 Assinaturas Eletrónicas	11569
 Assingment	11941
 Assinie	10035,902,816
@@ -92,13 +93,13 @@ Assise	7355
 Assises	4600,2888,2879,3401
 Assises Nationales	3196,4472
 Assises du Groupe	10182
-Assist	11255,1164,559
+Assist	11255,1164,559,1207
 Assist Employees’ Productivity	2816
 Assist SMEs	1885
 Assist the Poor	100,8647,2230
 Assist the SADC Secretariat	962
 Assist-Advise	11156
-Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127
+Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199,525,122,118,152,615,4,12,107,7,258,14,119,9,120,127,249
 Assistance Evidence	2727
 Assistance Fund for Persons	13470
 Assistance Human-in-the-loop	10726
@@ -204,11 +205,13 @@ Assisted Medical Treatment Orders	13420
 Assisted Telephone Interviewing CAPI Computer Assisted	13359
 Assisted Ultrasound Ultrasound	1363
 Assisted Voter Registration	12288
+Assistente	14342
 Assistente Universitário	2816
 Assistentes Técnicos	11421,25,131
 Assistentes Virtuais	2816
 Assister	10858,2443,417
 Assisting	5677,2869,891,1404,349,670,1521
+Assisting FSPs	13938
 Assisting INALUD	10776
 Assisting the Site Manager	12253
 Assistir	13
@@ -280,6 +283,7 @@ DIGITAL LEGAL ASSISTANT ENABLING ACCESS	11206
 DURATION AND LOCATION OF THE ASSIGNMENT	3678
 Data Controller Application Assistance	12189
 Delhi. Assistant Minister of Communication and Innovation	12617
+Demand-Driven Technical Assistance	13998
 Democracy and Electoral Assistance	11909
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
@@ -293,12 +297,12 @@ Development Objectives Assistance Agreement	4301
 Differentiated Assistance	12297
 Differentiated Assistance Framework	12297
 Digital Humanitarian Assistance	13314
-Digital Interactive Virtual Assistant	5786
+Digital Interactive Virtual Assistant	5786,8554
 Direct Social Assistance for Emergency Response	12781
 Direcção Nacional Assinatura de Contrato	10753
 District Welfare Assistance Committee	13332
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
-Duration of Assignment	13031
+Duration of Assignment	13031,1154
 E VALIDAÇÕES Entidade Responsável Data Assinatura	11435
 EIB-Technical Assistance	1080
 ESMAP Energy Sector Management Assistance Program	11549,23
@@ -441,6 +445,7 @@ Methodology and Work Plan for Performing the Assignment	13037
 Military Pension Assistance for World Wars	12405
 Minister David Tshere M.P. and Assistant Minister	12552
 Mme Assia Benchabla-Queiroz	10515
+Mobile Assistant	14125
 Moov Interactive Assistant	11674
 Multipurpose Cash Assistance	6947
 Mutual Administrative Assistance Agreements	9745
@@ -453,6 +458,7 @@ Namibia Students Financial Assistance Fund	5036,7992
 National Directorate of Social Assistance	12832
 National Information System for Social Assistance	1371,3265,8061,2
 National Liaison Assistants	12972
+National Office for Assistance	13938
 National Refugee Assistance Committee	10841
 No. of Frequency Assignments	6946
 No. of Land Mobile Frequency Assignments	6946
@@ -513,6 +519,7 @@ Radio Frequency Assignment Plans	8235
 Radio Frequency Spectrum Assignment Plan	7828
 Radio Frequency Spectrum Assignment Plans	7980,109
 Recomendações Assim	11561
+Refusal of Assignments	13951
 Regime Jurídico da Assinatura Electrónica	8308,1
 Region Assistive	12977
 Regional Administration Assistant Civil Registration Officer	12970
@@ -569,14 +576,17 @@ South African Assistant	9128
 South-South Cooperation Assistance Fund	13309
 Special Assistant	5235,5891,935
 Spectrum Assignments	5245
+Statistical Assistant International Telecommunication Union	14098
 Statistics Unit Assistant Research Officer No	10980
 Stephen Zimba Assistant Director-Monitoring and Evaluation	13392
 Steward Vision Assistant	9007
 Strategic Allocation of ODA Official Development Assistance	11487
 Strategic Assistance	4167,50,132
 Strategic Investment and Technical Assistance	4301
+Strategic Use of Technical Assistance	13998
 Strengthen Mutual Legal Assistance Agreements	961
 Students Financial Assistance Fund NCTSP National	12923
+Summary of Capacity Developments Needs Technical Assistance	13868
 T Assinant. Trim N-1 O II Trimestre	11574
 TA Technical Assistance	11965
 TA Technical Assistance TEI Team Europe	970
@@ -621,6 +631,8 @@ Tunyiswa Mbali Masango RESEARCH ASSISTANTS Ezile	13461
 Turkey's Integrated Social Assistance Services System	11133
 Turkey's Integrated Social Assistance System’. World	11133
 U.S. Government Strategic Assistance Funding	4153,14,50,132
+UN Assistant Secretary-General	14084
+UNDP Assistant Administrator	14084
 Under the Social Assistance Act	7581,886
 United General Insurance Assistant Manager Colleta	7364,5852
 United Nations Assistant High Commissioner	1963
@@ -630,6 +642,7 @@ Virtual Assistants	8022
 Visa and Legal Assistance	12675
 WFP's Differentiated Assistance Framework	12297
 Wake-Up Call for Social Assistance	10985
+Wave. Assistant Superintendent of Immigration Meita M	14260
 Y Assistant	11180
 Year U.S. Government Technical Assistance Funding	5352
 Zimbabwe Civil Service Funeral Assistance Fund	13420

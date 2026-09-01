@@ -35,6 +35,7 @@ AU Data Policy Framework and Burundi’s Vision	13457
 AU IPED Supports Burundi's Next Step	13629
 AU IPED Supports Burundi’s Next Step	13629
 AUTRE MÉNAGE AU BURUNDI	13300
+About Kenya Bureau of Standards	14225
 About Kenya National Bureau of Statistics	2775
 Abstract. The Bureau	2775
 Achat de Médicaments Essentiels du Burundi CDS Centre	13306
@@ -42,6 +43,7 @@ Actualités Le Burundi	13525,128
 Addis Ababa City Government Revenues Bureau	10496
 Addis Ababa Innovation and Technology Development Bureau	12222
 Addis Ababa Peace and Security Bureau	7909
+Addis Ababa Revenue Bureau	13968
 Addis Ababa Revenues Bureau	10496
 Additional Information Burundi Cash for Jobs Project	13592
 Adhésion du Burundi	13330
@@ -66,7 +68,7 @@ Agence Burundaise de Presse	6162,3648,662,3043,15,1,41,1,10,39,18,34
 Agence Routière du Burundi	13329
 Agence de Développement du Burundi	13433,91,96,70
 Agricole du Burundi	13390
-Ahmore Burger-Smidt	5865
+Ahmore Burger-Smidt	5865,8492
 Akim KY Burkina	3668
 Alister Bull and Paul Burkhardt	7343
 Allemagne. Bureau	10712
@@ -140,7 +142,7 @@ BUREAU COMPLIANCE EXECUTIVE LEGAL ADVISORY	11198
 BUREAU VERITAS KENYA LIMITED Data Controller	7167
 BURKINA	4459,5534,718
 BURKINA ChatGPT Cloud Creation Cryptocurrency Culture	9993
-BURKINA FASO	737,2659,7606
+BURKINA FASO	737,2659,7606,2994
 BURKINA FASO EXTENDED NETWORK	11002
 BURKINA FASO IVE REPUBLIQUE	113,672,1016,9024
 BURKINA FASO La Patrie	8321
@@ -237,12 +239,12 @@ Burden of Proof	12185
 Burden of Road Injuries	1867
 Burdette	4676
 Burea1u2o.6f PBuubrleicaPuroofcPuurbemlicePnrto	10157
-Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39
+Bureau	557,1514,46,658,81,33,370,67,285,127,365,767,379,577,281,168,226,119,62,460,55,20,331,122,14,331,492,8,222,154,65,57,309,118,40,32,288,256,238,179,239,52,57,23,77,12,11,190,429,162,34,92,1,92,38,11,50,49,73,76,50,235,117,32,31,194,105,70,217,49,8,11,15,2,13,29,21,27,11,4,17,56,40,33,7,74,12,39,428,176
 Bureau Burundais de Normalisation	13433
 Bureau CSOs Civil	11994
 Bureau Central de Recensement	13513
 Bureau Central des Recensements	4325,6639
-Bureau Central du Recensement	13442,76
+Bureau Central du Recensement	13442,76,726
 Bureau Chair	7142
 Bureau Clearing System	6938
 Bureau Collects	10822
@@ -333,6 +335,7 @@ Burgess	7590,72,5962
 Burhan	1676
 Burhanuddin	9129
 Burial	10814,362,1783
+Burial Certificates	14045
 Burial Permit	12151
 Buried	2826,3463,4439
 Burinfort	10471
@@ -342,7 +345,7 @@ Burkhardt	2117
 Burkina	737,561,97,314,97,792,5,129,394,220,10,40,373,35,21,121,87,26,137,187,76,632,189,211,103,113,790,234,549,26,13,14,20,278,39,651,181,131,45,170,200,239,55,60,107,484,132,134,383,69,101,44,18,1,47,201,942
 Burkina ATA	8886
 Burkina CASEM Plan de Travail Annuel	2074
-Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24,14,415,17,3,9,28,13,204,23,18,3,13,3,1,2,20,9,97,50,9,31,48,1,9,51,127,11,1,135,562,224,58,38,72,271
+Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24,14,415,17,3,9,28,13,204,23,18,3,13,3,1,2,20,9,97,50,9,31,48,1,9,51,127,11,1,135,562,224,58,38,72,271,533,115
 Burkina Faso AXE	10858
 Burkina Faso Adama YAMEOGO Chef	10708
 Burkina Faso Adopts Harmonized Framework	3640
@@ -352,7 +355,7 @@ Burkina Faso Arisa Shichijo	10881
 Burkina Faso Asserts Digital Sovereignty	4728
 Burkina Faso Avenue Pascal ZAGRÉ	10874,1
 Burkina Faso BFA Finalised	13082
-Burkina Faso Burkina Faso	5675
+Burkina Faso Burkina Faso	5675,8571
 Burkina Faso By Edikan Ikpeme Burkina	10834
 Burkina Faso C	11867
 Burkina Faso CEB	10847
@@ -548,6 +551,7 @@ Burkina Faso.Le Conseil	7670
 Burkina Faso’s Innovation Campus	9874
 Burkina Faso’s Minister for Digital Transition	9874
 Burkina Faso’s National Bureau of Major Projects	4662
+Burkina MW	14204
 Burkina Music News News	9993
 Burkina Niamey	8822
 Burkina OB	11652
@@ -639,7 +643,7 @@ Burundaise	13290,16,84
 Burundaise N	13390
 Burundaise Pays	13390
 Burundaise des Mines	13620
-Burundi	36,4,678,275,20,72,199,112,69,113,1,20,124,53,91,26,69,18,89,48,179,87,25,161,55,1,36,21,63,30,84,65,22,96,51,2,69,396,97,80,1,78,152,100,295,64,156,51,9,36,31,99,103,3,46,73,11,15,16,1,185,30,141,23,73,37,33,2,91,174,39,13,1,23,16,13,60,26,4,32,3,15,11,40,79,148,104,93,19,66,39,82,7,1,26,28,1,44,39,249,322,198,86,157,5,107,441,250,134,197,69,20,1,336,104,22,71,97,2,4,179,6,69,196,25,87,90,25,272,26,50,3,2,1,3,2,19,27,58,18,77,287,85,3,109,43,18,19,29,6,128,96,2,16,1,2,11,17,43,46,30,64,53,1,9,1,63,36,22,56,11,1,32,103,554,189,59,1,2,7,1,2,3,3,3,1,1,9,1,1,4,1,1,3,4,3,8,8,1,2,3,1,6,4,1,2,2,9,2,3,2,10,1,5,3,5,3,5,1,5,9,3,7,5,7,3,1,8,2,4,1,9,7,1,6,7,2,2,1,2,2,2,1,4,1,1,3,8,4,1,2,3,3,5,3,5,4,1,1,5,4,2,1,6,3,4,14,3,1,5,2,2,2,1,6,3,3,2,10,4,3,1,5,2,1,3,2,3,12,4,4,5,11,56,4,171
+Burundi	36,4,678,275,20,72,199,112,69,113,1,20,124,53,91,26,69,18,89,48,179,87,25,161,55,1,36,21,63,30,84,65,22,96,51,2,69,396,97,80,1,78,152,100,295,64,156,51,9,36,31,99,103,3,46,73,11,15,16,1,185,30,141,23,73,37,33,2,91,174,39,13,1,23,16,13,60,26,4,32,3,15,11,40,79,148,104,93,19,66,39,82,7,1,26,28,1,44,39,249,322,198,86,157,5,107,441,250,134,197,69,20,1,336,104,22,71,97,2,4,179,6,69,196,25,87,90,25,272,26,50,3,2,1,3,2,19,27,58,18,77,287,85,3,109,43,18,19,29,6,128,96,2,16,1,2,11,17,43,46,30,64,53,1,9,1,63,36,22,56,11,1,32,103,554,189,59,1,2,7,1,2,3,3,3,1,1,9,1,1,4,1,1,3,4,3,8,8,1,2,3,1,6,4,1,2,2,9,2,3,2,10,1,5,3,5,3,5,1,5,9,3,7,5,7,3,1,8,2,4,1,9,7,1,6,7,2,2,1,2,2,2,1,4,1,1,3,8,4,1,2,3,3,5,3,5,4,1,1,5,4,2,1,6,3,4,14,3,1,5,2,2,2,1,6,3,3,2,10,4,3,1,5,2,1,3,2,3,12,4,4,5,11,56,4,165,6,196,75,29
 Burundi AMENAGEMENT DU TERRITOIRE URBANISME SYSTEME	13375
 Burundi Action IX.1.2 Renforcer	13306
 Burundi Action VII.5.5 Optimaliser	13306
@@ -1018,7 +1022,7 @@ Burundian President Sylvestre Ntibantunganya	5782
 Burundian Press Union	13313
 Burundian Revenue Office	4679
 Burundian and Central Afr	11900
-Burundians	6122,1833,3817,1540,2,17,27
+Burundians	6122,1833,3817,1540,2,17,27,817
 Burundians. Further	6899
 Burundiship and Kugasoko	13314
 Burundi’s COVID-19	13314
@@ -1210,6 +1214,7 @@ Digital Magazine Burkina Journée	9993
 Digital Magazine Burkina Laisser	9993
 Digital Magazine Burkina and We Are Tech	4399
 Digital Magazine Burkina. C’est	10259
+Dire Dawa Revenue Bureau	13968
 Directeur du Bureau de Développement des Télécommunications	13482
 Director General Somali National Bureau of Statistics	2555
 Director General of Moov Africa Burkina Faso	3891
@@ -1299,6 +1304,7 @@ Fatou Gassama The Gambia Bureau	8459
 Fbu L'Office Burundais des Recettes	13660
 Federal Bureau of Investigation	4127
 Federal Bureau of Statistics	11860
+Federal Ministries and Regional Bureaus of Children	13999
 Fibre Optique Au Burundi	13324
 Finance Ministry. Burundi	4679
 Finance and Development of Burkina Faso	10873
@@ -1445,14 +1451,14 @@ Jun-25 Burundi	12256
 Justice du Burundi	13635
 Justice du Burundi-Composante Numérisation LIEU DE TRAVAIL	13635
 KCB Bank Burundi	13388
-Kenya Bureau of Standards	7548,1216,1549,1836,61
+Kenya Bureau of Standards	7548,1216,1549,1836,61,2015,48
 Kenya Burundi	10462
 Kenya Commercial Bank Burundi Limited	13390
 Kenya Commercial Bank Burundi Ltd	13314
 Kenya National Bureau	12151
 Kenya National Bureau Sustainable and Responsible Financial	12297
 Kenya National Bureau of Standards	12210
-Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20
+Kenya National Bureau of Statistics	497,1950,328,3741,3,12,7,408,17,585,979,2295,1316,13,76,4,20,2054
 Kenya National Bureau of Statistics Data	7548
 Kenya National Bureau of Statistics ISBN	2775
 Kenya National Bureau of Statistics KoTDA Konza	6946
@@ -1563,6 +1569,7 @@ Milieu BUHUMUZA BUJUMBURA BURUNGA BUTANYERERA GITEGA	13390
 Militaire de Kamenge PNUD Burundi	13617
 Million de Francs Burundais MST	13377
 Ministries. Burundi	13349
+Ministry of Education and Regional Education Bureaus	14048
 Ministry of Interior Uganda Bureau of Statistics Directorate	10822
 Ministry of Security of Burkina Faso	5758
 Miss Burundi Tech	13312,2
@@ -1594,7 +1601,7 @@ National Bureau of Economic Research. Alampay	10726
 National Bureau of Economic Research. Nov	10963
 National Bureau of Economic Research. Page	10964
 National Bureau of Standards	13320
-National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7
+National Bureau of Statistics	1261,14,829,367,912,479,712,481,190,1080,211,1056,495,572,159,428,324,120,403,1033,3,4,9,579,130,3,6,6,132,140,7,2244
 National Bureau of Statistics Augustino T. Mayai	7749
 National Bureau of Statistics and President's Office Finance	11133
 National Bureau of Statistics. Streamlined	12210
@@ -1639,6 +1646,7 @@ ONGS Féminine du Burundi CAFOB	13442
 ONU Femmes Burundi	13547,125
 OPERATION OF CREDIT BUREAUS AND REGISTRIES	12389
 ORANGE Burkina Faso	3670
+ORDINATEURS DE BUREAU	14287
 ORGANISATEURS CIL Burkina- Faso Assemblée Mondiale	10821
 OU BURUNO	13524
 OU BURUNOI	13524
@@ -1737,7 +1745,7 @@ Postal and Electronic Communications of Burkina Faso	4234,683,46
 Poste Burkina Faso	5491
 Postes du Burkina Faso	5790
 Pour le Burkina Faso	1967,1979,5901
-Pour le Burundi	9614,3761,67,34
+Pour le Burundi	9614,3761,67,34,768
 Pourquoi la République du Burundi	13677
 Power Behind Burundi’s... Katanga Lawyers File	3245
 Pravda Burkina	3469
@@ -1777,7 +1785,7 @@ RCIP-1 Burundi	13331
 REGIDESO Burundi	13641,2
 REMITTANCE MARKET OVERVIEW Burundi	13388
 REPARTITION DU CAPITAL Gouvernement du Burkina Faso	2342
-REPUBLIC OF BURUNDI	1284,12047
+REPUBLIC OF BURUNDI	1284,12047,665
 REPUBLIQUE DU BURUNDI	13293,185
 REPUBLIQUE DU BURUNDI AGENCE DE REGULATION	13586
 REPUBLIQUE DU BURUNDI Agence de Développement du Eurundi	13524
@@ -1802,13 +1810,16 @@ Recommendations The Government of Burkina Faso	10812
 Reference Bureau CRVS Civil Registration and Vital	13005
 Reference Gallagher and Burkhardt2021	2117
 Regideso Le Burundi	13641
-Regional Bureau for Africa	13661
+Regional Bureau for Africa	13661,423
 Regional Bureau for Asia	13661
 Regional Bureau for Europe	13661
 Regional Bureau for Latin America	13661
+Regional Bureaus	14040
+Regional Education Bureaus	13999,97
 Regional Health Bureau	1824
 Regional Health Bureaus	1824,10431
 Regional Statistics Bureau for Monetary Union	3738
+Regional TVET Bureaus	14157
 Registered The National Registration Bureau	13095
 Registration Bureau	12214,791
 Registration Bureau's UIN	12241
@@ -1917,7 +1928,7 @@ Somalia National Bureau of Statistics	650,11080
 Songa Energy Burundi	13433
 Soumissions Burundi	13694
 South Africa Burundi Central African Republic	10819
-South African Bureau of Standards	396,10873,2001
+South African Bureau of Standards	396,10873,2001,955,132
 South Ethiopia Regional Land Administration Bureau	12276
 South Sudan Burundi Libya Sudan Cambodia	11005
 South Sudan South Sudan Bureau JUBA	6259
@@ -1928,7 +1939,7 @@ Staff Scheduler Management System the Kenya Bureau	6946
 State Bureau of Statistics	11860
 State of Burundi’s EMIS	13629
 Statistics Bureau	3738
-Statistique du Burundi	2625,10709,43,13,3,296
+Statistique du Burundi	2625,10709,43,13,3,296,555
 Statistique du Burundi INSS	13377
 Statistique du Burundi. Limitation	13393
 Statistique du Burundi. Vous	13393
@@ -1995,11 +2006,12 @@ UNDP's Bureau for Policy and Programme Support and UNESCO	8860,352
 UNDP.62 The Burundi Revenue Authority	13314
 UNFPA Burkina Faso	10828
 UNFPA Burkina Faso In Burkina Faso	10828
+UNFPA Burundi	14244
 UNHCR Burundi	13360
 US Census Bureau Data and EU Data	5863
 US State Department's Bureau of African Affairs	6534
 USAID Bureaus and Missions	217
-Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884
+Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767,1884,1482,192
 Uganda Catholic Medical Bureau	11022
 Uganda Muslim Medical Bureau	11022
 Uganda Orthodox Medical Bureau	11022

@@ -5,7 +5,7 @@ Advanced Diploma	6832,5599,541
 Advanced Diploma Skills Award Trade Test	12431
 Advanced Diploma Trade Test	12431
 African Policymakers and Diplomats	1814
-Anwar Gargash Diplomatic Academy	12983
+Anwar Gargash Diplomatic Academy	12983,1151
 Artificial Intelligence and Cyber Diplomacy Unit	8982,376
 Aynne Kokas. The Diplomat. Mattoo	1243
 Bachelors' Degree Diploma Certificate Total Graduated	11134
@@ -88,7 +88,7 @@ Diplomas de Desenvolvimento	11430,1
 Diplomat	4193
 Diplomate	2266,2675
 Diplomates539 Magistrats926 Personnel	1594
-Diplomatic	2667,7829,1668,54
+Diplomatic	2667,7829,1668,54,1827,33
 Diplomatic Corps	5328,2374,2257
 Diplomatic Corps Representatives of UN ODET and ITU	10210
 Diplomatic Corps Senior Government Officials Members	12692
@@ -150,6 +150,7 @@ Higher National Diploma	9575,180
 Hobhouse and Dipelaneng	11289
 IOC Indian Ocean Dipole IP Internet	2775
 IX- FORMA PROPOSTA PARA O DIPLOMA	3519
+Indian Ocean Dipole	14158
 Information Security and Ethical Hacking. This Diploma	12972
 International Diploma	2308
 International Governance and Diplomacy Zimbabwe	4528,7984
@@ -215,6 +216,7 @@ Tech Diplomacy Global Institute	5454
 Tech Diplomacy and Avenues for Digital Development	5239
 Testing New Solutions for Global Development and Diplomacy	2165
 Tourisme Actualités Diplomatie	4895
+Trade Policy and Commercial Diplomacy	14134
 Tuition Advanced Diploma Fee	12917
 Tuition Diploma Fee	12917
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239

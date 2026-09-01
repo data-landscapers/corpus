@@ -27,7 +27,8 @@ Actifs Non Financiers	4420
 Acueil Non	5545
 Addressing Non-Communicable Diseases	10776
 Admissible. Non-Africa-specific	6545,522
-Adult and Non-Formal Education	12975
+Adult and Non-Formal Education	12975,985,31,3
+Adult and Non-formal Education	13991
 Adventist Regulated Non WDT Sacco Ltd	7167
 Affilié Non Non	10875
 Africa. Non-personal	1387
@@ -457,6 +458,8 @@ Non-African	4110,732,1675,5850
 Non-Aligned Movement	5029
 Non-Aligned Technologies Movement Meta	10727
 Non-Aligned Technologies Movement So	10727
+Non-Amharic	14137
+Non-Applicability	14014
 Non-Automated Public Counters	6946
 Non-Bank Financial Institutions	4987,4839,3380
 Non-Bank Financial Institutions Act	6940
@@ -496,6 +499,7 @@ Non-Disclosure Agreement	7433,3288
 Non-Disclosure Agreement and Memorandum of Understanding	8514
 Non-Discrimination	3861,9234
 Non-Discrimination ALECSO	2958
+Non-Discriminatory Access. Public Bodies	14014
 Non-E8xc.3lusNivointy-Exclusivity	10157
 Non-ECC Minimum	34
 Non-EU	8348
@@ -510,6 +514,7 @@ Non-Executive Chairperson	10737,938
 Non-Executive Director	2552
 Non-Executive His Royal Highness	11134
 Non-Financial Benefits Security of Tenure Investment	12457
+Non-Financial Terms	14135
 Non-Formal Education	13310
 Non-Formal Education. The Ministry of Primary and Secondary	13310
 Non-Functional Requirements	5665,7372
@@ -520,6 +525,7 @@ Non-Geostationary	10407
 Non-Geostationary Orbit	10407
 Non-Geostationary Satellite Orbit	2913,2767
 Non-Geostationary Satellite Orbits	2913
+Non-Gov. Universities	13991
 Non-Governemental Organisations	12642
 Non-Government	13287
 Non-Government Organisation	12367
@@ -535,7 +541,7 @@ Non-Governmental Organisations	396,544,5181,5033,706,1061,25
 Non-Governmental Organisations' Act	13339
 Non-Governmental Organization	12356,684
 Non-Governmental Organization NIDA	12338
-Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146
+Non-Governmental Organizations	21,1757,740,8445,166,726,5,1047,68,1,146,994
 Non-Governmental Organizations Act	3583
 Non-Grid	11890
 Non-Hazardous Waste	1988
@@ -554,6 +560,7 @@ Non-Ionizing Radiation Protection ICT	958
 Non-Life Ombud	9675
 Non-Mainstream Publishers	13462
 Non-Maleficence	7548
+Non-Marriage Certificate Document Authentication	14137
 Non-Metallic Mineral Products	2775
 Non-Namibians	12383
 Non-National	1655
@@ -562,6 +569,7 @@ Non-National ID Cards	1655
 Non-Negotiable Closing the Books	7055
 Non-Oil GDP	1828
 Non-Oil Revenue	10997
+Non-Paris Club	13868
 Non-Payment of Successful Grant Applicants	2307
 Non-Performing Loans	11131,338,1487
 Non-Permanent Member	12640
@@ -578,6 +586,7 @@ Non-Protected Fixed Links	6946
 Non-QV	11923,268
 Non-Radio Frequency Spectrum Based Alternatives	13295
 Non-Reporting Financial Institution	11233
+Non-Resident	13989
 Non-Resident Bank Verification Number	2841
 Non-Resident Nigerian Investment Account	2841
 Non-Resident Ordinary Account	2841
@@ -594,7 +603,7 @@ Non-Standalone	5675
 Non-State Actor Monitoring	12194
 Non-State Actors	13313,78
 Non-State Actors Civil	13313
-Non-Stop Borders	13415
+Non-Stop Borders	13415,915
 Non-Tariff Measures	12389
 Non-Tax Revenue	2757
 Non-Tax Revenue Portal Across Different MDAs	8669
@@ -610,6 +619,7 @@ Non-Volatile Memory Express OEE Overall Equipment	13185
 Non-Western Contexts	6948
 Non-World Bank Group Financing	3604,7164,649,971,444
 Non-World Bank Group Financing Commercial Financing	1704,587,1271,9769
+Non-World Bank Group Financing Counterpart Funding	14015
 Non-World Bank Group Financing The World	11905
 Non-World Bank Group Financing Trust Funds	10829,2282,221
 Non-Zambians	12410
@@ -680,7 +690,7 @@ Non-filer	12500
 Non-filers	12500
 Non-financial	12376
 Non-folder Aluminum	12977
-Non-formal	6832,6082,396
+Non-formal	6832,6082,396,681
 Non-formal Begin	6832
 Non-formal Education	12914
 Non-formal Primary Education	12914
@@ -692,6 +702,7 @@ Non-functional	12508
 Non-government	11940
 Non-governmental	1161
 Non-governmental Organisation ICTS International Cooperation	11986
+Non-guaranteed SOE	13868
 Non-harmonised	961
 Non-hazardous	1988
 Non-hazardous Waste Management Plan Activity	1988
@@ -699,7 +710,7 @@ Non-holders	10714
 Non-hydrocarbon	1828
 Non-inclusive	10765,10
 Non-institutional	11296
-Non-interest	10218,912,1,3
+Non-interest	10218,912,1,3,2734
 Non-involvement	11905
 Non-liability	12900
 Non-life Insurance Division	9675
@@ -714,6 +725,7 @@ Non-mobile	11017
 Non-monetary	3604
 Non-monetary Estimating	3604
 Non-monetary Potential PCE	3604
+Non-mutually	13868
 Non-necessary Non-necessary Any	5715
 Non-negotiable	5665
 Non-objection	10975
@@ -722,7 +734,7 @@ Non-oil Revenue CAMEROON	10997
 Non-oil Revenue Mobilization	1828
 Non-participant	10711
 Non-payment	12500,554
-Non-performing	4217,7307
+Non-performing	4217,7307,2344
 Non-performing Loans	11134
 Non-permit	12539
 Non-personal	4214,1030,1272,3
@@ -749,6 +761,7 @@ Non-resident Non-resident	3161
 Non-residents	12676
 Non-respect	10874
 Non-response	11296
+Non-retroactivity of Criminal Law	13948
 Non-rivalrous	3391
 Non-résidents Catégorie Sexe Age Jeune Homme	13390
 Non-résidents Catégorie Sexe Nombre Montant Nombre	13390
@@ -764,7 +777,7 @@ Non-staff	10218
 Non-standardized	13037
 Non-state	899
 Non-targeted	13298
-Non-tax	1830,8372,934,388
+Non-tax	1830,8372,934,388,2344
 Non-tax Revenue	5655
 Non-technical	11357,2267
 Non-trade	12948
@@ -802,6 +815,7 @@ Nonconformities	13185
 Nondzwakazi Gumede	396
 None APIs	12270
 None B- Send	582
+None Comments	14045
 None Correspondent	12270
 None Data	10768
 None Eye Care	1009
@@ -821,7 +835,7 @@ None. APIs	12269
 None. Correspondent	12269
 None. Interoperability	12269
 None. TABLE C	3714
-Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86
+Nonetheless	408,163,147,251,292,761,1369,192,21,187,335,998,123,116,25,2427,790,1,336,1776,45,2,10,66,10,10,20,81,1,1,24,18,95,30,2,1,2,32,103,246,7,48,13,272,43,5,2,87,144,23,27,13,136,72,91,157,284,64,65,53,191,18,86,450
 Nongo	8022
 Nongobzanga Zongo	3668,543,85,2472
 Nongoma	2626
@@ -829,7 +843,7 @@ Nonidas Pro Ed Academy Private School	13046
 Nonkqubela Jordan-Dyani	1810,3365,1546,872,3577,325
 Nonlinear	11140
 Nonmonetary	1154
-Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426
+Nonobstant	113,624,494,448,122,541,123,229,1705,21,2926,1545,1821,113,11,686,1771,426,560
 Nonoil	10841
 Nonperforming	10841
 Nonperforming Loans	1746
@@ -964,6 +978,7 @@ SI NON LISTÉ	13300
 SIDA. None	13300
 SITUATION IN BURUNDI Non-banks	13388
 SNDI Director General Soro Nongolougo	3689
+SSA Non-Oil MENA LMICs Djibouti Fiscal	13868
 Second Schedule. Non-transferability	587
 Secteur Sous-secteur Affilié Non	10875
 Secteurs Non-résidents	13390

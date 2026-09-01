@@ -215,8 +215,9 @@ Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Commissioner of NamRA	12951,157
 Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623,4671,313
+Communication Regulatory of Namibia	14382
 Communication and Technology of Namibia	12354
-Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399,54,2,61,20,59,8,2,2,29,48,33,42,5
+Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399,54,2,61,20,59,8,2,2,29,48,33,42,5,1023
 Communications Regulatory Authority of Namibia FDI Foreign	12973
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Company Name	12389,311
@@ -306,6 +307,7 @@ Digitalized Namibia	4980
 Director’s Full Name	12374
 Distributor NP NamPower NREP National Renewable	12399
 Document Information File Name	13308
+Document Name	14045
 Document Warehouse Namibia	12478
 Does NAME	582
 Domain Name Administration	6946
@@ -816,6 +818,7 @@ NSDI Policy for Namibia	12907,124
 NTA National Training Authority NUST Namibia	12399
 NUMBERS NamRA	13108
 NaMEA	9966
+Nakfa Document Name	14045
 Nam Tier Performance	10764
 Nam-CSIRT	7627,5355,46
 Nam-X	12354,37,646
@@ -968,10 +971,11 @@ Name Reservation	12342
 Name Reservations and Company Registrations	11250
 Name Satisfactory Satisfactory Progress	12228,39,173
 Name Signature	12364
-Name Signature Date Environmental Safeguards Officer	11863
+Name Signature Date Environmental Safeguards Officer	11863,2075
 Name Signature Date Time BOZ ZIPSS	12364
 Name Signature Mr Godfrey Gomwe	4896
 Name Site TX Rx Altitude Longitude	736
+Name Technical	13938
 Name Time	12364
 Name Time Since Last Update	3861
 Name Title Sector Unit Samia Melhem	10812
@@ -1048,7 +1052,7 @@ Namelo	13087
 Namely	1596,3376,2261,3586
 Namentenga	10847,28
 Namentenga Bittou	10875
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942
 Names ARTCI	6340
 Names Impilo	3385
 Names SmartBots	4186
@@ -1081,7 +1085,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia Affirmative Action Act	12399
@@ -1175,7 +1179,7 @@ Namibia Interbank Settle-	6938
 Namibia Interbank Settlement System	6988,1263
 Namibia Intercensal Demographic Survey	9485
 Namibia Introduction	12325
-Namibia Investment Promotion and Development Board	5086,7313,51,532
+Namibia Investment Promotion and Development Board	5086,7313,51,532,1270
 Namibia JOHANNESBURG	1976
 Namibia Joint Trade Committee	9749
 Namibia Key	12380
@@ -1292,6 +1296,7 @@ Namibia and South Africa	6825,1181,4168,362
 Namibia and Starlink	1980
 Namibia and Swaziland	12657,653
 Namibia and Togo	7825,727
+Namibia and US	14307,36
 Namibia and Uganda	11198
 Namibia and Uganda. The DHA	5533,6453
 Namibia and Zambia	6580,6730
@@ -1414,7 +1419,7 @@ Namibia. Traditional	8415
 Namibia. True	13097
 Namibia. Windhoek	12325
 Namibia.About	12325
-Namibian	961,15,37,931,31,2,2,1,1,5,36,208,5,526,256,135,184,109,14,16,64,81,14,80,340,19,422,275,92,219,5,412,4,5,22,14,21,48,5,163,588,99,113,56,45,84,19,41,1,597,205,378,125,117,2,2,3,159,1,195,360,138,245,132,181,481,1,411,92,471,30,5,550,399,219,2,9,1,5,8,4,11,2,6,1,4,2,3,14,2,1,42,8,19,6,420,17,8,3,2,1,8,1,11,1,4,8,23,2,7,12,12,3,6,13,11,2,11,15,14,2,4,1,9,2,42,23,1,1,18,7,10,10,5,22
+Namibian	961,15,37,931,31,2,2,1,1,5,36,208,5,526,256,135,184,109,14,16,64,81,14,80,340,19,422,275,92,219,5,412,4,5,22,14,21,48,5,163,588,99,113,56,45,84,19,41,1,597,205,378,125,117,2,2,3,159,1,195,360,138,245,132,181,481,1,411,92,471,30,5,550,399,219,2,9,1,5,8,4,11,2,6,1,4,2,3,14,2,1,42,8,19,6,420,17,8,3,2,1,8,1,11,1,4,8,23,2,7,12,12,3,6,13,11,2,11,15,14,2,4,1,9,2,42,23,1,1,18,7,10,10,5,22,1046,14,36,39
 Namibian AI	13048
 Namibian AI Working Group	13048
 Namibian Bar	12951
@@ -1499,6 +1504,7 @@ Namibian Sun The Equiano	5081
 Namibian The Communications Regulatory Authority	5502
 Namibian University Of Science	12478
 Namibian WELL DONE	12378
+Namibian and US	14307,36
 Namibian-based Social Enterprise	12450
 Namibian-owned Green	13014
 Namibian-ownership	5529
@@ -1507,7 +1513,7 @@ Namibian-standards-setting	12895
 Namibian. All	11122
 Namibian. Our Vision Our Mandate	12951
 Namibian. Work	13104
-Namibians	1013,931,36,1,607,389,118,1400,445,589,83,5,1145,3,60,131,153,17,779,344,4,1100,313,206,1,273,1,412,92,1062,393,219,2,9,1,5,25,6,5,2,19,198,315,8,3,23,5,17,14,2,2,24,1,13,2,7,4,11,13,15,21,5,4,12,32,60
+Namibians	1013,931,36,1,607,389,118,1400,445,589,83,5,1145,3,60,131,153,17,779,344,4,1100,313,206,1,273,1,412,92,1062,393,219,2,9,1,5,25,6,5,2,19,198,315,8,3,23,5,17,14,2,2,24,1,13,2,7,4,11,13,15,21,5,4,12,32,60,1083,14,36,4,35
 Namibians Hon. Doreen Sioka	12923
 Namibians Interoperability	12477
 Namibians for CRAN	5612,5
@@ -1522,6 +1528,7 @@ Namibians. Motivating the Vote	13146
 Namibians. PROGRAMME	12984
 Namibians. Prof. Heike Winschiers-Theophilus	12994
 Namibians. Together	13044
+Namibia’s Access	14343
 Namibia’s African	1013
 Namibia’s Artificial Intelligence Strategy Framework	9107
 Namibia’s Central Bank	3180
@@ -1537,6 +1544,7 @@ Namibia’s Instant Payment Solution	8252
 Namibia’s Ministry of Gender Equality and Child Welfare	8006
 Namibia’s Ministry of Home Affairs	7126,4031
 Namibia’s National Electrification Policy	12380
+Namibia’s National Public Key Infrastructure	14253,129
 Namibia’s Public Service	12325
 Namibia’s Ranking	1013,931
 Namibia’s Root Certification Authority	8250
@@ -1628,7 +1636,7 @@ OFFICER ELECTORAL COMMISISON OF NAMIBIA Windhoek	13046
 OPM. Republic of Namibia	12325
 ORDER ORDER IN NUMBERS NamRA	13044
 ORGANIZATION NAME	2709
-OVERALL RATINGS Name	11988,1932
+OVERALL RATINGS Name	11988,1932,136
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525,1632
 Officer Table of Contents INTERPRETATION NAME TYPE	585
@@ -1641,6 +1649,7 @@ Operation Name Angola DPF L	10779
 Operation Name Congo	11905
 Operation Name Guinea-Bissau Guinea-Bissau Human Capital	11560
 Operation Name P172350 Digital Governance and Economy	2473
+Operation Name Strengthen Ethiopia's Adaptive Safety	14038
 Operationalising the Namibia Institute of Public Health	12421
 Opportunities Namibia	5036
 Opportunities and Challenges TN Telecom Namibia UPS	12973
@@ -1651,6 +1660,7 @@ Order With Me’ Operators NamRA Commissioner	13044
 Organization Name	11129
 Organization Performer Name	10244
 Organization’s Name	11129
+Oshakati The Communications Regulatory Authority of Namibia	14252
 Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
 Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
@@ -1667,6 +1677,7 @@ P166193 Operation Name	13742
 P505094 Operation Name	2291
 P506969. Operation Name	13856
 P508948 Project Name	13017
+P511478 Operation Name	14015
 P514166. Operation Name	13743
 P515127. Operation Name	13793
 PAN Payments Association of Namibia PSM Act	13076
@@ -1683,7 +1694,7 @@ PM Namibia	1977
 PM UTC Namibia	6785
 POSITION HELD EMPLOYER NAME NATURE	12374
 PPE. Name	1988
-PROJECT NAME AND SAP CODE	11863
+PROJECT NAME AND SAP CODE	11863,2075
 PROJECT TEAM Bank Staff Name Role	1284
 PROPOSALS Company Name	13037
 PROVIDERS IN NAMIBIA	13085
@@ -1698,6 +1709,7 @@ Participants Name Their Own Challenges Day	13254
 Partnership Name	11276
 Passenger Name Record	10360,363,562
 Passenger Name Record Data. Data	10723
+Patience Makwele Namibia	14347
 Patience Makwele Namibia and Botswana	9562
 Patrick Namazihana Vendredi	6620
 Payments Association of Namibia	8251,1,4840
@@ -1732,6 +1744,7 @@ Project Name Zambia Scaling-up Shock Responsive	13332
 Projects Project Name Timeline Project Description	12399
 Proposed Component Name Component	4653
 Proposed Project Location Name	1988
+Protect Namibian	14307
 Protection of Names	12393
 Province Lat Total District Municipality Name	11986
 Province Name of Head of List	12201
@@ -1751,7 +1764,7 @@ Q-Kon Telecom Namibia	5502
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
 RE NAM ENT ENGA BOUCLE	10847
-REPUBLIC OF NAMIBIA	12968
+REPUBLIC OF NAMIBIA	12968,1028
 REPUBLIC OF NAMIBIA BANK OF NAMIBIA	12365,9
 REPUBLIC OF NAMIBIA CONTENTS Page GOVERNMENT	13189
 REPUBLIC OF NAMIBIA ELECTORAL COMMISSION	13046
@@ -1809,6 +1822,7 @@ S. Namasudra	8130
 SADC UMOA UMOA UMOA UMOA Namclear	6938
 SADC-EU Trade Facilitation Programme. NamRA	12951
 SCHEDULE FOREWORD Namibia	13033
+SDG Name	13938
 SERVICES LAUNCHES NAMIBIA’S FIRST NATIONAL DIGITAL	13104
 SHEET Project Name	13731
 SITA's Advance Passenger Information and Passenger Name	4275
@@ -1839,6 +1853,7 @@ Shadric Namalomba	3933,2620,39,270,624,1730,335,1002,95
 Shadrick Namalomba	4790,8322
 Short Name	13523
 Short Name Explanation	12364
+Should Namibia	14343
 Signature of Authorized Representative Date Name	13037
 Singapore Japan Viet Nam	11135
 Singapore Japan Viet Nam Lead	11135
@@ -1958,6 +1973,7 @@ Titus Nampala	8414
 Top Level Domain DNS Domain Name	13295
 Touche Namibia	9107,1
 Tousy Namiseb	13048
+Trade Name	13967
 Trade and Investment Operation Name Angola DPF3	10779
 Trade and Investment Operation Name Angola DPO2	10779
 Trading Name	11276
@@ -1985,6 +2001,7 @@ University Of Namibia	12478
 University of Namibe	6482
 University of Namibia	5036,4837,2452,600,26,266
 University of Namibia US	12399
+Unlocking Opportunities for Namibia’s Digital Economy	14252
 User Name	13051
 Utilisation Outputs Name	12241
 V Namib-Diaz and Cerim	12399

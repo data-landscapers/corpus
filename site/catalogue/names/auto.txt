@@ -47,6 +47,7 @@ AUTOSPAN MOTORS LIMITED Data Controller INST-737918439A2	7167
 AUTOXPRESS LIMITED Data Controller INST-73436397767 NAIROBI	7167
 AUTRES AUTORITES NATIONALES DE REGULATION	13468
 AUTRES AUTORITES NATIONALES DE REGULATION Il	13468
+AVA Autonomous Operations and Network	14391
 Abidjan Auto Show	7440
 Achas Autorizo	11569
 Acronyms ABIS Automated Biometric Identification System	12241
@@ -105,7 +106,7 @@ Autofill Function	12041
 Autofinanciación	1701
 Autogas Dispensing Station	12256
 Autogirl	7798
-Automate	8817,1904,1219
+Automate	8817,1904,1219,2094
 Automate EMIS	13310
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
@@ -157,7 +158,7 @@ Automated Records Management Systems	12325
 Automated Reporting Mechanisms	13395
 Automated Spectrum Management System	5390
 Automated Switched Optical Network	6691
-Automated System for Customs Data	969,8976,2441,570,86,11
+Automated System for Customs Data	969,8976,2441,570,86,11,1072
 Automated System for Customs Data ASYCUDAWorld	13042
 Automated System for Customs Data BMS	13053
 Automated System for Customs Data Why ASYPM	13042
@@ -165,7 +166,7 @@ Automated System for Relief Emergency Consignments	13042
 Automated Teller Machine	6462,1447,3225,904,1266
 Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine Coronavirus Disease Digital	940
-Automated Teller Machines	6774,3387,1794,83,193
+Automated Teller Machines	6774,3387,1794,83,193,1801
 Automated Teller Machines ATMs	11955
 Automated Trading System	10
 Automated Transfer System	4915,1231,7168,203
@@ -176,7 +177,7 @@ Automated Transfert System	13452
 Automated Vehicle Tracking	3862
 Automated Voter Registration	12054
 Automates	13678
-Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229
+Automatic	1243,2471,1018,944,756,2385,306,2086,731,15,256,22,1229,406
 Automatic Agro-Meteorological Stations	12728
 Automatic Climate Stations	12728
 Automatic Credit and Debit Notes Management	12509
@@ -203,10 +204,10 @@ Automatic Weather Stations	11553,1175
 Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296
 Automaticmapping	8606
-Automating	8436,409,392,1919,750,327,136
+Automating	8436,409,392,1919,750,327,136,1633
 Automating Inequality	11156
 Automating for End-to-End Claims Processing Whitepaper	9237
-Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187
+Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829,44,217,252,755,526,530,289,64,187,603
 Automation Framework Implement	11952
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -242,7 +243,7 @@ Automação de Escritório	11371
 Automação de Processos	11435
 Automne	7655
 Automobile Registration Information System	11939
-Automotive	736,3588,8625
+Automotive	736,3588,8625,1023
 Automotive Gas Oil	12256
 Automotive V-belt	13385
 AutomotiveRamaphosa	7253
@@ -259,10 +260,10 @@ Autonomia Tecnológica Após	6530
 Autonomia Técnica A Autonomia Técnica	11516
 Autonomie	37,10837,101,2326,141
 Autonomie Section	37
-Autonomisation	822,4808,2596,1430,3685
+Autonomisation	822,4808,2596,1430,3685,843
 Autonomisation Economique des Femes	13547
 Autonomizar	11569
-Autonomous	5700,2680,718,247,1467,1045
+Autonomous	5700,2680,718,247,1467,1045,2212
 Autonomous Amortization Fund	10964
 Autonomous Credit Lending	5482
 Autonomous District of Abidjan	10930
@@ -274,12 +275,13 @@ Autonomous Network Power	5226
 Autonomous Port	10856
 Autonomous Port of Cotonou	9043,232
 Autonomous Port of Kribi	10980
+Autonomous Province of Bolzano	14162
 Autonomous Sector of Bissau	11536,17
 Autonomous System	7548
 Autonomous System Numbers	3503
 Autonomous Systems	762
 Autonomous Weapons Systems	2816
-Autonomy	3787,4496,815,248,1380,430,1761,707
+Autonomy	3787,4496,815,248,1380,430,1761,707,244
 Autonomy Human-out-of-the-loop	10726
 Autonomy Preference Index	8283
 Autonomy and Accountability	8283
@@ -374,7 +376,7 @@ Autorisez-vous	13300
 Autorisé	10975
 Autorit	13461,1
 Autoriteit Persoonsgegevens	8436
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81
 Autorité Administrative	9565
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Camerounaise	3233
@@ -407,7 +409,7 @@ Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de Protection. Article	1231
 Autorité de RégulatiDn des Communications Electroniques	37
-Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342
+Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118
 Autorité de Régulation CHAPITRE	13781
 Autorité de Régulation Multisectorielle de Djibouti	4402,9451
 Autorité de Régulation de Communication Electronique	1935,76,2005
@@ -533,6 +535,7 @@ DUBAI NDOGO AUTO GARAGE LIMITED Data	7167
 DUNHILL AUTOMOBILES LIMITED Data Controller INST-961714F3DF5	7167
 DUNHILL AUTOMOBILES LIMITED Data Processor INST-961714F3DF5	7167
 Dados Autoritativos	12774
+Data Sovereignty for Policy Autonomy	14121
 Declaração de Autorização	11404
 Defining AI and Automated Systems	6442
 Definition ABIS Automated Biometric Identification System	11986
@@ -659,6 +662,7 @@ Nana Appiah Acquaye The Autorité de Régulation	5962
 National Crime Automated Biometric Identification System	11081
 National Criminal Automated Biometric Identification System	11062
 Nationale Autonome	10821
+Nedbank Divisional Executive of Hyper Automation Group	14269
 Needs Assessment for Automated Case Management System	12668
 Nets Automated Teller Machines Integrated Social	10763
 Nigerian Autonomous Foreign Exchange Market	6408
@@ -709,6 +713,7 @@ Proyecto de Auto-Empleo	4209
 Proyecto de Automatización	4209
 Proyecto de Ley de Derechos de Autor	9303
 Raciocínio Automático	2816
+Rapidly Developing Thunderstorms. Auto-update. View Today	14256
 Registo Automóvel	10751,1418
 Renovação da Autorização	794
 Reparação de Automóveis	10757
@@ -776,6 +781,7 @@ Test Automation	5665,6287
 Test Automation Requirement	11952
 Times of Crisis Automated System for Customs Data	13042
 Trade and Development VAR Vector Auto-Regression VAT	236
+Une Autorité	14384
 Unlawful Automated Processing of PD	11956
 Update of Company Information Fully Automated	12389
 VA Verbal Autopsy	12413

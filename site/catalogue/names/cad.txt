@@ -78,6 +78,7 @@ Cadastrado	11384
 Cadastral	4596,7343
 Cadastral Coverage	12389
 Cadastral Information System CLCC Chief Land	11261
+Cadastral Office	13950
 Cadastral Registration and Property Rights System	12211
 Cadastral Zone A00 Central Business District	12062
 Cadastral de Angola	11408
@@ -108,7 +109,7 @@ Cadastro Interoperabilidade	11898
 Cadastro Nacional de Terras	11527
 Cadastro Predial	11384,517
 Cadastro Predial. Artigo	11901
-Cadastro Social	3594,4288,867,2005,9,12,600,31,75,1,196,18
+Cadastro Social	3594,4288,867,2005,9,12,600,31,75,1,196,18,2495
 Cadastro Social Unico	10775,4
 Cadastro Social Unico Gaspar Dos Santos	7882,3599
 Cadastro Socio	10768
@@ -219,8 +220,10 @@ Electronic Cadastre	12511
 Emissão da Certidão Cadastral	11384
 Enregistrement Cadastral	10876
 Enregistrement Cadastral CEDEAO Communauté	10876
+Establishment of Rural Cadaster and Land Administration	13998
 FICHA DO CADASTRO	10754
 Faustino de Pina Rodrigues CadiSeidi Joâo AnÍbal	11544
+Fit for Purpose Method for Rural Land Cadaster	13998
 Fonds de Solidarité des Cadres Judiciaires	13390
 Formulário de Cadastramento	10754
 Fujifilm and Innomed1 for CAD4TB	12678
@@ -272,7 +275,7 @@ National Land Cadastre	12771
 Number of Filled Posts Per Cadre Number	12976
 Nível Nacional Cobertura Cadastral	11898
 Nível Principal da Cidade Cobertura Cadastral	11898
-O Cadastro Social	10754,727
+O Cadastro Social	10754,727,2710
 O Serviço Central de Cadastro	11384
 Obrigatoriedade da Inscrição Cadastral	11384
 Observations Cadre	13468

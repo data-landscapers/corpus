@@ -54,7 +54,7 @@ Accompagnement	1247,8990,474,2734
 Accompagner	6079,2812,628,1339,107,2336,74,39,151,216
 Accompagner le ANEMCAM	10965
 Accompagner le PSA-SNFI	10965
-Accompagné	3512,2470,1292,2908
+Accompagné	3512,2470,1292,2908,3979
 Accompanied	3861,5182
 Accompaniment	13332
 Accompany	9660
@@ -84,7 +84,7 @@ Accord-Cadre	2808
 Accord-cadre	2808
 Accordance	11853
 Accorder	7917,974,1985,2414,11,480
-Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102
+Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102,161,12,4,1,20,6,87,10,11
 Accords	2465,2896,1536,3929,50,47,599,1779,540
 Accordées	10876
 Accou- Infirmière	13300
@@ -118,6 +118,7 @@ Account Name Number of Ordinary Shares	4896
 Account Number	4896,7504
 Account Number Type	11685
 Account Number UNIQUE Reference Number	12364
+Account Opening	14055
 Account Ownership	1828
 Account Ownership1	1828
 Account PPDPA Public Procurement and Disposal of Public	13420
@@ -136,7 +137,7 @@ Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
 Accountabilities	12359
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54,567
 Accountability Accountability	4563
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
@@ -186,13 +187,14 @@ Accountable Governance for Basic Service Delivery	2112
 Accountable Public Institutions	11469
 Accountant	11525,1445,7,355
 Accountant Aboubakar Ousmane	10961
-Accountant General	2531,925,3735,247,37,1529,2218,247,784,479
+Accountant General	2531,925,3735,247,37,1529,2218,247,784,479,1577
 Accountant General Department	12176
 Accountant General Godfrey Semugooma	4348
 Accountant General Mr. Arnold Mbwana Member	13053
 Accountant General's Department	5251
 Accountant General's Department. Gambians	5251
 Accountant General's Office	12214
+Accountant General. Quarterly	14185
 Accountant General’s Conference Hall	7475
 Accountant General’s Department	13005,48
 Accountant General’s Office	9004,3952
@@ -239,6 +241,7 @@ Accounting and FM IFR. RAPID-CI PCU	3604
 Accounting and Financial Reporting	13332
 Accounting and Financial Reporting System Standards System	11955
 Accounting and Payment	13042
+Accounting and Pedagogy STG System Transformation Grant	13990
 Accounts	7,4,576,2464,836,1853,5458,35,231,491,246,168,157,4,5,359,68,8,2,65,250,52,16,16,161
 Accounts Held	11233
 Accounts Rebasing Stakeholder Engagement	12395
@@ -263,6 +266,7 @@ Administrative Account	969
 Administrator Account	13333
 Advancing Accountability	8202,2954
 Advisory Counsel Sindi Manyatsi Financial Accounting	11131,3
+AfDB's Unit of Account	13966
 Africa ALHA Agricultural Land Holdings Account	11261
 African Union Data Policy Framework. Accordingly	5244
 Agency and Accountability. Iswe Foundation	8628
@@ -275,14 +279,17 @@ Aminah Zawedde. Public Accounts Committee	5343
 Analysis My Account Sign Out Stay	9629
 Annual Production Accounts	2775
 Anti-Corruption and Accountability Systems	13080
+Apple Account	14393
 Applied Accounting	13368
 Appropriation Account	13420
 Appropriation Account. Management Response Treasury	13420
 Appropriation Accounts	13420
 Appropriation Accounts and Commissions	13420
 Artemis Accords	6897
+Article VIII General Resources Account	13868
 Articled Accountant	4896
 Artificial Intelligence. Accordingly	11956
+Assembly Act. Accordingly	14072
 Assistant Accountant	12972,5
 Association of Certified Chartered Accountants Africa	12956
 Associations Accompagner	10965
@@ -344,11 +351,12 @@ CRITICAL ACCOUNTING JUDGEMENTS AND ESTIMATES	10793
 Cabinet. Accountability	7548
 Canada and Nigeria. Accompanied	10120
 Capital Pay Client Trust Account	3583
+Capital and Financial Accounts	13868
 Caractéristique Médecin Sage- Infirmière Accou- Parents	13300
 Card Accountability	6832
 Cash Flow Accounting of Fuel Subsidies	1828
 Cash Reserve Account	12364
-Center for Transparency and Accountability	8955
+Center for Transparency and Accountability	8955,5399
 Central Bank of Lesotho Account Number	12700
 Central Treasury Accounting Agency	969
 Centre for Social Accountability and Transparency	6754,1680
@@ -375,11 +383,13 @@ Clearing Account Regional Energy Regulators Association	12969
 Client Account	13333
 Code of Ethics for Accountants and Auditors	11955
 College of Accounting	11027
+College of Engineering and Technology. Accordingly	14126
 Commission. Accordingly	11956
 Communication and Account-	6938
 Completion Date FM Conditions Accounting	10829
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Conception and Scoping Account	11007
+Conduct and Accountability of Government	13948
 Confidentiality Security Transparency Transfer Accoutability	1243
 Congo. Accompagné	8065
 Consolidated Fund IMF Securities Account	11131,3
@@ -412,6 +422,7 @@ Create New Account	13333
 Create Transparency and Accountability	12419
 Crunchbase Global Funding Report. Accordingly	4972
 Current Account	2775
+Current Account Background	13868
 Current Account Balance	2775
 Custodial Account	11233
 Customer Account Report	12364
@@ -497,6 +508,7 @@ Eswatini Institute of Accountants	12996
 Eswatini Tourism Satellite Account Committee	11131,3
 Ethics for Professional Accountants	13053
 Exchequer Account Transactions	13420
+Existing Account Harmonization	14055
 Express Account	9075
 Express Account Masterpass Nombre	13390
 FI Financial Accounting GAAP Generally Accepted	13420
@@ -683,6 +695,8 @@ My Account	11877
 N M Accounting	10829
 N T ENCERCLEZ LE ACCORDÉ	13300
 NAS Account	11129
+NBE Account Number	14145
+NBE Account Numbers	14145
 NDP Act. Accordingly	11956
 NHWA National Health Workforce Accounts NTDs	12729
 NSI Reserve Account	12364
@@ -693,8 +707,9 @@ National Accord Newspaper	9876
 National Account	12395
 National Account Rebasing	12395
 National Accounting and Financial Reporting System	11955
-National Accounts	236,919,9997,85,187,1021,323,563,28
+National Accounts	236,919,9997,85,187,1021,323,563,28,509,219
 National Accounts Data Files	13331
+National Accounts Database System	14087
 National Accounts Real GDP	13685
 National Accounts Section	12962
 National Accounts16	236
@@ -708,6 +723,7 @@ National Transfer Accounts for Sub-Populations	12962
 National Treasury and Public Accounting Directorate	10845
 National Treasury. The Accounting Officer	11224
 National Unity GRAP Generally Recognised Accounting	11250
+Nationalities and Peoples. Accordingly Government	13948
 Nobody Being Held Accountable	7055
 Non-Resident Nigerian Investment Account	2841
 Non-Resident Ordinary Account	2841
@@ -769,6 +785,7 @@ Preexisting Account	11233
 Preexisting Accounts	11233
 Presenting Accounts	10
 President Global Gov. and Enterprise Key Account	7979
+Price Stabilisation Account	14267
 Private Account	9400
 Procurement Officer M&I Accountant Accountants MIS	13332
 Produced National Health Accounts	12729
@@ -888,6 +905,7 @@ Sector IT Working Group. Accountabilities	12359
 Secure Digital Services ACCOUNTABILITY WITHIN DIGITAL	6936
 Secure Employment Opportunities ACCOUNTABILITY	10835,3,130,902,16,466,1,135
 Senior Accountant	1228,11749
+Senior Accountant. Ethiopian Communications Authority	14010
 Separation of Accounting IN- National Backbone	11857
 Service Providers Relying Parties Accountable Trusted	10819
 Settlement Account	12364
@@ -900,6 +918,7 @@ Sinking Fund Cedi Account	7695
 Sochi Accord-2022.pdf	12444
 Social Accountability	12194,776
 Socio-Economic Rights and Accountability Project	7458,3642
+Sound Fiduciary Framework and Accountability and Oversight	13938
 South African Institute of Chartered Accountants	10793
 Southern African Journal of Accountability	9237
 Special Drawing Account	7845
@@ -930,6 +949,7 @@ Sub-Paymaster General’s Account TTs Telegraphic Transfers	13420
 Sub-Paymaster-General Bank Account	13420
 Sub-Paymaster’s General Account Reconciliations Finding	13420
 Submit Account Details	13333
+Summary Accounts	13868
 Supply Utilization Accounts	13049
 Supply and Utilization Account SUT Supply and Use	2775
 Support Facility DA Designated Account DGE	11549
@@ -958,11 +978,12 @@ Tourism Satellite Account	12631
 Tracy Mpofu Chartered Accountant Zimbabwean	4896
 Transit Revenue Accounts	13053
 Transition Support Facility UA Unit of Account	13731
+Transition Support Facility Unit of Account United	13938
 Transparency And Accountability DNEMIS URL	12061
 Transparency and Accountability	718,252,2118,8778,776,704,131
 Transparency and Accountability NRB	13005
 Transparent Reporting and Public Accountability	5245
-Treasury Single Account	969,315,8175,30,1,518,85,136,556,1120,231,40,493
+Treasury Single Account	969,315,8175,30,1,518,85,136,556,1120,231,40,493,1199,327
 Treasury Single Account I-6	10785
 Treasury Single Account Implementation	11952
 Trend Increasing Deterioration Accountability	12341
@@ -978,7 +999,7 @@ URA's Accounting Officer	3700
 US Foreign Account Tax Compliance Act	11685
 Unclear Accountability Explicit	10908
 Unit NTA National Transfer Accounts PEPFAR	12962
-Unit of Account	6422,5441
+Unit of Account	6422,5441,2075
 Unit of Account UGPE Unidade de Gestão de Projetos	11863
 Units of Accoun	600
 Units of Account	6422

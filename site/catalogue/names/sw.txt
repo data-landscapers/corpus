@@ -14,7 +14,7 @@ Apis Growth Fund I Swedfund	94
 Apis Growth Fund II Swedfund	397
 Apis Growth Markets Fund III Swedfund	1162
 Après Komor Switch Avant Komor Switch	6146
-Armand Swart	6727
+Armand Swart	6727,7630
 Automated Switched Optical Network	6691
 Avant Komor Switch	6146
 Avec Komor Switch	6146
@@ -94,6 +94,7 @@ Earn PSTN Public Switched Technology	12395
 Econet Land Nkayi Switch Owned Switch	4896
 Economic Commission for Africa Kingdom of Swaziland	12896
 Education Cluster. The SWAp Secretariat	12175
+Egypt and Switzerland	14101
 Embassy of Sweden	377,2870,8945,309
 Engineering and Mathematics SWOT Strengths	12512
 English and Swahili	4439
@@ -145,6 +146,7 @@ Germany's BMZ and Switzerland's SDC	4427
 Ghana and Sweden. Glob Health Action	1219,11027
 Give Nigerian Govt Sweeping Powers Over	7458
 Given the SWIO	13767
+Government of Sweden	14021
 Governments of Sweden and Switzerland	13397
 Gweru Switch EWZL Owned Switch N	4896
 HON. MOHAMED RAHMAN SWARAY Minister of Information	1161
@@ -169,6 +171,7 @@ JOAN SWART	8134
 Joan Swart	8134
 KGS and SWL	13332
 KICTANet Swahili TFGBV	6705
+KINGDOM OF SWEDEN	13996
 KTH of Sweden	12965
 Kajsa Osterberg Astrom. FCG Swedish Development	427
 Kenya National Bureau of Statistics and Statistics Sweden	497
@@ -193,6 +196,7 @@ MMSP SAECH Rules SWIPSS Rules NPS	12390
 MOHAMED RAHMAN SWARAY	410
 MTN Swaziland	6539
 Machine Modules. This Payments Switch	11131
+Madam Euphemia Swen	14318
 Making the Switch	13506
 Mali Ya Wakazi and Komor Switch	6146
 Masvingo EWZL Owned Switch N	4896
@@ -236,7 +240,7 @@ National Payment Switch Bolstering FX Reserves	11134
 National Payments Switch Financial System Adequate	11131
 National Payments Switch Project	11131,3
 National Retail Payment Switch	12589,9
-National Switch	3895,1936,846,1424,3859,34,220,727
+National Switch	3895,1936,846,1424,3859,34,220,727,1091
 National Switching and Processing System	1889
 Nicolai Swanepoel	12478
 Northern and Central Switzerland	10919
@@ -321,11 +325,12 @@ SWEDFUND	2373
 SWEEP NOTE	10144,160
 SWEEP-FINANCIERS.md	13257
 SWEEP-IATI.md	110,5,904,7542,2625,1,7,8,1,1,1,1,1,1,87
-SWEPR	12198
+SWEPR	12198,1850
+SWF-managed	13868
 SWFDP	11191,1458
 SWFDP-Southern Africa	11191
 SWFP-Southern Africa	11191
-SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203
+SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821,409,120,515,186,203,828
 SWIFT BIC	12364
 SWIFT BICs	12364
 SWIFT Bank Identifier Codes	12484
@@ -404,7 +409,7 @@ Suriname Sweden Switzerland Syrian Arab Republic	11765
 Sushma Swaraj Institute of Foreign Service	13744,47
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470
 Swagger	6423,5529
-Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30
+Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30,319
 Swahili and English	6266,4462
 Swahili and English and Huawei	6232
 Swahili and Hausa	6232,2448
@@ -518,7 +523,7 @@ Swazis	2885
 Swe Tax Agency	33
 Swearing	12531
 Swear’n’Slash	3395
-Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94
+Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248,294,41,16,19,51,47,8,2,166,596,117,96,22,94,611
 Sweden Global Cybersecurity Index	10764
 Sweden Government	13896
 Sweden Sverige	12142
@@ -535,7 +540,7 @@ Sweden’s Development Cooperation Agency	3274
 Swedfund	94,285,18,551,1,107,97,9,1061,20
 Swedfund PR	94
 Swedfund. LeapFrog	1439
-Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41,1133
+Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41,1133,976
 Swedish Ambassador	2373,11053
 Swedish Civil Contingencies Agency	6649
 Swedish DPA	8436
@@ -545,7 +550,7 @@ Swedish ICT	2673
 Swedish International Development Agency	1814,11518
 Swedish International Development Authority	12191
 Swedish International Development Cooperation	11572
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223,754,171,119
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128,104,86,223,754,171,119,393,401,6
 Swedish International FSD Financial Sector Development	12297
 Swedish Mapping	888
 Swedish Post and Telecom Authority	215,12410
@@ -569,7 +574,7 @@ Swiegers	8784
 Swiegers. TimAI	8784
 SwifPack	6019
 Swifftalk Ltd	3862
-Swift	3862,1393,4771,2338,1191
+Swift	3862,1393,4771,2338,1191,449
 Swift BIC Codes	12364
 Swift BIC Codes SWIFT BIC TEST	12364
 Swift Telephone	3862
@@ -579,6 +584,7 @@ Swift and Big Picture	3862
 Swift and Coordinated Response	10776
 Swift. Avec	13452
 SwiftVEE	7611
+Swiftly	13868
 Swiftnet	1403
 Swifttalk Ltd	3862
 Swiftway Shippers	10468

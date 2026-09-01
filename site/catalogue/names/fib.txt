@@ -8,7 +8,7 @@ Axian Telecom Fibre Ltd	3886
 Backbone Fibre Project	127
 Backbone Nacional de Fibra	1215
 Botswana Fibre Network	4094
-Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485
+Botswana Fibre Networks	2576,155,4,1348,1232,756,3491,350,138,101,2445,5,21,3,485,1277,17,1
 Bridge Fiber Solution	3396
 Bridge Fiber Solutions	10259
 Buffalo City Optic Fibre	6832
@@ -61,7 +61,7 @@ FIBANE	10965
 FIBANE RNSM CREMF	10965
 FIBRE DE CIMENT	13300
 FO Fibre Optique FOSA Formation Sanitaire	13306
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
 Fiber Breakdowns	12945
@@ -104,13 +104,13 @@ FiberOne's Q3	6749
 Fibercos	10781
 Fiberize	13312,2
 Fibers	2868
-Fibertime	1092,10036,380
+Fibertime	1092,10036,380,2857
 Fibertime Group	1092
 Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987
 Fibre Broadband	5112
 Fibre Builds	11857
 Fibre Channel	11209,1976
@@ -164,6 +164,7 @@ Fixed Fibre	11857
 Fixed Fibre Optic	6946
 Fixed Wireless and Fiber Access Network Expansion	956
 Frogfoot Fibre Packages	11259
+G and Fiber Connectivity	14151
 G and Fiber Networks	8538
 GDP. Fiber-Optic Network Expansion	12035
 Ghana. Fiber	3184
@@ -285,6 +286,7 @@ Term Explanation FC Fibre Channel FCAPS	13185
 Terrestrial Fiber Link	8214
 Terrestrial Fibre Operators	5681
 Through the Last Mile Optic Fibre Connectivity	3524
+TowerCo and Fiberco Markets	14010
 Towers and Fibre Optic Installation Authorization	718
 Trans Kalahari Fibre	1013
 Trans-Saharan Fiber Optic Backbone	2533

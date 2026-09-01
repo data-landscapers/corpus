@@ -67,6 +67,7 @@ Fibre Optic Subsea WACS Cable	8679
 Fibre Optique	3469,498,22,3631,5704,90
 Fibre Optique Au Burundi	13324
 Fibre Optique Chiffre Mobile	13324
+Fixed Broadband and Optical Distribution Network	14151
 Fixed Fibre Optic	6946
 Flexibility and Supplementary Options	3861
 Flexibility and Supplementary Options Entities	3861
@@ -91,6 +92,7 @@ Infrastructure Nationale de Fibre Optique	13587,1
 Infrastructures Fibre Optique	13414
 Infrastructures Fibre Optique Au	13414
 Insights and Optimisation Publishers	13462
+Key Education Policy Options	13953
 Language Options	11877
 Last Mile Optic Fibre	2867
 Laying and Crossing of Optical Fibre Cables	11857
@@ -159,8 +161,9 @@ Optic Infrastructure	6751
 Optical	34,4981,1906,2202,114,1484,1532,428
 Optical Character Recognition	8978,2178
 Optical Color Light Output Video Input	34
+Optical Council	14267
 Optical Cross-Connect	3797
-Optical Distribution Network	3487,5051
+Optical Distribution Network	3487,5051,5613
 Optical Ethernet	13185
 Optical FMoCDE	11857
 Optical Fibre Communications	958
@@ -191,7 +194,7 @@ Optimists	3405
 Optimization	4153,196,2083,4934
 Optimization and Leadership	4528,7984
 Optimização	11366
-Optimize	1219,1770,2256,1187,6513
+Optimize	1219,1770,2256,1187,6513,1035
 Optimize Community Health Worker Programmes. Geneva	1219
 Optimized	1824,10163,227,42
 Optimized BO-system	11219
@@ -200,6 +203,7 @@ Optimized Cost Electricity Generation and Transmission	11136
 Optimized Distribution Network	12358
 Optimizes	13037
 Optimizing	8604,2552,706,393,1,143,1536
+Optimizing Land Parcel Certification Costs	13998
 Optimizing Spectrum for Universal Access	5245
 Optimum	9455,1313
 Optimum Systems W.L.L	11722
@@ -215,8 +219,9 @@ Optional	34,3127,3262,9,5333,92,424,230,674,338
 Optional Formula	3161
 Optional GPU	13185
 Optional Phone Number	12281
-Optional Protocol	3583,7243,367,572,436,832,7,57
+Optional Protocol	3583,7243,367,572,436,832,7,57,865,49
 Optional Protocol. Namibia	13033
+Optional Redemption	14135
 Optional SmartNICs	13185
 Optionality So	7471
 Options	747,2967,5409,1689,17,1381,465,495

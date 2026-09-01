@@ -337,6 +337,7 @@ Half of Zimbabweans	12501
 Hanna Ziady	2677
 Harare Zimbabwe Email	10764,80
 Harare and Bindura The Research Council of Zimbabwe	1554
+Harare and Bulawayo. Law Society of Zimbabwe	14295
 Harare and Bulawayo. The Zimbabwean	6099
 Harare- Econet Wireless Zimbabwe	6011
 Harare- Zimbabwe	6996,6598
@@ -405,6 +406,7 @@ Kandila Moncef Ziani Laila Berbich Otmane	8891
 Kanto Kai Okanta Zimbabwe's Minister of ICT	13456,144
 Karim Zidane	6924
 Kaya- Dori- Ziniaré	10858
+Ken Zikhale Ng’oma	14190
 Kenneth Zikhale Ng'oma	12983
 Kenya Cote Zimbabwe Zambia Rwanda	3185
 Kenya Zimbabwe Launches	5562
@@ -420,7 +422,7 @@ Land and Space Zimbabwe’s Maminda Combines AI	6678
 Language English. Zimbabwe	13288,8
 Laos Thailand Cambodia DRC Zimbabwe Botswana	418
 Law Development Commission of Zimbabwe	13286,1,1,8,1,18,2
-Law Society of Zimbabwe	13438
+Law Society of Zimbabwe	13438,857
 Lawyer Zimbabwean	4896
 Le Zimbabwe	11492
 Learning Experience. The Case of Zimbabwe's Higher	1248
@@ -434,6 +436,7 @@ Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503
 Like Zimbabwe	3742
 Limited ZBC Zimbabwe Broadcasting Corporation ZCHPC	13420
 Lionel Zinsou	6514
+Liquid Intelligent Technologies Zimbabwe	14219
 Local ICT Industry Development and Empowerment Zimbabwe	13295
 Looking Ahead For Zimbabwe	9030
 Ltd. Zimswitch Technologies	12490
@@ -629,7 +632,7 @@ President of Zimbabwe. PART I Preliminary	972
 Primary Site Primary Site The ZIPSS	12364
 Primary and Secondary Education of Zimbabwe	13562
 Procurement Regulatory Authority Zimbabwe	970
-Procurement Regulatory Authority of Zimbabwe	2779,10641,84,87,94
+Procurement Regulatory Authority of Zimbabwe	2779,10641,84,87,94,610
 Procurement and Regulatory Authority of Zimbabwe	13591
 Productivity Curve Zimbabwean	6011,985
 Prof. Doutor Zipangani Vokhiwa	2816
@@ -643,7 +646,7 @@ RCA Dr. Mélanie ZIMMERMANN. En	4327
 RCZ and Zimbabwe	1154
 RECEIVE ZIMBABWE AFC COMMERCIAL BANK ACCESS	11002
 REG CEO Mr. Armand Zingiro and Ms	12358
-REPUBLIC OF ZIMBABWE	13320,6
+REPUBLIC OF ZIMBABWE	13320,6,670
 REPUBLIC OF ZIMBABWE Mabvuku Interchange Construction	13474
 RESEARCH COUNCIL OF ZIMBABWE	1154
 RESEARCH COUNCIL OF ZIMBABWE Leadership	1154,400
@@ -899,7 +902,7 @@ ZIAMIS	12453,892,1
 ZICB Financing Agreement	13460
 ZICBZMLU	12252
 ZICBZMLU UNITED BANK FOR AFRICA ZNCOZMLU	12364
-ZICTA	59,1136,793,303,731,502,1533,190,954,512,812,254,14,85,635,516,53,677,2597,20,77,883,8,1,1,1,125,40,24,22,13,36
+ZICTA	59,1136,793,303,731,502,1533,190,954,512,812,254,14,85,635,516,53,677,2597,20,77,883,8,1,1,1,125,40,24,22,13,36,670
 ZICTA Act	34
 ZICTA Acting Director General Collins Chomba	7779
 ZICTA Acting Manager of Corporate Communications Jayne	3022
@@ -1116,7 +1119,7 @@ Zambia Ethiopia Palestinian Authority Zimbabwe Gabon	11005
 Zambia Interbank ZIPSS Dedicated	12364
 Zambia Physical Address of BOZ ZIPSS	12364
 Zambia Zimbabwe	1528,11428
-Zambia and Zimbabwe	962,503,4078,2725,954,291,244,316,381,5,491,933,484,15,17,134,385,44,80,106,415
+Zambia and Zimbabwe	962,503,4078,2725,954,291,244,316,381,5,491,933,484,15,17,134,385,44,80,106,415,767
 Zambia and Zimbabwe. Both Equiano and Umoja	3619
 Zambia and Zimbabwe. For African	11324
 Zambia and Zimbabwe. In Malawi	13094
@@ -1200,7 +1203,7 @@ Ziewitz	7966
 Zig Ziglar	8900
 Zigler	2948
 Zigudu Primary School	11281
-Ziguinchor	58,4142,592,969,5800
+Ziguinchor	58,4142,592,969,5800,2430
 Ziguinchor LIRE LE JOURNAL DU JOUR	2353
 Zigwe Loan	8732
 Ziidi	6100,1467,1057,3370
@@ -1243,7 +1246,7 @@ Zimba-Soaring Eagle	4528,7984
 Zimba-corn	4528,7984
 Zimbabawe	40
 Zimbabve	13575,1
-Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10
+Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51,27,16,1,2,75,22,78,89,1,9,12,17,9,5,4,32,10,4,7,70,8,11,1,27,2,1,2,14,16,71,1,1,2,3,1,1,1,1,1,1,2,2,1,1,2,1,3,1,2,1,35,90,121,175,6,6,24,10,27,31,2,53,52,72,1,66,1,1,7,1,1,13,1,2,2,2,2,1,7,19,8,5,11,6,5,1,1,2,1,8,3,1,3,6,1,4,3,5,1,8,5,5,4,1,2,1,1,3,5,2,11,1,5,10,2,6,1,1,6,1,2,3,1,1,7,7,3,7,8,1,1,1,1,3,3,2,4,2,3,1,19,2,5,2,6,3,1,1,2,1,1,3,5,1,9,1,7,1,1,5,5,2,3,1,9,6,2,4,2,2,3,4,3,3,4,7,4,10,290,95,39,52,30,88,36,33
 Zimbabwe A Xalam Analytics Country Report	3185
 Zimbabwe AI	5733
 Zimbabwe AI Ethics Framework	8483
@@ -1369,6 +1372,7 @@ Zimbabwe Health Facility Code Namespace Identifier	6666
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666
 Zimbabwe High-Level Political Compact	13391
+Zimbabwe Household	14098
 Zimbabwe Human Rights Board	13470
 Zimbabwe Human Rights Commission	970
 Zimbabwe ICT Excellence Awards	13475
@@ -1501,6 +1505,7 @@ Zimbabwe Revenue Authority Closing Date	4896
 Zimbabwe Revenue Authority’s Fiscalisation Data Management	13606
 Zimbabwe SADC Southern African Development Community	12512
 Zimbabwe SDG Sustainable Development Goals SHaSA	13359
+Zimbabwe SME	14219
 Zimbabwe STEPS	21
 Zimbabwe Second	12507
 Zimbabwe Share Close FAO Regional Office	12507
@@ -1566,6 +1571,7 @@ Zimbabwe and Lesotho	6720
 Zimbabwe and Madagascar	6732
 Zimbabwe and Malawi Mr Tatenda Crispen Madzokere	1154
 Zimbabwe and Mauritius	12660
+Zimbabwe and Mauritius. Hungry Lion	14376
 Zimbabwe and Mozambique	11334
 Zimbabwe and Nigeria	6732,6595
 Zimbabwe and Rwanda	8295
@@ -1599,7 +1605,7 @@ Zimbabwe's E-Health Strategy	21
 Zimbabwe's Finance	9459
 Zimbabwe's First Mobile Call	7312
 Zimbabwe's Foreign Affairs	5203
-Zimbabwe's GDP	13295
+Zimbabwe's GDP	13295,924
 Zimbabwe's HIV	3385
 Zimbabwe's Health Delivery System Zimbabwe	21
 Zimbabwe's High-Impact Research Prioritisation Workshop	1554
@@ -1743,7 +1749,7 @@ Zimbabwe. ZiG	6105
 Zimbabwe. Zimbabwe	1248,4163,7076,833
 Zimbabwe. and ZWL	12490
 ZimbabweIsOpenForDigitalBusiness	13602
-Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7,225,646,1,5,1,5,2,9,3,349,431,15,6,3,1,56,9,6,16,27,5,4,50,1,49,8,2,9,38,2,30,7,7,10,17,12,3,7
+Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7,225,646,1,5,1,5,2,9,3,349,431,15,6,3,1,56,9,6,16,27,5,4,50,1,49,8,2,9,38,2,30,7,7,10,17,12,3,7,480,15,29
 Zimbabwean AI	4528,7984
 Zimbabwean AI Grand Challenge	4528,7984
 Zimbabwean Border	736
@@ -1777,7 +1783,7 @@ Zimbabwean-led	6909
 Zimbabwean-owned	6909,6695
 Zimbabwean. From Bootcamp	9030
 ZimbabweanLivesMatter	12333
-Zimbabweans	21,204,715,18,12,221,624,441,1123,1149,858,25,45,271,6,372,100,1107,124,571,855,114,253,843,1584,837,8,11,783,25,61,20,20,17,8,58,5,35,13,93,21,4,10
+Zimbabweans	21,204,715,18,12,221,624,441,1123,1149,858,25,45,271,6,372,100,1107,124,571,855,114,253,843,1584,837,8,11,783,25,61,20,20,17,8,58,5,35,13,93,21,4,10,599
 Zimbabweans Decisions	12490
 Zimbabweans Grow Increasingly Dissatisfied	12501
 Zimbabweans. Ambassador	13509
@@ -1878,6 +1884,7 @@ Zivanai	1248
 Zivanai and Mahlangu	1248
 Zivkov K	10780
 Ziwa Tanganyika	2868,3151
+Ziyaad Manie	14366
 Ziyambi Ziyambi	7782
 Zizi Afrique	12196
 Zizi Afrique Foundation	12196

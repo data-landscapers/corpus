@@ -5,7 +5,9 @@ Adm MINEF	2342
 Administrative Entities Development Agency MINEMA Ministry	12328
 Advancing Strategic Mineral Investment Projects	13060
 Africa Centre for Critical Minerals and Energy Transition	8850,3269
+Africa Minerals and Commodities Exchange	14311
 Africa's Real Gold Mine Isn't Underground	10078
+African Minerals and Commodities Exchange	14311
 Agricultural and Critical Minerals Transformation	10321,2319
 Average Export Prices of Selected Minerals	2775
 BILLS REPORT STAGE The Geological and Minerals	13387
@@ -201,7 +203,7 @@ Mineração de Dados Educacionais	2816
 Miners	12597,788
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309,1484,353,523
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Commerce Crafts	10763
@@ -228,6 +230,7 @@ Minette Libom Li Likeng. Une	2932
 Minette Libom Li LikengCAMTEL	7958
 Minette Libom Li-Likeng	4192
 Mineur	13719
+Mineworkers Investment Company	14366
 Mineworkers Provident Fund	12597
 Mineworkers Provident Fund Administrators. Currently	12597
 Mingomba Mine	13387
@@ -247,7 +250,8 @@ Minister of Posts and Telecommunications Minette Libom Li	2303,951
 Minister of Solid Minerals Development	7513
 Minister of State for Mines and Steel	11579
 Ministre des Mines	7978
-Ministry of Energy and Mines	13624
+Ministry of Energy and Mines	13624,456
+Ministry of Energy and Mines Sector	14080
 Ministry of Industries Mines and Energy	13189
 Ministry of Industry and Minerals	9862
 Ministry of Minerals and Energy	12553,42
@@ -279,8 +283,10 @@ NOM DU MINEUR	13300
 NOM POUR DES TESTS DU MINEUR	13300
 National Authority for Petroleum and Minerals	13042
 National Mineral Resources Development Policy	13348
+National Union of Mineworkers	14366
 Ngwenya Iron Ore Mine	13123
 Nigeria Mineral Sector Support for Economic Diversification	2889
+Nigerian Minister of Mines and Steel Development	14134
 Non-Metallic Mineral Products	2775
 Number and Production of Mineral Licenses	13479
 Nutanix Mine	13185

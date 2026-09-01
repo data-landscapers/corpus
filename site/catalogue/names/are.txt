@@ -35,7 +35,7 @@ AfCFTA African Continental Free Trade Area	12241
 Africa Continental Free Trade Area	4891,10,1468,454,5792,73,632,602
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -78,6 +78,7 @@ Area Command	8278
 Area Commercial Not Operational	3386
 Area Consumer Rights and Obligations Digital Literacy	5676
 Area Councils	11129
+Area Covered	14079
 Area Details Indices Targets	11857
 Area Distributed Ledger Technology Eswatini Bankers	11130
 Area IMF International Monetary Fund AI	11994
@@ -111,8 +112,9 @@ Area of Origin	10841
 Area of Project Name Project Description Budget	11986
 Area of Weakness Description Ideal State Infrastructure	11986
 Area-based	10864,1505
-Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25
+Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129,291,96,207,25,1019
 Areas Beyond National Jurisdiction	8681
+Areas Demonstrating Progress	14022
 Areas Lacking Sufficient Commercial Interest for Investments	11529
 Areas Management	789,172
 Areas Privadas	11373
@@ -130,6 +132,9 @@ Areas of Expertise Policy	11006,1
 Areas of ICT Accessibility and Level of Implementation	11935
 Areas of Impact	12058
 Areas of Intervention Partner Nature of Involvement	3604
+Areas of PFM	14185
+Areas of Work EARDIP	14079
+Arebbusch Travel Lodge	14253
 Arecallof	8606
 Areeba	2259
 Aregash Getachew Hailu and Zerihun Yohannes Amare	12158
@@ -157,6 +162,7 @@ Assessment Area Findings Legal and Regulatory Kenya	12210
 Assessment Area Network Performance Service Quality	5676
 Average Area	10765,10
 BRITISH AMERICAN TOBACCO AREA LIMITED Data	7167
+Bank and UNHCR. E. Project’s Target Area	13938
 Bay Area	10430
 Boripe Local Government Area	10049
 Broadband Global Area Network	736
@@ -186,7 +192,7 @@ Community Settlement Areas NAP National Adaptation	1867
 Competitiveness and Innovation Practice Area	10964
 Conflict-Affected Areas	1066
 Continental Africa Free Trade Area	12660
-Continental Free Trade Area	4905
+Continental Free Trade Area	4905,9233
 Continental Free Trade Area AM Accountability	1264
 Continental Free Trade Area ANALYSIS REPORT	10980
 Contributing Practice Areas Agriculture and Food	1867
@@ -229,7 +235,7 @@ Disputed Areas OP	1284,9545,134,1,561,330,110,172,1194,1
 Districts And Areas In Which Registration	12138
 Djibouti. Practice Area	13850
 Draft Exclusive Geographic Areas	7980,109
-E. PROJECT’S TARGET AREA AND POPULATION	11863
+E. PROJECT’S TARGET AREA AND POPULATION	11863,2075
 E. Project Target Area	11863
 E.1 Project Area and Location	11863
 EA Enumeration Area Figure	582
@@ -237,6 +243,7 @@ EAC One Network Area	6928
 EAC's One Network Area	2296
 ECOWAS Wide Area Network	238
 ENUMERATION AREA NUMBER	582
+EU Priority Areas and Proposals of Team Europe	13992
 EVALUATION MATRIX. Compliance Area Requirement	6432
 Ede South Local Government Area	10049
 Education Area	13314
@@ -257,18 +264,19 @@ Evaluation Area Criteria Description Weight Score	13031
 FOCUS AREAS	5245,3109
 FOCUS AREAS RECOMMENDED INITIATIVES N F1	11857
 FOCUS AREAS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE	11857
+Federal Democratic Republic of Ethiopia Practice Area	14015
 Financial Capability Priority Area Consumer Protection	940
 Financial Mail. Arena	13461
 Financing of Terrorism Common Monetary Area Centre	11134
 Focus Area	10964,170,771,1206
 Focus Area FCFA The Central Africa	969
 Focus Area II	13332
-Focus Areas	1814,3431,6953,207
+Focus Areas	1814,3431,6953,207,1566
 Focus Areas DEI Diversity	12493
 Focus Areas The Focus Areas	1814
 Founder and Chief Executive Officer of ARED Group	11834
 Four Strategic Focus Areas	5245
-Free Trade Area	7039,4955,1326,243
+Free Trade Area	7039,4955,1326,243,575
 Free Trade Area AI Artificial Intelligence	4126
 Free Trade Area AIP Agricultural Inputs	13095
 Free Trade Area AfDB African Development	7548
@@ -302,7 +310,7 @@ Government of Kenya. PARAGRAPH2 AREAS OF COOPERATION	4153
 Government of Nigeria's Presidential Priority Areas	12308
 Government-Wide Area Network	2256
 Government-Wide Area Network A Government	13346
-Greater Banjul Area	332,932,7756,1090,1975
+Greater Banjul Area	332,932,7756,1090,1975,2175
 Greater Maputo Area	12275
 Green Economic Growth Priority Area	970
 Grill Area Design	11134
@@ -321,6 +329,7 @@ Household Size and Average Area Per Person	2775
 IATA Associação Internacional de Transporte Aéreo AREA	11376
 IDA Horizontal Distribution Area	9123
 IDAs. Horizontal Distribution Area	9123
+III. AREAS OF CONCERN AND RECOMMENDATIONS	14149,1
 IMPACT AREA RIGHT OF WAY	11857
 INATRO's Technical Area Administrator	12275
 INSTITUTIONAL DATA Contributing Practice Areas Practice	11855
@@ -364,10 +373,12 @@ Key Performance Areas	5676
 Key Performance Areas Consumer	5676
 Key Performance Areas KPIs	13053
 Key Priority Area LCA	12759
-Key Result Area	12321,684
+Key Result Area	12321,684,994
 Key Result Areas	958,12047
+Key Result Areas and Project Components	13998
 Key Results Areas Achieve	13005
 Kingdom of Eswatini. Key Areas Supported	11131
+Kontagora Local Government Area	14394
 Kosofe Local Government Area	10742
 KwaZulu-Natal's Disease Management Area	2626
 LDCs AND FCV-AFFECTED AREAS	11572
@@ -382,6 +393,7 @@ Leveraging the African Continental Free Trade Area	11140
 Lib. Secretariat Sect. Local Government Area	11129
 Local Area Development	1867,121
 Local Area Network	10821,2156,333
+Local Area Network M&E	13956
 Local Area Network Upgrade	12597
 Local Area Networks	10721
 Local Area Networks LBDA Lake Basin	6946
@@ -469,6 +481,7 @@ Performance Outcome Areas	10984
 Philanthropic Aren't	38
 Planted Area	2775
 Pledges Aren't Enough	12227
+Policy Area	14022
 Policy Areas EVOBJ TBL Page	10779
 Policy Areas Fiscal Openness	11866
 Policy Areas Legislation	11873
@@ -486,7 +499,7 @@ Presidential Priority Areas	12308
 Principles Governance Legal Framework Priority Areas	21
 Print Disabilities Area Networks	6946
 Priority Applications and Impact Areas The Indaba	13101
-Priority Area	970,234,11760
+Priority Area	970,234,11760,974,54
 Priority Area Digital Financial	940
 Priority Area Specific Objective	970
 Priority Area-specific	970
@@ -617,7 +630,7 @@ Water Development and Area Plans	1988
 Western Area	8820
 Western Area Urban District	8903
 White Group Area	11245
-Wide Area Network	1783,11139,55,28,305,36
+Wide Area Network	1783,11139,55,28,305,36,610
 Wide Area Network HISP Health Information	12917
 Wide Area Network HQ Headquarters ICAO	13005
 Wireless Local Area Network	3386

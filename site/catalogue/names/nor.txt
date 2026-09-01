@@ -10,6 +10,7 @@ Abuja North	11857
 Accra North Operational	3386
 Acting North West Regional Education Director	12636
 Actividades de Normalização	12782
+Adjusted CA Norm	13868
 Adopting the EMIS Norms and Standards	13310
 Adopting the Norms and Standards	13310
 Africa Asia Europe North America South	10718
@@ -61,10 +62,11 @@ BO-4 Adamawa North East	11857
 BO-5 Borno North East	11857
 BO-6 Borno North East Special Hospital	11857
 BO-7 Borno North East	11857
+Background The Governments of Eritrea and Norway	13957
 Bank of Zambia Kaplan and Norton¹	13532
 Bauchi North East	11857
 Bauchi North East Secondary	11857
-Beijing Normal University	10295,1378
+Beijing Normal University	10295,1378,2594
 Bengo Lunda Norte Cunene Uíge Bié	4044
 Benguela Bié Cabinda Cuando-Cubango Cuanza Norte	10766
 Benguela Cuando Cubando Lunda Norte Uíge	10775
@@ -82,6 +84,7 @@ Bureau Burundais de Normalisation	13433
 Burundi. Sé Edouard Normand BIGENDAKO Gouverneur	13390
 Business Botswana Northern Trade Fair	12552
 Busongora County North MP	10890
+CA Norm	13868
 CADRE NORMATIF DE REFERENCE La BRB	13468
 CAF. Norfund	2234
 CAPÍTULO III Normas Técnicas Moçambicanas ARTIGO	12782
@@ -137,7 +140,7 @@ Cuanza- Norte	4044,6734
 Cuanza- Norte Sociedade Cuanza Norte	10778
 Cubango Cuanza Norte Cuanza Sul	10766
 Cubango Cuanza Norte Cuanza Sul Cunene	10766
-Cultural Norms	12214
+Cultural Norms	12214,1724
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Cunene Huambo Huíla Luanda Lunda Norte	10766
 Custos Cadastrais Normas de Serviço	11898
@@ -208,6 +211,8 @@ Empresas Norte-americanas	3093
 Energie RIN Réseau Interconnecté Nord RIS	10975
 English-language and Global North	7151
 English-speaking North West and South West	7958
+Eritrea and Statistics Norway	13957
+Eritrea and Statistics Norway URL	13957
 Ernest North	9675
 Escola Normal	11552
 Escola Normal Superior Tchico Té Bissau	11552
@@ -224,6 +229,8 @@ Extreme Nord	10985
 Extrême Nord	10965
 Extrême Nord Mini	10975
 FMO and Norfund	11300
+Facturation Normalisée	14302
+Facture Normalisée	14302
 False Northing	12413
 FanDuel Group North America	10293
 Far North	3392,20,21,1161,9,1528,1827,2883,122,1,1,15,5,4,1
@@ -248,7 +255,9 @@ GO-4 Gombe North East	11857
 GPE KIX and Norad	1017,942
 Garantia de Articulação Normativa	11448
 Garneton North Solar Project	5247
+Gash-Barka and Northern Red Sea	13979
 Gates Foundation Norat	7065
+Ghanaian Times Northern Regional Minister	14213
 Ghana’s North	789
 Global North	571,414,5,1,2607,930,148,566,650,249,595,54,348,13,832,143,334,904,375,198,1113,93,26,921,137,285
 Global North Europe Asia America Latin	4972
@@ -315,6 +324,7 @@ Instituto Angolano de Normalização	11381
 Instituto Nacional de Normalização	12782,33,14
 Instrumentos Normativos Secundários	11448
 Internal North-South	789
+Irishaid and Norway	14402
 Irlande du Nord	6613
 Islands Norway Oman Pakistan Palau Palestine	11470
 Ituri and North Kivu	11900
@@ -451,6 +461,7 @@ Moroni Nord	4386
 Moxico Cabinda Cuanza Norte Huambo Huila	10753
 Mozambique Northern Urban Development Project	1228
 Mozambique Zimbabwe Botswana South Africa North	9616
+Mr. Michael Norton	14140
 Mr. Norman Albi	2375,1485
 Ms. Noriana Muneku	13378,14
 Muchinga Eastern Luapula Northern Western Figure	12431
@@ -473,7 +484,8 @@ NG-1 Kogi North	11857
 NG-3 Kwara North	11857
 NG-5 Niger North	11857
 NG-7 Niger North	11857
-NORAD	3272,3713,3834,1356
+NORAD	3272,3713,3834,1356,1782
+NORAD COLLECTED REVIEWS	13957
 NORD Filles	10847
 NORD Garcons	10847
 NORD LOROUM	10847
@@ -505,6 +517,7 @@ NORTH WEST	1940
 NORTHERN	582
 NORTHERN CAPE	1940
 NRD Norway Registers Development AS NUL	12675
+NSO and Statistics Norway	13957
 Nairobi Central and Nairobi North	6946
 Nairobi North-eastern Coast Central Nyanza Western	9646
 NamPower and Nored	12933
@@ -533,6 +546,7 @@ Norad	689,1258,8767
 Norad CHF	689
 Norad-funded ITU	689
 Norah	7435
+Norah Chavula-Chirwa	14190
 Norah Kimathi	7435
 Norah Kipwola	12195
 Norah Madaya	9708
@@ -562,6 +576,8 @@ Nord. Copenhagen	10841
 Nord. En	737,11047
 Nord. Face	3680
 Nordhaug	1243
+Nordic	14308
+Nordic Consulting Group	13957
 Nordic Data Imaginary	11028
 Nordic Institute for Interoperability Solutions	3070,3598
 Nordic Journal of Nursing Research	4432
@@ -598,6 +614,7 @@ Normal Manuais de Utilizador Formação Assinatura	12021
 Normal Mode	13524
 Normal Order	11877
 Normal Rapatrié Déplacé	13390
+Normal Urgent Submit	14326
 Normal. Se	12018
 Normale Supérieure	13364
 Normale Supérieure de Natitingou	10821
@@ -675,6 +692,7 @@ Norrsken22 Fund	819
 Norrsken22 and Blue Earth Capital	1140
 Norrsken22 and Blue Earth Capital. Norrsken22	1140
 Norrsken22 and Costanoa Ventures. Norrsken22	1139
+Norsaac	14285
 Nortal and Baltic Computer Systems	2910
 Norte	2816,1228,2569,2786,591,761,15,600,7,32,132,156
 Norte BILALI	6613
@@ -688,8 +706,8 @@ Norte Lunda Sul Malanje Moxico Namibe	10766
 Norte-Centro-Sul	11366
 Norte-Sul	11373,20
 Nortey Street	3386
-North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175
-North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933
+North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175,694
+North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
 North Africa North Africa	11964
@@ -700,7 +718,7 @@ North Africa and West Asia	4807
 North Africa. Benmouloud	2845
 North Africa. By Samira Njoya	2567
 North Africa. Recent	4084
-North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97
+North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97,1869
 North African Power Pool	11149
 North Africa’s Digital Health Push Tunisia	7766
 North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367
@@ -718,11 +736,12 @@ North Borneo	2518
 North Caribbean Africa	10977
 North Caribbean Africa Saved	10977
 North Caribbean Africa Smartphone Feature	10977
-North Carolina	7479,2489
+North Carolina	7479,2489,4415
+North Carolina. The U.S	14383
 North Center	10866
 North Central	11857,141
 North Darfur	6947
-North East	2776,4715,879,1772,1856
+North East	2776,4715,879,1772,1856,2354
 North East District. FM	12552
 North East Main Sector	12445
 North East Region	2776
@@ -742,7 +761,7 @@ North Kivu and Ituri	11916
 North Kivu and South Kivu	11900
 North Kivu. Isolated	11900
 North Kordofan	10192,142
-North Korea	6825,646,4138
+North Korea	6825,646,4138,2505
 North Korea North Macedonia Northern Mariana	11470
 North Korea-linked	4127
 North Korean-backed	4127
@@ -843,7 +862,7 @@ Northeast Nigeria. CARE. Retrieved	3456
 Northeastern	12369
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327
 Northern Africa and Western Africa	585
 Northern Africa and Western Asia	10846
@@ -891,17 +910,22 @@ Northern Northern Nairobi County Region Meru	7869
 Northern Northern Northern Northern Northern Northern	7869
 Northern Nyanza Central Rift Western	7869
 Northern Nyanza Q	7869
+Northern Parts of Eastern Africa	14158
 Northern Province	718,3901,7784,28,3,37,984,141
 Northern Province and Chama District	13477
 Northern Province of Zaire	3980
 Northern Provinces of Mozambique	12220
 Northern Provincial ICT Unit	12880
+Northern Red Sea	14125
 Northern Region	2776,6151,3247,79,25,475
 Northern Region Operational November P. O	3386
 Northern Region. Apart	13361
 Northern Region. The Chinese Government	13122
 Northern Regional Chairman	10142
+Northern Regional Coordinating Council	14213
 Northern Regional Electricity Distribution Company	12399
+Northern Regional Minister	14213
+Northern Sector	14158
 Northern Tuli Game Reserve	5879
 Northern Uganda	9382
 Northern Uganda Film Awards	9781
@@ -943,7 +967,7 @@ NorvanReports	8174
 Norvig	2816,4016
 Norvisi Addo	2824
 Norvège	5667,946
-Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643,187,117,188
+Norway	5302,398,406,507,236,1072,455,185,49,457,160,395,23,187,280,181,421,71,34,45,311,397,37,42,524,643,187,117,188,804
 Norway Global Cybersecurity Index	10764
 Norway MFA	8561
 Norway National Population Register	10714
@@ -964,7 +988,7 @@ Norwegian Agency for Development Cooperation NRP	12175
 Norwegian Centre for Tax Research	10335
 Norwegian Government	12168
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
-Norwegian Refugee Council	2778,1479,2690,872,3022,1386,552
+Norwegian Refugee Council	2778,1479,2690,872,3022,1386,552,1219
 Norwegian-funded	13144
 Norwegian-origin	7921
 Não Aplicável NAS Normas Ambientais	11413
@@ -1020,7 +1044,7 @@ Reino da Noruega	10752
 Resource Plan Nored Northern Regional Electricity	12399
 Resources Availability and Utilisation Norm Average Score	13310
 Review of SADC EMIS Norms and Standards	13310
-Royal Norwegian Embassy	4767,7408
+Royal Norwegian Embassy	4767,7408,1782
 Royal Norwegian Embassy S1-S8	12175
 Royaume de Norvège	10712
 Rurale ANOR Agence des Normes	10975
@@ -1079,6 +1103,7 @@ Southern Lusaka Central North Western Luapula	12431
 Southwest Asia and North Africa	12088
 St. Northern Industrial Windhoek	13247
 Statistics Norway	12367,46
+Statistics Norway and National Statistical Office of Eritrea	13957
 Subcomissões Técnicas de Normalização	12782
 Sugar Cane Mkt Borno North East	11857
 Suitable Strategies The North West and North	11998

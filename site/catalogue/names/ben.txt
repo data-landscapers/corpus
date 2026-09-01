@@ -91,7 +91,7 @@ BENDA BAITURIU'S MEDICAL CENTRE Data Processor	7167
 BENDITO SANTOS HOSPITAL LTD Data Controller	7167
 BENE BUSINESS SYSTEMS LTD Data Controller	7167
 BENE BUSINESS SYSTEMS LTD Data Processor	7167
-BENEFICIARIES AND OTHER STAKEHOLDERS	11863
+BENEFICIARIES AND OTHER STAKEHOLDERS	11863,2075
 BENEFICIÁRIOS	11531
 BENEFICIÁRIOS IARD	11531
 BENEFIT SCHEME Data Controller INST-716362E20BD NAKURU	7167
@@ -207,7 +207,7 @@ Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
 Benchmarking and Research	12356
 Benchmarking of ICTs	690
-Benchmarks	3806,37,7001
+Benchmarks	3806,37,7001,3249
 Bender	7789,3261,85,5
 Bender and Friedman	7790
 Bendraoui	8812
@@ -244,7 +244,7 @@ Beneficial Ownership Register	7845,4463
 Beneficial Ownership Workpage	11276
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
 Beneficiam	12018
-Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455
+Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455,21,60,26
 Beneficiaries Beneficiaries Page	10964
 Beneficiaries Mohammed Chikawe	9590
 Beneficiaries National	13395
@@ -307,6 +307,8 @@ Benefits of Explainable AI	13021
 Benefits of Financial Inclusion	10822
 Benefits of ISO	13388
 Benefits of Metadata Standards	12360
+Benefits of NRLAIS	13998
+Benefits of SLLC	13998
 Benefits of Semantic Interoperability	12360
 Benefits of Standardizing Data Definition	12360
 Benefits of Technology Neutral Spectrum Licences	10856
@@ -374,8 +376,8 @@ Benhammou	8460
 Benhassine	11924
 Benifei	8014
 Benign	226
-Benim	11569,124
-Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89
+Benim	11569,124,2619
+Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89,612
 Benin APDP	6202
 Benin AROUNA	6613
 Benin Accelerates Digital Transformation	3790
@@ -436,6 +438,7 @@ Benin Municipalities37	10856
 Benin Opportunities	10856
 Benin PLFR	6548
 Benin Power Compact	87
+Benin Registration	14316
 Benin Releases First National Cybersecurity Report	3214
 Benin Republic	9874
 Benin Republic and Cameroon	8167
@@ -532,7 +535,8 @@ Benin’s Ministry of Interior and Public Security	10822
 Benin’s MonEntreprise.bj	10887
 Benin’s SECUROUTE	10852
 Benis	2948
-Benishangul Gumuz	12198
+Benishangul Gumuz	12198,1850,48
+Benishangul Gumuz Region	13998
 Benishangul Gumz	11004,960
 Benishangul-Gumuz	12257
 Benishangul-Gumz	12199
@@ -561,6 +565,7 @@ Benjamin Magare-Gikenyi	2666
 Benjamin Mark Roberts	9506
 Benjamin Mark Roberts and Ajao Adewole David	9507
 Benjamin Mauerberger	9968
+Benjamin Mensah Reporter	14285
 Benjamin Mkapa Foundation	1261
 Benjamin Mkapa Foundation Chief Executive Officer	7321
 Benjamin Mkapa Hospital	8614
@@ -844,6 +849,7 @@ ID4D Practitioner’s Guide. Category Benefits Administrative	10775
 IFC Benin	3255
 III. Benchmark-Objectifs-Impacts IV. Critères	1247
 III. Benchmark-Objectifs-Impacts Objectifs	1247
+INCREASING NATIONAL DATA DEVELOPMENT AND BENEFIT	14004
 INGD Vai Digitalizar Registo de Beneficiários de Assistência	12859
 IREG Benin	7662
 ITU G5 Benchmarks	6539
@@ -882,12 +888,14 @@ Jorge Benício Armindo Benildo Joaquim Helena	2989
 Jospin Benameyi	3301
 KG-2 Benue North	11857
 KG-3 Benue Central	11857
+KOTRA Senior Specialist Benedict Diyamett	14398
 KW-1 Benue North	11857
 Kamel Benelkadi	9244
 Kanto Kai Okanta Benin	4246
 Kemkil Adangran Benoît	4589
 Kenya and Benin	5350,8274
 Kenya for Benchmarking	12433,529
+Key Beneficiaries IGAD Member States	14079
 Key Benefits	3495,2626
 Key Benefits of HRIMS Implementation	13477
 Key Stakeholder Benefits	11940
@@ -916,6 +924,7 @@ M Benin Power Compact	87
 M F Angola Bengo Benguela Bié	10766
 M. Amine Bensaid	8891
 M. Benguela Guidjinga	6125
+M. Benjamin Mouandza	14173
 M. Benoît Wu	6280
 M. Covers Benin	5362
 M. Mohamed Benkaddour	8891
@@ -935,7 +944,7 @@ Malawian AI By Benson Kunchezera	10111
 Mali Guinea-Bissau Benin Niger Senegal Rwanda	10856
 Mandatory Type of Information Required for Beneficial Owners	12389
 Manufacturing and Beneficiation	13320
-Marc Benioff	6265,5417
+Marc Benioff	6265,5417,2665
 Marc Benioff and ITU	7174
 Marc Benioff. An African	7309
 Marca Mercedez Benz	11532
@@ -1001,6 +1010,7 @@ Municípios Homens Mulheres Bengo	4044
 Mushiri University of Zimbabwe Coal Beneficiation	1154
 Mustafa Benhamza	8891
 Mustapha Ben Messaoud	3000
+NATIONAL BENCHMARKING Eritrea	13962
 NIRA Officials Visit NADRA Offices for Benchmarking	10521
 NNOV Benin	11529
 NUMBER OF BENEFICIARIES MODE	12977
@@ -1044,6 +1054,7 @@ Number of OVC Beneficiaries Region No. of Schools	12977
 Nwideedu Barry Benedict	10274
 O País Mozambique’s Prime Minister Benvinda	11340
 OPTIMISED BENEFICIAL OWNERSHIP DECLARATION MS. LUCINDA	11219
+Obligation of Guarantee Fund Beneficiaries	14024
 Open Contracting and Beneficial Ownership Transparency	12176
 Operational Benefits	12211
 Optimized Beneficial Ownership Declaration Functionality	11219
@@ -1056,6 +1067,7 @@ P-CGS Beneficiaries	11998
 P2G Benin Economic Governance for Service Delivery	10870
 PAFEN Cost Benefit Analysis	1284
 PAGF-SI MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	3715
+PARTICIPATE IN AI DEVELOPMENT AND BENEFIT	14004
 PCU Beneficiaries	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
 PDO Indicators Beneficiaries of SSN	11924
@@ -1064,6 +1076,7 @@ PIU Beneficiaries	10964
 PIU Research Firm Beneficiaries	10964
 PKIs. Benin	8073
 PPDA Executive Director Canon Benson Turamye	11615
+PRODUCTIVITY OF AND BENEFITS FROM RESEARCHES	14004
 PROGRAMME TERRA BENIN	10876
 PROGRAMME TERRA BENIN MANUEL D’OPERATIONS	10876
 PROVÍNCIA Bengo	10751
@@ -1072,7 +1085,7 @@ PURPOSE AND BENEFITS	11184
 Par Dounia Ben Mohamed Après	8140
 Partech Africa Team Marie Benrubi	12339
 Pathogen Access and Benefit Sharing	4049,1501
-Pathogen Access and Benefit-Sharing	5456
+Pathogen Access and Benefit-Sharing	5456,8887
 Pathogen Access and Benefit-Sharing System	6534
 Pathogen Access and Benefits Sharing	4049
 Patrick Benichou	11372
@@ -1087,6 +1100,8 @@ Performance Indicators and Benchmarking	9855
 Persistent Benchmarks	6051
 Places of Care Ben	12373
 Plan TIC Benin	11529
+Population Beneficiaries	13938
+Population and Housing Census for Benishangul-Gumuz Region	14005
 Port Harcourt and Benin City	5874
 Posse de Bens	10777
 Potential Benefits	10765,10
@@ -1124,6 +1139,7 @@ Public Disclosure Authorized Benin Economic Governance	10870
 QCT-BENIN SPACETEL BENIN	10821
 RADIO BENAA FM	13324
 RBA Retirement Benefits Authority RMLF Road	2775
+REPUBLIC OF BENIN	13996
 REPUBLIQUE DU BENIN	10876
 RGPH-5. Nassuf Ben Amad	10285
 RSI Beneficiaries	11855
@@ -1174,6 +1190,7 @@ SAIDI SAIDI BenchmBareknc	12256
 SAIFI Benchmark	12256
 SAIFI Benchmark EPRA Target Figure	12256
 SARB Benchmarking Exercise	11131
+SCIENTIFIC ADVANCEMENT AND ITS BENEFITS	14073
 SCT Beneficiaries	13332
 SCT MIS and Zambia Beneficiaries of SCT	13332
 SCTP MIS and Share of SCT Beneficiaries	13332
@@ -1215,6 +1232,7 @@ Stacking Up the Benefits	11140
 Staff Retirement Benefits Scheme Data Controller	7167
 Staff Retirement Benefits Scheme Data Processor	7167
 Stakeholders Discuss Benefits	10370
+State of Benshangul	13948
 Storage of Company and Beneficial Ownership Information	12389
 Strategic Plan Polls Request Forms Benchmarking	9109
 Streamlined Payroll and Benefits Management Automated	13477

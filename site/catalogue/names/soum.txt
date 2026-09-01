@@ -14,7 +14,7 @@ Formulaires de Soumissions	13524
 Imourana Soumanou	7886
 La Soumission	13524
 Le Soumissionnaire	4342
-Les Soumissionnaires	3321,1021,4997,4228,204
+Les Soumissionnaires	3321,1021,4997,4228,204,516,1
 M. Soumaila Abdoul Karim	3967,22
 MFBSB. Les Soumissionnaires	4342
 Minister Mourana Soumah	5089,1769
@@ -45,7 +45,7 @@ Salissou Soumana Karimou Publié	9668
 Sekou Soumahoro	10940
 Soum le TBS	737
 Soumah	7188
-Soumahoro Farikou	9620
+Soumahoro Farikou	9620,4682
 Soumana Boubacar	7333
 Soumanan Sanou	932,51
 Soumayila BARA	7670
@@ -55,9 +55,9 @@ Soumettent	10876
 Soumettre	4893,2061,1797,2125
 Soumettre le PTA	10876
 Soumis	10087,559,1465,1
-Soumission	10876,1167
+Soumission	10876,1167,2189
 Soumission COE	10876
-Soumissionnaire	9339,1061,3124,43,63
+Soumissionnaire	9339,1061,3124,43,63,657,1
 Soumissionnaire Prix	10400
 Soumissionnaires	3321,1021,9182,43,204
 Soumissionnaires A. Généralités	13524
@@ -67,5 +67,6 @@ Soumissionnaires. Référence	13524
 Soumissionnaires. SI	13524
 Soumissions Burundi	13694
 Soumitra Dutta	11883
+Soumya Bannerjee	14017
 Willy SAGBE Soumaïla MALO	10850
 Youssouf Soumah	7901

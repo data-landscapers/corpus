@@ -111,8 +111,11 @@ CRIME MANAGEMENT	12953
 CRIMINAL ATTACK SYSTEM FAULT HUMAN ERROR	2709
 CRIMINAL COURT STATISTICS	12920
 CRIMINAL JUSTICE	11857
+CRIMINAL LEGISLATION Specific	13962
 CRIMINAL OFFENCES	11181
 CRIMINAL REFERRAL MECHANISMS AND PROSECUTORIAL COORDINATION	3861
+CRIMS	14107
+CRIMS Project Steering Committee	14107
 CRIMSON COMPUTER SERVICES LIMITED Data Controller	7167
 CRIMSON COMPUTER SERVICES LIMITED Data Processor	7167
 CRIPC	13177
@@ -140,6 +143,7 @@ CRITICAL SKILLS Figure	1940
 CRITICAL SUCCESS FACTORS	12917,56
 CRIVEZ LE NOM	13300
 CRIVEZ LE NOM ET LE NUMÉRO	13300
+CRW Crisis Response Window	14038
 CYBER CRIMES ACT	2726
 Caixa Económica de Cabo Verde Soeli Cristina	11955
 Cameroon. Criminal	10979
@@ -167,6 +171,7 @@ Co-Criar. In Criolo	11546
 Cocinero B3 Criado A3	4209
 Code of Criminal Procedure	11900,1413
 Code of Criminal Procedure. Under	13313
+College of Marine Science and Technology CRA Criteria	13960
 Combat Cyber Crime	1777
 Combat Cyber Crime Liberia	1777
 Combat Cyber Crime-----------------------------	1777
@@ -186,7 +191,7 @@ Computer Crime and Cyber Crime Act	1642
 Computer Crime and Cyber Security Act	1535
 Computer Crime and Cyber Security Bill	1200,335
 Computer Crime and Cybercrime	26,12369
-Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31,502
+Computer Crime and Cybercrime Act	26,1790,4723,2986,508,433,1929,31,502,1329
 Computer Crime and Cybercrime Draft Regulations	12395
 Computer Crime and Cybersecurity Bill	1535,7165,3975
 Computer Crime and Cybersecurity Bill7	12675
@@ -227,7 +232,7 @@ Crianҫa	10768
 Criar	2816,703,627,72,2244,4310,596,8,9,11,1,8,44,69,51,1205
 Criar Chatbots	2816
 Criativas	8385
-Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120,749,29,24
+Criação	14,2802,1331,71,6536,1,28,577,11,39,3,30,1,72,16,37,332,120,749,29,24,1489
 Criação Online de Empresa	12021
 Criação de Centros de Dados	2816
 Criação de Centros de Treinamento	2816
@@ -260,17 +265,19 @@ Crime Prevention and Security	2626
 Crime Prevention and Security Cluster MISS Minimum	11218
 Crime Rate	12953
 Crime Statistics	11188
+Crime Transnacional	14312
 Crime and Corruption	11245
 Crime-as-a-Service	11325
 Crimes	3519,7906,886
 Crimes Act In Zimbabwe	13508
+Crimes Against Humanity	13948
 Crimes Cibernéticos	6970,77,689,2404
 Crimes Cibernéticos A Imprensa Nacional de Moçambique	7047
 Crimes Cibernéticos. ASSEMBLEIA DA REPÚBLICA Lei	6970
 Crimes Económicos	12787
 Crimes Reported	2775
 Criminais	10750
-Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363
+Criminal	180,40,1254,403,1729,9,512,1381,25,453,1480,1805,345,1133,1,1,1,1,12,7,3,204,159,43,96,8,183,139,289,32,15,43,160,187,335,245,7,120,363,545,64
 Criminal Act	10192
 Criminal Act. Saleh	10192
 Criminal Activities and Protocol	318
@@ -294,6 +301,7 @@ Criminal Investigation Department	587,10494
 Criminal Investigations Department	8767,4470,295,49
 Criminal Judgments Delivered	12920
 Criminal Justice	11857
+Criminal Justice Administration	14012
 Criminal Justice Miscellaneous Provisions Act	11857
 Criminal Justice System	11270
 Criminal Law	972,5979,6557
@@ -313,9 +321,10 @@ Criminal Procedure Code	10979,2424
 Criminal Procedure Code Law	11857
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892,4447
-Criminal Procedure and Evidence Code	12174
+Criminal Procedure and Evidence Code	12174,1838
 Criminal Record Certificate	11939
 Criminal Record Certificate. MEDIA	12333
+Criminal Record Information Management System	14107
 Criminal Record and Issuance	10775
 Criminal Records	10979
 Criminal Records Online	6473
@@ -333,7 +342,7 @@ Criminalité	8891
 Criminalité Transnationale Organisée	13330
 Criminalité Transnationale Organisée Convention	13442
 Criminalizing	11860
-Criminals	4127,2638,1169,990,160,532,148,33,601,1253,190,268,932
+Criminals	4127,2638,1169,990,160,532,148,33,601,1253,190,268,932,1334
 Criminosos	2816
 Criou	2816
 Crioulo	11525
@@ -389,6 +398,7 @@ Criteria PPRA	7548
 Criteria Score Bid Score Relevant Qualifications	13037
 Criteria Sub-	11252
 Criteria for Authorisation of Participants	12374
+Criteria for Designating Inspectors	14113
 Criteria for Free and Fair Elections	12201
 Criteria for Fuzé	6155
 Criteria for Recognition. A Candidate RIR	3503
@@ -396,7 +406,7 @@ Criteria for Street Naming	11129
 Criteria-based	13037
 Criterion	3321,4227
 Criterios	414,1287
-Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1
+Critical	26,755,2,116,59,196,130,493,1,109,53,649,138,60,397,1,29,369,21,257,664,100,235,384,3,304,114,12,420,91,85,159,516,225,132,243,40,298,80,21,296,177,663,6,637,89,162,51,131,1,521,44,10,6,210,4,136,4,5,86,46,13,116,68,436,50,31,9,115,122,70,57,62,6,17,9,179,285,125,11,110,43,125,1,827
 Critical Assessment Information	13477
 Critical Bank	11134
 Critical Benefits	12053
@@ -500,8 +510,8 @@ Cyber Crime Bill	1000
 Cyber Crime Unit	7777
 Cyber Crime and Cyber Security Act	13322
 Cyber Crime and Data Protection Bills	13090
-Cyber Crimes Act	2726,1,4856,74,1759,800,1475,438,103,1276
-Cyber Crimes Act No	2746,2880,1682,275,74
+Cyber Crimes Act	2726,1,4856,74,1759,800,1475,438,103,1276,729
+Cyber Crimes Act No	2746,2880,1682,275,74,6580
 Cyber Crimes Act and Cyber Security Act	8418
 Cyber Crimes and Computer Abuse Act	5083
 Cyber Crimes and Computer Related Crimes Act	12586
@@ -596,6 +606,7 @@ Eligibility Criteria EEC	12961
 Eligibility Criteria for Consumer Associations	5676
 Eligible Crisis	10964
 Eliminação de Fezes de Criança	10777
+Emergency and Critical Care	14120
 Emerging Power Crisis	12399
 Empresas Criadas	11571
 Environmental Crimes	2775
@@ -604,6 +615,7 @@ Eskom Crime Line	11297,695
 Establish Criteria	12376
 Establishment of Criminal	10979
 Ethiopia Refugee Crisis	12188
+Ethiopian Criminal Justice System	14012
 European Criminal Records Information System	10979
 European Crisis of Migration	12227
 Evaluation Area Criteria Description Weight Score	13031
@@ -714,6 +726,7 @@ Infrastructure Critical National Infrastructure	11857
 Infrastructures Critiques	1801
 Initiative Masse Critique de Professionnels	6031
 Initiatives Description Critical	11131
+Injury and Critical Care Services	14033
 Instrução Criminal	15
 Intermediaries Criteria	12376
 International AI Policy and Governance Crisis	11156
@@ -725,6 +738,7 @@ International Crisis Group	3583
 Introducing Kau Criar	11546
 Investigação Criminal	794
 Iran and Crimea	12088
+Issuing Authority Personnel Title. Registration Criteria	14045
 Jobs Crisis	7337
 Journal of Critical Reviews	9129
 Juciene Cristiano de Sousa	6513
@@ -767,6 +781,7 @@ Manage Crisis and Prevent Damage and Losses	1000
 Management of Health Crisis Islamic Development Bank	897
 Managing Criminal Records	10979
 Market Research CCF Crime Combating Forum	11188
+Matthew Crighton	13975
 Money Laundering and Proceeds of Crime Act	13311
 Mozambique's Criminal Code. Lastly	12161
 Ms Maria Cristina Russo	11288
@@ -775,6 +790,7 @@ NAF Airstrikes Cripple Terrorist Camp	4738
 NCS. Critical Infrastructure Act	1777
 NSFAS Eligibility Criteria	6832
 NUTRIÇÃO DE CRIANÇAS E ADULTOS	10777
+Nakfa Registration Criteria	14045
 Namibian Police Criminal Record Bureau and Forensic	12984
 National Agriculture Sector Crime Survey	11188
 National Computer and Cyber Crimes Co-ordination Committee	11115
@@ -794,6 +810,7 @@ Nexus Between Organized Crime and Terrorism	9616
 Nigeria Police Crime and Incident Database Centre	11928
 Nigeria’s Critical National Information Infrastructure	8983
 Nigeria’s Data Protection Crisis	6770
+Non-retroactivity of Criminal Law	13948
 NÁDIA ALEXANDRA CRISTÓVÃO PEDRO CABETO	10751
 OPINION By Godfrey Mutabazi Criminals	12071
 Objective Criteria	11209,31
@@ -875,6 +892,7 @@ Refugee Crisis. Technical Report	10841
 Regarding the Wildlife Crimes	12984
 Registo Criminal	10750,1,620,109,689
 Registo Criminal CIVIL E CRIMINAL Quem	10750,1
+Registration Criteria	14045
 Regras de Criação	4218
 Release Criteria Define	11952
 Removal of Critical Infrastructure	7538
@@ -922,7 +940,7 @@ Senators Criticize Trump Administration’s Demands	10446
 Services POCAMLA Proceeds of Crime and Anti-Money Laundering	12297
 Services. The Shortlisting Criteria	11750
 Serviço Nacional de Investigação Criminal	6970
-Serviço de Investigação Criminal	539,3607,1,1125
+Serviço de Investigação Criminal	539,3607,1,1125,9040
 Set Clear Eligibility and Evaluation Criteria	12675
 Silencing Criticism	13313
 Simbarashe Crispen Kanyimo	9794
@@ -961,6 +979,7 @@ Transnational Organized Crime	3583
 Transport License. CRIMINAL RECORD	12333
 Trevor Criswell	11572
 Trust Crisis	7114,40,8,444,1469
+UN Convention Against Transnational Organised Crime	14039
 UNDP Investing Beyond Crisis Mechanism	11356
 UNDP’s Moving Beyond Crisis	11356
 Uganda Faces Critical Shortage of Professors	6077
@@ -968,6 +987,7 @@ Uganda Police Crime Report	4235,597
 Uganda Police Force's Cyber Crimes Unit	12232
 Under the Cyber Security and Crime Act	7777,3977
 Understanding Zim’s Criminal Procedure and Evidence	2888,32,354,504,1444,877,6,100,680,129,293,115
+Unit Head of Public Registration Registration Criteria	14045
 Urges Africa To Turn Global Crisis	4114
 VITALES ET CRITIQUES Article	13719
 Valor Crianҫa	10763,5

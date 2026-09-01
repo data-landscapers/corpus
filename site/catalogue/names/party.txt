@@ -32,6 +32,7 @@ Democratic Party	10042,2251
 Democratic Progressive Party	4790,8332
 Digital Identity Relying Party	10819
 E.g. OECD Working Party	4126
+EU Party	13996
 Economic Freedom Party Data Controller INST-694526EFE36	7167
 Either Party	4049,105
 End-Of-Year Staff Party	11134
@@ -113,8 +114,9 @@ SWAPO Party Headquarters	12984
 SWAPO Party Manifesto Programme NQA	13033
 Secretariat for Party	12201
 Sekere Verantwoordelike Partye	11255
+Socialist Party	14277
 Specify State Party	1243
-State Party	1243,1762,578,6893,289,10,1426,326,513,363
+State Party	1243,1762,578,6893,289,10,1426,326,513,363,746
 State Party Annual Report	10776
 State Party Annual Report for IHR Successfully	10776
 State Party. Interference	3583
@@ -126,6 +128,7 @@ Third Party	10616,1,2845
 Third Party BCX	11231
 Third Party Data	10550,726
 Third Party Data Search	11276
+Third Party Implementer	14038
 Third Party Jurisdiction	12185
 Through the Responsible Party Agreement	9353
 Trusted Third Party Identity Verification	2068

@@ -14,6 +14,7 @@ BANK AFRICA SIB SOCIETE GENERALE COTE	11588
 BARRICK GOLD COTE	2342
 BARRICK GOLD COTE JUIN D’IVOIRE SARL	2342
 BSIC BENIN Azalaï Hôtel Cotonou BGFI	10821
+Base de Cotización	14265
 Benin Botswana Burundi Cote	1528
 Benin Cote Burkina Guinea Togo Senegal	10856
 BÉNIN BURKINA COTE GUINÉE-BISSAU MALI NIGER	4459
@@ -117,7 +118,7 @@ Coty Souleïmane Diakité. Cette	6144
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Cours de Soutien de Cotonou	10821
 Dem. Rep. Mauritania Cote	10819
-Demande de Cotation	9339,1636
+Demande de Cotation	9339,1636,3312,1
 Diakité Coty Souleymane	6095,14
 Directeur Général du CHU-MEL de Cotonou Monsieur Sourou	10867
 Director General of La Poste de Cote	4686

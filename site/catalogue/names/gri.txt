@@ -24,6 +24,7 @@ Data Protection. In S. Griller	1243
 Delayed Gridlock Resolution Initiation	12364
 Description of Grievance Mechanism	1778
 Difference Grid	11890
+E&S Grievance Mechanism	14010
 Eduardo GRIZENDI	3840
 Effectiveness Review Status of Grievance	1778
 Eswatini Grid Code	12969
@@ -88,14 +89,15 @@ Grids	11016,1217,995
 Gridworx	8025
 Grieco	7731
 Grief	7759
-Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348
+Grievance	1778,89,121,1616,1084,3189,1331,1555,5,118,247,23,749,348,1771
 Grievance Appellate Committees	9208
 Grievance Closed	1778
 Grievance Committee	1778
 Grievance Contractor	12253
 Grievance Description of Grievance	1778
 Grievance Financial MIS Advisor Communication GBV	13332
-Grievance Handling	1988
+Grievance Handling	1988,12125
+Grievance Hearing Body	14113
 Grievance Log	1988
 Grievance MEPA	12253
 Grievance Mechanism	1264,514,210
@@ -124,6 +126,7 @@ Grievance Redress. Communities	1264,20,5255,4878
 Grievance Redressal Committee	10829
 Grievance Redressal Mechanism	1228
 Grievance Submission Form	1778
+Grievance Submission Time and Place	14113
 Grievance and Complaint Redressal	12146
 Grievances	1284,420,74,1111,1799,1215,930,95,949,3087,170,90,681,60,6
 Grievances Logged	11218
@@ -159,10 +162,12 @@ Initiation of Gridlock Resolution	12364
 Installée Ther Grid MW	10975
 Institutional Coordination and Citizen Engagement Grievances	1228
 Intelligence Grid	6411
+Investigating Grievances	14113
 IoT Calibration and Solar Grid Balancing	7573
 J. Grimson	5700
 Jay Griffiths	13100
 Livelihoods GRM Grievance Redress Mechanism HD	13332
+Logging Grievance	14113
 Luísa Grilo	11402
 M&E Grievances	2889
 Management and Grievance Redressal	12146
@@ -187,6 +192,7 @@ Participants. Gridlock Gridlock Resolution	12364
 Partnership for Education GRM Grievance Redress Mechanism	11560
 Pauline Grimm	12712
 Postcode Grid	13298
+Power Grid PAPSS	14189
 Power Purchase and Grid Connection Agreement	13123
 Power Purchase and Grid Connection Agreements	13123
 Presence Grievance	12253

@@ -6,6 +6,7 @@ ACK Kimngoror Health Centre Data Controller	7167
 ACK Kimngoror Health Centre Data Processor	7167
 ACKNOWLEDGEMENTS The Ministry of Health	12240
 ACP-EU Digital Response for Health	641
+ACRONYMS ACHS Asmara College of Health Sciences	13960
 AFENET The Minister of Health and Social Services	10477
 AFRICA ASIA HEALTH DYNAMICS LIMITED Data	7167
 AFRICA HEALTH BUSINESS LIMITED Data Controller	7167
@@ -96,8 +97,10 @@ Administration and Development Ministry of Health	12944
 Adolescent Health	11417,1312
 Adolescent Health Policy and Strategic Plan	12729
 Adolescent Health SIA Supplemental Immunization Activity	12729
+Adolescent Health and Healthy Ageing	14031
 Adolescent Health and Nutrition SARA Service Availability	10829
 Adoption of Electronic Health Records	11990
+Adult Health Nursing	14120
 Advancing Universal Health Coverage	13163,607
 Advocacy for Health	10776
 Afr J Reprod Health	13040
@@ -145,9 +148,11 @@ All Community Health	12413
 All for Health	10776
 All of Penda Health	11578
 Allied Health	12976
+Allied Health Professions Council	14227
 Alta HealtchCare Limited Data Processor INST-983616D8380	7167
 Alternative The World Bank CAR Health	10829
-America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267
+America First Global Health	14307,36
+America First Global Health Strategy	4165,2,135,124,157,378,180,7,308,94,451,933,816,729,1967,267,3594,36
 America First Global Health Strategy Cooperation	4164
 America First Global Health Strategy MOU	4212,10,44,62,30
 America First Global Health Strategy. SIGNED	4153,14,35,15,43,41,48
@@ -181,6 +186,7 @@ Annex-Call Health Clinic Data Controller INST-436531FB4AC	7167
 Annexure D Health Annexure D	11986
 Annu Rev Public Health	10881
 Annual Health Sector Performance	13166
+Annual Health Sector Performance Report	14033
 Annual Weighted Mean Vegetation Health Index	11762
 Anthropic. Health	5418
 Applied Health Informatics	766
@@ -191,6 +197,7 @@ Armed Forces Health Services	11401
 Artificial Intelligence for Health Security	11140
 Artificial Intelligence for Healthcare	6948
 Artificial Intelligence-Driven Healthcare Diagnosis	12707
+Asmara College of Health Sciences	14120
 Assessment of Indicators Using Health Facility Data	10881
 Assistant Commissioner Health and Information Management	3005
 Assistant Commissioner for Health Information	4922
@@ -254,7 +261,7 @@ Banks Lead While Health Systems Lag	6212
 Barricading of Health	12253
 Based Health Service Delivery	10829
 Basic Health	970
-Basic Health Care Provision Fund	4301,493,7210,46
+Basic Health Care Provision Fund	4301,493,7210,46,2344
 Basic Health Care Provisions Fund	12004
 Basic Healthcare Provision Fund	4301
 Beke-Langa Strategy. Healthy	11131
@@ -278,6 +285,7 @@ Blue Water Healthy Living	10373
 Board HIS Health Information System HSNP	2775
 Board of Healthcare Funders	10538
 Board’s Health Safety Code	9855
+Body Ethiopia Demographic and Health Survey	14067
 Body MINISTRY OF HEALTH AND SOCIAL	13104
 Body REPUBLIC OF BOTSWANA Ministry of Health	12606
 Body Zambia Builds AI-Ready Healthcare System	13570
@@ -291,6 +299,7 @@ Botswana Health Information Exchange	12569
 Botswana Health Professions Act	12575
 Botswana Public Health Institute	12606
 Brazilian Unified Health System	10188
+Building Health Service Foundations	14120
 Bukembe Health Centre Data Controller INST-70607020FFC	7167
 Bukembe Health Centre Data Processor INST-70607020FFC	7167
 Bull World Health Organ	766,5,10009,101
@@ -377,6 +386,7 @@ Central Africa. J Glob Health	1219
 Central Africa. J Glob Health Rep	12246
 Central African Republic CAR Health Service	10829
 Central Primary Health Care North Central	11857
+Central Primary Healthcare Centre	14394
 Central Processing Unit DHIS District Health	34
 Central and Southern Africa Health Community	7321,1586
 Centre for Health Policy	12025
@@ -399,7 +409,7 @@ Chesoi Health Centre Data Controller INST-7908234A59A	7167
 Chesoi Health Centre Data Processor INST-7908234A59A	7167
 Chief Executive Officer of M42’s Digital Health	11748
 Chikamata Permanent Secretary MINISTRY OF HEALTH	34
-Child Health	4260
+Child Health	4260,9771
 Child Health And Nutrition	877
 Child Health Clinic	771
 Child Health Maternal	4153
@@ -408,6 +418,9 @@ Child Health Services	10776
 Child Health Services Recent	10776
 Child Health and Nutrition	12246
 Child and Adolescent Health	970,12193
+Child and Adolescent Health and Healthy Ageing Programmes	14011
+Child and Adolescent Health and Healthy Ageing Strategy	14149
+Child and Adolescent Health and Nutrition	14033
 Child and Adolescent Health and Nutrition SDG Sustainable	11560
 Chileka Health Center	13040
 Chileka Health Center. AC	13040
@@ -442,6 +455,7 @@ Committee for Standardization CDA Community Health Centre	1009
 Community Animal Health Workers	4202
 Community Based Health Insurance	4349,7897,87
 Community Development and Health	10780
+Community Engagement and Primary Health Care	14033
 Community Health	1988,10425
 Community Health Centres DHU	11252
 Community Health Data Systems Africa Rockefeller	392
@@ -452,11 +466,12 @@ Community Health Federal Republic Federal Republic	4301
 Community Health Impact Coalition	1219
 Community Health Impact Coalition. Annual	1219
 Community Health Infonnation System	4301
-Community Health Information System	4349,7897,9,905,36
+Community Health Information System	4349,7897,9,905,36,927
 Community Health Management System	4217
 Community Health Nurse	771
 Community Health Practitioners	4301
 Community Health Promoters	2775,5442
+Community Health Promoters. Kenya	14182
 Community Health Safety and Security Plan	13185
 Community Health Services Supervisors	4202
 Community Health Strategic Plan	10940
@@ -600,8 +615,9 @@ Decompress Healthcare	8603
 Deficiency Syndrome NHC National Health Council	396
 Demographic Health Survey	10812,1516
 Demographic Health Surveys	10777
-Demographic and Health Survey	6946,2539,280,3158,41,361,58,298
+Demographic and Health Survey	6946,2539,280,3158,41,361,58,298,440,21
 Demographic and Health Survey EMIS Education Management	13681
+Demographic and Health Survey Summary Report	14142
 Demographic and Health Surveys	236,6101,1499,2878,1292
 Demographic and Health Surveys World Conference	13300
 Demographic and Health and Multi-Indicator Cluster	11907
@@ -641,6 +657,7 @@ Description USAID Kenya Digital Health Ecosystem	725
 Description USAID Senegal Health Systems Strengthening	155
 Description USAID Tanzania Health Information Systems	218
 Details of Health Promotion and HIV	11218,6
+Determinants of Health	13982
 Determinants of Health Addressed	10776
 Develop Health Information Exchange Platform Procurement	13618
 Develop Health Information Exchange Platform RFP	13618
@@ -656,7 +673,7 @@ Diaspora Health Impact Initiative	7895
 Diaspora Health Investment Bond	12004
 Diaspora Health Registry	7895
 Difference Health	10829
-Digital Health	396,613,25,131,290,1254,239,987,1005,516,1492,759,594,633,1035,91,805,1139,210,26,6,9,78,592,241
+Digital Health	396,613,25,131,290,1254,239,987,1005,516,1492,759,594,633,1035,91,805,1139,210,26,6,9,78,592,241,867
 Digital Health Act	2709,1444,1,1302,94,970,1781,633,921,176
 Digital Health Act No	7707
 Digital Health Act and Data Protection Act	9855
@@ -665,6 +682,7 @@ Digital Health Activity	531,11724
 Digital Health Activity. Several	1824
 Digital Health Agency	2709,1444,3554,594,633,15,1082,69,541,1673
 Digital Health Agency CEO	10331
+Digital Health Agency CEO Eng. Anthony	14182
 Digital Health Agency Chief Executive Anthony	10329
 Digital Health Agency Data Controller INST-74526950625	7167
 Digital Health Agency Data Processor INST-74526950625	7167
@@ -748,16 +766,17 @@ Director General of Health Services	4922
 Director of Health	9852,2486
 Director of Health and Social Services	12141
 Director of Reproductive Health	13040
+Director-General for Health Dr. Patrick Amoth	14182
 Director-General of Health Emergencies and Epidemics Control	13870
 Directorate of Community Health and Health Promotion	10940
 Directorate of Health and Human Services	11596
 Directorate of Occupational Health and Safety	12253
-Discovery Health	7167
+Discovery Health	7167,7199
 District Health	11252
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
 District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433
-District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160
+District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52,1144,230,158,89,67,160,1313
 District Health Information System DHRMD Department	12917
 District Health Information System Electronic Management	12037
 District Health Information System Version	12037
@@ -790,6 +809,7 @@ Dr. Samson Mndolo Secretary for Health	12240
 Draft Health Data Statutory	13430
 Driven Decisions Primary Health Care Strengthening	7761
 Driven Development CHW Community Health Worker	11525
+Driving Health Gains Through Sustainable Investments	14033
 Dubai Healthcare City	4954
 E HEALTH.05-2012	1009
 E Health	21
@@ -807,6 +827,7 @@ ELECTRONIC HEALTH RECORDS	2477
 EMHJ-East Mediterr Health J	766
 ENVIRONMENTAL HEALTH AND SAFETY ENVIRONMENTAL MANAGEMENT	12253
 EQUITABLE ACCESS TO HEALTH SERVICES	11586
+ERI Eritrea Health	13982
 ESS4 Community Health and Safety Relevance	1988
 ESWATINI HEALTH CONTEXT	13163
 EU Health Information and Management Systems Society	1009
@@ -828,6 +849,7 @@ Education Health Other FISIM All In-	2775
 Education Health Other Services	12445
 Education and Health	6207,20,5493,204
 Education and Health Roads	1988
+Education and Healthcare	13974
 Eko Health Convention	9444
 Elderly and Children. Digital Health Strategy	1261
 Elderly and Children. Health Sector Strategic Plan	1261
@@ -842,6 +864,7 @@ Electronic Health Records	2477,471,1353,8207,630
 Electronic Health Records Systems	12581
 Electronic Health System	12025
 Electronic Medical Records Electronic Community Health	4153
+Electronic Public Health Emergency Management	14042
 Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emergency Health Response and Resilience	5378
 Empowering Health	10630
@@ -851,7 +874,7 @@ Enhanced Electronic Health Record	12379
 Enhanced Health Emergency Prevention	10768
 Enhancing Health Information Systems	10776
 Enterprise and Healthtech	10954
-Environmental Health	13361
+Environmental Health	13361,759
 Environmental Health Practitioner	13003
 Environmental Health Services	12976
 Environmental Health and Safety General	13331
@@ -866,6 +889,11 @@ Equatorial Guinea's Ministry of Health and Social Welfare	1018
 Equipment EHR Electronic Health Records EIA	2775
 Equipment Maternal and Child Health Infrastructure	4217
 Equitable Digital Health Solutions	12240
+Era of Health for Africa	14182
+Eritrea Population and Health Survey	14023,26,100,1
+Eritrea's Digital Health Policy and Health Information	14120
+Eritrea's National Health Laboratory	14146
+Eritrean Population and Health Survey	14125
 Essential Health Care Package	13163
 Essential Health Service Package	12606
 Estado OH One Health	11376
@@ -881,10 +909,13 @@ Eswatini UNFPA UNICEF World Health Organization	12944
 Eswatini's Health Management Information System	13022
 Eswatini's Health System Strengthening for Human Capital	538
 Eswatini's Healthcare Systems Now	12458
+Ethiopia Demographic and Health Survey	14067,75
+Ethiopia Ethiopia Demographic and Health Survey	14067
 Ethiopia Minister of Health	10659
 Ethiopia Ministry Health Quart Health Bull	12255
 Ethiopia'. BMC International Health and Human Rights	12188
 Ethiopia'. Conflict and Health	12188
+Ethiopia's Ministry of Health	14123
 Ethiopia. Arch Public Health	8376
 Ethiopia. BMC Health Serv Res	3791,8455,9
 Ethiopia. BMJ Glob Health	3791
@@ -900,12 +931,14 @@ Ethiopian Federal Ministry of Health. Health	1219
 Ethiopian Federal Ministry of Health. Information Revolution	12255
 Ethiopian Health Insurance Agency	629
 Ethiopian MOH. Health Sector Transformation Plan	12255
-Ethiopian Public Health Institute	1219,605
+Ethiopian Public Health Institute	1219,605,12218,25,75
+Ethiopia’s Minister for Health	14182
 Ethiopia’s National Health	12255
 European Journal of Public Health	1824,5173
 Evaluate for Health	95
 Evaluation MoH Ministry of Health MoE Ministry	6539
 Every African Country's National Digital Health	7707
+Evidence-based Health Care Financing	14033
 Example Zimbabwean Health Facility Parirenyatwa Group	6666
 Exercise and Health	5349,3256,3862
 Exploitation and Abuse SENI Health System Support	10829
@@ -1044,7 +1077,7 @@ Globalization and Health	6948
 GoZ National Health Strategy	970
 Gobabis Health Centre	12947
 Good Health and Well-Being	12964
-Good Health and Well-being	1131,2614,7031,2188
+Good Health and Well-being	1131,2614,7031,2188,1059
 Good Health and Well-being Goal	11332
 Google Health	7138,13
 Governance Health	11469
@@ -1108,7 +1141,7 @@ HUMAN RESOURCE HEALTH AND SAFETY HR	12253
 Harmonized Health Facility Assessment	4202
 Harvard School of Public Health	12367,46
 Head of Health	12338
-Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69,57,36
+Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69,57,36,66,7,1,2,38,3,8,2,87,62,216
 Health AI	6233
 Health AI Governance Workshop	9784
 Health Academic	12025
@@ -1138,20 +1171,23 @@ Health CS Aden Duale. Four	3400
 Health CS Duale	8934
 Health Cabinet Secretary	6651,2298
 Health Cabinet Secretary Aden Duale	8383
-Health Cabinet Secretary Hon. Aden Duale	12314
+Health Cabinet Secretary Hon. Aden Duale	12314,1868
 Health Canada	3651
 Health Cancer Control Focal Person St	12972
 Health Capacity for Universal Health Coverage Project	11417
 Health Care	2477,2495,1451
 Health Care Associations Consumers	21
+Health Care By Red Sea Beacon	14120
 Health Care Financing	4349
 Health Care Financing and Reform The U.S	4349
 Health Care Personnel RA	12138
+Health Care Quality	14033
 Health Care Services	12977
 Health Care Services A. Health	12977
 Health Care Standards	12606
 Health Care Support Fund	3583
 Health Care System	10780
+Health Care URL	14120
 Health Catalytic Fund	11589
 Health Center	11653,726
 Health Center Head	977
@@ -1190,7 +1226,7 @@ Health Country Profile Guinea Bissau	11589
 Health Coverage UNISA University of South Africa	396
 Health Coverage.’ Dr Banyubala	10523
 Health Cybersecurity Emergency Response Team	12240
-Health Data	1161,2700,6108
+Health Data	1161,2700,6108,4011
 Health Data Collaborative	2678
 Health Data Governance	9969
 Health Data Governance Framework	10641
@@ -1226,7 +1262,7 @@ Health Emergencies Rapidly Detected And Responded	10776
 Health Emergency Preparedness	11417
 Health Emerging	12240
 Health Enterprise Architecture	396,12185
-Health Equity	1823
+Health Equity	1823,12210
 Health Equity and Sanitation Project	11586
 Health Equity for Persons	13389
 Health European Interoperab	1009
@@ -1236,8 +1272,9 @@ Health Excellence NGO Non-Governmental Organisation ADB	396
 Health Expenditure Health	4349
 Health Expenditure Review	11133
 Health Expenditure TVET Technical and Vocational Education	12923
-Health Extension Program	1219,11027
-Health Extension Workers	1219,11027,9
+Health Extension Program	1219,11027,1877
+Health Extension Program and Primary Health Care	14033
+Health Extension Workers	1219,11027,9,1868
 Health FGDs	12333
 Health Facilities	2775,8626,456,294,285
 Health Facilities Earmarked	11986
@@ -1246,6 +1283,7 @@ Health Facilities Regulator Agency	9204
 Health Facilities Upgrading	1988
 Health Facilities. The National Department of Health	11980
 Health Facility	1988,9608,630,112,29
+Health Facility Accreditation	14033
 Health Facility Applicant	12216
 Health Facility Births	12151
 Health Facility Information Security Operations	2709
@@ -1257,6 +1295,7 @@ Health Facility Sections for Rehabilitation	1988
 Health Financing	12417,749,308
 Health Financing Strategy	13163
 Health Financing Technical Working Group	13166
+Health Financing and Private Sector Engagement	14033
 Health Foundation	11006
 Health Framework of Cooperation	5550
 Health G2G Ministry	13314
@@ -1272,6 +1311,7 @@ Health IRB	10881
 Health Impact	396
 Health Impact Model for Africa	396
 Health Impact PHC Primary Healthcare	396
+Health Impact Trends	13982
 Health Impacts Asbestos	1988
 Health Info Libr J	771
 Health Informat J	11596
@@ -1301,6 +1341,7 @@ Health Information System HIV	10776
 Health Information System Program	2966
 Health Information System RMNCAH Reproductive	771
 Health Information System Reforms	1261
+Health Information System and Research	14033
 Health Information System for South Africa	1009
 Health Information System for South Africa. SP	1009
 Health Information System of Angola	10780
@@ -1312,15 +1353,16 @@ Health Information Technology Director	1824
 Health Information Technology Systems and Quality of Care	10784
 Health Information and Digital Health Strategic Plan	7707
 Health Information and Management Systems Society	2948
-Health Infrastructure	2775,10699
+Health Infrastructure	2775,10699,559
 Health Initiative	4301
 Health Innovation Fund	833
 Health Innovation Fund Partnership	833
+Health Innovations	14033
 Health Inspectorate	12606
 Health Institute and National Health Information Systems	10865
 Health Institution Deaths	12151
 Health Institutions	13420
-Health Insurance	13726
+Health Insurance	13726,307
 Health Insurance Act	6921
 Health Insurance Bill	12598
 Health Insurance Card	10714
@@ -1374,6 +1416,7 @@ Health Minister Dr. Edwin Dikoloti	12617
 Health Minister Dr. Louise M. Kpoto	9548
 Health Minister Dr. Sabin Nsanzimana	7566
 Health Minister Esperance Luvindao	13141
+Health Minister Haitham Mohamed Ibrahim	14194
 Health Minister Khaled Abdel Ghaffar	9471
 Health Minister Mustapha Ferjani	7766
 Health Ministries	1098
@@ -1401,6 +1444,7 @@ Health Organisations	395
 Health Organization	10865,2560
 Health Organization WSIM Water Supply Infrastructure	718
 Health Organization ZTA Zero-trust Architecture	12240
+Health Outcomes	13982
 Health Passport A. Background Information	13040
 Health Passport and Assessment Report	13040
 Health Passports	12242
@@ -1423,12 +1467,14 @@ Health Policy and System Support	1219
 Health Portal	11006
 Health Post	771
 Health Principal Secretary Harry Kimtai	2512
+Health Products	13982
 Health Products Regulatory HRIS Human Resource	396
 Health Products and Mobile Apps	6946
 Health Products and Technologies	9855
 Health Professional Council of Zambia	34
 Health Professional Education	8605
 Health Professionals	2775,8405
+Health Professionals' Competency Assessment and Regulation	14033
 Health Professions Act	10071,3215,25,4,6
 Health Professions Authority	3025
 Health Professions Authority of Zimbabwe	10071
@@ -1482,7 +1528,7 @@ Health Sciences’ Students Enrolment	2775
 Health Sec-tor	1261
 Health Secretariat	21
 Health Secretary	6651
-Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146
+Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146,911
 Health Sector Co-Investments	4217
 Health Sector Development Plan	1212,2371
 Health Sector ICT Policy and Strategy	4126
@@ -1500,7 +1546,7 @@ Health Sector Strategic Plan and Rwanda	4167
 Health Sector Support Project	10829
 Health Sector Transformation Plan	1212
 Health Sector Transportation Plan	1219
-Health Security	2094,2123
+Health Security	2094,2123,9765
 Health Security Program	2094,1627,7748
 Health Security and Sovereignty Agenda	5456
 Health Service Commission	12240
@@ -1535,6 +1581,7 @@ Health Surveillance Assistants	10881,2315
 Health Survey	970,9900
 Health System	4301,6479,637,1189,123
 Health System BT	12255
+Health System Capacity and Regulation	14033
 Health System Performance Reinforcement Project	10963,1
 Health System Performance Strengthening Project	11380
 Health System Strengthening	10776,53
@@ -1572,9 +1619,11 @@ Health Units Digitalization Project	3284
 Health Volunteers	12138
 Health Warnings and Messages	7760
 Health Wellness	11134
+Health Worker	14023
 Health Workers	11586
 Health Workers Management System	10812
 Health Workforce	13166
+Health Workforce Development and Management	14033
 Health Workforce Staffing Norm Achieved	13166
 Health Workforce- Health Sector Reform	4349
 Health Zambia	1988
@@ -1590,6 +1639,7 @@ Health and Demographic Surveillance Systems	8604
 Health and Education	2889,1094,3458,4095,388
 Health and Fight Against AIDS NFIS National	13312,2
 Health and Finance	12445
+Health and Finance Ministers	14182
 Health and HIV	12964
 Health and Human Services	4426
 Health and Information Management	3005
@@ -1662,15 +1712,16 @@ HealthNet	12255
 HealthPulse	13374
 HealthPulse AI	13560
 HealthSystems	13145
-HealthTech	1055,509,694,319,7416,2383
+HealthTech	1055,509,694,319,7416,2383,1964
 HealthTech Internet Interview	9993
 HealthTech Marketplace	12171
+HealthTech and AgriTech	14340
 HealthTech and EdTech	11468
 HealthTechnology	8907
 HealthTimes	8862,114,253
 HealthVest	8438
 Healthbridge	8205
-Healthcare	24,742,365,646,163,649,186,12,492,99,413,68,267,132,2,268,97,355,405,71,725,317,450,600,328,254,473,1,1,1,563,760,15,127,97,20,571,16,1,4,55,2,1,3,127,297,3,237,352,13,16,1,1,1,36,132,96,1,9,47,130,1,11,1,3,23,10,69,30,24,163,798,209
+Healthcare	24,742,365,646,163,649,186,12,492,99,413,68,267,132,2,268,97,355,405,71,725,317,450,600,328,254,473,1,1,1,563,760,15,127,97,20,571,16,1,4,55,2,1,3,127,297,3,237,352,13,16,1,1,1,36,132,96,1,9,47,130,1,11,1,3,23,10,69,30,24,163,798,209,715
 Healthcare AI	8301
 Healthcare AI. Diagnostics. Clinical	6214
 Healthcare Access	10837,1315,188
@@ -1693,6 +1744,7 @@ Healthcare Professionals	8603,1252
 Healthcare Professionals Only	9855
 Healthcare Provider Directory	1009
 Healthcare Providers CEO Forum	10696
+Healthcare Safety	14033
 Healthcare Sector	12356
 Healthcare Security	3279
 Healthcare Services	897
@@ -1753,7 +1805,7 @@ Human Heredity and Health	6997
 Human Resource for Health Information System	1261
 Human Resource for Health Strategic Plan	12976
 Human Resources Capacity for Universal Health Coverage	11417
-Human Resources for Health	21,1198,2998,43,89,6480,2147
+Human Resources for Health	21,1198,2998,43,89,6480,2147,1006
 Human Resources for Health Conference	7321
 Human Resources for Health HRIS Human Resources	12976
 Human Resources for Health SAHPRA South African	396
@@ -1763,6 +1815,7 @@ Human Resources for Health The Human Resource	12976
 Human Rights Implications of Health Care Digitalisation	2615
 Hunger Safety Net Program HPTs Health	2775
 Hygiene WASH World Health Organization	11417
+Hygiene and Environmental Health Programs	14033
 IATI. Tanzania Health Information Systems	218
 ID Credentials Ministry of Health	12241
 IEEE Journal of Biomedical and Health Informatics	8606
@@ -1813,6 +1866,7 @@ Information System National Public Health Institute	4153
 Information Systems for Health Maturity Assessment Toolkit	1824,10431
 Information Technology Health Care Equipment	4972
 Injuries and Mental Health Prevention and Control Programme	12976
+Innovation for Health System Quality	14033
 Innovative Health Financing Mechanisms	12606
 Institute for Health Measurement	13022
 Institute for Health Metrics and Evaluation	6171,2720,1938
@@ -1836,7 +1890,7 @@ Intelligence for Health	8301
 International Health	10878,2094
 International Health Partnership	766
 International Health Partnership HISP Health Information	766
-International Health Regulations	10776,641,586,1163
+International Health Regulations	10776,641,586,1163,854
 International Health Regulations IMCI	10776
 International Public Health	12976
 International Relations Dept. Global Health	10123
@@ -1941,7 +1995,7 @@ Kenya. Penda Health	11578
 Kenyan Health Information Systems Interoperability	9969
 Kenya’s Data Protection Act and Digital Health	6520
 Kenya’s Health Secretary	6651
-Kenya’s Ministry of Health	10822
+Kenya’s Ministry of Health	10822,3575
 Kera Health Platforms	4972
 Key Health Indicators	10829
 Key Performance Indicators for Hospitals and Health Centres	12976
@@ -1950,7 +2004,9 @@ Keywords Live Healthcare Console	8603
 Khombedza Health Centre	13160
 Kigali Health City	4167
 Knowledge Management Safety and Health Act	6946
+Korea-Tanzania Healthcare Innovation Event	14398
 Korvek SJ. Health Information Technology. StatPearls	10919
+Kpaki Primary Health Centre	14394
 Kutus Market and Kagumo Health Centre. Surveys	4685
 KwaZulu Natal Provincial Department of Health Research	12678
 LABOUR ENVIRONMENT HEALTH Rank	10835
@@ -2015,6 +2071,7 @@ MENTAL HEALTH	13454
 MINIJUST Ministry of Justice MoH Ministry of Health	12413
 MINISTER OF HEALTH	13040
 MINISTER OF HEALTH AND SOCIAL SERVICES	12925
+MINISTRY OF HEALTH	13982
 MINISTRY OF HEALTH ANNUAL PERFORMANCE	13126
 MINISTRY OF HEALTH Humanitarian Affairs	4154
 MINISTRY OF HEALTH INFORMATION	34
@@ -2025,6 +2082,7 @@ MISAU Ministry of Health MJCR Ministry of Justice	4214
 MOH Ministry of Health MOTIHUD- Ministry of Transport	2775
 MOH Ministry of Health MPA Multiphase Programmatic	11417
 MOH and Digital Health Activity	1824
+MOH. The Ministry of Health	14031
 MOHSS MODERNISES COMMUNITY HEALTHCARE SYSTEM	13224
 MONTHS APPOINTMENT OF PUBLIC HEALTH NGO	11252
 MONTHS Province District Clinics Community Health	11252
@@ -2081,9 +2139,12 @@ Maternal Health Long	1363
 Maternal Health Rural Economy Support	12488
 Maternal and Child Health	4260,7276,710
 Maternal and Child Health Maternal and Child Health	4217
+Maternal and Newborn Health	14031
 Mbabvi Health Centre	12291
 Measurement and Accountability for Health	3791
 Mechanism HeRAMS Health Resources Availability Mapping	10829
+Medical Equipment and Other Health Products	14033
+Medical Health Services	14033
 Medical Officer of Health	11968
 Medical Services U.S. Embassy Ministry of Health	4154
 Medical System MoH Ministry of Health	12379
@@ -2130,9 +2191,9 @@ Ministers of Health	13870
 Ministers of Health and Social Services	5086
 Ministries of Health	560,1218,5156,987,148,2750,1683
 Ministries of Health and Child Welfare and Local Government	21
-Ministries of Health and Education	10768,757
+Ministries of Health and Education	10768,757,2618
 Ministries of Justice and Health	11586
-Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22,46,11
+Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22,46,11,123,11,16,3,10,34,27,26,22,4,251
 Ministry of Health Annual Budget Performance Report	12976
 Ministry of Health Community Development	1261
 Ministry of Health Data Governance Manual	3861
@@ -2167,6 +2228,7 @@ Ministry of Health and Childcare	970
 Ministry of Health and Childcare NDC Nationally Determined	970
 Ministry of Health and Gavi	11401
 Ministry of Health and Marie Stopes Zambia	13400
+Ministry of Health and Ministry of Agriculture. Accelerate	14020
 Ministry of Health and Ministry of Education	3604,7164
 Ministry of Health and Ministry of Foreign	4153
 Ministry of Health and NRB	13005
@@ -2353,9 +2415,10 @@ National Health Insurance and Strategic Purchasing	12606
 National Health Insurance. The Department	11224
 National Health Intelligence Center	7764
 National Health Intelligence Centre	5837,6752,17
-National Health Laboratory	12606
+National Health Laboratory	12606,1540
 National Health Laboratory Service	396
 National Health Laboratory Strategic Plan	11417
+National Health Laboratory. Recruited	14146
 National Health MIS	12453,892
 National Health Management Information System	21
 National Health Management and Information System	10833
@@ -2364,7 +2427,7 @@ National Health Normative Standards Framework	11252
 National Health Normative Standards Framework NPO	11252
 National Health Observatory	4260
 National Health Plan Khartoum	8613
-National Health Policy	3583,4124,1497,3036,2,11,476,247
+National Health Policy	3583,4124,1497,3036,2,11,476,247,1055,118,1
 National Health Positioning Strategies	10865
 National Health Regulatory Authority	13430
 National Health Research	12976
@@ -2417,8 +2480,10 @@ Nature Health	11578
 Nature Health URL	11578
 Neglected Tropical Diseases PHC Primary Health	12729
 Newborn and Child Health	200,453
+Newborn and Child Health Services	14033
 News Health	13121
 Next Notifies of Commmunity Health Notifies of Informant	12151
+Niger State Contributory Health Agency	14394
 Niger State’s Primary Healthcare Centres	4794
 Nigeria Demographic and Health Survey	11469
 Nigeria Diaspora Health Impact Initiative	7895
@@ -2496,6 +2561,7 @@ Orange and Zenysis. Zimbabwe Digital Health Case	3385
 Ordinateur HD Hôpital de District HL7 Health	13306
 Organization for Migration KDHS Kenya Demographic and Health	12151
 Oromia Health Bureau	12246
+Orotta College of Medicine and Health Sciences	14120
 Overall Financial Health	2775
 Oxford Open Digital Health	1824
 Oxford Open Digital Health. Published	12581
@@ -2530,6 +2596,7 @@ Patient Health ID	6666
 Patient Health Medical Records	12242
 Patron of Health	11656
 Paul Kazembe BMC Health Services Research	12242
+Pediatrics and Child Health	14120
 Penda Health	11578,7
 Penda Health and EasyClinic	11585
 Penda Health’s EMR	11578
@@ -2551,6 +2618,8 @@ Planification DHIS2 District Health Information Software	13306
 Plant Health Act	13403
 Plant Health Bill	13387
 Policy OHS Occupational Health and Safety PEO	13332
+Population and Health Survey	14023
+Population and Health Survey. Government-wide IFMIS	13966
 Poro Health	10940
 Poro Health Region	10940
 Port Health	13042
@@ -2572,6 +2641,7 @@ Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
 Primary Health Care Operational Framework	13166
+Primary Health Care Oriented HSSDP III	13982
 Primary Health Care PII	11252
 Primary Health Care PLANAPREV-DNT	10776
 Primary Health Care Services Across	1824
@@ -2627,6 +2697,7 @@ Public Health Emergency Management Information System	4349
 Public Health Emergency Operations Center	12003
 Public Health Emergency Operations Centers	11417
 Public Health Emergency Operations Centers and Outbreak	4260
+Public Health Emergency and Disaster Risk Management	14033
 Public Health Evaluating EHR	12508
 Public Health Facilities With Service Delivery	12379
 Public Health Figure	12508
@@ -2646,12 +2717,15 @@ Public Hygiene and Universal Health Coverage of Côte	10928
 Public Perception of Health Provision	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Public Perception of Health Provision Education	10759,1395
 Public Perception of Health Provision Reading	11889,452
+Public and Environmental Health Act	14343
 Public and Healthcare	1988
 Qualitative Health Research	7278
 Quality Essential Health Services Relatório Anual	10776
 Quality Health Care Circular Economy	4972
 Quarter Total Health	12972
 Queries MJOS National Department of Health MPQ	1009
+R3. Health	14020
+R4.2. Healthcare	14020
 REPORT OF THE MINISTRY OF HEALTH	13131
 REPUBLIC OF KENYA MINISTRY OF HEALTH	9855
 RESPONSIBILITY FOR DIGITAL HEALTH	396
@@ -2671,10 +2745,12 @@ Regional Ethics Committee for Health Research	8376
 Regional Health Administration	12976
 Regional Health Bureau	1824
 Regional Health Bureaus	1824,10431
+Regional Health Data Hub	14236
 Regional Health Information System	3791
 Regional Health Information System SOP Standard	3791
 Registration of Health	12151
 Regulation of Health Risk Related	12389
+Regulation of Health and Health-related Institutions	14033
 Relevant Community Health and Safety Relevant Land	1284,9545,135,2367,1
 Relevant Divisions The Digital Health	12240
 Relevant Management ESS6 Community Health and Safety	12253
@@ -2687,16 +2763,19 @@ Reproductive Health and HIV and AIDS	12946
 Reproductive Maternal Newborn Child Health	4349
 Reproductive Maternal Newborn Child and Adolescent Health	12606
 Reproductive and Child Health	10878
+Reproductive and Maternal Health Services	14033
 Republic of Angola’s Ministry of Health	11401
 Republic of Kenya Ministry of Health	10822
 Republic of Namibia HALE Health Adjusted Life	12923
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Republic of Zambia Ministry of Health Information	34
 Research Animal Health Level	4153
+Resilient Health System Eritrea	14120
 Resilient and Fair Healthcare System	13163
 Resources ID IHE Health Information and Management	1009
 Responsible AI and Health	9420,10
 Reviewing Draft Health Data Statutory	13430
+Revised Health Financing Strategy	14033
 Roadmap for Digital Health Transformation	7707
 Rock Health	11143
 Rocket Health. StartupBlink	2676
@@ -2736,6 +2815,7 @@ SHIF Social Health Insurance Fund UNHCR	12227
 SMARTCARE HEALTH INFORMATION SYSTEM STANDARDS	34
 SSS BUTHELEZI DIRECTOR GENERAL HEALTH	1009
 STOP CENTRE AT CHILEKA HEALTH	13040
+STRATEGIC AGENDA FOR THE THIRD HEALTH	13982
 STRENGTHENING HEALTH SYSTEM PERFORMANCE AND PREPAREDNESS	10829
 SUPPORTING ESSENTIAL HEALTH SERVICE DELIVERY People	10829
 SWAp and National Health Insurance Authority	4301
@@ -2760,6 +2840,8 @@ Secretary for Health	12240,648
 Secretary for Health The Secretary for Health	12240
 Secretary of State for Public Health	11401,16
 Select Social Sectors Health	3604
+Self-Reliant African Health Sector Kenya	14182
+Self-Reliant African Health Sector Kenya Calls	14182
 Senegal's Universal Health Coverage	3673
 Senegal-based HealthTech	4972
 Senior Health Programmes Officer	13224
@@ -2772,7 +2854,7 @@ Seventy-First World Health Assembly	396
 Seventy-first World Health Assembly	12255
 Sexual Health Today	5574,215
 Sexual Reproductive Health and Rights	8604
-Sexual and Reproductive Health	9766,1010
+Sexual and Reproductive Health	9766,1010,3255
 Sexual and Reproductive Health Rights	11791
 Sexual and Reproductive Health Services	12976
 Sexual and Reproductive Health and Rights	970,11636
@@ -2798,7 +2880,7 @@ SoLHD Synod of Livingstonia Health Department DHO	3791
 Social Basic Health	970
 Social Contracting for Health Policy	12421
 Social Health Authori	4153
-Social Health Authority	2512,3,260,618,7,765,677,1389,420,1566,166,551,15,1364,16,2,330,1,1565,41,46
+Social Health Authority	2512,3,260,618,7,765,677,1389,420,1566,166,551,15,1364,16,2,330,1,1565,41,46,1868
 Social Health Authority Chief Executive Officer	12314
 Social Health Authority Health Management Information	12314
 Social Health Authority SHI Social Health	2775
@@ -2841,6 +2923,7 @@ Sri Lanka's Ministry of Health	13160
 St Francis Kijaguzo Health Centre III	11022
 St Francis Kijjaguzo Health Centre III	11022
 Stabilization Levy NHIL National Health Insurance	236
+Stakeholders Health Facility	14137
 Standalone National Digital Health Strategic Plan	7707
 Standards for Improving Child Health and Newborn Care	12729
 State Department of Public Health and Professional Standards	13870
@@ -2900,6 +2983,7 @@ TB Tuberculosis UHC Universal Health Coverage	12729
 TB Tuberculosis WHO World Health Organization	771
 TBC Frontline Healthcare Worker Type	4167
 TBD Health	970
+THIRD HEALTH SECTOR STRATEGIC DEVELOPMENT	13982
 TREATMENT HEALTH INFRASTRUCTURE	11586
 TRIPS Agreement and Public Health	6534
 Table of Contents Zimbabwe's Health Delivery System	21
@@ -2934,6 +3018,8 @@ Testing WHA World Health Assembly WBPHCOT	396
 Testing WHO World Health Organisation	11224
 Thailand Ministry of Public Health	7138
 Thailand's Ministry of Public Health	7151
+Third Health Sectoral Strategic Development Plan	14149,1
+Third Health Sectorial Strategic Development Plan	14031
 Tobacco Consumer Staples Health Care Equipment	4972
 Tobacco Transportation Health Care Materials Industrials	4972
 Towards Regulation of App-Based Health Data	6794
@@ -2999,6 +3085,7 @@ Universal Health	12976
 Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
+Universal Health Coverage Services	13982
 Universal Health Coverage System	11536
 Universal Health Coverage UKB	10776
 Universal Health Coverage WHO World Health	9855
@@ -3040,7 +3127,7 @@ Weighted Mean Vegetation Health Index Agricultural	11762,1988
 Wella Health	12339
 West Africa. Benin Health System Enhancement	11867
 West Africa. Tarik Dadi Combats Health	2333
-West African Health Organisation	7452
+West African Health Organisation	7452,6873
 West African Health Organization	6594
 West and Central Africa Health	3604
 Western Cape Department of Health	396,11584
@@ -3077,14 +3164,17 @@ World Health Assembly Resolution	1824
 World Health Assembly. Despite	12925
 World Health Day	10776
 World Health Day and World Mental	10776
+World Health Expo	14397
 World Health Or-	8301
-World Health Organisation	21,937,1668,4695,1293,756,1452,342,31,310,470,226,39,173,227,336,64,347,2
+World Health Organisation	21,937,1668,4695,1293,756,1452,342,31,310,470,226,39,173,227,336,64,347,2,549,369,36
 World Health Organiza-	8301
-World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416
+World Health Organization	396,364,6,5,238,203,7,42,563,164,960,57,578,68,1289,208,17,385,1043,201,222,96,75,361,202,16,43,492,75,103,725,495,156,114,200,19,341,133,114,1,3,4,28,10,7,52,59,585,47,6,18,59,10,222,18,64,21,35,113,13,2,1,9,68,9,15,83,3,26,46,95,98,333,101,64,59,3,264,24,416,150,126,90
+World Health Organization Ethiopia	14042
 World Health Organization Every	10881
 World Health Organization FFP Fund	10835,3,130,902,16,466,1,135
 World Health Organization Malawi WHO MALAWI	13166
 World Health Organization Maturity Level	6594
+World Health Organization Pharmacovigilance Team	14037
 World Health Organization Recommendations	10881
 World Health Organization Regional Office	876,10720
 World Health Organization Regional Office for Africa	1095,5,1084,9819

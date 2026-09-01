@@ -26,6 +26,7 @@ BEAC ANEMCAM Nombre	10965
 BIF Nombre	13414
 BRB Nom	13452
 BRUT DE SCOLARISATION PAR SEXE Nombre	10847
+Baseline Scenario Gross Nominal PPG External	13868
 Bolsa de Nomes	12021
 Bureaux Nombre	10876
 Burkina Faso. III. NOMINATIONS III.1. NOMINATIONS	7670
@@ -387,7 +388,7 @@ Nome de Domínio	576
 Nomear	4218,7163,1,67
 Nomeação	167,263,2436,8493,22
 Nomeia	430
-Nomenclature	8321,955,1599
+Nomenclature	8321,955,1599,3073
 Nomenclature Chapitre	5361
 Nomenclature de Bruxelle OBPE	13377
 Nomenclature du Conseil de Coopération Douanière NDB	13377
@@ -398,8 +399,8 @@ Nomes da Lista	11544
 Nomfundo Gladys	6948
 Nomfundo Gladys Khoza	6948
 Nomimi Mothibi Clinic	11980
-Nominal	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1404,1,1,1,1,1,1,1,1,1,1686,242,1944,1,1,1,1,1,1,1,1,4434,333,96,2
-Nominal GDP	2775,8361,1364,1148,37
+Nominal	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1404,1,1,1,1,1,1,1,1,1,1686,242,1944,1,1,1,1,1,1,1,1,4434,333,96,2,1913
+Nominal GDP	2775,8361,1364,1148,37,183
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
 Nominal Orbital Position Operational Frequency	736
@@ -417,6 +418,7 @@ Nomination Committee	585,8281,641,407,461,1448
 Nomination Committee Rationale This Article	8866
 Nomination Committee. None	11823
 Nomination Committee. Ordinary Resolution	8866
+Nomination and Appointment	13948
 Nomination and Remuneration Committee	12358
 Nomination de Monsieur CISSE Dramane	2342
 Nomination de Monsieur KOFFI Hyacinthe	2342
@@ -479,6 +481,7 @@ Privé Nombre	10847
 Privé Nombre de Groupes Nombre de Groupes Pédagogiques	10847
 Province Commune Nombre	13390
 Province Commune Siège Nombre	13390
+Public Debt Gross Nominal Public Debt	13868
 Période Nombre des EME Transaction	13452
 Q.8. Nombre	13390
 Q6. Nom	13390

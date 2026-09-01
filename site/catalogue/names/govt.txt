@@ -1,5 +1,6 @@
 Abstract GovTech	13847
 Advancing GovTech Reforms	11867
+Africa GovTech Data Year	13984
 Arsenal for Martinelli Osun Govt	10620
 B Significant GovTech Maturity C Medium	10785
 Body GOVT ISSUES CIRCULAR ON MANDATORY	13127
@@ -7,6 +8,7 @@ Body Govt	13601
 Body Govt Launches Digital Skills Hub	13447
 Business Govt	6239
 Citizen In the World Bank’s GovTech	4612
+D GovTech Maturity Index Low GovTech	13984
 D. GOVTECH MATURITY INDEX	10785
 DJI GovTech	1278
 Department Head Works Micro.pr Govt	13093
@@ -26,7 +28,7 @@ General Data Protection Regulation GovTech Government	12675
 Give Nigerian Govt Sweeping Powers Over	7458
 Global GovTech	10785
 Gov. GovTech Cameroun	10992
-GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271
+GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17
 GovTech Approach	11867
 GovTech Cameroun	10992
 GovTech Case Studies	994
@@ -36,7 +38,7 @@ GovTech Data Dashboard	11867
 GovTech Dataset	11867
 GovTech Enablers	10785,784,298
 GovTech Enablers Dedicated	11867
-GovTech Enablers Index	10785,1082
+GovTech Enablers Index	10785,1082,2117
 GovTech Enablers Index GovTech Focus Areas	10785
 GovTech Entity I-33	10785
 GovTech Focus Areas	11867
@@ -102,6 +104,7 @@ Govt. Interoperability	11857
 Govt. The AILA	12241,839
 Govt. To Strengthen Cyber Security Capacity	12129
 Govt. of Comoros	13744
+Govt. of India	13974
 Govtech Business Ecosystem	772,1701
 Govts	11857
 Govts. Wireless	11857
@@ -152,5 +155,5 @@ World Bank GovTech Maturity Index	2662,2090
 World Bank GovTech Operations	1278,12569
 World Bank's GovTech Dataset	11867
 World Bank's GovTech Initiative	11867
-World Bank’s GovTech Maturity Index	4612
+World Bank’s GovTech Maturity Index	4612,9711
 Zambian Govt Claims	12464

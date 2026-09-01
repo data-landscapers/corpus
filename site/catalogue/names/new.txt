@@ -34,7 +34,7 @@ Analysis and News. Get	2339
 Angola Latest News	11122
 Apply Online Media News Events Gallery	12495
 Apr-2026 Newsletter	5734
-Arise News	2677,2607
+Arise News	2677,2607,9075
 Assabah News	7873
 Australia's News Media Bargaining Code	13267
 Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,22,70,1,8,259,18,126,31,282,78,69,141,37,21,280,185,78,145,55,511,151,60,43,101,181,78,116,183,19,89,178,5,104,1,149,7,16,253,294,2377,54,3,489,289,390,16
@@ -159,7 +159,7 @@ Estonia State Visit TechAfrica News	2909
 Eswatini Daily News	12999
 Eswatini Positive News	7453,5495,24,241,23,16
 Ethiopia News Agency	9801
-Ethiopian News Agency	1798,166,7,481,759,8966,102
+Ethiopian News Agency	1798,166,7,481,759,8966,102,1755,17,1,7,1,4,24,33,1,8,3
 Europe Tech News	9608
 Every Newborn-Measurement Improvement for Newborn	10878
 Experimental African News Innovation	13462
@@ -189,9 +189,11 @@ Forum News ADVERTISEMENT No Result View	4619
 Forum News Sierra Leone Contact	4619
 Free Newsletters Free Insider Gold R70pm	7343
 French-speaking... News Digital Zimbabwe Unveils	5407,676
+Fresh News	14198
 GAM ZA News Publishers. Google	13462
 GCT News Desk	11037
 GIS News	7365
+GOOBJOOG NEWS	14309
 GRAIN News	9541
 GabonReview and Tech Africa News	7940
 Gauteng News Gun	3962
@@ -208,6 +210,7 @@ Get the Tom's Hardware Newsletter Get Tom	9629
 Ghana Business News	9421
 Ghana Kweku Hammond Business News Aug	11032
 Ghana News Agency	7491,1205,725,691,517,503
+Ghana News Agency By Solomon Gumah	14285
 Global News Gap Project	11308
 Good News for Small Businesses	13044
 Google News	3962,1612,215,19,52,323,71,250,86,335,104,29,223,1023,1446,247,3464,1
@@ -227,6 +230,7 @@ Google News TikTok	5969,1110
 Google News Was Starlink and Elon Musk	5808
 Google Newsletter	753,8876
 Gov-1Citizen Platform Upgrade TechAfrica News	5444
+Government Payments News	14144
 Government Procurement Media Center IFMIS News	12322
 Green Edition Newsletters	11251
 Group’s Stock Exchange News Service	10218
@@ -294,6 +298,7 @@ Latest News	4112,756,916,4,17,145,14,249,543,115,166,32,67,1280,481,1632,1497,35
 Latest News Inside Politics	9940
 Latest News Latest	12454
 Latest News News	12322
+Latest News and Stories Digital Integration Economic	14079
 Learning Africa News. Retrieved	899
 Legal Notices Subscribe Home News DNA	7264
 Legal Notices Subscribe Home News ESCCOM	4058
@@ -318,6 +323,7 @@ Local News By PRIDE NYAMUPANGEDENGU and MUSAVENGANA	3778
 Local News By Sharon Sibindi	6205
 Local News By Staff Reporter	2888,4419,1945
 Local News By Staff Reporter Jul	6244,1
+Local News On Oct	13959
 Lu-Hai Liang Categories Biometrics News	2943,2367,138,896
 MATERNAL AND NEWBORN HEALTH CARE	13454
 MCLU Newsletter	10937
@@ -327,6 +333,7 @@ MIT News Office	12231
 MTND. Responsibility for Data Collection PCU Newly	3604
 Mainstream News Stories	13462
 Malawi News Agency	7900
+Maternal and Newborn Health	14031
 Matuga. Kwale County News	12322
 Media Newsroom	13051
 Meta News Publishers	13462
@@ -384,6 +391,7 @@ NewClimate Institute	8891
 NewDealTechnologique	2442
 NewFederal Republic Government of Nigeria Funding	4301
 NewFi	1284
+NewFin	14040
 NewFin1	10963,1,891
 NewFin1 Total Project Cost	13332
 NewFinEn	10963,1,891
@@ -396,8 +404,9 @@ NewZimbabwe.com	3352,2381,2686,557
 NewZimbabwe.com Date	13675
 NewZimbabwe.com Facebook Instagram Youtube Sign	5733
 Newbold	236
-Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745
+Newborn	771,106,3276,107,5928,577,10,1,641,829,194,289,745,537,138
 Newborn and Child Health	200,453
+Newborn and Child Health Services	14033
 Newcastle	2719,677,813
 Newcastle Provincial	11986
 Newcomer	8603
@@ -405,7 +414,7 @@ Newer	13312,2
 Newer Purposes	12139
 Newgry Money Tree	8732
 Newhouse	10763
-Newly	718,510,2321,55,1049,7207,1117,441
+Newly	718,510,2321,55,1049,7207,1117,441,520
 Newly Registered Firms	12389
 Newly Registered Road Motor Vehicles and Motorcycles	2775
 Newly Registered Taxpayers Table	13053
@@ -445,7 +454,7 @@ News DR Congo Plans National Strategy	9924
 News Deal Technologique. Cet	3120
 News Details	9884
 News Details Latest News	2311,24,2424,534,613,107,100,280,14,352,339,157,80
-News Diggers	2740,282,160,365,1193,317,1334,634,198,1575,2314,2452
+News Diggers	2740,282,160,365,1193,317,1334,634,198,1575,2314,2452,611
 News Digital	3011,54,672,824,240,905,877,388
 News Digital Algeria Orders Public Services	5407,676
 News Digital Senegal Pushes Public-Private Partnership	5407,676
@@ -471,6 +480,7 @@ News Housing	10620
 News Industry Namibia	5407,676
 News Infrastructures Dondo Dry Port	5407,676
 News Infrastructures Kenya Appoints Consultant	5407,676
+News Item Published	14144
 News JéGO	2762,389
 News Kampala	4235
 News Kidnapping	10620
@@ -506,15 +516,17 @@ News Post	13469
 News President Herminie's Vision for Artificial Intelligence	8609
 News Press	9067
 News Project News Resources Policies Documents	13309
+News Public Trust	14345
 News Publishers	13461,1
 News Publishers. Available	13461
 News Publishers. Pg	13461
 News Reading Time	5121,1152,547
-News Release	10841,1128
+News Release	10841,1128,2073,104
 News Research	13051
 News SINGH	9646
 News Senegal Moves	9964
 News Showcase	13461
+News Somalia	14263
 News South Sudan	9139
 News Southern Africa Strengthens Protection of Cultural	11439
 News The Harare Institute of Technology	13688
@@ -546,7 +558,7 @@ News.Az	7220
 News24	1695,284,698,139,4235,6410
 News24580	13461
 News3	9117
-NewsCentral Media	3459,1702,441,183,91,57,35,595,1709,1497,198,628,78,124,534,568
+NewsCentral Media	3459,1702,441,183,91,57,35,595,1709,1497,198,628,78,124,534,568,2486,19
 NewsCentral Media Follow TechCentral	6286,79,356
 NewsCentral Media Get	5050
 NewsCentral Media Namibia	5507
@@ -610,6 +622,7 @@ Newsletter Keep	3364
 Newsletter N	13051
 Newsletter Vol	13062
 Newsletter ZIMSTAT Embarks	12499
+Newsletter de Maliexpress.net	14289
 Newsletters	2826,331,570,1432,584,126,2886,498,1878,1230
 Newsletters Corrections Unless	11122
 Newsletters Get	7343
@@ -717,6 +730,7 @@ Seychelles News Agency	1884,8,5967,1820
 Seychelles News Agency. Complementary	1884
 Sidebar Menu Newsroom	13051
 Sky News	407
+Smart News Liberia Monrovia	14354
 Social Justice News Reporter Special Investigative	7936
 Somali National News Agency	2719
 Somalia KIMT News	5947
@@ -788,6 +802,7 @@ WCO News Magazine	13051
 Weekly Newspapers1	2775
 WhatsApp WebTV WebRadio Newsletter Library	11548
 Whistler Newspaper	4102
+Wingu News Over	14026
 World Bank Support TechAfrica News	3663
 World Customs Organization Media Newsroom	13051
 World News	9667

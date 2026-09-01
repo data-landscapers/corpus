@@ -61,10 +61,12 @@ Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
 Adjust	12253
-Adjusted	3583,4542,1610,887,117,392,165,1071,46
+Adjusted	3583,4542,1610,887,117,392,165,1071,46,1710
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
+Adjusted CA	13868
+Adjusted CA Norm	13868
 Adjusted CBR	12367
 Adjusted CDR	12413
 Adjusted Crude	12413
@@ -83,7 +85,7 @@ Adjustment Budget	11251
 Adjustment Fund	7785,4024
 Adjustment for Country Strategies Adjustment	1818
 Adjustment of Fines Act	11178,3,20
-Adjustments	4595,253,7107,1098
+Adjustments	4595,253,7107,1098,815,70
 Adjustments Appropriation Bill	2902
 Adjustments of Input Tax	12509
 Administrador Adjunto	10751
@@ -209,6 +211,7 @@ Information. M. Adji Ali Salatou	3337
 Inspector General Adjunto	4209
 Inspector General Adjunto Servicio	4209
 Instituteur Adjoint Certifié IC	10847
+Internet. Harold Adjaho	14245
 Interprete Traductor Adjunto Servicio	4209
 Intérprete Traductor Adjunto Moza de Limpieza	4209
 Inventory Adjustments	11955
@@ -220,7 +223,7 @@ LIDERANÇA PARA AUDITORES GERAIS ADJUNTOS	11473
 Le Directeur Général Adjoint de MEDUSA AFRICA	6080
 Le Ministre Adji Ali Salatou	3305,662
 Le Secrétaire Général Adjoint du Ministère	9668
-M. Adji Ali Salatou	2327,1010,630,22,1385
+M. Adji Ali Salatou	2327,1010,630,22,1385,8941
 M. Ali Salatou Adji	2801
 M. Aristide Guy Adjinacou	4957
 Madame Fatou GUEYE DIENG Adjoint	10237
@@ -231,6 +234,7 @@ Me Pacôme Adjourouvi	11067
 Me Pacôme Yawovi Adjourouvi	9974
 Mercado Adjacente	11430,1
 Ministre Adji	3967
+Ministre Adji Ali Salatou	14315
 Monsieur Agblulu Latevi Massi LAWSON Adjoint	10237
 Monsieur Aristide ADJINACOU GNAHOUI	5206
 Monsieur Kuassi Ayikue SATCHIVI Adjoint	10237
@@ -258,6 +262,7 @@ Pour Me Pacôme Adjourouvi	11067
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 Price Adjustment Formula	13185
 Prices Adjusted	2775
+Primary Balance Fiscal Adjustment and Possible Growth	13868
 Procuradora-Geral Adjunta de Humanos	10750
 Profit Adjusted	11134
 Pueblo Adjunto	4209
@@ -308,3 +313,4 @@ Trends of Starlink Price Adjustments	1926
 Unadjusted Adjusted Year	12413
 Unadjusted and Adjusted	12413
 Visa Adjudication System	5533,6453
+Year Adjustment	13868

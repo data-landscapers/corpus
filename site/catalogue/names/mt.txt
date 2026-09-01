@@ -342,6 +342,7 @@ MTN Business Cameroon	3335
 MTN Business Côte	5936,1
 MTN Business SME Accelerate Programme. Looking	8813
 MTN Business. MTN	5936
+MTN Bénin	14279
 MTN CEO	3186,2668
 MTN CI	419,2957
 MTN CVM Personalised Bundles	11259
@@ -414,7 +415,7 @@ MTN Ghana’s Adwumapa Esther Adem Senior	11083
 MTN Ghana’s Mobile Money	8813
 MTN GlobalConnect	1643,1034,1473,843,2336
 MTN GlobalConnect Solutions	1048
-MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24
+MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,39,140,329,360,151,54,6,8,360,164,167,278,24,2590
 MTN Group Available	9871
 MTN Group CEO	5569,5238
 MTN Group CEO Ralph Mupita	6563,288,3737,743
@@ -422,10 +423,12 @@ MTN Group CEO Sifiso Dabengwa	3187
 MTN Group Chief Information Officer Nikos	8583
 MTN Group Company	11234
 MTN Group Executive	9871
-MTN Group Fintech	1537,9129
+MTN Group Fintech	1537,9129,3713,11
 MTN Group Fintech Holdings	3330
 MTN Group Fintech Holdings B.V	3011
 MTN Group Fintech Mastercard Inc	1537
+MTN Group Fintech Summit	14379
+MTN Group Fintech's MoMo	14379
 MTN Group JSE	4896
 MTN Group Limited	7198,976,765,1854
 MTN Group Limited Financial	10793
@@ -512,7 +515,7 @@ MTN MyTown Offers Additional Bundles	11259
 MTN MyTown Offers Additional Bundles Bundle	11259
 MTN MyTown Offers MTN	11259
 MTN New FinCo	3330
-MTN Nigeria	240,209,190,286,880,329,195,143,66,25,592,31,1,33,110,84,274,52,57,353,574,331,145,108,401,430,271,298,83,87,451,962,117,173,146,202,39,395,197,4,75,481,305,112,256,14,360,339,351,46
+MTN Nigeria	240,209,190,286,880,329,195,143,66,25,592,31,1,33,110,84,274,52,57,353,574,331,145,108,401,430,271,298,83,87,451,962,117,173,146,202,39,395,197,4,75,481,305,112,256,14,360,339,351,46,2469
 MTN Nigeria CEO	4724
 MTN Nigeria CEO Karl Toriola	3187,3521
 MTN Nigeria Capital Expenditure Equipment Facility	240
@@ -592,7 +595,7 @@ MTN Speed-based Bundles	11259
 MTN Speed-based Bundles Bundle Name Price	11259
 MTN Speed-based Bundles MTN	11259
 MTN Subscriptions Telecel Market	2776
-MTN Sudan	1887,1561,7345
+MTN Sudan	1887,1561,7345,3401
 MTN Sudan and MTN South Sudan	10793
 MTN Superflex R	11259
 MTN Supersonic	11259
@@ -611,11 +614,11 @@ MTN Telecel Total Figure	2776
 MTN Telecoms	11885
 MTN Transformation Team	7491,2651
 MTN USD	2454
-MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283,743
+MTN Uganda	3011,319,375,1684,320,1156,564,981,692,1,120,129,30,399,201,414,21,376,983,72,283,743,1497
 MTN Uganda CEO	3330
 MTN Uganda CEO Sylvia Mulinge	3330
 MTN Uganda Calls for Greater Support	6865
-MTN Uganda Chief Executive Officer Sylvia	9102
+MTN Uganda Chief Executive Officer Sylvia	9102,5269
 MTN Uganda EBITDA	10793
 MTN Uganda Foundation Board	12874
 MTN Uganda Mulinge	9102
@@ -624,6 +627,7 @@ MTN Uganda and Airtel Uganda	4753,4000,724
 MTN Uganda and EBus Xpress	11848
 MTN Uganda and H1	10793
 MTN Uganda and MTN MoMo	4348
+MTN Uganda and Uganda Telecom Corporation Limited	14371
 MTN Uganda's EBITDA	10793
 MTN Uganda's General Manager for Sales	8410
 MTN Vodafone AirtelTigo Figure	2776
@@ -645,6 +649,7 @@ MTN and Airtel Africa	4150
 MTN and Airtel Tigo	10822
 MTN and Canal	4756
 MTN and Cell C	11259,2202
+MTN and China Mobile	13981
 MTN and DHL	9720
 MTN and Digitel	3442
 MTN and Eswatini Mobile	12395
@@ -659,7 +664,7 @@ MTN and Rack Centre	3477
 MTN and Real Image Internet	12395
 MTN and Safaricom	6714
 MTN and Telecel	2776,1361,3888
-MTN and Vodacom	2117,2779,3502,2797
+MTN and Vodacom	2117,2779,3502,2797,3043
 MTN and ZTE	8112
 MTN and Zamtel	13355
 MTN for WLL	11857
@@ -678,6 +683,7 @@ MTN-Group-FY-25-Complete-results Booklet.pdf	5569
 MTN-to-MTN	11083
 MTN. Africa	10739
 MTN. Ambos	11556
+MTN. Aucun	14363
 MTN. Ce	3876
 MTN. For MTN	9560
 MTN. Graphique	4459
@@ -778,6 +784,7 @@ Martine G. Mtonga	13308
 Matobo Mazoe Melsetter Mrewa Mtoko Ndanga	12511
 Maudhui Mtandaoni	2868
 Mbire. MTN	3330
+Mbps. MTN Bénin	14279
 Media and Content MTEF R1.2bn	5183
 Medium Term Development Plan MTEF Medium	5533
 Medium Term Strategic Framework MTSF Targets	11890
@@ -785,6 +792,7 @@ Message Type TTC Types MT298 SMT	12364
 Microproject Programme Coordinating Unit. MTAD Ministry	12970
 Migori Kisii Nyamira Narok Kajiado Mt	7869
 Millicom and MTN	4150
+Millions of MT	13868
 Mkurugenzi Mkuu Mtendaji	6602
 Mkurugenzi Mtendaji	2797,1264,303
 Mkurugenzi Mteule	2868

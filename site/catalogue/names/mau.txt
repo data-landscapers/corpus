@@ -45,10 +45,12 @@ Benjamin Mauerberger	9968
 Blueprint for Mauritius	2771,785
 Bonne Indifférente Mauvaise Effectifs	13390
 Bonne Indifférente Mauvaise Très	13390
+Botswana Gambia Kenya Mauritius Rwanda South	14098
 Botswana and Mauritania. Year	6938
 Botswana and Mauritius	9759
 Botswana and Mauritius. TurnStay	8857
 Brasil Mauro Vieira Ministro	11393
+Business Mauritius and SOS Patrimoine	14267
 Bybit. The Mauritius Internet Governance Forum	9658
 CAPFOR Mauritius	8106
 CAPFOR Mauritius. Cette	8106
@@ -73,6 +75,7 @@ Composante Mauritanie	5983
 Computer Emergency Response Team of Mauritius	783
 Constitution of Mauritius	10132
 Council Secretary Choolwe Maunga	11171
+Danial Mausoof	14391
 Data Hubs Powering the Digital Mauritius Vision	3292
 Data Protection Commissioner of Mauritius	6363
 Delivering Impact Acknowledgement UNDP Mauritius	11332
@@ -138,7 +141,7 @@ Human Rights UNDP Mauritius Annual Report	11332
 ID Mauritania. TECH5	1836
 ID Mauritania. UNDP	1833
 IHS Mauritius BR Limited	9330
-ISLAMIC REPUBLIC OF MAURITANIA	1181,83
+ISLAMIC REPUBLIC OF MAURITANIA	1181,83,12732
 ISLAMIQUE DE MAURITANIE Honneur	5983
 Ile Maurice	5993,7297,11,151
 Ile Maurice L’île Maurice	11761
@@ -169,7 +172,7 @@ Launch of MauStats	11332
 Launched Mauritius	11332
 Le Chief Executive Officer de Mauritius Telecom	9948
 Le Mauritius Revenue Authority Act	7994
-Les Mauritaniens	8105
+Les Mauritaniens	8105,6157
 Libya and Mauritania	5340
 L’ambition de Maurice	8699
 MAU for Co-pilot	13461
@@ -234,7 +237,7 @@ Maureen Roberts Clinic	11980
 Maureen Songne	4127
 Mauretanien	1421
 Mauri	11156
-Maurice	2700,217,571,855,79,251,25,152,44,818,74,509,104,116,93,5,144,467,59,589,27,95,696,9,56,393,407,474,1,361,13,140,99,1005,1642,152
+Maurice	2700,217,571,855,79,251,25,152,44,818,74,509,104,116,93,5,144,467,59,589,27,95,696,9,56,393,407,474,1,361,13,140,99,1005,1642,152,864
 Maurice Bandaman	2387
 Maurice Kamto	2336,481,907
 Maurice Konaté	10860
@@ -306,8 +309,8 @@ Mauritano-Tunisienne des T	1818
 Mauritel	5811,1286,523
 Mauritel MRU	5811
 Mauritel and Chinguitel	4637
-Mauritian	2,583,198,618,1512,603,611,67,1288,733,243,535,251,8,113,480,1021,639,542,1754,409
-Mauritian AI	7244
+Mauritian	2,583,198,618,1512,603,611,67,1288,733,243,535,251,8,113,480,1021,639,542,1754,409,2057,73
+Mauritian AI	7244,7096
 Mauritian Creole	7244,123,2680
 Mauritian Creole-speaking Kevin AI	10047
 Mauritian Cybercrime Online Reporting System	12232
@@ -315,8 +318,8 @@ Mauritian Rupees Five Hundred	8866
 Mauritian SMEs	10047,1285
 Mauritian and Seychellois SMEs	11332
 Mauritian-law	11801
-Mauritians	7244,121,2,2582,98
-Mauritius	2,24,1,1,13,195,23,59,267,25,75,98,179,51,41,189,136,7,29,57,152,7,21,162,55,21,3,19,32,173,246,4,66,249,89,4,41,97,44,155,180,192,32,40,181,122,95,23,118,31,68,188,66,135,29,122,25,91,33,13,16,60,25,125,241,100,19,219,213,275,13,10,3,148,14,25,5,51,107,15,13,20,19,35,16,37,72,7,7,81,13,38,12,2,41,5,169,31,46,8,83,30,1,1,39,171,24,10,67,29,88,50,243,152,28,209,9,47,171,162,258,187,120,76,1,105,3,42,103,125,29,44,32,1,23,32,85,86,78,129,109,67,20,93,4,20,21,5,21,8,26,16,3,2,6,2,120,9,28,129,6,51,4,137,252,25,113,66,4,4,4,23,32,2,6,7,16,1,2,5,23,83,132,21,1,9,47,22,20,17,1,8,8,39,16,11,1,23,9,103,2,46,135,247,24,20,78,44,63,223,124,69,122,28,54,2
+Mauritians	7244,121,2,2582,98,4293
+Mauritius	2,24,1,1,13,195,23,59,267,25,75,98,179,51,41,189,136,7,29,57,152,7,21,162,55,21,3,19,32,173,246,4,66,249,89,4,41,97,44,155,180,192,32,40,181,122,95,23,118,31,68,188,66,135,29,122,25,91,33,13,16,60,25,125,241,100,19,219,213,275,13,10,3,148,14,25,5,51,107,15,13,20,19,35,16,37,72,7,7,81,13,38,12,2,41,5,169,31,46,8,83,30,1,1,39,171,24,10,67,29,88,50,243,152,28,209,9,47,171,162,258,187,120,76,1,105,3,42,103,125,29,44,32,1,23,32,85,86,78,129,109,67,20,93,4,20,21,5,21,8,26,16,3,2,6,2,120,9,28,129,6,51,4,137,252,25,113,66,4,4,4,23,32,2,6,7,16,1,2,5,23,83,132,21,1,9,47,22,20,17,1,8,8,39,16,11,1,23,9,103,2,46,135,247,24,20,78,44,63,223,124,69,122,28,54,2,222,12,95,68,101,73,30,23
 Mauritius AI	5122
 Mauritius AI Registry	7367,123
 Mauritius AI Strategy	1814
@@ -360,6 +363,7 @@ Mauritius Meteorological Services	12132
 Mauritius Ministry of Finance	9915,77
 Mauritius Mobile ID	1379
 Mauritius Moka	12232
+Mauritius Museums Council	14267
 Mauritius National AI Strategy	5914
 Mauritius National Artificial Intelligence Strategy	2816
 Mauritius National Data Strategy	4850,1513
@@ -396,24 +400,26 @@ Mauritius Telecom. Small	5122
 Mauritius The Mauritius Artificial Strategy Plan	12210
 Mauritius The Republic of Mozambique The Republic	12527
 Mauritius Thorn	11334
-Mauritius Times	2367,3115,1762,8
+Mauritius Times	2367,3115,1762,8,7088
 Mauritius Times From the Jooty-Needroo Case	7252
 Mauritius Times Interview	7244
 Mauritius US	4883
 Mauritius Unveils National Fintech Strategy	6887
 Mauritius Yes MauPass F25 Aug	10714
+Mauritius and Australia	14267
 Mauritius and Botswana	9311
 Mauritius and Cabo Verde	6938
 Mauritius and Egypt	2601
 Mauritius and Ghana	6187
 Mauritius and Kenya. Nigeria	5508
 Mauritius and Liberia. Figure	12376
+Mauritius and Madagascar	14267
 Mauritius and Mozambique	3185
 Mauritius and Namibia	962
 Mauritius and Nigeria	11657
 Mauritius and Rodrigues	7244,4088
 Mauritius and Rwanda	415,4760
-Mauritius and Seychelles	5724,1643,264,2586,1115
+Mauritius and Seychelles	5724,1643,264,2586,1115,2935
 Mauritius and Seychelles. Through	11332
 Mauritius and Sierra Leone. Demand for Starlink	1977
 Mauritius and South Africa	962,10932
@@ -438,7 +444,9 @@ Mauritius. National	12210
 Mauritius. Official	6458
 Mauritius. The All My.T Summit	7365
 Mauritius. The Internet Service Provider	2913
+Mauritius. The Minister	14267
 Mauritius. The SWFDP	12649
+Mauritius. Three POS	14376
 Mauritius. Under the ICTA	1401
 MauritiusAIStrategy2018.pdf	1814
 Mauritius’ AI	1814
@@ -452,6 +460,7 @@ Mauro Machado	8882
 Maurya	11156
 Maurícias	2816
 Maurícias Maurícias	2816
+Mausoof	14391
 Mauvais	737,12653
 Mauvaise	6959,3915,101,2415
 Member States of Mauritius	13388
@@ -471,6 +480,7 @@ NUMÉRIQUE DE L'ÉTAT EN MAURITANIE Ministère	765
 Namibia and Mauritania	3801
 Namibia and Mauritius	10714
 National Code of Corporate Governance for Mauritius	8866
+National Cybersecurity Strategy and Mauritian Public Key	14370
 Nouakchott Mauritanie. Tel	5983
 OSI M-HcI H-TII Asia Mauritania Middle	10840
 Oman and Mauritania	8592
@@ -493,13 +503,15 @@ Private Sector Business Mauritius Mauritius Chamber	11332
 Prof. Maulilio John Kipanyula	11627
 Profiles MauCAS	1386
 Project. Mauritania. Section I.A.1	1264
+Préservation du Patrimoine Architectural Mauricien	14267
 R. Maude	11140
+REPUBLIC OF MAURITIUS	13996
 REPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur	232
 RPCC. Mauritania. Section I.B.1 of Schedule	1264
 RWANDA MALAWI BURUNDI MAURITIUS MONGOLIA BHUTAN	13661
 Register. Mauritius Police	11823
 Rep. Central African Rep. Mauritania Asia-Pacific	11563
-Republic of Mauritius	422,163,816,1512,5953,792,1674
+Republic of Mauritius	422,163,816,1512,5953,792,1674,2935
 Republic of Mauritius Watch	11332
 Republic of Mauritius. Constitution	8866
 República Islâmica da Mauritânia	8051
@@ -511,6 +523,7 @@ République de Maurice	8673
 SARB Kenya Egypt Mauritius Cape Verde	6938
 SIL and Mauritius Telecom	6407
 SNEDD Mauritania’s National Strategy and Action Plan	1264
+STEM Racing Mauritius Competition	14267
 SUPREME COURT OF MAURITIUS	1919
 Sao Tom Djibouti Tunisia Mauritania BUCMEOAAO	6938
 Selon Mauritius Telecom	7224
@@ -557,7 +570,8 @@ UNDP Mauritius and Seychelles	11332
 UNDP Mauritius and Seychelles UNDP Mauritius Annual	11332
 Under Mauritanian	4637
 Under Mauritian	7252
-University of Mauritius	11332
+Under the Mauritian Data Protection Act	14340
+University of Mauritius	11332,2935
 V. Mesures du STARTUP ACT MAURITANIE Structuré	1247
 VC Fund Managers Mauritius British International	4972
 Valeur Mauvaise	13375
@@ -566,4 +580,5 @@ Wilson and Maul2021	8283
 Yellow Card’s Chris Maurice	9903
 Yes. Mauritius	7252
 Zimbabwe and Mauritius	12660
+Zimbabwe and Mauritius. Hungry Lion	14376
 Zumba Manuel Martins Alves Raimundo Mauro	10766

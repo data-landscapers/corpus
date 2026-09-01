@@ -29,7 +29,10 @@ Enrollment The Gender Parity Index	12411
 Euronext Paris	8125
 Euronext Paris. North African	2673
 Example Zimbabwean Health Facility Parirenyatwa Group	6666
+Exim Bank India and Paris	13868
+Exim Bank India and Paris Club	13868
 FATF Grey List. Paris	11138
+GPI Gender Parity Index ICT Information	13990
 Gender Parity	12053,358
 Gender Parity Index	12199
 Gender Parity Index ICT	12175
@@ -48,7 +51,7 @@ Monnaie de Paris	11134
 Open Data Watch and PARIS21	8427
 PA Paris Alignment PDO Project	10768
 PARIHS	8376
-PARIS	4209
+PARIS	4209,9756
 PARIS ALIGNMENT ASSESSMENT For Direct	1818
 PARIS HOLDING PERSPECTIVES	2342
 PARIS21	766,6447,2495,1166,363,289,1025,20,186,325,261,16
@@ -71,7 +74,7 @@ Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa and Chitungwiza	13420
 Parirenyatwa. Example Related Person	6666
 Paris	573,691,691,141,162,95,26,8,7,19,403,23,12,29,139,85,71,261,1286,307,363,15,75,381,189,16,15,103,45,240,90,143,26,102,114,127,33,214,70,13,95,50,174,515,36,242,83,293,279,423,638,150,49,261,21,17,90,2,20,134,165,16,77,25,129,138,113,146,252,170,51,128,452,220,128,127,2,260
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512
 Paris Agreement Implementation Platform	13057
 Paris Agreement's Enhanced Transparency Framework	3431
 Paris Agreement. Enhancing Wildfire Preparedness	11332
@@ -86,11 +89,13 @@ Paris Cedex	13260
 Paris Charter	4583
 Paris Cité	11784
 Paris Climate Agreement	789,2815,7114
-Paris Club	11136
+Paris Club	11136,2732
 Paris Convention	12161,1196
 Paris Dauphine. Cette	7390
+Paris Declaration	14002
 Paris Peace Forum Global Coalition	4583
-Paris Principles	13097
+Paris Principles	13097,1052
+Paris-Genève	14210
 Paris. L'invasion	2387
 Paris. LESOTHO'S PEER REVIEW TEAM PEERS	12706
 Paris. Mistral	8347
@@ -121,6 +126,7 @@ Societal Change and Development. Paris	6832
 Société Générale Paris	10821
 Souley de Paris	10389
 Sub-Saharan Africa . Paris	11140
+Telecom Paris	14017
 Twenty-First Century. Paris	6832
 Télécom Paris	10029
 UNESCO ICT Competency Framework for Teachers. Paris	899

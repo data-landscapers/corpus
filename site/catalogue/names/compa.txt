@@ -60,6 +60,7 @@ African Tower Companies	4896
 Africell Mobile Company’s Spokesperson	11651
 Agabe Company Limited Data Processor INST-234928CF0DD	7167
 Agreements Involving the Subject Company’s Securities	7198
+Agricultural Business Company	14122
 Airports Company South AfricaAugust	2521
 Airports Company of South Africa	9895
 Al-Madar Al-Jadid Company	3811
@@ -251,6 +252,7 @@ Cameroon and Comparator Average	10997
 Cameroon and Comparator Countries	10997
 Cameroon and Comparators Median	10997
 Canadian Bank Note Company	10812
+Capital Goods Finance Companies	13976
 Capital for Securitisation Company	5869
 Case Register and Allegations Annual Comparison	11250
 Case Study Companion	2858
@@ -284,11 +286,12 @@ Compability Security Ekurhuruleni	9129
 Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753
 Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717
-Compact Development Guidelines	12175
+Compact Development Guidelines	12175,1815
 Compact Goals	12399
 Compact Private Capital Mobilization Public Private	11468
 Compact Progress Report	12717
 Compact Progress Reports	12717
+Compact SCG System Capacity Grant SMAP	13990
 Compact Targets and Action Plan	12399,281
 Compact Targets and Action Plan Targeted	12563
 Compact With Sierra Leone	1539
@@ -308,7 +311,7 @@ Compagnies	10934
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29
 Companies Act Amendment	11250
@@ -354,10 +357,10 @@ Companies and Other Business Entities	13437,140
 Companies and Other Business Entities Act	4263,633,8415,266
 Companies’ Act	11240
 Companies’ Register	3714
-Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751
+Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
 Company All Rights Reserved. Copyright	12342
@@ -503,7 +506,7 @@ Comparators	5267,417,779,4534,804
 Comparação	2816,8721
 Compare	1243,1946,2923,1536,732,225,824,12,1336
 Comparecer	4147
-Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92
+Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73
 Comparer	9278
 Comparez	13300
 Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136,978,401,27,1035,114,92
@@ -511,6 +514,7 @@ Comparing CRVS	12413
 Comparing PoPIA	11896
 Comparison	1212,612,406,5560,814,525,1683,321,62,55,925,39,153,18,28,32,501,107
 Comparison Between Starlink	5874
+Comparison With Regional Neighbours	14297
 Comparison of After Access	11195
 Comparison of Cold Case Matters	11250
 Comparison of Financial	13185
@@ -635,6 +639,7 @@ ELLIS BUSINESS COMPANY	13452
 ELM Company	3639
 EMPLOYERS DETAILS Company Trade Name	13037
 ENPCT National Company of Science and Technology Parks	4214
+ETHICAL AND COMPATIBLE WITH SOCIETAL VALUES	14004
 EU's Digital Compass	12843
 EUCL Compared	718
 EU’s Digital Compass	11155
@@ -734,6 +739,7 @@ GDC Global Digital Compact GWAN Government	13005
 GDP. Comparing Tanzania	6562
 GENERAL INFORMATION The Company	10793
 GPE DRC Compact	11916
+GPE Ethiopia Partnership Compact	13999
 GPE. Companion	1124
 Gambia Submarine Cable Company	5033
 Gambia Telecommunications Company	238
@@ -745,9 +751,10 @@ Generation Companies	12062
 Genuine Parts Company	4434
 Ghana Publishing Company and Commissioners for Oaths	11082
 Ghana Publishing Company. The NSA	11082
-Global Compact	1901,9996,8,268
+Global Compact	1901,9996,8,268,1765,83
+Global Compact for Migration	14021
 Global Compact for Refugees	10841
-Global Compact for Safe	9838
+Global Compact for Safe	9838,4201
 Global Comparison of Cable Repair Commencement	2677
 Global Comparison of YoY Changes	4972
 Global Digital Compact	1775,335,706,2987,583,574,37,106,33,36,70,306,373,192,532,245,968,352,818,182,20,984,27,447,317,75,15
@@ -815,7 +822,7 @@ Indian Banks and Payments Companies	5124
 Individual Company	22
 Individual Enterprise Limited Liability Company	12483
 Influential Companies	4972,3029
-Information Technology Company	2837
+Information Technology Company	2837,11148
 Information Technology Development Company	4284
 Infrastructure CDMU Compact Delivery and Monitoring Unit	12717
 Innovative Companies	4972
@@ -824,10 +831,11 @@ Insurance Companies	11255
 Integrated Company Creation Journey	12259
 Interbank Services Company	8882
 International Compagny-Knowledge Construction Group	4682
+International Investment Company	14404
 International Telecommunications Company	2837
 International and Comparative Law Quarterly	3782
 Interoperability and Regulation Companion	12033
-Introduction This Partnership Compact	12175
+Introduction This Partnership Compact	12175,1815
 Investee Companies	13474
 Investment Company for Developing Countries	1420
 Investment Holding Company	4972
@@ -933,10 +941,11 @@ Metumi Power Company	12256
 Microsoft Frontier Company	7007
 Millennium Challenge Compact	12645
 Mimosa Mining Company	1554
+Mineworkers Investment Company	14366
 Mining Companies	13060
 Mkt. Church Ch. Company Coy Line	11129
 Mobile Network Operators Fintech Companies Pension	12701
-Mobile Telecommunications Company	2340,248,9890
+Mobile Telecommunications Company	2340,248,9890,1774
 Monitoring The Partnership Compact	12175
 Moçambique Companion	2125
 Mubadala Investment Company	706,430,408,7554,46,201,1
@@ -1044,7 +1053,8 @@ PURPLELINE SOLUTIONS LIMITED COMPANY SANCTIONED	9728
 Pan-African Venture Capital Belgian Investment Company	612
 Parent Company	12445
 Parliament of Uganda Companion	1283
-Partnership Compact	10704,1471
+Partnership Compact	10704,1471,1815,21,138,1
+Partnership Compact Pursuing	13990
 Partnership Compact. Malawi	12175
 Patent And Company Registration Agency	1222
 Patent and Company Registration Agency Ministry of Finance	12454
@@ -1086,7 +1096,7 @@ Project Company. The PIU	3456
 Project Management Company	3456
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Provisions Concerning Closely Held Companies	3714
-Public Company	736,10514,1092
+Public Company	736,10514,1092,1682
 Public Company A Public Limited Company	12483
 Public Company Contact Agent	736
 Public Company Ltd	12400
@@ -1178,8 +1188,10 @@ Somali Political Compass	5172
 Sons Company Facilitating Emergency Response	13042
 South Africa Rank Unicorn Company Industry	11885
 South Africa. Companion	11840
+South African Bank Note Company	14224
 South African Company	11298
 South African Forestry Company Limited	2626
+South African Mint Company	14224
 Special General Members Meeting. The Company	8866
 St. Brandon. The Raphael Fishing Company	12132
 Standard Bank of South Africa Acting Company	11198
@@ -1268,6 +1280,7 @@ Veterans Investments Holding Company	13685
 Video Compatibility High Picture Quality	34
 Viewpoint Comparing National Approaches	1824
 Visa-branded Companion Card	10418
+Vision International Investment Company	14387,18
 W.W. Norton and Company	5700
 WHEREAS the Companies and Other Business Entities Act	13437
 WINDING-UP OF CLOSELY HELD COMPANIES Application	3714

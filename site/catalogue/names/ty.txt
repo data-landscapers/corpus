@@ -320,6 +320,7 @@ Transaction Type A Code	12364
 Transaction Type Codes	12364
 Transaction Types	11861
 Transformation Digital Terminé Type	13783
+Travel Documents Types Available	14045
 Ty Personal	5113
 Tyco International	4676
 Tyco Telecommunications	3782
@@ -349,6 +350,7 @@ TymeBank’s CEO	4772
 Tymebank’s US	12339
 Tymtrack Limited	6946
 Type Amount Disbursed Key Revisions	11924
+Type Amount Drawn	13868
 Type Approval	718,6228,6003
 Type Approval Regulations	11573
 Type Approval and Distribution	8916
@@ -423,7 +425,7 @@ Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651
 Types Effectif Pourcentage	10875
 Types Installed ENERGY MIX Generation	12358
 Types of AI Machine Learning	4528

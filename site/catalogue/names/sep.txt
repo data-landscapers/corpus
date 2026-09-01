@@ -117,7 +117,7 @@ SEPARATION	12338
 SEPARC	1966
 SEPHOMOLO	6613
 SEPSES	13363
-SEPTEMBRE	13323
+SEPTEMBRE	13323,964,1
 SEPTEMBRE ATTRIBUTION DE PERMIS DE RECHERCHE	2342
 SEPTEMBRE M’Batto	2342
 SEPs Transformation	13295
@@ -144,10 +144,12 @@ Sep-2022. RATINGS	13722
 Sep-2024	1867,845,8757,759,496,1196
 Sep-2025	2254,1352,7264,599,519,279,159,14,284,334,698,164
 Sep-2025 Country Director	13111
+Sep-2025 Estimated Approval Date	14015
 Sep-2025 Expected Closing Date	3562
 Sep-2025 Government and African Development Bank	13429
 Sep-2025 Operation Closing	11971
 Sep-2025 Yes Dec	12267
+Sep-2026	14316
 Sep-2027 Bank	10829
 Sep-2028 Expected Disbursements	4653
 Sep-2030	2253,2435,3189,3540,52
@@ -165,6 +167,7 @@ Separating	4896,2040,5946
 Separating Myth	9750
 Separation	10829,1424,160
 Separation of Accounting IN- National Backbone	11857
+Separation of State and Religion	13948
 Separation of Wholesale	11857
 Separação	11436
 Separação de Actividades	10755
@@ -195,7 +198,7 @@ September-October	13392
 September14	12201
 September30	10007
 SeptemberTender	12868
-Septembre	1247,402,217,1686,5203,584,67,338,789,389,43,10,2315,22,1,1,138,116,134,51,72,2
+Septembre	1247,402,217,1686,5203,584,67,338,789,389,43,10,2315,22,1,1,138,116,134,51,72,2,460,1
 Septembre N	10876
 Septembre PPMP	10876
 Septentrion. Même	3361

@@ -3,6 +3,7 @@ AWS Region Table. Pricing	7210
 Abbreviations CPI Consumer Price Index IMF	11286
 Absence of Price Control Measures	12389
 Absence of Price Floors and Guidelines	12389
+Actual Operator Prices	14297
 Administrative Incentive Pricing	3102,6
 Adverse Price	11994
 African Prices	10856
@@ -50,6 +51,7 @@ Commodity Prices	12978
 Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
 Company Share Price	4896
+Competition Drove Prices Down	14297
 Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
@@ -91,6 +93,8 @@ Diesel Price	1828
 Different Scenarios Gasoline Price	1828
 Digital Economy Rose Pola Pricemou	3959
 Domestic Fuel Prices	2775
+Domestic International Food Prices	13868
+Domestic International Fuel Prices	13868
 Drafting Transfer Pricing Legislation INTRODUCTION	573
 EXW Price	13185
 Earnings and Consumer Price Indices Overview	2775
@@ -142,6 +146,7 @@ ITU and PricewaterhouseCoopers	11917
 Industry Price Code	13385
 Initial Prices	13037
 Institute for Prices and Competition	11380
+Interconnection Prices and Retail Tariffs	14017
 Internet Prices Slashed	4070
 Jet A1 Retail Price	718
 Kigali Public Pump Price	718
@@ -207,7 +212,7 @@ Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432
 Price Adjustment Formula	13185
 Price Changes	2775
 Price Code	13385
@@ -226,14 +231,17 @@ Price K4.00	13496,2
 Price K40.00	13322
 Price K8.00	13350
 Price K80.00	13321
+Price Nakfa	13954
 Price Name of Bidder	13185
 Price Negotiation Committee Established	12912
 Price Proposal	11209
 Price Proposal Requirement Annexure B	11240
 Price Schedule	13185
+Price Schedule Form Annex VI	14131
 Price Schedule Forms	13185
 Price Schedule. Question	7987
 Price Schedules	13185
+Price Stabilisation Account	14267
 Price Stability	13474
 Price Stability Average	11134
 Price Stability Financial Stability KPI	11131
@@ -259,7 +267,7 @@ Priced	6690
 Priced Code	13385
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Other Charges	12629
@@ -340,7 +348,7 @@ Trading Market and Price	7198
 Transfer Pricing	573
 Trends of Starlink Price Adjustments	1926
 Typical Bills of Quantities Price Code	13385
-U Unit Price	7538
+U Unit Price	7538,6486
 UNPUBLISHED PRICE SENSITIVE INFORMATION	4896
 USD Price	11857
 Unit Price Negarit G. P.O.Box	12146,39,41

@@ -27,6 +27,7 @@ B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295,533,943,1
 B. Project Components Component	10768
 B. Project Components Table	10829
 B. Status of Project Components Note	2989
+BESS Recycling Plant Component	14080
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
 Baseline Target Component	4653
 Board Composition Board Structure Board Composition	11134
@@ -35,8 +36,8 @@ Bond Issuance Composition	1828
 Bond Issuance Composition 7	1828
 Brazil and Indonesia. Components	649
 Building Block Components The Building Block	6423
-C. PROJECT COMPONENTS	11863
-C. Project Components	11863
+C. PROJECT COMPONENTS	11863,2075
+C. Project Components	11863,2075
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781,1646
 CAPÍTULO II COMPOSIÇÃO	4147
@@ -44,6 +45,7 @@ CAR Component African Development Bank	174
 CERC Component	1228
 CERC Contingent Emergency Response Component CHW	10829
 CIRT. Component	1704
+COMPONENT	13938
 COMPONENT DESPATCH COMPONENTS POSTCODE	11129
 COMPONENT OASIS Secure XML Encoding for OASIS	12360
 COMPONENTES COM ACTIVIDADES QUE POSSAM GERAR	11542
@@ -94,7 +96,7 @@ Commissioner for Refugees. Component	1778,210
 Community CERC Contingency Emergency Response Component	969
 Comoros. Components	13793
 Componenente	11542
-Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5
+Component	34,287,286,41,113,11,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1,224,187,5,10,5,22,108,330,8,6,55,41,6,37,129,58,25,168,24,14,14,260,24,18,39,51,148,10,27,37,57,220,1,46,14,67,195,77,56,43,3,4,3,19,57,1,5,16,72,28,42
 Component B	5370,8284,77
 Component Beneficiary Profile	10964
 Component C	13654,77
@@ -108,12 +110,14 @@ Component D	13731
 Component Diagrams	5665
 Component III	1176
 Component Manager	2989
+Component Manager for DESTA	14050
 Component Managers	1228
 Component Minimum Target Type Coverage Coverage	11952
 Component Name	3604,7360,891
 Component Name Cost	11560
 Component Name Strengthening	11417
 Component Regional IDA National UCF	1704
+Component Result	13999
 Component Technology Directory	1009
 Component Technology Mapping	1009
 Component and Sub-components	1284
@@ -133,6 +137,7 @@ Components Baseline Closing Period Strengthening	11417
 Components Baseline Period	1264,603,1737,7164
 Components Building	12228,39
 Components COMPONENT	10768
+Components Coefficients	13868
 Components Component	2712,1941,1926,349,4467,22,1023,1410
 Components Component Name Cost	1867,8901,757,1806,1
 Components Consumer Services Distribution	4972
@@ -194,6 +199,7 @@ Composer	11209,2181
 Composite	9129,2140,27
 Composite Drought Index	12931,46
 Composite Drought Index-Eswatini	12977
+Composite Indicator Index and Threshold Tables Final	13868
 Composite Score	2957
 Composite Video	34
 Composition	11,1463,39,281,34,797,582,507,147,126,496,45,1149,230,120,1061,460,1858,1730,724,135,48,313,156,39,92,18,239,400,30,522
@@ -212,6 +218,7 @@ Composition of Direct Taxes	5655
 Composition of Exports	2775,8374
 Composition of GDP	12385
 Composition of Imports	2775
+Composition of NSTC	13952
 Composition of Senate	13501,158
 Composition of Tax Revenue	1828
 Composition of Tax Revenues	13053
@@ -231,6 +238,7 @@ Compound	11129,1965
 Compound Annual Growth Rate	9759,1452,948,1187
 Compounding	1554,333,840,856,544,1370,855,985,109,1569,751,1651,1212,277,35
 Congo Component African Development Bank	117
+Connectivity and Skills Component	14010
 Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195,1002
@@ -272,14 +280,19 @@ Digital Payment System Component World Bank	409
 Digital Payment Systems Component World Bank	1003
 Digital Payments Component World Bank Group	416
 Digital Skills Component World Bank Group	959
+Distribution Assets Component	14080
+Djibouti Component	13938
 E-Health Components E-Health	21
 E-waste Management Plan. Component	1988
+ETSwitch. D. Implementation Progress Component	14010
 Emergency Response Component CERT Computer Emergency	1264
+Engineering and Supervision Technical Consultant Component	14080
 Enhance Component Synergies	13083
 Eswatini Composite Indicator for Economic Activity	12962
 Eswatini. Board Composition	12969
 Evaluation Components	5245
 Evaluation Components Impact	5245
+Evaluation. Component	13938
 Excess Energy Composition	11228
 FEES Component Fees	2709
 FINANCING DEVELOPMENT OBJECTIVES AND COMPONENTS Project	13731
@@ -299,10 +312,12 @@ Gender and Age Gender Composition of PWDs All	12460
 General Government Revenue Composition	10997
 Generation Under Component	1988
 Gestores de Componente	11390
+Girls and Learning Programme Component	13999
 Good. Component	13654
 Government CIRT Component	1704
 Government Component	5533,6453
 Government Revenue and Tax Composition Trends	10997
+Government of Djibouti Component	13938
 Guinea Guinea-Bissau Mauritania Total Component	1264
 HEALTH FACILITY-WIDE COMPONENT COMPONENT	2709
 Household Population and Composition	13454
@@ -349,6 +364,7 @@ Kalumbila District of North-Western Province. Component	1988
 Key Components Unveiled	11546
 Key Components for Gender Mainstreaming	5244
 Key M&E Components	5245
+Key Result Areas and Project Components	13998
 Kwilu and Ituri. Component	11923
 LE COMPORTANT. En	2342
 La Composante Numérisation	13635
@@ -395,7 +411,7 @@ POPULATION DES MÉNAGES ET COMPOSITION Ménage	13300
 POPULAÇÃO E COMPOSIÇÃO DOS AGREGADOS FAMILIARES	10777
 PRIDA Component	285
 PROGRAM DESIGN INDICATORS DECISIONS Component	3604
-PROJECT DEVELOPMENT OBJECTIVE AND COMPONENTS Project	11863
+PROJECT DEVELOPMENT OBJECTIVE AND COMPONENTS Project	11863,2075
 PY3 PY4 Total Component	11863
 Panel of Experts for Takeovers Composition	3714
 Parkade Podium Museum Auditorium Building Component	11134
@@ -405,11 +421,13 @@ Policy Areas and Essential Components	12419
 Policy Component	12419
 Post Office. DELIVERY COMPONENTS	11129
 Prevalência de Comportamentos Controladores	10777
+Procurement of Tools and Machinery Component	14080
+Program Management. Component	14010
 Program. Component	13392
 Programs’ Components	10775
 Project Beneficiaries Component Beneficiary Profile	10964
 Project Beneficiaries D. Project Components III	13856
-Project Components	1988,4551,5324,28,497,1355
+Project Components	1988,4551,5324,28,497,1355,195,142
 Project Components Activities	1988
 Project Components IDA GFF Total Component	10829
 Project Components Project Cost IDA Financing	11525
@@ -482,9 +500,11 @@ Team Composition and Task Assignments Professional Staff	13037
 Technical Assistance Component	13054
 Theme Project Management and Coordination Component	2989
 Through Component	6539
+Through Vibe Composition	14308
 Tilinawo Mkandawire Component	13392
 Top-Level Component Sub- Component	12359
 Técnico da Difusão COMPOSIÇÃO	10757
+UNECA Compound	14131
 Uganda. Components	394
 Under Component	1264,20,583,121,901,3650,4290,696,330,1537
 Under Components	10964

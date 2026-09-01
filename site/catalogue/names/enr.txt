@@ -40,6 +40,7 @@ ENREGISTREZ TOUT CE QUI EST TRADITIONNELLE	13300
 ENREGISTREZ TOUTES LES RAISONS MENTIONNÉES MANQUE	13300
 ENREGISTRÉ CI-DESSOUS. OU PLUS	13300
 ENREGISTRÉ LE NUMÉRO D'ORDRE POUR TOUS	13300
+ENRICHING AI SURVLANCE INFRASTRUCTURE	14004
 ENROL	11156
 ENROLLMENT	12146
 Education Education Enrolment Education Completion Human	10837,1315,188
@@ -80,12 +81,15 @@ Enrolling	571,4877,5685,791
 Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82,252,308,6,337,18
 Enrollment Kits	13424
 Enrollment The Gender Parity Index	12411
+Enrollment and Completion	13991
 Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363
 Enrolment Education	12356
 Enrolment Infrastructure	11774
+Enrolment Ratio OSM	13960
+Enrolment and Completion	13991
 Enrolment of Female Learners	2775
 Enrolment of Learners	2775
 Enrolment of Male Learners	2775
@@ -102,6 +106,8 @@ Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
+Gross Enrolment Ratio	13991
+Gross Enrolment Ratio GoSE Government	13960
 Gross and Net Enrolment Rates	13399
 Gustave Enrichir	5022
 Health Sciences’ Students Enrolment	2775
@@ -123,7 +129,7 @@ Net Enrollment Rate	12411
 Net Enrollment Rates	12411
 Net Enrolment Rate	12175,24
 Net Enrolment Rates NESIP	12175
-Net Enrolment Ratio	12175
+Net Enrolment Ratio	12175,1816
 Nigerian Government Intensifies National Identity Enrolment	7141,3
 OBJET DE LA REQUETE Enregistrement	10821
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
@@ -136,12 +142,14 @@ Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
 Q.159 ET ENREGISTRER LE NUMÉRO	13300
 Registre du Courrier Enregistrement	10975
+Research Network GER Gross Enrollment Rate	13991
 SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300
 SOCIAL STATISTICS Student Enrolments	13479
 SOEURS ENREGISTRÉS	13300
 STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
 Secondary Education Enrollment Rates	12411
+Secondary Net Enrolment Ratio	13991
 Sectors Enrolled	12551
 Services. Enrolment	12359
 TOUT ENREGISTRÉ	13300

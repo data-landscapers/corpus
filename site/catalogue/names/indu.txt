@@ -49,6 +49,7 @@ Beluluane Industrial Park	1727,7719
 Board NIC National Industrial Credit NIIP	2775
 Body MALAWI EXTRACTIVES INDUSTRIES TRANSPARENCY INITIATIVE	12932
 Body The Zambia Chamber of Commerce and Industry	13432
+Botswana's Cultural and Creative Industries	14300
 Broadcasting Industry	12395
 Broadcasting Sector Telecommunications Industry	12395
 Build Cross-Sector Collaboration Infrastructure Industry	11138
@@ -87,6 +88,8 @@ China Industrial Bank	6485
 China International Big Data Industry Expo	12864
 China Yes Telecom Industry Development Plan	11529
 China-West Africa Medical and Health Industry Expo	10630
+Chinese Ministry of Industry and Information Technology	14271
+Chinese Vice Minister of Industry and Information Technology	14271
 Client Industry Industry Group Sector Committed	11469
 Climate Change Induced Productivity Shocks	1828
 Commerce Department’s Bureau of Industry and Security	10444
@@ -118,6 +121,7 @@ Creative Industries and Multimedia	12333
 Creative Industry	12982,492,211
 Creative and Cultural Industries	13487
 Crosswalk Recommendation Industrywide Fraud Intelligence	11138
+Cultural and Creative Industries	14300
 Código de Contribuição Industrial	11532
 D. EMPLOYMENT DISAGGREGATED IN THE INDUSTRY-	3862
 D. Industrial	7845
@@ -128,6 +132,7 @@ DATA CENTER INDUSTRY PLAYERS	10861
 DESENVOLVIMENTO INDUSTRIAL	11443
 DIRECT INDUSTRY	10975
 Dairy Industry Development Act	13403
+Damerjog Industrial Development Free Trade Zone	13868
 Dangote Industries	5765
 Danish Industrialisation Fund for Developing Counties	789
 Data CSIR Council for Scientific and Industrial Research	5246
@@ -164,6 +169,7 @@ EU AI Industrial Policy Monitor Newsletter	6487
 EU Industrial R&D Investment Scoreboard	6477
 East Africa Banking Industry Outlook	5883
 Econet Heasmen Wireless Pvt Ltd Industrial	4896
+Economic Industry	13956
 Education Remains the Most Targeted Industry	9815
 Eenhana Industrial Onawa	12933
 Egypt. About the IDC The Industrial Development	7785
@@ -205,7 +211,7 @@ Fintech P2P Lending and Micro Finance Industry	11994
 Food Processing Industry Investigation of Water Tube	1154
 Formal Industry	12445
 Foster Industry and Academic Partnerships	12675
-Fourth Industrial Revolution	396,32,4,1,153,372,4,192,82,7,5,566,279,24,440,212,179,751,162,667,508,109,82,19,167,439,731,107,142,919,271,108,851,149,72,221,253,1555,23,11,16,929,119,183,113,49,247,14,17,14,28,352,197,1,13,58
+Fourth Industrial Revolution	396,32,4,1,153,372,4,192,82,7,5,566,279,24,440,212,179,751,162,667,508,109,82,19,167,439,731,107,142,919,271,108,851,149,72,221,253,1555,23,11,16,929,119,183,113,49,247,14,17,14,28,352,197,1,13,58,637
 Fourth Industrial Revolution AI	6832
 Fourth Industrial Revolution Final Report	5036
 Fourth Industrial Revolution PSET	6832
@@ -312,7 +318,7 @@ Indus- Taxes	2775
 Indust Trans Servic Autre	737
 Industria	1701,2508,2632,3086,434,1181
 Industria Excelentísimo	1855
-Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898
+Industrial	736,39,788,265,1008,1025,815,1582,1055,418,56,2370,689,123,165,15,735,1,10,60,204,1,45,51,95,4,14,27,40,51,898,569
 Industrial Applicability	12389
 Industrial Area Prison	9188
 Industrial Association of Guinea-Bissau	11546
@@ -407,10 +413,12 @@ Industrias	1701,2508
 Industrias Creativas	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Industrias Extractivas	8378
-Industrie	1280,402,194,281,296,592,351,90,916,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195,861,25,697,164,5,277,200,1047,39,12,49,37,6,12,55,49,111,67,85,31,65,15,16,1,1
+Industrie	1280,402,194,281,296,592,351,90,916,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195,861,25,697,164,5,277,200,1047,39,12,49,37,6,12,55,49,111,67,85,31,65,15,16,1,1,325
 Industrie CNI	13377
 Industrie CNS	10874
+Industrie Mer Rouge	13868
 Industrie Redevabilité	2514,842
+Industrie Une	14266
 Industrie de Côte	2418
 Industrie de Maurice	8106
 Industrie des Comores	5996
@@ -430,7 +438,7 @@ Industries Extractives	4169,4355
 Industries Minières	1682
 Industries and Real Estate	2775
 Industries de Réseau AER Agence	10975
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92,89,97,1,5,12,32,81,67,137,112,238,38,95,12,62,7,2,6,173,19,28,8,87,20,9,15,44,1,8,40,14,87,50,31,26,58,84,61,31,37,65,35,116,124,2,17,14,3,37,55,80,42,70,22,51,194,39,86,135,138,94
 Industry Analysis	10718
 Industry Applications	6924
 Industry Apr-Jun	11296
@@ -484,7 +492,7 @@ Industry Regulation Act	11188
 Industry Report	1264,3968,265,2643,34,340,239,2103,148,136,854,1458
 Industry Representative Body	13461
 Industry Sector Environmental Health and Safety Guidelines	1988
-Industry Services and Solutions	6593,1232,3178,1,13,977
+Industry Services and Solutions	6593,1232,3178,1,13,977,2099
 Industry Services and Solutions and Outreach	10856,1529
 Industry Skills Committees	12934
 Industry Stakeholders. LTA	1777
@@ -654,8 +662,9 @@ Minister of Industrialisation and Trade	3714
 Minister of Industrialization	13156
 Minister of Industry	7748,673,3605,1536
 Minister of Industry and Commerce	1554,1113,1861,960,7024,1014
+Minister of Labour and Industrial Relations	14267
 Minister of State for Industry	7141
-Minister of Trade and Industry	11179,1804
+Minister of Trade and Industry	11179,1804,971
 Minister of Trade and Industry Hon. Alpha Ibrahim	8271
 Minister of Trade and Industry Parks Tau	4242
 Minister of Trade and Industry William Anyuon Kuol	3583
@@ -682,7 +691,7 @@ Ministry of Industry and Information Technology	10649,3017
 Ministry of Industry and Minerals	9862
 Ministry of Industry and Trade	10663,887
 Ministry of Trade and Industries	10599
-Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70
+Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70,901,54,117
 Ministry of Trade and Industry. Private	5014
 Mitigate Industrial Disasters Michael Moyo's Ocular	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Mobilizing Private Industry	6849
@@ -869,7 +878,7 @@ Tobacco Transportation Health Care Materials Industrials	4972
 Tourism and Hospitality Industry	395
 Tourism and Hospitality Industry Policy	13685
 Trade Promotion Agencies and Industry Bodies	5247
-Trade and Industry	1988,1315,1944,5066,315,570,82,1096,163,512,292,44,16,76
+Trade and Industry	1988,1315,1944,5066,315,570,82,1096,163,512,292,44,16,76,475,319
 Trade and Industry Executive Summary	5247
 Trade and Industry Ministers' Session	13562
 Trade and Industry Ministry of X Youth	12376
@@ -882,6 +891,7 @@ Tunisia Industrial Investment Surges	7322
 Turkish Aerospace Industries	12130
 UK Industry	13385
 UN Health Industry Foundation	5658
+Uganda ICT Industry	14188
 Uganda-Japan ICT Industry Promotion Project	7652
 Unidade Industrial	11443
 Union CZI Confederation of Zimbabwe Industries ECD	12512

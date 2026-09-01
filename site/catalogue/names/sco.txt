@@ -36,6 +36,7 @@ C. SCOPE OF WORK Task	13922
 CHANGE FOUNDATIONS FOR ECONOMIC SCORE	10835,3,130,902,16,466,1,135
 CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130,902,16,466,1,135
 CHAPTER VI1 CONSUMER PROTECTION Scope	11179
+CI Score	13868
 CLIKNET SCOPES LIMITED Data Controller INST-78578115E29	7167
 CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
 COMPUTATION OF SOVEREIGNTY SCORE The Contracting	3787
@@ -353,6 +354,7 @@ SCOPE OF APPLICATION These Guidelines	10407
 SCOPE OF TENDER	13618
 SCOPE OF THE REVIEW	4896
 SCOPE OF THE WORK General Project	962
+SCOPE OF THIS REQUEST FOR INFORMATION	14224
 SCOPE OF WORK	12763
 SCOPE OF WORK Section	13037
 SCOPE The Minimum Interoperability Standard	11184
@@ -373,7 +375,7 @@ Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scolarité	13390
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -425,20 +427,23 @@ Scope and Application Parts I and IV	10157
 Scope and Definitions	13532
 Scope and Evidence Base	11596
 Scope and Limitations	11138,2280
-Scope and Methodology	8301,1098
+Scope and Methodology	8301,1098,4623
 Scope and Purpose	12302
-Scope of Application	27,1611,1320,1652,5245,1999,139,153,39,431,314,378
+Scope of Application	27,1611,1320,1652,5245,1999,139,153,39,431,314,378,647,6,163
 Scope of Application Applies	10908
 Scope of Application CHAPTER	12616
 Scope of Application Personal Data Collection and Processing	11539
 Scope of Application The Standard	13308
 Scope of Application This Charter	2958
 Scope of Application This Directive	762
-Scope of Application This Proclamation	7538,4608,80
+Scope of Application This Proclamation	7538,4608,80,1798
+Scope of Application and Interpretation	13948
+Scope of Application. This Directive	14014
 Scope of Bid	13527
 Scope of Bid A. General	13185
 Scope of Breach	1877
 Scope of Business	1877
+Scope of Coverage The Business Information Register	13954
 Scope of Digital Pharmacy Regulation	9855
 Scope of NPPI	11152
 Scope of Oversight	12537
@@ -452,7 +457,7 @@ Scope of Services	11869
 Scope of Services This Policy	11995
 Scope of Services and Specific Tasks Under	13925
 Scope of Supply	13185
-Scope of Work	236,3442,8330,678,42,26,329,212
+Scope of Work	236,3442,8330,678,42,26,329,212,890
 Scope of Work and Requirements	11252
 Scope of Works	1638,11657
 Scoped	13225
@@ -465,7 +470,7 @@ Scopus	766,482,6542,881,566
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21,111,1,90,339,268,115,25,33,662
 Score Academic	13031
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
@@ -511,7 +516,7 @@ Scorecard.pdf	6133
 Scored	6214,306,115
 Scorefam	2826
 Scorefit	8125
-Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914
+Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55,914,710
 Scores Scores Summary Explanation of Assessment	12500
 Scores of Cameroons	2519
 Scoring	1243,2078,1813,1080,4550,1736

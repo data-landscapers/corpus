@@ -37,7 +37,7 @@ Contactos TACs Lista Contactos Tecnicos de Apoio	12018
 Contacts List Name Position Ministry	10812
 Content Table List	13729
 Contents LIST OF ACRONYMS	12962
-Contents List of Acronyms	12175
+Contents List of Acronyms	12175,1815,10
 Contr List	1988
 Contribuintes Lista	12018
 Covered List	8921,94,1429
@@ -104,6 +104,7 @@ I Liste	10874
 ICF. TABLE DES MATIÈRES LISTE DES	13300
 ICR DOCUMENT CG Rep. LISUNGI Safety	11924
 II LIST OF GRAPHICS	10980
+II List of Tables V List of Figures	13991
 II. LISTE DES SECTEURS	10906
 III LIST OF ANNEX	10980
 ILS APPARAISSENT DANS LA LISTE DES	13300
@@ -265,22 +266,27 @@ Lisk Limited	11117
 Lisk. Launched	11117
 Lisk’s EMpower Fund	11117
 Lisomona Tower	3524
+Lison Ncube	14295
 Lissi	2390,1902,563,470,255,313,73,322,83
 Lissu	8884
 List Search Showing Harare Use	9429
 List of Abbreviations	5244,1703,4183,423,509,314,299
+List of Abbreviations AAU Addis Ababa University	13991
 List of Abbreviations ACE	5244
 List of Abbreviations ADR Alternative Dispute Resolution	12062
 List of Abbreviations AfCFTA African Continental Free	12376
 List of Abbreviations BCMS	12961
 List of Abbreviations Group Cash Transfers	6947
 List of Abbreviations and Acronyms	12944
-List of Acronyms	10901,287,1471
+List of Acronyms	10901,287,1471,1358
+List of Acronyms AME	13956
 List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms BE Level	12175
 List of Acronyms and Abbreviations	2775
 List of Acronyms and Abbreviations Affirmative Action Chief	12920
+List of Activities Carried	13965
 List of Agents Number of Agents Name of Agents	12365
+List of Annexes Annex	14010
 List of Boxes Box	10718,553
 List of Core CPI Items	2775
 List of Countries Which Have Signed	1243
@@ -297,7 +303,7 @@ List of Expert Representatives	2958
 List of Fees	12389
 List of Figures	236,346,1232,4186,946,4249,55,812,89,800
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64,803,855,1074
 List of Figures Glossary of Terms Abbreviation Expansion	12917
 List of Figures PART	11250
 List of Figures Table ES.1	10841
@@ -309,17 +315,21 @@ List of Goods and Related Services	13185
 List of Hotels	6488
 List of ICC	11401
 List of Individuals and Organizations Included	7151
+List of Issues	14149,1
 List of LDCs	11004
 List of LLDCs	11004
 List of Major Contracts for Works	11525
 List of Maps	12151
 List of Maps Map	12151
+List of National Statistical System	13965
 List of Non-Core CPI Items	2775
 List of Objectives	13346,1
 List of Organizations	7151
 List of Organizations Surveyed	7151
 List of Other Tariff Notifications Filed	11259
+List of People Met	14010
 List of Priority Health Facilities	11986
+List of Prohibited and Restricted Products	14113
 List of Public Services for Digitization	12917
 List of References	10765,10,2127,15
 List of Related Services and Completion Schedule	13185
@@ -339,7 +349,8 @@ List of Tables List of Figures	2775
 List of Tables Ministry of Information Civic Education	12917
 List of Tables PART	11250
 List of Tables Page List of Figures Page	11986
-List of Tables Table	1814,961,2880,345,5195,64,12,791,855,22
+List of Tables Table	1814,961,2880,345,5195,64,12,791,855,22,1052
+List of UN	14006
 List of UNCTAD	13382
 List of Values	6423
 List of ZEMA	1988
@@ -366,7 +377,7 @@ Listen Jevans Nyabiage Published	10026
 ListenShareMoreCourts	6055
 ListenShareMoreHow	7437
 Listenership	8999
-Listening	7320,270,3546,2471
+Listening	7320,270,3546,2471,331
 Listening. Adapting. Translating	6041
 Listeria	11269
 Listes	2817,10877
@@ -427,6 +438,7 @@ Negative List. Fill	1988
 Nigeria Joins Lisbon and Johannesburg Gbenga Ajao	9496
 Nigeria's Import Prohibition List	12026
 Nomes da Lista	11544
+Notorious Markets List	14008
 Não Correcção de Lista de Cidadãos Maiores	11425
 OECD Development Assistance Committee List of Recipients	13082
 OPERATIONAL REVIEW Listed Opcos	10793
@@ -488,9 +500,11 @@ Submitted List	11276
 Sumário Lista	11574
 TABLE OF CONTENT LIST OF FIGURES	718,10510
 TABLE OF CONTENTS LIST OF ABBREVIATIONS	2776
-TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524
+TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524,8432
 TABLE OF CONTENTS LIST OF FIGURES	6671
 TABLE OF CONTENTS LIST OF TABLES	12970,7
+Table of Contents Acknowledgement I List of Abbreviations	13991
+Table of Contents List of Acronyms	13998
 Table of Contents List of Tables	6000,6062
 Template Integrations Approved Vendor List VSDC	12454
 Threshold Category Open Open Short List	11855
@@ -505,6 +519,7 @@ Uganda Lisa Chesney	5109
 Uncleared Cargo List	11036
 Universidade Aberta ISCED II LISTA	2816
 Updated and Publicly Available List	12389
+V List of Acronyms VI Joint Statement	13977
 VFEX Listing Requirements	4896
 VFEX Listings Requirements	4896
 VFEX Listings Requirements. Dr Zienzile Dillon	4896

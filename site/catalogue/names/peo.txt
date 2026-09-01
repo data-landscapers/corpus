@@ -11,6 +11,8 @@ All Peoples’ Congress	7452
 Andrea Johnson People	5808,375
 Armed People	11131,3
 Assembly of People’s Representatives	5101
+Association of People	14031
+Associations for People	14031
 Associations of People	12201
 BILLION PEOPLE. Mauritius	10977
 BOKO AND THE PEOPLE OF BOTSWANA	12568
@@ -53,13 +55,18 @@ ESS7-Indigenous Peoples	1988
 Empower People	7928
 Empowering People	1467
 Ensuring Young People Succeed Sub-Saharan Africa	1363
+Eritrean People's Liberation Front	13964
 Estonian Chamber of Disabled People.49	11006
 Ethiopia's House of People's Representatives	3211
 Ethiopia's House of Peoples' Representatives Approves	1971
 Ethiopian House of Peoples' Representatives	12232
+Ethiopian People	13948
 Everyday People	5975
+Executive Vice President and Chief People	14367
 FIRST AID Site No. of Trainings People	12977
+FSPs. People	13938
 FUNCTIONAL DIGITAL IDENTITY FOR PEOPLE	11940
+Federal Supreme Court. The House of Peoples	13948
 FinNeeds UNDERSTANDING PEOPLE’S LIVES Data	418
 Finance Management System PLWDs People Living	13295
 Finance for Displaced People	10841
@@ -74,25 +81,34 @@ Free Movement of People	12227
 Free Movement of People Across Africa	12227
 Functional Digital Identity for People	11940
 GUIDdE PeOsUR LAfDluIGIxTALISAàTION	10711
+Gambela Peoples	13948
 General People's Congress	0
 Global Energy Alliance for People and Planet	13228
 Global Energy Alliance for People and Planet and Sustainable	11137
 Green Giraffe People	8550
 Green People's Energy	1242
+Harari People	13948
 Hopes and Aspirations of Young People Today	7749
 House of People's Representative	12185
-House of People's Representatives	1290,508,166,7,1240,3843,3778
+House of People's Representatives	1290,508,166,7,1240,3843,3778,3219,71,14
 House of People's Representatives of Ethiopia	1971
-House of Peoples Representatives	1685
+House of People's Representatives. Finally	14122
+House of People's Representatives. The Council	14122
+House of Peoples Representatives	1685,12283,27
 House of Peoples' Representative	1964,10221
-House of Peoples' Representatives	3176,3915,1
+House of Peoples' Representatives	3176,3915,1,6856,10
+House of Peoples' Representatives and Regional Councils	13973
+House of Peoples’ Representatives	13948
+House of Peoples’ Representatives and State Councils	13948
+House of Peoples’ Representatives. Article	13948
+House of Peoples’ Representatives. CHAPTER NINE STRUCTURE	13948
 House of People’s Representatives	9306
 Human Rights and Peoples	12201
-Human and People's Rights	1988,9917,81
+Human and People's Rights	1988,9917,81,1983,62
 Human and People's Rights AMUSI United Movement	12201
 Human and People's Rights. Attention	3583
 Human and Peoples Rights	3005,1748,8599,132
-Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94
+Human and Peoples' Rights	2958,204,421,278,2165,2459,262,652,261,793,312,76,676,187,497,738,94,1040,76
 Human and Peoples' Rights and Article	7458
 Human and Peoples' Rights of Women	3583
 Human and Peoples' Rights. Continued	3583
@@ -127,6 +143,7 @@ Kawambwa Rebuilding Trust Through People	13521
 Lao People's Democratic Republic LAO Ongoing	13082
 Lao People's Democratic Republic Latvia Lebanon	11765
 Lao People’s Democratic Republic	226,6387
+List of People Met	14010
 M PEOPLE IN AFRICA TO ENERGY	12399,1034
 MALAWI DIGITAL READINESS ASSESSMENT People	12214
 MDAs. People	13920
@@ -155,7 +172,10 @@ National Council of People	12328
 National People's Assembly	2406
 National People’s Assembly	11586
 National People’s Party	10062
-Nationalities and Peoples	12158
+Nationalities and Peoples	12158,1790
+Nationalities and Peoples of Ethiopia	13948
+Nationalities and Peoples. Accordingly Government	13948
+Nationality and People	13948
 News People	6183,896
 Novastar Ventures Africa People and Planet Fund	4516
 Number of People	11905
@@ -170,6 +190,7 @@ PEOPLE	10719,133
 PEOPLE COULD	10977
 PEOPLE OF MALAWI	12891
 PEOPLE OF ZAMBIA	13294
+PEOPLES’ REPRESENTATIVES Article	13948
 PEOU 8	10940
 PEOU and PU	8130
 PEOU score	10940
@@ -181,7 +202,7 @@ PROPORTION OF BLACK PEOPLE IN TOP	11211,51
 PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32
 People Affected	12977
 People Affected Households Affected B. Hailstorms	12977
 People Carrying the Risk Risk-sharing	6947
@@ -207,6 +228,7 @@ People Plus Consulting	7444
 People Power	7822
 People Power Inclusion	7822
 People Provided	12717
+People Reached	14079
 People Service Card	2536
 People Simon Levell	3895
 People TRANCRAA Transformation of Certain Rural Areas	11197
@@ -224,12 +246,15 @@ People and Possibilities	6948
 People and Practices	8043,2030
 People and Practices. Participants	13944
 People and Process	11956
+People of Africa	13938
 People of Common Interest	11956
 People of Sierra Leone	7452
+People of Sudan	14075
 People of Zambia	13472
 People's Bank of China	4041,2829,2058
 People's Democratic Republic Middle EGDI M-OSI	10840
 People's Democratic Republic of Algeria	8645
+People's Front for Democracy and Justice	13964,137
 People's Guide	1670
 People's Office	12512
 People's Own Savings Bank	6996
@@ -253,35 +278,41 @@ People-focused	11131
 People-to-Business	3401
 People-to-Government	4282,3
 People-to-people	6003
+People. The State Council	13948
 PeopleImages.com	11879
 PeoplePowerSL	9488
-Peoples	1988,9287,273,1783,1
+Peoples	1988,9287,273,1783,1,616
 Peoples Democratic Party	5215
+Peoples Front for Democracy and Justice	14036
 Peoples Gazette	3742
 Peoples Own Savings Bank	12252
+Peoples of Ethiopia	13948
 Peoples' Republic of China	12984
 Peoples' Rights	9399
 Peoples-Perspectives-on-ID-and-CR-in-Rwanda-WorldBank.pdf	445
 People’s Bank of China Governor Pan Gongsheng	10026
 People’s Bank of China. Most Africa-China	5863
 People’s Daily Overseas Edition	8460
+People’s Front for Democracy and Justice	14008
 People’s Liberation Army	8510,1934,898
 People’s Network	11007
 People’s Newspaper	8393
 People’s Office	4528
 People’s Online Skills	6948
 People’s Perspective	5700
-People’s Republic of China	258,751,5941,1012,1056,2136,188,1780
+People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145
 People’s Republic of China. V- ON INSTITUTIONAL	7452
 People’s Rights	10841
 Planet Global Energy Alliance for People and Planet	13228
 Policy OHS Occupational Health and Safety PEO	13332
 Policy for Indigenous People	12567
 Powering Africa’s Potential Through Its People	10964
+Preamble Whereas the Eritrean People	14127
 Prevention of People Trafficking and People Smuggling	12910
 Project Steering Committee PwDs People	1988
 Protecting People	8202
 Protecting Poor and Vulnerable People	10964,941,1426
+Put People	14079
 Putting People	12986
 REPRESENTATION OF THE PEOPLE Electoral Systems	13294
 RESILIENT USE OF BROADBAND INTERNET People	3604
@@ -311,6 +342,7 @@ South West Africa People’s Organisation	1981
 Southern Nation Nationalities and People	1219
 Southern Nations Nationalities and People’s Region	1212
 Sport Dossiers Economie Afrique Monde People	9890
+State Council. The House of Peoples’ Representatives	13948
 Strengthening Fundamentals of Digital Transformation People	3604
 Sudan People's Liberation Movement	3583
 Supporting People and Workers	10985
@@ -319,17 +351,20 @@ TII Asia Democratic People's Republic of Korea	10840
 Tanzania People’s Defence Force	2867
 Target People	4653
 Technology. People. Development	12554
+Tenure Security for Communal Landholdings and People	13998
+Tigray People’s Liberation Front	14008
 Tohr PeoCliacsyeInfoterrPvoelnictiyoInntervention	10157
 Toward More People-Centered Service Delivery	984,11679,1
 UNDERSTANDING PEOPLE’S LIVES	418
 Uganda Peoples Defence Forces	4351
-Vulnerable Peoples Plan	11863
+Vulnerable Peoples Plan	11863,2075
 WardheerNews Everyday People	3615
 Water for People	7849
 Windhoek People-Centred Smart City Strategy	4495,2614,1861
 World Bank Group and People's Bank of China	11130
 Year People	2712,1976,3189,2993,1101
 Year Value Indicator Name People	6579
+Young People	14067
 Young People of Western and Central Africa	11905
 Youth and People	11986
 Zanzibar National Council for People	11133

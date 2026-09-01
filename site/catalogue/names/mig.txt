@@ -43,6 +43,7 @@ DETAILED MIGRATION STRATEGIES	6432
 DFC and MIGA	11310
 Data Migration	11216,2208
 Data Migration Requirements	13037
+Data Migration Strategy	14185
 David Mignot	5802
 Description MIGA	88,199,417,1,209,1,1,1,1,1,1,1,1,1,212,406,1,1,682,1
 Development Potential of Migration Greater	12164
@@ -57,7 +58,10 @@ Director of Migration	10463
 Directorate of Free Movement of Persons and Migration	10909
 Diretor Geral de Migração	11566
 Dominique Migisha	3807,285
+EMPLOYMENT AND LABOUR MIGRATION. Theme	14039
 Edward Miguel	10963,1
+Employment and Labour Migration	14039
+Employment and Labour Migration Ministerial Communiqué	14039
 Encargado de Migración	6841
 Ericsson and MTN Complete MoMo Cloud Migration	10666
 Ethiopia MIGA	11310
@@ -71,6 +75,7 @@ Forced Migration Review	12227
 Foreigners’ and Migration Service	10775
 Full-Scale Migration	6432
 Gautier Mignot	8194
+Global Compact for Migration	14021
 Government Migration Tools GCSPs	6432
 Gov’t The International Organization for Migration	10463
 Great Migration	12286
@@ -95,7 +100,7 @@ International Migrant Stock Data	11960
 International Migration	10508,18
 International Migration Review Forum	9838
 International Migration Snapshot	12227
-International Organisation for Migration	7165,2673,2307,56,117,913
+International Organisation for Migration	7165,2673,2307,56,117,913,707
 International Organization for Migration	1743,124,1545,690,1070,1876,3793,1027,359,552,826
 International Organization for Migration. Available	11909
 Introduction and Migration	5675
@@ -112,6 +117,7 @@ Labour Migration Action Plan	10324
 Labour Migration Strategy	10463
 Le Commissariat Général des Migrations	13360,82
 Legacy System Migration and Compatibility Requirements	3861
+Lesotho and India. Migration Policy	14166
 MCDA Cloud Migration Approval	6432
 MIGA Expands Insurance Support	11310
 MIGA Guarantee Facility. Risks	287
@@ -166,7 +172,7 @@ Migowi-Phaloni-Swang’oma Road	13122
 Migra	9399
 Migra- Gvt of Benin	10819
 MigraWorld Bank	10819
-Migrant	4842,4049,3069
+Migrant	4842,4049,3069,2048
 Migrant Workers	8891,1950
 Migrants	377,4564,28,4647,2239,290,82
 Migrants and Convention	9399
@@ -179,7 +185,7 @@ Migrated Active Directory	11231
 Migrated Email	11231
 Migrating	8603,4663
 Migrating MIX	12965
-Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75
+Migration	643,146,676,265,15,2,132,830,996,554,1274,200,699,514,51,1894,176,631,140,121,198,167,202,239,10,95,100,10,151,3,58,17,697,54,26,57,102,19,63,156,214,366,79,326,27,45,2,75,707,24
 Migration Assessment	6432
 Migration Authority	10775
 Migration CIM	13377
@@ -187,10 +193,13 @@ Migration Contexts	12227
 Migration Control	11960
 Migration Data	10508
 Migration Data Portal	6372,1
+Migration Data Sharing Protocol	14021
+Migration Data Technical Working Group	14021
 Migration IT Information Technology LEAP Livelihood	10841
 Migration Information and Data Analysis System	7048
 Migration Management	4390,3,5665
 Migration Partnership	643
+Migration Policy	14166
 Migration Policy Institute	7351
 Migration Project	11131
 Migration Readiness	6432
@@ -204,6 +213,8 @@ Migration and Base System	13395
 Migration and Decent Work	12227
 Migration and Development	12164
 Migration and Diaspora	789
+Migration and Displacement Data Management TWG	14021
+Migration and Displacement Data Management Technical Working	14021
 Migration and Foreigners Service	10775
 Migration and Global Governance	8015
 Migration and Mortality	12963
@@ -252,7 +263,7 @@ National Migration Policy. Ndumbeh Saho	9838
 O Serviço Nacional de Migração	8212
 Open In Whatsapp YOU MIGHT	9750,247,623
 Orange Sierra Leone Guarantee MIGA	287
-Orderly and Regular Migration	9838
+Orderly and Regular Migration	9838,4201
 Organization for Migration KDHS Kenya Demographic and Health	12151
 Overview of Migration Management	12164
 PHASED MIGRATION TIMELINE	6432

@@ -19,6 +19,7 @@ Proof of Concept	5409,178,1051,540,14,2822,945
 Proof of Delivery Food and Drug Administration	4153
 Proof of Life Verification Required	12123
 Proof of Life World-wide	12217
+Proof of Payment	14216
 Proof of Registration	12257,928
 Proof of Registration13	12257
 Proof of Residency Only	12350
@@ -29,4 +30,5 @@ Proof-ofConcept	11130
 Prooftag	10812
 Prooosed	11180
 Public Key Infrastructure Proof-of-Concept Point of Sale	11130
+Tanzania Instant Payment System Proof of Concept	14282
 Zero-Knowledge Proofs	2565

@@ -19,7 +19,7 @@ Bango Market Day	9569
 BoZ Commemorates International Anti-Corruption Day	13532
 Botswana Space Day	5328
 Budget Day	11193
-Business Day	226,2432,660,2294,2139,516,315,19,1160,1479,1124,120,701,276
+Business Day	226,2432,660,2294,2139,516,315,19,1160,1479,1124,120,701,276,777
 Business Day Where the Operator	12364
 Business Day for ZIPSS	12364
 Business Day. For the IEC	9375
@@ -132,6 +132,8 @@ Disabilities The International Day of Persons	12977
 Disabilities. A. Commemorations of International Days	12977
 Ditladi Digital Centres World Radio Day	12625
 Dr. Dayo Lajide	9444
+E-Business Days	14174
+E-bisiness Days	14174
 ECA-convened World Fintech Day	12033,15
 ESG WORKSHOP FINANCIAL LITERACY DAY	13532
 ESS Reporting Official Use Only Day	12253
@@ -139,6 +141,8 @@ Eastern Congo Use Independence Day... MONUSCO	3245
 Eastern Daylight Time	5773
 Election Day	3758,6228,2255,839,15
 Energy Conservation Day We Are Hiring	4800
+Engineering Day	14117
+Engineering Day URL	14117
 Europe Day	9067
 Every Day Earners	7618,1
 Explore Further Day	10878
@@ -180,6 +184,7 @@ Imports Nuclear Day	11953
 Inaugural AI Innovation Demo Day	5413
 Income Days	11874
 Independence Day	2968,1204,992,563,624,1750,3231,1293,1249
+Independence Day Anniversary	13956
 Independence Day and Republic Day	7845
 Information Commission Data Protection Day	4800
 Information Technology Day	6243
@@ -189,7 +194,7 @@ International Anti-Corruption Day	13108,424
 International Children’s Day The International Children	12977
 International Customs Day	11575,1467,9
 International Data Protection Day	12395
-International Day	12971
+International Day	12971,1296
 International Day of Older Persons	10776
 International Day of Persons	4133,8844,56
 International Day of Sign Language The International	12977
@@ -202,7 +207,7 @@ International Open Data Day	4429
 International Women's Day	12642
 International Women’s Day	2668,9690
 International Women’s Day Webinar	2668
-International Youth Day	9648,138,85,1,1
+International Youth Day	9648,138,85,1,1,4353
 International Youth Day. Note	9873
 Investor Day	7241
 Jones Day	1728,1425
@@ -251,6 +256,7 @@ Posts Liquor Trading Days and Hours Application	11251
 Publications International Customs Day	13051
 Quality Days	10976
 RDGE Peer Reviewers Tankien DAYO	13885
+Recordings Day	14035
 Refugee Day	12627
 Regulatory Sandbox Demo Day. Barigye	6184
 Regulatory Sandbox Demo Day. Rwanda	6184
@@ -276,12 +282,13 @@ Swati. Day	6821
 TH DAY	762
 TH DAYOF	11517
 Talk About the Day	10841
+Teacher Day	14267
 Technology Day	7691,1170
 Terhadap Manajemen Sumber Daya Manusia	7759
 Trade Days	11874
 Travel World PR Day	7253
 TrendAI Zero Day Initiative and Pwn2Own	7137
-UN Day	3851
+UN Day	3851,10274
 UN International Commemoration Days	12977
 UNHCR World Refugee Day Golf Charity	899
 Universal Health Coverage Day	10776
@@ -319,6 +326,8 @@ World TB Day	2626
 World TV Day	4058,8567
 World Teachers Day	12950
 World Teachers Day Celebration and Awards Ceremony	12950
+World Teachers’ Day	14267
+World Teachers’ Day. World Teachers’ Day	14267
 World Telecommunication Day and International Girls	6333
 World Telecommunication and Information Society Day	6168,151,7306
 World Telecommunications Day	1215
@@ -332,3 +341,4 @@ ZIPSS End of Day	12364
 Zalapango-Mburura Day Secondary School	13392
 Zarapango Mburuma Day Secondary School	13392
 Zimbabwe Day. The World Expo	3760,9683
+Zoom Day	14035

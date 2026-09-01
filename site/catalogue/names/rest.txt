@@ -41,12 +41,14 @@ Current Restructuring	2473
 DIGITAL TRADE INTEGRATION Restrictiveness	11550
 DNRE Flyer Restituição IVA Desdobraveis Mod	12018
 Data At Rest	34
+Debt Restructuring Agreement Published	14097
 Dec-2025 Restructuring Level	6928
 Department Restrictions	11179
 Development of Restructured Neighborhoods of Abidjan	10930
 Diamniadio Data Centre Restructuring	647
 Diamniadio Data Centre Restructuring and Smart Senegal	647
 Digital Services Trade Restrictiveness	11550
+Digital Services Trade Restrictiveness Index	13985
 Disclosable Restructuring Paper	772,1298
 Document Sharing REST	1009
 EMPLOYMENT RESTRICTIONS AND COST	12389
@@ -72,6 +74,7 @@ Health REST	1009
 Hectares of Forest Restored	11332
 Impact of Power Restrictions	13387
 Inbound Inbound Rest	9781
+Including Livelihood Restoration Plan	13938
 Industry and Competition. Restated	5186
 Institutional Restructuring of Department of E Government	12917
 Institutional Restructuring of Department of E-Government	12917
@@ -81,6 +84,7 @@ Kenyan Startups Beat Rest of Africa	12221
 LAND REFORM AND RESTITUTION	11261
 Land Reform and Restitution	11261
 Legal Restrictions	4896,7653
+List of Prohibited and Restricted Products	14113
 Livelihood Restoration Plan	1988,8841
 Livelihood Restoration Plan Satellite Social Specialist	1988
 MFL REST	13471
@@ -92,6 +96,7 @@ Montant Reste	3396
 Montant Restes	3396
 Networks Restored	2677
 Ngwempisi Constituency E. Restoring Family Links	12977
+Notification of Prohibition and Restriction	14113
 Nov-2024 Restructuring Sequence.01 Not Applicable	11924
 OECD Digital Services Trade Restrictiveness Index	1031
 Object and Restrict Processing	3861
@@ -103,11 +108,14 @@ Out-of-Court Restructuring Mechanisms	12389
 Ownership and Participation Restrictions	12389
 P. Restrepo	11140
 PROCÉDURE D’APPEL D’OFFRES RESTREINT	10876
+PROHIBITED AND RESTRICTED	14113
 PROJECT RESTRUCTURING OF Digital Governance and Economy	2473
 PROJECT RESTRUCTURING OF Djibouti Integrated Slum	13897
 PROJECT RESTRUCTURING OF Mozambique Digital Acceleration	4653
+PROJECT RESTRUCTURING OF Strengthen Ethiopia's Adaptive	14038
 Partenaires Techniques Financiers RAR Restes	10712
 Patient Patient Demographics Query for REST	1009
+Permitted Restrictions	13951
 Plateaux Region Land Restoration	3437,3942,47
 Post Restante	11180
 Post Restante Special Delivery Service District	11129
@@ -122,6 +130,7 @@ Proposed Revised Budget Post Restructuring	2989
 Q1 Q2 Q3 Q4 Restructure the Department	12917
 RATIONALE FOR RESTRUCTURING	2473,2180
 RES00782 RESTRUCTURING PAPER ON A PROPOSED	2473
+RES01037 RESTRUCTURING PAPER ON A PROPOSED	14038
 RES01377 RESTRUCTURING PAPER ON A PROPOSED	4653
 RES01465 RESTRUCTURING PAPER ON A PROPOSED	13897
 RESA National Strategy for Restoration of State Authority	969
@@ -141,8 +150,9 @@ RESTORE	11240
 RESTORED	6313
 RESTRICTIONS ON INTERNATIONAL TRADE	12389
 RESTRICTIVENESS	11550
+RESTRICTIVENESS OF THE REGULATORY REGIME	13985
 RESTRIÇÕES DE LOCAÇÃO DE PROPRIEDADE	11898
-RESTRUCTURING	2473,9451,1973
+RESTRUCTURING	2473,9451,1973,238
 RESTRUCTURING A. Project	1228,3425
 RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39,173
 RESTRUCTURING HISTORY Restructuring Level	6928,4467
@@ -196,7 +206,7 @@ Restaurants	11955
 Restauration	969,1660,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
 Restauração	11447
 Restaurer	6959
-Reste	2561,835,1437,207,654,136,1283,161,2561,370,149,93,118,243,68,204,36,383,10,139,25
+Reste	2561,835,1437,207,654,136,1283,161,2561,370,149,93,118,243,68,204,36,383,10,139,25,2490
 Rester	6959,6341
 Restes	10858
 Restez	11074,2286,200
@@ -222,7 +232,7 @@ Restore Full Generation Capacity EGENCO	13241
 Restore NCC’s Exclusive Telecom Powers Wale	7776
 Restore Order Turns	10025
 Restores	11857
-Restoring	1887,939,5345,1638,1322,225
+Restoring	1887,939,5345,1638,1322,225,2512
 Restoring Dignity and Transforming	8999
 Restraining	13385
 Restraint	12629
@@ -237,14 +247,17 @@ Restricted Confidential Secret Top Secret Revision	11188
 Restricted Data	3861,1383,1188,5520
 Restricted Data Access	3861
 Restricted GCSP	6432
+Restricted Period	14135
 Restricted Physical Access Physical	12364
+Restricted Products	14113
 Restricted Strictly Financial	11952
 Restricted Tendering and Single-Source Procurement	7695
 Restricting	5363,1202,183,1519,748,954,2706,786
 Restriction	1187,1522,5136,1278,2054,1710,3,4,428,244
 Restriction of Processing	12185
-Restrictions	573,163,225,282,21,20,583,121,1616,110,1951,897,2119,442,732,866,47,61,135,2,213,238,143,345,4,84,54,154,52,41,8,87,134,12,395,8,71,28,253,15,6,1,2,17,1,191,258
+Restrictions	573,163,225,282,21,20,583,121,1616,110,1951,897,2119,442,732,866,47,61,135,2,213,238,143,345,4,84,54,154,52,41,8,87,134,12,395,8,71,28,253,15,6,1,2,17,1,191,258,170
 Restrictions Barrister Manga	10370
+Restrictions Upon	14036
 Restrictive	4848,1714
 Restrictive Very Restrictive	4848
 Restrictiveness	11550
@@ -269,7 +282,9 @@ Restructuring Paper RES01465	13831
 Restructuring Paper URL	13897
 Restructuring Paper. Report	11924
 Restructuring Sequence.02 Not Applicable	11924
+Restructuring and Recapitalization	14056
 Restructuring of Councils	12531
+Restructuring the Justice Sector Structure and Making	14012
 Restructurings	11924
 Resté	6959
 Restée	6959

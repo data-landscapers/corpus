@@ -6,6 +6,7 @@ ACCREDITATION AND VOTING PROCESS	10049
 AE VOTE	1322,1,1,740,1,1
 AFRICA REPUBLIEK VAN SUID AFRIKA Vol	11233
 AFRICA'S VOICES AMPLIFIED LIMITED Data Controller	7167
+AFRINIC. Votre	14241
 AI-Powered Voice Transactions	5700
 AIC VOI Data Controller INST-29759426E12 TAITA	7167
 ANADEN Vous	743
@@ -63,6 +64,7 @@ Assembleias de Voto	11425
 Assisted Voter Registration	12288
 Attribution Vous	13393
 Audio By Vocalize	7441
+Audio By Vocalize Article	14299
 Audio By Vocalize Health Cabinet Secretary	8934
 Audio By Vocalize Kenya	7633
 Auditing Research Vol	9237
@@ -277,7 +279,7 @@ EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
 Early Voluntarily Retirement Scheme	12922
 East African Community Vorgesehen	9062
 Eastern and Volta Regions	7695
-Eastleigh Voice	5469,713
+Eastleigh Voice	5469,713,8091
 Eastleigh Voice. Bingham	2566
 Ebukanga Technical and Vocational College	12268
 Ebukanga Technical and Vocational College Data Controller	7167
@@ -303,6 +305,7 @@ Entrepreneurial and Vocational Education and Training	13060
 Eswatini Mobile Network Voice Traffic ANNUAL	12395
 Eswatini Mobile Voice Traffic ANNUAL INFORMATION	12395
 Eswatini Voters ID	12404
+Ethiopia's Technical and Vocational Education and Training	14157
 Ethiopia. Voice and Messaging Voice	3898
 Evert Vorster	12478
 Evolution of RTGS Transaction Volumes	6938
@@ -356,7 +359,9 @@ Fixed Voice Traffic Total Fixed Voice	2776
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 Foreshore. Vodacom	10243
 Forêts Voir Voir Voir Voir Télécharger	4895
-Frogfoot and Vox	10735
+Frogfoot Networks and Vox Telecom	14366
+Frogfoot and Vox	10735,3631
+Frogfoot and Vox. Masimong Group Holdings and Draper	14366
 Fuel Consumption Volumes	12969
 Funding Volume	10954
 G Both MTN and Vodacom	10797
@@ -367,6 +372,7 @@ GCT. Volunteer	6947
 GHANA Volume	2776
 GOVERNMENT GAZETTE EXTRAORDINARY Vol. LXIII	12575
 GOVERNMENT GAZETTE VOL. IX	12930
+GOVERNMENT OF ERITREA Vol	13954
 GPU Technologies Accelerator Educational B1- Volume	7548
 GSM Active Voice Subscriptions	3862
 Gates Foundation-backed African Next Voices	8552,1392
@@ -390,6 +396,7 @@ Gwamile VOCTIM Management And The Sponsors	12970
 Gérez Mieux Votre Entreprise	10963,1
 HAUTE. Volume	1679
 HCR. Vous	13360
+HIGH for Volume	13990
 HUMAN CAPITAL DEVELOPMENT AND VOCATIONAL TRAINING	7167
 HV High Voltage IBRD Investment Bank	11549
 Haute Impulsion de Votre Majesté	8891
@@ -534,7 +541,7 @@ MTN Group Vodacom Group	1944
 MTN Group and Vodacom Group	4896
 MTN Orange and Vodacom	6232
 MTN Vodafone AirtelTigo Figure	2776
-MTN and Vodacom	2117,2779,3502,2797
+MTN and Vodacom	2117,2779,3502,2797,3043
 MUST. Malawi Voice Data Commons	13080
 Malawi Voice	13086
 Malawi Voice Data Commons	7313,5767
@@ -564,7 +571,7 @@ Ministro de Estado Ministro Vocal de Mesa Secretario	4209
 Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
 Ministro de Estado Vocales Mesa Parlamento	4209
 Ministry for Vocational Training	10841
-Ministry of Education and Vocational Training	11133
+Ministry of Education and Vocational Training	11133,2805
 Ministry of Employment and Vocational Training	10963,1
 Ministry of National Education and Vocational Training	13935
 Ministry of Technical and Vocational Education	11905
@@ -606,6 +613,7 @@ Mushagashe Vocational Training College	4528,7984
 My Vote Counts NPC	11986
 MÉDICAMENT ET APPOSEZ VOTRE SIGNATURE. ACCEPTÉ	13300
 N Vous	13300
+NACVOT National Center for Vocational Training NBHE	13960
 NAM NSA 2013 NLFS Vo2	9485
 NAM NSA 2014 NLFS Vo3	9485
 NE PAS CONTINUEZ TANT QUE VOUS	13300
@@ -621,10 +629,12 @@ Nana Appiah Acquaye The Ministry of Vocational	5952
 National African Languages and Voice AI Programme	7548,1241
 National African Languages and Voice Programme	9857
 National Budget for Vote	12984
+National Center for Technical and Vocational Training	13960
 National Certificate Vocational	6832
 National Parliament. Voters	12201
 National Radioactive Waste VOTE	11272
 National Technical and Vocational Education Council	9450
+National Vocational Training Center	13960
 National Voluntary Review	12962
 Nature Medicine. Volume	12712
 Newsletter Vol	13062
@@ -689,6 +699,7 @@ Police Standing Orders Volume	13361
 Policy Vol	2096
 Pool des Transports Publics de Voyageurs	6901
 Por Volatilidad	4209
+Port Traffic Volumes	13868
 Postal and Courier Volumes	6000
 Postal and Courier Volumes Q3	6000
 Postal and Courier Volumes Service Category Q3	6000
@@ -817,6 +828,7 @@ Soroush Vosoughi	8891
 Sous la Haute Impulsion de Votre Majesté	8891
 South Africa Vote	1601,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 South Africa's Vodacom	11918
+South Africa's Vodacom Group	14065
 South Africa. This Budget Vote	11272
 South Africa. VOTE	11272
 South Africa’s Vodacom Group	4801
@@ -864,19 +876,21 @@ Talata Volonondry	8233
 Tanzania Vodacom Tanzania	6368
 TanzaniaInvest Vodacom Tanzania Launches USD	5715
 Tax VRE Variable Renewables VTC Vocational	12399
+Teacher Student Association TVET Technical and Vocational	13960
 Technical Education and Vocational Training	12431
 Technical Vocational Education and Training	11326,1596,24,29
 Technical Vocational Education and Training Sector	12934
 Technical Vocational Education and Training UIF Unemployment	11250
 Technical Vocational Training	11210
-Technical and Vocational Education	1814,5079,5538,879
+Technical and Vocational Education	1814,5079,5538,879,650
 Technical and Vocational Education Pact	6884
 Technical and Vocational Education Training	11315,1096,201
 Technical and Vocational Education Training Institutes	1638
-Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365,1073,369,494,12,163,23,2,315,757
+Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365,1073,369,494,12,163,23,2,315,757,282,7,30,1,59,107
 Technical and Vocational Education and Training Management	13089
 Technical and Vocational Education and Training USAf	6832
 Technical and Vocational Education andTraining	1443
+Technical and Vocational Training	14082
 Technical and Vocational Training Centers Upgrading Project	258
 Technology TISEZA and Vodacom Tanzania Partner	9897
 Technology Type Vodacom	4442
@@ -969,7 +983,7 @@ VOLET OFFRE Ifs Tableau	13390
 VOLLMANN	6613
 VOLREP	13769,4
 VOLTA Disaggregation	582
-VOLUME	11955
+VOLUME	11955,2020
 VOLUME GLOBAL DE TRÁFEGO DE VOZ	11531
 VOLUME III	13418
 VOLUME OF VENTURE CAPITAL EXITS	4972
@@ -1048,7 +1062,7 @@ Vocales Consejo Superior	4209
 Vocales Magistrado Tribunal Magistrado	4209
 Vocally	12214
 Vocation	2756,25,8040,1
-Vocational	1814,973,6829,1225,1014,50,462,64,29,524
+Vocational	1814,973,6829,1225,1014,50,462,64,29,524,1142
 Vocational Cap	6921
 Vocational Centre	6946
 Vocational College TVET Technical Vocational Educational	2775
@@ -1064,13 +1078,14 @@ Vocational Training	12431,1043
 Vocational Training Centres	13217
 Vocational Training Colleges	7204
 Vocational Training Provider	12984
+Vocational Training for Workers	14044
 Vocational and Entrepreneurship Training Authority	13561
 Vocational and Tertiary	958
 Vocational and University Education	13310
 VodaCash. Al Americani	5714
 VodaPay	6563,1474
 Vodacash	11994
-Vodacom	733,224,167,402,722,30,350,3,3,121,61,52,915,79,113,80,95,2,90,200,79,211,40,43,81,94,3,57,2,35,42,80,187,319,29,275,64,19,54,69,6,10,98,29,99,96,30,121,102,82,32,75,4,195,99,79,49,173,22,149,118,5,135,2,1,1,105,309,173,44,85,29,59,167,141,468,6,52,81,3,138,100,2,33,8,59,68,45,29,2,35,23,56,79,152,7,27,51,124,59,99,61,204,39,51,451,157,42,34,676,35,15,46,695
+Vodacom	733,224,167,402,722,30,350,3,3,121,61,52,915,79,113,80,95,2,90,200,79,211,40,43,81,94,3,57,2,35,42,80,187,319,29,275,64,19,54,69,6,10,98,29,99,96,30,121,102,82,32,75,4,195,99,79,49,173,22,149,118,5,135,2,1,1,105,309,173,44,85,29,59,167,141,468,6,52,81,3,138,100,2,33,8,59,68,45,29,2,35,23,56,79,152,7,27,51,124,59,99,61,204,39,51,451,157,42,34,676,35,15,46,695,747,42,141
 Vodacom Airtime and Data Advance	11259
 Vodacom Black November Fibre Broadband Promotion	11259
 Vodacom Bolster DRC Rural Network Coverage	2278
@@ -1110,7 +1125,7 @@ Vodacom Headquarters	5715
 Vodacom Initial Submission	4732
 Vodacom International Holdings Pty Ltd	1135
 Vodacom Kenya-Tanzania Public Public Retail	6938
-Vodacom Lesotho	2547,201,735,1913,1316,941,187,58,136,590,4033,17,20,11,61
+Vodacom Lesotho	2547,201,735,1913,1316,941,187,58,136,590,4033,17,20,11,61,1542
 Vodacom Lesotho CEO Mohale Ralebitso	8034,590
 Vodacom Lesotho Chief Executive Officer	7898,4868
 Vodacom Lesotho Foundation	12692
@@ -1177,6 +1192,7 @@ Vodacom's International	8033
 Vodacom's M-Pesa	5714
 Vodacom's South	6593
 Vodacom's South Africa	6593
+Vodacom's VodaPay	14385
 Vodacom-Starlink	4442
 Vodacom-aligned	8142
 Vodacom. Finally	7910
@@ -1187,7 +1203,7 @@ Vodacom’s M-PESA	11994
 Vodacom’s M-Pesa	4150,1565
 Vodacom’s Vision	4442
 Vodafamily Ethiopia Holding	733
-Vodafone	236,275,60,11,151,224,167,519,605,157,272,71,7,462,333,223,348,16,13,2,98,271,155,298,278,366,613,514,106,41,411,539,183,12,145,401,245,895,692,173,209,513,332
+Vodafone	236,275,60,11,151,224,167,519,605,157,272,71,7,462,333,223,348,16,13,2,98,271,155,298,278,366,613,514,106,41,411,539,183,12,145,401,245,895,692,173,209,513,332,2339
 Vodafone Business	2755
 Vodafone Business and Maroc Telecom	2755
 Vodafone Cash	8037
@@ -1262,7 +1278,7 @@ Voice of Nigeria Federal Government of Nigeria United	11129
 Voice of South Summit	11579
 Voice-Data-Image	10948
 Voice-enabled AI	4625
-Voice-first	6498,653
+Voice-first	6498,653,6930
 Voice-over-LTE	2543
 VoiceOver	11952
 VoiceOver. Once	11975
@@ -1344,7 +1360,7 @@ Voltage Required AC	34
 Voltar Canais de Atendimento Fale	1192
 Volts	12256
 Volts No Limit	12256
-Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277
+Volume	579,157,1,52,220,275,1,1,393,25,67,57,35,125,724,64,347,1,1003,147,110,1,74,69,69,375,152,45,604,617,189,349,20,600,183,79,212,163,98,93,60,170,2106,2,66,199,106,55,170,221,26,39,311,9,39,1,47,172,71,6,45,28,70,117,35,160,89,182,66,9,94,160,17,1,6,16,2,18,47,28,19,37,34,277,166,15
 Volume CXVII	1844
 Volume Down Global	4972
 Volume Financeiro	11434
@@ -1400,7 +1416,7 @@ Voluntary Local Review Webinars	12962
 Voluntary National Review WHDP Water Harvesting	12962
 Voluntary Partnership Agreement	789
 Voluntary Registration	13249
-Volunteer	11907
+Volunteer	11907,2099
 Volunteer Corps	12972
 Volunteerism	12214
 Volunteerism Programmes	13060
@@ -1445,7 +1461,7 @@ Vote of Thanks	13022
 Vote-39-Home-Affairs.pdf	4495
 Vote. This Ministry	12984
 Voted	12389,1031
-Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665,98,1052,249,88,87,62,28,37,590,243,170
+Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665,98,1052,249,88,87,62,28,37,590,243,170,709
 Voter Card Information	11864
 Voter Card The Reciprocity Schedule	11864
 Voter Education	7266,4935
@@ -1479,7 +1495,7 @@ Voters Periods	13418
 Voters and Members	1630
 Voters' Registration Kit	12350
 Votes	585,7884,397,3335,1219
-Voting	585,2745,384,3484,1668,73,1079,696,116,1079,292,13,317,130,650,107
+Voting	585,2745,384,3484,1668,73,1079,696,116,1079,292,13,317,130,650,107,709
 Voting Card Mozambique Myanmar Civil Registry	10714
 Voting Elections	11909
 Voting Rights	13185
@@ -1529,6 +1545,7 @@ VÉRIFIEZ EN DEMANDANT DE VOIR	13300
 WEST AFRICA Volume and Value of Venture Deals	4972
 WIRELESS VOICE OVER INTERNET PROTOCOL	3862
 WPP2017 Volume-II-Demographic-Profiles.pdf	12138
+Way Forward Voices	14023
 Wayan Vota	7707
 Web Voir	13464,166,67
 Weiterentwicklung von Vorhaben	9062

@@ -62,7 +62,7 @@ Fuel Fiscal Device. PART VI Offences	13606
 Independent Corrupt Practices and Other Related Offences	10054,2082
 Initial Coin Offering	10738
 Initial Coin Offerings	12339
-Initial Public Offering	3391,3743,5242
+Initial Public Offering	3391,3743,5242,1634
 Interpretation. PART II COMPUTER OFFENCES	12928
 J. Offence	7845
 Kwadwo Offei-Dzan	8247
@@ -133,6 +133,8 @@ Offering P2P	12882
 Offering VAT	12208
 Offerings	10841
 Offeror	7108
+Offerors	14131
+Offerors Annex II	14131
 Offers	961,2753,416,212,2856,3936,872,391,278,362
 Offers Client Data for Sale	3364
 Offerwall	13461,1
@@ -150,6 +152,7 @@ PUBLIC OFFERING OF SECURITIES Application	3714
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
 Prior Public Offerings	7198
+Private Cloud Services Offering	14327
 Program Offer	6832
 Program Offering	12407
 Programmes and Services Offered	12405
@@ -158,7 +161,8 @@ Promotions and Special Offers	6671
 Public Offer for Sale	8056
 Reference Access Offer SCAC State Corporations	6946
 Reference Infrastructure Sharing Offer	6100
-Reference Interconnection Offer	6100
+Reference Interconnection Offer	6100,7910
+Reference Wholesale Offer	14010
 Registrar of Companies Offence	9842
 Registrar of Sex Offenders	12977
 Related Offences Commission	1014
