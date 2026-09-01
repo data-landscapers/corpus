@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: TZA
-ledger_rows: 53
+ledger_rows: 62
 not_held: 13
-record: 0e1788cda95e
+record: e7e5d9f8bfac
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -44,6 +44,11 @@ The data protection commission and the open university [opened a certification p
 A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
 
 The regulator set a date for the enforcement it announced in April. On-site inspections [begin on 31 August, after preliminary assessment found limited understanding of legal obligations, inaccurate registration information, difficulty implementing data-subject rights and personal data leaving the country outside the statutory procedure](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710).
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+Tanzania was the one being studied this month. A Somali government delegation [examined the labour and employment digital systems in Dodoma on 28 August](https://www.kazi.go.tz/news/somalia-yakoshwa-na-mifumo-ya-kidijitali-sekta-ya-kazi-na-ajira), and Somalia is [seeking to learn from the wider public-service digitalisation experience](https://dailynews.co.tz/somalia-eyes-tanzanias-e-governance-model/). Both accounts are the host's. Nothing in the record held sets out what is to be transferred, on what terms, or whether either side has committed anything beyond a visit.
 <!-- /narrative -->
 ### Standards
 
@@ -211,4 +216,9 @@ Access moved for a group the digital estate rarely reaches. The central bank [la
 
 <!-- narrative: data--data-open -->
 An external assessment found the country [not meeting the minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania) over a review period running to the end of 2025, the same finding as the previous review. It is the only recurring transparency measure the base holds here, and it is a foreign government's criteria rather than a domestic one.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+A research capability ended rather than started. The three-year Precision Livestock Farming project, run by a national institution with a foreign university and foundation funding, [closed on 27 August and presented its results](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-turns-to-smart-technology-to-boost-livestock-productivity-5574406). Nothing in the record held says the work continues under national funding, which is the question a closing donor project always raises.
 <!-- /narrative -->
