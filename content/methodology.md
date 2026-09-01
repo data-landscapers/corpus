@@ -40,6 +40,7 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 	- A fixed list of [academic journals](lookups/#academic-journals)
 	- A fixed list of [NGOs and think tanks](lookups/#ngos-and-think-tanks)
 - **Day 2**
+  Non-state finance
 	- API extraction of newly published IATI activities
 	- Searches for digital transformation items published since the last time this day was run for a fixed list of financiers
 - **Day 3**
@@ -80,13 +81,12 @@ The non-state finance dataset aims at a claim nobody else supports well: an inte
 - **The five-fact test.** No item becomes a finance record unless the source itself states all five: a named financier; an identified recipient country or region; an amount that can be treated as a commitment (or an actual disbursement — never an "up to", a target or a valuation); the date of the commitment itself; and a stated purpose specific enough to classify. An item failing any fact is kept as context but excluded from every total.
 - **Double counting is prevented structurally.** Records are keyed and deduplicated across sources, re-announcements are merged into the original commitment, and amendments update a record rather than creating a second one.
 - **Blanks are honest.** Where a value cannot be derived safely from the source it is left blank with the reason — never estimated, never defaulted to zero.
-- **National budget data is staged.** A budget figure is recorded at its epistemic stage — proposed, appropriated, released, executed or audited — and stages are never conflated, so a tabled estimate cannot masquerade as spend.
+- **National budget data is still under development** Budget data, where available is recorded at five stages: proposed, appropriated, released, executed or audited.
 
 ## Coverage, corrections and versions
 
 - **Coverage is deliberately uneven.** Corpus goes deep where there is active work and stays thin elsewhere; a thin country page reflects collection priorities, not necessarily a quiet country. Collection intensity should never be read as a measure of a country's actual activity.
 - **A published file is never silently revised.** Reports and datasets are issued as dated editions. A correction is a new edition with its own date stating what changed and why; the record it corrects remains on the record.
 - **Capture is not endorsement.** Holding a document, or profiling an organisation, implies no view of either.
-- **Errors can be reported** via the [contact page](https://data-landscapers.io/contact/) and are corrected in the next edition of the affected report.
 
 
