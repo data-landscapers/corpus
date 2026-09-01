@@ -3,9 +3,9 @@ title: Zambia — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: ZMB
-ledger_rows: 32
-not_held: 44
-record: b8261209f622
+ledger_rows: 34
+not_held: 46
+record: 449b4851feb0
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -33,6 +33,11 @@ The national artificial-intelligence strategy has reached the end of the period 
 The data-protection regulator exists and travels; nothing in the base shows it acting. It joined a multi-sectoral delegation to the continental identity conference, and on 31 July [nine civil society organisations asked it to examine the source of the contact list behind SMS messages sent to social cash transfer beneficiaries](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/) before the 13 August election. No response from the Office is on the record. No registration count, enforcement decision, fine, breach notification, guidance note or annual report is held for it at any date. The Data Protection Act 2021 remains in force and was [named by the information ministry on 18 July as one of three instruments regulating online communications, cybersecurity and personal data](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/); the reported Cabinet intention to repeal it has produced nothing on the record in sixteen months.
 
 What is being built for it is a system rather than a case. The World Bank-financed acceleration project [opened tender on 10 August, closing 21 August, for a digital data-protection compliance management system to serve the Commission](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498), to integrate with the government service bus and payment gateway and to meet ISO/IEC 27001, ISO/IEC 27701 and WCAG 2.1 AA, alongside a [parallel tender to review the national data-protection guidelines and compliance frameworks](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500). Tenders rather than awards, and neither states a value, a delivery date, or the caseload the system would manage.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -85,6 +90,11 @@ The regulator reported on 4 August that it had deactivated 43,500 SIM cards link
 The government service bus, the central integration layer, onboarded eight of 116 local authorities from June 2026 and now carries more than 400 government services with over K8.8 billion collected cumulatively across the service bus, payment gateway, national portal and payment platform ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/); [Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
 
 A register of a different kind opened alongside it. Zambia [launched a fully digital National Carbon Registry on 7 August](https://unepccc.org/zambia-launches-national-carbon-registry/), embedded in the national measurement, reporting and verification system and interoperable with Article 6 of the Paris Agreement, developed under a donor programme with a UN climate centre, a consulting group and a green growth institute. No public access, transaction count, custodian ministry or disclosure rule for its holdings is stated — which for a registry whose purpose is to make carbon claims checkable is the question it exists to answer.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The national authentication service is described by the body that runs it. The state technology institute [publishes it as an operational national authentication and access-control service, with single sign-on, OpenID Connect, multi-factor authentication and passwordless credentials for electronic government services](https://pass.gsb.gov.zm/about). Named protocols and a running service are a stronger artefact than most identity positions on this ledger; the page carries no date, so the position is dated to retrieval, and no user count, uptime figure or list of relying services is published.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
