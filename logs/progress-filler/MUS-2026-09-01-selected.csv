@@ -1,0 +1,193 @@
+indicator_id,file,brief,rank,why
+gov.policy--ict-strategy,baseline/2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029.md,1,1,current national ICT/digital strategy 2025-2029
+gov.policy--ict-strategy,baseline/2026-01-28-mauritius-national-data-strategy.md,2,1,National Data Strategy launch is the widest in-window governance move
+gov.policy--ict-strategy,progress/2026-04-10-national-ai-strategy-fair-guidelines-unveiled.md,2,2,national AI strategy/FAIR guidelines launch
+gov.policy--broadband-strategy,baseline/2012-01-20-national-broadband-policy-2012-2020.md,1,1,the operative NBP2012 instrument itself
+gov.policy--broadband-strategy,progress/2026-07-16-mauritius-america-india-connect-subsea-cable-fibre.md,2,1,major connectivity/subsea-cable commitment
+gov.policy--broadband-strategy,progress/2026-06-04-icta-2300-2400mhz-imt-5g-decision.md,2,2,ICTA spectrum decision for 5G/5G-Advanced
+gov.policy--data-storage-cloud-strategy,baseline/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,1,1,fullest official sovereign-cloud requirements statement
+gov.policy--data-storage-cloud-strategy,progress/2025-10-06-scale-out-storage-solution-goc-tender.md,2,1,concrete GOC storage-capacity procurement
+gov.policy--data-interoperability-framework-roadmap,baseline/2016-08-01-infohighway-data-sharing-platform.md,1,1,operational data-sharing system itself (e-GIF already in mirror)
+gov.policy--data-interoperability-framework-roadmap,baseline/2026-01-28-mauritius-national-data-strategy.md,2,1,NDS governance architecture for interoperability
+gov.policy--data-interoperability-framework-roadmap,progress/2026-06-19-budget-speech-2026-2027-startup-revolution.md,2,2,Open Banking Framework announcement
+gov.policy--data-localisation-policies,baseline/2017-12-22-data-protection-act-2017.md,1,1,operative cross-border transfer regime; localisation itself still proposed
+gov.policy--data-localisation-policies,baseline/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,2,1,concrete government-data-residency requirements (RFI)
+gov.policy--data-localisation-policies,progress/2026-05-22-mauritius-national-fintech-strategy-2026-2030.md,2,2,extends localisation agenda to financial services
+gov.policy--open-data-policy,baseline/2017-05-01-national-open-data-policy.md,1,1,the operative open-data policy instrument itself
+gov.policy--open-data-policy,baseline/2026-01-28-mauritius-national-data-strategy.md,2,1,"commits to reviewing 2017 policy, open-data pillar"
+gov.policy--open-data-policy,progress/2025-10-22-undp-statistics-mauritius-maustats-platform-launch.md,2,2,concrete open-data/statistics access platform launch
+gov.legislate--legislation-covering-digital-id,baseline/2024-02-19-mauritius-national-identity-card-unit.md,1,1,current MNIC 3.0 system institutional page (Regs/Act text undeliverable)
+gov.legislate--legislation-covering-digital-id,progress/2026-08-12-finance-act-2026.md,2,1,s.123J grants MRA access to identity databases
+gov.legislate--legislation-covering-digital-id,progress/2026-05-25-electronic-transactions-amendment-act-2026.md,2,2,modernises e-signature rules underpinning Mobile ID
+gov.legislate--digital-payments-legislation,baseline/2018-11-29-national-payment-systems-act-2018.md,1,1,the operative primary payments legislation
+gov.legislate--digital-payments-legislation,progress/2026-07-01-guideline-for-payment-aggregators.md,2,1,brings payment aggregators into licensing regime
+gov.legislate--digital-payments-legislation,progress/2026-04-17-aml-cft-cpf-miscellaneous-provisions-act-2026.md,2,2,directly amends the National Payment Systems Act
+gov.legislate--ai-legislation-regulations,baseline/2026-04-03-higher-education-use-of-ai-regulations-2026.md,1,1,clearest binding sector-specific AI regulation in force
+gov.legislate--ai-legislation-regulations,progress/2026-04-10-national-ai-strategy-fair-guidelines-unveiled.md,2,1,national AI governance framework launch
+gov.legislate--statistics-legislation,baseline/2000-01-01-statistics-act-2000-consolidated.md,1,1,founding statistics statute
+gov.legislate--statistics-legislation,progress/2026-08-12-finance-act-2026.md,2,1,s.21 amends the Statistics Act
+gov.legislate--statistics-legislation,progress/2025-12-10-imf-mauritius-rosc-data-module.md,2,2,evidence base for the 2026 Statistics Act amendment
+gov.regional--regional-policy-collaboration,baseline/2025-01-24-government-programme-2025-2029.md,1,1,authoritative statement of regional-cooperation commitments
+gov.regional--regional-policy-collaboration,progress/2026-08-14-cabinet-highlights-sadc-46th-summit.md,2,1,PM's attendance at 46th SADC Summit
+gov.regional--regional-policy-collaboration,progress/2026-04-11-ioc-2026-collective-stewardship-indian-ocean-governance.md,2,2,Mauritius hosted the 9th Indian Ocean Conference
+gov.regional--regional-legal-harmonisation,progress/2025-08-27-eemo-communique-meps-regulations-2025.md,2,1,SADC-harmonised standard enforced into domestic law
+gov.regional--regional-legal-harmonisation,progress/2026-06-05-sadc-justice-ministers-legal-instruments.md,2,2,Mauritius at SADC legal-instrument harmonisation meeting
+gov.regional--cross-border-data-transfers,baseline/2020-09-04-mauritius-ratification-convention-108-plus.md,1,1,first African ratifier of Convention 108+
+gov.regional--cross-border-data-transfers,progress/2026-02-06-cabinet-highlights-internet-gratis-srm.md,2,1,AfCFTA Digital Trade Protocol validation workshop
+gov.regional--cross-border-data-transfers,baseline/2026-01-28-mauritius-national-data-strategy.md,2,2,NDS sets cross-border data-flow ambitions
+gov.standards--national-quality-standards,baseline/2022-06-30-msb-annual-report-2021-2022.md,1,1,fullest description of the Mauritian Quality Infrastructure
+gov.standards--national-quality-standards,progress/2026-04-09-msb-certification-mark-regulations-2026.md,2,1,replaces 1996 certification-mark regime
+gov.standards--national-quality-standards,progress/2026-05-16-energy-efficiency-refrigerating-appliances-regulations-2026.md,2,2,new binding product-standards regime
+finance.mou--strategic-relationships,baseline/2026-03-20-bom-amended-memorandum-of-cooperation-icc.md,1,1,standing AML/CFT interagency Amended MoC is the current operative instrument
+finance.mou--strategic-relationships,progress/2026-04-09-mauritius-india-deepen-strategic-partnership.md,2,1,India Special Economic Package MoU is the most significant in-window agreement
+finance.mou--strategic-relationships,progress/2026-07-17-cabinet-highlights-dtaa-india-ratification.md,2,2,Cabinet ratification of India DTAA protocol is a distinct treaty-ratification event
+infra.connect--mobile-penetration,baseline/2026-07-10-ict-statistics-2025-internet-usage.md,1,1,"latest official mobidensity figure (173.6/100 inhabitants, 2025)"
+infra.connect--mobile-penetration,progress/2026-05-28-icta-phasing-out-3g-mobile-services.md,2,1,3G sunset is a distinct network-technology-transition event
+infra.connect--mobile-penetration,progress/2025-12-22-icta-700mhz-imt-5g-decision.md,2,2,700MHz spectrum opened for IMT/5G testing and operation
+infra.connect--internet-usage,baseline/2026-07-10-ict-statistics-2025-internet-usage.md,1,1,latest official internet subscription/bandwidth usage figures
+infra.connect--internet-usage,progress/2026-07-16-mauritius-america-india-connect-subsea-cable-fibre.md,2,1,new international subsea cable participation announced
+infra.connect--internet-usage,progress/2026-06-04-icta-2300-2400mhz-imt-5g-decision.md,2,2,additional mid-band spectrum opened for capacity/throughput
+infra.connect--mobile-affordability,baseline/2026-07-10-ict-statistics-2025-internet-usage.md,1,1,official mobile basket at 0.6% GNI per capita (2025)
+infra.connect--mobile-affordability,progress/2026-06-01-free-monthly-mobile-data-package-youth.md,2,1,free data package extension for youth 18-25 is a direct affordability measure
+infra.connect--mobile-affordability,progress/2025-08-18-icta-telecommunication-directive-3-of-2025.md,2,2,new promotional-tariff regulatory framework enabling operator price competition
+infra.connect--national-fibre-backbone,baseline/2018-12-17-digital-mauritius-2030-strategic-plan.md,1,1,names the existing island-wide/Government Fibre Network; chosen over Blueprint (rank1) which is FLAG-SLUG-flagged as likely already in the OSINT mirror
+infra.connect--national-fibre-backbone,progress/2026-07-16-mauritius-america-india-connect-subsea-cable-fibre.md,2,1,new subsea cable route adds international backbone resilience
+infra.connect--national-fibre-backbone,progress/2025-12-05-mt-connect-summit-agenda.md,2,2,Mauritius Telecom's connectivity investment summit is a distinct corporate-strategy event
+infra.connect--internet-exchange-points,baseline/2015-08-26-au-launches-internet-exchange-point-mauritius.md,1,1,MIXP founding/operationalisation statement; no separate enacting law found
+infra.connect--internet-exchange-points,progress/2026-06-15-mixp-route-server-looking-glass.md,2,1,"current operator route-server status/uptime, most concrete dated operator-side data"
+infra.connect--internet-exchange-points,progress/2026-05-01-ixp-tracker-mixp-snapshot.md,2,2,"current membership/capacity snapshot (95 Gbps, 19 members, no net change)"
+infra.store--off-site-backup-capacity,baseline/2026-09-01-cisd-computer-support-central-backup-service.md,1,1,primary description of the standing Central Backup Service itself
+infra.store--off-site-backup-capacity,progress/2026-01-01-goc-san-executive-summary-bid-evaluation.md,2,1,active-active SAN/backup award between GOC main site and DR site
+infra.store--off-site-backup-capacity,progress/2026-03-27-goc-scale-out-storage-solution-award.md,2,2,scale-out storage award expands GOC storage pool
+infra.energy--grid-reliability,baseline/2024-11-05-mepu-annual-report-2023-2024.md,1,1,"official statement of ""no general breakdowns or major instabilities"" FY2023/24"
+infra.energy--grid-reliability,progress/2025-10-15-business-mauritius-ceb-red-alert.md,2,1,Oct 2025 CEB red-alert reserve-margin stress event
+infra.energy--grid-reliability,progress/2026-03-26-newsmoris-ceb-severe-yellow-alert.md,2,2,"Mar 2026 record 540MW demand severe yellow alert, a distinct later event"
+infra.energy--rural-electrification,baseline/2024-11-05-mepu-annual-report-2023-2024.md,1,1,"99.7% electricity access figure from 2022 Census, latest official figure"
+infra.energy--rural-electrification,progress/2026-02-06-rra-executive-council-decisions-electricity-extension.md,2,1,Rodrigues grid extension to underserved Montagne Piquant/Pointe Coton sites
+infra.energy--rural-electrification,progress/2026-04-11-ceb-solar-photovoltaic-scheme-households-2026.md,2,2,new household hybrid solar/battery distributed-access scheme
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029.md,1,1,current whole-of-government robustness assessment; FLAG-SLUG kept per dedup procedure
+infra.capacity--robustness-of-government-hardware-and-software,progress/2026-01-01-goc-san-executive-summary-bid-evaluation.md,2,1,active-active SAN/failover is the most direct hardware-resilience upgrade
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,2,2,"sovereign cloud RFI is the resilience/sovereignty roadmap event, chosen over scale-out storage (rank2) for closer topical fit"
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2025-04-25-digital-government-transformation-strategy-progress-update.md,1,1,"dated 33%-of-target institutional-capacity-pillar figure is more specific to ""local capacity"" than the brief's top-ranked Blueprint (used elsewhere)"
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-04-10-national-ai-strategy-fair-guidelines-unveiled.md,2,1,National AI Strategy/AI Unit launch is an institutional-capacity-building event
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-03-10-isms-half-day-workshop-public-service.md,2,2,ISMS workshop is a distinct skills-training event for government officials
+dpi.exchange--use-of-digital-id-in-other-systems,progress/2025-09-11-superapp-verifiable-credentials-rfi.md,2,1,earliest in-window RFI toward interoperable digital-ID wallet
+dpi.exchange--use-of-digital-id-in-other-systems,progress/2026-01-30-korek-super-app-soft-launch.md,2,2,first live cross-system use of ID gateway (transport records)
+dpi.exchange--interoperability-of-health-systems,baseline/2025-10-30-mohw-annual-report-performance-fy2024-2025.md,1,1,Ministry's own dated status of e-Health interoperability rollout
+dpi.exchange--interoperability-of-health-systems,progress/2026-05-22-public-health-bill-2026-workshop.md,2,1,ministerial statement linking e-Health to cross-hospital record access
+dpi.exchange--interoperability-of-health-systems,progress/2026-04-23-digital-health-co-ltd-recruitment.md,2,2,institutionalisation of e-Health delivery capacity
+dpi.exchange--interoperability-of-education-systems,baseline/2025-01-01-national-strategy-higher-education-science-research-2025-2035.md,1,1,authoritative 0% baseline KPI for LMS/SIS integration
+dpi.exchange--interoperability-of-education-systems,progress/2026-02-26-hec-data-lake-consultancy-notice.md,2,1,procurement of central higher-education data infrastructure
+dpi.exchange--interoperability-of-education-systems,progress/2025-10-28-mytgpt-educational-platform-pilot-mou.md,2,2,distinct national AI-education pilot MoU
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2009-03-26-cabinet-decisions-social-register-mauritius.md,1,1,founding Cabinet record establishing the Social Register
+dpi.exchange--interoperability-of-social-protection-systems,progress/2025-10-22-e-social-security-system-tender.md,2,1,procurement of integrated pension/benefits platform
+dpi.exchange--interoperability-of-social-protection-systems,progress/2026-02-06-cabinet-highlights-internet-gratis-srm.md,2,2,live use of registry for subsidy eligibility verification
+dpi.id--robustness-of-system,baseline/2024-02-16-national-identity-card-regulations-2024.md,1,1,operative MNIC 3.0 security/audit instrument
+dpi.id--robustness-of-system,progress/2025-10-13-maupass-independent-it-security-audit-notice.md,2,1,commissioning of independent MauPass security audit
+dpi.id--robustness-of-system,baseline/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,2,2,sovereign-cloud residency/resilience requirements for identity infra
+dpi.id--registration-of-entire-population,baseline/1982-01-01-civil-status-act-version-7-cpd-csd.md,1,1,founding instrument for CSD/CPD population registers
+dpi.id--registration-of-entire-population,progress/2026-08-12-finance-act-2026.md,2,1,enacted MRA real-time access to population database
+dpi.id--registration-of-entire-population,progress/2025-12-15-curepipe-registration-issuance-centre-tender.md,2,2,added physical enrolment capacity
+dpi.id--digital-id-from-birth,baseline/1986-04-11-national-identity-card-act-version-3.md,1,1,"authoritative basis that ID/Mobile ID begin at 18, not birth"
+dpi.id--digital-id-from-birth,progress/2026-06-19-budget-annex-2026-27-statistics-act-independence.md,2,1,budget-stage MRA access proposal touching birth/population data
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/1982-01-01-civil-status-act-2023-revision-birth-registration.md,1,1,parents' NIC numbers recorded in birth entries
+dpi.id--interoperability-of-birth-registration-and-digital-id,progress/2025-10-02-superapp-digital-wallet-clarification-no-1.md,2,1,wallet design explicitly includes Birth Certificate credential
+dpi.id--interoperability-of-birth-registration-and-digital-id,progress/2026-06-19-psip-2026-2027-to-2030-2031.md,2,2,funded Identity Management System investment line
+dpi.pay--g2p-functionality,progress/2026-01-01-csg-income-allowance-faq.md,2,1,live recurring direct-to-bank G2P disbursement
+dpi.pay--g2p-functionality,progress/2026-05-22-mauritius-national-fintech-strategy-2026-2030.md,2,2,national roadmap enabling future G2P on MauCAS/IPS
+dpi.pay--revenue-collection,baseline/2024-10-30-bank-of-mauritius-annual-report-2023-24.md,1,1,dated record of live Government Payment Portal/MauCAS
+dpi.pay--revenue-collection,progress/2026-01-01-mra-guide-foreign-suppliers-digital-services.md,2,1,VAT collection extended to foreign digital suppliers
+dpi.pay--b2b-and-b2g-functionality,baseline/2019-08-14-maucas-bank-of-mauritius-page.md,1,1,operative instrument for interoperable payment switch
+dpi.pay--b2b-and-b2g-functionality,progress/2026-07-01-guideline-for-payment-aggregators.md,2,1,new licensing/governance regime for payment aggregators
+dpi.pay--b2b-and-b2g-functionality,progress/2026-06-19-budget-speech-2026-2027-startup-revolution.md,2,2,Open Banking Framework announcement
+dpi.pay--consumer-protection,baseline/2019-01-31-national-payment-systems-act-2018.md,1,1,Part IV statutory consumer-protection regime
+dpi.pay--consumer-protection,progress/2026-08-13-fsc-guidance-notes-stablecoins.md,2,1,concrete stablecoin consumer-protection safeguards
+dpi.registry--population-register,baseline/1982-01-01-civil-status-act-version-7-cpd-csd.md,1,1,founding statute; ss.8A-8C establish and govern the Central Population Database
+dpi.registry--population-register,progress/2026-08-12-finance-act-2026.md,2,1,s.123J grants MRA real-time electronic access to the CPD -- most structural in-window change
+dpi.registry--population-register,progress/2025-09-02-csd-system-revamping-communique-registry.md,2,2,operational modernisation of the civil-status system feeding the CPD
+dpi.registry--address-register,baseline/2026-01-28-mauritius-national-data-strategy.md,1,1,"authoritative statement that an Address Data System is mandated but ""has to be created"" -- genuinely not-yet-operational"
+dpi.registry--address-register,progress/2025-09-11-superapp-verifiable-credentials-rfi.md,2,1,concrete procurement step toward a proof-of-address digital credential consuming future ADS data
+dpi.registry--business-register,baseline/2006-10-01-business-registration-act.md,1,1,founding statute establishing the CBRD and CBRIS
+dpi.registry--business-register,progress/2026-07-31-parliamentary-debate-economic-financial-measures-bill.md,2,1,Hansard record of the Bill broadening business-registration rules
+dpi.registry--business-register,progress/2026-07-29-business-statistics-q2-2026.md,2,2,measured quarterly registration-activity movement from the Statistical Business Register
+dpi.registry--social-protection-register,baseline/2026-07-01-social-integration-division-annual-report.md,1,1,"fullest dated official statement of the SRM, its governing Act, and beneficiary counts"
+dpi.registry--social-protection-register,progress/2026-06-19-budget-speech-2026-2027-startup-revolution.md,2,1,"SRM eligibility threshold raised, materially expanding coverage"
+dpi.registry--social-protection-register,progress/2026-02-06-cabinet-highlights-internet-gratis-srm.md,2,2,free-internet benefit for SRM households moved into operational delivery
+dpi.registry--electoral-register,baseline/2026-01-14-house-to-house-inquiry-2026.md,1,1,OEC's own dated notice of the annual register-compilation exercise and its legal basis
+dpi.registry--electoral-register,progress/2026-05-14-communique-enregistrement-electeurs-2026.md,2,1,formal registration/verification window ahead of the register coming into force
+dpi.registry--tax-register,baseline/1996-07-01-income-tax-act.md,1,1,statute establishing the Tax Account Number and taxpayer-registration basis
+dpi.registry--tax-register,progress/2025-09-12-mra-compulsory-vat-registration-communique.md,2,1,"VAT-registration threshold cut, enlarging registered taxpayer population"
+dpi.registry--tax-register,progress/2026-06-30-mra-registration-of-tax-agents-guide.md,2,2,new mandatory tax-agent/nominee registration category (TARN)
+dpi.registry--land-register,baseline/1864-06-01-transcription-and-mortgage-act.md,1,1,primary legal basis for transcription of deeds and the land register
+dpi.registry--land-register,progress/2026-03-20-rgd-disaster-recovery-mers-communique.md,2,1,disaster-recovery upgrade to the Mauritius e-Registry System
+dpi.registry--land-register,progress/2026-06-25-annex-budget-speech-2026-2027-land-deeds-e-submission.md,2,2,new requirement for electronic submission of deeds
+dpi.mis--justice,baseline/2026-09-01-govmu-justice-info-page.md,1,1,government's own description of the e-case-management system operating since 2010
+dpi.mis--justice,progress/2026-06-19-psip-2026-2027-to-2030-2031.md,2,1,e-Judiciary platform moved into a funded multi-year investment line
+dpi.mis--justice,progress/2025-12-15-real-time-transcription-system-notice.md,2,2,court-transcription system moved from strategy to procurement
+dpi.mis--tax,baseline/2023-06-26-mra-e-invoicing-system.md,1,1,MRA's live status page for the national e-Invoicing/Invoice Fiscalisation system
+dpi.mis--tax,progress/2026-01-01-mra-vat-digital-services-foreign-suppliers.md,2,1,tax MIS extended to a new cross-border digital-services taxpayer class
+dpi.mis--customs,baseline/1997-04-19-customs-use-of-computer-regulations.md,1,1,founding instrument defining the Customs Management System and TradeNet
+dpi.mis--customs,progress/2026-01-20-wco-study-mission-cloud-computing-mauritius-customs.md,2,1,WCO mission on cloud modernisation of the CMS
+dpi.mis--customs,progress/2026-05-19-mra-notice-export-china-zero-tariff-tradenet.md,2,2,TradeNet extended for a new bilateral trade arrangement
+dpi.mis--land,baseline/2011-07-15-cadastral-survey-act-2011.md,1,1,statutory basis for the DCDB and LAVIMS
+dpi.mis--land,progress/2026-03-27-lavims-2-0-consultant-selection-notice.md,2,1,procurement launched for the next-generation LAVIMS 2.0 system
+digital.localgov--ict-infrastructure-for-local-government,baseline/2024-01-01-annual-report-local-government-2023-2024-records.md,1,1,most authoritative dated statutory statement of I-Council/CPM ICT infrastructure across all 12 local authorities
+digital.localgov--ict-infrastructure-for-local-government,progress/2026-01-01-goc-san-executive-summary-bid-evaluation.md,2,1,concrete contract award for shared hosting infrastructure underpinning local-authority digital services
+digital.localgov--ict-infrastructure-for-local-government,baseline/2025-09-19-sovereign-cloud-rfi-clarification-no-2.md,2,2,distinct earlier RFI event naming the Local Authorities Portal as a beneficiary
+digital.localgov--digitalisation-of-local-government-records,baseline/2024-01-01-annual-report-local-government-2023-2024-records.md,1,1,"same statutory report, selected separately for its Database Document Management/paperless-office evidence"
+digital.localgov--digitalisation-of-local-government-records,progress/2025-01-01-annual-report-local-government-2024-2025.md,2,1,FY2024-2025 report records concrete expansion of e-permit and e-certificate processing
+digital.localgov--digitalisation-of-local-government-records,progress/2026-02-20-vers-une-gestion-autonome-digitale-collectivites-locales.md,2,2,distinct event: ministerial consultation to embed Smart Government digitalisation pillar in Local Government Act reform
+digital.rural--digitalisation-of-rural-health-clinics,baseline/2026-05-21-award-electrical-works-ehealth-region2-ahc-chc.md,1,1,most specific dated primary evidence of digitalisation reaching Area/Community Health Centres (closest MUS equivalent to rural clinics)
+digital.rural--digitalisation-of-rural-health-clinics,progress/2026-07-12-secteur-public-e-health-couverture-complete-2027.md,2,1,distinct event: minister reports pilot already live with patient/consultation counts and expansion timeline
+digital.rural--digitalisation-of-rural-primary-schools,baseline/2026-07-10-ict-statistics-2025-internet-usage.md,1,1,"only published national figure on primary-school digital access, honestly noted as lacking rural/urban breakdown"
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-09-01-virtual-reality-primary-schools-vrps.md,2,1,Phase 1 VR rollout across all 4 education zones including regional schools
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-01-31-lancement-transformation-numerique-mytgpt-education.md,2,2,distinct AI-tutor pilot reaching named regional primary schools
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2025-10-01-rgd-annual-report-2024-2025.md,1,1,most authoritative statement of the single national e-Registry system (MeRS); no separate rural-registry programme found
+digital.rural--digitalisation-of-rural-registry-offices,progress/2025-09-02-csd-system-revamping-communique-registry.md,2,1,live system migration explicitly covering all Civil Status Offices outside Port Louis plus Rodrigues
+digital.rural--digitalisation-of-rural-police-stations,baseline/2025-10-01-mpf-annual-report-2024-2025.md,1,1,"most authoritative statement; honestly records digital capability as one national network, no separate rural scheme"
+digital.rural--digitalisation-of-rural-police-stations,progress/2025-12-31-mpf-strategic-plan-2026-2028.md,2,1,new strategic plan commits to technology and crime-map updates across all station areas nationwide
+tech.ai--use-of-ai-in-government-administration,baseline/2026-04-15-fair-guidelines-ai-government.md,1,1,standing non-binding national AI governance instrument for public institutions; substituted after Cabinet Highlights PDF repeatedly failed to fetch
+tech.ai--use-of-ai-in-government-administration,progress/2026-04-10-national-ai-strategy-fair-guidelines-unveiled.md,2,1,official launch of AI Strategy/FAIR Guidelines/AI Unit and DIVA platform
+tech.ai--use-of-ai-in-government-administration,progress/2026-07-14-ai-enabled-water-leakage-reporting-korek.md,2,2,"first concrete AI-enabled citizen-facing government service, distinct from the April launch"
+tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2026-01-01-prb-report-2026-digitalisation-ai-readiness.md,1,1,independent official assessment stating sectoral AI/DIVA adoption is still early-phase
+tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2026-01-28-mauritius-national-data-strategy.md,2,1,data-governance backbone enabling AI across sectoral MIS
+tech.innovate--tech-startup-ecosystem,baseline/2025-02-18-mauritius-where-innovation-meets-opportunities.md,1,1,clearest official published figure/ranking establishing current ecosystem state
+tech.innovate--tech-startup-ecosystem,progress/2026-06-19-budget-speech-2026-2027-startup-revolution.md,2,1,"proposed Start-Up Act, Cote d'Or hub, tax holiday and accelerator scheme"
+tech.innovate--tech-startup-ecosystem,progress/2026-05-12-ai-startups-initiative-showcase.md,2,2,"distinct concrete pipeline output: 157 registrations, 19 ventures, 5 funded winners"
+capacity.literacy--digital-literacy-civil-service,baseline/2025-05-27-blueprint-for-mauritius-digital-transformation-2025-2029.md,1,1,operative roadmap mandating civil-service Digital Leadership training and learning platform
+capacity.literacy--digital-literacy-civil-service,progress/2025-10-23-aipsi-act-2025.md,2,1,new apex degree-awarding public-service training institute in force
+capacity.literacy--digital-literacy-civil-service,progress/2025-10-27-seminar-artificial-intelligence-civil-servants-participants.md,2,2,"delivered training event, official 101-participant roster"
+capacity.literacy--digital-literacy-general-population,baseline/2024-01-01-ict-households-digital-literacy-rate.md,1,1,"official published figure: 62.2% digital literacy rate, general population"
+capacity.literacy--digital-literacy-general-population,progress/2025-10-29-launch-ai-for-all-booklet-speech.md,2,1,distinct mass-audience general-population AI-literacy resource launch
+capacity.training--dt-related-university-facilities-and-qualifications,baseline/2025-12-01-hec-participation-tertiary-education-2024.md,1,1,latest official statistic on DT-faculty enrolment at University of Mauritius
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-08-10-youth-convention-2026-ai-modules-universities.md,2,1,system-wide commitment to AI modules across all university courses
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-01-01-qaa-rushmore-msc-data-science-ai.md,2,2,new private-institution MSc Data Science and AI qualification confirmed by independent UK regulator
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2021-05-13-mauritius-emerging-technologies-council-bill-2021.md,1,1,"founding instrument of METC, the operative dedicated emerging-tech policy body (still active per 2026 vacancy notice)"
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-06-03-national-research-innovation-institute-act-2026.md,2,1,"major legislative replacement of MRIC with a research-policy institute (enacted, commencement pending)"
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-05-13-hec-ai-guidelines-higher-education-amended.md,2,2,converts academic committee input (incl. public universities) into national AI-in-education governance
+include.access--citizen-feedback-portals,baseline/2025-07-29-debate-31-2025-citizen-support-portal.md,1,1,most authoritative dated confirmation of CSP standing state via parliamentary Q&A
+include.access--citizen-feedback-portals,progress/2026-07-14-ai-enabled-water-leakage-reporting-korek.md,2,1,most concrete in-window citizen-feedback expansion
+include.access--citizen-feedback-portals,progress/2026-01-30-korek-super-app-soft-launch.md,2,2,launch of the citizen super-app platform underlying later feedback services
+include.access--citizen-participation-in-policy,baseline/2024-04-15-mauritius-11th-periodic-report-achpr.md,1,1,official state report describing the CSP as the citizen-participation channel
+include.access--citizen-participation-in-policy,progress/2025-12-18-vision-2050-national-consultations.md,2,1,broadest participatory policy exercise in window
+include.access--citizen-participation-in-policy,progress/2026-03-24-mauritius-2026-27-pre-budget-consultations.md,2,2,concrete annual budget consultation channel
+include.access--gender-equity,baseline/2022-03-01-national-gender-policy-2022-2030.md,1,1,"operative national gender framework, the instrument itself"
+include.access--gender-equity,progress/2026-06-19-budget-annex-2026-27-statistics-act-independence.md,2,1,concrete new workplace gender-equity entitlement enacted via budget
+include.access--gender-equity,progress/2025-09-23-rodrigues-gender-policy-handover.md,2,2,extends gender policy implementation to Rodrigues
+include.access--inclusion-of-persons-with-disabilities,baseline/2024-04-25-disability-rights-act-2024.md,1,1,"central disability-inclusion statute, though not yet in force"
+include.access--inclusion-of-persons-with-disabilities,progress/2025-11-28-cabinet-disability-pension-reform.md,2,1,concrete disability-pension reform decision
+include.access--inclusion-of-persons-with-disabilities,progress/2026-06-19-budget-speech-2026-2027-startup-revolution.md,2,2,funded expansion of special-education access
+include.access--inclusion-of-refugees-and-idps,baseline/2025-05-06-cerd-concluding-observations-mauritius.md,1,1,dated authoritative statement of the genuine absence of a refugee/IDP framework
+data.statistics--national-strategy-for-development-of-statistics,baseline/2021-03-01-strategy-for-official-statistics-2020-2025.md,1,1,operative NSDS-equivalent instrument itself
+data.statistics--national-strategy-for-development-of-statistics,progress/2025-12-10-imf-mauritius-rosc-data-module.md,2,1,most consequential independent review/reform push in window
+data.statistics--censuses-and-surveys,baseline/2026-05-19-labour-force-employment-unemployment-year-2025.md,1,1,most recent authoritative annual survey publication of the series
+data.statistics--censuses-and-surveys,baseline/2026-07-10-ict-statistics-2025-internet-usage.md,2,1,latest annual ICT survey release with methodological upgrade
+data.statistics--censuses-and-surveys,progress/2026-06-30-labour-force-employment-unemployment-q1-2026.md,2,2,latest quarterly survey movement in window
+data.open--use-of-open-data,baseline/2017-05-01-national-open-data-policy.md,1,1,founding open-data instrument itself
+data.open--use-of-open-data,baseline/2026-01-28-mauritius-national-data-strategy.md,2,1,re-anchors open-data pillar and portal institutionally
+data.open--use-of-open-data,progress/2026-06-19-budget-annex-2026-27-statistics-act-independence.md,2,2,removes prior-approval constraint on statistical data dissemination
+data.satellite--agricultural-use-of-satellite-data,baseline/2025-09-18-unctad-cropwatch-training-workshop.md,1,1,standing evidence of Mauritius's satellite crop-monitoring capacity
+data.satellite--agricultural-use-of-satellite-data,progress/2026-05-22-assises-de-lagriculture-2026-satellite-monitoring.md,2,1,elevates satellite monitoring to a national infrastructure recommendation
+data.satellite--agricultural-use-of-satellite-data,progress/2025-10-23-deep-learning-satellite-images-black-river.md,2,2,concrete technical demonstration of satellite-based land/agriculture classification
+data.satellite--meteorological-use-of-satellite-data,baseline/2019-11-18-mauritius-meteorological-services-act-2019.md,1,1,founding/enacting instrument for the institution conducting satellite meteorology
+data.satellite--meteorological-use-of-satellite-data,progress/2025-11-05-mric-imjs-workshop-satellite-innovation.md,2,1,only in-window candidate confirmed as genuinely dated and on-topic
