@@ -1,25 +1,25 @@
 ---
-title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Data Exchange — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: f24be0ed372a
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
+record: 980eaa673197
 ---
 
-# Data Exchange: monthly update, July 2026
+# Data Exchange: monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
 Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
 
+One exchange did begin. The customs single electronic window [entered a phased rollout under a customs circular of 13 August, towards import and export without paper documents](https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%B1%D9%82%D9%8A%D8%A9). The circular's text is not held, and no phase list, participating agencies or completion date is published.
+
 ## Angola
 
-A logistics regulator communiqué of 27 July described a single window absorbing three separate agency platforms, framed explicitly as a formalisation and tax-base instrument.
+The public-administration digital infrastructure contract [entered execution on 31 July](https://lidermagazine.ao/revolucao-digital-em-marcha-ima-inicia-projecto-que-vai-mudar-a-administracao-publica/), the point at which a signed instrument becomes a build. No component list, milestone schedule or completion date accompanies the start.
 
 ## Benin
 
@@ -35,13 +35,13 @@ The minister responsible for decentralisation and local development said on 25 A
 
 ## Chad
 
-The central bank [acceded to the pan-African payment and settlement system, with member-state banks to connect by end-2026](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026). No Chadian bank is named and the target is untested. The 2027 budget orientations separately [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. The budget-framing text is not held, and no cost, phasing or implementing agency is named.
+The 2027 budget orientations [prohibit any ministry putting in place a computer system incompatible with the existing platforms](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), and require tax, customs, treasury, budget, accounting, cadastre, identity, state property and land registry to interconnect on a single identifier. It is the strongest interoperability commitment this ledger carries, and the base holds none of the framing text: no cost, phasing or implementing agency is named.
 
 ## Congo
 
-Regionally, an [interoperable QR-code standard launched at Douala on 29 July](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any application scan any merchant code across the six member states; no country-specific adoption figure is held. The same roadmap names an [inter-administration data exchange platform among three digital public infrastructure foundations](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+One exchange went into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), focal-point training having completed in Brazzaville beforehand. No supplier, custodian or results-publication date is stated, and the platform is not publicly accessible on the record held.
 
-One exchange did go into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), with focal-point training completed in Brazzaville on 15 July with UNDP support. No supplier, custodian or results publication date is stated, and the platform is not publicly accessible on the record held.
+The larger exchange was contracted out. Customs-procedure digitalisation under the continental free-trade agreement [was awarded to a Nigerian firm on a 20-year concession valued at US$3.1bn, signed at Abuja](https://www.adiac-congo.com/content/zlecaf-la-digitalisation-des-procedures-douanieres-confiee-au-nigerian-bergmans-171160). No revenue share, data-ownership term or exit provision is published for a twenty-year hold over the state's customs data.
 
 ## Cote d'Ivoire
 
@@ -49,13 +49,9 @@ The minister told an information-systems seminar on 21 and 22 July that the firs
 
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
 
-## Djibouti
-
-The same [23 July account names an ID Mobile credential, an online services portal and real-time card verification for banks and social-protection bodies as in preparation](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/), with staffing and archive space named as the constraints. No date is given for any of them.
-
 ## DR Congo
 
-On 29 July a [national electronic certification authority was named, not established](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/); [the July order already prices qualified trust services at US$30,000 foreign and US$10,000 local](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/).
+The exchange being built is between revenue agencies rather than between citizens and the state. The finance inspectorate [disseminated a three-year strategic plan to public administrations, with data cross-checking between revenue agencies under systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). No platform, data-sharing instrument or protection arrangement for the cross-checked records is named.
 
 ## Egypt
 
@@ -65,19 +61,11 @@ The 19 July cabinet meeting produced the window's substantive disclosure: 105 go
 
 The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
 
-## Ethiopia
-
-At the 24 July launch of a three-year strategic plan, the same meeting disclosed that a prime-ministerial board has approved a national data exchange platform — the interoperability layer the same meeting identified as missing.
-
 ## Gabon
 
 The regional interoperable QR-code standard was launched at Douala on 29 July 2026 under the monetary union regulation of 8 April 2026, in force across all six member states and settled through the regional switch, with the Gabonese scheme as its pilot ([launch](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/)). The switch's 2025 figures, presented the following day, were 20.3m transactions worth FCFA 863bn across 153 participants ([figures](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025)). On 9 July the central bank acceded to the pan-African payment and settlement system, with member-state banks to be connected by the end of 2026 ([announcement](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026)).
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
-
-## Gambia
-
-Cross-border exchange moved further than domestic exchange did. At Saly on [16-17 July 2026 Gambian and Senegalese customs agreed a three-month roadmap](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict): install GAINDE at three border posts, deploy SIGMAT for real-time transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen platform.
 
 ## Ghana
 
@@ -112,7 +100,7 @@ The special economic zone authority said a [trade information portal could ease 
 
 ## Libya
 
-The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.com/2026/07/libyan-government-issues-decision-on-implementation-of-unified-economic-number-project), authorising the Ministry of Economy and Trade to implement the Unified Economic Number as a single national identifier for every registered economic, commercial and investment entity, to be run by linking databases and exchanging information across ministries, agencies and public institutions, under a National Council chaired by the minister. No timetable, budget, vendor or legal basis for the linkage is stated.
+Customs and the chambers of commerce [discussed strengthening digital cooperation on 20 August](https://libyaherald.com/2026/08/libyan-customs-authority-general-union-of-chambers-of-commerce-discuss-strengthening-digital-cooperation). Discussion is where this row stands: no protocol, data-sharing arrangement, system or date follows from it on the record.
 
 ## Malawi
 
@@ -127,14 +115,6 @@ The national public key infrastructure and electronic signature services were [r
 
 Customs is the one exchange with a build behind it. At a Bamako round table on 7 August convened by the Prime Minister's office and the chamber of commerce with private operators, the customs directorate [presented a project to interconnect customs information systems for goods in transit](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/), aimed at cutting customs, transit and import-export processing times and building on a World Bank technical mission of 31 July. [Mali's implementation of the WTO Trade Facilitation Agreement was put at 83.6%](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) at the same consultation. No counterpart administration, timetable, cost or system name is stated.
 
-## Mauritania
-
-The digital ministry [opened a two-day workshop on 27 July](https://www.ami.mr/archives/265184) on blockchain in public administration, stating that the sector is building a national data management system to guarantee data quality, security, accessibility and inter-administration integration. UNDP's representative argued that data is strategic infrastructure on a par with roads and energy and that governance transformation, not technology, is the precondition. [Reporting two days later](https://www.ecofinagency.com/news-digital/2907-57833-mauritania-pushes-ahead-with-blockchain-to-modernize-public-services) placed this against a national blockchain policy in consultation since November 2025, with land administration, trade, public procurement and natural-resource management named as target areas; no draft text, adoption date or budget has been published.
-
-## Mauritius
-
-The companion [Finance Bill, before Parliament from 27 July](https://lexpress.mu/node/560855), widens what the statistics office may share with the finance ministry and imposes new declaration duties on public bodies — the state's data plumbing rewritten alongside its tax code, with no matching amendment to the Data Protection Act.
-
 ## Morocco
 
 A national water digital twin was described publicly on 28 July, to rest on a sovereign national data platform hosted in Morocco and fuse sensor networks, satellite observation and data from the basin agencies, the planning commission and engineering consultancies. The project lead put a first pilot 18 to 24 months away and gave no cost, budget line or procurement route ([project account](https://medias24.com/2026/07/28/jumeau-numerique-de-leau-ce-quil-faut-savoir-sur-ce-pillier-du-pole-tec-1732383/)).
@@ -147,6 +127,8 @@ Morocco [promulgated the OECD multilateral competent authority agreement on the 
 ## Mozambique
 
 The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
+
+A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-stop border post began on 17 August at a stated 980 million meticais](https://aimnews.org/2026/08/17/governo-moderniza-fronteira-de-ressano-garcia-com-980-milhoes/). No completion date, systems specification or customs-integration arrangement is published.
 
 ## Nigeria
 
@@ -200,9 +182,3 @@ The customs estate opened a build rather than a service. The customs administrat
 The government service bus, the central integration layer, onboarded eight of 116 local authorities from June 2026 and now carries more than 400 government services with over K8.8 billion collected cumulatively across the service bus, payment gateway, national portal and payment platform ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/); [Accountant General's office](https://itweb.africa/article/digital-services-strengthen-zambia-finances/JBwEr7n3zk3M6Db2)).
 
 A register of a different kind opened alongside it. Zambia [launched a fully digital National Carbon Registry on 7 August](https://unepccc.org/zambia-launches-national-carbon-registry/), embedded in the national measurement, reporting and verification system and interoperable with Article 6 of the Paris Agreement, developed under a donor programme with a UN climate centre, a consulting group and a green growth institute. No public access, transaction count, custodian ministry or disclosure rule for its holdings is stated — which for a registry whose purpose is to make carbon claims checkable is the question it exists to answer.
-
-## Zimbabwe
-
-A whole-of-government enterprise resource planning system, integrating finance, human resources, supply chain and asset management across the public sector, was launched on 29 July 2026 and presented by the ministry as the clean data layer any government artificial intelligence would need; no ministry count, deployment schedule or cost was stated ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)). The ministry also committed to mandated open interface standards for public-sector platforms, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
-
-The online border management system Zimbabwe has been rolling out in phases since January 2025 was examined during a Rwandan immigration delegation's visit to two border posts on 29 July; no port coverage, completion date or throughput figure is published ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).

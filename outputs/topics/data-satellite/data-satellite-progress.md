@@ -1,13 +1,13 @@
 ---
-title: Use of satellite data — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Use of satellite data — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: data.satellite
 places: XSA
-record: 38f4220088e1
+record: cf6b76bb2dbb
 ---
 
-# Use of satellite data: progress report, 2025-08-01 to 2026-08-28
+# Use of satellite data: progress report, 2025-09-01 to 2026-09-01
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: 38f4220088e1
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | AgriWatch regional monitoring dashboard | Did not exist | [A dashboard integrating Earth-observation products for crop-cycle, rangeland-health and rainfall monitoring, with training workshops, shared practice and case studies for government, academic, private-sector and community users across six southern African states](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/) | Advanced |

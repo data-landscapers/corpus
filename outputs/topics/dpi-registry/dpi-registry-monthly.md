@@ -1,17 +1,15 @@
 ---
-title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Registries (population, land, address, etc.) — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.registry
-places: DZA; AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: b90cd1449d64
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9f47a25d5e53
 ---
 
-# Registries (population, land, address, etc.): monthly update, July 2026
+# Registries (population, land, address, etc.): monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -29,25 +27,13 @@ Field enrolment for the single social register [opened in a pilot phase at Sumbe
 
 The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind.
 
-## Benin
-
-On 16 July the identity agency's director general set out the birth-registration gap and the single-window remedy at ten maternities.
-
 ## Botswana
 
-Against those two, one registry system entered testing this month. The electoral commission's [elections management system is built and under extensive testing, replacing platforms developed in the 1990s, for deployment at the 2029 general election](https://www.sundaystandard.info/electoral-transparency-credibility-and-the-dark-shadow-of-the-evm-in-botswana/); no supplier, cost or acceptance date is held, and the commission's secretary separately states as personal opinion that Batswana do not want electronic voting machines.
-
-## Burkina Faso
-
-An estate-agency register launched on 21 July with a compulsory card applied for and tracked wholly online and commissions capped.
+The vital-statistics report [describes the births and deaths registration system as partially automated and decentralised](https://statsbots.org.bw/sites/default/files/publications/Vital%20Statistics%20Report%202024.pdf) â€” a description of the system rather than a change to it. Separately, government [committed in Parliament on 19 August to an electoral-reform package including electronic voter registration](https://allafrica.com/stories/202608190305.html), with no bill, supplier, cost or date attached.
 
 ## Cameroon
 
 The [national civil-status registry platform was reported deployed in pilot councils on 16 July](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/); the source names no councils and gives no target. The one delivery figure on the record for the wider programme comes from outside government: the national human rights commission, [calling for a modernised and interoperable civil registry on 10 August, put birth-certificate cases processed under a World Bank-backed programme at over 49,000](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/).
-
-## Central African Republic
-
-Against the Bangui memorandum, the cadastre itself has no delivery record: the 2026 medium-term framework carries [FCFA 625,000 for updating the mining cadastre and FCFA 650,000 for a petroleum database](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), FCFA 1,275,000 between them for the year.
 
 ## Chad
 
@@ -67,10 +53,6 @@ Civil-registry software is [installed with hardware in every municipal and sub-p
 
 The identification office marked African Civil Registration Day by putting figures and hardware behind the access side of it. The national civil-status system now [covers 699 centres and has digitised more than four million records, and on 11 August the office handed 283 digital birth-registration terminals to health workers in the Tonkpi region](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) to link maternities directly to civil-registry offices, under a programme it calls zero invisible child. The counts are the office's own, and no registration-rate outcome is attached to them.
 
-## Djibouti
-
-The same 23 July account reports [birth, marriage and death archives being digitised in parallel](https://www.lanation.dj/notre-vision-est-de-faire-de-la-direction-generale-de-la-population-et-de-la-famille-une-administration-entierement-modernisee-interconnectee-et-proche-des-citoyens-abdi-abdillahi-obsie/) with the identity-stack work above, staffing and archive space again the named constraints and no date given.
-
 ## DR Congo
 
 Business formalisation was inspected on 28 July: the portal proposes a legal form and tracks a file in real time and the application [issues sole-trader attestations in under 48 hours, while full online company creation is not possible](https://actualite.cd/2026/07/28/formalisation-des-entreprises-en-rdc-daniel-mukoko-samba-mise-sur-le-numerique-pour).
@@ -85,20 +67,12 @@ The company that built the vehicle identification platform [is refusing to hand 
 
 On 4 August the state-land regularisation platform was reported at [more than 302,000 applications received against about 1,700 contracts drawn up](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179).
 
-## Eswatini
-
-On identity, a proposal to [require DNA testing before issuing birth certificates was costed at about E126m a year, roughly 46% of the Home Affairs budget](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) — about E4,300 per test across about 29,400 births.
-
 ## Gambia
 
 The country published its first unified land policy, and it is the month's clearest statement of intent about a public register. The [National Land Policy 2026-2035 mandates a digitalised National Land Administration System, a centralised Land Information System and digitised land registration](https://policies.gov.gm/f/6d4b253b-ef9d-11f0-b086-029254d29bb1), alongside new Certificates of Customary Ownership, and carries a costed ten-year implementation roadmap. It is a mandate rather than a build: no supplier, budget line, custodian or start date is stated for either system, and no data-protection provision for the land record is reported — in a year in which the Personal Data Protection and Privacy Act 2025 came into force.
 
 
 A register the country already runs was disputed in the same week. Opposition parties put it to the electoral commission that [212,095 supplementary registrations had been announced against 179,445 records on the data distributed to them](https://gambiaj.com/news/politics/elections/political-parties-renew-concerns-over-iec-voter-register-discrepancies/), a gap the commission attributed to unverified processing outputs. No reconciled figure has been published, and a presidential election is due this year.
-
-## Ghana
-
-Business registration is [in pilot for end-to-end filing from name search to certification with no physical submission](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/), integrating with national identification for verification, with a companion beneficial-ownership verification service piloting with banks on a subscription basis. Launch is given only as the coming months.
 
 ## Guinea
 
@@ -128,13 +102,9 @@ On 3 August the interior and labour ministries [agreed in Benghazi to create a u
 
 The health ministry's registration portal reported its first numbers. PharmaGate [has registered 131 local and 53 foreign pharmaceutical companies and is being extended to the products themselves, confining attendance at the ministry to the final stage and licence collection](https://libyaherald.com/2026/08/ministry-of-health-developing-its-pharmagate-system-to-regulate-register-pharmaceutical-companies).
 
-## Madagascar
-
-The day after the biometric-registration review, the electoral commission [opened a full reconstitution of the electoral roll at Talata Volonondry](https://2424.mg/election-la-ceni-lance-les-operations-de-recensement-pour-la-refonte-de-la-liste-electorale-avant-les-scrutins-de-2027/) — a rebuild rather than the routine revision — running four months to 24 November 2026, to produce the single roll for all elections and referendums scheduled in 2027. The trigger is stated: the previous roll drew sustained contestation and is named as a source of tension at earlier polls. Registration runs through five channels, at fokontany level on presentation of a national identity card. The commission states that an unregistered citizen may not observe polling in their own place of residence and may not lodge a complaint or contest results.
-
 ## Malawi
 
-[About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
+The land register was reviewed rather than extended. A [workflow review workshop was convened on the Land Information Management System](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m). Reviewing workflows is what is done when a system is in service and not working as intended; no parcel count, coverage figure or defect list is published.
 
 ## Mali
 
@@ -204,16 +174,6 @@ Somalia [launched its first unified national registry of health facilities](http
 
 Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and stated it could not trace approximately 400,000 of those affected, against a court deadline extended to March 2027.
 
-## South Sudan
-
-The same World Bank diagnostic put [approximately 90% of births going unrecorded](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist), recording that civil registration is largely non-operational.
-
-On 28 July the civil-registry directorate [set out a plan under which health facilities would notify births rather than issue certificates, the directorate would become the sole issuing authority, births, deaths, marriages and divorces would sit in one national database, and death registration would become compulsory](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/). It is [stated as intent only](https://www.eyeradio.org/government-to-adopt-modern-digital-birth-death-and-marriage-records-system/): no law, budget, timetable, vendor or platform is named.
-
-## Sudan
-
-[The traffic police reported a restored vehicle-registration register on 20 July 2026](https://sudantribune.net/article/316412): 2,124,750 registered vehicles and 3,161,599 driving licences, credited to backup data centres built inside the states and abroad; the Salem e-renewal service now serves 16 countries, up from six, and a laser-secured ownership-transfer platform, Ansab, is being introduced.
-
 ## Tanzania
 
 At an agricultural exhibition on 4 August the e-government agency stated that [more than 6,000 cooperative societies are registered](https://dailynews.co.tz/ega-drives-digital-farming/) on its management system. No user counts, spend or timeline were given.
@@ -226,13 +186,13 @@ The [second national birth-registration catch-up campaign opened at Agbandi on 3
 
 ## Tunisia
 
-The [business register went fully digital with access requiring a digital identity](https://en.africanmanager.com/tunisia-national-business-register-accelerates-digitalization-of-its-services/) for individuals, companies and regulated professions, paper filing discontinued and electronic documents given the same legal value as paper, from 1 July 2026.
-
-At one hospital a first national births-declaration platform had registered 202 births as at 27 July 2026, assigning an identifier automatically at birth and wiring it into civil-status registers and social-affairs platforms.
+The social-housing application platform [has a completion timetable, set at a follow-up meeting on 3 August, with interconnection to the beneficiary database still under way](https://www.webmanagercenter.com/2026/08/04/570984/logements-sociaux-en-tunisie-une-plateforme-numerique-pour-accelerer-les-demandes-daccession-a-la-propriete/). The interconnection is the part that decides what the platform is: an application front end that cannot read the beneficiary register is a form, and no date for that link is published.
 
 ## Uganda
 
 The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
+
+The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
 
 ## Zambia
 

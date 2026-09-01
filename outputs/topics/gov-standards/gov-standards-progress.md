@@ -1,23 +1,21 @@
 ---
-title: Standards — progress report, 2025-08-01 to 2026-08-31
-compiled: 2026-08-31
-period: 2025-08-01 to 2026-08-31
+title: Standards — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: gov.standards
 places: XAF; XSA; XWA
-record: 17711c2b9940
+record: 9525815eba55
 ---
 
-# Standards: progress report, 2025-08-01 to 2026-08-31
+# Standards: progress report, 2025-09-01 to 2026-09-01
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
-*The place reports do not share one window; the period above is the range they span.*
-
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Africa PKI Forum harmonisation of digital-trust rules | Did not exist | [Participants called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders; nothing is adopted and no instrument, timetable or signatory list is on file](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/) | Advanced |
 | African Common Proposals for WRC-27 | Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published | [The union's third radiocommunication working group met as an e-meeting convened from Nairobi from 18 to 21 August 2026, input contributions having closed on 11 August, to prepare its recommendations for the third African Preparatory Meeting; the meeting's own output is not published, and no proposal text is published](https://atuuat.africa/event/atu-r-wg3/) | Advanced |
@@ -27,7 +25,7 @@ record: 17711c2b9940
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted with six shared principles and seven areas of collaborative action; CRASA has not published the text (2026-08-05)](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Advanced |
 | Regional data governance harmonisation roadmap | Did not exist | [Policymakers, regulators and technical experts from eight Southern African states worked towards a roadmap for harmonising data governance frameworks, at a workshop convened by a UN agency with a continental digital body and a member state ministry, working from a data governance toolkit and undertaking national self-assessments](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance) | Advanced |
@@ -35,7 +33,7 @@ record: 17711c2b9940
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Advanced |
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A second three-state arrangement live, giving free incoming calls for up to 30 days and local rates on outgoing traffic; the end-2025 deadline passed with six of fifteen member states covered](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, against a missed end-2025 deadline |

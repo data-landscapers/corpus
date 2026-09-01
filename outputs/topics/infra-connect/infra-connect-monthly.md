@@ -1,27 +1,23 @@
 ---
-title: Connectivity — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Connectivity — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 75edb8555958
+places: DZA; AGO; BWA; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a2abba920ed7
 ---
 
-# Connectivity: monthly update, July 2026
+# Connectivity: monthly update, August 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
-IPv6 generalisation was [launched on 14 July](https://www.echoroukonline.com/%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D9%8A%D8%A4%D8%AB%D8%B1-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-ipv6-%D8%B9%D9%84).
-
-On 23 July the Council of Government examined draft executive decrees renewing the public cellular licences held by Mobilis and Optimum Telecom Algérie (Djezzy). Renewal by executive decree places licence continuation with the cabinet rather than with the regulator, which ran the 5G round as a competitive tender. No term, fee, coverage obligation or decree text is held, and the Prime Minister's own communiqué of the sitting is not on file — the account rests on [one press carry](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ).
+The one dated position is the licence award rather than any new build. [Three commercial 5G licences were awarded to the three operators in December 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and that is where the record stands: no coverage obligation, rollout milestone or subscriber figure has followed on this ledger since.
 
 ## Angola
 
-On 23 July a state-owned telecoms arm [commercially launched an enterprise fifth-generation service in Cabinda at about US$20m, with a stated ambition of every provincial capital by 2027](https://angop.ao/en/noticias/economia/filda-2026-servico-5g-empresarial-da-mercury-chega-a-provincia-de-cabinda/) — the operator's own figures.
+Two lines moved and neither is national. An operator [installed 20 towers in Cabinda with commercial service days away](https://angop.ao/es/noticias/tecnologia/servicos-de-telefonia-movel-africell-chegam-a-cabinda/), and the satellite licence application open since 2024 [remains unresolved](https://www.novojornal.co.ao/opiniao/detalhe/starlink-em-angola-conectividade-controlo-e-a-politica-silenciosa-do-ceu-73683.html), with no decision published either way.
 
 ## Botswana
 
@@ -47,31 +43,13 @@ On the money side, the universal service fund's [revised FY2026/27 procurement p
 
 ## Cameroon
 
-An account of 27 July put the national fibre backbone at [over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), against about 12,000 km terrestrial on the 2024 reference year; the two figures are not reconciled to a single primary and may rest on different measurement bases.
-
-The same account records the [2024 customs circular on satellite terminals still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with kits entering through indirect registration abroad and ten modems seized at one post in December 2025.
-
 The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
-
-## Cape Verde
-
-No new connectivity measurement was published in the window, and the regulator's market series still stops at the second quarter of 2025 ([regulator indicators](https://expressodasilhas.cv/economia/2025/09/18/starlink-conquista-02-do-mercado-da-internet-em-9-meses/99028)).
-
-The continental frame moved instead. On 24 July 2026 the African Union development agency launched a Programme for African Developing Island Economies at a ministerial segment in Abidjan, covering Cape Verde and six other island states on a 2026-2031 roadmap organised on six pillars including connectivity, with digital public infrastructure and artificial intelligence named as accelerators. No Cape Verde-specific commitment, allocation or project is named in it.
-
-## Central African Republic
-
-Subscribers at a northern town reported [no calls, no internet and no mobile money for close to a month, with no restoration date](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/). The failure is attributed to off-grid relay sites, equipment theft and repair crews travelling hundreds of kilometres, on a network with one operator and no redundancy; the base held nothing on this locality before.
 
 ## Comoros
 
 Comores Télécom [revised its retail fibre and mobile offer on 15 July 2026](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), cutting the entry fibre tariff from KMF 32,500 to KMF 30,000 a month while raising the basic allowance from 800 GB to 850 GB and adding unlimited calls to fixed lines. [Director-general Ali Hadji Mmadi also announced eSIM provisioning — KMF 5,000 to migrate an existing SIM, KMF 10,000 for a new one — and two paid value-added SMS services, a pharmacy-on-duty locator and prayer-time notifications](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html). The account is the operator's own press event, and its internal dateline is inconsistent: it describes the launch as "yesterday, Monday 15 July," though 15 July 2026 fell on a Wednesday, so the date's precision is flagged uncertain.
 
 The connectivity project the agency carries reached the stage before financing. At a technical meeting on 10 August the [African Development Bank and the Multilateral Cooperation Center for Development Finance told the finance ministry they were ready to fund the feasibility studies as a grant](https://alwatwan.net/economie/connectivit%C3%A9-num%C3%A9rique-i-la-bad-et-le-mcdf-pr%C3%AAts-%C3%A0-soutenir-le-projet-comorien.html), the project covering data-centre studies and inter-island connectivity. No commitment amount, study contract or timetable is stated, so no finance record was built.
-
-## Congo
-
-Two positions describe the same weakness from either end. The country has [relied on one submarine cable since 2012, with a switch to another announced as three weeks away after weeks of outages](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) — six months on, no source confirms any new cable carrying traffic. Behind it, [mobile backhaul spectrum fees run at about 5% of operators' total revenue against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/), alongside delayed spectrum assignments and technology-neutrality restrictions. Backhaul is the default rural link where fibre does not reach, so the premium falls hardest where coverage is weakest, and no regulatory response is on file.
 
 ## Cote d'Ivoire
 
@@ -107,27 +85,11 @@ GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per
 
 ## Equatorial Guinea
 
-GETESA signed a [network contract with Huawei](https://realequatorialguinea.com/sociedad/82111/) on 9 July 2026 covering the modernisation the operator set out in May — 5G, eSIM, public Wi-Fi and fibre reactivation. The [independent outlet Radio Macuto](https://radiomacuto.org/huawei-rescatar-getesa-telgesa/) reported the arrangement on 15 July as a rescue of GETESA alongside the creation of TELGESA, and criticised the procurement as opaque.
-
-At a working session on 22 July with the commission examining state-participation companies, Vice-President Nguema Obiang Mangue [ordered an audit of GECOMSA](https://www.pdge-guineaecuatorial.com/el-gobierno-impulsa-el-cumplimiento-del-regimen-de-incompatibilidades-de-las-empresas-publicas/) — its financial position, the value of its assets and liabilities and its outstanding debts — before the definitive merger agreement with Loita Group creating TELGESA is signed.
-
-The Minister of Transport, Posts and New Information and Communication Technologies [signed a temporary Starlink authorisation](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_autoriza_uso_de_starlink_a_empresas_norteamericanas_en_alta_mar) on 28 July at a ceremony in the Palacio del Pueblo, permitting North American companies to use the service for operations on the high seas within jurisdictional waters, and handed it to the Minister of Hydrocarbons with the oil companies operating in the country present. A negotiating commission meeting the same day [heard that type-approval and the competences of the company and the regulator ORTEL remain undefined](https://ahoraeg.com/politica/2026/07/29/el-gobierno-acelera-la-implementacion-del-internet-satelital-de-starlink-en-el-pais/); a first phase serves public bodies, airport terminals and selected companies, and extension to individual subscribers is conditional on the negotiations concluding, which the executive justifies on security grounds.
-
-The same ministry published [terms of reference for a public tender](https://ahoraeg.com/politica/2026/07/29/el-gobierno-lanza-una-licitacion-publica-para-el-diagnostico-integral-del-proyecto-de-television-digital-terrestre-tdt/) on 29 July for a full technical diagnostic of existing digital terrestrial television infrastructure and its regularisation, rehabilitation, commissioning and operational transfer. It is Treasury-financed, and no contract value, tender deadline or switchover date is stated.
-
-The ministry put a six-month connectivity plan to the Prime Minister on 15 July. It [names 2G and 4G coverage to 85% through 34 new towers in Annobón and the interior, a Roaming Cero arrangement with Cameroon, Gabon, Chad and the Central African Republic, and a national digital postcode system](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes). No budget, contract or delivery date accompanies any of the three, and the consolidated action plan they sit in was adopted on 31 July unfinanced, going first to the interministerial council and then to the Council of Ministers, which decides what is recorded and funded.
-
-## Eritrea
-
-[Starlink's coverage-availability map, checked 17 July 2026](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html), lists Eritrea among seven African states — Algeria, Djibouti, Egypt, Libya, Morocco, South Africa and Eritrea — with no planned launch date, all but South Africa in the north of the continent or the Horn. No licence application, refusal, or other Eritrea-specific process was found in the source; the position is an absence of an announced date rather than a documented refusal.
+Satellite service reached the country. [The operator's own principal confirmed on 29 August that the service is available in Equatorial Guinea](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/), after an authorisation earlier in the year that reached only North American companies operating on the high seas within jurisdictional waters. No licence text, tariff, subscriber route or regulator statement accompanies the confirmation, so the base holds a claim of availability and not the terms it is available on.
 
 ## Eswatini
 
-ESCCOM [proposed on 20 July 2026, in Notice 08/2026, raising the minimum internet speed from 2 Mbps to 10 Mbps](https://times.co.sz/39355/technology-today/eswatini-set-for-major-digital-leap/), citing demand for high-bandwidth low-latency service. It is a proposal; the 2 Mbps standard stands.
-
-At a workshop for ICT parastatal directors on 22 July, the Ministry of ICT [put mobile coverage at 95% and mobile-internet subscription at 57%](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/), blaming data prices and paper-based public services, and set out a target of 859 schools and 134 health facilities to be connected. It named institutional leadership, not technology, as what will decide the outcome.
-
-Free adjudication of consumer complaints against communications providers runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications — a structural provision, not dated state.
+The one dated position here is a standing statutory right rather than a change. Free adjudication of consumer complaints against communications providers [runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications](https://times.co.sz/40791/technology-today/consumers-guide-to-type-approved-communications-equipment/). It is structural provision and not movement: no complaint volume, adjudication count or outcome is published against it.
 
 ## Ethiopia
 
@@ -167,25 +129,11 @@ An industry survey filled a gap in the record on 5G: commercial networks opened 
 
 The incumbent operator [began selling managed satellite connectivity as an enterprise service on 26 August](https://www.thereporter.co.ls/2026/08/26/vodacom-launches-satellite-broadband-for-enterprises/). For a landlocked country whose every terrestrial route to the internet crosses South Africa, it is the first international path that does not.
 
-## Liberia
-
-The regulator revoked [Starcell International Liberia's universal licence and spectrum authorisation with immediate effect on 22 July 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), after a 90-day suspension from 9 February during which no corrective action was taken; spectrum, numbering resources and regulatory privileges revert to the Authority. The grounds cited were failure to commence operations, unmet financial obligations and non-payment of universal access contributions.
-
-At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs.
-
-The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
-
 ## Libya
 
 LPTIC [met Nokia's regional director on 15 July](https://alwasat.ly/news/libya/524936) to discuss network modernisation and 5G deployment; no agreement was announced.
 
 On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) under which ARABSAT will supply High Throughput Satellite capacity on Arabsat-6A at 30.5 degrees east for LTT's existing and future requirements. ARABSAT's chief executive described the agreement as reflecting the institutional relationship with the Libyan International Telecommunications Company, one of ARABSAT's principal shareholders. No contract value, duration, throughput, coverage or service date was published.
-
-## Madagascar
-
-On 11 July 2026 SpaceX ran [Madagascar's first Direct-to-Cell satellite trial at Sadabe](https://www.telecomreviewafrica.com/articles/general-news/28982-madagascar-conducts-first-direct-to-cell-satellite-trial-advancing-digital-inclusion/), on Airtel's spectrum and following an [FCC notice filed on 13 May](https://spaceinafrica.com/2026/05/19/madagascar-set-to-launch-starlink-direct-to-cell-services/) — the third African country after Kenya and Uganda. Commercial launch is pending the national regulator.
-
-On 23 July Yas Madagascar [ran a 5G-Advanced trial with Huawei at its Andraharo campus](https://www.lexpress.mg/2026/07/service-public-la-technologie-au.html), pitching the network as a substrate for artificial intelligence, augmented reality and connected devices. The operator claims to be the fourth in the world to test the technology; the claim is its own. The posts and digital development minister attended and tied it to public-service delivery, learning, health and enterprise access. No commercial 5G service is on record.
 
 ## Malawi
 
@@ -232,18 +180,13 @@ The vendor has since put figures on it: [roughly a kilometre of extra range, an 
 
 ## Mozambique
 
-The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
+The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023, and [set January 2027 as its target for identifying a strategic partner](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/). No buyer, share, valuation or treatment of the debt is stated.
 
-The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
-
-
-The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one.
-
-The government [set January 2027 as its target for identifying a new strategic partner for the state operator](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/), with the transaction to be finalised after that; no valuation, stake size or bidder is named.
+The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one. On 5G, [a provincial-capital deadline of June 2027 is attached to the spectrum licences](https://www.diarioeconomico.co.mz/2026/08/25/trends/telecom/mercado-financas-5g-em-todas-as-capitais-provinciais-ate-junho-de-2027/).
 
 ## Namibia
 
-On 30 July the ministry, the regulator and three operators met the traditional authorities' trust on streamlining tower siting and cutting deployment delays and costs; the ministry reported no agreement, instrument or timetable ([convening account](https://www.itweb.africa/article/namibia-taps-chiefs-for-network-rollout/LPwQ57lbeY5qNgkj)). Traditional authorities manage communal land, which the ministry treats as the siting constraint.
+Spectrum is being taken back rather than added. Operators [were instructed to retire their 2G and 3G networks and refarm the spectrum, with one suggesting smartphone subsidies before the shutdown](https://www.namibiansun.com/local-news/mtc-suggests-smartphone-subsidies-before-2g-3g-shutdown-nmh015578-1-19462). A shutdown without a device programme moves the cost of the transition onto the users least able to carry it, and no date, subsidy or handset count is on the record.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
 
@@ -277,24 +220,6 @@ The legacy-network retirement plan the ministry announced on 28 July fixes third
 
 The cross-border route got its operator's own description as the peering forum met in Kigali: [a 2,000km protected corridor from Goma to Mombasa connecting Kigali, Kampala and Nairobi, inside a network the operator puts across sixteen African countries](https://paratus.africa/blog/paratus-rwanda-rings-in-afpif-2026/). Both figures are the operator's own.
 
-## Senegal
-
-A [teleport gateway entered service, reported 10 July, with sixteen new antennas and a Tier III room](https://techafricanews.com/2026/07/10/sonatel-expands-gandoul-teleport-with-eutelsat-oneweb-satellite-gateway/) linking a low-orbit constellation to terrestrial networks.
-
-Two financing items arrived within a week. On 13 July a development bank [extended a senior facility of up to EUR 270m, EUR 170m committed, for 4G, 5G and fibre in Senegal and Kenya](https://techtrendske.co.ke/2026/07/13/ebrd-extends-e270m-financing-to-yas-for-kenya-senegal-network-expansion/) — its first Senegal project, with Senegal's share not disaggregated. On 16 July a presidential meeting produced an [announced intent of US$150m from a tower operator](https://techafricanews.com/2026/07/20/helios-towers-plans-150-million-investment-to-expand-senegals-digital-infrastructure/), with no signed agreement or schedule; the account traces solely to the Presidency, and trade press moved from *plans* to *commitment* in a day with no new evidence.
-
-A measurement covering January to July put [mobile latency at 35.4 ms, second in sub-Saharan Africa behind Togo at 28.8 ms](https://www.seneweb.com/fr/news/Technologie/connectivite-le-senegal-2e-en-afrique-subsaharienne-pour-la-latence-mobile-avec-354-ms_n_498911.html); no prior Senegal figure is held.
-
-## Seychelles
-
-[Airtel Seychelles switched on commercial 5G on 3 July 2026](https://nation.sc/articles/31374/airtel-seychelles-launches-5g-network-and-partners-with-sbc-by-vidya-gappy), pairing the launch with a content partnership with SBC. [Starlink's soft launch followed on 21 July](https://statehouse.gov.sc/news/7148/starlink-begins-operations-in-seychelles-expanding-internet-choices-for-consumers), reported by State House the next day, with several subscribers already active; the wider African rollout that included Seychelles [reached 28 of 54 African markets by 28 July](https://tech-ish.com/2026/07/28/starlink-28-african-countries-kenya-freeze/).
-
-## Sierra Leone
-
-CSquared [added capacity on the 2Africa West submarine system to the West Africa backbone that reaches Sierra Leone](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) on 15 July 2026, giving automated rerouting across physically diverse paths after repeated regional outages.
-
-The health ministry [launched Starlink service at the Julius Maada Bio Paediatric Centre of Excellence on 27 July 2026](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/), the first of a stated 300 government health facilities. Neither account of the launch gives the cost, the funder, the procurement route, the contract term, or any data-residency arrangement for public health traffic carried by a foreign satellite operator.
-
 ## South Africa
 
 The [National Radio Frequency Plan 2026](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026), approved by the minister on 2 July, was gazetted on 24 July and realigns the allocation table from 8.3kHz to 3,000GHz to the ITU Radio Regulations and to the SADC and African Telecommunications Union plans. The [IMT Roadmap 2026](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) was published for consultation the same day; its tables record 794MHz assigned to licensees and 18,831MHz still to be assigned. The regulator's [accompanying statement of an increase from 850MHz to at least 18,588MHz by 2030, and of a 215% rise in high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-publishes-draft-imt-roadmap-and-implementation-plans), does not appear in the gazetted text; the two accounts have not been reconciled. Allocation of the 6GHz band was [deferred pending a feasibility study](https://www.citizen.co.za/news/malatsi-approves-2026-national-radio-frequency-plan/).
@@ -309,11 +234,9 @@ One date the state does not have is the oldest. The communications department [t
 
 ## South Sudan
 
-The regulator completed the second stage of its tariff exchange-rate adjustment effective midnight on 26 July 2026; phase one had taken effect on 26 June. MTN South Sudan, Zain South Sudan and Digitel all [raised voice, data and SMS charges, citing inflation, fuel costs, network maintenance paid in foreign currency and depreciation of the South Sudanese pound](https://www.eyeradio.org/you-will-pay-more-for-calls-data-from-tonight-as-second-tariff-adjustment-takes-effect/), running base stations largely on diesel generators for want of grid power. Neither the regulator nor the operators [disclosed the revised rates or said whether further phases will follow](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), and the regulator maintains this is a revision of the exchange rate used to calculate charges rather than a tariff increase.
+Prices rose and the numbers behind them did not appear. The information minister [publicly defended the telecommunications tariff increase on 24 August](https://www.radiotamazuj.org/en/news/article/information-minister-ateny-defends-telecom-tariff-increase); the regulator maintains it is a revision of the exchange rate used to calculate charges rather than a tariff increase, and neither regulator nor operators have published the revised rates. A cost defended without a price is a position the base can record and a reader cannot check.
 
-On 20 July the regulator closed a two-day inception workshop launching development of a [National Spectrum Management and 5G Strategy](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/) with the ICT ministry, the Eastern Africa Regional Digital Integration Project and an expert team. Its outputs were a methodology, a work plan and governance structures; no spectrum plan, band allocation or timetable is published.
-
-On 29 July, leaders of Kauto Administrative Area in Eastern Equatoria [stated that the area has mobile coverage only at Kuron and that four further sites have been requested for years without explanation for the delay](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage). The chief administrator said information from three settlements can take one to two weeks to reach his office, arriving by road with travellers. Leaders reported that operators raised doubts about revenue from the area, and a coverage extension expected from February 2026 has not materialised.
+Regionally, East African states [opened a joint bank account to fund a feasibility study for a communications satellite, with deposits due by 30 September 2026](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/). No contribution figure for this country, study scope or reporting date is stated.
 
 ## Sudan
 

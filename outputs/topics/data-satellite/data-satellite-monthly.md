@@ -1,21 +1,15 @@
 ---
-title: Use of satellite data — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Use of satellite data — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: data.satellite
-places: AGO; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SYC; SLE; ZMB
-record: b4df8615407a
+places: COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE
+record: 6c13cba0647f
 ---
 
-# Use of satellite data: monthly update, July 2026
+# Use of satellite data: monthly update, August 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-The regulator [licensed a first private reseller of national satellite capacity on 2 July](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/), following [37 firms entering the commercial process by April](https://techafricanews.com/2026/04/10/angola-expands-satellite-internet-push-as-37-firms-enter-conecta-project/).
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Congo
 
@@ -57,14 +51,6 @@ The national geographic institute [runs a remote-sensing unit producing Sentinel
 
 A [national satellite data programme launched with a commercial imagery provider on 10 August](https://itweb.africa/article/planet-and-the-government-of-rwanda-launch-first-of-its-kind-national-satellite-data-program-in-africa/nWJadMbNDxlMbjO1), giving government agencies, public universities, selected startups and development partners access to near-daily imagery for agriculture and food-security monitoring, forest health, urban planning and disaster response, managed by the space agency. It was announced jointly by vendor and government, and no cost, term, data-licence arrangement, contract or appropriation is held.
 
-## Seychelles
-
-Cabinet approved accession to the UN Committee on the Peaceful Uses of Outer Space and engagement with UNOOSA on 22 July 2026, framed as building geospatial-data capability for maritime security, disaster preparedness and ocean management; no accession process or programme detail has followed.
-
 ## Sierra Leone
 
 DSTI announced on 4 August that it is [developing a national base map with the Ministry of Lands, with JICA support and Japanese technical direction, phase one covering Western Area Urban District](https://owlpress-sl.com/dsti-leads-digital-mapping-system-sierra-leone-moves-develop-national-base-map/). No cost, timetable, hosting arrangement or data licence is stated.
-
-## Zambia
-
-A Zambian platform [pairs satellite imagery with artificial intelligence for smallholder traceability and market matching](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), built after commercial traceability software was quoted at thousands of dollars a month. The account is the founders' own, with no user count, revenue or independent verification held.

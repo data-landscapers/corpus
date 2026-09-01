@@ -1,23 +1,21 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-31
-compiled: 2026-08-31
-period: 2025-08-01 to 2026-08-31
+title: Digital Payments and Fintech — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: df2cdce81477
+record: 8b25a5b331ed
 ---
 
-# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-31
+# Digital Payments and Fintech: progress report, 2025-09-01 to 2026-09-01
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
-*The place reports do not share one window; the period above is the range they span.*
-
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Advanced |
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf) | Advanced |
@@ -35,7 +33,7 @@ record: df2cdce81477
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | COMESA Digital Retail Payments Platform | Did not exist | [Piloting between Malawi and Zambia, targeting settlement costs under 3% of value against about 8%](https://techcabal.com/2025/10/10/comesa-payment-system-trade-local-currencies/) | Advanced |
 | SADC-RTGS | Settling in rand alone since 2013; 15 of 16 members participating | [Second settlement currency live; more than 80 banks, R250.7bn settled a month](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) | Advanced |
@@ -44,7 +42,7 @@ record: df2cdce81477
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [104 authorised at 31 July 2026, against 80 connected at 24 June 2026 and 74 at the end of December 2025, with Senegal (24) and Cote d'Ivoire (23) holding nearly half, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each)](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/) | Advanced |

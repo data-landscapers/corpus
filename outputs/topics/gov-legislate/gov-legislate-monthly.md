@@ -1,17 +1,15 @@
 ---
-title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Legislation and regulation — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: gov.legislate
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 19c1b9a9c8b4
+places: DZA; AGO; BDI; CMR; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; UGA; ZWE
+record: f324c6b80337
 ---
 
-# Legislation and regulation: monthly update, July 2026
+# Legislation and regulation: monthly update, August 2026
 
-*48 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -31,16 +29,6 @@ The National Assembly [approved legislative authorisation 166 votes to nil on 30
 
 The national cybersecurity centre, whose statute was published in December 2025, is still described in the future tense by the minister responsible: on 10 August he [said it would be launched during 2026](https://www.telecompaper.com/news/angola-targets-launch-of-national-cybersecurity-centre-in-2026--1579430) to monitor digital threats, defend critical infrastructure and coordinate incident response.
 
-## Botswana
-
-Two instruments took effect and both widen the state's reach over digital services. The [electronic payment services amendment regulations are in operation, extending scope to money or value transfer services, taking fit-and-proper tests through to beneficial owners and 10% shareholders, and making unlicensed operation punishable by P1,000,000 and five years](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). Float interest is ring-fenced and directed by the central bank, with promotion of financial inclusion dropped from the permitted uses and not replaced by any customer entitlement. Separately the [remote-service VAT Act took effect on 1 June, charging 14% on non-resident digital and remote services against a stated collection target of about P450m a year](https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news).
-
-## Burkina Faso
-
-The Council of Ministers of 23 July restricted recourse to the fast-track procurement route to sovereignty, strategic character, threats to public order or service continuity, and humanitarian consequences of insecurity — at the same sitting that used the route for a schools package of about FCFA 38bn.
-
-On the statute book already in force, a press-freedom organisation [presented a report on 14 August arguing that cybercrime laws in Burkina Faso, Mali, Niger and Guinea are being used against journalists](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/), and urged repeal of the vague public-order and human-dignity provisions it says carry the prosecutions. The report is an advocacy account; the base holds no case record for it.
-
 ## Burundi
 
 An [access-to-information bill is on the National Assembly's order paper for the session opened at the Kigobe Congress Palace on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/). The first vice-president listed it among the bills the chamber will examine. Article 176 caps ordinary sessions at three months, putting the outer bound for passage in this sitting at roughly end-October 2026. No text, tabling number, sponsoring ministry or timetable was published and no copy is held — the announcement establishes only that the bill exists and is scheduled. Burundi has had no access-to-information statute on file to date.
@@ -54,14 +42,6 @@ The one legislative act in the window changes the regulator rather than the rule
 ## Cape Verde
 
 The regulator [opened a public consultation on licensing, spectrum use, frequency coordination, user protection, network security and emergency communications for satellite operators, with submissions to 31 August](https://spaceinafrica.com/2026/08/05/cape-verde-opens-public-consultation-on-new-satellite-communications-regulatory-framework/). It is a direct response to the satellite service launched in the archipelago in December 2024, and is distinct from the general-authorisation regime under which that service was licensed. No draft text or adoption date is published.
-
-## Central African Republic
-
-The cybersecurity and cybercrime law is unchanged in text and was [named by a commentator in July as the instrument now used against online content](https://corbeaunews-centrafrique.org/des-reseaux-sociaux-a-lintelligence-artificielle-comment-la-vitesse-de-la-technologie-panique-le-regime-obsolete-de-bangui/). That is an opinion column rather than a record of prosecutions, and the statute's own text is still not held.
-
-## Congo
-
-The invoicing regime was completed in the gazette. The [decree signed 31 March was gazetted on 9 July and is compulsory from 1 July](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), and [four implementing orders signed 9 July and gazetted 16 July](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) fix a four-stage homologation with a 30-day decision deadline, mandatory cryptographic certification, a penetration test under twelve months old, a sworn no-backdoor attestation, ten-year invoice retention and real-time tax-directorate data access. [Fees are FCFA 5,000,000 per terminal model and per software version, split 75% state, 15% security agency and 10% standards body](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf); foreign suppliers must be locally represented.
 
 ## Cote d'Ivoire
 
@@ -95,21 +75,13 @@ On 4 August the Ministry of Justice gazetted a deferral of the title-based prope
 
 The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
 
-## Eritrea
-
-[The Eritrean government issued a legal notice around 30 June 2026](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/), reported by the diaspora/opposition outlet Awate.com with the notice's text embedded, ordering individuals and institutions to deposit cash held outside banks by 31 July 2026 "or face legal action." The notice defines neither an "excessive amount" nor an enforcement mechanism; Awate's commentary — attributed opposition framing, not neutral fact — links the measure to memories of Eritrea's 2015 currency changeover and argues it will fall hardest on a largely cash-based, under-banked population with limited rural bank access.
-
 ## Eswatini
 
 In the same 4 August answer, the ICT ministry said it had completed the Online Media Publishing Guidelines 2026, introducing a registration requirement for online publishers bound to accuracy, privacy protection, child safeguarding and the responsible use of AI. Neither the text nor a commencement date is public.
 
 ## Ethiopia
 
-On 23 July the central bank issued a [public notice](https://www.thereporterethiopia.com/51969/) stating that use, sale, transfer, settlement and facilitation of virtual assets are prohibited unless expressly authorised, and that the prohibition was never confined to cryptocurrencies. No new regulation and no enforcement mechanism accompanied it: the instrument is a notice restating scope, not a rule.
-
-On 25 July the [payment-gateway tax case](https://www.thereporterethiopia.com/52044/) was set out in full. The central bank, compiling processing data for a revenue audit, [conflated gross transaction volume with gateway revenue — restating one gateway's three-year throughput of ETB 32bn as ETB 143.9bn and taxing the difference at 30%, where gateways in fact earn about 2.5% commission](https://www.thereporterethiopia.com/52044/). Corrected datasets issued by letter in April 2026 and verified by a governor's technical committee were not accepted; ETB 818m was swept from frozen accounts in May against a liability counsel puts at ETB 20–30m, with parallel sweeps against two other gateways, and the justice ministry declined to intervene on the ground that no administrative body can reverse a revenue decision.
-
-Three instruments moved in the window and none binds yet. The Critical Infrastructure Cybersecurity Proclamation was [signed by the President at Addis Ababa on 21 July, designating twelve critical sectors, placing eighteen core obligations on owners and operators and creating a cybersecurity fund](https://www.ena.et/web/eng/w/eng_9359494), with commencement set one year after gazettement — about July 2027 — and regulation-making powers left to the Council of Ministers and the security agency. On copyright, a [draft ratification proclamation for the Berne Convention went to the Council of Ministers, and a separate amendment to the 2004 copyright proclamation is being drafted with a university law school to add internet service provider duties, site-blocking procedures and a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/). Ethiopia is not yet a party to the convention and neither draft has a published text.
+Three instruments moved in the window and none binds yet. The Critical Infrastructure Cybersecurity Proclamation was [signed by the President at Addis Ababa on 21 July, designating twelve critical sectors, placing eighteen core obligations on owners and operators and creating a cybersecurity fund](https://www.ena.et/web/eng/w/eng_9359494), with commencement set one year after gazettement â€” about July 2027 â€” and regulation-making powers left to the Council of Ministers and the security agency. On copyright, a [draft ratification proclamation for the Berne Convention went to the Council of Ministers, and a separate amendment to the 2004 copyright proclamation is being drafted with a university law school to add internet service provider duties, site-blocking procedures and a rights-holder take-down notice](https://www.thereporterethiopia.com/52113/). Ethiopia is not yet a party to the convention and neither draft has a published text.
 
 ## Gabon
 
@@ -137,11 +109,7 @@ The ministry took industry comment on 27 July on the [draft digital economy and 
 
 ## Guinea
 
-Two payments instruments are at terms-of-reference stage and neither exists. The [payment systems law awaits a funder's no-objection and the national payment council has yet to be created](https://www.bcrg.gn/projets-de-reformes-en-cours-a-travers-la-dsmp/), both under the same regional programme. The register recording them is undated and its latest dated entry is January 2025.
-
-## Guinea-Bissau
-
-The digital integrity law was [passed unanimously with amendments by the transitional parliament on 21 May, framed by the government spokesman as targeting those who spread hate and act against the State](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/), with enforcement mechanisms, including for citizens abroad, left unstated. Its publication and in-force dates are unconfirmed. It was [first invoked on 21 July by the communications ministry over a false claim that TikTok was being shut down in the country](https://ang.gw/ministerio-da-comunicacao-social-considera-de-falsas-informacoes-sobre-encerramento-de-tik-tok-no-pais/) — the first use the base records, and it is the state correcting a claim about itself.
+Two instruments were made and a third process opened. The President [signed the implementing decree for electronic signatures on 19 August](https://www.guinee360.com/19/08/2026/guinee-mamadi-doumbouya-officialise-la-signature-electronique/), and the government [opened a workshop on three bills consolidating the legal framework of the public administration](https://mediaguinee.com/2026/08/reforme-de-ladministration-publique-le-gouvernement-engage-trois-chantiers-majeurs-pour-moderniser-le-service-public/). Neither the decree text nor the bills are published, so their scope cannot be read off the record.
 
 ## Kenya
 
@@ -169,31 +137,19 @@ The same package, [set out on 17 July](https://fpa.news/liberia-lta-unveils-swee
 
 One piece of it is now a signed instrument. The regulator [signed satellite communications guidelines on 19 August, after a consultation that ran from February to June](https://www.liberianobserver.com/news/lta-signs-new-satellite-framework-targets-digital-access-across-liberia/article_e178022e-dcdf-47e5-a31b-9abefbb594c2.html), and the [text sets five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for operators already here](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf). No licence has yet been issued under it on the record.
 
-## Libya
-
-On 16 July a House of Representatives committee [met the National Security Council in Benghazi to prepare a comprehensive cybersecurity law](https://alwasat.ly/news/libya/524932).
-
 ## Madagascar
 
-The Council of Ministers of 8 July 2026 [adopted a bill overhauling the 2014 cyber law](https://www.agenceecofin.com/actualites-numerique/0907-140040-madagascar-adopte-un-projet-de-loi-pour-moderniser-son-arsenal-contre-la-cybercriminalite) on three axes: protecting the vulnerable, ending digital impunity through revised electronic evidence, connection-data retention and suspect-asset freezing, and mandatory cooperation with justice by telecommunications, internet and digital-finance operators. The framework was previewed at the [first national cybersecurity symposium in June](https://www.wearetech.africa/en/fils-uk/news/tech/madagascar-set-to-publish-new-cybersecurity-law-amid-rising-digital-threats), which defined security incidents and critical infrastructure organisations. The bill is not enacted.
-
-The same Council [ordered internet service providers to block pornographic sites](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) on public-order grounds, the executive holding that such content favours the resurgence of delinquency and degrades the security climate. Ministries and public bodies are told to implement it. It is a cabinet decision, not a law, and no timetable, technical mechanism, named regulator or appeal route is specified. It follows a May 2026 ministerial warning and a 15 June announcement of a dedicated social-media law covering harassment, defamation and disinformation.
+Two legislative processes are running and neither has produced a law. The government [signed the United Nations Convention against Cybercrime and reported a revision of the 2014 cyber law alongside it](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the convention signed and not ratified. The National Assembly's [extraordinary session opened on 25 August with seven texts on its agenda, digital bills among them](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/); the texts are not published, so which digital instruments are before it cannot be read off the record.
 
 ## Malawi
 
-A consultative meeting concluded in Lilongwe reviewing the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable was placed on record.
-
-The statutory copyright society's position on artificial intelligence became public on 23 July: it will not register works created entirely by artificial intelligence or distribute royalties on them. Its own statement is not held, the decision date is not established, and no test was published for how much assistance is admissible.
+Two instruments, one passed and one only intended. Parliament [passed the Financial Crimes (Amendment) Bill in the week to 6 August](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/), which awaits assent; the bill text is not held, so what it changes for digital finance cannot be read off the record. Separately the minister [stated an intention to legislate on artificial intelligence](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/), with no draft, scope or timetable behind the statement.
 
 ## Mali
 
 On 29 July the Garde des Sceaux [instructed all prosecutors, justices of the peace and judicial police to act against networks recruiting through WhatsApp, TikTok and Snapchat](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs). The communique enumerates existing penal qualifications and adds that the staging, filming, publication and commentary of such images are themselves offences falling under cybercrime; no new statute was made, no platform was notified, and parents, educators, landlords and hotel keepers are called on to watch and denounce.
 
 On 1 August the Semaine du Numerique's recommendations included [a data-management law and a startups law](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
-
-## Mauritania
-
-The Council of Ministers of 29 July [approved a draft decree repealing and replacing Decree 2020-152 of 19 November 2020](https://lequotidien.mr/?p=39470) on the management and institutional organisation of the Universal Service Access Fund. The communiqué's stated grounds are that the 2020 arrangement no longer matched institutional reality and that its application had exposed shortcomings in defining the fund's object, in how its resources are mobilised, distributed and allocated, and in the absence of a clear framework for integrating it into the state's budgetary and accounting system. The replacement decree's terms are not reproduced and neither text is held.
 
 ## Mauritius
 
@@ -229,11 +185,7 @@ Two instruments moved on the same week, one drafting and one made. The labour mi
 
 ## Namibia
 
-The ICT minister told the regulator's new board on 13 July that the Cybercrime Bill and the Data Protection Bill were being finalised, and the ministry stated that Namibia is still developing a comprehensive legislative framework for cybercrime, with law enforcement and the judiciary relying meanwhile on the Electronic Transactions Act, the Communications Act and the penal code ([board account](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
-
-## Niger
-
-The civil-status regime rests on an [ordonnance of 22 April with its application decree of 18 May in force](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/). No gazetted text of either is held.
+The Data Protection Bill has not moved. It [is still in finalisation and has not been tabled](https://www.namibian.com.na/govt-to-introduce-data-protection-bill-in-september/), against the September introduction the ministry had named. The bill has been described as being finalised across successive periods, and the electronic identity rollout it would govern begins in that same month.
 
 ## Nigeria
 
@@ -258,11 +210,13 @@ The critical-infrastructure framework that was undated at the end of July reache
 
 ## Sierra Leone
 
-A public-private dialogue on 27-28 July was convened [to operationalise the Electronic Transactions Act, in force since December 2019 and never given certification authorities, evidence procedures, dispute mechanisms or penalties](https://sierraloaded.sl/news/government-activate-e-transactions-law/). It is to produce a gap analysis, a policy memorandum and an implementation roadmap, with no adoption date for any of the three, and worked to [functional equivalence and technological neutrality](https://libertyonlinetv.com/2026/08/03/koica-itc-partner-with-government-of-sierra-leone-to-strengthen-e-transactions-legal-framework/).
+A public-private dialogue was convened [to operationalise the Electronic Transactions Act, in force since December 2019 and never given certification authorities, evidence procedures, dispute mechanisms or penalties](https://sierraloaded.sl/news/government-activate-e-transactions-law/). It is to produce a gap analysis, a policy memorandum and an implementation roadmap, with no adoption date for any of the three, and worked to [functional equivalence and technological neutrality](https://libertyonlinetv.com/2026/08/03/koica-itc-partner-with-government-of-sierra-leone-to-strengthen-e-transactions-legal-framework/).
 
-The regulator announced on 30 July that the [Subscribers Regulations 2025 will fine operators 25,000 new leones for each unregistered or pre-activated SIM, with a staged disconnection ladder and SIMs matched to National Identification Numbers](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/). The six-month transition is presented as running from that announcement, so the phase-out date is unestablished, and the instrument's own text is not held.
+The regulator has said the [Subscribers Regulations 2025 will fine operators 25,000 new leones for each unregistered or pre-activated SIM, with a staged disconnection ladder and SIMs matched to National Identification Numbers](https://sierraloaded.sl/local/natca-phase-out-unregistered-national-fraud/). The six-month transition is presented as running from that announcement, so the phase-out date is unestablished, and the instrument's own text is not held.
 
-Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied on 26 July that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
+Mobile-money fraud reached Parliament. A legal analysis found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
+
+A further instrument entered consultation: the Public Financial Management Act 2026 [went to stakeholder consultation in Freetown on 18 August, with digital reforms proposed in it](https://sierraloaded.sl/news/digital-reforms-proposed-new-finance-law/). The draft is not published, so which reforms those are cannot be read off the record.
 
 ## Somalia
 
@@ -293,19 +247,11 @@ The legislative response to all of this is a review rather than a bill. The gove
 
 ## Togo
 
-[The 2023 fees-and-royalties decree was amended on 30 July](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) to price satellite and machine-to-machine spectrum use, the amending text still unpublished. Separately, [new rules on the validity and billing of mobile commercial offers entered into force in April](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f) — known to the base through a single line in an operator's parent's half-year financial filing, with no instrument number, title or text held.
-
-## Tunisia
-
-The [Development Plan 2026-2030 was promulgated on 20 July 2026](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) by a single-article law, after adoption by the Assembly on 10 July and by the Council of Regions and Districts on 17 July, and is the binding reference for public policy to 2030. Its [three annex volumes are now held](https://www.arp.tn/loi/project/4315): the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty. Every volume held is marked draft, no as-enacted printing has appeared, and whether the promulgated annex differs from the version voted is not established.
+The month's legislating was about commercial justice and civil status rather than about digital instruments. The National Assembly [adopted bills on commercial-courts reform and on accession to the Hague Apostille Convention in first reading on 14 August](https://togopresse.tg/lassemblee-nationale-adopte-en-1ere-lecture-deux-projets-de-loi-sur-la-reforme-des-juridictions-commerciales-et-ladhesion-du-togo-a-la-convention-apostille/); the Senate [adopted the courts reform on 21 August](https://togopresse.tg/la-reforme-sur-les-juridictions-commerciales-adoptee-au-senat/), and neither promulgation is held. Separately a scoping meeting [opened a review of the 2009 civil registration law to support digital transformation, proposals due before the end of 2026](https://www.togofirst.com/en/justice/2408-19853-togo-reviews-civil-registration-law-to-support-digital-transformation). An apostille accession is a digital question in practice: it is the route by which a document issued by one state's register is accepted by another's.
 
 ## Uganda
 
-The regulator issued a [public notice on 7 July opening nationwide enforcement against unlicensed public Wi-Fi providers](https://techafricanews.com/2026/07/08/uganda-begins-nationwide-enforcement-against-illegal-public-wi-fi-services/) under the Uganda Communications Act; no count of operators actioned has been published. On 23 July it reported [a five-year sentence for vandalising a mast in Kibaale District, where damage was valued at USh23.6 million, and a one-year sentence for a SIM-registration breach](https://itweb.africa/article/uganda-steps-up-crackdown-on-telecoms-vandalism/dgp45MaB8lZqX9l8); the minister of state for ICT stated on 31 July that such attacks are treated as economic sabotage rather than as offences against private property.
-
-## Zambia
-
-Public consultation on the Postal and Courier Services Bill closed on 27 July, one working day after ten-province stakeholder consultations concluded. A ministry representative separately named a forthcoming Startup Bill on 17 July — the first and only mention of that Bill in the base.
+Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
 
 ## Zimbabwe
 

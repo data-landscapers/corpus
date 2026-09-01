@@ -1,25 +1,23 @@
 ---
-title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 24f58c760efc
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: de760d64e422
 ---
 
-# Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
+# Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
-A pilot arrived on 30 July: SEAAL signed an MoU with OTEC and Omantel for [automated water-meter reading](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) on a LoRaWAN network, with no site, scale or start date stated.
+Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 
 ## Angola
 
-The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart. No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
+The education ministry and a domestic technology firm [expanded their work on the integrity of the national education database](https://angop.ao/noticias/educacao/med-reforca-a-integridade-da-base-nacional-de-dados/) under a five-year, thirty-country data challenge, with the ministry's planning office as counterpart; [the initiative was launched in Luanda from 5 to 7 August](https://adeanet.org/en/news/angola-embarks-journey-transform-education-data-systems). No data-quality baseline, scope or completion date is published, and no contract or programme document is held.
 
 ## Benin
 
@@ -27,11 +25,7 @@ The tax directorate's information-system modernisation surfaced in the window on
 
 ## Botswana
 
-In the week of 13 July an [animal disease surveillance dashboard was launched, integrating the traceability system with district veterinary networks](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news); the source is a paywalled lede and no coverage or user figure is held.
-
-## Burkina Faso
-
-A [pension acts platform was announced as the completion of the pension programme, joining the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/). No date, budget, vendor or scope is stated.
+The health ministry [signed a ten-year strategic partnership with a foreign health-systems operator](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/). The announcement is the counterparty's; no contract value, list of systems, data-handling terms or governance arrangement is published, so a ten-year commitment sits on the ledger with nothing describing what it obliges either side to do.
 
 ## Burundi
 
@@ -41,17 +35,9 @@ The one new management system in the window sits outside the state's own stack. 
 
 Health and education information systems both gained instruments and neither reports a deliverable. A [EUR 8m technical-assistance agreement over 36 months covers the education management information system, the basic-education ministry's mapping platform, interconnection of the education databases and dynamic dashboards](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base); the funder is not stated and the signature date is not published. The [national digital health strategic plan launched on 4 March with an envelope of about FCFA 29bn across eight axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/), and a [pandemic preparedness project was launched](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) with no deliverable reported. Collection moved where the plans did not: the health ministry [took delivery of nearly 1,000 smartphones on 7 August to run the SCANFORM data-collection system in place of paper forms](https://cameroonpress.com/pres-de-1000-smartphones-pour-accelerer-la-transformation-numerique-du-systeme-de-sante/), across ten regions, 175 health districts and 395 facilities, with over 1,500 health workers to be trained. The counts are the ministry's own and no go-live date is given.
 
-## Cape Verde
-
-The independent health regulator launched a pharmaceutical market monitoring system on 29 July 2026, tracking the national medicines circuit in real time, forecasting stock-outs and triggering replenishment or redistribution across the archipelago, and integrated with the customs system to detect illegal imports. The regulator states it will support development of electronic prescribing and feed its medicines-authorisation function. No cost, vendor, coverage figure or baseline stock-out rate was published, and the wiki holds no first-party document for it, only a wire report a week after launch.
-
 ## Central African Republic
 
 Health information in the window is a single link run by someone other than the state. A remote hospital [is using telemedicine to reach a global network of healthcare professionals](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/), the service run by an international medical organisation rather than the health ministry. One site is a capability and not yet a system: no case volume, connectivity arrangement or continuity plan is published, so what happens to the link when the organisation leaves is not on record.
-
-## Chad
-
-The education management information system is [in use in the higher-education ministry, whose statistics and digitalisation staff were trained between 20 and 25 July](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) on questionnaire configuration, data-entry masks, extraction and database validation. No coverage figure or published output is held, and nothing at all is on file for the basic-education ministry. Electronic medical records and interconnection of health facilities remain [exploratory, discussed on a Washington mission with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/).
 
 ## Comoros
 
@@ -67,7 +53,7 @@ Work began on digitising the national school map, education-sector stakeholders 
 
 ## DR Congo
 
-A seminar opened on 15 July on a [public-enterprise digitalisation plan for 2026-2028](https://rdc-monde.com/rdc-finis-les-circuits-lents-ligf-passe-en-mode-numerique-pour-traquer-la-fraude-et-booster-les-entreprises-publiques/) covering transaction traceability, automated validation circuits and data reconciliation, with no system, budget line or deployment date named.
+Enforcement caught up with the standardised electronic invoice. The finance minister [closed the fiscal clinics and ordered immediate targeted sanctions against non-compliant taxpayers and against tax-administration staff](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions). Naming the administration's own staff alongside the taxpayers is the part worth recording; no compliance rate, sanction count or invoice volume is published.
 
 ## Egypt
 
@@ -101,7 +87,7 @@ An academic review published on 5 August put the child-protection case system on
 
 ## Lesotho
 
-UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
+The national commission [advertised a consultancy to strengthen its capacity to coordinate national monitoring and evaluation reporting](https://selibeng.com/consultant-to-strengthen-nac-capacity-to-coordinate-national-me-reporting/). A tender for the capacity to coordinate reporting is itself a statement that the reporting is not coordinated; no scope, budget or deliverable date is published.
 
 ## Liberia
 
@@ -117,13 +103,7 @@ An assessment put Madagascar's [digital-health maturity at 55.6 per cent](https:
 
 ## Malawi
 
-The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
-
-## Mali
-
-On 8 July the health ministry [launched the national digital health portal](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/) under the national digital health plan 2024-2028, flagging power gaps, the urban-rural divide and weak interoperability as obstacles.
-
-The same 27 July ministry field visit documented a Bamako hospital running registration, laboratory, consultation and pharmacy on a single unique patient identifier.
+Two internal systems are close to the point where they carry real work. The automated human resource and payroll management platform [is in pilot ahead of government-wide rollout](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85), and the Labour Market Information System [reached the final stage before launch after a technical workshop in mid-August](https://www.miragenews.com/malawi-nears-launch-of-labour-market-1732758/). Neither carries a go-live date, a coverage figure or a data-source list.
 
 ## Mauritius
 
@@ -133,21 +113,9 @@ Two sector information systems sit at opposite ends of the same problem this win
 
 The same 50-article digital health bill adopted in the government council on 22 July 2026 creates a shared medical record and a national health identifier under a new digitisation agency ([bill account](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/)).
 
-## Mozambique
-
-A [ten-year digital health strategy is recorded as the operative national instrument](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/), the country's first dedicated one. It is known to the base only through a dated reference directory: the adoption date, the adopting instrument and the text itself are not held.
-
 ## Namibia
 
-The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
-
-The Roads Authority [launched a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
-
-## Niger
-
-On 9 July the health ministry [validated the roadmap of the national e-health master plan 2025-2029](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/), covering 27 structuring projects across health information, interoperability, epidemiological surveillance and cybersecurity.
-
-On 27 July the public service minister [presented the integrated state human resources and payroll system](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/) to the consultative council: a scope of about 200,000 public agents and at least 150 payroll managers, a biometric database against double enrolment, career events cascading into pay, and 16,500 agent files digitised and 23,000 updated so far.
+The Roads Authority [commissioned a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
 
 ## Nigeria
 
@@ -155,27 +123,17 @@ Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-m
 
 The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
 
-## Rwanda
-
-Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/) — against a health ministry statement of April 2025 that [e-Ubuzima was deployed in 15 districts and paper records would be gone from every public facility by December 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). Nothing on file states what was delivered against that date.
-
 ## Sao Tome and Principe
 
 [AFAP extended the deadline of tender ref. 45-G](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) on 7 August 2026 for supply, installation, training and commissioning of a new management-information system for EMAE, the state water and electricity utility. The original terms, contract value and new deadline are not stated in the source held — a scanned procurement notice with no text layer, so only the notice's own headline could be read for this pass.
 
 ## Senegal
 
-In health, a [mortality and cause-of-death analysis tool was trained out on 20 and 21 July](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/), and civil society [called on 23 July for adoption of a digital-health bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) whose status and text are not stated; the ministry has begun building a single patient record ahead of the law meant to govern it.
-
 The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
 
 ## Seychelles
 
 [Firstpost reported on 8 August 2026](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) that bilateral consultations between India and Seychelles on adopting the e-Sanjeevani, e-Office and e-Hospital platforms were advancing, with no MoU, pilot or date yet established.
-
-## Sierra Leone
-
-A digital health programme covering electronic medical records, disease surveillance and telemedicine across 300 facilities [began with satellite connectivity at the first of them on 27 July](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/). One facility of three hundred is the whole of the deployment so far, and [neither account of the launch gives cost, funder, procurement route, contract term or any data-residency arrangement for public health traffic carried by a foreign satellite operator](https://ayvnews.com/health-minister-unveils-starlink-internet-at-jmb-pediatric-excellence-hospital/).
 
 ## Somalia
 
@@ -209,11 +167,11 @@ The modules for a [National Malaria Data Repository were approved](https://www.t
 
 ## Tunisia
 
-Six days before the health identifier's provenance became public, the ministry had said the [Sahetna.tn portal's technical validation and cybersecurity audit were complete](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/), the audit reviewed at a steering committee on 10 June.
+The health estate reported volume and the education estate reported failure. [120,000 remote examinations were carried out across 26 hospitals](https://www.lapresse.tn/2026/08/25/hopital-numerique-120-000-examens-a-distance-realises-dans-26-hopitaux/), with no period, denominator or specialty breakdown stated. The education ministry's school-life platform, launched at the start of the month, was within three weeks [reported failing during the enrolment period](https://www.lapresse.tn/2026/08/26/viescolaire-education-tn-pourquoi-linscription-en-ligne-vire-au-parcours-du-combattant/), with no service-availability figure, incident account or fallback route published.
 
 ## Zambia
 
-The national electronic health record and its hospital tier are migrating onto the new shared 4G network, alongside the network's launch at Ndola Teaching Hospital ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)).
+An emergency outbreak response platform [entered two days of user-acceptance testing](https://www.cidrz.org/2026/08/19/infectious-disease-response-goes-digital/). User-acceptance testing is the last stage before a system becomes someone's responsibility in an emergency; no go-live date, participating facilities or data flow is published.
 
 ## Zimbabwe
 

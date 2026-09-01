@@ -1,17 +1,15 @@
 ---
-title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Other GovTech and e-Gov — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: df4914bc9740
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 83c454650459
 ---
 
-# Other GovTech and e-Gov: monthly update, July 2026
+# Other GovTech and e-Gov: monthly update, August 2026
 
-*51 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -35,11 +33,11 @@ The health ministry's recruitment competition shows what online registration cos
 
 ## Benin
 
-The [justice sector's 2026–2033 plan](https://lematinal.bj/justice-beninoise-de-2026-2033-un-secteur-connecte-et-accessible-pour-tous/) commits to a case-tracking portal, secure hosting of judicial instruments and digitally integrated legal aid. It names no budget, no sequencing and no implementing agency.
+The University of Abomey-Calavi [made its ACTIA platform the sole channel for academic records, by a rectorate note of 31 July 2026](https://fraternite.bj/universite-dabomey-calavi-les-demandes-dactes-academiques-passent-desormais-par-la-plateforme-actia/). Closing the counter is what makes a platform load-bearing, and it is also the point at which anyone unable to use it stops being served; no alternative route for that case is stated.
 
 ## Botswana
 
-The government payroll portal was [taken offline on 22 July, with a privacy notice, an impact assessment, multi-factor authentication and disaster recovery added](https://www.mmegi.bw/news/govt-e-payslip-fails-data-protection-compliance-test/news) and no reopening date stated. Separately, a tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
+A tax adviser's reading of the new Value Added Tax Act, in force since 1 July, [puts mandatory electronic invoicing among the obligations the Act provides for](https://bw.andersen.com/botswanas-new-tax-rules-take-effect/), which would give the revenue service transaction-level visibility as sales occur. No start date, threshold or scope has been published, and the reading is the adviser's rather than the revenue service's.
 
 ## Burkina Faso
 
@@ -49,7 +47,7 @@ The health ministry's accreditation portal, launched on 7 August, arrived with t
 
 ## Burundi
 
-The civil-service ministry [put a set of digitisation claims on the record on 31 July and published the constraints against them](https://lerenouveau.bi/administration-publique-des-reformes-strategiques-en-cours-pour-une-administration-plus-efficace-tournee-vers-les-citoyens/), which is the more useful half. The programme covers performance evaluation of public agents, a job-classification scheme, an annual costed work plan used across public institutions, progressive interconnection of administrative services, and one-stop service desks. The ministry itself names archive management as still largely manual, service digitisation as unfinished and working tools as insufficient. Citizens interviewed framed digitisation as a distance problem: fewer journeys for people living far from administrative centres.
+The revenue authority's online tax platform, live since January, [became the exclusive channel for new taxpayer registrations from 4 August](https://www.burunditimes.com/burundi-revenue-authority-rolls-out-e-kori-digital-tax-platform/). Making a channel exclusive is the point at which a platform's availability becomes a condition of registering at all, and no fallback, uptime figure or exemption is stated.
 
 ## Cameroon
 
@@ -59,10 +57,6 @@ The water utility [began rolling out a centralised commercial platform, WATERIS,
 
 A municipal council [presented a services platform it plans to put into public presentation in October 2026 and into operation by the end of that year, opening with 17 services - applications submitted, cases tracked in real time, payments made and official documents received in digital form with legal validity](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273). It is funded by the UN joint office, whose resident coordinator asked the council to consider integrating further procedures in a second phase, while the minister for family, inclusion, social development and labour argued for keeping and improving traditional counter services for those still facing difficulties with digital access, and for replicating the model in the other municipalities if it succeeds.
 
-## Central African Republic
-
-Modernisation works opened at the central treasury accounting agency on 27 July for an [application deployed for the treasury single account, tied to regional banking rules and integrated with the regional settlement rails](https://www.digitalbusiness.africa/rca-le-tresor-public-integre-lapplication-informatique-jumac-pour-ameliorer-la-gestion-financiere/). Its stated object is centralising state balances and eliminating parallel and opaque accounts. No cost, financier, vendor, timetable or number of accounts closed is stated, and the architecture is explicitly regional rather than national — the public finances plan of June 2025 named six systems and a data centre and no treasury single account application.
-
 ## Chad
 
 The 2027 budget orientations carry three govtech commitments and one system already running. From 2027 the [electronic visa is to be the exclusive channel for application, payment, processing and issue, and business creation fully online end to end](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) — exclusivity stated with no fallback channel, and the base holding no statement on whether an electronic visa operates today. The same text extends the integrated public financial management system, already the mandated expenditure environment, to all institutions, local authorities, public establishments, projects and diplomatic missions, with no coverage figure or count of entities live. Separately a [freight bureau enrolment platform went live for Chadian hauliers working in Cameroon](https://lendjampost.com/transport-une-nouvelle-plateforme-digitale-e-bnft-pour-la-simplification-des-procedures/), presented at Douala, with no services list, deadline, fee schedule or enrolment target stated.
@@ -71,7 +65,7 @@ The platform the state already uses to watch itself surfaced on 7 August, when t
 
 ## Congo
 
-Compulsory electronic invoicing took effect on 1 July for [every economic agent except the state, local authorities on public-service missions and diplomatic bodies](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), three months after its enabling decree, with no phase-in by firm size and no assisted or offline route stated on the accounts held. On the same date a [user guide for the tax filing portal fixed filing regimes, delegation and irreversible submission](https://www.finances.gouv.cg/fr/download/file/fid/10535): one delegate at a time, the legal representative's own rights removed for the duration, and no correction route once a return is sent. The same roadmap [commits civil status, passport, criminal record and company creation as digitised priority services within two years](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses).
+A public-administration digitalisation task force [was gazetted on 6 August, as decree 2026-261 of 29 July 2026](https://sgg.cg/JO/2026/congo-jo-2026-32.pdf). No session of it is on record, and the decree names no deliverable, deadline or budget â€” an instrument creating a body, with the work still to be defined.
 
 ## Cote d'Ivoire
 
@@ -151,9 +145,7 @@ The election system's own procurement stopped moving. The electoral commission [
 
 ## Lesotho
 
-MICSTI hosted the [first national stakeholder consultative workshop on a National Data Value Creation Blueprint](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/) in Maseru on 14–15 July 2026, opened by Principal Secretary Kanono Ramashamole and supported by Smart Africa, the African Union and the German Embassy. A Smart Africa representative is reported saying Lesotho had been selected to participate in the programme alongside Senegal and Kenya; that account of a spokesperson's remarks is the only evidence held for the membership, and no Smart Africa programme document naming Lesotho is on file.
-
-At the CSIRT launch the ministry also stated a plan to move ICT services out of the civil service into a separate agency, for which no enabling instrument or date was given.
+At the launch of the national response team the ministry [also stated a plan to move ICT services out of the civil service into a separate agency](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/). No enabling instrument, budget, staffing or date accompanies it, so the plan is on record and the agency is not.
 
 ## Liberia
 
@@ -182,16 +174,7 @@ Two further builds are financed rather than delivered. The Maritime Single Windo
 
 ## Malawi
 
-Passport printing resumed at Mangochi, stated in Parliament on 20 July, where a member said applicants who filed nine months to a year earlier were being overtaken by same-day issuances. The homeland security minister accepted in principle a sequence number assigned at application.
-
-
-A second paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
-
-## Mali
-
-The same 24 July Council of Ministers session heard the labour ministry report Mali's integrated human resources system to the pan-African public administration forum in Rabat.
-
-On 29 July the Council of Ministers took note of the first published output of the government monitoring system: [43.43% of planned activities completed in the second half of 2025 — 109 of 251, with 83 in progress and 59 not started](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/).
+A paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
 
 ## Mauritania
 
@@ -231,14 +214,6 @@ One portal went the other way. The Court of Cassation's site [has been down for 
 
 The tax authority made the fiscal clearance certificate available online from 3 August with a ten working-day issuance ceiling and a published complaints address ([authority account](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/)).
 
-## Namibia
-
-Legally recognised electronic signatures have [no launch on record, the February 2026 nationwide target having passed](https://itweb.africa/article/ai-abuse-overshadows-namibias-e-signature-drive/P3gQ2qGAR157nRD1), with accreditation of service providers still under way. The capability is now [described instead as a component of the September 2026 identity card](https://informante.web.na/?p=398234) — a target absorbed into another target.
-
-## Niger
-
-On 15 July the tax directorate [convened a national seminar on digitalising the tax administration](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/), its core systems back at full operation after sanctions, with recommendations sought toward a round-the-clock digital tax service.
-
 ## Nigeria
 
 The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) was soft-launched on 30 July as a single sign-on gateway built with Korean financing, piloted since 2025, [the Korean agency named as a delivery partner alongside the communications ministry](https://spacewatchafrica.com/galaxy-backbone-unveils-government-service-portal-to-simplify-access-to-public-services/). Behind the login it integrates with the national data exchange so agencies share citizen data rather than each re-collecting it. The lawful basis and the audit arrangements are unstated, and no published rule answers either.
@@ -246,12 +221,6 @@ The [Government Service Portal](https://www.biometricupdate.com/202607/nigeria-u
 At state level a second donor took the policy layer rather than the platform: on 16 August [the UK opened a digital policy and regulatory reform project with Ekiti State](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/), to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework. Its value and duration are not published.
 
 Two more federal fronts opened in the same week. The communications ministry [launched services.gov.ng as a single point of access to services previously spread across agency websites and offices](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/) — business registration, trade permits, identity verification, regulatory licensing and empowerment programmes — framed partly as a defence against fraudulent look-alike sites. No service count, transaction volume, cost or build attribution is published, and nothing states how it relates to the single sign-on portal soft-launched three weeks earlier. And on 19 August the IT development agency and the Hajj commission [agreed to digitise pilgrimage operations end to end, from registration and payment verification to flight manifests, logistics and pilgrim tracking](https://techafricanews.com/2026/08/19/nitda-and-nahcon-partner-to-fully-digitise-nigerias-hajj-operations/), the commission disclosing that its ICT function runs on two developers. It is an agreement to work together: no scope document, budget, timetable or procurement follows it.
-
-## Rwanda
-
-The government's services portal was reported on 30 July as carrying [more than 600 services, of which more than 240 are paid, across 4,000 agents](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy). The same account records the stack being sold abroad: two neighbours have adopted the electronic billing machine, a third is mid-adoption, and one state has taken the electronic procurement platform and is co-developing it. No revenue or contract value is disclosed for any adoption.
-
-On 20 July an information society authority and a West African digital ministry identified artificial intelligence, electronic health and electronic commerce as areas to explore around that procurement platform — areas identified, nothing signed.
 
 ## Sao Tome and Principe
 
@@ -265,7 +234,7 @@ Parliament's own systems entered the record for the first time, and only as a pu
 
 ## Seychelles
 
-Vice-President Ahmed Afif [announced an eight-week automated traffic-enforcement pilot for Roche Caiman, Mahe, on 30 July](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation), repurposing the public CCTV estate with the Australian firm Acusensus; no data-protection basis for the processing was stated. Permanent adoption depends on the pilot's outcome.
+The social-protection agency [briefed stakeholders on 18 August on a platform to modernise benefit delivery](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery). It is at the briefing stage: no go-live date, caseload or connection to the identity or payment layers is stated.
 
 ## Sierra Leone
 
@@ -276,6 +245,8 @@ Two systems the state watches itself with did move. The audit service's [managem
 ## Somalia
 
 A [national single window is named as planned within a regional trade project, alongside a trade information portal and the existing customs and livestock traceability systems it is to connect to](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). It is stated in an agenda piece by the national trade facilitation coordinator rather than in an instrument, and no design, timetable or budget is published.
+
+The federal electronic visa is running and contested: [a fee exemption for one region is under negotiation](https://raxanreeb.com/dfs-oo-somaliland-kala-hadashay-e-visa-da/). A national travel system whose terms are settled region by region is a federal question before it is a technical one, and no agreed text is held.
 
 ## South Africa
 
@@ -296,10 +267,6 @@ The month's longest departmental procurement went to the least connected populat
 
 The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
 
-## South Sudan
-
-On 20 July revised fees were [published on the electronic visa portal](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/), putting US$50 on citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 on Somali, Burundian and Nigerian citizens.
-
 ## Sudan
 
 [Baladna was adopted as the sole national platform for all foreign-trade transactions on 5 August 2026](https://sudantribune.net/article/317080), with permits issuable from any location, at a finance-ministry-chaired meeting that also resolved to unify state-level border-trade protocols into a single national legal framework. [The Judicial Authority signed a contract with the National Technical Company on 4 August](https://alwatannewssd.com/88831/) for a judiciary digital-transformation project, financed by the finance ministry and vetted by the justice ministry's contracts department, with no value, duration, system list or delivery timetable disclosed. A second procurement system entered service: [Nazaha, a national digital public-procurement and contracting platform, was launched and stated as aimed at transparency and fair competition in the allocation of government contracts](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) (12 August). No coverage, entity count, procurement value or mandatory-use instrument is published for it.
@@ -313,10 +280,6 @@ The central bank [launched a sovereign yield curve system on 7 August](https://w
 Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
 
 The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
-
-## Togo
-
-Two government systems advanced without either being shown in production. [Document management and digitisation training ran at the finance ministry](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives), with no statement that the system itself is live; and the volunteering agency's [mobile application is live](https://www.republiquetogolaise.tg/tic/2707-12130-volontariat-l-anvt-lance-son-application-mobile) carrying four programmes for registration and record tracking, with no formal launch date and nothing establishing whether it authenticates against a national citizen account or mints a separate identity store.
 
 ## Tunisia
 
@@ -338,9 +301,7 @@ The public procurement and disposal authority [partnered with a budget-advocacy 
 
 ## Zambia
 
-A contract tracking and management system was launched with the Ministry of Justice on 12 July for digital submission of government contracts to the Attorney General's Chambers and real-time tracking of approval progress; no volume or turnaround figure was published.
-
-The other movement is at the far end of the network rather than the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
+The movement is at the far end of the network rather than at the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
 
 ## Zimbabwe
 

@@ -1,17 +1,15 @@
 ---
-title: Access to services — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Access to services — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: include.access
-places: DZA; AGO; BWA; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3c3f709296fb
+places: DZA; AGO; BWA; BDI; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZWE
+record: 0aae5618b283
 ---
 
-# Access to services: monthly update, July 2026
+# Access to services: monthly update, August 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -19,7 +17,7 @@ Consumer cloud storage prices were [raised for new subscribers from 27 July 2026
 
 ## Angola
 
-Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
+The identity-card universalisation programme is being reported by throughput: [more than 4,000 cards issued in one municipality in sixteen days](https://minjusdh.gov.ao/web/noticias/programa-de-universalizacao-do-bi-reforca-acesso-a-documentacao-em-egito-praia), with no national total, backlog figure or target date beside it.
 
 The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 
@@ -27,17 +25,13 @@ The telecommunications ministry [opened further computer rooms and free public i
 
 The Ministry of Youth and Gender Affairs [describes the Department of Gender Affairs as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs), the standing institution behind this subject. Nothing else in the inclusion ledger moved in this window; the gender-based violence programme and the one-stop centres both date from earlier in the year.
 
-## Burkina Faso
-
-A financial inclusion agency delivered training and consumer protection this month, not its regulator.
-
 ## Burundi
 
-ABUCO's [statement of 28 July 2026](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) is the month's one dated position on affordability: internet package tariffs have more than doubled since the January 2025 instruction to operators to improve service, while quality fell, and it runs against the service obligations that instruction set. Its president describes the sector as having returned to the situation of the early 2000s and names businesses, traders and public administrations among those affected. The two sources on file attribute that instruction differently, one to the telecommunications ministry and one to the interior minister; no text of it is held.
+A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
 
 ## Cote d'Ivoire
 
-A guarantee arrangement was the month's only committed money in this section. Two conventions signed on 23 July mobilise [up to FCFA 17bn across two windows](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) for small and medium enterprises, with stated attention to women's entrepreneurship; it is an envelope rather than a committed sum.
+Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
 
 ## DR Congo
 
@@ -53,14 +47,6 @@ The country's second innovation hub opened at [Macetjeni in the Lubombo region o
 
 What firms say they need is not more hubs but a network that stays up. At a Mbabane panel on 7 August, logistics, renewable-energy and creator-economy speakers [argued that unreliable connectivity is now a direct cost to business, outweighing any saving from cheaper data](https://independentnews.co.sz/47133/business/reliable-connectivity-now-critical-for-business-growth/), describing real-time fleet tracking, remote solar-system monitoring and social-platform market access as core to operations, and urged investment in rural connectivity to widen economic participation. It is a panel of interested parties, and the base holds no reliability series to test it against.
 
-## Ethiopia
-
-The same coverage recorded the device side: bank financing deals targeting up to two million smartphones a year to low-income citizens on instalment plans.
-
-## Gabon
-
-On 29 July the social affairs ministry presented the first deliverable of the unified social register at Libreville, with World Bank representatives present, alongside a stated commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan ([presentation](https://agpgabon.ga/gabon-protection-sociale-presentation-du-premier-livrable-du-registre-social-unifie-et-du-programme-dacces-aux-agr/)). No beneficiary count, coverage figure or platform was given, and the state's own account uses three different names for the register in the same document.
-
 ## Ghana
 
 The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant beneficiaries in the first half of 2026 and named no allocation at all to the communications ministry, the access fund, the coders programme or the artificial-intelligence strategy.
@@ -68,14 +54,6 @@ The mid-year fiscal review of 23 July recorded GH¢485m paid to cash-grant benef
 ## Kenya
 
 The Auditor-General's findings on the Hustler Fund entered the record on 23 July: [104,631 loans worth KSh 116.5m](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) were issued to borrowers whose national identity details were missing from the customer database, against a 15% default rate and state funding down to KSh 300m in the year to June 2026.
-
-## Lesotho
-
-At Geneva on 9 July the ministry gave its own measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), which it attributed to affordability.
-
-## Liberia
-
-No later figure for account ownership or mobile wallet holding has been published. The base's position rests on the [account of digital finance expansion of 13 July](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/), which carries no measurement of its own.
 
 ## Libya
 
@@ -92,10 +70,6 @@ The first usable figure for how many Malawians are online came from the operator
 ## Mali
 
 The month's one measure of what connectivity costs a Malian is a comparison with the neighbour. About [1.5GB of mobile data in Bamako buys what 25GB buys in Dakar](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) — a ratio of roughly 25 to 1, which critics attribute to weak market oversight by the regulator, the duopoly of the two incumbent operators, and the years since a new operator licence was issued. It is a press comparison rather than a regulator or operator tariff series, and neither the basket nor the date of the prices compared is stated; taken at its own weight it still sits awkwardly against the digital-sovereignty case the same month's fora were built around.
-
-## Morocco
-
-An operator's sustainability report published on 10 July recorded 6,000 internet boxes refurbished in Morocco during 2025, which the operator put at about EUR 1.5m in savings, within a regional programme that refurbished 164,000 boxes in 2025, up 43% on 2024 ([operator report](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient)). The figures are the operator's own and unaudited in the held source.
 
 ## Mozambique
 
@@ -116,10 +90,6 @@ Education added a channel built for the same margins. The education ministry and
 
 What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.
 
-## Niger
-
-On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
-
 ## Nigeria
 
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
@@ -128,13 +98,9 @@ Away from the campuses, German cooperation [opened a tender on 4 August for the 
 
 The accessibility requirement is not reaching the platforms it binds. [None of eight public websites audited in May 2026, among them the admissions board, the identity commission, the revenue service and the disability commission itself, had implemented baseline accessibility features; an earlier assessment of all 36 states and the Federal Capital Territory found 26 non-compliant with the technology agency's website guidelines and 14 sites unusable for people with disabilities; and the Nigeria Web Design Standards, launched in July 2025 with a toolkit promised within eight to ten weeks, had published none by August 2026 with no evidence of Federal Executive Council approval or of implementation](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/). The commission's own estimate is [35 million Nigerians with disabilities](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/).
 
-## Rwanda
-
-Formal financial access was reported at [96% of adults in 2024 against 48% in 2008](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), with 68.5% using a mobile wallet and only about 5% holding a bank account. Against that headline, the agent network contracted at the second operator over the year to March 2026, and the accounts-per-agent ratio widened. The legacy-network retirement plan carries handset-affordability measures, which is the inclusion question the 30 June 2027 deadline turns on: the single figure that would show whether the deadline is achievable — the share of the handset base capable of voice over fourth-generation networks — has not been published by the operator, the ministry or the regulator. [Nothing was published in the month on school connectivity, which stands at 4,184 of 4,996 schools connected as at March 2026, leaving 812 mostly rural against a government target of 80%](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash).
-
 ## Senegal
 
-An [advanced-level digital course for blind and partially sighted people opened on 6 July](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html), on a programme reporting 700 people and twenty trainers trained since its launch. The launch date is not stated, so the cumulative figure has no start point.
+The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
 
 ## Seychelles
 
@@ -157,23 +123,9 @@ The state's own IT agency was told why it cannot deliver. The Public Service Com
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
 
-## South Sudan
-
-The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
-
-Prices completed their third rise of the year and the record still cannot say by how much. Operators [applied the regulator's third and final tariff exchange-rate adjustment phase from midnight on 17 August, raising call and data prices against inflation, currency depreciation and hard-currency access problems](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/). No phase has published its rates. [A 25% cut in December 2025](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/) has now been overtaken three times, which leaves affordability in this market a direction of travel with no quantity attached to it.
-
 ## Tanzania
 
-Financial access points reached [2.27m, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at end-December 2025 — growth that is agent build-out rather than branch build-out, as the council itself says.
-
-## Togo
-
-An operator [added three mobile-money services](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position) — insurance premium payment, withdrawal-card transfer, and gift cards for international streaming and gaming platforms. The account is the operator's own.
-
-## Tunisia
-
-On the cost side, the regulator [reported on 18 July 2026](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) that Tunisia's digital basket costs 1.53% of gross national income per head, about US$5.31 a month — second in the Maghreb and under the two-percent international threshold. The figures are the international union's, cited rather than absorbed as country state.
+Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
 
 ## Uganda
 
@@ -184,10 +136,6 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
-
-## Zambia
-
-The same 27 July account puts financial inclusion at 80.1% of adults in 2025, with mobile money use at 76.2% ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
 
 ## Zimbabwe
 

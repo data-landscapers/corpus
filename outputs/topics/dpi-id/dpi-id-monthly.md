@@ -1,17 +1,15 @@
 ---
-title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Digital Identity and CRVS — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.id
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 5cc3ccffd68c
+places: DZA; AGO; BDI; CMR; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZWE
+record: 2ffd64bdaf1c
 ---
 
-# Digital Identity and CRVS: monthly update, July 2026
+# Digital Identity and CRVS: monthly update, August 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -25,16 +23,6 @@ The single digital identity, named as a workstream since 2024 and as [a componen
 
 The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
 
-## Botswana
-
-Two identity-layer systems showed capacity problems rather than design problems this month. The public accounts committee was told on 30 July that the [national public key infrastructure has P423m secured, control transferred to the intelligence directorate, and no working system, timeline or accountable owner](https://weekendpost.co.bw/p420-million-digital-bombshell/). On the committee's account Botswana has no certificate-backed identity verification and no recognised electronic-signature layer. The ministry's own headline figure appears as both P420m and P423m in the single account.
-
-On 28 July a parliamentary answer put identity-card replacement delays down to [too few production staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439). The delays have run since the start of 2026 and the answer carries no backlog figure, no restoration date and no equipment-replacement commitment.
-
-## Burkina Faso
-
-The Council of Ministers of 30 July also [adopted the decree organising mass registration for the unique electronic identifier](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/), through committees run entirely by public structures so that fingerprint and iris data stay in-country, with mass enrolment targeted before end-2026. Enrolment had not begun as at 5 August, and the decree states no target, budget or supervisory authority. A Nigerien technical mission was received on 30 July.
-
 ## Burundi
 
 Biometric civil registration is [operating in 13 pilot communes, decentralised to zone level and interoperable with health-facility birth and death records, with a national unique identifier planned on fingerprint and facial biometrics](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-digital-civil-registry-and-biometric-id-initiative). The health-facility link is the part with numbers behind it: the interior ministry says it has been [piloted since 2023, institutionalised in 2024, and now runs in 123 health facilities where it has recorded more than 52,000 births](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/). No coverage denominator is given for either figure.
@@ -47,25 +35,9 @@ Two identity operations ran in the month, both municipal. On 27 July [4,000 free
 
 The register underneath both is only now being equipped. On 7 August the United Nations development programme [opened a tender for the equipment of three pilot centres digitising civil-status registration](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center). Three centres is the whole of the stated scope, and the notice names neither their locations nor a value or timetable — against a paper record the base elsewhere shows being used to draw fraudulent payroll claims.
 
-## Cape Verde
-
-The identity stack is unchanged and its next step is undated. The national identity card [keeps its design and legal basis and is now produced domestically and renewable online through the justice portal](https://sniac.cv/cartao-nacional-de-identificacao/), and the [mobile digital key rests on implementing rules of 2022](https://sniac.cv/cartao-nacional-de-identificacao/) with no activation count and no coverage rate held from any date. The authentication platform was [presented at the continental identity meeting with a stated next phase of consolidating existing databases, expanding identity-enabled services and finding long-term financing models](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) — carrying no date, instrument or budget line. The restriction binding the mobile credential to prior card activation is undated on the government page and may no longer hold.
-
-## Congo
-
-The same roadmap names [secure digital identity and a wallet among three digital public infrastructure foundations](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses), with no standing-up instrument, budget or date.
-
-## Cote d'Ivoire
-
-The identification office's director general [put national identification number holders at roughly 11 million](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/) on 30 July and named historic duplicate identities inside the register — the disclosure, not the register, is what is new. The office trained sub-prefects on civil registration on 30 and 31 July, after registrars earlier that week.
-
-## Djibouti
-
-Two interviews of 23 July 2026 put the identity stack on the record in detail. The Direction générale de la Population et de la Famille [enrols fingerprints, iris, photograph and electronic signature into the Registre national des personnes physiques and issues each citizen a national identification number](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/); its director-general states the card has been issued nationwide since 2025 and that mobile kits reach the elderly, the hospitalised and remote populations. Automatic comparison against the national base is returning duplicate registrations, birth-date contradictions decades old, and people who have lived their administrative lives under a dead person's identity; those cases go to the parquet for judicial regularisation.
-
 ## DR Congo
 
-A sector chief in Walikale told the provincial interior division on 23 July that his civil-status office had [no birth registers for several months and had stopped registering newborns](https://actualite.cd/2026/07/25/walikale-labsence-prolongee-de-registres-de-naissance-prive-les-enfants-de-leur-identite); the province promised resupply with no date, and the stated consequences are exclusion from school enrolment and from proof of nationality.
+Identification in the window is a provincial operation rather than a national one. Training of the agents for an operation registering Mbororo herders in Nord-Ubangi [closed at Gbadolite on 17 August](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/). Registering a named population as a distinct category is a decision with consequences beyond the register, and no legal basis, data controller, retention rule or purpose limitation is published for it.
 
 ## Egypt
 
@@ -123,13 +95,7 @@ A second identity register is being built outside the state entirely. On 16 Augu
 
 ## Libya
 
-The national digital identity's [biometric tier is in technical trials with the central bank and several banks, ahead of integration into banking know-your-customer checks](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/). The [same system is named differently in the authority's own April and July releases](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/), which is the only naming the base has for it.
-
-An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886).
-
-## Madagascar
-
-On 27 July the interior ministry reviewed the first phase of adult biometric registration, reporting [more than six million people enrolled against a two-million target across April to June 2026](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html). A second phase is in preparation, supported by the World Bank-financed DECIM project. No cost figure for either phase is reported.
+An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886). It is an outside analysis of published prosecutions rather than an official audit, and no state response to the count is held.
 
 ## Malawi
 
@@ -137,29 +103,15 @@ The registration bureau reported on 13 July 2026 that more than 13.5 million peo
 
 Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The individual fee levels and their previous values are not carried in the record held, so the size of the increase is not established — but the charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the same month the bureau reported approaching universal coverage.
 
-## Mali
-
-On 21 July an editorial account [set out the E-AES passport's specification](https://www.lesahel.org/editorial-passeports-biometriques-aes/): five categories issued under the confederation dispositif, five years, 34 pages, biometrics on chip, to ICAO specification.
-
-On 24 July the Council of Ministers [adopted a draft ordinance formalising the cahier de recensement](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/), the village-level register from which family record books are issued, replacing Loi n06-023 of 28 June 2006.
-
 ## Mauritania
 
 The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
 
-## Mauritius
-
-The same omnibus also makes immigration permits issuable in digital form and imposes a digital travel authorisation on visa-exempt arrivals.
-
-## Morocco
-
-The government council approved a draft decree on 9 July 2026 amending the 2008 biometric passport decree: four languages including Amazigh, an encrypted chip to international civil aviation standard, the holder's address removed from the biodata page and temporary passports abolished ([approval account](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html)). Issuance is expected from August 2026, and the joint body that will set issuance procedures is not yet in place.
-
 ## Mozambique
 
-The identification directorate reported on 23 July that it produced 856,101 identity cards in the first half of 2026 on 813,307 applications, against 730,527 a year earlier, with 297,470 issued free ([directorate account](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/)). On 28 July the President extended free issuance of the identity card, birth certificate and personal certificate to 2027, stating neither the end month nor the deadline it replaces ([presidential announcement](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/)).
+The humanitarian register moved from pilot to a dated launch. Validation of the beneficiary and humanitarian assistance management system [was completed with national launch stated for October 2026](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/), the platform built to interoperate with the national social-support database so that duplicate and fictitious beneficiary registrations can be curbed. No data-protection basis, retention rule or enrolment target is published.
 
-The humanitarian register moved from pilot to a dated launch. Validation of the beneficiary and humanitarian assistance management system [was completed with national launch stated for October 2026](https://www.biometricupdate.com/202608/mozambiques-digital-humanitarian-response-system-set-for-october-launch), the platform backed by the World Food Programme and built to interoperate with the national social-support database so that duplicate and fictitious beneficiary registrations can be curbed. No data-protection basis, retention rule or enrolment target is published.
+Separately the government [opened discussions with a local partner on a mobile digital identity and electronic-signature platform](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure). Discussions are the stage reached: no contract, scope or date is held.
 
 ## Namibia
 
@@ -171,9 +123,7 @@ Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young peo
 
 ## Niger
 
-On 16 July the [president was the first enrollee for the AES biometric passport](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html), a second phase after the identity card, in five categories — ordinary, service, diplomatic, refugee and Hadj — produced by the police security directorate with a Libyan supplier and a local partner; the [prime minister enrolled on 23 July](https://anp.ne/passeport-biometrique-aes-le-premier-ministre-nigerien-zeine-senrole/).
-
-On 27 July an account of the [restructured WURI-Niger project](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) set out the four instruments of April and May 2026 behind it — the civil-status ordonnance and its application décret, and the two décrets creating and chartering ANEI — and the three registers they establish, with population-register enrolment starting in Niamey's five arrondissements.
+The identification agency exists in law. It [was created by decree of 22 April 2026, with its statutes approved by a companion decree](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/), and a national awareness tour is taking the civil-status and identification reforms to the regions, officially launched at Dosso on 14 August. No enrolment figure, budget or operating date for the agency is published, so what has moved is the instrument and not yet the register.
 
 ## Nigeria
 
@@ -254,10 +204,6 @@ A second identifier moved a step behind it. At a ministerial session at La Kasba
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
 
 Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
-
-## Zambia
-
-Nothing published in the window moves the identity position. The most recent enrolment statement remains about 1.5 million of about 20 million people, roughly 7.5%, restated on 27 July ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)), and biometric card issuance remains deferred until after the 13 August election.
 
 ## Zimbabwe
 

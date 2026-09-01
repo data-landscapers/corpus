@@ -1,25 +1,19 @@
 ---
-title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Digital Payments and Fintech — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: dpi.pay
-places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ba1a111bacc3
+places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MOZ; NAM; NER; NGA; RWA; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c392ea7f8376
 ---
 
-# Digital Payments and Fintech: monthly update, July 2026
+# Digital Payments and Fintech: monthly update, August 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
-The Bank of Algeria hosted the [29th ordinary meeting of the Arab Commission for Payment and Settlement Systems](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) in Algiers on 27 July. No instrument was concluded.
-
-## Angola
-
-Two payment milestones fell within a fortnight. The central bank completed migration of domestic payments to the international messaging standard on 10 July across the switch, the exchange and the real-time settlement participants. And on 27 July the [kwanza was formally introduced into the regional real-time settlement system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) — the second currency added since that system launched in 2013 — against 2025 trade and interbank flows with the other fourteen member states of about US$3.77bn across nine currencies.
+The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the base holds, so the level is stated and the direction is not.
 
 ## Botswana
 
@@ -31,7 +25,9 @@ The regional instant-payment rail moved its deadlines rather than its coverage: 
 
 ## Burundi
 
-The same EAC central bank governors [agreed to accelerate the East African Monetary Union roadmap and welcomed progress on the Regional Cross-Border Payment System Master Plan](https://www.rtnb.bi/?mypost?id=529). On their own account the plan's first activities are work plans and resource mobilisation — design, not deployment.
+Three payment rails moved. The national instant payment system, launched publicly in April, [had 17 of 78 licensed institutions live by 4 August, five commercial banks and ten microfinance institutions among them](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank). The central bank [acceded to the pan-African payment and settlement system, with four domestic banks authorised to participate](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/), and [told the regional governors it expects to join the East African cross-border payment network by December 2026](https://www.theeastafrican.co.ke/tea/news/east-africa/burundi-to-join-east-african-payment-network-by-december-2026-5562616).
+
+At the counter, none of that reaches the constraint. Traders at Karusi [report that electronic invoicing machines stop with every power cut](https://abpinfo.bi/2026/08/20/les-coupures-delectricite-compliquent-la-facturation-electronique-des-commercants-a-karusi/), which is the same limit the regulator names for network quality.
 
 ## Cameroon
 
@@ -43,9 +39,7 @@ A domestic entrant arrived on 31 August. A Cameroonian technology company [launc
 
 ## Central African Republic
 
-Mobile money is the salary rail outside the banked areas, and it failed with the network. The most recent enrolment figure held remains [1,702 civil servants in regions without banking services](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf), recorded as a project achievement in May 2025; at the affected town, [prepaid bundles expired unused while the network was down](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/).
-
-On 30 July a memorandum was signed at Bangui covering [digital finance and land banking, presented as mobilising investment for infrastructure while modernising land administration](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/). No commitment figure, disbursement schedule or governance arrangement is stated, and it couples a payments ambition and a land-registry ambition under one offshore private counterparty.
+Electricity bills became payable over mobile money at [a Bangui launch on 4 August, under a contract dated October 2025](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/), a partnership between a mobile operator and the state electricity utility. No tariff, coverage figure or transaction volume is published, and the ten months between contract and launch is the only measure the base holds of what such a build takes in time here.
 
 ## Chad
 
@@ -67,10 +61,6 @@ On 3 August the [public-revenue platform went live on the national payments swit
 
 A private schools federation signed a convention on 21 July putting fee collection onto mobile money in a 200-school pilot from August. The flat FCFA 100 agency fee levied on every mobile-money counter transaction since November 2025 was [documented on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) as authorised by no operator tariff and no regulator, regressive by construction on small transfers.
 
-## DR Congo
-
-A card-network executive confirmed on 2 July a [live use case settling mobile-wallet top-ups in stablecoins in the background](https://www.theeastafrican.co.ke/tea/business-tech/visa-tests-stablecoins-in-drc-for-cross-border-payments-5515040), bypassing correspondent banking. On 14 July a card network and a domestic payments company announced [prepaid card issuance](https://techafricanews.com/2026/07/14/mastercard-and-flash-partner-to-expand-digital-financial-inclusion-in-drc/), the domestic partner serving more than three million customers through 4,000 agents.
-
 ## Egypt
 
 Two things moved on the payment rails. The instant payment network [began crediting inbound cross-border remittances instantly at all banks operating in Egypt](https://gate.ahram.org.eg/News/5541984.aspx). And factoring, where the platform now [vets invoices before financing to enforce the ban on double-funding a receivable](https://www.dailynewsegypt.com/2026/02/08/egypts-fra-launches-digital-factoring-portal-to-curb-financing-risks), against factored paper up 77.8% in 2025 to EGP 132.2bn.
@@ -79,9 +69,7 @@ The operator that builds the state's payment infrastructure also became a lender
 
 ## Eswatini
 
-Three days after the FinScope survey launch, a Ministry of Finance portfolio committee [reported charges differing between institutions for equivalent services and higher than comparable banks in the sub-region](https://times.co.sz/39920/news/cbe-called-to-probe-bank-charges/), recommending the central bank benchmark them against SACU and Common Monetary Area banks within 30 days of adoption. The dated figure on the record is a withdrawal of E4,000 attracting E79 to E89 in fees; the ministry replied that the bank concerned had not raised charges but moved to real-time display of each fee.
-
-Cross-border, an account published on 21 July established two things by implication. Eswatini's central bank governor [discussed leveraging Egyptian experience to accelerate PAPSS accession](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO), which places Eswatini outside PAPSS as at that date. The same account reports low-value Common Monetary Area transactions migrating off domestic electronic-funds-transfer rails onto the TCIB scheme, with no timetable, volume, value or mandating instrument given.
+The mobile money platform moved underneath its users. An operator [completed migration of its money platform to a cloud-native vendor platform across four African markets](https://techafricanews.com/2026/08/21/ericsson-mtn-complete-momo-cloud-migration-across-four-african-markets/), this one among them. No downtime, subscriber count or feature change is stated for the Eswatini market, so the base holds that the rail changed hands technically and nothing about what that cost its users.
 
 ## Ethiopia
 
@@ -91,13 +79,9 @@ The market also drew a new foreign supplier. A South African financial-technolog
 
 Federal authorities began [testing whether a single payment window can serve the whole government, starting with health](https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health). No transaction volume, participating-institution list or rollout timetable accompanies the pilot.
 
-## Gabon
-
-[Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe); of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
-
 ## Gambia
 
-Government collection acquired a fourth channel. The Office of the Accountant General [signed a memorandum integrating the SUTURA platform into revenue collection](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection), reported on 20 July 2026 — domestically built, distributed through the postal service, alongside the Yonna Wallet arrangement of March 2026. The Deputy Accountant General said several commercial banks are already integrated; the text is not held and no go-live date, volume or fee structure is given.
+The country appears here in a survey of other people's pilots rather than in an account of its own. A UN development agency [names a wallet pilot in the Gambia among blockchain-based payment-distribution schemes said to cut distribution costs from about 10% to as little as 2%](https://www.biometricupdate.com/202608/undp-pushes-blockchain-from-dpi-pilots-to-deployment). The cost figure is the agency's own and describes its portfolio rather than this pilot; no caseload, value distributed or evaluation is held for the Gambian instance.
 
 ## Ghana
 
@@ -117,19 +101,13 @@ Card acceptance widened from outside the domestic rails. A commercial bank and a
 
 The strategy that would order all of this is not yet written. The central bank [advertised a four-month consultancy on 14 August to draft a National Payment Systems and Instruments Strategy for 2027 to 2030](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0), with applications closing on the 31st. No text, budget or adoption date exists.
 
-## Guinea-Bissau
-
-Guinea-Bissau's connection to the regional instant-payment rail widened. The BCEAO's [participant list of 31 July 2026](https://ns2.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf) records five institutions authorised to open PI-SPI services to the public - Banco da Africa Ocidental, BDU, Coris Bank, Ecobank and Orabank - against three when the platform opened to the public in September 2025. Guinea-Bissau and Niger hold the joint-smallest national counts on a union list that has more than doubled over the same period, to 104 participants across the eight WAEMU states.
-
 ## Kenya
 
 Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points), five points settling one shilling, recovering KSh 3m in the first week. A second operator launched a merchant wallet on 3 August.
 
 ## Lesotho
 
-Vodacom Financial Services and STANLIB Lesotho launched [Tsetela](https://lestimes.com/?p=91054) at the Mpilo Boutique Hotel in Maseru on Wednesday 22 July 2026 — the date fixed by [Vodacom Lesotho's own announcement of that day](https://www.linkedin.com/posts/vodacomlesotho_mpesa-tsetela-financialinclusion-activity-7485718047811489792-WV1A), against two press accounts that dated it relatively. Eligible individual M-Pesa customers can invest from M50 and Mokhatlo group-savings customers from M300, with balances, daily interest and withdrawals over USSD on *200#. STANLIB Lesotho is licensed by the Central Bank of Lesotho, with segregated investor funds, annual audit and an independent trustee.
-
-Standard Bank's [extension of CIPS renminbi settlement](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) beyond South Africa, reported on 27 July, names Lesotho as one of five added markets.
+The national e-invoicing platform [went to nationwide rollout](https://snitechnology.net/lesotho-introduces-the-lekuka-national-e-invoicing-system/). Nationwide is the supplier's word: no taxpayer count, threshold, phase-in schedule or revenue-authority statement is held, so the base can record that the platform is being rolled out and not how far it has reached.
 
 ## Liberia
 
@@ -142,7 +120,7 @@ The central bank also put on record how the system was built. Its own account is
 
 ## Libya
 
-On 30 July the Central Bank said it had received July disbursement authorisations from the Ministry of Finance and referred them to the commercial banks for execution through Ratibak Lahzi, putting enrolment at [about 1.7 million public employees, 76%](https://www.lananews.com/ar/?p=498421), and said work continues with the ministry to automate complaint intake and the handling of unexecuted salaries.
+Payments moved outward rather than inward. The central bank [is reported to be planning accession to China's cross-border interbank payment system after talks with the People's Bank of China](https://www.scmp.com/news/china/diplomacy/article/3364171/why-chinese-yuan-could-soon-be-africas-most-important-currency). The account is a foreign newspaper's: no Libyan statement, timetable or membership step is held, and nothing is said about what it would mean for settlement currency or correspondent banking.
 
 ## Madagascar
 
@@ -157,19 +135,9 @@ Two things moved in the regional rails above it. The regional clearing house [pu
 
 The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
 
-## Mali
-
-On 27 July a ministry field visit [recorded the social security fund's bank-payment pilot for pensions as complete](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) and ready for phased rollout.
-
-## Mauritius
-
-The [omnibus bill of 24 July](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) puts the National Fintech Governance Committee on a statutory footing from 1 September 2026 — minister-chaired, seating the central bank governor, the financial regulator's chief executive, two ministries, the investment board and four private-sector members, empowered to approve sector-wide standards, and expressly not a body corporate. It was announced with the [fintech strategy on 25 June](https://www.wearetech.africa/en/fils-uk/news/tech/mauritius-unveils-national-fintech-strategy-to-modernize-payments) and reached statute within a month.
-
-On cross-border payments the state operator [announced a Mauritius-Seychelles corridor as a launch](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/); no corroborating record from the partner fintech or either central bank is on file. A [South African Reserve Bank spokesperson said on 29 July that Mauritius is among four states considering onboarding to the Southern African settlement system](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) by end-2027 — another central bank's account of Mauritian intent.
-
 ## Mozambique
 
-The National Payments System Law took effect on 2 July 2026, replacing the regime in force since 2008 and extending the central bank's inspection and supervision over electronic-money institutions and new payment service providers ([enactment account](https://clubofmozambique.com/news/mozambique-cybercrime-and-cybersecurity-laws-national-payments-system-law-signed-into-force/)). On 30 July the central bank reported the instant payment system carrying more than 11,000 transfers a day, a tripling since it entered production in March ([communique account](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
+Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the base holds here.
 
 ## Namibia
 
@@ -212,23 +180,11 @@ Effective 14 July the central bank [designated one rail as the national instant 
 
 The layer the rail does not touch moved the other way. Regulator statistics for the first quarter of 2026, reported on 31 July, [put the second operator's share of the mobile-money market at 14.3% against 16.9% a year earlier, and its active agents at 48,847 against 53,316](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/) — a contraction in the cash-in and cash-out network on which rural households depend, over exactly the period interoperability was meant to help.
 
-## Senegal
-
-Digital settlement on the Dakar rapid-transit network reached [39% after a super-app was integrated on 15 July](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), against 10% previously, on a network carrying up to 300,000 passengers daily.
-
-## Seychelles
-
-[NPCI International and the Central Bank of Seychelles signed a UPI memorandum during Prime Minister Modi's visit on 29 June 2026](https://africabusinessinsight.com/seychelles-upi-launch-2026/), targeting a rollout by the end of the year. Acting Commissioner General Fred Morel confirmed the [Revenue Commission's mandatory e-invoicing procurement had reached its final stage by 23 July](https://www.nation.sc/articles/31652/src-moves-to-final-stage-of-einvoicing-procurement), following an Expression of Interest opened in March. Cabinet approved amendments to the Foreign Exchange Act 2009 on 22 July, widening the "authorised dealer" definition to credit unions and licensed payment service providers.
-
 ## Sierra Leone
 
 A re-platforming of the national payment rails — real-time gross settlement and automated clearing — is reported to have been contracted in early August, but no award notice from the Bank of Sierra Leone or the procurement authority is published, and the aggregator listing that carried the figures is not an origin this base accepts. The award is not held, and no amount, supplier or scope is stated here on that basis.
 
 The same 4 August ministerial statement [disclosed about 390 Orange mobile-money fraud complaints logged in 2026 to date and more than 18,000 police requests for subscriber data answered](https://sierraleoneconcordtimes.com/government-unveils-multi-agency-strategy-to-tackle-rising-cyber-fraud/).
-
-## Somalia
-
-On 26 July the Central Bank set out how the instant payment system is to reach the whole market: [14 commercial banks and eight mobile money and e-wallet providers once integration completes, on ISO 20022, carrying person-to-person, merchant, government-to-person and person-to-government flows, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The system is operated by the Somalia Payment Switch, a joint venture of the Central Bank and 13 commercial banks, which the Governor described as a deliberate choice over central-bank-run infrastructure. One commitment is stated and undelivered: mobile money integration carries no published date.
 
 ## South Africa
 
@@ -242,7 +198,7 @@ A second QR estate surfaced beside the bank-led standard. A proprietary scheme [
 
 ## South Sudan
 
-On 25 July, following a resolution of the Ministerial High-Level Committee on Economic Reform, the revenue authority [barred cash payment of tax at its offices](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/). Liabilities in South Sudanese pounds must be deposited at designated banks and evidenced by an official slip before a receipt is issued; dollar-assessed taxes keep existing arrangements, and digital payment through Capital Pay continues. The authority states it as temporary.
+Financial technology gained a supporter rather than a system. Support for the sector [was reported in August from a foreign government](https://www.itweb.africa/article/uk-supports-south-sudan-fintech/dgp45qaBlN9vX9l8), with no value, instrument, recipient or programme document held. Separately the national payment system bill [went through a five-day validation workshop in Juba](https://itweb.africa/article/south-sudan-pushes-cashless-transition/nWJad7bNDyL7bjO1) and remains a bill.
 
 ## Sudan
 

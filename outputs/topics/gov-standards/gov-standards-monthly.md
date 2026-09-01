@@ -1,29 +1,19 @@
 ---
-title: Standards — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Standards — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: gov.standards
-places: DZA; AGO; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; UGA
-record: 99f659b0b138
+places: AGO; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA
+record: 9e75af96f884
 ---
 
-# Standards: monthly update, July 2026
+# Standards: monthly update, August 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Algeria
-
-Progress on a national accreditation, conformity and certification network and its GEOLAB platform was reviewed at the 23 July Council of Government sitting.
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
 The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
-
-## Benin
-
-Interoperability gained its rules and its gatekeeper in the same month. The [conditions of access to the national exchange were published on 28 July](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj): registration in the interoperable-solutions catalogue, demonstrated data governance, compatible infrastructure, and a convention per exchange naming data, purposes, responsibilities and security measures — and, for a private body, an adhesion convention plus data-protection authority authorisation before first connection. That places the authority inside the technical onboarding path rather than at the end of it as a complaint channel. No fee schedule, processing time or count of authorised participants is stated. The [national root certification authority and trust services are operating](https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation), and architecture and application-integration referentials went out to consultation on the same date, intended to end siloed platform-building.
 
 ## Cape Verde
 
@@ -37,11 +27,9 @@ Two of the operators visited said they had not been told registration was requir
 
 ## Cote d'Ivoire
 
-On 29 July the agency [set a target of 1,200 certified cyber-security specialists in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/), with 88 auditors certified that day.
+Migration data was the month's standards work, and it is regional. Two workshops [ran at Abidjan from 18 to 22 August on harmonising migration and macroeconomic data across the regional bloc](https://ang.gw/cote-divoire-cedeao-rumo-a-harmonizacao-dos-dados-migratorios-e-macroeconomicos/). A national migration data governance strategy [was named by the diaspora directorate at a profiling workshop](https://www.linfodrome.com/societe/124564-cedeao-abidjan-accueille-une-reunion-regionale-sur-les-donnees-migratoires-et-la-mobilite-internationale), but no text, timetable or adopting instrument is held for it.
 
 ## DR Congo
-
-The telecommunications regulator set on 22 July a [binding escalation path for consumer complaints: the operator first, up to 30 working days, then referral to the regulator](https://progreseco.com/face-aux-abus-de-services-des-telecoms-et-de-la-poste-les-usagers-appeles-a-porter-plainte-aupres-de-larptc/).
 
 The telecoms regulator [installed equipment giving it near-real-time access to mobile operators' own data](https://decrypt-eco.net/2026/08/25/qualite-internet-le-gouvernement-ausculte-les-reseaux-mobiles-avec-de-nouveaux-equipements-de-controle/) on service quality, traffic flows and spectrum, which the ministry says will let it establish breaches objectively rather than on operators' own reporting. No first enforcement action or published measurement has followed.
 
@@ -57,17 +45,9 @@ A quality-of-service regulation of 2018 is [confirmed in force on the regulator'
 
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
 
-## Ethiopia
-
-[National livestock data standards were endorsed and cascaded on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) on a training-of-trainers model, with more than 300 experts and data collectors trained. The national identity credential is separately [described as the flagship deployment of the open-source identity platform it is built on](https://www.youtube.com/watch?v=B_iGkxWXNbg) and the reference implementation others point to.
-
 ## Gabon
 
 Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
-
-## Ghana
-
-The central bank's [cyber and information security directive is in force](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) as the country's first comprehensive artificial-intelligence governance framework for financial institutions, carrying cloud-security rules, proportionality by size and risk, and mandatory board-level accountability. Against that, the communications minister [named a national data exchange hub again on 29 July](https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/) as something government plans to establish, with no design, cost or timetable, and without saying whether it revives the system launched in 2009 or replaces it.
 
 ## Guinea
 
@@ -88,17 +68,13 @@ On 2 August the Municipal Guard's Investigation and Information Gathering Office
 
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
 
-## Mauritius
-
-And the model-as-a-service work billed as a telecom first was [announced on 20 July](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/) as work to define conformance criteria for a framework that does not yet exist.
-
 ## Mozambique
 
 The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
 
 ## Niger
 
-On 27 July the regulator's verification campaign opened against the [mises en demeure served on all four mobile operators on 10 June 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/). [Persistent breach exposes an operator to a fine of 1 to 3% of prior-year turnover, partial or total licence suspension, a shortened licence term, or definitive withdrawal by the Council of Ministers](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/).
+The regulator's quality-of-service thresholds are not held. Its 2021 annual report [names the decision that sets them and what it does, but not its threshold values](https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf), and the regulator's own site does not surface the 2026 formal notices either. The standard the operators are being measured against cannot be read off the record, and neither, therefore, can the finding that they failed it.
 
 ## Nigeria
 
@@ -116,10 +92,6 @@ Senegal adopted [non-binding Francophone West African AI governance guidelines o
 
 Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
 
-## Sierra Leone
-
-The [national open-source software policy for the public sector is in force](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), approved in 2025. No compliance or adoption reporting has been published against it.
-
 ## Somalia
 
 The auditor general's office and a partner supreme audit institution [completed the third phase of a cooperation programme on auditing government information systems](https://arlaadimedia.com/2026/08/23/somalia-turkey-strengthen-cooperation-on-digital-auditing/). No audit report, scope or next-phase date has been published.
@@ -131,11 +103,3 @@ Parliament's communications committee [prefers strengthening the existing regula
 ## Tanzania
 
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
-
-## Togo
-
-The same Council of Ministers session of 30 July [adopted a decree instituting a national conformity-assessment mechanism](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) covering pre-market assessment and traceability for local and imported products, again with no number, text or entry-into-force date published. Against that, the [national frequency allocation plan is held in full](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf): 197 pages transposing the 2023 world radiocommunication conference, with an explicit civil and military sharing column and new bands for 5G, high-altitude platforms and inter-satellite links.
-
-## Uganda
-
-On 30 July the transformation programme secretariat reported that its review of quarterly submissions under the fourth development plan [found gaps and inconsistencies in the data ministries and agencies submit through the national monitoring and evaluation system](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/), naming no error rate and no remediation date.

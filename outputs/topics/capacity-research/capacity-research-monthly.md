@@ -1,25 +1,15 @@
 ---
-title: Research institutions — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Research institutions — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: capacity.research
-places: BDI; CMR; CAF; COG; CIV; GNQ; ETH; KEN; LBY; MOZ; NER; RWA; SEN; SOM; ZAF; TZA; ZMB
-record: a0b10c87653d
+places: CAF; COG; CIV; ETH; KEN; LBY; MOZ; NER; RWA; ZAF; TZA
+record: f71e4011ae71
 ---
 
-# Research institutions: monthly update, July 2026
+# Research institutions: monthly update, August 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Burundi
-
-The research capacity the AI strategy assumes showed itself once this month, [outside the state](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/).
-
-## Cameroon
-
-Two research builds were tabled in the same cabinet review list — a [sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) — with no cost, site or timeline for either.
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Central African Republic
 
@@ -33,15 +23,11 @@ Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for
 
 The cyber agency and a technology school validated curricula for two cyber-security master's degrees on 28 July, with enrolment stated for the September 2026 academic year and no intake size or funding published.
 
-## Equatorial Guinea
-
-[GITGE's deputy director-general presented doctoral findings](https://realequatorialguinea.com/tecnologia/avante-reune-a-actores-del-mundo-de-las-tics-para-analizar-la-transformacion-digital-en-guinea-ecuatorial/) at the AVANTE forum on 22 July on big data, interoperability and digital identity in the public administration, arguing that the constraint is structural gaps and elapsed time rather than technology.
-
 ## Ethiopia
 
-The FY2026/27 federal budget ratified on 7 July [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) — domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. A national AI policy was adopted in 2024 and the AI institute has operated since 2020.
+University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
-Nothing moved on the national AI policy itself, on the model-development side, or on which foundation models the country runs.
+Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) â€” domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
 
 ## Kenya
 
@@ -63,14 +49,6 @@ The [Council of Ministers of 21 August 2026 took decisions on research and innov
 
 An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
 
-## Senegal
-
-The council of ministers of 29 July [proposed a national research and innovation fund alongside applied research laboratories](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026). Neither is an adopted instrument, and no budget or date attaches to either.
-
-## Somalia
-
-The Somali National Bureau of Statistics closed a three-day technical workshop on 30 July under a [university research partnership, training researchers from three partner universities in methodology, statistical analysis and scientific writing, and in working with the bureau's own household budget and labour force microdata](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/). It is a pilot funded by the Swiss development agency with no amount stated. What it implies about the constraint is the substantive part: official statistics exist and are being offered to domestic researchers, which puts the limit on evidence-based policy at national analytical capacity rather than at data collection.
-
 ## South Africa
 
 The month's one research measure is about the literature rather than the country. A twenty-year bibliometric review [places South Africa 18th worldwide and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). The same review finds refugees, people with disabilities, older people and racial and ethnic minorities notably underrepresented in that literature, so the ranking counts output and not coverage of the populations whose privacy is least protected.
@@ -78,7 +56,3 @@ The month's one research measure is about the literature rather than the country
 ## Tanzania
 
 A national institution of science and technology was [selected as the country's only member of the global AI capacity development network, announced at its graduation ceremony on 22 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-enters-global-ai-network-to-drive-digital-transformation-5567548). The network is supported by the UN office for digital and emerging technologies, was itself launched in July 2026, and works across AI foundations, AI enablers, capacity development and open science.
-
-## Zambia
-
-The revenue authority signed a research memorandum with an international tax and development centre on 17 July, accompanied by a non-disclosure agreement, so whether taxpayer microdata moves is not disclosed.

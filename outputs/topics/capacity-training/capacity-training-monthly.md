@@ -1,17 +1,15 @@
 ---
-title: Training and skills — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Training and skills — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: capacity.training
-places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: d90af96c561c
+places: AGO; BEN; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
+record: 9aa1254c38fe
 ---
 
-# Training and skills: monthly update, July 2026
+# Training and skills: monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -19,35 +17,15 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 
 ## Benin
 
-The [first national artificial-intelligence olympiad was held on 9 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). No entry numbers, institutions or results are published.
-
-## Botswana
-
-A [P654.4m contract was awarded by direct procurement on 25 June for a STEAM e-learning, coding and robotics programme](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day and the decision published on 8 July. The Court of Appeal cleared the procurement route about six months earlier; that judgment is not held, and this rests on a paywalled lede.
-
-## Burkina Faso
-
-The Prime Minister's office ran a two-day session for its senior managers on 13 and 14 July on management tools for ethical and responsible artificial intelligence, a second round after a first for all staff. A parliamentary technology body [trained about thirty lawmakers on 16 July](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) to prepare their review of future legislation.
-
-An operator digital centre marked five years of operation at a ministerial visit on 4 July. The Council of Ministers of 23 July approved the statutes of a technology academy, with no intake, curriculum or budget on record.
-
-## Burundi
-
-Vietnam reports that what it has delivered under the November 2024 memorandum is [policy transfer rather than build: drafting experience, reference materials supplied to Burundian agencies, 50 desktop computer sets, and Master's scholarships in computer science](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
+Two cohorts opened in the month, both small and both institutional. The state information-systems agency [began a certification programme for 25 departmental information-security officers on 3 August](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), and the capital's town hall [opened an artificial-intelligence academy for 60 secondary pupils on 19 August](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains), framed on urban problems. Neither publishes a curriculum, a completion standard or a plan for a second cohort.
 
 ## Cameroon
 
-The AI workforce target was carried into the same cabinet review without moving: [60,000 specialists by 2040 including 40% women](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain) was set in July 2025, and a year later [AI modules in curricula appear among ten priorities with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy).
-
-What was delivered was smaller and dated. A first implementation wave under an operator and higher-education memorandum [opened 115 internships across all ten regions on 22 July](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/), in disciplines from telecommunications and cybersecurity to finance and law; no stipend, duration or conversion-to-employment figure is published.
+Training moved as a building rather than as a cohort. Stakeholders [met on 20 August on a public-service digital training campus and its learning platform](https://globalinfosnews.com/smart-campus-lms-formation-4-0-la-mutation-numerique-des-agents-publics-camerounais-est-en-marche/). No site, budget, curriculum or intake is published, so what the base holds is an intention with a meeting behind it.
 
 ## Comoros
 
 Two pupils of the private école Mouigni Baraka, Anmar Mohamed and Hafsoit Idrisse, [became Comoros's first entrants to the International Olympiad in Artificial Intelligence, competing at the third edition in Astana, Kazakhstan, from 2 to 8 August 2026](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html), selected from four shortlisted candidates drawn from several schools. The delegation was led by Chamsoudine Soudjay, secretary-general of the Association comorienne des technologies de l'information et de la communication (ACTIC), and entered through the Olympiad's GAITE (Global AI Talent Empowerment) programme for emerging nations, with the participation funded jointly by ANADEN, its supervising ministry and ACTIC Academy rather than by any domestic training programme. No result is on record, and the competition's own close falls after this window.
-
-## Congo
-
-The national cybersecurity training plan is inside [that tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1). The country has neither a strategy nor a training plan, and both are being written under a donor-financed contract whose value is not published.
 
 ## Cote d'Ivoire
 
@@ -95,10 +73,6 @@ More than 130 young people have been [trained in cybersecurity, networks, artifi
 
 Training capacity was the month's activity. A youth agency [signed for 2,000 vendor-certified microdegree places on 14 July](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — Ghana taking 2,000 of the 3,000 allocated to the whole continent — fully government-funded, with 600 paid internships and a five-region pilot, and no programme cost disclosed. [A university became the first tertiary institution to embed the national coders programme permanently in its curriculum on 29 July, receiving a further 2,000 laptops the next day](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/).
 
-## Guinea
-
-The [software-engineering school Holberton opened its Conakry campus on 16 July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/).
-
 ## Kenya
 
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
@@ -143,13 +117,9 @@ The university opened the first edition of a summer school on language models fo
 
 The incumbent operator opened a national cybersecurity and artificial-intelligence awareness programme for secondary students with the education ministry, [starting on 13 August at the Mahatma Gandhi Institute with about 500 Grade 10 to Grade 12 students drawn from all four education zones](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), and free ten-hour AWS training on offer alongside. A [companion account of the same workshop](https://lexpress.mu/node/561500) describes its content as online risk and responsible use of new technologies. It is an operator-run programme rather than a curriculum change, and no full-year target, budget or evaluation is stated.
 
-## Morocco
-
-The ministry signed a memorandum with a consultancy in Rabat on 17 July 2026 covering artificial-intelligence skills-building across administrations, universities and research centres, support to institute-backed start-ups and public-service use cases, with no value, term, headcount target or delivery milestone disclosed ([memorandum account](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini)).
-
 ## Mozambique
 
-The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
+The European Union digital programme's training reached delivery. [Pilot training was delivered and assessments completed under the digital skills curriculum](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so no cohort size, completion rate or date can be placed against it.
 
 ## Namibia
 
@@ -157,7 +127,7 @@ A private provider [opened an artificial-intelligence academy in Windhoek](https
 
 ## Niger
 
-Skills work in the window travelled rather than sat still. The Niger Digital Day caravan [opened its Maradi stage as a two-day youth digital-skills programme its organisers say will run in all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/). Coverage and reach are the organisers' own figures and no per-stage completion count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
+Skills work travelled rather than sat still. The Niger Digital Day caravan [trained 140 young people at its Tahoua stage on 25 August](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/), one leg of a programme its organisers say will run in all eight regions and reach more than 800 young people. Coverage and reach are the organisers' own figures and no completion or follow-up count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
 
 ## Nigeria
 
@@ -172,10 +142,6 @@ Where training did continue it went to the top of the system rather than the bot
 ## Senegal
 
 Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
-
-## Seychelles
-
-The AI Teacher Coach and AI Student Tutor pilots that feed into the AI in Education Framework were both reported already running when State House described the Framework on 31 July 2026 — the Teacher Coach across six schools, the Student Tutor across four — with no exact start dates given for either.
 
 ## Sierra Leone
 
@@ -202,13 +168,11 @@ The industry association put up a route of its own, [launching a portal to link 
 
 ## South Sudan
 
-On 30 July the Central Equatoria state ministry of information [announced a Digital Innovation for Skills and Knowledge programme](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/): three digital skills centres in Juba and Yei training more than 8,000 people, put by the state information minister at 5,000 residents and 3,000 civil servants. [The implementing partner put the budget at US$2,806,100](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/). No financier, signed commitment or start date was named.
+Two private training deliverables closed the month. A mobile operator's money arm [graduated 1,225 entrepreneurs from a digital-finance skills programme on 24 August](https://techafricanews.com/2026/08/24/mtn-momo-equips-1225-entrepreneurs-digital-finance-skills/), and the same operator [opened an ICT hub at Aweil in Northern Bahr el Ghazal](https://techafricanews.com/2026/08/31/mtn-south-sudan-launches-aweil-ict-hub-to-boost-digital-skills-and-youth-innovation/). Both are the operator's own programmes and its own figures; no state training line stands beside them on this ledger.
 
 ## Tanzania
 
-The Zanzibar postgraduate technology campus graduated its second cohort on 5 July: [129 students, about half from East Africa and 30% women, with a stated aim of 100 startups](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692). The figures are institution-reported and unaudited.
-
-Training opened in Dar es Salaam on 27 July for [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://dailynews.co.tz/tanzania-builds-cyber-resilience/). No budget, duration, certification or repeat cadence was stated.
+Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the base can date the commitments and cannot size them.
 
 ## Tunisia
 
@@ -224,7 +188,7 @@ An operator's programme published a cohort figure on 31 August. It [graduated 50
 
 ## Zambia
 
-On 20 July the state ICT institute reported training 146 public officers across three district administrations of Southern Province; no cumulative national total is published.
+Training in the window is a private programme rather than a state one. A ride-hailing company's fellowship [expanded to six African countries and selected its 2026 cohort](https://techafricanews.com/2026/08/31/yango-fellowship-expands-six-african-countries/), this country among them. No Zambian intake figure, curriculum or placement outcome is published, and no state training total sits on the ledger for the month.
 
 ## Zimbabwe
 

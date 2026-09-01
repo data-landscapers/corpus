@@ -1,27 +1,19 @@
 ---
-title: Digital divides — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Digital divides — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NER; NGA; SEN; UGA; ZWE
-record: 956eeb75557c
+places: AGO; BDI; COD; EGY; SWZ; GHA; KEN; MWI; MOZ; NER; NGA; SEN; UGA
+record: 72d6706fc9a6
 ---
 
-# Digital divides: monthly update, July 2026
+# Digital divides: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
-Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
-
-The programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and a connection under way at [Quirimbo municipality in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports.
-
-## Botswana
-
-Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). [They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers](https://dailynews.gov.bw/news-detail/92351); no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
+The satellite programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and [a connection at Quirimbo in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports, so the programme's reach can be dated and not sized.
 
 ## Burundi
 
@@ -38,10 +30,6 @@ Accessibility followed a similar pattern of demonstration without obligation. On
 ## Eswatini
 
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
-
-## Ethiopia
-
-A refugee-inclusion framework launched 16 July made the credential central to a state-led model for 1.1m refugees and 2m internally displaced people.
 
 ## Ghana
 
@@ -88,7 +76,3 @@ The month's one inclusion measure came from the despatch box rather than a surve
 A tower company [remitted UGX 20.9 billion to the universal service fund](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/), its statutory 2% of gross annual revenue, at a handover reported on 31 July. [The regulator's executive director stated at the same event that half of that 2% goes to the Consolidated Fund and only half is retained to finance the fund, and put cumulative programme reach at laboratories in more than 1,000 public secondary schools](https://techafricanews.com/2026/08/05/atc-uganda-contributes-ugx-20-9-billion-to-advance-digital-inclusion/). The period the payment covers was not published.
 
 Money went the other way as well. An implementing partner's account of 12 August reports that [work on connectivity and digital inclusion in Uganda slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. What is described as lost is the convening as much as the money. No replacement funder is named and no Ugandan figure is given.
-
-## Zimbabwe
-
-The 2025 household survey puts [household internet access at 75.5% and mobile handset ownership at 96.4%, rural 94.5% against urban 99.2%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). Computer ownership is the divide the handset figures conceal: [11.2% of households, urban 21.2% against rural 4.7%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). The two measures are five years apart and the intervening trend is not held.

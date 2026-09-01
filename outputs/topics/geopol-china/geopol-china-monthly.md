@@ -1,17 +1,15 @@
 ---
-title: China activities — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: China activities — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: geopol.china
-places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; NGA; SEN; SSD; ZMB; ZWE
-record: 6968b77c619d
+places: DZA; BWA; BFA; TCD; KEN; NER; NGA; SEN; SSD; ZMB; ZWE
+record: 317502fe6d01
 ---
 
-# China activities: monthly update, July 2026
+# China activities: monthly update, August 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -25,37 +23,13 @@ China's ambassador [publicly offered AI cooperation in smart mining, digital gov
 
 The month's only Chinese item is an approach rather than an agreement: the communications minister and a Burkinabe delegation were [received at a Chinese broadcaster's Beijing headquarters on 22 August 2026 to examine partnership in audiovisual and digital broadcasting, the exchanges going to the terms of collaboration with the national broadcaster and the national transmission company](https://www.sidwaya.info/pekin-le-ministre-de-la-communication-en-visite-chez-loperateur-de-diffusion-startimes/). No memorandum, commitment, value or timetable is stated.
 
-## Cape Verde
-
-On 29 July the Prime Minister and Finance Minister received a Huawei delegation, reviewed what the government describes as a strategic ICT partnership and were introduced to a new country representative. No agreement, project, sum or timetable was named; what the account records is access and continuity rather than a transaction. The last dated Chinese technology commitment the wiki holds for Cape Verde closed in 2021.
-
 ## Chad
 
 The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
 
-## DR Congo
-
-On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route — 1,700 km along the Congo River plus nearly 400 km terrestrial — at a stated US$1.5bn, with more than US$400m required for the first phase](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river). Both figures are company-reported, and there is no financing close, contract or works.
-
-## Ethiopia
-
-Ethio Telecom and Huawei were reported on 15 and 17 July to be widening a network-equipment relationship into cloud, AI, cybersecurity, IoT, data-centre services and digital platforms for enterprises and small businesses, with mobile-money integration for payments and e-commerce. It is explicitly scoping rather than an executed agreement, and no value or term is disclosed. The vendor that supplies the radio network would supply the enterprise cloud and AI layer above it.
-
-A separate data-centre track with Inspur and Shandong was reported on 16 July.
-
-Nothing moved on the third-operator question, on satellite licensing, or on the fibre corridor whose binding agreement was February's news.
-
-## Gabon
-
-One of two accords signed on 14 July on the margins of the open-innovation programme's launch was with an equipment supplier, to create smart rooms, deliver training in networks, cybersecurity, artificial intelligence and software development, and supply its certifying training kits ([account of both accords](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques)); its terms were not published — no room count, trainee target, cost or duration.
-
 ## Kenya
 
 The e-commerce cooperation memorandum with China was [cited as the basis for dispatching eighteen ICT officers to Shandong](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/), framed inside the digital master plan. The memorandum's signature date, terms and text are not held.
-
-## Namibia
-
-The President met a vendor's executives in Shenzhen on 7 July and urged the company to create artificial-intelligence jobs and skills for Namibians; the Presidency acknowledged a Chinese contribution of CNY 98,000,000 to the Windhoek smart-city pilot, given by the source as about US$14.4m in 2026 ([Presidency account](https://www.namibian.com.na/nandi-ndaitwah-pushes-ai-jobs-in-huawei-talks/)).
 
 ## Niger
 

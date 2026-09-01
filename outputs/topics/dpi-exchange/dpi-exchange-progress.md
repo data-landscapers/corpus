@@ -1,23 +1,21 @@
 ---
-title: Data Exchange — progress report, 2025-08-01 to 2026-08-31
-compiled: 2026-08-31
-period: 2025-08-01 to 2026-08-31
+title: Data Exchange — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: dpi.exchange
 places: XAF; XSA; XWA
-record: aa1164f17bf6
+record: bfdfcda4752d
 ---
 
-# Data Exchange: progress report, 2025-08-01 to 2026-08-31
+# Data Exchange: progress report, 2025-09-01 to 2026-09-01
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
-*The place reports do not share one window; the period above is the range they span.*
-
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |
@@ -31,7 +29,7 @@ record: aa1164f17bf6
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | COMESA Digital Information Knowledge and Collaboration Platform | Did not exist | [The secretariat has invited technical and financial proposals from eligible firms to develop the platform under contract reference CS/CC/06/(846-2026), with the minimum technical requirements set out in terms of reference annexed to the request. No budget, timetable, award or scope beyond the title reaches the base](https://www.comesa.int/consultancy-for-the-development-of-comesa-digital-information-knowledge-collaboration-platform/) | ***Baseline not held*** |
 | One-stop border posts and digitised border systems | ***Baseline not held*** | [A chairship priority tying one-stop border posts to the corridor trip monitoring system that integrates transport, immigration and customs data, to online permitting and operator accreditation, to one member's electronic visa and travel authorisation, and to a proposed regional tourism visa, with progress to be measured in border-crossing times reduced rather than agreements signed](https://www.sanews.gov.za/south-africa/sadc-seeks-turn-borders-gateways-trade-travel-and-regional-integration) | ***Baseline not held*** |
@@ -39,6 +37,6 @@ record: aa1164f17bf6
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Advanced, marginal |

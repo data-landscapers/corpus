@@ -1,17 +1,15 @@
 ---
-title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Cybersecurity — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: da9596922d82
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c1fc4a3e268e
 ---
 
-# Cybersecurity: monthly update, July 2026
+# Cybersecurity: monthly update, August 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -45,15 +43,9 @@ The building meant to carry the supervision got its first progress statement in 
 
 Alongside the build, the state published a count of what it has tested. [205 state digital platforms have been put through security testing to find and correct vulnerabilities, 1,460 platforms on the .bf domain reachable from the internet have been mapped, and 28 public bodies placed under reinforced protection](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-205-plateformes-publiques-testees-pour-renforcer-la-cybersecurite), all under the national critical-infrastructure programme. No period, finding, remediation rate or list of the bodies covered accompanies the figures.
 
-## Burundi
-
-EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committee, [flagged cybersecurity risk to the regional financial system as requiring stronger common measures](https://www.rtnb.bi/?mypost?id=529), with no common measure yet adopted.
-
 ## Cameroon
 
-A [fourth loan tranche of FCFA 39.2bn for intelligent urban video surveillance was authorised by decree](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/), bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders. The first phase's borrower was the defence ministry, and the two accounts held give different amounts and dates for it. No camera count, coverage area, retention rule or oversight arrangement is published for any tranche.
-
-The month also produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
+The month produced the base's first measure of what cybercrime costs an individual here. A comparative study puts the [average loss per online job scam at 132,000 FCFA for Cameroonian victims, against 58,000 FCFA in Chad](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds 82% of the Cameroonian cases to be WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing. It is a survey of respondents rather than a reported-crime series, and no sample size or national loss total is carried in the record held.
 
 ## Cape Verde
 
@@ -71,31 +63,7 @@ What the regulator does have is an enforcement record. It [dismantled a sixth SI
 
 ## Cote d'Ivoire
 
-The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) on an announcement dated 23 July 2026, on the legal basis of the 2013 electronic-transactions law and its 2014 and 2016 decrees. It is the trust anchor for every certification authority operating on Ivorian territory; the agency's own notice is not held, so the technical commissioning date is unestablished.
-
-The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given.
-
-## Djibouti
-
-The national incident response team took part in the IGAD regional cybersecurity exercise from 26 to 30 June, and the state daily reported that [the ANC's team placed first in both simulation scenarios](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/). The exercise organiser has published no result, so the placing rests on that single account. It is the only cybersecurity movement the base records for Djibouti in the period.
-
-## DR Congo
-
-A workshop named a [national cybersecurity agency as one of five bodies whose roles in the incident-notification chain must be clarified, explicitly without creating new institutions](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/); no creating instrument, budget line or head is held.
-
-An operator launched a [subscriber-level child filtering service on 17 July](https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet) from 50 units for 30 days — a commercial service, not a state measure, with no subscriber figure.
-
-## Egypt
-
-The national computer emergency readiness centre is [named as delivery partner in the state cyber-skills academy](https://gate.ahram.org.eg/News/5670246.aspx) and is developing capability using artificial-intelligence techniques against cyber threats. No incident statistics, mandate document, budget or reporting obligation is held for it.
-
-## Equatorial Guinea
-
-Ley 7/2024 of 23 December 2024 creates ANCIC, the National Cybersecurity and Critical Infrastructure Agency, under the Presidency, stated to draw on the Budapest and Malabo conventions.
-
-## Eswatini
-
-On 30 July the SADC Committee of Central Bank Governors subcommittee on banking supervision, meeting at Ezulwini, [approved regional frameworks on cybersecurity, climate-related financial risk and cross-border crisis management](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/). The Central Bank of Eswatini governor urged supervisors to extend oversight to cloud hosting providers, payment processors and AI used in credit scoring.
+The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given, so the gap can be stated and the progress against it cannot.
 
 ## Gabon
 
@@ -114,10 +82,6 @@ The regulator also [held a two-day consultative and validation workshop with UNI
 
 It started teaching. A session at Accra on 19 August [put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/). No count of journalists trained under the project has been published.
 
-## Guinea
-
-The cybersecurity statute of 2016 is held and cannot be read: the agency [publishes it as a 57-page image-only scan with no text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf), so its provisions — reaching cybercrime offences on Guinean territory and offences requiring collection of electronic evidence — are known from the agency's own summary rather than the statute's words.
-
 ## Kenya
 
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
@@ -132,7 +96,7 @@ The [interim Lesotho National Computer Security Incident Response Team](https://
 
 ## Liberia
 
-The Cybercrime Act 2025 [had still not received presidential signature as of 1 July](https://liberianinvestigator.com/moye-liberia-cybersecurity-bill-boakai-signature/), nearly six months after the Senate's concurrence cleared its passage through the Legislature. The full text the base holds is the 2021 base bill, which carries none of the 2025 provisions.
+The Cybercrime Act 2025 [was signed into force by the President on 19 August 2026](https://www.wearetech.africa/en/fils-uk/news/public-management/liberia-enacts-cybercrime-and-data-protection-laws), ending a wait that ran from the Senate's concurrence through most of this year. The full text the base holds is still the 2021 base bill, which carries none of the 2025 provisions, so the Act is on record as in force and not as read.
 
 ## Libya
 
@@ -143,14 +107,6 @@ The interior ministry answered with an agreement rather than an instrument. It [
 ## Malawi
 
 The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
-
-## Mali
-
-A [national information systems security agency was created by Council of Ministers texts of 10 June](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/). No budget, staffing or constituting text is published.
-
-## Mauritania
-
-PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protection platform had detected [more than 10,000 electronic threats in the first half of 2026](https://elvetach.info/archives/212723) — phishing, impersonation, application and site fraud — of which 470 were confirmed and removed, with 20 digital identities protected.
 
 ## Mauritius
 
@@ -172,13 +128,7 @@ Against that architecture the month produced a claimed breach of the security se
 
 ## Mozambique
 
-The same institute account of 23 July states that the Cyber Security Law creates the national incident response team and seats its operation inside the institute ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
-
-## Namibia
-
-The regulator recorded 513,921 vulnerabilities and 161,547 cyber events between April and June 2026, up 39.8% and 56.7% on the prior quarter, and attributed the rise to systems needlessly reachable from the internet, unpatched software and weak authentication ([regulator account](https://neweralive.na/namibias-cyber-threats-soar/)). The figures come a quarter after incident management guidelines were issued in April 2026.
-
-The regulator and the chamber of commerce signed a three-year memorandum in Windhoek on 30 July with a joint steering committee, covering public key infrastructure, cybersecurity, electronic trade facilitation, regulatory standards, legislative reform, digital literacy and capacity building; no funding, deliverables or milestones were published ([memorandum account](https://economist.com.na/108753/general-news/ncci-and-cran-partner-to-accelerate-digital-economy/)). The regulator separately stated on 29 July that it is the national root certification authority.
+The national response team put a number on what it is seeing. It [reported ransomware infection attempts detected on the national network and told organisations not to pay ransoms but to report them](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/). It is the first such count the base holds; no period, sector breakdown or successful-infection figure accompanies it.
 
 ## Nigeria
 
@@ -186,13 +136,9 @@ The communications regulator [issued a Guidance Note on cybersecurity budgets on
 
 ## Senegal
 
-On 30 July the procurement authority and the ministry [floated three routes for buying critical-infrastructure cybersecurity](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) — a three-year standing supplier arrangement, functional specifications, and pooled purchasing — with no timetable or contract value. The state's own diagnosis locates the blockage in procurement, not in budget.
+The institutions arrived after the attacks. The critical-infrastructure bill [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings following recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html); no system, breach count or data loss is named in the announcement.
 
-The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
-
-## Seychelles
-
-The [National Assembly voted unanimously on 22 July 2026 to approve accession to the Budapest Convention on Cybercrime](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime), a motion tabled by Hon. Sylvanne Lemiel. The accession itself, an executive act, has not yet followed.
+Procurement is the state's own diagnosis of the blockage, and it moved by memorandum: a [foreign cybersecurity supplier is reported seeking Senegalese partners](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/), with no contract, value or scope stated. The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
 
 ## Sierra Leone
 
@@ -201,10 +147,6 @@ The telecoms regulator ran two public-facing cyber messages in nine days. It [se
 The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
 
 The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform â€” which makes it a mobile-money supervision question rather than a platform one.
-
-## Somalia
-
-The National Communications Authority [launched a National Cybersecurity Risk Management Framework on 21 July 2026](https://techafricanews.com/2026/07/21/somalia-launches-national-cybersecurity-risk-management-framework/), following the national consultation held in April. It covers risk identification, regulatory compliance and institutional responsibilities. No compliance deadline, reporting duty or penalty is published alongside it, and it is the third instrument in a cyber stack assembled inside eighteen months, after the Cybersecurity Law of January 2026 and the incident response team that opened in March.
 
 ## South Africa
 
@@ -231,7 +173,9 @@ The same budget statement [provides for cybercrime investigation centres at Dodo
 
 ## Togo
 
-The cyber institutions are in place and the record of what they do is thin. [The national incident-response function runs inside a joint venture of the Togolese state and a Polish group](https://www.togofirst.com/en/itc/2907-19721-palakiyem-assih-named-chairman-of-cyber-defense-africa), so the incident record, tooling and institutional memory sit with a foreign supplier; no incident-response profile or annual report is held. The agency's director-general put [more than 333,000 incidents handled between 2021 and 2024, rising from 39,168 to 181,088](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) — a 4.6-fold increase with no figure for 2022, 2023 or 2025 and no definition of an incident. Funding arrived alongside it: [a cybersecurity component was signed with Luxembourg](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity) inside a three-accord package of EUR 78,550,000, its digital and cyber share not separately quantified.
+The cyber institutions are in place and the record of what they do is thin. [The national incident-response function runs inside a joint venture of the Togolese state and a Polish group](https://www.togofirst.com/en/itc/2907-19721-palakiyem-assih-named-chairman-of-cyber-defense-africa), so the incident record, tooling and institutional memory sit with a foreign supplier; no incident-response profile or annual report is held. The agency's director-general put [more than 333,000 incidents handled between 2021 and 2024, rising from 39,168 to 181,088](https://launetogo.tg/cybersecurite-le-togo-erige-la-confiance-numerique-en-priorite-nationale/) â€” a 4.6-fold increase with no figure for 2022, 2023 or 2025 and no definition of an incident.
+
+The team is at least visibly operating: it [issued a high-severity alert on an active online account-compromise campaign on 19 August](https://savoirnews.net/togo-le-cert-tg-alerte-sur-une-nouvelle-vague-de-piratage-de-comptes-en-ligne/). It is the first published alert the base holds from it, and no post-incident account, affected count or resolution follows.
 
 ## Tunisia
 

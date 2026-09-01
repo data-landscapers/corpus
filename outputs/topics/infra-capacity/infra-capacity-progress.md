@@ -1,13 +1,13 @@
 ---
-title: Technical Capacity — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Technical Capacity — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: infra.capacity
 places: XSA
-record: 0ef507dddad9
+record: d243bfc0aea2
 ---
 
-# Technical Capacity: progress report, 2025-08-01 to 2026-08-28
+# Technical Capacity: progress report, 2025-09-01 to 2026-09-01
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: 0ef507dddad9
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Seacom 2.0 subsea system | Did not exist | [Announced with 48 fibre pairs across the Indian Ocean basin; no route, cost or in-service date on record](https://seacom.com/news/unveiling-seacom-20) | Advanced |

@@ -1,17 +1,15 @@
 ---
-title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Innovation ecosystem — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: tech.innovate
-places: DZA; BWA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: c7b9422f5636
+places: DZA; BFA; CMR; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB
+record: 686643fd2056
 ---
 
-# Innovation ecosystem: monthly update, July 2026
+# Innovation ecosystem: monthly update, August 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -19,17 +17,9 @@ The student start-up conversion scheme reports [673 start-ups, 3,949 patents and
 
 The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
 
-## Botswana
-
-Two instruments for the innovation system arrived within three days of each other. The technology innovation agency of South Africa and the Botswana Digital and Innovation Hub [agreed a five-year joint programme and fund covering co-funding, commercialisation and cross-border work on 27 July](https://www.linkedin.com/posts/technology-innovation-agency_dsti-nsi-bdih-activity-7487557461781045248-NbOB). Two days later the communications minister [presented a Bill to create a national research and innovation council, reporting the national innovation system ranked 87th of 139 in the 2025 Global Innovation Index with research and development intensity below 0.5 per cent of output](https://dailynews.gov.bw/news-detail/92434). The diagnosis in the second is the case for the first.
-
 ## Burkina Faso
 
 The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
-
-## Burundi
-
-The workshop's resource-governance session named the [MineGuard mining-intelligence platform](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), and AfriPrompt was the other local build named — two builds with no funding, user base or public deployment on file.
 
 ## Cameroon
 
@@ -44,10 +34,6 @@ The innovation record moved to the extent that two institutions said they intend
 The ministry [launched two accelerator cohorts and a state procurement platform on 29 July](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique), fifteen startups and fifteen digital small firms each accompanied for 24 months, applications closing 13 September, against a target of FCFA 5 to 10bn mobilised from banks, funds and donors.
 
 A ten-year-old marketplace restructured on 31 August: the company [split its consumer and business activities and relaunched the consumer brand as Afrikrea, selling fashion, art and crafts internationally for African and diaspora creators with payment and delivery handled by the platform](https://www.wearetech.africa/fr/fils/breves/breves-simple/cote-d-ivoire-anka-relance-sa-place-de-marche-grand-public-sous-le-nom-dafrikrea). No merchant count, transaction volume or revenue figure is published, and the terms of the split are not stated.
-
-## Djibouti
-
-On 4 July 2026 the Ministry Delegate for the Digital Economy and Innovation [launched the LIMO platform](https://techreviewafrica.com/news/6169/djibouti-unveils-limo-platform-to-accelerate-digital-economy-and-innovation), described by the ministry as support for entrepreneurship and for access to opportunities by startups and developers. The account is a trade-press report of the ministry's announcement, no user or service figures are published, and it is a distinct system from the private marketplace of the same name.
 
 ## DR Congo
 
@@ -73,10 +59,6 @@ On 4 July, at the data-centre inauguration, the ministry and the facility's oper
 
 The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
 
-## Gambia
-
-Nothing published bears on artificial intelligence; the one other item is a [youth innovation showcase on 9 July 2026](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives).
-
 ## Ghana
 
 Two assistive devices are [in pilot with a disability association — smart glasses and an ultrasonic obstacle detector — at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/).
@@ -87,10 +69,6 @@ A freight platform founded in 2023 was profiled on 19 August: it [takes booking,
 ## Kenya
 
 Venture funding data published on 27 July put Kenyan startups at [US$126m in the first half of 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/), third in Africa and the weakest half since early 2021, against US$1.04bn across 2025.
-
-## Lesotho
-
-Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://lestimes.com/?p=91121) at the Mpilo Boutique Hotel on Tuesday 28 July 2026, signed by ETL chief executive Dennis Plaatjies and UNDP deputy resident representative Dr Taye Amssalu, renewing a partnership first signed in 2020 and amended in 2022. It runs across digital transformation, connectivity and AI; innovation and skills, including a University Innovation Pod; and MSME digital entrepreneurship. No amount, term or deliverable is stated in any account held.
 
 ## Liberia
 
@@ -116,16 +94,6 @@ NITDA [inaugurated a Technical Working Group to build a multi-agency national re
 
 As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
 
-## Senegal
-
-On 14 July the transit and telecommunications operators [signed a partnership for progressive integration of ticketing and top-ups](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), with no go-live date published, and a [corporate mobility platform launched on 16 July](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility).
-
-## Somalia
-
-The National Communications Authority [signed a memorandum of understanding with iRise Hub on 30 July](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) covering innovation, entrepreneurship, digital skills, cybersecurity, research and public engagement. No figure, term or named deliverable appears in it, and no party is identified as funding any of it. What it does establish is a direction for the regulator itself, whose statutory work is licensing and spectrum.
-
-A national startup network was [launched at the innovation forum in Mogadishu on 22 July](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), connecting startups to incubators, chambers of commerce and government agencies. It runs under a project funded by the European Union and implemented by UNIDO, which [reports 3,600 applications across three cohorts, about 500 entrepreneurs through foundational training and more than 200 startups incubated, against a stated backdrop of about 500,000 young people entering the labour market each year for about 80,000 new jobs](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/). The same account states that intellectual-property legislation is being developed; no bill, text or timeline is on file.
-
 ## South Africa
 
 The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
@@ -136,10 +104,6 @@ No hub count, spend or enterprise figure is published for any of the three, so t
 
 The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
 
-## Tunisia
-
-Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-financed programme](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) — a statute circulated as a model for other states rather than administered as one country's law.
-
 ## Uganda
 
 Three innovation programmes were opened or closed. The ICT institute [launched the fourth and final cohort of a Japan-supported entrepreneurship programme on 22 July with 83 student innovators](https://techafricanews.com/2026/07/22/uict-launches-fourth-uj-connect-cohort-to-build-ugandas-next-tech-startups/), publishing no cumulative startup, funding or job figure across the four batches. A [recurring fintech convening opened on 13 July](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026). On 3 August the minister of state committed to [supporting commercialisation of innovations developed at the institute](https://techafricanews.com/2026/08/03/uganda-ict-ministry-backs-commercialisation-of-uict-innovations/), with no budget, instrument, target or timeline.
@@ -147,8 +111,5 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 The startup environment was assessed rather than funded. A continental alliance and the ICT ministry [validated a national digital entrepreneurship and innovation assessment at a Kampala workshop of public institutions, regulators, academia, entrepreneurs, hubs and support organisations, which named as priorities advancing the Startup Bill, strengthening science, technology and innovation policy, widening access to regulatory sandboxes and using public procurement to open markets to local startups](https://techafricanews.com/2026/08/31/smart-africa-uganda-reforms-digital-entrepreneurship/). The assessment text is not published and no reform is dated or budgeted.
 
 ## Zambia
-
-Three private ventures carry the innovation position, all on their own accounts. A [private hub ran the nine-month pipeline that took a Zambian team to the Geneva global finals](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) of the 2026 artificial-intelligence summit and youth robotics challenge among nearly 50 countries, its chief executive saying the talent pool is real and the investment in research and innovation is not. An [agritech pairs satellite imagery with artificial intelligence to route smallholders into premium markets](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), operating a virtual warehouse in which buyers specify variety, quality and compliance before planting. And a [roadside-assistance marketplace connects drivers to nearby providers](https://www.wearetech.africa/fr/fils/tech-stars/avec-padue-dalitso-mbewe-connecte-les-automobilistes-en-panne-aux-depanneurs) with in-app messaging and real-time geolocation. No user numbers, revenue, funding or independent evaluation is held for any of the three.
-
 
 A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.

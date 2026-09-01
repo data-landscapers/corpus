@@ -1,23 +1,21 @@
 ---
-title: Regional collaboration — progress report, 2025-08-01 to 2026-08-31
-compiled: 2026-08-31
-period: 2025-08-01 to 2026-08-31
+title: Regional collaboration — progress report, 2025-09-01 to 2026-09-01
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 subject: gov.regional
 places: XAF; XSA; XWA
-record: 3f87d0d55e0a
+record: 8c9fe2413464
 ---
 
-# Regional collaboration: progress report, 2025-08-01 to 2026-08-31
+# Regional collaboration: progress report, 2025-09-01 to 2026-09-01
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
-*The place reports do not share one window; the period above is the range they span.*
-
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-31 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | AfCFTA Protocol on Digital Trade | State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing | [Eight annexes to the protocol were approved in February 2025 and the intellectual-property annexes adopted in February 2026, and all of them still await national ratification and incorporation; the July 2026 calls to action to expedite ratification carry no enforcement mechanism, no deadline and no named financing, and no ratification count is published](https://srnnews.com/the-media-line-africa-has-a-free-trade-deal-now-comes-the-hard-part/) | Advanced, unratified |
 | AfCFTA Secretariat | Council bureau chaired by Egypt; the digital trade protocol adopted but no forum convened on it | [Nigeria in the chair with digital trade among four stated priorities, a second digital trade forum held and a data-exchange system of the Secretariat's own launched](https://www.africannewspage.net/2026/07/nigeria-takes-afcfta-council-chair/) | Advanced |
@@ -36,7 +34,7 @@ record: 3f87d0d55e0a
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | CRASA (Communications Regulators Association of Southern Africa) | Not held | [The association opened its 2026/27 financial year with the first meeting of its Finance, Risk and Audit Committee, a two-day hybrid session in Maseru on 20 and 21 August 2026 hosted by the Lesotho Communications Authority, at which the committee and the secretariat reviewed financial and audit matters and assessed institutional risk across the association's regional programmes. No budget, audit opinion, risk register or programme list reaches the base from it](https://techreviewafrica.com/news/6868/crasa-holds-finance-risk-and-audit-committee-meeting-in-lesotho) | Advanced |
 | IDEA programme (Inclusive Digitalization in Eastern and Southern Africa) | US$2.48bn approved in June 2024, phase 1 Angola, DR Congo and Malawi; no forum and no regional action plan | [Phase I is Zambia, DR Congo, Malawi and Angola, with Eswatini, Tanzania and Madagascar preparing Phase II; a Strategic Action Plan and Digital Action Matrix for 2026-2027 agreed](https://angop.ao/noticias/politica/forum-recomenda-harmonizacao-das-politicas/) | Advanced |
@@ -47,7 +45,7 @@ record: 3f87d0d55e0a
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-30 | Movement |
+| Body, instrument or system | At 2025-09-01 | At 2026-09-01 | Movement |
 |---|---|---|---|
 | Alliance of Sahel States (AES) | A common biometric passport launched in January 2025; harmonised document specifications validated but unpublished; no confederal card issued | [Both confederal credentials issuing, a cross-border enrolment run on another member's soil, and a national data centre offered as mutualised AES infrastructure](https://anp.ne/passeport-biometrique-aes-le-premier-ministre-nigerien-zeine-senrole/) | Advanced |
 | BCEAO (Banque Centrale des Etats de l'Afrique de l'Ouest) | Operating the SICA and STAR systems, with the instant-payment platform in test phase | [Operating the union's instant-payment rail, participating in the ECOWAS payment project and preparing a pilot accession to the continental one](https://www.bceao.int/sites/default/files/2026-07/Rapport_Annuel_2025_BCEAO_vf.pdf) | Advanced |

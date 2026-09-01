@@ -1,21 +1,15 @@
 ---
-title: EU activities — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: EU activities — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: geopol.eu
-places: COG; KEN; MLI; MAR; NGA; UGA
-record: 22f326582d01
+places: KEN; MLI; MAR; NGA
+record: 3823d7cc3ebc
 ---
 
-# EU activities: monthly update, July 2026
+# EU activities: monthly update, August 2026
 
-*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Congo
-
-An [exploratory session on 14 July opened a channel with a European member-state development bank under the European gateway programme](https://aden.cg/2026/07/23/programme-dbba-la-banque-publique-de-developpement-de-pologne-et-laden-explorent-de-nouvelles-perspectives-de-cooperation-numerique/), with no commitment, sum or timetable named.
+*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Kenya
 
@@ -32,7 +26,3 @@ Morocco holds [no European Union adequacy decision: the Commission's list names 
 ## Nigeria
 
 The European Union [committed EUR 820m to the digital sector](https://www.thisdaylive.com/2026/08/20/eu-commits-e820m-to-support-digital-ecosystem-lauds-nigerias-national-innovation-hub-standard-framework/) at the Abuja workshop that validated a national innovation hub standards framework, which would set one standard across the country's hubs. The envelope is stated at a workshop rather than in an instrument, the framework is validated rather than adopted, and neither carries a disbursement schedule or a hub count.
-
-## Uganda
-
-A [technical-assistance tender was published on 31 July, estimated at EUR 938,170 over thirty months from 15 September](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html), performed from the regional secretariat in Arusha, with designs to be tested against the universal safeguards framework and against local data-protection and localisation law. The same tender names an added national funding window for a sovereign digital public infrastructure loan package with the ICT ministry, for which no amount, instrument or date is stated.

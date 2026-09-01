@@ -1,29 +1,19 @@
 ---
-title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Public debate and participation in policymaking — monthly update, August 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 subject: gov.discourse
-places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
-record: 194814de8d90
+places: BFA; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
+record: 2eb04a19c06a
 ---
 
-# Public debate and participation in policymaking: monthly update, July 2026
+# Public debate and participation in policymaking: monthly update, August 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
-
-## Benin
-
-Benin is [ranked fourth in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) — a reference ranking, cited here and not absorbed into the ledger as a position of the state's own.
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burkina Faso
 
 The same organic law creating the merged communications and data-protection authority folds the broadcasting regulator into it, transferring its mandate subject to promulgation; neither text is held and no commencement, seat or leadership is stated.
-
-## Burundi
-
-ABUCO's [same 28 July statement](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) proposed a convening — états généraux bringing public authorities, operators, regulators and consumer organisations into one forum — as its remedy, the only instrument a consumer body can reach for; no response from government or operators is on file, and no convening date is stated.
 
 ## Cameroon
 
@@ -39,7 +29,7 @@ A [national internet governance forum devoted to artificial intelligence is in p
 
 ## Cote d'Ivoire
 
-A consumer federation [launched a complaints platform on 30 July](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) charging FCFA 150 per report, with eight stages from filing through mediation to published reports.
+The month's one entry here is research rather than an instrument. A study [documented cyclical online gendered violence against election candidates in this country and one other](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/). No regulatory response, platform obligation or reporting route stands against it on the ledger.
 
 ## DR Congo
 
@@ -57,7 +47,7 @@ A project on [climate-change disinformation and information integrity across Afr
 
 ## Gabon
 
-The suspension of social media has now run [about five months, the Presidency calling it temporary and conservatory](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), with no lifting date given. [Nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). The decision's text is not held; its February start is inferred from a five-month count and, independently, from an operator's half-year filing, so the date carries month precision only.
+The regulator [established a tripartite dialogue forum at Libreville on 20 August](https://www.union.sonapresse.com/index.php/fr/telecommunications-larcep-instaure-un-dialogue-tripartite), seating itself, the operators and consumers. It is the first standing consultation channel the base holds for this sector, and no meeting schedule, published minutes or complaints route follows from the announcement.
 
 ## Ghana
 
@@ -103,18 +93,6 @@ Simplification is law and is not yet practice. A member's written question to th
 
 The month's one item is a formal demand rather than a policy change: a rights organisation and the Guild of Editors [jointly called on 24 August 2026 for enforcement of the Cybercrimes Act to be suspended pending repeal or revision, arguing that the 2024 amendment failed to cure the defect the ECOWAS Court of Justice identified in 2022 when it ruled the original section 24 vague, arbitrary and in breach of the African Charter](https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/). No government or prosecutorial response is on file.
 
-## Rwanda
-
-The internet governance forum convened in Kigali on 30 July under the domain registry; a regional body announced an internet governance blueprint for a steering committee in September 2026.
-
-## Sao Tome and Principe
-
-[AGER convened the first Fórum de Governança da Internet (FGI STP) on 28–30 July 2026](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp), at Casa Cacau, opened by the Prime Minister, with tracks covering digital trust, service-delivery infrastructure, regulation, privacy and data protection, and AI, framed under the theme of connectivity as a pillar for digital inclusion. It is the regulator's own convening rather than a government ministry's, and the first time São Tomé and Príncipe has run a national forum of this kind. No outcome document or date for a second edition was published.
-
-## Senegal
-
-A ministry legal adviser stated that the state has [worked on social-media regulation since 2024](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) with no bill or timetable named.
-
 ## Seychelles
 
 [Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
@@ -139,11 +117,7 @@ The regulator spent August on the road rather than on rules. Its [seventh nation
 
 ## Uganda
 
-The same day, revised media guidelines issued through the [electronic court case-management system](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) required prior accreditation, barred devices from a courtroom and made live broadcasting a case-by-case grant.
-
-Reporting of 29 July recorded that no work had begun on the [revenue authority's e-Tax2 procurement](https://ultimatepost.dantty.com/post/10745), whose technical evaluation the Appeals Tribunal set aside in October 2025 on a power-of-attorney defect; joint-venture staff have been on the authority's premises since January and none of 26 commercial banks would issue the performance guarantee gating the advance.
-
-The month's set-piece was a convening rather than a decision: [Internet Governance Week 2026 called for greater investment in digital skills, online safety and responsible artificial intelligence, and for Africa to move from consuming the technology to shaping it](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810). Nothing was adopted, and no instrument on this ledger moved as a result.
+Public argument in the window is being made by civil society rather than in Parliament. A joint civil-society submission [was filed for the country's fourth-cycle Universal Periodic Review](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf), the review itself not yet held, and a [climate information integrity project was launched](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/) with a regional research organisation and a UN agency. Both are external channels: nothing on this ledger records a domestic consultation the state itself opened in the month.
 
 ## Zambia
 
