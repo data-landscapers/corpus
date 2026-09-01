@@ -384,3 +384,50 @@ The standing structure for it is provided rather than operating: the Computer Cr
 Where non-government scrutiny has bitten it was after the fact, in the public account demanded of a cloud memorandum after a contradiction between ministry and company.
 
 Participation on this base is by invitation to a workshop, not by a standing right to be consulted.",SWZ-gov.discourse-national-data-policy-consultation|SWZ-gov.discourse-national-cybersecurity-advisory-council|SWZ-gov.discourse-google
+finance.new--mobilisation-of-non-state-finance,Advanced,"Non-state money arrives from three directions: a [World Bank project](2026-07-19-eswatini-1-06-billion-world-bank-digital-funding) of E1.1 billion, a Taiwan-funded smart city expansion, and a domestic sponsor.","The Digital Eswatini project is approved at E648 million for broadband and E450 million for digital government ([approval](2026-07-19-eswatini-1-06-billion-world-bank-digital-funding)), against a US$165 million opportunity the same institution had identified.
+
+The ICT minister signed a memorandum in March 2026 with a Taiwanese systems integrator extending the 5G government network smart city project from a Mbabane pilot to Manzini and Matsapha, stated as fully funded by the government of Taiwan; no amount is given ([agreement](2026-03-17-eswatini-taiwan-smart-city-manzini-matsapha)).
+
+A domestic internet provider put E570,000 into free wireless access across the national trade fair, its third consecutive year ([sponsorship](2026-08-24-eswatini-jenny-internet-eitf-wifi-sponsorship)).
+
+The oldest commitment on the base is still unfinished: a US$10.4 million India Exim Bank line of credit signed in 2021 for the disaster recovery site ([line of credit](2021-01-01-indiaexim-swz-drs-data-centre-2021-construction-of-disaster-recovery-site-for)).",SWZ-finance.new-digitalproject|SWZ-finance.new-taiwan-smart-city-agreement|SWZ-finance.new-private-wifi-sponsorship|SWZ-finance.new-opportunity
+infra.connect--international-internet-bandwidth,Advanced,"International capacity on the national backbone stands at [72 Gbps](2026-02-13-optical-fibre-rollout-strengthens-business-ecosystem), and a June 2026 ruling forced the backbone open after a provider built its own cross-border link.","The national fibre backbone carries 72 Gbps of international capacity with rollout continuing ([backbone](2026-02-13-optical-fibre-rollout-strengthens-business-ecosystem)).
+
+The national operator complained that a private provider had built its own cross-border fibre link from a border post, bypassing the backbone. The regulator fined the provider E150,000 and directed the operator to give reliable, non-discriminatory and transparent backbone access and to share its existing connections and fibre topology with internet service providers, effective 1 July 2026 ([ruling](2026-06-01-esccom-notice-5-2026-eptc-jenny-decision)).
+
+The alternative route out of the country runs to Maputo over powerline fibre and onward to undersea cable at Cape Town ([programme](2023-10-03-uasf-connectivity-programmes)).
+
+No per-operator bandwidth table, utilisation figure or price is published, so the 72 Gbps cannot be read against demand.",SWZ-infra.connect-fibre|SWZ-infra.connect-backbone-access-ruling|SWZ-infra.connect-cross-border-backbone-route
+infra.connect--internet-exchange-points,"No change, launched in 2014 with nothing published since",A [national internet exchange point](2014-04-10-au-launching-ixp-swaziland) was launched in April 2014 under the African Union's exchange-point project; nothing later is held.,"The African Union Commission launched the exchange point with the ICT ministry and the Internet Society on 10 April 2014, to keep intra-country traffic inside the country rather than routing it abroad ([launch](2014-04-10-au-launching-ixp-swaziland)).
+
+Twelve years on the base holds no peering-member count, no traffic figure, and no statement that it is operating.
+
+The one adjacent fact the base does hold points the other way: the regulator had to order the national operator in June 2026 to share its backbone and fibre topology with internet service providers, which is the interconnection problem an exchange point exists to solve at the traffic layer.",SWZ-infra.connect-internet-exchange-point|SWZ-infra.connect-backbone-access-ruling
+infra.store--local-data-centre-capacity-national-providers,"No change, one national facility and no capacity figure at any date","The [National Data Centre](2021-02-26-eswatini-budget-speech-2021) has been complete since 2021 and no rack, power or utilisation figure has been published for it since.","The 2021 budget speech records the National Data Centre complete at the science park, and government pursuing amalgamation of its computer services department into the park to centralise ICT resources ([speech](2021-02-26-eswatini-budget-speech-2021)).
+
+Five years on the centre operates and is named a structural concentration of state information, with no capacity disclosure — rack count, megawatts, uptime tier or utilisation — at any date.
+
+Power for it is still being sourced five years after the facility opened.
+
+Separately, E35 million was allocated in the 2026/27 budget to upgrade the government mainframe, the budget speech naming frequent downtime as the reason ([budget speech](2026-02-27-eswatini-budget-speech-2026)).",SWZ-infra.store-ndc|SWZ-infra.energy-ndc|SWZ-dpi.govtech-government-mainframe-upgrade
+infra.store--off-site-backup-capacity,Stalled,A [disaster recovery site](2021-02-26-eswatini-budget-speech-2021) was funded in 2021 with E58 million and an India Exim line of credit; in October 2025 the regulator was still tendering consultancy for one.,"The 2021 budget speech records construction begun on a disaster recovery site at KaLanga in the Lubombo region, with E58 million allocated, to put the national data centre among the top data centres in the world ([speech](2021-02-26-eswatini-budget-speech-2021)).
+
+It was financed by a US$10.4 million India Exim Bank line of credit signed that year for the science park's second phase ([line of credit](2021-01-01-indiaexim-swz-drs-data-centre-2021-construction-of-disaster-recovery-site-for)).
+
+Four years later the communications regulator advertised a tender for consultancy services on a data centre disaster recovery facility ([tender](2025-10-21-esppra-announces-nine-tenders)). Nothing on the base records the KaLanga site operating.
+
+Beneath it, 9 of 21 ministries keep no regular backups at all.",SWZ-infra.store-disaster-recovery-site|SWZ-infra.cybersec-backups
+infra.energy--rural-electrification,Advanced,"Electrification reached [88 per cent](2025-01-01-esera-annual-report-2024-25) at the 2024/25 year end, and a rural access project stood at 5,600 of 8,000 targeted connections in October 2025.","The energy regulator's annual report puts the electrification rate at 88 per cent at the 2024/25 year end, on 298,918 customers and 126 MW of installed capacity ([annual report](2025-01-01-esera-annual-report-2024-25)).
+
+A World Bank-financed network reinforcement and energy access project targets 8,000 household connections in the Shiselweni region ([mission report](2025-11-20-wb-aide-memoire-nrap-ascent-eswatini)). By October 2025 it had connected 5,600 of them, 70 per cent, up from 5,111 in April, with 6,500 sought by the project's December closure and the remainder carried into a successor project aiming at universal access by 2030 ([mission report](2025-11-20-wb-aide-memoire-nrap-ascent-eswatini)).
+
+The project disbursed its full EUR 35.7 million and was rated satisfactory at the mission ([mission report](2025-11-20-wb-aide-memoire-nrap-ascent-eswatini)).
+
+No rural-only access rate is published, so the national figure cannot be split between town and country.",SWZ-infra.energy-electrification-rate|SWZ-infra.energy-rural-access-programme
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"No change, a diagnosed shortage and training under way against it","The [digital readiness assessment](2024-11-01-eswatini-digital-readiness-assessment) puts the country at the systematic stage across all six pillars, and 18 ICT professionals support the assessed government estate.","The assessment, published in November 2024, places the country at the systematic stage across all six pillars — digital public infrastructure, connectivity, government, regulation, economy and people ([assessment](2024-11-01-eswatini-digital-readiness-assessment)).
+
+The audit evidence beneath it is specific: 31 of 419 government services are online, 15 of 22 ministries run on 1 Mbps or less, and 18 ICT professionals support the assessed estate; 9 of 21 ministries keep no regular backups and 11 have no ICT maintenance contract.
+
+Against that, change agents are in training across ministries under the digitisation programme, and the auditor-general's 2026-2030 strategic plan urges more than 80 audit officers to take up artificial intelligence and digital methods.
+
+Neither the training nor the plan carries a headcount target for the technical staff the estate is short of.",SWZ-gov.policy-digital-readiness-assessment|SWZ-infra.cybersec-govservices|SWZ-infra.cybersec-backups|SWZ-capacity.training-changeagents|SWZ-dpi.govtech-auditor-general-strategic-plan
