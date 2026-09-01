@@ -14,6 +14,11 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-09-01 14:05 · build
+
+- **The bulletin's 31 August to 1 September window holds one unsummarised item, a United Nations statistics page placed COM.** You said not to touch COM records, so the run left it unwritten and did not assemble: the bulletin keeps its current edition rather than publishing a gap. Everything else in the cycle ran. If the instruction meant the COM backfill rather than incidental COM sources, say so and the next run writes it.
+
+
 ## 2026-09-01 11:55 · build
 
 - **`documentation/methodology-journey.md` was cut from 200 lines to 45 at 11:53, mid-word inside a bold marker — a partial write, not an edit.** Obsidian holds the vault open and wrote its workspace file in the same minute as the mirror pass. The run restored the committed version, byte-identical, and committed that. If you were editing it, your change is gone and the restore is the thing to undo.
