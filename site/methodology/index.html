@@ -11,6 +11,13 @@
 <link rel="stylesheet" href="../assets/css/home.css">
 <link rel="stylesheet" href="../assets/css/country.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-BF3X4N6YML');
+</script>
 </head>
 <body>
 <div class="site-wrap">
@@ -68,12 +75,12 @@
       <li><strong>Architecture</strong>
         Corpus is built by two networked machines.<ul>
       <li>The first is responsible for data collection and classification. Its repository is private. </li>
-      <li>The second is responsible for summarising content and keeping reports and datasets up to date. It's repository is available at https://github.com/data-landscapers/corpus. </li>
+      <li>The second is responsible for summarising content and keeping reports and datasets up to date. Its repository is available at https://github.com/data-landscapers/corpus. </li>
       </ul>
       </li>
       <li><strong>Technology</strong><ul>
       <li>Search and fetch is managed by <a href="https://exa.ai/">Exa</a></li>
-      <li>Claude Code is responsible for the running all other processes. It is run on Opus but may be downgraded to Sonnet if weekly token budgets are consumed too quickly.</li>
+      <li>Claude Code is responsible for running all other processes. It is run on Opus, with routine bulk work delegated to Sonnet.</li>
       <li>All process instructions are written in markdown and managed by Obsidian</li>
       </ul>
       </li>
@@ -95,7 +102,8 @@
       <li>A fixed list of <a href="lookups/#ngos-and-think-tanks">NGOs and think tanks</a></li>
       </ul>
       </li>
-      <li><strong>Day 2</strong><ul>
+      <li><strong>Day 2</strong>
+        Non-state finance<ul>
       <li>API extraction of newly published IATI activities</li>
       <li>Searches for digital transformation items published since the last time this day was run for a fixed list of financiers</li>
       </ul>
@@ -116,12 +124,43 @@
       </ul>
       </li>
       </ul>
+      <h2 id="what-qualifies-as-a-source">What qualifies as a source</h2>
+      <p>Corpus admits only primary or first-hand evidence: official announcements, laws and regulations, filings, court records, company statements, datasets, on-the-record reporting, primary documents, and published academic work. A source need not break news — a dated explainer or methodology note qualifies — but it must be somebody's own account, not a retelling.</p>
+      <ul>
+      <li><strong>Second-hand syntheses are leads, not sources.</strong> AI-generated summaries and aggregator digests have already compressed and paraphrased their inputs, which launders errors into authoritative-looking text and breaks the audit trail. They are mined for the primary documents they cite; those are collected and the synthesis is discarded.</li>
+      <li><strong>Promotional material is not evidence.</strong> Paid placement, awards PR and vendor thought-leadership report no development and are discarded.</li>
+      <li><strong>Origins are screened, not just content.</strong> Domains found to fabricate, rewrite without attribution, or launder others' reporting under their own byline are placed on a drop list and never collected again, however plausible an individual item looks.</li>
+      <li><strong>The full verbatim text is stored, never a paraphrase</strong>, so every claim in every report can be traced back to the exact words of its source. This store is the private repository; what is published is metadata, classification and summaries.</li>
+      </ul>
+      <h2 id="dates-figures-and-currencies">Dates, figures and currencies</h2>
+      <p>Most errors in a base like this are errors of time. Corpus applies fixed rules to keep them out:</p>
+      <ul>
+      <li><strong>Every time-varying figure is written with its date</strong> — "ranked 156th (2020)", never "ranks 156th" — so staleness stays visible on the page rather than hiding behind the present tense.</li>
+      <li><strong>The event date is never the publication date.</strong> When an outlet re-reports an older announcement, the date of the event is established from the primary source or recorded as unknown. Where a date is inferred or imprecise, that is recorded too.</li>
+      <li><strong>Money is carried in the currency it was announced in.</strong> A US-dollar figure derived from it is shown as a dated conversion — otherwise one commitment becomes three "different" numbers as exchange rates move.</li>
+      <li><strong>Newer evidence supersedes older evidence, visibly.</strong> Reports keep the current value and, where the trajectory matters, one dated prior value. An old document arriving late is treated as a baseline, never as news.</li>
+      <li><strong>A genuine gap is stated, dated.</strong> Where no law exists or no figure has been published since a known year, reports say so explicitly — a known vacuum is a finding, not a blank.</li>
+      </ul>
+      <h2 id="the-finance-dataset">The finance dataset</h2>
+      <p>The non-state finance dataset aims at a claim nobody else supports well: an integrated, accurate view of who is financing digital transformation in Africa. Accuracy is enforced by construction, not by review:</p>
+      <ul>
+      <li><strong>The five-fact test.</strong> No item becomes a finance record unless the source itself states all five: a named financier; an identified recipient country or region; an amount that can be treated as a commitment (or an actual disbursement — never an "up to", a target or a valuation); the date of the commitment itself; and a stated purpose specific enough to classify. An item failing any fact is kept as context but excluded from every total.</li>
+      <li><strong>Double counting is prevented structurally.</strong> Records are keyed and deduplicated across sources, re-announcements are merged into the original commitment, and amendments update a record rather than creating a second one.</li>
+      <li><strong>Blanks are honest.</strong> Where a value cannot be derived safely from the source it is left blank with the reason — never estimated, never defaulted to zero.</li>
+      <li><strong>National budget data is still under development</strong> Budget data, where available is recorded at five stages: proposed, appropriated, released, executed or audited.</li>
+      </ul>
+      <h2 id="coverage-corrections-and-versions">Coverage, corrections and versions</h2>
+      <ul>
+      <li><strong>Coverage is deliberately uneven.</strong> Corpus goes deep where there is active work and stays thin elsewhere; a thin country page reflects collection priorities, not necessarily a quiet country. Collection intensity should never be read as a measure of a country's actual activity.</li>
+      <li><strong>A published file is never silently revised.</strong> Reports and datasets are issued as dated editions. A correction is a new edition with its own date stating what changed and why; the record it corrects remains on the record.</li>
+      <li><strong>Capture is not endorsement.</strong> Holding a document, or profiling an organisation, implies no view of either.</li>
+      </ul>
     </article>
 
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">2026-08-27</dd>
+        <dt>Built</dt><dd class="mono">2026-09-01</dd>
         <dt>Source</dt><dd><code>content/methodology.md</code> &mdash; the page is that file, converted</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
