@@ -1,12 +1,12 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-31
+compiled: 2026-09-01
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 220
+sources_cited: 222
 sections_written: 37
 not_established: 1
 acquire_lines: 49
@@ -32,6 +32,8 @@ South Africa's two largest mobile operators are in court against a consumer rule
 Spectrum rulemaking has gone the same way. ICASA [gazetted final innovation spectrum rules making the lower 6 GHz band licence-exempt for wireless ISPs, Wi-Fi and private networks while locking mobile operators out of it](https://techcentral.co.za/mobile-operators-icasa-900mhz-spectrum/281897/) (May 2026), and [both operators filed High Court reviews against the exclusive-use spectrum amendments](https://www.dailymaverick.co.za/article/2026-08-03-sas-radio-spectrum-revolution-answers-mobile-network-operators-prayers/) (August 2026). On satellite the door stayed shut: [a ministerial policy direction of December 2025 would have let foreign operators substitute equity-equivalence investment for direct Black ownership](https://www.reuters.com/world/africa/south-africa-eases-ownership-rules-opening-door-starlink-other-foreign-operators-2025-12-12/), [ICASA rejected it in May 2026](https://www.citizen.co.za/news/south-africa/south-africas-starlink-dream-hits-legal-dead-end-icasa-rejects-malatsis-bee-plan/), and [it could not have overridden the Electronic Communications Act anyway](https://www.citizen.co.za/news/south-africa/was-starlink-offered-empowerment-pathway-to-get-into-sa/).
 
 Courts are reforming more than Parliament. The North Gauteng High Court [struck down the rule barring social grant applicants from putting new evidence before SASSA on appeal, and held that the Constitution requires government to plan for and progressively increase the grant's value and its income threshold](https://www.saflii.org/za/cases/ZAGPPHC/2025/29.html) (January 2025); [the state's appeal is opposed](https://groundup.org.za/article/government-uses-regulations-to-deliberately-keep-srd-grant-costs-down-argue-activists) and is [set down for hearing in the Supreme Court of Appeal on 25 August 2026, with an artificial-intelligence governance organisation admitted as a friend of the court on the harms of algorithmic decision-making](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants) (August 2026). The Western Cape High Court then [held that regulations made under the Births and Deaths Registration Act are subordinate legislation, so orders invalidating them need no Constitutional Court confirmation](https://www.timeslive.co.za/news/south-africa/2026-07-29-court-rules-birth-registration-exclusions-unconstitutional/).
+
+Where regulation has reached the largest platforms it has come from competition law rather than communications law. The Competition Commission's Media and Digital Platforms Market Inquiry [closed on 13 November 2025 with binding remedial actions under section 43D(1) of the Competition Act for Google, Meta, Microsoft, OpenAI, TikTok and X](https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf), on a survey finding that [77% of the population take social media as their main online source of news, against 18% search and 4% personalised feeds](https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential-1.pdf). [Google's remedies commit up to ZAR 687 500 000 over their five-year term](https://www.compcom.co.za/wp-content/uploads/2025/11/CC_MDPMI-Final-Report_Non-Confidential_Annexure8_Remedial-Actions.pdf), through news-showcase payments, an AI innovation fund, a transformation fund for small, independent and community media, and training.
 
 The holes sit where the estate has grown fastest. [Streaming services delivered over the open internet fall outside ICASA licensing and the Broadcasting Act 4 of 1999](https://sajim.co.za/index.php/sajim/article/view/2112). [SAHPRA has never commenced product registration of medical devices under regulation 8 of the 2016 general regulations](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf), a power gazetted a decade ago and never switched on, though [its definition of a medical device expressly includes software](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf). Personal data is governed separately, under [POPIA](https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf).
 
