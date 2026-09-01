@@ -80,7 +80,9 @@ dpi.registry--electoral-register,"Mixed, the first automatic roll derived from t
 The provisional roll carries 146,510 voters, added after a fix to the process failure ([roll](2026-07-31-eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados)).
 
 The finding is what the failure was: the first automatic derivation from the civil registry reproduced that register's own omissions. Automating a derivation inherits the source's gaps, and the electoral commission launched a consultation and update campaign in response. The data-protection authority supervises the interconnection, which is recorded separately.",STP-dpi.registry-electoral-roll
-dpi.registry--social-protection-register,Advanced,The social protection directorate [stated a coverage figure for the single social registry](2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp) and clarified that it is not a poverty count.,"The clarification was issued in August 2026 ([clarification](2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp), [mission](2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025)).
+dpi.registry--social-protection-register,Advanced,The social protection directorate [stated a coverage figure for the single social registry](2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp) and clarified that it is not a poverty count.,"The single social register now covers more than 12,500 households, up from 8,000, and the vulnerable families programme is to expand from 5,000 to 6,000 households, on the prime minister's account ([statement](2026-08-26-sao-tome-csu-social-registry-expansion)).
+
+The clarification was issued in August 2026 ([clarification](2026-08-03-direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp), [mission](2025-09-17-world-bank-ajuda-memoria-stp-digital-setembro-2025)).
 
 An agency publicly correcting a misreading of its own registry figure is unusual in this frame and worth recording as such: a registry count measures who is enrolled, not who is poor, and conflating the two misstates both.
 

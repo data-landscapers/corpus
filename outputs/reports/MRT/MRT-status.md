@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-09-02
 place: MRT
 ledger_rows: 64
 not_held: 4
-record: 21bb821b0806
+record: 9eca7156c605
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (64 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (64 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -171,7 +171,7 @@ SOMELEC's [FY2024 procurement plan](https://somelec.mr/sites/default/files/PPPM%
 |---|---|---|
 | Biometric driving licences and registration plates | [Planned](https://www.ami.mr/archives/266980) | Ministerial statement of a before-end-2026 target, 2026-08-21 |
 | National information system for the central criminal-record register | [Enacted](https://www.ami.mr/archives/267317) | Decree adopted by the Council of Ministers 2026-08-27 |
-| Referentiel national numerique des donnees foncieres et cadastrales | [Enacted](https://www.ami.mr/archives/267317) | Decree adopted by the Council of Ministers 2026-08-27 |
+| Referentiel national numerique des donnees foncieres et cadastrales | [Enacted](https://kassataya.com/mauritanie-le-numerique-comme-instrument-de-depossession-silencieuse-du-foncier/) | Digitisation critiqued publicly 2026-08-28 |
 | Unified digital consular registry | [Implemented](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/) | Live for the Riyadh mission's zone of competence |
 
 ### Sectoral management information systems

@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-09-01
+compiled: 2026-09-02
 place: BDI
 ledger_rows: 148
 not_held: 15
-record: 46e4208430b2
+record: f02f4f837e34
 ---
 
 # Burundi: status report
 
-*Compiled 2026-09-01 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (148 systems and instruments, 15 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (148 systems and instruments, 15 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -386,7 +386,7 @@ On capacity, [Vietnam reports having supplied 50 desktop computer sets and Maste
 |---|---|---|
 | EAC Statistics Bureau | [Enacted](https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/) | Bill endorsed by the East African Legislative Assembly with Burundian amendments |
 | National strategy for the development of statistics | [Implemented](https://www.insbu.bi/actualitesEtEvenements) | Mid-term evaluation of the third strategy reported to the sector group, 28 July 2026 |
-| Population census | [Enacted, preliminary results only](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) | Décret n°100/032 (27 March 2025) publishes preliminary results 'pour tout usage, en attendant la publication des résultats définitifs'; definitive results not yet published |
+| Population census | [Enacted, preliminary results only](https://burundi.unfpa.org/fr/news/coop%C3%A9ration-sud-sud-la-guin%C3%A9e-%C3%A9quatoriale-sinspire-de-lexp%C3%A9rience-burundaise-du-recensement) | Delegation hosted 10-16 August 2026 |
 | Statistics compiled from administrative records | [Implemented](https://api.insbu.bi/storage/documents/01KRXTD00HD7QH9TWKPF45K76J.pdf) | Sectoral yearbook published January 2026 from ministry administrative records |
 
 ### Open data

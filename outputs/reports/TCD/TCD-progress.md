@@ -1,12 +1,12 @@
 ---
 title: Chad — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: TCD
-ledger_rows: 136
+ledger_rows: 137
 not_held: 41
 indicators: 121
-record: f77f0a5bc6cf
+record: 7bda6c541f04
 ---
 
 # Chad: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -44,7 +44,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Legislation and regulation | Access to information legislation |  | ***No evidence*** |
 | Data protection | Data protection authority | An [ordinance reformed the security and electronic certification agency](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency), placing data protection and artificial-intelligence governance inside it, and there is no separate data-protection authority. <details><summary>Full record</summary>The Senate ratified after National Assembly approval ([ordinance](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency)).<br><br>The gazetted text is not held. The base records a vote count and an ordinance number that appear in no held source, which is stated here rather than repeated as fact.<br><br>Data protection and artificial-intelligence governance sitting inside a security agency, with no independent authority and no statute to enforce, is the governance arrangement this unit has. It is the frame for the biometric register, the subscriber-data interconnection and the police equipment transfer recorded below.</details> | Advanced |
 | Data protection | National data protection readiness |  | ***No evidence*** |
-| Regional collaboration | Regional policy collaboration | A [regional financial inclusion strategy for 2025-2029](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf) adopted by the central bank covers the member states; nothing in the window moved it. <details><summary>Full record</summary>The central bank adopted a regional financial inclusion strategy for 2025-2029 covering the six member states, validated by the monetary union's ministerial committee on 21 December 2023 and published in February 2025 ([strategy](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf)); the base holds no member-state implementation plan, target or outturn under it.</details> | No change |
+| Regional collaboration | Regional policy collaboration | A [regional financial inclusion strategy for 2025-2029](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf) adopted by the central bank covers the member states; nothing in the window moved it. <details><summary>Full record</summary>A Chadian delegation drew on the Togolese experience of deploying digital solutions in the agricultural sector ([visit](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise)). The account is the host government's, and nothing states what Chad will adopt.<br><br>The central bank adopted a regional financial inclusion strategy for 2025-2029 covering the six member states, validated by the monetary union's ministerial committee on 21 December 2023 and published in February 2025 ([strategy](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf)); the base holds no member-state implementation plan, target or outturn under it.</details> | Advanced |
 | Regional collaboration | Regional legal harmonisation | The [continental cyber and data protection convention](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) was signed in June 2015 with no ratification and no deposit as at February 2026. <details><summary>Full record</summary>The depositary's status list of 2 February 2026 records signature only ([status](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf)).<br><br>Eleven years signed and unratified, in a country with no domestic data-protection statute either, means neither the regional nor the national instrument binds anything here.</details> | No change |
 | Regional collaboration | Shared regional infrastructure |  | ***No evidence*** |
 | Regional collaboration | Cross-border data transfers |  | ***No evidence*** |

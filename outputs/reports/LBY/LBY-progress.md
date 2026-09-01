@@ -1,12 +1,12 @@
 ---
 title: Libya — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: LBY
-ledger_rows: 88
+ledger_rows: 89
 not_held: 7
 indicators: 121
-record: 3f3cd53d0ca7
+record: 816f913b7401
 ---
 
 # Libya: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -91,7 +91,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Data Exchange | National data exchange system | [LY-NDEX](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/) was positioned in July 2026 as the state's data-exchange spine for inter-agency verification, with no connected-entity or transaction figure published. <details><summary>Full record</summary>The identity authority presented LY-NDEX at an interior ministry workshop concluding on 8 July 2026 as pillar infrastructure for information exchange between agencies, including anti-money-laundering and counter-terrorist-financing compliance ([workshop](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/)).<br><br>No legal basis, connected-entity count, service catalogue or transaction volume has been published, so the base can record the claim made for the exchange but not its operation.</details> | Advanced |
+| Data Exchange | National data exchange system | [LY-NDEX](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/) was positioned in July 2026 as the state's data-exchange spine for inter-agency verification, with no connected-entity or transaction figure published. <details><summary>Full record</summary>The general information authority and the commercial register office are examining the interconnection of their systems ([report](https://nabd.com/s/177223964-06f3b7/%D8%A7%D9%84%D9%87%D9%8A%D8%A6%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%88%D9%85%D8%B5%D9%84%D8%AD%D8%A9-%D8%A7%D9%84%D8%B3%D8%AC%D9%84-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A-%D8%AA%D8%AF%D8%B1%D8%B3%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D8%A8%D8%B7-%D8%A7%D9%84%D8%A8%D9%8A%D9%86%D9%8A-%D9%84%D9%84%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A7%D8%AA)). It is an examination; no design, standard or date is stated.<br><br>The identity authority presented LY-NDEX at an interior ministry workshop concluding on 8 July 2026 as pillar infrastructure for information exchange between agencies, including anti-money-laundering and counter-terrorist-financing compliance ([workshop](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/)).<br><br>No legal basis, connected-entity count, service catalogue or transaction volume has been published, so the base can record the claim made for the exchange but not its operation.</details> | Advanced |
 | Data Exchange | Use of digital id in other systems | [LY-DNID](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/) is presented together with the national data exchange as the verification layer for anti-money-laundering checks across agencies. <details><summary>Full record</summary>At the July 2026 workshop the identity authority set the national digital identity beside LY-NDEX as the pair on which inter-agency verification and compliance checks are to run ([workshop](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/)).<br><br>The only sector named as a consumer of it is financial compliance. No ministry, service or agency is listed as connected, and no count of identity verifications performed for another system is published.</details> | Advanced |
 | Data Exchange | Interoperability of health systems |  | ***No evidence*** |
 | Data Exchange | Interoperability of education systems |  | ***No evidence*** |

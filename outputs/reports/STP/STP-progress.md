@@ -1,12 +1,12 @@
 ---
 title: Sao Tome and Principe — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: STP
 ledger_rows: 50
 not_held: 13
 indicators: 121
-record: cbad021272af
+record: 51d5856e6e79
 ---
 
 # Sao Tome and Principe: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -115,7 +115,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Registries | Civil register |  | ***No evidence*** |
 | Registries | Address register |  | ***No evidence*** |
 | Registries | Business register | A [legal and technical diagnostic of the business registry](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) was presented toward a modern, data-oriented registry, and no later source is found. <details><summary>Full record</summary>The diagnostic findings were presented by a lender mission in September 2025 ([diagnostic](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).<br><br>Nothing since. It is one of four items in this unit whose entire record is a single line in one donor mission report.</details> | No change |
-| Registries | Social protection register | The social protection directorate [stated a coverage figure for the single social registry](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/) and clarified that it is not a poverty count. <details><summary>Full record</summary>The clarification was issued in August 2026 ([clarification](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/), [mission](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).<br><br>An agency publicly correcting a misreading of its own registry figure is unusual in this frame and worth recording as such: a registry count measures who is enrolled, not who is poor, and conflating the two misstates both.<br><br>No enrolment total, update cycle or link to the identity system is published.</details> | Advanced |
+| Registries | Social protection register | The social protection directorate [stated a coverage figure for the single social registry](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/) and clarified that it is not a poverty count. <details><summary>Full record</summary>The single social register now covers more than 12,500 households, up from 8,000, and the vulnerable families programme is to expand from 5,000 to 6,000 households, on the prime minister's account ([statement](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/)).<br><br>The clarification was issued in August 2026 ([clarification](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/), [mission](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf)).<br><br>An agency publicly correcting a misreading of its own registry figure is unusual in this frame and worth recording as such: a registry count measures who is enrolled, not who is poor, and conflating the two misstates both.<br><br>No enrolment total, update cycle or link to the identity system is published.</details> | Advanced |
 | Registries | Electoral register | The [automatic electoral roll](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/) carries 146,510 voters for the September 2026 elections, added after a process failure that had missed about 1,860 eligible voters. <details><summary>Full record</summary>The reform project closed in September 2025, the new system was ready in February 2026 and automatic registration was inaugurated in April ([project](https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/), [system](https://jornaleconomico.sapo.pt/noticias/sao-tome-e-principe-pronto-para-um-novo-sistema-de-recenseamento-eleitoral/), [inauguration](https://www.telanon.info/sociedade/2026/04/30/52715/prese-inaugura-recenseamento-automatico-e-poupa-milhoes-ao-estado/)).<br><br>The provisional roll carries 146,510 voters, added after a fix to the process failure ([roll](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/)).<br><br>The finding is what the failure was: the first automatic derivation from the civil registry reproduced that register's own omissions. Automating a derivation inherits the source's gaps, and the electoral commission launched a consultation and update campaign in response. The data-protection authority supervises the interconnection, which is recorded separately.</details> | Mixed, the first automatic roll derived from the civil registry while that derivation reproduced the register's own omissions |
 | Registries | Tax register |  | ***No evidence*** |
 | Registries | Land register |  | ***No evidence*** |

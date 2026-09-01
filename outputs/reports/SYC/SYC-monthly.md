@@ -1,11 +1,11 @@
 ---
 title: Seychelles — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SYC
-ledger_rows: 10
+ledger_rows: 11
 not_held: 6
-record: 8794ecdd4d73
+record: a78ae87fc8aa
 ---
 
 # Seychelles: monthly update, August – September 2026
@@ -37,6 +37,11 @@ That survey, fielded in 2025, finds [45% of Seychellois calling the media somewh
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The corridor Seychelles had a memorandum for was signed with somebody else. The AfCFTA Secretariat and Quest Ghana [signed a joint venture agreement in Accra on 31 August to establish the AfCFTA Digital Trade Corridor, to facilitate, track and settle cross-border trade transactions](https://www.citinewsroom.com/2026/08/afcfta-quest-ghana-sign-deal-to-establish-digital-trade-corridor/) — the same secretariat and the same company as the Seychelles memorandum of March, which remains under review. The corridor is proceeding, and it is proceeding through Accra. Nothing in the record held says whether the Seychelles arrangement is superseded, subsumed or simply waiting.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->

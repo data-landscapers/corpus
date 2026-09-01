@@ -1,12 +1,12 @@
 ---
 title: Mauritania — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: MRT
 ledger_rows: 65
 not_held: 4
 indicators: 121
-record: 83fe523762cf
+record: 1d4d8beec800
 ---
 
 # Mauritania: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -118,7 +118,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Registries | Social protection register |  | ***No evidence*** |
 | Registries | Electoral register |  | ***No evidence*** |
 | Registries | Tax register |  | ***No evidence*** |
-| Registries | Land register | A [decree of 27 August 2026](https://www.ami.mr/archives/267317) creates a national digital cadastral reference with a unique identifier for every parcel, where no integrated cadastral system existed. <details><summary>Full record</summary>The Council of Ministers adopted a decree on 27 August 2026 establishing a national digital reference for land and cadastral data as the state's authoritative source, with a permanent, unique, non-duplicable identifier for every parcel independent of administrative divisions, the land minister stating that no integrated cadastral survey system meeting these requirements has existed ([decree](https://www.ami.mr/archives/267317)). The decree states expressly that neither the reference nor the cadastral certificate creates or extinguishes any real property right.</details> | Advanced |
+| Registries | Land register | A [decree of 27 August 2026](https://www.ami.mr/archives/267317) creates a national digital cadastral reference with a unique identifier for every parcel, where no integrated cadastral system existed. <details><summary>Full record</summary>The government's cadastre digitisation was publicly criticised as a route to silent dispossession in a country where land is at the heart of social conflict ([critique](https://kassataya.com/mauritanie-le-numerique-comme-instrument-de-depossession-silencieuse-du-foncier/)). The critique is one outlet's; what the base does not hold is any safeguard, appeal route or consultation record attached to the digitisation.<br><br>The Council of Ministers adopted a decree on 27 August 2026 establishing a national digital reference for land and cadastral data as the state's authoritative source, with a permanent, unique, non-duplicable identifier for every parcel independent of administrative divisions, the land minister stating that no integrated cadastral survey system meeting these requirements has existed ([decree](https://www.ami.mr/archives/267317)). The decree states expressly that neither the reference nor the cadastral certificate creates or extinguishes any real property right.</details> | Mixed, the digital reference was enacted while its effect on existing land claims drew public objection |
 | Sectoral management information systems | Health |  | ***No evidence*** |
 | Sectoral management information systems | Education | An [education certificate service](https://ami.mr/fr/archives/276019) runs on the national identity application for certificates issued after 2013 or linked to the identity number, with no usage figure held. <details><summary>Full record</summary>The service extracts and confirms national education certificates through the identity application ([service](https://ami.mr/fr/archives/276019)).<br><br>It covers certificates issued after 2013 or otherwise linked to the national identity number, which puts a date before which the record is not reachable digitally. No usage figure, coverage share or education management information system for the country is held.</details> | No change |
 | Sectoral management information systems | Social protection |  | ***No evidence*** |

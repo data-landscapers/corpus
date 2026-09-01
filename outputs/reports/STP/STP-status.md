@@ -1,15 +1,15 @@
 ---
 title: Sao Tome and Principe — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-09-02
 place: STP
 ledger_rows: 50
 not_held: 13
-record: 88ee2ec6a25b
+record: 703ea8e64c23
 ---
 
 # Sao Tome and Principe: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/STP/ledger.csv` (50 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/STP/ledger.csv` (50 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -165,7 +165,7 @@ A GoSTP data-centre modernisation programme, covering the digital-ID system's se
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Automatic electoral roll (PReSE, civil-registry to CEN interoperability) | [Implemented, qualifying: first use missed ~1,860 eligible voters](https://rstp.st/2025/09/02/stp-encerra-o-projeto-de-reforma-do-sistema-eleitoral-financiado-pela-uniao-europeia/) | Provisional roll for 27 Sep 2026 elections carries 146,510 voters, added after a process-failure fix |
-| Cadastro Social Unico (CSU) — single social registry | [Implemented](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | Agency states CSU coverage figure and clarifies it is not a poverty count |
+| Cadastro Social Unico (CSU) — single social registry | [Implemented](https://rstp.st/2026/08/26/pm-defende-reforco-da-protecao-social-para-apoiar-mais-pessoas-em-situacao-de-vulnerabilidade/) | Coverage reported 2026-08-26 |
 | Guiche Unico de Empresas (GUE) — business registry modernisation | [Under review, diagnostic complete](https://documents1.worldbank.org/curated/en/099102025185177863/pdf/P177158-d0ebd79d-6646-4e92-b9ae-1183b632c15a.pdf) | World Bank mission presents legal/ICT diagnostic findings toward a modern, data-oriented business registry |
 
 ### Sectoral management information systems

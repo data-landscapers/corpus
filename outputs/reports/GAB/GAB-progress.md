@@ -1,12 +1,12 @@
 ---
 title: Gabon — progress report, September 2025 – September 2026
-compiled: 2026-09-01
-period: 2025-09-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
 place: GAB
-ledger_rows: 128
+ledger_rows: 129
 not_held: 27
 indicators: 121
-record: d02bb07ebb85
+record: d53f1b2cbeff
 ---
 
 # Gabon: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-01.*
+*The period is 2025-09-01 to 2026-09-02.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -145,7 +145,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| AI | Use of AI in government administration |  | ***No evidence*** |
+| AI | Use of AI in government administration | Two officials of the forward-planning directorate were trained in Lusaka on using artificial intelligence to monitor and report the continental plan's second ten-year implementation phase ([training](https://agpgabon.ga/gabon-planification-la-dgpro-se-forme-a-lia-pour-ameliorer-le-suivi-de-lagenda-2063/)). <details><summary>Full record</summary>Two officials of the forward-planning directorate were trained in Lusaka on using artificial intelligence to monitor and report the continental plan's second ten-year implementation phase ([training](https://agpgabon.ga/gabon-planification-la-dgpro-se-forme-a-lia-pour-ameliorer-le-suivi-de-lagenda-2063/)). Two officials trained is the whole of what the base holds.</details> | Advanced |
 | AI | Use of AI in sectoral management information systems |  | ***No evidence*** |
 | AI | Development of national / regional AI systems | A [protocol with Morocco](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/) of April 2026 covers exchange of artificial-intelligence expertise and digital skills, with no budget, term or workplan. <details><summary>Full record</summary>It was signed as an outcome of a technology exhibition at Marrakech in April 2026 and is the only instrument in the base whose stated subject is artificial intelligence ([protocol](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/)).<br><br>No national artificial-intelligence strategy or policy, no compute capacity and no register of deployed systems or use cases exists anywhere in the base, so the protocol names a subject the country has no domestic instrument for.</details> | Advanced |
 | AI | Control of AI abuse |  | ***No evidence*** |
