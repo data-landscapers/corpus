@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 31-08-2026 at 20:27 — Covering sources published on 31 August 2026
 window_start: 2026-08-31
 window_end: 2026-09-01
-items: 50
+items: 51
 collected_to: 2026-08-31 20:27
 compiled: 2026-08-31 20:28
 ---
@@ -45,6 +45,7 @@ compiled: 2026-08-31 20:28
 <option value="COM">Comoros</option>
 <option value="COG">Congo</option>
 <option value="CIV">Côte d'Ivoire</option>
+<option value="DJI">Djibouti</option>
 <option value="EGY">Egypt</option>
 <option value="GNQ">Eq. Guinea</option>
 <option value="ETH">Ethiopia</option>
@@ -662,6 +663,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Nigeria wants more assistive tech. Who is fixing its inaccessible digital platforms?](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/)** — TechCabal, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
 The Nigerian Communications Commission ran its fourth Hackathon Live Show in Abuja on 26 and 27 August under the theme "Technology Without Barriers", producing prototypes for speech-to-text, real-time sign-language translation, voice-enabled complaints and image-to-voice navigation. TechCabal sets that against the platforms Nigerians are already expected to use: NITDA's guidelines require government websites to meet the Web Content Accessibility Guidelines, and the Nigeria Web Design Standards toolkit promised for public feedback within 8 to 10 weeks of its July 2025 launch could not be found published, nor any evidence of Federal Executive Council approval or rollout — while the communications ministry's 2025 Year in Review still lists the launch as an achievement. The National Commission for Persons with Disabilities estimates 35 million Nigerians have disabilities.
+
+</div>
+
+<div class="bulletin-item" data-places="DJI" markdown="1">
+
+**[E-DOLÉANCES | Plateforme de gestion des doléances de l'ARULoS](https://www.doleances.arulos.dj/)** — Agence de Réhabilitation Urbaine et de Logement Social (ARULoS), 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/DJI/" title="DJI">Djibouti</a>
+
+Djibouti's urban rehabilitation and social housing agency runs an online complaint portal, routing debt-recovery and technical problems to named internal divisions. It is the clearest digital citizen-feedback channel the base holds for the country, and it covers one agency's own business rather than public services generally.
 
 </div>
 
