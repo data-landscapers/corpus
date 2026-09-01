@@ -1,0 +1,217 @@
+indicator_id,file,brief,rank,why
+gov.policy--ict-strategy,baseline/2007-01-01-seychelles-national-ict-policy.md,1,1,primary NICTP instrument
+gov.policy--ict-strategy,progress/2026-06-23-nation-sc-revamped-govsc-portal.md,2,1,digital-gov portal relaunch implementation milestone
+gov.policy--broadband-strategy,baseline/2025-01-22-seychelles-fbwa-policy-revised.md,1,1,closest operative broadband-specific instrument
+gov.policy--broadband-strategy,progress/2026-02-19-cabinet-health-care-agency-repeal.md,2,1,Starlink ISP licence approval - market-entry regulatory milestone (shared cabinet-bulletin file)
+gov.policy--data-storage-cloud-strategy,baseline/2020-01-01-seychelles-spatial-data-sharing-policy.md,1,1,closest official hosting/data-centre policy
+gov.policy--data-storage-cloud-strategy,progress/2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre.md,2,1,first Tier IV data centre - domestic cloud/hosting infrastructure milestone
+gov.policy--data-interoperability-framework-roadmap,baseline/2020-01-01-seychelles-spatial-data-sharing-policy.md,1,1,closest official interoperability/data-sharing policy
+gov.policy--data-localisation-policies,baseline/2026-02-06-infocom-seychelles-data-protection-page.md,1,1,dated regulator status statement (Act itself already held in raw/)
+gov.policy--data-localisation-policies,progress/2026-06-10-european-commission-eu-esa-epa-chapter-summary.md,2,1,EU-ESA EPA digital trade chapter - anti-localisation commitment
+gov.policy--data-localisation-policies,progress/2026-01-01-infocom-seychelles-strategic-plan-2026-2028.md,2,2,InfoCom 2026-28 plan operationalising cross-border transfer regime
+gov.policy--data-governance-policy,baseline/2010-07-09-seychelles-national-bureau-of-statistics-act-2010.md,1,1,founding statute for NBS/National Statistical System
+gov.policy--data-governance-policy,baseline/2025-10-17-statafric-seychelles-peer-review-report.md,2,1,AU/STATAFRIC formal peer review with recommendations
+gov.policy--open-data-policy,baseline/2020-09-10-eiti-seychelles-board-decision-2020-67.md,1,1,dated EITI Board finding on open-data-policy absence
+gov.policy--open-data-policy,progress/2025-12-18-fiti-seychelles-2025-annual-report.md,2,1,FiTI Compliant status reached - 13 new disclosure recommendations
+gov.policy--open-data-policy,progress/2025-12-05-nation-sc-nbs-website-modernisation-eois.md,2,2,NBS website modernisation EOIs - open-data-portal procurement stage
+gov.legislate--cybersecurity-legislation,baseline/2021-12-15-seychelles-cybercrimes-and-other-related-crimes-act-2021.md,1,1,founding cybercrime statute
+gov.legislate--cybersecurity-legislation,progress/2025-12-22-seychelles-cybercrimes-amendment-act-2025.md,2,1,enacted amendment - identity-theft/subscriber-info provisions
+gov.legislate--cybersecurity-legislation,progress/2026-05-14-statehouse-seychelles-cabinet-business-13-may-judiciary-digitalization.md,2,2,Judiciary Digitalization Programme - cybersecurity/data-management institutional milestone
+gov.legislate--legislation-covering-digital-id,baseline/2023-11-08-seychelles-miscellaneous-amendments-act-2023.md,1,1,amends National Identity Cards Act - national ID number requirements
+gov.legislate--legislation-covering-digital-id,progress/2025-12-22-seychelles-cybercrimes-amendment-act-2025.md,2,1,defines subscriber information/identity-related evidence provisions
+gov.legislate--digital-payments-legislation,baseline/2022-12-02-seychelles-national-payment-system-electronic-money-regulations-2022.md,1,1,operative electronic-money regulation (founding 2014 Act unfetchable)
+gov.legislate--digital-payments-legislation,progress/2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025.md,2,1,enacted licensing/authorisation amendment regulations
+gov.legislate--digital-payments-legislation,progress/2026-07-24-nation-sc-cabinet-clears-major-reforms.md,2,2,Cabinet approval of Foreign Exchange Act amendments expanding authorised PSP dealers
+gov.legislate--legislation-enabling-data-interoperability,baseline/2022-12-02-seychelles-national-payment-system-electronic-money-regulations-2022.md,1,1,express interoperability requirement (reg. 14)
+gov.legislate--legislation-enabling-data-interoperability,progress/2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025.md,2,1,IT-systems/straight-through-processing interoperability licensing condition
+gov.legislate--ai-legislation-regulations,baseline/2026-03-01-statehouse-national-ai-education-framework.md,1,1,primary AI-in-education framework document
+gov.legislate--ai-legislation-regulations,progress/2026-07-13-seychelles-broadcasting-corporation-act-2026.md,2,1,"statutory AI content-governance obligation, distinct enacted event"
+gov.legislate--e-commerce-legislation,baseline/2001-01-01-seychelles-electronic-transactions-act-2001.md,1,1,founding e-commerce/electronic-transactions statute
+gov.legislate--e-commerce-legislation,progress/2025-11-24-nationalassembly-si-65-2025-electronic-filing.md,2,1,"enacted electronic-filing regulation, most direct in-window movement"
+gov.legislate--e-commerce-legislation,progress/2026-04-23-seychelles-cabinet-business-22-april-2026.md,2,2,"Customs Management Amendment Regulations 2026, electronic payment threshold"
+gov.legislate--statistics-legislation,baseline/2010-07-09-seychelles-national-bureau-of-statistics-act-2010.md,1,1,founding statistics statute
+gov.legislate--statistics-legislation,baseline/2025-10-17-statafric-seychelles-peer-review-report.md,2,1,AU/PAS-II peer review recommending new Statistics Bill (sits in baseline/ under baseline-wins rule)
+gov.legislate--statistics-legislation,progress/2026-03-05-uneca-nsps-seychelles-mid-term-evaluation-mission.md,2,2,UNECA mid-term evaluation mission of NSPS 2023-2027
+gov.protect--national-data-protection-readiness,baseline/2026-02-06-infocom-seychelles-data-protection-page.md,1,1,Information Commission's current statement of DPA 2023 implementation
+gov.protect--national-data-protection-readiness,progress/2026-04-13-nationalassembly-infocom-annual-report-2025.md,2,1,"Information Commission Annual Report 2025, official readiness assessment"
+gov.protect--national-data-protection-readiness,progress/2026-02-24-infocom-eurojust-eu-engagement.md,2,2,"EUROJUST/EU capacity-building engagement, distinct dated event"
+gov.regional--regional-legal-harmonisation,baseline/2026-08-01-sadc-consolidated-treaty-2025.md,1,1,"founding regional treaty, confirms Seychelles' SADC membership"
+gov.regional--regional-legal-harmonisation,progress/2026-07-24-cgima-3rd-plenary-communique.md,2,1,"CGIMA 3rd Plenary, Seychelles-chaired regional coordination event"
+gov.regional--regional-legal-harmonisation,progress/2026-05-01-ioc-vtmis-ict-infrastructure-tender.md,2,2,IOC VTMIS regional shared-infrastructure procurement
+gov.regional--cross-border-data-transfers,progress/2026-01-01-infocom-seychelles-strategic-plan-2026-2028.md,1,1,Information Commission Strategic Plan 2026-2028 (should sit in baseline/ per baseline-wins; moved on merge)
+gov.regional--cross-border-data-transfers,progress/2026-08-11-eur-lex-eu-seychelles-fisheries-protocol-2026-2030.md,2,1,"EU-Seychelles Fisheries Protocol 2026-2030, bilateral personal-data-transfer safeguards"
+gov.regional--cross-border-data-transfers,progress/2026-02-15-au-assembly-dec956-afcfta-activity-report.md,2,2,AU Assembly decision urging AfCFTA cross-border-data-transfer commitments
+gov.standards--national-interoperability-standards,baseline/2026-09-01-dict-policy-standards-research-section.md,1,1,DICT's own statement of its interoperability-standards mandate
+gov.standards--national-interoperability-standards,progress/2026-04-03-seychelles-national-addressing-system-bill-cabinet.md,2,1,"National Addressing System Bill, requires international addressing standards"
+gov.standards--national-interoperability-standards,progress/2026-05-14-statehouse-seychelles-cabinet-business-13-may-judiciary-digitalization.md,2,2,"Government Service Centre approval, integrated digital/physical service platform"
+gov.standards--national-quality-standards,baseline/2014-03-31-seychelles-bureau-of-standards-act-2014.md,1,1,founding SBS statute
+gov.standards--national-quality-standards,progress/2025-09-29-gazette-64-sbs-board-appointment.md,2,1,"new SBS Board appointed, gazetted institutional-governance event"
+gov.standards--national-quality-standards,progress/2025-09-15-sadcas-seychelles-mass-calibration-accreditation.md,2,2,"SADCAS mass-calibration accreditation, externally verified capability"
+gov.standards--adoption-of-international-standards,baseline/2020-01-01-seychelles-spatial-data-sharing-policy.md,1,1,primary policy adopting OGC/ISO19115 international standards
+gov.standards--adoption-of-international-standards,progress/2025-04-14-cbs-sba-iso-20022-transition-notice.md,2,1,"ISO 20022 payment-messaging standard, effective in-window (22 Nov 2025)"
+gov.standards--adoption-of-international-standards,progress/2026-04-03-seychelles-national-addressing-system-bill-cabinet.md,2,2,"National Addressing System Bill, requires international addressing standards (shared file)"
+gov.discourse--non-governmental-contribution-to-national-policy,baseline/2024-03-07-seychelles-vasp-framework-industry-consultation-response.md,1,1,fullest dated record of industry consultation input to a Seychelles digital-governance policy process
+gov.discourse--non-governmental-contribution-to-national-policy,progress/2025-10-17-nccc-sba-cybersecurity-workshop.md,2,1,NCCC/Bankers Association public-private cybersecurity workshop with bank case study
+gov.discourse--non-governmental-contribution-to-national-policy,baseline/2026-03-01-statehouse-national-ai-education-framework.md,2,2,World Bank/Commonwealth of Learning external technical input into AI framework (shared file)
+infra.connect--internet-usage,baseline/2026-04-14-fred-internet-users-seychelles.md,1,1,standing usage figure 87.8% (2024)
+infra.connect--internet-usage,progress/2025-11-08-datareportal-digital-2026-seychelles.md,2,1,Oct-2025 usage stats update (117k/87.4%)
+infra.connect--internet-usage,progress/2025-09-13-nation-sc-airtel-smart-connect.md,2,2,Airtel unlimited home-broadband launch
+infra.connect--mobile-affordability,baseline/2024-06-25-worldbank-seychelles-cpf-fy25-30.md,1,1,WB dated statement: cost of internet remains a barrier
+infra.connect--mobile-affordability,progress/2026-02-28-researchictafrica-ramp-index-q4-2025.md,2,1,"RAMP index: $16.72/GB, priciest in Africa"
+infra.connect--mobile-affordability,progress/2026-03-19-statehouse-cabinet-business-prepaid-esim.md,2,2,Cabinet prepaid/eSIM regulation reform
+infra.connect--national-fibre-backbone,baseline/2023-01-06-nation-sc-peace-operational-seychelles.md,1,1,"PEACE cable operational, SEAS backbone status"
+infra.connect--national-fibre-backbone,progress/2026-04-02-linkedin-cws-fibre-broadband-upgrade.md,2,1,"CWS nationwide fibre speed/data upgrade, 50G-PON"
+infra.connect--international-internet-bandwidth,baseline/2026-06-01-scra-ict-q1-2026-statistics.md,1,1,regulator Q1 2026 bandwidth figure 308074 Mbps
+infra.connect--internet-exchange-points,baseline/2015-02-20-au-int-ixp-launch-seychelles.md,1,1,AU/AXIS founding launch of Seychelles IXP
+infra.store--local-data-centre-capacity-national-providers,baseline/2025-09-04-uptime-institute-bon-espoir-certification.md,1,1,"independent Tier cert record, CWS Bon Espoir"
+infra.store--local-data-centre-capacity-national-providers,progress/2026-03-20-cable-wireless-seychelles-linkedin-tier-iv-data-centre.md,2,1,CWS first Tier IV cert announcement (shared file)
+infra.store--off-site-backup-capacity,baseline/2022-01-04-sbc-airtel-perseverance-data-centre.md,1,1,Airtel Perseverance DR-capable data centre
+infra.store--off-site-backup-capacity,progress/2025-09-15-africloud-seychelles-vps-hosting.md,2,1,AFRICLOUD geo-redundant backup/DR service for Seychelles
+infra.energy--sufficient-energy-and-water-for-data-centres,baseline/2024-06-25-worldbank-seychelles-cpf-fy25-30.md,1,1,"WB: only 60% of water requirement met, rising demand"
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2026-02-09-nation-sc-puc-inner-islands-generators.md,2,1,4x2MW generators for Baie Ste Anne
+infra.energy--sufficient-energy-and-water-for-data-centres,progress/2025-10-21-nation-sc-puc-praslin-desalination.md,2,2,Eve Island desalination plant operational
+infra.energy--grid-reliability,baseline/2024-01-01-puc-2023-annual-report.md,1,1,operator's own generation/distribution/reliability data
+infra.energy--grid-reliability,progress/2026-04-22-nation-sc-puc-outage-praslin-la-digue.md,2,1,"dated outage incident, Praslin/La Digue"
+infra.energy--grid-reliability,progress/2026-05-21-statehouse-cabinet-business-la-digue-solar.md,2,2,La Digue 12MW solar+storage approval
+infra.energy--rural-electrification,baseline/2024-01-01-puc-2023-annual-report.md,1,1,operator's own coverage/generation data (99.5%+ coverage)
+infra.energy--rural-electrification,progress/2026-05-21-statehouse-cabinet-business-la-digue-solar.md,2,1,"La Digue 12MW solar+storage, outer-island electrification (shared file)"
+infra.energy--rural-electrification,progress/2026-03-05-worldbank-reap-isr-p505856.md,2,2,"REAP programme effective, grid-strengthening across islands"
+infra.capacity--robustness-of-government-hardware-and-software,baseline/2019-01-01-ict-gov-sc-national-cybersecurity-strategy.md,1,1,DICT's own cybersecurity/CIIP governance strategy
+infra.capacity--robustness-of-government-hardware-and-software,progress/2026-04-10-dexpose-egov-seychelles-ransomware-claim.md,2,1,claimed ransomware attack on eGov Seychelles portal (unverified)
+infra.capacity--robustness-of-government-hardware-and-software,progress/2026-03-14-src-asycuda-441-upgrade.md,2,2,ASYCUDA World system upgrade
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,baseline/2024-01-01-seychelles-national-development-strategy-2024-2028.md,1,1,"current NDS, Modern Public Service priority area"
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-05-12-ncgg-pib-seychelles-capacity-building-cohort.md,2,1,"India-Seychelles NCGG training cohort, 250 civil-servant pipeline"
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,progress/2026-03-05-asp-connect-cabinet-stabilisation.md,2,2,DICT-led ASP Connect ownership transition (shared file)
+dpi.exchange--national-data-exchange-system,progress/2026-02-09-india-seychelles-sesel-joint-vision.md,2,1,India-Seychelles DPI buildout commitment
+dpi.exchange--national-data-exchange-system,progress/2026-04-03-seychelles-national-addressing-system-bill-cabinet.md,2,2,new national addressing/reference-data layer
+dpi.exchange--use-of-digital-id-in-other-systems,baseline/2023-04-19-sla-online-services-seyid-monservis.md,1,1,SLA licence services require SeyID auth
+dpi.exchange--use-of-digital-id-in-other-systems,progress/2025-10-21-asp-connect-digital-system-launch.md,2,1,ASP Connect launched via SeyID portal
+dpi.exchange--use-of-digital-id-in-other-systems,progress/2026-03-05-asp-connect-cabinet-stabilisation.md,2,2,"Cabinet stabilisation, DICT ownership transition"
+dpi.exchange--interoperability-of-health-systems,baseline/2022-01-01-seychelles-nhsp-strategic-direction-six-data.md,1,1,NHSP founding data-integration objective
+dpi.exchange--interoperability-of-health-systems,progress/2026-07-21-ministry-of-health-new-era-of-care.md,2,1,Digital Health pillar named in reform programme
+dpi.exchange--interoperability-of-health-systems,progress/2026-02-19-cabinet-health-care-agency-repeal.md,2,2,"HCA integrated into MoH, removes governance boundary"
+dpi.exchange--interoperability-of-education-systems,baseline/2026-03-18-openemis-seychelles-golive.md,1,1,OpenEMIS national go-live
+dpi.exchange--interoperability-of-education-systems,baseline/2026-03-01-statehouse-national-ai-education-framework.md,2,1,"AI framework mandates EMIS integration/interoperability (shared file, baseline wins)"
+dpi.exchange--interoperability-of-education-systems,progress/2026-04-21-nation-sc-digital-school-initiative.md,2,2,UAE Digital School Initiative partnership
+dpi.exchange--interoperability-of-social-protection-systems,baseline/2025-06-26-worldbank-seychelles-social-protection-isr.md,1,1,"WB ISR: signed inter-agency protocols, MIS pending"
+dpi.exchange--interoperability-of-social-protection-systems,progress/2025-10-21-asp-connect-digital-system-launch.md,2,1,ASP Connect launch (shared file)
+dpi.id--registration-of-entire-population,baseline/2026-01-01-ics-civil-status-division.md,1,1,"Civil Status Division custody of NPD, issues ID cards"
+dpi.id--registration-of-entire-population,progress/2026-03-31-nbs-seychelles-population-2025-releases.md,2,1,NBS 2025 releases show continued register use
+dpi.id--national-maintenance-of-id-and-credentials-systems,baseline/2024-09-18-ics-transition-virtual-id-permit-holders.md,1,1,dated ICS statement of maintainer + SeyID transition
+dpi.id--national-maintenance-of-id-and-credentials-systems,progress/2025-11-06-president-herminie-ministerial-portfolios.md,2,1,Cabinet reorganisation of ID/immigration portfolio
+dpi.id--national-maintenance-of-id-and-credentials-systems,progress/2026-01-01-seyid-minor-id-wallet.md,2,2,Minor ID extends credentials system to children
+dpi.id--authentication,baseline/2026-01-01-seyid-security.md,1,1,SeyID's own authentication-mechanism documentation
+dpi.id--authentication,progress/2026-01-01-seyid-minor-id-wallet.md,2,1,Minor ID wallet extends authentication to minors (shared file)
+dpi.id--digital-id-from-birth,baseline/2026-01-01-ics-national-identity-card.md,1,1,"confirms mechanism is birth-cert-to-ID, not automatic from birth"
+dpi.id--digital-id-from-birth,progress/2026-01-01-seyid-minor-id-wallet.md,2,1,closest movement toward child-linked digital ID (shared file)
+dpi.id--interoperability-of-birth-registration-and-digital-id,baseline/2024-11-13-national-assembly-verbatim-immigration-civil-status.md,1,1,primary legislative record of ICS digitalisation as of Nov 2024
+dpi.id--use-by-other-systems,baseline/2026-01-01-seyid-idwallet.md,1,1,named SLA digital-driving-licence integration
+dpi.id--use-by-other-systems,progress/2026-03-05-asp-connect-cabinet-stabilisation.md,2,1,ASP Connect ownership transition (shared file)
+dpi.id--use-by-other-systems,progress/2025-12-01-ntb-ease-of-doing-business-portal-award.md,2,2,"EODB portal tender award, spec requires SeyID interface"
+dpi.pay--g2p-functionality,baseline/2024-12-12-asp-esps-sensitisation-launch.md,1,1,founding announcement of ASP's eSPS digital benefit system
+dpi.pay--g2p-functionality,progress/2025-09-09-finance-gov-sc-pv-rebate-scheme-2.md,2,1,new in-window household subsidy with direct-reimbursement G2P route
+dpi.pay--revenue-collection,baseline/2024-06-05-src-customs-epayment-launch.md,1,1,SRC's own launch of customs ePayment on ASYCUDA
+dpi.pay--revenue-collection,progress/2026-03-14-src-asycuda-441-upgrade.md,2,1,ASYCUDA 4.4.1 upgrade adds self-assessment and paperless processing
+dpi.pay--revenue-collection,progress/2025-11-24-nationalassembly-si-65-2025-electronic-filing.md,2,2,new legal basis for electronic tax-document filing
+dpi.pay--p2p-p2g-and-p2b-functionality,baseline/2014-08-18-seylii-national-payment-system-act-2014.md,1,1,founding National Payment System Act 2014
+dpi.pay--p2p-p2g-and-p2b-functionality,progress/2026-06-28-statehouse-india-nine-agreements-npci-digital-payments.md,2,1,UPI MoU signed with India (NPCI-CBS)
+dpi.pay--p2p-p2g-and-p2b-functionality,progress/2025-11-14-fusepay-psp-licence-approval.md,2,2,new licensed P2B rail (Fusepay CBS PSP licence)
+dpi.pay--population-uptake,baseline/2016-08-01-finmark-trust-seychelles-financial-literacy-survey-2016.md,1,1,most recent Seychelles-specific adult uptake survey (94% banked)
+dpi.pay--population-uptake,progress/2026-03-31-cbs-annual-report-2025.md,2,1,official 2025 payment-system statistical release
+dpi.pay--population-uptake,progress/2026-04-23-seychelles-cabinet-business-22-april-2026.md,2,2,Cabinet mandates electronic/bank-transfer for customs >=SCR50000
+dpi.pay--consumer-protection,baseline/2022-04-14-fsa-financial-consumer-protection-act-2022.md,1,1,primary consumer-protection statute covering PSPs
+dpi.pay--consumer-protection,progress/2025-12-15-seychelles-nps-licensing-authorisation-amendment-regs-2025.md,2,1,tightens PSP licensing/fund-safeguarding conditions
+dpi.pay--consumer-protection,progress/2026-05-26-fsa-mx-global-mexc-enforcement.md,2,2,FSA enforcement action against unlicensed crypto exchange operator
+dpi.registry--population-register,baseline/2026-01-01-ics-civil-status-division.md,1,1,only official statement of NPD custody and current state (shared file)
+dpi.registry--population-register,progress/2026-03-31-nbs-seychelles-population-2025-releases.md,2,1,only in-window official population-count release found (shared file)
+dpi.registry--social-protection-register,baseline/2011-12-27-agency-for-social-protection-act-2011.md,1,1,founding statute mandating the beneficiary database (s.5(e))
+dpi.registry--social-protection-register,progress/2026-03-05-asp-connect-cabinet-stabilisation.md,2,1,latest dated current-position statement on ASP Connect (shared file)
+dpi.registry--electoral-register,baseline/2026-01-12-gazette-no2-provisional-2026-register-of-voters.md,1,1,primary gazette notice of provisional 2026 register
+dpi.registry--electoral-register,progress/2026-04-01-ecs-annual-report-2025.md,2,1,primary ECS report of reopening; transactions and 2025 digitisation
+dpi.registry--electoral-register,progress/2026-04-01-nation-sc-ecs-certifies-2026-voters-register.md,2,2,distinct completed event: 31 Mar 2026 statutory certification
+dpi.registry--tax-register,baseline/2022-12-30-si-138-2022-revenue-administration-business-registration.md,1,1,operative instrument governing business/TIN registration and taxpayer status
+dpi.registry--tax-register,progress/2026-03-30-src-streamlines-tax-lodgement-acknowledgement.md,2,1,"SRC process-digitisation event, in-window, primary"
+dpi.registry--tax-register,progress/2025-11-24-nationalassembly-si-65-2025-electronic-filing.md,2,2,distinct event: new S.I. 65/2025 legal basis for e-filing (shared file)
+dpi.registry--land-register,baseline/1967-01-01-seychelles-land-registration-act-cap-107.md,1,1,constitutive statute establishing the Land Registry and Land Register
+dpi.registry--land-register,progress/2026-08-01-registrationdivision-new-land-search-system.md,2,1,only in-window land-register-specific movement found
+dpi.mis--social-protection,baseline/2024-12-12-asp-esps-sensitisation-launch.md,1,1,ASP's own eSPS announcement (shared file)
+dpi.mis--social-protection,progress/2025-10-21-asp-connect-digital-system-launch.md,2,1,eSPS/ASP Connect actual internal go-live 2025-10-15; distinct from Dec-2024 announcement (shared file)
+dpi.mis--land,baseline/2024-11-27-pou-lmais-tender.md,1,1,LMAIS tender - the land-sector MIS itself; in procurement; defines scope and interfaces
+digital.localgov--ict-infrastructure-for-local-government,baseline/2025-06-17-national-assembly-dict-egn-visit.md,1,1,dated National Assembly account of DICT's EGN infrastructure
+digital.localgov--digitalisation-of-local-government-records,baseline/2021-11-04-gazette-civil-status-amendment-act-2021.md,1,1,enacted statutory duty to digitise district-branch civil status registers
+digital.rural--digitalisation-of-rural-health-clinics,baseline/2023-07-01-moh-annual-performance-report-2022.md,1,1,Ministry's own report on eHIS rollout and rural/outer-island clinic coverage
+digital.rural--digitalisation-of-rural-health-clinics,progress/2026-07-21-nation-sc-new-era-of-care.md,2,1,national reform programme naming Digital Health and Data-Driven Decisions a strategic pillar
+digital.rural--digitalisation-of-rural-health-clinics,progress/2026-02-06-statehouse-sims-hospital-chennai.md,2,2,concrete engagement toward real-time patient-data systems adapted for Seychelles
+digital.rural--digitalisation-of-rural-primary-schools,baseline/2025-03-10-edu-gov-sc-digital-transformation-smart-plan.md,1,1,Ministry's own SMART Plan strategy for school digitalisation
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-01-20-edu-gov-sc-anse-boileau-smart-classroom.md,2,1,Ministry's own primary-school smart-classroom pilot launch
+digital.rural--digitalisation-of-rural-primary-schools,progress/2026-04-21-nation-sc-digital-school-initiative.md,2,2,national Digital School Initiative partnership targeting primary level (shared file)
+digital.rural--digitalisation-of-rural-registry-offices,baseline/2024-11-27-pou-lmais-tender.md,1,1,official tender establishing the land registry digitisation system (LMAIS) (shared file)
+digital.rural--digitalisation-of-rural-registry-offices,progress/2025-12-01-ntb-ease-of-doing-business-portal-award.md,2,1,tender award for a portal interfacing with the Registration Division (shared file)
+digital.rural--digitalisation-of-rural-police-stations,baseline/2025-01-06-winsoft-seychelles-police-filemaker.md,1,1,only dated system-specific account of the deployed cross-district police case-management system
+digital.rural--digitalisation-of-rural-police-stations,progress/2026-05-21-statehouse-cabinet-business-la-digue-solar.md,2,1,Cabinet-approved regional policing model with technology integration (shared file)
+digital.rural--digitalisation-of-rural-police-stations,progress/2026-05-08-statehouse-drdm-spf-digital-dispatch.md,2,2,concrete equipment handover including digital dispatch consoles
+tech.ai--use-of-ai-in-government-administration,baseline/2026-03-01-statehouse-national-ai-education-framework.md,1,1,Cabinet-endorsed national AI policy instrument for a public-service domain (shared file)
+tech.ai--use-of-ai-in-government-administration,progress/2026-05-07-nation-sc-ai-pilot-projects.md,2,1,operational AI Teacher Coach/Student Tutor pilots in government schools
+tech.ai--use-of-ai-in-sectoral-management-information-systems,baseline/2026-03-01-statehouse-national-ai-education-framework.md,1,1,requires AI integration with the Education Management Information System (EMIS) (shared file)
+tech.ai--use-of-ai-in-sectoral-management-information-systems,progress/2026-02-25-mofbe-ipos-webinar.md,2,1,AI platform demonstration in a distinct sector (fisheries/ocean governance)
+tech.ai--use-of-ai-in-sectoral-management-information-systems,progress/2026-05-07-nation-sc-ai-pilot-projects.md,2,2,AI pilots operating inside the education sector's own MIS
+tech.ai--development-of-national-regional-ai-systems,progress/2026-06-09-statehouse-nisti-ceo-appointment.md,2,1,institutional stand-up of the body statutorily mandated to develop national AI systems
+tech.industry--national-capacity-in-dt-related-production,baseline/2025-12-31-nbs-annual-national-accounts-2024.md,1,1,official statistics quantifying the domestic Information and Communication sector
+tech.industry--national-capacity-in-dt-related-production,progress/2026-02-09-pmindia-seychelles-joint-press-statement.md,2,1,Digital Transformation MoU and $175M package supporting DT-related capacity
+tech.innovate--technology-hubs,baseline/2025-09-18-unisey-centre-for-innovation.md,1,1,clearest currently operating technology/innovation hub in Seychelles
+tech.innovate--technology-hubs,progress/2026-07-21-statehouse-comfwb-innovation-hub-groundbreaking.md,2,1,groundbreaking of a new national COMESA-partnered innovation hub
+tech.innovate--technology-hubs,progress/2026-08-10-linkedin-seyccat-bti-launch.md,2,2,public launch/cohort-opening of a second; distinct incubator (BTI)
+tech.innovate--tech-startup-ecosystem,progress/2026-05-14-statehouse-cabinet-seed-capital-grant-revisions.md,2,1,Cabinet-approved strengthening of the state's startup seed-funding scheme
+tech.innovate--tech-startup-ecosystem,progress/2026-07-16-fusepay-fuse360-launch.md,2,2,concrete locally-founded startup product launch
+capacity.literacy--digital-literacy-civil-service,baseline/2026-02-10-statehouse-india-seychelles-175-million-package.md,1,1,founding MoU announcement primary Seychelles govt source
+capacity.literacy--digital-literacy-civil-service,progress/2026-06-10-nationalassembly-first-capacity-building-programme.md,2,1,first cohort completion distinct operational milestone
+capacity.literacy--digital-literacy-civil-service,progress/2026-04-10-src-university-of-seychelles-mou.md,2,2,SRC-UniSey digital-skills training MoU distinct event
+capacity.literacy--digital-literacy-general-population,baseline/2024-02-01-opengovpartnership-seychelles-action-plan-2023-2025.md,1,1,OGP Commitment 3 sets IT-literacy public-education objective and institution
+capacity.literacy--digital-literacy-general-population,baseline/2026-03-01-statehouse-national-ai-education-framework.md,2,1,"national AI/digital-literacy curriculum framework Cabinet-approved (shared file, baseline wins)"
+capacity.training--dt-related-university-facilities-and-qualifications,baseline/2023-10-01-sqa-accredited-programmes-and-institutions.md,1,1,regulator's own accreditation register for UniSey/SIT ICT qualifications
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-04-10-src-university-of-seychelles-mou.md,2,1,computing/IT internship pathway created with UniSey
+capacity.training--dt-related-university-facilities-and-qualifications,progress/2026-05-11-unisey-oxford-data-concepts-applications.md,2,2,new UniSey-Oxford data-skills short course
+capacity.training--graduates-entering-dt-ecosystem,baseline/2022-02-01-unisey-strategic-plan-2022-2030.md,1,1,UniSey's own graduate-employment target/log-frame
+capacity.training--graduates-entering-dt-ecosystem,progress/2026-04-10-src-university-of-seychelles-mou.md,2,1,computing-student internship-to-employment pathway
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,baseline/2024-01-01-unctad-seychelles-sti-policy-review.md,1,1,UNCTAD's government-commissioned STI institutional-landscape review
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-04-28-nationalassembly-si-25-2026-nisti-commencement.md,2,1,NISTI Act operationalisation distinct legal event
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,progress/2026-07-16-unisey-vice-president-strategic-partnership.md,2,2,UniSey brought into national DT-policy consultation/planning
+include.access--citizen-feedback-portals,baseline/2024-02-01-opengovpartnership-seychelles-action-plan-2023-2025.md,1,1,OGP Commitment 3 states e-engagement portal commitment has not begun
+include.access--citizen-feedback-portals,progress/2026-02-10-macce-nbsap-questionnaire.md,2,1,new online public-consultation questionnaire
+include.access--citizen-feedback-portals,progress/2026-04-08-macce-aldabra-marine-park-public-review.md,2,2,second distinct online public-comment consultation
+include.access--gender-equity,baseline/2012-01-01-seychelles-national-gender-policy.md,1,1,founding national gender policy instrument
+include.access--gender-equity,progress/2026-07-21-statehouse-comfwb-innovation-hub-groundbreaking.md,2,1,women's digital-economy/entrepreneurship hub groundbreaking (shared file)
+include.access--gender-equity,progress/2026-08-29-statehouse-shakthisat-first-lady-girls-space.md,2,2,girls-in-STEM/space-tech exposure programme distinct event
+include.access--inclusion-of-persons-with-disabilities,baseline/2026-05-19-statehouse-accessibility-milestone-first-lady.md,1,1,latest dated statement of standing accessibility gains plus stated legislative gap
+include.access--inclusion-of-persons-with-disabilities,baseline/2026-03-01-statehouse-national-ai-education-framework.md,2,1,"AI-education framework accessibility/UDL safeguards provisions (shared file, baseline wins)"
+include.access--inclusion-of-persons-with-disabilities,progress/2025-06-01-finance-gov-sc-voluntary-national-review-2025.md,2,2,social-protection digitization naming disability inclusion
+include.access--inclusion-of-refugees-and-idps,baseline/2021-04-01-unhcr-upr-submission-seychelles-38th-session.md,1,1,UNHCR's own dated statement no known refugees/asylum-seekers/IDPs
+include.access--inclusion-of-refugees-and-idps,progress/2026-08-20-zawya-unhcr-seychelles-cooperation.md,2,1,first movement toward a country-specific asylum strategy since baseline
+include.divides--bridging-of-digital-divides,baseline/2023-04-13-gazette-communications-act-2023.md,1,1,operative statute Part XII universal access/service framework
+include.divides--bridging-of-digital-divides,progress/2025-11-08-datareportal-digital-2026-seychelles.md,2,1,current quantified benchmark of the remaining digital divide (shared file)
+data.statistics--national-strategy-for-development-of-statistics,baseline/2025-10-17-statafric-seychelles-peer-review-report.md,1,1,"AU peer review: adopted NSDS 2023-2027, current status"
+data.statistics--national-strategy-for-development-of-statistics,progress/2026-03-05-uneca-nsps-seychelles-mid-term-evaluation-mission.md,2,1,NSPS mid-term evaluation mission Feb 2026 (shared file)
+data.statistics--national-strategy-for-development-of-statistics,progress/2026-06-19-nbs-seychelles-linkedin-organisational-structure-review.md,2,2,NBS AfDB-funded organisational review
+data.statistics--censuses-and-surveys,baseline/2024-03-01-nbs-seychelles-population-housing-census-2022-main-report.md,1,1,the 2022 census final report itself
+data.statistics--censuses-and-surveys,progress/2025-11-11-nation-sc-census-economic-activities-pilot.md,2,1,new CEA pilot launch Nov 2025
+data.statistics--censuses-and-surveys,progress/2026-04-01-nbs-seychelles-linkedin-census-economic-activities-second-pilot.md,2,2,second CEA pilot round Apr 2026
+data.open--use-of-open-data,baseline/2026-06-12-mofbe-fiti-nmsg-fims-open-data.md,1,1,FIMS operational public-access fisheries data system
+data.open--use-of-open-data,progress/2026-05-27-zenodo-ccg-whole-energy-system-model-seychelles.md,2,1,new open energy dataset published May 2026
+data.satellite--agricultural-use-of-satellite-data,baseline/2021-01-01-ccardesa-digital-agriculture-country-study-seychelles.md,1,1,CCARDESA/World Bank digital-agriculture country assessment
+data.satellite--agricultural-use-of-satellite-data,progress/2026-03-03-hdx-wfp-seychelles-ndvi-subnational.md,2,1,WFP MODIS NDVI dataset updated Mar 2026
+data.satellite--agricultural-use-of-satellite-data,progress/2026-03-11-oss-seychelles-unccd-2026-reporting-tor.md,2,2,OSS Earth-observation land-degradation reporting ToR
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,baseline/2021-07-27-state-gov-seychelles-maritime-agreement.md,1,1,signed US-Seychelles maritime agreement 2021
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2026-02-19-cabinet-health-care-agency-repeal.md,2,1,Starlink ISP licence approved by Cabinet (shared cabinet-bulletin file)
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,progress/2026-08-04-statehouse-seychelles-us-50-years-commemorative-plaque.md,2,2,confirms recently signed State Partnership Program
+geopol.eu--eu-mous-engagements-and-commitments,baseline/2022-10-09-eeas-eu-seychelles-joint-press-release.md,1,1,EU-Seychelles exploratory cyber/data cooperation statement
+geopol.eu--eu-mous-engagements-and-commitments,progress/2026-06-10-ec-eu-esa4-enhanced-epa-factsheet.md,2,1,"Enhanced EPA concluded, includes data-localisation ban"
+geopol.eu--eu-mous-engagements-and-commitments,progress/2026-08-11-eur-lex-eu-seychelles-fisheries-protocol-2026-2030.md,2,2,new fisheries protocol with data-exchange/protection articles (shared file)
+geopol.gulf--gulf-mous-engagements-and-commitments,baseline/2024-07-19-cbuae-cbs-mous-payments.md,1,1,signed CBUAE-CBS payments/fintech/CBDC MoUs
+geopol.gulf--gulf-mous-engagements-and-commitments,progress/2026-02-04-statehouse-adfd-social-housing-grant.md,2,1,ADFD signed $8.7M housing grant
+geopol.gulf--gulf-mous-engagements-and-commitments,progress/2026-05-01-statehouse-uae-connectivity-infrastructure-commitments.md,2,2,"UAE reaffirms infra commitments, opens oil-procurement talks"
+geopol.india--india-mous-engagements-and-commitments,baseline/2024-08-27-mea-india-seychelles-bilateral-brief.md,1,1,MEA official bilateral MoU/agreement inventory
+geopol.india--india-mous-engagements-and-commitments,baseline/2026-02-10-statehouse-india-seychelles-175-million-package.md,2,1,Feb 2026 state visit: SESEL + digital-transformation MoU (repointed to baseline/2026-02-10-statehouse-india-seychelles-175-million-package.md via merge)
+geopol.india--india-mous-engagements-and-commitments,progress/2026-06-28-statehouse-india-nine-agreements-npci-digital-payments.md,2,2,June 2026 nine agreements incl. NPCI-CBS digital payments MoU
+finance.budget--sustainable-domestic-financing-of-digital-transformation,baseline/2026-03-30-gazette-appropriation-act-2026.md,1,1,enacted 2026 Consolidated Fund appropriation; R93.813M to DICT
+finance.budget--sustainable-domestic-financing-of-digital-transformation,progress/2026-06-15-gazette-national-assembly-administration-act-2026.md,2,1,new parliamentary IT/cybersecurity office and financial-autonomy framework
+finance.budget--sustainable-domestic-financing-of-digital-transformation,progress/2026-05-14-statehouse-seychelles-cabinet-business-13-may-judiciary-digitalization.md,2,2,Cabinet approval of Judiciary Digitalization Programme and Government Service Centre (shared file; no disclosed costing)
