@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 31-08-2026 at 20:27 — Covering sources published on 31 August 2026
 window_start: 2026-08-31
 window_end: 2026-09-01
-items: 49
+items: 50
 collected_to: 2026-08-31 20:27
 compiled: 2026-08-31 20:28
 ---
@@ -708,6 +708,16 @@ Summarised under [ICT Industry](#ict-industry).
 </div>
 
 ## Data
+
+### National statistics
+
+<div class="bulletin-item" data-places="COM" markdown="1">
+
+**[DATAS in Comoros](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros)** — United Nations Statistics Division (UNSD), 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
+
+The statistics division's country page records an ongoing Data for Now project with INSEED as national project owner, prioritising disaster and fisheries data alongside modernisation of the institute's own digital infrastructure for statistical collection, processing, dissemination and storage. The page is undated and carries no output, milestone or completion date.
+
+</div>
 
 ### Use of satellite data
 
