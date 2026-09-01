@@ -1,0 +1,40 @@
+/* methodology.css — the methodology page and its three annexes.
+ *
+ * Loaded after `main.css`, `corpus.css` and `home.css` by `scripts/methodology.py`,
+ * and by nothing else. These four pages are prose and tables and want almost
+ * nothing of their own; `home.css` is here for `.colophon`, which every page on
+ * the site carries and which has lived there since before it was shared.
+ *
+ * Nothing here restates identity — no colour outside the `:root` tokens, no face,
+ * no type scale (documentation/house-style.md → Where style lives). Table geometry
+ * is what a page-type stylesheet is for, and it is the whole of this file.
+ *
+ * `country.css` used to load on these pages too. It was never used: none of
+ * `.country-head`, `.report-row`, `.pubs`, `.dt-rows` appears on a methodology
+ * page. Dropped 2026-09-01 when this file arrived.
+ */
+
+/* ── THE PROCESS INVENTORY'S TABLE ──
+ *
+ * Three columns whose natural widths are the wrong way round *(Bill,
+ * 2026-09-01)*. Column 2 is a list of filenames, and the longest of them —
+ * `outputs/reports/{unit}/indicators.csv`, 37 characters of mono with no space
+ * in it — sets a minimum the auto layout must honour, so it takes ~40% of the
+ * table to avoid breaking one string. Column 3 is the sentence explaining what
+ * the process does, which is what the reader opened the page for, and it was
+ * getting the same width.
+ *
+ * `table-layout: fixed` is what makes the widths below authoritative rather than
+ * advisory: under auto layout a `<col>` width is a suggestion that content
+ * minimums override, which is the behaviour being corrected. The filenames then
+ * wrap wherever they must — `overflow-wrap` on that column only, because
+ * breaking a word mid-syllable is right for a path and wrong for prose.
+ *
+ * The percentages are of `--col-content` less the container's padding, ~932px at
+ * the width the layout is measured on. They are not a scale and nothing else
+ * uses them.
+ */
+.article-body--inventory table { table-layout: fixed; }
+.article-body--inventory th:nth-child(1), .article-body--inventory td:nth-child(1) { width: 20%; }
+.article-body--inventory th:nth-child(2), .article-body--inventory td:nth-child(2) { width: 20%; }
+.article-body--inventory td:nth-child(2) { overflow-wrap: break-word; }

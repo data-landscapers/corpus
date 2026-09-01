@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="../../assets/css/main.css">
 <link rel="stylesheet" href="../../assets/css/corpus.css">
 <link rel="stylesheet" href="../../assets/css/home.css">
-<link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="stylesheet" href="../../assets/css/methodology.css">
 <link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BF3X4N6YML"></script>
 <script>
@@ -133,7 +133,7 @@
       <p>All three are compiled from the sources rather than written into, so running a compile twice changes nothing.</p>
       <h2 id="classification-is-the-product">Classification is the product</h2>
       <p>Facets are not description; they are the join. Everything Corpus publishes is a query over those three values, which is why the same evidence appears five ways without being written five times.</p>
-      <p>The Somalia report carried five: place <code>SOM</code>; topics <code>gov.legislate</code> then <code>infra.cybersec</code>; the cybersecurity law and the Senate as entities. Everything that followed came from those five, none of it decided document by document. It reached Somalia's hub, both topic pages, and <code>somalia--gov-protect</code>, the intersection holding that country's legal stack. Its ledger row takes its chapter in the report — <em>Governance</em> — from <code>gov.legislate</code>'s parent. The bulletin filed it under <em>Legislation and regulation</em> and cross-referenced it from <em>Cybersecurity</em>, because the first slug is the primary topic. The progress-report row it answers is Somalia × legislation and regulation × cybersecurity legislation. And the catalogue lets a reader filter to exactly that intersection.</p>
+      <p>The Somalia report carried five: place <code>SOM</code>; topics <code>gov.legislate</code> then <code>infra.cybersec</code>; the cybersecurity law and the Senate as entities. Everything that followed came from those five, none of it decided document by document. It reached Somalia's hub, both topic pages, and <code>somalia--<wbr>gov-<wbr>protect</code>, the intersection holding that country's legal stack. Its ledger row takes its chapter in the report — <em>Governance</em> — from <code>gov.legislate</code>'s parent. The bulletin filed it under <em>Legislation and regulation</em> and cross-referenced it from <em>Cybersecurity</em>, because the first slug is the primary topic. The progress-report row it answers is Somalia × legislation and regulation × cybersecurity legislation. And the catalogue lets a reader filter to exactly that intersection.</p>
       <p>A <strong>lint pass</strong> runs alongside. Most of its thirty-odd checks fix rather than report — a missing field, a drifted slug, a wrong date prefix, a dead link — and everything is in version control, so a wrong fix is a revert. Where a check cannot have one correct action, it reports rather than guesses. The cycle closes with a commit and a copy of the repository to the machine that publishes.</p>
       <h2 id="from-storage-to-publication">From storage to publication</h2>
       <p>The publishing side reads the evidence and not the working, and cannot write into the collection repository at all: anything it needs to send back goes to a shared folder outside both, carried across by hand. The site is a derived view of the base, and a derived view that writes to its source stops being derivable.</p>
@@ -144,8 +144,8 @@
       <p>The <strong>bulletin</strong> has no ledger and selects on a two-day window of <em>publication</em> — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.</p>
       <h2 id="final-checks-and-publications">Final checks and publications</h2>
       <p>Five checks run over each unit before anything is typeset: every link resolves through the catalogue, every status word is from the controlled list, no document is stamped before its ledger moved, every stated position cites a source that resolves, and no narrative section was left unwritten. The first four are mechanical; the fifth is authoring. A position that cannot be sourced becomes <strong><em>Not held</em></strong> with a line in the gap file — a finished outcome, not a blocked one.</p>
-      <p><strong>A published file is never revised.</strong> An edition is cut when the content changes, not when a build runs, and two editions in a day take a <code>-2</code> suffix — the first is never renamed, because a citation may already rest on it.</p>
-      <p>The Somalia material is in <code>SOM-monthly-2026-08-30.pdf</code>, <code>SOM-progress-2026-08-30.pdf</code> and <code>corpus-bulletin-2026-08-30-3.pdf</code>, each linking the claim to Dawan Africa's own page. Elapsed, from the source's publication to Corpus's: a little over a day.</p>
+      <p><strong>A published file is never revised.</strong> An edition is cut when the content changes, not when a build runs, and two editions in a day take a <code>-<wbr>2</code> suffix — the first is never renamed, because a citation may already rest on it.</p>
+      <p>The Somalia material is in <code>SOM-<wbr>monthly-<wbr>2026-<wbr>08-<wbr>30.pdf</code>, <code>SOM-<wbr>progress-<wbr>2026-<wbr>08-<wbr>30.pdf</code> and <code>corpus-<wbr>bulletin-<wbr>2026-<wbr>08-<wbr>30-<wbr>3.pdf</code>, each linking the claim to Dawan Africa's own page. Elapsed, from the source's publication to Corpus's: a little over a day.</p>
     </article>
 
     <div class="colophon">

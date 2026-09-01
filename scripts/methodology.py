@@ -30,6 +30,11 @@ for one, a contents strip of those anchors sits at the top: `lookups` and
 `document-lifecycle` have enough sections to want one, `process-inventory` has two
 headings and does not.
 
+`site/assets/css/methodology.css` is these pages' own stylesheet, and its whole
+content is the process inventory's column widths. It replaced `country.css` in the
+load list on 2026-09-01, which had been loading on every methodology page since the
+rename without one of its selectors matching anything.
+
 The `<h1>` is the page title passed here, so no content file carries one — the same
 arrangement as the `<title>` tag, and it is why `methodology.md` and the lookups
 open at `##`. Before 2026-09-01 there was no `<h1>` on these pages at all, which
@@ -81,7 +86,7 @@ PAGE = """<!DOCTYPE html>
       <h1 class="article-header__title">{h1}</h1>
     </header>
 
-    <article class="article-body">
+    <article class="article-body{body_class}">
 {body}
     </article>
 
@@ -104,10 +109,33 @@ PAGE = """<!DOCTYPE html>
 """
 
 
+CODE = re.compile(r"(<code>)(.*?)(</code>)", re.S)
+# After a `/` or a `-`, but not between two of them, and not at the very end.
+BREAK_AFTER = re.compile(r"(?<=[/-])(?![/-])(?=\S)")
+
+
+def soft_breaks(html: str) -> str:
+    """A `<wbr>` after every `/` and `-` inside a `<code>` span.
+
+    A filename is one unbreakable word to a browser, so a narrow column breaks
+    `scripts/rebuild.py --reports all` after the `p` and starts the next line
+    with `y`. `<wbr>` marks where a break is allowed without adding a character
+    — nothing is inserted into the text, so the path still copies out whole —
+    and the browser takes the last one that fits instead of chopping mid-word.
+    `overflow-wrap` in `methodology.css` remains the fallback for a segment
+    still too long for its column, which is what `--reports` would be.
+
+    Applied to every page here, not just the one with narrow columns: a `<wbr>`
+    where a break is never needed does nothing at all."""
+    return CODE.sub(
+        lambda m: m.group(1) + BREAK_AFTER.sub("<wbr>", m.group(2)) + m.group(3),
+        html)
+
+
 def convert(md_path: Path) -> str:
-    return markdown.markdown(
+    return soft_breaks(markdown.markdown(
         md_path.read_text(encoding="utf-8"),
-        extensions=["tables", "attr_list", "sane_lists", "toc"])
+        extensions=["tables", "attr_list", "sane_lists", "toc"]))
 
 
 def slug(heading: str) -> str:
@@ -148,30 +176,33 @@ def indent(html: str) -> str:
 
 # The hub and its three annexes. `slug` is both the content file's stem (minus the
 # `methodology-` prefix the lookups file still carries) and the directory under
-# `/methodology/`; `h1` is the page's own title and `nav` the label the *See also*
-# lines in `content/` use for it — the two differ where a heading wants sentence
-# case and a nav label wants to name the page. `strip` asks for a contents bar.
+# `/methodology/`; `h1` is the page's own title and `nav` the label the see-also
+# bar uses for it — the two differ where a heading wants sentence case and a nav
+# label wants to name the page. `strip` asks for a contents bar. `body` is an extra
+# class on `<article>`, for the one page with geometry of its own; the rules are in
+# `methodology.css` and there is no second use of it yet.
 PAGES = [
     dict(source="methodology.md", slug="", h1="Methodology",
-         title="Methodology", nav="Methodology", strip=False,
+         title="Methodology", nav="Methodology", strip=False, body="",
          description=("How the Data Landscapers corpus is built: what is collected, "
                       "how it is classified, how figures are dated, and what the "
                       "base does not claim.")),
     dict(source="document-lifecycle.md", slug="document-lifecycle",
          h1="The life of a document", title="Methodology — document lifecycle",
-         nav="Document Lifecycle", strip=True,
+         nav="Document Lifecycle", strip=True, body="",
          description=("One document's journey through Corpus, from a Somali news "
                       "site to three published reports: how it was found, screened, "
                       "classified, stored, and turned into a dated claim.")),
     dict(source="process-inventory.md", slug="process-inventory",
          h1="Process inventory", title="Methodology — process inventory",
          nav="Process Inventory", strip=False,
+         body=" article-body--inventory",
          description=("Every procedure Corpus runs, in the order the work happens: "
                       "what each step does, and which instruction file or script "
                       "does it.")),
     dict(source="methodology-lookups.md", slug="lookups", h1="Process lookups",
          title="Methodology — process lookups", nav="Process Lookups",
-         strip=True,
+         strip=True, body="",
          description=("The fixed lists behind the corpus: country and region codes, "
                       "the topic taxonomy, and the journals, newspapers, financiers "
                       "and institutions the sweeps search.")),
@@ -179,13 +210,13 @@ PAGES = [
 
 
 def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str,
-          canonical: str, depth: int, prefix: str = "") -> int:
+          canonical: str, depth: int, prefix: str = "", body_class: str = "") -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(PAGE.format(
         h1=h1, title=title, description=description, canonical=canonical,
-        base=SITE_BASE, main=MAIN_SITE,
+        base=SITE_BASE, main=MAIN_SITE, body_class=body_class,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
-        styles=styles(depth, "home.css", "country.css"), ga=ga(),
+        styles=styles(depth, "home.css", "methodology.css"), ga=ga(),
         body=indent(prefix + convert(md_path)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),
@@ -209,7 +240,7 @@ def main() -> int:
         words = build(
             src, out, h1=page["h1"], title=page["title"],
             description=page["description"], canonical=f"{SITE_BASE}{url}",
-            depth=depth,
+            depth=depth, body_class=page["body"],
             prefix=see_also(page["slug"])
             + (contents_strip(src) if page["strip"] else ""))
         print(f"methodology: {words:,} words -> site{url}index.html")
