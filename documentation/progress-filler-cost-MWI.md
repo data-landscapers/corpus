@@ -83,3 +83,37 @@ unchanged. This run's `notes-for-osint.md` entry is a plain `[FYI]`.
 
 **Yield is stated when stage 3 lands**, as gaps closed against the 56 probed and against
 sessions spent.
+
+## Stages 2 to 4 — the read, the mapping and the render (complete)
+
+**One sitting, 2026-09-01, roughly 55 minutes of wall time, no sub-agents**, run as a `CYCLE.md`
+run straight after the COM cycle: BUILD stages 0 to 7 in 25 minutes, RENDER behind it.
+
+| | |
+|---|---|
+| Sources reaching stage 4 | 111 of the 160 staged selections, after ingest dedup and re-slugging |
+| Gaps closed | 51 of 51 still open at stage 4 — **Malawi answers all 121 frame indicators**, up from 70 |
+| Still *No evidence* | none |
+| Ledger | 198 rows to **246**; 48 rows minted, 28 moved, 14 *Not held* rows settled |
+| *Not held* rows | 53 to **39** |
+| Baseline statements corrected | 4 — the 2016 cyber security Act was listed as unadopted while its own text is now held; the baseline recorded no national open data portal against one launched September 2025; it recorded no government use of earth-observation data against two documented uses; and the Gulf and India sections said no engagement existed against five memoranda and a payments demonstration |
+| Documents rewritten | monthly (five empty blocks written, trimmed into band) and the authored status baseline, revised in fourteen passages |
+| Sessions | one, unbroken from stage 2 to deployment |
+
+## Yield against the four stages
+
+**51 gaps closed for one sweep session and one mapping session, and the frame closes completely.**
+Malawi is the second country in the series to answer every indicator. The mapping half was again
+where the editorial risk sat: all four corrections above were found there, three of them in the
+authored status baseline, which is the document a reader is most likely to take at face value and
+the one no check can test for truth.
+
+**The base did most of the work.** MWI arrived at stage 4 with 198 ledger rows against COM's 120,
+so more than a third of the new mappings resolved onto rows that already existed — five indicators
+already held were revised rather than written, and fourteen *Not held* rows were settled from
+their own texts rather than from new evidence. A thick ledger makes a filler cheaper to land,
+which is the opposite of the intuition that a thin country is the easy one.
+
+**One defect the pass found and fixed in passing**: the Digital Readiness Assessment is held twice,
+as the print and web editions of one report, and the mapping pass would have double-cited it
+across four indicators. Corpus now cites the full capture throughout; note 94 records it.
