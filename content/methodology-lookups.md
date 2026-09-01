@@ -317,6 +317,43 @@
 | https://ai.uct.ac.za/                                        | UCT AI Initiative - African Hub on AI Safety - University of Cape Town                    | African AI governance safety and policy research                                |
 | https://www.wits.ac.za/mandelainstitute/                     | Mandela Institute - University of the Witwatersrand                                       | Law policy and governance of digital economy and data                           |
 
+## Financiers
+
+| financier-slug                   | Name                                                   |
+| -------------------------------- | ------------------------------------------------------ |
+| gates-foundation                 | Gates Foundation                                       |
+| world-bank                       | World Bank                                             |
+| european-union                   | European Union                                         |
+| african-development-bank         | African Development Bank (AfDB)                        |
+| china-eximbank                   | Export-Import Bank of China (China Eximbank)           |
+| usaid                            | USAID                                                  |
+| ifc                              | International Finance Corporation (IFC)                |
+| bmz                              | BMZ                                                    |
+| british-international-investment | British International Investment                       |
+| sida                             | Sida                                                   |
+| kfw                              | KfW Development Bank                                   |
+| miga                             | MIGA                                                   |
+| uk-fcdo                          | UK FCDO                                                |
+| eib                              | European Investment Bank (EIB)                         |
+| us-dfc                           | US International Development Finance Corporation (DFC) |
+| proparco                         | Proparco                                               |
+| bank-of-china                    | Bank of China                                          |
+| mastercard-foundation            | Mastercard Foundation                                  |
+| koica                            | Korea International Cooperation Agency                 |
+| norfund                          | Norfund                                                |
+| undp                             | United Nations Development Programme (UNDP)            |
+| deg                              | DEG                                                    |
+| ustda                            | US Trade and Development Agency                        |
+| china-ministry-of-commerce       | China Ministry of Commerce                             |
+| afd                              | Agence Française de Développement                      |
+| netherlands-dgis                 | Ministry of Foreign Affairs of the Netherlands         |
+| eaif                             | Emerging Africa Infrastructure Fund (EAIF)             |
+| google                           | Google (Alphabet)                                      |
+| global-affairs-canada            | Global Affairs Canada                                  |
+| finnfund                         | Finnfund                                               |
+| korea-edcf                       | Economic Development Cooperation Fund                  |
+| enabel                           | Enabel                                                 |
+
 ## Regional institutions
 
 | Name                                                        | Abbrev       | Category                      |

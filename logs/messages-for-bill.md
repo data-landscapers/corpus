@@ -21,7 +21,7 @@ last_reviewed: 2026-08-28
 
 ## 2026-09-01 11:55 · build
 
-- **`documentation/methodology-journey.md` was cut from 200 lines to 45 at 11:53, mid-word inside a bold marker — a partial write, not an edit.** Obsidian holds the vault open and wrote its workspace file in the same minute as the mirror pass. The run restored the committed version, byte-identical, and committed that. If you were editing it, your change is gone and the restore is the thing to undo.
+- **`methodology-journey.md` was cut from 200 lines to 45 at 11:53, mid-word inside a bold marker — a partial write, not an edit.** Obsidian holds the vault open and wrote its workspace file in the same minute as the mirror pass. The run restored the committed version byte-identical. If you were editing it, your change is gone. That restored text is now split into `content/document-lifecycle.md` and `content/process-inventory.md`.
 
 ## 2026-08-28 22:41 · build
 

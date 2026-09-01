@@ -42,7 +42,7 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 - **Day 2**
   Non-state finance
 	- API extraction of newly published IATI activities
-	- Searches for digital transformation items published since the last time this day was run for a fixed list of financiers
+	- Searches for digital transformation items published since the last time this day was run for a fixed list of [financiers](lookups/#financiers)
 - **Day 3**
   Four separate deep searches for each country:
 	- Non-state finance

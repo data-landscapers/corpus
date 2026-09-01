@@ -189,6 +189,21 @@ cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a co
 
 > **Line endings, when building from a Cowork session.** `csv.writer` emits `\r\n`; Windows git normalises to LF on commit and Linux git does not, so a rebuild in the Cowork sandbox rewrites every published CSV with CRLF and git reports the whole file changed. A published edition must not be revised (§9), so **check for CR-only churn before committing a rebuild** and restore those files: `for f in $(git diff --name-only); do [ -z "$(git diff --ignore-cr-at-eol -- "$f")" ] && git checkout HEAD -- "$f"; done`. A `.gitattributes` would settle it permanently, but 186 tracked files already hold CRLF, so adding one renormalises them all at once — a decision for a session doing only that.
 
+## Step 6b — build the methodology pages
+
+```bash
+python scripts/methodology.py     # -> site/methodology/ + its three annexes
+```
+
+**Four pages, four markdown files, no data.** `/methodology/` and its annexes
+`document-lifecycle/`, `process-inventory/` and `lookups/` are `content/`
+converted and wrapped in the site chrome — the one page type on the site derived
+from nothing but its own file, so it neither reads `outputs/` nor cares whether
+the rest of this runbook ran. The script's own header is the description; `PAGES`
+in it is the list, and adding a fifth page means a row there and a content file,
+nothing else. It writes no edition and nothing here is citable, so it is safe to
+run on its own after an edit to `content/` — which is the usual reason to run it.
+
 ## Step 6a — prune superseded editions nobody took
 
 ```bash
