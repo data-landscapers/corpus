@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: digital.rural
-places: BDI; TCD; SWZ; GIN; LSO; MLI; NGA; SLE; ZWE
-record: e5f4eef16172
+places: BDI; TCD; SWZ; GIN; LSO; MLI; NGA; SLE; ZMB; ZWE
+record: 794e71f2b991
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
@@ -42,6 +42,10 @@ The communications minister told the President on 4 August that [deployment of a
 ## Sierra Leone
 
 The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
+
+## Zambia
+
+One rural school was connected. An operator [connected a primary school's computer laboratory in the Chipapa community by satellite](https://paratus.africa/zambia/paratus-zambia-expands-digital-learning-opportunities-at-mphande-hills-primary-school/), a completed deployment rather than a commitment. Set against the education ministry's own target for schools connected to reliable internet by the end of this year, it is one school with four months to run, and no progress count against that target is published.
 
 ## Zimbabwe
 

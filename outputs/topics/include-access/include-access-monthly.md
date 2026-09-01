@@ -3,13 +3,13 @@ title: Access to services — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: include.access
-places: DZA; AGO; BWA; BDI; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZWE
-record: 0aae5618b283
+places: DZA; AGO; BWA; BDI; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
+record: 562c47da13e9
 ---
 
 # Access to services: monthly update, August 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -136,6 +136,10 @@ An [ICT hub for persons with disabilities was commissioned in Kasese](https://ni
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
 
 A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
+
+## Zambia
+
+The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
 
 ## Zimbabwe
 

@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 31-08-2026 at 20:27 — Covering sources published on 31 August 2026
 window_start: 2026-08-31
 window_end: 2026-09-01
-items: 45
+items: 49
 collected_to: 2026-08-31 20:27
 compiled: 2026-08-31 20:28
 ---
@@ -27,6 +27,8 @@ compiled: 2026-08-31 20:28
 <a href="#capacity">Capacity</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#inclusion">Inclusion</a>
+<span class="article-toc__sep" aria-hidden="true">&middot;</span>
+<a href="#data">Data</a>
 <span class="article-toc__sep" aria-hidden="true">&middot;</span>
 <a href="#geopolitics">Geopolitics</a>
 </nav>
@@ -182,6 +184,16 @@ A Gabonese Interior Ministry delegation spent nearly two weeks in Kigali studyin
 **[Guinée : la 12e Assemblée générale des régulateurs de l'audiovisuel s'ouvre sur fond de lutte contre la désinformation](https://www.africaguinee.com/guinee-la-12e-assemblee-generale-des-regulateurs-de-laudiovisuel-souvre-sur-fond-de-lutte-contre-la-desinformation/)** — Africa Guinée, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/GIN/" title="GIN">Guinea</a>
 
 Summarised under [Legislation and regulation](#legislation-and-regulation).
+
+</div>
+
+### Standards
+
+<div class="bulletin-item" data-places="COM" markdown="1">
+
+**[Portail Unique du Citoyen — Note conceptuelle](https://puc.gouv.km/about)** — Union des Comores (Portail Unique du Citoyen / ANADEN), 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
+
+Comoros published the concept note for a Portail Unique du Citoyen, a single citizen portal intended to harmonise the country's e-government environment. It places the portal under the Comores Numerique 2028 strategy and the national e-government plan, and names the government enterprise architecture and the interoperability framework as what it is to be built on. No delivery date, budget or service list is stated.
 
 </div>
 
@@ -617,6 +629,14 @@ MTN South Sudan opened the Aweil ICT Hub in Northern Bahr el Ghazal State, a dig
 
 </div>
 
+<div class="bulletin-item" data-places="COM" markdown="1">
+
+**[Institut Universitaire de Technologie](https://univ-comores.com/composantes/institut-universitaire-de-technologie)** — Université des Comores, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
+
+The University of the Comoros published the page for its Institut Universitaire de Technologie, listing the institute's departments, laboratories and publications. The page's own fields for the head of the institute, the management team and contact details are empty, so the base records that the technology institute exists and not who runs it.
+
+</div>
+
 <div class="bulletin-item" data-places="MWI" markdown="1">
 
 **[Beyond Access: Advancing Digital Agency for People with Visual Impairments in Malawi](https://www.undp.org/malawi/news/beyond-access-advancing-digital-agency-people-visual-impairments-malawi)** — United Nations Development Programme (UNDP Malawi), 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MWI/" title="MWI">Malawi</a>
@@ -642,6 +662,14 @@ Summarised under [Strategies, plans and policies](#strategies-plans-and-policies
 **[Nigeria wants more assistive tech. Who is fixing its inaccessible digital platforms?](https://techcabal.com/2026/08/31/nigeria-wants-assistive-tech-who-is-fixing-its-inaccessible-digital-platforms/)** — TechCabal, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a>
 
 The Nigerian Communications Commission ran its fourth Hackathon Live Show in Abuja on 26 and 27 August under the theme "Technology Without Barriers", producing prototypes for speech-to-text, real-time sign-language translation, voice-enabled complaints and image-to-voice navigation. TechCabal sets that against the platforms Nigerians are already expected to use: NITDA's guidelines require government websites to meet the Web Content Accessibility Guidelines, and the Nigeria Web Design Standards toolkit promised for public feedback within 8 to 10 weeks of its July 2025 launch could not be found published, nor any evidence of Federal Executive Council approval or rollout — while the communications ministry's 2025 Year in Review still lists the launch as an achievement. The National Commission for Persons with Disabilities estimates 35 million Nigerians have disabilities.
+
+</div>
+
+<div class="bulletin-item" data-places="COM" markdown="1">
+
+**[Contact – Ministère de la Justice des Comores](https://justice.gouv.km/nous-contacter/)** — Ministère de la Justice, des Affaires Islamiques et de la Fonction Publique de l'Union des Comores, 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
+
+The Comorian justice ministry runs an online contact form that routes a request by the sender's profile — citizen, legal professional, administration, journalist — and by its object, which includes filing a complaint, following a case, and requesting access to a court document or decision. It is a structured intake channel rather than a case-tracking system, and no response time or case volume is published.
 
 </div>
 
@@ -676,6 +704,18 @@ Summarised under [Training and skills](#training-and-skills).
 **[Africa smartphone market set for sharp 2026 decline](https://www.connectingafrica.com/digital-divide/africa-smartphone-market-set-for-sharp-2026-decline)** — Connecting Africa, 31 August 2026
 
 Summarised under [ICT Industry](#ict-industry).
+
+</div>
+
+## Data
+
+### Use of satellite data
+
+<div class="bulletin-item" data-places="COM" markdown="1">
+
+**[FAO GIEWS Earth Observation — Comoros Country Indicators](https://eo.apps.fao.org/country/index.jsp?code=COM&lang=en)** — FAO Global Information and Early Warning System on Food and Agriculture (GIEWS), 31 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/COM/" title="COM">Comoros</a>
+
+The UN food agency's earth observation service publishes country indicators for Comoros: an agricultural stress index, vegetation condition and health indices, and estimated precipitation and precipitation anomalies over a rolling 36-month period. It is satellite-derived agricultural monitoring for a country whose own record holds no national crop-monitoring product.
 
 </div>
 

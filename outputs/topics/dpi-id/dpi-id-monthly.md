@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.id
-places: DZA; AGO; BDI; CMR; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZWE
-record: 2ffd64bdaf1c
+places: DZA; AGO; BDI; CMR; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 8f4379f57a94
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -204,6 +204,10 @@ A second identifier moved a step behind it. At a ministerial session at La Kasba
 The identity authority put its own constraint on the record on 7 August: it is [operating at 70% of its approved workforce, with 25 districts served by a single member of staff and two board seats vacant](https://allafrica.com/stories/202608070683.html). The figures were given to the internal affairs minister alongside a request for a permanent headquarters and additional wage funding.
 
 Four days later the Auditor General's account of the same authority reached the press, and it puts a size on the consequence. As at late October 2025 [17 million citizens were still awaiting national identity cards, only 0.2% of first-time applicants had been cleared for printing, the staff vacancy rate stood at 26% and identity renewal faced a UGX256.8bn funding shortfall](https://redpepper.co.ug/id-nightmare-ugandans-curse-nira-over-r-nile-like-long-queues-confusing-collection-points-rejected-new-ids/150319/) — reported amid cross-district queue chaos over collection of new cards. The figures are ten months old at publication, and the authority publishes no current backlog series against which to test them.
+
+## Zambia
+
+The national authentication service is described by the body that runs it. The state technology institute [publishes it as an operational national authentication and access-control service, with single sign-on, OpenID Connect, multi-factor authentication and passwordless credentials for electronic government services](https://pass.gsb.gov.zm/about). Named protocols and a running service are a stronger artefact than most identity positions on this ledger; the page carries no date, so the position is dated to retrieval, and no user count, uptime figure or list of relying services is published.
 
 ## Zimbabwe
 

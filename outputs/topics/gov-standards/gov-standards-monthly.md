@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: gov.standards
-places: AGO; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA
-record: 9e75af96f884
+places: AGO; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; ZMB
+record: ed03153cc9ed
 ---
 
 # Standards: monthly update, August 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -103,3 +103,7 @@ Parliament's communications committee [prefers strengthening the existing regula
 ## Tanzania
 
 The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
+
+## Zambia
+
+The standards bureau states its own position rather than reporting a change. Its service page [puts more than 50 international standards adopted as Zambian Standards, within a catalogue of more than 6,500 national standards across sectors including information and communication technology](https://www.zabs.org.zm/standards-development). The page carries no date, so the figures are dated to retrieval, and no breakdown by sector or year of adoption is published — an adoption count with no series behind it.
