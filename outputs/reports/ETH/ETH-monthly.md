@@ -3,9 +3,9 @@ title: Ethiopia — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: ETH
-ledger_rows: 26
-not_held: 4
-record: 4b84a303576d
+ledger_rows: 30
+not_held: 5
+record: 3ac280871fec
 ---
 
 # Ethiopia: monthly update, August – September 2026
@@ -116,4 +116,12 @@ The flagship coder-training programme is [now reported as a seven million coders
 University connectivity is the delivery side of the research position. A funder's account [describes campus connectivity transforming learning across Ethiopian campuses](https://www.worldbank.org/en/news/feature/2026/08/24/how-better-connectivity-is-transforming-learning-across-ethiopian-campuses). It is the funder's own account, with no bandwidth, campus count or student figure in the record held.
 
 Against it the FY2026/27 federal budget [carries *Artificial Intelligence University Construction* as a single named capital project at ETB 5,000,000,000](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) â€” domestic money, appropriated rather than pledged, and large enough to dominate the year's digital total on its own. Nothing moved on the national artificial-intelligence policy itself, on model development, or on which foundation models the country runs.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The month's movement on access is participation rather than service. The National Dialogue Commission [reports that its conference ran from 15 July to 22 August 2026, with around 4,000 participants deliberating eight national agenda items and recommendations submitted to the Commission](https://ethiondc.org.et/en/national-dialogue-conference-concludes-successfully/). It is the Commission's own account, and nothing in the record held states which recommendations were taken up. Nothing moved this month on digital access to public services, on refugee inclusion or on device affordability.
 <!-- /narrative -->
