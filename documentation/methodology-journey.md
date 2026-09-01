@@ -19,15 +19,28 @@ status: draft; placement undecided
 
 On the evening of 29 August 2026, a Somali news site published a short report that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.
 
-The next day it was a linked claim in three published documents: a line in Somalia's monthly update, a row in Somalia's progress report, and an entry in that day's bulletin. This is what happened in between, and what each process in the chain was for.
+The next day it was a linked claim in three published documents on Corpus: a line in Somalia's monthly update, a row in Somalia's progress report, and an entry in that day's bulletin. This is what happened in between, and what each process in the chain was for.
 
 ### It is found, not received
 
-Nothing arrives at Corpus. Every document is looked for.
+Nothing arrives in Corpus without a search.
 
-The looking is done by a **sweep cycle** that works one day of a rotation at a time. Some sweeps run every time — a fixed list of trade journals, and a search of the open web beyond it. The rest take turns: national newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country research on a third; regions and regional institutions on a fourth. The Somalia report was caught by the **off-list sweep**, the half of the run that searches the open web rather than a list, because Dawan Africa is on no standing list.
+The looking is done by a **sweep cycle** that works one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for items published in the last 36 hours. The rest take turns: national newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country research and regional institutions on a third. (National budgets, expenditure and audits will soon be added as a fourth. The Somalia report was caught by the **off-list sweep**, the half of the daily run that searches the open web rather than a list, because the publisher, Dawan Africa, is on no standing list.
 
 Two kinds of sweep ask two different questions. The list sweeps work a **window** — what did this domain publish between the last run and now, with a day of deliberate overlap so a story indexed late is caught next time rather than lost. The content sweeps ask instead what has appeared since they last ran, however long ago that was. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.
+
+### Two ways of looking
+
+The searching and fetching are done through [Exa](https://exa.ai/), and it is used in two quite different modes depending on whether the target is a *place to look* or a *thing to find out*. (The donor-finance sweep is the exception to both: it reads IATI's own datastore through its API, because donors' structured reporting is not something to search for.)
+
+**Standard search**, where the target is known. A query scoped to a single domain and bounded by the run's dates, run once per source, in that source's own language. This is what the trade-journal, newspaper, academic-journal and think-tank sweeps use. Its real virtue is not precision but the hard scope: a domain-scoped query *cannot* return anything from off the list, which is what makes the list a boundary rather than a preference. Alongside it, a separate fetch call retrieves each page so the full text can be stored.
+
+**Agent mode**, where the target is a subject. Instead of a query string, the Agent is handed a written brief — what to look for, over what period, what to prefer, what to leave out — and composes and follows its own searches, at a stated effort level. This is what the open-web sweep uses, and what the four per-country research briefs, the regional and institutional briefs and the financier briefs all run on. It finds material a query would not, because it can follow a lead: a strategy document mentioned in passing, a critique of a programme published somewhere nobody would have thought to look. The Somalia report came in this way — Dawan Africa is on no list, so no domain-scoped query would ever have been pointed at it.
+
+The cost of that reach is that it cannot be fenced. There is no hard domain exclusion in a brief, so anything the brief says to avoid is guidance rather than a filter, and the screening moves downstream to staging and admission. Two rules follow, and both are absolute:
+
+- **Nothing the Agent writes is ever stored.** Its output is a synthesis — exactly the second-hand, already-compressed material the base refuses on principle. The Agent's job ends at discovery: every candidate it surfaces is then fetched, verified and stored as the source's own full text. A stored body that is the Agent's summary of a document, rather than the document, is a defect.
+- **The Agent's dates are not evidence.** Every publication date is re-established from the fetched page itself. A date taken from a search result is how an item from outside the window gets in looking as though it belonged.
 
 Before anything is fetched, the candidate's **origin** is screened — not what it says, but where it came from. A domain that fabricates, rewrites without attribution, or launders someone else's reporting under its own byline is on a drop list and is never collected, however plausible the individual story looks. This is a separate test from whether the story is any good, because a hostile origin produces items that are fluent, correctly dated, on-topic and specific enough to publish straight onto a page. It cannot be caught by reading them.
 
@@ -41,7 +54,7 @@ At this point the item is a *candidate*. It is written to a staging folder and n
 
 Every item gets one of four dispositions. It is admitted to the archive; or it is turned into a **contradiction brief** because it disagrees with something already held; or it is turned into an **acquisition line** because the real document is the gazette it mentions rather than the story about it; or it is deleted. An item can produce a brief or a line *and* be deleted — leaving the queue is not the same as being admitted. Budget documents take a fifth route to a separate extraction pass, since a 300-page appropriation act is not a news item.
 
-Duplicates are refused in three tiers, cheapest first: an exact URL match against the index of everything already held, then a narrow comparison against sources of similar date and place, then — and only then, on the small residue — a judgement about whether this is genuinely a new event. Sources that *disagree* about the same event are never treated as duplicates; that is the contradiction route.
+Duplicates are refused in three tiers, cheapest first: an exact URL match against the index of everything already held, then a narrow comparison against sources of similar date and place, then -and only then, on the small residue - a judgement about whether this is genuinely a new event. Sources that *disagree* about the same event are never treated as duplicates; that is the contradiction route.
 
 Admission also produces the document's **one sentence**: a bolded claim about a dated development in a place, with the specifics after it. This sentence is written once, on the source itself, with the full text in hand. Everything downstream assembles it; nothing rewrites it. A source that earns no such sentence is still held in full — it simply makes no claim on a country page, and the refusal is recorded with its reason rather than left blank. Historical material brought in to build a baseline is handled in a separate lane and earns no sentence by rule: an old document arriving late is a baseline, not news.
 
