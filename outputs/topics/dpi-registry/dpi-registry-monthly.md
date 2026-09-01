@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.registry
 places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6e3db1050a61
+record: 837ad9d34718
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -132,7 +132,7 @@ The month's registry work is a membership audit rather than a build. The interio
 
 The business and intellectual property authority [offers online name search, name reservation and application-status verification](https://www.bipa.na/), with no transaction or uptake figure published and no publication date on the capture. The civil registration statute is unchanged and was [read by officials on 25 July as permitting institutions to accept either the physical card or its digital version, with disclosure conditional on the holder's consent](https://informante.web.na/?p=398234). Its [commencement date is not established](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) and the held record summarises rather than reproduces it.
 
-The securities depository was used for the first time by a listed corporate issuer. A N$250.5 million sustainability-linked bond [was converted into an electronic record on 21 August after bondholders were notified on 8 August, the first practical use of the dematerialisation capability since the exchange launched the depository in December 2025](https://www.namibiansun.com/mw-main/n250m-bond-moves-online-NMH017110-3015-21006); the issuer's three other listed bonds were notified for 8 September.
+The securities depository was used for the first time by a listed corporate issuer. A N$250.5 million sustainability-linked bond [was converted into an electronic record on 21 August after bondholders were notified on 8 August, the first practical use of the depository since the exchange launched it in December 2025](https://www.namibiansun.com/mw-main/n250m-bond-moves-online-NMH017110-3015-21006); the issuer's three other listed bonds were notified for 8 September.
 
 ## Niger
 

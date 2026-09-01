@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.store
-places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MWI; MRT; MUS; MAR; MOZ; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
-record: 1a44d5535827
+places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
+record: 0d3049f97a36
 ---
 
 # Data Storage: monthly update, August 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -93,6 +93,10 @@ A carrier-neutral operator announced on 23 July that a wholesale network will co
 
 
 It was formally inaugurated eight days later, on 11 August, [sited at the university in recognition of its running of the country-code domain and the internet exchange, and intended to carry artificial-intelligence, cloud and research services](https://uem.mz/uem-inaugura-centro-de-dados/). No capacity, cost or service date accompanies the intention.
+
+## Namibia
+
+The national data centre moved from a Cabinet directive to a budget line: it is now [one of the ICT ministry's flagship projects for 2026/27 inside a N$639.2 million budget](https://technews.com.na/2026/08/06/namibia-to-establish-national-data-centre-under-n639-2m-ict-budget/). Four years after a government task force found the country had none and recommended building one, it still has no site, capacity, cost or completion date.
 
 ## Nigeria
 

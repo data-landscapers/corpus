@@ -3,13 +3,13 @@ title: Cybersecurity — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.cybersec
-places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NGA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c1fc4a3e268e
+places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; TCD; COG; CIV; GAB; GHA; KEN; LSO; LBR; LBY; MWI; MUS; MAR; MOZ; NAM; NGA; SEN; SLE; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: e6d984d7fe89
 ---
 
 # Cybersecurity: monthly update, August 2026
 
-*31 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -129,6 +129,10 @@ Against that architecture the month produced a claimed breach of the security se
 ## Mozambique
 
 The national response team put a number on what it is seeing. It [reported ransomware infection attempts detected on the national network and told organisations not to pay ransoms but to report them](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/). It is the first such count the base holds; no period, sector breakdown or successful-infection figure accompanies it.
+
+## Namibia
+
+The trust layer beneath the September electronic identity launch was signed in the last week of the month. The communications regulator and a German identity vendor [signed an implementation agreement with the home affairs ministry connecting it to the regulator's national trust framework](https://www.itweb.africa/article/namibia-advances-national-digital-trust-framework/lwrKx73Y1pAqmg1o), with the regulator as national root certification authority and the ministry becoming the first certification service provider through the issue of electronic identity documents. It is the first named certification service provider on this ledger, and it arrives a fortnight before the credential it is meant to certify.
 
 ## Nigeria
 

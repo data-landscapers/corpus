@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: data.open
 places: BEN; DJI; COD; GAB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
-record: a7b327e8ac04
+record: d4a1e21c6755
 ---
 
 # Open data: monthly update, August 2026
@@ -55,7 +55,7 @@ The open-data portal is operating with four published procedure volumes — [man
 
 ## Namibia
 
-The environment ministry put a data platform where the country has no open-data policy at all. Its [Multilateral Environmental Agreements monitoring and reporting platform launched at N$12m in the week of 7 August](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/), built with UNDP and funded by the Global Environment Facility under a land-governance project, to centralise environmental data for planning, decision-making and national reporting, with the national university as technical and academic partner. No public access, dataset list, licence or publication rule is stated, so on the record held it is a reporting tool rather than open data — and the access-to-information statute that would give a citizen a claim on any of it remains enacted and uncommenced.
+The environment ministry put a data platform where the country has no open-data policy at all. Its [Multilateral Environmental Agreements monitoring and reporting platform launched at N$12m in the week of 7 August](https://neweralive.na/ministry-unveils-n12-million-monitoring-website/), built with UNDP under a Global Environment Facility land-governance project to centralise environmental data for national reporting. No public access, dataset list, licence or publication rule is stated, so on the record held it is a reporting tool rather than open data — and the access-to-information statute that would give a citizen a claim on any of it remains enacted and uncommenced.
 
 
 A second dataset arrived from outside government altogether. A privately built application [launched nationwide on 14 August taking public reports of more than thirty kinds of infrastructure and service-delivery fault onto a mapped national dataset, with automatic facial and licence-plate redaction](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157). It is privately held: no user count, arrangement with any authority, or licence for the data is stated, which is the difference between a dataset and an open one.

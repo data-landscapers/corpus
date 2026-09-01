@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.pay
 places: DZA; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MOZ; NAM; NER; NGA; RWA; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c392ea7f8376
+record: e8373794ac17
 ---
 
 # Digital Payments and Fintech: monthly update, August 2026
@@ -145,7 +145,7 @@ The central bank, the instant payments company and the clearing house signed a d
 
 The payments association's annual general meeting on 28 July also heard that licensing and supervision of payment providers will move to the central bank, with no instrument, commencement date or transition plan published ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
-The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses; how cash integrates with the instant payment system was not stated.
+The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses. How cash integrates was not stated.
 
 ## Niger
 

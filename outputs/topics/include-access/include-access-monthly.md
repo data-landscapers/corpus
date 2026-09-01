@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: include.access
 places: DZA; AGO; BWA; BDI; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
-record: 562c47da13e9
+record: 4de8fe9313a9
 ---
 
 # Access to services: monthly update, August 2026
@@ -85,7 +85,7 @@ A commercial bank [opened its mobile banking application to customers without co
 
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
-Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated — which matters most for the platform's stated audience, since parliamentary evidence in the same window put schools and clinics in Kavango West as substantially cut off from reliable internet.
+Education added a channel built for the same margins. The education ministry and UNICEF [launched a Namibia Learning Passport, a digital and offline learning platform aimed at rural, remote and underserved young people](https://informante.web.na/?p=399266), at the international youth day event in Keetmanshoop. No user target, content catalogue, device requirement or offline distribution route is stated, which matters most for the audience the platform names.
 
 
 What that looks like in one region was put to the parliamentary ICT committee on 11 August: [21 of Kavango West's 188 schools have workable connectivity, leaving 55,002 learners without digital teaching tools](https://www.nampa.org/text/22988531), and health officials told the same committee that clinics there still struggle with unreliable mobile coverage. The figures are the regional education director's own, and they sit against a target of full telecommunications coverage by 2030.

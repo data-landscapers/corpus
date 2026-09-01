@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: geopol.india
 places: EGY; MAR; NAM
-record: e5284c87e4df
+record: c90649de8194
 ---
 
 # India activities: monthly update, August 2026
@@ -21,4 +21,4 @@ The direction became a structure. The two governments' digital ministers met in 
 
 ## Namibia
 
-A [five-node high-performance computing cluster is specified for deployment at the science and technology university in Windhoek — 17.7 TF peak, 5,320 cores, 480 GB memory and 100 TB of storage](https://inceit.nust.na/param-hpc) under the India-Namibia centre of excellence. No operator, cost or opening date is published. It is a university research cluster and not the national high-performance computing facility the gaps register still seeks; the source itself warns against conflating the two.
+A [five-node high-performance computing cluster is specified for deployment at the science and technology university in Windhoek — 17.7 TF peak, 5,320 cores, 480 GB memory and 100 TB of storage](https://inceit.nust.na/param-hpc) under the India-Namibia centre of excellence. No operator, cost or opening date is published. It is a university research cluster, not the national high-performance computing facility the gaps register still seeks.
