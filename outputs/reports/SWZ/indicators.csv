@@ -251,3 +251,136 @@ finance.budget--sustainable-domestic-financing-of-digital-transformation,Regress
 [The digital transformation programme carries E1.2 billion, about US$65 million, of which E648 million goes to affordable broadband and E450 million to the citizen-services component](2026-06-23-e1-2-billion-digital-project-connect-schools-clinics-communities), and it is externally financed rather than appropriated.
 
 No domestic budget appropriation for digital transformation is held for any year, which is what leaves the programme's continuation resting on the external facility.",SWZ-finance.budget-tax-gap|SWZ-finance.budget-none
+gov.policy--ict-strategy,"No change, a policy of 2006 still named as the governing framework",The [national ICT policy](2006-08-01-swaziland-nici-policy-and-implementation-plan) dates from 2006 and the ICT ministry's own 2024/25 report to Parliament still runs against it.,"The 2006 policy, adopted by Cabinet that August, is the identifiable national ICT policy; an implementation plan was drafted for 2012 to 2016 and no replacement is held ([policy](2006-08-01-swaziland-nici-policy-and-implementation-plan)).
+
+What is moving is financing and legislation rather than strategy. A World Bank grant of US$2 million funds eighteen months of preparation for the Digital Eswatini project, including a consultancy to write a digital roadmap and implementation plan ([procurement plan](2025-09-24-digital-eswatini-procurement-plan)).
+
+The Senate moved in February 2026 to take the Critical Infrastructure Protection Bill at the stage it had reached in the preceding session, sponsored by the ICT minister ([order paper](2026-02-26-eswatini-senate-order-paper-1-2026)).
+
+Neither produces a strategy: the roadmap is a consultancy not yet let, and the Bill is not an Act.",SWZ-gov.policy-national-ict-policy|SWZ-gov.legislate-critical-infrastructure-protection-bill|SWZ-finance.new-digitalproject
+gov.policy--broadband-strategy,"No change, the one broadband strategy expired in 2021 with no renewal held","The regulator's [universal access strategy](2018-01-01-esccom-uas-regulatory-strategy-broadband-broadcasting) for 2018-2021 is the only broadband instrument held, and it awaited a National Broadband Plan that never arrives on this base.","The strategy states that national broadband targets awaited a separate National Broadband Plan and Strategy, and substituted SADC targets in the meantime; its period expired in 2021 and no renewal is held ([strategy](2018-01-01-esccom-uas-regulatory-strategy-broadband-broadcasting)).
+
+The regulator moved on the baseline instead. It proposed on 16 July 2026 to raise the minimum guaranteed internet speed from 2 Mbps to 10 Mbps, open for comment to 18 August 2026 ([notice](2026-07-16-esccom-notice-08-2026-minimum-data-speed)).
+
+The 2 Mbps target it would replace has stood in the quality-of-service regulations since 2016.
+
+What the base holds is regulation without a plan behind it: a proposed speed floor, a national backbone under rollout, and no published national broadband target at any date.",SWZ-gov.policy-broadband-regulatory-strategy|SWZ-infra.connect-minspeed|SWZ-infra.connect-fibre
+gov.policy--data-storage-cloud-strategy,Advanced,"A draft [national data governance policy](2026-07-22-mchumanisi-data-exchange-platform) for 2027-2031 was validated in July 2026, and a cloud memorandum with a hyperscaler is in force.","The draft policy was validated in July 2026 and is targeted for completion before the end of the year; it proposes a tell-government-once principle under which a citizen supplies information once and authorised institutions reach it when delivering a service ([validation](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The consultancy funded to write the Digital Eswatini roadmap is scoped to cover cloud solutions and a data-migration operating model ([procurement plan](2025-09-24-digital-eswatini-procurement-plan)).
+
+A memorandum with a hyperscaler is established as a cloud-services and electronic-government arrangement, and the national data centre operates and is named a structural concentration of state information.
+
+No hosting policy, cloud-first rule or data-residency instrument for government systems is held; the closest is the data protection authority's directive that controllers record where their data is stored.",SWZ-gov.policy-datapolicy|SWZ-dpi.govtech-google|SWZ-infra.store-ndc|SWZ-gov.protect-data-mapping-directive
+gov.policy--data-interoperability-framework-roadmap,Advanced,A [national data exchange platform](2026-07-22-mchumanisi-data-exchange-platform) is proposed in the draft data governance policy; no interoperability framework document is held.,"Mchumanisi is proposed as the platform through which authorised institutions would reach information a citizen supplies once, with birth and marriage certificate services named among the intended uses; no specification, procurement or timetable is held ([proposal](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The ICT ministry's report to Parliament for 2024/25 records GovStack-model application development and a review of the electronic-government interoperability framework ([report](2025-01-01-eswatini-mict-annual-performance-report-2024-25)).
+
+The World Bank consultancy funded to write the digital roadmap is scoped to include data interoperability as a public-infrastructure building block ([procurement plan](2025-09-24-digital-eswatini-procurement-plan)).
+
+Against all of that, more than half of ministries lack meaningful system interoperability on the base's own measure. The framework is reviewed, funded and proposed, and not published.",SWZ-dpi.exchange-mchumanisi-data-exchange-platform|SWZ-dpi.exchange-interop|SWZ-gov.policy-datapolicy
+gov.policy--data-localisation-policies,Advanced,"No localisation policy is held. The [Data Protection Act](2022-03-04-eswatini-data-protection-act-2022) governs transborder flow, and a 2025 directive makes controllers record where data is stored.","The Act's Part V governs the transborder flow of personal information and is the closest instrument to a localisation rule; the base holds no standalone localisation policy ([Act](2022-03-04-eswatini-data-protection-act-2022)).
+
+The data protection authority directed in September 2025 that every controller and processor, public bodies included, map and inventory its data — flows, storage location and sharing — with returns due by 31 March 2026 ([directive](2025-09-01-eswatini-edpa-data-mapping-directive-guidelines)).
+
+At the opening of the national data policy workshop on 29 April 2026 the ICT minister said the policy aims to make Eswatini one of the safest places in the world to store data ([workshop](2026-04-29-eu-eswatini-national-data-policy-support)).
+
+A stated ambition to attract storage is not a residency rule, and no compliance count for the mapping directive is held.",SWZ-gov.protect-act|SWZ-gov.protect-data-mapping-directive|SWZ-gov.policy-datapolicy
+gov.policy--open-data-policy,"No change, a data governance policy in draft and no open-data instrument",No open data policy or portal is held. The [draft data governance policy](2026-07-22-mchumanisi-data-exchange-platform) is about sharing between institutions rather than publication to the public.,"The draft policy for 2027 to 2031 was validated in July 2026 and turns on institutions reaching each other's records, not on publishing them ([validation](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The drafting process opened in April 2026 with European Union, member state and GIZ support under a data governance initiative ([workshop](2026-04-29-eu-eswatini-national-data-policy-support)).
+
+The data-mapping directive creates the inventories a publication regime would need, distinguishing what is held from what is protected ([directive](2025-09-01-eswatini-edpa-data-mapping-directive-guidelines)).
+
+What the base does not hold: a national open-data portal, a publication licence, a list of datasets any public body is obliged to release, or a date by which any of that is due.",SWZ-gov.policy-datapolicy|SWZ-gov.protect-data-mapping-directive
+gov.legislate--legislation-covering-digital-id,"Advanced, on treaty ratification rather than on any identity statute","Identity rests on the [Identification Order of 1998](1998-11-24-eswatini-identification-order-1998); no digital identity Act exists, and three conventions went to senators for ratification in July 2026.","The King's Order in Council of 1998 establishes the population register and the personal identity number, and is the founding legal instrument behind national identity; no dedicated digital-identity Act is held ([Order](1998-11-24-eswatini-identification-order-1998)).
+
+The ICT minister presented the African Union Malabo Convention on cyber security and personal data protection, the Budapest Convention on cybercrime and the Tampere Convention to senators for ratification on 10 July 2026 ([workshop](2026-07-10-eswatini-mict-senators-workshop-ratification-treaties)).
+
+SADC ICT ministers had urged member states to consider ratifying Malabo in September 2019 ([ministerial](2019-09-20-sadc-ict-ministers-media-statement)). Seven years later it is at the presentation stage.
+
+The digital identity itself remains planned under the Digital Eswatini project, with no legal basis on file for it.",SWZ-gov.legislate-international-convention-ratification|SWZ-dpi.registry-population|SWZ-dpi.id-digitalid
+gov.legislate--digital-payments-legislation,Advanced,"The [National Payments System Act 2023](2023-01-01-eswatini-national-payments-system-act-2023) is in force, regulations to operationalise it were approved by Cabinet in July 2026, and the fast-payments platform completed onboarding in November 2025.","The Act of 2023 provides for the regulation and supervision of payment systems, the safety and efficiency of the national payments system and the central bank's functions in relation to them ([Act](2023-01-01-eswatini-national-payments-system-act-2023)).
+
+Cabinet approved National Payment Systems Regulations of 2026 in the first quarter of 2026/27 to operationalise it; no gazette text, publication or commencement date is held ([Cabinet](2026-07-23-eswatini-cabinet-approves-major-reforms)).
+
+The central bank governor told a regional report launch on 13 November 2025 that the eighth and final participant would go live on the fast-payments platform two days later ([remarks](2025-11-13-eswatini-cbe-governor-siips-remarks)).
+
+The statute is the enablement and the switch is the delivery; the regulations between them are approved and unpublished.",SWZ-gov.legislate-national-payments-system-act|SWZ-gov.legislate-national-payment-systems-regulations-2026|SWZ-dpi.pay-switch
+gov.legislate--legislation-enabling-data-interoperability,"No change, no interoperability statute and the duties that exist are protective","No Act enables data interoperability. The [Electronic Communications and Transactions Act](2022-03-04-eswatini-electronic-communications-and-transactions-act-2022) is the nearest instrument, and it does not create a duty to share.","The Act of 2022 is the operative electronic-transactions statute and the closest legal basis for exchange between public bodies; nothing in the base creates an interoperability obligation ([Act](2022-03-04-eswatini-electronic-communications-and-transactions-act-2022)).
+
+The obligations that do exist run the other way. The data protection authority requires every controller to document its data flows, storage and sharing, which constrains exchange rather than mandating it ([directive](2025-09-01-eswatini-edpa-data-mapping-directive-guidelines)).
+
+Where systems are being joined it is by project rather than statute: the 2026 budget speech reports the first release of an integrated financial management information system ([budget speech](2026-02-27-eswatini-budget-speech-2026)).
+
+More than half of ministries still lack meaningful system interoperability.",SWZ-gov.legislate-electronic-communications-and-transactions-act|SWZ-gov.protect-data-mapping-directive|SWZ-dpi.exchange-interop
+gov.legislate--ai-legislation-regulations,"No change, no artificial-intelligence instrument and a strategy that is Not held","No AI Act or regulation exists. The regulator's [spectrum guidelines](2024-01-01-eswatini-esccom-licence-exempt-spectrum-guidelines) are the only binding instrument touching AI devices, and a national AI strategy is not held.","The 2024 licence-exempt spectrum guidelines are the base's only binding instrument expressly touching artificial-intelligence and internet-of-things devices ([guidelines](2024-01-01-eswatini-esccom-licence-exempt-spectrum-guidelines)).
+
+A reviewed science, technology and innovation policy and a combined fourth and fifth industrial revolution strategy went to stakeholder validation in February 2026, framing artificial intelligence, automation and data governance inside a human-centred approach; neither document is held ([validation](2026-02-24-eswatini-mict-sti-policy-4ir-5ir-validation)).
+
+The Prime Minister told a global governance dialogue in July 2026, speaking for the King, that artificial-intelligence governance frameworks should protect children and uphold human dignity ([Geneva](2026-07-06-eswatini-pm-ai-rules-protect-children)).
+
+The regulator has issued guidance on artificial intelligence and deepfakes in broadcasting, which is guidance and not an instrument with force. A national AI strategy was probed and not found.",SWZ-gov.legislate-licence-exempt-spectrum-guidelines|SWZ-gov.policy-science-technology-and-innovation-policy|SWZ-tech.ai-deepfake|SWZ-tech.ai-4ir
+gov.legislate--statistics-legislation,"No change, a statute of 1967 unamended against a census it must now carry","The [Statistics Act of 1967](1967-10-27-eswatini-statistics-act-1967) is the operative statute, fifty-nine years old and unamended on the base, with no replacement Bill held.","The Act constitutes the Central Statistical Office and carries its collection powers; no amendment, replacement Bill or commencement is held ([Act](1967-10-27-eswatini-statistics-act-1967)).
+
+Under it, the ministry and the population fund launched the 2027 Population and Housing Census together with the 2025/2026 Economic Census in November 2025 ([launch](2025-11-07-eswatini-ministry-unfpa-launch-census)).
+
+The 2026 budget speech reports household mapping and listing begun and E130.5 million allocated ([budget speech](2026-02-27-eswatini-budget-speech-2026)).
+
+The gap is the point: the largest statistical operation in a decade runs on a statute written before the internet, and nothing on the base sets a date for replacing it.",SWZ-gov.legislate-statistics-act-1967|SWZ-data.statistics-2027-population-and-housing-census
+gov.legislate--access-to-information-legislation,"No change, a Bill named as an action-plan item and not tabled",No access to information law exists. The ICT ministry's own [report to Parliament](2025-01-01-eswatini-mict-annual-performance-report-2024-25) lists developing a Bill as a departmental action-plan item.,"The ministry's annual performance report for 2024/25 lists 'Develop Access to Information Bill' among its departmental action-plan items; the Bill is not tabled and no text or timetable is held ([report](2025-01-01-eswatini-mict-annual-performance-report-2024-25)).
+
+A regional media-freedom body met the ministry's principal secretary on 25 February 2026 and said it was on standby to support enactment; the ministry reaffirmed cooperation on media self-regulation and made no enactment commitment ([communique](2026-02-27-eswatini-misa-engages-government-media-freedom)).
+
+Where the ministry has legislated on information it has legislated on publishing rather than access: online media publishing guidelines are complete on its own account.
+
+Without an access right, the data governance policy's sharing between institutions has no counterpart obliging disclosure to a citizen.",SWZ-gov.legislate-access-to-information-bill|SWZ-gov.legislate-mediaguidelines
+gov.regional--regional-policy-collaboration,Advanced,"The King was elected [Chairperson of the SADC Organ](2026-08-17-sadc-46th-summit-communique) in August 2026, and Eswatini sits in the ICT ministerials that endorsed the regional digital strategy.","The 46th ordinary summit in Durban elected the King Chairperson of the Organ on Politics, Defence and Security Cooperation; no digital or ICT portfolio attaches to the role on the base ([communique](2026-08-17-sadc-46th-summit-communique)).
+
+Eswatini attended the June 2023 ICT ministerial, which endorsed the draft SADC Digital Transformation Strategy and approved the SADC Postal Strategy 2022-2025 ([ministerial](2023-06-19-sadc-ministers-transport-ict-infrastructure-meeting)).
+
+Regional data-protection work reaches national practice through the adequacy model in force for cross-border transfers, and technical assistance is funded to connect national systems into a federated regional electronic know-your-customer framework.
+
+The pattern is attendance and endorsement. No SADC digital instrument on the base carries an Eswatini implementation date.",SWZ-gov.regional-sadc-organ-chairmanship|SWZ-gov.regional-sadc-ict-ministerial-participation|SWZ-gov.regional-regional-federated-ekyc
+gov.regional--regional-legal-harmonisation,"No change, urged in 2019 and at the presentation stage in 2026",SADC ministers urged [ratification of the Malabo Convention](2019-09-20-sadc-ict-ministers-media-statement) in 2019; it reached Eswatini's senators for ratification in July 2026 and is not ratified.,"The September 2019 ministerial urged member states to consider ratifying the African Union Convention on Cyber Security and Personal Data Protection, and approved regional frameworks including mobile broadband gap analysis guidelines and a framework for a regional computer incident response team ([ministerial](2019-09-20-sadc-ict-ministers-media-statement)).
+
+Seven years later the ICT minister presented Malabo, alongside the Budapest and Tampere Conventions, to senators for ratification ([workshop](2026-07-10-eswatini-mict-senators-workshop-ratification-treaties)).
+
+The one regional instrument the base records as in force domestically is the SADC adequacy model for cross-border data transfers, applying since the Data Protection Act commenced.
+
+A regional cybersecurity framework was approved regionally in 2026 with no national implementing instrument recorded.",SWZ-gov.legislate-international-convention-ratification|SWZ-gov.regional-sadc|SWZ-infra.cybersec-sadc
+gov.regional--shared-regional-infrastructure,"No change, one operating cross-border route and one announcement",A [cross-border backbone route](2023-10-03-uasf-connectivity-programmes) to Maputo and onward to undersea cable at Cape Town is the one shared regional asset the base records Eswatini using.,"The universal access fund and the national backbone operator built an alternative cross-border route to Maputo over powerline fibre, reaching undersea-cable access at Cape Town, in response to frequent backbone and internet failures ([programme](2023-10-03-uasf-connectivity-programmes)).
+
+A subsea cable system for the Indian Ocean Basin was announced in September 2025 and framed by its operator as a gateway for landlocked southern African and east African markets to reduce reliance on single routes ([announcement](2025-09-24-seacom-2-0-subsea-cable-announcement)). No Eswatini commitment to it is held.
+
+International capacity on the national backbone stands at 72 Gbps.
+
+For a landlocked country every route is somebody else's infrastructure, and the base holds one operating route and one announcement.",SWZ-infra.connect-cross-border-backbone-route|SWZ-infra.connect-fibre
+gov.standards--national-interoperability-standards,"No change, a framework under review and none published",No national interoperability standard is published. The ICT ministry's own [report](2025-01-01-eswatini-mict-annual-performance-report-2024-25) records the e-government interoperability framework under review.,"The ministry's report to Parliament for 2024/25 records GovStack-model application development and a review of the electronic-government interoperability framework; the framework itself is not held ([report](2025-01-01-eswatini-mict-annual-performance-report-2024-25)).
+
+The draft data governance policy proposes Mchumanisi as the exchange platform, which is an architecture rather than a standard ([proposal](2026-07-22-mchumanisi-data-exchange-platform)).
+
+Where standards have been adopted they are sectoral: the health information exchange runs a master patient index with deterministic and probabilistic matching.
+
+More than half of ministries lack meaningful system interoperability, which is the condition a standard would exist to change. Two of the three sources staged for this indicator did not reach the base, so what is held here is thinner than the search behind it.",SWZ-dpi.exchange-mchumanisi-data-exchange-platform|SWZ-dpi.exchange-interop|SWZ-dpi.exchange-health-information-exchange
+gov.standards--national-quality-standards,Advanced,Nineteen [new national standards](2025-08-22-eswatini-19-new-national-standards) were designated in 2025 and certification cottage factories began construction in December.,"The standards authority is constituted by an Act assented in 2001; a 2025 account of the new designations cites a later Standards and Quality Act of 2023 as the enabling statute, and that Act is not held ([Act](2001-11-08-eswatini-standards-and-quality-act-2003)).
+
+Nineteen new national standards were designated across electricity, fuel facilities, liquefied petroleum gas, food production, beverages, climate change adaptation and household consumer products ([designations](2025-08-22-eswatini-19-new-national-standards)).
+
+Construction began in December 2025 on certification cottage factories at Lugongolweni under a scheme aimed at conformity for the smallest producers ([factories](2025-12-18-eswatini-eswasa-ingelo-certification-cottage-factories)).
+
+No count of certified organisations, and no conformity-assessment accreditation, is published.",SWZ-gov.standards-standards-and-quality-act|SWZ-gov.standards-national-standards-designations
+gov.standards--adoption-of-international-standards,Advanced,"The standards authority's [IT catalogue](2026-08-29-eswatini-swasa-it-standards-catalogue) lists 28 domesticated ISO standards, and national addressing standards were launched in July 2026.","The information-technology catalogue lists 28 standards domesticated under the SZNS designation, among them the ISO records-management standard and the Dublin Core metadata element set ([catalogue](2026-08-29-eswatini-swasa-it-standards-catalogue)).
+
+The Eswatini National Addressing Standards, the ISO 19160 parts 1 and 2 domesticated as SZNS, launched on 20 July 2026 with the communications regulator and the ICT and housing ministries ([launch](2026-07-20-eswasa-national-addressing-standards-launch)).
+
+Ten days earlier the authority certified the revenue service to the domesticated ISO 9001 quality management standard ([certification](2026-07-10-eswatini-eswasa-ers-iso9001-certification)).
+
+Domestication is running ahead of certification: the catalogue is a shelf of adopted standards, and the base records one certified public body.",SWZ-gov.standards-it-standards-catalogue|SWZ-gov.standards-national-addressing-standards|SWZ-gov.standards-revenue-service-iso-9001-certification
+gov.discourse--non-governmental-contribution-to-national-policy,Advanced,"The [national data policy](2026-04-29-eu-eswatini-national-data-policy-support) was drafted and validated through workshops taking in the private sector, civil society and academia.","A two-day stakeholders' workshop opened on 29 April 2026 with European Union, member state and GIZ support to begin drafting the national data policy ([workshop](2026-04-29-eu-eswatini-national-data-policy-support)), and a validation workshop in July put the draft to government ministries, regulators, the private sector, civil society, academia and development partners ([validation](2026-07-22-mchumanisi-data-exchange-platform)).
+
+The standing structure for it is provided rather than operating: the Computer Crime and Cybercrime Act establishes a National Cybersecurity Advisory Council, and no appointment, membership or meeting record is held ([Act](2022-03-04-eswatini-computer-crime-cybercrime-act-2022)).
+
+Where non-government scrutiny has bitten it was after the fact, in the public account demanded of a cloud memorandum after a contradiction between ministry and company.
+
+Participation on this base is by invitation to a workshop, not by a standing right to be consulted.",SWZ-gov.discourse-national-data-policy-consultation|SWZ-gov.discourse-national-cybersecurity-advisory-council|SWZ-gov.discourse-google
