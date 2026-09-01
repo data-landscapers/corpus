@@ -3,9 +3,9 @@ title: Malawi — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: MWI
-ledger_rows: 30
-not_held: 53
-record: 92aeb8a8f8b7
+ledger_rows: 34
+not_held: 39
+record: 7e38e5a065c1
 ---
 
 # Malawi: monthly update, August – September 2026
@@ -44,24 +44,34 @@ Regional work was two conversations. The minister [urged the regional bloc to ta
 <!-- narrative: governance--gov-standards -->
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
 <!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+A [four-day regional consultation on artificial intelligence and digital inclusion opened in Lilongwe on 19 August](https://www.comesa.int/comesa-launches-artificial-intelligence-and-digital-inclusion-consultations-in-malawi/) under ministerial patronage, gathering public, private, academic and civil-society input. It is the fourth consultative event of the window and, like the three before it, has produced no output document.
+<!-- /narrative -->
 
 ## ICT Infrastructure
 
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes in at least two daily newspapers seven days before they took effect. Both agreed to credit customers who bought affected products between 26 June and 2 July with bundles equal to the price difference, and to submit evidence of compliance by 31 July ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). The approved price increase itself stands.
+The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes seven days ahead; [both agreed to credit affected customers with bundles equal to the price difference and to show compliance by 31 July](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/). The approved increase stands.
 
-The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
+The ICT minister told Parliament that [additional mobile operator licences are under consideration and that the President had authorised the ministry to find an investor, with spectrum licence fees cut by 50% against the 20% the regulator announced in June 2025](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/). No bid timetable, licence terms or spectrum allocation was stated.
 
-The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
+The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own figures; no official national subscriber and coverage series is held.
 
-The operator's annual report replaced a figure that had carried no period. It [puts network infrastructure investment at MK30.87bn in 2025, directed mainly at modernisation, 4G site expansion and continued 5G rollout](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
+The operator's annual report [puts network infrastructure investment at MK30.87bn in 2025, mainly modernisation, 4G site expansion and 5G](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The generator's own account of 22 August [records reduced hydropower generation across several stations with remediation timelines running on](https://www.egenco.mw/status-of-power-generation-in-malawi/). It follows the commissioning in July of the [country's first standalone utility-scale battery storage system, 20 megawatts and 40 megawatt-hours at Kanengo, returning about 100 megawatts of previously curtailed renewable capacity to use](https://www.prnewswire.com/news-releases/malawi-commissions-first-standalone-utility-scale-battery-storage-project-to-strengthen-grid-reliability-and-unlock-energy-access-for-households-and-businesses-302834257.html). Storage was added in the same quarter generation fell.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -82,9 +92,9 @@ Two days later the South African side notified the update from its end, [publish
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it named the forthcoming mobile credential and set its launch for September 2026 ([registration bureau](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1)). On 5 August a separate blockchain-enabled wallet built by the United Nations Development Programme was stated to be in pilot ahead of nationwide rollout; neither announcement names the other.
+The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it [set the forthcoming mobile credential's launch for September 2026](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1), and on 5 August a separate distributed-ledger wallet was stated to be in pilot; neither announcement names the other.
 
-Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The individual fee levels and their previous values are not carried in the record held, so the size of the increase is not established — but the charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the same month the bureau reported approaching universal coverage.
+Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The fee levels and their previous values are not in the record held, so the size of the increase is not established. The charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the month the bureau reported approaching universal coverage.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -92,14 +102,14 @@ Using the system got more expensive. The bureau [raised fees for national identi
 On 25 July the central bank's expected banknote replacement cost for 2026 was reported at MWK 69.8bn against MWK 50.6bn in 2025, with an economists' association president naming government levies on digital money transfers as a reason cash use persists.
 
 
-Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
+Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), giving the platform operational and governance rules it lacked. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/); the merchant count is given for the nine together and not for Malawi.
 
 The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-The land register was reviewed rather than extended. A [workflow review workshop was convened on the Land Information Management System](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m). Reviewing workflows is what is done when a system is in service and not working as intended; no parcel count, coverage figure or defect list is published.
+The land register was reviewed at the centre and extended at the edges. The ministry was [reviewing electronic workflows and designing procedures for transactions still on paper](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m), which is what is done when a system is in service and not working as intended, while a March mission had [trained 647 district land officers and delivered over 400 computers, 100 printers and four satellite positioning units](https://www.linkedin.com/posts/digital-malawi-program-phase-i-digital-foundations-project_the-implementation-support-mission-for-the-activity-7442682853747871744-V-s6). No parcel count or coverage figure is published at either end.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -118,6 +128,11 @@ A paper process is being scoped out of existence. The partnership commission and
 
 <!-- narrative: digitalisation--digital-localgov -->
 The spending dashboard is running and its address is not on the record. The ministry [stated the real-time constituency development fund dashboard's coverage and its complaints channel](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/), at the same event that disclosed councils receiving clean audit opinions falling to 18 in 2024/25 from 22 the year before. No address for the dashboard is established in anything the base holds, so a transparency instrument published against a falling audit record cannot itself be inspected.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The university [ran two days of computer-skills training for 75 police officers](https://www.unima.ac.mw/news/single-post/university-of-malawi-trains-police-officers-in-computer-skills-14-08-2026) on 13 August. It follows the budget statement's [requirement that police fees be paid cashlessly from 1 April 2026](https://finance.gov.mw/documents/uploads/2026-03/Doc%201_2026-27%20Budget%20Policy%20Statement_0.pdf), and neither reaches a station: the crime management system is still at pilot, and no station count or deployment outside headquarters is on file.
 <!-- /narrative -->
 
 ## Capacity
@@ -147,4 +162,12 @@ The universal service fund is in operation and funded from the regulator's annua
 
 <!-- narrative: data--data-statistics -->
 The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
+<!-- /narrative -->
+
+## Geopolitics
+
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+The European Union [launched a EUR 143 million annual action plan for Malawi on 21 August](https://www.eeas.europa.eu/delegations/malawi/european-union-launches-new-eur143-million-annual-action-plan-aap-2026-malawi_en), four months after the [fourth partnership dialogue covered new gateway investments](https://www.eeas.europa.eu/delegations/malawi/malawi-and-european-union-hold-partnership-dialogue-1_en). Neither account states a digital or data-governance component of its own, so what the money buys in this sector is not knowable from the record - which is a different problem from the money not existing.
 <!-- /narrative -->
