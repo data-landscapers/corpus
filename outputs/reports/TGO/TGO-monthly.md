@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: TGO
-ledger_rows: 18
+ledger_rows: 22
 not_held: 39
-record: 2e02d298b412
+record: 1c52e7e53afa
 ---
 
 # Togo: monthly update, August – September 2026
@@ -84,6 +84,11 @@ Togo put a [national platform online centralising climate-risk data for public d
 
 The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response), following a training-of-trainers workshop held at the public-health training and research centre. No go-live date, facility coverage or data flow is stated.
 <!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+One procedure came off paper. The council of ministers [adopted a decree on 26 August amending the investment-approval committee so that the approval procedure is handled electronically](https://www.republiquetogolaise.tg/gestion-publique/2708-12211-conseil-des-ministres-du-26-aout-2026). The wider programme it sits in was described the same week: the ministry [set out accelerating reforms across governance, land and digital, naming cyberdefence and biometrics](https://www.republicoftogo.com/toutes-les-rubriques/eco-finance/gouvernance-foncier-numerique-les-reformes-accelerent). Neither account carries a timetable or a cost.
+<!-- /narrative -->
 
 ## Digitalisation
 
@@ -91,6 +96,11 @@ The modules for a [National Malaria Data Repository were approved](https://www.t
 
 <!-- narrative: digitalisation--digital-localgov -->
 A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database under the communes federation's digitalisation push and the 2023-2027 communal development plan. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
+<!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+Togo's agricultural digital work is now being copied. Chad [drew on the Togolese experience of deploying agricultural digital solutions](https://www.republiquetogolaise.tg/agro/0109-12228-solutions-numeriques-agricoles-le-tchad-s-inspire-de-l-experience-togolaise). The account is the host government's own. What the record held does not carry is a measure of what those solutions have achieved in Togo, which is what would make the visit worth making.
 <!-- /narrative -->
 
 ## Technology
@@ -107,4 +117,12 @@ A commune of Greater Lome began building the kind of register a municipality has
 
 <!-- narrative: capacity--capacity-literacy -->
 A programme of [school FabLabs, trained fabmanagers and regional innovation and technology centres](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) was set out publicly, together with the vocabulary it will be run in. No site count, budget or opening date is given.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+A service was built for people who cannot rely on a connection. A pilot of LébéNam, [an offline-capable platform for reporting gender-based violence and routing victims to the nearest care point](https://www.afrikelles.tg/lebenam-linnovation-numerique-au-service-de-la-lutte-contre-les-vbg/), was run this month. Designing for intermittent connectivity is the notable part. It is a pilot: no case volume, geographic coverage or referral outcome is in the record held.
 <!-- /narrative -->

@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: RWA
-ledger_rows: 32
+ledger_rows: 35
 not_held: 9
-record: 281ac5f1fdbe
+record: cf2dbd226af2
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -88,6 +88,11 @@ The data centre and cloud service directives governing the national facility are
 <!-- narrative: ict-infrastructure--infra-capacity -->
 Cabinet [approved an institute of computing on 24 July](https://www.ktpress.rw/2026/06/rwandas-ai-ambition-takes-shape-as-cabinet-approves-new-agency/), to open in September 2026 as an affiliated institute of the national university offering degrees in artificial intelligence and cyber security, with admission for the first two intakes limited to graduates of a single secondary coding academy at equal male and female representation. No capital budget, intake size or named international partner is published.
 <!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+A fraud figure moved the right way. The central bank reported that [cases of fraud involving digital payments fell 30% while electronic transactions rose](https://radiotv10.rw/en/digital-payment-fraud-cases-fall-30-as-electronic-transactions-rise/). What is counted is reported cases, not losses, and the record held carries no reporting rate — so a fall in cases is consistent with better controls and with fewer people bothering to report.
+<!-- /narrative -->
 
 ## DPI
 
@@ -109,6 +114,14 @@ The layer the rail does not touch moved the other way. Regulator statistics for 
 Business registration moved entirely online in January. The Office of the Registrar General's own page states the process is [wholly online, free of charge, and completed within six working hours](https://org.rdb.rw/business-registration/), where a July account had put it at [24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The registrar's page carries no date of its own, so which figure is current cannot be settled here.
 
 The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+The argument about local delivery was made in public. A published commentary [held that Rwanda's next decade of decentralisation requires urgent focus on delivery rather than structure](https://www.newtimes.co.rw/article/38460/opinions/rwandas-next-decade-of-decentralisation-requires-urgent-focus-on-delivery). It is one author's case, not a government position, and the record held carries no measure of service delivery at district level against which to test it.
 <!-- /narrative -->
 
 ## Technology

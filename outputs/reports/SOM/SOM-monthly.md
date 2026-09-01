@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: SOM
-ledger_rows: 16
+ledger_rows: 19
 not_held: 10
-record: c1b0fc7f2c01
+record: bb00b3ab6767
 ---
 
 # Somalia: monthly update, August – September 2026
@@ -47,6 +47,11 @@ A former prime minister published an argument that [the country cannot afford an
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+Price is Somalia's unusual strength. Mobile data prices [were reported among the cheapest in Africa, alongside smartphone financing offers](https://radiodalsan.com/2026/08/29/somalia-mobile-data-prices/). The record held carries no price-to-income figure, which is the measure that decides affordability; cheap data in a low-income country is not the same as affordable data, and nothing here settles which this is.
+<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
