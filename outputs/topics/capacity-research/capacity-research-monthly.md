@@ -3,17 +3,21 @@ title: Research institutions — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: capacity.research
-places: CAF; COG; CIV; ETH; KEN; LBY; MOZ; NER; RWA; ZAF; TZA
-record: f71e4011ae71
+places: CAF; COM; COG; CIV; ETH; KEN; LBY; MOZ; NER; RWA; ZAF; TZA
+record: aca87547c65c
 ---
 
 # Research institutions: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Central African Republic
 
 Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+
+## Comoros
+
+The research institute that has run the data-governance work since May [recorded the national data strategy as validated on 26 August, delivered through a joint African Union, European Union and German cooperation project after technical capacity-building on localising the continental data policy framework](https://www.linkedin.com/posts/research-ict-africa_digitaltransformation-nationaldatastrategy-activity-7498401504303845376-wyiI). It is the third such strategy the project has delivered, after the Gambia and Somalia. The research contribution on file is a foreign institute's; no Comorian department is named as authoring any of it.
 
 ## Congo
 

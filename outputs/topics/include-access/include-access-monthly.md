@@ -3,13 +3,13 @@ title: Access to services — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: include.access
-places: DZA; AGO; BWA; BDI; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
-record: 4de8fe9313a9
+places: DZA; AGO; BWA; BDI; COM; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
+record: d909d119edd7
 ---
 
 # Access to services: monthly update, August 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -28,6 +28,10 @@ The Ministry of Youth and Gender Affairs [describes the Department of Gender Aff
 ## Burundi
 
 A rural community digital hub [opened at Shombo](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP). It is a single site reported by its own organisers; no programme, national count, funding line or usage figure stands behind it.
+
+## Comoros
+
+The justice ministry's site carries a [live contact form letting a citizen select a complaint as the object of a request, alongside administrative information, case follow-up and document access](https://justice.gouv.km/nous-contacter/); it was built under a French-financed justice project. It is the widest general-purpose citizen feedback channel in the base, and no response time, case count or escalation route is stated. The page is undated and is dated by the day it was retrieved.
 
 ## Cote d'Ivoire
 

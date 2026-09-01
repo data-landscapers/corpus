@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: data.statistics
 places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; SYC; ZAF; UGA; ZWE
-record: 04ea888fe41c
+record: 3685bc36c612
 ---
 
 # National statistics: monthly update, August 2026
@@ -36,6 +36,8 @@ The institute also [released the aide-mémoire on rebasing the national accounts
 The statistics institute ran a [sensitisation campaign across the archipelago's governors, prefects, mayors and village chiefs and held a five-day donor-funded training-of-trainers workshop on survey methodology, questionnaire design and electronic data-collection tools](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html), ahead of the annual agricultural survey's rollout. It follows the second general agricultural census, whose results were published in April, and no first survey round or results date is on record. The source dates the workshop inconsistently with its own reference to the previous week, so only the campaign's dates are internally reliable.
 
 The census apparatus moved alongside it: [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). No enumeration date is published.
+
+Two standing instruments entered the base at the end of the month, both dated by retrieval rather than by publication. The institute's [national microdata archive held fifteen datasets at 23 August](https://www.nada.inseed-comores.org/index.php/home), and a [modernisation project with the institute as national project owner is running, prioritising disaster and fisheries data and the institute's own digital infrastructure for statistical collection, processing, dissemination and storage](https://unstats.un.org/UNSDWebsite/capacity-development/data-for-now/country-details/Comoros). Neither carries an output or a completion date.
 
 ## Congo
 

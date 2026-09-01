@@ -3,13 +3,13 @@ title: Other GovTech and e-Gov — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 83c454650459
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NGA; STP; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 6e6dc570ef00
 ---
 
 # Other GovTech and e-Gov: monthly update, August 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -62,6 +62,10 @@ A municipal council [presented a services platform it plans to put into public p
 The 2027 budget orientations carry three govtech commitments and one system already running. From 2027 the [electronic visa is to be the exclusive channel for application, payment, processing and issue, and business creation fully online end to end](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) — exclusivity stated with no fallback channel, and the base holding no statement on whether an electronic visa operates today. The same text extends the integrated public financial management system, already the mandated expenditure environment, to all institutions, local authorities, public establishments, projects and diplomatic missions, with no coverage figure or count of entities live. Separately a [freight bureau enrolment platform went live for Chadian hauliers working in Cameroon](https://lendjampost.com/transport-une-nouvelle-plateforme-digitale-e-bnft-pour-la-simplification-des-procedures/), presented at Douala, with no services list, deadline, fee schedule or enrolment target stated.
 
 The platform the state already uses to watch itself surfaced on 7 August, when the Prime Minister [received the two-year delivery report on the president's twelve-project programme, tracked through Guidam, the government's sovereign digital data platform](https://tchadinfos.com/2026/08/07/tchad-le-premier-ministre-recoit-le-rapport-biennal-dexecution-du-programme-du-chef-de-letat/), ahead of a cabinet seminar to align implementation reporting. Neither the report nor any description of the platform's custodian, supplier, hosting or public accessibility is held.
+
+## Comoros
+
+The Portail unique du citoyen entered the base as a concept note: a single portal meant to [gather every sectoral e-government portal and service in one place, set inside the national e-government plan and the 2028 digital strategy](https://puc.gouv.km/about). The initiative is still asking government entities to report the platforms they have built, so that a database of them can be assembled before deployment. No build, supplier, budget or date is stated.
 
 ## Congo
 

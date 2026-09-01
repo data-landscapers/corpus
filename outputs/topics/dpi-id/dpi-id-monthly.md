@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.id
-places: DZA; AGO; BDI; CMR; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 1dc7f44024c4
+places: DZA; AGO; BDI; CMR; COM; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 1f829f956333
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -34,6 +34,10 @@ It is being built onto a base that already reaches most children: [84% of under-
 Two identity operations ran in the month, both municipal. On 27 July [4,000 free identity cards were handed over at Yaoundé 5](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/), some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site; the operation was timed to public-service and police recruitment competitions, for which the card is a precondition. From 3 July, [compulsory registration of taxi owners and drivers opened on a city platform](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers), with a QR code and a unique door number per driver and unregistered taxis barred after 5 October.
 
 The register underneath both is only now being equipped. On 7 August the United Nations development programme [opened a tender for the equipment of three pilot centres digitising civil-status registration](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center). Three centres is the whole of the stated scope, and the notice names neither their locations nor a value or timetable — against a paper record the base elsewhere shows being used to draw fraudulent payroll claims.
+
+## Comoros
+
+At the African civil registration day in Moroni on 10 August, the interior minister and the modernisation project's coordinator [tied digitised birth registration, particularly for newborns in rural communities, to legal identity, with the children's fund reaffirming support](https://alwatwan.net/societe/journ%C3%A9e-africaine-de-l%E2%80%99%C3%A9tat-civil-i-la-modernisation-et-la-digitalisation-au-c%C5%93ur-de-l%E2%80%99%C3%A9v%C3%A8nement.html). It is a restatement of intent rather than a system: no registration rate is on record at either end of the window, and the civil-status agency the 2023 law provides for is still a draft decree.
 
 ## DR Congo
 

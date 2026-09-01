@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB; ZWE
-record: 6b651d7cb4ef
+places: DZA; BFA; CMR; CPV; COM; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB; ZWE
+record: 821ae0cd2340
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -28,6 +28,10 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 ## Cape Verde
 
 The innovation record moved to the extent that two institutions said they intend to work together. The national university and the economy ministry [are projecting a partnership on innovation, entrepreneurship and employment](https://unicv.edu.cv/pt/nots-geral/5931-uni-cv-e-ministerio-da-economia-projetam-parceria-para-inovacao-empreendedorismo-e-emprego). Projected is the operative word: no scope, funding or programme accompanies it, and nothing here is yet an instrument the base can track.
+
+## Comoros
+
+The hackathon launched in April closed its first phase, [a hundred young people trained and ten finalists funded at EUR 1,500 to 5,000 each at a ceremony on 6 August, under a EUR 4 million European Union programme implemented by the French technical cooperation agency](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/hackathon-wamanga-wa-komor-la-premi%C3%A8re-phase-retient-10-projets-innovants-.html). It is the most concrete completed outcome the base holds for Comorian start-ups, and it is a grant round. No start-up statute or domestic innovation fund exists.
 
 ## Cote d'Ivoire
 

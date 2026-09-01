@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 509e875ee2d5
+record: b58c4211439d
 ---
 
 # Training and skills: monthly update, August 2026
@@ -30,6 +30,8 @@ Training moved as a building rather than as a cohort. Stakeholders [met on 20 Au
 ## Comoros
 
 Two pupils of the private école Mouigni Baraka, Anmar Mohamed and Hafsoit Idrisse, [became Comoros's first entrants to the International Olympiad in Artificial Intelligence, competing at the third edition in Astana, Kazakhstan, from 2 to 8 August 2026](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html), selected from four shortlisted candidates drawn from several schools. The delegation was led by Chamsoudine Soudjay, secretary-general of the Association comorienne des technologies de l'information et de la communication (ACTIC), and entered through the Olympiad's GAITE (Global AI Talent Empowerment) programme for emerging nations, with the participation funded jointly by ANADEN, its supervising ministry and ACTIC Academy rather than by any domestic training programme. No result is on record, and the competition's own close falls after this window.
+
+The standing public provision was recorded for the first time: the university's [technology institute carries departments in computer engineering, information-systems administration and security, and network administration and security](https://univ-comores.com/composantes/institut-universitaire-de-technologie). No enrolment, graduation or staffing figure is published for any of them, and the institute's own presentation fields on the university site are blank.
 
 ## Cote d'Ivoire
 

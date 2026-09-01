@@ -3,17 +3,21 @@ title: Open data — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: data.open
-places: BEN; DJI; COD; GAB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
-record: d4a1e21c6755
+places: BEN; COM; DJI; COD; GAB; GHA; GIN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZWE
+record: 9d56e37fe95f
 ---
 
 # Open data: monthly update, August 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Benin
 
 The Open Government Partnership action plan's co-creation opened this month, eighteen months after the country joined. The budget directorate published a [38-activity co-creation matrix naming for each step the responsible body, its partners, the funding source and an indicative deadline, running from the June 2025 ministerial order that established the national committee through preparation, departmental consultation and adoption to documentation of the process after December 2026, with activity 32 committing government to publish a what-was-heard, what-was-kept-and-why report alongside a matrix of reasoned responses](https://budgetbenin.bj/storage/2026/08/Feuille-de-route-OGP.pdf). The plan itself is not adopted, and no consultation record or commitment text is published.
+
+## Comoros
+
+The statistics institute's [national microdata archive held fifteen datasets at 23 August, searchable by study with documentation and microdata](https://www.nada.inseed-comores.org/index.php/home), two of them added inside the year: the 2024 household living-conditions survey and the second agricultural census. Access to individual files requires registration rather than an open licence, and no open-data policy, licence or release calendar sits behind it. Nothing outside the statistical system publishes a dataset at all.
 
 ## Djibouti
 

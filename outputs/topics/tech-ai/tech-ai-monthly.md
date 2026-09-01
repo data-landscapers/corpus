@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: tech.ai
 places: DZA; BEN; BFA; CMR; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; KEN; LBR; MDG; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB; ZWE
-record: 845712248de0
+record: 8069347da00b
 ---
 
 # AI: monthly update, August 2026
@@ -41,7 +41,7 @@ The base holds its first record of an artificial-intelligence strategy for Chad:
 
 ## Comoros
 
-A Comorian graduate student, Soilahoudine Mohamed of Mvouni, [launched Komori Tts on 28 July 2026, described as the first text-to-speech model for Shikomori](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html), in an account published by Al-Watwan on 4 August. Mohamed, a graduate of Université Abdelmalek Essaâdi in Tétouan now reading for a master's in artificial intelligence and data science at Université Mohammed Premier in Oujda, states that no speech-synthesis model existed for Shikomori before this, against hundreds of languages elsewhere. He names two constraints: the cost of the computing resources needed to train the model, and the volume of paired text-and-audio data available. Extension to the three other island languages — shindzuani, shimwali and shimaore — is stalled for the same reason, with few translations and too few translators and validators received so far; the site's translation component remains experimental. The project is privately and individually funded, not a state or institutional programme.
+A Comorian graduate student, Soilahoudine Mohamed of Mvouni, [launched Komori Tts on 28 July 2026, described as the first text-to-speech model for Shikomori](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html), in an account published on 4 August. He states that no speech-synthesis model existed for the language before this, and names two constraints: the cost of the computing resources needed to train it, and the volume of paired text and audio available. Extension to shindzuani, shimwali and shimaore is stalled for the same reason, with too few translators and validators so far, and the site's translation component remains experimental. The project is privately and individually funded, not a state or institutional programme.
 
 ## Cote d'Ivoire
 

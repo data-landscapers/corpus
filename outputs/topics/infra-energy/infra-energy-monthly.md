@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.energy
-places: BWA; BDI; ETH; LSO; MUS; MOZ; SLE; ZAF; UGA; ZWE
-record: d245fe91b5b1
+places: BWA; BDI; COM; ETH; LSO; MUS; MOZ; SLE; ZAF; UGA; ZWE
+record: 5d38056d9267
 ---
 
 # Energy: monthly update, August 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -18,6 +18,10 @@ The facility's power is the unusual part. [On-site gas-fired generation is suppl
 ## Burundi
 
 Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
+
+## Comoros
+
+The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a stated requirement of 7,000, with a total blackout feared](https://alwatwan.net/societe/p%C3%A9nurie-de-carburant-%C3%A0-mwali-i-l%E2%80%99%C3%A9lectricit%C3%A9-de-nouveau-rationn%C3%A9e.html) on 4 August. The island has no fuel depot sized to its needs and depends on maritime resupply, and the account records repeated earlier ruptures in the same year. It is the first measured figure for fuel supply to any island's generation in the base.
 
 ## Ethiopia
 

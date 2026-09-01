@@ -3,13 +3,13 @@ title: Standards — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: gov.standards
-places: AGO; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; ZMB
-record: ed03153cc9ed
+places: AGO; CPV; CAF; COM; CIV; COD; EGY; GNQ; SWZ; GAB; GIN; KEN; LBY; MWI; MOZ; NER; NGA; RWA; SEN; SOM; ZAF; TZA; ZMB
+record: 159b23bf941a
 ---
 
 # Standards: monthly update, August 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -24,6 +24,10 @@ The Prime Minister told Parliament during the State of the Nation debate on 31 J
 Enforcement of the satellite-access rule moved from communiqué to the street. On 12 August the regulator [began a control operation across Bangui — Damala, Benz-Vi and Miskine, and the Don Bosco and Marabéna roundabouts — to identify internet-access points absent from its own registers](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), on the digital economy minister's instruction. The ministry's estimate is [about 3,000 Starlink users in the country against 200 registered with the regulator](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet), and the operation is to extend progressively to provincial cities.
 
 Two of the operators visited said they had not been told registration was required and undertook to regularise. No register total is published, so the ratio stands on the ministry's own account.
+
+## Comoros
+
+The government's own concept note for a single citizen portal [names an interoperability framework and a government enterprise architecture as components of the Plan National e-Gouv](https://puc.gouv.km/about). It is the first record in the base of either, and neither document is published: what the note asks for is a census of the e-government platforms ministries have already built. The page carries no date and is dated by the day it was retrieved.
 
 ## Cote d'Ivoire
 

@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: digital.rural
-places: BDI; TCD; SWZ; GIN; LSO; MLI; NGA; SLE; ZMB; ZWE
-record: 794e71f2b991
+places: BDI; TCD; COM; SWZ; GIN; LSO; MLI; NGA; SLE; ZMB; ZWE
+record: 25b38ddd5306
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*10 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
@@ -18,6 +18,10 @@ Civil registration is the one rural system with a number attached to it. Marking
 ## Chad
 
 [Solar-powered telemedicine kiosks](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer) are helping rural patients overcome distance to care. No kiosk count, operator, consultation volume or funding source is on file.
+
+## Comoros
+
+The civil-status modernisation project took its design into the countryside, [consulting midwives, village chiefs, cadis and mayors at Fomboni on Mwali about registration difficulties on 28 August and continuing into the rural districts of Djando and Nioumachoi](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/%C3%A9tat-civil-l%E2%80%99amecc-veut-enterrer-les-registres-sur-papier-.html), with still-unregistered rural residents named as the problem to solve. Consultation is not digitisation: no rural registry office is recorded as converted, and no office count exists on file.
 
 ## Eswatini
 
