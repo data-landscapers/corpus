@@ -234,11 +234,11 @@ DECODE	11862
 DECOMEL	11546
 DECONTAMINATING THE CRIMINAL JUSTICE SYSTEM	11277
 DECRET D	233,1
-DECRET N	2625,8281,2385,43,254,127,4,4
+DECRET N	2625,8281,2385,43,254,127,4,4,58,28
 DECRET Nº100	13587,1
 DECRET3 0ektpXg.PDF	10898,8
 DECRET3.PDF	10897,1,8
-DECRETE	234,2391,8271,7,2,234,2152,12,31,253,1,131,4
+DECRETE	234,2391,8271,7,2,234,2152,12,31,253,1,131,4,49,9,28
 DECRETE Titre	13715
 DECRETS	436
 DECRETS Décret	4658
@@ -399,7 +399,7 @@ Decentralize	12970
 Decentralized	2521,659,249,939,974,1524,210,294,1235,1697,512,192,566,880,643,323
 Decentralized Administrative Entities	13418
 Decentralized CRVS	12250
-Decentralized Digital Financial Institution	5151
+Decentralized Digital Financial Institution	5151,8627
 Decentralized Entities	13418
 Decentralized Service Delivery	13095
 Decentralizing Legal Identity	13095
@@ -873,6 +873,7 @@ Ministry of Territorial Administration and Decentralisation	1235,2411
 Ministry of Territorial Administration and Decentralization	10812
 Ministère DECISION FINALE Favorable	10821
 Mission for Training Decision-Makers	10720
+Moderate Decision	13787
 Moderate. Decision	12412
 Monetary Policy Decisions The Governor	11131,3
 Mozambique Court Rejects Decree Allowing Internet	8610,233
@@ -982,6 +983,7 @@ Proposal-Securing Declaration	13185
 Proposals for Executive Decrees	10776
 Proposed Decision	13218
 Provision of Electronic Declarations	10762
+Président DECRET N	13772
 Quadro de Interoperabilidade. Decreto	12774
 RAINBOW SERVICES DECI-0360	998
 REMPE Declaração Periódica de Rendimento	12018
@@ -1067,6 +1069,7 @@ Strengthen Devolution and Decentralisation	13487
 Structural Decoupling	5141
 Subscriptions Mar-26 Dec-25 Quarterly Variation Indicator	6671
 Subsecção IV Declaração	11901
+Substantial. Decision	13793
 Sujeito IRPS IVA Imposto de Selo Declaração	12018
 Superior Council of Social Declaration of Principles	12201
 Supply-side Financial Inclusion Indicators Indicator Dec	940

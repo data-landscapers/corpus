@@ -352,7 +352,7 @@ Definitive Proxy Statement of IHS Holding Limited	7198
 Delta State	8207,2179
 Delta State Ministry of Justice	11654
 Democratic State	4206
-Department of State	4165,1527,1084,4229,999
+Department of State	4165,1527,1084,4229,999,1750
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -680,6 +680,7 @@ IHS Cameroon and State-owned	11728
 III. Context and Current State Interventions	13512
 INCIDENCE OF POVERTY DISPARITIES ACROSS STATES	11998
 INTRODUCTION The State	11211
+IOC Member States	13767
 ISP Per State Distribution Analysis	3862
 ITU Member States	6168,4596,498
 ITU States	318
@@ -1250,6 +1251,7 @@ Reconciliation Statement	13420
 Reduction of Statelessness	2106,9799
 Reference Access Offer SCAC State Corporations	6946
 Reflexivity Statement	10881
+Regional Office for Arab States	13776
 Regional State Budget	5655
 Regulatory Impact Statement and DTT Networks	6946
 Reimagined State	7764
@@ -1397,7 +1399,7 @@ Sharing State	7000
 Sharing of State ICT	12917
 Single State Payments Reference	10762
 Small Island Developing State	10348,984,237
-Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622
+Small Island Developing States	2663,250,3405,838,79,1757,1772,656,1622,734
 Small Island Developing States SIGMAT Regional	13042
 Small Island Developing States. Education	8992
 Small Medium and Micro Enterprises SOC State	11224
@@ -1876,6 +1878,7 @@ State. PART II	12549,80
 State. PART VI	12459
 State. The Bill	12556
 State. The DHA	11218
+State. The Generalized Health Insurance Support	13770
 State. Users	12232
 State87. Several	12201
 StateCoercion	4676
@@ -1883,7 +1886,7 @@ StateOwned Enterprises	7695
 StateProto	4861,929,900
 Statecraft	2096
 Stated	961,742,262,942,53,450,580,2896,4,1776,87,370,1791,1237
-Stateless	4439
+Stateless	4439,9330
 Stateless Determination and Protection Bill	12984
 Stateless Persons	2106,9799,240
 Statelessness	1963
@@ -1944,7 +1947,7 @@ Statements of Cash Flows	13420
 Statements of Expenditures	1264
 StateofPrey TheSentry-Oct2020.pdf	4127
 StateofPrey-TheSentry Oct2020.pdf	4127
-States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17,242,55,39,9,92,101,43,49,3,34,34,26,2,20,5,17,6,16,125,19,24,13,26,98,602,113,2,166,106,12,62,15,59,101,43,6,61,8
+States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17,242,55,39,9,92,101,43,49,3,34,34,26,2,20,5,17,6,16,125,19,24,13,26,98,602,113,2,166,106,12,62,15,59,101,43,6,61,8,71
 States CNE	12201
 States DHIS2	1959
 States Embassy Monrovia	4202
@@ -2048,6 +2051,7 @@ Tunisian State	1818
 U.S. Department of State	4164,1,2,45,5,5,38,6,35,27,30,884,110,198,1347,37,253,243,3411,1068
 U.S. Department of State and Ethiopia. All	4349
 U.S. Department of State and Liberia. All	4202
+U.S. Department of State's Bureau of International Narcotics	13754
 U.S. Department of State. Health	7187
 U.S. Dept of State	4472
 U.S. Secretary of State	6534
@@ -2068,6 +2072,7 @@ UN Member States. UNDP	13661
 UN Secretary of State Mike Pompeo	2117
 UN United Nations USD United States	12964
 UN and States Members	3583
+UNDRR Regional Office for Arab States	13776
 UNESCO Member States	13048,615
 UNESCO Member States. UNESCO Windhoek Office	12994
 UNESCO’s Member States	1814

@@ -604,7 +604,7 @@ React Native	12404
 Reacting	6122,1996,319,211,2644,2347
 Reaction	2117,9071
 Reactionary	12214
-Reactions	13072,60,55,24,1,397,138
+Reactions	13072,60,55,24,1,397,138,8,6,1,3,12,9,26,2,8
 Reactivar	1701,9071
 Reactivate	11401
 Reactivation	4423,6353
@@ -752,6 +752,7 @@ Real-Time Monitoring Requirement	11952
 Real-Time Payment Subsystem	10775
 Real-Time Payments	4848,7421
 Real-Time Review of Country Measures	10763
+Real-Time Stock Management	13763
 Real-World Asset Eswatini Revenue Services SADC	12444
 Real-World Asset Tokenisation	12882
 Real-World Asset Tokenisation Platforms	12882
@@ -900,6 +901,7 @@ Scalar Infrastructure and Real Assets	5393,53
 Scale Up Social Protection Program Reach	11998
 Scaling AI Readiness Across Borders	12723
 Scotland. Incident Ready	3279
+Screen Reader Access India-Comoros	13791
 Screen Reader Compatibility Service	11952
 Screen Reader Full	11952
 Second Reading	6133,2548

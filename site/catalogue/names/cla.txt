@@ -108,6 +108,7 @@ CONTAINS A CLAIM THAT CONFLICTS	3200
 CSD International Statistical Classification of Diseases	1009
 Cabhler des Clauses	13524
 Cahier des Clauses Administratives	4342
+Cahier des Clauses Administratives Générales	13771
 Cahier des Clauses Administratives Particulières	13524
 Cameroon’s Minister Rejects Opposition Claim of Victory	3768
 Care and Support for Teaching and Learning CTT Classical	12975
@@ -314,6 +315,7 @@ Classe de Transição	11419
 Classement	1247,1095,6549,1985,738,1761,193
 Classement IDH	11944
 Classement du Burundi	13325
+Classer	13781
 Classes	9123,1643,1087,1200
 Classes C and D	3651
 Classes Simples Classes Classes Double-flux Double-flux	10847
@@ -336,7 +338,7 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506
 Classification Boundaries Automatic Class A Classification	5665
 Classification Definition Examples Residency Security Level	5244
 Classification Expiration Date	1284
@@ -509,6 +511,7 @@ Electrical Class Ratings	9123
 Emerging A1- Classification	7548
 Emission Class Adj Chn Selectivity	736
 Entrance Rooms Class	9123
+Environmental And Social Risk Classification	13787
 Environmental And Social Risk Classification Moderate	2291
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988

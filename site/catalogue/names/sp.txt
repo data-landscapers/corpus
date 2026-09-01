@@ -1174,6 +1174,7 @@ Mr. Speaker	7695,4893,334,33,1,99,67,1,403,65
 Mr. Speaker Sir	1191,11864,67,3,401
 Mr. Speaker the Ministry of Tourism	13123
 Mr. Speaker... Madam Speaker. Sorry	10313
+Multimedia Specialist Tel	13754
 Multimedia and Communications Specialist	12507
 Multinational Spread of US Enterprises	11310
 Muse Spark	9659
@@ -2162,10 +2163,10 @@ Special Constables	12566
 Special Control Unit Against Money Laundering	11976
 Special Correspondent	3560,1770,826,233,7105
 Special Correspondent Published	13494
-Special Course	13744
+Special Course	13744,47
 Special Digital Economic Zone	2860
 Special Drawing Account	7845
-Special Drawing Rights	1264,9565,302,3,415,375
+Special Drawing Rights	1264,9565,302,3,415,375,1832
 Special Drawing Rights Department	7845
 Special Duties	10063
 Special Duties Office	10063,2813
@@ -2565,7 +2566,7 @@ Spokesperson Théophile Momokoama	1907
 Spokesperson and Press Secretary	10695
 Spokesperson of PODEMOS	12201
 Spon's Civil Engineering and Highway Works Price	3583
-Sponsor	514,7,10341,385,338,415,210,46,13,815
+Sponsor	514,7,10341,385,338,415,210,46,13,815,675
 Sponsor Instrument Instrument Sponsor	12490
 Sponsor-level	514
 Sponsor-level. Tanzania Instant Payment System	521
@@ -2602,7 +2603,7 @@ Sport and Culture and Devolution	970
 SportTech	2715
 Sportal WhatsApp Loading	9736
 Sporting and Recreational Activities	6946
-Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236
+Sports	1594,326,955,2161,697,281,1656,173,135,28,220,11,32,52,313,84,166,7,765,48,289,32,380,1500,712,44,13,298,22,16,34,62,111,30,43,20,31,36,97,236,81,9
 Sports Academy	10399
 Sports BDFX BD Conferences BD Foundation	9750,247
 Sports Centre Construction	12970
@@ -2612,6 +2613,7 @@ Sports Emporium	12361
 Sports Entrepreneurship Capacity Building	13474
 Sports Exchanges Botswana	12617
 Sports Football	8884
+Sports Mr. Ibrahim Mahamoud	13791
 Sports Training and Competitions	6588
 Sports and Arts	9792
 Sports and Culture	769,12478
@@ -2635,7 +2637,7 @@ Spouses	1638,10689,10
 Sprawy Międzynarodowe	2518
 Spray	1988,10265,1371
 Spraying	1988
-Spread	1814,174,2922,4137,829,1126,855
+Spread	1814,174,2922,4137,829,1126,855,1906
 Spread of ApplicatioInnsstAituctcioorndoinf	1154
 Spread of Applications	1154
 Spread of Chinese Surveillance Tools	2518

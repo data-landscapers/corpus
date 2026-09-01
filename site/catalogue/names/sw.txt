@@ -43,6 +43,7 @@ CEO Pravin Swami	6402
 CH-1202 Switzerland	4127
 CMR DZA BEN CIV TZA SWZ	6593
 CORRECTION TO THE FY2025 SWEEP RUN	1339
+CREWS SWIO	13767
 Can Battery Swaps Actually Scale	5200
 Card Point of Sale Switch	12343
 Card Switching	11134
@@ -143,6 +144,7 @@ Germany and Sweden. New York	2096
 Germany's BMZ and Switzerland's SDC	4427
 Ghana and Sweden. Glob Health Action	1219,11027
 Give Nigerian Govt Sweeping Powers Over	7458
+Given the SWIO	13767
 Governments of Sweden and Switzerland	13397
 Gweru Switch EWZL Owned Switch N	4896
 HON. MOHAMED RAHMAN SWARAY Minister of Information	1161
@@ -176,7 +178,7 @@ Kingdom of Swaziland	6539,6357,1,7,10
 Kingdom of Swaziland Report	12944
 Kingdom of Swaziland and Internet Society	12904
 Kingdom of Swaziland. ISBN	12914
-Komor Switch	5996,49,14,9,78,7596
+Komor Switch	5996,49,14,9,78,7596,59
 Komor Switch Des	6146
 Kundai Ngwena and Swaraj Ram	1814
 LTA Unveils Sweeping Telecom Reforms	7410
@@ -343,6 +345,8 @@ SWIFT-based	13388
 SWIFT. Unlisted BICs	12364
 SWIFTNG	7110
 SWIFTTALK Ltd	3862
+SWIO Region	13767
+SWIOCOF	13767
 SWIPSS	11130,1,1353,568
 SWIPSS Central System	12484
 SWIPSS Closed User Group	12484
@@ -397,10 +401,10 @@ Statistics Sweden. ANG	8051
 Sudan's National Payment Switch	9451
 Suriname No Sweden Yes Digital Agenda	11529
 Suriname Sweden Switzerland Syrian Arab Republic	11765
-Sushma Swaraj Institute of Foreign Service	13744
+Sushma Swaraj Institute of Foreign Service	13744,47
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470
 Swagger	6423,5529
-Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202
+Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334,730,4,633,678,202,30
 Swahili and English	6266,4462
 Swahili and English and Huawei	6232
 Swahili and Hausa	6232,2448
@@ -635,7 +639,7 @@ Switching	9123,1962
 Switching Centers	10721
 Switching Companies	6935
 Switching and Processing Licence Granted	11138
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313,229,821,108,42,86,6,86,161,351
 Switzerland Agriculture	970
 Switzerland Email	10764,80
 Switzerland Geneva	10764,80,719

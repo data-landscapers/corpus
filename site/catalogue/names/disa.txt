@@ -270,13 +270,14 @@ Disaster Risk Management Systems	13080
 Disaster Risk Management and Adaptive Safety Nets	10763
 Disaster Risk Management and Governance	12977
 Disaster Risk Management and Governance A. Strategy	12977
-Disaster Risk Reduction	970,10450,1359,198
+Disaster Risk Reduction	970,10450,1359,198,790
 Disaster Risk Reduction Master Plan	12206
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
 Disaster Science	9128
 Disaster and Risk Management Mauritius National Assembly	11332
-Disasters	11245
+Disasters	11245,2531
+Disasters SDG	13824
 Disastrous	1887
 Division for Disability and Marginalised Communities	13033
 Drone-Based Disaster Management Project	10219
@@ -312,6 +313,7 @@ GSMA. The Mobile Disability Gap Report	12231
 GSS Disaggregated	236
 Gambia National Disaster Management Agency	1000
 Gender Agree Disagree Don't Know Male	12409
+Gender and Disability-Inclusive Implementation	13776
 Ghana's National Disaster Management Organization	8370
 Ghana’s Disability Inclusive Hackathon. Quartey	9007
 Global Disability Fund Programme	13219
@@ -444,7 +446,8 @@ Sarker D. Financial Inclusion of Disabled People	12231
 School Report Card and Disability Inclusion Guidelines	12347
 Self-care. Disability	12383
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
-Sendai Framework for Disaster Risk Reduction	8370,2913,1496
+Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997
+Sendai Framework for Disaster Risk Reduction for Comoros	13776
 Set Disaster	12977
 Set Disaster Committees	12977
 Severe Disabilities	2775
@@ -470,9 +473,11 @@ Uganda. Disability Stud Quarterly	12231
 Unit DR Disaster Recovery DTLT Desktop	13185
 United Disabled Persons of Kenya	12231
 United Nations Office for Disarmament Affairs	2117
+United Nations Office for Disaster Risk Reduction	13767,9
 Use of ICTs for Disaster and Climate Change Management	13295
 Use of Satellite Broadband for Disaster	3641
 VOLTA Disaggregation	582
+Variability Related Disaster	13813
 War Disabled	3583
 War Veterans’ Grants Disability Grants	12373
 World Bank Disability Inclusion and Accountability Framework	13331

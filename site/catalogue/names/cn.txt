@@ -1,5 +1,6 @@
 ACRONYMS CMU CNPS Advisory Services and Analytics	11855
 ANINF and CNAMGS	9837
+ANRTIC. Le CNPA	13781
 AOÛT Data Center Mohammadia Lancement du CNASN	8637
 ARCEP's CNRCEP	9565
 Action Plan. The CNEPPS	11907
@@ -14,6 +15,7 @@ BII British International Investment CNN Convolutional	12006
 Bank of Nigeria CCTV Closed-Circuit Television CNI	11857
 Biannual CNII IP Communication Infrastructure	10721
 Bloomberg TV Africa and CNBC Africa	2320,1219,1420,19,1100,180
+Bureau du CNPA	13781
 CAMU and CNSS	11987
 CC and CNE	12201
 CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
@@ -60,7 +62,7 @@ CNDD-FDD Ndikuriyo Reverien	8062
 CNDD-FDD-affiliated	2859
 CNDDR	10269
 CNDES	8891
-CNDHL	10841
+CNDHL	10841,2917,23
 CNDHL. Daldigue	10841
 CNDP-TICE Fin	2966
 CNDP. Contrairement	11742
@@ -155,6 +157,22 @@ CNOM. Cette	9224
 CNOM. Initiée	9224
 CNOPS	8891,2944
 CNP-NZ	2377
+CNPA Le Conseil	13784
+CNPA URL	13784,15
+CNPA. AArticle	13781
+CNPA. ASSEMBLEE DE L'UNION DES COMORES	13781
+CNPA. Article	13781
+CNPA. CHAPITRE IV	13781
+CNPA. CHAPITRE V	13781
+CNPA. Ce	13781
+CNPA. Cette	13781
+CNPA. Elles	13781
+CNPA. Le CNPA	13781
+CNPA. Li	13781
+CNPA. Par	13781
+CNPA. Section IV	13781
+CNPA. Toutefois	13781
+CNPA.11	13781
 CNPCNP La SORAZ	3395,3488
 CNPD Comissão Nacional de Proteção de Dados Pedidos	3079
 CNPD President Faustino Varela Monteiro	6361
@@ -217,7 +235,8 @@ CNTIPPEE	8441
 CNTS Action IV.3.3 Interfacer le SGBS	13306
 CNTS Centre National de Transfusion Sanguine COPIL	13306
 CNTS. Cette	13306
-CNUCED	5077,5744,2924
+CNUCED	5077,5744,2924,67
+CNUCED Genève	13812
 CNUNR	13442
 CNaPS	5995
 CNhadihrploevrsuon Vice ChairpersoVn	1154
@@ -307,9 +326,14 @@ La Cnept	9002
 La Cotonnière Industrielle du Cameroun CNAR National	10841
 Le CNEF	10965
 Le CNI	13290
+Le CNPA	13781
+Le CNPA. Article	13781
 Le CNSMO	11944
 Le CNTS	13306
+Le Président du CNPA	13781
 Les CNSMO	11944
+Li CNPA	13781
+Lorsque le CNPA	13781
 MINFI CNEF Promotion	10965
 Main Street Cnr Sandkraal Rd and Ngcakani	8999
 Makerere Univ DICOM CNN	9781
@@ -350,6 +374,10 @@ Provisional CNE	12201
 Provisional Results After the CNE	12201
 Proyecto de Extensión de CNEDOGE	4209
 Proyecto de Interconexión Bases de Datos CNEDOGE	4209
+Président du CNPA	13781
+Président du CNPA. Article	13781
+Président du CNPA. CHAPITRE	13781
+Président du CNPA. Section	13781
 Président du CNSP	2514
 Président du CNSP. Mais	2514
 Prévoyance Sociale CNEF Comité National Economique	11944
@@ -376,6 +404,8 @@ Secretária Executiva Adjunta da CNE	11561
 Secretário Executivo Adjunto da CNE	11561
 Secretário Executivo da CNE	11561
 Secrétaire Général du CNEF. Le CNSMO	11944
+Secrétaire Général du CNPA	13781
+Secrétariat Général du CNPA	13781
 Sector CNII	10721
 Selon le CNEF	10965
 Sign CN	1539
@@ -391,4 +421,5 @@ Symphony Walk Town Cntr Cnr Govan	8999
 UNHCR and CNR	11900
 Universitaires CNF Campus Numérique Francophone CNESRS	12
 Woodmill Lane Cntr PnP Parow PnP	8999
+Yautorité du CNPA	13781
 ZASDIP CN	8161

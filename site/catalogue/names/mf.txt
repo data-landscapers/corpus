@@ -116,7 +116,7 @@ MFBPE and SETIC	993
 MFBPE for TSA	1284
 MFBPE. Page	1284
 MFBPP-CAB	4135
-MFBSB	1272,594,76,1595,178,153,474
+MFBSB	1272,594,76,1595,178,153,474,9429
 MFBSB. Actions	4342
 MFBSB. Les Soumissionnaires	4342
 MFBU Nombre	13390
@@ -263,6 +263,7 @@ SACCOs and MFIs	2537
 Safaricom M-Pesa MFS	2570
 Sciences Humaines MFB	13377
 Secretaria Provinciais da Educação. MF	10766
+Secrétaire Général du MFBSB	13796
 Selon le MFPMA	8517
 Southern Africa MFB Micro Finance Banks	2775
 Sr.ª MF	12018

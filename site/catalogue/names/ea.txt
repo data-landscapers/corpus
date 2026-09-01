@@ -203,6 +203,7 @@ Cites Eaves	7222
 Citizen Arusha. The East African	7192
 City of Kigali and Eastern Province	12403
 Class EA	9123
+Climate Risk and Early Warning Systems	13767
 Climate-Informed Maternal Access Early Warning	11589
 Clinic Ebonyi South East Enugu South	11857
 Closed Current EA Category Original EA	11924
@@ -568,6 +569,7 @@ EASTEND MEDICAL CLINIC Data Controller INST-2220984631A	7167
 EASTERN AND SOUTHERN	13111
 EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14,284,303,31,382
 EASTERN AND SOUTHERN AFRICA ELECTION	10016
+EASTERN AND SOUTHERN AFRICA Estimated Appraisal	13787
 EASTERN AND SOUTHERN AFRICA Operation ID	2291
 EASTERN AND SOUTHERN AFRICA REGION	13743
 EASTERN AND SOUTHERN AFRICA REPORT NO	1228
@@ -654,7 +656,7 @@ Earliest	2432,108,500,898,716
 Earliest Delivery Date	13185
 Earliest of CAR	2611
 Earliest-dated	5513
-Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147
+Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110,87,90,4,1,95,8,35,209,383,58,62,39,126,24,26,32,8,88,102,192,66,43,238,7,28,35,2,3,35,43,37,154,18,129,147,162,6
 Early Access	8698
 Early Access Ethiopia	12199
 Early Action Protocol	11156
@@ -712,8 +714,8 @@ Early Warning Systems	11134
 Early Warning Technical Working Group	12977
 Early Warning and Disaster Preparedness	8645
 Early Warning for All	12988,72
-Early Warnings	11420
-Early Warnings for All	8370,4319
+Early Warnings	11420,2347
+Early Warnings for All	8370,4319,1087
 Early Wins	13506
 Early Years	10829
 Early Years for Growth and Productivity	12175
@@ -831,6 +833,7 @@ East Africa Internet Disrupted Again	2677
 East Africa Monetary Union	7815
 East Africa Order	12151
 East Africa Outbound UGANDA	9781
+East Africa Output	13767
 East Africa Pentecostal	7167
 East Africa Power Pool	12256
 East Africa Property Holdings	7167
@@ -885,7 +888,7 @@ East Africa. Through	12164
 East Africa. United Nations	12138
 East Africa. Yet FindMe	10983
 East Africa.The	7955
-East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,54,59,481,446,2,43,31,236
+East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,54,59,481,446,2,43,31,236,163,27
 East African AI	8334
 East African Agriculture and Climate Change	13331
 East African Artificial Intelligence Policy Outlook	8334
@@ -1164,7 +1167,7 @@ Eastern and Northern	12947
 Eastern and South-eastern Asia. Energy	11572
 Eastern and South1-8eastern Asia	11572
 Eastern and Southern	2117,10800
-Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117
+Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117,361
 Eastern and Southern Africa Anti Money Group	13725
 Eastern and Southern Africa Anti Money Laundering	13522
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273,595,418
@@ -1183,6 +1186,7 @@ Eastern and Southern Africa World Customs Organisation	12454
 Eastern and Southern Africa. BMJ Glob Health	10881
 Eastern and Southern Africa. Capital	517
 Eastern and Southern Africa. Convened	7963
+Eastern and Southern Africa. Estimated Appraisal Date	13793
 Eastern and Southern Africa. Few	7965
 Eastern and Southern Africa. MPA FINANCING DATA	11417
 Eastern and Southern Africa. The IDEA Programme	7963
@@ -1235,6 +1239,7 @@ Eau Potable. PERFORMANCES FINANCIÈRES EN	2342
 Eau Villageoises	2476
 Eau du Gourma	3396
 Eau-HygièneAssainissement	13325
+Eau. ARTICLE	13809
 Eau. DGEAH	13743
 Eau. MEEH	13743
 Eau219	8891
@@ -1512,7 +1517,7 @@ Member of Parliament for Harare East Constituency	13493
 Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
 Microsoft's Middle East and Africa Emerging Markets	11777
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327,110
 Middle East Conflict	11285
 Middle East Europe	11922
 Middle East Peace Process	11185

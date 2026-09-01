@@ -223,6 +223,7 @@ Electronic National ID Introduction	12165
 Emirates Emirates ID System	10714
 Emirates ID	10714
 Employee ID Using	12360
+Energy and Hydrocarbons Operation ID	13787
 Enrollment for Digital ID	10153
 Ensino Superior ID	9441
 Ensino Superior-MCTES ID	9441
@@ -627,7 +628,8 @@ INE ID	9441
 INFRATEL-CAPEX-2026-029 Tender Unique ID	13621
 INT. ID NUMBER SUPERVIRSOR’S NAME	582
 ISSUANCE OF BIOMETRIC ID CARDS	11706
-Identification Survey ID	10862,2222
+Identification ID	13804,2
+Identification Survey ID	10862,2222,675
 Identity Card Yes Electronic ID Card	10714
 Identity Card Yes NIA ID	10714
 Identity Yes Electronic ID Card	10714
@@ -973,6 +975,7 @@ SHIPMENT TO LOCAL ID UNIT	10775
 SIDC Smart ID Card SIEM Security	5533
 SIM-based Mobile ID	12834
 SMART ID CARDS AND PASSPORTS	11986
+SONELEC. Operation ID	13793
 SRHR ID Number	8604
 SSRN Scholarly Paper ID	961
 ST Digital ID	10765

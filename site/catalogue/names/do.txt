@@ -84,6 +84,7 @@ America United States Dollar Value Added	11134
 American Dollars	11924
 Amnesty International. Doğu Asya Araştırmaları Dergisi	2518
 Améliorer la Performance du Mini Centre des Données du SETIC	13341
+Analyse des Défis de Transmission des Données	13783
 André Ullrich and Douglas A. Parry	4127
 Anexo de Documentos	12021
 Angola Dominica Argentina El Salvador Armenia	10764
@@ -316,6 +317,7 @@ Change Domestic	6000
 Change In the Stock of Domestic	1828
 Channel Extra Domestic Revenue	10405
 Chapter CHAPTER X DOMAIN NAME AUTHORITY	11179
+Chargeur Automatisé de Données	13783
 Cheaper Satellite Still Does Not Mean	10588
 Check Compliance of Documents	12389
 Checklist of Compulsory Returnable Schedules and Documents	11240
@@ -752,6 +754,7 @@ Doclor Nurwe Pharmaollt Pa1110lotlst Clerk	1009
 Docteur	3045,3350,1259,3260
 Docteur El Hadji Séga GUÈYE	7641
 Docteur Emmanuel Thierry Koumba Universitaire	11669
+Docteur Naira Abdou Mohamed	13775
 Docteur Venant Célestin QUENUM	10824
 Docteur YEO Nahoua	4273
 Docteur Younoussa Ben Imani	6068
@@ -888,7 +891,7 @@ Documentaires	6959
 Documentar	12360
 Documentary	5903,3496,3097,541,383
 Documentary Evidence	11233,1952
-Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151
+Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241
 Documentation Compliant	13037
 Documentation Contact	1297
 Documentation Crisis Technical Constraints	12457
@@ -948,7 +951,7 @@ Documentos Mínimos	11404
 Documentos Online	11898
 Documentos de Apoio	12018
 Documentos de Identificação	11383
-Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79
+Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79,57
 Documents Access	13042
 Documents Administratifs	10812
 Documents Agenda	12055
@@ -1022,6 +1025,7 @@ Does POPIA Apply	2724
 Does Political Instability Result	11310
 Does SIGFU	10937
 Does The Evidence Say	10768
+Does This Accreditation Mean for Students	13816
 Does USAID	6982
 Does the Bill	11247
 Does the CI	10812
@@ -1399,10 +1403,10 @@ Donnell Ngoma	12478
 Donnell&volume	1219
 Donnelly	8301
 Donnent	13293
-Donner	2992,1133,1034,3065,1686,3380,10,1,89,24
+Donner	2992,1133,1034,3065,1686,3380,10,1,89,24,367
 Donny-28	12478
 Donnée	436,795,12146
-Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18
+Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18,31
 Données Banque Mondiale	11944
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
 Données Findex	11944
@@ -1504,9 +1508,10 @@ Dorsale Transsaharienne	3967,22,600,417
 Doseline Kiguru	12227
 Doses	11401
 Doshi	2518
-Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57
+Dossier	766,1035,318,2223,1411,3958,467,643,55,99,957,1443,92,57,247
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 Dossier Tout	13524
+Dossier Type	13771
 Dossier de Consultation	9339
 Dossier de Demande de Propositions	5983,7572
 Dossier du Lot	13375
@@ -1575,8 +1580,10 @@ Douala. New York-based	12517
 Douala. Selon	2393
 Douane	1806,670,4483,2447,607,52,223,113,672,2268
 Douane Comorienne	13745
+Douane Comorienne URL	13815
+Douane Intelligente	13815
 Douane. Cet	10401
-Douanes	1305,724,447,515,405,262,591,57,114,1487,242,126,145,407,1442,404,1192,728,118,1,361,1,249
+Douanes	1305,724,447,515,405,262,591,57,114,1487,242,126,145,407,1442,404,1192,728,118,1,361,1,249,2492
 Douanières	7470
 Douar	8891
 Douba Nabie	10881
@@ -2105,6 +2112,7 @@ Inner Setting and Individual Domains	12025
 Innovation Mark Alexandre DOUMBA Le Ministre	11580
 Innovation and Individuals Domains	12025
 Insights for Donors	6947
+Inspection Générale des Douanes	13809
 Inspector General of Police Douglas Kanja	3320,8990
 Instance de Protection des Donnees	4237
 Instance de Protection des Données	436,3430,4415,391,370,1198
@@ -2645,7 +2653,7 @@ Project Appraisal Document PAD3556	554
 Project Appraisal Document PHEOC Public Health	11417
 Project Appraisal Document for Republic of Congo LISUNGI	11924
 Project Donors	13080
-Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412
+Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6
 Project Information Documents	5620
 Project Initiation Document	13185
 Projections Domestic	11134
@@ -2675,6 +2683,7 @@ Purchase Subscription Done Registering	3002,443,14,16,1606,536
 Purple Dorm	11128,380
 QUI DOIT SE SITUER APRÈS	13300
 Qi Dong	4432
+Qualité des Données WIGOS	13783
 Quantities of Principal Domestic Exports	2775
 Quarterly Domestic Fixed Voice Traffic	6671
 Quarterly Gross Domestic Product	2775,8359,1828,517

@@ -303,6 +303,7 @@ Demographics and Social Statistics Section	12330
 Department KNBS Kenya National Bureau of Statistics	7548
 Department of Economic Statistics	12445
 Department of Economic Statistics EC	12445
+Department of Economic and Social Affairs Statistics Custom	13824
 Department of Education Statistics	13314
 Department of Statistics	10780,1367
 Deputy Director Statistics South Africa Mr	12719
@@ -528,6 +529,7 @@ ITU Statistics Update	11424
 IV.5. STATISTIQUES INDUSTRIELLES	13500
 IV.6. STATISTIQUES ARTISANALES	13500
 IV.7. STATISTIQUES DE L’HOTELLERIE ET TOURISME	13500
+Identifiants de Station WIGOS	13783
 Identity Agenda Kenya Vital Statistics Report	12151
 Ilc Statistician-	11852
 Improving Mortality Statistics	12413
@@ -698,6 +700,7 @@ Mr. Alex Shimuafeni Statistician-General	12383
 Mr. Salum Kassim the Chief Government Statistician	11133
 Mr. Wellington Chibebe. The Acting Statistician	13455
 Muela Hydropower Station	6633
+Multi-Country Office Monthly Statistical Report	13769
 Multiple Indicator Cluster Survey. National Statistical	13209
 Myanmar MMR National Development of Statistics	13082
 NAMIBIA STATISTICS AGENCY	12899,132
@@ -1016,7 +1019,7 @@ Rwanda’s National Institute of Statistics	6139
 Répertoire Statistique des Entreprises	10875
 République du Burundi BTS Base Transmitter Station	13312,2
 SADC Regional Statistics	12972
-SADC Regional Statistics Project	3476
+SADC Regional Statistics Project	3476,10328
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
 SAPS Station Commander	11285
 SAST Static Application Security Testing SCA	11952
@@ -1357,7 +1360,7 @@ Statistiese	11201
 Statistiese Klaringshuis	11201
 Statistikus	11201
 Statistikus-generaal	11201
-Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31
+Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31,58,2
 Statistique Africaines RGE	10874
 Statistique CS	10874
 Statistique IFORD	10874

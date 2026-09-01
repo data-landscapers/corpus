@@ -98,7 +98,7 @@ Adolescent Health Policy and Strategic Plan	12729
 Adolescent Health SIA Supplemental Immunization Activity	12729
 Adolescent Health and Nutrition SARA Service Availability	10829
 Adoption of Electronic Health Records	11990
-Advancing Universal Health Coverage	13163
+Advancing Universal Health Coverage	13163,607
 Advocacy for Health	10776
 Afr J Reprod Health	13040
 AfriWell Health	1363
@@ -490,6 +490,7 @@ Community-Based Health Program	13022
 Community-Based Health Strategy	12606,416
 Community-Based Health and Sanitation Agents	10768
 Community-based Health Insurance	12370
+Comoros Ministry of Health	13763
 Comoros. Health	3707
 Complements the Ministry of Health	2615
 Complex and Changing Health Landscape Overview	13163
@@ -991,6 +992,7 @@ General Directorate of Pharmacy and Health Care Organization	10829
 General Directorate of Population and Primary Health Care	10829
 General Environmental Health and Safety Guidelines	1988
 General Health Inspection	10829
+Generalized Health Insurance	13770
 Geneva. World Health Organization	2948
 Ghana Health Information Management System	3833
 Ghana Health Service	723,311,4990,4606
@@ -1104,7 +1106,7 @@ HUMAN RESOURCE HEALTH AND SAFETY HR	12253
 Harmonized Health Facility Assessment	4202
 Harvard School of Public Health	12367,46
 Head of Health	12338
-Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11
+Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21,11,17,6,2,1,18,9,5,11,47,12,28,165,1,6,53,4,1,47,5,2,128,21,16,52,48,19,24,29,31,36,91,7,54,9,40,9,1,3,16,1,1,1,8,3,5,7,12,15,17,12,1,11,6,17,1,2,56,2,74,5,8,2,1,9,29,7,17,1,2,7,7,7,1,5,4,3,48,32,4,4,11,1,20,6,34,8,5,5,9,5,43,13,7,4,17,5,89,19,87,5,91,66,5,26,3,14,6,1,10,6,2,8,4,1,8,20,1,34,53,2,26,2,37,6,121,8,19,6,23,4,38,33,12,40,4,87,103,14,55,11,69
 Health AI	6233
 Health AI Governance Workshop	9784
 Health Academic	12025
@@ -1180,6 +1182,7 @@ Health Construction	11248
 Health Consultant	10763
 Health Cooperation Framework	4165,93,325
 Health Council	12529
+Health Country Profile Comoros	13813
 Health Country Profile Guinea Bissau	11589
 Health Coverage UNISA University of South Africa	396
 Health Coverage.’ Dr Banyubala	10523
@@ -1532,7 +1535,7 @@ Health System Performance Reinforcement Project	10963,1
 Health System Performance Strengthening Project	11380
 Health System Strengthening	10776,53
 Health System Strengthening CHWs	10829
-Health System Strengthening Project	11905
+Health System Strengthening Project	11905,1908
 Health System Strengthening The Policy	3861
 Health System Strengthening and Preparedness	3604
 Health System Strengthening for Human Capital Development	538,21
@@ -2119,7 +2122,7 @@ Ministries of Health	560,1218,5156,987,148,2750,1683
 Ministries of Health and Child Welfare and Local Government	21
 Ministries of Health and Education	10768,757
 Ministries of Justice and Health	11586
-Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82
+Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22
 Ministry of Health Annual Budget Performance Report	12976
 Ministry of Health Community Development	1261
 Ministry of Health Data Governance Manual	3861
@@ -2170,6 +2173,7 @@ Ministry of Health and U.S	4167
 Ministry of Health and UNICEF	3980
 Ministry of Health of Angola	10780
 Ministry of Health of Botswana	11748
+Ministry of Health of Comoros	13813
 Ministry of Health of Ethiopia	1824,10431
 Ministry of Health of Mozambique	12266
 Ministry of Health of Uganda	4217
@@ -2833,6 +2837,7 @@ State Primary Health Care Boards	12004
 State of Alaska. Department of Health and Social Services	12413
 State of Health	11998
 State of Public Health Emergency	12583,5
+State. The Generalized Health Insurance Support	13770
 Strategic Partnerships for Health	10776
 Strategic Partnerships for Health Partnerships	10776
 Strategic Plan for Surveillance and Animal Health	11417
@@ -2978,7 +2983,7 @@ United Nations Health Industry Foundation	5658
 United Republic of Tanzania. Bull World Health	771
 United States' America First Global Health	4674
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage System	11536

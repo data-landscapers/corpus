@@ -258,6 +258,7 @@ Digital Health Data Science	10060
 Digital Journal of Computer Science and Technology	9128
 Digital and Science	1465
 Digital and Science Policy	13170
+Director General of Higher Education and Scientific Research	13816
 Director General of Rwanda National Commission of Science	718
 Directorate of Science	1161,1178,2937,2538,1089,1771
 Disaster Science	9128
@@ -278,7 +279,7 @@ Electronic Journals and Scientific Databases In Ministry	12325
 Elsevier Science	5700
 Encouraging Responsible Innovation and Scientific Research	2958
 Engineering Sciences	9129
-Environmental Science	11006,2179,562
+Environmental Science	11006,2179,562,67
 Environmental Science and Natural Resources Management	13368
 Environmental Science and Planning	13078
 Establish Technical and Science	12356
@@ -503,6 +504,7 @@ Midlands State University and Chinhoyi University of Science	520
 Military Science	11131,3
 Minerals Technology and Space Science	1154
 Minister for Science	5413
+Minister of National Education and Scientific Research	13816
 Minister of Science	5249,4185,1455,164,73,155
 Minister of Scientific Re	8505
 Minister of Scientific Research and Innovation	8506
@@ -821,7 +823,7 @@ Scientific Library Online	5246
 Scientific Organization	2958
 Scientific Panel	7320,1209
 Scientific Programming	7759,846
-Scientific Research	11905,1390
+Scientific Research	11905,1390,521
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
 Scientific Research Arab	2958
@@ -891,7 +893,7 @@ Social Media. Social Science	961
 Social Science	2518,10900
 Social Science Research Network	961
 Social Science and Humanities	9616
-Social Sciences	1554,6205,127,490,1733,941,2697
+Social Sciences	1554,6205,127,490,1733,941,2697,67
 Social Sciences and Humanities	8436,3763
 Social Studies of Science	11028,1062
 Social and Human Sciences Sector	13557

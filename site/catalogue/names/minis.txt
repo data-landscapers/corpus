@@ -193,6 +193,7 @@ Arab Ministers of Council for Communications and Information	8534
 Arab Telecommunications and Information Ministers Council	4865
 Aristides Gomes. PARTE II MINISTÉRIO	11530
 Arrears Findings The Ministry	13420
+Arrêté du Ministre	13772
 Artesanato Ministério	11569
 Asesor Primer Ministro	4209
 Asia Türkiye Ministry of Industry and Technology Presidency	11135
@@ -583,6 +584,7 @@ Community Development and Social Services Minister	12464
 Comores. Représentant le Ministre des Finances	5814
 Comorian Foreign Minister	13744
 Comorian Ministry of Territorial Development	5805
+Comoros Ministry of Health	13763
 Comoros' Interior Minister	5026
 Comoros. Foreign Minister Dhoihir Dhoulkamal	13744
 Companies Act. The Finance Ministry	10456
@@ -1763,6 +1765,7 @@ Integração Regional Ministério da Educação Nacional	11569
 Inter Ministerial Committee and Development Partners	13673
 Inter Ministerial Digital Transformation Steering Committee	4214
 Inter Ministerial Meetings	12132
+Interim Secretary General of Minister of Foreign Affairs	13791
 Interior Minister	572,1818,1723,864,1333,168,241
 Interior Minister Abdoulie Sanyang	4708
 Interior Minister Ali Yusuf Ali-Hosh	4692
@@ -1947,12 +1950,13 @@ Law. Ministry of Finance	12674
 Le Cabinet du Ministre N	7470
 Le Conseil des Ministres	2342,283,113,453,135,1094,147,1500,1776,394,1050,55,1534,20,684,17,1695,1,30,6,1,4,111,278
 Le Minisire	10813
-Le Ministre	1231,606,765,136,63,390,114,21,641,72,363,197,272,48,1148,13,200,405,785,766,33,151,216,1032,943,264,30,234,441,1710,2,1,7,3,38,164,6,14,190
+Le Ministre	1231,606,765,136,63,390,114,21,641,72,363,197,272,48,1148,13,200,405,785,766,33,151,216,1032,943,264,30,234,441,1710,2,1,7,3,38,164,6,14,190,66,19
 Le Ministre Adji Ali Salatou	3305,662
 Le Ministre Centrafricain des Finances	2071
 Le Ministre Hervé Ndoba	4231
 Le Ministre Joseph LÉ	10524
 Le Ministre Léonidas Ndaruzaniye	13511
+Le Ministre Moustoifa Hassani Mohamed	13812
 Le Ministre NDIKUMANA	13590
 Le Ministre Ndoba	1684
 Le Ministre Oumouri	13736
@@ -1967,9 +1971,9 @@ Le Ministre des Télécommunications	13290
 Le Ministre du Budget	1231,3189
 Le Ministre du Commerce	13290
 Le Ministre du Plan	13290
-Le Ministère	743,838,870,281,24,713,206,598,2110,1292,318,2279,604,89,665,1676,35,23,69,113
+Le Ministère	743,838,870,281,24,713,206,598,2110,1292,318,2279,604,89,665,1676,35,23,69,113,263
 Le Ministère des Affaires	5135
-Le Ministère des Finances	4342,6623
+Le Ministère des Finances	4342,6623,2806
 Le Ministère des Postes	2887,223
 Le Ministère du Budget	4420
 Le Ministère du Patrimoine	2342
@@ -2026,6 +2030,7 @@ Livestock. Prime Minister Shri Narendra Modi	12979
 Local Government Minister Ben Phiri	8741
 Local Government Training Institute- The Ministry	10346
 Local Government and Public Works Minister Daniel	8943
+Local Ministry	13763
 Logements Sociaux Ministère	13341
 Logements Sociaux Ministère du Commerce	13341
 Lower Middle Income Countries MOH Ministry	771
@@ -3013,6 +3018,7 @@ Minister of Interior Affairs Ali Yusuf Ali	4088
 Minister of Interior Dr. Olubunmi Tunji-Ojo	6871
 Minister of Interior Kamel Feki	1688
 Minister of Interior and Acting Foreign Minister of Comoros	13744
+Minister of Interior and Chairman	13807,1
 Minister of Internal Affairs	1920,8752,218
 Minister of International Relations and Cooperation	9761
 Minister of International Relations and Trade	5086
@@ -3069,6 +3075,7 @@ Minister of Mines and Minerals Development. Madam Speaker	13387
 Minister of Mines and Minerals Development. Mr Katakwe	13387
 Minister of Mining	12983
 Minister of National Defense	5270
+Minister of National Education and Scientific Research	13816
 Minister of Natural Resources	13144
 Minister of Natural Resources and Climate Change	13057
 Minister of Natural Resources and Energy	12969,85
@@ -3266,6 +3273,7 @@ Minister.’’. Wysiging	11199
 MinisterCell	11212
 Ministere	1277,682,8853,9
 Ministere des Finances	566
+Ministere des Finances du Budget	13771,25
 Ministeres. BUDGET ANNUEL REVISE	3165
 Ministeriais	10758
 Ministerial	11,947,4,322,494,50,839,597,1425,81,1194,1278,617,2906,10,379,44,82,257,801,75,482,415,38,113,100,1
@@ -3354,7 +3362,7 @@ Ministerio de Turismo	4209
 Ministerios	1701,2508
 Ministero	8774
 Ministeronthe	972
-Ministers	26,1,1,559,1322,398,291,599,1017,419,453,500,378,700,478,223,106,67,157,98,91,66,325,231,46,129,280,8,98,174,520,408,282,413,268,22,31,16,79,52,474,99,1,80,78,87,395,94,278,24,20,43,19,42,56,66,199,83,23,98,64,92
+Ministers	26,1,1,559,1322,398,291,599,1017,419,453,500,378,700,478,223,106,67,157,98,91,66,325,231,46,129,280,8,98,174,520,408,282,413,268,22,31,16,79,52,474,99,1,80,78,87,395,94,278,24,20,43,19,42,56,66,199,83,23,98,64,92,67
 Ministers Decree	12201
 Ministers Delegate and Secretaries of State	8506
 Ministers Hon. Dr. Chris Baryomunsi and Hon	9781
@@ -3395,7 +3403,7 @@ Ministra da Saúde de Angola	5020
 Ministra de Estado	2688,8718
 Ministra. Por	1736
 Ministrar	11449,449,123
-Ministre	37,511,666,17,49,17,294,7,82,121,36,39,91,1,332,42,28,7,88,89,2,46,115,21,70,158,79,146,5,109,21,42,28,6,67,147,311,40,168,27,7,104,90,20,19,165,1,303,118,7,107,20,98,2,644,40,160,233,54,160,147,24,174,404,70,70,67,164,7,159,102,24,27,25,15,226,50,151,34,182,42,130,83,290,88,12,221,65,101,337,254,241,13,11,188,109,26,32,16,1,1,1,5,1,1,1,8,11,39,1,10,23,153,371,45,13,17,33,64,238,26,14,1320,1,8,5,17,6,5,7,64,28,7,2,3,37,23,6,63,64,72,5,2,2,2,2,13,1
+Ministre	37,511,666,17,49,17,294,7,82,121,36,39,91,1,332,42,28,7,88,89,2,46,115,21,70,158,79,146,5,109,21,42,28,6,67,147,311,40,168,27,7,104,90,20,19,165,1,303,118,7,107,20,98,2,644,40,160,233,54,160,147,24,174,404,70,70,67,164,7,159,102,24,27,25,15,226,50,151,34,182,42,130,83,290,88,12,221,65,101,337,254,241,13,11,188,109,26,32,16,1,1,1,5,1,1,1,8,11,39,1,10,23,153,371,45,13,17,33,64,238,26,14,1320,1,8,5,17,6,5,7,64,28,7,2,3,37,23,6,63,64,72,5,2,2,2,2,13,1,19,16,9,28,3
 Ministre Adidjatou MATHYS	1281
 Ministre Adji	3967
 Ministre Ahmadôu Alhaminou Mohamed LO REPUBLIQUE	11139
@@ -3437,6 +3445,7 @@ Ministre des Affaires Etrangères	4420,8985,35,5
 Ministre des Affaires Sociales	10824,45
 Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6,1031,1313,4,5,111,37,23,19,1,62,1,2,68,57,22
 Ministre des Finances Hervé NDOBA	1300
+Ministre des Finances. AArticle	13781
 Ministre des Forces	5907
 Ministre des Infrastructures	7978,5351
 Ministre des Mines	7978
@@ -3461,7 +3470,7 @@ Ministre du Plan	7978,2535
 Ministre. Article	13292
 Ministre. Sa	13549
 Ministre.des Télécommunications	11139
-Ministres	548,666,753,1,374,466,237,336,15,279,892,1500,1403,799,415,2467,2141,1,48,101,196,72,11
+Ministres	548,666,753,1,374,466,237,336,15,279,892,1500,1403,799,415,2467,2141,1,48,101,196,72,11,60
 Ministri	10829
 Ministries	395,323,71,169,203,100,516,37,24,150,299,240,4,244,4,210,397,90,72,56,74,183,23,23,219,88,814,216,200,349,142,59,79,204,155,10,66,31,129,118,162,42,154,225,179,147,53,120,105,77,71,246,54,19,29,163,37,253,58,1,23,70,142,514,29,146,49,98,11,93,1,156,290,78,82,107,39,848,18,16,60,6,3,1,44,19,15,17,35,2,33,23,22,23,41,10,12,18,1,34,4,26,1,12,103,4,7,16,30,40,41,47,10,37,10,41,4,1,1,15,5,9,83,124,26,10,5,39,3,8,5,10,3,15,19,29,7,15,5,15,2,16,9,63,110,13,2,2,2,6,15,8,3,1,7,1,4,22,10,27,2,50,17,115,44,15,20,4
 Ministries Allocated	10870
@@ -3588,7 +3597,7 @@ Ministros	13,2853,3120,5528,2,1291,16
 Ministros Africanos	12862
 Ministros da Acção Social	11378
 Ministros da Educação	11557
-Ministry	3,31,22,253,248,161,52,13,6,110,59,42,17,219,13,35,293,83,1,1,1,1,1,1,1,1,1,3,1,1,1,102,1,89,10,8,80,23,267,52,104,66,32,33,107,1,71,79,168,21,6,22,20,13,162,33,32,36,32,29,44,1,7,5,62,89,1,72,6,8,9,12,46,27,14,9,23,17,6,1,28,46,58,105,39,17,15,40,16,24,7,1,14,11,30,75,19,14,28,61,47,5,15,148,1,9,51,21,100,52,10,16,79,32,30,7,17,43,3,5,45,2,25,1,19,12,16,51,98,3,16,72,1,49,27,39,1,6,46,30,47,105,49,41,17,52,51,17,1,19,62,47,1,3,45,105,13,26,8,76,23,62,105,45,35,1,33,37,1,4,59,25,75,123,97,201,50,56,1,56,12,11,29,38,53,31,66,60,4,55,23,196,70,31,68,12,6,77,36,58,8,37,23,58,7,32,153,102,8,35,26,36,11,13,6,11,1,13,3,15,65,195,23,13,44,46,2,11,10,40,62,2,210,14,4,4,23,12,12,179,36,5,25,137,15,18,13,18,93,26,63,25,19,28,20,23,101,1,36,10,3,6,42,11,27,26,27,6,1,8,1,5,77,19,15,72,50,71,10,102,144,8,33,21,33,1,107,27,16,66,3,31,9,5,1,1,9,8,4,26,6,16,10,59,16,19,13,45,7,2,28,10,9,7,9,17,5,8,1,5,7,66,6,2,1,2,5,3,7,11,4,7,2,7,19,21,28,9,6,14,27,7,5,2,32,2,4,10,11,24,1,4,4,1,5,1,29,1,2,11,4,1,2,11,5,20,9,6,24,3,15,2,131,9,8,4,2,2,3,19,3,2,5,1,3,1,5,3,3,2,6,1,1,1,2,1,1,5,2,11,4,15,10,2,11,4,3,15,1,20,14,1,2,7,14,4,2,3,5,3,22,9,11,8,6,22,16,22,36,8,15,2,1,1,3,3,1,1,9,1,11,3,1,5,3,11,3,12,1,4,17,6,8,3,24,19,7,3,11,59,28,65,29,35,33
+Ministry	3,31,22,253,248,161,52,13,6,110,59,42,17,219,13,35,293,83,1,1,1,1,1,1,1,1,1,3,1,1,1,102,1,89,10,8,80,23,267,52,104,66,32,33,107,1,71,79,168,21,6,22,20,13,162,33,32,36,32,29,44,1,7,5,62,89,1,72,6,8,9,12,46,27,14,9,23,17,6,1,28,46,58,105,39,17,15,40,16,24,7,1,14,11,30,75,19,14,28,61,47,5,15,148,1,9,51,21,100,52,10,16,79,32,30,7,17,43,3,5,45,2,25,1,19,12,16,51,98,3,16,72,1,49,27,39,1,6,46,30,47,105,49,41,17,52,51,17,1,19,62,47,1,3,45,105,13,26,8,76,23,62,105,45,35,1,33,37,1,4,59,25,75,123,97,201,50,56,1,56,12,11,29,38,53,31,66,60,4,55,23,196,70,31,68,12,6,77,36,58,8,37,23,58,7,32,153,102,8,35,26,36,11,13,6,11,1,13,3,15,65,195,23,13,44,46,2,11,10,40,62,2,210,14,4,4,23,12,12,179,36,5,25,137,15,18,13,18,93,26,63,25,19,28,20,23,101,1,36,10,3,6,42,11,27,26,27,6,1,8,1,5,77,19,15,72,50,71,10,102,144,8,33,21,33,1,107,27,16,66,3,31,9,5,1,1,9,8,4,26,6,16,10,59,16,19,13,45,7,2,28,10,9,7,9,17,5,8,1,5,7,66,6,2,1,2,5,3,7,11,4,7,2,7,19,21,28,9,6,14,27,7,5,2,32,2,4,10,11,24,1,4,4,1,5,1,29,1,2,11,4,1,2,11,5,20,9,6,24,3,15,2,131,9,8,4,2,2,3,19,3,2,5,1,3,1,5,3,3,2,6,1,1,1,2,1,1,5,2,11,4,15,10,2,11,4,3,15,1,20,14,1,2,7,14,4,2,3,5,3,22,9,11,8,6,22,16,22,36,8,15,2,1,1,3,3,1,1,9,1,11,3,1,5,3,11,3,12,1,4,17,6,8,3,24,19,7,3,11,59,28,65,29,35,33,30,53
 Ministry Administration	12962
 Ministry Annan Center	4126
 Ministry Annual	7548
@@ -3641,7 +3650,7 @@ Ministry for Vocational Training	10841
 Ministry of Administration and Territory	10841
 Ministry of Adopted Q4	1777
 Ministry of Agencies	1000
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217,44,23,13,29,44,24,34,87,100,27,2,106,27,27,39,97,75,10,1,8,14,11,1,5,10,5,65,7,31,3,10,1,1,28,242,38,107,282
 Ministry of Agriculture By Dorcas Kabuya	13366
 Ministry of Agriculture Methodology for Data Biannual	1867
 Ministry of Agriculture MoHAIS Ministry of Home Affairs	1867
@@ -3831,7 +3840,7 @@ Ministry of Electronics	7981
 Ministry of Electronics and Information Technology	9208
 Ministry of Employment	11900
 Ministry of Employment and Vocational Training	10963,1
-Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661,434,6,2,360,18,254,51,114,168,87
+Ministry of Energy	1283,80,2916,234,734,1386,4240,676,4,26,661,434,6,2,360,18,254,51,114,168,87,59,17
 Ministry of Energy Access	1988
 Ministry of Energy Civil Society Organisations	21
 Ministry of Energy Ministry of Finance	12674
@@ -3848,7 +3857,7 @@ Ministry of Energy and Water Resources	11136
 Ministry of Energy of Lesotho	6490
 Ministry of Enterprise and Employment	12896
 Ministry of Entrepreneurship	1675
-Ministry of Environment	395,545,1949,1237,944,3952,331,995,1373,184,185
+Ministry of Environment	395,545,1949,1237,944,3952,331,995,1373,184,185,1687
 Ministry of Environment Saudi Fund for Development BRD	12358
 Ministry of Environment and Agriculture	13312,2
 Ministry of Environment and FAREI	11332
@@ -3908,6 +3917,7 @@ Ministry of Finance and Planning. Maxwell Melingasuk Loboka	4640
 Ministry of Finance and Planning. South Sudan	6259
 Ministry of Finance and Planning. The Commission	3583
 Ministry of Finance and Public Enterprises	1928,11023
+Ministry of Finance of Comoros	13791
 Ministry of Finance of Kazakhstan and ASYCUDA	13042
 Ministry of Finance's Digital Financial Services Policy	7954
 Ministry of Finance's First Undersecretary Hon. Garang	3736
@@ -3943,6 +3953,7 @@ Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
 Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634,240,228
 Ministry of Foreign Affairs and International Trade	395,5155
+Ministry of Foreign Affairs of Comoros	13791
 Ministry of Foreign Affairs of Finland	5672,6520
 Ministry of Foreign Affairs of France	12587
 Ministry of Foreign Affairs of Japan	11154
@@ -3968,7 +3979,7 @@ Ministry of General Education and Instruction	3583,5556
 Ministry of Green Economy	1988
 Ministry of Green Economy and Environment	1988,3259,4146,3972,247,74
 Ministry of Guidance. ICT and National Guidance UCC	9781
-Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82
+Ministry of Health	34,526,206,5,126,80,242,42,393,12,158,43,121,392,83,10,4,166,35,58,269,83,196,109,7,183,1,20,103,84,42,147,110,77,35,15,43,268,297,97,89,37,78,99,19,42,353,467,100,43,24,266,45,379,359,38,23,165,18,112,83,3,2,370,240,439,275,49,65,63,103,59,119,80,227,6,327,114,339,18,37,13,21,35,3,7,1,4,32,16,5,8,23,1,16,47,12,30,52,111,268,16,168,1,3,31,16,19,10,83,152,39,51,13,90,45,13,24,65,1,5,9,11,62,2,3,1,4,41,34,4,53,26,6,10,27,12,10,20,2,5,18,33,22,11,57,25,168,17,2,3,12,14,2,4,1,28,11,6,18,2,38,13,2,26,2,35,2,3,3,58,90,32,54,3,22,5,24,5,14,105,18,82,85,7,21,22
 Ministry of Health Annual Budget Performance Report	12976
 Ministry of Health Community Development	1261
 Ministry of Health Data Governance Manual	3861
@@ -4019,6 +4030,7 @@ Ministry of Health and U.S	4167
 Ministry of Health and UNICEF	3980
 Ministry of Health of Angola	10780
 Ministry of Health of Botswana	11748
+Ministry of Health of Comoros	13813
 Ministry of Health of Ethiopia	1824,10431
 Ministry of Health of Mozambique	12266
 Ministry of Health of Uganda	4217
@@ -4300,7 +4312,7 @@ Ministry of National Defence	1886,3421
 Ministry of National Defence of Mozambique	2667
 Ministry of National Defense	1777,1061,1917,515
 Ministry of National Disclaimer	10313
-Ministry of National Education	210,34,72,2234,69,440,1746,2216,4531,398
+Ministry of National Education	210,34,72,2234,69,440,1746,2216,4531,398,1866
 Ministry of National Education and Citizenship	11918
 Ministry of National Education and Literacy	210
 Ministry of National Education and New Citizenship	11918
@@ -4506,6 +4518,7 @@ Ministry of Urban Development and Construction	5655
 Ministry of Urban and Infrastructure	5868
 Ministry of Urban and Rural Development	3634,9369,115
 Ministry of Urbanism	3713
+Ministry of Water	13787
 Ministry of Water Development	1988
 Ministry of Water Development and Sanitation	13387
 Ministry of Water Resources	3583
@@ -4519,7 +4532,7 @@ Ministry of Women and Social Cohesion	11525
 Ministry of Works	3061,3150,1484,4162,238,224,657
 Ministry of Works and Housing	11129
 Ministry of Works and Transport	11681,414,224
-Ministry of Youth	970,1766,1792,476,768,1660,1705,2586,182,607,39,75,684,2,2
+Ministry of Youth	970,1766,1792,476,768,1660,1705,2586,182,607,39,75,684,2,2,477
 Ministry of Youth Affairs	8271
 Ministry of Youth Affairs and Civic Education	10985
 Ministry of Youth Sports Culture	12551
@@ -4586,7 +4599,7 @@ Ministry’s Mandate	12912,50
 Ministry’s Mandate MICT	12971
 Ministry’s Ministerial Statement	12972
 Ministry’s Strategic Plan	12972
-Ministère	37,198,77,236,95,94,6,22,20,184,36,173,3,2,4,31,29,17,6,11,3,3,5,9,11,1,1,1,1,1,1,1,1,1,7,208,45,17,86,18,6,93,36,120,27,34,18,1,1,1,1,1,1,1,1,1,1,11,229,56,134,38,181,1,21,15,6,1,17,52,123,29,6,9,70,146,5,71,42,17,11,19,25,15,6,53,14,135,12,42,10,7,40,39,15,26,17,134,159,30,23,11,144,1,1,1,1,1,1,1,1,1,1,2,27,11,7,26,3,3,165,1,31,1,47,29,198,50,65,33,41,40,32,71,98,111,10,12,308,1,237,84,27,146,35,66,13,12,17,37,331,76,74,263,48,258,200,5,32,98,7,10,21,61,22,51,22,3,234,33,287,21,56,51,37,29,58,83,65,99,351,161,10,91,90,63,438,10,110,2,138,26,2,144,17,3,1,100,9,2,3,3,12,6,11,16,2,3,1,15,1,7,2,5,3,1,13,11,26,1,10,10,106,44,387,45,13,17,7,72,49,8,172,39,14,85,200,184,863,3,7,1,5,19,4,2,6,4,23,10,1,4,26,28,9,10,12,19,16,26,21,3,3,3,5,14,39,4,11,7,3,34,5,12,4,15,2,5,2,4,2,7,7,6,5
+Ministère	37,198,77,236,95,94,6,22,20,184,36,173,3,2,4,31,29,17,6,11,3,3,5,9,11,1,1,1,1,1,1,1,1,1,7,208,45,17,86,18,6,93,36,120,27,34,18,1,1,1,1,1,1,1,1,1,1,11,229,56,134,38,181,1,21,15,6,1,17,52,123,29,6,9,70,146,5,71,42,17,11,19,25,15,6,53,14,135,12,42,10,7,40,39,15,26,17,134,159,30,23,11,144,1,1,1,1,1,1,1,1,1,1,2,27,11,7,26,3,3,165,1,31,1,47,29,198,50,65,33,41,40,32,71,98,111,10,12,308,1,237,84,27,146,35,66,13,12,17,37,331,76,74,263,48,258,200,5,32,98,7,10,21,61,22,51,22,3,234,33,287,21,56,51,37,29,58,83,65,99,351,161,10,91,90,63,438,10,110,2,138,26,2,144,17,3,1,100,9,2,3,3,12,6,11,16,2,3,1,15,1,7,2,5,3,1,13,11,26,1,10,10,106,44,387,45,13,17,7,72,49,8,172,39,14,85,200,184,863,3,7,1,5,19,4,2,6,4,23,10,1,4,26,28,9,10,12,19,16,26,21,3,3,3,5,14,39,4,11,7,3,34,5,12,4,15,2,5,2,4,2,7,7,6,5,12,21,5,12,11
 Ministère Agriculture	3396
 Ministère Appareils	13442
 Ministère DECISION FINALE Favorable	10821
@@ -4618,15 +4631,16 @@ Ministère des Affaires Sociales	3351,7470,48,95,941,19
 Ministère des Droits	13442
 Ministère des Eaux	3045
 Ministère des Enseignements	2966
-Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6,1262,1088,59,92,23,6,8,6,24,3,3,10,88,5,49,15
+Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6,1262,1088,59,92,23,6,8,6,24,3,3,10,88,5,49,15,49
 Ministère des Finances Cellule	10965
 Ministère des Finances Tous	10965
+Ministère des Finances. Article	13781
 Ministère des Finances. L’atelier	10965
 Ministère des Infrastructures	1284,2112,2597,4819,2517
 Ministère des Mines	3045
 Ministère des PME	10823,162
 Ministère des Petites	10964
-Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967
+Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967,1831
 Ministère des Serviteurs du Peuple le Conseil	5304
 Ministère des Sports	3396
 Ministère des TIC	765,12536
@@ -4654,7 +4668,7 @@ Ministère. L’ANSI	2514
 Ministère. Monsieur	2514
 Ministère. Nous	2514
 Ministère. Vous	2514
-Ministères	643,1871,294,143,1469,147,4117,1927,100,1,109,102,674,347,1346,13,3,35,101,226,47,8
+Ministères	643,1871,294,143,1469,147,4117,1927,100,1,109,102,674,347,1346,13,3,35,101,226,47,8,58
 Ministères Association	10965
 Ministères Montant Montant Montant DNA	3396
 Ministères des Finances	13476
@@ -4765,6 +4779,8 @@ Morocco's Minister Delegate	7169
 Morocco's Ministry of Digital Transition	5009
 Morocco's Ministère	5798
 Morocco’s Minister Delegate	11782
+Moroni Le Ministère	13799
+Moroni. Le Ministère	13777
 Mosebi and Home Affairs and Police Minister	11628
 Mot du Ministre Biographie du Ministre Cabinet Structures	3675
 Mot du Ministre Biographie du Ministre Cabinets Strucutres	3675
@@ -5448,6 +5464,7 @@ Sabane and Prime Minister Rimtalba Jean Emmanuel	4917
 Sabotage Minister of State for ICT and National Guidance	8547
 Safety and Security Minister Lucia Iipumbu	13193
 Sahel. Le Conseil des Ministres	2342
+Said Soule and Secretary General of Ministry of Youth	13791
 Salaam. The Ministry of Information	1803
 Sampa. And the Ministry	12416
 Samuel Nartey George. The Minister	4174
@@ -5477,6 +5494,7 @@ Secretario Particular Primer Ministro	4209
 Secretario de Estado Ministerio de Educación	6841
 Secretary Federal Ministry of Education	11860
 Secretary General of Guinea’s Ministry of Posts	3089
+Secretary General of Ministry of National Education Mr	13791
 Secretary Minister of Technology and Science The Zambian	13346
 Secretary Ministry for Defence Mr. Ephraem V	11134
 Secrétaire Général Adjoint du Ministère	9567
@@ -5847,6 +5865,7 @@ Ukraine's Ministry of Veterans Affairs	12391
 Ukrainian Prime Minister Yuriy Yekhanurov	7493
 Under the Ministry of Agriculture	13733
 Union Minister Dr Jitendra Singh	6480
+Union des Comores. Le Conseil des Ministres	13809
 United Arab Emirates. Minister of International Relations	5086
 Universal Access Service Fund and Ministry of Economic	9197
 Unless the Minister	12894

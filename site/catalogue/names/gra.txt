@@ -251,6 +251,7 @@ GRAMBOUTE Soiliho Korhogo	2342
 GRAN MAESTRE ORDENES NACIONALES	4209
 GRAND	13359,145
 GRAND TOTAL Female	13025
+GRANDE-COMORE	13772
 GRANT	11549,2193
 GRANT FROM THE GLOBAL	10829
 GRANT IN THE AMOUNT OF SDR	12780
@@ -360,7 +361,7 @@ Graduate-level AI	12675
 GraduateCentreforManagement	8603
 Graduated Honours Students	12926
 Graduated Masters Students	12926
-Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846
+Graduates	1704,1008,1816,2011,40,2871,1186,210,123,915,1,10,76,188,1,45,146,4,132,25,846,458
 Graduates of ESATIC	3604
 Graduation	13395
 Graduation Ceremony ECZ Director	13477
@@ -478,9 +479,11 @@ Grande Chancelerie Acquérir	3396
 Grande Chancellerie	8336
 Grande Chancellerie des Ordres Burkinabè	3396
 Grande Commission	8237
-Grande Comore	2561,2465,8685,16,6
+Grande Comore	2561,2465,8685,16,6,19,22,11,3,1,4,2,15
 Grande Comore Tel	13736
+Grande Comore. Plusieurs	13803
 Grande Comores	5370
+Grande Comoros	13793
 Grande Entreprise	1247
 Grande Exploitation Minière	11597
 Grande Mosquée Fayçal	11019
@@ -488,6 +491,7 @@ Grande Muraille Verte. Objectif Spécifique	643
 Grande Muraille Verte31. L’émergence de PME	643
 Grande Rencontre des Compliance	7123
 Grande de Mindelo	1948
+Grande-Comore	13780
 Grandes	1005,696,1115,1346,9302,193
 Grandes Actos da Academia de Ciências Policiais	7736
 Grandes Contribuintes	4203,7329
@@ -496,6 +500,7 @@ Grandes Contribuintes Portaria de Criação Considerando	12018
 Grandes Contribuintes. Declaração Eletrónica Modelo	12018
 Grandes Contribuintes. São Grandes Contribuintes	12018
 Grandes Ecoles	12
+Grandes Entreprises	13772
 Grandes Reformas	1701
 Grandes Reformas Para	1701
 Grandes Reportagens Quinta	11429
@@ -680,9 +685,10 @@ IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1
 IBRD and IDA and Grants	6539
 IDA Credits and Grants	1264
 IDA GRANT Direct	11855
-IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220
+IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220,456
 IDA Grant H9080	11525
 IDA Grant IDA Shorter Maturity Loan	11905
+IDA Grant. Environmental And Social Risk	13793
 IDA Grants	1264
 IDA WHR Grant	11905
 II LIST OF GRAPHICS	10980
@@ -923,6 +929,7 @@ Retrogressive Grant	2307
 Revenue and Grants	12922,34,166,1
 Ribeira Grande	1265
 Ribeira Grande Santiago. Contratos	1948
+Robust PC-B System Grande Comore	13795
 Royaume-Uni de GrandeBretagne	6613
 Rutana. Graphique	13300
 Rutile and Graphite Exploration	13060

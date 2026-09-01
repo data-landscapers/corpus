@@ -41,6 +41,7 @@ Accounting Officer Signature Approved	5533
 Accounting Officers	10313,880,59,2168
 Accounting Officers and CEOs	9983
 Accounting Officers and Chief Executive Officers	8981
+Accreditation Ceremony Reflects Official Recognition	13816
 Act Registration Office and Register Registrar	3714
 Act of Parliament- County Statistical Office	2775
 Act. The Force Public Relations Officer	3383
@@ -320,7 +321,7 @@ Chief Electoral and Referenda Officer	12905
 Chief Enterprise Business Officer	3220,6500
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
 Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
-Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181
+Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92,143,248,73,5,1,2,64,23,19,40,468,28,200,20,50,199,54,16,43,80,97,97,19,249,148,9,65,3,60,76,14,30,66,16,16,181,232
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer Ato Kinfe Negash	12195
 Chief Executive Officer CI Continuous Integration	6432
@@ -536,6 +537,7 @@ Community Development Office	12970
 Community Development Officer	12970
 Community Health and Safety Impacts Official Use	12253
 Community Relations Liaison Officers	12510
+Comorian Officers Join FBI Training	13754
 Companies Office	13311
 Companies Registration Office	3714
 Companies and Intellectual Property Registration Office CIS	11261
@@ -667,6 +669,7 @@ Deputy Chief Executive Officer of AfricaNenda Foundation	8150
 Deputy Chief Executive Officer of Econet Wireless	4896
 Deputy Chief Executive Officer of TradeMark Africa	9931
 Deputy Chief Nursing Officer	12972
+Deputy Chief of Office	13776
 Deputy Head of Office for Financial Integrity	7317
 Deputy Information Officer	11896,88
 Deputy Information Officers	11984
@@ -788,6 +791,7 @@ EX OFFICIO	12374
 EXCEPT IN PRESENCE OF THE OFFICIAL	13037
 Eastern Africa. Officials	6096
 Eastern and Central Africa. Officials	7989
+Ebola Outbreak Comorian Officers Join FBI	13754
 Eco Point Office Park	6891
 Eco Point Office Park Eco Park	11259,3
 Ecobank's Head Office	3895
@@ -1142,7 +1146,7 @@ Janeiro Team Member Disbursement Officer WFACS	11525
 Job Officer	10721
 Joint Offices Responsible for SIC and SINSE	9399
 Joseph Lukhelo District Education Standard Officer	13392
-Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390
+Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213,1532,390,94
 Journal Officiel Nombre	3396
 Journal Officiel RDC	12010
 Journal Officiel Spécial	10902
@@ -1370,6 +1374,7 @@ Ms Camagwini Ntshinga Chief Financial Officer	11224
 Ms Kelebogile Thulare Chief Information Officer	11224
 Msasa Current EWZL Owned Offices N	4896
 Mulayo Office	13462
+Multi-Country Office Monthly Statistical Report	13769
 Multi-Partner Trust Fund Office	11356
 Multi-lateral Office	7548
 Multichoice Kenya The Office	2668
@@ -1553,7 +1558,7 @@ Occupation Health and Safety Impacts Official Use	12253
 Occupational Health and Safety Officer	12972
 Occupational Health and Safety Official Use Only	12253
 Offical States Secrets Act Requirement	11952
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57,18,1,1,47,8,19,9,4,31,9,3,63,1,76,5,2,6,10,9,1,18,21,4,3,15,8,50,11,1,23,2,10,17,13,8,6,10,23,1,13,16,4,4,1,13,12,5,17,12,103,37,15,26,33,5,1,2,10,152,21,3,1,2,4,8,4,11,6,5,1,2,7,1,5,5,2,9,22,18,4,3,13,27,15,2,26,90,23,72,2,1,1,2,6,1,1,3,4,3,3,10,10,4,25,1,2,31,2,39,11,4,30,39,35,71,39,11,74
 Office Accommodation	5533,6453
 Office Accra	2308
 Office Act	12138
@@ -1727,6 +1732,7 @@ Offices des Postes	11522
 Officesx Health	10812
 Office’s Guidance Note	1630
 Official	173,802,671,473,564,8,353,409,130,169,282,93,140,135,126,32,572,189,592,291,94,469,377,319,85,700,714,546,273,940,93,97,26,42,75,124,118,298,123,134,125,10,9,156,23,10,8,9,64,62,11,18,156,18,99,408,184,90,75,6,26
+Official Accreditation Marks	13816
 Official Africa CDC	4782
 Official Citation and Designation	3861
 Official Completed Form	12218
@@ -2195,6 +2201,7 @@ Regional Office Smart Village	10764,80
 Regional Office Union	11563
 Regional Office for Africa	6297,3672,811
 Regional Office for Africa and Southern Africa	12921
+Regional Office for Arab States	13776
 Regional Office for Southern Africa	10073
 Regional Office for Southern Africa Regional Groups	12550
 Regional Offices	12337,68,512,65,126
@@ -2323,6 +2330,7 @@ Senior Program Officer	12663
 Senior Programme Officer	962,2396
 Senior Programme Officer ICT. The Director	962
 Senior Programmes Officer and Digital Inclusion Lead	7564
+Senior Protection Officer	13773
 Senior Research Officer	3005
 Senior Research Officer of Privacy International	3005
 Senior Staff Officer Construction	13361
@@ -2484,6 +2492,7 @@ Tundwe Choolwe Procurement Officer	13392
 Turnaround Strategy. The Office	12327
 Twitter Officiel	8673
 U.S. Attorney’s Office	11342
+U.S. Mission Comoros Comorian Officers Join	13754
 UCC Head Office	8730
 UCC Official	4761,5020
 UK Foreign and Commonwealth Development Office	11142
@@ -2510,6 +2519,7 @@ UNDP's Global Digitalisation Office	3496
 UNDP's Malawi Country Office. Pension	12144
 UNDP. Officially	4058
 UNDP’s Chief Digital Office	10852
+UNDRR Regional Office for Arab States	13776
 UNESCO Head of Office and Representative	12994,54
 UNESCO Member States. UNESCO Windhoek Office	12994
 UNESCO National Programme Officer	13662
@@ -2554,6 +2564,7 @@ United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416,994,4
 United Nations Office Office	13003
 United Nations Office for Digital and Emerging Technologies	11057
 United Nations Office for Disarmament Affairs	2117
+United Nations Office for Disaster Risk Reduction	13767,9
 United Nations Office for Outer Space Affairs	7760,3484
 United Nations Office for Project Services	6806,3970,53
 United Nations Office for South-South Cooperation	11356,190

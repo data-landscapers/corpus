@@ -343,8 +343,11 @@ EXPECTED OUTPUT OF THE ASSIGNMENT	12693
 Early Learning Outcome Measurement	12975
 East Africa Banking Industry Outlook	5883
 East Africa Outbound UGANDA	9781
+East Africa Output	13767
 East Africa Submarine Cable Outage Report	2677
 East African Artificial Intelligence Policy Outlook	8334
+Ebola Outbreak Comorian Officers Join FBI	13754
+Ebola Outbreak Worldwide Caution	13754
 Ebola Outbreak. Summit	12640
 Economic Outlook	2775,4171
 Economic Outlook Kenya	2775
@@ -1278,7 +1281,7 @@ Oumou Sall Seck	7926
 Oumouri	2594
 Oumouri Madi	2978
 Oumouri Mmadi Hassane	2341
-Oumouri Mmadi Hassani	3067,1756,846,6410,24
+Oumouri Mmadi Hassani	3067,1756,846,6410,24,1682,5,21
 Oumouri Mmadi Hassani. Organisée	12079
 Ounabnbauenfraaacntnnuduriapnllgabsiantsidcisup	11152
 Ourang	10841
@@ -1437,7 +1440,7 @@ Outcry	3331
 Outdated	3861,2571,1514,1182,488,1149,10,1385,45,5,141,93,561,309
 Outdated Licensing Adaptive	12214
 Outdated NRB	13005
-Outdoor	7845,1278,3640
+Outdoor	7845,1278,3640,1032
 Outdoor Cooling Units	12253
 Outer	4397,1,5457,1428,742,221
 Outer Delivery Package	9855
@@ -1519,7 +1522,7 @@ Outpatient Diseases	2775
 Outpatient ONLY HMIS	2709
 Outpatient Visit	6666
 Outposts	5084,753
-Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252
+Output	236,930,38,1571,2248,510,899,2691,311,1535,222,61,19,149,464,1,10,57,34,22,151,1,44,1,24,12,110,4,3,129,593,15,252,420
 Output Centre of Excellence Central Bank of Reference	11134
 Output IP Internet Protocol IPSec Internet	13185
 Output IaaS Infrastructure	13185
@@ -1542,7 +1545,7 @@ Outputs Primary Secondary	1777
 Outputs Primary Secondary National Security Recurrent	1777
 Outputs Primary Secondary Strategic Objective	1777
 Outputs Primary Secondary Strategic Pillar	1777
-Outputs Regional	11420
+Outputs Regional	11420,2347
 Outputs-immediate	7548
 Outra	220,2596,1224,6717,20,637,113,5,30,7,226
 Outrage	7187
@@ -1910,6 +1913,7 @@ Solimane Hamed OUATTARA	7670
 Somalia’s Inflation Outlook	11136
 Son Excellence Monsieur Alassane OUATTARA	2808,237
 Son Excellence Monsieur Alassane Ouattara	5221
+South West Indian Ocean Climate Outlook	13767
 Southern African Climate Outlook Forum	8006
 Southern African Regional Climate Outlook Forum	12918
 Spectrum Outlook and Capacity Requirements	5245

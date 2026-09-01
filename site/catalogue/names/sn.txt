@@ -215,7 +215,7 @@ SNOMEDclinicalterms	8606
 SNPC Distribution	1828
 SNPC and CORAF	1828
 SNPECI	1266,1076,8582,1
-SNPSF	3677,10064
+SNPSF	3677,10064,16
 SNRRC	13442
 SNSC Validation Date	11863
 SNSC0 Breuil MORGANE	11863
@@ -257,6 +257,7 @@ Sneci	3031
 Snedai	1576
 Snegociado	4209
 Sneha Thube	13624
+Snehal Soneji	13752
 Snehar Shah	4796
 Snell	7789
 Snidal	7731

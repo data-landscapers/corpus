@@ -147,7 +147,7 @@ Imprisonment	13381
 Imprivata	6651
 Improbable	12367
 Improper	1988,1726
-Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219
+Improve	395,394,110,101,161,43,573,46,5,57,354,207,31,412,250,475,226,286,175,1232,143,1156,108,708,103,1321,1649,41,3,10,44,10,12,51,68,4,21,2,17,127,3,54,10,38,232,389,48,1,10,25,23,7,15,20,132,37,20,19,13,2,11,1,74,14,27,20,23,54,45,54,42,47,52,13,22,195,9,3,1,28,11,2,54,6,43,15,126,74,15,2,2,6,11,14,2,12,153,219,93
 Improve Access	182,12278,92
 Improve Accessibility of Schools	11918
 Improve Assembly	11857
@@ -175,6 +175,7 @@ Improve Human Capital	579
 Improve Human Capital Capacity	12552
 Improve Human Capital Capacity. Performance	12552
 Improve ICT	10550
+Improve ICT Comprehension	13774
 Improve ICT SO	6946
 Improve ID and Passport Services Abroad	10521
 Improve Infrastructure and Technology Access	12675
@@ -312,6 +313,7 @@ Improving Science	13314
 Improving Secondary Education	12985
 Improving Service Delivery	13678
 Improving Service Delivery Infrastructure	10776
+Improving Service Delivery Performance Component	13787
 Improving Social Protection Implementation and Institutional	10768
 Improving Standards	12214
 Improving Standards of Responsibility	12214

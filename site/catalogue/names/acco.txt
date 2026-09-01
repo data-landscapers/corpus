@@ -51,7 +51,7 @@ Accommodation and Food Services	2775,10873
 Accomodation and Food Services	2775
 Accompagnateur Startup	4567
 Accompagnement	1247,8990,474,2734
-Accompagner	6079,2812,628,1339,107,2336,74,39,151
+Accompagner	6079,2812,628,1339,107,2336,74,39,151,216
 Accompagner le ANEMCAM	10965
 Accompagner le PSA-SNFI	10965
 Accompagné	3512,2470,1292,2908
@@ -83,8 +83,8 @@ Accord du Programme	10876
 Accord-Cadre	2808
 Accord-cadre	2808
 Accordance	11853
-Accorder	7917,974,1985,2414,11
-Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61
+Accorder	7917,974,1985,2414,11,480
+Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61,102
 Accords	2465,2896,1536,3929,50,47,599,1779
 Accordées	10876
 Accou- Infirmière	13300
@@ -912,6 +912,7 @@ Strategic Accounts	6270
 Strengthen Horizontal Accountability for Citizens’ Data	6770
 Strengthen Local Authority Accountability	13646
 Strengthened Transparency and Accountability HRIMS	13477
+Strengthening Accountability	13792
 Structures Accompagnement	643
 Student Accommodation	12411
 Sub Exchequer Account and Consolidated Revenue Fund-Main	13420

@@ -142,7 +142,7 @@ Ic Fiji Oceania Melanesia Suva High	10840
 IceKey Oct	10714
 Identification OCDE Organisation de Coopération	10712
 Indian Journal of Occupational and Environmental Medicine	12090
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2
 Indian Ocean Aucun	13701
 Indian Ocean Basin	3636,218,9166
 Indian Ocean Commission	7795
@@ -450,9 +450,11 @@ Ocupacional	4209
 Ocupación	1701
 Ocupação	9403,1374
 Ocupação Sistema Online	11898
-Océan	10975
+Océan	10975,2815
 Océan Atlantique	8891
+Océan I'indien	13790
 Océan Indien	6883,6841,16
+Océan Indien. Hamdi Abdillahi Rahilie	13802
 Océanie	13324
 Organising Framework for Occupations OIHD	6832
 Padrão Global OC4IDS	9432
@@ -505,6 +507,8 @@ Sistema Ocidental	2816
 South Africa's National List of Occupations	6832
 South Atlantic Ocean	124
 South Atlantic and Indian Ocean	4448
+South West Indian Ocean Climate Outlook	13767
+South-West Indian Ocean	13767
 Southern Africa and Indian Ocean	10789
 Southern Africa and Indian Ocean Region European	467
 Southwest Indian Ocean	11191
@@ -530,6 +534,8 @@ Update OCGS	11133
 West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
+Western Indian Ocean Route	13773
+Western Indian Ocean Route. Operational Protection	13773
 X. Ochoa	9128
 Year Oct	12267
 Yumnaa Ocks	8022

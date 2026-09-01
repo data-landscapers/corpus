@@ -1,7 +1,7 @@
 ACKNOWLEDGEMENTS The ID4D-Global Findex Database	10714
 About the Global Findex Database	10977
 About the Global Findex Database Financial	10977
-Abstract The Global Findex	13084
+Abstract The Global Findex	13084,675
 Acknowledgments About the Global Findex Database Executive	10977
 Acknowledgments Global Findex	10977
 Adaptation Findings In CAR Possible Options	10829
@@ -24,6 +24,7 @@ Body The Global Findex Database	13084
 Borehole and Footbridge Construction Projects Findings	13420
 CAN FIND MORE INFORMATION	7198
 CEO of FindMe	10983
+COM 2024 FINDEX v02 M Title	13759
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 CONTENTS FOREWORDS EXEC SUMMARY INTRODUCTION FINDINGS	5618
 Cameroon’s FindMe Rides New Bank Deal	10983
@@ -60,7 +61,7 @@ Evidence-Based Policy Imperative FINDING	3861
 Expenditure Findings	13355
 Experts Find Accessing Finance for Digital Transformation	12214
 FIND US	13097
-FINDEX	10963,1,2120
+FINDEX	10963,1,2120,675
 FINDINGS	236,1702,11372
 FINDINGS A. POLICY AND LEGAL FRAMEWORKS	13310
 FINDINGS AND DISCUSSION	2518
@@ -126,10 +127,10 @@ GBV. Findings	12977
 GSMA Report Finds	6781
 Ghana FINDINGS	236
 Ghana. Finds	4074
-Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230
+Global Findex	761,2661,2726,4566,251,12,942,25,50,255,21,30,761,23,230,445
 Global Findex Africa	11919
-Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835
-Global Findex Digital Connectivity Tracker	10977,2107
+Global Findex Database	940,4625,974,4175,108,19,136,161,822,243,28,18,835,675
+Global Findex Digital Connectivity Tracker	10977,2107,675
 Global Findex Identification	10714
 Global Findex Microdata	10714
 Global Findex Survey Methodology	10714
@@ -222,7 +223,7 @@ Rug Pull Finder	4127
 SOCIAL MEDIA MONITORING FINDINGS The EU	12201
 SURVEY TOPLINE FINDINGS Southern Africa REGISTERED	12409
 Selection Rule Child Metric Findex	10714
-Series Information The Global Findex	13084
+Series Information The Global Findex	13084,675
 Shared AI Findings Exchange	9027
 South Nyaruguru RESEARCH FINDINGS	12328
 Statutory Funds Finding The Ministry	13420

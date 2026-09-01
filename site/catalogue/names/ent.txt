@@ -733,7 +733,7 @@ Entité	10876,1068,1498
 Entités	10876
 Entités Publiques	10981
 Entités des Nations Unies	13547
-Entièrement	3687,1008,2679,4410
+Entièrement	3687,1008,2679,4410,2016
 Entlaq	10745
 Entlaq The Standard Chartered Women	10745
 Entlaq and Village Capital	10745
@@ -800,6 +800,7 @@ Entrepreneurial State	5700
 Entrepreneurial Support Organizations	13358
 Entrepreneurial and Vocational Education and Training	13060
 Entrepreneuriat	4343,550,2324,510,991,1801
+Entrepreneuriat Engagement	13822
 Entrepreneuriat National	7926
 Entrepreneuriat Rapide des Femmes	7106
 Entrepreneuriat du Gabon	7268
@@ -836,7 +837,7 @@ Entrepreneurship and Innovation OBJECTIVE	12453
 Entrepreneurship and Skills Acquisition Disparities	6948
 Entrepreneurship. Market	11356
 Entreprenuership and Income Generating Activities	940
-Entreprise	737,1739,1983,3196,410,122,1295,1330,63,149,543,377,1362,84,134
+Entreprise	737,1739,1983,3196,410,122,1295,1330,63,149,543,377,1362,84,134,257,28
 Entreprise CITI	10874
 Entreprise EDEN TiiiT	4989
 Entreprise Gouvernementale	13751
@@ -844,12 +845,14 @@ Entreprise Software Solutions	2258
 Entreprise Traitement	10821
 Entreprise du CNP	10367
 Entreprise du Conseil	10367
-Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110
+Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110,281
 Entreprises LORYNE	3989
 Entreprises M. Patrice Kiemde Directeur	10812
 Entreprises Publiques	2342,9901
+Entreprises Publiques Audiovisuelles Comoriennes	13781
 Entreprises Publiques. Leur	2342
 Entreprises Publiques. Un	2342
+Entreprjse	13781
 Entrer	13375
 Entretanto	1861,955,2576,2730,303,250,1650,427,25,792,449,49,10
 Entretenir	1005
@@ -1009,6 +1012,7 @@ Government of Rwanda Enterprise Architecture Standards.docx	9124
 Government of Rwanda Enterprise.’ Architecture Framework	12359
 Govt. Enterprise and Empowerment Program GEEP	11857
 Grande Entreprise	1247
+Grandes Entreprises	13772
 Green Enterprise Solutions	5081,7933
 Green Enterprise Solutions’ Software Services	13014
 Groupement des Entreprises du Cameroun	10975
@@ -1244,7 +1248,7 @@ Motivo da Migração Entre	10777
 Moyenne Entreprise NTIC Nouvelles Technologies	11944
 Moyenne Entreprise PTF Partenaire Technique	11944
 Moyenne Entreprise Produit National Brut Programme	13290
-Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446
+Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382
 Moyennes Entreprises Ivoiriennes	7891
 Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
 Moyennes Entreprises Recensement Général	13390

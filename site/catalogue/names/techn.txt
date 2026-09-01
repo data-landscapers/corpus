@@ -203,6 +203,7 @@ Assistance Technique MEF	1307,724,2277
 Assistant Director for Digital Technologies	7432
 Assistive Technologies	13633
 Assoc. of Communications and Technology	4772
+Association Comorienne des Technologies	13780
 Association of Comms and Technology	2946
 Association of Communications and Technology	4772,2733
 Assurance Technologies	7548
@@ -213,7 +214,7 @@ Atlantis Technologies	10640
 Attorney Technologies Emerging Technologies Act	7548
 Austria Technical Cooperation Programme	12972
 Authority RSTP Royal Science and Technology Park	12444
-Autorité Nationale de Régulation des Technologies	13722
+Autorité Nationale de Régulation des Technologies	13722,59
 Availability of Green Technology Identifier	12389
 Availability of Science and Technology Parks	12389
 Availability of Technology Transfer Offices	12389
@@ -956,6 +957,7 @@ Education Management and Policy Support TVET Technical	13310
 Education PTF Partenaires Techniques	12
 Education and Information Technologies	6948,1654
 Education and Technical Education	9414
+Education and Technology Integration	13774
 EducationScience and Technology Minister of Education	13477
 Educational Technical Cooperation Project	122,337
 Educational Technical Cooperation Project. China’s Ministry	122,337
@@ -1329,6 +1331,7 @@ HAKAIZIMANA Donavine TECHNICIENS DE LABORATOIRE ANALYSE	13300
 HARARE INSTITUTE OF TECHNOLOGY	13368
 HIT Closes Technovation Expo	13688
 HIT Technovation Expo	13646
+HZK-LGDC Le Technopole Numérique	13811
 Hamdallaye. The DHY Technologie	10951
 Harare Institute of Technology	4528,3955,4029,783,174,164,13
 Harare Institute of Technology Post	13469,219
@@ -1570,7 +1573,7 @@ Information Technology for Development	1248,3184,4697,1597
 Information Technology. International Journal of Innovations	11265
 Information and Communication Technol-	13347
 Information and Communication Technolgies Act No	13346
-Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309
+Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309,119
 Information and Communication Technologies Act	22,761,1943,1,186,10392
 Information and Communication Technologies Authority	783,6469,1966,812,1618
 Information and Communication Technologies Commission	9970
@@ -1737,6 +1740,7 @@ Kay-Lyne Wolfenden Cybastion Institute of Technology	3441
 KenInvest Technologies B1-	7548
 Kenya Advanced Institute of Science and Technology	1746,1269,1546,329,1697,1687,108,410,2373
 Kenya Defence Forces AI and Emerging Technologies	7548
+Kenya Institute of Surveying and Mapping and Technician	13777
 Kenya Internet and Communications Technology Action Network	6705
 Kenya Technology Prosperity Deal Could	6790
 Kenya and Morocco. Cassava Technologies	6232
@@ -2851,7 +2855,7 @@ Technecultura	4734,5993
 Technecultura Meta	10727
 Technext	9112,1393
 Technext24	8852
-Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82
+Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91,52,8,15,14,13,36,11,2,2,39,5,50,40,139,11,16,14,27,5,41,13,2,16,14,11,32,22,37,10,63,111,1,6,12,36,12,45,82,14,30,5,15,40,5,40,14,5,1,5,18,35,3,87,125,10,11,1,13,18,18,11,11,71,132,18,37,82,50
 Technical ACTC	12364
 Technical AI Governance	5276
 Technical Acceptance	12364
@@ -3603,7 +3607,11 @@ Technopark El Gazala	235
 Technopark Maroc	5764
 Technopark PPP Development Africa50	812
 Technopark de Sonfonia	2887
-Technopole	235,4507
+Technopole	235,4507,9069
+Technopole Numérique	13811
+Technopole Numérique des Comores	13775
+Technopole Numérique. Aticki Ahmed Ismael	13811
+Technopole Numérique. Rappelant	13811
 Technopolis	2775,338,3020,494,5583
 Technopolis Act	6161,2221
 Technopolis Bill	6133
@@ -3688,6 +3696,7 @@ Unit PPPs Public-Private Partnerships PTFs Technical	13731
 United Nations Innovation Technology Accelerator for Cities	8676,4327
 United Nations Office for Digital and Emerging Technologies	11057
 Unité Technique	13433
+Unité Technique de Gestion	13770
 University of Manchester Institute of Science and Technology	6946
 University of Rwanda's College of Science and Technology	3697
 University of Rwanda's School of Science and Technology	12358

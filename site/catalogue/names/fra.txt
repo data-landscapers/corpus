@@ -116,7 +116,8 @@ Agence Francaise de Developpement	10275
 Agence France Press	13313
 Agence Française	13433
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25
+Agence Française de Développement URL	13803
 Agence Française de Développement. Une	4342
 Agence Française de The Office	12358
 Agile Governance and Ethical Frameworks Objective	4528
@@ -131,7 +132,7 @@ Algeria Strengthens Cybersecurity Framework	4755
 Align National Framework With Global Standards	4215
 Alliance Française	13314
 Altice France	8125
-Ambassade de France	1679,8348,3415
+Ambassade de France	1679,8348,3415,319,1,37
 Ambassadeur de France	1955
 Ambassador of France	1229
 Ambassadrice de France	6514
@@ -691,7 +692,7 @@ Expenditure Framework MTSF Medium Term Strategic	11224
 Expenditure Framework N	11261
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Expenditure Framework NDP National Development Plan	1988
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18,73
 Expertise France Comores	3772
 Expertise France and CMM Oxford	1000
 Expertise France and ESTDEV	9265
@@ -956,7 +957,7 @@ Franc Burundais	13524
 Franc CFA	2342,2344
 Franc CMA Capital Markets Authority NRB	11994
 Franc Communauté	11553
-France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67
+France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55,115,11,54,38,4,21,18,125,82,126,164,65,410,210,75,65,80,56,67,230,63,2
 France Connect	7981
 France Câbles Radio	7421
 France Embassy	12972
@@ -986,6 +987,7 @@ France and Norway	7242
 France and Portugal	6169,5367
 France and Senegal	2544
 France and Senegal Strengthen Ties	2544
+France and Tanzania	13773
 France and Tunisia	1087,904
 France and Tunisia. Locations France	1991
 France for Orange	8125
@@ -1129,7 +1131,7 @@ Francophone West African	9291
 Francophone West and Central Africa	6580
 Francophone and Anglophone	10801
 Francophone. Francophone North Africa	12339
-Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380
+Francophonie	1679,770,359,982,1313,741,138,1140,198,1398,173,621,2393,67,1329,380,99,14
 Francophonie Avant	7122
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Francophonie SDG Sustainable Development Goal SOP	13681
@@ -1147,6 +1149,7 @@ Francs CFA	737,494,1344,233,2932,1940,319,637
 Francs CFA. Ce	8636
 Francs CFA. Ces	5740
 Francs CFA. Nous	1806
+Francs Comoriens	13772
 Francs Djibouti CHARGES GENERALES Article	4420
 Francs Djibouti TITRE II DISPOSITIONS RELATIVES	4420
 Francyne Harrigan	11572
@@ -1172,6 +1175,7 @@ Frankenstein ID	3103
 Frankfurt	3436,2750,285,6,2427,251,1002,637
 Franklin	9197,108
 Franklin Cudjoe	5375
+Franklin Golay	13820
 Franklin Templeton	9098,46
 Franklin Templeton and Uber	9345
 Frankly	2979
@@ -1596,6 +1600,7 @@ Land Legal Framework	9727
 Land Tenure Framework	9727
 Land Use Planning and Land Management Framework	9727
 Language English Français Português Information	12467
+Langue Français	13799
 Le FRATEL	6116
 Lead Support Agencies Frame Cost	7548
 Leadership and Governance Framework	1131
@@ -2280,7 +2285,9 @@ Selon Francisca Dossou Adikpéto	2412
 Selon Héliodore Francis Alex Gouloubi	7424
 Senator Francis Fadahunsi	10725
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
-Sendai Framework for Disaster Risk Reduction	8370,2913,1496
+Sendai Framework	13776
+Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997
+Sendai Framework for Disaster Risk Reduction for Comoros	13776
 Sender Policy Framework	13037
 Senior Fragility	10572
 September. Fraud	9210
@@ -2571,6 +2578,7 @@ World Bank and Agence Française de Développement	9756
 World Bank's Country Partnership Framework	13431
 World Bank's Country Partnership Framework for Mozambique	4214
 World Bank's Environment and Social Framework	1778,11212
+World Bank's Environmental Social Framework	13792
 World Bank’s New Procurement Framework	10964
 World Bank’s Sanctions Framework	5903
 World Economic Forum’s AI Governance Framework	11135

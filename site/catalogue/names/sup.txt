@@ -374,7 +374,7 @@ Corte Suprema de Justicia	4209
 Cost of Supply	13054
 Council of Financial System Supervisors	6938
 Country Support and Enabling Functions	12729
-Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14
+Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58
 Cour Suprême du Burundi	13442
 Credit Supply	13532
 Credit Support and Public-Interest Considerations	4896
@@ -582,7 +582,7 @@ Enhanced Verification and Support	3478
 Enhanced and Proactive Supervision	10
 Enhancements and Technical Support	13042
 Enhancing Public Support for Credit Instruments	12701
-Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284
+Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11,327,1047,284,228
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
 Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47,66,11,8,10,5,75,1138,39
 Ensino Superior ID	9441
@@ -620,6 +620,7 @@ Espanha Supremo	3048
 Estrategia. La Supervisión de Evaluación	1701
 Eswatini Electricity Supply Industry	12969
 Eswatini Medical Supplies Agency	13123
+Eswatini. Support	13773
 Etablissement Supérieur Professionnel	10893
 Ethiopia TEU VAT Tax Administration Support	12500
 Ethiopian Nationality. Supra	12188
@@ -668,7 +669,7 @@ Financial Inclusion Support Project	416
 Financial Institutions Supervisory Authority NCA National	11198
 Financial Sector Development Support Project	2421,1071,3
 Financial Supervision and Regulation	1155
-Financial Support	2307,10049,620,108
+Financial Support	2307,10049,620,108,675
 Financial Support for Prevention of Gender-Based Violence	13474
 Financial Support for SMMEs	3614
 Fire Detection and Suppression	10956
@@ -766,6 +767,7 @@ Health System Support and Strengthening	10829
 Healthcare Leadership Function Supportive	11596
 Higher Dairy Supplement for Reduced Wasting	11525
 Home LTE and SuperFlex	11259
+Honoring Distinguished Leaders Who Have Supported	13816
 Human Resources Support	5533,6453
 Humanitarian Support Facilitation	12977
 Hydrobox Kenya Ltd Distribution and Supply	12256
@@ -1295,6 +1297,7 @@ Program SCADA Supervisory Control and Data Acquisition	11549
 Program Supported	11905
 Program Supporting Digital CSIs	3604
 Programa Supervisado	4209,4169
+Programme of Action for Resilient Water Supply	13752
 Progress Reports Supervision	11863
 Project Implementation Support	11965
 Project Implementation Support for MFIS	11855
@@ -1562,6 +1565,7 @@ Startup Support and Ecosystem Stakeholders Map	12376
 Startups and Innovators Program Support Stage-appropriate	11345
 State and Public Administration Support Institution	11873
 State-Owned Companies’ Support Services	11272
+State. The Generalized Health Insurance Support	13770
 Static Supply	6051
 Statistical Support and Informatics	11237
 Statistics Development Support Project for Somalia African	809
@@ -1668,7 +1672,7 @@ Superviser	7977,5324,113
 Supervises	12286
 Supervising Engineer	1988
 Supervising Minister of Cooperative Affairs	9876
-Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242
+Supervision	7,1212,874,1536,86,17,59,3036,111,340,452,292,354,673,80,108,1000,531,44,128,35,159,335,127,267,61,20,50,49,203,7,105,55,122,140,330,285,242,286
 Supervision Area	6938
 Supervision Consultants	1778
 Supervision Department	9774,3540
@@ -1844,13 +1848,13 @@ Supplies Unit	13527
 Supplies and Materials	12977
 Supplies the IDEA Programme	4538
 Supplu	11852
-Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212
+Supply	1,957,51,275,583,2335,10,1035,575,1010,919,200,36,179,123,351,483,732,863,3,296,181,26,245,484,23,277,76,47,45,209,70,182,160,143,173,46,20,108,212,19
 Supply Angola	11366
 Supply Chain	10721,413,1021,1011
 Supply Chain Audit	4153,14,35,15,43,41,48,1003
 Supply Chain Conducting Unit	10829
 Supply Chain Insecurity and Poor Verification of Imported	6936
-Supply Chain Management	4349,2917,3922,62,2,1354,370,113
+Supply Chain Management	4349,2917,3922,62,2,1354,370,113,674
 Supply Chain Management Division	1264
 Supply Chain Management Division SDR Special	1264
 Supply Chain Management Policy	11231
@@ -1865,6 +1869,7 @@ Supply Chain Vulnerability	4528,7984
 Supply Chain and Procurement Management	11285
 Supply Contracts	1829
 Supply Dependencies	10721
+Supply Foundation	13763
 Supply GC-SCRM.S3	10721
 Supply ISO	10721
 Supply MSPs	10721
@@ -1917,7 +1922,7 @@ Supply-side Financial Inclusion Indicators Indicator Dec	940
 SupplyLicense Types Licensees	12399
 Supplying	12356
 Suppo10rt.5forSSutpapteorGt	10157
-Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37
+Support	26,1,1,6,131,71,117,111,4,181,1,139,35,1,22,52,41,18,3,1,8,30,79,52,24,6,43,15,45,20,79,80,22,239,74,36,53,18,103,471,250,66,2,181,31,15,158,73,8,101,37,202,21,236,21,34,91,112,28,76,12,3,84,48,179,707,9,1,54,214,20,142,1,272,465,10,9,10,97,204,51,142,10,2,590,10,311,10,17,86,41,824,51,235,732,302,145,15,30,373,1,42,5,8,43,10,7,5,15,9,8,19,64,8,11,5,24,79,50,1,6,9,31,16,2,6,5,1,25,1,4,1,7,99,121,57,11,50,218,51,8,34,3,5,11,25,11,12,33,58,9,26,48,27,20,7,6,14,2,26,1,5,64,12,34,2,1,1,9,7,23,6,35,4,54,4,10,48,3,105,6,1,6,8,11,28,26,168,10,7,23,2,7,7,27,32,7,9,7,20,105,24,12,2,35,37,15,2,2,6,11,32,2,27,3,67,12,38,11,9,92,37,112
 Support AI	4897,2651,4808,319,786
 Support AI-enabling	1363
 Support API	6948
@@ -2104,7 +2109,7 @@ Support the Promotion of Access	118
 Support the Security-by-design Percentage	7548
 Support-Split Within ODM	7869
 SupportStaff	11180
-Supported	287,977,278,38,171,202,143,385,517,317,455,91,385,14,206,128,84,856,1005,325,778,21,461,177,129,699,643,60,627,306,10,4,73,184,98,28,77,76,896,30,16,417,55,32,281,38,15,28,91,14,203,26
+Supported	287,977,278,38,171,202,143,385,517,317,455,91,385,14,206,128,84,856,1005,325,778,21,461,177,129,699,643,60,627,306,10,4,73,184,98,28,77,76,896,30,16,417,55,32,281,38,15,28,91,14,203,26,295
 Supported Employ	11280
 Supported Employment Enter	11280
 Supported Employment Enterprises	11280
@@ -2112,7 +2117,7 @@ Supported Employment Enterprises’’to	11280
 Supported Formats	12211
 Supported Global Refugee Forum	4257
 Supporters	3942,3322,4549,485
-Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,60,3,6,13,4,40,203,126,112,239,8,75,212,40,2,117,46
+Supporting	34,684,129,111,42,131,1714,113,417,66,21,142,237,128,152,228,83,151,169,29,26,33,391,544,562,131,204,160,115,1,256,344,57,355,403,183,57,2,399,22,177,258,91,64,844,316,3,50,27,107,1,16,151,3,106,51,364,44,206,89,177,60,3,6,13,4,40,203,126,112,239,8,75,212,40,2,117,46,290
 Supporting AI	4126
 Supporting ANC	4349
 Supporting African Entrepreneurs Initiatives	1363

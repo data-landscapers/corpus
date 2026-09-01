@@ -17,6 +17,7 @@ AGEFINE LAB	7167
 AGEMA ANALYSTS LIMITED Data Controller INST-3182202B86D	7167
 AGEMA ANALYSTS LIMITED Data Processor INST-3182202B86D	7167
 AGENCE	13467
+AGENCE NATIONALE DE DEVELOPPEMENT DU NUMERIQUE	13818
 AGENCE NATIONALE DU DOMAINE ET	10876
 AGENCE NATIONALE D’APPUI AU DÉVELOPPEMENT RURAL	2342
 AGENCE NATIONALE POUR LA SOCIETE	3395
@@ -213,7 +214,7 @@ Age-verification	9328
 Ageing	2096
 Ageing Society	2096
 Agemstéiloionradtuion	13306
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18,23,18,9,5,6
 Agence Afrique	4127
 Agence Article	735
 Agence Au	10975
@@ -241,7 +242,8 @@ Agence Francaise de Developpement	10275
 Agence France Press	13313
 Agence Française	13433
 Agence Française Islamique	10965
-Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225
+Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51,200,1,1,20,564,375,119,1306,225,196,1,25
+Agence Française de Développement URL	13803
 Agence Française de Développement. Une	4342
 Agence Française de The Office	12358
 Agence Ivoirienne de Gestion des Fréquences	3604
@@ -257,7 +259,7 @@ Agence National de Développement du Numérique	13717
 Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90,52,631,295,236,1201,398
 Agence Nationale Pour	10821
 Agence Nationale de Digitalisation	4036,6496
-Agence Nationale de Développement du Numérique	5370,8348,1,3,6
+Agence Nationale de Développement du Numérique	5370,8348,1,3,6,90
 Agence Nationale de Promotion	6827
 Agence Nationale de Protection Sociale	10824
 Agence Nationale de Renseignements	11972
@@ -306,13 +308,14 @@ Agence de Développement du Numérique	2880,5565
 Agence de Gestion	6959
 Agence de Gestion du Fonds	7727,198,1,73
 Agence de Promotion des Investissements	3222,3884,3717,2470
-Agence de Régulation	13290,1,10,12,11,7,26,15,5,91,14,58,76,36
+Agence de Régulation	13290,1,10,12,11,7,26,15,5,91,14,58,76,36,157
 Agence de Régulation des Communications Electroniques	11580
 Agence de Régulation des Postes	6684,5237
-Agence de Régulation des Secteurs	13743
+Agence de Régulation des Secteurs	13743,66
 Agence de Régulation des Télécommunications	2695,1574,293,1262,4263
 Agence de Régulation des Télécommunications Cameroun	10965
 Agence de Régulation du Secteur	10975
+Agence de Régulation. ARTICLE	13809
 Agence de Transfert des Technologies Financières	10237
 Agence de Vérification Indépendante	10876
 Agence des Nations Unies	11944,1380,90
@@ -320,6 +323,7 @@ Agence des Services	10821
 Agence des Systèmes	2451,184,98,462,1051,1014,2132,1872
 Agence des Télécommunications de Côte	6834,1083
 Agence du Numerique	715
+Agence-de Régulation	13809
 Agence. Après	10975
 Agence. Article	735
 Agence. Ces	10975
@@ -1030,7 +1034,7 @@ GM- Agencies	1000
 GM- CSIRT Agencies	1000
 GUARANTEE AGENCY COUNTRY PARTNERSHIP FRAMEWORK	12968
 Gabon Agence Nationale des Infrastructures Numériques	6129
-Gallup World Poll. Funding Agency	13084
+Gallup World Poll. Funding Agency	13084,675
 Gambia Information and Communication Technology Agency	6297,644,72
 Gambia Investment and Export Promotion Agency	9020
 Gambia National Disaster Management Agency	1000
@@ -1323,6 +1327,8 @@ Malawi News Agency	7900
 Malawi US Trade and Development Agency	956
 Mankayane Old Age Home	12977
 Manual for Agents. Cited	12158
+Mar-2026 Implementing Agency	13787
+Mar-2026. Implementing Agency	13793
 Marital Status and Age Group	12151
 Mauritanian Information Agency	5119
 Mbaye Coulibaly Agenda Relevant Continental Frameworks	13457
@@ -1410,7 +1416,7 @@ National AI Agency Addressing	10152
 National AI Research Agenda	4528,7984
 National AIDS and Health Promotion Agency	12606
 National Agency	1927,949,96,69,1814,724,568,304,5694
-National Agency for Civil Aviation and Meteorology	13729
+National Agency for Civil Aviation and Meteorology	13729,23,61
 National Agency for Civil Registration and Identity	2349
 National Agency for Clinical Engineering and Digital Health	11892
 National Agency for Computer Security	9616
@@ -1425,6 +1431,7 @@ National Agency for Information Security	9494
 National Agency for Information Systems Security	2759,5
 National Agency for Information and Systems Security	7048
 National Agency for Land Conservation	4596,408
+National Agency for Medicines and Medical Evacuations	13791
 National Agency for People Registry and Secure Documents	1833
 National Agency for Population Register and Secure	6767
 National Agency for Prohibition of Trafficking	11928
@@ -1446,6 +1453,7 @@ National Artificial Intelligence Agency. Samuel Mizero	10152,19
 National Biosafety Agency	13403
 National Child Development Agency	12338,73
 National Child Development Agency NCI-CRVS	12338
+National Civil Aviation and Meteorological Agency	13813
 National Civil Registration Agency	7289
 National Crime Agency	4052
 National Cyber Resilience and Cyber Security Agency	11648
@@ -1461,7 +1469,7 @@ National Development Agenda	1554,11402,16
 National Digital Agency	12674
 National Digital Agency Purpose	12674
 National Digital Certification Agency	2578
-National Digital Development Agency	13731
+National Digital Development Agency	13731,76,1
 National Digital Government Agenda I4 Revitalize	12917
 National Digital Transformation Agency	12674
 National Digital Transformation Agenda	1271,3702,6781
@@ -1509,6 +1517,7 @@ National Telecommunications Regulatory Agency	6312
 National Transformation Agenda	9369,595
 National Transport Agency	10852
 National Water Resources Infrastructure Agency	11236
+National Water and Energy Regulatory Agency	13793
 National Youth Development Agency OHS Occupational	11198
 National and Global Agendas Commitments	13005
 Nationality Age	4896
@@ -1953,7 +1962,7 @@ U.S. International AI Agenda and Instruments	6790
 U.S. Trade and Development Agency	4830,1960,3561,1006,1580
 UK Age-Appropriate Design Code	6029
 UK’s Age-Appropriate Design Code	7983
-UN Agencies	1814,2714,7025,959,438
+UN Agencies	1814,2714,7025,959,438,823
 UN Agencies and International Organizations	1243
 UN Agency for Digital Technologies	11920
 UN Legal Identity Agenda	10591,1560,186,668

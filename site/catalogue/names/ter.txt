@@ -41,7 +41,7 @@ Agency Long Term	1161
 Airport Terminal Operations Ltd	10045
 Aménagement des Terrains	13442
 Aménagement des Territoires	3381
-Aménagement du Territoire	235,2989,5667,2073,2759,2
+Aménagement du Territoire	235,2989,5667,2073,2759,2,52,21
 Analogue Terrestrial Television	236
 Angola's Digital Terrestrial Television	2217
 Another Term of Lost Wealth	11105
@@ -422,6 +422,7 @@ LTE Terminals	6946
 La Estrategia de Desarrollo Territorial	1701
 La Haute Cour du Territoire	13483
 La Teranga	6963
+La Télévision Numérique Terrestre	13781
 Lda. Terça-feira	6462
 Le Programme TERRA Bénin	10876
 Le Programme Terra Bénin	10876
@@ -1065,7 +1066,7 @@ Terrence Park	10764
 Terreno	10777,737,47
 Terrenos	4209,7692
 Terrenos Afectos	11443
-Terres	1684,9192,2499
+Terres	1684,9192,2499,431
 Terrestre	11072,324
 Terrestres	10821
 Terrestrial	1988,689,236,2615,1418,1165,2296,454
@@ -1161,9 +1162,11 @@ Togo’s Ministry of Territorial Administration	11104
 Town Terminus	9437
 Training and Development Short Term	12976
 Transações de Terras Disponibilidade de Estatísticas	11898
+Transformation Digital Terminé Type	13783
 Transnet and International Container Terminal Services Inc	11236
 Transparency Terms	12938
-Télévision Numérique Terrestre	3224,10077
+Transports Terrestres	13777
+Télévision Numérique Terrestre	3224,10077,480
 UNE FOIS L'INTERVIEW TERMINÉE COMMENTAIRES CONCERNANT	13300
 UNICEF. TERMS OF REFERENCE	13576
 Under Implementation. Terms of Reference	13017

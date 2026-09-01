@@ -49,7 +49,7 @@ Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26,67,1
 Affaires Contentieuses ST	10975
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
@@ -59,7 +59,7 @@ Affaires Dr Zimmerman	4352
 Affaires Dr. Melanie Anne Zimmerman	4340,5
 Affaires Etrangères	13405
 Affaires Financières SPT	10975
-Affaires Foncières	1682,9316
+Affaires Foncières	1682,9316,2779
 Affaires Juridiques	10975
 Affaires Juridiques Conformément	10975
 Affaires Mali-Maroc	8237
@@ -122,7 +122,7 @@ Affessy Affessy	10056
 Affichage	13375
 Affiche	13375
 Affiche Sur	13375
-Afficher	8718,4657
+Afficher	8718,4657,406
 Afficher Figure	13375
 Affidavit	11282,1214
 Affidavits	12523
@@ -406,6 +406,7 @@ Department of Cultural Affairs	11195
 Department of Disability Affairs	11133,2337
 Department of Disaster Management Affairs	13053,87
 Department of Economic and Social Affairs	10714,126,629,682,1180
+Department of Economic and Social Affairs Statistics Custom	13824
 Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
 Department of Economics and Social Affairs. World Health	12367
@@ -479,6 +480,7 @@ Director of Legal Affairs and Consumer Protection	9514
 Director of Regulation and Affairs	10474
 Director-General DEPARTMENT OF HOME AFFAIRS	11986
 Director-General of Home Affairs	6387,3671
+Directorate for Refugee Affairs	13773
 Directrice des Affaires	8269
 Doctrinal Foundation of Data Sovereignty AFFIRMING	3861
 Doudoubalala MINISTÈRE DES AFFAIRES MUSULMANES ET	4402
@@ -727,6 +729,7 @@ Institution of Affiliation Fig	1554
 Institution of Affiliation Figure	1154
 Int Affairs	5242
 Intergovernmental Affairs	3557
+Interim Secretary General of Minister of Foreign Affairs	13791
 Internal Affairs	2770,2705,2223,3433
 Internal Affairs Chartered Banker MBA	11134
 Internal Affairs Unit	12310
@@ -765,6 +768,7 @@ Lagos State Office for Disability Affairs	10290
 Land Affairs	11906
 Land Affairs and Land Transport	5805
 Landlocked Developing Countries Affordability Despite	10844
+Law Enforcement Affairs	13754
 Le Comité des Affaires Monétaires	7956
 Le Dr Affessi	6558
 Le Ministère des Affaires	5135
@@ -921,6 +925,7 @@ Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
 Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634,240,228
 Ministry of Foreign Affairs and International Trade	395,5155
+Ministry of Foreign Affairs of Comoros	13791
 Ministry of Foreign Affairs of Finland	5672,6520
 Ministry of Foreign Affairs of France	12587
 Ministry of Foreign Affairs of Japan	11154

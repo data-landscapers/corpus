@@ -923,7 +923,7 @@ Investing for Food and Job	789
 Investing.com	5734
 Investir	1218,50,628,1569,773,31,2287,868,2117,305,977,163,583,1821
 Investiss	1302
-Investissement	643,355,304,12,222,113,344,45,304,134,1061,299,479,284,1146,1,237,1672,13,1223,448,292,1269,14,51,2336,13,76,43,9,113,12
+Investissement	643,355,304,12,222,113,344,45,304,134,1061,299,479,284,1146,1,237,1672,13,1223,448,292,1269,14,51,2336,13,76,43,9,113,12,205
 Investissement Agricole	13442
 Investissement Consommation	7655
 Investissement Extérieur	13325
@@ -931,7 +931,7 @@ Investissement P	13390
 Investissement Public	3396
 Investissement Sectoriel	12
 Investissement. L’Unité de Gestion du PEAPPJF	13630
-Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956,128,2315,3,140
+Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956,128,2315,3,140,379
 Investissements Au	1682
 Investissements Dans	10975
 Investissements Directs Etrangers	2342,5313
@@ -1032,7 +1032,7 @@ Investment Programme ONSA Office	11857
 Investment Programme PVHES Plant	13060
 Investment Programs	11857
 Investment Project	1704
-Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1
+Investment Project Financing	1774,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175,596,20,130,330,50,60,6,17,232,8,39,121,24,14,14,284,108,148,47,351,14,131,211,8,1,44,6
 Investment Project Financing Component	12176
 Investment Project Financing Current Closing	1228
 Investment Project Financing Goods	11750
@@ -1744,7 +1744,7 @@ Tunisia Industrial Investment Surges	7322
 Tunisia Investment Authority	3768,2407,697
 Tunisia Makes Mobile ID Mandatory for Investment	6872
 Type Information Incentives Investment Implementation	12376
-U.S. Federal Bureau of Investigation	2273
+U.S. Federal Bureau of Investigation	2273,11481
 U.S. Investors	3222
 UAE Investments Platform	9098,248
 UAE Strengthen Trade and Investment Ties	5086

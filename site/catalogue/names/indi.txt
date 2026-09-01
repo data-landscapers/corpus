@@ -172,6 +172,7 @@ Confederation of Indian Industry	13561
 Consider India's UPI	7596
 Consolidated Indicators	11986
 Construction Input Price Indices	2775
+Consulate General of India	13791
 Consultant Individuel	5370
 Consumer Price Indices	2775,10187
 Consumer Price Indices Kenya	2775
@@ -285,7 +286,7 @@ Egypt and India	9332
 Egyptian and Indian	9332
 Electricity Reliability Indices Reliability	12256
 Electronic Waste Management Monitoring Plans and Indicators	1988
-Embassy of India	10780,2964
+Embassy of India	10780,2964,47
 Embassy of India Harare Press Release Embassy	13509
 Emerging Technologies and Indigenous Content Promotion	11857
 Emissão da Licença Individual	11520
@@ -373,7 +374,7 @@ Global South. India	6386
 Global South. Indian	4676
 Global Trade and Technology Council of India	11284
 Google. India	6411
-Government of India	2667,1909,6559,132,312,989,49,362,530,53
+Government of India	2667,1909,6559,132,312,989,49,362,530,53,229
 Government of India Cashew	11579
 Government of India and Department of Commerce	9749
 Government of India and We-Fi	5921
@@ -503,7 +504,7 @@ Income Tax Individual Salaried Any	12397
 Income Tax Returns for Individuals	11976
 Ind Indicadores-Chave	11569
 Indi-	10780
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -712,14 +713,16 @@ IndiaAI Mission. Among	9208
 IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
 IndiaStack	5700,992
 IndiaStack. Everyone	6692
-Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182
+Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47
 Indian AI	7151,830
 Indian Ambassador	2667,4232
 Indian Army	11925
 Indian Association and DCIC	10564
 Indian Banks and Payments Companies	5124
 Indian Central Leather Research Institute	1554
+Indian Citizen	13791
 Indian Classical Dance Performance	13509
+Indian Coast Guard Ship	13791
 Indian Community	11579,1930
 Indian Council for Cultural Relation	11925
 Indian Council for Cultural Relations	13509
@@ -739,7 +742,7 @@ Indian LoCs	11925
 Indian Minister of Commerce and Industry	9332
 Indian Minister of Commerce and Industry Piyush Goyal	9332
 Indian Naval Ships	2667,9258
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2
 Indian Ocean Aucun	13701
 Indian Ocean Basin	3636,218,9166
 Indian Ocean Commission	7795
@@ -756,6 +759,7 @@ Indian Ocean and WACS	395
 Indian Ocean. Matshepo Sehloho	7509
 Indian Ocean. TCLE Democratic Republic of Congo	11916
 Indian Ocean. Through	3292
+Indian Pharmacopoeia	13791
 Indian Prime Minister Narendra Modi	2791,2253,2322
 Indian Resolution	11925
 Indian SMEs	9332
@@ -961,7 +965,7 @@ Indice du Capital Humain	13341
 Indice-monia-moroccan-overnight-index-average	8891
 Indices	11258,599
 Indicou	9257,1531
-Indien	8234,465,329,1376,115,682,62
+Indien	8234,465,329,1376,115,682,62,2495,42,17
 Indien. Titus Gachuhi	3242
 Indiensneming	1009
 Indifférente	13390
@@ -1023,10 +1027,11 @@ Indiscriminate	1988,1873
 Indiscriminately	1988
 Indisponibilidade	5169
 Indisponibilité	419
+Indisponibilités	13772
 Indivi	13390
 Individu	7977,5738
 Individuais	11514
-Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128
+Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128,298
 Individual Account	11233,2100
 Individual Accounts	11233
 Individual Accounts. A	11233
@@ -1332,6 +1337,7 @@ Objectives and Methodology for Individual Country Reports	12337
 Objectives and Results Indicators	11855
 Oceania. India	10846
 Océan Indien	6883,6841,16
+Océan Indien. Hamdi Abdillahi Rahilie	13802
 Official Use Only Indicator Intervention	11469
 Omidyar Network India. Copyright	12139
 Only Individual Consultants	962
@@ -1591,6 +1597,7 @@ Scope Subsystem Type Nominal Indicates	7221
 Scope System Type Binary Indicates	7221
 Scope System Type Categorical Indicates	7221
 Scope System Type Nominal Indicates	7221
+Screen Reader Access India-Comoros	13791
 Seasonal Indicators	11762,1988
 Second India Arab Foreign Ministers' Meeting	13744
 Select Macroeconomic Indicators	11469
@@ -1623,6 +1630,8 @@ South African Customs Union and India	11183
 South Atlantic and Indian Ocean	4448
 South India	771
 South Indian SMEs	9129
+South West Indian Ocean Climate Outlook	13767
+South-West Indian Ocean	13767
 Southern Africa and India	11183
 Southern Africa and Indian Ocean	10789
 Southern Africa and Indian Ocean Region European	467
@@ -1746,6 +1755,8 @@ West Indian Ocean Cable Company	517,2,439,2824,1211,2073,6265
 West Indian Ocean Cable Company Ltd	284,216
 West Indian Ocean Cable Company. Earlier	2677
 Western Africa. PDO Level Indicators	1264
+Western Indian Ocean Route	13773
+Western Indian Ocean Route. Operational Protection	13773
 Whether India	6411
 World Bank Corporate Scorecard Indicator	10768
 World Bank Development Indicators Note	5247

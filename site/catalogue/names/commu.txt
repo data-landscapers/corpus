@@ -469,7 +469,7 @@ Communal Sector Third	9485
 Communaut	9616
 Communautaire	10965,2440
 Communautaires	10965
-Communauté	2377,59,1504,187,214,1399,209,149,14,344,729,771,43,67,6,151,106,28,158,376,15,267,4,438,616,35,137,1,416,21,8,9,17,1,89,123,856,1346,115,37,10,16,131,90,26
+Communauté	2377,59,1504,187,214,1399,209,149,14,344,729,771,43,67,6,151,106,28,158,376,15,267,4,438,616,35,137,1,416,21,8,9,17,1,89,123,856,1346,115,37,10,16,131,90,26,94
 Communauté EGonomique	37
 Communauté Economique	2863,9081,1385
 Communauté Economique des Etats	37
@@ -493,7 +493,7 @@ Communauté des Etats	8515,4937
 Communauté. Cette	11944
 Communauté. La Chambre	13452
 Communauté. La Communauté des Etats	13452
-Communautés	8237,2
+Communautés	8237,2,5570
 Communautés Economiques Européennes CEI	13377
 Communautés des Etats Indépendants CELAB	13377
 Commune	3682,365,4529,3021,1695,83,15,15
@@ -540,7 +540,7 @@ Communicate Would	8603
 Communicati	12972
 Communicating	775,7579,2663,1366,62
 Communicating and Coordinating Mobile	11017
-Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3,52,7,3,27,112,13,1,14,5,38,18,161,39,21,1,5,28,34,3,11,40,3,194,11,11,1,1,17,10,38,2,14,8,2,9,13,15,32,32,5,23,56,48,18,2,11,41,7,2,3
+Communication	232,4,159,23,18,112,34,154,1,6,5,97,54,41,18,12,28,180,36,17,33,20,1,1,1,15,31,265,84,26,70,162,22,26,6,28,27,7,40,138,58,19,31,34,66,72,4,38,18,121,43,9,28,26,7,32,27,21,43,114,53,18,7,1,100,81,21,11,3,8,8,14,26,62,14,40,14,78,29,18,26,61,44,13,30,142,18,4,50,20,66,1,30,3,1,77,130,17,1,12,248,254,20,4,13,86,61,73,1,50,35,107,25,6,85,8,50,71,116,51,18,87,98,103,13,45,150,39,2,25,91,36,11,132,127,43,51,155,13,68,89,40,206,52,17,29,41,6,86,36,81,8,40,120,58,1,15,6,97,72,56,8,5,32,28,24,15,8,116,37,49,57,14,32,7,68,84,13,10,55,5,108,3,121,98,16,50,37,1,17,64,69,3,31,111,46,2,144,43,35,50,21,32,72,29,162,16,13,38,124,131,23,9,1,4,39,20,17,17,4,9,54,46,4,16,26,3,4,1,20,1,1,1,6,3,4,7,30,14,1,1,11,42,11,22,1,16,24,4,4,24,8,3,5,12,3,25,2,56,164,16,7,105,21,8,22,91,15,8,161,2,23,25,19,8,23,1,30,142,73,40,12,48,27,10,106,13,3,52,7,3,27,112,13,1,14,5,38,18,161,39,21,1,5,28,34,3,11,40,3,194,11,11,1,1,17,10,38,2,14,8,2,9,13,15,32,32,5,23,56,48,18,2,11,41,7,2,3,58,1,18
 Communication All	395
 Communication And Public Relations	12358
 Communication Audiovisuelle	8891
@@ -865,7 +865,7 @@ Communique Wagon	13044
 Communique Wagon NEWSLETTER From Keetmanshoop	13108
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
 Communique of Peace and Security Council	1814
-Communiquer	5022,5943,2341
+Communiquer	5022,5943,2341,503
 Communiquer Implémenter Mesurer Ajuster Etat Final	748
 Communiqué	1650,906,43,281,671,273,303,530,1302,392,459,73,450,273,209,1076,1291,706,297,2260,175,40,29
 Communiqué Publication du Registre National	1184
@@ -1203,6 +1203,9 @@ Community. The Council	11806
 CommunityBased Voluntary Counselling	11134
 CommunitySafety	12752
 Commutations Regulatory Authority	7741
+Comores. Communication	13822
+Comorian Communities Digital Policy Studies. Published	13774
+Comorian Communities URL	13774
 Competition Assessment Framework for Communications Sector	12918
 Complete Communications Infrastructure	395
 Completed Communication Activities Media TV	8999
@@ -1265,6 +1268,7 @@ DE L'ORGANISATION DE LA COMMUNE CHAPITRE	13292
 DE LA COMMUNAUTE NATIONALE A L'ETRANGER	4658
 DE LA COMMUNE Section	13292
 DE LA COMMUNICATION	7670
+DE LA COMMUNICATION AUDIOVISUELLE ET NUMERIQUE	13781
 DE LA COMMUNICATION DU BURUNDI	13290
 DE L’OBLIGATION DE COMMUNICATION AUX AUTORITES	785
 DEPARTMENT OF COMMUNICATIONS AND DIGITAL TECHNOLOGIES	11196,39,30
@@ -1279,6 +1283,7 @@ DEZZO COMMUNICATION LIMITED Data Processor INST-2379133D535	7167
 DHA Communication DHA	11986
 DHA Communication DHA Communication DHA Communication	11986
 DHA Communication Strategy	11986
+DHIS2 Community URL	13805
 DHIS2.org Demo Community Developers	12408
 DICOM Digital Imaging and Communication	13306
 DIRECTION DES RESEAUX ET DES COMMUNICATIONS	998
@@ -1299,6 +1304,7 @@ Dansoman Community	3386
 Data Protection Authority. The Malawi Communications	7270
 Data Protection Commissioner and Communications Authority	6231
 Data of Communication	4126
+De la Société Commune Article	13781
 Deborah Musa The Minister of Communications	8982
 Dedicated Short-Range Communication	6946
 Delhi. Assistant Minister of Communication and Innovation	12617
@@ -1340,6 +1346,7 @@ Description Information and Communications Technology	1670,976,1,2998,1
 Description MTN Nigeria Communications PLC	925
 Description Nigeria Communication Satellite Limited	1546,921,2103
 Develop Regional Communications Sector Statistics	8753
+Developing Communities	13774
 Development Communication	10109
 Development Community	10841
 Development Community Real-Time Gross Settlement	11960
@@ -1936,7 +1943,7 @@ Information and Communication Services	12942
 Information and Communication Syllabus	288,1699
 Information and Communication Technol-	13347
 Information and Communication Technolgies Act No	13346
-Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309
+Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309,119
 Information and Communication Technologies Act	22,761,1943,1,186,10392
 Information and Communication Technologies Authority	783,6469,1966,812,1618
 Information and Communication Technologies Commission	9970
@@ -1983,6 +1990,7 @@ Information and Communications University	13581
 Information and Communications Youths Business	1161
 Information and Communications. Establish	13314
 Information and Communications. SETIC	13314
+Information de Communication. Autorisation	13781
 Infrastructures de Communication	743
 Initial National Communication	3583
 Inkhundla Community No. of Houses Family	12977
@@ -2064,6 +2072,7 @@ Korea Communications Commission and Mr. Jeong Hyun-cheol	9067
 L'Autorité de Régulation des Communications	3668,4431,1466,333
 L'ENDROIT AGENT DE SANTÉ COMMUNAUTAIR	13300
 L'INFORMATION ET DE LA COMMUNICATION Article	13719
+LA COMMUNICA	13781
 LA COMMUNICATION	13341
 LA COMMUNICATION ET DES NOUVELLES TECHNOLOGIES	11597
 LAA BRINGS SERVICES CLOSER TO COMMUNITIES	12683
@@ -2080,7 +2089,7 @@ LTA Communications Director	8835
 LTA-issued Satellite Communications License. Stakeholders	10406
 La Cellule de Communication du Ministère	1297
 La Cellule de Communication du Ministère des Finances	4135,34,172,655,475,1204,336,252,33,4716
-La Communauté	3658,2617,145
+La Communauté	3658,2617,145,7389
 La Commune	13292
 La Direction Communication	4065
 Lagos The Economic Community of West African	4738
@@ -2830,6 +2839,7 @@ Senior Director for Public Policy and Communications	4906
 Senior Director of Public Policy and Communications	9820
 Serbia Yes Electronic Communications Development Strategy	11529
 Servers Zambia Refugee and Host Community Project	1988
+Service Communication	13799
 Service Foncier Communal	13375
 Service RCIP Regional Communication Infrastructure Project	13331
 Services SADC Southern African Development Community	12939
@@ -2864,6 +2874,7 @@ Social EAC East Africa Community EARDIP	1264
 Social Protection COSDEC Community Based Skills	12923
 Society COMGOV Government Communication CTI Centre	13312,2
 Sociotechnical Imaginaries and Public Communication	11028
+Société Commune	13781
 Solicitor-General. The Zambia Refugee and Host Communities	1988
 Solly Malatsi. Communications	9935
 Somalia’s Minister of Communications	3405

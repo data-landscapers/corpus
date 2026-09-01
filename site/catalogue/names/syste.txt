@@ -507,6 +507,7 @@ ClearingPost Systems Operational	5691
 Client Information and Registration Tracking Systems	318
 Client Management Information System	5126,7818,78,165
 ClimSA Satellite System Upgrade	12988
+Climate Risk and Early Warning Systems	13767
 Climate Smart Education Systems Initiative	12175
 Climate-Adaptive Malaria Chemoprevention Targeting System	11589
 Climate-Smart Education Systems Initiative	12504
@@ -789,6 +790,7 @@ Device School Support System	11857
 Diagnostic of ID Systems	442,10323,10
 Diaspora Integrated Information Management System	5160
 Die Systeme	904
+Diesel System	13795
 Digital Addressing System	12276
 Digital Addressing System and Address Verification System	8825
 Digital Agro-Climatic Information Systems World Bank	1024
@@ -1222,9 +1224,9 @@ Fleet Management System	13504
 Fleet Management System Land Use and Development	4126
 Flexible Land Tenure System	12912
 Food System Transformation and Sustainable Financing	11586
-Food Systems	2957,7884
+Food Systems	2957,7884,2951
 Food Systems Resilience Program	9609,1025
-Food Systems Resilience Programme	9965
+Food Systems Resilience Programme	9965,3827
 Food Systems Resilience Project	2872
 Food Systems US	2957
 Food and Medication Management System	11939
@@ -1410,7 +1412,7 @@ Health System Performance Reinforcement Project	10963,1
 Health System Performance Strengthening Project	11380
 Health System Strengthening	10776,53
 Health System Strengthening CHWs	10829
-Health System Strengthening Project	11905
+Health System Strengthening Project	11905,1908
 Health System Strengthening The Policy	3861
 Health System Strengthening and Preparedness	3604
 Health System Strengthening for Human Capital Development	538,21
@@ -2862,6 +2864,7 @@ Review of Teacher Salary Payment System	11916
 Risk Management Support System	11285
 Risk Management for System Failure	9855
 Roadmap for Freight Logistics System	2626
+Robust PC-B System Grande Comore	13795
 Role Management Audit Logs System Monitoring	12211
 Role of Smart and Adaptive Energy Systems	4906
 Rule-Based Systems	8283
@@ -3672,6 +3675,8 @@ WAEMU Automated Interbank Clearing System	10853
 WAEMU Automated Transfer and Settlement System	10853
 WAEMU Regional Payment System	118
 WAEMU's Instant Payment System Launches	10929
+WHES Energy Storage Systems	13795
+WHES OS Energy Management System	13795
 WIDEBAND DATA TRANSMISSION SYSTEMS WIDEBAND DATA	12949
 WINDOW SYSTEM	13403
 WMO Global Observing System	11553

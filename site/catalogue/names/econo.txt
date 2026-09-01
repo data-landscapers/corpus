@@ -472,6 +472,7 @@ Department of Economic Planning and Development	12197,781,166
 Department of Economic Statistics	12445
 Department of Economic Statistics EC	12445
 Department of Economic and Social Affairs	10714,126,629,682,1180
+Department of Economic and Social Affairs Statistics Custom	13824
 Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
 Department of Economics	5700,3649,185
@@ -500,7 +501,7 @@ Digital Economies	226
 Digital Economies and Development	226
 Digital Economies and Societies	6948
 Digital Economy	226,169,184,35,344,11,73,93,26,82,21,374,248,398,1,21,5,40,8,35,78,38,19,40,240,16,22,24,74,13,7,124,44,64,123,57,32,7,2,38,43,49,27,24,23,41,57,50,1,72,19,80,45,194,14,145,5,7,101,95,72,61,4,38,111,25,114,116,15,4,2,131,3,44,249,42,7,366,12,9,73,4,15,85,82,55,143,2,84,3,108,230,1,88,123,45,40,8,15,143,87,34,102,4,1,2,58,2,99,116,49,9,1,162,45,1,2,27,93,47,23,80,133,71,40,122,59,191,3,79,177,26,615,58,195,25,88,64,229,96,33,66,88,89,66,322,46,200,7,305,34,61,19,14,11,207,7,175,68,179,31,310,339,2,30,1,1,1,127
-Digital Economy Abbreviation	13084
+Digital Economy Abbreviation	13084,675
 Digital Economy Acceleration Project	5056
 Digital Economy Accelerator Programme	7172
 Digital Economy Activities	13347
@@ -592,7 +593,7 @@ Digital Economy Task Force	468
 Digital Economy Task Force European Commission	468
 Digital Economy Taskforce	10819
 Digital Economy The Kenya AI	7548
-Digital Economy URL	12203
+Digital Economy URL	12203,1556
 Digital Economy William Kabogo	9006,2822
 Digital Economy William Kabogo Gitau	6790,3059
 Digital Economy Working Group	5044,1342
@@ -1269,7 +1270,7 @@ Economiste	7655,666
 Economiste-	7655
 Economists	3738,2663,493,922,84,804,4893
 Economists Society of Kenya	7167
-Economy	56,69,111,11,148,375,361,130,465,197,408,3,33,2,92,66,99,149,223,186,232,115,295,15,82,602,365,508,677,178,123,393,12,34,46,142,111,40,6,2,140,306,16,468,258,191,402,24,68,16,639,130,85,33,25,30,32,503,12,295,2,1,3,123,4,17,155,16,37,173,179,4,171,150,3,13,54,25,79,92,16,7,55,39,80,7,12,1,23,8,11,93,24,450,19,362
+Economy	56,69,111,11,148,375,361,130,465,197,408,3,33,2,92,66,99,149,223,186,232,115,295,15,82,602,365,508,677,178,123,393,12,34,46,142,111,40,6,2,140,306,16,468,258,191,402,24,68,16,639,130,85,33,25,30,32,503,12,295,2,1,3,123,4,17,155,16,37,173,179,4,171,150,3,13,54,25,79,92,16,7,55,39,80,7,12,1,23,8,11,93,24,450,19,362,416
 Economy Accra	9421
 Economy Africa	6714
 Economy Burundi	10892
@@ -1387,7 +1388,7 @@ Ethiopian Economic Opportunities Programme	12257
 Ethiopian Economics Association	10852
 Ethiopian Economy Profile	12500
 Ethiopian Journal of Economics	3176
-Etudes Economiques	7675,1602,4430,8,31
+Etudes Economiques	7675,1602,4430,8,31,58
 Etudes Economiques de Burundi	13300
 Etudes Economiques du Burundi	13300,25,9,43
 Etudes Economiques du Burundi NON	13300
@@ -1549,6 +1550,7 @@ Handbook of Public Economics. Amsterdam	1828
 Harvard Economic Studies	5700
 Head of Economic Assessment and Public Policy Department	11149
 Head of Economic Policy and Sustainable Development	9162
+Head of Economy	13791
 Healthy Financial Position Cost Eﬃciency Economic	11131
 High Economic Risk Uncertainties	13053
 Higher Education for Economic Transformation	5511

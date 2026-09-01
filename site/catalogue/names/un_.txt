@@ -125,7 +125,7 @@ Heads of UN Agencies	10210
 High Commissioner for Refugees UN Refugee Agency	12328
 Hirshabelle State HOL UN	5172
 Homme des Nations Un	10826
-I Un	1996,2390
+I Un	1996,2390,9404
 I-16 UN Telecommunication Infrastructure Index	10785
 I-18 UN Online Service Index	10785
 IA. Un	9541
@@ -287,7 +287,7 @@ UN ASG	4431
 UN ATOUT RÉGIONAL MAJEUR DANS	10711
 UN AUTRE	13300
 UN AUTRE OUI	13300
-UN Agencies	1814,2714,7025,959,438
+UN Agencies	1814,2714,7025,959,438,823
 UN Agencies and International Organizations	1243
 UN Agency for Digital Technologies	11920
 UN Agreement	8681
@@ -594,6 +594,7 @@ Un Béninois	2403
 Un CP	2975
 Un Centre	13306
 Un Certificat	13524
+Un Code	13784
 Un Comité	13292
 Un Comité de Pilotage	9406
 Un Comptable	13292
@@ -613,7 +614,7 @@ Un Moment Histo-	13405
 Un Moment Historique Dans	13405
 Un Niche	7634
 Un Non-Disclosure Agreement	8699
-Un Numéro	10813
+Un Numéro	10813,2996
 Un PACS	13306
 Un PPP	13306
 Un Pas	746

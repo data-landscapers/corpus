@@ -43,7 +43,7 @@ Addis Ababa University. World Bank	8671
 Additional Universities and TVETs	6928
 Adjacent Universal Oil	3386
 Administration Stellenbosch University Isabel Da Silva	11134
-Advancing Universal Health Coverage	13163
+Advancing Universal Health Coverage	13163,607
 Adventist University of Central Africa	9760
 Advisory Council USF Universal Service Fund	6946
 Africa . Oxford University Press	2518
@@ -242,6 +242,7 @@ Deloitte University	4432
 Deloitte University and MIT Sloan	4432
 Democratic Governance and Rights Unit University of Cape	12174
 Democratic Republic of Congo's Universal Service	9823,2209
+Deputy Director of University Cooperation	13816
 Description The University of Cape Coast	455
 Description Universal Social Protection	1445
 Description University of Stockholm	20
@@ -270,7 +271,7 @@ Dr. Keren Weitzberg of Queen Mary University	12227
 Duke University Press	3782,894,5063,1311,1177
 Duke University. Burgess	13624
 Durban University of Technology	5569,2453
-Déclaration Universelle des Droits	10826
+Déclaration Universelle des Droits	10826,2955
 D’ACCÈS UNIVERSEL Le Premier	7925
 EGERTON UNIVERSITY Data Controller INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY Data Processor INST-2811028BEB0 NAKURU	7167
@@ -320,7 +321,8 @@ Etudes Universitaires Générales DNESRS Direction Nationale	12
 Euro-Mediterranean University of Fez	5360
 European Union. Oxford University Press. Corporate	11050
 European University Institute	6468
-Examen Périodique Universel	10826,2912
+Examen Périodique Universel	10826,2912,56
+Examen Périodique Universel. Les Comores	13794
 Excellence Universities	4126
 Exchequer Universities Research	7548
 Expanding Connectivity Beyond Universities	2339
@@ -987,7 +989,7 @@ Universal FONT SIZE	11129
 Universal Financial Access	10775
 Universal Guidelines for AI	7678
 Universal Health	12976
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1,279,256,236,321,8,37,123,276,158,3,58,546
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage System	11536
@@ -1165,7 +1167,7 @@ Universitaria	4209
 Universitas Indonesia	226
 Universite	10492
 Universite des Comores URL	13749
-Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99,163,242,55,323,15,4,6,303,13,52
+Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99,163,242,55,323,15,4,6,303,13,52,128
 Universities Act	7832,2448
 Universities All	958
 Universities Communities	7548
@@ -1176,7 +1178,7 @@ Universities and Gambian Secondary Schools	1000
 Universities and Number of Students Funded	2775
 Universities and Research	11863
 Universities of Cornell	11133,9
-University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154
+University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340,23,1,234,117,21,103,418,12,102,37,17,174,5,1,5,31,116,39,17,44,266,194,61,111,6,114,28,58,19,163,154,185
 University ARTIFEX University of Romania Fotabe U	12467
 University Activities Planned for Q4	13080
 University B	8022
@@ -1224,6 +1226,7 @@ University of Abomey-Calavi	951,6111,3825
 University of Academic	12444
 University of Algiers	4151
 University of Amsterdam	6487,392,1557
+University of Antananarivo	13774
 University of Aveiro	3004
 University of Bangui	1189,1718,2546
 University of Basel	7418,3501
@@ -1353,7 +1356,7 @@ University of Notre Dame	6326
 University of Notre Dame Global Adaptation Initiative	3456
 University of Nouakchott	5119
 University of Oregon's Route Views	10037
-University of Oslo	766,395,663,854,2089,1281,105,874,1653,3345,36,135,2,170,373
+University of Oslo	766,395,663,854,2089,1281,105,874,1653,3345,36,135,2,170,373,1022
 University of Oslo Associate Professor Terje Aksel	6048
 University of Oslo HISP	4829
 University of Oslo and HISP	9139
@@ -1365,6 +1368,7 @@ University of Oxford	206,20,974,2398,831,4262,541,1903,1092,258,563
 University of Oxford Serres J	9739
 University of Oxford's Department of Computer Science	8529
 University of Oxford. Kara	12297
+University of Palermo Italy	13773
 University of Parakou	7062
 University of Pennsylvania	11140
 University of Pennsylvania Press	5242
@@ -1438,6 +1442,8 @@ University of Zululand	11927
 University of Zululand Library	8022
 University's AI	10343
 University's Integrated Strategic Plan	10343
+University's Leadership Shield	13816
+University's Standing	13816
 University-Industry Collaboration	12389
 University-industry R&D	10969,915,1,10,264,1,191,4,132
 University. Columbia Institute for Tele-Information. Eco	2816
@@ -1527,13 +1533,14 @@ Université de Nouakchott. Elle	1183
 Université de Parakou	7001,3820
 Université de Parakou Favorable	10821
 Université de Parakou Traitement	10821
+Université de Shanghaï. Cette	13815
 Université de Sherbrooke	12133
 Université de Strasbourg	1183
 Université de Ségou	7634
 Université de Toulouse	6395
 Université de Tours	1183
 Université de Tunis. Argues Africa	8126
-Université des Comores	2594,129,2647,6732,1622
+Université des Comores	2594,129,2647,6732,1622,51,4
 Université des Comores I Un	1996,2390
 Université des Comores. Ils	5669
 Université des Sciences	10121
@@ -1555,6 +1562,8 @@ Use the Universal Service Fund	6951
 Using Universal Service Funds	5675
 Vaal University of Technology	10082
 Valorisation-Manicaland State University of Applied Science	1154
+Vertex International University	13816
+Vertex University URL	13816
 Vice Chancellor of Mulungushi University	13631
 Vice-Chancellor of Bayero University	2933
 Vice-Chancellor of Lagos State University	11715

@@ -196,6 +196,7 @@ NGO Nongovernmental Organization NPF New Procurement	11525
 NPF. Procurement Arrangements	11525
 Name of Procuring Entity	13621
 Namibia Preferential Procurement Corporation Certificate	12400
+National Directorate of Public Procurement Con	13756
 National Procurement M&E Frameworks for Member States	12972
 National Procurement Pitso	5449
 National Procurement Pitso. Date	5449
@@ -424,7 +425,7 @@ Procurement Unit	6539,5366,1,787
 Procurement Water	11248
 Procurement Without Competition	9650
 Procurement and Acquisition	12753
-Procurement and Construction	11131,3
+Procurement and Construction	11131,3,2675
 Procurement and Contracts	11995
 Procurement and Disposal Unit	9696,3362
 Procurement and Disposal of Public Assets Act	3700
@@ -458,7 +459,7 @@ Procurement. Procurement	6539
 Procurement. Procurement Plan	11525
 ProcurementHO7	12868
 Procurements	2989,10016
-Procureur	436,795,10701,1510
+Procureur	436,795,10701,1510,339
 Procureur du Faso	785
 Procureurs	8236,166
 Procuring	962,322,10969
@@ -482,6 +483,7 @@ Project Planning and Implementation of Public Procurement	6946
 Project Procurement	1284
 Project Procurement Procurement	11248
 Project Procurement Strategy for Development	1264,1625,100,615,2935,4290,135,453,108,330,50,60,1366
+Project Procurement URL	13818
 Public Private Partnership PPPFA Preferential Procurement	11224
 Public Procurement	969,2954,2509,514,3211,1749,33,369,81,117,464,155,349
 Public Procurement Act	2364,3085,2246,150,771,2632,31,716,603,363,70,6,310,150

@@ -745,7 +745,7 @@ Mettant	7623
 Mettent	1187
 Mettez	743,6363,177,6077,15
 Mettez-les	747
-Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42
+Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104
 Mettus	6107
 Mettus.Johannesburg	6107
 Metumi	12256
@@ -781,7 +781,8 @@ NISR Chapter Introduction and Methodology	12413
 NOTE METHODOLOGIQUE DE PRODUCTION DE L’ANNUAIRE	13478
 Nairobi Metropolitan Transport Authority	6946
 Namibia AI Readiness Assessment Methodology	5036
-National Agency for Civil Aviation and Meteorology	13729
+National Agency for Civil Aviation and Meteorology	13729,23,61
+National Civil Aviation and Meteorological Agency	13813
 National Commission for Electronic Payment Methods	6204
 National Fibre Backbone and Metro	11857
 National Immunization Program. Method	8376
@@ -1075,7 +1076,7 @@ Work With Other Meta	5113
 World Meteorologic	12972
 World Meteorological Organisation	12889,53,423
 World Meteorological Organisations’ State	1814
-World Meteorological Organization	9766,1787,1365,283
+World Meteorological Organization	9766,1787,1365,283,566
 World Meteorological Organization Information System	11553
 World Metrological Organisation	1814
 X Inc. and Meta	8849

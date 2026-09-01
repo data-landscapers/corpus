@@ -512,7 +512,8 @@ City Cabinet	10496
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
 Comissão de Fiscalização Cabe	11358
 Comores Cable	2852
-Comores Cables	13722
+Comores Cables	13722,33,10
+Comores Cables Comores Cables	13755,10
 Comores Cables SPV	13722
 Complexities of Cable Cuts	2677
 Condolences Cabinet	2626
@@ -953,7 +954,7 @@ Salto Cabo Verde	11863
 Sargento de Primera Inspector de Tercera Sargento Cabo	4209
 Saudi Arabia. Cable	1741
 Secretariat of Cabinet	11224
-Secteur Bancaire-Moroni Cabinet	4342
+Secteur Bancaire-Moroni Cabinet	4342,9429
 Securing Europe’s Subsea Data Cables	2677
 Seventeenth Cabinet Meeting	11791
 Several Subsea Cables	2677

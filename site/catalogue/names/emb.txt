@@ -117,7 +117,7 @@ Embarking	7835,295
 Embarks	12639
 Embassies	13122,551
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282
 Embassy Abuja	4301
 Embassy Kingdom	13358
 Embassy Libreville	1560
@@ -127,7 +127,7 @@ Embassy of Belgium	13156
 Embassy of Canada	9043,232
 Embassy of Finland	1016,9576
 Embassy of France	13312,2
-Embassy of India	10780,2964
+Embassy of India	10780,2964,47
 Embassy of India Harare Press Release Embassy	13509
 Embassy of Ireland	9861
 Embassy of Italy	10592
@@ -300,6 +300,7 @@ U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713
 U.S. Embassy Harare	5165,3811,253
 U.S. Embassy and Starlink	4340,5
 U.S. Embassy's Facilitation Role Chargé	4352
+U.S. Virtual Embassy	13754
 UAE Embassy	4952
 US Embassy	2740,2408,289,189,864,418,2068,253,4172
 US Embassy Bangui	4345

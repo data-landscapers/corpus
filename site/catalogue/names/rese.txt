@@ -301,7 +301,7 @@ Desktop Research	12376
 Develop Research Infrastructure	12675
 Development Research	10721
 Development Research Centre	12138
-Development Research Group	10714,263,2107
+Development Research Group	10714,263,2107,675
 Development Standards and Research PLC Programmable Logic	12975
 Diagnostic Study of Higher Education and Scientific Research	11552
 Diagnostic and Prognostic Research	7759
@@ -321,6 +321,7 @@ Digital Technology Enhancement and Research Section	12415
 Digital World Research	12926
 Digitalization RF Resettlement Framework RNPP National	3604
 Directions for Future Research	7966
+Director General of Higher Education and Scientific Research	13816
 Director General of Nigeria's National Space Research	6628
 Director Research	11131
 Director Research and Statistics	9194
@@ -751,6 +752,7 @@ Microsoft Research	5682
 Mineral Processing and Battery Technology Research Project	1554
 Mineral Processing and Battery Technology Research Projects	1554
 Minimum Reserve Price	8582
+Minister of National Education and Scientific Research	13816
 Minister of Scientific Research and Innovation	8506
 Ministries of Lands and Resettlement and Agriculture	12912
 Ministry of Education and Research	11135
@@ -976,6 +978,7 @@ RAP Resettlement Action Plan RPF Resettlement	1988
 RBZ Reserve Bank of Zimbabwe RTGS Real-Time	13420
 RCZ Research Grant Proposal Appeals System	1554
 RCZ and ZERA Research Collaboration Projects	1154
+RELATIONS AVEC LE RESEAU NATIONAL ARTICLE	13809
 RESEARCH ACT	413
 RESEARCH AND DEVELOPMENT	11860
 RESEARCH AND DEVELOPMENT KEY RESEARCH	12358
@@ -1022,7 +1025,7 @@ Report. The Reserve Bank of Malawi	5595
 Representing the Director of ICT and Research	9781
 Reproducible Research Repository	10714,263
 Request for Quotations RPF Resettlement Policy Framework	11525
-Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191
+Research	24,372,191,179,133,71,30,121,33,42,29,1,141,145,2,40,43,180,37,279,3,222,6,103,20,74,20,25,48,44,19,32,11,5,51,2,41,1,3,50,41,11,18,4,1,10,59,1,8,154,105,18,126,31,163,112,7,18,31,29,39,2,28,141,37,21,38,242,64,1,57,38,25,30,26,22,131,14,55,205,38,11,161,6,58,32,7,99,45,60,43,22,79,181,78,116,154,29,19,70,19,69,102,5,2,5,57,47,1,149,7,16,43,20,50,10,92,38,202,92,177,1,42,169,30,1,88,76,67,1,53,55,171,135,24,142,2,79,64,70,51,147,52,40,1,15,5,1,108,127,395,130,4,202,3,91,381,151,43,12,4,72,117,37,5,6,11,4,47,54,1,1,5,9,7,39,23,8,62,1,30,17,249,26,43,114,87,5,3,16,5,1,10,10,22,13,46,8,31,65,69,1,15,10,20,5,4,13,4,11,36,40,10,23,4,1,20,19,50,22,20,25,32,98,32,1,3,40,184,24,9,36,1,6,4,12,16,27,11,3,26,21,11,100,86,19,7,11,111,18,13,3,79,191,67
 Research Act	413,741,400
 Research Act. RESEARCH PROMOTION	1154
 Research Act. The Concept Note	1154
@@ -1102,11 +1105,11 @@ Research Handbook	2096
 Research Highlights	10763
 Research Hospital	12972
 Research Hubs	7548
-Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090
+Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130,332,1090,67
 Research ICT Africa After Access	544
 Research ICT Africa Just AI Framework	7103
 Research ICT Africa Submission	6512
-Research ICT Africa URL	13747
+Research ICT Africa URL	13747,67
 Research ICT Africa's Elizabeth Orembo	12104
 Research ICT Africa's Just AI Framework	8836
 Research ICT Africa's Senior Researcher	13747
@@ -1330,7 +1333,7 @@ Resettaluarsetralbailiptaéix Gérer	6959
 Resettaluarsetralbailiptaéix duGécraerrbluarcarintse	6959
 Resetting Africa's Digital Identity and Sovereignty	5970
 Resetting for Growth	7695
-Resettlement	1988,9875,364,146,539,508
+Resettlement	1988,9875,364,146,539,508,353
 Resettlement Action Plan	1988,9875
 Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Plans	3604,7921
@@ -1374,7 +1377,7 @@ SVP for Research	3619
 Safeguarding the National Research Mandate The Committee	1554
 Sage Research Methods	2093
 Science and Research Technical Advisory Committee	5036
-Scientific Research	11905,1390
+Scientific Research	11905,1390,521
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
 Scientific Research Arab	2958

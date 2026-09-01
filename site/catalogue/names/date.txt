@@ -32,7 +32,7 @@ Applicant Signature Position Held Date	736
 Applicant Signature Position Held Date Area	736
 Applicant Signature Position Held Date Official	736
 Application Type Date	1877
-Appraisal Stage. Date Prepared	761
+Appraisal Stage. Date Prepared	761,13032
 Approval Date	4653,7312,255,454,1060
 Approval Date Investment Project IBRD	1284
 Approval Date Practice Area	1704
@@ -96,6 +96,7 @@ Commencement Date	12629
 Commencement Dates and Effective Periods	3861
 Comment Signature Date and Time	12364
 Comoros Date	4868
+Comoros. Estimated Approval Date	13793
 Completion Date	1988,2908
 Completion Date FM Conditions Accounting	10829
 Computer Specifications DATE QUANTITY	34
@@ -190,7 +191,7 @@ Date Passed	11976
 Date Posted	5213
 Date Posted Zambia	5501
 Date Practice Area	13111
-Date Prepared	980,16,708,587,1165,7507,1706,163,279,412
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412,264
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
 Date Received Time Received Subscriber’s BOZ	12364
@@ -238,7 +239,7 @@ Datenschutz	11316
 Datenschutzbehörde	8436
 Datenschutzbehörde and CRIF	8436
 Datenzentrum	902
-Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441
+Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441,110
 Dates Under Review	9022,3286
 Dates of Consultations	1778
 Dates of Data Collection Mode	10862
@@ -268,6 +269,7 @@ EXECUTION Date	13524
 EXPANSION OF HEALTH FACILITIES Date	1988
 EXPECTED RELEASE DATE	11296
 Earliest Delivery Date	13185
+Eastern and Southern Africa. Estimated Appraisal Date	13793
 Econet InfraCo. Record Date for Econet Shareholders	4896
 Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301,127,393,364,131
 Effective Date This Procl	7538
@@ -352,7 +354,7 @@ Instruments Date	13442
 Interview Date	12609
 Isaac K. Kassouwi Date	2369,5,858,12,133,596,209,218,475
 Isaac K. Kassouwi. Date	2383,127,254
-Issue Date	5370
+Issue Date	5370,8448
 Issued Date	13031
 Item Origin Date	13185
 Jan-2024 Financing Projected Date of Full Bank	1284
@@ -378,6 +380,7 @@ Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334
 Kigali Original Site Publication Date	9892,1
 Kingdom of Lesotho. Estimated Board Date	12669
 L'ENQUÊTÉE DONNE LA DATE DE FIN	13300
+L'HOTEL RETAJ MORONI Date	13783
 LA DATE	3396
 LEB Date	2342
 LICENSING DATE	9458
@@ -404,7 +407,7 @@ MP Minister of Communications and Digital Technologies DATE	11235
 MW-PPPC-502049-CS-QCBS DATE	3678
 Malawi Communications Regulatory Authority Date	13035
 Malawi Date	13185
-Matin Date	13613
+Matin Date	13613,170
 Matthew McNaughton Date	11006,1
 May-2022. Closing Date	13734
 Mbwana Date	13053
@@ -450,6 +453,7 @@ Oct-2030 Expected Program Closing Date	3562
 Officer Effective Date	13068
 Official Launch Date	12631
 Official Use Only Date	6579
+Ongoing Project Dates	13767
 Opening Date	4896
 Opening Date and Time	12686
 Operation Closing Date	4653
@@ -510,6 +514,7 @@ Redaction Date	3569,62,1766
 Region Estimated Appraisal Date Estimated Approval	13111
 Regional Manager Date	8603
 Release Description Go Live Date	12491
+Relevance Date	13824
 René Kim and Vivek Sakhrani Date	12006
 Report Date	9772
 Report Publication Date	13344
@@ -557,7 +562,7 @@ Service Model Start Date End Date	6432
 Settlement Date	4896
 Shelby Brewster Date	6948
 Shipment Receipt Date	12360
-Signature Date	1770,144
+Signature Date	1770,144,11842
 Signature Date. Description Schedule	13331
 Signature of Authorized Representative Date Name	13037
 Signature........................................... Date	1223
@@ -589,6 +594,7 @@ Transaction Date	4896
 TÉ DONNÉE MAIS QUE LA DATE	13300
 Télécharger Date	2975
 UNESCO General Conference Date	12565
+UNHCR Creation Date	13769
 USER ID CONTACT INFORMATION Date	34
 Under Implementation. Dates	13017
 Unified Digital Future Date	5241
@@ -596,7 +602,7 @@ Upload Date	13669
 VII- DATE AND VENUE OF NEXT	7452
 VISITE FINALE DATE JOUR MOIS NOM	13300
 VISITE FINALE DATE JOUR NOM	13300
-Version Date	13084
+Version Date	13084,675
 Version Date Author Remarks	12360
 Villages. Date	8999
 WATER AND LAND REFORM DATE	13024

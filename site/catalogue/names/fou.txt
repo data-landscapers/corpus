@@ -546,7 +546,7 @@ Fournisseurs de Contenus	13291
 Fournisseurs des Services Financiers	11944
 Fournisseurs des Services de Radiodiffusion Sonore	13301
 Fournit	10876
-Fourniture	998,2398,946,8999,214,12,127
+Fourniture	998,2398,946,8999,214,12,127,77
 Fournitures	1649,293,8934,2648
 Fourteen	585,1359,1639,1300,342,987,939,1440,19,171,736,3445,10,213
 Fourteen African	4674
@@ -618,7 +618,7 @@ GCI. Four African	11917
 GDN’s Four Gear Approach	10852
 GSMA Mobile for Development Foundation	11003,991
 GSMA Mobile for Development Foundation Inc	66
-Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,197,46,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476
+Gates Foundation	514,7,740,395,512,902,80,48,458,209,417,3,191,52,177,76,261,190,268,53,45,323,250,60,155,207,75,24,22,99,172,88,493,31,357,495,126,497,444,197,46,29,141,15,25,51,694,151,112,27,13,66,386,479,16,4,2,27,144,86,73,166,46,549,23,476,199
 Gates Foundation Africa	13560
 Gates Foundation Norat	7065
 Gates Foundation Senior Program Officer Jeremiah	13061
@@ -787,7 +787,7 @@ Marzia Chiesi Foundation Dept of Infectious Disease	10878
 Masaar Foundation	11079
 Masakhane Research Foundation	2179,12
 Master Fouilles de Données	2732
-Mastercard Foundation	146,239,1,122,2,52,140,1,207,223,407,5292,1054,323,118,562,226,870,82,103,120,451,236,337,13,20,234,63,235,313,86,183,40,583,174,3,375,35
+Mastercard Foundation	146,239,1,122,2,52,140,1,207,223,407,5292,1054,323,118,562,226,870,82,103,120,451,236,337,13,20,234,63,235,313,86,183,40,583,174,3,375,35,88
 Mastercard Foundation Africa Growth Fund	909
 Mastercard Foundation EdTech	10170
 Mastercard Foundation EdTech Fellowship	8209,118,562
@@ -1024,6 +1024,7 @@ Strong Foundation	12444,85
 Structure Launch the National Quest Secure Foundational	4528
 Sudan. Four	6947
 Sumac Microfinance Bank Founder and Chairman John	5690
+Supply Foundation	13763
 Survey Report. Found	12376
 Susan Thompson Buffett Foundation	562
 THEYA Foundation	3608,6013

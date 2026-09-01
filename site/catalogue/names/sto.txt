@@ -304,6 +304,7 @@ RMB Nigeria Stockbrokers	8040
 RSG Recovery Storage Group RTO Recovery	13185
 Real Story Behind the Turnaround National Breweries	6011,985
 Real Story of China	2518
+Real-Time Stock Management	13763
 Received Finalized Stock	12500
 Recordings Stored	6946
 Regional Stock Exchange Settlement Bank	10853
@@ -392,7 +393,7 @@ Stockage Réseau	9049
 Stockbroker	4896
 Stockbrokers	4896
 Stocked	1988
-Stocker	1005
+Stocker	1005,12804
 Stockholm	427,1812,4873,1264,1266
 Stockholm Convention	11332
 Stockholm Internet Forum	110
@@ -448,7 +449,7 @@ Stop. Think. Verify	9764
 Stopa	10780
 Stopblablacam	2336
 Stopgap	11551
-Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46,44,203,456,66,114,178,313
+Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46,44,203,456,66,114,178,313,119
 Storage APIs	13185
 Storage Area Networks	9123
 Storage Authority NWHSA National Water Harvesting	2775
@@ -549,6 +550,7 @@ Victoria Falls Stock Exchange. FINANCIAL INFORMATION	4896
 Victoria Falls Stock Exchange. Publication	4896
 Viettel Global Joint Stock	6019
 Volume and Value of Stocks	10
+WHES Energy Storage Systems	13795
 World Bank Feature Story	7644
 World Bank Transmission Expansion and Energy Storage	12399
 X MSA2052 Storage Devices	11209

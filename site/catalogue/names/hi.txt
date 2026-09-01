@@ -286,6 +286,8 @@ Diagnóstico Precoce Infantil HIV Contém Dados	966
 Digital Infrastructure Hit New Record	1518
 Digital Transformation of Higher Education	6174
 Digitizing HIV	12143
+Director General of Higher Education and Scientific Research	13816
+Directorate of Environment and HISP Rwanda	13813
 Document Approval History Version	2779
 Document History	12360
 Document Revision History	12360
@@ -499,7 +501,7 @@ HIS-related	766
 HIS-specific	766
 HIS.10 Future	10881
 HISP Center	9139
-HISP Centre	2678,1206,883,1281,105,874,5171,543
+HISP Centre	2678,1206,883,1281,105,874,5171,543,1022
 HISP Centre Deputy Director	7027
 HISP Centre da Universidade de Oslo	11454
 HISP Ethiopia	12198
@@ -511,7 +513,7 @@ HISP Malawi. GIZ	12141
 HISP Mozambique	11589
 HISP Nigeria	7027
 HISP Nigeria and UNICEF	12037
-HISP Rwanda	977
+HISP Rwanda	977,12786,50
 HISP Saudigitus	11454
 HISP South Africa and HISP Uganda	12741
 HISP Sri Lanka	13160
@@ -519,7 +521,7 @@ HISP UNIMA	13121,39,36
 HISP UNIMA and HISP UiO	13121
 HISP Uganda	2678,9669,394,275
 HISP Uganda and Saudigitus	12368
-HISP UiO	2678,3370,105,5301,135,1152
+HISP UiO	2678,3370,105,5301,135,1152,1022
 HISP University of Malawi	13121,39
 HISP WCA	1017,930,12,1007
 HISP WCA. Il	11599
@@ -676,6 +678,7 @@ Hibo Mahamoud	1287
 Hibret Bank	11620
 Hicham El Habti	2696
 Hichilema	5203
+Hichma Mohamed	13811
 Hicks	2518
 Hidden	2703,164,499,266,980,102,288,114,269,126,272,239,8,402,145,239,111,99,8,71,50,37,129,39,3987,1012,1265
 Hidden Data	8436
@@ -1053,7 +1056,7 @@ Higher	789,475,564,463,484,829,343,485,96,1881,23,400,106,10,715,223,693,148,396
 Higher Certificate	6832
 Higher Dairy Supplement for Reduced Wasting	11525
 Higher Diploma	6946
-Higher Education	899,1089,485,302,214,615,2266,304,658,114,602,212,616,226,526,2057,45,322,375,13,150,109,212,163,100,301,68,35,293,185
+Higher Education	899,1089,485,302,214,615,2266,304,658,114,602,212,616,226,526,2057,45,322,375,13,150,109,212,163,100,301,68,35,293,185,260
 Higher Education Act	7845,3337,1793,103,227,66,185
 Higher Education An MoU	11185
 Higher Education Authority	13477,146
@@ -1061,6 +1064,7 @@ Higher Education Bursaries and Scholarships Act	1867
 Higher Education CPD	6832
 Higher Education Commission	7845
 Higher Education Connectivity	1284
+Higher Education Development Shield	13816
 Higher Education Enrolment	12199
 Higher Education Examination Council	13310
 Higher Education Examinations Council	13310
@@ -1144,6 +1148,7 @@ Highlights	236,968,663,57,851,276,998,4378,2349,17,341,162,768,74,37,181,269,271
 Highlights Digital Innovation	3669
 Highlights E48.87 Million Revenue	12969
 Highlights MTN	10793
+Highlights Registration	13773
 Highlights Summary	11198
 Highlights The World Bank	10857
 Highlights. KNBS	12138

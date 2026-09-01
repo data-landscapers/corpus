@@ -1365,6 +1365,7 @@ Industrial Informatics	12926
 InfoReg	5806,3428,4036
 InforMEA	11569,1
 InforegulatorSA	4583
+Inforiiiation	13781
 Inforination	232
 Inforisk	8891
 Inform	766,5,448,42,2530,1885,1872,1851,1376,1478,123,299,252,5,378,47,24
@@ -1428,6 +1429,7 @@ Informant. Birth	12216
 Informante	8114
 Informants Registration	12327
 Informar	163,4,10605,11,585,6,8,67,83
+Informati.on	13781
 Informaticien	7805,314,43,159,2032
 Informatics	1261,835,3496,1344,823,846,3650,671
 Informatics Authority	4849,743,312
@@ -1439,7 +1441,7 @@ Informatics and Technological Traces Directorate	10911
 Informatics&volume	2096
 Informatik	9237
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1,22,9,1,2,7,6,3,5,2,1,1,5
 Information Access	6793
 Information Access Beyond	13649
 Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,801,191,82,318,559,317,832,1242,160,79,796,171,835,64,2,9,6,69,608,113,61,129,372,1,13,4,343,73,48,18,48,6,26,224,64,68,196
@@ -1833,7 +1835,7 @@ Information and Communication Services	12942
 Information and Communication Syllabus	288,1699
 Information and Communication Technol-	13347
 Information and Communication Technolgies Act No	13346
-Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309
+Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554,723,120,71,22,188,204,73,3,40,21,313,40,10,1,309,119
 Information and Communication Technologies Act	22,761,1943,1,186,10392
 Information and Communication Technologies Authority	783,6469,1966,812,1618
 Information and Communication Technologies Commission	9970
@@ -1916,6 +1918,7 @@ Information and Services	11940
 Information and Software Technology	1248,9908
 Information and Technology	6831
 Information and Tourism	9685
+Information de Communication. Autorisation	13781
 Information de Côte	3604
 Information de Planification	13341
 Information de Régulation	10975
@@ -1946,6 +1949,7 @@ Information. CURRENCY EQUIVALENTS	11525
 Information. Comoros	1906
 Information. Dans	6578
 Information. La Côte	2376
+Information. La SCEPAC	13781
 Information. M. Adji Ali Salatou	3337
 Information. Notamment	5103
 Information. Public Disclosure Authorized Public Disclosure	11560
@@ -1960,7 +1964,7 @@ Informational Autonomy	11956
 Informational Capabilities	10726
 Informational Self-Determination	11956
 Informationen	49
-Informations	747,1,439,797,1412,3563,709,2732,312,105,19,85,45,9,176,793,1446,37,233,88
+Informations	747,1,439,797,1412,3563,709,2732,312,105,19,85,45,9,176,793,1446,37,233,88,51
 Informations Commerciales	13427,233
 Informations Commerciales Portail	13427,233
 Informations Favorable	10821
@@ -2028,7 +2032,7 @@ Informelle	10875,2515
 Informelle Indifférents	13390
 Informellement Inclus	10965
 Informels Volume	10965
-Informer	1005,6915,2956,89,967,1787
+Informer	1005,6915,2956,89,967,1787,62,28
 Informercials Newsletters Quarterly Sector Reports Gallery	12515
 Informes	1701
 Informes Específicos	1701
@@ -2359,6 +2363,7 @@ Manager for Information	10676
 Manager for Information System Quality Assurance	7155
 Mandatory Type of Information Required for Beneficial Owners	12389
 Marcory. Information	4814
+Maritime Information Sharing Workshop	13791
 Master Index HIS Health Information System	396
 Master of Informatics	12926
 Master of Land Information Management	6832
@@ -2729,6 +2734,7 @@ PERSONAL INFORMATION Scope	11179
 PHEM Information System	4349
 PIDIA00549 BASIC INFORMATION A. Basic Project	1704
 PIDIA00880 BASIC INFORMATION A. Basic Project	2291
+PIDIA01635 BASIC INFORMATION A. Basic Project	13787
 PIDIAF0329 Project Information Document	12832
 PIU. Informal	10964
 PLT Retrieve Information for Display PWP Reference	1009
@@ -2861,7 +2867,7 @@ Programa de Reconversão da Economia Informal	10758,677
 Programas Informáticos	11425
 Progress Report. Ministry of Health. Ministry of Information	12240
 Project Financing IT Information Technology JICA	10768
-Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412
+Project Information Document	772,199,25,197,26,485,549,38,9962,159,14,243,442,412,264,6
 Project Information Documents	5620
 Projets Informatiques	1293,765,2313
 Promise and Limitations of Information Technology for Tax	12948
@@ -3110,7 +3116,7 @@ Sensitive Information Disclosure	3214
 Sensitive Information The Authority	13381
 September. South Africa’s Information Regulator	4583
 Series Information	10862
-Series Information The Global Findex	13084
+Series Information The Global Findex	13084,675
 Service DHIS District Health Information System	396
 Service Delivery Information Tool	11218
 Service Informatique	1187,12114

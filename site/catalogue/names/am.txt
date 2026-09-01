@@ -107,7 +107,9 @@ AMD and Microsoft	11740
 AMDIE	5745,1
 AMDIE. Designed	5798
 AMEA Power	11310
-AMECC	2048,1705,103,788,2558,2825
+AMECC	2048,1705,103,788,2558,2825,3734,1,61
+AMECC Comores	13761,1
+AMECC Comores URL	13761,1
 AMECC II. Ce	10027
 AMECO	11594
 AMEH OCHOJILA	10270
@@ -220,6 +222,7 @@ AMOT ENTERPRISE Data Controller INST-6864898B5E5 NYERI	7167
 AMOXICARE MEDICAL CLINIC Data Controller INST-885632F0FB2	7167
 AMOYO HEALTHCARE MEDICAL CLINIC LIMITED Data	7167
 AMOpportunities	10165
+AMP Comoros	13810
 AMPATH Data Controller INST-72829486B05 UASIN Kenya	7167
 AMPATH Data Processor INST-72829486B05 UASIN Kenya	7167
 AMPETIC	2816,1398
@@ -593,7 +596,7 @@ Ambas-	2342
 Ambassad	737
 Ambassade	2801,685,2774,4830,2315,331
 Ambassade de Chine	13736
-Ambassade de France	1679,8348,3415
+Ambassade de France	1679,8348,3415,319,1,37
 Ambassade des Etats-Unis	13724
 Ambassade des Pays-Bas	5899,3967
 Ambassade du Burkina Faso	8321
@@ -772,7 +775,7 @@ Ameaça	11365,71
 Ameaça Cibernética	6970,4466
 Ameaças	5663,5906
 Amebainisha	11627
-Amecc	5530,26
+Amecc	5530,26,8264
 Amede ES. Barriers	12379
 Amefafanua	1859,8567
 Amegbor	11169
@@ -979,7 +982,7 @@ American-written	5216
 American. Chinese	11740
 American. The Belfer Center	6471
 Americanism	5366
-Americans	38,4388,2761,563,1244,635,801,14,2,896,923
+Americans	38,4388,2761,563,1244,635,801,14,2,896,923,1489
 Americans and Africans	4787
 Americans and Asians	12151
 Americans and Europeans	7337
@@ -1100,6 +1103,7 @@ Aminath Kpadonou	2312
 Amindeh	10962
 Amindeh Blaise Atabong	2301,36,51,531,115,44,155,102,773,1229,253,29,80,594,4669
 Amine	11140,1808
+Amine Ahmed Chamsi	13763
 Amine Aloulou	7649
 Amine Benchekroun	4933
 Amine Berrada Sounni	8891
@@ -1356,7 +1360,7 @@ Amélioration du Service	11549
 Amélioration du Système Educatif	11905
 Amélioration du Système RoC Educatif	11905
 Améliorations Malgré	13390
-Améliorer	12,631,355,440,1528,3993,863,871,198,650,1171,2,3,100,41,16,2,89,979,1346,16,35,49,205,82
+Améliorer	12,631,355,440,1528,3993,863,871,198,650,1171,2,3,100,41,16,2,89,979,1346,16,35,49,205,82,112
 Améliorer Système	10712
 Améliorer la Améliorer	10965
 Améliorer la Informer	10965
@@ -1364,12 +1368,12 @@ Améliorer la Performance du Mini Centre des Données du SETIC	13341
 Améliorée	13300
 Améliorée Restée	6959
 Améliorées	13300
-Aménagement	311,1371,660,1054,141,235,1531,270,1309,1096,1303,763,603,328,2402,343
+Aménagement	311,1371,660,1054,141,235,1531,270,1309,1096,1303,763,603,328,2402,343,78
 Aménagement Agricole Planifiées	8303
 Aménagement DATACENTER	1993
 Aménagement des Terrains	13442
 Aménagement des Territoires	3381
-Aménagement du Territoire	235,2989,5667,2073,2759,2
+Aménagement du Territoire	235,2989,5667,2073,2759,2,52,21
 Aménagements	3396,4274
 Aménagements Barrages	3396
 Aménagements Résultat	3396

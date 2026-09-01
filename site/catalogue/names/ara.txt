@@ -113,7 +113,7 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198
 Arabic LLM	6232,337
 Arabic PDF	11153
 Arabic and English	4091
@@ -195,7 +195,7 @@ First Arab Regional Forum	8645
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 Forum Arabe des Régulateurs	10975
 Franco arabe Passerelle	10847
-French and Arabic	2975,10769
+French and Arabic	2975,10769,30
 GOVERNMENT OF THE UNITED ARAB EMIRATES	13326
 Government of Saudi Arabia	12710
 Gustavo Pérez Ara	8163,33
@@ -243,6 +243,7 @@ President United Arab Emirate Mohamed	12026
 Principe Saudi Arabia Senegal Serbia Seychelles	11470,295
 Privé Classique Satellite Bilingue Franco arabe Passerelle	10847
 Project Arachnid	11648,140
+Regional Office for Arab States	13776
 Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
@@ -283,6 +284,7 @@ Timor-Leste DE ARAUJO ALMEIDA	6613
 Tome and Principe Angola Iraq Saudi Arabia	11005
 Tses Community Hall ERONGO REGION ARANDIS	13046
 UAE and Saudi Arabia	4324,928
+UNDRR Regional Office for Arab States	13776
 Ukraine United Arab Emirates United Kingdom	11470,295
 Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
@@ -291,6 +293,7 @@ United Arab	9399
 United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
+United Arab Emirates Government	13795
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates UN United Nations	11960
 United Arab Emirates Yes ICT Fund	11529

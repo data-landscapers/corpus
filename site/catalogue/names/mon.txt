@@ -9,6 +9,7 @@ AFRICAN COMMUNITY MONETARY AFFAIRS COMMITTEE	7815
 AFRISEND MONEY TRANSFER LIMITED Data Controller	7167
 AFRISEND MONEY TRANSFER LIMITED Data Processor	7167
 AI Governance Monitoring System	4528,7984
+AI-Driven Predictive Epidemiology for Malaria Monitoring	13805
 AI-enabled Remote Monitoring System	7534,12
 AINSI QUE LES MONTANTS RESPECTIFS	13390
 AIRTEL MONEY KENYA LIMITED Data Controller	7167
@@ -168,7 +169,7 @@ Banks and Mobile Money Operators	4901
 Banque Africaine de Développement BM Banque Mondiale	10975
 Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
 Banque Mondia le Fond Mondia	13325
-Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1,109,37,18,99,969,38,1308,10,6,19,16,70,31,10,103,182
+Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1,109,37,18,99,969,38,1308,10,6,19,16,70,31,10,103,182,67,2,12
 Banque Mondiale Comme	10876
 Banque Mondiale Table des Matières Version	1187
 Banque Mondiale. Banque des Etats	11944
@@ -1643,7 +1644,7 @@ Monrovia. WB ID Credit Program	2604
 Monsalve Montiel	10768
 Monsalve Montiel ABBREVIATIONS AND ACRONYMS ADECOS	10768
 Monseigneur Mi-	13405
-Monsieur	2442,1,71,452,6853,3556,30
+Monsieur	2442,1,71,452,6853,3556,30,352
 Monsieur ANO Amoa Antoine	2342
 Monsieur Ababacar GUEYE	8269
 Monsieur Abakary TOURE	8237
@@ -1812,6 +1813,7 @@ Mont Sinaï	10821
 Mont Sinaï Sarl Traitement	10821
 Mont-Rolland	9002
 Mont-Rolland. Quels	9002
+Montage	13771
 Montagem Boletim Estatístico de Construção	9441
 Montagem Mozambique	9441
 Montan	13325
@@ -1868,7 +1870,7 @@ Month-on-Month	13685
 Month-on-month	13052
 Month-precision	3755,7217
 Month-to-Month Fibre-to-the-Home Tariff Plans	11259
-Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127
+Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154,899,337,10,31,598,12,83,1,2,1,8,12,32,245,3,117,16,16,285,208,79,28,48,251,88,87,127,163
 Monthly 10000 RWF	718
 Monthly 21000 RWF	718
 Monthly 30000	718
@@ -1907,6 +1909,7 @@ Monthly Market-Share Returns The CBN	6935
 Monthly Payments Working Group	12335
 Monthly Prizes	12690
 Monthly Progression	12256
+Monthly Protection Dashboard	13773
 Monthly REC-Maternity	10881
 Monthly Rate Working Months Total Cost	13031
 Monthly Receipt of Foreign Researchers Applications	1154
@@ -2012,6 +2015,7 @@ Ms. Lebohang Monyam	12693
 Ms. Martina Moniz	11579
 Ms. Monica Mutsvangwa	13562
 Mtn Mobile Money	6234
+Multi-Country Office Monthly Statistical Report	13769
 Multi-pays Montant	10519
 Municipal Money	6729,1284
 Mutare Next Month	3965,1438,1506

@@ -1099,7 +1099,7 @@ Kinango	10796
 Kinazi	2816
 Kind Agreement	6529
 Kind Government Counterpart Contribution	11863
-Kind of Data	13084
+Kind of Data	13084,675
 Kind of Data Sample	10862
 Kinder-garten	12383
 Kindergarten	582
@@ -1150,7 +1150,7 @@ Kingdom AI Sector Deal Department for Business	11135
 Kingdom Eastern Europe East Asia Moldova	11135
 Kingdom Moldova NAIS	11135
 Kingdom This Strategy	12444
-Kingdom of Bahrain	8645
+Kingdom of Bahrain	8645,5162,1
 Kingdom of Denmark	10088
 Kingdom of Eswatini	318,218,426,389,465,150,326,5,1074,2,280,594,288,2004,126,870,1,600,771,11,1472,740,1,3,1196,31,23,4,6,1,6,11,14,7,11,196,282,7,2,7,1,5,12,6,4,6,3,1,1,12,33,25,2,3,2,69,6,19,22,2,6,26,1,7,7,32,226
 Kingdom of Eswatini Academy of Sciences	12966
@@ -1424,6 +1424,7 @@ Kitaifa	2868,641,2506,4,5624
 Kitambulisho	2868
 Kitanzania	2710,352,385,1969,6227
 Kitanzania. Redington	3062
+Kitations	13781
 Kitawapa	9376
 Kitchen	12962,423
 Kitchen Staff	11180
@@ -1653,7 +1654,7 @@ OPTICALS LTD Data Controller INST-364145F15AE KISUMU	7167
 Official Use Only KINGDOM OF ESWATINI	12990
 Olga Kavira Kinyamusitu	10625
 Omaruru Ubasen Primary School Hakahana Kindertuin	13046
-Open Data Kit	1219,2488,7212,1494
+Open Data Kit	1219,2488,7212,1494,1347
 Open Data Kit PS	12338
 Oral Kinyarwanda Skills	12445
 Oranjemund Kinder Garden	13046
@@ -1909,7 +1910,7 @@ Uganda's Rosemary Kisembo	6147
 Uganda. Edward Kimbugwe	5658
 Ukraine United Arab Emirates United Kingdom	11470,295
 Under the High Patronage of His Majesty King	2577
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67
 United Kingdom Corresponding Author	12025
 United Kingdom Foreign	10768
 United Kingdom Global Cybersecurity Index	10764

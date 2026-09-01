@@ -213,7 +213,7 @@ First Schedule. Virtual Fiscal Device	13606
 Fiscais	11528
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108
 Fiscal Adjunto	4209
 Fiscal Adjustment Plan	12922
 Fiscal Affairs Department	1828,10672,1124
@@ -387,6 +387,7 @@ Fisheries Act	13403
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
 Fisheries Information System	10112,531
+Fisheries SDG	13824
 Fisheries Subsidies Agreement	13042
 Fisheries Transparency Initiative	10112
 Fisheries and Animal Production	10964
@@ -441,7 +442,7 @@ IV. FISCAL PERFORMANCE	12922,34,167
 IVA Desdobrável REMPE Flyer Incentivos Fiscais	12018
 Identifiant Fiscal Unique	10823
 Identification Fiscal Unique	10821
-Identification Fiscale	13390,77,223
+Identification Fiscale	13390,77,223,119
 Identificação Fiscal	10765,10
 Immatriculation Fiscale	13524
 Impact of Fiscal Policy	10985
@@ -599,6 +600,7 @@ SUPERVISÃO E FISCALIZAÇÃO ARTIGO	3519
 SUPERVISÃO E FISCALIZAÇÃO DA ATUALIZAÇÃO	11561
 SUPERVISÃO E FISCALIZAÇÃO NO TERRENO	11561
 Second Fiscal Management and Inclusive Growth Development	11905
+Second Fiscal Management and Resilient Growth Development	13756
 Secretaria Fiscalía de Instrucción	4209
 Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209

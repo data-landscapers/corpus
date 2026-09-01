@@ -324,6 +324,7 @@ Climate Risk Management	11134,2340
 Climate Risk Management Guidelines	11134
 Climate Risk Management and Recovery Planning Guidelines	8377
 Climate Risk Profile	6539
+Climate Risk and Early Warning Systems	13767
 Climate Risk and Insurance	7334
 Climate and Disaster Risk Screening	1284,2320,8251,110
 Climate and Disaster Risk Screening Tool	3604
@@ -352,6 +353,7 @@ Communication of Right	12201
 Communications Risk and Information Centre	11840,1
 Community Disaster Risk Reduction Committees	12977
 Comoros B. RIGHT TO FREEDOM	13739
+Comoros Climate Risk Country Profile	13813
 Company All Rights Reserved. Copyright	12342
 Compliance Gaps and Financial Integrity Risks	4848
 Compliance Risk	13053
@@ -578,7 +580,7 @@ Disaster Risk Management Systems	13080
 Disaster Risk Management and Adaptive Safety Nets	10763
 Disaster Risk Management and Governance	12977
 Disaster Risk Management and Governance A. Strategy	12977
-Disaster Risk Reduction	970,10450,1359,198
+Disaster Risk Reduction	970,10450,1359,198,790
 Disaster Risk Reduction Master Plan	12206
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
@@ -673,6 +675,7 @@ Enumerated Digital Rights	3861
 Enumerated Rights	3861
 Enumerated Rights Every	3861
 Environment Management Authority RIB Rwanda Investigation	718
+Environmental And Social Risk Classification	13787
 Environmental And Social Risk Classification Moderate	2291
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental Risk Rating Low	11965
@@ -992,6 +995,7 @@ ICANN Limitations. RIR Governance Document	3503
 ICANN. Each RIR	3502
 ICT Risk	13053
 ID4D GTIIC Axel Rifon ICT Policy	10812
+IDA Grant. Environmental And Social Risk	13793
 IDA20 PSW. Risks	1135
 IDC’S RIGHTS	11209
 II Resilience-based Risk Management Approach	5132
@@ -1602,6 +1606,7 @@ RIA's After Access	4853
 RIA. Argent	13390
 RIA. Sur	13390
 RIABA PERIFERIA	4209
+RIARC	13799
 RIA’s After Access	9759,1436
 RIA’s Retail Africa Mobile Pricing	9759
 RIB A LERAB A CASCADES	10847
@@ -1856,6 +1861,7 @@ Riadh Chaouad	7769
 Riahi	9128
 Riahi and Riahi	9128
 Riara University	6946
+Riarc	13790
 Ribadu	8710
 Ribara	10170
 Ribara Analytica	8327,562,1281
@@ -2449,7 +2455,7 @@ Riviera4	11595
 Rivista Internazionale	11028
 Rivière du Rempart	11332
 Rivonia Road	10793
-Riwad	3753,103
+Riwad	3753,103,9924,14,29
 Riyad	8239,5489
 Riyadh	3837,111,2420,4153,180,2731
 Riyadh. Through the DCO	3837
@@ -2543,7 +2549,8 @@ Segment Sectors Content Rights Online Services	1944
 Selecting the Right Technology Partner Laos PDR	3907
 Selectivity and Risk Management	13042
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
-Sendai Framework for Disaster Risk Reduction	8370,2913,1496
+Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997
+Sendai Framework for Disaster Risk Reduction for Comoros	13776
 Senegal River and Senegalo-Mauritanian	9552
 Senqu River Valley	12755
 Senqu River Valley and Southern Lowlands	12755
@@ -2602,7 +2609,7 @@ South Rift Region	12256
 Southern Africa Digital Rights	1642,17,157
 Southern Africa Digital Rights. Historical	1816
 Southern Africa Digital Rights. Named-analyst	1642
-Special Drawing Rights	1264,9565,302,3,415,375
+Special Drawing Rights	1264,9565,302,3,415,375,1832
 Special Drawing Rights Department	7845
 Specific Risk	12512
 Stability and Liquidity Risks Cyber Security and Data	11134
@@ -2736,6 +2743,7 @@ United Nations Human Rights Council	3583,544,5018,1696,2282
 United Nations Human Rights Council Resolution	11704
 United Nations Human Rights Council. First	3584
 United Nations Human Rights Office	11977
+United Nations Office for Disaster Risk Reduction	13767,9
 United Nations Universal Declaration of Human Rights	8747,2430,779
 Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659,129,97,252,30,215,166,412,226,35,108
 Universal Declaration of Human Rights. Retrieved	10819

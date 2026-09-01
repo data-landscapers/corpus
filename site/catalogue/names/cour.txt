@@ -121,7 +121,7 @@ Cour Constitutionnel	1682
 Cour Constitutionnelle	17
 Cour Pénale Spéciale. Elle	10826
 Cour Spéciale des Terres	13442
-Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14
+Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14,58
 Cour Suprême du Burundi	13442
 Cour de Cassation	1231,2165,7429
 Cour de Comptes	1284
@@ -275,7 +275,8 @@ Divisions DISTRICT Courts	12920
 Divisions REGIONAL Courts	12920
 Dr. Yaouza Ouro-Sama. The Court	11704
 Duncan Mlanjira The High Court	13128
-Dépenses Courantes	4420
+Dépenses Courantes	4420,9352
+Dépenses Courantes Primaires	13772
 ECOWAS Community Court of Justice	961,8121,2622
 ECOWAS Court	5215,21,1534
 ECOWAS Court of Justice	7458,3642
@@ -663,7 +664,7 @@ South Africa’s High Court. Idemia	2521
 South Africa’s Supreme Court of Appeal	11148
 South Kivu Court of Appeal	11868
 South Sudan. Courtesy	7933
-Special Course	13744
+Special Course	13744,47
 Srenphonee Regional Courier	9781
 State High Court	11956
 Subordinate Courts	12668

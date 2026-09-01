@@ -132,6 +132,7 @@ Committee ToR Terms of Reference WBG World	13331
 Communication World Geodetic System Management	1009
 Communities and Refugees WTO World Trade Organization	10841
 Community Health and Safety Relevant The World	11560
+Comoros Worldwide Caution	13754
 Complex World	4827
 Components The World Bank Guinea-Bissau Human	11560
 Concern WorldWide	12181
@@ -155,6 +156,7 @@ DC. World Bank	3456,7385,156,152
 DC. World Bank and United Nations Development	11133
 DC. World Bank. IDA17 Scale-Up Facility	10997
 DCO and World Economic Forum	3837
+DETAILS World Bank Group Financing	13787
 DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DEVEX WORLD	11857
@@ -235,6 +237,7 @@ ES.3 Worldwide	10977
 ESJF. The World Bank	12175
 East Africa Business World	6397
 Eastern and Southern Africa World Customs Organisation	12454
+Ebola Outbreak Worldwide Caution	13754
 Ecocash and WorldRemit	13388
 Economic Forum WHO World Health Organization	10759,78,1052,451
 Economic Growth and Public Policy. World Bank	11149
@@ -299,7 +302,7 @@ Gallup World Poll Facebook	11964
 Gallup World Poll Gallup World Poll	11004
 Gallup World Poll Gender	11964
 Gallup World Poll Percentage	11964
-Gallup World Poll. Funding Agency	13084
+Gallup World Poll. Funding Agency	13084,675
 General Procurement Notice. The World Bank	1867
 Geneva. World Health Organization	2948
 Ghana Digital Acceleration Project World Bank	979
@@ -746,7 +749,7 @@ Women's World Banking. Neli Esipova	10977
 Women’s World Banking	4794
 Women’s World. Banking	11994
 Worl Bank	11855
-World	312,418,36,5,472,18,683,152,679,98,710,718,375,40,205,281,45,20,413,20,777,469,890,793,255,138,624,93,42,212,721,130,20,121,19,131,3,16,117,212,62,4,14,9,9,276,23,114,144,63,13,30,21,29,7,36,716,278,354
+World	312,418,36,5,472,18,683,152,679,98,710,718,375,40,205,281,45,20,413,20,777,469,890,793,255,138,624,93,42,212,721,130,20,121,19,131,3,16,117,212,62,4,14,9,9,276,23,114,144,63,13,30,21,29,7,36,716,278,354,88
 World AI Conference	8740,498,578
 World AI Conference Algeria	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 World AI Conference and High-Level Meeting	10945
@@ -765,7 +768,7 @@ World Athletics Indoor Championship	2626
 World Athletics Indoor Championships	2626
 World Athletics Indoor Championships.c	2626
 World Atlas	12500
-World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57,32
+World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57,32,46,4,4,25,12,6,3
 World Bank ADePT	12373
 World Bank AI	6948
 World Bank Adaptive Safety Nets	10963,1
@@ -967,7 +970,7 @@ World Bank Group Data	6539
 World Bank Group DataBank	10768
 World Bank Group Environmental	1988,4551
 World Bank Group FOR OFFICIAL USE	969,10580
-World Bank Group Financing	3456,148,7813,488,483,38,243,662
+World Bank Group Financing	3456,148,7813,488,483,38,243,662,462
 World Bank Group Financing International Development	10964,891
 World Bank Group Financing Nov	10963
 World Bank Group For Livestream	11839
@@ -1117,6 +1120,7 @@ World Bank Procurement Regulations	1284,2320,2935,4229,649,333,105
 World Bank Procurement Regulations for IPF	13332
 World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41,1367
 World Bank Procurement Risk Assessment and Management	3604
+World Bank Producers	13759
 World Bank Program	3604
 World Bank Program Appraisal Document	1693
 World Bank Program Document	558
@@ -1195,7 +1199,7 @@ World Bank Transforming the Education Sector for Better	11905
 World Bank Transmission Expansion and Energy Storage	12399
 World Bank Trust Fund. Future	1389
 World Bank UPBEAT Database	13624
-World Bank URL	2291,1271,7983
+World Bank URL	2291,1271,7983,2242,6
 World Bank US	4522
 World Bank Urbanization Review	10763
 World Bank Urges ECA	3773
@@ -1308,6 +1312,7 @@ World Bank's Ease of Doing Business Index	8440
 World Bank's EdTech Global Solutions Group	11918
 World Bank's Education Sector Support Project	11918
 World Bank's Environment and Social Framework	1778,11212
+World Bank's Environmental Social Framework	13792
 World Bank's Environmental and Social Standard	12253
 World Bank's Environmental and Social Standards	1988
 World Bank's Environmental and Social Standards and Burkina	7251
@@ -1839,7 +1844,7 @@ World Mental Health Day	10776
 World Meteorologic	12972
 World Meteorological Organisation	12889,53,423
 World Meteorological Organisations’ State	1814
-World Meteorological Organization	9766,1787,1365,283
+World Meteorological Organization	9766,1787,1365,283,566
 World Meteorological Organization Information System	11553
 World Metrological Organisation	1814
 World Mobile Congress	2668
@@ -1985,6 +1990,7 @@ Worlds Skills Competition	12975
 Worlduncertaintyindex	11134
 Worldwide	5497,980,838,734,2108,156,533,131,163,15,789,290,21,109
 Worldwide Advertising	8530
+Worldwide Caution	13754
 Worldwide Combined Reporting	10335
 Worldwide Governance Indicators	8075,4594
 Worldwide International Bandwidth Growth	2830

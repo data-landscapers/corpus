@@ -219,6 +219,7 @@ Conforme Pays-Bas	998
 Connectivity Channel Gateway Payment Originator Date	12364
 Consultant. B. Schedule of Payments	13037
 Consultants Pays Membres	5370
+Consultants des Pays Membres	13818
 Contract Amount and Method of Payment	13031
 Contract Type and Payment Schedule	12008
 Cost of Payments Survey	10901
@@ -1314,6 +1315,8 @@ Pays Bas	13325
 Pays Développé	13653,15
 Pays Effectif Pourcentage Burkina Faso	10875
 Pays Indicateur	13414
+Pays Membre De La BID Soumissionnaire	13818
+Pays Type	13804,2
 Pays When Electronic Payments Fail	9494
 Pays Zone CEMAC Cameroun République Congo	11944
 Pays de Burundi	13390

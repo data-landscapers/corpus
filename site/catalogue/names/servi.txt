@@ -1779,6 +1779,7 @@ Forensic Science Services N	12984
 Forensic Services	11188
 Forest Service KG Kilograms K-HMSF Kenya	2775
 Forestry Service Central Electricity Board Food	11332
+Formal Financial Services Nationwide	13778
 Forum Africain des Régulateurs des Services Publics	10975
 Fournisseurs des Services Financiers	11944
 Fournisseurs des Services de Radiodiffusion Sonore	13301
@@ -2144,6 +2145,7 @@ Improve the Provision of Services	11390
 Improving Public Service Design and Delivery	11133
 Improving Service Delivery	13678
 Improving Service Delivery Infrastructure	10776
+Improving Service Delivery Performance Component	13787
 Incident Management Service	11952
 Incident Management Service Provider	10721
 Incident Management Service Providers	10721
@@ -2973,6 +2975,7 @@ Number of Services	12453
 Number of Short Messages Services	2776
 Number of Short Messages Services SMS	2776
 Number of Spectrum Licenses Issued Service Class	12395
+Numérique SERVICES DE CONSULTANTS	13818
 Nursing and Midwifery Services	12606
 Nutrition and Medical Services	723
 NÍVEL DE COBERTURA DOS SERVIÇOS	12784
@@ -3250,6 +3253,7 @@ Plant Quarantine and Phytosanitary Services Department	13403
 Plataforma Nacional de Serviços Públicos Digitais	11461
 Plataforma Nacional de Serviços Públicos Digitais Artigo	11461
 Plataforma de Serviços	11555
+Plateforme Web de Services Climatiques	13783
 Plateformes CORUS BURKINA FASO SERVICE PUBLIC	9049
 Platform Imaginaries and Dutch Public Service Media	11028
 Platforms and Services	395,12952
@@ -3832,6 +3836,7 @@ SERVICES AND ADMINISTRATION	13097
 SERVICES AND PROVIDERS OF SUCH	13071
 SERVICES BY THEMBA ZWANE	9526
 SERVICES DATA	3862
+SERVICES DE CONSULTANTS	13818
 SERVICES DE PAIEMENT	10836
 SERVICES DE SANTÉ	13306
 SERVICES D’ACCOUCHEMENT	13300
@@ -4028,7 +4033,7 @@ Sereno B3 Servicio	4209
 Servers Regular Restoration Tests of Servers and Services	9123
 Servi	9399
 Servic	13325
-Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95
+Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95,39,23
 Service AI	7548
 Service APIs	6423
 Service APIs The APIs	6423
@@ -4074,6 +4079,7 @@ Service Commission PSTR Primary	2775
 Service Commission QCTO Quality Council for Trades	11198
 Service Commission TV Television TVC Technical	2775
 Service Commissions. Sections	12972
+Service Communication	13799
 Service Consumer	11952
 Service Consumers	11952
 Service Continuity	6432
@@ -4089,7 +4095,7 @@ Service Data and Innovation Open	12359
 Service Date	736
 Service Date Application No. Application License	736
 Service Declaration	5679
-Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56
+Service Delivery	970,2081,1151,7218,531,35,677,284,15,10,4,190,165,87,56,293
 Service Delivery Among	718
 Service Delivery Blueprint	13646
 Service Delivery Charters	13473
@@ -4331,7 +4337,7 @@ ServiceNow Government	6432
 ServicePublic	3604
 Serviced Land	13474
 ServicedeliveryZA Issued	11278,3
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9,53,11,23
 Services Act	7845,3706
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
@@ -4760,6 +4766,7 @@ Solid Interconnectivity Services Limited	3862
 Solutions and Services for Carrier Phones	3511
 Somalia’s National Employment Service Center	5172
 South Africa Public Service and Administration	1009
+South Africa Weather Service	13767
 South Africa's Internet Service Providers' Association	11823
 South Africa-based Fides Advisory Services	4672
 South African Community Library and Information Services	8022
@@ -4881,7 +4888,7 @@ Support Services DAFF Department of Agriculture	11261
 Supporting Essential Health Service Delivery	10829
 Supporting Essential Health Service Delivery Children	10829
 Supporting Financial Service Providers	1066
-Sushma Swaraj Institute of Foreign Service	13744
+Sushma Swaraj Institute of Foreign Service	13744,47
 Sustainable Development Goals USAF Universal Service	13346
 Sustainable Services Program	11905
 Sustainable and Reliable Electricity Services	11380

@@ -348,6 +348,7 @@ Consejero A3 Cónsul General B1 Cónsul	4209
 Consul General	4209,3606
 Consul General Adjunto	4209
 Consul General of Pakistan	13666
+Consulate General of India	13791
 Controller General Tougoud Digo Maïdé	8171
 Convenção de Genebra	10755,609,1,21
 Corporate Bodies General Meeting Board Chairman	11955
@@ -389,6 +390,7 @@ DES DISPOSITIONS GENERALES	13293
 DES DISPOSITIONS GENERALES Article	13293,414
 DES DISPOSITIONS GENERALES C Article	13293
 DES DISPOSITIONS GENERALES CHAPITRE	785,12507
+DES DISPOSITIONS GENERALES Chapitre	13781
 DES DISPOSITIONS GENERALES Section	113,13180
 DES DISPOSITIONS GENERALES4 Section	1801
 DEVELOPMENT Geneva	12786
@@ -417,6 +419,7 @@ DIRECTOR GENERAL'S FOREWORD Kenya	12256
 DIRECTORES GENERALES	4209
 DISPOSICIONES GENERALES	163
 DISPOSITIONS GENERALES	1801,9165,556
+DISPOSITIONS GENERALES ARTICLE	13809
 DISPOSITIONS GENERALES Article	436,750,3217,6563,556,45,1957,197
 DISPOSITIONS GENERALES Article1	1837
 DISPOSITIONS GENERALES CHAPITRE	10825
@@ -457,7 +460,7 @@ Deputy General Manager of ANSICE	4925
 Deputy General Manager of GTSC	3066
 Deputy General Manager of Huawei South Africa	7979
 Deputy Registrar General	13678
-Deputy Secretary General	9707
+Deputy Secretary General	9707,4085
 Development GIS of Generation Projects Petroleum Overview	12515
 Development General	7548
 Diagram Number Search Diagram General Plan	12511
@@ -485,7 +488,7 @@ Dirección General. En	9927
 Direction Generale du Budget	11794
 Director Financial Stability Director General Counsel	6938
 Director Genera	11289
-Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55,63,10
+Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55,63,10,68,1
 Director General Adjunto	4209
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Director General Adjunto Ministerio	4209
@@ -570,6 +573,7 @@ Director General of Genesis Group	3112
 Director General of Government Agencies and Companies	10455
 Director General of Guinea's National Office for Civil	5283
 Director General of Health Services	4922
+Director General of Higher Education and Scientific Research	13816
 Director General of Human Resource Management	4640
 Director General of ICA	3408
 Director General of ICT	8700
@@ -621,12 +625,13 @@ Director- General	587,7245,4222
 Director- General of RURA	718
 Directora General	12220
 Directora General de Comercio	9927
-Directorate General	1382,9472
+Directorate General	1382,9472,2898
 Directorate General and Area Chiefs	1382
 Directorate General for Environment	11905
 Directorate General for International Partnerships	6743
 Directorate General for State Assets and Pubic Procurement	11862
 Directorate General for Trade	9343
+Directorate General of Civil Security	13791
 Directorate General of Civil Status Modernisation	10828
 Directorate General of Contributions and Taxes	11939
 Directorate General of Customs	9343
@@ -722,6 +727,7 @@ European Union’s General Data Protection Regulation	2117,4246,158,3448,1227
 Europe’s General Data Protection Regulation	5463,592,4793
 Evaluating the Impact of Generative AI	11140
 Evolution of Generative Artificial Intelligence	1814
+Excellency General Shaikh Rashid	13807
 Exchequer PPRA Attorney General	7548
 Executive and Governance. The Commissioner General	10550
 Eximbank Deputy General Manager Zhu Jia	2160
@@ -882,6 +888,7 @@ GENERATION CAPACITY CATEGORISATION Given	11228
 GENERATION OF VITAL STATISTICS	12413
 GENERATION SCENARIOS AND OPTIONS	11366
 GENERATIVE ARTIFICIAL	13461
+GENERIC	13812
 GENERIC SYSTEM DESCRIPTION Global	2913
 GENERO	4209
 GENEVA	3584,9176,46
@@ -902,7 +909,7 @@ Gene Roi de Bata	4209
 GeneXpert	3385,964,8153,176,939
 Genealogicalstudieslikewisematchhistoricalre-	8606
 Genebra	10551,199,30,596,17,1437
-General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6,90,8,118,2,1,3,3,1,7,5,8,1,31,16,2,8,52,16,25,7,22,82,17,42,2,36,1,18,6,3,1,5,1,29,2,6,7,20,31,4,35,6,23,70,12,9,1,153,4
+General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6,90,8,118,2,1,3,3,1,7,5,8,1,31,16,2,8,52,16,25,7,22,82,17,42,2,36,1,18,6,3,1,5,1,29,2,6,7,20,31,4,35,6,23,70,12,9,1,153,4,58
 General Abdirahman Mohamed Turyare	10701
 General Abdourahamane Tiani	5580,306
 General Adj. B1 Cónsul General Adj	4209
@@ -948,7 +955,7 @@ General Comments	13040
 General Company for Communications and Informatics	11738
 General Complaints	6946
 General Condition of Contract Annexure K	11240
-General Conditions	10829,2208,296
+General Conditions	10829,2208,296,423
 General Conditions Applicable	11863
 General Conditions for Application	5864
 General Conditions for Credits and Grants	2474
@@ -989,6 +996,7 @@ General Director	13314
 General Director General Director General Mayor	4209
 General Director of Budget	13314
 General Director of Civil Service	969
+General Director of KULAC S.A.S	13816
 General Directorate	10812,1094
 General Directorate National Office for National Institute	10812
 General Directorate for Artificial Intelligence. Malawi	4583
@@ -1225,6 +1233,7 @@ General Secretary of Justice	10765,10
 General Secretary’s Office	10768
 General Security Requirements	13037
 General Services	5655,767
+General Shaikh Rashid	13808
 General State	1284
 General State Budget	6694
 General States of Education	11907
@@ -1293,6 +1302,7 @@ Generality	27,945,12347
 Generalización	1701
 Generalization Conflicts	12360
 Generalize	1885,10021
+Generalized Health Insurance	13770
 Generally	236,182,300,282,219,24,701,1114,103,422,1093,2405,1295,60,815,906,662,160,150,63,48,626,1,89,195,37,179,126,98,340,40,375,35,151
 Generally Accepted Accounting Practice	13420
 Generally Accepted Privacy Principles	8022
@@ -1557,6 +1567,7 @@ Inteligência Artificial Generativa	11693
 Inteligência Artificial Generativa A IA Generativa	2816
 Intelligence Unit Commission Director General	6938
 IntelligenceThe Acting Director General	11277
+Interim Secretary General of Minister of Foreign Affairs	13791
 Interior Major General Mohamed Toumba	3126
 Internally Generated Revenue	11981
 International Geneva	7857
@@ -1972,7 +1983,7 @@ SECRETARIA GENERAL-Concepto	4209
 SECRETARIA TOTAL DIRECTIVO GENERAL	4209
 SECRETARIA TOTAL GENERAL	4209
 SECRETARIAT GENERAL	12,10846
-SECRETARIAT GENERAL DU GOUVERNEMENT	234
+SECRETARIAT GENERAL DU GOUVERNEMENT	234,13584
 SECRETARIO GENERAL	4209
 SECRETARIO GENERAL ADJTO DEL CONS. SUPER	4209
 SECRETARIO GENERAL ADJTO. SENADO	4209
@@ -2001,15 +2012,18 @@ SSS BUTHELEZI DIRECTOR GENERAL HEALTH	1009
 STAE Director General	12201
 SUPPLEMENTARY AND GENERAL PROVISIONS	11177
 SWAZILAND NATIONAL CURRICULUM FRAMEWORK FOR GENERAL	12914
+Said Soule and Secretary General of Ministry of Youth	13791
 Savings PART X GENERAL PROVISIONS	12930
 Scope of Bid A. General	13185
 Search Generative Experience	13461
+Second General Census of Agriculture	13806
 Second Generation	6000
 Second Generation Terrestrial EAC East African	6946
 Second Generation of Policy Research. Washington	11310
 Secretaria Cónsul General B1	4209
 Secretaria Cónsul General B1 Secretaria Embajador	4209
 Secretariat General	7548
+Secretariat General of Comoros	13791
 Secretario Fiscalía General	4209
 Secretario General	4209,5315
 Secretario General Adjunto	4209
@@ -2037,6 +2051,7 @@ Secretary General of AFRAA	10723
 Secretary General of COMESA H.E. Mahmoud Ali	13440
 Secretary General of FAB	2773
 Secretary General of Guinea’s Ministry of Posts	3089
+Secretary General of Ministry of National Education Mr	13791
 Secretary General of The Commonwealth of Nations	1353
 Secretary General-elect	7793,157
 Secretary General-elect Engr. Kezias Kazuba Mwale	7884
@@ -2088,6 +2103,7 @@ State Information Technology Agency General Regulation	11184
 State Minister for General Duties	8352
 State Minister of General Education and Instruction	8940
 State Owned Enterprises SG Statistician General	11192
+State. The Generalized Health Insurance Support	13770
 Statistician General	2360,1459,5889,1470,23,88,1241,21,20,68,260,3,441,211,24
 Statistician General Alex Shimuafeni	8005
 Statistician General Nyakassi Sanyang	8459

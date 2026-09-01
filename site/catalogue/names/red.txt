@@ -85,7 +85,7 @@ Digitalization and Expected Reduction	10718
 Director Poverty Reduction and Social Protection Division	12980
 Disadvantaged People Reducing	1988
 Disaster Reduction and Recovery Government of Angola	10763
-Disaster Risk Reduction	970,10450,1359,198
+Disaster Risk Reduction	970,10450,1359,198,790
 Disaster Risk Reduction Master Plan	12206
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
@@ -146,7 +146,7 @@ Global Facility for Disaster Reduction and Recovery	10763,1395
 Global Refugee Forum GRS Grievance Redress	1867
 Governance REDISSE IV Regional Disease Surveillance	10829
 Grievance Redress	2889,9293
-Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60
+Grievance Redress Mechanism	1264,20,583,121,1001,7774,200,892,69,296,33,82,643,12,64,278,60,400
 Grievance Redress Mechanism Beneficiaries	12182
 Grievance Redress Mechanism Ensure	12253
 Grievance Redress Mechanism GPE Internally Displaced	11905
@@ -636,7 +636,8 @@ Secção de Sistemas de Redes	11382
 Segurança de Redes de Comunicação de Dados	6970
 Sem Sinal de Rede	11556
 Sendai Declaration and Framework for Disaster Risk Reduction	13295
-Sendai Framework for Disaster Risk Reduction	8370,2913,1496
+Sendai Framework for Disaster Risk Reduction	8370,2913,1496,997
+Sendai Framework for Disaster Risk Reduction for Comoros	13776
 Sistemas de Informação SECÇÃO I Segurança de Redes	6970
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
 Social Services and Poverty Reduction	13295
@@ -667,6 +668,7 @@ TÍTULO II OFERTA DE REDES	11430
 UV Bi-fluor Red	2675
 Uma Redefinição	2816
 Underspent Red	12971
+United Nations Office for Disaster Risk Reduction	13767,9
 Uproar Over Reduced Matabeleland Mobile Voter	9399
 Urawa Red Diamonds	7032
 Urban Poverty Reduction Programme	10763

@@ -135,7 +135,7 @@ Partenaires	737,310,1295,713,1917,2382,1364,920,1203,33,2,99,969,1356,1,5,58,69,
 Partenaires Techniques	2971,7741,162,2,89,979,1362,19
 Partenaires Techniques Financiers RAR Restes	10712
 Partenaires de Nom	13433
-Partenariat	643,340,235,1182,76,490,390,302,2617,145,35,206,507,971,24,33,191,1019,504,926,38,878,42,1507,23
+Partenariat	643,340,235,1182,76,490,390,302,2617,145,35,206,507,971,24,33,191,1019,504,926,38,878,42,1507,23,441
 Partenariat Gabon-Visa	3311
 Partenariat Global	1218
 Partenariat Mondial	13732
@@ -143,7 +143,7 @@ Partenariat Public Privé	643,12790
 Partenariat Public-Privé	2602,2689,6721,1421
 Partenariat SDEVT	10975
 Partenariat UE	13325
-Partenariats	1189,29,2725,4326,368,184,2046,7,1070,1356,25
+Partenariats	1189,29,2725,4326,368,184,2046,7,1070,1356,25,436
 Partenariats Public-Privé	10975
 Partenariats SNFI	10965
 Partes	576,616,946,9234,41,142,1307

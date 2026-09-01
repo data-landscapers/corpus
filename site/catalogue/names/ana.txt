@@ -21,17 +21,18 @@ ANA Exemplars Matric Results Research EMIS	11220
 ANAB SUP	8420
 ANABH	7670,651
 ANACIM	7640
-ANACM	13729
+ANACM	13729,23,61
 ANACOM	5404,6127,38
 ANACONDA. Melbourne	12413
 ANACOOP	9174,336,4180
 ANACoD	12367,46
 ANACoD3	7838,4575
 ANADEC	8901
-ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315,517,4841,1,3,6,3
+ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315,517,4841,1,3,6,3,22,54,1,10
 ANADEN Agence Nationale de Développement Numérique	13725
 ANADEN INFORMATION	743
 ANADEN Monsieur Chamsoudini MZAOUIYANI	13728
+ANADEN URL	13753
 ANADEN Vous	743
 ANADEN of UA	5370
 ANADEN's DG	324
@@ -70,6 +71,7 @@ ANALYTICAL FRAMEWORK FOR NEGOTIATING DATA PROVISIONS	1243
 ANALYTICS	11231
 ANALYTICS LTD Data Controller INST-9946019CD55 NAIROBI	7167
 ANALYTICS LTD Data Processor INST-9946019CD55 NAIROBI	7167
+ANAMEV	13791
 ANAMM	1808,626,6969
 ANAMSSA	13329
 ANAMULENGE ONESI ETAYI OGONGO OTAMANZI	13025
@@ -177,12 +179,13 @@ Analogue Digital Back Haul	736
 Analogue Terrestrial Television	236
 Analysability	5665
 Analysant	4383
-Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150
+Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37,52,10,213,855,994,253,11,12,12,16,49,43,9,26,43,7,150,115
 Analyse CAPEX	12043
 Analyse Economique	10975
 Analyse FFOM Calendrier	13341
 Analyse FFOM I.1.2 Identification	13341
 Analyse Stratégique Economique	6578
+Analyse des Défis de Transmission des Données	13783
 Analyse des Marchés	998
 Analyse des Systèmes	13349
 Analyse des Systèmes Educatifs	11905,1407,2
@@ -775,6 +778,7 @@ Mastercard-commissioned Genesis Analytics	9896
 Mathesis Analytics	7415
 Migration Information and Data Analysis System	7048
 Minister Anand	9043,232,44
+MoH and ANACM	13813
 Mobility and Data Analytics Mobility and Data Analytics	11854
 Modifier. ANADEN	13719
 Monetary Policy Forecasting and Analysis	11906
@@ -1014,7 +1018,7 @@ UNHCR Gap Analysis	1867
 UPDATED SITUATIONAL ANALYSIS	5533,6453
 UPDATED SITUATIONAL ANALYSIS Despite	5533
 Undertook Comparable Company Analysis	4896
-Unit of Analysis	10862,2222
+Unit of Analysis	10862,2222,675
 Universal Access and Gap Analysis	1433,317
 Universal Access and Gap Analysis Report	1433
 Upanzi Network The Policy Analyzer	9618

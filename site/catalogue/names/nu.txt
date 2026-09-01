@@ -15,6 +15,7 @@ ABUHU REYRA NURSING HOME LIMITED Data	7167
 ADHIBOHOL NURSING HOME LIMITED Data Controller	7167
 AFW Health Nutrition and Population Strategy22 and M300	3604
 AFYA NURSING HOME LIMITED Data Processor	7167
+AGENCE NATIONALE DE DEVELOPPEMENT DU NUMERIQUE	13818
 AI Number	7548
 AI and Emerging Technologies A2- Number	7548
 AI and Number	7548
@@ -72,7 +73,7 @@ African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 Afrique... Numérique	3658,2617,145
 Agence National de Développement du Numérique	13717
-Agence Nationale de Développement du Numérique	5370,8348,1,3,6
+Agence Nationale de Développement du Numérique	5370,8348,1,3,6,90
 Agence Nationale des Infrastructures Numériques	2961,3818,23,3033
 Agence Numérique	1218
 Agence de Développement Numérique	4092
@@ -304,6 +305,7 @@ DAWIDA MATERNITY AND NURSING HOME Data	7167
 DAY TO DAY NURSING HOME LIMITED	7167
 DE DENÚNCIAS NA CONTRATAÇÃO PÚBLICA Num	12798
 DE FREQUÊNCIAS E NUMERAÇÃO	11430
+DE LA COMMUNICATION AUDIOVISUELLE ET NUMERIQUE	13781
 DE LA SECURITE DES INFRASTRUTURES NUMERIQUE	13719
 DE LA TRANSFORMATION NUMERIQUE DE L’ADMINISTRATION	10966
 DE LAS EMBAJADAS Y CONSULADOS Num	4209
@@ -443,6 +445,7 @@ Electronic Records and Number	12453
 Elizette Nujoma-Kaiyamo	13183
 Email Address Email Mobile Number	736
 Email L’Agenda de Transformation Numérique	2439
+Emergency Consular Number	13791
 Emergency Number After NEC Approval	7110
 Emerging Framework. Technologies Fluency A2- Number	7548
 Emerging Number	7548
@@ -559,6 +562,7 @@ Guidelines for Street Naming and Property Numbering	11129
 H.E. Dr. Sam Nujoma and H.E. Dr	12984
 HHs Number of HHs	12358
 HOUSEHOLD NUMBER	582
+HZK-LGDC Le Technopole Numérique	13811
 Hassan Nura	9645
 Head Nurse	11892,436
 Head Nurses	11892
@@ -681,7 +685,7 @@ Koeberg Nuclear	5808,161,155,59,875,21
 Koeberg Nuclear Power Station. Programme	11272
 Kommunikation GmbH Nubelco Software S.L Nubelco	8530
 L'AGENT DE TERRAIN INSCRIVEZ VOTRE NUMÉRO	13300
-L'Agence Nationale de Développement du Numérique	13719
+L'Agence Nationale de Développement du Numérique	13719,34
 L'Agence Nationale des Infrastructures Numériques	3581
 L'ENTREPRENEURIAT NUMERIQUE Dans	2695
 L'INITIATIVE DU MINISTERE DE L'ECONOMIE NUMERIQUE	7470
@@ -698,6 +702,7 @@ LES FESSES AVEC MAINS NUES	13300
 LIGIBLES DANS Q.153. ENREGISTREZ LE NUMÉRO	13300
 LOAN NUMBER	1914
 La Composante Numérisation	13635
+La Télévision Numérique Terrestre	13781
 Laboratory Accreditation Number	13068
 Labour Market Number	6832
 Lack of Unique Identifying Number	13005
@@ -1401,12 +1406,13 @@ Numerousstudiesreportapersistentgapbetweenthestrategicas-	8602
 Numida	2676,2296
 Numious Kiti	7990
 Numoro	7165
-Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50
+Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50,53,42
 Numérique Augustin Kibassa Maliba	2602
 Numérique Burkina Faso Smartphone SNC BOBO	9993
 Numérique Date	10519
 Numérique Par La Rédaction	5748
 Numérique Responsable. Organisée	11687
+Numérique SERVICES DE CONSULTANTS	13818
 Numérique Samba Diouf	10367
 Numérique du Bénin	3100
 Numérique. Beaugas Orain DJOYUM	3658,2617,145
@@ -1862,6 +1868,10 @@ Taxpayer Identification Identification Number for NIL NIL	6921
 Taxpayer Identification Number	4449,2472,4940,488,103,601,196,357,78
 Taxpayer Identification Number Registration	12349
 Taxpayer Identification Numbers	2744,9885,977
+Technopole Numérique	13811
+Technopole Numérique des Comores	13775
+Technopole Numérique. Aticki Ahmed Ismael	13811
+Technopole Numérique. Rappelant	13811
 Telecommunications Regulatory Board. Nuvaga	1696
 Telephone Number	1263,515,3118,6965,539,1061,1
 Telephone Number CERT-GH	775
@@ -1898,12 +1908,12 @@ Transition Numérique	1044,137,138,1,1,277,445,1,1,1,372,299,91,123,114,151,206,
 Treasury Circular Number	13420
 Trees Planted Number of Trees Planted Staff	6946
 Type of Serial Number of Equipment Equipment Vehicle	736
-Télévision Numérique Terrestre	3224,10077
+Télévision Numérique Terrestre	3224,10077,480
 UIN Unique Identification Number UNICEF United	13681
 UNAM. RESOLUTION NUMBER	12912
 UNDERUTILIZED LAND AND RESOLUTION NUMBER	12912
 USG Nurses Pharmacy Technicians G2Gsupported Frontline	4260
-Un Numéro	10813
+Un Numéro	10813,2996
 Undertake ICT Number	12453
 Une Infrastructure Publique Numérique	13530
 Unified Citizen Number	10775

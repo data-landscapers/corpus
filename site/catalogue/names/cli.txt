@@ -348,11 +348,11 @@ ClimSA Programme	12988
 ClimSA Programme Coordinator	11283
 ClimSA Satellite System Upgrade	12988
 ClimStation	11420
-ClimWeb	11420
+ClimWeb	11420,2363
 Clima	1701,1115,232,1663,36,1071,200,5372
 Clima de Trabalho Esta	2816
 Climat	1005,9606,101,162,2386,159
-Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58
+Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4,93,1,167,3,2,79,117,24,61,52,80,11,29,132,142,42,101,152,17,269,60,436,45,75,40,11,12,40,168,1,34,108,58,281,11
 Climate ASAP. FarmDrive	11994
 Climate Action	1131,6271,4184,27,242,303,218,235
 Climate Action Goal	11332
@@ -460,6 +460,7 @@ Climate Risk Management	11134,2340
 Climate Risk Management Guidelines	11134
 Climate Risk Management and Recovery Planning Guidelines	8377
 Climate Risk Profile	6539
+Climate Risk and Early Warning Systems	13767
 Climate Risk and Insurance	7334
 Climate Safeguards Category	11863
 Climate Scientist GIS	520
@@ -501,9 +502,11 @@ Climate-Resilient AI Governance Zimbabwe’s AI	4528
 Climate-Resilient Agriculture	1867
 Climate-Resilient Community Infrastructure	1867
 Climate-Resilient Mining	13474
+Climate-Resilient WASH Infrastructure Component	13787
 Climate-Smart Agriculture	12614,860
 Climate-Smart Education Systems Initiative	12504
 Climate-development	800
+Climate-informed	13813
 Climate-related	10763,200,1,941,1026
 Climate-resilience	1264
 Climate-resilient	3861,185
@@ -592,6 +595,8 @@ Clive L. Kavendjii	13133
 Clive Nabale	6484
 Clive Thomson	10212
 Common Internet File System CLI Command	13185
+Comoros Climate Risk Country Profile	13813
+Comoros DHIS2 Climate	13813
 Component CIF Climate Investment Fund COVID19	11549
 Component Climate Hazards Group InfraRed Precipitation	10763
 Comprehensive Planning and Climate Resilience	12399
@@ -625,10 +630,10 @@ DERMALLURE SKIN CLINIC LLP Data Controller	7167
 DERMALLURE SKIN CLINIC LLP Data Processor	7167
 DERMENT ENT AND SKIN CLINIC LIMITED	7167
 DESTINY OF HOPE MEDICAL CLINIC Data	7167
-DHIS2 Climate	11589,1532
-DHIS2 Climate App	11589
+DHIS2 Climate	11589,1532,692
+DHIS2 Climate App	11589,2224
 DHIS2 and Open Clinic	13312,2
-DHIS2 for Climate	11589
+DHIS2 for Climate	11589,2224
 DHIS2. Open Clinic	13314
 DIAGNOSTIC CLINIC LIMITED Data Controller INST-33089544473	7167
 DIARIES DENTAL CLINIC LTD Data Controller	7167
@@ -755,7 +760,7 @@ Governance and Climate Resilience	11134
 Governor Dr. Irungu Kang'ata. Clinical	6394
 Grain and Right Click Solutions B.V	11096
 Greater Horn of Africa Climate Outlook	9766
-Green Climate Fund	970,18,4259,3773,506,822,755,229,281,44,534,362,403,137,30,242
+Green Climate Fund	970,18,4259,3773,506,822,755,229,281,44,534,362,403,137,30,242,387
 Green Climate Fund GDP Gross Domestic	11549
 Green Economy and Climate Change Act	5247,4146
 Group Head of Client Coverage	3056
@@ -927,6 +932,7 @@ Peer-Learning Country Clinics	7963
 Per Diem Climate Change and International	1988
 Petty-trading Clinic	11857
 Philip Muturi Mwawingwa Gituri Clinic	7167
+Plateforme Web de Services Climatiques	13783
 Policy for Mozambique Client	3058
 Politicisation of Climate Policy	13532
 Population CLIMATE Climate Change and Disaster Screening	11417
@@ -1008,6 +1014,7 @@ Small and Medium-Sized Enterprises and Clients	10718
 Smart Click Africa	3658,2617,145,3959,2,310,2792
 Solid Waste Management and Climate Change Ministry	11332
 South Africa's Data Centre Expansion Climate	9682
+South West Indian Ocean Climate Outlook	13767
 Southern African Climate Outlook Forum	8006
 Southern African Regional Climate Outlook Forum	12918
 Southern African Science Service Centre for Climate	11407
@@ -1020,6 +1027,7 @@ Statelessness and Climate Change Factsheet	1867
 Strenghtening Climate Resilience	8891
 Strengthen Climate Change Information Integrity	11011
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
+Strengthening Comoros Resilience Against Climate Change	13813
 Strengthening Early Warning Systems and Climate Services	13207
 Strengthening of Early Warning Systems and Climate Services	7030
 Study Area and Climate Pattern	12614
@@ -1052,6 +1060,7 @@ Transport CLIMATE Climate Change and Disaster Screening	1867
 Tsetse Clinic	11980
 U.S. Institutions Exiting Climate Coalitions	13532
 UN General Assembly and Climate Week	13101
+UNDP Climate Change Adaptation URL	13752
 UNEP Copenhagen Climate Center	9424
 UNEP Copenhagen Climate Centre	5247,4146
 UNEP Copenhagen Climate Centre and GFA Consulting	9393
@@ -1082,7 +1091,7 @@ Water and Energy Nexus for Climate Change Adaptation	12977
 Weakening of Global Climate Risk Coordination Loss	13532
 Weather and Climate	10584
 Weather and Climate Information Services	13201
-Wellcome-funded DHIS2 for Climate	11589
+Wellcome-funded DHIS2 for Climate	11589,2224
 World Bank Angola Country Climate Development	10763
 World Bank Client Connection. Figure	10768
 World Bank Climate Change Action Plan	13331

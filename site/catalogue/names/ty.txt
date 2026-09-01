@@ -7,6 +7,7 @@ AU-IPED Document Type	12052
 AUTRE TYPE	13300
 Account Number Type	11685
 Account Type	11685
+Actif Notice Type	13818
 Additional Financing Type	11965
 Address Types	11129
 African Union Document Type AU-EU Space	11283
@@ -78,6 +79,7 @@ Director of Tymstar Motors Limited	6946
 Distribution of Types of TV Services	2776
 Document Feeder Type Autoload Cables Included	34
 Document Type	4342,7842,1485
+Dossier Type	13771
 DÉTERMINER LE TYPE D'ENDROIT. ET CONSEIL	13300
 EEC Tariff Structure Non-TOU Tariffs Type	12394
 EQUIPMENT TYPE APPROVAL Type	12395
@@ -113,6 +115,7 @@ HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
 Health Tygerberg Central Hospital	11248
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
+Hurricane and Typhoon	13776
 ICSE-18 Type	11296
 ID Scope System Type Binary	7221
 ID. TymeBank	4772
@@ -155,6 +158,8 @@ Media Type	1009
 Message Type	11276
 Message Type PAFEN	13452
 Message Type TTC Types MT298 SMT	12364
+Mini-réseaux de Type B	13809
+Mini-réseaux de Type C	13809
 Ministère Types	13442
 Mitigation Measures Responsible Party Type	1988
 Mitigation Measures Responsible Party Type Buildings	1988
@@ -196,6 +201,7 @@ PROVIDER TYPE	10861
 PSPs Scope System Type Binary Indicates	7221
 Participant Type	12364
 Payment Type	13621
+Pays Type	13804,2
 Percentage Contribution Type of Asset	2775
 Performance Test Types Implement	11952
 Phillip Moris Project Type	12977
@@ -305,11 +311,13 @@ Tax Type Taxpayer	13053
 Tax Types	11276
 Technology Type Airtel Africa	4442
 Technology Type Vodacom	4442
+Tender Type	13818
 Thoroughfare Type District	11129
 Training Plan for Contractor Workers Type of Training	12253
 Transaction Type A Code	12364
 Transaction Type Codes	12364
 Transaction Types	11861
+Transformation Digital Terminé Type	13783
 Ty Personal	5113
 Tyco International	4676
 Tyco Telecommunications	3782
@@ -344,6 +352,7 @@ Type Approval Regulations	11573
 Type Approval and Distribution	8916
 Type Approval and Equipment Clearance	6946
 Type Billion Birr	5655
+Type C	13809
 Type Code	12360
 Type Description Effectiveness	11855
 Type Ecosystem Subscriptions	12395

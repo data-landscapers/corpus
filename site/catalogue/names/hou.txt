@@ -375,7 +375,7 @@ Housed	12138,43
 Housegirls	12227
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45,447,90,152,75,45,55,2,38,10,20,95,80,169,176,33,6,2,14,76,69,260,149,116,156
 Household Access	3641
 Household Affordability	12399
 Household Budget Survey	9252,1884
@@ -396,6 +396,7 @@ Household Impact	10964
 Household Income	10841,2121
 Household Income and Expenditure Survey	31,11824,470,614
 Household Income and Expenditure Survey. Data	12962
+Household Living Conditions	13804
 Household Living Conditions Surveys	11581
 Household Living Conditions and Poverty	10841
 Household Master Sample Frame PAGE	2775
@@ -408,7 +409,7 @@ Household Size	12978
 Household Size Household Size Observations Mean	12978
 Household Size and Average Area Per Person	2775
 Household Size and Tenure-ship	2775
-Household Survey	582,12092,410
+Household Survey	582,12092,410,675
 Household Survey Programme	11289
 Household Survey Programme Redesign	11341
 Household Surveys	970,2671
@@ -419,7 +420,7 @@ Household Wealth	13454
 Household and Individual ICT Access and Usage Across	12325
 Household-level	11156,1501
 Household. ICT	12403
-Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38,555,24,45,234,75,28,72,11,14,15,10,16,4,26,7,4,516,7,1,13,1,354,15,2,183,272
 Households Affected	12977
 Households Benefited	12977
 Households City Number	12978
@@ -576,7 +577,7 @@ M. Jean Robert Hountomey	3341
 MAP AND IDENTIFY POOR HOUSEHOLDS	11133
 MEASURING HOUSEHOLD EXPENDITURE ON ICT SERVICES	11424
 MINISTRY OF HOUSING AND URBAN	13126
-MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342
+MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342,9429
 MOTION BUSINESS OF THE HOUSE HON	13591
 MSP Houses of Public Service	3604
 MTN House	6242,1249

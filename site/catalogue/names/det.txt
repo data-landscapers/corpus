@@ -95,6 +95,7 @@ DETAILS OF THE HEALTH DATA CONTROLLER	2709
 DETAILS OF THE REQUESTER	2709
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
+DETAILS World Bank Group Financing	13787
 DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792,1551
 DETAILS-NewFinEnh1	13331
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
@@ -263,7 +264,7 @@ Deterministic Frontier Using Data Envelopment Analysis	1828
 Deterrence and Self-Enforcement	12948
 Detetar	11527
 Deteção	11376
-Dette	4420,5005,1550,605
+Dette	4420,5005,1550,605,2192
 Dette Publique Ministère	10708
 Dette Publique Ministère des Finances Guinée Bissau	10708
 Dette du Trésor	7655

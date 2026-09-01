@@ -702,6 +702,7 @@ Department of Economic Planning and Development	12197,781,166
 Department of Economic Statistics	12445
 Department of Economic Statistics EC	12445
 Department of Economic and Social Affairs	10714,126,629,682,1180
+Department of Economic and Social Affairs Statistics Custom	13824
 Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
 Department of Economics	5700,3649,185
@@ -896,7 +897,7 @@ Department of Social Welfare and Development	11133
 Department of Social Welfare and Royal Eswatini Police	12977
 Department of Social Welfare. Any	13332
 Department of Special Education	12661
-Department of State	4165,1527,1084,4229,999
+Department of State	4165,1527,1084,4229,999,1750
 Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Security	11277
@@ -1009,6 +1010,7 @@ Department’s Strategic Ministerial Projects	11281
 Department’s Strategic Plan	5533
 Department’s Youth Forum	5533
 Departure Processing of Consignments	13042
+Departures	13769
 Depend	1988
 Dependability	8021
 DependabilityThe	7278
@@ -1169,7 +1171,7 @@ Depth Pan-African	4030
 Depth Research	4776
 Depth The Secretary General	5878
 Depto de Fiscalização da Divisão de Regulação	2784
-Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42,476,56,60,76,34,126,184,1162,10,25,35,4,26,38,14,63,25,1,34,3,67,67
+Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42,476,56,60,76,34,126,184,1162,10,25,35,4,26,38,14,63,25,1,34,3,67,67,66,52
 Deputada Joana Lina Ramos Baptista	11365
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Deputada Maria de Lourdes Roque Caposso Fernandes	539
@@ -1229,6 +1231,7 @@ Deputy Chief Nursing Officer	12972
 Deputy Chief Secretary	10736
 Deputy Chief Secretary for Finance	13699
 Deputy Chief State Advocate	13466
+Deputy Chief of Office	13776
 Deputy Chief of Staff	1014,2676,4356,195,128,2,1359,520
 Deputy Commissioner	3360,7929,1260,105,581
 Deputy Commissioner General	3583,5570,2821
@@ -1281,6 +1284,7 @@ Deputy Director of Public Health	13022
 Deputy Director of Rosmolodyozh	7515
 Deputy Director of SERAP	11100
 Deputy Director of Space Affairs for Global Partnerships	6897
+Deputy Director of University Cooperation	13816
 Deputy Director-Fintech and Innovation	11134
 Deputy Director-General	396,2331,3825,191,371,492,640,1153,135,1096,555,59,21,24,697
 Deputy Director-General for Innovation	11288
@@ -1472,7 +1476,7 @@ Deputy Resident Representative Nana Chinbuah	8343
 Deputy Resident Representative for UNDP Malawi	13280
 Deputy SRSG	4280
 Deputy Secretary	7432,20,4405,1647,138
-Deputy Secretary General	9707
+Deputy Secretary General	9707,4085
 Deputy Secretary of State Christopher Landau and AUC	4787
 Deputy Secretary of State Kurt Campbell	2285
 Deputy Secretary of State for Management and Resources	11005
@@ -1627,6 +1631,7 @@ Fiber Backbone Deployment	1264
 FinTech and Innovation Department	3870,3070
 Finance Department	9124,313,3924
 Finance GIMPA Law School Dept. Faculty	10123
+Finance and Banking Department	13791
 Financial Conduct Supervision Department	13532
 Financial Conduct Supervision Department PAUSE	13532
 Financial Intelligence Unit Nigerian Deposit Insurance	6938
@@ -1668,6 +1673,7 @@ G Deployment Modes	5675
 G Deployment and Policy Framework	5675
 G Deployment and Policy Framework Working Group	5675
 G. The UN Department of Economic and Social	2383
+G.I.S Department	13777
 GAMCEL. Deployment	7195
 GED Government Education Department GCMS Gas	13420
 GENERAL NOTICE DEPARTMENT OF HOME AFFAIRS	12047
@@ -1745,6 +1751,7 @@ Head of Department Ernest Mohlahlo	11273
 Head of Department of Infrastructure Chantal Smith. Minister	8564
 Head of Departments	12699,271
 Head of Economic Assessment and Public Policy Department	11149
+Head of Maritime Safety and Security Department	13791
 Heads of Department	11241
 Heads of Departments	2933,9764,203,36,36,338
 Heads of Education Departments Committee	11220
@@ -2539,6 +2546,7 @@ U.S. Department of Health and Human Services. Empowering	10641
 U.S. Department of State	4164,1,2,45,5,5,38,6,35,27,30,884,110,198,1347,37,253,243,3411,1068
 U.S. Department of State and Ethiopia. All	4349
 U.S. Department of State and Liberia. All	4202
+U.S. Department of State's Bureau of International Narcotics	13754
 U.S. Department of State. Health	7187
 U.S. Department of War	5287
 U.S. Department ofState	4153
@@ -2609,6 +2617,7 @@ Victoria Falls International Financial Services Department	13559
 Virtual Assets Department	8697
 Visitor Departures	2775
 Vulnerable Demographics Dependency	10763
+WHES WHES Deploys	13795
 WRITTEN RESPONSES The Department of Home Affairs	11285
 Water Department Loses Ksh.22 Billion	2428
 Watson Chandira Deput Head	13392

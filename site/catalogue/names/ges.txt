@@ -84,6 +84,7 @@ Directrizes de Gestão de Riscos	6462
 ET DE GESTION DES RISQUES	2342
 EU's GESTDOC	4415,1,1,1
 Economia. Gestão	11898
+Electricité. Gestionnaire	13809
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
 Entidade Gestora	10783,660
 Entidade Gestora Protecção Social Obrigatória	11433
@@ -113,6 +114,7 @@ GESIMPOT	11906
 GESTDOC	6530,41,4994,1
 GESTDOC. Da Guiné-Bissau	11566
 GESTION	2959,7853
+GESTION ARTICLE	13809
 GESTION DES CRISES	10906
 GESTION DES RISQUES	2342,11126
 GESTION DES RISQUES Les Infrastructures des Marchés	13468
@@ -201,7 +203,7 @@ Gestion du Réseau	10975
 Gestion du Réseau de Transport	10975
 Gestion du Réseau de Transport. Elle	10975
 Gestionar	1701
-Gestionnaire	747,1,1236,5686,2862,443,2385,15
+Gestionnaire	747,1,1236,5686,2862,443,2385,15,434
 Gestionnaire de Données	747
 Gestionnaire de Nom	747
 Gestionnaire des Ressources	8237
@@ -340,6 +342,7 @@ La Gestion Axée	10712
 La Gestion des Matériels Assisté	13341
 La Société de Gestion des Stocks	2342
 Le Contrôle de Gestion	10975
+Le Gestionnaire	13809
 Lei. II. Na Gestão da Dívida Pública	12796
 Les Comités Techniques de Gestion de Programmes	10712
 Les Gestionnaires	748
@@ -540,12 +543,13 @@ Unidades de Gestão	10752
 Unidades de Gestão Provinciais	10752
 Union GIZ Deutsche Gesellschaft	13042
 Unit of Account UGPE Unidade de Gestão de Projetos	11863
+Unité Technique de Gestion	13770
 Unité de Gestion Composantes du PAFEN	13338
 Unité de Gestion de Projet	3715
 Unité de Gestion des Projets Filets Sociaux	13737
 Unité de Gestion des Réformes des Institutions Financières	11944
 Unité de Gestion du PEAPPJF	13630
-Unité de Gestion du Projet	4342,898,6803,1512
+Unité de Gestion du Projet	4342,898,6803,1512,216
 Unité de Gestion du Projet Moroni	3715
 Unité de Gestion du Projet PAEBC	8507
 Unité de Gestion du Projet PEAPPJF	13630

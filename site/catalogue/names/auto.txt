@@ -248,6 +248,8 @@ AutomotiveRamaphosa	7253
 Automóvel de São Vicente	5476
 Autonome	10964
 Autonome de Gestion des Dettes CCE	10876
+Autonomes	13772,9
+Autonomes. Article	13781
 Autonomia	167,11192,1411
 Autonomia Administrativa	10752
 Autonomia Administrativa E DOS DIREITOS HUMANOS	10752
@@ -286,6 +288,9 @@ Autopax Limited Data Processor INST-612415FD98A NAIROBI	7167
 Autopilot	5482,1016
 Autopilots	5482
 Autopista Bata-Mongomo Akurenam	4209
+Autoproducteur	13809
+Autoproduction	13809
+Autoproduction. Efficacité	13809
 Autopsy	12367
 Autor	1526,1290,7964,664,19
 Autoregressive	236
@@ -357,7 +362,7 @@ Autoridades de Comunicação da Língua Portuguesa	11531
 Autoridades de Polícia Criminal	539
 Autoridades de Proteção de Dados Pessoais	3079
 Autoridades de Proteção de Dados de Angola	3079
-Autorisation	37,3344,4940,2500,15,40,2557,154,1
+Autorisation	37,3344,4940,2500,15,40,2557,154,1,221
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
 Autorisations	3356,40,155,7270,2480
@@ -368,7 +373,7 @@ Autorisez-vous	13300
 Autorisé	10975
 Autorit	13461,1
 Autoriteit Persoonsgegevens	8436
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24
 Autorité Administrative	9565
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Camerounaise	3233
@@ -383,7 +388,7 @@ Autorité Nationale	1231,517,618,2036
 Autorité Nationale de Cybersécurité	4255,2894
 Autorité Nationale de Cybersécurité. L'ANC	7149
 Autorité Nationale de Régulation des TIC	13716
-Autorité Nationale de Régulation des Technologies	13722
+Autorité Nationale de Régulation des Technologies	13722,59
 Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366
 Autorité Rwandaise	1214
@@ -400,6 +405,7 @@ Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de Protection. Article	1231
 Autorité de RégulatiDn des Communications Electroniques	37
 Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342
+Autorité de Régulation CHAPITRE	13781
 Autorité de Régulation Multisectorielle de Djibouti	4402
 Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des CCDB Marchés Publics	11905
@@ -444,6 +450,7 @@ Autorização de Abertura de Crédito Adicional Suplementar	3607
 Autorização de Comercialização	11428
 Autorização de Fatura Normalizada Número	11532
 Autorizo	11569
+Autorégulation	13781
 Autos de Declaração	11452
 Autosaisine Défavorable	10821
 Autoscaling	13676
@@ -486,6 +493,7 @@ Cardbased Point of Sale and Card-based Automated Teller	11131
 Cassava Autonomous Network	5266,173
 Cassava Autonomous Network for MNOs	5439
 Cassava Autonomous Networks	5266
+Chargeur Automatisé de Données	13783
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
 Classification Boundaries Automatic Class A Classification	5665
 Combined Auto Services Ltd Data Controller	7167
@@ -599,12 +607,14 @@ INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 IV.3.1.2 Automatisation	10711
 Improving Substations System Automation and Security	12358
 Independent Autonomous Authority AI Artificial Intelligence	13731
+Information de Communication. Autorisation	13781
 Informational Autonomy	11956
 Integration Platform ASYPM Automated System for Performance	13042
 Intelligent Hyper Automation	8974,392
 Internet da Autoridade Reguladora	2866
 Introduction of Autofill	12041
 Introduction of E-Query and Automated Shift Management	13053
+J Autonomes	13781
 Judiciary Automation Project	6946
 KTP Kartu Tanda Penduduk ATM Automated	11994
 Kenya Verbal Autopsy Standards	10822

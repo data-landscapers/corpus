@@ -222,7 +222,7 @@ Administratiewe Liggame	11255
 Administratif	7993,3604,1704,141
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1,60
 Administration 2018-2021	13341
 Administration Act	6921
 Administration All	11230
@@ -276,7 +276,7 @@ Administration Personnalisée du MCTIT	13500
 Administration Personnalisée du MCTIT PAR	13500
 Administration Programme	5533
 Administration Publique	1281,1554,125,1442,9185
-Administration Publique Comorienne	5370
+Administration Publique Comorienne	5370,8448
 Administration Publique Sous le Haut Patronage du Président	2960
 Administration Publique. SECTION TI	13719
 Administration Q.6.Combien	13390
@@ -644,6 +644,7 @@ Cabinet for Administration Oliver Kalabo. Mr Kangwa	13642
 Cadastre Portal Zimbabwe Modernising Land Administration	12511
 Cadastre Portal Zimbabwe Sustainable Land Administration	12511
 Cahier des Clauses Administratives	4342
+Cahier des Clauses Administratives Générales	13771
 Cahier des Clauses Administratives Particulières	13524
 Cameroon Customs Administration	8167,332
 Cameroonian Tax Administration	10984
@@ -781,6 +782,7 @@ DEPARTMENT OF COMMERCE International Trade Administration	5773
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
 DES SANCTIONS ADMINISTRATIVES Article	13709
 DG Territorial Admin	3294
+DISPOSITIONS ADMINISTRATIVES ET PENALES CHAPITRE	13781
 DJAA Koffi Antoine FAITS MARQUANTS Adm	2342
 DJOHAN Gerard Adm MCI	2342
 DOCUMENTS ADMINISTRATIFS Section	113
@@ -1143,6 +1145,7 @@ LEY SEC. SECCION ADMINISTRATIVA	4209
 LIST OF ACRONYMS ADM Architecture Development	1009
 La Administración Pública	1701
 La Direction des Affaires Administratives	10975
+La Section Administrative	13781
 Labour Court and Administrative Court	13619
 Land Administration	888,10373,2213
 Land Administration Authority	12645,38,3,17

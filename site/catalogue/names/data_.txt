@@ -6,6 +6,7 @@ A- Updated Data Centre and Hosting B2-	7548
 A-PLAN INSURANCE BROKERS LIMITED Data Controller	7167
 A. Basic Project Data	12426
 A. Basic Project Data P175363 Adaptive	10963
+A. Basic Project Data Project	13793
 A. Data	13039
 A.M.S. INSURANCE BROKERS LIMITED Data Controller	7167
 A.M.S. INSURANCE BROKERS LIMITED Data Processor	7167
@@ -3385,6 +3386,7 @@ Communication of Personal Data Breach To Data	12185
 Communications Authority Data	7548
 Communications Commission NDPA Nigeria Data Protection	11952
 Community Health Data Systems Africa Rockefeller	392
+Comoros Using DHIS2 Data	13805
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
 Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
 Company Limited Data Processor INST-957624ED452 NAIROBI	7167
@@ -4372,7 +4374,7 @@ Data Catalogue	12768
 Data Categorisation	13063,417
 Data Categorisation and Sharing Framework	4123,8940,417
 Data Categorisation& Data Sharing	4123
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132,154,172,882,110,158,121,41,121,287
 Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
 Data Center Cabling Systems Introduction Structure	9123
@@ -4763,6 +4765,7 @@ Data Exchange Architecture	11952
 Data Exchange Architecture Requirement	11952
 Data Exchange Component	2709,5592,633
 Data Exchange Layer	9356
+Data Exchange Memorandum of Understanding	13813
 Data Exchange Payments	12214
 Data Exchange Platform	5235,6632
 Data Exchange RATING OPPORTUNISTIC STAGE Malawi	12214
@@ -4795,7 +4798,7 @@ Data Gender-Responsive Planning	13349
 Data Generation	11129
 Data GoN	4301
 Data Goal	12210
-Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32
+Data Governance	961,117,6,159,1314,102,299,204,22,1,419,257,107,82,73,57,34,214,97,519,200,540,229,335,21,63,107,70,294,43,57,223,303,19,2338,83,104,708,80,134,143,16,98,187,771,209,8,248,388,98,296,23,32,302
 Data Governance Act	5802,716,4510,126
 Data Governance Act. Country Percentage	11922
 Data Governance Calls	11154
@@ -4916,7 +4919,7 @@ Data Locations Date of Change Description of Change	6432
 Data Loss Prevention	10721,510
 Data MIS Collection Collection Households	10964
 Data Maintenance Governance Gaps Technology Evolution	12457
-Data Management	262,600,1554,8713,291,532,1233
+Data Management	262,600,1554,8713,291,532,1233,582
 Data Management Committees	13636
 Data Management Framework	1243
 Data Management Government	12453
@@ -5159,7 +5162,7 @@ Data Processors	11956,345
 Data Processors Engagement	13035
 Data Processors of Major Importance. FIJ	11763
 Data Product	4214
-Data Project	1704,587
+Data Project	1704,587,11496
 Data Promotion	11259
 Data Protec	13381
 Data Protection	27,236,698,1,129,137,15,350,1213,67,207,598,183,221,44,348,109,7,20,251,24,359,119,314,103,583,24,45,10,97,69,184,154,602,130,1721,570,816,34,3,334,394,34,78,281,13,37,177,15,25,4,18,9,60,1,54,33,6,73,84,365,37,17,2,8,24,30,1,44,15,226,60
@@ -5699,6 +5702,7 @@ Data for Health Initiative	12207,941
 Data for Implementation. Dated Apr	12470
 Data for Mozambique Internet Exchange	6967
 Data for NamPower and IPPs	12399
+Data for Now	13824
 Data for Policy	1246,850
 Data for Policy Area	2096
 Data for Policy CIC	1246,7037
@@ -5712,6 +5716,7 @@ Data for Policy Focus Area	2096
 Data for Policy Focus Area of Digital	2096
 Data for Policy Funding Sources Data for Policy	1246
 Data for Policy and Digital Product Design. Work	12241
+Data for SIDS	13824
 Data for Survival	6001
 Data of Communication	4126
 Data of Mozambican	3861
@@ -5920,6 +5925,7 @@ Draft Data Protection Regulations	7364
 Draft Final National Data Governance Policy	6518,3728
 Draft Health Data Statutory	13430
 Draft National Data Governance Policy	10246
+Draft National Data Governance Strategy. Following	13814
 Draft Regulation Governing the Use of Personal Data	12333
 Drive Big Tech Data Protection Accountability	9817
 Driving Revenue Growth Through Data Analytics	11038
@@ -6989,7 +6995,7 @@ Key Laboratory for Industrial Big Data Analysis	13666
 Key Project Data and Ratings	12195
 Khazna Data Center	8045
 Khazna Data Centers. Khazna	1639
-Kind of Data	13084
+Kind of Data	13084,675
 Kind of Data Sample	10862
 Kisumu County Data Controller INST-175606322DE KISUMU	7167
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
@@ -7844,7 +7850,7 @@ Open Data Initiative. Retrieved	1243
 Open Data Initiatives	3810,8546
 Open Data Institute	747,1,213,1023,3045,5788
 Open Data Inventory	769,8508,2206,901
-Open Data Kit	1219,2488,7212,1494
+Open Data Kit	1219,2488,7212,1494,1347
 Open Data Kit PS	12338
 Open Data Le ROD	748
 Open Data Licensing and Publication Procedures Sectoral	3861
@@ -8013,7 +8019,7 @@ PROCLAMATION TO PROVIDE FOR PERSONAL DATA	12185
 PROGRESS IN IMPLEMENTATION OF OPEN DATA	11854
 PROGRESS TO-DATE ON DATA MANAGEMENT	11231
 PROHIBITION OF DATA LOCALISATION No State	1243
-PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1
+PROJECT FINANCING DATA	1264,20,420,163,424,1165,106,42,7164,195,1,453,108,35,295,1256,220,1,455
 PROJET DE CONSTRUCTION D'UN DATA CENTER	1005
 PROMOTING GENDER EQUITY AND DATA JUSTICE	5244
 PROTECTION LAW IN PLACE DATA PROTECTION	10908
@@ -8199,7 +8205,7 @@ Program. Frequency Annual Data	3604
 Program. Frequency Annual. Data	3604
 Programme Officer for Data Management	9469
 Project Activities The National Data Centre	12253
-Project Financing Data	12388,24,14,243
+Project Financing Data	12388,24,14,243,1124
 Project Implementation Services For Establishing Data	4576
 Project Location The National Data Centre	12253
 Project Open Data	1218
@@ -8449,6 +8455,7 @@ Review of Djibouti Data Protection Law	3153
 Review of Djibouti's Data Protection Law	3885
 Review of Ethiopia's Data Protection Act	1860
 Review of Somalia's Data Protection Act	1742
+Reviewed Data Protection	13773
 Reviewing Draft Health Data Statutory	13430
 Revised Data	6946
 Revised Data Signal Distributors Category FY	6946

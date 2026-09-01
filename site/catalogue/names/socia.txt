@@ -293,6 +293,7 @@ Demographics and Social Statistics Section	12330
 Demography and Social	12768
 Departamento da Comunicação Social	11561
 Department of Economic and Social Affairs	10714,126,629,682,1180
+Department of Economic and Social Affairs Statistics Custom	13824
 Department of Economic and Social Affairs USD United	13388
 Department of Economic and Social Affairs.2	12376
 Department of Economics and Social Affairs. World Health	12367
@@ -450,6 +451,7 @@ Environment and Social Specialist	6539
 Environment and Social Standards	10829
 Environment and Social Substantial	11380,525
 Environment for Social Protection Systems	12964
+Environmental And Social Risk Classification	13787
 Environmental And Social Risk Classification Moderate	2291
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental S and Social Management Plans	11469
@@ -521,7 +523,7 @@ Environmental and Social Specialist	1988
 Environmental and Social Specialist. The PCU	11525
 Environmental and Social Specialists	1988
 Environmental and Social Specialists Part D	1988
-Environmental and Social Standard	1988
+Environmental and Social Standard	1988,11804
 Environmental and Social Standards	1988,1468,148,7225,135,453,548,288,1079
 Environmental and Social Standards EU European Union	10829
 Environmental and Social Standards Enhancement Project	11469
@@ -663,6 +665,7 @@ Humanities and Social Sciences	1599,10726
 Humanities and Social Sciences Communications	9128,2012,16
 I Social Media Subscriptions	9781
 ICT Sector and Environmental and Social	6946
+IDA Grant. Environmental And Social Risk	13793
 II- ECONOMIC AND SOCIAL PERFORMANCE	7452
 II. Inclusión Social	1701
 III.2.10 Direction Générale des Affaires Sociales	10876
@@ -1130,7 +1133,7 @@ Projecto de Protecção Social	11406
 Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229,61,135,453,143,1771,1
 Projet Filets Sociaux	9744,1219,1,21
 Projet Filets Sociaux de Sécurité Résilients	13737
-Projet de Filets Sociaux de Sécurité Résilients	13737
+Projet de Filets Sociaux de Sécurité Résilients	13737,51
 Promote Social Inclusion	12356
 Promoted Five Social Workers	12977
 Promoting Justice and Social Equality	2958
@@ -1393,7 +1396,7 @@ Social Amenities	13474
 Social Analysis	1228
 Social And Demographic Statistics	1761,1383,3772
 Social Assessment	2473,2180,7567
-Social Assistance	2307,8678,870,518,290,811
+Social Assistance	2307,8678,870,518,290,811,299
 Social Assistance Act	2307,8032
 Social Assistance Act. SASSA	6222
 Social Assistance Expenditure	10985
@@ -1715,7 +1718,7 @@ Social Safety Register	4794
 Social Science	2518,10900
 Social Science Research Network	961
 Social Science and Humanities	9616
-Social Sciences	1554,6205,127,490,1733,941,2697
+Social Sciences	1554,6205,127,490,1733,941,2697,67
 Social Sciences and Humanities	8436,3763
 Social Screening for Local	1988
 Social Searcher	11651
@@ -2021,6 +2024,7 @@ World Bank Social Protection Strategy-COMPASS	13111
 World Bank Social Protection and Labor Strategy	11855
 World Bank's Atlas of Social Protection Indicators	10985
 World Bank's Environment and Social Framework	1778,11212
+World Bank's Environmental Social Framework	13792
 World Bank's Environmental and Social Standard	12253
 World Bank's Environmental and Social Standards	1988
 World Bank's Environmental and Social Standards and Burkina	7251

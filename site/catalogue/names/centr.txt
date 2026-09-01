@@ -414,9 +414,10 @@ Banque Centrale de Djibouti	3024,1543
 Banque Centrale de Djibouti. Dirigée	3024
 Banque Centrale de Mauritanie	9656
 Banque Centrale de Tunisie	11614,179
-Banque Centrale des Comores	1854,606,3585,14,87,7566
+Banque Centrale des Comores	1854,606,3585,14,87,7566,45,44
 Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Banque Centrale des Comores Fixe	13712
+Banque Centrale des Comores. Il	13801
 Banque Centrale des Etats	3604,7107,811,45,377
 Banque Centrale du Congo	5836,207,3254,2651,12,13,279
 Banque Centrale. Article	10836
@@ -983,7 +984,7 @@ Central Assessment Unit	10550
 Central Authentication Server Common ICT Processes	9123
 Central Authority	783,8405
 Central Authority. Acts	783
-Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56
+Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56,37
 Central Bank Act	12653
 Central Bank Affirms Mobile Money	3308
 Central Bank Bill	11131,3
@@ -1031,7 +1032,7 @@ Central Bank of Burundi	3560,9752,2,17,26
 Central Bank of Cape Verde	4181
 Central Bank of Central African States	4970
 Central Bank of Central African States. Martins	4970
-Central Bank of Comoros	2421,2730,1
+Central Bank of Comoros	2421,2730,1,8626
 Central Bank of Congo	3508,2328,1979
 Central Bank of Djibouti	3238
 Central Bank of Egypt	940,1135,1316,60,506,444,1468,1069,597,1,1203,560,234,60,31,1041
@@ -1340,7 +1341,7 @@ Central. Regarding	6230
 Central. Si	1701
 CentralBankRw	7301
 CentralStatisticalOffice	13244
-Centrale	3009,2069,1377,2263,1062,931,110,55,89,10,946,23,1501
+Centrale	3009,2069,1377,2263,1062,931,110,55,89,10,946,23,1501,364
 Centrale Gabon Tchad Congo Guinée	9916
 Centrale Récapitulative des Risques Bancaires	11944
 Centrale Supélec	10531
@@ -1388,7 +1389,7 @@ Centralized and Interoperable Database	1529
 Centrally	1009
 Centrarse	1701
 Centraux	11944
-Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71
+Centre	235,330,123,49,11,250,2,5,126,58,15,41,16,418,135,63,281,51,60,31,7,70,16,316,18,5,122,57,22,58,53,39,23,10,75,5,106,60,19,105,158,16,54,143,9,66,105,55,34,154,47,75,83,43,79,122,161,65,41,25,42,40,104,84,79,375,137,45,43,267,140,102,104,32,12,165,16,19,5,21,93,78,7,21,322,128,139,29,5,93,55,42,56,16,159,98,127,15,65,114,118,4,19,38,26,35,199,95,31,6,31,15,35,5,96,1,1,44,42,48,93,77,187,161,71,170,106,18,145,41,102,10,26,35,79,92,2,2,6,20,14,3,11,1,15,16,12,25,18,3,10,5,5,39,56,51,10,27,63,23,25,8,374,196,7,4,109,9,38,12,76,102,13,14,12,142,64,53,94,343,13,13,4,3,4,54,2,35,108,91,14,5,5,1,5,71,65,117,71,170
 Centre AKAMURI de Bujumbura	13442
 Centre Administrator	11336
 Centre Bio	11608
@@ -1412,6 +1413,7 @@ Centre ETC de Tahoua	7374
 Centre Est	6827
 Centre Financier de Kinshasa	7470
 Centre Fund Township Development	4896
+Centre GIS	13760
 Centre GPE-KIX Afrique	4170
 Centre Gabon Innovation	8925
 Centre Gabonais	9631
@@ -1893,7 +1895,7 @@ Community Information Centres	940,3452,8903
 Community Multimedia Centres	12843
 Community of Central African States EFT	13388
 Community-Based Childcare Centres COVID-19	12175
-Comoros Central Bank	5151,1
+Comoros Central Bank	5151,1,8626
 Comoros ECMWF European Centre for Medium-Range Weather	13729
 Competency Based Curriculum CBK Central Bank	2775
 Computer Attack Response and Alert Centre	301
@@ -2443,7 +2445,7 @@ Guinea-Bissau. Joining the West and Central African Research	11552
 H CENTRE DE SANTÉ AGRÉ	13300
 H CENTRE DE SANTÉ AGRÉÉ	13300
 HDC Harare Government Dental Centre ICP-MS	13420
-HISP Centre	2678,1206,883,1281,105,874,5171,543
+HISP Centre	2678,1206,883,1281,105,874,5171,543,1022
 HISP Centre Deputy Director	7027
 HISP Centre da Universidade de Oslo	11454
 HISP West and Central Africa	1947,12,4089

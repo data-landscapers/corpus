@@ -282,8 +282,9 @@ Ataraxis Global Outsourcing AI Readiness Index	7281
 Atari	8460
 Atchan	8610,145,88
 Ateeq	11156
-Atelier	2635,2361,25,42,40,2061,624,967,136,515,209,1097,263,556,68,444,1247,11,63,15,63,22,110,115
-Atelier Emplacement	13613
+Atelier	2635,2361,25,42,40,2061,624,967,136,515,209,1097,263,556,68,444,1247,11,63,15,63,22,110,115,88,6
+Atelier DGI	13796
+Atelier Emplacement	13613,170
 Atelier RegulaE.Fr	10975
 Atelier de Validation du Plan National du Numérique	3069,749
 Atelier-de-Cotonou-RapportFinal.pdf	766
@@ -335,6 +336,8 @@ Athoumani Abdou Mmadi	5833
 Athourity	736
 Athule Sali	11239
 Ati-Akakpé	2812
+Aticki Ahmed Ismael	13775,36
+Aticki Ahmed Ismael L'association UONI	13775
 Atif Saleem. IGI Global Scientific Publishing	6948
 Atiku	9400,476,2,82
 Atiku Abubakar	9400
@@ -543,6 +546,7 @@ Attending ECE	12175
 Attendre	13390,141
 Attente	737
 Attente Dossier	10975
+Attenter	13781
 Attentes	2917,49,3993
 Attention	747,214,6956,34,215,95,186,145,531,2007,1007,1048,342,158
 Attenuating	11140
@@ -838,6 +842,7 @@ DG RESULTATS ATTENDUS	10712
 DGI RESULTATS ATTENDUS	10712
 DGI RÉSULTATS ATTENDUS	10712
 DGI SPECIFIQUES RESULTATS ATTENDUS	10712
+DHOIANFA ALI ATTOUMANE Délibérée	13781
 DOMÍNIOS REGISTADOS VS TAXA DE ATIVOS	11531
 DPI. Attached PDF	4431
 DR. CASSIEL ATO FORSON	7695
@@ -1010,6 +1015,7 @@ LUALABA SOUTH ANGOLA ZAMBIA ATLANTIC OCEAN	11900
 Lagos’ Eko Atlantic	5055
 Launch ATLAS Umoja Backed	7825
 Launching ATLAS Umoja AI Supporting	7825
+Le Directeur Général des Impôts M. Athoumani	13796
 Le Lieutenant-Colonel ATOULELOU Kpatcha	8620
 LeSwitch-enabled ATM	2877
 Learned Attorney General	12955
@@ -1085,6 +1091,7 @@ N- ATLAS	6232
 NATO North Atlantic Treaty Organization CSA	6936
 NM ATEN GA YA GHA PASSO	10847
 NTIBARUTAYE Athanase Assemblée Nationale	13341
+Nairobi Atelier	13783
 NamRA Officials Attend Training	13044
 National Digital Transformation Strategy. Attacks	8700
 Net Attendance Rate	12413
@@ -1318,6 +1325,7 @@ Target Back Cybercriminals Attack Seychelles	3364
 Target and Actual ATC&C	12062
 Taye Atske Selassie	4864,2674
 Technical Attributes	11216
+Technopole Numérique. Aticki Ahmed Ismael	13811
 Template Indicators Attachment V. Sources of Evidence	12500
 Testing Attributes Functional Testing	5665
 Tetracore Atakobo Data Centre	8852
