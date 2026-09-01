@@ -3,9 +3,9 @@ title: Kenya — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: KEN
-ledger_rows: 105
+ledger_rows: 115
 not_held: 7
-record: 8445f2f25bff
+record: 245bcb87adb2
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -20,6 +20,8 @@ Election technology is where the month's arguments concentrated. Procurement of 
 Speech law went backwards and forwards at once. Parliament [is appealing to the Supreme Court to restore the struck-down false-information provisions of the cybercrimes Act](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne); a gazette notice [requires cyber cafes to register customers and log sessions from 7 September](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj); and the artificial-intelligence governance bill under debate [was criticised for omitting child-specific protection](https://www.amnesty.org/en/latest/news/2026/08/amnesty-internation/).
 
 Two working systems went the other way. The health claims platform is [failing at the counter, with the President putting its KSh 104bn at a ten-year service fee rather than a payment made](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system), and a court [barred discontinuation of physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks). Against them, an advanced cargo declaration system and a port smart gate [entered service on 3 August](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays), and the 47 counties [were given until 30 September to complete integration with electronic procurement](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques).
+
+The platform the state runs its services on had a bad month. eCitizen's payment layer [failed for much of 26 August](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays), and the tax invoicing service reached through it [was down for three days to 31 August](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546), while the Treasury [moved to take formal ownership of it by regulation](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/).
 <!-- /narrative -->
 
 ## Governance
@@ -189,6 +191,10 @@ The procurement platform got a hard date for the tier that has resisted it. On 2
 
 The election system's own procurement stopped moving. The electoral commission [said tenders for the Integrated Elections Management System hardware and for ballot papers were temporarily halted after a request for review at the procurement review board, with the Register of Voters to undergo a 30-day biometric verification and an independent audit before certification](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations).
 
+
+The platform also failed twice. On 26 August the payment layer [went down for much of the day, leaving transport authority services unusable, transactions abandoned or paid for twice and invoices missing](https://swalanyeti.co.ke/news/article/10773/motorists-cry-foul-as-ntsa-payment-glitch-causes-double-charges-and-delays); the authority confirmed the fault and said a platform team had been dispatched. Five days later the electronic tax invoicing service reached through eCitizen [was down for three days to 31 August, taxpayers able to generate invoices but not download them](https://nation.africa/kenya/business/frustration-as-kra-s-ecitizen-service-suffers-outage-for-days--5577546) — and because revenue rules make payment conditional on that invoice, rent, school fees and a semester start were delayed. No uptime figure is published for the platform, so its reliability is measured only by the outages that get reported.
+
+Its legal footing moved the other way. On 27 August the Treasury [presented draft regulations to the National Assembly's delegated legislation committee that would replace eCitizen's convenience fee with a statutory access fee and vest ownership, hosting, administration, maintenance and security of the platform in the Treasury](https://sokodirectory.com/2026/08/treasury-unveils-plan-to-replace-ecitizen-convenience-fees-with-access-fees/), and members of parliament [demanded clarity on who owns the platform](https://peopledaily.digital/news/mps-demand-clarity-on-ecitizen-ownership-as-treasury-unveils-new-regulations) as they did so.
 <!-- /narrative -->
 
 ## Technology

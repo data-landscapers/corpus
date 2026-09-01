@@ -3,9 +3,9 @@ title: South Africa — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: ZAF
-ledger_rows: 105
+ledger_rows: 111
 not_held: 23
-record: c6d0c333fb38
+record: 3d46026e779a
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -261,6 +261,11 @@ One cooperation arrangement addressed a group the grants system serves and the d
 The state's own IT agency was told why it cannot deliver. The Public Service Commission's investigation of government IT procurement over 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board tenures too short for strategic continuity, and irregular expenditure above R2bn across four audited years read as control failure through absent deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am); the agency told Parliament in August it is finalising executive recruitment, naming no appointment or date, while some of the hundred-plus departments it carries look elsewhere.
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+Two measurements of the divide moved in opposite directions. Official household figures published on 28 August show [the share of households with no telephone at all down to 3.7%, about 740,000 households, from nearly 55% in 2002, with 93.8% now holding a cellphone only](https://groundup.org.za/article/a-look-at-south-africas-mobile-revolution/) — device access is close to universal. What it costs to use is the other half, and there the obligation is late: the communications minister [acknowledged on 27 August that the zero-rating of public-benefit websites owed under the 2022 spectrum auction is moving slowly, five months before its deadline](https://www.businessday.co.za/economy/2026-08-27-concern-over-slow-rollout-of-free-data-for-public-benefit-sites/), while saying he remains confident it will be met. A handset in almost every home and no free route to public-interest content is the shape of the gap the licence condition was written to close.
 <!-- /narrative -->
 
 ## Data
