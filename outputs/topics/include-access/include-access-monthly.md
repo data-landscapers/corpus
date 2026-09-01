@@ -3,13 +3,13 @@ title: Access to services — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: include.access
-places: DZA; AGO; BWA; BDI; COM; CIV; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
-record: d909d119edd7
+places: DZA; AGO; BWA; BDI; COM; CIV; DJI; COD; EGY; SWZ; GHA; KEN; LBY; MDG; MWI; MLI; MOZ; NAM; NGA; SEN; SYC; SLE; ZAF; TZA; UGA; ZMB; ZWE
+record: 3d0aaac87713
 ---
 
 # Access to services: monthly update, August 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -36,6 +36,10 @@ The justice ministry's site carries a [live contact form letting a citizen selec
 ## Cote d'Ivoire
 
 Access moved by putting the counter where people already are. The civil-registry agency [opened an office inside a Yopougon shopping centre on 14 August](https://www.oneci.ci/actualites/1787127124). It is one site, with no opening hours, service list or plan for further locations published.
+
+## Djibouti
+
+The urban rehabilitation agency runs [a complaint-management portal that routes recovery and technical problems to named internal divisions](https://www.doleances.arulos.dj/). It is the only digital citizen-feedback channel the base holds, and it covers one agency's own business: no whole-of-government mechanism, service standard or complaint volume is published.
 
 ## DR Congo
 
