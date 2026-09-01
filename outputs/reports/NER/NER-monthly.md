@@ -1,14 +1,14 @@
 ---
-title: Niger — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Niger — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: NER
-ledger_rows: 32
+ledger_rows: 16
 not_held: 4
-record: 487fde14c671
+record: 22735a37c84b
 ---
 
-# Niger: monthly update, July – August 2026
+# Niger: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -22,11 +22,6 @@ The second is administrative consolidation onto state platforms: the [integrated
 
 ## Governance
 
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The civil-status regime rests on an [ordonnance of 22 April with its application decree of 18 May in force](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/). No gazetted text of either is held.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -77,26 +72,6 @@ On 29 July the foreign minister closed the second diaspora forum by [undertaking
 
 The population register's public campaign is running ahead of the register itself. A national civil-status and identification sensitisation tour [reached Tillabéri as its third region](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/), with officials citing the 2026 civil-status ordinance and describing a forthcoming national population register whose first enrolment phase opens at Niamey ahead of a 2027 rollout to other regions. No enrolment target, budget, supplier or start date accompanies it, so the campaign precedes anything a citizen can yet enrol in.
 <!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-On 9 July the health ministry [validated the roadmap of the national e-health master plan 2025-2029](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/), covering 27 structuring projects across health information, interoperability, epidemiological surveillance and cybersecurity.
-
-On 27 July the public service minister [presented the integrated state human resources and payroll system](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/) to the consultative council: a scope of about 200,000 public agents and at least 150 payroll managers, a biometric database against double enrolment, career events cascading into pay, and 16,500 agent files digitised and 23,000 updated so far.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-On 15 July the tax directorate [convened a national seminar on digitalising the tax administration](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/), its core systems back at full operation after sanctions, with recommendations sought toward a round-the-clock digital tax service.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-On 10 July the digital agency's [Villages Intelligents programme opened a digital centre at Tabelot in Agadez](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/), with training for women and girls.
-<!-- /narrative -->
 
 ## Technology
 
@@ -126,11 +101,6 @@ The [Council of Ministers of 21 August 2026 took decisions on research and innov
 
 ## Inclusion
 
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
-<!-- /narrative -->
 ### Digital divides
 
 <!-- narrative: inclusion--include-divides -->
@@ -139,11 +109,6 @@ One training cohort is the whole of the window's movement here. [500 women worki
 
 ## Data
 
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-Traditional chiefs at Diffa were [trained as mobilisers for the fifth population and housing census](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/).
-<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->

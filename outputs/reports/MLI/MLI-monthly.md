@@ -1,14 +1,14 @@
 ---
-title: Mali — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Mali — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MLI
-ledger_rows: 48
+ledger_rows: 25
 not_held: 4
-record: 81a9396b8a1f
+record: c9dc1f996d48
 ---
 
-# Mali: monthly update, July – August 2026
+# Mali: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -54,19 +54,6 @@ The same 1 August recommendations also included [a protocol between AES states t
 The same 3 August the cybercrime pole [sentenced Chahana Takiou to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) on a charge of undermining the credit of the state through the judicial institution, over remarks at a Bamako media forum in June 2026 arguing that journalists should be tried under press-offence law.
 <!-- /narrative -->
 
-## Finance
-
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-On 23 July the fund's board [cut the 2026 budget by 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), recording receipts at 56% of forecast and expenditure of FCFA 3,188,967,162 — 8% of the annual budget in six months. The board attributed the shortfall to the absence of a procedures manual, late budget approval, delayed sign-off on construction studies and insecurity in project areas, and named a new director-general.
-<!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-On 22 July the universal access fund [signed two four-year renewable conventions](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) with the education ministry and the entrepreneurship, employment and vocational training ministry, committing it to connect every secondary, technical and vocational school by end-2027, with more than 80 new universal access centres, 100 new Cases Wi-Fi and cumulative education spend put above FCFA 17bn.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
 ### Connectivity
@@ -80,11 +67,6 @@ On 27 July Maliweb carried a named-analyst investigation into the universal acce
 
 On 30 July the Semaine du Numerique's opening panel [set a universal connectivity target of 2030](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html), with the roadmap to be drafted jointly with Burkina Faso and Niger. On 1 August the week's recommendations included [a law making SMTD-SA the sole national operator of transport, transmission, storage and broadcast infrastructure](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 <!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-A [national information systems security agency was created by Council of Ministers texts of 10 June](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/). No budget, staffing or constituting text is published.
-<!-- /narrative -->
 
 ## DPI
 
@@ -95,36 +77,10 @@ The national public key infrastructure and electronic signature services were [r
 
 Customs is the one exchange with a build behind it. At a Bamako round table on 7 August convened by the Prime Minister's office and the chamber of commerce with private operators, the customs directorate [presented a project to interconnect customs information systems for goods in transit](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/), aimed at cutting customs, transit and import-export processing times and building on a World Bank technical mission of 31 July. [Mali's implementation of the WTO Trade Facilitation Agreement was put at 83.6%](https://apanews.net/mali-moves-to-streamline-foreign-trade-procedures/) at the same consultation. No counterpart administration, timetable, cost or system name is stated.
 <!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-On 21 July an editorial account [set out the E-AES passport's specification](https://www.lesahel.org/editorial-passeports-biometriques-aes/): five categories issued under the confederation dispositif, five years, 34 pages, biometrics on chip, to ICAO specification.
-
-On 24 July the Council of Ministers [adopted a draft ordinance formalising the cahier de recensement](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/), the village-level register from which family record books are issued, replacing Loi n06-023 of 28 June 2006.
-<!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-On 27 July a ministry field visit [recorded the social security fund's bank-payment pilot for pensions as complete](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) and ready for phased rollout.
-<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 A [national digital directory of diaspora skills was launched at a ceremony in Washington on 22 August 2026, run by the Malian embassy to the United States and registering professional profiles across economic, administrative, academic, private-sector and emerging fields so that ministries can identify expertise against specific needs](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html). The minister described it as an accreting database whose usefulness depends on take-up and on profiles being kept current; questions at the ceremony went to registration terms and to how the recorded data would be used, and no data-protection basis is stated.
-<!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-On 8 July the health ministry [launched the national digital health portal](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/) under the national digital health plan 2024-2028, flagging power gaps, the urban-rural divide and weak interoperability as obstacles.
-
-The same 27 July ministry field visit documented a Bamako hospital running registration, laboratory, consultation and pharmacy on a single unique patient identifier.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-The same 24 July Council of Ministers session heard the labour ministry report Mali's integrated human resources system to the pan-African public administration forum in Rabat.
-
-On 29 July the Council of Ministers took note of the first published output of the government monitoring system: [43.43% of planned activities completed in the second half of 2025 — 109 of 251, with 83 in progress and 59 not started](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/).
 <!-- /narrative -->
 
 ## Digitalisation

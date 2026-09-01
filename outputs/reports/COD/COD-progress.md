@@ -1,21 +1,21 @@
 ---
-title: DR Congo — progress report, August 2025 – August 2026
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: DR Congo — progress report, September 2025 – September 2026
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 place: COD
 ledger_rows: 131
 not_held: 13
 indicators: 121
-record: 9c99d72a32c2
+record: 3ddcb278d413
 ---
 
-# DR Congo: progress report, August 2025 – August 2026
+# DR Congo: progress report, September 2025 – September 2026
 
 This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the base tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-30.*
+*The period is 2025-09-01 to 2026-09-01.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 

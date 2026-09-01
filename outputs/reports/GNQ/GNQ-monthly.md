@@ -1,14 +1,14 @@
 ---
-title: Equatorial Guinea — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Equatorial Guinea — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GNQ
-ledger_rows: 31
+ledger_rows: 15
 not_held: 6
-record: 84076392645a
+record: 675967c3664c
 ---
 
-# Equatorial Guinea: monthly update, July – August 2026
+# Equatorial Guinea: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -22,22 +22,10 @@ Two things carried past the month's close. On 5 August the [Treasury Single Acco
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The ministry's second extraordinary directive council [adopted a consolidated July–December 2026 action plan](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes) of 35 strategic objectives under three national priorities, one of them restoring sovereignty over the national digital space including the .GQ domain. Named measures include a Comisión Nacional de Negociación to recover the domain and a requirement that frequency licence fees and registration charges be paid in full into the Public Treasury. The plan goes to the interministerial council and then to the Council of Ministers, which decides which measures are recorded and funded.
-
-The commission on state-participation companies [heard candidates on 29 July](https://www.guineaecuatorialpress.com/noticias/el_ejecutivo_continua_el_proceso_de_evaluacion_de_los_aspirantes_a_cargos_directivos_en_empresas_y_entidades_de_participacion_estatal) for director-general and deputy posts at GITGE, ANDEGE, INSESO and Gepetrol Servicios against stated criteria, with appointments provisional for six months.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
 The 2024 social media and computer crime law is [in force with its provisions reported in rollout from July, including a bar on social-media access for under-fourteens without parental authorisation](https://ahoraeg.com/politica/2026/07/02/guinea-ecuatorial-prohibe-el-acceso-a-redes-sociales-a-menores-de-14-anos-sin-autorizacion-de-sus-padres/); the full text is not held. Alongside it the information minister [presented a press-law reform bill on 6 August regulating digital media and cable television for the first time](https://ahoraeg.com/politica/2026/08/07/el-gobierno-propone-por-primera-vez-regular-los-medios-digitales-y-la-tv-por-cable-en-la-nueva-ley-de-prensa/), now under committee review with no adoption date and no bill text published. The Chamber of Deputies' own account of the sitting shows it was not presented alone: [a separate Copyright and Related Rights bill went to the chamber the same day](https://www.guineaecuatorialpress.com/noticias/comienza_en_la_camara_de_los_diputados_varios__proyectos_de_leyes), implementing Equatorial Guinea's 1997 Berne Convention accession and its 2015 Bangui Agreement obligations under OAPI, so the copyright provisions are a companion instrument rather than part of the audiovisual bill.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-The Minister of Foreign Affairs [signed the Malabo Convention at Addis Ababa on 28 July 2026](https://www.linkedin.com/posts/au-infrastructure-and-energy_equatorial-guinea-signs-the-malabo-convention-activity-7488275982521565184-ETtI), on the margins of the 49th Ordinary Session of the Executive Council. The AU status list as of 2 February 2026 recorded no signature, no ratification and no deposit for Equatorial Guinea, so the Chamber of Deputies' vote of 25 March 2026 was a domestic authorisation to ratify taken before the country was a signatory; no instrument of ratification is on file.
 <!-- /narrative -->
 ### Standards
 
@@ -64,11 +52,6 @@ The ministry put a six-month connectivity plan to the Prime Minister on 15 July.
 
 <!-- narrative: ict-infrastructure--infra-store -->
 The government [formally pressed the supplier to deliver the equipment still outstanding under the 2020 contract to digitise the state broadcaster's technical infrastructure](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge). Six years after signature the contract is being chased rather than closed, and no delivery schedule, contract value or penalty is on file.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-Ley 7/2024 of 23 December 2024 creates ANCIC, the National Cybersecurity and Critical Infrastructure Agency, under the Presidency, stated to draw on the Budapest and Malabo conventions.
 <!-- /narrative -->
 
 ## DPI
@@ -110,11 +93,6 @@ The base's first record of a national e-commerce platform arrived on 14 August, 
 <!-- narrative: capacity--capacity-training -->
 An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the base can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
 <!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-[GITGE's deputy director-general presented doctoral findings](https://realequatorialguinea.com/tecnologia/avante-reune-a-actores-del-mundo-de-las-tics-para-analizar-la-transformacion-digital-en-guinea-ecuatorial/) at the AVANTE forum on 22 July on big data, interoperability and digital identity in the public administration, arguing that the constraint is structural gaps and elapsed time rather than technology.
-<!-- /narrative -->
 
 ## Data
 
@@ -126,9 +104,4 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 
 The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
-<!-- /narrative -->
-### Open data
-
-<!-- narrative: data--data-open -->
-[EITI data collection for the 2024 report](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) opened at Malabo on 30 July as the last outstanding measure before validation of the IMF Staff-Monitored Programme.
 <!-- /narrative -->

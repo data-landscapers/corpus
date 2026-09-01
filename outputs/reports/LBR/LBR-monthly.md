@@ -1,14 +1,14 @@
 ---
-title: Liberia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Liberia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: LBR
-ledger_rows: 43
+ledger_rows: 26
 not_held: 9
-record: 3c69325715f6
+record: b59beb8836a5
 ---
 
-# Liberia: monthly update, July – August 2026
+# Liberia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -20,11 +20,6 @@ July 2026 was organised around the Liberia Technology Summit of 21-22 July, at w
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The African Development Bank launched its [country strategy for 2026-2031 in Monrovia on 30 July, cutting its sectors from four to three and funding an indicative 2026-2028 programme of UA 129m — US$172.86m at the February 2026 conversion — of which 36.3% is unfunded](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html). The only digital line in the indicative programme is a non-lending study on digital solutions for Monrovia traffic congestion, and the strategy's own ICT assessment cites a policy that expired in 2024.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -52,30 +47,8 @@ On 30 July the Anti-Corruption Commission [confirmed it had forwarded a complain
 The month's one channel built to hear from the public rather than about it was relaunched by donors. UNICEF and UNFPA [relaunched the U-Report youth feedback platform on 13 August](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/), with Irish embassy support and under a joint programme with the government, giving young people an encrypted SMS channel to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters. The channel runs on one operator's SIM cards, which bounds who can take part.
 <!-- /narrative -->
 
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The finance minister put the youth entrepreneurship investment bank at [almost US$18m targeting 30,000 youth-led businesses and about 100,000 jobs](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html), with a national coordinator recruited and a board being constituted. No disbursement is stated.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-The regulator revoked [Starcell International Liberia's universal licence and spectrum authorisation with immediate effect on 22 July 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), after a 90-day suspension from 9 February during which no corrective action was taken; spectrum, numbering resources and regulatory privileges revert to the Authority. The grounds cited were failure to commence operations, unmet financial obligations and non-payment of universal access contributions.
-
-At the same 21 July event, the Posts and Telecommunications Minister [announced a second subsea cable and expanded fibre](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or cable landing partner given for either; the LTA separately said it is reviewing a World Bank-supported report on reducing telecom costs.
-
-The Anti-Corruption Commission's 30 July complaint over the telecoms traffic-monitoring arrangement, forwarded to its investigation unit, is covered under Governance and regulation → Public debate and participation in policymaking below.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-At the same 21 July event the minister also [announced a national data centre to hold government data domestically](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/), with no completion date, budget line or site given.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -138,11 +111,6 @@ At the President's third national youth town hall in Buchanan on 29 July, the Pr
 
 The country's first working legal AI was launched on 31 July: [CJ Lewis, built by the law library Liblaw over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, with OHCHR support on human-rights principles in the design](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/). No accuracy or evaluation figure is given, no model or vendor is named, and the corpus is a private compilation.
 <!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The port authority signed a [non-exclusive smart-ports memorandum with HAROPA PORT covering all four seaports, with no amount, date or named system](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/).
-<!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
@@ -162,14 +130,6 @@ On 31 July, 19 young leaders took the [first of three media and information lite
 
 <!-- narrative: capacity--capacity-training -->
 UNDP also [announced a partnership with the University of Liberia to establish the country's first master's degree in artificial intelligence](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today), with no commitment amount disclosed.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-No later figure for account ownership or mobile wallet holding has been published. The base's position rests on the [account of digital finance expansion of 13 July](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/), which carries no measurement of its own.
 <!-- /narrative -->
 
 ## Data

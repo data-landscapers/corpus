@@ -1,14 +1,14 @@
 ---
-title: Guinea — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Guinea — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GIN
-ledger_rows: 53
+ledger_rows: 27
 not_held: 14
-record: 07e66ecc8d1e
+record: 40b4dc13c599
 ---
 
-# Guinea: monthly update, July – August 2026
+# Guinea: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -51,14 +51,6 @@ The committee meant to make the state's own financial data consistent [sat again
 Neither the regulator ARPT, the operators nor the internet service providers issued an explanation for the social-media restriction, and the silence then had to cover more than a restriction: [a total two-hour national outage on 7 August, across mobile and fibre alike, was traced to the state landing-station operator, whose officials and the regulator both declined to explain it](https://lelynx.net/2026/08/internet-coupe-en-guinee-black-aout-total/). The precedent is on the record rather than inferred: under the post-coup transition a government spokesman owned a three-month digital cut and said that in Guinea the internet is not a right.
 <!-- /narrative -->
 
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The month's one clear statement about money is the [WARDIP terms of reference, naming IDA Credit No. 74440GN and the US$60m financing behind it](https://letravail224.com/wp-content/uploads/2026/07/AMI-IT-WARDIP-3_Copier.pdf) — the first document on file tying a Guinean digital programme to a credit reference.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
 ### Connectivity
@@ -67,16 +59,6 @@ The month's one clear statement about money is the [WARDIP terms of reference, n
 Facebook, YouTube and TikTok became inaccessible on 28 July 2026. The Association des Blogueurs de Guinée activated its monitoring protocol the same morning, ran connectivity tests through the day through independent monitors in Conakry and the interior, and [concluded that the results converge on a targeted block of those three platforms, arguing the precision of the restriction excludes an ordinary outage](https://www.guinee360.com/28/07/2026/perturbation-de-lacces-a-internet-en-guinee-lablogui-denonce-un-blocage-cible-de-facebook-youtube-et-tiktok/). It grounded its objection in article 19 of the constitution, article 9 of the African Charter and article 19 of the ICCPR.
 
 The restriction [disrupted business operations and online services](https://wadr.org/guinea-social-media-restrictions-disrupt-businesses/), and was [still running on 7 August, outside any electoral period or declared crisis](https://www.jeuneafrique.com/1830582/politique/guinee-des-reseaux-sociaux-coupes-alors-que-mamadi-doumbouya-est-a-letranger/), with WhatsApp also disrupted and VPN traffic passing.
-<!-- /narrative -->
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-A presidential decree published on the evening of 30 July [converted the distance-learning institute into the Universite Numerique de Guinee, a public scientific establishment with legal personality and an eleven-member governing board](https://www.africaguinee.com/enseignement-superieur-lisfad-devient-officiellement-luniversite-numerique-de-guinee-ung/), its mandate covering online higher education, continuing education and digital-pedagogy support. Implementation is assigned to three ministers and no programme, budget or launch date for the online offerings is published.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The cybersecurity statute of 2016 is held and cannot be read: the agency [publishes it as a 57-page image-only scan with no text layer](https://anssi.gov.gn/wp-content/uploads/2025/03/loi_l2016037an_relative_a_la_cybersecurite_et_protection_des_do.pdf), so its provisions — reaching cybercrime offences on Guinean territory and offences requiring collection of electronic evidence — are known from the agency's own summary rather than the statute's words.
 <!-- /narrative -->
 
 ## DPI
@@ -125,33 +107,10 @@ Two more of the administration's own paper processes went onto systems in August
 
 ## Digitalisation
 
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Training on the Œil du Trésor platform started in five prefectures of Guinée forestière.
-<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
 The first rural digital service to reach farmers this month was a private one carried on a state bank's counters. An agritech firm and the state rural bank [launched a first cohort at Conakry on 6 August pairing field sensors, weather alerts and agronomic advice with the bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/). No cohort size, cost or coverage is stated, and the base still holds no state rural digital-services programme to set beside it.
-<!-- /narrative -->
-
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-Guinea joined five other Francophone West African states in [adopting shared AI governance guidelines, announced on 6 July 2026 and submitted to the United Nations' first Global AI Dialogue as a written contribution](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The advocacy organisation Niyel led the work; the framework recommends transparent systems, stronger data protection, skills development and support for local innovation, and complements rather than replaces national strategies. The same account names Senegal and Côte d'Ivoire as the participants that have adopted national AI strategies and places the rest, Guinea included, as still developing their frameworks.
-
-On 20 July, the digital economy minister and a Rwandan delegation [identified artificial intelligence, e-health, e-commerce and electronic invoicing as areas for cooperation](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia). The article reports areas identified for exploration, not agreements signed.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The [software-engineering school Holberton opened its Conakry campus on 16 July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/).
 <!-- /narrative -->
 
 ## Data

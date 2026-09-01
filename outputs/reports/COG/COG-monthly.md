@@ -1,14 +1,14 @@
 ---
-title: Congo — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+title: Congo — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: COG
-ledger_rows: 41
+ledger_rows: 15
 not_held: 12
-record: 69cc77b12f78
+record: 0c0b682f3510
 ---
 
-# Congo: monthly update, July – August 2026
+# Congo: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -29,37 +29,14 @@ A ministerial adviser published a [digital roadmap of five ambitions and nine pr
 <!-- narrative: governance--gov-policy -->
 A [public-finance digital transformation steering committee met for the first time on 15 July](https://www.finances.gouv.cg/fr/articles/ouverture-du-copil-de-la-transformation-num%C3%A9rique-de-la-gestion-des-finances-publiques), chaired by the minister and seating the directors-general of the revenue authorities, on improving revenue collection, securing public funds and raising the quality of public spending. And the [ministry's roadmap places delivery in an interministerial task force under the Prime Minister rather than the ministry acting alone](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses); a separate nine-point ministerial list of 10 July is not reconciled with it.
 <!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The invoicing regime was completed in the gazette. The [decree signed 31 March was gazetted on 9 July and is compulsory from 1 July](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf), and [four implementing orders signed 9 July and gazetted 16 July](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf) fix a four-stage homologation with a 30-day decision deadline, mandatory cryptographic certification, a penetration test under twelve months old, a sworn no-backdoor attestation, ten-year invoice retention and real-time tax-directorate data access. [Fees are FCFA 5,000,000 per terminal model and per software version, split 75% state, 15% security agency and 10% standards body](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf); foreign suppliers must be locally represented.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Namibia's cabinet [approved an ICT cooperation memorandum and authorised its minister to sign](https://neweralive.na/cabinet-approves-ict-agreement-with-congo-endorses-regional-cooperation/); no Congolese source, approval step or text is held.
 <!-- /narrative -->
 
-## Finance
-
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-Both chambers [adopted the rectifying finance law unanimously and unamended on 23 July](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726), lifting expenditure to FCFA 2,561.069bn against revenue of FCFA 2,778.016bn for a projected surplus of FCFA 216.947bn. [It rests on re-pricing the barrel at US$67 from US$60.3 with output held flat](https://www.finances.gouv.cg/fr/articles/adoption-PLFR2026-parlement_230726); the first of its four objectives is consolidating public revenue through digitalisation, and no revised figure for the digital vote is published. It was adopted but not gazetted at the date of this issue.
-<!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The European phase of the transformation project, launched in June 2025 with [EUR 36.3m of loan and FCFA 10bn of grant committed](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), made its first named procurement in July — the same 24-month cybersecurity mission — with no procurement held before now.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-Two positions describe the same weakness from either end. The country has [relied on one submarine cable since 2012, with a switch to another announced as three weeks away after weeks of outages](https://www.connectingafrica.com/connectivity/congo-wants-to-connect-to-new-cable-amidst-wacs-failures) — six months on, no source confirms any new cable carrying traffic. Behind it, [mobile backhaul spectrum fees run at about 5% of operators' total revenue against a sub-Saharan median of 0.5%](https://techafricanews.com/2026/07/16/why-connecting-rural-congo-costs-three-times-more-than-it-should/), alongside delayed spectrum assignments and technology-neutrality restrictions. Backhaul is the default rural link where fibre does not reach, so the premium falls hardest where coverage is weakest, and no regulatory response is on file.
-<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
@@ -84,11 +61,6 @@ Regionally, an [interoperable QR-code standard launched at Douala on 29 July](ht
 
 One exchange did go into use, in the narrow place where the state examines itself. The national transparency commission [opened the second round of its public-finance transparency-code evaluation entirely online, covering budget years 2023 to 2025](https://lasemaineafricaine.info/gouvernance-lancement-du-processus-devaluation-du-code-de-transparence/), with focal-point training completed in Brazzaville on 15 July with UNDP support. No supplier, custodian or results publication date is stated, and the platform is not publicly accessible on the record held.
 <!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The same roadmap names [secure digital identity and a wallet among three digital public infrastructure foundations](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses), with no standing-up instrument, budget or date.
-<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -112,11 +84,6 @@ Compulsory electronic invoicing took effect on 1 July for [every economic agent 
 
 ## Capacity
 
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The national cybersecurity training plan is inside [that tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1). The country has neither a strategy nor a training plan, and both are being written under a donor-financed contract whose value is not published.
-<!-- /narrative -->
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
@@ -130,21 +97,8 @@ Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for
 <!-- narrative: data--data-statistics -->
 One statistical build opened: the [quarterly labour-market and informal-sector survey entered its preparatory phase](https://www.adiac-congo.com/content/statistiques-des-donnees-regulieres-pour-mieux-mesurer-le-marche-du-travail-170792), with four series of indicators a year planned — a first for the country — and no fieldwork date, sample or budget stated.
 <!-- /narrative -->
-### Open data
-
-<!-- narrative: data--data-open -->
-Focal points were [trained on 14 and 15 July on a platform under development to carry the 2023, 2024 and 2025 assessments](https://www.adiac-congo.com/content/gouvernance-publique-des-recommandations-pour-booster-lapplication-du-code-sur-la), the workshop's recommendations being laptops, rechargeable routers and functional websites for covered entities.
-<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->
 The national mapping institute began putting its own holdings into a usable form. On 11 August it [signed a framework partnership with a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic data](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185), building a shared platform for public, institutional and research access. It is a framework agreement rather than a delivered platform: no term, funding, licence or access rule is stated, and nothing says what is currently held or in what form.
-<!-- /narrative -->
-
-## Geopolitics
-
-### EU activities
-
-<!-- narrative: geopolitics--geopol-eu -->
-An [exploratory session on 14 July opened a channel with a European member-state development bank under the European gateway programme](https://aden.cg/2026/07/23/programme-dbba-la-banque-publique-de-developpement-de-pologne-et-laden-explorent-de-nouvelles-perspectives-de-cooperation-numerique/), with no commitment, sum or timetable named.
 <!-- /narrative -->

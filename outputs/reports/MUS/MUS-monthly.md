@@ -1,14 +1,14 @@
 ---
-title: Mauritius — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Mauritius — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MUS
-ledger_rows: 46
+ledger_rows: 25
 not_held: 9
-record: 5205d3fc989f
+record: c92e8cb87dda
 ---
 
-# Mauritius: monthly update, July – August 2026
+# Mauritius: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -20,11 +20,6 @@ The month's substance is one document and one event. The omnibus bill introduced
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-At the summit on [16 July the ICT minister committed the government to a National Data Governance Strategy](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) covering cybersecurity, privacy and children's online safety, with no text or date stated.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -36,20 +31,10 @@ And on [30 July the ICT minister committed to Electronic Transactions Act amendm
 
 The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The Data Protection Act 2017 is not among the Acts the July omnibus amends: the digital provisions sit in five Acts and the safeguards Act is not one. At the same summit the ICT minister also committed to Data Protection Act amendments covering cybersecurity, privacy and children's online safety, with no text or date stated. Communications interception, run without judicial oversight, has no drafted narrative this period.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-And the model-as-a-service work billed as a telecom first was [announced on 20 July](https://www.telecomtv.com/content/ai/mauritius-telecom-and-tm-forum-pioneer-trusted-model-as-a-service-for-the-ai-native-telco-55907/) as work to define conformance criteria for a framework that does not yet exist.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -61,11 +46,6 @@ The month's other forum was external in origin. At the national Internet Governa
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The 2026-2027 budget's tax and revenue measures as enacted are not held. Three fetch paths into the [National Assembly's bills library](https://lexpress.mu/node/560855) returned an HTML shell rather than the 128-page Finance Bill: the library is script-rendered and exposes no static file path, so acquiring it needs a browser rather than an automated fetch. Nothing in this window changed that.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -107,23 +87,6 @@ The instrument behind the blocking figures is now held, and it settles how they 
 
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-The companion [Finance Bill, before Parliament from 27 July](https://lexpress.mu/node/560855), widens what the statistics office may share with the finance ministry and imposes new declaration duties on public bodies — the state's data plumbing rewritten alongside its tax code, with no matching amendment to the Data Protection Act.
-<!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The same omnibus also makes immigration permits issuable in digital form and imposes a digital travel authorisation on visa-exempt arrivals.
-<!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-The [omnibus bill of 24 July](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) puts the National Fintech Governance Committee on a statutory footing from 1 September 2026 — minister-chaired, seating the central bank governor, the financial regulator's chief executive, two ministries, the investment board and four private-sector members, empowered to approve sector-wide standards, and expressly not a body corporate. It was announced with the [fintech strategy on 25 June](https://www.wearetech.africa/en/fils-uk/news/tech/mauritius-unveils-national-fintech-strategy-to-modernize-payments) and reached statute within a month.
-
-On cross-border payments the state operator [announced a Mauritius-Seychelles corridor as a launch](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/); no corroborating record from the partner fintech or either central bank is on file. A [South African Reserve Bank spokesperson said on 29 July that Mauritius is among four states considering onboarding to the Southern African settlement system](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs) by end-2027 — another central bank's account of Mauritian intent.
-<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -155,11 +118,6 @@ The month closed with the state's AI apparatus being measured from outside it. O
 
 
 The incumbent operator set out what sits behind that directory. Its chief executive described [a cloud partnership with a hyperscaler, sovereign data centres, a plan to train 50,000 people in artificial-intelligence skills, and a voice model built for Mauritian Creole](https://sundaytimesmauritius.com/interview-veemal-gungadin-ceo-of-mauritius-telecom-our-core-objective-through-our-partnership-with-aws-is-to-create-high-skilled-jobs-for-young-professionals/), putting the education platform's exam-marking tools at 99% accuracy across the tools introduced. The figures and the claim of a first are the operator's own, given in an interview.
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The ICT minister [put information technology at about 5.4% of gross domestic product against an ambition of 10-12%](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo). The two accounts name different third partners.
 <!-- /narrative -->
 
 ## Capacity

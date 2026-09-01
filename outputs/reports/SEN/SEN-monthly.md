@@ -1,14 +1,14 @@
 ---
-title: Senegal — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Senegal — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SEN
-ledger_rows: 69
+ledger_rows: 30
 not_held: 14
-record: b78822cf34c7
+record: 034d1f68009f
 ---
 
-# Senegal: monthly update, July – August 2026
+# Senegal: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -38,11 +38,6 @@ The telecommunications ministry [put a national online child-protection action p
 <!-- narrative: governance--gov-legislate -->
 The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. It cleared on 20 August: the National Assembly [adopted law n° 25/2026 unanimously, mandating in-country storage of state-sensitive data, empowering the National Cybersecurity Authority and folding in technology-neutral standards for the AI era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after it reached the intercommission. In the same debate the Assembly's first vice-president [argued cybersecurity has to become a standing administrative culture, calling for mandatory staff training, professional-only communication channels and minimum device-security standards](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/) - a description of where the state's own practice stands rather than of what the law requires. Every provision is still the ministry's description; the text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data-protection reform reached a [finalisation workshop for the bill and its implementing decree, rewritten against the data and AI strategies](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), with no adoption date or published text.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -57,11 +52,6 @@ Senegal adopted [non-binding Francophone West African AI governance guidelines o
 
 Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
 <!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-A ministry legal adviser stated that the state has [worked on social-media regulation since 2024](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) with no bill or timetable named.
-<!-- /narrative -->
 
 ## Finance
 
@@ -70,23 +60,9 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 <!-- narrative: finance--finance-budget -->
 The constraint on that deployment is money, and the agency said so itself. On 17 August its director-general said [the agency's 2026 budget had still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/), and named that as what is holding back the pace of the Kaolack phase — the deployment of the civil-status software and activation of the citizen request platform across Nioro, Ndiedieng and Kaolack between 10 and 20 August. The base holds no appropriation figure for the agency for 2026, which is recorded as a gap.
 <!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-A [US$50m pre-seed and seed fund was announced on a conference stage in Paris on 20 June](https://techcabal.com/2026/07/07/francophone-weekly-by-techcabal-030/), with public capital framed as crowding in private investors. No first close, limited partners, fund manager or deployment is held.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-A [teleport gateway entered service, reported 10 July, with sixteen new antennas and a Tier III room](https://techafricanews.com/2026/07/10/sonatel-expands-gandoul-teleport-with-eutelsat-oneweb-satellite-gateway/) linking a low-orbit constellation to terrestrial networks.
-
-Two financing items arrived within a week. On 13 July a development bank [extended a senior facility of up to EUR 270m, EUR 170m committed, for 4G, 5G and fibre in Senegal and Kenya](https://techtrendske.co.ke/2026/07/13/ebrd-extends-e270m-financing-to-yas-for-kenya-senegal-network-expansion/) — its first Senegal project, with Senegal's share not disaggregated. On 16 July a presidential meeting produced an [announced intent of US$150m from a tower operator](https://techafricanews.com/2026/07/20/helios-towers-plans-150-million-investment-to-expand-senegals-digital-infrastructure/), with no signed agreement or schedule; the account traces solely to the Presidency, and trade press moved from *plans* to *commitment* in a day with no new evidence.
-
-A measurement covering January to July put [mobile latency at 35.4 ms, second in sub-Saharan Africa behind Togo at 28.8 ms](https://www.seneweb.com/fr/news/Technologie/connectivite-le-senegal-2e-en-afrique-subsaharienne-pour-la-latence-mobile-avec-354-ms_n_498911.html); no prior Senegal figure is held.
-<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -113,11 +89,6 @@ A government enterprise-architecture account of 3 August records [platforms stil
 Consolidated agency data at 17 July records [437 of 629 civil-status centres fully deployed, 112 of them running the citizen-facing service](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI); on 13 July the agency reported [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/).
 
 Deployment moved again in August, and the agency put a frame around it. At African Civil Registration Day in Kaolack on 10 August it [launched phase four of its remediation plan and put deployment at 74% of centres, up from 70% five days earlier, with the citizen request platform live in 189 communes](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), phase four extending to Kaffrine and Tambacounda; its director-general described civil registration as an instrument of sovereignty.
-<!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-Digital settlement on the Dakar rapid-transit network reached [39% after a super-app was integrated on 15 July](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), against 10% previously, on a network carrying up to 300,000 passengers daily.
 <!-- /narrative -->
 ### Registries
 
@@ -150,28 +121,13 @@ A national prize ceremony on 30 July presented a [Wolof and French AI tutor reac
 
 What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
 <!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-On 14 July the transit and telecommunications operators [signed a partnership for progressive integration of ticketing and top-ups](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network), with no go-live date published, and a [corporate mobility platform launched on 16 July](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility).
-<!-- /narrative -->
 
 ## Capacity
 
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-A digital financial-education project [closed on 15 July](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) having trained 265 civil-society trainers across twelve organisations. Its comparison platform is left unmaintained, because no implementer can compel tariff data from financial institutions.
-<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
 Two facts about the state's own capacity arrived in the same week and point opposite ways. The national statistics agency [graduated 60 statisticians - 33 statistician-economists and 27 statistician-analysts, drawn from ten African countries - taking its school's cumulative output past 900 since 2011](https://lesoleil.sn/actualites/education/statistiques-lansd-plaide-pour-le-recrutement-des-diplomes-de-lensae-dans-les-ministeres/), and used the ceremony to press ministries to recruit them into sectoral statistical services: an absorption problem stated rather than measured, since no figure is published for how many of the 900 work in Senegalese public statistics. Against it, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). The programme has run for nine years and publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-The council of ministers of 29 July [proposed a national research and innovation fund alongside applied research laboratories](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026). Neither is an adopted instrument, and no budget or date attaches to either.
 <!-- /narrative -->
 
 ## Inclusion
@@ -185,14 +141,6 @@ An [advanced-level digital course for blind and partially sighted people opened 
 
 <!-- narrative: inclusion--include-divides -->
 The month's one inclusion measure came from the despatch box rather than a survey. Debating the critical-infrastructure bill, the telecommunications minister [told parliament that 40% of Senegalese still have no access to connectivity](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html), citing a 2024 sector diagnosis of coverage gaps and unmet operator obligations. The diagnosis itself is not held, no definition of access accompanies the figure, and it is two years old at the point of its citation.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The statistics agency [hosted the first peer exchange of an inclusive-data initiative's second phase in Dakar, widening it from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm). The exchange's exact dates are not published, so the position carries month precision only.
 <!-- /narrative -->
 
 ## Geopolitics

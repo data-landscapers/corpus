@@ -1,14 +1,14 @@
 ---
-title: Egypt — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+title: Egypt — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: EGY
-ledger_rows: 100
+ledger_rows: 58
 not_held: 54
-record: 7a79df59c053
+record: e57fea683f9b
 ---
 
-# Egypt: monthly update, July – August 2026
+# Egypt: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -45,11 +45,6 @@ The month's data-protection movement is an objection rather than a rule. A membe
 
 The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
 <!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Egypt took the chairmanship of two Arab working groups on 31 July 2026 — AI governance, whose remit is a guidance framework and mechanisms for activating the Arab Charter for AI Ethics, and quantum computing, whose remit is an Arab quantum strategy and quantum-cybersecurity deployment. The committee was created by an Arab ministerial resolution at a session Egypt hosted in January 2026 and held its first founding meeting at the ICT ministry in May ([election account](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/)).
-<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -67,11 +62,6 @@ Two administrative reforms are stated and neither is dated. The head of the Coun
 
 <!-- narrative: finance--finance-budget -->
 The sector's own money was put before parliament. The planning minister told the House of Representatives that [EGP 13bn of public investment is allocated to the communications and information technology sector in the 2025/26 plan](https://moic.gov.eg/news/2134), against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing. It is a plan allocation rather than an outturn, and the base holds no execution figure against it — nor any published state digital appropriation, which is recorded as ***Not held***.
-<!-- /narrative -->
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-A professional services firm [signed a memorandum with the IT industry agency on 6 July for a regional outsourcing delivery centre](https://techafricanews.com/2026/07/06/ey-mena-chooses-egypt-for-regional-it-outsourcing-delivery-center/), stated to create more than 1,000 jobs over three years, with no investment sum, site or opening date given.
 <!-- /narrative -->
 ### New investments
 
@@ -98,11 +88,6 @@ A market report puts an East Cairo campus at [25 MW operating with plans for 45]
 Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed.
 
 The operator's own hub moved on its schedule rather than its capacity. Its chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues, and the chief financial officer said the uncompleted stake sale was not a negative development because the business is worth more retained. No entry-into-service date or capacity figure is confirmed, against a schedule the base already records as slipped.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The national computer emergency readiness centre is [named as delivery partner in the state cyber-skills academy](https://gate.ahram.org.eg/News/5670246.aspx) and is developing capability using artificial-intelligence techniques against cyber threats. No incident statistics, mandate document, budget or reporting obligation is held for it.
 <!-- /narrative -->
 
 ## DPI
@@ -150,19 +135,6 @@ Investors are to get their own digitised path through the land record. A [cooper
 The justice and communications ministries [signed a three-year cooperation protocol on 23 August 2026](https://www.businesstec.news/23569) to digitise the Cairo Court of Appeal and put artificial intelligence into the judiciary, covering a unified electronic repository for the archives of finally-adjudicated cases.
 <!-- /narrative -->
 
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-The treasury's first consuming service followed on 27 July, when public shop licensing opened on the national platform. It standardises procedures nationwide, binds authorities to a maximum three-month approval, issues an immediate temporary operating permit, and deems approval where an authority fails to respond. The Arabic account carries the enforcement half absent from the English ones — penalties applied to unlicensed shops, agencies canvassing premises, and the stated object of building a complete database of every commercial premises in Egypt ([launch account](https://almalnews.com/2126687/)).
-<!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-The rural fibre programme reports [about 5 million lines across more than 1,250 of 1,450 phase-one villages](https://itweb.africa/article/egypt-deepens-world-bank-digital-partnership/Pero3qZ31RYvQb6m) in 52 markazes across 20 governorates, with 75% of village service complexes connected. No completion date for the remaining 200 villages is stated anywhere held, and [a 2024 account of the same programme uses a 4,500-village denominator](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) the base does not reconcile with the 1,450 above.
-<!-- /narrative -->
-
 ## Technology
 
 ### AI
@@ -204,11 +176,6 @@ Accessibility followed a similar pattern of demonstration without obligation. On
 
 ## Data
 
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The 2027 census is [designed as a register-based exercise](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323), matching electronic field enumeration against digital registers and state databases keyed on the unified national property number, with the property-wealth map and secure data exchange to be finalised *before* a presidential decree authorises the count — the exchange a precondition of the census rather than a product of it, and no data-protection regulator role named. A [Senate proposal for a national labour-market data platform](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) was welcomed by the labour minister, who pointed to his own ministry's forthcoming one; neither has a launch date, budget or lead body, and nothing states they are the same thing.
-<!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: data--data-satellite -->

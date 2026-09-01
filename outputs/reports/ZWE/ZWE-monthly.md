@@ -1,14 +1,14 @@
 ---
-title: Zimbabwe — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Zimbabwe — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: ZWE
-ledger_rows: 90
+ledger_rows: 38
 not_held: 9
-record: 759283e2cd8d
+record: 645a07b2758f
 ---
 
-# Zimbabwe: monthly update, July – August 2026
+# Zimbabwe: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -61,11 +61,6 @@ Harare then hosted the regional attempt to write common rules for the thing all 
 
 ## Finance
 
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The cross-border fibre corridor from Plumtree to Bulawayo runs under a public-private partnership signed in June 2025; no investment amount was disclosed by either party ([corridor account](https://www.newsday.co.zw/local-news/article/200057978/powertel-join-paratus-zimbabwe-to-launch-new-digital-highway)).
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -109,13 +104,6 @@ The national incident response team is named in the ICT ministry's own priority 
 
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-A whole-of-government enterprise resource planning system, integrating finance, human resources, supply chain and asset management across the public sector, was launched on 29 July 2026 and presented by the ministry as the clean data layer any government artificial intelligence would need; no ministry count, deployment schedule or cost was stated ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)). The ministry also committed to mandated open interface standards for public-sector platforms, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
-
-The online border management system Zimbabwe has been rolling out in phases since January 2025 was examined during a Rwandan immigration delegation's visit to two border posts on 29 July; no port coverage, completion date or throughput figure is published ([visit account](https://www.zbcnews.co.zw/rwanda-eyes-zimbabwes-border-technology-to-strengthen-immigration-systems/)).
-<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -179,11 +167,6 @@ The same 29 July address committed to indigenous-language corpora work led by un
 
 The listed infrastructure company described its remote monitoring system and digital twin as advancing rather than in production for the quarter ended May 2026 ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
 <!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The infrastructure company reported [90 new base stations in the quarter to May and 17% of revenue reinvested into capital projects](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3), on an undisclosed revenue base — so the ratio cannot be converted to a value.
-<!-- /narrative -->
 
 ## Capacity
 
@@ -203,11 +186,6 @@ The health minister told the National Assembly on 17 July that more than 400 hea
 At a payments conference on 24 July a research firm reported that 95% of transport payments remain cash, that 56% of respondents found digital systems complicated with people with disabilities particularly affected ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
 
 A media institute's August review sets the country's headline connectivity figure against what it costs. It records [internet penetration at 84.55% on the regulator's fourth-quarter 2025 data, many households spending more than 10% of income to be online against the United Nations' 2% benchmark, and only 62% of the population with reliable electricity](https://zimbabwe.misa.org/2026/08/16/internet-affordability-and-access-in-zimbabwe/), and asks whether the 2026-2030 artificial-intelligence strategy can be delivered on those foundations. The penetration figure counts active subscriptions rather than individual users, which is the gap the affordability finding sits in.
-<!-- /narrative -->
-### Digital divides
-
-<!-- narrative: inclusion--include-divides -->
-The 2025 household survey puts [household internet access at 75.5% and mobile handset ownership at 96.4%, rural 94.5% against urban 99.2%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). Computer ownership is the divide the handset figures conceal: [11.2% of households, urban 21.2% against rural 4.7%](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift). The two measures are five years apart and the intervening trend is not held.
 <!-- /narrative -->
 
 ## Data

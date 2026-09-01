@@ -1,14 +1,14 @@
 ---
-title: Libya — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Libya — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: LBY
-ledger_rows: 37
+ledger_rows: 26
 not_held: 7
-record: 4dc5e605de29
+record: 5ed0b1cd922a
 ---
 
-# Libya: monthly update, July – August 2026
+# Libya: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -32,11 +32,6 @@ Externally, Libya [took the chair of an Arab working group on AI Data and Digita
 On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
 
 On 4 August the same ministry [convened the General Information Authority, the Libyan Digital Company and its own IT office to prepare a national digital transformation plan](https://alwasat.ly/news/libya/526991) covering digitised administrative procedures, unified databases and integration between state institutions. No timetable, budget, lead agency or published document was stated, and the announcement was made on the ministry's Facebook page.
-<!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-On 16 July a House of Representatives committee [met the National Security Council in Benghazi to prepare a comprehensive cybersecurity law](https://alwasat.ly/news/libya/524932).
 <!-- /narrative -->
 ### Regional collaboration
 

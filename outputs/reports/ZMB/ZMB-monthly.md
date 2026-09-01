@@ -1,14 +1,14 @@
 ---
-title: Zambia — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Zambia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: ZMB
-ledger_rows: 73
+ledger_rows: 32
 not_held: 44
-record: 69eb649a0209
+record: 95d0607abaf7
 ---
 
-# Zambia: monthly update, July – August 2026
+# Zambia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -27,22 +27,12 @@ The month closed with the state ICT institute confirming that four named border 
 <!-- narrative: governance--gov-policy -->
 The head of the Presidential Delivery Unit said on 17 July 2026 that Zambia's National AI Strategy was nearing completion and invited stakeholder contributions ([statement](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/)). Against that, a continental review published on 1 July reads a Zambian national AI strategy alongside six others as an existing analysable text. Nothing on file settles whether a draft has been circulated to researchers without being published, or whether the review is in error.
 <!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-Public consultation on the Postal and Courier Services Bill closed on 27 July, one working day after ten-province stakeholder consultations concluded. A ministry representative separately named a forthcoming Startup Bill on 17 July — the first and only mention of that Bill in the base.
-<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 The data-protection regulator exists and travels; nothing in the base shows it acting. It joined a multi-sectoral delegation to the continental identity conference, and on 31 July [nine civil society organisations asked it to examine the source of the contact list behind SMS messages sent to social cash transfer beneficiaries](https://www.zambiamonitor.com/civil-society-condemns-alleged-sms-linking-cash-transfers-to-voting-for-ruling-upnd/) before the 13 August election. No response from the Office is on the record. No registration count, enforcement decision, fine, breach notification, guidance note or annual report is held for it at any date. The Data Protection Act 2021 remains in force and was [named by the information ministry on 18 July as one of three instruments regulating online communications, cybersecurity and personal data](https://africabusinessinsight.com/zambia-begins-enforcing-controversial-cyber-crimes-act-amid-digital-economy-growth/); the reported Cabinet intention to repeal it has produced nothing on the record in sixteen months.
 
 What is being built for it is a system rather than a case. The World Bank-financed acceleration project [opened tender on 10 August, closing 21 August, for a digital data-protection compliance management system to serve the Commission](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461498), to integrate with the government service bus and payment gateway and to meet ISO/IEC 27001, ISO/IEC 27701 and WCAG 2.1 AA, alongside a [parallel tender to review the national data-protection guidelines and compliance frameworks](https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00461500). Tenders rather than awards, and neither states a value, a delivery date, or the caseload the system would manage.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-A [Zambian was elected Secretary-General of the African Telecommunications Union at Abuja on the fourth round with 21 of 34 votes](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/), taking office on 1 January 2027 for four years — while Zambia was not elected to the 25-member administrative council for the coming cycle, gaining the continental secretariat and losing the council seat together. Separately a [regional central bank spokesperson said four states including Zambia are considering onboarding their currencies to the regional settlement system, potentially by end-2027](https://www.centralbanking.com/central-banks/currency/7976492/southern-african-countries-consider-joining-sadc-rtgs); nothing establishes that the Bank of Zambia has decided, and the electronic clearing house is separately reported as not yet live on the regional instant-payment scheme.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -96,11 +86,6 @@ The government service bus, the central integration layer, onboarded eight of 11
 
 A register of a different kind opened alongside it. Zambia [launched a fully digital National Carbon Registry on 7 August](https://unepccc.org/zambia-launches-national-carbon-registry/), embedded in the national measurement, reporting and verification system and interoperable with Article 6 of the Paris Agreement, developed under a donor programme with a UN climate centre, a consulting group and a green growth institute. No public access, transaction count, custodian ministry or disclosure rule for its holdings is stated — which for a registry whose purpose is to make carbon claims checkable is the question it exists to answer.
 <!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-Nothing published in the window moves the identity position. The most recent enrolment statement remains about 1.5 million of about 20 million people, roughly 7.5%, restated on 27 July ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)), and biometric card issuance remains deferred until after the 13 August election.
-<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -138,11 +123,6 @@ The other movement is at the far end of the network rather than the centre. The 
 <!-- narrative: digitalisation--digital-localgov -->
 The eight onboarded local authorities returned about K21.7 million in their first month, for property rates, business levies and permits, with Lusaka City Council urging business and property owners to use the platform on stated grounds of minimising revenue leakages ([collection figures](https://zambianbusinesstimes.com/k22-million-collected-from-8-councils-via-electronic-payments/)).
 <!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-Satellite kits [connected a rural health clinic and two primary schools in Moomba Chiefdom](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) to government services through the national portal. No national count of connected facilities is published, and the state's purchase of foreign satellite capacity for the last mile sits alongside its own private 4G build.
-<!-- /narrative -->
 
 ## Technology
 
@@ -179,40 +159,9 @@ The state ICT institute, with the International Telecommunication Union and the 
 <!-- narrative: capacity--capacity-training -->
 On 20 July the state ICT institute reported training 146 public officers across three district administrations of Southern Province; no cumulative national total is published.
 <!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-The revenue authority signed a research memorandum with an international tax and development centre on 17 July, accompanied by a non-disclosure agreement, so whether taxpayer microdata moves is not disclosed.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-The same 27 July account puts financial inclusion at 80.1% of adults in 2025, with mobile money use at 76.2% ([switch account](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8)).
-<!-- /narrative -->
-
-## Data
-
-### Open data
-
-<!-- narrative: data--data-open -->
-African telecommunications ministers [adopted the Abuja declaration on meaningful connectivity](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/), defining it as regular access plus a suitable device, sufficient data and a connection fast enough for video learning and commerce, and committing signatories to review sector taxes, lower taxes on entry-level devices, incentivise local assembly and cut import tariffs on handsets under US$50. No Zambian implementing measure follows it on the base.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-A Zambian platform [pairs satellite imagery with artificial intelligence for smallholder traceability and market matching](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/), built after commercial traceability software was quoted at thousands of dollars a month. The account is the founders' own, with no user count, revenue or independent verification held.
-<!-- /narrative -->
 
 ## Geopolitics
 
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The United States health financing memorandum is [reported shelved since May over data terms and a minerals precondition](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html). A [leaked five-year draft offered US$1.012bn against commitments to hire 40,000 health workers, plus ten years of health-data access and a 25-year pathogen-data pledge](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets); the [Foreign Minister put the proposed agreement at up to US$2bn](https://www.africanews.com/2026/02/26/zambia-rejects-us-health-aid-over-mining-partnership-ties/), and the two values are not reconciled. No signature is on file, and the 25-year data term is reported from a leaked draft rather than a text the base holds.
-<!-- /narrative -->
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->

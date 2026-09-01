@@ -1,14 +1,14 @@
 ---
-title: Morocco — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+title: Morocco — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MAR
-ledger_rows: 47
+ledger_rows: 28
 not_held: 17
-record: 6296545e6829
+record: a190c7c9549d
 ---
 
-# Morocco: monthly update, July – August 2026
+# Morocco: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -24,11 +24,6 @@ The ombudsman's 2025 report, presented on 23 July, recorded 9,958 files opened a
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-Digital Morocco 2030 is in force with a [US$250m acceleration programme attached in June](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/), against a [technology sector at 6.8% of gross domestic product on a 2025 figure](https://www.trade.gov/country-commercial-guides/morocco-digital-economy). [Two held sources give its 2030 jobs target as 150,000 and as 240,000](https://www.trade.gov/country-commercial-guides/morocco-digital-economy), and neither reconciles with the other.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -37,16 +32,6 @@ A 50-article digital health bill was adopted in the government council on 22 Jul
 A constitutional-law academic stated on 30 July that the revised electoral framework criminalises use of artificial intelligence to distort the truth or intrude on the private lives of candidates and voters, naming no law, article number or gazette reference ([commentary](https://www.hespress.com/%d8%a8%d9%86-%d8%ad%d9%85%d8%b2%d8%a9-%d8%aa%d8%ac%d8%b1%d9%8a%d9%85-%d8%a7%d9%84%d8%aa%d8%b6%d9%84%d9%8a%d9%84-%d8%a8%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7-1784231.html)).
 
 The data-protection statute is being recast rather than replaced. The regulator's president stated on the record that a recast of law 09-08, developed with the justice ministry, has entered the legislative circuit and been sent to the secretariat general of the government; he describes it as clarification rather than replacement. The [law itself has been in force since 2009](https://www.trade.gov/country-commercial-guides/morocco-digital-economy), and no transmission date or text for the recast is held.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-Live facial recognition entered service in Rabat in the same weeks ([deployment account](https://assabah.ma/938960.html)), presented by the police directorate as domestically engineered and reported with an up-to-95% plate-recognition figure ([second account](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-deploie-ses-premieres-patrouilles-de-police-integrant-l-ia)).
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Morocco was elected to the African Telecommunications Union's Administrative Council for 2027-2031 at the union's plenipotentiary conference in Abuja on 25 July, with a delegation combining the digital ministry, the regulator and the development agency ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031)).
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -108,11 +93,6 @@ A platform already carrying national data went under inspection instead. The hea
 
 Morocco [promulgated the OECD multilateral competent authority agreement on the exchange of country-by-country reports by dahir 1.26.72 of 28 July 2026](https://barlamane.com/fr/le-maroc-promulgue-laccord-de-locde-sur-lechange-des-declarations-pays-par-pays-et-approuve-deux-conventions-fiscales-avec-le-burundi-et-le-tchad/), ending seven years of parliamentary blockage since signature. The first exchange partners and the start date are not on file.
 <!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The government council approved a draft decree on 9 July 2026 amending the 2008 biometric passport decree: four languages including Amazigh, an encrypted chip to international civil aviation standard, the holder's address removed from the biodata page and temporary passports abolished ([approval account](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html)). Issuance is expected from August 2026, and the joint body that will set issuance procedures is not yet in place.
-<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
@@ -150,22 +130,6 @@ The institutional side did move. Four public-interest institutes [were establish
 
 <!-- narrative: technology--tech-industry -->
 The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The ministry signed a memorandum with a consultancy in Rabat on 17 July 2026 covering artificial-intelligence skills-building across administrations, universities and research centres, support to institute-backed start-ups and public-service use cases, with no value, term, headcount target or delivery milestone disclosed ([memorandum account](https://www.wearetech.africa/fr/fils/actualites/tech/intelligence-artificielle-le-maroc-renforce-son-ecosysteme-avec-lappui-de-capgemini)).
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-An operator's sustainability report published on 10 July recorded 6,000 internet boxes refurbished in Morocco during 2025, which the operator put at about EUR 1.5m in savings, within a regional programme that refurbished 164,000 boxes in 2025, up 43% on 2024 ([operator report](https://www.wearetech.africa/fr/fils/actualites/telecom/orange-a-reconditionne-164-000-box-internet-en-2025-en-afrique-et-au-moyen-orient)). The figures are the operator's own and unaudited in the held source.
 <!-- /narrative -->
 
 ## Data

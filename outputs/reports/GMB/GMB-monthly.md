@@ -1,14 +1,14 @@
 ---
-title: Gambia — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Gambia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GMB
-ledger_rows: 30
+ledger_rows: 12
 not_held: 13
-record: ddf50146072f
+record: 38c19a2f5a46
 ---
 
-# Gambia: monthly update, July – August 2026
+# Gambia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -50,21 +50,8 @@ The finance ministry gave its fullest account yet of what digitalised collection
 Four days later the revenue authority [published a 2026 target of D27.5 billion](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/gambie-la-numerisation-fait-bondir-les-recettes-fiscales-de-127-en-trois-ans) — the first forward number in the series, and the first testable one. The implied step from 2025 is about a tenth, far below the run rate the attribution rests on.
 <!-- /narrative -->
 
-## ICT Infrastructure
-
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-President Barrow [inaugurated the National Data Centre at Abuko on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/) alongside the identity system it hosts — the second data centre in ten weeks, and the first in state hands. No capacity, tier rating, operating cost or operator is stated, and the [account carried by the identity industry press](https://www.biometricupdate.com/202607/the-gambia-launches-sovereign-digital-id-system-built-by-margins-id-group) adds none of them. Nothing published bears on the backbone or on satellite licensing.
-<!-- /narrative -->
-
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-Cross-border exchange moved further than domestic exchange did. At Saly on [16-17 July 2026 Gambian and Senegalese customs agreed a three-month roadmap](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict): install GAINDE at three border posts, deploy SIGMAT for real-time transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen platform.
-<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -93,33 +80,4 @@ The revenue authority said on [30 July 2026 that South African and Rwandan custo
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
 
 The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
-<!-- /narrative -->
-
-## Technology
-
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-GAMTEL and YCELL [signed the Share Investment and Network Modernization Agreement on 9 July 2026](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement), transferring an 80% equity stake in GAMCEL and committing GMD 6.1 billion to modernisation: nationwide 4G and 5G radio access, core upgrades, next-generation operations and billing systems, a new head office, hybrid tower power and revenue assurance. It closes a process the government [described to lawmakers in December 2025 as a D6.7 billion winning bid](https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/), about D800m of it a direct payment for the shares. The two figures are not reconciled in anything held.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-Nothing published bears on artificial intelligence; the one other item is a [youth innovation showcase on 9 July 2026](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives).
-<!-- /narrative -->
-
-## Capacity
-
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-On the demand side, an [account published on 30 July 2026](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) records 400 rural women and girls trained across four regions between September 2025 and March 2026 in safe internet use, online privacy and data protection. Its implementer names unreliable internet, high data costs and unreliable electricity as the obstacles to continued practice — the only field statement in this period on what access costs a household.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-Statistics had the period's clearest institutional step. The Bureau of Statistics [disseminated the fifth labour force survey in late July 2026](https://standard.gm/gbos-disseminates-2026-survey-findings-to-guide-employment-policy/) with a [companion volume comparing the 2023, 2025 and 2026 rounds](https://www.gbosdata.org/downloads-file/628-the-gambia-labour-market-progress-and-trends-2) — participation at 54.5% against 43.6% in 2023, unemployment at 6.2% against 7.6%. The [findings report puts the agriculture share of employment at 17.8%](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report), which reflects the 19th ICLS standard excluding own-use food production and is not comparable with earlier rounds. The Central Bank had [convened producers and users two days earlier](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data), naming data gaps, inconsistency and inaccessibility as the constraints.
 <!-- /narrative -->

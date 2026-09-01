@@ -1,52 +1,29 @@
 ---
-title: Sao Tome and Principe — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Sao Tome and Principe — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: STP
-ledger_rows: 11
+ledger_rows: 4
 not_held: 13
-record: 6a5ba302d262
+record: 1c0e963c4093
 ---
 
-# Sao Tome and Principe: monthly update, July – August 2026
+# Sao Tome and Principe: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Eight rows moved between 1 July and 11 August 2026. The National Electoral Commission opened public consultation on a provisional voter roll after finding [the automatic civil-registry derivation had missed 1,860 eligible voters](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/) — the clearest instance yet of a system inheriting the flaws of the register it was built from. The [Cadastro Social Único's coverage figure — about 12,500 households, roughly a quarter of the population — was published for the first time](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/), with the agency itself taking care to state that registration is not a poverty count. AGER convened the country's first Internet Governance Forum, and AUDA-NEPAD launched its island-economies programme covering STP among seven states. A regional data-governance workshop moved forward the national adoption process for the African Union's Data Policy Framework, and EMAE's management-information-system tender was extended with no further procurement detail disclosed. UNICEF opened a tender for school ICT equipment, its contract value left to bidders to price.
+Four rows moved, three of them systems work and one an agreement not yet signed. The electoral commission [opened a consultation window on a provisional roll of 146,510 voters](https://rstp.st/2026/07/31/eleicoes26-cen-lanca-campanha-de-consulta-e-atualizacao-de-dados-com-mais-de-146-mil-eleitores-inscritos/) after finding the automatic civil-registry derivation had omitted 1,860 eligible people â€” a system inheriting the flaws of the register it was built from. The social protection directorate [put the single social registry at about 12,500 households, roughly a quarter of the population](https://rstp.st/2026/08/03/direcao-da-protecao-social-esclarece-sobre-cadastro-social-unico-stp/), stating unprompted that registration is not a poverty count. A procurement agency [extended the tender for the state utility's new management-information system](https://www.telanon.info/destaques/2026/08/07/53902/afap-prorroga-a-solicitacao-de-fornecimento-instalacao-treinamento-e-comissionamento-do-novo-sistema-de-informacao-de-gestao-mis-para-a-emae/) without disclosing value or new deadline, and a UN agency [handed computing equipment to the tax directorate](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/) with neither value nor schedule attached. A second information-exchange agreement with the same foreign counterpart on money laundering [is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/), with no date or text held.
 <!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-[A Data Governance Capacity Building Workshop ran 9–10 July 2026](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/), led by the D4D Hub with GIZ, AUDA-NEPAD and KICTANET, on national adoption of the AU Data Policy Framework; translation into policy or institutional reform remains the stated goal, not yet delivered. [AUDA-NEPAD launched its Programme for African Developing Island Economies at the AU's STC Ministerial Segment in Abidjan on 24 July](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopting a ministerial communiqué covering STP among seven island states on a 2026–2031 roadmap naming digital transformation, AI and automation, and the knowledge economy among its accelerators, with partners including Korea, the AfDB, the regional economic communities and the Indian Ocean Commission.
-<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
 A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the base holds no signature date or text for it.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-São Tomé and Príncipe was one of six countries at the [second Lusophone Africa data governance workshop, held in Luanda from 15 to 17 June with an implementation focus — data centres, cloud, interoperability, digital public infrastructure and institutional governance](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda). No São Toméan national content from the workshop is detailed, so what the country took from it is not established.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-[AGER convened the first Fórum de Governança da Internet (FGI STP) on 28–30 July 2026](https://www.ager.st/index.php/en/news/19-annonces/122-ager-realiza-com-sucesso-a-1-edicao-do-fgi-stp), at Casa Cacau, opened by the Prime Minister, with tracks covering digital trust, service-delivery infrastructure, regulation, privacy and data protection, and AI, framed under the theme of connectivity as a pillar for digital inclusion. It is the regulator's own convening rather than a government ministry's, and the first time São Tomé and Príncipe has run a national forum of this kind. No outcome document or date for a second edition was published.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-UNICEF's tender for school ICT equipment, opened 30 July 2026 against grant SC220341, is the month's only new financing activity in this section; no contract value was stated, since bidders price the supply themselves, and the tender does not disclose the total size of the grant it draws on.
 <!-- /narrative -->
 
 ## DPI
@@ -65,12 +42,4 @@ UNICEF's tender for school ICT equipment, opened 30 July 2026 against grant SC22
 
 <!-- narrative: dpi--dpi-govtech -->
 The month's government-systems movement is hardware. A UN agency [handed computing equipment to the tax directorate under an EU-funded regional programme, to modernise tax administration and the handling of fiscal data](https://rstp.st/2026/08/18/pnud-entrega-equipamentos-informaticos-a-direcao-geral-dos-impostos/). No value is stated for the equipment and no delivery schedule accompanies it, so what the base holds is a donation and an intention rather than a system with a capability attached.
-<!-- /narrative -->
-
-## Capacity
-
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-[UNICEF's São Tomé office opened a tender (RFQ_03/2026, closing 12 August)](https://www.telanon.info/destaques/2026/07/30/53795/unicef-aquisicao-de-tablets-computadores-e-acessorios-destinados-ao-reforco-das-tecnologias-no-sistema-educativo/) for 80 tablets and 90 all-in-one desktop computers to reinforce technology in school ICT rooms, against grant SC220341 under the National Digital Learning Programme (PNAD), with delivery preferred by the second week of September 2026. No contract value was stated in the tender notice, since bidders price the supply themselves.
 <!-- /narrative -->

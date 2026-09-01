@@ -1,34 +1,21 @@
 ---
-title: Guinea-Bissau — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Guinea-Bissau — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GNB
-ledger_rows: 6
+ledger_rows: 2
 not_held: 1
-record: d4ef564b9a41
+record: ff6bfdffc2c0
 ---
 
-# Guinea-Bissau: monthly update, July – August 2026
+# Guinea-Bissau: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-Three developments were recorded between 1 July and 19 August 2026. [The Instituto Nacional de Estatistica released preliminary RGPH4 census results](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/) on 23 July, putting the resident population at 2,191,202 — the country's first new population baseline since 2009 and its first fully digital census. The next day, [AUDA-NEPAD launched its Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at a ministerial segment in Abidjan, naming Guinea-Bissau among seven island states under a 2026–2031 roadmap that includes digital transformation as one of six pillars. In August [the government approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), the first movement on a decree that had stood approved in draft since July 2025.
-<!-- /narrative -->
-
-## Governance
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The digital integrity law was [passed unanimously with amendments by the transitional parliament on 21 May, framed by the government spokesman as targeting those who spread hate and act against the State](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/), with enforcement mechanisms, including for citizens abroad, left unstated. Its publication and in-force dates are unconfirmed. It was [first invoked on 21 July by the communications ministry over a false claim that TikTok was being shut down in the country](https://ang.gw/ministerio-da-comunicacao-social-considera-de-falsas-informacoes-sobre-encerramento-de-tik-tok-no-pais/) — the first use the base records, and it is the state correcting a claim about itself.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-[AUDA-NEPAD launched the Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) at the Ministerial Segment of the Specialized Technical Committee on Trade, Industry and Minerals in Abidjan on 24 July 2026, covering Guinea-Bissau alongside Cabo Verde, the Comoros, Madagascar, Mauritius, Sao Tome and Principe and Seychelles. A 2026–2031 roadmap groups the seven states under six pillars, including connectivity and AfCFTA integration and digital transformation — with digital public infrastructure, artificial intelligence and automation named as accelerators. Ministers adopted a communique committing to the programme; no Guinea-Bissau-specific national action under it has yet been reported.
+Two rows moved, one of them a decree that had been waiting a year. On 8 August the government [approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), the first movement on a draft the Council of Ministers had approved in July 2025; the announcement came from the regional programme that funds the work rather than from a gazette, and names no decree number or entry into force. Ahead of the 30 August referendum the electoral support office [handed the elections commission an updated register of 966,152 voters, unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having [issued 25,146 replacement voter cards in a 30-day operation to 11 August](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). The month's registry work was replacing credentials rather than adding registrants.
 <!-- /narrative -->
 
 ## DPI
@@ -38,21 +25,8 @@ The digital integrity law was [passed unanimously with amendments by the transit
 <!-- narrative: dpi--dpi-exchange -->
 [The government approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), announced on 8 August 2026 by the World Bank-backed Western Africa Regional Digital Integration Program, which supports the work and presents the framework as Guinea-Bissau's contribution to the regional programme. A draft decree on the interoperability of public and private digital systems had been approved by the Council of Ministers on 10 July 2025 and had not moved since; the announcement names no decree number, no gazettal and no entry-into-force date, and the paired data-governance and cybersecurity decrees approved alongside it in 2025 remain where they were.
 <!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-Guinea-Bissau's connection to the regional instant-payment rail widened. The BCEAO's [participant list of 31 July 2026](https://ns2.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf) records five institutions authorised to open PI-SPI services to the public - Banco da Africa Ocidental, BDU, Coris Bank, Ecobank and Orabank - against three when the platform opened to the public in September 2025. Guinea-Bissau and Niger hold the joint-smallest national counts on a union list that has more than doubled over the same period, to 104 participants across the eight WAEMU states.
-<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The register moved without the electorate changing. The electoral support office [handed the updated register to the elections commission in physical and electronic form for the 30 August referendum, recording 966,152 registered voters — unchanged from the last update](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/), having also [issued 25,146 replacement voter cards in a 30-day nationwide operation from 13 July to 11 August through 51 brigades covering every region](https://ang.gw/gtape-anuncia-emissao-de-25-146-cartoes-do-eleitor-da-2a-via/). So the month's work was replacing credentials rather than adding registrants, and no audit or de-duplication statement accompanies the handover.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-[The Instituto Nacional de Estatistica released RGPH4 preliminary results on 23 July 2026](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), putting resident population at 2,191,202 — cut from a raw collected base of 2,246,300 after correction for repeated names, against 1,449,230 in 2009. [50.7% are women and 45.7% urban](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/); [304,939 households, 559,303 dwellings and 376,258 buildings were enumerated, using computer-assisted personal interviewing throughout](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/). UNFPA and the World Bank financed the census; demographic, social, economic and housing tabulations are to be released progressively over the coming months.
 <!-- /narrative -->

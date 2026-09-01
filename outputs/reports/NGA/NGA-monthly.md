@@ -1,14 +1,14 @@
 ---
-title: Nigeria — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Nigeria — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: NGA
-ledger_rows: 177
+ledger_rows: 127
 not_held: 8
-record: 79c5894f2a66
+record: be8a86c21c24
 ---
 
-# Nigeria: monthly update, July – August 2026
+# Nigeria: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -133,17 +133,6 @@ The state put its own instrument behind the same argument on 5 August, [signing 
 The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
 
 The month's largest capacity announcement is offshore-financed and not yet sited. The operator group [named the UAE backer of its Africa Data Hub Holding vehicle on 27 August as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub, with its own connectivity business a shareholder supplying open-access connectivity and go-to-market support](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), the vehicle having been named in the group's half-year results booklet three days earlier without the partner behind it. The [first phase targets 150MW of AI-ready capacity across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split between the two countries, no Nigerian site, no cost and no commissioning date stated — a number to hold against the 50 to 56 MW the country's twenty-six existing facilities actually carry.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-
-The regulator's own quarterly report is the first authoritative statement of grid reliability the base has carried for some time. Its first-quarter 2026 instalment [records frequency and voltage outside the Grid Code range, 7.96 per cent transmission loss and 32.72 per cent plant availability, with a total grid collapse on 23 January and a partial collapse on 27 January](https://nerc.gov.ng/wp-content/uploads/2026/07/2026_Q1-Report.pdf). The document is statutory under section 56(3) of the Electricity Act 2023, which is what makes it a series rather than an announcement.
-<!-- /narrative -->
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-[The identity authority's servers, databases and networks are not sized for compulsory use of the national identification number](https://punchng.com/pros-cons-of-amended-nimc-act/) across the fourteen sectors the amended Act reaches — a compulsory register carrying a 2027 election-integrity risk if it cannot be relied on across that volume.
 <!-- /narrative -->
 ### Cybersecurity
 

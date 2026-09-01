@@ -1,14 +1,14 @@
 ---
-title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Kenya — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: KEN
-ledger_rows: 159
+ledger_rows: 105
 not_held: 7
-record: e3f529191151
+record: 92f2f60f83a8
 ---
 
-# Kenya: monthly update, July – August 2026
+# Kenya: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -78,11 +78,6 @@ The commission answered on 27 August. It [said no company has been awarded the 2
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The 2027/28 budget process launched on 24 July naming the Digital Superhighway a priority sector, with no ceiling or figure published.
-<!-- /narrative -->
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
@@ -123,11 +118,6 @@ Two prospective builds at the technopolis went from talk to signature inside fiv
 
 
 A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-Power is what is holding the data-centre build back, and there is no rule governing it. A hyperscale project [stalled on power capacity in July, against about 3 GW of installed supply and a 10 GW-by-2030 target — a single 1 GW facility would take a third of supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/). No published tariff, gazetted large-load connection rule or grid-connection framework for data centres exists: every power arrangement the base holds is bilateral.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -251,14 +241,6 @@ The KenSafeSpace digital-rights coalition [closed on 28 July](https://www.kictan
 The larger withdrawal is American. An implementing partner's account published on 12 August reports that [work bringing connectivity and digital inclusion to remote Kenyan counties slowed or stopped after the 2025 wind-down, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), and that [the multi-funder Women in the Digital Economy Fund lost its American component while the parts other funders backed continued](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html). What is described as lost is not the money alone but the convening: the party that got competitors, ministries and communities into the same project. No replacement funder is named, and no figure for the Kenyan share is stated.
 
 Domestic provision was restated in the same fortnight. The regulator's Universal Service Fund [put a target of 120,000 people across 19 counties over three years on its Digital Skilling Project](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/), aimed at unserved and underserved areas and framed as the skills half of a connectivity programme. It is a target stated at a stakeholders' workshop: no budget line, delivery partner, county list or start date accompanies it, and the fund's own FY2025/26 account is still unpublished.
-<!-- /narrative -->
-
-## Data
-
-### Open data
-
-<!-- narrative: data--data-open -->
-The draft data governance policy provides for a [state-run data marketplace of more than 1,000 datasets over five years, at KSh 396m to build and operate, overseen by a proposed national council](https://itweb.africa/article/kenya-proposes-marketplace-for-state-data/RgeVDMPRldKvKJN3). Pricing is deferred to a later phase with no valuation method stated — a state proposing to sell data it holds by compulsion, before it has said what the data is worth or on what basis.
 <!-- /narrative -->
 
 ## Geopolitics

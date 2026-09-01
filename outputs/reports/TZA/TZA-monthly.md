@@ -1,14 +1,14 @@
 ---
-title: Tanzania — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Tanzania — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: TZA
-ledger_rows: 88
+ledger_rows: 53
 not_held: 13
-record: 85dd72e13c1c
+record: 2d91924124ac
 ---
 
-# Tanzania: monthly update, July – August 2026
+# Tanzania: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -60,11 +60,6 @@ The month's one finding about political speech came from outside the state. A ci
 
 ## Finance
 
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-Three external tracks opened in one week, none priced. On 17 July [cooperation frameworks were agreed with Brazil and Poland on AI strategy, digital government and cybersecurity research](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), with memoranda proposed and none signed; [youth and technology-skills agreements with Russia were in drafting](https://www.thecitizen.co.tz/tanzania/news/national/samia-s-russia-visit-opens-new-tech-frontier-for-tanzania-s-digital-future-5532062). On 24 July the ministry's permanent secretary signed a [memorandum in Shanghai covering ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu). The ministry's own release states no commitment amount, term or financing structure.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -90,11 +85,6 @@ The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinage
 A data-centre group named its Tanzanian site as under development while raising [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/), giving no Tanzanian size, cost or date.
 
 A sector review of 5 August put a count on what is already there: [ten data centres in Dar es Salaam and one in Dodoma, operated by six carriers](https://african.business/2026/08/free-article/tanzanias-digital-dividend). It is a count and nothing more — no capacity, load or utilisation accompanies it — and it is a trade magazine's rather than the regulator's, so it does not replace the state's own count of public centres commissioned.
-<!-- /narrative -->
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-The state operator [gave students of a technical institute hands-on training on backbone technologies](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/), reported 23 July with no intake number or cadence.
 <!-- /narrative -->
 ### Cybersecurity
 

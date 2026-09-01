@@ -1,14 +1,14 @@
 ---
-title: Lesotho — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Lesotho — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: LSO
-ledger_rows: 36
+ledger_rows: 24
 not_held: 4
-record: 9c33b1ca3a90
+record: b5806d88800f
 ---
 
-# Lesotho: monthly update, July – August 2026
+# Lesotho: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -36,14 +36,6 @@ No instrument was made, gazetted or brought into force in this window. [Reportin
 
 <!-- narrative: governance--gov-discourse -->
 The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
-<!-- /narrative -->
-
-## Finance
-
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The development-partner support named at the Blueprint workshop carries no amount; no appropriation, disbursement or training figure was published in the window.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -111,37 +103,12 @@ At the CSIRT launch the ministry also stated a plan to move ICT services out of 
 Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
 <!-- /narrative -->
 
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-The same Econet-UNDP memorandum establishes a National AI Academy, with nothing naming a timetable, governance structure, curriculum or host institution for it. Econet Group separately states an agreement with NVIDIA for African AI compute capacity; nothing on file corroborates it and no capacity figure or siting is given.
-
-At the UN Global Dialogue on AI Governance in Geneva, MICSTI Principal Secretary Kanono Ramashamole [argued that developing nations must be co-creators rather than only consumers of AI](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), naming fragmented data and weak governance as obstacles.
-
-A [CIPIT paper published on 1 July](https://cipit.strathmore.edu/wp-content/uploads/2026/07/AIIPin-Africa-Final.pdf) reads Lesotho's AI strategy against the African Union Continental AI Strategy and other national strategies, and finds intellectual property acknowledged as an enabler while training-data licensing, authorship of AI-generated works and infringement are engaged only to a limited extent.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://lestimes.com/?p=91121) at the Mpilo Boutique Hotel on Tuesday 28 July 2026, signed by ETL chief executive Dennis Plaatjies and UNDP deputy resident representative Dr Taye Amssalu, renewing a partnership first signed in 2020 and amended in 2022. It runs across digital transformation, connectivity and AI; innovation and skills, including a University Innovation Pod; and MSME digital entrepreneurship. No amount, term or deliverable is stated in any account held.
-<!-- /narrative -->
-
 ## Capacity
 
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
 MICSTI reported [digital-literacy training running across all ten districts](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) at the CSIRT launch on 29 July, with no participant numbers published.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-At Geneva on 9 July the ministry gave its own measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), which it attributed to affordability.
 <!-- /narrative -->
 
 ## Data

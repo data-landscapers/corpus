@@ -1,14 +1,14 @@
 ---
-title: Ghana — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Ghana — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GHA
-ledger_rows: 130
+ledger_rows: 76
 not_held: 9
-record: c39843380e14
+record: 7ac21dda4f2d
 ---
 
-# Ghana: monthly update, July – August 2026
+# Ghana: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -46,11 +46,6 @@ Ghana's regional position moved on three fronts, none of them with a text attach
 
 A fourth front does have something running. A continental alliance and a German development agency say [a digital identity issued in Rwanda, Ghana or Benin is now recognised in the other two, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No scale, service, date or governing instrument is stated.
 <!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The central bank's [cyber and information security directive is in force](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) as the country's first comprehensive artificial-intelligence governance framework for financial institutions, carrying cloud-security rules, proportionality by size and risk, and mandatory board-level accountability. Against that, the communications minister [named a national data exchange hub again on 29 July](https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/) as something government plans to establish, with no design, cost or timetable, and without saying whether it revives the system launched in 2009 or replaces it.
-<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -61,20 +56,10 @@ The same week the ministry took the governance argument outward and inward at on
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-Parliament [approved a multi-year expenditure commitment on 28 July](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) for three revenue platforms — a fiscal device policy, a cross-border electronic-commerce tax system going live in September 2026, and a domestic collection platform still to be procured — with published benefit projections and no disclosed total cost, contract duration or termination terms. The opposition [rejected all three](https://dailyguidenetwork.com/minority-rejects-passed-3-digital-tax-deals/), alleging the cross-border operator could take up to 3% of collections, about GH¢690m a year, and that the unit cost of 40,000 fiscal devices and who ultimately pays for them were never disclosed.
-<!-- /narrative -->
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
 The country renewed the agreement under which several of its digital customs systems are financed. The [TradeMark Africa country programme memorandum was renewed on 14 August](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/), continuing trade-facilitation and continental-free-trade-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders. No financing sum, term or workplan is stated — and the same border post is where a regional dialogue on identity-card and transit-system interoperability was held four days earlier.
-<!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-Parliament [approved a twenty-year public-private toll concession on 31 July](https://ghstandard.com/business-news-in-ghana/ghana-economy-news/parliament-approves-20-year-electronic-road-toll-concession/) for nationwide fully electronic collection, through a special-purpose vehicle to be established by a named company. No concession value, revenue split, corridor count, build timetable or collection technology is stated. A [national financial-technology fund remains to be aligned with a forthcoming innovation and startup framework](https://techafricanews.com/2026/07/07/ghana-and-undp-strengthen-partnership-on-digital-transformation-projects/) that would set eligibility and give it a legal basis; no size, source of funds or date is given.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -85,16 +70,6 @@ Parliament [approved a twenty-year public-private toll concession on 31 July](ht
 The regulator's [consolidated response of 31 July](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) answered sixty written queries from four prospective applicants, formally amended the request for applications in seven places, and shifted every subsequent date by 21 days, with licence fees now due 17 November. [It refused any extension to the 70% population coverage obligation of 6 March 2027 while confirming that obligation is band- and technology-neutral and can be met in substantial part from existing deployment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf). It also rewrote the dominant operator's rural schedule from licence-relative years into fixed dates of December 2029, 2032 and 2035, expressly so that buying spectrum would not accelerate an equivalent existing commitment. [And it recharacterised the 40% premium on that operator's reserve prices in writing as a price for attributable value rather than a sanction or a market-power remedy, declining to publish its valuation model during a live assignment](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf).
 
 Beneath the licensing argument, the traffic that never leaves the country was counted. On 16 August the Accra exchange was reported [past 200 Gbps, against three exchanges that barely overlap: only 4 of 39 connected networks peer at all three, so most local traffic still transits abroad](https://tech.africa/accra-three-internet-exchanges/). The headline figure is the smaller finding. An exchange is worth the traffic it keeps local, and three partly-overlapping exchanges keep less of it than one would.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The country's largest data-centre campus by committed capacity entered the record on 28 July at [30 MW designed for expansion to 150 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/), through a regional trade round-up with no Ghanaian primary behind it. [The same 29 July announcement reaffirmed the US$250m AI compute centre approved in April](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/). Sixteen weeks after Cabinet approval, the compute centre has no site, contractor or procurement notice.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-No power purchase, tariff or on-site generation arrangement is published for any named Ghanaian data-centre facility, and a probe on 5 August found none. What is available is country-level and modelled: [about 6 GW of installed capacity of which roughly half reaches the end user, electricity at about US$0.12 per kWh and independent producers at more than 60% of capacity](https://cms.d4dhub.eu/assets/Initiatives/Data-Governance-in-Africa/Digital-Investment-Facility/2507_Country-Market-Briefs/Data-Center-Market-Brief-Ghana.pdf), on 2024 estimates in an analyst brief.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -140,11 +115,6 @@ The dominant operator opened a channel to the next cohort of providers instead. 
 
 Card acceptance widened from outside the domestic rails. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Ghana on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Ghana.
 <!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-Business registration is [in pilot for end-to-end filing from name search to certification with no physical submission](https://amchamghana.org/2026/07/23/amcham-ghana-engages-registrar-general-on-digital-transformation-and-business-registration-reforms/), integrating with national identification for verification, with a companion beneficial-ownership verification service piloting with banks on a subscription basis. Launch is given only as the coming months.
-<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -158,14 +128,6 @@ The finance ministry reported to Parliament that the customs valuation system ha
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
 Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Nothing is held on local-government electronic services. The public-sector reform strategy [names local government only as an integration target](https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-public-services-full-digitisation-under-npsrs-ii.html), and no district service platform or local-government digitisation report has been found that would settle it.
 <!-- /narrative -->
 
 ## Technology

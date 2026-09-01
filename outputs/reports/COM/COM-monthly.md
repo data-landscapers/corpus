@@ -1,21 +1,23 @@
 ---
-title: Comoros — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Comoros — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: COM
-ledger_rows: 14
+ledger_rows: 9
 not_held: 35
-record: ee8422527570
+record: 6d920b480a06
 ---
 
-# Comoros: monthly update, July – August 2026
+# Comoros: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-ANADEN, the digital development agency, [seated its board of directors for the first time on 27 July 2026](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html), seven weeks after the decree naming its members, and used the session to adopt its 2026 action plan; the same week Comoros was named among seven island states covered by [AUDA-NEPAD's Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), launched in Abidjan on 24 July with no Comorian component yet specified. Elsewhere, Comores Télécom [cut its entry fibre tariff from KMF 32,500 to KMF 30,000 a month on 15 July](https://alwatwan.net/societe/télécommunications-i-comores-télécom-lance-de-nouvelles-offres.html), the Registre social unique [passed 62,000 households enrolled as of 10 July](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a Comorian graduate [launched Komori Tts, the first text-to-speech model for Shikomori, on 28 July](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html), and two secondary pupils [became the country's first entrants to the International Olympiad in Artificial Intelligence](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html), competing in Astana from 2 August.
+Nine rows moved, and the month's shape is preparatory work against one failure. The mobile-money interface to prepaid electricity meters [was reported to have let meter credit go uncollected on Moheli](https://www.comoresinfos.net/200-millions-de-francs-de-pertes-presumees-que-sest-il-passe-entre-mvola-et-la-sonelec-a-moheli/), the only regression on the ledger and the first operating fault the base holds for a payment interface here. Against it, [a school-management platform was launched on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html), [a national data-governance strategy for 2027-2031 went to a validation workshop in Moroni on 24-25 August](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique), and the civil-registry modernisation programme [presented a resource-mobilisation strategy](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique) â€” none of them yet a system in service.
+
+The statistical apparatus is the busiest part of the record: [the annual agricultural survey closed its sensitisation campaign and trained its national instructors](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) and [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). On the research side [a Shikomori text-to-speech model entered first public trials](https://alwatwan.net/societe/intelligence-artificielle-i-Â«komori-tts-Â»,-la-premiÃ¨re-synthÃ¨se-vocale-dÃ©diÃ©e-au-shikomori.html) and [two pupils became the country's first entrants to the international artificial-intelligence olympiad](https://alwatwan.net/societe/olympiade-internationale-dâ€™ia-i-deux-lycÃ©ens-reprÃ©sentent-les-comores-au-kazakhstan.html).
 <!-- /narrative -->
 
 ## Governance
@@ -26,11 +28,6 @@ ANADEN, the digital development agency, [seated its board of directors for the f
 ANADEN, the digital development agency, [held the first meeting of its board of directors on 27 July 2026 at the Hôtel Retaj in Moroni](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html), members having been named by decree n°26-075/PR of 11 June 2026. The board adopted its rules of procedure and elected Nourdine Mohamed of the Commissariat général au Plan as chair, Najwa Aichem Hissami Eddine of the Presidency of the Union as vice-chair and El Amine Souef of the ICT ministry as rapporteur. It then examined ANADEN's 2026 action plan, presented by director-general Said Mouinou Ahamada, who [framed the session as the institutional footing for delivery of the Stratégie Comores Numérique 2028](https://lagazettedescomores.com/société/l’anaden-élit-son-bureau-du-conseil-d’administration-.html) and called for tighter coordination between the state bodies represented on the board. The agency had operated without constituted governance organs since the decree naming the board was signed seven weeks earlier.
 
 A second strategy was validated in the same period, this one on data. Government, private sector and civil society met the African Union development agency in Moroni on 24 and 25 August to [review and validate a national data governance strategy for 2027 to 2031, examining its vision, guiding principles, five pillars - digital infrastructure, data governance, interoperability, value creation and data skills - and its implementation plan](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). Validation at a workshop is not adoption: the text is not published and no adopting instrument, date, budget or responsible body is on record.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Comoros was named among the seven states covered by the [Programme for African Developing Island Economies, which AUDA-NEPAD launched at the Ministerial Segment of the Specialized Technical Committee on Trade, Industry and Minerals in Abidjan on 24 July 2026](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies). The 2026–2031 roadmap organises support around six pillars, including connectivity and AfCFTA integration and digital transformation, with digital public infrastructure, artificial intelligence and automation named among the accelerators. Ministers adopted a communiqué committing to the programme, advanced in partnership with the Republic of Korea, the African Development Bank, the regional economic communities and the Indian Ocean Commission. No Comorian component, financing figure or national milestone was stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -84,4 +81,6 @@ Two pupils of the private école Mouigni Baraka, Anmar Mohamed and Hafsoit Idris
 
 <!-- narrative: data--data-statistics -->
 The statistics institute ran a [sensitisation campaign across the archipelago's governors, prefects, mayors and village chiefs and held a five-day donor-funded training-of-trainers workshop on survey methodology, questionnaire design and electronic data-collection tools](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html), ahead of the annual agricultural survey's rollout. It follows the second general agricultural census, whose results were published in April, and no first survey round or results date is on record. The source dates the workshop inconsistently with its own reference to the previous week, so only the campaign's dates are internally reliable.
+
+The census apparatus moved alongside it: [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). No enumeration date is published.
 <!-- /narrative -->

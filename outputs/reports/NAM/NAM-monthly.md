@@ -1,14 +1,14 @@
 ---
-title: Namibia — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Namibia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: NAM
-ledger_rows: 64
+ledger_rows: 30
 not_held: 12
-record: 02b661784e20
+record: 5787b48058ce
 ---
 
-# Namibia: monthly update, July – August 2026
+# Namibia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -33,11 +33,6 @@ The ICT minister met a consultancy delegation in Windhoek on 3 August on trustwo
 
 <!-- narrative: governance--gov-legislate -->
 The ICT minister told the regulator's new board on 13 July that the Cybercrime Bill and the Data Protection Bill were being finalised, and the ministry stated that Namibia is still developing a comprehensive legislative framework for cybercrime, with law enforcement and the judiciary relying meanwhile on the Electronic Transactions Act, the Communications Act and the penal code ([board account](https://itweb.africa/article/namibia-pushes-cyber-security-reforms/mQwkoq6YJWlM3r9A)).
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-On 4 August an opposition member told a newspaper that with no data-protection statute in force there is no legal definition of a data controller and no rules governing cross-border transfer, that the constitutional privacy provision has no enabling statute, and asked parliament to compel disclosure of the smart-city agreements, annexures, contractors, data architecture and lifetime operating costs ([member's account](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/)). A gazette notice withdrawing existing identity documents is otherwise covered in this month's summary; it has no separate drafted narrative here.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -64,18 +59,6 @@ The communications regulator and the electricity distributor [signed a five-year
 On 30 July the ministry, the regulator and three operators met the traditional authorities' trust on streamlining tower siting and cutting deployment delays and costs; the ministry reported no agreement, instrument or timetable ([convening account](https://www.itweb.africa/article/namibia-taps-chiefs-for-network-rollout/LPwQ57lbeY5qNgkj)). Traditional authorities manage communal land, which the ministry treats as the siting constraint.
 
 The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-A vendor is building smart-city solutions and a data centre with the ICT and home affairs ministries, and [China committed CNY 98,000,000, given as about US$14.4m](https://itweb.africa/article/china-funds-namibia-digital-infrastructure/rW1xL75n1YmMRk6m). No signed agreement, annexure or contractor list is held, and an [opposition member puts the same commitment at N$245m](https://observer24.com.na/mp-raises-concerns-about-data-control-of-smart-city-grant-from-china/) with no dated conversion between the two.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The regulator recorded 513,921 vulnerabilities and 161,547 cyber events between April and June 2026, up 39.8% and 56.7% on the prior quarter, and attributed the rise to systems needlessly reachable from the internet, unpatched software and weak authentication ([regulator account](https://neweralive.na/namibias-cyber-threats-soar/)). The figures come a quarter after incident management guidelines were issued in April 2026.
-
-The regulator and the chamber of commerce signed a three-year memorandum in Windhoek on 30 July with a joint steering committee, covering public key infrastructure, cybersecurity, electronic trade facilitation, regulatory standards, legislative reform, digital literacy and capacity building; no funding, deliverables or milestones were published ([memorandum account](https://economist.com.na/108753/general-news/ncci-and-cran-partner-to-accelerate-digital-economy/)). The regulator separately stated on 29 July that it is the national root certification authority.
 <!-- /narrative -->
 
 ## DPI
@@ -111,11 +94,6 @@ The securities depository was used for the first time by a listed corporate issu
 The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
 
 The Roads Authority [launched a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-Legally recognised electronic signatures have [no launch on record, the February 2026 nationwide target having passed](https://itweb.africa/article/ai-abuse-overshadows-namibias-e-signature-drive/P3gQ2qGAR157nRD1), with accreditation of service providers still under way. The capability is now [described instead as a component of the September 2026 identity card](https://informante.web.na/?p=398234) — a target absorbed into another target.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -180,11 +158,6 @@ China [handed over a satellite data-receiving ground station at the earth statio
 
 ## Geopolitics
 
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-The President met a vendor's executives in Shenzhen on 7 July and urged the company to create artificial-intelligence jobs and skills for Namibians; the Presidency acknowledged a Chinese contribution of CNY 98,000,000 to the Windhoek smart-city pilot, given by the source as about US$14.4m in 2026 ([Presidency account](https://www.namibian.com.na/nandi-ndaitwah-pushes-ai-jobs-in-huawei-talks/)).
-<!-- /narrative -->
 ### India activities
 
 <!-- narrative: geopolitics--geopol-india -->

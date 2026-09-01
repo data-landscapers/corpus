@@ -1,14 +1,14 @@
 ---
-title: Botswana — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Botswana — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: BWA
-ledger_rows: 46
+ledger_rows: 24
 not_held: 7
-record: 1af6ce62c6a9
+record: 9dab74ee4546
 ---
 
-# Botswana: monthly update, July – August 2026
+# Botswana: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -26,35 +26,10 @@ Two instruments were made rather than reported on: a [national e-waste managemen
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-On 13 July the regulator and the environment department [launched a national e-waste management strategy and signed an inter-agency memorandum](https://techreviewafrica.com/news/6284/botswana-launches-national-e-waste-strategy-as-bocra-and-environmental-department-sign-partnership-agreement). No targets, budget, collection volumes or implementation dates were published, and the strategy document itself is not on file.
-<!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-Two instruments took effect and both widen the state's reach over digital services. The [electronic payment services amendment regulations are in operation, extending scope to money or value transfer services, taking fit-and-proper tests through to beneficial owners and 10% shareholders, and making unlicensed operation punishable by P1,000,000 and five years](https://www.bankofbotswana.bw/sites/default/files/Electronic%20Payment%20Services%20%28Amendment%29%20Regulations%2C%202026.pdf). Float interest is ring-fenced and directed by the central bank, with promotion of financial inclusion dropped from the permitted uses and not replaced by any customer entitlement. Separately the [remote-service VAT Act took effect on 1 June, charging 14% on non-resident digital and remote services against a stated collection target of about P450m a year](https://www.mmegi.bw/business/burs-looks-to-tax-global-digital-services-providers/news).
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data-protection commission [issued a determination and enforcement notice against the public service management directorate on 17 July, with compliance evidence due within one month](https://na.co.bw/data-commission-orders-suspension-of-dpsm-epayslip-portal-over-privacy-law-breaches/). The directorate published a privacy notice on 6 July and completed an impact assessment on 13 July; the determination itself is not held, and both accounts of it are press carries.
-
-It is the commission's second enforcement action on record, after non-bank financial institutions in February 2026, and its first against a government body. A year earlier the commission ran on [three contract officers with no premises, no published address, no website and no deputy commissioner](https://dailynews.gov.bw/news-detail/87795); it still has no budget organisation or line of its own.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The [ICT memorandum with Namibia was signed at Kasane on 7 August](https://techreviewafrica.com/news/6641/namibia-and-botswana-sign-ict-cooperation-agreement) between the two ICT ministries, with their operators and regulators present, covering digital transformation, cybersecurity, connectivity and skills development. It had been [announced for signature the day before](https://techafricanews.com/2026/08/06/botswana-and-namibia-to-sign-ict-cooperation-agreement/) as an extension of existing roaming and submarine-cable transit cooperation. The signed instrument itself is not held, and no term, funding or data-governance provision is published; what the two sides did publish alongside it is operational, and is recorded under connectivity below.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The Arab Bank for Economic Development in Africa [signed a EUR110m mixed credit facility with the Botswana Development Corporation, and a EUR500,000 grant to the agriculture university, at its board meeting in Gaborone on 15 July](https://dailynews.gov.bw/news-detail/92265). The facility is to the development corporation rather than to a ministry, which places the lending at one remove from the budget the transformation plan is executed through.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -86,13 +61,6 @@ A published account documents a [growing digital safety problem](https://www.mme
 
 ## DPI
 
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-Two identity-layer systems showed capacity problems rather than design problems this month. The public accounts committee was told on 30 July that the [national public key infrastructure has P423m secured, control transferred to the intelligence directorate, and no working system, timeline or accountable owner](https://weekendpost.co.bw/p420-million-digital-bombshell/). On the committee's account Botswana has no certificate-backed identity verification and no recognised electronic-signature layer. The ministry's own headline figure appears as both P420m and P423m in the single account.
-
-On 28 July a parliamentary answer put identity-card replacement delays down to [too few production staff and ageing equipment with frequent breakdowns](https://dailynews.gov.bw/news-detail/92439). The delays have run since the start of 2026 and the answer carries no backlog figure, no restoration date and no equipment-replacement commitment.
-<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
@@ -121,19 +89,6 @@ The government payroll portal was [taken offline on 22 July, with a privacy noti
 <!-- narrative: technology--tech-industry -->
 The incumbent operator reported [profit before tax of P146.2m for the year to 31 March, down 45%, on revenue of P1.47bn, down 1.6%](https://www.mmegi.bw/business/btc-profit-plunges-as-rising-costs-bite/news). The figures are company-reported, and the [prior year is given as P259m in the 2025 account against P266.6m in the 2026 one](https://www.mmegi.bw/business/demand-for-data-broadband-push-btc-revenue-up/news) — unreconciled.
 <!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-Two instruments for the innovation system arrived within three days of each other. The technology innovation agency of South Africa and the Botswana Digital and Innovation Hub [agreed a five-year joint programme and fund covering co-funding, commercialisation and cross-border work on 27 July](https://www.linkedin.com/posts/technology-innovation-agency_dsti-nsi-bdih-activity-7487557461781045248-NbOB). Two days later the communications minister [presented a Bill to create a national research and innovation council, reporting the national innovation system ranked 87th of 139 in the 2025 Global Innovation Index with research and development intensity below 0.5 per cent of output](https://dailynews.gov.bw/news-detail/92434). The diagnosis in the second is the case for the first.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-A [P654.4m contract was awarded by direct procurement on 25 June for a STEAM e-learning, coding and robotics programme](https://www.sundaystandard.info/p654-million-tender-adjudicated-awarded-same-day/), its financial evaluation received, adjudicated and approved the same day and the decision published on 8 July. The Court of Appeal cleared the procurement route about six months earlier; that judgment is not held, and this rests on a paywalled lede.
-<!-- /narrative -->
 
 ## Inclusion
 
@@ -141,11 +96,6 @@ A [P654.4m contract was awarded by direct procurement on 25 June for a STEAM e-l
 
 <!-- narrative: inclusion--include-access -->
 The Ministry of Youth and Gender Affairs [describes the Department of Gender Affairs as secretariat to the National Gender Commission](https://www.gov.bw/index.php/ministries/ministry-youth-and-gender-affairs), the standing institution behind this subject. Nothing else in the inclusion ledger moved in this window; the gender-based violence programme and the one-stop centres both date from earlier in the year.
-<!-- /narrative -->
-### Digital divides
-
-<!-- narrative: inclusion--include-divides -->
-Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). [They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers](https://dailynews.gov.bw/news-detail/92351); no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
 <!-- /narrative -->
 
 ## Data

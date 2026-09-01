@@ -1,14 +1,14 @@
 ---
-title: Burkina Faso — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+title: Burkina Faso — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: BFA
-ledger_rows: 54
+ledger_rows: 23
 not_held: 11
-record: 64b9561b058a
+record: 962178008d36
 ---
 
-# Burkina Faso: monthly update, July – August 2026
+# Burkina Faso: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -25,13 +25,6 @@ The legislature [voted a data-protection law and an organic law merging the broa
 <!-- narrative: governance--gov-policy -->
 Policy work this month was procedural rather than substantive. The digital transition ministry [held a CASEM session on what it contributes to the RELANCE 2026-2030 national plan](https://lefaso.net/spip.php?article148658). The plan text, the digital component, any budget line and any target are all unpublished, so what the record holds is that the process is running and not what it is expected to produce.
 <!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The Council of Ministers of 23 July restricted recourse to the fast-track procurement route to sovereignty, strategic character, threats to public order or service continuity, and humanitarian consequences of insecurity — at the same sitting that used the route for a schools package of about FCFA 38bn.
-
-On the statute book already in force, a press-freedom organisation [presented a report on 14 August arguing that cybercrime laws in Burkina Faso, Mali, Niger and Guinea are being used against journalists](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/), and urged repeal of the vague public-order and human-dignity provisions it says carry the prosecutions. The report is an advocacy account; the base holds no case record for it.
-<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
@@ -47,11 +40,6 @@ The same organic law creating the merged communications and data-protection auth
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The Council of Ministers of 23 July [approved a revised finance law raising both receipts and spending while leaving the deficit unchanged, and recorded 47.30% budget execution at 30 June](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/).
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -86,25 +74,10 @@ Alongside the build, the state published a count of what it has tested. [205 sta
 
 ## DPI
 
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The Council of Ministers of 30 July also [adopted the decree organising mass registration for the unique electronic identifier](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/), through committees run entirely by public structures so that fingerprint and iris data stay in-country, with mass enrolment targeted before end-2026. Enrolment had not begun as at 5 August, and the decree states no target, budget or supervisory authority. A Nigerien technical mission was received on 30 July.
-<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 The regional instant-payment rail moved its deadlines rather than its coverage: the central bank [extended connection to 30 September 2026 for banks and payment institutions and 30 June 2027 for microfinance](https://techafricanews.com/2026/07/13/burkina-faso-targets-1000-white-zones-in-2026-connectivity-drive/), with 80 institutions connected union-wide at 24 June and 74 more in test.
-<!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-An estate-agency register launched on 21 July with a compulsory card applied for and tracked wholly online and commissions capped.
-<!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-A [pension acts platform was announced as the completion of the pension programme, joining the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/). No date, budget, vendor or scope is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -135,29 +108,6 @@ Asked in plenary where AI sat in the new data-protection law, the justice minist
 
 <!-- narrative: technology--tech-innovate -->
 The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
-<!-- /narrative -->
-
-## Capacity
-
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-That agency and a payments operator opened a 72-hour financial-education campaign on 28 July, extending a partnership running since 2025 to four cities.
-<!-- /narrative -->
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-The Prime Minister's office ran a two-day session for its senior managers on 13 and 14 July on management tools for ethical and responsible artificial intelligence, a second round after a first for all staff. A parliamentary technology body [trained about thirty lawmakers on 16 July](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) to prepare their review of future legislation.
-
-An operator digital centre marked five years of operation at a ministerial visit on 4 July. The Council of Ministers of 23 July approved the statutes of a technology academy, with no intake, curriculum or budget on record.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-A financial inclusion agency delivered training and consumer protection this month, not its regulator.
 <!-- /narrative -->
 
 ## Geopolitics

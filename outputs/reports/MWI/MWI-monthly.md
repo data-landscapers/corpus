@@ -1,14 +1,14 @@
 ---
-title: Malawi — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Malawi — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MWI
-ledger_rows: 64
+ledger_rows: 30
 not_held: 53
-record: b6fce03056df
+record: 365d5beef2fb
 ---
 
-# Malawi: monthly update, July – August 2026
+# Malawi: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -36,13 +36,6 @@ A consultative meeting concluded in Lilongwe reviewing the National Registration
 
 The statutory copyright society's position on artificial intelligence became public on 23 July: it will not register works created entirely by artificial intelligence or distribute royalties on them. Its own statement is not held, the decision date is not established, and no test was published for how much assistance is admissible.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The communications regulator consulted stakeholders at Blantyre on 13 July 2026 on draft Data Protection Regulations and a registration fee schedule setting annual fees by turnover from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). The consultation follows the elapse in early June of the twenty-four-month exemption that had kept most controllers outside the Act's obligations since commencement ([the Act](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf)). No commencement date for the regulations was announced.
-
-The regulator's first published position on a specific harm followed on 18 August: a notice warning that [recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the Electronic Transactions and Cyber Security Act 2016](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/). It states the law rather than applying it: no case, complaint count or enforcement action accompanies it, and enforcement under the Act remains ***Not held***.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
@@ -52,14 +45,6 @@ The regulator and UNDP [named priorities in exploratory discussions — national
 
 <!-- narrative: governance--gov-standards -->
 On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The governance and service delivery project [closed on 30 June, its grant mechanism continuing under a successor](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/). No closing disbursement figure or results statement is held.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -81,11 +66,6 @@ The operator's annual report replaced a figure that had carried no period. It [p
 On 3 July the e-government department agreed integration of immigration e-services onto the national exchange platform ([e-government department](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
 
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The specific financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-The minister cited an 8% rise in electricity tariffs and a roughly 144% rise in fuel prices in the operators' cost case ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -147,21 +127,6 @@ A second paper process is being scoped out of existence. The partnership commiss
 Parliament ratified an SDR 58.2m grant for the successor local-government service delivery project on 29 July 2026, covering 32 councils with four entering for the first time, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). The predecessor closed on 30 June.
 
 The results announced on 31 July give the counterpoint. Councils receiving clean audit opinions fell to 18 in 2024/25 from 22 the year before, with one district council receiving an adverse opinion — disclosed at the same event that launched a public real-time dashboard for tracking constituency development spending ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)). No address for that dashboard is established in anything the wiki holds, so it cannot be inspected.
-<!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-Applied deployments in the month were single facilities rather than national systems: a university commissioned an artificial-intelligence fertigation system at its Thyolo campus on 17 July, automating irrigation and fertiliser application from real-time crop data, with no cost or funding source stated.
-<!-- /narrative -->
-
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-A UNESCO artificial intelligence readiness assessment was validated in Lilongwe on 22 July 2026, run by the education ministry rather than by the ICT ministry that owns the draft national strategy. It reported gaps in policy, infrastructure, institutional capacity and education readiness, and put 27.7% of the population online with household computer ownership at 4.2% ([validation account](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk)).
-
-On 24 July the Defence Minister stated that the Malawi Defence Force intends to adopt artificial intelligence in military operations and to learn it from the Chinese army, within a relationship he described as extending past exchanges into specialised training, equipment supply and institutional development. No Malawian doctrine, oversight body, budget line or civilian-control provision for military artificial intelligence is on file, and the draft national strategy as reported does not cover it.
 <!-- /narrative -->
 
 ## Capacity

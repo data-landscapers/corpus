@@ -1,14 +1,14 @@
 ---
-title: Eswatini — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Eswatini — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SWZ
-ledger_rows: 35
+ledger_rows: 18
 not_held: 7
-record: d4bd477d6bd0
+record: c2b1bef90476
 ---
 
-# Eswatini: monthly update, July – August 2026
+# Eswatini: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -43,14 +43,6 @@ In August the same rule-making reached a second sector and produced a ranking. A
 Asked on 4 August how online publications comply with the data-protection law, the ICT ministry [answered that implementation, enforcement and oversight do not fall within its direct mandate](https://times.co.sz/40740/news/new-regulations-to-crack-whip-on-online-media/) but are vested in ESCCOM.
 <!-- /narrative -->
 
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The month's largest item is the financing: the ICT ministry's first-quarter performance report established that Eswatini has [secured approval for more than E1.06bn in World Bank financing for the Digital Eswatini Project](https://eswatinipositivenews.online/eswatini-secures-e1-billion-digital-funding/), converted in the source at E16.37 to the dollar on 19 July 2026.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
 ### Connectivity
@@ -62,11 +54,6 @@ At a workshop for ICT parastatal directors on 22 July, the Ministry of ICT [put 
 
 Free adjudication of consumer complaints against communications providers runs under the Eswatini Communications Commission Act 2013, with windows of one month for post and courier, three for broadcasting and six for telecommunications — a structural provision, not dated state.
 <!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-On 30 July the SADC Committee of Central Bank Governors subcommittee on banking supervision, meeting at Ezulwini, [approved regional frameworks on cybersecurity, climate-related financial risk and cross-border crisis management](https://independentnews.co.sz/46874/business/central-banks-rally-to-protect-regional-financial-system-against-new-age-cyber/). The Central Bank of Eswatini governor urged supervisors to extend oversight to cloud hosting providers, payment processors and AI used in credit scoring.
-<!-- /narrative -->
 
 ## DPI
 
@@ -77,11 +64,6 @@ Three days after the FinScope survey launch, a Ministry of Finance portfolio com
 
 Cross-border, an account published on 21 July established two things by implication. Eswatini's central bank governor [discussed leveraging Egyptian experience to accelerate PAPSS accession](https://itweb.africa/article/egypt-eswatini-deepen-banking-cooperation/KWEBb7yL4wbvmRjO), which places Eswatini outside PAPSS as at that date. The same account reports low-value Common Monetary Area transactions migrating off domestic electronic-funds-transfer rails onto the TCIB scheme, with no timetable, volume, value or mandating instrument given.
 <!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-On identity, a proposal to [require DNA testing before issuing birth certificates was costed at about E126m a year, roughly 46% of the Home Affairs budget](https://times.co.sz/38899/news/dna-plan-could-swallow-e126m-of-home-affairs-budget/) — about E4,300 per test across about 29,400 births.
-<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -90,11 +72,6 @@ The state's auditor put artificial intelligence at the centre of its own next fo
 
 ## Digitalisation
 
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-The same Digital Eswatini connectivity target names 38 tinkhundla centres to be connected, none reported connected as at 22 July ([source](https://independentnews.co.sz/46514/business/aviation/digital-eswatini-project-hinges-on-leadership-ps-warns/)).
-<!-- /narrative -->
 ### Rural digital data capture
 
 <!-- narrative: digitalisation--digital-rural -->
@@ -111,11 +88,6 @@ Eswatini's second instrument to carry AI rules arrived in the month, and like th
 On 6 July the prime minister told the [Global Dialogue on AI Governance in Geneva that small and developing nations should not become mere consumers of technologies developed elsewhere](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/), an address the National 4IR Strategy frames.
 
 A [regional health body and a private firm signed a memorandum in Eswatini on 4 August to scale AI-enabled health solutions](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/), naming no system, no data-sharing terms and no money.
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-Domestically, [Letshego Eswatini set out plans to expand digital banking to the unbanked](https://times.co.sz/39406/business/letshego-targets-unbanked-with-digital-banking-push/) following the grant of a provisional banking licence.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -146,25 +118,4 @@ What firms say they need is not more hubs but a network that stays up. At a Mbab
 
 <!-- narrative: inclusion--include-divides -->
 On 6 August the [Macetjeni Integrated Business, Employment and Innovation Hub was launched in the Lubombo Region](https://eswatinipositivenews.online/govt-launches-macetjeni-ihub-to-drive-digital-innovation/), the second after Pigg's Peak, established by the Small Enterprises Development Company with ESCCOM and UNDP. A third hub is in preparation for Shiselweni, with no start date, provider or cohort size given.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The central bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) with ESEPARC, the Central Statistical Office and FinMark Trust. [Its governor said the 87% access rate recorded in 2018 measured access rather than use, and that the 2026 round will cover access, usage and quality — the first measurement since the Consumer Credit Act, the payment switch and the FinTech Strategy changed the stack](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/). No fieldwork dates, sample size or publication date were given.
-<!-- /narrative -->
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The [partnership with the cloud provider is operating and publicly acknowledged, with the government services application showcased at the provider's Africa summit](https://www.insidebiz.co.sz/eswatini-partners-with-google-to-drive-digital-transformation/). No value or term is published, so what the state has committed to, and for how long, is not established.
-<!-- /narrative -->
-### Gulf/UAE activities
-
-<!-- narrative: geopolitics--geopol-gulf -->
-On 22 July the [She Powers Africa Digital Academy launched virtually](https://times.co.sz/39456/news/eswatini-launches-africas-first-womens-digital-academy/) under an Eswatini-UAE memorandum signed at the 2025 UN General Assembly. Delivery is by the UAE's General Women's Union with its telecommunications regulator, covering AI, cybersecurity, data science and software development. The first cohort is 50 women from government institutions.
 <!-- /narrative -->

@@ -1,21 +1,21 @@
 ---
-title: Rwanda — progress report, August 2025 – August 2026
-compiled: 2026-08-30
-period: 2025-08-01 to 2026-08-30
+title: Rwanda — progress report, September 2025 – September 2026
+compiled: 2026-09-01
+period: 2025-09-01 to 2026-09-01
 place: RWA
 ledger_rows: 136
 not_held: 9
 indicators: 121
-record: 49fab08766fb
+record: bba723f0a133
 ---
 
-# Rwanda: progress report, August 2025 – August 2026
+# Rwanda: progress report, September 2025 – September 2026
 
 This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the base tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-30.*
+*The period is 2025-09-01 to 2026-09-01.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -126,7 +126,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Sectoral management information systems | Tax | The [electronic billing machine has become an export](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy), adopted by two neighbours with a third mid-adoption, and no revenue or licensing terms are disclosed. <details><summary>Full record</summary>Two neighbours have adopted the system and a third is mid-adoption, with no revenue, contract value or licensing terms disclosed for any adoption ([export](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy), [transfer](https://www.ktpress.rw/2025/07/technology-transfer-is-rwandas-latest-pricey-export/)).<br><br>A domestic revenue system exported to three states is the strongest evidence in this unit that the government-technology stack works, and the absence of any commercial terms is what stops it being evidence of a viable export business.</details> | Advanced |
 | Sectoral management information systems | Customs |  | ***No evidence*** |
 | Sectoral management information systems | Land |  | ***No evidence*** |
-| Other GovTech and e-Gov | e-government services | The [government services platform](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy) reported its scale at a national infrastructure day, against a hundred-plus services in 2021 as the only earlier figure held. <details><summary>Full record</summary>The scale figure comes from coverage of the national infrastructure day, and the only earlier held comparator is a hundred-plus services in 2021 ([platform](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy)).<br><br>The electronic procurement platform is being adopted and co-developed by another state; a July meeting reports areas identified rather than agreements reached ([procurement](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy), [meeting](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia)).<br><br>Both rows are the same shape: a working national system, reported through its export or its launch event rather than through a service, transaction or uptake series.</details> | Advanced |
+| Other GovTech and e-Gov | e-government services | The [government services platform reported more than 600 services at a national infrastructure day](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy), against [248 a year earlier on the operator's own count](https://irembo.com/2025/07/irembogov-scaling-adoption-and-delivering-a-better-experience-for-civil-status-services/). <details><summary>Full record</summary>The scale figure comes from coverage of the national infrastructure day ([platform](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy)). The near end of the window is now firm: [the operator's own account put the platform at 248 services from nearly 40 institutions on 9 July 2025](https://irembo.com/2025/07/irembogov-scaling-adoption-and-delivering-a-better-experience-for-civil-status-services/), and [a local-government impact assessment dated September 2025 counted 247, citing the operator's website](https://minaloc.prod.risa.rw/fileadmin/user_upload/Minaloc/Publications/Reports/Governance_and_Decentralization/Impact_Assessment_of_Decentralization_in_Rwanda_over_the_Last_25_Years__2000-2025__Full_Report.pdf). [A secondary account of August 2026 attributed a hundred-plus figure to that assessment](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-s-inspire-du-modele-rwandais-pour-accelerer-sa-transformation-numerique); the assessment does not state it.<br><br>The electronic procurement platform is being adopted and co-developed by another state; a July meeting reports areas identified rather than agreements reached ([procurement](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy), [meeting](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia)).<br><br>Both rows are the same shape: a working national system, reported through its export or its launch event rather than through a service, transaction or uptake series.</details> | Advanced |
 
 
 ## Digitalisation

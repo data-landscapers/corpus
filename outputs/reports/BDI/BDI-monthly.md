@@ -1,14 +1,14 @@
 ---
-title: Burundi — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Burundi — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: BDI
-ledger_rows: 29
+ledger_rows: 18
 not_held: 10
-record: b6c48ed46b73
+record: 672239aff8f3
 ---
 
-# Burundi: monthly update, July – August 2026
+# Burundi: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -27,20 +27,10 @@ An [access-to-information bill is on the National Assembly's order paper for the
 
 The ministry opened consultations on the country's first dedicated framework for online publishing. A workshop on 26 August [gathered influencers, content creators, legal experts and jurists for sector input before a bill regulating social-media influencers and content creators is finalised](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/); no draft provisions are published, and whether the law would require registration, set disclosure rules for sponsored content, create an oversight body or set penalties is unestablished.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-On 24 July the consumer association ABUCO [told Iwacu that months of complaints describe subscribers enrolled in paid value-added services without their knowledge and with no notification](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), some losing 3,000 to 10,000 Burundian francs a day; [its president cites over 40,000 francs taken as such charges across about three months from November 2025](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/). ARCT issued injunctions to Lumitel on 29 May 2026 requiring genuinely voluntary subscription and prior notification; Lumitel maintains nothing activates without a customer's deliberate action; ABUCO reports no significant improvement since, and no sanction is on file. The new data-protection law's central mechanism is consent, and no role for the authority it creates is reported here.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Vietnam's science and technology ministry [received Burundi's governing-party secretary-general on 28 July 2026 and pressed for faster implementation of the November 2024 memorandum](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). The channel runs through the party rather than the ministry. Vietnam asked Burundi to create conditions for Lumitel, its own operator's subsidiary, to contribute more; Burundi named postal-system modernisation and internet infrastructure as its priorities. No monetary commitment was announced.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-ABUCO's [same 28 July statement](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) proposed a convening — états généraux bringing public authorities, operators, regulators and consumer organisations into one forum — as its remedy, the only instrument a consumer body can reach for; no response from government or operators is on file, and no convening date is stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -56,11 +46,6 @@ On the money side, the universal service fund's [revised FY2026/27 procurement p
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-EAC central bank governors, meeting in July 2026 as the Monetary Affairs Committee, [flagged cybersecurity risk to the regional financial system as requiring stronger common measures](https://www.rtnb.bi/?mypost?id=529), with no common measure yet adopted.
 <!-- /narrative -->
 
 ## DPI
@@ -86,32 +71,6 @@ The one new management system in the window sits outside the state's own stack. 
 
 <!-- narrative: dpi--dpi-govtech -->
 The civil-service ministry [put a set of digitisation claims on the record on 31 July and published the constraints against them](https://lerenouveau.bi/administration-publique-des-reformes-strategiques-en-cours-pour-une-administration-plus-efficace-tournee-vers-les-citoyens/), which is the more useful half. The programme covers performance evaluation of public agents, a job-classification scheme, an annual costed work plan used across public institutions, progressive interconnection of administrative services, and one-stop service desks. The ministry itself names archive management as still largely manual, service digitisation as unfinished and working tools as insufficient. Citizens interviewed framed digitisation as a distance problem: fewer journeys for people living far from administrative centres.
-<!-- /narrative -->
-
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-Burundi's first documented AI-governance discussion took place in the professional community, not government. A [two-day workshop in Bujumbura on 27 July 2026, organised by the association of Burundian alumni of the German Academic Exchange Service](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), drew doctors, IT specialists, students and developers. The load-bearing statement came from the director-general of the Muganga Innovation Lab: Burundi has recently legislated on personal-data protection but holds a great deal of information and relatively little of it as structured, consented, usable data — the constraint that makes fairness and traceability arguments premature, and one no AI strategy addresses. Sessions covered AI ethics and labour displacement, AI for resource governance, UNESCO and ISO frameworks, and data governance for connected devices.
-<!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-The workshop's resource-governance session named the [MineGuard mining-intelligence platform](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), and AfriPrompt was the other local build named — two builds with no funding, user base or public deployment on file.
-<!-- /narrative -->
-
-## Capacity
-
-### Training and skills
-
-<!-- narrative: capacity--capacity-training -->
-Vietnam reports that what it has delivered under the November 2024 memorandum is [policy transfer rather than build: drafting experience, reference materials supplied to Burundian agencies, 50 desktop computer sets, and Master's scholarships in computer science](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe).
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-The research capacity the AI strategy assumes showed itself once this month, [outside the state](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/).
 <!-- /narrative -->
 
 ## Inclusion

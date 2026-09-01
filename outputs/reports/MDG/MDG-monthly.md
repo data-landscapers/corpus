@@ -1,14 +1,14 @@
 ---
-title: Madagascar — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Madagascar — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MDG
-ledger_rows: 28
+ledger_rows: 17
 not_held: 8
-record: 4be00467cb8a
+record: 97b7cf776ac8
 ---
 
-# Madagascar: monthly update, July – August 2026
+# Madagascar: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -24,11 +24,6 @@ The national police [opened a public reporting platform for violence and disappe
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-On 20 July the [Technical Assistance Facility for the Refondation was launched at the Palais d'État d'Iavoloha](https://www.journalmadagascar.com/reforme-administrative-une-nouvelle-facilite-dassistance-technique-pour-la-refondation-lancee-a-madagascar/), requested by the presidency and supported by UNDP, running 2026 to 2030, explicitly including the use of digital tools. Administrations had until end-July to submit proposals [through a dedicated digital platform](https://www.lexpress.mg/2026/07/administration-le-numerique-redynamise.html); a steering committee screens them and selected interventions run three to nine months. 170 focal points were certified in advance.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -42,32 +37,12 @@ The same Council [ordered internet service providers to block pornographic sites
 Madagascar attached itself to three external arrangements in twelve days, none of which it wrote. The Council of Ministers [approved joining a China-initiated international network against cybercrime on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), mobilising the foreign affairs, justice, public-security, digital-development and gendarmerie ministries for cross-border cooperation on online fraud; no founding text, membership list, data-sharing rule or safeguard on what is exchanged is held. Around 15 August it also [signed the United Nations Convention against Cybercrime and joined the World AI Cooperation Organization](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the account citing Interpol findings that artificial-intelligence-enabled fraud is outpacing African states' response capacity. An [editorial the same week](https://newsmada.com/2026/08/13/quand-larnaque-passe-par-lecran/) frames the turn toward Beijing on fraud as inseparable from the country's digital-transformation and investment ambitions. None of the three is evidenced by an instrument the base holds, and the country still has no national artificial-intelligence strategy of its own.
 <!-- /narrative -->
 
-## ICT Infrastructure
-
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-On 11 July 2026 SpaceX ran [Madagascar's first Direct-to-Cell satellite trial at Sadabe](https://www.telecomreviewafrica.com/articles/general-news/28982-madagascar-conducts-first-direct-to-cell-satellite-trial-advancing-digital-inclusion/), on Airtel's spectrum and following an [FCC notice filed on 13 May](https://spaceinafrica.com/2026/05/19/madagascar-set-to-launch-starlink-direct-to-cell-services/) — the third African country after Kenya and Uganda. Commercial launch is pending the national regulator.
-
-On 23 July Yas Madagascar [ran a 5G-Advanced trial with Huawei at its Andraharo campus](https://www.lexpress.mg/2026/07/service-public-la-technologie-au.html), pitching the network as a substrate for artificial intelligence, augmented reality and connected devices. The operator claims to be the fourth in the world to test the technology; the claim is its own. The posts and digital development minister attended and tied it to public-service delivery, learning, health and enterprise access. No commercial 5G service is on record.
-<!-- /narrative -->
-
 ## DPI
 
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-On 27 July the interior ministry reviewed the first phase of adult biometric registration, reporting [more than six million people enrolled against a two-million target across April to June 2026](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html). A second phase is in preparation, supported by the World Bank-financed DECIM project. No cost figure for either phase is reported.
-<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
 On 3 August MVola's new director general [gave the first account of the platform migration behind the outages of May and June](https://www.lexpress.mg/2026/08/alexandre-castel-directeur-general-de.html). The core platform was replaced in May 2026; he states that money does not vanish from accounts, that reported cases have been regularised, and that the platform is stabilised with further work outstanding. No regulator is named, no incident report is published and no compensation is mentioned. Separately, [Airtel Money integrated Baobab Bank into its mobile banking service on 17 July](https://techafricanews.com/2026/07/17/airtel-money-madagascar-and-baobab-bank-partner-to-expand-mobile-banking-services/).
-<!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-The day after the biometric-registration review, the electoral commission [opened a full reconstitution of the electoral roll at Talata Volonondry](https://2424.mg/election-la-ceni-lance-les-operations-de-recensement-pour-la-refonte-de-la-liste-electorale-avant-les-scrutins-de-2027/) — a rebuild rather than the routine revision — running four months to 24 November 2026, to produce the single roll for all elections and referendums scheduled in 2027. The trigger is stated: the previous roll drew sustained contestation and is named as a source of tension at earlier polls. Registration runs through five channels, at fokontany level on presentation of a national identity card. The commission states that an unregistered citizen may not observe polling in their own place of residence and may not lodge a complaint or contest results.
 <!-- /narrative -->
 ### Sectoral management information systems
 

@@ -1,14 +1,14 @@
 ---
-title: DR Congo — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: DR Congo — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: COD
-ledger_rows: 62
+ledger_rows: 41
 not_held: 13
-record: 5e87aef701fe
+record: 525fb6205972
 ---
 
-# DR Congo: monthly update, July – August 2026
+# DR Congo: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -89,20 +89,6 @@ Coverage arrived from orbit before it arrived by fibre. An operator [commerciall
 
 Starlink users in Kinshasa [face four to six months of possible slowdowns while the network is congested](https://www.talkafrica.co.ke/starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid-network-congestion/). No subscriber count, capacity figure or remediation date accompanies the notice.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-On 29 July the digital economy minister named a [sovereign government cloud among the ministry's projects to be ordered and made executable](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/), alongside the digital and data strategies, the identity platform and a certification authority. No hosting location, operator, procurement or budget line was stated.
-
-A data-centre group lifted [committed capital from US$350m to US$380m](https://tech.africa/raxio-380m-committed-capital/) across six markets, none of it allocated to DR Congo in the source.
-<!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-A workshop named a [national cybersecurity agency as one of five bodies whose roles in the incident-notification chain must be clarified, explicitly without creating new institutions](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/); no creating instrument, budget line or head is held.
-
-An operator launched a [subscriber-level child filtering service on 17 July](https://actualite.cd/2026/07/17/rdc-africell-lance-kidzonet-pour-renforcer-la-protection-des-enfants-sur-internet) from 50 units for 30 days — a commercial service, not a state measure, with no subscriber figure.
-<!-- /narrative -->
 
 ## DPI
 
@@ -115,11 +101,6 @@ On 29 July a [national electronic certification authority was named, not establi
 
 <!-- narrative: dpi--dpi-id -->
 A sector chief in Walikale told the provincial interior division on 23 July that his civil-status office had [no birth registers for several months and had stopped registering newborns](https://actualite.cd/2026/07/25/walikale-labsence-prolongee-de-registres-de-naissance-prive-les-enfants-de-leur-identite); the province promised resupply with no date, and the stated consequences are exclusion from school enrolment and from proof of nationality.
-<!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-A card-network executive confirmed on 2 July a [live use case settling mobile-wallet top-ups in stablecoins in the background](https://www.theeastafrican.co.ke/tea/business-tech/visa-tests-stablecoins-in-drc-for-cross-border-payments-5515040), bypassing correspondent banking. On 14 July a card network and a domestic payments company announced [prepaid card issuance](https://techafricanews.com/2026/07/14/mastercard-and-flash-partner-to-expand-digital-financial-inclusion-in-drc/), the domestic partner serving more than three million customers through 4,000 agents.
 <!-- /narrative -->
 ### Registries
 
@@ -143,25 +124,12 @@ A seminar opened on 15 July on a [public-enterprise digitalisation plan for 2026
 The month's only movement in government platforms was a procurement, and not the state's own: Belgium's development agency [opened a tender on 1 August for artificial-intelligence modules to be built into the national employment agency's platform](https://www.enabel.be/app/uploads/2026/08/COD22022-10116-CSC_PUB-1.pdf), for job matching aimed at youth unemployment, with offers due on 7 September. No contract value, award or delivery date is on record, and the digital government platform it would sit beside remains at Planned with its target already missed.
 <!-- /narrative -->
 
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Kinshasa urban administration agents demonstrated on 23 July over [two months of unpaid salary, with beneficiary listings already transmitted to the paying bank](https://lepotentiel.cd/2026/07/23/kinshasa-les-agents-de-ladministration-publique-urbaine-reclament-le-paiement-de-deux-mois-darrieres-de-salaires/) and neither bank staff nor payroll agents attending the appointed payment.
-<!-- /narrative -->
-
 ## Technology
 
 ### AI
 
 <!-- narrative: technology--tech-ai -->
 A stakeholder workshop of 23 to 27 July in Kinshasa [validated the draft national artificial intelligence strategy subject to amendments](https://zoom-eco.net/autres-actualites/rdc-la-strategie-nationale-de-lintelligence-artificielle-franchit-une-etape-decisive-apres-sa-validation-technique/), on four pillars aligned to the national development plan on a 2030 horizon. No adoption date was established and the text is not held. The same sessions recorded that bodies already acting across digital, research, data, cybersecurity and regulation have [roles not yet sufficiently articulated in a common steering architecture](https://acp.cd/economie/economie-numerique-lusage-responsable-de-li-a-recommande-dans-un-atelier-a-kinshasa/).
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-Two regulators [agreed at a first working session to coordinate enforcement of local-content subcontracting, with scope stated beyond telecoms to electronic communications, digital services and electronic commerce](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans). It is a meeting outcome rather than a text: no signed instrument, no inspection conducted and no reporting obligation established, and nothing records an enforcement action since.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -210,12 +178,4 @@ The planning minister [announced recruitment of mapping agents and fixed general
 
 <!-- narrative: data--data-open -->
 The month's one open-data movement came from the central bank rather than from the state's open-data policy, which the base still does not hold. The bank [relaunched its website on 14 August as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators, with a currency converter and a search facility](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel), its governor framing the site as part of a reform whose stated objectives include digitalising payments and automating control processes. It is a publication channel rather than a data release: no machine-readable download, licence or update schedule is stated, and the national data governance strategy remains **Not held**.
-<!-- /narrative -->
-
-## Geopolitics
-
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-On 3 July a memorandum was signed with a Chinese supplier for a [2,100 km route — 1,700 km along the Congo River plus nearly 400 km terrestrial — at a stated US$1.5bn, with more than US$400m required for the first phase](https://www.connectingafrica.com/fiber-networking/drc-plans-1-5b-fiber-optic-project-along-congo-river). Both figures are company-reported, and there is no financing close, contract or works.
 <!-- /narrative -->

@@ -1,14 +1,14 @@
 ---
-title: Angola — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Angola — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: AGO
-ledger_rows: 56
+ledger_rows: 33
 not_held: 7
-record: da59d19cdd47
+record: 5cbc88997ed7
 ---
 
-# Angola: monthly update, July – August 2026
+# Angola: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -55,14 +55,6 @@ The national satellite began earning its keep across the border. Mozambique's st
 The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
 <!-- /narrative -->
 
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The digital acceleration project acquired published targets for the first time. At its third steering committee on 30 July it was [stated to be contracted to reach ten million people by March 2030](https://angop.ao/noticias/politica/projecto-de-aceleracao-digital-abrange-10-milhoes-de-pessoas/), lifting broadband users from a stated baseline of 14,743,807 to 19.7 million and getting 400 firms onto green digital products, on US$300m of financing whose terms are a market-rate loan rather than concessional finance.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
 ### Connectivity
@@ -105,11 +97,6 @@ The single digital identity, named as a workstream since 2024 and as [a componen
 
 The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
 <!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-Two payment milestones fell within a fortnight. The central bank completed migration of domestic payments to the international messaging standard on 10 July across the switch, the exchange and the real-time settlement participants. And on 27 July the [kwanza was formally introduced into the regional real-time settlement system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system) — the second currency added since that system launched in 2013 — against 2025 trade and interbank flows with the other fourteen member states of about US$3.77bn across nine currencies.
-<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
@@ -148,21 +135,6 @@ What is being replicated is visible in the standard build. Cabinda became the fi
 Benguela's provincial water utility [begins installing prepaid smart meters on 7 September, targeting 25,000 to 26,000 by March 2027 on a stated USD 23 million budget drawn from a USD 191.3 million rehabilitation project across five municipalities, starting with 500 units at Restinga and using 266 technicians](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html). It follows [a USD 15 million registration exercise that produced a 70,000-client database, replacing estimate-based billing against arrears stated above 10 billion kwanzas](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html).
 <!-- /narrative -->
 
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-At a trade fair on 22 July the second operator launched the web version of a subscription artificial-intelligence assistant at Kz 300 a month, replacing a text-message version, pitched at student research; no usage figure or model provenance is published.
-
-The country's permanent representative to the United Nations argued on 31 July that persistent digital disparity keeps developing states out of artificial-intelligence rule-setting, and backed three international governance processes. That is a stated position rather than an instrument.
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The month's technology events were financial and commercial rather than industrial. The state raised [Kz 300.3bn selling 15% of the incumbent operator](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/), reported as about US$329m, at 120.72% subscription with 16,571 of 17,549 orders filled and 11,264 new shareholders; settlement fell on 28 July, the day the same operator's network went down.
-<!-- /narrative -->
-
 ## Capacity
 
 ### Literacy
@@ -191,19 +163,4 @@ The telecommunications ministry [opened further computer rooms and free public i
 Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
 
 The programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and a connection under way at [Quirimbo municipality in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
-
-The statistics institute's [provincial census report for Icolo e Bengo](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf) gives the province 1,523,457 people, 150,787 above the figure in the institute's own summary report; differencing the two municipal tables places the whole of that gap in one municipality, Sequele. The base carries no reconciliation of the two published figures.
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: data--data-satellite -->
-The regulator [licensed a first private reseller of national satellite capacity on 2 July](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/), following [37 firms entering the commercial process by April](https://techafricanews.com/2026/04/10/angola-expands-satellite-internet-push-as-37-firms-enter-conecta-project/).
 <!-- /narrative -->

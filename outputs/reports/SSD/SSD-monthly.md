@@ -1,14 +1,14 @@
 ---
-title: South Sudan — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: South Sudan — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SSD
-ledger_rows: 25
+ledger_rows: 13
 not_held: 12
-record: a2bbb67e3bcf
+record: 933262e20b82
 ---
 
-# South Sudan: monthly update, July – August 2026
+# South Sudan: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -67,22 +67,10 @@ The largest registration actually carried out in the window was not the state's.
 <!-- narrative: dpi--dpi-pay -->
 On 25 July, following a resolution of the Ministerial High-Level Committee on Economic Reform, the revenue authority [barred cash payment of tax at its offices](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/). Liabilities in South Sudanese pounds must be deposited at designated banks and evidenced by an official slip before a receipt is issued; dollar-assessed taxes keep existing arrangements, and digital payment through Capital Pay continues. The authority states it as temporary.
 <!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-The same World Bank diagnostic put [approximately 90% of births going unrecorded](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist), recording that civil registration is largely non-operational.
-
-On 28 July the civil-registry directorate [set out a plan under which health facilities would notify births rather than issue certificates, the directorate would become the sole issuing authority, births, deaths, marriages and divorces would sit in one national database, and death registration would become compulsory](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/). It is [stated as intent only](https://www.eyeradio.org/government-to-adopt-modern-digital-birth-death-and-marriage-records-system/): no law, budget, timetable, vendor or platform is named.
-<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 On 5 August the education ministry [launched an Education in Emergencies Management Information System on the DHIS2 platform](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) with UNESCO and the HISP Centre, funded by Education Cannot Wait, after training 35 master trainers; twelve County Education Departments have been equipped with solar power, computers and connectivity to feed it.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-On 20 July revised fees were [published on the electronic visa portal](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/), putting US$50 on citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 on Somali, Burundian and Nigerian citizens.
 <!-- /narrative -->
 
 ## Capacity
@@ -91,24 +79,6 @@ On 20 July revised fees were [published on the electronic visa portal](https://t
 
 <!-- narrative: capacity--capacity-training -->
 On 30 July the Central Equatoria state ministry of information [announced a Digital Innovation for Skills and Knowledge programme](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/): three digital skills centres in Juba and Yei training more than 8,000 people, put by the state information minister at 5,000 residents and 3,000 civil servants. [The implementing partner put the budget at US$2,806,100](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/). No financier, signed commitment or start date was named.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
-
-Prices completed their third rise of the year and the record still cannot say by how much. Operators [applied the regulator's third and final tariff exchange-rate adjustment phase from midnight on 17 August, raising call and data prices against inflation, currency depreciation and hard-currency access problems](https://www.onecitizendaily.com/index.php/2026/08/20/network-telecommunication-companies-raise-call-and-data-tariffs/). No phase has published its rates. [A 25% cut in December 2025](https://techafricanews.com/2025/12/12/south-sudans-ict-ministry-commends-mtn-for-25-tariff-reduction-urges-further-cuts/) has now been overtaken three times, which leaves affordability in this market a direction of travel with no quantity attached to it.
-<!-- /narrative -->
-
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-On 23 July the National Bureau of Statistics [published a demographic projection putting the population at about 16.36 million by end-2026 and 19.99 million by 2030, against 13.2 million in 2021](https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/), of which some 2.2 million is attributed to migration from the Sudan conflict.
 <!-- /narrative -->
 
 ## Geopolitics

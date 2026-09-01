@@ -1,14 +1,14 @@
 ---
-title: Mozambique — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Mozambique — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MOZ
-ledger_rows: 83
+ledger_rows: 51
 not_held: 19
-record: 8912c4068430
+record: 31dbc5653014
 ---
 
-# Mozambique: monthly update, July – August 2026
+# Mozambique: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -58,11 +58,6 @@ The regulator opened a free public device-identity lookup on 4 August, checked a
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-<!-- narrative: finance--finance-budget -->
-The cyber security fund is [provided for in statute from 1 July, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244). No line for it appears in the [FY2026 state budget final maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais), which were set before the law was published, and the regulator has no capital allocation at all this year. The first budget in which such a line could be expected is FY2027.
-<!-- /narrative -->
 ### New investments
 
 <!-- narrative: finance--finance-new -->
@@ -127,11 +122,6 @@ The humanitarian register moved from pilot to a dated launch. Validation of the 
 
 <!-- narrative: dpi--dpi-pay -->
 The National Payments System Law took effect on 2 July 2026, replacing the regime in force since 2008 and extending the central bank's inspection and supervision over electronic-money institutions and new payment service providers ([enactment account](https://clubofmozambique.com/news/mozambique-cybercrime-and-cybersecurity-laws-national-payments-system-law-signed-into-force/)). On 30 July the central bank reported the instant payment system carrying more than 11,000 transfers a day, a tripling since it entered production in March ([communique account](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
-<!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-A [ten-year digital health strategy is recorded as the operative national instrument](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/), the country's first dedicated one. It is known to the base only through a dated reference directory: the adoption date, the adopting instrument and the text itself are not held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -209,12 +199,4 @@ The digital system intended for the 2027 census [failed in testing](https://www.
 
 <!-- narrative: data--data-satellite -->
 A development-bank and Korean-financed programme has left a standing national flood-mapping capability: [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237). The cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. The account is the financing bank's own, and it states no running cost, custodian institution or arrangement for sharing the mapping output.
-<!-- /narrative -->
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The economy minister [met satellite operator representatives to discuss connectivity, digital infrastructure and participation by smaller firms](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/). No agreement, amount or timetable was announced. The operator's service already runs in Mozambique, so this is a government-level engagement rather than market entry.
 <!-- /narrative -->

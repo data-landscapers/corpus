@@ -1,14 +1,14 @@
 ---
-title: Gabon — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Gabon — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: GAB
-ledger_rows: 52
+ledger_rows: 26
 not_held: 27
-record: 5985fdffcf49
+record: d7d3dfe20131
 ---
 
-# Gabon: monthly update, July – August 2026
+# Gabon: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -20,11 +20,6 @@ The month's largest event was the entry into service of the Nkok data centre on 
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The same 27 July Libreville seminar on space communications called for an autonomous national satellite system and sub-regional agreement for it to operate ([close of the seminar](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/)).
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -40,11 +35,6 @@ The primary text of the social-media ordinance arrived, and it settles a conflat
 
 Gabon also [brought non-resident digital platforms within Value Added Tax and the Contribution Speciale de Solidarite](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/) through its 2026 supplementary finance law, reaching foreign streaming and platform services. No registration threshold, collection mechanism or first receipt is on file.
 <!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-On 31 July the ministry's final technical committee of the administrative year named its next-cycle workstreams, among them a candidacy for International Telecommunication Union governance bodies, with no body, seat or election date named ([review](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/)).
-<!-- /narrative -->
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
@@ -56,14 +46,6 @@ Service quality is the one obligation the base cannot show being enforced. Repor
 The suspension of social media has now run [about five months, the Presidency calling it temporary and conservatory](https://www.gabonreview.com/suspension-des-reseaux-sociaux-la-presidence-defend-une-mesure-temporaire/), with no lifting date given. [Nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://gabonactu.com/blog/2026/07/26/reseaux-sociaux-reguler-dans-le-respect-des-libertes-apsad/). The decision's text is not held; its February start is inferred from a five-month count and, independently, from an operator's half-year filing, so the date carries month precision only.
 <!-- /narrative -->
 
-## Finance
-
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-On 14 July, alongside the open-innovation programme's launch, the state guarantee company signed a credit-guarantee accord to put in place guarantee mechanisms reducing the risk borne by institutions lending to innovative young firms ([account of both accords](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques)) — the first instrument in the base addressed to the cost of capital for Gabonese digital firms. Its terms were not published: no ceiling, coverage ratio, eligibility test, cost or duration, and it carries no envelope.
-<!-- /narrative -->
-
 ## ICT Infrastructure
 
 ### Connectivity
@@ -72,18 +54,6 @@ On 14 July, alongside the open-innovation programme's launch, the state guarante
 On 27 July the Libreville seminar on space communications closed with eleven recommendations, confirming a hybrid fibre and satellite model on [2,000 km of fibre already deployed](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/).
 
 The national internet exchange point opened a reboot workshop at Libreville on 3 August, running to 8 August, with the Internet Society and AFRINIC as technical partners ([opening](https://agpgabon.ga/gabon-lancement-de-latelier-national-gabix-reboot/)). It [closed on 8 August with certificates presented after six days of peering, security and sovereignty training](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/); AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the task that remains. No participant number and no post-relaunch member count has been published.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The Nkok facility was inaugurated on 3 July 2026 with 92 racks over 3,000 square metres, 1 MW installed and a cost of XAF 8bn, peered to the ACE and SAT-3/WACS submarine systems ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). The operator stated at the same event that [about 95 per cent of data produced in Gabon was hosted outside the country](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push).
-
-On 31 July the minister inspected the second Tier III facility, a neutral carrier hotel built by the state company ACE Gabon SA at 160 racks and over 1 MW, interconnected to the submarine systems, and confirmed commissioning between end-November and early December 2026; he described it as a public structure financed by the local banking sector ([site inspection](https://www.gabonreview.com/datacenter-tier-iii-doumba-satisfait-de-lavancement-du-chantier-une-livraison-attendue-entre-novembre-et-decembre/)). No cost figure was given.
-<!-- /narrative -->
-### Energy
-
-<!-- narrative: ict-infrastructure--infra-energy -->
-About 22 per cent of the Nkok facility's site energy comes from a photovoltaic plant, with water-free cooling ([figures given at the inauguration](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)).
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -102,11 +72,6 @@ The regional interoperable QR-code standard was launched at Douala on 29 July 20
 
 A different kind of exchange went live in August. The airport-security committee [moved its advance passenger information and passenger-name-record system into its operational phase on 14 August](https://agpgabon.ga/gabon-transport-aerien-le-deploiement-du-systeme-api-pnr-entre-dans-sa-phase-operationnelle/), naming Royal Air Maroc lead carrier for IATA-code implementation under the state's convention with SECURIPORT, with border risk-screening the stated purpose. The convention terms, the retention rule for passenger data and any authorisation by the data-protection authority are not held — and the country's biometric-processing prohibition, with the defect already recorded in its derogation, sits alongside it unremarked.
 <!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-[Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe); of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
-<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -118,14 +83,6 @@ The state's civil-service human-resources record has been failing for months. Th
 
 <!-- narrative: dpi--dpi-govtech -->
 On 2 August the border agency's tourist electronic visa platform, developed in 2025, was presented to the travel trade ([account](https://www.gabonreview.com/supprimer-les-barrieres-administratives-le-pari-du-e-visa-touristique-gabonais/)). A second platform was shown rather than launched: administration.ga was [presented to the Vice-President as an integrated suite for secure messaging, meeting management and the exchange of confidential documents between civil servants, built with a Gabonese start-up, with the state holding the source code at no cost](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/). No contract, cost, timetable or hosting arrangement is stated.
-<!-- /narrative -->
-
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Libreville's mayor stated the city [already operates its own revenue-digitalisation system, developed with the Treasury, and that the national scheme will not replace it](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie). The system is unnamed and undated, with no coverage or revenue figure — the only statement the base holds that a Gabonese municipality runs digital revenue collection of its own.
 <!-- /narrative -->
 
 ## Technology
@@ -152,25 +109,12 @@ The state digital incubator was not closed after all. It [has been placed under 
 
 ## Capacity
 
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-On 23 July the validated implementing texts included a draft decree creating a basic computing and internet certificate for education, with no syllabus, awarding body, cohort target or start date attached ([workshop close](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
-<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
 Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
 
 More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-On 29 July the social affairs ministry presented the first deliverable of the unified social register at Libreville, with World Bank representatives present, alongside a stated commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan ([presentation](https://agpgabon.ga/gabon-protection-sociale-presentation-du-premier-livrable-du-registre-social-unifie-et-du-programme-dacces-aux-agr/)). No beneficiary count, coverage figure or platform was given, and the state's own account uses three different names for the register in the same document.
 <!-- /narrative -->
 
 ## Data
@@ -184,12 +128,4 @@ On 21 July an interministerial committee fixed the terms of a second census of e
 
 <!-- narrative: data--data-open -->
 Gabon was assessed again as [not meeting the minimum fiscal transparency requirements in the 2026 review, published 11 August 2026 for the period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/). Of 139 governments and one entity reviewed, 73 met the requirements and 67 did not.
-<!-- /narrative -->
-
-## Geopolitics
-
-### China activities
-
-<!-- narrative: geopolitics--geopol-china -->
-One of two accords signed on 14 July on the margins of the open-innovation programme's launch was with an equipment supplier, to create smart rooms, deliver training in networks, cybersecurity, artificial intelligence and software development, and supply its certifying training kits ([account of both accords](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques)); its terms were not published — no room count, trainee target, cost or duration.
 <!-- /narrative -->

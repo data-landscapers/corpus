@@ -1,14 +1,14 @@
 ---
-title: Cote d'Ivoire — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Cote d'Ivoire — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: CIV
-ledger_rows: 74
+ledger_rows: 35
 not_held: 10
-record: 3df0295dd310
+record: 5cd41679066b
 ---
 
-# Cote d'Ivoire: monthly update, July – August 2026
+# Cote d'Ivoire: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -37,11 +37,6 @@ The cyber-security agency is [operating a national security operations centre, a
 The one place where a statute is acquiring machinery is consumer redress. The regulator [consulted operators, internet service providers and consumer associations on 13 and 14 August on a draft procedure for handling consumer complaints about electronic communications services](https://techreviewafrica.com/news/6772/artci-consults-stakeholders-on-new-consumer-complaint-handling-procedure), implementing the 2024 electronic communications law. No draft text, adoption date or redress standard is held.
 
 The regulator [validated a harmonised procedure for handling consumer complaints](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/) against operators and internet service providers, now to be transmitted to its Conseil de regulation for possible adoption.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The mobile-money agents' union [wrote to the regulator on 24 July](https://www.koaci.com/article/2026/07/24/cote-divoire/societe/cote-divoire-taxe-de-100-fcfa-appliquee-sur-les-operations-mobile-money-dans-les-points-de-vente-les-operateurs-complices_198876.html) with four questions on whether kiosk agents may demand, photograph or retain customer identity documents, after four operators required retention. No regulator response is on file.
 <!-- /narrative -->
 ### Standards
 
@@ -82,11 +77,6 @@ An industry survey supplied a fact the base did not hold: 5G has run on re-alloc
 
 The rural programme's own account reached the base for the first time. Its [first phase is complete, commissioned at Djebakaha in Korhogo, with phases two and three launched alongside it - the second valued at FCFA 18bn and covering 240 further localities across Belier, Poro, Tchologo, Bagoue and Haut-Sassandra, against a programme target of 575 localities](https://techafricanews.com/2026/08/28/cote-divoire-68m-rural-connectivity-programme-targets-575-localities/). The account dates that commissioning to August 2024 while reporting it as current, so the phase chronology is not relied on here; no site count, service specification or subscriber figure is published for the completed phase.
 <!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The national data centre was [formally authorised at US$170m of United States export-credit financing, its scope now a sovereign data centre, a government digitisation platform and a smart-border surveillance system](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) — up from the US$66m approved in August 2025, with no site, capacity or completion date stated. The operating commercial facility at Grand-Bassam is unchanged at a design capacity of about 400 racks and 1.5 MW, while its [group committed capital rose to US$380m and contracted power across a six-country footprint ran six times higher in the first half of 2026 than a year earlier](https://tech.africa/raxio-380m-committed-capital/) — group figures, not Ivorian ones.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -103,11 +93,6 @@ The national cybersecurity agency [certified the country's first cohort of RGSSI
 The minister told an information-systems seminar on 21 and 22 July that the first services onto the interoperability platform [had been chosen largely by volunteering rather than against user priorities](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite), against targets of 100 services online by end-2026 and 700 within three years. No count of services in production has been published. Fourteen migration bodies met on 30 July to [co-design a single collection and profiling tool for returning migrants](https://www.fratmat.info/article/2643436/economie/gouvernance-numerique-djibril-ouattara-appelle-a-une-meilleure-coordination-pour-accelerer-linteroperabilite) and a roadmap for transferring their data into one directorate; no legal basis, data-protection safeguard or timetable for pooling personal data across fourteen bodies is stated.
 
 The country's largest working data exchange is agricultural, and its pilot met its users in August. Producers at Meagui [pressed the coffee and cocoa board on 11 August over rollout gaps in the national cocoa traceability system](https://www.aip.ci/cote-divoire-aip-les-contraintes-du-systeme-national-de-tracabilite-au-centre-des-echanges-entre-producteurs-et-conseil-du-cafe-cacao-a-meagui/) — the conditions attached to the producer card, collection in remote zones, deceased and expired cardholders, and bank fees tied to the card. The regional delegate said pilot-phase issues are feeding refinements. No enrolment count, coverage figure, data-controller arrangement or fee schedule for the card is held. The board for the cashew sector began the same sequence a step earlier, [launching a producer and plantation census at Korhogo on 11 August](https://affairesetentreprises.ci/2026/08/17/cote-divoire-le-ccak-lance-le-recensement-des-producteurs-danacarde-premiere-etape-vers-une-tracabilite-de-la-filiere/) as the database that any producer card or traceability system would have to stand on; no timetable or budget for it is stated. Across the border, Mali's customs administration told a Bamako roundtable that its [interconnection with Ivorian customs has a transit-goods data pilot running](https://lagazettedusahel.com/interconnexion-des-systemes-douaniers-le-mali-accelere-sa-transformation-numerique/); the account is Mali's, no Ivorian statement is held, and no completion date for the full interconnection is given.
-<!-- /narrative -->
-### Digital Identity and CRVS
-
-<!-- narrative: dpi--dpi-id -->
-The identification office's director general [put national identification number holders at roughly 11 million](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/) on 30 July and named historic duplicate identities inside the register — the disclosure, not the register, is what is new. The office trained sub-prefects on civil registration on 30 and 31 July, after registrars earlier that week.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -141,11 +126,6 @@ August turned to the supply side and to the state's own paperwork. The ministry 
 <!-- narrative: technology--tech-ai -->
 Six francophone West African states adopted common artificial-intelligence governance guidelines announced on 6 July, non-binding and complementary to national strategies, submitted as a written contribution to a United Nations dialogue. The minister addressed that dialogue in Geneva on 6 and 7 July and proposed a regional African school of artificial intelligence.
 <!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-An electric ride-hailing fleet took delivery of 100 vehicles on 18 July.
-<!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
@@ -156,11 +136,6 @@ A ten-year-old marketplace restructured on 31 August: the company [split its con
 
 ## Capacity
 
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-The national education digitalisation project stands at [six of eight components complete with the technical and financial agreement still unsigned](https://techreviewafrica.com/news/6174/cote-divoire-education-minister-discusses-education-digitalization-project-with-partners). No cost, financier or component list is published: the project is described only by its stage count.
-<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
@@ -180,12 +155,4 @@ The cyber agency and a technology school validated curricula for two cyber-secur
 
 <!-- narrative: inclusion--include-access -->
 A guarantee arrangement was the month's only committed money in this section. Two conventions signed on 23 July mobilise [up to FCFA 17bn across two windows](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) for small and medium enterprises, with stated attention to women's entrepreneurship; it is an envelope rather than a committed sum.
-<!-- /narrative -->
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-The United States announced on 16 July that a contractor had received [formal Ivorian authorisation for a US$170m export-credit-financed project](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) covering a sovereign national data centre, a government digitisation platform and a smart-border surveillance system, up from US$66m approved in August 2025. The announcement was made by the United States rather than by any Ivorian instrument.
 <!-- /narrative -->

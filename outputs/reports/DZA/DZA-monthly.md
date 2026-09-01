@@ -1,14 +1,14 @@
 ---
-title: Algeria — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Algeria — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: DZA
-ledger_rows: 40
+ledger_rows: 26
 not_held: 7
-record: 7646001ac348
+record: c8e96e53b17e
 ---
 
-# Algeria: monthly update, July – August 2026
+# Algeria: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -31,22 +31,10 @@ August's own additions run the same way — platforms delivered, foundations und
 <!-- narrative: governance--gov-legislate -->
 The electronic commerce law is in force and, on a consumer body's assessment, largely bypassed: [the great majority of online selling runs through social-media pages outside its obligations, with cash on delivery dominant](https://www.echoroukonline.com/%d8%a7%d8%b2%d8%af%d9%87%d8%a7%d8%b1-%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6). That is named-analyst opinion rather than a state position; the law's own date and text are not held, and no enforcement action or compliance figure is on file. Separately a [national information-verification system was examined in draft by the Council of Government on 23 July](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ), with no regulator, legal basis or oversight mechanism named in anything held. On 14 August the telecommunications ministry [asked Meta to require every WhatsApp account to stay linked to a verified national mobile number](https://www.connectingafrica.com/regulation/algeria-urges-meta-to-block-non-local-whatsapp-accounts), rejecting the username-only accounts introduced in June 2026 and citing fraud, identity theft and cybercrime prevention. It is a request rather than an instrument; no order, deadline or sanction is stated, and the platform-regulation bill deposited in October 2025 remains undebated.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data-protection authority adopted a deliberation on 15 July holding that any photograph or video permitting direct or indirect identification of a natural person is personal data, so its collection, storage, retention and publication need a legal basis. Publishing images on platforms whose infrastructure is hosted outside Algeria [may constitute an international transfer](https://www.wearetech.africa/fr/fils/actualites/tech/lalgerie-durcit-les-regles-de-publication-des-images-sur-les-plateformes-numeriques), triggering the adequacy obligations of articles 44–45. The deliberation's own number, text and commencement are not held; the capture is a press account of it.
-
-One further governance event changed nothing: the national police held a [study day on 1 July](https://www.elmoudjahid.dz/fr/actualite/securisation-de-l-espace-numerique-l-engagement-sans-faille-de-la-dgsn-255551) tying data protection to national security, with the authority present. It names no instrument.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 Algeria [signed as a founding member of a world artificial-intelligence organisation at Shanghai on 16 July](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view), the digitalisation commissioner stating an intention to take an active role. The organisation is not named in anything held, and no accord text, ratification step or work programme is on file.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-Progress on a national accreditation, conformity and certification network and its GEOLAB platform was reviewed at the 23 July Council of Government sitting.
 <!-- /narrative -->
 
 ## Finance
@@ -65,11 +53,6 @@ On 26 July Algeria and Oman [discussed digital cooperation](https://www.echorouk
 IPv6 generalisation was [launched on 14 July](https://www.echoroukonline.com/%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D9%8A%D8%A4%D8%AB%D8%B1-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-ipv6-%D8%B9%D9%84).
 
 On 23 July the Council of Government examined draft executive decrees renewing the public cellular licences held by Mobilis and Optimum Telecom Algérie (Djezzy). Renewal by executive decree places licence continuation with the cabinet rather than with the regulator, which ran the 5G round as a competitive tender. No term, fee, coverage obligation or decree text is held, and the Prime Minister's own communiqué of the sitting is not on file — the account rests on [one press carry](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ).
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The National Digital Services Centre was inaugurated by President Tebboune on 5 July: [two active-active sites at Mohammadia and Blida](https://www.elmoudjahid.dz/fr/actualite/infrastructure-inedite-et-premiere-du-genre-a-travers-le-pays-le-centre-national-des-services-numeriques-inaugure-255075), built by Huawei to Uptime Tier III design, with 99.98% availability claimed by the operator. On 12 July administrations were ordered to interconnect to it [within one month](https://www.wearetech.africa/en/fils-uk/news/algeria-sets-one-month-deadline-for-government-data-center-integration). The national sovereign cloud is hosted there; no service catalogue and no tenant list is held, which is why its position is recorded without a baseline rather than as an advance.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -130,11 +113,6 @@ On 25 July the Higher Education Minister announced that from the 2026–2027 aca
 The strategy itself moved in August rather than July. A [joint inter-ministerial roadmap was agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and stronger safeguards for public-sector applications](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), reported on 12 August by the higher education minister, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline. The strategy text is still not published and the ethical-AI law has not moved.
 
 Three external events are dated in the month and moved nothing. The Post and Telecommunications Minister told the inaugural [UN Global Dialogue on AI Governance](https://techreviewafrica.com/news/6195/algeria-advocates-for-practical-ai-governance-measures-at-un-global-dialogue-in-geneva) in Geneva on 6 July that global governance should move from principles to technology transfer and capacity building. Smart Africa's chief executive met him on [13 July](https://techreviewafrica.com/news/6272/smart-africa-and-algeria-hold-discussions-on-ai-adoption-and-digital-integration) on AI adoption and digital integration; no agreement or commitment is reported. Algérie Télécom received a [WSIS Forum certificate of appreciation](https://www.echoroukonline.com/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%8A%D8%AA%D9%88%D8%AC) on 9 July. The award is a certificate of appreciation; the ministry described it as confirmation of Algeria's standing.
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The state electronics manufacturer was [accredited to install and maintain every payment terminal on national territory whatever its brand or origin](https://www.echoroukonline.com/%d8%a5%d9%8a%d9%86%d9%8a-%d8%aa%d8%b6%d9%85%d9%86-%d8%aa%d8%b1%d9%83%d9%8a%d8%a8-%d9%88%d8%b5%d9%8a%d8%a7%d9%86%d8%a9-%d8%ac%d9%85%d9%8a%d8%b9-%d8%a3%d8%ac%d9%87%d8%b2%d8%a9-%d8%a7%d9%84%d8%af), widening it from its own-brand devices, against 1.6m terminals produced. The accreditation's own date is not stated — only the report of it.
 <!-- /narrative -->
 ### Innovation ecosystem
 

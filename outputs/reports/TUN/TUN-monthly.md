@@ -1,14 +1,14 @@
 ---
-title: Tunisia — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Tunisia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: TUN
-ledger_rows: 43
+ledger_rows: 29
 not_held: 9
-record: e39a7ec2d50b
+record: ccf4147cb48a
 ---
 
-# Tunisia: monthly update, July – August 2026
+# Tunisia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -26,16 +26,6 @@ On 1 July digital identity stopped being optional for two classes of user, and o
 Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
 
 The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
-<!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The [Development Plan 2026-2030 was promulgated on 20 July 2026](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) by a single-article law, after adoption by the Assembly on 10 July and by the Council of Regions and Districts on 17 July, and is the binding reference for public policy to 2030. Its [three annex volumes are now held](https://www.arp.tn/loi/project/4315): the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty. Every volume held is marked draft, no as-enacted printing has appeared, and whether the promulgated annex differs from the version voted is not established.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-No legal basis is held for the linked national health dataset — no decree, ministerial order or data-sharing instrument stating the basis, retention rule and supervisory authority for a dataset joining health, civil-status, social-affairs and education records. The [ministry asserts only that the data is stored confidentially and securely](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109). An assurance about storage is not an authority to link.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -126,11 +116,6 @@ The period's artificial-intelligence document came from outside the state. A dia
 
 The state's own document surfaced at the end of the window and settles a gap this ledger has carried. At a restricted ministerial council on 16 August the communication technologies minister [set out the main lines of a National Artificial Intelligence Strategy 2026-2030](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). That establishes the instrument exists and is dated; it does not publish it. No adopted text, cabinet decision, budget or roadmap accompanies the presentation, so the strategy moves from *not held* to in development and no further.
 <!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-financed programme](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) — a statute circulated as a model for other states rather than administered as one country's law.
-<!-- /narrative -->
 
 ## Capacity
 
@@ -140,21 +125,8 @@ Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-fin
 The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
 <!-- /narrative -->
 
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-On the cost side, the regulator [reported on 18 July 2026](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) that Tunisia's digital basket costs 1.53% of gross national income per head, about US$5.31 a month — second in the Maghreb and under the two-percent international threshold. The figures are the international union's, cited rather than absorbed as country state.
-<!-- /narrative -->
-
 ## Data
 
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The regulator's observatory [published its 2026 survey on 27 July](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/): 85.9% internet use, 84.3% smartphone ownership against 41% for computers, and a ladder that puts [artificial-intelligence applications at 47.9% of internet users and online public administration last at 26.5%](https://www.thd.tn/tunisie-48-des-internautes-utilisent-lia-et-37-achetent-en-ligne/). Its sampling frame, size and field dates are not stated in the reporting held.
-<!-- /narrative -->
 ### Open data
 
 <!-- narrative: data--data-open -->

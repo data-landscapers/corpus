@@ -1,14 +1,14 @@
 ---
-title: Cameroon — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Cameroon — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: CMR
-ledger_rows: 50
+ledger_rows: 24
 not_held: 7
-record: ffbec9822c6c
+record: 82b5ae106072
 ---
 
-# Cameroon: monthly update, July – August 2026
+# Cameroon: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -24,11 +24,6 @@ The data-protection authority's position was restated and did not change: [creat
 
 ## Governance
 
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-An account of 27 July set out where the satellite licence stands: a [draft concession convention and specification finalised by the regulator, the file at the ministry undecided for more than two years, and the 2024 seizure circular still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/). The objections on record are lawful interception, armed-group use, and the incumbent's commercial position.
-<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -107,14 +102,6 @@ Health and education information systems both gained instruments and neither rep
 The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
 <!-- /narrative -->
 
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-The same seminar put council digitisation at [230 councils, about 64% nationally, with 48.6% of North West councils operating functional websites, 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
-<!-- /narrative -->
-
 ## Technology
 
 ### AI
@@ -132,22 +119,12 @@ A domestically built platform for creating online shops was [profiled on 26 Augu
 
 ## Capacity
 
-### Literacy
-
-<!-- narrative: capacity--capacity-literacy -->
-A digital financial-literacy project running in Cameroon and Senegal since June 2024 [closed on 15 July](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/), leaving a digital financial-services comparison platform with no funded data-update mechanism; it was offered to both states and neither is reported as having accepted. No Cameroon-side trainee count, budget share or partner list is published.
-<!-- /narrative -->
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
 The AI workforce target was carried into the same cabinet review without moving: [60,000 specialists by 2040 including 40% women](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain) was set in July 2025, and a year later [AI modules in curricula appear among ten priorities with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy).
 
 What was delivered was smaller and dated. A first implementation wave under an operator and higher-education memorandum [opened 115 internships across all ten regions on 22 July](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/), in disciplines from telecommunications and cybersecurity to finance and law; no stipend, duration or conversion-to-employment figure is published.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-Two research builds were tabled in the same cabinet review list — a [sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) — with no cost, site or timeline for either.
 <!-- /narrative -->
 
 ## Data
@@ -156,17 +133,4 @@ Two research builds were tabled in the same cabinet review list — a [sovereign
 
 <!-- narrative: data--data-statistics -->
 The fourth population and agriculture census is still in the field: a [complementary enumeration period runs from 1 August to 15 September to reach households, persons and agricultural holdings missed by the 29 May close](https://www.cameroon-tribune.cm/article.html/79313/en.html/details_2). Enumeration ran with [32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/), and no results are published. It is the first census in over twenty years, with population and agriculture merged into one questionnaire.
-<!-- /narrative -->
-### Open data
-
-<!-- narrative: data--data-open -->
-A national open-data policy is [provided for in the artificial-intelligence roadmap and nothing is published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/). It was [not among the ten priority areas tabled to cabinet on 30 July](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy).
-<!-- /narrative -->
-
-## Geopolitics
-
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-On 8 July the state operator held a [working session with a global cloud vendor's Africa executives and the United States embassy ICT representative](https://techafricanews.com/2026/07/08/camtel-explores-digital-transformation-partnership-with-amazon-web-services/). It is [talks only: no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services), and it sits against the operator's own sovereign-cloud line and a regional data-residency recommendation.
 <!-- /narrative -->

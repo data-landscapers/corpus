@@ -1,14 +1,14 @@
 ---
-title: Somalia — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Somalia — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SOM
-ledger_rows: 26
+ledger_rows: 16
 not_held: 10
-record: 762495442790
+record: 028bf0c660f8
 ---
 
-# Somalia: monthly update, July – August 2026
+# Somalia: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -26,11 +26,6 @@ The Central Bank published, for the first time, the sequence by which banks and 
 The Cybersecurity Law is not yet through parliament. The Upper House [gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August 2026](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. The chamber's [own published procedure requires three readings](https://senate.gov.so/laws/?lang=en) before a bill passes it.
 
 The House of the People [approved a Cybersecurity Law on 26 January 2026](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/), assigning policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators. Nothing on file states whether the bill now before the Upper House is that instrument, and neither text is held.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The communications minister restated on 22 July the request that Meta [delay the rollout of WhatsApp usernames](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx), first made in a regulator statement of 6 July. [The stated grounds are impersonation and fraud risk against a mobile-money system carrying about 155m transactions a month worth US$2.7bn, and the loss of phone-number traceability in the campaign against al-Shabab](https://www.hiiraan.com/news4/2026/Jul/205760/why_whatsapp_usernames_could_upset_somalias_antiterror_fight.aspx). Somalia is the second country after India to ask for a pause; no response from the platform is on record.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -55,11 +50,6 @@ A former prime minister published an argument that [the country cannot afford an
 <!-- narrative: ict-infrastructure--infra-store -->
 The national data centre went backwards in the telling. A facility described at a ministerial inspection in May 2025 as nearing completion was, on 7 August 2026, [described by the state minister for communications as planned](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure), to strengthen digital infrastructure — said at the launch of an artificial-intelligence product by a private centre. Nothing in the record reconciles the two accounts, and the ministry's stated rationale, ending reliance on data storage outside the country, remains its own statement that government data sits offshore.
 <!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-The National Communications Authority [launched a National Cybersecurity Risk Management Framework on 21 July 2026](https://techafricanews.com/2026/07/21/somalia-launches-national-cybersecurity-risk-management-framework/), following the national consultation held in April. It covers risk identification, regulatory compliance and institutional responsibilities. No compliance deadline, reporting duty or penalty is published alongside it, and it is the third instrument in a cyber stack assembled inside eighteen months, after the Cybersecurity Law of January 2026 and the incident response team that opened in March.
-<!-- /narrative -->
 
 ## DPI
 
@@ -72,11 +62,6 @@ The Auditor-General put a number on how far the state's own systems are from tal
 
 <!-- narrative: dpi--dpi-id -->
 Cabinet [approved a third-generation e-passport plan on 6 August](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/). No issuance date is published, and it follows the clearance in February to adopt and print the East African Community e-passport.
-<!-- /narrative -->
-### Digital Payments and Fintech
-
-<!-- narrative: dpi--dpi-pay -->
-On 26 July the Central Bank set out how the instant payment system is to reach the whole market: [14 commercial banks and eight mobile money and e-wallet providers once integration completes, on ISO 20022, carrying person-to-person, merchant, government-to-person and person-to-government flows, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The system is operated by the Somalia Payment Switch, a joint venture of the Central Bank and 13 commercial banks, which the Governor described as a deliberate choice over central-bank-run infrastructure. One commitment is stated and undelivered: mobile money integration carries no published date.
 <!-- /narrative -->
 ### Registries
 
@@ -94,14 +79,6 @@ Health information gained a project and a set of funders. The health minister [l
 A [national single window is named as planned within a regional trade project, alongside a trade information portal and the existing customs and livestock traceability systems it is to connect to](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx). It is stated in an agenda piece by the national trade facilitation coordinator rather than in an instrument, and no design, timetable or budget is published.
 <!-- /narrative -->
 
-## Digitalisation
-
-### Digitalisation of sub-national government
-
-<!-- narrative: digitalisation--digital-localgov -->
-Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reported 25 July](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The device holds the tariff schedule: an officer enters vehicle type, origin and category, the terminal returns the amount due, payment moves over mobile money into the government account with no merchant in between, and a QR-coded receipt posts to a central system in real time. It replaces paper vouchers carried up to 90km and hand-keyed, on a reconciliation cycle the state's finance minister puts at 30 to 45 days. [Collections at equipped posts are reported up 668.94% in the first quarter of 2026 against 2020, a figure that comes only from the rollout's backers](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem).
-<!-- /narrative -->
-
 ## Technology
 
 ### AI
@@ -111,13 +88,6 @@ The Somali National University [launched an AI centre on 20 July](https://techaf
 
 August added a product and an assessment. A private artificial-intelligence centre [launched Garad.ai on 7 August alongside the communications and technology ministry](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure); the record describes the launch rather than the product, and states no capability, language coverage, user base or hosting arrangement for it. Separately a national AI readiness assessment is under way, [led by the same ministry with UNESCO and joined by a private university on 17 August](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia), examining artificial-intelligence policy, data governance and higher-education capacity. No methodology, participant list, score or publication date is stated — so the assessment is, for now, the closest thing the country has to a policy position on the subject.
 <!-- /narrative -->
-### Innovation ecosystem
-
-<!-- narrative: technology--tech-innovate -->
-The National Communications Authority [signed a memorandum of understanding with iRise Hub on 30 July](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) covering innovation, entrepreneurship, digital skills, cybersecurity, research and public engagement. No figure, term or named deliverable appears in it, and no party is identified as funding any of it. What it does establish is a direction for the regulator itself, whose statutory work is licensing and spectrum.
-
-A national startup network was [launched at the innovation forum in Mogadishu on 22 July](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), connecting startups to incubators, chambers of commerce and government agencies. It runs under a project funded by the European Union and implemented by UNIDO, which [reports 3,600 applications across three cohorts, about 500 entrepreneurs through foundational training and more than 200 startups incubated, against a stated backdrop of about 500,000 young people entering the labour market each year for about 80,000 new jobs](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/). The same account states that intellectual-property legislation is being developed; no bill, text or timeline is on file.
-<!-- /narrative -->
 
 ## Capacity
 
@@ -125,9 +95,4 @@ A national startup network was [launched at the innovation forum in Mogadishu on
 
 <!-- narrative: capacity--capacity-training -->
 In the north, the Somaliland administration [launched fixed-asset training for public financial accountability on 4 August](https://www.somalilandcurrent.com/somaliland-launches-major-fixed-asset-training-to-strengthen-public-financial-accountability/). No participant total, system or completion date is stated, and the base carries no earlier position for it.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: capacity--capacity-research -->
-The Somali National Bureau of Statistics closed a three-day technical workshop on 30 July under a [university research partnership, training researchers from three partner universities in methodology, statistical analysis and scientific writing, and in working with the bureau's own household budget and labour force microdata](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/). It is a pilot funded by the Swiss development agency with no amount stated. What it implies about the constraint is the substantive part: official statistics exist and are being offered to domestic researchers, which puts the limit on evidence-based policy at national analytical capacity rather than at data collection.
 <!-- /narrative -->

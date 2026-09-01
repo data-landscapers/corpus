@@ -1,14 +1,14 @@
 ---
-title: Sierra Leone — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Sierra Leone — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SLE
-ledger_rows: 42
+ledger_rows: 28
 not_held: 11
-record: a58bac97fcf3
+record: 3b8c2090d397
 ---
 
-# Sierra Leone: monthly update, July – August 2026
+# Sierra Leone: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -47,29 +47,9 @@ Data-protection work in the window was training rather than enforcement, and it 
 <!-- narrative: governance--gov-regional -->
 Regional health data gained an institutional seat. The health minister [attended the inaugural board meeting of the Health Intelligence Centres for Africa in Addis Ababa with the head of the national health information hub, Sierra Leone being a founding member and sitting on the strategic advisory board](https://sierraloaded.sl/news/health-minister-represents-sierra-leone/). Founding membership is a position the base can state; what it cannot yet state is what the body will do with member states' health data, since no constitutive instrument, budget or data-sharing arrangement is published.
 <!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The [national open-source software policy for the public sector is in force](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), approved in 2025. No compliance or adoption reporting has been published against it.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The same statement — [reporting the academic Digital Public Goods exhibition](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent) — also gives the Sierra Leone Innovation Investment Fund a target of US$150m over five years, with no amount raised.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-<!-- narrative: ict-infrastructure--infra-connect -->
-CSquared [added capacity on the 2Africa West submarine system to the West Africa backbone that reaches Sierra Leone](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) on 15 July 2026, giving automated rerouting across physically diverse paths after repeated regional outages.
-
-The health ministry [launched Starlink service at the Julius Maada Bio Paediatric Centre of Excellence on 27 July 2026](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/), the first of a stated 300 government health facilities. Neither account of the launch gives the cost, the funder, the procurement route, the contract term, or any data-residency arrangement for public health traffic carried by a foreign satellite operator.
-<!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
@@ -121,11 +101,6 @@ The registry the state has least of is the one for deaths. The national public h
 
 Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
 <!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-A digital health programme covering electronic medical records, disease surveillance and telemedicine across 300 facilities [began with satellite connectivity at the first of them on 27 July](https://sierraloaded.sl/health/austin-demby-launches-starlink-internet/). One facility of three hundred is the whole of the deployment so far, and [neither account of the launch gives cost, funder, procurement route, contract term or any data-residency arrangement for public health traffic carried by a foreign satellite operator](https://ayvnews.com/health-minister-unveils-starlink-internet-at-jmb-pediatric-excellence-hospital/).
-<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -140,14 +115,6 @@ Two systems the state watches itself with did move. The audit service's [managem
 
 <!-- narrative: digitalisation--digital-rural -->
 The agriculture ministry is [finalising an upgraded interactive voice response platform, reported 98% complete, to give farmers direct access to ministry officials](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) under the national food-security agenda. Voice is the right channel for the users it names, and the account states no launch date, language coverage, call volume or cost — [98% complete](https://sierraloaded.sl/local/mafs-upgrades-voice-response-tech/) being the ministry's own description of a system nobody outside it has used.
-<!-- /narrative -->
-
-## Technology
-
-### AI
-
-<!-- narrative: technology--tech-ai -->
-DSTI reported on 24 July that its [deepfake and digital-misinformation campaign, running since May 2026, has reached Freetown, Makeni, Port Loko, Magburaka, Bo, Kenema and Kono](https://sierraloaded.sl/education/dsti-leads-fight-against-ai-deepfakes/), convening paramount chiefs, district officials, security institutions, councils and universities, with participants reporting voice-cloning scams impersonating public figures. Broadcast programming, a national capacity-building workshop and a verification chatbot are announced as the next phase. No budget, funder or completion date is stated, and no legislative or platform-facing instrument accompanies it.
 <!-- /narrative -->
 
 ## Capacity

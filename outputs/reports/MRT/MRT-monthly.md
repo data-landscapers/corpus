@@ -1,23 +1,23 @@
 ---
-title: Mauritania — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+title: Mauritania — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: MRT
-ledger_rows: 25
+ledger_rows: 13
 not_held: 4
-record: 6504ead12f72
+record: ba204203c67e
 ---
 
-# Mauritania: monthly update, July – August 2026
+# Mauritania: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's substantive change was in public administration rather than infrastructure. The digital consular platform [launched on 9 July](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad) and [entered its first overseas jurisdiction on 29 July](https://fr.saharamedias.net/le-ministere-mauritanien-des-affaires-etrangeres-lance-deux-plateformes-numeriques-pour-la-prestation-de-services-consulaires-en-arabie-saoudite-a-bahrein-et-aux-maldives/); the water utility's services were [put on the government portal](https://ami.mr/fr/archives/300346) on 4 August; and a workshop on the tax regime for public bodies [disclosed how little the state uses its own electronic tax rails](https://www.ami.mr/archives/265398).
+Registries and government services carried the month. The Council of Ministers [adopted decrees on 27 August establishing a national information system for the central criminal-record register and a national digital reference for land and cadastral data](https://www.ami.mr/archives/267317) â€” two registries created as instruments, with no build, budget or operator attached to either. The state services portal [took on the water utility's services from 4 August](https://ami.mr/fr/archives/300346), a civil-service competition for 390 posts [was run digitally from application through to examination](https://lequotidien.mr/?p=40000&lang=fr), and the transport regulator [gave ride-hailing operators fifteen days to bring their authorisations into line with the law](https://lequotidien.mr/?p=40128&lang=fr).
 
-On governance, the Council of Ministers [replaced the decree governing the Universal Service Access Fund](https://lequotidien.mr/?p=39470) on grounds that amount to an admission the fund has run for six years without settled answers to its basic questions, and neither text is published.
+Infrastructure moved on two fronts: [a commercial 5G network launched at Nouakchott on 10 August](https://ghabess.net/23385), and [the national cloud platform entered data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). The national identity application [went down for a full day of scheduled maintenance on 8 August](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/), the first interruption the base holds for it, and the fifth census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803).
 <!-- /narrative -->
 
 ## Governance
@@ -26,11 +26,6 @@ On governance, the Council of Ministers [replaced the decree governing the Unive
 
 <!-- narrative: governance--gov-policy -->
 The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
-<!-- /narrative -->
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The Council of Ministers of 29 July [approved a draft decree repealing and replacing Decree 2020-152 of 19 November 2020](https://lequotidien.mr/?p=39470) on the management and institutional organisation of the Universal Service Access Fund. The communiqué's stated grounds are that the 2020 arrangement no longer matched institutional reality and that its application had exposed shortcomings in defining the fund's object, in how its resources are mobilised, distributed and allocated, and in the absence of a clear framework for integrating it into the state's budgetary and accounting system. The replacement decree's terms are not reproduced and neither text is held.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -49,19 +44,9 @@ The second operator [launched a commercial 5G network at Nouakchott on 10 August
 
 The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
 <!-- /narrative -->
-### Cybersecurity
-
-<!-- narrative: ict-infrastructure--infra-cybersec -->
-PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protection platform had detected [more than 10,000 electronic threats in the first half of 2026](https://elvetach.info/archives/212723) — phishing, impersonation, application and site fraud — of which 470 were confirmed and removed, with 20 digital identities protected.
-<!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-<!-- narrative: dpi--dpi-exchange -->
-The digital ministry [opened a two-day workshop on 27 July](https://www.ami.mr/archives/265184) on blockchain in public administration, stating that the sector is building a national data management system to guarantee data quality, security, accessibility and inter-administration integration. UNDP's representative argued that data is strategic infrastructure on a par with roads and energy and that governance transformation, not technology, is the precondition. [Reporting two days later](https://www.ecofinagency.com/news-digital/2907-57833-mauritania-pushes-ahead-with-blockchain-to-modernize-public-services) placed this against a national blockchain policy in consultation since November 2025, with land administration, trade, public procurement and natural-resource management named as target areas; no draft text, adoption date or budget has been published.
-<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
@@ -105,13 +90,5 @@ The university opened the first edition of a summer school on language models fo
 ### National statistics
 
 <!-- narrative: data--data-statistics -->
-The Ministry of Youth Empowerment presented the reference document for a [first National Youth Empowerment Index](https://lequotidien.mr/?p=39456&lang=fr) on 29 July: five domains built from 43 secondary indicators, a preliminary 2026 score of 60.5 out of 100, education and training strongest at 69.5% and health and sport weakest at 46.1%, with disaggregation by wilaya, sex and age band held out as a later capability.
-<!-- /narrative -->
-
-## Geopolitics
-
-### Gulf/UAE activities
-
-<!-- narrative: geopolitics--geopol-gulf -->
-The Mauritanian–Omani digitalisation forum closed at the Diplomatic Academy in Nouakchott on 30 July with [a cooperation and partnership agreement and several memoranda](https://lequotidien.mr/?p=39490) between public- and private-sector bodies of the two countries, presented as a move from exchanging experience to joint projects. The stated scope covers digital capacity-building and e-training, digital learning platforms, digital transformation, cybersecurity, artificial intelligence and data analytics, platform development, technical project management, and programmes for civil servants, students and jobseekers. It followed a working visit from 28 to 30 July by an Omani delegation led by the under-secretary of Oman's transport and communications ministry, briefed on Mauritania's digital strategy, institutional and legislative reforms and data-sovereignty work; the [Omani account](https://www.gccbusinessnews.com/oman-mauritania-5-mous-digital-economy/) says its delegation carried telecoms, data-centre, AI, fintech and govtech firms. No values were disclosed by either side.
+The fifth general population and housing census [presented its final regional results from 3 August](https://www.ami.mr/archives/265803). No methodology note, response rate or dissemination calendar accompanies the presentation, so what the base holds is that the results exist rather than what they say.
 <!-- /narrative -->

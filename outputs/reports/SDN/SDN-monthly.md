@@ -1,14 +1,14 @@
 ---
-title: Sudan — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+title: Sudan — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: SDN
-ledger_rows: 24
+ledger_rows: 20
 not_held: 13
-record: f0600ef15fea
+record: 48455095b4f8
 ---
 
-# Sudan: monthly update, July – August 2026
+# Sudan: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -72,11 +72,6 @@ Bankers [backed the directive as necessary for the banking system's soundness wh
 
 <!-- narrative: dpi--dpi-pay -->
 [The Central Bank revoked the Al-Asjad payment-switch licence on 4 July 2026](https://sudantribune.net/article/315827), days after the platform launched in Port Sudan with a Sovereignty Council representative present; no specific breach was disclosed, and unconfirmed press reports say the firm was incorporated only in late 2025 with a Dubai branch. [The national payment switch launched live on 6 August](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips), connecting Omdurman National Bank as first and only participant and completing a first ATM withdrawal over the switch; the Central Bank's own framing is restoration of war-damaged infrastructure, not a new rail, and no schedule for connecting further banks was given. [Al Jazeera field reporting from Omdurman and Khalifa markets on 31 July](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan) found bank apps, chiefly Bankak, dominant in retail settlement, driven by cash scarcity and currency collapse rather than technology uptake, with recurring failure modes including no-smartphone workarounds, app outages and mistaken transfers.
-<!-- /narrative -->
-### Registries
-
-<!-- narrative: dpi--dpi-registry -->
-[The traffic police reported a restored vehicle-registration register on 20 July 2026](https://sudantribune.net/article/316412): 2,124,750 registered vehicles and 3,161,599 driving licences, credited to backup data centres built inside the states and abroad; the Salem e-renewal service now serves 16 countries, up from six, and a laser-secured ownership-transfer platform, Ansab, is being introduced.
 <!-- /narrative -->
 ### Sectoral management information systems
 

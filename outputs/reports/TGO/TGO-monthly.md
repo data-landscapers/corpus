@@ -1,14 +1,14 @@
 ---
-title: Togo — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+title: Togo — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: TGO
-ledger_rows: 40
+ledger_rows: 18
 not_held: 39
-record: e5910496ce37
+record: eec95a3a80b5
 ---
 
-# Togo: monthly update, July – August 2026
+# Togo: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -32,38 +32,15 @@ The [government roadmap for 2026-2031 is in force](https://www.republiquetogolai
 <!-- narrative: governance--gov-legislate -->
 [The 2023 fees-and-royalties decree was amended on 30 July](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) to price satellite and machine-to-machine spectrum use, the amending text still unpublished. Separately, [new rules on the validity and billing of mobile commercial offers entered into force in April](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f) — known to the base through a single line in an operator's parent's half-year financial filing, with no instrument number, title or text held.
 <!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data-protection body is [operating with thirty-two certified corporate correspondents by June 2026](https://www.togofirst.com/fr/tic/2506-19349-protection-des-donnees-l-ipdcp-forme-ses-premiers-correspondants-pour-renforcer-la-conformite-des-entreprises) and [a second international forum convened at Lome in July](https://www.togofirst.com/en/itc/2907-19717-data-protection-experts-convene-in-lome-for-international-forum). Its organisation decree is still not held.
-<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->
 The corridor the country sits on is the subject of the month's regional work. A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated, and the reaffirmation is of commitments the base has held for some time rather than of anything newly delivered.
 <!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The same Council of Ministers session of 30 July [adopted a decree instituting a national conformity-assessment mechanism](https://www.republiquetogolaise.tg/gestion-publique/3107-12146-conseil-des-ministres-du-30-juillet-2026) covering pre-market assessment and traceability for local and imported products, again with no number, text or entry-into-force date published. Against that, the [national frequency allocation plan is held in full](https://arcep.tg/wp-content/uploads/2026/04/Decret-2026-037-PC-Plan-National-d-Attribution-des-bandes-de-Frequences-radioelectriques-PNAF.pdf): 197 pages transposing the 2023 world radiocommunication conference, with an explicit civil and military sharing column and new bands for 5G, high-altitude platforms and inter-satellite links.
-<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
 The regulator spent August on the road rather than on rules. Its [seventh national consumer-sensitisation tour ran from 3 to 28 August with consumer associations and operators](https://atop.tg/bassar-telecommunications-les-consommateurs-sensibilises-sur-leurs-droits-et-obligations/), briefing operators and association leaders on electronic-communications rights and, at Bassar, on preventing mobile-money fraud. At the Kara leg on 6 August, [local officials asked the regulator to widen its remit to all economic operators](https://atop.tg/kozah-communications-electroniques-larcep-edifie-les-consommateurs-de-kozah-assoli-et-binah-sur-leurs-droits-et-obligations/) — a request to be regulated more, not less, and the clearest signal in the record of what consumers think the alternative is. No attendance figure, complaint volume or outcome measure for the tour is published.
-<!-- /narrative -->
-
-## Finance
-
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The [indicative cooperation programme with Luxembourg for 2026-2031 is in force](https://www.togofirst.com/en/economic-governance/1607-19578-togo-luxembourg-sign-three-agreements-on-development-and-cybersecurity), carrying a digital transformation component inside a package of EUR 78,550,000. The two accounts held date the signing a day apart.
-<!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-[A further US$20,000,000 was signed for the Togolese component of the regional unique identification programme](https://www.togofirst.com/en/investments/1707-19593-togo-signs-cfa257-4-billion-in-financing-agreements-for-vision-2040) on 16 July, inside a five-agreement package of US$429,000,000. The implementation report the base holds gives that phase a closing date of 30 July 2026 and nothing restates or extends it alongside the top-up. A public administration service-delivery modernisation project was [named at the government's portfolio review of 28 July](https://www.republiquetogolaise.tg/gouvernance-economique/3007-12141-le-gouvernement-renforce-le-suivi-des-projets-finances-par-la-banque-mondiale) as the digitalisation vehicle inside a portfolio of more than US$2bn; the base holds the name and nothing else.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -105,11 +82,6 @@ Togo put a [national platform online centralising climate-risk data for public d
 
 The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response), following a training-of-trainers workshop held at the public-health training and research centre. No go-live date, facility coverage or data flow is stated.
 <!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-Two government systems advanced without either being shown in production. [Document management and digitisation training ran at the finance ministry](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives), with no statement that the system itself is live; and the volunteering agency's [mobile application is live](https://www.republiquetogolaise.tg/tic/2707-12130-volontariat-l-anvt-lance-son-application-mobile) carrying four programmes for registration and record tracking, with no formal launch date and nothing establishing whether it authenticates against a national citizen account or mints a separate identity store.
-<!-- /narrative -->
 
 ## Digitalisation
 
@@ -118,19 +90,9 @@ Two government systems advanced without either being shown in production. [Docum
 <!-- narrative: digitalisation--digital-localgov -->
 A commune of Greater Lome began building the kind of register a municipality has not had. Golfe 2 [launched a georeferenced census of households, businesses and taxpayers on 11 August, running to 10 October](https://www.republicoftogo.com/toutes-les-rubriques/politique/une-connaissance-plus-precise-du-territoire-communal), to build a secure municipal database under the communes federation's digitalisation push and the 2023-2027 communal development plan. No data-protection basis, custodian, retention rule or access arrangement is stated for a file that ties households, businesses and tax position to a location.
 <!-- /narrative -->
-### Rural digital data capture
-
-<!-- narrative: digitalisation--digital-rural -->
-The Council of Ministers [amended the spectrum-royalty decree to price satellite and machine-to-machine traffic](https://actu-togo.tg/2026/07/31/numerique-le-togo-ajuste-sa-reglementation-pour-soutenir-linnovation-et-la-connectivite/) on 30 July, so specialised operators can establish and rural connectivity extend. The amending text and its rates were unpublished at 31 July, and the parent decree is held only as an image scan, so the baseline rates cannot be read either.
-<!-- /narrative -->
 
 ## Technology
 
-### AI
-
-<!-- narrative: technology--tech-ai -->
-Three artificial-intelligence positions all rest on announcements rather than output. A [national-languages speech and translation project](https://www.togofirst.com/fr/culture/1407-19555-au-togo-un-projet-pour-valoriser-les-langues-nationales-via-lintelligence-artificielle) targets at least fifty hours of validated recordings and 6,000 translated sentence pairs for each of fifty languages, with four data competitions carrying US$40,000 in prizes — targets only, with no collected-hours figure, released model or completion date on file. The same laboratory runs satellite, mobility and text data for agriculture, health, education and the environment, on the single source the base holds for it. Togo is also a founding government of a [pan-African African-language coalition](https://www.gsma.com/newsroom/all-documents/gsma-welcomes-abuja-declaration-on-meaningful-connectivity-for-africa-and-joins-partners-to-launch-atlas-umoja/) launched with four private partners, and nothing held states how it relates to Togo's own fifty-language project.
-<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
@@ -143,12 +105,4 @@ Three artificial-intelligence positions all rest on announcements rather than ou
 
 <!-- narrative: capacity--capacity-literacy -->
 A programme of [school FabLabs, trained fabmanagers and regional innovation and technology centres](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) was set out publicly, together with the vocabulary it will be run in. No site count, budget or opening date is given.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-An operator [added three mobile-money services](https://www.togofirst.com/fr/telecoms/0807-19499-mobile-money-moov-africa-togo-lance-de-nouveaux-services-pour-renforcer-sa-position) — insurance premium payment, withdrawal-card transfer, and gift cards for international streaming and gaming platforms. The account is the operator's own.
 <!-- /narrative -->

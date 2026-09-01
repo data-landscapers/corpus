@@ -1,14 +1,14 @@
 ---
-title: Rwanda — monthly update, July – August 2026
-compiled: 2026-08-30
-period: 2026-07-01 to 2026-08-30
+title: Rwanda — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: RWA
-ledger_rows: 56
+ledger_rows: 32
 not_held: 9
-record: da7250acf42a
+record: 40be639be0e7
 ---
 
-# Rwanda: monthly update, July – August 2026
+# Rwanda: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -51,11 +51,6 @@ One piece of regional machinery moved from design into use. A continental allian
 
 <!-- narrative: governance--gov-standards -->
 The [government-wide enterprise architecture framework, version 2.1, is in force to govern ICT architecture standards](https://risa.prod.risa.rw/fileadmin/user_upload/RISA/Publications/1.Guidelines/GOR_s_Enterprise_Architecture_Framework.pdf) and is now held in excerpt. It is distinct from the interoperability framework named in earlier academic work, for which the base still holds no separate instrument.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The internet governance forum convened in Kigali on 30 July under the domain registry; a regional body announced an internet governance blueprint for a steering committee in September 2026.
 <!-- /narrative -->
 
 ## Finance
@@ -113,18 +108,6 @@ Business registration moved entirely online in January. The Office of the Regist
 
 The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
 <!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/) — against a health ministry statement of April 2025 that [e-Ubuzima was deployed in 15 districts and paper records would be gone from every public facility by December 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). Nothing on file states what was delivered against that date.
-<!-- /narrative -->
-### Other GovTech and e-Gov
-
-<!-- narrative: dpi--dpi-govtech -->
-The government's services portal was reported on 30 July as carrying [more than 600 services, of which more than 240 are paid, across 4,000 agents](https://www.biometricupdate.com/202607/rwanda-turns-digital-public-infrastructure-into-a-continental-growth-strategy). The same account records the stack being sold abroad: two neighbours have adopted the electronic billing machine, a third is mid-adoption, and one state has taken the electronic procurement platform and is co-developing it. No revenue or contract value is disclosed for any adoption.
-
-On 20 July an information society authority and a West African digital ministry identified artificial intelligence, electronic health and electronic commerce as areas to explore around that procurement platform — areas identified, nothing signed.
-<!-- /narrative -->
 
 ## Technology
 
@@ -136,11 +119,6 @@ Rwanda and a North African state signed an artificial-intelligence and digital-t
 At the internet governance forum on 30 July a ministry official said artificial intelligence is already in use in Rwandan health, education and fraud detection. The national agency approved in June still has no published structure, budget, law or implementation timeline.
 
 On 13 August the ICT ministry [held a two-day working session with a hyperscaler to scope a structured artificial-intelligence partnership](https://www.techreviewafrica.com/news/6745/rwanda-and-google-engage-on-ai-partnership-to-accelerate-digital-transformation) spanning digital public infrastructure, data exchange, cloud, cybersecurity and skills. Nothing was signed and no value or timetable was given. The question a scoping session of that breadth raises — on what terms national data would sit with a foreign provider — is not addressed in the account.
-<!-- /narrative -->
-### ICT Industry
-
-<!-- narrative: technology--tech-industry -->
-The information and communication sector [employed 19,000 workers in the second quarter of 2026 against about 12,000 a year earlier](https://www.ktpress.rw/2026/07/why-tech-is-rwandas-fastest-growing-source-of-new-jobs/) — up 62.6% against 2.7% economy-wide, and still about 0.4% of total employment, against a sector target of 50,000 digital jobs by 2029.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -166,14 +144,6 @@ Where training did continue it went to the top of the system rather than the bot
 
 <!-- narrative: capacity--capacity-research -->
 An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
-<!-- /narrative -->
-
-## Inclusion
-
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-Formal financial access was reported at [96% of adults in 2024 against 48% in 2008](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), with 68.5% using a mobile wallet and only about 5% holding a bank account. Against that headline, the agent network contracted at the second operator over the year to March 2026, and the accounts-per-agent ratio widened. The legacy-network retirement plan carries handset-affordability measures, which is the inclusion question the 30 June 2027 deadline turns on: the single figure that would show whether the deadline is achievable — the share of the handset base capable of voice over fourth-generation networks — has not been published by the operator, the ministry or the regulator. [Nothing was published in the month on school connectivity, which stands at 4,184 of 4,996 schools connected as at March 2026, leaving 812 mostly rural against a government target of 80%](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash).
 <!-- /narrative -->
 
 ## Data

@@ -1,14 +1,14 @@
 ---
-title: Chad — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+title: Chad — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: TCD
-ledger_rows: 37
+ledger_rows: 21
 not_held: 41
-record: 7e0ecb2bedef
+record: a76d366f7962
 ---
 
-# Chad: monthly update, July – August 2026
+# Chad: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -50,11 +50,6 @@ The fund's own appraisal report now settles the amount the base could not reconc
 
 ## ICT Infrastructure
 
-### Technical Capacity
-
-<!-- narrative: ict-infrastructure--infra-capacity -->
-The national police [received seventy-four desktop computers, fifty-nine laptops, 105 surveillance cameras, communication equipment and everything needed to restore the force's public hotline](https://techgriot.co/english/africa/2026/07/chad-equips-its-national-police-with-new-tech-to-fight-cybercrime/). Nothing is stated about training, about retention of the camera or hotline data, or about the legal basis for the surveillance capability the transfer creates.
-<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -82,11 +77,6 @@ On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR
 <!-- narrative: dpi--dpi-registry -->
 Civil registration is where Chad's month has both its clearest instrument and its largest gap. [48.33 per cent of new births are registered within the three-month legal deadline, with about 2.95m under-fives undeclared and 829,000 pupils in school with no document attesting their legal existence](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/). Against that a [six-month campaign to December targets at least a million children from four months to seventeen years across twelve provinces](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/), by household enumeration and a schools drive, with community teams using smartphones feeding the biometric register; no enrolment achieved so far is reported, and one account puts the household component in twelve provinces while another says every province. It runs inside a [moratorium signed on 2 February suspending court fees for supplementary birth judgments for that age range until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) — a four-year legal window around a six-month campaign — whose own text is not held. The civil-registration application has been [deployed since 2021 with no coverage, site count or throughput figure published](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/), and new monthly *paper* collection forms were introduced in August to improve transmission of birth, marriage and death data to the centre.
 <!-- /narrative -->
-### Sectoral management information systems
-
-<!-- narrative: dpi--dpi-mis -->
-The education management information system is [in use in the higher-education ministry, whose statistics and digitalisation staff were trained between 20 and 25 July](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) on questionnaire configuration, data-entry masks, extraction and database validation. No coverage figure or published output is held, and nothing at all is on file for the basic-education ministry. Electronic medical records and interconnection of health facilities remain [exploratory, discussed on a Washington mission with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/).
-<!-- /narrative -->
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
@@ -111,21 +101,8 @@ The platform the state already uses to watch itself surfaced on 7 August, when t
 The base holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
 <!-- /narrative -->
 
-## Data
-
-### National statistics
-
-<!-- narrative: data--data-statistics -->
-The third general population and housing census [closed its main enumeration on 6 August after a decree of 20 July extended it expressly for sweeps](https://www.lepaystchad.com/45968-2/), coverage having been acknowledged incomplete at the original deadline. Days from the close, [one nomadic district had still not seen an enumerator](https://lendjampost.com/rgph-3-dans-le-batha-une-mission-de-terrain-pour-ne-laisser-aucun-nomade-de-cote/). Neither census decree is held — Chad has no reachable online gazette — and no results, preliminary or otherwise, are published.
-<!-- /narrative -->
-
 ## Geopolitics
 
-### US / hyperscaler activities
-
-<!-- narrative: geopolitics--geopol-usa -->
-Four priority areas were [agreed with the United States — digital infrastructure, satellite connectivity, cybersecurity and digital health — with no instrument signed](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/). A supplier stated its willingness to audit and certify the national data centre, a mandate already held under the tripartite agreement of February 2026. The two accounts give different mission dates, and the [minister flagged United States visa refusals for Chadian technical personnel as a delivery risk](https://www.digitalbusiness.africa/tchad-a-washington-ndjamena-multiplie-les-contacts-avec-starlink-intersystems-et-dautres-geants-technologiques/).
-<!-- /narrative -->
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->

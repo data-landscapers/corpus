@@ -1,14 +1,14 @@
 ---
-title: Uganda — monthly update, July – August 2026
-compiled: 2026-08-31
-period: 2026-07-01 to 2026-08-31
+title: Uganda — monthly update, August – September 2026
+compiled: 2026-09-01
+period: 2026-08-01 to 2026-09-01
 place: UGA
-ledger_rows: 88
+ledger_rows: 63
 not_held: 17
-record: f83d81a5dfe0
+record: e60a569ef225
 ---
 
-# Uganda: monthly update, July – August 2026
+# Uganda: monthly update, August – September 2026
 
 *Developments summarised from sources published between the beginning of last month and today.*
 
@@ -43,16 +43,6 @@ On 14 August the ICT ministry launched a [three-year child online-safety campaig
 
 The sharpest test of the protection regime in the window came from another arm of the state. The revenue authority has [issued more than 1,000 compliance notices since June 2026, and wrote to a commercial bank on 27 July seeking five years of customer bank statements, the directors' personal identity information and the bank-client correspondence](https://www.theeastafrican.co.ke/tea/business-tech/ugandan-revenue-authority-turns-up-heat-on-taxpayers-5561674), under the Tax Procedures Code Act and against a ten-month collection shortfall of Ush1.5 trillion. Nothing from the data protection office is on record about it.
 <!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-Uganda was [elected to the African Telecommunications Union Administrative Council at Abuja on 24 July](https://www.ucc.co.ug/uganda-wins-seat-on-the-african-telecommunications-union-administrative-council/), one of 25 member states for a four-year term. At a regional central bankers' meeting in Kampala the same day, the chair called for a [harmonised East African framework for regulatory sandboxes covering artificial intelligence and digital finance](https://observer.ug/business/east-african-central-bankers-push-single-currency-launch-to-2031/); the meeting's signed communiqué records no such item.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-On 30 July the transformation programme secretariat reported that its review of quarterly submissions under the fourth development plan [found gaps and inconsistencies in the data ministries and agencies submit through the national monitoring and evaluation system](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/), naming no error rate and no remediation date.
-<!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
@@ -70,11 +60,6 @@ The month's set-piece was a convening rather than a decision: [Internet Governan
 <!-- narrative: finance--finance-mou -->
 The month's one cross-border approach is exploratory. A ministerial delegation [visited the Ethiopian incumbent operator's headquarters in Addis Ababa on 13 August to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom), in support of the national vision and the 2023-2027 digital roadmap. No agreement was signed and no scope, value or timetable is stated.
 <!-- /narrative -->
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The digital acceleration project is [named as funder of the Tororo, Mbarara and Gulu service-centre pilots and as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations). No disbursement figure is held for it.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
@@ -88,11 +73,6 @@ The second operator reported the same demand from the other side: [19.7 million 
 On 5 August the network operator with the largest published footprint released its 2025 sustainability report, recording for the year to 31 December 2025 [24.2 million subscribers, population coverage of 96.2% 3G, 88.6% 4G and 19% 5G, 27,037 km of fibre and 45% of network sites on solar or hydro](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). These are the company's own unaudited figures and the base holds no prior-year comparator.
 
 The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
-<!-- /narrative -->
-### Data Storage
-
-<!-- narrative: ict-infrastructure--infra-store -->
-The Namanve colocation facility is operating with no Uganda capacity figure published; its group [committed capital rose from US$350m to US$380m on 13 July](https://tech.africa/raxio-380m-committed-capital/), a figure spanning seven markets rather than Uganda alone.
 <!-- /narrative -->
 ### Energy
 
@@ -222,9 +202,4 @@ The statistics bureau [commissioned 80 field data collectors on 4 August](https:
 
 <!-- narrative: geopolitics--geopol-usa -->
 The United States health-data memorandum is now held, and it is not the instrument the reporting describes. The signed text [caps the arrangement at seven years, places it under joint steering-committee governance with Uganda as data owner, binds all activity to the Data Protection and Privacy Act and the national data-governance framework, and has Uganda approve the health information architecture before any United States-financed investment](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf); [planned support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems](https://www.citizen.org/wp-content/uploads/2026-0012QN-Uganda-Health-12.10.2025.pdf). It provides only for a future data-sharing agreement. A [news organisation reported on 23 July that it had reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years](https://www.propublica.org/article/trump-state-department-africa-uganda-aid-medical-data-privacy). The two accounts describe different instruments rather than contradicting each other; the agreement's own text is unpublished and not held, and no Ugandan or United States primary has confirmed or denied the account.
-<!-- /narrative -->
-### EU activities
-
-<!-- narrative: geopolitics--geopol-eu -->
-A [technical-assistance tender was published on 31 July, estimated at EUR 938,170 over thirty months from 15 September](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html), performed from the regional secretariat in Arusha, with designs to be tested against the universal safeguards framework and against local data-protection and localisation law. The same tender names an added national funding window for a sovereign digital public infrastructure loan package with the ICT ministry, for which no amount, instrument or date is stated.
 <!-- /narrative -->
