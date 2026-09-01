@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: NER
-ledger_rows: 16
+ledger_rows: 19
 not_held: 4
-record: 5d3c7d8f5b76
+record: 13e3911fd2ae
 ---
 
 # Niger: monthly update, August – September 2026
@@ -22,6 +22,11 @@ The other thread is hardware and skills. The electronics assembly plant at Hamda
 
 ## Governance
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The civil-status reforms are being explained rather than amended. The national awareness tour reached its fourth stage with [a workshop opening in Agadez on the civil-status and personal-identification reforms](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/), where [the region mobilised its actors around inclusive governance of the new regime](https://airinfoagadez.com/2026/08/28/reformes-de-letat-civil-et-de-lidentification-agadez-mobilise-ses-acteurs-pour-une-gouvernance-inclusive/). Explaining a reform is not implementing it, and the record held carries no count of registrations made under the new regime in any region the tour has passed through.
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->

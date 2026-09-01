@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-09-02
 place: NER
-ledger_rows: 63
+ledger_rows: 64
 not_held: 4
-record: 306db781cd48
+record: bba1e0167d7a
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (63 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (64 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -37,7 +37,7 @@ The telecommunications regulator is the most active institution on the record. I
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Civil-status regime | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Application decret n2026-277 of 2026-05-18 |
+| Civil-status regime | [Implemented](https://anp.ne/ouverture-a-agadez-dun-atelier-de-sensibilisation-sur-les-reformes-en-matiere-de-letat-civil-et-didentification-des-personnes-au-niger/) | Fourth stage of the national tour held 2026-08-28 |
 | Loi 2018-45 prior-authorisation regime for electronic communications | [Implemented](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) | Invoked against unauthorised satellite resale |
 
 ### Data protection
@@ -52,7 +52,7 @@ The telecommunications regulator is the most active institution on the record. I
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Algeria and Niger telecommunications cooperation | [Implemented](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) | Cooperation agreed 2026-03-30 |
+| Algeria and Niger telecommunications cooperation | [Implemented](https://www.actuniger.com/politique/22305-cooperation-niamey-et-alger-reaffirme-leur-engagement-a-concretiser-les-projets-dintegration-africaine.html) | Trans-Saharan projects reaffirmed 2026-08-28 |
 | Identity-system cooperation with Burkina Faso | [Implemented](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Technical mission received in Ouagadougou 2026-07-30 |
 
 ### Standards
@@ -266,7 +266,8 @@ Two external relationships are now on record. Huawei — present in Niger since 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
-| Niger Digital Day skills caravan | [Implemented](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/) | Tahoua leg trained 140 young people, 25 August 2026 |
+| Digital sovereignty framing of technical graduation | [Implemented](https://anp.ne/escep-niger-lecole-du-numerique-celebre-ses-diplomes/) | Ceremony held 2026-08-31 |
+| Niger Digital Day skills caravan | [Implemented](https://www.linkedin.com/posts/digitalnigerday_nigerdigitalday-activity-7498326530163433472-wdaQ) | Tahoua stage oversubscribed 2026-08-26 |
 
 ### Research institutions
 

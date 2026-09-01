@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-30
+compiled: 2026-09-02
 place: GNQ
-ledger_rows: 69
+ledger_rows: 72
 not_held: 6
-record: 43033c3d6ef3
+record: fd12a9627d90
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-30 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (69 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (72 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -179,6 +179,8 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 | System or instrument | Status | Milestone |
 |---|---|---|
 | DHIS2 electronic logistics system for malaria commodities | [Implemented](https://dhis2.org/equatorial-guinea-malaria-lmis/) | Deployed on Bioko Island under the BIMEP |
+| National Health Accounts 2021-2023 | [Implemented](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023) | Presented 2026-08-26 |
+| Single import-valuation database and automated valuation module | [Planned](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/) | Agreed 2026-08-28 |
 
 ### Other GovTech and e-Gov
 
@@ -254,6 +256,7 @@ A [China cooperation roadmap](https://ahoraeg.com/politica/2025/06/17/china-se-c
 | INSTTIC training with Chinese universities | [Implemented](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/) | More than 200 students under the China cooperation roadmap |
 | UNDP Digital Fitness programme | [Implemented](https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico) | Multisectoral officials trained in digital transformation and cybersecurity, August 2025 |
 | University computer-room funding inquiry | [Implemented](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/) | Investigation opened into the use of the funds, August 2026 |
+| Vendor youth technology programme | [Implemented](https://www.guineaecuatorialpress.com/noticias/diez_jovenes_de_guinea_ecuatorial_viajaran_a_china_con_el_programa_%3Fsemillas_para_el_futuro%3F_de_huawei) | Cohort selected 2026-08-30 |
 
 ### Research institutions
 
@@ -287,7 +290,7 @@ Access is measured only by a reference study, cited and not absorbed here: [Data
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Fifth population census and first agricultural census | [In development](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/) | Scientific committee validates the strategic documents (2026-08-20) |
+| Fifth population census and first agricultural census | [In development](https://burundi.unfpa.org/fr/news/coop%C3%A9ration-sud-sud-la-guin%C3%A9e-%C3%A9quatoriale-sinspire-de-lexp%C3%A9rience-burundaise-du-recensement) | Digital census experience studied 2026-08-28 |
 | National Quality Assurance Framework for official statistics | [Implemented](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/) | Adopted by the fifth interministerial council of 2026 on 2026-08-25 |
 
 ### Open data

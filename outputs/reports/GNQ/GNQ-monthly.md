@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: GNQ
-ledger_rows: 15
+ledger_rows: 18
 not_held: 6
-record: 793178f39824
+record: abaf9322dfcc
 ---
 
 # Equatorial Guinea: monthly update, August – September 2026
@@ -52,6 +52,11 @@ The government [formally pressed the supplier to deliver the equipment still out
 
 <!-- narrative: dpi--dpi-exchange -->
 The national interoperability framework the World Bank named as absent in 2024 is still absent, and August put a cost on that. At the National Development Agency's directorship handover on 7 August, its outgoing Inspector General [named limited data-sharing by line ministries as the agency's main obstacle](https://www.guineaecuatorialpress.com/noticias/milagrosa_obono_angue_preside_el_acto_oficial_de_entrega_de_despacho_de_la_agencia_nacional_de_desarrollo) to monitoring delivery against the National Sustainable Development Strategy. The agency is the body meant to see across government, and it is describing itself as unable to.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+Two sectoral systems moved, both at the design stage. A ministerial workshop [agreed to build a single import-valuation database and to bring an automated customs valuation module into service](https://lagdeguinea.com/gobierno-refuerza-el-control-aduanero-y-agiliza-reformas-economicas/), and the universal health insurance technical committee [presented the national health accounts for 2021 to 2023](https://www.guineaecuatorialpress.com/noticias/el_comite_tecnico_multisectorial_del_seguro_medico_universal_presenta_las_cuentas_nacionales_de_salud_2021-2023). Neither carries a supplier, a cost or a date. What the customs agreement replaces, and how valuation is done now, is not stated in the record held.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

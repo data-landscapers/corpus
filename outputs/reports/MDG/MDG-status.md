@@ -1,15 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-09-02
 place: MDG
-ledger_rows: 65
+ledger_rows: 67
 not_held: 8
-record: 3e4124bdbfd7
+record: 352530d7cce6
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (65 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (67 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -36,7 +36,7 @@ Two things ran the other way. The same Council of Ministers [ordered providers t
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Cybercrime bill overhauling the 2014 law | [In development](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Revision reported alongside signature of the UN Convention against Cybercrime, 2026-08-15 |
+| Cybercrime bill overhauling the 2014 law | [In development](https://www.tiatanindrazana.mg/fandriampahalemana/volavolan-dalana-momba-ny-heloka-anhabaka-67905.php) | Tabled in the National Assembly 2026-08-31 |
 | Dedicated social-media law | [Planned](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Announced by the minister of communication, covering harassment, defamation and disinformation |
 | Digital bills before the extraordinary session | [In development](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/) | Extraordinary session opened 25 August 2026 |
 | Electronic signature and interoperability decree | [In development](https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/) | Draft regulatory framework validated at a ministry workshop |
@@ -55,6 +55,7 @@ Two things ran the other way. The same Council of Ministers [ordered providers t
 | System or instrument | Status | Milestone |
 |---|---|---|
 | China-initiated international network against cybercrime | [Implemented](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/) | Council of Ministers approved accession 2026-08-04 |
+| Regional public service assembly participation | [Implemented](https://moov.mg/article/120425-fonction-publique-madagascar-defend-une-administration-tournee-vers-les-citoyens-a-la-sadc) | Assembly attended 2026-08-31 |
 | United Nations Convention against Cybercrime | [Planned, signed not ratified](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Signature reported 2026-08-15 |
 
 ### Standards
@@ -185,6 +186,7 @@ Hosting is being built for the identity system rather than for a market: tenders
 | Higher-education accreditation platform | [Implemented](https://2424.mg/enseignement-superieur-la-plateforme-habilitation-accreditation-et-equivalence-mise-sur-la-transparence-et-la-digitalisation-des-procedures/) | Presented at the ministry on 3 August 2026 |
 | Maritime Single Window | [In development](https://newsmada.com/2026/08/07/deploiement-de-maritime-single-window-lindonesie-debloque-816-millions-dariary/) | Indonesian financing of about 816m ariary confirmed 2026-08-07 |
 | Police reporting platform for violence and disappearances | [Implemented](https://midi-madagasikara.mg/police-nationale-une-plateforme-numerique-pour-signaler-les-violences-et-les-disparitions/) | Presented at Anosy on 28 July 2026 by the minister of public security |
+| Public procurement of computing equipment and networks | [In development](https://www.fid.mg/acquisition-de-materiels-et-equipements-informatiques-n87-dc-fid-dg-cerp-26-15-09-2026/) | Tenders opened 2026-08-29 |
 
 <!-- narrative: dpi -->
 Identity is the whole story. The first adult phase [ran April to June 2026 and passed six million people against a two-million target](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html), run through [2,500 kits across 1,729 centres](https://www.lexpress.mg/2026/01/reforme-enrolement-biometrique.html) after the [proof of concept was validated in March 2026](https://www.lexpress.mg/2026/03/etat-civil-lenrolement-biometrique.html), the January pilot having [enrolled about 130,000 through regime change, civil unrest and a cyclone](https://www.biometricupdate.com/202604/madagascar-navigates-biometric-enrollment-challenges-with-laxtons-help). Counts are reported on different scopes and no cost figure is published.
