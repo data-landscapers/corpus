@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: capacity.training
 places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 989a3b096fde
+record: 509e875ee2d5
 ---
 
 # Training and skills: monthly update, August 2026
@@ -196,4 +196,4 @@ Training in the window is a private programme rather than a state one. A ride-ha
 
 ## Zimbabwe
 
-The ICT minister told a small-business meeting on 17 July that a digital skills programme targets 1.5 million people ([meeting account](https://techafricanews.com/2026/07/17/zimbabwe-unveils-digital-roadmap-to-accelerate-msme-growth/)).
+The artificial-intelligence grand challenge opened on 4 August [across agriculture, health, education, financial services, mining and public administration, and was stated as a recurring programme](https://technomag.co.zw/zimbabwe-bets-on-ai-innovation-as-government-launches-national-grand-challenge/). The regulator reported [738 applications received and 68 projects selected for a boot camp in Nyanga, narrowed to 18 candidates for the next stage](https://binduraeye.co.zw/mavetera-urges-ai-solutions-that-benefit-communities-as-nyanga-challenge-progresses/). No award, prize or budget has been published against any of it.

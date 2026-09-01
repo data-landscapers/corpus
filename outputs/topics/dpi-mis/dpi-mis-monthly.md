@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MUS; MAR; NAM; NGA; STP; SEN; SYC; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: de760d64e422
+record: bd36e00e265a
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, August 2026
@@ -176,3 +176,5 @@ An emergency outbreak response platform [entered two days of user-acceptance tes
 ## Zimbabwe
 
 The national electronic medical record reached [1,254 of a planned 1,900 health facilities](https://www.theglobalfund.org/media/qksld2tg/publication_zimbabwe-digital-health_casestudy_en.pdf), on a health financing partner's account rather than the ministry's. The [platform's own front page describes it as the national health operating system](https://impilo.mohcc.gov.zw/), spanning care-finding, provider verification, medicines and diagnostics directories, virtual care, an assistant and public health notices — run largely without a citizen account and gated by a separate professional-authority check — and carries no facility-coverage figure and no last-updated date of its own. An operator separately reports [more than 20 telehealth centres established](https://www.263chat.com/netone-at-30-from-zimbabwes-first-mobile-call-to-a-digital-future/), company-reported to an anniversary feature with no patient, consultation or availability figure.
+
+On land the state consolidated rather than built: the lands minister said on 24 August that [three land databases had been merged into one integrated digital system reached through a One Stop Title Processing Centre, with 27,045 plots surveyed and 10,231 mapped to beneficiaries and 1,824 agreements of sale worth about US$110 million concluded](https://www.zimbabwesituation.com/news/govt-keen-to-unlock-us20bn-in-land-value/). The figures are the implementation committee's own and nothing on this ledger tests them.

@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.registry
 places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9f47a25d5e53
+record: a7568fedb9aa
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -202,4 +202,4 @@ A [national carbon registry went live on 8 August](https://www.lusakatimes.com/2
 
 The same registrars-general meeting heard that all ten provinces and 63 districts are computerised for civil registration but only more than 20 of 209 sub-offices ([meeting account](https://www.zbcnews.co.zw/african-registrars-look-to-replicate-zimbabwes-e-passport-success/)).
 
-The transfer of voter registration and roll management from the electoral commission to the registrar-general, begun under the third constitutional amendment, is under way, with no date, transition plan or safeguard stated ([Senate account](https://www.zbcnews.co.zw/registrar-general-to-take-over-voters-roll-under-constitutional-reforms/)).
+The voters' roll transfer moved from statement to operation. On 18 August [the civil registry department and the electoral commission began a nationwide joint handover of voter registration and roll management to the registrar-general, provincial and district officers of both bodies meeting in Harare to work out how](https://www.zimbabwesituation.com/news/rg-zec-begin-nationwide-handover-of-voter-registration-mandate/), under the constitutional amendment signed earlier in the year. No completion date, transition plan or safeguard has been stated at either end of the month.

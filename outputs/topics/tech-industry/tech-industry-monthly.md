@@ -3,13 +3,13 @@ title: ICT Industry — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: tech.industry
-places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; ZAF; TGO; ZMB
-record: b79825050f8c
+places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; ZAF; TGO; ZMB; ZWE
+record: ad6cb960eb95
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -63,3 +63,7 @@ Platform transport worked the other end of the same problem — getting drivers 
 ## Zambia
 
 The third edition of a continental diversity report puts [29% of Zambian startups sampled with at least one female co-founder, the highest of any country covered, and 22.6% with a female chief executive](https://www.connectingafrica.com/women-in-tech/zambia-uganda-lead-in-female-startup-co-founders), against a continental 19.2% female co-founded from a sample of more than 3,000. The underlying report is not held; only the trade-press account is.
+
+## Zimbabwe
+
+A locally built enterprise platform was [formally launched at a university technology expo on 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/), its developer already carrying systems across 83 local authorities and government projects including a mines export permit system and the citizen engagement platform. It is the base's clearest instance of Zimbabwean-written software at national scale; no licence value, contract or user figure is stated.

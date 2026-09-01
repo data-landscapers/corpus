@@ -3,13 +3,13 @@ title: Innovation ecosystem — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: tech.innovate
-places: DZA; BFA; CMR; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB
-record: 686643fd2056
+places: DZA; BFA; CMR; CPV; CIV; COD; EGY; ERI; SWZ; GAB; GHA; KEN; LBR; MLI; NER; NGA; RWA; ZAF; TZA; UGA; ZMB; ZWE
+record: 6b651d7cb4ef
 ---
 
 # Innovation ecosystem: monthly update, August 2026
 
-*21 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Algeria
 
@@ -113,3 +113,7 @@ The startup environment was assessed rather than funded. A continental alliance 
 ## Zambia
 
 A donor-funded accelerator began staffing up: a private hub [called for facilitators and group coaches for a twelve-month incubator running masterclasses, group coaching and access to funding for digital startups](https://bongohive.co.zm/call-for-facilitators-and-group-coaches/). No cohort size, budget or start date is stated, and the government innovation fund the base looked for is still not held.
+
+## Zimbabwe
+
+The same institute's [innovation hub hosted a three-day expo from 28 to 30 July](https://www.hit.ac.zw/2026/08/02/designing-an-assured-future-hit-closes-technovation-expo-2026-in-style/) with an anticipated 10,000 participants, and carries a technopreneurship centre and a new centre for artificial intelligence. It follows the [presidential commissioning on 27 July of a university industrial incubation centre supporting 11 start-ups](https://www.uz.ac.zw/index.php/commissioning-of-the-specialist-medical-centre) across agriculture, ICT, engineering, pharmaceuticals, health, transport and energy. Attendance is the organisers' own expectation rather than a count.
