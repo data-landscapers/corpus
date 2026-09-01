@@ -3,6 +3,7 @@ ANEXO G	11406
 ANNEXURE G	11986
 APPENDIX G Table	3862
 ASUNTOS GRAL ADJUNTA GRAL. ASUNTOS G	4209
+AUTRE SECTEUR PUBLIC G	13300
 Achèvement Garçons Filles G	10847
 Act. Part G Insert	3714
 Admission Garçons Filles G	10847
@@ -18,7 +19,7 @@ Alleyne G	10780
 Ambler G	1219
 Amissi G	10625
 Annex G	3861
-Annexure G	11240,746
+Annexure G	11240,746,1434
 Appendix G	236
 Asiki G	771
 B. G	5349
@@ -58,6 +59,7 @@ D. G. G	12369
 D. G. GESTION ADMINISTRATIVA Y RECURSOS	4209
 D. G. PALACIOS Y RESID. MALABO	4209
 DE G. DE GRAL POLICIA JUDICIAL	4209
+DE L'ENDROIT. G	13300
 DR. GABRIEL G. G. MALEBANG	3887,8675,67
 Diapoulis G	9739
 Dinsa G	3791
@@ -69,6 +71,7 @@ Dr. C. G. D. N. Chiwenga	1554
 Dr. ERNEST NSABIMANA D G	718
 Dr. Faruk G. Patel	12576
 Dr. G. A. Adamu	13261
+Dr. Martine G. Mtonga	13308
 E F G H M	13093
 E G Airtel Vodafone Tigo MTN	236
 E G D	12674
@@ -81,6 +84,7 @@ Especialista Grupo G	4209
 Especialista Grupo G Servicio	4209
 Especialistas Grupo G Servicio	4209
 Excellency Dr Hage G. Geingob	12923
+F AUTRE SECTEUR PUBLIC G	13300
 F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
@@ -101,15 +105,22 @@ G 30 GB Monthly Bundle	718
 G 500 MB Weekly	718
 G 90 GB Monthly Bundle	718
 G A B C D	236
+G ABBREVIATIONS AND ACRONYMS	13331
+G ARCT Third Generation	13331
+G AUTRE SECTEUR PUBLIC H	13300
 G Adoption	11857
 G Advanced	8841,2015
 G Asked	6351
+G BELLE-MÈRE	13300
+G BETEL	13300
 G BOX	11574
 G Bengo	11418
 G Both MTN and Vodacom	10797
 G Box	8828
 G By CNBC Africa Published	8266
 G By Maria Macharia Kenya	10734
+G CENTRE DE SANTÉ AGRÉ	13300
+G CONDOM FÉMININ	13300
 G Capital	8937,1,141,2704
 G Capital and IFC	9079
 G Cell C	10673
@@ -117,7 +128,7 @@ G Connectivity	3770
 G Consumer Business Case	5675
 G Continuum	8283
 G Core	2528,15
-G Coverage	10856
+G Coverage	10856,2488
 G Coverage ARCEP	10856
 G Coverage Climbs	5715
 G Coverage GSMA	10856
@@ -144,21 +155,24 @@ G Empresarial	7667
 G Encargado Grupo G Especialista Grupo	4209
 G Era	5981,70
 G Expansion	12315
+G FATALISTE	13300
 G FBB	3184
 G FBB Data	4525
 G FBB Sources	10995
 G FWA	8828,1965,968
 G FWA. Ce	11761
 G Fifth Generation ASPs Application Service	6671
+G Fifth Generation B2B Business	13346
 G Fifth Generation Network ABMT Appropriate	2775
 G Fifth Generation Telephone Wireless Technology	11857
 G Fixed Wireless Access	6100
-G Fourth Generation	6671
+G Fourth Generation	6671,6675
 G Fourth Generation Network	2775
 G Fourth Generation Telephone Wireless Technology	11857
 G Frameworks and Cyber Security Capacity	721
 G Frameworks and Cybersecurity Capacity	721
 G G Low	6936
+G GROSSESSES	13300
 G General Public Services	13093
 G Government Network Smart City Project	13132
 G Growth	6051
@@ -169,17 +183,24 @@ G Huawei Pura	9769
 G Hybrid ASON	3797
 G Hybrid Automatically Switched Optical Network	3797
 G Hybrid Optical Network	3797
+G HÔPITAL AGRÉÉ	13300
 G IAM	3896
 G IMT	11857
+G INCONNUE	13300
+G INJECTION	13300
 G Identity-related	972
 G Implementation Strategy	5675
 G Inspector Grupo G Jefe Servicio	4209
+G Internet	13344
 G Is Starlink	5874
 G Is for Google	3782
+G JAUNISSE	13300
 G Key	1885
+G LE NOM DE L'ENDROIT. AUTRE	13300
 G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141
 G LTE Advanced	3487
 G LTE. Thirty	718
+G La Banque	13467
 G Lab	2405,3367
 G Launch	1548,5114
 G Licence	7400
@@ -192,6 +213,7 @@ G Mixed Use SFF BC	12681
 G Mobile	4150,7707
 G Moroccan	2673
 G Much	5675
+G MÉDECIN	13300
 G NETWORK	12395
 G NSA	8828
 G NTN	5528
@@ -212,9 +234,12 @@ G Oo Report	3972
 G Operator Performance Trend	6051
 G Optical Ethernet Interface	13185
 G Oshikoto	1944
+G PETIT AMI ACTUEL	13300
 G Packages	11259
 G Pilot	7998
 G Population	1013
+G Population Coverage	13314
+G Pourcentage	13324,90
 G Programa de Ayuda	4209
 G Programa de Fomento	4209
 G Programa de Reforzamiento	4209
@@ -223,6 +248,7 @@ G Project	54
 G Promotion	11259
 G Promotional Packages	11259
 G Prosperity Insight Series GOVTECH MATURITY	10785
+G Quarterly ARCT Data	13331
 G RAN	5675
 G RAN. Targeted	1818
 G RSCP	11556
@@ -240,11 +266,12 @@ G SA	2405,106,17,15,1156
 G SFP	13185
 G SPOT	9646
 G Second	1818
-G Second Generation	6671
+G Second Generation	6671,6675
 G Second Generation Network	2775
 G Second Generation Telephone Wireless Technology	11857
 G Service Terms	11878
 G Servicio	4209
+G Sexe	13442
 G Sites and Respective Coverage	6946
 G Smart	11857
 G South Africa	6593
@@ -262,16 +289,19 @@ G T H E N	11586
 G TCL	5978
 G TELCOMS LIMITED Data Processor INST-296014BF144	7167
 G TELECEL ORANGE	11574
+G TRAITEMENTS DONNÉS	13300
 G Technology Will Contribute	5675
-G Third Generation	6671
+G Third Generation	6671,6675
 G Third Generation Network	2775
 G Third Generation Telephone Wireless Technology	11857
 G Transport Network Ericsson	5332
 G Tunisia	8828
+G URINE FONCÉ	13300
 G USIM	5391
 G USSD	4150
 G Utilization Gap	6051
 G VERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERGNAONCVE	10785
+G VOIE RECTALE	13300
 G Voice	2528,9867
 G W Hydro Wind Solar	12233
 G WDM	2446
@@ -282,12 +312,18 @@ G and Fiber Networks	8538
 G and Industrial IoT	3796,1205
 G and IoT	4902
 G and LEO	8241
-G and LTE	3528,334,2138,11
+G and LTE	3528,334,2138,11,7302
 G and MTN AirFibre	10793
+G and Project	13331
 G and Wi-Fi	10047
 G de Moov Africa	5978
 G de Moov Africa Bénin	5978
 G for FWA	8828
+G' DANS LE CALENDRIER	13300
+G' DOIT	13300
+G' ET	13300
+G' OU	13300
+G' POUR LE NOMBRE RESTANT	13300
 G- Creating	582
 G- Digital	582
 G- Digital I Terrestrial TV D	582
@@ -314,6 +350,7 @@ G. Businesses	8266
 G. C	11135,1198
 G. C. Bowker	5700
 G. CONTACT DETAILS First Transfer Secretaries	4896
+G. Capacité	13390
 G. Cependant	6861
 G. Ces	3449
 G. Cet	2290
@@ -323,6 +360,7 @@ G. Chinyama	10215
 G. Como	11111
 G. DATA DICTIONARY	11860
 G. DECLARATIONS	5113
+G. Date	13390
 G. Des	5877
 G. Developing	7759
 G. Domestic Tax Arrears	12500
@@ -330,6 +368,8 @@ G. Duru	11140
 G. Duty	7845
 G. Em	11569
 G. Em Abril	9559
+G. En	13531
+G. Entre	13531
 G. Environmental and Social	10829
 G. Evaluation of Technical Parts of Bids ITB	13185
 G. F	2816
@@ -343,6 +383,7 @@ G. Gupta	5700
 G. H	5349
 G. Il	3120,6217
 G. In Senegal	11902
+G. Inchauste	13624
 G. Increased	12333
 G. Instead	9560
 G. Job Expo The Job and Entrepreneurial	12977
@@ -352,6 +393,7 @@ G. Kenya	10796
 G. Kioko	11140
 G. L'annonce	3249
 G. Lanzuolo	5700
+G. Le Burundi	13492
 G. Lin	11140
 G. MINISTERE DE LA CONSTRUCTION	7670
 G. MINISTERE DES SPORTS	8321
@@ -377,12 +419,14 @@ G. Of AT Ghana	8926
 G. Orange Centrafrique	1949
 G. Other Safeguard Policies	11525
 G. Para	11111
+G. Parallèlement	13531
 G. Paulatinamente	1215
 G. Plank. LASER Synthesis Paper	11006
 G. Pour	10226
 G. Quels	7715
 G. RISK MANAGEMENT	11863
 G. Review	12939
+G. Risk Management	13381
 G. Risk-based	7845
 G. Risks and Monitoring	10997
 G. S	8301,2834
@@ -391,8 +435,10 @@ G. Salah Eddine	10688
 G. Selon	7010
 G. Sher	11140
 G. Siemens	9128
+G. Succès	13492
 G. Tabela	11574
 G. Table	10856
+G. Tax Administration Diagnostics and Recent Tax	13624
 G. Technology	4214
 G. The UN Department of Economic and Social	2383
 G. Toledo. Interim Evaluation	11006
@@ -406,6 +452,7 @@ G. W	2518
 G. Wholesale	13060
 G. Work	10047
 G. Y	5349
+G. and Kebede	13418
 G. and Patella	11133
 GB B G G	11259
 GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE G	10785
@@ -419,10 +466,13 @@ Gourley G	1219
 Greenleaf G	5242
 Grupo G Maestro Músico Técnico Disciplina	4209
 Hardavella G	771
+Hon. Gen. Rtd. Dr. C. G	13591
 Hutton G	771
 I N G ENVIRONMENT	6946
 I N G F I N	11586
 ICASA Chairperson Mothibi G Ramusi	6906
+INSCRIVEZ LE G	13300
+INSCRIVEZ LE NIVEAU D'HÉMOGLOBINE G	13300
 ISIQEPHU G IMINININGWANE YEMIZILA	11573
 Identificação D G P O G	6530
 Informação Financeira C G J Cofre	6530
@@ -438,6 +488,8 @@ Joseph G. Harmon	9652
 K. G. M	8301
 Kamubuga Byumba G	12413
 Karara G	766
+L A B O L G	13341
+L G T	13341
 L. G	5349
 LSE G Data&Analytics	12487
 Launching Event By Stephen G. Fellajuahs	9861
@@ -453,6 +505,7 @@ M. Michael G. Colemere	1876
 MOTHIBI G. RAMUSI CHAIRPERSON DATE	4732
 Maheba G Primary School	1867
 Manzini. G. Monitoring and Evaluation The Deputy	12977
+Martine G. Mtonga	13308
 Mastrini G. and Aguerre C. Global Information	236
 Mathe G	3791
 Medhin G	12255
@@ -483,15 +536,18 @@ Nicoadala and G	12201
 None G- None D- No F-	582
 Notelaers G. Pay-level	10780
 Nouveaux Inscrits Garçons Filles G	10847
+O L G T	13341
 OMS Amissi G Actualité Liée	10625
 Oghenere G. Salubi	8022
 Oghenere G. Salubi Received	8022
 Okello G	12231
 Operations Team Manager Ato Tesfahun G	12195
+P D G	13685
 P. G	7886
 PART G SERVICE DELIVERY AND ORGASITAIONAL	11250
 PART II G	12920
 Part G	11250
+Patrick G. Phiri	13532
 Porter G	1219
 Pour Fabrice G. Dako	6744
 President Adv. D. G. Boko	12607

@@ -4,6 +4,8 @@ AI Fuel Manager	7534,12
 AMENDMENT OF THE ROAD AND FUELS	6921
 Absence of Fossil Fuel Subsidy	12389
 Alejandro De la Fuente	11136
+Any Fuel Operator	13606
+Approved Developer of Fuel Fiscal Devices	13606
 Average1 Retail Prices of Selected Petroleum Fuels	2775
 B. Fuel Prices	1828
 Breakdown of Fuel Subsidies	1828
@@ -20,6 +22,8 @@ ESERA Fuel Testing Laboratory	12969
 ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
 Electricity Regulatory Index DWT Fuel Energy	12256
 Electricité HFO Heavy Fuel Oil INS	10975
+Every Fuel Fiscal Device	13606
+Every Fuel Operator	13606
 Excessively High Fuel Supply Cost	1828
 Export and Wholesale of Fuel Oil	12256
 F Fuel and Energy	13093
@@ -30,6 +34,9 @@ FUERZAS	4209
 FUERZAS AEREAS.- Concepto	4209
 FUERZAS MAYOR JEFE ESTADO JEFE ESTADO	4209
 FUERZAS NAVALES.- Concepto	4209
+Fiscal Fuel Devices	13606
+Fiscalised Recording of Fuel Transactions	13606
+Fossil Fuel	13532
 Fuel AI Adoption	1204
 Fuel Backup Storage On-site	9446
 Fuel Consumer Site	12256
@@ -39,17 +46,41 @@ Fuel Consumption and Economic Activity Fuel Consumption	1828
 Fuel Corridors	3256
 Fuel Energy Charge	12256
 Fuel Exploitation	12261
+Fuel Exporters	13685
+Fuel Fiscal Device	13606
+Fuel Fiscal Device Gateway API	13606
+Fuel Fiscal Device Operation	13606
+Fuel Fiscal Device PART I Fiscal	13606
+Fuel Fiscal Device S.I	13606
+Fuel Fiscal Device Suppliers	13606
+Fuel Fiscal Device Technical Committee	13606
+Fuel Fiscal Device of Fuel Operators	13606
+Fuel Fiscal Device. PART VI Offences	13606
+Fuel Fiscal Devices	13606
+Fuel Fiscal Devices Compliance	13606
+Fuel Fiscal Devices Technical Committee	13606
 Fuel Integrity Marking	3236
 Fuel Integrity Marking System	3236
+Fuel Management	13420
+Fuel Management and Recording The Fund	13420
+Fuel Management and Recordings Finding	13420
 Fuel Mix	12399
 Fuel Mix Target	12399
 Fuel Oil VAT	1828
+Fuel Operator	13606
+Fuel Operator. Failure	13606
+Fuel Operators	13606
+Fuel Operators and Approved Suppliers and Developers	13606
+Fuel Operators. PART III Obligations of Fuel	13606
+Fuel Operator’s Taxpayer Identification Number	13606
 Fuel Price Structure	1828
 Fuel Prices	1828
 Fuel Pricing RURA	718
 Fuel Products	1828
 Fuel Products Price Structure	1828
 Fuel Quality Monitoring	12256
+Fuel Sector	13606
+Fuel Sector. Section S.I	13606
 Fuel Smart Infrastructure	3636,9384
 Fuel Smuggling Libyan PM Calls for Charges	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Fuel Storage Facilities	12979
@@ -91,11 +122,17 @@ Mitigation Measures Amid Fuel Subsidies Reform	1828
 NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
 National Fuel Society of Angola	11380
 Net Domestic Sales of Petroleum Fuels	2775
+Number of Fuel Fiscal Device Interruptions	13606
 Open Tender Fuel Procurement System	13060
+PART II Technical and Performance Specifications of Fuel	13606
+PART III Obligations of Fuel Operators	13606
+PART IV Fuel Fiscal Device Operations	13606
 Pagos FUENTES FIN	4209
 Participants Fuel	12253
 Paz Fuerte Muy	1701
+Poverty and Social Impact Assessment of Potential Fuel	13332
 Proportion of Petroleum Fuel Sales	2775
+Recording and Custody of Fuel	13420
 Redress Services HFO Heavy Fuel Oil	11549
 Reforming Fossil Fuel Subsidies	1828
 Reforming Fuel Subsidies. Washington	10985
@@ -107,7 +144,11 @@ Stakeholders Fuel Malawi's Digital Vision MALAWI	12214
 Stock-Taking of Fuel Subsidies	1828
 Substation Fuel Backup Storage	10956
 Supply and Demand of Petroleum Fuels	2775
+Technical Specifications of Fuel Fiscal Devices PART	13606
+Technical Specifications of Fuel Fiscal Devices. Second	13606
 Trust Fuel	6355
 V Kilo Volt LFO Light Fuel	10975
 Vehicle and Fuel Taxation for Transport Demand Management	10997
+Virtual Fuel Fiscal Device	13606
+Virtual Fuel Fiscal Devices	13606
 Wholesale Prices1 of Petroleum Fuels	2775

@@ -17,6 +17,7 @@ BSDs for DTT FM Broadcasters FY	6946
 Bawku FM	9111
 Bead FM	9111
 Bi- FMoCDE	11857
+Body Tongogara FM	13542
 Broadcasting FM Radio	718
 CATEGORIES OF AUTHORISED FM STATIONS	2776
 COMMENTS Enabling Interconnect National FMCT	11857
@@ -41,14 +42,17 @@ Country FM	718
 DBI ECOWAS FEC FMCIDE GBB ICT	10157
 Description FMO	198,667
 Description FMO Ventures Program USD	1473
+Destiny FM	13301
 Digital Access Programme. The FMoCDE	11857
 Digital Literacy and FME	11857
 Distance Operators FMoP Licensees	11857
 Djibouti FDI Foreign Direct Investment FMIS	11271
+Développement FMI	13377
 EAM Dr. S. Jaishankar and FM Veronica	2667
 EPR&D of FME	11860
 ESI ESP FGS FMS FOB GDP	11136
 ESS Environmental and Social Management Framework FM	10964
+East African Payment System FMI FSAP	13452
 Eden FM	8999
 Elaborate the FM	11855
 Electricity Sector FMS Financial Management Specialist	11380
@@ -57,11 +61,12 @@ Exchange Points FMCT	11857
 Execution MoI Medium Term FM8 Develop	12917
 Express FM	11614
 FGS and FMS	11136
-FM Action Plan	10829
+FM Action Plan	10829,2503
 FM Action Plan G. Procurement	2889
 FM Action Plan Issue Remedial Action	3604,7225
 FM Action Plan Responsible Due Date	11855
 FM Activity Table A1.2	3604
+FM Assessment	13332
 FM Assessments	1264
 FM Assistant	4653
 FM Dr. Lemogang Kwape	12617
@@ -74,7 +79,8 @@ FM IDA’s FM	3604
 FM Implementation Support Plan	11855
 FM Implementation Support Plan FM Activity	10829,1026
 FM Manual	3604,7360,1001
-FM Manual for World Bank Investment Project	1867
+FM Manual for World Bank IPF Operations	13331
+FM Manual for World Bank Investment Project	1867,11464
 FM Manual for World Bank-Financed Investment Operations	2889
 FM Manual of Procedures	3604
 FM News Online	7369
@@ -89,6 +95,7 @@ FM Stations In Operation Ashanti	2776
 FM Studios	6946
 FM Support Plan Frequency Desk	3604
 FM The World Bank CAR Health	10829
+FM Twice	13332
 FM Weak	3604
 FM and JoyNews	7606
 FM. The World Bank CAR Health	10829
@@ -121,6 +128,7 @@ FMFBNP Federal Ministry of Finance	11857
 FMFBNP MPR Ministry of Petroleum Resources NBC	11857
 FMI Fonds	7655
 FMI Fonds Monétaire International FFOM Forces	10712
+FMI IPS	13468
 FMI Pays	643
 FMI Rapport Pays	643
 FMI. Artículo	4209
@@ -191,12 +199,15 @@ HM FMoCDE of BB Broadband Reporting Committee	11857
 Homeboyz Radio Gukena FM East FM	9646
 Hot FM and News Diggers	10216
 IDA FM M Entity	3604
+Identified Project FM Risks	13332
 Implementation Support Plan FM Activity Frequency	11525
 Implementation Support Plan. FM	3604
 Initiative FM Financial Management GBV Gender	2889
 Intérieure FMI Fond Européen de Développement FFU	643
+Jacaranda FM WS2	13461
 JoyNews and Joy FM	7114,40,8
 Kenobi Nyam Emmanuel FMoCDE	11857
+Key FM Actions Required No. Action	13331
 Khunga FM	766
 Le FMI	2808
 Licensed FM Stations	2776
@@ -230,7 +241,7 @@ Operational FM Stations	2776
 Optical FMoCDE	11857
 P-8 Harmonize HM FMoCDE	11857
 PCU’s FM	11525
-PIU FM	1284
+PIU FM	1284,12047
 PIU’s FM	4653
 Procedures Manual. The FM	10829
 Processors and FMCG	11127
@@ -240,13 +251,57 @@ Public FTA Commercial FM	6946
 Public FTA FM	6946
 Public FTA FM Common-Carrier Broadcasting Signal	6946
 Public Foreign FM Stations	2776
+RADIO BENAA FM	13324
+RADIO BONESHA FM	13324
+RADIO BUJA FM GITEGA	13324
+RADIO CCIB FM	13324
+RADIO COLOMBE FM	13324
+RADIO DESTINY FM	13324
+RADIO EAGLE SPORT FM	13324
+RADIO IMPANO FM	13324
+RADIO IZERE FM	13324
+RADIO KAZOZA FM	13324
+RADIO MAGARA TIMES FM	13324
+RADIO REMA FM	13324
+RADIO SCOLAIRE NDERAGAKURA FM	13324
+RADIO SPECIALE HUMURIZA FM	13324
+RADIO STAR FM	13324
+RADIO UBUZIMA FM	13324
+RADIO UMUCO FM	13324
+RADIOBUJA FM	13324
 RAPID-CI FM	3604
 RAPID-CI FM Procedures Manual	3604
 RAPID-CI Project FM	3604
+Radio AGASEKE FM RUYIGI	13414
 Radio Amani FM Malinde	10097
+Radio BONESHA FM BUJUMBURA	13414
+Radio BUJA FM BUJUMBURA	13414
+Radio BUJA FM GITEGA GITEGA	13414
+Radio BUNTU FM NGOZI	13414
+Radio CCIB FM	13414
+Radio COLOMBE FM BUJUMBURA	13414
+Radio DESTINY FM BUJUMBURA	13414
+Radio EAGLE SPORT FM MAKAMBA	13414
+Radio EJO HEZA FM BUJUMBURA	13414
+Radio IGICU FM BUJUMBURA	13414
+Radio IREBE FM BUJUMBURA	13414
+Radio ITEKA FM BUJUMBURA	13414
+Radio IZERE FM RUMONGE	13414
+Radio Isoko FM RBDC BUJUMBURA	13414
 Radio Jambo Smooth FM ADVERTISEMENT News11	9646
+Radio KAZOZA FM BUJUMBURA	13414
+Radio MAGARA Times FM RUMONGE	13414
+Radio PJ CLASSIC FM BUJUMBURA	13414
 Radio Phoenix FM	5247
+Radio REMA FM BUJUMBURA	13414
+Radio SHIMA FM RUMONGE	13414
+Radio SPECIALE HUMURIZA FM GITEGA	13414
+Radio STAR FM GITEGA	13414
+Radio TERIMBERE FM GITEGA	13414
+Radio UBUZIMA FM KAYANZA	13414
+Radio UMUCO FM NGOZI	13414
 Recent FM	10829
+Refugee Settlement Zimbabwe's Tongogara FM	13542
 Region. FMOH	1219
 Regional Distribution of FM Stations	2776
 Renewable Energy and FMCG	4896
@@ -258,16 +313,21 @@ RoW FMCT	11857
 Royal FM	718
 Rural Community-Driven Development Project. The FM	11525
 S9 FM5	12917
-SETIC’s FM	1284
+SETIC-PIU FM	13331
+SETIC-PIU’s FM	13331
+SETIC’s FM	1284,12047
 SIGFE-based FM	11417
 SISTAFE FM	4653
 Secretariat FMoCDE	11857
 Selon le Fmi	3638
+Senior FM Specialist	13331
 Services Kenya FMO	198
 Simba FM	3745
 Smart FMHDSD	11857
 Social Development FME Federal Ministry of Education	11857
+Social Framework FM Environmental and Social	13331
 Social Management Framework FM Financial Management	11525
+Social Standard FM Financial Management GBV	13332
 Somuaa FM	9111
 Startup VC Fund FMO	865
 States and Local FMoCDE	11857
@@ -277,6 +337,8 @@ Substantial. FM-related	10829
 Substantial. The FM	10964
 TMIS and FMIS	899
 Teams FM Financial Management GBV Gender-Based	1264
+Tongogara FM	13542
+Tongogara FM Serving	13542
 UNESWA FM	4058,5246
 Venta de Productos Petrolíferos FMI	4209
 Vieider FM. Responsibility	10780
@@ -287,7 +349,9 @@ Wale FM	9111
 Water Security Program. The FM	3604
 Water and Sanitation FM Frequency Modulation FSM	718
 World Bank Directive FM Manual for Investment	10964
-World Bank FM	1284,583,4672,4290,696,330
+World Bank FM	1284,583,4672,4290,696,330,1476,1
+World Bank FM Implementation Support Plan	13332
 World Bank IPF. Detailed FM	3604
 World Bank. The FM	10964
+World Bank’s FM	13332
 Zambezi FM	10216

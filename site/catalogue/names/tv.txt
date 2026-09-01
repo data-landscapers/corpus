@@ -18,6 +18,7 @@ Bloomberg TV	3619
 Bloomberg TV Africa and CNBC Africa	2320,1219,1420,19,1100,180
 Broadcasting TV	718
 Bénin Web TV	4157
+CITIZEN TV	13324
 CMS TV UNN Port Harcourt PH	11129
 Cabo TV	6638,25,1,6524
 Category FM Compliance FM Compliance TV	6946
@@ -29,6 +30,7 @@ Commission TVET Technical Vocational Education and Training	12975
 Commission for TVET	789
 Communication TVA Taxe	10876
 Community FTA TV	6946
+Community TV	13461
 Completed Communication Activities Media TV	8999
 Compliance TV Compliance	6946
 Conecta Angola TVWS	7262
@@ -43,6 +45,7 @@ E- Cable TV	582
 ESAYIDI TVET College	11343
 EU EU CSP TV M	9123
 EU TV M	9123
+Education Management and Policy Support TVET Technical	13310
 Engineering and Mathematics TVET	6832
 Enhances the TVET	12934
 Eswatini TV	11134,1261,576,6
@@ -63,19 +66,24 @@ Ghanaian TVET	789
 Ghana’s TVET	9202
 Global TV	4127
 HEIs and TVET	6832
+HERITAGE TV	13324
 Health Expenditure TVET Technical and Vocational Education	12923
 Huri Tv	7297
+ID TV3	13301
 IPRC-Kigali and Coordinator of Rwanda TVET Trainer Institute	718
 ITWeb TV	595,4580,663,2123,630,190,1130
 Installed TV	12971
+Integrated Digital TV	13301
 JCF97NzzsI Citizen TV Kenya	899
 KICD TVETA	7548
 Kahneman and Tversky	7886
 La TVA	6954,3758,1222
 Liberia Learns Digital Radio and TV Programme	4554
 Licensed TV Stations	2776
+Limited TVET Technical and Vocational Education and Training	13312,2
 List of TV	236
 Luntha TV	9217
+MASHARIKI TV	13324
 MBC TV	12201
 MMS Radio TV Mobile Print Apps	1944
 MTN One TV	6563,4230
@@ -120,6 +128,7 @@ Prime TV	11691
 Promotion of TVET	503
 Public FTA TV	6946
 Public TV	12395
+REMA TV	13324
 Radio Mozambique and TVM	12201
 Radio and TV	718,12253
 Radios and TVs	12358
@@ -168,7 +177,7 @@ TV Sucesso	12201
 TV Sucesso. Post-election	12201
 TV Television	12911
 TV Television UHF Ultra-High Frequency UN	6946
-TV White Space	7262,1281,3314
+TV White Space	7262,1281,3314,1444
 TV White Space Wi-Fi Rural Connectivity	406
 TV. Postal	11262
 TV. The DCDT	11170
@@ -193,6 +202,7 @@ TVET Minister for Education	7492
 TVET Ministries Division	6832
 TVET Modernisation DHET	6832
 TVET Private Sector. for AI-enabled	4126
+TVET Providers and Participation Around	13358
 TVET Sector	12934
 TVET Startup Kits	12412
 TVET Strategy	1814
@@ -204,6 +214,8 @@ TVET Technical and Vocational Education and Training UNAM	12399
 TVET Trainers	2775
 TVET Transformation and Expansion Strategy	12934
 TVET WIL	6832
+TVET and HEI. Data	13314
+TVET and HEIs	13314
 TVET for Enhanced Youth Skilling and Employability	6948
 TVET-KFW	4126
 TVET-MIS	9139
@@ -219,7 +231,7 @@ TVET. Ghana’s TVET	789
 TVET. My	12612
 TVETA	7548
 TVETSD	12914,61
-TVETs	1264,374,1351,1664,2895,1786,2876,102
+TVETs	1264,374,1351,1664,2895,1786,2876,102,1046
 TVM and R	12201
 TVM and RM	12201
 TVS Trade Verification System VAT	12951
@@ -234,6 +246,7 @@ Tv Decoder	12383
 Tversity	11779
 Tversky	7886
 Type of Television Service Authorised TV Stations	2776
+Télécommunication Extérieure TVA	13377
 USTDA TVWS	406
 University TVET	4126
 V Zs Nation TV	899
@@ -246,3 +259,5 @@ World TV Expands	3437,3942,47
 YouTube and Eswatini TV	12977
 YouTube. Rejoindre WhatsAppVoir SNL TV	11687
 ZBS and Luntha TV	9217
+Zimbabwe TVET Bursary Programme Cohort	13671
+Zimbabwe TVET Bursary Programme Participants	13671

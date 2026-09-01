@@ -17,6 +17,8 @@ Avaliação Nacional de Risco Cibernético	2784
 Avaliação Nacional de Riscos de Segurança Cibernética	2784
 Base de Cible	11944
 Boas Práticas de Segurança Cibernética	9226
+Bubanza Bujumbura Rural Bururi Cankuzo Cibitoke	13390
+Bururi Cankuzo Cibitoke Gitega Karuzi Kayanza	13442
 CAPÍTULO II POLÍTICA DE SEGURANÇA CIBERNÉTICA	11377
 CAPÍTULO V Fundo de Segurança Cibernética Artigo	6970
 CIB Digitally	10665
@@ -31,8 +33,15 @@ CIBERSEGURANÇA	4218,7179
 CIBERSEGURANÇA ARTIGO	11461
 CIBERSEGURANÇA NA ADMINISTRAÇÃO PÚBLICA	11397
 CIBERTERRORISMO	11397
+CIBITOKE	13292,8,90
+CIBITOKE ISARE MPANDA MUGERE MUGINA MUHUTA	13390
+CIBLES A ATTEINDRE	13290
+CIBLES A ATTEINDRE D’une	13290
 CIBLES Ce	10237
 CONSELHO NACIONAL DE CIBERSEGURANÇA	11397
+Can- Cibi- Ka- Ma- Mu- Mu-	13300
+Can- Cibi- Kayan- Ma- Mu- Mu-	13300
+Cankuzo Cibitoke Gitega Karusi Kayanza Kirundo	13442
 Centro Nacional de Cibersegurança	4146,1,71,5039,2158,21
 Centro Nacional de Cibersegurança. Em	11072
 Centro Nacional de Cibersegurança. Por	5272
@@ -58,11 +67,14 @@ Cibersegurança Passa A Ser Função Permanente	8827
 Cibersegurança da União Internacional	11379
 Cibersegurança. No Domínio Político	4146
 Ciberseguridad. Entre	10361
-Cibitoke	2625
+Cibitoke	2625,10675,74,16,37,15,193
+Cibitoke Gitega	13300
+Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
 Ciblage	9824
-Cible	643,629,9436,1236
+Cible	643,629,9436,1236,1362,127
 Cible Réalisation	3396
-Cibles	10712,164,89
+Cibler	13390
+Cibles	10712,164,89,2468
 Comité Técnico de Cibersegurança	4147
 Conselho Nacional de Cibersegurança	4146,1,71,4662,919,1273,343
 Conselho Nacional de Segurança Cibernética	6970,5853
@@ -109,6 +121,7 @@ Incidentes Cibernéticos de Nível Nacional	7736
 Incidentes de Segurança Cibernética	3838,3132,3470
 Incidentes de Segurança Cibernética Artigo	6970
 Incidentes de Segurança Cibernética Sectoriais	6970
+LIMS Cible	13306
 LITERACIA EM CIBERSEGURANÇA	11397
 La CIB-AES	4124
 Lei da Cibersegurança	4146,2972,3954
@@ -117,6 +130,7 @@ Lei de Crimes Cibernéticos	2816,4920
 Lei de Segurança Cibernética	2816,4920
 Lei de Segurança Cibernética. Lei	6970
 Leis da Segurança Cibernética	7047
+MSPLS Cible	13306
 Matriz de Avaliação de Riscos Cibernéticos	2784
 Medidas de Cibersegurança	11374
 NACIONAL CIBERNÉTICOS Y DE SEGURIDAD LUCHA	4209
@@ -132,6 +146,7 @@ O Departamento de Operações de Cibersegurança	4218
 O Provedor de Serviço de Segurança Cibernética	6970
 O Sistema Nacional de Segurança Cibernética	6970
 Operações Cibernéticas	6970
+POUR LA REPUBLIQUE DU BURUNDI Cible	13433
 PROTECÇÃO DE DADOS E CIBERSEGURANÇA Artigo	11461
 Politica de Seguranca Cibernetica	795
 Política Nacional de Cibersegurança	4147
@@ -148,8 +163,12 @@ Provedor de Segurança Cibernética	6970
 Provedor de Serviços de Segurança Cibernética	6970
 Provedores de Serviços de Cibersegurança	11436
 Provedores de Serviços de Segurança Cibernética	6970
+Province Bubanza Bujumbura Cankuzo Cibitoke Karusi	13442
 Quadro da Cibersegurança Nacional	11374
+RADIO CDN CIBITOKE	13324
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
+Radio CDN CIBITOKE	13414
+Radio UPI CIBITOKE	13414
 Regime Jurídico da Cibersegurança	8880
 Regulamentar de Segurança Cibernética	7736
 Relatório da Avaliação Nacional de Riscos Cibernéticos	2784
@@ -172,3 +191,5 @@ Thème Cible Effectif Cadre	10975
 Thème Cible Effectif Lieu	10975
 Tratamento de Incidentes de Seguranca Cibernetica	570
 UE Cible	643
+Université Polytechnique Intégrée de Cibitoke	13314
+X X X X Cible	13306

@@ -19,13 +19,15 @@ Elepo Square	10049
 Environment Windows Sql Server	9124
 Fix SQL	11922
 Four Thirty Square	12600
+Head Office Bank Square	13532
 MS SQL	7977,5208
 Makoanyane Square	6623,6128
 Market Square	1191
 Microsoft SQL	11922
-Microsoft SQL Server	13037,148
+Microsoft SQL Server	13037,148,443
 Microsoft SQL Server Management Studio	10617
 Muritala Square	12038
+MySQL and SQL	13575,1
 MySQL and SQL Server	10060
 NET and MS SQL Server	12196
 Oracle SQL Developer	10617

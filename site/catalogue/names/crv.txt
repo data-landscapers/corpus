@@ -12,6 +12,7 @@ Analysis of CRVS	12413
 Annual Africa CRVS Expert Meeting	7861
 Annual CRVS	12944,61
 Annual Head of CRVS	13005
+BENEFIT TO EDUCATION BENEFIT TO CRVS	13681
 BRKs and CRVS	13005
 BUNEC CRVS	1399
 Birth Notification Number CRVSID	12337
@@ -23,7 +24,9 @@ CRVS Act	1357
 CRVS Annual Report	13244
 CRVS Assessment	13005
 CRVS CRVS	12151
+CRVS Caucus	13608
 CRVS Civil	12367
+CRVS Civil Registration and Vital Statistics CRVSID	13681
 CRVS Civil Registration and Vital Statistics CSOs	12241,839,15
 CRVS Civil Registration and Vital Statistics D4H	12413
 CRVS Civil Registration and Vital Statistics DCI	11133
@@ -32,11 +35,12 @@ CRVS Compendium e WEB.pdf	12959
 CRVS Core Technical Team	12338
 CRVS Core Technical Technicians	12413
 CRVS Costed Plan and Civil Registry Rules	4257
+CRVS Country Assessment	13678
 CRVS Coverage and Performance Overview	13005
 CRVS Coverage and Performance Overview While Malawi	13005
 CRVS Data	13005
 CRVS Day	3434,6114,3091
-CRVS Decade	9535,13,217,3455,24
+CRVS Decade	9535,13,217,3455,24,433,1
 CRVS Forms	12338
 CRVS Integration Experiences Plenary Session	13220
 CRVS Integration Experiences. Plenary Session	12761
@@ -52,7 +56,7 @@ CRVS Platforms	13080
 CRVS Proclamation	12250
 CRVS Registration	12241
 CRVS Registration Kit	13005
-CRVS Shared Asset	9535,269
+CRVS Shared Asset	9535,269,3785
 CRVS Steering Committee	12413,592
 CRVS Strategic Plan	12330,4,33
 CRVS System	12138,81,148,638
@@ -65,7 +69,10 @@ CRVS TC	12367
 CRVS Technical Working Group	12413
 CRVS The Ministry of Labour and Home	12639
 CRVS and EIR	977
-CRVS and Health	12219
+CRVS and EMIS	13681
+CRVS and Education	13681
+CRVS and Health	12219,1462
+CRVS and Health Given	13681
 CRVS and ID	13095
 CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
@@ -80,13 +87,19 @@ CRVS and National ID SDG Target Link	13005
 CRVS and Rwanda’s National Person Registry	977
 CRVS and Securing the Future of CRVS	9765
 CRVS-EIR	977
+CRVS-HEALTH	13678
+CRVS-HEALTH INTEGRATION	13678
+CRVS-Health	13678
+CRVS-Health Integration	13678
 CRVS-ID	6236,4355
 CRVS-Social Protection Integration	13220
 CRVS-Social Protection Integration Linking Legal Identity	12761
 CRVS-adjacent	6607
+CRVS-education	13681
 CRVS-integrated	5399
 CRVS-national ID	10591
 CRVS-related	12338,75
+CRVS. CR-Education	13681
 CRVS. Chaired	12413
 CRVS. Government	13005
 CRVS. So	6985
@@ -104,6 +117,7 @@ Centre of Excellence for CRVS Systems	63,1282,1
 Centre of Excellence for CRVS Systems. Housed	12138,189
 Civil Registration Officer CRVS	12338
 Civil Registration and Vital Statistics Namibia CRVS-Social	13220
+Civil Registration and Vital Statistics ZIMBABWE CRVS-HEALTH	13678
 Comparing CRVS	12413
 Comprehensive CRVS Assessment Tool	13005
 Continental CRVS	171
@@ -120,13 +134,15 @@ Digital ID and CRVS	13095
 Digital ID and CRVS System	12241,839
 Digitalization of CRVS Systems	1203
 Digitalizing CRVS	12064
-Digitizing CRVS	9804
+Digitizing CRVS	9804,3621
 E. CRVS	7664
 ECA for CRVS	10775
 EIR and CRVS	977
+EMIS and CRVS	13681
 Establish CRVS	13005
 Eswatini's CRVS	12334,610
 Ethiopia's National CRVS	12250
+Expand CRVS	13678
 Expert CRVS	12043
 Final Tables CRVS 2025.xlsx	12471
 ID and CRVS	12241,764,75,15
@@ -144,6 +160,7 @@ Integrated Digital ID and CRVS System	12241,839,15
 Integration Layer CRVS Database BID	13005
 Integration of CRVS	13005
 Integration of CRVS and Digital ID	13005
+Integration of Foundational Digital ID and CRVS Core	13424
 Internal CRVS Environment Scanning	13005
 Interoperability of CRVS and EIR	977
 Launch of NRB Strategic Plan and CRVS and ID	13080,15
@@ -167,6 +184,7 @@ Ministry of Labour and Home Affairs CRVS	12639
 Monthly Annual Head of CRVS	13005
 Mozambique CRVS	12862
 NCI CRVS	12413,58
+NIDA Endline Evaluation of Rwanda CRVS Strategic	13681
 NISR. Rwanda CRVS Systems	12413
 NRB Strategic Plan and CRVS and ID Day	13095
 NRIS Monthly CRVS	13005
@@ -188,6 +206,7 @@ Policy Misalignment Methodology CRVS Assessment Tool	13005
 Project Launch of NRB Strategic Plan and CRVS	13080
 Reference Bureau CRVS Civil Registration and Vital	13005
 Registration and Vital Statistics CRVSS Civil Registration	12151
+Reliable CRVS	13425
 Rwanda CRVS National Strategic Plan	12338
 Rwandan CRVS	12338
 Rwanda’s CRVS	12413
@@ -201,6 +220,7 @@ Strengthening NRB Operational Capacity for NID and CRVS	13080
 TAs NRIS Monthly CRVS	13005
 Ten CRVS Milestones	12413
 UNECA CRVS Assessment	13005
+UNECA CRVS-education	13681
 UNECA Comprehensive CRVS Assessment	13005
 UNECA Comprehensive CRVS Assessment Complementing the ID4D	13005
 UNECA Comprehensive CRVS Assessment Tool	13005
@@ -210,3 +230,5 @@ UNHCR CRVS	12138
 UNICEF CRVS	6236
 UNICEF. CRVS	12188
 UN’s Centre of Excellence for CRVS	10765,10
+Unified Digital CRVS Architecture	13589
+Zambia's CRVS	13425

@@ -1,16 +1,21 @@
 AAAS Energy MD Maarten Mennes	3688
+AUDITS AND ASSESSMENTS Licensed MDAs	13381
 Abbreviations and Acronyms MDAs Ministries	13005
 Adib Bin Rashid and MD Ashfakul Karim	6948
 Afreximbank's MD	1922
+Agences MDNAC Ministère	13341
 Agency MDM Master Data Management M&E	12917
 Alignment of MDA	958
-All MDAs	10157,1834
+All MDAs	10157,1834,1390
 All the MDAs	12253
+Amended MD	13385
 Annual Budgets of MDAs	11866
 Annual Gover MDAs	12917
 Annual MDAs	11866
+Any MDAs	13381
 Assistance INE National Institute of Statistics MDM	12201
 Audit MDA	10157
+Authority. MDAs	13381
 BPP NITDA NITDA MDAs	10157
 BVN of MD	11861
 Basis Tetrapol Whip UHF-SHF MDN-TET-ATT-ARCEP- Conforme	998
@@ -18,6 +23,8 @@ Bayobab Kenya MD Sylvia Anampiu	2814
 Bayobab Uganda MD Juliet Nsubuga	2814
 Body BY MBONO MDLULI MBABANE	13012
 Budget for Central MDAs	13122
+Burundi. MDAs	13314
+CAN MDAs OBTAIN DATA CONTROLLING	13381
 CBN MD	11857
 CEO and MoMo MD	9103
 CERC of MDAP	1228
@@ -30,15 +37,17 @@ Clo Chief Information Officer MDA Ministries	6936
 Cloud First Adoption All MDAs	10157
 Co-Founder of MDCS.AI	3561
 Cogburn MD	1219
+Customer MAN Metropolitan Area Network MDA	13312,2
 D Mdoda	11289
 DEPARTMENTS AND AGENCIES MDB	12253
 Deputy MD	7329
+E Monitoring and Evaluation MDA Ministries	13359
 EMS Acting Director Mduduzi Msibi	13201
 EU MDR	3651
 Education MDAs Ministries	6539
 Endpoint MDR	10721
 Equinix South Africa MD Sandile Dube	11844
-Evaluation MDAs Ministries	3604
+Evaluation MDAs Ministries	3604,9727
 Evaluation MDM Master Data Management SITA	396
 FRELIMO PODEMOS RENAMO MDM	12201
 Facilitating MDAs	12253
@@ -46,6 +55,9 @@ Federal MDAs	10157,1700
 Federal MDAs Q3	11857
 Federal MDAs RoW IN-5 Prepare National	11857
 Fund MDAs Ministries	13060
+GBM IPS ISO MDS MED MSP	13452
+GENERAL REQUIREMENTS FOR ALL MDAs	13381
+GEWEL MDTF	13332
 Gauteng Growth and Development Agency MDTT Monitoring	11986
 Gaza MDM	12201
 Global AI Hub and MDB	11061
@@ -66,10 +78,12 @@ Host MDAs	7548
 Hse No. MDN	3386
 ICT Section of MDAs	12917
 ICT Sections of MDAs	12917
+IDA and MDTF	13332
 INTIC IP ISR ITU M&E MDA	4653
 ISM M&E MADER MAEFP MCTES MDA	1228
 IXP KPI MDA NCG NCTG NDIAF	10157
 Improved Energy Efficiencies MDAs	12253
+Incorporates MD	13385
 Inhambane MDM	12201
 Institutional Structure of ICT Sections of MDAs	12917
 Insufficient MDAs	13080
@@ -79,6 +93,8 @@ Kasaye MD	3791
 Kenya School of Government MDAC Ministries	7548
 Key Performance Indicator MDAs Ministries	4126
 LMIS Logistics Management Information System MDA	12729
+Land Information Management Systems MDA Ministries	13420
+Les MDA	13341
 Lipa Mdogo	11994
 Lipa Mdogo Mdogo	6114
 Long-Term Evolution MDAs	958
@@ -109,16 +125,26 @@ MD. Noble	7278
 MD08-2025	3651,4650
 MD2020	8812
 MD2030	8812
+MD327	13385
 MDA Budgets	11866
 MDA Cash Payment Solution	2287
 MDA ERPs	2527
 MDA HQs	12917
 MDA Ministries	1264
 MDA Ministry	12917
+MDA Ministère	13341
 MDA Naira	2287
 MDA Transactions Upon	11861
 MDA. Backbone	9123
+MDA. Cette	13341
+MDA. Il	13341
+MDA. L'objectif	13341
 MDA. The HDA	9123
+MDA. Toutes	13340
+MDA. Un	13341
+MDA. V.2 Catégories	13341
+MDA. VI. ORIENTATION STRATEGIQUE VI.1. Schéma	13341
+MDA. VI.2.1.3	13341
 MDACs	7548
 MDACs KEPSA	7548
 MDAP Components Component	1228
@@ -144,9 +170,11 @@ MDAs NITDA NITDA GBB	10157
 MDAs Naira Payment Solution	2287
 MDAs National Statistics Office	12917
 MDAs Nodal Agency Quick Win C14	12917
+MDAs PRH	13314
 MDAs Private	958
 MDAs Public Service Annual Emerging Technologies	7548
 MDAs Quick Win Department of E Government	12917
+MDAs REQUIRED TO OBTAIN DATA	13381
 MDAs Specific Objectives	1000
 MDAs Sub-Total	12917
 MDAs System	12241
@@ -160,20 +188,25 @@ MDAs and Inter-Governmental	12145
 MDAs and Local Government	12917
 MDAs and Parliamentary	13005
 MDAs and Public Institutions	12917
+MDAs and ZIMSTAT	13359
+MDAs and ZIMSTAT. Secondly	13359
 MDAs for AI	7548
 MDAs of President Tinubu	8981
 MDAs. Above	13115
+MDAs. All	13331
 MDAs. BudgIT	11866
 MDAs. Circuits	9123
 MDAs. Critical	9123
 MDAs. Develop	12917
 MDAs. Earlier	7973
+MDAs. Improving	13312,2
 MDAs. Inclusive Climate Insurance Program Note	11469
 MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
 MDAs. Making	9310
 MDAs. Methodology for Data Collection	3604
 MDAs. Mrs Eno Olotu	7973
 MDAs. NiRA President Adesola Akinsanya	4690
+MDAs. Notably	13312,2
 MDAs. Risk Treatment Owner	13080
 MDAs. SERVICOM	11951
 MDAs. Serviços	11555
@@ -184,9 +217,11 @@ MDAs. The Judiciary	958
 MDAs. The MFB	969
 MDAs. The NACIT	12917
 MDAs. Visa	11555
+MDAs. Years	13502
 MDBs and DFIs	11310
 MDCHL	13060
 MDCS.AI	3561,15
+MDDA RFI	13461
 MDE Business School. Ce	2342
 MDENI	3193,420,3,581,132,238,1153,273,311,718,278,2521,175,1736
 MDENP	10711
@@ -204,16 +239,24 @@ MDM and Partido Humanit	12201
 MDM108	12201
 MDM2510 NBE-5AC-Gen2	998
 MDN-TET-HAN-ARCEP- Conforme	998
+MDNAC	13341
 MDP-EHL	11956,276
 MDP-OHL	11956,276
 MDP-UHL	11956,276
 MDP-UHLs	12232
 MDPCZ	21
+MDPHASG	13395,47
 MDPI. Health	12297
+MDPMI	13461,1
+MDPMI FINAL REPORT	13461,1
+MDPMI FINAL REPORT Direct	13461
+MDPMI FINAL REPORT MDPMI FINAL REPORT	13461
+MDPMI FINAL REPORT Mobile Pages	13461
 MDQR Registe	12778
 MDR and SOC	4084
 MDR-TB	10784,1945
 MDRBW009	12618
+MDTF. Additional	13332
 MDTT Multi-Disciplinary Task Team M&E Monitoring	5533
 MDX QRPHDGR SDUD H	11530
 MDXi Lagos	7329
@@ -245,7 +288,9 @@ Mdladla and Another	2307
 Mdlokovana	7836
 Mdogo	11994
 MdriivneinngbaynhdigQhuearrprryoindgucer	11152
+Mds Comptes	13452
 Mds FCFA	3326
+Mds de BIF	13452
 Mdundo	4150
 Mdutshane ICT Centre	9157
 Mdzimba	12962
@@ -256,6 +301,7 @@ NIDA MD James Kaji	5697
 NIMC MDA	7847
 NITDA. Software Developers and MDAs	5665
 Nampula MDM	12201
+National Monitoring and Evaluation Policy. MDAs	13685
 Nigcomsat MD Jane Egerton-Idehen	2294
 Nigeria MDAs	11861
 Nigeria. MDAs	10157
@@ -275,6 +321,7 @@ PODEMOS. MDM	12201
 Paratus Namibia MD	3539
 Paydia. Bank Indonesia Exempts QRIS MDR	11994
 Payments Systems Mduduzi Mathunjwa Policy	11131,3
+Programmes MDE	13358
 Protocol LLD Low Level Design MDAs	13185
 Providers and MDAs	10310
 Publish MDA	11866
@@ -292,6 +339,8 @@ School-age MDA	12729
 Sector MDAs	7548
 Seeks Full Adoption Across MDAs	8632
 Select MDAs	6539
+Services MDTF Multi-Donor Trust Fund MIS	13332
+Several MDAs	13314
 Sipho Mdhluli CSIR	11953
 Social Media Number of MDAs Nation	12917
 Sofala MDM	12201
@@ -302,7 +351,9 @@ Tax Administration System MDA Ministries	1284
 Tebukhosi Mdziniso	13245
 Tete MDM	12201
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
+Web Services for MDAs	13502
 World Bank and MDTF	12980
 World Wide Worx MD	8494
+ZIMSTAT and MDAs	13359
 Zambezia MDM	12201
 Zero MDR	5124

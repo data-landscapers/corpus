@@ -1,15 +1,17 @@
 Anti-Bias National Datasets	4528
 Anti-Bias National Datasets Analysis	12512
+Bank Group TABLE OF CONTENTS DATASHEET	13331
 CONTENTS DATASHEET	969,295,603
 Consulta Pública Datas	3118
 DATASET	6470,95
 DATASHEET	3562,7855,132
-DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829
+DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829,2503
 DATASHEET BASIC INFORMATION Project	11560,345
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
 DATASHEET BASIC INFORMATION Project Name Environmental	11855
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649
 DATASHEET Component Name Cost	11380,169
+DATASHEET Project Name BASIC INFORMATION Burundi	13331
 DATASHEET The Project Development	969
 DPI. As the Datasphere Initiative	11007
 DataScientia	2816
@@ -34,7 +36,7 @@ Datasphere Initiative and GPSDD	8341
 Datasphere Initiative. Mapping	7298
 Datasphere Initiative’s Africa Sandboxes Forum	6946
 Datastruct Technologies Ltd	3862
-Description Frequency Datasource Collection Collection	1284
+Description Frequency Datasource Collection Collection	1284,12048
 Fidelity TABLE OF CONTENTS DATASHEET	6539
 Global Dataset	10819
 GovTech Dataset	11867
@@ -53,7 +55,7 @@ Records Dataset	4528
 Standard for Government Datasets	3861
 Subnational Crop Production Dataset Access	13094
 Support the Development of Shared AI Training Datasets	11138
-TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50
+TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50,1427
 Testing Dataset	4528,7984
 Training Dataset	4528,7984
 Umthombo National Health Records Dataset	12512

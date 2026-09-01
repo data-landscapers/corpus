@@ -60,6 +60,7 @@ BLACKBIRD STORAGE AND AUCTION YARD LTD	7167
 BLADEDOC NETWORK LIMITED Data Controller INST-408725CF6AE	7167
 BLADEDOC NETWORK LIMITED Data Processor INST-408725CF6AE	7167
 BLAJ VISIONCARE	7167
+BLANC OU	13300
 BLANK	12681
 BLANK ANNEXURE B7	4896
 BLAST	9475
@@ -68,6 +69,7 @@ BLAZE SECURITY LIMITED Data Controller INST-7875191AB4E	7167
 BLENDS OF AFRICA ADVENTURES LTD Data	7167
 BLESSED IRENE NYAATHA HEALTH CENTRE-GIAKAIBII Data	7167
 BLESSED TALBOT MEDICAL CENTRE LIMITED Data	7167
+BLESSURES DUES	13300
 BLEVIMA HEALTH CLINIC Data Controller INST-1139215E2A3	7167
 BLINDENMISSION CHRISTIAN BLIND MISSION E.V. Data	7167
 BLINK HUB LIMITED Data Controller INST-375571FF852	7167
@@ -90,6 +92,7 @@ BLOCKDANCE AFRICA LIMITED Data Controller INST-35560672E8F	7167
 BLOCKDANCE AFRICA LIMITED Data Processor INST-35560672E8F	7167
 BLOCKS SOLUTIONS LIMITED Data Processor INST-402685B68AE	7167
 BLOCO DE NOTAS	11531
+BLOCS DE CIMENT	13300
 BLOOM HEALTHCARE LIMITED Data Controller INST-941286E9F3C	7167
 BLOOM HOSPITAL NAKURU LIMITED Data Processor	7167
 BLOOM SURGICAL CENTRE LIMITED Data Controller	7167
@@ -191,7 +194,7 @@ Beyond Cell C Blu Label	11159
 Bill Blackie	9720,734,5
 Blaaiz	7577
 Blaauwberg Road	8999
-Black	34,719,453,58,99,634,535,1430,282,182,247,362,25,561,610,1002,218,985,563,740,742,246,413,69,2,51,412,293,391,405,163
+Black	34,719,453,58,99,634,535,1430,282,182,247,362,25,561,610,1002,218,985,563,740,742,246,413,69,2,51,412,293,391,405,163,698
 Black Administration Act	11176
 Black African	2093,7035,2064
 Black African Coloured Indian	11192
@@ -211,6 +214,7 @@ Black Founders Fund Africa and Google for Startups	1590
 Black Like Me	7532
 Black Lotus Labs	11342
 Black Man's History	4426
+Black Media Owners Association	13461
 Black Meteors Loop	3386
 Black Panther	9739
 Black Rock	10955
@@ -258,10 +262,12 @@ Blaise YODA	7670
 Blaise-Bienvenu Ali	10826
 Blake	12369
 Blakeway Road	11260
+Blame	13477,55
 Blaming China	2857,3026,94
 Blanchard	7655
 Blanchet K	10881
 Blanchiment	2623,1504,7817
+Blanchiment de Capitaux	13330
 Blanco	1219
 Blanco R. Health	1219
 Blands	3782
@@ -320,6 +326,7 @@ Blaw&doi	4676
 Blaya J. Information	10784
 Blend IDA	11469
 Blended	6668,880,924,1023,264,1082,350,1208
+Blended ARPU	13344
 Blended Finance Facility	3470
 Blended Finance Scheme	11197,48
 Blended Learning	13077
@@ -333,6 +340,8 @@ Blessing Guembe	12926
 Blessing Johnette	8038
 Blessing Obeng	6936
 Blessure	737
+Blessures	13300
+Blessures N’importe	13300
 Bletchley	6052,1268
 Bletchley Declaration	4583,7627
 Bletchley Park	2816
@@ -347,6 +356,7 @@ Blind	571,328,6047,3575,1454,63
 Blind Act	8022
 Blind Classroom	13095
 Blind. Fenemigho	11975
+Blindages	13375
 Blinded	5599
 Blinder-Oaxaca	12278
 Blinding	11585
@@ -362,14 +372,15 @@ Blobel	8606
 Blobs	12360
 Bloc Républicain	4162,2130
 Blocage	2828,6737
-Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120,180,270,401,29,79
-Block C	2776,9224,269,1,220
-Block Chain	2868
+Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120,180,270,401,29,79,1098,214
+Block C	2776,9224,269,1,220,971,1
+Block Chain	2868,10478
 Block E	11285
 Block E A Oanob Community Hall	13046
 Block E B Hermanus van Wyk Community	13046
 Block F	11250,791
 Block Form	5865
+Block Grants	13418
 Block KAVANGO WEST REGION NKURENKURU	13046
 Block Management System BOBJ	13053
 Block Plans	2674
@@ -383,7 +394,7 @@ Block-5	4557
 Block-7	6588
 BlockTower	9367
 BlockTower CEO Vighnesh Patel	9367
-Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246,1441,1,279,193,75,187,79,30,119,94,59
+Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246,1441,1,279,193,75,187,79,30,119,94,59,833,1,55,181
 Blockchain Advisory Group	9170
 Blockchain Africa	9955
 Blockchain Association	8298
@@ -394,7 +405,8 @@ Blockchain Developers	6832
 Blockchain Merkle Tree	8605
 Blockchain Pilot	12227
 Blockchain Policy	8418
-Blockchain Technologies	6946
+Blockchain Technologies	6946,6401
+Blockchain Technology	13347
 Blockchain Technology Workforce	958
 Blockchain Technology Workshop	13080
 Blockchain and AI	12457
@@ -455,9 +467,12 @@ Bloomberg IN DEPTH	7343
 Bloomberg LATEST ARTICLES Safety	7343
 Bloomberg News	6150,2913,2247
 Bloomberg Philanthropies	12186,152,810
+Bloomberg Philanthropies Data for Health	13425
+Bloomberg Philanthropies Data for Health Initiative	13425
 Bloomberg Philanthropies Data for Health Initiative Global	12672
 Bloomberg Philanthropies Date for Health Initiative. Per	10972
 Bloomberg Philanthropies Global Forum New York	12717
+Bloomberg Philanthropies. Data	13425
 Bloomberg Philanthropies. Specifically	13148
 Bloomberg TV	3619
 Bloomberg TV Africa and CNBC Africa	2320,1219,1420,19,1100,180
@@ -553,7 +568,7 @@ Blueline Kennels Limited	7167
 Blueline Security Data Controller INST-488388D184C NAKURU	7167
 Blueline Security Data Processor INST-488388D184C NAKURU	7167
 Bluepony	3528,643
-Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149
+Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149,936
 Blueprint Action Plan	635
 Blueprint Development Guidelines	12359
 Blueprint for Creating	11133
@@ -568,10 +583,10 @@ Blueprint. Key	3556
 Blueprints and Reference	9124
 Bluesky	4253,176,1011,1077,1340
 Bluesky Streamline Icon	5440
-Bluesquare	10865,268,759
+Bluesquare	10865,268,759,1621,47
 Bluesquare. Available	11133
 Bluestream Capital	8076
-Bluetooth	3922,6855,1270
+Bluetooth	3922,6855,1270,1253,1
 Bluetooth-based	11071
 Blum and Baraka	3782
 Blume	8436
@@ -592,7 +607,7 @@ Broad Based Black Economic Empowerment BISG	11250
 Broad-Based Black Economic Act	11209
 Broad-Based Black Economic Empowerment	2526,2534,561,187,900,595,3286,622,39
 Broad-Based Black Economic Empowerment Act	4242,2649,4344,5
-Building Block	6423
+Building Block	6423,6965
 Building Block API	6423
 Building Block Components The Building Block	6423
 Building Block for Analysts	6423
@@ -608,7 +623,10 @@ Building Blocks. Additional APIs	6423
 Business Digest By Blessed Ndlovu Jun	6244,1
 CAMTEL's Blue Money	4171
 CEO Stephen Blewett	6242,1249
+CETTE PAGE EST LAISSÉE BLANCHE INTENTIONNELLEMENT	13300
 CIPESA Blog	10246
+COMPRIMÉS BLANCS	13300
+COMPRIMÉS BLANCS ET	13300
 COURTS TO FINE BLOUBERG LOCAL	12046
 CREDIBLE BLOOMS LIMITED Data Controller INST-649934F96DA	7167
 CRP.5 Dar Blend	3583
@@ -639,6 +657,7 @@ D.C A BLUEPRINT FOR CREATING	11133
 DATA BLIND SPOTS	11156
 DEEP BLUE MANUFACTURING COMPANY LIMITED Data	7167
 DEFENDANT BLANTYRE DISTRICT COUNCIL	13040
+DHSprogram Blog.DHSprogram.com Twitter	13300
 DIGITAL ECONOMY BLUEPRINT. POWERING KENYA’S TRANSFORMATION	10819
 DIGITAL IDENTITY BLUEPRINT	10819
 DIGITAL IDENTITY Post Benin Workshop BLUEPRINT	10819
@@ -681,6 +700,7 @@ ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
 Emirates International Investment Company. Blnk	4457,2071
 Enter The Green Blood Group	4997
 Estelle Blafond	7681
+Esther Sempa Blaksemdi	13681
 Estonian Blind Union	11006
 Eswatini Blood Transfusion Service	12976
 Eswatini National Blood Transfusion	12977
@@ -714,6 +734,7 @@ Ghana Integrated Digital Transformation Blueprint	4126
 Ghanzi Block	12605
 Global Blockchain Business Council	9147,23
 Global Blue Belt Initiative	10404
+God Bless Zimbabwe. His Excellency	13320
 Gold Customers Active Black Customers DISTRICT	8999
 Google for Startups Black Founders Fund	9321
 Google for Startups Black Founders Fund Africa	674
@@ -747,6 +768,7 @@ Information Mediator Building Block. Client	6423
 Innocent J. Blacius	12478
 Innovative Model Combining Block Farming	848
 Integrated Bluetooth	34
+Interception Law and Blocked Websites	13313
 International Centre for Tax and Development Blog	12948
 Internet Governance Blueprint	8343
 Internet of Things and Blockchain	11956
@@ -763,6 +785,7 @@ Kenya Health Enterprise Architecture Blueprint	10641
 Kenya. BLK2	928
 Kinshasa. Blockchain	2795
 L'ANATOMIE D'UN BLOCAGE Fibre	7999
+LA VIOLENCE CONJUGALE Blessures	13300
 LLC AIAdopt Black Forest Labs AiBooks	8530
 Lagos State Blood Transfusion Service	9444
 Landlocked President Blaise Compaoré	10838
@@ -799,6 +822,7 @@ Mayor for Blantyre City Council Isaac Jomo	5312
 Media Blank	13053
 Meta Blueprint	10133
 Microsoft Azure Blog	411
+Microsoft Bing Blogs	13461
 Microsoft Blogs	11135
 Microsoft and BlackRock	2025
 Mike Blakemore	6948
@@ -820,6 +844,7 @@ Mya Blue	9739
 N.d. Blank	11868
 NBS Bank and Blantyre City Council	5312
 NFIS II. God Bless Zimbabwe Dr	940
+NST2. Block	13418
 NVIDIA Blueprints	5439
 NVIDIA Network Configuration Blueprint	5266
 NVIDIA's Blackwell GPU	3576
@@ -830,6 +855,7 @@ National Digital Health Blueprint	12004
 National Digital Transformation Blueprint	7244,4088
 National ICT Blueprint	5363
 National Strategic Blueprint	3456
+Network BIF Burundian Franc BLB Burundi	13312,2
 Network Subnetwork Code Blockchain	8605
 Newsfeed Blnk	6528
 Nigeria Blindness and Vision Impairment Survey	11975
@@ -878,10 +904,12 @@ Proposed Blade Enclosure	11209
 Published Works for Persons Who Are Blind	10358
 Qui Blandam Quas Si Audiatur	12151
 R7.99. BLU	11159
+RB-Reduced Blanking Compatibilité HDTV	13524
 REAIM Blueprint for Action	7548
 RECEIVE ACCESS CHANNELS ACCESS BANK BLOOM	11002
 RESULT FRAME T BL IO DLI Baseline Intermediate	11855
 RESULT FRAME T BL PD O Indicator Name	11855
+Radio BLACK BINGO BUJUMBURA ENTERTAINMENT	13414
 Radisson Blu	7866
 Radisson Blu Hotel	3549,3712,5538
 Radisson Blu Hotel Abidjan Airport	6224
@@ -907,6 +935,7 @@ Robotics Blockchain	12948
 Room Block	9031
 RÉFÉRENCES BIBLIOGRAPHIQUES Blanchard	7655
 SADC National Operating Model Blueprint	12962
+SIM... Cameroun Blocage	13483
 SOIL STABILISED BLOCKS	12253
 Scaling Blockchain for Public Good	9170
 Scott Blacklin	3125
@@ -916,6 +945,7 @@ Security Blog	10822
 Security Building Block	6423
 Senegal Constitutional Council Blocks Parliamentary Law	5163
 Senior Blockchain Architect and Developer	11869
+Service Delivery Blueprint	13646
 Seychelles and South Africa The Tony Blair	11894
 Shoprite Belhar Shoprite Bellville Shoprite Blue	8999
 Smart Africa AI Blueprint	6054,5211
@@ -923,6 +953,7 @@ Smart Africa AI for Africa Blueprint	2682
 Smart Africa Data Governance Blueprint	10073,1366
 Smart Africa Digital ID Blueprint	2321
 Smart Africa’s Blueprint	4126
+Social Media Shutdowns and Blockage of Websites	13313
 Socio-economic and Policy Analysis A BLUEPRINT	11133
 Solana Blockchain	4127
 Somnoma Blaise DJIGUEMDE.Au	7670
@@ -975,7 +1006,7 @@ Ward Councillors and Block Leaders	12978
 West Africa and Blue Cloud	10518
 Whistle Blowers and Witness Protection Bill	8681
 Within the Digital Government Blueprint	12359
-World Bank Blogs	8891,1823
+World Bank Blogs	8891,1823,2618
 World Economic Forum Blueprint	10819
 World Economic Forum. This Blueprint	10819
 Worship Cllr Blasius Goraseb	13044
@@ -986,6 +1017,7 @@ X HPe Synergy Blade Servers BL660	11209
 Y BLOQUERIAS EN GENERAL	4209
 Y BLOQUERIAS EN GENERAL TALLERES	4209
 York Stock Exchange. Bloomberg	8049
+YouTube Blog	13300
 ZDSR A BLUEPRINT FOR CREATING	11133
 ZDSR. A BLUEPRINT FOR CREATING	11133
 ZTE Blade A36	6078

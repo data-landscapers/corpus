@@ -1,3 +1,4 @@
+AAVMS White Paper	13461
 ADVOCACY PAPER	9766
 AU and AfCFTA Secretariat. PAPSS	10555
 Accelerate PAPSS	2777
@@ -37,6 +38,7 @@ Alongside PAPSS	6401
 Angola Country Strategy Paper	10763
 Angola's ICT White Paper	2411
 Approved Draft Revised White Paper	11986
+BARRE SUR LE PAPIER FILTRE	13300
 BCC Governor Dr Younoussa Imani and PAPSS	1854
 BEAC Joins PAPSS	7150
 BEAC's PAPSS	5379
@@ -48,21 +50,25 @@ Background Paper	1264
 Bank’s Position Paper	12365
 Best Paper Awards	10642
 Billion-Person Challenge Background Paper	10985
-Budget Strategy Paper	4932
+Budget Policy Paper	13318
+Budget Strategy Paper	4932,8753
 Burkina Faso's Country Strategy Paper	6091
 CARICOM. PAPSS	9179
 CBE’s Digital Lilangeni Design Paper	11048
 CEO Dare Okoudjou and PAPSS CEO Mike	3074
 CEO of PAPSS	4771
+CEPR Discussion Paper	13624
 CERP Discussion Paper	10997
 CGD Policy Paper	3782
 CGD Working Paper	1350
 CITES for Endangered Species ASYHUB for PaP and PdP	13042
+CODE BARRE SUR LE PAPIER CODE	13300
 CONSULTATION PAPER ON ZERO-RATED ACCESS	6748
 CONSULTATIVE PAPER PENDING FINAL PUBLICATION	4848
 COVERAGE PAPSS Network	11002
 COVERAGE SN COUNTRY PAPSS REACHABLE VIA	11002
 COVID-19 Crisis Response Approach Paper	10964
+COVID-19 Crisis Response Approach Paper. Page	13331
 Cabinet Paper and Circular Number	12975
 Cabinet-approved Revised White Paper	9968
 Cameroon. IMF Selected Issues Paper SIP	10997
@@ -134,9 +140,12 @@ Draft Revised White Paper Draft Revised	11986
 Draft Revised White Paper Reporting	11986
 Draft Revised White Paper. Purpose	11986
 Draft White Paper	3264,7982
+Décamètres Papier	13375
+ESP. The PAPB	13349
 ESWATINI SENATE ORDER PAPER	13119,7
 Earth Sciences But PAPSS	7460
 Economic Opportunities and Legal Challenges. Police Paper	2816
+Economie Numérique PAPSS REPSS RTGS SM	13452
 Education de Base PAP	737
 Egypt. PAPSS	982
 El Papel	1701
@@ -148,6 +157,7 @@ Enjoy PAPSS	8829
 Estonian Citizens’ Assembly. Paper	7886
 Evolution of Topical Directions. Paper	5349
 FIGUEIREDO SAMBOLO ZAI PAPELO	10751
+Facebook Paper	13461
 Fellows Paper	10028
 FinScope Employment Strategy Paper	10965
 FinScope Survey. The Concept Paper	11134
@@ -157,6 +167,7 @@ Findings Document and Position Paper	11235
 Fusepay Ushers Out Paper Cheques	4056
 G. Plank. LASER Synthesis Paper	11006
 GNU. The Draft Revised White Paper	5533
+GOODBYE PAPER	13533
 Gazetted DI Policy Paper Q4	11986
 General Programme of Work HPV Human Papillomavirus	12729
 Geneva Papers	9237
@@ -179,14 +190,16 @@ IMF Policy Paper	1828
 IMF Selected Issues Paper African Department	10997
 IMF Selected Issues Paper No	10997
 IMF Selected Issues Papers	10997
-IMF Working Paper	1828,849,8463,1808
+IMF Working Paper	1828,849,8463,1808,676
 IMF Working Paper No. WP	1828
-IMF Working Paper WP	1828,9028,141,143
+IMF Working Paper WP	1828,9028,141,143,2484
 IMF Working Papers	1828
 INFRASTRUCTURES RESEARCH PAPERS	12090
 INTERNAL QUESTION PAPER	10889,381
+IV.1.3. PAPSS	13452
 Immigration and Refugee Paper	11986
 Immigration and White Paper	11986
+India. IMF Working Paper	13624
 Indonesia and Papua New Guinea	6451
 Information Paper No	11879
 Information System Unit HPV Human Papilloma	12976
@@ -201,6 +214,7 @@ KEY TAKEAWAYS CONCLUSION ACKNOWLEDGEMENT WHITE PAPER	6936
 Kenya. Pesalink CEO Gituku Kirika. PAPSS	5201
 LABOR Public Disclosure Authorized DISCUSSION PAPER	10985
 LASER Synthesis Paper	11006
+LE PAPIER FILTRE	13300
 LESOTHO SENATE REVISED ORDER PAPER	12737
 Labor Discussion Paper No.1704	11133
 Large and Medium Taxpayers' Experience Working Paper	12162
@@ -224,7 +238,7 @@ Monsieur Papa Ibrahima SENGHOR	8269
 Monsieur Papa Samba BA	8269
 Moor Insights Strategy Paper	4434
 Myanmar Papua New Guinea Paraguay Peru	10764
-NBER Working Paper	11140,1808
+NBER Working Paper	11140,1808,676
 NBER Working Papers Series	12006
 NG PAPSS	4771
 Namibia Fragmentation and Inadequate Coordination Paper	12373
@@ -241,11 +255,12 @@ OECD Working Papers	11007,1326
 OHCHR B-Tech Foundational Paper	11007
 ORDER PAPER	13131
 Objectifs du PAP	10876
+Official One. CESifo Working Paper	13624
 Onafriq and PAPSS	4901
 Onafriq and PAPSS Launch Africa’s First Instant	4901
 Open Data White Paper. Unleashing the Potential	1243
 Operational Plan PAPU	12759
-Order Paper	10313
+Order Paper	10313,3074,204
 Order Paper Advocacy Initiative	11866
 Organizations CSP Country Strategy Paper CVE	11863
 Original Paper	7810,156
@@ -261,8 +276,9 @@ PAPEC	1748,618,1914
 PAPEL	7839,2739,573
 PAPER	7836,3053,381
 PAPER ZANZIBAR. UNICEF	11133
+PAPPS	13388
 PAPS Parallèlement	8066
-PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284,136,671,1,190,69,53,92,55,4
+PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284,136,671,1,190,69,53,92,55,4,1115,64
 PAPSS CANNOT FIX Weak	9593
 PAPSS CEO	3440
 PAPSS CEO Mike Ogbalu	999
@@ -273,6 +289,7 @@ PAPSS Developed	7150
 PAPSS Local Currency Settlement System	8081
 PAPSS Management Board	999
 PAPSS PARTICIPANTS EXTENDED NETWORK Send	11002
+PAPSS Pan African Payment and Settlement System	13388
 PAPSS Pan-African Payment	11002
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PAPSS Participants	11002
@@ -284,6 +301,8 @@ PAPSS and Interstellar	9593
 PAPSS and Onafriq	7460
 PAPSS--would	6938
 PAPSS. Après	11810
+PAPSS. Aucune	13452
+PAPSS. IV.1.1. EAPS Le Burundi	13452
 PAPSS. PAPSS CEO Mike Ogbalu III	5201
 PAPSS. Scan	11002
 PAPSS. Strong	6938
@@ -309,13 +328,14 @@ Papagiannidis	11156
 Papakonstantinou V	8776
 Papamitsiou	8602
 Pape Cheikh Diallo	4960,62,2035
+Pape Jean-Paul II Il	13405
 Pape Léon XIV	6118
 Pape Moussa Mbaye Wade	7804
 Pape Ngor Thiaw	6882
 Papel	1701,9695,127,14,6
 Papel Transformador	12822
 Papelão	10777
-Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162,36,1,73,532,126,43,16,104,17,230,42,34,730
+Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162,36,1,73,532,126,43,16,104,17,230,42,34,730,242
 Paper Copies Not Required	12389
 Paper Handling	34
 Paper IDs	12214
@@ -328,21 +348,23 @@ Paper Record Search. If the Reporting Financial	11233
 Paper Trails	12227
 Paper WP	10997
 Paper-Based Credentials	2291,1271
-Paper-based	3604,992,9,542,3622,3445
+Paper-based	3604,992,9,542,3622,3445,1318
 Paper-based Disclosure Production Statistics	11250
 PaperASIA	7759
 PaperRepository	5700
 Paperless	958,3608,5853,2623
 Paperless Cabinet	395
-Paperless Government A Government	12453
+Paperless Government A Government	12453,892
 Papers	961,5987,3387,1563
-Papier	11316
+Papier	11316,2059
+Papiers	13499
 Papiloma Humano IAEA Agência Internacional de Energia	11376
 Papua New Guinea	8004,2710,50,21,824,1433
 Papua New Guinea Guinea Republic	11005
 Papua New Guinea Samoa Solomon Islands	13042
 Papua New Guinea Yes BRR	10714
 Papua New Guinea Yes PNG National	11529
+Papua New Guinea and Tanzania. The World	13425
 Papá León XIV	12518
 Participants of PAPSS	11002
 Paul De Hert and Vagelis Papakonstantinou	8776
@@ -359,7 +381,7 @@ Position Paper	4824,4066,4202
 Position Paper N	10865
 Position Paper No	10865
 Pour Papa Ousmane Diop	8140
-Poverty Reduction Strategy Paper	11525,399
+Poverty Reduction Strategy Paper	11525,399,1494
 Poverty Reduction and Growth Strategy Paper. TCLE	11916
 Product Appraisal and Project Papers	10985
 Program. NBER Working Paper Series	10964
@@ -396,12 +418,17 @@ SARS CONSULTATION PAPER ON VAT MODERNISATION	8670
 SELECTED ISSUES PAPERS	10997
 SSRN Scholarly Paper ID	961
 SSRN Working Paper	11140
+SUR LE PAPIER	13300
+SUR LE PAPIER FILTRE DE L'ENFANT	13300
+SUR PAPIER FILTRE. LE PAPIER FILTRE	13300
 Sa Divinité Papa Simon Kimbangu Kiangani	6460
+Sa Sainteté le Pape Léon XIV	13405
+Saint Pape	13405
 Salvatore Eugenio Pappalardo	11006
 Scheme NW North West PAPI Paper	11192
 Science and Technology Government Paper	12529
 Secure Identity Alliance Discussion Paper. GSMA	10819
-Selected Issues Paper	1828
+Selected Issues Paper	1828,11796
 Selected Issues Papers. International Monetary Fund	1828
 Selected Paper Issues	1828
 Session Paper	10313
@@ -413,6 +440,7 @@ Seventh Parliament The PAP President	8015
 Seymour Papert	2816
 Shortages of Birth Certificates and ID Papers	12514
 Si le Pape	6575
+Sisterhood Method. Paper	13300
 Small Arms Survey Briefing Paper	3583
 Smart Paper Technology	4338
 Social Protection Discussion Paper Series	10985
@@ -424,6 +452,7 @@ Statistical Papers	12959
 Statistics Division Statistical Papers. New York	12151
 Statistics Division. Statistical Papers	12413
 Strategic Imperative. Community Paper. Retrieved	10819
+Strategy Paper	13685
 Strategy Paper SDG Sustainable Development Goals	11863
 Studies White Papers API Docs FAQ	12211
 Sub-Saharan Africa. IMF Departmental Paper. International	10997
@@ -431,6 +460,7 @@ Sub-pillar Paper-based	12214
 Supplementary Order Paper	10313
 Systematic Literature Review Papers Author Name	1248
 TII Africa Papua New Guinea Middle	10840
+TIQUETTE CODE BARRE SUR LE PAPIER	13300
 Table of Contents Digital Lilangeni Design Paper	11130
 Tax Administration Reforms. IMF Working Paper	10997
 Thai Digital Economy Policy DIODE Paper	226
@@ -452,16 +482,18 @@ White Paper Discussion Document	11236
 White Paper Presentation	11986
 White Paper for NHI Policy	396
 White Paper. Sets the ICT	2411
-Working Paper	1243,585,3872,5063,78,156,1009,152,69,51,207
+Working Paper	1243,585,3872,5063,78,156,1009,152,69,51,207,847
 Working Paper E-tax System Adoption and Tax	12162
-Working Paper No	7886,3078
+Working Paper No	7886,3078,2454
 Working Paper Series	5700,1522
 Working Paper Series. UCL Institute for Innovation	11006
 Working Paper. Evans	10985
 Working Papers	1248,7989
 World Bank HNP Discussion Paper	10829
 World Bank Policy Research Working Paper	10963,1,176,784
+World. Policy Research Working Paper	13314
 X Papua New Guinea X Samoa	11005
 Youth Position Paper	9648
+ZIMBABWE BUDGET STRATEGY PAPER	13685
 Zealand Papua New Guinea Vanuatu	10764
 Zero Paper	3661,2123

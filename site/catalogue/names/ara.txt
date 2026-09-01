@@ -11,6 +11,7 @@ ARABSAT and LTT	9262
 ARABSAT and Libya	9262
 ARABSOFT and ORADIST	11001
 ARAG MEDICARE	7167
+ARAKAZA Arcade	13341
 ARAMEX KENYA LIMITED Data Controller INST-413294AFEE0	7167
 ARAMEX KENYA LIMITED Data Processor INST-413294AFEE0	7167
 ARANLAND LTD Data Controller INST-6723312F237 NAIROBI	7167
@@ -82,10 +83,11 @@ Arab Rep. National Citizen Database	10714
 Arab Rep. South and Central Asia	11135
 Arab Rep. São Tomé and Principe Mauritius	10819
 Arab Republic of Egypt	39,1220,6247,29,1110,2490,1837
+Arab Republic of Egypt Right Honourable Russell	13440
 Arab Satellite Communications Organization	9262
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Arab Stamp Exhibition	8645
-Arab States	6946,3818,799
+Arab States	6946,3818,799,2098,4
 Arab States Algeria Global Cybersecurity Index	10764
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Asia-Pacific Indonesia India International	11563
@@ -111,7 +113,7 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1
 Arabic LLM	6232,337
 Arabic PDF	11153
 Arabic and English	4091
@@ -129,13 +131,18 @@ Arabsat and Yahsat. Several	10406
 Arabsat-6A	9262
 Arachis	1154
 Arachnid	11788
+Aracunga	13300
 Arada	565
 Arada Enhun	10458
 Aradib	8388
 Araeta	6230
 Arafat	9129
 Arafat Khan	12573
+Aragerageza	13300
+Aragira	13300
 Aragtida	11136
+Arakwagiriza	13300
+Arakwankira	13300
 Arakwiye	5070
 Aramburu-Merlos	11140
 Arandis Old Service Station	13046
@@ -151,6 +158,7 @@ Aras and Büyüközkan	4432
 Arasasingham	1243
 Aratek	11994
 Aratek USE CASE AND CONTEXT	10852
+Aratuma	13300
 Araujo	8436,2697
 Araya Deepa Seeburn Procurement Specialist Procurement	11332
 Asia-Pacific Arab States	11563
@@ -187,6 +195,7 @@ Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 Forum Arabe des Régulateurs	10975
 Franco arabe Passerelle	10847
 French and Arabic	2975
+GOVERNMENT OF THE UNITED ARAB EMIRATES	13326
 Government of Saudi Arabia	12710
 Gustavo Pérez Ara	8163,33
 HARDAP REGION ARANOS	13046
@@ -196,6 +205,7 @@ INST-5429241D0B5 NAIROBI United Arab Emirates	7167
 ITU Arab Regional Office	3750,4895
 India and Saudi Arabia	5035,3360,3756
 Institution Jordan Eng. Luma Arabiyat Director	2958
+Inter-Regional CyberDrill for Africa and Arab States	13665
 Israel and Saudi Arabia	1741
 Jordan and Saudi Arabia	1741
 Jordan. While Levantine Arabic	6705
@@ -235,7 +245,8 @@ Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51
+Sahrawi Arab Democratic Republic	13370
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192
 Saudi Arabia Canada	12151
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
@@ -274,7 +285,7 @@ Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775

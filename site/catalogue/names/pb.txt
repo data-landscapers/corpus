@@ -12,7 +12,10 @@ CHINA EXIMBANK PBC NO	56,302
 CIGI PB226	4846
 CIGI PB232	5239
 China Eximbank PBC No	228,1
-Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
+Comments PBC	13392
+Comments PBC2A. Improved	13392
+Components PBC Baseline End Target RESULT FRAME TBL	13331
+Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Current PBF	10829
@@ -29,7 +32,7 @@ LMP Labor Management Plan PBA Performance-Based	1264
 MLGRD PBB Estimates	4490
 MOH Report PBF National Technical Unit	10829
 National Action Plan for Youth PBC Employment	10964
-National PBA	969,9860,135,891
+National PBA	969,9860,135,891,1476,1
 National Technical Unit for PBF	10829
 National Telecommunication Coverage Project. The PBC	228,1
 O Indicator Name PBC Baseline Intermediate	10964
@@ -57,7 +60,11 @@ PBBAs	13185
 PBC Baseline End Target	1284
 PBC Baseline Intermediate Targets End Target	10829
 PBC Name Baseline Closing Period	10870
+PBC PBC	13392
+PBC1.1d-1-4	13392
+PBC2B. Textbooks	13392
 PBCs. Activity	6539
+PBCsis	13392
 PBF Manual	10829
 PBF Manual. Quarterly PBF Database PBF	10829
 PBF Model	10829
@@ -71,6 +78,7 @@ PBF National Technical Unit People	10829
 PBF National Technical Unit Pregnant	10829
 PBF National Technical Unit Quality	10829
 PBF National Technical Unit The World	10829
+PBF Performance Based Financing	13306
 PBF Performance-based Financing PCU Project Coordination	11560
 PBF Pregnant	10829
 PBF Procedural Manual for Education. IBRD	11560
@@ -83,8 +91,10 @@ PBF and GBV	10829
 PBF. The World Bank CAR Health	10829
 PBKDF2	6766,3136
 PBoC-Central Bank of Libya	10026
+PD O Indicator Name PBC Baseline	13332
 PDSS PBF	11924
 PFM The PBF	10829
+ParentZEEPinUSD PBC PBC	13392
 Parliament PBO	1835
 Pay-As-You-Go PBR Performance-Based Regulation PPAs Power	12399
 Pbps. Global Content Provider Bandwidth	1766
@@ -94,6 +104,7 @@ Planet Labs PBC	9544
 Possible Options for Adaptation of PBF	10829
 Pre-Primary Class PBC	12175
 Prof. I. D.T. Mpofu PBroofa.rZd.CMhauirramnadna	1154
+Project Development Objective Indicators PBC Baseline	13331
 Project. Quarterly PBF Database Patient	10829
 Project. Quarterly PBF Database Routine HMIS	10829
 Project. The PBC	358
@@ -102,8 +113,9 @@ Quarterly PBF Database Patient	10829
 Quarterly PBF Database Quality	10829
 Quarterly PBF Database Routine	10829
 Quarterly PBF Database Routine HMIS	10829
-RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545,2503
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
 RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 Rationale for PBCs	6539
@@ -119,3 +131,4 @@ Supp III PBB	2962
 TMS and PBF	7759
 Targeted Free Healthcare Policy. PBF	10829
 Targeted Free Healthcare and PBF	10829
+ZEEP PBCs	13392

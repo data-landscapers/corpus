@@ -2,6 +2,7 @@ A- Data Centre and Computing	7548
 A- Publicly Supported Compute Access	7548
 ACM Computing Surveys	2096,9060
 ACP Countries Computer Crime and Cybercrime	26
+ACRONYMS APP Computer Applications EGD Electronic	13345
 AFFORDABLE COMPUTER SERVICES KENYA LIMITED Data	7167
 AI Compute	11345
 AI Compute Centre	5298,3065
@@ -18,9 +19,11 @@ Advanced Computer Information ACM	9237
 Advanced Computer Information Thabit	9237
 Advanced Computer Science	11128
 Advanced Computer Science and Information Systems	226
+AfDB African Development Bank CATI Computer	13359
 Africa Compute Africa Data Centres DFC	11310
 Africa Green Compute Coalition	7836,3304
 Africa Still Needs Its Own Compute	9119
+Africaine de Développement Burundi Backbone System Computer	13290
 African AI Compute Grid	6690
 Africa’s AI Talent and Compute Gap	11140
 Amazon Elastic Compute Cloud	1729,9065
@@ -34,6 +37,7 @@ Arquitetura de Computadores	12019
 Artificial Intelligence and Advanced Computing	9126
 Artificial IntelligenceCloud ComputingCloud	6506
 Asia Pacific Computer Emergency Response Team	10764
+Assisted Telephone Interviewing CAPI Computer Assisted	13359
 Association for Computational Linguistics	7548,1058,2534
 Association for Computing Machinery	2093,6671,364,109,502,951,445,955
 Association for Computing Machinery. Crossref Google Scholar	8460
@@ -59,9 +63,11 @@ CAWI Computer-assisted Web Interview CATI Computer-assisted	11192
 CBRAIN EAST AFRICA COMPUTER SYSTEM DESIGN	7167
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
+CERT Computer Emergency Response Team CICO	13312,2
 CERT Computer Emergency Response Team CIO	12917
 CERT Malawi Computer Emergency Response Team	12240
 CIRT Computer	10765,10
+CIRT Computer Incidence Response Team CISM	13346
 CLOUD COMPUTING	12967
 CLOUD COMPUTING SERVICE MODELS	11196
 CLOUD COMPUTING SERVICE MODELS Cloud	11196
@@ -82,6 +88,7 @@ COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
 COMPUTER INFORMATION SYSTEMS KENYA LIMITED Data	7167
 COMPUTER LEARNING CENTRE LIMITED Data Processor	7167
 COMPUTER REVOLUTION AFRICA GROUP LIMITED Data	7167
+COMPUTER SCIENCE SYLLABI	13356
 COMPUTER-CRIME-AND-CYBER-SECURITY-BILL-2024.pdf	12675
 COMPUTERWAYS LIMITED Data Processor INST-2780679FFE9 NAIROBI	7167
 COMPUTING MACHINERY AND INTELLIGENCE. Mind	2816
@@ -112,7 +119,7 @@ Civil Service Commission CSIRT Computer Security	12917
 Ciência da Computação	11441
 Ciência de Computação	12021
 Ciências da Computação	8858,3163
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45
 Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing BANK OF NAMIBIA No	12967
 Cloud Computing Cloud	1363
@@ -127,6 +134,8 @@ Cloud Computing Services Cloud Computing Services	3161
 Cloud Computing Services. Section	3161
 Cloud Computing Week	4141
 Cloud Computing and Data Offshoring	7339
+Cloud Computing and Robotics	13356
+Cloud and Quantum Computing	13346
 Co-locating Compute	10157
 Code of Practice for Interactive Computer Service Platforms	5215
 Cognitive Computing	12512
@@ -134,7 +143,7 @@ College of Computing and Information Sciences	5413
 Communications Authority of Kenya's National Kenya Computer	6803
 Competitive Marketplace for Compute	6445
 Compulsion	7777,4273
-Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70,886,199,63,468
+Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70,886,199,63,468,418,1,28
 Compulsory Briefing Session Meeting Registration Link	11240
 Compulsory Documents	11240
 Compulsory Registration of Births and Deaths	12523
@@ -143,9 +152,14 @@ Compulsory Retirements	12970
 Compulsory Security Governance	4755
 Compulsory Social Security	2775
 Compulsory Specification NT National Treasury NYDA	11198
+Compulsory Specifications	13320
+Compulsory Specifications Department	13320
 Compulsory Standard Act No.3	1988
-Compulsory Standards	1988
+Compulsory Standards	1988,11332
+Compulsory Standards Act	13403
+Compulsory Standards Department	13320
 Compulsory Under Sections	12138
+Compunet	13312,2
 Comput	1219,4023
 Comput Inform Nurs CIN	12246
 Comput Law Secur Rev	5242
@@ -171,7 +185,7 @@ Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computação	2816,7324,1237,1431
 Computação Em Nuvem Pode Ampliar	8827
 Computação Evolutiva	2816
-Compute	2092,865,1777,895,951,13,558,397,183,395,993,958,1063,69,101,900
+Compute	2092,865,1777,895,951,13,558,397,183,395,993,958,1063,69,101,900,1466
 Compute AI	5297
 Compute Access	7548
 Compute Africa	2092
@@ -198,21 +212,22 @@ Computech Institute	9082
 Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
-Computed	11907,1016
+Computed	11907,1016,426
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25,252,46,20,35,28,22,20,42,14,69,410,39,76,303,319
 Computer Aided Personal Interview	12409
 Computer Applications	10001
+Computer Assisted Mass Appraisal	13418
 Computer Assisted Personal Interview	582,3462,6733,669,131
 Computer Assisted Personal Interview1	4040,7381
 Computer Assisted Personal Interviewing	11416,5,156
 Computer Assisted Personal Interviewing. EAs	12403
-Computer Assisted Telephone Interviewing	11416,5,156
+Computer Assisted Telephone Interviewing	11416,5,156,1782
 Computer Assisted Telephonic Interview	4044,7402,131
 Computer Assisted Telephonic Interview2	4040,7381
 Computer Attack Response and Alert Centre	301
 Computer Attack Warning and Response Centre	301
-Computer Basics	13280
+Computer Basics	13280,76
 Computer Basics for Visually Impaired	13095
 Computer Business Solutions	2674,3728
 Computer Capacity Data Strategy Safeguard Trustworthy	1204
@@ -246,7 +261,7 @@ Computer Engineering	11862,831
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58
 Computer Incident Response Teams	11920
-Computer Information Systems	4896,419
+Computer Information Systems	4896,419,8053
 Computer Lab	12971
 Computer Laboratory	1246
 Computer Law	1243,6779,754,461
@@ -261,17 +276,21 @@ Computer Misuse and Cybercrime Act	783,11519
 Computer Misuse and Cybercrimes	4583,2204,3153,1175
 Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92
 Computer Misuse and Cybersecurity	7548
+Computer Networks	13356
 Computer Networks and ISDN Systems	3782
 Computer Operator Ms. Virginia Simushi	34
 Computer Owner	34
+Computer Produit Intérieur Brut Petite	13290
+Computer Programmers	13361
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Education	13078
 Computer Science Information Systems	10060
+Computer Science Master	13575,1
 Computer Science Review	8603,2
 Computer Science Systems	6832
 Computer Science and BSc	12361
@@ -280,9 +299,12 @@ Computer Science and Informatics	6832
 Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Technology	9128
 Computer Science and Telecommunication	6832
+Computer Science. Learners	13356
 Computer Science. Other UNESWA	13078
 Computer Science. Plans	12407
+Computer Science. Together	13356
 Computer Security	3887,5928
+Computer Security Incident Handling Guide	13381
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622
 Computer Security Incident Response Team CERT	1000
 Computer Security Incident Response Teams	5677,1259,1961,573,1219
@@ -305,7 +327,7 @@ Computer-	26,8275
 Computer-Aided Detection	12678
 Computer-Aided Diagnosis	12678
 Computer-Aided Mass Valuation	12369
-Computer-Assisted Personal Interviewing	6106,4179,2118
+Computer-Assisted Personal Interviewing	6106,4179,2118,897
 Computer-Assisted Personal Interviews	10757
 Computer-assisted Personal Interview	11192
 Computer-assisted Telephone Interview	11192
@@ -315,13 +337,14 @@ Computer-related	582,201,6994,3402,1280,469
 Computer-related Forgery	26
 Computer-related Fraud	26
 Computer-related Offenses	12459
-Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4,6945,17,654
+Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4,6945,17,654,44,144
 Computerisation P42	5634
 Computerisation Projects	12597
 Computerisation and Fleet Expansion Programmes. Funds	12606
 Computerisation of Records Management System	12597
 Computerised	9237
 Computerised Learner's Licence Testing System	12476
+Computerising	13439
 Computerization	12138
 Computerization of Government Procedures	10663
 Computerize	11906
@@ -330,6 +353,7 @@ Computerized Transit System	13042
 Computerizing VAT	12948
 Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110,62,1,1,9,177,1,11,1,135
 Computers Conference	9237
+Computers For Zambian Schools	13637
 Computers Public Perception of Accountability	10835,3,130,902,16,466,1,135
 Computers Shipping	10759,78,1315,188
 Computers and Accessories	12962
@@ -421,7 +445,9 @@ Emergency Response Component CERT Computer Emergency	1264
 Emerging Technologies Compute Year	7548
 Emerging Technologies Compute and Infrastructure	7548
 Emerging Technologies Compute and Infrastructure Plan	7548
+Emploi des Jeunes PC Personal Computer PDDSP	13341
 Energy-efficient Cloud Computing Technologies and Policies	1264
+Engineering and Computer Services Unit. ZMD	13365
 Establishing Computer Security Response Units	1000
 Establishment Of The National Computer Incident	2256
 Establishment of LTA Computer Emergency Response Team	4610
@@ -430,12 +456,14 @@ European High Performance Computing Joint Undertaking	8346
 Existing Infrastructure Compute	11209
 Expected Compute and Storage Expansion	5793
 F. Computer Crime and Cyber Crime Act	12939
+FUNDAMENTALS OF COMPUTING	13356
 Faculty of Computational Science and Informatics	10384
 Faculty of Computational Sciences	6936
 Faculty of Computer Sciences	7955
 Faculty of Computing and Informatics	12926
 Faculty of Computing and Informatics. Brief	12926
 Finance CFI Computer Incident Response Team	12444
+Foundations of Computer Science	13356
 Free Compulsory Basic Education	7695
 Functional Compulsion	3615
 Functional Computer	582
@@ -447,22 +475,25 @@ Gambia Computer Security Response Units Supporting	1000
 Ghana National Computer Emergency Response Team	775
 Giga Computing	11502
 Google’s Compute Engine	9123
+Government Cloud Computing Guideline	13345
 Government Computer Services	12896,26,8
 Government Data Centres and Cloud Computing	11940
 Government and Academic Computer Security Incident Response	2989
-Government-wide Computer Incident Response Team	12453
+Government-wide Computer Incident Response Team	12453,892
 Governmentwide Computer Incident Response Team	12453
 Green Compute	7548
 Green Computing	7715,4646
+Guérin CAPI Computer Assisted Personal Interview	13300
 H Mistral Diginetica Multiverse Computing	8530
 HAG Personal Computers Traitement	10821
 Hariri Institute for Computing	11135
 High Performance Computer	5847,5344
 High Performance Computers	1814
-High Performance Computing	12728
+High Performance Computing	12728,746
 High Performance Computing Center	51
+High Performance Computing Centre	13544
 High-Confidence Computing	8605
-High-Performance Computing	2816,1712,875,2145,4808,156,224
+High-Performance Computing	2816,1712,875,2145,4808,156,224,559
 High-Performance Computing Center Project	51,134
 High-Performance Computing Centre	3561
 High-Performance Computing and Data Processing Centre	2117
@@ -472,6 +503,7 @@ IEEE Computer Society	2096,5925,1
 IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
 INDIVIDUAL OWNERSHIP AND USAGE OF COMPUTERS	582
+INTRODUCTION The Computer Science	13356
 INVALID. PART C CHECKLIST OF COMPULSORY	11240
 ITIL and Cloud Computing	12693
 IndabaX Hackathon Computer Science Society Staff	12361
@@ -582,6 +614,7 @@ National Data Park and Compute Infrastructure	10157
 National Data and Cloud Computing Policy	7510
 National Emergency Computer Incident Response Center	7538
 National High-Performance Computing	4528,7984
+National ICT Policy Definitions Computer Incident	13346
 National Kenya Computer Incident	6946
 National Kenya Computer Incident Response Team	7481,4781
 National and Sectoral Computer Emergency Response Teams	587
@@ -672,6 +705,7 @@ Tanzania Computer Emergency Response Team	2703,3465
 Technical Training of Computing Science	21
 Technologies Compute	7548
 Technologies Compute and A2- Plan	7548
+Technology Authority ZMCIRT Zambia Computer Incident	13346
 Telecommunications and Computer	4610
 Telecommunications and Computer Cabinets and Racks	9123
 Teoria da Computação	12019
@@ -692,6 +726,8 @@ YEARS COMPULSORY BRIEFING	11240
 Yes. The Computer Misuse Act	12232
 Yes. The Cybercrime and Computer Related Crimes	12232
 ZAM Act. Zambia Compulsory Standards Agency	1988
-Zambia Compulsory Standards Agency	1988
-Zambia Computer Incident Response Team	12453
-Zimbabwe Centre for High Performance Computing	8483,222,325
+Zambia Compulsory Standards Agency	1988,11415
+Zambia Computer Incidence Response Team	13347
+Zambia Computer Incident Response Team	12453,892,1
+Zimbabwe Centre for High Performance Computing	8483,222,325,4364,81,181
+Zimbabwe Centre for Higher Performance Computing ZESA	13420

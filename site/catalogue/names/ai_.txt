@@ -40,6 +40,7 @@ AI A1-Teacher AI	7548
 AI AI	1814,697,1615,3422,3179,1483
 AI AI Policy Data	9937
 AI AI Scientific Committee	11135
+AI AIP	13462
 AI AML	10570
 AI AND GLOBAL VC	10954
 AI ANSICE ANTIC CERT ECCAS EU	9616
@@ -128,15 +129,17 @@ AI Center of Excellence	3711,1362
 AI Centre	5932
 AI Centre of Excellence	8220
 AI Centres	12512
-AI Centres of Excellence	4528,7984
+AI Centres of Excellence	4528,7984,1032
 AI Challenge	8548
 AI Challenges	7334
 AI Champion	8609
 AI Champions	10541,59
 AI Characteristics Generally	4528,7984
 AI Chat Bots	11231
-AI Chatbot	5472
+AI Chatbot	5472,7989
 AI Chatbot for Public Services	5464
+AI Chatbots	13461
+AI Chatbots Perplexity	13461
 AI Citizen Service Assistant for Smart Local	10347
 AI City Scheme	7845
 AI City Scheme AI City Scheme	7845
@@ -159,12 +162,15 @@ AI Competency Framework for Teachers	6948
 AI Comprehensive	7548
 AI Compute	11345
 AI Compute Centre	5298,3065
+AI Confucius Institute	13631
+AI Confucius Institute. The Institute	13631
 AI Consult	11578,7
 AI Consult V1	11578
 AI Continent	8346
 AI Continent Action Plan	7548,798,2704
 AI Continent Advanced AI	8346
 AI Continental Strategy	1814
+AI Copilot	13461
 AI Council	4030,15,1869,1634,2389,2575
 AI Council Technology Council	12356
 AI County AI	7548
@@ -199,6 +205,7 @@ AI Diffusion Report	7138,13
 AI Digital	12210
 AI Digital Infrastructure	12210
 AI Digital Infrastructure Goal	12210
+AI Digital Literacy	13462
 AI Digital Skills and Inclusion	4028
 AI Dimension	12210
 AI Disclosure Statement	9025
@@ -208,7 +215,7 @@ AI Division	2958
 AI EVERYTHING KENYA X GITEX KENYA	2339
 AI Economy	5366,52,1069,625,35,27,163
 AI Economy Artificial	7876
-AI Ecosystem	5482,6874
+AI Ecosystem	5482,6874,1305
 AI Ecosystem Development Current State Zambia	12356
 AI Ecosystem Nodes	4528,7984
 AI Ecosystem Outcome Indicators	12356
@@ -266,6 +273,7 @@ AI Focal Points	7548
 AI For Africa	1814
 AI For Policy Makers	5276
 AI Forum	9970
+AI Foundational	13461
 AI Founder	7845
 AI Frank Eleanya	2417,3046
 AI Frontiers	5682
@@ -313,7 +321,7 @@ AI Governance. The Dialogue	8628
 AI Governments	7548
 AI Governments Technologies	7548
 AI Governs	7548
-AI Grand Challenge	6205,1231,1594,3482
+AI Grand Challenge	6205,1231,1594,3482,1120,24
 AI Grand Challenge Patrick J. McGovern	1148
 AI Guide	12210
 AI Guidelines	11050
@@ -331,8 +339,9 @@ AI Hub Risk Assessment Framework	11156
 AI Hub Risk Assessment Framework for Social	11156
 AI Hub Risk Toolkit	11156
 AI Hub Taxonomy and Global Evidence Review	11156
-AI Hub for Sustainable Development	3604,3456,3655
+AI Hub for Sustainable Development	3604,3456,3655,2946
 AI Hub for Sustainable Development Initiative	3604
+AI Hub for Sustainable Development and Head of Digital	13661
 AI Hub of Africa	3582
 AI Hubs	4126
 AI Humanitarian Systems	7147
@@ -342,11 +351,12 @@ AI IP Accelerator	4126
 AI Impact	7548
 AI Impact Assessment	7548,3608
 AI Impact Assessments	11156
-AI Impact Summit	5029,15,51,1943,327,1,1333,3083,835
+AI Impact Summit	5029,15,51,1943,327,1,1333,3083,835,945
 AI Impact Summit India	12830
 AI Impact Summit. Ce	8699
 AI Impact Summit. Rather	8629
 AI Impact Summit’ Promises Little	5044
+AI Imperative	13602
 AI Inclusion Through Interoperability	11006,1
 AI Increased	7548,4964
 AI Index	2816,4244,4926
@@ -361,8 +371,11 @@ AI Infrastructure and Data Governance Unit	4528,7984
 AI Innovation Act	7548
 AI Innovation Challenge	3378
 AI Innovation Demo Day	5413
+AI Innovation Fund	13461
+AI Innovation Funding The AI Innovation	13462
 AI Innovation Lab	10621
 AI Innovation Lab MinCiencia Ministerio de Tecnologías	11135
+AI Innovation Mainstream Publishers	13462
 AI Innovation Package	1814
 AI Innovation and Technological Solutions Working Group	8645
 AI Institute	5297,7638,113
@@ -386,11 +399,14 @@ AI KES	7548
 AI Kenya	7548
 AI Kenya Bureau of Standards	7548
 AI Kill Switch Act	8014
+AI LLMs	13461
+AI LLMs. The Big	13461
 AI Lab	11061,3
 AI Laboratory	4126
 AI Lab과	11064
 AI Landscape Assessment	13113
 AI Landscape Assessment Justice	13080
+AI Landscape Assessments	13661
 AI Language Model	3622
 AI Law	4583,2965
 AI Lead Support	7548
@@ -412,6 +428,7 @@ AI Masters and PhD	4528,7984
 AI May Be More Opportunity	8610,233
 AI Medical Device Safety	3279
 AI Ministry of Education	4126
+AI Mode	13461
 AI Model	7548,4808
 AI Model Evaluation	3604
 AI Multi	5226
@@ -445,6 +462,10 @@ AI Opportunity	6849
 AI Opportunity Partnership	10501
 AI Opportunity Partnership U.S. Department of State	6849
 AI Opportunity Statement	6849,3189,30
+AI Overview	13461
+AI Overviews	13461,1
+AI Overviews and Copilot	13461
+AI Overviews. For Bing	13461
 AI PCs	6573
 AI PLDT Enterprise	2511
 AI Pan-Africanism	11095
@@ -467,6 +488,7 @@ AI Policy and Implementation Plan	9741
 AI Poverty	10726
 AI Practitioner	11135
 AI Practitioners	12210
+AI Preferences	13461
 AI Preparedness Index	11140
 AI Principles	2958,4720,4997
 AI Principles and OECD	11156
@@ -474,6 +496,7 @@ AI Pro	6250
 AI Pro Plan	6250
 AI Processing Units	10164
 AI Procurement	4126,3422
+AI Programmes	13661
 AI Projects	4126,2106
 AI Projects Assistant	5036
 AI Protecting	6948
@@ -489,8 +512,8 @@ AI Raises the Stakes	11310
 AI Raises the Stakes AI	11310
 AI Read-	1204
 AI Readiness	1204,2655,4232
-AI Readiness Assessment	3378
-AI Readiness Assessment Methodology	4126,402,7984
+AI Readiness Assessment	3378,10283
+AI Readiness Assessment Methodology	4126,402,7984,1031,1,13,106
 AI Readiness Assessment Report	12994
 AI Readiness Audit	6214
 AI Readiness Foundation	12554
@@ -500,9 +523,10 @@ AI Readiness Index. Now	6041
 AI Readiness Press	8091
 AI Readiness and Use Cases Global AI	3859
 AI Ready Ghana	4126
-AI Recommendation	11156
+AI Recommendation	11156,2507
 AI Regulation	12389
 AI Regulation Proposal	7972
+AI Regulation and Ethics	13661
 AI Regulations	7548
 AI Regulatory	7548
 AI Regulatory Authority	11265
@@ -549,6 +573,7 @@ AI Simulations	12675
 AI Singapore Finland	11135
 AI Singapore and Steven Miller	10840
 AI Skills	2092,3748
+AI Skills Accelerator Programme	13600,2
 AI Skills Capacity Building and AI	6948
 AI Skills Coalition	9106
 AI Skills Development	10133
@@ -564,7 +589,7 @@ AI Sovereignty	3787,1814,369,838
 AI Spam	3016
 AI Special Economic Zone	7456
 AI Sphere	1771,480,2853
-AI Sprint	9873
+AI Sprint	9873,3788
 AI Sprinter	1363,3165,7984
 AI Sprinters	1363
 AI Sprinters Report.pdf	1363
@@ -581,12 +606,12 @@ AI Strategic Initiatives	12356
 AI Strategic Team	11154
 AI Strategies	1814
 AI Strategies. UNESCO	2816
-AI Strategy	1814,1933,781,55,106,697,17,8,883,275,692,327,2704,329,514,1075,31,115,156,163,420
+AI Strategy	1814,1933,781,55,106,697,17,8,883,275,692,327,2704,329,514,1075,31,115,156,163,420,449,71,48
 AI Strategy Focus Areas	1814
 AI Strategy Focus Areas Figure	1814
 AI Strategy Foundations	12210
 AI Strategy Framework	9108
-AI Strategy Implementation Office	4528,875,8,1381,5720
+AI Strategy Implementation Office	4528,875,8,1381,5720,1120
 AI Strategy Implementation Office and National Data	4528,7984
 AI Strategy Implementation Office and Technical Working	4528,7984
 AI Strategy Mandates Local Storage	5403
@@ -672,6 +697,7 @@ AI and AGI	4126
 AI and AI	1814,5734
 AI and AI Alliance	11050
 AI and AI-based	6948
+AI and Across	13661
 AI and Advanced Technologies Directorate	2958
 AI and Africa	4970
 AI and Africa's Demographic Dividend	2686
@@ -740,6 +766,7 @@ AI and Framework	7548
 AI and Framework for Technologies	7548
 AI and Future of Work Compact	7548
 AI and Future of Work Compact Workforce	7548
+AI and Gemini.441	13461
 AI and Generative AI	1814
 AI and Global Dialogue	7678
 AI and Growing Expertise	10662
@@ -802,7 +829,7 @@ AI for Agriculture Challenge	12512
 AI for All	5786,128,793,1922
 AI for Citizens	4528,7984,211
 AI for Cybersecurity and AI for Development. CAIR	6948
-AI for Development	1467,3061,6808,1020,156
+AI for Development	1467,3061,6808,1020,156,1031
 AI for Development Partnerships	4528,7984
 AI for Economic Growth and Modernisation Objective	4528
 AI for Economic Growth and Modernisation Objective Lagging	12512
@@ -822,10 +849,11 @@ AI for Good Global Summit and Robotics for Good	7432
 AI for Good Lab	7432,2512,2902
 AI for Good Sandbox	6331,46,6453
 AI for Good Summit	2816,4358,54,81
-AI for Government	6250,1441,1170,3380,482
+AI for Government	6250,1441,1170,3380,482,938
 AI for Health	4528,7984
 AI for Humanity	11135
-AI for Impact Challenge	5562,3143,325
+AI for Impact	13632,24
+AI for Impact Challenge	5562,3143,325,4602,24
 AI for Inclusive Growth and Job Creation	7588
 AI for Malawi National Language Data Trust	6813
 AI for Mauritius	5786
@@ -853,6 +881,7 @@ AI. A Framework for Understanding AI Risk	4528,7984
 AI. AI	1204,159,451,2312,2871,3957
 AI. AI Now Institute	11135
 AI. AI-specific	6948
+AI. AILA	13661
 AI. Accordingly	11265
 AI. Africa	6808
 AI. African	8113,3392
@@ -864,6 +893,7 @@ AI. Anthropic	10430
 AI. Anyone	11143
 AI. As AI	2958
 AI. As African	5363
+AI. Ask AI	13311,255
 AI. Associated Actions	1814
 AI. At the ID4Africa AGM	6823
 AI. Based	8460,430
@@ -887,6 +917,7 @@ AI. Cybersecurity	6402
 AI. Data	1814
 AI. Designed	7825
 AI. Despite	8023,4187
+AI. Developing Open Data	13314
 AI. Disclosing	8460
 AI. Discovery	6232
 AI. Discussions	8043
@@ -950,6 +981,7 @@ AI. New Commissioners	6265
 AI. Nonetheless	8868
 AI. Notably	11050
 AI. Now	4253
+AI. OpenAI Android	13461
 AI. Opening	10196
 AI. Participants	12210
 AI. Policy	11265
@@ -993,6 +1025,7 @@ AI. The Joint Statement	6849
 AI. The Kenyan AI	6231
 AI. The Ministry of Information	12210
 AI. The National AI	12210
+AI. The Recommendation	13663
 AI. The UAE	793
 AI. The US Federal Trade Commission	12210
 AI. The World Health Organization	8301
@@ -1022,7 +1055,7 @@ AU AI	4689,1605,1819
 AU AI Policy	12210
 AU AI Strategy	5789,1758
 AU AI Working Group	5302
-AU Chief AI Scientist	4528,7984
+AU Chief AI Scientist	4528,7984,1031
 AU Continental AI	12210
 AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700
 AU Continental AI Strategy Phase	6937
@@ -1061,12 +1094,14 @@ Adopt AI	12356
 Adopt AI Governance Frameworks Ahead of Regulatory	11138
 Adopting AI	4126,4869
 Adoption of AI	1814
+Adtech and AI	13461
 Advance Africa’s Digital and AI Development Africa	7596
+Advance Ethical AI Governance Through Civil	13557
 Advance National AI Infrastructure	8094
 Advance Sovereign AI and Cloud Solutions Across	10164
 Advanced AI	8670
 Advanced AI UpSkilling Project	4109
-Advancing AI	2525,2209
+Advancing AI	2525,2209,8823
 Advancing AI for Higher Education and Public Sector	12723
 Advancing Africa's AI	7952
 Advancing Africa's AI and Digital Economy	7989
@@ -1176,6 +1211,7 @@ Age of AI. Human Development Report	6948
 Agentic AI	2715,3687,918,14,691,119
 Agentic AI Cloud	12871
 Agentic AI Hackathon	5327
+Agentic AI Master Class Laboratory	13688
 Agentic AI System	7548
 Agentic AI and Infrastructure Investments	6930
 Agentic AI and Infrastructure Investments.md	2209
@@ -1208,6 +1244,7 @@ American-made AI	9263
 America’s AI	6583,626
 America’s AI Action Plan	5216,41,1533,4345
 Amini AI	6332,3300
+Among AI	13675
 Analytics and AI Governance Sub-Committee	10343
 Annex National AI Strategies	1814
 Annual AI	4126,3422
@@ -1243,6 +1280,7 @@ Artificial Intelligence China's Moonshot AI	9629
 Artificial Intelligence Systems AI	2958
 Artiﬁcial Intelligence. The National AI Policy	1204
 Ask AI	7404
+Ask AI Ask	13311,255
 Assess AI	1814
 Assistant Professor of Geospatial AI	6955
 Assurance AI	7548
@@ -1295,6 +1333,9 @@ Big Is Africa's Attainable AI	2957
 Bilateral AI	7548
 Biometric Update Major AI	4030
 Blockchain and AI	12457
+Body AI	13675
+Body AI and Cybersecurity	13458
+Body Implications of Zimbabwe’s National AI Strategy	13649
 Body Landmark AI	13182
 Booklet of AI Use Cases	4126
 Booklet of AI Use Religious Affairs	4126
@@ -1349,6 +1390,7 @@ CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY Harnessing AI	1814
 COP AI	12210
 CS Kabogo Unveils AI Platform	11828
 CTO of Korin AI	9739
+CTRs for AI	13461
 CUE AI	7548
 Cadastre AI	12511
 Cafe AI	7038
@@ -1386,6 +1428,7 @@ Challenges of AI	4126
 Chamber of AI	4126
 Champion AI	12356
 Champion the AI	4528,7984
+ChatGPT AI	13461
 ChatGPT AI Artifical Intelligence Act Artificial	9608
 Chichewa AI	6813
 Chief Executive Officer of Publica AI	4626
@@ -1436,6 +1479,7 @@ Computational Sovereignty Zimbabwe National AI Adoption	12512
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Compute AI	5297
 Conceptualizations of AI	6948
+Conclusion The Zimbabwe National AI Strategy	13649
 Conduct AI	7548
 Confronting AI Poverty	10726
 Congo Showcases Digital Infrastructure Gains and AI	3599
@@ -1443,6 +1487,7 @@ Congo and Russia Strengthen Digital and AI Cooperation	5881
 Congolese Academy of AI	3747
 Connectivity and Network Infrastructure AI	4528,7984
 Consolidating the Gains of AP AI	9765
+Consumer-facing AI Chatbots	13461
 Contemporary AI	7451
 Contextual AI Ethic	8991
 Continental AI	1814
@@ -1502,6 +1547,7 @@ DCI AI Hub’s Global Evidence Review	11156
 DCI AI Tracker	11156
 DEPLOYMENT AI	11156
 DIAGNOSTIC ASSESSMENT OF GHANA’S AI ECOSYSTEM	4126
+DNT Fund and AI Innovation Funding	13462
 DPI AI	7981
 DPI and AI	6668
 DPI and AI-	10719
@@ -1677,7 +1723,7 @@ Egypt's AI	6569
 Egypt’s National AI	1814
 Egypt’s National Council for AI	7836
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356
-Embedding AI	6793
+Embedding AI	6793,6856
 Embracing AI	6948,4317
 Embracing AI Opportunity	6849
 Embracing Applications of AI	12675
@@ -1768,7 +1814,7 @@ Ethics Guidelines for Trustworthy AI	11156
 Ethics and Regulatory Framework AI Research	4528,7984
 Ethics and Responsible AI	3859
 Ethics and Responsible AI Mission Transform	4528
-Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146,194,444
+Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146,194,444,550
 Ethiopia's AI	7092
 Ethiopian AI Institute	3595,1478,6534
 Ethiopian AI Institute. Deployment	11607
@@ -1808,6 +1854,7 @@ Expanded AI	12356
 Expanding AI Adoption	1814
 Expanding AI Adoption for Climate Change Adaptation	1814
 Expanding Access Beyond Smartphones AI	4625
+Expanding Our AI Partnership	13461
 Expert SWOT AI	4126
 Experts Call for Responsible AI Integration	10355
 Explainable AI	4126
@@ -1840,6 +1887,7 @@ Fireflies AI. Ces	9740
 First Kurdish Conversational AI Platform	5322
 Five Foundational Enablers Driving the AI Readiness	2957
 Five Priorities for Zimbabwe’s AI Ecosystem Government	9030
+Flagship AI	13544
 Follows the National AI Strategy	3575
 Fon AI	3150
 Foreign AI	4528,7984
@@ -1860,6 +1908,7 @@ Framework for Bilateral AI States	7548
 Frameworks for National AI Policy and Regulatory Governance	8710
 Free Trade Area AI Artificial Intelligence	4126
 Freedom House AI Surveillance Index	121,138,83,133
+Freedom of Expression The Zimbabwe National AI	13649
 French AI	10527
 Frontier AI	10350
 Frontier AI and AI	10954
@@ -1880,6 +1929,7 @@ G20 AI Guidelines	7678
 G20. Using AI	2526
 G7 AI Hub	5095
 G7-backed AI Hub for Sustainable Development	5095
+GEN Z TRUST AI	13532
 GENIE AI	12846
 GHANA’S RESPONSIBLE AI AUTHORITY	4126
 GITEX Ai Türkiye Istanbul	2521,659,249,939,974,1524,210,294
@@ -1899,6 +1949,8 @@ GSMA's African AI	6593
 GTEC AI STICY	6936
 GUDRA AI	4126
 Gebeya Dala AI Mini App	7625
+Gemini AI Ultra for R5	13461
+Gemini API and Google AI Studio	13461
 Gemini Playspace and AI Solutions	5737
 Gen AI	7678,3462
 Gen AI for Geospatial Challenge	9561
@@ -1915,9 +1967,11 @@ Generative AI	1363,451,282,85,803,667,407,470,1154,372,509,20,10,10,345,386,214,
 Generative AI Answers	12318
 Generative AI Answers URL	12318
 Generative AI Anxiety	3810
+Generative AI LLMs	13461
 Generative AI Profile	7451
 Generative AI and Jobs	8126
 Generative AI and Large Language Models	1814
+Generative AI. Available	13461
 Generative AI. CM	10721
 Generative Artificial Intelligence An AI	2958
 Geneva AI Summit	7038
@@ -2009,7 +2063,7 @@ GmbH Unlimitec AI Hi.Tech SrI Valid	8530
 GoK Emerging A- National AI	7548
 GoK Require AI	7548
 Good AI	9622
-Google AI	2394,422,1310,4572,1270,1195,138
+Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
 Google AI Education	12675
 Google AI Futures Fund	6930,1768,1421
@@ -2072,7 +2126,7 @@ Green AI Initiatives Efforts	12675
 Green AI and Digital Regulations NEMA	7548
 Green Data Center and AI Institute	4032
 GreenTech AI Lab	8094
-Grounding AI	6793
+Grounding AI	6793,6856
 Group COO and Group Chief Technology and AI	5311
 Group. But AI	7244
 Guidance for Generative AI	1814
@@ -2093,6 +2147,7 @@ Head of Business and AI	12082
 Health AI	6233
 Health AI Governance Workshop	9784
 Health Education OECD AI Principles	11000
+HealthPulse AI	13560
 Healthcare AI	8301
 Healthcare AI. Diagnostics. Clinical	6214
 Help Washington Secure Durable AI Partnerships	6790
@@ -2147,7 +2202,8 @@ IR Strategy and National AI Institute	12935
 IRMA AI Engine	10342
 ITU’s AI for Good Global Summit	1814
 IV. Global Comparative Analysis of AI Systems	11036
-Igniting the National AI Mission	4528,7984
+Igniting the National AI Mission	4528,7984,1031
+Impact of Generative AI	13461
 Impacts of AI	6948
 Imperative Successful AI	12512
 Implement AI	12210,465
@@ -2159,7 +2215,7 @@ Implementation of AI Strategy	1814
 Implementation of Strategy The Continental AI	1814
 Implementing AI	7751,4924
 Implications for Kenya’s Evolving AI Ecosystem	10246
-Implications of Zimbabwe’s National AI Strategy	6793
+Implications of Zimbabwe’s National AI Strategy	6793,6856
 Imported AI	5914
 Imprint AI Hub for Social Protection	11156
 Inaccurate AI	6948
@@ -2376,6 +2432,7 @@ M AI Hub	6377
 M Data Centre and AI Expansion	4504
 M Investment AI	3344
 MARI Moringa AI Kenya LDRI	12210
+MAU for Meta AI	13461
 MBITO DO DESENVOLVIMENTO DA AI EM	2816
 MDAs for AI	7548
 MERL AI	7548
@@ -2453,8 +2510,9 @@ MeetKai Launch Sovereign AI Infrastructure Pilot	6678
 Megatrend Global Impact Opportunity for Eswatini AI	12444
 Mela AI	4766
 Mesfin Nigatu AI	12379
-Meta AI	3465,2151,2339
+Meta AI	3465,2151,2339,5506,214
 Meta AI Chief Scientist Shengjia Zhao	9592
+Meta AI RFI	13461
 Meta Platforms AI	6316
 Meta's AI	10133
 Microsoft AI	2816,2511,1680
@@ -2564,6 +2622,7 @@ National AI Delivery Architecture	7548
 National AI Delivery Plan	7548
 National AI Ethics	12512
 National AI Ethics Committee	4528
+National AI Ethics Framework	13600,2
 National AI Fellows and PhD	4528
 National AI Forum	3366
 National AI Framework	5363
@@ -2616,7 +2675,7 @@ National AI Skilling Initiative	2526
 National AI Strategic Implementation Plan	11230
 National AI Strategies	1814,5774,3547,1075
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115,156,568,15,18,330,189,31
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -2639,7 +2698,7 @@ National AI and A1- National AI	7548
 National AI and Compute Infrastructure	7548
 National AI and Council	7548
 National AI and Data Infrastructure Facility	7548
-National AI and Data Platform	4528,883,1382,5719
+National AI and Data Platform	4528,883,1382,5719,1137
 National AI and Data Strategy	12214,767
 National AI and Data Strategy. Establish	12214
 National AI and Emerging Technologies CA	7548
@@ -2687,6 +2746,7 @@ Nedbank’s AI	9366
 NetHope Humanitarian AI Code of Conduct	7147
 Network Analysis Zimbabwe's AI	12512
 Network Analysis Zimbabwe’s AI	4528
+Network of AI Ethics Experts	13557
 Neutral AI	6232
 News AI	5969
 NextGit AI	3465
@@ -2733,7 +2793,7 @@ Objetivos de Desenvolvimento Sustentável da ONU. A AI	2816
 Offer Expert Guidance and Resources AI	12675
 Offer Training Programs AI	12675
 OmniContact AI	5847
-Once AI	7789,671
+Once AI	7789,671,5201
 Open AI	3465,5065
 Open AI Academy	9633
 Open AI Platforms	12675
@@ -2761,6 +2821,7 @@ Oxford Insights Government AI Readiness Index	3344,4204,3366,1296
 Oxford Insight’s Global AI Index	1814
 Oxford Martin AI Governance Initiative	4253
 Oxford-trained AI	9511
+PARAGUAY GUINEA CÔTE D’IVOIRE Reading AI	13661
 POLICY IMPLEMENTATION HIERARCHY National AI	7548
 PPPs AI Ethical	4126
 PRAZ Adopts AI	12506
@@ -2886,6 +2947,7 @@ Race for AI Datacenter Space	11140
 Rapid AI	3554
 Ray-Ban Meta AI	5616,700
 Ray-Ban Meta AI Glasses	5616
+Reading AI Readiness Backwards	13661
 Real AI	5216
 Real-Time AI Insights for Manufacturing	4434
 Recent AI Factories and Gigafactories	6879
@@ -2921,7 +2983,7 @@ Research ICT Africa Just AI Framework	7103
 Research ICT Africa's Just AI Framework	8836
 Response AI	7987
 Response The AI	7987
-Responsible AI	1204,263,347,1002,317,912,81,722,80,156,379,88,47,20,296,140,738,94,325,337,40,90,332,208,951,405,1046,1147,443
+Responsible AI	1204,263,347,1002,317,912,81,722,80,156,379,88,47,20,296,140,738,94,325,337,40,90,332,208,951,405,1046,1147,443,1451
 Responsible AI Amazon	3470,255,1109,1305
 Responsible AI Authority	4126,1820,24
 Responsible AI Charter	6569
@@ -2978,6 +3040,7 @@ SADC AI Governance Initiative	4528,7984
 SAFE. During the Agentic AI Summit	9027
 SALTIS AI Event	11087
 SA’s AI	5175
+SEO and AI	13461
 SEZs for AI	12210
 SHIFTING RISKS ACROSS AI USE	11156
 SMART Zambia and Huawei Launch AI Data	12474
@@ -3007,6 +3070,7 @@ Scenario Analysis of Africa's AI Trajectory	2957
 Science and Industry Japan AI Strategy	11135
 Scientific Research AI	2958
 Scope Implementation Guidelines Education AI	2958
+SearchGPT AI Chatbot	13461
 Sector AI Ecosystem Enablers AI Ecosystem	4126
 Sector Annual AI	7548
 Sector Annual Missions Portfolio AI	7548
@@ -3056,7 +3120,7 @@ Singapore’s AI Strategy	4126
 Situating AI	9739
 Situating Korin AI	9739
 Situation Analysis of AI Development	1814
-Six Foundations of Zimbabwe's AI Transformation	12512
+Six Foundations of Zimbabwe's AI Transformation	12512,1031
 Six Foundations of Zimbabwe’s AI Transformation	4528
 Six West African Nations Align AI	965,3804,120,206,68,334,86
 Sixteen AI	4883
@@ -3125,6 +3189,7 @@ Strategic Importance of AI	12210
 Strategic Insights and Moves for Zimbabwe's AI Journey	12512
 Strategic Insights and Moves for Zimbabwe’s AI Journey	4528
 Strategic Roadmap for Digitalization and AI	6582
+Strategic of AI	13462
 Strategy AI	7548
 Strategy National AI Plan Brazilian AI	11135
 Strategy National AI Policy	11135
@@ -3144,11 +3209,12 @@ Sub-Saharan Africa for AI	7979
 Sub-Saharan Africa’s AI	11140
 Success Factors Successful AI	4528
 Success Indicators Acronyms AI Artificial Intelligence	13076
+Successful AI	13656
 Summary of Strategy The AI	12210
 Summit University’s AI	8710
 Sunbird AI	1363,2382,5796
 Superhuman AI	7060,2532
-Support AI	4897,2651,4808,319
+Support AI	4897,2651,4808,319,786
 Support Program for AI Emerging Technologies IP	7548
 Support the AI	7548
 Support the Development of Shared AI Training Datasets	11138
@@ -3156,6 +3222,7 @@ Supporting AI	4126
 Supports AI	12444
 Sustainability AI	7548
 Sustainable AI	4528,3020,4964
+TB STORAGE ENGINES AND AI	13621
 TEENS IN AI	12996
 TGF AI Awards	7649
 TUT's AI	10343
@@ -3170,6 +3237,7 @@ Tanzania’s AI	3366
 Tarbell Center for AI Journalism	5257
 Task the Responsible AI Authority	4126
 Taxonomy for AI	11156
+Tech AI	13461
 Tech Industry AI Cargo	9629
 Tech News How the EU AI Act	8348
 Tech News Uber and China’s Pony AI	9608
@@ -3207,6 +3275,7 @@ Tlou Energy- AI	8786
 Togo AI Lab	7282
 Togo AI Lab. Selon	7282
 Tony Blair Institute’s Ghana AI Policy	4126
+Top Stories The AgriHyphen AI	13529
 TouchNet Brings Sovereign AI Cloud	3300
 Tourism AI	4528,7984
 Toward AI	11156
@@ -3259,17 +3328,19 @@ UNDP AI Sprint	7060
 UNDP AI Sprint Programme	11332
 UNDP's AI Sprint	9873
 UNDP. Bringing AI	12723
+UNDP’s AI Sprint	13661
+UNDP’s AI Trust	13661
 UNESCO AI	5036
 UNESCO AI Fozan International Prize	13048
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
-UNESCO's AI RAM	12512
+UNESCO's AI RAM	12512,1031
 UNESCO's AI Readiness Assessment Methodology	4528
 UNESCO's Global AI Ethics and Governance Observatory	12578
 UNESCO’s AI Ethics Guidelines	12675
 UNESCO’s AI Ethics Recommendation and OECD AI	12675
 UNESCO’s AI RAM	4528
-UNESCO’s AI Readiness Assessment Methodology	4126,1575,1092
+UNESCO’s AI Readiness Assessment Methodology	4126,1575,1092,6856
 UNESCO’s Ethics of AI Recommendation	5618
 UNESWA AI	12996
 UNESWA AI Academy	13182,15
@@ -3334,6 +3405,7 @@ Velocity AI	7451
 Verbal-deductive AI	7573
 Vertex AI	1636
 Vibrant AI Ecosystem	12356
+Video AI	13529
 Vigilate AI	7076
 Vision and Mission The Continental AI Strategy	1814
 Voice-enabled AI	4625
@@ -3356,9 +3428,11 @@ Western-trained AI	5367
 Whatever AI	9784
 Wherever AI	12864
 Whether AI	7588,3138
+Whilst AI	13461
 Whose AI	8991
 Widely Beneﬁcial AI Adoption	1204
 Will AI	6982
+Will Google's AI Overviews	13461
 Winning the AI Race	5257
 Wishing the UNESWA AI Academy	13197
 Wits University AI	8272
@@ -3389,6 +3463,7 @@ Zadara AI Cloud	3300
 Zadara AI Sovereign Cloud	3300
 Zambia AI Strategy and Vision	12356
 Zambia Eyes AI Leadership Following Global	7432
+Zambia's AI	13663
 Zambia's National AI Strategy	7432
 Zambia-specific AI	10215
 Zambians. Recognizing AI	12356
@@ -3402,14 +3477,15 @@ Zimbabwe AI Innovation Fund	4528,7984
 Zimbabwe AI Investment Summits	4528,7984
 Zimbabwe AI Strategy	5411
 Zimbabwe AI Summit	4528,7984
+Zimbabwe National AI Charter	13632
 Zimbabwe National AI Strategy	4528,875,1390,5719
-Zimbabwe's AI	4528,883,4661,2440
-Zimbabwe's AI Readiness	12512
+Zimbabwe's AI	4528,883,4661,2440,1120
+Zimbabwe's AI Readiness	12512,1031
 Zimbabwe's AI Readiness Strengths	12512
 Zimbabwe's AI Readiness Zimbabwe's National AI	12512
-Zimbabwe's AI Strategy	5411
+Zimbabwe's AI Strategy	5411,8146
 Zimbabwe's AI Strategy Data Governance Cyber	12512
-Zimbabwe's National AI Strategy	7436,5076
+Zimbabwe's National AI Strategy	7436,5076,1045
 Zimbabwe-specific AI Ethics Framework	4528,7984
 Zimbabwe-specific AI Ethics Framework. Pillar	4528,7984
 Zimbabwe. National AI Fellows and PhD	12512
@@ -3417,11 +3493,11 @@ Zimbabwean AI	4528,7984
 Zimbabwean AI Grand Challenge	4528,7984
 Zimbabwean-born AI	6909
 Zimbabweans. Zimbabwe's AI	5411
-Zimbabwe’s AI	4528,2265,2237
+Zimbabwe’s AI	4528,2265,2237,4514,105
 Zimbabwe’s AI Grand Challenge	9030
 Zimbabwe’s AI Readiness	4528
 Zimbabwe’s AI Readiness Strengths	4528
 Zimbabwe’s AI Readiness Zimbabwe’s National AI	4528
 Zimbabwe’s AI Strategy Elevating AI	4528
 Zimbabwe’s AI and Cyber Conference	7780
-Zimbabwe’s National AI Strategy	4528,1766,499
+Zimbabwe’s National AI Strategy	4528,1766,499,6856

@@ -5,6 +5,7 @@ AFRICA EAST. Estimated Appraisal Date	761
 AFRICA. Estimated Appraisal Date	12137
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
 ANADER Date	2342
+ANNEXE1 ACTE DE S Date	13524
 AOIO. Dates	1993
 APPLICATION DETAILS Date of Application Name of Originator	12364
 ARTICLE XII EFFECTIVE DATE	13031
@@ -16,6 +17,7 @@ Activity Date	5853
 Activity Dates RFP Issued	12693
 Actual Date	11131
 Actual Date Concept Review	11924
+Added Date	13575
 Address Date	12591
 Adoni Conrad Quenum Date	4181,2712,1203
 Africa Date	4112,6224
@@ -44,8 +46,10 @@ Auditors Control Advisor Date	4896
 Ausland Dateiname	8546
 Avon Rise Avenue Date Daily	4896
 BADEA's Board of Directors Date	12634
+BORDEREAU DES PRIX Date	13524
 Bank of Zambia ZIPSS Rules Date of Issue	12364
 Bank. Governor Date Bank of Namibia	12943
+Bid Opening Date	13621
 Bids. Date	13185
 Bloomberg Philanthropies Date for Health Initiative. Per	10972
 Board Member Date Appointed Board Audit	11131
@@ -56,6 +60,7 @@ Botswana Tech Summit Date	12554
 Budget Pitso Date	12584
 Burkina Faso Date	2985
 Burkina Faso Dates of IMSA	10812
+Burundi Date	13635
 CARD NO. FULL NAME DATE	12410
 CASA Date	12364
 CHIEF DISTRICT SPECIAL MARKS REGISTRATION DATE	12410
@@ -66,6 +71,8 @@ COD Commercial Operation Date CoW City	12399
 COMMENCEMENT DATES AND EFFECTIVE PERIODS	3861
 COMPANY OF FINAN CIAL SOUNDNESS Date	12374
 CONTACT INFORMATION Date	34
+COPIEZ LA DATE DE NAISSANCE	13300
+COPIEZ LES DATES DU CARNET	13300
 CORRECTS A HELD DATE	2692
 CRI Date Actual	6928
 CSD SYSTEM Designation Comment Signature Date	12364
@@ -95,8 +102,9 @@ Computer Specifications DATE QUANTITY	34
 Congo Date	11900
 Connectivity Channel Gateway Payment Originator Date	12364
 Contact Person Designation Email Telephone Date	6432
+Contract Notice Date	13621
 Control VERSION DATE AMENDMENT AUTHOR Final	5244
-Copy Date	12887,6,12
+Copy Date	12887,6,12,382,24,4,251
 Correction des Dates	747
 Cost of Date of Date	13031
 Country of Delivery Date	13185
@@ -114,8 +122,13 @@ DATE CORRECTED AT INGEST	5928
 DATE COULD NOT BE ESTABLISHED	443,1275
 DATE DE BANDE DE IRC	998
 DATE DE BANDE DE SIGNATURE FREQUENCE	998
+DATE DE DÉBUT D'UTILISATION	13300
+DATE DE L'INTERVIEW ET POUR CHAQUE	13300
+DATE DE PUBLICATION	13377
+DATE DONNÉE	13300
 DATE FIX	4964
 DATE FLAG	6782
+DATE HEURE	13635
 DATE IS A PROXY	5598
 DATE IS PROXY	782,2076
 DATE NOT ESTABLISHED. LinkedIn Pulse	8126
@@ -137,6 +150,7 @@ DATE TRAP HANDLED	2994,943
 DATE UPGRADED	3726
 DATED	11285,4
 DATES	5773
+DATES DE NAISSANCE ET PÉRIODES	13300
 DE LA LETTRE OBJET DATE	998
 DES GARANTIES Date	7977
 DEVELOPMENT DATE	11261
@@ -153,6 +167,7 @@ Date Accessed	771
 Date Actual	6579,349
 Date Adv. Mbuso Simelane Board Chairperson	12969
 Date Closing Period Month	6579,349
+Date Component	13392
 Date Consultatio Action	1988
 Date Daily VWAP	4896
 Date Date	13185
@@ -175,7 +190,7 @@ Date Passed	11976
 Date Posted	5213
 Date Posted Zambia	5501
 Date Practice Area	13111
-Date Prepared	980,16,708,587,1165,7507,1706,163,279
+Date Prepared	980,16,708,587,1165,7507,1706,163,279,412
 Date Price ZWG USD Equivalent Premium	4896
 Date Project	11869
 Date Received Time Received Subscriber’s BOZ	12364
@@ -191,20 +206,21 @@ Date Updated	8831
 Date Value Date Sep	10870
 Date of Adjustment	13185
 Date of Application	12364
-Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1
+Date of Assent	2726,1,1160,8637,7,1,3,11,3,13,67,1,669,6,13,3,1,17,11,1,1,19,32,93,1
+Date of Assessment	13381
 Date of Bid Opening ITB	13185
-Date of Birth	2291,1271,7714,585,420,129,621,6
+Date of Birth	2291,1271,7714,585,420,129,621,6,270
 Date of Commencement	3887,8636,1,1,1,2,2,1,1,3,11,2,1,13,67,1
 Date of Completion	1778
 Date of First Reading	11247
 Date of Gazette	11,576
 Date of Hearing	2307
 Date of Incident	3583
-Date of Issue	13068
+Date of Issue	13068,239
 Date of Judgment	2307
 Date of Last Update	775
 Date of Occurrence	12151
-Date of Publication	6868
+Date of Publication	6868,6753
 Date of Registration	12151,249
 Date- End Date	11863
 Date-window	6292
@@ -222,12 +238,13 @@ Datenschutz	11316
 Datenschutzbehörde	8436
 Datenschutzbehörde and CRIF	8436
 Datenzentrum	902
-Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58
+Dates	220,218,298,455,3,44,124,231,184,141,66,9,965,13,724,523,349,3254,740,21,546,1,108,1639,310,16,1,1,1,1,1,1,85,2,1895,58,441
 Dates Under Review	9022,3286
 Dates of Consultations	1778
 Dates of Data Collection Mode	10862
 Dates of Statutory Board and Board Committee Meetings	12951
 Datetime	12360
+Deadline Date	13575
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
 Delivery Date	13185
@@ -245,19 +262,22 @@ ELECTRIFICATION OF COMMUNITIIES Date ENVIRONMENTAL	1988
 EOL Target Date N	9124
 EVENT DATE IS NOT THE PUBLICATION	8043
 EVENTS AFTER REPORTING DATE	4896
+EXECUTION Date	13524
 EXPANSION OF HEALTH FACILITIES Date	1988
 EXPECTED RELEASE DATE	11296
 Earliest Delivery Date	13185
 Econet InfraCo. Record Date for Econet Shareholders	4896
-Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301,127,393
+Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453,108,35,345,60,181,301,127,393,364,131
 Effective Date This Procl	7538
 Effective Date This Proclamation	12146,80
 Effective Date of Change	11129
 Effective Date of Change Implementation	11129
+Effective Date. COMPETITION COMMISSION	13462
 Effective Date. Only	10829
 Effective Date. Page	10964
+Effective Date. SA	13462
 Effective Date. Sections and Description ESCP	10964
-Effectiveness Date	12980
+Effectiveness Date	12980,352
 Einhaltung von Datenschutzgrundsätzen	11316
 Election Date	4896
 English Date	4896
@@ -271,11 +291,13 @@ Eswatini Bank's Approval Date	13017
 Ethiopia. Date	9031
 Event Date	12618
 Expected Approval Date	3562,7270,1133,423
-Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50
+Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453,143,295,50,1426,1
 Expected Closing Date	10832,1556
+Expected Delivery Date Expected Contract Signature	13392
 Expected Program Closing Date	3604,7813,971
 Expiry Date	13068
 Expiry Date Signature Issued	12364
+EÆÎ.IZDIE Date	13524
 FINAL VISIT DAY MONTH DATE	582
 FM Action Plan Responsible Due Date	11855
 FORM CONTACT INFORMATION Date	34
@@ -289,17 +311,22 @@ Financing Loan Closing Date Extension Financial	11924
 Financing and Dates The Angola Growth and Inclusion	10779
 First Release Date of Release	7869
 Foundations for Collaborative Regulation Date	5241
+French Publish Date	13669
 Functional Team Date	12654
+G. Date	13390
 GSS Data Processing Division Joyce Date	236
 Geneva Date	7059
 Global Lending Inst. Bank Closing Date	11469
 Goods Dispatch Date	12360
 Goods Receipt Date	12360
 Générale Date de Publication	4420
+H. Date	13390
+H30 Date	13635
 HAS A DATED FIGURE FOR FY2024	1251
 HEALTH DATE	1009
 High-level Policy Dialogue. Date	5328
 Hospital Manager Date	8603
+Hôtel Outlook de Bujumbura Date	13613
 IBRD-89830 Bank Approval Date	10779
 IBRD-92180 Bank Approval Date	10779
 IBRD-93450 Bank Approval Date	10779
@@ -319,6 +346,7 @@ Industry and Competition Republic of South Africa Date	11250
 Information Provided Date	22
 Innovation Date	5241
 Insert Date	13037,148
+Instruments Date	13442
 Interview Date	12609
 Isaac K. Kassouwi Date	2369,5,858,12,133,596,209,218,475
 Isaac K. Kassouwi. Date	2383,127,254
@@ -346,6 +374,7 @@ Kenneth Sackey. Dateline	5932
 Key Dates	2712,1976,1891,254,95,949,2993,525,576,257,39,173,163,121,334
 Kigali Original Site Publication Date	9892,1
 Kingdom of Lesotho. Estimated Board Date	12669
+L'ENQUÊTÉE DONNE LA DATE DE FIN	13300
 LA DATE	3396
 LEB Date	2342
 LICENSING DATE	9458
@@ -372,6 +401,7 @@ MP Minister of Communications and Digital Technologies DATE	11235
 MW-PPPC-502049-CS-QCBS DATE	3678
 Malawi Communications Regulatory Authority Date	13035
 Malawi Date	13185
+Matin Date	13613
 Matthew McNaughton Date	11006,1
 Mbwana Date	13053
 Melchior Koba Date	2851,4539,578,48,103,13,30
@@ -381,11 +411,13 @@ Michèl GUEDENON Date	9044
 Mid-Term Review Date	12980
 Ministry of Digital Due Date	10870
 Mlauzi Legal Solutions Date	13040
+Moderate Date PID Prepared	13523
 Mozambique Approval Date Current Closing Date	2473
 Ms. F. DlaminiKunene Deputy Governor Date	11134
 N Company Name Date of Contact Details	3386
 NA Date	11863
 NAME ADDRESS SIGNATURE DATE	12693
+NCI and Date	13462
 Name Designation Comment Signature Date	12364
 Name Designation Comment Signature Date and Time	12364
 Name Signature Date Environmental Safeguards Officer	11863
@@ -396,8 +428,10 @@ National AI Strategy Date	6440
 National Artificial Intelligence Strategy Date	13010
 National Data Governance Policy Date	7970
 National Data Governance Strategy Date	6609
+National Digital Roadmap Date	13456
 National Procurement Pitso. Date	5449
 National Treasury Date	4633
+NewZimbabwe.com Date	13675
 No. Date ISR Archived DO Rating	11924
 Nov-2020. Closing Date	11965
 Nov-2020. Operation Closing Date	11965
@@ -406,6 +440,7 @@ Numérique Date	10519
 OFFICER OF DISTRICT COURT Date	7845
 OMEGA SHELEMBE ACTING DIRECTOR-GENERAL DATE	11265
 Objet Date	998
+Oct-2025 Estimated Date of Approval	13523
 Oct-2025. Projected Date for Full Disbursement	11965
 Oct-2030 Expected Program Closing Date	3562
 Officer Effective Date	13068
@@ -415,6 +450,7 @@ Opening Date	4896
 Opening Date and Time	12686
 Operation Closing Date	4653
 Original Closing Date	12980
+Oscar Nzohabonayo Date	13638
 Ouest. Date	9906
 P174171. Estimated Appraisal Date	12669
 PIDDC01229. Date Prepared	12426
@@ -422,8 +458,11 @@ PIDIA01308. Date Prepared	12412
 PM CLOSING DATE	11240
 PMCI Date	2342
 PNUD Mauritanie. Date	765
+PROCHAINE DATE DE VISITES VISITE	13300
+PROCHAINE DATE NOMBRE TOTAL VISITE	13300
 PUBLIC SERVICE AND ADMINISTRATION Date Ms	11184
 PUBLICATION DATE	8590
+PURPOSE AND EFFECTIVE DATE	13376
 Pace of Implementation Implementation Start Date Operation	2473
 Parliament Date	8165,4390,9,5,1,3,20,20,25
 Parliament. Date	2576,784,1890
@@ -431,21 +470,27 @@ Passport Issue Date	11276
 Patrice SOKEGBE Date	8196
 Pay Through Netbanking Payment Due Dates	12454
 PoAspiptiliocannt HSigenaltdure Position Held Date Date	736
+Posting Date	13548
 Posting of Authorised Officer of Date Sanitary Authority	7845
 Practicable Date	4896
 Preferred Date	12211
 Printer Computer Specifications DATE QUANTITY	34
 Production Contract Renewal Date N	9124
+Program MS Current Closing Date Dec	13392
 Project Closing Date	11863
 Project’s Effective Date	1264
 Project’s Effective Date. Guinea ESCP	1264
 Proposed Project Implementation Date	1988
 Provincial Manager Date	8603
+Prénom Date	13390
 Public Accounts Committee Date	12628
 Public Published Date	12360
 Publication Date	11957,236,354
 Publish Date	12259,308,23,15
 Published Date	12360
+Publisher Content Marketplace Effective Date	13462
+Purpose And Effective Date	13381
+Q7. Date	13390
 QC. Dates	1993
 RDC Date	11926
 RECEIPT No. Date Received	22
@@ -463,6 +508,7 @@ Regional Manager Date	8603
 Release Description Go Live Date	12491
 René Kim and Vivek Sakhrani Date	12006
 Report Date	9772
+Report Publication Date	13344
 Reporting Date	11250
 Republic of Congo Date	5915
 Republic of Zimbabwe. Opening Date	4896
@@ -477,16 +523,23 @@ Review Date	9855
 Revised Closing Date	12980
 Revised Plan Date	13017
 Revision Date Subject	5678
+RÉFÉRENCES DE LA RÉUNION Date	13390
 Rádio Televisão Cabo-verdiana PUBLISH DATE	12011
 SAVE THE DATE	11424
 SCI. Dates	1993
 SEGUELA. Date	2342
 SFQC. Dates	1993
+SI DATE DONNÉE	13300
+SI L'ENQUÊTÉE DONNE LA DATE DONNÉE	13300
+SIGNATURE DE L'ENQUÊTEUR DATE L'ENQUÊTÉ ACCEPTE	13300
+SIGNATURE DE L'ENQUÊTRICE DATE L'ENQUÊTÉE ACCEPTE	13300
 SM LOBO Date	2342
 SNSC Validation Date	11863
 SODEFOR Date	2342
 SPECIFIED PARTS COMMENCEMENT DATE	12575
+STABILISATEURS ET PROJECTEURS Date	13524
 STANDING PAGE UNDER A CAPTURE DATE	10978
+STEP TIMELINE DATE KEY MILESTONE	13532
 Samira Njoya Date	2257,66,26,72,101,35,11,166,25,1,43,66,5,257,68,81,182,30,7,54,107,211,6,407,93,219,160,4,127,27,125,132,136,144,1,5,7,41,51,236,78,221,189,94,75,24,411,178,400,26,54,40,599,53,1727,1021
 Samira Njoya. Date	2306,1465,134,805,367,185,304,353,52,402,426,16,39
 Samkelisiwe Mavimbela Publication Date	9304
@@ -501,6 +554,7 @@ Settlement Date	4896
 Shelby Brewster Date	6948
 Shipment Receipt Date	12360
 Signature Date	1770,144
+Signature Date. Description Schedule	13331
 Signature of Authorized Representative Date Name	13037
 Signature........................................... Date	1223
 Specified Parts Commencement Date	12575
@@ -528,12 +582,16 @@ Tour Date	12599
 Tourism Dashboard Launch Date	12620
 Tracking Number Date	1988
 Transaction Date	4896
+TÉ DONNÉE MAIS QUE LA DATE	13300
 Télécharger Date	2975
 UNESCO General Conference Date	12565
 USER ID CONTACT INFORMATION Date	34
 Under Implementation. Dates	13017
 Unified Digital Future Date	5241
+Upload Date	13669
 VII- DATE AND VENUE OF NEXT	7452
+VISITE FINALE DATE JOUR MOIS NOM	13300
+VISITE FINALE DATE JOUR NOM	13300
 Version Date	13084
 Version Date Author Remarks	12360
 Villages. Date	8999
@@ -541,12 +599,15 @@ WATER AND LAND REFORM DATE	13024
 WESTERN AND CENTRAL Estimated Approval Date	3456
 Wisdom Donkor Date	9858
 Working Group Dates and Time Deadline for Input	10235
+X Corp Effective Date	13462
 X DATE	3972
+X. RÉTROPLANNING ETAPES Date	13635
 Year Result Date Result Date Result	4653
 Year Value Date Value Date	2712,5165,2993,525,576,257,39,173
 Year Value Date Value Month	4688
 ZIPSS SYSTEM Designation Comment Signature Date	12364
 ZRCP Date	1988
 Zimbabwe Closing Date	4896
+Zimbabwe Date	13639
 Zimbabwe Record Date for Econet Shareholders	4896
 Zimbabwe Revenue Authority Closing Date	4896

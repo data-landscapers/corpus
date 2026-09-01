@@ -47,6 +47,7 @@ Bank EMDE Emerging Market and Developing Economies	2775
 Basic Emergency Obstetric and Newborn Care	9766
 Beauty Emefa Narteh	7457
 Botswana Health Emergency Preparedness	12583
+Burundi Pays Emergent	13668
 Bénin’s Emerging Position	10887
 C. Emezue	11140
 CBC EMEA Ltd	3862
@@ -54,10 +55,13 @@ CBC Emea	3862
 CBC Emea Ltd	3862
 CERC Contingent Emergency Response Component CHW	10829
 CERC Manual and Emergency Page	10964
+CERT Computer Emergency Response Team CICO	13312,2
 CERT Computer Emergency Response Team CIO	12917
 CERT Malawi Computer Emergency Response Team	12240
 CERT National Health Cybersecurity Emergency Response	12240
 COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
+COVID-19 Contingent Emergency Response Component CPF	13331
+COVID-19 Emergency Cash Transfer	13332
 Called the Zambia Emergency Bridge for Response Application	10374
 Capacity Constraints Are Emerging Further	7762
 Center for Security and Emerging Technology	5257
@@ -67,6 +71,7 @@ Charge of Emergency Management MINALOC Ministry of Local	12328
 Charge of Emergency Management MINICT Ministry of ICT	12328
 Children's Emergency Fund ACRONYMS	12947
 Citizen Engagement CERC Contingency Emergency Response	11549
+Claudine GIFWANDI Chris-Lee KANYANGE Emelyne GIRUKWISHAKA	13300
 Co-Head of Emerging Market Alternative Credit	9061
 Combat Emerging Cybercriminal Threats	6426
 Commission Nationale. Emet	547,3,18,20
@@ -85,11 +90,14 @@ Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
 Computer Emergency Response Teams	395,5137,145,5087,147
 Consumer Confidence Emerging Technologies	7548
+Continency Emergency Response Component	13331
 Contingency Emergency Reconstruction Component	1228
+Contingency Emergency Response	13331
+Contingency Emergency Response Comment	13392
 Contingency Emergency Response Component	2989,7779,195,1002
 Contingent Emergency	1284
-Contingent Emergency Response	1284,3369,2275,4489,554,204
-Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612
+Contingent Emergency Response	1284,3369,2275,4489,554,204,1156
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -146,12 +154,14 @@ EMERGING RISKS Fraud-detection	11156
 EMERGING TECHNOLOGIES Mikumi Hall	2275
 EMERGING TECHNOLOGIES POLICY	7548
 EMERGING TRUST EQUATION	11138
+EMERUSENGEAlice	13390
 EMEs and LIDCs	12948
 ESPAI Emergência de Saúde Pública	11376
 ET Emerging Ministry	7548
 Eme Ekpe Essien From Uyo	7664
 Emebet Melese	9407
 Emeka Afigbo	8299
+Emeka Anuforo	13429
 Emeka Ike	8440
 Emeka Okonkwo Johannesburg	3546,6329
 Emelia Sithole-Matarise	4057
@@ -174,14 +184,17 @@ Emergence of Mobility and Data	11854
 Emergence of New-Collar Skills	6948
 Emergencias	4209
 Emergencies	3583,5556,3365
+Emergencies Cluster	13349
 Emergencies Management Information System	9139
 Emergencies Relatório Anual da OMS	10776
 Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151,92,152,37,443,513,48,308,202,18
 Emergency Action	6947
+Emergency Action Plan	13331
 Emergency Amendments	3861
 Emergency Care Find Learn Get	9429
-Emergency Cash Transfers	10963,1,21
+Emergency Cash Transfers	10963,1,21,2347
 Emergency Cash Transfers Households	10964
+Emergency Cluster	13349
 Emergency Communications Centres	7110
 Emergency Contacts	1988
 Emergency Continuity	3503
@@ -208,12 +221,13 @@ Emergency Operations Center ENSAN II	10776
 Emergency Operations Centre	13080,15
 Emergency Operations Coordination	10776
 Emergency Operator	3503
-Emergency Preparedness	11417
+Emergency Preparedness	11417,2256
 Emergency Preparedness Plan	12253
 Emergency Preparedness Strengthened Eswatini	13163
 Emergency Preparedness and Response	1988,10988,187
 Emergency Reboot of Servers	9123
 Emergency Recharge Data Promotion	11259
+Emergency Resource Planning System	13369
 Emergency Response	12977,65
 Emergency Response Component CERT Computer Emergency	1264
 Emergency Response Ministry of Foreign Affairs	463
@@ -224,6 +238,7 @@ Emergency Response Rooms	6947
 Emergency Response Services	11129
 Emergency Response Team	587,10277
 Emergency Response Teams	318
+Emergency Road Rehabilitation Programme	13685
 Emergency Services Eswatini Royal Police Services	11131
 Emergency Severity Index	8376
 Emergency Support for Judicial Assistance	12668
@@ -237,7 +252,7 @@ EmergencyDigest.com	4738
 Emergent	4259,180,7775
 Emergent du Sénégal	11529
 Emergentes	2816
-Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10
+Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15,170,530,2,353,4,41,42,59,43,45,257,261,108,10,279
 Emerging A1- Classification	7548
 Emerging A1- Framework	7548
 Emerging A1- Guidelines	7548
@@ -312,6 +327,7 @@ Emerging Era of Digital Identities	1243
 Emerging Evidence and Questions	10852
 Emerging Evidence and Questions Bringing	10852
 Emerging Exchequer	7548
+Emerging Fields	13666
 Emerging Foreign Affairs	7548
 Emerging Foreign Affairs Emerging Technologies	7548
 Emerging Framework. Technologies Fluency A2- Number	7548
@@ -329,6 +345,7 @@ Emerging Innovation Act	7548
 Emerging Innovation Agency Technologies	7548
 Emerging International Office	7548
 Emerging Issue	6832
+Emerging Issues	13359
 Emerging KNCHR	7548
 Emerging Kenya Revenue	7548
 Emerging Kenya School	7548
@@ -339,11 +356,12 @@ Emerging Legal Frameworks Register	3861
 Emerging Legislation	5244,2304
 Emerging Lessons	10768
 Emerging MICDE	7548
+Emerging Market	13685
 Emerging Market and Developing Econ-	2775
 Emerging Market and Developing Economies	2775
 Emerging Market and Developing Economies ERM Enterprise	6946
 Emerging Market and Developing Economies Electricity Supply	11136
-Emerging Markets	226,3703,3227,597,3557
+Emerging Markets	226,3703,3227,597,3557,2021
 Emerging Markets . Redmond	11140
 Emerging Markets Economies	1828
 Emerging Markets Telecommunication Services	11993
@@ -386,7 +404,7 @@ Emerging Tech	7548,4666,27
 Emerging Tech Crosswalk	1422
 Emerging Tech Guidance Note	6973
 Emerging Tech Tech	7548
-Emerging Technologies	958,285,571,955,40,1052,667,279,437,32,1156,15,550,550,1,1,1245,106,1252,19,1781,4,254,4,26,116,156,406,177
+Emerging Technologies	958,285,571,955,40,1052,667,279,437,32,1156,15,550,550,1,1,1245,106,1252,19,1781,4,254,4,26,116,156,406,177,261,101,94
 Emerging Technologies A- Legal Instrument Framework	7548
 Emerging Technologies A1- Framework	7548
 Emerging Technologies A2-Percentage	7548
@@ -551,9 +569,11 @@ Emery Assogba. Dans	4684
 Emery Assogba. Il	4684
 Emetteur	4403
 Emetteur- HF	998
+Emetteurs de Monnaie Electronique	13452
 Enhanced Health Emergency Prevention	10768
 Equipment and Emerging Costs	6993
 Establishment of LTA Computer Emergency Response Team	4610
+Etablissements Emetteurs de Monnaie Electronique	13452
 Exercícios de Emergência	11376
 Eye Emergency	1009
 FDA Emergency Use Authorization	4349
@@ -563,7 +583,9 @@ Fire and Emergency Services	13093
 Foreign Affairs Emerging	7548
 Foreign Affairs Emerging Technologies	7548
 Framework. Emerging	7548
+Francine GAHIMBARE Emelyne JURURYIZA Florence GAHUNGU	13300
 Fundo Nacional de Emergência	1265
+GAHIMBARE Emelyne	13390
 GM of Telco EMEA	2984
 GS Health Emergency HE Health Emergency	11417
 Gabon's Emerging Digital Economy Strategy	3291
@@ -597,6 +619,7 @@ ICANN’S Emergency Back-end Registry Operator	3502
 ICT Principal Secretary for Digital Economy and Emerging	9333
 ICT for Emerging Regions	2816
 ICTA Emerging Infrastructure Energy Source Disclosure	7548
+ICTs Emerging Technologies Technologies	13346
 IFC COVID Emergency Loan	500
 IFC Real Sector Emergency COVID Facility	687
 IFC Real Sector Emergency COVID-19 Facility	500
@@ -659,10 +682,13 @@ Multi-Hazard Emergency Simulation	13042
 NAAIP Founder Professor Emeritus Peter Akinsola	8710
 NACOSTI Emerging	7548
 NATIONAL AI AND OTHER EMERGING TECHNOLOGIES	7548
+NDAYIZEYE Emelyne NDAYIZEYE Emmanuel NDUWIMANA Jean	13300
 NERCHA National Emergency Council	12975
 NETP National Emergency Telecommunications Plan NNI	3604
 NIMC Emerges Nigeria’s Digital Signature Authority	7371
 NVIDIA VP EMEA	2607
+NZEYIMANA Emelienne	13390
+NZITONDA Emelyne	13390
 Nacional de Emergência JEE Joint External Evalution	11376
 Nairobi City County Emergency and Fire Department	6946
 Nairobi Emerging Technologies Infrastructure	7548
@@ -728,6 +754,7 @@ Presidents Emergency Plan for AIDS Relief	12240
 President’s Emergency Plan for AIDS Relief	7187,3415
 Private ISPs Emerging Technologies	7548
 Procurement Law. Emergency	10829
+Professor Emeritus Paul Henry Gundani	13551
 Project Management Contingent Emergency	11417
 Project Management Contingent Emergency Response Component	11417
 Protection Emerging Technologies Year	7548
@@ -739,6 +766,7 @@ Public Health Emergency Operations Center	12003
 Public Health Emergency Operations Centers	11417
 Public Health Emergency Operations Centers and Outbreak	4260
 Public Sector Emerging Technologies Framework	12453
+Période Nombre des EME Transaction	13452
 RIR Services. The Emergency Operator	3503
 Real Sector Emergency	500
 Real Sector Emergency COVID Facility	687
@@ -797,6 +825,8 @@ U.S. President's Emergency Fund for AIDS Relief	12334
 U.S. President’s Emergency Plan for AIDS Relief	10641
 UN Office for Digital and Emerging Technologies	7112,3894,1
 UN's Emergency Telecommunications Cluster	1887
+UN-led Drought Emergency-Cash Transfers	13332
+UNICEF United Nations International Children's Emergency	13420
 Uganda AI and Emerging Technology Strategy	6132
 Uganda Computer Emergency Response Team	9695
 Uganda’s AI and Emerging Technologies Strategy	6132
@@ -808,6 +838,7 @@ United Nations Office for Digital and Emerging Technologies	11057
 United States President's Emergency Plan	12944
 United States President’s Emergency Plan for AIDS	5165
 Vantage EMEA	2539
+Vision Burundi Pays Emergent	13433
 Women Emergency Response Rooms	6947
 Women and WITH AN EMERGENCY	10977
 Workshop United Nations Office for Digital and Emerging	9942
@@ -817,6 +848,8 @@ World Bank-funded Health Emergency Preparedness	11590
 World Bank’s Zambia Health Emergency Preparedness	1867
 Yemen Emergency Electricity Access Project	11572
 Youth Emerging	7548
+ZNPHI Director Emergency Preparedness Response	13596
 Zimbabwe Emergency Food Production Facility	12507
+Zimbabwe Emergency Food Production Project	13475
 Zimbabwe's President Emerson Mnangagwa	5411
 Zimbabwe’s Emerging Entrepreneurs	3016

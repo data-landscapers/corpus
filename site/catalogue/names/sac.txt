@@ -49,7 +49,9 @@ Centenary Sacco Society Limited Data Controller	7167
 Chai Sacco Society Ltd Data Controller	7167
 Chai Sacco Society Ltd Data Processor	7167
 Concurrence SACE	10975
+D'UN SACHET SRO OU DU LIQUIDE	13300
 DAIMA SACCO Data Controller INST-76693881789 NAIROBI	7167
+DE SACHET SRO OU DE LIQUIDE	13300
 DEVCO REGULATED NON-WDT SACCO SOCIETY LTD	7167
 DT SACCOs	2775
 DUMISHA SACCO LTD. Data Controller INST-104992C447D	7167
@@ -67,6 +69,7 @@ GEMA and SACEM	9739
 Goldman Sachs	1363,3798,659,1969
 Goldman Sachs and Intel. Fusepay	4056
 High High SACCOs	12444
+Hon. J. Sacco	13591
 Human Capital Operations Linda Sacolo	11131,3
 Initiative SACCO Savings and Credit Cooperative Societies	2775
 JP Morgan and Goldman Sachs	4447
@@ -83,6 +86,7 @@ Lukasi Sachurusi	3274
 Lulua Sachicola OM	10784
 Malawi SACCO Savings and Credit Management of MRA	13053
 Medical Aid Scheme SACU Southern African	12923
+Monitoring SACMEQ Southern Africa Consortium for Monitoring	13310
 Ms. Fatoumata Sacko	6938
 NBFIs NPLs SACU SADC SDRs SME	11131
 O SACS	11072
@@ -92,6 +96,7 @@ PDM SACCOs	3990
 POS RGTS SACU SACCOs WB Automatic	12701
 Performance Indicators for Deposit Taking SACCOs	2775
 Príncipe PrevAnteriorHOMENAGEM AO PADRE HORÁCIO SACRAMENTO	6837
+Quality SACMEQ. Standard	13310
 REPS RTGS SACU SADC SARB SDRs	11134
 Resolution System SA South African SACCL	11250
 Risk-Sharing Facility SACCO Savings and Credit FSP	12297
@@ -100,9 +105,9 @@ SACAIR	4253
 SACCO	418,585,4198,906,1901,1730,561,703,1295,137
 SACCO MFI	418
 SACCO. A VUP	12434
-SACCOS	940,6823
+SACCOS	940,6823,5625
 SACCOS CONFERENCE Selous Hall	2275
-SACCOs	418,522,1335,500,1391,635,400,54,1683,1070,66,1664,561,31,1901,56,10,112,25,10
+SACCOs	418,522,1335,500,1391,635,400,54,1683,1070,66,1664,561,31,1901,56,10,112,25,10,974
 SACCOs and MFIs	2537
 SACCOs and ROSCAs	940
 SACCOs. Establishment	940
@@ -110,6 +115,8 @@ SACCOs. Financial Inclusion of MSMEs	940
 SACCOs. Over	940
 SACCRA	11198
 SACF Proposes	4732
+SACHET	13300
+SACHET SRO	13300
 SACHIN Bajla DMCC	2342
 SACIT	11221
 SACJ38	8603
@@ -135,7 +142,7 @@ Sacco Societies Regulatory Authority	6938
 Sacco Societies Regulatory Authority SBR Statistical	2775
 Sacha Poignonnec	415
 Sachurusi	3274
-Sacks	11154
+Sacks	11154,2231
 Sacramento	5557
 Sacramento Neto	7882,3600,196,18
 Sacramento and San Diego	7256
@@ -144,8 +151,10 @@ Service SACL System Access Control List	13185
 Service SACU Supporting Southern African Customs	11196
 Sisters of Sacred Hearts of Jesus and Mary	11207
 Subscriber Line DT SACCOs Deposit Taking	2775
+Tampon Sac	13375
 Umaro Embaló Caramba Saco Umaro Demba	11544
-Umurenge SACCO	12434
+Umurenge SACCO	12434,984
 Umurenge SACCOs	12434
+Umwalimu SACCO	13418
 VSLAs and SACCOs	12297
 Zambia and SACU	13108

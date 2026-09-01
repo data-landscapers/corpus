@@ -5,10 +5,12 @@ Blantyre Prisons	12174
 Botswana Prisons Service	3382,505,1767
 Bungoma GK Prison Health Centre Data	7167
 Cambridge Prism Glob Ment Heal	8376
+Caractéristique Examen du Prise	13300
 Charly Olivier Lobe Priso	10972
 Chitipa Prisons	12174
 Convicted Prisoners	2775
 Correctional and Prison Services	11289
+DANS LA PRISE DE DÉCISION Participation	13300
 Daily Average Population of Prisoners	2775
 Description Prisons	3382,2272
 Digital Prisoners	4528,7984
@@ -29,10 +31,15 @@ Malawi Prisons Service	12174,906,15
 Malawi Prisons Service Statistics	12174
 Maula Prisons	12174
 Metrics Network PRISM Performance of Routine Information	766
+Mms Prise	13524
+Monde and Prisa Media432	13461
 Mzuzu Maximum Prison	12174
 National Prison Service	6811
 PRISCA	7800
+PRISE DE DÉCISION SUR LA PLANIFICATION	13300
 PRISE EN CHARGE DES OPÉRATIONS ET	10711
+PRISE EN CHARGE DU PALUDISME CHEZ	13300
+PRISER	13300
 PRISM	766,446,3464,566,5636,718
 PRISM Users' Kit. RESULTS	10878
 PRISM&volume	5242
@@ -44,18 +51,21 @@ PRISMA-style	7790
 Prisca Mungla Data Controller INST-206561C3E2F	7167
 Prisca Tessembaye	5545
 Prischina Dorlicka Poushquine Bianiephe	4135
+Priscila Simukonda Director	13392
 Priscilla Ampadu	7048
 Priscilla King Gray Public Service Center	11909
 Priscilla Muthoora Thakoor	4894
 Priscilla Owusuaa Opoku and Kim Sarup	2714
+Priscilla Sadomba Head Investor Relations and Communications	13634
 Prisco Voice Vox Limited Vulcable WhaiNot	8530
-Prise	1933,76,2012,546,2392,2539,626,752
+Prise	1933,76,2012,546,2392,2539,626,752,2424,41,183
 Prise de Décision	9276
 Prism	13185
 Prism Ultimate	13185
 Prisma Construction Company	5394
 Prisma Videos	2945
 Prison	2775,9451
+Prison Administration	13363
 Prison Service	972
 Prisonniers	10826
 Prisons	2775,92,515,201,304,1767,7351
@@ -72,5 +82,7 @@ Serviços Prisionais	6530
 Suleja Prison	10560
 Tania Priscilla Begazo Gomez	961
 Treatment of Prisoners	12984
+Zimbabwe Prisons and Correctional Service	13438
 Zimbabwe Prisons and Correctional Service Band Seke	1154
+Zimbabwe Prisons and Correctional Service ZRP Zimbabwe	13420
 Zomba Prison	12174

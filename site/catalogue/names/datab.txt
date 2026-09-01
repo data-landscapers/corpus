@@ -58,7 +58,7 @@ Database Administration	9437,3600
 Database Administrators	6832
 Database ID	6423
 Database Maintenance	11129
-Database Management	11129,1020
+Database Management	11129,1020,1207
 Database Management Department	7159
 Database Management System	13037
 Database Management and Administration	12345
@@ -76,7 +76,7 @@ Database Verification	2307
 Database of Information Technology	12982
 Database-heavy	6432
 Database. Retrieved	1243
-Databases	970,1548,8099,97,1447
+Databases	970,1548,8099,97,1447,1195
 Databases and Data	395
 Databasex	10812
 Datable	2977,1987,78,780,1012
@@ -88,6 +88,7 @@ Diagram DATABASE	6423
 Digital ID and Maisha Integrated Database	12165
 Disaster Risk Management Emergency Events Database	10763
 DisclaimerThe Treaty Body Database	11765
+ECZ Database	13477
 EMIS Database	11860
 EXECUTIVE SUMMARY The Global Findex Database	10977
 Electronic Journals and Scientific Databases In Ministry	12325
@@ -97,12 +98,14 @@ Executive Order IN-4 Establish CNI Database	11857
 Export Import Database	11579
 Extent Databases Contain Sufficient Information	11233
 External Data Sources DIMAMO Operational Database	8604
+FAOSTAT Statistical Database	13312,2
 Family Database	8891
 Findex Database	10977,1272
 Foundational ID. National ID Database	12533
 Full Contents of The Global Findex Database	10977
 GIS Addressing Database. At the Local Government	11129
 GSMA Tax Database. Côte	10932
+Global Database	13624
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
@@ -123,6 +126,7 @@ ID4D- Global Findex Database	10714
 ID4D-Global Findex Database	10714
 IEA-IRENA Joint Policies and Measures Database	12261
 IMF World Economic Outlook Database	12385
+IMF World Revenue Longitudinal Database	13624
 IN-1 Develop CNI Database	11857
 IRENA Public Investments Database	11572
 Incident Database	9968
@@ -194,9 +198,11 @@ Service IBM DB2 IBM's Database	13185
 Seychelles National Population Database	10714
 Smart National Transport Databank	10603
 Software Development and Database Administration	12961,76
+Statistical Database Relevant	13418
 Stears Funds Database	8612
 TERRORISTS WITH NIMC DATABASE	6871
 Tanzania National ID Database	10714
+Tax Policy Reform Database	13624
 TiVa Database	8891
 TiVa Database Graphique	8891
 Transaction Database	11952
@@ -214,10 +220,14 @@ WID.World World Inequality Database WJP World	10759,78,1052,451
 WIPO Statistics Database	11883
 World Bank DataBank	11004
 World Bank Database	11863
+World Bank Global Electrification Database. Page	13331
 World Bank Global Findex Database	1828,10472
 World Bank Global Findex Database and IMF	1828
 World Bank Group DataBank	10768
+World Bank Informal Economy Database	13624
+World Bank UPBEAT Database	13624
 World Bank's Global Findex Database	4807,7493
 World Bank’s Global Findex Database	7156,74
 World Economic Outlook Database	12385
+World Economic Outlook Database. IMF	13332
 World Revenue Longitudinal Database	6593

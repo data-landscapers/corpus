@@ -13,7 +13,9 @@ FHIR Health Information System HIMSS Health	1009
 FHIR Home Summary Deployment Downloads Artifacts	6666
 FHIR Implementation Guide	10031
 FHIR Nomenclature Health Documents Documents	1009
+FHIR R5	13471
 FHIR RFC2616 RFC4627 RFC6585 RFC5424 RFC3339	1009
+FHIR Shorthand	13471
 FHIR-based	12458
 FHIR-compliant	730
 FHIR-native	13160
@@ -27,9 +29,13 @@ Fhatuwani Mutuvhi	11170
 Fhigherlifefoundation.com	42
 Fhow-foreign-domains-compromise-digital-identity	4690
 Fhululani Peter Netshipale	2626
-HL7 FHIR	1009,2376,5218,1428,157,740
+HL7 FHIR	1009,2376,5218,1428,157,740,2750
 HL7 FHIR Basic Patient Privacy Consent	1009
+HL7 FHIR IG Publisher	13471
+HL7 FHIR Implementation Guide	13471
 HL7 FHIR R4 Tracking	1009
+HL7 FHIR R5	13471
+HL7 FHIR. Des	13568
 HL7 FHJR	1009
 HNSF AND FHIR	1009
 HNSF and FHIR	1009

@@ -1,4 +1,5 @@
 AAU School of Information Science	1813
+ABSA UP Chair of Data Science	13477
 AFRICAN CENTRE FOR DATA SCIENCE	7167
 AI AI Scientific Committee	11135
 AI and Data Science. CONCLUSION The State	11277
@@ -9,7 +10,7 @@ AI. Science	9739
 ASM Science Journal	6948
 ATLANTIS LIFE SCIENCE LIMITED Data Controller	7167
 ATLANTIS LIFE SCIENCE LIMITED Data Processor	7167
-AU Chief AI Scientist	4528,7984
+AU Chief AI Scientist	4528,7984,1031
 AU Science	1814
 Academia and Scientific Networks	3861
 Academy of Science	10451
@@ -40,6 +41,7 @@ African Scientific Journal	11593
 Africa’s Science and Technology Consolidated Plan of Action	12675
 Agribusiness Forum STEM Science	12329
 Agricultural Research Council ASSAf Academy of Science	5246
+Agriculture and Natural Sciences	13368
 Alliances for Science	643,1
 American Behavioral Scientist	2096,9994
 American Political Science Review	2096,5790
@@ -60,10 +62,12 @@ Art and Science of Community Relations	11006
 Artificial Intelligence and Bachelor of Science	8839
 Asian Journal of Social Science and Management Technology	6948
 Atif Saleem. IGI Global Scientific Publishing	6948
+Atmospheric Science	13686
 Atomic Scientists	2518,2158
 Authority NCST Rwanda National Commission of Science	718
 Authority RSTP Royal Science and Technology Park	12444
 Availability of Science and Technology Parks	12389
+BINDURA UNIVERSITY OF SCIENCE EDUCATION	13368
 BRICS Science	6480
 BRICS Science and Innovation Initiatives India and South	6480
 BSc Information Science BSc Computer Science	12361
@@ -77,8 +81,8 @@ Bachelor of Data Science Honours	13089
 Bachelor of Medical Laboratory Science	13078
 Bachelor of Nursing Science	12972,106
 Bachelor of Political Science	6946
-Bachelor of Science	6832,114,1893,44,3446,78,268,286,76,41,107
-Bachelor of Science Honours	6832
+Bachelor of Science	6832,114,1893,44,3446,78,268,286,76,41,107,183
+Bachelor of Science Honours	6832,6536
 Bachelor of Social Science Degree	11131,3
 Background Open Science	5246
 Background The EU-South Africa Science and Technology	11288
@@ -88,7 +92,7 @@ Big Data and Data Science	11424
 Bindura University of Science Education	520,4008,4869,3115
 Botswana Academy of Sciences	12544
 Botswana Centre for Nuclear Science and Technology	5444
-Botswana International University of Science and Technology	2553,1507,8505,13
+Botswana International University of Science and Technology	2553,1507,8505,13,891
 Botswana School of Business Sciences	12612
 Botswana University of Information Science and Technology	12582
 Bremen International Graduate School of Social Science	2702
@@ -102,6 +106,7 @@ Business and Social Sciences	5349,3780
 CEO of Data Science Nigeria	12037
 CHC Council for Scientific and Industrial Research COBIT	1009
 CHIPS and Science Act	11135
+COMPUTER SCIENCE SYLLABI	13356
 Calcul Scientifique	1183
 Cancer Science	12926
 Caractère Scientifique	12
@@ -143,11 +148,12 @@ Commissioner for Science and Digital Economy Dr Frank	10229
 Communication Sciences	7886
 Communication Sciences and Techniques	11658
 Community and Health Sciences Faculty	8022
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72,420,39,7,268,18,61,72,100,35,60,10,6,41,107,171,12
 Computer Science Department	8606,3755
 Computer Science Doctor of Philosophy	12407
 Computer Science Education	13078
 Computer Science Information Systems	10060
+Computer Science Master	13575,1
 Computer Science Review	8603,2
 Computer Science Systems	6832
 Computer Science and BSc	12361
@@ -156,11 +162,14 @@ Computer Science and Informatics	6832
 Computer Science and Information Systems Dept. Economics	10123
 Computer Science and Technology	9128
 Computer Science and Telecommunication	6832
+Computer Science. Learners	13356
 Computer Science. Other UNESWA	13078
 Computer Science. Plans	12407
+Computer Science. Together	13356
 Computing LAST Lesotho Academy of Science and Technology	12675
 Consumer Science	12975
 Contracts and Science	10157
+Cosmas Mulenga HOD Social Science	13392
 Council for Natural Scientific Professions SA-EU South	5246
 Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047,1680,419,40,71,17,624,9,11,93
 Council of Ministers Department for Science	11135
@@ -270,6 +279,7 @@ Elsevier Science	5700
 Encouraging Responsible Innovation and Scientific Research	2958
 Engineering Sciences	9129
 Environmental Science	11006,2179
+Environmental Science and Natural Resources Management	13368
 Environmental Science and Planning	13078
 Establish Technical and Science	12356
 Eswatini Inaugurates Space Science Indaba	13101
@@ -287,6 +297,7 @@ European Scientific Journal	9129
 Executive Summary Scientific	5246
 FEMALE STUDENTS AT SCHOOL OF SCIENCE	12358
 FORENSIC SCIENCE SERVICES	12984
+Faculty of Business and Economic Sciences	13401
 Faculty of Computational Science and Informatics	10384
 Faculty of Computational Sciences	6936
 Faculty of Computer Sciences	7955
@@ -300,11 +311,15 @@ Faculty of Science and Engineering	4058
 Faculty of Social Sciences	13078
 Faculté des Sciences	1183,5818
 Faculté des Sciences de Gabès	1183
+Facultés des Sciences Appliquées FSEA	13377
+Facultés des Sciences Economiques	13377
 Federal Ministry of Science	11126
 Fields Social Sciences	1154
+Forensic Science	13474
 Forensic Science Laboratory	7845
 Forensic Science Services N	12984
 Foreword The National Open Science Policy	5246
+Foundations of Computer Science	13356
 Founder and Scientific Director	3654
 Framework Science and Technology Development. Human Capital	12512
 Future of Science and Science	5246
@@ -356,9 +371,11 @@ IASP International Association of Science Parks ICAO	2775
 ICPC’s Marine Scientific Adviser	3513
 IGI Global Scientific Publishing	5349,1599,2181
 INTERNATIONAL JOURNAL OF RESEARCH AND SCIENTIFIC	12508
+INTRODUCTION The Computer Science	13356
 Implement Sci	1219,7157,3870
 Implement Sci Commun	8376
 Implementation Science Communications	2093
+Improving Science	13314
 Inaugural Eswatini Science	12971
 Inaugural Research Science	1154
 IndabaX Hackathon Computer Science Society Staff	12361
@@ -374,6 +391,7 @@ Innovation Science and Economic Department	10819
 Innovative and Scientific Conference	8288
 Institut Supérieur des Sciences	10881
 Institut des Sciences	3604
+Institut des Sciences Agronomiques du Burundi	13290
 Institute of Communication Sciences and Techniques	3604
 Institute of Mathematical Sciences GI-KACE Ghana-India Kofi	4126
 Int J Arts Humanit Soc Sci	9739
@@ -416,6 +434,7 @@ Koranteng-Acquah and Leonelli Data Science Journal DOI	12090
 Korean Ministry of Science	11135
 Kwame Nkrumah University of Science and Technology	5227,719,3474,10,131,73,907,2344
 Kwame Nkrumah University of Science and Technology KPI	4126
+LA RECHERCHE SCIENTIFIQUE	13478
 LA RECHERCHE SCIENTIFIQUE ET TECHNOLOGIQUE	7670
 Lead Scientific Adviser	8529
 Lecture Calcul Histoire Géographie Sciences Grammaire	10847
@@ -433,6 +452,8 @@ London School of Economics and Political Science	5257,5892
 Luanda Science and Technology Park	6881
 L’Université Nationale des Sciences	10855
 MALI ET DE LA RECHERCHE SCIENTIFIQUE	12
+MANICALAND STATE UNIVERSITY OF APPLIED SCIENCES	13368
+MARONDERA UNIVERSITY OF AGRICULTURAL SCIENCES	13368
 MCTES Ministry of Science	4214
 MINISTRY SCIENCE	10889
 MIT International Science and Technology Initiatives	11909
@@ -456,17 +477,20 @@ Management Science	8130
 Management Sciences	9237,3852
 Management and Political Sciences	8130
 Marketing Science	9129
+Marondera University of Agricultural Science and Technology	13475
 Masinde Muliro University of Science and Technology	6946
 Master AI Innovation Science Teachers	12512
 Master of Computer Science	12926,25
-Master of Science	1154,3882,279,1517,114,6026,102,4
+Master of Science	1154,3882,279,1517,114,6026,102,4,290
 Master of Science Degree	12951
 Materials Science and Engineering	7278,1326
+Math STI Science	13312,2
 Mathematics and Science	7695,5280
 Mathematics and Science Instruction	12975
 Maths STI Science	4126
 Mbarara University of Science	11829
 Medical Laboratory Science Council of Nigeria	7409
+Medical Laboratory Sciences	13368
 Medical and Health Sciences	1554
 Medicine and Clinical Sciences Medicin3e5a	1154
 Medicine and Health Science	12199
@@ -484,11 +508,15 @@ Minister of Scientific Re	8505
 Minister of Scientific Research and Innovation	8506
 Minister of Technology and Science	7950,4406
 Minister of Technology and Science Felix Chipota Mutati	6187
+Minister of Technology and Science Felix Mutati	13539,30,38
+Minister of Technology and Science Foreword Government	13346
+Minister of Technology and Science Foreword National Digital	13347
 Minister of Technology and Science of Zambia	7793,157
-Ministry of Higher Education and Scientific Research	4762,1985,146,4055
+Ministry of Higher Education and Scientific Research	4762,1985,146,4055,2364,2
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher Education and Scientific Research. About	12133
 Ministry of Higher and Tertiary Education Innovation Science	4528
+Ministry of National Education and Scientific Research	13331,18
 Ministry of Science	2473,4007,4300,2006
 Ministry of Science and ICT CIFAR	11135
 Ministry of Science and Technology	761,10374,1221
@@ -496,11 +524,15 @@ Ministry of Science and Technology Permanent Secretary	8294
 Ministry of Science and Technology Role and Function	12356
 Ministry of Science and Technology and Higher Education	12786
 Ministry of Sciences	12786
-Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97
+Ministry of Technology and Science	1965,2601,651,984,1060,171,347,99,85,1119,619,514,1914,227,97,891,1,1,1,83,49,42,15,71,56
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Ministry of Technology and Science M&E	12356
+Ministry of Technology and Science MoFNP Ministry of Finance	13345
 Ministry of Technology and Science Permanent Secretary	12126
+Ministry of Technology and Science Submission	13336
+Ministry of Technology and Science and Obrizum Group Ltd	13539
 Ministry of Technology and Science and SZI	12356
+Ministry of Technology and Science and ZICTA	13569
 Ministry of Technology and Science. Relevance	4528
 Ministry of Technology and Science. The Ministry	12356
 Mission Contact Us Department of Computer Science	12361
@@ -511,6 +543,7 @@ Mozambique. Glob Health Sci Pract	11596
 Muhimbili University of Health and Allied Sciences	1261,7353,3009
 NACOSTI National Commission for Science	2775
 NASA's Planetary Science Division	8787
+NATIONAL UNIVERSITY OF SCIENCE AND TECHNOLOGY	13368
 NCST National Commission for Science and Technology NRIS	12240
 NEPAD Office of Science and Technology	12675
 NSTIS National Science	12786
@@ -518,7 +551,7 @@ NTV and Uganda's Minister of Science	6258
 NYAN TO SPECIAL SCIENTIFIC MEETING	10581
 Namibia University Of Science	12478
 Namibia University of Science	6636
-Namibia University of Science and Technology	5036,4317,520,2484,568,1,20,36,66,169
+Namibia University of Science and Technology	5036,4317,520,2484,568,1,20,36,66,169,252
 Namibia University of Science and Technology Please	12357
 Namibia'. Science Granting Councils Initiative	5036
 Namibia's University Of Science	12478
@@ -531,6 +564,7 @@ National Commission for Science and Technology	1554,2885
 National Commission of Science and Technology	1154
 National Company of Science and Technology Parks	12786
 National Council for Science and Technology	12358
+National Data Science Training Hub	13426
 National Deep Science Institute	4126
 National Directorate of Science and Technology	12819
 National Ethics Committee of Life Sciences and Health	10919
@@ -546,10 +580,11 @@ National Science and Technology Council	1554
 National Science and Technology Policy	12544,397
 National Space Science and Technology Policy	13106
 National University of Science	7062
-National University of Science and Technology	1154,400,2974,7984
+National University of Science and Technology	1154,400,2974,7984,882,7,74
 National University of Science and Technology Office	1154
 National University of Science and Technology Online Grants	1554
 National University of Science and Technology The RCZ	1154
+Natural Science Education	13477
 Natural Sciences	1554
 Natural Sciences Journal	2093
 Natural and Computational Science	12199
@@ -565,10 +600,11 @@ Nomalungelo Gina. Science	7498
 Nsereko Science	9781
 Nuclear Science and Technology	5755,1
 Number and Science Policy	12356
+Nursing Science	13368
 OECD Science	7548
 Office of Science and Technology Policy	5773,1017,3655
 Office of Science and Technology Policy. X. Review	5773
-Open Journal of Social Sciences	11927
+Open Journal of Social Sciences	11927,1491
 Open Science	5246,2252,3980
 Open Science Advisory Board	5246
 Open Science Foundation	4676
@@ -598,7 +634,9 @@ Plant Science	7759
 Platform Digital Infrastructure for Social Science	8436
 Police Science	13078
 Political Science	11682,326
+Population Sciences	13454
 Portugal. SCITEPRESS	10780
+Post-Basic Bachelor of Science	13368
 Presidency and Department of Science	11940
 Primary Science	11860
 Principal Investigator and Scientific Director of RAIL	5227
@@ -610,15 +648,18 @@ Provisions Enabling Open Science	12389
 PubMed Web of Science	11028
 Public Administration and Political Science	6946
 Public Directorate of Science	1161
+Public Health. College of Social Science	13368
 Public Sector for AI and Data Ministry of Science	11135
 RELATED Tech and Science	3962
 RESEARCH SCIENCE	12971
 RMRS-D RS SAD SCIMR SCRP SDSI	10858
 ROYAL SCIENCE AND TECHNOLOGY PARK	12971
 RSTP Royal Science and Technology Park	12911
-Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930,104,184,796,338
+Recherche Scienti-	13341
+Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930,104,184,796,338,1047,39,2,33,210
 Recherche Scientifique CNRST Centre National	12
 Recherche Scientifique FAST Faculté des Sciences	12
+Recherche Scientifique Ministère	13341
 Recipient’s Ministry of Science	2473
 Regional Science	10421
 Registered FACULTY OF SCIENCE	13078
@@ -649,9 +690,10 @@ SAZ Standards Association of Zimbabwe SIRDC Scientific	12512
 SCI. Dates	1993
 SCI.I	11852
 SCIAM	4273
-SCIENCE	12544
+SCIENCE	12544,930
 SCIENCE ADVISER NEWSLETTER	6997
 SCIENCE AND TECHNOLOGY	12529
+SCIENCE AND TECHNOLOGY DEVELOPMENT	13420
 SCIENCES	13078
 SCIENTIFIC AND TECHNICAL COOPERATION	1234
 SCIMR SCIMR Programmation	10858
@@ -667,7 +709,9 @@ STI Science	12786
 STIPS2023 Science	12786
 SUPERIEUR ET DE LA RECHERCHE SCIENTIFIQUE	12
 Santé Publique IST Information Scientifique	12
+School of Business and Management Sciences	13688
 School of Humanities and Social Sciences	10780
+School of Information Science and Technology	13469
 School of Information Sciences	4734
 School of Natural and Applied Sciences	12407
 School of Science and Technology	13158
@@ -685,7 +729,7 @@ SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
 Scien	12674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288,15,21,1,10,10,26,9,27,39,84,43,26,1,15,29,1,124,22,4,1,5,15,35,67,9,25,32,21,109,1,10,2,4,3,1,1,6,2,4,5,1,1,10,2,9,14,1,7,4,4,20,180,5,1,3,4,77,45,16,195,2,6,21,36,15,66,11,5,197,14
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -728,8 +772,12 @@ Science and Technology Bindura Nickel Corporation Civil	1554
 Science and Technology Bright Msaka	10295
 Science and Technology Cooperation	1234
 Science and Technology Department	12675
-Science and Technology Development	413,107,2259,1749,7984
+Science and Technology Develop	13310
+Science and Technology Development	413,107,2259,1749,7984,783,15,241,11,109,17
+Science and Technology Development MoFED Ministry of Finance	13310
 Science and Technology Development Project	6174,707
+Science and Technology Development and Ministry of Youth	13310
+Science and Technology Development and Youth	13310
 Science and Technology Education	6572,1
 Science and Technology Government Paper	12529
 Science and Technology In Phase II	899
@@ -754,12 +802,13 @@ Science359	8891
 ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5
 ScienceDirect and Wiley	8605
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729,742,966,41
+Sciences Humaines MFB	13377
 Sciences-Po Paris	11154
 Sciences. The Malawian	7841
-Scientific	789,181,1018,970,903,4519,149,599,1718,123,915,1,10,10,185,69,1,44,1,146,4,41,91
+Scientific	789,181,1018,970,903,4519,149,599,1718,123,915,1,10,10,185,69,1,44,1,146,4,41,91,833
 Scientific Advisor	10852
-Scientific African	2093,425,430
+Scientific African	2093,425,430,10676
 Scientific Committee	5270
 Scientific Conference and Innovation Expo	6554
 Scientific Data	12090
@@ -770,7 +819,7 @@ Scientific Library Online	5246
 Scientific Organization	2958
 Scientific Panel	7320,1209
 Scientific Programming	7759,846
-Scientific Research	11905
+Scientific Research	11905,1390
 Scientific Research AI	2958
 Scientific Research AI-powered	2958
 Scientific Research Arab	2958
@@ -786,22 +835,25 @@ Scientific Research and Development Arab	2958
 Scientific and Cultural Organisation	6211,2895,96,553,748,637,1035
 Scientific and Cultural Organisation UNESCO-IIEP	12175
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179,310,8,13,253,1,9,178,15,39,571,578,119
 Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1,135
 Scientific and Cultural Organization UNICEF United	12970
+Scientific and Cultural Organization UNICEF United Nations	13312,2
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization USA United States	12512
 Scientific and Cultural Organization USAC Universal Service	6946
 Scientific and Cultural Organization UniLurio	2816
 Scientific and Cultural Organization United Nations Children	11156
 Scientific and Cultural Organization WFP World Food	7548
+Scientific and Cultural Organization WGEMPS Working Group	13310
 Scientific and Cultural Organization. UNESCO	5036
 Scientific and Educational	12210
 Scientific and Industrial	12512
+Scientific and Industrial Metrology	13320
 Scientific and Industrial Research CTA Crime Threat	11188
 Scientific and Industrial Research DAC Departmental Advisory	5533
 Scientific and Industrial Research DSUB Consistent Time	1009
-Scientific and Industrial Research and Development Centre	4528,7984
+Scientific and Industrial Research and Development Centre	4528,7984,882,81,210
 Scientific and Medical	736
 Scientific and Technical	1940
 Scientific and Technical Committee	3831
@@ -819,6 +871,8 @@ Scikit-Learn	8877
 Scimago	12486
 Scission	10875
 Scopus and Web of Science	10323
+Secondary Science	13392
+Secretary Minister of Technology and Science The Zambian	13346
 Senior Data Scientist	9541
 Serbia. Glob Heal Sci Pract	12255
 Seri Kembangan. Computer Science	9129
@@ -832,12 +886,13 @@ Singapore Health Sciences Authority	3651
 Small Research Grants. Glob Health Sci	10881
 Soc Sci Med	1219,42
 Social Media. Social Science	961
-Social Science	2518
+Social Science	2518,10900
 Social Science Research Network	961
 Social Science and Humanities	9616
 Social Sciences	1554,6205,127,490,1733,941
 Social Sciences and Humanities	8436,3763
 Social Studies of Science	11028,1062
+Social and Human Sciences Sector	13557
 Social and Human Sciences and Environment	414
 Soil Scientist	520
 South Africa Deputy Minister of Science	6480
@@ -875,10 +930,14 @@ Tanzania. Muhimbili University of Health and Allied Sciences	1261
 Tanzania. Soc Sci Med	1219
 Technical Training of Computing Science	21
 Technium Social Sciences Journal	9129
-Technology and Science	12356
+Technology and Science	12356,990
 Technology and Science Education Department	9755
+Technology and Science NFS National Financial Switch	13347
+Technology and Science Shall	13347
+Technology and Science The National Digital Transformation	13347
 Themba Laboratory for Accelerator Based Sciences MRC	5246
 Through the Tanzania Commission for Science and Technology	11623
+Tisauke Kasiya HOD Natural Science	13392
 Training Authority NUST Namibia University of Science	12923
 Training and Scientific Research	11907
 Treetops Resort. Science	12975
@@ -890,6 +949,8 @@ UN's Independent International Scientific Panel	6933
 UNESCO Chairs The Namibia University of Science	12357
 UNESCO Global Science Partnership	5246
 UNESCO Open Science Partnership	5246
+UNESCO's Head of Social and Human Sciences for Southern	13663
+UNESCO's Social and Human Sciences Sector	13557
 UNESWA Computer Science Department Deadline	12361
 UNSTIM L'Université Nationale des Sciences	10855
 UN’s Independent International Scientific Panel	7112

@@ -28,9 +28,11 @@ Bula-Atumba	4044,6707
 Bula-Aumba	539
 Bulakat Transit Centre	9772,1
 Bulandzeni	12956
-Bulawayo	362,578,214,1833,290,108,1511,2100,18,22,1590,773,395,1817,180,702,12,5
+Bulawayo	362,578,214,1833,290,108,1511,2100,18,22,1590,773,395,1817,180,702,12,5,801,50,36,4,57,46,105,10,36,12,4,4,10,14
+Bulawayo Camp Hospital. Currently the Medical Service	13361
 Bulawayo EWZL Owned Offices N	4896
 Bulawayo Empowerleigh	4896
+Bulawayo High Court	13504
 Bulawayo House Avenue	4896
 Bulawayo Internet Access US	736
 Bulawayo Land Administration Made Easier Zimbabwe	12511
@@ -39,8 +41,10 @@ Bulawayo Mutare	12493
 Bulawayo Office	12515
 Bulawayo Tsholotsho	4896
 Bulawayo and Harare	940
-Bulawayo and Livingstone	7036
-Bulawayo and Masvingo	4528,7984
+Bulawayo and Livingstone	7036,6631
+Bulawayo and Masvingo	4528,7984,1031
+Bulawayo and Matabeleland North Provinces	13420
+Bulawayo and Mutare	13385
 Bulawayo and Victoria Falls	1585
 Bulawayo-Livingstone	7036
 Bulawayo-Victoria Falls Highway	8296
@@ -86,9 +90,11 @@ Bull World Health Organ	766,5,10009,101
 Bull&author	1219
 Bull&title	1219,42
 Bulldozers Water	12253
-Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306
+Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32
+Bulletin Board	13461,1
 Bulletin N	10979
 Bulletin Officiel	2425,1384,87,6108
+Bulletin Officiel du Burundi	13293,30,2,5
 Bulletin of Vital Statistics	10775
 Bulletins	8718,2158
 Bullion	10
@@ -101,6 +107,7 @@ Bulungu	11460
 Bulwer	11986
 CBN Bullion	10
 CIP Bulletin	12201
+CYBER BULLETIN	13502
 Central Bank of Tunisia Bulletin No	9494
 Chikombedzi Bulawayo Tsholotsho Harare Mutare Harare	12493
 China. Bulletin	2518
@@ -113,6 +120,7 @@ Darussalam Bulgaria Burkina Faso Cuba Libya	10764
 Data Bulletin	2668
 Ebla Mohamed Bulle Data Processor INST-7783666D875	7167
 Economic Bulletin	12962
+Energy Sector Statistical Bulletin	13479
 Enterprise Bulk Messaging	3862
 Environment Bulletins	3513
 Ethiopia Ministry Health Quart Health Bull	12255
@@ -124,7 +132,7 @@ HIc Bulgaria Europe Eastern Europe Sofia	10840
 Harare Bulawayo	12511
 Harare Bulawayo Mutare Gweru Kwekwe Kadoma	9429
 Harare Bulawayo Over	12493
-Harare and Bulawayo	3111,166,2822
+Harare and Bulawayo	3111,166,2822,7212,71,303
 Harare and Bulawayo. The Zimbabwean	6099
 Hydrologic Drought Bulletin	12957
 IMF's Dissemination Standards Bulletin Board	11554
@@ -142,6 +150,7 @@ Liechtenstein San Marino Andorra Bulgaria Latvia	10764
 Maya Wang of Human Rights Watch. Bulletin	2518
 Mbaraki Bulk Terminal Limited	12256
 Metropolitan-Harare and Bulawayo	736
+Ministry of Commerce Trade Statistical Bulletin	13479
 Mkhomazi Bulk Water Supply Scheme Construction	11248
 Mombasa Bulk Terminal Ltd	12256
 Moretele North Klipvoor Bulk Water Supply	11248
@@ -151,25 +160,29 @@ Office Bulawayo	4896
 Office and SOS Children Villages. Bulembu Ministries	12977
 Orlando Mendes Megas Felix Bulutna Nan	11544
 PM Bulawayo Office Regional Office	12511
+Page Bulawayo High Court	13504
 Pilanesberg Bulk Water Supply Scheme	11248
-Plumtree and Bulawayo	7014,22
+Plumtree and Bulawayo	7014,22,6631
 Port of Ngqura Liquid Bulk A100	11248
 Project Update. EDRMS Bulletin	12325
 Provincial Excluding Harare and Bulawayo	736
 Psychological Bulletin	8460
 Q Heal Bull	1219
 QUARTERLY STATISTICAL BULLETIN ON COMMUNICATIONS	2776
+Quarterly Debt Statistical Bulletin	13479
 Quarterly Statistical Bulletin	2776
 Quarterly Statistics Bulletin	13069
 References Bulawayo24	12501
 Research Bulletin	11131
 Research QoS Monitoring Statistical Bulletins	9109
 Review and Approve Bulk Electricity Tariffs	12320
+SAZ Bulawayo	13385
 SC3 Bulk Supply	12256
 Smart Identity Card Yes BRR Bulgaria	10714
 Sol Plaatje Municipality Integrated Bulk Supply	11248
 Tablet Commitment Form Bulk Item Upload	12454
 Tanzan Health Res Bull	1261
+Tax Statistics Bulletin and Monthly Bulletins	13479
 TechAfrica News Today's Bulletin	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Today's Bulletin	9899

@@ -1,6 +1,7 @@
 Access Bank and Ecobank	7746
 Africell and Ecobank	9449
 Aug. Ecobank	3071
+BANCOBU IBB ECOBANK BCB BBCI BGF	13390
 BANK CHANNELS BLOOM BANK ECOBANK FIRST	11002
 BANK CHANNELS ECOBANK UBA VISTA BANK	11002
 BANK ECOBANK FBNBANK GT BANK ROKEL	11002
@@ -11,8 +12,11 @@ CEO of Ecobank Guinea-Bissau	3112
 CIPS. Ecobank	9593
 CORIS BANK ECOBANK GUARANTY TRUST BANK	11588
 Centenary Bank Malawi and Ecobank Malawi Limited	13053
+Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
+DFS DTB EAC EC ECOBANK ENIF	13390
 DU SENEGAL ECOBANK FBNBANK ORABANK ORANGE	11588
-ECOBANK	3361,922,4020,2273
+ECOBANK	3361,922,4020,2273,2725,89
+ECOBANK BGF BBCI FINBANK BHB KCB	13390
 ECOBANK FBNBANK FIDELITY BANK FIRST ATLANTIC	11002
 ECOBANK KENYA LIMITED Data Controller INST-199293A5553	7167
 ECOBANK KENYA LIMITED Data Processor INST-199293A5553	7167
@@ -29,18 +33,20 @@ EcoBank	10841
 Ecoband	8025
 Ecoband Networks	8025
 Ecoband Networks Limited	3386
-Ecobank	982,17,706,731,635,11,279,38,272,173,51,48,48,704,359,259,11,483,406,19,123,1168,1552,374,144,29,134,456,132,621,751,244,125,206
+Ecobank	982,17,706,731,635,11,279,38,272,173,51,48,48,704,359,259,11,483,406,19,123,1168,1552,374,144,29,134,456,132,621,751,244,125,206,1021,2
 Ecobank Auditorium	9075
 Ecobank Benin SA Ecobank Benin SA	10821
 Ecobank Benin SA Société KTEPLUS IZIGROUP	10821
 Ecobank Benin SA Traitement	10821
 Ecobank Burkina	4459
+Ecobank Burundi	13314
 Ecobank Cabo Verde	1265,3,468
 Ecobank Cameroun	3779
 Ecobank Centrafrique	2328,8549
 Ecobank Fintech Challenge	8464
 Ecobank Group	3844
 Ecobank Group's African	3895
+Ecobank Head of Information Security Miriam	13627
 Ecobank International	10718
 Ecobank Malawi Limited	12252,895
 Ecobank Niger. Par	4459
@@ -54,7 +60,7 @@ Ecobank São Tomé and Príncipe and Energy Bank	7156
 Ecobank Tanzania Limited	12252
 Ecobank Togo. Selon	6844
 Ecobank Trade Expo	3779
-Ecobank Transnational Incorporated	1705,8498
+Ecobank Transnational Incorporated	1705,8498,3187
 Ecobank Zambia Limited	12252
 Ecobank Zimbabwe Limited	12252
 Ecobank and GTBank	7720

@@ -1,13 +1,14 @@
 A- Reset Instructing Cote	10931
 AGEROUTE. ETAT DE COTE D’IVOIRE	2342
 ALLIED GOLD Corpora- ETAT DE COTE	2342
-Accord de Cotonou	3045
+Accord de Cotonou	3045,10280
 Africa’s Startup Scene From Cotonou	10887
 Afrique Centrale CoPil Comité de Pilotage CoTec	11944
 Afrique. Cotonou	2915
 Air Cote	2342
 Appel de Cotonou	10821
 Autonomous Port of Cotonou	9043,232
+Avis de Demande de Cotations	13620
 Azalaï de Cotonou	3590
 BANK AFRICA SIB SOCIETE GENERALE COTE	11588
 BARRICK GOLD COTE	2342
@@ -40,10 +41,12 @@ COTS Commercial	10765,10
 COTTS NON-WITHDRAWABLE DEPOSIT TAKING SACCO Data	7167
 COTVET	789,3337
 CRYSTAL COTTAGE HOSPITAL	7167
+Cameroon Congo Rep. Cote	13314
 Cameroon and Cote	2388
 Chairman of Togo’s Cotton Company	5407,676
 Chu-Mel de Cotonou	7355
 CoTec	11944
+Compagnie de Gérance de Coton CONFEJES	13377
 Congo Ghana Cote	689
 Cost of Living and Adjustment COTE Certificate	12975
 Cote D'Ivoire	1013,9906,690
@@ -56,7 +59,7 @@ Cote-d’Ivoire	10861
 Cote-d’Ivoire and Senegal DATA HOSTING	10861
 Cotec Security Group Limited Data Controller	7167
 Cotec Security Group Limited Data Processor	7167
-Cotisations	737,1739,1360,584
+Cotisations	737,1739,1360,584,8970
 Cotisations Sociales	1594
 Cotizaciones	4209
 Cotizaciones Sociales	4209
@@ -66,7 +69,8 @@ Cotización Patronal	4209
 Cotización Patronal INSESO	4209
 Cotización Patronal Personal Civil	4209
 Cotlear	11133
-Cotonou	54,573,1097,185,18,334,51,19,23,38,20,39,246,68,77,13,60,35,155,1,6,38,47,1,1,15,34,7,44,104,111,12,156,170,185,65,30,235,132,440,23,61,183,54,218,38,15,15,296,54,31,51,232,131,134,269,96,13,40,84,39,41,21,35,279,1,770,56,281,15,528,232,44,481,1,109,314,16,4,135,2,161,149,21,106,3,12,23,20,727
+Coton	13568
+Cotonou	54,573,1097,185,18,334,51,19,23,38,20,39,246,68,77,13,60,35,155,1,6,38,47,1,1,15,34,7,44,104,111,12,156,170,185,65,30,235,132,440,23,61,183,54,218,38,15,15,296,54,31,51,232,131,134,269,96,13,40,84,39,41,21,35,279,1,770,56,281,15,528,232,44,481,1,109,314,16,4,135,2,161,149,21,106,3,12,23,20,727,1722,158
 Cotonou Agreement	970
 Cotonou Ai Academy	10542
 Cotonou Catholic Relief Services	10821
@@ -96,9 +100,11 @@ Cotonou. Pour	2765
 Cotonou. Pour Jean-Claude Kassi Brou	3719
 Cotonou. Selon le Directeur Général	10824
 Cotonou. Vadim QUIRIN	3248
+CotreenZulu Project Accountant	13392
 Cottier	1243
 Cottolengo Mission Hospital	7167
-Cotton	6921
+Cotton	6921,6464,89
+Cotton Act	13403
 Cotton Biomass Generation Project	12937
 Cotton Ginneries	12979
 Cotton K	9739

@@ -4,7 +4,9 @@ CNBC Africa’s Palesa Mofokeng	4723
 Cabo Verde MoF	583,1512
 Civil Society MoFNP	12453
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
+Departments and Agencies MM Materials Management MoFEDIP	13420
 Description MoF Computerisation	1661,977,2995
+Examinations Council of Zambia By Beulah Mofya	13477
 Kieren Moffat	11006
 Korea's MOFE and KEXIM	9905
 LTO Human Resources MOF Integrated Financial	12500
@@ -21,12 +23,17 @@ MOFCOM	122,3,58,159,117,1368,6811,1577,3047
 MOFDP	10060
 MOFDP-PMU	10060
 MOFED	259
-MOFNP	193,12142,118
+MOFEDIP	13685
+MOFNP	193,12142,118,879,15
 MOFPED and MOH. Overhead	4217
+Management Information System MoFNP Ministry of Finance	13332
 Manthati Mofokeng	12712
 Meisi Mofokeng	11660
+Microfinance Institution MOE Ministry of Education MOFNP	13347
 Minister of Environment and Forestry Thabo Mofosi	8801
 Ministry of Education MoFEA	12175
+Ministry of Finance and National Planning MoFNP	13532
+Ministry of Technology and Science MoFNP Ministry of Finance	13345
 MoF Computerisation	1661,977,1208,1,1786
 MoF DRMIS	13080
 MoF Data Center	2112
@@ -41,10 +48,12 @@ MoFEA Mr Patrick Zimpita	12980
 MoFEA and AGD	13005
 MoFEA and NLGFC	12181
 MoFEA. DCIMS	13095
-MoFED	970
+MoFED	970,12553
 MoFED Ministry of Finance and Economic Development MoHCC	970
+MoFEDIP	13685
 MoFEPD	5620
-MoFNP	12453
+MoFNP	12453,879,13,2,185
+MoFNP-January2026Foc	13532
 MoFPED	1150,132,2708,227,3031
 MoFaya	8682
 MoLGRD and MoFEPD	6754
@@ -56,6 +65,7 @@ Officer MoF	13005
 PforR. The MoF	11905
 Provincial ICT Officer Mr. Moffat Zulu	34
 Reform MOF Ministry of Finance MOV Ministry	12923
+Science and Technology Development MoFED Ministry of Finance	13310
 Term Evolution MoF Ministry of Finance NCA	236
 Thabo Mofutsanyana	11252
 Thabo Mofutsanyana District Municipality	11289

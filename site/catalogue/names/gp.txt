@@ -53,6 +53,8 @@ GP Sedibeng DM Benoni	11986
 GP Specialist EAERU Tasneem Rais Team	1284
 GP Strategy	1284
 GP System	9088,3418
+GP System Bid Security Type	13621
+GP System Disaster Recovery Site	13548
 GP Tshwane MM	11986
 GP Tshwane MM Tembisa Hospital	11986
 GP Tshwane MM Thelle Mogoerane Regional	11986
@@ -68,19 +70,20 @@ GPAI Code of Practice and High-Level Expert Group	11050
 GPAI Global Partnership for AI GPT General	1814
 GPCA Octotel 2024December19.pdf	448
 GPD DELIVERY COMPONENTS	11129
-GPE Board	11352,553,2,9
+GPE Board	11352,553,2,9,1433
 GPE DRC Compact	11916
 GPE Debt Project	1125
 GPE Global Partnership for Education HEI Higher	12975
 GPE Government	11905
 GPE KIX	1947,4101,6132,16,151,698
-GPE KIX Africa	12196
+GPE KIX Africa	12196,1433
 GPE KIX and Norad	1017,942
 GPE KIX. Takeaways	4829
 GPE Knowledge and Innovation Exchange	4829,1219
 GPE Multiplier	12234
 GPE Multiplier Grant	12175
 GPE Multiplier. Overall	12175
+GPE Quality Assurance Review for Zimbabwe Phase	13310
 GPE Secretariat	11916
 GPE Secretariat Country Team Lead	11916
 GPE and World Bank	12175
@@ -90,6 +93,7 @@ GPE. Companion	1124
 GPE.' BII	1124
 GPEI Coordinator	10776
 GPF Gambia Police Force MOJ Ministry	1000
+GPF IBB	13390
 GPL WING WAH	7263
 GPLQLVWUDWLRQAct	11181
 GPLQLVWUDomR	11530
@@ -103,6 +107,7 @@ GPS Pour	6959
 GPS the DRC and Namibia	9399
 GPS-compatible	10983
 GPS-enabled	10427
+GPS. L’inscription	13375
 GPS. L’utilisation	1984
 GPSDD	1218,7123,3986
 GPT Cameroon	3235,7765
@@ -110,9 +115,10 @@ GPT Education	7244
 GPT Education Project	4759
 GPT Educational Platform	4759
 GPT and Kevin AI	10047
-GPT-3	7451
+GPT-2	13461
+GPT-3	7451,6010
 GPT-3.5	8510
-GPT-4	4045,984,2422,4134
+GPT-4	4045,984,2422,4134,1876
 GPT-4.5	3465
 GPT-4o	11578,7
 GPT-5	9025
@@ -153,6 +159,7 @@ GPW CEO	2692
 GPW13	10776
 GPX Egypt	3859
 GPX India	3782
+GPrescription	13495
 GPzU4Pspi-XOmJU13LvOUUPxtfTuRXcZMBw7lxkQRyY	7313
 Gabinete Jurídico GPCGC	11435
 Gender-Based Violence GPEI	10776
@@ -164,12 +171,14 @@ Grievance Redress Mechanism GPE Internally Displaced	11905
 I.roMh. Doroh Prof. L. GPrwoaf.nLzu.rGa Ms	1154
 IBRD Fund for Innovative GPG Solutions	11417,971
 IDA and GPE	11905
+Introducing GPTs. Available	13461
 Kenya GPS Global Positioning Systems GSM	2775
 Key GPE	11916
 Kingdom of Eswatini GP Global Practice GRS	6539
 Lesotho's GPE Compact Partnership	12726
 Level Recovery GPU Graphics Processing Unit	13185
 M. Norrsken22 GP Lexi Novitske	1139
+ML GPU-ACCELERATED SERVER PLATFORM	13621
 Monitoring and Supervision GHG Green-House-Gas GPE Global	11560
 NVIDIA B300 GPUs	11502
 NVIDIA B300 HGX GPU	11502

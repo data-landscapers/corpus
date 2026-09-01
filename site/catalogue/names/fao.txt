@@ -1,5 +1,6 @@
 Africa FAO	12507
 Assistant FAO Representative	13049
+Body FAO's Earth Observation for Agricultural Statistics	13475
 DAR Researchers Drive Content Scrutiny for FAO	12740
 DPT ECDI2030 EFD FAO FCR	10777
 ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451
@@ -8,11 +9,13 @@ EWS FAO FAS-IDL FCDO FEWS NET	10763
 EWSC Eswatini Water Services Corporation FAO	12970
 Ethiopia FAO	8562
 FAO Agricultural Development Economics	12158
+FAO EOSTAT	13475
 FAO Expands Digital Farmer Registry	12507
 FAO Food and Agriculture Organization	11390,497,266,1,9,178
 FAO Food and Agriculture Organization FDI Foreign	10841
 FAO Opens Call for Proposals	3437,3942,47
 FAO Project Coordinator	11639
+FAO Regional Office for Africa	13394,81
 FAO Representative	13144
 FAO Representative José Luis Fernandez	8754
 FAO Resilience Team Leader for Southern Africa	12507
@@ -22,8 +25,10 @@ FAO and MAFSN	12740
 FAO and WFP	3583
 FAO and WWF Tanzania	11639
 FAO the NASA Harvest GEOCIF	13094
+FAO's Earth Observation for Agricultural Statistics	13475
 FAO's IDEA Platform Contact Donald Chidoori	12507
 FAO's WaPOR	12828
+FAO-EOSTAT Global Project Leader	13394
 FAO-SWALIM	9766
 FAO-WFP	3583
 FAO-led Food Balance Sheet Training	13049
@@ -33,8 +38,9 @@ FAO. IPC Global Partners	12978
 FAO. PROMOTING ENVIRONMENTAL PRESERVATION	11897
 FAO. Por	8048
 FAO. Publisher	11398
-FAOLEX	940,10629,1
+FAOLEX	940,10629,1,1722
 FAOLS	12667
+FAOSTAT Statistical Database	13312,2
 FAO’s Four Betters	12507
 Faostat	10812
 Faostat. Background	10812

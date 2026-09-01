@@ -13,6 +13,7 @@ Arto Juhani Immonen	10785
 Asian Development Bank AIDS Acquired Immune	396
 Assistant Immigration Officers	12972
 Avatar of ImmanuelTenga95	12478
+Aéronefs Immatriculés	13500
 Banjul Immigration HQ	12085
 Body Press Release For Immediate Use	12753
 Border Management and Immigration Anti-Corruption Forum	2626
@@ -20,7 +21,7 @@ COVID-19 Immunization	12977
 Cabinet for Immigration and Refugee	11986
 Center HIV Human Immunodeficiency Virus ICT	12379
 Certificate of Being Alive. IMMIGRATION AND EMIGRATION	12333
-Chief Immigration Officer	12888,22,141
+Chief Immigration Officer	12888,22,141,444
 Chief Immigration Officer IOM	12972
 Citizen and Immigration Services	2324
 Citizenship and Immigration Control National ID Register	10822
@@ -37,7 +38,8 @@ Data Commissioner Immaculate Kassait	2668,2948,2017,2705
 Data Practices The Data Commissioner Immaculate	2668
 Data Protection Commissioner Immaculate Kassait	7177
 Department for Immigration and Citizen Service	12151
-Department of Immigration	1882,2,2506,857,3048,1021,2975
+Department of Immigration	1882,2,2506,857,3048,1021,2975,1382
+Department of Immigration Headquarters	13605
 Department of Immigration and Citizenship	12573,24
 Department of Immigration and Citizenship Services	7070,5147
 Department of Immigration and Civil Status	1884
@@ -104,6 +106,8 @@ IMMR Institutional Maternal Mortality Rate IPC	12976
 IMMSA	2342
 IMMUNITIES	4153
 IMMUTABLE MOBILES AND DATA JOURNEYS	12090
+IMMÉDIATEMEN	13300
+IMMÉDIATEMENT	13300
 IMS Immigration	11986
 IV.1.3 GESTION DES IMMOBILISATIONS ET DES	10876
 Immaculada Roca	9838
@@ -115,7 +119,11 @@ Immanuel Tenga Ntjamba	12478
 ImmanuelTenga95	12478
 Immaterial	12524,1,373
 Immatriculation	2751,2968,5104,52,1,1058
+Immatriculation Fiscale	13524
 Immatriculation Immatriculation Qui	10978
+Immatriculation URL	13620
+Immatriculation. Pour	13620
+Immauble L'Orée du Golf	13567
 Immediacy	12000
 Immediate	1219,590,1180,872,469,821,94,1170,17,504,2267,1912,94,791,53,285,698
 Immediate Basis	3977,1284,2,1457,816,503,108,1928,1056,768,533,252
@@ -125,36 +133,44 @@ Immediate Cash Flow	11955
 Immediate Catalytic	12444
 Immediate Matrix	8354
 Immediate Matrix. Individuals	8354
+Immediate Measures	13387
+Immediate Past President	13401
 Immediate Release	4046
 Immediate Resuscitation	12606
 Immediately	1988,1395,200,1313,2302,579,3029,83,71,11,82,598,304,71,169,782,65
 Immediately Notifiable Diseases	11912
+Immediately President Hakainde Hichilema	13387
 Immersive	7751,451
 Immersive Initiative	5852
 Immersive Technologies	12675
 Immersive Video Playlist Championing Plastic Recycling	11332
-Immeuble	737,10139
+Immeuble	737,10139,2566
+Immeuble Asharif	13524
 Immeuble BAH Kadiatou	7977
 Immeuble CAMPOST	10764,80
 Immeuble El MARZOUK Joël	10821
+Immeuble L'Orée du Golf	13555
 Immeuble Moleard Tél	10400
 Immeuble Postel	7805,1714
 Immeuble Rokhaya	11563
 Immeubles	2476
 Immigra	11280
-Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28
+Immigration	1618,112,154,79,25,773,14,220,22,571,907,341,697,3,189,390,360,18,190,79,347,17,123,320,173,163,26,183,136,3,1,1,362,274,49,376,270,80,487,32,132,840,61,46,676,16,30,178,162,11,30,43,65,390,58,61,34,8,39,128,17,28,103
 Immigration Act	2115,946,2472,1873,439,320,102,2910,41,62,706,130,29,82,297
 Immigration Act and Regulations	11986
+Immigration Activités	13341
 Immigration Advisory Board	5533,4640,1045
 Immigration Affairs	1617,3916,5685,67,701
 Immigration Affairs Management	11986
 Immigration Amendment Act	11177
 Immigration Amendment Bill	5533,6453
+Immigration Calendrier	13341
 Immigration Control Act. Although Namibia	13097
 Immigration Control and Citizenship N	12984
 Immigration Cooperation	8295
 Immigration Court	11986
-Immigration Department	1988,787,840,368,1900,4577
+Immigration Dans	13341
+Immigration Department	1988,787,840,368,1900,4577,2943
 Immigration FOSAD Clusters	11986
 Immigration Management Services and Civic Services	5533
 Immigration Migration	12164
@@ -176,7 +192,7 @@ Immigration and Citizenship Service	10709,1517,24
 Immigration and Citizenship Services	12250
 Immigration and Citizenship System	5250,7347,15
 Immigration and Communications	10701
-Immigration and Deportation Act	1867,121
+Immigration and Deportation Act	1867,121,11364,51
 Immigration and Deportation Act No	1988
 Immigration and Emigration	12333
 Immigration and Immigration and Protection Bill	11986
@@ -214,8 +230,11 @@ Immunisations	12977
 Immunities and Facilities of Both Participants	3972,195,35,15,43,89,1003
 Immunities and Facilities of Both Parties	4154
 Immunities and Facilities ofBoth Participants	4301
-Immunity	587,10930,1007,1,6,367,8,10
+Immunity	587,10930,1007,1,6,367,8,10,380,1,42,13,19,32,163
 Immunity Regulations	12898
+Immunity Regulations Temporary	13403
+Immunity The Board	13470
+Immunity of Bank	13566
 Immuniz	10829
 Immunization	771,2936,1518,3151,3041,1312,247,220
 Immunization Agenda	10776
@@ -226,7 +245,9 @@ Immunization Information System	8376
 Immunization and Nutrition	4301
 Immunization. Process	8376
 Immuno-Deficiency Syndrome ART Anti-Retroviral Therapy AU	12923
+Immuno-deficience Acquise SOCABU	13377
 Immunodeficiency Virus HMIS Health Management Information	771
+Immunodéficience Humaine	13306
 Immutable	6423,5529
 Immédiate	10876
 JHA.094. Directorate of Immigration Services	12227
@@ -250,6 +271,7 @@ Malawi Revenue Authority and Immigration Department	13007
 Malaysia's Immigration Department	4275
 Medium Term Period Immigration	11986
 Methodology for Data Collection Immunization	11417
+Micro Contribuables Immatriculation	13427,233
 Minister of Home Affairs and Immigration	12327,10
 Minister of Public Security and Immigration Ali Ahmat	8171
 Ministry of Home Affairs and Immigration	8960,3367,40,580
@@ -257,6 +279,7 @@ Ministry of Home and Immigration	12337
 Ministry of Public Security and Immigration	10841
 Ms. Immaculate Irungu	11086
 NIDP and Immigration and Citizenship Services	12188
+NIZIGIYIMANA Dionis Mme BIGIRIMANA Immaculée Mme	13300
 National Identity Management Database and Immigration	7914
 National Immigration Information System	5533,6453
 National Immunization Days	10776
@@ -272,6 +295,7 @@ P362m for Immigration and Citizenship	5634
 PRESS RELEASE FOR IMMEDIATE RELEASE GHANA	2450
 PRINCIPAL IMMOVABLE PROPERTY OWNED AND LEASED	4896
 PS for Immigration and Citizen Services	4631
+PafenBurundi Immeuble L'Orée du Golf	13555
 Pan American Health Organization. Electronic Immunization	8376
 Partie II Focus Immigration	8891
 Passport and Immigration	4257,378,3434,1053
@@ -303,6 +327,7 @@ STATE DEPARTMENT FOR IMMIGRATION AND CITIZEN	12165
 Sanyang Immigration Office The Government	12085
 Schedule. FILLEMON W. IMMANUEL MINISTER	13189
 Senegal. Immediate	4848
+Société Immobilière Publique	13442
 Société des Opérations Foncières Immobilières du Cameroun	10987
 Sovereign Immunity	3861
 Sovereign Immunity Nothing	3861
@@ -317,7 +342,9 @@ State Dept of Immigration	3936
 Subprogrammes Immigration Affairs Management	11986
 Summary of Global Immunization Coverage	8376
 Sunday. Immigration	4969
+Syndrome Immunodéficience Acquise Violences Sexuelles Basées	13442
 Tanzania Immigration Department	2119
+Technology Authority ZIMS Zambia Immigration Management	13345
 Topic Area Immediate	6832
 Trade and Security Cluster NGO National Immigration	11986
 UNICEF Immunization	13166
@@ -326,8 +353,9 @@ User Asset Immovable Plan	11986
 VISA AND IMMIGRATION REFORM Objective	11236
 VISA AND IMMIGRATION REFORM PROGRESS Q3	11236
 Vaccines and Immunization GBV Gender-based Violence GDP	11560
+Valeur Ajoutée Virus Immunodéficience Humaine	13442
 Visa and Immigration Reform	11236
 X Av. Bourguiba Immeuble H	9890
 X4 TOYOTA COROLLA IMMATRICULATIONS NUMERO	10821
-Zambia Immigration Management System	12453
+Zambia Immigration Management System	12453,892
 Zimbabwe Immigration Headquarters	8295

@@ -5,19 +5,22 @@ Comite de Pilotage Unique	10829
 Comité de Pilotage Unique	10829
 Companies and Intellectual Property Authority. Unique	12533
 Compte Unique du Trésor	10981
+Customs Guichet Unique Electronique	13314
 Digetal ID Unique Number	12226
 Digital Civil Register and Unique Identification Number	10812
 Digital Identification Uniqe	12146
 Digital Identity West Africa Unique Identification	10819
+Electronique GUP Guichet Unique Provincial HEI	13312,2
 Exploitation du Guichet Unique du Commerce Exté-	11923
 F25 Unique Identity Document	10714
 Fichier Unique	4420
 Fiscal Unique	10821
 GSMAintelligence for Unique Mobile Internet	6928
 Guichet Foncier Unique	9976
-Guichet Unique	5077,5635,263
+Guichet Unique	5077,5635,263,2366
 Guichet Unique Elaboration des Disposer	10975
 Guichet Unique Maritime	5993
+Guichet Unique Provincial	13314,17
 Guichet Unique Social	7718
 Guichet Unique de Création	8065,122,1571
 Guichet Unique des Opérations du Commerce Extérieur	5593
@@ -29,8 +32,10 @@ Guichet Unique du Foncier. Au	10902
 Guichets Uniques de Protection Sociale	10869
 IBU Identifiant Bancaire Unique IDH Indicateur	11944
 ID4Africa AGM. The Unique Number ID	2947
+INFRATEL-CAPEX-2026-029 Tender Unique ID	13621
 Identifiant Bancaire Unique	11944
 Identifiant Fiscal Unique	10823
+Identifiant Patient Unique LIMS Laboratory Information	13306
 Identifiant Social Unique	10544
 Identifiant Unique	10978
 Identifiant Unique du Citoyen	10812
@@ -38,6 +43,7 @@ Identifiant Unique du Foncier de Côte	10937
 Identification Bancaire Unique	8556
 Identification Fiscal Unique	10821
 Identification Unique	3800,941,480
+Information Unique	13482
 La Taxe Unique	6954
 Lack of Unique Identifying Number	13005
 Le Guichet Unique de Création	8065
@@ -46,12 +52,17 @@ Le Guichet Unique du Logement	3396
 Le Registre Social Unique	10910
 L’Identifiant Social Unique	10544
 M Unique	10822
+Marché Unique Numérique	13653
+Mobile Broadband Unique Penetration	13312,2
+Mobile Communications Associations GUE Guichet Unique	13312,2
+Mobile Communications GUP Guichet Unique Provincial	13331
 National Institute of Statistics and Demography IUCEC Unique	10812
 National Unique Code	10765,10
 National Unique Identification Number	4788
 Nations UIN Unique Identification Number Figures	12327
 Niger. The West Africa Unique Identification	2778
 Number of Unique Mobile Subscribers	10822
+Ordinateur GUECE Guichet Unique	13341
 Partner Unique Number	11276
 Peru Unique Registry of Identification of Natural Persons	10714
 Redevance Administrative Unique	1996
@@ -65,6 +76,7 @@ SUBMIT THEIR UNIQUE PERSONAL IDENTIFICATION NUMBER	11240
 Si le Registre Social Unique	10910
 Taxe Spécifique Unique	3045
 Territoire Douanier Unique. L'usage	5077
+UIN Unique Identification Number UNICEF United	13681
 UNIQUE PERSONAL IDENTIFIER	12165
 UNIQUEMENT	10965
 Uganda Telkom and Airtel Unique	10822
@@ -77,7 +89,7 @@ Unique Business Identification Number Used	12389
 Unique Citizen	10765,10
 Unique Citizen Identification Number	12219
 Unique Citizen Number	10765,10
-Unique Consignment Reference	12389
+Unique Consignment Reference	12389,1026
 Unique Entity Registration Number	6121
 Unique Global Telecommunication Ltd	3862
 Unique ID	7988,4349
@@ -85,7 +97,7 @@ Unique IPs	1013,931
 Unique Identification	5700
 Unique Identification Authority of India	6371,1225
 Unique Identification Authority of India. Timeframe	7596
-Unique Identification Number	1828,953,1254,754,1167,280,4539,37,1047,287
+Unique Identification Number	1828,953,1254,754,1167,280,4539,37,1047,287,1535
 Unique Identification Numbers	12241,839
 Unique Identification for Regional Integration and Inclusion	3834
 Unique Identifier	5687,4168,1056,1478,372
@@ -95,6 +107,8 @@ Unique Identifiers Under POPIA South Africa	6632
 Unique Identity Number	12337
 Unique Identity Number for Service Delivery	10765,10
 Unique Land Identifier of Ivory Coast	10937
+Unique Mobile BB Subscriptions	13314
+Unique Mobile Cell. Subscription	13314
 Unique National Identification Number	3604
 Unique National Identity No N	10714
 Unique National Identity System	10714
@@ -106,7 +120,7 @@ Unique Numbers	12146
 Unique Participation File	4620
 Unique Person ID	11270
 Unique Personal Identification Number	1958,1856
-Unique Personal Identifier	1354,391,2,700,478,2374,975,4542,1335,14,135,23,83
+Unique Personal Identifier	1354,391,2,700,478,2374,975,4542,1335,14,135,23,83,1275
 Unique Personal Identifiers	12138
 Unique Registry	11133
 Unique Social Register	1828
@@ -116,6 +130,7 @@ Unique Taxpayer References	4602
 Unique Telecommunications Number	1583
 Unique de Création	8065
 Uniquely	2994,385,919,1155,8,198
+Uniquement	13390
 WAMZ Unique Identification	1046
 WURI West Africa Unique Identification Program	554
 WURI West Africa Unique Identification for Regional	3604

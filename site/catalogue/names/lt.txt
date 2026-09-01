@@ -294,6 +294,7 @@ CLARIVIDA MEDICAL LTD Data Controller INST-1966979EB17	7167
 CLERK MASTER ENTERPRISE LTD Data Controller	7167
 CLERK MASTER ENTERPRISE LTD Data Processor	7167
 CLOUD INNOVATION LTD	1919
+CMED Pvt Ltd	13420
 CNINE TECHNOLOGIES VENTURES LTD Data Processor	7167
 CO LTD Data Controller INST-414798682CD NAIROBI	7167
 CODE BREEZE LTD Data Processor INST-9730244A10F	7167
@@ -534,7 +535,7 @@ G Download Download Mbps Mbps LTE	6051
 G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141
 G LTE Advanced	3487
 G LTE. Thirty	718
-G and LTE	3528,334,2138,11
+G and LTE	3528,334,2138,11,7302
 GFTN SERVICES PTE. LTD	4477
 GIFRA Wireless Network Ltd	3862
 GSM LTE Hybrid	12690
@@ -569,6 +570,7 @@ Henag Company Ltd	3862
 Holdings Ltd	6753
 Home LTE	11259
 Home LTE and SuperFlex	11259
+Hon. Lt. Gen. Rtd A. N	13591
 Hoop Telecoms Ltd	3862
 Houston Wireless Ltd	3862
 Huawei Marine Networks Co. Ltd	57
@@ -588,6 +590,7 @@ IHS Kenya Ltd	1518
 IHS Zambia Ltd	48,639
 IKA Solution LTD	8502
 IKA Solutions LTD	8502
+IMF INSBU INSS KCB Bank Ltd	13390
 IOtech Global Hub Ltd	3862
 IP Express Ltd	3862
 IP2AIR Networks Ltd	3862
@@ -613,6 +616,7 @@ Infratel Ltd	3862
 Innovendi Data Technologies and Communication Ltd	5291
 Inq Ltd	3862
 Inq. Digital Nigeria Ltd	3862
+International Resources Holding RSC Ltd	13362
 Internet Access Provider LTE	6000
 Internet Exchange Point LTE	958
 Internet Solutions Nig Ltd	3862
@@ -629,6 +633,7 @@ Investments Pvt Ltd	4896
 Inzira Nziza Company Ltd	718
 Iotech Global Hub Ltd	3862
 Ipsos Kenya Ltd	10862
+Ir Lt Col Jean Albert	13641
 Irembo Ltd	4921
 JUMO World Ltd	294
 JUZA AI LTD	8209
@@ -641,12 +646,14 @@ Kajab Ebg Services Ltd	3862
 Kajab Engineering Services Ltd	3862
 Kasi Cloud Ltd	5200
 Keen Kleeners Ltd	718
+Kenya Commercial Bank Burundi Ltd	13314
 Kenya Power and Lighting Co. Ltd	12192
 Kigali Convention Centre Ltd	718
 Kigali Water Ltd	718
 Klean and Klear Services Co. Ltd	3583
 L MANAGEMENT LTD Data Controller INST-971303AEBD1	7167
 LT Authors	10856
+LT Col KABURA Donatien	13341
 LT MAKHODE	11986
 LT MAKHODE DIRECTOR-GENERAL OF HOME	5533
 LTA A. Any Telecommunications Service Provider	4610
@@ -737,6 +744,7 @@ LTIMOS	11531
 LTM Last Twelve Months Mbps Megabits	1818
 LTNDP	789
 LTO Human Resources MOF Integrated Financial	12500
+LTO and HNWI	13624
 LTSM National Catalogue	11241
 LTT and ZTE	5336
 LTT and ZTE Sign MoU	5336
@@ -839,7 +847,9 @@ Mbps. Winrock Ltd	3862
 MegaMore Wireless Broadband Ltd	3862
 Megamore Wireless Broadband Ltd	3862
 Metabite Communications Ltd	3386
+Midex Global Pvt Ltd	13562
 Ministry and NIGCOMSAT Ltd	12066
+Ministry of Technology and Science and Obrizum Group Ltd	13539
 MobileMoney Fintech Ltd	5709,2316,788
 MobileMoney Ltd	5709
 Mombasa Bulk Terminal Ltd	12256
@@ -871,6 +881,7 @@ OPTICALS LTD Data Controller INST-364145F15AE KISUMU	7167
 OQ Technology Africa Ltd	718
 ORANGE CI LTE	419
 Obligations of Telecommunications Service Providers and LTA	4610
+Obrizum Group Ltd Chief Executive Officer	13539
 Odua Telecoms Ltd	3862
 Omni Software Ltd	8285
 Onafriq Nigeria Payments Ltd	4901
@@ -978,6 +989,7 @@ Stream Networks Ltd	3862
 StreamNetworks Ltd	3862
 Suburban Broadband Ltd	3862
 Suburban Ltd	3862
+Surface Wilmar Private Ltd	13562
 Surfspot Communications Ltd	3862
 Swifftalk Ltd	3862
 Swifttalk Ltd	3862
@@ -991,6 +1003,8 @@ Systems S.L Omnilia NLS Ltd	8530
 TAJBank Ltd	4771
 TATA Consulting Engineers Ltd	12979
 THISDAY NEWSPAPERS LTD	2355,176,4,1,56,3,339,96,901,1006,1761,673
+TIKTOK PTE. LTD	13462
+TIKTOK PTE. LTD..........................................21	13462
 Taprap Nig Ltd	3862
 Taprap Nigeria Ltd	3862
 Technation Logistics Ltd	4690
@@ -1009,6 +1023,7 @@ Telkom SOC Ltd’s Universal Service and Access	11259
 Telserve Networks Ltd	3862
 Teruza Pty Ltd	12478
 Through Line Advisors Ltd	10856
+TikTok Pte. Ltd	13462
 Tizeti Ltd	3862
 Tizeti Network Ltd	3862,2887
 TrainDTrainer Ltd	8327,562
@@ -1026,11 +1041,13 @@ TymeBank Ltd	611
 UMOJA ONE LTD Data Processor INST-8500724A072	7167
 UMTS and LTE	2776
 Under LTA Regulations	1910
+Union IXP Internet Exchange Point LTE	13295
 Unique Global Telecommunication Ltd	3862
 Urban Premium LTE	4130
 Us Plus Ltd.' Digital	1062
 VDT Communications Ltd	3862,2887
 VDT Ltd	3862
+Vedanta Resources Ltd	13561
 Vilcom Network Ltd	6671
 Vobiss Gridworx Nig Ltd	3862
 Vodacom International Holdings Pty Ltd	1135
@@ -1060,4 +1077,5 @@ Zeepay Ghana Ltd	1047
 Zeta Web Ltd	3862
 Zeta-web Ltd	3862
 Zeta-web Nigeria Ltd	3862
+Zimbabwe Ltd	13562
 Zimbabwe Media Ltd	5733

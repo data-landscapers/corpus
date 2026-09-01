@@ -36,6 +36,7 @@ Degradación	1701
 Degrading Treatment	3583,8182,1275
 Degree	1219,2568,271,838,351,2512,3103,269,810,234,325,193
 Degree and Type	10726
+Degree of Digitalization	13624
 Degree of EU	3787
 Degree of Risk and Potential Harm	11956
 Degrees	736,8103
@@ -47,6 +48,8 @@ Description DEG	248,96,116,161,208,1,225,1,1,1,376,716,1
 Digital Number of Youth ICT Degrees	11857
 Doctoral Degree	12972
 Dr. Degye Goshu and Mezid	10852
+Environmental Degradation	13474
+Environmental Degradation Safeguards	13474
 Environmental Degradation and Climate Change Management	12253
 Estimated. DEG	1058
 Ethiopia Citation Degaga SD	12246
@@ -85,3 +88,5 @@ Senegal. DEG	1055
 Serbesa Dereje Degaga	12246
 UEM Masters Degree	12826
 University Degree	962
+Virtual Masters Degree	13563
+Virtual Masters Degree Programme	13563

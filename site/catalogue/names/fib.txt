@@ -59,6 +59,8 @@ Ethernet and Fibre Channel	11209
 Expand Fibre Network	4069
 FIBANE	10965
 FIBANE RNSM CREMF	10965
+FIBRE DE CIMENT	13300
+FO Fibre Optique FOSA Formation Sanitaire	13306
 Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
@@ -100,6 +102,7 @@ FiberOne Training Academy	10742
 FiberOne's Consolidation FiberOne Broadband Ltd	6749
 FiberOne's Q3	6749
 Fibercos	10781
+Fiberize	13312,2
 Fibers	2868
 Fibertime	1092,10036,380
 Fibertime Group	1092
@@ -107,7 +110,7 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79
 Fibre Broadband	5112
 Fibre Builds	11857
 Fibre Channel	11209,1976
@@ -122,9 +125,12 @@ Fibre Optic	6671
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
 Fibre Optic Subsea WACS Cable	8679
-Fibre Optique	3469,498,22,3631
+Fibre Optique	3469,498,22,3631,5704,90
+Fibre Optique Au Burundi	13324
+Fibre Optique Chiffre Mobile	13324
 Fibre Patch Panel	12681
 Fibre Plans	11259
+Fibre PoPs	13347
 Fibre Reach	11857
 Fibre Reach Infrastructure IN4	11857
 Fibre Reach Schools	11857
@@ -137,6 +143,7 @@ Fibre-To-The-Home	4150,883,7362
 Fibre-To-The-Home FTTO Fibre-To-The-Office FY Financial Year	6671
 Fibre-To-The-Home. Even	6834
 Fibre-To-The-X	11857
+Fibre-cement	13385
 Fibre-optic	11728
 Fibre-related	8785
 Fibre-to-the-Home	1944,78,6185,1321,1430,1437
@@ -145,7 +152,7 @@ Fibre-to-the-Room	9528
 Fibre-to-the-home	11259
 Fibre. Fibre	11857
 FibreCo and AI-enabled	10243
-FibreCom	12453
+FibreCom	12453,892
 FibreOne	11506
 FibreOne Broadband Ltd	3862
 Fibreboard	11269
@@ -168,9 +175,14 @@ Horizon Fiber Initiative	4918,17,5648
 Housing FTTx Fibre	11857
 Huawei for Fibre-to-the-Home	6864
 Hypa Fibre	10735
+III.4 INFRASTRUCTURES III.4.1 FIBRE OPTIQUE ET	13306
+III.4.1 Fibre	13306
 INCREASINGLY LIBERALIZED FIBER	10861
 ISP Savanna Fibre	6604
 Infrastructure BoFiNet Completes P43m Fibre Project	9912
+Infrastructure Nationale de Fibre Optique	13587,1
+Infrastructures Fibre Optique	13414
+Infrastructures Fibre Optique Au	13414
 Initiative Horizon Fiber	4919
 Investment Incentives Fiber Market	4525
 Kenya Advances Fiber and Wi-Fi Rollout	3890
@@ -192,7 +204,7 @@ MTN Supersonic Home Fibre	11259
 Malaba Fiber and Tower Network	1171
 Malawi National Fibre Backbone Project	127
 Map of Fibre Optic	8679
-Map of Fibre and Broadband Coverage	12453
+Map of Fibre and Broadband Coverage	12453,892
 Map of Nigeria Fibre Network Routes Q4	11857
 Maroc Telecom Transafrican Terrestrial Fibre Cable	837
 Maroc Telecom West Africa Submarine Fibre	627
@@ -230,11 +242,13 @@ National Optic Fibre Network Backhaul Initiative	12210
 National Optical Fibre Backbone Infrastructure	1164
 National Optical Fibre Network Plan Indonesia	11529
 Nigeria Sovereign Fibre Project	4466
+OPERATEUR LONGUEUR DE LA COUVERTURE FIBRE	13414
 OPTICAL FIBRE CABLE CONSORTIUM	11857
 Omdia Fiber Development Index	6773
 On-Land Fibre	3862
 Open Fibre Data Standard	3812
 Optic Fibre	395
+Optic Fibre Deployment	13336
 Optical Fibre Communications	958
 POP. FiberOne	6749
 PRIVATE SECTOR Fibre RoW Standardised Fees	11857
@@ -290,5 +304,5 @@ Yas Fiber	10590,1147
 Yas Fiber CEO Maxime Woimant	10590
 Yas Fibre	4526,2324,5229
 Yas Tanzania Brings Fibre Connectivity	10590
-Zamtel and FibreCom	12453
+Zamtel and FibreCom	12453,892
 Zanzibar and Yas Fibre	6850

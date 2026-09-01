@@ -2,17 +2,21 @@ AF MFBPE	1284
 Abdou Mfopa	7958
 Abuja MFWA	9960
 Agencies MFB Ministry of Finance and Budget MFD	3604
+Agencies MFBPE Ministère des Finances	13331
 Agencies MFD Maximizing Finance for Development MPA	6539
+Agencies MFI Microfinance Institution MIS Management	13312,2
 Allan Gray Ventures and Endeavour. MFS Africa	606
 André Mfinda	4979
 Bacharelato MF M F	10766
 Bacharelato MF M F Angola	10766
 Bacharelato MF M F MF M	10766
 Bacharelato MF M F N.º	10766
+Banks and MFI	13314
 Body BY MFANUFIKILE KHATHWANE EZULWINI	13066
 Body PGR E MF FIRMAM MEMORANDO	12798
 Broken Promises of MFIs	12231
 Burundi MFBEN	3164,1,1,1,1
+Burundi MFI Network	13314
 CANEVAS-RAPPORT MFBEN 2025-2026 T3.xlsx	3164,1,1,1,1,4
 CMO Faye Mfikwe	1590
 Classe M F MF M F	10766
@@ -24,6 +28,7 @@ Classe MF M F Bacharelato MF	10766
 Classe MF M F MF M	10766
 Classe MF M F N.º	10766
 Classe MF M F Novos	10766
+Codes MFP Mutuelle	13306
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
 DGIS of MFIS. DGIS	11855
 Data Annual Collection Collection MFIS and Municipalities	11855
@@ -51,18 +56,23 @@ Ensino Secundário Técnico-Profissional Província Total MF	10766
 Equipamento A MFI	11372
 Estimated. MFS Africa	606
 Ethiopian MFIs	111
+Facility Organization and MFL	13471
 FairMoney MFB	7689
 Flutterwave MFB	9150
 Google CSIR Icasa Luzangu Mfupe Paul	6365
 Government of Cabo Verde. MFIS	11855
 Henock Mfouapon	10970
 ISOC Rwanda. Mfitumukiza	9760
+Jonas Mfouatie	13583
+Jonas Mfouatie MUGERE	13583
 Jumoke Oduwole MFR	12026
 KPI Key Performance Indicator MFA Multi-Factor	11952
 Key Performance Indicator MFSA Microfinance South	11198
+Known MFL	13471
 Kuandaa Mfumo	3509
 Kuhuisha Mfumo	2868
 Kuunganisha Mfumo	2868,3151
+L'objectif du MFBEN	13555
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
 Lt-Gen Mfazi	6151
@@ -95,10 +105,10 @@ MFANUFIKILE KHATHWANE EZULWINI	12437
 MFANUFIKILE KHATHWANE MBABANE	12473
 MFB Ministry of Finance and Budget	969
 MFB Transactions Account	3604
-MFBEN	3165,7
+MFBEN	3165,7,10383,10
 MFBEN FY2024	1776
 MFBNP	11857
-MFBPE	1284,1556
+MFBPE	1284,1556,10491,59
 MFBPE Ministry of Finance	1284
 MFBPE and OBR	1284
 MFBPE and SETIC	993
@@ -108,13 +118,17 @@ MFBPP-CAB	4135
 MFBSB	1272,594,76,1595,178,153,474
 MFBSB. Actions	4342
 MFBSB. Les Soumissionnaires	4342
+MFBU Nombre	13390
+MFD Maximizing Finance for Development MFPTE Ministère	13331
 MFD Maximizing Finance for Development MINEA Ministério	11380
+MFD and PCM	13331
 MFD-EP	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685
 MFD-Enabling	2253,1527
 MFD-Enabling Project	1264,440,163,424,182,983,106,42,1049,6115,649,143,345,521,685
 MFEZs	12376
 MFGPD	9162
 MFI CEOs	1854
+MFI COOPEC	13314
 MFI MTIBD MGYSD MoFDP M2 MVA	12701
 MFI Micro Finance Institution MFS Mobile	2775
 MFI da Garantia Bancária de Execução	11372
@@ -134,15 +148,20 @@ MFIS. Through	11855
 MFIS’s DGPOG	11855
 MFIs and Fintechs. Ksh	12287
 MFIs and MMOs	11960
+MFIs and PSPs	13314
 MFIs. Indirect	12490
+MFIs.15 MFIs	13388
 MFL O Master Facility List	12863
+MFL Organization	13471
+MFL REST	13471
 MFMA Amendment Bill	11236
 MFMA Regulation	11248
 MFMA. PROGRESS TO-DATE ON ICT GOVERNANCE	11231
 MFMOD	11271
+MFP. Défis	13390
 MFPMA	1536,10380
 MFPMA and MAS	11916
-MFPTE	1284
+MFPTE	1284,12047
 MFPTE MINEDU OBR ARMP New Technical	1284
 MFPTE Ministry of Civil Service	1284
 MFPTE and HR	1284
@@ -159,8 +178,10 @@ MFWA Executive Director	9960
 MFWA Sulemana Braimah	9960
 MFWA-commissioned	10297
 MFmyXiB4PazsTzWL	4434
-MINCOTIM and MFBPE	1284
+MICROFINANCE INSTITUTIONS MFIs	13388
+MINCOTIM and MFBPE	1284,12047
 MMOs and MFIs	12269
+MMOs and MFIs. The BRB	13388
 MOPT MFDP	1777
 MSA and MFMA	11248
 Malanje Moxico Namibe Uíge Zaire MF	10766
@@ -179,6 +200,7 @@ Mfolozi	2626
 Mfoniso	9115
 Mfoniso Solomon	9115
 Mfopa	7958
+Mfouatie	13583
 Mfuko	2868,3151
 Mfuleni	8999,1730
 Mfum-Ekok	8167,332
@@ -205,6 +227,7 @@ Outgoing Nedbank COO Mfundo Nkuhlu. Outgoing	9366
 PAFEN’s Steering and Technical Committees. MFBPE	1284
 PAM MFA	10617
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
+PS of MFBPE	13331
 Paystack MFB	3378,9895
 Paystack MFB Africa	2277
 Paystack MFB Why Kenya	2310
@@ -228,6 +251,8 @@ Pós-licenciatura MF M F Angola	10766
 Pós-licenciatura MF M F MF M	10766
 Pós-licenciatura MF M F N.º	10766
 Público-Privado MF M	10766
+RANG LIGNE MF	13300
+RIM. While MFIs	13314
 Raphael Mforlem	10994
 Related MFBEN FY2025	3167
 Reporting and Learning MFA Ministry of Foreign Affairs	7548
@@ -235,11 +260,13 @@ Revised Implementation Arrangements PM MFBPE SETIC	1284
 SACCO MFI	418
 SACCOs and MFIs	2537
 Safaricom M-Pesa MFS	2570
+Sciences Humaines MFB	13377
 Secretaria Provinciais da Educação. MF	10766
 Selon le MFPMA	8517
 Southern Africa MFB Micro Finance Banks	2775
 Sr.ª MF	12018
 Strengthening the Recipient’s Social Protection Systems MFIS	11855
+Technology IFC International Finance Corporation MFI	13347
 Uíge Zaire MF	10766
 West and Eastern Africa. MFWA	5485
 Williams College Massachusetts Mfanfikile Dlamini	11134

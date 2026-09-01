@@ -24,6 +24,7 @@ Agriculture Regional Plant Protection Officer COMESA	12972
 Alvará Comercial	11404
 Angola and Malawi. The COMESA and Malawi	2712
 Autorização de Comercialização	11428
+B. ON THE COMESA FREE TRADE	13440
 B1 COMERCIO Certificado de Comercio	4209
 B2 COMERCIO Certificado de Comercio	4209
 B3 COMERCIO Certificado de Comercio	4209
@@ -34,6 +35,7 @@ Banco Comercial Português	9832
 BancoMundial Comentário	9426
 Bancos Comerciais	2816,9980
 Beneficiário. Módulo de Rendas Comerciais	9403
+C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
 C1 COMERCIO Certificado de Comercio	4209
 C2 COMERCIO Certificado de Comercio	4209
 C3 COMERCIO Certificado de Comercio	4209
@@ -48,6 +50,7 @@ CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
 CCC COMESA	4583
 CCCC COMESA	4583
 CMS Central Management System COMESA Common	13005
+CNRF CPMI CSD COMESA EAC EAPS	13468
 COMENTE Nome	11587
 COMERCIALES	4209
 COMERCIANTES DO MERCADO INFORMAL	8052
@@ -62,31 +65,49 @@ COMERCIO Certificado de Comercio Libreta	4209
 COMERCIO Ficha	4209
 COMES NEXT	10714
 COMES NEXT The ID4D Global	10714
-COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147
+COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83,110,10,29,94,55,11,1,23,50,18,9,35,24,406,24,20,47,33,11,40,147,50,11,19,23,2,42,1,31,12,9,3,9,16,20,12,63,61,49
 COMESA AI	8995
+COMESA AUTHORITY OF THE HEADS	13440
+COMESA Ambassador Conrad Mederic	13440
+COMESA Application	13563
+COMESA Authority	13440
+COMESA Authority His Excellency Dr. Emmerson	13440
+COMESA Authority His Excellency Mr	13440
+COMESA Authority His Excellency Mr. Azali	13440
+COMESA Authority. ELECTED	13440
+COMESA Authority. His Excellency Dr. Emmerson	13440
 COMESA Business Council	279,593
+COMESA Business Forum	13673
 COMESA CLEARING HOUSE Vacancies	11803,1,1
 COMESA COO Jonathan Pinifolo	3748
+COMESA Carrier’s License The License	13563
 COMESA Clearing House	2197,4
 COMESA Clearing House Bank Al-Maghrib SIMT	6938
 COMESA Committee of Governors Meeting	11131
 COMESA Committee of Governors of Central Banks	2276
-COMESA Common Market for Eastern and Southern Africa	11960
+COMESA Common Market for Eastern and Southern Africa	11960,1428
 COMESA Competition Authority	4583
 COMESA Competition Commission	9817
 COMESA Competition Regulations and Competition Rules	961
 COMESA DIGITAL INFORMATION KNOWLEDGE	11825
 COMESA DRPP Scheme Rulebook	9516
 COMESA Digital Retail P Bill	2201
+COMESA Digital Retail Payment Platform. Q	13440
 COMESA Digital Retail Payments Platform	2201
 COMESA Director of Infrastructure and Logistics	9182
 COMESA Director of Infrastructure and Logistics Dr. Bernard	13240
+COMESA Electronic Certificate of Origin	13563
+COMESA Electronic Single Window	13563
+COMESA Electronic Single Window System	13563
+COMESA FREE TRADE AREA	13440
+COMESA FTA	13440,123
 COMESA Federation of Women	12376
 COMESA Financing Agreement	1914
 COMESA Full Compliance Matrix-Finalv1.docx	11825
 COMESA Governors of Central Banks	11131
 COMESA Inclusive Digital Economic Advancement	7453
 COMESA MSME	872
+COMESA Member States	13440
 COMESA Principles	13122
 COMESA Regional AI Strategy	7261
 COMESA Regional Artificial Intelligence	9182
@@ -95,19 +116,25 @@ COMESA SPS	12972
 COMESA Secretariat	7020,241,702,372,660,521,1037
 COMESA Secretary General	7963,372
 COMESA Simplified Trade Regime	13053
-COMESA Summit	3760
+COMESA Summit	3760,9683
 COMESA Summit of Heads of State and Government	13226
 COMESA Support	7020
 COMESA Telecommunications Officer Mr. Leonard Chitundu	9182
+COMESA Trade Information Portal	13563
 COMESA Trains Ethiopia’s National Technical Committee	7020
-COMESA Virtual Trade Facilitation System	13053
+COMESA Virtual Trade Facilitation System	13053,510
+COMESA ZWS HS IEC ADOPTIONS	13385
+COMESA ZWS ISO ADOPTIONS	13385
 COMESA and SADC HCPI	12962
 COMESA and SADC Secretariats	12962
 COMESA and SADC Secretariats. Quarterly	12962
 COMESA and South Africa	4583
+COMESA-EAC-SADC Free Trade Area	13563
 COMESA-coordinated	4538
 COMESA. Chinyama	4365
-COMESA. Zimbabwe	3760
+COMESA. Dans	13419
+COMESA. Des	13452
+COMESA. Zimbabwe	3760,9683
 COMESAClearingHouse	9516
 COMESA’s Regional Payment and Settlement System	10372
 COSOMA and COMESA Virtual Trade Facilitation System	13053
@@ -118,8 +145,11 @@ Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
 Certificado de Registo Comercial	11404
 Cidadão Partilhar Tweetar Partilhar Email Comentários	5572
+Co The COMESA	13563
+Combating the Financing of Terrorism COMESA	13452
 Come Home	4528,7984
 Come Honourable Speaker	11246
+Come and See Burundi	13341
 Comece	10777
 Comedians	11131
 Comentários São Tomé	3530
@@ -140,10 +170,11 @@ Comercio Libreta	4209
 Comercio de Bioko Malabo	4209
 Comers	11986
 Comes	3188,1792,6984
-Comes Next	4625,7619,1010
+Comes Next	4625,7619,1010,315
 Comes Next The FCCPC	7181
 Comes Next Would Tip the Balance	8464
 Comesa Federation of Women	12376
+Comet Plus	13461
 Comete	3519
 Cometidos	10747
 Começamos	10786
@@ -185,11 +216,14 @@ East African Community and COMESA	12469
 Econet’s Fintech Comeback Pays Off	3016
 El Comercio Electrónico	9927
 Emerging Technologies Consultancy. Feeds the COMESA Regional	7261
+Employment COMESA Media Awards	13563
 Encuesta Sobre Márgenes Comerciales	4209
 Endangered Species of Wild Fauna and Flora COMESA	13042
 FACTORIAS Y COMERCIO EN GENERAL	4209
 FACTORIAS Y COMERCIO EN GENERAL FERETERIAS	4209
 FDH Bank and Finca Malawi. COMESA	3748
+FOURTH SUMMIT OF THE COMESA AUTHORITY	13440
+Free Trade Area COMESA	13563
 Free-Trade Deal. Now Comes the Hard Part	10555
 Games Customer Service Week COMESA Committee	11131
 Gestão Comercial	10614
@@ -201,6 +235,7 @@ INDUSTRIA Certificado de Comercio Certificado de Comercio A3	4209
 INSPECCION GEN. SERVICIOS COMERCIALES R. INSULAR.-	4209
 INSPECCION GEN. SERVICIOS COMERCIALES Y PRECIOS	4209
 Inclusive Payments Ecosystem The COMESA	9516
+Information COMESA Common Market for Eastern and Southern	13290
 International Cooperation COMESA Media Awards	7020
 Juliana Arsenio Come	2989
 Juventude Comentário	9846
@@ -213,9 +248,11 @@ Matriz de Comentários	11456
 Million Prize Pool Tunisia Hosts COMESA	5322
 Mº COMERCIO	4209
 Mº de COMERCIO	4209
+News Online Platforms Employment COMESA Media	13563
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
 O SEU NEGÓCIO COMEÇA AQUI	10773
 Operation Come	899
+P. ON COMESA DIGITAL RETAIL PAYMENT	13440
 P502532 COMESA IPF	6539
 PESSOAS SINGULARES COM ACTIVIDADE COMERCIAL	11435
 Partilhar Tweetar Partilhar Email Comentários	2315,3242
@@ -229,20 +266,30 @@ Proyecto de Estudio Zona Libre Comercio	4209
 Purpose COMESA Common Market for Eastern and Southern	2775
 Real Authority Comes Into Question	8380
 Regional Food Balance Sheet COMESA Opens	7020
+Regional Integration COMESA	13563
 Registo Comercial	12021
 S ENTIDADES EQUIPARADAS A SOCIEDADES COMERCIAIS	11435
-SADC and COMESA	7965,4997
+SADC and COMESA	7965,4997,358,192
 SADC and COMESA Secretariats	12962
 SADC2 and COMESA3 the Financial Action Task Force	12444
+SUMMIT OF THE COMESA AUTHORITY	13440
 Salaam. Comes	5045
 Secretario A3 Agregado Comercial A1 Agregado	4209
 Secretario de Estado de Comercio	1855
+Secretary General of COMESA H.E. Mahmoud Ali	13440
+Secrétariat Général du COMESA	13290
 Sistema de Registo Comercial	11480
 Sociedades Comerciais	10755,610,92
+TH COMESA HEADS OF STATE	13673
 Tasa de Comercio	4209
 Transfer Operator COMESA Digital Financial Services	12444
 Venture Debt Comes of Age	4972
-Vice Chair of COMESA	3760
+Vice Chair of COMESA	3760,9683
 Views of What Comes Next	6947
 Views of What Comes Next International	6947
 Won't Let Us Come	12227
+Yellow Card The COMESA Yellow	13563
+ZWS COMESA ADOPTIONS	13385
+Zambia and COMESA	13528
+Zambia and COMESA Team Leader Lana Zutelija	13642
+Zimbabwe. COMESA	13563

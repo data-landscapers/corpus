@@ -4,6 +4,11 @@ ACCOMPAGNEMENT DU PROCESSUS DE MISE EN	613
 ACCOMPLISHED FACT	2352
 ACCORD MANAGED CARE LTD Data Controller	7167
 ACCORDANCE WITH APPLICABLE LEGISLATION	11240
+ACCORDÉ	13300
+ACCORDÉE	13300
+ACCOUCHEMEN	13300
+ACCOUCHEMENT	13300
+ACCOUCHEUSE CE QUI EST MENTIONNÉ. TRADITIONNELLE	13300
 ACCOUNT INFORMATION IN TAX MATTERS	11233
 ACCOUNT STATEMENT	12676
 ACCOUNT TO ACCOUNT TRANSFERS	12392
@@ -33,6 +38,7 @@ ADULTS WITH ACCOUNTS MADE	10977
 AI. Accordingly	11265
 ANSUT Accountability Mechanism National Cybersecurity Agency	3604
 ANTI-CORRUPTION ACCOUNTABILITY SUSTAINABLE BUSINESS	12353
+APPROPRIATION ACCOUNTS	13420
 Abraham Accords	1741
 Accom- Transpor- Information Financial	2775
 Accommodate	11952,723
@@ -41,27 +47,31 @@ Accommodation Online Marketplace	3161
 Accommodation Online Marketplace Internet Search Engine	573
 Accommodation and Food Service	2775
 Accommodation and Food Service Ac-	2775
-Accommodation and Food Services	2775
+Accommodation and Food Services	2775,10873
 Accomodation and Food Services	2775
 Accompagnateur Startup	4567
-Accompagnement	1247,8990,474
-Accompagner	6079,2812,628,1339,107
+Accompagnement	1247,8990,474,2734
+Accompagner	6079,2812,628,1339,107,2336,74,39,151
 Accompagner le ANEMCAM	10965
 Accompagner le PSA-SNFI	10965
 Accompagné	3512,2470,1292,2908
 Accompanied	3861,5182
+Accompaniment	13332
 Accompany	9660
 Accompanying	1284,5102,4577,1,561,844
 Accor	12036
-Accord	1684,658,466,1759,2696,1394,630,55,177,579,545,183,50
+Accor- UNICEF	13681
+Accord	1684,658,466,1759,2696,1394,630,55,177,579,545,183,50,2425
 Accord ANADEN	2960
 Accord BBNJ	10611
 Accord Cadre	10876
 Accord Documents	3675
 Accord Party	10725
-Accord de Cotonou	3045
+Accord de Cotonou	3045,10280
 Accord de Financement	10876
-Accord de Paris	7640,75,1176,2770
+Accord de Licence Ouverte	13393
+Accord de Licence Ouverte URL	13393
+Accord de Paris	7640,75,1176,2770,1772
 Accord de Paris. Dans	11661
 Accord de Paris. Elles	8891
 Accord de Paris. Il	7640
@@ -73,12 +83,16 @@ Accord du Programme	10876
 Accord-Cadre	2808
 Accord-cadre	2808
 Accordance	11853
-Accorder	7917,974,1985
-Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25
-Accords	2465,2896,1536,3929,50,47,599
+Accorder	7917,974,1985,2414,11
+Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26,187,44,81,3,6,16,92,29,11,416,156,95,1,25,5,7,184,11,86,28,93,50,8,145,2,369,9,62,13,7,37,25,223,14,32,71,22,9,39,92,61
+Accords	2465,2896,1536,3929,50,47,599,1779
 Accordées	10876
-Accouchement	10876
-Account	940,280,64,544,39,1716,638,1466,1590,1846,43,1797,1,13,161,95,722,1,20,367,141
+Accou- Infirmière	13300
+Accouchement	10876,2424
+Accouchements	13300
+Accoucheuse	13300
+Accoucheuses AFGRAD	13377
+Account	940,280,64,544,39,1716,638,1466,1590,1846,43,1797,1,13,161,95,722,1,20,367,141,849
 Account Aggregator	3391,4590
 Account Balance Account Employee Salary	12360
 Account Balance CBR Central Bank Rate	11271
@@ -106,7 +120,9 @@ Account Number Type	11685
 Account Number UNIQUE Reference Number	12364
 Account Ownership	1828
 Account Ownership1	1828
+Account PPDPA Public Procurement and Disposal of Public	13420
 Account Recovery	13037
+Account Registration	13477
 Account Reporting Request	12364
 Account Statement Obtain	12397
 Account Takeover	5373
@@ -120,16 +136,18 @@ Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
 Accountabilities	12359
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23,56,32,7,43,55,26,4,3,2,16,68,6,295,335,6,4,16,1,1,1,7,11,49,52,131,14,1,4,5,13,9,29,88,39,11,1,3,97,35,12,12,40,123,252,19,23,3,32,263,54,24,4,32,11,82,85,48,54
 Accountability Accountability	4563
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
 Accountability Consumers	5678
 Accountability Data	12302
+Accountability Data Retention Duties	13321
 Accountability Governance	11634
 Accountability Guidelines	5244
 Accountability Integrating	899
 Accountability Lab Nigeria	2364,4406,2646
+Accountability Lawful Basis for Processing	13381
 Accountability Lawfulness	12549
 Accountability Mechanism	1264,20,583,1022,715,2935,4229,649,548
 Accountability Mechanism CERC Contingent Emergency Response	11560
@@ -138,8 +156,10 @@ Accountability Mechanisms	7313
 Accountability Mechanisms Accountability	7313
 Accountability Must Be Explicit	7548
 Accountability No	12549
+Accountability Over Use of Public Resources	13474
 Accountability Policies	10819
 Accountability Reliability	11138
+Accountability Requirement	13381
 Accountability The Strategic Plan Key Outcomes	12515
 Accountability Within Digital Ecosystems Challenge	6936
 Accountability and Basic Risk Evaluation	11956
@@ -155,15 +175,16 @@ Accountability and Liability Data	3861
 Accountability and Number	7548
 Accountability and Related Tools	12302
 Accountability and Sustainability	11867
-Accountability and Transparency	12500
+Accountability and Transparency	12500,918
 Accountability and Transparency Accountability	12500
 Accountability and Transparency P9-29. Internal	12500
 Accountability and Transparency Social	12964
 Accountability. DISTRIBUTED BY VERITAS E-mail	972
+Accountability. Section PART VI DATA SUBJECT	13319
 Accountable	6792,4027,460,729,351
 Accountable Governance for Basic Service Delivery	2112
 Accountable Public Institutions	11469
-Accountant	11525,1445,7
+Accountant	11525,1445,7,355
 Accountant Aboubakar Ousmane	10961
 Accountant General	2531,925,3735,247,37,1529,2218,247,784,479
 Accountant General Department	12176
@@ -177,15 +198,15 @@ Accountant General’s Department	13005,48
 Accountant General’s Office	9004,3952
 Accountant-	11976
 Accountant- General	11976
-Accountant-General	2253,3280,4530,746,1057,76,34
+Accountant-General	2253,3280,4530,746,1057,76,34,1444
 Accountant-General of Federation	11976
 Accountants	1248,4552
 Accountants Transaction Date	4896
 Accountants and Auditors Act	3714
 Accountants’ and Auditors’ Act	3714
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
-Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843,433,44,17,41,264,64,327,288,42,2,554,163,325,71,51,164
-Accounting Authority	7622,3576,52
+Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843,433,44,17,41,264,64,327,288,42,2,554,163,325,71,51,164,146,130,145,18
+Accounting Authority	7622,3576,52,2170
 Accounting Department of Jumhuriya Bank Tripoli	4630
 Accounting Estimates and Errors	3051
 Accounting History During The Colonial Era	2518
@@ -194,16 +215,18 @@ Accounting Management	13185
 Accounting Officer	1554,1108,1038,4210,2403,884,27,1807,6
 Accounting Officer Land	11197
 Accounting Officer Signature Approved	5533
-Accounting Officers	10313,880,59
+Accounting Officers	10313,880,59,2168
 Accounting Officers and CEOs	9983
 Accounting Officers and Chief Executive Officers	8981
 Accounting Policies	3051
 Accounting Policies Adopted and Explanatory	11855
+Accounting Practice GAL Government Analyst Laboratory	13420
 Accounting Practices Committee	10793
 Accounting Practices Committee and Financial Pronouncements	10793
 Accounting Risk	3604
 Accounting Separation	11857
 Accounting Separation Q3	11857
+Accounting Software Package	13420
 Accounting Standards	7204,3589
 Accounting Standards IRR Internal Rate of Return	1264
 Accounting Standards and Financial Reporting System for Cabo	11955
@@ -213,11 +236,14 @@ Accounting Treatment	7198
 Accounting and Audit	6998
 Accounting and Business	8029
 Accounting and FM IFR. RAPID-CI PCU	3604
+Accounting and Financial Reporting	13332
 Accounting and Financial Reporting System Standards System	11955
 Accounting and Payment	13042
-Accounts	7,4,576,2464,836,1853,5458,35,231,491,246,168,157,4,5,359,68,8,2,65
+Accounts	7,4,576,2464,836,1853,5458,35,231,491,246,168,157,4,5,359,68,8,2,65,250,52,16,16,161
 Accounts Held	11233
 Accounts Rebasing Stakeholder Engagement	12395
+Accounts Receivable	13420
+Accounts Receivables	13420
 Accounts SDGs Agriculture Statistics External Trade	12499
 Accounts SGR Standard Gauge Railway SHA	2775
 Accounts SNE Special Needs Education SPL	2775
@@ -225,6 +251,7 @@ Accounts SUT Supply Use Table Telcos	236
 Accounts Section	12977
 Accounts Tackling Payment Screening Challenges Head	3279
 Accounts and Audits	12531
+Accounts of Board	13470
 Accounts. B. Alternative Procedures for Financial	11233
 Accra-Kumasi Expressway Account	7695
 Act. Accordingly	12447
@@ -233,6 +260,7 @@ Action Accountability	6936
 Adaptive Governance and Democratic Accountability	4528,7984
 Additional Financing AM Accountability Mechanism ARCEP	2889
 Administrative Account	969
+Administrator Account	13333
 Advancing Accountability	8202,2954
 Advisory Counsel Sindi Manyatsi Financial Accounting	11131,3
 Africa ALHA Agricultural Land Holdings Account	11261
@@ -247,6 +275,11 @@ Aminah Zawedde. Public Accounts Committee	5343
 Analysis My Account Sign Out Stay	9629
 Annual Production Accounts	2775
 Anti-Corruption and Accountability Systems	13080
+Applied Accounting	13368
+Appropriation Account	13420
+Appropriation Account. Management Response Treasury	13420
+Appropriation Accounts	13420
+Appropriation Accounts and Commissions	13420
 Artemis Accords	6897
 Articled Accountant	4896
 Artificial Intelligence. Accordingly	11956
@@ -264,6 +297,7 @@ Autonomy and Accountability	8283
 B. Lower Value Accounts	11233
 BASEL II Accord	10
 BASES OF PRESENTATION AND KEY ACCOUNTING	11955
+BASIS OF PREPARATION OF PUBLIC ACCOUNTS	13420
 BDO Zimbabwe Chartered Accountants	4896
 BDO Zimbabwe Chartered Accountants Exchange Control	4896
 BDO Zimbabwe Chartered Accountants Registered Public	4896
@@ -271,6 +305,7 @@ BDO Zimbabwe Chartered Accountants Tel	4896
 BERGMANS SIGNENT UN ACCORD DE CONCESSION	10476
 BOMET COLLEGE OF ACCOUNTANCY LIMITED Data	7167
 Bachelor of Accountancy	4896
+Bachelor of Accounting	13368
 Bachelor of Accounting Science	4896
 Backhoe TSAI Tinkhundla Social Accountability Index	12970
 Bank Account Customer Customer Number Name	12364
@@ -283,24 +318,33 @@ Barriers To Account Ownership Saving	1828
 Basic Accounting System	12868
 Basic Bank Account	12447
 Basic Bank Account and Cash Deposit Fees	12447
+Basis of Preparation of Public Accounts	13420
 Between Innovation and Accountability	10270
 Big Tech Accountability	8712
 Big Tech Accountability Summit	9817
 Bility Urge Stronger Institutional Accountability	4261
 Books of Account	11976
 Botswana Accountancy College	4060,8538,14
+Botswana College of Accounting	13494
 Budget Reporting and Control Stores Accounts Payable	9437
+Budgeting and Accounting System	13418
 Business and Accounting	8671
 C. Account Balance Aggregation and Currency Rules	11233
 C. Entity Accounts With Respect	11233
 CEOs and Accounting Officers	9695
+CERTIFICATION OF PUBLIC ACCOUNTS	13420
+CHAQUE TYPE DE PERSONNE ET ACCOUCHEUSE	13300
 COBE. Accordingly	4896
 COMMUNICATION ET ACCOMPAGNEMENT Objectif Cette	10711
 CONVENTIONS ET ACCORDS INTERNATIONAUX	4658
+CREATE AN INDIVIDUAL ACCOUNT	13333
+CREATE AN INSTITUTION ACCOUNT	13333
+CREATING A CLIENT ACCOUNT	13333
 CRITICAL ACCOUNTING JUDGEMENTS AND ESTIMATES	10793
 Cabinet. Accountability	7548
 Canada and Nigeria. Accompanied	10120
 Capital Pay Client Trust Account	3583
+Caractéristique Médecin Sage- Infirmière Accou- Parents	13300
 Card Accountability	6832
 Cash Flow Accounting of Fuel Subsidies	1828
 Cash Reserve Account	12364
@@ -308,8 +352,12 @@ Center for Transparency and Accountability	8955
 Central Bank of Lesotho Account Number	12700
 Central Treasury Accounting Agency	969
 Centre for Social Accountability and Transparency	6754,1680
+Certification of Public Accounts	13420
 Certified Public Accountant	6946
+Cet Accord	13301
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
+Chansa School Accounting Officer	13392
+Charge for Monthly Account Statement	13304
 Chartered Accountant	4896,6235,3,1817
 Chartered Accountant Zimbabwean	4896
 Chartered Accountants	10270
@@ -324,6 +372,7 @@ Chief Executive Officer and Accounting Authority	11198
 Chief Executive and Accounting Officer	11976
 Citizen Voices for Accountability	11866
 Clearing Account Regional Energy Regulators Association	12969
+Client Account	13333
 Code of Ethics for Accountants and Auditors	11955
 College of Accounting	11027
 Commission. Accordingly	11956
@@ -334,6 +383,7 @@ Conception and Scoping Account	11007
 Confidentiality Security Transparency Transfer Accoutability	1243
 Congo. Accompagné	8065
 Consolidated Fund IMF Securities Account	11131,3
+Consolidated Revenue Fund-Main PMG Account	13420
 Continental Free Trade Area AM Accountability	1264
 Contract Account Number. Customers	8231
 Contracts Management and Project Accounting	11231
@@ -347,6 +397,7 @@ Corporate Accounts Definition	11986
 Corporate Accounts Target	11986
 Corporate Accounts Unit	11986
 Corporate Accounts Unit Purpose	11986
+CotreenZulu Project Accountant	13392
 Council. PART III FINANCIAL AND ACCOUNTING	12894
 Country Partnership Framework DA Designated Account	1264,10296
 County AI Focal Points. Accountability	7548
@@ -355,6 +406,9 @@ Court of Accounts	969,315,2525,3351
 Court of Accounts and Parliament	969
 Court of Accounts’ Execution Control	1284
 Create Account Property Search	12511
+Create An Individual Account	13333
+Create An Institution Account	13333
+Create New Account	13333
 Create Transparency and Accountability	12419
 Crunchbase Global Funding Report. Accordingly	4972
 Current Account	2775
@@ -362,13 +416,17 @@ Current Account Balance	2775
 Custodial Account	11233
 Customer Account Report	12364
 Customer Account and User Profile	12654
+D E ENCERCLEZ LE ACCORDÉ	13300
+D ENCERCLEZ LE ACCORDÉ	13300
 DA Designated Account DE4A Digital Economy	969,5570
 DA Designated Account DFIL Disbursement and Financial	10768
 DEFINITIONS Accommodation Online Marketplace	3161
 DEMOCRATIC ACCOUNTABILITY	3861
 DEMOCRATIC ACCOUNTABILITY AND TRANSPARENCY MANDATES	3861
 DISCLOSURE BDO Zimbabwe Chartered Accountants	4896
+DURANT ACCOUCHE	13300
 Data Processor Accountability	3861
+David Mwale John Account Office	13392
 Definition of Reasonable Accommodation	11935
 Democratic Accountability DPI	4424
 Democratic Accountability ESTABLISHING	3861
@@ -381,7 +439,7 @@ Depository Account	11233
 Depository Accounts	11233
 Dept. Accounting	10123
 Deputy Accountant General for Accounting and Reporting	7475
-Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149
+Designated Account	1264,603,1022,3650,4229,61,135,891,50,1149,277,1
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
 Designated Account. A Designated Account	11525
@@ -393,6 +451,7 @@ Digital Economy Satelite Account	6019
 Digital Economy Satellite Account	2868
 Digital Governance and Accountability Frameworks	6936
 Digital Health Data Governance and Accountability	9248
+Digital System Built for Accountability	13510
 Digital Transformation for Transparency and Accountability	5014
 Diligence for Pre-existing Individual Accounts	11233
 Director Financial Regulation Chartered Accountant	11134
@@ -405,8 +464,12 @@ Drive Big Tech Data Protection Accountability	9817
 Driving Licence Card Account	4554
 Due Diligence Procedure and Joint Account	11685
 Duplicate Account Prevention	12404
+Développement Accouch	13377
 E. Any Pre-existing Individual Account	11233
 ECONOMIES HAVE ACCOUNTS	10977
+ENCERCLEZ LE ACCORDÉ	13300
+ENCERCLEZ LE ACCORDÉE	13300
+ENCERCLEZ LE CODE APPROPRIÉ ET ACCORDÉ	13300
 ENHANCED ACCOUNTABILITY AND TRANSPARENCY	3714
 ENHANCED ACCOUNTABILITY AND TRANSPARENCY Application	3714
 ERS Customs Bank Account	13195
@@ -433,8 +496,12 @@ Eswatini Accountability	12395
 Eswatini Institute of Accountants	12996
 Eswatini Tourism Satellite Account Committee	11131,3
 Ethics for Professional Accountants	13053
+Exchequer Account Transactions	13420
 Express Account	9075
+Express Account Masterpass Nombre	13390
+FI Financial Accounting GAAP Generally Accepted	13420
 FINANCIAL ACCOUNT INFORMATION IN TAX	11233
+FUND ACCOUNTS SUMMARY OF CONTENTS Page	13420
 Facility Financing Accounting and Reporting System	1261
 Fake Accounts Badawy	9472
 Federation Account	2531
@@ -444,6 +511,7 @@ Fees Accounts	13053
 Fight for Big Tech Accountability	9817,120
 Finance and Accounting	12972
 Finance and Accounts	6946
+Finance and Revenue Statements and Fund Accounts of Zimbabwe	13420
 Financial Account	11233
 Financial Accounting	11231
 Financial Accounts	11233
@@ -453,10 +521,15 @@ Financial Reporting and Accounting System	11955
 Financial and Management Accounting	11131
 First Let’s Talk About Boardroom Accountability	8629
 Foreign Account Tax Compliance Act	6524,1,5160
+Foreign Currency Account	13532
 Foreign Currency Bank Account Restrictions	12389
 Formal Account Ownership	11138
+Francis Ngulube Senior Accountant	13392
 Frequency Accounts Broadcast Competition Fund Strategy	6946
+Fund Accounts	13420
 Fund Flows Diagram IDA Account	3604
+Funds Accounts	13420
+Fund’s Accounting Procedure Manual	13420
 GACC's Local Accountability Networks	7457
 GAINS MADE THROUGH NATIONAL ACCORD	10581
 GOVERNMENT ACCOUNTS OF THE KINGDOM	13126
@@ -464,6 +537,7 @@ GRANT THORNTON Chartered Accountants	13053
 GSS National Accounts Section Felix Debrah	236
 Gender Mainstreaming and Accountability	12946
 General Elections. Public Accounts Committee	5343
+Generally Accepted Accounting Practice	13420
 Generally Recognised Accounting Practice	11198
 Generate Accounts Statement Accounts	12676
 Global USD Account	10223
@@ -484,6 +558,8 @@ Governance and Accountability. The Theory of Change	12175
 Government Accountability Advocates	6948
 Government Accountability Series	3832,7249
 Government Accounting and Budgeting System	2576
+Government Accounts	13685
+Government Paying Accounts	13420
 Government Treasury Account. Fintech	12598
 Government of National Accord	434
 Government of Uganda1s Treasury Single Account	4217
@@ -512,13 +588,15 @@ INFRACO INDEPENDENT REPORTING ACCOUNTANT'S REPORT	4896
 INTERIM ACCOUNTING	3714
 INTERIM ACCOUNTING Half-yearly	3714
 Identifying Entity Accounts With Respect	11233
+Implications Accountability	13420
+Incident Response Team DECA Designated Account	13331
 Increasing Deterioration. Accountability	11888
 Increasing Voice and Accountability	5349
 Indemnity Financial and Accountability Provisions	12530
 Independence and Accountability	3861
 Independent Reporting Accountant	4896
 Independent Reporting Accountants of Econet	4896
-Individual Account	11233
+Individual Account	11233,2100
 Individual Accounts	11233
 Individual Accounts. A	11233
 Inflation Rate and Current Account Balances for Selected	2775
@@ -526,6 +604,7 @@ Inflation and Current Account Balances	2775
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
 Institute of Chartered Accountant of Pakistan	1824
+Institution Account	13333
 Institutional Accoun-	10819
 Institutional Accountability	11138
 Institutional Accountability Primary	11138
@@ -544,17 +623,19 @@ International Federation of Accountant	11855
 International Journal of Digital Accounting Research	8606
 International Monetary Fund Quota Subscription Account	11131
 International Public Sector Accounting Standard	3051
-International Public Sector Accounting Standards	1554,1497,5953,1764
+International Public Sector Accounting Standards	1554,1497,5953,1764,2652
 International Public Sector Accounting Standards Board	3051
 International Public Sector Accouting Standards	10975
 Investment Account	12920
 JUSTICE ACCOUNTABILITY Rank	10968
 Japan Administered Account for Selected Fund Activities	11973
+John Fred Mbewe Accounts Assistant	13392
 Journal of Accountancy	8784
 Journal of Applied Management Accounting Research	8130
 Justice Accountability	10759,78,1315,188
 Justice and Accountability	11889
 L. T. MAKHODE ACCOUNTING OFFICER Service	11218
+LABOUR AND SOCIAL WELFARE APPROPRIATION ACCOUNT	13420
 La Socio-Economic Rights and Accountability Project	8984
 Large Accounts Unit	11986
 Large Accounts Unit Definition	11986
@@ -589,7 +670,9 @@ Measurement and Accountability for Health	3791
 Metrics and Accountability	3861
 Metrics and Accountability Outcome	3861
 Millennium Challenge Account	12376,269
+Ministries and Fund Accounts	13420
 Ministries' Accounting Finance Reform	11906
+Misumbi Wamulume School Accounting OfficerR	13392
 Mobile Services Account	11642
 Money Accounts	1828
 Monitoring and Accountability	12675,330
@@ -598,6 +681,7 @@ Multi-Billion Birr Accounting Failure	7909
 Multi-Stakeholder Accountability	6748
 My Account	11877
 N M Accounting	10829
+N T ENCERCLEZ LE ACCORDÉ	13300
 NAS Account	11129
 NDP Act. Accordingly	11956
 NHWA National Health Workforce Accounts NTDs	12729
@@ -609,7 +693,9 @@ National Accord Newspaper	9876
 National Account	12395
 National Account Rebasing	12395
 National Accounting and Financial Reporting System	11955
-National Accounts	236,919,9997,85,187,1021,323
+National Accounts	236,919,9997,85,187,1021,323,563,28
+National Accounts Data Files	13331
+National Accounts Real GDP	13685
 National Accounts Section	12962
 National Accounts16	236
 National Chart of Accounts	11955
@@ -643,21 +729,33 @@ Oil Revenue Stabilization Account	3583
 Oil Revenue Stabilization Account.347	3583
 Online Account Creation Without Third Party	12389
 Online Accounts	4439
+Operating Account	13331
 Operational Account	3604
 Operational Operational Account	1867
 Order of Accountants and Auditors of Mozambique	6626
 Oversight and Accountability	12580
 Own Account	11469
 PA Project Account PAGDS Enhancing Government	3604
+PARLIAMENT OF ZIMBABWE APPROPRIATION ACCOUNT	13420
 PART III FINANCIAL AND ACCOUNTING PROVISIONS	12894
+PART V Accounts and Finance	13470
+PERSONNE LA PLUS QUALIFIÉE. ACCOUCHEUSE TRADITIONNELLE	13300
+PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
+PFMS and Appropriation Accounts	13420
+PLUS QUALIFIÉE. AUTRE PERSONNE ACCOUCHEUSE TRADITIONNELLE	13300
+PLUS QUALIFIÉEE AUTRE PERSONNE ACCOUCHEUSE TRADITIONNELLE	13300
+PLUS QUALIFIÉEE. AUTRE PERSONNE ACCOUCHEUSE TRADITIONNELLE	13300
+POUR ACCORD POUR VISA LE CHEF	13524
 Parliament's Public Accounts Committee	9696
 Participants. Account Service Level SLA	12364
 Pattern of Participation Without Accountability	3874
 Payment Instructions and Account Transfers	12484
+Peace Accord	13313
 Performance and Accountability	4528,7984
 Petroleum Revenue Stabilization Account	3583
 Physical Energy Flow Accounts	2775
 Platform Accountability Fellowship	10571
+Postpaid Account Payment Account	13333
 Power of Accountant-General	11976
 Pre-Existing Accounts	11233
 Pre-existing Account	11233
@@ -672,25 +770,29 @@ Preexisting Accounts	11233
 Presenting Accounts	10
 President Global Gov. and Enterprise Key Account	7979
 Private Account	9400
+Procurement Officer M&I Accountant Accountants MIS	13332
 Produced National Health Accounts	12729
+Professional Accountants Bodies	13420
 Professional Bar of Certified Auditors and Accountants	11955
 Professional Women Accountants of Nigeria	11866
 Project Accountant	1867
 Project Accounting	11231
+Project’s Designated Account	13392
 Protect Your Account	9166
 Protocol IPSAS International Public Sector Accounting	6946
+Provincial Accountants	13332
 Public Account Committee	11866
-Public Accountability	12389
+Public Accountability	12389,1235
 Public Accountability Project	10109
 Public Accountant	4896
 Public Accountant and Public Secretary	6946
-Public Accountants and Auditors Act	3051
-Public Accountants and Auditors Board	3051
+Public Accountants and Auditors Act	3051,10260
+Public Accountants and Auditors Board	3051,10260
 Public Accountants' and Auditors' Act	3714
 Public Accountants’ and Auditors’ Act	3714,9191
 Public Accountants’ and Auditors’ Board	12905
 Public Accounts	11230
-Public Accounts Committee	5343,193,1,1245,260,1278,1119,2427,714,48,328
+Public Accounts Committee	5343,193,1,1245,260,1278,1119,2427,714,48,328,431
 Public Accounts Committee Act	11866
 Public Accounts Committee Date	12628
 Public Accounts Committee. Kenya	5537
@@ -702,6 +804,7 @@ Public Expenditure and Financial Accountability	3604,6915,1981
 Public Expenditure and Financial Accountability Assessment	13122
 Public Expenditure and Financial Accountability Program	11866
 Public Finance Accounts Management Regulations	10313
+Public Finance Management Act. Accordingly	13685
 Public Finance Management and Accountability Act	3583
 Public Financial Management Accountability Act and Treasury	12669
 Public Financial Management and Accountability Act	3583
@@ -719,6 +822,7 @@ REPORT Accompanying	6477
 REPORT OF THE ACCOUNTING OFFICER	11218,6
 REPORT OF THE ACCOUNTING OFFICER Introduction	11218
 REPORT OF THE INDEPENDENT REPORTING ACCOUNTANTS	4896
+REPORTING ACCOUNTABILITY The Ministry of Education	13310
 REPORTING ACCOUNTANT'S RESPONSIBILITY	4896
 RESPONSIBILITIES AND ACCOUNTABILITIES	12253
 RFP. Accordingly	11240
@@ -728,20 +832,25 @@ Real GDP Growth Inflation Current Account	2775
 Reasonable Accommodation	11935
 Records Public Perception of Accountability Anti-Corruption	10837
 Recovery Account CD Chief Director DAC	11218
+Recovery of Accounts Receivable	13420
+Recovery of Accounts Receivable Finding	13420
 Recurrent Account	2775
 Recurrent and Development Accounts	13055,67
 Reform and Accountability The Ministry	10110
 Reforms and Accounts Adviser	11858
 Regional Courts of Accounts	3809
 Registered Public Accountant	12342
+Registry. CREATING A CLIENT ACCOUNT	13333
 Regulatory Architecture and Accountability	5574
 Relief and Accountability	11135
 Report ACCOUNTABILITY Code of Conduct	1988
+Report Accountability	13310
 Report Management and Management Accounts. Computerization	11939
 Reportable Account	11233
 Reportable Accounts	11233
 Reportable Accounts. D. Review Procedures for Identifying	11233
 Reportable Jurisdiction. If the Account Holder	11233
+Reporting Accountability Timely	13310
 Reporting Accountant of Econet InfraCo	4896
 Reporting Accountants	4896
 Reporting Accountants and Auditors	4896
@@ -769,7 +878,7 @@ SHAREHOLDER CAUTION Accordingly	4263
 SISP The Certified Accountant	11955
 SNA93 National Accounts	11906
 Safety Accountability	10837,1052,263,11,177,1
-Savings Account	7653,187,58,726
+Savings Account	7653,187,58,726,4680
 School Accounting Regulations and Procedures	12975
 School of Accountancy	9237
 Se Accomplir	737
@@ -784,6 +893,7 @@ Settlement Account	12364
 Settlement Accounts	12364
 Settlement Reserve Account RA Accounts	12364
 Short-term Accounts and Finance Courses	12972
+Sibeso Mundia Senior Accountant	13392
 Single Treasury Account	1284
 Sinking Fund Cedi Account	7695
 Sochi Accord-2022.pdf	12444
@@ -794,19 +904,36 @@ Southern African Journal of Accountability	9237
 Special Drawing Account	7845
 Special Funds Accounts Committee	10313
 Standard Chart of Accounts. Systems	9939
+Standards IPSAS International Public Sector Accounting	13420
 Standards for Basic Bank Account	12447
 State Accounts	12951
 State Department for Housing Accommodation and Food Services	2775
 Strategic Accounts	6270
 Strengthen Horizontal Accountability for Citizens’ Data	6770
+Strengthen Local Authority Accountability	13646
+Strengthened Transparency and Accountability HRIMS	13477
 Structures Accompagnement	643
 Student Accommodation	12411
+Sub Exchequer Account and Consolidated Revenue Fund-Main	13420
+Sub PMG Account	13420
+Sub- Paymaster General’s Account	13420
+Sub-Exchequer Account	13420
+Sub-Exchequer Account Reconciliation	13420
+Sub-PMG Account	13420
+Sub-PMG Bank Account	13420
+Sub-Paymaster General Accounts of ZWL	13420
+Sub-Paymaster General’s Account	13420
+Sub-Paymaster General’s Account Reconciliations	13420
+Sub-Paymaster General’s Account TTs Telegraphic Transfers	13420
+Sub-Paymaster-General Bank Account	13420
+Sub-Paymaster’s General Account Reconciliations Finding	13420
+Submit Account Details	13333
 Supply Utilization Accounts	13049
 Supply and Utilization Account SUT Supply and Use	2775
 Support Facility DA Designated Account DGE	11549
 Support for Open and Accountable Use of Emerging Digital	1090
 Supporting Police Accountability and Transformation Project	8471
-System of National Accounts	236,2632,5664,4099
+System of National Accounts	236,2632,5664,4099,679,314
 T-Connect Impact Account	4656
 TB Multisectoral Accountability Framework	12729
 TEST OF ACCOUNTABILITY AND THE RULE	10581
@@ -818,16 +945,18 @@ Tanzania Accountants Association President Godvictor Lyimo	8888
 Tax Accounts N	12951
 Tax Refund Account	7695
 Tax Refund Accounts	11976
+Tax and Accountability Enhancement Project	13429
 Taxpayer Accounting	12491
 Teamwork. Accountability INTRODUCTION	12606
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
+Tertiary Student Accommodation	13474
 Third-Party Benefits Assessment Accountability Collaborators	1243
 Tinkhundla Social Accountability Programme	12970
 Tourism Satellite Account	12631
 Tracy Mpofu Chartered Accountant Zimbabwean	4896
 Transit Revenue Accounts	13053
 Transparency And Accountability DNEMIS URL	12061
-Transparency and Accountability	718,252,2118,8778,776
+Transparency and Accountability	718,252,2118,8778,776,704,131
 Transparency and Accountability NRB	13005
 Transparent Reporting and Public Accountability	5245
 Treasury Single Account	969,315,8175,30,1,518,85,136,556,1120,231,40,493
@@ -836,6 +965,7 @@ Treasury Single Account Implementation	11952
 Trend Increasing Deterioration Accountability	12341
 Trinity College Dublin’s AI Accountability Lab	10727
 Trust Account	12335
+Trust and Accountability and Sustainability	13575,1
 Tsetela Account	7653,187,58,726
 Turkish Court of Accounts	11637
 Turkish Court of Accounts and TİKA	11637
@@ -864,6 +994,8 @@ WTO Customs Valuation Agreement. Accordingly	11036
 Weak Accountability and Transparency	6936
 WhatsApp Channel and X Account	10280
 Women Account	12472
+World Bank Disability Inclusion and Accountability Framework	13331
+World Bank National Accounts Data and OECD	13331
 World Bank's Accountability Mechanism	11905
 World Bank’s Accountability Mechanism	3604,7813
 ZSE Listings Requirements. Accordingly	4896

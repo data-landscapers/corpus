@@ -15,6 +15,7 @@ Guarderías Infantiles	4209
 ID for All An Infant Registration Bill	4553
 IMR Infant	12367
 IMR Infant Mortality Rate IMT International	2775
+INFANT AND CHILD MORTALITY	13454
 INFANTIL	4209
 INFARMED	10188
 INFAS	9717
@@ -27,7 +28,7 @@ Infant	10780,49,27,1282,13,216,46,226,16,17,291
 Infant Care Support	13080
 Infant Life	13040
 Infant Mortality	12383
-Infant Mortality Rate	12367,16,30,226
+Infant Mortality Rate	12367,16,30,226,760
 Infant Mortality Rate ASFR	12639
 Infant Mortality Rate and Neonatal	12138
 Infant Registration Bill	4534
@@ -41,6 +42,7 @@ Infants and Children Associated With Maternal Supplement	11525
 KDHS Infant	12151
 Life Counts Infant Mortality Rate	12151
 MORTALIDADE NEONATAL E INFANTIL	10777
+MORTALITÉ INFANTILE ET MORTALITÉ JUVÉNILE Mortalité	13300
 Mortalidade Infantil	11537
 Pornografia Infantil	11374
 Postpartum Infant Care Program	6423

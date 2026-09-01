@@ -1,6 +1,8 @@
+ADB CFCIB RRA TRA URA MRMEICT	13427,233
 ADC CFO	1041
 Abbreviations CAR Central African Republic CFA	4127
 AfDB Financing for Cameroon Totals CFA833.8B	5407,676
+BIDF BIJE BNPL BRB CFCIB COOPEC	13390
 Business Objects CFE	13053
 CA Autoridade Certificadora CFE Centro	11555
 CBDC CCBG CFT CMA CPI CSI	11131
@@ -9,12 +11,15 @@ CCBG CFT CMA COE CPI CPS	11134
 CDD Customer Due Diligence CFT Combating	12663
 CEC CEC CFL CNEPT DME DNASE	10766
 CF Mounana	10036
+CF Parcelle	13375
 CF T CCI	12701
 CF and OR for Mozambique	771
 CF&start	4127
 CFA Franc	10841,1064
 CFA Franc FCV Fragile	969
 CFA Francs	7958,3595,371
+CFA Institute Level	13688
+CFA Level	13688
 CFA du Pandemic Fund	8636
 CFA-franc	9593
 CFA. Article	1801,5545
@@ -142,9 +147,11 @@ CFAO KENYA LIMITED Data Controller INST-39970208DCB	7167
 CFAO MOBILITY KENYA LIMITED Data Controller	7167
 CFAO Mobility	12241
 CFAO Mobility Zambia and World Vision Zambia	7375
+CFAO Mobility and World Vision Zambia	13691
 CFAfranc	4127
 CFC-11	12253
 CFCEs	10961
+CFCIB	13358,32
 CFCO. Minister Ibombo	5288
 CFDTrading	12867
 CFEEF	4420
@@ -162,6 +169,7 @@ CFM Crise	7655
 CFM Information Desk	9772,1
 CFM Regulations	10452
 CFN and ICOPRON	9876
+CFO David Ebersman	13461
 CFO Eulogio Oyó Riqueza CFO Ciriaco	4209
 CFO San José Obrero Escuela Taller	4209
 CFO Tsakeriwa Chauke	3504
@@ -175,6 +183,7 @@ CFR Certificat Foncier	10876
 CFR InfoGuide	12227
 CFRSP	11599
 CFT AML	11861
+CFT ARCT ATS BIS	13468
 CFT ATM BSA CBL CIS CMA	12701
 CFT Anti-Money NFIS National Financial Laundering	12297
 CFT Arrangements	12542
@@ -183,6 +192,8 @@ CFT Bill	2193
 CFT CBS CIF EA EAC EMDEs	11136
 CFT Compliance Financial Institutions	11861
 CFT Compliance Officer	12542
+CFT DEFENCE	13532
+CFT Directives	13532
 CFT Financing of Terrorism ICT Information and Communication	12444
 CFT Laws Frameworks	12444
 CFT Onsite Inspections. Enhanced AML	11134
@@ -206,6 +217,7 @@ Cf la SOUS-	10975
 Cf la SOUS- RAS	10975
 Cf. Afritech	10966
 Cf. Annexe	8891
+Cf. Annexe I	13325
 Cf. Conseil	8891
 Cf. Décret	10966
 Cf. HCP	8891

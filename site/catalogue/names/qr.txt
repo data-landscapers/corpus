@@ -1,3 +1,5 @@
+Authentication Code and QR Code	13606
+Authentication Code and QR Codes. Security	13606
 BI Records QRIS Transactions Soaring	11994
 Bank Indonesia Trials QRIS Tap	11994
 Code QR	5471,5682
@@ -28,7 +30,8 @@ MVola Wallet-to-Bank and QR Code	2633
 Management System QR Code Quick Response	9855
 Merchant QR	10458
 NIBSS QR	2378
-Nakanoshima Qross International Institute of Future Medicine	3760
+Nakanoshima Qross International Institute of Future Medicine	3760,9683
+POS and QR	13388
 PayShap QR	7253
 Paydia. Bank Indonesia Exempts QRIS MDR	11994
 Physical Smart ID Cards and QR-Based Credentials	5533,58,6395
@@ -36,7 +39,7 @@ Protection of Personal Information Act QRS Query	11250
 QLWLYDPHQWH QRV WHUPRV	11530
 QR CODE	13123
 QR Card Scheme Book	12269
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461
 QR Code GIMACPAY	4208
 QR Code Security	10823
 QR Code VDS	2465
@@ -44,14 +47,15 @@ QR Code and Machine-Readable Zone. The NID	12291
 QR Code. Avec	9177
 QR Code. Ce	9177
 QR Code. Cette	4459
-QR Codes	4208,156,879,28,1667,792,1447,1495,1322,1086
+QR Codes	4208,156,879,28,1667,792,1447,1495,1322,1086,526
 QR Codes GIMAC	5243
 QR Codes. C'est	10515
 QR Enhancing	9237
 QR Gimacpay	3032
+QR code	13390
 QR-Code	11130,402
 QR-based	2612,1756,1508,4
-QR-code	1343,426,810,2297,109,755,56,3004,2090,1085
+QR-code	1343,426,810,2297,109,755,56,3004,2090,1085,1413
 QR-code-enabled	3852
 QR-coded	3101,2934,2486
 QRIS E-money Digital	11994
@@ -68,6 +72,7 @@ RYHUQRHRVHXSOH QR HQJDMDPHQWR HP PDWpULD GH	11530
 SULPHLUR PLQLVWUR QR XVR GD FRPSHWrQFLD	11530
 Sarb’s QR	7253
 Scan QR	899
+Scan des QR	13513
 Scan the QR	11332
 Type QR	10900
 USSD and QR	3977

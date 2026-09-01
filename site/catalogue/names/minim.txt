@@ -19,12 +19,14 @@ Component Minimum Target Type Coverage Coverage	11952
 Conventions and Exhibitions Min Minimum MM Millimeters	2775
 Core Curriculum and Minimum Academic Standards	8710
 Crime Prevention and Security Cluster MISS Minimum	11218
+Cross-Border Data Transfers Data Minimisation	13381
 Current Minimum	7548
 D Minimal Focus	11867
 DATA RETENTION AND DATA MINIMISATION	1243
 DNCMP Ajustement du DAO Minimum	10876
 Daily Data Scrubbing and Minimal Personal Information	8022
-Data Minimisation	5244,6895,163
+Data Minimisation	5244,6895,163,1079
+Data Minimisation Limit	13381
 Data Minimisation and Security Breach. Results	962
 Data Minimization	3861,749,2938,3173,1942,341
 Data Minimization All	3861
@@ -35,6 +37,8 @@ De Minimis Part II	573
 Death X Minimum	12138
 Details Minimum Paid-up Capital KES	10738
 Determinations Meets Minimum Requirements	11005
+Distance Minimum Distance Moyenne Distance Médiane	13390
+E. Data Minimisation	13381
 Education and Training Authority MISS Minimum Information	11196
 Extended Network. Country Currency Minimum Maximum	11002
 Fibre Minimum	11857
@@ -86,9 +90,10 @@ Minimis	11550
 Minimisation	1231
 Minimisation of Sensitive Personal Ethnicity Data	6343
 Minimise	1988,3545,6453
-Minimiser	2399
+Minimiser	2399,10942
 Minimising	1814,4529,4854,1
 Minimising AI	1814
+Minimising Climate Change Shocks	13477
 Minimising Conflict of Interest	11250
 Minimising the Risk	1814
 Minimisingfalsepositivesrequiresincreasingthesimilarity	8606
@@ -96,11 +101,11 @@ Minimizar	1701,9841,13
 Minimization	3861,9324
 Minimização	11555
 Minimize	1988,7135,1652,439,1026
-Minimized	10550
+Minimized	10550,3128
 Minimizes	13037
 Minimizing	1988,5771
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43,13,258,80,89,36,72,5,1,148,102,279
 Minimum Access Conditions	5620
 Minimum Alternative Tax	5247,5381
 Minimum Assurance Level	3787
@@ -138,6 +143,8 @@ Minimum Reserve Price	8582
 Minimum Rural Download	11857
 Minimum SLA Requirements	11995
 Minimum Sample Size Requirements for Seasonal Forecasting	236
+Minimum Service Delivery Standards	13474,172,42
+Minimum Service Delivery Standards Framework	13685
 Minimum Standards for Electronic Payments EPS Fast	12390
 Minimum Team Size	5665
 Minimum Technical	6432
@@ -149,6 +156,8 @@ Minimum Workstation Configuration Requirements	12364
 Minimum de Perception	6954
 Minimum-Wages-3.pdf	226
 Ministry of Health and Population MPA Minimum Package	10829
+Moyenne Minimum Maximum	13390
+Moyenne Minimum Maximum Moyenne Minimum Maximum	13390
 NORMS AND STANDARDS Minimum	11182
 National Minimum Standard Operating Procedures for Hostels	13247
 National Minimum Standards for Child Residential Facilities	12977

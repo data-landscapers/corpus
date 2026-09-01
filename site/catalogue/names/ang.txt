@@ -164,6 +164,9 @@ Angela Kairuki	5788,5824
 Angela Kona	9007
 Angela Mensah-Poku	9840
 Angela Mjojo	9820
+Angela Mwandu	13477
+Angela Mwandu ECZ Makes Radical	13477
+Angela Mwandu Mr Fredrick Simasiku	13477
 Angela Mwanza Data Controller INST-57636712844 KILIFI	7167
 Angela Nganga	11777
 Angela Osoe Gyamerah	6936
@@ -172,18 +175,21 @@ Angela Sere-Ejembi	10
 Angela Wamola	1923,408,3,1197,1375,424,1384,1111,416,311
 Angelica Zundel	10840
 Angelina Matsie	11180
+Angelique International	13301
 Angellah Jasmine Mbelwa Kairuki	6168
 Angellah Kairuki	6015,15,1075,744,247,788,493,593,407
 Angelo Costa	10114,157
 Angelo Lokinga	8213
 Angelopoulos	8583
 Angels	2429,7066
+Anger	13477
+Anger Management	13477
 Angers	7654
 Angglena	8022
 Angie	11180
 Angius	11050
 Angl. CAC AUD NNPC Hosp. JIBWIS	11129
-Anglais	5698,3057,3288
+Anglais	5698,3057,3288,1399
 Anglais Cyberattaques	9961
 Anglais Français	9961
 Anglais Le Tchad	2407
@@ -191,6 +197,7 @@ Anglais Table Top Exercice	2635
 Anglais Tchad	2448,4307
 Anglais Togo	2938
 Anglais. Article	10966
+Angles	13390
 Angleside Health Care LTD Data Processor	7167
 Angleterre	747,1,1236
 Anglican Bishop Carlos Matsinhe	12201
@@ -215,7 +222,7 @@ AngoSat	2613
 AngoSat-2	5421
 AngoSat-3	2242,189,182
 AngoSat-II	3555
-Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109,71,7,16,1,2,20,5,46,159,34,1,9,47,4,38,81,8,11,1,14,9,7,2,14,5,84,183,174,73,24,20,20,27,33,18,87,1,7,33,86,1
+Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109,71,7,16,1,2,20,5,46,159,34,1,9,47,4,38,81,8,11,1,14,9,7,2,14,5,84,183,174,73,24,20,20,27,33,18,87,1,7,33,86,1,71,19,5,18,43,29,12,85,11,21,37,59
 Angola 2010	9399
 Angola A Xalam Analytics Country Report	10781
 Angola AGO Benin BEN Implementing	13082
@@ -440,7 +447,7 @@ Angola. Due	10763
 Angola. Ele	8309
 Angola. Elle	11761
 Angola. Em Angola	11391
-Angola. Entre	10760,653
+Angola. Entre	10760,653,2155,58
 Angola. Esta	2729,8343
 Angola. Expandir	8850
 Angola. Food	10763
@@ -645,6 +652,7 @@ Atlantic and Angola Cables	3075
 August. Angola	10775
 Automated Clearing House of Angola	6938
 Autoridades de Proteção de Dados de Angola	3079
+BIGENDAKO Ange Daria	13390
 Bacharelato MF M F Angola	10766
 Banco Angolano de Investimentos SA	12252
 Banco De Negocios Internacional Angola	12252
@@ -731,6 +739,7 @@ Câmara de Compensação Automatizada de Angola	11370
 DATA GOVERNANCE IN AFRICA ANGOLA DATA	10781
 DE ANGOLA	10777,659
 DE INCLUSÃO FINANCEIRA DE ANGOLA	11426
+DEVELOPMENT AND SOCIAL SERVICES Angela C	13389
 DHIS2 Angola	11454
 DIREITOS A Universidade Lusíadas de Angola	10752
 DO INTERIOR DA REPÚBLICA DE ANGOLA	11455
@@ -745,6 +754,7 @@ Desistência Angola	10766
 Desistência Angola Bengo	10766
 Deterioration Angola	10759
 Development of Angola's Payment System	10767
+Devenu... Actualités Tourisme Angola	13568
 Diagnóstico da Administração Pública Angola	11394
 Digital Angola	793,8606
 Digital ID The Government of Angola	10775
@@ -795,6 +805,7 @@ Ensino Secundário Técnico-Profissional Província MF Angola	10766
 Ensino da República de Angola	11387
 Entidade Certificadora Raiz de Angola	8309
 Environmental The Angola Growth and Inclusion DPF	10779
+Equipe Newsletters Editeur Anglais Portugais Accueil	13568
 Eric-Serge Maye Angouan'd	10087
 Esono Angue	5525
 Estado Angolano	14,1,4131,6605,3,624,8,10,29,5
@@ -970,6 +981,7 @@ MF M F Angola	10766
 MF M F Angola Bengo	10766
 MF M F Angola Bengo Benguela	10766
 MILLION TO THE REPUBLIC OF ANGOLA	10768,612
+MUGISHO Etienne Dr NICIMPAYE Anglebert	13300
 MW Angola	10781,1618
 Macroeconomic Angola	11417
 Madame Marie Angélique Mame Selbé DIOUF	7641
@@ -1004,6 +1016,7 @@ Miralles M. Angola	10780
 Moderan ZIS Angole	10780
 Mozambique National Meteorological Institute INAMet Angola	11553
 Mozambique and Angola	6775,163
+Mr. Angel Kaliminwa	13477
 Mrs. Angela Wamola	5789
 Mrs. Angela Wamola of GSMA	10716
 Ms Angellah Kairuki	4714,2714,2261
@@ -1080,6 +1093,7 @@ Portal da Legislação Angolana	11358,16
 Portos Angolanos	8729
 Portugal and Angola Cables' AngoNAP Fortaleza DC	3075
 Positions Angola	4382
+Première Dame du Burundi Son Excellence Angeline	13405
 President of Angola	2787
 President of Angola Your Excellency	2787
 Presidente da República de Angola	10772
@@ -1167,6 +1181,7 @@ SIS Angola	10780
 SIS de Angola. Para	10780
 SLB's Managing Director for Angola	2348
 SME.45 Angola	9399
+STAFF WELFARE Anger Management	13477
 SUMÁRIO EXECUTIVO O Governo de Angola	11406
 SV Angel	10162
 SV Angel. Terra	10200
@@ -1200,6 +1215,7 @@ Sonangol Sociedade Nacional de Combustíveis de Angola	11380
 Sonangol and TAAG Angola PA2b S Airlines	10779
 South Africa Finance and Banking Angela Itzikowitz	6998
 South Africa and Angola	2775,5353,2968,1280
+Southern Africa. Mrs. Angele Makombo N'tumba	13655
 Special Angolan Dispensation	4667
 Standard Bank Angola	9896
 Statistics Sweden. ANG	8051
@@ -1220,6 +1236,7 @@ Talatona PNUD Angola	10782
 Tanzania and Angola. Dup	1727
 Tanzania and Angola. The MoU	3037
 Taxpayers Identification Angola	10775
+Techniques for Controlling Anger	13477
 Teilnahmewettbewerb Angebotsfrist	8546
 Telecom Namibia Angola Telecom SATCAB 1200.jpg	6638
 Telecom Namibia and Angola Telecom	5926,712,26,6524
@@ -1251,6 +1268,7 @@ UNICEF Angole	10780
 UNICEF. Preparations for Angola	10776
 USAID Angola	10780
 UWIZEYE Angelique MWISENEZA Eric UWURUKUNDO Violette	12445
+Understanding Anger Anger	13477
 United Rep. of Uganda Angola	11572
 United States Agency for International Development Angola	10780
 Unitel CEO Amílcar Safeca and Angola Telecom	6624

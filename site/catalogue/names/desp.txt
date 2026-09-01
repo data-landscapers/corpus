@@ -16,6 +16,7 @@ BETA. Despite	6946
 BMCS and ABIS. Despite	5533
 BNA’s Despacho	10779
 Banking Sector Despite	11134
+Best Practices Despite	13418
 Boost Employment for Nigerian Tech Talents Despite	2680
 Botswana Communications Regulatory Authority. Despite	3897
 Botswana Police Service. Despite	12626
@@ -27,6 +28,7 @@ Central Bank. Despite	11134
 Challenges Despite Namibia	5036
 Classificador Económico da Despesa	10783
 Conclusion Despite	11907
+Continuous Operation Reference System. Despite	13645
 Controlo de Despesas	11430
 Current Fragmentation and Silo Landscape Despite	12008
 D-portal. Despite	6982
@@ -52,7 +54,7 @@ Despesa	1339,1,1,1,739,2,1,5,1578,744,2,1,5,36,102,84,371,90,1089
 Despesas	167,1175,2247,78,551,2207,1456,2902,604,468,163,765,13
 Despesas de Funcionamento	4129
 Despesas de Recenseamento	11528
-Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,31,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57
+Despite	11,162,63,79,256,16,131,18,30,5,18,110,62,8,1,242,7,42,3,290,31,52,166,11,4,6,4,23,16,20,16,22,19,28,16,6,3,96,19,5,145,31,14,32,28,16,76,53,26,48,40,51,1,24,7,17,1,18,28,4,53,9,18,31,31,29,10,48,9,20,68,28,1,42,10,14,27,29,129,22,8,43,116,6,5,3,18,6,15,66,23,60,8,77,2,37,129,28,3,27,4,32,5,1,5,1,42,29,3,8,4,16,64,101,25,7,1,6,75,41,54,31,13,23,2,3,9,34,85,16,15,33,30,11,17,23,18,45,16,8,107,24,46,24,2,1,2,69,5,26,16,44,13,11,19,7,4,24,9,3,1,31,4,16,46,11,21,28,20,25,65,9,26,15,16,23,18,40,1,10,99,29,4,30,15,3,30,15,8,48,8,3,47,63,8,4,2,13,34,3,84,4,40,22,34,4,6,64,15,6,3,40,22,12,39,6,26,35,13,72,2,8,1,1,49,12,64,62,16,21,53,8,9,42,17,36,21,1,68,19,7,40,55,40,107,2,54,2,6,31,13,29,4,73,57,35,21,3,49,8,5,48,12,22,29,9,39,26,16,13,53,22,32,28,12,2,8,7,14,42,60,23,42,22,38,1,4,16,116,28,74,13,20,44,107,25,47,4,32,47,32,15,35,33,20,133,8,2,54,23,38,13,5,7,18,8,11,20,2,24,70,92,9,13,26,22,55,16,41,9,14,19,17,66,23,71,2,66,2,71,8,39,86,29,38,29,11,34,1,1,3,6,1,4,1,5,8,14,15,7,1,11,3,2,6,4,8,17,38,20,1,14,8,1,1,13,2,1,5,4,8,6,3,11,15,87,11,1,2,1,1,1,42,15,2,1,1,14,7,5,1,6,7,19,5,4,6,1,13,12,83,37,7,44,1,55,1,11,9,4,2,1,11,9,6,3,99,40,2,41,53,3,36,5,3,4,12,21,2,1,2,2,2,7,2,1,4,1,3,13,1,19,1,3,3,10,9,8,9,22,13,15,1,1,35,20,41,10,11,3,1,5,6,5,9,5,4,4,13,4,2,13,3,6,1,1,6,8,7,19,11,2,6,1,11,5,4,2,19,11,7,3,3,2,1,1,9,4,4,6,2,1,1,14,26,6,55,27,41,12,11,45,13,11,4,2,21,28,3,15,39,18,2,37,23,39,12,3,2,17,2,5,1,1,2,3,3,8,4,8,1,8,20,4,24,7,10,3,7,37,26,15,25,57,85,5,1,1,2,7,10,1,12,1,1,1,2,1,1,1,5,1,38,7,13,2,7,24,12,32,4,35,34,58,27,24
 Despite Access	12376
 Despite Africa	8263
 Despite Average	12214
@@ -60,6 +62,7 @@ Despite BEE	9935
 Despite Botswana	12625
 Despite Budget Constraints	965,3804,120,206,68,334,86
 Despite CEMAC	10841
+Despite COVID-19	13359
 Despite Cabo Verde	11855
 Despite Cape Verde	11909
 Despite China	10430,724
@@ -71,9 +74,11 @@ Despite Everything If Nigerian	5200
 Despite Expanding Tech Ambitions.md	4159
 Despite GDP	12669
 Despite Ghana	6936,1788
+Despite Guideline	13484
 Despite Huawei	12187
 Despite Improved Operating Margins	12870
 Despite M-PESA	4605
+Despite Note	13314
 Despite Rwanda	12333
 Despite Sierra Leone's Internet	6063
 Despite South Africa	11195
@@ -83,15 +88,19 @@ Despite Touadéra	2378
 Despite WISN and NHWA	12729
 Despite the CNE	12201
 Despite the Central Bank	11975
+Despite the Companies Act	13566
+Despite the Corporate Insolvency Act	13566
 Despite the DIS	8320
 Despite the DRC	11918
 Despite the Ebola	10302
+Despite the Employment Code Act	13566
 Despite the GRZ	1867
 Despite the Ghana Card	1367
 Despite the Government	11900
 Despite the ITAP	12175
 Despite the KYC	12978
 Despite the PDO	11924
+Despite the Project	13392
 Despite the Statutory Instruments Act	11
 Despite the Trump	7750
 Despitein-	8602
@@ -112,6 +121,7 @@ Desposits	10209
 Después	1701,7602,3215
 Development Despite New Geological Risks	5407,676
 Digital Adoption Remains Limited Despite Strong	6815
+Digital Entrepreneurship. Despite	13312,2
 Digital Zambia Acceleration Project. Despite	12435
 EMB's15. Despite	12201
 Elmi Islamic Educational Institute. Despite	3046
@@ -120,6 +130,7 @@ Engenheiros Técnicos. Despacho Decreto Lei	11534
 Eswatini. Remaining Challenges Despite	13163
 European Competitiveness and Technology Sovereignty Despite	11155
 Executive Summary Despite	11136
+Existing Challenges Despite	13418
 FOSS. Despite	8021
 Favourable Despite	11994
 Framework. Despite	8747
@@ -136,7 +147,7 @@ Government. Despite	11905
 Heart Despite	12244
 High Demand Driving Network Congestion Despite	4601
 ICT. Despite	9083
-ICTs. Despite	12453
+ICTs. Despite	12453,892
 IDPs. Despite	10841
 IEMed Abstract Despite	13257
 IIMS. Despite	10776
@@ -146,6 +157,8 @@ Inquérito Sobre Despesas	10768
 Johannesburg Stock Exchange. Despite	11134
 Kenya Despite	12227
 Kenya Despite Kenya	12297
+Key Best Practices Despite	13418
+Kilinda Hospital. Despite	13418
 Kwacha. Despite	4609
 LLDCs. Despite	10844
 Landlocked Developing Countries Affordability Despite	10844
@@ -161,12 +174,16 @@ Mapa VII Despesas	5012
 Market Share Shrinks Despite Growth	3625
 Middle East. Despite	7815
 Ministry of Home Affairs. Despite	1816
+Ministry of ICT. Despite	13312,2
 Model Law. Despite	5363
+Moderately Satisfactory. Despite	13392
 Morabeza Fund. Despite	3377
 NEMISA. Despite	11230
+NSS. Despite	13386
+National ICT Policy Despite	13346
 National Identity Cards. Despite Airtel Malawi	12978
 Need Despite	8183
-Network Management Standards. Despite	12453
+Network Management Standards. Despite	12453,892
 Nigeria and South Africa. Despite	6139
 Nigeria. Despite	4962
 O Despacho Presidencial	4641
@@ -193,6 +210,7 @@ States. Despite	961
 Subsaariana Historicamente Desprivilegiadas	11390
 Summary of Key Financial Sector Risks Despite	11131
 Swazi Trac. Despite	13123
+TRAINING AND DEVELOPMENT Despite	13420
 Teacher Training Despite	12411
 Technology Meets Reality Despite	12057
 Topnet. Despite Tunisie Telecom	1818
@@ -203,4 +221,4 @@ Unity State.306 Despite	3583
 West Africa. Despite	2568
 White Nile and Central Darfur. Despite	6947
 World Health Assembly. Despite	12925
-Zimbabwe Despite	395
+Zimbabwe Despite	395,12900

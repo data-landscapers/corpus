@@ -28,11 +28,12 @@ Area of Weakness Description Ideal State Infrastructure	11986
 Association. Sections and Description	11525
 Association. Sections and Description FA	10829
 Association. Sections and Description Financing Agreement	10964
-Association. Sections and Description Schedule	10829
+Association. Sections and Description Schedule	10829,2502
 Avatar of Descande	12478
 Awareness Responsible Behaviour Integrity Description Pay	5676
 B. Parent Project Description and Current	1284,10681
 B. Program Description	11905
+BI&most recent value desc	13314
 Brief Description	1988
 Brief Description of Scope	1988
 Bénin. Descendu	5718
@@ -41,6 +42,7 @@ CONSIDERER RESULTATS DERNIERE DESCENTE	10975
 CRITERIA DESCRIPTION Addressed	11252
 CSI Description	3604
 Capital Gains Tax Act Description Date	4896
+Chronologie Description	13433
 Cloud Services Description TelOne	9455
 Code Descri	11180
 Code DescriDtion	11180
@@ -53,6 +55,7 @@ Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,3
 Cooperation Acronym Description	11218
 D. Concept Description	12426,685
 D. Concept Description A US	12137
+D. Preliminary Description Activities	13523
 D. Project Description	1704,1752,7507
 D. Project Description Investment Project Financing	761
 DEBT DESCRIPTION	13053
@@ -61,6 +64,7 @@ DESCRIPTION Addressed	11252
 DESCRIPTION DE LA PROCEDURE	10876
 DESCRIPTION DE LA PROCEDURE Pour	10876
 DESCRIPTION DU PROJET AVANCEMENT OBSERVATIONS	10975
+DESCRIPTION ET FONCTIONNEMENT DE L’ARCT	13301
 DESCRIPTION OF BID	11240
 DESCRIPTION OF HOW THE BREACH OCCURRED	2709
 DESCRIPTION OF HOW THE DATA WILL	2709
@@ -114,13 +118,13 @@ Descontinuidade de Uso de Contraceptivo	10777
 Descontos	752
 Descrevem	10777
 Descrevem-se	10766
-Describe	1988,1984,1693,128,5019,1373,117,729
+Describe	1988,1984,1693,128,5019,1373,117,729,350
 Described	2161,1518,825,1834,2042,3979
-Describes	422,10847
+Describes	422,10847,2116
 Describing	3405,856,3860,680,328,132
 Describing Liberia	8574
 Describing the National Regulatory Sandbox	11751
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30,168,34,169,137,31,87,2,42,58,3,65,170,23,184,39,66
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
@@ -256,6 +260,7 @@ Description Disbursement IBRD	969,315,9545,720
 Description Disbursement Trust Funds	10829
 Description Documents	1292,765,2313
 Description Dutch	463
+Description Décret N	13314
 Description EAIF	516,1,1,196,222,209,1,1,402,1
 Description EBRD Board	1819
 Description ECOWAS	1177
@@ -268,9 +273,10 @@ Description EU-funded ITU-implemented	1528
 Description EUR	177,277,158,104,222
 Description Eastcastle Infrastructure DRC SARLU	7356
 Description Economic	1761,1383,3772
-Description Effectiveness IBRD	10829,720
+Description Effectiveness IBRD	10829,720,1783
 Description Effectiveness Trust Funds	10829
 Description Effectiveness Trust Funds GA	10829
+Description Effectiveness Trust Funds The Grant	13332
 Description Eine	457
 Description Employing	8603
 Description Enacted	1614
@@ -308,7 +314,7 @@ Description Format Requir	11952
 Description Framework	12360
 Description Framework Loan	473,990
 Description Fraternité Matin	2157
-Description Frequency Datasource Collection Collection	1284
+Description Frequency Datasource Collection Collection	1284,12048
 Description From the Conseil	3780
 Description Funding	1059
 Description Further	466
@@ -359,11 +365,13 @@ Description Joint	953
 Description KOICA	86,122,1,77,219,1,191,1,1,206,1,1,627,688
 Description Kenya	842
 Description Kenya-specific	1466
+Description Key Components Law Nº	13418
 Description L	839,242
 Description L'objectif	840
 Description LeapFrog Investments	145,2078
 Description LeapFrog Investments and Tana Africa Capital	908
 Description Leveraging	8603
+Description L’objet	13694
 Description MASSIF	1471
 Description MASSIF USD	1472
 Description MCC	87,123
@@ -520,6 +528,7 @@ Description Sex Very Somewhat	12409
 Description Should	11417
 Description Sida	92,432,195,1522
 Description Sonatel Group	1143,405
+Description Sont	13452
 Description Sovereign	450,351,1325
 Description Space Program	1757
 Description Strengthen	1561
@@ -605,7 +614,7 @@ Description Title	12013
 Description Transfers-dominated	2898
 Description Trotz	503
 Description Two-thirds	5661
-Description Type IBRD	10964
+Description Type IBRD	10964,2367
 Description UNCDF Better Than Cash Alliance	213
 Description UNCDF Connect Rural Uganda	394
 Description UNCDF Zambia Digital Finance and Services	527
@@ -668,6 +677,8 @@ Description World Wide Web Foundation	149
 Description Year	5179,15
 Description Ziel	2219
 Description Ziel des FZ-Moduls	1533,687
+Description of Activity Status Update	13392
+Description of Additional Financing	13459
 Description of Approach	13037
 Description of Change Revised Revision	9855
 Description of GM	12990
@@ -713,6 +724,7 @@ Escalation Closure Description Consumers	5676
 Eswatini International Trade Fair Description	11131
 Evaluation Area Criteria Description Weight Score	13031
 Evaluation Description	11855
+FACILITATORS Description	13681
 Fase Pagamento Entregáveis Descrição Tipo	12021
 Female Description	11525
 Financing Agreement Description Under Category	10964
@@ -744,7 +756,9 @@ I.1.2 Description du Programme Terra Bénin	10876
 I.1.2 Description du Programme Terra Bénin I.1.2.1	10876
 IAF CODE DESCRIPTION	13068
 ID General Security Requirement Description Compliant	13037
+IDA Description Disbursement Schedule	13331
 IDA Description Disbursement Under Category	10964
+IDA Description Effectiveness Section	13331
 IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076
@@ -752,14 +766,15 @@ II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180
 II. Description	12220
 II. PROGRAM DESCRIPTION	11905,271
 II. PROGRAM DESCRIPTION A. Government Program	11905
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11
-II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551,169,11,1772
+II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453,1914,1
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 III. PROJECT DESCRIPTION	11525
 III. PROJECT DESCRIPTION A. Project Components	11525
 INDICATOR DESCRIPTION RMF	11863
 INTERVENANTS DESCRIPTION DES TACHES DOCUMENTS ET	10876
 ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
+IV. DESCRIPTION DU PROJET FAISANT OBJET	13635
 IV.1.1.12.5 Description	10876
 IV.1.1.5.4 Description	10876
 IV.1.3.5.5 Description	10876
@@ -790,6 +805,7 @@ Layer Component Description References Contextual	9128
 Legal Covenants Conditions Description	11855
 Legal Covenants Sections and Description Financing Agreement	10964
 Legal Covenants Sections and Description Page	11525
+Legal Covenants Sections and Description Schedule	13331
 Lesotho. No. Objective Description	12675
 Level Description Examples Public	11952
 Line Description of Goods Country of Delivery Quantity	13185
@@ -881,10 +897,12 @@ Service Description of Services	13185
 Services Consumer Confidence Description Consumer	5676
 Services Description Language	12360
 Services Emerging Technologies Description Increase	5676
+Signature Date. Description Schedule	13331
 South Africa. I Code Description	11180
 Special Issues Descriptive Papers Visualisations About	12486
 Stage Description Number	9237
-Strategy Description	4528
+Strategy Description	4528,8786
+Strategy Description ARCT Strategic Plan	13314
 Sub Activity Description	12448
 Subproject Description and Activities	1988
 Substantial Risks Description	11417
@@ -919,6 +937,7 @@ Use Service Category Description Deployment Model	6432
 VIDEO DESCRIPTION	12011
 Version Description Useful	12006
 Version Version Description	13084
+WEBSITE. INCLUDE ONE PARAGRAPH TO DESCRIBE	13618
 WEIGHT CRITERIA DESCRIPTION Addressed	11252
 WG CONSUMER Description	5679
 Waterford Career Fair Description The Bank	11134

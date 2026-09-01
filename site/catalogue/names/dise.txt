@@ -19,14 +19,18 @@ Automated Teller Machine Coronavirus Disease Digital	940
 Bundibugyo Virus Disease	9761,2879
 CD Communicable Diseases CDC Center for Disease	12151
 CDC Center for Disease Control and Prevetion CPU	34
+CDC United States Centers for Disease Control	13300
 CENTRE FOR HEART DISEASES AND DIABETES	7167
 CENTRE FOR RHEUMATIC DISEASES Data Controller	7167
-COVID-19 Coronavirus Disease	10829,442,109
+COVID-19 Corona Virus Diseases	13359
+COVID-19 Coronavirus Disease	10829,442,109,2040
+CPSD Coronavirus Disease	13331
 CSD International Statistical Classification of Diseases	1009
 Cancer601 Heart Diseases	12151
 Car- Diseases	12151
 Car- Diseases Pneumonia	12151
 Cases of Diseases Reported	2775
+Cassava Mosaic and Cassava Brown Streak Diseases	13366
 Center for Disease Control	12379
 Center for Disease Control Prevent	12138
 Center for Disease Control. As I’m	560
@@ -36,6 +40,7 @@ Centre for Disease Control and Prevention	12240
 Centre for Infectious Disease Research	10374,1982
 Centres for Disease Control CSIR Council for Scientific	396
 Chronic Beryllium Disease	1988
+Chronic Disease	13454
 Chronic Disease Determinants Programme	10188
 Chronic Diseases and Translational Medicine	9456
 Classification of Disease	12413
@@ -45,10 +50,11 @@ Communicable and Non-Communicable Diseases	12729,247
 Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Corona Virus Disease	12175
-Coronavirus Disease	2775,4057,3931
+Coronavirus Disease	2775,4057,3931,2569
 DISEASE MANAGEMENT PREVENTION AND PROMOTION SURVEILLANCE	2709
 Department of Disease Control	10188
 Developing A Lesotho-Specific Disease Detection Model	12707
+Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
 Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16
 Disease Control CDO Chief Digital Office	12241
@@ -69,7 +75,7 @@ Disease Surveillance Systems Enhancement Project RIP	11380
 Disease The Borrower	1988
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241,839,15
 Disease-specific	771,9198
-Diseases	4674,7477
+Diseases	4674,7477,1378
 Diseases Arrest	12151
 Diseases Cancer	12151
 Diseases Cardio Pul-	12151
@@ -97,6 +103,7 @@ General Directorate of Epidemiology and Disease Control	10829
 Global Burden of Disease	6171,5980,216,46
 Global Burden of Disease Groups	12151
 Global Burden of Disease Study	11585
+Global Burden of Diseases	13644
 Governance REDISSE IV Regional Disease Surveillance	10829
 Guinea Worm Disease	10776
 Head of Africa CDC’s Division for Surveillance and Disease	4782
@@ -109,6 +116,7 @@ Implementing Real-time Disease Surveillance	11912
 Infections Heart Diseases	12151
 Infections Infections Diseases	12151
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
+Infectious Disease Research	13430
 Infectious Disease Response Goes Digital	10374
 Infectious Disease Unit	13122
 Infectious Diseases	10919
@@ -127,6 +135,7 @@ Liver Diseases	12151
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
 Mapping Rare Diseases	10188
 Marzia Chiesi Foundation Dept of Infectious Disease	10878
+Medecine DISE Direction des Infrastructures Sanitaires	13306
 MoH All Disease Outbreak Module Artificial	4153
 Movement Control System COVID-19 Coronavirus Disease	11986
 Mycobacterial Diseases	12678
@@ -139,7 +148,7 @@ Neglected Tropical Diseases PHC Primary Health	12729
 Nigeria Centre for Disease Control	9969
 Nigeria Centre for Disease Control and Prevention	3721
 Non Communicable Diseases	12970
-Non-Communicable Diseases	12729,193,54
+Non-Communicable Diseases	12729,193,54,498
 Non-Communicable Diseases NAPHS	10776
 Non-communicable Diseases	12606
 Noncommunicable Diseases	13163
@@ -172,6 +181,7 @@ Strengthen Surveillance of Climate-Sensitive Diseases	13121
 TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 Tropical Disease CAD	12678
 Tropical Diseases	10780
+Tropical Diseases Research Centre	13454
 Tropical Neglected Disease Response	10776
 U.S. Centers for Disease Control	12334
 U.S. Centers for Disease Control and Prevention	10641

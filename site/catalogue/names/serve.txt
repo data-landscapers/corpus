@@ -6,6 +6,7 @@ CV-IXP Route Servers	11878
 Card SMB Server Message Block SPBM	13185
 Central Authentication Server Common ICT Processes	9123
 Chassis for Servers and Storages	1988
+Configuration of Server	13424
 Consumer Security Server	11952
 Consumer Security Server Requirement	11952
 Customs Scanner Server Room	13044
@@ -23,11 +24,12 @@ Infraestructure Local Server Tax Number-MINFIN	10775
 Linux Servers	10617
 Local Server Central Server Internet Local	10775
 Local Server Local Server Social Security	10775
+ML GPU-ACCELERATED SERVER PLATFORM	13621
 Main Server ID Production Center CPBI	10775
 Maria Server	3395
-Microsoft SQL Server	13037,148
+Microsoft SQL Server	13037,148,443
 Microsoft SQL Server Management Studio	10617
-Microsoft Server	5866
+Microsoft Server	5866,7689
 MySQL and SQL Server	10060
 NDMP Tape Server	13185
 NET and MS SQL Server	12196
@@ -38,7 +40,10 @@ Provider Security Server	11952
 Regular Reboot of Serves Scheduled	9123
 Reporting Server	13037
 Reserve Parts for Servers	9123
+Route Server	13380
 Route Server Inbound	718
+Route Server Service	13704
+Route Server Service Simplify	13704
 SERVER AND STORAGE INFRASTRUCTURE	11209
 SQL Server	6432,6713,24,16
 Security Server	11952
@@ -46,7 +51,7 @@ Sequel Server	9124
 Serve	2757,1104,667,6663,46,1119,142,14,162
 Served	1984,2958,664,283,454,183,4452,152
 Servem	12018
-Server	593,626,5213,2691,1,3129,126,302,356,148
+Server	593,626,5213,2691,1,3129,126,302,356,148,338
 Server Backup	34
 Server Load Balancer	13185
 Server Local Server Local Server	10775
@@ -56,7 +61,7 @@ Server Warranty	12681
 Server-to-server	12404
 Servernah	6791
 Servernah Cloud	5368,1349,74,2448
-Servers	34,544,1410,7135,373,2757
+Servers	34,544,1410,7135,373,2757,1151
 Servers Management	9123
 Servers Regular Restoration Tests of Servers and Services	9123
 Servers Zambia Refugee and Host Community Project	1988
@@ -64,7 +69,7 @@ Servers and Applications	9123
 Serves	4130,525,1010,6195
 Serves Citizens Opening	8367
 Servest	10279
-Serveurs	9049
+Serveurs	9049,4475
 Standard Server Railing	12681
 Type Server	11133
 U Server Railing	12681

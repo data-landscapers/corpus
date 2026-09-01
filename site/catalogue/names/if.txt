@@ -25,6 +25,7 @@ Chinenye Ifebirinachi	6423
 Christianity for Ifa	9669,84
 Completed IFR RAPID-CI PCU	3604
 Congo IFC	7356
+Connaissance des IFs	13390
 Contacts IFMIS Department The National	12322
 Cooperation IFR Interim Financial Report IPF	1264
 Counties IFMIS E- Procurement Training News	12322
@@ -34,6 +35,7 @@ DPEs and IFPs	2989
 DSF EA FCFA GAR IFU MEFP	10858
 Description IFC	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,391,1,1,1,1,2,1,690,1
 Description IFU	84,59,237,121,395
+Development IFC International Finance Corporation IFR	13331
 Displacement Monitoring Centre IFAD International Fund	10759,78,1052,451
 Développement Humain IF Institution Financière IFC	11944
 EU IFIs	970
@@ -60,6 +62,7 @@ Government Procurement Media Center IFMIS News	12322
 Group IFC International Finance Corporation IPF	6539
 HVAC IFRS IMF IR ISO	11134
 High Voltage Direct Current IFRS International	12399
+Huawei Technologies. IFC	13314
 Huit IFM	8577
 ICT Grievance Redress Service IFC Higher-Level	3604
 IDA International Development Association IFC International	11560
@@ -72,6 +75,7 @@ IFAD International Fund for Agricultural Development ILO	10841
 IFAD and World Bank	9650
 IFADÉlevage de Barkoissi	8303
 IFAL Instituto de Formação da Administração Local IPP	11390
+IFARANGA PAYMENT SERVICE	13390
 IFB Goods	8166
 IFB Number	8166
 IFC A Loan	6724
@@ -88,7 +92,7 @@ IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
 IFC Collaboration No Global Challenge Project	11417
-IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35,295
+IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35,295,1476,1
 IFC Collaboration No Proposed Program Development	11905
 IFC Country Manager for Comoros	3067
 IFC Debt Facility	893,1322
@@ -101,7 +105,7 @@ IFC Equity Investment	81,1043
 IFC Equity Investment IFC	1518
 IFC IFC	7095
 IFC Industry	11469
-IFC International Finance Corporation IFMIS Integrated	7548
+IFC International Finance Corporation IFMIS Integrated	7548,5764,2
 IFC International Finance Corporation IFR Interim	11549
 IFC Kenya	9079
 IFC LP	379,303
@@ -173,6 +177,7 @@ IFIP TC8 WG	5349
 IFIP WG9.4 Conference	226
 IFISA	8599,2649
 IFISA. Table D.4 Blended	11248
+IFIs and UN	13624
 IFIs. The EIB	789
 IFM Julius Nyerere de Bamako	8577
 IFM de Bougouni	8577
@@ -182,7 +187,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Integrated Financial Management Information System	1284
 IFMIS National Treasury-IFMIS Offices IFMIS TEAM	12322
@@ -194,13 +199,16 @@ IFMIS Skip	12322
 IFMIS URL	12322
 IFMIS and HRMIS	12917
 IFMIS-generated Local Purchase Order	13122
+IFMIS. Budget	13314
 IFMS IT Judicial Service Commission JSC	12920
 IFMS. Phase	11940
 IFOMU	11573
 IFOMU D UKUSHINTSHWA KWEMIBANDELA Esimeni	11573
 IFORD	10874
 IFP MP Busaphi Machi	7404,3215
-IFPRI	8683,2085,1394
+IFPIM	13461
+IFPIM.. The Inquiry	13461
+IFPRI	8683,2085,1394,1169
 IFPs and Núcleos Pedagógicos Complete	2989
 IFR Interim Financial Report INRIS Integrated	1867
 IFR Interim Financial Report IPF Investment	10768
@@ -217,10 +225,12 @@ IFRS S1 and S2	9103
 IFRS9	11131
 IFRSs	1154,1897,10002
 IFRSs and IPSASs	3051
+IFRs Interim Financial Reports IMF International	13332
 IFRs M	3604
 IFRs PIU	10829
 IFRs and Annual Financial Statements	10768
 IFRs. Withdrawal	10768
+IFS Province	13390
 IFSC and BPO	12529
 IFT The National Instant Payment System	2358
 IFU ID	10812
@@ -229,6 +239,14 @@ IFU Taux	10858
 IFU and IFU	380
 IFU and Symbiotics	896
 IFU-only	896
+IFs Oui Non	13390
+IFs Province	13390
+IFs Publiques Privée S	13390
+IFs Tableau	13390
+IFs Total Publiques Privées S	13390
+IFs. Page	13390
+IFs. Seules	13390
+IFs. Tableau	13390
 IMF IFS	49,129,1,152,5,47,1,66,5,1,1,1,45,1,94,16,1,1,1,55,20,1,1,1,1,106,21,1,1,1,1,1,58,14,1,1,1,1,139,8,1,1,79,140,62,1,1,69,1,1,14,1,1,1,1,1,1,103,1,1,1,543,1,1,1,47,16,1,76,1,2186,1,1,1,51
 ISIFUNGO IFOMU	11573
 ISIQEPHU C IFOMU	11573
@@ -285,6 +303,7 @@ Management Information Management Systems IFMIS Integrated	11545
 Merging IFC-based BIM	8604
 Mrs. Ijeoma Iwugo Ifudu	11129
 Nnenna Ifeanyi-Ajufo	3058
+Nombre des Ifs	13390
 Normes IFRS	2342
 Objective IFR Information and Communication Technology IGF	3604
 PCM.36 IFC	3604
@@ -315,6 +334,7 @@ Statistique IFORD	10874
 Substantial. The IFSA	11905
 Supports IFMIS	536
 Survey and IFMIS	7548
+Technology IFC International Finance Corporation MFI	13347
 Through IFC	6932,163
 Togocom Telecom Expansion Loan IFC	1523
 UGA. IFC	3886
@@ -322,6 +342,7 @@ UHLOBO LOMSEBENZI WEZOKUTHUTHA UMPHAKATHI IFOMU	11573
 UMSEBE IFMIS	13123
 Uganda. IFC	893
 VC Ifirs t-linc	4301
+VOLET OFFRE Ifs Tableau	13390
 World Bank and IFAD-supported	9650
 World Bank and IFC	3255,946,7268
 World Bank's IFC Invests	9733

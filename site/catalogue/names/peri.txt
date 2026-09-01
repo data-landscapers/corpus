@@ -16,6 +16,7 @@ CENTRO SUR BATA PERIFERIA	4209
 COMMENCEMENT DATES AND EFFECTIVE PERIODS	3861
 COST SPEND DURING THIS PERIOD	11211
 COSTS INCURRED DURING THIS PERIOD	11262
+Clarification Period	13621
 Closing Period	3604,8320,64,240,39,293,498
 Closing Period Apr	1264
 Closing Period Component	10768
@@ -160,6 +161,7 @@ Period	958,306,520,1,2,10,112,866,829,110,1973,984,275,3822,413,37,61,626,81,164
 Period Covered	12987
 Period FY	6946
 Period FY17	10964
+Period FY19-FY23	13331
 Period FY23-FY27	3604
 Period Jan-Mar	6671
 Period Name	1784,1,2,7,3
@@ -179,7 +181,7 @@ Period and Timetable	4896
 Period of Five	11250
 Period of Registration	12226
 Period of Validity of Bids	13185
-Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440
+Periodic	749,515,514,89,1994,1815,739,2822,920,662,187,123,2,138,588,532,148,440,333,187,35,74
 Periodic Audits	11995
 Periodic Audits and Inspections Periodic	5665
 Periodic Focus Group Discussions	1778
@@ -270,4 +272,5 @@ Universal Periodic Review	3583,3366,2,4635,314,542,681,33
 Universal Periodic Reviews	9145
 Validity Period Hourly URL-specific Data Bundles	11259
 Validity Period Price	11259
+Voters Periods	13418
 Zimbabwe Maternal and Perinatal Mortality Study	21

@@ -9,7 +9,8 @@ CIDRZ Hosts Uganda’s R2D2 TB Network	10374
 Clinics and TB	12421
 Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Completed Planned July August On-going TBC	8999
-Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
+Components PBC Baseline End Target RESULT FRAME TBL	13331
+Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545,2503
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Curing TB	4260
@@ -43,6 +44,7 @@ Le TBFS	737
 Lesotho TB National Prevalence Survey	12678
 MW Equinix TBD Abidjan In Construction	10861
 MW TBD Abidjan	10861
+Manage the WTO TBT	13320
 Material Specifications ZRCP TBA and Cost	1988
 Mid-range Printers TBA TBA	1988
 Mozambique. HIV and TB	771
@@ -63,8 +65,9 @@ QC QMS RTCQI SHA STI TB	4153
 Qty TBD	12763
 Qty TBD TABLE	12763
 Quantity of ZRCP TBA	1988
-RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545,2503
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
 RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 RGPH SEN SFP SIGE SPE TBA	10766
@@ -74,7 +77,10 @@ RW7L0KQSP UGBpW7gwDsF TbcvEgS	4583
 Reaching TB	4260
 Road Safety ZRCP TBA	1988
 S-Annual TB	4301
+SADC Trade Protocol TBT	13320
+SADC Trade Protocol TBT Annex	13320
 SPS and TBT	11149
+Service du Transport du Burundi TBM	13377
 Sexually Transmitted Infections TB	10776
 Significant TB	13163
 Soum le TBS	737
@@ -108,7 +114,8 @@ TB SAS	12681
 TB SAS Drive Primary Communication	9475
 TB SATA Drive Storage	9475
 TB SDD	13185
-TB SSD	8289
+TB SSD	8289,5086
+TB STORAGE ENGINES AND AI	13621
 TB TB	3862
 TB TRIAGE	12678
 TB Treatment Success	12922
@@ -140,6 +147,7 @@ TBC Public-Private Partnerships for Collaborative Regulation	5241
 TBC Simultaneous PforR	3604
 TBD Agriculture	970
 TBD Cooperation	970
+TBD ESS	13523
 TBD F Good Governance	970
 TBD Gas-to-Power Use Case Feasibility Study	12399
 TBD Health	970
@@ -162,14 +170,19 @@ TBS Transportable	12911
 TBS. Email	11654
 TBS. Under	5116
 TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
+TBT Annex	13320
+TBT Enquiry Point	13320
 TBTuberculosis Kenya Vital Statistics Report	12151
 TBnotified	4301
 TBryMMz	12478
 TF LEGAL TBL1 Description Status Action	1284
+Target RESULT FRAME TBL PD O Indicator	13331
+Taux Brut de Mortalité TBR	13377
 Tb Capacity for Backup. Production	11209
 Tbilisi	12413
 Tbits	5138
 Tbps BB	10995
+Tbps Peak Traffic Handled	13704
 Tbps Sample Ghana	3184
 Tbps Traffic Milestone	2754
 Tbps. Capacity	4676
@@ -181,10 +194,13 @@ Tbtshsee	11152
 UNDP and TBI	4046
 V Namibia-Botswana Interconnector TBD No Pre-Feasibility	12399
 Video Surveillance Package TBA	1988
-WTO TBT	1988,11046
+WTO TBT	1988,11046,286
+WTO TBT Agreement	13320
+WTO TBT Committee	13320
 World TB Day	2626
 Year Gap Portable TB	2857,3026,94
 ZEMA Licence ZRCP TBA	1988
 ZRCP TBA	1988
 ZRCP TBA Occupational	1988
 ZRCP TBA Pollution of Water Sources	1988
+Zimbabwe WTO TBT	13320

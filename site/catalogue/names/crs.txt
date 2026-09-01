@@ -6,6 +6,7 @@ CRS CVP	6903
 CRS Civil Registration Services CRVS Civil	12151
 CRS Civil Registration System	12367
 CRS Directors	12151
+CRS End User Manual	13333
 CRS In Focus IF10673	4830
 CRS MCAA	11233
 CRS Organization Structure	12151
@@ -33,4 +34,6 @@ M. CRS	401
 M. Sector CRS	400,322,1,229
 Model Mandatory Disclosure Rules for CRS Avoidance	11233
 OECD-DAC CRS	6982
+Online Payment CRS	13333
 Relevant CRS	970
+TYPE OF USERS OF THE CRS	13333

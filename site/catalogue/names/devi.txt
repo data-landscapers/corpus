@@ -7,8 +7,10 @@ Adequate Deployment of BVAS Devices	10049
 Adoption of Electronic Fiscal Devices	12948
 Adverse Device	11994
 Affordability Smart Access Devices	11857
+Affordable Devices	13331
 Africell's Device Manager	9449
 Aggregate Deviation	12175
+Approved Developer of Fuel Fiscal Devices	13606
 Automated Device	12185
 Automated Digital Devices	1988
 BIOMETRIC STANDARDS AND DEVICE CERTIFICATION	12047
@@ -32,9 +34,10 @@ Data Data and Storage Devices	10721
 Data3 Digital4 Fintech5 SMS Devices Wholesale6	10793
 Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
+Developers of Fiscal Devices	13606
 Deviation	10870,365,751,1199
 Deviations	9855,1142,2188
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84
 Device Affordability	8111
 Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
@@ -49,7 +52,7 @@ Device Requirements Applicants	11347
 Device School Support System	11857
 Device V	5029
 Device VI	5029
-Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559
+Devices	582,317,73,1804,875,283,594,125,837,169,419,252,1971,1458,648,1450,22,480,153,559,535
 Devices For Primary Health Care	10776
 Devices Manuals	13185
 Devices Q3	11857
@@ -59,7 +62,9 @@ Devices and Terminals No Category of Q2	2776
 Devido	2816,3244,5304,1,22,34,25,123,8,441,141
 Devido Procedimento	11388
 Devine Mercy Eldoro Catholic Dispensary Data	7167
-Devise	10829
+Devis Quantitatif	13694
+Devis Quantitatif Estimat	13694
+Devise	10829,2548
 Devised	12934
 Devittie	3379
 Diagnostics and Devices The Malawi National Supply	13166
@@ -68,23 +73,44 @@ Digital Infrastructure and Devices	11918
 ENABLED MEDICAL DEVICES ACKNOWLEDGEMENTS SAHPRA	3651
 East Africa Device Assembly Kenya Ltd	3975
 Electronic Devices	1988
+Electronic Fiscal Device	13606
 Electronic Fiscal Device Management System	7746
 Electronic Fiscal Device Management System EPZ	13053
 Electronic Fiscal Devices	4699,287,261,7701
 Electronic Fiscal Devices. Unlike	6469
 Enabled Medical Devices	3651,4650
 Enabled Medical Devices. Individuals	3651
+Enchères des Devises	13452
 Ethio Telecom Eyes Local Device Production	12264
+Every Fuel Fiscal Device	13606
 Explaining Positive Deviance	11006
-Fiscal Devices	12509
+FDMS Fiscal Device API Gateway	13606
+First Schedule. Virtual Fiscal Device	13606
+Fiscal Device	13606
+Fiscal Device API Gateway Requirements Specifications	13606
+Fiscal Devices	12509,1097
 Fiscal Electronic Device	8368,177
 Fiscal Electronic Devices	7695,673
+Fiscal Fuel Devices	13606
+Fuel Fiscal Device	13606
+Fuel Fiscal Device Gateway API	13606
+Fuel Fiscal Device Operation	13606
+Fuel Fiscal Device PART I Fiscal	13606
+Fuel Fiscal Device S.I	13606
+Fuel Fiscal Device Suppliers	13606
+Fuel Fiscal Device Technical Committee	13606
+Fuel Fiscal Device of Fuel Operators	13606
+Fuel Fiscal Device. PART VI Offences	13606
+Fuel Fiscal Devices	13606
+Fuel Fiscal Devices Compliance	13606
+Fuel Fiscal Devices Technical Committee	13606
 GB Cost of Devices Low	11857
 GUIDELINE ON REGULATION OF MEDICAL DEVICE	11268
 Generative Artificial Intelligence-enabled Medical Device	3651
 Guias Locais. Devido	11421,25,131
 H. Devine	11140
 Homens Devido	10777
+ICT Devices	13295
 Illegal Devices	26
 Import Radiation Devices	718
 Indicators Activities Corrective Action Deviation	5245
@@ -104,7 +130,7 @@ Medical Device	3651,4650,2863,104
 Medical Device Committee	3651
 Medical Device Regulators Forum	8301
 Medical Device Software	11268
-Medical Devices	3651
+Medical Devices	3651,9655
 Medical Devices.https	8301
 Mobile Device Financing Facility Mr. Kolubah	2916
 Mobile Device Management	11231
@@ -117,8 +143,10 @@ NUMBER OF LTE DEVICES	11211,51
 National Aggregate Deviation	13058
 No. of Devices and Terminals	2776
 Number of Assistive Devices Distributed	12977
+Number of Fuel Fiscal Device Interruptions	13606
 OpenAI and Advanced Micro Devices	7209
 Own Device CD Compact Disc	34
+PART IV Fuel Fiscal Device Operations	13606
 PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
 POSTPAID DEVICE	11262
 Payment Access Devices	4517,2461
@@ -134,6 +162,7 @@ Retail Fuel Price Deviation	1828
 Root Cause Analysis of Deviations Table	5245
 Short Range and Utrawide Band Devices	736
 Smart Device Access	1284
+Smart Device Access Scheme Manual	13331
 Smart Device Devices	11857
 Smart Devices	3862
 Smart Smart Devices	11857
@@ -142,6 +171,8 @@ Surge Protection Device	9123
 Surge Protection Device NFPA	9123
 Surge Protective Devices	9123
 Teacher Digital Device	899
+Technical Specifications of Fuel Fiscal Devices PART	13606
+Technical Specifications of Fuel Fiscal Devices. Second	13606
 Theft of Device	11861
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 Tower Cos. P-11 Local Device Assembly	11857
@@ -152,4 +183,7 @@ Use of Fiscal Electronic Device	7695
 User Device Compatibility Web	13037
 User Devices End-user	12240
 VAT. Electronic Fiscal Devices	12948
+Virtual Fiscal Device	13606
+Virtual Fuel Fiscal Device	13606
+Virtual Fuel Fiscal Devices	13606
 X MSA2052 Storage Devices	11209

@@ -27,11 +27,15 @@ MINADER	10963,1,1,20
 MINADER MPMEs Activité	10965
 MINADRPV	6280
 MINAFFET	12338
-MINALOC	431,11897,5,5,20,55
+MINAGRI	13418
+MINALOC	431,11897,5,5,20,55,983,22
 MINALOC Ministère de L’Administration Locale	12413
 MINALOC RWANDA Rwanda	12370
 MINALOC Rwanda Imibereho	12370
 MINAMB	11390
+MINANI Evariste	13341
+MINANI Evariste Communautaire	13341
+MINANI Evariste Informaticien	13341
 MINAS	10963,1,1,20
 MINAS Activité	10965
 MINAS Ministère des Affaires Sociales	10964
@@ -47,7 +51,10 @@ MNEPIA and MINADER	10964
 Medical Certificate of Cause-of-death MINALOC	12338
 Mina Rouchati	8891
 Mina Rouchati Fouad Ben Seddik Lalla	8891
+Minago	13405
 Minahil	8605
+Minakshi Ramji	13312,2
+Minaloc	13418
 Minamata Convention	12918
 Minang	4209
 Minara	2868,3151

@@ -31,6 +31,7 @@ Domestic Fixed Voice Traffic	6671
 Domestic Fixed Voice Traffic Fixed	6671
 Domestic Product GFCF Gross Fixed Capital	2775
 E. No Fixed Cap	5773
+ENDROIT FIXE	13300
 EVOLUÇÃO DE ACESSO FIXO VIA RÁDIO	11531
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
@@ -38,6 +39,7 @@ FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 FIXANT LES MODALITÉS DE MISE EN	10897,9
 FIXATION DES PRIORITES DE PROTECTION	10906
+FIXE OPERATEURS INTERNET	13324
 FIXED	3862
 FIXED INTERNET	6000
 FIXED INTERNET AND DATA REVENUES	11211,51
@@ -76,14 +78,18 @@ Fixant	9080,1895
 Fixar	11430
 Fixate	7751
 Fixating	9759
+Fixation	13291,84,58
+Fixation des Conditions	13313
 Fixação	11518,2,1333
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2
+Fixed Annual	13331
 Fixed Asset	13053
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
 Fixed Assets Tax	12452
+Fixed BB Subscription	13314
 Fixed Broadband	2776,9619
 Fixed Broadband Complaints Reach	11642
 Fixed Broadband Market	12395
@@ -123,6 +129,7 @@ Fixed Interest Rate	9566
 Fixed Internet	6000,5211,51
 Fixed Internet Broadband Broadband	12395
 Fixed Internet Data Traffic Market	6085
+Fixed Internet Subscription	13346
 Fixed Internet Subscriptions	718,5953
 Fixed Internet Wu	9781
 Fixed Internet and Data Revenues	11211,51
@@ -168,6 +175,7 @@ Fixed Services	12949
 Fixed Solutions Internet	12769
 Fixed Telephone	2775,1
 Fixed Telephone Financial Year	12395
+Fixed Telephone Line Services	13346
 Fixed Telephone Lines	12395
 Fixed Telephone Shaping The Mobile Licenses	12395
 Fixed Telephone Subscriptions	6000,671,5724
@@ -175,6 +183,7 @@ Fixed Telephone Subscriptions Figure	6671
 Fixed Telephone Subscriptions Fixed	12395
 Fixed Telephone and Mobile Network Services	2775
 Fixed Telephony	3862
+Fixed Telephony Operator	13295
 Fixed Telephony Operators	958
 Fixed Telephony Voice Subscription Data Subscription	9109
 Fixed Termination Rates	6946
@@ -242,7 +251,7 @@ Fixed-wired	12395
 Fixed-wireless	1818,5080,5497
 FixedBB	11563
 Fixedsales	12769
-Fixer	7920,971,1985
+Fixer	7920,971,1985,2425,40
 Fixes	998
 Fixes L’évolution	998
 Fixing	9683,26,2629,118
@@ -254,6 +263,7 @@ Fixing the Frictions. Chapter	11149
 Fixing the Rules	11960
 Fixée	2014
 Formation Brute de Capital Fixe	9276
+Formation Brute de Capital Fixe FBU	13377
 Frequency Assignments for Non-Protected Fixed Links	6946
 Frequency Assignments for Non-Protected Fixed Links Band	6946
 G Fixed Wireless Access	6100
@@ -266,6 +276,7 @@ Headquarters Allowance Proposed Fixed Rate	13037
 Hirshabelle's Digital Fix for Somalia's Oldest Tax	7897
 Home FWA Fixed Wireless Access	1818
 Hour Proposed Fixed Rate	13037
+I MÉTHODE DES JOURS FIXES	13300
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
 INTERNET FIXO POR REGIÃO	11531
 Incoming Fixed	3862
@@ -288,6 +299,7 @@ Internet and Broadband Fixed Broadband	12395
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 Item of Tangible Fixed Assets Years Buildings	11955
+J MÉTHODE DES JOURS FIXES	13300
 KSh Gross Fixed Capital Formation	2775
 Kingdom of Eswatini. Fixed Network Operators	12395
 Kyrgyzstan. Fixed	10844
@@ -312,9 +324,11 @@ Mobile and Fixed Network	2776
 Mobile and Fixed Network Breakdown of Off- Q3	2776
 Mobile and Fixed Networks	2776
 Mobile and Fixed Telephone Services Mobile	718
+MÉTHODE DES JOURS FIXES	13300
 NETWORK DATA FIXED TELEPHONY	3862
 NETWORK DATA- FIXED TELEPHONY	3862
 NIGER TELECOMS S.A. Fixe	998
+NON FIXE	13300
 National Fixed Asset Management Policy	9004
 National Fixed Asset Register. Consolidated	9004
 Network Operator Fixed Network Operator Q3	2776
@@ -337,6 +351,7 @@ PAPSS CANNOT FIX Weak	9593
 PART III Light Licence for Broadband Fixed	736
 PORTANT FIXATION DES TAUX DES DROITS	7470
 PUBLIC PUBLIC Fixed	1818
+Portant Fixation des Conditions	13313
 Purpose of Chapter Part B Fixed	11181
 Quarter-on-Quarter Fixed Broadband	2776
 Quarterly Domestic Fixed Voice Traffic	6671
@@ -354,11 +369,14 @@ SOUTH AFRICA FIXED AND MOBILE UPLOAD	11262
 Service Gross Compensation of Consumption of Fixed Taxes	236
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TECHNOLOGY SECTOR REPORT Fixed Telephony Main	12395
+Technical Global KPIs for Fixed Access Networks	13331
 Telecel’s Fixed Broadband	2776
 Telefone Fixo	11577
+Telephonie Fixe	13313
 There’s No Fix for Weeks After FIJ	10034,231
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
+TÉLÉPHONE FIXE	13300
 UGPE. Fixed-broadband Internet	11965
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
 Usage Basket Fixed Broadband	12395

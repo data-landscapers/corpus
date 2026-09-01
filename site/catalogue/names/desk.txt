@@ -1,8 +1,10 @@
 AI Act AI Act Service Desk	8529
 APPENDICES Appendix A Equipment Specifications Desktop	34
+Activity Frequency Desk	13332
 App Desktop	12454
 Atenu.org Research Desk	12199
 B. Desk	10764
+Body The Secretary's Desk Q1-2026	13503
 Business Desk	11666
 CADECO.PAR Deskeco	7813
 CFM Information Desk	9772,1
@@ -16,6 +18,8 @@ DESKTOP SPECIFICATIONS	2779
 DHA Employment The DHA Youth Desk	11986
 DHA Youth Desk	11986
 DIRECTOR'S DESK	13062
+DataToCare Desktop	13617
+Delayed Rehabilitation of Desks	13355
 Desk Audits	13053
 Desk Jet	11860
 Desk Research	226,11988
@@ -26,14 +30,14 @@ Desk-based	8301
 Desk-review	6189
 Deskflo	10605
 Desks	11134,1277
-Desktop	6832,1156,1771,2898
+Desktop	6832,1156,1771,2898,745
 Desktop Application Veriﬁcation Figure	8604
 Desktop Computers	6946
 Desktop Interface Type USB	34
 Desktop Research	12376
 Desktop Study Several	12253
 Desktop Tablet	582
-Desktops	34
+Desktops	34,13370
 Desktops TBA	1988
 Desktops for Ministers	2779
 Desktops for Non-Technical Staff	2779
@@ -64,12 +68,15 @@ Media Desk	11297
 Ministry's Strategic Blueprint. The Desk	10157
 NonVisual Desktop Access OWASP Open Web	11952
 Objectives The Desk	10157
+Olivier Steele. Desktop	13382
 One-Stop Investment Desk	11939
 Oversee CeasefireNews Desk Strains Erupt	3768
 Power Development and Regional Integration Desk Ato	12195
 Public Relations Desk Nairobi	9852
 RSL's PR Desk	12711
 Remote Desktop CM-IDAM.S15 CM-IDAM	10721
+Secretary's Desk First Edition	13503
+Secretary's Desk Q1-2026 A PDF	13503
 Service Desk	12654
 Service Desk Officer	12654
 Single Service Desks	4214
@@ -79,7 +86,9 @@ Startup Pact and Trade Desk	2871
 Startups Desk	8008,1459
 Startups Desk. Thank	10731
 Technology Export and Digital Trade Desk	10157
+Trade Desk	13461
 Unit DR Disaster Recovery DTLT Desktop	13185
 Upper East Upper East Laptop Desktop	582
+Windows Desktop	13461
 World Bank Data Help Desk	10714
 Youth Focal Desks	11791

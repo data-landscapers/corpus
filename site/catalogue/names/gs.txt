@@ -1,6 +1,8 @@
 ADM Philippe Auffret Economist GSP05 Responsible	11525
 ANRT. The GSMA	9868
 APIs. The GSB	2112
+ARCT and GSMA	13312
+ARCT and GSMA.21 Burundi	13314
 Aayushya Ranjan GSMA	2334
 About GSMA Connected Women The GSMA	11003
 Already GSMA	11857
@@ -34,15 +36,20 @@ Finds New GSMA Study. Press Release	10822
 G Coverage GSMA	10856
 GDJF and GSA	6960
 GDP. The GSS	236
+GIS Geographical Information System GSMA Global	13295
 GRM GSMA IA ICT IDA INDG	1228
+GRS Government Technology GSMA Grievance Redress	13331
 GRS Grievance Redress Service GSMA Global	1264
 GS Global Based	6770
 GS Health Emergency HE Health Emergency	11417
+GS-JED	13363
 GS1 Barcode-A Tool	10631
+GS1 DataMatrix	13513
 GS1 Ghana	10631
 GS1 MEMA Forum	7322
 GS1 Standards	10631
 GS1 Tanzania Chief Executive Officer	5883
+GS1-128	13513
 GSA Ghana Standards Authority SME Small	6936
 GSA Training	405
 GSB. Secure Infrastructure Overview The Secure	12359
@@ -50,6 +57,7 @@ GSBPM Generic Statistical Business Process Model	12902
 GSC Gambia Submarine Cable	1000
 GSCARR-2025-0350.pdf	4074
 GSCID	11986
+GSE. Annual	13349
 GSI Guidelines	4848
 GSIE TECHNOLOGIE C	998
 GSIMT Switch	6938
@@ -112,7 +120,7 @@ GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439,871,2,17
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
@@ -139,7 +147,7 @@ GSMA Mobile Data for Humanitarian Action.pdf	6024
 GSMA Mobile Economy Africa	6714
 GSMA Mobile Economy SSA	10856
 GSMA Mobile Industry Leadership	214
-GSMA Mobile Internet Skills Training Toolkit	11004,13,947
+GSMA Mobile Internet Skills Training Toolkit	11004,13,947,1367
 GSMA Mobile Internet Skills Training Toolkit.43	11964
 GSMA Mobile Internet Skills Training Toolkit.45	11004
 GSMA Mobile Money	5820
@@ -237,6 +245,7 @@ GSR-24 Kampala. USD	1528
 GSS Data Processing Division Joyce Date	236
 GSS Director	236
 GSS Disaggregated	236
+GSS Discours	13689
 GSS Employment	236
 GSS GRA Sample NCA	236
 GSS Ghana Statistical Service Figure	582
@@ -246,6 +255,7 @@ GSS Head of Trade Statistics Section Tetteh	236
 GSS Input	236
 GSS National Accounts Section Felix Debrah	236
 GSS Trade Statistics Section Naa Amerley	236
+GSS Vue	13689
 GSSRS	7659
 GSU Chief Executive Officer and Managing Director	4934
 GSX’s Karamoja and CBDC	5743
@@ -258,6 +268,10 @@ Geographical Information System GSMA	958
 Ghana. GSMA	10819
 Given GS	11417
 Global System for Mobile Communications GSMA GSM	11857
+GoB Government of Burundi GSMA Global System	13312,2
+Government GIS Geographical Information System GSB	13346
+Government GSB Government Service Bus GWAN	13345
+Government Service Bus GSM Global System	13346
 Government. The GSB	12416
 Gross Domestic Product GSMA Global System	12395
 Gs1 Namibia	12478
@@ -272,6 +286,7 @@ ITU and GSMA	11857,802
 Identity The GSMA	10822
 Indonesia and Kenya GSMA Mobile Money	11994
 Infrastructure Program GSC Gambia Submarine Cable	1000
+International Rescue Committee’s Experience. GSMA	13314
 Introduction Benin Ghana GSMA Head Office	10822
 Ipsos the GSMA	11964
 Kenya GPS Global Positioning Systems GSM	2775
@@ -301,7 +316,10 @@ NCA and GSS	236
 NCA and GSS. Any	236
 Namibia Operator Pushes GSM. RetrievedAugust	12325
 Nigeria. GSMA	10819
+OfficialUse On GSROUPE DE LA BANQUE	13555
+Onatel.22 The GSMA	13314
 POD FDA FBO FTE GHS GS	4153
+Participants Membres du GSS Durée	13689
 Previous GSMA	11004,960
 Prosperity The GSMA Connected Women	11004
 Prosperity The GSMA’s Connected Women	11964
@@ -328,4 +346,5 @@ VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
 World Bank Group. GSMA	12214
 World Bank and GSMA	6078,1972,3956
 YoY. GSMA Intelligence	2500,1414
+Zambia E-Commerce Electronic Commerce GSM Global	13347
 Zambia GSMA	10819

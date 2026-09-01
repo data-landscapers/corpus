@@ -28,6 +28,7 @@ Customs Environment Scan	13051
 Customs Scanner Server Room	13044
 DC. World Bank. IDA17 Scale-Up Facility	10997
 DIMENSION Likelihood Severity Scale DESCRIPTION	11156
+DISPENSAIRE SCAOLAIRE	13300
 DREAM SCAPES COMPANY LIMITED Data Controller	7167
 DREAM SCAPES COMPANY LIMITED Data Processor	7167
 Dario Scaccabarozzi Data Controller INST-538140AEA1A KWALE	7167
@@ -86,6 +87,7 @@ IDA Scale-Up Window-Shorter Maturity Loan	11905
 INFORMATION ON WEBSITES SCAMS OR BATTERY	11964
 INFORMATION ON WEBSITES SCAMS OR INCONSISTENT	11004
 Immigration Scalabrini Centre of Cape Town	11986
+Information System The World Bank Scaling	13332
 Infrastructure Sharing and Scalability	4896
 Institution Instruments Context Scale	11310
 Institutionalisation and Scale	4848
@@ -134,6 +136,7 @@ Procurement SUW Scale-Up Window TA Technical	3604
 Production Hydroélectrique SCAF	10975
 Profit Scaling	5869
 Program SCADA Supervisory Control and Data Acquisition	11549
+Project Name Zambia Scaling-up Shock Responsive	13332
 Public Disclosure Authorized FROM THE SCALE-UP	3604
 RAS SCADA	10975
 RECs. Scale	11149
@@ -153,12 +156,13 @@ Rwanda AI Scaling Hub	6564
 SAST Static Application Security Testing SCA	11952
 SCA Schutz JA	2307
 SCA Supreme Court of Appeal SCM Supply	11198
-SCADA	1539,6034,2496,2330
+SCADA	1539,6034,2496,2330,947
 SCADA-type	87
 SCADD	10812
 SCALE-UP WINDOW-SHORTER MATURITY LOAN	11905
-SCALED-UP	412,345,2829
+SCALED-UP	412,345,2829,9745
 SCALING INCLUSIVE E-GOVERNANCE INITIATIVES Social	12333
+SCAM ALERT	13477
 SCAMS OR INCONSISTENT	11004
 SCAN FOR APPENDICES	4126
 SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
@@ -193,7 +197,7 @@ Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
 Scalar International's Africa Decarbonisation Fund	5431
-Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80
+Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250,303,53,36,395,80,17,12,1,55,111,367,80,244
 Scale AI	4972,3007
 Scale Accelerators	2957
 Scale Africa's Digital and AI Economy	7596
@@ -236,7 +240,7 @@ Scale-	3604
 Scale-Up	790,11110
 Scale-Up Corridor	4698
 Scale-Up Window	3604,176,7689,436
-Scale-up	6539,4224,89,281,513,319,537
+Scale-up	6539,4224,89,281,513,319,537,916
 Scale-up of Digital Public Services and Marketplace	11965
 Scale-up of Kwenda	10763
 Scale. Accessed	5700
@@ -251,10 +255,11 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51,329,85,104,34,35,4,41,42,205,5,182,320,86,300,1
 Scaling AI	1467,9668
 Scaling AI Readiness Across Borders	12723
 Scaling AI for SMEs	6886
+Scaling Adoption and Delivering	13396
 Scaling Agriculture Investment	1468
 Scaling Blockchain for Public Good	9170
 Scaling Challenges	4848
@@ -273,6 +278,7 @@ Scaling Phase	10819
 Scaling Technologies	7548
 Scaling Thresholds	11952
 Scaling Up School Connectivity	1164
+Scaling Up the Spotlight Initiative	13474
 Scaling the Atlas	7655
 Scaling the Digital Stack	671
 Scaling the FHIR-based	12458
@@ -280,13 +286,14 @@ Scaling-Up Birth Registration Using Innovative Technology	64
 Scaling-up	2712,3867,5850
 Scaling-up Access	11380
 Scaling-up Homegrown School Feeding Programme	12985
-Scaling-up Impact and Getting Back	10964
+Scaling-up Impact and Getting Back	10964,2367,1
 Scam Alert	10311
 Scam Alert Tool	10580
 Scammers	3962,5654
 Scamming	11131
-Scams	9616,1401
+Scams	9616,1401,2515
 Scan QR	899
+Scan des QR	13513
 Scan the QR	11332
 Scancom	10037
 Scancom PLC	89,835,4212,573,1782,1023,93,206,1980
@@ -300,6 +307,7 @@ Scandinavia	4432,244
 Scandium	9594
 Scanjet Pro	34
 Scanlon	5257
+Scannage	13513
 Scanneador	794
 Scanned	11252
 Scanned PDF	10895,1,1,1,5,1,1
@@ -311,9 +319,10 @@ Scanner Speed Details	34
 Scanners	34,11826
 Scanners Standards and Guidelines	34
 Scanners Standards and Guidelines The ICT Unit	34
-Scanning	12337,610,148
+Scanning	12337,610,148,382
 Scanning and Archiving of Records	12947
 Scarce	1940,8889
+Scarce Resources Resources	13346
 Scarcity	11525,902,17
 Scarcity of Training-Quality Data	3810
 Scardamalia	12329
@@ -336,12 +345,14 @@ Small Scale Embedded Generation	11228,1741
 Small Scale Embedded Generation The MTSAO	11228
 Small Scale Enterprise	11134
 Small Scale Enterprise Loan Guarantee Scheme	13123
+Small Scale Mining Formalisation	13474
 Small and Medium Scale Enterprises	8973
 Small and Medium Scale Enterprises Development Agency	12145
 Somalia's SCALED-UP	757
 Southern Africa. The Scalar Botswana Innovation	5393
 Stablecoin Infrastructure Scales Stablecoin	10802
 Standard Scale	1333
+Standard Scale of Fines	13311
 State of Scams	7476
 Sullivan and Scalar	5446
 Support for Scaling	98
@@ -359,4 +370,11 @@ Version.pdf SCAN TO DOWNLOAD FULL REPORT	12251
 WEBSITES SCAMS OR INCONSISTENT	11964
 WIL Scale	6832
 WeChat Scan	12246
+World Bank Scaling	13332
+YouTube Scaling	13462
+YouTube Scaling Support	13461
+YouTube Scaling Support Programme	13462
+ZAMBIA FOR A SCALING UP SHOCK	13332
 ZRA ZRA News NEW X-RAY SCANNERS	12454
+Zambia Scaling	13332
+Zambia Scaling-up Shock Responsive Social Protection	13332

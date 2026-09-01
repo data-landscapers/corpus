@@ -4,7 +4,7 @@ APPLICATION FOR ASYLUM	11177
 ASM Asylum Seeker Management BABS Branch	11218
 ASY. REF. ASY	11900
 ASY. REF. ASY. REF. ASY. REF	11900
-ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142
+ASYCUDA	969,1143,928,2037,2129,2975,369,31,994,292,39,443,14,23,105,48,417,86,11,142,429
 ASYCUDA Advisory Board	13042
 ASYCUDA Advisory Board and Deputy Secretary-General	13042
 ASYCUDA Automated System for Customs Data AWP	969
@@ -12,6 +12,7 @@ ASYCUDA Centre of Excellence	13042
 ASYCUDA Cloud Framework	13042
 ASYCUDA Cloud Framework ASYCUDA Cloud Framework	13042
 ASYCUDA Customs Digitalization	13042
+ASYCUDA Customs G2B	13314
 ASYCUDA Electronic Single Window for Trade	13042
 ASYCUDA Exemption System	13042
 ASYCUDA Financing	13042
@@ -35,7 +36,7 @@ ASYCUDA Support for Migration Tailored	13042
 ASYCUDA System for Performance Measurement	13042
 ASYCUDA TileSW	13042
 ASYCUDA WORLD	5077
-ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399
+ASYCUDA World	969,1143,2452,3488,306,405,2954,669,268,399,261
 ASYCUDA World Password Reset Process	12654
 ASYCUDA World Registration Process Table	12654
 ASYCUDA World System	7206
@@ -47,7 +48,7 @@ ASYCUDA-based SW	13042
 ASYCUDA-based Single Window. Customs	13042
 ASYCUDA. The TIN	12349
 ASYCUDAWORLD The Namibia Revenue Agency	13067
-ASYCUDAWorld	1393,999,9183,1079,297,91,25
+ASYCUDAWorld	1393,999,9183,1079,297,91,25,348
 ASYCUDAWorld ASYCUDAWorld	13042
 ASYCUDAWorld Advanced Functional Training	13042
 ASYCUDAWorld Support	13042
@@ -83,6 +84,7 @@ Asylum Seeker Management System DEPARTMENT	11986
 Asylum Seeker Management System Explanation	11986
 Asylum Seekers	11986
 Asylum Seekers and Special Permit	4667
+Asylum-Seekers Download	13669
 Asylum-seekers	11900
 Asymmetric	11869
 Asymmetric Digital Subscriber	12395
@@ -134,6 +136,7 @@ IV. ASYCUDA New Generation for Sustainable Trade	13042
 Implementation Strategy ASYCUDA New Generation	13042
 Integration Platform ASYPM Automated System for Performance	13042
 International Trade Facilitation Agreements ASYCUDAWorld	13042
+KORI Asycuda World Dénonciation	13427,233
 Kazakhstan and UNCTAD’s ASYCUDA Programme	13042
 Kenya Nationals Certificate Asylum	12227
 Korley Klote Asylum Down-Accra	3386

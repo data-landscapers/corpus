@@ -6,7 +6,8 @@ IRPC IUR Mod	12018
 IRPC and IUMAE	10762
 ITU International Telecommunication Union IUCD Intrauterine	2775
 IUA Mobile Care Services Discovery	1009
-IUCEA	9707,1600
+IUCEA	9707,1600,2007
+IUCEA Inter-University Council for East Africa IXP	13312,2
 IUCEC	3396,7416
 IUCEC and NIP	10812
 IUGET	6655

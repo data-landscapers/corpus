@@ -5,13 +5,15 @@ CR Civil Registration DA District Administrator	12663
 CR Civil Registry CSU Cadastro Social	10765,10
 CR DB	12337
 CR N	12429
+CR Requires	13681
+CR Strengthens	13681
 CR Tech	10812
 CR and ID	969,9796,10,1562,69
 CR and ID Expand CR	10765
 CR and ID Process and Procedures Rationalize CR	10765
 CR and ID Working Group	10775
 CR and ID. MT	10775
-CR and NID	12250
+CR and NID	12250,1431
 CR. Only Angolan	10775
 CRI CR and ID	11971
 Causes of Death CR	12338

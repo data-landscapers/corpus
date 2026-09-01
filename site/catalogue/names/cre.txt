@@ -44,6 +44,8 @@ Account DVC Digital Verifiable Credentials CCSS	11986
 Act. The National Credit Regulator	4824
 Additional Financing Credit Grant SML Guarantee	2889
 Adopt Standard Operating Procedures. Create	1777
+Ads Credit	13462
+Ads Credits	13462
 AfDB-backed Crescer Project	5488
 Afreximbank Academy and CreditRegistry	11809
 Africa AMC Enterprise Creation Procedure Centre	10980
@@ -56,6 +58,7 @@ African DPG Creation Fund	7921
 African Development Review. Image Credit	4794
 Africa’s Food Markets Could Create	11140
 Agent Banking Enabling and Job Creation PASA	11469
+Agent. Creating	13333
 Agricultural Credit Scoring	7334
 Airtel’s Extra Credit	10807
 Airtime Credit Services	8587,76
@@ -116,9 +119,11 @@ Borrowing and Credit	12460
 Borrowing and Credit PWD	12460
 Budget Create	11857
 Building Credibility Through Stronger Reporting	9103
+Burundi National Internet Governance Forum. Create	13313
 Business Credit	11198
 Business While Creating Value for Society	42
-Buyer's Credit	192,36,1,269
+Buyer's Credit	192,36,1,269,13063
+Buyer's Credit of US	13561
 C2PA Content Credentials	8431
 CAD CREATIONS LTD Data Controller INST-4815997CAF5	7167
 CANEX Create-Thon	9641
@@ -132,14 +137,19 @@ COFFERS CREDIT LIMITED Data Controller INST-777935D1710	7167
 COFFERS CREDIT LIMITED Data Processor INST-777935D1710	7167
 COMPROMISE WITH CREDITORS	3714
 COMPROMISE WITH CREDITORS Compromise	3714
+COMPTES ET ENCOURS DE CREDIT PAR	13390
 CONSUMER-CREDIT MARKET Credit	11198
 CRE Venture Capital	9616
 CRE Venture Capital Fund III	1050
 CRE Venture Capital and Janngo Capital	1138
 CRE de BAFATÁ CRE de BIOMBO CRE de BOLAMA	11561
+CREANCIER	13375
 CREATE	13054
 CREATE AN ENABLING ENVIRONMENT FOR DIGITAL	899
+CREATE AN INDIVIDUAL ACCOUNT	13333
+CREATE AN INSTITUTION ACCOUNT	13333
 CREATING	961
+CREATING A CLIENT ACCOUNT	13333
 CREATING A ZANZIBAR DYNAMIC SOCIAL REGISTRY	11133
 CREATING LEGITIMATE AND TRUSTWORTHY DATA SYSTEMS	961
 CREATING PUBLIC VALUE Defining	961
@@ -148,6 +158,7 @@ CREATIVE CAMEROUN	10960
 CREATIVE DIGITAL LAB LIMITED Data Processor	7167
 CREATIVE EDGE LIMITED Data Controller INST-3043836A9A6	7167
 CREATIVE EDGE LIMITED Data Processor INST-3043836A9A6	7167
+CREATIVE INDUSTRY	13474
 CREATIVE MARGIN LIMITED Data Processor INST-531125E5ACB	7167
 CREATIVE MEDICAL SERVICES LIMITED Data Processor	7167
 CREATIVE MESH INTERNATIONAL LTD Data Processor	7167
@@ -157,7 +168,8 @@ CREDIBLE BLOOMS LIMITED Data Controller INST-649934F96DA	7167
 CREDIBLE LOSS ADJUSTERS LTD Data Controller	7167
 CREDICORP	3030,4599,721
 CREDISUL Banco de Credito	12252
-CREDIT	2743
+CREDIT	2743,10647
+CREDIT Avez-vous	13390
 CREDIT IN THE AMOUNT OF EURO	11924
 CREDIT REFERENCE BUREAU AFRICA LIMITED Data	7167
 CREDIT RISK TICK LIMITED Data Processor	7167
@@ -169,6 +181,9 @@ CREDIT SUISSE SECURITIES	1829
 CREDITAREA CAPITAL LIMITED Data Controller INST-81639492ACF	7167
 CREDITAREA CAPITAL LIMITED Data Processor INST-81639492ACF	7167
 CREDITINFO CREDIT REFERENCE BUREAU KENYA LIMITED	7167
+CREDITS BRUTS	13390
+CREDITS DEMANDES	13390
+CREDITS DEMANDES ET CEUX OCTROYES AINSI	13390
 CREDWAVE LIMITED Data Processor INST-3652443F0C3 NAIROBI	7167
 CREI Solar Energy for Telecom Towers	2234
 CREI South Sudan	4475,624
@@ -217,7 +232,7 @@ Comprehensive and Create	5244
 Concorde Co-operative Savings and Credit Society Limited	7167
 Consumer Credit Act	7802
 Contact Credit	6528
-Content Creation	5752
+Content Creation	5752,7722
 Content Creator Charter	12100
 Content Creator Hub	6759
 Continue With MyNa Credentials	3002,443,14,16,1606,536
@@ -231,11 +246,13 @@ Creamer Media Editor The National Energy	11904
 Creamer Media Reporter	11904
 Crear	163,1538
 Crear Unidades de Negocio	1701
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1153,133,1,635,193,44,10,44,4,6,80,51,4,40,3,10,114,2,7,56,40,29,10,579,3,6,43,46,12,22,49,152,6,17,4,27,5,82,17,11,8,12,29,14,25,64,4,39,12,112,5,13,61,7,2,8,8,144,16,98,58,200,15,4,6,39,345
 Create AI	12675
 Create AI Act	2816
 Create AI Special Economic Zones	12210
 Create Account Property Search	12511
+Create An Individual Account	13333
+Create An Institution Account	13333
 Create Date	9854,1414,1405
 Create IBR	11133
 Create Impact	13077
@@ -244,6 +261,7 @@ Create Interactive Learning Opportunities	12675
 Create Meaningful Opportunities for Youth	7719
 Create More and Better Private Sector Jobs	11469
 Create National AI Regulatory Sandbox	4528,7984
+Create New Account	13333
 Create New Costs	6362
 Create Opportunities for Self-Service	12419
 Create Quality Jobs	505
@@ -253,9 +271,9 @@ Create XML	8606
 Create ZDSR Technical Working Group	11133
 Create-Thon	9641
 Create-thon	9641
-Created	395,941,244,2,497,2368,6423,1479,688,21
+Created	395,941,244,2,497,2368,6423,1479,688,21,360,53
 Creates	3495,7546,88,1117,198
-Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10
+Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18,144,21,11,11,22,79,2,3,62,41,232,278,114,1,44,80,55,84,46,39,23,90,6,30,36,4,33,21,25,85,111,10,75,175,5,25,13,10,327,17,14,12,120
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Creating Digital Skills	1953
 Creating Financial Happiness	8001
@@ -279,7 +297,7 @@ Creating Synergies	11905
 Creating the Ghana Global AI Summit	4126
 Creating the National Picture	4528,7984
 CreatingOneAfricanMarket	9034
-Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566
+Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15,273,417,308,3,9,34,6,46,197,39,20,33,12,42,64,170,566,200,162
 Creation Latest	10151
 Creation Model The Financial Stability	11134
 Creation With New Financial Product Business	10151
@@ -297,8 +315,8 @@ Creative	507,2011,6611,108,1609,123,915,1,10,264,1,28,16,1,146,4,41,91,611
 Creative Africa Nexus	8149,1492
 Creative Book Publisher	8022
 Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28,452
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292
-Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238,206,292,486,1,1
+Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376,1057,2
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15
 Creative Commons Attribution NonCommercial ShareAlike	2709
@@ -312,17 +330,19 @@ Creative Commons Attribution-ShareAlike	12486
 Creative Commons AttributionNonCommercialShareAlike	11006,1
 Creative Commons Attrlbution-ShareAlike Ucense	1009
 Creative Commons Attrlbutlo11	1009
+Creative Commons License	13425
 Creative Commons NonCommercial	8602,1,1,1,1
-Creative Commons Zero	10031
+Creative Commons Zero	10031,3440
 Creative Digital Solutions	9533
 Creative Director	4896
 Creative Economy. The Treasury	7831
 Creative Europe	970
 Creative Industries	602
 Creative Industries and Multimedia	12333
-Creative Industry	12982
+Creative Industry	12982,492,211
 Creative Sector. Use	12210
 Creative Series	8943
+Creative and Cultural Industries	13487
 Creatives	1564
 Creatives Win Millions... Africa Told	4942,664,283,454,183
 Creatives and Diaspora	8149
@@ -346,16 +366,18 @@ Credentialing	3861
 Credentials	4091,3131,1682,1861,10,2320
 Credentials Wallet	11938,2
 Credibility	1988,6033,3895,330
+Credibility and Quality	13359
 CredibilityCredibility	7278
-Credible	8987
+Credible	8987,4474
 Credible Elections	5390
+Credible Evidence Generation GHAI	13608
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25,61,38,8,128,26,3,64,73,1,38,85,110,379,1,10,29,41,6,23,6,159,1,35,10,13,10,3,3,15,18,2,1,27,54,4,4,1,4,10,15,20,31,4,1,15,27,3,19,65,127,255,6,82,9,5,546,20
 Credit Accumulation and Transfer	12574
 Credit Act NCC National Consumer Commission	11198
 Credit Allocated	4653
 Credit Amount Grant	11855
-Credit Amount Grant Amount Guarantee	969,9860
+Credit Amount Grant Amount Guarantee	969,9860,2502,1
 Credit Amount Grant Amount SML	3604,7956,345
 Credit Amount US	12980
 Credit Bank Plc Data Controller INST-5006303240E	7167
@@ -384,6 +406,8 @@ Credit Institutions and Financial Companies	3058
 Credit Institutions and Financial Companies Law	12294
 Credit Line Arrangement	8891
 Credit Line and US	11923
+Credit Market Monitoring Programme	13532
+Credit Market Monitoring Programme Data	13479
 Credit Meter	12394
 Credit No	9603,1,3581
 Credit Note	8156
@@ -399,7 +423,7 @@ Credit Reference System	7763
 Credit Reference X Bureau	1988
 Credit Registry	10609
 Credit Reporting	11198
-Credit Reporting Act	11993,673
+Credit Reporting Act	11993,673,900
 Credit Reporting Act The Credit Reporting	11993
 Credit Reporting Regulations	6940
 Credit Reporting System	12701
@@ -413,6 +437,7 @@ Credit Strand	418,522
 Credit Suisse	1829
 Credit Suisse AG	1829
 Credit Suisse International	1829
+Credit Supply	13532
 Credit Support and Public-Interest Considerations	4896
 Credit Terms Extended	5247
 Credit Union Cap	1020
@@ -433,7 +458,7 @@ Creditinfo	12104
 Creditinfo West Africa	9800
 Creditor Representation	12389
 Creditor's Rights	12389
-Creditors	1828,703,9858
+Creditors	1828,703,9858,1296
 Creditors Notification Requiring	12389
 Credits	4426,6544,1414
 Credits Ministry of Education Innovation	13247
@@ -448,6 +473,7 @@ Crelicam	12517
 Cremers	11156
 Crenshaw	6231
 Creole	7367
+Creop-jeunes	13358
 Crescent	11129
 Crescent Tech Ltd Data Controller INST-849295FCFA0	7167
 Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
@@ -475,21 +501,24 @@ Crevaisons	7533
 Customer Debit Credit Notification	12364
 Customer Service Credit Scoring	4848
 Customs Enforcement Activities Photo Credit	13053
+Cybersecurity Teams Creating	13532
 D.C A BLUEPRINT FOR CREATING	11133
 D.G. POLITICA FINANCIERA Y CREDITOS- Concepto	4209
 DAC Creditor Reporting System. Data	11572
 DAHAWI CREDIT LIMITED Data Controller INST-386070073CE	7167
 DATA USE CASE FOR VALUE CREATiON	961
+DE LA SAISIE-ATTRIBUTION DES CREANCES Section	13293
 DEBTOR'S ASSETS AND CREDITOR'S PARTICIPATION	12389
 DEFENCE SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 DELTAP CREDIT LIMITED Data Controller INST-638440016A6	7167
 DELTAP CREDIT LIMITED Data Processor INST-638440016A6	7167
+DES CREDITS BRUTS	13390
 DICE Technology Fund and DICE Creative Fund	1128,7222
 DIGITAL CONTENT CREATORS ASSOCIATION OF KENYA	7167
 DIGITAL CREDIT SERVICES	6940
 DIGITAL IDENTITY CREDENTIALS	12047
 DIMKES DEPOSIT TAKING SAVINGS AND CREDIT	7167
-DOCUMENT ON A PROPOSED CREDIT	989,9975,891
+DOCUMENT ON A PROPOSED CREDIT	989,9975,891,1477
 DOCUMENT ON PROPOSED CREDITS	1264
 DOTCASH CREDIT LIMITED Data Controller INST-692491A6B93	7167
 DOTCASH CREDIT LIMITED Data Processor INST-692491A6B93	7167
@@ -503,7 +532,7 @@ Data Creates Competitive Advantage	1243
 Data Value Creation Mandates	5244
 Data Value Creation Mandates Data	5244
 Debit Notes Received and Credit Notes Issued	12509
-Debit and Credit Cards	12392
+Debit and Credit Cards	12392,1140
 Department of Employment and Job Creation	5172
 Deposit Taking Savings and Credit Cooperatives	2775
 Deposit-taking Savings and Credit Cooperatives	6938
@@ -512,6 +541,7 @@ Description Preferential Export Buyer's Credit	480
 Develop Regulatory Create	1777
 Development Finance Division’s Credit Guarantee Scheme	11134
 Development Partnership Line of Credit Projects	11579
+Diaspora Engagement for Job Creation	13474
 Digital Credit	6887,53,361,163
 Digital Credit Audit Report	12227
 Digital Credit Ecosystem	6940
@@ -540,6 +570,7 @@ Digital Travel Credential	1525
 Digital Verifiable Credentials	5533,58,6395
 Digital and Creative Enterprise Programme	1128
 Digital and Creative Enterprises	602,804,6944,1569,3337
+Direct Debit and Credit Clearing	13532
 Directive for Digital Credit Service Providers	8732
 Directive for Digital Credit Services Providers	7464
 Director External Fund and Credit Management Directorate	12195
@@ -550,10 +581,13 @@ E CREDIT LIMITED Data Controller INST-319018E0B8D	7167
 E&M CREATIVE AGENCY LIMITED Data Processor	7167
 E-Waste. If Credibility	1988
 E. Fintech Credit Guarantee Window	4848
+E04B B. PRODUITS DE CREDIT Crédit	13390
 ECF Extended Credit Facility ECOWAS Economic	11549
 EDIS SAVINGS AND CREDIT COOPERATIVE SOCIETY	7167
+EFFECTIF DES CREDITS DEMANDES ET CEUX	13390
 Economic Growth and Job Creation	5735,1,1
-Economic Transformation and Job Creation	11230
+Economic Transformation and Job Creation	11230,2106
+Education Medium High Create	13314
 Employment Creation	5134
 Enabling Legal and Regulatory Environment Creating	12675
 Endeavour Crescent Gambia Road Boulevard	11563
@@ -613,36 +647,44 @@ Green Credits Programme	2667
 Guarantee Amount Credit Amount Grant	1264
 Guarantee Credit Amount Grant Amount SML	1284,583
 Guidance Note for Digital Credit Providers	12301
+H04B B. PRODUITS DE CREDIT Crédit	13390
 HIGH Create the Regional Platform for Sharing Information	5677
 Haitian Creole	10047
 Hasty Credit	8732
 Helped Create Sierra Leone	8610
+Helá Credit Union S.A	13390
+Helá Credit Union S.A COSPEC KAZE	13390
 Henrik Franklin. Creating Pathways for Youth	9197
 High Medium High Credit Institutions	12444
 High-Margin Credit Lending	5869
 High-Value Job Creation	4528,7984
 Home Affairs. Creating	2681
+Honourable Ms. Barbara Creecy	13655
 Hyatt Regency Dubai Creek Heights	4954
 IBRD Loan and IDA Credits and Grants	10964
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1
+ICT Standards Technical Task Team Creation	13308
 ID Credentials	13080
 ID Credentials Ministry of Health	12241
 ID Credentials Strategy	3427
-IDA Credit	1264,989,1351,7359,562,380,60,447,257
+IDA Credit	1264,989,1351,7359,562,380,60,447,257,663
 IDA Credit IDA Resources	10964,891
 IDA Credit Non-World Bank Group Financing	3456
 IDA Credits and Grants	1264
 IDA-63690 ON A CREDIT	11924
+II Credits	13313
 ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
-IMF Extended Credit Facility	5247
+IMF Extended Credit Facility	5247,8285
 IMF’s Extended Credit Facility	5247
 IMIS. Credits	10970
 IN-7 Establish Create	11857
 INDUSTRIAL RELATIONS AND EMPLOYMENT CREATION	12961
+INFORMATIONS RELATIVES’ AU CREDIT	13390
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 INVCREDAGENT The Creditor	12364
 ITU Creating	10764
 Icc Credentials Production	10775
+Improved Credit Information Reporting Timely	13532
 Improved Identity Registration and Credential Issuance Key	13005
 Inclusiveness and Job Creation	11863
 India's Lines of Credit	3363
@@ -652,7 +694,9 @@ Industrial Relations and Employment Creation Bid Box	12961
 Industrial Relations and Employment Creation NAMRA	12961
 Industrias Creativas	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
+Information and Meteorology. Minister Creecy	13655
 Initiative SACCO Savings and Credit Cooperative Societies	2775
+Innovation and Creativity	13368
 Innovation and Creativity Displays	7572
 Innovation and Creativity Promotion	11250
 Input Tax Credit	12630
@@ -664,18 +708,21 @@ International Journal CRediT	9129
 Intraday Loan Credit	12364
 Isabelle Tresson. Image Credits	12339
 J Combin Music Compos Creat	9739
+JOB CREATION	13474
 Japan Credit Rating Agency	7785,4024
-Job Creation	4535,6940,316,454,88,342,385
+Job Creation	4535,6940,316,454,88,342,385,414,13,198
 Job Creation And Employment	11245
 Job Creation Strategy NPA National Pensions	12964
 Job Creation and Skills Development	12210
 Job Creation. Eswatini	3373
 Jobs Created	12493
 KYC Education Credit	12214
+Kabwe. Lines of Credit	13561
 Kathrin Cresswell	1824
 Kenya Cooperative Creameries Limited	12254
 Knowledge Creation	899
 Kumasi Crescent	5678,1
+L'ENCOURS TOTAL DES CREDITS BRUTS	13390
 LOCAL IMPLEMENTATION PARTNER Ethiopia Photo Credits	10852
 LONG TERM Create the Regional Centre of Excellence	5677
 Landlocked Developing Countries Creating	10844
@@ -684,12 +731,13 @@ Lendable MSME FinTech Credit Fund	821
 Lendable MSME Fintech Credit Fund	624,197,126
 Lendable MSME Fintech Credit Fund II	4474
 Lendable MSME Fintech Credit Fund USAID	729
+Lessons Learned Building Credibility	13608
 Letter of Credit	7695
 Letters of Credence	8992
 Letters of Credit	3583,948,7664
 Licença Creative Commons Nossos	9432
 Limkokwing University of Creative Technology	12709
-Line of Credit	180
+Line of Credit	180,13381
 Line of Credit of US	11579
 Lines of Credit	2667,9258,1054
 Local Value Creation Kenya	7548
@@ -713,12 +761,15 @@ Market for Eastern and Southern Africa CRB Credit	13005
 Martin Zhuwakinyu Creamer Media Magazine Managing	8618
 Mauritian Creole	7244,123,2680
 Mauritian Creole-speaking Kevin AI	10047
+Medium Intermediate Create	13314
 Merchants ATMs POS Debit Cards Credit	6978
 Mission Creep	12139
+Monetary Credibility The Heritage Series	13532
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
 Monitoring Creation	12253
 Monrovia. WB ID Credit Program	2604
 Mortgage Secured Credit Credit Facility Unsecured	11198
+Ms Creed Chingwena	13310
 Multiple Credentials Multiple	12359
 Municipios de Nueva Creación	4209
 My Impilo Create	9429
@@ -728,6 +779,7 @@ NCR National Credit Regulator NCT National	11198
 NIN For A Centralised Credit Bureau	3030
 Namibia Skills for Employability and Job Creation Programme	13217
 Nanjundeswaraswamy and Divakar Credit	9129
+Nano Credit	13314
 Natasha Odendaal Creamer Media Senior Deputy	8618
 National Credit Act	4824,2062,4312
 National Credit Regulator	6886,52,4260
@@ -757,11 +809,13 @@ Operationalise Fintech Credit Guarantee Window	4848
 Orange and Creolink	4219
 PDF CreationDate	994,724
 POLICY ON CREDIT ACCUMULATION AND TRANSFER	12574
+PORTANT CREATION	13334
 PRESENTATION Created	10948
 PROMOVER O CRESCIMENTO DE SERVIÇOS OVER	11397
 PROPOSED ADDITIONAL CREDIT	11965
 PROPOSED CREDIT	996,10909
 PROPOSED CREDIT Public Disclosure Authorized	3604
+PUITS CREUSÉ PUITS PROTÉGÉ	13300
 Pacs.010 Financial Institution Credit Default	12364
 Pantaleo Creti	10841
 Paper-Based Credentials	2291,1271
@@ -779,12 +833,14 @@ President Herminie Receives Credentials	8992
 Private Credit Information Centers	9105
 Private Credit Information Centres Confirms Angola	3722
 Private Sector Credit Extension	12922,34,167
+Private Sector Credit Growth	13532
 Private Sector Credit Private	11131
 Program. Create	11857
 Project CRESCER and Project Todos Unidos Pela	10768
 Project Design and Credit Appraisal Team Manager	12195
 Project for ICT-Based Business Creation and SME Support	505
 Projected Job Creation	12035
+Promotion of Creativity	13356
 Prospero and Premier Credit	12376
 Protect Creative Economy	7429
 Protection of Dissenting Creditors	12389
@@ -801,6 +857,8 @@ Putting Value Creation Back	5700
 Q1 Mortgage Secured Credit Credit Facility	11198
 Q2 Credit Cards	6978
 Q4 Credit Cards	4517
+R3. Create	13314
+R6. Create	13314
 RECOGNITION ECONOMIES AND EPISTEMIC JUSTICE Credit	12090
 RESEARCH CREDIT PROVIDER COMPLIANCE CREDIT	11198
 RNSM CREMF	10965
@@ -810,6 +868,8 @@ Real- Credit Electronic Time Gross Information	6938
 Recommendations Data Exchange Identification Create	12214
 Reduce Credit Risk	11994
 Regional Patterns of Content Creation	226
+Registry. CREATING A CLIENT ACCOUNT	13333
+Registry. To Create	13333
 Relations and Employment Creation MLR Ministry of Land	12923
 Report Created	1353
 Rethinking Ownership Authorship and Value Creation	5858
@@ -820,9 +880,12 @@ Risks Job Seeker Registration Creates	13037
 Robust Credit Infrastructure	940
 Rocky Crest	3475,9708
 Rotating and Savings Credit Associations	940
+SECTEUR DE CREDIT Autres	13390
+SECTEUR DE CREDIT Crédits	13390
 SECTOR AUTÓNOMO de BISSAU CRE de TOMBALÍ	11561
 SECURITIES OTHER THAN SHARES Creation	3714
 SPECIFIC ACTION Create	1161
+Sandy's Creation Resort	13623
 Savings Credit Insurance Remittances	418
 Savings and Credit Co-operatives	12409
 Savings and Credit Cooperative Organisations	4801,5498
@@ -832,6 +895,7 @@ Savings and Credit Cooperatives DPP Director of Public	2775
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Secure Identification Credentials	3604
 Secured Credit	11198
+Secured Creditor	13333
 Seychelles Credit Union	1892
 Simple P2P Credit Push Transfer. Internal	12269
 Single Customer Credit Transfer	12364
@@ -875,7 +939,7 @@ UHC. Create	396
 UNLICENSED DIGITAL CREDIT SERVICES PROVIDERS	7464,1268
 USING A CREDIT CARD INFORMAL	10977
 Um Crescimento da Consciência	2816
-Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206
+Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783,206,778,2
 Unified Credit Information Platform	6107
 Unified Digital Credit Registry	8184
 Union Savings and Credit Cooperatives World Bank	12701
@@ -883,10 +947,14 @@ University of Crete	8604
 Unlicensed Digital Credit Service Providers	7559
 Unlicensed Digital Credit Services Providers	8732
 Unlicensed Digital Credit Services Providers Acquired	7464
+Unsecured Credit Purposes	13532
 Unsecured Short Term Development Credit	11198
 Users Creation and Password Re-sets Compiled	12654
 VARIAÇÃO ANUAL DE CRESCIMENTO DE ACESSO	11531
 VARIAÇÃO ANULA D CRESCIMENTO DE ACESSO	11531
+VENTILATION DE L'EFFECTIF DES CREDITS DEMANDES	13390
+VENTILATION DES CREDITS PAR SECTEUR D'ACTIVITE	13390
+VII. Co Creation Dialogue Participants	13512
 Venture Creation Labs	12540
 Verifiable Credential	5325
 Verifiable Credentials	6985
@@ -903,10 +971,13 @@ We’ll Link Citizens’ Credit Scores	3030
 World Bank Group Job Creation Strategy	11486
 World Bank's ID Credit Program	2252,352
 Xavier Creach	12811
+Year Credit Suppy	13532
 YouTube Creators	1363
 Youth Credit Scheme	13217
+Youth Development and Employment Creation Fund	13420
 ZAMBIA’S ACCESS TO CREDIT INDEX SCORE	5247
 ZDSR A BLUEPRINT FOR CREATING	11133
 ZDSR. A BLUEPRINT FOR CREATING	11133
 Zambia Credit Guarantee Scheme	12376
 Zambians Choose Credit	8482
+Zambia’s Credit Landscape	13532

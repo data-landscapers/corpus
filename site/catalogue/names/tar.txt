@@ -54,7 +54,7 @@ Base Electricity Tariff The Authority	12256
 Base Tarifaire	10975
 Base Tariff	12256
 Baseline End Target	1284
-Baseline Intermediate Targets End Target	10829,135
+Baseline Intermediate Targets End Target	10829,135,2368
 Baseline Target	12399
 Baseline Target Actual Actual	10779
 Baseline Target Component	4653
@@ -88,12 +88,13 @@ Change Old Tarrif New Tarrif	12395
 Client and Stakeholder Perception Output Measure Target	11134
 Climate-Adaptive Malaria Chemoprevention Targeting System	11589
 Comité Tarifaire	10975
-Common External Tariff	1828
+Common External Tariff	1828,11735,61
 Communication Redundancy Time Bound Measurable Target	1000
 Compact Targets and Action Plan	12399,281
 Compact Targets and Action Plan Targeted	12563
 Compensate Customers Over Tariff Notice Breach	7411
 Component Minimum Target Type Coverage Coverage	11952
+Components PBC Baseline End Target RESULT FRAME TBL	13331
 Condições Tarifárias	11519
 Corporate Accounts Target	11986
 Critical Skills Work Visa Target	11986
@@ -126,7 +127,7 @@ Dr. Tarila Ebiede	10572
 E Government Tarriff and E Product Accreditation	3583
 E. PROJECT’S TARGET AREA AND POPULATION	11863
 E. Project Target Area	11863
-EAC Common External Tariff	7548
+EAC Common External Tariff	7548,5809
 EAC’s Common External Tariff	10313
 ECB. Tariffs	12399
 EEC Tariff Structure Non-TOU Tariffs Type	12394
@@ -148,6 +149,7 @@ Electrification Targets	12191
 Electrification Targets9	11923
 Electronic Travel Authorisation Target	11986
 Email Zimbabwe’s Recent Inter-Regional CyberDrill Targeted	6909
+Encadrement Tarifaire	13301
 Endterm Target Source Frequenc	7548
 Endterm Target Source Frequenc Policy Statement	7548
 Endterm Target Source Frequency Expanded	7548
@@ -195,6 +197,7 @@ H. Tarkkala	11028
 HHI Target Figure	12256
 Hassan Tariq	8891
 Household Tariff	9409
+III.3.2. Tarification	13414
 Identify Target Audiences MICSTI Ministry of Education	12675
 Identify the Target Audience	12675
 Import Tariffs	1828
@@ -205,12 +208,13 @@ Indicator Name Core Baseline End Target	11525
 Indicator Name End Target Community-based	11525
 Indicators and Targets	7548
 Indicators and Targets The MERL Matrix	7548
+Individual Targeted Interventions	13474
 Indonesia. FACTOR CURRENT IMPACT Targeting Moderate	11994
 Inflation Target Regime	11289
 Inscrição Tardia	11363
 Institutions Time Bound Measurable Target Supporting	1000
 Interim Milestones Target Measure Baseline	11857
-Intermediate Targets End Target	1228,9601,1026
+Intermediate Targets End Target	1228,9601,1026,1477
 Intermediate Targets Indicator Name	11855
 International Finance Target	11469
 Intl. Remittances Tariff	10856
@@ -229,6 +233,7 @@ Lagos State Target Group	11314
 Lagos State. Tarik Dadi Combats Health	2445
 Land and Space Tarik Dadi Combats Health	6678,209,414,23
 Laws Time Bound Measurable Target	1000
+Le Service Encadrement Tarifaire	13301
 Le Sort Nabou Léye Et Tarba	4960,62,2035
 Lesotho National Energy Compact Targets Under	12717
 Limo Targets Digital Commerce Growth	6656
@@ -272,8 +277,13 @@ Mr. Kitto Tarasisio	3005
 Mr. Tarek Al Ashram	11498
 Multi-Year Tariff Application	12969
 Multi-Year Tariff Order	12062
+Multiple Categorical Targeting Grant	13332
+Multiple Category Targeted Program. Evaluations	13332
 MÉDIA DE TARIFA OFF-NET PRATICADA POR	11531
 N INDICATOR NATIONAL BASELINE TARGET	12453
+N INDICATOR NATIONAL TARGET BASELINE BASELINE	13345
+N INDICATOR NATIONAL TARGET CURRENT	13345
+NIDA Targeted	13681
 NOTE ON THE ACQUISITION TARGET	8125
 National Household Targeting System for Poverty Reduction	11133
 Nigerian National Broadband Targets No. Key	11857
@@ -285,6 +295,7 @@ Number of Target	970
 Nº Productos Tarifa de IVA Aduanas	4209
 OBJECTIVE STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
 OBJECTIVES STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
+OU PLUS TARD	13300
 Obj. Monitoring Details Baseline Target Due	1818
 Objective Targets	12675
 Objectives Target	11994
@@ -308,6 +319,7 @@ PDO-Level Indicators Baseline End Target	11417
 PERFORMANCE INDICATORS AND TARGETS	5533,6453
 PLAN TARGET	12453
 PLANED TARGET	12453
+PLUS TARD	13300
 POLICY MARKER-Trade Target	789
 PROJECT LEVEL OF COMPLETION TARGET	13053
 PWD. Target Support	12460
@@ -330,9 +342,11 @@ Proposed Alterations New Indicator New Target	4653
 Province de Tarfaya	8891
 Quarterly Targets	5533,6453
 REGIME DE TARIFAÇÃO	11430
+RESULT FRAME TBL IO PBC Baseline End Target	13331
 RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
 Raises Growth Targets	8035
 Ranking Data Only Mobile Target	12395
+Reaching the Underserved Targeted	13569
 Reduce Tariffs	12559
 Regime de Tarifação	11430
 Regulatory Monitoring of Tariffs and Service Quality	12389
@@ -370,6 +384,7 @@ Senegal and Uganda. Target	909
 Service Level Benchmark26 Targets	970
 Set Issuance Targets	12882
 Sites Target	8999
+Situation des Barrières Non Tarifaires	13500
 Small Target	970
 Social Tariff	9409
 South Sudan Targets Rural Connectivity	4544
@@ -380,6 +395,7 @@ Strategic Interventions Target Period Components Establish	396
 Submission of Interconnection Agreements and Tariffs	1750
 Sustainable Development Goal Target	13148
 Sustainable Development Goals Target	10844
+TAR. Par	13300
 TARDE CINZENTA DE LUANDA	10750
 TARGET	1577,112,1915
 TARGET AUDIENCE	13133
@@ -402,7 +418,7 @@ TR-4 Taraba North East	11857
 TR-5 Taraba North East	11857
 TR-6 Taraba North East	11857
 TVET Target	789
-TaRMS	9253,3238,18
+TaRMS	9253,3238,18,864,56
 TaRMS Production	12491
 TaRMS Release	12491
 TaRMS SSP The TaRMS Self Service	12509
@@ -410,7 +426,7 @@ TaRMS Self-Service Portal	4449
 TaRMS Upgrade	12509
 TaRMS VAT Returns Module	12509
 TaRMS and FDMS	12509
-TaRMS. Public Notice	12491
+TaRMS. Public Notice	12491,882
 Table of Contents Tarrif Reductions	12625
 Tanzania’s State Telecom Targets	6083
 Tara Brady	5735,1,1
@@ -428,7 +444,7 @@ Tarek Al Ashram	11489
 Taremwa	10416
 Tarente-2026	10688
 Tareq Muhmood	6126
-Target	146,236,4,209,28,15,60,5,86,121,1,29,18,4,8,258,15,41,420,74,1586,167,52,21,258,264,527,442,150,528,1775,373,192,886,1078,80,250,405,32,120,53,114,2,1,102,39,194,103,282,1,2,5,62,28,34,172,44,156,7,2,7,17,4,4,20,141,115,237,5,47,89,42,4,49
+Target	146,236,4,209,28,15,60,5,86,121,1,29,18,4,8,258,15,41,420,74,1586,167,52,21,258,264,527,442,150,528,1775,373,192,886,1078,80,250,405,32,120,53,114,2,1,102,39,194,103,282,1,2,5,62,28,34,172,44,156,7,2,7,17,4,4,20,141,115,237,5,47,89,42,4,49,199,45,3,286
 Target ATC&C Actual ATC&C Variance	12062
 Target Actual	13053
 Target Annual	13053
@@ -464,6 +480,7 @@ Target Percentage	11525
 Target Price	11857
 Target Price5	11857
 Target Product Profile	12678
+Target RESULT FRAME TBL PD O Indicator	13331
 Target Ratio Target Actual	13053
 Target Satellite	10407
 Target Sectors	11000
@@ -480,10 +497,11 @@ Target Year	12399
 Target and Actual ATC&C	12062
 Target and Year	12175
 Target for Nationwide Digital ID Rollout	2922
-Targeted	789,151,274,614,39,1221,186,330,257,1103,64,258,247,1248,155,612,273,847,460,631,292,667,46,29,36,12,123,16,24,136,715,47,62,22,209,19,114,45,26,333,86,277
+Targeted	789,151,274,614,39,1221,186,330,257,1103,64,258,247,1248,155,612,273,847,460,631,292,667,46,29,36,12,123,16,24,136,715,47,62,22,209,19,114,45,26,333,86,277,219,17,350,4
 Targeted CVM	10793
 Targeted Circuits Project	11918
 Targeted Date Change	10779
+Targeted Finance Facility	13685
 Targeted Financial Sanctions Operational Framework	11277
 Targeted Free Health Care Policy	10829
 Targeted Free Healthcare Policy	10829
@@ -496,14 +514,16 @@ Targeted Inputs Programme	12964
 Targeted Investment	3861,3075
 Targeted Investment Promotion	4528,7984
 Targeted Nutrition Programme	12964
+Targeted Primary and Secondary Schools	13378,14
 Targeted Public Institutions	3604
 Targeted RI Achievement Rating Change PDO1	10779
 Targeted Review for Q2 Targeted Life Certifications	8999
 Targeted Rights Initiative	9082
 Targeted Scholarships	4528,7984
+Targeted Schools	13392
 Targeted and Purpose-Limited Access	6748
 Targeted and Responsible Savings	11289
-Targeting	2799,1841,1411,897,2947,559,277,471,323,47,283,50,253,170,7,64,164,560,145
+Targeting	2799,1841,1411,897,2947,559,277,471,323,47,283,50,253,170,7,64,164,560,145,63,1,63
 Targeting Based	12373
 Targeting Hard	11994
 Targeting Rural Towers	5715
@@ -527,7 +547,7 @@ Targets Proposed Ownership Assumption Description of Target	13005
 Targets Targets	7548
 Tarhini	9128
 Tarhini and Khan	9128
-Tarif	9975,1000
+Tarif	9975,1000,2439,86
 Tarif Extérieur Commun	10712
 Tarif Moyen	10975
 Tarifa	4747
@@ -535,7 +555,7 @@ Tarifa Mínima	4274
 Tarifas	1701,7842,1977
 Tarifas Mayoristas	9543
 Tarifação	11430
-Tariff	2117,4829,4183,421,403,280,23,102,36,5,136,507,11
+Tariff	2117,4829,4183,421,403,280,23,102,36,5,136,507,11,304
 Tariff Ad	12233
 Tariff Analysis	11953
 Tariff Analysis Report	11259
@@ -559,7 +579,7 @@ Tariff Structure	718
 Tariff Structure Tariff Structure The Eswatini	12394
 Tariff Tax	10856
 Tariff The TOU	12256
-Tariffs	11,725,1092,947,2607,1289,275,2647,858,328,690,55,26,476,207,136,20
+Tariffs	11,725,1092,947,2607,1289,275,2647,858,328,690,55,26,476,207,136,20,968,267
 Tariffs Charge T1 TOU	12394
 Tariffs Consumer	11
 Tariffs Operator	6671
@@ -572,6 +592,7 @@ Tarification Au	10975
 Tarification Dotation	10975
 Tarification SAJ	10975
 Tarification SPC	10975
+Tarifs	13414
 Tarifária de Interligação	11519
 Tarifário	2866
 Tarik Aguizoul	8891
@@ -589,6 +610,7 @@ Tarique Barkatullah	10764
 Tarkwa	9111
 Tarkwa Bay	10284
 Tarmac	6277
+Tarpaulins Price Code	13385
 Tarrafal de S. Nicolau	1948
 Tarrafal de Santiago	9994
 Tarrafal de Santiago and Porto Novo	8638
@@ -623,6 +645,7 @@ Vetting Target	11986
 Visa Target	11986
 Visa and BCC Agreement Targets Financial	5836
 WBG Targets and Jobs	12443
+WBG Targets and Jobs Merankabandi	13592
 Wacc Amortissement Base Tarifaire Nette	10975
 West Africa. Tarik Dadi Combats Health	2333
 Wireless Internet Tariff Plans	11259

@@ -32,12 +32,13 @@ Acacia Park Primary School	11285
 Acacia Park. SAPS	11285
 Acacia Surgical	7167
 Acacia and Port Rex OCGT	11228
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
 Academia Criteria	12376
 Academia Private Sector	12674
+Academia Shall	13347
 Academia and Civil Society Representatives	11995
 Academia and Research	7548,4964
 Academia and Research Institutions	1261,3267,7335,89,1012
@@ -51,6 +52,7 @@ Academia- Universities and TVETs	7548
 Academia. Apesar de Moçambique	2816
 Academia. Na Figura	2816
 Academia. Tem	2816
+Academia. ZIMSTAT	13359
 Academias TIC	10490
 Academia’s Role	10776
 Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20
@@ -95,9 +97,10 @@ Academy of Management Review	12090
 Academy of Science	10451
 Academy of Science of South Africa	5246
 Académica	4209
-Académie	4402,3268,599,1006,2370
+Académie	4402,3268,599,1006,2370,1645
 Académie Internationale de Droit du Numérique	11645
 Académie des Sciences du Mali	12
+Académies DHIS2	13306
 Acam-Oboroncú-Nsork-Mofub Evinayong	4209
 Acampamento da Rapariga	2816
 Acaps	4127
@@ -127,7 +130,7 @@ Blossom Academy	4126
 Botswana Academy of Sciences	12544
 Bridge Academies	10290
 CHRISTS GIFT ACADEMIES Data Controller INST-9898680D571	7167
-CISCO Academy Programme	12453
+CISCO Academy Programme	12453,892
 CISCO Digital Academies	12241
 CISCO Networking Academy	12361,46,565
 CITY ROSE ACADEMY LIMITED Data Processor	7167
@@ -217,7 +220,7 @@ Huawei ICT Academies	13173
 Huawei ICT Academy	4060,5695,3455
 Huawei ICT Academy Partner Programme	12972
 Huawei ICT Academy Programme	8560
-Huawei's Global Academy	10215
+Huawei's Global Academy	10215,3396
 Huawei's ICT Academy	4495,5520
 Huawei’s Global Academy	12474
 Huawei’s Global Academy. Zambia and China	10215
@@ -228,12 +231,12 @@ ICT Academy	13210
 ICT. Rwanda Coding Academy	770
 IFMIS Academy About Academy Training Schedule	12322
 INTELLIGENCE ACADEMY	11277
-ITU Academy	8945
+ITU Academy	8945,4567
 Industry-Led Skills Academies	4528,7984
 International Academy for Counter-Terrorism	9275
 International Journal of Academic Research	5349,1929,1851
 Interoperable Europe Academy	6468
-Intra-Africa Academic Mobility Scheme	12985
+Intra-Africa Academic Mobility Scheme	12985,340
 Journal of Academic Science	5349
 June. Cisco Networking Academy	10247
 KPMG and Tablet Academy	9202
@@ -245,6 +248,7 @@ LIST OF ACRONYMS ACAT Africa Cooperative	12970
 Language Academy	10451
 Latin ACamreibrbiceaa&n	11964
 Leadership Academy	11586
+Les Académies	13306
 Lesotho Academy of Science and Technology	12675
 Liberia National Police Training Academy	5244
 Liberia's National Research and Academic Network. Facilitate	1777
@@ -280,6 +284,7 @@ Nigerian Academy of Science	7187
 Nigerian Youth Academy	9919
 Nonidas Pro Ed Academy Private School	13046
 Oman Programming Academy	8592
+Online Results Confirmation System Combatting Academic	13477
 Open AI Academy	9633
 OpenAI Academy	5042,1673
 Ostafrika Academic Center for Digital Innovation	178
@@ -338,7 +343,7 @@ Tech Academy	3608
 Technological and Innovation Academies	12971
 Through the Academy	11277
 Through the Africa Consumer Credit Academy	11809
-Training Institutions and Academia	12453
+Training Institutions and Academia	12453,892
 U.S. National Academy of Medicine	3651
 UDOM Deputy Vice Chancellor for Academic	8614
 UNESWA AI Academy	13182,15

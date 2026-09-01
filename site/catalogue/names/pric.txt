@@ -13,6 +13,7 @@ Authority of His Majesty the King. Price	12653,13
 Automatic Price Mechanism	13060
 Automatic Pricing Mechanism	13122
 Avatar of PriceListNamibia	12478
+Average Crude Oil Prices	13532
 Average Export Prices of Selected Minerals	2775
 Average Fully Indexed Price Biomass	11953
 Average Gross Commodity Prices	2775
@@ -22,6 +23,7 @@ Average Producer Prices of Selected Products	2775
 Average Retail Market Prices of Selected Food	2775
 Average1 Retail Prices of Selected Petroleum Fuels	2775
 B. Fuel Prices	1828
+Base Price Code	13385
 Basic Prices Prices Adjusted	2775
 Best Price Offer	7368
 Best Price Offers	7368
@@ -29,6 +31,8 @@ Bid Price	13185
 Bid Price Name of Bidder	13185
 Bidding Forms Price Schedule	13185
 Bidding Forms Price and Completion Schedule	13185
+Broadband Data Price and Last Mile Deployments	13295
+C and D Price Code	13385
 CIP Price	13185
 CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
@@ -38,7 +42,10 @@ Cameroon Cocoa Farmgate Prices Rise CFA250	965,3924,206
 Carbon Pricing System	12389
 Cell C Home LTE Price Plan	11259
 Change Prices	12389
+Chipboard Price Code	13385
 Co-operation and Development PPI Producer Price Index	11286
+Commodity Price Indices Developments	13685
+Commodity Price Indices Developments Commodity	13685
 Commodity Prices	12978
 Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
@@ -47,13 +54,15 @@ Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517
 Consumer Price Index Manual	11258
 Consumer Price Index Survey	12962
 Consumer Price Indices	2775,10187
 Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
+Contract Administration Price Code	13385
+Contract Administration PriceCode	13385
 Contract Price	6946,6239
 Contract Price P0	13185
 Contract Price of Goods	13185
@@ -87,6 +96,8 @@ EXW Price	13185
 Earnings and Consumer Price Indices Overview	2775
 Earnings and Consumer Prices	2775
 Earnings and Consumer Prices Ethiopia	2775
+Earthworks Price Code	13385
+Electricity Price Text Figure	13624
 Electricity Pricing	12256
 Electricity Pricing Policy	11272
 Eligible Countries. Prices	13185
@@ -116,8 +127,10 @@ GB Data Bundle Price Trend	11259
 GB Data Bundle Price Trend R	11259
 GB Data Bundles Price Trend	11259
 GDP Developments Price Developments External Sector	11131
+General Price Code	13385
 Global Price	962
 Government. Price	1284
+Guidance for Design Price Code	13385
 HRH Price Lonkhokhela	12969
 Harmonised Consumer Price Index	12962
 Harmonized Consumer Price Index	12962
@@ -126,6 +139,7 @@ ICT Price Basket Manual	11563
 IMF Producer Price Index Manual Theory	11152
 ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
+Industry Price Code	13385
 Initial Prices	13037
 Institute for Prices and Competition	11380
 Internet Prices Slashed	4070
@@ -139,6 +153,7 @@ Lithium Prices Recover	4769,394,334,86
 Local Pump Prices Ksh	12256
 Local Retail Petroleum Prices Fuel	12256
 Local and International Petroleum Prices	12256
+Lusaka. Price K64.00	13403
 MARKET PRICE OF THE ORDINARY SHARES	7198
 MB Data Bundles Price Trend	11259
 MBB Price	11563
@@ -146,6 +161,7 @@ MONTHLY HIGH AND LOW SHARE PRICES	4896
 MTN Speed-based Bundles Bundle Name Price	11259
 Madame Rose Pola Pricemou	2370
 Manufacturer’s Suggested Resale Prices	11036
+Manufacturing Price Code	13385
 Market Price Reference Catalogue	12956
 Market Prices	2775,2121
 Maximum Wholesale and Retail Prices of Bread	12930
@@ -154,6 +170,8 @@ MetroFibre Go Once-off Pricing	11259
 Min Rose Pola Pricemou	3959
 Minimum Reserve Price	8582
 Minister Rose Pola Pricemou	4036,579
+Mirrors Price Code	13385
+Mobile Broadband Pricing	13312,2
 Mobile Price Benchmarking	1013,931
 Mobile Price Benchmarking Conclusion	1013
 Mobile Price Benchmarking Mobile Phone Ownership	1944
@@ -169,6 +187,7 @@ Namibia Statistics Agency NAMIBIA PRODUCER PRICE	11152
 National Consumer Price Index	13053
 National Consumer Price Indices and Rates of Inflation	2775
 National Council for Prices	11380
+National Standardised Price List	13685
 Nepal Stock Market Price Prediction	11265
 Nepal stock market price prediction	11265
 OPEC Reference Basket Prices	2775
@@ -184,12 +203,15 @@ PRICING RULES OR STANDARDS	5872
 PRICING RULES OR STANDARDS’’. Amendment	5872
 PRICNAC	3157
 PS-6 Spectrum Pricing PS-7 Clear	11857
+Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54
 Price Adjustment Formula	13185
 Price Changes	2775
+Price Code	13385
+Price Code Gr	13385
 Price Developments	13060
 Price Developments Consumer	11131
 Price Developments Inflationary	11134
@@ -200,6 +222,10 @@ Price Index CRDP Comprehensive Rural Development	11261
 Price Index PPL Private Pilot License	2775
 Price Information Capital Revenue	3583
 Price K10	22
+Price K4.00	13496,2
+Price K40.00	13322
+Price K8.00	13350
+Price K80.00	13321
 Price Name of Bidder	13185
 Price Negotiation Committee Established	12912
 Price Proposal	11209
@@ -208,12 +234,14 @@ Price Schedule	13185
 Price Schedule Forms	13185
 Price Schedule. Question	7987
 Price Schedules	13185
+Price Stability	13474
 Price Stability Average	11134
 Price Stability Financial Stability KPI	11131
 Price Stability Financial Stability Sustainable Income	11131
 Price Stabilization Fund	13122
 Price Statistics	11237
 Price Statistics Section	12962
+Price Subsidy Reform	13332
 Price Transformation	12395
 Price Waterhouse Coopers	1814
 Price Waterhouse and Coopers	1814
@@ -224,12 +252,14 @@ Price and Specific Goals	11209
 Price of Data	12395
 Price-Survey-Somalia-2020-2023.pdf	4555
 Price-to-Earnings	4263
+PriceCode	13385
 PriceListNamibia	12478
 PriceWaterhouseCoopers	6409
 Priced	6690
+Priced Code	13385
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Other Charges	12629
@@ -249,11 +279,15 @@ Pricing Schedule and Appendix B1	7266
 Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing for Data Protection Training	2987
+Pricing. Available	13461
 Producer Price Index	2775,8377,106,1704
 Producer Price Index SARB South African	11258
 Producer Prices	2775
 Producer Prices Index	2775
 Producing Consumer Price Indices	11258
+Project Specification Price Code	13385
+Project Specification PriceCode	13385
+Projection Specification Price Code	13385
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 PwC Price Waterhouse and Coopers SDG Sustainable	1814
 Q1 African Prepaid Pricing Index	236
@@ -274,6 +308,7 @@ Residential Property Prices	2775,8511
 Residential Property Prices Indices	11286
 Resources and Energy Multi-Year Price Determination Public	12969
 Retail Fuel Price Deviation	1828
+Retailing Price Code Gr	13385
 Revised Raw Water Pricing Strategy	8599
 Rising Prices and Regulatory Scrutiny Starlink	4601
 Risk-Based Credit Pricing Model	9487
@@ -282,6 +317,9 @@ Rose Pricemou	2887
 SMARTPHONE PRICE	11262
 SOUTH AFRICAN PRICING	11252
 Sale Price Flat Rate	9409
+Screwdrivers Price Code	13385
+Sewers Price Code	13385
+Sickles Price Code	13385
 Size of Price Per Number Band Spectrum	736
 South Africa. Pricing	1553
 South African Residential Property Price Index	11286
@@ -292,12 +330,15 @@ Standard Prepaid Data Bundles Prices and OOB	11259
 Standard Price	11259
 Statistics Price Index	2775
 Statistics South Africa. Producer Price Index	11258
+Subbase Price Code	13385
 Target Price	11857
 Target Price5	11857
+Tarpaulins Price Code	13385
 Technology Transfer Is Rwanda’s Latest Pricey	3256
 Trading Market and Price	7198
 Transfer Pricing	573
 Trends of Starlink Price Adjustments	1926
+Typical Bills of Quantities Price Code	13385
 U Unit Price	7538
 UNPUBLISHED PRICE SENSITIVE INFORMATION	4896
 USD Price	11857
@@ -308,6 +349,7 @@ Unit Prices of Principal Imports	2775
 VAT INCLUSIVE TOTAL PRICE	11252
 VWAP and Recent Trading Prices	4896
 Validity Period Price	11259
+Valves Price Code	13385
 Volume Weighted Average Price	4896
 Volume Weighted Average Prices	4896
 Wasteless Dynamic Pricing Wasteless	7966

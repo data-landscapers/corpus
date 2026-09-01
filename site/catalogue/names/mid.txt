@@ -53,6 +53,7 @@ EHRs. Middle-income	12025
 East Asia Europe Latin Middle South	10977
 East Asia and Europe and Latin America Middle	10977
 Eastern and Middle Africa	10714
+Empowered Upper Middle Income Society	13474
 Empowered Upper Middle- AI	12512
 Empowered Upper MiddleIncome Society	4528
 Eswatini2024 Sub-Saharan Africa Lower Middle Income	12346
@@ -92,6 +93,7 @@ Internet Routers Across Africa and Middle East	6678,209,414,23
 Investment Cameroon2024 Sub-Saharan Africa Lower Middle	10976
 JHB1 Midrand	596
 Jan-2023 Mid-Term Review No	11971
+Kwekwe. The Midlands Province	13504
 LOW- AND MIDDLE-INCOME COUNTRIES	11004,960
 LOW- AND MIDDLE-INCOME ECONOMIES	10977
 Latin America Middle East Africa Pacific	10977
@@ -104,7 +106,7 @@ Low- and Middle-Income Countries	6948,2483,1554
 Low- and Middle-Income Countries.43	11004
 Low- and Middle-Income Country Context	10881
 Lower Middle	10976,1370
-Lower Middle Income	10976,905,465
+Lower Middle Income	10976,905,465,1072
 Lower Middle Income Complying	10976,1370
 Lower Middle Income Countries MOH Ministry	771
 Lower Middle Income Introduction The Enterprise	11874
@@ -112,6 +114,7 @@ Lower Middle Income Sub-Saharan Africa Cabo	11874
 Lower Middle Income. Chart	11881
 Lower Middle Income. Introduction	11881
 Lower Middle-Income	13060
+Lower Middle-Income Country	13418
 Lower and Middle	6946
 Lower and Middle Shabelle	5225
 Lower- and Middle-Income Countries	10964
@@ -130,8 +133,10 @@ MID-YEAR BUDGET REVIEW STATEMENT Presented	13055
 MIDAS	7048,5869
 MIDAS Framework	12917
 MIDAS Framework National Vision	12917
+MIDCSP	13677
 MIDCSP FY2025	3171
 MIDDLE AGE	940
+MIDLANDS STATE UNIVERSITY	13368
 MIDN Dakar	6963
 MIDN Dakar Peer Exchange	6963
 MIDRC	7313
@@ -139,7 +144,9 @@ MIDSA	1360,2421,927,83,2222
 MOU Memorandum of Understanding MSU Midlands State	12512
 MP Life Midmed	11986
 MVP of Mida Forms	7907
+Mashonaland West and Midlands	13619
 Master MIDS	2732
+Masvingo and Midlands Provinces. The Publications Section	13361
 Masvingo and Midlands. Mobile	6179
 May-2024 Mid-Term Review No	12228,39
 Medium Enterprises NDPV Midterm Review NEP	10964
@@ -149,6 +156,7 @@ Microsoft Middle East and Africa	5327
 Microsoft's Middle East and Africa Emerging Markets	11777
 Mid Project Reflections 2018.pdf	226
 Mid Term	11133
+Mid Term Expenditure Framework	13332
 Mid Term Review	4653
 Mid Year	13122
 Mid Year Budget Implementation Review	5655
@@ -161,7 +169,7 @@ Mid-January	4997
 Mid-Month	3678
 Mid-Term	11133
 Mid-Term Evaluation	7548,3585,1223
-Mid-Term Review	12175,45,840
+Mid-Term Review	12175,45,840,318,14
 Mid-Term Review Date	12980
 Mid-Term Review Mission	2989,9206
 Mid-Term Review Project Development Objective Project	4653
@@ -177,11 +185,13 @@ Mid-Year Budget Statement. Real GDP	13122
 Mid-Year Data Report	8955
 Mid-Year Fiscal Policy Review	7695
 Mid-Year Global Update Report	9857
+Mid-Year ICT Market Report	13479
 Mid-Year Reports	11251
 Mid-Year Revenue Performance Discover	13044
 Mid-Year Review	6463,1277
 Mid-Year Review Media Breakfast	12375
 Mid-Year Strategic Plan Review Workshop	1554
+Mid-Year and Annual Economic Reports	13479
 Mid-Year. Specifically	13122
 Mid-band	5675,918,2235
 Mid-band Spectrum	5245
@@ -196,8 +206,10 @@ Mid-sized	7939
 Mid-term	5245,432,1871,4960
 Mid-term Expenditure Framework	12951
 Mid-term Review	12640
+Mid-term Survey	13332
+Mid-termteacher	13392
 Mid-way	13005
-Mid-year	13122
+Mid-year	13122,357
 Mid-year Fiscal Policy Review	7695
 Mid-year Fiscal Policy Review CONCLUSION	7695
 Mid-year Fiscal Policy Review INTRODUCTION	7695
@@ -230,11 +242,11 @@ Middle EGDI M1	10840
 Middle EGDI M2	10840
 Middle EGDI M3	10840
 Middle EGDI MH	10840
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53,158,8,122,2,4,45,86,6,12,1,20,179,7,2,382,22,20,42,62,43,232,235,296,6,118,64,240,98,327
 Middle East Conflict	11285
 Middle East Europe	11922
 Middle East Peace Process	11185
-Middle East War	11134
+Middle East War	11134,2551
 Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266,350,188,209,72,378
 Middle East and Africa. Singapore	10342
 Middle East and Africa. Under	10342
@@ -293,10 +305,11 @@ Middle School Gap Widens Primary	12199
 Middle Schools	12199
 Middle Shabelle	11136
 Middle and Back Office	8018
+Middle-	13358
 Middle-East	10812,1724
 Middle-East and North	10812
 Middle-Income	771
-Middle-Income Countries	1264
+Middle-Income Countries	1264,12421
 Middle-Income Economy	12253
 Middle-income	12369
 Middle-power	7731
@@ -305,17 +318,21 @@ Middleton B	1219
 Middleton&author	1219
 Middleware	8605,2837,433
 Midebdo	10875
+Midex Global Pvt Ltd	13562
 Midi Madagasikara	8397,260
 Midjek-	4209
 Midjimitom Ngueñ Ebibeyín	4209
 Midjobo Esavus	4209
 Midjourney	2816,485,2168
-Midlands	1154,1833,6412,2281
+Midlands	1154,1833,6412,2281,1740,84,115
 Midlands Agricultural Show	10019
-Midlands Province	362
+Midlands Province	362,13142
+Midlands Province. The Commission	13504
+Midlands Provincial Stores	13420
 Midlands State University	520,634,400,2974,7984
 Midlands State University and Chinhoyi University of Science	520
 Midline	11924
+Midline and MCDSS	13332
 Midnight	11240,19
 Midrand	1404,556,3201,441,1887,526,1181,2295
 Midrand Heights Social Housing Project	11248
@@ -370,6 +387,7 @@ Orange Middle East and Africa	1543,671,394,1379
 Orange Middle East and Africa CEO	2278
 Orange Middle East and Africa CEO Jérôme	1729
 Outcome Key Performance Baseline Midterm Target	7548
+P158570 Mid-Term Review Mission	13378
 PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 Paymentology Enters the Middle East’s Digital Payments	7156
 People's Democratic Republic Middle EGDI M-OSI	10840
@@ -379,7 +397,10 @@ Policy Significance Statement Middle	7731
 Poorest Second Middle Fourth Ritchest	11879
 Poorest Second Middle Fourth Ritchest None	11879
 Principe Middle EGDI	10840
+Prosperous Middle Income Country	13346
+Prosperous Middle-Income Nation	13346
 Prosperous and Empowered Upper Middle Income Society	940
+Prosperous and Empowered Upper Middle-Income Society	13685
 RCZ's MidYear Strategic Review and Results-Based Management	1554
 Region Africa Sub-region Middle Africa Population	11470
 Road Randjespark Midrand	11198
@@ -398,6 +419,7 @@ Strategic Intervention Strategic Intervention Indicators Mid	11986
 Strategy Expected Outcome KPI Baseline Midterm	7548
 Strategy MoI Ministry of Information MIDAS Malawi	12917
 Sub-Saharan Africa and Lower Middle Income. Indicator	11881
+Sub-Saharan Africa and Middle East and Central Asia	13624
 Sub-Saharan Lower Middle Import	10976,1370
 Sudan’s Battle for Connection. Tahrir Institute for Middle	6947
 Summary of SMART Zambia Mid-Year Press	12375
@@ -408,14 +430,15 @@ TII Africa Papua New Guinea Middle	10840
 TII Oceania Mozambique Middle EGDI M-OSI	10840
 TII Oceania Solomon Islands Middle EGDI	10840
 Timber Highlands. Moist Middleveld	12977
-Transport Middle East	8755
+Towards A Prosperous and Empowered Upper Middle-Income	13685
+Transport Middle East	8755,4813
 Turkmenistan Middle EGDI M-OSI H-HcI H-TII	10840
 UMc Equatorial Guinea Africa Middle Africa	10840
 UPSTREAM MIDSTREAM DOWNSTREAM	12256
 United Nations.11 LOW- AND MIDDLE-INCOME COUNTRY	11004
 Upper Middle Income	13029
 Upper Middle Income Economy	940
-Upper Middle Income Society	940
+Upper Middle Income Society	940,12748
 Upper Middle-Income Society	1154,400
 Upper Middle-income	395
 West Africa. Mid-term	4963

@@ -26,6 +26,7 @@ ARCADIA INSURANCE BROKERS LIMITED Data Processor	7167
 ASHANTI PENSION INSURANCE AGENCY LIMITED Data	7167
 ASSURED INSURANCE BROKERS LIMITED Data Controller	7167
 ASSURED INSURANCE BROKERS LIMITED Data Processor	7167
+Acronyms PIA Pensions and Insurance Authority PACRA	13347
 Advance Political Risk Insurance	11310
 Africa. Tarik Dadi Combats Health Insurance	3101
 African Insurance Organisation	6938
@@ -50,6 +51,8 @@ Banks and Insurance	4972
 Benin’s Insurance for Human Capital Strengthening	10822
 Breach Triage And The Insurer’s First	6632
 Britam General Insurance	7167
+Burundi Insurance Corporation BIF	13377
+Burundi Insurers’ Association	13312,2
 C09 Insufficient RPA	9237
 C11 Insufficient	9237
 C14 Insufficient	9237
@@ -66,6 +69,9 @@ COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Controller	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Processor	7167
 Captive Insurance Act	7845
+Caractéristique Aménorrhée Abstinence Insusceptibilité	13300
+Caractéristique Diabète Hyper- Maladie Insuffisance Cancer	13300
+Card Insurance Scheme	13563
 Cash Value Insurance Contract	11233
 Civil Liability Insurance	12295
 Climate Risk and Insurance	7334
@@ -112,10 +118,11 @@ Ethiopian Health Insurance Agency	629
 Execution Risk Mitigation Insufficient Funding	11857
 Expand Risk Insurance Capacity	11310
 Expand War Insurance for Businesses	11310
+FBC Insurance	13634
 Fawry Insurance Brokerage	5869
 Federation of German Pension Insurance Institutions	11156
 Finance South Sudan No Insurance Regulatory	6938
-Finance and Insurance	1062,5263
+Finance and Insurance	1062,5263,7323
 Financial Intelligence Unit Nigerian Deposit Insurance	6938
 Financial Services and Insurance	1940,5795
 Financial Services and Insurance Mozambique	7734,269,67,4779
@@ -136,10 +143,12 @@ HEALTH INSURANCE ACT	6921
 Health Insurance Act	6921
 Health Insurance Bill	12598
 Health Insurance Card	10714
+Health Insurance Coverage	13454
 Health Insurance Fraud	2627,1513
 Health Insurance Fund	186,647
 Health Insurance Fund Care Pay Mobile	186
 Health Insurance Information System	629
+Health Insurance Management Authority NTBC National	13347
 Health Insurance Units	10865
 Hollard Insurance	2151
 INDEMNITY AND INSURANCE	585,8281
@@ -152,12 +161,13 @@ INSULAR R. CONT. TERRO R. CONT	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
 INSULAR.- Concepto	4209
 INSURTECH CONFERENCE Mkomazi Hall	2275
+INSUSCEPTIBILITÉ DE TOMBER ENCEINTE Aménorrhée	13300
 IRA Insurance Regulatory Authority ISIC International	2775
 Inclusive Climate Insurance RSF	11469
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -168,8 +178,8 @@ Insufficient MDAs	13080
 Insufficient Management Systems	12214
 Insufficient Resources	4439
 Insufficiently	766,11150
-Insuffisance	737,2229,4689,3057,162,91
-Insuffisances	10858
+Insuffisance	737,2229,4689,3057,162,91,2325,10,41
+Insuffisances	10858,2432
 Insuffisant Non-renouvellement	10876
 Insuficiente	1701
 Insuficiência	10772
@@ -177,7 +187,9 @@ Insuficiência de Materiais	11561
 Insufﬁcient	10844
 Insularización	1701
 Insulate the Panel	7112
-Insulation	1988
+Insulating	13385
+Insulation	1988,11397
+Insulators	13385
 Insult	26
 Insulte	10876
 Insumos	1701
@@ -185,7 +197,7 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135
 Insurance Act	6938,4317,1393,412
 Insurance Activity Supervisory Body	6938
 Insurance Companies	11255
@@ -203,6 +215,7 @@ Insurance Markets	6938
 Insurance Nominal GDP	2775
 Insurance Passive	12373
 Insurance Postal Agency Counter Extension Post	11129
+Insurance Premium Levy Act	13403
 Insurance Program Advisory	11469
 Insurance Regulatory Authority	6938,653
 Insurance Regulatory Authority of Uganda	6938
@@ -231,8 +244,9 @@ Insured	12460
 Insurer Liberty	5806
 Insurers	9237,438,1830
 Insuring AI	11310
-Insurtech	12339
+Insurtech	12339,1220
 Insusceptibilidade	10777
+Insusceptibilité	13300
 Insuﬀicient	958
 Integrated Social Insurance System	11939
 Investment Development Insurance	11310
@@ -264,6 +278,7 @@ Naked Insurance	1058,1093,7524
 Naked Insurtech South Africa Series B	1058
 Naked Insurtech South Africa Series B2	2151
 National Health Insurance	24,372,971,2465,3622,107,1042,511,1424,1487,536,45,17
+National Health Insurance Act	13403
 National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814,1013
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
@@ -271,9 +286,10 @@ National Health Insurance Bill. Retrieved	1009
 National Health Insurance Consultancy	12606
 National Health Insurance Fund	396,2379,5442,166,2750,1094
 National Health Insurance Levy	7695,44
+National Health Insurance Management Authority	13465
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Policy	11748
-National Health Insurance Scheme	2714,854,2431,1696,3633
+National Health Insurance Scheme	2714,854,2431,1696,3633,2019
 National Health Insurance and Social Guarantee Fund	9837
 National Health Insurance and Strategic Purchasing	12606
 National Health Insurance. The Department	11224
@@ -294,19 +310,21 @@ PS. Insufficient	10017
 Payroll Investments Asset Management and Insurance	9437
 Pension and Insurance Supervision Director	6938
 Pensions and Insurance	12409
-Pensions and Insurance Authority	6938,5471
+Pensions and Insurance Authority	6938,5471,1123
 Performance Indicators for General Insurance Business	2775
 Performance Indicators for Life Insurance Business	2775
 Political Risk Insurance	11310
 President's Of- Tanzania Insurance Regulatory	6938
 Professional Liability Insurance	12400
 Proyecto Adquisición de Insumos	4209
+Prudential Insurance Zambia Limited	13430
 Public Fi- The Deposit Insurance Corporation	6938
 REG. INSULAR	4209
 Racist and Xenophobic Motivated Insult	26
 Recapitalized Insurers	9117
 Reg. Insular	4209
 Regional Insurance Supervisory Commission	6938
+Regional Third-Party Motor Vehicle Insurance Scheme	13563
 Región Insular	4209
 Role of Political Risk Insurance	11310
 Rubavu Insufficient	12328
@@ -325,7 +343,7 @@ Social Assistance Social Insurance Q5	10985
 Social Health Insurance Act	8934
 Social Health Insurance Fund	3393,8834
 Social Health Insurance Fund and Affordable Housing	5684
-Social Insurance	10785
+Social Insurance	10785,2689
 Social Insurance Labor Market Social Assistance	10985
 South African Special Risks Insurance	11353
 South Africa’s National Health Insurance	8603

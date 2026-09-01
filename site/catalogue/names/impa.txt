@@ -3,12 +3,13 @@ AFE DIME Batch Preparation Impact Evaluation	12972
 AI Impact	7548
 AI Impact Assessment	7548,3608
 AI Impact Assessments	11156
-AI Impact Summit	5029,15,51,1943,327,1,1333,3083,835
+AI Impact Summit	5029,15,51,1943,327,1,1333,3083,835,945
 AI Impact Summit India	12830
 AI Impact Summit. Ce	8699
 AI Impact Summit. Rather	8629
 AI Impact Summit’ Promises Little	5044
-AI for Impact Challenge	5562,3143,325
+AI for Impact	13632,24
+AI for Impact Challenge	5562,3143,325,4602,24
 ALIGNED FOR IMPACT Transparency Trade	13042
 ANNUAL REPORT Impact Analysis	1554
 ATLAS AND IMPACT ON THE TERRITORY	11366
@@ -33,6 +34,7 @@ Areas of Impact	12058
 Aspect Impact Mitigatio Frequenc Time Performance	1988
 Assess the Livelihood Impact of Electricity Access. Nature	12006
 Assessing the Impact and Cost of Economic Inclusion Programs	11924
+Assessing the Impact of Decentralization Policy	13418
 Assessing the Impact of Digital Government	226
 Assessing the Impact of ICT Integration Policy	899
 Assessment Impact Privacy	11153
@@ -43,6 +45,7 @@ Avaliação de Impactos Ambientais	11390
 Avaliação de Impactos Cumulativos	11406
 Avec Impact Palmarès	3658,2617,145
 Biodiversity Impacts	1988
+Body Irembo Impact Story	13396
 Business Enterprise Managers Impact of Skill Shortages	12445
 Business Impact Analysis	12538
 Business Impact Analysis Tier	10721
@@ -68,6 +71,7 @@ Community Health Impact Coalition. Annual	1219
 Community Health and Safety Impacts	12253
 Community Health and Safety Impacts Official Use	12253
 Comparison of High Impact	11250
+Comprehensive Summary of Impacts	13332
 Computer Basics for Visually Impaired	13095
 Conduct Data Protection Impact Assessments	12302
 Congo FACTOR CURRENT IMPACT Awareness	11994
@@ -79,6 +83,7 @@ Create Impact	13077
 Creating Social Impact	12210
 Criticality Impact Impact Level Score Criteria	5665
 Critérios de Avaliação de Impactes Ambientais	11406
+D. General Equilibrium Estimates of Electrification’s Impact	13624
 DATA PRIVACY IMPACT ASSESSMENT TEMPLATE	11956
 DATA PROTECTION IMPACT ASSESSMENT	1630
 DATA PROTECTION IMPACT ASSESSMENT REGIME	3861
@@ -92,13 +97,14 @@ Data Impact Tier	10721
 Data Privacy Impact Assessment	11956
 Data Privacy Impact Assessment Article	11956
 Data Privacy Impact Assessment Schedule	11956
-Data Protection Impact Assessment	1630,112,2119,722,278,252,1302,17,1006,110,560,182,3703,2,170,20,8,64,44,1
+Data Protection Impact Assesment	13381
+Data Protection Impact Assessment	1630,112,2119,722,278,252,1302,17,1006,110,560,182,3703,2,170,20,8,64,44,1,1074,5
 Data Protection Impact Assessment A Data	12302
 Data Protection Impact Assessment NIB National	6936
 Data Protection Impact Assessment Regime	3861
 Data Protection Impact Assessment Report	2709
 Data Protection Impact Assessment and Prior Consultation	12549
-Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109
+Data Protection Impact Assessments	1630,5306,2942,843,435,1037,109,1079
 Data Protection Impact Assessments and Human Rights	6949
 Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
@@ -106,6 +112,7 @@ Data Science for Social Impact	11143
 Debt and Welfare Impacts	1828
 Debt and Welfare Impacts of Concurrent Natural Disasters	1828
 Decade of Economic Impact	9350
+Decentralization Policy Mechanism Impact	13418
 Delivering Impact	7880,3452
 Delivering Impact Acknowledgement UNDP Mauritius	11332
 Delivery Improvement Plan SEIAS Socio-Economic Impact	11218
@@ -149,6 +156,7 @@ Economic Impact Study	1207,1
 Economic Impact of Broadband. World Bank	1264
 Economic Impact of Full Fibre Infrastructure	12006
 Economic Impacts of Child Marriage	12188
+Economic Impacts of Climate Change	13331
 Economic Stability and Job Impact	12675
 Economic and Tech Ecosystem Impacts Building	12035
 Economist Impact	11195,1383
@@ -259,12 +267,16 @@ Human Rights Impact Assessment	1823
 Human Rights Impact Assessments	5618
 Human Rights Impact Assessments for AI	6132
 Human and Economic Impact of Digital Public	5700
+IBF Impact and GGF Africa Consortium	13504
 ICT Regulation Impact the Global Economy	3604
 III. Impact	13042
 III. Impact The Implementation of ASYCUDA	13042
 IMPACT	4972,6497,1502
+IMPACT ANALYSIS	13418
+IMPACT ANALYSIS Given	13418
 IMPACT AND KEY RESULTS IN GUINEA-BISSAU	11586
 IMPACT AREA RIGHT OF WAY	11857
+IMPACT ASSESSMENT	13418
 IMPACT Connectivity	12971
 IMPACT DATA LOSS	1938
 IMPACT N F3 Increase Review	11857
@@ -279,19 +291,23 @@ IMPACTS Additional Greater Economic	12006
 IMPACTs AND MITIGATION MEASURES	1988
 IMPAIRMENT	11955
 IMPAPRLETMIVE	10157
+IMPARTIALITY AND OBJECTIVITY	13310
+IMPARTIALITY AND OBJECTIVITY The Ministry of Education	13310
 INCENTIVES RECOMMENDATIONS TIMELINE RESPONSIBLE IMPACT S	11857
 INPUTS INVESTMENTS IMPACT OUTCOMES ULTIMATE PATHWAYS	12006
 Identify Impacted Industries	12675
-Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15
+Impact	395,623,201,125,236,122,126,23,137,292,399,269,209,96,250,228,357,113,19,210,2,540,254,19,175,131,46,228,204,107,653,148,22,79,142,98,377,699,202,73,41,433,30,104,169,28,148,598,538,75,48,7,8,2,16,7,83,11,57,99,5,7,85,11,44,49,193,294,86,18,1,16,12,4,30,8,41,23,100,10,23,16,7,27,56,39,18,2,20,3,6,47,25,36,59,365,6,16,9,132,15,232,5,15,71,43,71,103
 Impact Across Sectors	4625
 Impact Analysis	1000,554
 Impact Analysis Exercise	1554
 Impact Area Manager	1009
-Impact Assessment	6476,470,602,5127
+Impact Assessment	6476,470,602,5127,656
 Impact Assessment Framework	12214
+Impact Assessment Ministry of Local Government	13418
 Impact Assessment Report	6477
 Impact Assessment Reported	6432
 Impact Assessment. Energy	12233
+Impact Assessment. World Bank	13314
 Impact Assessments	961,5988
 Impact Awards. Fatoumata Bâ	4972
 Impact Based Forecasting	11283,1918
@@ -308,7 +324,7 @@ Impact Framework DHIMA Digital Health Impact	396
 Impact Fund Denmark and Equitane	7015
 Impact Globally	3959,71
 Impact Highlights	12457
-Impact Hub	4126,7420,947
+Impact Hub	4126,7420,947,821,44
 Impact Hub Bissau	11546,40
 Impact Hub Harare	12493
 Impact Hub Harare’s Digital Skills for Youth	12493
@@ -341,13 +357,16 @@ Impact Stories Awards	12493
 Impact Stories Non-communicable	13160
 Impact Stories The EPI Pro	977
 Impact Stories The EPI Program	977
+Impact Story	13396
 Impact Supporting SMEs	11332
+Impact Survey	13332
 Impact TND Tunisian Dinar TT Tunisie	1818
 Impact Tank Impact Tank	12450
 Impact The University of Eswatini Data Analytics	13077
 Impact UNDP Mauritius Contribution	11332
 Impact UNDP's Lesotho Country Office	12723
 Impact US	11525
+Impact and Outreach	13532
 Impact for Research and Education	3840
 Impact for Research and Education Benefits Expected	3840
 Impact of Artificial Intelligence	2844
@@ -363,18 +382,24 @@ Impact of DPGs for DPI	4430,245
 Impact of DPGs for DPI.pdf	4675
 Impact of Digital Technologies and Services	12948
 Impact of Economic Conditions	12445
+Impact of Electricity	13624
+Impact of Electricity Access	13624
 Impact of Financial Friction	11131
 Impact of Fiscal Policy	10985
 Impact of Funding Cuts	10864
+Impact of Generative AI	13461
 Impact of ICT	10726,1201
 Impact of Internet Connection	961
 Impact of Key Fiscal Measures Introduced	1830
 Impact of M-Pesa and Huduma Namba	9399
 Impact of Online Filing	12948
+Impact of Power Restrictions	13387
 Impact of Reduced Support	2678
 Impact of Research4Life	10776
+Impact of Rural Electric Access	13624
 Impact of Self-Generation	11140
 Impact of Skill Shortages	12445
+Impact of U.S. Withdrawal	13532
 Impact of UNDP Malawi Quarterly Progress Report	12241
 Impact of Valor Crianca. UNICEF	10768
 Impact of Valor Crianca. UNICEF Page	10768
@@ -385,11 +410,13 @@ Impact. Global. Impact Hub Harare	12493
 Impact. References. APPENDIX	12533
 ImpactAlpha	11310
 ImpactForge Initiative	6770
+ImpactHer	13673
 Impacte Ambiental	11390
 Impacted Economic Growth	11994
-Impacter	1744,8635,2,310
+Impacter	1744,8635,2,310,2792
 Impactes Ambientais	11390,16
 Impactful	12214
+Impactful Devolution Projects	13474
 Impactful Initiative AFRICA Woman	5551
 Impactful Reforms and Fiscal Consolidation	13122
 Impacto	1701,437,646,32,703,2455,1271,637,278,1274,1977
@@ -404,7 +431,7 @@ Impactos Adversos	11390
 Impactos Ambientais	11406
 Impactos Positivos	11390
 Impactos Socioambientais Objectivo	11542
-Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542
+Impacts	1005,983,3259,2774,1385,1306,67,50,134,1290,465,542,72,191
 Impacts ESS	1867,1737,7164
 Impacts Early-Warning System	8202
 Impacts Mitigation	1988
@@ -432,7 +459,9 @@ Imparcialidade	11359,66,131,1214
 Imparcialidade A Imparcialidade	11516
 Imparcialidade. Primamos	9799
 Impart	13040
-Impartiality	3503,7256,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,407,77
+Impartiale	13303
+Impartiality	3503,7256,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,407,77,338
+Impartiality and Objectivity	13310
 Implementation Impact Area	1988
 Implications and Impact Analysis	12935
 Inclusivity and Impartiality AI	2958
@@ -463,6 +492,8 @@ Joint Impact Model	12006
 Journal Impact Factor	12486
 Keiso Mohloboli. T-Connect Impact	4656
 Kenya FACTOR CURRENT IMPACT Awareness	11994
+Key Achievements and Impact of Decentralization	13418
+Key Outcomes and Impact	13418
 LABOUR ENVIRONMENT Impartiality	10835,3,130,902,16,466,1,135
 LOCATION FOR DEEDS OFFICE IMPACTED	11260
 Labor Market Impacts of AI	7151
@@ -472,6 +503,7 @@ Laws and Impact Assessments	10721
 Legacy of Impact	11244
 Legislative Impact	8670
 Limit Cyber Impact How Cloud Security	3279
+Livelihood Empowerment Against Poverty Program Impact	13332
 Long Term Impacts	10964
 Long Term Impacts of Grants	10964
 Low Environmental Impacts	12389
@@ -502,6 +534,7 @@ Moderate- Impact	5665
 Moniepoint Publishes Inaugural Impact Report	8001
 Monitor Impact	12675
 Monitor and Evaluate Impact	12675
+Monitoring COVID-19 Impacts	13332
 Multidisciplinary AI Governance for Real-World Impact	12830
 National Impact The Bank	11134
 Nationwide Validation of Adoption and Impact	13095
@@ -553,6 +586,7 @@ Potential Positive Impacts	12253
 Potential Risk and Impact Proposed Mitigation	1988
 Potential Risk and Impact Proposed Mitigation Measures	1988
 Potsdam Institute for Climate Impact Research	520
+Poverty and Social Impact Assessment of Potential Fuel	13332
 Povo AIAS Avaliação de Impacto Ambiental	11390
 Practice and Impact	9204,216,10,106
 Principais Indicadores de Impacto	12777
@@ -565,6 +599,7 @@ Projected Impact of Generative AI	11140
 Protection Impact Assessment	12302
 Purposeful Impact	3487
 Queens Stories of Change Impact Report Join	12493
+RADIO IMPANO FM	13324
 RECOMMENDATIONS ON SPECTRUM Timeline Responsible Impact	11857
 RESPONSIBLE IMPACT	11857
 RESPONSIBLE IMPACT IN- Submarine Cable	11857
@@ -576,10 +611,12 @@ Recommendations for Better Impact Communication	11006,1
 Refugees. Global Impact Investing Network	12297
 Regional Economic Impact Assessment	2677
 Regulamento Geral de Avaliação de Impacto Ambiental	11390
+Regulatory Impact Analysis	13320
 Regulatory Impact Assessment	4732,7657
 Regulatory Impact Assessment Submissions	4732
 Regulatory Impact Assessments	7560
 Regulatory Impact Statement and DTT Networks	6946
+Remarks Are Data Protection Impact Assessments	13381
 Responsible Digitalisation and Social Impact	11478
 Responsible Impact	11857
 Responsible Impact PS-5 Review	11857
@@ -589,6 +626,7 @@ Results and Impact	12064,1156
 Results and Impact Gender	12457
 Results and Impact Key Success Stories	12761
 Revenue Impact of Tax Reforms. IMF Working	10997
+Rigorous Review of Programme Impact	13332
 Risk Category and Sub- Impact	12241
 Risk Impact Mitigation Strategy Cybersecurity High	12444
 Risk Severity Mitigation Measures Responsible and Impact	11525
@@ -612,18 +650,22 @@ SME Impact Fund	909
 SOCIAL IMPACTS Identify	1988
 SOCIETAL IMPACTS	11156
 STAKEHOLDERS SAY DATA LOCALISATION WILL IMPACT	9594
+SUR LES IMPACTS DANS LE CADRE	13613
 Sanofi Global Health Unit’s Impact Fund	4324
 Scaling Digital Solutions for Sustainable Impact	7171
-Scaling-up Impact and Getting Back	10964
+Scaling-up Impact and Getting Back	10964,2367,1
 Significance Rating of Project Impacts Assessment	12253
+Simulated Poverty Impact	13332
 Social Impact	1988,2364,3196
 Social Impact Assessment	10829
 Social Impact Fund	9431
 Social Impact Local Assessment	1988
 Social Impacts	12253
 Social Impacts Official Use Only Item	12253
-Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135
+Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135,2367,1
 Social and Economic Impact Assessments	4732
+Social and Productive Impacts of Zambia's Child	13332
+Social and Productive Impacts of Zambia’s Child	13332
 Socio-Economic Impact Main Article Content Abstract	8671
 Sociocultural Transitions and Developmental Impacts	226
 Société Impact Palmares R&D SAS	6119
@@ -636,6 +678,7 @@ Strategic Impact Advisors Digital	11017
 Strategic Impact The CBE	11131
 Strategy. CAMPAIGN IMPACT	7204
 Strengthen Impact Based Forecasting and Early Warning	13201
+Submit Data Transfer Impact Assessments	13381
 Survey Data CUCI Impact	12978
 Sustainable Business Impact Report	11965
 Sustainable Impact Assessment	1243
@@ -656,6 +699,7 @@ UN IMPACT REAFFIRMÉ SUR LE DEVELOPPEMENT	2342
 UN IMPACT REAFFIRMÉ SUR LE DÉVELOPPEMENT	2342
 UNDP Risk Impact	12241
 UNESCO’s Ethical Impact Assessment	1814,2312
+Understanding Technology's Impact	13356
 Understanding the Impact of Artificial Intelligence	6948
 Unlocking Digital Impact for Development	363,1801
 User Impact Video Calls Frequent Buffering	6051
@@ -669,6 +713,7 @@ Visually Impaired Trainer	13095
 X. Impact	6612
 XXX Low Impact and Low Risk System	5665
 XXX Moderate Impact	5665
+Year Impact Evaluation of Zambia’s Cash	13332
 Zambia Impact Investment Climate Survey	12376
 Zambia Impact Investment Climate Survey. Available	12376
 Zambia Impact Investment Summit	12376

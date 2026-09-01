@@ -26,6 +26,7 @@ About Google Cloud	6930
 Access Google Distributed Cloud	4434
 Accra and Nairobi. Google Search and Ads	1363
 Act. Google	3307
+AdSense and Admob. Google Ads	13461
 Adaptive Governance Good Practice	11006
 Admired Ethiopian Brands Doing Good	8919
 AfCFTA Secretariat and Google	10555
@@ -41,8 +42,10 @@ All Goods and Related Services	13185
 All the Goods and Related Services	13185
 Allo Goor Gi	8305
 AlphaBeta Economics for Google Cloud	1363
-Amazon and Google	11050
+Amazon and Google	11050,2411
 Amharic. Google Translate	5302
+Analytics and Google Ad Manager	13461
+Annex A. Google	13461
 Anthropic and Google	8014
 Anthropic and OpenAI and Google Meta	9284
 Anthropic’s Claude and Google’s Gemini	5311
@@ -113,7 +116,9 @@ CHALLENGE The AI for Public Good Challenge	10347
 COMMON GOOD	11006
 COMPENDIUM OF GOOD PRACTICES IN LINKING	12327
 COMPLAINANTS VERSUS GOOGLE LLC	3307
+CPM. Google	13461
 CRVS System Commitment and Good	13005
+CTRs for Google	13461
 Cape of Good Hope	6593,3366
 Capital Goods	12509
 Capital for Good	1476
@@ -144,12 +149,13 @@ Connectivity for Good	6593,1232,3031,147,1,13,947,421
 Constitutional Public Good RECOGNISING	3861
 Consumer Goods	5247
 Consumer Goods and Services	9815
+Consumer Insights and Google	13462
 Contact Google Distributed Cloud	4434
 Continued Google	6593
 Contract Price of Goods	13185
 Contract the Goods	13185
 Control of Goods	12535,94
-Control of Goods Act	8399
+Control of Goods Act	8399,5004
 Control of Goods Prices and Other Charges	12629
 Crossref Google Scholar Attride-Stirling J	8460
 Crossref Google Scholar Bareis J	8460
@@ -184,6 +190,7 @@ Crossref Web of Science Google Scholar Sundar	8460
 Crossref Web of Science Google Scholar Tang	8460
 DATA AS CONSTITUTIONAL PUBLIC GOOD	3861
 DFC and Google. Cassava	1469
+DV360 and Google Ads	13461
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Data Boundary and Google Distributed Cloud	10798
 Data Explanation Example Good Poor Definition	12360
@@ -194,6 +201,7 @@ Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
 Description Google's AI	2209
 Digital Future Topics Digital Public Goods	11006,1
+Digital News Transformation Google Search	13461
 Digital Public Good Alliance	6337
 Digital Public Goods	4606,219,38,3058,689,2396,1037,171,881
 Digital Public Goods Aid Management Platform	13095
@@ -216,8 +224,10 @@ Doubleday Anchor Books. Google Scholar Gran	8460
 Download the ESG Economic Validation Learn Google	4434
 Dra. Erna Van Goor	11459
 ESEC Compendium of Good Practices	12327
+EU Ad Tech Google	13462
 EUR Good Food Financial	970
 Economy Portal Google-backed	9321
+Effective Google	13462
 Eligibility of Goods and Related Services	13185
 Eligible Goods and Related	13185
 Eligible Goods and Related Services	13185
@@ -234,6 +244,7 @@ Export of Goods	5655
 Exportation Duty Rates Exportation Of Goods	12454
 Exports of Goods	2775
 Extend Google Cloud	4434
+Facebook Developer Coders Circles. Google	13314
 Facebook Twitter Google	12422
 Facebook and Google	8436,1180
 Faculty of Commerce Professor Suki Goodman	11027
@@ -242,8 +253,10 @@ FinTech Football Gadget Gaming Gemini Google	9993
 Forecasting Floods Google	1363
 Freemuse Google Scholar Simmert T	9739
 Fund Funding Gaming GCC GITEX Google	5322
+Funding Google	13462
 Fuzzy Matching Algorithm Good Score	8604
 G Is for Google	3782
+GAM ZA News Publishers. Google	13462
 GB Google One Standard	11324
 GCP Google Cloud Platform GLR Granular	13185
 GDC-submission 5Rights.pdf. Google Scholar Ryan	11028
@@ -259,27 +272,33 @@ GOOD ETHICS	2839
 GOOD GOVERNANCE MAKES GOOD NEIGHBOURS	2839
 GOOD OFFICE AND CONCILIATION The State	1243
 GOOD SHEPHERD CATHOLIC COLLEGE OF HEALTH	13078
+GOODBYE PAPER	13533
 GOODS	11240
 GOODS IN TRANSIT	4827
 GOODS INTO OR OUT OF NAMIBIA	13067
 GOODS WITH A CARD	10977
 GOOGL.O	6931
+GOOGLE LLC................................................02	13462
 GRS Good Practice Note GTC Grievance	10964
 Gates Foundation and Google.org	10620
 Gazette. Google	3307
+Gemini API and Google AI Studio	13461
 Gemini Google	1363
 Gemini da Google	2816
 Gemini da Google. Fonte	2816
 GitHub and Google	12239
 GitHub’s For Good First Issue	11922
+Given Google	13461
 Global Common Good	6832
 Global Digital Inclusion Partnership’s Good Practices	2677
 Global Maritime Systems Cloud-Native Platform Goods	13042
 Gmail and Google Photos	11324
+GooNet	13414
 Goobjoog	4692
 Goobo	3405
 Good AI	9622
 Good Agricultural Practices	12931
+Good Agricultural Practices For All	13314
 Good Clinical Practice	7845
 Good Countries	1264
 Good Digital Identity	10819
@@ -292,7 +311,7 @@ Good Financial Gouvernance	6260
 Good Financial Governance Phase	1462
 Good First Issue	11922
 Good Friday Services	12977
-Good Governance	970,11994,206
+Good Governance	970,11994,206,304
 Good Governance Africa	3598,5801
 Good Governance Forum	3632
 Good Governance Priority Area	970
@@ -302,6 +321,8 @@ Good Governance and Citizens’ Rights GHG Greenhouse	970
 Good Governance and Citizens’ Rights Priority Area	970
 Good Governance and Citizen’s Rights Specific Objective	970
 Good Governance and Gender Equality	644
+Good Governance and Integrity	13346
+Good Governance and Integrity Embracing	13347
 Good Governance and Regulatory Compliance	12356
 Good Governance and Stability	11536
 Good Governance and Trust Compliance	13042
@@ -309,6 +330,7 @@ Good Government	970
 Good Health and Well-Being	12964
 Good Health and Well-being	1131,2614,7031,2188
 Good Health and Well-being Goal	11332
+Good Hygiene Practice	13385
 Good ID	10819,3
 Good International Industrial Practice	1988
 Good International Industry Practice	1988,9875
@@ -347,6 +369,11 @@ Good Standing Tax Certificate	13037
 Good Standing. Where the Board	8866
 Good Storage and Distribution Practices	4301
 Good of All	7548
+Good. Component	13654
+Good. Licenses	13654
+Good. Multi-stakeholder	13654
+Good. Revenue	13654
+Good. State	13654
 GoodNature Agro. Available	12376
 GoodStats	11994
 Goodboy	4432
@@ -358,16 +385,18 @@ Goodlife Pharmacy Kenya	145
 Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211,119,8,42,50,21,10,403,628,20,148,146
 Goods Agreement	13042
 Goods Dispatch Date	12360
 Goods In Transit Importation Of Foreign	12454
 Goods Manufactured	13185
 Goods Manufactured Outside the Purchaser's Country	13185
 Goods Motor Vehicle Tax Calculator	12454
+Goods Procedure	13621
 Goods Quantity Physical Final Delivery	13185
 Goods Raw	11955
 Goods Receipt Date	12360
+Goods Received	13420
 Goods Section	13185
 Goods and Documents Completion	13185
 Goods and Eligibility and Conformity of Related Services	13185
@@ -377,18 +406,20 @@ Goods and Related Services	13185
 Goods and Related Services Responsibilities	13185
 Goods and Service	5655
 Goods and Service Excise	5655
-Goods and Services	2775,2880,6331,403,733,63
+Goods and Services	2775,2880,6331,403,733,63,235
 Goods and Services The Purchaser	13185
 Goods. Required Functional Guarantee Value of Functional	13185
 Goods. Such	13185
 Goodson Sinyenga	8480
+Goodson Sinyenga Statistician General ZAMBIA STATISTICS	13367
 Goodwell Investments	830,9634,1912
 Goodwell Investments and LUN Partners	606
 Goodwill	4102
 Goodwood Station Social Housing Project	11248
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158
+Googe	13461
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74,189,89,18,42,22,13,69,100,29,97,26,33,108,190,224,43,11,138,158,45,1,1,61,83,3,1,21,46
 Google ABUJA	2841
-Google AI	2394,422,1310,4572,1270,1195,138
+Google AI	2394,422,1310,4572,1270,1195,138,2160
 Google AI Centre Accra	4126
 Google AI Education	12675
 Google AI Futures Fund	6930,1768,1421
@@ -399,11 +430,21 @@ Google AI Plus and Google AI Pro	11301
 Google AI Pro	3619,6906
 Google AI Research and Community Centre Accra	2209
 Google AI Studio	3366
+Google Ad	13462
+Google Ad Manager	13461,1
+Google Ad Manager and AdExchange	13461
 Google AdSense	5799
+Google AdTech	13461
+Google AdTech RFI	13461
 Google AdWords	3212,2216,578
+Google AdX	13461
 Google Add Pulse	9736
-Google Ads	1363,1849,2216,142,229,207
+Google Ads	1363,1849,2216,142,229,207,7455,1
+Google Ads and DV360	13461
+Google Ads and Display	13461
 Google Ads and Google Analytics	3212,2216,578
+Google Adtech	13461
+Google Adtech RFI	13461
 Google Africa	3782,2724
 Google Africa Applied AI Lab	6930,1269,499,1421
 Google Africa Investment Fund	673
@@ -411,7 +452,7 @@ Google Africa MD Alex Okosi	6961
 Google Africa Nonprofit Support	676
 Google Agnes Mlambo Bryce Allan Chris	9769
 Google Amazon Leo Eutelsat OneWeb Icasa	6898
-Google Analytics	3212,695,1521,578
+Google Analytics	3212,695,1521,578,7455,1
 Google Analytics. gcl au3	3907
 Google Anaytics	3212,2216,578
 Google Assistant	5570,6405
@@ -421,6 +462,7 @@ Google Backs AI Innovation Across Africa	8698
 Google Bard	2816
 Google Business Profile. Africa	1363
 Google Business Profiles	1363
+Google C4	13461
 Google CEO Sundar Pichai	776,1618,3856
 Google CSIR Icasa Luzangu Mfupe Paul	6365
 Google Cache Cluster and Packet Clearing House	12625
@@ -429,7 +471,7 @@ Google Career Certificate	1363,1981,3586
 Google Cell C Icasa Liquid Intelligent	5050
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Google Chief Compliance Officer	3307
-Google Chrome	12364
+Google Chrome	12364,969
 Google Classroom	6748,6395
 Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315,870,175,103,416,910
 Google Cloud Africa	12362
@@ -475,6 +517,11 @@ Google Cybercrime	6070
 Google Cyril Ramaphosa Elon Musk Icasa	5933
 Google DARA	12926
 Google DIstributed Cloud	4434
+Google DSP	13461
+Google DSPs	13461
+Google DSPs. Memorandum Opinion	13461
+Google DSPs.529	13461
+Google DV360	13461
 Google DeepMind	5419,3279,910,25,486,406
 Google DeepMind AI Research Foundations Curriculum	9634,907,59
 Google DeepMind Africa AI Research Centre	2209
@@ -488,6 +535,9 @@ Google Developer Experts and Grow	1363
 Google Developer Group	1363
 Google Developer Groups	1363
 Google Developer Student Club	3157
+Google Discover	13461
+Google Discover RFI	13461
+Google Discover RFI3	13461
 Google Distributed Cloud	4434
 Google Distributed Cloud Sandbox	4434
 Google Distributed CloudExtend Google Cloud	4434
@@ -500,6 +550,8 @@ Google Enoch Godongwana Enoch Malisa Israel	6286
 Google Equiano	6470,5536,927
 Google Equity Investment	1515
 Google Escolher	9990
+Google Extended	13461
+Google FCA	13461
 Google FCCPC	3538
 Google FG	2871,1758
 Google Finance	5124
@@ -507,23 +559,26 @@ Google Finance StoneCo	5124
 Google Fit	8436
 Google For Startups Accelerator	1363
 Google Forms	7759,1370,2789,172
-Google Gemini	2816,1131,1364,202,314,1516,4500
+Google Gemini	2816,1131,1364,202,314,1516,4500,1618
 Google Geolocation	12041
 Google Ghana Developers	4126
+Google Global South World Share Facebook	13529
 Google Global Strategy	5570
 Google Global Strategy and Operations Manager Taslim	5570
-Google Google	3947,162
+Google Google	3947,162,9352
 Google Google China Telecom Google Google	6477
 Google Growth Lab	13267
 Google Health	7138,13
+Google Hotels	13461
 Google Hustle Academy	1362,4888
 Google Hustle Academy. The Hustle Academy	1363
 Google Identity Theft	3103
 Google Inc	8776
-Google LLC	1429,1878,5,1801,107,4597
+Google LLC	1429,1878,5,1801,107,4597,3644,1
 Google LLC and Finnfund. Investment	1436
 Google LLC and Meta Inc	3962
 Google LLC. Submissions	3307
+Google LLMs	13461
 Google Labs	3947
 Google Lens Homework Helper	10525
 Google MOU	5302
@@ -538,14 +593,18 @@ Google MoU	5774
 Google NCC	3945
 Google NDPC	5038,998
 Google NeuralGCM	4300
-Google News	3962,1612,215,19,52,323,71,250,86,335,104,29,223,1023,1446,247
+Google News	3962,1612,215,19,52,323,71,250,86,335,104,29,223,1023,1446,247,3464,1
 Google News Add TechCentral	5050,494,389,353,79,194,162,177,2871
 Google News An Artificial Intelligence	5969
+Google News DAU Whilst	13461
 Google News Five	6124
+Google News Initiative	13461
 Google News Initiative’s Emerging News Voices	11308
 Google News Malatsi	7058
+Google News Manager	13462
 Google News President Cyril Ramaphosa	7079
 Google News Reported	3962
+Google News Showcase	13461,1
 Google News South Africans	6124
 Google News TikTok	5969,1110
 Google News Was Starlink and Elon Musk	5808
@@ -555,10 +614,10 @@ Google Nonkqubela Jordan-Dyani SA Connect WhatsApp	6721
 Google One. Important	11477
 Google Only	3798
 Google Opens Africa AI Lab for Startup	8698
-Google Pay	7596,1412,2111
+Google Pay	7596,1412,2111,2333
 Google Photos	11477
 Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822,249,71,153,400,87,491
-Google Play Store	7266,3804,1139,256,176,91
+Google Play Store	7266,3804,1139,256,176,91,568
 Google Play Store and Apple App Store	2885
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
@@ -569,11 +628,18 @@ Google Play and Apple App	4292
 Google Play and Apple Store	12580
 Google Play. L'application	10941
 Google Playstore	12209
+Google Properties	13461
+Google Public Hearings	13461
+Google RFI	13461
+Google RFI4	13461
 Google Research	3344,2254,1332,1768,1421
 Google Research Africa	4857,32
 Google Research Africa's WAXAL	4857
-Google SA	5838
+Google Response	13461
+Google SA	5838,7623
 Google SEC	3870
+Google SOI and RFI	13461
+Google SSPs	13461
 Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298,1059,1203,15,9
 Google Scholar APC	11028
 Google Scholar Adedeji W	9739
@@ -626,10 +692,18 @@ Google Scholar Tupasela	11028
 Google Scholar UN	11028
 Google Scholar Wu X	8460
 Google Scholar Zuboff S	8460
-Google Search	1363,4207,2866,1041
+Google Search	1363,4207,2866,1041,3984,1
+Google Search Allegedly Boosts YouTube Results	13461
+Google Search Console	13462
+Google Search Google	13462
 Google Search Preferences	5017
+Google Search RFI	13461
+Google Search RFI2 Tranche	13461
+Google Search RFI3	13461
+Google Search Results	13461
 Google Search and Ads	1363
 Google Search and Workspace	1363
+Google Search. Available	13461
 Google Search’s Consumer Surplus	1363
 Google Semantic Location History and YouTube	8436
 Google Shahim	5256
@@ -651,6 +725,7 @@ Google Teachable Machine	2816
 Google Telecom	6878
 Google The CA	9736
 Google Themed	2292
+Google Top Stories and Discover	13461
 Google Translate	1363,5516,69
 Google Transparency Report	9477
 Google USD	1429
@@ -659,18 +734,23 @@ Google Why Nigeria	7314
 Google Workspace	1267,96,273,656,4140
 Google Workspace and Canva	9857
 Google Workspace for Government. Includes	6432
+Google YouTube RFI	13461
+Google and AIP	13461
 Google and Accenture	7596
 Google and Akamai	10037
 Google and Amazon	9671,3300
 Google and Anthropic	2025,2101
+Google and Bing	13461
+Google and Bing.450 Microsoft	13461
 Google and Equinix	3782
 Google and Facebook	2679,1103
 Google and Intel	4434
 Google and Intel Enable Real-time Manufacturing Operations	4434
 Google and Liquid C2. Beyond	5736
-Google and Meta	4676,605,931,20,284
+Google and Meta	4676,605,931,20,284,6945
+Google and Meta Owe US Publishers	13461
 Google and Meta. Kepios	3918,1,1,8082,439
-Google and Microsoft	2517,4362,709,628
+Google and Microsoft	2517,4362,709,628,5245
 Google and NVIDIA	6580
 Google and SubCom	4676
 Google and Walmart	6386
@@ -682,8 +762,11 @@ Google for Startups Accelerator South Africa	7975
 Google for Startups Black Founders Fund	9321
 Google for Startups Black Founders Fund Africa	674
 Google for Startup’s Black Founders Fund	1363
+Google of ZAR	13462
 Google's AI	6886,1089
 Google's AI Technology Selected	8698
+Google's AdTech	13461
+Google's Adtech	13461
 Google's Africa Applied AI Lab	2209
 Google's Africa Investment Fund	1439,784
 Google's African	9321
@@ -691,15 +774,21 @@ Google's Chrome User Experience Report	6542
 Google's Director for West Africa	6893
 Google's Economic and Community Development	4494,2436,1
 Google's Equiano	965,48,2846,5757
+Google's GAM	13461
 Google's Gemini	6879
 Google's Gemini AI	12241
+Google's Gemini and Microsoft's Co-	13461
 Google's Gemma	6886
 Google's Johannesburg Cloud Region	7005
 Google's Moonshot Factory	9687
+Google's O&O	13461
 Google's Our Life	8319
 Google's Regional Director for Sub-Saharan Africa	13109
+Google's SERP	13461
+Google's Top Stories	13461
 Google's WAXAL	9944
 Google-Cloud-powered Partner Experience Centre	5737
+Google-Extended	13461
 Google-Ipsos	6848
 Google-Kiva Low-Interest SME Loans Africa	675
 Google-Translate	12496
@@ -717,11 +806,17 @@ Google-to-publishers	13267
 Google. Accessed	12138
 Google. Consequently	3782
 Google. Developers	12239
+Google. For English-based	13461
+Google. GAM	13461
+Google. Google Search	13461
+Google. Hence	13461
 Google. India	6411
 Google. Note	1469
 Google. Once	10525
+Google. Public Hearings	13461
 Google. Selon Thomas Lefort	7403
 Google. T	6410
+Google. The Inquiry	13461
 Google. The MoU	5774
 Google. The President	7056
 Google. Working	7005
@@ -732,6 +827,8 @@ Google.org and Masakhane	9929
 Google.org. The AI	5302
 Google.org. Under	10541
 Google.org’s AI	5302
+Google141	13461
+GoogleBot	13461
 GoogleImpact2018.pdf	1363
 Googlebot	8921
 Googlemail	4150
@@ -786,6 +883,7 @@ Goosen	9237
 Goott	7656
 Governance of Digital Public Goods	5700
 Governing and Delivering Global Public Goods	6418
+Growth Google	13462
 Hamidou Dia de Google	2442
 Has Google	3782
 Hi. Hi Chris. Good	7065
@@ -794,6 +892,7 @@ I Assent Dr. Goodluck Ebele Jonathan	11853
 IA da Google	2816
 IFB Goods	8166
 IFC and Google	1243
+IR Goods Receipt	13420
 ITU’s AI for Good Global Summit	1814
 Immanuel Ruiters Primary School The Good	13046
 Imported Capital Goods	12509
@@ -801,16 +900,20 @@ Imported Goods	12509
 Imports of Goods	5655
 Initiative Google	11308
 Innovation and Governance. Oxford University Press. Google	11028
+Insights and Google Search Console	13462
 International Sale of Goods	11550
 International Telecommunication Union’s AI for Good	4723
 Introduction Good	8376
 Investment Project Financing Goods	11750
+Invoice Receipt GRN Goods Received	13420
 Issuing of Goods	9437
 Johannesburg Google Cloud	1363
 Kenya Google	1726
 Key Risks and Good-Practice Mitigations	10714
 Ladies and Gentlemen Good	11275
 Lagos. Google.org	9633
+Launching Preferred Sources Insights and Google Search	13461
+Leadership and Good	13418
 Legal Adviser and AI and Digital Public Goods	10674
 Line Description of Goods Country of Delivery Quantity	13185
 Line Description of Goods Delivery Date Quantity	13185
@@ -838,7 +941,9 @@ March. Google's WAXAL	8552
 Marketing Good Governance	11909
 Masakhane African Languages Hub and Google.org	9929,15
 MathSciNet Google Scholar Gera S	9739
+Media Google	13461
 Meet the Google for Startups Accelerator Africa Class	5875
+Meta AI.444 Google	13461
 Meta and Google	4676,8591
 Microsoft AI for Good Lab	9929,15
 Microsoft Azure and Google Cloud	6471,595,3439,630,2137
@@ -863,8 +968,10 @@ NVIDIA and Google. The Competition Commission	4730
 Nana Appiah Acquaye Rwanda and Google	9884
 National Competitive Tendering for Goods	7695
 Nations. Google Scholar UN Women	11028
+Neither Google	13461
 Net Amount Goods Advances	11955
 Netflix and Google	11946
+News Page Index.9 Google	13461
 Nigeria. Google	3782
 Nizam Goolam	1209,9844
 Nov-2023 Google Cloud MoU	1636
@@ -876,7 +983,9 @@ ORDER ORDER GOOD NEWS FOR SMALL	13044
 Omidyar Network Unpacks Good ID	10819
 Omidyar’s Good ID	10819
 Open Solutions and Digital Public Goods	11478
+OpenAI's ChatGPT and Google's Gemini	13461
 Operational Resilience Good Governance and Trust Integrity	13042
+PROCUREMENT OF GOODS AND SERVICES	13420
 PS4R Charter of Goo	10841
 Payment for Goods	13185
 Philadelphia Google Scholar Wang F	9739
@@ -910,7 +1019,9 @@ PubMed Google Scholar Neusa Lazary View	10784
 PubMed Google Scholar Nsuka Da Silva	10784
 PubMed Google Scholar Robert PreyView	9739
 PubMed and Google Scholar	11990
+Public Good	13461
 Public Good Challenge	10347
+Public Good...................118	13461
 Public Goods	3391
 Public Goods Beyond	4848
 Public Goods and Public Choices	1161
@@ -926,6 +1037,7 @@ Regional Public Goods	11149
 Regional Public Goods Pillar	11149
 Regional Public Goods. Chapter	11149
 Regulations. Google	3307
+Remedial Actions for Google LLC	13461
 Representing Google	13109
 Respondent Google LLC	3307
 Results Good	1261
@@ -938,11 +1050,13 @@ Ryan Goodnight. Following	6264
 S. Goodwin	8022
 S0261143000003402 Article Google Scholar Daba Finance	9739
 SEARCH ORDER GOODS	11004
+SERP.168 Anecdotal Google	13461
 Sanibonani. Good	10169
 Scaling Blockchain for Public Good	9170
 Second-hand Goods Act	11188
 Secretary-General. United Nations. Google Scholar UN	11028
 Senior Director for Market Access Ryan Goodnight	6247
+Should Google	13462
 Silicon Valley Google	1363
 Social Good	6948
 Social Security Commission Good Standing Certificate	12400
@@ -950,6 +1064,7 @@ South Africa Google	1363
 South Africa Google Developer Groups	1363
 South Africa Teams Up With Google	5583
 South Africa and Nigeria. Google	6232
+South Africa. Google	13461,1
 South Africa’s Google	7181
 Starlink's Ryan Goodnight	6263
 Store Google Play	12390
@@ -960,6 +1075,7 @@ Sub-Saharan Africa and Google Cloud	1363
 Sub-Saharan Africa. Good	10995
 Sub-Saharan Africa. Google	2417
 Subtotal Goods	11955
+Succeed In Google Discover	13461
 TBD F Good Governance	970
 Tanzania Google	12239
 Taxable Goods and Services	11976
@@ -984,6 +1100,7 @@ Twitter. Unclear for Google and TikTok	8436
 Twitter. Unclear for Google and WhatsApp	8436
 UN AI for Good Summit	7174
 UN SDGs Good	7204
+UNITED STATES OF AMERICA et al v GOOGLE LLC dc-	13461
 UN’s AI for Good Global Summit	4528
 Uganda Google	6055
 Uganda. Goodnight	6264
@@ -1001,6 +1118,7 @@ Upskill Digital and Google Under	1362
 Use of Goods and Services	3583,9539
 Use of Goods and Services Grants Social Benefits	13093
 Using Google’s Gemini AI	13080,15
+Using the Google	13461
 Valid Good Standing Certificate	13031
 Valid NamRA Good Standing Certificate	13031
 Valid Social Security Commission Good Standing	13031
@@ -1014,14 +1132,19 @@ Web of Science Google Scholar Atari M	8460
 WhatsApp and Google	8436
 WhatsApp. Unclear for Google	8436
 Whether Google LLC	3307
+Whilst Google	13461
+Whilst Google Google	13461
 Wi-Fi and Google Maps	1363
+Will Google's AI Overviews	13461
 Wilson Sonsini Goodrich	8773
 Workspace. Under Google	1267
 World Bank ESF Good Practice Note	1778
-World Bank Good Practice Note	1988
+World Bank Good Practice Note	1988,11344
 World Bank’s Good Practice Note	10964
+X.AI LLC AND X CORP................................25 GOOGLE	13462
 Yet Google	13267
 YouTube and Google Maps	1363
+YouTube. Google	13461
 Zero Trust Strategy for Google Distributed Cloud	4434
 Zimbabwe. Good	970
 Zimbabwe. Good Governance and Citizens’ Rights EURO	970

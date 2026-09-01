@@ -22,7 +22,8 @@ Academic City University. Dr Sena Agbodjah	6936
 Academic City University. References Cybersecurity Act	6936
 Academic City University. Sean Ofori Addo	6936
 Accra. Citizens	2721
-Act. Citation Act	12887,18
+Act. Citation Act	12887,18,661
+Act. Citation Chapter	13287,1,8,19,1,1
 Addis Ababa City Administration	7463
 Addis Ababa City Administration and Dire Dawa	12146
 Addis Ababa City CRRSA	2878
@@ -76,6 +77,7 @@ Blantyre City Council	5312,5286
 Bo City	4189
 Bobo. CITADEL	2732
 Body ESWATINI EXPANDS SMART CITY PROGRAMME	13132
+Body President Mnangagwa Launches Citizen Engagement	13646
 BofA Securities and Citi	7198
 Budget Citoyen	1272,781,1484
 Buea City Council	4579,24
@@ -84,7 +86,9 @@ Buffalo City Education District	12007
 Buffalo City Optic Fibre	6832
 Bydgoszcz City Hall	9237
 C. Award Public Citizen	5692
+CAMION CITERNE	13300
 CAR Central African Republic CE Citizen	969
+CHARRETTE AVEC PETITE CITERNE	13300
 CIAT Inter-American Center of Tax Administration CIT	12948
 CIRP Citizenship	5533
 CIT DARS African Regional Technical Assistance	12500
@@ -267,8 +271,9 @@ CITIZEN AFFAIRS	5533
 CITIZEN AFFAIRS Audited Audited Audited Medium	11986
 CITIZEN AFFAIRS Purpose	11986
 CITIZEN AFFAIRS RESOURCE CONSIDERATIONS Programme	11986
+CITIZEN TV	13324
 CITIZENS CREDIT LIMITED Data Controller INST-59750546555	7167
-CITIZENSHIP	2709
+CITIZENSHIP	2709,10585
 CITIZMLU CITIZMLU ABSA ECOCZMLU ECOCZMLU CITIBANK	12364
 CITOYEN	10812
 CITRA	2837
@@ -319,10 +324,11 @@ Citable	10969,915,1,10,264,1,45,146
 Citadel Valuers Limited Data Processor INST-36029396413	7167
 Citado	12844
 Citant	8452,3627
-Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3
+Citation	427,147,446,1679,10,1152,35,1791,627,608,532,208,510,13,8,267,142,1,1,1,1,206,44,12,1,122,358,1791,713,123,186,44,112,257,49,23,4,10,46,130,92,106,116,3,410
 Citation Adetayo	9256
 Citation Agence Nationale	7439
 Citation Banque	5740
+Citation Chapter	13311
 Citation Eaves	7222
 Citation Formats ACM ACS APA	12467
 Citation Government of Zimbabwe	4528
@@ -387,7 +393,7 @@ Citation2026	5700
 CitationSEC	3782
 Citationforthcoming	5700
 Citationn.d	3782,1918
-Citations	5064,1481,238,368,272,5464,18
+Citations	5064,1481,238,368,272,5464,18,382
 Citação	10760,17,599
 Cite Botha	12467
 Cite This Article	12826
@@ -422,7 +428,7 @@ Cities	747,1349,2034,1310,1077,739,1007,459,2563,1693
 Cities Contact Live Demo Digital Land	12211
 Cities&volume	2096
 Citigroup Global Markets Limited	7198
-Citing	1243,452,767,2987,1691,2288,787,231,283,556,419
+Citing	1243,452,767,2987,1691,2288,787,231,283,556,419,1757
 Citing CBN	7960
 Citing General Comment No	3005
 Citing Henry Ford	3922
@@ -436,7 +442,7 @@ Citing the African Development Bank	7692
 Citing the SIIPS	4285
 Citing the State of Inclusive Instant Payment Systems	4282
 Citiweb	8339
-Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22,44,11,52,110,406,15
+Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72,62,1,62,60,47,51,682,39,46,14,21,8,41,122,13,39,1,7,10,62,1,10,8,5,8,17,21,76,22,44,11,52,110,406,15,227,9,87,43
 Citizen Affairs	1616,2,1286,2292,337,5685,67,701
 Citizen Affairs Management	11986
 Citizen App Search	12209
@@ -459,13 +465,17 @@ Citizen Digital	2447,119,359
 Citizen Digital Kenyan	3637
 Citizen Digital. The Interior	2447
 Citizen Dr Ulisubisya	7321
+Citizen Economic Empowerment Act No	13346
 Citizen Engagement	2889,1764,6353,411
 Citizen Engagement CERC Contingency Emergency Response	11549
 Citizen Engagement Component	2989
 Citizen Engagement Indicator	11855
 Citizen Engagement Indicator MIS	11855
+Citizen Engagement Scoring Board	13646
 Citizen Engagement Stats Public I-32	10785
 Citizen Engagement Survey	12241
+Citizen Engagement and Scoring Platform	13646,42
+Citizen Engagement. Multiple	13332
 Citizen Engagements	9437
 Citizen Entrepreneurial Development Agency	12540
 Citizen Entrepreneurial Development Agency LEA	12540
@@ -476,7 +486,9 @@ Citizen Feedback Mechanism	12665
 Citizen Feedback System	6432
 Citizen Fraud Probe	5558
 Citizen Frequency User	736
+Citizen G2E Government	13308
 Citizen G2G	958
+Citizen G2G Government	13295,46,5
 Citizen Gava Mkononi App	12209
 Citizen Geneva. Tanzania	7105
 Citizen Grows	5536
@@ -499,9 +511,13 @@ Citizen Of Kenya Occurring	12151
 Citizen Of Kenya Occurring Abroad	12151
 Citizen Onboarding for Ministries	12157
 Citizen PCF	6516
-Citizen Participation	11866
+Citizen Participation	11866,1552
+Citizen Participation and Engagement	13418
 Citizen Platform	10313
 Citizen Portal	3284,2442,706,514,3829
+Citizen Report Card	13418
+Citizen Report Card and Rwanda Governance Scorecard	13418
+Citizen Report Cards	13418
 Citizen SMS Short Message Service UIN	10812
 Citizen Satisfaction	4528,7984
 Citizen Satisfaction Index	4528,7984
@@ -519,7 +535,8 @@ Citizen South Africa Smart IDs	6124
 Citizen Standard of Procedure	12157
 Citizen Super App	9776,83
 Citizen Super App' for South Africa Launching	9776
-Citizen Support Services Portal	11640
+Citizen Support Portal	13384,89
+Citizen Support Services Portal	11640,2060
 Citizen System Management	6796
 Citizen Tanzania	5697
 Citizen Tech and Science	7079
@@ -534,15 +551,16 @@ Citizen's Guide	11866
 Citizen's House	11939
 Citizen's Houses	4917,46
 Citizen's Satisfaction Survey	11866
+Citizen's Support Services Portal	13384
 Citizen--function	12227
 Citizen-Centered Ecosystem	13095
-Citizen-Centric Approach	12453
+Citizen-Centric Approach	12453,892
 Citizen-Centric Approaches	5349
 Citizen-Centric Service Delivery	13095
 Citizen-Experiences-with-DPI-in-Kenya-Web.pdf	5267
 Citizen-Friendly Reporting Channels	6936
 Citizen-Owned Companies TechAfrica News	2735
-Citizen-centred	7548
+Citizen-centred	7548,5870
 Citizen-facing	4752,1680,4574
 Citizen-friendly	395
 Citizen. Ce	9721
@@ -558,15 +576,20 @@ CitizenExperience Management	12359
 CitizenLab	9201
 CitizenTVKe	6133
 Citizenry	4528,7984
-Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54
+Citizens	395,360,203,42,780,313,289,207,633,43,113,115,102,15,5,246,37,59,12,158,79,39,27,14,277,189,103,259,130,105,50,49,46,102,504,112,100,31,28,16,65,65,81,38,67,90,143,268,267,138,48,157,72,127,61,181,179,278,10,67,17,164,8,378,91,75,78,52,44,34,183,46,103,84,124,70,113,7,57,80,54,21,53,50,185,3,1,42,167,23,35,22,12,355,30,216,1,9,33,9,33,1,98,114,1,52,10,21,30,29,14,12,5,21,1,13,80,222,296,35,8,47,54,193,5,1,31,39,4,30,55,134,42,31
 Citizens Advice Bureau	11648
 Citizens Benefits	395
 Citizens Budget Satisfaction Survey	11866
 Citizens Core Objectives	395
 Citizens E- Feedback	11951
+Citizens Economic Empowerment Act	13305
+Citizens Economic Empowerment Commission	13399
+Citizens Engagement and Scoring Platform	13688
 Citizens Figure	396
+Citizens G2G Government	13345
 Citizens Government	12453
 Citizens Promoted Digital Literacy of Population	958
+Citizens Promoted ICTs	13295
 Citizens Registered	12291
 Citizens Service Centre	5948
 Citizens Support Portal	12375
@@ -590,6 +613,7 @@ Citizenship	899,980,1208,1040,129,1277,663,1373,698,1701,90,1160,46,21,654,17,30
 Citizenship Act	1867,12,109,3262,283,2747,3706,611,408
 Citizenship Act No	12449
 Citizenship Advisory Panel	11264
+Citizenship Board of Zambia	13294
 Citizenship Card	10714
 Citizenship Card No N	10714
 Citizenship Certificate	12337
@@ -603,9 +627,13 @@ Citizenship Studies	5448
 Citizenship and Birth Registration	13148
 Citizenship and Immigration Control National ID Register	10822
 Citizenship and Immigration. The White Paper	11285
+Citizenship and Refugee Protection	13368
 Citizenship and Refugees Protection	11986
 Citizenship and Tax Education	10762
 Citizenship and Travel Documents	11986
+Citizenship of Zambia	13498
+Citizenship of Zambia Act	13307,191
+Citizenship of Zambia Regulations	13498
 Citizens’ NINs	3955
 Citizens’ Rights Counselor Mahmoud Helmy El-Sherif	11641
 Citizens’ Track	7038
@@ -613,9 +641,15 @@ Citizenwashing EU	11050
 Citizen’s Rights	970
 Citizen’s Rights Priority Area	970
 Citofuonrtdyicspanosbael	12151
-Citoyen	6221,4591
+Citoyen	6221,4591,2478,51
+Citoyen Activités	13341
+Citoyen Calendrier	13341
+Citoyen Initiative	13341
+Citoyen LISTE DES TABLEAUX Tableau I.1	13341
+Citoyen Nous	13341
 Citoyenneté	3396,5341
-Citoyens	3381,6099,1611,580
+Citoyenneté Retourner	13499
+Citoyens	3381,6099,1611,580,1670
 Citron	6231
 Citron and Solove	5113
 Citrullus	11269
@@ -640,11 +674,13 @@ City Councils and FGDsrevealed	12978
 City County NCCAP National Climate Change	2775
 City Data Centre Name Data Centre	6432
 City Election Commissions	12201
+City Hill Hotel	13689
 City Institute	10004
 City Local Area State City Government	11129
 City Manager	11231
 City Name	12360
 City Planning	10930
+City Press	13461
 City Resilience Program	789
 City Samburu Nairobi City Garissa	12251
 City University	6946
@@ -670,7 +706,7 @@ City of Johannesburg Alternative Waste Treatment Technology	11248
 City of Johannesburg Metropolitan Municipality	2307
 City of Johannesburg and Others	2307
 City of Justice	10103
-City of Kigali	431,287,3049,1175,5710,1718,33,10,27,5
+City of Kigali	431,287,3049,1175,5710,1718,33,10,27,5,973
 City of Kigali Spokesperson	4941
 City of Kigali and All Provinces	718
 City of Kigali and Districts Land Use Master	888
@@ -723,6 +759,7 @@ DAS for Three Cities	12276
 DC. Public Citizen	5692
 DEMOCRACY FOR THE CITIZENS PARTY Data	7167
 DEPARTMENT IMMIGRATION CONTROL AND CITIZENSHIP	12947
+DHSprogram.com. Citation	13300
 DOCUMENT AP CITED	6477
 DONE IN THE CITY OF PAYNESVILLE	10407
 DPI. Cites Aadhaar	5700
@@ -749,8 +786,10 @@ Digital Citizen Engagement and GovTech Enablers. Tanzania	4612
 Digital Citizen Identity	3117
 Digital Citizen Serra Leoa	11569
 Digital Citizens Forums	12564
+Digital Citizenship	13356
 Digital Citizenship and Online Safety Initiative	9829
 Digital City	3314,2123
+Digital Competence Framework for Citizens	13314
 Digital Identity Management System for Citizens	5862
 Digital Innovation City	10053
 Digital Media City	1082,7710,1875
@@ -785,6 +824,7 @@ Engagement Citoyen	8634
 English. Cite	8763
 Enhance City Living MTN Nigeria	2563
 Enhancement of Citizen Engagement Platforms	13080
+Enhancing Citizens Access	13331
 Entreprise CITI	10874
 Enugu Talent City and Artificial Intelligence	8973,1335
 Estonian Citizens’ Assembly. Paper	7886
@@ -803,6 +843,7 @@ First City Monument Bank	12038
 Fondation Sèmè City	6514
 Foreign Citizen	12226
 Form DHA-9 For Naturalized Citizens	2115
+Form of Green Registration Card for Citizens	13307
 Fort Portal City	8410
 Founder of CityMender. CityMender Namibia	9952
 Four Cities Programme Cash Recipients Sampled	12978
@@ -864,7 +905,7 @@ Immigration and Citizenship Service	10709,1517,24
 Immigration and Citizenship Services	12250
 Immigration and Citizenship System	5250,7347,15
 Improved Governance and Citizens Engagement	170
-Improved Human Capital and Digitally Informed Citizenry	12453
+Improved Human Capital and Digitally Informed Citizenry	12453,892
 India’s GIFT City	12110
 Individual Zimbabwean Citizens	736
 Inhambane City	12201
@@ -926,6 +967,7 @@ La Maison du Citoyen	260,40
 Labo Citoyennetés	10812
 Laboratoire Citoyennetés	10812
 Lagos City Hall	11129
+Launched the Citizen Support Portal. Secretary	13384
 Laying the Foundation for Digital Citizenship	3313
 Le Balai Citoyen	8634
 Les Sèmè City Hubs	5512
@@ -950,9 +992,12 @@ Lira City	4217
 Listahanan Info Kit. Quezon City	11133
 Livingstone Towers City	13185
 Lord Mayor City of Kigali. Copyright	12370
-Lusaka City Council	6391,2407,3571
+Lusaka City Airport	13365
+Lusaka City Council	6391,2407,3571,1295
+Lusaka City Road De-congestion Project	13561
 MEANS FOR CITIZENS	7938
 MINEDH and CITT	996
+MOYEN DE TRANSPORT CITÉ	13300
 Maisons du Citoyen	3605
 Making Entrepreneurial Citizens	226
 Malawi Citizenship Registration Certificate. Verification	12216
@@ -992,6 +1037,7 @@ MoRENet INAGE INTIC INTIC INTIC CITT	2989
 Mogadishu City FC	3637
 Molote City. TCF	10811
 Morocco. The Jazari Smart City Institute	10004
+Museum of Liberation City Gwayi-Shangani Dam	13474
 Mvera Innovation City	12172
 Mwanza City	2857,3026,94
 Mzuzu City	13080
@@ -1023,6 +1069,7 @@ Nat’l Platform for Citizen Particip I-30	10785
 Neither Citizens	12227
 Networked Governance of Citizen Coproduction	5349
 Neutral Citation Number	1829
+Ngundu and Masvingo City	13526
 Nhlangano and Hluthi. Citizens	5121
 Nhlangano and Hluti. Citizens	13116
 Niassa and Maputo City	12201
@@ -1035,6 +1082,7 @@ Nouvelle Citoyenneté	4092,1616,6208
 Nouvelle Citoyenneté. Dans	4092
 Nyeri District and Nairobi City	12151
 OICA. Op. Cit	8891
+Offer Citizenships	13295
 Official Citation and Designation	3861
 Oman’s Future Cities Company	8592
 On-time Filing of CIT Declarations for Financial Year	12500
@@ -1043,6 +1091,7 @@ Op Cit	8891
 Op. Cit	8891
 Open Cities Lab	961,2961,4091,3984
 Outside Djibouti City	11271
+Overseas Citizens of India	13509
 P362m for Immigration and Citizenship	5634
 PASEB Bissau City Power Supply Improvement	11549
 PASSPORTS AND CITIZENSHIP	12947
@@ -1053,9 +1102,9 @@ PS for Immigration and Citizen Services	4631
 PUBLIC CITIZEN	5692
 Paris Cité	11784
 Parlez-nous de CITADEL	2732
-Passport and Citizenship	1988,10418,43
+Passport and Citizenship	1988,10418,43,968,8,183
 Passport and Citizenship. Madam Speaker	12449
-Passports and Citizenship	1778,89,121
+Passports and Citizenship	1778,89,121,11437
 Passports and Citizenships	3014
 Patience Makwele The City of Windhoek	6676
 Patient Citizenship	6666
@@ -1100,7 +1149,7 @@ Registration Citation	10609
 Registration Organ Immigration and Citizenship Service	12226
 Registration of Citizens	13005
 Relative Citation Ratio	2518
-Renaissance Cairo Mirage City Hotel	8755
+Renaissance Cairo Mirage City Hotel	8755,4813
 Required Citizenship	12281
 Research Square Cite Share Download PDF	12379
 Reshaping Citizen-Administration Relationships	5349
@@ -1111,6 +1160,7 @@ Route Overberg Overberg City of Cape Town	8999
 Rundu Junior Primary School Sun City	13046
 Rwanda's Kigali Innovation City	8943
 Rwanda’s Kigali Innovation City	3378
+République du Burundi C2G Citizen	13341
 SADC Citizens	962
 SADC Citizens. Data	962
 SADC Citizens. Related	962
@@ -1128,7 +1178,7 @@ SN CITEC	7670
 STATE DEPARTMENT FOR IMMIGRATION AND CITIZEN	12165
 SUGGESTED CITATION	12944
 Safe City	18,86,156,40,345,7993,761
-Safe City Project	121,138,83,2935
+Safe City Project	121,138,83,2935,10068
 Safe City Project China Development Bank	121
 Safe City Project Export-Import Bank of China	259
 Safe City Project Number	12453
@@ -1140,9 +1190,11 @@ Santander City	2093
 Search Info About Contact Citation	12441
 Secondary Cities Program for Results	789
 Secure Citizen	11940
+Security and Privacy Citizens	13308
 Sello More City Manager OVERVIEW	11231
 Semé City	3222
 Senegal’s Diamniadio Lake City and Morocco’s Mohammed	4563
+Senior Citizens	13474
 Serves Citizens Opening	8367
 Services Citoyens Scalables	3857
 Singapore City	12972
@@ -1165,6 +1217,7 @@ Smart City Technology Company Ltd	3862
 Smart Health Care City	2422
 Smart Transport and Smart Cities	958
 Sofala and Maputo City	12201
+Solidarité Citoyenne	13390
 Soroti City	5109
 Soul Citizens	4528,7984
 South Africa Citation Mafunzwaini	7759
@@ -1244,6 +1297,7 @@ Yves Citton	8891
 ZAMBIA. City	9603,1
 Zambia Meteorological Department and Lusaka City Council	10347
 Zim Cyber City	8943
+Zimbabwe City	13575
 Zimbabwe's Cyber City	8943
 Zimbabwe. Good Governance and Citizens’ Rights EURO	970
 Zimbabwean Citizens	12496

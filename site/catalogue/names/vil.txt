@@ -1,10 +1,12 @@
 ASSUMPTION SISTERS OF NAIROBI UPENDO VILLAGE	7167
+AUTRE VILLE	13300
 Africa. Village Capital	9495
 Agglomération Effectif Pourcentage Ville de Ouagadougou	10875
 Agglomération Formel Informel Total Ville de Ouagadougou	10875
 Alpha Vilho	12478
 Amahoro Village Office	4941
 Artisanal Villages	10980
+Associations Villageoises	13390
 BAHARI VILLA LTD Data Controller INST-382402FB0C4	7167
 BIRTH PLACE OF BIRTH SEX VILLAGE	12410
 Bidi’a Wa’ikamatus Sunnah Hon. NYSC Vill	11129
@@ -67,12 +69,13 @@ Muzu Village. Ngwira	13215
 Natale Village	6319,1
 National Director of SOS Children’s Villages Eswatini	11134
 Nchini. Vilevile	6019
-Niger Smart Villages for Rural Growth and Digital	3604
+Niger Smart Villages for Rural Growth and Digital	3604,9727
 Office and SOS Children Villages. Bulembu Ministries	12977
 Orange Village	5561
 Orange Ville’s US	9253
 Organisme Nombre de Comités Villages	10876
 Osona Village	13183
+PETITE VILLE	13300
 Parliamentary Village	11285
 Parliamentary Villages	11285
 Parliamentary Villages Rules	11285
@@ -116,6 +119,7 @@ VHW Village Health Workers VIP Very	12663
 VILA-NOVA GOUVEIA	6613
 VILLAGE LEADERS Data	10763
 VILLANUEVA CARBAJAL	6613
+VILLE	13300
 Victoria Falls Lifestyle Villas	7534
 Vila Nova	3048,1663,36,1071,200,154
 Vilakazi	3614
@@ -127,9 +131,10 @@ Viljanen	11156
 Viljoen	9969
 Villa	737,8663
 Villa Elizabetha	12454
-Village	2760,1370,6699,456,431,501,133,59,489
+Village	2760,1370,6699,456,431,501,133,59,489,409,307
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
+Village Business Units	13673,12
 Village Capital	6231,4514
 Village Capital and Hatch Blue	10464
 Village Connectivity Project	6110
@@ -147,6 +152,7 @@ Village Headmen	13005
 Village Health Teams	9248,2525
 Village Health Worker	12679
 Village Health Workers and Civil Registration Officers	12679,82
+Village Inn Hotel	13420
 Village Management Boards Ordinance	12890
 Village Manufacturing Value Added AfCFTA African	10980
 Village Market Afya House	4154
@@ -154,6 +160,7 @@ Village Market PO Box	4153
 Village Reach	12240
 Village Savings and Loan Associations	10299,542
 Village Savings and Loans	12964
+Village Savings and Loans Association	13390
 Village Savings and Loans Associations	11900
 Village Telco	985
 Village de Vitré	1005
@@ -161,7 +168,7 @@ Village des Technologies	1598,820
 Village of Innovation and Technology	1897,9059
 Villageoise	10965
 Villageoises	10876
-Villages	1228,410,1932,1083,6632,240,803,30,194
+Villages	1228,410,1932,1083,6632,240,803,30,194,866
 Villages Connectivity Programme	12589
 Villages Numeriques	3163
 Villages and Acacia Park Primary School	11285
@@ -182,7 +189,7 @@ Ville de Ouagadougou	10875
 Ville de Ouagadougou Ville de Bobo-Dioulasso	10875
 Ville de Tahoua	7374,2193
 Villegas-Ch	9128
-Villes	3157,5734,2124
+Villes	3157,5734,2124,2613
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
 Villgro Africa	12376
 Villgro Africa Villgro Kenya	12155

@@ -2,7 +2,9 @@ AI Poverty	10726
 Abdul Latif Jameel Poverty Action Lab	12485
 Accelerating Gender Equality To End Poverty	1867
 Act News Defeat Poverty	12336
+Address Poverty and Women's Empowerment	13399
 Addressing Multiple Poverty Traps	10964
+Africa Can End Poverty	13450
 Afrobarometer's Lived Poverty Index	12192,86,223
 Ajuda de Desenvolvimento de Povo	11557
 Angola Poverty	10763
@@ -15,11 +17,13 @@ Angola’s Distribution of Poverty Figure	10775
 Annex V. POVERTY BY MUNICIPALITY Data	10763
 Background Poverty	10866
 Boost Growth and Reduce Poverty. Washington	10841
+Burundi Macro Poverty Outlook	13331
 CR's Livelihood Empowerment Against Poverty	10841
 CSD Poverty	11136
 Cameroon Macro Poverty Outlook	10964
 Cameroon Poverty Assessment	10985
 Child Poverty Analysis	12962
+Climate Change and Poverty. Climate Change and Poverty	13332
 Climate and Poverty Hotspots	10763
 Community Poverty Reduction Fund	12970
 Confronting AI Poverty	10726
@@ -31,11 +35,12 @@ Department of Poverty Alleviation	7859
 Department of Poverty Reduction and Social Protection	13199
 Director Poverty Reduction and Social Protection Division	12980
 Dividend for Its Future Growth and Poverty Reduction	6948
+Economic Development and Poverty Reduction Strategy II	13418
 Economic Development and Poverty Reduction Strategy. EICV	12403
 Empowerment Against Poverty NDS30 National Development	10841
 Eradicate Poverty	9353
 Extended Term Consultant for Poverty	10763
-Extreme Poverty	11133,9,856
+Extreme Poverty	11133,9,856,1476
 Extreme Poverty DEEP	11142
 Extreme Poverty ESR Enhanced Single	11133
 Fight Poverty and Unlock Prosperity. Official Use	3604
@@ -64,10 +69,11 @@ Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
 Livelihood Empowerment Against Poverty	4336
+Livelihood Empowerment Against Poverty Program Impact	13332
 MCDWD and Poverty Rate MCDWD	10763
 MONITORING AND EVALUATION UNIT The Poverty	12962
 MULTIDIMENSIONAL POVERTY AND SOCIAL PROTECTION ASSISTANCE	11998
-Macro Poverty Outlook	10768
+Macro Poverty Outlook	10768,2564
 Malawi Poverty Reduction Strategy. The NSNP	12964
 Marital Status and Poverty	4794
 Minister of Humanitarian Affairs and Poverty Reduction	3018
@@ -84,7 +90,9 @@ NGO Ajuda de Desenvolvimento de Povo	10784
 Namibia Multidimensional Poverty Index	12946
 National Food Poverty Line	2307
 National Household Targeting System for Poverty Reduction	11133
-National Poverty Line	10985
+National Poverty	13332
+National Poverty Line	10985,2347
+National Poverty Rate	13332
 National Poverty Rate. Survey	10768
 Nigeria Multidimensional Poverty Index	11998
 Nigeria Poverty	11469
@@ -93,15 +101,17 @@ Oil and Gas Alone Won’t End Poverty	10465
 Oxford Poverty	206
 Oxford Poverty Human	206
 POV Pauvreté SFI Société	7655
+POVERTY AND ECONOMIC EMPOWERMENT	13399
 POVERTY ERADICATION	12373
 POVERTY REDUCTION	12962
 PRSP Poverty Reduction Strategy Paper RFQ	11525
 Paesi Emergenti CPRF Community Poverty Reduction	12970
 Pivotal Moment for Poverty Reduction	10985
-Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147
+Poverty	761,208,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5,151,103,229,57,24,11,295,12,57,74,160,34,184,27,23,34,41,32,136,135,119,23,16,2,147,221,86,221
 Poverty Alleviation Funding Facility	11579
-Poverty Assessment	1867,8896,222
+Poverty Assessment	1867,8896,222,2538
 Poverty Assessment Survey	11525
+Poverty Datum Line PICES Poverty	13359
 Poverty Eradication Program	12541
 Poverty Eradication and Social Welfare	12337,36,75,475,23
 Poverty Eradication and Social Welfare CABINET DECISION	12923
@@ -119,7 +129,7 @@ Poverty Reduction	10964,899,157,903,39
 Poverty Reduction Policies	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Poverty Reduction Strategy	11924
 Poverty Reduction Strategy GRA Ghana Revenue	236
-Poverty Reduction Strategy Paper	11525,399
+Poverty Reduction Strategy Paper	11525,399,1494
 Poverty Reduction Strategy and Action Plan	11131,3,1841
 Poverty Reduction Strategy and Action Programme	12914,48
 Poverty Reduction and Growth Strategy Paper. TCLE	11916
@@ -133,11 +143,14 @@ Poverty Statistics Specialist	12403
 Poverty Targeting Index	3604
 Poverty Trends	10062
 Poverty and Equity Brief	10062
+Poverty and Equity Brief for Zambia. World Bank	13332
 Poverty and Equity Climate Change and Disaster Screening	969
 Poverty and Gender Assessment	10062
 Poverty and Hunger Alleviation	12977
+Poverty and Inequality	13332
 Poverty and Inequality Statistics	11237
 Poverty and Rural Development	12946
+Poverty and Social Impact Assessment of Potential Fuel	13332
 Poverty and Vulnerability	10763
 Povo AIAS Avaliação de Impacto Ambiental	11390
 Povo Guiné-Bissau AFF Análise	11557
@@ -147,10 +160,13 @@ Povos	14,10736
 Povos Indígenas	11390,152
 Povos. LEI DA PROTECÇÃO DE DADOS	14
 REDUCE POVERTY The Ministry of Finance and Development	12716
+Reduce Poverty and Boost Sustainable Growth. Systematic	13312,2
 Republic of South Sudan South Sudan Poverty	3583
 Rethinking Poverty Reduction	10985
 Rule of Law Absence of Crime Poverty Reduction	10759
+Simulated Poverty Impact	13332
 Social Safety Nets Poverty Reduction Policies	10837,1315,188
+Social Services and Poverty Reduction	13295
 Social and Poverty	10779
 Society for Poverty Rationale	12376
 South African Multidimensional Poverty Index	11237
@@ -168,3 +184,4 @@ World Bank. Angola Poverty and Equity Brief	11417
 World Bank. Poverty and Inequality Platform	11417
 World Bank’s Poverty	12399
 Youth and National Services MPESW Ministry of Poverty	12923
+Zimbabwe Poverty Atlas	13310

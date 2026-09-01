@@ -7,6 +7,7 @@ Batch Input	7988
 Box Throwing Distance Input	34
 Cameroon Input	10969
 Client's Input and Counterpart Personnel	11869
+Climate-Proofed Presidential Input Programme	13685
 Committee Analysis of Inputs Received	5853
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
@@ -21,7 +22,8 @@ Farm Input Subsidy Programme	4172,7457,1466,27,92
 Farm Input Subsidy Programme. Pilots	13095
 Farm Inputs Procured and Distributed	12977
 Farm Inputs Subsidy Program	13060
-Farmer Input Support Programme	12356
+Farmer Input Support Program GDP Gross	13345
+Farmer Input Support Programme	12356,1043,111
 Farmers Input Support Programme	12366
 Fertilizer Input Subsidy Program	13122
 Free Trade Area AIP Agricultural Inputs	13095
@@ -51,14 +53,15 @@ Inpor Quotas Unipessoal	10757
 Inpracticalterms	8602
 Inpractice	8602,4
 Inprinciple	8602
-Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42,143,300,2,32,276
+Input	899,5524,2183,517,1846,222,670,23,1,10,57,207,1,44,1,146,4,90,42,143,300,2,32,276,284
 Input Distribution	9123
 Input Subsidy Programme	12956
 Input Tax	12509
 Input Tax Claim Schedules for VAT Returns	12509
 Input Tax Claims for Taxpayers	12509
 Input Tax Credit	12630
-Inputs	961,1792,4795,1575,2010,55,752,235,181,3,646,48
+Input VAT	13402
+Inputs	961,1792,4795,1575,2010,55,752,235,181,3,646,48,267
 Inputs-financial	7548
 International Finance Corporation INP-HB Interim Financial	3604
 Iterative Input	12356
@@ -88,6 +91,7 @@ Screen Coverage Input	34
 Smallholder Farmer Input Support Program	5765
 Sogou Input Method	8460
 Strategic Inputs and Strategic Outputs	11131
+Supply of Agricultural Inputs	13474
 TRANSACTIONS INPUT SECTION	12484
 Targeted Inputs Programme	12964
 Telecommunications Input	12445

@@ -1,7 +1,10 @@
+A. Context Text Figure	13624
+A. Introduction Text Figure	13624
 A1 Figure	12256
 A4AI Fig	11857
 ABBREVIATIONS Figure	582
 ABRIDGED REPORT Figure	582
+AC. Fig. VI.4	13341
 ACB Connect App FIGURE	13095
 ACB Dashboard Figure	12241
 AES Fig	6959
@@ -20,6 +23,7 @@ Access Bank PLC FIG Trade Finance	11469
 Access FIGURE B1.2.1	11572
 Admin Manager Figure	12969
 AfDB Figure	10718
+Afficher Figure	13375
 Africa Figure	4972,6885
 Africa. Figure	4972,5746
 Age Figure	10775
@@ -40,15 +44,21 @@ Anti-Corruption Fight	5910,491
 Anticipatory Action Review Workshop FIGURE	13095
 Anticipatory Action Review Workshop Figure	12241
 Appendices Figure	11004
+Application ODK COLLECT. Figure	13375
 Apr-25 May-25 Jun-25 Figure	12256
 Architectural Schematic Diagram FIGURE	13005
 Area for Housing Development Figure	2775
 Asian White Figure	11192
 Asshownin Figure8	8606
+Atlas Figure	13375
 Autonomous FIGURE	9616
+BBS Traffic Fig. VI.7	13341
+BURUNDI Text Figure	13624
 BWA Broadband Wireless Access Figure	582
 Bank Assets.......8 Figure	10718
 Bank Ownership Type.............................20 Figure	10718
+Bank of Zambia Figure	13532
+Bank of Zambia Goal Cascading Figure	13532
 Below Figure	9123
 Benguela. Figure	10763
 Benin Figure	10856
@@ -61,6 +71,7 @@ Bridgforte Trust Architecture Framework Figure	11138
 Broadcast Studio-To-Transmitter Links Figure	6946
 Building Technologies Figure	2775
 Burkina Faso Figures	10859
+Burundi. Figure	13314,61
 Buyer Profile Figure	4972
 C Figure	582
 C and D. Figure	10785
@@ -76,6 +87,7 @@ CONGO FIGURES	1828
 CONGO Figure	1828
 CONTENTS LIST OF TABLES AND FIGURES	11261
 CORPORATE PROFILE Figure	13053
+COVID-19. As Figure	13332
 CRITICAL SKILLS Figure	1940
 Cabo Verde Figures	12002
 Calling Sending SMS Financial Activities Figure	582
@@ -85,6 +97,7 @@ Canva FIGURE	13095
 Category Fig	1554
 Celebration FIGURE	13095
 Central African Republic Figures	2504,1414
+Certificat Foncier Figure	13375
 Cetic.br. Figura	2816
 Chad Figures	2505,1414
 Child’s Fingerprints Collection Figure	10775
@@ -103,14 +116,17 @@ Connect Combine Collaborate Collaborate Communicate Figure	8603
 Contents Figures	12327
 Copperbelt and Figure	12431
 Cost of Scaling Up Safety Nets Figure	10763
+Cost of Transmission Delays Text Figure	13624
 Country Figure	4972
 Country of Origin Fig	1554
 Craft Certificate Figure	12431
 Crops Research Institute. Figure	12090
+Créer Figure	13375
 Cuvette. Figure	11924
 Cybersecurity FIGURE	12214
 Cybersecurity and Fight	1264
 D Clustering Figure8	8606
+D. Results Chain Figure	13331
 DBSCANClustering Figure13	8606
 DFIs. Figure	12376
 DHS Analysis Figure	12006
@@ -130,6 +146,7 @@ Development and Innovation Figure	4528
 Digital Finance Figure	11138
 Digital Government Strategy Figure	12917
 Digital Lilangeni Design Paper FIGURE	11130
+Director of Social Welfare. See Figure A1	13332
 Disclaimer Figure	5247
 Displayallpatients Figure14	8606
 District of Rwanda. Figure	12328
@@ -152,9 +169,11 @@ Eastern REPUBLIC OF ZAMBIA Figure	12431
 Economic Freedom Fighters	8398
 Education and Teaching System. Figure	10775
 Electricity Figure	11136
+Electricity Price Text Figure	13624
 Electricité Figure	10975
 Employment Figure	11296
 Engagement Investment Applications Figure	396
+Enregistrer Figure	13375
 Eswatini Figures	12441
 Eswatini Macro-Economic Figures	13052
 Eswatini. Figure	12395
@@ -163,6 +182,7 @@ Ethiopia's Figure	12233
 Ethiopia. Figure	1212
 Evolution of International Crude Oil Prices Figure	12256
 Expenditure Figure	10985
+Export Figure	13375
 Extended Data Fig	11585
 FC Kallon Will Fight Till	7814
 FCFA FIGUE	2342
@@ -184,10 +204,18 @@ Facts and Figures	1243,2867,860,3783,863,1228,7,411,301,316,335
 Facts- Figures2019.pdf International Telecommunication Union	961
 Female Figure	12431
 Female. Figure	3862
+Fermer Figure	13375
 Fig. S1	12678
+Fig. VI.10 Carte	13341
+Fig. VI.2 Schéma Directeur de Digitalisation des Services	13341
+Fig. VI.3 Bases	13341
+Fig. VI.5	13341
+Fig. VI.6	13341
+Fig. VI.8 Carte	13341
+Fig.VI.9 Carte	13341
 FigFuigreur1e.21	2775
-Fight	961,249,7250,2825
-Fight AIDS	392,545,10623,337
+Fight	961,249,7250,2825,2029
+Fight AIDS	392,545,10623,337,1557
 Fight Against AIDS and Major Endemic Diseases	10776
 Fight Against Corruption	2626,3475
 Fight Against Crime	9399
@@ -214,7 +242,7 @@ Figuil	3412
 FigurPeO2P.U10L	10763
 Figura	2138,678,7956,5,613,6,1,9,10,131,8,19
 Figuras Figura	2816,8590
-Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14
+Figure	10,226,160,186,136,19,34,169,18,51,4,141,46,12,31,5,9,4,3,20,43,227,260,10,4,39,71,2,4,44,108,679,1,113,24,35,216,1,1,1,1,436,258,132,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,233,173,7,75,3,11,148,296,273,2,286,122,4,22,19,40,260,408,18,113,3,51,78,58,103,104,10,32,173,115,12,173,204,47,57,31,96,135,1,108,72,81,71,22,60,6,18,143,1,1,196,322,1,4,1,108,379,143,773,180,2,4,45,1,1,3,7,5,5,9,18,17,12,11,4,2,43,18,13,8,23,1,1,5,5,1,9,12,7,13,112,1,3,2,1,2,2,2,14,28,8,1,2,21,2,10,8,23,12,15,8,2,14,107,52,18,38,27,1,10,9,6,3,274,2,6,4,7,5,2,24,14,5,17,11,12,22,8,12,56,28,48,13,41,18,4,19,7,1,5,7,3,22,19,30,1,1,17,10,2,1,8,2,7,19,4,14,6,12,13,9,47,1,11,147,4,254,6,16,2,7,3,10,1,7,8,1,27,11,26,11,27,14,216,2,2,17,1,13,30,15,5,1,22,43,71,36,18,38,2,59
 Figure A	11250
 Figure A.1	1009,7594,2,2380
 Figure A.1. Social	10985
@@ -233,8 +261,11 @@ Figure A.6	8605
 Figure A.7	8605
 Figure A.8	8605
 Figure A.9	8605
-Figure A1	11563
+Figure A1	11563,1769
 Figure A1.1	3604
+Figure A2	13332
+Figure A3	13332
+Figure A4	13332
 Figure B	11250,812
 Figure B1.1	11136
 Figure B1.2	11136
@@ -285,7 +316,7 @@ Figure5	8606
 Figure6	8606
 Figure9	8606
 FigureB1.2	11136
-Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46
+Figures	10,26,200,321,56,209,191,371,141,258,1,1,1,1,1,1,1,1,1,1,1,1,1,1,31,1,91,68,353,20,137,6,1,408,288,1,1,1,1,1,1,1,1,1,373,335,1,1,422,142,33,651,462,84,26,40,290,338,172,306,59,1,21,11,104,1,1,1,1,1,1,1,1,121,206,46,116,27,359,788,863,165,877,56,61,10,56,15,3,117,26,134,56,67,37,42,536,5,2,14,99,8,158,67,19,3,79,18,9,58,28,46,827,53,165,92,24
 Figures CPoS	12486
 Figures ES.1 Mobile	10977
 Figures Figure	10764,11,788,1100,285
@@ -328,6 +359,7 @@ HUMAN RESOURCE MANAGEMENT No Figures	11250
 Hamilton Research Figure	11552
 Harare Fig	1554
 Health Tech Figure	4972
+Health and Fight Against AIDS NFIS National	13312,2
 Hhohho Region. Figure	12977
 Historic Flood. Figure	1828
 Households Figure	582
@@ -344,17 +376,23 @@ ID for All Figures	5956
 ID. Figure	11919
 IDI ICT Development Index Figure	582
 IEC Explains the Figures Responding	9315
+IMF Staff Estimates Text Figure	13624
+INFORMATIONS DEMOGRAPHIQUES Figure	13390
 INTEGRATING AFRICA Figure O.1 Trade-Growth Line	11149
+INTERNATIONAL MONETARY FUND BURUNDI Text Figure	13624
 IPPs. Figure	12256
 ITU Facts and Figures	6946
 ITU Figure	11563
 ITU International Telecommunications Union Figure	582
 IV LIST OF FIGURES Figure	1243
+Implementation Framework. Figure	13347
+In-Focus Figure	13312,2
 Inaugural Research for Agricultural Excellence Indaba Fig	1554
 Incentives Fig	11857
 Incentives. Fig	11857
 Included Figure	8605
 Inclusive Digital Transformation for Malawi Figure	12241
+Income Quintile Group Text Figure	13624
 Incoming Figure	3862
 Increase Taxpayer Satisfaction Figure	13053
 Indicative Planning Figures and Funding Availability	4217
@@ -366,6 +404,7 @@ Institution of Affiliation Fig	1554
 Institution of Affiliation Figure	1154
 Institutional Figure	6408
 Interactive Website for NRB Figure	12241
+Internet Figure	13586
 Intra-African Trade.....12 Figure	10718
 Investissements Projet Figure	10975
 Investor Profile Figure	4972
@@ -387,7 +426,8 @@ LIST OF TABLES LIST OF FIGURES	11986
 LISTA DE FIGURAS	11387
 LISTA DE FIGURAS Figura	11555
 LISTE DES FIGURES	737,10228
-LISTE DES FIGURES Figure	737,9975,253
+LISTE DES FIGURES Fig. II.1 Fig	13341
+LISTE DES FIGURES Figure	737,9975,253,2425,196
 LMICs. Figure	11994
 LOCATION OF RESPONDENTS Figure	1940
 LTE Long Term Evolution Figure	582
@@ -425,6 +465,7 @@ MTN Telecel AT Total Figure	2776
 MTN Telecel Figure	2776
 MTN Telecel Total Figure	2776
 MTN Vodafone AirtelTigo Figure	2776
+MUYINGA. Figure	13375
 MW Figure	12062
 MW. Figure	12256
 MWh. Figure	12256
@@ -441,14 +482,17 @@ Measuring Digital Development Facts and Figures	961
 Measuring the Inclusion of DPI Deployments FIGURE	13095
 Medium-Sized Enterprises...........................9 Figure	10718
 Mexico. Figure	11964
+Microsoft Excel. Figure	13375
 Milliards FCFA. Figure	10975
 Minister. Figure	11857
+Ministry of Public Health and Fight Against AIDS	13312,2
 Mobile Data Traffic Figure	2776
 Mobile Subscriptions and Penetration Figure	6671
 Monitoring and Implementation Annexure Figure	13076
 Month Treasury Bill Rate Figure	1828
 Mozambique and South Africa. Figure	12256
 Muchinga Eastern Luapula Northern Western Figure	12431
+Multimédia Fig. VI.10 Carte	13341
 Musanze Figure	12328
 NASA Harvest Agrometerological Indicator Graphics. Figure	13094
 NATIONAL ANALYTICAL REPORT Figure	12431
@@ -474,9 +518,13 @@ Nigeria Fig	11857
 Nigeria Figure	11129
 Nigeria From Fig	5245
 Nigerians. Fig	5245
+Night-Time Lights Text Figure	13624
 Northern Central Luapula Eastern Western Figure	12431
 Note Figures	324
 Number of Domestic Audits and Revenues Collected Figure	13053
+ODK Briefcase Figure	13375
+OK Figure	13375
+OK. Figure	13375
 ORGANISATIONAL SIZE Figure	1940
 OTI BONO Figure	582
 Oceania. Figure	10840
@@ -488,17 +536,25 @@ Opérateur. Figure	10975
 Organization Address Figure	11129
 Organization Figure	11129
 Outgoing Incoming Total Figure	3862
+Ouvrir Figure	13375
+Ouvrir QGIS Figure	13375
 Oﬃcer Figure A.1	8603
 P Figure	582
 P0301.4 LIST OF FIGURES Figure	11192
+PDF Figure	13375
+PDF. Figure	13375
 PERFORMANCE INFORMATION Figure B	11250
 PFMA REPORT No Figures	11250
 PFS Figure	10985
+PIM. Figure	13331
 PIN. Figure	4439
 PIT Project Implementation Team Figure	582
 PMT Project Monitoring Team Figure	582
 POM. Figure	10829
 PSU Primary Sampling Unit Figure	582
+PV Figure	13375
+Par Excel Figure	13375
+Parcelle Validée Figure	13375
 Participation and Demographics FIGURE	12214
 Percentage of Poor Covered Figure	10985
 PforR. Figure	10975
@@ -516,9 +572,13 @@ Programme Figure	11228
 Prosperity Insight Figure	10785
 Protest Figure	7886
 Public Health Figure	12508
+Puis Exécuter Figure	13375
+Pull Figure	13375
 Q2 Figure	1013
 Q3 Figure	1944
 Q4. Figure	12062
+QGIS Figure	13375
+QGIS. Figure	13375
 QUADRO DE FIGURAS Figura	2138
 QUALIFICATIONS Figure	1940
 REFERENCIAL ESTRATÉGICO Figura	11397
@@ -533,8 +593,10 @@ Referencial Estratégico Figura	11396
 Refugees Figure	10841
 Regional Refugee and Internally Displaced Persons Figures	10841
 Registrations Fig	1554
+Registre Foncier Figure	13375
 Renewable Energy Imports Thermal Figure	12256
 Research Area Fig	1554
+Research Department Figure	13532
 Reserve Bank of Zimbabwe Figure	940
 Results Figure	8022,414
 Retail Institutional Figure	6408
@@ -560,6 +622,7 @@ STATISTICS SYSTEMS OF Figure	12138
 SUBSCRIPTIONS Figure	6000
 SYSTEMATIC STAGE FIGURE	12214
 Sahel Fig	6959
+Satellitaire Figure	13375
 School Figure	12431
 Sector Figura	11574
 Serviços de Internet Figura	11574
@@ -583,11 +646,14 @@ T AND SCORING METHOD FIGURE	11156
 TABELAS E FIGURAS Tabelas Tabela	2816
 TABLE OF CONTENT LIST OF FIGURES	718,10510
 TABLE OF CONTENTS LIST OF FIGURES	6671
+TABLE OF TABLES AND FIGURES Table	13685
+TIC Fig. II.1 Cinq	13341
 TRENDS IN IDENTIFICATION FOR DEVELOPMENT Figure	10714
 Table of Contents Table of Figures	12376
 Table of Figures Figure	12376
 Taxes Figure	10976,1370
 Telesol Figure	2776
+Text Figure	13624
 Theoverallsystemarchitectureisillustratedin Figure10	8606
 ToT FIGURE	13095
 Training and Skills Development. Figure	1243
@@ -596,6 +662,7 @@ U Gre W Figure	2776
 UEMOA. Figure	10712
 UMC. Facts and Figures	11424
 UN Department of Field Support Figure	11552
+UN SEUL CODE DOIT FIGURER DANS	13300
 UNFILLED POSITIONS Figure	1940
 UNIMA FIGURE	13095
 Uganda. Figure	11964
@@ -606,6 +673,12 @@ Urban Areas Figure	10763
 Urban REPUBLIC OF ZAMBIA Figure	12431
 V Figure	12256
 VACANCIES Figure	1940
+VI.2 Fig. VI.3 Fig. VI.4 Fig	13341
+VI.5 Fig. VI.6 Fig. VI.7 Fig	13341
+VI.8 Fig. VI.9 Fig. VI.10 Fig	13341
+Valider Figure	13375
+Voir Figure	13375
+Voir la Figure	13375
 Volume de Negócios TELECEL ORANGE Figura	11574
 Voz Figura	11574
 WHO. FIGURE A.1 THE COMPONENTS	1009
@@ -617,8 +690,11 @@ Workers Trained Figure	10976
 World Bank Client Connection. Figure	10768
 World Bank World Development Indicators Figure	10856
 World Bank. Figure	11874,7
+World Development Indicators Figure	13314
 World Figure	1828
 XMLfiles. Figure6	8606
+Y. Figure	13375
+YTD Figure	13532
 Year Figure	12151
 Year..............................7 Figure	10718
 Year........11 Figure	10718

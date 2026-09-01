@@ -1,7 +1,9 @@
 ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ACRONYMS ACRONYMS AI AIA API DCI	11156
+AML Anti-Money Laundering API Application Program	13312,2
 API Application Programming Interface	11944
 API Application Programming Interface AU African	12512
+API Application Programming Interface BOZ Bank	13347
 API Application Programming Interface DPI Digital	13076
 API Authentication APIs	11952
 API Calls	4528,7984
@@ -48,7 +50,7 @@ API-based	710,4138,1539,926,1119,3927,41,637
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
-API-driven	4973,1174,2285,4610,34,109
+API-driven	4973,1174,2285,4610,34,109,356,48
 API-first	2522,2602
 API-integrated	10718
 API-integration	5230
@@ -67,6 +69,7 @@ APIFA	9333
 APIN's Dr. Olaposi Olatoregun and US CDC	9444
 APIX-SA	7106
 APIs Close	6387
+APIs Elastic	13676
 APIs National	4848
 APIs. Driving	4528,7984
 APIs. ISO	10721
@@ -74,6 +77,7 @@ APIs. MVola	2633
 APIs. Payment	7173
 APIs. Service	10721
 APIs. South Africa	6593
+APIs. Taxpayer	13624
 APIs. The GSB	2112
 APIs4	12021
 Access API	10721
@@ -111,6 +115,7 @@ Building Blocks. Additional APIs	6423
 CAIMEx One API	5226
 CKAN API	2258
 Carolina Glasserman Apicella of DataGénero	7151
+Cette API	13306
 Companies API Application Programming Interface	4214
 Custom API	6423
 DHIS2 API	12754
@@ -128,11 +133,15 @@ Ecobank’s APIs	8341
 Establish API	11133
 Expérience API Government Platforms	12043
 External API	11952
+FDMS Fiscal Device API Gateway	13606
 Facebook Graph APIs	592
+Fiscal Device API Gateway Requirements Specifications	13606
+Fuel Fiscal Device Gateway API	13606
 GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
 GSMA Open Gateway APIs	5820
 GSMA Open Gateway APIs Revenues	6593
+Gemini API and Google AI Studio	13461
 GitHub API	12478
 GovStack Digital registries BB Data API template-1.3.0.json	6423
 Government APIs	8449
@@ -142,6 +151,7 @@ INRIS API	12453
 INRIS API Manager	4378
 Implement API	6432
 Imposing API and PNR	10723
+Informatique Médicale API Application Programming Interface	13306
 Integration and API Requirements	13037
 JSON API	7885
 JSON JSON API	9480
@@ -158,7 +168,7 @@ Network-layer APIs	6593
 None APIs	12270
 None. APIs	12269
 Open API	6423
-Open APIs	7596,4763
+Open APIs	7596,4763,955
 Open APIs and Protocols	3861
 Open Gateway API	6593
 OpenAI API	11578
@@ -174,6 +184,7 @@ REST APIs	7266
 RESTful API	9603
 RESTful APIs	6432,6711,42
 RESTful. API Gateway	12419
+Reddit's Data API	13461
 Registry APIs	6423
 Regulated APIs	10719
 Requires APIs	12444
@@ -195,9 +206,11 @@ Through the API	12490
 Trade Area AI Artiﬁcial Intelligence API	12674
 Truth API	9832
 Twitter API	8436
+Une API	13306
 Unified API	5226,5983
 Use of Open APIs All	6432
 VSDC API Specification Item Classification Codes	12454
+Vertex API	13461
 WDS API	579,649,2553,872,6483
 Web APIs	12693
 World Bank Documents API	980

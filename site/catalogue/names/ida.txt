@@ -19,7 +19,7 @@ Compte de Programme IDA	10876
 Country Director Idah Z. Pswarayi-Riddihough	761
 Current Proposed IDA-71820-001	1228
 Cyclone IDAI	2667
-Cyclone Idai	940
+Cyclone Idai	940,12480
 DC. World Bank. IDA17 Scale-Up Facility	10997
 Department ICT Information and Communication Technology IDA	1264
 Digital Specialist Ida S Mboob Senior	3456
@@ -34,6 +34,7 @@ FIN SUMM OLD Financing Source Amount IDA-D3170	11525
 FM IDA’s FM	3604
 Financial Statements of IDA Grant H5130	11525
 Fund Flows Diagram IDA Account	3604
+Funds Flow IDA Special Commitments and Directs	13331
 Funds IBRD IDA Grants Net	4653
 GRM GSMA IA ICT IDA INDG	1228
 Global Partnership for Education Fund IDA Resources	11905
@@ -41,21 +42,24 @@ GovNet GRM IDA IDEMOC INAGE INCM	4653
 Government of Malawi and IDA	8399
 Grant No. IDA-E2020-001	7951
 HDA and IDA	9123
+Human Development IDA International Development Association	13332
 IBRD Amount IDA	11417
 IBRD Loan and IDA Credits and Grants	10964
-IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1
 IBRD and IDA and Grants	6539
 ICT International Competitive Selection IDA Information	11855
 ID Identification IDA International Development Association	1284
 IDA Article V	11549
 IDA Audrey Anne Alexandra Ariss Project	1284
-IDA Credit	1264,989,1351,7359,562,380,60,447,257
+IDA Credit	1264,989,1351,7359,562,380,60,447,257,663
 IDA Credit IDA Resources	10964,891
 IDA Credit Non-World Bank Group Financing	3456
 IDA Credits and Grants	1264
 IDA Crédit N	1178
 IDA Dans	10876
+IDA Description Disbursement Schedule	13331
 IDA Description Disbursement Under Category	10964
+IDA Description Effectiveness Section	13331
 IDA Disbursement Schedule	11560
 IDA Disbursement Section IV. C	11905
 IDA ECOWAS	1264
@@ -68,12 +72,14 @@ IDA Effectiveness the Loan Agreement of Effectiveness	11417
 IDA Entity	10768
 IDA FA	10829
 IDA FM M Entity	3604
-IDA Financing	1264
+IDA Financing	1264,12067
+IDA Financing Agreement	13332
+IDA Financing Gap	13331
 IDA Financing Gap DETAILS	10963
 IDA Financing Gap Total Amount DETAILS	10964
 IDA GRANT Direct	11855
 IDA General Conditions	11855
-IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279
+IDA Grant	761,503,20,420,163,424,598,673,7267,696,35,577,695,279,220
 IDA Grant H9080	11525
 IDA Grant IDA Shorter Maturity Loan	11905
 IDA Grants	1264
@@ -92,17 +98,20 @@ IDA PSW US	11310
 IDA Page	1264
 IDA Phase	1572,132
 IDA Private Sector Window	2214,6723,1,2372
+IDA Project	13331
 IDA RSW IDA RHW NGR	11900
 IDA Recommitted	12388
-IDA Resources	1264,20,583,1022,673,7267,731,405
+IDA Resources	1264,20,583,1022,673,7267,731,405,1367
 IDA SAA	1264
 IDA SUW-SML	11905
 IDA Scale-Up Facility	10997
 IDA Scale-Up Window	3604,176
 IDA Scale-Up Window-Shorter Maturity Loan	11905
 IDA Schedule	11549
+IDA Section	13331
 IDA The Additional Conditions of Effectiveness	6539
 IDA The Guarantee Agreement	6539
+IDA The Project Implementation Manual	13332
 IDA The World Bank Guinea-Bissau Human	11560
 IDA Total Amount Financing Gap	11855
 IDA US	543,218,1493,1350,3150,2229,1846,481,827
@@ -114,9 +123,11 @@ IDA Window for Host Communities and Refugees	1290,10634
 IDA and GPE	11905
 IDA and Horizontal	9123
 IDA and IBRD	11468,1
+IDA and MDTF	13332
+IDA and Multi-donor	13332
 IDA and Page	11905
 IDA and Trust Fund PforR	11905
-IDA and US	11905,19,464
+IDA and US	11905,19,464,944
 IDA for DTfA	1178
 IDA the Association	1867
 IDA the Bank	10768
@@ -161,10 +172,11 @@ IDA. Looking	12980
 IDA. Page	11525
 IDA. The IDA	9123
 IDA. Type	1993
+IDA.worldbank.org	13431
 IDA18 Private Sector Window	287
 IDA18 Refugee and Host Community	11924
 IDA18 WHR	10841
-IDA19	579
+IDA19	579,12752
 IDA20	1264,603
 IDA20 PSW. Risks	1135
 IDA20 Window for Host Communities and Refugees	1778,1917
@@ -179,6 +191,7 @@ IDAS. The Task Force	10819
 IDAS13	10819
 IDAs. Horizontal Distribution Area	9123
 IDAugust	3303
+IDAworks Contacts	13431
 Ida S Mboob Approved By Practice	3456
 Idade	4044,6716,17,610,34,156
 Idade Urbana Masculino Feminino Total Rural	10777
@@ -186,6 +199,7 @@ Idadi	2868,3151,3357
 Idah Pswarayi-Riddihough	10977
 Idah Z. Pswarayi-Riddihough Country Director	2474
 Idah Z. Pswarayi-Riddihough Regional Director	12781
+Idah Zulu PIC Member	13392
 Idaho	4669
 Idaho National Laboratory	9015
 Idaho-based PayServices	4669
@@ -214,6 +228,7 @@ NS IDA	4260
 National IDA	1264
 Nations Children's Fund WHR IDA Window	11924
 Overview. World Bank. IDA19 Replenishment Report	10997
+P180987 DON IDA N	13567
 PRODIGY's World Bank IDA	3497
 PforR IDA Amount Other Amount Estimated	3604
 Project Components IDA GFF Total Component	10829
@@ -229,15 +244,18 @@ Republic of Congo. World Bank IDA-19 and IDA-20	11905
 Retrospective. World Bank. IDA18 Scale-Up Facility	10997
 SAA and ECOWAS Commission. IDA	1264
 SSRLP Key Project Data IDA	12980
+Satellite IDA IDH ITU ISABU ISO	13290
 Seraphin Kientega Ms. Idani	10845
 Service Providers IDA Transfers	10829
 Spectrum INS IDA	4260
 Sub-Saharan Africa IDA	3604
 TF IDA-67920-001	11965
+TF073377. The IDA-	13332
 Technology ID Identity Card IDA International	2775
 Through IDA	12245
 Tuesday. Idarati X.0	4995
 Undisbursed IDA	2989
+Unguaranteed Commercial Financing IDA Resources	13331
 Usage Gestionnaire Fonds IDA	10876
 Uíge IDALINA DOMINGAS INÁCIO	10751
 Victor Idajili	10270
@@ -246,6 +264,7 @@ WB IDA USD	607
 WCD IDA-eligible	11310
 Within the Idarati X.0	5009
 World Bank Group's IDA Private Sector	3984
+World Bank Group’s IDA19 Commitments. DIGITAL	13312,2
 World Bank IDA	5484,16
 World Bank IDA USD	473
 World Bank IDA and AFD	473

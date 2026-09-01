@@ -14,9 +14,13 @@ HL7 CDA R2	1009
 HL7 CDA R2 Consent	1009
 HL7 CDA Release	1009
 HL7 Context Management	1009
-HL7 FHIR	1009,2376,5218,1428,157,740
+HL7 FHIR	1009,2376,5218,1428,157,740,2750
 HL7 FHIR Basic Patient Privacy Consent	1009
+HL7 FHIR IG Publisher	13471
+HL7 FHIR Implementation Guide	13471
 HL7 FHIR R4 Tracking	1009
+HL7 FHIR R5	13471
+HL7 FHIR. Des	13568
 HL7 FHJR	1009
 HL7 Fast Healthcare Interoperability Resources and HL7	12581
 HL7 HNSF Enterprise User Authentication European	1009
@@ -75,12 +79,14 @@ Nathi Hlophe	5450
 Nhlangano and Hluthi. Citizens	5121
 Nhlangano and Hluti. Citizens	13116
 Nozipho Hlophe	8597
+Ordinateur HD Hôpital de District HL7 Health	13306
 Patient Identifier Cross-referencing for HL7v3 PIXm Patient	1009
 Patient Identifier HL7v3	1009
 RFC5646 HL7 CDA R2 ISO	1009
 RFC5646 HL7 CDA R2 ISO2260 PDF	1009
 Reference Hlase2018	2117
 Senior Management Stakeholder Manager Ms. Hleliwe	12969
+Sipho Hlazo	13328
 South HL7 Africa HNSF International Statistical	1009
 Tengetile Hlophe	1994
 Thabo Hlalele CSIR	11953
@@ -88,3 +94,4 @@ V Hluthi	13054
 Velenkosini Hlabisa	8375,472
 XDS Metadata HL7 Version	1009
 XDS. HL7 FHIR	1009
+ZM-Core HL7	13471

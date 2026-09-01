@@ -1,4 +1,5 @@
 ACRONYMS CSO Civil Society Organization DNHA	12964
+African DNA	13407
 Avis DNCMP J	10876
 Big Data Analytics DNS	958
 CEC CEC CFL CNEPT DME DNASE	10766
@@ -60,13 +61,13 @@ DNRE National Directorate of State Revenue	11965
 DNREL	10753
 DNRN Direcção Nacional	10765,10
 DNRN National Directorate of Registries and Notary	4214
-DNRPC	1879,10536
+DNRPC	1879,10536,1002,8,183
 DNS Registrar	736
 DNS Security and Stability	6738
 DNS Technologies	6402
 DNS Technologies Ltd	6402
 DNS Technologies' Africa	6402
-DNS and IXP	958
+DNS and IXP	958,12337
 DNS-over-HTTPS	427,143,6,198,247,123,1523,667,1398,208,2598
 DNS-resolved	2145
 DNS. Cependant	4210
@@ -76,14 +77,19 @@ DNSAE	3868,1372
 DNSAN	10763
 DNSI and DPRI	6593
 DNSI-CPS	9553
+DNSIS	13300
 DNSP Direcção Nacional de Saúde Pública CPD	11376
 DNSP East	11417
 DNSP and EPI	11401
-DNSSEC	1036,3160,14,9,2519,2771,1212,43,230
+DNSSEC	1036,3160,14,9,2519,2771,1212,43,230,2301
 DNSSEC Roadshow	4196
 DNSSEC Validation Across National Internet	4219
 DNSSI	1185,253
 DNSSI-V.2	1438
+DNT Fund	13462
+DNT Fund Adjudication Committee. Mainstream Publishers	13462
+DNT Fund and AI Innovation Funding	13462
+DNT Fund. DNT Funding	13462
 DNTIEN	6858
 DNUBR	2738
 DNV KENYA LIMITED Data Controller INST-786005C16BE	7167
@@ -102,6 +108,7 @@ EPI and DNSP	11401
 Editorial Board Chair of DNN	8522
 Etudes Universitaires Générales DNESRS Direction Nationale	12
 Fisheries DNA Deoxyribonucleic	11188
+Fund the DNT Fund	13462
 Improved DNS	4219
 Intervenants Tâches Délai DNCMP Analyse	10876
 La DNCMP	10876
@@ -122,7 +129,9 @@ Senegal DND	3598
 Service Beacon Identi- DNA DNA DNA	6946
 Site da DNRE	12018
 Structure of DNSSI	1185
+System DNSSEC Domain Name System Security	13295
 Telone Join ICANN and INTERPOL for DNS Security	6909
+Top Level Domain DNS Domain Name	13295
 Traitement des DNA	3396
 Transparency And Accountability DNEMIS URL	12061
 WAT DNN FactCheck	8522
