@@ -7,9 +7,7 @@ status: draft; placement undecided
 
 # The life of a document — draft
 
-*(Working draft, written to Bill's commission of 2026-08-31 — `prep/workflow.md` → Next → "methodology: trace history of 1 document from search to output." Not yet placed. Two options were left open: append it to `content/methodology.md`, where `scripts/methodology.py` already renders it and no renderer changes — or give it `content/methodology-journey.md` and its own URL at `/methodology/journey/`, which costs a render entry and is a feature under the freeze. Nothing below assumes either.)*
-
-*(The worked example is real and every hop was checked in the tree on 2026-08-31; the verification note at the end says how. Three things want a decision before publication — see* Before this is published *at the foot.)*
+*(Working draft for the methodology section — `prep/workflow.md` → "methodology: trace history of 1 document from search to output". Placement undecided: a section of `content/methodology.md`, which needs no renderer change, or its own page at `/methodology/journey/`, which does. Every hop below was checked in the tree on 2026-08-31; the verification note at the foot says how, and* Before this is published *lists three things to settle first.)*
 
 ---
 
@@ -17,60 +15,49 @@ status: draft; placement undecided
 
 ### One document
 
-On the evening of 29 August 2026, a Somali news site published a short report that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.
+On the evening of 29 August 2026, a Somali news site reported that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.
 
-The next day it was a linked claim in three published documents on Corpus: a line in Somalia's monthly update, a row in Somalia's progress report, and an entry in that day's bulletin. This is what happened in between, and what each process in the chain was for.
+The next day it was a linked claim in three Corpus documents: a line in Somalia's monthly update, a row in its progress report, and an entry in that day's bulletin. This is what happened in between.
 
 ### It is found, not received
 
-Nothing arrives in Corpus without a search.
+Nothing arrives in Corpus without a search. The looking is done by a **sweep cycle** working one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for the last 36 hours. The rest take turns — newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country and regional research on a third. (Budgets, expenditure and audits will be a fourth.)
 
-The looking is done by a **sweep cycle** that works one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for items published in the last 36 hours. The rest take turns: national newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country research and regional institutions on a third. (National budgets, expenditure and audits will soon be added as a fourth.) The Somalia report was caught by the **off-list sweep**, the half of the daily run that searches the open web rather than a list, because the publisher, Dawan Africa, is on no standing list.
-
-Two kinds of sweep ask two different questions. The list sweeps work a **window** — what did this domain publish between the last run and now, with a day of deliberate overlap so a story indexed late is caught next time rather than lost. The content sweeps ask instead what has appeared since they last ran, however long ago that was. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.
+The list sweeps work a **window**: what this domain published since the last run, with a day of overlap so a story indexed late is caught next time. The content sweeps ask what has appeared since they last ran, however long ago. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.
 
 ### Two ways of looking
 
-The searching and fetching are done through [Exa](https://exa.ai/), and it is used in two quite different modes depending on whether the target is a *place to look* or a *thing to find out*. (The donor-finance sweep is the exception to both: it reads IATI's own datastore through its API, because donors' structured reporting is not something to search for.)
+Searching and fetching go through [Exa](https://exa.ai/), in two modes, depending on whether the target is a *place to look* or a *thing to find out*. (The donor-finance sweep is the exception: it reads IATI's datastore through its API.)
 
-**Standard search**, where the target is known. A query scoped to a single domain and bounded by the run's dates, run once per source, in that source's own language. This is what the trade-journal, newspaper, academic-journal and think-tank sweeps use. Its real virtue is not precision but the hard scope: a domain-scoped query *cannot* return anything from off the list, which is what makes the list a boundary rather than a preference. Alongside it, a separate fetch call retrieves each page so the full text can be stored.
+**Standard search**, where the target is known — a query scoped to one domain, bounded by the run's dates, in that source's own language, with a separate fetch call to retrieve the page. Its virtue is hard scope: such a query *cannot* return anything from off the list, which makes the list a boundary rather than a preference.
 
-**Agent mode**, where the target is a topic. Instead of a query string, the Agent is handed a written brief — what to look for, over what period, what to prefer, what to leave out — and composes and follows its own searches, at a stated effort level. This is what the open-web sweep uses, and what the four per-country research briefs, the regional and institutional briefs and the financier briefs all run on. It finds material a query would not, because it can follow a lead: a strategy document mentioned in passing, a critique of a programme published somewhere nobody would have thought to look. The Somalia report came in this way — Dawan Africa is on no list, so no domain-scoped query would ever have been pointed at it.
+**Agent mode**, where the target is a topic — no query string but a written brief, from which the Agent composes and follows its own searches. This is what the open-web sweep runs on, and the per-country, regional and financier briefs. It finds what a query would not, because it can follow a lead. The Somalia report came in that way: Dawan Africa is on no list.
 
-The cost of that reach is that it cannot be fenced. There is no hard domain exclusion in a brief, so anything the brief says to avoid is guidance rather than a filter, and the screening moves downstream to staging and admission. Two rules follow, and both are absolute:
+A brief cannot be fenced, so two rules are absolute. **Nothing the Agent writes is ever stored** — its output is a synthesis, exactly the second-hand material the base refuses, so its job ends at discovery. **And its dates are not evidence**: every publication date is re-established from the fetched page.
 
-- **Nothing the Agent writes is ever stored.** Its output is a synthesis — exactly the second-hand, already-compressed material the base refuses on principle. The Agent's job ends at discovery: every candidate it surfaces is then fetched, verified and stored as the source's own full text. A stored body that is the Agent's summary of a document, rather than the document, is a defect.
-- **The Agent's dates are not evidence.** Every publication date is re-established from the fetched page itself. A date taken from a search result is how an item from outside the window gets in looking as though it belonged.
+### It is screened, then stored
 
-Before anything is fetched, the candidate's **origin** is screened — not what it says, but where it came from. A domain that fabricates, rewrites without attribution, or launders someone else's reporting under its own byline is on a drop list and is never collected, however plausible the individual story looks. This is a separate test from whether the story is any good, because a hostile origin produces items that are fluent, correctly dated, on-topic and specific enough to publish straight onto a page. It cannot be caught by reading them.
+Before anything is fetched, the candidate's **origin** is screened — where it came from, not what it says. A domain that fabricates, rewrites without attribution or launders others' reporting under its own byline is on a drop list and is never collected. It has to be a separate test: a hostile origin produces items fluent and specific enough to publish straight onto a page.
 
-What is fetched is the document's **own words, in full**. Not a search-result excerpt, not a summary, not a machine translation. Where a page yields only part of itself the capture is flagged as partial rather than quietly patched, and a fuller capture of the same story later displaces it. The stored text is what makes every downstream claim checkable; it is also why the store is private.
-
-At this point the item is a *candidate*. It is written to a staging folder and nothing else has happened to it. A sweep can only stage: it cannot write to the archive and it cannot touch a wiki page. There is exactly one door into the base, and a sweep is not it.
+What is fetched is the document's **own words, in full** — never an excerpt, a summary or a machine translation. That stored text is what makes every downstream claim checkable, and it is why the store is private. A sweep can only stage a candidate: it cannot write to the archive or touch a wiki page.
 
 ### It is admitted, or it is not
 
-**Ingest** is that door, and it runs once at the end of the cycle over everything the sweeps caught.
+**Ingest** is the one door, and it runs once at the end of the cycle. Four dispositions: admitted to the archive; turned into a **contradiction brief**, because it disagrees with something held; turned into an **acquisition line**, because the real document is the gazette it mentions rather than the story about it; or deleted. Leaving the queue is not the same as being admitted. Budget documents take a fifth route, to structured extraction.
 
-Every item gets one of four dispositions. It is admitted to the archive; or it is turned into a **contradiction brief** because it disagrees with something already held; or it is turned into an **acquisition line** because the real document is the gazette it mentions rather than the story about it; or it is deleted. An item can produce a brief or a line *and* be deleted — leaving the queue is not the same as being admitted. Budget documents take a fifth route to a separate extraction pass, since a 300-page appropriation act is not a news item.
+Duplicates are refused in three tiers, cheapest first: an exact URL match against everything held, a narrow comparison against sources of similar date and place, then — on the small residue only — a judgement about whether this is genuinely a new event. Sources that *disagree* about one event are never duplicates.
 
-Duplicates are refused in three tiers, cheapest first: an exact URL match against the index of everything already held, then a narrow comparison against sources of similar date and place, then -and only then, on the small residue - a judgement about whether this is genuinely a new event. Sources that *disagree* about the same event are never treated as duplicates; that is the contradiction route.
-
-Admission also produces the document's **one sentence**: a bolded claim about a dated development in a place, with the specifics after it. This sentence is written once, on the source itself, with the full text in hand. Everything downstream assembles it; nothing rewrites it. A source that earns no such sentence is still held in full — it simply makes no claim on a country page, and the refusal is recorded with its reason rather than left blank. Historical material brought in to build a baseline is handled in a separate lane and earns no sentence by rule: an old document arriving late is a baseline, not news.
+Admission also produces the document's **one sentence**: a bolded claim about a dated development in a place, written once, on the source, with the full text in hand. Everything downstream assembles it; nothing rewrites it.
 
 The Somalia report was admitted on 30 August. It was also a contradiction.
 
 ### The disagreement, and what settled it
 
-Corpus already held a January 2026 record that Somalia's parliament had approved a Cybersecurity Law, and its pages said so. A bill at first reading in August cannot easily be squared with a law approved in January.
+Corpus held a January 2026 record that Somalia's parliament had approved a Cybersecurity Law, and its pages said so. A bill at first reading in August cannot easily be squared with that.
 
-Ingest does not settle this. It files the conflict, marks the affected pages, and writes a brief stating the claim, each competing value, who asserts each, and which sources are actually held. The separation matters: the pass that spots a conflict is reading one document, and the pass that settles it needs to go and find evidence.
+Ingest does not settle it: it files the conflict and writes a brief — the claim, each competing value, who asserts each, which sources are held. The pass that spots a conflict is reading one document; the pass that settles it has to go and find evidence. The **reconcile pass** did that on the same run and found two primaries: the regulator's own statement of the January vote, and the Senate's published account of its legislative procedure. January was passage by the lower house alone; a bill becomes law in Somalia only after Upper House readings, presidential signature and gazette publication.
 
-The **reconcile pass** did that on the same run. It went looking for primaries and found two: the regulator's own contemporaneous statement of the January vote, and the Senate of Somalia's own published account of its legislative procedure. Both were fetched, stored in full and admitted as sources in their own right — research notes are never kept, only documents. Read together they settled it: January was passage by the lower house alone, and a bill becomes law in Somalia only after Upper House readings, presidential signature and gazette publication.
-
-So the correction was not that the January record was wrong, but that Corpus had been reading it as more than it said. The pages now carry the corrected position, dated, with the January reading annotated rather than deleted — and with an explicit statement of what is still not established: no gazette record is held either way.
-
-A contradiction gets one attempt. Where research cannot settle it, the finding is written onto the page it bears on — dated, and honest about what is not known — and the brief is closed. Nothing is parked. The acquisition queue works the same way: one automated attempt at each named document, including asking the Internet Archive before concluding that a site published nothing, and then either the document is held, or — where it bears on a particular page — its absence is stated there with the date it was searched for.
+So the January record was not wrong — Corpus had been reading it as more than it said. The pages carry the corrected position, dated, and the gap stated: no gazette record is held either way. A contradiction gets one attempt, and where research cannot settle it, what is not established is written onto the page it bears on. Nothing is parked.
 
 ### It is classified
 
@@ -82,75 +69,53 @@ Classification happens at admission, with the document's full text in hand, and 
 
 A value outside a vocabulary is rejected rather than accepted and noted. That refusal is the whole basis on which any count on the site means anything.
 
-Three decisions in that scheme are worth stating, because they are where classification usually goes wrong:
-
-- **Multi-tagging, not a polyhierarchy.** Cross-border data is both data exchange and regional collaboration; cybercrime law is both cybersecurity and legislation. Rather than let a topic have two parents, the tree stays single-parent and the *document* carries both slugs — so "everything in Governance" is still a clean roll-up rather than a set of overlapping ones.
-- **Blocs are entities, not places**, because place is geographic. The AU, ECOWAS and SADC are actors: the Malabo Convention tags to the African Union plus the countries it reaches, not to a region. And a region code is earned by the development, not by the cast list — a regional body's own act, a system spanning three or more of its countries, or an analysis of the region itself. One company operating in five markets is five national facts, not a regional one.
-- **Entities are tagged and never given pages.** Tagging is a finished state, not a page deferred. Entity pages were tried and retired: maintaining them cost more than the depth was worth, and nothing is lost, because the name sits in the stored text and the archive can be searched. When an actor starts to matter, you go and look.
+Two decisions are where this usually goes wrong. **Multi-tagging, not a polyhierarchy**: rather than give a topic two parents, the tree stays single-parent and the *document* carries both slugs, so "everything in Governance" is still a clean roll-up. **Blocs are entities, not places**, because place is geographic — and a region code is earned by the development, not by the cast list.
 
 ### The wiki is what the classification builds
 
-An archive of classified documents is still not a thing anyone can read. The wiki is the compiled layer that makes it one, and it is three kinds of page, each a different cut of the same evidence:
+An archive of classified documents is still not something anyone can read. The wiki is the compiled layer that makes it one — three kinds of page over the same evidence:
 
-- **62 place hubs**, one per country and region. A compiled *Recent developments* section, with the standing account of the place written around it.
-- **38 topic pages**, one per Level-2 topic. Not a list of what happened, but the argument — what is true of the topic once it is lifted off the country it came from.
-- **599 intersections**, a place crossed with a topic, where there is sufficient material on that place and topic to require a page of its own.
+- **62 place hubs**, one per country and region: a compiled *Recent developments* section, with the standing account of the place written around it.
+- **38 topic pages**, one per Level-2 topic: not a list of what happened, but the argument — what is true of the topic once it is lifted off the country it came from.
+- **599 intersections**, a place crossed with a topic, where there is sufficient material to require a page of its own.
 
-62 places against 38 topics allows more than two thousand intersections; 599 exist. That is the design, not a backlog. The wiki is built to depth on demand — deep where there is active work, thin elsewhere. Somalia has eight. A thinly covered country is the correct state for a country nobody is asking about, and it is why collection intensity should never be read as a measure of a country's own activity.
+62 places against 38 topics allows more than two thousand intersections; 599 exist. That is the design, not a backlog: the wiki is built to depth on demand, so a thin country page reflects what is being asked of the base rather than how quiet that country is.
 
-Three compilers keep the wiki in step with the archive. The **hub compiler** rebuilds each place's *Recent developments* from the one-sentence claims on the sources themselves — a derived view, rewritten between markers, unchanged by being run twice. The **topic pages** are updated by a pass that opens each page once for a whole run's catch rather than once per item, because writing per item produces accretion where a batch produces synthesis. The **financing sections** are recomputed the same way whenever a finance record is admitted.
+All three are compiled from the sources rather than written into, so running a compile twice changes nothing.
 
 ### Why the classification is the product
 
-Facets are not description; they are the join. Everything Corpus publishes is a query over those three values, which is why the same evidence can be presented five ways without being written five times.
+Facets are not description; they are the join. Everything Corpus publishes is a query over those three values, which is why the same evidence appears five ways without being written five times.
 
-The Somalia report was classified in five values: place `SOM`; subjects `gov.legislate` then `infra.cybersec`; entities the cybersecurity law and the Senate. Everything that happened to it afterwards followed from those, and nobody decided any of it document by document. It appears on Somalia's hub because of the place, and on both topic pages because of the topics. Its detail landed in `somalia--gov-protect`, the intersection holding that country's legal stack. The ledger row it moved takes its chapter in the report — *Governance* — from `gov.legislate`'s parent in the taxonomy. The bulletin filed it under *Legislation and regulation* and cross-referenced it from *Cybersecurity*, because the first slug is the primary topic. The progress-report row it answers is Somalia × legislation and regulation × cybersecurity legislation, one of a fixed frame of questions that can only be asked at all because every record carries a topic. And the catalogue lets a reader filter to exactly that intersection and find it.
+The Somalia report carried five: place `SOM`; topics `gov.legislate` then `infra.cybersec`; the cybersecurity law and the Senate as entities. Everything that followed came from those five, none of it decided document by document. It reached Somalia's hub, both topic pages, and `somalia--gov-protect`, the intersection holding that country's legal stack. Its ledger row takes its chapter in the report — *Governance* — from `gov.legislate`'s parent. The bulletin filed it under *Legislation and regulation* and cross-referenced it from *Cybersecurity*, because the first slug is the primary topic. The progress-report row it answers is Somalia × legislation and regulation × cybersecurity legislation. And the catalogue lets a reader filter to exactly that intersection.
 
-Alongside all of this a **lint pass** runs. Most of its thirty-odd checks fix rather than report: filling a missing field, correcting a slug to its controlled value, renaming a file whose date prefix is wrong, rewiring a dead link, finding the real document URL behind a bare domain. Everything is in version control, so a wrong automatic fix is a revert. Where a check cannot have one correct action — a genuine conflict between sources, an item stranded in the queue, a vocabulary value nobody has ruled on — it reports instead of guessing. A separate retention pass ages out the worklists, so no queue survives by being forgotten.
-
-The cycle closes with a commit, an account of the run, and a copy of the whole repository to the machine that publishes.
+A **lint pass** runs alongside. Most of its thirty-odd checks fix rather than report — a missing field, a drifted slug, a wrong date prefix, a dead link — and everything is in version control, so a wrong fix is a revert. Where a check cannot have one correct action, it reports rather than guesses. The cycle closes with a commit and a copy of the repository to the machine that publishes.
 
 ### The second machine reads it
 
-The publishing side reads the evidence and not the working: the archive, the vocabularies, the compiled wiki, and the account each closed cycle writes of itself. It cannot write into the collection repository at all. Where something there needs changing — a corrected path, a document worth chasing, a note for the queues — it is written to a shared folder outside both repositories and carried across by hand. The site is a derived view of the base, and a derived view that writes to its source stops being derivable.
+The publishing side reads the evidence and not the working, and cannot write into the collection repository at all: anything it needs to send back goes to a shared folder outside both, carried across by hand. The site is a derived view of the base, and a derived view that writes to its source stops being derivable.
 
-The build first rebuilds what is purely mechanical: the **catalogue** of every record held, the **finance dataset**, the vocabulary snapshot, and a names index. Then it asks the question that needs judgement.
+The build rebuilds what is mechanical — the catalogue, the finance dataset, the vocabularies, a names index — then asks the question that needs judgement. For each country it lists the sources **not yet considered** (a set difference, not a date window, so an interrupted run resumes where it stopped) and reads each against that country's **ledger**: one row per named system or instrument, with a status, the event that fixed it, and the sources that establish it. The test for a row is whether a reader could name the thing and whether its position could be different next quarter.
 
-For each country the build lists the sources it has **not yet considered** — a set difference, not a date window, so an interrupted run resumes exactly where it stopped — and reads each one against that country's **ledger**. The ledger is the record layer: one row per named system or instrument, each with a status, the event that fixed it, and the sources that establish it. The test for a row is whether a reader could name the thing and whether its position could be different next quarter. *The National Radio Frequency Plan 2026* is a row; *cybersecurity of state information systems* is not.
-
-Most sources move nothing. That is the normal outcome, and it is the point of having a record layer at all: a report on systems is not an audit of news stories. The Somalia report moved one row — *Cybersecurity Law* — from a position that read as enacted to `In development, passed by the lower house and at first reading in the upper`, with the movement `Advanced`, the milestone *First reading in the Upper House, 29 August 2026*, and three sources behind it: the news report, the regulator's January statement, and the Senate's own procedure.
-
-A row that moves is then mapped into the **indicator frame** — a fixed list of 121 questions asked of every country, so that what appears in a progress report is decided in advance rather than by whichever records happened to accumulate. An indicator with nothing behind it reads *No evidence*, which is a finding rather than a blank.
-
-The same source is also asked one further question: does it change what the **status baseline** can say? A status report answers *where is this now* and carries no period. For most countries it has been written out in full from sources the base will never hold — a 1990 law, a founding statute — and from that point it is revised in place rather than rebuilt, because a rebuild from the ledger would destroy an authored baseline while reporting a successful build. For the remainder it is still rendered from the ledger like the other two documents.
+Most sources move nothing, and that is the point of a record layer: a report on systems is not an audit of news stories. The Somalia report moved one row — *Cybersecurity Law* — from a position reading as enacted to `In development, passed by the lower house and at first reading in the upper`. A row that moves is then mapped into the **indicator frame**, a fixed list of 121 questions asked of every country, so a progress report is shaped in advance rather than by whichever records accumulated; an indicator with nothing behind it reads *No evidence*, a finding rather than a blank.
 
 ### Three documents, one record layer
 
-The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree.
+The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree: the monthly renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the base will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
-The **monthly update** renders the rows whose newest record falls in the last month and a bit. The **progress report** compares each indicator's position at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly, and the monthly says so — an absence of movement is a finding, not an empty box.
-
-The status report sits outside that guarantee wherever it has been authored, which is the price of its being able to state things the archive does not hold. Keeping it in step with the ledger is a judgement made source by source, not something a script can assert.
-
-The **bulletin** is a different kind of document again, and deliberately so. It has no ledger, nothing derives from it, and it selects on a two-day window of *publication* — what the world published, not what Corpus happened to fetch. So a batch of genuinely new-to-us older material goes unreported there, and an empty window still produces a bulletin that says the window was empty and why. An absent bulletin and a build that did not run are otherwise the same thing.
-
-The Somalia item's three-sentence bulletin summary was written once, stored, and never rewritten. It appeared in the third edition cut on 30 August, under *Legislation and regulation*, with a Somalia box beside it and a cross-reference from *Cybersecurity* — an item carrying several topics is summarised in the first of them and pointed at from the rest, so the same text is never published twice in two wordings.
+The **bulletin** has no ledger and selects on a two-day window of *publication* — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 
 ### It is checked, then published
 
-Before anything is typeset, five checks run over each unit: every link resolves through the catalogue; every status and movement word is from the controlled list; no document claims to be compiled before its ledger moved; every stated position cites a source that resolves; and no narrative section was left unwritten. The first four are mechanical and each has one repair. The fifth is authoring: a section with nothing to say is either given the sentence explaining why, or removed. Where a position cannot be sourced at all, the answer is ***Not held*** with a line in the gap file — a finished outcome, not a blocked one.
+Five checks run over each unit before anything is typeset: every link resolves through the catalogue, every status word is from the controlled list, no document is stamped before its ledger moved, every stated position cites a source that resolves, and no narrative section was left unwritten. The first four are mechanical; the fifth is authoring. A position that cannot be sourced becomes ***Not held*** with a line in the gap file — a finished outcome, not a blocked one.
 
-Then the site is rendered: every report to HTML and to a dated PDF, the country and topic pages, the catalogue, the finance tables.
+**A published file is never revised.** An edition is cut when the content changes, not when a build runs, and two editions in a day take a `-2` suffix — the first is never renamed, because a citation may already rest on it.
 
-**A published file is never revised.** A new edition is cut when the content changes, not when a build runs — the renderer digests each document's body, reads back the digest from the page it wrote last time, and leaves an unchanged document alone. Two editions on one day take a `-2` suffix, and the first is never renamed, because a citation already rests on it. Every PDF carries the date it was cut and the address of the current edition, so an old file says what it is. The one document that behaves differently is the bulletin, whose *page* is refreshed even when its edition is held — freshness is itself news there, and *we looked and nothing was published* is a claim worth making. The dated PDF is still never rewritten.
-
-The Somalia material is in `SOM-monthly-2026-08-30.pdf`, in `SOM-progress-2026-08-30.pdf`, and in `corpus-bulletin-2026-08-30-3.pdf` — three citable files, cut that day, each linking the claim to Dawan Africa's own page.
-
-Elapsed, from the source's publication to Corpus's: a little over a day.
+The Somalia material is in `SOM-monthly-2026-08-30.pdf`, `SOM-progress-2026-08-30.pdf` and `corpus-bulletin-2026-08-30-3.pdf`, each linking the claim to Dawan Africa's own page. Elapsed, from the source's publication to Corpus's: a little over a day.
 
 ### Nobody is asleep at the wheel
 
-None of this is scheduled. Both cycles are started by hand, in a session someone is sitting in front of. Nothing polls a clock, nothing fires overnight on its own, and a quiet stretch on the site means nobody ran a cycle rather than that the world went quiet. What *is* automatic is what happens once a cycle is running: it does not stop to ask questions, it records what it decided, and everything it did is reversible.
+None of this is scheduled: both cycles are started by hand, so a quiet stretch on the site means nobody ran a cycle, not that the world went quiet. What *is* automatic is what happens once one is running — it does not stop to ask questions, it records what it decided, and everything it did is reversible.
 
 ---
 
