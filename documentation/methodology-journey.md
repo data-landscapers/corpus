@@ -5,27 +5,21 @@ last_reviewed: 2026-08-31
 status: draft; placement undecided
 ---
 
-# The life of a document — draft
+# The life of a document 
 
-*(Working draft for the methodology section — `prep/workflow.md` → "methodology: trace history of 1 document from search to output". Placement undecided: a section of `content/methodology.md`, which needs no renderer change, or its own page at `/methodology/journey/`, which does. Every hop below was checked in the tree on 2026-08-31; the verification note at the foot says how, and* Before this is published *lists three things to settle first.)*
-
----
-
-## The narrative
-
-### One document
+Building a site of this nature has involved a lot more than a simple request to a large language model. This page sets out to explain the complexities involved by tracing the journey of a single document through the system.
 
 On the evening of 29 August 2026, a Somali news site reported that the Upper House of Somalia's Federal Parliament had given a cybersecurity bill its first reading.
 
 The next day it was a linked claim in three Corpus documents: a line in Somalia's monthly update, a row in its progress report, and an entry in that day's bulletin. This is what happened in between.
 
-### It is found, not received
+### Systematic discovery
 
 Nothing arrives in Corpus without a search. The looking is done by a **sweep cycle** working one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for the last 36 hours. The rest take turns — newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country and regional research on a third. (Budgets, expenditure and audits will be a fourth.)
 
 The list sweeps work a **window**: what this domain published since the last run, with a day of overlap so a story indexed late is caught next time. The content sweeps ask what has appeared since they last ran, however long ago. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.
 
-### Two ways of looking
+### Two-tier searching
 
 Searching and fetching go through [Exa](https://exa.ai/), in two modes, depending on whether the target is a *place to look* or a *thing to find out*. (The donor-finance sweep is the exception: it reads IATI's datastore through its API.)
 
@@ -35,13 +29,13 @@ Searching and fetching go through [Exa](https://exa.ai/), in two modes, dependin
 
 A brief cannot be fenced, so two rules are absolute. **Nothing the Agent writes is ever stored** — its output is a synthesis, exactly the second-hand material the base refuses, so its job ends at discovery. **And its dates are not evidence**: every publication date is re-established from the fetched page.
 
-### It is screened, then stored
+### Screening and storing
 
 Before anything is fetched, the candidate's **origin** is screened — where it came from, not what it says. A domain that fabricates, rewrites without attribution or launders others' reporting under its own byline is on a drop list and is never collected. It has to be a separate test: a hostile origin produces items fluent and specific enough to publish straight onto a page.
 
 What is fetched is the document's **own words, in full** — never an excerpt, a summary or a machine translation. That stored text is what makes every downstream claim checkable, and it is why the store is private. A sweep can only stage a candidate: it cannot write to the archive or touch a wiki page.
 
-### It is admitted, or it is not
+### Adjudicate
 
 **Ingest** is the one door, and it runs once at the end of the cycle. Four dispositions: admitted to the archive; turned into a **contradiction brief**, because it disagrees with something held; turned into an **acquisition line**, because the real document is the gazette it mentions rather than the story about it; or deleted. Leaving the queue is not the same as being admitted. Budget documents take a fifth route, to structured extraction.
 
@@ -51,7 +45,7 @@ Admission also produces the document's **one sentence**: a bolded claim about a 
 
 The Somalia report was admitted on 30 August. It was also a contradiction.
 
-### The disagreement, and what settled it
+### Resolving contradictions
 
 Corpus held a January 2026 record that Somalia's parliament had approved a Cybersecurity Law, and its pages said so. A bill at first reading in August cannot easily be squared with that.
 
@@ -59,7 +53,7 @@ Ingest does not settle it: it files the conflict and writes a brief — the clai
 
 So the January record was not wrong — Corpus had been reading it as more than it said. The pages carry the corrected position, dated, and the gap stated: no gazette record is held either way. A contradiction gets one attempt, and where research cannot settle it, what is not established is written onto the page it bears on. Nothing is parked.
 
-### It is classified
+### Classification
 
 Classification happens at admission, with the document's full text in hand, and it lives in the document's own metadata. Three facets are classified:
 
@@ -71,7 +65,7 @@ A value outside a vocabulary is rejected rather than accepted and noted. That re
 
 Two decisions are where this usually goes wrong. **Multi-tagging, not a polyhierarchy**: rather than give a topic two parents, the tree stays single-parent and the *document* carries both slugs, so "everything in Governance" is still a clean roll-up. **Blocs are entities, not places**, because place is geographic — and a region code is earned by the development, not by the cast list.
 
-### The wiki is what the classification builds
+### Storing metadata
 
 An archive of classified documents is still not something anyone can read. The wiki is the compiled layer that makes it one — three kinds of page over the same evidence:
 
@@ -83,7 +77,7 @@ An archive of classified documents is still not something anyone can read. The w
 
 All three are compiled from the sources rather than written into, so running a compile twice changes nothing.
 
-### Why the classification is the product
+### Classification is the product
 
 Facets are not description; they are the join. Everything Corpus publishes is a query over those three values, which is why the same evidence appears five ways without being written five times.
 
@@ -91,7 +85,7 @@ The Somalia report carried five: place `SOM`; topics `gov.legislate` then `infra
 
 A **lint pass** runs alongside. Most of its thirty-odd checks fix rather than report — a missing field, a drifted slug, a wrong date prefix, a dead link — and everything is in version control, so a wrong fix is a revert. Where a check cannot have one correct action, it reports rather than guesses. The cycle closes with a commit and a copy of the repository to the machine that publishes.
 
-### The second machine reads it
+### From storage to publication
 
 The publishing side reads the evidence and not the working, and cannot write into the collection repository at all: anything it needs to send back goes to a shared folder outside both, carried across by hand. The site is a derived view of the base, and a derived view that writes to its source stops being derivable.
 
@@ -99,13 +93,13 @@ The build rebuilds what is mechanical — the catalogue, the finance dataset, th
 
 Most sources move nothing, and that is the point of a record layer: a report on systems is not an audit of news stories. The Somalia report moved one row — *Cybersecurity Law* — from a position reading as enacted to `In development, passed by the lower house and at first reading in the upper`. A row that moves is then mapped into the **indicator frame**, a fixed list of 121 questions asked of every country, so a progress report is shaped in advance rather than by whichever records accumulated; an indicator with nothing behind it reads *No evidence*, a finding rather than a blank.
 
-### Three documents, one record layer
+### Different outputs for different needs
 
 The monthly update and the progress report are two slices of the same ledger, which is why they cannot disagree: the monthly renders the rows that moved in the last month, the progress report compares each indicator at the two ends of a thirteen-month window. A month in which nothing moved still issues a monthly that says so. The **status report** answers *where is this now*: for most countries it is authored from sources the base will never hold, and revised in place rather than rebuilt — the price of its being able to state things the archive does not.
 
 The **bulletin** has no ledger and selects on a two-day window of *publication* — what the world published, not what Corpus fetched — so an empty window still produces a bulletin saying so, and why. An absent bulletin and a build that did not run are otherwise the same thing.
 
-### It is checked, then published
+### Final checks and publications
 
 Five checks run over each unit before anything is typeset: every link resolves through the catalogue, every status word is from the controlled list, no document is stamped before its ledger moved, every stated position cites a source that resolves, and no narrative section was left unwritten. The first four are mechanical; the fifth is authoring. A position that cannot be sourced becomes ***Not held*** with a line in the gap file — a finished outcome, not a blocked one.
 
@@ -113,11 +107,7 @@ Five checks run over each unit before anything is typeset: every link resolves t
 
 The Somalia material is in `SOM-monthly-2026-08-30.pdf`, `SOM-progress-2026-08-30.pdf` and `corpus-bulletin-2026-08-30-3.pdf`, each linking the claim to Dawan Africa's own page. Elapsed, from the source's publication to Corpus's: a little over a day.
 
-### Nobody is asleep at the wheel
 
-None of this is scheduled: both cycles are started by hand, so a quiet stretch on the site means nobody ran a cycle, not that the world went quiet. What *is* automatic is what happens once one is running — it does not stop to ask questions, it records what it decided, and everything it did is reversible.
-
----
 
 ## The table
 
@@ -169,32 +159,3 @@ None of this is scheduled: both cycles are started by hand, so a quiet stretch o
 | **Probe a measured gap**                                     | `PROGRESS-FILLER.md`                                                                                  | Takes the indicators a country's progress report reads *No evidence* on and searches specifically for them. What it finds is staged to a shared folder for the collection side, and enters the base only if it is carried across by hand and then admitted through the normal door. Nothing it finds reaches a report directly. A gap searched and found empty is not re-bought until the underlying evidence moves.                                                                                                                                                                |
 | **Top up the bulletin at midday**                            | `BULLETIN-TOPUP.md`                                                                                   | Re-runs the bulletin stage alone against the morning sweep's catch, republishing the catalogue and the counts alongside it so no page states a figure another page contradicts. Deliberately does not trigger a full build.                                                                                                                                                                                                                                                                                                                                                         |
 | **Send something back the other way**                        | The exchange folder, `notes-for-osint.md`, `africa-acquire.csv`                                       | The publishing side cannot write into the collection repository. Where something there needs changing, or a document is worth chasing, it is written as a numbered note or a queue row in a folder outside both repositories, and a person carries it across. Nothing on either side polls the other.                                                                                                                                                                                                                                                                               |
-
----
-
-## Before this is published
-
-**1. The elapsed time.** The narrative says "a little over a day". That is true of this document and is not a promise — a source whose country report is not otherwise moving, or one published just after a bulletin window closed, takes longer. Either qualify the sentence or drop it; it should not read as a service level.
-
-**2. A worked example ages.** Somalia's cybersecurity bill will get its second reading, and when it does the ledger row moves and this page's example describes a position the site no longer states. The page should either date its example explicitly ("as the base stood at the end of August 2026") or be reviewed whenever the row moves. Dating it is cheaper and is what the rest of the site does.
-
-**3. How much of the status report's position to say out loud.** The draft says plainly that the authored status report sits outside the guarantee the other two documents have. That is honest and it is also the page admitting a weak point. The alternative — describing only the ledger and letting a reader assume all three are slices of it — would be a claim the tree does not support. Recommended as written; flagged because it is a judgement about what the site says of itself, not a fact.
-
-## Verification note
-
-Every hop was checked in the tree on 2026-08-31, not inferred:
-
-- **Source**: `raw/2026/2026-08-29-somalia-senate-cybersecurity-bill-first-reading.md` — published 2026-08-29, retrieved 2026-08-30, `sweep_batch: off-list-2026-08-30`, `body_completeness: full`, ingested 2026-08-30.
-- **Contradiction and reconcile**: the source's own `date_note`, and the dated annotation on the January bullet in `wiki/places/SOM.md`. The two primaries reconcile fetched — the regulator's January statement and the Senate's published procedure — both carry `ingested: 2026-08-30`, which is what shows they were found by that pass rather than already held.
-- **Compiled**: cited on `wiki/places/SOM.md` (inside the compiled markers), `wiki/intersections/somalia--gov-protect.md`, and the `gov.legislate` and `infra.cybersec` concept pages.
-- **Catalogue**: one row in `outputs/catalogue/raw-catalogue.csv`; id 12520 in `outputs/catalogue/doc-ids.csv`.
-- **Ledger**: row `SOM-gov.legislate-cybersecurity-law`, movement `Advanced`, three sources with this slug first.
-- **Frame**: indicator `gov.legislate--cybersecurity-legislation` in `outputs/reports/SOM/indicators.csv`, against the 121-row frame in `lookups/indicators.csv`.
-- **Published**: `SOM-monthly.md` line 26, `SOM-progress.md` line 37, and the bulletin summary in `outputs/bulletins/summaries.json` (written 2026-08-30). The bulletin entry was verified by extracting the text of `site/bulletin/corpus-bulletin-2026-08-30-3.pdf` — the third edition cut that day, under *Legislation and regulation*; the two earlier editions of 30 August predate the ingest.
-- **Files a reader can take**: `site/reports/SOM/SOM-monthly-2026-08-30.pdf`, `SOM-progress-2026-08-30.pdf`, `site/bulletin/corpus-bulletin-2026-08-30-3.pdf`, all linked from `site/countries/SOM/index.html`.
-
-### Two things the trace turned up that are not about this page
-
-**`SOM-status.md` carries the framing reconcile corrected.** It was compiled 2026-08-30, the same build, and its legislation sections still read that "Parliament approved the Cybersecurity Law on 26 January 2026". This is the predicted failure mode of the design rather than a stray: the baseline is revised only where a source triggers the question, check J skips the status report on an authored unit, and `--doc all` excludes it — so nothing mechanical would have caught it. A report-layer matter, noted here and not acted on.
-
-**`STATUS-INIT.md` states that all 54 countries are through initialisation.** 40 of the 54 status reports carry `built_by: STATUS-INIT`; the other 14 do not, and are still rendered from their ledgers. One of the two is wrong, and which one decides whether this page can say "the status report is authored" without qualification. It is qualified above on the evidence of the tree.
