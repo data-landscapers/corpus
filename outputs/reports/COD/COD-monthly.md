@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: COD
-ledger_rows: 41
+ledger_rows: 47
 not_held: 13
-record: 94b9785d5cc2
+record: ad142a21cfe7
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -65,6 +65,11 @@ The audiovisual and communications council and the press-freedom council [formal
 
 ## Finance
 
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The money behind the finance inspectorate's digitalisation turns out to be domestic. The US$22 million presented in May as already-identified financing [is the state's own allocation rather than donor money](https://www.deskeco.com/2026/08/26/rdc-les-22-millions-usd-annonces-pour-le-projet-de-digitalisation-du-controle-de-ligf-proviendront/), its inspecteur général chef de service confirmed. That distinction matters for a programme whose durability depends on whether it survives a budget cycle rather than a grant period; the record held carries no disbursement schedule against it.
+<!-- /narrative -->
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
@@ -99,6 +104,11 @@ The exchange being built is between revenue agencies rather than between citizen
 
 <!-- narrative: dpi--dpi-id -->
 Identification in the window is a provincial operation rather than a national one. Training of the agents for an operation registering Mbororo herders in Nord-Ubangi [closed at Gbadolite on 17 August](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/). Registering a named population as a distinct category is a decision with consequences beyond the register, and no legal basis, data controller, retention rule or purpose limitation is published for it.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+Fare collection took its first digital step. The state bus operator Transco [opened the trial phase of QR-code electronic ticketing in Kinshasa on 31 August, its director general scanning the first code on the inaugural run](https://acp.cd/business/kinshasa-la-vente-des-produits-maraichers-presentee-comme-un-levier-de-renforcement-financier/). It is a trial on one operator's buses. No fare volume, route coverage or payment provider is named, and nothing connects it to the national payment rails.
 <!-- /narrative -->
 ### Registries
 
