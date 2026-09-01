@@ -548,3 +548,73 @@ A registry delegation benchmarked Kenya's land platform in August 2025 while pre
 In July 2026 the deeds registry and the surveyor-general's department were trained by South African specialists on sectional plans and sectional-title deeds ([training](2026-07-10-government-strengthens-land-registration-system-to-enhance-property-ownership-certainty)).
 
 Two years on from that prototype no go-live date, budget or system name is held, and the registry itself describes a department whose records came from Pretoria in 1973 ([registry](2026-08-29-gov-sz-deeds-registry)).",SWZ-dpi.registry-deeds-registry-digitisation
+digital.localgov--digitalisation-of-local-government-records,"No change, no local records system on the base and connectivity not yet delivered","The [Tinkhundla ministry's report](2025-01-01-eswatini-annual-report-tinkhundla-2025) records no digital record-keeping for local administration, and none of 38 targeted centres is reported connected.","The ministry's own report to Parliament for 2024/25 covers its mandate, decentralisation policy and the reconstruction of Tinkhundla centres, and records no digital record-keeping system for local administration ([report](2025-01-01-eswatini-annual-report-tinkhundla-2025)).
+
+38 Tinkhundla centres are targeted for connectivity and none is reported connected.
+
+The World Bank grant funds a consultancy to write a roadmap for digitising about 200 government services, which is where local records would be reached if they are reached ([procurement plan](2025-09-24-digital-eswatini-procurement-plan)).
+
+Local government is the layer at which a citizen meets the state most often, and it is the layer on which this base holds least.",SWZ-digital.localgov-tinkhundla-administration-report|SWZ-digital.localgov-tinkhundla|SWZ-finance.new-digitalproject
+digital.rural--digitalisation-of-rural-health-clinics,Advanced,A [community health information system](2025-09-26-eswatini-launches-cbhis) launched in September 2025 moved rural health motivators off paper to offline-capable digital capture.,"The health ministry launched the system with United Nations and World Bank partners, alongside a community-based health strategy ([launch](2025-09-26-eswatini-launches-cbhis)).
+
+A year earlier the ministry's own annual report recorded facility data collection running electronically and on paper together ([annual report](2025-02-01-eswatini-annual-report-health-2025)).
+
+The health agency's 2025 results report records optimisation of the district health information platform and enhanced interoperability across major programmes, while flagging still-fragmented legacy systems ([results report](2026-05-01-eswatini-annual-results-report-2025-who)).
+
+Community health services are digitised on the base's own record. No count of clinics running electronically, and no figure for those still on paper, is held.",SWZ-digital.rural-community-health-information-system|SWZ-dpi.mis-health-information-system-optimisation|SWZ-dpi.mis-communityhealth
+digital.rural--digitalisation-of-rural-primary-schools,Advanced,"[402 of 965](2025-11-01-giga-schools-connectivity-initiative) mapped schools are connected, and the education ministry states most primary schools are still not.","965 schools are mapped on the international schools-connectivity platform with 402 connected, and the education ministry states most primary schools remain unconnected ([briefing](2025-11-01-giga-schools-connectivity-initiative)).
+
+The communications regulator handed 68 devices to the education ministry in December 2025 to support a learning-passport platform and pilot digital-learning demonstration sites in four schools, aimed particularly at rural areas ([donation](2025-12-11-esccom-donates-ict-equipment-schools)).
+
+The education management information system is national in scale and keyed to a personal identification number, and most rural primary schools still collect on paper.
+
+Connectivity is the binding layer, and it stands at 402 schools.",SWZ-digital.rural-school-connectivity-programme|SWZ-capacity.training-school-ict-equipment|SWZ-dpi.mis-school-education-management-information-system
+digital.rural--digitalisation-of-rural-police-stations,"No change, nothing on the base describes a system at station level","The [electronic case management system](2026-03-09-judiciary-successfully-hosts-iecms-change-management-session) is to be used by the police, and nothing records a system operating at a rural station.","A development agency donated equipment worth about US$10,000 to the justice ministry in August 2025 for the rollout, stating it would be used by the police alongside correctional services and other justice bodies ([donation](2025-08-16-undp-donates-equipment-digital-justice-system)).
+
+Judicial officers and court administrators from courts across the country were taken through a three-day change management session in March 2026 ahead of the transition to digital case management ([session](2026-03-09-judiciary-successfully-hosts-iecms-change-management-session)).
+
+The police appear on this base as a named user of a justice-sector system and nowhere as an operator of their own. The national violence strategy names the police service as the actor at station level ([strategy](2023-01-01-eswatini-national-strategy-to-end-violence-2023-2027)).
+
+No station count, docket system or connectivity figure for police stations is held, rural or otherwise.",SWZ-dpi.mis-integrated-electronic-case-management|SWZ-dpi.mis-justice-system-equipment-support
+tech.ai--development-of-national-regional-ai-systems,Stalled,The ICT ministry announced a [national AI strategy](2024-11-25-un-eswatini-ai-indaba) for 2024/25 at the first AI indaba; two years on it is still not held.,"The ministry and the academy of sciences held the country's first artificial-intelligence indaba in November 2024, at which the ministry announced it would develop a national artificial-intelligence strategy and a fourth industrial revolution strategy in that financial year ([indaba](2024-11-25-un-eswatini-ai-indaba)).
+
+A reviewed science, technology and innovation policy and a combined fourth and fifth industrial revolution strategy went to stakeholder validation in February 2026 ([validation](2026-02-24-eswatini-mict-sti-policy-4ir-5ir-validation)). Neither document is held.
+
+At continental level the African Union signed a memorandum with a hyperscaler under its own artificial-intelligence strategy, with no Eswatini-specific commitment under it ([memorandum](2026-02-17-au-google-sovereign-ai-partnership)).
+
+The national artificial-intelligence strategy was probed and not found. What the country has built instead is training: a university academy has put more than 400 professionals through a generative-artificial-intelligence course.",SWZ-tech.ai-strategy|SWZ-tech.ai-ai-indaba|SWZ-tech.ai-continental-sovereign-ai-partnership|SWZ-gov.policy-science-technology-and-innovation-policy
+tech.innovate--technology-hubs,Advanced,"The [science park incubator](2026-02-05-rstp-business-incubator) opened an international pitch route in May 2026, and a regional youth hub awarded E42,000 in seed capital in August.","The science park's business incubator offers co-working space, business development, intellectual property and fundraising support to early-stage companies ([incubator](2026-02-05-rstp-business-incubator)), and in May 2026 launched a national leg of an international startup pitch competition with a venture firm ([competition](2026-05-07-rstp-startup-world-cup)).
+
+Fifty young entrepreneurs took a four-week incubation programme at a regional hub run by the youth council with the small enterprise development company, and five won a combined E42,000 in seed capital ([programme](2026-08-25-nhlangano-ihub-seed-capital)).
+
+Two community innovation hubs are operating with a third planned for a third region, and a training curriculum in artificial intelligence, robotics and cybersecurity is announced for them with no start date, provider or cohort size.
+
+No cohort count, graduation figure or investment total is published for the science park's own incubator at any date.",SWZ-tech.innovate-science-park-business-incubator|SWZ-tech.innovate-regional-youth-incubation-programme|SWZ-include.divides-ihubs|SWZ-capacity.training-hubcurriculum
+tech.innovate--tech-startup-ecosystem,Advanced,"A private accelerator's [first cohort](2026-08-07-oracle-innovate-lab-cohort2-eswatiniobserver) passed E1 million in combined revenue, and the FinTech Strategy commits to sandbox expansion.","Six entrepreneurs in the first cohort of a privately run accelerator generated more than E1 million in combined revenue within a year, and a second cohort of four businesses launched in August 2026 ([accelerator](2026-08-07-oracle-innovate-lab-cohort2-eswatiniobserver)).
+
+The FinTech Strategy 2025-2030 is in force and targets 500,000 electronic know-your-customer users and 80 per cent interoperability by 2028, the base's clearest statement of a startup-finance and sandbox commitment ([strategy](2025-12-07-fintech-strategy-to-transform-eswatini-digital-future)).
+
+A World Bank diagnostic assessed the digital economy across five pillars in February 2023 and is the standing baseline for how easy it is to start a digital business here ([diagnostic](2023-02-08-world-bank-digital-economy-diagnostic-eswatini)).
+
+The one domestic digital business the base tracks by name holds a provisional banking licence with no launch date. No count of startups, funding raised or exits is published.",SWZ-tech.innovate-private-accelerator|SWZ-dpi.pay-fintech|SWZ-tech.industry-letshego
+capacity.literacy--digital-literacy-civil-service,Advanced,The revenue service signed a [650-employee AI literacy programme](2026-06-05-landmark-ai-deal-to-equip-650-ers-employees-with-future-ready-skills) with the national university in June 2026.,"The revenue service and the national university signed a memorandum in June 2026 for an artificial-intelligence literacy programme covering 650 employees ([memorandum](2026-06-05-landmark-ai-deal-to-equip-650-ers-employees-with-future-ready-skills)).
+
+The public service ministry's own report for 2024/25 records short-term ICT training for civil servants through the management institute ([report](2025-01-01-financial-year-2024-25-annual-performance-report-ministry-of-public-service)).
+
+Change agents are in training across ministries under the digitisation programme, and the auditor-general's strategic plan urges more than 80 audit officers to take up artificial intelligence and digital methods.
+
+Against it, 18 ICT professionals support the assessed government estate. The training is real and the establishment it trains into is not on the base.",SWZ-capacity.literacy-civil-service-ict-training|SWZ-capacity.training-changeagents|SWZ-dpi.govtech-auditor-general-strategic-plan|SWZ-infra.cybersec-govservices
+capacity.training--dt-related-training-in-secondary-education,Advanced,"The [2018 curriculum framework](2018-01-01-swaziland-national-curriculum-framework) makes ICT a core skill, and thirty learners took a five-day AI incubator in August 2025.","The 2018 curriculum reform defines information and communications technology as a core skill and a subject option across the education system; no later revision is held ([framework](2018-01-01-swaziland-national-curriculum-framework)).
+
+A university artificial-intelligence academy ran a five-day incubator giving thirty secondary and state-school learners hands-on artificial-intelligence and machine-learning training ([incubator](2025-08-15-teens-in-ai-eswatini-incubator)).
+
+The communications regulator handed 68 devices to the education ministry in December 2025 for a learning-passport platform and demonstration sites in four schools ([donation](2025-12-11-esccom-donates-ict-equipment-schools)).
+
+Thirty learners and sixty-eight devices against a school system in which most primary schools are unconnected: the curriculum names the skill, and the base holds no enrolment, pass rate or teacher-supply figure for teaching it.",SWZ-capacity.training-national-curriculum-framework|SWZ-capacity.training-secondary-school-ai-training|SWZ-capacity.training-school-ict-equipment
+capacity.training--dt-related-university-facilities-and-qualifications,Advanced,"A university [AI academy](2026-06-21-uneswa-ai-academy-400-professionals) graduated over 400 professionals in June 2026, on a statutory register of accredited computing qualifications.","The higher education council's statutory register lists registered institutions and their accredited programmes, including the national university's computing and information-technology degrees, under the Higher Education Act of 2013 ([register](2026-01-01-eshec-hei-register-2026)).
+
+More than 400 professionals graduated from the university academy's generative-artificial-intelligence course in June 2026, one of three courses it runs ([graduation](2026-06-21-uneswa-ai-academy-400-professionals)).
+
+The same university's computer science department hosted a two-day deep-learning research workshop in September 2025 with the revenue service, the science park, the central bank and the communications regulator among its supporters ([workshop](2025-09-25-uneswa-deep-learning-indabax-2025)).
+
+A university computer science department with a health-informatics research group is the base's one recorded research capability. No enrolment or graduate count for the accredited degrees is published.",SWZ-capacity.training-accredited-higher-education-register|SWZ-capacity.training-university-ai-academy|SWZ-capacity.research-none
