@@ -3,9 +3,9 @@ title: Zambia — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: ZMB
-ledger_rows: 34
+ledger_rows: 36
 not_held: 46
-record: 449b4851feb0
+record: 1d2f764ef344
 ---
 
 # Zambia: monthly update, August – September 2026
@@ -18,6 +18,8 @@ record: 449b4851feb0
 The election was the month's frame. The cyber security agency [warned against hate speech and cyberbullying after the poll](https://www.zambiamonitor.com/cyber-security-agency-warns-against-hate-speech-cyberbullying/), observer missions [reported on the digital systems used in the general election](https://misa.org/blog/misa-regional-preliminary-statement-on-media-freedom-digital-rights-and-access-to-information-in-the-2026-zambia-general-elections/), the rights commission [considered 105 alleged violations in the election period and resolved 62](https://www.lusakatimes.com/2026/08/01/human-rights-commission-raises-alarm-over-hate-speech-online-abuse-as-election-nears/), and a survey [put public support for media freedom and a watchdog role on the record](https://www.afrobarometer.org/publication/ad1223-zambians-call-for-freedom-and-a-watchdog-role-for-the-media/). A consent judgment [obliges the regulator to give a reason for any internet interruption within 36 hours](https://www.accessnow.org/press-release/keepiton-zambia-internet-access-upcoming-elections/); no interruption is on the record for this election.
 
 Collection and connectivity moved in the districts. Eight of 116 councils [are on the e-council platform](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/), a district administration [was connected to the government wide area network](https://techafricanews.com/2026/08/31/zamportal-teams-lupososhi-road-tax-local/), and the state ICT institute [set a national standard for border-post connectivity and commissioned an independent ICT audit](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/). The regulator [blocked 43,500 SIM cards linked to mobile-money fraud in the first half of the year](https://diggers.news/business/2026/08/04/zicta-blocks-43500-sim-cards-linked-to-scammers-secures-k19-8m/).
+
+Three standing positions entered the record this month rather than moving in it. The state technology institute [publishes its national authentication and access-control service, running single sign-on, OpenID Connect, multi-factor authentication and passwordless credentials for electronic government](https://pass.gsb.gov.zm/about) — the service the passport and voucher systems already depend on, described for the first time. The standards bureau [puts more than 50 international standards adopted as national ones within a catalogue of more than 6,500](https://www.zabs.org.zm/standards-development). And the citizen support portal [reached the labour ministry, whose staff were trained to handle cases through it in districts with no physical office](https://www.zamjob.com/news-details.php?nid=388), while a single rural primary school [had its computer laboratory connected by satellite](https://paratus.africa/zambia/paratus-zambia-expands-digital-learning-opportunities-at-mphande-hills-primary-school/) against a national target of 2,500 schools by December.
 <!-- /narrative -->
 
 ## Governance
@@ -133,6 +135,11 @@ The eight onboarded local authorities returned about K21.7 million in their firs
 
 Connectivity followed the collection: the state ICT institute [equipped a town council with ICT and telepresence equipment](https://techafricanews.com/2026/08/26/sinazongwe-town-council-goes-digital-as-smart-zambia-deploys-ict-equipment/). It is one council of 116, and no cost, rollout schedule or list of the rest is published.
 <!-- /narrative -->
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+One rural school was connected. An operator [connected a primary school's computer laboratory in the Chipapa community by satellite](https://paratus.africa/zambia/paratus-zambia-expands-digital-learning-opportunities-at-mphande-hills-primary-school/), a completed deployment rather than a commitment. Set against the education ministry's own target for schools connected to reliable internet by the end of this year, it is one school with four months to run, and no progress count against that target is published.
+<!-- /narrative -->
 
 ## Technology
 
@@ -163,6 +170,14 @@ The state ICT institute, with the International Telecommunication Union and the 
 
 <!-- narrative: capacity--capacity-training -->
 Training in the window is a private programme rather than a state one. A ride-hailing company's fellowship [expanded to six African countries and selected its 2026 cohort](https://techafricanews.com/2026/08/31/yango-fellowship-expands-six-african-countries/), this country among them. No Zambian intake figure, curriculum or placement outcome is published, and no state training total sits on the ledger for the month.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+The citizen support portal reached a ministry that has no offices in much of the country. Labour and social security staff [were trained to handle labour cases through the portal, extending it to districts with no physical office](https://www.zamjob.com/news-details.php?nid=388). Where a portal substitutes for a counter that was never there, the question is what happens to a claimant without connectivity — and no fallback, case volume or resolution figure is published for it.
 <!-- /narrative -->
 
 ## Geopolitics
