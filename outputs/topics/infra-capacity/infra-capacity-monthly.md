@@ -3,13 +3,17 @@ title: Technical Capacity — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.capacity
-places: GHA; KEN; MOZ; RWA; SEN; ZAF
-record: 61cbbde66811
+places: BDI; GHA; KEN; MOZ; RWA; SEN; ZAF
+record: 94d47548eb4f
 ---
 
 # Technical Capacity: monthly update, August 2026
 
-*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*7 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Burundi
+
+The revenue authority's own platform went into production. From 4 August [all new taxpayer registration applications are made exclusively online, with three routes for natural persons, legal persons and cooperatives and a biometric appointment step for fingerprints and photograph](https://obr.bi/index.php/e-kori). It is a government system entering service rather than a procurement notice, which is the rarer of the two on this ledger, and no uptime, throughput or fallback for an applicant who cannot use it is stated.
 
 ## Ghana
 

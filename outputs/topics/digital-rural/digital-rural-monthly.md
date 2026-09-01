@@ -3,13 +3,17 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: digital.rural
-places: TCD; SWZ; GIN; LSO; MLI; NGA; SLE; ZWE
-record: 4e3e0379bcb2
+places: BDI; TCD; SWZ; GIN; LSO; MLI; NGA; SLE; ZWE
+record: e5f4eef16172
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*8 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*9 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Burundi
+
+Civil registration is the one rural system with a number attached to it. Marking African Civil Registration Day, the territorial administration directorate [set out digitalisation of civil status in pilot communes and decentralisation down to zone level, with planned interoperability with health facilities for births and deaths notified through hill chiefs, and a UN agency stated that thirteen communes already hold a biometric registration system](https://www.rtnb.bi/?mypost%3Fid=596). Thirteen is the whole of the count: against well over a hundred communes, what the base records is a pilot that has been running for at least a quarter and a national position that has not moved.
 
 ## Chad
 

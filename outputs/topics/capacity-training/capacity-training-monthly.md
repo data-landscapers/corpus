@@ -3,13 +3,13 @@ title: Training and skills — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: capacity.training
-places: AGO; BEN; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 9aa1254c38fe
+places: AGO; BEN; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
+record: 989a3b096fde
 ---
 
 # Training and skills: monthly update, August 2026
 
-*37 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -18,6 +18,10 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 ## Benin
 
 Two cohorts opened in the month, both small and both institutional. The state information-systems agency [began a certification programme for 25 departmental information-security officers on 3 August](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi), and the capital's town hall [opened an artificial-intelligence academy for 60 secondary pupils on 19 August](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains), framed on urban problems. Neither publishes a curriculum, a completion standard or a plan for a second cohort.
+
+## Burundi
+
+School equipment moved as procurement. A national request for proposals [opened on 11 August and closed on 24 August for the supply and installation of computer equipment in 39 central schools in three former provinces, its bill of quantities naming 585 computers and uninterruptible power supplies across three lots](https://www.ungm.org/Public/Notice/310460). Set against the education ministry's own target of 760 school networks, thirty-nine schools is the increment this month records; nothing states when the equipment arrives or who maintains it.
 
 ## Cameroon
 

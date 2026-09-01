@@ -3,13 +3,13 @@ title: Digitalisation of sub-national government — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: digital.localgov
-places: AGO; BFA; MWI; MLI; NAM; NGA; ZAF; TZA; TGO; ZMB; ZWE
-record: 7bc268842005
+places: AGO; BFA; BDI; MWI; MLI; NAM; NGA; ZAF; TZA; TGO; ZMB; ZWE
+record: 6932d4805a73
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -22,6 +22,10 @@ Benguela's provincial water utility [begins installing prepaid smart meters on 7
 ## Burkina Faso
 
 Citizen service centres stand at [two pilot sites under construction, with architectural studies under way for a further city, eight regional capitals and fifty rural communes](https://lefaso.net/spip.php?article144175), against a state and postal-service contract for twenty spaces over five years. No unit cost and no beneficiary count is published. The first of the pilots [now has a name, Zama Tchey, and was inspected on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/); it is to bring postal, financial and digital services closer to the population. A second inspection two days later [put the first Maison du citoyen at 20% complete](https://digitalmagazine.bf/2026/08/07/burkina-faso-rapprocher-letat-du-citoyen-deux-infrastructures-numeriques-en-cours-de-construction/), one of twelve structuring digitalisation projects the ministry names, and took in the national fibre backbone's network operations centre on the same visit.
+
+## Burundi
+
+Local government gained equipment rather than systems. A development agency [handed laptops, uninterruptible power supplies, printers and photocopiers to provincial governors and communal administrators, alongside vehicles](https://lerenouveau.bi/le-pnud-octroie-un-don-destine-aux-gouverneurs-de-province-et-administrateurs-communaux/). It is the most direct addition to the ICT equipment held by Burundian local government offices this ledger records, and it is a donation: no count of offices reached, no maintenance arrangement and no connectivity provision accompanies it.
 
 ## Malawi
 

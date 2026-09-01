@@ -3,13 +3,17 @@ title: Use of satellite data — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: data.satellite
-places: COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE
-record: 6c13cba0647f
+places: BDI; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SLE
+record: 2070ad27a0b7
 ---
 
 # Use of satellite data: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+## Burundi
+
+The national mapping and meteorological institute put two standing capabilities on the record. Its service page [names identifying and managing agricultural, urban and protected areas among the four purposes of Burundian cartography, and states that mapping has modernised through remote sensing, satellite positioning, geographic information systems and drones](https://www.igebu.bi/Services/cartographie/), and it [publishes a satellite imagery viewer whose named dynamic layers are geostationary precipitation, infrared and convection products on automatic update](https://www.igebu.bi/data-tools/). Both are descriptions of what the institute does rather than dated events, and they are the first the base holds.
 
 ## Congo
 

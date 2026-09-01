@@ -3,17 +3,21 @@ title: National statistics — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: data.statistics
-places: BWA; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; SYC; ZAF; UGA; ZWE
-record: b08467b9288a
+places: BWA; BDI; CMR; CAF; COM; COG; COD; GNQ; GAB; GHA; LSO; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NGA; SYC; ZAF; UGA; ZWE
+record: 04ea888fe41c
 ---
 
 # National statistics: monthly update, August 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
 The statistics office and the national university [launched a second Statistics Development Strategy for 2026 to 2030 on 12 August](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy), framed as a roadmap to an agile and responsive statistical system and aligned to the twelfth national development plan. No budget, delivery milestone or indicator set is published with it.
+
+## Burundi
+
+The statistical strategy reported on itself. The statutory sector statistics group met for the second quarter [with the recommendations of the mid-term evaluation of the third national statistics strategy on its agenda](https://www.insbu.bi/actualitesEtEvenements), which establishes both that a third-generation strategy is in force and that its mid-term evaluation has reported. Neither the strategy nor the evaluation is published, so the base can date the process and cannot read what it found.
 
 ## Cameroon
 
