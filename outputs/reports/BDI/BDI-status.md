@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-09-01
 place: BDI
-ledger_rows: 68
-not_held: 10
-record: 15ca7c43139a
+ledger_rows: 101
+not_held: 12
+record: 226b2b3e94eb
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-01 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (101 systems and instruments, 12 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -27,8 +27,15 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Burundi Large Bande 2025 broadband strategy | [In development, validated and not adopted](https://arct.gov.bi/wp-content/uploads/2022/10/rapportannuel2017.pdf) | Validated by stakeholders 6 December 2017, en instance d'adoption par le Gouvernement |
+| Draft law on access to public information | [In development, adopted in Council of Ministers](https://mincom.gov.bi/le-conseil-des-ministres-adopte-le-projet-de-loi-portant-acces-a-linformation-publique/) | Adopted in Council of Ministers 10 June 2026 |
+| National broadband mapping system | [In development](https://africabbmaps.itu.int/wp-content/uploads/2025/12/Bdi-Rapport_Evenement-National-Africa-BB-Maps_28-30-Octobre-2025.pdf) | National Africa-BB-Maps event, Bujumbura, 28-30 October 2025 |
 | National Data Governance Strategy | [Implemented](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) | Validated with seven pillars, UNECA-supported and AU Data Policy Framework-aligned |
+| Plan directeur de digitalisation des services publics 2023-2033 | [Implemented](https://primature.gov.bi/wp-content/uploads/2026/06/PLAN-DIRECTEUR-DE-DIGITALISATION-2023-2033.pdf) | Adopted in Council of Ministers 2023-05-10; mid-term review of the financing project, March 2026 |
+| Politique nationale de developpement des TIC 2010-2025 | [Discontinued, term expired](https://primature.gov.bi/wp-content/uploads/2026/06/politique_nationale_developpement_tic.pdf) | Adopted in Council of Ministers 13 July 2011 for a term to 2025 |
 | Proposed mobile-phone ban for civil servants | [Planned](https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants) | Proposed by the president, office landlines to replace mobile phones |
+| Vision 2040-2060 sector implementation documents | [In development](https://primature.gov.bi/la-primature-oriente-les-ministeres-pour-accelerer-la-mise-en-oeuvre-de-la-vision-burundi-emergent-en-2040-et-developpe-en-2060/) | Prime Minister's orientation workshop, 3 July 2026 |
+| Rules restricting cross-border data transfer | ***Not held*** | Absence stated in a regional digital-trade regulatory profile |
 
 ### Legislation and regulation
 
@@ -36,7 +43,16 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 |---|---|---|
 | Access to information bill | [Planned](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Listed on the National Assembly's order paper for the session opened 3 August 2026 |
 | Anti-money-laundering and counter-terrorist-financing regime | [Enacted](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | Five central bank circulars issued, FATF-aligned |
+| Decret n 100/085 du 25 juillet 2018 portant cadre national des donnees | [Implemented](https://faolex.fao.org/docs/pdf/bur205433.pdf) | Presidential decree of 25 July 2018 |
+| Instituting texts for the Fichier National d'Identification | [Planned, instituting texts not adopted](https://isoko.gov.bi/?procedures=fichier-national-de-lidentification-carte-nationale-didentite) | Stated on the official procedure page that further texts remain to be adopted |
 | Law regulating social-media influencers and content creators | [In development](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/) | Consultation workshop held 2026-08-26 |
+| Loi n 1/07 du 11 mai 2018 portant systeme national de paiement | [Implemented](https://www.brb.bi/sites/default/files/2024-09/LOI%20N%201-07%20DU%2011%20MAI%202018%20PORTANT%20SYSTEME%20NATIONAL%20DE%20PAIMENT.pdf) | Framework statute of 2018; oversight framework and the national instant payment system built under it |
+| Loi n 1/08 du 20 mai 2021 sur l'organisation du systeme statistique | [Implemented](https://amategeko.gov.bi/wp-content/uploads/2021/07/BOB_No5BIS-2021.pdf) | Recast of the 2007 statistics law, promulgated 20 May 2021 |
+| Loi n 1/10 du 16 mars 2022 sur la cybercriminalite | [Implemented](https://amategeko.gov.bi/wp-content/uploads/2022/08/BOB_No3ter-2022.pdf) | Promulgated 16 March 2022, recorded En vigueur on the official legal database |
+| Loi n 1/22 du 22 aout 2024 portant code des communications electroniques et postales | [Implemented](https://arct.gov.bi/wp-content/uploads/2024/09/LOI_COMMUNICATIONS-ELECTRONIQUES.pdf) | Promulgated 22 August 2024 |
+| National e-commerce ecosystem guidelines and conformity declaration | [Implemented](https://arct.gov.bi/2026/06/26/appel-a-la-declaratio-n-de-conformite-des-plateformes-et-sites-marchands-de-commerce-electronique-au-burundi/) | Guidelines published 29 May 2026; conformity declaration made compulsory 26 June 2026 |
+| Ordonnance ministerielle n 540/906/2026 on SIM registration | [Implemented](https://www.agenceecofin.com/actualites-numerique/0506-139050-burundi-identification-des-cartes-sim-obligatoire-avant-le-25-juin) | Non-compliant lines deactivated from 25 June 2026 |
+| Dedicated artificial-intelligence legislation | ***Not held*** | No loi, decret, ordonnance or regulator reglement on artificial intelligence located, November 2025 |
 
 ### Data protection
 
@@ -44,6 +60,7 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 |---|---|---|
 | ARCT injunctions on value-added-service consent | [Enacted](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/) | Injunctions issued to Lumitel requiring genuinely voluntary subscription and prior notification |
 | Data protection authority | [Planned](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Created by the January 2026 law; no appointment, budget or decision on file |
+| Loi n 1/03 du 10 mars 2026 portant protection des donnees a caractere personnel | [Enacted](https://arct.gov.bi/wp-content/uploads/2026/03/Loi-n%C2%B01_03-2026-protection-des-donnees-a-caractere-personnel_compressed.pdf) | Promulgated 10 March 2026, published by the regulator 18 March 2026 |
 | Personal data protection law | [Enacted](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Unanimously adopted by the National Assembly, 15 January 2026 |
 | Data-sharing agreement under the United States health-sector memorandum | ***Not held*** | — |
 
@@ -54,18 +71,26 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 | AfCFTA country implementation roadmap | [Planned](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) | Technical team agreed 3 August 2026, during the AfCFTA Secretary-General's mission to Bujumbura, to produce a country profile and implementation roadmap jointly owned by government and the private sector |
 | EAC One Network Area and Regional Digital Integration protocol | [Implemented](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Joined the One Network Area and ratified the protocol |
 | IGAD cross-border health security cooperation | [In development](https://igad.int/igad-and-burundi-push-for-stronger-regional-health-security-through-cross-border-cooperation/) | Consultation on a memorandum held in Bujumbura, August 2026 |
+| Regional submarine cable access and cross-border interconnection | [Implemented](https://finances.gov.bi/index.php/2026/06/26/le-burundi-prend-part-a-la-construction-du-marche-unique-numerique-de-lafrique-de-lest/) | Regional digital single market position endorsed at the East African D4D forum, 23-24 June 2026 |
 | Vietnam-Burundi telecommunications-technology memorandum | [Enacted](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Implementation meeting held 28 July 2026, party-to-party rather than ministry-to-ministry |
 
 ### Standards
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Common technical standards for health information exchange | [In development](https://www.agenceecofin.com/actualites-numerique/1304-137484-sante-le-burundi-veut-mettre-en-place-un-systeme-d-information-interoperable) | National health information workshop, 7-10 April 2026 |
+| Concept type des systemes d'information des institutions publiques | [In development](https://setic.gov.bi/atelier-de-presentation-du-document-final-du-concept-type-des-systemes-dinformation-des-institutions-publiques/) | Final document presented for validation 17 December 2024 |
+| EMIS self-assessment against African Union norms and standards | [Implemented](https://www.continental-infos.com/flash-infos/bujumbura-burundi-from-strategy-to-systems-au-iped-supports-burundis-next-step-in-strengthening-education-data/) | Three-day technical workshop in Bujumbura, June 2026 |
+| Migration of the automated transfer system to ISO 20022 | [Implemented](https://www.brb.bi/node/2909) | Migration completed 5 February 2026, interbank operations resuming on the new system 6 February |
+| Politique Nationale Qualite | [Implemented](https://www.presidence.gov.bi/wp-content/uploads/2022/02/Conseil-du-02-Fevrier-2022.pdf) | Adopted in Council of Ministers 2 February 2022 |
+| Standardisation and conformity protocol with the Congolese control office | [Implemented](https://bankable.africa/fr/climat-des-affaires/0109-1626-commerce-rdc-burundi-vers-une-reduction-des-barrieres-non-tarifaires) | Memorandum signed in Bujumbura 29 August 2025 |
 | National technical standards or interoperability framework | ***Not held*** | No national framework on file; the standards work on record is regional |
 
 ### Public debate and participation in policymaking
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Central Africa Internet Governance Forum, Bujumbura | [Implemented](https://finances.gov.bi/index.php/2026/02/19/le-burundi-accueille-pour-la-premiere-fois-le-forum-sur-la-gouvernance-de-linternet-en-afrique-centrale/) | Held 16-21 February 2026 at the Palais des Congres de Kigobe |
 | Etats generaux de la communication | [Planned](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Proposed by the consumer association ABUCO; no convening date on file |
 
 <!-- narrative: governance -->
@@ -110,8 +135,11 @@ Domestic money is unusually well documented for a country this size. The [commun
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Burundi national internet exchange point | [Implemented](https://arct.gov.bi/wp-content/uploads/2022/10/image0013.pdf) | Created by decret n 100/122 of 13 May 2014 |
 | Fonds de service universel institutional connectivity | [In development](https://armp.gov.bi/archives/10856) | FY2026/27 revised appropriation of BIF 11.40bn for dedicated IP transit to health facilities and schools |
+| Governance of the national backbone concessionaire | [Implemented](https://presidence.gov.bi/wp-content/uploads/2026/04/DECRET-PORTANT-NOMINATION-DU-DG-BBS.pdf) | Director general appointed 9 April 2026 and state administrators named 13 April 2026 |
 | ICT infrastructure-sharing law | [Planned](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Named by the regulator as a draft law; no text published |
+| International capacity through neighbouring landings | [Implemented](https://arct.gov.bi/wp-content/uploads/2024/04/RAPPORT-SUR-LES-INDICATEURS-TIC-2020-VERSION-PUBLIE.pdf) | Regulator indicators report, edition 2020 |
 | Mobile and internet network quality | [Under review](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Regulator published its own diagnosis of degraded quality and named six causes |
 | PAFEN mast-deployment programme | [In development](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Named by the regulator as financed and in train |
 | PAFEN rural 4G build | [In development](https://techafricanews.com/2026/05/04/burundi-signs-usd-5-9-million-contract-to-expand-rural-network-connectivity/) | ONATEL contracted for 92 hills after Lumitel's contract for 86 |
@@ -121,18 +149,23 @@ Domestic money is unusually well documented for a country this size. The [commun
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Data centre estate | [Implemented, no shared government facility](https://documents1.worldbank.org/curated/en/605991608528899689/pdf/Burundi-Digital-Economy-Assessment.pdf) | Agency-level procurement of racks and stabilisers, February 2026 |
 | National data centre | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Named a PAFEN mid-term priority alongside public-finance modernisation and the national ID |
+| Off-site backup and continuity capacity | [Implemented](https://pafen.gov.bi/wp-content/uploads/2026/04/Relance-AAO_Equipements-additionnels-SETIC.pdf) | Re-issued tender for virtualisation and backup equipment at the state technology secretariat, April 2026 |
 
 ### Energy
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Generation and transmission serving the capital | [Implemented](https://regideso.bi/actualites/signature-du-contrat-pour-la-mise-en-oeuvre-de-la-composante-1-du-projet-ascent-burundi-renforcement-du-reseau-30-kv-a-lechelle-nationale/2239/) | Mulembwe dam commissioned 16 June 2026; 30 kV reinforcement contract signed 17 June 2026 |
 | Powering of mobile base stations | [Planned](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/) | Study planned by the regulator; no instrument or programme |
 
 ### Technical Capacity
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Government network, servers and shared services | [In development](https://obr.bi/index.php/e-kori) | Tax platform entered service 4 August 2026; integrated public financial management system tendered March 2026 |
+| Local capacity to run central government systems | [In development](https://finances.gov.bi/index.php/2026/04/08/le-burundi-prepare-la-mise-en-place-du-systeme-integre-de-gestion-des-finances-publiques/) | Change-management workshop for the financial management system opened 7 April 2026 |
 | Compute or high-performance computing capacity | ***Not held*** | No source on file |
 
 ### Cybersecurity
@@ -381,6 +414,8 @@ The one external digital relationship on record is with India: [talks were opene
 | Gulf-state digital investment in Burundi | Any Gulf-state investment, financing or memorandum covering Burundian digital infrastructure. | 2026-08-09 |
 | Digital literacy programme or measurement | A digital-literacy programme document, or a published measurement of digital literacy. | 2026-08-09 |
 | Data-sharing agreement under the United States health-sector memorandum | The data-sharing agreement itself, a signature date, or a Burundian government statement naming it. The memorandum of 2026-02-09 is held; on the United States government account each such memorandum carries at least one further data-sharing agreement, and those texts are withheld rather than unpublished, in litigation in the United States District Court for the District of Columbia | not yet probed |
+| Rules restricting cross-border data transfer | A Burundian instrument imposing or lifting a restriction on cross-border data transfer, data location or local processing. | 2024-01-04 |
+| Dedicated artificial-intelligence legislation | A loi, decret, ordonnance ministerielle or regulator reglement governing artificial intelligence. | 2025-11-28 |
 
 <!-- narrative: gaps -->
 The not-held rows fall into two groups. Four are absences of any source: satellite and earth-observation data, compute capacity, and Chinese and Gulf-state investment. The rest are absences of an instrument where the base establishes something ought to exist: no interoperability framework beneath a stack of interoperating systems, and no open-data policy beneath an access-to-information bill with no published text. The population figure these systems and registers were sized against is no longer one of the gaps: a [2024 enumerated count of 12,332,788](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) supersedes the projection the identity card, civil registry, social register and electoral roll had been sized against.

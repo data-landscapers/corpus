@@ -3,9 +3,9 @@ title: Burundi — monthly update, August – September 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 place: BDI
-ledger_rows: 18
-not_held: 10
-record: 450c43061ab4
+ledger_rows: 19
+not_held: 12
+record: adf72e6dd41c
 ---
 
 # Burundi: monthly update, August – September 2026
@@ -48,6 +48,11 @@ On the money side, the universal service fund's [revised FY2026/27 procurement p
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 Among the regulator's remedies for degraded service, named [on 3 August](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/), is a planned study on powering mobile base stations.
+<!-- /narrative -->
+### Technical Capacity
+
+<!-- narrative: ict-infrastructure--infra-capacity -->
+The revenue authority's own platform went into production. From 4 August [all new taxpayer registration applications are made exclusively online, with three routes for natural persons, legal persons and cooperatives and a biometric appointment step for fingerprints and photograph](https://obr.bi/index.php/e-kori). It is a government system entering service rather than a procurement notice, which is the rarer of the two on this ledger, and no uptime, throughput or fallback for an applicant who cannot use it is stated.
 <!-- /narrative -->
 
 ## DPI
