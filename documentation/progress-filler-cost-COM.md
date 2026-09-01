@@ -83,3 +83,40 @@ stage only — stage 2 (post-ingest reading), stage 3 (mapping) and stage 4 (ren
 sessions on the far side of an OSINT ingest and a mirror refresh, and are recorded here once
 they happen. The batch sits in `new-queue\COM\` undelivered until Bill hand-carries it
 (§0/§5); nothing here has touched `raw/`.
+
+## Stages 2 to 4 — the read, the mapping and the render (complete)
+
+**One sitting, 2026-09-01, roughly one hour of wall time, no sub-agents.** OSINT hand-carried and
+ingested the batch on 2026-09-01 (46 baseline admitted of 45 staged, 73 progress of 75), and the
+whole of stages 2, 3 and 4 then ran inside a single `CYCLE.md` run: BUILD stages 0 to 7 in 44
+minutes, RENDER in the same session behind it.
+
+| | |
+|---|---|
+| Sources reaching stage 4 | 118 of the 150 staged selections, after ingest dedup and re-slugging |
+| Gaps closed | 71 of 76 probed — Comoros goes from **45 of 121** frame indicators held to **116** |
+| Still *No evidence* | the 5 the sweep returned nil on |
+| Ledger | 120 rows to **172**; 62 rows minted, 21 moved, 12 *Not held* rows settled |
+| *Not held* rows | 35 to **24**, six of the survivors being the budget record Corpus cannot reach |
+| Corrections forced by the new primary texts | 2 — the data protection law is Loi n°14-029/AU adopted 26 June 2014, not the 2021 date an analyst review gave; the cybersecurity law is promulgated and in force since 18 January 2022, not drafted and unenacted |
+| Documents rewritten | all three, plus ten empty monthly narrative blocks written and ten status sub-sections revised |
+| Sessions | one, unbroken from stage 2 to deployment |
+
+**The 32-selection gap between staged and read is note 92's arithmetic, and it cost nothing here.**
+The staged filenames and the ingest slugs count in different units; the run resolved the eight
+unmatched register rows by fuzzy match against the catalogue in a single pass rather than by hand,
+which is the lesson SWZ paid half a day for.
+
+## Yield against the four stages
+
+**71 gaps closed for one sweep session and one mapping session.** The sweep is still the visible
+half and the cheap one; the mapping session did the reading of 118 sources, the authoring of 71
+indicator mappings at 8-40 words of summary and 25-200 of developments apiece, 62 new ledger rows,
+and the revision of two documents that the widened base had made false in places. On this run the
+two halves were close to even in wall time and the mapping half carried the whole of the editorial
+risk — every correction above was found there, not in the sweep.
+
+**The trade Bill has not been asked to make.** Nothing was scaled down: the cap held, all 76 gaps
+were probed and all 118 ingested sources were read. What the run declined was MWI's 111
+unconsidered sources, which the same work order listed and which are a second backfill of this
+size, not a tail of this one.
