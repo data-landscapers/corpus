@@ -3,17 +3,21 @@ title: EU activities — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: geopol.eu
-places: KEN; MLI; MAR; NGA
-record: 3823d7cc3ebc
+places: KEN; MWI; MLI; MAR; NGA
+record: 2469b9155418
 ---
 
 # EU activities: monthly update, August 2026
 
-*4 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Kenya
 
 A European data-adequacy decision was described as being in prospect, in [a development agency interview that mentions it in passing alongside cross-border identity work](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No application, assessment stage or timetable is stated, and neither the European Commission nor the government has said anything on the record here.
+
+## Malawi
+
+The European Union [launched a EUR 143 million annual action plan for Malawi on 21 August](https://www.eeas.europa.eu/delegations/malawi/european-union-launches-new-eur143-million-annual-action-plan-aap-2026-malawi_en), four months after the [fourth partnership dialogue covered new gateway investments](https://www.eeas.europa.eu/delegations/malawi/malawi-and-european-union-hold-partnership-dialogue-1_en). Neither account states a digital or data-governance component of its own, so what the money buys in this sector is not knowable from the record - which is a different problem from the money not existing.
 
 ## Mali
 

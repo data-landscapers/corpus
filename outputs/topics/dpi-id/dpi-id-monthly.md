@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.id
 places: DZA; AGO; BDI; CMR; COM; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 1f829f956333
+record: 39f82d7b85de
 ---
 
 # Digital Identity and CRVS: monthly update, August 2026
@@ -107,9 +107,9 @@ An independent count put a figure on what the enforcement is chasing. A data ana
 
 ## Malawi
 
-The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it named the forthcoming mobile credential and set its launch for September 2026 ([registration bureau](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1)). On 5 August a separate blockchain-enabled wallet built by the United Nations Development Programme was stated to be in pilot ahead of nationwide rollout; neither announcement names the other.
+The registration bureau reported on 13 July 2026 that more than 13.5 million people hold a national digital identity, with over 150,000 enrolled between April and June, 53% of them women ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)). On 6 July it [set the forthcoming mobile credential's launch for September 2026](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1), and on 5 August a separate distributed-ledger wallet was stated to be in pilot; neither announcement names the other.
 
-Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The individual fee levels and their previous values are not carried in the record held, so the size of the increase is not established — but the charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the same month the bureau reported approaching universal coverage.
+Using the system got more expensive. The bureau [raised fees for national identity card replacement, electronic know-your-customer verification, civil registration and marriage services](https://malawi24.com/2026/08/17/nrb-hikes-registration-fees/) under the National Registration (Amendment) Regulations 2026, gazetted on 31 July. The fee levels and their previous values are not in the record held, so the size of the increase is not established. The charge for electronic know-your-customer verification is a charge on third parties for using the identity system, levied in the month the bureau reported approaching universal coverage.
 
 ## Mauritania
 

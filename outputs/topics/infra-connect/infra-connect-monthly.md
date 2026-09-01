@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a2abba920ed7
+record: 0abdc8483dc3
 ---
 
 # Connectivity: monthly update, August 2026
@@ -137,13 +137,13 @@ On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https:
 
 ## Malawi
 
-The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes in at least two daily newspapers seven days before they took effect. Both agreed to credit customers who bought affected products between 26 June and 2 July with bundles equal to the price difference, and to submit evidence of compliance by 31 July ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). The approved price increase itself stands.
+The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes seven days ahead; [both agreed to credit affected customers with bundles equal to the price difference and to show compliance by 31 July](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/). The approved increase stands.
 
-The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
+The ICT minister told Parliament that [additional mobile operator licences are under consideration and that the President had authorised the ministry to find an investor, with spectrum licence fees cut by 50% against the 20% the regulator announced in June 2025](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/). No bid timetable, licence terms or spectrum allocation was stated.
 
-The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
+The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own figures; no official national subscriber and coverage series is held.
 
-The operator's annual report replaced a figure that had carried no period. It [puts network infrastructure investment at MK30.87bn in 2025, directed mainly at modernisation, 4G site expansion and continued 5G rollout](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
+The operator's annual report [puts network infrastructure investment at MK30.87bn in 2025, mainly modernisation, 4G site expansion and 5G](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
 
 ## Mali
 

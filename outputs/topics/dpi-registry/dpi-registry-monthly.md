@@ -4,7 +4,7 @@ compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: dpi.registry
 places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; SWZ; GMB; GIN; GNB; KEN; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 837ad9d34718
+record: 272c1f2e57bc
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
@@ -112,7 +112,7 @@ The health ministry's registration portal reported its first numbers. PharmaGate
 
 ## Malawi
 
-The land register was reviewed rather than extended. A [workflow review workshop was convened on the Land Information Management System](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m). Reviewing workflows is what is done when a system is in service and not working as intended; no parcel count, coverage figure or defect list is published.
+The land register was reviewed at the centre and extended at the edges. The ministry was [reviewing electronic workflows and designing procedures for transactions still on paper](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m), which is what is done when a system is in service and not working as intended, while a March mission had [trained 647 district land officers and delivered over 400 computers, 100 printers and four satellite positioning units](https://www.linkedin.com/posts/digital-malawi-program-phase-i-digital-foundations-project_the-implementation-support-mission-for-the-activity-7442682853747871744-V-s6). No parcel count or coverage figure is published at either end.
 
 ## Mali
 

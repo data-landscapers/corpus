@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GIN; LSO; MLI; NGA; SLE; ZMB; ZWE
-record: 25b38ddd5306
+places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; NGA; SLE; ZMB; ZWE
+record: 036fc9db6135
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Burundi
 
@@ -34,6 +34,10 @@ The first rural digital service to reach farmers this month was a private one ca
 ## Lesotho
 
 Two movements reached rural service points from opposite directions. Thirty [SMS-based birth registration stations were established in government and church health facilities across Maseru, Berea and Leribe on 5 August](https://www.linkedin.com/posts/unicef-lesotho_foreverychild-digitaltransformation-activity-7490765967325597697-36h5), putting the capture point in the clinic rather than the registry office and on a text message rather than a terminal. Days earlier the universal service fund [opened procurement for Wi-Fi and network equipment at police stations across all ten districts](https://lca.org.ls/wp-content/uploads/2026/07/RFP-POLICE-STATIONS-WI-FI-PROJECT-31-JULY-2026_final-.pdf).
+
+## Malawi
+
+The university [ran two days of computer-skills training for 75 police officers](https://www.unima.ac.mw/news/single-post/university-of-malawi-trains-police-officers-in-computer-skills-14-08-2026) on 13 August. It follows the budget statement's [requirement that police fees be paid cashlessly from 1 April 2026](https://finance.gov.mw/documents/uploads/2026-03/Doc%201_2026-27%20Budget%20Policy%20Statement_0.pdf), and neither reaches a station: the crime management system is still at pilot, and no station count or deployment outside headquarters is on file.
 
 ## Mali
 

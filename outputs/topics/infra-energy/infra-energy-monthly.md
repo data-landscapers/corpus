@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-01
 period: 2026-08-01 to 2026-09-01
 subject: infra.energy
-places: BWA; BDI; COM; ETH; LSO; MUS; MOZ; SLE; ZAF; UGA; ZWE
-record: 5d38056d9267
+places: BWA; BDI; COM; ETH; LSO; MWI; MUS; MOZ; SLE; ZAF; UGA; ZWE
+record: 87e7882f28de
 ---
 
 # Energy: monthly update, August 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -30,6 +30,10 @@ The incumbent's renewable programme reached [39.72 MW of installed solar across 
 ## Lesotho
 
 The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
+
+## Malawi
+
+The generator's own account of 22 August [records reduced hydropower generation across several stations with remediation timelines running on](https://www.egenco.mw/status-of-power-generation-in-malawi/). It follows the commissioning in July of the [country's first standalone utility-scale battery storage system, 20 megawatts and 40 megawatt-hours at Kanengo, returning about 100 megawatts of previously curtailed renewable capacity to use](https://www.prnewswire.com/news-releases/malawi-commissions-first-standalone-utility-scale-battery-storage-project-to-strengthen-grid-reliability-and-unlock-energy-access-for-households-and-businesses-302834257.html). Storage was added in the same quarter generation fell.
 
 ## Mauritius
 
