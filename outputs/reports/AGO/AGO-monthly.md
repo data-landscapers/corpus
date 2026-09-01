@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: AGO
-ledger_rows: 33
+ledger_rows: 37
 not_held: 7
-record: d4f7899ed479
+record: 32dfb69edb58
 ---
 
 # Angola: monthly update, August – September 2026
@@ -53,6 +53,14 @@ The national satellite began earning its keep across the border. Mozambique's st
 
 <!-- narrative: governance--gov-standards -->
 The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+August ended with three presidential authorisations in a single week. The president [authorised US$210.91 million for an integrated ecosystem of state digital services](https://angop.ao/noticias/economia/governo-investe-usd-210-milhoes-na-digitalizacao-da-administracao-publica/), [US$13 million for the public administration interoperability platform](https://pti.ao/pr-autoriza-13-milhoes-de-dolares-para-plataforma-de-interoperabilidade-da-administracao-publica/) and [US$4.6 million to strengthen state cybersecurity](https://diariodosnegocios.com/governo-investe-46-milhoes-de-dolares-para-reforcar-ciberseguranca-do-estado/). These are authorisations to spend rather than money spent, and they land against a cyber-security appropriation the ledger recorded falling earlier in the year. Nothing in the record held sets out what the integrated ecosystem consists of, who will build it, or by when.
 <!-- /narrative -->
 
 ## ICT Infrastructure

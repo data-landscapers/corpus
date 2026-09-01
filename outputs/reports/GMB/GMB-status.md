@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-30
+compiled: 2026-09-02
 place: GMB
-ledger_rows: 68
+ledger_rows: 70
 not_held: 13
-record: 64a4d68e8f08
+record: 920dd3ea3ff2
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-30 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (68 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (70 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -35,6 +35,7 @@ Two questions about foreign operators are open: [Starlink is still unlicensed](h
 | National Data Policy 2025 | [In development](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx) | Draft published by the communications ministry |
 | National Digital Economy Master Plan 2024-2034 | [Implemented](https://mocde.gov.gm/wp-content/uploads/2024/05/National-Digital-Economy-Masterplan.pdf) | Adopted for the period 2024 to 2034 |
 | National Digital Identity Strategy 2023-2028 | [Implemented](https://www.uneca.org/stories/validation-of-the-gambia's-national-digital-id-and-digital-transformation-strategy) | Validated at a UN Economic Commission for Africa-supported workshop, 17 May 2024 |
+| Science, technology and innovation policy 2027-2035 | [In development](https://thepoint.gm/africa/gambia/national-news/gambia-validates-new-10-year-sti-policy-to-drive-jobs-innovation-and-climate-resilience) | Validated 2026-08-31 |
 
 ### Legislation and regulation
 
@@ -43,6 +44,7 @@ Two questions about foreign operators are open: [Starlink is still unlicensed](h
 | Access to Information Act | [Implemented, largely unimplemented in practice](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/) | Press union reported implementation ineffective 2026-08-07 |
 | Broadcasting and Online Content Regulations, 2026 | [In development](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf) | Draft issued for public consultation 2026-04-02; child-protection provisions set out by the information minister 2026-08-16 |
 | Communications Bill 2025 | [In development](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Sitting with National Assembly committees after second reading on 2 March 2026 |
+| National Research, Development and Innovation Council Bill | [In development](https://www.linkedin.com/posts/ministry-of-higher-education-research-science-and-technology_cabinet-approves-national-research-development-activity-7499615459382775808-MOKX) | Approved by cabinet 2026-08-29 |
 | State Intelligence Service Bill | [In development](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Draft validated at a stakeholder workshop, 31 July 2026 |
 
 ### Data protection
@@ -154,7 +156,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Margins ID national identity contract | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Signed by the Ministry of Interior with Margins ID Systems Applications, 21 January 2026 |
+| Margins ID national identity contract | [Implemented](https://foroyaa.net/gambians-welcome-biometric-id-rollout/) | Enrolment demand exceeding daily caps 2026-08-28 |
 | National Identity Management System (GAM ID) | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout) | Phased rollout calendar and fee published, 2026-08-25 |
 
 ### Digital Payments and Fintech

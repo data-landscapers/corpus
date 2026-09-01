@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: MUS
-ledger_rows: 25
+ledger_rows: 26
 not_held: 9
-record: 9303eab12e00
+record: cb06fb327496
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -37,6 +37,11 @@ The primary text of the [Data Protection Officer Regulations 2026](https://mitci
 
 <!-- narrative: governance--gov-regional -->
 The continental internet registry seated here is still without a settled board. One outlet's analysis records that the registry [named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised](https://btw.media/en/afrinic-eight-seat-board-election-result-evidence-gap), and that the appeal court has now [set aside its 2023 appeal for want of corporate authority without ruling on the official receiver's permission or on statutory leave](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-appeal-receiver-permission-statutory-leave-undecided). The chain from election through appointment to quorum is therefore unresolved and the receiver undischarged. No registry statement on the withheld tallies is held.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Mauritius moved to bind its own digital services to a standard. Cabinet [took note on 28 August of a Digital Service Framework setting mandatory principles and standards for every government digital service, from procurement through maintenance](https://maurice-info.mu/2026/08/28/deliberations-du-conseil-des-ministres-du-28-aout-2026.html), and the government information service [set out that the framework will cover every service developed, procured or maintained by the state](https://gis.govmu.org/gis/?page_id=4022). Noted is not issued: the record held carries no compliance date, no owner and no consequence for a service that fails it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 

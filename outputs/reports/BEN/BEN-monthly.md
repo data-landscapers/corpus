@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: BEN
-ledger_rows: 10
+ledger_rows: 14
 not_held: 5
-record: f10933681837
+record: 17b1140bd740
 ---
 
 # Benin: monthly update, August – September 2026
@@ -27,6 +27,11 @@ Two working systems tightened. A university [made its academic-records platform 
 <!-- narrative: governance--gov-regional -->
 The cross-border digital identity work Benin does through Smart Africa moved from development into a running pilot: [an identity issued in one of Rwanda, Ghana or Benin is now being recognised in the other two](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), with eighteen further countries said to be joining and no date given for any of them.
 <!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+Internet governance was taught rather than legislated. A school on the subject [was held in Ouidah with human rights at the centre of its programme](https://lematinal.bj/ecole-sur-la-gouvernance-de-linternet-au-benin-a-ouidah-les-droits-humains-au-coeur-de-la-revolution-numerique/). It is a training event; the record held names no policy process it feeds into.
+<!-- /narrative -->
 
 ## Finance
 
@@ -38,6 +43,11 @@ One commitment entered the window. During a ministerial visit of 4 to 6 August, 
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+The regulator published a competitive ranking. Its weekly readings [placed the state-linked operator Celtiis ahead of MTN and Moov Africa on 3G and 4G data speed](https://www.lanation.bj/numerique/telecoms-debit-internet-3g-4g-les-donnees-de-larcep-placent-celtiis-devant-mtn-et-moov-africa). The measurement is the regulator's own, the ordering rather than the absolute speeds is what it publishes, and the state's interest in one of the three operators is worth holding in mind while reading it.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -52,6 +62,11 @@ The month's one figure for how exposed the country is came from a vendor rather 
 The exchange [recorded more than 138 million requests in total](https://statistiques.xroad.bj/), 32.7m in the preceding thirty days, across 73 members, 176 information systems and 512 services.
 
 A second kind of data exchange entered the record in August, and it is regional rather than national. The BIC-UEMOA credit information bureau held its first Cotonou data forum on 23 July, [reported on 13 August](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux), with the finance ministry framing data quality as the route to cutting credit-approval turnaround to 48 hours. The bureau spans all eight union states with 321 data providers, about 48 million contracts and more than 20 million active borrowers. The figures are the operator's own and union-wide; nothing Benin-specific — coverage, dispute rate or the data-protection basis for the file — is held.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+The identity agency wants to analyse what it holds. It [opened a tender for the architecture of a business-intelligence environment over its national identity data](https://www.ungm.org/Public/Notice/312907). Analytics over a population register raises the question of what the analysis is for and who may run it; the tender notice in the record held does not answer either, and no purpose limitation is stated.
 <!-- /narrative -->
 ### Sectoral management information systems
 

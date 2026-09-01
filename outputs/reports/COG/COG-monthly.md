@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: COG
-ledger_rows: 15
+ledger_rows: 18
 not_held: 12
-record: fbc0754edba5
+record: 937ccafb76a9
 ---
 
 # Congo: monthly update, August – September 2026
@@ -31,6 +31,19 @@ The education ministry's digital roadmap [was validated at a Brazzaville worksho
 
 <!-- narrative: governance--gov-regional -->
 The broadcasting regulator and its counterpart across the river [signed a memorandum formalising their partnership after two days of work on 19 and 20 August](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340). No text, scope or commencement is published, so what the base holds is that two regulators have agreed to cooperate.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The month's governance news is a prosecution. An international observatory [recorded continued judicial harassment of the defender Ghislain Ondele Kanga and the opening of his trial](https://www.fidh.org/fr/themes/defenseurs-des-droits-humains/congo-poursuite-du-harcelement-judiciaire-et-ouverture-du-proces-de-m-33088). The record held carries no state response to the account.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+A number was put on the sector's future. Consultancy forecasts reported by the state news agency [attribute more than 800 billion of gross domestic product to the digital economy within five years](https://www.aci.cg/congo-numerique-plus-de-800-milliards-du-pib-pour-leconomie-numerique-dici-cinq-ans/). It is a projection carried by the state agency, not a measurement, and the record held carries no current figure for the sector's contribution against which to read it.
 <!-- /narrative -->
 
 ## ICT Infrastructure

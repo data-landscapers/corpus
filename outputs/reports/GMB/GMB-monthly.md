@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, August – September 2026
-compiled: 2026-09-01
-period: 2026-08-01 to 2026-09-01
+compiled: 2026-09-02
+period: 2026-08-01 to 2026-09-02
 place: GMB
-ledger_rows: 12
+ledger_rows: 16
 not_held: 13
-record: d06e6392a2e6
+record: bbb4fcf983dc
 ---
 
 # Gambia: monthly update, August – September 2026
@@ -22,6 +22,11 @@ The electoral register is contested. Opposition parties put it to the commission
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The policy shelf was restocked, with an unusually frank admission attached. The Gambia [validated a ten-year science, technology and innovation policy for 2027-2035 after its minister conceded the previous one achieved none of its objectives](https://thepoint.gm/africa/gambia/national-news/gambia-validates-new-10-year-sti-policy-to-drive-jobs-innovation-and-climate-resilience). A minister saying so on the record is worth more than the policy document itself, because it dates the failure the successor has to avoid. Cabinet separately [approved a bill to establish a national research, development and innovation council](https://www.linkedin.com/posts/ministry-of-higher-education-research-science-and-technology_cabinet-approves-national-research-development-activity-7499615459382775808-MOKX); the council does not yet exist.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
@@ -82,4 +87,12 @@ The revenue authority said on [30 July 2026 that South African and Rwandan custo
 The trade ministry said on [4 August 2026 that a Digital Single Window Business Registration System is being finalised](https://thepoint.gm/africa/gambia/headlines/trans-gambia-economic-zone-set-to-create-3400-jobs-as-investor-interest-grows), with no launch date.
 
 The electoral commission's digitalisation produced its first published contest figure. At a stakeholders' forum on 7 August the chief electoral officer disclosed [1,600 objections filed against the 2026 supplementary voter roll](https://thepoint.gm/africa/gambia/headlines/iec-received-1600-objections-in-voter-registration-njie), on eligibility and residency, now before Revising Court Magistrates ahead of the provisional register being merged with the 2021 Voter Register. No denominator of supplementary registrations, no outcome of the hearings and no merged register total is held.
+<!-- /narrative -->
+
+## Data
+
+### Open data
+
+<!-- narrative: data--data-open -->
+One measured position moved into the record. The Gambia [ranked third in sub-Saharan Africa on budget transparency in the 2025 open budget survey](https://foroyaa.net/gambia-ranks-third-in-sub-saharan-africa-on-budget-transparency/). Budget transparency and open data are different things: the survey measures what a government publishes about its own spending, and the record held still carries no dataset count or portal for The Gambia.
 <!-- /narrative -->
