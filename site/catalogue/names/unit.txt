@@ -77,6 +77,7 @@ Budget GNU Government of National Unity MINCOMBUD	11986
 Burkina Faso and United Arab Emirates-based Presight	3624
 Business Unit Fixe	9916
 CAB-26 REPUBLIQUE DU CONGO Unité	6067
+CARTOGRAPHIC UNIT UN-GGIM Southern Africa Sub-regional	13733
 CDC United States Centers for Disease Control	13300
 CEFACT United Nations Centre for Trade Facilitation	13042
 CEO of United SA	6238
@@ -133,6 +134,7 @@ Committee PIU Project Implementation Unit PDO	11417
 Committees DMMU Disaster Management and Mitigation Unit	13332
 Communications Technology Unit Haile Sellaise Avenue	34
 Community Policing Unit Strategic Plan	12732
+Comoros. Requesting Unit	13734
 Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717
 Complaint Unit CEET Compagnie Energie Electrique	12062
@@ -168,7 +170,7 @@ Coût Moyen Unitaire Pondéré	10975
 Creation of Additional Polling Units The Commission	10049
 Crisis Coordination Unit	6947
 Cultural Organization WASH United Nations High	11905
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35,295,50,19,41,211,1155,1,402,8,1
 Currency Unit1 Equivalent	11863
 Custom Duties Unit Price	13185
 Cyber Crime Unit	7777
@@ -798,7 +800,7 @@ Responsibility for Data National Learning Assessment Unit	11905
 Responsible Business Unit	11188
 Responsible Business Unit Develop	11188
 Responsible Business Unit Time	11188
-Responsible Unit	10870,1095,1093
+Responsible Unit	10870,1095,1093,676
 Responsible Unit Timeline Indicators	12240
 Responsive Planning UN United Nations and Budgeting	11193
 Result Delivery Units	11857
@@ -948,6 +950,7 @@ Trade and Development UNDP United Nations Development	1264,5682,602
 Trade and Development UNECA United Nations Economic	10841
 Trade and Development UNESCO United Nations Educational	2775
 Traffic Management and Road Safety Unit	7845
+Transition Support Facility UA Unit of Account	13731
 Transitional Government of National Unity	13418
 Transitional Stabilisation Programme UNCAC United Nations	970
 Transnational Organised Crime Unit	9077
@@ -971,6 +974,7 @@ UN MMEIG United Nations Maternal Mortality	11887,266,1,9,178
 UN PRINCIPLES AND GUIDELINES The United	1243
 UN United Nations	12367
 UN United Nations UNCDF United Nations	13388
+UN United Nations UNDESA United Nations	13731
 UN United Nations UNDP United Nations	12512
 UN United Nations UNEP United Nations	11553
 UN United Nations USD United States	12964
@@ -987,6 +991,7 @@ UNDP Mauritius Team United Nations	11332
 UNDP OFFICE ZIMBABWE PROCUREMENT UNIT	13618
 UNDP United Nations Cooperation Programme	12675
 UNDP United Nations Development Budgeting	11193
+UNDP United Nations Development Program PUMA	13729
 UNDP United Nations Development Programme UNFPA	11586
 UNDP United Nations Development Programme UNICEF	10964
 UNECA United Nations Economic Commission for Africa	13295
@@ -1006,6 +1011,7 @@ UNICEF United Nations Children’s Fund UNIMA	13080,15
 UNICEF United Nations Children’s Fund USAID	10768
 UNICEF United Nations International Children's Emergency	13420
 UNION BANK UNITY BANK WEMA BANK	11002
+UNION DES COMORES Unité	13707,2,1,5,4
 UNION DES COMORES Unité-Solidarité-Développement	3715
 UNIT and RuL	6891
 UNITA	4736,1546,565,271,2041,240,306,2414
@@ -1072,6 +1078,7 @@ Unit PDO Project Development Objective PFM	11560
 Unit PKI Public Key Infrastructure PND	13331
 Unit POM Project Operations Manual PPP	10829
 Unit PPE Personal Protective Equipment SCT	13332
+Unit PPPs Public-Private Partnerships PTFs Technical	13731
 Unit Permanent Secretary World Bank Organogram	13332
 Unit Price Negarit G. P.O.Box	12146,39,41
 Unit Prices and Value of Selected Crops	2775
@@ -1139,7 +1146,7 @@ United Green	11469
 United Heart Movement	4127
 United Hotel	10975
 United Investment LMT	12035
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62
 United Kingdom Corresponding Author	12025
 United Kingdom Foreign	10768
 United Kingdom Global Cybersecurity Index	10764
@@ -1286,7 +1293,7 @@ United Nations Framework General Convention	1988
 United Nations Fu Cong	8740
 United Nations Fundamental Principles	11237
 United Nations Fundamental Principles of Official Statistics	11201,1701,247,156
-United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986
+United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986,762
 United Nations General Assembly and Nigeria	8552
 United Nations Global AI Governance Dialogue	7103
 United Nations Global Counter-Terrorism Strategy	11183
@@ -1632,7 +1639,7 @@ Unity State.306 Despite	3583
 Unity and Culture	12182,823
 Unity and Trust Amidst Current Challenges	9914
 Unity and Upper Nile	3583
-Unité	37,700,1100,147,2436,119,335,2030,202,1163,1250,750,206,69,331,1,99,843,192,17,1387,54,99
+Unité	37,700,1100,147,2436,119,335,2030,202,1163,1250,750,206,69,331,1,99,843,192,17,1387,54,99,156
 Unité Africaine	9637
 Unité Gouvernance	13476
 Unité Nationale	13442
@@ -1647,6 +1654,7 @@ Unité de Coordination du Programme National Foncier	13375
 Unité de Coordination du Projet	5370
 Unité de Gestion Composantes du PAFEN	13338
 Unité de Gestion de Projet	3715
+Unité de Gestion des Projets Filets Sociaux	13737
 Unité de Gestion des Réformes des Institutions Financières	11944
 Unité de Gestion du PEAPPJF	13630
 Unité de Gestion du Projet	4342,898,6803,1512

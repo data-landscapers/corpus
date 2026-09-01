@@ -405,6 +405,7 @@ Communication Technology Centres SME Small and Medium-Sized	12973
 Communication and Media	13312,2
 Communication and Media Support	8999
 Communities Media Material	7204
+Comoros ECMWF European Centre for Medium-Range Weather	13729
 Compel Social Media Giants	7853
 Competition Commission's Media and Digital Platforms Market	13267
 Competition Commission’s Media and Digital Platforms Market	11308
@@ -1245,7 +1246,7 @@ Medication and MedicationRequest	13471
 Medici Land Governance	12333
 Medicina1	10780
 Medicinal	2775
-Medicine	961,6828,817,1465,2194
+Medicine	961,6828,817,1465,2194,1479,3
 Medicine CT Document Metadata Subscription DICOM	1009
 Medicine Container Label	9855
 Medicine EMR Document Metadata Subscription EUA	1009
@@ -1253,7 +1254,7 @@ Medicine Unlocked	8605
 Medicine and Clinical Sciences Medicin3e5a	1154
 Medicine and Health Science	12199
 Medicine1 Hirurgija2	10780
-Medicines	9429,426,3124,582
+Medicines	9429,426,3124,582,183
 Medicines Availability	13474
 Medicines Procurement Unit	10829
 Medicines Regulation	12976

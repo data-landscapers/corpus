@@ -732,6 +732,7 @@ Dominica National Register of Natural Persons	10714
 Dot KE Subdomain Registrars	6946
 Download Registering	12350
 Download Supplementary REGISTRATION OF VOTERS	12350
+Du Registre Social Unique ARTICLE	13715
 Duty of District Registrar	12523
 Dynamic Malawi Social Registry	13111
 Dynamic Social Registries	11133
@@ -851,6 +852,7 @@ Film Applications and Registrations	11250
 Final Register of Voters	13598
 Fiscal Register	10765,10
 Fixed Asset Register	9004
+Fonctionnement du Registre Social Unique	13715
 Foreign Births Registration By Sex	12151
 Foreign Nationals Registered	2775
 Foreign Registration of Vessels Under National Flags	12389
@@ -1084,7 +1086,7 @@ Law Source National Registration Act	12406
 Law Source National Registration Regulations	12406
 Laws of Zambia Registration Stamp	12410
 Le Registre	735,4436,5711
-Le Registre Social Unique	10910
+Le Registre Social Unique	10910,2805
 Lead Civil Registry and Immigration By Sasuk	9122
 Leading CauseS of Registered Deaths for Neonates	12151
 Leading Causes Of Registered Deaths	12151
@@ -2179,7 +2181,7 @@ Registrations Fig	1554
 Registrations Useful Info	12454
 Registrations and Intellectual Property Centre	13177
 Registrations for National ID	13080
-Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22
+Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70
 Registre Article	735
 Registre Commerce	13524
 Registre Electronique de Consultations-Maternite	10881
@@ -2193,10 +2195,11 @@ Registre National	557,627,47,6762,1644,1,30,879,274,1222
 Registre National Unique	417,3783
 Registre National des Nationalités	7993,1675
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
+Registre Social	13715
 Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
 Registre Social Unifié du Cameroun	10985
-Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86
+Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1
 Registre Sont	735
 Registre de Commerce	5478
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
@@ -2558,6 +2561,7 @@ Unified Social Registry of Cameroon	10971,14
 Unified Social Registry. Algeria	10991
 Unified Social Registry. The Project's MIS	11855
 Unified System for Civil Registration and Administrative	10714
+Union des Comores Registre	13727
 Unique Entity Registration Number	6121
 Unique Registry	11133
 Unique Social Register	1828

@@ -14,26 +14,33 @@ AI. Analyses	10201
 AI. Anasisitiza	5090
 AIDS Anaemia Heart	12138
 AMI Analyse	10876
+AMOA Project Management Assistance ANADEN National	13731
 ANA Exemplars Matric Results Curriculum Curriculum	11241
 ANA Exemplars Matric Results Examinations Grade	11220
 ANA Exemplars Matric Results Research EMIS	11220
 ANAB SUP	8420
 ANABH	7670,651
 ANACIM	7640
+ANACM	13729
 ANACOM	5404,6127,38
 ANACONDA. Melbourne	12413
 ANACOOP	9174,336,4180
 ANACoD	12367,46
 ANACoD3	7838,4575
 ANADEC	8901
-ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315,517
+ANADEN	324,419,1851,221,20,17,108,40,59,2311,675,2315,517,4841,1,3,6,3
+ANADEN Agence Nationale de Développement Numérique	13725
 ANADEN INFORMATION	743
+ANADEN Monsieur Chamsoudini MZAOUIYANI	13728
 ANADEN Vous	743
 ANADEN of UA	5370
 ANADEN's DG	324
+ANADEN. Article	13719
 ANADEN. Cette	5370
 ANADEN. Comoros	3059
+ANADEN. Elles	13719
 ANADEN. Nous	8360
+ANADEN. Sont	13719
 ANADER	2342
 ANADER Date	2342
 ANAIP	113
@@ -182,13 +189,13 @@ Analyse des Systèmes Educatifs	11905,1407,2
 Analyse du Secteur des Tic	13313
 Analyse. Une	6257
 Analyseerrors	8606
-Analyser	747,12554,40
+Analyser	747,12554,40,378
 Analyses	11131,3,451,413
 Analyses Alimentaires	4402
 Analysing	4866,3156,1106,309,1289,310,194,1137,18,60
 Analysing Infrastructure	11990
 Analysing the Italian	5700
-Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169
+Analysis	446,353,462,23,48,267,60,83,11,229,6,108,166,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20,27,13,5,19,145,75,35,6,35,225,20,106,204,24,23,14,48,22,8,96,243,5,62,45,55,12,423,37,5,28,450,169,117
 Analysis By Allen Mangava	6099
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
@@ -559,7 +566,7 @@ Economic Analysis of National Government Expenditure	2775
 Economic Analysis. The Project	11417
 Economic Analyst	11289
 Economic Policy Analysis and Research Centre	12956
-Economic and Financial Analysis	969,259,639,1737,2935,4229,196,416,169,11,295,110,1366,1
+Economic and Financial Analysis	969,259,639,1737,2935,4229,196,416,169,11,295,110,1366,1,411
 Economic and Financial Analysis COUNTRY	13332
 Edo and Anambra State	12004
 Education Sector Analysis	3583,9392,374
@@ -769,6 +776,7 @@ Mathesis Analytics	7415
 Migration Information and Data Analysis System	7048
 Minister Anand	9043,232,44
 Mobility and Data Analytics Mobility and Data Analytics	11854
+Modifier. ANADEN	13719
 Monetary Policy Forecasting and Analysis	11906
 Monitoring CDMAS Centralised Data Management Analytical	11224
 Multi-Aligned Partnerships Analysis	12512
@@ -837,6 +845,7 @@ Process Analysis	11941
 Process Flow Analysis	3005
 Procurement Risk Analysis	11525
 Professor Sandra Maximiano of ANACOM	7323
+Program ANACM National Agency of Civil Aviation	13729
 Program Analyst	12663
 Program. Analysis	11905
 Project Preparation Stakeholder Identification and Analysis	1988
@@ -996,6 +1005,7 @@ Trade Analysis. Sept	1243
 Traffic Analysis	11231
 Tropical Cyclone Jude and Chido. Predictive Analysis	13080
 U. Anagboso	5349
+UIT SADC COMESA ANADEN	13716
 UN WOMEN Analysis	13312,2
 UN-Habitat Executive Director Ms Anacláudia Rossbach	11285
 UNDP Digital and Innovation Analyst	13032
@@ -1015,7 +1025,7 @@ Using Thematic Analysis	5349,5679
 VIII.7.5 Analyse	10876
 Variance Analysis	12241
 Vasilios Anatolitis-Pelka	11572
-Vasumathi Anandan	12227
+Vasumathi Anandan	12227,1486
 Vulnerability Assessment and Analysis	12977
 Weaponisation of AI Against the State. Analysis	4528
 Workshops Comparative Analysis	13005

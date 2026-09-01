@@ -271,7 +271,9 @@ Cummings NA. National Health Statistics Reports	12379
 Customer Premises Stations Out Associated Base	736
 Cyber Incident Statistics and Comparative Analysis	9678
 Cybersecurity Bi-Annual Statistics Report	2230,1106
+DE L'INFORMATION STATISTIQUE Article	13707
 DE STATISTIQUES ET D’ÉTUDES	13300
+DES FINS STATISTIQUES. Article	13707
 DES LANGUES NATIONALES ANNUAIRE STATISTIQUE	10847
 DES RECENSEMENTS ET ENQUETES STATISTIQUES Article	785
 DES STATISTIQUES SCOLAIRES	13478
@@ -281,7 +283,8 @@ DISSEMINATION OF VITAL STATISTICS	12413
 DRC Police Station UIS	13046
 DRS Kenya Statistics Package	12297
 DU PRINCIPE DU SECRET STATISTIQUE Article	785
-DU SYSTEME STATISTIQUE NATIONAL Article	785
+DU SECRET STATISTIQUE Article	13707
+DU SYSTEME STATISTIQUE NATIONAL Article	785,12922
 DU VISA STATISTIQUE Article	785
 Data Analytics and Statistical Laboratory	11627
 Data Infrastructure Statistics Act	12907
@@ -518,7 +521,7 @@ IMF's International Financial Statistics	10985
 IMF's Statistics Department	11554,419
 INS Institut National de Statistique	11944
 INSTITUT NATIONAL DE LA STATISTIQUE	13334,43
-INSTITUT NATIONAL DE LA STATISTIQUE ET	10874,1
+INSTITUT NATIONAL DE LA STATISTIQUE ET	10874,1,2871
 INTRODUCTION This Quarterly Statistical Bulletin	2776
 ITU Radio Regulations. Gateway Earth Station	2913
 ITU Statistics Update	11424
@@ -1354,7 +1357,7 @@ Statistiese	11201
 Statistiese Klaringshuis	11201
 Statistikus	11201
 Statistikus-generaal	11201
-Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355
+Statistique	737,1091,154,643,986,714,2253,381,1269,159,899,195,72,62,670,527,35,22,5,2,88,1,221,1,757,29,9,1100,218,34,355,18,8,31
 Statistique Africaines RGE	10874
 Statistique CS	10874
 Statistique IFORD	10874
@@ -1375,8 +1378,10 @@ Statistique du Burundi. Vous	13393
 Statistique du Ministère	9553
 Statistique du Secteur Développement Rural	9553
 Statistique-CNS	10874
+Statistique. Article	13707
+Statistique. Présidé	13707
 Statistiquement	6959
-Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4
+Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47,2379,1,23,25,93,36,4,267
 Statistiques DGEPF Direction Générale	11944
 Statistiques F	7655
 Statistiques Fiables	13377
@@ -1386,6 +1391,7 @@ Statistiques Statistiques	7917,801
 Statistiques de Vie	10812
 Statistiques du Ministère	13325
 Statistiques du Travail	11271
+Statistque	13746
 Stats SA Statistician General	11289
 Stats SA's Quarterly Employment Statistics	2626
 Strategy for Development of Statistics RBC Rwanda Biomedical	12413

@@ -172,7 +172,7 @@ Suit No. FHC	7560,40,4393
 Suitable	1814,14,10847,362,348
 Suitable IP	12949
 Suitable Strategies The North West and North	11998
-Suite	998,2356,27,3573,716,1416,1691,352,451,34,247,1282,157,75,87
+Suite	998,2356,27,3573,716,1416,1691,352,451,34,247,1282,157,75,87,257
 Suite Besoins	13300
 Suite Caractéristique Urbain Ménages Ensemble Urbain	13300
 Suite Caractéristique Violence Violence Violence Violence	13300
@@ -196,7 +196,7 @@ SuiveursSuivre	1876
 Suivez	1588,2792,671,2977,5661
 Suivez-nous	8718,1573,3062,21
 Suivez-vous	9993
-Suivi	1214,224,904,624,2030,139,495,516,4547,19,164,89,10,1068,1247,100,43
+Suivi	1214,224,904,624,2030,139,495,516,4547,19,164,89,10,1068,1247,100,43,315
 Suivi Agricole PIB	13377
 Suivi CTGP Comité Technique de Gestion de Programme	10712
 Suivi CVDS Cycle de Vie du Développement du Système	13341
@@ -217,7 +217,7 @@ Suivi-Évaluation	5221,5655,2670,122
 Suivi-évaluation	8269,2706,1068
 Suivi. Chaque Comité Technique de Gestion de Programme	10712
 Suivra	2835
-Suivre	1317,724,2277,3337,1751,885,585,89,979,1357,63,338
+Suivre	1317,724,2277,3337,1751,885,585,89,979,1357,63,338,16,1
 Suivre le DHS Program	13300
 Suiza BERSET BIRCHER	6613
 Système Intégré de Suivi-Evaluation	8237

@@ -48,6 +48,7 @@ Adoni Conrad Quenum Edité	8232,1363
 Adoni Conrad Quenum. Adapted	6893,200
 Adérito Ferreira-Angop Quarta	11429,3,47
 Affordability and Quality of Service	12659
+Africa QEP Quantitative	13729
 Africa. Qubit Hub	6332
 African Continental Qualifications Framework	7573
 Africa’s Mathematics Queen	9014
@@ -757,6 +758,8 @@ Lot Description of Goods Quantity Delivery Number	13185
 Lot Quality Assurance Sampling MDA	10776
 Luanda Medicine Quality Control Laboratory	2242,63
 Lumitel. Quelqu’un	13530
+M&E Quality Satisfactory	13742
+M&E Quality Substantial. Implementing Agency	13722
 M-PESA. Qualifying	10458
 M. M. Quinlan	5349
 M. QUESTIONNAIRE DEMANDE-QUESTIONS SUR LA FINANCE	13390
@@ -887,6 +890,7 @@ National Institute for Quality Infrastructures	11493
 National Institute of Quality Infrastructure ISO	11493
 National Institute of Quality Infrastructure Membership	11493
 National Laboratory Quality Policy	11417
+National Meteorological and Hydrological Service QMS Quality	13729
 National Planning Commission NQA Namibia Qualification	12923
 National Quali	1009
 National Qualification Framework	13371
@@ -1513,7 +1517,7 @@ QualityEducation	13204
 QualityFilterEnabled	10848
 QualityInfrastructure	13221
 Qualität	383,1150,687
-Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43
+Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263,943,26,1357,89,43,283
 Qualité ARMP Agence de Régulation des Marchés	10975
 Qualité Gouvernance Gouvernance Annexe	2966
 Qualité Gouvernance Primaire Accès	2966
@@ -1827,7 +1831,7 @@ Quest MB	5903
 Quest Merchant Bank	5903
 Quest for Free Digital Trade	226
 Quest.FRANÇAIS	13300
-Question	1283,3449,290,225,526,20,1074,1,603,516,2326,451,450,56,1338,129,650
+Question	1283,3449,290,225,526,20,1074,1,603,516,2326,451,450,56,1338,129,650,361
 Question NW204	6832
 Question NW2745	9684
 Question NW4186	10889
@@ -1927,7 +1931,7 @@ QuickBook	1264
 QuickPay SA	11826,239
 Quicker	5247
 Quickly	6971,6733
-Quiconque	436,349,10028,767,1713,37
+Quiconque	436,349,10028,767,1713,37,389
 Quicunzo	4044
 Quicunzo. Agostinho Afonso	6741
 Quidax	8265,178,380,1332

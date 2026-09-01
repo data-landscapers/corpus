@@ -641,12 +641,13 @@ Citizenwashing EU	11050
 Citizen’s Rights	970
 Citizen’s Rights Priority Area	970
 Citofuonrtdyicspanosbael	12151
-Citoyen	6221,4591,2478,51
+Citoyen	6221,4591,2478,51,407
 Citoyen Activités	13341
 Citoyen Calendrier	13341
 Citoyen Initiative	13341
 Citoyen LISTE DES TABLEAUX Tableau I.1	13341
 Citoyen Nous	13341
+Citoyenne	13748
 Citoyenneté	3396,5341
 Citoyenneté Retourner	13499
 Citoyens	3381,6099,1611,580,1670
@@ -739,6 +740,7 @@ Collab Citizen	11251
 Collab Citizen App	11251
 Commencement Cited	1535
 Comment CITADEL	2732
+Conclusion Le Portail Unique du Citoyen	13751
 Condition for Lifesaving Aid Citing ProPublica	10446
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345
 Connect Citizens	3306
@@ -930,6 +932,7 @@ Jinja City	6121,2566
 Jinja Resident City Commissioner	6121
 Journal Citation Reports	11898
 Juba City Council	3046,1051
+Justification Le Portail Unique du Citoyen	13751
 KENEMA CITY	9450
 Kadiogo du Balai Citoyen	8634
 Kadiogo du Balai Citoyen. Sadiya Diallo	8634
@@ -1114,6 +1117,8 @@ People-Centred Smart City Strategy	6676,2000,46
 Plaintiff Public Citizen	5692
 Port Harcourt and Benin City	5874
 Port Sudan City	1887
+Portail Unique du Citoyen	13751
+Portail Unique du Citoyen. Ce	13751
 Postcode City L.G.A. State	11129
 Postcode City L.G.A. State Country Figure	11129
 Power Smart City Vision	3101

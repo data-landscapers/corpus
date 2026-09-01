@@ -359,6 +359,7 @@ KENGEN KETRACO KNBS KOSF KOT KPC	12256
 KO-SCS	3954
 KOACI	7806
 KOAFEC	9905,314,1644
+KOAFEC Korea-Africa Economic Cooperation MFBSB Ministry	13731
 KOAFEC Ministerial Conference	9905
 KOAFEC Trust Fund	9905
 KOBIKISA Health System Strengthening	10829
@@ -570,7 +571,7 @@ Kofi Yeboah	6267,2244
 Koflankro	2342
 Koforidua	2776,610,3982
 Koforidua Office	2776
-Kogan	11762
+Kogan	11762,1988
 Kogho	10875
 Kogi State	7110,4880
 Kognimansso	3569
@@ -643,6 +644,8 @@ Komatsubara	10195
 Kombi	12977
 Kombissiri	10875
 Kombissiri. Après	9050
+Komenan Koffi	13734
+Komenan Koffi. Beneficiary Country	13734
 KomendaEdina-Eguafo-Abrem Municipality	7695
 Komi Amedjonekou ICT	5087
 Komi Selom Klassou	9974
@@ -668,7 +671,7 @@ Kommunikationstechnologien	178,518,205
 Komo-Océan	11049
 Komono	5754
 Komor Pay	6068,78
-Komor Switch	5996,49,14,9,78
+Komor Switch	5996,49,14,9,78,7596
 Komor Switch Des	6146
 KomorPay	6045,14,9,78
 Komora Vocational Training Centre and St. Benedict	7394

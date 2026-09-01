@@ -376,6 +376,7 @@ Bank Ownership Type.............................20 Figure	10718
 Bank PART III	12447
 Bank PART III IMPLEMENTATION	12365,720
 Bank Performance	10779
+Bank Performance Satisfactory	13722
 Bank Policies	11863
 Bank Policy and Directive	11525,330
 Bank Preservation	12938
@@ -419,7 +420,7 @@ Bank Windhoek Managing Director	13194
 Bank Windhoek Managing Director James Chapman	12107,372,713
 Bank ZISPIS Zambia Integrated Social Protection	13332
 Bank and Eswatini	11131,3
-Bank and IFC	11965
+Bank and IFC	11965,1769
 Bank and Ingcebo Joint Venture	11134
 Bank and MM	12460
 Bank and Other Formal Non Bank Banked	940
@@ -768,7 +769,7 @@ Central Africa. The Bank of Central African	10022
 Central Africa. The World Bank	5316
 Central African Central Bank	10075
 Central African States BEAC Bank of Central	10841
-Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153
+Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56
 Central Bank Act	12653
 Central Bank Affirms Mobile Money	3308
 Central Bank Bill	11131,3
@@ -1053,6 +1054,7 @@ Data Centre Project China Construction Bank	340
 Data World Bank	12376
 Data for Better Lives. World Bank. Doi	961
 Data. The World Bank	11483
+Dec-2025 RATINGS SUMMARY Outcome Bank Performance	13742
 Decision of Bank	13566
 Definitions Central Bank Digital Currency	11130
 Delta Corporation and Stanbic Bank	6492
@@ -1474,7 +1476,7 @@ Inter-American Development Bank Group and World Bank	13031
 International Affairs Bhekizwe Dlamini Bank Supervision	11131
 International Bank Liberia Limited	4283
 International Bank for Reconstitution and Development	10812,1722
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39,107,128,27,295,7,5,2,1,299,147,7,11,42,38,115,427,217,129,81
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39,107,128,27,295,7,5,2,1,299,147,7,11,42,38,115,427,217,129,81,318
 International Experience. World Bank Policy Research	10997
 International Monetary Fund and World Bank	10829
 Internet Applications BVN Bank Verification Number	11952
@@ -1484,6 +1486,7 @@ Introduction The Central Bank of Nigeria	11861
 Investec Bank Limited	12252
 Investec and Old Mutual Bank. Agreements	5533,58
 Investment Bank	9826,1026
+IsDB Islamic Development Bank ITU International	13731
 Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330,159,103,555
 Islamic Development Bank Institute	8778,166
 Ivoire E-Agriculture Project World Bank Group	310
@@ -1904,6 +1907,7 @@ Rand Merchant Bank Namibia	13137
 Rank Microfinance Bank	7565
 Rapid Social Response. The World Bank	12158
 Ratings Ratings Outcome Bank Performance Relevance	10779
+Rationale for Bank Involvement	13743
 Raw Bank Limited	12252
 Re-imagining the Central Bank	11134
 Re-prioritisation of Strategic Initiatives The Bank	11131
@@ -2215,6 +2219,7 @@ Tina George and Phillippe Leite. World Bank	11133
 Tinkhundla Outreach Programmes Taking the Central Bank	11134
 ToRs Terms of Reference WB World Bank	1988
 Togo Digital Acceleration Project World Bank	2047
+Trade Area AfDB African Development Bank	13731
 Trade Development Bank	3737
 Trade Policies for Electronic Commerce. World Bank	1243
 Trade and Development AfDB African Development Bank	10835,3,130,902,16,466,1,135
@@ -2317,7 +2322,7 @@ Women's Microfinance Bank. Mutsvangwa	13447
 Women’s Development Bank	7594,101
 Women’s Development Bank Mr. Speaker	7695
 Worl Bank	11855
-World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57
+World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,2,2,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,27,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,30,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46,19,5,10,11,16,6,1,15,30,7,7,3,38,1,4,7,9,1,3,3,5,3,3,9,9,5,65,66,29,4,4,1,52,14,18,16,2,3,3,3,1,2,4,1,5,2,1,9,4,2,2,1,5,2,2,7,2,5,1,11,6,13,6,4,1,16,7,6,6,4,2,2,5,18,4,10,5,87,1,20,1,3,9,4,1,5,1,6,3,1,3,10,5,4,5,8,4,2,7,5,4,4,2,2,4,4,4,1,8,19,19,9,3,5,2,1,1,1,8,21,3,6,9,10,8,9,14,17,1,36,7,12,1,12,21,1,5,1,1,12,25,5,5,7,3,8,57,1,5,5,6,17,1,1,1,1,2,18,3,18,38,1,36,17,4,5,78,1,18,8,2,6,6,15,1,2,25,12,5,30,2,4,1,1,20,3,1,9,2,16,11,1,12,25,17,8,6,8,4,6,31,6,22,22,5,15,2,2,17,1,17,9,1,6,13,10,1,3,3,23,6,9,7,10,9,4,25,18,17,4,18,47,15,3,14,57,32
 World Bank ADePT	12373
 World Bank AI	6948
 World Bank Adaptive Safety Nets	10963,1
@@ -2466,11 +2471,14 @@ World Bank Executive Director Africa Group	11134
 World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
 World Bank FM	1284,583,4672,4290,696,330,1476,1
 World Bank FM Implementation Support Plan	13332
+World Bank FOR OFFICIAL USE	13722
 World Bank Feature Story	7644
 World Bank Fiduciary Management and Procurement	11905
 World Bank Financed Operations F	10768
 World Bank Financial Inclusion	10775
 World Bank Financing	11924
+World Bank Financing IDA-H8780	13722
+World Bank Financing Original	13742
 World Bank Findex	11994
 World Bank Fragility	969
 World Bank Fragility Assessment	11525
@@ -2501,6 +2509,7 @@ World Bank Grant Agent	12175
 World Bank Grant Facility	6539
 World Bank Grant Supports Zambia	1901
 World Bank Grievance Redress	13459
+World Bank Grievance Redress VI. Proposed	13734
 World Bank Grievances Redress System	12990
 World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39,70,37,51,7,1,10,39,20,7,20,283,2,22,39,5,1,41,162,31,17,17,61,4,21,19,38,78,88,33,7,118,4,84,57,34,95,23,6,6,17,138,62,71,56,2,17,1,25,38,36,92,9,60,32
 World Bank Group Approach	10714,292,1437
@@ -2519,6 +2528,7 @@ World Bank Group Financing	3456,148,7813,488,483,38,243,662
 World Bank Group Financing International Development	10964,891
 World Bank Group Financing Nov	10963
 World Bank Group For Livestream	11839
+World Bank Group GBON Global Basic	13729
 World Bank Group Gender Strategy FY16	10964
 World Bank Group General Environmental Health	1988
 World Bank Group Guarantee Platform	11310,166
@@ -2824,6 +2834,7 @@ World Bank for No Objection	13332
 World Bank for Western and Central Africa	5056
 World Bank-	1264,2340,7164,61,135,561,1806
 World Bank- and UNDP-backed	3091
+World Bank. A Statement	13741
 World Bank. AFRICA DEVELOPMENT FORUM Overview	11149
 World Bank. Africa	11149
 World Bank. Angola Country Climate and Development	11417

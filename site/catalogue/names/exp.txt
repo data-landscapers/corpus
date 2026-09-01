@@ -566,6 +566,7 @@ Enhance Expertise	12675
 Enhancing Collection of Revenue and Expenditure	3295
 Enhancing Collection of Revenue and Expenditure Management	3295,20
 Enhancing Quality of Experience	5245
+Enquete Exploratoire Budjet-Consommation	13746
 Ensure Transparency and Explainability Mandate	12675
 Entebbe Expressway	12095
 Entrepreneurship Expert	12031
@@ -929,7 +930,7 @@ Expertise	1988,354,1354,1128,3804,2246,482,652,157,279
 Expertise Contact Details	6432
 Expertise Direction du Portefeuille du Secteur	2342
 Expertise FR	13325
-Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218
+Expertise France	437,449,308,35,9,1785,1448,297,952,136,869,1097,374,1069,1254,472,7,689,740,160,7,14,98,51,285,218,448,22,18
 Expertise France Comores	3772
 Expertise France and CMM Oxford	1000
 Expertise France and ESTDEV	9265
@@ -997,13 +998,14 @@ Exploitant	1801,11500
 Exploitant Propre Indifférent	737
 Exploitants	13301
 Exploitants des Services Postaux Article	37
-Exploitation	748,1594,1054,1007,6413,60,648,1247,541,2,27,34,15,197,1
+Exploitation	748,1594,1054,1007,6413,60,648,1247,541,2,27,34,15,197,1,155
 Exploitation Exclusive des Gisements Pétroliers	2342
 Exploitation Familiale	10830
 Exploitation Forestiere Centrafricaine	10841
 Exploitation Forestiere Centrafricaine SMEs Small and Medium	10841
 Exploitation and Abuse	12253
 Exploitation and Abuse SENI Health System Support	10829
+Exploitation and Distribution of Water	13729
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 Exploitation du Gisement Gazier	2342
 Exploitation du Gisement Pétrolier	2342
@@ -1027,7 +1029,7 @@ Exploratory Study	10143
 Exploração	2816,7939,635,16,7,30,15,1336
 Exploração de Recursos Naturais	2816
 Exploração de Recursos Naturais Na	2816
-Explore	1814,174,516,1,1413,1,207,302,6,373,56,363,110,104,73,164,1155,104,2,10,642,1839,200,110,449,253,286,57,45,30,274,104,64,123,71,94,333,26,12,42,212,51,94,40,42,52,2,13,167,266,23,32,299,15,4
+Explore	1814,174,516,1,1413,1,207,302,6,373,56,363,110,104,73,164,1155,104,2,10,642,1839,200,110,449,253,286,57,45,30,274,104,64,123,71,94,333,26,12,42,212,51,94,40,42,52,2,13,167,266,23,32,299,15,4,419
 Explore AI	12996
 Explore AidData	7590
 Explore Beyond GenAI	2816
@@ -1452,6 +1454,7 @@ Increasing Gross Domestic Expenditure	12175
 Independent Advisory Board of Experts	4528,7984
 Independent Expert	4127
 Independent Expert Review Panel	6152,1605
+India's Exports	13744
 Indian Experience	11006
 Indian Express	2541,6380
 India’s Big Experiment	5700
@@ -1691,6 +1694,7 @@ Numbers That Explain the Boom Nigeria	5200
 Nyagatare Experience	12328
 O.3 Africa’s Extra- and Intraregional Exports	11149
 OPEX Operating Expenditure PCM Private Capital	13331
+OPINION AND EXPRESSION AND RIGHT	13739
 Obrigado Annual Expert Group Meeting for Registrar	11480
 Oct-2030 Expected Program Closing Date	3562
 October. Experts	10444

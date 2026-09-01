@@ -186,7 +186,7 @@ CLIENT CONNECTION	10876
 CLIENT LOGIN	13333
 CLIENT SATISFACTION SURVEY	5679
 CLIENTE	11372
-CLIENTS Borrower	11924
+CLIENTS Borrower	11924,1818
 CLIII	6477
 CLIKNET SCOPES LIMITED Data Controller INST-78578115E29	7167
 CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
@@ -463,7 +463,7 @@ Climate Risk Profile	6539
 Climate Risk and Insurance	7334
 Climate Safeguards Category	11863
 Climate Scientist GIS	520
-Climate Services	11283
+Climate Services	11283,2446
 Climate Services and Related Applications	13062
 Climate Shocks	1828
 Climate Smart Agriculture	970
@@ -731,6 +731,7 @@ Financing Locally Led Climate Action FM	2775
 First National Adaptation Plan for Climate Change	3583
 Fiscal Impacts of Climate Disasters	1828
 Fleurhoff Mall Client Connect Zone	10639
+Forecasts ER2C Climate Resilient Water WBG	13729
 Forest and Climate Change	13561
 Frontline Clinical Workers. The Ethiopian Government	4349
 Fundo Climático	1948
@@ -969,6 +970,7 @@ Reporting System CSA Climate Smart Agriculture-Based	970
 Responsable Open Data. Cliquez	9406
 Results Legal Covenants Clients	11924
 Rethinking the Far Right and Climate Governance	7857
+Reunion CREWS Climate	13729
 Revenue Authority. Client Code Client Code	13333
 Rising Investor Confidence and Improved Business Climate	13123
 Rohit Amritlal Devani Clinic Data	7167

@@ -223,6 +223,7 @@ Central African Republic and The Gambia Electricity	10857
 Central Electricity Board	11332
 Central Electronic Ticketing System	8888
 Central-Northern Regional Electricity Distribution Company	12399
+Centre National de Traitement des Données Electorales	13721
 Centro Electrónico de Segurança Pública	10788
 Cerraduras Electrónicas	4209
 Certification Electronique	2314
@@ -259,7 +260,7 @@ Commission Electorale Indépendante	2808
 Commission Electorale Nationale Autonome	10821
 Commission Electorale Nationale Autonome Traitement	10821
 Commission Electorale Nationale Independante	2670
-Commission Electorale Nationale Indépendante	3396,428,9468
+Commission Electorale Nationale Indépendante	3396,428,9468,429
 Commission Electorale Provinciale Indépendante	13292
 Communications Electroniques	998,2398,2357,7560
 Communications Electroniques Nombre	3396
@@ -347,11 +348,13 @@ DGE Ethiopia Electric Power Environmental Health	12256
 DGI I- RAPPEL DES PRINCIPAUX ELEMENTS	10858
 DHIS2 Electronic Immunization Registry	977
 DISINFORMATION IN THE LOCAL GOVERNMENT ELECTIONS	6907
+DISPOSITIONS COMMUNES AUX ELECTIONS POLITIQUES	13721
 DLAPIPERDATAPROTECTION.COM Electronic	12301
 DPI Electronic Immunization Register	5225
 DPIA Electronic Know Your Customer NPS	12444
 DRMIS Dashboard Development of Malawi Election Monitoring	12241
 DRS Electronic Deeds Registration System ESTA	11261
+DU FICHIER ELECTORAL	13721
 DU PROJET D’OPERATIONALISATION DU REGISTRE ELECTRONIQUE	7977
 Darzi A. Electronic Health Records	11990
 Data Analytics Division Nigerian Electricity Regulatory	12062
@@ -529,6 +532,7 @@ ELECTRONIC TRANSACTIONS AND CYBERSPACE MANAGEMENT	6671
 ELECTRONIC TRANSACTIONS CHAPTER	28
 ELECTRONIC WASTE GBV	12253
 ELECTRONIQUE	3396
+ELECTRONIQUE Article	13719
 ELECTRONIQUE DANS LES ETATS MEMBRES	11522
 ELECTRONIQUES	998
 ELECTRONIQUES ET DE LA POSTE RAPPORT	998
@@ -1384,7 +1388,7 @@ Elektronska	10714
 Elelwani Mundalamo	12868
 Elelwani.Mundalamo	12868
 Eleme Climate	11469
-Element	9810,1009,734,1812
+Element	9810,1009,734,1812,364
 Element Element	11553
 Element Legal	10819
 ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
@@ -1398,7 +1402,7 @@ Elementos de Identificação	10756,627
 Elementos de Pesquisa	11405
 Elementos de Prova	11364,1
 Elementos de Requisito de Consultas Públicas	11898
-Elements	1818,275,2034,2809,3893,743,333,595,885
+Elements	1818,275,2034,2809,3893,743,333,595,885,344
 Elements ORCID	10878
 Elements SABC	8999
 Elements of Address Type	11129
@@ -1888,6 +1892,7 @@ MODEL OF THE ELECTORAL REGISTRATION INFORMATION	12826
 MODO DE RECENSEAMENTO ELEITORAL	11528
 MONNAIE ELECTRONIQUE	11522
 MONNAIE ELECTRONIQUE Article	11522
+MONNAIE ELECrUONIQUE Vu	13712
 MORERI SEJAKGOMO The Independent Electoral Commission	6782
 MPI Electronic Master Patient Index PHISCs	396
 MSc Electrical Power	4896

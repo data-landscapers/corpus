@@ -200,6 +200,7 @@ Automated System for Customs Data Why ASYPM	13042
 Automated System for Relief Emergency Consignments	13042
 Automated Trading System	10
 Automated Transfer System	4915,1231,7168,203
+Automated Transfer System Plus	13742
 Automated Transfer Systems	12364
 Automated Transfer and Settlement System	10845
 Automated Transfert System	13452
@@ -700,7 +701,7 @@ DSL SYSTEMS AND SOLUTIONS LTD Data	7167
 DSO Distribution System Operator EAPP East	12233
 DSR System Load	11953
 DSR and Integrated Outbreak Management System	4217
-DU SYSTEME STATISTIQUE NATIONAL Article	785
+DU SYSTEME STATISTIQUE NATIONAL Article	785,12922
 DUBURUNDI CADRE DE SURVEILLANCE DES SYSTEMES	13468
 DUBURUNDI RAPPORT ANNUEL SUR LES SYSTEMES	13452
 DYNAMIC DATA SYSTEMS LIMITED Data Controller	7167
@@ -914,6 +915,7 @@ EAC Cross-Border Payment System Master Plan	7192
 EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734,1547,141
 EAC Cross-Border Payment System Masterplan. Under	7178
 EASSy East African Submarine Cable System	13312,2
+EASSy Eastern Africa Submarine Cable System	13740
 EASTERN SOFTWARE SYSTEMS AFRICA LIMITED Data	7167
 ECESWA Systems	13043
 ECOWAS Payment System and Settlement	6938
@@ -954,6 +956,7 @@ East African Payment System FMI FSAP	13452
 East African Payment System SYGMA Central	6938
 East African Payments and Settlement System	13388
 East African Submarine Cable System	13312,2
+East African Submarine System	13722
 Eastern Africa Submarine Cable System	2677,9969
 Ecological Systems	11006
 Economic System Question Revisited	5700
@@ -2046,6 +2049,7 @@ Management System PrDO Program Development Objective	3604
 Management System Procurement Management Unit Procurement	1554
 Management System QR Code Quick Response	9855
 Management System SIGOF Integrated Financial and Budget	11863
+Management System SNRRC National Strategy for Disaster	13729
 Management System SOE State-Owned Enterprise UA	11863
 Management System and Settlement Distribution Smart Vehicle	4126
 Management System. Liberia National National Police	1777
@@ -2903,6 +2907,7 @@ SMART Office System Include	3088
 SMART Office System Rollout	3088
 SMARTCARE HEALTH INFORMATION SYSTEM STANDARDS	34
 SMS. The System	12693
+SNID National Digital Identity System TSF	13731
 SODD System Overview Design Document PMDS	11986
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SOE Statements of Expenditure STEP Systematic Tracking	11560
@@ -2963,9 +2968,11 @@ SYSTEME D'ENCADREMENT DES ELEVES PAR NIVEAU	10847
 SYSTEMES D'INFORMATION AU SEIN DES MINISTERES	10905
 SYSTEMES D'INFORMATION LE PRESIDENT	10904
 SYSTEMES ET MOYENS DE PAIEMENT AU	13452
+SYSTEMES INFORMATIQUES. Article	13719
 SYSTEMES NATIONAUX DE CARTOGRAPHIE A LARGE	13482
 SYSTEMIC CONFIDENCE Institution	11138
 SYSTEMS AND SERVICES	13322
+SYSTEMS IN AFRICA	13713
 SYSTEMS IN AFRICA SIIPS	12000,269,1,220
 SYSTEMS IN TRANSFORMING AND ENHANCING	10780
 SYSTEMS PEPFAR MER	2477
@@ -3215,6 +3222,7 @@ System Continuity	2515
 System Corporate Social Investment Cyber Security	11134
 System DFI Development Finance Institutions DG	11224
 System DNSSEC Domain Name System Security	13295
+System DRR Disaster Risk Reduction NMHS	13729
 System Description	11525
 System Design	11138,1262
 System Design SECTION VI	11138

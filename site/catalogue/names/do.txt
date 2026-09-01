@@ -58,7 +58,7 @@ Adjuba Rajabu Doe	13542
 Administrateur Dominique Ndikuryayo	13405
 Administrateur Général des Données	9406
 Administration Management OASIS Portable Document Format	1009
-Administration des Douanes	11139
+Administration des Douanes	11139,2606
 Admired Ethiopian Brands Doing Good	8919
 Advocacy for Domestic Drivers of Growth	10
 Affinity Domain Patient ID XCA Cross-Community	1009
@@ -124,6 +124,7 @@ Authentication of Documents	585
 Authorized PROGRAM APPRAISAL DOCUMENT	11905
 Authorized PROJECT APPRAISAL DOCUMENT	3604
 Authors Thomas Byrnes Simone Dobre Laura	11156
+Autorité Saoudienne des Données	13728
 Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552,1059
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorités de Protection des Données	6252
@@ -156,6 +157,7 @@ BERNARD DOMINIC MBURU Data Processor INST-620964D36F7	7167
 BID DOCUMENTATION REQUIREMENTS Bidders	12693
 BID DOCUMENTATION. B-BBEE CERTIFICATE	11240
 BIRTH REGISTRATION IN DOWA. Dowa	12291
+BOSIB096cafe3e0c0084f70822a76892f1a.pdf Document	13722
 BOT. Pour le Port Autonome de Douala	5291
 BRILLIAN DOCTORS PLAZA HOSPITAL Data Controller	7167
 BUSOGORO Jean François Mr DONADJE Florentin	13300
@@ -285,7 +287,8 @@ Centrafrique Doubler	1806
 Central African Regional Doctoral School	766
 Central Bank of Nigeria and NIBSS. AfriGO Domestic	11138
 Central Statistics Office DOAG Development Objective	12962
-Centre National de Documentation	11109
+Centre National de Documentation	11109,2637
+Centre National de Traitement des Données Electorales	13721
 Centre National des Données Numériques	2266
 Centre de Collecte des Données	10812
 Centre de Documentation	10821
@@ -423,17 +426,21 @@ DATE DONNÉE	13300
 DCCF RELATIF AUX DÉPÔTS DES DOSSIERS	9976
 DE GOUVERNANCE DES DONNEES Art	4403
 DE L'ACCES AUX MICRO- DONNEES	13303
+DE LA PROTECTION DES DONNEES	13709
 DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
 DEEDS AND OTHER DOCUMENTS	13251
 DELIVERANCE CHURCH DONHOLM Data Controller INST-1383614E208	7167
+DES AFFAIRES FONCIÈRES ET DOMANIALES ARTICLE	13723
 DES COMPTES DORMANTS	13390
 DES DOCUMENTS D'IDENTIFICATION Article	10813
 DES DOCUMENTS DE VOYAGE ET D'IDENTITE	1967
 DES DOMAINES	8237
+DES DONNEES A CARACTERE PERSONNEL Article	13709
 DES DONNEES Art	4403
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
 DES SOURCES DE DONNEES ET	785
 DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768,612
+DGD Direction Générale des Douanes	13725
 DHIS2 Documentation Skip	12408
 DIB-U-EEGISTA DEEQAHA DOWLADDA EE	9583
 DLI Domaine	10876
@@ -468,7 +475,7 @@ DOCUMENT Chapter Section Heading Comments Number	236
 DOCUMENT DE POLITIQUE NATIONALE DE L’ENSEIGNEMENT	12
 DOCUMENT IS IN MILLIONS	3537
 DOCUMENT ON A PROPOSED CREDIT	989,9975,891,1477
-DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605,550
+DOCUMENT ON A PROPOSED GRANT	969,898,1695,7267,696,24,11,616,605,550,412
 DOCUMENT ON A PROPOSED LOAN	6539,4878
 DOCUMENT ON PROPOSED CREDITS	1264
 DOCUMENT REVIEW	11129
@@ -543,7 +550,7 @@ DONE AT ADDIS ABABA	762
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
 DONE IN THE CITY OF PAYNESVILLE	10407
 DONNEES A CARACTERE PERSONNEL Art	436
-DONNEES A CARACTERE PERSONNEL Article	10825
+DONNEES A CARACTERE PERSONNEL Article	10825,2894
 DONNEES CADASTRALES12	10876
 DONNEES DES ECOLES DU POST-FONDAMENTAL GENERAL	13478
 DONNEES FONT L’OBJET D’UN TRAITEMENT Section	436
@@ -632,6 +639,7 @@ DPME and DOW	11193
 DROITS DE LA PERSONNE DONT	436
 DSMLv2 XDS Affinity Domain Change Management	1009
 DSMP.2022. Données	11944
+DU DOCUMENT ET DE LA SISNATURE	13719
 DU DOMAINE ET DE LA VOIRIE	13292
 DU DOSSIER DE DEMANDE D'AGRÉMENT OU	10836
 Daily News DODOMA	5855,268,178
@@ -679,9 +687,10 @@ Digital Economy. The DouIA	5713
 Digital Forms Document Upload Workflow Automation	12211
 Dimension Données	1984
 Dimensão Documental	10772
+Directeur Général des Douanes	13745
 Directeur des Domaines	8269
 Direction Générale des Domaines	4420,6291
-Direction Générale des Douanes	2971,425,1024,4388,2068
+Direction Générale des Douanes	2971,425,1024,4388,2068,2869
 Direction Générale des Douanes DGEP	10874
 Direction des Affaires Domaniales	10876
 Direction des Douanes	4420,6291
@@ -890,6 +899,7 @@ Documentation Requirements	13185
 Documentation Review Provide	13185
 Documentation Security	12499
 Documentation Tools	2477
+Documentation URL	13714
 Documentation Webmail Contactez	1297
 Documentation and Auditability	3861
 Documentation and Auditability All	3861
@@ -938,7 +948,7 @@ Documentos Mínimos	11404
 Documentos Online	11898
 Documentos de Apoio	12018
 Documentos de Identificação	11383
-Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69
+Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79
 Documents Access	13042
 Documents Administratifs	10812
 Documents Agenda	12055
@@ -1119,8 +1129,9 @@ Domaine	643,588,1245,1662,2751,3987,26,945,1478,65
 Domaine N	10975
 Domaine Prioritaire	13325
 Domaine Procédure	10876
-Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18,89,1078,1282,65
+Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18,89,1078,1282,65,333
 Domains	3713,977,8772
+Domaniales	13723
 Domar	11140
 Domest. F U N C	4209
 Domest. Respons. Repres. Annual Bruto	4209
@@ -1329,6 +1340,7 @@ Domínios	576,10784,195
 Don Bosco	9918
 Don Bosco Technical Institute Marsabit Data	7167
 Don IDA N	10400
+Don IDA-D0320-KM Date	13737
 Don MacRobert	5323
 Don N	13567
 Don Okoth	10464
@@ -1354,6 +1366,7 @@ Donat	10878
 Donate	5044,223,99,52,1069,392,233,35,27,1769,3322,249
 Donate Partner	12493
 Donated	34
+Donateur	13715
 Donateurs	1679
 Donatienne	1769,2083
 Donatienne Mme NDAYISHIMIYE Spès-Caritas Mr FENGURE	13300
@@ -1389,7 +1402,7 @@ Donnent	13293
 Donner	2992,1133,1034,3065,1686,3380,10,1,89,24
 Donny-28	12478
 Donnée	436,795,12146
-Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26
+Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251,126,1356,25,52,37,8,11,9,10,26,241,18
 Données Banque Mondiale	11944
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
 Données Findex	11944
@@ -1561,6 +1574,7 @@ Douala. LA TRANSPARENCE POUR UN SECTEUR	10975
 Douala. New York-based	12517
 Douala. Selon	2393
 Douane	1806,670,4483,2447,607,52,223,113,672,2268
+Douane Comorienne	13745
 Douane. Cet	10401
 Douanes	1305,724,447,515,405,262,591,57,114,1487,242,126,145,407,1442,404,1192,728,118,1,361,1,249
 Douanières	7470
@@ -1898,6 +1912,7 @@ GDP Gross Domestic Product	11965,821
 GDP Gross Domestic Product GEF Global	7548
 GDP Gross Domestic Product GIZ Gesellschaft	12923
 GDP Gross Domestic Product GRM Grievance	11525
+GDP Gross Domestic Product GTS Sector	13731
 GDS Orion Licence Dossier	10975
 GENERAL NOTICE REASONS DOCUMENT FOR END-USER	4732
 GESTÃO DE NOMES DE DOMÍNIO	11531
@@ -2178,6 +2193,7 @@ Kuhifadhi Data Dodoma	6019
 Kwacha-US Dollar Exchange Rate During Droughts	12376
 L'Autorité de Protection des Données	2792
 L'Autorité de Protection des Données Personnelles	5916
+L'EGARD DES TRAITEMENTS DES DONNEES	13709
 L'ENQUÊTÉE DONNE LA DATE DE FIN	13300
 L'administration des Douanes	4269
 L'atelier de Douala	9615
@@ -2623,7 +2639,7 @@ Programme Doctorate Degree Masters' Degree Professional	11134
 Programme Document	12214
 Programme Dossiers	3396
 Programme Graduated Still Studying Doctorate	11131
-Project Appraisal Document	541,2,16,183,229,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197
+Project Appraisal Document	541,2,16,183,229,25,294,575,123,901,659,2072,919,215,4078,569,16,507,267,197,1355
 Project Appraisal Document PAD3340	424
 Project Appraisal Document PAD3556	554
 Project Appraisal Document PHEOC Public Health	11417
@@ -2940,6 +2956,7 @@ Traitements Intermédiaires de Données	10812
 Tramitação Documental PRESTAÇÃO DE INFORMAÇÃO	11435
 Transactions Domestic On Net Minutes SOUTH	9781
 Transfer Documentation	12302
+Translated Document ABBREVIATIONS AND ACRONYMS AAI	13731
 Transparency of Key Procurement Documents	12389
 Tratamento de Sintomas de Doenças Infantis Mais Frequentes	10777
 Travel Documents and Passports	5533

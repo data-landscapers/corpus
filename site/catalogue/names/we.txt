@@ -83,6 +83,7 @@ Andrew Weise. I've	7065
 Anglophone West Africa	4901,4715,517
 Angolans. Weak	10765,10
 Angular Wave Research. Tools and Weapons	1038
+Anna Wellenstein. Division Director	13743
 Annual SADC Industrialisation Week and Exhibition	12640
 Annual Weighted Mean VHI	11762
 Annual Weighted Mean Vegetation Health Index	11762
@@ -250,6 +251,7 @@ Community Development and Social Welfare. Special	12978
 Community Devt and Social Welfare	12978
 Community Welfare Assistance Committees	13332,55
 Community of West African States EHCVM Harmonized	11549
+Comoros ECMWF European Centre for Medium-Range Weather	13729
 Comparable West African	7777
 Completeness and Timeliness of Weekly Reports	11912
 Compliance ECOWAS Economic Community of West African	13042
@@ -974,6 +976,7 @@ National Petroleum Wealth Fund	3583
 National Privacy Week. Data ManagementData ManagementICT	5137
 National Social Security and Welfare Corporation	9338
 National Social Welfare Institute	12247
+National Solidarity and Social Welfare Fund	13726
 Nations World Wide Web Zambia Integrated	12453
 Neil Ford Wed	9149
 Netflix Website Streaming Media	12395
@@ -1848,9 +1851,9 @@ Weighted	4896,3650,58,2189,1070
 Weighted Average	4896
 Weighted Average Cost of Capital	4896
 Weighted Average Sale Price for Residential Properties	2775
-Weighted Mean VHI	11762
-Weighted Mean Vegetation Health Index	11762
-Weighted Mean Vegetation Health Index Agricultural	11762
+Weighted Mean VHI	11762,1988
+Weighted Mean Vegetation Health Index	11762,1988
+Weighted Mean Vegetation Health Index Agricultural	11762,1988
 Weighted Peer Average	4896
 Weighted Peer EV	4896
 Weighted TI	1818
@@ -1982,6 +1985,7 @@ Wendlassida Patrice Compaoré	4059
 Wendo	8021
 Wendy Cunningham	10768
 Wendy E. Hughes. Country Director	12388
+Wendy E. Hughes. Division Director	13734
 Wendy Nduneni	10809
 Wendyéllé Ambroise Nikiéma	1744
 Wenela	12984
@@ -2271,7 +2275,7 @@ Western Area Urban District	8903
 Western Asia	10840,732
 Western Asia and Northern Africa	11572
 Western Australia	2390,1902,563,470,255,313,73,322,83
-Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158,347,49,14,57,19,6,39,1437
+Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158,347,49,14,57,19,6,39,1437,285
 Western Cape AI Cluster	11012
 Western Cape Artificial Intelligence	11012
 Western Cape Beneficiaries	8999

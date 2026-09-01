@@ -279,6 +279,7 @@ CONCLUSION The National Digital Health Strategy	396
 CONCLUSION The National FinTech Strategy	12444
 CONGO’S DIVERSIFICATION STRATEGY	1828
 CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY Harnessing AI	1814
+COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
 COVID-19 Strategic Preparedness and Response	10829
 COVID-19 Strategic Preparedness and Response Project	11417
 CPCIF Strategic Minority Stake	53
@@ -899,6 +900,7 @@ Human Rights Defenders Network Strategic Plan	11586
 I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345,271,1155,1
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1
+I. Strategic Context	13743
 I.2- ORIENTATIONS STRATEGIQUES	10858
 I.2- ORIENTATIONS STRATEGIQUES I.2.1- Objectif	10858
 IAC A Strategic Hub for Innovation	13551
@@ -925,6 +927,7 @@ ICTs. Under the National Development Strategy	958
 ID Credentials Strategy	3427
 IDP Management Policy and Strategy	12779
 IHS Strategic Rationale and Digital Infrastructure	5752
+II- Strategie Nationale	13725
 III. Strategic Assessment	6735,200
 III. Strategic Assessment The CBN	6935
 IMF's Strategy	6679
@@ -1170,6 +1173,7 @@ Malta Yes Digital Malta Strategy Marshall	11529
 Managed Strategy Schlegel	9237
 Management Strategies and Implementation Plans	13185
 Management Strategy	10721,1142
+Management System SNRRC National Strategy for Disaster	13729
 Mangaung IDP Strategic Development Objectives	11231
 Manpower Development and Capacity Building Strategy	11129
 Manual PPSD Project Procurement Strategy for Development	11417
@@ -1399,7 +1403,7 @@ National Data Governance Strategy for Digital Sovereignty	12055
 National Data Governance Strategy of Burundi	13457
 National Data Governance Strategy. Enhanced	12055
 National Data Governance Strategy. Promote	12055
-National Data Strategy	1161,543,75,339,2465,267,5824
+National Data Strategy	1161,543,75,339,2465,267,5824,3073
 National Data Strategy. Contact	2118
 National Data Strategy. DIAL	2118
 National Development Strategies	4528,7984
@@ -1602,6 +1606,7 @@ National Strategy for Financial Education	12701
 National Strategy for Financial Inclusion III	13060
 National Strategy for Financial Inclusion III. Currently	2264
 National Strategy for Food and Nutrition Security	10776
+National Strategy for Implementing the Agreement	13731
 National Strategy for Inclusive Education	13349
 National Strategy for Inclusive Finance	10965
 National Strategy for Information Systems Security	2838,2469
@@ -1933,6 +1938,7 @@ STRATEGIC AND ARCHITECTURAL CHOICES	12165
 STRATEGIC AXES	1885
 STRATEGIC COMPONENTS	396
 STRATEGIC CONTEXT	1818,10045
+STRATEGIC CONTEXT A. Context	13731
 STRATEGIC CONTEXT A. Country Context	11863
 STRATEGIC CONTEXT AND RATIONALE FOR STRATEGY	12939
 STRATEGIC CONTEXT Tunisia	1818
@@ -2220,6 +2226,7 @@ Strategic Implications	12444
 Strategic Importance	3495
 Strategic Importance Critical	10892
 Strategic Importance of AI	12210
+Strategic Indicative Development Plan	13731
 Strategic Information	12754
 Strategic Information Plan	13163
 Strategic Initiative	12759,551
@@ -2506,6 +2513,7 @@ Strategy National Development Strategy	4528
 Strategy No	13532
 Strategy Non-Bank Financial Institutions Over the Counter	12701
 Strategy Paper	13685
+Strategy Paper EA Executing Agency EGDI	13731
 Strategy Paper SDG Sustainable Development Goals	11863
 Strategy Realignment Without	11134
 Strategy Report	1360
@@ -2547,6 +2555,7 @@ Strategy and Implementation Plan	1257,557,6750
 Strategy and Innovation	236
 Strategy and Investment	21
 Strategy and National	3643
+Strategy and Objectives	13731
 Strategy and Objectives A.1. For Cabo Verde	11863
 Strategy and Operations	5570
 Strategy and Partnership	12323
@@ -2605,18 +2614,18 @@ Stratos Lab	11502
 Stratos Lab’s GPU	11502
 Strattcomm Director Sibusiso Mngadi	11666
 Stratup	1574
-Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378,289,89,9,28,68,31,60,1226,2,102,9,132
+Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378,289,89,9,28,68,31,60,1226,2,102,9,132,151,13
 Stratégie Activités	10874
 Stratégie Burundi Large	13314
 Stratégie Burundi Large Bande	13301,12
-Stratégie Comores Numérique	324,2636,5400
+Stratégie Comores Numérique	324,2636,5400,5391
 Stratégie GRO	13419,149,58
 Stratégie Globale	13325
 Stratégie Large Bande	13482
 Stratégie Natio-	10965
 Stratégie National de Développement	13082
 Stratégie National de Lutte Contre	3396
-Stratégie Nationale	613,30,179,147,295,174,980,277,412,289,2234,298,1511,268,2114,1092,1,51,10,554,204,211,1446,43,9,34,98
+Stratégie Nationale	613,30,179,147,295,174,980,277,412,289,2234,298,1511,268,2114,1092,1,51,10,554,204,211,1446,43,9,34,98,151
 Stratégie Nationale Agricole	13442
 Stratégie Nationale IA	5478
 Stratégie Nationale Santé Numérique	7707
@@ -2628,8 +2637,9 @@ Stratégie Nationale de Développement	2695,7392,878,10,2107,218
 Stratégie Nationale de Développement du Numérique	3376
 Stratégie Nationale de Finance	10965
 Stratégie Nationale de Finance Inclusive	10965,979
+Stratégie Nationale de Lutte	13725
 Stratégie Nationale de Microfinance	11944
-Stratégie Nationale de Santé Numérique	7707
+Stratégie Nationale de Santé Numérique	7707,6010
 Stratégie Nationale de Transformation	13433
 Stratégie Nationale de Transformation Digitale	11616
 Stratégie Nationale des Systèmes	9906
@@ -2645,6 +2655,7 @@ Stratégie de Communication du SSN Publication	13689
 Stratégie de Croissance Accélérée	737
 Stratégie de Cybersécurité Nationale	2418
 Stratégie de Développement	7956
+Stratégie de Développement du Numérique	13751
 Stratégie de Promotion	4402
 Stratégie de Restauration	969
 Stratégie de Transformation Numérique	3604

@@ -554,7 +554,7 @@ Engin and Hand	8283
 Enquete Harmonisée	737
 Enquiries Handled	6946
 Enquiries Handled Category Total Received Resolved	6946
-Enquête Harmonisée	737,6938,3199,675,11
+Enquête Harmonisée	737,6938,3199,675,11,2186
 Enquêtes Harmonisées	11581
 Environmental Group Demands Immediate Halt	8639
 Environmental Hazard	6946
@@ -883,7 +883,7 @@ Habilitation	8914,2225,1777,554
 Habilitations	6954
 Habilitação	11901
 Habitacao	9441
-Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541,74,64,561,1775,29,61,52,76
+Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541,74,64,561,1775,29,61,52,76,192,13,23,3
 Habitat Nombre	3396
 Habitat RMM	13300
 Habitat Taxe	13442
@@ -930,7 +930,7 @@ HackerLab	3112
 Hackerlab	10856
 Hackers	3983,985,2032,2084,585,84
 Hackers Claim Theft	5597
-Hacking	34,938,28,680,11828
+Hacking	34,938,28,680,11828,211
 Hacklab Foundation	4126
 Hacktastic	8910
 Had the U.S. Embassy	10146
@@ -962,6 +962,7 @@ Hadjer-Lamis. Sur	4589
 Hadjia Mina Mohamed	7183
 Hadjidja	10989
 Hadjidja Hassan	10989
+Hadjira Abdoulkarim	13720
 Hadoop and Apache	13021
 Hadrian	9284
 Hadron	8093
@@ -1851,7 +1852,7 @@ Haut-parieur	13524
 Haut-parleur	13524
 Haute	1682,705,4856,1400,290,1456,2876
 Haute Autorite	4237
-Haute Autorité	3348,3230,545,332,464,417,555,1935,754
+Haute Autorité	3348,3230,545,332,464,417,555,1935,754,2130,28
 Haute Autorité de Lutte Contre la Corruption	11905
 Haute Autorité de Protection des Données	2514,842
 Haute Autorité de Régulation	11067
@@ -2004,6 +2005,7 @@ Hypax Mme HAKIZIMANA Donavine Mme GIRUKWISHAKA	13300
 Hôtel Hambol	8694
 I ASSENT SAMIA SULUHU HASSAN President	6921
 I.H. Al Hadid	7278
+IA. Le Dr Kais Hammami	13728
 IATI. Kenya HPN Afya Halisi	216
 ICT Officer Ms. Gwendoline Hamabele	1874
 IDA Vice President Hafez M.H. Ghanem	579
@@ -2429,6 +2431,7 @@ Nkurenkuru Community Hall Maporeza No.1 KHOMAS	13046
 Noha Habib	1814
 Nokuphila Haji. Full	5450
 Nor Haji Osman	11596
+Nouroudine FADHULA Bourhane HAMIDOU Ahmed SAENDI	13709
 November. Mr. Hassan	2571
 Nusantara Hasana Journal	8460
 Nyanga and Haut-Ogooué	10841
@@ -2689,6 +2692,7 @@ Réseau National des Centres des Personnes Handicapées	13442
 Réseau des Associations des Personnes Handicapées	13442
 S. Hakobyan	11140
 S. Hassan Muhammad	11140
+S.E.M. Oumouri Mmadi Hassani	13736
 SA BIDDERS HAVE NO TCS	11240
 SACCOS CONFERENCE Selous Hall	2275
 SADC GBV Prevention Handbook	12939
@@ -2912,6 +2916,8 @@ Tshepiso Hadebe Research ICT Africa	6512
 Tunisie Haut Débit	3987,5397
 Tuyeimo Haidula Twenty-five PowerCom	3475
 Twamaa Hababuu	11133
+Télécommunications Oumouri Mmadi Hassani	13736
+Télécommunications Oumouri Mmadi Hassani URL	13736
 Títulos Habilitantes	9543
 U.S. Embassy Harare	5165,3811,253
 UMC Data Hackathon	11424
@@ -2931,6 +2937,7 @@ Uganda's AKIBA Happily Authenticated	5743
 Uis Uis Community Hall USAKOS	13046
 Una Hajdari Published	9608
 Union Regional Harmonization of Remittance Policies	11960
+Union des Comores Enquête Harmonisée	13746
 Union des Organisations des Personnes Handicapées du Burundi	13442
 Union des Personnes Handicapées	13442
 Union des Personnes Handicapées du Burundi	13442

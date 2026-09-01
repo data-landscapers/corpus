@@ -64,8 +64,10 @@ AI Era How Agentic AI	3279
 AI. Agent	8126
 AMSSURITY INSURANCE AGENCY LIMITED Data Controller	7167
 AMSSURITY INSURANCE AGENCY LIMITED Data Processor	7167
+ANADEN Agence Nationale de Développement Numérique	13725
 ANDF Agence Nationale du Domaine	10876
 ANINF-ST Partnership Gabon's National Agency for Digital	3291
+ANPI COMORES Agence Nationale	13727
 ANSUT Accountability Mechanism National Cybersecurity Agency	3604
 ANTIQUE AUCTIONS AGENCIES Data Controller INST-9739624C69E	7167
 ANTIQUE AUCTIONS AGENCIES Data Processor INST-9739624C69E	7167
@@ -211,7 +213,7 @@ Age-verification	9328
 Ageing	2096
 Ageing Society	2096
 Agemstéiloionradtuion	13306
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17,201,7,36,12,12,8,1149,33,7,1,24,49,16,140,1,24,12,55,4,57,25,7,13,2,18
 Agence Afrique	4127
 Agence Article	735
 Agence Au	10975
@@ -251,10 +253,11 @@ Agence Marocaine de Développement des Investissement	5745,1
 Agence Marocaine de Développement des Investissements	5745
 Agence Mauritanienne	2154,1179,22,2692
 Agence Na-	13681
-Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90,52,631,295,236,1201
+Agence National de Développement du Numérique	13717
+Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90,52,631,295,236,1201,398
 Agence Nationale Pour	10821
 Agence Nationale de Digitalisation	4036,6496
-Agence Nationale de Développement du Numérique	5370
+Agence Nationale de Développement du Numérique	5370,8348,1,3,6
 Agence Nationale de Promotion	6827
 Agence Nationale de Protection Sociale	10824
 Agence Nationale de Renseignements	11972
@@ -306,6 +309,7 @@ Agence de Promotion des Investissements	3222,3884,3717,2470
 Agence de Régulation	13290,1,10,12,11,7,26,15,5,91,14,58,76,36
 Agence de Régulation des Communications Electroniques	11580
 Agence de Régulation des Postes	6684,5237
+Agence de Régulation des Secteurs	13743
 Agence de Régulation des Télécommunications	2695,1574,293,1262,4263
 Agence de Régulation des Télécommunications Cameroun	10965
 Agence de Régulation du Secteur	10975
@@ -506,7 +510,7 @@ Agendas	11387,599
 Agendas Internacionales	1701
 Agendas and Minutes	11251
 Agende	2966
-Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738,115,14,19,57
+Agent	573,163,2453,192,324,1143,717,342,1075,1339,1954,97,396,68,20,20,1084,235,252,738,115,14,19,57,332
 Agent Banking	11469
 Agent Banking Advisory	11469
 Agent Banking Enabling and Job Creation PASA	11469
@@ -848,6 +852,7 @@ Digital Agenda for Norway	11529
 Digital Agenda for Romania	11529
 Digital Dark Age	3810
 Digital Development Agency	1161,942,474,1058,1360,613,126,5859
+Digital Development Agency ANRTIC National ICT	13731
 Digital Development Agenda	5834
 Digital Development Financing Implementing Agency	1284
 Digital Economy Development Agency	2306
@@ -970,7 +975,7 @@ European Union Cyber Security Agency	10764
 Exa Agent	9605,670
 Exchange of Information Among Public Sector Agencies	12389
 Executing Agencies	10348
-Executing Agency	603,11260
+Executing Agency	603,11260,1868
 Executing Agency COUNTRY AND STRATEGIC CONTEXT	11863
 Executive Director of Media Rights Agenda	11095
 Executivo A Agenda de Transição Digital da Administração	11394
@@ -1294,6 +1299,7 @@ Lucas Ajanaku Anambra State ICT Agency	10150
 Lusaka Agenda	2678,2463,4818,3207
 Luxembourg Agency for Development Coordination	12907
 L’ Agence Nationale de Renseignement Financiers	4420
+M&E Quality Substantial. Implementing Agency	13722
 MAISON D'UN AGENT DE SANTÉ	13300
 MALE FEMALE Age	12214
 MANAGEMENT OF THE AGENCY	11464
@@ -1327,6 +1333,7 @@ Media Rights Agenda	6770,2312,2622
 Medium Enterprises Development Agency	13256
 Medium-Term National Development Agenda	789
 Mental Health Agency	7859
+Meteorology ASECNA Agency	13729
 Migration of South African Social Security Agency	2626
 Ministries Department and Agencies	3862
 Ministries Departments and Agencies	11951
@@ -1403,6 +1410,7 @@ National AI Agency Addressing	10152
 National AI Research Agenda	4528,7984
 National AIDS and Health Promotion Agency	12606
 National Agency	1927,949,96,69,1814,724,568,304,5694
+National Agency for Civil Aviation and Meteorology	13729
 National Agency for Civil Registration and Identity	2349
 National Agency for Clinical Engineering and Digital Health	11892
 National Agency for Computer Security	9616
@@ -1453,6 +1461,7 @@ National Development Agenda	1554,11402,16
 National Digital Agency	12674
 National Digital Agency Purpose	12674
 National Digital Certification Agency	2578
+National Digital Development Agency	13731
 National Digital Government Agenda I4 Revitalize	12917
 National Digital Transformation Agency	12674
 National Digital Transformation Agenda	1271,3702,6781
@@ -1524,7 +1533,7 @@ Nigerian National Agency for Food and Drug Administration	4426
 Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s Digital Transformation Agenda	7234
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
-No. Implementing Agency	11965
+No. Implementing Agency	11965,1769
 Nodal Agency	12917
 Nodal Agency Annual	12917
 Nodal Agency High Non	12917
@@ -1576,7 +1585,7 @@ Patents and Companies Registration Agency	6187,6295,817
 Patents and Companies Registration Agency Act	13299,267
 Patents and Company Registration Agency PAYZ Payments	13347
 Payment Agent. IBRD	11560
-Peer Reviewing Agency	13365
+Peer Reviewing Agency	13365,364
 Permanent Secretaries and Heads of Agencies	13005
 Person International Energy Agency International Monetary	11136
 PhantomStealer and Vidar. AgentTesla	9830
@@ -1611,6 +1620,7 @@ Privatisation Agency	12598
 Product GIZ German International Development Agency	1814
 Professional Agency	12389
 Profitable Agent Network	10249
+Program ANACM National Agency of Civil Aviation	13729
 Programmes By Age	12151
 Project Implementing Agency	13017
 Project Korea International Cooperation Agency	1534
@@ -1727,6 +1737,7 @@ SAFE. During the Agentic AI Summit	9027
 SAS Shipping Agencies Services	2135
 SAS Shipping Agencies Services Sàrl	2135,1770
 SASSA South African Social Security Agency	11198
+SC180607 Agent Partenaire	13732
 SCHEDULE AGENCY TAXES	12629
 SCREENGRAB The Digital Health Agency	10331
 SDG Agenda	1388,11558,203,242
@@ -1845,6 +1856,7 @@ Statistician General ZAMBIA STATISTICS AGENCY	13343
 Statistics Agency	1161,12225
 Statistics Agency NSS National Statistics System	12902
 Statistics Agency Zimbabwe National Chamber of Commerce	4528
+Strategy Paper EA Executing Agency EGDI	13731
 Strategy of Digital Agenda	11529
 Strengthening Institutional Capacity The Agency	1131
 Substance Abuse Control and Enforcement Agency Bill	8681
@@ -1964,6 +1976,7 @@ Under the Renewed Hope Agenda	11126,342
 Under the Renewed Hope Agenda of Mr. President	11954
 Unfinished Agenda	1828
 Union Agenda	582
+Union of Comoros Implementing Agency	13742
 United Nations Agencies	12942,417
 United Nations Family and Population Agency	10829
 United Nations Legal Identity Agenda	13005,143

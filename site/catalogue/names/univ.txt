@@ -213,7 +213,7 @@ Cornell University	4514,6629
 Cornell University Press	12227
 Cornell University. Disponível	2816
 Countrywide Universal Broadband Availability The Kenya	6133
-Couverture Maladie Universelle	3045,559,4201,53
+Couverture Maladie Universelle	3045,559,4201,53,5857
 Couverture Sanitaire Universelle	7641,217
 Couverture Santé Universelle	9273
 Covenant University and Harvard University	10170
@@ -320,7 +320,7 @@ Etudes Universitaires Générales DNESRS Direction Nationale	12
 Euro-Mediterranean University of Fez	5360
 European Union. Oxford University Press. Corporate	11050
 European University Institute	6468
-Examen Périodique Universel	10826
+Examen Périodique Universel	10826,2912
 Excellence Universities	4126
 Exchequer Universities Research	7548
 Expanding Connectivity Beyond Universities	2339
@@ -413,6 +413,7 @@ Indiana University Bloomington. Aadyaa Maddi	7711
 Indiana University Press	9739
 Information and Communications University	13581
 Innovation and Governance. Oxford University Press. Google	11028
+Institut Universitaire de Technologie	13749
 Institut Universitaire des Technologies	5370
 Insurance Fund UNISA The University of South	11250
 Integrated Polytechnics University. Sor	13314
@@ -872,6 +873,7 @@ ULFASA GRIEVANCES REACH BOAKAI AS UNIVERSITY	10581
 UMEA Universidad. The UBR	12181
 UN Universal DPI Safeguards Framework	11007
 UNESCO Chairs The Namibia University of Science	12357
+UNESCO org UPR46 COM E Main.pdf Universal Periodic Review	13739
 UNIVERSAL ACCESS	718
 UNIVERSAL ACCESS AND SERVICE FUND FRAMEWORK	12558
 UNIVERSAL ACCESS INITIATIVES	6946
@@ -1162,6 +1164,7 @@ Universitaires CNF Campus Numérique Francophone CNESRS	12
 Universitaria	4209
 Universitas Indonesia	226
 Universite	10492
+Universite des Comores URL	13749
 Universities	520,441,816,315,426,257,183,1168,402,234,482,267,40,1281,104,236,376,543,289,180,560,8,41,846,786,240,302,2,208,304,6,369,9,14,121,37,99,163,242,55,323,15,4,6,303,13,52
 Universities Act	7832,2448
 Universities All	958
@@ -1530,7 +1533,7 @@ Université de Ségou	7634
 Université de Toulouse	6395
 Université de Tours	1183
 Université de Tunis. Argues Africa	8126
-Université des Comores	2594,129,2647,6732
+Université des Comores	2594,129,2647,6732,1622
 Université des Comores I Un	1996,2390
 Université des Comores. Ils	5669
 Université des Sciences	10121

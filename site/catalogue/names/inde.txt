@@ -39,7 +39,7 @@ African Regional Integration Synthesized Index	9194,275
 African Smart City Index	4563
 Afrobarometer's Lived Poverty Index	12192,86,223
 Against Independent Candidacies	4608
-Agricultural Stress Index	11762
+Agricultural Stress Index	11762,1988
 Aid Transparency Index	6982
 Al Maturity Index	1204
 Algeria's Independence Day	7127
@@ -380,6 +380,7 @@ Government AI Readiness Index	2816,1812,482,1285,208,945,53
 Government AI Readiness Index. Disponível	2816
 Government Development Index	2383,146,171,91,13,800,6296,885,67,1015,586,206,655,31
 Government Development Index FCV Fragility	11545
+Government Development Index GBV Gender-Based Violence	13731
 Government Division Electronic Government Development Index	12453
 Government Effectiveness Index	2945
 Government Index	1912,1352
@@ -531,6 +532,7 @@ Independent Auditor’s Report REPORT	11955
 Independent Auditor’s Report and Opinion	11955
 Independent Auditor’s Report and Opinion EY Shape	11955
 Independent Audits and Compliance Scorecards	6936
+Independent Autonomous Authority AI Artificial Intelligence	13731
 Independent Beninese	8318
 Independent Broadcasters Association GIFEC Ghana Investment	236
 Independent Broadcasting Act No	13346
@@ -649,7 +651,7 @@ Indetermin	10847
 Indeterminé BOUCLE DU MOUHOUN	10847
 Indeterminé Total Région	10847
 Indeterminé ZOUNDWEOGO	10847
-Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224
+Index	10,11,215,377,176,415,8,31,642,87,722,81,939,2879,255,89,725,1229,583,285,1005,4,80,4,117,7,3,173,46,60,28,131,152,113,80,101,21,1,10,40,71,153,1,45,9,119,13,5,4,34,21,43,34,170,279,364,12,2,18,13,12,28,76,224,65
 Index A. REQUEST FOR PROPOSAL FORM	12400
 Index All Students	13556
 Index Country Policy and Institutional Assessment	643
@@ -936,7 +938,7 @@ Statistique IPP Independent Power Producer GRT	10975
 Sterling Overnight Index Average	13185
 Strengthening Nigeria’s Digital Independence	6536
 Strengths Weaknesses Global Innovation Index	12487
-Stress Index The Agricultural Stress Index	11762
+Stress Index The Agricultural Stress Index	11762,1988
 Stress Index The Annual ASI	11762
 Substance Index SOT Shimanzi Oil	12256
 Suriname Global Cybersecurity Index	10764
@@ -1012,8 +1014,8 @@ Uses. Tortoise. The Global AI Index	2816
 Utility Index	13624
 Uzbekistan Global Cybersecurity Index	10764
 Vanuatu Global Cybersecurity Index	10764
-Vegetation Condition Index	11762
-Vegetation Health Index	11762
+Vegetation Condition Index	11762,1988
+Vegetation Health Index	11762,1988
 Venezuela Global Cybersecurity Index	10764
 Vulnerability and Readiness Country Index	2889
 W2 GOVTECH MATURITY INDEX	10785
@@ -1024,8 +1026,8 @@ WEF Global Competitiveness Index	13314
 WIPO Global Innovation Index	1394,1,1,1,724,1
 WSIS Implementation Maturity Index	7172
 Washington. Indeed	8014
-Weighted Mean Vegetation Health Index	11762
-Weighted Mean Vegetation Health Index Agricultural	11762
+Weighted Mean Vegetation Health Index	11762,1988
+Weighted Mean Vegetation Health Index Agricultural	11762,1988
 Wellness Index	9045
 World Bank Adequate Housing Index	8087
 World Bank Digital Adoption Index	12659

@@ -49,7 +49,7 @@ Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310,2792
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344,615,375,23,2,107,6,31,111,26
 Affaires Contentieuses ST	10975
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
@@ -377,6 +377,7 @@ DEPARTMENT OF HOME AFFAIRS AND BMA	11285
 DEPARTMENT OF HOME AFFAIRS C	6512
 DEPUTY As the Deputy Minister of Home Affairs	11986
 DEPUTY MINISTER OF HOME AFFAIRS	11986
+DES AFFAIRES FONCIÈRES ET DOMANIALES ARTICLE	13723
 DES AFFAIRES ISLAMIQUES ET	2048
 DG DEPARTMENT OF HOME AFFAIRS	11986
 DHA DEPARTMENT OF HOME AFFAIRS	11986
@@ -447,6 +448,9 @@ Digital Affairs Augustin Kibassa Maliba	2385
 Digital Affairs Ministers of Cabo Verde	1909
 Digital Affairs and Special Advisor	3436
 Digital Home Affairs	11986
+Directeur du Département des Affaires	13728
+Direction Nationale des Affaires	13723
+Direction Nationale des Affaires Foncières	13723
 Direction Nationale des Affaires Politiques	2756
 Direction des Affaires	9448
 Direction des Affaires Administratives	10975
@@ -520,7 +524,7 @@ Exchequer ODPC Affairs	7548
 Executive Director of Home Affairs	3017
 Existing Customers Also Affected	4601
 External Affairs Minister	2667
-External Affairs Minister Dr. S. Jaishankar	2667
+External Affairs Minister Dr. S. Jaishankar	2667,11077
 FCCPC's Director of Corporate Affairs	7560
 FDJ. Communiqué Le Ministre des Affaires Etrangères	4402
 FDJ. MINISTERE DES AFFAIRES SOCIALES ET	4402
@@ -669,6 +673,8 @@ Home Affairs. The CCSS	11986
 Home Affairs. The White Paper	11986
 Home Affairs. Under	11246
 Home Affairs’ ETA	9250,645
+Hon'ble External Affairs Minister Dr. S	13744
+Hon'ble External Affairs Minister Dr. Subrahmanyam	13744
 Hon'ble Minister of State for External Affairs Mr	13562
 Hon. Minister for Foreign Affairs and International	13126
 Hon. Minister for Home Affairs	13126
@@ -751,6 +757,7 @@ LEGAL AND PARLIAMENTARY AFFAIRS	13420
 LEGISLATIVE AND STATUTORY AFFAIRS C COPIE	10974
 LTA Commissioner for Consumer and Public Affairs	10406
 La Direction Générale des Affaires Sociales	10876
+La Direction Nationale des Affaires Foncières	13723
 La Direction des Affaires Administratives	10975
 La Direction des Affaires Domaniales	10876
 Labour and Home Affairs	12627
@@ -841,6 +848,7 @@ Minister of Foreign Affairs and International Relations	12729
 Minister of Foreign Affairs and International Trade	9761,3748,164
 Minister of Foreign Affairs and Minister of Post	4340
 Minister of Foreign Affairs of Benin	9275
+Minister of Foreign Affairs of Comoros H.E. Mr	13744
 Minister of Foreign Affairs of Côte	9275
 Minister of Foreign Affairs of Malawi	12983
 Minister of Foreign Affairs of Nigeria	5499
@@ -907,6 +915,8 @@ Ministry of Finance and Economic Affairs MoGCDSW	12175
 Ministry of Finance and Economic Affairs MoH Ministry	13005
 Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112,624,15,116,238,27,158
 Ministry of Foreign Affairs Monrovia	4202
+Ministry of Foreign Affairs Mr. Adelaid Ben	13744
+Ministry of Foreign Affairs Mr. Chamsoudine Said	13744
 Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
 Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153,634,240,228

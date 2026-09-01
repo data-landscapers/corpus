@@ -30,6 +30,7 @@ Act. DATA PROTECTION AND PRIVACY BILL	1474
 Act. Data Protection	12301,734
 Act. PART VIII CONSUMER PROTECTION Scope	12930
 Action Protocol	13140
+Actions de Protection Sociale du Régime	13714
 Activate the AfCFTA Digital Trade Protocol. Adopted	7921
 Actos Administrativos da Protecção Social Obrigatória	11433
 Actualité L'Instance de Protection des Données	11645
@@ -277,7 +278,7 @@ China’s Personal Information Protection Law	10242
 Chipo Msowoya Senior Social Protection Specialist	13111
 Citizenship and Refugee Protection	13368
 Citizenship and Refugees Protection	11986
-Civil Protection	10763
+Civil Protection	10763,2970
 Civil Protection Service	11553
 Civil Protection Services	11398
 Civil Protection System	10763
@@ -440,6 +441,7 @@ DATA PROTECTiON	961
 DCI AI Hub for Social Protection	11156
 DDoS Protection	10721
 DE ADMINISTRAÇÃO DA AGÊNCIA DE PROTECÇÃO	752
+DE LA PROTECTION DES DONNEES	13709
 DE LA PROTECTION DES INTERETS	998
 DE MESURES DE PROTECTION DE L’ENVIRONNEMENT	1005
 DE NORMAS BASICAS DE LA PROTECCION	163
@@ -1640,7 +1642,7 @@ Protect the ICT	958
 Protect the Ledger	11796
 Protect the World's Cultural Heritage	3745
 Protect. Strategic Objective	1777
-Protected	6770,5689,749
+Protected	6770,5689,749,525
 Protected Area Management and Investment Strategy	13060
 Protected Areas	11586
 Protected Areas The Global Economy	11586
@@ -1715,7 +1717,7 @@ Protection Résultat	3396
 Protection Sector Recurrent Strategic Objective	1777
 Protection Services Acute Dlamini Domestic Economy	11131,3
 Protection Social Protection	11924
-Protection Sociale	312,2496,588,1006,819,3670,515,151,3885
+Protection Sociale	312,2496,588,1006,819,3670,515,151,3885,272,1,2,20
 Protection Sociale Disponibilité	3396
 Protection Sociale. Ce	13442
 Protection Strategy STEP Systematic Tracking of Exchanges	11525
@@ -1885,12 +1887,13 @@ Protocol Relating	5533,5644,373,436,159,421,344
 Protocol Security IS Information Systems ISP	13185
 Protocol WLL Wireless Local Loop YOY	12395
 Protocol for Access	11188
+Protocol for Consultations	13744
 Protocol for Packet Network Intercommunication	1036
 Protocol of Cooperation	11417
 Protocol-mandated	5440
 Protocol. ARTICLE	12527
 Protocol. Further	1243
-Protocole	2808,588,279,6300,737,1214,1488,28
+Protocole	2808,588,279,6300,737,1214,1488,28,273
 Protocole de Kyoto	7640
 Protocole de Maputo	10826
 Protocolo	794,3415,65,7088,3,90
@@ -1919,7 +1922,7 @@ Prototyping Facilities and Soft Skills Development	12376
 Protracted	12227
 Protracted Refugee Crisis	12227
 Protus	7155
-Protéger	142,856,2269,599,1957,2094,938,36,1655,32,456,2230,37,24,352
+Protéger	142,856,2269,599,1957,2094,938,36,1655,32,456,2230,37,24,352,42
 Protéines Lipides Glucides Fibres Ensemble	737
 Protótipo	12021
 Public Data Protection Law	4575,354
@@ -2107,7 +2110,7 @@ Smart Africa Data Protection Working Group	961,9858
 Social Assistance MIS and Linking Social Protection	10822
 Social Projecto de Protecção Social	11406
 Social Protec	11924
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344,90,1,41,13,116,30,97,94,18,142
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17,148,23,312,1,56,35,295,12,3,16,1,1,1,16,19,74,154,1,1,9,57,115,2,4,11,1,59,32,9,35,344,90,1,41,13,116,30,97,94,18,142,252
 Social Protection Act	10775
 Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Baseline	11469

@@ -111,6 +111,7 @@ CENTRE DE SANTÉ GOUVERNEMENT	13300
 CENTRE DE SANTÉ PRIVÉ	13300
 CEO of Sanlam Financial Markets	9367
 CFO San José Obrero Escuela Taller	4209
+CHAPITRE VI DU REGIME DES SANCTIONS	13709
 CI ROXGOLD SANGO POSTE CI SHILOH	2342
 CIVIL SANCTIONS AND MONETARY PENALTIES	3861
 CNIB. Minister of Security Mahamadou Sana	3925
@@ -160,6 +161,7 @@ Colegio Nacional de Santiago Uganda de Mbini	4209
 Colonel Sahabi Sani	7333
 Comité Nacional de Medidas Sanitarias	4209
 Commissaire Divisionnaire de Police Mahamadou SANA	1967,1
+Commission. SECTION II DES SANCTIONS CIVILES	13709
 Communications and Digital Technologies. Sangoni-Diko	8435
 Community-Based Health and Sanitation Agents	10768
 Companhia Santomense de Telecomunicações	2315
@@ -190,11 +192,13 @@ DE SANTÉ	13306
 DE SANTÉ CENTRE DE SANTÉ TYPE	13300
 DE SANTÉ DU CENTRE DE SANTÉ	13300
 DE SANTÉ DU GOUVERNEMENT	13300
+DEFINITIONS Santé	13717
 DELEGACIÓN HOSPITAL SANITARIOS SANITARIA	4209
 DES INFRACTIONS ET DES SANCTIONS Article	113
 DES OBLIGATIONS ET DES SANCTIONS	1801
 DES OBLIGATIONS ET DES SANCTIONS56 Section	1801
 DES SAN	37
+DES SANCTIONS ADMINISTRATIVES Article	13709
 DES SANCTIONS Article	785
 DES SANCTIONS DE L'INEXECUTION DES OBLIGATIONS	13293
 DIRECTION DU SYSTEME NATIONAL D’INFORMATION SANITAIRE	13306
@@ -480,6 +484,7 @@ Medicines Sans Frontiers	12956,717
 Medidas Sancionatórias	794
 Metadata for Records and SANS	11349
 Miguel Eduardo Sanchez Martin	11271
+Mini Santé.pdf	13714
 Minister Hon. Sankwasa James Sankwasa	13118
 Minister of Health and Sanitation Madalitso Baloyi	8575
 Minister of Interior Abdoulie Sanyang	4697
@@ -695,6 +700,8 @@ SANIDAD MILITAR.- Concepto	4209
 SANIDAD PARQUE Cuentas CONCEPTO	4209
 SANITAR. PROFESORES MAESTROS ASIMILADOS MEDIOS Importe	4209
 SANITARIOS SANITARIOS	4209
+SANITATION AND HYGIENE	13743
+SANITATION AND HYGIENE SERVICES	13743
 SANKARA Abdoulaye	737
 SANKOYO Event	12635,1
 SANKWASA JAMES SANKWASA	13118
@@ -748,6 +755,7 @@ SAnews Twitter	11215
 SAnews URL	11267,17
 SAnews WhatsApp	11215
 SAnews.gov.za	3602,139,2786,804,1227,41,1168,127,1370,2,1,6,1,10
+SECTION III DES SANCTIONS PENALES Article	13709
 SEGUNDO DIRECTIVO PERSONAL Y SANIDAD PARQUE	4209
 SERVICES DE SANTÉ	13306
 SEXUELS SANS RISQUE AVEC LE MARI	13300
@@ -938,7 +946,7 @@ Sanitation Facilities	12411
 Sanitation Provision	12373
 Sanitation Provision Food	12373
 Sanitation Public	1988
-Sanitation and Hygiene	1988,8154,2266,556,159
+Sanitation and Hygiene	1988,8154,2266,556,159,620
 Sanitation and Hygiene WDI World Development Indicators	11560
 Sanitation and Hygiene WFP	12175
 Sanitation and Hygiene WFP World Food Programme	12970
@@ -1063,7 +1071,7 @@ Santos. Publicado	14,1
 Santos. Resolução	539
 Santoso	8606
 Santuário da Muxima	12120
-Santé	643,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5,39,21,657,82,213,151,25,1222,10,6,19,49,16,52,118,8,109
+Santé	643,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5,39,21,657,82,213,151,25,1222,10,6,19,49,16,52,118,8,109,38,2,10,10,9
 Santé Activités	13341
 Santé Assistance Afrique Société Teint Lumineux	10821
 Santé Au Burundi	13341
@@ -1085,6 +1093,7 @@ Santé Initiative	13341
 Santé Maternelle	9711
 Santé Mise	3381
 Santé Nombre	3396
+Santé Notre	13717
 Santé Numérique	7707
 Santé OMT	13377
 Santé PACS Picture Archiving and Communication System	13306
@@ -1168,7 +1177,7 @@ Sr. Manuel Sumaila Sani. Em	11561
 Sra. Maria Inácia Có Mendes Sanha	11547
 Statistician General Nyakassi Sanyang	8459
 Stratégie Nationale Santé Numérique	7707
-Stratégie Nationale de Santé Numérique	7707
+Stratégie Nationale de Santé Numérique	7707,6010
 Strengthening the Regulatory Sandbox	11131,3
 Stronger Sanctions and Deterrence	6936
 Sustaining Sandbox	12512

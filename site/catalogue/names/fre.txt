@@ -23,7 +23,7 @@ African Continental Free	4126
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -57,7 +57,7 @@ Angela Mwandu Mr Fredrick Simasiku	13477
 Antenna Details Make Model Frequency Range	736
 Anti-Corruption Bureau Frequency	13095
 António Freitas de Sousa Desporto	4938
-Arabic and French	3896
+Arabic and French	3896,9837
 Article Cairo University Launches Free Program	5322
 Articles Chukwuemeka Fred Agbata	9936
 Artificial Intelligence For Lawyers’ With Free	11654
@@ -119,6 +119,7 @@ City of Paris and French Ministry for Europe and Foreign	789
 Civic Freedom Monitor	9022
 Claude KIREZI Remy Bruce SHEMA Fred	12445
 Commissioner General Fred Morel	7911
+Comoros B. RIGHT TO FREEDOM	13739
 Competition Regulations No Change Freedom of Expression	11870
 Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Contactos Perguntas Frequentes Mapa	11374
@@ -157,6 +158,7 @@ Department.................................. Free	12489
 Description Frequency Datasource Collection Collection	1284,12048
 Deteriorating State of Internet Freedom	13313
 Development As Freedom. OUP Oxford	961
+Development Fund AfCFTA African Continental Free	13731
 Development of Free Zones	10781
 Digital Analogue Proposed Frequency Band Proposed	736
 Digital Freedom	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1,135
@@ -415,7 +417,7 @@ Free-to-air	13461
 Free. Required Documents	12349
 FreeBalance. Critics	4640
 FreeID	9488
-Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9
+Freedom	226,735,3792,462,461,190,966,1400,422,368,134,504,277,80,117,82,380,130,489,59,626,301,26,98,8,56,502,422,3,145,9,269
 Freedom C Onuoha	9616
 Freedom Day	2626,2174
 Freedom Day and Freedom Month	2626
@@ -509,7 +511,7 @@ Frejus Thoto	10852
 Freleases	4861,929,900
 Frelick	12227
 Frelimo	5815,6333,53
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,32,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,32,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207,112,2,3,6,34,53,39,1,87,133,56,387,269,339,44,184,33,1,105,52,6
 French AI	10527
 French Agency for Development	11380
 French Ambassador	13447
@@ -547,7 +549,7 @@ French Tech	11922
 French Tech Abidjan	6884
 French Treasury	648
 French Wero	9832
-French and Arabic	2975
+French and Arabic	2975,10769
 French and English	7193,2423,628,2731
 French and English. FinTechFlutterwaveSenegalDigital	3260
 French and German	2318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,210,294,3600
@@ -678,6 +680,7 @@ Ghana Free Zones Authority	10630
 Ghanaian and French	789
 Ghana’s Free Zones	7695
 Global Aid Freeze Tracker	6337
+GoI's Duty Free Tariff Preference	13744
 GoIʼs Duty Free Tariff Preference	12979
 Google Play Store for FREE and Register	12209
 Government of India's Duty Free Tariff Preference	13029
@@ -685,7 +688,7 @@ Greater Internet Freedom	533,475,217,1
 Guiana French Polynesia French Southern Territories	11470
 HF High Frequency ICANN Internet Corporation	6946
 Higher Frequency Bands	6891
-Historic Drought Frequency	11762
+Historic Drought Frequency	11762,1988
 Human Rights and Freedoms	10841
 Humble French Engineering Term Shaped the Modern	5700
 Hz. Frequency	12233

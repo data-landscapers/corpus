@@ -241,7 +241,7 @@ Mean Internet Download Speed	11857
 Mean Monthly Foreign Exchange Rate	12256
 Mean Time	10721,1871
 Mean Time Between Failures	12592
-Mean VHI	11762
+Mean VHI	11762,1988
 Mean for Economic Inclusion	12227
 Meaning	573,12,676,2453,544,2110,267,5535,746,395,76
 Meaning ABIS Automated Biometric Identification System	11218
@@ -501,7 +501,7 @@ Sub-Pillars Measured	12214
 Sunset of Transitional Measures	3861
 Sunset of Transitional Measures All	3861
 Supplementary Environmental Fiscal Measures	12389
-Support Measures	1465
+Support Measures	1465,12266
 Supreme Audit Institution Performance Measurement Framework	9439
 Systemic Oversight Measures	6935,2815
 Systems Ministry of Completion Measurement	10870
@@ -545,6 +545,6 @@ Utilities and What That Means	5124
 VIOLENT SOCIETAL CONFLICTS AND INTELLIGENCE MEASURE	11277
 Validation of Insufficient Means	2307
 WEIGHTS AND MEASURES	11863
-Weighted Mean VHI	11762
-Weighted Mean Vegetation Health Index	11762
-Weighted Mean Vegetation Health Index Agricultural	11762
+Weighted Mean VHI	11762,1988
+Weighted Mean Vegetation Health Index	11762,1988
+Weighted Mean Vegetation Health Index Agricultural	11762,1988

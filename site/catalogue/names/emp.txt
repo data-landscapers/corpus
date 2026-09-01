@@ -297,7 +297,7 @@ Empirically	1828,5931,30,177,3062
 Emplacement	1187,12203
 Empleados	4209
 Empleo	1701,2508
-Emploi	12,300,425,547,424,806,294,548,40,637,369,411,408,1755,241,417,36,57,42,22,135,52,31,217,1,42,246,70,58,248,765,817,137,81,130,2,51,70,19,1,1,15,44,623,258,1395,14,17,111,107
+Emploi	12,300,425,547,424,806,294,548,40,637,369,411,408,1755,241,417,36,57,42,22,135,52,31,217,1,42,246,70,58,248,765,817,137,81,130,2,51,70,19,1,1,15,44,623,258,1395,14,17,111,107,161,27,9
 Emploi AUF Agence Universitaire	12
 Emploi Centre de Traitement	13341
 Emploi EMF Etablissement de Micro Finance ECAM	10965
@@ -310,6 +310,7 @@ Emploi Pilotée	8643
 Emploi Urbain	10985
 Emploi des Jeunes	10963,1
 Emploi des Jeunes PC Personal Computer PDDSP	13341
+Emploi. Article	13710
 Emploi. Ils	8634
 Emploi. Technical Report	10841
 Emplois	737,261,249,8029,4048,109

@@ -116,6 +116,7 @@ CONTENTIEUX	998
 CONTENTS	3787,1096,6114,187,32,1016,527,294,290,189
 CONTENTS ACKNOWLEDGEMENTS	12923
 CONTENTS ACRONYMS	12947
+CONTENTS Acknowledgments	13713
 CONTENTS Acronyms	9616,1540
 CONTENTS Agradecimentos	11376
 CONTENTS CHAPTER	3862
@@ -171,6 +172,7 @@ CONTEXTO NACIONAL E INTERNACIONAL	11397
 CONTEXTO SECTORIAL	11523
 CONTEXTS Literature	1248
 CONTEÚDOS DIGITAIS	11397
+COUNTRY AND STRATEGIC CONTEXT Country Strategy	13731
 COUNTRY CONTEXT AND DEVELOPMENT AGENDA	12968
 COUNTRY CONTEXT The Democratic Republic	11960
 COUNTRY CONTEXT While the Democratic Republic of Congo	11918
@@ -248,6 +250,7 @@ Content Provision	11569
 Content Required	6432
 Content Service Providers	6946
 Content Services Using Short Code Numbers	3862
+Content Table List	13729
 Content The Government of Zimbabwe	13295
 Content and Applications	958
 Content and Cybersecurity Access Features Awareness	1777
@@ -344,7 +347,7 @@ Context of National Food Security	10960
 Context of Pakistan	5349
 Context&author	2096
 Context. Cheltenham	2096
-Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37,1031,1362,69,15,92,31
+Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37,1031,1362,69,15,92,31,238
 Contexte Conformément	1679
 Contexto	8880,1903,623,35,1,2,4,3,92,1244
 Contexto A Reforma	11442
@@ -378,7 +381,7 @@ Conteúdo da Nota de Fundamentação	10783
 Conteúdo da Proposta	11456
 Conteúdos	2816,7931
 Convenience and Context-Specific Processes	10775
-Country Context	10763,432,765,183,269,14,243,270,374
+Country Context	10763,432,765,183,269,14,243,270,374,430
 Country Context Aligned	13042
 Country Context The Kingdom of Eswatini	12939
 Country Contexts. Stud Fam Plann	10881
@@ -499,6 +502,7 @@ I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924
 I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11,345,271,1155,1
 I. STRATEGIC CONTEXT A. Country	11380
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35,345,1426,1
+I. Strategic Context	13743
 I.1.1 Contexte	10876
 ICF. CONTENTS	13454
 ID PROGRAM Contents Overview	12257
@@ -697,6 +701,7 @@ SENSITIVE DATA AND SENSITIVE CONTEXTS	1243
 SOCIAL PROTECTION PROJECT TABLE OF CONTENTS	11525
 STATISTIQUES DES DONNEES CONTENUES DANS	785
 STRATEGIC CONTEXT	1818,10045
+STRATEGIC CONTEXT A. Context	13731
 STRATEGIC CONTEXT A. Country Context	11863
 STRATEGIC CONTEXT AND RATIONALE FOR STRATEGY	12939
 STRATEGIC CONTEXT Tunisia	1818
@@ -706,7 +711,7 @@ Scope Implementation Guidelines Education Content	2958
 Sector Context and Notable Progress Digital	3604
 Sector Overview and Context	13582
 Sector Research Department. Contents	774
-Sectoral and Institutional Context	1704,587,1165,8956,14,243,442
+Sectoral and Institutional Context	1704,587,1165,8956,14,243,442,632
 Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Sectoral and Institutional Context Zimbabwe	13523
@@ -797,6 +802,7 @@ Table of Contents Executive Summary	8670,3325
 Table of Contents FOREWORD	12444,1030
 Table of Contents Foreword	5244,7430,672,1
 Table of Contents Glossary	11259
+Table of Contents I. Background and Rationale for Additional	13734
 Table of Contents I. INTRODUCTION	12922,34,167
 Table of Contents INTRODUCTION	13368
 Table of Contents Introduction	13036

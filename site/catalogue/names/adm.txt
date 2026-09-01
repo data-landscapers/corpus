@@ -11,6 +11,7 @@ ADM Philippe Auffret Economist GSP05 Responsible	11525
 ADM Responsible	1284
 ADM Responsible Team Leader Co-Team Leader	11924
 ADM SAWS4 Waterinckx Responsible	1284
+ADM STAFF	13722
 ADM STAFF Role At Approval	11924
 ADM. Descriptions	8436
 ADM. The Bill	5363
@@ -221,7 +222,7 @@ Administratiewe Liggame	11255
 Administratif	7993,3604,1704,141
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46,215,42,209,47,130,13,266,54,7,8,145,168,11,10,18,12,2,18,26,3,2,28,13,9,45,15,24,29,11,22,58,18,35,20,26,3,1
 Administration 2018-2021	13341
 Administration Act	6921
 Administration All	11230
@@ -253,6 +254,7 @@ Administration Fiscale Proportion	10712
 Administration Fiscale RESULTATS ATTENDUS	10712
 Administration Foncière PNF Programme National Foncier	10876
 Administration Générale	1266,53,724,2277,9057,197
+Administration Générale des Impôts	13723
 Administration I Table	10874
 Administration Institut Technologique	10708
 Administration Le Conseil	10975
@@ -276,6 +278,7 @@ Administration Programme	5533
 Administration Publique	1281,1554,125,1442,9185
 Administration Publique Comorienne	5370
 Administration Publique Sous le Haut Patronage du Président	2960
+Administration Publique. SECTION TI	13719
 Administration Q.6.Combien	13390
 Administration Reform	1885
 Administration Renforcement	10712
@@ -313,7 +316,7 @@ Administration and Utilization	7538
 Administration de Madagascar	7725
 Administration de Swift	13452
 Administration des Affaires Marketing	8269
-Administration des Douanes	11139
+Administration des Douanes	11139,2606
 Administration des Entreprises	9357
 Administration des Finances DCSFR	10874
 Administration des Hydrocarbures. En	3191
@@ -352,14 +355,14 @@ Administration. Under	13487
 Administration49	1984
 Administration6	1984
 Administrationn	10712
-Administrations	1885,1799,1292,699,6,1393,3637,210,54,6,158,522,283,416,1017,13
+Administrations	1885,1799,1292,699,6,1393,3637,210,54,6,158,522,283,416,1017,13,359
 Administrations Personnalisées	13334
 Administrations Publiques	10975
 Administrations. Il	10711
 Administrativa	1855,2354,6541,632,53,92,3,7,338,940
 Administrativas	11537
 Administrativas da República de Angola	11409
-Administrative	236,351,175,571,193,281,289,631,48,762,46,278,26,533,703,124,21,306,849,1931,769,1009,25,178,35,344,98,64,61,11,37,148,23,24,18,54,63,102,136,54,194,79,16,80,49,113,46,113,40,27,1,9,15,22,34,446,8,154,32,220,5,42,19,47,123,25,95
+Administrative	236,351,175,571,193,281,289,631,48,762,46,278,26,533,703,124,21,306,849,1931,769,1009,25,178,35,344,98,64,61,11,37,148,23,24,18,54,63,102,136,54,194,79,16,80,49,113,46,113,40,27,1,9,15,22,34,446,8,154,32,220,5,42,19,47,123,25,95,72
 Administrative Account	969
 Administrative Act	11956
 Administrative Actions	11995
@@ -542,7 +545,7 @@ Admitir	167,1534,9748
 Admitiu	2821
 Admits Paid Content Boosting Sources	9404
 Admitted	431,1220,1210,603,2778,352,387,371,355,87,102,117,94,66,43,19,6,1,254,128,85,98,5,56,79,286,359,16,1118,405,225,254
-Admittedly	395,3387
+Admittedly	395,3387,9949
 Admob	13461
 Admob and AdSense	13461
 Admón. A2	4209
@@ -776,6 +779,7 @@ DEPARTMENT ADMINISTRATION AND REFUGEE MANAGEMENT	12947
 DEPARTMENT OF ADMINISTRATION	7167
 DEPARTMENT OF COMMERCE International Trade Administration	5773
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
+DES SANCTIONS ADMINISTRATIVES Article	13709
 DG Territorial Admin	3294
 DJAA Koffi Antoine FAITS MARQUANTS Adm	2342
 DJOHAN Gerard Adm MCI	2342
@@ -784,6 +788,7 @@ DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO	752
 DPI for Tax Administration	3735
 DPP Administration	13122
 DPSA Department of Public Service and Administration BMCS	11986
+DROIT D'UTILISATION DES FICHIERS ADMINISTRATIFS	13707
 DSP AdMob	13461
 DV360. For AdSense and Admob	13461
 Da Administracao Publica	1340,743,2330
@@ -915,7 +920,7 @@ Estate Administrators Full Circular	4896
 Estatuto Orgânico da Administração Geral Tributária	11435
 Estratégia de Sustentabilidade da Administração Pública	11451
 Eswatini Institute of Management and Public Administration	12970,2
-Etablissement Public Administratif	10975,1268
+Etablissement Public Administratif	10975,1268,1480
 Ethiopia National Tax and Customs Administration System	850
 Ethiopia TEU VAT Tax Administration Support	12500
 Ethiopian Food and Drug Administration	1824,2525
@@ -950,6 +955,7 @@ Finance Assistant Erwyn Veerapen ICT Administrator	11332
 Finance and Administration	6121
 Finance and Administration Assistant	13310
 Financial Management and Administration	11188
+Financial Partners RIA Integrated Administration Network	13731
 Financial and Administration Services Division	11188
 Financial and Administrative Department	11417
 Financial and Administrative Director	11525
@@ -1447,7 +1453,7 @@ Provinces Présents Admis Taux	10847
 Provincial Administrations	13472
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468,766
 Public Administration Business	10837,1315,188
 Public Administration Efficiency Reform Program	6824
 Public Administration Ethics	11182

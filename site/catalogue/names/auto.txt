@@ -10,6 +10,7 @@ AI Artificial Intelligence ASN Autonomous System	12427
 AI Automation and AI Augmentation	10726
 AIS Automatic Identification System BDEV AfDB	11863
 ALLOYKI AUTO LOGISTICS LIMITED Data Processor	7167
+ANRTIC Autorité Nationale de Régulation Régulation	13716
 ARN A Autoridade Reguladora Nacional	11531
 ARN-TIC Autoridade Reguladora Nacional	11552
 ARN. CAPÍTULO IV AUTORIZAÇÃO GERAL ARTIGO	11520
@@ -167,6 +168,7 @@ Automated Teller Machines	6774,3387,1794,83,193
 Automated Teller Machines ATMs	11955
 Automated Trading System	10
 Automated Transfer System	4915,1231,7168,203
+Automated Transfer System Plus	13742
 Automated Transfer Systems	12364
 Automated Transfer and Settlement System	10845
 Automated Transfert System	13452
@@ -366,7 +368,7 @@ Autorisez-vous	13300
 Autorisé	10975
 Autorit	13461,1
 Autoriteit Persoonsgegevens	8436
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418
 Autorité Administrative	9565
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Camerounaise	3233
@@ -380,9 +382,12 @@ Autorité Monétaire	10965
 Autorité Nationale	1231,517,618,2036
 Autorité Nationale de Cybersécurité	4255,2894
 Autorité Nationale de Cybersécurité. L'ANC	7149
+Autorité Nationale de Régulation des TIC	13716
+Autorité Nationale de Régulation des Technologies	13722
 Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366
 Autorité Rwandaise	1214
+Autorité Saoudienne des Données	13728
 Autorité Signe	10876
 Autorité Statistique Nationale	2625,10709
 Autorité Statistique Nationale. Article	13334
@@ -578,7 +583,7 @@ Guichet Automatique Bancaire	11944
 Guichet Automatique de Banque GIM-UEMOA	10711
 Guichet Automatiques Bancaires	13390
 Haute Autorite	4237
-Haute Autorité	3348,3230,545,332,464,417,555,1935,754
+Haute Autorité	3348,3230,545,332,464,417,555,1935,754,2130,28
 Haute Autorité de Lutte Contre la Corruption	11905
 Haute Autorité de Protection des Données	2514,842
 Haute Autorité de Régulation	11067
@@ -593,6 +598,7 @@ III.2.4 Caisse Autonome de Gestion des Dettes	10876
 INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 IV.3.1.2 Automatisation	10711
 Improving Substations System Automation and Security	12358
+Independent Autonomous Authority AI Artificial Intelligence	13731
 Informational Autonomy	11956
 Integration Platform ASYPM Automated System for Performance	13042
 Intelligent Hyper Automation	8974,392

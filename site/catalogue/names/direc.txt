@@ -133,6 +133,7 @@ Alternative Childcare and Support Directive No	12188
 Angola Neusa Lazary Direction	10784
 Angola and Director	10776
 Anna Nhambasora- Acting Deputy Director	13310
+Anna Wellenstein. Division Director	13743
 Annuaire Active Directory	9049
 Annual Direct Taxes	5655
 Anti Corruption Commission Director Financial Services	12972
@@ -236,7 +237,7 @@ Board of Directors of MTN Group Limited	7198
 Board of Directors of Statistics Botswana	12530
 Board of Directors. Confidential	1818
 Board of Directors. Finally	11955
-Board of Executive Directors	10714,51,10,10,27,29,135,1,8,151,13,122,274,322,7,5,2,84,211,152,7,11,188,125,653,2,18,63
+Board of Executive Directors	10714,51,10,10,27,29,135,1,8,151,13,122,274,322,7,5,2,84,211,152,7,11,188,125,653,2,18,63,318
 Board. Any Director	585
 Boards of Directors	10718
 Body NCST Director of Planning	13229
@@ -396,6 +397,7 @@ Committee of Departmental Directors’ Retreat	11606
 Communication Director Bery Dieye	8151
 Communication Plan INTERNAL Board of Directors MPCC	11131
 Communications Director	10127
+Comoros DTM Technical Directorate of Meteorology	13729
 Companies and Director	4896
 Company's Board of Directors	8939
 Company. The Directors	4896
@@ -451,6 +453,7 @@ Creative Director	4896
 Criminal Direcção Nacional	10750
 Criminal MARCIA REPARAÇÃO ALFREDO MENDES Direcção	10750
 Crypto The Deputy Director-General for Finance	9534
+Création Direction Général	13714
 Currency Directives	13532
 Current Status and Future Directions. Gothenburg	10718
 Curriculum Development Directorate	13392
@@ -480,16 +483,20 @@ DELEGACIÓN DIRECTIVO FUNCIÓN D.G DE REFORMA	4209
 DELEGACIÓN DIRECTIVO INSTITUTO DE COMERCIO DELEGACIÓN	4209
 DELEGACIÓN TOTAL DIRECTIVO POLÍTICAS PROMOCIÓN	4209
 DELEGACIÓN TOTAL DIRECTIVO TRABAJO COOPERATIVAS	4209
+DES ATTRIBUTIONS DE LA DIRECTION NATIONALE	13723
 DFF Direct Facility Financing DGMP General	10829
 DG Director-General Advance Passenger Processing System	11986
 DG INTPA Directorate General for International Partnerships	970
 DGA Directeur Général	10876
 DGCP Public Tenders General Directorate	11549
 DGConnect Directorate H4	10819
+DGD Direction Générale des Douanes	13725
 DGE General Directorate for Environment	11905
 DGEB General Directorate of Basic Education	11905
 DGI INTRODUCTION La Direction	10858
 DGMP Procurement General Directorate	969
+DGPSN Direction Générale	13725
+DGSC General Directorate of Civil Security	13729
 DGSN Director General	4052
 DGSN Le Directeur Général	6957
 DHA Director General	2692
@@ -784,10 +791,10 @@ Directeur E-business	4815
 Directeur Exploration	8269
 Directeur Exécutif de Med.IA Lab. Ces	3724
 Directeur Gé-	2342
-Directeur Général	737,477,1100,13,15,281,178,114,45,6,133,92,211,149,37,397,225,210,382,333,235,755,335,1010,150,180,5,120,74,317,961,290,457,158,55,22,241,336,31,9,99,617,1709,33,43,28,77,42,63,3,93
+Directeur Général	737,477,1100,13,15,281,178,114,45,6,133,92,211,149,37,397,225,210,382,333,235,755,335,1010,150,180,5,120,74,317,961,290,457,158,55,22,241,336,31,9,99,617,1709,33,43,28,77,42,63,3,93,24,21
 Directeur Général ABER	13433
 Directeur Général AREEN	13433
-Directeur Général Adjoint	10975
+Directeur Général Adjoint	10975,2753
 Directeur Général Adjoint DGAS Direction Générale	10876
 Directeur Général Adjoint DGD	10874
 Directeur Général DGA	10874
@@ -802,6 +809,7 @@ Directeur Général de FirstBank RDC	3849
 Directeur Général de FirstBank RDC Jeudi	4815
 Directeur Général de FirstBank RDC. Disponible	4815
 Directeur Général de Firstbank	3849
+Directeur Général des Douanes	13745
 Directeur Général des Impôts	5814
 Directeur Général des Opérations	8316
 Directeur Général des TIC	13290
@@ -842,7 +850,9 @@ Directeur des Statistiques Démographiques	9277
 Directeur des Systèmes	748,3421,104,3904,2060,308
 Directeur des Technologies	10925
 Directeur du Bureau de Développement des Télécommunications	13482
+Directeur du Centre de Prospective	13728
 Directeur du Contrôle	8269
+Directeur du Département des Affaires	13728
 Directeur du Département des Infrastructures	10371
 Directeur du Développement des Infrastructures Numériques	7661,516
 Directeur du Développement des Systèmes Applicatifs	5103
@@ -862,12 +872,12 @@ Directeurs des Académies	8956
 Directeurs des Systèmes	4881,1
 Directinfosgabon.com	3488
 Directing	2958
-Direction	17,97,635,438,97,633,88,1,42,238,37,153,38,89,356,2,83,72,273,14,134,102,5,16,17,10,17,325,105,1,27,7,80,6,37,62,29,13,1,1,22,130,94,39,130,20,80,11,6,30,32,30,449,84,199,241,443,110,279,62,7,5,206,57,38,131,307,30,43,1,15,39,32,5,33,47,11,5,36,128,122,47,23,64,1,16,49,10,57,122,102,17,55,58,14,69,301,78,26,129,243,197,96,74,140,3,223,118,57,3,68,65,100,15,31,16,2,31,4,8,1,6,8,3,3,35,99,77,99,274,201,28,82,3,67,625,552,219,5,23,104,9,25,1,78,14
+Direction	17,97,635,438,97,633,88,1,42,238,37,153,38,89,356,2,83,72,273,14,134,102,5,16,17,10,17,325,105,1,27,7,80,6,37,62,29,13,1,1,22,130,94,39,130,20,80,11,6,30,32,30,449,84,199,241,443,110,279,62,7,5,206,57,38,131,307,30,43,1,15,39,32,5,33,47,11,5,36,128,122,47,23,64,1,16,49,10,57,122,102,17,55,58,14,69,301,78,26,129,243,197,96,74,140,3,223,118,57,3,68,65,100,15,31,16,2,31,4,8,1,6,8,3,3,35,99,77,99,274,201,28,82,3,67,625,552,219,5,23,104,9,25,1,78,14,177
 Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Départementale	1005
 Direction Generale du Budget	11794
 Direction Général	10847
-Direction Générale	547,96,326,29,1051,1555,651,740,835,608,140,1339,76,234,664,515,262,356,684,3,3,98,9,53,2,34,65,930,1385,11,33,43,56,9,82,23,136
+Direction Générale	547,96,326,29,1051,1555,651,740,835,608,140,1339,76,234,664,515,262,356,684,3,3,98,9,53,2,34,65,930,1385,11,33,43,56,9,82,23,136,24,36,2,1
 Direction Générale Budget	643
 Direction Générale La Direction Générale	10975
 Direction Générale de DLI	11905
@@ -876,12 +886,13 @@ Direction Générale de NITA	6883
 Direction Générale de Système	2049,2596
 Direction Générale des Collectivités Territoriales	557
 Direction Générale des Domaines	4420,6291
-Direction Générale des Douanes	2971,425,1024,4388,2068
+Direction Générale des Douanes	2971,425,1024,4388,2068,2869
 Direction Générale des Douanes DGEP	10874
 Direction Générale des Etudes	10847
 Direction Générale des Examens	10847
 Direction Générale des Finances Publiques	10532
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226,47,2724
+Direction Générale des Impôts. CHAPITRE	13723
 Direction Générale des Impôts. L'enjeu	7348
 Direction Générale des Marchés Publics	969,9860
 Direction Générale des Opérations	749
@@ -898,14 +909,17 @@ Direction Générale du Trésor	3396,208,3223,3884,165
 Direction Générale. Malgré	10975
 Direction Générale. Un	6438
 Direction ISP	718
-Direction Nationale	12,737,6210,966,1628,1283,686
+Direction Nationale	12,737,6210,966,1628,1283,686,2196,5
+Direction Nationale de Cyber Sécurité	13718
+Direction Nationale des Affaires	13723
+Direction Nationale des Affaires Foncières	13723
 Direction Nationale des Affaires Politiques	2756
 Direction Nationale des Laboratoires	13617
 Direction Nationale du Système	13300
 Direction Nationale du Trésor	10711
 Direction Provinciale	10847,2595
 Direction Regionale	10940
-Direction Régionale	2342,8505
+Direction Régionale	2342,8505,2860
 Direction Technique	13301
 Direction de Coordination du Programme Elargi de Vaccination	10919
 Direction de L'Etat Civil	2048,2596
@@ -945,7 +959,7 @@ Directionnelle	998
 Directions	11,3703,173,496,638,1956,1016,1862,972,20,27,90,11,655,314,618,739
 Directions API	1363
 Directions L'Agence de Régulation	13301
-Directions Nationales	11944
+Directions Nationales	11944,1779
 Directions Provinciales	13445
 Directions des Impôts	10711
 Directions des Ressources Humaines	8227
@@ -1018,7 +1032,7 @@ Director Financial Regulation	11131
 Director Financial Regulation Chartered Accountant	11134
 Director Financial Stability Director General Counsel	6938
 Director Genera	11289
-Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55
+Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55,63,10
 Director General Adjunto	4209
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Director General Adjunto Ministerio	4209
@@ -1081,6 +1095,7 @@ Director General of ARTP	6869
 Director General of ASIN	3198,1,100
 Director General of Africa CDC	2678
 Director General of Angola's National Space Programme	6628
+Director General of Arabic World	13744
 Director General of Artificial Intelligence Systems. Framed	3496
 Director General of Cameroon Customs	8499
 Director General of Civil Identification	4984
@@ -1829,7 +1844,7 @@ Every Director	585,8281
 Evidence Cybersecurity Directorate	10911
 Evolution of Topical Directions. Paper	5349
 Exec Director Yodahe Zemichael	3757,1626
-Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204
+Executive Director	587,567,400,257,19,21,686,52,390,26,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100,402,3,15,136,397,124,169,63,135,127,86,75,459,31,8,149,10,332,27,204,60
 Executive Director Anderson Miamen	8955
 Executive Director Andrew Peters	4614,1767,3912
 Executive Director Dr Mpoki Ulisubisya	7321
@@ -2011,6 +2026,7 @@ General Directorate of Epidemiology and Disease Control	10829
 General Directorate of Higher Education	11939
 General Directorate of Labor	11965
 General Directorate of Literacy and Non-Formal Education	11905
+General Directorate of Meteorology	13729
 General Directorate of National Land Domain	4596
 General Directorate of National Security	619,1449,720,2207,1317,140,741,102
 General Directorate of Pharmacy and Health Care Organization	10829
@@ -2226,6 +2242,7 @@ La Direction Communication	4065
 La Direction Générale	37,8709,2101,29,2425,33
 La Direction Générale des Affaires Sociales	10876
 La Direction Générale des Impôts	5814,349
+La Direction Nationale des Affaires Foncières	13723
 La Direction Technique	13301
 La Direction Technique Elle	13301
 La Direction des Affaires Administratives	10975
@@ -2586,8 +2603,10 @@ National Treasury Director-General	3741,7484
 National Treasury and Public Accounting Directorate	10845
 National Water Directorate	11380
 Nationality of Key Personnel and Directors	12389
+Ndiame Diop Country Director	13742
 Ndiame Diop Regional Practice Director	3562,2977
 Ndiame Diop. Regional Director	12220
+Ndiame Diop. Regional Practice Director	13743
 Ndiamé Diop Regional Practice Director	11417
 Net Foreign Direct Investment	5247
 Network OSSD Operation Support Service Directorate	1264
@@ -2620,6 +2639,7 @@ OMEGA SHELEMBE ACTING DIRECTOR-GENERAL DATE	11265
 OPIC Direct Investment Overseas Private Investment	292
 OPS Deputy Director-General	11986
 OVERVIEW BY THE EXECUTIVE DIRECTOR	12920
+Observing Network GDM General Directorate of Meteorology	13729
 Officer Deputy General Director Manager of Cybersecurity	2989
 Oficial Director General	4209
 Oficial Director General Director General Director	4209
@@ -2773,6 +2793,7 @@ President Trina S. Haque Country Director	11924
 President and Programme Director	6946
 Presidential Directive No	10775
 Prime Minister's Director General	6938
+Principal Investigator and Executive Director Pria Chetty	13747
 Principal Investigator and Scientific Director of RAIL	5227
 Priscila Simukonda Director	13392
 Private Partnerships QMD Quality Management Directorate	12240
@@ -2839,7 +2860,7 @@ Rectification Directives	12062
 Refugee Committee ECHO EU Directorate-General for European	6947
 Region-Independent Directors	585
 Regional Directive	5677
-Regional Director	1228,3425,2190,2972
+Regional Director	1228,3425,2190,2972,3919
 Regional Director Mary Wandla	8662
 Regional Director de Vertiv	8002
 Regional Director for Africa	8464,150,3203
@@ -2934,12 +2955,14 @@ SNDI Director General Soro Nongolougo	3689
 SSS BUTHELEZI DIRECTOR GENERAL HEALTH	1009
 STAE Director General	12201
 STANLIB Lesotho Managing Director	7898
+STATEMENT BY THE EXECUTIVE DIRECTOR	13741
 STRATEGIC DIRECTION	12453,306,586
 STRATEGIC DIRECTION This Plan	12453,892
 Sahid Bangura The Director-General	5390
 Sales Director-East Africa	6186
 Sales Directors	5124
 Sales and Distribution Director	10249
+Salim M. AlMalik Directeur Général	13728
 Salq Director of Informatics	2958
 Sandy Nalube Director TESS	13392
 Satellite Direct-to-Device	5245,5162
@@ -3078,6 +3101,7 @@ TeKnowledge’s Territory Director for Africa	7234
 Technical Director	13022,52
 Technical Director Sam Kummary	2537
 Technical Director for Innovations Policy	10067
+Technical Director of Meteorology	13729
 Technology Director Bowmans Bowmans Nairobi	12232
 Telecom Director General Mohammed Assoweh	3788
 Telecommunication Directive	11788
@@ -3155,6 +3179,7 @@ WBG Board of Directors	4688
 WFP's Country Director	13612
 WFP-Eswatini Country Director	12962
 Wendy E. Hughes. Country Director	12388
+Wendy E. Hughes. Division Director	13734
 Westville Campus Programme Director	9959
 White House. The Policy Direction	5808
 World Bank Board of Executive Directors	2832

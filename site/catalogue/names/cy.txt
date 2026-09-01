@@ -368,7 +368,7 @@ Cybastion's Digital Fast Track	5843,88
 Cybastion's Digital Solutions	3786
 Cybastion's Oct	2157
 Cybastion. Il	10258
-Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62
+Cyber	395,388,175,3,11,28,284,162,494,290,108,103,141,145,458,105,79,263,65,376,11,42,642,42,182,115,135,589,769,203,143,434,91,67,10,79,395,618,127,180,669,27,207,6,217,95,538,15,85,15,369,650,80,98,214,9,12,111,95,8,85,122,282,14,1,107,2,15,90,21,64,20,41,15,1,121,62,189
 Cyber Accelerated Maturity Program	6936
 Cyber Africa Forum	2451,645,9,1,6,45,18,22,2,15,8,77,215,12,841,2690,21,3303,310
 Cyber Africa Forum By Faith Omoniyi	3112
@@ -554,7 +554,7 @@ Cyber Service Provider	10721
 Cyber Special Operations Unit	1000
 Cyber Summit	8141
 Cyber Systems Financial Breakdown	10738
-Cyber Sécurité	234
+Cyber Sécurité	234,13485
 Cyber Threat	6946
 Cyber Threat Advisories	6671
 Cyber Threat Alliance	9698
@@ -673,7 +673,7 @@ Cybercrimes and Computer Misuse Bill	4042
 Cybercrimes and Computer Misuse Provisional	12459
 Cybercrimes and Data Protection Act	3983
 Cybercriminal	5794
-Cybercriminalité	1801,1110,577,3027,778,2960,136,469,176,2256,51
+Cybercriminalité	1801,1110,577,3027,778,2960,136,469,176,2256,51,378
 Cybercriminals	1777,5169,1765,455,450,844
 Cybercriminals Attack Seychelles	3364
 Cyberdefense	5073
@@ -681,7 +681,7 @@ Cyberdelegation	2096
 Cyberdiplomacy	10375
 Cyberdrill	3096,77,55
 Cyberdéfense	1801,3212,7030
-Cyberespace	1801,11463
+Cyberespace	1801,11463,455
 Cyberia Vision Limited Data Controller INST-333339EB645	7167
 Cybermenaces	12043
 Cybernetica	1596,132,529,813,585,6,14,14,1636,850,428,609,465,3142,1470,65,37
@@ -932,6 +932,7 @@ Cybersquatting	12459
 Cybersquatting. Computer	12459
 Cyberstalking	587
 Cybersécurité	234,1567,575,324,33,199,29,48,296,550,11,149,247,140,342,180,533,780,58,142,777,763,90,741,77,589,763,130,12,114,118,528,12,892,1217,81,227
+Cybersécurité En	13718
 Cybersécurité L’Autorité	11139
 Cybersécurité Nonobstant	11139
 Cybersécurité Postes	3675
@@ -1010,6 +1011,8 @@ Cyuve Rubaya Mimuri Katabagemu Burera District	12413
 Cyuzuzo	4676
 Czech Republic Global Cybersecurity Index	10764
 D4D Initiative for Digital Government and Cybersecurity	886
+DE LA CYBERSECURITE CHAPITRE PREMIER	13719
+DE LA LUTTE CONTRE LA CYBERCRIMINALITE	13719
 DETERMINATION ON THE OPERATIONAL AND CYBERSECURITY	13206
 DG... Cybersécurité Régulation	10379,3104
 DIGI-ASSURANCE CYBER RISK MANAGEMENT LIMITED Data	7167
@@ -1063,6 +1066,7 @@ Digital Services Bill and Cybersecurity Bill	4186
 Digital Services and Cyber Security Bills	12564
 Digital Strategy for Cyprus	11529
 Digitalization Life Cycle B Strategy and Design	11006,1
+Direction Nationale de Cyber Sécurité	13718
 Directive Review Cycle	3861
 Director General Zambia Cyber Security Agency	9082
 Director of Cyber Resilience	11651
@@ -1650,6 +1654,7 @@ PART VI LICENSING OF CYBER SECURITY	2727
 PKI and Cyber Security	13005
 POWERS OF INVESTIGATIONS The National Cybercrime	12459
 PRESS RELEASE CYBER SECURITY AUTHORITY SANCTIONS	9728
+PROCEDURE PENALE EN MATIERE DE CYBERCRIMINALITE	13719
 PROGRESS TO-DATE ON CYBERSECURITY AND RISK	11231
 PROVISIONS APPLICABLE TO CYBER SECURITY COMMITTEE	972
 Pacific Cyber Security Operational Network	10764

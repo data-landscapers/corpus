@@ -259,6 +259,7 @@ Cooperative Member Identification Number	9876
 Coopératives Question A. IDENTIFICATION	13390
 Copy of Identification Documents	12400
 Core Infrastructure Identity and Access Management	13042
+Country Briefs THE STATE OF IDENTIFICATION	13713
 Criminal and Civil Identification	10775
 Cross Functional Identity Group	8203
 Cybersecurity Education Cluster. Identify	1777
@@ -717,7 +718,7 @@ Identidade de Cidadão Nacional	10772
 Identifiable	27,1447,10383,1147
 Identifiable Information PPPs Public	12240
 Identifiable Natural Person	12185
-Identifiant	735,496,9590,15,22,17,25,2441
+Identifiant	735,496,9590,15,22,17,25,2441,391
 Identifiant Bancaire Unique	11944
 Identifiant Digital Civil	557
 Identifiant Fiscal Unique	10823
@@ -825,7 +826,7 @@ Identified Gender Barriers and Proposed Actions	969
 Identified Project FM Risks	13332
 Identified Strategic Risks	11218
 Identifient	10876
-Identifier	748,257,182,125,724,2277,2110,4389,63,100,969,99,1247,51,34,15,312
+Identifier	748,257,182,125,724,2277,2110,4389,63,100,969,99,1247,51,34,15,312,18
 Identifier Cross-Reference HL7 Version	1009
 Identifier DPoeslFitviOegrfuyfircSeeer9vi	11129
 Identifier MPQ NDoH Integrating the Healthcare Enterprise	1009
@@ -1504,6 +1505,7 @@ SIM CARD Subscriber Identity Module SMMEs	12395
 SIM Subscriber Identification Module Figure	582
 SIM Subscriber Identification Module SIRC Sistema	10765,10
 SISTEMA ELECTRÓNICO DE IDENTIFICAÇÃO CIVIL	12784
+SNID National Digital Identity System TSF	13731
 SOCIAL IMPACTS Identify	1988
 SOCIAL MEDIA USER IDENTITIES	12214
 SOCIAL MEDIA USER SOCIAL MEDIA IDENTITIES	12214

@@ -17,6 +17,7 @@ AI Policy Observatory	1814
 AI for Economic Growth and Modernisation Objective	4528
 AI for Economic Growth and Modernisation Objective Lagging	12512
 ANGEO-1 Earth Observation	5438
+ANRTIC Observatoires	13716
 APDP-du-26-mars-2020 RESPONSABLE DE TRAITEMENT OBJET	10821
 APPLICATION AND OBJECTS OF ACT	11182
 APPLICATION AND OBJECTS OF ACT Definitions	11182
@@ -36,6 +37,7 @@ Act. Obligations	13035
 Activité Tâche Objectif	10975
 Actos Administrativos da Protecção Social Obrigatória	11433
 Affaires Sociales Guy Patrick OBIANG NDONG	1231
+Africa Region Project Development Objective	13722
 Africa-BB-Maps I.CONTEXTE ET OBJECTIFS	13482
 Africa. Observer Research Foundation	2518
 African Observatory	1814,3784,1288
@@ -69,6 +71,7 @@ Assurance Maladie Obligatoire	8891
 Assurance Maladie Obligatoire. Si	8891
 Authority. Objects	587
 Automatic Weather Stations. Key Objectives	12728
+Autre Objet	13748
 Autre Obligation	13390
 Axe Objectifs Actions Résultats Activités A1	10965
 Axe Objectifs Actions Résultats Activités Budget	10965
@@ -84,6 +87,7 @@ B. Obligations	12452
 BERKELEY Objection RAS Plusieurs ENERGY	10975
 BRIGADA DE CONSTRUC. Y OBRAS	4209
 Bank of Eswatini Objective Orienting	11131
+Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Baseline Obligations	3861
 Basic Emergency Obstetric and Newborn Care	9766
 Bata Por Catalina Obono Mba Nchama	11633
@@ -164,6 +168,7 @@ Closing Observation Taken	7151
 Colegio Nacional Nohankieñ Obuk	4209
 Comisión de Obras Públicas	10438
 Commission COG Commonwealth Observation Group CPLP	12201
+Commission. CHAPITRE V DES OBLIGATIONS INCOMBANT	13709
 Commission. Objectives of Commission	12546
 Committee's Observations	13335
 Committee's Observations and Recommendations	13328,8
@@ -266,7 +271,7 @@ Department’s Objectives	12971
 Department’s Objectives The Department of Communications	12971
 Department’s Objectives The Department of Information	12971
 Description Object	2078,2330,1
-Development Objective	1284,420,70,517,1165,7507,454,446,42,60,759
+Development Objective	1284,420,70,517,1165,7507,454,446,42,60,759,1018
 Development Objective Agreements	4260
 Development Objective Grant Agreement	12962
 Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17,240,39,173,587,31
@@ -332,7 +337,7 @@ EU Electoral Observation Mission	970
 EU Observer	11050
 EU Specific Objective	970
 Earth Observa	12006
-Earth Observation	1131,8413,1790,428,244,1088,300,81
+Earth Observation	1131,8413,1790,428,244,1088,300,81,275
 Earth Observation Application	13094
 Earth Observation Data Products and Information Underlying	13094
 Earth Observation Handbook	13094
@@ -381,6 +386,7 @@ Evaluation Objective	12175
 FAO's Earth Observation for Agricultural Statistics	13475
 FINANCIAL CAPABILTY Objective	940
 FINANCIAL INNOVATION Objective	940
+FINANCING DEVELOPMENT OBJECTIVES AND COMPONENTS Project	13731
 FISTULE OBSTÉTRICALE	13300
 FREIGHT LOGISTICS SYSTEM REFORM Objective	11236
 FUNCTIONAL REQUIREMENTS AND CMS OBJECTIVES	12693
@@ -438,7 +444,7 @@ Health Centre COBIT CSIR Control Objectives	1009
 Henry Obiekea	7689
 High Level Objective	1867
 High-Level Objectives	12968
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411
 Higher Level Objectives Policy Context and Strategic	969
 Higher-Level Objectives	3604
 Higher-level Objectives	11549
@@ -634,7 +640,7 @@ Management System PrDO Program Development Objective	3604
 Mandate and Objectives	408
 Mangaung IDP Strategic Development Objectives	11231
 Mantenimiento Obras	4209
-Map Earth Observation	11762
+Map Earth Observation	11762,1988
 Mar-2017 Portal Development Objective	11924
 Mark-Alexandre Doumba. Objectif	12091
 Market Leadership Strategic Objectives Ethio	3487
@@ -784,7 +790,7 @@ OBJET DE LA REQUETE Base	10821
 OBJET DE LA REQUETE DECISION FINALE	10821
 OBJET DE LA REQUETE Enregistrement	10821
 OBJET DE LA REQUETE Traitement	10821
-OBJET ET CHAMP D'APPLICATION Article	10836
+OBJET ET CHAMP D'APPLICATION Article	10836,2883
 OBJET ET CHAMP D’APPLICATION Article	10825
 OBJET ET DÉFINITIONS	4567
 OBJET ET PORTEE DU MARCHE PUBLIC	8643
@@ -930,13 +936,15 @@ Objectif L’étape	10711
 Objectif Spécifique	643,10322,979
 Objectif Stratégique	10906
 Objectif de Développement Durable	8577
+Objectif de Développement Durable des Nations Unies	13735
 Objectif de Développement du Projet	2966
 Objectif du Développement Durable	13574
-Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99,1068,1257,25,16,49,43,80,34,81
+Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99,1068,1257,25,16,49,43,80,34,81,97
 Objectifs Améliorer	8556
 Objectifs Assurer	8556
 Objectifs Besoins	13433
 Objectifs CP Comité de Pilotage CSC Cellule	10712
+Objectifs Facilitation	13751
 Objectifs Faciliter	8556
 Objectifs Le BDIXP	13291
 Objectifs Recouv Taux	3396
@@ -1088,7 +1096,7 @@ Objects of Act	11179,3,1366,371,397
 Objects of Act CHAPTER	11182
 Objects of NSI	12895
 Objeetive	4301
-Objet	1214,33,554,1595,1171,6269,40,12,251,383,45,476,1280,52,149
+Objet	1214,33,554,1595,1171,6269,40,12,251,383,45,476,1280,52,149,224
 Objet Date	998
 Objet L'actualité	10387
 Objet Tout	4420
@@ -1212,7 +1220,7 @@ Observation	1988,5,7552,803,1205,648,883,387
 Observation of PPE	1988
 Observation. Improved	11420
 ObservationIdentifiersNamesandCodes	8606
-Observational	11553,1812
+Observational	11553,1812,364
 Observational Infrastructure	11553
 Observations	1828,1568,395,1570,2525,2002,933,55,99,159,151,135,1528,362,158
 Observations Cadre	13468
@@ -1240,6 +1248,7 @@ Observatorio Nacional	1701
 Observatorio-de-mercado-2-o-trimestre-ano-de-2025.pdf Author	11574
 Observatory	1814,1662,731,1398,212
 Observatory NSG National School of Governance NSPDR	11261
+Observatory PADEC Comorian Economic Digitalisation Support	13731
 Observatory SAIAB South African Institute for Biodiversity	5246
 Observatory SAWS South African Weather Service	5246
 Observatory of Economic Complexity	2889
@@ -1266,10 +1275,11 @@ Observemos	12018
 Observer	585,1751,690,189,489,4870,248,1195,636,169,1083,1012
 Observers	2736,303,179,761,774,281,696,408,39,2434,344,3246,451,880
 Observing	6612
+Observing Network GDM General Directorate of Meteorology	13729
 Observou	10760
 Observou-se	10777
 Observé	13468
-Obsolete	7548
+Obsolete	7548,6185
 Obsoletes	12058
 Obstacle	12389
 Obstacles	5679,1976,366,1867,2501,936
@@ -1610,6 +1620,7 @@ Strategic Oblectives	4301
 Strategic Pillars and Objectives The National Cybersecurity	1777
 Strategic Plan Objectives	12955
 Strategy Vision and Objectives Digital Government Platform	12359
+Strategy and Objectives	13731
 Strategy and Objectives A.1. For Cabo Verde	11863
 Study Objectives and Scope	6832
 Su Excelencia Nguema Obiang Mangue	8083

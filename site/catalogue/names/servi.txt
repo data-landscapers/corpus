@@ -734,7 +734,7 @@ Clearing and Settlement Services	4896
 Client Service Charter Services NVCCZ Functions	12495
 Client. Origin of Goods and Consulting Services	13037
 Climate Forest Service	7548
-Climate Services	11283
+Climate Services	11283,2446
 Climate Services and Related Applications	13062
 Climatology and Advisory Services Unit	13365
 Clinical Services	12976
@@ -996,6 +996,9 @@ DENTALDOC SERVICES LIMITED Data Controller INST-48821312A5B	7167
 DENTALDOC SERVICES LIMITED Data Processor INST-48821312A5B	7167
 DEPARTMENT OF HEALTH SERVICES Data Controller	7167
 DEPARTMENT OF MEDICAL SERVICES	7167
+DES AUTRES PRESTATIONS DES SERVICES	13719
+DES PRESTATIONS DE SERVICES DE CONFIANCE	13719
+DES SERVICES DE CONFIANCE Article	13719
 DES SERVITEURS DU PEUPLE Le Conseil	8321
 DES SERVITEURS DU PEUPLELe Conseil	7670
 DESENVOLVER NOVOS SERVIÇOS DIGITAIS E SERVIÇOS	11397
@@ -2020,6 +2023,7 @@ Hosting Service Provider	762
 Hosting Service Provider License	762
 Huawei Technizon Technical Services	3464
 Huawei for Making Digital Access and Services	8559
+Hub des Services	13727
 Huduma Kenya Service Delivery Programme. Zambia	12435
 Human Capital Service Delivery Transformation	723
 Human-Centered FAQ Chatbot for Public Service Delivery	8856
@@ -2880,6 +2884,7 @@ National Meteorological Service Act	12889
 National Meteorological Service Modernization Phase	2242
 National Meteorological Service Modernization Project	2305
 National Meteorological Services	11191,362
+National Meteorological and Hydrological Service QMS Quality	13729
 National Meteorological and Hydrological Services	11191,1751
 National National AI and Public Service Treasury	7548
 National Plan for Social Care Services	11855
@@ -3595,6 +3600,7 @@ REMITTANCE-LINKED PRODUCTS AND SERVICES	13388
 REMOTE SERVICES	12624
 REPARTIÇÃO GLOBAL DE SERVIÇOS DE INTERNET	11531
 REPS Royal Eswatini Police Service RHMs	12970
+RESPONSABILITÉ DES PRESTATAIRES TECHNIQUES DE SERVICES	13719
 RFC5646 Care Services Care Services Discovery	1009
 RFS Ready For Service F Forecast	3184,1,1340,6470
 RIGHTS AND LEGAL SERVICES	13097
@@ -3756,6 +3762,7 @@ SADC Universal Postal Service and Access Regulatory	12918
 SAFETY NETS AND BASIC SERVICES	11525
 SAMPLE CONTRACT FOR CONSULTING SERVICES SMALL	13037
 SANGRE ESTUPEF. RECURSOS FINANCIERA SERVICIOS SERVICIOS	4209
+SANITATION AND HYGIENE SERVICES	13743
 SANSA Data Products and Services Manager	11244
 SAPS Protection and Security Services	11285
 SAPS South African Police Service SARB	5533
@@ -4021,7 +4028,7 @@ Sereno B3 Servicio	4209
 Servers Regular Restoration Tests of Servers and Services	9123
 Servi	9399
 Servic	13325
-Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64
+Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,103,22,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68,22,9,1,86,69,7,50,8,2,17,3,16,6,12,23,115,135,55,27,244,4,2,6,6,5,7,63,8,3,16,5,10,14,8,130,7,57,9,15,2,5,8,12,2,12,13,22,25,1,18,13,36,10,34,5,1,8,6,31,41,4,7,81,6,3,97,40,120,10,37,17,9,5,5,33,32,148,83,32,1,4,6,3,14,3,10,44,29,4,2,13,9,118,64,95
 Service AI	7548
 Service APIs	6423
 Service APIs The APIs	6423
@@ -4188,6 +4195,7 @@ Service PB Petabyte PBBAs Purpose-Built Backup	13185
 Service PMO Project Management Office RACI	12359
 Service POPIA Protection of Personal Information Act	11196
 Service Passport	12164
+Service Passport Holders	13744
 Service Payment	11955
 Service Payment The Service Payment	11955
 Service Payment Transactions	11955
@@ -4323,7 +4331,7 @@ ServiceNow Government	6432
 ServicePublic	3604
 Serviced Land	13474
 ServicedeliveryZA Issued	11278,3
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58,42,16,141,1,15,5,41,21,24,19,12,85,168,56,1,61,108,107,6,11,3,4,1,58,1,3,8,3,29,2,22,27,6,2,210,27,41,16,9,13,5,15,6,4,24,3,5,23,1,8,58,146,4,41,132,83,44,1,10,5,11,29,14,6,146,2,39,44,27,5,1,11,2,10,5,11,1,4,12,20,8,2,3,28,9,15,40,18,2,47,14,97,42,2,6,9
 Services Act	7845,3706
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
@@ -4873,6 +4881,7 @@ Support Services DAFF Department of Agriculture	11261
 Supporting Essential Health Service Delivery	10829
 Supporting Essential Health Service Delivery Children	10829
 Supporting Financial Service Providers	1066
+Sushma Swaraj Institute of Foreign Service	13744
 Sustainable Development Goals USAF Universal Service	13346
 Sustainable Services Program	11905
 Sustainable and Reliable Electricity Services	11380
@@ -5237,6 +5246,7 @@ Utilization of Health Services	10829
 Utilization of Space Services	1131
 V Service	34
 V. GRIEVANCE REDRESS SERVICES	969,295,603,1737,2935,4229,196,416,37,132,11,1771,1
+V. Grievance Redress Services	13743
 VASP Virtual Asset Service Provider	8590
 VCL Financial Services	5396,2257,187,784
 VETERINARY SERVICES AND FISHERIES-COUNTY GOVERNMENT	7167

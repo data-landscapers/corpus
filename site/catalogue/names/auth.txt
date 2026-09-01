@@ -151,11 +151,11 @@ Authentications Requirements	12496
 Authenticator	9902
 Authenticity	5665,1613,3447,2597
 AuthenticityAuthenticity	7278
-Authentification	735,2646,7455,731,476
+Authentification	735,2646,7455,731,476,1676
 Authentification Authentification Perspectives Validation	3381
 Authentique	10387
 Authonty	11517
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37,118,24,27,144,19,1,21,4,8,1,8,4,16,10,1,2,1,3,10,4,1,2,2,1,3,3,1,9,16,8,47,24,22,11,37,38,6,6,30,31,7,9,19,2,13,257,1,6,4,15,30,6,42,101,3,29,82,61,3,1,1,8,9,4,18,12,65,6,102,12,93,15,81,44,5,275,48,3,31,74,216,81,23,107,76,78
 Author Adebowale Jeremy Adetayo	9256
 Author CIPESA Posted	6294,3643
 Author Contributions All	11596
@@ -407,7 +407,7 @@ Authority’s National Table of Frequency	762
 Authority’s PQ	12969
 Authority’s Radio Frequency Spectrum Management Directive	762
 Authority’s Response	4732
-Authorization	27,691,44,2151,3510,2182,1802,314,2464
+Authorization	27,691,44,2151,3510,2182,1802,314,2464,544
 Authorization Fee GSO	10407
 Authorization Holder	10407
 Authorization Management	13042
@@ -1172,6 +1172,7 @@ Implement Multi-Factor Authentication	6432
 Implementation of Electronic Travel Authorisation	5533
 Inc. Public Disclosure Authorized Public Disclosure	12533
 Income Tax GIZ Document Authentication and Registration	12500
+Independent Autonomous Authority AI Artificial Intelligence	13731
 Independent Broadcasting Authority	9082,4239,25,1
 Independent Broadcasting Authority Shall	13347
 Independent Broadcasting Authority The Authority	13346
@@ -1441,6 +1442,7 @@ Manufacturer Authorizations Form	13185
 Manufacturer's Authorization	13185
 Manufacturer's Authorization Form	13185
 Mapping Department National Land Authority GeoEmpower	12457
+Mar-2020 Authorize Negotiations	13742
 Marketing Authorization	10776
 Markets Authority	11501
 Markets Authority CMC Cabin-Crew Member Certificate	2775
@@ -1867,6 +1869,7 @@ REVENUE AUTHORITY STATEMENT OF PROFIT	13053
 RURAL ELECTRIFICATION AUTHORITY	13339
 Radiation Protection Authority	13403
 Radiation Protection Authority of Zimbabwe	13042
+Rapport CHD Comores.pdf Author	13729
 Rational for Strategic Planning The Authority's Strategic	12759
 Readers For Authors For Librarians WorldCat	12467
 Real Authority Comes Into Question	8380
@@ -1886,6 +1889,7 @@ Regulation Authority of Mail and Electronic Communications	3764
 Regulatory Authorities	21,3455,2200,7644
 Regulatory Authorities Independent	12675
 Regulatory Authority	718,254,242,3495,970,132,460,999,4944,81,79,224,721
+Regulatory Authority CIO Information and Orientation Centre	13731
 Regulatory Authority Quick Links Staff Mail	12322
 Regulatory Authority SIM Subscriber Identity Module	718
 Regulatory Authority TFS The Future Society	1204

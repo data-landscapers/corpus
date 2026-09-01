@@ -66,11 +66,12 @@ ActuNiger Dans	5959
 ActuNiger L’Autorité	3551
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
 ActuNon	9925
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410
 Actual Achieve	11134
 Actual Achieved	11924
 Actual Actual Prior	10793
 Actual Approval	7877
+Actual Closing	13722
 Actual Collection	12912,141
 Actual Collections of Taxes and Fees	13418
 Actual Comments	11131
@@ -82,7 +83,8 @@ Actual Current Year Sub-total	6422
 Actual DSR	11953
 Actual Date	11131
 Actual Date Concept Review	11924
-Actual Disbursed	11924
+Actual Disbursed	11924,1818
+Actual Disbursed US	13722
 Actual Domestic Taxes Net Revenue	12951
 Actual Estimate Estimate Estimate DESCRIPTION Actual	6422
 Actual Estimate Var	6422

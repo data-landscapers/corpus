@@ -22,6 +22,7 @@ ASPECTOS ORGANIZACIONAIS E METODOLÓGICOS	10757
 AU Institutions and Organs	1814
 AU Member States and Regional Organisation	961
 AU Organs	961,853
+AU Portant Organisation	13707
 AWS Cloud. Orange and AWS	1729
 AWS Local Zone Orange Middle East	1729
 Abbreviations WHO World Health Organization	766
@@ -119,6 +120,7 @@ BBOXX and Orange	11923
 BEAUREGARDE HOLDINGS LLP OROBICA HOLDINGS LLC	1829
 Bank of Eswatini Objective Orienting	11131
 Bank of Oromia	7798
+Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
 Baptista Eusébio Oreste Kauxique Maganlal Adelino	2989
 Basin Development Organisation PEESIC Plan for Higher	11552
 Beaugas Orain DJOYUM	3658,217,2400,145
@@ -202,6 +204,7 @@ COPTIC ORTHODOX CHURCH Data Processor INST-949733D557D	7167
 CRS Organization Structure	12151
 CSA. Organisations	9728
 CSI Donations Organisation	11134
+CSO Civil Society Organisation CSP Country	13731
 CSO Civil Society Organisation CSS Corporate	11261
 CSO Civil Society Organisations EMB Electoral	12201
 CSO Civil Society Organization CTAPSD Cape	13359
@@ -1692,7 +1695,7 @@ Organ Troika	10169
 Organ for Peace and Security	12962
 Organ&title	766,5
 Organe	5370,5466,40,2465,101
-Organes	3675,4641,2396,124,40,89
+Organes	3675,4641,2396,124,40,89,2753
 Organes du Système Statistique National	3045
 Organic	4361,1,3763,602,912,1136,483,11
 Organic Budget Law	11866
@@ -1710,7 +1713,7 @@ Organigrama da Unidade de Implementação	11390
 Organigramme	10975,2326,126,233
 Organisaon	9128
 Organisaonal	9129
-Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262,126,104,1,4,319,380,5,24,11,49,15,13,50,45,74,1,47,9,33,4
+Organisation	236,407,94,28,1,232,11,176,2,27,18,443,4,7,572,84,35,72,4,12,160,29,263,31,97,351,319,75,337,43,397,117,203,767,3,187,274,99,238,20,647,191,7,228,51,56,234,1,131,216,64,214,3,119,12,69,173,65,172,1,211,66,103,3,214,277,33,258,73,36,70,170,69,108,1,6,9,5,17,16,1,1,35,2,8,1,22,31,6,148,147,246,27,18,71,219,11,64,40,71,62,262,126,104,1,4,319,380,5,24,11,49,15,13,50,45,74,1,47,9,33,4,34,13
 Organisation Ashaari	9128
 Organisation Budget	8726,408,140
 Organisation Fonctionnetnent du Ministère des Finances	13334
@@ -1742,11 +1745,12 @@ Organisation WTO World Trade Organisation DEFINITIONS	12973
 Organisation and ICT CFT	899
 Organisation de Coopération	13290,345
 Organisation des Nations	6455,962,1160
-Organisation des Nations Unies	737,8154,1956,27,2503
+Organisation des Nations Unies	737,8154,1956,27,2503,351
 Organisation des Nations-Unies	11900
 Organisation des Pays	3045
 Organisation des Personnes Handicapées	10826
 Organisation du Corridor Abidjan-Lagos	3045
+Organisation du Monde Islamique	13728
 Organisation du Résultat	3396
 Organisation du Système Statistique	2625,10698,11
 Organisation for African Unity Convention Governing	5533,6453
@@ -1779,7 +1783,7 @@ Organisational Sustainability	12759
 Organisational Values	12642
 Organisationnel	9406
 Organisationnels	748
-Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60
+Organisations	34,361,603,245,443,253,1,153,1037,1128,1301,106,200,633,134,51,44,118,101,109,297,399,195,75,6,256,97,57,126,28,49,8,63,180,278,247,258,141,15,47,141,139,11,46,124,483,5,97,42,247,6,95,453,174,12,4,210,35,776,56,3,341,12,143,21,82,60,15
 Organisations FDI Foreign Direct Investment GDP	12376
 Organisations Internationale	13341
 Organisations Internationales	13442
@@ -1801,12 +1805,12 @@ Organises	5677
 Organising	11185,2496
 Organising Framework for Occupations OIHD	6832
 Organising the Work	4630,50,637,458
-Organisme	735,12,1054,5869,3206
+Organisme	735,12,1054,5869,3206,2839
 Organisme ANDF Entité	10876
 Organisme Entité	10876
 Organisme International	737
 Organisme Nombre de Comités Villages	10876
-Organismes	1801,2602,3267,651,570,515,1420,140,978
+Organismes	1801,2602,3267,651,570,515,1420,140,978,1766
 Organismes Internationaux	13468
 Organismes de Prévoyances Sociales	13390
 Organismo	11582
@@ -1849,6 +1853,7 @@ Organization Malawi Mercantile House Area	13166
 Organization Name	11129
 Organization PAH	12255
 Organization PAH. Maturity Assessment Planning Guide	12255
+Organization PANA National Adaptation Action Plan	13729
 Organization Performer Name	10244
 Organization Science	2093
 Organization Structure	6946
@@ -2003,7 +2008,7 @@ Original Birth Certificate	11282,1055
 Original Budget ZWL	13420
 Original Card	12410
 Original Clinic Card	11282
-Original Closing	6833
+Original Closing	6833,6889
 Original Closing Date	12980
 Original Design Manufacturer	12264
 Original Development Objective	4653,8071
@@ -2127,6 +2132,7 @@ Ortho Muyinga	13375
 Ortho-mosaic	12977
 Ortho-photo	13375
 Orthopedics2 Drugi2	10780
+Orthophotos	13733
 Ortiz-Echevarria	12188
 Ortofotomapas	11384,517
 Ortopedija	10780
@@ -2300,6 +2306,7 @@ Recomendação da Organização	2816
 Recommendation for Orange Corners	13358
 Recommendation for Orange Corners Innovation Fund	13358
 Record FBOs Faith-Based Organizations	12240
+Recovery ICAO International Civil Aviation Organization	13729
 Recurrent Budget for Organisation	12597,5
 Recurrent Budget for Organization	12580
 Recursos Ordinários	752,10031
@@ -2322,6 +2329,7 @@ Registration Ordinance	10979,1172
 Registration Organ Immigration and Citizenship Service	12226
 Reglamento Interno de ORTEL	9543
 Regulamento Orgânico	11376
+Regulatory Authority CIO Information and Orientation Centre	13731
 Related Data Found Country Organizations	11935
 Remedial Orders and Compliance Mechanisms	3861
 Remuneration Order	13037
@@ -2582,6 +2590,7 @@ UK’s Ordnance Survey	7711
 UN Agencies and International Organizations	1243
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 UNE PREMIERE SESSION CONSACREE AUX ORIENTATIONS	10273
+UNESCO org UPR46 COM E Main.pdf Universal Periodic Review	13739
 UNICEF and Civil Society Organisation	12977
 UN’s International Labour Organization	9786
 UR Organiser	10858
@@ -2634,6 +2643,7 @@ WCO Members. Bookshop Order WCO	13051
 WFuonrdld Intellectual Property Organization	11885
 WHO. World Health Organisation	12367
 WIFI WLL WAN WiMAX XDSL Organisation	13290
+WMO World Meteorological Organization NGO Non-Governmental	13729
 WMoonrledtaInrtyeFlleucntdual Property Organization	11884,321
 WORLD CUSTOMS ORGANIZATION	4827
 WTO World Trade Organization FOREWORD	12951
@@ -2652,6 +2662,7 @@ World AI Cooperation Organization	7962,666,262
 World Artificial Intelligence Cooperation Organisation	9938,601
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147,2547
 World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1,135
+World Bank Financing Original	13742
 World Bank Group. World Health Organization	12240
 World Bank and World Health Organization	1261
 World Bank. Through Oracle Innovate Lab	13233

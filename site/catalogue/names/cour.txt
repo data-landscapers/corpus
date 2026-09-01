@@ -121,7 +121,7 @@ Cour Constitutionnel	1682
 Cour Constitutionnelle	17
 Cour Pénale Spéciale. Elle	10826
 Cour Spéciale des Terres	13442
-Cour Suprême	1272,410,879,560,1259,2579,4022,2654
+Cour Suprême	1272,410,879,560,1259,2579,4022,2654,74,14
 Cour Suprême du Burundi	13442
 Cour de Cassation	1231,2165,7429
 Cour de Comptes	1284
@@ -607,6 +607,7 @@ Private Courier Outlets	6946
 Private Courier Traffic	6671,275
 Private Courier Traffic FY	6946
 Private Postal and Courier Operators National Courier	6946
+Professional Course for Foreign Diplomats	13744
 Programme Courses Staff Trained	6946
 ProponAI European Court of Auditors Refreshworks Fastweb	8530
 Provide Out of Court Compensation for Losses	12389
@@ -662,6 +663,7 @@ South Africa’s High Court. Idemia	2521
 South Africa’s Supreme Court of Appeal	11148
 South Kivu Court of Appeal	11868
 South Sudan. Courtesy	7933
+Special Course	13744
 Srenphonee Regional Courier	9781
 State High Court	11956
 Subordinate Courts	12668

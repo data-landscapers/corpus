@@ -386,7 +386,7 @@ DEFENDANT ATTORNEY GENERAL	13040
 DEPARTMENT GENERAL INFORMATION	11224
 DES COMPETENCES GENERALES DE LA COMMUNE	13292
 DES DISPOSITIONS GENERALES	13293
-DES DISPOSITIONS GENERALES Article	13293
+DES DISPOSITIONS GENERALES Article	13293,414
 DES DISPOSITIONS GENERALES C Article	13293
 DES DISPOSITIONS GENERALES CHAPITRE	785,12507
 DES DISPOSITIONS GENERALES Section	113,13180
@@ -398,6 +398,7 @@ DGCP Public Tenders General Directorate	11549
 DGE General Directorate for Environment	11905
 DGEB General Directorate of Basic Education	11905
 DGMP Procurement General Directorate	969
+DGSC General Directorate of Civil Security	13729
 DGSN Director General	4052
 DHA Director General	2692
 DID Generation Deduplication Deduplication	13005
@@ -416,7 +417,7 @@ DIRECTOR GENERAL'S FOREWORD Kenya	12256
 DIRECTORES GENERALES	4209
 DISPOSICIONES GENERALES	163
 DISPOSITIONS GENERALES	1801,9165,556
-DISPOSITIONS GENERALES Article	436,750,3217,6563,556,45,1957
+DISPOSITIONS GENERALES Article	436,750,3217,6563,556,45,1957,197
 DISPOSITIONS GENERALES Article1	1837
 DISPOSITIONS GENERALES CHAPITRE	10825
 DISPOSITIONS GENERALES Section	232
@@ -484,7 +485,7 @@ Dirección General. En	9927
 Direction Generale du Budget	11794
 Director Financial Stability Director General Counsel	6938
 Director Genera	11289
-Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55
+Director General	236,895,83,379,51,674,267,83,35,2,59,11,25,24,48,62,24,83,67,25,17,64,152,158,59,167,55,84,2,63,12,20,81,86,56,211,108,25,9,50,65,37,382,62,112,22,18,89,74,50,10,6,66,92,74,176,4,93,12,37,18,36,104,152,48,62,109,92,42,171,9,2,3,5,17,50,4,53,74,308,11,52,136,98,98,85,23,114,51,258,233,179,59,146,9,78,9,31,180,5,37,135,35,72,1,336,43,201,242,68,27,4,44,29,22,45,120,48,3,54,253,50,3,125,351,20,63,125,3,100,167,89,34,16,7,59,65,31,11,67,1,49,83,78,177,54,28,2,2,345,40,49,74,38,39,25,15,55,63,10
 Director General Adjunto	4209
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Director General Adjunto Ministerio	4209
@@ -547,6 +548,7 @@ Director General of ARTP	6869
 Director General of ASIN	3198,1,100
 Director General of Africa CDC	2678
 Director General of Angola's National Space Programme	6628
+Director General of Arabic World	13744
 Director General of Artificial Intelligence Systems. Framed	3496
 Director General of Cameroon Customs	8499
 Director General of Civil Identification	4984
@@ -900,7 +902,7 @@ Gene Roi de Bata	4209
 GeneXpert	3385,964,8153,176,939
 Genealogicalstudieslikewisematchhistoricalre-	8606
 Genebra	10551,199,30,596,17,1437
-General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6,90,8,118,2,1,3,3,1,7,5,8,1,31,16,2,8,52,16,25,7,22,82,17,42,2,36,1,18,6,3,1,5,1,29,2,6,7,20,31,4,35,6,23,70,12,9,1
+General	3,8,11,214,351,196,114,43,22,8,184,50,19,20,90,18,82,164,180,41,170,129,551,9,50,48,173,80,402,153,131,343,152,424,27,453,574,535,122,88,180,136,173,2,23,5,501,96,147,150,34,59,84,581,520,276,78,302,2,74,744,122,44,10,18,48,29,99,160,2,3,6,14,23,1,2,1,11,4,2,33,27,11,284,16,284,4,27,1,10,23,58,10,9,52,7,105,1,10,31,4,27,1,20,2,42,4,1,49,14,9,2,13,11,11,2,34,12,28,13,23,8,15,3,80,22,24,6,90,8,118,2,1,3,3,1,7,5,8,1,31,16,2,8,52,16,25,7,22,82,17,42,2,36,1,18,6,3,1,5,1,29,2,6,7,20,31,4,35,6,23,70,12,9,1,153,4
 General Abdirahman Mohamed Turyare	10701
 General Abdourahamane Tiani	5580,306
 General Adj. B1 Cónsul General Adj	4209
@@ -1011,6 +1013,7 @@ General Directorate of Epidemiology and Disease Control	10829
 General Directorate of Higher Education	11939
 General Directorate of Labor	11965
 General Directorate of Literacy and Non-Formal Education	11905
+General Directorate of Meteorology	13729
 General Directorate of National Land Domain	4596
 General Directorate of National Security	619,1449,720,2207,1317,140,741,102
 General Directorate of Pharmacy and Health Care Organization	10829
@@ -1483,6 +1486,7 @@ IDA General Conditions	11855
 IDP General Inspectorate	11905
 IGP Income Generating Project JA Junior	12970
 IGUALDAD DE GENERO	4209
+II. INFORMATIONS GENERALES SUR LE PROJET	13737
 II. STATISTIQUES DE L’ENSEIGNEMENT POST-FONDAMENTAL GENERAL	13478
 IMF Internally Generated Funds	789
 IMF's Enhanced General Data Dissemination System	3968,7586,419
@@ -1761,6 +1765,7 @@ OFFENCES AND PENALTIES OF GENERAL APPLICATION	11976
 OFFICE OF THE DIRECTOR GENERAL Board	6946
 OPPORTUNITIES AND CHALLENGES PILLAR VI GENERATION	12399
 Objetivo General	1701
+Observing Network GDM General Directorate of Meteorology	13729
 Office FY Financial Year GB General	2775
 Office for Europe Place des Nations CH-1211 Geneva	10764,80
 Office of Auditor General	718,252
@@ -2167,7 +2172,7 @@ Umuyobozi Mukuru. General	1214
 Under the General Agreement	10844
 United General Insurance Assistant Manager Colleta	7364,5852
 United Nations Framework General Convention	1988
-United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986
+United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319,858,986,762
 United Nations General Assembly and Nigeria	8552
 United Nations Office. At the Geneva Summit	9741
 University of Geneva	11149

@@ -68,6 +68,7 @@ Linda Vukani Gumede	1814
 Luanda BOAVENTURA JOÃO CASSECA VULOLA	10751
 L’ASSEMBLEE LEGISLATIVE DE TRANSITION Vu la Constitution	1801
 MENACES ET VULNERABILITES PESANT SUR	10906
+MONNAIE ELECrUONIQUE Vu	13712
 Malawi Vulnerability Assessment Committee	12964
 Malawi Vulnerability Assessment Committee NELP National	12964
 Malawi Vulnerability Assessment Committee Report	13122
@@ -160,7 +161,10 @@ VU La Loi	4420,147
 VU La Loi Constitutionnelle	4420,147
 VU La Loi de Finances	4420
 VU Le Décret	4420,147
+VU la Constitution	13715,4,4
 VU la Loi	4567
+VU la Loi N	13715
+VU le Décret N	13715,8
 VUCA World	7444
 VUKELIĆ PAVLINOVIĆ	6613
 VULA Virtual Unbundled Local Access WBG	1818
@@ -251,7 +255,7 @@ Vulnerable Population Groups	1412
 Vulnerable Populations Missed	12761
 Vulnerable Populations Orphans and Youth Lack	12328
 Vulnerables25 Ministry of Programme National Housing	10985
-Vulnérabilité	10874,2,1096
+Vulnérabilité	10874,2,1096,1743
 Vult Card	2749
 Vult Pay	2749
 Vult Pay Point	2749

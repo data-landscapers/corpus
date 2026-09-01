@@ -6,6 +6,7 @@ Africa Green Hydrogen Summit	2626
 Africa Hyperscalers	6056,92
 Africa Hyperscalers Company	11815
 Africa Hyperscalers and Vertiv	6056
+Africa and Madagascar CHD Country Hydromet Diagnostic	13729
 African National Meteorological and Hydrological Services	11283
 Africa’s First AI-Ready Hyperscale Data Centre	6376
 Afrika Hybridkapital	692,1
@@ -28,7 +29,8 @@ CM-CH.S10 Hygiene CM-CH.S11	10721
 CM-CH.S13 Hygiene	10721
 CM-CH.S2 Hygiene Tier	10721
 CM-CH.S3 Hygiene	10721
-COUNTRY HYDROMET	11553
+COUNTRY HYDROMET	11553,2176
+COUNTRY HYDROMET URL	13729
 Cahora Bassa Hydroelectric	12206
 Caisse de Stabilisation des Prix des Hydrocarbures	10087
 Camarade Hyacinthe TAMALGO	7800
@@ -47,7 +49,7 @@ Code des Hydrocarbures	3191
 Code des Hydrocarbures. Dans	3191
 Concentrated Solar Power Hydropower	11953
 Concession Attente Primature Hydraulique	10975
-Country Hydromet Diagnostics	11553
+Country Hydromet Diagnostics	11553,2176
 Country Hydromet Diagnostics Element	11553,1812
 Cyber CM-CH.S4 Hygiene	10721
 Cyber CM-CH.S8 Hygiene	10721
@@ -178,8 +180,9 @@ Hydrobox Kenya Ltd Generation	12256
 Hydrocarbon	12253
 Hydrocarbon Tax	11976
 Hydrocarbons	5452,6072,382
-Hydrocarbures	1682,660,5636,259,32,404
+Hydrocarbures	1682,660,5636,259,32,404,5064
 Hydrocarbures PASP SIPF GESTOCI SITARAIL PETROCI	2342
+Hydrocarbures. SONEDE	13743
 Hydrocarbures50 Le Budget	1594
 Hydroelectric Station	11953
 Hydrofluorocarbons	1264
@@ -213,6 +216,7 @@ Hygienist	1988
 Hyginus Okibe	6211
 Hygiène	1005,6833,140,1739,217,941,2450,153
 Hygiène Publique	3045,4119,641,3114,678
+Hygiène. DGEME	13743
 Hyndman	236
 Hyndman and Kostenko	236
 Hynes	12227
@@ -333,6 +337,7 @@ Muela Hydropower Station	6633
 NATIONALE DES BASSINS HYDROGRAPHIQUES	8321
 NCC of Hygiene CM-CH.S6	10721
 National Institute of Public Hygiene	10919
+National Meteorological and Hydrological Service QMS Quality	13729
 National Meteorological and Hydrological Services	11191,1751
 Natural Resources and Energy Hydrologist	12972
 Nkula B Hydro Power Station	13060
@@ -357,10 +362,12 @@ Ruacana Hydro Power Plant	12399
 Ruacana Hydropower	12399
 Ruacana Hydropower Station	12399
 Rukarara VI Hydropower Ltd. Rukarara VI	718
+SANITATION AND HYGIENE	13743
+SANITATION AND HYGIENE SERVICES	13743
 SMEs. Hypothesis Hypothesised	9129
 Saforo Expands Hybrid Work Through Zuludesk	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Samsung and SK Hynix	10201
-Sanitation and Hygiene	1988,8154,2266,556,159
+Sanitation and Hygiene	1988,8154,2266,556,159,620
 Sanitation and Hygiene WDI World Development Indicators	11560
 Sanitation and Hygiene WFP	12175
 Sanitation and Hygiene WFP World Food Programme	12970
@@ -386,6 +393,7 @@ Vox and Hypa	10735
 WASH Water Sanitation and Hygiene WBT Working	970
 Warak Hybride	10975
 Water Sanitation and Hygiene	970
+Water and Hydrocarbons	13734
 Wind PV Nuclear Hydro Hybrid Gas	11236
 Wovwe Hydro	13060
 Wovwe II Hydropower Project	13241

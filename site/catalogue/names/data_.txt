@@ -1247,7 +1247,7 @@ African Population and Health Research Center Data	7167
 African Regional Data Cube	345
 African Renaissance Trust Data Controller INST-57051983125	7167
 African Spatial Data Infrastructure	13645
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616,619,17,470,62,524
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -3820,6 +3820,7 @@ DATA SERVICES	6000
 DATA SHARING	3861,8189
 DATA SHARING AND VERIFICATION SERVICES	12047
 DATA SHEET	11924
+DATA SHEET Product Information Operation ID	13742
 DATA SOURCES AND DISCLAIMER Under the Mission	12717
 DATA SOVEREIGNTY AS CONSTITUTIONAL IMPERATIVE	3861
 DATA SOVEREiGNTY Data	961
@@ -7640,7 +7641,7 @@ National Data Science Training Hub	13426
 National Data Sharing Policy	2998,654,163,311,457,387,7449,5
 National Data Sharing for Government	12419
 National Data Steering Committee	12419
-National Data Strategy	1161,543,75,339,2465,267,5824
+National Data Strategy	1161,543,75,339,2465,267,5824,3073
 National Data Strategy. Contact	2118
 National Data Strategy. DIAL	2118
 National Data Transmission Backbone Infrastructure	1150,133

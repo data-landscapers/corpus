@@ -136,6 +136,7 @@ CRVS Civil Registration and Vital Statistics D4H	12413
 CRVS Civil Registration and Vital Statistics DCI	11133
 CRVS Civil Registration and Vital Statistics DHIS2	12729
 CRVS Costed Plan and Civil Registry Rules	4257
+CSO Civil Society Organisation CSP Country	13731
 CSO Civil Society Organisation CSS Corporate	11261
 CSO Civil Society Organisations EMB Electoral	12201
 CSO Civil Society Organization CTAPSD Cape	13359
@@ -258,7 +259,7 @@ Civil Preliminary Title and Book	12413
 Civil Procedural Code	12161
 Civil Procedure Rules	11
 Civil Processual Code	12201
-Civil Protection	10763
+Civil Protection	10763,2970
 Civil Protection Service	11553
 Civil Protection Services	11398
 Civil Protection System	10763
@@ -507,6 +508,7 @@ Colombia Civil Registry Information System	10714
 Comissão Nacional de Protecção Civil	10763,5
 Comité Nacional de Registo Civil	11537
 Commission CSO Civil Society Organization EU	11586
+Commission. SECTION II DES SANCTIONS CIVILES	13709
 Communications STAKEHOLDERS Civil	1161
 Complete Civil Registration	12151
 Conference of Arab Civil Status and Civil Registry	10521
@@ -543,6 +545,7 @@ DELEG.PROTECCION CIVIL WLE NZAS.- Concepto	4209
 DELEG.PROTECCION CIVILCENTRO SUR.- Concepto	4209
 DEPARTMENT CIVIL REGISTRATION	12947
 DG of Civil Identification	4984
+DGSC General Directorate of Civil Security	13729
 DIRECÇÃO NACIONAL DE IDENTIFICAÇÃO CIVIL SISTEMA	12784
 DLAPIPERDATAPROTECTION.COM Civil	12301
 DU CABINET CIVIL LE MINISTRE DES	13524
@@ -827,6 +830,7 @@ Nacional da Sociedade Civil	10750
 Namibia's Civil Registration and Identification Act	10147
 Nampula Civil Registry Office	12839
 Nation. Civil Registration Services Kenya	6274
+National Agency for Civil Aviation and Meteorology	13729
 National Agency for Civil Registration and Identity	2349
 National Citizen Identity Card for Civil Identification	10775
 National Civil Defence Service	6811
@@ -917,6 +921,7 @@ Private Sector and Civil Society	11940
 Private University of Angola. Civil	10776
 Processo Civil	11537
 Professional Integration and Civic Service	6730
+Program ANACM National Agency of Civil Aviation	13729
 Prohibition of Starvation of Civilians	8485
 Proposta de Lei da Identificação Civil	3606,2380
 Protection Civile	1967,1,11578
@@ -942,6 +947,7 @@ Raxio CIV1 Data Centre	10956
 Raxio CIV1 Data Centre Download CIV1	10956
 Raxio CIV1. Get	10956
 Recentering the Civic Internet	1071
+Recovery ICAO International Civil Aviation Organization	13729
 Reference Bureau CRVS Civil Registration and Vital	13005
 Reg. CIVIL	4209
 Reg. TRAFICO CIVIL PROTEC. PROTEC. CIVIL	4209

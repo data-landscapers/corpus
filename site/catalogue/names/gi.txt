@@ -280,7 +280,7 @@ GI-KACE	4126,358,1,6,6541
 GI-TOC	4127,207
 GI7TLJGcQMeTTLeTWPA	6423
 GIA's Eng. Ayoub Al-Shweikh	5027
-GIABA	6422,1030
+GIABA	6422,1030,6273
 GIABA Office	6422
 GIBEON Total Eligible	13025
 GIBS Global Executive Development Programme	4896
@@ -306,7 +306,7 @@ GIEPA	9020
 GIEPA Act	9020
 GIEPA. Land	9020
 GIEPHAB	2985
-GIEWS	11762
+GIEWS	11762,1988
 GIF Electronic Government Interoperability Framework FRAND	13308
 GIF and Digital Government Strategy	798
 GIF-GW	11555

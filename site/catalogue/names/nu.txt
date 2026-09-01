@@ -28,6 +28,7 @@ AL-NAS NURSING HOME LIMITED Data Controller	7167
 AL-SHIFAAT NURSING HOME LIMITED Data Controller	7167
 ALMATIN NURSING HOME LIMITED Data Controller	7167
 ALQANUN NURSING HOME LIMITED Data Controller	7167
+ANADEN Agence Nationale de Développement Numérique	13725
 ANALYSE CARE LA TRANSFORMATION NUMÉRIQUE DOIT	8637
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
 ARESA MEDICARE NURSING HOME LIMITED Data	7167
@@ -70,7 +71,8 @@ AfriNIC and Number Resources	11552
 African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 Afrique... Numérique	3658,2617,145
-Agence Nationale de Développement du Numérique	5370
+Agence National de Développement du Numérique	13717
+Agence Nationale de Développement du Numérique	5370,8348,1,3,6
 Agence Nationale des Infrastructures Numériques	2961,3818,23,3033
 Agence Numérique	1218
 Agence de Développement Numérique	4092
@@ -302,6 +304,7 @@ DAWIDA MATERNITY AND NURSING HOME Data	7167
 DAY TO DAY NURSING HOME LIMITED	7167
 DE DENÚNCIAS NA CONTRATAÇÃO PÚBLICA Num	12798
 DE FREQUÊNCIAS E NUMERAÇÃO	11430
+DE LA SECURITE DES INFRASTRUTURES NUMERIQUE	13719
 DE LA TRANSFORMATION NUMERIQUE DE L’ADMINISTRATION	10966
 DE LAS EMBAJADAS Y CONSULADOS Num	4209
 DE L’ECONOMIE NUMERIQUE ET DE L’INNOVATION	7977
@@ -678,6 +681,7 @@ Koeberg Nuclear	5808,161,155,59,875,21
 Koeberg Nuclear Power Station. Programme	11272
 Kommunikation GmbH Nubelco Software S.L Nubelco	8530
 L'AGENT DE TERRAIN INSCRIVEZ VOTRE NUMÉRO	13300
+L'Agence Nationale de Développement du Numérique	13719
 L'Agence Nationale des Infrastructures Numériques	3581
 L'ENTREPRENEURIAT NUMERIQUE Dans	2695
 L'INITIATIVE DU MINISTERE DE L'ECONOMIE NUMERIQUE	7470
@@ -863,6 +867,7 @@ NUMERICO.CD You Might Also Like Internet	9925
 NUMERICO.CD You Might Also Like RDC	10163
 NUMERIQUE	1286,1409,429
 NUMERIQUE AU BURUNDI	13555,12
+NUMERIQUE Article	13719
 NUMERISATION DU PROGRAMME D’APPUI AU SECTEUR	13635
 NUMEROS	998
 NUMEROS Numéros	998
@@ -1381,7 +1386,7 @@ Numerator	10964,453,554
 Numeração	11373,57,101
 Numeração IP	11430,1
 Numeric	168,6199,58,36,89,4579,51,1023,157,938
-Numerical	236,11639,111,241,1138
+Numerical	236,11639,111,241,1138,364
 Numerical Address Exceptions	11129
 Numerical Address Exceptions Temporary	11129
 Numerical Weather Prediction	11191,1537
@@ -1396,7 +1401,7 @@ Numerousstudiesreportapersistentgapbetweenthestrategicas-	8602
 Numida	2676,2296
 Numious Kiti	7990
 Numoro	7165
-Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19
+Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361,17,147,11,46,159,151,36,49,1354,1,22,14,6,24,3,13,20,68,5,19,50
 Numérique Augustin Kibassa Maliba	2602
 Numérique Burkina Faso Smartphone SNC BOBO	9993
 Numérique Date	10519
@@ -1794,11 +1799,12 @@ Standardized AI Number	7548
 State Nutrition Policy	12135
 Statutory Instrument Number	8549
 Statutory Instrument Numbers	13591
-Stratégie Comores Numérique	324,2636,5400
+Stratégie Comores Numérique	324,2636,5400,5391
 Stratégie Nationale Santé Numérique	7707
 Stratégie Nationale de Développement du Numérique	3376
-Stratégie Nationale de Santé Numérique	7707
+Stratégie Nationale de Santé Numérique	7707,6010
 Stratégie Sénégal Numérique	1218
+Stratégie de Développement du Numérique	13751
 Stratégie de Transformation Numérique	3604
 Street Address Street Number	11129
 Street Names and Property Numbering	11129

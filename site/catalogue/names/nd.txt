@@ -720,6 +720,7 @@ NDUWIMANA Faustin N	13390
 NDUWIMANA Landry Chef	13341
 NDUWIMANA Libère	13390
 NDVI ANOMALIES BY PROVINCE Data	10763
+NDVI Anomaly	13750
 NDVI Index	13624
 NDVI Normalised Difference Vegetation Index	12931
 NDVI-curve	11762
@@ -820,9 +821,11 @@ Ndhlovu Prof. Z.BMouarradndCahairman Prof. C. E	1154
 Ndiaga Dieng	7057
 Ndiaga Ndiaye	11745
 Ndiame Diop	2592,10867
+Ndiame Diop Country Director	13742
 Ndiame Diop Michel Rogy Fily Sissoko	4653
 Ndiame Diop Regional Practice Director	3562,2977
 Ndiame Diop. Regional Director	12220
+Ndiame Diop. Regional Practice Director	13743
 Ndiamé Diop Regional Practice Director	11417
 Ndiaye	2311
 Ndiedieng	4546
@@ -913,8 +916,8 @@ Ndzingeni and Sandleni Tinkhundla	12970
 Ndzinisa Trade Officer	13563
 Ndzomoe	11049
 Ndzouani	5996
-Ndzuani	4479,547,288,212
-Ndzuwani	3707
+Ndzuani	4479,547,288,212,8194
+Ndzuwani	3707,10020
 Ndzéla	11015
 Ndèye Seynabou Sy	8031
 Ndélé	6674

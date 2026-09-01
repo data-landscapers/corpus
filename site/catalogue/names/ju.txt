@@ -953,7 +953,7 @@ JuiCAP	8673
 Juice	4673,5372
 Juicetel	8652
 Juicyway	9754
-Juillet	998,2161,32,111,275,3377,5,98,160,57,71,79,146,1,52,17,172,46,71,70,68,161,29,13,907,1699,99,969,1357,113,38,237
+Juillet	998,2161,32,111,275,3377,5,98,160,57,71,79,146,1,52,17,172,46,71,70,68,161,29,13,907,1699,99,969,1357,113,38,237,28
 Juillet-août-septembre	8321
 Juin Juillet Aout Septembre Octobre Novembre	13452
 Juin-25	6737
@@ -981,7 +981,8 @@ Jul-2019	11375,20
 Jul-2019 Effectiveness	11395
 Jul-2019 Original Commitment Revised Commitment Actual	10779
 Jul-2019 Signing	11395
-Jul-2020	11469
+Jul-2020	11469,2273
+Jul-2020 Signing	13742
 Jul-2022	1228,5605
 Jul-2022 Environmental and Social Risk Classification	4653
 Jul-2022 Projected Date for Full Disbursement	4653
@@ -1167,7 +1168,7 @@ Jun-2013 Decision Review	11924
 Jun-2014 Moderately Satisfactory Moderately Satisfactory	11924
 Jun-2015 Satisfactory Satisfactory	11924
 Jun-2017	11469
-Jun-2018	11924
+Jun-2018	11924,1798
 Jun-2018 Portal Financial Management	11924
 Jun-2019	381
 Jun-2019. Listed	381
@@ -1182,7 +1183,7 @@ Jun-2023	6833,4037,599,496
 Jun-2023 Closing Date	10779
 Jun-2023 Effectiveness	10870
 Jun-2023 IBRD	10779
-Jun-2024	1744,968,1941,1926,254,4562,74,436,60,759
+Jun-2024	1744,968,1941,1926,254,4562,74,436,60,759,1018
 Jun-2024 Digital Development Financing	1704
 Jun-2024 Effectiveness	2712,3867
 Jun-2024 Signing Effectiveness Orig. Closing Rev	6579
@@ -1191,6 +1192,7 @@ Jun-2024. Component	1704
 Jun-2025	4653,2180,4037,1382,174
 Jun-2025 Bank	13332
 Jun-2025 Closing Period Result Month	4653
+Jun-2025 ICR	13742
 Jun-2025 Yes Apr	6928
 Jun-2026	5986,593,349,4541
 Jun-2026 Contract Signing	13548
@@ -1346,7 +1348,7 @@ Jus Technologies	8161
 Jusaine Liriano	10985
 Jusqu'au	6877,1766,4650
 Jusqu'ici	2697,4677
-Jusqu'à	3795,4011,1464
+Jusqu'à	3795,4011,1464,4440
 Jusque	13290
 Jusque-là	3465
 Jusqu’au	11944
@@ -1523,6 +1525,8 @@ Justice and Legal Affairs Committee	11115
 Justice and Society	12227
 Justice and Strong Institutions	3583,162,4541,4090
 Justice and Strong Institutions Goal	11332
+Justice des Comores	13721,9
+Justice des Comores URL	13708,40
 Justice du Burundi	13635
 Justice du Burundi-Composante Numérisation LIEU DE TRAVAIL	13635
 Justice for Children Trust Birth Registration	13310
@@ -1560,6 +1564,7 @@ Justificación Un	1701
 Justificatifs	5753,5123
 Justification	643,146,181,217,801,901,4070,3752,165,32,57,571,674,30,124,51,547,363,50
 Justification Contexte	3381
+Justification Le Portail Unique du Citoyen	13751
 Justification PDO	2889
 Justification The Digital Health Governance Framework	12240
 Justification and Rationale	12240
@@ -1820,7 +1825,7 @@ Ministro da Justiça	4147,1841,626,205,125,22,344,3440,1,1,1,721,1357
 Ministry Justice	12674
 Ministry of Education and Ministry of Justice	13310
 Ministry of Foreign Ministry of Territorial Security Justice	10812
-Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1
+Ministry of Justice	39,82,640,209,30,161,82,431,193,121,355,130,210,321,600,31,491,88,29,40,132,1,1,1,110,149,307,260,658,571,750,686,484,673,762,275,24,582,52,4,3,7,37,16,13,138,156,400,6,17,83,212,56,117,111,30,171,29,48,58,39,305,103,57,5,23,9,26,40,15,2,25,3,126,2,15,42,53,40,27,8,34,5,27,3,87,86,1,49
 Ministry of Justice Foreign Affairs	1777
 Ministry of Justice MOH	12338
 Ministry of Justice Ministries	1161

@@ -346,7 +346,7 @@ Cooperating Partners National	12453
 Cooperating Partners Shall	13347
 Cooperating Partners THEMATIC AREA	12453
 Cooperating and Development Partners	12453,892
-Cooperation	775,186,9,30,243,90,141,161,243,799,281,802,407,91,168,815,436,326,264,1777,1324,25,31,666,8,117,43,334,172,55,2,127,16,86,239,13,121,130,58,59,286,4,81,47,214,52,4,31,111,37,12,13,109,225,20,22,41,63,84,222,95,31,87,112
+Cooperation	775,186,9,30,243,90,141,161,243,799,281,802,407,91,168,815,436,326,264,1777,1324,25,31,666,8,117,43,334,172,55,2,127,16,86,239,13,121,130,58,59,286,4,81,47,214,52,4,31,111,37,12,13,109,225,20,22,41,63,84,222,95,31,87,112,71
 Cooperation Acronym Description	11218
 Cooperation Agency	9433
 Cooperation Agreement	1228,9613,447,237,1437
@@ -647,7 +647,7 @@ Coordonnatrice Projets Filets Sociaux M. André	10812
 Coordonne	10876
 Coordonner	4008,5,1,5392,1470,89,2325,11
 Coordonnée	10273
-Coordonnées	1187,797
+Coordonnées	1187,797,11764
 Coovi Hervé Guedegbe	5949
 Country Cooperation Strategy	10776,1953
 Country Cooperation Strategy CSO	10776
@@ -686,6 +686,7 @@ D.R. La Coordination	8695
 DCDT’s Interdepartmental Coordinating Committee	6832
 DDC District Development Coordinator DRP Disaster	13420
 DE LA COOPERATION INTERNATIONALE Inspecteur	8237
+DE LA COORDINATION Article	13707
 DELEGACIÓN DIRECTIVO ASUSTOS COORDINACION IGUALDAD INFANCIA	4209
 DELEGACIÓN DIRECTIVO COORDINAC. PLANIFICACIÓN CATASTRO	4209
 DELEGACIÓN TOTAL DIRECTIVO TRABAJO COOPERATIVAS	4209
@@ -1035,6 +1036,7 @@ Joint Science and Technology Cooperation Committee	11288
 Joseph Ribéro. Coordinator	1044
 KAZIHISE Pierre Claver COORDINATION TECHNIQUE Mme	13300
 KICTANet County Coordinator	7990
+KOAFEC Korea-Africa Economic Cooperation MFBSB Ministry	13731
 Kay-Lyne Wolfenden SMART Zambia National Coordinator	12474
 Kenya Cooperative Creameries Limited	12254
 Kenya Deepens EU Digital Cooperation	6725
@@ -1125,6 +1127,7 @@ Ministry of International Cooperation	9298
 Ministry of International Relations and Cooperation	9749
 Ministry of Plan and International Cooperation	2159
 Ministry of Small and Medium Enterprises and Cooperatives	13479
+MoU for Cooperation	13744
 Modern Energy Cooking Services	11572
 Monsieur le Coordonnateur	7977
 Morocco The Systemic Risk Coordi-	6938
@@ -1293,6 +1296,7 @@ Programme Coordinator	7709
 Programme of Cultural Cooperation	11183
 Project Administration A. Coordinator. The Client	13037
 Project Background Coordinates	1988
+Project Conceptual Note PCU Project Coordination	13731
 Project Coordination Unit	3604,2673,5248,887,980
 Project Coordination Unit. Specifically	11863
 Project Coordination and Capacity Building	12175
@@ -1536,6 +1540,7 @@ Togo-Luxembourg Indicative Cooperation Program	7379
 Trade and Cooperation Agreement	1243
 Trade and Investment Cooperation	11185
 Trade and Investment CooperationSub-Committee	11185
+Trade-Economic Cooperation	13744
 Travail Comité National de Coordination	3396
 Triangular Cooperation	12979
 Triangular Cooperation for Digitial Innovation Made	1423

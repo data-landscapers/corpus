@@ -399,6 +399,7 @@ Colombia Civil Registry Information System	10714
 Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1
 Commercial Registry Information System	11939
 Commission Information	12201
+Commission Nationale Informatique	13719
 Commission of Informatics and Liberties	3536
 Commissioned Zambia Integrated Land Management Information	1222
 Committee Harare International Conference Centre Information	1154
@@ -512,6 +513,7 @@ DA INFORMAÇÃO	12777
 DA INFORMAÇÃO CAPÍTULO I DISPOSIÇÕES GERAIS	11360
 DADOS Instituto Nacional de Tecnologias de Informação	2437
 DAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO	11396
+DATA SHEET Product Information Operation ID	13742
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829,2503
 DATASHEET BASIC INFORMATION Project	11560,345
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
@@ -748,6 +750,7 @@ East Africa Information Security Conference	10416
 Ecobank Head of Information Security Miriam	13627
 Ecological Informatics	8604
 Economics of Information	5700
+Economie Informelle	13746
 Ecossistema Informacional A Lei	11072
 Eduardo Mondlane Informatics Centre	12237
 Education ICT Information and Communication Technologies IDE	12975
@@ -1072,6 +1075,7 @@ Government of Mozambique's Laboratory Information System	4260
 Group Chief Information Officer	8583
 Growth of Information and Communication	6946
 Guangdong Cyber Data Security and Personal Information	6568
+Génie Informatique	13749
 Génie Informatique de Gestion	13364
 Génie Informatique. Au	13364
 H004L2706RFP00061 Information	7514
@@ -1216,6 +1220,7 @@ IEC Information	11924
 IEC Information Technology	12360
 IEEE Journal of Biomedical and Health Informatics	8606
 IFMIS Integrated Financial Management Information System	1284
+II. INFORMATIONS GENERALES SUR LE PROJET	13737
 III. PROPOSED CHANGES Operation Information Proposed	2473
 III. PROPOSED CHANGES Operation Information Summary	4653
 III.2.3 Informatisation	13306
@@ -1265,6 +1270,7 @@ INFORMATION CONNECTION DRAINS MY TO AGENT	11964
 INFORMATION CONTACT Page	3456
 INFORMATION CONTACT The World	10963
 INFORMATION CONTACT The World Bank	13111
+INFORMATION Constitutional and Legislative Framework	13739
 INFORMATION FOR BIDDERS	12693
 INFORMATION GATHERING Part A General	11181
 INFORMATION INTEGRITY	6907
@@ -1433,7 +1439,7 @@ Informatics and Technological Traces Directorate	10911
 Informatics&volume	2096
 Informatik	9237
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
-Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25
+Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8,36,10,5,13,16,3,2,5,2,8,2,5,4,4,18,3,1,9,1,16,3,1,1,1,5,1,1,1,1,4,10,4,15,4,4,21,5,1,2,18,10,1,11,11,22,45,34,1,9,12,27,1,2,3,12,2,20,10,5,17,9,10,2,70,8,68,22,78,12,24,27,9,29,12,64,159,2,9,9,7,4,1,10,1,9,13,6,4,4,8,1,3,12,9,2,9,10,61,7,74,4,6,13,8,1,25,3,13,1,3,27,8,6,7,49,18,5,2,10,1,13,5,3,1,1,15,13,11,3,10,6,26,22,20,13,12,20,10,6,1,13,86,3,23,1,18,15,12,39,109,38,1,10,1,1,3,6,2,11,1,6,8,3,3,9,1,1,4,10,18,25,7,5,9,2,18,31,21,1,4,4,53,65,17,9,4,10,5,6,5,4,2,2,5,2,1,1,4,4,1,1,8,5,6,7,16,1,3,6,10,19,2,2,24,19,18,5,22,28,21,35,38,10,11,6,3,15,7,25,12,1,1,3,7,8,11,1
 Information Access	6793
 Information Access Beyond	13649
 Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,801,191,82,318,559,317,832,1242,160,79,796,171,835,64,2,9,6,69,608,113,61,129,372,1,13,4,343,73,48,18,48,6,26,224,64,68,196
@@ -1458,6 +1464,7 @@ Information Booklet	12227
 Information CAP Community Access Point CRAN	12973
 Information COMESA Common Market for Eastern and Southern	13290
 Information Came of Age	2096
+Information Ce	13718
 Information Centre Latest News Press Releases	12515
 Information Centre SADC Southern African Development	11986
 Information Centre of E343	12977
@@ -1837,6 +1844,7 @@ Information and Communication Technology	34,202,159,187,572,7,100,3,758,121,445,
 Information and Communication Technology Act No	13347
 Information and Communication Technology Authority	2709,3569,722,2939,2437
 Information and Communication Technology Commission	7515
+Information and Communication Technology Country	13731
 Information and Communication Technology Department	2958
 Information and Communication Technology Development	12982
 Information and Communication Technology House	11184
@@ -1854,7 +1862,7 @@ Information and Communication Technology for Development	226,759
 Information and Communications	1669,4394,883,5351
 Information and Communications Act No	13403
 Information and Communications Technol-	13347
-Information and Communications Technologies	22,373,862,5414,5705,1023
+Information and Communications Technologies	22,373,862,5414,5705,1023,323
 Information and Communications Technologies Act	2913
 Information and Communications Technology	236,160,206,189,879,148,828,1,88,2509,84,317,1,1186,239,782,423,759,746,376,1041,18,639,2,596,76,23,122,363,276,32,159
 Information and Communications Technology Authority Order	2709
@@ -1878,6 +1886,7 @@ Information and Data Privacy	11216
 Information and Data Protection Appeals Tribunal	12549
 Information and Data Protection Commission	2265,1095,2003,2075,670,4124,316,1,37
 Information and Data Protection Commissioner	4987
+Information and Decision Support Center	13733
 Information and Documentation-Records Management-Part	13250
 Information and Elections	10729
 Information and Event Management	10721
@@ -1946,11 +1955,12 @@ InformationAge	12325
 InformationTechnology	12325
 InformationWeek	3279
 Informational	5113,6684,159,1311,194
+Informational Annex. A Debt Sustainability	13741
 Informational Autonomy	11956
 Informational Capabilities	10726
 Informational Self-Determination	11956
 Informationen	49
-Informations	747,1,439,797,1412,3563,709,2732,312,105,19,85,45,9,176,793,1446,37,233
+Informations	747,1,439,797,1412,3563,709,2732,312,105,19,85,45,9,176,793,1446,37,233,88
 Informations Commerciales	13427,233
 Informations Commerciales Portail	13427,233
 Informations Favorable	10821
@@ -1958,8 +1968,9 @@ Informations Objectifs	10858
 Informations de Régulation	10975
 Informations-	178,158
 Informationssystem	384
-Informatique	647,322,214,48,65,766,387,283,384,280,979,1481,1201,713,35,828,45,43,185,647,471,688,100,9,1,52,19,9,9,8,18,3,35,3,2312,11,40
+Informatique	647,322,214,48,65,766,387,283,384,280,979,1481,1201,713,35,828,45,43,185,647,471,688,100,9,1,52,19,9,9,8,18,3,35,3,2312,11,40,368,9
 Informatique COGERCO	13377
+Informatique Décisionnelle	13749
 Informatique Médi-	13306
 Informatique Médicale	766,7189,5351
 Informatique Médicale API Application Programming Interface	13306
@@ -2017,12 +2028,12 @@ Informelle	10875,2515
 Informelle Indifférents	13390
 Informellement Inclus	10965
 Informels Volume	10965
-Informer	1005,6915,2956,89,967
+Informer	1005,6915,2956,89,967,1787
 Informercials Newsletters Quarterly Sector Reports Gallery	12515
 Informes	1701
 Informes Específicos	1701
 Informes de Evaluación Global	1701
-Informing	1580,5368,600,3216,426,363,371,990,547
+Informing	1580,5368,600,3216,426,363,371,990,547,268
 Informou	3692,602,3291,3175,816
 Informática	2816,2237,4471,1878,70,1,88,337,121,2
 Informática de Gestão	11898,123
@@ -2689,6 +2700,7 @@ Only Informal	12460
 Open Archival Information System	9888
 Open Health Information Exchange	12141,440
 Operadores Informais	12018
+Operation Information Product Information	13734
 Operation the Information Regulator	10729
 Options for Informal Economic Integration	7588
 Organisation of African Unity IT Information Technology	11986
@@ -2945,6 +2957,7 @@ Registration Processes and Information Flows	12151,521
 Regulation GW Gigawatt ICT Information	10861
 Regulation ICT Information	10781,1646
 Regulator.org.za ISSUED BY THE INFORMATION REGULATOR	12046
+Regulatory Authority CIO Information and Orientation Centre	13731
 Related Information Act	11196
 Related Information Technology Issues and Initiatives	13037
 Reliable Information	802
@@ -3049,6 +3062,7 @@ STRANGERS HARMFUL INFORMATION DO NOT TRUST	11004
 STRATEGIC INFORMATION	12976
 SUPPLEMENTARY INFORMATION	5773
 SUPPLEMENTARY INFORMATION FOR CONSULTANTS Proposals	13031
+SYSTEMES INFORMATIQUES. Article	13719
 Saharan Africa. Stud Health Technol Inform	8376
 Salaam. Information	10075
 Salaam. The Ministry of Information	1803
@@ -3067,10 +3081,11 @@ Search User Information	13333
 Sec. Health Informatics Volume	12246
 Secretario de Estado de Información Prensa	1855
 Secretary for Information Communication and Digital Economy	12235
-Secteur Informel	10874,106
+Secteur Informel	10874,106,2766
 Secteur Informel ENEC	737
 Secteur Informel ENP	737
 Secteur Informel ERI-ESI	10874
+Secteur Informel Phase	13746
 Secteur Informel Planning	10985
 Sector Education and Training Management Information System	11303
 Sector Informal	4209

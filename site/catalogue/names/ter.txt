@@ -41,7 +41,7 @@ Agency Long Term	1161
 Airport Terminal Operations Ltd	10045
 Aménagement des Terrains	13442
 Aménagement des Territoires	3381
-Aménagement du Territoire	235,2989,5667,2073
+Aménagement du Territoire	235,2989,5667,2073,2759,2
 Analogue Terrestrial Television	236
 Angola's Digital Terrestrial Television	2217
 Another Term of Lost Wealth	11105
@@ -306,7 +306,7 @@ Fertility Rate TJ Tera Joules	2775
 Fight Against Terrorism	7452
 Filho Terapia de Reidratação Oral United Nations	10777
 Final Call Termination Amendment Regulations	11211
-Financement du Terrorisme	13330,138
+Financement du Terrorisme	13330,138,257
 Financement du Terrorisme MPME Micro	11944
 Financial Credit Terms Advanced	5247
 Financial Reporting Centre's Terrorist Financing	12297
@@ -780,6 +780,7 @@ TERMINADAS	11574
 TERMINATION OF MEMBERSHIP	585,8281
 TERMINEE GET	9480
 TERMINEZ L'INTERVIEW. Annexe	13300
+TERMINOLOGIE Article	13719
 TERMINOLOGY	2662
 TERMINÉE EN	13300
 TERMINÉE OBSERVATIONS DU CHEF D'ÉQUIPE OBSERVATIONS	13300

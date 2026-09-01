@@ -35,6 +35,7 @@ AUDITOR'S RESPONSIBILITY	10793
 AUTRE ADULTE RESPONSABLE AUTRE ADULTE RESPONSABLE	13300
 AUTRE ADULTE RESPONSABLE PARENT	13300
 AUTRE ET SIGNEZ. ADULTE RESPONSABLE ADULTE	13300
+AUX RESPONSABLES DE TRAITEMENT Article	13709
 Accelerate COVID-19 Education Response	953
 Accelerating Responsible AI Adoption	1204
 Accidents Road Traffic Accident Respiratory Infections	12151
@@ -202,7 +203,7 @@ Contingency Emergency Response	13331
 Contingency Emergency Response Comment	13392
 Contingency Emergency Response Component	2989,7779,195,1002
 Contingent Emergency Response	1284,3369,2275,4489,554,204,1156
-Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63
+Contingent Emergency Response Component	761,235,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453,143,295,50,60,255,612,499,1,63,339,9
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
@@ -769,6 +770,7 @@ RESPONSABILIDADE	10755
 RESPONSABILIDADE CIVIL ARTIGO	3519
 RESPONSABILIDADE CONTRA-ORDENACIONAL ARTIGO	3519
 RESPONSABILIDADE E TUTELA ARTIGO	11461
+RESPONSABILITÉ DES PRESTATAIRES TECHNIQUES DE SERVICES	13719
 RESPONSABILITÉ LIMITÉE	1005
 RESPONSABILITÉS DU CLIENT	12043
 RESPONSABLE ADULTE RESPONSABLE A REFUSÉ	13300
@@ -923,7 +925,7 @@ Responsabilité Sociétale des Entreprises	839
 Responsabilités	11522
 Responsabilização	10750,2091
 Responsabilização. República	10750
-Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257
+Responsable	163,273,751,44,645,108,808,174,140,6071,332,32,1284,17,34,2414,257,202
 Responsable Deporte Militar	4209
 Responsable Open Data	747
 Responsable Open Data X Chargé	1984
@@ -1113,7 +1115,7 @@ Responsible Party PIU PIU PIU INTIC	2989
 Responsible Party Take	1988
 Responsible Roles and Responsibilities	1988
 Responsible Scientific and Technological Innovation	2958
-Responsible Unit	10870,1095,1093
+Responsible Unit	10870,1095,1093,676
 Responsible Unit Timeline Indicators	12240
 Responsible Use of Social Media	10134
 Responsible and Ethical	12674

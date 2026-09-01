@@ -67,6 +67,7 @@ Administratio Publica	4432
 Administration Publique	1281,1554,125,1442,9185
 Administration Publique Comorienne	5370
 Administration Publique Sous le Haut Patronage du Président	2960
+Administration Publique. SECTION TI	13719
 Administration du Trésor Public	10981
 Administrations Publiques	10975
 Administrative and Public Administration Data	3861
@@ -128,6 +129,7 @@ Approval of Public Data Protection Regulation	4575
 Arch Public Heal	8376
 Archives Publiques	4402
 Armenia Public Sector Modernization Project II	13331
+Arrêtés Publié	13714
 Artificial Intelligence Commissioner. The Public Service	11247
 Assainissement de Djibouti PFR Public Finance Review	11271
 Assembleia Nacional Publicação	14,535
@@ -744,7 +746,7 @@ Eswatini Institute of Management and Public Administration	12970,2
 Eswatini Public Procurement Act No	4672
 Eswatini Public Procurement Regulatory Agency	11134,1288,616
 Etablissement Public	7993,3604,1704
-Etablissement Public Administratif	10975,1268
+Etablissement Public Administratif	10975,1268,1480
 Etablissements Publics	13329
 Etablissements Publics Nationaux	2808
 Ethiopia Public Financial Management Project World	156
@@ -1908,7 +1910,7 @@ Public Accounts SLA Senior Legal Advisor	11198
 Public Accounts Standards Board	10313
 Public Accounts and Audit	9338
 Public Accounts. Help	7096
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69,145,1,9,178,11,1,135,468,766
 Public Administration Business	10837,1315,188
 Public Administration Efficiency Reform Program	6824
 Public Administration Ethics	11182
@@ -2805,7 +2807,7 @@ Publication of Statistics The BOZ	12364
 Publication of Tender Notice and Submission Deadline	12389
 Publication of UNIT	6891
 PublicationWebflyer.aspx	226,10593
-Publications	475,314,172,48,234,5,655,774,321,162,238,115,614,27,2299,485,59,766,808,666,279,223,491,491,108,177,1,126,7,56,17,336,11,13,474,91,238,31,361,158,33,459,206
+Publications	475,314,172,48,234,5,655,774,321,162,238,115,614,27,2299,485,59,766,808,666,279,223,491,491,108,177,1,126,7,56,17,336,11,13,474,91,238,31,361,158,33,459,206,92,33
 Publications Corporation NFC Namibia Film Commission	12973
 Publications Division World Bank Andrew Dabalen	11149
 Publications International Customs Day	13051
@@ -2886,7 +2888,7 @@ Publish the Annual	6832
 Publish the Dolinveste	9399
 Publish the Electricity Distribution Industry	11236
 Publish. The Prime Minister	3861
-Published	236,73,87,22,9,352,227,27,155,3,59,129,214,4,144,222,156,47,272,65,15,19,137,35,17,1,48,385,52,252,215,163,10,7,28,261,98,194,94,11,419,72,50,342,95,24,140,4,91,71,109,44,102,47,55,17,34,17,106,39,17,5,95,397,9,331,54,28,7,38,20,27,97,107,50,26,28,10,20,1,20,51,51,19,1,1,33,55,1,30,17,56,5,153,47,12,6,28,50,10,53,116,148,133,162,54,26,1,5,98,5,19,18,75,15,65,201,23,86,66,87,1,46,218,145,21,36,33,362,10,20,51,2,1,81,13,36,36,13,117,1,87,1,3,1,7,5,5,7,2,11,2,1,2,4,1,2,7,1,3,1,3,6,167,9,6,6,49,29,15,7,11,106,156,10,2,16,1,1,1,26,12,37,26,71,29,48,13,1,11,15,2,15,3,1,28,4,6,1,4,4,29,2,53,4,2,1,3,1,9,2,1,1,2,2,10,46,18,10,3,43,20,2,6,59,3,26,20,15,6,2,1,3,2,4,4,5,1,55,171,5,2,5,3,1,1,44,4,45,148,136,24,2,2,1,1,11,96,27,7,13,43,50,2,48,1,3,28,9,40
+Published	236,73,87,22,9,352,227,27,155,3,59,129,214,4,144,222,156,47,272,65,15,19,137,35,17,1,48,385,52,252,215,163,10,7,28,261,98,194,94,11,419,72,50,342,95,24,140,4,91,71,109,44,102,47,55,17,34,17,106,39,17,5,95,397,9,331,54,28,7,38,20,27,97,107,50,26,28,10,20,1,20,51,51,19,1,1,33,55,1,30,17,56,5,153,47,12,6,28,50,10,53,116,148,133,162,54,26,1,5,98,5,19,18,75,15,65,201,23,86,66,87,1,46,218,145,21,36,33,362,10,20,51,2,1,81,13,36,36,13,117,1,87,1,3,1,7,5,5,7,2,11,2,1,2,4,1,2,7,1,3,1,3,6,167,9,6,6,49,29,15,7,11,106,156,10,2,16,1,1,1,26,12,37,26,71,29,48,13,1,11,15,2,15,3,1,28,4,6,1,4,4,29,2,53,4,2,1,3,1,9,2,1,1,2,2,10,46,18,10,3,43,20,2,6,59,3,26,20,15,6,2,1,3,2,4,4,5,1,55,171,5,2,5,3,1,1,44,4,45,148,136,24,2,2,1,1,11,96,27,7,13,43,50,2,48,1,3,28,9,40,16,13
 Published Aug	9988,314
 Published Data Landscapers	6470,95
 Published Date	12360
@@ -2916,7 +2918,7 @@ Publishing Classified Military Information Aids Terrorists	4738
 Publishing More Data	8013
 Publishing and Versioning	6423
 PublishingImages	259
-Publié	1300,138,517,59,594,150,5,220,407,54,318,30,315,17,149,192,406,11,209,130,59,211,216,44,79,594,221,365,309,14,20,505,98,142,404,118,13,40,5,24,19,127,233,418,346,77,12,151,97,207,130,323,60,19,6,11,86,475,500,1338,209,92,55
+Publié	1300,138,517,59,594,150,5,220,407,54,318,30,315,17,149,192,406,11,209,130,59,211,216,44,79,594,221,365,309,14,20,505,98,142,404,118,13,40,5,24,19,127,233,418,346,77,12,151,97,207,130,323,60,19,6,11,86,475,500,1338,209,92,55,52
 Publiée	11593
 Purchase Agreements PPP Public Private Partnership	12399
 Purpose Public	11248
@@ -3267,6 +3269,7 @@ Trend Increasing Deterioration Public Administration	12341
 Trust and Public Policy	2096
 Trésor Public	548,2895,4458,2810,1,254,15
 Trésor Public de Côte	10922
+Trésor Public. CHAPITRE	13707
 Trésors Publics	4459,6252,13
 Trésors Publics des Etats	10237
 Tseiblaagte Transnamib Station Public Library Hall	13046
@@ -3294,6 +3297,7 @@ Understanding Digital Public Infrastructure	12366
 Une Infrastructure Publique Numérique	13530
 Unified Interactive Public Services Portal. Bhutan	13661
 Unit PKI Public Key Infrastructure PND	13331
+Unit PPPs Public-Private Partnerships PTFs Technical	13731
 United Nations Publications	13042,340
 United Nations-backed Digital Public Goods Alliance	11922
 Universal Access Fund and Public Operators	718

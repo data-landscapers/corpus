@@ -1100,7 +1100,7 @@ Higher Institute of Business Management	13312,2
 Higher Institute of Management	13312,2
 Higher Institutions	11956
 Higher Learning Institutions. Affordability	12333
-Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1
+Higher Level Objectives	969,295,603,1737,2935,4229,61,135,416,37,143,1771,1,411
 Higher Level Objectives Policy Context and Strategic	969
 Higher Life Foundation	42
 Higher Loans Board	12149
@@ -1140,7 +1140,7 @@ Highlighting Rising Threats	3214
 Highlighting UNFPA	7702
 Highlighting the Agency	9576
 Highlighting the EU	11985
-Highlights	236,968,663,57,851,276,998,4378,2349,17,341,162,768,74,37,181,269,271,55,91
+Highlights	236,968,663,57,851,276,998,4378,2349,17,341,162,768,74,37,181,269,271,55,91,705
 Highlights Digital Innovation	3669
 Highlights E48.87 Million Revenue	12969
 Highlights MTN	10793
@@ -1301,7 +1301,7 @@ Histoire Géographie Sciences Grammaire Autre Nb	10847
 Histoires	10278
 Historia	3179
 Historic	3456,7390,1387,267
-Historic Drought Frequency	11762
+Historic Drought Frequency	11762,1988
 Historic Flood	1828
 Historic Flood. Figure	1828
 Historic Reform The Higher Education Authority	13556
@@ -1324,7 +1324,7 @@ Historical Revenue Performance	12951
 Historical Safety Nets Coverage	10964
 Historical Sites	2775
 Historical Technology Dependency	7921
-Historically	1017,712,230,29,281,916,133,809,320,677,128,299,70,532,185,597,68,786,233,383,573,259,356,408,338,91,338,73,20,279,14,755,7,11,67,12,360,303,641,151,163
+Historically	1017,712,230,29,281,916,133,809,320,677,128,299,70,532,185,597,68,786,233,383,573,259,356,408,338,91,338,73,20,279,14,755,7,11,67,12,360,303,641,151,163,87
 Historically Advantaged Institutions	6832
 Historically Advantaged Institutions HDI	6832
 Historically Disadvantaged Group	6891,3698
@@ -1971,6 +1971,7 @@ Tanzania. Hii	3062
 Tax Submission History Select	12497
 Tech Hive Advisory	4583,2826
 Tech Hive Advisory Africa's Ridwan Oloyede	2998
+Technical Groups HSBB High-Speed Broadband ICT	13731
 Technological Higher Education Network South Africa	10082
 Technologies and Higher Education	12786
 Technologies. The High Level Ministerial Round	12918

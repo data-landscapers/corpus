@@ -336,7 +336,7 @@ Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviation Expansion PPP Public Private Partnerships	12917
 Abbreviation Full	11261
 Abbreviation Full Wording CCS Collective Sudan	6947
-Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431
+Abbreviations	582,618,614,10,406,3550,646,4288,49,49,107,212,3,124,28,1248,6,362,49,431,340
 Abbreviations AACB AFI AI AML AML	11134
 Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abbreviations ACF ASYCUDA Cloud Framework AEO	13042
@@ -435,6 +435,7 @@ Abderrahim Laabaid	8891
 Abderrahmane Kandila	8891
 Abderrahmane Ould El Hassen	10172
 Abderrahmane Zahi	8891
+Abderrazak LEMKHENTER	13729
 Abdi AM	11596
 Abdi Abdillahi Obsieh	7714
 Abdi IM	11596
@@ -832,7 +833,7 @@ Aboudou. Ce	7113
 Aboudou. Cet	7113
 Aboukar Nacanabo	1298
 Abouobaia	13461
-About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69,189,5,8,25,12,4,41,20,1,2,45,17,9,1,16,36,3,5,2,5,4,13,19,30,40,62,76,2,11,5,2,96,112,1,1,92,2,1,11,3,119,217,13,16,318,20
+About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45,47,25,69,189,5,8,25,12,4,41,20,1,2,45,17,9,1,16,36,3,5,2,5,4,13,19,30,40,62,76,2,11,5,2,96,112,1,1,92,2,1,11,3,119,217,13,16,318,20,37
 About AFC AFC	5913,5744
 About AFC Capital Partners AFC Capital	11657
 About Afreximbank Academy	11809
@@ -1190,7 +1191,7 @@ Abstention	12201
 Abstentions	6613
 Abster-se	10755,675,98
 Abstinence	13300
-Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43
+Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28,443,15,3,66,265,98,73,98,3,32,11,13,70,286,53,43,1019
 Abstract AI	7451
 Abstract Access	8436,4276
 Abstract Acessibility	12227
@@ -1447,6 +1448,7 @@ Aleph Alpha AbthreeC GmbH Alyntoris	8530
 Alessandro Abate	8691
 Alger Mohamed Abdenour Rabehi. Infrastructure	7052
 Algerian President Abdelmadjid Tebboune	2542,2338,2247
+Ali Abdou	13744
 Ali Omar Abdalla Information and Public Relations	2800
 Aliyu Aboki	7323
 Aliyu Yusuf Aboki	5790
@@ -1886,6 +1888,7 @@ HE. Abdulswamad Shariff Nassir	11504
 HL7v3 Abstract Data Type Specification	1009
 HOME REPORTS ABOUT CONTACT NEWSLETTER Digital	12441
 Habitação SABER Abordagem de Sistemas	11557
+Hadjira Abdoulkarim	13720
 Hajji Abdul Nsubuga	2675
 Halkano Abdi Wario	12227
 Hamdi Ould Abdallah	10402
@@ -2251,6 +2254,7 @@ Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Moussa Abderemane	6560,3362
 Moustadroine Abdou	4386
 Moustadroine Abdou. Corroborated	4386
+Mr. ABDOU MONDOHA ABDILAH	13729
 Mr. Abdelmadjid Tebboune	5270
 Mr. Abdelmoneam Khaled	6938
 Mr. Abdul Basit Al-Baour	1229,1608
@@ -2330,6 +2334,7 @@ Nota de Boas Práticas Como Abordar	11413
 Nour Abdeldaim	9776
 Nouzha Alaoui Mohamed Abdessadek Essaidi Najat	8891
 ONLY About	418
+OUSSOUFA Abdou El Madjid	13728
 Occasionally About	12501
 Oferta de Rede Aberta	11430
 Officer Magdi M. Abdalla Taha	4898
@@ -2704,6 +2709,7 @@ Time Additional Notes Schedule Demo About	12211
 Togo Abidjan Subject	3604
 Toufik Abdul-Rahman	6948
 Trade and Investment Abu Dhabi	12026
+Translated Document ABBREVIATIONS AND ACRONYMS AAI	13731
 Transporte ABR-JUN	4209
 Tripathi AB	3791
 Tripoli-based PM Abdel Hamid Aldabaiba	1868

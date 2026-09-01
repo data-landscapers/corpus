@@ -4,6 +4,7 @@ A- Data Centre and Number	7548
 A- Updated Data Centre Percentage	7548
 A- Updated Data Centre and Hosting B2-	7548
 A.N.G.C NDUMBERI CHILD DEVELOPMENT CENTRE Data	7167
+A9lectronique.pdf BANaUE CENTRALE des COMORES RkGLEMEN	13712
 AB-1 Abia Central	11857
 ABORDAGEM CENTRADA	11413
 ABOUT ECCAS The Economic Community of Central	11960,1428
@@ -338,6 +339,7 @@ BATU MEDICAL CENTRE LIMITED Data Controller	7167
 BAXNAN MEDICAL CENTRE Data Controller INST-66423349F87	7167
 BCB Brazil’s Banco Central	11994
 BCBS Central Bank Digital Currency MMO	12444
+BCC Banque Centrale des Comores	13742
 BCC Banque Centrale du Congo CDD	11960
 BCEAO Banque Centrale des Etats	11944
 BEACON CHILDREN'S CENTRE LTD Data Controller	7167
@@ -405,14 +407,16 @@ Bank of Uganda. The Central Bank	3238
 Bank of Zambia BoZ The Central Bank	12364
 Banking Supervision Application Central Bank of Lesotho	12701
 Banque Africaine de Développement BCEAO Banque Centrale	10876
-Banque Centrale	2623,142,476,120,29,376,693,1281,305,101,237,559,341,637,396,703,887,331,474,13,112,38,14,34,20,23,16,541,277,145,130,1316,62,16
+Banque Centrale	2623,142,476,120,29,376,693,1281,305,101,237,559,341,637,396,703,887,331,474,13,112,38,14,34,20,23,16,541,277,145,130,1316,62,16,244
 Banque Centrale Populaire	1244,5639,3835
 Banque Centrale Sans	10836
 Banque Centrale de Djibouti	3024,1543
 Banque Centrale de Djibouti. Dirigée	3024
 Banque Centrale de Mauritanie	9656
 Banque Centrale de Tunisie	11614,179
-Banque Centrale des Comores	1854,606,3585,14,87
+Banque Centrale des Comores	1854,606,3585,14,87,7566
+Banque Centrale des Comores DEVELOPMENT OBJECTIVE Original	13742
+Banque Centrale des Comores Fixe	13712
 Banque Centrale des Etats	3604,7107,811,45,377
 Banque Centrale du Congo	5836,207,3254,2651,12,13,279
 Banque Centrale. Article	10836
@@ -885,7 +889,7 @@ Central African Rep	13370
 Central African Rep. D	11867
 Central African Rep. Yes Politique	11529
 Central African Repubic	10841
-Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9,178,11,1,135,826,74,293
+Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9,178,11,1,135,826,74,293,32
 Central African Republic CAF Implementing	13082
 Central African Republic CAR Health Service	10829
 Central African Republic CBO Community-Based Organization	10829
@@ -979,7 +983,7 @@ Central Assessment Unit	10550
 Central Authentication Server Common ICT Processes	9123
 Central Authority	783,8405
 Central Authority. Acts	783
-Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153
+Central Bank	940,42,38,264,601,138,989,168,312,112,11,64,216,6,76,353,71,124,86,69,70,98,186,90,1,26,1,254,69,212,13,87,1047,104,128,90,379,1,12,69,89,117,107,4,90,58,87,471,60,787,155,112,21,232,15,402,268,161,8,40,105,99,25,1,3,335,241,151,39,5,50,5,15,19,6,231,55,90,14,94,44,9,116,128,136,5,16,18,6,92,69,189,2,43,31,144,153,56
 Central Bank Act	12653
 Central Bank Affirms Mobile Money	3308
 Central Bank Bill	11131,3
@@ -1431,7 +1435,7 @@ Centre Medium Term	1161
 Centre NPR National Population Register NSDF	5533
 Centre National	737,579,724,595,61,37,663,185,736,8973,152
 Centre National Information Development	2918
-Centre National de Documentation	11109
+Centre National de Documentation	11109,2637
 Centre National de Matériels Scientifiques	10925
 Centre National de Réadaptation Socio-Professionnelle	13442
 Centre National de Réadaptation Socioprofessionnelle	13442
@@ -1439,6 +1443,7 @@ Centre National de Réinsertion Socio	13442
 Centre National de Réponse	2695
 Centre National de Santé Digitale	7707
 Centre National de Sécurité Routière	10821
+Centre National de Traitement des Données Electorales	13721
 Centre National des Données Numériques	2266
 Centre Nationale	13377,65
 Centre Nationale de Référence	13442
@@ -1889,6 +1894,7 @@ Community Multimedia Centres	12843
 Community of Central African States EFT	13388
 Community-Based Childcare Centres COVID-19	12175
 Comoros Central Bank	5151,1
+Comoros ECMWF European Centre for Medium-Range Weather	13729
 Competency Based Curriculum CBK Central Bank	2775
 Computer Attack Response and Alert Centre	301
 Computer Attack Warning and Response Centre	301
@@ -2133,6 +2139,7 @@ Digital Transformation Centres. Supports	689
 Digital and Community Information Centres	11791
 Directeur Central de Supervision des Régies Financières	10712
 Directeur Général du Centre National	2451
+Directeur du Centre de Prospective	13728
 Director General for Digital Centre Design	3654
 Disabilities CSO Central Statistical Office CSTL	12975
 Disability Nerve Centre of Excellence	9767
@@ -3200,6 +3207,7 @@ Planning Commission ZRCP Zanzibar Research Centre	11133
 Plataforma de Interoperabilidade Central. O Plano Nacional	11371
 Plateau Central	737,6090,4020,17
 Plateau- Central	737
+Plénum du XXe Comité Central du Parti	13736
 Police Central Station North Central	11857
 Police Forum CSC Community Service Centre	11188
 Policy Centre	13357
@@ -3341,6 +3349,7 @@ Registration Centres	9399
 Registrations and Intellectual Property Centre	13177
 Região Centro-Norte	11406
 Região Centro-Oeste	11406
+Regulatory Authority CIO Information and Orientation Centre	13731
 Rehabilitación Centro Preescolar Edmundo Tale Ehopi	4209
 Rehabilitación de Centro Integrado de Oyala	4209
 Rehabilitation Centre	13046

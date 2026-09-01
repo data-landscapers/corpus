@@ -219,7 +219,7 @@ Centenary Sacco Society Limited Data Controller	7167
 Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169,277,918,136,27,5,28,2,61,378,206,109
 Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
@@ -540,6 +540,7 @@ Incubation Center	2807,4,9052
 Incubation Center Building Project	1787,1417,3881
 Information Sharing and Analysis Center	6928
 Information System Emergency Operations Center Electronic	4153
+Information and Decision Support Center	13733
 Infrastructure Monitoring Center	4682
 Infrastructure and Data Center Development	12035
 Innovation Center Establishment	12917

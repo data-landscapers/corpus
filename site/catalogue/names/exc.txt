@@ -537,7 +537,7 @@ Exchange Points FMCT	11857
 Exchange Programs	12356
 Exchange Rate	3583,2825,6652
 Exchange Rate Developments Following	12962
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11,345,19,41,211,1155,1,402,8,1
 Exchange Rate Policy	13060
 Exchange Rates	4896,8066
 Exchange Rates.pdf	1944
@@ -762,7 +762,7 @@ Interconnect Exchange	3862
 International Information Exchange Ethiopia	12500
 International Telecommunications Union IXP Internet Exchange	13346
 Internet Exchange	6238,6727
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point KYC Know	13312,2
