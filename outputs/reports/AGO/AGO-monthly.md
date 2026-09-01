@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: AGO
 ledger_rows: 33
 not_held: 7
-record: 5cbc88997ed7
+record: d4f7899ed479
 ---
 
 # Angola: monthly update, August – September 2026
@@ -15,7 +15,7 @@ record: 5cbc88997ed7
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's law-making outran its infrastructure. The National Assembly [adopted the cybersecurity bill on 12 August by 104 votes to 56](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersÃ©curitÃ©-adoptÃ©e-par-le-parlement-fait-craindre-un-tour-de-vis-sÃ©curitaire), not yet promulgated and objected to over its data-access provisions a year before the presidential election, while [a law punishing the spread of false information online came into force on 4 August](https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html) carrying up to ten years' imprisonment, [which journalists' bodies warn will inhibit citizen journalism](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html).
+The month's law-making outran its infrastructure. The National Assembly [adopted the cybersecurity bill on 12 August by 104 votes to 56](https://www.rfi.fr/fr/afrique/20260817-angola-la-loi-sur-la-cybersécurité-adoptée-par-le-parlement-fait-craindre-un-tour-de-vis-sécuritaire), not yet promulgated and objected to over its data-access provisions a year before the presidential election, while [a law punishing the spread of false information online came into force on 4 August](https://www.novojornal.co.ao/politica/detalhe/publicada-em-diario-da-republica-a-lei-que-pune-a-disseminacao-de-informacoes-falsas-na-internet-com-ate-10-anos-de-prisao-73765.html) carrying up to ten years' imprisonment, [which journalists' bodies warn will inhibit citizen journalism](https://www.novojornal.co.ao/politica/detalhe/jornalistas-advertem-que-lei-vai-inibir-jornalismo-de-cidadania-erro-jornalistico-dependera-da-interpretacao-dos-tribunais-e-do-lesado-74134.html).
 
 The incumbent operator closed out July's cyberattack: [core services were declared fully restored nationwide on 21 August](https://techafricanews.com/2026/08/21/unitel-restores-core-mobile-services-nationwide-after-july-cyberattack/) and [customers compensated automatically](https://angop.ao/noticias/economia/unitel-compensa-clientes-pelo-ataque-cibernetico/), against a base that still holds no critical-infrastructure designation instrument. Money went to identity: the President [authorised US$28m and opened tender for a national digital identity and electronic-signature platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/), and [US$2.5m by direct award to digitise the finance ministry](https://valoreconomico.co.ao/artigo/pr-autoriza-2-5-milhoes-de-dolares-para-digitalizar-ministerio-das-financas). The electoral register was the contested ground, with opposition parties [demanding an independent audit of the database](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html).
 <!-- /narrative -->

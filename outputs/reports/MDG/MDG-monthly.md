@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MDG
 ledger_rows: 17
 not_held: 8
-record: 97b7cf776ac8
+record: 22ef3ca1ebfd
 ---
 
 # Madagascar: monthly update, August – September 2026

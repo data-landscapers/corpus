@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: COD
 ledger_rows: 41
 not_held: 13
-record: 525fb6205972
+record: 94b9785d5cc2
 ---
 
 # DR Congo: monthly update, August – September 2026
@@ -15,9 +15,9 @@ record: 525fb6205972
 ## Summary of the month
 
 <!-- narrative: summary -->
-An [interministerial order pricing digital-sector duties, taxes and fees took effect on signature on 20 July 2026](https://actu7.cd/2026/07/31/rdc-le-gouvernement-fixe-les-nouveaux-droits-taxes-et-redevances-applicables-au-secteur-du-numerique/) and was [suspended by government communiqué on 3 August](https://acp.cd/business/rdc-le-secteur-du-numerique-encore-confronte-a-des-nombreuses-contraintes-un-specialiste/).
+Two strategies were validated and not adopted, and a third was adopted without being seen. The sectoral digital economy policy 2026-2030 and the national artificial-intelligence strategy [were presented and validated by government at a Kinshasa ceremony on 4 August](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/), both awaiting adoption; a [national connectivity strategy for 2026-2035 was unveiled on 13 August](https://developingtelecoms.com/telecom-business/telecom-regulation/20678-drc-unveils-10-year-strategy-to-close-connectivity-gaps-through-shared-infrastructure.html); and the Council of Ministers [adopted a strategy for the protection of the information space on 28 August](https://actualite.cd/index.php/2026/08/30/rdc-le-gouvernement-renforce-son-dispositif-de-protection-de-lespace-informationnel-face), whose text is not held.
 
-Two strategic documents reached validation without adoption: the [national AI strategy on 27 July](https://zoom-eco.net/autres-actualites/rdc-la-strategie-nationale-de-lintelligence-artificielle-franchit-une-etape-decisive-apres-sa-validation-technique/), subject to amendments, and the [sectoral digital economy policy 2026-2030 on 22 July](https://www.mediacongo.net/article-actualite-165910_economie_numerique_les_experts_valident_le_projet_de_politique_sectorielle_2026_2030.html), subject to completing its costing and indicators. The backbone's own numbers reached the Council of Ministers on 3 August: [7,000 km deployed against more than 18,500 km](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de).
+The Digital Code moved from statute to prosecution. [Prosecutors were instructed to open cases under it without a complaint](https://www.radiookapi.net/2026/08/19/emissions/okapi-service/faut-il-fermer-ou-restreindre-lacces-tiktok-en-rdc) and the prosecutor general [mobilised judicial police officers against offences committed on social media](https://kinshasamagazine.cd/rdc-le-parquet-mobilise-les-opj-contre-les-infractions-commises-sur-les-reseaux-sociaux/), while an awareness campaign for the same code [was launched in Kinshasa](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). In the east, [mobile and internet service has been off across Fizi territory since 3 July](https://cpj.org/2026/08/drc-shutdown-of-internet-mobile-networks-in-east-extends-for-over-a-month-amid-war/). The universal service fund meanwhile [signed subsidy conventions with four operators for a first tranche of 40 localities](https://acp.cd/economie/telecoms-une-entreprise-beneficie-de-328-millions-usd-pour-implanter-728-pylones-en-rdc/).
 <!-- /narrative -->
 
 ## Governance
@@ -43,7 +43,7 @@ A new schedule of [taxes, permits and sanctions now governs the digital sphere](
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-Data protection has an authority that does not exist and a population whose service does not reach it. The [national data protection authority is still not created](https://acp.cd/economie/numerique-le-gouvernement-veut-une-chaine-de-responsabilite-visible-en-cybersecurite/), named again in July as a link in the cybersecurity chain after the minister said in March that structuring a professional network precedes it — two years of the same finding, running alongside a twenty-year exclusive foreign concession over citizens' identity data. In the east, [Baraka and Fizi have had telecoms and internet cut for months amid operations near Epupu, and humanitarian organisations' satellite kits were seized on the Baraka mayor's order](http://congorassure.com/societe/2026/08/03/sud-kivu-francine-kaliba-plaide-pour-le-retablissement-de-la-connexion-baraka), closing the last backup channel. It is reported as war damage and fuel-access failure rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
+Data protection has an authority that does not exist, a code that is now being prosecuted, and a population whose service does not reach it. The prosecutor general [mobilised judicial police officers against offences committed on social media](https://kinshasamagazine.cd/rdc-le-parquet-mobilise-les-opj-contre-les-infractions-commises-sur-les-reseaux-sociaux/) â€” enforcement against speech running ahead of any body protecting the data the same code governs. In the east, [mobile and internet service has been off across Fizi territory, Baraka included, since 3 July, with a press-freedom call for restoration on 17 August](https://cpj.org/2026/08/drc-shutdown-of-internet-mobile-networks-in-east-extends-for-over-a-month-amid-war/). It is reported as war damage rather than an ordered restriction, and no licensing or administrative decision for occupied territory is held.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -53,8 +53,6 @@ The [African Telecommunications Union's return to Kinshasa was ratified on 23 Ju
 ### Standards
 
 <!-- narrative: governance--gov-standards -->
-The telecommunications regulator set on 22 July a [binding escalation path for consumer complaints: the operator first, up to 30 working days, then referral to the regulator](https://progreseco.com/face-aux-abus-de-services-des-telecoms-et-de-la-poste-les-usagers-appeles-a-porter-plainte-aupres-de-larptc/).
-
 The telecoms regulator [installed equipment giving it near-real-time access to mobile operators' own data](https://decrypt-eco.net/2026/08/25/qualite-internet-le-gouvernement-ausculte-les-reseaux-mobiles-avec-de-nouveaux-equipements-de-controle/) on service quality, traffic flows and spectrum, which the ministry says will let it establish breaches objectively rather than on operators' own reporting. No first enforcement action or published measurement has followed.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
@@ -95,12 +93,12 @@ Starlink users in Kinshasa [face four to six months of possible slowdowns while 
 ### Data Exchange
 
 <!-- narrative: dpi--dpi-exchange -->
-On 29 July a [national electronic certification authority was named, not established](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/); [the July order already prices qualified trust services at US$30,000 foreign and US$10,000 local](https://actu7.cd/2026/07/29/augustin-kibassa-maliba-lance-le-chantier-dun-cadre-strategique-pour-accelerer-la-transformation-digitale-de-la-rdc/).
+The exchange being built is between revenue agencies rather than between citizens and the state. The finance inspectorate [disseminated a three-year strategic plan to public administrations, with data cross-checking between revenue agencies under systemic control](https://www.congoquotidien.com/2026/08/21/cloture-seminare-igf-plan-strategique/). No platform, data-sharing instrument or protection arrangement for the cross-checked records is named.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-A sector chief in Walikale told the provincial interior division on 23 July that his civil-status office had [no birth registers for several months and had stopped registering newborns](https://actualite.cd/2026/07/25/walikale-labsence-prolongee-de-registres-de-naissance-prive-les-enfants-de-leur-identite); the province promised resupply with no date, and the stated consequences are exclusion from school enrolment and from proof of nationality.
+Identification in the window is a provincial operation rather than a national one. Training of the agents for an operation registering Mbororo herders in Nord-Ubangi [closed at Gbadolite on 17 August](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/). Registering a named population as a distinct category is a decision with consequences beyond the register, and no legal basis, data controller, retention rule or purpose limitation is published for it.
 <!-- /narrative -->
 ### Registries
 
@@ -116,7 +114,7 @@ The company that built the vehicle identification platform [is refusing to hand 
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-A seminar opened on 15 July on a [public-enterprise digitalisation plan for 2026-2028](https://rdc-monde.com/rdc-finis-les-circuits-lents-ligf-passe-en-mode-numerique-pour-traquer-la-fraude-et-booster-les-entreprises-publiques/) covering transaction traceability, automated validation circuits and data reconciliation, with no system, budget line or deployment date named.
+Enforcement caught up with the standardised electronic invoice. The finance minister [closed the fiscal clinics and ordered immediate targeted sanctions against non-compliant taxpayers and against tax-administration staff](https://actualite.cd/2026/08/06/facture-normalisee-doudou-fwamba-clot-les-cliniques-fiscales-et-annonce-des-sanctions). Naming the administration's own staff alongside the taxpayers is the part worth recording; no compliance rate, sanction count or invoice volume is published.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -129,7 +127,9 @@ The month's only movement in government platforms was a procurement, and not the
 ### AI
 
 <!-- narrative: technology--tech-ai -->
-A stakeholder workshop of 23 to 27 July in Kinshasa [validated the draft national artificial intelligence strategy subject to amendments](https://zoom-eco.net/autres-actualites/rdc-la-strategie-nationale-de-lintelligence-artificielle-franchit-une-etape-decisive-apres-sa-validation-technique/), on four pillars aligned to the national development plan on a 2030 horizon. No adoption date was established and the text is not held. The same sessions recorded that bodies already acting across digital, research, data, cybersecurity and regulation have [roles not yet sufficiently articulated in a common steering architecture](https://acp.cd/economie/economie-numerique-lusage-responsable-de-li-a-recommande-dans-un-atelier-a-kinshasa/).
+The national artificial-intelligence strategy [was presented and validated by government at a Kinshasa ceremony on 4 August](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/), alongside the sectoral digital economy policy. Validated is not adopted: no adoption date is established and the text is not held.
+
+Underneath the strategy, one piece of actual capability began. [Collection of Lingala language data for artificial intelligence was launched alongside the digital code campaign](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/). No corpus size, licence, custodian or consent arrangement for the speakers' contributions is stated.
 <!-- /narrative -->
 ### Innovation ecosystem
 

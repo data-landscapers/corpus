@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MLI
 ledger_rows: 25
 not_held: 4
-record: c9dc1f996d48
+record: e967d2ddae4c
 ---
 
 # Mali: monthly update, August – September 2026

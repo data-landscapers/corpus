@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MUS
 ledger_rows: 25
 not_held: 9
-record: c92e8cb87dda
+record: 9303eab12e00
 ---
 
 # Mauritius: monthly update, August – September 2026

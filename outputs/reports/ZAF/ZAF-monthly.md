@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: ZAF
 ledger_rows: 105
 not_held: 23
-record: 43a8a3d31bec
+record: c6d0c333fb38
 ---
 
 # South Africa: monthly update, August – September 2026
@@ -15,7 +15,11 @@ record: 43a8a3d31bec
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two spectrum instruments were gazetted, the national artificial-intelligence policy changed from a rule-making instrument to a guidance one, and the Western Cape High Court struck down part of the birth-registration regulations. On delivery, a Public Service Commission investigation found [more than R2bn in irregular expenditure](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) at the State Information Technology Agency, which was [given 30 days to produce a recovery plan](https://www.dailymaverick.co.za/article/2026-07-07-malatsi-gives-sita-30-days-to-come-up-with-a-recovery-plan/). Operation Vulindlela's quarterly report of 31 July recorded the single citizen application at [production-ready pilot](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), dated the next milestones to September 2026 and stated that progress had been uneven.
+Compute arrived and so did the questions about what it costs. A [sovereign artificial-intelligence cloud was brought into service and described as the continent's most powerful](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/), a domestic artificial-intelligence factory [entered a global supercomputer ranking at 36th](https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/), and a further [data-centre campus is being eyed at Coega](https://www.theherald.co.za/news/2026-08-29-power-play-as-company-eyes-ai-data-hub-at-coega/). Against that the human rights commission [opened an inquiry into data-centre sustainability, with operators pushing back](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb) â€” the first time on this ledger that the estate's resource use has been put to a rights body rather than a regulator.
+
+Identity and data protection both hardened. Home affairs [blocked about 300,000 identity documents on suspicion of fraud](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/), and the information regulator [called the rate of reported data breaches alarming and issued enforcement notices under the data protection Act](https://www.itweb.co.za/article/inforeg-concerned-by-alarming-rate-of-data-breaches/rxP3jqBE2ZLMA2ye). Subscription fraud against telecommunications providers [is rising, with deepfakes reported in the mix](https://www.connectingafrica.com/cybersecurity/sa-telecom-subscription-fraud-surges-ai-deepfakes-on-the-rise-comric).
+
+Two long-running instruments reached dates. The [analogue television switch-off has a date and a published progress count](https://www.itweb.co.za/article/digital-migration-progress-what-the-numbers-say/VgZeyvJlBgJMdjX9), and the social security agency [put self-service onto a messaging channel](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/) â€” the second national body this year to make a private messaging platform a route into a public service.
 <!-- /narrative -->
 
 ## Governance

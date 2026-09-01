@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: CPV
 ledger_rows: 6
 not_held: 45
-record: 87907fafd9f3
+record: c6544304eb5e
 ---
 
 # Cape Verde: monthly update, August – September 2026

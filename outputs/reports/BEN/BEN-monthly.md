@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: BEN
 ledger_rows: 10
 not_held: 5
-record: dc708b517f84
+record: f10933681837
 ---
 
 # Benin: monthly update, August – September 2026

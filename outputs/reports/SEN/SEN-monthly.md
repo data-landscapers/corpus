@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: SEN
 ledger_rows: 30
 not_held: 14
-record: 034d1f68009f
+record: 8b8400a77edf
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -15,11 +15,9 @@ record: 034d1f68009f
 ## Summary of the month
 
 <!-- narrative: summary -->
-The tax authority [withdrew the paper fiscal stamp on 20 July 2026](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique), making the digital service the sole recognised channel. Eight days later a free electronic stamp service [suspended its free tier, citing an administrative decision outside its control](https://lesoleil.sn/actualites/diotali-suspend-son-service-gratuit-de-timbre-fiscal-electronique-et-annonce-le-remboursement-de-ses-usagers/); users state they now pay additional fees for an identical service.
+A law was passed and the systems it protects were breached in the same week. The National Assembly [adopted the critical-infrastructure protection bill unanimously on 20 August](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), which [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings after recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html). Recorded offences barely moved: [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite).
 
-Civil registration published its clearest figures yet: [437 of 629 centres fully deployed](https://fr.linkedin.com/posts/anec-senegal_%C3%A9tat-davancement-au-18-juillet-2026-lanec-activity-7485345706107625472-_yhI) and [15.3m records loaded](https://africabusinessinsight.com/senegal-digitizes-more-than-15-million/). The audit court then [opened a mission across 74 communes covering 2018 to 2025](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html).
-
-Three policy instruments surfaced, none of them readable: an [AI strategy adopted in 2023](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), a [national data strategy cited as adopted](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/), and a [national AI development plan instructed for deployment on 29 July](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026).
+Civil registration is the busiest part of the record and the least funded. Remediation of the registry digitisation system [ran at Kaolack from 10 to 20 August](https://directactu.net/2026/08/16/par-matar-ndiaye-dg-de-lanec-avancement-de-la-remediation-nationale-sur-la-digitalisation-de-letat-civil-une-progression-territoriale-structuree-du-lgec-et-de-sama-etat-civil/), the agency [gave its software-deployment figure at African Civil Registration Day](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/), and its director-general [stated that the agency's 2026 appropriation has still not been notified](https://aps.sn/kaolack-lanec-accelere-la-digitalisation-de-letat-civil/). On the other side of the ledger, the National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html).
 <!-- /narrative -->
 
 ## Governance
@@ -27,11 +25,7 @@ Three policy instruments surfaced, none of them readable: an [AI strategy adopte
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The same account is the first to record a [national data strategy as adopted](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/); its text is not on file and its adoption date is not established.
-
-Two further AI instruments entered the record. A readiness assessment of 26 July records an [AI strategy adopted in 2023 on six orientations](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), correcting the base's earlier reading that no published strategy existed; the council of ministers communiqué of [29 July records an instruction to deploy a national AI development plan](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026). Whether the plan supersedes or replaces the 2023 strategy is unestablished. A [blueprint for value creation through data](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-elevates-data-and-ai-as-core-pillars-of-public-governance-reform) reached working-group stage on 1 and 2 July.
-
-The telecommunications ministry [put a national online child-protection action plan in place on nine axes](https://lesoleil.sn/actualites/technologie/violences-numeriques-le-senegal-se-dote-dun-plan-dactions-national-de-protection-des-enfants-en-ligne/); an automated fetch on 31 July found no document on the ministry's own site.
+The body meant to steer digital governance has not started. The digital governance steering committee, [created in March 2026, was still stated five months later to be operational in the near future](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy). A coordinating body that has not convened is what sits behind the strategies this section otherwise records as adopted but unreadable.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -71,9 +65,9 @@ A continental count puts [seven data centres in Senegal at mid-2025, level with 
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-On 30 July the procurement authority and the ministry [floated three routes for buying critical-infrastructure cybersecurity](https://arcop.sn/2026/07/30/cybersecurite-marches-des-infrastructures-critiques-larcop-engagee-aux-cotes-des-structures-publiques/) — a three-year standing supplier arrangement, functional specifications, and pooled purchasing — with no timetable or contract value. The state's own diagnosis locates the blockage in procurement, not in budget.
+The institutions arrived after the attacks. The critical-infrastructure bill [provides for a national computer emergency response team the country does not yet have](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), and the Prime Minister [announced parliamentary hearings following recent attacks on state systems](https://www.seneweb.com/fr/news/Politique/cybersecurite-ousmane-sonko-annonce-des-auditions-apres-les-recentes-attaques_n_501983.html); no system, breach count or data loss is named in the announcement.
 
-The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
+Procurement is the state's own diagnosis of the blockage, and it moved by memorandum: a [foreign cybersecurity supplier is reported seeking Senegalese partners](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/), with no contract, value or scope stated. The offence figures the case for all this rests on moved barely at all: national police recorded [3,794 cybercrime offences in 2025 against 3,902 in 2024](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite), reported alongside an international police organisation's estimate of at least US$5bn in Africa-wide losses over the same year. Neither the recording basis nor a clear-up rate is stated.
 <!-- /narrative -->
 
 ## DPI
@@ -100,8 +94,6 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-In health, a [mortality and cause-of-death analysis tool was trained out on 20 and 21 July](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/), and civil society [called on 23 July for adoption of a digital-health bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) whose status and text are not stated; the ministry has begun building a single patient record ahead of the law meant to govern it.
-
 The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
@@ -135,7 +127,7 @@ Two facts about the state's own capacity arrived in the same week and point oppo
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-An [advanced-level digital course for blind and partially sighted people opened on 6 July](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html), on a programme reporting 700 people and twenty trainers trained since its launch. The launch date is not stated, so the cumulative figure has no start point.
+The flagship access programme is under investigation. The National Assembly [voted 129-0 to open a commission of inquiry into about 48 billion FCFA committed since 2017 under the student-computer programme, over alleged procurement breaches and 800 defective machines stored unused at the country's largest university](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html). Nine years in, the programme publishes no delivery total, unit cost or student-reach figure, so the inquiry's envelope is the only quantity the record holds about it.
 <!-- /narrative -->
 ### Digital divides
 

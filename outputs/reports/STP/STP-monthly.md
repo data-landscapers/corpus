@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: STP
 ledger_rows: 4
 not_held: 13
-record: 1c0e963c4093
+record: c3d93f977f83
 ---
 
 # Sao Tome and Principe: monthly update, August – September 2026

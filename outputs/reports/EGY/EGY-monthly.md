@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: EGY
 ledger_rows: 58
 not_held: 54
-record: e57fea683f9b
+record: 7c15e2203225
 ---
 
 # Egypt: monthly update, August – September 2026
@@ -15,9 +15,9 @@ record: e57fea683f9b
 ## Summary of the month
 
 <!-- narrative: summary -->
-Egypt used the window to publish the shape of its digital state rather than to add to it. A cabinet meeting on 19 July 2026 set out 105 government bodies connected and 100 national databases linked through the digital switch, a digital treasury of reusable verified documents, and live e-signature and e-seal services ([cabinet readout](https://gate.ahram.org.eg/News/5813424.aspx)). Two days later the ICT minister put 242 services on the national platform against a target of about 450 by 2030 ([ministerial briefing](https://gate.ahram.org.eg/News/5814629.aspx)).
+Identity became the condition of a phone line and of a bank account in the same month. All four mobile operators [were referred to the Public Prosecution over lines registered without their subscribers' consent](https://www.businesstec.news/23568), while the regulator [launched remote biometric verification for telecom services in a pilot](https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752) and the central bank [approved the rules governing the national digital financial identity](https://gate.ahram.org.eg/News/5893462.aspx). A member of Parliament separately [proposed a national register of personal-data use](https://gate.ahram.org.eg/News/5894387.aspx) â€” a proposal only, and the base holds no such register.
 
-Cabinet then agreed on 29 July to review the social-media statutes and raise financial penalties, after the ICT minister disclosed that a regulator unit already acts on artificial-intelligence-manipulated media ([cabinet account](https://www.youm7.com/story/2026/7/29/وزير-الاتصالات-وحدة-خاصة-بالجهاز-القومي-لرصد-المخالفات-السلبية-لمواقع/7497055)); and Egypt was elected on 31 July to chair two working groups of the Arab AI committee ([election account](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/)).
+The money and the models moved together. The state [signed a US$3.5bn spectrum agreement with the four operators under the 2026-2030 national spectrum strategy](https://www.connectingafrica.com/investment/egypt-seals-3-5b-spectrum-deal-with-telcos), [allocated an annual budget line for data centres and state artificial intelligence](https://www.egypttelegraph.com/article/272026/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B5%D8%B5-860-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2), and [saw a Chinese bid for the government artificial-intelligence data-centre tender met by a rival United States consortium](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium) â€” the compute layer becoming a bilateral contest rather than a procurement. Domestically an [Arabic large language model was ranked top among Arabic models in its parameter classes](https://gate.ahram.org.eg/News/5894042.aspx). The justice and communications ministries [signed a three-year protocol behind a unified digital justice strategy](https://www.businesstec.news/23569), and the social insurance system [cleared 92% of its accumulated arrears backlog](https://gate.ahram.org.eg/News/5882131.aspx).
 <!-- /narrative -->
 
 ## Governance

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MAR
 ledger_rows: 28
 not_held: 17
-record: a190c7c9549d
+record: 5fccfa5eb0b9
 ---
 
 # Morocco: monthly update, August – September 2026
@@ -15,11 +15,9 @@ record: a190c7c9549d
 ## Summary of the month
 
 <!-- narrative: summary -->
-Police patrol vehicles carrying live facial recognition entered field service in Rabat in the week of 20 July 2026, with Casablanca and Tangier announced next ([deployment account](https://assabah.ma/938960.html)). Neither held account cites a data-protection authorisation, a retention rule or an oversight mechanism for them.
+Institutions were created and one portal went dark. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), with no budget, staffing or opening date for any of them, and the country was placed [87th globally on an index of government readiness for artificial intelligence, up fourteen places](https://northafricapost.com/99498-moroccos-ai-and-data-center-ambitions-take-shape-amid-growing-digital-investment.html). Against that, the Court of Cassation's site [has been down for more than a week with no official explanation](https://www.alnahar.ma/121842.html), at a point when the courts increasingly expect rulings to be tracked online.
 
-The month's other movements were commitments rather than deliveries. A memorandum with a data-centre equipment supplier was signed on 27 July with no sum attached ([ministry communique](https://www.mmsp.gov.ma/fr/actualites/madame-amal-el-fallah-seghrouchni-pr%C3%A9sid%C3%A9-la-c%C3%A9r%C3%A9monie-de-signature-d%E2%80%99un-m%C3%A9morandum-d%E2%80%99entente-entre-le-minist%C3%A8re-de-la-transition-num%C3%A9rique-et-de-la-r%C3%A9forme-de-l%E2%80%99administration-et-vertiv)), a 50-article digital health bill was adopted in the government council on 22 July ([bill account](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/)), and the ministry named entry into force of a US$250m programme before 23 September as its immediate priority ([ministry account](https://www.moroccoworldnews.com/2026/07/330823/morocco-to-launch-250-million-world-bank-backed-digital-transformation-program/)).
-
-The ombudsman's 2025 report, presented on 23 July, recorded 9,958 files opened and a mean 815 days to implement a recommendation ([report account](https://www.lebrief.ma/administration-mediateur-du-royaume-100161011/)).
+The digital health bill is now contested by the people it would bind: doctors' unions [object publicly to its penal chapter](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/), which would draw six months to a year and MAD 50,000-200,000 for unlawful consultation, use or exchange of personal health data. On data protection more broadly, the regulator's president [states that a recast of the 2009 statute has entered the legislative circuit](https://www.trade.gov/country-commercial-guides/morocco-digital-economy) â€” a clarification rather than a replacement, with no text or transmission date held. And a parliamentary question [put the ombudsman's finding on the record: agencies still demand paper copies of documents the administration already holds electronically](https://nichan.ma/361721/), which is what the procedural simplification law was passed to stop.
 <!-- /narrative -->
 
 ## Governance

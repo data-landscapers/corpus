@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: GAB
 ledger_rows: 26
 not_held: 27
-record: d7d3dfe20131
+record: c3fd0af9d3bf
 ---
 
 # Gabon: monthly update, August – September 2026

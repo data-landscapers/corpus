@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: ZMB
 ledger_rows: 32
 not_held: 44
-record: 95d0607abaf7
+record: b8261209f622
 ---
 
 # Zambia: monthly update, August – September 2026

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: GHA
 ledger_rows: 76
 not_held: 9
-record: 7ac21dda4f2d
+record: 6bd99b800c25
 ---
 
 # Ghana: monthly update, August – September 2026
@@ -15,7 +15,9 @@ record: 7ac21dda4f2d
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two regulatory clocks started in July. The identity regulator gave institutions [until 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to stop taking card photocopies and integrate with biometric verification, and the telecommunications regulator [amended its 5G spectrum offer in seven places](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) and moved the submission deadline to 27 August. Parliament approved a multi-year commitment for three revenue platforms on 28 July with no disclosed cost. On 3 August the central bank named twenty unlicensed lending applications.
+Two government portals broke in the same fortnight. Tax payment processing on the services portal [failed from 14 August and was still unresolved a week later](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/), and the [online passport application portal went down, the outage confirmed by the foreign ministry](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). Against that, government [directed that public-service salaries be suspended from 15 September for staff whose identity-card details do not match](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/) â€” a state making its own systems a condition of pay while two of its public-facing systems are down.
+
+Enforcement is the month's other thread, and it is unusually visible. The information-rights commission [fined 254 public bodies over reporting delays](https://www.graphic.com.gh/news/general-news/upsa-37-military-hospital-among-254-public-institutions-fined-by-rti-commission-over-report-delays.html); the cybersecurity authority's first published fines against a public body and its supplier [were called premature and referred to the Attorney-General](https://www.citinewsroom.com/2026/08/orc-csa-sanction-was-premature-seeks-ags-intervention/); and the data protection commission [took delivery of field-enforcement vehicles](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/). On virtual assets a [coordinating committee was inaugurated](https://www.citinewsroom.com/2026/08/vacc-inaugurated-to-strengthen-ghanas-virtual-asset-oversight/), and a bank [opened direct renminbi settlement](https://www.myjoyonline.com/stanbic-bank-becomes-first-bank-in-ghana-to-offer-direct-chinese-yuan-settlement-via-cips/). The minister also [announced a cut in fibre broadband prices, effective the same day](https://www.myjoyonline.com/sam-george-announces-major-reduction-in-mtn-fibre-broadband-prices/).
 <!-- /narrative -->
 
 ## Governance

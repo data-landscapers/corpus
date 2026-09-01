@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MOZ
 ledger_rows: 51
 not_held: 19
-record: 31dbc5653014
+record: e885aa145b0e
 ---
 
 # Mozambique: monthly update, August – September 2026
@@ -15,9 +15,9 @@ record: 31dbc5653014
 ## Summary of the month
 
 <!-- narrative: summary -->
-The Constitutional Council struck down the Telecommunications Traffic Control Regulations on 29 July 2026, holding that the Act relied on as their legal base authorises no structural and permanent surveillance of communications ([judgment](https://cconstitucional.org.mz/wp-content/uploads/2026/07/Acordao-no-6-CC2026-de-29-de-Julho-2026.pdf)). The communications minister said on 3 August that the government respects the decision ([ministerial statement](https://clubofmozambique.com/news/mozambique-government-respects-ruling-striking-down-telecom-traffic-control-regulations-minister/)), and the government spokesman said the next day that it will now seek the same end by another route, naming no bill, instrument or timetable ([government response](https://mznews.co.mz/chumbo-do-regulamento-de-telecomunicacoes-pelo-cc-deixa-governo-de-boca-aberta-mas-recusa-engolir-sapos/)).
+Regulation was struck down and rebuilt in the same month. The Constitutional Council's judgment [voided the Telecommunications Traffic Control Regulations](https://www.incm.gov.mz/wp-content/uploads/2026/05/Regulamento-de-Controle-de-Trafego-de-Telecomunicacoes-Revisto-2025-Decreto-48_2025.pdf), holding that the Act relied on authorises no structural and permanent surveillance of communications; the regulator then [published a new telecommunications and scarce-resources licensing regulation on 21 August](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/), and the Press and Media Law [is gazetted and in force from December](https://cibercidadaos.org.mz/wp-content/uploads/2026/06/BR_98_I_SERIE_2.o-SUPLEMENTO_2026.pdf).
 
-Three systems entered or extended service in the same five weeks: the National Payments System Law took effect on 2 July, a university data centre was inaugurated on 3 August, and free issuance of identity documents was extended to 2027. The minister responsible told a Maputo conference on 28 July that current national compute, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
+Artificial intelligence acquired institutions faster than instruments. A [national strategy proposal went to operator consultation](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/), an observatory [was named](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/), an association [inaugurated its executive in Maputo](https://itweb.africa/article/mozambique-steps-up-ai-drive/nWJadvbND3dvbjO1), and the Prime Minister [welcomed the technology while warning of deepfakes in elections](https://clubofmozambique.com/news/mozambique-pm-welcomes-ai-warns-of-dangers-of-deepfakes-in-elections/) â€” with dedicated legislation recorded as not held. Against that the census [stalled, the statistics institute announcing work to improve its digital system after test failures](https://www.diarioeconomico.co.mz/2026/08/22/desenvolvimento-2/ine-quer-melhorar-sistema-digital-do-censo-de-2027-apos-falhas-nos-testes/), and the central bank [set new limits on card payments abroad](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/).
 <!-- /narrative -->
 
 ## Governance
@@ -25,9 +25,7 @@ Three systems entered or extended service in the same five weeks: the National P
 ### Strategies, plans and policies
 
 <!-- narrative: governance--gov-policy -->
-The National Cyber Security Strategy 2026-2030 is under revision, succeeding a policy whose own period ended in 2025 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
-
-On 22 July the communications minister told a banking and finance conference that the country is consolidating its legal and institutional framework, naming a national data governance policy among the instruments in preparation, and warned that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)).
+Two strategies are being written and neither is adopted. The National Cyber Security Strategy 2026-2030 [was reviewed with a donor partner alongside an evaluation of its 2021-2025 predecessor](https://revista.tempo.co.mz/intic-e-finlandia-reforcam-cooperacao-para-a-estrategia-nacional-de-seguranca-cibernetica-2026-2030/), succeeding a policy whose own period ended last year. The National Digital Transformation Strategy [has been in drafting since February](https://www.trade.gov/market-intelligence/mozambique-digital-transformation-strategy) and is in drafting still â€” no change at either end of the window.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -47,8 +45,7 @@ Two instruments moved on the same week, one drafting and one made. The labour mi
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->
-The same 22 July conference remarks named the personal data protection law as an instrument in preparation, under the same warning that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)). Mozambique remained without a data protection law in force, with no tabling or adoption date stated.
-
+The data-protection law is closer to Parliament than it has been. Authorities [are preparing to submit the draft bill](https://clubofmozambique.com/news/mozambique-calls-to-strengthen-data-protection-digital-space-legislation/). Preparing to submit is not tabling: no bill number, date or text is held, and the country remains without a data-protection law in force while its identity, humanitarian and payment registers all expand.
 <!-- /narrative -->
 ### Standards
 
@@ -69,14 +66,9 @@ The digital foundations programme runs to 2027 with the European Union delegatio
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
+The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023, and [set January 2027 as its target for identifying a strategic partner](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/). No buyer, share, valuation or treatment of the debt is stated.
 
-The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
-
-
-The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one.
-
-The government [set January 2027 as its target for identifying a new strategic partner for the state operator](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/), with the transaction to be finalised after that; no valuation, stake size or bidder is named.
+The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one. On 5G, [a provincial-capital deadline of June 2027 is attached to the spectrum licences](https://www.diarioeconomico.co.mz/2026/08/25/trends/telecom/mercado-financas-5g-em-todas-as-capitais-provinciais-ate-junho-de-2027/).
 <!-- /narrative -->
 ### Data Storage
 
@@ -101,7 +93,7 @@ At the same event the communications minister put the research and education net
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
-The same institute account of 23 July states that the Cyber Security Law creates the national incident response team and seats its operation inside the institute ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
+The national response team put a number on what it is seeing. It [reported ransomware infection attempts detected on the national network and told organisations not to pay ransoms but to report them](https://jornalnoticias.co.mz/destaque/intic-na-campanha-contra-ransomware-nao-paguem-resgate-denunciem/). It is the first such count the base holds; no period, sector breakdown or successful-infection figure accompanies it.
 <!-- /narrative -->
 
 ## DPI
@@ -110,18 +102,20 @@ The same institute account of 23 July states that the Cyber Security Law creates
 
 <!-- narrative: dpi--dpi-exchange -->
 The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
+
+A physical exchange broke ground alongside it. Works on the [Ressano Garcia one-stop border post began on 17 August at a stated 980 million meticais](https://aimnews.org/2026/08/17/governo-moderniza-fronteira-de-ressano-garcia-com-980-milhoes/). No completion date, systems specification or customs-integration arrangement is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->
-The identification directorate reported on 23 July that it produced 856,101 identity cards in the first half of 2026 on 813,307 applications, against 730,527 a year earlier, with 297,470 issued free ([directorate account](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/)). On 28 July the President extended free issuance of the identity card, birth certificate and personal certificate to 2027, stating neither the end month nor the deadline it replaces ([presidential announcement](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/)).
+The humanitarian register moved from pilot to a dated launch. Validation of the beneficiary and humanitarian assistance management system [was completed with national launch stated for October 2026](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/), the platform built to interoperate with the national social-support database so that duplicate and fictitious beneficiary registrations can be curbed. No data-protection basis, retention rule or enrolment target is published.
 
-The humanitarian register moved from pilot to a dated launch. Validation of the beneficiary and humanitarian assistance management system [was completed with national launch stated for October 2026](https://www.biometricupdate.com/202608/mozambiques-digital-humanitarian-response-system-set-for-october-launch), the platform backed by the World Food Programme and built to interoperate with the national social-support database so that duplicate and fictitious beneficiary registrations can be curbed. No data-protection basis, retention rule or enrolment target is published.
+Separately the government [opened discussions with a local partner on a mobile digital identity and electronic-signature platform](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure). Discussions are the stage reached: no contract, scope or date is held.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The National Payments System Law took effect on 2 July 2026, replacing the regime in force since 2008 and extending the central bank's inspection and supervision over electronic-money institutions and new payment service providers ([enactment account](https://clubofmozambique.com/news/mozambique-cybercrime-and-cybersecurity-laws-national-payments-system-law-signed-into-force/)). On 30 July the central bank reported the instant payment system carrying more than 11,000 transfers a day, a tripling since it entered production in March ([communique account](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
+Payments moved in two directions. The central bank [set limits on payments abroad made with bank cards, revoking its December 2025 notice](https://www.bancomoc.mz/en/media/highlights/notice-no-4-gbm-2026-establishes-limits-on-payments-abroad-made-using-bank-cards-and-revokes-notice-no-9-gbm-2025-of-9-december/) â€” a restriction on what a card can do rather than an extension of it. In the other direction a health agency [reported cumulative disbursement of US$14.4m to health workers over mobile money for campaign payments](https://techafricanews.com/2026/08/11/who-mozambique-channels-14-4m-through-mobile-money-for-health-campaigns/), the largest use of the mobile-money rail for public payment the base holds here.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -157,7 +151,7 @@ The month's only movement on digital literacy was a demand for it. At the launch
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
+The European Union digital programme's training reached delivery. [Pilot training was delivered and assessments completed under the digital skills curriculum](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so no cohort size, completion rate or date can be placed against it.
 <!-- /narrative -->
 ### Research institutions
 

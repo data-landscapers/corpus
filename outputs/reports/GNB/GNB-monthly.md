@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: GNB
 ledger_rows: 2
 not_held: 1
-record: ff6bfdffc2c0
+record: ff6b67589c47
 ---
 
 # Guinea-Bissau: monthly update, August – September 2026

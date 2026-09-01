@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: RWA
 ledger_rows: 32
 not_held: 9
-record: 40be639be0e7
+record: 281ac5f1fdbe
 ---
 
 # Rwanda: monthly update, August – September 2026
@@ -15,7 +15,9 @@ record: 40be639be0e7
 ## Summary of the month
 
 <!-- narrative: summary -->
-Two dates were fixed in July. Effective 14 July the central bank [migrated all domestic interoperable retail payments onto one rail](https://itweb.africa/article/rwanda-migrates-retail-payments-to-ekash/rxP3jqBEnOoMA2ye) at a flat RWF 20; and on 28 July the ministry [fixed 30 June 2027 for the third-generation network shutdown](https://www.minict.gov.rw/news-detail/rwanda-to-switch-off-3g-networks-on-30-june-2027). Cabinet approved an institute of computing on 24 July, and a development agency reported on 6 July that no national body assesses artificial-intelligence risk or monitors harms.
+Two layers of the stack were consolidated and one was audited. The Chamber of Deputies [approved two financing agreements worth a combined Rwf279 billion, funding broadband expansion, a labour market information system and livestock traceability technology](https://www.newtimes.co.rw/article/38320/news/finance/mps-approve-rwf279bn-financing-to-boost-job-creation), and the capital markets authority [began benchmarking the country's first dedicated virtual-asset legislation against the United Arab Emirates' framework](https://techafricanews.com/2026/08/27/rwanda-cma-dubai-vara-study-tour-virtual-asset-regulation/) â€” the law itself [gazetted in May and known to the base only at second hand](https://www.itweb.africa/article/digital-assets-drive-rwanda-uae-deal/P3gQ2qGAzzE7nRD1).
+
+The social registry's appeals process is the month's most useful disclosure: [360,000 people challenged their category since it opened in early 2024, with 93% of disputed classifications corrected](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024) â€” a rate that measures both the system's responsiveness and how often it was wrong. On the payments side the single interoperable rail [cut a transfer that could previously cost as much as RWF 5,000 to a flat RWF 20](https://african.business/2026/07/innov-africa-deals/rwanda-unifies-digital-payments-with-national-launch-of-ekash), while the second operator's agent network [contracted from 53,316 agents to 48,847 over the year](https://taarifa.rw/2026/07/31/ekash-was-designed-to-bridge-the-digital-divide-but-airtel-moneys-struggles-risk-leaving-rural-users-behind/): the cash-in and cash-out layer rural households depend on shrinking while the rail above it got cheaper. An [academic security operation centre is meanwhile running through a university network based in Rwanda](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html).
 <!-- /narrative -->
 
 ## Governance

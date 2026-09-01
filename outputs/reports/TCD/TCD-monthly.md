@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: TCD
 ledger_rows: 21
 not_held: 41
-record: a76d366f7962
+record: fa92a974f896
 ---
 
 # Chad: monthly update, August – September 2026

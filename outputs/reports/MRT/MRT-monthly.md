@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MRT
 ledger_rows: 13
 not_held: 4
-record: ba204203c67e
+record: 7a07a941c290
 ---
 
 # Mauritania: monthly update, August – September 2026

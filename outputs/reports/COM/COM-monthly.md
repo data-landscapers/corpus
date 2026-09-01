@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: COM
 ledger_rows: 9
 not_held: 35
-record: 6d920b480a06
+record: 4aee8dc60de5
 ---
 
 # Comoros: monthly update, August – September 2026
@@ -17,7 +17,7 @@ record: 6d920b480a06
 <!-- narrative: summary -->
 Nine rows moved, and the month's shape is preparatory work against one failure. The mobile-money interface to prepaid electricity meters [was reported to have let meter credit go uncollected on Moheli](https://www.comoresinfos.net/200-millions-de-francs-de-pertes-presumees-que-sest-il-passe-entre-mvola-et-la-sonelec-a-moheli/), the only regression on the ledger and the first operating fault the base holds for a payment interface here. Against it, [a school-management platform was launched on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html), [a national data-governance strategy for 2027-2031 went to a validation workshop in Moroni on 24-25 August](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique), and the civil-registry modernisation programme [presented a resource-mobilisation strategy](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique) â€” none of them yet a system in service.
 
-The statistical apparatus is the busiest part of the record: [the annual agricultural survey closed its sensitisation campaign and trained its national instructors](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) and [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). On the research side [a Shikomori text-to-speech model entered first public trials](https://alwatwan.net/societe/intelligence-artificielle-i-Â«komori-tts-Â»,-la-premiÃ¨re-synthÃ¨se-vocale-dÃ©diÃ©e-au-shikomori.html) and [two pupils became the country's first entrants to the international artificial-intelligence olympiad](https://alwatwan.net/societe/olympiade-internationale-dâ€™ia-i-deux-lycÃ©ens-reprÃ©sentent-les-comores-au-kazakhstan.html).
+The statistical apparatus is the busiest part of the record: [the annual agricultural survey closed its sensitisation campaign and trained its national instructors](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/enqu%C3%AAte-agricole-annuelle-2026-linseed-sensibilise-les-autorit%C3%A9s-locales-et-outille-ses-formateurs-19324.html) and [the fifth population and housing census finalised its methodological and digital instruments at a retreat from 10 to 17 August](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-5-lancement-de-la-finalisation-des-outils-m%C3%A9thodologiques-et-num%C3%A9riques-19385.html). On the research side [a Shikomori text-to-speech model entered first public trials](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html) and [two pupils became the country's first entrants to the international artificial-intelligence olympiad](https://alwatwan.net/societe/olympiade-internationale-d’ia-i-deux-lycéens-représentent-les-comores-au-kazakhstan.html).
 <!-- /narrative -->
 
 ## Governance

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: DZA
 ledger_rows: 26
 not_held: 7
-record: c8e96e53b17e
+record: b46755fe7ee0
 ---
 
 # Algeria: monthly update, August – September 2026
@@ -15,13 +15,9 @@ record: c8e96e53b17e
 ## Summary of the month
 
 <!-- narrative: summary -->
-The state inaugurated its own data-centre estate on 5 July and gave administrations one month to interconnect to it; the apostille legalisation platform opened on 9 July; the national services portal acquired a telephone helpline on 29 July. Three further instruments passed through a single Council of Government sitting on 23 July — renewal of both incumbent GSM licences by executive decree, a national information-verification system, and an accreditation and conformity network — and none of the three has a published text.
+Platforms kept arriving and the foundations under them stayed undeclared. A services-import platform [became the exclusive channel from 1 August](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي), the customs single electronic window [began a phased rollout under a circular of 13 August](https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%B1%D9%82%D9%8A%D8%A9), the national services portal [took its first sector service](https://www.echoroukonline.com/%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%A5%D8%AF%D8%B1%D8%A7%D8%AC-%D8%AE%D8%AF%D9%85%D8%A9-%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9), a corruption-reporting platform [was launched](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), and the unified national digital identity [was shown working as single sign-on for a sectoral platform](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/).
 
-The Ministry of Foreign Trade and Export Promotion announced on 27 July that from 1 August applications to import services must be lodged, processed and tracked exclusively through a new platform, with [no fallback or assisted channel stated](https://www.echoroukonline.com/وزارة-التجارة-الخارجية-تطلق-منصة-رقمي).
-
-Nothing moved on the ethical-AI law, the domestic instant-payment system or the universal-service build. The National AI Strategy moved after July closed: a [joint inter-ministerial roadmap for deploying artificial intelligence across public services was agreed and reported on 12 August](https://itweb.africa/article/algeria-launches-public-service-ai/lwrKxv3Y1oyMmg1o), the text of the strategy still unpublished.
-
-August's own additions run the same way — platforms delivered, foundations undeclared. Two more services opened, a [complaints platform for economic operators](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/) and an [Ombudsman videoconference reception to be piloted from September](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/); the unified national digital identity was shown [working as single sign-on for a sectoral platform](https://www.horizons.dz/2026/08/les-plateformes-du-ministere-des-sports-integrees-dans-lecosysteme-national-des-services-numeriques/); and the interior minister [described his own ministry's vehicle-registration and civil-status digitisation as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/).
+Underneath, the interior minister [ordered rapid correction of faults in vehicle registration](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) and [named all-digital vehicle registration among stalled projects at a ministerial review](https://maghrebemergent.news/fr/numerisation-en-algerie-des-dysfonctionnements-persistent-sayoud-veut-rattraper-le-retard/), while the one-month deadline the President set for cross-sector interconnection through the national data centre [has passed with nothing reported against it](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/). The national artificial-intelligence strategy [gained a joint inter-ministerial deployment roadmap](https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722), its own text still unpublished.
 <!-- /narrative -->
 
 ## Governance
@@ -42,7 +38,7 @@ Algeria [signed as a founding member of a world artificial-intelligence organisa
 ### MoUs and other agreements
 
 <!-- narrative: finance--finance-mou -->
-On 26 July Algeria and Oman [discussed digital cooperation](https://www.echoroukonline.com/الجزائر-وسلطنة-عمان-تبحثان-تعزيز-التع) across artificial intelligence, data centres, fintech and space, with the Omani ministry and the Oman Investment Authority offering flexible partnership arrangements. No instrument was concluded at the meeting, so it stands as planned.
+A private matching arrangement is the month's entry here. A continental hub network and a platform [announced a partnership to connect North African businesses to investors](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs). No value, term, Algerian pipeline or state involvement is stated.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -50,9 +46,7 @@ On 26 July Algeria and Oman [discussed digital cooperation](https://www.echorouk
 ### Connectivity
 
 <!-- narrative: ict-infrastructure--infra-connect -->
-IPv6 generalisation was [launched on 14 July](https://www.echoroukonline.com/%D9%87%D9%83%D8%B0%D8%A7-%D8%B3%D9%8A%D8%A4%D8%AB%D8%B1-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%B1%D9%88%D8%AA%D9%88%D9%83%D9%88%D9%84-ipv6-%D8%B9%D9%84).
-
-On 23 July the Council of Government examined draft executive decrees renewing the public cellular licences held by Mobilis and Optimum Telecom Algérie (Djezzy). Renewal by executive decree places licence continuation with the cabinet rather than with the regulator, which ran the 5G round as a competitive tender. No term, fee, coverage obligation or decree text is held, and the Prime Minister's own communiqué of the sitting is not on file — the account rests on [one press carry](https://www.echoroukonline.com/الحكومة-تقف-دقيقة-صمت-على-ضحايا-الحرائ).
+The one dated position is the licence award rather than any new build. [Three commercial 5G licences were awarded to the three operators in December 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and that is where the record stands: no coverage obligation, rollout milestone or subscriber figure has followed on this ledger since.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -66,6 +60,8 @@ The cybersecurity record this window is a warning about the state's own brand ra
 
 <!-- narrative: dpi--dpi-exchange -->
 Interconnection acquired a deadline before it acquired its rules. A think tank's first digital brief records that the [president gave the sectors one month from 12 July to interconnect through the national data centre](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/), and nothing has been reported against that date. The two referentiels the interoperability decree makes the obligations wait on are still untraced, so the instrument that would carry the interconnection remains unenforceable while the timetable for it has already run.
+
+One exchange did begin. The customs single electronic window [entered a phased rollout under a customs circular of 13 August, towards import and export without paper documents](https://www.echoroukonline.com/%D9%86%D8%AD%D9%88-%D8%A7%D8%B3%D8%AA%D9%8A%D8%B1%D8%A7%D8%AF-%D9%88%D8%AA%D8%B5%D8%AF%D9%8A%D8%B1-%D9%85%D9%86-%D8%AF%D9%88%D9%86-%D9%88%D8%AB%D8%A7%D8%A6%D9%82-%D9%88%D8%B1%D9%82%D9%8A%D8%A9). The circular's text is not held, and no phase list, participating agencies or completion date is published.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -75,7 +71,7 @@ The unified national digital identity is being used as a single sign-on, and the
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
-The Bank of Algeria hosted the [29th ordinary meeting of the Arab Commission for Payment and Settlement Systems](https://www.dknews-dz.com/article/193186-banque-dalgerie-debut-a-alger-de-la-29e-reunion-ordinaire-de-la-commission-arabe-des-systemes-de-paiement-et-de-reglement.html) in Algiers on 27 July. No instrument was concluded.
+The payments layer gained a governing body and a small number. A central bank regulation [established a National Payments Committee](https://www.echoroukonline.com/%d8%aa%d8%ad%d8%b1%d9%83-%d8%b1%d8%b3%d9%85%d9%8a-%d9%84%d8%a5%d9%86%d9%87%d8%a7%d8%a1-%d9%87%d9%8a%d9%85%d9%86%d8%a9-%d8%a7%d9%84%d9%83%d8%a7%d8%b4-%d9%88%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b3), and the count of web merchants accepting electronic payment [passed 1,000 at the end of June](https://alger16.dz/?p=65795). A thousand merchants is a small number for a market this size, and it is the first such count the base holds, so the level is stated and the direction is not.
 <!-- /narrative -->
 ### Registries
 
@@ -85,7 +81,7 @@ Two registry developments pulled in opposite directions. The education ministry 
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-A pilot arrived on 30 July: SEAAL signed an MoU with OTEC and Omantel for [automated water-meter reading](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) on a LoRaWAN network, with no site, scale or start date stated.
+Two internal systems moved in different registers. The tax administration [published its first user guide for electronic payment on its platform, setting out seventeen rejection reasons](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-orders-fast-tracking-of-digital-tax-data-integration) â€” a document describing the failure modes of a live system, which is more than most such platforms disclose. And the interior and transport ministry [signalled activation of tachograph monitoring of professional transport](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AA%D8%A7%D9%83%D9%88%D8%BA%D8%B1%D8%A7%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%86%D8%B5-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86), with no start date, fleet scope or data-handling rule stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: TZA
 ledger_rows: 53
 not_held: 13
-record: 2d91924124ac
+record: 0e1788cda95e
 ---
 
 # Tanzania: monthly update, August – September 2026
@@ -15,11 +15,9 @@ record: 2d91924124ac
 ## Summary of the month
 
 <!-- narrative: summary -->
-Payments carried the month. An [order under the electronic transactions Act came into operation on 1 July 2026](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf), making nine scheduled classes of transaction electronic-payment-only; on [31 July the central bank set caps on several retail charges and its governor rejected a general price cap](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380), saying charges are already low and competition will cut fees within six months.
+The state is tightening its grip on its own records and promising to rewrite the law around them. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), the procurement appeals authority [now takes all bidder challenges through its online module, with more than 30 system integrations](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), and a technical working group [settled on integrating the existing forest-products revenue systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). Against that the government [announced a review of more than 1,000 laws to build a framework supporting artificial intelligence, digital commerce and technology investment](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/), naming no statute, sequence or date.
 
-The ICT ministry set out an artificial-intelligence position abroad before adopting one at home. At an international meeting on 18 July it stated that a [national AI data centre is under construction and that a Kiswahili large language model is written into the 2050 vision](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026); on [30 July guidelines were still being drafted](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292).
-
-A ministerial inspection of the national backbone on 24 July recorded [942.5 km built in one region against 65 citizens connected region-wide](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718).
+Two outside measures frame the month. An external assessment [found the country not meeting minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania), the same finding as the previous review; and a research organisation [documented online gendered violence against election candidates as cyclical across successive elections](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/), in an election period during which no state body published a comparable count. Government also [launched a programme to help more than 5,000 innovators register their work as intellectual property](https://fullshangweblog.co.tz/2026/08/23/577246/).
 <!-- /narrative -->
 
 ## Governance
@@ -191,9 +189,7 @@ The telecoms regulator's director general put the [digital clubs programme at 80
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The Zanzibar postgraduate technology campus graduated its second cohort on 5 July: [129 students, about half from East Africa and 30% women, with a stated aim of 100 startups](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692). The figures are institution-reported and unaudited.
-
-Training opened in Dar es Salaam on 27 July for [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://dailynews.co.tz/tanzania-builds-cyber-resilience/). No budget, duration, certification or repeat cadence was stated.
+Training in the window is bought rather than built. Zanzibar's public service [signed a three-year memorandum for artificial-intelligence and cybersecurity capacity building](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-public-servants-to-build-capacity-in-ai-cybersecurity-5560558), and an operator's foundation [expanded its digital skills programme for young people](https://techafricanews.com/2026/08/26/airtel-africa-foundation-digital-skills-tanzanian-youth/). Neither carries a cohort size, curriculum, certification or cost on the record held, so the base can date the commitments and cannot size them.
 <!-- /narrative -->
 ### Research institutions
 
@@ -206,7 +202,7 @@ A national institution of science and technology was [selected as the country's 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
-Financial access points reached [2.27m, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at end-December 2025 — growth that is agent build-out rather than branch build-out, as the council itself says.
+Access moved for a group the digital estate rarely reaches. The central bank [launched Braille editions of its publications in Dar es Salaam on 20 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948). It is a print accommodation rather than a digital one, and no equivalent screen-reader or accessible-format commitment for the bank's online material is on the record.
 <!-- /narrative -->
 
 ## Data

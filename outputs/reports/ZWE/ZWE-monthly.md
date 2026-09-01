@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: ZWE
 ledger_rows: 38
 not_held: 9
-record: 645a07b2758f
+record: 863c9c34aca6
 ---
 
 # Zimbabwe: monthly update, August – September 2026
@@ -15,11 +15,9 @@ record: 645a07b2758f
 ## Summary of the month
 
 <!-- narrative: summary -->
-The ICT minister launched a whole-of-government resource planning system on 29 July 2026 and committed to an artificial-intelligence ethics framework tabled by the end of the first quarter of 2027, mandated open interface standards for public-sector platforms, and a ring-fenced share of the universal services fund for public-good projects, stating no amount ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+A five-year artificial-intelligence strategy arrived complete with its own institutions. The launch on 4 August [named a regulatory sandbox and a supervising council](https://itweb.africa/article/zimbabwe-unveils-five-year-strategy-for-ai-innovation/PmxVEMKELYkvQY85), and [an innovation fund and a grand challenge alongside a national data commons](https://technomag.co.zw/84-55-internet-penetration-to-support-ai-adoption-in-zimbabwe/) â€” four bodies announced on one day, none of them yet carrying a budget, a constituting instrument or an opening date on this ledger.
 
-Two measured positions were published in the same weeks and point in opposite directions. The 2025 household survey put household internet access at 75.5%, up from 50.1% in 2020, and household computer ownership down to 11.2% from 14.2% ([survey account](https://www.newsday.co.zw/local-news/article/200058521/mobile-internet-access-surges-as-zimbabwe-embraces-digital-shift)). The central bank reported 511.1 million electronic transactions worth ZiG1.37 trillion in the half year, against a researcher's finding that only about 20,000 cards are in active use ([conference account](https://bullszimbabwe.com/digital-payments-surge-but-adoption-lags-survey/)).
-
-The health minister told the National Assembly on 17 July that more than 400 rural health facilities hold satellite kits that have never been switched on ([National Assembly account](https://www.newsday.co.zw/local-news/article/200058417/starlink-kits-gather-dust-at-government-rural-hospitals-as-parent-ministry-dithers-on-subscription)).
+The applied end of the same technology is already running on the roads: [artificial-intelligence traffic cameras are being expanded nationwide](https://www.newsday.co.zw/local-news/article/200059127/zimbabwe-expands-ai-traffic-cameras-to-tackle-us400m-road-crash-losses), with no data-protection authorisation, retention rule or contest route recorded for the footage. Data protection itself is being priced rather than enforced: doctors [object to the levies under the data-controller licensing regime](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) and civil society [warns that certification fees will exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/), with mandatory compliance inspections due to begin on 1 September. The anti-corruption commission meanwhile [is investigating cyber-enabled fraud in the vehicle licensing, mobile airtime and revenue authority systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/) â€” fraud inside the state's own digital estate, named system by system.
 <!-- /narrative -->
 
 ## Governance

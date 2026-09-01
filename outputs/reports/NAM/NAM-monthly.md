@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: NAM
 ledger_rows: 30
 not_held: 12
-record: 5787b48058ce
+record: a2254c07a80a
 ---
 
 # Namibia: monthly update, August – September 2026

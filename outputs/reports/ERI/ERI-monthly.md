@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: ERI
 ledger_rows: 1
 not_held: 5
-record: 88444d5d0899
+record: 2ddd4d213dac
 ---
 
 # Eritrea: monthly update, August – September 2026

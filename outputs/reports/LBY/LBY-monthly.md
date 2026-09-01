@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: LBY
 ledger_rows: 26
 not_held: 7
-record: 5ed0b1cd922a
+record: 6ede632b026b
 ---
 
 # Libya: monthly update, August – September 2026

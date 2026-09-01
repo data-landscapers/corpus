@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: UGA
 ledger_rows: 63
 not_held: 17
-record: e60a569ef225
+record: 39ba1db0a4bd
 ---
 
 # Uganda: monthly update, August – September 2026
@@ -15,11 +15,9 @@ record: e60a569ef225
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's largest single development was the close of an enforcement cycle rather than the opening of one. On 17 July 2026 the personal data protection office [confirmed by letter that a foreign controller had implemented all five corrective orders](https://businesstimesug.com/whatsapp-updates-privacy-policies-after-uganda-data-protection-enforcement/) from its February decision, within the prescribed timelines and with no appeal lodged. No fine was imposed.
+Regulation is being promised on three fronts and delivered on none. The finance ministry [told a retreat with parliamentary committees that digital lenders will be brought under tighter regulation](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), the ICT ministry [says a device-tax-cut paper is ready for cabinet before the end of the quarter](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026), and a policy to regulate artificial intelligence and social media was announced without a text.
 
-Three regulatory campaigns opened alongside it — [nationwide enforcement against unlicensed public Wi-Fi from 7 July](https://techafricanews.com/2026/07/08/uganda-begins-nationwide-enforcement-against-illegal-public-wi-fi-services/), a [national anti-piracy coordination effort on 17 July](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/), and a ministerial statement of 31 July that [attacks on telecommunications infrastructure are treated as economic sabotage](https://nilepost.co.ug/news/360525/government-declares-telecom-infrastructure-vandalism-economic-sabotage). Uganda also [took a seat on the African Telecommunications Union Administrative Council on 24 July](https://www.ucc.co.ug/uganda-wins-seat-on-the-african-telecommunications-union-administrative-council/).
-
-The month closed with two announcements about instruments that do not yet exist: a policy to regulate artificial intelligence and social media, and a European Union funding window for a sovereign loan package on digital public infrastructure.
+Identity moved for the people least able to pay for it. The identity authority [began issuing Alien ID cards to legally resident foreigners, 1,875 enrolled since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals) â€” about 2m registered foreigners are in scope and roughly 1.95m of them refugees or asylum-seekers. Elsewhere the largest operator [put 45% of its network sites on solar or hydro in its own sustainability report](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf), and the [United States health-data access agreement is now dated and held as signed at Kampala for activities running to 2030](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid).
 <!-- /narrative -->
 
 ## Governance
@@ -32,7 +30,7 @@ The ICT ministry [states a device-tax-cut paper is ready for cabinet before the 
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->
-The regulator issued a [public notice on 7 July opening nationwide enforcement against unlicensed public Wi-Fi providers](https://techafricanews.com/2026/07/08/uganda-begins-nationwide-enforcement-against-illegal-public-wi-fi-services/) under the Uganda Communications Act; no count of operators actioned has been published. On 23 July it reported [a five-year sentence for vandalising a mast in Kibaale District, where damage was valued at USh23.6 million, and a one-year sentence for a SIM-registration breach](https://itweb.africa/article/uganda-steps-up-crackdown-on-telecoms-vandalism/dgp45MaB8lZqX9l8); the minister of state for ICT stated on 31 July that such attacks are treated as economic sabotage rather than as offences against private property.
+Three instruments sit at three stages and none is in force in the window. The Protection of Sovereignty Bill 2026 [carries a central bank technical assessment to joint committees](https://www.newvision.co.ug/category/news/bou-governor-atingi-ego-say-sovereignty-bill-NV_232814_052026), with enactment reported but unconfirmed. The regulator's order suspending public internet [is discontinued, full restoration having been announced in January](https://pulse.internetsociety.org/documents/48/UCC_directive_Talkio.pdf). And the finance ministry [stated at a retreat with parliamentary committees that digital lending platforms will be regulated](https://www.monitor.co.ug/uganda/news/national/govt-moves-to-tighten-regulation-of-digital-lenders-as-financial-inclusion-rises-5561784), naming no bill, instrument or date.
 <!-- /narrative -->
 ### Data protection
 
@@ -46,11 +44,7 @@ The sharpest test of the protection regime in the window came from another arm o
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-The same day, revised media guidelines issued through the [electronic court case-management system](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) required prior accreditation, barred devices from a courtroom and made live broadcasting a case-by-case grant.
-
-Reporting of 29 July recorded that no work had begun on the [revenue authority's e-Tax2 procurement](https://ultimatepost.dantty.com/post/10745), whose technical evaluation the Appeals Tribunal set aside in October 2025 on a power-of-attorney defect; joint-venture staff have been on the authority's premises since January and none of 26 commercial banks would issue the performance guarantee gating the advance.
-
-The month's set-piece was a convening rather than a decision: [Internet Governance Week 2026 called for greater investment in digital skills, online safety and responsible artificial intelligence, and for Africa to move from consuming the technology to shaping it](https://www.monitor.co.ug/uganda/news/national/uganda-pushes-for-inclusive-safe-and-ai-ready-internet-5559810). Nothing was adopted, and no instrument on this ledger moved as a result.
+Public argument in the window is being made by civil society rather than in Parliament. A joint civil-society submission [was filed for the country's fourth-cycle Universal Periodic Review](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf), the review itself not yet held, and a [climate information integrity project was launched](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/) with a regional research organisation and a UN agency. Both are external channels: nothing on this ledger records a domestic consultation the state itself opened in the month.
 <!-- /narrative -->
 
 ## Finance
@@ -120,6 +114,8 @@ A parliamentary committee found the expressway concession still running on cash.
 
 <!-- narrative: dpi--dpi-registry -->
 The alien register issued its first cards. The identity authority [began issuing Alien ID cards to legally resident foreigners, having enrolled 1,875 since registration opened on 10 June, with the US$100 card required for SIM registration, banking and business access but conferring no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals). About 2m registered foreigners are in scope and roughly 1.95m of them are refugees or asylum-seekers, so ten weeks of enrolment has reached under a tenth of a percent of the population the fee falls on. No waiver, instalment route or alternative for a resident who cannot pay is published, which leaves the card a precondition for a bank account and a SIM with no stated way round it.
+
+The business register meanwhile [opened its financial-year stakeholder engagements](https://ursb.go.ug/2026/08/26/non-individual-registry-begins-fy2026-27-stakeholder-engagements/). No registration volume, turnaround time or service change is stated with them.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

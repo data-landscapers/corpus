@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: KEN
 ledger_rows: 105
 not_held: 7
-record: 92f2f60f83a8
+record: 8445f2f25bff
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -15,7 +15,11 @@ record: 92f2f60f83a8
 ## Summary of the month
 
 <!-- narrative: summary -->
-The month's largest single event was a consultation closing rather than an instrument taking effect: comment on the [draft AI and Other Emerging Technologies Policy](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) opened on 21 July and closed on 4 August 2026. Two instruments did commence — virtual-asset regulations gazetted on 22 July, and an equipment distributor licence effective from a notice of 21 July. The presidency's website was defaced on 18 July and restored on 20 July. On 28 July the Court of Appeal struck the false-publication sections of the Computer Misuse and Cybercrimes Act.
+Election technology is where the month's arguments concentrated. Procurement of the integrated elections management system [is halted at the review board](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations), the commission having rejected allegations over the results-transmission procurement in the same account; and an amendment bill [would repeal the duty to livestream polling-station results](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024). Two years out from a general election, the systems that will run it are contested at both the procurement end and the transparency end.
+
+Speech law went backwards and forwards at once. Parliament [is appealing to the Supreme Court to restore the struck-down false-information provisions of the cybercrimes Act](https://www.wearetech.africa/fr/fils/actualites/tech/kenya-le-parlement-veut-retablir-les-sanctions-contre-les-fausses-informations-en-ligne); a gazette notice [requires cyber cafes to register customers and log sessions from 7 September](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj); and the artificial-intelligence governance bill under debate [was criticised for omitting child-specific protection](https://www.amnesty.org/en/latest/news/2026/08/amnesty-internation/).
+
+Two working systems went the other way. The health claims platform is [failing at the counter, with the President putting its KSh 104bn at a ten-year service fee rather than a payment made](https://www.standardmedia.co.ke/health/health-science/article/2001555827/ruto-state-did-not-pay-sh104b-for-sha-system), and a court [barred discontinuation of physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks). Against them, an advanced cargo declaration system and a port smart gate [entered service on 3 August](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays), and the 47 counties [were given until 30 September to complete integration with electronic procurement](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques).
 <!-- /narrative -->
 
 ## Governance

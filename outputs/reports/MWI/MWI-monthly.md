@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: MWI
 ledger_rows: 30
 not_held: 53
-record: 365d5beef2fb
+record: 92aeb8a8f8b7
 ---
 
 # Malawi: monthly update, August – September 2026

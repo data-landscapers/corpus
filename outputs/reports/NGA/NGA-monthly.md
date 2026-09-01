@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-01
 place: NGA
 ledger_rows: 127
 not_held: 8
-record: be8a86c21c24
+record: ce955d3373e2
 ---
 
 # Nigeria: monthly update, August – September 2026
@@ -15,11 +15,11 @@ record: be8a86c21c24
 ## Summary of the month
 
 <!-- narrative: summary -->
-Across a single fortnight the identity commission converted the NIMC Act 2026 into bilateral operating agreements with the electoral commission, defence, solid minerals, trade, youth, women's affairs and the development bank; took over the national public key infrastructure as root certification authority; completed ICAO directory integration, making the passport cryptographically verifiable; and saw its number extended to airport boarding and farmer verification. No account of any of it states a lawful basis, consent mechanism or audit trail for the sharing involved.
+The courts did more to the digital estate this month than the ministries did. The ECOWAS Court [declared internet access a right and awarded â‚¦10m against the federal government](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/) in a journalist's suit; a domestic court [made the first damages award under the data protection Act, â‚¦15m to former bank customers over a privacy breach](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders); and civil-society and press bodies [called jointly for enforcement of the Cybercrimes Act to be suspended pending reform](https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/). Private enforcement arriving before regulatory enforcement is the shape of this record.
 
-The exchange went live on 30 July: a single sign-on Government Service Portal integrated with the national data exchange so agencies stop re-collecting citizen data.
+The registers moved unevenly. The [amended identity management Act is assented and in force](https://punchng.com/pros-cons-of-amended-nimc-act/), paper civil registration [was discontinued on 1 July while the health-facility layer that is meant to replace it is still not live](https://www.vanguardngr.com/2026/08/3-5m-missing-births-how-hospitals-can-close-nigerias-registration-gap/), and the bar association [demanded an audit and upgrade of the biometric voter accreditation system after unexplained authentication failures at a governorship election](https://blog.nigerianbar.org.ng/wp-content/uploads/2026/08/REPORT-OF-THE-OSUN-STATE-ELECTION-2026.pdf). The President [ordered a forensic audit of the federal payroll system](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/).
 
-In the courts, the data-protection regulator won its registration authority in the Federal High Court, a private claimant won damages without needing the regulator at all, and the digital-lending regulations that had been suspended since April were upheld and re-enforced.
+On the delivery side, a [centralised gateway for government services launched on 18 August](https://techafricanews.com/2026/08/18/nigeria-launches-centralised-gateway-portal-for-government-services/), the [national payment stack published early-phase rollout figures as successor to the existing instant-payment rail](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), and the naira stablecoin [went live on a public blockchain](https://techafricanews.com/2025/02/10/busha-lists-cngn-expanding-nigerias-digital-economy).
 <!-- /narrative -->
 
 ## Governance
