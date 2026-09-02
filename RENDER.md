@@ -217,6 +217,14 @@ python scripts/prune-editions.py --apply
 
 ## Step 7 — verify, commit, deploy
 
+**Check that every link leaving the site opens a new tab, before the push and not after.** It is the one page-wide property nothing else asserts: `target` is one attribute among 55,000 anchors, and a builder that stopped applying it looks exactly like a page nobody edited.
+
+```bash
+python scripts/lint-external-links.py
+```
+
+It checks the built tree *and* the builders — a script that takes its chrome from `chrome_lib` and writes a page without `external_links()` is reported before it has rendered anything. Both directions are findings (`documentation/house-style.md` → *Links*). **A finding stops the push**: the repair is to fix the builder and re-run the step that wrote the page, or `render.py --repage` for a report, neither of which cuts an edition.
+
 ```bash
 git add site
 [ -e logs/deleted-editions.csv ] && git add logs/deleted-editions.csv
