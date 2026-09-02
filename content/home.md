@@ -27,11 +27,14 @@ Content that covers regions or regional institutions rather than named countries
 
 All documents are classified according to Corpus' [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) which is used in all reports and in the catalogue. Two reports are delivered for each of the 38 topics. The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to assess whether the [indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators) tracked for each topic have advanced, stalled or regressed over the past 12 months. The text in both these reports is reproduced from the country reports.
 
+## finance-intro
+
+Corpus is compiling two datasets covering all aspects of the financing of digital transformation. The first collects all information on non-state financing. The second, still under development, covers national budgeting, expenditure and audit.
 ## catalogue-intro
 
 All the reports on this site have been built from documents collected into this repository. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents.
 
-## finance-intro
+
 
 
 
