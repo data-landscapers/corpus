@@ -3,13 +3,13 @@ title: Rural digital data capture — monthly update, August 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: digital.rural
-places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; NGA; SLE; TGO; ZMB; ZWE
-record: eb9fde677798
+places: BDI; TCD; COM; SWZ; GIN; LSO; MWI; MLI; MUS; NGA; SLE; TGO; ZMB; ZWE
+record: 9eac3382d282
 ---
 
 # Rural digital data capture: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ The university [ran two days of computer-skills training for 75 police officers]
 ## Mali
 
 The same week [recommended an updated universal-access strategy with a white-zone map, against a 2030 universal connectivity target](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html). No map, coverage baseline or funding line accompanies the recommendation.
+
+## Mauritius
+
+The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the base cannot say of either programme is how much of the estate it has reached.
 
 ## Nigeria
 

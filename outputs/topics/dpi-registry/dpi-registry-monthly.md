@@ -3,13 +3,13 @@ title: Registries (population, land, address, etc.) — monthly update, August 2
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: dpi.registry
-places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6c73ae7ca434
+places: DZA; AGO; BWA; CMR; TCD; COM; COG; CIV; COD; EGY; ERI; SWZ; GMB; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b65e026e7e69
 ---
 
 # Registries (population, land, address, etc.): monthly update, August 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -133,6 +133,10 @@ A [national digital directory of diaspora skills was launched at a ceremony in W
 The consular-services platform launched 9 July 2026 [built a unified digital consular registry](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), compiled by diaspora engineers after consultations in 22 countries.
 
 The Council of Ministers adopted two registry decrees on 27 August. One [builds a secured national information system for the central criminal-record register, wiring courts, prosecution offices and central services together electronically](https://www.ami.mr/archives/267317); the other [establishes the referentiel national numerique des donnees foncieres et cadastrales as the state's authoritative source of cadastral data, with a permanent unique identifier for every parcel, the minister stating that no integrated cadastral survey system meeting these requirements has existed](https://www.ami.mr/archives/267317).
+
+## Mauritius
+
+The [Finance Act 2026 was assented on 12 August](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/08/Act1426.pdf), carrying the statutory changes behind the budget's identity, registry and statistics measures. It lands on a civil status register whose [system replacement was announced in September 2025](https://csd.govmu.org/Documents/Communique/Communique%20-%20Revamping%20of%20CSD%20System%20New%20.pdf) and has not yet been reported delivered. The register runs under a 1981 statute; the Act amends around it rather than replacing it, which is the pattern across this ledger's registries.
 
 ## Morocco
 
