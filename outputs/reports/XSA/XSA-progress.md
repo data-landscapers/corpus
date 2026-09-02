@@ -5,7 +5,7 @@ period: 2025-09-01 to 2026-09-02
 place: XSA
 ledger_rows: 42
 not_held: 2
-record: 7ddd2c99bd9d
+record: f8bdcd478ce6
 ---
 
 # Southern Africa: progress report, September 2025 – September 2026
@@ -14,7 +14,7 @@ record: 7ddd2c99bd9d
 
 *Of 42 bodies, instruments and systems on this place's ledger, 23 changed position between 2025-09-01 and 2026-09-02, 9 did not, 8 carry no stated baseline, and 2 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 57 sources for this place in the window — 10 in the earlier half (2025-09 to 2026-03), 47 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 60 sources for this place in the window — 13 in the earlier half (2025-09 to 2026-03), 47 in the later (2026-04 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -78,7 +78,7 @@ The regulators' association's own year opened on process. It held the [first Fin
 | Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
 | Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted with six shared principles and seven areas of collaborative action; CRASA has not published the text (2026-08-05)](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Advanced |
-| Regional data governance harmonisation roadmap | Did not exist | [Policymakers, regulators and technical experts from eight Southern African states worked towards a roadmap for harmonising data governance frameworks, at a workshop convened by a UN agency with a continental digital body and a member state ministry, working from a data governance toolkit and undertaking national self-assessments](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance) | Advanced |
+| Regional data governance harmonisation roadmap | A first regional workshop devoted to digital, held at Antananarivo in September 2025 on data governance and electronic commerce | [Policymakers, regulators and technical experts from eight Southern African states worked towards a roadmap for harmonising data governance frameworks, at a workshop convened by a UN agency with a continental digital body and a member state ministry, working from a data governance toolkit and undertaking national self-assessments](https://www.unesco.org/en/articles/unesco-supports-southern-africa-harmonise-data-governance) | Advanced |
 | SADC One Network Area roaming framework | Reduced rates between Botswana and Namibia only (2024-08) | [Six states applying harmonised tariffs, with cuts between 10% and 98.6%](https://techafricanews.com/2026/03/13/botswana-and-five-sadc-countries-slash-roaming-tariffs-under-one-network-area-framework/) | Advanced |
 
 ### AI
@@ -149,7 +149,7 @@ The community's own instruments did not move. The Digital Transformation Strateg
 
 | Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
 |---|---|---|---|
-| SADC ICT Observatory | Named since at least 2018 as the destination for regional ICT indicators, with no published output held | [Still assembling its inputs; the draft SADC Regional ICT Facts and Figures Report and proposed 2030 broadband indicators under review, and MoUs on indicator-data sharing between national statistics offices, ministries and regulators not yet in place (2025-08)](https://www.sadc.int/latest-news/sadc-secretariat-convene-regional-workshop-strengthening-ict-statistics-and-enhancing) | No change |
+| SADC ICT Observatory | Named since at least 2018 as the destination for regional ICT indicators, with no published output held | [Still assembling its inputs; the draft SADC Regional ICT Facts and Figures Report and proposed 2030 broadband indicators under review, and MoUs on indicator-data sharing between national statistics offices, ministries and regulators not yet in place (2025-08)](https://www.sadc.int/latest-news/sadc-regional-workshop-closes-call-strengthen-ict-statistics-and-enhance-sadc-ict) | No change |
 
 ### Use of satellite data
 

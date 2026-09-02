@@ -3,10 +3,10 @@ title: Egypt — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: EGY
-ledger_rows: 208
+ledger_rows: 211
 not_held: 54
 indicators: 121
-record: b3ea18aac41c
+record: b8c980fe8f15
 ---
 
 # Egypt: progress report, September 2025 – September 2026

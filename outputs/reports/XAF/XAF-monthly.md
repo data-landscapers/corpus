@@ -3,9 +3,9 @@ title: Africa — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: XAF
-ledger_rows: 84
+ledger_rows: 85
 not_held: 3
-record: 58278dab124e
+record: b12fc5d63ed0
 ---
 
 # Africa: monthly update, August – September 2026

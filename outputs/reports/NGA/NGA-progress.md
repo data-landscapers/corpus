@@ -3,10 +3,10 @@ title: Nigeria — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: NGA
-ledger_rows: 315
+ledger_rows: 322
 not_held: 8
 indicators: 121
-record: 6dcccc62e37c
+record: bc6231ef7482
 ---
 
 # Nigeria: progress report, September 2025 – September 2026

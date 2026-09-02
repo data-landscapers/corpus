@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-09-01
+compiled: 2026-09-02
 place: DJI
 ledger_rows: 128
 not_held: 11
-record: 55d51ba91329
+record: c93d726ceb57
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-09-01 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (128 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (128 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -273,7 +273,7 @@ The base holds no digitalisation rows for Djibouti. What is on record of service
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border data corridor between Shanghai and Djibouti | [Planned](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Named by the signing minister as a success indicator of the LinkWise memorandum |
-| First national artificial-intelligence strategy | [In development](https://www.adi.dj/article/138846) | National forum on artificial intelligence convened, with media briefed to cover it |
+| First national artificial-intelligence strategy | [In development](https://www.lanation.dj/premier-forum-national-sur-lintelligence-artificielle-djibouti-prend-le-virage-de-la-revolution-technologique/) | First national artificial-intelligence forum opened, 2 September 2026 |
 | MAZU-Djibouti AI weather early-warning system | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Version 2.0 handed over on the sidelines of the World AI Conference, Shanghai |
 | Instrument governing artificial-intelligence systems in public use | ***Not held, searched 2026-01-29 - the Digital Code carries no artificial-intelligence provision and the national strategy remained in draft*** | No instrument on record |
 

@@ -4,7 +4,7 @@ compiled: 2026-09-02
 place: LSO
 ledger_rows: 158
 not_held: 4
-record: e6e07f8b4d85
+record: 5aa4a7ddde27
 ---
 
 # Lesotho: status report
@@ -240,7 +240,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 | NISSA social registry | [Implemented](https://dpi.africa.com/lesothos-digital-leap/) | Child-centred redesign piloted in Mafeteng District |
 | Registrar of Companies | [Implemented](https://businessregistrations.gov.ls/law/companies-act-2011.html) | Established by the Companies Act 2011 |
 | Taxpayer register | [Implemented](https://www.rsl.org.ls/sites/default/files/2026-04/VAT%20-%20E-Invoicing%20Regulations%20No.25%20of%202026%20%283%29_0.pdf) | Authorised by section 7(1) of the Revenue Authority Act 2001 |
-| National address register | ***Not held, searched 2026-08-31*** | Officials stated no spatial-data policy exists, May 2026 |
+| National address register | ***Not held, searched 2026-08-31*** | Regulator benchmarking visit to a neighbouring implementation, September 2026 |
 
 ### Sectoral management information systems
 

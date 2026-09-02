@@ -3,10 +3,10 @@ title: Ghana — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: GHA
-ledger_rows: 185
+ledger_rows: 186
 not_held: 9
 indicators: 121
-record: 117470442984
+record: 37ecd9c6e25f
 ---
 
 # Ghana: progress report, September 2025 – September 2026
