@@ -1,0 +1,120 @@
+---
+title: Central Africa — progress report, September 2025 – September 2026
+compiled: 2026-09-02
+period: 2025-09-01 to 2026-09-02
+place: XCA
+ledger_rows: 17
+not_held: 0
+record: ac196a0c1afa
+---
+
+# Central Africa: progress report, September 2025 – September 2026
+
+*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+
+*Of 17 bodies, instruments and systems on this place's ledger, 17 changed position between 2025-09-01 and 2026-09-02, 0 did not, 0 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+
+*Shape check, run before the comparison: 53 sources for this place in the window — 15 in the earlier half (2025-09 to 2026-03), 38 in the later (2026-04 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+
+**Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+## Summary of the period
+
+<!-- narrative: summary -->
+CEMAC's monetary union is the layer that delivers: over the period it launched a community-wide interoperable QR-code payment standard, put SYSTAC 2 into production for retail payments across all six member states, and joined PAPSS, alongside a [regional financial-inclusion strategy targeting 60% inclusion by 2029](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf). ECCAS, the wider political community covering the same six core states, has the weaker record — its 1983 free-movement protocol remains unimplemented four decades on, against CEMAC's own free-movement act only beginning enforcement in 2024 and still refused by two members. A telecommunications-regulators body, ARTAC, produced the period's most consequential single institutional output: a data-sovereignty recommendation aimed at satellite constellations and a roaming mandate dated to June 2026. Statistical harmonisation moved on two fronts — labour and industrial production — both still short of an adopted instrument.
+<!-- /narrative -->
+
+## Institutions and mandates
+
+### Regional collaboration
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| Africa CDC Central Africa health-data sharing roadmap | Did not exist | [Roadmap sets a six-week deadline for drafting an inter-country convention on cross-border health-data sharing and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of nine Central African member states that have yet to sign the underlying protocol, after experts worked through data-protection, confidentiality and sovereignty obstacles](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) | Advanced |
+| ARTAC (Central African Telecommunications Regulators Conference) | A standing regional regulators' body with no dated recent record held | [10th Ordinary Session (Kinshasa) adopted revised statutes, internal regulations and financial rules, extended the Executive Committee's mandate to December 2027, recommended a harmonised NGSO framework requiring satellite providers (Starlink, OneWeb, Amazon Kuiper named) to establish terrestrial gateways within ARTAC's jurisdiction and keep citizens' data stored within Africa, and mandated free roaming across Central Africa by 30 June 2026; separately co-organised a sub-regional fibre-infrastructure mapping workshop with the ITU in N'Djamena, 15-18 December 2025](https://techreviewafrica.com/news/4133) | Advanced |
+
+<!-- narrative: institutions -->
+Both rows on this section are new to the ledger this period. ARTAC's Kinshasa session did more than institutional housekeeping: its NGSO recommendation is a data-sovereignty position aimed squarely at Starlink, OneWeb and Amazon Kuiper, and its free-roaming mandate carries a dated deadline of 30 June 2026 that the base holds no confirmation was met. Africa CDC's health-data roadmap for Central Africa is earlier in its life — a workshop output with two short deadlines still running and seven of nine member states yet to sign the underlying data-sharing protocol.
+<!-- /narrative -->
+
+## Instruments and harmonisation
+
+### Strategies, plans and policies
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| CEMAC Regional Financial Inclusion Strategy (SRIF) 2025-2029 | Did not exist; national financial-inclusion strategies existed only in Chad, Cameroon and the Central African Republic, and no member state had a national financial-education strategy | [Sets a financial-inclusion target of 60% by 2029 and 75% by 2032, against a 32% baseline in 2021; six strategic axes and 68 actions across 24 objectives, budgeted at FCFA 43.8bn; developed over 30 months with more than 200 stakeholders across the six member states, World Bank-financed via a regional-institutions capacity project](https://www.beac.int/wp-content/uploads/2025/02/Strat%C3%A9gie-R%C3%A9gionale-dInclusion-Financi%C3%A8re-de-la-CEMAC.pdf) | Advanced |
+
+### Legislation and regulation
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| CEMAC free-movement regime (Additional Act of 2019) | Additional act of 1 April 2019 exempts nationals of the six member states from visas for stays up to 90 days on presentation of a biometric national ID, CEMAC ID, biometric passport or approved CEMAC passport | [Five years after enactment, two national police instructions applied it for the first time, following the fourth CCPAC (Central African police chiefs' committee) security session in Yaoundé; Gabon and Equatorial Guinea are named as continuing to refuse application](https://invest-time.com/2024/09/25/libre-circulation-ouverture-cemac/) | Advanced |
+| ECCAS free-movement protocol (Annex VII, 1983 Treaty) | ECCAS founded 18 October 1983 by the former UDEAC members plus the CEPGL states, Angola and Sao Tome and Principe, carrying a free-movement-of-persons-and-goods annex from the outset | [Annex VII is found not effectively implemented over four decades, attributed to poor infrastructure and communication links, political instability and rivalry between heads of state, and routine roadblocks within and across borders; ECCAS itself hibernated 1992-1998](https://rsisinternational.org/journals/ijriss/articles/challenges-to-the-implementation-of-regional-integration-in-eccas-with-respect-to-the-free-movement-of-persons-and-goods) | Stalled |
+
+### Standards
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| CEMAC interoperable QR-code payment standard | Piloted nationally as Gabon's MaDigiPaie QR code, launched Libreville 9 December 2025 with more than 1,000 codes deployed at launch | [BEAC and GIMAC launched the community-wide interoperable QR code at Douala, letting any bank, microfinance or mobile-money app scan any merchant's code across all six states through GIMACPAY to EMVCo standards, with 24 institutions already in production as at 29 July; GIMACPAY carried 20.3m transactions worth FCFA 863bn in 2025 (+40% by volume) across 153 participants; a tariff-revision workshop opened 30 July, cutting interoperability tariffs and capping merchant payments at 1%, not yet in force (hoped for 1 January 2027); merchant payment remains under 1% of interoperable traffic (48,605 transactions, FCFA 9.7bn, Q1 2026)](https://gimac-afr.com/2025/12/09/cemac-madigipaie-revolutionne-leconomie-numerique/) | Advanced |
+| GIMAC PCI DSS v4.0.1 certification | Certified under a prior PCI DSS version | [GIMAC's card-data processing and transmission infrastructure recertified to PCI DSS v4.0.1](https://gimac-afr.com/2026/04/10/securite-des-paiements-le-gimac-renouvelle-avec-succes-sa-certification-pci-dss-v4-0-1/) | Advanced |
+
+### AI
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| AfroLeadership proposal to integrate AU data governance into CEMAC AI policy | Did not exist | [AfroLeadership argues the AU Data Policy Framework and a data-justice lens should shape how the CEMAC six approach AI governance, on the ground that AI systems process data at a scale existing governance mechanisms were not built for; the brief itself frames CEMAC as the regional economic community least represented in the wiki's AI material](https://afroleadership.org/de-la-gouvernance-des-donnees-a-la-gouvernance-de-lia-au-sein-de-la-cemac-integrer-le-cadre-politique-de-lua-en-matiere-de-donnees-et-la-justice-des-donnees/) | Advanced |
+
+<!-- narrative: instruments -->
+CEMAC's two 2019-era free-movement instruments sit at opposite ends of the delivery spectrum from ECCAS's: the CEMAC additional act only reached national implementing instructions in 2024, five years after enactment, and two of six members still decline to apply it, while the older ECCAS protocol has gone unimplemented since 1983. The financial-inclusion strategy and the CEMAC QR-code standard are the period's clearer advances, both carrying dated targets and, in the QR standard's case, live transaction figures (20.3m transactions, FCFA 863bn in 2025) rather than announcements alone — though the QR standard's own tariff revision is not yet in force. The AfroLeadership AI-governance proposal remains exactly that: a civil-society brief, not a CEMAC decision.
+<!-- /narrative -->
+
+## Shared systems and infrastructure
+
+### Connectivity
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| Central Africa Peering Forum | Did not exist | [Central Africa's own regional peering event, covering peering, interconnection, routing security and RPKI, closing a 2026 calendar that already ran West Africa's forum in Cotonou (June) and the continental AfPIF in Kigali (August)](https://tech.africa/capf-2026/) | Advanced |
+
+### Data Storage
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| PIDA data-centre infrastructure prospectus (ECCAS) | Did not exist | [The AU's Programme for Infrastructure Development in Africa (PIDA) published a project prospectus for data-centre infrastructure development framed at ECCAS/regional level, underpinning the digital economy; no financing, sponsor or timetable is stated in the prospectus itself](https://au-pida.org/prospectus/brochure-onepage.php?id=17) | Advanced |
+
+### Cybersecurity
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| ITU regional Cyberdrill (Central Africa) | Twelve prior editions held | [13th ITU regional Cyberdrill convened agencies and defence forces from across Central Africa to test cross-border incident response; Congo's Prime Minister framed national cybersecurity as a sovereignty question at the opening, and Congo's ANSSI is named as the government's technical arm; ITU's own loss and attack-rate figures cited at the opening are not independently held; a first Central Africa cybersecurity conference was separately announced for Brazzaville in June 2026, with no further detail published](https://gouvernement.cg/cybersecurite-des-experts-de-la-sous-region-renforcent-les-strategies-de-riposte/) | Advanced |
+
+### Data Exchange
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| I-CEMAC (INTERPOL border-management project) | Project launched 2019, targeting extension of INTERPOL's I-24/7 network and databases to 40 border points and modernisation of all six CEMAC national INTERPOL bureaux | [Gabon completed four border posts with automated database searches (Eboro, Myo-Kye, Leconi, Port-Gentil, March 2024); Equatorial Guinea extended I-24/7 to ten sites including the Malabo, Bata and Mongomeyen airports; Cameroon's connected sites (Douala/Yaounde) logged more than 6,000 searches in 72 hours](https://www.interpol.int/en/How-we-work/Border-management/Projects/Project-I-CEMAC) | Advanced |
+
+### Digital Payments and Fintech
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| BEAC accession to PAPSS | Not a member | [BEAC formally joined PAPSS, extending the continental real-time cross-border settlement rail into the CEMAC zone, with CEMAC banks' integration targeted by end-2026; as at 25 August, Cameroonian businesses report no operational access, and no public list of operational Cameroonian banks, open corridors, tariffs or ceilings has been published](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) | Advanced, slipped |
+| SYSTAC 2 (BEAC regional retail-payment platform) | A retail clearing platform in service since 2007 | [Centralised, fully online ISO 20022-compliant platform for transfers, direct debits, cheques and card payments across all six CEMAC states, with strengthened AML/KYC and a dedicated dispute-resolution module; the instant-payments module is explicitly not yet in production, no date given; the RTGS successor SYGMA V10 is described only as coming "in the coming weeks", also undated](https://www.beac.int/wp-content/uploads/2026/08/CP_MISE-EN-PROD-SYSTAC.pdf) | Advanced |
+
+### National statistics
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| BEAC 2026 balance-of-payments data collection | Did not exist | [BEAC launched the data-collection phase of its 2026 balance-of-payments exercise across the CEMAC zone; no completion date or published output yet](https://www.adiac-congo.com/content/balance-des-paiements-2026-la-collecte-des-donnees-lancee-169853) | Advanced |
+| CEMAC harmonised labour-statistics framework | No CEMAC member state runs a regular labour force survey, on the organisers' own statement | [World Bank-financed HISWACA workshop, with ILO technical support, produced a regional methodological guide and a preliminary roadmap for quarterly labour-force surveys across the six member states; CEMAC put informal employment above 65% of jobs bloc-wide and unemployment ranging from 1.1% in Chad to nearly 20% in Gabon; a parallel CEMAC/AFRISTAT industrial-production-index workshop (Douala, 10-14 August) worked toward a binding community statistical regulation](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301) | Advanced |
+
+### Use of satellite data
+
+| Body, instrument or system | At 2025-09-01 | At 2026-09-02 | Movement |
+|---|---|---|---|
+| CREWS Central Africa (hydrometeorological early-warning network) | Did not exist | [Sub-regional observing and forecasting network feeding the WMO's WIS/WHOS systems, with RSMC-Yaounde issuing regional severe-weather guidance and an ECCAS Situation Room operational at CAPC-AC Douala since September 2024, part of the continental AMHEWAS early-warning system; co-financed by the EU's SEWA programme (US$2m) and the World Bank (US$10m, across Chad, the Central African Republic, Rwanda and the DRC)](https://wmo.int/activities/projects/project-portfolio/seamless-approach-forecasting-and-warning-meteorological-hydrological-and-climate-extremes-crews) | Advanced |
+
+<!-- narrative: systems -->
+Payments infrastructure carries the period's clearest delivery: SYSTAC 2 replaced a 2007-vintage retail-clearing platform across all six states, and BEAC's PAPSS accession extends a continental settlement rail into CEMAC, though a month after accession Cameroonian businesses report no working access to it — the qualifying clause the ledger records as "slipped". I-CEMAC's border-data extension and the CREWS hydrometeorological network are the two systems with the longest run of delivery evidence behind them, both citing site-level completion figures rather than plans. Statistics moved on two separate tracks — a balance-of-payments collection and a labour-statistics framework — with the latter's own workshop conceding that no member state currently runs a regular labour force survey. The Central Africa Peering Forum and the PIDA data-centre prospectus are both still announcements: a scheduled event and a published prospectus, neither yet a delivered system.
+<!-- /narrative -->
