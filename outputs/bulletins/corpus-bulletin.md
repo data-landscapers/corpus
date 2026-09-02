@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 02-09-2026 at 14:09 — Covering sources published on 1 and 2 September 2026
 window_start: 2026-09-01
 window_end: 2026-09-02
-items: 77
+items: 80
 collected_to: 2026-09-02 14:09
 compiled: 2026-09-02 14:27
 ---
@@ -619,6 +619,14 @@ Nigeria's sovereign wealth fund announced plans for KASI, a 100MW artificial-int
 
 </div>
 
+<div class="bulletin-item" data-places="MUS" markdown="1">
+
+**[Computer Support (Central Backup Service)](https://cisd.govmu.org/Pages/support.aspx)** — Central Information Systems Division (CISD), Ministry of Information Technology, Communication and Innovation, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a>
+
+Mauritius runs a central offsite backup service for government electronic media out of the central information systems division, alongside technical support and equipment commissioning for ministries and departments. It is the state's standing backup arrangement; the page publishes no capacity, retention period or restoration-test record.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="ZAF" markdown="1">
 
 **[Wiocc lands US$300-million from Saudi and African backers](https://techcentral.co.za/wiocc-300-million-afc-vision-invest/285628/)** — TechCentral, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
@@ -1019,6 +1027,14 @@ Summarised under [Public debate and participation in policymaking](#public-debat
 
 ### Sectoral management information systems
 
+<div class="bulletin-item" data-places="MUS" markdown="1">
+
+**[Justice](https://govmu.org/EN/infoservices/justiceanddefence/Pages/justice.aspx)** — Government of Mauritius, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a>
+
+The government's justice portal sets out the constitutional and institutional frame — separation of powers, a single-structure judiciary, a human rights action plan — and is the public face of a sector whose digital systems sit in the 2026-2031 investment programme rather than in service. It describes the aim; no court case-management system is named on it.
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
 **[نائب وزير الصحة يترأس اجتماع مشروع «صندوق الجوائح» / Deputy Minister of Health chairs Pandemic Fund project meeting](https://www.maspero.eg/egypt/2026/09/01/985302/%D9%86%D8%A7%D8%A6%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%8A%D8%AA%D8%B1%D8%A3%D8%B3-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B5%D9%86%D8%AF%D9%88%D9%82-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D8%A6%D8%AD)** — National Media Authority (Maspero), 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
@@ -1120,6 +1136,14 @@ A career profile of Nigerian geospatial engineer Kayode Adeniyi that carries unu
 **[Côte d'Ivoire : Koffi Nusiko Dabla crée un marché virtuel pour les agrotransformateurs](https://www.wearetech.africa/fr/fils/tech-stars/cote-d-ivoire-koffi-nusiko-dabla-cree-un-marche-virtuel-pour-les-agrotransformateurs)** — wearetech.africa, 2 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CIV/" title="CIV">Côte d'Ivoire</a>
 
 A profile of Koffi Nusiko Dabla, Togolese and based in Côte d'Ivoire, who co-founded Afoomarket in 2021 as an online marketplace for African agro-processors. Sellers run their own storefront, and the platform carries ordering, card and mobile money payment, a local delivery partner network, seller vetting and WhatsApp support, so a small producer gets a commercial presence online without building the infrastructure for one. <span class="bulletin-item__also">*Also under [Innovation ecosystem](#innovation-ecosystem).*</span>
+
+</div>
+
+<div class="bulletin-item" data-places="MUS" markdown="1">
+
+**[Virtual Reality in Primary Schools (VRPS)](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/)** — Mauritius Digital Promotion Agency, 1 September 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/MUS/" title="MUS">Mauritius</a>
+
+Mauritius is putting immersive virtual reality into Grade 4 to 6 classrooms in state primary schools, across mathematics, science, history and geography and health and physical education. The digital promotion agency implements it for the technology ministry with the education ministry, the Rodrigues Regional Assembly and a university immersive media laboratory. No school count or pupil reach is published.
 
 </div>
 
