@@ -31,7 +31,7 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 from copy_lib import copy  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -781,7 +781,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         site_base=SITE_BASE, year=edition[:4],
         record=rec,
     )
-    return doc, stem_html, stem_pdf, edition, rec
+    # Both passes go through this: the served page needs the `target`, and the PDF pass
+    # is the same string with absolute hrefs, where the attribute is inert rather than
+    # wrong. One call rather than two keeps the page and the artefact the same document.
+    return external_links(doc), stem_html, stem_pdf, edition, rec
 
 
 def held_edition(md_path: Path, out_dir: Path, rec: str) -> str | None:

@@ -26,6 +26,7 @@ a 404 rather than a sentence that reads badly.
 """
 from __future__ import annotations
 
+import re
 from datetime import date
 
 SITE_BASE = "https://corpus.data-landscapers.io"
@@ -208,6 +209,100 @@ def foot(depth: int = 1, year: int | None = None) -> str:
       </div>
     </div>
   </footer>"""
+
+
+
+# ---------------------------------------------------------------------------
+# External links open in a new tab
+# ---------------------------------------------------------------------------
+
+# The hosts that count as *this site* — a link to one of these is navigation
+# and stays in the tab the reader is already in. Everything else is somebody
+# else's page and gets `target="_blank"`.
+#
+# `data-landscapers.io` is in the list on purpose. It is the same site family:
+# the masthead logo, the main-site nav row and the footer link all point at it,
+# and those are the reader's way *back*, not a departure. A rule that opened
+# them in a new tab would spawn one every time somebody clicked the logo. One
+# constant, so the judgement sits in one place if it is ever the wrong one.
+INTERNAL_HOSTS = {
+    "corpus.data-landscapers.io",
+    "data-landscapers.io",
+    "www.data-landscapers.io",
+}
+
+# Opening tags only. `href` is matched in either quote style; an `href` built by
+# JavaScript (the catalogue's result rows, `datatable.js`'s source column) is a
+# string concatenation rather than an attribute and does not match — both of
+# those already write their own `target`, which is also why the already-has-one
+# test below leaves such tags alone.
+_A_TAG = re.compile(r"<a\b[^>]*>", re.I)
+_HREF = re.compile(r"""\bhref\s*=\s*(?:"([^"]*)"|'([^']*)')""", re.I)
+_TARGET = re.compile(r"\btarget\s*=", re.I)
+_REL = re.compile(r"""\brel\s*=\s*(?:"([^"]*)"|'([^']*)')""", re.I)
+
+
+def is_external(href: str) -> bool:
+    """Does this href leave the site?
+
+    Absolute `http(s)` and protocol-relative URLs whose host is not one of
+    `INTERNAL_HOSTS`. Everything else is not: a relative path, a fragment, a
+    `mailto:` or `tel:` (which open no tab at all), and the site's own absolute
+    URLs — which are everywhere, because the chrome and every cross-page link
+    are written site-absolute."""
+    u = href.strip()
+    if u.startswith("//"):
+        host = u[2:]
+    else:
+        m = re.match(r"(?i)https?://(.*)", u)
+        if not m:
+            return False
+        host = m.group(1)
+    host = host.split("/")[0].split("?")[0].split("#")[0].split("@")[-1]
+    return host.split(":")[0].lower() not in INTERNAL_HOSTS
+
+
+def external_links(html: str) -> str:
+    """Give every external anchor in a finished page a `target` and a `rel`.
+
+    **A post-pass over the whole document, not a rule in each emitter.** The
+    site writes anchors from nine places — six page builders, `render.py`'s two
+    passes, and the Markdown converter that turns a report's source links into
+    HTML. The last of those is inside a library: there is no call site that
+    would reach it. So the rule goes at the end, where the page is a single
+    string and every anchor in it is visible at once, and a tenth emitter
+    inherits it by calling this rather than by remembering a convention.
+
+    `rel="noopener"` travels with `target="_blank"` and is not optional:
+    without it the opened page gets a `window.opener` handle back onto ours.
+    `noreferrer` is deliberately *not* added — a publisher we send a reader to
+    should be able to see where that reader came from.
+
+    An anchor that already states a `target` is left exactly as it is: the two
+    JavaScript-drawn tables set their own, and an emitter that one day wants
+    `_self` on an outbound link should be able to say so and be believed."""
+    def fix(m: "re.Match[str]") -> str:
+        tag = m.group(0)
+        href = _HREF.search(tag)
+        if href is None:
+            return tag
+        url = href.group(1) if href.group(1) is not None else href.group(2)
+        if not is_external(url):
+            return tag
+        if _TARGET.search(tag):
+            return tag
+        rel = _REL.search(tag)
+        add = ' target="_blank"'
+        if rel is None:
+            add += ' rel="noopener"'
+        else:
+            vals = (rel.group(1) if rel.group(1) is not None else rel.group(2)).split()
+            if "noopener" not in [v.lower() for v in vals]:
+                tag = tag[:rel.start()] + 'rel="%s"' % " ".join(vals + ["noopener"]) + tag[rel.end():]
+        # Before the closing `>`, dropping whatever whitespace preceded it.
+        return tag[:-1].rstrip() + add + ">"
+
+    return _A_TAG.sub(fix, html)
 
 
 if __name__ == "__main__":

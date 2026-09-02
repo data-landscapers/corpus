@@ -37,7 +37,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy  # noqa: E402
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -250,7 +250,8 @@ def main() -> int:
     csv_path, _ = editions.publish(
         (sdir / "all-nonstate.csv").read_bytes().replace(b"\r\n", b"\n"),
         out, "all-nonstate", ".csv")
-    (out / "index.html").write_text(render(agg, names, csv_path.name), encoding="utf-8")
+    (out / "index.html").write_text(external_links(render(agg, names, csv_path.name)),
+                                    encoding="utf-8")
     stale = out / "all.html"
     if stale.exists():                 # the table's own page, folded into index.html
         stale.unlink()

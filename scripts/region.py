@@ -38,7 +38,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 import country  # noqa: E402 — the per-page machinery this reuses wholesale
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -241,7 +241,7 @@ def build(code: str) -> list[Path]:
         cols, ys, amounts = [], [], []
         finance_section = country.FINANCE_EMPTY.format(name=name)
 
-    (out_dir / "index.html").write_text(REGION.format(
+    (out_dir / "index.html").write_text(external_links(REGION.format(
         tracked=country.tracked(code)[0],
         sources=f"{n_place:,}", cat_total=f"{n_all:,}", cat_csv=cat_csv,
         catalogue_intro=copy_inline("country", "catalogue-intro",
@@ -250,16 +250,16 @@ def build(code: str) -> list[Path]:
         reports=country.report_rows(country.report_editions(code), code),
         finance_section=finance_section,
         styles=styles(2, "home.css", "country.css"), ga=ga(),
-        **common), encoding="utf-8")
+        **common)), encoding="utf-8")
 
     written = [out_dir / "index.html", out_dir / cat_csv]
 
     if fin:
-        (out_dir / "finance.html").write_text(FINANCE.format(
+        (out_dir / "finance.html").write_text(external_links(FINANCE.format(
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "home.css", "country.css", "datatable.css"),
-            ga=ga(), **csv_names, **common), encoding="utf-8")
+            ga=ga(), **csv_names, **common)), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
 

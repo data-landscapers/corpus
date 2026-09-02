@@ -54,7 +54,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT_DIR = CORPUS / "content"
@@ -212,7 +212,7 @@ PAGES = [
 def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str,
           canonical: str, depth: int, prefix: str = "", body_class: str = "") -> int:
     out_dir.mkdir(parents=True, exist_ok=True)
-    (out_dir / "index.html").write_text(PAGE.format(
+    (out_dir / "index.html").write_text(external_links(PAGE.format(
         h1=h1, title=title, description=description, canonical=canonical,
         base=SITE_BASE, main=MAIN_SITE, body_class=body_class,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
@@ -220,7 +220,7 @@ def build(md_path: Path, out_dir: Path, *, h1: str, title: str, description: str
         body=indent(prefix + convert(md_path)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),
-    ), encoding="utf-8")
+    )), encoding="utf-8")
     return len(md_path.read_text(encoding="utf-8").split())
 
 

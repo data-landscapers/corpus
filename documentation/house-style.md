@@ -35,6 +35,14 @@ The header row is a fixed budget too: at 980px the wordmark, a 2rem gap and seve
 
 In-page jump navigation (category bars, report section lists, article TOCs) is one idiom — the bulletin's terracotta small caps: mono 0.72rem uppercase letter-spaced links in `--accent` (hover `--accent-dk`), separated by middots, closed below by a single 1px rule. Not dashes, not grey, not a second style of bar. The distinction from site chrome holds: the corpus-nav is the same voice but grey (`--ink-light`), taking the accent only on hover/active — terracotta all the time marks the page's own contents, grey marks the site's.
 
+## Links
+
+**A link that leaves the site opens in a new tab; a link that stays in it does not.** Every page is a reference — a country page, a report, the catalogue — and its links are citations. A reader who follows one has not finished with the page they were on, and a source that replaces it costs them their place, their scroll position and, on a filtered catalogue view, the state in the URL.
+
+*This site* is `corpus.data-landscapers.io` **and** `data-landscapers.io`. The main site is the same site family, not a destination: the masthead logo, the main-site nav row and the footer link are the reader's way back out, and a rule that opened them in a new tab would spawn one on every click of the logo. `chrome_lib.INTERNAL_HOSTS` is the list, and is the only place the judgement is stated.
+
+`chrome_lib.external_links()` applies it as a **post-pass over the finished page**, not as a rule in each emitter. Anchors are written from nine places — the six page builders, `render.py`'s two passes, and the Markdown converter that turns a report's source links into HTML — and the last of those is inside a library with no call site to reach. So the rule runs where the page is one string and every anchor in it is visible at once. `target="_blank"` carries `rel="noopener"`; it does not carry `noreferrer`, because a publisher we send a reader to should see where that reader came from. An anchor that already states a `target` is left alone — the catalogue's result rows and `datatable.js`'s source column set their own. `scripts/test_external_links.py` holds the cases, in both directions: an internal link that opens a tab is as wrong as an outbound one that does not, and neither is visible in a diff of 55,000 anchors.
+
 ## Boundaries
 
 Three devices, and no others. A 1px `--rule` separates items and closes headers. A **1px `--accent`** top rule with a display h2 (`.section-heading`) opens a major page section — terracotta and thin since 2026-08-24, where it was 2px ink: the heading is already bold, 1.45rem and display, so the line only has to mark where a section starts and does not need to carry weight of its own. (The 2px ink rule survives in one place, `table.pivot tfoot` in `country.css`, where it divides a totals row from its data. That is a table device, not a page divider.) A 3px `--accent` left border marks quoted or apparatus matter (blockquote, standfirst, callout). Fills: `--paper-warm` for apparatus only, never behind content. Radius 2px on controls (buttons, inputs, badges), 3px on containers (table wraps, cards, code blocks) — the house sets both, and neither is a licence for a third.
@@ -61,4 +69,5 @@ The screen page and the PDF are one document; `report.css`'s `@page` / `@media p
 4. Jump nav, if any, in the mono-middot idiom.
 5. Fold budget met at 1366×768.
 6. No new colours, faces, radii, or inline identity styles.
-7. If it touched a shared asset: changed upstream, copied down, marker updated, lint run.
+7. Its finished HTML goes through `chrome_lib.external_links()` before it is written.
+8. If it touched a shared asset: changed upstream, copied down, marker updated, lint run.

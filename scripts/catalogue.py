@@ -27,7 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy  # noqa: E402
 import taxonomy_lib  # noqa: E402
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -930,7 +930,7 @@ def main() -> int:
                        ga=ga(),
                        chrome=CHROME, body=BODY, foot=FOOT,
                        script=SCRIPT.replace("{ver}", stamp(data_js)))
-    (out_dir / "index.html").write_text(html, encoding="utf-8")
+    (out_dir / "index.html").write_text(external_links(html), encoding="utf-8")
 
     # publish the name shards, copying only what changed so an unchanged shard
     # keeps its mtime and stays out of the diff

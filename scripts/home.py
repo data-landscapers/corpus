@@ -54,7 +54,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, foot, ga, styles  # noqa: E402
+from chrome_lib import chrome, external_links, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -500,7 +500,7 @@ def build_countries() -> Path:
     )
     out = SITE / "countries"
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(doc, encoding="utf-8")
+    (out / "index.html").write_text(external_links(doc), encoding="utf-8")
     return out / "index.html"
 
 
@@ -600,7 +600,7 @@ def build_topics() -> Path:
     )
     out = SITE / "topics"
     out.mkdir(parents=True, exist_ok=True)
-    (out / "index.html").write_text(doc, encoding="utf-8")
+    (out / "index.html").write_text(external_links(doc), encoding="utf-8")
     return out / "index.html"
 
 
@@ -632,7 +632,7 @@ def build() -> Path:
     )
     SITE.mkdir(parents=True, exist_ok=True)
     out = SITE / "index.html"
-    out.write_text(doc, encoding="utf-8")
+    out.write_text(external_links(doc), encoding="utf-8")
     return out
 
 
