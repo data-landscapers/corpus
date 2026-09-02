@@ -9,7 +9,7 @@ status: in force; Corpus-owned
 
 **One layer, several processes.** Country reports, region reports (six `X__` codes, which are first-class places) and topic reports are all built and publishing. This file holds what all of them call, so a new process costs a run procedure and a skeleton rather than a re-derivation. Each process owns its unit, its outstanding list, its section layout, its skeleton and its initialisation shell; everything below is common and lives here in one copy.
 
-**A process may issue fewer than three documents.** A region issues the **progress report** only, and `scripts/report-render.py` refuses the other two for an `X__` unit rather than making every caller branch.
+**A process may issue fewer than three documents.** A region issues a **monthly update and a progress report, never a status** *(monthly added 2026-09-02)*, and `scripts/report-render.py` refuses the status for an `X__` unit rather than making every caller branch.
 
 ---
 
