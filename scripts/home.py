@@ -185,18 +185,18 @@ def region_boxes(by_place: dict[str, int]) -> str:
     """Same shape as country_boxes, over the `X`-prefixed region and bloc
     codes rather than countries (Bill, 2026-08-11, item 8).
 
-    **The box opens the catalogue filtered to that place, not a landing page**
-    *(2026-08-21)*. It used to link `/regions/{code}/`, and nothing has ever
-    written that tree — `country.py` builds the 54 countries and `RENDER.md`
-    Step 4 says in as many words that the regions do not get a country-style
-    page. All eight boxes 404'd on the live home page. The catalogue reads its
-    filter state off the URL hash, so `#places={code}` lands on exactly the
-    records the box is counting, which is also the closer match: the number on
-    the box is a catalogue count, not a report."""
+    **The box opens the region's own page, not the catalogue** *(2026-09-02)*.
+    It opened the catalogue filtered to that place from 2026-08-21 to today,
+    because nothing had ever written a `/countries/{code}/` tree for a region
+    and all eight boxes 404'd against it — `country.py` built the 54 countries
+    only, and `RENDER.md` Step 4 said in as many words that regions did not get
+    a country-style page. `scripts/region.py` now builds one, in the same
+    `site/countries/` directory the country pages already live in, so the box
+    can link there like a country box does."""
     codes = sorted(c for c in by_place if c.startswith("X"))
     top = max(by_place[c] for c in codes) or 1
     return "\n".join(
-        f'<a class="box" href="{SITE_BASE}/catalogue/#places={c}" title="{c}"'
+        f'<a class="box" href="{SITE_BASE}/countries/{c}/" title="{c}"'
         f' style="--fill:{by_place[c] / top:.3f}">'
         f'<span class="box__k">{e(REGION_NAMES.get(c, c))}</span>'
         f'<span class="box__n">{by_place[c]:,}</span></a>'
@@ -340,11 +340,15 @@ TEMPLATE = """<!DOCTYPE html>
     <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
     <p class="section-intro">{countries_intro}</p>
     <p class="section-intro">{regions_intro}</p>
-    <p class="section-intro"><a href="{base}/countries/">Browse all 54 countries &rarr;</a></p>
 
     <h2 class="section-heading" id="topics"><a href="{base}/topics/">Topics</a></h2>
     <p class="section-intro">{topics_intro}</p>
-    <p class="section-intro"><a href="{base}/topics/">Browse all {ntopics} topics &rarr;</a></p>
+
+    <h2 class="section-heading" id="finance"><a href="{base}/finance/">Finance</a></h2>
+    <p class="section-intro">{finance_intro}</p>
+
+    <h2 class="section-heading" id="catalogue"><a href="{base}/catalogue/">Catalogue</a></h2>
+    <p class="section-intro">{catalogue_intro}</p>
 
     <div class="colophon">
       <strong>About this page</strong>
@@ -425,12 +429,9 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    <!-- An h1, not the h2.section-heading the home page uses. This is the page's
-         own title rather than one section of several, so it takes the page-title
-         type and none of the section rule — which was drawing a terracotta line
-         above the first thing on the page, where there is nothing to divide it
-         from. It also gives the page the h1 it was missing. -->
-    <h1>Countries</h1>
+    <!-- h2, matching Regions below (Bill, 2026-09-02) — both are sections of one
+         page, not a page title, so neither takes an h1. -->
+    <h2 class="section-heading" id="countries">Countries</h2>
     <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
 {countries}
@@ -440,9 +441,8 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
     <!-- The region matrix, moved off the home page on 2026-09-02 (Bill) to sit
          below the countries it does not overlap with, rather than above them
          where a reader wanting a country had to scroll past it. Same heading
-         level as the page's own h1 would be wrong — this is a second section
-         of the page, not a second page — so it takes the home page's own
-         .section-heading treatment instead. -->
+         level as Countries above (Bill, 2026-09-02) — the two are sections of
+         one page, not a page and a sub-page. -->
     <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">{regions_intro}</p>
     <div class="boxes boxes--regions">
@@ -622,7 +622,8 @@ def build() -> Path:
         countries_intro=copy_inline("home", "countries-intro"),
         regions_intro=copy_inline("home", "regions-intro"),
         topics_intro=copy_inline("home", "topics-intro"),
-        ntopics=len(taxonomy_lib.keys()),
+        finance_intro=copy_inline("home", "finance-intro"),
+        catalogue_intro=copy_inline("home", "catalogue-intro"),
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")
                      if "source" not in s else

@@ -302,11 +302,12 @@ def main():
         print(f"stage 5 — report tables ({len(units)} units):")
         declined = []
         for u in units:
-            # `--doc all`, not the default status report *(2026-08-14)*. Each unit issues three
-            # living documents and a moved row can show in any of them, so re-rendering only the
-            # live one leaves the monthly and the progress report behind their own ledger — which
-            # is exactly what check J then reports. `--doc all` means all of *this* unit's
-            # documents, so a region still renders only its progress report.
+            # `--doc all`, not the default status report *(2026-08-14)*. Each unit issues its own
+            # set of living documents and a moved row can show in any of them, so re-rendering only
+            # the live one leaves the others behind their own ledger — which is exactly what check
+            # J then reports. `--doc all` means all of *this* unit's documents, so a country
+            # renders three and a region renders two (a monthly and a progress report, never a
+            # status — `REPORT-REGION.md`).
             if run_soft("report-render.py", "--unit", u, "--doc", "all", "--render"):
                 declined.append(u)
         if declined:

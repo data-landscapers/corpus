@@ -94,7 +94,7 @@ python scripts/lint-scope.py                               # the whole backlog
 
 3. **Ask the same source the baseline question** — see *Maintaining the status baseline* below. Asked of the record already open, independent of step 2.
 4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script — pass them in regardless.)
-5. **Rebuild the unit's documents**: `--doc all`. The renderer decides which documents the unit issues — a region issues the progress report only; a unit whose status report carries `built_by: STATUS-INIT` does not issue a rendered status report — so this line is the same on every unit. A build that changes nothing prints `unchanged`.
+5. **Rebuild the unit's documents**: `--doc all`. The renderer decides which documents the unit issues — a region issues a monthly update and a progress report, never a status; a unit whose status report carries `built_by: STATUS-INIT` does not issue a rendered status report either — so this line is the same on every unit. A build that changes nothing prints `unchanged`.
 
    **No fact is added without a source.** The citation goes on the sentence carrying the fact — a linked opening sentence does not source the three that follow. Three kinds of sentence rightly carry no link: a statement of what the base does **not** hold; a qualification of a fact already cited in the same sentence; and the single connecting sentence the register allows. A summary block is where this goes wrong most easily.
 

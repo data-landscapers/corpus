@@ -40,9 +40,9 @@ draws on, `compiled:` the day it last changed, and the two always agree.
 **One renderer, a profile per process.** A country unit takes its sections from the ten Level-1
 chapters of `lookups/taxonomy.csv`, in that file's own order, and issues all three documents;
 an `X__` region unit reads `lookups/report-region-sections.csv`,
-calls its objects bodies rather than systems, and issues **the progress report only**
-(`REPORT-REGION.md`). Everything else — the ledger, the markers, the windows, the checks — is the
-same code on the same schema.
+calls its objects bodies rather than systems, and issues **a monthly update and a progress
+report, never a status report** (`REPORT-REGION.md`). Everything else — the ledger, the markers,
+the windows, the checks — is the same code on the same schema.
 
 Modes:
   --links     slug -> URL for every source slug in the ledger, resolved through `index/`.
@@ -94,10 +94,13 @@ COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 
 # **One renderer, one profile per report process** (`documentation/report-layer.md` §5). What differs
 # between a country report and a region one is its section map, what its object column is called,
-# and which of the three documents it issues — not the rendering. A region issues the **progress
-# report only** for now (`REPORT-REGION.md`); asking for the other two is refused here rather
-# than branched around by every caller, so `REPORT-MONTHLY.md` runs over every initialised unit
-# and a region yields its one document.
+# and which of the three documents it issues — not the rendering. A region issued the **progress
+# report only** until 2026-09-02 (`REPORT-REGION.md`); it now issues the monthly too, on the same
+# renderer, because `render_monthly()` never assumed a taxonomy section map or a status report to
+# defer to — it already read `sections(unit)` and `profile(unit)` for both. Only the status report
+# stays refused: no region has ever had one to open, and asking for it is refused here rather than
+# branched around by every caller, so `--doc all` still means *all of this unit's documents* and a
+# region yields two rather than crashing on a third it does not have.
 PROFILES = {
     # **A country progress report opens on its own numbers, with no preamble above them** *(Bill,
     # 2026-08-25)*. The paragraph that used to sit here said three things a reader either already
@@ -112,7 +115,7 @@ PROFILES = {
                 "sections_note": ""},
     "region": {"sections": "report-region-sections.csv",
                "object": "Body, instrument or system", "objects": "bodies, instruments and systems",
-               "docs": ("progress",),
+               "docs": ("monthly", "progress"),
                "sections_note": "Sections run from the region's institutions outwards to what "
                                 "funds them."},
 }
@@ -1828,10 +1831,11 @@ def main():
         today = args.today or datetime.date.today().isoformat()
         month = args.month or last_closed_month(today)
         docs, why = issues(unit)
-        # `--doc all` means all of this unit's documents. A region issues the progress report
-        # only, and an initialised country no longer issues a rendered status report; naming one
-        # a unit does not issue is refused rather than rendered — the caller that asked for it
-        # (REPORT-MONTHLY over every initialised unit) is right to ask.
+        # `--doc all` means all of this unit's documents. A region issues a monthly update and a
+        # progress report, never a status; an initialised country no longer issues a rendered
+        # status report either. Naming a document a unit does not issue is refused rather than
+        # rendered — the caller that asked for it (REPORT-MONTHLY over every initialised unit) is
+        # right to ask.
         want = docs if args.doc == "all" else (args.doc,)
         for skipped in [d for d in want if d not in docs]:
             print(f"{unit}: no {skipped} report — {why}")

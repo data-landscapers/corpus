@@ -9,15 +9,17 @@ status: in force; Corpus-owned
 
 **This is the knob for what a region report looks like.** Section order, front matter, word budget and the instructions given to a drafting agent live here, in one file. **The register is not here** — house style is the Corpus editorial register (`documentation/report-layer.md` → §10 *The register*), in one copy, and it binds this document exactly as it binds a country report. `BUILD.md` stage 4 governs the process and `documentation/report-layer.md` the record layer all the report processes share.
 
-Change it, then `python scripts/report-render.py --unit {X__} --render --doc progress` — tables rebuild from `ledger.csv`, narrative blocks are carried across by marker id, and nothing is re-read from the base.
+Change it, then `python scripts/report-render.py --unit {X__} --render --doc all` — tables rebuild from `ledger.csv`, narrative blocks are carried across by marker id, and nothing is re-read from the base.
 
 ---
 
-## One document, for now
+## Two documents, for now
 
-**A region issues the progress report only.** The renderer refuses `status` and `monthly` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `--doc all` over every unit lets a region silently yield its one document.
+**A region issues a monthly update and a progress report, never a status report** *(monthly added 2026-09-02)*. The renderer refuses `status` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `--doc all` over every unit lets a region yield its own document set, two rather than three.
 
-That is a scope decision, not a claim that the other two are wrong for a region. A regional status report is the obvious next one — it needs no new ledger and no new reading, only this file's sections rendered as an inventory. **What a region has that a country does not is a period question**: a convention gains ratifications, a working group meets or does not, a secretariat is funded or is not, and none of that is legible in a single-date snapshot. Start where the unit's own evidence is.
+That is a scope decision, not a claim that a status report is wrong for a region. It is the obvious next one — it needs no new ledger and no new reading, only this file's sections rendered as an inventory. **What a region has that a country does not is a period question**: a convention gains ratifications, a working group meets or does not, a secretariat is funded or is not, and none of that is legible in a single-date snapshot. Start where the unit's own evidence is.
+
+The monthly is `render_monthly()` unchanged — the same renderer a country uses, over the rows this file's sections select whose `published` falls in the window. It carries no front-matter or marker differences from the progress report beyond what §*Front matter* and §*Markers* below already state; see `documentation/report-country-skeleton.md` → *What goes in each document* for the monthly/status/progress division of labour, which binds a region's monthly exactly as it binds a country's.
 
 ## Front matter
 
@@ -68,9 +70,9 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 ## Word budget
 
-**Prose only, tables excluded: 800–1,150 words for a progress report.**
+**Prose only, tables excluded: 800–1,150 words for a progress report, 500–1,300 for a monthly.**
 
-Deliberately low: a region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit.
+Deliberately low: a region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit. The monthly's ceiling is per document rather than per block, on the country monthly's own reasoning (`report-country-skeleton.md` → *Word budget*): a quiet month should still be short.
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`).
 
@@ -82,7 +84,11 @@ Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)
 <!-- /narrative -->
 ```
 
-Keys are `summary`, `institutions`, `instruments`, `systems`, `coordination`, `capacity`, `finance`, `gaps`. Everything outside the markers belongs to the renderer and is overwritten without warning; everything inside belongs to the model and is never touched by a script.
+**In the progress report**, keys are `summary`, `institutions`, `instruments`, `systems`, `coordination`, `capacity`, `finance`, `gaps` — one block per section.
+
+**In the monthly**, `render_monthly()` is the same code a country's monthly runs (`report-render.py`), and its keys are one block per *subject that moved this month*, not per section: `summary`, then `{section-key}--{subject-slug}` for every Level-2 subject with at least one row published in the window — dots become hyphens, exactly as `report-country-skeleton.md` describes. A section with nothing moved gets no heading and no block; a section with something moved gets one sub-heading and one marker per subject under it, not one marker for the whole section.
+
+Everything outside the markers belongs to the renderer and is overwritten without warning; everything inside belongs to the model and is never touched by a script.
 
 ## The drafting contract — what a delegated agent is given and must return
 
