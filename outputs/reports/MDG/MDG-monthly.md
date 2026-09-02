@@ -3,9 +3,9 @@ title: Madagascar — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: MDG
-ledger_rows: 19
-not_held: 8
-record: 5abb09167901
+ledger_rows: 24
+not_held: 5
+record: 6d75e90f1963
 ---
 
 # Madagascar: monthly update, August – September 2026
@@ -33,8 +33,26 @@ Two legislative processes are running and neither has produced a law. The govern
 Madagascar attached itself to three external arrangements in twelve days, none of which it wrote. The Council of Ministers [approved joining a China-initiated international network against cybercrime on 4 August](https://2424.mg/cybercriminalite-madagascar-sallie-a-un-reseau-international-contre-les-escroqueries-en-ligne-initie-par-la-chine/), mobilising the foreign affairs, justice, public-security, digital-development and gendarmerie ministries for cross-border cooperation on online fraud; no founding text, membership list, data-sharing rule or safeguard on what is exchanged is held. Around 15 August it also [signed the United Nations Convention against Cybercrime and joined the World AI Cooperation Organization](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/), the account citing Interpol findings that artificial-intelligence-enabled fraud is outpacing African states' response capacity. An [editorial the same week](https://newsmada.com/2026/08/13/quand-larnaque-passe-par-lecran/) frames the turn toward Beijing on fraud as inseparable from the country's digital-transformation and investment ambitions. None of the three is evidenced by an instrument the base holds, and the country still has no national artificial-intelligence strategy of its own.
 <!-- /narrative -->
 
+## ICT Infrastructure
+
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The month's only storage development is a private one. A commercial provider's service page, captured on 31 August, [describes hourly replication of Madagascar-hosted servers to a Tier IV facility in another African or European country, with automated DNS failover and recovery under two hours](https://hodi.host/mg/store/pra-manage). It is an evergreen commercial page rather than a dated announcement, and the capture date stands in for a publication date. Nothing is held on off-site backup for state systems: the two government data centres are the whole of the state's published resilience arrangement, and no continuity requirement or hosting rule governs them.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+Power went the wrong way in the last week of August. A defective circuit breaker on the TAC 1 turbine at Ambohimanambola [forced JIRAMA to halt production and impose rotating load-shedding across the Antananarivo interconnected network on 29 August](https://newsmada.com/2026/08/29/tac-1-ambohimanambola-la-jirama-entreprit-des-travaux-durgence/), a first repair attempt having failed and the unit having been dismantled for emergency inspection. Two weeks earlier the World Bank had [reported the Toamasina rebuild after February's cyclone, with about 4 MW still offline and load-shedding continuing](https://www.worldbank.org/en/news/feature/2026/08/14/the-missing-ingredient-how-power-is-fueling-madagascar-s-economic-future). The state data centres commissioned this year sit on the same network, and nothing published states their load.
+<!-- /narrative -->
+
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The health platform took a step the interoperability layer above it has not yet matched. The World Health Organization's quarterly bulletin, published in August, [records a June workshop launching the DHIS2 Tracker pilot for individual vaccination records across 20 public health centres and 54 private vaccination sites in one district of the capital](https://www.afro.who.int/sites/default/files/2026-08/Revue%20trimestrielle%20Version%20avril%20juin%202026%20OMS%20Madagascar.pdf), ahead of a planned national scale-up. Individual-record tracking is what makes a health system's data joinable to an identity system; the national exchange platform launched in April, and no integration between the two is recorded.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->
