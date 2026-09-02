@@ -3,13 +3,13 @@ title: Energy — monthly update, August 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: infra.energy
-places: BWA; BDI; COM; ETH; LSO; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
-record: 420a45a10974
+places: BWA; BDI; COM; ETH; KEN; LSO; MDG; MWI; MUS; MOZ; SLE; ZAF; UGA; ZMB; ZWE
+record: 65229e68ea32
 ---
 
 # Energy: monthly update, August 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -29,9 +29,17 @@ The thermal plant on Mwali was [down to 1,000 litres of diesel a day against a s
 
 The incumbent's renewable programme reached [39.72 MW of installed solar across 190 fully solar-powered sites, 867 hybrid systems and 1,114 lithium-ion storage units](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/), 12.72 MW of it added over the financial year, with diesel generator running time down by up to 40%. The figures are the operator's own and unaudited.
 
+## Kenya
+
+The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the base says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195). The data-centre load the grid is being built to carry remains unmeasured in this ledger.
+
 ## Lesotho
 
 The electricity corporation [states it has held supply availability above 99 per cent on the transmission network and around 95 per cent on distribution for the past years](https://lec.co.ls/transmission-distribution/), attributing the faults that remain to an ageing network and to weather. The figures are the utility's own and the base holds nothing that tests them.
+
+## Madagascar
+
+Power went the wrong way in the last week of August. A defective circuit breaker on the TAC 1 turbine at Ambohimanambola [forced JIRAMA to halt production and impose rotating load-shedding across the Antananarivo interconnected network on 29 August](https://newsmada.com/2026/08/29/tac-1-ambohimanambola-la-jirama-entreprit-des-travaux-durgence/), a first repair attempt having failed and the unit having been dismantled for emergency inspection. Two weeks earlier the World Bank had [reported the Toamasina rebuild after February's cyclone, with about 4 MW still offline and load-shedding continuing](https://www.worldbank.org/en/news/feature/2026/08/14/the-missing-ingredient-how-power-is-fueling-madagascar-s-economic-future). The state data centres commissioned this year sit on the same network, and nothing published states their load.
 
 ## Malawi
 

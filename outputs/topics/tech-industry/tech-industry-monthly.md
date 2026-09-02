@@ -3,15 +3,13 @@ title: ICT Industry — monthly update, August 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: tech.industry
-places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; ZAF; TGO; ZMB; ZWE
-record: fabbfcb17fc4
+places: BWA; EGY; GNQ; GAB; GHA; MAR; NER; NGA; SEN; ZAF; TGO; ZMB; ZWE
+record: b6ffe834dded
 ---
 
 # ICT Industry: monthly update, August 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Botswana
 
@@ -48,6 +46,10 @@ Hardware assembly is the one industrial position with a date attached. A governm
 ## Nigeria
 
 [Mobile money revenue at the largest operator grew about 132% in the first half and active wallets rose 1.3 million to five million](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/), while suspending a single airtime-lending product took second-quarter fintech revenue to ₦12.99bn, down 72.4% year on year — establishing that the book the market had read as a payments business was substantially an airtime-lending business.
+
+## Senegal
+
+A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger.
 
 ## South Africa
 

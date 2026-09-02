@@ -3,13 +3,13 @@ title: Data Storage — monthly update, August 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: infra.store
-places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
-record: 576b7aa9d164
+places: AGO; BWA; BFA; CMR; CAF; COG; EGY; GNQ; KEN; LSO; MDG; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; ZWE
+record: 9599e776bc36
 ---
 
 # Data Storage: monthly update, August 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -65,6 +65,10 @@ A proposal arrived that would sit outside the grid entirely. A foreign firm [has
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
 
 Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
+
+## Madagascar
+
+The month's only storage development is a private one. A commercial provider's service page, captured on 31 August, [describes hourly replication of Madagascar-hosted servers to a Tier IV facility in another African or European country, with automated DNS failover and recovery under two hours](https://hodi.host/mg/store/pra-manage). It is an evergreen commercial page rather than a dated announcement, and the capture date stands in for a publication date. Nothing is held on off-site backup for state systems: the two government data centres are the whole of the state's published resilience arrangement, and no continuity requirement or hosting rule governs them.
 
 ## Malawi
 

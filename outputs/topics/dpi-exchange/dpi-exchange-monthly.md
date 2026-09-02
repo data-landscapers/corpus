@@ -3,13 +3,13 @@ title: Data Exchange — monthly update, August 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
-record: ab90f0142732
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; COD; EGY; GNQ; GAB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB
+record: 2ba2cf224ab8
 ---
 
 # Data Exchange: monthly update, August 2026
 
-*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -103,6 +103,10 @@ The special economic zone authority said a [trade information portal could ease 
 ## Libya
 
 Customs and the chambers of commerce [discussed strengthening digital cooperation on 20 August](https://libyaherald.com/2026/08/libyan-customs-authority-general-union-of-chambers-of-commerce-discuss-strengthening-digital-cooperation). Discussion is where this row stands: no protocol, data-sharing arrangement, system or date follows from it on the record.
+
+## Madagascar
+
+The health platform took a step the interoperability layer above it has not yet matched. The World Health Organization's quarterly bulletin, published in August, [records a June workshop launching the DHIS2 Tracker pilot for individual vaccination records across 20 public health centres and 54 private vaccination sites in one district of the capital](https://www.afro.who.int/sites/default/files/2026-08/Revue%20trimestrielle%20Version%20avril%20juin%202026%20OMS%20Madagascar.pdf), ahead of a planned national scale-up. Individual-record tracking is what makes a health system's data joinable to an identity system; the national exchange platform launched in April, and no integration between the two is recorded.
 
 ## Malawi
 

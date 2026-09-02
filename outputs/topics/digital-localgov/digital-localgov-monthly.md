@@ -4,14 +4,12 @@ compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 subject: digital.localgov
 places: AGO; BFA; BDI; MWI; MLI; NAM; NGA; RWA; ZAF; TZA; TGO; ZMB; ZWE
-record: 1402664943b1
+record: 641a5d30713e
 ---
 
 # Digitalisation of sub-national government: monthly update, August 2026
 
 *13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
