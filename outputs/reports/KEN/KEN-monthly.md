@@ -3,9 +3,9 @@ title: Kenya — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: KEN
-ledger_rows: 115
+ledger_rows: 122
 not_held: 7
-record: 00f1ade05ac5
+record: ee80937f56de
 ---
 
 # Kenya: monthly update, August – September 2026
@@ -124,6 +124,11 @@ Two prospective builds at the technopolis went from talk to signature inside fiv
 
 
 A proposal arrived that would sit outside the grid entirely. A foreign firm [has proposed a US$1.5bn offshore data centre at Mombasa, powered by liquefied natural gas and designed to bypass the national grid, and is reported in talks with the government](https://econews.co.ke/2026/08/18/amaco-mombasa-ai-data-centre-kenya/). No capacity, timeline or site is disclosed, and the value and the design intent are the proposing company's own.
+<!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The distributor put a limit on the energy transition in public. On 11 August KPLC [urged that the quantum of variable renewable generation coming onto the system be moderated to protect grid stability](https://newsroom.kplc.co.ke/articles/variable-renewable-energy-sources-vres-quantum-to-be-moderated-to-ensure-grid-stability). It is a statement of position rather than a curtailment rule, a connection standard or a published limit, and nothing in the base says what quantum the utility considers safe. A week earlier the Senate energy committee [received a status report on the off-grid solar access project and asked for assurances that it is delivering](https://www.parliament.go.ke/node/26195). The data-centre load the grid is being built to carry remains unmeasured in this ledger.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -269,4 +274,9 @@ The e-commerce cooperation memorandum with China was [cited as the basis for dis
 
 <!-- narrative: geopolitics--geopol-eu -->
 A European data-adequacy decision was described as being in prospect, in [a development agency interview that mentions it in passing alongside cross-border identity work](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty). No application, assessment stage or timetable is stated, and neither the European Commission nor the government has said anything on the record here.
+<!-- /narrative -->
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+Kenya and Qatar [agreed on 12 August to institutionalise annual bilateral political consultations](https://www.zawya.com/en/press-release/africa-press-releases/kenya-qatar-agree-to-deepen-bilateral-cooperation-429489), the inaugural round led on the Kenyan side at principal secretary level. The account names no digital instrument, no committed amount and no project. That is the shape of the Gulf record here generally: seven memoranda signed with the United Arab Emirates in May 2025 and diaspora consultations in Riyadh in July 2026, none of them describing what was agreed in terms this base can put on a system or an instrument.
 <!-- /narrative -->
