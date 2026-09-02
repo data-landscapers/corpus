@@ -15,12 +15,20 @@ see from outside — the later runs quietly worse than the earlier ones, with no
 the output saying so. Within a country, PROGRESS-FILLER §6's delegation already keeps
 bodies out of the parent's context; this driver's job is to not defeat that.
 
-**The queue is re-read before every country, never held.** `logs/progress-report-log.csv`
-is the queue (PROGRESS-FILLER, *Where the trigger names no {ISO}*), and each run writes
-its own row back on finishing (§8.6). Reading it fresh each time means the driver holds
-no list that can go stale: a country that claimed itself is skipped without the driver
-tracking it, a country whose run died before claiming comes round again, and Bill editing
-the file mid-batch is obeyed rather than overwritten.
+**The order is Bill's, and it is a file** — `prep/progress-filler-queue.md`, one ISO-3 a
+line *(Bill, 2026-09-02)*. It is deliberately not the same list as the blank cells in
+`logs/progress-report-log.csv`: it selects, it reorders, and it may carry a country that
+has already been searched once. So where it exists it is obeyed verbatim, and the CSV
+stays what it always was — the record of what has been searched, never the authority on
+what to search next. With the file absent, the CSV's blank cells are the fallback queue
+(PROGRESS-FILLER, *Where the trigger names no {ISO}*).
+
+**Resuming reads tonight's ledger, not the CSV.** A driver restarted after a crash skips
+what it already finished cleanly, and nothing else. Deciding that from the `Filler
+Searched` cell instead would look identical until the day the order file names a
+deliberate re-probe — and would then silently drop exactly the country that was asked
+for. A re-probe is cheap by design: §0's re-run policy returns an unmoved subject as
+`skipped-prior-nil` rather than re-buying it.
 
 **Verify files, not answers.** §6 says that of the runs; it is more true of a driver
 reading a session's own summary of itself. A run that reports a clean tally and wrote
@@ -58,6 +66,13 @@ from pathlib import Path
 
 CORPUS = Path(__file__).resolve().parent.parent
 QUEUE = CORPUS / "logs" / "progress-report-log.csv"
+# **The order is Bill's, and it is a file rather than an argument** *(Bill, 2026-09-02)*.
+# One ISO-3 a line. It is not the same list as the CSV's blank cells and is not meant to
+# be: it selects (five pending countries are deliberately not on it) and it reorders, and
+# on 2026-09-02 it carried GNB, whose cell was already filled. So where this file exists
+# it is obeyed verbatim — the CSV stays the record of what has been searched, never the
+# authority on what to search next.
+ORDER = CORPUS / "prep" / "progress-filler-queue.md"
 RUNS = CORPUS / "logs" / "progress-filler"
 BATCH = CORPUS / "logs" / "filler-batch"
 LOCK = BATCH / "batch.lock"
@@ -96,6 +111,29 @@ def pending(rows: list[dict]) -> list[str]:
     """Countries whose `Filler Searched` cell is still blank, in file order."""
     return [r[ISO_COL].strip() for r in rows
             if r.get(ISO_COL, "").strip() and not (r.get(QUEUE_COL) or "").strip()]
+
+
+def read_order(path: Path) -> list[str]:
+    """Bill's order file: one ISO-3 a line, blanks and `#` comments ignored."""
+    out = []
+    for ln in path.read_text(encoding="utf-8-sig").splitlines():
+        ln = ln.strip()
+        if ln and not ln.startswith("#"):
+            out.append(ln.split()[0].upper())
+    return out
+
+
+def done_tonight(ledger: Path) -> set[str]:
+    """Countries this batch has already finished cleanly.
+
+    Resumability is tracked here rather than against the CSV's `Filler Searched` cell,
+    because the order file may legitimately carry a country whose cell is already filled
+    — a deliberate re-probe, which §0's re-run policy makes cheap. Reading the cell to
+    decide what to skip would silently drop exactly that country."""
+    if not ledger.exists():
+        return set()
+    with ledger.open(encoding="utf-8-sig", newline="") as fh:
+        return {r["iso"] for r in csv.DictReader(fh) if r.get("verdict") == "ok"}
 
 
 def claimed(iso: str) -> str:
@@ -325,7 +363,10 @@ def main() -> int:
     ap = argparse.ArgumentParser(description="Run PROGRESS-FILLER over a queue of "
                                              "countries, one fresh session each.")
     ap.add_argument("--only", nargs="*", metavar="ISO",
-                    help="run exactly these, in this order, ignoring the queue")
+                    help="run exactly these, in this order, ignoring the queue file")
+    ap.add_argument("--queue-file", metavar="PATH",
+                    help=f"order file, one ISO-3 a line (default {ORDER.name}; falls back "
+                         f"to {QUEUE.name}'s blank cells when absent)")
     ap.add_argument("--skip", nargs="*", default=[], metavar="ISO")
     ap.add_argument("--until", metavar="HH:MM",
                     help="do not start a country that would run past this clock time")
@@ -347,7 +388,13 @@ def main() -> int:
         print(f"filler-batch: {a.claude} not on PATH")
         return 2
 
-    queue = a.only if a.only else pending(read_queue())
+    order_file = Path(a.queue_file) if a.queue_file else ORDER
+    if a.only:
+        queue, source = a.only, "--only"
+    elif order_file.exists():
+        queue, source = read_order(order_file), order_file.relative_to(CORPUS).as_posix()
+    else:
+        queue, source = pending(read_queue()), f"{QUEUE.name} (blank cells)"
     queue = [i for i in queue if i not in set(a.skip)]
     if a.max_runs:
         queue = queue[:a.max_runs]
@@ -359,7 +406,18 @@ def main() -> int:
         if deadline <= datetime.now():
             deadline += timedelta(days=1)
 
-    print(f"filler-batch: {len(queue)} country(ies) queued — {', '.join(queue) or '(none)'}")
+    ledger = BATCH / f"{date.today().isoformat()}-batch.csv"
+    print(f"filler-batch: {len(queue)} country(ies) queued from {source}")
+    print(f"  {', '.join(queue) or '(none)'}")
+    # Named rather than skipped: a country whose cell is already filled is a re-probe if
+    # it was put on the list deliberately, and silently dropping it would look identical.
+    already = [i for i in queue if claimed(i)]
+    if already:
+        print(f"  note: already searched, will be re-probed — "
+              + ", ".join(f"{i} ({claimed(i)})" for i in already))
+    missing = [i for i in queue if i not in {r[ISO_COL].strip() for r in read_queue()}]
+    if missing:
+        print(f"  note: not rows in {QUEUE.name} — {', '.join(missing)}")
     print(f"  model {a.model} | one fresh session each | strictly serial")
     stops = [f"deadline {deadline:%Y-%m-%d %H:%M}" if deadline else "no deadline",
              f"{a.max_consecutive_failures} consecutive failures",
@@ -374,7 +432,6 @@ def main() -> int:
     if not take_lock():
         return 2
 
-    ledger = BATCH / f"{date.today().isoformat()}-batch.csv"
     done: list[dict] = []
     consecutive = 0
     spent = 0.0
@@ -399,9 +456,11 @@ def main() -> int:
             if a.max_cost_usd and spent >= a.max_cost_usd:
                 stopped = f"spent ${spent:.2f} of ${a.max_cost_usd:.2f}"
                 break
-            # Re-read rather than trust the list: the previous run wrote to this queue.
-            if not a.only and iso not in pending(read_queue()):
-                print(f"\n=== {iso} — already claimed in the queue, skipping ===")
+            # Resume: skip only what this batch has already finished cleanly. Re-read from
+            # the ledger each time rather than tracking it in memory, so a driver restarted
+            # after a crash picks up exactly where the last one left off.
+            if iso in done_tonight(ledger):
+                print(f"\n=== {iso} — already run clean in {ledger.name}, skipping ===")
                 continue
 
             row = run_one(iso, a)
