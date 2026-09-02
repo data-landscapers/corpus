@@ -3,9 +3,9 @@ title: East Africa — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: XEA
-ledger_rows: 13
+ledger_rows: 15
 not_held: 0
-record: a1181fc7c977
+record: d67c8bb01aec
 ---
 
 # East Africa: monthly update, August – September 2026
