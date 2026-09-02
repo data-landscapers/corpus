@@ -1,0 +1,2 @@
+iso,started,minutes,verdict,probed,staged_rows,nil,skipped_prior_nil,files_baseline,files_progress,queue_cell,cost_usd,turns,session_id,problems
+COG,2026-09-02T19:07:55,14.5,PROBLEM,,,,,8,8,,16.34,37,c5cc0e52-e213-42d6-aed0-b8c14ea16ada,'Filler Searched' still blank — the queue will offer COG again; no run CSV written; share left uncommitted; Corpus tree left uncommitted: ?? logs/progress-filler/.batch5-runids.txt
