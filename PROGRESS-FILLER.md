@@ -2,6 +2,8 @@
 
 Trigger: "**run the progress filler for {ISO}**". Probes the indicators a country's progress report reads ***No evidence*** on, stages what it finds for OSINT's ingest, and accounts for what the run consumed. The accounting in §7 is a deliverable, not overhead.
 
+**To run the queue unattended**, `python scripts/filler-batch.py --until 07:00` drives this procedure over it one country at a time, each in its own `claude -p` session so no context carries from one country to the next, and checks what each run left on disk rather than what it said. The script's own header is the description; it decides nothing this file leaves to Bill.
+
 **Where the trigger names no `{ISO}`**, the queue is `logs/progress-report-log.csv`, not a session's choice: read it top to bottom and take the first row whose `Filler Searched` cell is blank. §8 is what keeps this queue honest — a run that finishes without writing that cell back is a run the next trigger will repeat.
 
 ## 0. Authorisation and boundary — read before running
