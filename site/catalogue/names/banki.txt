@@ -20,6 +20,7 @@ Always-On Banking Is Not Optional Let	11243
 Angola Banking Conference	6360
 App And Mobile Banking Ethiopia FMO	1471
 Asia Banking and Finance	11994
+Availability of Open Banking	14819
 BANKINDI Epipode	13341
 BANKING	11964
 BANKING CORPORATION CHANNELS KCB STANBIC BANK	11002
@@ -39,9 +40,9 @@ Banki Kuu SACCO Ltd Data Processor	7167
 Banki Nkuru	5958
 Bankily	4655,5001
 Bankim Brahmbhatt	5033
-Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656
+Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82,43,22,86,19,232,211,146,184,169,176,203,656,181,44
 Banking Accounting	12231
-Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139
+Banking Act	5687,1251,907,139,2148,2358,38,70,690,271,139,1019,2,8,1,2,79,10,9,3,3,7,2
 Banking Act Through Urban Saving Schemes	12297
 Banking Act. Reinforced Steel Contractors Zimbabwe	13698
 Banking Activities and Financing of Economies Department	10967
@@ -51,6 +52,7 @@ Banking Association South Africa	6886,5071
 Banking Association of South Africa	5533,58,6395
 Banking Association of South Africa and Credit Bureau	5487
 Banking Bantoo Blog	9993
+Banking Bill	14829
 Banking Business	14056
 Banking Business Proclamation	14056
 Banking Business Proclamation No	13976
@@ -68,6 +70,7 @@ Banking Institute of Liberia and IFC	14218,121
 Banking Institution	12967
 Banking Institutions Act	3714,8651,9,73,458,38,24,118,121
 Banking Law	13314
+Banking Licence	14717
 Banking Network	10775
 Banking Ombudsman	12343
 Banking Ombudsman Office	11134
@@ -86,7 +89,7 @@ Banking Services Labour Relations Secure Employment	10759,78,1315,188
 Banking Services Property Rights	10835,3,130,902,16,466,1,135
 Banking Sidney Jele Legal	11131,3
 Banking Subscribers	4517
-Banking Supervision	12444
+Banking Supervision	12444,2400
 Banking Supervision Application Central Bank of Lesotho	12701
 Banking Supervision MNO Mobile Network Operator	12444
 Banking Supervision Office	11134
@@ -98,9 +101,11 @@ Banking Why South African	7382
 Banking and Capital Market Development ARTICLE	14409
 Banking and Capital Market Development The Partner	14409
 Banking and Currency Department. REIMAGINING THE BANK	13532
+Banking and Currency Division	14744
 Banking and Finance	2775,1490,553,1257,137,41,909,179
 Banking and Finance Overview	2775
 Banking and Financial Institutions Act	6921
+Banking and Financial Services	14829
 Banking and Financial Services Act	22,2705,10572,5,1,192,35,34
 Banking and Financial Services Bill	13532
 Banking and Financial Supervision Commission	6938
@@ -131,6 +136,7 @@ Central Banking. Governor’s Town Hall CBE	11134
 Centre for Central Banking and Finance Pillar	11131,3
 Chief Executive for Business and Commercial Banking	10459
 Chief Executive of Business&Commercial Banking	9720
+Class B Banking Licence	14717
 Co-Head of Investment Banking	9826
 Commencement of Banking Institutions Act	12943
 Commercial Banking	5247
@@ -150,7 +156,7 @@ Data Protection Frameworks for Banking Sector Beyond	2668
 Depósito Bankita	10775
 Development of Banking Network and Number of Bank Accounts	11960
 Developments Monetary Developments Fiscal Review Banking	11131
-Digital Banking	4994,7303,620
+Digital Banking	4994,7303,620,1902
 Digital Banking Framework	7341
 Digital Banking Platform	608
 Digital Payments and Banking	7535
@@ -186,12 +192,13 @@ INVESTMENT BANKING Quest Merchant Bank Limited	5903
 Interest-Free Banking	10025
 International Finance Corporation. Inclusive Banking	12231
 International Finance and Banking Law	12951
-Internet Banking	4695,7260,332,765,980
+Internet Banking	4695,7260,332,765,980,787
 Internet Banking Interbank Large-Value	6938
 Internet Banking PSPs	13314
 Internet Banking Subscribers	6978
 Internet Banking and Standard Lesotho Bank App	12711
 Investment Banking	4041,2829,2955,1
+Investment Banking Licence	14728,2
 Investment Banking Luvuyo Masinda	9702
 Islamic Banking Glossary. Kenya Bankers Association	12297
 KCB Group's Director of Corporate Banking	7499
@@ -204,7 +211,7 @@ Maintaining Banking Sector Adequate Liquidity Ratios	11131
 Marketing Standard Bank Business and Commercial Banking	5247
 Minimum Guaranteed Banking Service	10967
 Mobil Banking	3715
-Mobile Banking	3715,147,8628,834
+Mobile Banking	3715,147,8628,834,1495
 Mobile Banking APP and Bank USSD	12287
 Mobile Money and Banki Pafupi Agents	12182
 Monetary and Banking Council	6938
@@ -223,14 +230,16 @@ Net Zero Banking Alliance and Net Zero	13532
 OPEN BANKING STANDARDS	13092
 OVERVIEW OF OPEN BANKING STANDARDS	13092
 Offshore Banking	3364
-Open Banking	2276,1115,1457,1512,3877,894,3,1209,709,24,16,360,80
+Open Banking	2276,1115,1457,1512,3877,894,3,1209,709,24,16,360,80,1287
+Open Banking APIs Tokenization Mobile	14819
 Open Banking Forum	13092
-Open Banking Framework	6757,4374,3
+Open Banking Framework	6757,4374,3,3695
 Open Banking Guidelines	4848
 Open Banking Operational Guidelines	4848
 Open Banking Pilot	13092
 Open Banking Pilot Exercise	13092
 Open Banking Standards	13092
+Open Banking and API	14819
 Open Banking and Open Data. Common	13532
 Open Banking and Open Finance	10385,647
 Oracle Flexcube Private Banking	3279,85
@@ -254,6 +263,7 @@ SADC Banking Association. Other SADC	11899
 SOUND BANKING	1818
 STANDARD BANK Banking	11885
 Savings and Banking Integration	6362
+Securities and Non- Banking Financial Authorities	14819
 Sidian Bank Kenya Digital Banking Tier	143
 South Africa Finance and Banking Angela Itzikowitz	6998
 Standard Bank Business and Commercial Banking Research	5247

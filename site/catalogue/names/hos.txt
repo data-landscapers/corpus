@@ -34,6 +34,7 @@ AIC KIJABE HOSPITAL STAFF PENSION SCHEME	7167
 AIC Kijabe Hospital Data Controller INST-87066222A33	7167
 AIC Kijabe Hospital Data Processor INST-87066222A33	7167
 AIC LITEIN HOSPITAL Data Controller INST-3629487C1A5	7167
+AIDS Chief Hospital Administrator Head Vector	14773
 AJYAAD MATERNAL AND CHILD HOSPITAL LTD	7167
 AL- FAROOQ HOSPITAL LIMITED Data Controller	7167
 AL- FAROOQ HOSPITAL LIMITED Data Processor	7167
@@ -59,6 +60,7 @@ ASPENVIEW HOSPITAL LIMITED Data Controller INST-324568B2875	7167
 ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 ASTAAN HOSPITAL LTD Data Controller INST-8725131A125	7167
 ATHI-RIVER MODERN HOSPITAL Data Controller INST-6689191C417	7167
+Abdool Gaffoor Jeetoo Hospital MIH Mauritius	14773
 Academic Affairs Hospitality Services Internal Audit	10123
 Add Hosea Kutako International Airport	12984
 Affordable Broadband and Secure Data Hosting	12253
@@ -175,6 +177,7 @@ CUREMARK HOSPITAL LTD Data Controller INST-76385364442	7167
 CYNERT HOSPITAL AND REHABILITATION CENTRE LIMITED	7167
 Caching Hosting Information	11179
 Cacuaco Hospital	10776
+Cancer Hospital	14736
 Case and Host Communities	12297
 Catholic Hospital	12956
 Cedarcrest Hospitals Limited	12937
@@ -205,14 +208,19 @@ Chris Hani Baragwanath Academic Hospital George	11248
 Chris Hani Baragwanath Hospital	8603
 Chris Hani Baragwanath Hospital Raheema Moosa	11986
 Climate Data Hosted	11283
+Cloud Computing Hosted	14789
 Cloud Hosting Model Periodic Review	6432
 Coin Vending Hosted the SARB	11131
 College Hospital First Bank Of Nigeria	11129
 Comment Zambia Refugee and Host Community Project	1988
 Commissioner for Refugees. The Zambia Refugee and Host	1988
+Community Hospitals	14773
+Community Hospitals Life Expectancy	14773
 Congo Hosts Strategic Seminar	4577
 Consolata Hospital Mathari Data Controller INST-18785613B60	7167
 Consolata Hospital Mathari Data Processor INST-18785613B60	7167
+Construction of Cancer Hospital	14736
+Construction of S. Bharati Eye Hospital Government	14830
 Control of Private Hospitals	1009
 Copy of Hospital Register	11282
 Cote-d’Ivoire and Senegal DATA HOSTING	10861
@@ -261,7 +269,7 @@ District Hospital Health Center	12379
 District Hospital Health Center EMR Only	12379
 District Hospital Health Center Short	12379
 District Hospital Health Center Very	12379
-District Hospitals	1261,11077,41,743
+District Hospitals	1261,11077,41,743,1620,31
 Domain Hosting	12769
 Draft Order Gazetting the Host Country Agreement	10313
 E- Local Content and Hosting Government	11857
@@ -275,6 +283,7 @@ ELDORET HOSPITAL LIMITED Data Processor INST-478746E6531	7167
 ELDORET HOSPITAL-ASAHI INTECC HEART CENTRE LIMITED	7167
 ELDORET UROSURGERY HOSPITAL LIMITED Data Controller	7167
 EMR District Hospital	12379
+ENT Hospital	14736,93
 Economic Empowerment of Refugee and Host Community Women	13938
 Ecosystem Integration and Hosting Model	5533,58
 Edelvale Trust Jamaa Home and Mission Hospital	7167
@@ -299,6 +308,7 @@ Ethiopia's First Internet Exchange Hosted	14026
 Events and Hospitality Policy	6946
 Example Afya Nzuri National Hospital	14524
 Exemption for On- Premise Hosting	6432
+Eye Hospital	14773
 FS Mangaung M St Elizabeths Hospital	11986
 Federated Hospitality Association of Southern Africa	5533
 Fezi Ngumbentombi Hospital	11986
@@ -333,6 +343,8 @@ HF District Hospital	12379
 HMS Hospital	766
 HOSEA INKHUNDLA PICTURE	12970
 HOSPIT. Y BIENESTAR SANITARIAS Y PLAN	4209
+HOSPITAL ADMINISTRATION UNIT	14773
+HOSPITAL AND SPECIALISED SERVICES	14773
 HOSPITAL Data Controller INST-7088756E6A2 LAIKIPIA Kenya	7167
 HOSPITAL LIMITED Data Controller INST-4029220C2D4 UASIN	7167
 HOSPITAL LIMITED Data Processor INST-4029220C2D4 UASIN	7167
@@ -363,7 +375,7 @@ Hospedagem de Dados Públicos. Tal	11448
 Hospedagem de Infra-Estrutura	4556,1
 Hospice KOUMONDJI	2623
 Hospitais	11537
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232,283
 Hospital Adamawa North East	11857
 Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
@@ -401,11 +413,14 @@ Hospital Late	12976
 Hospital Loeri Comba	4209
 Hospital Management	12976
 Hospital Management Information Systems	3400,8914
+Hospital Management and Health Policy Management. Promoting	14829
 Hospital Manager Date	8603
+Hospital Managers	14829
 Hospital Maternidade	10780
 Hospital Municipal De Kilamba Kiaxi	10784
 Hospital Nuevo Inseso de Bata Bata	4209
 Hospital Outpatient Tickets	12976
+Hospital PHFS Public Health and Food Safety	14773
 Hospital Pedalé	11429,3,47
 Hospital Policlínico	4209
 Hospital Primary and Secondary School	11857
@@ -418,9 +433,10 @@ Hospital Revenue General Services	12976
 Hospital Road	2775,9476
 Hospital Rundu Chiefs Sports Club Zealous	13046
 Hospital Sampaka	4209
-Hospital Services	12606
+Hospital Services	12606,2167
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603
 Hospital UHC Universal Health Coverage VIP	12976
+Hospital Ward	14742
 Hospital and Diagnostic Services	14033
 Hospital da Praia	1265
 Hospital de Ebibeyín	4209
@@ -546,8 +562,11 @@ Internally Displaced and Host Governance	11469
 International Airport Hospital	11986
 International Hospitality and Management	6946
 Isilimela Hospital	8161
+J. Nehru Hospital	14773,57
+J. Nehru Hospital and Construction	14773
 JEWEL HOWARD-TAYLOR REMAINS HOSPITALIZED UNDER POLICE	10581
 JP Kavindama Primary Hospital	12606
+Jawaharlal Nehru Hospital	14805
 John Ladysmith Provincial Hospital	11986
 Journal of Hospitality	8021
 Juba Teaching Hospital	4257
@@ -591,6 +610,7 @@ Lily Hospitals Limited	12937
 Lily Urban Hospital Resuscitation	12937
 Limpopo Central Hospital	11248
 Limpopo Central Hospital Project Implementation Construction	11248
+List of Hospital Services	14773
 Lobatse Hospital le Jwaneng Hospital. Mabaka	12607
 Local Hosting Government Data Locally	11857
 Lubombo Referral Hospital	12922
@@ -626,6 +646,7 @@ MediClinic Hospital	12947
 MediClinic Hospital Otjiwarongo	12947
 MediClinic Hospital Swakopmund	12947
 Medical Director of Randle General Hospital	11968
+Medical Officers and Hospital Officers	14742
 Meet Hosting Requirements	11995
 Meeting. Global Money Week Fair Hosted	11131
 Meheba and Host	1988
@@ -696,6 +717,7 @@ Palapye Hospital	12639
 Paratus Hosted Services	13169
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Peer Learning Visit Hosted	11131
+Peking University Third Hospital	14839
 Pelonomi Hospital	11986
 Performance of Hospitals and Health Centres	12976
 Permanently Host ARSO Headquarters	14273
@@ -723,6 +745,7 @@ Public Sector Hospital Electronic Medical Record	11980
 QUESTIONS FOR ORAL ANSWER HOSPITAL KIOSKS	12607
 Quarter Hosted	11131
 Queen Elizabeth Central Hospital	13040,82
+Queen Elizabeth Hospital	14721
 Queen Elizabeth’s Central Hospital. The Gender	13040
 Queen's Hospital	13040
 Queens Hospital	13040
@@ -734,6 +757,7 @@ Rakops Hospital	12607
 Rakops Primary Hospital	12639
 Raleigh Fitkin Memorial Hospital	7030
 Raleigh Fitkin Memorial Hospital Demonstration Project	13207
+Ramgoolam National Hospital HSSP Health Sector	14773
 Ramin Hossaini	12478
 Recovery of IDPs and Host Communities	10864
 Reference Hospitals	10775
@@ -745,6 +769,8 @@ Refugees and Host Communities	2106
 Refugees and Host Community of Meheba Refugee Settlement	1778
 Refugees and Hosts	13938
 Regime Normativo de Hospedagem	11448
+Regional Hospital	14773
+Regional Hospitals	14742,31
 Regional Hosting Hub Development The Federal	10157
 Regional Referral Hospital	1261
 Reglamento Interno Hospitalario	4209
@@ -756,11 +782,15 @@ Reserve Centre Hospitalier Universitaire Banque Africaine	14622
 Results-Based Hospital Information System	10865
 Returnees and Host Communities	12297
 Rhino Park Hospital	12947
+Rodrigues. The Queen Elizabeth Hospital	14742
 Royal Free Hospital	13040
 Rwanda Military Hospital	12338
 Rwanda Military Hospital RSSB	12338
 S.A. Hossain	8022
+SAJ Hospital	14773
+SBEH Subramania Bharati Eye Hospital HIV	14773
 SIH Hospital Information System	3604
+SSRN Hospital	14829,1
 Salima District Hospital	13160
 Santé CHUK Centre Hospitalo-Universitaire de Kamenge CIM	13306
 Sbrana Psychiatric Hospital	12606
@@ -779,11 +809,14 @@ Sierra Leoneans. Hosted	9966
 Siloam District Hospital Project Implementation	11248
 Siloam Hospital	11248
 Sipepa Rural Hospital	3385
+Sir Anerood Jugnauth Hospital	14773
 Sir Ketumile Masire Teaching Hospital	12606
 Sir Ketumile Teaching Memorial Hospital	12606
+Sir Seewoosagur Ramgoolam National Hospital	14805,24
 Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Solicitor-General. The Zambia Refugee and Host Communities	1988
 Specialised Hospital	12976
+Specialised Hospitals	14773
 Specialized Hospital	1261
 Spinal Injury Hospital	14546
 St John of God Hospitaller	13040
@@ -798,6 +831,7 @@ Support Unit Camp Hospital	13361
 Swakopmund Central Hospital	12947
 TOTOS SPECIALIST HOSPITAL LIMITED Data	7167
 TOURISM AND HOSPITALITY INDUSTRY	13420
+Teaching Hospital	14736
 Team ECZ Hosts	13477
 Thekwini MM King Edward Viii Hospital	11986
 Thekwini MM Mahatma Gandhi Hospital	11986
@@ -820,6 +854,7 @@ UNESWA. Hosted	11131
 UNICEF. Host Ministry	14000
 US CDC and Bundung Hospital	4338
 Unitas Hospital and Another	2307
+University College Hospital	14829
 University Teaching Hospital	13040
 University Teaching Hospital Virology Laboratory	13454
 University Teaching Hospitals	13430
@@ -828,7 +863,10 @@ Unravelling of Hostage State	5141
 Upgrading Hospitals	10829
 Urban and Regional Host Communities Project	1988
 Usakos State Hospital	12947
+VH Victoria Hospital MCH Maternal and Child	14773
 VODACOM LESOTHO HOSTS FIRST SOFTWARE FACTORY	12694
+Veterinary School and Animal Hospital	14805,25
+Victoria Hospital	14773,66,8
 Virtual Telemedicine Hospital	7312
 WC Cape Town MM Somerset Hospital	11986
 WFP. Refugees and Host Communities	12297

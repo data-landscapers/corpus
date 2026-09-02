@@ -22,6 +22,7 @@ COM-EHCVM-2024 Titre Enquête Harmonisée	13804
 CONJOINTEMENT ENQUÊTÉE	13300
 CONJOINTEMENT ENQUÊTÉE ET MARI	13300
 Cinquième Enquête Camerounaise Auprès des Ménages	10985
+Commission of Enquiry	14839
 Commissions of Enquiry Act	12950
 Comoros Enquete	13746
 Comoros Enquête	13746
@@ -34,6 +35,7 @@ DES RECENSEMENTS ET ENQUETES STATISTIQUES Article	785
 Desenvolvimento de Governo Eletrónico EGDI Enquanto	11569
 Directeur des Enquêtes	8269
 Disciplinary Enquiries	11134
+Divisional Enquiry and Prosecution Supervisor	14760
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 ENO Enquête Nationale	7655
 ENQUADRAMENTO	10757,609,69,121
@@ -80,7 +82,7 @@ Enquete Demographique	14442
 Enquete Exploratoire Budjet-Consommation	13746
 Enquete Harmonisée	737
 Enquete224	2159
-Enquiries	7464,1535,35,2150,14,14,38,1115,9,73,642
+Enquiries	7464,1535,35,2150,14,14,38,1115,9,73,642,1653
 Enquiries COMPLAINTS Nairobi	14525
 Enquiries Handled	6946
 Enquiries Handled Category Total Received Resolved	6946
@@ -88,8 +90,10 @@ Enquiries Log	12041
 Enquiries PART	12365
 Enquiries PART I PRELIMINARY	13206
 Enquiries PART VII ADDITIONAL REGULATORY REQUIREMENTS	13085
-Enquiry	12511
+Enquiring Officer	14760
+Enquiry	12511,2231
 Enquiry Appointed	11289
+Enquiry Committee	14774
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enquiry Points	12389
 Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6
@@ -161,8 +165,10 @@ N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
 N'EST PAS ENQUÊTÉE	13300
 NDICE Sumário Executivo Enquadramento PARTE II	11366
 National Enquiry Point	14225
+National Enquiry Point for Technical Barriers	14736
 PME TPE Enquêtes	643
 Perguntas Frequentes IRPC Enquadramento CIRPC	12018
+Police Enquiry	14760
 Reports and Enquiry Facilities	12364
 Reports and Enquiry Facilities The ZIPSS	12364
 SI ENQUÊTÉ MINEUR	13300
@@ -173,6 +179,7 @@ Santé EDSB-III Troisième Enquête Démographique	13300
 Santé RÉPUBLIQUE DU BURUNDI Troisième Enquête	13300
 Supérieure EPAM Enquête Permanente Auprès des Ménages	12
 TBT Enquiry Point	13320
+TBT National Enquiry Point	14736
 TESTS SI ENQUÊTÉ ADULTE	13300
 TROISIÈME ENQUÊTE DÉMOGRAPHIQUE ET DE SANTÉ	13300
 Telephone Enquiry Call Waiting Time for Financial	12500

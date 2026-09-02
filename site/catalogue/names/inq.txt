@@ -15,7 +15,7 @@ Commission of Inquiries Act	13493
 Commission of Inquiry	12548,945
 Commission of Inquiry Act	13493
 Commissions of Inquiry	7859
-Commissions of Inquiry Act	12548,344,419,182
+Commissions of Inquiry Act	12548,344,419,182,1255,61
 Commissions of Inquiry and Fact-finding Missions	3583
 Common Crawl. The Inquiry	13461
 Competition Commission’s Data Services Market Inquiry	8668
@@ -31,6 +31,7 @@ Employment and Earnings Inquiry	13479
 Framework of Inquiry	6052,927
 Google. The Inquiry	13461
 Guba EG. Naturalistic Inquiry. Thousand Oak	14666
+House Inquiry	14788
 I. Inquérito de Cobertura	11416
 IDS Inquérito Demográfico	966
 IFPIM.. The Inquiry	13461
@@ -41,6 +42,7 @@ IMASIDA Inquérito	966
 INCAM Inquérito	966
 INQ.Digital Nigeria	3554
 INQUIRIES.pdf COMPETITION COMMISSION	13461
+INQUIRY	14753
 INQUIRY INTO MEMBERSHIP AND OWNERSHIP	3714
 INQUÉRITO	10777
 INQUÉRITO DE INDICADORES MÚLTIPLOS	10777
@@ -58,12 +60,15 @@ Inquests Act. Clause	12959
 Inquiridor	10777
 Inquiridores	10777
 Inquiridos	10777
+Inquiries	14768
+Inquiries PART III	14768
 Inquiries and Request for Information	6946
 Inquiry	7151,1685,981,446,918,54,73,457,420,855,31,196,194,1
 Inquiry Focus Group	13461
 Inquiry Focus Group Observations	13461
 Inquiry Interfaces	13461
 Inquiry Panel and Team Members PANEL	13461
+Inquiry Report	14774
 Inquiry Survey	13461
 Inquiry Survey Report	13461
 Inquiry The Inquiry	11308
@@ -105,7 +110,8 @@ Part C Inquiries	11181
 Presidential Commission of Inquiry	9377
 Productivity Commission Inquiry Report	12419
 Programa de Inquéritos Demográficos	10777
-Public Inquiries Act	7845
+Public Inquiries Act	7845,6964
+Public Inquiries Bill	14748
 Public Inquiry Form	14045
 Purchases Withdrawals Web Payment Balance Inquiry	11955
 Qualitative Inquiry. March	13332

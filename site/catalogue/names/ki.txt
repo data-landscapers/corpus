@@ -108,6 +108,7 @@ Authority of His Majesty the King. Price	12653,13
 Avatar of KingDafie	12478
 Avec Kimba Connect	7268
 B. Kimani	11140
+BAGUANT Nandeshwar Kishun Lead Programme	14770
 BARANI DISPENSARY Data Controller INST-6131714783F KILIFI	7167
 BARANI DISPENSARY Data Processor INST-6131714783F KILIFI	7167
 BAVAKURE Juvénal KABATESI Francine KIBINAKANWA Jean	13300
@@ -125,6 +126,7 @@ BRIDGE BOOKSHOP Data Processor INST-61750509AA3 KIAMBU	7167
 BRIGHTMED HOSPITAL Data Controller INST-5433916DAC8 KITUI	7167
 BROOKSIDE SACCO Data Controller INST-122591FCA58 KIAMBU	7167
 BRS. Kindly	11298
+Ban Ki-Moon	14723
 Bandari Dispensary Data Controller INST-40822487397 KILIFI	7167
 Bandari Dispensary Data Processor INST-40822487397 KILIFI	7167
 Bank of Kigali	6343,1006,668,275
@@ -219,7 +221,7 @@ Chuo Kikuu Huria	4364
 Chuo Kikuu Stanford	5090
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
 City Councils KIIs and FGDs	12978
-City of Kigali	431,287,3049,1175,5710,1718,33,10,27,5,973
+City of Kigali	431,287,3049,1175,5710,1718,33,10,27,5,973,1351
 City of Kigali Spokesperson	4941
 City of Kigali and All Provinces	718
 City of Kigali and Districts Land Use Master	888
@@ -435,6 +437,7 @@ Exaud Kimboi	4061
 Exchequer Develop Kiswahili	7548
 Executive Director Rosemary Kisembo	9386,310,4684
 Executive Secretary Muhammed Kivumbi	11022
+Extension of Bid Kindly	14759,3
 FCDO United Kingdom Foreign	10768
 FEDERATION OF SAINT KITTS	13996
 FGD and KII	12328
@@ -598,6 +601,7 @@ Ian King	11773
 Il ABORDABLE AU DERNIER KILOMETRE	13433
 Imane Kimouche	9037
 Improvement of CRVS BRK Biometric Registration Kit	13005
+India and United Kingdom	14773
 India. KICTANet	2100
 Innocent Kibira Najjumba Mulindwa	12412
 Innocent Kibira Najjumba Mulindwa. Approved	12412
@@ -723,6 +727,8 @@ KIMBA Connect	9199
 KIMS Hospital	13562
 KIN ALERTE	4501
 KINAMA	13292
+KINDLY ADVISED TO LIAISE	14816
+KINDLY NOTE	14816
 KING CODE AND CORPORATE GOVERNANCE	4896
 KING OF THE KINGDOM	12938
 KING OF THE KINGDOM OF ESWATINI	12928,1
@@ -780,6 +786,7 @@ KPA Kenya Ports Authority KOT Kipevu	2775
 KWh Kilo Watt Hour KWS Kenya	2775
 KZN King Cetshwayo Queen Nandi Regional	11986
 Kamabuye Nkanka Cyato Kibumbwe Bushenge Bushekeri	12413
+Kaoru Kimura	14723
 Kashifu Inuwa By Justice Okamgba Kindly	9753
 Kayanza Kirundo Makamba Muramvya Mwaro Sexe	13442
 Kayonza Kicukiro	12413
@@ -1074,9 +1081,11 @@ Kilimo Pesa	9590
 Kilimo-Pesa	14551
 Kilinda	12358
 Kilinda Hospital. Despite	13418
+Kilinda Kilei Imanuel	14820
 Kilindi	2868
 Kilindini Plaza Building	12256
 Killed	3583
+Killed and Seriously Injured MFO	14760
 Kilmann	4432
 Kilo Tonnes KUC Kenya Utalii College	2775
 Kilobi	14640,1
@@ -1088,7 +1097,7 @@ Kilolo-Iringa	2718
 Kilombero	7250
 Kilometers	1228,476,120,43,2786,35,3189,1904,2475,157
 Kilometre	11863
-Kilometres	6000,6971,89
+Kilometres	6000,6971,89,1686
 Kilometres of Roads	2775
 Kilomita	2868,3151
 Kilomètres EST HAU T S- BA	10847
@@ -1172,7 +1181,7 @@ Kindi	10875
 Kindia	2107,1394,6771
 Kindiki	2742,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265,2675,4333
 Kindiki and Uhuru Revealed	2742,1016,2558,471,213
-Kindly	4732,1061,2194,803,879,84,482,2129,673
+Kindly	4732,1061,2194,803,879,84,482,2129,673,1722,64,10
 Kindonou. Présentement	2697
 Kindu	5710,3045
 Kinfe	12255
@@ -1256,7 +1265,7 @@ Kingdom of Lesotho. The NID	12663
 Kingdom of Morocco	25,512,21,1177,1314,3052,1068,283,5670,1505
 Kingdom of Morocco To International Organizations	1735
 Kingdom of Norway	13144
-Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240
+Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240,194
 Kingdom of Saudi Arabia Senegal Yes Plan	11529
 Kingdom of Swaziland	6539,6357,1,7,10
 Kingdom of Swaziland Report	12944
@@ -1266,6 +1275,7 @@ Kingdom's ICT	12395
 Kingdom's Synergies	12395
 Kingdom. FiberCo	2673
 Kingdom. Following	1885
+Kingdoms of Eswatini and Lesotho	14826
 Kingdoms. Ambassador Faisal Bin Falah	12710
 Kingdoms. The Ambassador	12710
 Kingdom’s Deeds Registry and Surveyor General’s Department	13213
@@ -1351,7 +1361,7 @@ Kinyua	6948
 Kinyua Gikunda	6948
 Kinésithérapie	13442
 Kiosi	1365
-Kiosk	12269,1,89
+Kiosk	12269,1,89,2419
 Kiosk USSD Apps Agents QR	12490
 Kiosk USSD Apps POS Agents QR	12000
 Kiosks	12359
@@ -1442,6 +1452,7 @@ Kisan	4300
 Kisanfu Mining	6843
 Kisangani	4478,1232,673,629
 Kisanja No More Sleep	10055
+Kisanla	14841
 Kisanya One-Stop Border Post	5247
 Kisasa and Manyama	1867
 Kisembo	1781,30,909,37,2328,4301,310,2412,2272
@@ -1500,8 +1511,11 @@ Kitanzania	2710,352,385,1969,6227
 Kitanzania. Redington	3062
 Kitations	13781
 Kitawapa	9376
-Kitchen	12962,423
+Kitchen	12962,423,1353
 Kitchen Staff	11180
+Kitchen Table	14738
+Kitchen YES NO Parking	14778
+Kitchenette	14778
 Kitenge	12227
 Kithoka Junction	10313
 Kitifolo Kignaman-Soro	4354,1795
@@ -1675,7 +1689,10 @@ Mr. Kimani	6946
 Mr. Kitto Tarasisio	3005
 Mr. Kizito Ballans	9730
 Mr. Natie Kirsh	12922
+Mr. Yasdev KISTOMOHUN	14745
 Mrs. Annastacia Kimtai	8938
+Mrs. N D Kinnoo	14736
+Mrs. Nulini Devi Kinnoo	14736
 Ms Buyu. Dr Kipsang	2742
 Ms Kellen Kiconco Mugyende	8285
 Ms Kimathi	4513
@@ -1821,16 +1838,19 @@ Prof. Pamela Kimeto	14663
 Profesa Benadeta Killian	5416
 Profesa Kinyondo	8463
 Professor Ben Kiregyera and Dr Norah Madaya	1188
+Professor Kiregyera	14734
 Professor Kiyombo Mbela	14666
 Program Is Building Toward KICTANet	11086
 Program Manager Kishen Shastry Kudur Shastry	10852
 Program Officer for KICTANet Digital Accessibility for PWDs	7609
 Project King Mswati III International Airport	12962
 Provinces de Kirundo	13300,394
+Public Financial Management Kit The Public	14828,3
 Public Interest Example Kilimo Ministry	14524
 Public Television Licensee. The Kingdom	12395
 Public Transport for Intercity and City of Kigali	718
 QUESTIONS FOR ORAL ANSWER HOSPITAL KIOSKS	12607
+Quality Management. Mrs. Nulini Devi Kinnoo	14736
 Quantum Computing Working Group. The Kingdom	8645
 Quartier Kinindo	13555,12
 R Kipsang	14518
@@ -1874,7 +1894,7 @@ Rwanda Standards Board Bank of Kigali Plc	12358
 Rwanda's Kigali Innovation City	8943
 Rwanda. Kigali	5418,6911
 Rwanda’s Kigali	2702
-Rwanda’s Kigali Innovation City	3378
+Rwanda’s Kigali Innovation City	3378,11441
 Rx4 PC5-4800B-R Smart Kit	11209
 Ryan Kirkley	3727,2016,1835
 S Karama Rukomo Nyagatare Kagogo Kinyababa	12413
@@ -1906,6 +1926,7 @@ Sarilusi Tarifa King Oficina de Información	9302,4913
 Sebnem Erol Madan and Lama Kiyasseh	14627
 Secretary Judith Kilobi	14640
 Security Forces Kill Protesters	9399
+Self-Service Kiosk	14778
 Senator Hamida Kibwana	6160
 Sensitization The KIIs	12978
 Sepsis Kidney	12151
@@ -1954,6 +1975,7 @@ Starlink Mini Kit	3053
 Starlink Mini Kit. Following	7509
 Starlink Mini Kit. Related	7509
 Starlink Mini Kit. Starlink	5433
+Start-up Kits	14835
 Steel and King	10464
 Stephen Killick	11191
 Stop Killer Robots	2816
@@ -2014,13 +2036,14 @@ Uganda's Rosemary Kisembo	6147
 Uganda. Edward Kimbugwe	5658
 Ukraine United Arab Emirates United Kingdom	11470,295
 Under the High Patronage of His Majesty King	2577
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37,259,54,18,85,126,57,168,442,104,118,68,14,210,102,146,29,76,62,67,752,107,48,21,8,3,21,5,14,26,26
 United Kingdom Corresponding Author	12025
 United Kingdom Foreign	10768,3299,75
 United Kingdom Global Cybersecurity Index	10764
 United Kingdom Government	2664,919,6470,3148
 United Kingdom Government's Girls' Education South	3583
 United Kingdom Met Office	13201
+United Kingdom Office of Communications	14723
 United Kingdom UN United Nations UNCTAD	1243
 United Kingdom United Arab	12151
 United Kingdom Yes Connectivity	11529
@@ -2030,7 +2053,7 @@ United Kingdom and France	10701
 United Kingdom and Italy	9815
 United Kingdom and San Jose	10846
 United Kingdom and Singapore	5371
-United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886
+United Kingdom of Great Britain and Northern Ireland	1243,5370,4251,290,1886,1753
 United Kingdom's Bribery Act	3583
 United Kingdom's Electronic Trade Documents Act	10718
 United Kingdom's Foreign	6426,7111
@@ -2075,6 +2098,7 @@ Viakin Kintossou C.F. Marcus Traitement	10821
 Vice-Maire de Kintélé	5103
 Vision KIGALI	2686
 Vitol Tank Terminal Kipevu Oil Internalional	12256
+Vocational Education and Training UK United Kingdom	14747
 Voter Registration Kit	12350
 Voters' Registration Kit	12350
 Vox Telecom Kiwi-Home Wireless	11259
@@ -2098,6 +2122,7 @@ Y BASE DE KIE-NTEM ANNOBON INTERPOL	4209
 Y. Kido	11140
 YOY CHANGE KINGDOM OF ESWATINI	12395
 Yibeltal Kiflie Alemayehu	12255
+Yongsoo Kim	14723
 Youngseok Kim	11867
 Youssouf Kiendrebeogo	1828,5137,580
 Yusuph Kileo	3366

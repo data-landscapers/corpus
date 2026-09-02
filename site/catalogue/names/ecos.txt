@@ -19,11 +19,13 @@ Agricultural Ecosystem Beyond	13510
 Angolan Startup Ecosystem	2573
 Application for Startup Ecosystem Builder Designation	14024
 BIODIVERSITY PRODUCTS ECOSYSTEM RESTORATION	11586
+BUILDING THE MAURITIAN BROADBAND ECOSYSTEM	14723
 Babson Entrepreneurship Ecosystem Project	13314
 Benin Ecosystem Mobile	10856
 Blog Connecting Complex Ecosystems	11006,1
 Boost Jordan’s National Entrepreneurship Ecosystem ADIB	5322
 Botswana Trade and Venture Ecosystem BTF	5879
+Broadband Ecosystem	14723
 Broader Ecosystem IntegrationThe	11222
 Build Resilience of People and Ecosystems	11469
 Build Resilience of People and Ecosystems Rationale	11469
@@ -64,6 +66,7 @@ Data Ecosystem Management Policy Statement	7548
 Data Ecosystem Standards	14664
 Data Ecosystems	12356
 De-Risking Ecosystem	11310
+Defining the Mauritian Broadband Ecosystem	14723
 Deriving Ecosystems Services	1154
 Description USAID Digital Ecosystem Country Assessment	1166
 Description USAID Kenya Digital Health Ecosystem	725
@@ -113,7 +116,7 @@ Ecossistema de Cibersegurança	11394
 Ecossistema de Código Aberto	3519
 Ecossistemas Globais de IA Para Moçambique	2816
 Ecostar	12937
-Ecosystem	2277,33,1067,1,171,577,402,320,276,427,474,568,344,611,2054,408,711,72,870,200,351,162,68,68,24,822,303,905
+Ecosystem	2277,33,1067,1,171,577,402,320,276,427,474,568,344,611,2054,408,711,72,870,200,351,162,68,68,24,822,303,905,253
 Ecosystem Access	4848
 Ecosystem Approach	5366,5789
 Ecosystem Builder	14024
@@ -126,13 +129,16 @@ Ecosystem Coordination	11138
 Ecosystem Coordination Identity	11138
 Ecosystem Coordination Primary	11138
 Ecosystem Coordination Secondary	11138
+Ecosystem Data	14819
 Ecosystem Debt	3391
-Ecosystem Development	12356
+Ecosystem Development	12356,2463
 Ecosystem Development Approach	12376
 Ecosystem Development Approach ESOs Ecosystem Support	12376
 Ecosystem Diamond	12376
 Ecosystem Director of ISN	12053
 Ecosystem Enabler	12241
+Ecosystem Enablers	14819
+Ecosystem Governance	14819
 Ecosystem Identity	7446
 Ecosystem Integration	11986,370
 Ecosystem Integration and Hosting Model	5533,58
@@ -146,7 +152,7 @@ Ecosystem Mono	4324
 Ecosystem Officer	12512
 Ecosystem Orchestration	11502
 Ecosystem Outlook	12053
-Ecosystem Overview	12376
+Ecosystem Overview	12376,2443
 Ecosystem Registry	7548
 Ecosystem Report	7921
 Ecosystem Services Ecosystem Services	1988
@@ -181,10 +187,13 @@ Extend Its Super-App Ecosystem	5397
 FINTECH ECOSYSTEM PERSPECTIVES	4848
 Facility The Africa Ecosystem Catalysts Facility	14233
 Federated Ecosystems for Digital ID	10714
+Fintech Ecosystem Assessment	14819
+Fintech Ecosystem Assessment The Strategy	14819
 Fintech Ecosystem Caught Between Cash	10692
 Five Priorities for Zimbabwe’s AI Ecosystem Government	9030
 Foreign Startups and Ecosystem Builders	14024
 Foreign Startups and Foreign Startup Ecosystem Builders	14024
+Foster Ecosystem Coordination	14819
 Foundational Infrastructure and Data Ecosystems Objective	4528
 Fragmented Ecosystem	12444
 Fragmented Ecosystem Mitigation	12512
@@ -194,7 +203,8 @@ GII Innovation Ecosystems and Data Explorer	12205
 GSMA Building Digital Ecosystems	5241
 Gaps and Opportunities for Zambia’s Startup Ecosystem	12376
 Georgia National Innovation Ecosystem	11529
-Global Startup Ecosystem Index	2676,9700
+Global Ecosystem Index	14749
+Global Startup Ecosystem Index	2676,9700,2373
 Global Tech Ecosystem Index	7181
 Governance Ecosystem	4126
 Government Digital Ecosystem. II. Package B	13424
@@ -260,8 +270,14 @@ Maisha Ecosystem. Parties' Submissions	14460
 Mali Digital Ecosystem Country Assessment	1166
 Mangroves Coastal and Marine Ecosystems	11586
 Maturity Innovation Culture and Ecosystem Mauritius	14566
+Mauritian Broadband Ecosystem	14723
+Mauritius Broadband Ecosystem Blueprint	14723
+Mauritius Fintech Ecosystem	14819
+Mauritius Fintech Ecosystem Mapping Research Mauritius	14819
 Media Ecosystem Observatory	13461
 Mobile Ecosystem Forum	7460
+NDS Ecosystem	14790
+NDS GOVERNANCE AND ECOSYSTEM	14790
 Namibian NPS Ecosystem Figure	13076
 National AI Strategy Ecosystem Category	4528
 National AI Strategy Ecosystem Category Entities	12512
@@ -281,6 +297,7 @@ Open Digital Payment Ecosystems	1019
 Open Source Ecosystem Enabler	13080
 Open Source Ecosystem Enabler Development	12241
 Open-Source Ecosystem Enabler	12241
+Overall NDS Ecosystem	14790
 Overview of Identification Ecosystem	12328
 Ozow. The Payments Ecosystem Modernisation	5691
 PART THREE STARTUP AND STARTUP ECOSYSTEM	14024
@@ -295,7 +312,10 @@ Payments Ecosystem Modernisation	4824,584,1264,581,1347,2636
 Peering Ecosystem Support	13120,1348
 Peering Ecosystem Support Peering Ecosystem Support	13120,1348
 People and Ecosystems	11469
+Private Collaboration and Ecosystem Coordination Establish	14819
 Project Ecosystem Steering Committee	2381
+Public Key Infrastructure Ecosystem	14729
+Public-Private Partnerships and Ecosystem Development	14819
 REBALANCING THE LEGAL ECOSYSTEM Defining	961
 Reserve Bank's Payments Ecosystem Modernisation	7253
 Reserve Bank’s Payments Ecosystem Modernisation	6559
@@ -312,6 +332,7 @@ STATE OF ESWATINI'S FINTECH ECOSYSTEM	12444
 STATE OF ESWATINI'S FINTECH ECOSYSTEM Eswatini	12444
 SUB-SECTION TWO DESIGNATION OF STARTUP ECOSYSTEM	14024
 Sector AI Ecosystem Enablers AI Ecosystem	4126
+Sector NDS Ecosystem	14790
 Secure and Safe Digital Ecosystem OBJECTIVE	12674
 Securing Ghana’s Digital Finance Ecosystem	14691,7
 SelfSustaining Ecosystem	4528
@@ -340,6 +361,7 @@ Strengthen Regulatory Ecosystem	4803
 Strengthen Sierra Leone’s Digital Finance Ecosystem	9920
 Strengthening Pan-Africa Payment Ecosystem	12962
 Strengthening the Mobile- and IoT- Ecosystem	11016
+Strong Innovation Ecosystem Innovation	14752
 Support Digital Ecosystem	11304
 Tabular Mapping of Startup Ecosystem Mapping	12376
 Tech Ecosystem Development	3487
@@ -347,6 +369,8 @@ Techno Ecosystem Coordination Institution Structural	11138
 Technology Governance Ecosystem Coordination AI	11138
 Telecoms Ecosystem	3862
 Thriving AI Ecosystem KICTANet's Dr. George	12104
+Training Ecosystem	14819
+Training Ecosystem Universities	14819
 Transform Nigeria’s Digital Financial Ecosystem	6700
 Trusted Data Ecosystem	1204
 Trusted Data Ecosystem and Data Sharing Programme	7548

@@ -8,6 +8,7 @@ Complaint Lodged	13178
 Cresta Lodge	1554
 Director General LODA	12370
 Director General of LODA	12434
+Employees’ Lodging Accommodation	14742
 Former State Lodge EAC	8546
 Game Lodges1	2775
 Gmunder Lodge	12933
@@ -24,7 +25,9 @@ Lodge and Wegrich	2096
 Lodged	718
 Lodgement	11249,708,1609
 Lodges	11458
-Lodging	2709,9920,1798
+Lodging	2709,9920,1798,315
+Lodging Accommodation Permit	14742
+Lodging of Appeal	14828,3
 Lodgment	3714
 Lodhia V	1219
 Lodhia&author	1219

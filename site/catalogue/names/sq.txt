@@ -1,6 +1,7 @@
 Airport Square	3386
 Amazon SNS and Amazon SQS	10794
 Amazon SQS	10794
+Annex C. Police Helicopter Squadron	14760
 Audi SQ5 Sportback	11036
 Azure SQL	6432
 Azure SQL Server	11578
@@ -8,7 +9,10 @@ Bank Square	7464,1268,2967,665,45
 Binance Square	4127
 Bristol Myers Squibb	10643
 C Squared InvestCo	610
+Cathedral Square	14847
+Cathedral Square Building	14847
 Church Square	11289
+DEVELOPMENT UNIT Internal Audit Squad CENTRAL	14760
 Description Digital Square	154
 Description USAID and PEPFAR-funded Digital Square	730
 Digital Public Squares	11586
@@ -16,13 +20,17 @@ Digital Square	154
 Digital Square Tanzania	730
 Digital Square Tanzania PEPFAR Strengthening Capacity	730
 Elepo Square	10049
+Engineer Squadron	14760
 Environment Windows Sql Server	9124
 Fix SQL	11922
 Four Thirty Square	12600
+Guy Rozemont Square	14847
 Head Office Bank Square	13532
+Human Resources and Internal Audit Squad	14760
 Independence Square	14706
 MS SQL	7977,5208
 Makoanyane Square	6623,6128
+Maritime Air Squadron SERVICES Police Band	14760
 Market Square	1191
 Microsoft SQL	11922
 Microsoft SQL Server	13037,148,443
@@ -31,11 +39,16 @@ Muritala Square	12038
 MySQL and SQL	13575,1
 MySQL and SQL Server	10060
 NET and MS SQL Server	12196
+Officers Police Psychologists Engineer Squadron	14760
 Oracle SQL Developer	10617
 Ordinary Least Squares	236
+POLICE HELICOPTER SQUADRON NDRRMC MCIT ADSU	14760
+Pandit Sahadeo Square	14847
 Partial Least Square Structural Equation Modeling	14267
 Partial Least Squares	11107
 Partial Least Squares Structural Equation Modeling	14267
+Police Helicopter Squadron	14760,21
+Police Helicopter Squadron PIO	14760
 Postbank Black Card. Newsclock Squeezeback	8999
 Research Square	2816
 Research Square Cite Share Download PDF	12379
@@ -54,12 +67,14 @@ Square	730,8269,2130,766,265,195,132
 Square Associates	9098,46
 Square Kilometer	9485
 Square Kilometre Array	5328,116,1036,3596,1107,65,1678
+Square Metre	14778
 Square Shopp Cntr Cape Town Station	8999
 Squared Poverty Gap	12923
 Squarely	13257
 Squatrito	11140
 Squatters	1988
 Squeezed	8598
+Squid	14818
 Squire JS	14666
 Standardised Root Mean Square Residual	4432
 Sub-component of Digital Square	730

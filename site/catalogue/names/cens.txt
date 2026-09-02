@@ -39,7 +39,7 @@ Censores de Cuentas	4209
 Censorship	6562
 Censorship and Entertainments Control Act	6951
 Censos	2816,8605,25,131
-Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266
+Census	958,8,10,968,2100,1489,1119,716,2193,1187,17,10,354,63,45,59,660,30,68,97,232,20,10,230,12,94,214,40,30,262,10,5,7,42,153,816,266,181
 Census Act	12551
 Census Committees	12963
 Census EAs	11296
@@ -57,6 +57,8 @@ Census and Statistics	13343
 Census and Statistics Act	9252,4053,5,7,42,27,60
 Census and Statistics Amendment Act	13317
 Census and Survey Processing System	10777
+Census of Agriculture	14818
+Census of Economic Activities	14777
 Census of Population	10826
 Census of Population and Housing	1867,10542,22,936
 Census-year	13367
@@ -99,7 +101,7 @@ HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
 HOUSING CENSUSES	14594
 Household Surveys and Censuses	11237
 Housing Census	10870,1281,1854
-Housing and Population Census	12749
+Housing and Population Census	12749,1985,8,3,70,17
 I Censo Agropecuario V Censo de Población	10487
 I Censo General Agropecuario	8048,2439
 II Censo Agropecuario	4209
@@ -143,7 +145,7 @@ Overview Censuses	11192
 P0301.4 Census	11192
 PART VI-- POPULATION AND HOUSING CENSUSES	14594
 POPULATION AND HOUSING CENSUS Power	14594
-Population Census	10748,122,1037,1460
+Population Census	10748,122,1037,1460,1465
 Population Census Commission	13948
 Population Census Preliminary Report	11905
 Population Census Team	12413

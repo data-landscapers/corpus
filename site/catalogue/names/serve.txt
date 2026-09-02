@@ -6,6 +6,7 @@ CV-IXP Route Servers	11878
 Card SMB Server Message Block SPBM	13185
 Central Authentication Server Common ICT Processes	9123
 Chassis for Servers and Storages	1988
+Configuration and Commissioning of High-Performance Servers	14783
 Configuration of Server	13424
 Consumer Security Server	11952
 Consumer Security Server Requirement	11952
@@ -20,10 +21,13 @@ FORMALLY SERVED	418
 FOURNITURE ET LIVRAISON SERVEUR PAIE ET	9339
 INFORMALLY SERVED	418
 IP Server Equipment	6946
+IPv4 Route Server	14827
+IPv6 Route Server	14827
 Infraestructure Local Server Tax Number-MINFIN	10775
 Linux Servers	10617
 Local Server Central Server Internet Local	10775
 Local Server Local Server Social Security	10775
+MIXP Route Servers	14810
 ML GPU-ACCELERATED SERVER PLATFORM	13621
 Main Server ID Production Center CPBI	10775
 Maria Server	3395
@@ -40,19 +44,22 @@ Provider Security Server	11952
 Regular Reboot of Serves Scheduled	9123
 Reporting Server	13037
 Reserve Parts for Servers	9123
-Route Server	13380
+Route Server	13380,1430,17
 Route Server Inbound	718
+Route Server Route Server	14827
 Route Server Service	13704
 Route Server Service Simplify	13704
+SAN and Servers	14783
 SERVER AND STORAGE INFRASTRUCTURE	11209
 SQL Server	6432,6713,24,16
 Salles Serveurs	14537
 Security Server	11952
+Selflessly We Serve’ Core Values	14760
 Sequel Server	9124
 Serve	2757,1104,667,6663,46,1119,142,14,162,1059,291,8,402,241
 Served	1984,2958,664,283,454,183,4452,152,3545
 Servem	12018
-Server	593,626,5213,2691,1,3129,126,302,356,148,338
+Server	593,626,5213,2691,1,3129,126,302,356,148,338,1260
 Server Backup	34
 Server Load Balancer	13185
 Server Local Server Local Server	10775
@@ -68,6 +75,7 @@ Servers Management	9123
 Servers Regular Restoration Tests of Servers and Services	9123
 Servers Zambia Refugee and Host Community Project	1988
 Servers and Applications	9123
+Servers and Storage	14783
 Serves	4130,525,1010,6195
 Serves Citizens Opening	8367
 Servest	10279

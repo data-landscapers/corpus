@@ -15,6 +15,7 @@ Broadband Fixed Broadband	2776
 Broadband Fixed Wireless Access	12949
 Broadband Fixed Wireless Access Systems. Sixth	736
 Broadband Fixed-broadband	11563
+Business Corporations GFCF Gross Fixed Capital	14777
 Business Unit Fixe	9916
 COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
 CRA Iraq Yes Fixed Broadband Policy	11529
@@ -27,6 +28,7 @@ DATE FIX	4964
 DECISION ON AUTHORISING FIXED BROADBAND INTERNET	2913
 DIGITAL INFRASTUCTURE Malawi Fixed Wireless and Fiber	12937
 Dig Once Policy P-5 Fixed Internet	11857
+Digitalisation of Fixed Penalty Notice	14830
 Domestic Fixed	2776
 Domestic Fixed Network Traffic	6671
 Domestic Fixed Voice Traffic	6671
@@ -84,7 +86,7 @@ Fixation	13291,84,58
 Fixation des Conditions	13313
 Fixação	11518,2,1333
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353,215
 Fixed Annual	13331
 Fixed Asset	13053
 Fixed Asset Management Units	9004
@@ -165,7 +167,9 @@ Fixed Office and Service Points Geographic Coverage	8999
 Fixed Operator Q3	2776
 Fixed Operators	3862
 Fixed Operators Staff Count	3862
+Fixed Penalties	14828,3
 Fixed Penalty Notice	7845
+Fixed Penalty Notice GBV	14760
 Fixed Penalty Notices	14267
 Fixed Q3	2776
 Fixed Radio	736
@@ -228,6 +232,7 @@ Fixed Wireless Subscriptions Fixed Line Subscriptions	12395
 Fixed Wireless Telephone	12395
 Fixed Wireless and Fiber Access Network Expansion	956
 Fixed Wireless-Fixed Wireless	6671
+Fixed and Mobile	14836
 Fixed and Mobile Network Services	2775
 Fixed and Mobile Tariffs	6946
 Fixed and Mobile Telephony Charges	2775
@@ -247,7 +252,7 @@ Fixed-broadband	6648,298,3898,719,2535
 Fixed-broadband Internet	11563,402
 Fixed-effect	10881
 Fixed-effects	10852
-Fixed-line	1013,1763,1783,6652,1184
+Fixed-line	1013,1763,1783,6652,1184,2441
 Fixed-speed	11085
 Fixed-tele	10844
 Fixed-telephone	718,6228,3898,1489,11
@@ -266,6 +271,7 @@ Fixing The Nation	6258
 Fixing the Frictions	11149
 Fixing the Frictions. Chapter	11149
 Fixing the Rules	11960
+Fixtures and Fittings	14736
 Fixée	2014
 Formation Brute de Capital Fixe	9276
 Formation Brute de Capital Fixe FBU	13377
@@ -274,7 +280,7 @@ Frequency Assignments for Non-Protected Fixed Links Band	6946
 G Fixed Wireless Access	6100
 GSM FIXED ISP VAS C&I OTHERS	3862
 Gigabytes. Fixed	11085
-Gross Fixed Capital Formation	2775
+Gross Fixed Capital Formation	2775,12055
 Gross Fixed Capital Formation GIBA Ghana	236
 Gross Fixed Capital Formation and FDI Djibouti	13868
 HF PMR Fixed	6946
@@ -283,6 +289,7 @@ Hirshabelle's Digital Fix for Somalia's Oldest Tax	7897
 Home FWA Fixed Wireless Access	1818
 Hour Proposed Fixed Rate	13037
 I MÉTHODE DES JOURS FIXES	13300
+INTANGIBLE FIXED ASSETS SOFTWARE COST	14736
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
 INTERNET FIXO POR REGIÃO	11531
 Incoming Fixed	3862
@@ -373,6 +380,7 @@ SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
 SMS AMERICAN TOWERS Fixe	998
 SOUTH AFRICA FIXED AND MOBILE UPLOAD	11262
 Service Gross Compensation of Consumption of Fixed Taxes	236
+Street Fixed	14713
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
 TECHNOLOGY SECTOR REPORT Fixed Telephony Main	12395
 Technical Global KPIs for Fixed Access Networks	13331
@@ -397,6 +405,7 @@ WRITE AMOUNT IN N A- Fixed	582
 Wave Fixed Wireless Access	5245
 Weak Fixed Asset Controls	9650
 Work Gross Fixed Changes	236
+Year Fixed Mobile	14836
 Year-on-Year Fixed Broadband	2776
 Year-on-Year Fixed Broadband Subscriptions	2776
 Year-on-Year Fixed Data	2776

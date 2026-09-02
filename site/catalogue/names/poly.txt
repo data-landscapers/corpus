@@ -19,6 +19,7 @@ Kenya Coast National Polytechnic	1236
 Kiambu National Polytechnic	7568
 Lerotholi Polytechnic	1710,10964,51,26
 Les Données Polygonales	13375
+MITD and Polytechnics Mauritius	14818
 Madagascar Ecole Supérieure Polytechnique	14448
 Masvingo Polytechnic College	4528,7984
 Mohammed VI Polytechnic University	1814
@@ -26,6 +27,7 @@ Nollywood. The Polygamist	10481
 POLYGAMIE Polygamie	13300
 POLYTECH de Maradi	8420
 POLYVIOU	6613
+Plastic and Polyethylene Pipes and Fittings	14736
 Polyakova	2117,401,2724
 Polybrominated	1988
 Polycarbonate	10812,1352
@@ -33,11 +35,13 @@ Polycarbonate Format	14480
 Polycarp Otieno	12196,1485
 Polychain Capital	9151
 Polychlorinated	1988
+Polychlorinated Biphenyls	14774
 Polycultures and Crop	1988
+Polyendocrine Metabolic Ovarian Syndrome	14829
 Polyeresterimide	13385
 Polyester	6921
 Polyesterimide	11269
-Polyethylene	13385
+Polyethylene	13385,1351
 Polygame Partenaires	13300
 Polygamie	13300
 Polygamist	10481
@@ -52,9 +56,12 @@ Polytech Nantes	5054
 Polytech. Polytech	14148
 Polytechnic	9104,2753,1524
 Polytechnic Institute	9237
+Polytechnic Mauritius	14750
 Polytechnic of Namibia	12325
-Polytechnics	258,990,10609,375,179
-Polytechnics Mauritius Ltd	7845
+Polytechnics	258,990,10609,375,179,2318,13,77
+Polytechnics Mauritius Limited	14742
+Polytechnics Mauritius Ltd	7845,6998
+Polytechnics Mauritius Ltd Montagne Blanche Campus	14842
 Polytechnics. Data	13310
 Polytechnique	10948,1023
 Polytechnique de Bruxelles	8621

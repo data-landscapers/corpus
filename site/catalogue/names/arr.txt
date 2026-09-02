@@ -1,3 +1,5 @@
+A. Arrangements	14717
+A. FREQUENCY ARRANGEMENT Frequency	14825
 A. INSTITUTIONAL AND IMPLEMENTATION ARRANGEMENTS	11863,2075
 A. Institutional Arrangements	14430
 A. Institutional and Implementation Arrangements	969,295,603,1737,2935,4229,61,551,145,24,11,295,1476,1
@@ -11,7 +13,7 @@ ARRANGEMENT OF ACT PART I PRELIMINARY	12899
 ARRANGEMENT OF ACT PREAMBLE CHAPTER	3714
 ARRANGEMENT OF ARTICLES AUTHORITY PREAMBLE Article	11956
 ARRANGEMENT OF CLAUSES Clause	7845
-ARRANGEMENT OF CLAUSES Clause PART	14575
+ARRANGEMENT OF CLAUSES Clause PART	14575,160
 ARRANGEMENT OF CLAUSES Clauses PART I--PRELIMINARY	14594
 ARRANGEMENT OF PARAGRAPHS PARAGRAPH	12575
 ARRANGEMENT OF REGULATIONS PART	12575
@@ -19,18 +21,18 @@ ARRANGEMENT OF REGULATIONS REGULATION	12624,411
 ARRANGEMENT OF REGULATIONS REGULATION Preliminary	5687
 ARRANGEMENT OF REGULATIONS Regulation	22,12388
 ARRANGEMENT OF REGULATIONS Regulations	13307
-ARRANGEMENT OF SECTIONS	2726,8463,1701,5
+ARRANGEMENT OF SECTIONS	2726,8463,1701,5,1824
 ARRANGEMENT OF SECTIONS CHAPTER	12919
-ARRANGEMENT OF SECTIONS PART	1333,11197,2,3,27,68,308,401,32
+ARRANGEMENT OF SECTIONS PART	1333,11197,2,3,27,68,308,401,32,1343
 ARRANGEMENT OF SECTIONS PART I PRELIMINARY	13305,14,2,1,30
 ARRANGEMENT OF SECTIONS PART I Preliminary	736,236,12587
 ARRANGEMENT OF SECTIONS Preliminary Section	587
 ARRANGEMENT OF SECTIONS SECTION	11976,548
-ARRANGEMENT OF SECTIONS SECTION PART	3887,8659,3,80
+ARRANGEMENT OF SECTIONS SECTION PART	3887,8659,3,80,2088
 ARRANGEMENT OF SECTIONS SECTION Part	12900
-ARRANGEMENT OF SECTIONS Section	1220,657,11408,113
+ARRANGEMENT OF SECTIONS Section	1220,657,11408,113,1315,3,4,2,87,12,22
 ARRANGEMENT OF SECTIONS Section Application	11
-ARRANGEMENT OF SECTIONS Section PART	783,691,1253,10676,203
+ARRANGEMENT OF SECTIONS Section PART	783,691,1253,10676,203,1109,12,1,2,2,11,25,56
 ARRANGEMENT OF SECTIONS Sections	11179
 ARRANGEMENT OF SECTIONS Sections CHAPTER	11181,9
 ARRANGEMENTS OF SECTIONS PART I PRELIMINARY	13318
@@ -62,6 +64,7 @@ ARRÊTONS	1214
 ARRÊTÉ	13300
 ARRÊTÉ PRÉSIDENTIEL N	1214
 AUTHORITY OF NAMIBIA SCHEDULE ARRANGEMENT	13071
+Abolition of Slavery and Arrival of Indentured Labourers	14742
 AccUMULATIoN DE NoUvEAUx ARRIEREs	14479
 Act. Transitional Arrangements	13398
 AfDB African Development Bank ARR Annual	11380
@@ -89,7 +92,7 @@ Arrangement of Sections	5872
 Arrangement of Sections PART I PRELIMINARY	12894
 Arrangement of Sections Part	12643
 Arrangement of Sections Section	14484
-Arrangements	1867,908,829,6553,611,61,135,561,26,304,1476,1
+Arrangements	1867,908,829,6553,611,61,135,561,26,304,1476,1,1385,127
 Arrangements A. Financial Envelope and Knowledge	11469
 Arrangements Additional Financing Loan Closing Date	11924
 Arrangements and Opaque Offshore Structures	11233
@@ -111,6 +114,10 @@ Arrears Clearance and Debt Resolution	13685
 Arrears Clearance and Debt Resolution Process	13685
 Arrears Clearance and Debt Resolution Roadmap	13685
 Arrears Findings The Ministry	13420
+Arrears Management	14761
+Arrears Payment Scheme	14761
+Arrears Pensions and Gratuity	14774
+Arrears Recovery Unit	14761
 Arrears Report	12976
 Arrears Report Table	12976
 Arrears of Community Levy Proceeds	6422
@@ -231,6 +238,7 @@ Expenditure Arrears Clearance Strategy	13685
 Extended Credit Facility Arrangement	13741
 External Payment Arrears	13474
 FACILITY ARRANGEMENT	13741
+FINALITY AND COLLATERAL ARRANGEMENTS	14728,2
 Federation of Nigeria Arrangement of Sections	11853
 Financial Management Arrangements	11855,50
 Financial Management Arrangements. The Director of Finance	1867
@@ -244,6 +252,7 @@ Funds Flow and Disbursement Arrangements Note	11525
 G. Domestic Tax Arrears	12500
 GHz Channelling Arrangement Channel No. Lower	12949
 GL Arrange	11231
+GOVERNANCE ARRANGEMENTS	14834
 GOVERNMENT DOMESTIC ARREARS IN THE REPUBLIC	1828
 Gen11 Smart Array	12681
 Governance Arrangement	12542
@@ -270,6 +279,7 @@ INSTITUTIONAL ARRANGEMENTS	12675,264
 INSTITUTIONAL ARRANGEMENTS FOR REGULATION OF COMPLEX	961
 INSTITUTIONAL ARRANGEMENTS In Namibia	12337
 INTERIM GOVERNANCE ARRANGEMENTS	3861
+INTERNATIONAL STANDARDS ON STABLECOIN ARRANGEMENTS	14844
 Implementation Arrangements	1988,9867,50,271,360,442
 Implementation Arrangements III. KEY RISKS	2889
 Implementation Arrangements Level	1988
@@ -314,9 +324,11 @@ Living Arrangements for Returnees	10841
 Local Currency SWAP Arrangement AND Naira	11469
 Loli Arribas-Banos	12832
 Long Outstanding Arrears of Revenue	14546
+Long Term Arrangement	14778
 M ARR	819
 MINISTER REVEALS THE ARREST	6871
 MOIS NE SE ARRIVÉ	13300
+MRA. Transitional Arrangement	14833
 Macroeconomic Impacts of Government Domestic Arrears	1828
 Mandated Lead Arranger	398
 Maria Dolores Arribas-Banos	13459
@@ -328,6 +340,8 @@ Modelos de Arranjo Institucional	11456
 Monitoring Arrangements	12759
 Monthly International Visitor Arrivals	2775
 Mozambique. Contacts Arrone Santos Macuácua	12855
+Multilateral Recognition Arrangement	14814
+Mutual Recognition Arrangement	14736,78
 NAMIBIA Arrangement of Paragraphs PART	12365
 NATIONAL CLEARANCE AND SETTLEMENT SYSTEMS ARRANGEMENT	12528
 NATIONAL PAYMENT SYSTEM Arrangement of Paragraphs	12374
@@ -386,11 +400,14 @@ STANDARDS ARRANGEMENT OF SECTIONS SECTION	12526
 Security Council. The Arria-Formula Meeting	2117
 Service Level and Institutional Arrangements	10157
 Square Kilometre Array	5328,116,1036,3596,1107,65,1678
+Stablecoin Arrangements	14844
 Stock of Domestic Arrears and Drivers	1828
 Strategic Plan Implementation Arrangements	13005
 Strategic Plan Implementation Arrangements The National	13005
 Subsequent Arrests	14190
+Supervision and Oversight of Global Stablecoin Arrangements	14844
 Supplier Finance Arrangements	13053
+TRADE ARRANGEMENTS CANNOT	14816
 TRADING ARRANGEMENTS POST-DELISTING Shareholders	4263
 TRANSITIONAL ARRANGEMENTS	13420
 Tax Arrears	12500,451
@@ -400,7 +417,8 @@ Tender Board Department Arrears	12976
 Tourist Arrivals and Visits	13479
 Trade REPORT KEYS Arrows	5247
 Trading Arrangements	13320
-Transitional Arrangements	3714,9224
+Transitional Arrangement	14833
+Transitional Arrangements	3714,9224,1890
 Transitional Arrangements- Migration	13420
 Transitional Arrangements. PART I PRELIMINARY Citation	12929
 Transitional Financial Arrangement	3583

@@ -15,6 +15,8 @@ ADELA HOLDINGS LTD Data Controller INST-8727494F68C	7167
 ADELA HOLDINGS LTD Data Processor INST-8727494F68C	7167
 ADILI FIDUCIARY SERVICES LTD Data Controller	7167
 ADVANTAGE AMBULANCE SERVICE LTD Data Controller	7167
+AEL DDS LTD FIRE DRILL	14738
+AEL DDS LTD Transport	14738
 AEROSPEED CONSULTANTS LTD Data Controller INST-564786FFD42	7167
 AFIA CONCEPT SOLUTION LTD Data Controller	7167
 AFIA CONCEPT SOLUTION LTD Data Processor	7167
@@ -121,7 +123,8 @@ Agro-Chemical and Food Co. Ltd	14546
 Agro-Chemical and Food Company Ltd	14546
 Ahadi Wireless Ltd	6671
 Ainabkoi Farmers Sacco Society LTD Data	7167
-Airport Terminal Operations Ltd	10045
+Airport Terminal Operations Ltd	10045,4708
+Airports of Mauritius Co Ltd	14830
 Airtel Networks Ltd	3862,3084
 Airtel Nigeria Ltd	11993
 Airtel Rwanda Ltd	718
@@ -135,6 +138,8 @@ Angleside Health Care LTD Data Processor	7167
 Anhui YISHANG Digital Science Co. Ltd	189
 Apeiro Ltd	6231
 Apex Collections Africa Ltd Data Processor	7167
+Applicable Secure Services Mauritius Ltd	14783
+Applicable. Infosystems AA Ltd	14783
 AquaSee Networks Ltd Data Controller INST-80838526970	7167
 Ardhi Sacco Society Ltd Data Controller	7167
 Arif Investment Ltd	3862
@@ -145,6 +150,7 @@ Ascend Digital Solutions Ltd	4326
 Astramix Ltd	3862
 Authority. LTA	9859
 Awareness A. The LTA and Telecommunications Service	4610
+Axian Energy Ltd Innovative Solar Tracker	14745
 Axian Telecom Fibre Ltd	3886
 Azura Power West Africa Ltd	11469
 Azura Power West Africa Ltd. Infrastructure	11469
@@ -209,6 +215,7 @@ BUSY BRAINS GROUP OF SCHOOLS LTD	7167
 BWENA MEDICAL SERVICES LTD Data Processor	7167
 Backbone Connectivity Network Ltd	3862
 Backbone Connectivity Network Nigeria Ltd	3862,1139
+Bank State Bank of Mauritius Ltd Letter	14736
 Bank of Sierra Leone and PCL International Ltd	2112
 Banki Kuu SACCO Ltd Data Controller	7167
 Banki Kuu SACCO Ltd Data Processor	7167
@@ -219,6 +226,9 @@ Bergmans Security Consultants and Supplies Ltd	10555
 Biden Information Technology Beijing Co Ltd	8285
 Biometix Pty Ltd	2190
 Biometric Travel Solutions Ltd	2796
+Blanche Birger Co Ltd	14783
+Blanche Birger Co. Ltd	14802
+Board of Airport Terminal Operations Ltd	14753
 Bold Insight Tech Solutions Ltd Data	7167
 Bon Voyage Ltd Data Processor INST-619178AE0BA	7167
 Boresha Ltd	14524
@@ -240,6 +250,7 @@ Bulk Storage Terminal Ltd	12256
 Business Reporter Mwananchi Communications Ltd Dar	8465
 C.E.O SKLD Integrated Services Ltd	7444
 C45 TECHNOLOGY KENYA LTD Data Controller	7167
+CABSIS Consulting Ltd	14802
 CAD CREATIONS LTD Data Controller INST-4815997CAF5	7167
 CAJWA PHARMACEUTICAL AND MEDICAL CENTER LTD	7167
 CALVARY HOPE MEDICAL CENTRE LTD Data	7167
@@ -334,6 +345,7 @@ Captain Andy Fishing Supply Ltd Data	7167
 CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
+Cargo Handling Corporation Ltd	14803,26,1
 Carol Musyoka Consulting Ltd Data Controller	7167
 Carslake Nominees Ltd T	7167
 Cassava Technologies Ltd	1436
@@ -343,6 +355,7 @@ Centrino Technologies Ltd Data Processor INST-362147EEE9A	7167
 Chai Sacco Society Ltd Data Controller	7167
 Chai Sacco Society Ltd Data Processor	7167
 Chairman of LTT	5336
+Chairperson of Air Mauritius Ltd	14774
 Chapman Computer Ltd	3862
 Chapman Computers Nigeria Ltd	3862
 Characteristics MTN Rwanda Ltd Airtel Rwanda	718
@@ -371,6 +384,7 @@ Consultation Process Guidelines for LTA Rules	10406
 Consulting Ltd	6409
 Consulting Ltd. LBSE Basic Education Law	11552
 Content Oasis Ltd	3862
+Cooperative Society Ltd. Mr. S Tengur	14736
 Copycat Ltd and Actus	7957
 Coquina Software Company Ltd	3862
 Coscharis Technologies Ltd	3862
@@ -461,6 +475,7 @@ Development Co. Ltd	3583
 Dhahabu Cancer Care LTD Data Controller	7167
 Dhamini Sacco Society Ltd Data Controller	7167
 Digital Archiving Consultancy Ltd. Lynch	12090
+Digital Health Co. Ltd	14837
 Digital Ltd	3862
 Digital Society LTD	12952
 Dimension Data Ltd	3862
@@ -468,6 +483,7 @@ Dimension Data Solutions East Africa Ltd	6671
 Discovery Ltd and Others	961
 Dithub Engineering Ltd Data Controller INST-4990499E7B3	7167
 Dithub Engineering Ltd Data Processor INST-4990499E7B3	7167
+Domestic Leased Circuits Mauritius Telecom Ltd	14723
 Dotmac Technologies Ltd	3862
 Drains Infrastructure Construction Ltd	7845
 Drausnet Ltd	3862
@@ -514,10 +530,12 @@ Ekovolt Telco Ltd	3862
 Eldoret Water and Sanitation Company Ltd Data	7167
 Electronic Connections Ltd	3862
 Emata Ltd	834
-Emtel Ltd	14306
+Emtel Ltd	14306,417
+Energies Marketing Mauritius Ltd Road	14738
 Eskom Hld SOC Ltd FaceBook	11953
 Eskom Holdings SOC Ltd	2307
 Establishment of LTA Computer Emergency Response Team	4610
+Ex-Mauritius Tea Factories Company Ltd	14774
 Excelsimo Networks Ltd	3862
 Executive Branch. For the LTA	14354
 FIDO Micro Credit Ltd	1472
@@ -535,6 +553,7 @@ FibreOne Broadband Ltd	3862
 Fibrehub Internetworking Ltd	3862
 Fibrehub Internetworking Services Ltd	3862
 Fibrehub Ltd and Broadbased Ltd	3862
+Financial Services Institute Ltd	14819
 First Bank of Nigeria Ltd	4771
 First National Bank of Namibia Ltd	12252
 FiscalAdmin Ltd	14308
@@ -545,7 +564,7 @@ Franchise Holdings Ltd	13040
 Fund Mugabe Way Wireless Pvt Ltd	4896
 Futurecom Ltd	3862
 G Download Download Mbps Mbps LTE	6051
-G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141
+G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141,2193,51,42,3
 G LTE Advanced	3487
 G LTE. Thirty	718
 G and LTE	3528,334,2138,11,7302
@@ -558,6 +577,7 @@ Galaxy Backbone Ltd	3862
 Gambia Telecommunications Company Ltd	4519,24
 Ganergy Heavy Industry Group Co. Ltd	3191
 Gas LTE Long Term Evolution LTM	2775
+Gas Transport Ltd ROAD ACCIDENT VIVO	14738
 Ghana LTE	236
 Ghana’s LTNDP	789
 Gicumbi Transport Cooperative and Different Ltd	718
@@ -568,6 +588,7 @@ Gov Technologies Ltd	14081
 GovChat Pty Ltd	7910
 Government and ELCOME SL Ltd. Collaborate	2339
 Graphic Communications Group Ltd	9536
+Green Bean Distributions Ltd	14736
 Group Ltd	3386
 Group Vivendi Africa Ghana Ltd	3386
 Guaranty Trust Bank Ltd	12038
@@ -585,6 +606,7 @@ Holdings Ltd	6753
 Home LTE	11259
 Home LTE and SuperFlex	11259
 Hon. Lt. Gen. Rtd A. N	13591
+Honoris Educational Network Ltd	14775
 Hoop Telecoms Ltd	3862
 Houston Wireless Ltd	3862
 Huawei Marine Networks Co. Ltd	57,13654
@@ -597,8 +619,10 @@ I-Net World Ltd	3862
 I-World Ltd	3862
 I-World Networks Ltd	3862
 ICPC Ltd	3513
+ICTA and Mauritius Telecom Ltd	14750
 ICTPACK Solution Ltd	8276
 IDS Africa Ltd	3862
+IFM Quality Services Pty Ltd	14736
 IHS Holding Ltd	292
 IHS Kenya Ltd	1518
 IHS Zambia Ltd	48,639
@@ -622,15 +646,18 @@ Identity Management Systems Ltd	6166
 Imbil Telecom Solutions Ltd	3862
 Imbil Telecom Solutions Nig Ltd	3862
 Incorporate Cybersecurity LTA	1777
+Indian Oil Corporation Ltd	14845
 Indicator Safaricom PLC Kenya Ltd Jan-Mar	6671
 Indus Towers Ltd	4896
 Industrial Development Corporation of South Africa Ltd	2307
 Industry Stakeholders. LTA	1777
+Informatics Ltd BUSINESS STATISTICS QUARTER	14840
 Information Conectivity Solutions Ltd	3862
 Infratel Ltd	3862
 Innovendi Data Technologies and Communication Ltd	5291
 Inq Ltd	3862
 Inq. Digital Nigeria Ltd	3862
+Intercontinental Slavery Museum Mauritius Ltd	14774
 International Resources Holding RSC Ltd	13362
 Internet Access Provider LTE	6000
 Internet Exchange Point LTE	958
@@ -748,6 +775,7 @@ LTE RAN	5675
 LTE Routers	11980
 LTE Terminals	6946
 LTE and NR	5675
+LTE and WiMAX	14723
 LTE and Wireless Internet	11259
 LTE-M	11016
 LTE-capable	5341
@@ -783,6 +811,7 @@ Liquid Telecom Holdings Ltd	683
 Liquid Telecom Jersey Ltd	684
 Liquid Telecom Ltd	718
 Liquid Telecommunications Holdings Ltd	618
+London College of Accountancy Ltd	14775
 Lotus Bank and Hackerbella Ltd	9878
 Lt Colonel DG Mashele	11285
 Lt Colonel R Josiahs	11285
@@ -808,6 +837,7 @@ Ltd Hwy Div. Bt. Beach Bh	11129
 Ltd Instacash Services Shoprite	12390
 Ltd JV	3700
 Ltd Joint	3700
+Ltd MoTESR Ministry of Tertiary Education	14747
 Ltd Namclear	6938
 Ltd POPIA Five Years Later	7055
 Ltd Telkom Kenya Ltd Target	6946
@@ -859,7 +889,14 @@ Margins ID Systems Applications Ltd Jan	4696
 Margins ID Systems Ltd	4778
 MarketImpact Digital Solutions Ltd	11156
 Markets Group Holding Ltd	1054
-Mauritius Post Ltd	6399,1993
+Mauritech Ltd	14817
+Mauritius Deposit Insurance Company Ltd	14744
+Mauritius Deposit Insurance Corporation Ltd	14744
+Mauritius Institute of Biotechnology Ltd	14747
+Mauritius Ltd	14738
+Mauritius Post Ltd	6399,1993,6358,97
+Mauritius Telecom Ltd	14723,60,27
+Mauritius Telecom Ltd and Emtel Ltd	14723
 Mawingu Networks Ltd	1127,400,5144
 Mbps for LTE	13218
 Mbps. Coz Internet Ltd	3862
@@ -867,6 +904,7 @@ Mbps. Winrock Ltd	3862
 MegaMore Wireless Broadband Ltd	3862
 Megamore Wireless Broadband Ltd	3862
 Metabite Communications Ltd	3386
+Metro Express Ltd	14830
 Micronics Consulting Ltd	14255
 Micronics Consulting Ltd Managing Director Michael	14255
 Midex Global Pvt Ltd	13562
@@ -881,6 +919,8 @@ Multi Dimensions Technology Ltd	3862
 Multi Dimensions Technology Nig Ltd	3862
 Mumias Sugar Company Ltd	14546
 N LT	2776
+NHDC Ltd	14742
+NHDC Ltd. Fully Concrete Housing	14835
 NTT Ltd	6832
 NUMBER OF LTE DEVICES	11211,51
 NX Nigeria Ltd	3859,3
@@ -889,6 +929,8 @@ Namibia National Reinsurance Corporation Ltd	12951
 Namibia Power Corporation Pty. Ltd	12399
 NanoCom International Ltd	3862
 Nanocom International Ltd	3862
+National Housing Development Co. Ltd	14830
+National Housing Development Company Ltd	14742,87,14
 National Research and Academic Network LTA Liberia	1777
 National Securities Depository Ltd	6692
 Nedbank Ltd	12252
@@ -923,6 +965,9 @@ Pacific Pte. Ltd	11310
 Packt Publishing Ltd. Rudwan	8604
 Paribas Communications Ltd	3862
 Pear System Development Company Ltd	3862
+Perle Logistic Ltd	14753
+Perle Logistics Ltd	14753
+Perle Logistics Ltd. and Perle de La Savanne	14753
 Permanent Secretary Lt. Gen. Joseph Musanyufu	9386
 Petroleum Gas LTE Long Term Evolution	718
 Plascon-Evans Paints Ltd	2307
@@ -930,7 +975,8 @@ Platinum Index Data Comm Ltd	3862
 Platinum Index Data Comm. Ltd	3862
 Poa Internet Kenya Ltd	3625,3046
 Polaris Bank Ltd	4771
-Polytechnics Mauritius Ltd	7845
+Polytechnics Mauritius Ltd	7845,6998
+Polytechnics Mauritius Ltd Montagne Blanche Campus	14842
 President Boakai Suspends LTA Contract	14046
 Priority Communication Ltd	3862
 Priority Communications Ltd	3862
@@ -945,6 +991,7 @@ Pvt Ltd Stand Land Chegutu CBD	4896
 QBS Software Africa and Micronics Consulting Ltd	14255
 Quintus LTC	11705
 R E S U LT S	11586
+RECNAC Oncology Private Ltd	14773
 RGE Africa Energy Rwanda Ltd Nyirabuhombohombo	718
 RITES Ltd	12617
 Radical Technology Network Ltd	3862
@@ -962,14 +1009,18 @@ RwandaOnline Platform Ltd	12398
 Récepteur Ltd Beijing Chengzhi	998
 S.L.U Serthoro GmbH Signly Ltd Spaziottantotto	8530
 S.r.l StoryTailors Ltd StratIA Global Studio	8530
+SEACOM Ltd	14776
 SGS Tanzania Superintendence Co Ltd	12114
+SICOM Ltd	14736
 SOC Ltd	3714
 SOFTECH LTD Data Controller INST-9063904932D	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
 SONDU MEDICAL SERVICES LTD Data Controller	7167
 SONDU MEDICAL SERVICES LTD Data Processor	7167
 STL Fiberco Ltd	3862
+STRATEGOS LTD	14745
 SUB-SAHARA AFRICA LTD Data Controller INST-4621663B928	7167
+SUNfarming Africa Holding Ltd	14745
 SWIFTTALK Ltd	3862
 Safaricom PLC Ltd	6946
 Safaricom PLC Ltd Airtel Networks Kenya	6946
@@ -977,14 +1028,17 @@ Safaris Pvt Ltd Revenue	4896
 Samsa Fundacja BBS Signly Ltd Getty	8530
 Sand Tech Ltd. Marked	574
 Sanitation Co. Ltd	14546
+Savanne Ltd	14753
 Save Directly Ltd	6393
 Save Nation Ltd	3583
 Scancom PLC and Mobile Money Fintech LTD	10793
 Sea Net Technologies Ltd	3862
 Sea Net Technologies Nigeria Ltd	3862
 Sea Net Technologies Nigeria Ltd Nil	3862
+Secure Services Mauritius Ltd	14802
 Sentient Networks Ltd	3862
 Services Nig Ltd	3862
+Settlement Co. Ltd	14728
 Sewerage Co. Ltd	14546
 Shema Power Lake Kivu Ltd	718
 Sichuan Huakai Project Management Co. Ltd	181,9
@@ -996,18 +1050,22 @@ Skynex Ltd	3862
 Skysenx Wireless Networks Ltd	3862
 Smart City Technology Company Ltd	3862
 Smile Communications Nigeria Ltd	3862
+Social Living Development Ltd	14738,4,6,81,1,13
 Soft-Tech Consultants Ltd	2703
 Software Technologies Ltd	9815
+Solution LTD	14750
 Solutions System Ltd Computer Society Ayuba	11857
 Sons Ltd	5349
 South African Post Office SOC LTD	11199,1
 South African Post Office SOC Ltd	11199,1
 South Sudan. Lt. Gen. Achol	9122
+Southvest Ltd	14745
 Space X Starlink GH LTD	1692,161
 Spectranet Ltd	3862,2887
 Spectranet Ltd Swifttalk Galaxy Backbone Ltd	3862
 Spectranet Nigeria Ltd	3862
 Spectrum Internet Service Ltd Septembe Kwame	3386
+Spectrum LTE ETSI EN	14780,45
 St. Brandon EMTEL Ltd	12132
 Stabex International Ltd	5113
 Standard Chartered Bank Tanzania Ltd	12252
@@ -1015,6 +1073,8 @@ Starlink Internet Service Ltd	3862
 Starlink Internet Services Nigeria Ltd	3862,2887
 Starlink Internet Services Nigeria Ltd Nil	3862
 Starlink Internet Services Nigeria Ltd and FiberOne	3862
+State Informatics Ltd	14783
+State Insurance Company of Mauritius Ltd	14736
 Stream Networks Ltd	3862
 StreamNetworks Ltd	3862
 Suburban Broadband Ltd	3862
@@ -1078,6 +1138,8 @@ Urban Premium LTE	4130
 Us Plus Ltd.' Digital	1062
 VDT Communications Ltd	3862,2887
 VDT Ltd	3862
+VDTEC Distributors Ltd	14753
+Vacoas Popular Multi-purpose Co-operative Society Ltd	14774
 Vedanta Resources Ltd	13561
 Vilcom Network Ltd	6671
 Vobiss Gridworx Nig Ltd	3862
@@ -1108,5 +1170,6 @@ Zeepay Ghana Ltd	1047
 Zeta Web Ltd	3862
 Zeta-web Ltd	3862
 Zeta-web Nigeria Ltd	3862
+ZilNutri Ltd	14811
 Zimbabwe Ltd	13562
 Zimbabwe Media Ltd	5733

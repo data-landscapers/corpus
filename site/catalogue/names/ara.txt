@@ -45,7 +45,7 @@ Arab AI Committee	3160
 Arab AI Working Group	3160
 Arab Academy for Science	8645
 Arab Africa	6946
-Arab Bank for Economic Development	9047,1933,1654
+Arab Bank for Economic Development	9047,1933,1654,2196
 Arab Bank for Economic External Auditors	12358
 Arab Center for Arabization	2958
 Arab Charter	2958
@@ -72,7 +72,7 @@ Arab Maghreb Union AI	6937
 Arab Marketing Agency	8133
 Arab Member States Country Expert Name	2958
 Arab Ministers of Council for Communications and Information	8534
-Arab Monetary Fund	982,933,257
+Arab Monetary Fund	982,933,257,12572
 Arab NGO Network for Development	11079
 Arab National Strategies for Artificial Intelligence	2958
 Arab Network of Judicial Inspection Services	13865
@@ -94,6 +94,7 @@ Arab Satellite Communications Organization	9262
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Arab Stamp Exhibition	8645
 Arab States	6946,3818,799,2098,4,237
+Arab States ASP	14836
 Arab States Algeria Global Cybersecurity Index	10764
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Arab States Asia-Pacific Indonesia India International	11563
@@ -120,7 +121,7 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295,1487,1,198,152,119,81,616
 Arabic LLM	6232,337
 Arabic PDF	11153
 Arabic and English	4091
@@ -217,6 +218,7 @@ Government of Saudi Arabia	12710
 Gustavo Pérez Ara	8163,33
 HARDAP REGION ARANOS	13046
 Higher Education Minister Office Saudi Arabia	2958
+Hong Kong English Arabic English French	14771
 ID United Arab	10714
 INST-5429241D0B5 NAIROBI United Arab Emirates	7167
 ITU Arab Regional Office	3750,4895
@@ -228,7 +230,7 @@ Israel and Saudi Arabia	1741
 Jordan and Saudi Arabia	1741
 Jordan. While Levantine Arabic	6705
 Jordanian Arabic	6705
-Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240
+Kingdom of Saudi Arabia	8645,1000,3065,1297,398,240,194
 Kingdom of Saudi Arabia Senegal Yes Plan	11529
 Kiswahili and Arabic	11133
 Kuwait Fund for Arab Economic Development	13868
@@ -268,7 +270,7 @@ Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
 Sahrawi Arab Democratic Republic	13370
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,375,57,14,140,100
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468,41,559,36,296,51,339,192,215,44,76,375,57,14,140,100,148
 Saudi Arabia Canada	12151
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
@@ -315,7 +317,7 @@ Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43,82,110,8,319,158,57,168,4,148,203,95,95,367,23,158,11,401,212,131
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates Government	13795

@@ -1,10 +1,13 @@
 ACCÈS AUX MII ET UTILISATION DES	13300
 ACESSO MÓVEL ATIVO COM UTILIZAÇÃO EFETIVA	11531
+ADOPTION AND UTILI ZATION	14723
 AFUR African Forum for Utility Regulators AFRUR	10975
 AM UTC	12478
 ANDF. IV.2.4. Utilisation	10876
 ANNÉE D'UTILISATION OU DE NON UTILISATION	13300
 Administration and Utilization	7538
+Adoption and Utilisation	14723
+Adoption and Utilisation Over	14723
 Advancement of Public and Private Sector Data Utilization	11529
 African Forum for Utility Regulators	13810
 Ag. Senior Systems Analyst UTH	34
@@ -50,6 +53,7 @@ CPU Utilisation	11952
 CRESCIMENTO TRIMESTRAL DE UTILIZADORES POR OPERADOR	11531
 CRM Upgrades UTD	13624
 CSV UTF-8	747
+CWA Ministry of Energy and Public Utilities	14770
 Capacity Utilisation	12445,1029
 Capacity Utilization Challenges	12445
 Caractéristique Utilise	13300
@@ -92,6 +96,7 @@ Electromagnetic Field EUCL Energy Utility Corporation	718
 Emerging Technology Utilization for Digital Transformation	2668
 Energy Utility Corporation Limited	12358
 Energy Utility Corporation Limited Ex	12358
+Energy and Public Utilities	14745
 Energy and Public Utilities Ministry of Local	11332
 Energy and Utilities	9815,405
 Ethiopia Electric Utility	12195,1861
@@ -106,6 +111,7 @@ Fiidow OA. Utilization	11596
 Financial Utilization ANNEXES	13095
 Financials Utilities Banks Financial Services Energy	4972
 Financials and Utilities	4972
+Forensic Science Laboratory Acquisition of Light Utility	14830
 Formal Informal Mining and Quarrying Manufacturing Utilities	12445
 Formação de Utilizadores	12021
 Former Controller and Auditor General Ludovic Utouh	3632
@@ -127,7 +133,9 @@ HIMS System Utilisation Fee	8949
 HOMME ET UTILISEZ	13300
 HUMAN RESOURCES REPORT EXEC UTIVE SUMMARY	12970
 Habari TANZANIA YAONESHA MAFANIKIO YA UTEKELEZAJI	7864
+Helvetia Ministry of Energy and Public Utilities	14746
 Hon. Kamket. Utaratibu	10313
+Honourable Minister of Energy and Public Utilities	14745
 IV.2.4. Utilisation	10876
 Implement UTF-8	11952
 Implementation and Utilisation	6832
@@ -162,6 +170,7 @@ Makindye Standards and Utilities Court	4235
 Makindye-based Standard Utilities and Wildlife Court	9781
 Manuais de Utilizador	12021
 Manual Utilização	12021
+Mar-25 Ministry of Energy and Public Utilities	14746
 Mataifa Katika Utafiti	2868
 Materials Energy Health Care Utilities Hardware	4972
 Me Manindra Utchanah	10030
@@ -170,6 +179,11 @@ Mining and Manufacturing Utilities	12445
 Mining and Quarrying Manufacturing Utilities Services	12445
 Mining and Quarrying Manufacturing Utilities Services Having	12445
 Mining and Utilities	12962
+Minister of Energy and Public Utilities	14745
+Minister. Mr Uteem	14841
+Ministry of Energy and Public Utilities	14745,1,24,60,17
+Ministry of Energy and Public Utilities Energy Sector	14745
+Ministry of Energy and Public Utilities Ministry of Energy	14746
 Model PURA Public Utility and Regulatory Authority	1000
 MÉTHODE UTILISÉE	13300
 MÓVEL ATIVO COM UTILIZAÇÃO EFETIVA	11531
@@ -200,6 +214,7 @@ PRESTAÇÃO E UTILIZAÇÃO DE SERVIÇOS	10755
 PROMOTE IDENTIFY LEVERAGE STRENGTHEN UTILISE	13681
 PROMOTING UTILIZATION OF AI INFRASTRUCTURE	14004
 PROTECTION DES UTILISATEURS DE SERVICES	10836
+PUBLIC UTILITIES ENERGY EFFICIENCY MANAGEMENT OFFICE	14814
 Parameter Design Detail Current Utilization	13185
 Pay Utility	8231
 Payment of Utilities Findings Marondera District Office	13420
@@ -211,7 +226,8 @@ Projet DEUXIEME UTILISATION Logistique Commune Transport	14423
 Proportion Utilisatrices	13300
 Proportion de Utilisation	13300
 Public Payments Utility	11940
-Public Utilities	3046
+Public Utilities	3046,11700
+Public Utilities Hon. Dhananjay Ramful Minister	14753,88
 Public Utilities Regulatory Authority	6869
 Public Utilities Regulatory Authority PWD Person	1264
 Public Utilities Regulatory Commission Act	11
@@ -219,17 +235,21 @@ Public Utility and Regulatory Authority	4543
 Période Responsables Utilisation	14488
 QUEM DEVE UTILIZAR O MANUAL	11435
 QUOTA DE MERCADO DE UTILIZADORES ATIVOS	11531
+R. Uteem	14841
 R3.2. Utilization	14020
 REACHES FULL UTILISATION Regional Office Buteko	13532
 RESILIENCE FACILITY REACHES FULL UTILISATION	13532
 RESOURCES AVAILABILITY AND UTILISATION	13310
 Re le Utloile	2884
 Reclamações de Utilizadores	11520
+Renewable Energy Agency Utility Regulatory Authority	14745
 Resource Availability and Utilization	13310
 Resources Availability and Utilisation	13310
 Resources Availability and Utilisation Norm Average Score	13310
 Responsiveness and Real-time Data Utilisation	12370
 Revenue Utility Billing and Accounts Receivable Cashiering	9437
+Reza Cassam Uteem Minister of Labour and Industrial	14841
+Rodrigues Public Utilities Corporation	14794,36
 Ronald Ngala Utalii College	7441,192
 Rwanda Utilities	1214
 Rwanda Utilities Regulatory Authority	1880,23,3566,2209,410,39,139,182,87,3798,103
@@ -253,6 +273,8 @@ Simplificado Online Manuais de Utilizador Relatório	12021
 Sociais Utilizados	11406
 South UTM Reference Longitude Latitude Antenna	736
 Spectrum Utilization	5245
+Statement of Utility Transactions The Central Water	14828,3
+Stores and Utilities Super-intendant	14736
 Streamline Resource Utilization	12945
 Strengthening and Utilizing Response Groups for Emergencies	14622
 Supply Utilization Accounts	13049
@@ -323,6 +345,7 @@ UTM Party	8434
 UTP CAT-6	12763
 UTUMISHI	6019
 UTxO Distributed	11130
+University of Mauritius UTM	14775
 Utafiti	7218
 Utah. En	8702
 Utalii	6019
@@ -338,6 +361,8 @@ Utatuzi	14263
 Utawala	10556
 Utawala Bora	3085
 Ute Collier	11572
+Uteem	14841
+Uteem Minister of Labour and Industrial Relations Hon	14753
 Utekelezaji	2868,3151,5608
 Utendaji	14323
 Utengenezaji	6019
@@ -371,6 +396,7 @@ Utilisations	13390
 Utilisations des TIC	10875
 Utilisatrice	13300
 Utilise	26,8579,2116,98,57,1110,925,30,359
+Utilise AI-driven	14812
 Utilise USF	958
 Utilise Zimbabwe Standards	13320
 Utiliser	1005,9282,587,2,134,53,2227,51,49,419,614,56,58
@@ -385,9 +411,11 @@ Utilisons-nous	747
 Utilisé	13375
 Utilisée	10286
 Utilit	9123
-Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891
+Utilities	718,252,970,3032,1621,2019,2244,160,280,660,443,4,259,13,242,54,6,891,868
 Utilities Climate	970
 Utilities Insurance Financial Services Banks Information	4972
+Utilities PPA Power Purchase Agreement RE	14745
+Utilities Power Points and Lightings	14778
 Utilities Quality	13624
 Utilities Regulatory Authority RWF Rwandan Franc	12328
 Utilities Services Persuading	12445
@@ -397,6 +425,7 @@ Utilities and What That Means	5124
 Utilities and Wildlife Court	7771,2792
 Utility	34,684,530,7875,692,1154,915,1,10,264,1,45,51,95,7,41,88,187,421,219,310,386
 Utility Companies	12896
+Utility Double	14738
 Utility Index	13624
 Utility Model	12483
 Utility Models and Industrial Designs	7845
@@ -404,6 +433,9 @@ Utility Performance Improvement Program	11380
 Utility Performance and Behavior	11549
 Utility Performance and Behavior Today. Washington	13624
 Utility Reform and Regulation	13624
+Utility Regulatory Authority	14745,102
+Utility Regulatory Authority Act	14745
+Utility Regulatory Authority WMA Wastewater Management	14745
 Utility Restructuring	12233
 Utility Restructuring With the Home Grown Economic	12233
 Utility Service Providers	12674
@@ -455,6 +487,7 @@ Utilized Capacity	6671
 Utilized International Internet Bandwidth	6946
 Utilized the Designation	14024
 Utilizem	11430,1
+Utilizes	14745
 Utilizing	4528,1904,3420,1079,1425,156,151,693
 Utilizing AI	11265
 Utilizing MOSIP	9431

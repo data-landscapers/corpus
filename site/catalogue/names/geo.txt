@@ -1,3 +1,4 @@
+A. Geographic and Other Characteristics of Mauritius	14742
 A. Shaji George	6948
 A3- Geographic	7548
 AHOBA Georges FAITS MARQUANTS Effectif	2342
@@ -29,6 +30,7 @@ Avatar of GeoffreyTheDev	12478
 Avatar of Geomxn	12478
 B2- Geographic	7548
 BAPFUMUKEKO Georges Chef	13341
+BHOWON Georges Cleret Gerard Chief	14770
 BILLS REPORT STAGE The Geological and Minerals	13387
 Based Violence GMIS Geological and Mineral Information	2889
 Bay Shoprite Thembalethu George Shoprite Vredenburg	8999
@@ -99,8 +101,11 @@ Finance and Budget Minister Georges Barcola	7426
 Fixed Office and Service Points Geographic Coverage	8999
 Focalização Geográfica	11406
 Formation GHz Gigahertz GIS Geographic Information	2775
+Fort George	14745,20
+Fort George and CT Savanah	14765
 Francois and George	3782
 Fund Gross Domestic Product Geographic Information	13290
+GENERAL FRAMEWORK A. GEOGRAPHIC	14742
 GEO SDG Awards	13394,81
 GEO-LEO	2294,682
 GEOCIF	13094
@@ -236,13 +241,14 @@ Geographical Information System GSMA	958
 Geographical Information Systems	10662,1707
 Geographical Names Register	4214
 Geographical and Ecological Characteristics	12151
-Geographically	4863,20,3082,2310,76,448
+Geographically	4863,20,3082,2310,76,448,3930
 Geographies	11310
-Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363
+Geography	6051,1914,1541,41,641,647,3,74,56,181,88,34,234,365,16,55,212,199,1,60,75,487,103,265,1363,142
 Geography Figure	12413
 Geography Teacher’s Association	12975
 Geography and Environment	12178
 Geography and Socio-Economy	14000
+Geography of Innovation and Production	14723
 Geográfico	11430,1
 Geojson	1187,797
 Geolocation	11892,149
@@ -265,7 +271,7 @@ Geometry of Power	3463
 GeomsK	1885
 Geomxn	12478
 Geoorloofde	11190
-Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341,173,163,857,153,253
+Geopolitical	2518,1080,362,299,269,148,2014,3071,286,671,332,84,22,842,341,173,163,857,153,253,810
 Geopolitical AI	11135
 Geopolitical Contest India	9431
 Geopolitical Currency	8629
@@ -335,6 +341,7 @@ George and Lefevre	9128
 Georges	6731
 Georges Elanga Obam	3234,8464
 Georges Elanga Obam. Selon	11698
+Georges Leclezio Avenue	14847
 Georges Mpelé	8737
 Georges Nébié	7010
 Georges Romain	6379
@@ -391,6 +398,7 @@ Geotagged	12006
 Geotechnical	1988,9143
 Geotechnical Analysis	11131
 Geotechnical Investigation	5855
+Geotextile	14742
 Geothermal	1245,477,10534,5,2161
 Geothermal Development Company Limited	14422
 Geothermal Energy	12972
@@ -414,11 +422,13 @@ Hon. Geoffrey Mulanya	10313
 Hon. George	3384
 Hon. George Best. Hon. George Murugara	10313
 Hon. George Murugara	10313
+Hon. Georges Pierre Lesjongard	14745
 Hon. Mulanya. Hon. Geoffrey Mulanya	10313
 Hon. Samuel Nartey George	3384,1513,804,234,3487
 Hon. Sir George	10313
 Hon. Wanjala. Hon. George Murugara	10313
 Honorable Dr. George T. Chaponda	13156
+Honorable Georges Pierre Lesjongard	14745
 Honorable Samuel Nartey George	4625
 Honourable Dr. George Chaponda MP	9761
 Honourable Dr. George T. Chaponda	13156
@@ -457,6 +467,8 @@ Launch of Geospatial Information Management Strategy	11275
 Liberia Institute of Statistics and Geo- Information	5244
 Liberia Institute of Statistics and Geo-Information Services	5244
 Linguistic and Geographical Disparities	4253
+Lislet Geoffroy St	14847
+Lislet Geoffroy Street	14847
 Localização Geográfica	11384
 MILITAR Y JEF. NAVALES GEOGRAFÍCO	4209
 MIT and Georgetown	6603
@@ -468,6 +480,7 @@ Mapping Department National Land Authority GeoEmpower	12457
 Mapping Geodetic Tools Property Search	12511
 Maps Cadastral Services Geodetic Services Land	12511
 Mathematics and Geography	8609
+Mauritius. Geographical	14752
 Megawatts of Geothermal Power Generation	1245
 Melanie George	8764
 Menengai Geothermal Thika Power	12256
@@ -580,7 +593,10 @@ Southern Africa Geography	10759,1395,186
 Space Science and Geospatial Institute	1796,1413,9067,1801
 Space and Geospatial Enabling Ecosystem Sector	13986
 St Georges Primary School	10049
+St Georges Street	14847
+St Georges Streets	14847
 St. George's High EGDI H3	10840
+St. Georges Street	14847
 Statistics and Geographic Information Expert	14089
 Stefanos Georganos	2816
 Street Geocoding	12041
@@ -615,7 +631,7 @@ World Bank Country Manager Georgia Wallen	6523,7695,100
 World Bank Geospatial Operation	10765
 World Bank Geospatial Operation Support Team	10775
 World Bank Support Team. Geospatial Operation	10765
-World Geodetic System	11405
+World Geodetic System	11405,3317
 Zachariah George	7611
 Zachariah George and Janade du Plessis	7611
 Zambia. South African Journal of Geomatics. Collier	12369

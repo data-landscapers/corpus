@@ -36,7 +36,7 @@ Africa. Through the EU's AI Factories	9632
 Africa.128 Factors Recommendations Domestic Assess	14674
 African Development Bank Fragile States Facility	13966
 African Development Fund Transition Support Facility	10222
-African Legal Support Facility	12597,1859
+African Legal Support Facility	12597,1859,289
 African Manager Facebook Mail RSS X	5101,850
 African Meteorological Satellite Application Facility	11283,3239
 African Risk Capacity Facility	10768
@@ -100,7 +100,8 @@ Burkina Faso Facebook	10859
 Burundi SSA Share of Facebook	13314
 Burundi’s Facebook	13314
 Business Facilitation	14008
-Business Facilitation Bill	6887
+Business Facilitation Act	14736
+Business Facilitation Bill	6887,7942
 Business Facilitation Company	13100
 Business Facilitation Single Window	12703
 Business Needs and Their Trade Facilitation Objectives	13042
@@ -156,6 +157,7 @@ Chipoka Port Intermodal Facility	13060
 Chocolate Factory	7638
 City of Cape Town PHC Facilities	11980
 Ciudad de Mongomo Face III Mongomo	4209
+Clearing and Settlement Facility	14809
 Clothing Factory	13361
 Comité de Facilitation	5993
 Commenter Partager Facebook X WhatsApp Linkedin	10625
@@ -163,6 +165,7 @@ Commissioner for Refugees Facebook	1778
 Commissions of Inquiry and Fact-finding Missions	3583
 Communications Facts and Figures	12601
 Community Mobilisation Facilitator Mr. Kefiloe	12699
+Community Sports Facilities	14828,3
 Community and Health Sciences Faculty	8022
 Comores Face	13799
 Comoros' Extended Credit Facility	13741
@@ -183,6 +186,7 @@ Credit Facility	11198
 Credit Facility Agreement No. IDA	14546
 Credit Facility Rate	12598
 Critical Success Factors	899,4347,5942,1729,557
+Critical Success Factors and Challenges	14750
 Cross Border Data Flows and Trade Facilitation	10157
 Cultural and Political Factors	5349
 Curriculum Facilitators Facilitators	9198
@@ -208,9 +212,11 @@ DISTRIBUTION OF DATA CENTER FACILITIES	10861
 DNN FactCheck	8522
 DOCTOR FACE KENYA LIMITED Data Controller	7167
 DPO and Extended Credit Facility	5655
+DRAINAGE AND SANITARY FACILITIES	14778
 DRC. This FACTOR CURRENT IMPACT Regulatory	11994
 Data Centre Facility Ground	12253
 Data Market Development and Integration Facilitates	14079
+Dean Faculty of Engineering University of Mauritius	14736
 Delivery and Enabling Factors	12356
 Description Supports the Global Financing Facility	63
 Developing Country Facing Resource Depletion	1828
@@ -234,6 +240,7 @@ District One Factory	789
 District- Level Factsheets	13040
 Djibouti Plastic Factory	4774
 E- Facility	582
+E-Government and Business Facilitation	14729
 E.g. Facebook	11004
 EAF Energy Availability Factor GDP Gross	11228
 EBRD's Early-Stage Innovation Facility II	14179
@@ -260,7 +267,9 @@ Economy Entrepreneurship Facebook Faso CEO FESPACO	9993
 Education Enabling Factor	12175
 Education Enabling Factor Due	12175
 El FACTI	1701
+Elderly Care Facilities	14748
 Electronic Facial	6222
+Electronic Facilities and Compliance Platform The MRA	14785
 Elizabeth Nepemba Correctional Facility	12984
 Email Facebook Twitter WhatsApp Telegram Viber	3954,1817,84,268,178,427
 Emerging Business Factory	1232
@@ -289,6 +298,7 @@ European Commission's Connecting Europe Facility	1087
 European Commission’s Cameroon Fact Sheet	10841
 European Peace Facility	643,10567
 European Union GEF Global Environment Facility	11586
+Ex-Mauritius Tea Factories Company Ltd	14774
 Example Zimbabwean Health Facility Parirenyatwa Group	6666
 Expand AI Empower Deepen AI Facilitate	4126
 Extended Credit Facility	1828,1755,544,7409,13,10,617,879
@@ -350,7 +360,7 @@ Face of Multiple Crises	3176
 Face-to-Face	6832
 Face-to-Face HAI	6832
 Face-to-face	1778,3755,2336,2993,86,1038,393
-Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,13,14,118,23,13,46,27,10,22,229,204,3,41,5,23,75,15,27,6,132,35,18,1,17,13,117,1,15,43,11,35,63,46,15,34,257,118,3,57,118,31,28,56,33,86,4,2,145,7,24
+Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57,55,16,4,39,5,24,72,57,24,56,39,56,64,15,2,189,20,20,67,29,9,9,41,52,24,20,3,50,13,13,14,118,23,13,46,27,10,22,229,204,3,41,5,23,75,15,27,6,132,35,18,1,17,13,117,1,15,43,11,35,63,46,15,34,257,118,3,57,118,31,28,56,33,86,4,2,145,7,24,88
 Facebook Ad Library	12201
 Facebook Audience Insights	11902,1412,17
 Facebook Audience Insights World	11964
@@ -487,7 +497,7 @@ Facile	1984,1735
 Facilidade de Acesso	10755
 Facilit8 Namibia	7628
 Facilitar	3519,699,7153,2,196,332
-Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54,59,85,78,11,15,53,191,19,6,2,5,13,90,215,17,2,6,25,1,1,644,194,243,6,32,156,52
+Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292,63,2,32,5,50,251,321,4,91,34,69,130,171,3,17,8,15,54,59,85,78,11,15,53,191,19,6,2,5,13,90,215,17,2,6,25,1,1,644,194,243,6,32,156,52,49,11,27,12,17,28,1
 Facilitate Access	10358
 Facilitate Criteria	12376
 Facilitate Cybersecurity Awareness Activities. Promote	1777
@@ -497,6 +507,7 @@ Facilitate Data Access	4126
 Facilitate Decision-Making	12356
 Facilitate Global Cross-Learning	11138
 Facilitate Media and Information Literacy	1814
+Facilitate NPPO	14818
 Facilitate ONSA	11857
 Facilitate PPPs	4126
 Facilitate Promote Cross-Sectoral	1777
@@ -525,7 +536,8 @@ Facilitating Intra-African Trade	12962
 Facilitating MDAs	12253
 Facilitating Open Access	5246
 Facilitating Open Methods	5246
-Facilitation	5246,522,191,2417,1023,1309,67,190,1078,121,1177,133,307,644,61,142
+Facilitating Transfer of Ownership of Vehicles	14828,3
+Facilitation	5246,522,191,2417,1023,1309,67,190,1078,121,1177,133,307,644,61,142,133
 Facilitation Centre RSDO Refugee Status Determination	11986
 Facilitation Customs	13042
 Facilitation Programme TRS Time Release Study	12951
@@ -546,15 +558,20 @@ Facilitação Empresarial	795
 Facilite	14483
 Faciliter	1218,1347,182,2318,2757,412,322,335,574,1409,2,89,979,99,1247,51,49,1035,112
 Faciliter le Activité	10965
-Facilities	34,362,566,250,1972,1,419,229,692,163,1012,172,2005,1457,95,728,624,48,32,20,114,242,316,43,369,15,409,32,6,248,356,154,1297
+Facilities	34,362,566,250,1972,1,419,229,692,163,1012,172,2005,1457,95,728,624,48,32,20,114,242,316,43,369,15,409,32,6,248,356,154,1297,254,23,18
 Facilities Are Being Built	6791
 Facilities Finance Business Unit Owner N	9124
 Facilities Leasing Regulations	5872
 Facilities Management	12400
 Facilities Registry	5639,6967
+Facilities Samples Tested	14736
 Facilities Sharing	13178
 Facilities Sharing Regulations	13178
 Facilities Sharing Regulations. The Commission	13178
+Facilities Subtitle	14778
+Facilities Toilet	14778
+Facilities and Animal Welfare	14818
+Facilities and Animal Welfare Poorly	14818
 Facilities-connected	11965
 Facility	348,1,85,337,46,153,1507,707,1,1075,78,187,4380,570,747,559,48,32,134,257,344,267,140,22,272,67,63,81,87,255,126,8,1249
 Facility Accreditation Number	13068
@@ -624,6 +641,7 @@ Factor Literature M SD	9129
 Factor Technical Score	13185
 Factor Technical Scores	13185
 Factor Utilization	13185
+Factor Value Marking for Financial Merit	14778
 Factores	11365,22,168,7
 Factores Críticos	11379
 Factores Críticos de Sucesso	795,10584
@@ -648,7 +666,7 @@ Factory Facilities and Equipment	3760,9683
 Factory Inspections	13185
 Factory Shells Update	13123
 Factos	12844
-Facts	428,116,1326,5134,2755,1396,580,492,2358
+Facts	428,116,1326,5134,2755,1396,580,492,2358,190,32
 Facts Date	12689
 Facts First	10661
 Facts Population	10908
@@ -693,10 +711,11 @@ Faculdade de Filosofia	2816
 Faculdade de Medicina Bissau Bissau Public	11552
 Facultar	11369,532
 Facultatif	14488,1,1
-Faculty	8022,1107,1749,2048,1629
+Faculty	8022,1107,1749,2048,1629,220,37
 Faculty Assistant	6936
 Faculty Nova Business School Africa	11032
-Faculty of Agriculture	13078
+Faculty and Gender	14775
+Faculty of Agriculture	13078,1697
 Faculty of Business and Economic Sciences	13401
 Faculty of Com-	8603
 Faculty of Commerce	13078
@@ -709,18 +728,20 @@ Faculty of Computing and Informatics	12926
 Faculty of Computing and Informatics. Brief	12926
 Faculty of Consumer Sciences	13078
 Faculty of Economic	9237
+Faculty of Economic and Management Sciences	14774
 Faculty of Economic and Objectives	9237
 Faculty of Education	13078,399
-Faculty of Engineering	9129,1194
+Faculty of Engineering	9129,1194,4452
 Faculty of Health Sciences	12025,1053
+Faculty of Health and Medical Sciences	14775
 Faculty of Human Sciences	8021
 Faculty of Humanities	13078
 Faculty of IT Engineering	2958
 Faculty of Informatics and Design	8130
 Faculty of Informatics and Design Research Ethics Committee	8130
-Faculty of Information	9129
+Faculty of Information	9129,5646,37
 Faculty of Information and Communication Technology	7759
-Faculty of Law	718,11259
+Faculty of Law	718,11259,2798
 Faculty of Law. The CCL	11977
 Faculty of Management	2093
 Faculty of Management and Commerce	9128
@@ -729,8 +750,9 @@ Faculty of Medicine	10776,4
 Faculty of Natural and Applied Science	10323
 Faculty of Organizational	10780
 Faculty of Organizational Sciences	10780
+Faculty of Science	14775
 Faculty of Science and Engineering	4058
-Faculty of Social Sciences	13078
+Faculty of Social Sciences	13078,1697
 Faculté	5888,5896,1593
 Faculté de Médecine	13306
 Faculté des Sciences	1183,5818
@@ -773,7 +795,7 @@ General Facility Design and Operation	1988
 General Factors	13053
 Generation Load Factor	12062
 Ghana’s Extended Credit Facility	7695
-Global Environment Facility	3431,5922,1979,221,2199,58
+Global Environment Facility	3431,5922,1979,221,2199,58,983
 Global Environmental Facility	2889
 Global Facility for Disaster Reduction and Recovery	10763,1395,2490
 Global Facility for Project Preparation	11469
@@ -791,6 +813,9 @@ Google's X Moonshot Factory	14219
 Google’s Moonshot Factory	9141
 Government Facilities Primarily	3184
 Government In-Service Training Facility	12972
+Government and Business Facilitation	14729
+Government and Business Facilitation Figure	14729
+Government and Business Facilitation STRENGTHS	14729
 Grant Facility Manager	12195
 Grant Facility Trust Fund Country	13017
 Grant Facility for Project Preparation	11417
@@ -905,6 +930,7 @@ Internet. Face	9518,4785
 Internship Students. Facilitating	11131
 Intraday Loan Facility	12364
 Investigating Factors Inhibiting	5349
+Investment Climate Facility for Africa	14847
 Investment Facilitation Unit ERP Enterprise Resource	12717
 Investor Facilitation and Attraction Agency	12376
 Ivoire. Face	8894
@@ -925,6 +951,7 @@ Key Challenges Facing Housing Development	2775
 Key Country Facts	11935
 Key Facts	4972,6511,579
 Key Facts Key Highlights	4972
+Key Facts and Insights Energy	14745
 Key Risk Factors	14565
 Key Success Factors Effective	11857
 Kipevu Oil Storage Facility	12256
@@ -968,6 +995,7 @@ MSMEs. Facilitates	5245
 MSMEs. Facilitates MSMEs	10856
 MTN Nigeria Capital Expenditure Equipment Facility	240
 MTN South Africa’s Facebook	8579
+MW. Face	14765
 MW. The Energy Availability Factor	11992
 MZ1 Key Facts Tier III Certified	9446
 Maintenance and Refurbishment of Health Facilities	12606
@@ -994,6 +1022,7 @@ Master Health Facility List	11252,403
 Master Health Facility List MP	11252
 Matsapha Correctional Facility	12962
 Matter Factory	3507
+Mauritius International Financial Centre. Facts	14819
 Mbps. Face	6157
 Measuring Digital Development Facts and Figures	961
 Million Oil Palm Development Finance Facility	7695
@@ -1020,6 +1049,7 @@ Namibia Fact Check	13050
 Namibian Schools and Health Facilities Network Coverage	1944
 Namwaste Management Facility	13189
 National AI and Data Infrastructure Facility	7548
+National Agricultural Reinsurance Facility	14818
 National Data Centre Facility	12253
 National Data Factory	10004
 National Minimum Standards for Child Residential Facilities	12977
@@ -1059,6 +1089,8 @@ OPÉRATIONNALISATION DE LA FACTURATION	14483
 OUTCOME A. KEY FACTORS DURING PREPARATION	11924
 Objectifs Facilitation	13751
 Objectifs Faciliter	8556
+Official Clearing and Settlement Facility	14730
+Official and Settlement Facility	14730
 Open Data and Facilitated Reuse All	3861
 Operational Health Facilities	2775
 Operations and Facility Activation Lead	3833
@@ -1069,6 +1101,7 @@ Os Factores Motivacionais	2816
 Otavi Correctional Facility Kaoko Otavi Correctional	12984
 Ouagadougou. Face	6768
 Overall Ranking of Perceptions of Business Factors	12445
+Overnight Deposit and Lending Facilities	14744
 Overnight Loan Facility	12364
 P PROJECT APPRAISAL REPORT TECHNICAL FACILITY	13938
 PART VI CONDUCT OF FACILITATION AGENT	13403
@@ -1080,6 +1113,7 @@ PGES DATA CENTER SECONDAIRE Factures	14488
 PHC Facilities	11980
 PIC DPSM FACEBOOK PAGE Government	8108
 PNC Facebook	11868
+PROFILE Fact Sheets	14807
 PROMOTE AND FACILITATE RESPONSIBLE	1333
 PROTECTION AUTHORITY NOT APPOINTED. Fact	4785
 PSF Faciliter	10965
@@ -1087,10 +1121,13 @@ PSHPA Trains Private Health Facilities	10833
 Page Facebook	4124,10301
 Pandemic Trade Impact Mitigation Facility	562
 Park Facility	11863
+Parking Facilities	14746
 Partager Facebook X WhatsApp E-mail Copy	1876,3203
 Participant Primary and Fall-Back Facilities	12364
 Partners Procedures and Facilitation	13051
 Partnership Dialogue Facility FL Foyer Lumineux	10975
+Password Reset Facility	14785
+Payment Facility	14729
 Pigg’s Peak Factory Next	12422
 Pillar In Investment Strategy Facebook Instagram	3768
 Ping Interoperability Gateway Factsheet	12257
@@ -1123,6 +1160,9 @@ Provision of Intraday Loan Facility	12364
 Provision of Intraday Loan Facility The BoZ	12364
 Provision of Welfare Facilities	13392
 Public Health Facilities With Service Delivery	12379
+Public Medical Radiation Facilities The RSNSA	14745
+Public Service Facilitation	14748
+Public Service Facilitation System	14786
 Public-Private Infrastructure Advisory Facility	12245
 Q1 Mortgage Secured Credit Credit Facility	11198
 Q1 Plant Availability Factor	12062
@@ -1140,6 +1180,7 @@ RMB ZAR2bn Facility	1404
 RURAL KENYA FINANCIAL INCLUSION FACILITY	14546
 Rack Centre’s New Data Facility Will	2595
 Rapid Credit Facility	3583
+Rating Factors Weight	14778
 Real Sector Emergency COVID Facility	687
 Recent AI Factories and Gigafactories	6879
 Recherche Scientifique FAST Faculté des Sciences	12
@@ -1233,7 +1274,9 @@ State-owned Facilities for Warehousing	4301
 Statelessness and Climate Change Factsheet	1867
 States Facility	13966
 Stay Connected Facebook Like Twitter	9925,238
+Sterile Insect Technique Facility	14829
 Stop Business Facilitation Centre	11717,986
+Storage Facility	14829
 Storage and Filling Facility	12256
 Strategic Oil Reserve Facility	13123
 Subsidies and Grants for Residential Child Care Facilities	12373
@@ -1249,6 +1292,7 @@ Sustainable Agriculture Financing Facility	5247
 Synod of Livingstonia Health Facilities	3791
 System SOFF Systematic Observations Financing Facilities	11553
 Systematic Observations Financing Facility	11553,2059,836
+Systematic Observing and Financing Facility	14738
 Système de Facturation	6456
 T5-AirSnap Face	1846
 TA Facility	1284
@@ -1256,6 +1300,7 @@ TAXPAYES TO FACE COURT OVER FAILURE	13603
 TECH5's T5-OmniMatch Face BioSDK	1846
 TFA Trade Facilitation Agreement TIR-EPD International	13042
 TUT’s Faculty of Information and Communication Technology	11303
+Table of Rating Factors for Lease of Real Estate	14778
 Tags Administration Partager Facebook X WhatsApp	1876
 Targeted Finance Facility	13685
 Tariff Category Facility Charge	12394
@@ -1275,6 +1320,7 @@ Tier III Certification of Constructed Facility	4083
 TikTok and Facebook	2313
 TikTok. Unclear for Facebook	8436
 Timor-Leste Single Window for Trade Facilitation	13042
+Toilets Facilities	14778
 Toolkit for Facility Data Quality Assessment	11596
 Trade Facilitation	13042,9,352,605
 Trade Facilitation Act No	13403
@@ -1300,6 +1346,7 @@ Transition Support Facility UA Unit of Account	13731
 Transition Support Facility Unit of Account United	13938
 Transitional Support Facility	158
 Transparency Factsheet	8629
+Transport Facility	14746
 Treasury's Secure Data Facility	11940
 Tripartite Transport and Transit Facilitation Programme	10324,2594,24
 Turnaround Debt Facility Africa Finance Corporation	330

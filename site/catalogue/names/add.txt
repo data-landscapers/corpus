@@ -26,6 +26,7 @@ ADDITIF-N1-AP-PKI-15-05-26.pdf	5983
 ADDITIONAL	10977,2745
 ADDITIONAL CREDIT	11924
 ADDITIONAL CRITERIA ADDITIONAL CRITERIA	10976,898,472
+ADDITIONAL DETAILS AS PER APPLICATION PLEASE	14754
 ADDITIONAL FILE	12090
 ADDITIONAL FINANCING	1284,10681,1896,685
 ADDITIONAL FINANCING A. Introduction	11965
@@ -36,11 +37,13 @@ ADDITIONAL GDP	11004
 ADDITIONAL GRANT	11924,2172
 ADDITIONAL MATERIAL INFORMATION	4896
 ADDITIONAL MATERIAL INFORMATION Econet InfraCo	4896
+ADDITIONAL PARKING SLOTS	14753
 ADDITIONAL READING Aiken	11156
 ADDITIONAL REGULATORY REQUIREMENTS	12365
 ADDITIONAL REGULATORY REQUIREMENTS FOR PAYMENT SYSTEM	12374
 ADDITIONAL RESPONSIBILITIES OF THE PARTICIPANTS	4153
 ADDITIONAL SUMMARY TERMS FACTSHEET	1818
+ADDITIONAL TECHNICAL PARAMETERS FOR OPERATION	14780
 ADDITIONALITY	1818
 ADDITIONALITY Additionality	1818
 ADDITIONS AND AMENDMENTS	6907
@@ -69,6 +72,8 @@ AI-ready National Data Centre. Addressing Huawei	13210
 ASO Address Council	3503
 ASSETS MANAGEMENT Telegraphic Address	5793
 ATS. R10. Address	13314
+AVAILABLE ADDITIONAL SPECTRUM FOR IMT	14825
+AVAILABLE OF ADDITIONAL SPECTRUM FOR OPERATION	14825
 Abidjan District Addressing Project	10930
 Absence of Additional Government Licenses	12389
 Absence of Additional Restrictions	12389
@@ -94,19 +99,19 @@ Add RESTful Query RFC7525 and Feed	1009
 Add Subjects	13037
 Add TechCentral	7281
 Add Traps	12882
-Add.1	3583,9457
+Add.1	3583,9457,1711
 Add.71	3583
 AddIX Technology Solutions	14069
 Addai	8766
 Addax Energy	3583
-Added	236,536,472,40,1491,206,2674,22,389,319,4595,20,976,1962
+Added	236,536,472,40,1491,206,2674,22,389,319,4595,20,976,1962,775,1,1,1,4,10,54
 Added AML	12444
 Added Date	13575
 Added GWh Giga Watt Hours	2775
 Added Service	3862
 Added Services	3487,2532,665,5173
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31
-Added Tax Act	4896,2025,3102,1924,562,115,5,1,622,98,1,255,809,39
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39,625,32,21,200,15,17,177,9,1,2,3,22,17,6,7,31,17,98,26,52,46,43,183,3,102,69,49,179,274,401,31,701,21,7,43,3
+Added Tax Act	4896,2025,3102,1924,562,115,5,1,622,98,1,255,809,39,263,2,18,47,25,19,3,12
 Added Tax Act Ca	13403
 Added Tax Amount of Tax N	11976
 Added Tax Application	14533
@@ -122,17 +127,20 @@ Added Tax VHF Very High	236
 Added Tax WASAC	12445
 Added Tax WCO World Customs Organization	12951
 Added Tax XML Extensible Markup Language	11261
-Addenda	1465,173
+Addenda	1465,173,13128
 Addenda Nos	13185
-Addendum	1638,8979,163,60,393,1752,1021
+Addendum	1638,8979,163,60,393,1752,1021,753,3,4
 Addendum II	5793
 Adderley Street	8999
 Addi-	10780
+Addiction	14835
+Addiction Treatment Units	14742
+Addiction and Rehabilitation of Addicts	14773
 Adding	2869,79,264,2311,297,542,472,1112,42,1135,2008,844,25,364,5,653,26,353,177,503,593
 Adding Participants and Changes	12364
 Adding PayPal	6368
 Addis	1219,585,1175,1219,133,1635,4693,1514
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,15,6,1,5,6,2,4,5,2,24,17,9,10,50,133,388,22,62,27,41,23,46,196,9,43,60,33,27,3,149,241,45,21,12,10,7,26,14,5,7,1,3,3,1,2,1,6,1,10,5,2,2,7,6,14,3,25,2,1,9,10,4,2,1,1,1,2,3,12,73,6,275,177
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20,44,169,81,13,27,12,10,4,3,9,15,6,1,5,6,2,4,5,2,24,17,9,10,50,133,388,22,62,27,41,23,46,196,9,43,60,33,27,3,149,241,45,21,12,10,7,26,14,5,7,1,3,3,1,2,1,6,1,10,5,2,2,7,6,14,3,25,2,1,9,10,4,2,1,1,1,2,3,12,73,6,275,177,54
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa CRRSA. Outreach	12267
@@ -211,11 +219,14 @@ Addison-Wesley	3782
 Addit	4260
 Additif N	5983
 Addition	585,151,277,931,2788,2189,5911,173,363
+Addition Opportunities	14818
+Addition Opportunities and Market Integration	14818
 Addition Total Total Operation Cost	14553
 Addition and Beneficiation	13361
-Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8,137,22,52,67,17,32,4,167,99,8,4,3,3,8,5,1,1,1,11,5,18,12,8,21,12,26,23,113,14,1,1,9,3,9,26,30,2,8,20,8,47,19,2,1,2,1,11,1,7,16,3,20,1,3,10,28,4,13,19,11,2,12,22,1,14,61,29,34,235,14,10,49,34,32,5,11,1,6,20,28,3,22,11,160,7,1,2,74,4,3,66,115,48,61,93,35,55,140,59,75,434,52,46
+Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8,137,22,52,67,17,32,4,167,99,8,4,3,3,8,5,1,1,1,11,5,18,12,8,21,12,26,23,113,14,1,1,9,3,9,26,30,2,8,20,8,47,19,2,1,2,1,11,1,7,16,3,20,1,3,10,28,4,13,19,11,2,12,22,1,14,61,29,34,235,14,10,49,34,32,5,11,1,6,20,28,3,22,11,160,7,1,2,74,4,3,66,115,48,61,93,35,55,140,59,75,434,52,46,74,26,3,7,13,22,15
 Additional APS	4260
 Additional Assets	12400
+Additional Ayurvedic	14773
 Additional CapEx	3184,1,1340,6256,214,1432,2055
 Additional Condition of Effectiveness	14430
 Additional Conditions IBRD	11417
@@ -245,7 +256,7 @@ Additional Frictions	11138
 Additional Funding	14546
 Additional Funding Sources	11285
 Additional Indicators	1818
-Additional Information	736,6462
+Additional Information	736,6462,7587,38
 Additional Information Burundi Cash for Jobs Project	13592
 Additional Information I Certify	736
 Additional Information Regulation M-A Item	7198
@@ -257,8 +268,11 @@ Additional Notes The AFRINIC PDWG Co-Chairs	14671
 Additional Positive Effects	11863,2075
 Additional Protocol II	3583
 Additional Protocols	3583
+Additional Recommendations	14777
 Additional Regional Institutions	11965
 Additional Regional No Institutions Appraisal	4653
+Additional Regulatory	14844
+Additional Remuneration	14742,32
 Additional Requires	13681
 Additional Responsibilities	3972,182,13,1185
 Additional Responsibilities Assistance	4349
@@ -272,6 +286,7 @@ Additional Services and Borrower's Access	12389
 Additional Settlement Window	12579
 Additional Software Requirements Such	5665
 Additional Sources Consulted	11868
+Additional Stimulus Package	14721
 Additional Sustainability Features	1245
 Additional System Elements Additional	14190
 Additional Terms	3972,77,105,13,35,15,30,13,42,1050,5361
@@ -282,13 +297,14 @@ Additional Work	12253
 Additionality	10077
 Additionnellement	14425
 Additionnez le Congo-Brazzaville	12036
-Additions	1013,931,11109
+Additions	1013,931,11109,1683
 Addix	14069
-Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,317,96,37,1,165,703,4,10,37,29,142,21,122,3,7,4,40,16,19,1,36,25,66,454,64,44,51,8,22,8,29,191,72,16,54,4,45,94,13,163,237,33,86,6,59,89,129,234,676,242,100,81,27
+Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,317,96,37,1,165,703,4,10,37,29,142,21,122,3,7,4,40,16,19,1,36,25,66,454,64,44,51,8,22,8,29,191,72,16,54,4,45,94,13,163,237,33,86,6,59,89,129,234,676,242,100,81,27,39,10,25,3,55,13
 Address Barriers	11017
 Address CERT-GH	775
 Address Change Service	11129
 Address Critical Gaps	12444
+Address Data System	14790
 Address Date	12591
 Address Department of Computer Science	12361
 Address Digital Skills Shortage	6449
@@ -336,6 +352,7 @@ Address for Bid Submission The National Coordinator	13527
 Address for Inspection	13527
 Address of Group Headquarters	12302
 Address of Principal Executive Office	8939
+Address of Proposed Building	14778
 Address of Purchaser	13185
 Address the Domestic Public Expenditure	12175,1815
 Addressed	557,6855,3838,1139,279,1490,513
@@ -343,7 +360,7 @@ Addressed Holistically	11285
 Addressee	11129
 Addresses	736,2306,8087,827,67,351,560,103
 Addresses and Locations	12338
-Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20,39,70,20,55,77,52,81,22,46,97,164,23,25,27,10,4,18,8,55,14,27,16,76,1,31,19,1,12,32,50,31,20,16,4,12,24,10,112,28,34,44,38,2,23,3,10,7,13,182,23,18,23,19,85,21,14,49,16,12,93,43,60,1,26,17,71,122,214,117,19,29,124,33,371,5,108
+Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20,39,70,20,55,77,52,81,22,46,97,164,23,25,27,10,4,18,8,55,14,27,16,76,1,31,19,1,12,32,50,31,20,16,4,12,24,10,112,28,34,44,38,2,23,3,10,7,13,182,23,18,23,19,85,21,14,49,16,12,93,43,60,1,26,17,71,122,214,117,19,29,124,33,371,5,108,144,1
 Addressing AI	4528,7984
 Addressing AI Safety and Security	1814
 Addressing Africa's Trade Finance Gap DFIs	10718
@@ -361,17 +378,22 @@ Addressing Ezulwini Municipality	13222
 Addressing FCV Drivers and Sources of Resilience	11469
 Addressing Fragility and Demographic Challenges	13312,2
 Addressing GBV	10829
+Addressing Gender Based Violence Combating Organised	14781
+Addressing Gender Based Violence Protecting	14781
 Addressing Gender Gaps	1264,10701
 Addressing Gender-Based Occupational Segregation	3604
 Addressing Gender-Based Violence	10776
 Addressing Growing Surveillance Concerns	14190
 Addressing Illegal Mobile Lines	9472
+Addressing Investment Constraints	14829
+Addressing Investment Constraints Pillar	14829
 Addressing Legacy Systems	14525
 Addressing Liberia	1777
 Addressing MSME	9791
 Addressing Matters Despite	10983
 Addressing Multiple Poverty Traps	10964
 Addressing Musk	5611
+Addressing Noise Nuisance	14828,3
 Addressing Non-Communicable Diseases	10776
 Addressing Peace	8015
 Addressing Policy for Nigeria	11129
@@ -433,6 +455,7 @@ BCEAO. Additional	3671
 BCs Additional	12328
 BI-Switch and ATS. Additional	13314
 BI-Switch and ATS. Short Address	13314
+BRN Address	14713
 BS-0428-5841 Brong Ahafo Digital Address	3386
 BUDGET ADDRESS BY HONOURABLE DR. SITUMBEKO	13435
 BUSINESS ARCHITECTURE Addresses	14441
@@ -465,6 +488,7 @@ CG-1536-7228 Digital Address	3386
 CLE and ADDS	13938
 CONSULTANT Postal Address	13031
 CONTACT US Address	13666
+CORPORATE INFORMATION Corporate Address Mauritius Standards	14736
 COURT ADDRESSES AND CONTACT DETAILS	12920
 COURT PHYSICAL ADDRESSES Supreme Court	12920
 CRITERIA DESCRIPTION Addressed	11252
@@ -561,12 +585,14 @@ Educator National Office Address	11241
 Eko Building Address	11129
 Electronic Addressing	11129
 Electronic Mail Address Report	775
+Element Weights ROSC Rating Additional Recommendations	14777
 Elements of Address Type	11129
 Elements of Address Type Title First Name	11129
 Email Add	13529
-Email Address	4896,6380,1761,148,276,1
+Email Address	4896,6380,1761,148,276,1,1278
 Email Address Email Mobile Number	736
 Email Address Subject Message Submit Harare	12511
+Email Address and Mobile Number	14740
 Email Addresses	11257
 Employment Income Tax Value Added Tax	12500
 Empowering End-Users and Addressing the Digital Divide	14470
@@ -596,6 +622,7 @@ Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Expanding the National Addressing System	13582
+Fax Email Address Human Resources Manager	14746
 Features and Types of Addresses	11129
 Feb-2019 Portal Additional Financing Loan Closing	11924
 Financing II. Description of Additional Financing III	13734
@@ -604,9 +631,11 @@ Find Your GDT Address	12745
 Fiscal Year Addis Ababa	7091
 Form for Participant Addition	12364
 Frequency Address	958
+Future ADDRESS	14748
 GB ADDENDUM	5793
 GCIS Add	5969
 GENERAL INFORMATION PHYSICAL ADDRESS	11218
+GFS Accessibility Additional Recommendations	14777
 GIS Addressing Database. At the Local Government	11129
 Geddit Address	12745
 Ghana Digital Address	2308
@@ -618,14 +647,16 @@ Governance Global Practice. Additional	4214
 Governance Model Addressing Liberia	1777
 Government Addressing Team	11129
 Government of India. Address	12972
+Government. Additional	14748
 Governments of Norway and Ireland. Addressing	13112
 Green Growth Addis Ababa	11664
 Gross Sectoral Value Added	13624
-Gross Value Added	236,2539,9180
+Gross Value Added	236,2539,9180,2881
 Gross Value Added Gross	11955
 Gross Value Added HTML Hyper Text	236
 HEALTH AND WELL-BEING Determinants of Health Addressed	10776
 Head for Addis Ababa Projects W	12195
+Hepatitis and Addictology	14839
 Hirshabelle State Abdirahim Isse Addow	7897
 Hon. Dr. Addis Ababa Othow	3736
 I Addis Ababa	11283
@@ -642,6 +673,8 @@ IDENTIFICATION ADDRESS	582
 IGF Addis Ababa	1714
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605,9076
 IMPACTS Additional Greater Economic	12006
+IMPLEMENTATION PLAN TO ADDRESS SHORTCOMINGS IDENTIFIED	14773
+INSERT ADDITIONAL DETAILS REGARDING THE PROPOSED	14754
 INSERT ADDRESS	3972,77,1303
 INTRODUCTION The National Addressing Policy	11129
 IP Address Mapping	12041
@@ -658,6 +691,7 @@ Intelligent Digital Addressing Nigeria	11129
 Intermediate Consumption and Value Added	2775
 Intermediate Gross Value Added Gross	236
 International Addressing	11129
+Introduction The Value Added Tax Act	14785
 Invitation Documents Documents Add	10235
 J. Addison	11006
 Jennifer Onyeagoro Addressing	7436
@@ -681,6 +715,9 @@ Local Government Addressing Committee	11129
 Local Government Addressing Implementation Committee	11129
 Local Government Addressing Teams	11129
 Luba Lesolle Add	5808
+MAURITIUS Additional	14777
+MAURITIUS Additional Recommendations	14777
+MAURITIUS MAURITIUS Additional Recommendations	14777
 MDTF. Additional	13332
 MESOB Headquarters Government Services Center Address	10709
 MILLION AND PROPOSED ADDITIONAL GLOBAL PARTNERSHIP	13860
@@ -690,11 +727,16 @@ MTN MyTown Offers Additional Bundles	11259
 MTN MyTown Offers Additional Bundles Bundle	11259
 MWh Additional	12399
 Main Areas of Additional Support and Timing Time	11855
+Making Available of Additional Spectrum for Operation of IMT	14825
 Manage Technology Addiction	12214
 Managing Director of Digital Addressing Platform	11126
 Manufacturing Value Added	9761,1219
 Mar-2017 Portal Additional Financing	11924
 Market Demand Addressing Usage and Adoption Gaps	12214
+Marketing Branding and Value Addition	14818
+Mauritius Add	14758
+Mauritius Digital Promotion Agency AddressMauritius Digital	14848
+Mauritius. MAURITIUS Additional Recommendations	14777
 Mc Ethiopia Africa Eastern Africa Addis	10840
 Military Address	11129
 Military Addresses	11129
@@ -734,6 +776,7 @@ Nation Address. Honourable Speaker	12982
 Nation Addresses	5533,5691,762
 Nation Annually Address	958
 National AI Agency Addressing	10152
+National Accounts MAURITIUS Additional Recommendations	14777
 National Address Database	11129
 National Address Programme	3460
 National Address System	958,12337
@@ -862,18 +905,22 @@ Previous Previous Addressing Food Security	12366
 Prime Minister’s Year-End Address	4535
 Prime Minister’s Year-End Address No Result	4535
 Private Sector Paratus Shareholders Equity Addition	1944
+Procurement of Additional Reverse Osmosis Treatment	14830
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Program NDTS RAPID-CI Sources of Additional Funds	3604
 Project Additional Financing	14553
 Project Year Additional Children	10829
+Proof of Address	14762
 Proposed Additional	11965
 Proposed Additional Total Last Approved	2889
 Proposed Additional Total Proposed Current Financing	1284
 Province AddressStatisticsTaxTelecommunicationsTourismTrade	11215
 Public Disclosure Authorized AND AN ADDITIONAL	11924
+Purchaser. Addenda	14766
 R Digital Address	3386
 RATIONALE FOR ADDITIONAL FINANCING	2889
 RECORD OF ADDENDA TO TENDER DOCUMENTS	12693
+REGISTERED BUSINESS ADDRESS	14754
 REGISTRATION CENTERS IN ADDIS AND SURROUNDINGS	12202
 RHV Added Value MVA Regional Handicrafts	10980
 RI M Add	1009
@@ -890,7 +937,7 @@ Request for Submission of Additional Copies CM51	12342
 Required Current Address	12281
 Requirements Additional	12157
 Residence Address. If the Reporting Financial Institution	11233
-Residential Address	12410
+Residential Address	12410,2368
 Residents of Addis Ababa	13948
 Returns for Value Added Tax	11976
 Roberto Chavez- Street Addressing Manual- Street	11129
@@ -905,12 +952,14 @@ STAKEHOLDERS ADDS	10852
 STANDARD FOR MAIL ADDRESSING	11129
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
 STREET ADDRESS	11240
+STRUCTURAL ADDITIONS	14778
 STUDY ADDS Over	10881
 SYMPOSIUM KEYNOTE ADDRESS BY THE RIGHT	12688
 Says Deputy PM Addis Ababa	8920
 Scale Digital Addressing Industry Published	10983
 Sean Ofori Addo	6936
 Second Additional Financing Republic of Congo LISUNGI	11924
+Security Code and Email Address Step	14784
 Senior Procurement Specialist Address	13185
 Service Value Added Tax Excise	5655
 Services National Office Address	11220,21
@@ -955,6 +1004,7 @@ TYPES OF ADDRESSES	11129
 Table of Contents I. Background and Rationale for Additional	13734
 Taxation and Value Added Tax	13122
 Teaching and Learning Conditions MS Additional Financing	13392
+Tel No. Fax No. E-mail Address	14781
 Telecommunications Value Added Service	762
 Telecommunications Value Added Service License	762
 Temporary Addresses	11129

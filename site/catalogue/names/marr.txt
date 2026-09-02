@@ -1,8 +1,12 @@
+A. Marriage	14714,1
 Accra Marriott Hotel	10117
 Age Specific Marriage Rates	12413
+B. Marriage	14714
 Birth Registration Marriage Registration Death Registration	10814
+CIVIL MARRIAGES	14753
 Child Marriage	10829,1359
 Child Marriage and FGM	12188
+Civil Marriage	14714,1
 Committee Dr. Maledh Marrakchi University of Manouba	2958
 Crude Marriage Rate	12367,272
 Crude Marriage Rate CNR	12639
@@ -20,13 +24,16 @@ GISAGARA Registered Marriage NYARUGURU	12413
 IDs. Marriage	9696
 Journal of Development Marriage	12138
 Kigali Marriott Hotel	9760,35,517,2058
+M F Marital Status Single Married	14740
 MARRIAGE AND DIVORCE FACT SHEET.pdf	12471
 MARRIAGE AND SEXUAL ACTIVITY	13454
 MARRIAGE REGISTRATION In Namibia	12337
+MARRIAGE Sub-Part	14714,1
 MARRIAGES AND DEATHS	12898
 MARRIAGES AND DIVORCES	13644
 MARRUECOS	4209
 Malawi and Certificates of Marriage Registration. Through	12291
+Male Female Both Sexes Ever Married	14815
 Marracuene	2816,7403,2574,22
 Marrakech	2068,190,457,2,284,2301,306,126,26,12,5,20,3,30,48,889,528,1596,765,2644
 Marrakech-Safi	1244,1757,2629,3261
@@ -39,12 +46,13 @@ Marrakesh Treaty Ratification	11935
 Marrakesh Treaty Signing	11935
 Marrakesh Treaty The Republic of Niger	10358
 Marrella	9237
-Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97
+Marriage	2072,3461,1698,3581,1174,152,88,15,86,10,1,29,46,58,25,143,16,350,75,15,10,48,491,304,97,669,1
 Marriage Act	1,2830,2702,5232,10,402,809,341,10,30,166,106,9,311,25
 Marriage Act Chapter	12449
 Marriage Adoption	12327
 Marriage Bill	5533,6453,961
-Marriage Certificate	12291
+Marriage Certificate	12291,2471
+Marriage Certificate No	14713
 Marriage Certificates Available Fees	14045
 Marriage Records	12334
 Marriage Register	12367,272,320
@@ -87,6 +95,7 @@ Marrupa	2989
 Marry Me	2626
 NYANZA KIREHE NYAMAGABE RUSIZI HUYE Marriage2024	12413
 Never Married	12383
+Online Birth Certificate and Marriage Certificate. Public	14750
 PART IV REGISTRATION OF MARRIAGES	12898
 PROCEDURES FOR REGISTRATION OF MARRIAGE	12338
 Para Marruecos	11820
@@ -94,6 +103,7 @@ Particulars of Records of Marriage	12226
 Pilot Marriage Registration	12241
 Pilot Marriage Registration Supported	13080
 Place of Registration of Marriage	12226
+Publication of Civil Marriages of Mauritian Citizens	14755
 REGISTRATION OF CIVIL MARRIAGES	12959
 REGISTRATION OF MARRIAGES	12898
 Recognition of Certain Marriages Act	12959
@@ -106,6 +116,7 @@ Registrar of Marriages	12290
 Registrar of Marriages Ends Manual Printing of Certificates	12290
 Registrar of Marriages. Under the Marriage	13105
 Registration of Marriages	12944
+Religious Marriage	14714,1
 Republic of South Africa. The Marriage Bill	5533
 Requirements for Registration of Marriages and Divorces	13644
 SUB-SECTION THREE REGISTRATION OF MARRIAGE	12226
@@ -116,3 +127,4 @@ Tatiana Marrufo	2816
 Types of Registered Marriages	13644
 Underage Marriage and Other Harmful Traditional Practices	14011
 Year Births Deaths Marriages	12413
+Year of Marriage	14713

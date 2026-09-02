@@ -120,6 +120,7 @@ Charles J. Robel Dean and W. P	13258
 Child Deaths	12367
 Children Deaths	12383
 Children's Act. The Births and Deaths Registration	12597
+Communication and Innovation Dear Readers	14729
 Community Deaths	12151,262
 Compliance Deadline Lapses	5562
 Compulsory Registration of Births and Deaths	12523
@@ -143,6 +144,7 @@ DEAL SIZE	4972
 DEAL TECHNOLOGIQUE	7852
 DEAL-VOCAB	39,55,9,3,5,49,2,3,15,11,1,31,5,1,9,62,1,1,1,13,1,2,78,23,1,30,26,21,39,1,13,2,2,12,13,1,3,150,11,18,1,8,20,61,10,69,16,1,25,7,6,5,4,90,1,36,39,14,18,13,1,194,11,1,16,92,43,5,1,2,78,27,92,129,53,178,1,2,1,1,2,7,5,3,1,1,2,54,1,1,5,4,8,2,2,2,2,1,4,2,2,2,2,2,1,2,269,83,824,349,384,48,10,44,62,30,94,5,1,4,5,1,1,1,1,4,1,2,15,1,1,1,1,1,1,3,1,8,1,7,1,2,1,1,2,1,393,79,156,190,65,70,23,37,70,136,175,319,204,46,62,42,71,59,30,406,196,100,35,145,346,97,141,342,76,28,271,102,24,105,151,185,95,12,86,128,104,233,154,16
 DEAL-VOCAB.md	91,57,1007,997,87,1,2228,10134,46
+DEALER	14843
 DEALING POLICY AND GUIDELINES	4896
 DEALING WITH CORRUPTION AND MALFEASANCE	11277
 DEAMS	12241,839,15
@@ -150,7 +152,7 @@ DEANESH HOSPITAL LIMITED Data Controller INST-3428009C40A	7167
 DEANS DENTAL LIMITED Data Controller INST-711739AFF30	7167
 DEANS DENTAL LIMITED Data Processor INST-711739AFF30	7167
 DEANS TRAVEL CENTRE LTD Data Processor	7167
-DEATH	12471
+DEATH	12471,2243,1
 DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
 DEATH REGISTRATION In Namibia	12337
 DEATHS REGISTRATION ACT CHAPTER	13285
@@ -173,9 +175,10 @@ Deadline for Development	8485
 Deadline for Obtaining Tender Document	12693
 Deadline for Registration	14647
 Deadline for Registration of Financing Statement	14647
-Deadline for Submission	13185
+Deadline for Submission	13185,1593
 Deadline for Submission of Applications	1638
-Deadline for Submission of Bids	13185
+Deadline for Submission of Bids	13185,1581,12
+Deadline for Submission of Bids Bids	14778
 Deadline for Submissions	6748
 Deadlines	9794,1387,695,841
 Deadlock	1695
@@ -214,19 +217,23 @@ Deal for Technology Tarik Dadi Combats	2627
 Deal. Ce	2443
 Deal. Qu’est-ce	2443
 Dealer	736
-Dealers	4513,7882
+Dealers	4513,7882,2358
 Dealers and ISPs	1872
-Dealing	587,1931,1065,742,1208,1301,2006,165,2981,1375
+Dealer’s	14754
+Dealing	587,1931,1065,742,1208,1301,2006,165,2981,1375,1400,74
 Dealings	3714,8936,748
 Dealroom	7181,6280
 Deals	3695,1277,1818,397,1516,2566,766,304,1046
 Deals US	4972
 Deals VENTURE DEBT DEAL VOLUME	4972
 Dean Bennett Appleby	7198
+Dean Faculty of Engineering University of Mauritius	14736
 Dean Karlan	10964
 Dean School of Science	14555
 Dean Veverka	2677
 Deans	2933
+Dear All Potential Suppliers	14759,3
+Dear Citizens	14729
 Dear Colleagues	14241
 Dear Directors	4896
 Dear Editor	9653
@@ -237,10 +244,11 @@ Dear Madam	7074
 Dear Shareholders	11955,360
 Dear Sir	13037,1094,533
 Dear Sirs Space Exploration Technologies Corp	6891
-Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9,305,15,46,75,15,58,91,63,118,183,36,34,367
+Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58,159,9,305,15,46,75,15,58,91,63,118,183,36,34,367,669,1
 Death Certificate	12217,74,348
 Death Certificate Form	14045
 Death Certificate Issuing Authority	14045
+Death Certificate No	14713
 Death Certificates	11282,1009,205
 Death Certificates Available Fees	14045
 Death Certificates Personal	12496
@@ -251,6 +259,8 @@ Death Death Prematurity Prematurity	12151
 Death Match of Institutional Orders	11028
 Death Notification Courts	14137
 Death Occurring	12226
+Death Penalty	14742
+Death Penalty Act	14742
 Death Prematurity Prematurity Prematurity	12151
 Death Rate CoD Cause of Death CR	12413
 Death Registration	2775,9376,90,431,408,15,549,493
@@ -269,7 +279,7 @@ Death and Identity Registers	2072
 Death and Marriage	13005
 Death of Member of Defence Force	12226
 Death of Several Persons	12226
-Deaths	2775,1485,41,6479,351,3,426,409,169,13,16,167,3,1,29,46,120,139,333,48
+Deaths	2775,1485,41,6479,351,3,426,409,169,13,16,167,3,1,29,46,120,139,333,48,1689,13
 Deaths Among	12151
 Deaths Among Children Under	12151
 Deaths Mortality	12639
@@ -305,6 +315,7 @@ EDITORIAL Dear Reader	13477
 EU Green Deal. Climate	789
 EXTRA MONEY TO DEAL	10977
 Eastern Deanery AIDS Relief Program Data	7167
+Economic Planning Dear Valued Stakeholders	14819
 Effectiveness Deadline	1914,12516
 Election Deadline	4896
 Emmanuel Vitus Agbenonwossi Dear NRI Coordinators	9858
@@ -321,6 +332,7 @@ FETAL DEATH REGISTRATION	12338
 Faces December Reauthorization Deadline	10351
 Female Both Country Of Death	12151
 Female Death	12413
+Financing of Drug Dealing Investigation Unit	14742
 Food Bank The Goal for Zero Deaths	12448
 Free-Trade Deal. Now Comes the Hard Part	10555
 GAB. Deal	5801
@@ -378,6 +390,7 @@ Liberia and Ghana Pursue Free Roaming Deal	2362
 Librarians and Deans of Students	13556
 Life Counts Besides the Births and Deaths Registration	12151
 Local Currency Bond Deal	11134
+Louis Dear Minister of Finance	14744
 MARRIAGES AND DEATHS	12898
 MCCD Medical Certification of Cause of Death NCD	12151
 MEDIAN VENTURE CAPITAL DEAL SIZE	4972
@@ -402,7 +415,10 @@ Medicolegal Death Investigations Mozambique	12167
 Ministry of Health and Sanitation. SOST Executive Dean	13158
 Ministry of Health. Deaths	12167
 Ministry of Justice and Labour Relations Dear Sir	13037
+Motor Vehicle Dealers Association	14753
 NIGERIA'S TRADE DEAL WITH THE UAE	12026
+NON A DEAL PITI-MAMA	14753
+NON A DEAL PITI-MAMA ET RANN	14753
 NORTH AFRICA Volume and Value of Venture Deals	4972
 NOTIFICATION AND REGISTRATION OF DEATHS Clause	12959
 NPRS. Death	12327
@@ -430,6 +446,7 @@ Partech Africa Team Topline Deals	12339
 Particulars of Records of Death	12226
 Pauvreté DEA Diplôme	12
 Place of Registration of Death	12226
+Port Louis. D.3. Deadline for Submission of Bids	14778
 Pre-Seed Deals	4972
 Private Sector and Economic Deals Beyond	6790
 Proportion of Registered Deaths	12151
@@ -487,6 +504,7 @@ Site of Death	13644
 Slaughter Dear Commissioner McGrath	8533
 Slow Death Of Scaling	5029
 South Africa Standard Time Deadline	13576
+Stakeholders of Dealers	14800
 Standstill Period DEADLINE	13185
 Sub-regions Dear Sir	10235
 Sudatel Seal Binding Deal	4975
@@ -550,6 +568,7 @@ X Deaths	12138
 X. Deadly	6820
 Year Births Deaths Marriages	12413
 Year Registration of Births and Deaths Act	10822
+Year of Death	14713
 Year the Births and Deaths Registration Law	10822
 ZIMBABWE Deadline	13618
 Zambia Revenue Authority Signs ICTD Deal	7433

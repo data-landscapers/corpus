@@ -1,3 +1,5 @@
+A. Civil Status Database	14714,1
+A.Civil Status Database	14715
 ACHPR Recommendations Tracking Database System Guidelines	8485
 ACKNOWLEDGEMENTS The ID4D-Global Findex Database	10714
 About the Global Findex Database	10977
@@ -31,14 +33,18 @@ Briter Bridges Database62	12376
 CENTRAL SUPPLIER DATABASE	11240
 CHAPTER IX PROTECTION OF CRITICAL DATABASES	11179
 COVID-19 Tracing Database	9969
+CPD Central Population Database C2C Consumer-to-Consumer	14790
 CRVS System and Database No Weaknesses	13005
 CSD Central Supplier Database CSIR Council	5533
+Central Business Registration Database	14720
 Central Database CMS Adjudication Print Job	13005
+Central Population Database	14714,1,29,46,38,3,12
 Central Supplier Database	11209
 Central Supplier Database DG Director General	11250
 Central Supplier Database Number	11252
 Centralized and Interoperable Database	1529
 Civil Registration Database	12337
+Civil Status Database	14714,1,113,3,12
 Coarse Resolution Imagery Database	11334
 Coarse Resolution Satellite Imagery Database	11334
 Cochrane Database Syst Rev	10881
@@ -49,6 +55,7 @@ DATABIT LIMITED Data Processor INST-5766979ABB3 NAIROBI	7167
 DB2 Database	13185
 DCAF Legal Databases	0
 DHIS2 Database Responsibility for Data Collection	11417
+DIGITAL CADASTRAL DATABASE	14722
 DataBank	10714
 DataBreachToday	3279
 DatabankWide.xlsx	11960
@@ -56,6 +63,7 @@ Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29,262,146,29,6
 Database Activity Monitoring	13053
 Database Administration	9437,3600
 Database Administrators	6832
+Database Document Management	14738
 Database ID	6423
 Database Maintenance	11129
 Database Management	11129,1020,1207
@@ -76,7 +84,7 @@ Database Verification	2307
 Database of Information Technology	12982
 Database-heavy	6432
 Database. Retrieved	1243
-Databases	970,1548,8099,97,1447,1195
+Databases	970,1548,8099,97,1447,1195,1405
 Databases and Data	395
 Databasex	10812
 Datable	2977,1987,78,780,1012
@@ -85,6 +93,7 @@ Deeds Registry Systems and Databases	11260
 Development and Management of Database	1512
 Development of National Database	12149
 Diagram DATABASE	6423
+Digital Cadastral Database	14713
 Digital ID and Maisha Integrated Database	12165
 Disaster Risk Management Emergency Events Database	10763
 DisclaimerThe Treaty Body Database	11765
@@ -148,6 +157,7 @@ Maisha Integrated Database	12165,62
 Maisha Integrated Database.126 Despite	12227
 Malawi Business Registration Database	12906
 Mongolia's Integrated Household Information Database	11133
+Movable and Immovable Property Database	14713
 Multilateral Surveillance Mechanism Database	7
 Multiple Databases	6423
 NCBI Databases	12255
@@ -157,6 +167,7 @@ NUMBEO Database	11863
 National Accounts Database System	14087
 National Address Database	11129
 National Addressing Database	11129
+National Agricultural Disaster Database	14818
 National Citizen Database	12917
 National Database	5920,4360
 National Database for Checking Identification	12389
@@ -168,6 +179,7 @@ National Identity Management Database and Immigration	7914
 National Master Database	12323,2180
 National Research Database System National Research	1554
 National Research Database of Zimbabwe	1554
+National Risk and Import Decision Database	14818
 Nigeria Police Crime and Incident Database Centre	11928
 OECD Family Database	8891
 Open Data Commons Open Database License	1232,1026
@@ -222,6 +234,7 @@ WEO Database	11581
 WID.World World Inequality Database	11887,266,1,9,178
 WID.World World Inequality Database WJP World	10759,78,1052,451
 WIPO Statistics Database	11883
+Weather Stations and Climate Database Management Systems	14738
 World Bank DataBank	11004
 World Bank Database	11863
 World Bank Global Electrification Database. Page	13331

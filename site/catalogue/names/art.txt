@@ -15,9 +15,11 @@ AGRICULTURE AND FOOD SECURITY ARTICLE	14409
 AI Artificial	11050,83
 AI Artificial Intelligence	3184,1,1340,6470,970
 AI Artificial Intelligence ADM Add	12006
+AI Artificial Intelligence ARC Academic Research	14747
 AI Artificial Intelligence ART Antiretroviral Therapy	396
 AI Artificial Intelligence ASN Autonomous System	12427
 AI Artificial Intelligence AU African Union	13991
+AI Artificial Intelligence B2B Business-to-Business	14790
 AI Economy Artificial	7876
 AI Governance Artificial	9261
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
@@ -129,7 +131,9 @@ ARTP Senegal	5962
 ARTP and PURA	6869
 ARTPAKACHA LIMITED Data Processor INST-85144380909 MOMBASA	7167
 ARTPC	10474
+ARTS AND CULTURE	14748
 ARTS AND CULTURE Cabinet	13673
+ARTS AND CULTURE Honourable Members	14748
 ARTS AND RECREATION	13420
 ASSEMBLY ARTICLE	14409
 ASUNTOS SOCIALES Y ARTESANIA	4209
@@ -150,6 +154,7 @@ Abril. Artigo	5169,1293
 Abstract Artificial	8301
 Access Artificial	13649
 Acquisitions Read Article Business Strategic Guidance	12495
+Act AI Artificial Intelligence BPO Business	14729
 Action Activité Article Paragraphe Ces	3396
 Activités Postales Article	37
 Activités de Communications Electroniques Article	37
@@ -358,7 +363,7 @@ Artic'e	13781
 Articile	13719
 Articl	10190
 Articl2e	13292
-Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89,163,116,4,3,3,14,4,23,13,72,2,7,17,40,51,37,35,71,1,1,1,9,7,3,10,2,1,4,4,15,6,29,4,30,18,6,19,1,21,1,7,33,8,6,49,1,119,2,1,2,7,2,2,16,33,9,44,2,1,1,3,2,9,9,24,1,46,14,3,8,2,1,1,2,1,3,3,2,4,1,5,3,10,10,18,10,1,6,8,34,26,14,11,3,1,1,20,26,18,112,103,1,1,1,2,3,1,1,1,1,2,1,1,2,3,2,1,2,1,9,14,1,4,6,14,5,1,1,3,7,24,14,8,3,45,12,4,48,8
+Article	7,3,1,6,8,2,10,76,50,70,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5,47,6,4,37,1,1,5,3,3,1,3,7,5,1,11,23,24,2,1,2,3,3,10,16,29,9,4,2,55,43,22,34,4,1,14,2,34,3,54,66,104,61,39,5,28,2,15,13,27,39,15,43,13,25,54,17,51,4,12,20,5,2,20,16,13,4,5,10,2,16,14,51,37,50,1,5,13,21,3,5,8,25,6,10,4,9,38,1,7,1,17,8,6,4,1,22,13,2,7,31,6,41,8,10,14,8,10,17,89,163,116,4,3,3,14,4,23,13,72,2,7,17,40,51,37,35,71,1,1,1,9,7,3,10,2,1,4,4,15,6,29,4,30,18,6,19,1,21,1,7,33,8,6,49,1,119,2,1,2,7,2,2,16,33,9,44,2,1,1,3,2,9,9,24,1,46,14,3,8,2,1,1,2,1,3,3,2,4,1,5,3,10,10,18,10,1,6,8,34,26,14,11,3,1,1,20,26,18,112,103,1,1,1,2,3,1,1,1,1,2,1,1,2,3,2,1,2,1,9,14,1,4,6,14,5,1,1,3,7,24,14,8,3,45,12,4,48,8,48,1,20,7,1,25,44,12,15,2,2
 Article 12.html	6471
 Article 16	13719
 Article 39	13719
@@ -476,7 +481,7 @@ ArticleHuawei	6559
 ArticleRegulatory Pressure Is Increasing. Many Organisations	6632
 ArticleSouth Africa	6365
 Articled Accountant	4896
-Articles	25,2,546,12,133,31,13,137,63,252,33,89,258,88,125,84,105,409,60,46,248,57,97,92,168,541,147,266,259,181,91,16,222,425,166,6,6,409,342,100,262,358,481,97,22,1,69,215,477,5,178,157,194,533,246,15,150,382,56,57,9,56,106,187,28,80,70,35,31,72,175,93,11,52,207,33,19,38,97,196,56,4,33,171,29,8,137,81,120,111,263,127,254,16,1,2,13,15,46,3,28,24,35,399,36,25,11,3,12,33,103,310,16,27,13
+Articles	25,2,546,12,133,31,13,137,63,252,33,89,258,88,125,84,105,409,60,46,248,57,97,92,168,541,147,266,259,181,91,16,222,425,166,6,6,409,342,100,262,358,481,97,22,1,69,215,477,5,178,157,194,533,246,15,150,382,56,57,9,56,106,187,28,80,70,35,31,72,175,93,11,52,207,33,19,38,97,196,56,4,33,171,29,8,137,81,120,111,263,127,254,16,1,2,13,15,46,3,28,24,35,399,36,25,11,3,12,33,103,310,16,27,13,263,14,5,27
 Articles Chukwuemeka Fred Agbata	9936
 Articles IA	11673
 Articles III and IV	3583
@@ -522,13 +527,14 @@ Artifacts Summary Artifacts Summary	6666
 Artifacts Summary Contents	6666
 Artifi	13042
 Artifical	11976
-Artificial	718,1222,153,3,590,116,14,142,541,55,50,87,69,268,10,88,52,447,272,114,121,239,227,1,293,279,62,32,424,104,39,89,27,17,17,339,16,22,120,58,11,30,59,89,5,105,31,88,67,173,63,5,20,97,46,34,37,108,81,25,66,12,26,163,9,143,15,10,226,130,49,88,33,87,257,16,32,9,25,139,24,326,248,168,38,85,3,2,16,91,58,19,32,139,3,160,24,294,18,216,243,101,159,213,469,48,716,39,71,36,35,94,131,36
+Artifical Intelligence	14819
+Artificial	718,1222,153,3,590,116,14,142,541,55,50,87,69,268,10,88,52,447,272,114,121,239,227,1,293,279,62,32,424,104,39,89,27,17,17,339,16,22,120,58,11,30,59,89,5,105,31,88,67,173,63,5,20,97,46,34,37,108,81,25,66,12,26,163,9,143,15,10,226,130,49,88,33,87,257,16,32,9,25,139,24,326,248,168,38,85,3,2,16,91,58,19,32,139,3,160,24,294,18,216,243,101,159,213,469,48,716,39,71,36,35,94,131,36,203
 Artificial Alignment Proposal Data Protection Act	7548
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955,4095,106
 Artificial Honey	13122
 Artificial Humans	8460
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18,84,1,5,9,7,54,37,18,23,1,47,4,143,19,57,59,36,11,17,25,8,36,106,98,1,9,21,31,28,165,30,1,115,43,20,3,41,39,10,52,111,32,1,17,12,23,2,83,81,36,4,5,4,7,13,1,25,23,4,15,14,3,15,63,24,26,21,11,106,1,9,10,35,42,13,18,6,24,25,10,4,1,7,40,41,23,18,12,260,46,13,2,78,10,36,9,9,30,43,130,153,61,1,35,62,1,10,16,39,18,1,2,2,18,1,1,2,1,4,7,4,3,19,6,1,10,9,4
 Artificial Intelligence AI	12210
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
@@ -623,11 +629,14 @@ Artificial Intelligence Taskforce Report	12210
 Artificial Intelligence Technology	6948
 Artificial Intelligence Technology Strategy Council	11135
 Artificial Intelligence UNITED NATIONS New York	10840,1054
+Artificial Intelligence URL	14770,72
+Artificial Intelligence Unit	14786
 Artificial Intelligence University Construction	7085
 Artificial Intelligence University Innovation Pod	5073,9011,604
 Artificial Intelligence Working Group	5036
 Artificial Intelligence Workshop	13080
 Artificial Intelligence and Advanced Computing	9126
+Artificial Intelligence and Analytics	14790
 Artificial Intelligence and Bachelor of Science	8839
 Artificial Intelligence and Clean	4972
 Artificial Intelligence and Cloud Commuting	6376
@@ -710,8 +719,12 @@ Artisanat de Guinée	7730
 Artisanat de Ouagadougou	4029
 Artisanat. Il	13500
 Artisans	11956
+Artist Act	14742
 Artist Fees	12982
+Artist Incubator Scheme	14742
 Artistes du Burundi	13390
+Artistic and Cultural	14829
+Artistic and Cultural Hub. That Hub	14829
 Artists	7602,6698
 Artiﬁcial	5618
 Artiﬁcial Intelligence	958,10177,19
@@ -724,10 +737,12 @@ Arto Juhani Immonen	10785
 Artoab6i5ainm2o0r2e3.than	12151
 Arts Centre	3386
 Arts Competition	10776
+Arts Council. The Act	14742
 Arts Exhibition	10776
-Arts and Culture	288,900,622,177,3049,50,2920,12,2007,1160,1068,92,28,301,320,16,38,95,74,30,344,82
+Arts and Culture	288,900,622,177,3049,50,2920,12,2007,1160,1068,92,28,301,320,16,38,95,74,30,344,82,1075
 Arts and Culture Arts and Culture and ICAO Country	11986
 Arts and Culture Mr. Kaissane Hassane	13791
+Arts and Culture Rs	14830
 Arts and Culture Sanet Steenkamp	13106
 Arts and Culture Social Development The Parties	11185
 Arts and Development Fund	14546
@@ -759,6 +774,7 @@ Assembleia Nacional. Artigo	14,1,534
 Assembly ARTICLE	14409
 Assembly. ARTICLE	14409
 Assemblée Générale. ARTICLE	13809
+Assises des Arts	14748
 Assist the Assembly ARTICLE	14409
 Association of Artificial Intelligence	11778
 Association. Article	10836,3581
@@ -794,6 +810,7 @@ Bachelor of Arts	5315,1517,114,4185,3,1189,2180
 Bachelor of Arts Degree	6946,4185,3
 Bachelor of Arts Honours	6832
 Bachelor of Arts Social Science Degree	11131,3
+Background Artificial	14812
 Balanced Legal Framework for Artificial Intelligence	10270
 Banco de Moçambique. ARTIGO	12853
 Banco de Moçambique. Artigo	6462
@@ -946,6 +963,7 @@ Can the Artificial Intelligence Commissioner	11247
 Candidatures Article	17
 Cape Town. Artificial	6583
 Casos de Aplicação da Inteligência Artificial Actualmente	2816
+Caudan Arts Centre	14745,29
 Central Bank of Nigeria. Artefact	4848
 Centre for Artificial Intelligence	13688
 Centre for Artificial Intelligence Ethics and Governance	9416
@@ -987,6 +1005,7 @@ Comissão Nacional de Inteligência Artificial	2816,7735,2272
 Comissões Técnicas de Normalização. ARTIGO	12782
 CommiSSion. Article	11517
 Commission Article	11956
+Commission for Arts and Culture	14794
 Commission. Article	13709
 Common Article	3583
 Common Market ARTICLE	14409
@@ -1032,7 +1051,7 @@ Consent and Other Lawful Bases Article	11956
 Constituição. ARTIGO	11513
 Constitution Art	2456,2686
 Constitution Article	2456
-Constitution and Article	13470
+Constitution and Article	13470,1342
 Constitution. Article	17,291,8558,5082,468,43,41,110
 Constitutional Mandate and Legal Authority WHEREAS Article	3861
 Context of Artificial Intelligence	2958
@@ -1050,7 +1069,7 @@ Contracting Party. ARTICLE	13326
 Contratos Públicos. Artigo	10783
 Contraventions Measures Article	12616
 Control of Usage of Artificial Intelligence Technology	4734
-Convention. Article	6612
+Convention. Article	6612,8130
 Cooperation Framework. Article	4154
 Cooperation and Fair Competition Artificial	2958
 Coopération. Article	13334
@@ -1066,6 +1085,7 @@ Cour des Comptes. Article	1231
 Cour. Article	17
 Court ARTICLE	14409
 Court. ARTICLE	14409
+Creative Arts and Cultural Development Programme	14829
 Criminal Artigo	12311
 Cross-Border Data Transfer Article	11956
 Crédit-bail Article	14429
@@ -1094,6 +1114,7 @@ DADOS Artigo	14
 DADOS PESSOAIS Artigo	14
 DATA Article	11517
 DATA CONTROLLER ArtiCle	11517
+DATA PROTECTION AND ARTIFICIAL INTELLIGENCE	14752
 DATA PROTECTION Article	11517
 DATOS PERSONALES Artículo	163
 DE ADMINISTRAÇÃO ARTIGO	11518
@@ -1170,6 +1191,7 @@ DGID. Article	7346
 DIALOGUE ON ARTIFICIAL INTELLIGENCE GOVERNANCE DELIVERED	12760
 DIGEST THE ARTIFICIAL INTELLIGENCE BILL	11247
 DIGITAL ECONOMY KENYA ARTIFICIAL INTELLIGENCE	7548
+DIGITALISATION AND ARTIFICIAL INTELLIGENCE READINESS	14786
 DIGITALL ARTISTIX LIMITED Data Controller INST-2056775A71B	7167
 DIREITOS DE PROPRIEDADE Artigo	11901
 DISPOSITIONS BUDGETAIRES Article	13772
@@ -1276,8 +1298,10 @@ Dezembro. ARTIGO	12853
 Dezembro. Artigo	6462
 Diesel Artisans and Equipment Stores Personnel	13361
 Digitais Artigo	6970
+Digital Creative Art Grant	14742
 Digital Governance and Artificial Intelligence	7017
 Digital and Artificial Intelligence	13112
+Digitalisation and Artificial Intelligence Readiness URL	14786
 Diploma Artigo	167,263,314,8,42
 Diploma. ARTIGO	11445
 Diploma. Artigo	167,577,8,10031
@@ -1332,6 +1356,7 @@ E TRANSITÓRIAS ARTIGO	11461
 E TRANSITÓRIAS Artigo	10783
 E-Journal of Humanities Arts and Social Sciences	2093
 E-mail Copy URL Article	1876
+E3. Implement Artificial Intelligence	14729
 EAC Artificial Intelligence Challenge	9707
 EC. Article	14429
 ELECTRICITE ET TELEPHONE Article	4420
@@ -1443,7 +1468,7 @@ Ethical Development and Implementation of Artiﬁcial Intel-	1204
 Ethical Use of Artificial Intelligence	2958
 Ethics and Governance of Arti-	8301
 Ethics for Artificial Intelligence	2958
-Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525
+Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873,692,509,106,476,525,148
 Ethiopia Article	12246
 Ethiopia Artificial Intelligence	2162
 Ethiopia. Article	13948
@@ -1453,6 +1478,7 @@ Ethiopian Artificial Intelligence Institute Director-General	14152
 Ethiopian Artificial Intelligence Institute Worku Gachena	12279,1842
 Ethnic Minority. Article	11905
 European Commission’s Article	8629
+European Convention of Human Rights and Article	14841
 European Union Artificial Intelligence Act	6231,1103,3801
 European Union's Artificial Intelligence Act	9921
 Evaluation and Maintenance of Data Security System Article	11956
@@ -1533,6 +1559,7 @@ Forças Armadas. Artigo	14
 Francos CFA. Artículo	4209
 Francs Djibouti CHARGES GENERALES Article	4420
 Free Trade Area AI Artificial Intelligence	4126
+Freedom of Association and Assembly Article	14742
 Freight Booking Centres ARTICLE	14409
 French Strategy for Artificial Intelligence French	11135
 Full Article Text	12193
@@ -1573,8 +1600,9 @@ General Provisions Article	14127
 General-Purpose Artificial Intelligence Broad AI	12675
 Generalidades ARTIGO	11365
 Generative Artificial	11227
-Generative Artificial Intelligence	7179,499,3614,21,2148
+Generative Artificial Intelligence	7179,499,3614,21,2148,1329
 Generative Artificial Intelligence An AI	2958
+Generative Artificial Intelligence GDPR General Data	14790
 Generative Artificial Intelligence IA	2816
 Generative Artificial Intelligence-enabled Medical Device	3651
 Gerente de Treinamento de Modelos de Inteligência Artificial	2816
@@ -1597,6 +1625,7 @@ Global Artificial Intelligence AllianceEthiopia	7474
 Global Context of Artificial Intelligence Ethics	2958
 Global Governance of Artificial Intelligence	4583,3379,3173
 Global Organisation for Artificial Intelligence Cooperation	8506
+Global Residence Index. Article	14742
 Glossary AI Artificial Intelligence ASN Autonomous	10781,3701
 Glossary of Abbreviations Term Description AI Artificial	14674
 Glossary of Terms Artificial Intelligence	12356
@@ -1621,6 +1650,7 @@ Harnessing Artificial Intelligence’s Potential	11140
 Head of State. Article	13948
 Heads of State. ARTICLE	14409
 Health ARTICLE	14409
+Healthcare Innovation and Artificial Intelligence Unit	14829
 High-Level Artificial Intelligence	12299
 High-Risk Artificial Intelligence Systems	2958
 Hipertensão Arterial	10777
@@ -1766,9 +1796,10 @@ Intelligence Artificiel	7634
 Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093,110,556,153,1608,135,252,181,423,217,73,67,7
 Intelligence Artificielle Abdillahi Ahmed	13909
 Intelligence Artificielle URL	13476
+Interactive Theatre and Art Week	14742
 Intermediate Artificial Intelligence	13077
 Internet Community. Article	8866
-Internet of Things and Artificial Intelligence	12949
+Internet of Things and Artificial Intelligence	12949,1780
 Internet. Article	1231
 Internet. Artigo	12311
 Interoperabilidade Artigo	11461
@@ -1918,6 +1949,7 @@ MODELO DE GOVERNAÇA DA IA ARTIGO	3519
 MOGO Auto Limited. Article	10313
 MONETARY AND FINANCIAL CO-OPERATION ARTICLE	14409
 MONNAIE ELECTRONIQUE Article	11522
+MSc Data Science and Artificial Intelligence	14787
 MW Nation Online Article	14674
 Machine Learning and Artificial Intelligence	12926
 Macro-economic Co-ordination Within the Community ARTICLE	14409
@@ -1928,13 +1960,16 @@ Malawi Artificial Intelligence Landscape Assessment	14674
 Malawi Artificial Intelligence Landscape Assessment Report	14674
 Malawi National Artificial Intelligence Strategy	14674
 Malawi President Arthur Peter Mutharika	5028
+Management Funding Resources Artificial Intelligence Cyber	14729
 Marchés Publics Article	13524
 Maritime Transport and Ports ARTICLE	14409
 Master of Arts	6832,4299,3,1189,649,1531
 Master of Arts Degree	6946,6026
 Mastering the Art of Screenwriting	9781
+Mathematics MAIC Mauritius Artificial Intelligence Council	14729
 Matriz de Articulação	11448
 Matéria Penal. Artigo	6970
+Mauritius Artificial Intelligence Council	14729
 Mauritius Artificial Intelligence Strategy	2816
 Mauritius National Artificial Intelligence Strategy	2816
 Mauritius The Mauritius Artificial Strategy Plan	12210
@@ -1962,7 +1997,9 @@ Minister of Sports and Arts	12617
 Ministerial Articulation of ICT	13956
 Ministre du Budget. Article	4420
 Ministre. Article	13292
-Ministry of Arts and Culture	14267
+Ministry of Arts and Cultural Heritage	14742
+Ministry of Arts and Cultural Heritage. Financial	14742
+Ministry of Arts and Culture	14267,507,55,1,17
 Ministry of Education Arts and Culture	12923
 Ministry of Sport and Arts	2654,2999,8647
 Ministère des Finances. Article	13781
@@ -2006,9 +2043,10 @@ Namibia. Art	13097
 Namibia’s Artificial Intelligence Strategy Framework	9107
 Nation. Article	13710
 National AI Council National Artificial Intelligence	4528
+National Art Gallery	14774
 National Artificia	6689
 National Artificial	14674
-National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296
+National Artificial Intelligence	2359,1284,1760,543,348,86,327,1053,93,756,386,209,1088,938,1324,160,296,1742,38
 National Artificial Intelligence Agency	6526,38,3010,2108
 National Artificial Intelligence Agency. Samuel Mizero	10152,19
 National Artificial Intelligence Centre	10451
@@ -2017,6 +2055,7 @@ National Artificial Intelligence Commission	6331,1757
 National Artificial Intelligence Commission Bill	4583
 National Artificial Intelligence Data Centre	12474
 National Artificial Intelligence Datacenter Deployment	1787,1417,3881
+National Artificial Intelligence Guideline	14829
 National Artificial Intelligence Innovation Fund	3760,9683
 National Artificial Intelligence Institute	13217
 National Artificial Intelligence Observatory	10300
@@ -2042,6 +2081,8 @@ National Artificial Intelligence and Big Data Strategy	6893,3963
 National Artificial Intelligence and Data Platform	3760,9683
 National Artificial The FAIR Guidelines	14565
 National Artiﬁcial Intelligence Policy	1204
+National Arts Fund	14742
+National Arts Open Commission	14748
 National Assembly. Article	14127
 National Centre for Artificial Intelligence and Robotics	3622,2665,1801,1029,623,393
 National Charter for Artificial Intelligence Ethics	2958
@@ -2112,6 +2153,7 @@ OPORTUNIDADES DA INTELIGÊNCIA ARTIFICIAL PARA MOÇAMBIQUE	2816
 OPÉRATIONS AUTORISÉES Article	10836
 OPÉRATIONS INTERDITES Article	10836
 ORIENTADORES Artigo	15
+OSK Minister of Local Government Minister of Arts	14753,88
 OTC. Artigo	11901
 OVERVIEW OF THE BILL Scope of Artificial	11247
 Objectives and Application Article	11956
@@ -2158,6 +2200,7 @@ PESSOAIS Artigo	14
 PESSOAIS CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	14
 PHYSIQUES Article	10813
 POLITICAL MATTERS ARTICLE	14409
+POLITICAL RIGHTS Article	14742
 POR ENTIDADES PRIVADAS Artigo	11901
 POSIÇÃO SIGNIFICATIVA NO MERCADO ARTIGO	11519
 POTENCIAL DA INTELIGÊNCIA ARTIFICIAL NOS PAÍSES	2816
@@ -2203,6 +2246,7 @@ Peer Reviewed Journal Articles	12926
 Percolation Leaching for Artisanal Gold Recovery	1554
 Performance Management Data Submission Article	12616
 Performance Measurement and Compliance Article	12616
+Performing Arts	14742
 Permanent Artificial Limb	12979
 Personal Purposes Article	11956
 Pesca Artesanal	4209
@@ -2263,6 +2307,7 @@ Processos Administrativos. ARTIGO	12774
 Professor Arthur Peter Mutharika	13122
 Profissionais de Comunicação Social Artigo	12311
 Programa de Investimento Público. Artigo	10783
+Programme Ministry of Arts and Culture	14830
 Project Implementing Effectiveness Article V	10768
 Projecto WARDIP Guiné-Bissau Estado. O Artigo	11542
 Projectos. Artigo	10783
@@ -2270,6 +2315,7 @@ Promise of AI for Zambia Artificial Intelligence	12356
 Promise of Artificial Intelligence	9025,533,1577,175
 Promotion des Article	13293
 Promotion des Investissements. Article	13293
+Promotion of Arts and Culture	14742
 Proposed Article	9992
 Proposta da Estratégia Nacional de Inteligência Artificial	12830,16
 Proposta da Lei de Inteligência Artificial	2816
@@ -2323,6 +2369,7 @@ RGÃOS Artigo	11516
 RGÃOS DE GESTÃO Artigo	167
 RGÃOS DELEGADOS DO INE Artigo	11516
 RIGHT OF ESTABLISHMENT AND RESIDENCE ARTICLE	14409
+RIGHTS IN RELATION TO THE ARTICLES	14742
 RQJD'XUDomR ARTIGO	11530
 RQVWLWXLomR RVHJXLQWH ARTIGO	11530
 RSU. ARTICLE	13715
@@ -2470,6 +2517,7 @@ SMEs. Articles	9129
 SOBRE A INTELIGÊNCIA ARTIFICIAL PROPONENTE	3519
 SOBRE INTELIGÊNCIA ARTIFICIAL	3519
 SOCIAL AND CULTURAL ACTIVITIES ARTICLE	14409
+SOCIAL AND CULTURAL RIGHTS Article	14742
 SOCIALES Article	14490
 SPIM. Artigo	5169
 SSN. Article	13334
@@ -2491,6 +2539,7 @@ SYSTEMES INFORMATIQUES. Article	13719
 SYSTÈMES D'’E-FACTURATION TIERS HOMOLOGUÉS Article	14483
 SYSTÈMES D’E-FACTURATION TIERS HOMOLOGUÉS Article	14483
 Saddick Arthur	14698
+Safeguarding Artists' Rights	14828,3
 Sala de Inteligência Artificial	8807
 Sanctions ARTICLE	14409
 Sandbox Regulatório de Inteligência Artificial	12830,16
@@ -2580,6 +2629,7 @@ State of Artificial Intelligence	2816
 State. ARTICLE	12771
 State. Article	11517
 States. Article	13948
+Statistics Health and Welfare Arts and Humanitie	14775
 Statistique. Article	13707
 Strengthening the Private Sector ARTICLE	14409
 Structure and History The Centre for Artificial Intelligence	11336
@@ -2734,19 +2784,21 @@ UTILIZADORES ARTIGO	11461
 Uganda Finance E ENS ArticleSettlement	6998
 Uganda’s Artificial Intelligence	6132
 Uma Estratégia Nacional de Inteligência Artificial	2816
-Under Article	1742,3502,4670,2021,2611
+Under Article	1742,3502,4670,2021,2611,196
 Under Article IV	13868
-Under Articles	4763
+Under Articles	4763,10014
 Understanding the Impact of Artificial Intelligence	6948
 Union des Comores. ARTICLE	13723
 Union des Comores. Article	13719,62
 Union. Article	10836
+Unit. Article	14742
 United States Artificial Intelligence Institute	7564
 University ARTIFEX University of Romania Fotabe U	12467
 University and ART Partnership	4991
 Unknown Title Unknown Artist	6192
 Unless Article	27
 Unlike Article	9991
+Use of Artificial Intelligence	14804,8
 Use of Artificial Intelligence Technologies	2958
 Use of Measurement Parameters Article	12616
 Users of Artificial Intelligence Systems	2958

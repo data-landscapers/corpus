@@ -1,4 +1,5 @@
 A. Biramaze	13300
+A. Births	14714,1
 ABBREVIATIONS BRR Birth	10714
 ACRONYMS CBR Crude Birth Rate	12367
 AEH LA BANOUE MONDIALE BIRD.l0A	14479
@@ -96,13 +97,14 @@ Birr. Beyond	8646
 Birr. Cross-border	12272
 Birr1651.9	5655
 BirrMetrics	10496
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545,59,1
 Birth As-	12151
 Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
 Birth Attestation	10765,10
-Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973
+Birth Certificate	6392,3642,231,500,10,37,1404,1,1,73,46,973,1452
 Birth Certificate Access Changes Lives	12227
+Birth Certificate No	14713
 Birth Certificate Number	13477
 Birth Certificate Online	6783
 Birth Certificates	445,3812,6518,1516,37,9,159,603
@@ -167,7 +169,7 @@ Birth-to-ID Continuity	14655
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482,294
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -202,6 +204,8 @@ Births and Deaths Registration System. The Labour	5250
 Births and Deaths Registry	3287,5082,1166,1287
 Birthwell Mbirintengerenji	12952
 Birutsya Charles and Birungyi Ruth	7772
+Blanche Birger Co Ltd	14783
+Blanche Birger Co. Ltd	14802
 Board Chairman Joseph N. Biribonwa	9696
 Body Exploring the Interface Between Birth Registration	13148
 Body REPUBLIC OF ZAMBIA THE BIRTHS	13285
@@ -231,6 +235,7 @@ DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 Daily Nation. Birth	12138
 Damaged Birth Certificate Note	12216
 Date of Birth	2291,1271,7714,585,420,129,621,6,270
+Date of Birth DD MM YYYY Gender	14740
 David Birch	11705
 Dawit Birhan	1824
 Dawit Birhanu	12272
@@ -318,6 +323,7 @@ Male Country Of Birth Male Female	12151
 Million Birr	7538
 Millions Birr	5655
 Mobile Birth Registration	10822
+Mobile Driving Licence and Birth Certificate	14752
 Mohammed Birouaine	8891
 Mr. David Birech	14505
 Multi-Billion Birr Accounting Failure	7909
@@ -346,11 +352,12 @@ National IDs and Birth Certificates	13080
 National Strategy for Birth Registration	10765,10
 Non-Citizen Birth Certificates	12496
 Notices of Birth	11986
-Notification of Birth	12226
+Notification of Birth	12226,2488,1
 Number of Births	12533
 Number of Births Number	12151
 Office EBRS Electronic Birth Registration System	13005
 On-site Registration of Births and Deaths	12533
+Online Birth Certificate and Marriage Certificate. Public	14750
 Online Birth Registration	3200
 Online Birth Registration System	3200,8786
 Original Birth Certificate	11282,1055
@@ -365,6 +372,7 @@ Population.2. Births	14410
 Pregnancy Birth Pregnancy	12151
 Print Email Birth	12496
 RECORDS AND RETURNS OF BIRTHS	12898
+REGISTRATION OF BIRTH	14714,1
 REGISTRATION OF BIRTHS AND ADOPTED CHILDREN	12898
 REGISTRATION OF LIVE BIRTH PROCEDURE	12338
 Random House. Birhane	11050
@@ -425,13 +433,14 @@ Type Billion Birr	5655
 Téné Birahima Ouattara	2418,8524,1,3377
 UNICEF and Ghana’s Births and Deaths Registry	10822
 Universal Birth Registration	11977
-University of Birmingham	9145
+University of Birmingham	9145,5591
 Upgrade of Birembo	12358
 Wild Animals and Birds Protection Act	7760
 Workflow of RCI Birth Registration Process	10765,10
 Yacouba Mai Birni	4997
 Year Births Deaths Marriages	12413
 Year Registration of Births and Deaths Act	10822
+Year of Registration of Birth	14713
 Year the Births and Deaths Registration Law	10822
 Yury Birukov	12504
 Zambia Legal Analysis Birth	12406

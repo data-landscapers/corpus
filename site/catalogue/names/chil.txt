@@ -124,8 +124,11 @@ Chilala	13477
 Chilamo Sinkala Social Safeguards Consultant	13392
 Chilanga	5522,8101
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346,190,158,105,16,1,1,1,16,2,70,176,1,9,25,26,3,36,74,10,3,1,11,1,14,6,10,19,3,54,27,2,8,159,17,57,199,11,38,28,35,57,51,147,51,128,34,68,105,281,49,20,118,1,592,99
 Child Act	3583
+Child Allowance	14742,93
+Child Allowance of Rs	14742
+Child CRC-OP-AC	14742
 Child CRCivil	13681
 Child Care	9429,2824,1106,203
 Child Care Act	11176
@@ -133,9 +136,12 @@ Child Care Midlands State University National	1554
 Child Care and Protection	1188
 Child Care and Protection Act	12327,132,500,138
 Child Care and Protection Act. Clause	12959
+Child Day Care Centre	14738
 Child Deaths	12367
 Child Development	12977
 Child Development A. Eswatini National Child	12977
+Child Development Unit	14742,105
+Child Development Unit CEDAW	14742
 Child Disability Grant	12373
 Child Grant Program	10768,2564
 Child Grants	12669
@@ -167,10 +173,11 @@ Child Mortality Rate	12367,16,30
 Child NDP6	13033
 Child Nutritional	14067
 Child Online Access Protection Bill	4583
-Child Online Protection	4544,2402,1104,3906,377,593,420
+Child Online Protection	4544,2402,1104,3906,377,593,420,1406
 Child Online Protection Act	11611
 Child Online Protection Department	4583
 Child Online Protection Digitalization Policy and ICT	12214
+Child Online Protection Government	14752
 Child Online Protection Guidelines	12982
 Child Online Protection Protecting	4583
 Child Online Protection Strategy. Vincent Kumwenda	12172
@@ -185,6 +192,8 @@ Child Participation Technical Working Group	12977
 Child Pornography	26
 Child Poverty Analysis	12962
 Child Prostitution and Child Pornography	13962
+Child Prostitution and Child Pornography CRPD	14742
+Child Prostitution and Trafficking. The DIC	14742
 Child Protection	2775,10202,497
 Child Protection A. Development of National Minimum	12977
 Child Protection Cases Reported	2775
@@ -203,6 +212,9 @@ Child Registration MEL Monitoring	13005
 Child Rights Crisis	3583
 Child Safety Pledge. Yet	11071
 Child Safety and Digital Platforms	6946
+Child Sex Offender	14742
+Child Sex Offender CSP	14742
+Child Sex Offender Register Act	14742,9
 Child Sexual Abuse	11648
 Child Sexual Abuse Material Production	12459
 Child Sexual Exploitation	1597
@@ -262,9 +274,10 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17,143,88,110,97,50,72,161,13,24,13,14,51,74,1,45,5,5,19,3,26,9,56,122,50,223,68,4,1,13,85,33,2,111,79,133,5,45,211,178,89,43,8,32,14,22,675,4
 Children Act	8948,5487,58
 Children Age	12151
+Children Child Prostitution and Child Pornography	14742
 Children Coordination	12977
 Children Coordination A. Technical Working Group	12977
 Children Coordination Officer	12972,5
@@ -292,7 +305,7 @@ Children and Youth	12188
 Children of Africans Act	13285
 Children of God Relief Institute Data Processor	7167
 Children of South African	11977
-Children's Act	8864,930,1383,800,662,647
+Children's Act	8864,930,1383,800,662,647,1456
 Children's Act. The Births and Deaths Registration	12597
 Children's Act. Zanzibar	11133
 Children's Act. Zanzibar. Available	11133
@@ -321,8 +334,10 @@ Children. Improvement	11224
 Children. MoCDGEC	11133
 ChildrenFirst	13204
 Childrens	12977
-Children’s Act	11133,1416,766
+Children’s Act	11133,1416,766,1427,1
 Children’s Cancer Helpline	11350
+Children’s Court	14742
+Children’s Court Act	14742
 Children’s Department	12977
 Children’s Fund UNU-WIDER United Nations University	10759,78,1503
 Children’s Fund URP Regional Office	11525
@@ -333,7 +348,7 @@ Children’s Literacy Whilst	1363
 Children’s Rights	12977
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
-Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71,61,145,13,1,128,2,19,455,285,70,900,448,2
+Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71,61,145,13,1,128,2,19,455,285,70,900,448,2,1412
 Chile BUSTOS	6613
 Chile Frente	11563
 Chile Global Cybersecurity Index	10764
@@ -389,6 +404,8 @@ Christ Church Santiago de Chile Calle	11563
 Collecting Children	12977
 Combat Online Child Exploitation	13754
 Combat Online Child Exploitation Otse	13754
+Combatting Child Labour	14742
+Commercial Sexual Exploitation of Children	14742
 Community Child Justice Committees	12977
 Community Child Protection Committees	12977
 Community-Based Childcare Centres COVID-19	12175
@@ -437,8 +454,8 @@ Early Childhood Art	11879
 Early Childhood Care	12914
 Early Childhood Care and Development	13123
 Early Childhood Care and Education	7845,5077,53,1015
-Early Childhood Care and Education Authority	7845
-Early Childhood Care and Education Authority Act	7845
+Early Childhood Care and Education Authority	7845,7002
+Early Childhood Care and Education Authority Act	7845,6983,3
 Early Childhood Development	3604,7588,53,930,183,25,28,552,167,157,23,680,102
 Early Childhood Development Centres	11224,753
 Early Childhood Development ECE	12175
@@ -463,6 +480,7 @@ Elderly and Children NIDA National Identification Authority	11133
 Elderly and Children. Digital Health Strategy	1261
 Elderly and Children. Health Sector Strategic Plan	1261
 Elderly and Children. National Guidelines for Health Data	1261
+Empowerment and Child Protection	14829
 Ending Violence Against Children	10776
 Enhance Children’s Online Safety	11642
 Ensure Women and Children's Rights	14011
@@ -526,6 +544,7 @@ International Children’s Emergency Fund	10777
 Interpol International Child Sexual Exploitation Database	12628
 Introducing the Children's Climate Risk Index	3583
 Introduction The Centre for Child Law	11977
+Involvement of Children	14742
 IremboGov. PROCEDURE FOR REGISTERING CHILD ADOPTION	12338
 Islands Central African Republic Chad Chile	11470
 Josué Chilundolo	10763
@@ -556,7 +575,11 @@ Margarida Vicente Peleve Chilaúle	14342
 Maternal Child Health Commodities Warehousing	4202
 Maternal Child and Community Health MCCOD	12338
 Maternal and Child Health	4260,7276,710
+Maternal and Child Health Activities	14773
 Maternal and Child Health Maternal and Child Health	4217
+Maternal and Child Health Programme	14773
+Mauritius. The Children’s Act	14742
+Mauritius. The Ombudsperson for Children	14742
 Mbwezera Chilengedwe	12181
 Measles Cases Maternal Mortality Rate Children	5352
 Member for Chilubi	13387
@@ -587,6 +610,7 @@ Mr. Chileshe	13663
 Mr. Kangwa Chileshe	13663
 Multidimensional Child Poverty Analysis	12962
 NATIONAL CHILDREN SERVICES DEPARTMENT	12977
+NEONATAL AND CHILD HEALTH SERVICES	14773
 NUTRITION OF CHILDREN AND WOMEN	13454
 Namibia’s Ministry of Gender Equality and Child Welfare	8006
 National Action Plan for Children	3583
@@ -600,6 +624,7 @@ National Child Protection	12977
 National Children Services Department	12977
 National Children’s Commission	13122
 National Children’s Coordination Unit	11134
+National Children’s Council	14742,32
 National Children’s Policy	13123
 National Director of SOS Children’s Villages Eswatini	11134
 National Early Childhood Development	12964
@@ -634,9 +659,13 @@ OMCV Orphans and Vulnerable Children OVC Project	11855
 ORS and Zinc Children	10829
 OVC Orphans and Vulnerable Children PFMS Public	13295
 Office and SOS Children Villages. Bulembu Ministries	12977
+Office of Ombudsperson for Children	14830
 Oladiran Stephen Olabiyi and Caleb Childozie Chinedu	6948
 Olorropil Child Development Center Data Controller	7167
-Ombudsperson for Children	11648
+Ombudsperson for Children	11648,3094
+Ombudsperson for Children's Office	14847
+Ombudsperson for Children’s Act	14742
+Ombudsperson for Children’s Office	14742
 One-Time Password OVC Orphans and Vulnerable Children	12663
 Online Child Exploitation	12984
 Online Child Protection Policy	11791
@@ -692,6 +721,7 @@ Reproductive Maternal Newborn Child Health	4349
 Reproductive Maternal Newborn Child and Adolescent Health	12606
 Reproductive and Child Health	10878
 Republic of Liberia Child	1777
+Residential Care Institutions for Children Regulations	14774
 Residential Child Care	12373
 Residential Child Care Facilities	12977
 Residential Child Care Facility	12977
@@ -708,10 +738,12 @@ SOS Children's Villages International	12328
 STOP CENTRE AT CHILEKA HEALTH	13040
 Safeguard Children	4583
 Safeguarding Digital Public Infrastructure for Children	11007
-Sale of Children	13962
+Sale and Sexual Exploitation of Children	14742
+Sale of Children	13962,780
 Santiago de Chile Chile Honduras Unión Internacional	10764
 Save the Children	11611,307,257
 Saving Mothers and Children Maternal	14120
+Scheme. Subsistence Allowance Scheme Child Allowance	14835
 School Drive REGION NUMBER OF CHILDREN	12977
 School-going Children	899
 Scientific and Cultural Organization United Nations Children	11156
@@ -780,6 +812,7 @@ United Nations International Children's Emergency Fund	12947,28,1467
 United Nations International Children’s Emergency Fund	1824,8952
 United Nations International Children’s Fund	1261
 VAC Violence Against Children VAT	2775
+VH Victoria Hospital MCH Maternal and Child	14773
 VIOLENCE AGAINST CHILDREN	12253
 VMGs Child	14516
 Vaccination of Children	13454
@@ -793,8 +826,10 @@ Vulnerable Children	12373
 Vulnerable Children PHU Public Health Unit	12970
 WELFARE OF THE CHILD URL	14150
 Wilde. Children	12959
+Women and Children	14742
 World Bank’s Reproductive Maternal and Child Health	10822
 World's Children	10812
+Worst Forms of Child Labour	14742
 Worst Forms of Child Labour Convention	14011
 Young Children	9485,2690
 Youth and Children	13938

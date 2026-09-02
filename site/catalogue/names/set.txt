@@ -1,3 +1,7 @@
+A1.2 Set	14729
+A1.4 Set	14729
+A1.5 Set	14729
+A5. Set-up	14729
 AIO e Web-1.pdf. Bank for International Settlements	6938
 APPLICABILITY OF DISPUTE SETTLEMENT MECHANISM	1243
 ARTICLE X DISPUTE SETTLEMENT	13031
@@ -23,12 +27,13 @@ Authorised Settlement Agent	12364
 Authority. MICT SETA	6832
 Authorized Settlement Agent Facility	12364
 Automated Transfer and Settlement System	10845
+B. Setting	14715
 BOZ. Settlement System	12364
 Badejo-Okusanya Set	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Bandim. RS Região Sanitária. SAB Setor	11543
 Bank Settlement System	12000
 Bank for International Settlement Capital Adequacy Ratio	11134
-Bank for International Settlements	6938,2393,180,198,1421,8,2,793,431,2015
+Bank for International Settlements	6938,2393,180,198,1421,8,2,793,431,2015,365
 Bank for International Settlements Committee	11130
 Bank of International Settlements	12286
 Baseline Customization of Default Settings Interactions Size	13868
@@ -58,7 +63,8 @@ Channels Thuso Setsetse	9466
 Character Set	12360
 Check Settlement	6938
 Christopher Seta and Bryan Zhang. Published	12033
-Clearing and Settlement	14032
+Clearing and Settlement	14032,696,2
+Clearing and Settlement Facility	14809
 Clearing and Settlement Services	4896
 Clearing and Settlement Systems	12374,297
 Climate and Rural Settlements Page	940
@@ -74,6 +80,7 @@ Cookie SettingsREJECT ALLACCEPT ALLManage	6181
 Councils and Settlement Councils	12771
 Covid-19 SETIC	9799
 C’ River Set	8520
+D4. Set	14729
 DE SETEMBRO	11520,1272
 DG Set	12253
 DG Sets	12253
@@ -98,6 +105,7 @@ Dispute Settlement	1243,11788
 Dispute Settlement Chapter	1243
 Dispute Settlement Mechanism	1243
 Données Techniques SETIC	13290
+E4. Set	14729
 ECOWAS Payment System and Settlement	6938
 ECOWAS Payment and Settlement System	6938,1128
 EMIS SURVEYS AND DATA SETS	11180
@@ -107,6 +115,7 @@ East Africa. Submarine Cable Project Set	6554
 East African Community Payments and Settlement Systems	13452
 East African Payment and Settlement	13388
 East African Payments and Settlement System	13388
+Economic Space Setting	14829
 Effectiveness SETIC-PIU SETIC-PIU	13331
 Electronic Payment and Settlement System	12286
 Em Setembro	2729
@@ -115,6 +124,7 @@ Establish Monitoring Set	1777
 Eswatini’s Real-Time Gross Settlement System	12922
 Executive Secretary of SETIC and Coordinator	6044
 Explanatory Note Setting	11265
+F1. Set	14729
 FG Set	9362
 FONCTION IRAKOZE Bienvenu Secrétaire Exécutif du SETIC	13341
 FTTP SETIC Short High	13314
@@ -152,6 +162,7 @@ Human Settlements Entities	11285
 Human Settlements Programme UNHCR United Nations	10759,78,1052,451
 Human Settlements and Land Use Reaseach and Policy	4482
 Human Settlements and Land Use Research and Policy	1514
+ICT Infrastructure and Broadcasting A1.1 Set	14729
 ICT and SETIC	13314
 INFORMAL SETTLEMENT BASELINE AS CONTAINED	13118
 INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
@@ -199,6 +210,7 @@ Le Secrétaire Exécutif du SETIC	13290,51
 Liberia Interbank Payment and Settlement Systems	11710
 Liberian National Police. Set	1777
 Libya. Set	6697
+Local Authorities Rejected In Progress Set	14746
 Local Currency Settlement System	8081
 Low-Resource African Settings	9456
 Lôvua Refugee Settlement	10776
@@ -226,6 +238,7 @@ Malawi Interbank Transfer and Settlement System	2299,3532
 Malawi Sets	2922
 Malawi's Foundational Legal Identity System Sets	12144
 Management System and Settlement Distribution Smart Vehicle	4126
+Map Informal Settlements	14769
 Mauritius Automated Clearing and Settlement System	6938
 Medical Language Models for Resource-Constrained Settings	13158
 Meheba Refuge Settlement Kalumbila District	1988
@@ -287,6 +300,8 @@ Number of Set Top Boxes	12395
 O Plano Setorial da Educação	11557
 O Setor Empresarial	1265
 OPEX Driving Set	11857
+Official Clearing and Settlement Facility	14730
+Official and Settlement Facility	14730
 Operational SETIC	1284
 Orderly Settlement	13474
 Outer Setting	12025,221
@@ -417,6 +432,7 @@ SETIC. Plusieurs	13341
 SETIC’s FM	1284,12047
 SETOR POR OPERADOR	11531
 SETTING OF STANDARDS	11184
+SETTLEMENT ACCOUNTS	14728,2
 SETTLEMENT FRAMEWORK FOR ELECTRONIC FUNDS	12579
 SETTLEMENT OF DISPUTES ARTICLE	12527
 SETTLES	11572
@@ -444,7 +460,7 @@ Set Up	1204
 Set for November Launch	2510
 Set of Documents	12389
 Set of Principles for Conducting and Evaluating Interpretive	5349
-Set-up	1000,11364
+Set-up	1000,11364,2454
 Set-up Institutional Governance Framework for Cybersecurity	1000
 Set-up Provincial	12453
 Set. Artículo	163
@@ -483,7 +499,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85
 Settat	3375
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667,55,19,4,21,8,43,6,6
 Setting Zone Setting Gender Mt Kenya	7869
 Setting the Context	13005
 Setting the Context NRB	13005
@@ -495,12 +511,13 @@ Settings Sitemap	12339
 Settle	9328
 Settled	3676,1220,722
 Settled Object	8380
-Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914
+Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914,129,2,104
 Settlement Account	12364,2182
 Settlement Accounts	12364
 Settlement Agent	12364
 Settlement Agreement	3962,8580
 Settlement Clinic	10776
+Settlement Co. Ltd	14728
 Settlement Combined Assurance Forum Central Bank	11131
 Settlement Community	1988
 Settlement Cycle	12579
@@ -529,7 +546,7 @@ Settles the D1.1	1200
 Settling	10293,3239
 Settor Safo	6351
 Setty Olugo and Ruth Chebet	8285
-Setup	958,927,9978,1019,123,1646
+Setup	958,927,9978,1019,123,1646,101
 Setup Scenarios	5665
 Setup Time	12745
 Setup and Installation Guide	5665
@@ -564,6 +581,7 @@ Time Gross Settlement	12000,671
 Time Gross Settlement EIPA Corporation RWA	12444
 Togo Sets New Priorities	8610,233
 Tongogara Refugee Settlement	9794,3748
+UK Setting	14723
 UN-Habitat United Nations Human Settlements Programme	11887,266,1,9,178
 US-based Global Settlement Network	3727
 Unique Nuances of Settling	5863
@@ -573,6 +591,7 @@ Unprioritized Settlement of Payments	14546
 Updated Set of Principles	3583
 Updated Shared Value Sets	1009
 Upgrading Informal Settlements	11285
+Urban Settings	14769
 Use the Authorised Settlement Agent	12364
 WAEMU Automated Transfer and Settlement System	10853
 Washington Group Short Set	10768,2248,29

@@ -15,6 +15,7 @@ Agriculture Manufacturing	10976,1370
 Agriculture Manufacturing Transport Trade Government	10856
 Agriculture and Manufacturing	11296
 Angola and Brazil. Manufactured	144
+Any Manufacturer’s Authorizations and Subcontractor	14766
 Arnaldo Manuel Carlos. Na	11392
 Association of Manufacturers	12376
 Association. The Project Implementation Manual	1867
@@ -41,8 +42,10 @@ CHIS Implementation Manual	12255
 CNSA. Ganief Manuel	8161
 COMMISSION FONCIERE NATIONALE MANUEL TECHNIQUE	13375
 CONCEIÇÃO MANUEL ANTÓNIO ISABEL SEBASTIÃO Direcção	10750
+CPI Manual	14777
 CPT1 Manufacturer	11471
 CRS End User Manual	13333
+Capital Project Process Manual	14830
 Carlos Manuel Rodríguez	13752
 Carvalho Dionísio Manuel Título Resultados Definitivos	11421
 Cash Tranfer Manual	11525
@@ -124,7 +127,7 @@ GRM GRM Manual Committees and GRM Institutional	12253
 GRM Manual	12253
 GRM Manual Frequency Every	11905
 General Manuel H	9399
-Good Manufacturing Practices	10776
+Good Manufacturing Practices	10776,4042
 Goods Manufactured	13185
 Goods Manufactured Outside the Purchaser's Country	13185
 Google and Intel Enable Real-time Manufacturing Operations	4434
@@ -133,15 +136,17 @@ Government Corporate Identity Manual	12971,11
 Government Digital Service. Service Manual	11216
 Government Digital Service. Service Manual. Available	11216
 Government Finance Manual	1828
-Government Finance Statistics Manual	13868
+Government Finance Statistics Manual	13868,909
 Governor Manuel Tiago Dias	8020
 Grants Manual	1867,9988
 H.E. Maria Manuela	8754
+HACCP Manual	14818
 Hardware Localization and Manufacturing Zimbabwe	4528,7984
 Health Assistance Operational Manuals	13420
 Health and Safety Manual and Policy. All	12253
 Honourable Commissioner Maria Teresa Manuela	8485
 Human Resource Policies and Procedures Manual for Public	14546
+Human Rights Training Manuals	14742
 I I Manufacturer Make Model Serial	736
 ICT Manufacturing	236
 ICT Original Equipment Manufacturers	11220
@@ -158,6 +163,7 @@ Implementation Manual	11905
 Implementation Manual PIU Project Implementation Unit	1264
 Industrial Manufacturing	9815
 Inhambane and Zambezia. The CERC Manual and Emergency	1228
+Integrated Manufacturing Systems	14736
 Interior Minister Manuel Homem	9399
 International Investment Position Manual	2775
 JOÃO MANUEL	3607
@@ -191,6 +197,7 @@ Laboratory Scale Manufacture of Lithium Cathode Materials	1154
 Le Manuel des Procédures Administratives Financières	10975
 Letter Post Manual	11129
 Livestock Manure	12233
+Local Manufacturers and MSB Standards Committee	14736
 Louis Manu	10481
 Lourenço Eugénia Ulo Manuel Artur Eliana	11421
 Luanda LUZIA MANUEL DE OLIVEIRA	10751
@@ -212,6 +219,7 @@ MANUELS ELEVES VII.4.1 Public Lecture Calcul	10847
 MANUELS ELEVES VII.4.2 Privé Lecture Calcul	10847
 MANUELS ELEVES VII.4.3 Public	10847
 MANUFACTURER	11269
+MANUFACTURER OF REGULATED MACHINERY	14814
 MEF Ministry of Economy and Finance MOP Manual	11525
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 Male Female Total Manufacturing	236
@@ -221,7 +229,7 @@ Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,13,35,37,27,87,45,59,95,95,592,295,88,717,290,311,39,58
 Manual Checks	9123
 Manual Load Reduction	11953
 Manual POM Procurement Plan PP Purchasing	11855
@@ -293,6 +301,7 @@ Manuela Francisco and Sandeep Mahajan	13868
 Manuellrénio Nascimento Lopes	11544
 Manuels	14537
 Manufac- Electricity Construc- Wholesale Accom- Transpor-	2775
+Manufact	14775
 Manufactur- Electricity Construc- Wholesale	2775
 Manufacture	236,2539,8377
 Manufacture of Non-alcoholic	11152
@@ -311,10 +320,12 @@ Manufacturer. The Bidder	13185
 Manufacturers	236,1752,1663,4225,413,487,1713,1368,519,944,1354
 Manufacturers Association of Nigeria	11866
 Manufacturers of AI	3651
+Manufacturer’s Authorizations	14766
 Manufacturer’s Suggested Resale Prices	11036
 Manufactures	13263
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9,153,364,91,7,62,1,62,110,19,6,65,89,174,465,606,92,4,14,7,4
 Manufacturing Accommodation	5247
+Manufacturing Construction Wholesale	14832
 Manufacturing Cyber Security	3760,9683
 Manufacturing D3uring	11152
 Manufacturing Data	3861
@@ -332,6 +343,8 @@ Manufacturing Projects Approved	2775
 Manufacturing Projects1 Regis-	2775
 Manufacturing Sector	2775
 Manufacturing Sector Review Overview	2775
+Manufacturing Sector Workers Welfare Fund	14847
+Manufacturing Strategy	14736
 Manufacturing Value Added	9761,1219
 Manufacturing Water	12445
 Manufacturing World Osaka	3760,9683
@@ -364,6 +377,7 @@ Mining and Quarrying and Manufacturing	12445
 Minister Manuel Gomes da Conc	9399
 Ministry of Health Data Governance Manual	3861
 Modernizing Mining and Manufacturing	11221
+Monetary and Financial Statistics Manual	14777
 Mr. Pedro Manuel Moreno	13042
 Municipal Grants Manual	11855
 NDGC Standard Operating Procedures Manual	3861
@@ -398,6 +412,7 @@ PBF Procedural Manual for Health. IBRD	11560
 PIM Project Implementation Manual PIU Project	11924
 PIM Project Implementation Manual PMU Project	1988
 POPIA Manual	11251
+PPI Manual	14777
 PROGRAMME TERRA BENIN MANUEL D’OPERATIONS	10876
 Par Manuel Open Data	747
 Participant User Manual	12364
@@ -405,6 +420,7 @@ Paulo Manuel de Assunção Pedro	430
 PforR Program-for-Results PIM Project Implementation Manual	3604
 Portfolio Exposure Outstanding IFZ MAS Manufacturing	11469
 Portuguese O Manual Operacional	12797
+Position Manual	14777
 Practices Manual	11525
 Preenchimento Manual Consulta Conta Corrente DCI	12018
 Preparation of Application Manuals	11941
@@ -454,6 +470,8 @@ Réf. Manuel	748
 SADC Corporate and Identity Manual. Project	962
 SIRC MANUAL REGISTRATION PROCESS Mobile	10765
 SME. Manuel Homem	5392
+SOOKARMANIEN Manusha Ag. NCD Coordinator Ministry	14770
+SOP Manual	14835
 Segundo Dionísio Manuel da Fonseca	5305
 Segundo José Manuel Costa Alegre	5818
 Segundo Manuel Guilherme Júnior	8827
@@ -506,6 +524,7 @@ VII.4 Manuels	10847
 VUP Operations Manual	12440
 Vibrant Digital Manufacturing	12512
 Village Manufacturing Value Added AfCFTA African	10980
+WEB APPLICATION USER MANUAL SHALL	14816
 Waste Best Practice Manual	2989
 Waste Best Practice Procedure Manual Sign	2989
 Whereas the Manufacture	2775

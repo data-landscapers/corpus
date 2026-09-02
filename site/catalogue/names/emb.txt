@@ -10,7 +10,7 @@ Administrativo Embajada A3 Intérprete Traductor Consulado	4209
 Administrativos da Embaixada de Espanha	11531
 African Union and Germany Embassy	7362
 Arms Embargo and Act	7845
-Arms Embargo and Travel Ban	7845
+Arms Embargo and Travel Ban	7845,6964,19,3
 Ayudante Grupo E Comandante Embarcación Corresponsal	4209
 B2 Embajador A3 Ministro Consejero A1	4209
 Belgium Embassy	13358
@@ -22,6 +22,7 @@ CONCLUSÃO Embora	2816
 COUNTY MEDICAL CENTRE EMBU LIMITED Data	7167
 CSO Civil Society Organisations EMB Electoral	12201
 CYBER TIPS Embace Cloud Technology Use	13502
+Camp des Embrevades	14746
 Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
 Centro. Embora	11569
@@ -121,7 +122,7 @@ Embargoed	11192,66,38,681
 Embark	13295
 Embarking	7835,295
 Embarks	12639
-Embassies	13122,551
+Embassies	13122,551,1102,54
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
 Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327
@@ -145,12 +146,12 @@ Embassy of Sierra Leone	3950
 Embassy of Sweden	377,2870,8945,309
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637,73,71
 Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed Ubuntu	4528
 Embed Video	6387
-Embedded	2477,2371,3191,565,2580,769,261,230,2011
+Embedded	2477,2371,3191,565,2580,769,261,230,2011,364
 Embedded Autonomy	5700
 Embedded Chip Tech	13005
 Embedded Content Matters Consider	6542
@@ -165,7 +166,7 @@ Embeddedness	226
 Embeddedness Building	10865
 Embeddedness of Digital Labour	226
 Embeddedness of Digital Start-Ups	226
-Embedding	1777,5811,433,2985,269,1022,146,614,1544
+Embedding	1777,5811,433,2985,269,1022,146,614,1544,172
 Embedding AI	6793,6856
 Embedding Artificial Intelligence	14566
 Embedding Open Data Practice	1243
@@ -177,6 +178,7 @@ Embiveni Biggest Braai	4866
 Embodied	5487
 Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7
 Embosi Primary	12977
+Emboss	14741
 Emboîtant	1748
 Embrace	5244,7733
 Embrace Distributed Renewable Energy and Clean Cooking	12717
@@ -184,7 +186,7 @@ Embrace Gender Diversity	2668
 Embrace Good Governance	11131
 Embrace Innovation and Modern Technology Parliament	6077
 Embrace LC I Elections Campaigning LC	4175
-Embracing	1777,4805,696,3959,703,1065,341
+Embracing	1777,4805,696,3959,703,1065,341,1398
 Embracing AI	6948,4317
 Embracing AI Opportunity	6849
 Embracing Applications of AI	12675
@@ -210,6 +212,7 @@ Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Embassies and High Commissions	11956
 France Embassy	12972
 French Embassy	5556,6167,174,1078
+Future of Embedded Finance	14819
 German Embassy	3697,3028,2903,79,404,2,3465
 German Embassy Chargé	13426
 German Embassy Nairobi	4890

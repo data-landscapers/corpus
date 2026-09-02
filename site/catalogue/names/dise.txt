@@ -23,6 +23,7 @@ CDC Center for Disease Control and Prevetion CPU	34
 CDC United States Centers for Disease Control	13300
 CENTRE FOR HEART DISEASES AND DIABETES	7167
 CENTRE FOR RHEUMATIC DISEASES Data Controller	7167
+COMMUNICABLE DISEASES CONTROL UNIT	14773
 COVID-19 Corona Virus Diseases	13359
 COVID-19 Coronavirus Disease	10829,442,109,2040
 CPSD Coronavirus Disease	13331
@@ -46,8 +47,8 @@ Chronic Disease Determinants Programme	10188
 Chronic Diseases and Translational Medicine	9456
 Classification of Disease	12413
 Classification of Diseases	1009
-Communicable Diseases	10780,2383
-Communicable and Non-Communicable Diseases	12729,247
+Communicable Diseases	10780,2383,1551,1
+Communicable and Non-Communicable Diseases	12729,247,1859
 Control of Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Control of Non-Communicable Diseases	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Corona Virus Disease	12175
@@ -57,7 +58,7 @@ Department of Disease Control	10188
 Developing A Lesotho-Specific Disease Detection Model	12707
 Diarrhoeal Disease	13454
 Directorate of Disease Surveillance	11912
-Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889
+Disease	1988,1873,399,414,2272,2772,1062,416,309,407,1019,16,889,993
 Disease Control CDO Chief Digital Office	12241
 Disease Death Death Prematuri- Prematurity	12151
 Disease Death Death Prematurity Prematurity	12151
@@ -120,6 +121,7 @@ Implementing Real-time Disease Surveillance	11912
 Infection Disease Specialists	14094
 Infections Heart Diseases	12151
 Infections Infections Diseases	12151
+Infectious Disease	14773
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Infectious Disease Preparedness ID Identification	14434
 Infectious Disease Research	13430
@@ -141,13 +143,17 @@ KwaZulu-Natal's Disease Management Area	2626
 LEPROSY AND LUNG DISEASES	14546
 Liver Diseases	12151
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
+MANAGEMENT OF VECTOR BORNE DISEASES	14773
+Management and Control of Communicable Diseases	14773
 Mapping Rare Diseases	10188
+Marburg Virus Disease	14774
 Marzia Chiesi Foundation Dept of Infectious Disease	10878
 Medecine DISE Direction des Infrastructures Sanitaires	13306
 MoH All Disease Outbreak Module Artificial	4153
 Movement Control System COVID-19 Coronavirus Disease	11986
 Mycobacterial Diseases	12678
 NCD Non-Communicable Disease NDC Nationally Determined	11560
+NON-COMMUNICABLE DISEASE	14773
 National Action Plan for Rare Diseases	10188
 National Institute for Communicable Diseases	9969,1226
 National Plan for Non-Communicable Diseases	10776
@@ -155,8 +161,10 @@ Neglected Tropical Diseases	10780,1949,247
 Neglected Tropical Diseases PHC Primary Health	12729
 Nigeria Centre for Disease Control	9969
 Nigeria Centre for Disease Control and Prevention	3721
-Non Communicable Diseases	12970
-Non-Communicable Diseases	12729,193,54,498
+Non Communicable Diseases	12970,1803
+Non- Communicable Diseases	14773
+Non-Communicable Disease	14742
+Non-Communicable Diseases	12729,193,54,498,1247,21,31
 Non-Communicable Diseases NAPHS	10776
 Non-communicable Diseases	12606
 Noncommunicable Diseases	13163
@@ -191,6 +199,7 @@ Silent Disease Killing Ugandan Society	8352
 Soomaaliya Dhibcaha Deyn Cafintii Diseembar	11136
 South Sudan Neglected Tropical Diseases	3583
 Strengthen Disease	14434
+Strengthen Integrated Pest and Disease Management	14818
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
 TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 Tropical Disease CAD	12678
@@ -202,5 +211,9 @@ U.S. Centers for Disease Control and Prevention	10641
 US Centers for Disease Control and Prevention	1824
 US Centres for Disease Control and Prevention	4426
 United States Centers for Disease Control and Prevention	10641,2284
+Vector-Borne and Other Diseases	14773
 WHO's International Classification of Diseases	9370
 Wearables for Chronic Disease Management	9456
+Wellness CDCU Communicable Disease Control Unit	14773
+Zoonotic Risks and Disease Surveillance	14818
+Zoonotic Risks and Disease Surveillance Weak	14818

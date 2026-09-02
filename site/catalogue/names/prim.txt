@@ -1,3 +1,4 @@
+A. Prime Minister’s Office Ministry of Defence	14753
 A1 Primer Secretario A2 Primer Secretario	4209
 A3 Primer Secretario A3 Segundo Secretario	4209
 AD-6 Zamfara NorthWest Rearing Primary School	11857
@@ -24,6 +25,7 @@ African Wireless Comms. Primary	1529
 Ahmed Prime Minister	13440
 Akwa Ibom State Primary Health Care	7664
 Algeria's Prime Minister	5585
+All Primary	14836
 All Saints Cathedral Primary School Data	7167
 Amashure PRIMAIRE	13300
 Amazon Prime	5908,442,2596,5749
@@ -44,6 +46,8 @@ B1 Primer Secretario A1 Segundo Secretario	4209
 B2 Cónsul General Adj. B3 Primer	4209
 B2. Primary	13868
 Beninese Ministry of Primary Education	10831
+Bid Validity the Prime Minister’s Office	14778
+Bids the Prime Minister’s Office	14778
 Body Prime Minister Russell Mmiso Dlamini	13208
 Botsalano Primary School	12625
 Botswana's Primary Bank	6774
@@ -65,6 +69,7 @@ Central Primary Health Care North Central	11857
 Central Primary Healthcare Centre	14394
 Centre Kulisuka Primary School Mayara Ext	13046
 Centre for Primary Health Care Studies	12025
+Certificate of Primary Education	14815,17
 Cheplelaibei Primary School	10313
 Chinyongola Primary School-01	13598
 Chinyongola Primary School-02	13598
@@ -73,10 +78,12 @@ Chombela Primary School-01	13598
 Chombela Primary School-02	13598
 Choonzo Primary School	3662
 Church-Takarania Aimablaagte Primary School	13046
+Civil Status Division Prime Minister’s Office	14755
 Coker Aguda Primary Health Centre	11968
 Collective Defence Primary	11138
 Com Primature	1748
 Combustible Teléfono Prima de Prima de Prima de Prima	4209
+Communique CIVIL STATUS DIVISION PRIME MINISTER’S	14755
 Community Centre Swakopmund Primary School Hall	13046
 Community Engagement and Primary Health Care	14033
 Completed Primary Education	12383
@@ -109,7 +116,7 @@ Delegado Distrital Ministerio Secretario Juzgado Primera	4209
 Department of Primary Health Care	12606
 Dependência Primária de Tecnologias	10777
 Deputy Minister of Primary and Secondary Education	11656
-Deputy Prime Minister	7030,1319,4131,497,31,190,9,741,136,68
+Deputy Prime Minister	7030,1319,4131,497,31,190,9,741,136,68,590,11,40,36,1
 Deputy Prime Minister Hon. Thulisile Dladla	12480
 Deputy Prime Minister Honorable Thulisile Dladla	2391
 Deputy Prime Minister Jibril Abdirashid Haji	9241
@@ -163,6 +170,7 @@ ESTADO EXTERIOR PRIMERA CEREMONIAS Y SEGURIDAD	4209
 Ecosystem Coordination Primary	11138
 EdTech. Primary	860
 Educación Primaria	4209
+Education Primary	14723
 Education Primary and High School Education	11134
 Egyptian Prime Minister Mostafa Madbouly	14688
 Egypt’s Prime Minister	11162
@@ -223,7 +231,8 @@ Export Share Primary Commodity Exports	1828
 Ezulwini Catholic Primary School	11134
 F.R.C.P. Prime Minister	7845
 FMoH. Primary	1212
-FRCP Prime Minister	14566
+FRCP Prime Minister	14566,187,88
+FRCP Prime Minister Foreword The Republic	14752
 Farming Central Primary School	11857
 Farming Primary	11857
 Farming Primary Health Centres	11857
@@ -250,6 +259,8 @@ Free Public Primary and Secondary Education	13122
 GABINETE PRIMERA DAMA	4209
 GASTO DE PRIMERA INSTALACION POR GRUPO	4209
 GASTOS DE PRIMERA INSTALACION Y RETORNO	4209
+GCSK Deputy Prime Minister Hon. Shakeel	14753
+GCSK Deputy Prime Minister Minister of Gender	14841
 GIN. Primary ISO3	652
 Gabinete Primeiro Ministro X	11569
 Ganes Secondary School Origo Primary School	13046
@@ -261,6 +272,7 @@ Gilbert C. Primary	3791
 Gitunduti Primary and Junior School	6946
 Gobierno Vice-Presidente Primero	4209
 Government Backs Offshoring Expansion Egyptian Prime	11162
+Government Directory Ministries Prime Minister's Office	14847
 Government Facilities Primarily	3184
 Government Primary	11857
 Gross Primary Productivity	11334
@@ -277,11 +289,17 @@ Health Centres Primary	11857
 Health Centres Primary Schools	11857
 Health Extension Program and Primary Health Care	14033
 Health Impact PHC Primary Healthcare	396
+Health System Response and Primary Health Care	14721
 High School Namib Primary School	13046
 Hon'ble Prime Minister Shri Narendra Modi	13744
 Hon. Deputy Prime Minister	13126
+Hon. Pravind Kumar JUGNAUTH Prime Minister	14729
 Honourable Deputy Prime Minister	12660,302,15
 Honourable Deputy Prime Minister and Minister of Justice	12668
+Honourable Prime Minister	14742
+Honourable Prime Minister of India	14744
+Honourable Prime Minister of Mauritius	14744
+Honourable Prime Minister’s Office	14742
 Hope Primary School	13046
 Hope Primary School A Intercession Powerhouse	13046
 Hospital Primary and Secondary School	11857
@@ -291,12 +309,15 @@ Ilaro Primary	11857
 Immanuel Ruiters Primary School The Good	13046
 Imparcialidade. Primamos	9799
 India Special Envoy of Prime Minister	11579
+Indian Ocean Governance. The Prime Minister	14808
+Indian Ocean. The Prime Minister	14845
 Indian Prime Minister Narendra Modi	2791,2253,2322
 Inform Prim Care	14666
 Institution Primary Roles and Responsibilities Anchor	7548
 Institutional Accountability Primary	11138
 Instrucción Juez Primera Instancia Secretario Regional	4209
 Intebe Prime Minister Premier Ministre Bibonywe	1214
+Introduction A.1. General The Prime Minister	14778
 Islamiyya School Primary School	11857
 Italian Prime Minister Giorgia Meloni	2367
 It’s Prime Time for Real-Time	7596
@@ -375,6 +396,7 @@ Main Activity Main Institutions Primary School	11857
 Main Primary	11585
 Majesty the Queen The Right Honourable the Prime	12692
 Makakung Primary School	7671
+Male Female Both Sexes Primary	14815
 Mali's Prime Minister Abdoulaye Maiga	3585
 Management Framework EU Primary Healthcare Facility	3604
 Manzini Practising Primary School	12977
@@ -385,6 +407,7 @@ Maryward Primary School	11134
 Maryward Primary School Construction	11131
 Mathangathi Primary School	14546
 Mathias ADEDJE MINISTERE DES ENSEIGNEMENTS PRIMAIRE	2966
+Mauritius Other Objects Primary Object Board	14744
 Mauritius Prime Minister Dr Navinchandra Ramgoolam	7335
 Mauritius Prime Minister's Office	1378
 Mayota Primary School-01	13598
@@ -401,6 +424,7 @@ Minister of Finance Prime Minister Chairman	6938
 Minister of Primary and Secondary Education	4528,7984,798
 Minister of Primary and Secondary Education Zimbabwe Madame	13310
 Ministries of Primary and Secondary Education	13310
+Ministry Vice Prime Minister Senior Chief	14738
 Ministry of Deputy Prime Minister	12970
 Ministry of Pre-school and Primary Education	10831
 Ministry of Primary	1017,10880,10,9
@@ -420,6 +444,7 @@ Moshupa Primary Hospital	12606
 Mphande Hills Primary School	13691
 Mphande Primary School	7375
 Mphimbi Primary School	12234
+Mr. G. G. The Prime Minister	14753
 Mtetengwe Primary School	7312
 Mumangwa Primary School-01	13598
 Mumbeeni Primary School	14546
@@ -459,6 +484,7 @@ Nenhum Ensino Primário	10777
 Nenhum Primário	10777
 Nenhum Primário Secundário Superior Quintil	10777
 Net Primary Productivity	11334
+Network TV Television PMO Prime Minister	14723
 Ngcina Primary School	12962
 Ngererit Primary School	6783
 Niger State’s Primary Healthcare Centres	4794
@@ -476,6 +502,7 @@ O Primeiro Ministro	11519,1
 O Primeiro-Ministro	3765,4435,3320,49
 O Primeiro-Ministro Ulisses Correia	2584
 OFFICE OF THE PRIME MINISTER No	13033
+ONB PRIME MINISTER’S OFFICE	14778
 Office of Prime the Minister	12325
 Offices The Deputy Prime Minister’s Office	12977
 Olkaria Prime Cabinet Secretary Hon. Musalia	1245
@@ -489,6 +516,7 @@ Outputs Primary Secondary	1777
 Outputs Primary Secondary National Security Recurrent	1777
 Outputs Primary Secondary Strategic Objective	1777
 Outputs Primary Secondary Strategic Pillar	1777
+PAPERS LAID The Prime Minister	14753
 PHC Primary Health Care RHIS Routine	771
 PM EDT. Primary Investigator	10609
 PREES. PRIM. Y ALFABET	4209
@@ -505,12 +533,14 @@ PRIMARY CONSTITUTIONAL AUTHORITY	3861
 PRIMARY DOCUMENT	1826
 PRIMARY EDUCATION	12975
 PRIMARY EDUCATION Mandate	12975
+PRIMARY HEALTH CARE SERVICES	14773
 PRIMARY INDICATORS OF GLOBAL PROGRESS TOWARD	11572
 PRIMARY TOOL Tool	11156
 PRIMATURE	7925,1,395
 PRIME	8860,352,1755
 PRIME MINISTER MATEKANE ADDRESSES AFRICA LEADERS	12688
 PRIME MINISTER'S OFFICE ANNUAL PERFORMANCE REPORT	13126
+PRIME MINISTER’S OFFICE	14778
 PRIME Minister Russell Mmiso Dlamini	5450
 PRIME Theory	899
 PRIME-GAS	4524,2902
@@ -539,6 +569,7 @@ Poland’s Deputy Prime Minister and Minister for Digital	7428
 Policy Primer	226
 Portfolio Investment PHC Primary Health Care	2775
 Practice F. Reimagining the Regulatory Relationship Primary	11138
+Pre Primary	14742
 Pre- Primary	11860
 Pre-primary and Primary	2775
 Premio Primera Dama	4209
@@ -575,11 +606,12 @@ Primaries	2608,2173,435,1255
 Primarily	3126,665,2580,4490,1055,2608
 Primarschulen	383
 Primarv Ret Code	11180
-Primary	23,82,3,102,12,15,3,149,1,28,22,102,40,196,2,13,4,115,62,10,10,7,1,5,25,2,3,24,73,13,65,7,42,88,5,2,3,1,1,6,2,1,2,1,11,1,5,262,46,1,17,59,43,22,23,19,99,2,5,104,13,2,61,139,139,169,86,70,4,6,142,25,57,72,51,26,122,10,67,28,137,65,11,187,10,253,2,28,43,138,74,16,86,19,78,5,24,165,113,22,20,2,5,18,345,21,10,141,35,55,75,1,1,13,65,56,22,21,189,21,27,7,30,3,87,58,58,22,39,64,45,19,514,76,37,91,23,81,46,344,18,33,130,9,35,17,100,623,434,80,561,1080,11,5,32,50,78,193,3,2,11,31,89,88,203,25,269,3,22,21,5,2,99,31,15,140,7,3,8,43,8,17,45,6,54,28,2,18,13,16,7,34,11,94,123,162,26,39,19,71,38,67,34,63,62,2,2,71,33,132,209,109,123,3,78,24,405,2,63
+Primary	23,82,3,102,12,15,3,149,1,28,22,102,40,196,2,13,4,115,62,10,10,7,1,5,25,2,3,24,73,13,65,7,42,88,5,2,3,1,1,6,2,1,2,1,11,1,5,262,46,1,17,59,43,22,23,19,99,2,5,104,13,2,61,139,139,169,86,70,4,6,142,25,57,72,51,26,122,10,67,28,137,65,11,187,10,253,2,28,43,138,74,16,86,19,78,5,24,165,113,22,20,2,5,18,345,21,10,141,35,55,75,1,1,13,65,56,22,21,189,21,27,7,30,3,87,58,58,22,39,64,45,19,514,76,37,91,23,81,46,344,18,33,130,9,35,17,100,623,434,80,561,1080,11,5,32,50,78,193,3,2,11,31,89,88,203,25,269,3,22,21,5,2,99,31,15,140,7,3,8,43,8,17,45,6,54,28,2,18,13,16,7,34,11,94,123,162,26,39,19,71,38,67,34,63,62,2,2,71,33,132,209,109,123,3,78,24,405,2,63,170,79,17,4
 Primary Balance Fiscal Adjustment and Possible Growth	13868
 Primary Barriers	10718,1790
 Primary Benchmarks	4528,7984
 Primary Constitutional Authority	3861
+Primary Cooperative Society	14793
 Primary Data	170,11684
 Primary Data Center	10721
 Primary Data Centre	6481
@@ -587,19 +619,21 @@ Primary Data Centre and Blantyre	1632
 Primary Data Collection Data	12210
 Primary Disaster Centre	10721
 Primary Draft	7548
-Primary Education	12253,158,564
+Primary Education	12253,158,564,1767,94
 Primary Education Enrollment Rates	12411
 Primary Education KCSE Kenya Certificate of Secondary	2775
 Primary Education Primary	12411
 Primary Education Sector	11916
+Primary Educational Management. Mr Sooryadev Purdasseea	14736
 Primary Eight and Senior Four	8940
 Primary Fiscal Balance	13868
 Primary Grades	13991
 Primary Health	11857
-Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252
+Primary Health Care	21,257,118,375,3530,6475,476,21,695,12,626,1252,915
 Primary Health Care Centers	12004
 Primary Health Care Facility	11980
 Primary Health Care Information System	11980
+Primary Health Care JNH Jawaharlal Nehru	14773
 Primary Health Care Operational Framework	13166
 Primary Health Care Oriented HSSDP III	13982
 Primary Health Care PII	11252
@@ -619,6 +653,7 @@ Primary Health Tickets	12976
 Primary Healthcare	10704,1153
 Primary Healthcare Centres	7454,1990
 Primary Healthcare Facilities	3604
+Primary Healthcare Level	14773
 Primary Healthcare Provision Strengthening Health	11469
 Primary Inspectorate Cadre	12975
 Primary Junior Senior	11879
@@ -639,14 +674,16 @@ Primary Raxio	3686
 Primary Registration Agencies	12323,2180
 Primary Regulatory Metric	12882
 Primary SSA	514
-Primary Sampling Units	582
+Primary Sampling Units	582,14233,17
 Primary Sampling Unity. RPHC	12403
 Primary School	10748,534,575,1183,175
+Primary School Achievement Certificate	14815,17
 Primary School Anambra South East	11857
 Primary School Education	11879
 Primary School Elia Neromba Secondary School	13046
 Primary School Examination Centres	13477
 Primary School Farming Primary School Primary	11857
+Primary School Health Activity	14773
 Primary School ICT	12552
 Primary School Improvement Grants PTR	12175
 Primary School Joy Mungungu Senior Primary	13046
@@ -655,15 +692,17 @@ Primary School Leaving Examination	7671,5806
 Primary School Leaving Examination. Parent	13477
 Primary School Leaving Examinations	13477
 Primary School Leaving Examinations Certificate. Will	13477
+Primary School Supplementary Feeding Project. Access	14742
 Primary School Teacher Management Strategy	12175
 Primary School Teacher Management Strategy and Guidelines	12175
-Primary Schools	11857,768,337,10,3
+Primary Schools	11857,768,337,10,3,1767,106
 Primary Schools Health Facilities	11857
 Primary Science	11860
 Primary Secondary Businesses	14098
 Primary Secondary Post	12410
-Primary Secondary Tertiary	10980
+Primary Secondary Tertiary	10980,3835
 Primary Site Primary Site The ZIPSS	12364
+Primary Sources Used	14777
 Primary Storage Locations Storage ID Country	6432
 Primary Suppliers Primary Suppliers Not Applicable	1988
 Primary Supply Workers	1988
@@ -675,7 +714,7 @@ Primary and Junior School Enrolment	2775
 Primary and Middle	13991
 Primary and Middle Education	13991
 Primary and Middle Schools	13991
-Primary and Secondary	958,10899,1265,188,681
+Primary and Secondary	958,10899,1265,188,681,754
 Primary and Secondary Education	2989,8918,1007,396,160,166
 Primary and Secondary Education Minister Torerai Moyo	9396
 Primary and Secondary Education of Zimbabwe	13562
@@ -699,7 +738,7 @@ Primature. L’initiative	10843
 Primature. Présidée	10944
 Primature. Prévue	7276
 Primature. Son	4871
-Prime	3253,874,721,107,7370,33,2337
+Prime	3253,874,721,107,7370,33,2337,47,1
 Prime Activities	3513
 Prime Cabinet Secretary	1245,13301
 Prime Cabinet Secretary Musalia Mudavadi	12268
@@ -708,7 +747,7 @@ Prime Contractor	11209
 Prime Contractor and Subcontractor	11209
 Prime Lending Rate	11289
 Prime Lending Rate Policy	11289
-Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326
+Prime Minister	27,285,406,65,186,56,259,4,2,538,5,95,435,4,208,56,52,128,49,289,104,28,14,20,121,49,47,63,25,8,74,178,174,87,232,162,40,160,27,12,34,92,29,36,15,53,63,26,143,73,247,240,141,225,107,732,13,322,378,162,1,3,165,431,1,102,5,162,70,122,275,271,172,362,429,244,102,19,49,24,50,21,177,21,157,177,28,30,90,215,25,20,40,130,76,30,21,26,31,46,2,27,13,24,57,203,10,4,9,8,5,16,76,108,9,22,3,2,4,28,1,5,23,31,22,5,54,1,234,87,22,434,37,37,86,17,9,70,6,1,130,73,326,53,2,2,4,2,9,4,2,6,2,1,7,8,6,5,14,12,3,20,11,2,2,2
 Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073
@@ -737,7 +776,9 @@ Prime Minister Dr. Abiy Ahmed. Powered	10709
 Prime Minister Dr. Kamil Idris	9490
 Prime Minister Elijah Ngurare	3587,9519
 Prime Minister Félix MOLOUA	4327
+Prime Minister GIS	14779
 Prime Minister Giorgia Meloni	3353
+Prime Minister Government Bodies	14721
 Prime Minister H.E. Ulisses Correia	2794
 Prime Minister Hailemariam Desalegn	12163
 Prime Minister Hamsa Abdi Barre	4088
@@ -753,7 +794,8 @@ Prime Minister Mambé	3261
 Prime Minister Mark Carney	7731
 Prime Minister Meles Zenawi	12163
 Prime Minister Ministry of Labour	12935
-Prime Minister Modi	5122,6061,2561
+Prime Minister Modi	5122,6061,2561,1095
+Prime Minister Modi and Prime Minister Ramgoolam	14805
 Prime Minister Modi. President Zuma and Prime	11183
 Prime Minister Mostafa Madbouly	9414,1034
 Prime Minister Moustafa Madbouly	14367
@@ -770,7 +812,8 @@ Prime Minister Order	13418
 Prime Minister Ousmane Sonko	5553,3291,189
 Prime Minister Parliament Building	12927
 Prime Minister Raila Odinga	7869
-Prime Minister Ramgoolam	7365,2
+Prime Minister Ramgoolam	7365,2,7412,26,3
+Prime Minister Republic of Mauritius	14752
 Prime Minister Republic of Namibia The Sub-Division	12927
 Prime Minister Rimtalba Jean Emmanuel Ouédraogo	2560,8,917,1263,29,74,63
 Prime Minister Robert Beugré Mambé	3261,370
@@ -789,34 +832,43 @@ Prime Minister Shri Rajiv Gandhi	13561
 Prime Minister Smt. Indira Gandhi	13561
 Prime Minister Soumeylou Boubèye Maïga	10533
 Prime Minister Thuli Dladla	4535
+Prime Minister URL	14805
 Prime Minister Ulisses Correia	2807,4
 Prime Minister and Cabinet	14434
 Prime Minister and Cabinet Office Mr. Bheki	12989
 Prime Minister and Committee Head Professor Kamil	9685
 Prime Minister and Minister of Federal Governance and Rural	8613
+Prime Minister and Minister of Finance	14744
 Prime Minister and Minister of Finance Olavo Correia	6050
+Prime Minister and Ministers	14742
 Prime Minister and Ruler of Dubai	12983,709
 Prime Minister of Cameroon	4171
 Prime Minister of Ethiopia	14001
 Prime Minister of India	7365,6379
+Prime Minister of India Shri Narendra Modi	14829
 Prime Minister of Japan	9067
 Prime Minister of Somalia and Presidential Candidate	11150
 Prime Minister's Director General	6938
-Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127
+Prime Minister's Office	583,200,507,87,718,1806,980,1002,2623,863,1463,132,941,103,193,136,163,1510,127,584,21,4,4,5,23,1,14,15,3,19,9,6
 Prime Minister's Office Public Disclosure Authorized	12228
 Prime Minister's Order	14223
 Prime Minister's State	11925
 Prime Minister. Article	13948
 Prime Minister. Held	2927
 Prime Minister. Initially	1964
+Prime Minister. Just	14753
 Prime Minister. Particulars	13948
 Prime Minister. Republic of Namibia	12327
 Prime Minister. This Charter	12927
 Prime Ministerial	2848,2003
 Prime Minister’s Monitoring and Evaluation	8469
 Prime Minister’s Offi	13042
-Prime Minister’s Office	3604,3555,1347,2547,675,1234,10,5,335,2,17,992
+Prime Minister’s Office	3604,3555,1347,2547,675,1234,10,5,335,2,17,992,393,22,4,6,2,10,14,4,1,32,18
+Prime Minister’s Office Prime Minister	14778
+Prime Minister’s Office and MEPU	14745
+Prime Minister’s Office- National ID Card	14778
 Prime Minister’s Office. Développement Digital	969
+Prime Minister’s Office. The CSP	14742
 Prime Minister’s Order	718,12700
 Prime Minister’s Order N	13418
 Prime Minister’s Year-End Address	4535
@@ -924,6 +976,8 @@ Rearing Primary School	11857
 Rebbeca Kambundu Junior Primary School Ngcove	13046
 Recommended Actions Primary Owner	12917
 Rede Primária de Comunicações Electrónicas	11396,1
+References Primary Sources	14819
+Regarding the Private Primary Schools	14742
 Region. Prime Minister Modi	11183
 Registered. Primary Teachers Diploma	13078
 Registos Primários-Bases de Dados	11391
@@ -941,6 +995,7 @@ Right Honourable Prime Minister	12955,15
 Right Honourable Prime Minister Themba Dlamini	12896
 Right Honourable the Prime Minister	12660
 Right Honourable the Prime Minister The Honourable	10210
+Rodrigues. The Prime Minister	14753
 Rundu Junior Primary School Sun City	13046
 Rundu Vocational Training Centre Ngwangwa Primary	13046
 Rwandan Prime Minister	1903
@@ -975,6 +1030,7 @@ Selon la Primature	10478
 Senegalese Prime Minister Ousmane Sonko	2288
 Senior Primary	1987
 Service Commission PSTR Primary	2775
+Sexes Primary	14815
 Shemelako Primary School	13999
 Sidloko and Enhlanhleni Methodist Primary Schools	12962
 Sizani Combined Primary School	11266
@@ -1003,6 +1059,8 @@ TRANSITION IMPACT Primary Quality	1818
 Targeted Primary and Secondary Schools	13378,14
 Taux Préscolaire Primaire Post Secondaire Nombre	737
 Teach Primary	2966
+Teachers Diploma Primary and Diploma	14736
+Teachers’ Diploma Primary Holistic Education Programme	14742
 Tech Park. The Prime Minister	2807
 Teléfono Prima de Prima de Prima de Prima de Gastos	4209
 Tewane Primary School	4709,7916
@@ -1010,12 +1068,14 @@ Theo Katjimune Primary School B	13046
 Timor-Leste’s Prime Minister	13042
 Todos Unidos Pela Primeira Infância VBG	11387
 Togo's Ministry of Primary	1947,12
+Top Link Bar Prime Minister's Office	14721
 Trading Primary	11857
 Trading Primary School	11857
 Trading School Primary School	11857
 Transform Primary Health Care	1824
 Trust Amplifier and Systemic Risk Primary	11138
 Tutume Primary	12606
+UK Prime Minister	14793
 ULesson. Primary	454
 UNGA and NAM Summit. Former Prime Minister	13562
 UNHCR's PRIMES Interoperability Gateway	12257
@@ -1026,12 +1086,14 @@ Under the Primary Health Care	12004
 Unités Primaires de Sondage	13300
 University of Welwitchia Nkurenkuru Kamina Junior Primary	13046
 Upper Primary	12431
+User Prime Minister's Office	14721
 VA for SMEs Primary Secondary	10980
 VERIFICATION OF EDUCATION DATA FOR PRIMARY	14501
 VICE-PRESIDENTE PRIMERO	4209
 VICE-PRIMER MINISTRO PRIMERO Mensual	4209
 Via Africa. Primaire	6200
 Vice Prime Minister	11863,2585
+Vice Prime Minister and Minister of Local Government	14738
 Vice Primeiro Ministro	12021
 Vice Primeiro-Ministro	11542
 Vice- Primer Ministro Primero	4209

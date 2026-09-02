@@ -15,6 +15,7 @@ AGILE BUSINESS SOLUTIONS LIMITED Data Controller	7167
 AGILE BUSINESS SOLUTIONS LIMITED Data Processor	7167
 AGILE BUSINESS TECHNOLOGIES LIMITED Data Controller	7167
 AI Algeria Award Bahrain Bootcamp Business	5322
+AI Artificial Intelligence B2B Business-to-Business	14790
 AI Business	10150
 AI Regulatory Sandbox Business Participation Checklist	7298
 ANTI-CORRUPTION ACCOUNTABILITY SUSTAINABLE BUSINESS	12353
@@ -31,6 +32,7 @@ Accounting and Business	8029
 Accra's Central Business District	1041
 Acquisition of High-Occupancy Buses	7695
 Acquisitions Read Article Business Strategic Guidance	12495
+Act AI Artificial Intelligence BPO Business	14729
 Act Business Names	3714
 Act. Business	11
 Acting Leader of Government Business	13387
@@ -96,6 +98,7 @@ Argentine Business Forum	5264
 Assistance Technique B2G Business	11944
 Associates Inc. Business Day	8267
 B.1 Business	8840
+B2C Business-to-Consumer	14790
 B2G Business	11994
 BBI Burundi Business Incubator BBS Burundi	13312,2
 BENE BUSINESS SYSTEMS LTD Data Controller	7167
@@ -107,8 +110,10 @@ BLOSSOM BUSINESS SOLUTIONS LIMITED Data Controller	7167
 BRIAN JUMA Data Processor INST-1609516F134 BUSIA	7167
 BRICS Business Council's African	12069
 BRS Business Registration Service Your One-Stop-Shop	12280
+BUS ACCIDENT	14753
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
 BUSD Binance USD	8590
+BUSGEET Bibi Razia Programme Manager Central	14770
 BUSH AND BEYOND LIMITED Data Controller	7167
 BUSH SMILES DENTAL CLINIC LIMITED Data	7167
 BUSH TRUCKER TOURS LIMITED Data Controller	7167
@@ -118,7 +123,7 @@ BUSHRAA MEDICAL CENTRE LIMITED Data Controller	7167
 BUSIA DENTAL SOLUTIONS LIMITED Data Processor	7167
 BUSIA HEALTHCARE SERVICES LIMITED Data Controller	7167
 BUSIA Kenya	7167
-BUSINESS	10759,76,2,1,130,902,16,2,1,75,188,1,10,177,1,11,1,135,565
+BUSINESS	10759,76,2,1,130,902,16,2,1,75,188,1,10,177,1,11,1,135,565,1790
 BUSINESS ACTIVITIES IN RWANDA	12445
 BUSINESS AND AFFAIRS OF THE BOARD	14410
 BUSINESS AND INTELLECTUAL PROPERTY AUTHORITY	3714
@@ -148,6 +153,8 @@ BUSINESS PARTNERS INTERNATIONAL KENYA	7167
 BUSINESS PERFORMANCE	12445
 BUSINESS PERIOD OF EMPLOYMENT	12374
 BUSINESS REGISTRATION	11240
+BUSINESS REGISTRATION ACT	14720
+BUSINESS REGISTRATION ACT Act	14720
 BUSINESS RESCUE PART	3714
 BUSINESS RESCUE PROCEEDINGS	3714
 BUSINESS RESCUE PROCEEDINGS Application and Definitions	3714
@@ -156,6 +163,7 @@ BUSINESS.......................118	13461
 BUSINESSES	13044
 BUSINESSES EXPERIENCE	11882
 BUSINESSES EXPERIENCE Congo	11881
+BUSINESSES OR ACTIVITIES	14720
 BUSOGORO Jean François Mr DONADJE Florentin	13300
 BUSSEM LIMITED Data Controller INST-5197192A8C9 NAIROBI	7167
 BUSSEM LIMITED Data Processor INST-5197192A8C9 NAIROBI	7167
@@ -192,6 +200,10 @@ Bungoma Busia Garissa Wajir Mandera Marsabit	7869
 Burundi Business Incubator	13312,2
 Bus Drivers Demand Tougher Road Safety	6077
 Bus Rapid Transit	2342,4474,508
+Bus Services Industry Bill	14753
+Bus Shelters	14738
+Bus Stop	14778
+Bus Stop YES NO Easy	14778
 Bus Transco	14322
 Bus UTH University Teaching Hospital VoIP	34
 Bus.Mngt	13053
@@ -228,11 +240,12 @@ Busia Senator Okiya Omatah	9645
 Busia Senator Okiya Omtatah	8949
 Busia West Pok	12151
 Busia and Mandera	14464
-Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81
+Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33,46,2,3,1,49,11,36,54,39,23,122,112,165,111,4,2,7,4,7,1,2,1,1,1,1,1,6,1,6,38,4,8,3,9,1,11,10,8,6,43,109,1,1,5,1,3,39,2,1,9,55,1,58,12,1,5,5,1,1,2,4,5,12,7,13,1,23,11,14,2,5,1,7,23,4,1,2,15,7,27,147,213,18,68,20,32,5,41,73,13,16,32,41,37,13,3,3,10,7,14,13,10,19,11,63,71,18,114,118,105,51,11,5,124,361,2,153,81,48,29,22,1,61,7
 Business A2C	14438
 Business Acumen	6432
 Business Address	12041
-Business Administration	10,4886,419,1631,6024,2
+Business Administration	10,4886,419,1631,6024,2,1803
+Business Administration. Mr Suttyhudeo Tengur Mr	14736
 Business Advisory Group	11155
 Business Affairs	11005
 Business Against Crime	11986
@@ -263,6 +276,7 @@ Business ByNhlanganiso Mkhonta5	4173
 Business CBE	4027
 Business CCNA Cisco Certified Network Associate	13346
 Business CHAPTER TWENTY	14409
+Business CSO DTB DTSO METC MDPA	14752
 Business Capital By Stephen G. Fellajuah	14274
 Business Case	235,10996
 Business Case Guideline	11231
@@ -276,10 +290,11 @@ Business Clase	4209
 Business Clients and MSP	3300
 Business Climate Forum	14207
 Business Climate. A Presentation	12325
+Business Community	14736
 Business Conference	4554,768
 Business Connexion	1740,832,9906
 Business Construction	5394
-Business Continuity	4610,7928,921
+Business Continuity	4610,7928,921,1291
 Business Continuity Institute’s Good Practice Guidelines	11131
 Business Continuity Management	10721,410,3,1404,413,10,76
 Business Continuity Management Plan P2-6. Management	12500
@@ -287,20 +302,21 @@ Business Continuity Management System	2350,8781,3
 Business Continuity Management Systems	12961,76
 Business Continuity Management Systems BIPA	12961
 Business Continuity Mechanism	8866
-Business Continuity Plan	4848,1584,4118,1950,38,379,1629
+Business Continuity Plan	4848,1584,4118,1950,38,379,1629,204
 Business Continuity Plan BC&DR	12538
 Business Continuity Plan BETA Bottom-up Economic	6432
 Business Continuity Plan and Disaster Recovery Guidelines	12453,892
-Business Continuity Planning	12917
+Business Continuity Planning	12917,1844
 Business Continuity Plans	12538
 Business Continuity Requirements	12961,76
 Business Continuity Steering Committee	10550
 Business Continuity and Disaster	12538
-Business Continuity and Disaster Recovery	11995,543
+Business Continuity and Disaster Recovery	11995,543,2223
 Business Continuity and Disaster Recovery Framework	13987
 Business Continuity and Disaster Recovery Guidelines	12538,925
 Business Continuity and Disaster Recovery Program	10550
 Business Corner	11287
+Business Corporations GFCF Gross Fixed Capital	14777
 Business Could EPRA’s Ksh5	9940
 Business Credit	11198
 Business Cycle Indicators	11237
@@ -311,6 +327,7 @@ Business Daily Africa	6231,2440
 Business Daily Africa and Daily Nation. the Kenya	6231
 Business Daily Africa. Capital Ethiopia	8671
 Business Daily and Nation	2668
+Business Data	14723
 Business Data Centre	2750
 Business Day	226,2432,660,2294,2139,516,315,19,1160,1479,1124,120,701,276,777,217,218
 Business Day Kenya	14674
@@ -328,6 +345,7 @@ Business Developer	6804
 Business Development Centres	13938
 Business Development Director	7673,79,5097
 Business Development Director of Hytera	2511
+Business Development Officer	14736
 Business Development Services	8969,4091
 Business Development and Operations	7420
 Business Digest By Blessed Ndlovu Jun	6244,1
@@ -399,7 +417,8 @@ Business Eswatini Pivotal Power Meeting	5015
 Business Eswatini Sugar	3422,225,6,324,50,146,12,487,343
 Business Event Customer Applies for ID	9124
 Business Facilitation	14008
-Business Facilitation Bill	6887
+Business Facilitation Act	14736
+Business Facilitation Bill	6887,7942
 Business Facilitation Company	13100
 Business Facilitation Single Window	12703
 Business Faiba	9940
@@ -416,7 +435,7 @@ Business Function Requirements	13185
 Business Funding	11245
 Business G2C Government	13308,37,1
 Business GB Giga Byte Gbps Gigabits	2775
-Business Government	12453
+Business Government	12453,2273
 Business Govt	6239
 Business Growth and Innovation Phase	9198
 Business Having	14409
@@ -455,6 +474,7 @@ Business Instances. A National Interoperability Use	1009
 Business Intel-	8604
 Business Intellegence System	1789,1,1,1
 Business Intelligence	11131,3,1106,2076,306
+Business Intelligence Analysts	14744
 Business Intelligence CDHO Chief Digital Health	12240
 Business Intelligence Framework	11131
 Business Intelligence Platform Successfully Launched	11134
@@ -485,12 +505,13 @@ Business Location	12389
 Business MBABANE	3422,225,6,324,50,146,12,487,343
 Business Makerere Innovation Incubation Center	7248
 Business Malawi	14674
-Business Management	6946
+Business Management	6946,7873
 Business Management Econet Park	4896
 Business Management Tool	38
 Business Management and Artificial Intelligence	9360
-Business Mauritius	14566
+Business Mauritius	14566,170,7,22,11
 Business Mauritius As Artificial Intelligence	14566
+Business Mauritius Panelists Juanita Clark CEO	14776
 Business Mauritius and SOS Patrimoine	14267
 Business Messaging	7427
 Business Ministry of ICT	5658
@@ -535,7 +556,7 @@ Business Partner Number	13333
 Business Performance	3898
 Business Permit	12323,2180
 Business Physical Address Details	11276
-Business Plan	3678,8873
+Business Plan	3678,8873,2185
 Business Plan Competition	10963,1,21
 Business Plan Competition Youths	10964
 Business Plan Competition. Page	10964
@@ -562,6 +583,7 @@ Business Process Reviews	13060
 Business Process Risk	13053
 Business Process Risk Business	13053
 Business Processes Automation Phase	11231
+Business Product Owners	14729,21
 Business Productivity Tools	11033
 Business Promotion and Industry	5001
 Business Pulse Survey	10963,1
@@ -573,10 +595,11 @@ Business Recorder Several	2743
 Business Register	8532,2705
 Business Register SDG Sustainable Development Goals	2775
 Business Registration	12280,62,7,557
-Business Registration Act	7845,5061
+Business Registration Act	7845,5061,1807,1,1,5,123
 Business Registration Business Registration	12483
 Business Registration Certificate	12323,2180
-Business Registration Number	13333,1029
+Business Registration Department	14725
+Business Registration Number	13333,1029,416,55
 Business Registration STARTING A BUSINESS	12342
 Business Registration Service	8949,809,2450,72
 Business Registration Service Number	12302
@@ -615,6 +638,7 @@ Business Roles and Business Functions	14441
 Business Round Table	11284
 Business Rules	21,12041
 Business School	9781
+Business Sector	14748
 Business Services	6175,3640
 Business Services Company	2227
 Business Software Alliance	7209
@@ -624,6 +648,7 @@ Business Special Report	8535
 Business Starlink	6197
 Business Start-Up	12389
 Business Start-Up Process	12389
+Business Statistics	14840
 Business Strait of Hormuz	9940
 Business Studies	12975
 Business Support	12376
@@ -652,6 +677,7 @@ Business While Creating Value for Society	42
 Business Wire	9098,446
 Business Woman	12287
 Business World Bank	5565
+Business Zone	14847
 Business and Accounting	8671
 Business and Applied Sciences	12241
 Business and Artificial Intelligence	9360
@@ -664,6 +690,7 @@ Business and Disability Networks	10290
 Business and Economic Research	4432
 Business and Economics	9237,2962
 Business and Farmers	789
+Business and Government-to-Citizen	14729
 Business and Human Rights	3005,578,3564,1935,1925,3666
 Business and Human Rights Centre	9399
 Business and Human Rights.66	11007
@@ -676,6 +703,7 @@ Business and Intellectual Property Authority Ad	3714
 Business and Intellectual Property Authority Appeal	3714
 Business and Intellectual Property Authority DPSITM	12961
 Business and Intellectual Property Authority Legislation	3714
+Business and Law Report	14742
 Business and Management Research	5244
 Business and Management. SAGE Publications	5349
 Business and Other Services	789
@@ -687,13 +715,14 @@ Business and Social Sciences	5349,3780
 Business and Technical Specifications	8840
 Business and Technology	9124
 Business and Technology Developments	13053
+Business and Trade Associations	14800
 Business of Artificial Intelligence	11265
 Business- Critical High Performance Standard Basic	5665
 Business-Government	10862
 Business-registration	3594
-Business-to-Business	7221,1449,4644,88
+Business-to-Business	7221,1449,4644,88,1388
 Business-to-Business Internet Service Provider	3300
-Business-to-Consumer	8670,4732
+Business-to-Consumer	8670,4732,1388
 Business-to-Government	7221,1449
 Business-to-Person	7221
 Business-to-person	8024
@@ -712,6 +741,7 @@ BusinessGrowth	13243
 BusinessInformation Service	5125
 BusinessManagement	9360
 BusinessSouth SudanAteny Wek AtenyDigital	12866
+BusinessStatistics 2Qtr26 290726.pdf Author	14840
 BusinessStephen IsabokeDigital SuperhighwayRead	10734
 BusinessTagged Education	1690
 BusinessTech	8603,6070
@@ -722,7 +752,7 @@ Businessday	9112
 Businessday NG	6838
 Businessday NG L-R	9633
 Businessday.ng.m3u8	6290
-Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29,135,885,13,7,141,13,6,148,44,68,32,9,4,13,1,92,51,8,165,89,4,187,86,2,205,24,388,277,70,137,44,17,139,24,20,56,62,180,19
+Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29,135,885,13,7,141,13,6,148,44,68,32,9,4,13,1,92,51,8,165,89,4,187,86,2,205,24,388,277,70,137,44,17,139,24,20,56,62,180,19,17,11,8,98
 Businesses Addresses	11129
 Businesses Businesses	12189
 Businesses Digital Public Physical Financial Infrastructure	12241
@@ -761,6 +791,7 @@ Busuma Download	13669
 Busuma URL	13669
 Busuma. Grâce	13669
 Busunu	7695
+Busway for Bus Rapid Transit	14721
 C. Supporting Capital Access and Sustainable Busi-	4848
 CABLE CENTRAL BUSINESS DISTRICT CAE	12253
 CALTAX BUSINESS SERVICES Data Controller INST-6721195C167	7167
@@ -794,6 +825,8 @@ Category Technical Score Business Function Requirements	13185
 Catálogo de Dados Buscar Mostrando	9441
 Central Business District Plot	12642
 Central Business Districts	10763
+Central Business Registration Card	14720
+Central Business Registration Database	14720
 Centre of Excellence for Business Development Services	8969
 Centre of Formalization of Businesses	11546
 Certification Commence Business CM46	12342
@@ -820,6 +853,8 @@ Civil Society and Business Leaders	11275
 Clairvoyant Business Option Limited	3862
 Cloud Services Business Services	9455
 Co-CEO of Business and Commercial Affairs	10800
+Code of Ethics and Standard of Business Practice	14736
+Code of Ethics and Standards of Business	14736
 Cogent Bus Manag	10780
 Cogent Business	7759,262
 Cogent Business and Management	1248,6511
@@ -830,6 +865,7 @@ Columbia Journal of World Business	11310
 Commence Business	12342
 Commencement of Business	11976
 Communication CEFORE Business Formalities Center CENI	10812
+Companies and Business Registration Division	14819
 Companies and Other Business Entities	13437,140
 Companies and Other Business Entities Act	4263,633,8415,266
 Company. Harvard Business Review. Retrieved	899
@@ -850,6 +886,8 @@ Controller INST-55096819CF0 BUSIA Kenya	7167
 Controller INST-6452396FCB0 BUSIA Kenya	7167
 Cords Cables Raceways Bus	9123
 Corporate Actions the Companies and Other Business Entities	4896
+Corporate and Business Registration Department	14830,10,7
+Corporate and Business Registration Integrated System	14830
 Cost of Doing Business	4167
 Council Cession Business Park Switch Bindura	4896
 Coverage UNDB United Nations Development Business	10829
@@ -880,6 +918,7 @@ Data Controller INST-8434238B59C BUSIA Kenya	7167
 Data Processor INST-446402EEAED BUSIA Kenya	7167
 Data Warehouse and Business Intelligence System	33
 Date Expiry Date Project Name Business	11469
+Dedicated Business Product Owners	14729
 Dedza and Nkhotakota Business	12241
 Default Efficient Business Processes Privacy Data	12359
 Degrees Business Solutions	4672
@@ -896,7 +935,10 @@ Department of Small Business Development	8458
 Department of Small Business Development The Department	11343
 Departments of Research and Knowledge Business	12638
 Dept. Management Science Dept. Business Management	10123
+Designated Non-Financial Businesses and Professions	14798
 Develop New Ease of Doing Business Portal	3907
+Development of Clear Business Cases	14750
+Development of Clear Business Cases In the MITCI	14750
 Digital Business	415,6417,1683,2502,1657,2000
 Digital Business Africa	1648,2010,2208,39,370,107,38,3959,2,310,2792,709
 Digital Business Africa Internet	3658
@@ -940,6 +982,7 @@ E- Busy L- Privacy	582
 E-Commerce Business Development Consultancy Transaction	9265
 E-Commerce Business Opportunities	1154
 E-Commerce SaaS Platform for African Businesses	1151
+E-Government and Business Facilitation	14729
 E-mail Telephone No. Nature of Business Contact	736
 E.1.4 Digital Business Digital	14674
 EAC. Businesspeople	12164
@@ -968,7 +1011,7 @@ EU-Ethiopia Business Forum	5873,8235
 EU-Tanzania Investment and Business Forum	10592
 EVALUATION CRITERIA BUSINESS VALUE TECHNICAL COMPLEXITY	6432
 EVERYDAY BUSINESS IN ZAMBIA	13532
-Ease of Doing Business	464,3443,9413
+Ease of Doing Business	464,3443,9413,1405
 Ease of Doing Business Index	4528,7984,444
 Ease of Doing Business Index and Competitiveness	12920
 Ease of Doing Business Portal	3725,182,4300
@@ -986,6 +1029,7 @@ Economic Identities for Small Business Owners Insights	10819
 Economics and Business	9237
 Edinburgh Business School. Mrs Sheree Shereni	4896
 Education Completion Warning Signs Business	11870
+Education Services Business	14775
 Educational Social Development and Small Business	11280
 Ekurhuleni Business Chamber	9129
 Electronic Business UNDP United Nations Development	13042
@@ -997,6 +1041,7 @@ Empowerment BPMN Business Process Modelling Notation	11184
 Endeavour Crescent Mount Pleasant Business Park	10764,80
 Eng. Joseph Busienei	3878
 Engineering Director James Bush	2537
+English Resume Business Mauritius	14765
 Ensuring Sustainable Business Growth and Job Creation	10964
 Entebbe Airport Smuggling Ring Busted	3955
 Enterprise Architecture DSUB Electronic Business	1009
@@ -1037,6 +1082,7 @@ Fawry Business Tap N Pay	9533
 Female Business Only Personal Only	582
 Finance and Business	12934
 Finance and Business Service	12551
+Financial Business Activity	14728
 Financial Risk The Business Continuity Management	11131
 Financing Small Businesses	11994
 Fixed Business Unit. The Plan International	9917
@@ -1063,6 +1109,7 @@ GSBPM Generic Statistical Business Process Model	12902
 Gail Bester SANRAL FMS.pdf BusinessTech	8603
 GenAI Business	13461
 GenAI Business.....................................84	13461
+General Insurance Business	14809
 Geneve Libyan-Moroccan Business Forum	5592
 Geographic Distribution of Businesses	12445
 George W. Bush	5141
@@ -1074,8 +1121,15 @@ Ghana Kweku Hammond Business News Aug	11032
 Global Africa Business Initiative	5985
 Global Africa Business Initiative France and Morocco	5985
 Global Blockchain Business Council	9147,23
-Global Business Licence	7845
+Global Busi	14717
+Global Business Companies	14777
+Global Business Company	14828,3
+Global Business Corporations GFS Government Finance	14777
+Global Business Entity	14828,3
+Global Business Licence	7845,6872,111,3,12
+Global Business Licensees	14828
 Global Business Review. Marinho	9129
+Global Business Services	14777
 Global Business Solutions and Client Success	9487
 Global Council for Investment and Business for Africa	10518
 Global Public Sector Business Unit	5359
@@ -1096,6 +1150,10 @@ Government Service Bus I-4	10785
 Government Services Bus	7778,3862,2060
 Government Services Bus Government Services Bus	12359
 Government Services Bus and Citizen Support Services	11640
+Government and Business Facilitation	14729
+Government and Business Facilitation Figure	14729
+Government and Business Facilitation STRENGTHS	14729
+Government-to Business	14790
 Government. Businesses	8121
 Govtech Business Ecosystem	772,1701
 Graduate Business School Chinhoyi University of Technology	12508
@@ -1106,11 +1164,12 @@ Grey Business	14389
 Growing Businesses Skip	12495
 HOD of Business Administration. Together	12996
 HOUR OPERATIONS FOR BUSINESSES	13532
+Hamood Al Busaidi	14808
 Harare Ms Vimbai Masiyiwa Business Leadership	4896
 Harmonization of Business Law	10841,708
 Harper Business. ITU	11155
 Harv Bus Rev	396
-Harvard Business Review	899,344,5705,1182
+Harvard Business Review	899,344,5705,1182,6620
 Harvard Business Review Logo	415
 Harvard Business Review LogoThe Rapid Growth	415
 Harvard Business Review. McKinsey Global Institute	10819
@@ -1124,6 +1183,7 @@ Head of Business Solutions	2591
 Head of Business and AI	12082
 Head of Strategy and Business Transformation	3951
 Helping Small Businesses Cross Borders	7523
+Helping Small Businesses Go Digital Small	14752
 High-Level Business Forum The Ministry of International	5086
 Higher Institute of Business Management	13312,2
 Home of Business and IP Registrations	12342
@@ -1137,6 +1197,7 @@ ID. Business	12533
 IDs Businesses	10064
 IFP MP Busaphi Machi	7404,3215
 IMIS Business G2B Ministry	13314
+IMPROVING EASE OF DOING BUSINESS	14828,3
 INFRASTRUCTURE BUSINESS	12352
 INST-142742F4B7D BUSIA Kenya	7167
 INST-30142531034 BUSIA Kenya	7167
@@ -1154,6 +1215,7 @@ Implications for Business	5220
 Implications for Businesses and Individuals	13532
 Improve Business Processes	12551
 Improve the Business Climate	7160,4630
+Improving Ease of Doing Business	14828,3
 Income Tax Individual Business	12397
 Increased Business Pay	12253
 Incubation Acceleration Ecosystem Players Sample Business	12376
@@ -1170,6 +1232,7 @@ Industry and Business Development Motlatsi Maqelepo	11717
 Industry and Small Business	12674
 Industry and Trade and State Business Relations	12977
 Inefficient Business Process Reengineering	13987
+Informatics Ltd BUSINESS STATISTICS QUARTER	14840
 Information and Communications Youths Business	1161
 Infrastructure Business John Tanui	9938
 Infrastructure and Business	1672,1,976,2999
@@ -1210,6 +1273,7 @@ Issues and Unfinished Business CHAPTER	13982
 Ivan Busulwa	6394
 J Bus Res	12255
 JUSTICE BUSINESS AND PROPERTY COURTS	1829
+Jean Claude Le Roy Business Mauritius	14765
 Job Creation Bust	14673
 Job-Creation Bust	14673
 Johannesburg Business School	2948,4279,4126
@@ -1317,6 +1381,7 @@ Master of Business Administration	6946,6422
 Master’s of Business Administration	6946
 Matching Business Support Trade Fairs Standard	12376
 Matters for Your Business	12022
+MauCas and National Business Licensing Platform	14750
 Means for Women Running Businesses	11033
 Means for Your Business	8027
 Mecanismos de Buscas	2816
@@ -1406,6 +1471,7 @@ Overall Ranking of Perceptions of Business Factors	12445
 Oxford Business Group	168,1529,5851
 Oxford Business Law Blog	8629
 PEBEC Presidential Enabling Business Environment Council	11857
+PERLE DE LA SAVANNE BUS OPERATIONS	14753
 PSIRA Responsible Business Unit Time	11188
 PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16,466,1,135
 Par DIGITAL BUSINESS AFRICA	11698
@@ -1441,7 +1507,11 @@ Projections and Business Targets	3487
 Provide Business Innovation Support	12675
 Public Administration Business	10837,1315,188
 Quarterly Survey of Business Opinion and Expectations	13532
+Quatre Bornes Bus Owner’s Cooperative Society	14753
+REGISTERED BUSINESS ADDRESS	14754
+REGISTERED BUSINESS NAME	14754
 REGISTERING A BUSINESS	12389
+REGULATORY FRAMEWORK OF BUSINESSES	14828,3
 REPLICATION AND BUSINESS CONTINUITY FOR FIVE	11240
 REPORTING ENTITY NATURE OF BUSINESS	1154
 REQUETE DECISION FINALE WEBCOOM BUSINESS S.A.R.L	10821
@@ -1459,11 +1529,14 @@ Reference Alon-Barkat and Busuioc2023	8283
 Regional Integration Economic Diversification Business	10837,1315,188
 Register Your Business Our Purpose	12280
 Register Your Business The Name Reservation	12280
-Registrar of Businesses	12906
+Registrar of Businesses	12906,1814
+Registrar of Businesses The Registrar of Businesses	14720
 Registration Business	10823
 Registration of Business Names Act	13305
 Registration of Companies and Other Business Entities	13311
 Regulating Virtual Asset Business Rwanda Finance	6998
+Regulatory Framework of Businesses	14828,3
+Reinsurance Business	14809
 Rejected Business Collaboration Business Interface	9124
 Related Articles Business MBABANE	3422,225,6,324,50,146,12,487,343
 Related Stories Women-Owned Businesses Are Taking	12336
@@ -1488,6 +1561,8 @@ Rome Business School. Elle	7496
 Rounds of Integrated Business Surveys and Qualitative	11136
 Royal Business	12971
 Rugari Ile Bushongo Rusarabuye Kinoni Musanze	12413
+Rushmore Business School	14787
+Rushmore Business School URL	14787
 Rwanda Integrated Business Enterprise Survey Report	12445
 Rwanda-Botswana Business Forum	6117
 Rwandan Business Enterprises	12445
@@ -1507,6 +1582,8 @@ Salaam. Businesses	8616
 Sameer Business Park	12285
 Samsung Wallet and Pay Later. Businesses	9008
 School Buses	4619
+School of Business	14775
+School of Business Management and Finance SITE	14775
 School of Business and Management Sciences	13688
 Sciences CBE College of Business and Economics COMSAT	13960
 Scope of Business	1877
@@ -1559,6 +1636,7 @@ Starlink Business	3371
 Starlink for Business	10312
 State Business Relations	12956
 Statement Our Strategy Our Business Model	11131
+Statistical Business Register	14840
 Statistics Botswana and Business Botswana	2360
 Stellenbosch University Business School	9349
 Stop Business Facilitation Centre	11717,986
@@ -1615,6 +1693,7 @@ Traitement Informatique DB Doing Business DE4A	13312,2
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
 Transition Par Digital Business Africa	10868
 Transverse Mercator Busanze Land Cover	12413
+Treasury Corporate and Business Registration Department	14830
 Trend Slowing Improvement Business	12341
 Trend of Business Enterprises	12445
 Tripoli Business Incubator	5948
@@ -1644,7 +1723,7 @@ United Nations Development Business	1867,8962,1026
 United States. Bus Law Rev	9739
 Universal Serial Bus	12364
 University of Cape Town’s Graduate School of Business	1647
-University of Ghana Business School	7154,452,3426
+University of Ghana Business School	7154,452,3426,3742
 University of Pennsylvania's Wharton African Business Forum	7233
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
@@ -1687,6 +1766,7 @@ World Bank Ease of Doing Business	10841
 World Bank Ease of Doing Business Index	4528,7984
 World Bank's Ease of Doing Business Index	8440
 World Bank’s Business Ready	4127
+World Bank’s Doing Business Report	14761
 World Bank’s Doing of Business Report	12376
 World Business Chicago	8512
 World Business Law Institute	6946

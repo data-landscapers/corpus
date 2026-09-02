@@ -1,11 +1,13 @@
 AGEF SEMGB LBTP AIR CI BHCAINVAEASSHRGOOSCOSSOPEG	2342
+AIR CAS	14758
 AIR CI	2342
 AIR MASTERS LIMITED Data Controller INST-882598E2E33	7167
 AIR PASSENGER SERVICE CHARGE	10313
 AIR-C	7167
 AIR-GAPPED	4434
 AIRBUS	2242,63
-AIRCAS	14140
+AIRCAS	14140,618
+AIRCRAFT CRASH	14738
 AIRDT CREDIT LIMITED Data Controller INST-95968704842	7167
 AIRLINK NONWITHDRAWABLE DEPOSIT TAKING SACCO Data	7167
 AIRPAY LIMITED Data Controller INST-4414911C6FD NAIROBI	7167
@@ -28,6 +30,7 @@ AIRTEL and SMILE	3862
 AIRegistry.mu	7224
 AM Airtel Africa and Elon Musk's Starlink	10032
 AMEL Aircraft Maintenance Engineers License AMOS	2775
+AML OFF- AIRPORT	14738
 AOC Air Operator Certificate AOI Agriculture	2775
 ASSOCIATION OF HEATING REFRIGERATION AND AIR	7167
 Abbreviations and Acronyms AC Air Conditioner African	12256
@@ -55,8 +58,11 @@ Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
 Air Commodore Dr Eng. Edgar Kamusoko	1554
 Air Conditioner	12383
+Air Conditioners	14736
 Air Conditioning	11134
+Air Conditioning Chamber	14736
 Air Conditioning International Financial Reporting Standards	11134
+Air Conditioning Supply	14840
 Air Cote	2342
 Air Côte	2342,3095
 Air Emissions	1988
@@ -65,6 +71,10 @@ Air France Data Controller INST-25160974C8C NAIROBI	7167
 Air France Data Processor INST-25160974C8C NAIROBI	7167
 Air Interface Encryption	10721
 Air Liaison	11285
+Air Mauritius Building	14847
+Air Mauritius Central	14847
+Air Mauritius Centre	14847
+Air Mauritius Centre John Kennedy Street	14736
 Air Navigation Service Provider	14167
 Air Pollution	1988
 Air Pollution Management	1988
@@ -73,6 +83,7 @@ Air Quality Act	11228
 Air Quality Sustainable Use of Land	10837
 Air Services Agreement	11185,2377
 Air Traffic	261
+Air Traffic Control Tower	14830
 Air Traffic Management System	261
 Air Transport	7452,3271,2337
 Air Transport Agreement	9275
@@ -93,10 +104,11 @@ Airbus	2242,3163,33,735,463,5494,832
 Airbus Defence and Space	2242,3163,16,17,735
 Airbus Defence and Space President Alain Fauré	5438
 Airbus. ANGEO-1	5438
+Aircra	14760
 Aircraft	736
-Aircraft Equipment	14008
+Aircraft Equipment	14008,831
 Aircraft Movements	2775
-Aircraft Protocol	14008
+Aircraft Protocol	14008,831
 Aircraft Sta- Aeronautical Ra- Provision	6946
 Aircraft Technology	14148
 Aire N	2366
@@ -112,7 +124,7 @@ Airlines	9119
 Airlines Association of Southern Africa	10360,363
 Airong	11006
 Airong Zhang	11006
-Airport	2775,611,1924,4585,2494
+Airport	2775,611,1924,4585,2494,2349,8,2,5,28,49
 Airport By-pass Road Accra Ghana Digital	775
 Airport City	3386,3982
 Airport City Fuller Road	2776
@@ -122,14 +134,18 @@ Airport Infrastructure	13474
 Airport JKUAT Jomo Kenyatta University of Agriculture	2775
 Airport MICE Meetings	2775
 Airport Management Information Systems	5883
+Airport POLICE TENDER UNIT POLICE INTERNAL	14760
+Airport Police	14781
+Airport Police Airport Police	14760
 Airport Residential Area	3386
 Airport Residential Area Operational Limited	3386
 Airport Road	11548
+Airport Rs	14830
 Airport Services	12742
 Airport Shopping Mall	8999
 Airport Special Economic Zone. Acknowledging	12605
 Airport Square	3386
-Airport Terminal Operations Ltd	10045
+Airport Terminal Operations Ltd	10045,4708
 Airport West	3386
 Airport West Operational P.O. Box CT	3386
 Airport-Accra	3386
@@ -140,6 +156,8 @@ Airports Company of South Africa	9895
 Airports Sacco Society Limited Data Controller	7167
 Airports Sacco Society Limited Data Processor	7167
 Airports of Mauritius	10045
+Airports of Mauritius Co Ltd	14830
+Airstrip	14742
 Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7,531,13,2,407,31,755,17,18,42,27,82,13,19,116,42,125,33
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831,3039,13,135,167
@@ -359,6 +377,7 @@ Aviation and Airport Development Uwem Ekanem	10229
 BEST AIRTIME LIMITED Data Processor INST-13913384B88	7167
 Baghdad International Airport	13042
 Bakili Muluzi International Airport	9945,3177
+Bel Air	14760,70
 Bharti Airtel	4150,507,465,78,1041,7320,1113
 Bharti Airtel's Airtel Chad	10841
 Bilateral Air Service Agreements	13123
@@ -367,7 +386,9 @@ Biometric Strict Air-gapped Sovereign	5244
 Bissau Airport	11553
 Bissau International Airport	11575
 Blaise Diagne International Airport	58
+Bn Airport Rs	14830
 Board Chairman Air Cdre. Dr. Eng	1554
+Board of Airport Terminal Operations Ltd	14753
 Bole International Airport	9031
 Bon De Souscription D'actions AIR	4567
 Boost Students’ Digital Skills Airtel Fursa	10732
@@ -391,12 +412,14 @@ Cape Town International Airport	8915,980
 Cape Winelands Airport	8564
 Chad Bharti Airtel	1705
 Chairman Air Cdre. Dr. Eng. E	1554
+Chairperson of Air Mauritius Ltd	14774
 Changement de Catégorie SIGNATURE Airtel ARCEP	998
 Characteristics MTN Rwanda Ltd Airtel Rwanda	718
 Charges for Airports and Air Navigation Services	10723
 Chavula Chirwa. While Airtel	14190
 Chez Airtel Money	12074
 Chez Airtel Niger	4657
+Chief Executive Officer of Airport Terminal Operations	14753
 Chileka International Airport	13060
 Circular Economy Soil Management Air Quality	4126
 Civic Services ACSA Airports Company South	11986
@@ -425,6 +448,7 @@ East Africa. Airtel	14507
 Egypt and Airtel	8045
 Electronic Airtime Distribution	3862
 Emirates Airlines	14476
+Energy Efficiency Project Phase II Air	14736
 Entebbe Airport	2675
 Entebbe Airport Smuggling Ring Busted	3955
 Equinix King Air	14673
@@ -444,6 +468,7 @@ Financial Management Air Quality	10968
 Fly Net Zero The African Airlines	10723
 Flydubai Airlines	14476
 Frogfoot Air	10735,524
+Fully Air Conditioned Rooms	14778
 G and MTN AirFibre	10793
 GLO MTN EMTS AIRTEL SMILE IHS	3862
 Gbps AIRTEL	718
@@ -451,6 +476,7 @@ Ghana Air Force. Entre	12885
 Ghana’s Airtel Tigo	10822
 Glo Vodafone and Airtel Tigo Prepaid	10822
 Globacom and Airtel Africa	7560
+Grand Bel Air	14830
 Greenfield Airport	5247
 Harare International Airport	4298
 Hargeisa HOL Airstrike	3637
@@ -527,12 +553,14 @@ Managing Director of Airtel Madagascar	14637
 Managing Director of Airtel Malawi	9820
 Managing Director of Airtel Money Kenya	8623
 Managing Director of Airtel Zambia	9082
+Maritime Air Squadron SERVICES Police Band	14760
 Mastercard and Airtel	701
 Matsapha Airport	13153
 Mbps Air Fibre	11259
 Mbps. Airtel	4130
 Medical Air Dec	4896
 Medical Air Gokwe	4896
+Meteorological Service for International Air Navigation	14732
 Mfuwe International Airport	5247
 Min Read Airtel Malawi Plc and TNM	7525
 Misrata Air Force Base	11131,3
@@ -576,7 +604,10 @@ Participation Air Quality Political Power	10759
 Payments Airtel Mobile Commerce MIGA	11310
 Philippines' Ninoy Aquino International Airport	4275
 Pipeline Transport Air Transport Aircraft Movements	2775
+Plaine Corail Airport	14794,36
+Plaine Corail Airport TOTAL LOANS	14830
 Plan Directeur des Aires Protégées	8891
+Port and Airport	14830
 Port of Salalah China West Airport Group	2511
 Praia Airport	11863
 Precision Air Conditioners	9123
@@ -597,9 +628,14 @@ Rehabilitating the Blantyre Airport	12985
 Ricoh and Southwest Airlines	10638
 Robert Gabriel Mugabe International Airport	1713
 Robert Mugabe International Airport	4339
+Rodrigues Airport Project	14794
 Royal Air Maroc	9928
 Royal Eswatini National Airways Corporation	12956
+SSR Airport	14753
+SSR INTERNATIONAL AIRPORT	14753
+SSR International Airport	14738,92,17
 ST Engineering and Airbus Defence and Space	6482
+SURVEILLANCE AIRBORNE	14760
 Safaricom Airtel	10822
 Safaricom PLC Ltd Airtel Networks Kenya	6946
 Safaricom and Airtel	6409
@@ -618,6 +654,7 @@ Sierra Leone. Airtel Sierra Leone	4189
 Sikhuphe International Airport. G585	12962
 Simon Mwansa Kapwepwe International Airport	5247
 Single African Air Transport Market	961,2201,2750,4448,789,1911,595,30
+Sir Seewoosagur Ramgoolam International Airport	14753,7
 Sir Seretse Khama International Airport	12557,71,6
 Solwezi Airport	5247
 Sonangol and TAAG Angola PA2b S Airlines	10779

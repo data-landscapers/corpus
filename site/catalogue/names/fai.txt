@@ -1,4 +1,5 @@
 A. Faits	613
+AA. Fair	14809
 AGO FAITS MARQUANTS	2342
 AHOBA Georges FAITS MARQUANTS Effectif	2342
 ANGUI Pascal FAITS MARQUANTS Effectif	2342
@@ -20,6 +21,7 @@ BIBLE FAITH CHURCH OF KENYA Data	7167
 Bceao. Faire	3259
 Bible Faith Church Medical Services Data	7167
 Bid. Failure	13185
+Bidding Documents. Failure	14766,12
 Boiler Failure and Water Chemistry	1154
 Botswana Consumer Fair	12552
 Business Botswana Northern Trade Fair	12552
@@ -63,6 +65,7 @@ Designing for Failure	7678
 Determining Fairness	7198
 Develop Fair	961
 Digital Sovereignty and Fair Data Compensation Bill	8088
+E. Fair	14809
 ECOWAS Trade Fair	6422
 EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
 ENTITY Failure	11863
@@ -151,16 +154,17 @@ Failed	3874,1655,1647,3239
 Failed Governance	12227
 Failed Namibia	6825
 Failed Response	12038
-Failing	1006,2855,3087,2179,1879,1195,71,142,279,266,1667
+Failing	1006,2855,3087,2179,1879,1195,71,142,279,266,1667,126
 Failing the Hustlers	10330
-Failover	8605,4437
+Failover	8605,4437,1741
 Failover Design	10721
 Fails	8,11,1,9,1,1,1,1,44,129,171,120,391,796,5256,598,469,333,5684
-Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77,165,10,66,1,26,6,3,145,164,6,8,57,17,40,55,18,16,40,618,51,147,124
+Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28,48,1,27,31,12,30,433,49,143,49,20,10,55,98,88,5,21,85,114,7,41,129,39,18,77,165,10,66,1,26,6,3,145,164,6,8,57,17,40,55,18,16,40,618,51,147,124,168,1,42,9,12
 Failure Mode Institutional Implication Transaction	11138
 Failures	1903,1680,945,6610,18,1356
 Fair AI Use	12675
 Fair Access	12389
+Fair Administration of Justice	14742
 Fair Administrative Action Act	2709
 Fair Administrative Actions Act	2709
 Fair Cap	6921
@@ -182,6 +186,8 @@ Fair Playing	8111
 Fair Pricing	6432
 Fair Reasonable and Non-Discriminatory GRZ Government	13308
 Fair Reference	5679
+Fair Share Contribution	14828,3
+Fair Share Contribution Payable	14828,3
 Fair Spectrum Pricing	5245
 Fair Trade	10726
 Fair Trade USA	10464
@@ -218,7 +224,7 @@ Fairland Lead	10793
 Fairlie	12278
 Fairly	7886,4306,22,287
 Fairmile School	6946
-Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9,294,73,55,462,882,124,1
+Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16,800,245,188,277,9,294,73,55,462,882,124,1,246
 Fairness Fairness	14565
 Fairness and Ensure	5244
 Fairness and Housing	7147
@@ -226,6 +232,9 @@ Fairness and Non-Discrimination	12356
 Fairness and Reasonableness	4896
 Fairness and Transparency	12185,819
 Fairness of Intention	11956
+Fairtrade Africa	14793
+Fairtrade Certified Producers	14793
+Fairtrade Cooperative Credit Societies	14793
 Fairway Hotel	9781
 Fairwork	226,10093
 Fairwork Foundation	226
@@ -330,6 +339,7 @@ Mamie Faitai de Bingerville	5381
 Matching Business Support Trade Fairs Standard	12376
 Matthew Willcox FAITS MARQUANTS Adm MPPEEP	2342
 Mauritius. The FAIR	14565
+Mauritius’ National AI Strategy and Fair Guidelines	14811
 Mean Time Between Failures	12592
 Meeting Waterford KaMhlaba Career Fair Governor	11131
 Meeting. Global Money Week Fair Hosted	11131
@@ -343,6 +353,7 @@ Mr. Elikplim Sabblah of GIZ's FAIR Forward	5227
 Multi-Billion Birr Accounting Failure	7909
 NDPA. Failure	5038
 NIF CONNEXION. Faire	11972
+National AI Strategy and FAIR Guidelines	14781
 National Archives. Failure	12325
 National Artificial The FAIR Guidelines	14565
 National Employment and Recruitment Fair	10942,1
@@ -433,5 +444,6 @@ Workplace Fairness Bill	11135
 X Action XI.1.1 Faire	13306
 Year Analysis of Early-Season Failures	13062
 Yours Faithfully	4896
+Youth Agri-Innovation Fairs	14818
 Zambia International Trade Fair	7191,5291
 Zimbabwe International Trade Fair	1154

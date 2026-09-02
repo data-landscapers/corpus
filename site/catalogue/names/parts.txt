@@ -28,7 +28,7 @@ Parts I and II	10157,3137,17
 Parts I and II of Chapter	11976
 Parts I-III	968
 Parts I-V	13472
-Parts II	11584
+Parts II	11584,3144,2
 Parts II and III	11976,954
 Parts II-XIII	12630
 Parts III	12653,247
@@ -44,8 +44,9 @@ Parts Purchaser	13185
 Parts V	12532
 Parts VI	12900
 Parts VI-XI	12916
+Parts VII	14843
 Parts VII and VIII	512,3375
-Parts VIII	12549
+Parts VIII	12549,2179,2
 Parts XI and XII	12549
 Parts and Public Opening of Financial Parts of Bids	13185
 Parts of Bids ITB	13185

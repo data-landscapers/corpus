@@ -1,11 +1,12 @@
 A2 Certificado de Actualización PE Libreta	4209
 A3 Certificado de Actualización PE	4209
 ACENTRIA ACTUARIAL	7167
-ACTUAL	4209,5228
+ACTUAL	4209,5228,5299
 ACTUAL ACTUAL CATEGORÍA Certificado de Actualización PE	4209
 ACTUAL ACTUAL COMERCIO Certificado de Comercio	4209
 ACTUAL ACTUAL INFORMACIÓN Rótulos	4209
 ACTUAL ACTUAL TALLERES	4209
+ACTUAL AMOUNTS	14736
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO CATEGORÍA MINISTERIO	4209
@@ -67,10 +68,11 @@ ActuNiger Dans	5959
 ActuNiger L’Autorité	3551
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
 ActuNon	9925
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77,70,191,3,12,41,37,171,529,29,12,6,5,10,2,74,166,39,173,284,247,6,40,36,5,274,410,108,70,50,766,10,89
 Actual Achieve	11134
 Actual Achieved	11924
 Actual Actual Prior	10793
+Actual Allowance	14746
 Actual Approval	7877
 Actual Baseline Baseline	13991
 Actual Closing	13722
@@ -90,7 +92,7 @@ Actual Disbursed US	13722
 Actual Domestic Taxes Net Revenue	12951
 Actual Estimate Estimate Estimate DESCRIPTION Actual	6422
 Actual Estimate Var	6422
-Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1,8216,2485
+Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1,8216,2485,1391
 Actual Expenditure K20	13355
 Actual Expenditure K53	13355
 Actual Forecast	236
@@ -208,6 +210,7 @@ Actualmente	2816,363,1641,1765,117,4051,19,590,56,43,1351,36,1464
 Actuals	12199
 Actuals Variances Percentage	12977
 Actuar	4218,7163,1,59,2,8
+Actuarial	14809
 Actuarial Sciences Pure and Applied Chemistry Pure	12407
 Actuarial and Financial Mathematics	13078
 Actuação	11441,73
@@ -373,6 +376,7 @@ OMS Amissi G Actualité Liée	10625
 ONATEL. Actuellement	13324,90
 Oct-2025 No Actual	6928
 Official Use Only Actual	4653,2275
+Original Budget Revised Budget Actual Received	14736
 Ouagadougou... Actualité Tunisie	3658,2617,145
 PARTENAIRE ACTUEL	13300
 PARTENAIRE ACTUEL OU LE PLUS RÉCENT1	13300
@@ -410,6 +414,7 @@ Released Actual Expenditu	12971
 Released Actual Expenditure Variance Variance	12971
 Result Date Actual	4653
 Revenue Collection Target Actual	13053
+Revised Budget and Actual	14736
 Revised Indicator Name Baseline Actual	4653
 SCOLAIRE ENREGISTREMENT DES LIGNE ACTUELLE	13300
 Services Actualités	3675

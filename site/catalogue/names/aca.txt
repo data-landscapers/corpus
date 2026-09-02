@@ -8,6 +8,7 @@ ACACIA SATLINK LIMITED Data Controller INST-924073CD52F	7167
 ACADEMIA	12453
 ACADEMIA E INOVAÇÃO	12777
 ACADEMIC CITY	6936
+ACADEMIC COUNCIL	14768
 ACADEMICS DONORS AND VENDORS	9399
 ACAFEJ	9512
 ACAPS	568,5062,291,1017,9,1944,5210
@@ -17,6 +18,7 @@ AI Academia	4126
 AI Academy	12996,1692
 AI Academy Bill	7853
 AI Academy Nigeria	10133
+AI Artificial Intelligence ARC Academic Research	14747
 ALPHAX ACADEMY	7167
 ANO ACADÉMICO	11472
 AU’s Smart Africa Digital Academy	7921
@@ -32,13 +34,14 @@ Acacia Park Primary School	11285
 Acacia Park. SAPS	11285
 Acacia Surgical	7167
 Acacia and Port Rex OCGT	11228
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222,351,481,3,581,9,209,12,103,46,94,4,43,158,223,771,626,3,74
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
 Academia Criteria	12376
 Academia Private Sector	12674
 Academia Shall	13347
+Academia TWG	14819
 Academia and Civil Society Representatives	11995
 Academia and Research	7548,4964
 Academia and Research Institutions	1261,3267,7335,89,1012,1115
@@ -55,7 +58,7 @@ Academia. Tem	2816
 Academia. ZIMSTAT	13359
 Academias TIC	10490
 Academia’s Role	10776
-Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189
+Academic	718,530,13,516,2349,19,1157,146,1097,391,1086,279,135,579,113,1598,50,172,317,595,350,146,20,2189,212,27,8,7
 Academic Achievement of Students	12411
 Academic Advisor Jayant Vijayakumar	4656
 Academic Affairs	6936
@@ -72,13 +75,15 @@ Academic City University. Dr Sena Agbodjah	6936
 Academic City University. References Cybersecurity Act	6936
 Academic City University. Sean Ofori Addo	6936
 Academic Conferences International	9237
+Academic Council	14768
 Academic Forum	8460
 Academic Impact	14681
-Academic Institutions	12241,434
+Academic Institutions	12241,434,2054,48
 Academic Institutions and ICT Association of Malawi	13080
 Academic Journal of Interdisciplinary Studies	2093
 Academic Lead	5598
 Academic Librarians	8022
+Academic Officer	14768
 Academic Partnerships and Global Health	10776
 Academic Press	8130,4167
 Academic Qualifications	14185
@@ -96,6 +101,8 @@ Academy Award-winning	3711
 Academy Journal of Small Business and Enterprise Development	9129
 Academy SDG Sustainable Development Goal SME	4126
 Academy of Contemporary China and World Studies	1554
+Academy of Design and Innovation	14775
+Academy of Design and Innovation Act	14828,3
 Academy of Management Journal	5349
 Academy of Management Review	12090
 Academy of Science	10451
@@ -142,7 +149,7 @@ CUNY Academic Works	1261
 China Academy of Information and Communications Technology	7174,4628,2469
 China Academy of Space	12545
 China’s Academy of Military Sciences	8510
-Chinese Academy of Sciences	14140
+Chinese Academy of Sciences	14140,618
 Chinese Academy of Sciences. No	14140
 Chris Hani Baragwanath Academic Hospital George	11248
 Cisco Academy	12241,685
@@ -275,6 +282,7 @@ MTN SA Foundation and MTN Skills Academy	8579
 MTN Skills Academy	6593,1816,1462,271
 Male Academic	9128
 Matsapha Police Academy	12463
+Mauritius’ Strategic Value Proposition for Global Academic	14747
 Maxeke Johannesburg Academic Hospital	8603
 Media Academy for Journalism and Communication	9313
 Mkhari Academic Hospital Health Construction	11248
@@ -294,6 +302,7 @@ Networking Academy	10247,2114
 Nigeria Startup Digital Innovation Academy Establishment	11309
 Nigerian Academy of Science	7187
 Nigerian Youth Academy	9919,4786
+No. Registered Companies No. Academic Institutions	14819
 Nonidas Pro Ed Academy Private School	13046
 Oman Programming Academy	8592
 Online Results Confirmation System Combatting Academic	13477
@@ -304,7 +313,9 @@ Oxford Academic. Amoretti	10841
 POTRAZ ZIMCHE Academia Parliament Service	958
 Paradigm Initiative’s Digital Rights Academy	7101
 Pelican Park and Acacia Park Parliamentary Villages	11285
+Planned Construction of Mauritius Disciplined Forces Academy	14830
 Police Academy and Regional Police Commanders	11062
+Police Training Academy	14748
 Policy Academy	11918
 Powers Africa Digital Academy	7687
 President of Academic City University	6936
@@ -320,6 +331,7 @@ Regional Somali Language Academy	10451
 Registros Académicos	4209
 Requisitos Académicos Específicos. Os	11472
 Research and Academic Digital Repository of Ethiopia OER	13991
+Research and Academic Publishing	14812
 Researchers Academia H H University of Nairobi	12210
 Rising Academies	6232
 Role of Academia Academia	4528,7984
@@ -347,6 +359,7 @@ Soronko Academy and HapaSpace	4126
 South African National Intelligence Academy	11277
 Specialized Operators and Academia	10348
 Sports Academy	10399
+Strengthen Academia	14819
 Student Academic Portal	13080
 Students and Young Professionals African Liberty Academy	11827
 Swakopmund Christian Academy	12478
@@ -356,6 +369,7 @@ Taiwan Academy of Banking	11131
 Tanzania ITU Academy	11424
 Tech Academy	3608
 Technological and Innovation Academies	12971
+Testing and Academic Integrity	14812
 Through the Academy	11277
 Through the Africa Consumer Credit Academy	11809
 Training Institutions and Academia	12453,892

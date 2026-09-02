@@ -2,6 +2,7 @@ AAAAAD TyPXwwDBg0s0jC6f8MlawFINDn&gclid	7638
 AI Adoption Typology	10726
 AI Adoption Typology of Degree and Type	10726
 ALERT TYPE	12556
+ALL TYPES	14760
 ANPR. Typical	5716
 AU-IPED Document Type	12052
 AUTRE TYPE	13300
@@ -11,8 +12,11 @@ Actif Notice Type	13818
 Additional Financing Type	11965
 Address Types	11129
 African Union Document Type	13899
+African Union Document Type AU Launches	14724
 African Union Document Type AU-EU Space	11283
 Algorithm Type Approach	8604
+All Types	14760
+All Types- Crime and Misdemeanour	14760
 Analysis of Civil Society Typologies	11028
 Angola. Typically	10763
 Annexe J Typologies	14472
@@ -46,6 +50,7 @@ COMPETENCY LEVELS AND SKILLS TYPES Digital	1248
 COMPLAINT FORM TYPE OF COMPLAINT	2709
 COMPONENTS DEFINED SN Type	7845
 Cabling Types	9123
+Cabling of Surface Type	14778
 Case Type	14675
 Case Types	13053
 Central Africa. Event Type	10244
@@ -119,6 +124,7 @@ Guinea-Bissau Type	11570
 HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
 Health Tygerberg Central Hospital	11248
+High Resolution HLA Typing	14773
 Homba Ngejane TYPES OF CYBERATTACKS EXPERIENCED	1938
 Hurricane and Typhoon	13776
 ICSE-18 Type	11296
@@ -237,9 +243,12 @@ Responsibilities of NFIS II Stakeholders Type of Stakeholder	940
 Results Select Stablecoin Backing Type Choose	12882
 Revenue Performance Per Tax Type Collections	13053
 Road Fund Type Implementing Agency Implementing	1228
+Rubber Tyred Gantry	14830
 Répartition Surface Types	14488
 SAS Types	14488
 SECTOR TYPES	1940
+SN Types of Training No	14738
+SN Types of Training No. of Officers Trained	14746
 SOMELEC. Type	1993
 Scope NA Type Nominal	7221
 Scope NA Type Nominal Refers	7221
@@ -279,6 +288,7 @@ Station Types Frequency Station Type FY	6946
 Stream Type LIVE Remaining Time	5326
 Street Type	11129
 SupplyLicense Types Licensees	12399
+Surface Type	14778
 Surface Types	14490
 System Integrity Types	13042
 TATS MEMBRES DE L’UEMOA TYPE	10711
@@ -308,6 +318,7 @@ TYPE OF SOFTWARE SHOULD	34
 TYPE OF TRAINING OFFICER	12972
 TYPE OF USERS OF THE CRS	13333
 TYPE REQUESTED	34
+TYPE-WISE	14760
 TYPES AND FORMS OF COMPANIES	3714
 TYPES DE TRANSACTIONS TYPES DE PAIEMENTS	10711
 TYPES OF ADDRESSES	11129
@@ -421,7 +432,15 @@ Type of Entity	12400
 Type of Equipment FY	6946
 Type of Fund Manager	4972
 Type of Grower	2775
+Type of Impairment	14775
 Type of Inspections Carried Out During Construction	12389
+Type of Internet	14836
+Type of Internet Access	14723
+Type of Internet Access Broadband Internet	14723
+Type of Investment	14830
+Type of Investment Figure	14830
+Type of Investment Infrastructure Works	14830
+Type of National Awards Conferred	14760
 Type of National Identification	12383
 Type of Notifications Received	11259
 Type of Offence	2775
@@ -441,7 +460,7 @@ Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48,273
 Types Effectif Pourcentage	10875
 Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
@@ -475,6 +494,7 @@ Typologie des Ser-	10237
 Typology	12907,32,990,737
 Tyree	8604
 Tyrell Sykes	2626
+Tyrolean	14746
 UNICEF Type	13732
 Undisbursed Themes Type Approval	11469
 Union Européenne Type	10880

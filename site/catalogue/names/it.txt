@@ -42,6 +42,9 @@ BAI04 Managed Availability ITGov	9237
 BAI10 Managed ITGov C	9237
 BAI11 Managed Projects ITGov	9237
 BDS ITB	13185
+BDS for ITB	14766
+BDS for ITB Clause	14766
+BDS for ITB Clauses	14766
 BPO and IT-enabled	6786
 BPO and ITES Sector	6948
 BPO and ITO	3837
@@ -69,6 +72,7 @@ CO-CREATION AND ITERATION Open	4528,7984
 COBIT and ITIL	12917
 CONTROL ITEMS Table	12977
 CSP Information Item Details Name of Entity	6432
+Camp Ithier	14746,84
 Capital Items-	12977
 Capture ITI TF-2x	1009
 Capture Partnership IT3	11276
@@ -157,6 +161,7 @@ Financial Performance Report Item Estimated Budget	12971
 Financial Statements Regulation M-A Item	7198
 Food Crops and Related Items	2775
 Food Items	12977
+Food and Agriculture Laboratory Items	14736
 France and Italy	4617
 G. Evaluation of Technical Parts of Bids ITB	13185
 GDN’s ITERATION ARE CRUCIAL	10852
@@ -164,11 +169,13 @@ GDP. ITAP	13349
 GO-RFB ITB	13185
 GRA. ITAS	10419
 Gabon and Zimbabwe. ITU Telecommunication Development Bureau	2464
+General Conditions of Contract. Items	14766
 General Inspection of Education ITMA Instituto Tecnológico	11552
 Geneva-based ITU	1634
 Geneva. ITWeb Africa	14374
 Geraldine Itana	8250,4,1
 Geraldine Itana. Leading	13238
+German Hebrew Hindi Italian Urdu	14771
 German and Italian Embassies	14162
 Ghana Greece Iceland India Indonesia Italy	10764
 Ghana.gov. ITAS	10419
@@ -182,6 +189,7 @@ Government of Egypt ITIDA CEO Ahmed Elzaher	11162
 Government of Italy	7030,4124,1391
 Government of Italy and ITU. Lançamento	9434
 Governo de Itália	9434
+Govt Cloud DPO NCRCSA CERT.MU ITSU	14752
 Greece Iceland Italy Luxembourg Netherlands	10764
 Gross Domestic Product ITA	13053
 HISTORY Italian Government. The National	1131
@@ -200,6 +208,7 @@ ISACA ITCap Business	9237
 ISM Implementation Support Missions ITU International	1264
 ISPs Internet Service Providers ITU International	12395
 IT'S A WAKE-UP CALL	13532
+IT-BPO	14723
 IT-DEV Spa	3609
 IT-Online	5691,45
 IT-Sicherheit	9062,2254
@@ -232,12 +241,17 @@ ITAP. Malawi National Planning Commission	12175
 ITAS User Manual	10419
 ITAS for Namibia	12397
 ITB BDS	13185
-ITB Clause	13037
+ITB Clause	13037,1729
+ITB Clauses	14766
+ITB E.4.2. Determination	14778
+ITB F.6	14778
 ITB Ingonyama Trust Board ITIS Integrated	11261
 ITB Taxes	13185
 ITB and CNRC. Under	4542
 ITB the Purchaser's Country	13185
 ITB. ITB A. General Reference ITB	13185
+ITB. Note	14778
+ITB. Payment	14778
 ITC International Trade Centre M&E Monitoring	12962
 ITC Trade Briefs	10718
 ITC-supported	9450
@@ -258,14 +272,17 @@ ITEC and ICCR	11579
 ITEDGENEWS&utm medium	7139
 ITEKA RYA PEREZIDA N	1214
 ITEL. Nessa	11402
+ITEM DESCRIPTION QTY	14778
 ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
 ITEMS	11860
 ITEMS CRITERION SCORE COMMENTS	12693
 ITEMS REQUIRED TO BE INCLUDED	3714
 ITERATIVE HNSF DEVELOPMENT AND IMPLEMENTATION CYCLES	1009
+ITES-BPO	14723
 ITEdgeNews	2339
 ITEs EN HFO REFORME DE I.A	14479
 ITF263	12509
+ITG and Financial Grant	14742
 ITGOV	7371
 ITGOV Nigeria	7371
 ITGov	9237
@@ -283,6 +300,7 @@ ITIE-RDC Au-delà	8524
 ITIL and COBIT Vendor Management	6432
 ITIL and Cloud Computing	12693
 ITL Information Technology Laboratory GoA Government	10765,10
+ITLOS	14742
 ITLawCo	968,11198
 ITMA. Além	11569
 ITMA. ENTD.GW	2351
@@ -298,6 +316,8 @@ ITP Communications	8563
 ITP Programme	11236
 ITPD-01-2020-0001 Saunders	12467
 ITPEC	14188
+ITPGRFA	14818
+ITPGRFA and SADC Seed Protocols	14818
 ITR12	11276
 ITRF2008	11405
 ITRF2008. O RSA013	11405
@@ -372,11 +392,13 @@ ITU Global Cybersecurity Index. Internet	5119
 ITU Global Directory	10764
 ITU Global ICT Development Index	14674
 ITU Globally	10844
+ITU Green Digital Action Framework and OECD	14752
 ITU Green ICT	3604
 ITU Handbook	12344
 ITU ICT	173,11390,3111
 ITU ICT Development Fund. USD	691
 ITU ICT Development Index	3410,340,7014,3910
+ITU ICT Development Indicator	14836
 ITU ICT Indicators	13312,2
 ITU ICT-DF CHF	689
 ITU ICTPriceBaskets 2008-2024.xlsx	11563
@@ -406,6 +428,7 @@ ITU Methodology for Data Collection Data	3604
 ITU Names	11917
 ITU National E-Health Strategy Toolkit	21
 ITU National Emergency Telecommunication Plans Best	14674
+ITU News	14723
 ITU Organizational	10764
 ITU P2C	2137
 ITU PP-26	6488,1753
@@ -426,16 +449,19 @@ ITU Radio Regulations. Licence	736
 ITU Radiocommunication Assembly	7980,109
 ITU Radiocommunication Bureau	6946
 ITU Recommendations	10407
-ITU Region	7850
+ITU Region	7850,6930,45
 ITU Regional Development Forum for Africa	6642,304
 ITU Regional Director for Africa	8464
 ITU Regional Office	13902
 ITU Regional Office for Africa	27
 ITU Report	958,10258,998
+ITU Report ITU-R BT.2383-5	14780
 ITU Rural Access	5241
 ITU SG Doreen Bogdan-Martin	7197
+ITU Secretary General Dr Hamadoun I	14723
 ITU Secretary-General	7235,91,4594
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
+ITU Secretary-General Dr Hamadoun I. Touré	14723
 ITU Sector Member	8753
 ITU Sectoral CIRTs	10764
 ITU States	318
@@ -468,6 +494,7 @@ ITU and UNDESA	10844
 ITU and UNESCO	7174
 ITU and UNESCO Broadband Commission	6467
 ITU and UNESCO State of Broadband	6467
+ITU and UNESCO. This Commission	14723
 ITU and UNICEF	3900
 ITU and Vodacom	7431
 ITU and World Bank Digital Regulation Platform	14674
@@ -488,7 +515,7 @@ ITU- T	3604
 ITU-ALERT International Cyber Drill for Africa Region	318
 ITU-Applied	318
 ITU-Cisco DTC Initiative	689
-ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11,472
+ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11,472,289
 ITU-EC Project	26,1,1
 ITU-EC-ACP	26,1,1,257,9114,5035
 ITU-EC-ACP Project Assistant	26,1,1
@@ -496,7 +523,7 @@ ITU-EC-ACP Project Manager	26,1,1
 ITU-EU Delegation	9434
 ITU-IMPACT	5677,8285
 ITU-PP-26	6488
-ITU-R	736,4509,430
+ITU-R	736,4509,430,9150
 ITU-R F.497-7	5245
 ITU-R F.636-4 Annex	5245
 ITU-R IMT	10407
@@ -642,7 +669,7 @@ Italian-supported	7068
 Italicized	10840,1054
 Italie	1247,1201,4165,444,1258,576,2053
 Italie. Entre	5916
-Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65
+Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23,542,57,292,167,295,16,229,103,314,215,29,15,125,89,65,564
 Italy Boosts Eswatini's Green Future Projects	13207
 Italy Claudia Robbiati	10784
 Italy Claudia Robbiati Doctors	10784
@@ -695,7 +722,7 @@ Item of Intangible Assets Years Computer	11955
 Item of Tangible Fixed Assets Years Buildings	11955
 ItemExtent	3714
 Itemid	432,1,8966,2926,20,1526
-Items	1212,44,737,782,939,718,464,3512,715,658,1012,336,824,2,31,387,604,76,132
+Items	1212,44,737,782,939,718,464,3512,715,658,1012,336,824,2,31,387,604,76,132,1581
 Items Delivered Countrywide	9781
 Items Domestic Delivered Countrywide Couriers	9781
 Items Inter-City Delivered Countrywide Couriers	9781
@@ -770,6 +797,7 @@ Kristof Ithana	7743
 Kwilu and Ituri. Component	11923
 LEGISLATIVE PROPOSAL ITSELF	6476
 LLDCs. ITU	10844
+Laboratory Items	14736
 Labour Official Use Only Item Expected	12253
 Le Rapport ITIE-RDC	8524
 Lewis Itenya	9645
@@ -785,11 +813,13 @@ Lomé for International Forum ITC	8282
 Ludovic Itoua	6456,219,5183
 M. Bruno Jean Richard ITOUA	2738
 M. Guy Parfait Sosthène ITOUMOU	7661
+MAURITAS Accreditation Laboratory Items	14736
 MEMORANDUM ITEMS IN PUBLIC	2775
 MSMEs The ITU	10764
 MW Itezhi Tezhi Hydropower Project	13561
 Magazine CIO Directory CISO Directory ITWeb	10735,2132,1,1
 Mahamat Idriss Déby Itno	3224,364,2414
+Maldives. The Special Chamber of ITLOS	14742
 Managed Solutions ITGov	9237
 Management System IRT Item Response Theory	12975
 Marc Benioff and ITU	7174
@@ -804,6 +834,7 @@ Member for Itezhi-tezhi	13387
 Minimum ITIL	13037
 Ministre Bruno Jean Richard ITOUA	2738
 Ministre ITOUA	2738
+Ministry of ITCI	14750,22
 Misalignment of IT-business	2093
 Modulation Technique Proposed ITU	736
 Monsieur Bruno Jean Richard ITOUA	3191
@@ -872,6 +903,7 @@ Rapport ITIE-RDC	8524
 Readers Also Viewed These Items	415
 Reading the Strategy Against Itself Sitsofe Mensah	11827
 Reasons and Effects Regulation M-A Item	7198
+Recommendation ITU-R M.1036	14780,45
 Recommendation ITU-R M.2083-0	5675
 Recommendation ITU-T X.509	10764
 Recommendation Regulation M-A Item	7198
@@ -909,6 +941,7 @@ South Africa Finance and Banking Angela Itzikowitz	6998
 South African Pharmacy Council ITU International	396
 Southern Africa College for Nursing ITE EDC	12975
 Spain and Italy	8811
+Special Chamber of ITLOS	14742
 Spectrum Management ITU	285
 Standardized Items	11129
 Standards Organization IT Information Technology ITIL	12917
@@ -966,6 +999,7 @@ VSDC API Specification Item Classification Codes	12454
 View IT3	11276
 W3 I-43 ITU Global Cybersecurity Index	10785
 WRC-27 Agenda Items	5680,3612
+WSIS ITU	14750
 Whether Itana	9869
 World Bank PIP and ITU	11563
 World Bank World Development Indicators and ITU	9759

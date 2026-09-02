@@ -1,5 +1,6 @@
 AGRÉMENT ET ENREGISTREMENT Section	10836
 ANS. ENREGISTRER LE NUMÉRO DE LIGNE	13300
+Admissions and Total Enrolment	14775
 Adult Education Enrollment	12411
 Andréa RANDRIANTSASON Enrôlement	14579
 Anip. Enregistrant	4812
@@ -15,16 +16,23 @@ Biométrie Enrôlement	12043
 Bourse du Nigeria. Enrichie	11507
 Bulk TRN Requests the Enrolment	11298
 C ENREGISTREZ TOUT CE QUI EST	13300
+C1- C6 Enrolment	14775
+C1-C3 Enrolment	14775
+C1-C3 Enrolment of International Students	14775
+C1-C5 Enrolment of International Students	14775
+C1-C6 Enrolment of International Students	14775
 CNI Clôture Enrôlement Colisage	14480
 COE Enrolment	4528,7984
 COMMUNES ENREGISTRER LES FAITS D'ETAT CIVIL	3381
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
+Computation of Gross Tertiary Education Enrolment Ratio	14775
 Course Enrollments235 Certificates Completed	13095
 D ENREGISTREZ TOUT CE QUI EST	13300
 DES FOYERS ENRÔLEMENT BIOMÉTRIQUE ETAT CIVIL	14480
 DGI PRMP Enregistre	10876
 Date Enregistrement	14425
 Designated Enrolment Centres	12085
+Distribution of Higher Education Enrolment	14775
 DÉCLARÉE ENREGISTREZ	13300
 Déploiement du Desk ENR	1993
 ENR BC	13725
@@ -59,6 +67,7 @@ Enregistrement Ensemble	10876
 Enregistrement Publication Enchères Ouverture	13341
 Enregistrement Systematique des Naissances	14574
 Enregistrement des Abonnés	13301
+Enregistrement des Electeurs	14813
 Enregistrement des Faits	9637,1
 Enregistrement des Graphique	13300
 Enregistrer	747,258,5949,963,2959,2499
@@ -91,24 +100,30 @@ Enrollment and Completion	13991
 Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157,931,673,31,40,363,353,28
 Enrolment Education	12356
 Enrolment Infrastructure	11774
 Enrolment Ratio OSM	13960
 Enrolment and Completion	13991
 Enrolment of Female Learners	2775
+Enrolment of International Students	14775
 Enrolment of Learners	2775
 Enrolment of Male Learners	2775
-Enrolment of Students	12411
+Enrolment of Mauritian Students Overseas	14775
+Enrolment of Special Education Needs	14775
+Enrolment of Students	12411,2364
 Enrôlement	1187,1278,2276,1353,8386,99
 Enrôlement Scan	14480
 Enrôlement du Président	3337,4,1472,2351
 Entreprise Enregistrement	14488,1,1
 Entreprise Phase Préparatoire Enregistrement	14488
+Estimated Enrolment	14775
+Evolution of Gross Tertiary Enrolment Ratio	14775
 F ENREGISTREZ TOUT CE QUI EST	13300
 F INJECTION INJECTION ENREGISTREZ TOUS	13300
 FCFA Gross Domestic Product Gross Enrollment	11905
 Fokontany Enregistrement	14480,8,1,1
+GER Gross Enrolment Ratio GGR Gross	14747
 General and Professional Secondary Education Enrollment	12411
 Gross Enrollment Rate	12411
 Gross Enrollment Ratio	13314
@@ -116,8 +131,11 @@ Gross Enrollment Ratio Central African	13314
 Gross Enrolment Rate	12175,24
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
-Gross Enrolment Ratio	13991
+Gross Enrolment Ratio	13991,756
 Gross Enrolment Ratio GoSE Government	13960
+Gross Tertiary Enrolment Ratio	14775
+Gross Tertiary Enrolment Ratio HEC	14775
+Gross Tertiary Enrolment Ratio The Gross	14775
 Gross and Net Enrolment Rates	13399
 Gustave Enrichir	5022
 Health Sciences’ Students Enrolment	2775
@@ -127,11 +145,13 @@ Impression de Carte Périmètre Enrôlement Périmètre IDMS	14480
 LIGIBLES DANS Q.153. ENREGISTREZ LE NUMÉRO	13300
 Learner Enrollment	12411
 Local Government’s National ID Enrolment	11857
+Low ICT Enrolment	14729
 L’onglet Enregistrer	13375
 MASS ENROLMENT	1920
 MASS ENROLMENT AND RENEWAL EXERCISE	1920
 Mario Draghi and Enrico Letta	9832
 Mass Enrolment and Renewal Exercise	1920,7466
+Mauritius. Enrolment	14775
 NDPA. Enrolment	9670
 NIMC Enrols	7141
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284
@@ -142,6 +162,7 @@ Net Enrollment Rates	12411
 Net Enrolment Rate	12175,24
 Net Enrolment Rates NESIP	12175
 Net Enrolment Ratio	12175,1816
+Net Tertiary Enrolment Rate OU	14775
 Nigerian Government Intensifies National Identity Enrolment	7141,3
 OBJET DE LA REQUETE Enregistrement	10821
 PERSONNEL PERSONNE ET ENREGISTREZ TOUT ACCOUCHEUSE	13300
@@ -166,6 +187,7 @@ Secondary Education Enrollment Rates	12411
 Secondary Net Enrolment Ratio	13991
 Sectors Enrolled	12551
 Services. Enrolment	12359
+T Enrolment	14729
 TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
 TOUT ENREGISTRÉ	13300
 TRE ENREGISTRÉE EN ANNÉES. IL	13300
@@ -174,6 +196,7 @@ Tableau C.5 Enregistrement	13300
 Tableau C.6 Enregistrement	13300
 Tailored Enrollment	11987
 Teacher Trainees Enrolment	2775
+Tertiary Enrolment Ratio	14775
 TÉ ENREGISTRÉE COMME AYANT	13300
 TÉ ENREGISTRÉE. JOUR MOIS ANNÉE BCG	13300
 UPDATE OF MASS ENROLMENT EXERCISE	1920

@@ -68,6 +68,8 @@ Fuel Management and Recording The Fund	13420
 Fuel Management and Recordings Finding	13420
 Fuel Mix	12399
 Fuel Mix Target	12399
+Fuel Oil	14745
+Fuel Oil Coal Hydro Photovoltaic Wind	14745
 Fuel Oil VAT	1828
 Fuel Operator	13606
 Fuel Operator. Failure	13606

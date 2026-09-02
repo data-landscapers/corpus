@@ -1,4 +1,5 @@
 ACCESS DO NOT HAVE SHARED FAMILY	11004
+ACT PHARMACY COUNCIL ACT MAURITIUS FAMILY	14773
 AGREGADO FAMILIAR	11421
 AGREGADOS FAMILIARES	11421
 AGREGADOS FAMILIARES E DA POPULAÇÃO	10777
@@ -36,10 +37,12 @@ CLAYTONS FAMILY MEDICAL CENTRE LIMITED Data	7167
 CODEM FINANCE S.A Hauge Family Microfinance	13390
 Civil Service Family Protection	7845
 Civil Service Family Protection Scheme	7845
-Civil Service Family Protection Scheme Act	7845
+Civil Service Family Protection Scheme Act	7845,6983,3
+Civil Service Family Protection Scheme Board	14847
 Civil and Family Registration Proclamation	12226,24
 Civil and Family Registration Proclamation No	12226,24
 Code of Persons and Family	10812
+Commissioner Ministry of Gender Eqaulity and Family	14770
 Compassionate Family Carers Data Controller INST-7316470123B	7167
 Contents of Family Registration	12226
 Country Contexts. Stud Fam Plann	10881
@@ -49,6 +52,7 @@ DE LA FAMILLE ET	7670
 DEPARTMENT OF GENDER AND FAMILY ISSUES	12977
 DHANJI LAXMANBHAI RAGHWANI FAMILY TRUST Data	7167
 DLISS FAMILY HOSPITAL LTD Data Controller	7167
+Decent Dwelling for Every Family Honourable	14748
 Definição de Abono de Família	11467
 Demand for Family Planning	13454
 Department of Gender and Family	12977
@@ -60,7 +64,13 @@ Divorce and Family Relations Act	7231,5774,100
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 Election Observation Mission FAMOD Forum of Mozambican	12201
 Enfants PGES DATA CENTER SECONDAIRE FAMINTINANA	14488
+Eqaulity and Family	14770
+Eqaulity and Family Welfare	14770
+Equality and Family Welfare	14770
+Equality and Family Welfare Minister of Housing and Lands	14841
+Establishment of Muslim Family Council	14714,1
 Estonian Society of Family Doctors	11006
+European Family Justice Center Alliance	14793
 Exploitation Familiale	10830
 FAMARITAN- TENY	14488,1,1
 FAMILIA E SOLIDARIEDADE SOCIAL Relatório Nacional	11562
@@ -97,29 +107,39 @@ Familiarise	10419
 Familiariser	13290,493
 Familiarising	8130
 Familiarity	12754,821,1,609
-Families	1887,865,1998,1973,750,2321,910,137,684,240,90,24,28,772,260,64,422
+Families	1887,865,1998,1973,750,2321,910,137,684,240,90,24,28,772,260,64,422,1317,9,78
 Families Assisted	12977
 Families Left Offline	4619
-Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501
+Families. The Government	14742
+Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187,793,469,887,90,501,851,18
 Famille Autres	13499
+Famille CCID	14760
 Famille MPME Micro	10965
-Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158
+Family	418,2339,2215,2170,201,3420,13,188,13,8,540,332,119,250,107,5,32,51,350,120,55,412,621,158,605,93
 Family Assistance Plan	11855
 Family Assistance Program	11855
 Family CR Civil Registration CSPS Local	10812
+Family Cell	14748
 Family Code	10765,10,39
 Family Council	12338
+Family Counselling	14742
 Family Database	8891
+Family Division	14742,105
 Family Fun Day	11134
 Family Fun Day Currency	11134
 Family Health	6770,5170
 Family Health Bureau	2678
+Family Justice Centers	14793
 Family Medicine	2948
+Family Occupation Permit	14828
+Family Office	14809
 Family Pairing	8050
-Family Planning	970,12007,323,767
+Family Planning	970,12007,323,767,706
 Family Planning FSD Kenya Financial Sector	2775
 Family Planning Services	10829
 Family Promotion Capacity	12328
+Family Protection Unit	14847
+Family Recreational Areas	14830
 Family Registration Every Ethiopian	12226
 Family Registration Organ	12226
 Family Registration Period	12226
@@ -129,10 +149,13 @@ Family Related	11956
 Family Relations Act	12241,839
 Family Search International	10821
 Family Security Grant	4200
+Family Support Bureaux	14742
 Family Welfare Ministry of Health and Wellness Ministry	11332
+Family Welfare and Protection Unit	14742
 Family and Child Health	12976
 Family and Child Protection	3500
 Family and Children	11900
+Family and Mediation	14742
 Family and Promotion of Women	10765,3,7,600,20
 Family and Social Inclusion MIS Management Information	11855
 Family and Social Solidarity	11560
@@ -169,18 +192,23 @@ GUA E SANEAMENTO NO AGREGADO FAMILIAR	10777
 Gender and Family	12977
 Gender and Family Issues	12977
 Gender and Family Promotion	12358
+Gender-Based Violence. The Family Welfare and Protection	14742
 Georges St Family Centre	8999
 HABITAÇÕES FAMILIARES	11421
 HAVE SHARED FAMILY ALLOWED	11964
 Hauge Family Microfinance	13390
+Healthcare and Family Empowerment Programmes	14742
+Housing for Low- and Middle-Income Families	14829
 Ichikowitz Family Foundation	12336
 Immunization FP Family Planning HIV Human	771
+Importance of Education and Family Budgeting	14835
 Informal Family	418,522
 Inkhundla Community No. of Houses Family	12977
 Isan’ny Fampahafatarana	14490
 JUEZ DE FAMILIA Y TUTELAR	4209
 Jean Eric Djendja Itoua. FamilySearch	1876
 KT Family Thrills Fans During Muhanga	5889
+Knowing the Family	14835
 LA FAMILLE ET DE LA SOLIDARITE	8321
 LMICs. Family	11902
 LOHATENY VOALOHANY FAMARITANA SY SEHA-PAMPIHARANA Andininy	14408
@@ -195,14 +223,18 @@ Membros da Família	11364,1
 Mensagens de Planeamento Familiar	10777
 Microsoft’s In-House AI Family	6498
 Min of Gender and Family Protection	12333
+Minister of Gender Equality and Family Welfare	14774
+Minister of Gender Equality and Family Welfare Hon	14753
 Ministerio da Familia	11855
 Ministry of Family	10826,1139
 Ministry of Family and Social Inclusion	11855
 Ministry of Family and Social Inclusion Implementing Agency	11855
+Ministry of Gender Equality and Family Welfare	14742,32,19,37
 Ministry of Gender and Family Promotion	12338,75
 Ministry's Family Health Division	9861
 Ministério da Mulher Família	11560
 Multiple Family Housing	11129
+Muslim Family Council	14714,1
 Need and Demand for Family Planning	14067
 Ngwempisi Constituency E. Restoring Family Links	12977
 OECD Family Database	8891
@@ -223,6 +255,7 @@ Política de Familia EJE ESTRATÉGICO	1701
 Política de Familia Erradicación	1701
 Política de Familia ODS	1701
 Popote Familiale	3045
+Port Louis Ministry of Gender Equality and Family	14847
 Prestações Familiares	5986,5481
 Procura de Planeamento Familiar	10777
 Programa Família	14191
@@ -247,10 +280,14 @@ SHARED FAMILY COST WRITING USING	11004,960
 SURVIVORS AND THEIR FAMILIES	12939
 Saúde Agregados Familiares Alimentação de Lactentes	10777
 Standards OASIS Web Services Notification Family	1009
+Statutory Bodies Family Fund Protection Board	14746
+Statutory Bodies Family Protection Fund	14738,8,101
+Statutory Bodies Family Protection Fund Board	14746
 TikTok Famille	6959
 Tondro Vanimpotoana Tompon’andraikitra Dingana Fampiasana	14490
 Tondro Vanimpotoana Tompon’andraikitra Fampiasana	14490
 UNFPA United Nations Family and Population Agency	10829
+Unit Ministry of Gender Eqality and Family Welfare	14770
 United Nations Family	13359
 United Nations Family and Population Agency	10829
 Usman Fambuleh Sierra Leone-based	5939

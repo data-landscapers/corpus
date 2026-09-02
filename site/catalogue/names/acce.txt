@@ -109,7 +109,7 @@ Acceded To The African Union Convention	1243
 Acceler8	12540
 Accelera Cloud Program	4144
 Accelerat-	8606
-Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652
+Accelerate	1814,71,2241,1119,91,1407,205,91,168,2866,357,704,6,717,59,48,250,145,36,4,94,70,117,295,337,2,104,69,381,154,652,49,25,4,66,1
 Accelerate AI	4126
 Accelerate AI Adoption	4126
 Accelerate AI Invest	4126
@@ -144,6 +144,7 @@ Accelerate E-Government Reforms Nigeria	4626
 Accelerate Fintech Innovation Jordan Kuwait Bank	5322
 Accelerate Home	10793
 Accelerate Human Capital for Youth	11879
+Accelerate Infostructure Growth	14752
 Accelerate Investment and Job Creation Press Release	11476
 Accelerate Its Development	2760
 Accelerate MSME Growth	7436
@@ -178,7 +179,7 @@ Accelerated Regulatory Incubation Programme	2826,5638,1491,200,406,182
 Accelerated and Inclusive Growth. Washington	10841
 Accelerates	12359
 Accelerates Its Digital Transformation	5125
-Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736
+Accelerating	411,1011,355,1614,65,31,117,1929,518,488,863,202,3114,422,53,3,273,278,467,19,45,51,70,164,196,587,522,15,55,736,55,16,74
 Accelerating AI	1814,3234,6092
 Accelerating AI Investment Figure	1814
 Accelerating AU Member States	1814
@@ -232,14 +233,16 @@ Accelerator Lab	11541,5
 Accelerator Lab Cabo Verde	11546
 Accelerator Lab Guinea Bissau	11541
 Accelerator Plan	13060
+Accelerator Scheme	14829
 Accelerators	1204,3768,7404,13,1085,550
 Accelerators Licensed	12444
 Accelerators and Incubators. Deals	4972
-Accenture	168,260,935,754,2317,2233,156,184,1576,2023
+Accenture	168,260,935,754,2317,2233,156,184,1576,2023,4170
+Accenture Panelists Mr. Veemal Gungadin CEO	14776
 Accept	961,4361,581,2300,3049,1933
 Accept All	3907
 Accept All CookiesReject Non-Essential Cookies Cookie	12336
-Accept Any Bid	13185
+Accept Any Bid	13185,1581
 Accept Decline	13363
 Accept Deny View	9769
 Accept Policy	2311,24,2424,534,491,122,44,63,100,100,180,14,352,339,157,80
@@ -293,7 +296,7 @@ Acceptée DECLA-0012	998
 Acces	14479
 Accesibilidad	1701
 Acceso	1701,2508
-Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52
+Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17,7,1,1,3,8,1,3,23,1,3,11,65,32,15,8,50,4,1,2,1,1,19,36,10,23,8,63,24,37,52,56,4,12,9,2,8,12,13,6,63,66,10,125,2,13,3,1,5,2,1,4,1,1,1,8,3,18,1,33,4,4,4,7,24,28,24,43,2,47,13,1,1,4,5,2,11,9,7,3,4,7,4,4,12,1,14,5,7,4,4,17,19,5,20,3,3,5,4,3,1,5,6,1,3,2,15,3,3,4,6,6,4,7,3,4,6,7,19,7,7,2,9,18,10,1,2,28,1,18,1,3,10,1,3,82,3,6,4,13,1,26,28,77,81,3,1,18,3,4,1,11,1,9,8,13,12,2,9,3,1,44,1,11,6,5,13,14,16,1,5,22,4,76,2,70,29,7,2,2,6,9,13,2,6,6,5,18,1,6,15,13,45,1,8,4,10,9,40,81,10,25,31,94,94,70,10,8,4,31,9,54,88,7,1,149,46,65,17,7,63,27,4,33,5,28,5,23,52,45,3,7,13,3,3,11,53,16,1,2
 Access API	10721
 Access Advertised Speed	3862
 Access Africans’ Data Raise Privacy	10446
@@ -377,6 +380,7 @@ Access Layer	10721
 Access Management	1686,922,3824,4289,510
 Access Management Network Security	6432
 Access Management Tier	10721
+Access Mauritius Official Statistics	14777
 Access Mechanisms	3972
 Access Method and Physical Layer Specifications. Amendment	3604
 Access Mgmt	10721
@@ -386,6 +390,7 @@ Access Municipality	11986
 Access National Database The Authority	10280
 Access Network	12536
 Access Network Expansion	12937
+Access Networks	14723
 Access Now	1156,481,317,163,358,1097,1664,1714,197,27,1908,1997
 Access Partnership	4982,5606
 Access Per Province Eastern Cape	11890
@@ -453,10 +458,10 @@ Access-to-Information Act. Pertaining	12932
 AccessNow	14278
 AccessTech Innovation and Research Centre	12038
 AccessTrade	3779
-Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44,100,60,28,209,43,609,41,85,144,5,103,9,2,68,51,936,2,147,163,367,443
+Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44,100,60,28,209,43,609,41,85,144,5,103,9,2,68,51,936,2,147,163,367,443,339
 Accessed Feb	12376
 Accesses	9739
-Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,708
+Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226,1588,15,98,788,34,23,163,44,49,97,5,128,51,22,18,10,99,246,20,42,36,32,60,198,123,52,32,74,708,489,4,1
 Accessibility Advocacy	4126
 Accessibility Digital IDs	12209
 Accessibility Display	9429
@@ -464,6 +469,7 @@ Accessibility Ensure AI	14566
 Accessibility Gap	12214
 Accessibility Guidelines	11952
 Accessibility Interoperability	13042
+Accessibility LO O O LO LO	14777
 Accessibility Policy	11216
 Accessibility Requirements Feature Requirement Standar	11952
 Accessibility Testing	11952
@@ -473,6 +479,8 @@ Accessibility Toolbar Keyboard Navigation Disable Animations	11539
 Accessibility Tools Increase Text Decrease Text	12322
 Accessibility UI Standards	11952
 Accessibility and Clarity	13310
+Accessibility and Gender Compliance	14742
+Accessibility and Inclusion	14812
 Accessibility and Standards	7548
 Accessibility and Universality	10775
 Accessibility of Credit Reporting Agencies	12389
@@ -483,7 +491,7 @@ Accessibility. Robustness. Integration and Regulated Access	12533
 Accessibilité	1187,5030,4491,139,118,10,2315,84,68,36,232,131,647,1,1,47
 Accessibilité du Système	5135
 Accessibilité. II.4 Objectifs II.4.1 Objectif	13341
-Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87,942,421,179,506,5,115,41,278,405,382,1033
+Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87,942,421,179,506,5,115,41,278,405,382,1033,295
 Accessible Data	11854
 Accessible Despite	12092
 Accessible Digital Civic Participation for Blind Communities	14284
@@ -509,11 +517,12 @@ Accessing Maps Phase Local Government Areas	11129
 Accessing Notices	12389
 Accessing Road Transport and Safety Agency	12381
 Accessing Services	11940
+Accessing VAT	14784
 Accessing the Internet	13988
 Accessing the NIRA	1916
 Accessing the Registry	13333
-Accession	3583,8352,2214,1
-Accessories	13385
+Accession	3583,8352,2214,1,579,110
+Accessories	13385,1393
 Accessto Computers and E-mail Use All	12325
 Accesstotheseinsightsbeforeteachingbe-	8602
 Achievement of SDGs.’ Accessed	12376
@@ -530,7 +539,8 @@ Africa AI Accelerator Program	4126
 Africa Acceleration Program	10476
 Africa Blue Economy Accelator Programme	11283
 Africa Blue Economy Accelator Programme Africa	11283
-Africa Blue Economy Accelator Programme for Youth	11283
+Africa Blue Economy Accelator Programme Continental	14724
+Africa Blue Economy Accelator Programme for Youth	11283,3441
 Africa Digital Access and Public Infrastructure for Trade	6344,25,2052,614
 Africa Fintech Accelerator	1022
 Africa Initiative for Medical Access and Manufacturing	11468,1
@@ -564,6 +574,8 @@ Arrangement and Request for Augmentation of Access	11105
 Artificial Intelligence Radio Access Network	14391
 Artificial Intelligence. Accelerating	7337
 Assess the Livelihood Impact of Electricity Access. Nature	12006
+Assisted Digital Access Scheme	14752
+Assisted Digital Access Scheme. National Digital	14752
 Assurance Body Accelerated	7548
 Attribute Based Access Control	6423
 Attribute-Based Access Control	11952
@@ -580,6 +592,7 @@ BC Access	9955,204
 BID ACCEPTANCE All Bids	11240
 BN TO SUPPORT UNIVERSAL ACCESS	8730
 BOOSTING ACCESS TO ELECTRICITY	11136
+BOP and IIP. Accessibility	14777
 BPMJ-06-2023-0465 Open Access Page	9237
 BROAD ACCESS TO ARTIFICIAL INTELLIGENCE APPLICATIONS	7362
 BROADBAND AND DATA ACCESS AND USE	961
@@ -616,6 +629,7 @@ Botswana Renewable Energy Support and Access	12553
 Botswana's Renewable Energy Support and Access Accelerator	12553
 Bridge Open Access	9486,86
 Brighter Future for Energy Access Today	13795
+Broad Band Access	14729
 Broadband Access	6414
 Broadband Access But Don't Use	12214
 Broadband Access for All	3456
@@ -638,6 +652,7 @@ Burkina Faso Expands Digital Access	4914
 Burundi. Access	13314
 C- Access	7548
 C- Universal Access SDG	11863
+C. Access	14714,1
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. TEEVAN Open Access	11155
 CABLES AND ACCESSORIES LIMITED Data Controller	7167
@@ -666,6 +681,7 @@ CONNECTIVITY Access and Usage Survey	12395
 CONSULTATION PAPER ON ZERO-RATED ACCESS	6748
 COVERED DATA SYSTEM ACCESS L. Purpose	3972
 COVID-19 Accelerated Grant	12175
+CPI Accessibility	14777
 CULTIVING NEW Validé Acceptée FRONTIER	998
 CV Labs Accelerator	10810
 Cadastre Accepted Payments	12511
@@ -677,6 +693,7 @@ Carrier Sense Multiple Access	3604
 Catalysing Renewable Energy Access and Transition	13054
 Center for Access	11541
 Center for Global Development. Accessed	5700,6676
+Centre CAP Community Access Points ICT	14723
 Centre To Accelerate Data-Driven Economy	12572
 Centres for Access	11586
 Century Skills Reliable Infrastructure Robust Accelerators	1204
@@ -734,6 +751,7 @@ Connectivity and Access	2001
 Connectivity and Access The United Nations	12325
 Const2010. Accessed	12143
 Construcción de Acceso	4209
+Construction of Access Road	14830
 Construction of Asphalt Access Road	11134
 Consumer Access and Experience	5676,2,1
 Content Accessibility Guidelines	12227
@@ -747,6 +765,7 @@ Covered Data Systems Access and Reports	3972
 Cultural Organization UTAUT Unified Theory of Acceptance	14666
 Customer Acceptance Form Tabulated	9124
 Customer Acceptance Policy	13961
+Customs Data Access and Reporting	14793
 Cyber Accelerated Maturity Program	6936
 Cybercrime. Accepted	10911
 D The Network Access Support Project	182
@@ -776,7 +795,7 @@ Data Access ACHPR Res	6086
 Data Access Failure Ratio	5744
 Data Access Robust AI Adoption Applied	4126
 Data Access and Interoperability	961
-Data Accessibility	12356
+Data Accessibility	12356,2421
 Data Exchange for Improved Access	11940
 Data Exchange for Open Access Data Products	11222
 Data Management and Accessibility	12356
@@ -860,6 +879,7 @@ Digital Pay-As-You-Go Access	717
 Digital Platform Structure and Access	9855
 Digital Schools Access Fund	4619
 Digital Skills Accelerator Self-Assessment Tool	11918
+Digital Subscriber Line Access Multiplexer	14723
 Digital Transformation Acceleration Program	6444,1140
 Digital Transformation Acceleration Project	1641,84,1507,81,610,1068,1100
 Digital Transformation Accelerator Project	3763,14
@@ -883,6 +903,7 @@ Distribution and Access Project. Budget	1538
 Diversification Drive.’ Accessed	12376
 Division Multiple Access CEA CHU CIP2	13290
 Documents Access	13042
+Domestic Connectivity Network Access Providers	14723
 Dominican Republic. Accelerates	1090
 Doubling of Online Services Universal Access	13314
 Download Trust Privacy Terms Accessibility	9429
@@ -939,6 +960,9 @@ Electricity Access Expansion	12388,666
 Electricity Access Rollout Program	12358
 Electricity Access Rollout Program EDCL	12358
 Electricity Sector Strengthening and Access Project	988,9869
+Element Weights Elements of Accessibility	14777
+Element Weights Elements of Accessibility ROSC Rating	14777
+Element Weights ROSC Rating Data Accessibility	14777
 Eligibility for Zero-rated Access The Joint Committee	6748
 Emergency Electricity Supply and Access Project	10857
 Emerging Accelerator Educational and GPU and AI	7548
@@ -961,6 +985,7 @@ Enhanced Access	4653,6065
 Enhanced Access. New Access	4653
 Enhanced Digital Accessibility Index	12948
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
+Enhanced User Experience and Accessibility	14761
 Enhancing Access	12701
 Enhancing Citizens Access	13331
 Enhancing Digital Access and Community Resilience	2163
@@ -971,9 +996,10 @@ Enhancing Financial Innovation and Access	8292
 Enhancing Women’s Access and Usage	10856
 Ensure Access	4528,7329,655
 Entrance Rooms Access	9123
-Equal Access	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
+Equal Access	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135,2254
 Equal Access and Treatment of Different PSPs	12389
 Equinix and Open Access Data Centres	2320
+Equipment Accessibility	14773
 Equitable Access	899,11006,451
 Equitable Access for Displaced Populations	10776
 Estimate the Livelihood Impact of Electricity Access	12006
@@ -996,6 +1022,7 @@ Expanding Access	12674,1008
 Expanding Access Beyond Smartphones AI	4625
 Expected Impact Accelerate Benin	10856
 Experts Find Accessing Finance for Digital Transformation	12214
+Extension of MAUPASS for Corporate Access	14761
 F. DELCROS Open Access	11154
 FACTOR CURRENT IMPACT Access	11994
 FG Launches Digital Acceleration Programme	8824
@@ -1031,6 +1058,8 @@ Financial Access and GDP Per Capita	1828
 Financial Inclusion Access	13347
 Financial Inclusion and SME Access	1600
 Fintech Portfolio And Expanding Access	13778
+Fintech-specific Incubators and Accelerators	14819
+Fintech-specific Incubators and Accelerators Review	14819
 Firewalls and Access Controls	10721
 Fixed Broadband Networks Access	718
 Fixed Fixed Application Fixed Wireless Access	736
@@ -1050,6 +1079,7 @@ Foundations for Accelerated Digital Transformation	2989,1664,2180
 Foundations for Accelerated Digital Transformation Component	1228,1761,1664
 Foundations for Accelerated Digital Transformation Page	2989
 Francistown. Improve Access	12552
+Free Access	14828,3
 Free Internet Access	11529
 Freedom of Expression and Access	769,3655,329,4329,334,244,1435
 Frontier Acceleration	12053
@@ -1062,6 +1092,8 @@ GCP Accelerating Digitalization	14456
 GCT Pilots. Accessed	6947
 GDP Signal Strong High and Acceptable Moderate	11134
 GENDER-ENERGY NEXUS Access	11572
+GFS Accessibility	14777
+GFS Accessibility Additional Recommendations	14777
 GIRLS' EDUCATION ACCELERATOR Submitted By Federal	13999
 GLOSSARY Term Definition Access Control Role-based	12675
 GMR2025 SOTI.pdf. Accessed	9739
@@ -1130,6 +1162,7 @@ ICT ACCESS	582
 ICT Acceptable Use Guidelines and Procedures	12453,892
 ICT Access	582,579,12514
 ICT Access Affordability Supply-side Infrastructure	14098
+ICT Access and Use	14723
 ICT Access and Use Survey the Mobile	12395
 ICT Accessibility Standard	6946
 ICT Accessibility and Assistive Technologies	11935
@@ -1146,6 +1179,7 @@ IEEE Access	6948,1182,476
 IGNITE Digital Economy Incubator and Accelerator Programme	9198
 IGO Open Access	5618
 III.I Access	1597
+IIP Accessibility	14777
 IMF Financial Access	1828
 IMF Financial Access Survey	1828,11486
 IMPROVING ACCESS TO EDUCATION AND LEARNING	11897
@@ -1176,7 +1210,8 @@ Impact of Electricity Access	13624
 Impact of Rural Electric Access	13624
 Implement Open Access	11857
 Implementation of Zero-Rated Access	6748
-Improve Access	182,12278,92
+Improve Access	182,12278,92,2277
+Improve Accessibility of MFS	14777
 Improve Accessibility of Schools	11918
 Improve Data Accessibility	5244
 Improve Infrastructure and Technology Access	12675
@@ -1185,6 +1220,7 @@ Improved Access To Quality Essential Health	10776
 Improvement Of Access To Justice	12668
 Improvement of Data Accessibility and Presentation	11918
 Improving Access	10347,2082,100,145,297
+Improving Accessibility	14773
 Improving Better Access	11994
 Improving Digital Infrastructure and Access	14050
 Inclusion Access	13042
@@ -1246,6 +1282,7 @@ Investment Accelerator	11356
 Investment and Access	10841
 Ivoire Accelerates Digital Push	6662
 Ivoire RESULTS ACCELERATION PROGRAM FOR INCLUSIVE	3604
+J. Access	14843
 JIRAMA. The Accelerating Sustainable and Clean Energy	14603
 Jobs Accelerator Project	13510
 July2025 Accepted	8603
@@ -1274,10 +1311,13 @@ LAST MILE ACCESS	12563
 LDCs. Accelerating	11572
 LEGAL TECH MEETING AFRICA LAW ACCES	10996
 LIT Access	2024
+LO Metadata Accessibility	14777
 LOCAL INFORMATION BATTERY SUPPORT ACCESS APPROVE	11964
 La Chaire UNESCO ACCES-TIC	8906
 Land Platform Accessibility Physical	12211
 Land Platform Features Cloud-Based Access	12211
+Land Use and Access	14818
+Land Use and Access Limited	14818
 Last Mile Access Monitoring	12399
 Last-Mile Access	4993
 Latin-1. Accented	10980
@@ -1287,7 +1327,7 @@ Le Tech Talent Accelerator	8894
 Learn English. Accessed	13991
 Legal Access	6432
 Less-Privileged and Women’s Access	11857
-Letter of Acceptance	13185
+Letter of Acceptance	13185,1593
 Leverage the Universal Access Fund	5244
 Leveraging Fibre for Accelerated Development	11132
 Limited Access	1988
@@ -1308,8 +1348,12 @@ M P504693 Rural Access and Agricultural Marketing	11469
 MALAWI DIGITAL READINESS ASSESSMENT Access Enablers	12214
 MANGA SECURITE Validé Acceptée Welthunger Hilfe	998
 MARKET ACCESS	1243
+MAURITIUS Accessibility	14777
+MAURITIUS D. Accessibility and Supporting Information	14777
 MDAP Mozambique Digital Acceleration Project MEF	4214
 MFA and Conditional Access	10617
+MFS Accessibility	14777
+MFS Accessibility Alignment	14777
 MHz Access Networks	736
 MHz Wireless Access MHz	736
 MILE ACCESS	12399
@@ -1348,15 +1392,18 @@ Market Access and Trade Facilitation	4167
 Market Access for African	5247
 Match Acceptance Threshold True Matches False	8604
 Matcher Accelerator Service	13005
+Mauritius Personal Access	14742
 Mauritius. Accelerators of Progress Gender Equality Systemic	11332
 Measuring Energy Access	11136
 Media Access Control	4274
 Media Access Control Parameters	3604
+Media Library News Events E-Services Accessibility	14721
 Medium Term Outcomes Access RA1	11905
 Meet the Google for Startups Accelerator Africa Class	5875
 Method of Value Access UN United Nations	13312,2
 Microsoft Access	12408
 Microsoft's AI Access Principles	2523,2
+Microwave Access	14723
 Million Digital Malawi Acceleration Project	14674
 Mineral Access Concessions	6534
 Minimum Access Conditions	5620
@@ -1384,6 +1431,7 @@ Mozambique Mozambique Digital Acceleration Project TABLE	4653
 Ms Access	2966
 Mukasa G. Access	12231
 Multi-Service Access Nodes	54
+Multilateral Treaties Date of Accession	14742
 Multiple Access CDSC Central Depository and Settlement	2775
 Murang'a Digital Healthcare Access	6394
 MÉDICAMENT ET APPOSEZ VOTRE SIGNATURE. ACCEPTÉ	13300
@@ -1402,6 +1450,7 @@ Namibia Access	1025
 Namibia’s Access	14343
 National AI Compute Access Programme	7548,1241
 National Access	3861,8497
+National Assembly. Access	14742
 National Authentication and Access Control Service	12455,1251
 National Data Centres and Connectivity Accessories	12253
 National Data Centres and Connectivity Accessories Under	12253
@@ -1415,7 +1464,7 @@ National System of Innovation OA Open Access	5246
 Nationality Access	12217
 Nationwide Energy Access Survey	11136
 Nature. Accessed	5700
-Network Access	10721
+Network Access	10721,4002
 Network Access Control	11986,1067
 Network Access Support Project	182
 Network Reinforcement and Access Project	12388
@@ -1457,8 +1506,9 @@ Open Access Data Centres Expands Footprint	11243
 Open Access Data Centres Rondebosch	9617
 Open Access Data Centres and Digital Parks	8263
 Open Access Initiative OA2020	5246
+Open Access Journals DOI Digital Object	14747
 Open Access Page	9128,1,108
-Open Access Policy	11857
+Open Access Policy	11857,2866,29
 Open Access Review	12837
 Open Access System	9129
 Open Access TABLE	9237
@@ -1489,14 +1539,18 @@ PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PILLAR III LAST MILE ACCESS PILLAR	12399
+PPI Accessibility	14777
+PPI Elements of Accessibility	14777
 PRINCIPLE OF ACCESS	14434
 PRINCIPLE OF ACCESS Access	14434
 PRINCIPLES Person Centred Focus Expanded Access	396
 PRODUCTS COMMERCIALIZED ACCESS TO ENERGY	11586
 PROJECT RESTRUCTURING OF Mozambique Digital Acceleration	4653
+PROTECTION OF HUMAN RIGHTS ACCEPTANCE	14742
 PUBLIC INTERNET ACCESS	4661
 PWD Access	2775
 PWDS Accessibility	6946
+Packet Access	14723
 Paratus Essential Access	6394,2,3916,3379
 Paratus Essential Access and Starlink	6394
 Partnership for Digital Access	13258
@@ -1527,6 +1581,7 @@ Postal Network Secure Employment Opportunities Access	10759
 Powers of Access	2913
 Pragmatics of Access	12227
 Preferential Market Access for Women and Youth	7142
+Primary School Supplementary Feeding Project. Access	14742
 Principle of Access	14434
 Privileged Access Management	10616,1,614
 Program Officer for KICTANet Digital Accessibility for PWDs	7609
@@ -1608,6 +1663,7 @@ Regional Entrepreneurship Acceleration Programme	12589
 Regional Financial Access Acceleration Team	11994
 Regional Off-Grid Electricity Access Project RPF	11549
 Regional Open Access Model	11857
+Regulation and Land Access	14818
 Related Stories Why Internet Access Needs	12336
 Reliable. Secure. Accessible	9478
 Remote Access Control	10721
@@ -1625,6 +1681,7 @@ Research ICT Africa After Access	544
 Resource Mobilization Guide. Accessed	13991
 Resources Access	7972
 Resources Resources Access	9067
+Restricted Access	14777
 Restricted Data Access	3861
 Restricted Physical Access Physical	12364
 Results Acceleration Program For Inclusive Digitalization	3604
@@ -1693,6 +1750,7 @@ Second Schedule. Access	587
 Secrecy RBC Role-Based Access Control	11952
 Securely and Remotely Access Services	11940
 Security and Access Control	10157
+Security and Data Protection Accessibility Decision Making	14790
 Senegal Digital Economy Acceleration Project World	1190
 Senior Director for Market Access Ryan Goodnight	6247
 Senior Director of Market Access and Development Ryan	10589
@@ -1718,6 +1776,7 @@ Site Accelerate Acquisition	11857
 Site Access	9123
 Smart Device Access	1284
 Smart Device Access Scheme Manual	13331
+Smooth Access	14752
 Software-Defined Intelligent Access	3897
 Somalia Financial Access Survey Report	11730
 Somalia. Access	11136
@@ -1735,7 +1794,9 @@ Starlink Market Access Director for Africa	6262
 Starlink's Director for Market Access	4547
 Statistical Data Dissemination and Access	14115
 Statistics Access	13704
+Strategic Positioning Accelerate Public	14819
 Strategy of Accelerated Growth and Promotion of Employment	11529
+Strengthen Access	14819
 Strengthening Digital Access and Inclusive STEM Education	13671
 Sub-Brands WIOCC Open Access Fabric Open	11243
 Sub-Saharan Africa. Access	11140
@@ -1746,6 +1807,7 @@ Sudan. Acute Food Insecurity Analysis. Accessed	6947
 Sudan. Institute of Development Studies. Accessed	6947
 Sudan’s Hunger Crisis. Accessed	6947
 Support Access	13938
+Support Accessible and Inclusive Digital Finance Products	14819
 Support Trade Fairs Accelerator	12376
 Support the Access	13938
 Support the Promotion of Access	118
@@ -1819,6 +1881,8 @@ Transforming Lives Through Digital Access	3783
 Transport Network Access	10759,78,1315,188
 Trusted Digital Channel for Accessing Government	11940
 Turning Access	7874,410
+Type of Internet Access	14723
+Type of Internet Access Broadband Internet	14723
 U.S. Demands To Access Africans' Data	7750
 U.S. Government Access	4154
 UAF Universal Access Fund WCDMA Wideband	718
@@ -1907,7 +1971,7 @@ Use Cases and Accessibility	11130
 Use of Expired Access	14546
 User Acceptance	34
 User Acceptance Test	13185
-User Acceptance Testing	9680,694,760,107,1796,929,219
+User Acceptance Testing	9680,694,760,107,1796,929,219,576
 User Acceptance Testing RAASA Refugee Appeals	11986
 User Acceptance Testing UN United Nations	11192
 User Acceptance Testing UN-IGIF United Nations	11261

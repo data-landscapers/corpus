@@ -6,6 +6,7 @@ ACKNOWLEDGEMENT Education Management Information System	11860
 ACORN INVESTMENT MANAGEMENT LIMITED Data Processor	7167
 ACORN MANAGEMENT SERVICES LIMITED Data Controller	7167
 ACTION PLAN FOR SPECTRUM MANAGEMENT	5245
+ADMINISTRATION AND MANAGEMENT OF COUNCIL	14735
 AFC Africa-Focused Technology Fund Managers	4450
 AFRA Annual Management Meeting	5755
 AFRICA MANAGEMENT SOLUTIONS LIMITED Data Controller	7167
@@ -157,6 +158,7 @@ Approved By Practice Manager	10963,3613
 Aptivaa Management Consulting LLC Data Processor	7167
 Archives and Record Management and Statistics	13972
 Areas Management	789,172
+Arrears Management	14761
 Asbestos Management Plan	1988
 Asbestos Waste Management Plan	1988
 Asbestos Waste Management Plan Electronic Waste	1988
@@ -164,16 +166,19 @@ Asia Pacific Journal of Management	9129
 Asian Journal of Social Science and Management Technology	6948
 Aslib Journal of Information Management	5349
 Assessment and Management of E&S Risks and Impacts	1264
-Asset Management	9098,1452
+Asset Management	9098,1452,4188,81
 Asset Management Corporation LCOE Levelized	12233
 Asset Management Corporation of Nigeria	8157,134
 Asset Management Plan	11218
+Asset Manager	14828,3
 Asset Managers	4896,8636
+Asset Recovery and Management Division	14742
 Asset and Risk Management	10721
 Asset and Risk Management Tier	10721
 Assimilés SMQ Système de Management	10712
 Assistant Commissioner Health and Information Management	3005
 Assistant Communications Manager	12856
+Assistant Manager	14746,89
 Assisting the Site Manager	12253
 Association The Environmental Social Management Framework	1867
 Association of Economists and Managers	4432
@@ -222,6 +227,7 @@ BASIC EDUCATION KENYA EDUCATION MANAGEMENT	14670
 BEAM Management Information System	13420
 BFA Asset Management	5589
 BFREE AFRICA CREDIT MANAGEMENT LIMITED Data	7167
+BHATOOHAUL Hemlata Office Management Executive	14770
 BIKERS INFORMATION MANAGEMENT SYSTEM Data Controller	7167
 BIKERS INFORMATION MANAGEMENT SYSTEM Data Processor	7167
 BIO-key’s Managing Director for International	5140
@@ -236,6 +242,7 @@ BPR Bank Rwanda Managing Director and CEO	8682
 BRB's Payment Systems Management Department	2745
 BRIDGE TALENT MANAGEMENT LIMITED Data Processor	7167
 BURS Customs Management System	12633
+BUSGEET Bibi Razia Programme Manager Central	14770
 Baison Banda Financial Management Specialist	13392
 Bank Environmental Management Act	1988
 Bank Group's ICT Operations Division Manager	10715
@@ -249,6 +256,8 @@ Bank. D. Financial Management	2989
 Bank. Our Risk Management Approach	11131
 Barbados National Identity Management System	10714
 Based Management System	12214
+Basic Camp Management	14738
+Basic Requirements. Sustainable Tourism Management System	14736
 Batista de Sousa Hospital. GOV Websites Management	11939
 Belgian EDFI Management Company	4972
 Best Environmental Management Practice	3604,2935
@@ -280,7 +289,7 @@ Border Management Authority	2681,11,251,1690,514,386,343,320,1318,1562,159,15,44
 Border Management Authority Act	5533,5685,61,707
 Border Management Border Management Authority and Department	11986
 Border Management Committee	13673
-Border Management System	13405
+Border Management System	13405,1425
 Border Management and Immigration Anti-Corruption Forum	2626
 Border Management and Trade Facilitation	13403
 Border Management and Trade Facilitation Act	13403
@@ -296,6 +305,7 @@ Botswana National E-Waste Management Strategy	7239
 Brand Management	13053
 Breach Management	13381
 Breach Management Requirement	13381
+Breeding Stock and Reproductive Management	14818
 Brenda Maniraguha Project Manager	5064
 Britam Asset Managers	7167
 Britam Uganda Managing Director Allan Mafabi	7591
@@ -306,6 +316,7 @@ Building Permit Management Information System	3243,10175
 Building Trust Through Responsible Management	13510
 Building Trust and Managing Risk	11140
 Bureau Management	12900
+Bureau. The General Manager	14736
 Business Continuity Management	10721,410,3,1404,413,10,76
 Business Continuity Management Plan P2-6. Management	12500
 Business Continuity Management System	2350,8781,3
@@ -320,7 +331,7 @@ Business Enterprise Managers Major Causes of Skill	12445
 Business Enterprise Managers Skill	12445
 Business Enterprise Managers Technical	12445
 Business Enterprise Managers Technical and Practical Skills	12445
-Business Management	6946
+Business Management	6946,7873
 Business Management Econet Park	4896
 Business Management Tool	38
 Business Management and Artificial Intelligence	9360
@@ -328,6 +339,7 @@ Business Operations Business Rules Management	13042
 Business Process Management Journal	9129,108
 Business and Management Research	5244
 Business and Management. SAGE Publications	5349
+C. Doobaly Office Management Executive	14835
 C. FINANCIAL MANAGEMENT	11863,2075
 C. Financial Management	2889,8636,338,102
 CAC Cost Management Framework	6432
@@ -409,6 +421,7 @@ Capital Markets Management Buyout	4972
 Career Management Office	7973
 Cargo Management	13042
 Case Management	10776,1715,882,1143
+Case Management Approach	14742
 Case Management Conference	14675
 Case Management Module	13373
 Case Management System	5642,3032,304,805,2606,221,83,243,144,15,1410
@@ -423,13 +436,19 @@ Catalog Management	13042
 Cemetery Management	11941
 Centenary Bank Managing Director Godfrey Byekwaso	3035
 Center Manager of National Integrated Cyberinfrastructure	5439
+Central Informatics Bureau Project Management Team	14725
+Central Information Management System	14809
 Central Management System	13005
 Central Regional Manager	13044
 Central Watch and Management System	259
+Centralised Information Management System for AML	14809
 Centralised Management Software	11209
 Centralized User Management System	12241
 Centralized User and Device Management	12241
+Centrally Managed Initiatives of Government	14830
+Centre Manager	14753
 Centre Manager Chisenga Evans	9137
+Centre Manager Report. Visual	14753
 Certificate Management System	5983,963
 Certified Information Security Manager	1940,11406
 Certified Information Security Manager COP Child	13346
@@ -501,6 +520,7 @@ Climate Resilience and Natural Resource Management	970
 Climate Risk Management	11134,2340
 Climate Risk Management Guidelines	11134
 Climate Risk Management and Recovery Planning Guidelines	8377
+Climate-related and Environmental Financial Risk Management	14744
 Clinic Doctor Risk Manager Technology Manager	8603
 Clinic Information Management System	12569
 Clinical Patient Management System	10188
@@ -511,6 +531,7 @@ Cogent Bus Manag	10780
 Cogent Business and Management	1248,6511
 Coin Management	11134
 Cold Chain Management	9855
+Collective Management Organisation CMS	14742
 Collective Management Organisations	10562
 College of Economic and Management Sciences	7278
 College of Economic and Management Sciences CRERC	7278
@@ -528,6 +549,7 @@ Committees and Meetings Management	11231
 Commonwealth and Development Office FM Financial Management	10768
 Communication Technology Project Manager	12935
 Communication World Geodetic System Management	1009
+Communication and Knowledge Management	14723
 Communication and Management	4127
 Communications Management	12977
 Communications Management The NDMA	12977
@@ -542,7 +564,7 @@ Competition Management Tel	6671
 Competition Management and Consumer Affairs	1797,1413,3880
 Complaint Management System	13095
 Complaint Management System Report	12241,839,15
-Complaints Management	1988
+Complaints Management	1988,12792
 Complaints Management Manual	12301
 Complaints Management System	12693
 Compliance Management	10721,2230
@@ -587,6 +609,9 @@ Contracts Management and Project Accounting	11231
 Contributors Ivan Skenderoski Managing Partner Greg	14621
 Control Management BBBEE Broad Based Black	5533
 Control Quality Management System Rapid Testing	4153
+Control Room Mobilization Management System	14738
+Control and Mobilising Management System	14738
+Control and Mobilising Management System The MFRS	14738
 Controller and Accountant-General. Management	587
 Converged License Management System	718
 Converged Licensing Management System	718
@@ -606,6 +631,7 @@ Cost Management	6432,5563
 Cost Management FPIs	11995
 Council M&E Monitoring and Evaluation MPAT Management	11224
 Council Management System Modernization	11231
+Council Project Management	14738
 Country Management Unit	11855,2155
 Country Management Unit and ESF	10768
 Country Management Units	10841
@@ -649,7 +675,7 @@ Customer Relationship Management	4527,2668,5164,623
 Customer Value Management	6100
 Customers IT Infrastructure Resources Management	9123
 Customs Management Information System	10785
-Customs Management System	12539
+Customs Management System	12539,2179,71
 Customs Operations Manager Ms. Lorina Seady	13042
 Customs Risk Management System	11036
 Customs. WCO Risk Management Compendium WCO	13051
@@ -659,10 +685,14 @@ Cyber Crisis Management Incident Management	10721
 Cyber Crisis Management Plan	10721
 Cyber Crisis Management Tier	10721
 Cyber Risk Management	10721
+Cyber Risk and Technology Risk Management	14744
 Cyber Security Management	6946
 Cyber Security Monitoring and Management	6946
 Cyber Security Risk Management Frameworks and Measures	12364
 Cyber and Information Risk Management Guidelines	13532
+Cyber and Technology Risk Management	14834
+Cyber and Technology Risk Management Guideline	14819
+Cyber and Technology Risk Management International Trade	14819
 Cybercrime Management System	1777
 Cybersecurity Crisis Management Plan	10721
 Cybersecurity Crisis Management Plan CIRMR-CCMP.S8	10721
@@ -673,6 +703,7 @@ Cybersecurity Risk Management Operations	6832
 Cybersecurity Risk Management and Compliance Framework	5947
 Cybersecurity Supply Chain Risk Management	6936
 Cybersecurity Unit Manager	8276
+D Boygah General Manager MSB	14736
 D Change Management XUA Cross-Enterprise User	1009
 DATA MANAGEMENT AND SYSTEM INTEGRATION	12389
 DATA MANAGEMENT Data	14004
@@ -697,6 +728,7 @@ DIRECTORS AND MANAGEMENT	4896
 DISEASE MANAGEMENT PREVENTION AND PROMOTION SURVEILLANCE	2709
 DISPLACEMENT MANAGEMENT	12779
 DMAP Project Manager Chimwemwe Matemba	13114
+DMO Data Management Unit	14790
 DRAFT OFFICIAL IDENTITY MANAGEMENT POLICY	11977
 DRC. The Surveillance Outbreak Response Management	12003
 DSMLv2 XDS Affinity Domain Change Management	1009
@@ -719,10 +751,12 @@ Data Ecosystem Management Policy Objective	7548
 Data Ecosystem Management Policy Statement	7548
 Data Lifecycle Management	11952
 Data Lifecycle Management Requirement	11952
-Data Management	262,600,1554,8713,291,532,1233,582,327
+Data Management	262,600,1554,8713,291,532,1233,582,327,658
 Data Management Committees	13636
 Data Management Framework	1243
 Data Management Government	12453
+Data Management Office	14752,38
+Data Management Office DPA Data Protection	14790
 Data Management Oversight Institutions	5244
 Data Management Oversight Institutions Data	5244
 Data Management Policy	6623,3669,2383,39,1752,4
@@ -734,6 +768,7 @@ Data Management Strategy	12214
 Data Management System	12227
 Data Management Systems	12551
 Data Management Team	10840
+Data Management Unit	14752,38
 Data Management and Accessibility	12356
 Data Management and Data Controls	6432
 Data Management and Maintenance	11129
@@ -749,6 +784,7 @@ Data Risk Management	5244
 Data and Evidence Education Management Information System	11907
 Data and Information Management	11237
 Data-Driven Management	14470
+Database Document Management	14738
 Database Management	11129,1020,1207
 Database Management Department	7159
 Database Management System	13037
@@ -763,10 +799,12 @@ Debt Management Report	14546
 Debt Management System	10785
 Debt Management System I-13	10785
 Debt Management System PFM Public Financial	11863
+Debt Management Unit	14777
 Debt Management and Financial Analysis System	13966
 Deeds Registration and Information Management System	12962
 Defect Management	5665
 Delivery System Strengthening and Project Management	11988
+Demand Side Management Master Plan and Action	14745
 Democracy and Election Management	13561
 Demographic and Health Survey EMIS Education Management	13681
 Dena Ringold Practice Manager	10829,135
@@ -806,6 +844,7 @@ Design Criteria Standard for Electronic Records Management	11349
 Design for Greater Efficiencies EDGE Financial Management	11417
 Designing and Managing	11006
 Despite Management	14546
+Destination Management Company	14736
 Details Managed	4434
 Develop Public Service Management Information Systems	12453
 Develop and Implement Labour Management Procedure	1988
@@ -840,6 +879,7 @@ Digital Marketing Manager	2888,32,354,504,1444,877,6,74,26,39,1,640,129,293,115
 Digital National Education Management Information System	12061
 Digital Public Goods Aid Management Platform	13095
 Digital Self-Care and OTC HPTs Management	9855
+Digital Signature Identity Management	14752,38
 Digital Technologies and Financial Management APCICT	11017
 Digital Transformation Change Management Strategy	13345
 Digital Twin Management	7573
@@ -876,8 +916,10 @@ Disaster Management Act No	6168
 Disaster Management Agency	12977
 Disaster Management Agency NERCHA National Emergency	12970
 Disaster Management Authority	12977
+Disaster Management Centre	14748
 Disaster Management Committee	7695
 Disaster Management Department	12931
+Disaster Management Honourable Members	14748
 Disaster Management Personnel Costs	12977
 Disaster Management Programme	11230
 Disaster Management Services	7538
@@ -894,9 +936,11 @@ Disaster Risk Management Division	11721
 Disaster Risk Management Emergency Events Database	10763
 Disaster Risk Management Information System	12241,839,15
 Disaster Risk Management Systems	13080
+Disaster Risk Management This Annual Report	14738
 Disaster Risk Management and Adaptive Safety Nets	10763
 Disaster Risk Management and Governance	12977
 Disaster Risk Management and Governance A. Strategy	12977
+Disaster Risk Management. The NDRRMC	14738
 Disaster Risk Reduction and Management	12779,193
 Disaster Risk Reduction and Management Act	12779
 Disaster and Risk Management Mauritius National Assembly	11332
@@ -914,12 +958,13 @@ District Health Management Teams. Citeseer	1261
 District Manager	11129
 District Postal Manager	11129
 Division Human Resource Management and Development	12920
+Division LIMS Laboratory Information Management System	14773
 Division Manager	10718,1145,2803
 Division Supply Chain Management	11188
 Divisional Manager	13031
 Djibouti Overall Management Response	13858
 Document Management	6432,4799
-Document Management System	6432,4799
+Document Management System	6432,4799,3599
 Documentation and Project Management	11209
 Domain Management and Regulation	4487
 Domestic Markets Sharon Magagula Talent Management	11131,3
@@ -933,6 +978,7 @@ Draft Public Finance Management	14599
 Driver Vocational Cards Management System. Transport	718
 Driver's Vocational Card Management System EMF	718
 Driver’s Vocational Card Management System	718
+Driving OSH Management System	14761,74
 Drone-Based Disaster Management Project	10219
 Drought Management Plans	12977
 Drug Management Agencies	4301
@@ -978,6 +1024,7 @@ EMA Environmental Management Act ESCP Environmental	1988
 EMIS Education Management Information System	11860
 EMIS Education Management Information System GNI	11552
 EMS Energy Management System ERR Economic	11549
+EMS of Public Investment Management Assessment	14738
 ENTERPRISE RISK MANAGEMENT	11131
 ENTERPRISE RISK MANAGEMENT Business Continuity Management	11131
 ENTERPRISE RISK MANAGEMENT Material Matters	11131
@@ -1000,6 +1047,7 @@ EWMP Electronic Waste Management Plan FIs	1988
 EXECUTIVE SUMMARY The Environmental and Social Management	1988
 East Africa Community Customs Management Act	14454
 East and Southern African Management Institute	6946
+Ebène. The General Manager	14838
 Economic Empowerment BMA Border Management Authority	5533
 Economic Governance and Management	13673
 Economic Management	12891
@@ -1060,7 +1108,7 @@ Electronic Case Management for Insolvency Administrators	12389
 Electronic Case Management for Judges and Lawyers	12389
 Electronic Change Management Strategy Change Management	12453
 Electronic Document Management	13042
-Electronic Document Management System	12338
+Electronic Document Management System	12338,2448
 Electronic Document and Records Management System	3042,9283
 Electronic Fiscal Device Management System	7746
 Electronic Fiscal Device Management System EPZ	13053
@@ -1068,6 +1116,7 @@ Electronic Information Systems Management Advisory Council	12919,63
 Electronic Journal of Knowledge Management	8021
 Electronic Logistics Management Information System	1261,11345,581
 Electronic Management	3386
+Electronic Management System	14738
 Electronic Manifest Management System for Advance Cargo	13042
 Electronic Medical Record Management System	3604
 Electronic Payment Management System	12270
@@ -1089,11 +1138,15 @@ Elizabeth Jordan Senior Industry Engagement Manager	8967
 Email Mercy King’ori Policy Manager for Africa	5363
 Emergencies Management Information System	9139
 Emergency Management and Operations Centers	4301
+Emotional Intelligence for Managers	14835
 Employee Performance Management	11250
 Employment Relations Management The Bank	11134
 EndNote BibTeX Reference Manager Refer Atom	10878
 Endangered Species Management System	13042
 Endpoint Privilege Management EPM	10721
+Energy Efficiency Management	14745
+Energy Efficiency Management Office	14736,6,3,102
+Energy Efficiency Management Office Name Designation	14745
 Energy Management	12256
 Energy Sector Management As-	11923
 Energy Sector Management Assistance Program	11380,192,619
@@ -1138,6 +1191,7 @@ Environmental Management Act No.12	1988,11358
 Environmental Management Agency	1988,11332
 Environmental Management Licensing Regulations	1988
 Environmental Management Practices	3604
+Environmental Management System	14736
 Environmental Management and Co-ordination	12191
 Environmental Management and Co-ordination Act	1988,10268
 Environmental Management and Coordination Act	7548,4643,2231
@@ -1211,7 +1265,7 @@ FACILITIES MANAGEMENT	12400
 FC Kallon Manager Foday Daboh Donates	7814
 FCMU Financial and Contract Management Unit FIRR	11380
 FINANCIAL INSTRUMENTS AND FINANCIAL RISK MANAGEMENT	10793
-FINANCIAL MANAGEMENT	9437
+FINANCIAL MANAGEMENT	9437,5391,3
 FINANCIAL MANAGEMENT DATASHEET	13856
 FINANCIAL MANAGEMENT DIVISION	12920
 FINANCIAL MANAGEMENT Financial Management	9437
@@ -1219,17 +1273,20 @@ FM Financial Management	11965
 FM Financial Management FNDS National Sustainable	2473
 FREQUENCY SPECTRUM MANAGEMENT	6671
 FREQUENCY SPECTRUM MANAGEMENT Microwave	6671
+FRICHOT Marie Myrline Nidza Management	14770
 FSU Financial Management FY Financial Services	13331
 FUNCTIONS AND MANAGEMENT OF THE AUTHORITY	12894
 FUNGUO Programme Manager	10195
 Facilities Management	12400
 Facility Electronic Management Systems	1261
+Faculty of Economic and Management Sciences	14774
 Faculty of Management	2093
 Faculty of Management and Commerce	9128
 Faecal Sludge Management	718
 Faecal Sludge Management FY Financial Year	718
 Family and Social Inclusion MIS Management Information	11855
 Fault Management	13185
+Fax Email Address Human Resources Manager	14746
 Feb-2025. Practice Manager	12412
 Federal Project Financial Management Department	4834
 Federal Risk and Authorization Management Program	6477
@@ -1248,7 +1305,7 @@ Finance and Supply Chain Management Outcome	11986
 Financial Engineering and Risk Management	12972
 Financial Function Management	9124
 Financial Institutions FMO Financial Management Officer	1988
-Financial Management	1228,36,20,583,1022,567,1197,1886,2898,1322,9,61,6,2,1,74,52,4,212,57,180,108,330,15,16,1,1,1,35,15,16,10,188,1,9,32,145,1,11,1,135,429,53,84,277,1,60,618
+Financial Management	1228,36,20,583,1022,567,1197,1886,2898,1322,9,61,6,2,1,74,52,4,212,57,180,108,330,15,16,1,1,1,35,15,16,10,188,1,9,32,145,1,11,1,135,429,53,84,277,1,60,618,728,90,3
 Financial Management Absence of Human Trafficking	10759
 Financial Management Air Quality	10968
 Financial Management Arrangements	11855,50
@@ -1284,25 +1341,36 @@ Financial Management and Procurement	11469
 Financial Management for Non-Financial Managers. Four	12970
 Financial Management of Parliament	11230,59
 Financial Management. The FM	1284
+Financial Manager	14736
 Financial Risk The Business Continuity Management	11131
 Financial and Management Accounting	11131
 Fintech Group Product Manager Mr. Joshua	14555
+Fire Safety and Fire Risk Management	14835
+Fire Safety and Fire Risk Management for Members	14761
 Firm Up NamRA Management	13108
 First-time Managers Advanced	4972
 Fiscal Council Management System	5588
 Fiscal Management Development Policy Financing’. World	11909
+Fiscal Responsibility Act. Consolidating and Better Managing	14748
 Fiscalisation Data Management System	10019,2490,1097
 Fiscalisation and Fiscalisation Data Management System	12509
 Fixed Asset Management Units	9004
 Fleet Management	7987
 Fleet Management Policy	13060
-Fleet Management System	13504
+Fleet Management System	13504,1234,15
 Fleet Management System Land Use and Development	4126
+Fleet Management System for Public	14830
 Fleet Management Unit	12976
 Fleet Management and Telematics	6671
+Fleet and Equipment Management System	14738,8
+Fleet and Equipment Management System The MFRS	14738
+Food Safety Management System	14736
+Food Safety Management System Certification Scheme	14736
+Food Safety Management Systems and Information Security	14736
 Food and Medication Management System	11939
 Foreign Exchange Management	13122,352
 Foreigners Identity Management System	10822
+Foundation Course for Management Support Officer	14835
 Foundation GIS and Data Management Training	6427
 Founding and Managing Partner	13256
 Framework ESMF Environmental and Social Management Framework	10829
@@ -1330,6 +1398,7 @@ Fund Managers	11131,3,1844
 Fund Managers and NGOs	6947
 Fund. Management Response	13420
 Fund. Management Response Management	13420
+Fundamentals of Project Management	14746
 Funds Managed	11469
 Funds Management	718
 G. RISK MANAGEMENT	11863,2075
@@ -1341,6 +1410,8 @@ GIZ Management Board	9632
 GIZ Managing Director	9632
 GIZ Managing Director Anna Sophie Herken	9632
 GIZ's Programme Manager Kai Straehler-Pohl	12141
+GONPOT Tara Kumari Assistant Manager	14770
+GOORWAPPA Indirabye Manager Human Resources	14770
 GOVERNANCE AND RISK MANAGEMENT10	13053
 GPUaaS and Managed PaaS	11502
 GRA’s Top Management	10419
@@ -1349,6 +1420,7 @@ GRIEVANCE AND CASE MANAGEMENT	14516
 GRM and Labor Management Procedures	1988
 GSU Chief Executive Officer and Managing Director	4934
 GUIDELINES Laboratory Information Management System	34
+GUNESIE Sadhna Manager Human Resources	14770
 Gama. ICTAM General Manager Andrew Kamwendo	13059
 Gambia Integrated Financial Management Information System	166
 Gambia National Disaster Management Agency	1000
@@ -1358,9 +1430,10 @@ Gateway Protocol BMS Building Management System	13185
 Gautrain Management Agency	11248
 Gavi’s Grant Management Requirement	11401
 Gender Distribution Among Management Staff	12951
-General Manager	1742,2063,1444,560,128,669,933,2751,127,42,341,156,31,142,500,219,9,1307
+General Manager	1742,2063,1444,560,128,669,933,2751,127,42,341,156,31,142,500,219,9,1307,1572,8,34
 General Manager Africa	11162
 General Manager Economic Policy Research and Statistics	12962
+General Manager Mauritius Standard Bureau	14736
 General Manager Raxio DRC	11914
 General Manager Sales and Services Lebohang Ramaisa	3258
 General Manager and Secretariat	3513
@@ -1413,6 +1486,7 @@ Government Financial Management Systems	14674
 Government Fleet Management P40	5645
 Government Management	12354,683
 Government Services and Information Management	1601,1289,2287
+Government and Disaster Risk Management	14738
 Government and Records Management	12325
 Government of Chad's Aid Management Platform	343,18
 Government of Rwanda. Managed	7497
@@ -1522,7 +1596,9 @@ Hospital Data Management	12207
 Hospital Data Management Module for Births Registration	12186
 Hospital Management	12976
 Hospital Management Information Systems	3400,8914
+Hospital Management and Health Policy Management. Promoting	14829
 Hospital Manager Date	8603
+Hospital Managers	14829
 Huawei Botswana Managing Director	6158
 Huawei Uganda Managing Director Zhang Hao	6311
 Hum Resour Manage	10780
@@ -1539,6 +1615,7 @@ Human Resource Management Information System Human	10870
 Human Resource Management Information System JD	12917
 Human Resource Management Information Systems	10785
 Human Resource Management Office	7182
+Human Resource Management Section	14738,7,1,15
 Human Resource Management System The Human	14002
 Human Resource Management The PSDG	10829
 Human Resource Management and Development	11986
@@ -1546,7 +1623,7 @@ Human Resource Management and Development AFIS Automated	11986
 Human Resource Management and Development DOI Department	12917
 Human Resource Management and Signature Development	5533
 Human Resource and Administration Manager	13070
-Human Resources Management	1154,130,9896,759,1030,109,271,275
+Human Resources Management	1154,130,9896,759,1030,109,271,275,1120,29
 Human Resources Management Information System	10785
 Human Resources Management Research Council of Zimbabwe	1554
 Human Resources Management System	13504
@@ -1611,7 +1688,7 @@ Identity Management Commission	11952
 Identity Management Con	13042
 Identity Management Requirement	11952
 Identity Management Services	12337
-Identity Management System	12533,1,425,46
+Identity Management System	12533,1,425,46,1825
 Identity Management System Analysis	231
 Identity Management Systems	4677,6145,1505,816
 Identity Management Systems II. Under	6177
@@ -1667,6 +1744,8 @@ Independent State Managed	13929
 Indicator SMS Senior Management Service PICC	11986
 Indicator and Metadata Management	11939
 Individual Performance Management System	13062
+InfoHighway. Data Management Office The Data	14752
+Information And Knowledge Management	14818
 Information Management	9129,108,300,1647,32
 Information Management Framework	11854
 Information Management Framework Information	11854
@@ -1678,11 +1757,12 @@ Information Resource Management	6832
 Information Resources Management	9256
 Information Security Management	5665,1390,3666,1231,1009,76
 Information Security Management Foundation	11131
+Information Security Management Framework	14797
 Information Security Management Standards	10721,1231
-Information Security Management System	1000,5432,325,6877
+Information Security Management System	1000,5432,325,6877,1102,61
 Information Security Management System IT Information	11250
 Information Security Management SystemStandard	6946
-Information Security Management Systems	2350,1511,971,5889,2240,76,597
+Information Security Management Systems	2350,1511,971,5889,2240,76,597,1195
 Information Security Management Systems ISO	12961
 Information Security Standards MMM Minister’s Management	11218
 Information System DHMT District Health Management	3791
@@ -1714,6 +1794,7 @@ Institute of Territory Management	11941
 Institute’s Programme Manager	14299
 Institutional Coordination and Project Management	1284,12047
 Institutional Coordination and Project Management Note	13331
+Institutional Reforms. The Manager Financial Operations	14761
 Institutional Strengthening and Project Management	12980,131
 Insufficient Management Systems	12214
 Insurance and Risk Management	9437
@@ -1770,6 +1851,7 @@ Integrated Outbreak Management System	4217
 Integrated Outbreak Management System. The U.S	4217
 Integrated Patient Management System	12569
 Integrated Person Management	11270
+Integrated Pest Management	14818
 Integrated Pest Management Plan Generation	1988
 Integrated Pest Management Procedures	14576
 Integrated Pest Management Specialists Loss	1988
@@ -1779,6 +1861,8 @@ Integrated Population and Secured Titles Management	10714
 Integrated Project Management	6946
 Integrated Public Finance Management System	4620
 Integrated Public Financial Management System	4659
+Integrated Public Investment Management Framework	14830
+Integrated Public Investment Management Framework Improving	14830
 Integrated Public Investment Program Management System	5588
 Integrated Results Based Management	13504
 Integrated Results-Based Management Framework	13487
@@ -1802,6 +1886,7 @@ Intellectual Property Management Office NPO Non-Profit	5246
 Interconnection Between Case Management System	12389
 Intergrated Electronic Case Management System	13507
 Interim Management Committee	9506
+Internal Control Manager	14746
 Internal Controls and Risk Management	1554
 Internal Controls and Risk Management The Committee	1154
 International Bulletin of Management and Economics	7759
@@ -1836,6 +1921,8 @@ Ivan Drabek Approved By Practice Manager	13111
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 Ivorian Agency for Radio Frequency Management	3604
 J Public Heal Manag Pract	8376
+JHOTTEE Nand Manager Human Resources	14770
+JUGMOHUNSING Savita Assistant Manager Human	14770
 Jan Priebe Senior Insights Manager	9635,1381
 Jana Kunicova Practice Manager	3604
 Jane Mbambara Chief Human Resource Management	13392
@@ -1895,9 +1982,12 @@ Kenya. Journal of Strategic Management	7548
 Kenya. The Development Partners Management Information	10122
 Kenya. The National Integrated Identity Management	12139
 Kevin Hernandez. Adaptive Management	11006
+Key Management	14759
+Key Management Personnel MSB	14736
 Key Performance Indicators for Senior Management	12970
+Key Risk Management Strategies	14761
 Kiribati National Integrated Identity Management System	10714
-Knowledge Management	1000,7021,525
+Knowledge Management	1000,7021,525,6190
 Knowledge Management Safety and Health Act	6946
 Knowledge Management Systems	12356
 Knowledge Partner E&Y Country Managing Partner	13029
@@ -1909,6 +1999,8 @@ L MANAGEMENT LTD Data Controller INST-971303AEBD1	7167
 LABORATORY INFORMATION MANAGEMENT SYSTEM STANDARDS	34
 LEA Head of Information and Knowledge Management	5998
 LESSONS FROM MANAGING THE PILOT Through	10852
+LIMALIA Ismael Manager	14770
+LINGADOO Jacques Desire Laval Manager	14770
 LISGIS. Strategic Asset Management	5244
 LMIS Logistics Management Information System MDA	12729
 LMIS Manager	13157
@@ -1924,7 +2016,7 @@ Labor Management Procedures	761,1106,121,1616,7225,135,2147,220,1222,23
 Laborat01y Management System I. The Government	4260
 Laboratory Infonnation Management System	4301
 Laboratory Information Management	4153
-Laboratory Information Management System	34,4130
+Laboratory Information Management System	34,4130,10586
 Laboratory Information Management Systems	12508
 Labour Influx Management	13185
 Labour Management Measures	12253
@@ -1943,6 +2035,7 @@ Land Resource Management	12194
 Land Use Planning and Land Management Framework	9727
 Land Use Planning and Management Information System	1513
 Land and Mining Management Strengthening Project	10873
+Landslide Management Works	14738
 Latest Updates Management of Public	12322
 Launch of Geospatial Information Management Strategy	11275
 Launch the Information Management System	12448
@@ -1959,6 +2052,7 @@ Learning Development Standards EMIS Education Management	13990
 Learning Management System	9128,1396,939,476,2052
 Learning Management System. June	13991
 Learning Management Systems	1248,11895
+Leave Management System	14761
 Legal Framework for Disaster Risk Reduction and Management	12779
 Legal Operational Policies No Financial Management	2473
 Legislative Framework A Change Management Strategy	13042
@@ -1981,8 +2075,12 @@ Line Interface CMI Chartered Management Institute	13185
 Line Managers	11131,3
 Line Ministry's Procurement Management Unit	1554
 Liquidity Management	12364,1110
+Liquidity Risk Management	14744
+List of Senior Management Team	14835
 Load Management Unused	9123
 Local Authorities Solid-Waste Management	13474
+Local Authorities The Council Project Management	14738
+Local Disaster Management Coordinator	14738
 Local Government Management Improvement Model MAT	11224
 Log Manager	13042
 Logistics Management	4301
@@ -2005,12 +2103,14 @@ MANAGEMENT IN THE BROADCASTING SECTOR	11211,51
 MANAGEMENT OF ASSETS	13420
 MANAGEMENT OF COMPANY DURING BUSINESS	3714
 MANAGEMENT OF CYBER SECURITY	6946
+MANAGEMENT OF GOVERNMENT ASSETS	14773
 MANAGEMENT OF HEALTH INFORMATION	2709
 MANAGEMENT OF ICT RESOURCES	6946
 MANAGEMENT OF SMART ZAMBIA	13335
 MANAGEMENT OF THE AGENCY	11464
 MANAGEMENT OF THE COMPANY	4896,2302
 MANAGEMENT OF THE COMPANY Mr Godfrey	4896
+MANAGEMENT OF VECTOR BORNE DISEASES	14773
 MANAGEMENT ON THE AWARD	13938
 MANAGEMENT PATRIMOINE ET SA GESTION	1214
 MANAGEMENT PROCESSES	11184
@@ -2021,6 +2121,7 @@ MANAGEMENT SERVICE AND ADMINISTRATION	13097
 MANAGER QUALIFICATIONS REQUIREMENTS	11862
 MANAGING AND PROMOTING QUALITY STATISTICS Economic	2775
 MANAGING MEDICAL AND HEALTH CONDITIONS	12976
+MAURITAS for Quality Management Systems	14736
 MEA Managing Director Santhosh Rao	9359
 MEA01 Managed of RPA	9237
 MEA03 Managed	9237
@@ -2060,6 +2161,7 @@ MUVU Cooperative Management System	8908
 Macquarie Asset Management	9330,309
 Macroeconomic Management	6946
 Macroeconomic and Fiscal Management. Progress	11469
+Madagascar. Joint Management of Continental Shelf	14742
 Magazine for Managers of Change	9128
 MainOne Managing Director for West Africa Wole	10229
 Malawi Education Statistics Report. Education Management	12175
@@ -2075,7 +2177,7 @@ Manag	10881
 Manag Rev Q	9739
 Managa	10812
 Managawendé Safiata BOUDA	7670,651
-Manage	194,201,563,51,592,387,1803,737,585,1310,9,400,114,602,2221,1248,139,53,43,37,516,49,7,134,245,41,78,140,13,163,289,331,68,149,479,124,70,489
+Manage	194,201,563,51,592,387,1803,737,585,1310,9,400,114,602,2221,1248,139,53,43,37,516,49,7,134,245,41,78,140,13,163,289,331,68,149,479,124,70,489,70
 Manage CI	11804
 Manage Climate Risks and Bolster Resilience	10420
 Manage Costs Some KPIs	13053
@@ -2118,7 +2220,7 @@ Managed Solutions ITGov	9237
 Managed Strategy Schlegel	9237
 Managed and Optimized	12255
 Manageme	1988
-Management	10,568,9,131,181,63,7,1,39,145,60,5,42,3,20,270,132,92,89,121,105,3,212,581,162,553,187,181,329,59,612,561,287,719,151,142,114,332,481,218,44,109,253,220,2,238,260,20,1,4,1,316,30,175,131,196,16,128,597,3,12,35,12,13,19,27,2,15,6,8,4,63,38,1,155,3,45,30,7,36,165,52,48,346,3,8,7,1,23,1,10,25,11,3,10,11,10,22,130,13,41,22,26,13,2,91,13,31,63,6,40,1,1,40,106,46,66,20,110,6,16,39,1,11,43,48,18,98,6,2,155,7,20,2,7,10,7,7,3,8,17,57,53,2,74,18,57,257,13,39,1,418,32,105,28,25,67,8
+Management	10,568,9,131,181,63,7,1,39,145,60,5,42,3,20,270,132,92,89,121,105,3,212,581,162,553,187,181,329,59,612,561,287,719,151,142,114,332,481,218,44,109,253,220,2,238,260,20,1,4,1,316,30,175,131,196,16,128,597,3,12,35,12,13,19,27,2,15,6,8,4,63,38,1,155,3,45,30,7,36,165,52,48,346,3,8,7,1,23,1,10,25,11,3,10,11,10,22,130,13,41,22,26,13,2,91,13,31,63,6,40,1,1,40,106,46,66,20,110,6,16,39,1,11,43,48,18,98,6,2,155,7,20,2,7,10,7,7,3,8,17,57,53,2,74,18,57,257,13,39,1,418,32,105,28,25,67,8,62,2,8,27,2,60
 Management Account	969
 Management Act	1988,9998
 Management Act PI Performance Indicator Acronym	5533
@@ -2137,11 +2239,13 @@ Management Board	6946,1305,3725
 Management Body EU EOM European Union	12201
 Management Buyouts	12376
 Management Card Personalization Printing ABIS Mega	13005
+Management Centre	14760
 Management Cloud Infrastructure Catalogs Media File	13042
 Management Collateral	12364
 Management Commission	7371
 Management Commitments	1988
 Management Committee	6938,4123,3,796,1560
+Management Companies	14819
 Management Company	4972
 Management Cooperation SANDF South African National	11188
 Management Council	8251
@@ -2156,6 +2260,7 @@ Management Empowering Ownership	12511
 Management FSAP Financial Sector Assessment Program	13836
 Management Firm	12976
 Management Framework EU Primary Healthcare Facility	3604
+Management Funding Resources Artificial Intelligence Cyber	14729
 Management GBV	1988
 Management GGOAW Specialist Gernot Brodnig Social	11525
 Management Governance	14565
@@ -2166,7 +2271,7 @@ Management Indicators	11955
 Management Indicators The EBITDA Profitability Indicator	11955
 Management Information Management Systems IFMIS Integrated	11545
 Management Information PCU	11525
-Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77,369,51,500,174
+Management Information System	899,472,1404,1378,6838,404,460,5,64,258,32,121,77,369,51,500,174,1238
 Management Information System EMIS Essential Package	11905
 Management Information System ENA Ecole Nationale	13312,2
 Management Information System MOR International Monetary	12500
@@ -2188,7 +2293,7 @@ Management Microsoft Word Ease	9124
 Management N	12984
 Management Note	13331
 Management Nutanix NX3460-G7 Cluster	13185
-Management Office	6628
+Management Office	6628,8124
 Management Office POPIA Protection of Personal Information	5533
 Management Officer	4542
 Management Official Use Only	12253
@@ -2227,8 +2332,9 @@ Management Strategies and Implementation Plans	13185
 Management Strategy	10721,1142
 Management Structure	3513
 Management Studies	4432
+Management Support Officer	14835
 Management Support Services	5533,5685,768
-Management System	295,2150,4501,3768,98,1402,27,801,11,367
+Management System	295,2150,4501,3768,98,1402,27,801,11,367,1316
 Management System IRT Item Response Theory	12975
 Management System LC Local Currency M&E	11863
 Management System LMIS Logistics Management Information	13306
@@ -2249,7 +2355,9 @@ Management System. The Commission	9397
 Management Systems	210,1051,11066,1058
 Management Systems BCP Business Continuity Plan	13420
 Management Systems ESS Environmental and Social Standards	1988
+Management Systems MIBL Mauritius Institute of Biotechnology	14747
 Management Systems for Decision-Making	210
+Management Systems. MSB	14736
 Management Team	6946
 Management Team Fiduciary Management	6946
 Management Training	11863
@@ -2263,8 +2371,11 @@ Management Unit for Special Projects UN United	11863
 Management and Administration	1512,273,2,6,1,3,1405,2,2,1,3,1279,2594,2,2,1,2
 Management and Administration GHS	4489
 Management and Business Ethics	12972
+Management and Control of Communicable Diseases	14773
 Management and Deployment	13185
+Management and Development	14845
 Management and Environmental	7548
+Management and Finance	14775
 Management and Financial Markets	5700
 Management and Governance	13953
 Management and Grievance Redressal	12146
@@ -2302,11 +2413,13 @@ Management of Internet	585,8281
 Management of Kalumbila Town Council	1988
 Management of Living Natural Resources Indigenous Peoples	12253
 Management of Loans	5883
+Management of Ministries	14786
 Management of National Resources	13295
 Management of Natural Resources	14409
 Management of Natural Resources CHAPTER TWENTY	14409
 Management of Numbering Resources	6946
 Management of Older Persons Cash Transfer Programme	11994
+Management of POPs Stockpiles	14774
 Management of Population and Housing Censuses	4040,4,7377,25,131
 Management of Public	12322
 Management of Public Debt	14546
@@ -2317,14 +2430,20 @@ Management of Sick	12253
 Management of State Assets and Participations	7134,3645
 Management of State Holdings	12786
 Management&volume	2096
+Management. The Internal Auditor	14736
 ManagementICTLegalLifestyleLogistics	7253
-Manager	236,992,648,1113,467,2224,1266,2178,1641,198,326,7,14,827,201,20,54,14,59,347,137,3,81,49,9,221,130,3,67,24,181,800,16,23
+Manager	236,992,648,1113,467,2224,1266,2178,1641,198,326,7,14,827,201,20,54,14,59,347,137,3,81,49,9,221,130,3,67,24,181,800,16,23,170,24,65
 Manager Afrique	1876
 Manager Ambassade de France Francophonie	11916
 Manager Anna Nylander	8094
 Manager Dr. Achim Fock	13488
 Manager Ensure	12253
 Manager Ernest Magadzire	11656
+Manager Financial Operations Assistant Manager	14835
+Manager Financial Operations MHR	14760
+Manager Human Resource MPF	14760
+Manager Human Resources	14835
+Manager Human Resources Ministry of Public Service	14770
 Manager IT Specialist Geospatial Intelligence Specialist	2989
 Manager Installed	1988
 Manager Jorge A. Munoz	12137
@@ -2347,8 +2466,9 @@ Manager of Scenious Hub	8330
 Manager of Spectrum Management	13101
 Managerial	10784,512
 Managerial Economics	12972
+Managerial Skills	14835
 Managerialisation	8436
-Managers	579,1514,3132,2053,991,3027,635,55
+Managers	579,1514,3132,2053,991,3027,635,55,2750,79
 Managers Handbook	11986
 Managers and Users	6482
 Manages	11224,715,2,1096,475
@@ -2357,6 +2477,7 @@ Managing AI-augmented	6948
 Managing Acting Managing Director	12358
 Managing Authority	789
 Managing Body	11955
+Managing Campement Site Taxes	14761
 Managing Change	2477
 Managing Change The Bank	11134
 Managing Common Barriers	11007
@@ -2455,7 +2576,9 @@ Managing Partner for IBM Consulting Asia Pacific	9885
 Managing Partner of CcHUB	10170
 Managing Partner of DigitA	4776
 Managing Partner of Santos-Diaz LLC	7156,597,2450,489
+Managing Risk	14761,74
 Managing Risks	8282
+Managing Self	14835
 Managing Urban Enterprises	7992
 Managing and Promoting Quality Statistics Published	2775
 Managing and Reporting	13991
@@ -2475,6 +2598,7 @@ Mass Index BMMS Better Medication Management	2775
 Master of Land Information Management	6832
 Master of Public Sector Management	13368
 Master of Urban Management	6946
+Mauritius’ Public Financial Management	14828,3
 Media File Management	13042
 Media Management	4896
 Medical Waste Management Plan	13938
@@ -2486,6 +2610,7 @@ Medium-Term Debt Management Strategy	14546
 Medium-Term Debt Management Strategy and Annual Borrowing	11136
 Meku Epse Nsinga Financial Management Specialist	11924
 Member States’ Election Management Bodies	7452
+Member The Audit Risk Management and Governance	14736
 Mercy Bianca-Ioana Marcu Managing Director	5363
 Mercy King’ori Policy Manager for Africa	5363
 Mergence Investment Managers	10955
@@ -2495,7 +2620,7 @@ Micronics Consulting Limited Managing Consultant Michael	12126
 Micronics Consulting Ltd Managing Director Michael	14255
 Microsoft SQL Server Management Studio	10617
 Microsoft's Kenya Country Manager	11777
-Middle Management	12962
+Middle Management	12962,1798,13
 Middle Management Development Programme	12961,76
 Middle Management Level. Once	12972
 Middle Management Skills Development	13078
@@ -2507,12 +2632,16 @@ Millennium Projects. The Millennium Projects Management	12962
 Minerals Management and ESEPARC	11131,3
 Mining Cadastre Information Management System	13685
 Minister of Humanitarian Affairs and Disaster Management	7141
+Minister of Local Government and Disaster Risk Management	14738
 Ministerial Management Meeting GTAC Government Technical	11986
+Ministry of Environment and Solid Waste Management	14738
 Ministry of Finance’s Umsebe Integrated Financial Management	11131
 Ministry of Health Environmental Public Health Management	12972
 Ministry of Humanitarian Affairs and Disaster Management	3583
+Ministry of Local Government and Disaster Risk Management	14738
 Ministry of Mines' Export Permit Management System	13688
 Ministry of Public Service Management Service Division	12962
+Ministry. The Risk Management Framework	14835
 Ministry’s Human Resource Management	12962
 Mme. Stephanie Ngongo Regional Programme Manager	11916
 MoH Senior Management Team	12240
@@ -2521,6 +2650,7 @@ Mobile Device Management	11231
 Mobile Money Manager-Northern	8766
 Mobilisation and Registration Division Manager	8838
 Mobilization of External Resources and Debt Management	9043
+Moderator Mrs Shalini Jugessur Managing Director	14776
 Modern Data Management System	1793,1413,3881
 Modern Management Tools and Economy of Tourism Sector	4432
 Modernization of Public Financial Management	1284
@@ -2532,7 +2662,10 @@ Monitoring Farm Management Recycling Detecting Food	4126
 Monitoring and Evaluation BMA Border Management Authority	11986
 Monthly Recurring Revenue MSP Managed Service	10861
 Morgane Agency Manage	13363
+Mr. Ravishankar OODIT Manager	14745
 Mr. Simphiwe Khumalo General Manager	12969
+Mrs. Anuradha HEERASING Manager	14745
+Mrs. Bibi Salma ALLEEBUX Manager	14745
 Ms. Nozuko Hlophe Acting Legal Manager	12969
 MultiChoice Uganda Managing Director Hassan Saleh	7429
 Municipal Finance Management Act	8022,3226,15,16,294
@@ -2564,6 +2697,7 @@ NRB Senior Management	14518
 NRM Natural Resource Management NTFP Non-Timber	970
 NSNP and NDMA Grievance and Case Management	14516
 NTA Managing Director Edmund Forh	10405
+NUNDLOLL Bhamila Devi Manager Human	14770
 NYABIHU DISTRICT. World Bank Managing Director	8478
 Nadir Mohammed Practice Manager	13836,25
 NamClear Managing Director Fabian Tait. Under	6988
@@ -2584,6 +2718,7 @@ National Agriculture Management Information System	12194,866
 National Archives Records Management System	12597
 National Archives and Records Management Policy	12597
 National Archives and Records Management System	12597
+National Asset Liability Management Framework	14748
 National Biometric Identity Management System	9356
 National Case Management	12977
 National Case Management System	8978,4661
@@ -2592,6 +2727,7 @@ National Climate Change Management Policy	12964
 National Clinical Case Management Guidelines	11417
 National Comprehensive COVID-19 Management Handbook	1212
 National Council of Managing Directors of Licensed Customs	9361
+National Crisis Management Plan	14729
 National Cybercrime Management System Cybercrime Management	1777
 National Cybersecurity Incident Management Guidelines	7741
 National Cybersecurity Risk Management Framework	7575
@@ -2606,7 +2742,13 @@ National Disaster Management and Risk Reduction Institute	1228
 National Disaster Risk Management Act	12964,262
 National Disaster Risk Management Authority	13226
 National Disaster Risk Management Office	7299
-National Disaster Risk Reduction and Management Centre	11332
+National Disaster Risk Reduction Management Center	14770
+National Disaster Risk Reduction Management Centre	14742
+National Disaster Risk Reduction and Management	14732,6,4
+National Disaster Risk Reduction and Management Act	14732,6,4,1
+National Disaster Risk Reduction and Management Centre	11332,3406,92
+National Disaster Risk Reduction and Management Council	14738
+National Disaster and Risk Reduction Management Centre	14738
 National Drought Management Authority	7548,6939,29
 National E-Waste Management	6946
 National Economic Management Committee	9685
@@ -2621,6 +2763,8 @@ National Environmental Management	11228
 National Environmental Management Act	14673
 National Environmental Management Biodiversity Act	11188
 National Fixed Asset Management Policy	9004
+National Food Safety Management System	14736
+National Food Safety Management System Certification	14736
 National Frequency Management Council	5245
 National Geomatics Management Services	11261
 National Health Information Management Authority	13430
@@ -2637,30 +2781,40 @@ National Identity Management Commission National Information	10157
 National Identity Management Commission. Tags	7144
 National Identity Management Commission’s Director-General	7914
 National Identity Management Database and Immigration	7914
+National Identity Management Framework	14752
 National Identity Management System	2274,5,4410,324,3701,1153,666,1,1726
 National Identity Management System and ICAO	4696,1
 National Identity Management System and ICAO-compliant	4708
+National Information Security Management System	14736
 National Institute for Disaster Management	12220
 National Institute for Land Management	11862
 National Integrated Identity Management System	9856,966,184,1133,2268
 National Integrated Identity Management System United	12138
+National Integrated Water Resources Management Plan	14745,3
 National Land Information Management System	3374,9686,1507,87
 National Logistic Management Information System	4153
 National Logistics Management Information Services	2709
 National Logistics Management Information Services Platform	2709
 National Logistics Management Integrated System	4153
 National Logistics Management System	4153,11
+National Management System Certification	14736
+National Management Systems Certification Scheme	14736
 National Police Service Information Management System	3320
 National Population Data Management	14503
 National Privacy Week. Data ManagementData ManagementICT	5137
 National Programme Manager of NASSCO	12049
+National Quality Management System	14736
+National Quality Management System Certification	14736
+National Quality Management System Certification Scheme	14736
 National Space Program Management Office	4350,756,661,715,142,638
 National Space Programme Management Office	6513
-National Spectrum Management	7508
+National Spectrum Management	7508,7317
 National Spectrum Management Plan	13888
 National Strategy for Data Management	1284
 National Strategy for E-Waste Management	11965
 National Strategy for Risk Management	11907
+National Sustainable Tourism Management System	14736
+National Sustainable Tourism Management System Certification	14736
 National Traffic Point-Based Penalty Management	12200
 National Traffic Point-Based Penalty Management System	12200
 Nationals Management Service	14460
@@ -2701,10 +2855,17 @@ Number of Management Meetings	13005
 Numbering Resources Management	718
 OAP Management Information System	12663
 OAU Official Identity Management Policy JCPS	11986
+OECD's Digital Security Risk Management. Mauritius	14752
 OSBP Public Finance Management Act PFMA	11986
 Objectives The Forest Conservation and Management Act	1988
 Objectives and Action Plans BoZ Strategic Management	13532
+Occupational Safety and Health Management System	14738,97
 Occupational Safety and Health Management Systems	12253
+Office Accommodation Office Management Executive	14746
+Office Management Assistant	14835
+Office Management Assistant. During Financial Year	14835
+Office Management Executive	14745,90
+Office Management Executive Office Management Assistants	14835
 Office Management and Technology	6832
 Officer Deputy General Director Manager of Cybersecurity	2989
 Official Identity Management Policy	11986
@@ -2719,16 +2880,19 @@ Online Community Manager	11531
 Online Grants Management System	1554
 Open CPE WAN Management Protocol	7627
 Open Journal of Business and Management	2816
+Operation Manager	14736
 Operational and Risk Management	11553
 Operations Management	9124
 Operations Management Framework. Available	11216
 Operations Manager	2989,2581,5719,736
 Operations Manager Complete	2989
 Operations Team Manager Ato Tesfahun G	12195
+Operations and Processes Management	14835
 Operator Scheme UAMP User Asset Management	11218
 OpinionBI and Data AnalyticsData ManagementSITE SPONSOR	6107
 Opportunistic Spectrum Management	11262
 Oracle Kenya Managing Director and Public Sector	7069
+Organic Matter and Nutrient Management	14818
 Organigram Management	13042
 Organizational Management and Development	13991
 Outage Management System	12399
@@ -2746,8 +2910,10 @@ P4-13 Management	12500
 P4-13. Management	12500
 PAGGF Management and Land Governance Project PASEC	13312,2
 PAPSS Management Board	999
+PART III RISK MANAGEMENT	14773
 PART III Specifications of Fiscalisation Data Management	13606
 PART IV BORDER MANAGEMENT	13403
+PAVADAY Goparlen Lead Programme Manager	14770
 PAYMENT SYSTEM MANAGEMENT ACT	12943
 PDU Delivery Manager for Technology and Innovation	13569
 PEACOCK MANAGEMENT LIMITED Data Controller INST-5230737C7E4	7167
@@ -2772,6 +2938,9 @@ PMU Management	1988
 PMU-National and District Management	1988
 PMU-National and District Response Management	1988
 PMU-National and Satellite Management	1988
+POLICE POSTS IN SERVICE TOP MANAGEMENT	14760
+POLICING STRENGTHENING HUMAN RESOURCE MANAGEMENT MANAGING	14760
+POMANAH BHAUGEEROTHEE Vidooshi Management Analysts	14770
 PPCC's Change Management Mechanism	9088
 PPMD EHS Manager	12195
 PRA Managé	14683
@@ -2787,7 +2956,9 @@ PROVIDE AND MANAGE DELIVERY CHAIN PHASE	11156
 PROVISION OF MANAGED DRAAS FOR ICT	11240
 PRS Secondary Education Management Board	11860
 PUBLIC DEBT MANAGEMENT SUPPORT PROJECT	14546
+PUBLIC FINANCIAL MANAGEMENT	14828,3
 PUBLIC FINANCIAL MANAGEMENT REFORMS PROGRAM	14546
+PUBLIC UTILITIES ENERGY EFFICIENCY MANAGEMENT OFFICE	14814
 Paediatric Nursing and Health Science Management	12972
 Paratus Botswana Managing Director	7275
 Paratus Uganda Country Manager Edwin Kyambadde	10697
@@ -2814,6 +2985,7 @@ Payment System Management Act	1233,2481,4537,4114,9,73,496,133,9,7,114
 Payment System Management Body	12653
 Payment Systems Management	10853
 Payment Systems Management Body	12653
+Payment Systems and Currency Management	14744
 Payments Management	12491
 Payments Project Manager Tiya Somba Banda	12915
 Payroll Investments Asset Management and Insurance	9437
@@ -2829,12 +3001,13 @@ Performance Management Index	11131
 Performance Management Information System	14323
 Performance Management Policy	11131
 Performance Management QCTO	6832
-Performance Management System	11131,1537,294,8,2
+Performance Management System	11131,1537,294,8,2,1776,38,49
 Performance of Routine Information System Management	766,446,9666
 Persol Finance and Administrative Manager Jacqueline Anum	236
 Personal Data Management	12146
 Personnel Management	6946,4242
 Pest Management OP	11525,330,282
+Petition Management Information System	14738
 Petra Haingura Manager	13044
 Petroleum Management Act	3583
 Petroleum Revenue Management Act	3583
@@ -2878,6 +3051,7 @@ Practice Managers	11271
 Practitioner HMIS Health Management Information System	12413
 Presales Manager	11987
 Press Release Integrated Electronic Case Management	12936
+Primary Educational Management. Mr Sooryadev Purdasseea	14736
 Primary School Teacher Management Strategy	12175
 Primary School Teacher Management Strategy and Guidelines	12175
 Prime Minister Amadou Oury Bah. Managed	4116
@@ -2886,11 +3060,12 @@ Principal Managers and Ultimate Beneficial Owners	12542
 Principal Officers and Senior Managers	12542
 Principal Programme Manager for Internet	11548
 Prioritized Risk Management	12189
+Prison Management System Ministry of Finance	14830
 Privacy Information Management	7055
 Privacy Information Management System	3861
 Private Management	11863
 Private Partnerships QMD Quality Management Directorate	12240
-Private Wealth Management Licence	7845
+Private Wealth Management Licence	7845,6983
 Privileged Access Management	10616,1,614
 Privileged Identity Management	10721
 Procedures Manual for Environmental and Social Management	1988
@@ -2901,8 +3076,11 @@ Procurement Risk Assessment and Management System REDISSE	11560
 Procurement and Facilities Management Division	12400
 Procurement and Facilities Management P. O. Box	12400
 Procurement and Financial Management	1284
+Procurement and Supply Manager	14746
+Product Certification and Management Systems Certification	14736
 Product GMAs Game Management Areas GRZ	1988
 Product Manager	10193,222
+Product Managers	14819
 Product and Growth Manager	11803
 Production Management	2093
 Program Management	4153
@@ -2921,13 +3099,16 @@ Programme Management Office	11986
 Programme Management Unit	13990
 Programme Management for Digital Society and Economy	5182
 Programme Manager	10819,369,1503,872
+Programme Manager CIB Ministry of Information Techonology	14770
 Programme Manager Specific	10819
 Programme Officer for Data Management	9469
 Programmes Manager	8661,134
 Project Cyber Management Licensing Empowerment Development	6946
 Project Cycle and E&S Management Procedures	1988
 Project Design and Credit Appraisal Team Manager	12195
-Project Management	888,340,56,494,89,121,724,277,615,1049,1779,107,40,254,113,3822,61,423,138,465,7,1,102,6,270,171,140,172,193,53,10,57,43,251,61,339,179,100,477
+Project Implementation and Management Committee	14835
+Project Implementation and Management Committee The Project	14835
+Project Management	888,340,56,494,89,121,724,277,615,1049,1779,107,40,254,113,3822,61,423,138,465,7,1,102,6,270,171,140,172,193,53,10,57,43,251,61,339,179,100,477,251
 Project Management Baseline Actual	2712
 Project Management Company	3456
 Project Management Consultancy	12962
@@ -2965,6 +3146,7 @@ Project Management Unit TA Technical Assistance	1867
 Project Management Units	1867
 Project Management and Capacity Building US	6539
 Project Management and Citizen Engagement. Budget	4653
+Project Management and Contract Administration Unit	14830
 Project Management and Coordination	12137
 Project Management and Coordination Support	10963,1
 Project Management and Coordination Support The World	10964
@@ -2979,7 +3161,7 @@ Project Management and Institutional Strengthening	11863
 Project Management and Planning	12400
 Project Management and Results Delivery Office	11857
 Project Management. Component	13392
-Project Manager	962,418,1,2440,1592,1126,2122,134,655,111,1101,526,64,57,314,232,3,4,391,23,83,1153,673
+Project Manager	962,418,1,2440,1592,1126,2122,134,655,111,1101,526,64,57,314,232,3,4,391,23,83,1153,673,593
 Project Manager Ato Samuel Shawel	12195
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
 Project Manager Mr. Brain Chibale	34
@@ -2988,11 +3170,14 @@ Project Manager The Project Manager	14185
 Project Manager Zaima Banda	12462
 Project Manager and Police Integration Specialist	8286
 Project Manager for CJID’s Tech Justice and Digital	10571
+Project Managers	14819
 Project Planning And Management	899
 Project Stage E&S E&S Management Procedures	1988
 Project Support and Knowledge Management Department	26,1,1
 Project and Portfolio Management	12917
 Projects and Quality Management	5315
+Promote Integrated Pest Management	14818
+Promote Integrated Soil Fertility Management	14818
 Property Control and Exhibit Management System	5323
 Property Management	1877
 Property Management Information System	6170
@@ -3012,6 +3197,7 @@ Public Administration Management Act	11182,14
 Public Administration and Management	13368
 Public Assets Management Regulations	9492
 Public Debt Management	13060,62
+Public Debt Management Act	14717,11,49,51,3,12
 Public Debt Management Office	14546
 Public Debt Management Unit Portal	5588
 Public Expenditure Management	11906
@@ -3034,9 +3220,10 @@ Public Finance Management Strategy	13060
 Public Finance Management System PIS	958
 Public Finance Management and Accountability Act	3583
 Public Finance Transparency International Management	789
-Public Financial Management	1155,129,295,2004,21,1743,2128,1529,1324,2628,1229,361
+Public Financial Management	1155,129,295,2004,21,1743,2128,1529,1324,2628,1229,361,282,3
 Public Financial Management Accountability Act and Treasury	12669
 Public Financial Management Act	587,202,6906,673
+Public Financial Management Kit The Public	14828,3
 Public Financial Management PIMI Program	11560
 Public Financial Management PIU Project Implementation	10829
 Public Financial Management PPCU Public Programme	12962
@@ -3055,12 +3242,14 @@ Public Investment Management	1284,9852,1826,98
 Public Investment Management Assessment. Page	3604
 Public Investment Management Regulations	5793
 Public Investment Management System	10785
+Public Investment Management Unit	14830
 Public Management	12594
 Public Management Review	2096,3253
 Public Management and Governance	2096
 Public Policy and Government Management	5366
 Public Procurement and Asset Management	13966
 Public Relations Manager	12753
+Public Sector Management. Mrs. Kalpana Devi	14736
 Public Sector Reforms Information Management System	4609
 Public Service Management	12551
 Public Service Management Division	3088
@@ -3081,14 +3270,17 @@ Quality Assurance Management Information System	13623
 Quality Assurance Manager	12726
 Quality Assurance and Quality Management Systems	718
 Quality Information Management System	12606
+Quality Management	14736
 Quality Management Directorate	12240
 Quality Management Programme	12976
 Quality Management Sign	9855
-Quality Management System	3651,502,2793,687,3143
+Quality Management System	3651,502,2793,687,3143,3960
+Quality Management System Certification Scheme	14736
 Quality Management System RCCE	10776
 Quality Management System- ISO	12977
 Quality Management Systems	718
 Quality Management and Quality Assurance	13385
+Quality Management. Mrs. Nulini Devi Kinnoo	14736
 Quality of Services RADW Radioactive Waste Management	718
 Quarterly Management	1154,10371
 Quarterly Management Information PCU	11525
@@ -3105,8 +3297,9 @@ REFUGEE MANAGEMENT	12947
 REFUGEES MANAGEMENT	12984
 REG Management	12358
 REREC Project Manager Francis Mutua	14665
+REVENUE COLLECTION AND CASE MANAGEMENT SYSTEM	14847
 REVENUE COLLECTION AND DEBT MANAGEMENT	13420
-RISK MANAGEMENT	11218,6,1220,315,294
+RISK MANAGEMENT	11218,6,1220,315,294,1720
 RISK MANAGEMENT AND CONTINGENCY PLANNING	5245
 RISK MANAGEMENT AND GOVERNANCE	14546
 RISK MANAGEMENT AND GOVERNANCE Basis for Conclusion	14546
@@ -3120,6 +3313,7 @@ Radio Frequency Spectrum Management	6946,6349
 Radio Frequency Spectrum Management Directive	762
 Radio Frequency Spectrum Management Radio	13295
 Radio Spectrum Management Directive	762
+Radiological Crime Scene Management	14745
 Ramussen SL. Management	10881
 Raphael Konan General Manager	10956
 Rationale for Grievance and Case Management Mechanism	14516
@@ -3160,6 +3354,7 @@ Regulatory Structure Board Members Management Departments	12515
 Relationship Manager Inquiry for Actual Knowledge	11233
 Relationship Managers	11233
 Release Management	11952
+Relevance and Quality Management Practices	14777
 Relevant ESS ESS1 Assessment and Management of Environmental	1988
 Relevant Management ESS6 Community Health and Safety	12253
 Remote Management	13185
@@ -3171,22 +3366,27 @@ Research Management	1554
 Research Manager	1554
 Research Symposium Zimbabwe Parks and Wildlife Management	1554
 Research and Knowledge Management	12753
+Reserve Management Division	14744
 Reshaping the Modern SOC Risk Management Framework	3279
 Resilience Management CIRMR-RM.S1 CIRMR-RM	10721
 Resource Efficiency and Pollution Prevention and Management	1264,724,8841,135,1001,1367,191,1030,23
+Resource Executive Office Management Assistant Support	14835
 Resource Management	6422
 Resource Management Information	10870
 Resource Management System	14002
 Resource Management and Development	12241
+Resources Assistant Manager Human Resources Human	14835
 Resources ID IHE Health Information and Management	1009
 Resources Management Authority	1988
 Resources Management of Civil Servants SIGEC Integrated	10812
 Responsibilities of Management	14546
 Responsible Data Management	12356
 Results Indicator ITAS Integrated Tax Management	13861
+Revenue Authority PFM Public Financial Management	14828,3
 Revenue Collection and Debt Management Revenue	13420
 Revenue Management	12951
 Revenue Management Budget	11939
+Revenue Management System	14830
 Revenue and Payments Cycle Management	9437
 Review and Amend the Parliamentary Villages Management Board	11285
 Review the Patch Management Policy	11986
@@ -3195,17 +3395,18 @@ Riccardo Puliti Practice Manager	11380
 Rights Management and Benefit Processing. National Center	11939
 Risk Assessment and Management	9123
 Risk Level How MRA Manages the Risk	13053
-Risk Management	1988,1001,498,1041,717,1187,514,602,3173,410,3,6,48,10,33,19,2,217,526,361,33,55,68,134,29,242,34,16,84,2,328,804
+Risk Management	1988,1001,498,1041,717,1187,514,602,3173,410,3,6,48,10,33,19,2,217,526,361,33,55,68,134,29,242,34,16,84,2,328,804,551,8,1,1,1,13,1,67,3
 Risk Management Activities	10721
 Risk Management Approach The Bank	11134
 Risk Management CRM-AR.S4	10721
+Risk Management Committee	14761,74
 Risk Management Committee Members	11218
 Risk Management Directorate	12500
 Risk Management EU European Union FCIM	6946
 Risk Management Eswatini Economic Policy Analysis	11134
 Risk Management Executive Committee Eswatini Payment	11131
 Risk Management Financial Institutions	11861
-Risk Management Framework	11995,370,9,168,817
+Risk Management Framework	11995,370,9,168,817,1476
 Risk Management Framework Cyber	10721
 Risk Management Framework FPIs	11995
 Risk Management Framework Risks	1131
@@ -3214,6 +3415,7 @@ Risk Management Identifying	12356
 Risk Management Management Strategy	10721
 Risk Management Objective	11134
 Risk Management Officer	12162,815
+Risk Management Policy	14835
 Risk Management Policy and Risk Assessment Report	12542
 Risk Management Proactive	12444
 Risk Management Regular	12356
@@ -3228,6 +3430,11 @@ Risk Management and Contingency Planning	5245
 Risk Management and Disaster Recovery Plan Risk	13420
 Risk Management and Disaster Recovery Plan Twelve	13420
 Risk Management and Governance	14546
+Risk Management and Governance Committee	14736
+Risk Management and Governance Committee Achievement	14736
+Risk Management and Governance Committee The Finance	14736
+Risk Management and Governance Committee and Member	14736
+Risk Management and Governance Committee. Principle	14736
 Risk Management and Governance. Review	14546
 Risk Management and Internal Control	11955
 Risk Management and Internal Controls	6946
@@ -3241,6 +3448,7 @@ Risk and Compliance Management Department	11131
 Risk and Crisis Management	12537
 Risk and Cybersecurity Management	11134
 Risk and Quality Management	14185
+Road Asset Management System	14748
 Roads Directorate Corporate Communications Manager	12742
 Robotic Management	9237
 Role Management Audit Logs System Monitoring	12211
@@ -3264,6 +3472,7 @@ SCM Supply Chain Management SME Small	11250
 SCT Manager	13332
 SECURITY AND RISK MANAGEMENT SERVICES	12920
 SEFS General Manager Moeketsi Mafereka	2767
+SERVICE TOP MANAGEMENT	14760
 SH Risk Management Occupational Health and Safety	1988
 SHA Claims Management Office	10331
 SIGEFI Integrated Government Finance Management System	1284
@@ -3293,6 +3502,7 @@ SUPPLY CHAIN MANAGEMENT	11218
 SUPPLY CHAIN MANAGEMENT SERVICES	5793
 SURVEY STAFF SURVEY MANAGERS MURENZI Ivan	12445
 Safeguarding Trust and Managing Risks	8282
+Safety Management System	14736
 Saharan Africa. Int J Inf Manag	8376
 Salaam Regional Manager Mr Robert Kasulo	7026
 Salary Band for Personnel Below Senior Management	11218
@@ -3318,6 +3528,7 @@ School Management Committee and Parent Teacher Association	13392
 School Management Team	11927
 School Management Teams	11927
 School Management. South African Journal of Education	11927
+School of Business Management and Finance SITE	14775
 School of Business and Management Sciences	13688
 School-Based Management Committee	12037
 Screenshot of Aid Management Platform UNDP	12241
@@ -3348,11 +3559,12 @@ Senior Digital Governance and Service Management Consultant	4766
 Senior Education Programme FENECO Manager Confédération	11916
 Senior Financial Management Officer	13938
 Senior Financial Management Specialist	11545,2340
-Senior Management	11220,54,6,583,393,191,259,261,3,968
+Senior Management	11220,54,6,583,393,191,259,261,3,968,881
 Senior Management Course	12323,2180
 Senior Management Service	11224
 Senior Management Stakeholder Manager Ms. Hleliwe	12969
-Senior Management Team	12976
+Senior Management Team	12976,1770,89
+Senior Management Team Designation Name Tel	14746
 Senior Manager	7278,213,1089,186,1376,680,467
 Senior Manager Digital Transformation and Technology	4046
 Senior Managers	12542
@@ -3376,6 +3588,7 @@ Service and Customer Management	11955
 Services and Change Managements	12453,892
 Sexual Harassment SIGAS Social Action Management	10768
 Shadreck Banda Chief Human Resource Management	13392
+Shalini Jugessur Managing Director	14776
 Short-term General Management and Administrative Courses	12972
 Sichuan Huakai Project Management Co. Ltd	181,9
 SierraSeat Audit Management Information System	9680
@@ -3388,6 +3601,7 @@ Site Manager. Contractor	12253
 Small Irrigation Management Information System	14002
 Small Irrigation Management Information System of Ethiopia	14002
 Smart Border Custom Management System	14088
+Smart Car Park Management Solution	14753
 Smart Traffic Management System	9394
 Smart4U’ Bundle Integrated Electronic Case Management	2987,16,13,949,1438,159,1347
 Snr. Manager	8408
@@ -3410,10 +3624,16 @@ Social Team Manager	12195
 Socio-Economic Manager Development Unit Jean Lindsay	11332
 Soft Logistics Management Information System	4202
 SoftSuite Human Capital Management	7973
+Soil Conservation and Land Management	14818
+Soil Conservation and Land Management Soil	14818
 Solid Waste Management	1988
+Solid Waste Management Division	14770
 Solid Waste Management High-level	5948
-Solid Waste Management and Climate Change	14267
+Solid Waste Management and Climate Change	14267,475,4,24,4,19,37,17
+Solid Waste Management and Climate Change Dr	14753,88
 Solid Waste Management and Climate Change Ministry	11332
+Solid Waste Management and Climate Change. Corporate	14744
+Solid Waste Management and Climate Change. Mrs	14736
 Solid Waste Management and Disposal Bill	1964
 Solution Manager	7065
 Solution for Unified Management of Electronic Revenue. Strip	7897
@@ -3460,6 +3680,7 @@ Stakeholder Management	3945,5722,2885,383,34
 Stakeholder Management Framework The Bank	11131
 Stakeholder Management and Communications Pillar	4528,7984
 Stakeholder Management and Public Trust	4528,7984
+Standards Council and Management	14736
 Stanlib Lesotho Managing Director Mohlabinyane Mohapi	8034
 State Border Management and Trade Facilitation Single	13403
 State Department for Performance and Delivery Management	14546
@@ -3477,6 +3698,7 @@ Stephane Guimbert. Practice Manager	13860,37
 Storage Policy-Based Management SPG Site Preparation	13185
 Strategic Asset Management	5244
 Strategic Head of Emergency Department Managing Medical	8603
+Strategic Human Resource Management	14835
 Strategic Management	5700,1246
 Strategic Management Framework	13532
 Strategic Management Framework. The Strategic Plan	13532
@@ -3488,17 +3710,21 @@ Strategic Partner Manager	13461,1
 Strategic Planning and Management	12976
 Strategic Program Management Office	11272
 Strategic and Change Management Department	13532
+Strategy and Risk Management	14744
 Streamlined Payroll and Benefits Management Automated	13477
 Strengthen Health Data Management	13430
 Strengthen Health Data Management The Centre	13430
 Strengthen Information Security Management Systems	12453,892
+Strengthen Integrated Pest and Disease Management	14818
 Strengthen Public Expenditure Management and Core Government	13910
 Strengthen School Management	11918
 Strengthening Business Processes for Identity Management	12663
 Strengthening Malawi's Teacher Management Information System	13070
+Strengthening Public Debt Management and Debt Data	14828,3
 Strengthening Public Finance and Economic Management	12985
 Strengthening Research Management	1554
 Strengthening of Public and Urban Finance Management	11390
+Stress Management	14835
 Strong Institutions. Aid Management Platform	13080
 Student Education Management Information System	12950
 Student Integrated Management and Monitoring System	11939
@@ -3532,7 +3758,10 @@ Sustainable E-waste Management	6946
 Sustainable Environment and Resource Management	1154
 Sustainable Land Management Practices	13474
 Sustainable Management of Landscapes and Tenure	12985
+Sustainable Tourism Management System	14736
+Sustainable Tourism Management Systems	14736
 Sustainable Waste Management	12191
+Sustainable Water Management Plan	14745
 System HMIS Health Management Information System	10829
 System KIRM Knowledge Information Records Management	11261
 System Management IHP	766
@@ -3546,18 +3775,24 @@ T Service Managers	6832
 TCIB Scheme Manager and Operator	5263
 TERMS OF REFERENCE PROJECT MANAGER	14185
 TMIS Teacher Management Information System ToC	13990
+TMRSU Traffic Management and Road Safety	14828,3
 TN Asset Management Nominees	4896
 TNM’s Corporate Affairs Manager	14190
+TOP MANAGEMENT MIDDLE MANAGEMENT SUPPORT	14761
 TTCL Managing Director Moremi Marwa	6083
 TTCL Zanzibar Manager Nasra Mugheiry	10746
 TVET Management Information System	14576
 TWG. Management	12138
-Talent Management	11131,3
+Talent Management	11131,3,3595
+Talent Management A1.Take	14729
 Talent Management Cycle	11134
+Talent Management Figure	14729
 Talent Management Matrix	12969
-Talent Management Policy	11134
+Talent Management Policy	11134,3595
+Talent Management STRENGTHS	14729
 Talent Management Strategy	12969
 Talent Management System	13575,1
+Talent Management and Cyber Security. Digital Government	14729
 Talent Management and Employee Relations	11250
 Tanzania Disaster Management Agency	6168
 Tanzania Forest Management Information System	11639
@@ -3612,24 +3847,27 @@ Thermal Management	9123
 Threats and Opportunities for Election Management Bodies	10390
 Through the Program Management Unit	12977
 Through the Union's Customs Risk Management Framework	11036
+Time Management	14835
 Today’s Project Management Tasks Will	2816
 Token Certificate Management	12364
 Tonateni Shidhudhu Manager	13108
 Tool. IBMRD’s Journal of Management	8604
-Top Management	10087
+Top Management	10087,4673
+Top Management Figure	14761
 Tourism Information Management System	11939
 Trade Facilitation Border Management and Trade Facilitation	13403
 Trade Facilitation and Border Management Bill	13060
 Trade Information Management Software	13042
 Traditional Methods of Conflict Management and Resolutions	1248
 Traffic Management Centres	10603
-Traffic Management and Road Safety Unit	7845
+Traffic Management and Road Safety Unit	7845,6933,50
 Traffic Management for Protected Areas	1132
 Training Center Manager	12403
 Transforming Human Resource Management	13477
 Transforming Human Resource Management Through HRIMS	13477
 Translation Management Implement	11952
 Transport Integrated Management System	9646
+Transport Management	14835
 Transport and Security Management	11237
 Transversal IT Management	2905,2292
 Transversal Information Technology Management	1618,3915,6453
@@ -3659,6 +3897,7 @@ Under the National Case Management System	8978
 Under the National Identity Management Commission Act	5574
 Understanding and Managing Business	226
 Unified Device Manager	12241
+Unintentional POPs Reduction and Waste Management	14774
 Union GDP Financial Management GHG Global	3604
 Union’s Risk Management Framework	7938
 Unique Administrative and Payroll Management Platform	4142
@@ -3671,6 +3910,7 @@ Universal Access Programme Management Office	11272
 University Management	10541
 University of Science and Technology OMS Outage Management	12399
 University of The Gambia's Education Management Information	6048
+Upgrading of Integrated Driving License Management System	14830
 Urban And Rural Management	4482
 Urban Infrastructure City Management Project	718
 Urban Management and Street Addressing	11129
@@ -3683,6 +3923,7 @@ User Asset Management Plan	5533
 User Interface and Client Management	13042
 User Management	12491
 User Stories Zambia Education Management System	12408
+Utility Regulatory Authority WMA Wastewater Management	14745
 VANESSA ALABI Managing Partner Managing Counsel	12232
 VAT Returns Management Functionality	12509
 VC Fund Managers Corporate Venture Firms	4972
@@ -3698,6 +3939,7 @@ VISION Population Register and Migration Management	12947
 VSWIFT Change Management Strategy	13042
 Vacancy Management Oversight Committee WC Western	11197
 Valuation Roll Management Module	11231
+Valuation and Information Management System	14722
 Values Top Management Board of Directors Partners	12499
 Vector Management Plan	13938
 Vehicle Load Management and Cross Border Road	12918
@@ -3733,7 +3975,7 @@ Warehouse Management	13042
 Warrap State Ministerial Management Committee for Dura	3583
 Warrap State-Kuajok State Ministerial Management Committee	3583
 Waste Electrical and Electronic Equipment Management Plan	10870
-Waste Management	1988,11307,179
+Waste Management	1988,11307,179,1295
 Waste Management Act	1988
 Waste Management Considerations	1988
 Waste Management Hierarchy	1988
@@ -3742,11 +3984,18 @@ Waste Management Licence	1988
 Waste Management Plan	1988
 Waste Management Regulations	12191
 Waste Management The Government of Zimbabwe	13295
+Waste Management and Circular Economy	14818
+Waste Management and Circular Economy Livestock	14818
+Waste Management and Circular Economy Uncontrolled	14818
 Waste Management and Green Economy	12253
 Waste Management and Resource	7845
-Waste Management and Resource Recovery Act	7845
+Waste Management and Resource Recovery Act	7845,6897,86,3,14
 Waste Management and Sanitation Regulations	12253
 Waste Water Management	13474
+Waste Water Management Authority	14847
+Wastewater Management Authority	14745,48
+Wastewater Management Authority Act	14745
+Water Authority EEMO Energy Efficiency Management	14745
 Water Permit Division Manager	5469
 Water Resources Management	1988
 Water Resources Management Authority	13365,1181
@@ -3756,6 +4005,7 @@ Weak Internal Controls Over Imprest Management	14546
 Weak Teacher Management Information Systems	14057
 Wealth Management	6100
 Wearables for Chronic Disease Management	9456
+Weather Stations and Climate Database Management Systems	14738
 Web Content Management Server OS N	9124
 Web ZIAMIS Zambia Integrated Agriculture Management	13345
 Website Management Mr. Andrew Kashoka	34
@@ -3792,6 +4042,7 @@ World Bank’s Procurement Risk Assessment and Management	1264
 World Bank’s Regional Director and Country Manager	4640
 X Snr Social Worker DIVISION MANAGEMENT	13097
 XDS Affinity Change Management Domain	1009
+YARROO Fakeeroodeen Manager Human Resources	14770
 Yamify's Managed Cloud Prototypes	11344
 Yango Senegal Country Manager Aïcha Niang	7419
 Yaounde. The General Manager of CAMTEL	4192

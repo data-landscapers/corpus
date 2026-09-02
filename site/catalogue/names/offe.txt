@@ -1,7 +1,9 @@
+A. Offences	14809
 A. The Sexual Offences and Domestic Violence	12939
 ADMINISTRATIVE DECISIONS AND CRIMINAL OFFENCES	12185
 AFFECTED TRANSACTIONS AND OFFERS	3714
 AFFECTED TRANSACTIONS AND OFFERS Definitions	3714
+APPLICATION FOR PROMOTIONAL OFFERS	14754
 Act. Offences	14594
 Administrative Adjudication of Road Traffic Offences	7755
 Administrative Penalties and Tax Offences Division	12629
@@ -13,7 +15,10 @@ Being Offered	3862
 Being Offered S	3862
 Best Price Offer	7368,7331
 Best Price Offers	7368
+CHART OF OFFENCES CLASSIFIED AS DRUG	14760
+CHART OF OFFENCES CLASSIFIED AS MISDEMEANOUR	14760
 COMMANDING OR PROCURING TO COMMIT OFFENCE	11190
+CONTRAVENTIONS ROAD OFFENCES GANDIA PLANTS	14760
 CRIMINAL OFFENCES	11181
 Cancel Report Ad Violent Disturbing Offensive	4790
 Cell C Socializa Bundles Promotional Offer	11259
@@ -21,6 +26,9 @@ Channel Exclusive Offer	11259
 Channel Exclusive Offers	11259
 Channel Exclusive Offers. Table	11259
 Channels Offered	9781
+Child Sex Offender	14742
+Child Sex Offender CSP	14742
+Child Sex Offender Register Act	14742,9
 Classification of Offences	2775
 Combo Offers	11259
 Community Kitchens Offer	6947
@@ -33,6 +41,7 @@ Criminal and Other Offences	11
 Current Token Offer	12882
 Cyber Offences	587
 Cybercrime and Cyber Offences	587
+D. Offering	14843
 Data Offers	11259
 Date Signature of Offender TO BE FILLED	7845
 Description of Offences	2775
@@ -65,8 +74,10 @@ Independent Corrupt Practices and Other Related Offences	10054,2082
 Initial Coin Offering	10738
 Initial Coin Offerings	12339
 Initial Public Offering	3391,3743,5242,1634
+Initial Token Offerings	14819
 Interpretation. PART II COMPUTER OFFENCES	12928
 J. Offence	7845
+Juvenile Offenders	14742
 Kwadwo Offei-Dzan	8247
 LIMITED AND EXIT OFFER	4896
 LIMITED AND EXIT OFFER ECONET WIRELESS	4896
@@ -83,13 +94,15 @@ MTN MyTown Offers Additional Bundles Bundle	11259
 MTN MyTown Offers MTN	11259
 Min Discount Max Discount Reference Offer	11259
 Minor Offences	11774
+Misdemeanour Offences	14760
 MoneyWeek Offer	753
 MyTown Offers	11259
 NEED TO ENHANCE THE OFFER	3604
+NO. OF OFFENCES CLASSIFIED AS CRIME	14760
 National Assembly. Offences	12546
-OFFENCES	783,691,1252,10655,1112,101
+OFFENCES	783,691,1252,10655,1112,101,123
 OFFENCES AND ENFORCEMENT Governance	9670
-OFFENCES AND PENALTIES	1333,141,10573
+OFFENCES AND PENALTIES	1333,141,10573,2680
 OFFENCES AND PENALTIES FOR PETROLEUM OPERATIONS	11976
 OFFENCES AND PENALTIES OF GENERAL APPLICATION	11976
 OFFENCES AND PENALTIES Offences	12459
@@ -97,17 +110,28 @@ OFFENCES AND PENALTIES Offenses	12459
 OFFENCES AND PENALTIES PART	11976
 OFFENCES AND PENALTIES Unlawful	1333
 OFFENDER	7845
-OFFER	4896
+OFFER	4896,9858
 OFFER Shareholders	4896
 OFFER. THE BANK MAY CANCEL	12400
-Offence	1333,5588,5055,952,2,391,50,195,856
-Offences	1,10,15,710,236,621,1116,17,2961,1430,728,3332,1,679,119,71,363,116,4,2,3,11,2,1,13,67,14,5,3,2,234,2,1,2,1,1,1,3,1,2,15,3,10,25,86,246,10,1,8,6,4,4,2,31,19,27,168,40,801,15,27,5,74,66
+Offence	1333,5588,5055,952,2,391,50,195,856,305,33
+Offence Rate	14760
+Offence Rate Jul	14760
+Offences	1,10,15,710,236,621,1116,17,2961,1430,728,3332,1,679,119,71,363,116,4,2,3,11,2,1,13,67,14,5,3,2,234,2,1,2,1,1,1,3,1,2,15,3,10,25,86,246,10,1,8,6,4,4,2,31,19,27,168,40,801,15,27,5,74,66,120,1,1,1,2,1,2,6,2,13,17
+Offences Against	14760
+Offences Against Environment	14760
+Offences Against Gambling Regulatory Authority	14760
+Offences Against Morality	14760
+Offences Against Persons	14760
+Offences Against Property	14760
 Offences Against the Person Act	13040
 Offences Against the Persons Act	13040
 Offences Any	3,2706,11701
 Offences Commission	10530
 Offences Illegal Access	26
 Offences Offences	11
+Offences Reported	14760
+Offences Under Bail Act	14760
+Offences Under Excise Act	14760
 Offences and Domestic Violence SRH Sexual Reproductive	12939
 Offences and Penalties	512,4098,8290,498
 Offenders	7000,278,273,3774,2429
@@ -117,7 +141,7 @@ Offenses Attempt	12459
 Offenses Pornography	12459
 Offensive	1938,2932,2920,531
 Offensive Vulgar Ad	4790
-Offer	958,42,2862,264,402,368,3160,3087,52,745,274,19,20,33,70,20,136,163,18,602,25,37,104
+Offer	958,42,2862,264,402,368,3160,3087,52,745,274,19,20,33,70,20,136,163,18,602,25,37,104,1262,55,40,18
 Offer AI-related	12356
 Offer Citizenships	13295
 Offer Expert Guidance and Resources AI	12675
@@ -129,7 +153,7 @@ Offer Training Programs AI	12675
 Offer Zero-Fee Digital Bank Accounts for UAE	5322
 Offer and Dividend	4896
 Offered	3862
-Offering	5675,6168,332,159,961,61,105,90,897
+Offering	5675,6168,332,159,961,61,105,90,897,294
 Offering Circular	14546
 Offering High-Speed Connectivity Across	5289
 Offering P2P	12882
@@ -156,12 +180,14 @@ Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
 Prior Public Offerings	7198
 Private Cloud Services Offering	14327
+Product Offerings Jessica T. Naga Chief	14819
 Program Offer	6832
 Program Offering	12407
 Programmes and Services Offered	12405
 Promotions and Special Offer	6671
 Promotions and Special Offers	6671
 Public Offer for Sale	8056
+REMEDIAL MEASURES AND OFFENCES	14728,2
 Redress Offer	14566
 Reference Access Offer SCAC State Corporations	6946
 Reference Infrastructure Sharing Offer	6100
@@ -173,10 +199,12 @@ Related Offences Commission	1014
 Report Offers	11149
 Requirements Concerning Offering of Securities	3714
 Research and Development Emmanuel Larbi Offei Over	236
+Revenue Offences	14760
 SHAREHOLDER ENTITLEMENTS UNDER THE EXIT OFFER	4896
 SN Offence	7845
 STANBIC BANK’S OFFERINGS Africa China Trade	5247
 Satellite Internet Offerings	4546
+Security Token Offering	14819
 Self-Built FTTH Offerings	11259
 Sending Offensive Messages	3383
 Service Offerings	11259
@@ -194,6 +222,7 @@ TAKEOVERS AND OFFERS PART	3714
 Tax Offences	12629
 Tech Business Offer	11155
 Tender Offers	7198
+Token Offerings	14844
 Travelling Child Sex Offending	12459
 Type of Offence	2775
 Type of Offence and Sex	2775
@@ -201,8 +230,11 @@ Types of Reported GBV Offences	13399
 Upon the Exit Offer	4896
 Valu Expands Travel Fintech Offering Through	7516
 Virtual Asset and Initial Token Offering	7845
-Virtual Asset and Initial Token Offering Services	7845
+Virtual Asset and Initial Token Offering Services	7845,6964,19,3,12,1
+Virtual Asset and Initial Token Offerings Services	14742,102
+Virtual Assets and Initial Token Offering Services	14819
 WORKS OFFERED	11240
+X. Offences	14843
 Yet Airtel Money’s Initial Public Offering	8049
 ZA News of Offerwall	13462
 ZSE. The Exit Offer	4896

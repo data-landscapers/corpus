@@ -7,6 +7,7 @@ DHA. PKI	5533,58
 Definition PKI Public Key Infrastructure PMDS	5533
 Delivery Unit PKI Public Key Infrastructure	12241,839,15
 Digital Certificate Service The PKI	11955
+Establish PKI	14723
 Establish the PKI	7890
 ICAO PKD	7370,3949
 ID and PKI	3215
@@ -20,6 +21,7 @@ KYC and PKI	1704
 KYC and PKI8	1704
 La PKI	7890
 Management Act PKI Public Key Infrastructure	13005
+Message Service PKI Public Key Infrastructure	14723
 NEGP PAC PKI PMEC PSMD SADC	12453
 OIDM Oliver Tambo International Airport PKI	11986
 Operations Centre PKI Public Key Infrastructure	11986

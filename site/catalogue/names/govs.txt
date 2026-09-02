@@ -1,4 +1,5 @@
 APIs. While GovStack	14566
+DPI and GovStack	14752
 Digital Public Goods Alliance’s GovStack	5700
 GovMarket and GovStack	12289
 GovSOC	2416
@@ -6,7 +7,7 @@ GovSmart	4292
 GovSpecs	6423,1780
 GovSpecs Architecture	6423
 GovSpend	11942
-GovStack	2100,1172,459,1969,50,547,126,5132,453,281,682,124,807,406,258
+GovStack	2100,1172,459,1969,50,547,126,5132,453,281,682,124,807,406,258,186
 GovStack Architecture	6423
 GovStack BBs	6423
 GovStack Building Blocks	6423
@@ -20,9 +21,11 @@ GovStack Registration Building Block	14308
 GovStack Sandbox	6423
 GovStack Technical Committee	8203
 GovStack Workshop	5750
+GovStack and Digital Public Infrastructure	14752
 GovStack-aligned DPI	14566
 GovStack-specific	6423
 GovStack. Emergency	13902
+GovStack. LEGAL AND REGULATORY REFORM	14752
 GovStack29	1814
 GovStackWorkingGroup	6423
 Govspend	11866

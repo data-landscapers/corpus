@@ -115,7 +115,7 @@ G ABBREVIATIONS AND ACRONYMS	13331
 G ARCT Third Generation	13331
 G AUTRE SECTEUR PUBLIC H	13300
 G Adoption	11857
-G Advanced	8841,2015
+G Advanced	8841,2015,3969
 G Asked	6351
 G BELLE-MÈRE	13300
 G BETEL	13300
@@ -179,6 +179,7 @@ G Fixed Wireless Access	6100
 G Fourth Generation	6671,6675
 G Fourth Generation Network	2775
 G Fourth Generation Telephone Wireless Technology	11857
+G Fourth-generation IC3 Internet Core Competency	14723
 G Frameworks and Cyber Security Capacity	721
 G Frameworks and Cybersecurity Capacity	721
 G G Low	6936
@@ -207,7 +208,7 @@ G Is for Google	3782
 G JAUNISSE	13300
 G Key	1885
 G LE NOM DE L'ENDROIT. AUTRE	13300
-G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141
+G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538,141,2193,51,42,3
 G LTE Advanced	3487
 G LTE. Thirty	718
 G La Banque	13467
@@ -221,10 +222,13 @@ G Market	10856
 G Market Snapshot	5675
 G Mixed Use SFF BC	12681
 G Mobile	4150,7707
+G Mobile Services	14822
 G Moroccan	2673
 G Much	5675
 G MÉDECIN	13300
 G NETWORK	12395
+G NR	14780,45
+G NR ETSI EN	14780,45
 G NSA	8828
 G NTN	5528
 G National Software Development Guideline Title	5665
@@ -237,6 +241,7 @@ G Network Expansion	14151
 G Network Nationwide	5391
 G Network Now Exceeds NetOne and Telecel	6011
 G Network and Smart City Development	12962
+G New Radio	14780,45
 G Niger	10611
 G Non-Standalone	8828
 G Note	10844
@@ -282,6 +287,7 @@ G Second	1818
 G Second Generation	6671,6675
 G Second Generation Network	2775
 G Second Generation Telephone Wireless Technology	11857
+G Second-generation HD High	14723
 G Service Terms	11878
 G Servicio	4209
 G Sexe	13442
@@ -309,15 +315,18 @@ G Technology Will Contribute	5675
 G Third Generation	6671,6675
 G Third Generation Network	2775
 G Third Generation Telephone Wireless Technology	11857
+G Third-generation HSDPA High Speed Data	14723
 G Transport Network Ericsson	5332
 G Tunisia	8828
 G URINE FONCÉ	13300
+G URL	14780,45
 G USIM	5391
 G USSD	4150
 G Utilization Gap	6051
 G VERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERGNAONCVE	10785
 G VOIE RECTALE	13300
 G Voice	2528,9867
+G W H ELECTRICITY GENERATION	14745
 G W Hydro Wind Solar	12233
 G WDM	2446
 G and AI	6242
@@ -389,11 +398,13 @@ G. Elle	14187
 G. Em	11569
 G. Em Abril	9559
 G. En	13531
+G. Endorsement	14821
 G. Entre	13531
 G. Environmental and Social	10829
 G. Evaluation of Technical Parts of Bids ITB	13185
 G. F	2816
 G. Frempong	236
+G. G. COMPLAINT	14753
 G. Ganpurev	11140
 G. Goggin	11028
 G. Goggin and P. Iosifidis	11028
@@ -406,6 +417,8 @@ G. In Senegal	11902
 G. Inchauste	13624
 G. Increased	12333
 G. Instead	9560
+G. International Collaboration	14819
+G. Interpretation	14717
 G. Job Expo The Job and Entrepreneurial	12977
 G. K	8604,3402
 G. Kaladzavi	11140
@@ -414,6 +427,7 @@ G. Kioko	11140
 G. L'annonce	3249
 G. Lanzuolo	5700
 G. Le Burundi	13492
+G. Lesjongard	14753,88
 G. Lin	11140
 G. MINISTERE DE LA CONSTRUCTION	7670
 G. MINISTERE DES SPORTS	8321
@@ -422,7 +436,9 @@ G. Mais	9559
 G. Marin	11310
 G. Melina	11140
 G. Messages	2626
+G. Migration	14759
 G. Mobile	6728
+G. Monetary and Financial Statistics	14777
 G. Moroccan	8828
 G. Morocco	8828
 G. Multilateral	12979
@@ -446,6 +462,7 @@ G. Pour	10226
 G. Quels	7715
 G. RISK MANAGEMENT	11863,2075
 G. ROLE DE LA BCD	13838
+G. Response	14777
 G. Review	12939
 G. Risk Management	13381,557
 G. Risk-based	7845
@@ -459,6 +476,7 @@ G. Siemens	9128
 G. Succès	13492
 G. Tabela	11574
 G. Table	10856
+G. Tax	14717
 G. Tax Administration Diagnostics and Recent Tax	13624
 G. Technology	4214
 G. The UN Department of Economic and Social	2383
@@ -545,6 +563,7 @@ Mhila G	1219
 Middelburg Ms G Sekhu	11986
 Mirutse G	1219,11036
 Mothibi G. Ramusi	4732,3096
+Mr. G. G. The Prime Minister	14753
 Mr. G. Gomwe	4263
 Ms G Chaonamwene	13068
 Ms G Chaonamwene Technical Signatories of Laboratory	13068
@@ -562,6 +581,7 @@ None G- None D- No F-	582
 Notelaers G. Pay-level	10780
 Nouveaux Inscrits Garçons Filles G	10847
 O L G T	13341
+O R G A N	14736
 OMS Amissi G Actualité Liée	10625
 Oghenere G. Salubi	8022
 Oghenere G. Salubi Received	8022
@@ -579,9 +599,11 @@ Pour Fabrice G. Dako	6744
 President Adv. D. G. Boko	12607
 President Dr Hage G Geingob	12951
 Préscolaire Garçons Filles G	10847
+RIVER G	14760
 Republic of Angola and Country Director Albert G	1770
 Richard G	12138
 Ryan G	1219
+S S U N C G	14760
 S. G	4131,545,7653
 Salto Fund. G. Risk Management	11863
 Schedule G	12484
@@ -593,6 +615,7 @@ South Africa Oghenere G. Salubi Department	8022
 Stam G. Conceptualization	14666
 Stefaan G	3810
 Stefaan G. Verhulst	8202
+Strategic Objective G	14818
 Strawn G	14666
 T I N G B	11586
 Table G	7,11243,46

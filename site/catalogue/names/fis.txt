@@ -24,7 +24,8 @@ African FIs	10718
 Agriculture Fishing Mining Public	11874
 Agriculture Forestry and Fishing	2775
 Agro-pastoral and Fisheries Import-Substitution Plan	10980
-Albion Fisheries Research Centre	10643
+Albion Fisheries Research Centre	10643,4175,11
+Albion Fisheries Research Centre. Pillar	14829
 Aluguer de Servidores Fisicos	570
 Analysis of Key Fiscal Ratios	2775
 Anne Linn Tom Fish Annexe D	13300
@@ -40,8 +41,11 @@ Beneficios Fiscais Novos Códigos Tributários Desdobrável	12018
 Benefícios Fiscais	12018
 Billions RWF Fiscal Year Taxes Fees	13418
 Bingham and Fisher	2566
-Blue Economy and Fisheries	14546
+Blue Economy and Fisheries	14546,224,4,44,12,17
+Blue Economy and Fisheries Division	14818
+Blue Economy and Fisheries Hon. Govindranath Gunness	14753,88
 Blue Economy and Fisheries Ministry of Gender Equality	11332
+Blue Economy and Fisheries The Mauritius Cane	14753
 Boost Fiscal Transparency	11559
 Building Fiscal Capacity	12948
 Busamed Bram Fischer International Airport Hospital	11986
@@ -210,8 +214,10 @@ FISCALÍA DE TOTAL DIRECTIVO PROCINCIAL PROVINCIAL	4209
 FISCLALIA TRIBUNAL CONSTITUCIONAL	4209
 FISCLALIA TRIBUNAL CONSTITUCIONAL-Concepto	4209
 FISHERIES	7167,5857,396
-FISIM	2775,8749
+FISHERIES DIVISION Ensuring Food Safety and Security	14818
+FISIM	2775,8749,3253
 FISIM All Indus- Taxes	2775
+FISIM Financial Intermediation Services Indirectly Measured	14777
 FISP GDP G2B G2C G2G GSB	12453
 FISTULE OBSTÉTRICALE	13300
 FISUEL	10975
@@ -228,7 +234,7 @@ First Schedule. Virtual Fiscal Device	13606
 Fiscais	11528
 Fiscais Formulários Apoio	12018
 Fiscais Os	11528
-Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451
+Fiscal	579,139,71,553,486,2,259,471,1023,82,11,170,1,280,82,210,109,2,1090,35,496,1,233,139,69,239,716,46,54,47,1372,1090,178,433,237,126,3,2,135,198,55,203,189,24,429,53,78,12,349,144,307,2,18,86,267,108,75,175,180,451,68
 Fiscal Adjunto	4209
 Fiscal Adjustment Plan	12922
 Fiscal Affairs Department	1828,10672,1124
@@ -272,9 +278,12 @@ Fiscal Governance Program-for-Results	1573,120
 Fiscal I3n.c2eFntisivceasl Incentives	10157
 Fiscal Impacts of Climate Disasters	1828
 Fiscal Incentives Fiscal	10157
+Fiscal Incentives for Employing Persons	14743
+Fiscal Incentives for Renewable Energy	14745
 Fiscal Information	11866
 Fiscal Inspector General	4209
 Fiscal Inspector General Servicio	4209
+Fiscal Investigations Department	14809
 Fiscal Investment and Jobs	11469
 Fiscal Invoice	13606
 Fiscal Invoices	13606
@@ -297,6 +306,7 @@ Fiscal Receipts	13606
 Fiscal Register	10765,10
 Fiscal Resilience	10997
 Fiscal Responsibility Act	789,11077
+Fiscal Responsibility Act. Consolidating and Better Managing	14748
 Fiscal Responsibility Commission	11866
 Fiscal Review The Minister of Finance	11131
 Fiscal Risks The Government	11134
@@ -394,22 +404,30 @@ Fisd2.70063&doiOfLink	5349
 Fisd2.70063&key	5349
 Fisd2.70063&linkType	5349
 Fisd2.70063&refDoi	5349
+Fish Aggregating Devices	14818,11
 Fish Farming	11857
+Fish Handling	14818
+Fish Toxicity Laboratory	14818
+Fish and Fishery	14736
 Fish-farming	11857
 Fishbein	5349
 Fishbowl Challenge	9427
 Fishenden	5700
 Fishenden and Thompson	5700
 Fisher	2566,8353,21,195
-Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111
-Fisheries Act	13403
+Fisheries	1257,297,434,787,967,3425,347,331,3383,4,53,239,670,83,230,553,119,141,74,81,87,1111,69,32,71
+Fisheries Act	13403,1415
 Fisheries Act No.22	1988
 Fisheries DNA Deoxyribonucleic	11188
+Fisheries Division	14770,48
 Fisheries Information System	10112,531
 Fisheries SDG	13824
+Fisheries Sector. Main Outcomes	14818
 Fisheries Subsidies Agreement	13042
+Fisheries Training and Extension Centre	14818
 Fisheries Transparency Initiative	10112
 Fisheries and Animal Production	10964
+Fisheries and Aqua-Farming	14829
 Fisheries and Aquaculture	14628
 Fisheries and Aquaculture Fisheries	14628
 Fisheries and Aquaculture Minister	10112
@@ -417,9 +435,12 @@ Fisheries and Environment	13733
 Fisheries and Forests	10960
 Fisheries and Irrigation	7167
 Fisheries and Livestock	13343
+Fisheries and Marine Resources	14818
 Fisheries and Rural Settlement. The Office	12511
+Fisheries and Shipping	14745
+Fisheries and Veterinary	14775
 Fishery Committee	11536
-Fishing	789,1986,2906,2164,2918,1094,24,1179
+Fishing	789,1986,2906,2164,2918,1094,24,1179,1758
 Fishing Construction	10976,1370
 Fishing Defence	2775
 Fishing General	11857
@@ -442,7 +463,7 @@ Fistule	13300
 Flexibilidad Fiscal Condicional Se	4209
 Forestry and Fisheries	11188,146,1759
 Forestry and Fisheries DALRRD Department of Agriculture	11261
-Forestry and Fishing	2775,10278,1532
+Forestry and Fishing	2775,10278,1532,255
 Fuel Fiscal Device	13606
 Fuel Fiscal Device Gateway API	13606
 Fuel Fiscal Device Operation	13606
@@ -458,6 +479,7 @@ Fuel Fiscal Devices Technical Committee	13606
 Funções de Fiscalização	167
 G2G Fiscal Year G2P Government-to-Business GDP	13331
 GRA Fiscal	236
+General Course for Fishers	14818
 Global Initiative for Fiscal Transparency	14626
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
 Grupo A Abogado Fiscal Administrador Grupo	4209
@@ -479,6 +501,7 @@ Impact of Key Fiscal Measures Introduced	1830
 Impactful Reforms and Fiscal Consolidation	13122
 Impôt BIC IRVM Total Recettes Fiscales	2342
 Incentivos Fiscales	1701
+Include FISIM	14777
 Income Fiscal Service Tax Tax	236
 Independent Fiscal Councils	1828
 Index ESB Enterprise Service Bus FISP	13345
@@ -495,6 +518,7 @@ J. Fishenden	5700
 James S. Fishkin	11006
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
+Karl Fisher	14736
 Khaki Fischer Jacket	12291
 L'ADMINISTRATION FISCALE	10712
 L'Administration Fiscale Michel Bua	14437
@@ -561,10 +585,12 @@ Outlook Fiscal	10787
 PART III Specifications of Fiscalisation Data Management	13606
 PART IV Fuel Fiscal Device Operations	13606
 PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION FISCALE	10712
+PRAYAG Yuvraj Fisheries Protection Officer	14770
 PROBLÉMATIQUE DE DÉVELOPPEMENT DE L’ADMINISTRATION FISCALE	10712
 PRÉVISION DES RECETTES FISCALES INTÉRIEURES	10712
 PRÉVISION DES RECETTES FISCALES INTÉRIEURES PAR	10712
 PRÉVISION GLOBALE DES RECETTES FISCALES INTÉRIEURES	10712
+Pelagic Fishery Unit	14818
 Pelouro de Política Fiscal da Confederação	8003
 Performance of Selected Fisheries Value Chains	2775
 Periódica Obrigações Fiscais A Portaria	12018
@@ -679,6 +705,7 @@ Technical Specifications of Fuel Fiscal Devices. Second	13606
 Tercero Fiscal Corte Suprema Justicia Fiscal	4209
 Thomas Fisher	2566
 Timbre Fiscal	8229
+Toxic Fish Regulation	14818
 Tribunal Administrativo. CAPÍTULO VI Fiscalização	2866
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 US CLOUD Act and FISA	6517
@@ -686,6 +713,7 @@ Unité de Politique Fiscale	10712
 Universitário. Fiscalização	10750
 Unlock Fiscal Space Paper22nd	7648
 Unreported and Unregulated Fishing	14447
+Upgrading of Fisheries	14830
 Use of Fiscal Electronic Device	7695
 VAT. Electronic Fiscal Devices	12948
 VETERINARY SERVICES AND FISHERIES-COUNTY GOVERNMENT	7167

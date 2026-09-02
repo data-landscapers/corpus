@@ -71,6 +71,7 @@ Reform UK	5933
 Remember the Ukrainian	7471
 Representing the UK FCDO	10053
 República de Moçambique UK International Development	9432
+Russia Ukraine	14744
 Russia and Ukraine	10980,1230
 Russian Federation and Ukraine. The Russia-Ukraine	14008
 Save Billions Under New UK Version	1243
@@ -107,14 +108,17 @@ UK Digital Journalist	6690
 UK FCDO	196,167,498,606,1,696,1,3007,4458,67,2300,1262
 UK FCDO National Development Plan	5172
 UK Finance Payment Markets Report	13452
+UK Financial Conduct Authority Innovation Hub	14819
 UK Foreign	2590,4296,1156,2011,950,130,864
 UK Foreign Commonwealth	12191
 UK Foreign and Commonwealth Development Office	11142
 UK GDPR	14128
 UK GDRP	8436
-UK Government	899,344,1421,1595,1441,4353,951,13,118,722,45,62,892,1817
+UK GOVERNMENT	14753
+UK Government	899,344,1421,1595,1441,4353,951,13,118,722,45,62,892,1817,77
 UK Government's Digital Access Programme	8161,1892
 UK Government’s Foreign	11017,66
+UK House of Commons	14753
 UK Industry	13385
 UK International Development	9432,1282,1583
 UK MHRA	3651
@@ -125,7 +129,7 @@ UK Ministry of Justice	6477
 UK National Cyber Security Centre	10540
 UK National Cyber Security Centre’s Cyber	6936
 UK Online Safety Act	6029
-UK Parliament	1243
+UK Parliament	1243,13510
 UK Parliament. Presenting	14706
 UK Payments Initiative	9832
 UK PhD	8896
@@ -134,10 +138,13 @@ UK Police	4052
 UK Pounds for Associate and Government Observer Membership	3513
 UK Pounds for Full Membership	3513
 UK Press	9067
+UK Prime Minister	14793
+UK Quality Assurance Agency	14747
 UK Research and Innovation	7548
 UK Rich List	753
 UK Robert Prey Authors Tolúlọpẹ	9739
 UK SADC Secretariat	12972
+UK Setting	14723
 UK Singapore DEA	1243
 UK Sustainability	12178
 UK Tax Consequences	7198
@@ -204,6 +211,7 @@ UK-supported	10689
 UK. Fazackerley	12227
 UK. Founded	7478
 UK. London	12090
+UK. Mr. A B Peermamode Mr	14736
 UK. Retrieved	1243
 UK. Shimeles	12948
 UK. Teece	2093
@@ -247,7 +255,7 @@ Ukheshe International South Africa	835
 Ukiangalia	2710
 Ukoha	9563,1604
 Ukosefu	3086
-Ukraine	940,324,332,38,42,152,126,148,783,578,796,188,88,141,100,109,49,101,86,240,413,25,114,360,90,23,35,192,37,170,1,4,218,17,381,30,162,161,164,279,1472,493,510,2,15,35,21,56,124,12,29,204,100,46,193,60,73,223,486,109,169,262,153,36,36,175,1,536,124,122
+Ukraine	940,324,332,38,42,152,126,148,783,578,796,188,88,141,100,109,49,101,86,240,413,25,114,360,90,23,35,192,37,170,1,4,218,17,381,30,162,161,164,279,1472,493,510,2,15,35,21,56,124,12,29,204,100,46,193,60,73,223,486,109,169,262,153,36,36,175,1,536,124,122,622
 Ukraine Don State Technical University EBSCOhost	12467
 Ukraine Foreign	9067
 Ukraine Perturbations	7655
@@ -318,5 +326,6 @@ Ukwiyemeza	13323
 Universal Health Coverage UKB	10776
 VP for UK	7005
 Vice President for UK	6930
+Vocational Education and Training UK United Kingdom	14747
 Vodafone Group UK	1135
 World Vision UK	6982,4934

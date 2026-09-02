@@ -11,6 +11,7 @@ NAM NSA PHC 2011 V01 PUMS	9485
 NAM NSA PHC 2023 V01 PUMS	9485
 Namibia Population and Housing Census PUMS	9485
 PV Wind CSP Pumped Storage Hydro	11953
+Portable Pumps	14746
 Puma Energy	2987
 Pump.fun	4127
 Pumped	11953
@@ -18,6 +19,7 @@ Pumped Diesel	11953
 Pumped Storage	1265,10688
 Pumped Storage CSP Wind Solar PV	11953
 Pumped Storage Hydro	11953
+Pumping Station	14794
 Pumps	13385
 Pumula Constituency	13420
 Pumula and Mutare Central Constituencies Findings Pumula	13420
@@ -26,4 +28,5 @@ Solana’s Pump.fun	4127
 Solar PV CSP Pump DSR System	11953
 Supply Sources Pumped Storage Hydro Diesel	11953
 UNDP United Nations Development Program PUMA	13729
+Water Pump	14778
 Water Pumping Stations	12436

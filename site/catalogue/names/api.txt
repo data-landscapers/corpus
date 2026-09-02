@@ -49,11 +49,11 @@ API-PAIEMENT-FACTURE	7212
 API-ZF	14231
 API-ZF. Il	14231
 API-accessible	10730
-API-based	710,4138,1539,926,1119,3927,41,637
+API-based	710,4138,1539,926,1119,3927,41,637,1753
 API-based EmaSwati	12444
 API-clean	13272
 API-dependency	7151
-API-driven	4973,1174,2285,4610,34,109,356,48
+API-driven	4973,1174,2285,4610,34,109,356,48,1163
 API-first	2522,2602
 API-integrated	10718
 API-integration	5230
@@ -97,6 +97,7 @@ American National Standards Institute API Application	10775
 Another API	12490
 Api-Agro Forestry Systems	14409
 Api1rtaclo	11514
+Apiculture	14774
 Apiculture. Brussels	10841
 Apilotstudy. BMC Medical Ethics	8606
 Apis Growth Fund	47,47,303,1161
@@ -174,6 +175,7 @@ MESOB Bridge API Gateway	12215
 MTT AfCFTA AI API BPP CBN	10157
 Make the APIs	14441
 Method API Application Program Interface ATNA	1009
+National APIs	14819
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network-layer APIs	6593
@@ -182,6 +184,8 @@ None. APIs	12269
 Open API	6423
 Open APIs	7596,4763,955
 Open APIs and Protocols	3861
+Open Banking APIs Tokenization Mobile	14819
+Open Banking and API	14819
 Open Gateway API	6593
 OpenAI API	11578
 OpenAI’s API	7208

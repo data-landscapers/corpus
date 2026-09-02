@@ -5,6 +5,8 @@ Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Violence	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1,135
 Act. Violence Act	1988
 Address Gender-Based Violence Mauritius	11332
+Addressing Gender Based Violence Combating Organised	14781
+Addressing Gender Based Violence Protecting	14781
 Addressing Gender-Based Violence	10776
 Agency for International Development Violences Basées	14425
 Allied GBVF Gender Based Violence and Femicide	11986
@@ -41,11 +43,15 @@ Days of Activism Against Gender-Based Violence	11332
 Digital Road Violation Monitoring System	12275
 Digital Violence Against All Women	11332
 Digital Violence Against Women's Rights	8485
-Domestic Violence	14067
+Domestic Violence	14067,780
+Domestic Violence Act	14742,1,104
+Domestic Violence Information System	14752
 Domestic Violence Survivors	2445
 Domingos Juliasse Viola Manica Francisca Domingos	12201
 Download Cancel Report Ad Violent Disturbing	4790
 EXPÉRIENCE DE DIVERSES FORMES DE VIOLENCE	13300
+Elimination of Gender Based Violence	14742
+Elimination of Gender-Based Violence	14742,9
 Ending Violence	13040
 Ending Violence Against Children	10776
 Entreprise Violence Contre	14488,1
@@ -66,17 +72,20 @@ GENDER BASED VIOLENCE GLAN	12253
 GENDER-BASED VIOLENCE	13399
 GENDER-BASED VIOLENCE AND FEMICIDE	11986
 GHG Gender-Based Violence GIZ Gross Domestic	10964
-Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59
+Gender Based Violence	1778,210,7559,1694,659,353,120,269,304,31,7,348,59,1351
 Gender Based Violence Advocacy	12977
 Gender Based Violence Advocacy Under	12977
 Gender Based Violence GDP Gross Domestic	970,12362
 Gender Based Violence and Sexual Exploitation and Abuse	1988
-Gender-Based Violence	1228,5721,2,4279,187,1359,201,497
+Gender-Based Violence	1228,5721,2,4279,187,1359,201,497,1268
+Gender-Based Violence GIPM	14760
 Gender-Based Violence GPEI	10776
 Gender-Based Violence Gross Domestic Product Government	1228
 Gender-Based Violence TA Systematic Tracking of Exchanges	11905
 Gender-Based Violence and Femicide	11193,31
+Gender-Based Violence. The Family Welfare and Protection	14742
 Gender-based Violence	970
+Gender-based Violence Observatory	14742
 Gender-based Violence and Femicide	5533,6453
 Gender-based Violence and Femicide Plan	5533,6453
 Government Development Index GBV Gender-Based Violence	13731
@@ -115,6 +124,7 @@ PRÉVALENCE DE LA VIOLENCE PHYSIQUE Actes	13300
 PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16,466,1,135
 Perpetradores de Violência Física	10777
 Perpetradores de Violência Sexual	10777
+Piracy and Maritime Violence Act	14760
 Portal for Domestic Violence Survivors Last	2445
 Prevalência da Violência	10777
 Prevalência da Violência Sexual	10777
@@ -123,6 +133,7 @@ Preventing Violence Against Children	10776
 Primeira Experiência de Violência Sexual	10777
 Procedures SRGBV School Related Gender-Based Violence	13332
 Project Showcase Video Gender-Based Violence Scenarios	11332
+Protection Against Domestic Violence Act	14742
 Prévention des Violences Sexuelles	10475
 Psychological Violence Any	12939
 Public Disclosure of Violations	5665

@@ -27,6 +27,7 @@ Accelerate Digital Transformation and Network Evolution	5336
 Access Management Network Security	6432
 Access Network	12536
 Access Network Expansion	12937
+Access Networks	14723
 Acquise VPN Virtual Private Network	13306
 Actif Net Comptable	10975
 Actif Net Comptable. L’analyse	10975
@@ -41,7 +42,7 @@ Adaptive Safety Nets and Economic Inclusion Project	10964,21
 Addis Media Network	14053
 Advance Network Infrastructure	5336
 Africa Agenda Network	14325
-Africa Fintech Network	11816,3
+Africa Fintech Network	11816,3,3000
 Africa Is Finally Taxing Netflix	7786
 Africa Judicial Network	9858
 Africa Mobile Network	716
@@ -98,6 +99,7 @@ Airtel Networks Kenya Limited and Telkom Kenya	6946
 Airtel Networks Limited	6671
 Airtel Networks Ltd	3862,3084
 Alcatel Submarine Networks	3839,837,317,1054,8398
+All-IP Network	14752
 Alumni Networks	12675
 Amplifier MNO Mobile Network Operator OECD	12006
 Angel Network	12376
@@ -120,7 +122,7 @@ Appropriation of Net Income	11955
 AquaSee Networks Ltd Data Controller INST-80838526970	7167
 Arab NGO Network for Development	11079
 Arab Network of Judicial Inspection Services	13865
-Area Network	718
+Area Network	718,14020,45
 Area Network VM Virtual Machine VMs	13185
 Argentina’s AI Network and AI Innovation Lab	11135
 ArogyaBharti Network Project	13974
@@ -211,6 +213,8 @@ CAPACITY AND NETWORK	10852
 CDAC Network	7174
 CDAC Network's SAFE AI	7147
 CDN Content Delivery Network Colo Colocation	10861
+CEB SSDG Net Metering Scheme	14807
+CEB SSDG Net-Billing Scheme	14745
 CEN The Customs Enforcement Network	13051
 CEN The Customs Enforcement Network Data	13051
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
@@ -218,6 +222,7 @@ CISCO NetAcad Centres	13095
 CISCO Networking Academy	12361,46,565
 CLINICAL RESEARCH HEALTH NETWORK LIMITED Data	7167
 CLINICAL TRIAL NETWORK	7845
+CMC Networks	14810
 COMPILATION OF PRO-FORMA SOFP NET	4896
 COMPTIA Network	1940
 COUPLET NETWORKS LIMITED Data Controller INST-18596535126	7167
@@ -250,6 +255,7 @@ Cerebras and Palo Alto Networks	1843
 Certified Network Specialist	13078
 Chairperson of Guodong Network Communication Group	9938
 Change Net	6000
+Charitable Institutions and SSDG Net Billing Scheme	14745
 Chief Executive Officer of Mawingu Networks	5218
 Chief Fixed Network Officer	9528
 Child Transmission PNG Portable Network Graphics	34
@@ -317,6 +323,7 @@ County Youth and Adolescent Network Data Processor	7167
 Coverage Network Enhancement Program	5058
 Covid-19 Pandemic. Netherless	718
 Crei Networks	3862
+Cross Domain Convolutional Neural Networks. IEEE	14769
 Cross-Border Fiber Network Ethio	4975
 Current DARE1 Network Map DARE1	13869
 Customer MAN Metropolitan Area Network MDA	13312,2
@@ -326,6 +333,7 @@ Customs Network for Transit Trade	13042
 Cybersecurity and Network Forensics	13078
 Cyberspace Network	11506
 Cyberspace Network Ltd	3862,2887
+D Convolutional Neural Network for Robust Hyperspectral	14769
 D The Network Access Support Project	182
 DATA STEWARDSHIP NETWORK AND PROFESSIONAL STANDARDS	3861
 DATA TRAFFIC Mobile Network Operators	6000
@@ -381,6 +389,7 @@ Distinguish Urban and Rural Network Performance NCC	4130
 Distribution Network	11857,542
 Distribution Network Management	12399
 Distribution Network Strengthening	12358
+Domestic Connectivity Network Access Providers	14723
 Domestic Fixed Network Traffic	6671
 Downloaded Domestic Off Net Minutes	9781
 Dr. António Agostinho Neto International Airport	4275
@@ -411,6 +420,7 @@ Ecoband Networks	8025
 Ecoband Networks Limited	3386
 Econet Netone Telecel Male	6000
 Econet and NetOne	6000
+Economy Network	14819
 Edge Network Services	3839
 Edge Network Services Limited	3839
 EduSpots Network. Isaac Kobby Ayibor	11306
@@ -572,6 +582,8 @@ Global Entrepreneurship Network Botswana	12540
 Global Examples The Network for Greening the Financial	13532
 Global Finance and Technology Network	4477
 Global Financial Innovation Network	12444
+Global Fintech Networks Industry Associations	14819
+Global Fintech Networks Position Mauritius	14819
 Global Impact Investing Network	4972
 Global Land Tool Network	1391
 Global Network Division	5664
@@ -591,13 +603,15 @@ Government Data Network Expansion	1670
 Government Data Network Expansion III	5445
 Government Data Network Expansion III P74	2647
 Government Data Network Expansion III P75	5646
+Government Fibre Network	14729
 Government Intranet Network Systems	14566
+Government Intranet Network. The InfoHighway	14725
 Government Network	4685,3347,3718,1777
 Government Network Grant No	13527
 Government Network Infrastructure	12917
 Government Network Infrastructure Development	12917
 Government Network Infrastructure Short Term Department	12917
-Government Wide Area Network	2386,702,4042,304,1718,2019,332,711,85,154,552,54,276,10,90,136,114,989
+Government Wide Area Network	2386,702,4042,304,1718,2019,332,711,85,154,552,54,276,10,90,136,114,989,55
 Government Wide Area Network ICT Information	13345
 Government Wide Area Network ITU International	12241,839,15
 Government-Wide Area Network	2256
@@ -626,6 +640,7 @@ Health Network Quality Improvement System IAM	14442
 Hexaract Network Experts	2735
 High Demand Driving Network Congestion Despite	4601
 Historical Safety Nets Coverage	10964
+Honoris Educational Network Ltd	14775
 Horizontal Expansion Hunger Safety Net Programme	10763
 Hosts and Network	9123
 Household Resilience Building Through Safety Nets	10763
@@ -647,6 +662,7 @@ I-World Networks Ltd	3862
 ICCR's Gen Next Democracy Network	12617
 ICT Networks and Capacity Building	12917
 IGAD Cross-Border Trade Knowledge-Sharing Network	10634
+IMT NETWORKS	14825
 INFRASTRUCTURE Transport Network	10759,78,1052,451
 INSM Network	9082
 INVESTING IN ADAPTIVE SAFETY NETS	12181
@@ -664,6 +680,7 @@ ISP Network Management Equipment	2913
 ISPs and Network Operators	1872
 IV. NETWORK REINFORCEMENT AND ENERGY ACCESS	13054
 Ibero-American Network of Data Protection	12210
+Imagery and Neural Networks	14769
 Impact Investing Network	12297
 Impacts The Madagascar Safety Nets and Resilience	14553
 Impacts of Safety Nets	11924
@@ -690,6 +707,9 @@ Innovation Support Network	12053
 Insecticide Treated Nets	4301
 Instagram and Netflix	6000,7673
 Instant Payment Network	2075,3215
+Insurance and Safety Nets	14818
+Insurance and Safety Nets Existing	14818
+Insurance and Safety Nets Limited	14818
 Integrated Accounting Computerized Network	3604
 Integrated Government Network	3604
 Integrated National Laboratory Network	4260
@@ -748,6 +768,8 @@ Kenya's Hunger Safety Net Program	10963
 Kenya’s Hunger Safety Net Program	10964
 Kerberos Network Authentication Service	1009
 Kingdom of Eswatini. Fixed Network Operators	12395
+Knowledge Networks	14819
+Knowledge Networks Strengthen Mauritius	14819
 Korea Telecom Rwanda Networks	1903
 Korea Telecom Rwanda Networks LPG Liquefied	718
 Kurdistan Network	9082
@@ -801,6 +823,7 @@ MALAWI RESEARCH AND EDUCATION NETWORK MEPA	12253
 MARIA ALICE OLIVEIRA DA SILVA NETO	10750
 MB Megabytes MNO Mobile Network Operator	2776
 MHz Access Networks	736
+MHz Frequency Band for Operation of IMT Networks	14825
 MNC Multinational Corporation MNO Mobile Network	3184,1,1340,6256,214,1432,2055
 MNO Mobile Network Operator Figure	582
 MNO Mobile Network Operator MW Megawatt	718
@@ -816,6 +839,7 @@ MTN Group Limited Mobile Telephone Networks	7198
 MTN Group Limited and Mobile Telephone Networks	7198
 MTN Mobile Telephone Networks	12911
 MTT Partner Network	10157
+MUR AMOUNT NET BOOK	14736
 MW for Rusumo Networks	12358
 Machine MNO Mobile Network Operators NDP	13346
 Machine Subscriptions Mobile Network Q3	2776
@@ -825,6 +849,7 @@ Madagascar's Parliament Calls for Faster Network Rollout	14649
 Maer Neto	5587
 Magamba Network	8318,764
 Magamba Network for Southern Africa	8318
+Maintenance of Transmission Networks Effective	14745
 Major Network Upgrade	3060
 Malaba Fiber and Tower Network	1171
 Malawi Digital Broadcasting Network Limited	14674
@@ -859,18 +884,19 @@ Ministry Network. Guidelines	34
 Ministry of Health's Government Wide Area Network	12141
 Mkel Networks Limited	3862
 Mobile Cellular Telephone Network	12395
+Mobile Communications Networks	14780,45
 Mobile GWAN Government Wide Area Network	13346
 Mobile Net Zero	7402
 Mobile Network	762,11633
 Mobile Network Connectivity Mobile Network Connectivity	12395
 Mobile Network Coverage	6946,5449
 Mobile Network Infrastructure and Services	6946
-Mobile Network Operator	2776,1086,3084,1636
+Mobile Network Operator	2776,1086,3084,1636,6198,45
 Mobile Network Operator MSS Mobile Satellite	14674
 Mobile Network Operator SSA	1551
 Mobile Network Operator and Market Share	2776
 Mobile Network Operator and Market Share Mobile	2776
-Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583
+Mobile Network Operators	479,103,136,240,852,528,438,236,850,1520,57,242,319,238,652,56,455,532,1177,136,1031,130,813,39,598,478,60,164,419,366,188,37,38,583,590,42,3
 Mobile Network Operators Fintech Companies Pension	12701
 Mobile Network Operators Fixed Network Operators	12395
 Mobile Network Operators Malawi National Social	10763
@@ -916,6 +942,8 @@ NCC Healing Optical Fibre Network	11857
 NCC's Technical Standards and Network Integrity Department	9564
 NDC Nationally Determined Contribution NPV Net	1264
 NEA National Electrification Analysis NPV Net	11380
+NET ASSETS	14736
+NET BOOK	14736
 NET DE SCOLARISATION PAR SEXE Nombre	10847
 NET FINANCE COST Table	10793
 NET POSITION	11955
@@ -1034,6 +1062,9 @@ Net Attendance Rate	12413
 Net BTC	8590,233
 Net Banking	12917
 Net Borrowing External	14546
+Net Cash	14736
+Net Cash Flows	14736
+Net Change Number	14840
 Net Commitment of US	13831
 Net Discounted Present Value NGO National	10964
 Net Domestic Sales of Petroleum Fuels	2775
@@ -1072,7 +1103,9 @@ Net School Attendance Rate	12431
 Net Settlement	12364
 Net Settlement Instructions	12364
 Net Source of Funds Total Disbursed Remaining	1284
+Net Stable Funding Ratio	14744
 Net TOC Theory of Change UNHCR United	11924
+Net Tertiary Enrolment Rate OU	14775
 Net Traffic	2776,7005
 Net Under	13420
 Net Underspending ZWL	13420
@@ -1085,6 +1118,7 @@ Net-interest	11131
 Net-metering	14422
 NetAccess Systems Ltd	3862
 NetApp	4434,4615
+NetApp FAS70	14802
 NetAssist Cybersecurity Provider Malaysia	4924
 NetBlocks	5215
 NetCatOnline	13926
@@ -1137,7 +1171,7 @@ Netflix. L’institution	6234
 Netflix’s Global Top	10481
 Netherland	11129
 Netherland Figure	11129
-Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,65,21,55,124,43,1,177,536,96,21,27,170,4,465,11
+Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122,50,21,38,23,18,284,7,1,416,37,25,223,65,129,91,50,65,21,55,124,43,1,177,536,96,21,27,170,4,465,11,744
 Netherlands Ambassador	9546
 Netherlands Antilles	11609
 Netherlands Development Organisation	10592
@@ -1185,10 +1219,10 @@ Netumbo Nandi-Ndaitwah Science Exhibition Hall	13202
 Netwerk24	13461
 Netwerk24.55	13461
 Networicing	11517
-Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210
+Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,75,183,95,41,89,77,477,72,16,13,22,93,259,35,31,301,294,3,42,50,3,51,51,104,80,117,6,31,4,188,29,65,230,94,163,17,87,286,235,152,65,381,73,210,71,14
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
-Network Access	10721
+Network Access	10721,4002
 Network Access Control	11986,1067
 Network Access Support Project	182
 Network Across Sea	6678,209,414,23
@@ -1298,9 +1332,10 @@ Network Project	13974
 Network Project URL	13974
 Network Q3	2776
 Network RBM Reserve Bank of Malawi SIM	14674
-Network Readiness Index	11195,662,476,341
+Network Readiness Index	11195,662,476,341,2078
 Network Readiness Index Country Comparison	11857
 Network Readiness Index Model	11857
+Network Readiness Rank	14752
 Network Rehabilitation and Upgrading Program	12195
 Network Reinforcement and Access Project	12388
 Network Reinforcement and Access Project Eswatini	2391
@@ -1318,11 +1353,12 @@ Network Security Policy Security	10721
 Network Security Policy and Tier	10721
 Network Security Standards and Guidelines	34
 Network Segmentation	11231
-Network Service Provider	718
+Network Service Provider	718,14005
 Network Service Provider CoE Centre of Excellence	6946
 Network Service Providers	10721,2574
 Network Services	736,11921
 Network Services BFWA Light	736
+Network Services Provider	14723
 Network Slicing	3921
 Network Specialist	9152
 Network Startup Resource Center	1036
@@ -1334,6 +1370,7 @@ Network Subnetwork Code Edge	8605
 Network Subnetwork Code Web	8605
 Network Support Technicians	6832
 Network TABLE OF CONTENTS	6936
+Network TV Television PMO Prime Minister	14723
 Network Technologies	1872
 Network Tier	10721
 Network Time Protocol Version	7627
@@ -1350,6 +1387,7 @@ Network and Information Security Directive	6471
 Network and Information Systems	14673
 Network and Licence Investment	1441
 Network and MoMo Platform CapEx	924
+Network and Satellite Images	14769
 Network and Security Backup	6432
 Network for Greening the Financial Sector	11134
 Network for Greening the Financial System	13532
@@ -1365,7 +1403,7 @@ Networked	226,2292,9342
 Networked Governance of Citizen Coproduction	5349
 Networked Markets	10819
 Networked Readiness Index. Global Information Technology	961
-Networking	2816,1310,5495,1462,434,1400,268,839,124
+Networking	2816,1310,5495,1462,434,1400,268,839,124,628
 Networking Academy	10247,2114
 Networking Cloud	6832
 Networking Infrastructure	13185
@@ -1376,11 +1414,12 @@ Networking Threat	1940
 Networking and Cybersecurity Education	8560
 Networking and Systems Administration	2308
 Networkreadinessindex.org	11857
-Networks	21,102,455,158,717,1501,1129,47,2702,1133,640,1800,183,253,1405,142,65,1251,661,26
+Networks	21,102,455,158,717,1501,1129,47,2702,1133,640,1800,183,253,1405,142,65,1251,661,26,332,57,45
 Networks Anonymous	5602
 Networks Kenya Limited and Telkom Kenya Limited	6946
 Networks Malawi UNDP United Nations Development	14674
 Networks Mr. Sipopa Mulikita	34
+Networks Network	14723
 Networks Restored	2677
 Networks ZDA Zambia Development Agency ZESCO	12376
 Networks and Services. Mutual	10819
@@ -1410,6 +1449,7 @@ OFF NET ENVIADA	11574
 OFF NET RECEBIDA	11574
 OI Other Investment ONA One Network	2775
 ONA One Network Area P2P Peer-to-Peer	13312,2
+OPERATION OF IMT NETWORKS	14780
 Obligations of Licensed Satellite Network Operators	10407
 Observing Network GDM General Directorate of Meteorology	13729
 Okwiri and Guodong Network Communications Group Chairman	10283
@@ -1469,6 +1509,7 @@ Part Two Telecommunications Networks and Services	13951
 Part of National AI Push NetOne Turns	3965
 Participant Networks	11878
 Partnerships for Progress NetOne	11656
+Passenger Information Network	14753
 Passive Network Infrastructure	4360
 Pay Through Netbanking Payment Due Dates	12454
 People’s Network	11007
@@ -1530,6 +1571,7 @@ Protocol for Packet Network Intercommunication	1036
 Provide Connectivity and Managed Network Services	2552
 Provide Connectivity and Managed Network Services Partner	2552
 Public Disclosure Authorized Adaptive Safety Nets	10963
+Public Land Mobile Network	14780,45
 Public Network Operator	736
 Public Network Operators	736
 Public Security Network Project	121
@@ -1597,6 +1639,7 @@ Revenue Net Profit Assets Liabilities Shareholder	1013,931
 Revenue Network	10793
 Revenues Net Profit Assets Liabilities Shareholders	1944
 Review and Approve Network Service Contracts	12320
+Revised Eligibility for SSDG Net-Billing Scheme	14745
 Road Network	13474
 Road Networks	13474
 Robust Network Architecture	13851
@@ -1613,6 +1656,8 @@ SIGFOX TECHNOLOGY SigFox Network	12949
 SIM Card Surveillance and Network Facility	6946
 SIM Network-layer	6593
 SOUTH AFRICA EXTENDED NETWORK	11002
+SSDG Net-Billing Scheme. Home Solar Project	14745
+STATEMENT OF CHANGES IN NET ASSETS	14736
 SUDAN One Net Area	9781
 SWIFT TELEPHONE NETWORK LIMITED	3862
 Sacramento Neto	7882,3600,196,18
@@ -1662,6 +1707,7 @@ Senior Network Engineer Dr. Davy Misheck	34
 Senior Networks Officer	9152
 Sentient Networks Ltd	3862
 Service Land and Network Furniture& Motor Capital	236
+Service Provision Network	14723
 Settlement of Net Settlement Instructions	12364
 Settlement of Net Settlement Instructions NSIs	12364
 Shared Agent Network Expansion Facilities	3735
@@ -1704,6 +1750,7 @@ State Private Technological Netwo Crosswalk	182
 State Private Technological Network	181,1,8
 State of Social Safety Nets	13332
 State's Private Technological Network	3843,8048
+Storage Area Network	14783
 Storage Area Networks	9123
 Storage and Networking	11209
 Stream Networks Ltd	3862
@@ -1765,6 +1812,7 @@ Telekom Networks	12965
 Telekom Networks Malawi	3349,584,3480
 Telekom Networks Malawi PLC	10131
 Telekom Networks Malawi Plc	12315
+Telephone Network UNESCO United Nation Educational	14723
 Telrad Networks Limited	4896
 Telserve Networks	10958,548
 Telserve Networks Ltd	3862
@@ -1818,6 +1866,7 @@ Ultra Broadband Convergence Network Kuwait	11529
 Under the World Economic Forum’s Network Readiness	236
 Undersea Network	5252
 Unilever and Netflix	753
+United Nations Economist Network	14819
 United States African Network	13331
 Universidade Agostinho Neto	6585,533,4293,221
 Upanzi Network	911,8707,1459
@@ -1845,6 +1894,7 @@ VSAT Network	736
 Variation Variation MOBILE NETWORK SERVICES	2776
 Various Fibre Networks	11259
 Various Networks	11259
+Veritas NetBackup and Veeam Solution	14802
 Vilcom Network Ltd	6671
 Vilcom Networks and Ahadi Wireless	6732
 Violence Government Communications Network Grievance Redress	4653
@@ -1864,6 +1914,9 @@ WEF Networked WEF Rank WEF Netwo	12917
 WELFARE Social Safety Nets	10759,78,1052,451
 WIDE AREA NETWORKS Official Use Only	12253
 Wacc Amortissement Base Tarifaire Nette	10975
+Water Monitoring Network	14818
+Water Networks and Irrigation Efficiency	14818
+Water Networks and Irrigation Efficiency Upgrading	14818
 Watoto Watch Network	8095
 West African Research and Education Network	5244
 West and Central African Research and Education Network	11552
@@ -1878,6 +1931,7 @@ Wireless Local Area Network	3386
 Wireless Networks	2405,106
 Wireless Open Access Network	6832
 Wireless Open Access Networks	6152
+Women Police Officers Network	14760
 Women of Uganda Network	6949,997,1199
 WonderBoard Networks	13043
 WoredaNet Network Upgrade	14010

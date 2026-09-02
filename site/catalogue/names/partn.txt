@@ -180,7 +180,7 @@ Commercial and Investment Partnership	8512
 Commissioner for International Partnerships	5499,1151
 Committee Chairman and Managing Partner for Templars Ghana	7696
 Complementary Interventions This Partnership Compact	12175
-Comprehensive Economic Partnership Agreement	4583,7443,1490,960
+Comprehensive Economic Partnership Agreement	4583,7443,1490,960,343
 Comprehensive Economic Partnership Agreement CEPA	12026
 Comprehensive Economic Partnership RECs Regional Economic	1243
 Comprehensive and Progressive Trans-Pacific Partnership	961
@@ -361,7 +361,7 @@ Ebury Partners	7167
 Ecobank Rwanda Plc Partners I and M	12358
 Economic Development Partner. IFC	2577
 Economic Innovation Partnership Programme	11165
-Economic Partnership Agreement	789,1039,4726,4656,1712,1706,2
+Economic Partnership Agreement	789,1039,4726,4656,1712,1706,2,189
 Economic Partnership Agreements	10980,1680
 Economy Partnership DEPA Digital Economy Partnership	1243
 Education Development Partners	13990
@@ -449,14 +449,14 @@ Gallup Land Partners	6529
 General Manager for Strategic Partnerships	6058
 General Partner	4722,1157,3218
 General Partner and Head of Platform and Operations	5897
-Generation Partnership Project	5675
+Generation Partnership Project	5675,9150
 Global Cybersecurity Centre Partnership	6557
 Global Digital Inclusion Partnership	2677,139,6972,2114
 Global Digital Inclusion Partnership’s Good Practices	2677
 Global Partners	13851
 Global Partners Digital	11028
 Global Partners Digital’s Africa OEWG Positions	2117
-Global Partnership	899,62,243,610,1002,1310,2837,34,245,1209,2703,1521
+Global Partnership	899,62,243,610,1002,1310,2837,34,245,1209,2703,1521,2161
 Global Partnership Fund for Education	14031
 Global Partnership for Education	899,3930,2944,4087,40,5,11,259,329,222,344,134,1,105,39,641,9,1,57
 Global Partnership for Education Fund IDA Resources	11905
@@ -623,11 +623,12 @@ Life Partnership Policy	5533,6453
 Life Partnership. Life Partnership	11986
 Life Partnerships. The Life Partnership Policy	11986
 Likouala Timber Company. Partnership	11897
-Limited Liability Partnerships Act	7845
+Limited Liability Partnerships Act	7845,6872
 Limited Partner	8612
-Limited Partnerships Act	7845
+Limited Partnerships Act	7845,6872
 Livestock Multiplication and Distribution The Partner States	14409
 Local Group of Education Partners	11907
+Local Partner	14775
 Local Partners and Government of Mozambique	4260
 Looking Ahead The Partnership Dialogue	13170
 M Partnership Google	675
@@ -637,6 +638,7 @@ MICSTI Academia Development Partners	12674
 MILLION AND PROPOSED ADDITIONAL GLOBAL PARTNERSHIP	13860
 MILLION FROM THE GLOBAL PARTNERSHIP	11905
 MIS14.pdf. Roll Back Malaria Partnership	13300
+MITCI Technology Partnership Programme	14750
 MOSIP’s Vice President for Partner Ecosystems	6543
 MTN Executives and SME Partners	9840
 MTN Is Partnering	8111
@@ -674,6 +676,7 @@ Middle East and Indian Ocean. Partner2Connect	1634
 Migration Partnership	643
 Ministries and Agencies PPP Public Private Partnerships	12973
 Ministries. European Partners	789
+MoU’s and International Partnership	14729
 Mobile for Development Strategic Partnership UK FCDO	129
 Mobilisation and Research Promotion Partnerships RCZ	1554
 Model Case for U.S.-Africa AI Partnership Activating	6790
@@ -761,6 +764,7 @@ PPP Strategic Partnership for Smart Driving Licences	11789
 PPPC Pubic Private Partnership Commission QA	12917
 PPPP Public-Private-People Partnership PSSA Payment Systems	4126
 PROMOTE PARTNERSHIPS AND COORDINATION FOR EEFECTIVE	12939
+PSIP Public Private Partnerships	14830
 PUBLIC PRIVATE PARTNERSHIP COMMISSION SEA SH	12253
 PUBLIC SECTOR PARTNERSHIP	13962
 PUBLIC-PRIVATE PARTNERSHIPS	5533,5728
@@ -772,7 +776,7 @@ Partech Partners	865,30,160,3793,7528
 Partech Partners Developed	12339
 Partech Partners'. Partech	391
 Partne3rs.7hipP	10157
-Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743
+Partner	2678,396,361,691,65,95,142,6,94,296,72,92,1187,75,182,35,469,84,375,25,24,152,155,276,873,806,14,30,401,853,136,97,39,45,268,284,7,17,67,246,4,142,58,30,64,4,163,639,147,352,743,262
 Partner Contributions	11469
 Partner Countries	3760,9683
 Partner Ecosystem	7065
@@ -820,8 +824,8 @@ Partner2Connect Champions	7139
 Partner2Connect Digital Coalition	2663,5955
 PartnerAfrica-Project	455,1688
 PartnerAfrika-Projekt	455,1688
-Partnering	786,113,59,3692,13,315,162,300,262,1569,1355,2215,290,249,574,40,246,855,513,270
-Partners	249,638,55,322,98,349,17,49,1756,7,64,217,19,107,179,308,548,983,188,874,47,474,1451,23,61,496,1142,108,308,73,135,204,11,97,240,98,180,22,13,30,1,5,110,20,3,216,79,87,202,117,15,71,88,1,59,18,17,1115,42
+Partnering	786,113,59,3692,13,315,162,300,262,1569,1355,2215,290,249,574,40,246,855,513,270,957
+Partners	249,638,55,322,98,349,17,49,1756,7,64,217,19,107,179,308,548,983,188,874,47,474,1451,23,61,496,1142,108,308,73,135,204,11,97,240,98,180,22,13,30,1,5,110,20,3,216,79,87,202,117,15,71,88,1,59,18,17,1115,42,313
 Partners ASALs	7548
 Partners Accra	12232
 Partners Associazione ScuolaNuova.EU AI AZ DATA	8530
@@ -855,6 +859,7 @@ Partners MACROECONOMIC FRAMEWORK World Bank Implement	11906
 Partners MICDE ICTA	7548
 Partners MICDE Innovation	7548
 Partners MICDE Theme	7548
+Partners Mauritius	14747
 Partners Ministry of Foreign Support	7548
 Partners Origin	13051
 Partners Our Key Regional Links Take	12515
@@ -876,7 +881,7 @@ Partners and UNDP Following	13080
 Partners for Peace	11868
 Partners the Office	12977
 Partners.Law	3976
-Partnership	958,90,770,1462,319,189,107,363,270,760,388,76,789,251,319,36,820,144,134,219,1118,59,399,117,564,410,4,141,587,378,159,112,39,86,120,175,30,9,109,15,61,192,634,14,2,33,472,125,20
+Partnership	958,90,770,1462,319,189,107,363,270,760,388,76,789,251,319,36,820,144,134,219,1118,59,399,117,564,410,4,141,587,378,159,112,39,86,120,175,30,9,109,15,61,192,634,14,2,33,472,125,20,120,60,3
 Partnership Agreement	10841,2315,164,676
 Partnership BO	11276
 Partnership Commission	14674
@@ -927,7 +932,7 @@ Partnership for Skill	2816
 Partnership for Statistics for Development	766
 Partnership-First Strategy	9879
 Partnership-building	13005
-Partnerships	395,563,173,597,997,871,1233,19,145,251,2,287,778,479,158,203,53,311,33,473,1,272,428,631,567,235,446,19,156,65,435,9,47,75,314,2,177,40,46,8,59,157,31,5,110,39,62,36,113,153,2,156,17,1,145,15,200,62,2,39,76,95,23,307,355,232,80
+Partnerships	395,563,173,597,997,871,1233,19,145,251,2,287,778,479,158,203,53,311,33,473,1,272,428,631,567,235,446,19,156,65,435,9,47,75,314,2,177,40,46,8,59,157,31,5,110,39,62,36,113,153,2,156,17,1,145,15,200,62,2,39,76,95,23,307,355,232,80,186
 Partnerships AI Forums and Science	12356
 Partnerships And Collaborations	958
 Partnerships Collaborative	12210
@@ -947,6 +952,8 @@ Partnerships and Communication	3758
 Partnerships and Donor Relations	11469
 Partnerships and Financing	13989
 Partnerships and Innovation	13005
+Partnerships and Innovation Division	14824
+Partnerships and Regional Leadership The NCRCSA	14752
 Partnerships and Stakeholder Management	5185,13
 Partnerships for AI	12210
 Partnerships for Africa's Development	13480
@@ -962,6 +969,7 @@ Partnneerrshaiplrseaindpylaocnebo	8999
 Peak XV Partners	12244
 People Partnership	14566
 People Partnerships Collaboration	14566
+People and Partnerships	14752
 Plan D4TEP Country Partnership Framework	3604
 Plan PPP Public-Private Partnership PPSD Project	13331
 Plant and Animal Diseases Control The Partner	14409
@@ -976,7 +984,7 @@ Pravinkumar. Partnerships	10489
 President and Cabinet PARIS21 Partnership	13359
 Prium Partners	10467
 Private Partner	12917
-Private Partnership	12240,820
+Private Partnership	12240,820,1669,90
 Private Partnership PPSD Project Procurement Strategy	1264
 Private Partnerships	11310,930,820,287
 Private Partnerships QMD Quality Management Directorate	12240
@@ -997,7 +1005,7 @@ Promotion of Public-Private Partnerships	13060
 Provide Connectivity and Managed Network Services Partner	2552
 Public Disclosure Authorized COUNTRY PARTNERSHIP FRAMEWORK	11469
 Public Private Partnership	1264,3037,732,6191,65,485,86,737,1949
-Public Private Partnership Act	5793
+Public Private Partnership Act	5793,9037
 Public Private Partnership Act No.14	13346
 Public Private Partnership Commission	1572,60,2011,35,6733,1842,46,760,1,54,71,1210
 Public Private Partnership Commission Country	13185
@@ -1017,17 +1025,19 @@ Public Private Partnerships. Workplace	789
 Public and Private Partnership. Described	12359
 Public- Private Partnership	1131,11466
 Public-Private Partner	13093
-Public-Private Partnership	1988,1890,423,218,24,707,277,1414,691,914,49,573,87,1348,1260,47,94,352,232,385
+Public-Private Partnership	1988,1890,423,218,24,707,277,1414,691,914,49,573,87,1348,1260,47,94,352,232,385,1857
 Public-Private Partnership Act	9778
 Public-Private Partnership Forum	1000
 Public-Private Partnership GHS Ghana Cedi SBOM	6936
-Public-Private Partnerships	3604,1640,3,1501,3295,270,905,30,615,91,32,9,245,5,111,319,385,808
+Public-Private Partnerships	3604,1640,3,1501,3295,270,905,30,615,91,32,9,245,5,111,319,385,808,951,11
+Public-Private Partnerships and Ecosystem Development	14819
 Public-Private Partnerships for Infrastructure Expansion	6936
 Public-Private-People Partnership	9876
 Purchase Agreements PPP Public Private Partnership	12399
 Quona Venture Partner Johan Bosini	10279
 Qvantel Deepens Djezzy Partnership	5278
 R8. Partner	13314
+REINFORCING COMMUNITY SAFETY AND PARTNERSHIP TACKLING	14760
 RESEARCH RESEARCH FOCUS PARTNER Bangladesh South	10852
 ROLE OF DEVELOPMENT PARTNERS	11860
 Ratio GDP Global Partnership for Education GER	11905
@@ -1059,6 +1069,8 @@ SHIANEE CALCUTTEEA CHETAN ANCHARAZ Partner Associate	12232
 SIGN A PARTNERSHIP TO SPONSOR	12358
 SIM Adoption Partnerships Reshape the Connectivity Should	12395
 SMART Zambia Unveils Landmark Partnerships	13441
+STAIR Digital and Spectrum Growth Partners	14776
+STAIR Digital and Spectrum Growth Partners Eliz	14776
 STAKEHOLDER ENGAGEMENT AND PARTNERSHIPS	5244
 SUMMARY OF PARTNER STATES ADOPTION	13342
 SUSTAINABLE FISHERIES PARTNERSHIP AGREEMENT BETWEEN	14447
@@ -1102,6 +1114,7 @@ State-Owned Enterprises and Public-Private Partnerships	13685
 States. Partnership	11976
 Stop TB Partnership	2816
 Strategic Development and Investment Partner	10518
+Strategic International Partnerships	14819
 Strategic Investment and Partnerships Objective	4528
 Strategic Partner Manager	13461,1
 Strategic Partner News Publishers	13462
@@ -1147,6 +1160,7 @@ Tech Senegal Partners With Sonatel	2600
 Tech4Dev Funding Partner	11314
 Technical Delivery Partner	14308
 Technical Partner	10816
+Technical Partners	14819
 Technical Partnerships and Regional Cooperation NIRA	10521
 Technical and Financial Partner UHC Universal Health	10829
 Technical and Financial Partners	3604,7361,15,936
@@ -1198,6 +1212,7 @@ United Nations Partnership	12977
 University Partnerships Initiative	13095
 University Research Partnership Project	8456
 University and ART Partnership	4991
+Unlocking Public-Private-People Partnership Innovation	14752
 VANESSA ALABI Managing Partner Managing Counsel	12232
 Values Top Management Board of Directors Partners	12499
 Verraki Partners	4191

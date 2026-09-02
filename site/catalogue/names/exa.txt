@@ -11,12 +11,14 @@ April. Examples	13341
 Assess Enrol EXAMPLE AI-enabled	11156
 Assessment and National Examination	13960
 Attributes Symbol Example Application Name N	9124
+Autocheck Vehicle Examination Station	14753
 AÑO QUE SE EXAMINA	3179
 Bar Examination	12972
 Bennett S. Examining	3791
 Botswana Examinations Council	12574
 Brief&lang exact	13579
 Bright Chiwama Published By Examinations Council	13477
+C1- C6 List of Examinations Conducted	14775
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
 Caractéristique Examen du Prise	13300
 Case Example of Thailand	226
@@ -34,6 +36,7 @@ Director ICT The Examinations Council of Zambia	13477
 Directorate of Examinations of MEPPSA	11905
 Directorate of National Examinations and Assessment	12345
 Driving License Exam Results	12333
+E.2. Preliminary Examination E.2.1 Prior	14778
 ECESWA Examination	12975
 ECZ Examinations	13477
 EU AI Act. Examples	11135
@@ -63,7 +66,7 @@ ExaGrid Backup Storage. ExaGrid	11209
 ExaGrid and HPE The IDC	11209
 Exabeam	2824
 Exacciones Parafiscales	4209
-Exacerbating	14487
+Exacerbating	14487,236
 Exact	379,25,241,5,35,732,724,87,6378,2240,2984
 Exact CapEx	1174
 Exact KOICA	907
@@ -100,7 +103,7 @@ Examination Pass Rates	13399
 Examination Results	13477
 Examination Security Heightens	13477
 Examination Year	13477
-Examinations	736,3874,8533,334
+Examinations	736,3874,8533,334,1359
 Examinations Council of Eswatini	12975
 Examinations Council of Zambia	13477
 Examinations Council of Zambia Act No	13477
@@ -157,12 +160,14 @@ Example of Military Address	11129
 Example of Organization Address	11129
 Example of Post Office Box	11129
 Example of Private Mail Bag	11129
+Example of Public and Private Sectors Data Use	14790
 Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
 Example. The Kenya Social Security Agency	14524
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146,53,96
 Examples for Section	8530
+Examples of Bid	14778
 Examples of Data	14434
 Examples of G2P	11130
 Examples of M-PESA	11994
@@ -182,6 +187,8 @@ FIGURE A.3 GENERIC EXAMPLE	1009
 First School Leaving Certificate Examination. Walter	2319
 Formação Ciências Exatas	12019
 Free Exam Preparation for Every Ethiopian Student	12199
+Free Examination Fees	14742
+Free Examination Fees Scheme	14742
 GCE Examination	13477
 General Certificate of Education Examinations	13477
 Global Examples The Network for Greening the Financial	13532
@@ -189,6 +196,7 @@ Grade Nine Examination	13477
 Grade Online Examination	13991
 Grouping Roles Examples	6832
 Guides Learning and Teaching Support Materials Examinations	11241
+HAURADHUN Veejay Chief Examiner National	14770
 Hamweendo Senior Examinations Specialist	13477
 Harare. Example Zimbabwean Location	6666
 Heads of School Certificate Examination Centres and Heads	13477
@@ -219,8 +227,13 @@ Kenya National Examinations Council	899,3084,2963,7600
 LISTÉ DANS Exactement	13300
 Leaving Examinations	13477
 Level Description Examples Public	11952
+List of Examinations Conducted	14775
 Malawi National Examinations Board	12175,1302
 Matches Exa	3098
+Mauritius Examination Syndicate	14836
+Mauritius Examinations Syndicate	14775,72
+Mauritius Examinations Syndicate MGI	14775
+Mauritius. B. Solicitation Documents B.1. Examination	14778
 Microsoft Professional Exam Vouchers	13095
 Mozambican Example	3861
 NABTEB National Business and Technical Examinations Board	11860
@@ -247,6 +260,7 @@ Park. Examples	11863
 Past Exam	11220,21
 Physical Examinations	13053
 Practical Examinations	13356
+Preliminary Examination of Bids	14766
 Primary School Examination Centres	13477
 Primary School Leaving Examination	7671,5806
 Primary School Leaving Examination. Parent	13477
@@ -254,6 +268,7 @@ Primary School Leaving Examinations	13477
 Primary School Leaving Examinations Certificate. Will	13477
 Principles and Examples	12529
 Princípio de Exactidão	11374
+Provision of School Materials Free Examination Fees	14835
 Public Interest Example Kilimo Ministry	14524
 Radio Amateur Examination Certificate	736
 Recommendation Examples Entrepreneurship Support	10841
@@ -268,6 +283,7 @@ School Certificate Examination. Candidature	13477
 School Certificate Examinations	13477
 School Certificate Examinations. Option	13477
 School Certificate Ordinary Level Examination	13477
+Section I Examples of Bid Rejection Reasons	14778
 Senior Secondary School Examination	5321
 Shadreck Nkoya Director-RPI- Examinations Council of Zambia	13392
 Silício. Exame. Disponível	2816
@@ -283,6 +299,10 @@ Technical Description Example Profile Framework	1009
 Technical Examinations Unit	258
 Trade Mark Examiner	10358
 UMR Espace-Dev. Example	14506
+USED INTERCHANGEABLY. FOR EXAMPLE	14816
+Vehicle Examination Centre	14753
+Vehicle Examination Station. With the Axle	14753
+Vehicle Examiner	14770
 WAEC West African Examination Council	11860
 WAEC West African Examinations Council WAT	11952
 WMO. Examples	11553

@@ -15,6 +15,7 @@ ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 ASYCUDA Automated System for Customs Data CatIS	13861
 Abdellah Deguig Catégorie	8891
 Abhishek Jadhav Categories Biometrics News	9827
+Acquisition of Electronic Catch Reporting System	14830
 Admin Category	12465
 AfDB African Development Bank CATI Computer	13359
 AfricInvest and Cathay Innovation	945
@@ -28,6 +29,7 @@ Approval Last Approved Rating Risk Category	2712
 Approval Risk Category Approval Package	4688
 Assessment Category BASIC INFO TABLE C-Not Required Country	11855
 Asset Addition Categories	12445
+Assistant Catering Officer	14760
 Authority. A Category	2913
 Awasi Catholic Mission Health Centre Data	7167
 Ayang Macdonald Categories Access Control	3623
@@ -40,6 +42,7 @@ BARICHO CATHOLIC HEALTH CENTRE Data Processor	7167
 BCMS CAT CGI CT DADF DC	10858
 BFA Catalyst Fund	12339
 BQA. CAT	12574
+Bail and Remand Court CAT	14742
 Bata Por Catalina Obono Mba Nchama	11633
 Big Cat Alliance and Global Biofuels Alliance	2787
 Big Catch-Up	14622
@@ -53,7 +56,8 @@ CAPITALES DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO	4209
 CAPITALES DE REGIONES CATEGORÍA MINISTERIO CONCEPTO	4209
 CAPÍTULO II Categorização	6462
 CAT CAT-OP CCPR CCPR-OP1 CCPR-OP2-DP CED	11765
-CAT Committee	13040
+CAT Committee	13040,1799
+CAT Convention	14839
 CAT Only	9198
 CAT Programmation	10858
 CAT and OECD	11136
@@ -79,8 +83,9 @@ CATEGORIES AFFECTED	2709
 CATEGORIES OF AUTHORISED FM STATIONS	2776
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
 CATEGORIES OF DATA Certain	961
+CATEGORIES OF LICENSEES	14809
 CATEGORISATION OF CO-OPERATIVE SOCIETIES SN Category	7845
-CATEGORY	12253,136
+CATEGORY	12253,136,2454
 CATEGORÍA	4209
 CATEGORÍA COMERCIO CUOTA ANUAL Ficha	4209
 CATEGORÍA COMERCIO Certificado de Comercio	4209
@@ -144,7 +149,7 @@ Catalog	6423
 Catalog Management	13042
 Cataloging-in-Publication Data IMF Library Names	12948
 Catalogs	13042
-Catalogue	37,1197,3212,3613,38,1456,1321,310,2698,556,99
+Catalogue	37,1197,3212,3613,38,1456,1321,310,2698,556,99,213
 Catalogue Service	13031
 Catalogue des Services Publics Numériques	13882
 Catalogue of ASYCUDA Solutions	13042
@@ -161,7 +166,7 @@ Catalyses	1468
 Catalyseur	5978
 Catalysing	11130
 Catalysing Renewable Energy Access and Transition	13054
-Catalyst	226,6880,5180
+Catalyst	226,6880,5180,2561
 Catalyst Fund	4972,2607,1569
 Catalyst for Inclusive E-Commerce	7860
 Catalyst for Sustainable Development	12962
@@ -190,6 +195,7 @@ Catastrophes	13341,361,741,179
 Catastrophes Centre	14622
 Catastrophic	5665,3458
 Catastros	4209
+Catch	14818
 Catcher	9123
 Catching	8126,3437,806
 Cate and Mayer-Schönberger	8436
@@ -213,7 +219,7 @@ Categorias de Rendimento da DPR	12018
 Categorias de Rendimentos	12018
 Categorias de Rendimentos da DPR	12018
 Categorical	7451,832
-Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349
+Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3,263,417,14,346,567,138,349,329
 Categories Consultancy	9893
 Categories Cybersecurity Allan Juma	9830
 Categories Information Technology	9892
@@ -229,8 +235,10 @@ Categories of Land Ownership. CHAPTER ELEVEN	13399
 Categories of Operators Obliged	12558
 Categories of Participants	12364
 Categories of Payment Messages	12364
+Categories of Stakeholders Gove	14790
 Categories-	9399
 Categorisation	12333
+Categorisation of Stablecoins	14844
 Categorised	8243,4299,919
 Categorization	11863,2075
 Categorization Does	11863
@@ -238,8 +246,9 @@ Categorization of Lamu Basin Blocks Category Blocks	12256
 Categorização	3519,2943
 Categorize Workers	12675
 Categorizing	12445
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,40,3,1,11,1,20,59,56,9,12,164,333,47,132,146,87,175,345,87,521,171,25
 Category A Enterprise	12894
+Category A Income Exemption Threshold	14717
 Category A1	11868
 Category A2	11868
 Category Allocated Financed	11525
@@ -264,6 +273,7 @@ Category Infrastructure Deficits	12508
 Category Licence Category FY	6946
 Category Not Required	11924
 Category Number	13418
+Category Number of Participants Commercial Banks and OFIs	14777
 Category One and Category Two Authorised CASP	8840
 Category Points Qualification and Skills	962
 Category Qualifying	11855
@@ -297,6 +307,8 @@ Cathay AfricInvest Innovation Fund	510,95,7,319,14
 Cathay Africinvest Innovation Fund	612
 Cathedral Piazza	7198,1741
 Cathedral Road	4153,1
+Cathedral Square	14847
+Cathedral Square Building	14847
 Catherene	9128
 Catherine	1769,2083,10802
 Catherine Bitarakwate Musingwiire	2757,2637
@@ -405,6 +417,7 @@ Challenge Categories and Coding Rules Nine	7151
 Changement de Catégorie SIGNATURE Airtel ARCEP	998
 China Category	8726
 Chris Burt Categories Biometrics News	2521,199,5,94,4,91,266,1905,1781
+Classification of Economic Categories	14746
 Climate Safeguards Categorization	13938
 Climate Safeguards Category	11863
 Closed Current EA Category Original EA	11924
@@ -420,6 +433,8 @@ Consumer Category	2775
 Coordenador Manuel Artur Catende	10757
 Cotonou Catholic Relief Services	10821
 Courts Prosecuting Cat Matlala	3962
+Crime Category-wise Jul	14760
+Crimes Category	14760
 Critdres Cat69ories	14479
 Current Expenditure Category	1228
 Customer Categories	12436
@@ -441,6 +456,7 @@ Data Catalogue	12768
 Data Categorisation	13063,417
 Data Categorisation and Sharing Framework	4123,8940,417
 Data Categorisation& Data Sharing	4123
+Data Category Coverage Periodicity Timeliness SDDS	14777
 Data Centre. Cat	12253
 Data Controller Category Tier	1877
 Data Protection Officer Categories	6792
@@ -468,8 +484,10 @@ E.2 Categoria E.2	12018
 EDT Lu-Hai Liang Categories Biometric R&D	9713
 ENVIRONMENT Categorised B	1818
 East African Community Cataloguing-in-Publication Data	14409
+Economic Categories	14738,8
 Economic Category BeTA Bottom-up Economic Transformation	2775
 Editorial Team Category	5289
+Electricity Tariff Categories	14745
 Electronic Green Catalogues	12389
 Emma Catalfamo	11004
 Endeavor Catalyst	4457,2071,2616
@@ -487,6 +505,7 @@ FAO. Category	11398
 FY FY FY License Category Purpose	6946
 Facility The Africa Ecosystem Catalysts Facility	14233
 Fees Loan Category Loan Amount Legally	14206
+Financial Year. Mauritius Police Force Category-wise	14760
 Financing Agreement Description Under Category	10964
 First Catalytic First Loss Guarantee Transactions	8938
 Following Occupational Categories	11218
@@ -536,6 +555,7 @@ Institution Financière CATEGORIE EC IMF EP	13390
 Integrated Catchment Management	12718
 Interim President Catherine Samba-Panza	10837
 Investment Incentives Investment Categories PUBLIC SECTOR	11857
+Investor Category	14828
 Irrigation and Water Catchment Management ARTICLE	14409
 Irrigation and Water Catchment Management The Partner	14409
 Ivy Njoki and Zahraa Dirani. Categories	6705
@@ -583,6 +603,7 @@ Minister of Posts and Telecommunications Category	11000
 MoU Categories	5966
 Mobile SMS Traffic Traffic Category Q3	6000
 Mobile Telephone Traffic Change Traffic Category	6000
+Mobilise Investment and Catalyse Sustainable Fintech Growth	14819
 Mobility Data Space and Catena-X	7313
 Ms. Catherine W. Mugwe	14505
 Multinational Digital Transformation Catalyst	5700
@@ -628,11 +649,13 @@ Permit Category Permits	12256
 Popular Categories	7178
 Postal and Courier Licensees License Category FY	6946
 Postal and Courier Volumes Service Category Q3	6000
+Professional Category	14828
 Project Card Category Details Type	13395
 Project Catalyst	6705
 Project Risk Matrix RISK CATEGORY RISK	11863
 Président Abdelkader AMARA Catégorie	8891
 Public Administration. Category	12153
+Punishment CAT	14742
 REGIONES CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 RESIDUAL AND CATCH-ALL SAFEGUARDS	3861
 RISK CATEGORY RISK DESCRIPTION RATING MITIGATION	13938
@@ -683,6 +706,7 @@ Secretario de Estado de Catastro	1855
 Selected Categories of Commodities	2775
 Senegal Category	9134
 Senegal Catherine Phuong	13253
+Senior Catering Officer	14760
 Sep-2022 Portal EA Category	11924
 Service Catalog	12359
 Service Catalog Hosted	12359
@@ -719,6 +743,7 @@ Tariff Category	9409
 Tariff Category Facility Charge	12394
 Tax Category	12951
 Tax Periods. ITEM CATEGORY VAT RETURNS	12509
+Technical Category	14828
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
 Threshold Category Open Open Short List	11855

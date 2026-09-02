@@ -50,6 +50,7 @@ CP INIT	1294,1,1,766,2321
 CP Inforpress	3192
 CP MODIFIE	1323,1,741,1
 CP Market Failures Bill	1478
+CP Orders	14760
 CP- MEPPSA	11905
 CP-EPI	11905
 CP-ICT	26,1,1
@@ -73,6 +74,7 @@ CPA Patrick Mwati	6946
 CPA Project Team	12654
 CPA Project Team and IT Operations	12654
 CPA and MPA	10829
+CPB Ref	14766
 CPBI. Ainda	10772
 CPC Africa	778
 CPC Central Committee	362
@@ -86,12 +88,15 @@ CPCD URL	13726
 CPCIF	53
 CPCIF Strategic Minority Stake	53
 CPD Act	14224
+CPD Central Population Database C2C Consumer-to-Consumer	14790
 CPD Continuous Professional Development CSP Content	6946
+CPD Continuous Professional Development DOAJ Directory	14747
 CPD Framework	12726
 CPD Indicator	13095
 CPD Platform	13166
 CPD Scale	899
 CPD Summary Log	13381
+CPD The Registrar of Civil	14714,1
 CPD VV.docx	8726
 CPD-related	13381
 CPDCE	14411
@@ -120,6 +125,7 @@ CPF Country Partnership Framework EIRR Economic	13836
 CPF ECD FCV FY IDA IFC	11468
 CPF FINANCIAL SERVICES LIMITED Data Controller	7167
 CPF FINANCIAL SERVICES LIMITED Data Processor	7167
+CPF Framework. Page	14774
 CPF Group Foundation Data Controller INST-50500029378	7167
 CPF INDIVIDUAL PENSION SCHEME Data Controller	7167
 CPF Implementation	11469
@@ -134,9 +140,18 @@ CPF's FCV-sensitive	11475
 CPF0000008 INTERNATIONAL BANK FOR RECONSTRUCTION	12968
 CPFAE	3604
 CPHRM GROUP LIMITED Data Processor INST-230182B3DB0	7167
+CPI Accessibility	14777
+CPI Accuracy and Reliability	14777
+CPI Alignment	14777
 CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
-CPI and PPI	11286
+CPI Elements of Reliability	14777
+CPI Elements of Serviceability	14777
+CPI Manual	14777
+CPI and GFS	14777
+CPI and PPI	11286,3491
+CPI. CPI Serviceability	14777
+CPI. Serviceability	14777
 CPICs	9105
 CPIDH	3045
 CPIMS	4583,4500
@@ -179,6 +194,7 @@ CPOD. D’autre	748
 CPOD. D’une	748
 CPPA Amended Act	11993
 CPPA The CPPA	11993
+CPPM The CPPM	14830
 CPPRS	12068
 CPR Compact Progress Report DoE Department	12717
 CPR The CPR	11993
@@ -186,6 +202,7 @@ CPR-Contribuição Predial Rústica	11532
 CPRDS	12952
 CPS Country Partnership Framework	13861
 CPS Pamphlet May Sept	11341
+CPS Statement	14717
 CPS and CAWIS	11237
 CPS-HSPR	11341
 CPS-HSPR Project	11341
@@ -204,6 +221,8 @@ CPU CONSULT LIMITED Data Controller INST-49878043DA3	7167
 CPU Central Processing Unit CSA Cloud	11952
 CPU Central Processing Unit CVM Controller	13185
 CPU Compute Modules	11209
+CPU External	14781
+CPU Lead Div	14781
 CPU Utilisation	11952
 CPU-Mali	10269
 CPU-RA	11532
@@ -230,7 +249,9 @@ Comissariado Geral de Moçambique CPLP	2816
 Comité CPIM	13468
 Comité de Pilotage CPSD Cadre	13306
 Commission COG Commonwealth Observation Group CPLP	12201
+Commissioner of Police CPL	14760
 Common Market for Eastern and Southern Africa CPI	13452
+Communication Branch CP	14760
 Competencia CPDN	1701
 Component CHW Community Health Worker CPF	11560
 Conferência Estatística da CPLP	2816
@@ -274,6 +295,7 @@ FY25-29 CPF	12968
 Figures CPoS	12486
 GHz CPU	34
 HAUTS-BASSINS CP1 Filles	10847
+HBS and Updates CPI Report	14777
 HF CPE-COD-ENV- Conforme CODAN	998
 Hessen CPV-Code	8546
 Higher Education CPD	6832
@@ -294,8 +316,10 @@ Main Server ID Production Center CPBI	10775
 Maladie CPN	14442
 Market for Eastern and Southern Africa CPF Country	6539
 Markets Group. Finnfund CPDIF	1054
+Mauritius’ CPI	14777
 Membros da CPLP	2816
 Metric Scale Scale Up Down CPU	11952
+N CPC DESCRIPTION	14816
 NGA CPV SYC	6593
 National CP1 CP2 CE1	10847
 National CP1 CP2 CE1 CE2	10847
@@ -317,11 +341,15 @@ Paesi Emergenti CPRF Community Poverty Reduction	12970
 Partnership Framework CPF Corporate Results Indicator	11417
 Personal Interviewing CPI Consumer Price Index	13359
 Point Calculation Rules For CPD	13381
+Police Corporal CPU	14760
 Population and Development CPs Country Programmes CSO	12962
+Preparing CP’s Monthly Strategic Coordinating Meetings	14760
 Prevention CPN	13300
 Privé CP1 CP2 CE1 CE2 CM1	10847
 Protection Information Management Systems CPL Commercial	2775
 Pure CPU	9475
+Purpose CPI Consumer Price Index CPIS	14777
+Purpose CPI Consumer Price Indexes DQAF	14777
 R120 CPM	13461
 R15-R50 CPM.544 Another	13461
 REDOUBLEMENT ET ABANDON CP1 CP2 CE1	10847
@@ -335,6 +363,7 @@ SITA R576m CPE	1613
 SUD-OUEST CP1 Filles	10847
 Selectivity and Sequencing. The CPF	11468
 Simples Multigra Double- Total CP1 CP2	10847
+Strengthen CPI Statistics	14777
 Strengthened CPD	14057
 Systematic CPD Indicator	13095
 TMIS and CPD	13070

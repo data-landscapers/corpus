@@ -1,10 +1,12 @@
 AI Office. People	8529
 AI People GmbH TheScienceTalk Thitanews.gr Thomas	8530
+About Our People	14761
 Above People	1013
 Afred Togba of The People’s Newspaper	8393
 Africa People and Planet Fund III	4516
 Africa. People	571
 African Charter On Human And Peoples	13040
+African Charter for Human and Peoples’ Rights	14742
 African Charter of Human and People's Rights	3583
 African Charter of Human and Peoples' Rights.101F	10841
 All Peoples’ Congress	7452
@@ -24,6 +26,7 @@ Build Resilience of People and Ecosystems	11469
 Build Resilience of People and Ecosystems Rationale	11469
 Building Governance Framework People	14566
 CEO of Global Energy Alliance for People and Planet	11137
+CHALLENGE People	14752
 CNIB. People	10812
 CRI New People	4653
 CRI People	2712,1976,1891,349,3942,1101,296
@@ -58,6 +61,7 @@ ESS7-Indigenous Peoples	1988
 Empower People	7928
 Empowering People	1467
 Ensuring Young People Succeed Sub-Saharan Africa	1363
+Equality of Peoples All	14742
 Eritrean People's Liberation Front	13964
 Estonian Chamber of Disabled People.49	11006
 Ethiopia's House of People's Representatives	3211
@@ -118,14 +122,18 @@ Human and Peoples' Rights of Women	3583
 Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5,1940,1369,333
+Human and Peoples’ Rights AKRM	14742
 Human and Peoples’ Rights Declaration of Principles	9416
-Human and People’s Rights	961,6717,3515
+Human and People’s Right	14742
+Human and People’s Rights	961,6717,3515,3549
 Human and People’s Rights AI Artificial Intelligence	1814
 Human and People’s Rights. This Data Policy	961
+ICOPE Integrated Care for Older People PHC	14773
 ICT. People	13112
 ID Card No People’s Rep. National	10714
 INCLUDED BUT VULNERABLE People	11138
+INTEGRATED CARE FOR OLDER PEOPLE	14773
 INVESTING IN NamRA AND ITS PEOPLE	12951
 IP Indigenous People IPP Indigenous People	969
 IPPF Indigenous Peoples Planning Framework	11390
@@ -142,7 +150,9 @@ Indigenous Peoples of Angola and Mozambique	10765,10
 Indigenous and Tribal Peoples Convention	10765,10
 Influential People	4429
 Internal Processes and Governance and Result-driven People	12951
+International Decade for People of African Descent	14751
 Investment Project Financing LIPW Indigenous Peoples	10964
+Justice for Africans and Peoples of African	14774
 Kawambwa Rebuilding Trust Through People	13521
 Lao People's Democratic Republic LAO Ongoing	13082
 Lao People's Democratic Republic Latvia Lebanon	11765
@@ -150,6 +160,7 @@ Lao People’s Democratic Republic	226,6387
 List of People Met	14010
 M PEOPLE IN AFRICA TO ENERGY	12399,1034
 MALAWI DIGITAL READINESS ASSESSMENT People	12214
+MAURITIUS TO THE PEOPLE’S REPUBLIC	14816
 MDAs. People	13920
 MILLIONS OF PEOPLE WITHOUT ACCESS	11572
 MPA People	6539
@@ -173,6 +184,7 @@ NUMBER OF PEOPLE BENEFITING GLOBALLY	11572
 NUMBER OF PEOPLE WITHOUT ACCESS	11572
 National Agency for People Registry and Secure Documents	1833
 National Council of People	12328
+National Integrated Care for Older People	14742
 National People's Assembly	2406
 National People’s Assembly	11586
 National People’s Party	10062
@@ -190,11 +202,15 @@ Optimistic People	5815,6386
 Outputs People	12241
 P17240506 Toward More People-Centered Service Delivery	984
 PBF National Technical Unit People	10829
-PEOPLE	10719,133
+PEOPLE	10719,133,3894,27
 PEOPLE COULD	10977
+PEOPLE Enhance	14734
+PEOPLE Health	14773
 PEOPLE OF MALAWI	12891
 PEOPLE OF ZAMBIA	13294
 PEOPLES’ REPRESENTATIVES Article	13948
+PEOPLES’ RIGHTS	14742,49
+PEOPLE’S VOICE	14752
 PEOU 8	10940
 PEOU and PU	8130
 PEOU score	10940
@@ -207,7 +223,8 @@ PROPORTION OF BLACK PEOPLE IN TOP	11211,51
 PU and PEOU	8130
 Pacific T5 Building Afghanistan Dem. People	10764
 Palestinian People	7060
-People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,501,140
+People	36,535,369,60,4,215,9,36,380,60,110,53,86,140,214,288,117,61,185,21,196,203,57,21,148,87,273,63,274,67,285,35,65,57,53,101,198,159,28,50,75,59,18,19,9,18,3,11,89,2,208,204,204,261,254,95,18,95,38,125,5,69,83,74,11,305,26,12,88,33,91,100,29,21,31,110,27,61,78,92,126,30,132,135,129,21,114,138,22,176,35,8,6,44,30,22,54,13,117,11,46,99,41,36,38,15,26,70,29,28,119,29,82,25,43,53,9,13,12,2,40,33,21,7,11,12,4,14,88,19,2,62,59,30,1,25,7,6,47,21,15,80,19,5,113,38,18,38,65,145,39,28,24,13,28,35,24,1,6,15,2,6,12,75,3,6,97,15,6,6,6,7,1,39,33,17,11,5,40,5,6,16,13,54,46,67,382,15,4,18,41,55,16,11,157,108,74,46,101,309,3,10,8,10,41,19,2,21,2,32,501,140,17,11,4,4,4,2,12,12,14,49
+People Act	14788
 People Affected	12977
 People Affected Households Affected B. Hailstorms	12977
 People Carrying the Risk Risk-sharing	6947
@@ -241,6 +258,8 @@ People Reached	14079
 People Service Card	2536
 People Simon Levell	3895
 People TRANCRAA Transformation of Certain Rural Areas	11197
+People The Permanent Secretary	14745
+People The Senior Chief Executive	14835
 People Throughout	11131
 People Trained First Aid Kits Sold	12977
 People Who Know Their HIV	4153,49,15,132,1003
@@ -251,6 +270,7 @@ People and Culture Committee	6946
 People and Culture Committee. Mr. Paul Mureithi	6946
 People and Digital Literacy	2001
 People and Ecosystems	11469
+People and Partnerships	14752
 People and Possibilities	6948,7618
 People and Practices	8043,2030
 People and Practices. Participants	13944
@@ -309,9 +329,10 @@ People’s Newspaper	8393
 People’s Office	4528
 People’s Online Skills	6948
 People’s Perspective	5700
-People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145
+People’s Republic of China	258,751,5941,1012,1056,2136,188,1780,1145,572
 People’s Republic of China. V- ON INSTITUTIONAL	7452
 People’s Rights	10841
+People’s Rights of Persons	14742
 Planet Global Energy Alliance for People and Planet	13228
 Policy OHS Occupational Health and Safety PEO	13332
 Policy for Indigenous People	12567
@@ -340,6 +361,7 @@ SUPPORTING ESSENTIAL HEALTH SERVICE DELIVERY People	10829
 Safe People	12419
 Sarker D. Financial Inclusion of Disabled People	12231
 Science and Community People	11332
+Second International Decade for People of African Descent	14751
 Services Provided and People Assisted	12977
 Shaama. Landless People’s Movement	12378
 Sibaya People Parliament	11131
@@ -366,6 +388,8 @@ Tohr PeoCliacsyeInfoterrPvoelnictiyoInntervention	10157
 Toward More People-Centered Service Delivery	984,11679,1
 UNDERSTANDING PEOPLE’S LIVES	418
 Uganda Peoples Defence Forces	4351
+United Nations’ International Decade for People of African	14742
+Voice of Our People	14747
 Vulnerable Peoples Plan	11863,2075
 WardheerNews Everyday People	3615
 Water for People	7849

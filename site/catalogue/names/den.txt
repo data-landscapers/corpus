@@ -110,11 +110,13 @@ DENSMILE DENTAL CLINIC LIMITED Data Controller	7167
 DENT OPTIONS LIMITED Data Controller INST-90478206352	7167
 DENT PLAN Data Processor INST-16486501C57 NAIROBI	7167
 DENTAL CAPITAL GROUP LIMITED Data Controller	7167
+DENTAL COUNCIL	14773
 DENTAL DYNAMIX LIMITED Data Processor INST-7250795BEF8	7167
 DENTAL EMPORIUM LIMITED Data Controller INST-5504730A8A7	7167
 DENTAL HEALTH PROVIDERS LIMITED Data Controller	7167
 DENTAL RITE CARE LIMITED Data Controller	7167
 DENTAL SELECT Data Controller INST-2558846C20C MOMBASA	7167
+DENTAL SERVICES	14773
 DENTAL SMILES FOR KIDS LIMITED Data	7167
 DENTAL WELLNESS LLP Data Controller INST-5083631E5BC	7167
 DENTALACCESS NAIROBI CLINIC Data Controller INST-94025535911	7167
@@ -157,7 +159,8 @@ Denboba W	12255
 Dencik	7242
 Dener	11569
 Deneys Attorneys	9127
-Dengue	7809
+Dengue	7809,6964
+Dengue Outbreak	14738
 Dengzhuang South Road	14140
 Denhere	1554
 Denholm J	10784
@@ -239,11 +242,15 @@ Density	11405,955,35
 Density-BasedSpatialClusteringofApplicationswithNoise	8606
 Densité	14622
 Denson Ngumo	7200
-Dental	12976,385,24
-Dental Council	12413
+Dental	12976,385,24,1388
+Dental Assistants	14773
+Dental Council	12413,2426
+Dental Council Act	14773
+Dental Council of Mauritius	14773
 Dental Hygienist	12972
+Dental Services	14742
 Dental Suite Ltd Data Controller INST-16572535FFF	7167
-Dental Surgeons	13361
+Dental Surgeons	13361,1412
 Dental Technology	14120
 Dental and Pharmacy Council	12661
 Dental and Rehabilitation Services. Currently	13361
@@ -326,6 +333,7 @@ Mr. Raimo Dengeinge	12345,965
 Médecins Dentiste	737
 Médicos Dentistas Informáticos Musicos Artistas Plásticos	12018
 NITDA Engr. AbdulRaheem Adajah Sidi Dennis	11857
+NURSING COUNCIL ACT DENTAL COUNCIL ACT	14773
 NamRA Remunerations Committee. ADV. DENNIS KHAMA	12951
 National Broadband Network Densification Project Phase	715
 National Density	12383
@@ -351,6 +359,7 @@ Président Denis SASSOU N’GUESSO	2738,3329
 PubMed Google Scholar Maria Grazia Dente	10784
 Raimo Dengeinge	13310
 Rapid Urbanization and Low Population Density	12399
+Regional Dental Superintendents	14773
 Representing Denmark’s Consul General	10573
 Ricardo Nsue Ndemesogo Dentro	10487
 Royal Embassy of Denmark	7886
@@ -361,9 +370,11 @@ SEM. Denis SASSOU N’GUESSO	2738,588,2741
 SMILE DENTAL CLINIC LIMITED Data	7167
 SSRA and NCA. Deng	3733
 Secção Denuncie	10752,1
+Services Director Dental Services Head Ag	14773
 Sidi Dennis	11857
 Simon Akuei Deng	3733
 Simon Akuei Deng the Commissioner General	3583
+Singapore and Denmark	14752
 Site Supervisor Kur Deng Kuot	4640
 Son Excellence Denis Sassou N’Guesso	3173
 State Minister Denge Boru	14059

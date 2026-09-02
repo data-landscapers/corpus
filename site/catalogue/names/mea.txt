@@ -1,4 +1,6 @@
 A. Measures	7845
+ABOVE MEASURE SHALL BE DEEMED	14816
+ABOVE MEASURES	14816
 ADDED TAX MEASURES	13122
 AISIO Measurable Adoption Grand Challenge	12512
 ASYCUDA System for Performance Measurement	13042
@@ -30,6 +32,8 @@ Availability of Simplified and Enhanced CDD Measures	12389
 BBBEE Act. A Measured Entity	11235
 BLACK ECONOMIC EMPOWERMENT EMPLOYMENT MEASURES	11211,51
 BROADCASTING BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
+BUDGET MEASURES	14828,3
+BUDGET MEASURES ON HEALTH SECTOR	14773
 BWA. MEA-wide	933
 Baseline Cybersecurity Measures. Define	1777
 Baseline Cybersecurity Measures. NCC	1777
@@ -37,6 +41,7 @@ Basis of Measurement	1154
 Bill of Rights’. Meaning	2307
 Billion Kenya Claim Means	7986
 Body MEANINGFUL CONNECTIVITY	12704
+Booster Measles	14742
 Bound Measurable Target Supporting Responsibilit Agencies	1000
 Bound Measurable Target Supporting Responsibility Supporting	1000
 Brazzaville Workshop Takes the Measure of Generative	11658
@@ -47,6 +52,7 @@ CEO of Orange MEA. Excluding	8430
 CFT Measures	13868
 CRC. II. GENERAL MEASURES OF IMPLEMENTATION	14031
 CYBERSECURITY MEASURES	10721
+Calibration and Measurement Capabilities	14736
 Calibration and Measurement Capacities	13320
 Calls For Urgent Safety Measures	10274
 Capacity Constraints Mean for Africa's Satellite	7762
@@ -59,17 +65,20 @@ Classification and Measurement Issues	5700
 Classification and Measurement of Financial Instruments	10793
 Client and Stakeholder Perception Output Measure Target	11134
 Combating Corruption Crime Prevention Measures	12922,34
+Combined Means Tested SAP	14828
 Communication Redundancy Time Bound Measurable Target	1000
 Completed. Completion Measurement	13058
 Conceptualising and Measuring the Digital Economy	226
 Confidence Building Measures	2117
 Consumer Satisfaction Measurement Mechanisms	5676
+Contingency Measures	14745
 Contraventions Measures Article	12616
 Cooperation Measures	2230
 Cooperation Measuring	10764
 Core and Non-Core Inflation Measures for Kenya Background	2775
 Corruption and Integrity Measures	11285
 Country Mean	1013,931
+Couple Means Test	14828
 Create Meaningful Opportunities for Youth	7719
 Crime Prevention Measures	12922,34
 Crop Measurement and Evaluation	14563
@@ -103,12 +112,13 @@ Does AI Sovereignty Actually Mean	9741
 Does It Mean	10151
 Does This Accreditation Mean for Students	13816
 Duration Estimated No. Environmental and Measures	12253
-ECONOMIC AND FINANCIAL MEASURES	7845
+ECONOMIC AND FINANCIAL MEASURES	7845,6874,122
+ECONOMIC AND FINANCIAL MEASURES ACT	14719
 ECZ Takes Corrective Measures and Suspends Five	13477
 EUR Measures	970
 EXCISE TAX MEASURES	13122
 Early Learning Outcome Measurement	12975
-Economic and Financial Measures	7845,149,6273
+Economic and Financial Measures	7845,149,6273,561,3,10
 Education and Sustainable Environment. Measure	12154
 Effective Conservation Measures	12956
 Efficiency Measures Adopted	10864
@@ -127,6 +137,7 @@ Establishing Measures	1000
 Expected Results Indicator Baseline and Targets Means	970
 Expenditure Control Measures	13122
 FINANCIAL INSTRUMENTS MEASURED AT FAIR	10793
+FISIM Financial Intermediation Services Indirectly Measured	14777
 FM Risk Assessment and Mitigation Measures Risk	3604
 FX Auction Meant	10025
 Fair Value Measurement	4896
@@ -159,6 +170,7 @@ II. What Stablecoins Mean for Emerging Markets	9331
 IMPACTs AND MITIGATION MEASURES	1988
 IMPLEMENTATION MEASURES	1000
 IMPLEMENTATION OF FISCAL POLICY MEASURES	7695
+IMPLEMENTATION OF MEASURES IN THE GOVERNMENT	14773
 IMPLEMENTATION RISKS AND MEASURES FOR MITIGATION	12675
 INCOME TAX MEASURES	13122
 ITU Universal and Meaningful Connectivity	6793,6856
@@ -170,8 +182,11 @@ Impact of Key Fiscal Measures Introduced	1830
 Impacts Mitigation Measures Responsibility	1988
 Impacts and Mitigation Measures Potential	1988
 Implementatio Mitigation Measures	12253
+Implementation Measures	14773
 Implementation Risks and Measures for Mitigation	12675
+Implementation of Budget Measures	14745,28
 Implementation of Expenditure Measures	7695
+Implementations of Budget Measures	14760
 India's MEA	7981
 Indicator Responsibility Budget Design Measures Purchase	1988
 Indicators Name Measured	13392
@@ -189,8 +204,10 @@ Justice and Anti-Corruption. Trend Measure Score	10838
 Kash Interoperability Means	7277
 Kenya Meat Commission	14546
 Kenya and What It Means for Refugees	12227
+Key Health and Safety Measures	14761
 Key Indicators for Measuring Information Society	2775
 Key Insights Measurable	11483
+Key Measures Implemented	14761
 Key Security Measures	12302
 Kingdom of Eswatini Output Measure Target Actual	11134
 LEGAL MEASURES	13962
@@ -225,7 +242,8 @@ MEASURE Evaluation. Health Information System Stages	12255
 MEASURE Evaluation. Mapping	12255
 MEASURE RISK OWNER Social	13938
 MEASUREMENT	11857,759
-MEASURES	11211,51,1413
+MEASURES	11211,51,1413,2098
+MEASURES FROM BUDGET ANNEX FY	14773
 MEASURES RELATED TO GOOD GOVERNANCE	7845
 MEASURES TO BE IMPLEMENTED BY THIRD-PARTY	13376
 MEASURES TO PROMOTE INTEROPERABILITY FOR DIGITAL	1243
@@ -245,6 +263,7 @@ Mary's Meals and Nascent Solutions	12175
 Meacham	11135
 Meaden	3680
 Meaden. Cette	3680
+Meals	14742
 Meals Programme	2775
 Mealy	11156
 Mean Age	2775,10203
@@ -267,7 +286,7 @@ Meaning DPSA Department of Public Service and Administration	11218
 Meaning NRF National Revenue Fund OCSLA	11218
 Meaning Progress Exists	12241
 Meaning SOP Standard Operating Procedure SSA	11218
-Meaningful	396,503,71,840,178,3293,1037,928,605,25,407,345,149,343,83,270,246,67,2,6,920,292,266,594,836,1526,206,131,108
+Meaningful	396,503,71,840,178,3293,1037,928,605,25,407,345,149,343,83,270,246,67,2,6,920,292,266,594,836,1526,206,131,108,163
 Meaningful Budget	12917
 Meaningful Connectivity	2116,1103,4664,163,506,251
 Meaningful Connectivity for Africa	7793,91,66,291,255
@@ -280,13 +299,15 @@ Meaningful Universal Connectivity	11290
 Meaningful Way	14470
 Meaningfully	3583
 Meaningfully Contribute	7414
-Means	970,3462,1390,229,1030,2929,1125,851,937
+Means	970,3462,1390,229,1030,2929,1125,851,937,1905
 Means For Accountable Institutions South Africa	6998
 Means For Crypto And Fintech South	6998
 Means Going Forward Edge	8852
 Means If You're Just	6629
 Means In Practice	10424
 Means No Program	12977
+Means Test	14828
+Means Tested SAP	14828
 Means and Incidents of Payment	4785
 Means for Africa’s Internet Future	4442
 Means for Consumers	14297
@@ -313,20 +334,21 @@ Meas K	1219
 Meas&author	1219
 Mease	12090
 Measham AR	10780
-Measles	3583,634,6612,1083,1251
+Measles	3583,634,6612,1083,1251,1579
 Measles Cases	4167,93
 Measles Cases Baseline	4153
 Measles Cases Maternal Mortality Rate	4202
 Measles Cases Maternal Mortality Rate Children	5352
 Measles Serology	13454
 Measles-Rubella Drive	3707
-Measurable	4528,3020,2609,2199,156,2162
+Measurable	4528,3020,2609,2199,156,2162,78
 Measurable KNBS Annual Emerging Technologies	7548
 Measurable NIF MICDE	7548
+Measurable Progress	14752
 Measurable Target Supporting	1000
 Measurable Target Supporting Responsibil Agencies	1000
 Measurable Target Supporting Responsibil Agency	1000
-Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99,88,11,1,135,186,1
+Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99,88,11,1,135,186,1,2048
 Measure Evaluation	12138,839
 Measure GDP GDP	10759
 Measure Impact	12675
@@ -336,17 +358,20 @@ Measure Target Actual Implementation	11134
 Measure Value Rank Unit GDP	10837,1503
 Measure and Early Evidence	7151
 Measure the Contractor	12253
-Measured	2775,3470,422,2225,2248
+Measured	2775,3470,422,2225,2248,3583
 Measured Entity	11235
+Measured FSC Financial Services Commission GBC	14777
 Measured Return Early Stage	4972
 Measureme	12360
-Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269
+Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,619,60,478,75,267,65,7,269,1062,13,44
 Measurement ASYREC ASYCUDA Relief Emergency Consignment	13042
+Measurement Bandwidth Block	14780
+Measurement Base	14736
 Measurement Conflicts	12360
 Measurement Methods	11007
 Measurement Ministry of Comments NA Economy and Recurrent	10870
 Measurement Study Ministry of Energy and Water Resources	11136
-Measurement Traceability	13320
+Measurement Traceability	13320,1416
 Measurement Training	10421
 Measurement Units and Measurement Standards	13320
 Measurement While Drilling	11405
@@ -359,7 +384,7 @@ Measurement of Bank-Intermediated Trade Finance Gap	10718
 Measurement-Lab	11857
 Measurements CHAPTER	12616
 Measurements Record-Keeping CHAPTER	12616
-Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116
+Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111,196,12,298,32,31,1,258,15,36,158,120,244,136,405,25,124,116,68
 Measures After Spate of Fatal Crashes Big	6077
 Measures Against Privacy Breach Abetment	11956
 Measures Against Privacy Breach Abetment Article	11956
@@ -371,7 +396,7 @@ Measures Mr Speaker	13387
 Measures and Constraints	12467
 Measures and Suspends Five	13477
 Measures of Success	8184
-Measuring	718,525,1332,373,4224,587,1857,143,1005,80,133,422,164,22,800,28,901,575,99,18
+Measuring	718,525,1332,373,4224,587,1857,143,1005,80,133,422,164,22,800,28,901,575,99,18,728
 Measuring AI	8240
 Measuring DPI	7222
 Measuring DPI Framework	7221,1
@@ -381,6 +406,7 @@ Measuring Digital Trade. Retrieved	1243
 Measuring E-Commerce	13314
 Measuring Economic Growth	13624
 Measuring Energy Access	11136
+Measuring ICT for Development	14836
 Measuring Kenya's Financial Inclusion Journey	12227
 Measuring Progress Across the Digital Divide	6051
 Measuring Psychological Safety	13532
@@ -389,6 +415,7 @@ Measuring What It Really Takes	6542
 Measuring the Inclusion of DPI Deployments FIGURE	13095
 Measuring the Informal Economy	13624
 Measuring the Information Society	1243,10019
+Measuring the Returns	14723
 Measuring the State of Civil Registration and Legal Identity	10822
 Meat-cutting	13385
 Meatspace Press	226
@@ -408,6 +435,7 @@ Mitigation Measures Responsible Party General	1988
 Mitigation Measures Responsible Party Type	1988
 Mitigation Measures Responsible Party Type Buildings	1988
 Mitigation Measures Zambia Refugee and Host Community	1988
+Mitigation and Control Measures	14761
 Moderate. Measures	1264
 Monitoring and Measuring Digital Success Develop	11231
 NCA Tower. Greenwich Meantime	775
@@ -416,6 +444,7 @@ National Development-Impact Measurement System	8184
 National Digital Transformation Strategy Results Measurement	13347
 National Integrated Measuring	9424
 National Measurement Standards Laboratories	13320
+National Measurement Standards. Future Project	14736
 National Report Measurement	958
 Non-Tariff Measures	12389
 Notice and Awareness Measures	3861
@@ -438,6 +467,7 @@ PART FIVE ADMINISTRATIVE MEASURES AND COMPLIANT	7538
 PAYMENT MEANS Dodoma	6922
 PERSPECTIVE MEASURES TO ARREST DOWNTURNS	10
 PMT Proxy Means Test PRASED Education	11924
+POLICY MEASURES	14723
 POSTAL SECTOR BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
 PROGRESS TO-DATE ON MONITORING AND MEASURING	11231
 PUBLIC SECTOR REFORMS AND MEASURES Public	13122
@@ -459,7 +489,7 @@ Project Implementation Manual PMT Proxy Means	11525
 Project for Modernisation of Means of Communication	699
 Proposed Mitigation Measures	1988
 Protection Regimes and Required Measures	3861
-Proxy Means Test	11855,172,453
+Proxy Means Test	11855,172,453,2355
 Proxy Means Testing	12567
 Proxy Means Testing RI	12560
 Public Administration and Rural Economy. Trend Measure	12353
@@ -467,10 +497,12 @@ Public Health Statistics and Measures	6948
 Pushing for Meaningful Connectivity	6318
 QUESTIONS FOR ORAL ANSWER MEASURES TAKEN	13387
 Quarterly Audience Measurement and Media Consumption Trends	6946
+REMEDIAL MEASURES AND OFFENCES	14728,2
 REMEDIAL MEASURES AND SANCTIONS Prohibition	12938
 REVENUE POLICY AND ADMINISTRATIVE MEASURES	13122
 Radio Audience Measures RDP Reconstruction and Development	11192
 Real-Time Review of Country Measures	10763
+Recognition and Measurement IPSAS	14736
 Recommendations Measures Impact	14674
 Recommendations for Regulatory Measures	6938
 Recommendations for Regulatory Measures Considering	6938
@@ -512,6 +544,7 @@ Safety Net Measures	10822
 Safety and Anti-Corruption. Measure Score	12152
 Sanitary and Phytosanitary Measures	12389,2239
 Schedule. Meaning	3714
+Scheme Measure	14742
 School Meals	12964
 Security Measures	12193,1188
 Security and Resilience Features Measures Implemented	3840
@@ -526,6 +559,8 @@ Specific Measures	13320
 Stakeholders and Proposed Mitigation Measures	12253
 Standardised Root Mean Square Residual	4432
 Starlink's Architecture Means for Nigeria's Connectivity	6749
+Strategic Measures	14819
+Stronger Cyber Laws and Protection Measures	14752
 Sub-Pillars Measured	12214
 Sunset of Transitional Measures	3861
 Sunset of Transitional Measures All	3861
@@ -568,6 +603,7 @@ USAID and MEASURE Evaluation PIMA	12138
 Uganda. Means	10714
 Universal and Meaningful Connectivity	11424,1335,1339
 Unsafe Containers Sierra Leone Confirms Measles	4619
+Updated Proxy Means Test	14835
 Uptake of Nutritious Meals	12978
 Use of Measurement Parameters	12616
 Use of Measurement Parameters Article	12616

@@ -14,6 +14,7 @@ AMERICA UNSERT COUMTPY NAME	3972
 ANNA Project. The Namibian Government	13155
 API ENDPOINT PATH PARAMETER NAMING	6423
 APPLICATION DETAILS Date of Application Name of Originator	12364
+APPLICATION FOR MSB CERTIFICATION MARK Name	14806
 ASYCUDAWORLD The Namibia Revenue Agency	13067
 ATTIRE NamRA Management	13108
 AUC Region Name of School Status Hhohho	12977
@@ -36,6 +37,7 @@ Across Namibia	9873
 Act Business Names	3714
 Action Proposed Component Name No Change	1228
 Actualités Numérique Namibie	13568
+Administration Name Designation Tel No. Email	14745
 Administration System NamRA Namibia Revenue Agency	12951
 Admissible. NAM	7109
 Adv. Namiseb. Ms. Anna Hoffmann-Kwanga	13048
@@ -115,7 +117,8 @@ Bid Price Name of Bidder	13185
 Bidder Name	13185
 Bidder's Authorized Representative Information Name	13185
 Bidder's Authorized Representative Name	13185
-Bidder's Name	13031,154
+Bidder's Name	13031,154,1617
+Bidder’s Name Price Quoted	14783
 Biometric Update Namibia	3017,163
 BoN and Namibia Statistics Agency	8248
 Board of Namibia CTSP Core Team	12923
@@ -148,7 +151,7 @@ CEO NAMIBIA STATISTICS AGENCY	12367
 CEO of Namibia's Communications Regulatory Authority	4862
 CEO of Telecom Namibia	13150
 CEOs of NAMFISA General Manager of Research	6938
-CHANGE OF NAME	12338
+CHANGE OF NAME	12338,2376,1
 CMI Bank of Namibia National National National	6938
 COD for Namibia	12399
 COMMISSIONER OF OATHS FULL NAMES	12374
@@ -220,7 +223,7 @@ Communication and Technology of Namibia	12354
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673,519,104,123,7,399,54,2,61,20,59,8,2,2,29,48,33,42,5,1023
 Communications Regulatory Authority of Namibia FDI Foreign	12973
 Communique Wagon NEWSLETTER NamRA Backs Small	13044
-Company Name	12389,311
+Company Name	12389,311,2054
 Company Name Change	12041
 Component Name	3604,7360,891
 Component Name Cost	11560
@@ -345,6 +348,7 @@ Electronic Company Name Verification	12389
 Electronic Transactions Act. Namibia	10651
 Elements of Address Type Title First Name	11129
 Elizabeth Kheibes Namibia	13138
+Energy Efficiency Management Office Name Designation	14745
 Energy Policy NSA Namibia Statistics Agency	12399
 Enter Name of Driver	1988
 Entity Name	12400
@@ -378,6 +382,7 @@ Failed Namibia	6825
 Farm Name	11276
 Father's Name	12146
 Feasibility Study Completed NamPower	12399
+Feb-25 SN Project Name Request	14746
 Fifty- One Million Namibian Dollars	12982
 Fifty-Three Thousand Namibian Dollars	12982
 Financial Intelligence Centre of Namibia	3714
@@ -429,6 +434,7 @@ Government of Namibia Goes Digital	12325
 Government of Namibia. Hosted	12448
 Governments of Botswana and Namibia	9171
 Governments of Namibia and Angola	13015
+Govindee Namrata DEELCHAND SANTOKHEE	14746
 Govt By Namo Phiri	12126
 Grandfather's Name	12146
 Grantor Name	13333
@@ -597,6 +603,7 @@ Luke Namangale	12952
 Lunda Norte and Namibe. SMS	8475
 Lunda Sul Malanje Moxico Namibe Uíge	10766
 M NAME	582
+MACHINE NAME	14758
 MANDATE NamPower	13133
 MANDATORY INFORMATION NAMELY	11240
 MARRIAGE REGISTRATION In Namibia	12337
@@ -642,6 +649,7 @@ Mashia Namba	2566
 Masiah Namba ID	2566
 Mauritania Namibia Nauru Nicaragua Niger Saint	10764
 Mauritius and Namibia	962
+May-25 SN Project Name Request	14746
 Member for Nambale	10313
 Member for Nambale Constituency	10313
 Methodology Measure Data Collection Name	11525
@@ -658,6 +666,7 @@ Ministry of Finance and Development Planning. Project Name	12669
 Miriam Namutebi	6576
 Mission NamRA	12951
 Mobile Telecommunications Limited NAMPA Namibia Press	12973
+Mohammad Mushtaq Namdarkhan	14744
 Momentum Metropolitan Namibia	12478
 Mongolia Mozambique Viet Nam Togo	11563
 Monitoring System Infrastructure Applications Domain Name	9123
@@ -960,16 +969,19 @@ Name Designation Duration Mr. Vizenge Kumwenda	13053
 Name Direct Interest Indirect Interest	4896
 Name Dr. T. Matekaire Dr. T	2779
 Name Educational	4896
+Name First Last Name Last Email	14797
 Name Guidelines	12342
 Name Issue	12360
 Name Maguraushe	1248
-Name Name	11986
+Name Name	11986,2727
+Name Of NOTAry	14713
 Name Of Regions Authorised FM Stations	2776
 Name Parent Project ID	10963
 Name Position Basic Salary	13037
 Name Product LISUNGI	11924
 Name Rationale	8866
 Name Record TES Trusted Employer Scheme	11986
+Name Request From Start Date Completion	14746
 Name Reservation	12342
 Name Reservations and Company Registrations	11250
 Name Satisfactory Satisfactory Progress	12228,39,173
@@ -991,12 +1003,15 @@ Name and Registration	12041
 Name and Registration Details	5538
 Name and Title of Signatory	13037,148
 Name and ZRCP	1988
+Name of ATIOINEY	14713
 Name of Agency	13185
 Name of BOZ CA Approver Name Designation	12364
 Name of BOZ Signature Date CA Approver	12364
 Name of Bank	12400
+Name of Bidder	14778
 Name of Bidder Technical Bid Price Evaluated	13185
 Name of Camp ZRCP	1988
+Name of Chief Executive Officer	14728
 Name of Client	13037
 Name of Committee Secretariat Financial Inclusion Unit	940
 Name of Company	11976
@@ -1007,6 +1022,7 @@ Name of Firm	13037
 Name of IMSA	10812
 Name of Implementing Agency	9603,1
 Name of Indiscriminate	1988
+Name of Lo	14713
 Name of Name	1988
 Name of Officer	34,11942
 Name of Officer of District Court Signature of Officer	7845
@@ -1089,7 +1105,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292,50,102
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia Affirmative Action Act	12399
@@ -1688,6 +1704,7 @@ P514166. Operation Name	13743
 P515127. Operation Name	13793
 PAN Payments Association of Namibia PSM Act	13076
 PARATUS NAMIBIA HOLDINGS LIMITED	12355
+PARTICULARS OF OPERATOR NAME OF OPERATOR	14754
 PAYMENT NAMIBIA	12400
 PAYMENT SERVICE PROVIDERS IN NAMIBIA	13085
 PBC Name Baseline Closing Period	10870
@@ -1770,6 +1787,7 @@ Q-Kon Telecom Namibia	5502
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
 RE NAM ENT ENGA BOUCLE	10847
+REGISTERED BUSINESS NAME	14754
 REPUBLIC OF NAMIBIA	12968,1028
 REPUBLIC OF NAMIBIA BANK OF NAMIBIA	12365,9
 REPUBLIC OF NAMIBIA CONTENTS Page GOVERNMENT	13189
@@ -1790,10 +1808,12 @@ ROSA NAMUTO	10751
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
 ROUTE Station Name Latitude Longitude Altitude	736
+Radiation Safety and Nuclear Security Authority Name	14745
 Radio Namakwaland	8999
 Ralph Mupita Name	7198
 Rand Merchant Bank Namibia	13137
 Rank Account Name Ordinary	4896
+Rank Name School First Deveshee Purnima	14745
 Ranking Namibia	1944
 Refer Document Purchaser's Detail Name	13548
 Regarding India and Namibia	3253
@@ -1820,6 +1840,7 @@ Republic of Namibia. FOREWORD	12921
 Republic of Namibia. IN WITNESS WHEREOF	13031
 Republic of Namibia. Let	12984
 Responsibility for Data Indicator Name Definition	1284
+Revenue Laws. Name	14809
 Revised Indicator Name Baseline Actual	4653
 Robert Mugabe Avenue Windhoek NAMIBIA RE	12400
 Rule of Law Namibia	12340
@@ -1833,7 +1854,11 @@ SERVICES LAUNCHES NAMIBIA’S FIRST NATIONAL DIGITAL	13104
 SHEET Project Name	13731
 SITA's Advance Passenger Information and Passenger Name	4275
 SMS Conclusion Namibia’s ICT	1013
+SN Company Name Technology Proposed Pilot	14745
 SN Name of Licensee License	12256
+SN Name of Officers Contact Details	14835
+SN Project Name Request	14746
+SN TITLE SURNAME NAME DESIGNATION MINISTRY	14770
 SOLUTION NAME	2709
 SP Area Program Name Ministry	10985
 SPUR ROUTE Name Bearer	736
@@ -1853,14 +1878,17 @@ Science and Technology of Namibia	1554
 Secretaria Municipal de Nampula	1808
 Select Search Criteria Owner Name Property	12511
 Senior ICT Officer Ms Namataa Kalaluka	34
+Senior Management Team Designation Name Tel	14746
 Server Name Indication	14455
 Service Point Name Lat Long District	11986
 Service Point Name Long EC Alfred	11986
+Service Status Licence Name DECLARATION	14754
 Shadric Namalomba	3933,2620,39,270,624,1730,335,1002,95
 Shadrick Namalomba	4790,8322
 Short Name	13523
 Short Name Explanation	12364
 Should Namibia	14343
+Signatory’s Name	14754
 Signature of Authorized Representative Date Name	13037
 Singapore Japan Viet Nam	11135
 Singapore Japan Viet Nam Lead	11135
@@ -1868,6 +1896,8 @@ Sixteen Million Namibian Dollar	12982
 Sixty-Five Peter Obi Names Education	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Sl.No Name of Name of Owner	13031
 Smartphone Namibia	1944
+Sn Name	14835
+Sno. Name Rank Responsibilities	14760
 Snowballing Literature Search Author Name and Article	1248
 Social Protection Policy of Namibia	13220
 Society of Advocates of Namibia	12951
@@ -1897,7 +1927,7 @@ State-led Land Reform Program. Aim of Namibia	12912
 Station Name Latitude Longitude Altitude Antenna	736
 Statistics Namibia Population System	12327,10
 Statistics Policy for Namibia	12902,5
-Street Name	11129
+Street Name	11129,3584
 Street Name Sign Size	11129
 Street Name Signage	11129
 Street Names and Property Numbering	11129
@@ -2031,11 +2061,13 @@ Visa Namibia	12478
 Vital Statistics System The Namibia Statistics	12337
 Việt Nam	8062
 Vocational Education and Training EXECUTIVE SUMMARY Namibia	13033
+Vote Name of Ministry	14738
 WELCOME TO NAMPOWER'S	13133
 WINDHOEK NAMIBIA	12447
 WINDHOEK NAMIBIA Telephone	12920
 WIndhoek Namibia	12478
 Watch the Official Launch of Namibia's AI Readiness	12994
+Water Resources Unit Name Designation Tel	14745
 West Kunene Omaheke Namibia	1944
 Western Cape Site Locations Site Name	8999
 Windhoek Namibia	12478,494

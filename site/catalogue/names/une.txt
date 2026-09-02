@@ -1,8 +1,10 @@
+A. Unexplained	14717
+ADVANCE UNEDITED VERSION Distr	14751
 AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1,135
 AI Institute. UNESCO Windhoek Office	12994
 AI Strategies. UNESCO	2816
 AI. Through the UNESCO Recommendation	14139
-AI. UNESCO	7841
+AI. UNESCO	7841,6971
 AI. UNESCO UNESCO	11439
 AI. UNESCO's Recommendation	5036
 ALGERIA DIGITAL BRIEF Une	8637
@@ -29,6 +31,7 @@ Agence. Une	8360
 Airtel Money Niger SA. Une	12074
 Alger. Une	9497
 Algérie. Une	10687
+All Unemployed	14815
 Analyse. Une	6257
 Approche Une Seule Sante	14662
 Artificial Intelligence Readiness Assessment Report. UNESCO	2816
@@ -117,6 +120,9 @@ EU-funded UNESCO Social Media	7709
 Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
 Education Initiative. UNESCO	13681
 Effectif Caractéristique Une	13300
+Employed Unemployed Outside Labour Force Male	14815
+Employment Unemployment Potential Labour Force	14815
+Employment and Unemployment	14815,17
 Entreprise Une	14490
 Environnemental Une	8891
 Estados Membros da UNESCO	2816
@@ -168,6 +174,7 @@ INSP. Une	13306
 ITU and UNESCO	7174
 ITU and UNESCO Broadband Commission	6467
 ITU and UNESCO State of Broadband	6467
+ITU and UNESCO. This Commission	14723
 Iavoloha. Une	14488
 Implementação da Recomendação da UNESCO	2816
 Implementing UNESCO	1072
@@ -188,6 +195,8 @@ LA UNE SITE	11123
 LAISSER UNE RÉPONSE Supprimer	3658,2617,145,3959
 LEO Une	5040
 LETTRES DE MISSIONS UNE ACCÉLÉRATION	2342
+LF Emp Unemp 1Qtr26 300626.pdf Author	14832
+LF Emp Unemp Yr25 190526.pdf Author	14815
 LISEZ AU PASSÉ UNE FEMME UNE	13300
 LU1- Unemployment	11296
 La Chaire UNESCO ACCES-TIC	8906
@@ -273,6 +282,7 @@ Programme UNECA United Nations Economic Commission	14674
 Programme UNECE United Nations Economic Commission	13042
 Programme UNESCO United Nations Educational	6946,602
 Projecto UNESCO United Nations Educational	11390
+Provisional Unemployed Mauritians	14832
 Période Responsables Une	14489
 Pólo de Dakar da UNESCO	11557
 R.2.1. Une	643
@@ -309,6 +319,7 @@ Résultat Une	13306
 Résultat VIII.4 Une	13306
 S'EST PAS TERMINÉE PAR UNE NAISSANCE	13300
 S. P. Une	10391
+SC Passed HSC Tertiary Unemployed	14815
 SEULEMEN PLUS D'UNE T UNE NAISSANCE	13300
 SEULEMEN PLUS D’UNE T UNE FOIS	13300
 SEULEMENT UNE	13300
@@ -344,11 +355,13 @@ TaxiGab. Une	5243
 Technical Vocational Education and Training UIF Unemployment	11250
 Technical Working Group UNESCO	12175
 Technologies UNESCO	7548
+Telephone Network UNESCO United Nation Educational	14723
 Theory of Change UNESCO United Nations Educational	13990
 Tiers of AI Governance The UNESCO	1814
 Tirage des U.S. Une	13390
 Togo. Une	11689
 Toile. Une	5022
+Touré and UNESCO Director-General Irina Bokova	14723
 Trade and Development UNECA United Nations Economic	10841
 Trade and Development UNESCO United Nations Educational	2775
 Tsimbazaza. Une	14489,1
@@ -385,7 +398,7 @@ UNE PRIORITÉ NATIONALE	13677
 UNE RÉFORME CONFORME AUX STANDARDS INTERNATIONAUX	13677
 UNE SEULE FOIS	13300
 UNE STRAGTÉraGpIEhDiEquPOeR1T	2342
-UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13,262,86,13,162,87,38,97,48,61,239,51,294,88,4,322,20,67,15,33,138,398
+UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13,262,86,13,162,87,38,97,48,61,239,51,294,88,4,322,20,67,15,33,138,398,145
 UNECA APAI-CRVS	5599
 UNECA African Trade Policy Centre	1356
 UNECA CRVS Assessment	13005
@@ -406,6 +419,7 @@ UNECA United Nations Economic Commission for Africa	13295
 UNECA and AFROPAC	9162
 UNECA and AfDB	9469
 UNECA and Smart Africa	10819
+UNECA and UNDP	14745
 UNECA& AfDB	12413
 UNECA's African Centre for Statistics	14090
 UNECA's CRVS Assessment Tool	12241
@@ -426,12 +440,14 @@ UNEPCCC	9424
 UNES-	13681
 UNESC's Journey	8860
 UNESCAP	1243
-UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4,126,1,11,1,3,5,34,93,24,42,11,110,51,60,37,7,164,36,18,22,60,79,10,10,81,4,32,32,14,50,19,8,73,1,14,17,54,34,1,18,58,161,14,24,6,16,31,8,72,2,58,8,18,5,16,122,172,41,109,13,31,8,6,16
+UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4,126,1,11,1,3,5,34,93,24,42,11,110,51,60,37,7,164,36,18,22,60,79,10,10,81,4,32,32,14,50,19,8,73,1,14,17,54,34,1,18,58,161,14,24,6,16,31,8,72,2,58,8,18,5,16,122,172,41,109,13,31,8,6,16,79,37
 UNESCO AI	5036
 UNESCO AI Fozan International Prize	13048
 UNESCO AI Readiness Assessment Framework	14566
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
+UNESCO AI Readiness Assessment for Mauritius	14752
 UNESCO AI Readiness Assessments	6862
+UNESCO AI Readiness Framework	14752
 UNESCO Addis Ababa Office	14139
 UNESCO Addressing	7709
 UNESCO Broadband Commission	6467,5096
@@ -471,9 +487,11 @@ UNESCO Institute for Information Technologies	14267
 UNESCO Institute for Lifelong Learning	1049
 UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4,132,825,2,677
 UNESCO Institute of Statistics	11860,1450
+UNESCO Intergovernmental Oceanographic Commission	14732
 UNESCO International Institute for Capacity Building	7405,4791
-UNESCO International Standard Classification of Education	7845
+UNESCO International Standard Classification of Education	7845,6983
 UNESCO Liaison Office	14157
+UNESCO List of Intangible Cultural Heritage	14742
 UNESCO Member States	13048,615
 UNESCO Member States. UNESCO Windhoek Office	12994
 UNESCO Memory	12982
@@ -494,6 +512,7 @@ UNESCO Regional Office	12675
 UNESCO Regional Office for Southern Africa	12565,654,250,88
 UNESCO Regional Office for Southern Africa Constantinou	10073
 UNESCO Representative	9755
+UNESCO Representative List of Intangible Cultural Heritage	14742
 UNESCO Research Chairs	12926
 UNESCO SDG	11918
 UNESCO Secretariat	11262
@@ -504,9 +523,11 @@ UNESCO Towards	7709
 UNESCO UIS	14098
 UNESCO UNESCO International Institute for Capacity Building	14131
 UNESCO United Nation Environment	12970
-UNESCO United Nations Educational	11887,266,1,9,178,2325
+UNESCO United Nations Educational	11887,266,1,9,178,2325,81
 UNESCO Windhoek Office	12994
+UNESCO World Heritage List	14742
 UNESCO World Natural Heritage Site DEMOGRAPHICS	11586
+UNESCO and Commonwealth of Learning	14812
 UNESCO and Germany	14178
 UNESCO and ISO	7955
 UNESCO and ITU Broadband Commission	12536
@@ -585,7 +606,7 @@ UNESCO’s Global Toolkit	4126
 UNESCO’s Information for All Programme	7724
 UNESCO’s Member States	1814
 UNESCO’s Readiness Assessment Methodology	10601
-UNESCO’s Recommendation	11265,1091
+UNESCO’s Recommendation	11265,1091,2456
 UNESCWA	4819
 UNESWA	4058,7073,3,1227,83,518,9,4,21,82,104,15
 UNESWA AI	12996
@@ -646,7 +667,8 @@ Une Une Stérilisation Stérilisation Méthodes Condom	13300
 Unearned Income	11976
 Unelectrified	11572
 Unemploy-	2775
-Unemployed	582,10422,281,11,1627,114
+Unemployed	582,10422,281,11,1627,114,1778,17
+Unemployed Both Sexes	14832
 Unemployed Egypt Unemployed	11004
 Unemployed Employed	11004
 Unemployed Ghana Men Employed	11004
@@ -654,20 +676,26 @@ Unemployed Improved	11004
 Unemployed NEETs	11581
 Unemployed Persons	12600
 Unemployed Population	12600
+Unemployed Summary of Training Courses	14835
 Unemployed Unemployed	11004,1596
 Unemployed Women	11004
 Unemployed Women Employed	11004
-Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268,207,10,92,551
+Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268,207,10,92,551,1763,17
 Unemployment Benefit Insurance Fund	13123
 Unemployment Benefit Scheme	12922
+Unemployment Both Sexes	14815
 Unemployment Challenge Unemployment	12934
 Unemployment Figure	11296
+Unemployment Hardship Relief	14721
+Unemployment Hardship Relief Division	14721
 Unemployment Insurance	12389
 Unemployment Insurance Act	11280
 Unemployment Insurance Contributions Act	11181
 Unemployment Insurance Fund	7910,26,531,2818
+Unemployment Q1	14832
 Unemployment Rate	12600,799
 Unemployment Relief Scheme	7859
+Unemployment Unemployed	14832
 Unepa	4513
 Unequal	2096,4857,4240,72
 Unequal Development	7233
@@ -675,7 +703,7 @@ Unequal Distribution of Technology Arab	2958
 Unequal Political Voice	2096
 Unesco	2387,307,575,619,3393,332,316,4369
 Unestablished	9168,87
-Uneven	432,1,528,5391,1196,2640,776,437,1043,468,226,25
+Uneven	432,1,528,5391,1196,2640,776,437,1043,468,226,25,1649
 Uneven AI-driven	11140
 Uneven Africa	6248
 Uneven Digital Geographies	226
@@ -688,6 +716,8 @@ Uneven Resource Distribution and Infrastructure Gaps SUMMARY	6936
 Unevenstaffcapacity	8602
 Unexpectedly	4432,8550
 Unexplained	3583
+Unexplained Wealth Order	14809
+Unexplained Wealth Unit	14742,67
 Unexplored Frontier of Innovation and Inclusivity	4970
 Union. Une	8066,3760
 United Nations Development Program UNECA United	13005
@@ -695,6 +725,7 @@ United Nations Development Programme UNESCO	12966
 United Nations UNECA United Nations Economic	1814
 Universidade Eduardo Mondlane UNESCO	2816
 University of Eswatini UNESWA University of Eswatini	12975
+Université des Mascareignes UNESCO	14775
 Urban Rural Urban Rural Employed Unemployed	10763
 VIE DES POPULATIONS UNE ACCÉLÉRATION	2342
 VIII.4.2 Une	13306
@@ -712,8 +743,10 @@ Women Employed Women Unemployed	11004
 World Bank ID4D Diagnostic Guide UNECA	13005
 World Bank System Capacity UNESCO US	11916
 World Bank and UNECA	11839
+World Programme of UNESCO	14774
 World Unemployment Rate	2775
 X Résultat VIII.1 Une	13306
+Year Unemployment Rate	14815
 Youth Unemployment	13399
 Youth Unemployment Increases	12600
 Youth Unemployment Rate	12600

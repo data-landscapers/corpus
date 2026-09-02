@@ -1,3 +1,4 @@
+A. Civil And Political Rights	14742
 AGENTS Political	10049
 ALIGNEMENT AUX POLITIQUES NATIONALES	13677
 AU Commissioner for Political Affairs	7794
@@ -41,7 +42,9 @@ Centre for Alternative Political and Economic Thought	12069
 Centro Profesional Politécnico Modesto Bata Añisok	4209
 Chin J Int Polit	5242
 Civic Politics	6947
-Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753
+Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753,308
+Civil and Political Rights CCPR-OP1	14742
+Civil and Political Rights CDU	14742
 Civil and Political Rights ICERD International Convention	12201
 Civil and Political Rights and International Covenant	13040
 Civil and Political Rights. Article	10453
@@ -152,6 +155,7 @@ Latest News Inside Politics	9940
 Launches the Political Economy of Digital Governance Report	5715
 Law of Political Campaign	12201
 Le Document de Politique Budgétaire	3396
+Leadership and Political	14750
 Lectures22 Commentaires PolitiquePastef Tivaouane	4960,62
 Les Politiques des TIC	13290
 Les Trois Grandes Orientations Politiques	14529
@@ -182,12 +186,14 @@ PART APPLIES Political	3714
 PM Where Politics and Prose	42
 PNDTIC Politique Nationale de Développement des Technologies	13331
 POLITICA SEGURIDAD CORPOR. PROTECCIÓN FRONTERAS	4209
+POLITICAL AND LEGAL STRUCTURE OF MAURITIUS	14742
 POLITICAL CONTEXT Traditional	12201
 POLITICAL ECONOMY The DRC	11960
 POLITICAL ENVIRONMENT	9399
 POLITICAL HEADWINDS AFFECTING THE NGFS	13532
 POLITICAL MATTERS ARTICLE	14409
 POLITICAL PARTIES REGISTRATION	13973
+POLITICAL RIGHTS Article	14742
 POLITICAL WEEK AHEAD	5025
 POLITICO	7209
 POLITIQUE	11123
@@ -208,7 +214,7 @@ Politely	6041
 Politi	13325
 Politica Nacional De Proteção Social	11547
 Politica de Seguranca Cibernetica	795
-Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616
+Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616,452,106
 Political Advisor	10509
 Political Affairs	7182,270,6957,102
 Political Affairs ARTICLE	14409
@@ -231,6 +237,7 @@ Political Equality	1981
 Political Exit	5141
 Political Fantasies	11028
 Political Federation	12326,2083
+Political Financing Bill. Consultations	14742
 Political Guidelines	789
 Political Headwinds Affecting the NGFS	13532
 Political Instability	6938
@@ -268,6 +275,7 @@ Political Risk and International Valuation	11310
 Political Science	11682,326
 Political Situation	7452
 Political Stabilization and Reform	11586
+Political Structure	14742
 Political Terror Scale RSF Reporters	10759,78,1052,451
 Political Weapon	14277
 Political Will	5349
@@ -277,6 +285,7 @@ Political and Economic Origins of Our Time	5700
 Political and Governance	969,898,845,892,1084,1851,4229,61,41,94,453,108,35,295,110,211,264,618,273,1,588
 Political and Governance Substantial	11380,525
 Political and Institutional Dimension	5676
+Political and Legal Structure of Mauritius	14742
 Political and Rating Description	11469
 Political and Security Environment Eritrea	14008
 Political-compromise	7451
@@ -288,7 +297,7 @@ Politicians	2093,3706,1467,446,2228,3030
 Politicisation of Climate Policy	13532
 Politico	10527
 Politico Europe	11050
-Politics	2518,1097,1061,673,626,412,3012,9,353,308,19,207,110,48,73,545,64,1505,18
+Politics	2518,1097,1061,673,626,412,3012,9,353,308,19,207,110,48,73,545,64,1505,18,2084
 Politics Becomes	9399
 Politics Conference	7886
 Politics Editor	12521

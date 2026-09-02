@@ -18,7 +18,7 @@ Awareness Day	12970
 Bango Market Day	9569
 BoZ Commemorates International Anti-Corruption Day	13532
 Botswana Space Day	5328
-Budget Day	11193
+Budget Day	11193,3560
 Business Day	226,2432,660,2294,2139,516,315,19,1160,1479,1124,120,701,276,777,217,218
 Business Day Kenya	14674
 Business Day Where the Operator	12364
@@ -37,6 +37,7 @@ CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
 CSO Open Days	7784
 Camtel Cloud Days	10994
+Canal Dayot	14746
 Capital Markets Day	6851,3942
 Cascador Pitch Day	6368
 Celebration of International Day of Older Persons	10776
@@ -44,6 +45,7 @@ Celebration of Universal Health Coverage Day	10776
 Celebration of World Mental Health Day	10776
 Celebration of World Mental Health Day Mental	10776
 Cell C Day-by-Day Night Data Bundles	11259
+Child Day Care Centre	14738
 Chovwe Day Secondary School GCE	13477
 CnC Daystar BESS	11469
 Commemorated World Population Day	12962
@@ -76,10 +78,15 @@ DPI Day	5356,114
 DPI Day. Rwanda's DPI Day	8449
 DRC DAY	2880
 Data Protection Day	1243,3557,7595,191
+Date End Date Number of Days	14754
 Day Africa Lost Internet	2677
 Day Ago	11040,56
 Day Anti Drug Walkathon Liquid Intelligent	2987,16,962,1438,1506
+Day BoM Bill	14744
+Day BoM Bills	14744
 Day C	771
+Day Care Centers	14835
+Day Care Centre	14742
 Day Celebration	13080,15
 Day Data	12690
 Day End Notification Hours	13606
@@ -145,6 +152,7 @@ ESG WORKSHOP FINANCIAL LITERACY DAY	13532
 ESS Reporting Official Use Only Day	12253
 Eastern Congo Use Independence Day... MONUSCO	3245
 Eastern Daylight Time	5773
+Elderly Day Care Centres	14742
 Election Day	3758,6228,2255,839,15
 Energy Conservation Day We Are Hiring	4800
 Engineering Day	14117
@@ -191,6 +199,7 @@ Inaugural AI Innovation Demo Day	5413
 Income Days	11874
 Independence Day	2968,1204,992,563,624,1750,3231,1293,1249
 Independence Day Anniversary	13956
+Independence Day Celebrations. Page	14835
 Independence Day and Republic Day	7845
 Information Commission Data Protection Day	4800
 Information Technology Day	6243
@@ -211,11 +220,12 @@ International Identification Day	3586
 International Men's Day	12642
 International Open Data Day	4429
 International Women's Day	12642
-International Women’s Day	2668,9690
+International Women’s Day	2668,9690,2402,33
 International Women’s Day Webinar	2668
 International Youth Day	9648,138,85,1,1,4353
 International Youth Day. Note	9873
 Investor Day	7241
+J. Nehru Day Care Centre for Immunosuppressed	14774
 Jones Day	1728,1425
 Juba Day Secondary School	8940
 KQCNCajs Day	8713
@@ -238,9 +248,12 @@ Mandela Day	2844,13,2461,490,75,94,206,896,84,90
 Mandela Day Jackass	5017
 Mandela Day Malatsi	5808
 Mandela Day Responding	6183
+Methadone Day Care Centres	14742
 NOTIFICATION OF POLLING DAY AND POLLING	13046
 NRB Strategic Plan and CRVS and ID Day	13095
 NamRA Marks International Anti-Corruption Day	13108
+National Day	14760,33
+National Day Celebrations Municipality City Council	14746
 National Day Reception	13509
 National Day of Identity Conference	3703
 National Immunization Days	10776
@@ -307,9 +320,10 @@ Wellness Days	13504
 White Cane Day The White Cane	12977
 Wireless Fidelity WPD World Population Day	12962
 Working Days	762,12321
-World AIDS Day	4049
+World AIDS Day	4049,10725
 World Aids Day	5162
 World Aids Day Campaign	12977
+World Cancer Day	14773
 World Consumer Rights Day	11131,2401
 World Data Centers Day	2918
 World Day Against Trafficking	8480
@@ -321,6 +335,7 @@ World MSME Day	10330
 World Mental Health Day	10776
 World No Tobacco Day	10776
 World No Tobacco Day Initiatives	10776
+World No-Tobacco Day	14773
 World Password Day	9902
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
@@ -328,7 +343,8 @@ World Post Day	14521
 World Press Freedom Day	2844,3434,672,6032,142
 World Radio Day	4660,7965,89,828
 World Refugee Day	12627
-World Statistics Day	9708,1624,2114
+World Statistics Day	9708,1624,2114,1321
+World Statistics Day URL	14767
 World TB Day	2626
 World TV Day	4058,8567
 World Teachers Day	12950

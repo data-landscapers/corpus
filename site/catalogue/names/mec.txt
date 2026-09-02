@@ -43,6 +43,7 @@ Bank’s Accountability Mechanism	1284,583,4672,4229
 Bilateral Mechanisms	12617
 Body Mecanismo de Diálogo	12778
 Business Continuity Mechanism	8866
+C. Reforming Universal Service Mechanisms All	14723
 CAO Grievance Mechanism Toolkit	11006
 CAO’s Grievance Mechanism Toolkit	11007
 CE.1 Mecanismos	11376
@@ -50,6 +51,7 @@ COORDINATION MECHANISMS	12338
 CORE MECHANISM	6986
 CRIMINAL REFERRAL MECHANISMS AND PROSECUTORIAL COORDINATION	3861
 CROSS-BORDER TRANSFER MECHANISMS AND ADEQUACY DETERMINATIONS	3861
+Central Coordination Mechanism	14818
 Central Mechanical and Equipment Department	13591
 Certification Mechanisms	13381
 Citizen Feedback Mechanism	12665
@@ -59,13 +61,14 @@ Complaint Mechanisms	12389
 Complaint Mechanisms for Cadaster	12389
 Complaint Mechanisms for Immovable Property Registry	12389
 Complaints and Feedback Mechanisms	6947
+Compliance Mechanism	14754
 Compliance Mechanisms	1777,10579
 Component Component Sustainability Mechanisms Component	13331
 Components Sustainability Mechanism Component	6539
 Consumer Awareness and Education Mechanisms	5676
 Consumer Satisfaction Measurement Mechanisms	5676
 Coordination Framework and Administrative Mechanisms	7548
-Coordination Mechanism	12977,1534
+Coordination Mechanism	12977,1534,231
 Coordination Mechanisms for Excavation Permits	12389
 Country Coordinating Mechanism	12729
 Criminal Referral Mechanisms and Prosecutorial Coordination	3861
@@ -83,6 +86,7 @@ Department of Mechanical and Mechatronic Engineering	12178
 Deployment and Support Mechanism	13042
 Deployment and Support Mechanism Technical	13042
 Description of Grievance Mechanism	1778
+Develop Support Mechanisms	14819
 Diplomatie VII. MECANISME DE MITIGATION DES	13341
 Disaster Recovery Mechanisms Interoperability	6432
 Diseases NCM National Coordinating Mechanism	12970
@@ -97,6 +101,7 @@ EU’s Carbon Border Adjustment Mechanism	11149
 Effective Mechanisms	10763
 Emerging Technologies Diplomacy Coordination Mechanism	7548
 Employment Coordination Mechanisms for Persons	13389
+Enforcement Mechanisms	14790
 English. Mechanical	19
 Enhanced Grievance and Case Management Mechanism	14516
 Establish Mechanism	1000
@@ -110,6 +115,8 @@ Exceptions and Special Mechanisms Transfers	3861
 Expand Modern Alternative Dispute Resolution Mechanisms	14012
 Farming Mechanisation	13474
 Feedback Mechanisms	5665,6691,319
+Financing and Investment Mechanisms	14818
+Financing and Investment Mechanisms Limited	14818
 First-Level Review Mechanism	12389
 Flow of Funds Mechanism Page	10768
 Funding Source Description Mechanism	7548
@@ -145,9 +152,11 @@ Harcèlement Sexuelles MECIE	14488,1,1
 Health MEC Monyatso Mahlatsi	11273
 IGAD Technical Coordination Mechanism	14511
 IMA Instituto de Modernização Administrativa MR Mecanismo	11413
+IMPLEMENTATION MECHANISM	14726
 INCITATIONS ET MECANISMES D’APPUI ARTICLE	13809
 INFORMAL MECHANISMS DRIVEN	418
 INFORMAL MECHANISMS DRIVEN BY FINANCIAL INCLUSION	418
+INSTITUTIONS AND MECHANISMS The Office	14742
 Implementation Mechanisms	12356
 Implementation Mechanisms and Frameworks	13418
 Implementation Mechanisms and Frameworks Following	13418
@@ -159,6 +168,8 @@ Incident Response and System Recovery Mechanism A	4610
 Inclusive Development GRM Grievance Redress Mechanism	1264
 Inclusive Development HLO Grievance Redress Mechanism	3604
 Independent Complaint Mechanism	12389
+Independent Monitoring Mechanism	14743
+Independent Monitoring Mechanism PART II	14743
 Independent Reporting Mechanism	11866
 Independent Review Mechanism	5574
 Innovative Financing Mechanisms	13295
@@ -167,6 +178,7 @@ Institutional Mechanisms	2667
 Institutional Mechanisms for Policy Delivery	4848
 Institutional Mechanisms for Policy Delivery Delivering	4848
 Institutional Structure and Administrative Mechanisms	7548
+Institutions and Mechanisms	14742
 Karsten Mecklenburg	13161,9
 Kenyan-developed AI Licensing Mechanism A4-Value	7548
 KwaZulu-Natal Finance MEC Francois Rodgers	11266
@@ -174,6 +186,8 @@ KwaZulu-Natal MEC for Finance Francois Rodgers	11267
 La Meck Moroni	4380
 La Mecque	2353
 La Mecque. Il	7333
+Labour Scarcity and Mechanization	14818
+Labour Scarcity and Mechanization Labour	14818
 Lack of Efficient Help Desk Mechanisms for Incident	14546
 Land Dispute Mechanisms	12389
 Licensing Mechanisms	5245
@@ -233,9 +247,14 @@ Mecanismos de Retaliação	11430,1
 Mecca	6871
 Mecella	9237
 Mecenas	11435
-Mechanical	8,22,9,126,136,283,161,378,528,3269,79,156,190,65,70,60,381,319,354,130,632,1205,1,561,352,1711,1,7,8,1,1,1,1,1,1,61,24,2,2090
+Mechanic	14753
+Mechanical	8,22,9,126,136,283,161,378,528,3269,79,156,190,65,70,60,381,319,354,130,632,1205,1,561,352,1711,1,7,8,1,1,1,1,1,1,61,24,2,2090,1351
 Mechanical Components and Minerals Development	3760,9683
-Mechanical Engineering	14147
+Mechanical Engineering	14147,589
+Mechanical Engineering Carbon	14736
+Mechanical Engineering Laboratory	14736
+Mechanical Engineering Laboratory and NDT Laboratory	14736
+Mechanical Engineering and Non-Destructive Testing	14736
 Mechanical Room Outside	9123
 Mechanical Sciences and Technology	13952
 Mechanical and Cooling System Datacenters	9123
@@ -258,7 +277,7 @@ Mechanism HQ Grievance Redress Service IBRD	11855
 Mechanism HeRAMS Health Resources Availability Mapping	10829
 Mechanism Seychelles National Launch	7020
 Mechanism USAID	404
-Mechanisms	961,303,550,1059,85,625,278,1488,328,755,1116,2307,986,3,162,1190,106,54,33,906,123,1016,1,130
+Mechanisms	961,303,550,1059,85,625,278,1488,328,755,1116,2307,986,3,162,1190,106,54,33,906,123,1016,1,130,158,36
 Mechanisms Absence of Corruption	10759,1393,188
 Mechanisms Zimbabwe's AI	12512
 Mechanisms Zimbabwe’s AI	4528
@@ -277,8 +296,12 @@ Municipal Assessment Tool MEC Member of Executive	11224
 National Coordination Mechanism	9838
 National Cybersecurity Coordination Mechanism	6936
 National Mechanism for Reporting	12936,41
+National Mechanism for Reporting and Follow-Up	14742
 National NCDI Coordination Mechanism	12729
-National Preventive Mechanism	2343,10754
+National Preventive Mechanism	2343,10754,1645
+National Preventive Mechanism Act	14742
+National Preventive Mechanism Division	14742,97
+National Preventive Mechanism Division Act	14742
 OGP’s Independent Reporting Mechanism	9022
 Ocidental Mecanismo	11569
 Official Use Only Grievance Redress Mechanism	12253
@@ -299,6 +322,7 @@ Partnership for Education GRM Grievance Redress Mechanism	11560
 Past MECs	9073
 Performance Measurement Mechanism Smart Customs Community	13051
 Performance Mechanisms Develop	12008
+Ping Alert Mechanism	14736
 Policy Environment and Mechanisms	13399
 Poor Tracking and Communication Mechanisms. . Participants	4439
 Previous Article Mec	2264
@@ -326,6 +350,7 @@ Regional Cybersecurity Coordination Mechanism. On Gender	7452
 Regional Mechanisms	5825
 Registo de Imóveis Mecanismos de Reclamação	11898
 Registration of Mechanism	11855
+Regulations. The Mechanical Engineering Laboratory	14736
 Remedial Orders and Compliance Mechanisms	3861
 Rendimentos Prediais Desdobrável Mecenato Desdobrável Feira	12018
 Reporting Mechanism	2724
@@ -344,8 +369,10 @@ Sector Monitoring Mechanisms and Practices SSE	11907
 Sector Monitoring Mechanisms and Practices The ESP	13349
 Shock Responsive Mechanism	8399
 Signaling and Notification Mechanisms	5677
+Strategy Review Mechanism	14747
 Strengthen Contingency and Escalation Mechanisms INEC	10049
 Strengthen Mechanism	1000
+Strengthen Talent Attraction and Retention Mechanisms	14819
 Strengthened Legal and Regulatory Mechanisms Algeria	4755
 Submissão de Licenças Ambientais Mecanismo Disponível	11898
 Sustainability Mechanism	13331

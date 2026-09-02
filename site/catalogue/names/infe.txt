@@ -8,9 +8,11 @@ Controlo de Infecções PdE Pontos de Entrada PFN	11376
 Contrôle des Infections	14622
 ENTENDU PARLER D'AUTRES INFECTIONS SEXUELLEMENT	13300
 EU UNE INFECTION NE SAIT	13300
+HIV and Sexually Transmitted Infections	14839
 Helmholtz Centre for Infection Research	12003
 Human Immunodeficiency Virus Infection	14435
 INFECTION INFECTION OU	13300
+INFECTION PREVENTION CONTROL AND ANTIMICROBIAL RESISTANCE	14773
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
 INIS Infection Prevention and Control IPC Joint	11417
 IRAS Infeccao Respiratoria Aguda Ligera IRAS	966
@@ -18,11 +20,12 @@ Infecciones Respiratorias	4209
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
 Infection Disease Specialists	14094
-Infection Prevention and Control	4301,6475
+Infection Prevention and Control	4301,6475,3998
 Infection Prevention and Control IIMS	10776
 Infection Prevention and Control MGH Mbabane Government	12976
 Infection Prevention and Control Program	14033
 Infection Prevention and Control Section	11596
+Infection and Acquired Immuno Deficiency Syndrome	14714,1
 Infections	12151,1149
 Infections Arrest	12151
 Infections Cardio Pul- Cardiorespirato- Cardiopulmo-	12151
@@ -38,7 +41,8 @@ Infections Meningitis	12151
 Infections Results	12151
 Infections Sexuellement Transmissibles	13300
 Infections and RUTF Malaria	4217
-Infectious	1988,10425
+Infectious	1988,10425,2301,1
+Infectious Disease	14773
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Infectious Disease Preparedness ID Identification	14434
 Infectious Disease Research	13430
@@ -63,6 +67,7 @@ Linkage and No Inference	7081
 Malware Infections	3214
 Maria Grazia Dente Public Health and Infectious	10784
 Marzia Chiesi Foundation Dept of Infectious Disease	10878
+Minimum Requirements for Infection Prevention Control	14773
 National System for Healthcare-Associated Infection	4202
 Open Forum Infect Dis	14666
 PHYLogeny Inference Package	9475
@@ -72,7 +77,7 @@ R4. Infection	14020
 Respiratory Infections	12151
 Respiratory Infections Infections Diseases	12151
 SEXUALLY TRANSMITTED INFECTION WAN	12253
-Sexually Transmitted Infections	1988,10265,787
+Sexually Transmitted Infections	1988,10265,787,1702
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecção Respiratória Aguda	10777

@@ -78,7 +78,7 @@ Earn Women	12336
 Economic Empowerment of Refugee and Host Community Women	13938
 Economic Women's Equality Opportunity The IIAG	10838,1032,482,136
 Economic Women’s Equality Opportunity The IIAG	10835,133,918,467
-Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215,738,66,28,64,1475
+Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10,1211,215,738,66,28,64,1475,170
 Elimination of Discrimination Against Women	13040
 Employed Women Employed	11004
 Empower Rural Women	13447
@@ -158,6 +158,7 @@ In-Country Training and Mentorship for Women and Youth MSMEs	13936
 Increase Women's Participation	9893
 India Women	11964
 IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
+Influential Woman	14776
 Infrastructure Gaps and Patriarchy Leave Women	4794
 Initiative Framework WEF Women Empowerment Fund	11193
 Initiatives. Women	14125
@@ -167,7 +168,7 @@ Integrated Community-Based Women and Children's Centres	12606
 International Association of Women Judges	2626
 International Campaign for Women’s Right	13040
 International Women's Day	12642
-International Women’s Day	2668,9690
+International Women’s Day	2668,9690,2402,33
 International Women’s Day Webinar	2668
 JUSTICE EDUCATION RIGHTS WOMEN’S EQUALITY	12353
 JUSTICE FOR WOMEN IN TANZANIA	11206
@@ -223,8 +224,12 @@ National Policy Framework for Women’s Empowerment and Gender	11193
 National Union of Eritrean Women	14031
 National Union of Eritrean Women NUEYS National	13990
 National Union of Eritrean Women PWDs	14031
+National Women Council. Prevention	14742
+National Women Development Centre	14847
+National Women Entrepreneur Council	14742,77,28
 National Women's Network	12333
-National Women’s Council	13418
+National Women’s Council	13418,1324
+National Women’s Council Act	14742
 Nations. Google Scholar UN Women	11028
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
 Ndumba Kamwanyah MORE WOMEN THAN MEN	12378
@@ -241,9 +246,11 @@ Pan-African Women’s Day	8662
 Participation of Women	11230
 Participation of Women and Men	2775
 Persons Especially Women and Children	14039
+Persons. Advancement of Women	14742
 Police Women's Brigade	14660
 Policy Pathways for Enhancing Women’s Economic Participation	8891
 Preferential Market Access for Women and Youth	7142
+Pregnant Women	14742
 Pregnant Women Children	10829
 President Kiir Appoints First Woman	9122
 Procedures MWFSC Ministry of Women	11525
@@ -275,6 +282,7 @@ Representation of Women Rights	10759,78,1315,188
 Reserve Bank of Zimbabwe Urban Women Financial	940
 Rights On The Rights Of Women	13040
 Rights of Women	1988,3545,2145,3087,10,418,793,215,738,101,908,83,118
+Rights. Justice. Action. For ALL Women	14793
 Role of Women	14409
 Rural Women Rising	13447
 Rwandan Association for Women	12329
@@ -297,6 +305,7 @@ Sierra Leone Association of Women	11634
 Silencing Women	9595
 Smart Wearable Device for Women’s Menstrual Cycle	2816
 Smart Woman Loan and VSLA Loan	13938
+Social Welfare Centres and Community Centre Women	14745
 Socioeconomic Opportunity for Women	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130,902,16,466,1,135
 South African National Policy Framework for Women	11193
@@ -378,8 +387,23 @@ WhatsApp and Women’s Livelihoods	11017
 WomEng	11131
 WomEng Contribution	11131
 Woman	1363,9449
+Woman Assistant Commissioner of Police	14760
+Woman Assistant Commissioner of Police WASP	14760
+Woman Assistant Superintendent of Police WCI	14760
+Woman Deputy Assistant Superintendent of Police	14760
+Woman Police Assistant Superintendent	14760
+Woman Police Chief Inspector	14760
+Woman Police Chief Inspector WCPL	14760
+Woman Police Constable WPI	14760
+Woman Police Corporal WPC	14760
+Woman Police Inspector	14760
+Woman Police Inspector WPS	14760
+Woman Police Sergeant	14760
+Woman Police Sergeant WSP	14760
+Woman Police Superintendent	14760
+Woman Superintendent of Police STATEMENT OF COMPLIANCE	14760
 Wombwira	13300
-Women	598,191,151,29,1,199,1,94,554,49,73,48,638,42,107,104,704,21,522,313,89,35,231,60,50,139,238,41,498,63,656,293,116,191,12,21,349,123,348,9,134,240,34,402,36,225,73,116,88,85,113,14,55,8,137,6,5,16,205,24,50,6,20,312,245,45,34,16,14,4,5,67,2,1,3,119,3,1,4,9,26,1,13,1,15,50,60,50,37,22,22,9,2,29,18,85,78,30,20,27,9,5,48,63,68,90,2,6,5,2,9,7,1,1,1,11,2,1,15,13,13,16,4,3,19,8,98,46,13,1,1,1,9,25,4,9,13,39,25,19,31,5,3,4,1,11,1,14,32,10,4,31,16,28,13,11,218,76,85,31,17,98,3,71,62,1,63,77,17,1,26,60,52,2,119,82,164,101,10,12,50,96,36,186,24
+Women	598,191,151,29,1,199,1,94,554,49,73,48,638,42,107,104,704,21,522,313,89,35,231,60,50,139,238,41,498,63,656,293,116,191,12,21,349,123,348,9,134,240,34,402,36,225,73,116,88,85,113,14,55,8,137,6,5,16,205,24,50,6,20,312,245,45,34,16,14,4,5,67,2,1,3,119,3,1,4,9,26,1,13,1,15,50,60,50,37,22,22,9,2,29,18,85,78,30,20,27,9,5,48,63,68,90,2,6,5,2,9,7,1,1,1,11,2,1,15,13,13,16,4,3,19,8,98,46,13,1,1,1,9,25,4,9,13,39,25,19,31,5,3,4,1,11,1,14,32,10,4,31,16,28,13,11,218,76,85,31,17,98,3,71,62,1,63,77,17,1,26,60,52,2,119,82,164,101,10,12,50,96,36,186,24,372,18,10,63,3,11
 Women Absence of Armed Conflict Absence of Forced	10759
 Women Account	12472
 Women Addressing	11964
@@ -387,7 +411,10 @@ Women Affairs	940
 Women Affairs Ministry	7868
 Women Affairs and Social Development	12145
 Women Anti-Corruption Mechanisms Absence of Corruption	10759
+Women Associations	14742
 Women Bite-size	11017
+Women CEDAW-OP	14742
+Women CERD	14742
 Women Centre A DRC Women Centre	13046
 Women Council	12552
 Women Council and Local Council	8352
@@ -428,6 +455,8 @@ Women Men	10977,27,960,36
 Women Mexico	11964
 Women Middle East	11004,960
 Women Nominal Value of Loans	940
+Women Participation	14729
+Women Police Officers Network	14760
 Women Political Leaders. Closing	4036
 Women Public Perception of Female Leadership	10759
 Women Public Perception of Female Leadership Participation	10837,1315,188
@@ -444,6 +473,7 @@ Women Tech Mali	11091,580,2618
 Women Techsters Fellowship	12478
 Women University	4528,7984
 Women Women	12328
+Women and Children	14742
 Women and Girls	8311,1461
 Women and Girls Safe Spaces	9766
 Women and Girls. Accessed	6947
@@ -452,7 +482,10 @@ Women and Social Affairs Unit	14106
 Women and Social Affairs. Participating UN System	13999
 Women and Social Solidarity	6087
 Women and WITH AN EMERGENCY	10977
-Women and Youth	12053
+Women and Youth	12053,2765
+Women and Youth Crop Smallholders	14818
+Women and Youth Empowerment	14818
+Women and Youth Empowerment Women	14818
 Women and Youth Project	13331
 Women of Uganda Network	6949,997,1199
 Women's Coalition of Zimbabwe	970
@@ -472,6 +505,7 @@ Women's Equality Rank	11889
 Women's Experience of Physical and Sexual Violence	13454
 Women's Femme	10985
 Women's HPs	12242
+Women's Health	14829
 Women's Inclusiveness Score	12941
 Women's Initiative for Self-Empowerment	13390
 Women's Levelof Education	12151
@@ -488,6 +522,7 @@ Women-led Community Based Organizations	6947
 Women-only	1988
 Women-owned	11986,106
 Women-owned MSMEs	940
+Women-owned SMEs. Under	14742
 Women. Best	11870,19
 WomenInTrade	9516
 Womenowned	11017

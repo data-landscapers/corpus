@@ -25,7 +25,9 @@ Bridge Loans	10330
 CA Staff Loan Scheme	6946
 COMSIP Savings and Loans Groups	12978
 COMSIP Village Savings and Loans	12978
+Car Loan	14736
 Car Loan Scheme Fund Financial Statements	6946
+Car Loans	14736
 CitiTrust Savings and Loans	9650
 Civil Service Housing Loan Fund	13420
 Clients Additional Financing Loan Closing Date	11924
@@ -88,6 +90,7 @@ Generation Load Factor	12062
 Gh Loans	8732
 Google-Kiva Low-Interest SME Loans Africa	675
 Government of Eswatini Loans	11131,3
+Grants and Loans	14830
 Gross Loans	11131
 Gross Loans Profitability	11131
 Growth Development Policy Loan	11924
@@ -102,6 +105,8 @@ Higher Education Students' Loans and Grants Board	13030
 Higher Education Students’ Loans Board	3460
 Higher Loans Board	12149
 Historical Disbursed Loan	11395
+Home Ownership Scheme and Home Loan Payment	14742
+Home Ownership and Home Loan Payment Schemes	14761
 IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans and IDA Credits and Grants	3604,2299,4865,61,588,108,330,50,19,1407,1
 IBRD Total Loan	12980
@@ -191,7 +196,7 @@ Loan Payments	12389
 Loan Products Provided	2775
 Loan for Renewable Energy	12985
 Loan of EUR	11863
-Loans	2775,808,131,1258,1142,4732,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570
+Loans	2775,808,131,1258,1142,4732,123,162,5,94,654,1,10,264,1,44,1,146,4,41,49,42,475,570,1204
 Loans Assets Deposits Loans	11960
 Loans Board	2775
 Loans Disbursements Household Loans	13532
@@ -248,6 +253,7 @@ PROPOSED LOAN	6539,4229,612
 Payment of Guaranteed Loan	14546
 Penetration Test and Load Test	7266
 Personal Loan	10330
+Plaine Corail Airport TOTAL LOANS	14830
 Posts External Loans	11251
 Project Finance Loan	13938
 Provision of Intraday Loan Facility	12364

@@ -18,15 +18,17 @@ Biemba	3791
 Biemba G	3791
 Bien Commun	3857
 Bien-fonds	10876
-Bien-être	10712,2588,90,52,1095
+Bien-être	10712,2588,90,52,1095,300
 Bienes	1701
 Bienes Corrientes	4209
 Bienes Inmuebles	4209
 Bienestar Social	1701,154,2354
-Biennale	7843
+Biennale	7843,6986
 Biennale Artistique	7843
 Biennial	7548
+Biennial Adoption	14819
 Biennial Conference	961,1665
+Biennial Effectiveness of Cross Cutting Enablers Progress	14819
 Biennial Review	9609,648
 Biennial Transparency Report	3430
 Biennium	14622
@@ -83,6 +85,7 @@ Microdonnées INSTAT Madagascar Bienvenue	9481
 Ministry of Biennial	7548
 Mr. Bienvenu IRAKOZE	6044
 NORD NOU M BIEL CENTRE	10847
+National Outcome Indicator Reporting Frequency Biennial	14819
 Novembre Une Bien	14425
 OpenCRVS. Bien	14539,1
 Oslo. Bien	13546

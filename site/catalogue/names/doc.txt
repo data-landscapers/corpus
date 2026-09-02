@@ -23,11 +23,13 @@ Administration Management OASIS Portable Document Format	1009
 Africa Country Document Reference Relevance Republic	12512
 African Americans. Doctors	4426
 African Union Document Type	13899
+African Union Document Type AU Launches	14724
 African Union Document Type AU-EU Space	11283
 Afrique Centrale Document de Stratégie Régionale	11944
 Alternate Documents	14045
 Alternate Documents. Exceptions	14045
 Amendment of Bidding Document	13185,342
+Amendment of Bidding Documents	14766
 Amendment of Prequalification Document	1638
 Anexo de Documentos	12021
 Angola Janet Adão Doctors	10784
@@ -50,9 +52,11 @@ Aviation Civile Internationale Doc	2465
 Azerbaijan Document	10714
 B. Contents of Bidding Document For Clarification	13185
 B. Contents of Request for Bids Document	13185
+B. The Bidding Documents	14766
 BCs. Documentary	12328
 BID DOCUMENTATION REQUIREMENTS Bidders	12693
 BID DOCUMENTATION. B-BBEE CERTIFICATE	11240
+BIDDING DOCUMENT	14766
 BOSIB096cafe3e0c0084f70822a76892f1a.pdf Document	13722
 BRILLIAN DOCTORS PLAZA HOSPITAL Data Controller	7167
 Bank Standard Solicitation Documents	11863
@@ -61,10 +65,20 @@ Benefits Functionalities Cities Resources Documentation Case	12211
 Benvinda Levi. Documento	2866
 Bid Data Sheet Documents	13618
 Bid Document NB	11240
-Bidding Document	8166
+Bid. B.2. Clarification of Bidding Documents	14778
+Bidders. C.3. Documents Establishing Bidder’s Eligibility	14778
+Bidder’s Qualifications Documentary	14766
+Bidding Document	8166,6612
+Bidding Document URL	14766
 Bidding Document. Authorized Signature	13185
-Bidding Documents	13185
+Bidding Documents	13185,1581,12
+Bidding Documents C.4.1 The Bidder	14778
+Bidding Documents Documentary	14766
+Bidding Documents The Bidder	14778
 Bidding Documents The Head	13527
+Bidding Documents. Failure	14766,12
+Bidding Documents. Later	14766
+Bidding Documents. The Bidders’ Representatives	14778
 Biometric Document Production Center	11535
 Birth Certificates and Identity Documents	12972
 Board Documents	9915,77
@@ -72,8 +86,10 @@ Body DOCUMENTS	13019
 Body Document of The World Bank Group	12968
 Brilliant AI Doctor	12246
 Budget Document Number	13122
+Budget Documents	14800
 Busuma Document Type	13669
 C OF THIS DOCUMENT. THE FOLLOWING	11240
+C.4. Documents Establishing Conformity	14778
 CAPÍTULO IV Documentos	11360
 CCD Clinical Document Architecture CCR European	1009
 CCD Continuity of Care Document CCR Continuity	1009
@@ -88,6 +104,7 @@ CORRECTIONS THIS DOCUMENT MAKES	5618
 COSTS OF A CIVIL STATUS DOCUMENT	12338
 CTD Conventional Travel Document	12227
 Cadastre Document	10876
+Card Issuance Senior Citizens Documents Required	14741
 Care Record CDA Clinical Document Architecture	1009
 Careers Vacancies Speeches Documents Monetary Policy	12390
 Case Tracking Document Exchange Decision Repository	12211
@@ -113,6 +130,7 @@ Civil Identity Document	11872
 Civil Resource Development and Documentation Centre	11866
 Clarification and Amendment of RFP Documents	13037
 Clarification of Bidding Document	13527
+Clarification of Bidding Documents and Pre-bid Meeting	14766
 Clarification of Prequalification Documents	1638
 Clinic Doctor Risk Manager Technology Manager	8603
 Commission Staff Working Document	6477,2590
@@ -120,11 +138,12 @@ Common Core Document	12936
 Common Seal and Authentication of Documents Rationale	8866
 Common Technical Document	14622
 Common Technical Document Epidemic Intelligence	14622
-Communication Technologies Authority Document Ref	2913
+Communication Technologies Authority Document Ref	2913,11867,45
 Communities Document Language	13669
 Communities Document Type	13669
 Compliance Documentation	5665
 Compulsory Documents	11240
+Computer Document	14718
 Computer Science Doctor of Philosophy	12407
 Concept Project Information Document	12253
 Conception and Scoping Document	11007
@@ -136,9 +155,12 @@ Constitutional and Political Doctrine	3861
 Constitutional and Political Doctrine Data	3861
 Consultation Document	10406
 Consumo de Bebidas Doces	10777
+Content of Bidding Documents	14766
+Content of Bidding Documents Implementation Schedule	14766
 Continental Ownership Doctrine	9119
 Continuity of Care Document Continuity of Care Record	1009
 Contract Documents	13185
+Contract. B. THE BIDDING DOCUMENTS	14766
 Convention Travel Documents	13231
 Conventional Travel Documents	12227
 Cooperation Document URL	13983
@@ -168,6 +190,7 @@ DHIS2 Documentation Skip	12408
 DOC. V	13300
 DOCGREENE	7167
 DOCILIO JOAQUIM SEBASTIÃO FRANCISCO BENTO	10751
+DOCKS	14772
 DOCR Problème	13946
 DOCTOR FACE KENYA LIMITED Data Controller	7167
 DOCTOR MUSTAFA'S DENTAL CARE Data Controller	7167
@@ -219,10 +242,12 @@ DOCX File	1824,9095,1106
 DOCX Front	12211
 DU DOCUMENT ET DE LA SISNATURE	13719
 Data Download and Documentation	10977
+Database Document Management	14738
 Deadline for Obtaining Tender Document	12693
 Deeds and Documents	13251
 Definition Fall-back Fall-back Documented	12364
 Delivery and Documents	13185
+Delivery of Documents	14718
 Departamento de Documentação	167
 Description Appraisal-Stage Project Information Document	1572
 Description Documents	1292,765,2313
@@ -237,6 +262,7 @@ Development Document	11007
 Developpment Company DSCE Document de Stratégie	10975
 Digital Document Delivery Applicants	12211
 Digital Forms Document Upload Workflow Automation	12211
+Digital Identity and Documents Citizens	14752
 Dimensão Documental	10772
 Dis-Moi Doc	10821
 Discussion Document	11235
@@ -265,6 +291,8 @@ Docket Entries	14675
 Docket No	5773
 Docket Operations	12984
 Docking	7038
+Docks	14745
+Docks Tower	14745
 Doclor Nurwe Pharmaollt Pa1110lotlst Clerk	1009
 Docteur	3045,3350,1259,3260
 Docteur El Hadji Séga GUÈYE	7641
@@ -275,7 +303,7 @@ Docteur Venant Célestin QUENUM	10824
 Docteur YEO Nahoua	4273
 Docteur Younoussa Ben Imani	6068
 Docteure Aminata ZERBO	3469
-Doctor	3439,1377,686,62,1198,3,361,4003,1238,12,117
+Doctor	3439,1377,686,62,1198,3,361,4003,1238,12,117,2279
 Doctor Chisale Mhango	13040
 Doctor David Lewis Heritage Academy Trust	7167
 Doctor Gift Kalisto Machengete	3003
@@ -285,11 +313,13 @@ Doctor Marcos Ncogo Mañé	7703
 Doctor Salomón Nguema Owono	9303
 Doctor of Medicine	14120
 Doctor of Philosophy	5315,1517,6140,117,279
+Doctor of Philosophy PHEIs	14775
 Doctor of Technology	6832
 Doctor&volume	766
 Doctor-Patent Relationship. Council of Europe. Retrieved	1243
 Doctoral	2093,4855,1074,649,2277,1279
 Doctoral Degree	12972
+Doctoral School	14775
 Doctoral Studies	12431
 Doctorant	10826
 Doctorants	1183
@@ -313,8 +343,9 @@ Doctrine	5970
 Doctrouvé Koï	10253
 Doctype	1264,603,606,416,567,148,1049,1886,4229,649,143,345,19,1187,1442,23
 Docum Nombre	3396
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37,52,21,147,3,20,96,612,52,60,10,26,1,172,26,42,107,4,5,31,44,56,8,21,314,44,6,12,22,12,29,12,62,143,102,3,21,4,10,16,136,47,42,52,50,21,279,9,4,4,35,2,163,225,12,13,14,3,28,7,29,12,9,70,12,199
 Document ALL	13310
+Document An Attorney-at-Law	14828,3
 Document Analysis	11028
 Document Approval	13308
 Document Approval History Version	2779
@@ -341,7 +372,7 @@ Document ID Number	8605
 Document Information	775
 Document Information File Name	13308
 Document Management	6432,4799
-Document Management System	6432,4799
+Document Management System	6432,4799,3599
 Document Mapping and Evidence Summarization	1824
 Document May Be Found	775
 Document Media Interchange	1009
@@ -366,6 +397,7 @@ Document Revision History Version	2779
 Document SEP Sexual Exploitation and Abuse SH	10964
 Document SNIF	12012
 Document Scanners TBA TBA	1988
+Document Security Object	14740
 Document Services	12404
 Document Sharing	1009
 Document Sharing REST	1009
@@ -411,7 +443,7 @@ DocumentObjectModel	8606
 Documentación de Vehículos	4209
 Documentaires	6959
 Documentar	12360
-Documentary	5903,3496,3097,541,383
+Documentary	5903,3496,3097,541,383,1316,42
 Documentary Evidence	11233,1952
 Documentation	747,440,2396,208,70,1652,152,1291,265,1,2633,458,499,163,293,310,50,232,1,93,89,184,70,103,208,149,278,150,164,32,151,241,416,21,315,12,37,77
 Documentation Centraliser	14537
@@ -476,17 +508,20 @@ Documentos Mínimos	11404
 Documentos Online	11898
 Documentos de Apoio	12018
 Documentos de Identificação	11383
-Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79,57,84,109,33,90,18,305,13,11,1,4,10,14,74,41
+Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45,45,41,174,50,332,294,5,1,16,26,11,7,11,107,102,6,39,39,110,1,4,22,36,4,49,176,408,5,143,128,47,38,63,39,24,3,39,69,79,57,84,109,33,90,18,305,13,11,1,4,10,14,74,41,135,4,2,7,1,7,11,1,2,2,5,3,3,9,3,5,12,4,12,8,1,4,9,2,2,3,1,4
 Documents Access	13042
 Documents Administratifs	10812
 Documents Agenda	12055
 Documents Authentication and Registration Service	1784,668,749,3881,3627
 Documents Biométriques Semlex	2048,2596
 Documents Comprising the Application	1638
+Documents Comprising the Bid	14766
 Documents Consortium	11916
 Documents Contacts UNSPSC	13694
 Documents Cyril Brandt	11916
 Documents Establishing	13185
+Documents Establishing Bidder’s Eligibility	14778
+Documents Establishing the Conformity	14766
 Documents Establishing the Eligibility	1638
 Documents Establishing the Eligibility and Conformity	13185
 Documents Establishing the Eligibility and Qualifications	13185
@@ -502,7 +537,8 @@ Documents and Media Documents	13971
 Documents and Resources	14035
 Documents the E&S	1260
 Documents the WARDIP-GB	6269
-DocumentsList	1377
+DocumentsLinks	14738
+DocumentsList	1377,13337
 Documentum	13185
 Documentário	2816
 Docusign Envelope ID	14539
@@ -518,11 +554,13 @@ Ecoles Doctorales	13313
 Education Document	13310
 Electronic Document	3042
 Electronic Document Management	13042
-Electronic Document Management System	12338
+Electronic Document Management System	12338,2448
 Electronic Document and Records Management System	3042,9283
 Electronic Identity Document	10651
 Electronic Machine-Readable Travel Documents Posted	12164
+Eligibility of Goods and Services Documents	14766
 Emergency Doctor Health Information Oﬃcer Hospital	8603
+English. C.2. Documents Comprising the Bid	14778
 Eritrea Country Programme Document	14058
 Eritrea Document	13949
 Establishment Documents	14524
@@ -545,6 +583,7 @@ Firms Over Contract Breaches and False Documents	3955
 Following the Identity Documents Act	8440
 Foreigner Travel Document	12333
 Form for Data Capture Remove Metadata and Documents	1009
+Foundational Document	14745
 Four Documents	10424
 Framework Documents	3861
 Free. Required Documents	12349
@@ -559,6 +598,7 @@ Gmail and Docs	3947
 Goods and Documents Completion	13185
 Google Docs	1363
 Governance Document	3503,4544
+Government Documents Mauritius Africa Fintech Hub	14819
 Guidance Document. Paragraph	5872
 Guidelines Relevant Policy Documents	1988
 Guidelines. Transparency and Documentation Transparency	14565
@@ -660,6 +700,7 @@ Mandatory Documents Mandatory Requirement Compliant	13037
 Master’s and Doctoral Degrees	11131,3
 Matsapha Forklift Doc MCC Warehouse	11134
 Mauritius Country Programme Document	11332
+Mauritius. B. Solicitation Documents B.1. Examination	14778
 Max Supported Document Size	34
 Medical Doctor	3791,6196
 Medicine CT Document Metadata Subscription DICOM	1009
@@ -689,6 +730,7 @@ National Identity Documents	12182
 National Identity Documents. Wandile Dlamini	13235
 National Identity No Document	10714
 National Land Registration and Documentation Programme	2592,9362
+National Policy Documents Government	14752
 National Registration Regulations Document	13005
 National Statistical System Documents	13386
 Negotiation Document	13618
@@ -705,16 +747,20 @@ Operating Model Documents GPE Conseil	11916
 Operation Document	1264,603,1737,7164,649,143,345
 Operation Document SYSTEMATIC OPERATIONS RISK- RATING	3562
 Operational Documentation	5665
+Original Document	14784
 Outcome Document and Chair’s Summary. Aug	5700
 Ownership Documents	2775
 PART I PROVISIONS RELATING TO DOCUMENTS	13398
 PART III COPIES OF DOCUMENTS	13398
 PDF Portable Document Format PNDS Plan	13306
+PDF Portable Document Format SMS Short	14723
 PIDIAF0158 Project Information Document	14553
 PIDIAF0329 Project Information Document	12832
 PRIMARY DOCUMENT	1826
 PROJECT APPRAISAL DOCUMENT ON A PROPOSED	12780
 PROJECT APPRAISAL DOCUMENT PCR	12253
+PSIP Document	14830
+PSIP Document The PSIP	14830
 PUBLIC DOCUMENT	6422
 PUBLIC DOCUMENT OF THE EUROPEAN BANK	1818
 PUBLIC DOCUMENT SCHEDULES TO SWIPSS RULES	12484
@@ -726,7 +772,7 @@ Personal Docente	4209
 Personal Identification Document	10714
 Personal Identity Document	2683,8031
 Point Outcome Document	11285
-Portable Document Format	14483
+Portable Document Format	14483,230
 Portable Document Format PII Personally Identifiable	34
 Portable Document Format Patient Demographics Query	1009
 Preamble This Governance Document	3503
@@ -759,6 +805,7 @@ Proyecto de Doctorados	4209
 Présentation du Document	14607
 Public Disclosure Authorized Project Information Document	3456,7507
 Public Disclosure Authorized Supporting Documents Table	11469
+Public Documents	14714,1
 Public Participation Documents Section	14559
 RECORD OF ADDENDA TO TENDER DOCUMENTS	12693
 RELATED LEGISLATION AND DOCUMENTS	5244
@@ -783,11 +830,13 @@ Refugee Documents	12227
 Refugee Identification Documents	12227
 Refugee Identification Documents. Legal Notice No	12227
 Registration Invitations Documents REGISTER HERE En	10235
+Registration of Deeds and Documents System	14828,3
 Related Documents	14511
 Relevant Documents	1988
 Relevant Documents World Bank Related Documents	1988
 Remove Metadata Remove Metadata and Documents SOAP	1009
 Remove Metadata and Documents RFD South African	1009
+Request for Information Document The RFI	14756
 Required Documentation	6442,6312
 Required Documents Applicants	12085
 Requirements Documentary	12496
@@ -851,6 +900,7 @@ Standard Procurement Documents	1867,9658
 Standards Department Document Classification	12360
 Standards Document Distribution	13308
 Standards and Creation of Compliance Department Documents	12360
+Strategic Policy Documents and Reports	14745
 Strategy Document	10965
 Studies White Papers API Docs FAQ	12211
 Submission of Documents	12400
@@ -877,6 +927,7 @@ Tender Document	12850
 Tender Documents	8346,4043
 Tendering Document. The Procuring Entity	1638
 Testing Documentation	5665
+Throughout the Bidding Documents	14766
 Tipo Doc	12018
 Title Document and Registration	14647
 Title Documents	14647
@@ -907,6 +958,7 @@ VACC. NI AUTRE DOCUMENT	13300
 VALIDATION DU DOCUMENT Version Valideur	14438
 VALIDITY OF THIS DOCUMENT	11184
 VAT Documentation	12630
+VAT. Documents Comprising the Bid The Bid	14778
 VERSIONS DU DOCUMENT Version Date Auteur	14438
 VI. Documents	235
 VI.8.5.2. Documents	10876
@@ -915,6 +967,7 @@ Verified Document Sharing and Wallet	11940
 Verify and Document Beneficial Owners’ Identity	12389
 Verify and Document the Identity of Entrepreneurs	12389
 Version Control Page DOCUMENT CONTROL PAGE	11188
+Visiting Doctor Scheme	14829
 Vital Documents	14137
 WB Program Document	558
 WB Project Appraisal Document PAD3340	424

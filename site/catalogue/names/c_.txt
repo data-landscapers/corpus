@@ -25,6 +25,7 @@ Abrogation GIGANET SARL C	998
 Abrogation MEDIATEL C	998
 Abrogation OPTIMA SARL C	998
 Account Holder. C	11233
+Act C	14790
 Act. Part C Insert	3714
 Acting Minister of Finance. Supplement C	12624
 Adamson C	9739
@@ -39,6 +40,7 @@ Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Angola. C. Beneficiários	11441,1
 Annex C	7198,5205,634,973
+Annex C. Police Helicopter Squadron	14760
 Annex C. Transforming Education Summit	12175
 Annexe C	13300,394,778
 Annexe C PERSONNEL DE L’ENQUÊTE Annexe	13300
@@ -62,6 +64,7 @@ Attribution ATLANTIQUE TELECOMS C	998
 Attribution DE TRANSPORT C	998
 Ayudante Grupo C	4209
 B C D	10785
+B C D Biodegradable	14736
 B C INSCRIVEZ DANS LE CALENDRIER	13300
 B C P6-19-1	12500
 B Often C Sometimes D Rarely	5679
@@ -69,7 +72,7 @@ B PERTE CONSCIENCE...... C PERTE CONSCIENCE	13300
 B Satisfactory C Average D Unsatisfactory	5679
 B Satisfied C Moderately	5679
 B Significant GovTech Maturity C Medium	10785
-B and C	3583,9457
+B and C	3583,9457,1681
 B- Tablet C- Place of Education	582
 B- WhatsApp C- Instagram C- Cost	582
 B. C	10726,409
@@ -221,6 +224,7 @@ C and C	11922
 C and D	11525,342,500,931
 C and D Price Code	13385
 C and D. Figure	10785
+C and HIV	14721
 C and Ku Bands	736
 C and L	12379
 C and Robertson	2096
@@ -274,15 +278,19 @@ C. A	7886,3268
 C. A la BRB	13390
 C. AI Model Ownership and Control	5773
 C. AU TITRE DU MINISTERE	7670,651
+C. Access	14714,1
 C. Account Balance Aggregation and Currency Rules	11233
 C. Administration	7977
 C. Appointment	7845
 C. Appropriate	7845
+C. Architecture	14759
 C. Article	4420
+C. Ascertainment	14717
 C. Assurance	613
 C. Award Public Citizen	5692
 C. B	2816
 C. BANK PERFORMANCE Quality	11924
+C. BASE STATION TECHNICAL PARAMETERS	14825
 C. Baraka	3782
 C. C	11927
 C. CHAPITRE	13937
@@ -291,6 +299,7 @@ C. CULTURAL RIGHTS	14073
 C. Cabinet	2626
 C. Cap	7832
 C. Capacity Building	12977
+C. Central Repository	14720
 C. Certificate for Joint Venture	12693
 C. Children’s Month Activities Day	12977
 C. Clearance	11863,2075
@@ -300,12 +309,14 @@ C. Collaboration	7845,711
 C. Complaint Monitoring	5676
 C. Complaint Monitoring Consumer	5676
 C. Compliance	11863,2075
+C. Concerns	14751
 C. Conclusion and Policy Recommendations	1828
 C. Confidentiality	4610
 C. Confidentiality and FOIA Information	5773
 C. Conjoncture	14437
 C. Consumer Empowerment and Redress	5676
 C. Consumer Empowerment and Redress Consumers	5676
+C. Consumer Price Index	14777
 C. Content	13039
 C. Corruption	3583
 C. Cyber Security	12364
@@ -314,6 +325,7 @@ C. Dairy Cow Farming	12977
 C. Data Security	13381
 C. Deadline	13039
 C. Decision Timing The Department	5773
+C. Declaration	14717
 C. Denizer	1264
 C. Dependencies	3583
 C. Developing Human Capital	11140
@@ -321,10 +333,14 @@ C. Development Objective Development Objective	13523
 C. Development Partnership	12979
 C. Di Ciccio	9237
 C. Di Francescomarino	9237
+C. Digital Infrastructure	14819
 C. Digital Infrastructure and Affordability AI	11140
+C. Directions	14809
 C. Disability Grants Currently	12977
 C. Disability Mainstreaming and Inclusion	12977
 C. Disbursements Arrangements	11905
+C. Disclosure	14730
+C. Doobaly Office Management Executive	14835
 C. Draude	9237
 C. E	2816,5787
 C. E. Ndhlovu Prof. I. D.T	1154
@@ -337,18 +353,22 @@ C. Enhanced Review Procedures for High	11233
 C. Enhancing	10768
 C. Entity Accounts With Respect	11233
 C. Environmental and Social	2989,8916
+C. Error	14821
 C. Establishment	14575
+C. Exchange	14809
 C. Expenditure Framework	11905
 C. F	10780
 C. F. Tabela	10780
 C. FINANCIAL MANAGEMENT	11863,2075
 C. FINANCIAL PROPOSAL	962
+C. FRAMEWORK FOR THE PROMOTION	14742
 C. Failure	14484
 C. Feuille	1218
 C. Fills	3130
 C. Financial Management	2889,8636,338,102
 C. Fonction	13390
 C. Fonctionnaires	14424
+C. Framework	14742
 C. From Promise	7548
 C. G	1243,11090
 C. G. Reddick	5349
@@ -361,12 +381,16 @@ C. Hefeker	11310
 C. Higher Level Objectives	11525,330
 C. Historical Tax Reforms	13624
 C. Homburg	9129
+C. Horse Racing Fund	14843
 C. House Rehabilitation and Reconstruction The National	12977
 C. Huawei	11740
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
 C. INTEGRATED SOCIAL PROTECTION FOR RESILIENCE	12980
 C. Implementation of VACS Data Project	12977
 C. Inclusiveness	13295
+C. Increase	14843
+C. Independent Security Audits	14716
+C. Independent Security Audits The National	14716
 C. Industrie	13290
 C. Instant Payments	11138
 C. Institutional	4214
@@ -403,6 +427,7 @@ C. Male	12188
 C. Manufacturing	13060
 C. Methodology	3583
 C. Methodology Standards	3583
+C. Methodology and Consistency	14777
 C. Modelling	10856
 C. Modelo Nacional de Avaliação	11451
 C. Monetary and Financial Sector Policies	13868
@@ -416,6 +441,7 @@ C. Notwithstanding	11233
 C. O	961
 C. ON THE COMESA-EAC-SADC TRIPARTITE ARRANGEMENT	13440
 C. OTHER CROSS-CUTTING PRIORITIES	11863,2075
+C. Objection	14717
 C. Objetivos	11898
 C. On-budget	3583
 C. Onyefuluchi	11140
@@ -426,13 +452,16 @@ C. PARTICIPANTS AU SYRAD	13838
 C. PDO-Level Results Indicators	11525
 C. PERSONNEL	13478
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
+C. PREPARATION OF BIDS	14766
 C. PROJECT COMPONENTS	11863,2075
 C. Padovani	11028
 C. Parent Project Status and Results	13459
 C. Part	13385
 C. Participation	822,4808
+C. Payer	14717
 C. Payment	7845
 C. Payment Conditions Payment	13037
+C. Penalty	14717,92
 C. Persons	12939
 C. Peter McColough	11154
 C. PforR Program Scope	12176
@@ -440,7 +469,8 @@ C. Pizzinelli	11140
 C. Policy Implications	1828
 C. Policy Recommendations	1828
 C. Preparation of Applications	1638
-C. Preparation of Bids	13185
+C. Preparation of Bids	13185,1581
+C. Preparation of Bids C.1. Language	14778
 C. Preparation of Bids ITB	13185
 C. Preparedness and Response Capabilities The NDMA	12977
 C. Procurement	1284
@@ -459,12 +489,15 @@ C. Rapports	13442
 C. Rationale for Bank's Involvement	14080
 C. Rationale for Bank’s Involvement	13938
 C. Rationale for Bank’s Involvement C.1	11863
+C. Recovery	14809
+C. Reforming Universal Service Mechanisms All	14723
 C. Registration	12452
 C. Regular Audits	4610
 C. Relationship	11905,271
 C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11,1771,1
 C. Request for Proposal Conditions	12400
 C. Resource	12977
+C. Response	14777
 C. Right	1630,1953
 C. SCOPE OF WORK Task	13922
 C. SERVICE SPECIFICATIONS	13185
@@ -475,13 +508,16 @@ C. Se	12018
 C. Section	13390
 C. Sectoral Context Key PFM Processes1	1284
 C. Social	12977
+C. Solar Energy Investment Allowance	14717
 C. Statistical Processes	13310
 C. Strategic Plan for Agriculture and Rural Statistics	12768
+C. Submission	14717
 C. Subvention Table	12977
 C. Summary	13040
 C. Summary of Activities	12977
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. Supprimer	13375
+C. Suspension	14843
 C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295,1476,1
 C. T. Lundblad	11310
 C. TEEVAN	11155
@@ -499,10 +535,12 @@ C. Transforming Education Summit Commitments	13990
 C. Types of Exposed Sectors	11140
 C. UPDATE ON PROGRAMMES	12597
 C. Utility	7845
+C. Validity	14821
 C. Vellutini. Building Tax Capacity for Growth	13624
 C. Violations of User Rights	12333
 C. Vogeli	5700
 C. Wang	5700,2905
+C. Wastewater	14745
 C. What Can Be Done Next	1828
 C. Wu	11140
 C. Z-W	1264
@@ -606,6 +644,7 @@ DIGITALIZATION LIFE CYCLE Development C	11007
 DIRECTIVO JUSTICIA PENIT. C. REGISTROS	4209
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Daniela C. Rodríguez	6948
+Date Signature Summary Form C	14713
 Day C	771
 Delegado Grupo C	4209
 Delegado Grupo C Director Grupo C	4209
@@ -648,6 +687,7 @@ Excluding Cell C and Comm Equipment Company	9911
 Exporting Digital Authoritarianism C	5242
 F- Busy D C- Yes Tablet	582
 F. C	13624
+FB.Interpretation of Sub-part C	14809
 Fase C	1701
 Fiches C	10876
 Figure C	12062
@@ -685,7 +725,7 @@ HAS Excellent B Satisfactory C Average	5679
 HAS Telecommunications B Job C State	5679
 HON. C. MOYO	13591
 Hawa C. Wagué	1579
-Hepatitis C	12413
+Hepatitis C	12413,2329
 Hon. Col. Rtd. K. C. D	13591
 Hon. Dumisani C. Ndlangamandla	12904
 Hon. Felix C. Mutati	7950
@@ -694,6 +734,7 @@ Hon. M. C. Mohwasa	12607
 Honourable Felix C. Mutati	7793,157
 Honourable S. C. Mandiwanzira	13295
 House Number C	3386
+Household Rooftop Solar PV Scheme. C	14829
 Hyde and Prodelin Idirect X7 Bande C	998
 I C Article	13293
 I C L	4260
@@ -751,6 +792,7 @@ Le C	10876
 Liaisons C	11766
 Licença de Classe C	2866
 Liu C. Health	10919
+M I C S INFRASTRUCTURE	14724
 M Series C	606,324,509
 M Series C for MFS Africa	606
 M. C	8604
@@ -789,6 +831,7 @@ Moniepoint's Series C	2247
 Monnaie C	10965
 Moove's Series C	9098
 Mossaoa C	1009
+Mr. C. Bhojoo	14760
 Mr. C. Chiduwa	13562
 Mr. Peter C. Nangolo Director Land	12912
 Ms C Knoesen Chief Registrar of Deeds	11261
@@ -808,6 +851,7 @@ N C I O N Global	4209
 N C L U S	11586
 N P R O C	10775
 N. C	2518
+NATIONAL DATA STRATEGY C	14790
 NGDX Standards and Architecture Documents Annexure C	11952
 NIGER C	998
 Namibia. C. Conclusion	2022
@@ -847,12 +891,13 @@ Par Thibaud C. NAGNONHOU	4077,2695
 Parent Project Design and Scope C. Project	13860
 Park C	5242
 Parlamento Jefe Servicio Grupo C Jefe	4209
-Part C	1988,1001,594,131,1182,6344,10,275,382,1442
+Part C	1988,1001,594,131,1182,6344,10,275,382,1442,1481
 Part C Delegations	11181
 Part C Inquiries	11181
 Part C Insert	3714
 Part C Percentage	11181
 Part C Permanent	11181
+Part C Project Under Preparation	14830
 Part C Sequestration	11181
 Part C Tax	11181
 Part C Taxpayer	11181
@@ -867,6 +912,7 @@ Pizzinelli C	9739
 Policy. Hon. Felix C. Mutati	13346
 Popescu C	12255
 Porter C	3604
+Powers of Minister Sub-Part C	14743
 Practices C. Circa	1818
 Processo Eleitoral C N D H	6530
 Production Airtel A B C D	236
@@ -904,11 +950,12 @@ Réservation WAYA C	998
 S C H E D U	13068
 S C I T S	11236
 S IR C M A N	10775
+S S U N C G	14760
 S. C	2518,8617,450
 S. C. P	10763
 S43 PART C	12930
 SBD4 Declaration of Interest Annexure C	11240
-SECTION C	582,2193
+SECTION C	582,2193,11998
 SIGNEZ ET INSCRIVEZ C NUMÉRO D'AGENT	13300
 SNIP. Volet C	12043
 SOSTENIBLE C	1701
@@ -936,11 +983,17 @@ Soberanía F U N C	4209
 Social Worker. C. Confirmations The Office	12977
 South Sudan. C. Corruption	3583
 Sriram C	1261
+Staff of Unit Sub-Part C	14743
 Starlink and Amazon Leo Cell C	10797
 Statistic Prob. C	236
 Strand Education Foundations Strategy C	12175
+Strategic Objective C	14818
 Strategy. Hon. Felix C. Mutati	13347
-Sub-Part C	7845
+Sub-Part C	7845,6869,1,2,10,16
+Sub-part C	14717,126
+Sub-part C of Part II	14717
+Sub-part C of Part IV	14717
+Sub-part C of Part VIII	14717
 Supervisor Grupo C Juez Militar Instrucción	4209
 Sénégal. C. Feuille	1218
 T. C	1243,5,7423
@@ -980,6 +1033,7 @@ Y C O L L	11157
 Y O P C ER H	582
 Yasin C	12255
 Years of Inactivity By Gerald C. Koinyeneh	7410
+Z A T IO N C	14736
 Z. Muranda Prof. C. E. Ndhlovu	1154
 ZAMOHA C	998
 ZISPIS. C. Sustainability	13332

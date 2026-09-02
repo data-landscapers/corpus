@@ -68,7 +68,7 @@ CONT. ARMADAS INSULAR INSULAR REG.CONT	4209
 COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Controller	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Processor	7167
-Captive Insurance Act	7845
+Captive Insurance Act	7845,6964,19,3,12
 Caractéristique Aménorrhée Abstinence Insusceptibilité	13300
 Caractéristique Diabète Hyper- Maladie Insuffisance Cancer	13300
 Card Insurance Scheme	13563
@@ -77,6 +77,7 @@ Civil Liability Insurance	12295
 Climate Risk and Insurance	7334
 Combats Health Insurance Fraud	5056,738,146,682
 Commissioner of Insurance	6938
+Committee of Insurance	14819
 Commu- Insurance	2775
 Community Based Health Insurance	4349,7897,87
 Community- Based Health Insurance	12328
@@ -101,6 +102,7 @@ DISNEY INSURANCE BROKERS LIMITED Data Controller	7167
 DISNEY INSURANCE BROKERS LIMITED Data Processor	7167
 DYNAMIQUE INSURANCE BROKERS LIMITED Data Controller	7167
 Department of Health RFD National Health Insurance	1009
+Deposit Insurance	14744
 Deposit Insurance Corporation Act	9341
 Deposit Insurance Corporation Act and ESOMA Bills	9220
 Deposit Insurance Fund. Together	14224
@@ -138,6 +140,7 @@ G10 Adoption of OCR Insurers	9237
 G12 Stakeholder Insurers	9237
 G15 Configuration Insurers	9237
 Gas Insulated Substation	12358
+General Insurance Business	14809
 General Insurance Committee The Director General	6938
 Generalized Health Insurance	13770
 German Social Accident Insurance Institution	11156
@@ -155,6 +158,7 @@ Health Insurance Fund	186,647
 Health Insurance Fund Care Pay Mobile	186
 Health Insurance Information System	629
 Health Insurance Management Authority NTBC National	13347
+Health Insurance Premium	14717
 Health Insurance Units	10865
 Hollard Insurance	2151
 INDEMNITY AND INSURANCE	585,8281
@@ -166,6 +170,8 @@ INSULAR CONT. ANNOBON WELE-NZAS NTEM CENTRO	4209
 INSULAR R. CONT. TERRO R. CONT	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
 INSULAR.- Concepto	4209
+INSURANCE	14778
+INSURANCE PREMIUM TAX ON GENERAL INSURANCE	14843
 INSURTECH CONFERENCE Mkomazi Hall	2275
 INSUSCEPTIBILITÉ DE TOMBER ENCEINTE Aménorrhée	13300
 IRA Insurance Regulatory Authority ISIC International	2775
@@ -173,7 +179,7 @@ Inclusive Climate Insurance RSF	11469
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78,183,506,9,70,165,25,25,54,101,2,18,23,46,2,53,123,138,319,15,200,19,104,148,302,123,437,6,53,160,82,89
 Insufficient Collaboration	12356
 Insufficient Data	12376
 Insufficient English	12329
@@ -205,11 +211,13 @@ Insur	6019
 InsurTech	4848,1021,52,6523
 InsurTech-related	10793
 InsurTechs Significant	12444
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065
-Insurance Act	6938,4317,1393,412
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162,510,147,1,293,124,27,9,36,9,97,502,132,200,135,1065,132,126
+Insurance Act	6938,4317,1393,412,1749,34
 Insurance Activity Supervisory Body	6938
+Insurance Broker	14809
 Insurance Business Proclamation No	13976
 Insurance Companies	11255
+Insurance Company	14766
 Insurance Control Department	6938
 Insurance Firms Early-stage	12444
 Insurance Formal Informal	12445
@@ -224,6 +232,7 @@ Insurance Markets	6938
 Insurance Nominal GDP	2775
 Insurance Passive	12373
 Insurance Postal Agency Counter Extension Post	11129
+Insurance Premium	14736
 Insurance Premium Levy Act	13403
 Insurance Proclamation	14122
 Insurance Program Advisory	11469
@@ -247,12 +256,17 @@ Insurance and Investment Products	12737
 Insurance and Pensions	940
 Insurance and Pensions Commission of Zimbabwe	940
 Insurance and Risk Management	9437
+Insurance and Safety Nets	14818
+Insurance and Safety Nets Existing	14818
+Insurance and Safety Nets Limited	14818
 Insurance and Social Security Supervisory Authority	6938
 Insurance-Sector-Coverage-Kenya-vF.pdf. United Nations	6938
 InsureAI	11511
 Insured	12460
+Insurer	14809
 Insurer Liberty	5806
-Insurers	9237,438,1830
+Insurers	9237,438,1830,3314
+Insurer’s Association	14800
 Insuring AI	11310
 Insurtech	12339,1220
 Insusceptibilidade	10777
@@ -274,6 +288,10 @@ Libyan Insurance Supervisory Authority Stock	6938
 Limited and Econet Insurance	4896
 MDAs. Inclusive Climate Insurance Program Note	11469
 MIGA Expands Insurance Support	11310
+Mauritius Deposit Insurance Act	14744
+Mauritius Deposit Insurance Company Ltd	14744
+Mauritius Deposit Insurance Corporation Ltd	14744
+Mauritius Deposit Insurance Scheme	14744
 Microfinance Supervisory Authority CEO Insurance Regulatory	6938
 Morocco's InsurTech	5921
 Motor Third Party Insurance	7591
@@ -320,6 +338,7 @@ Operationalize the Universal Medical Insurance Fund	1828
 Overview of Namibia’ Social Protection Social Insurance	12373
 PS. Insufficient	10017
 Payroll Investments Asset Management and Insurance	9437
+Peer-to-Peer Insurance	14819
 Pension and Insurance Supervision Director	6938
 Pensions and Insurance	12409
 Pensions and Insurance Authority	6938,5471,1123
@@ -339,6 +358,7 @@ Reg. Insular	4209
 Regional Insurance Supervisory Commission	6938
 Regional Third-Party Motor Vehicle Insurance Scheme	13563
 Región Insular	4209
+Regulatory Framework for Insurance Aggregators	14819
 Role of Political Risk Insurance	11310
 Rubavu Insufficient	12328
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
@@ -346,6 +366,7 @@ SHIF Social Health Insurance Fund UNHCR	12227
 SIC Insurance	10523
 SWAp and National Health Insurance Authority	4301
 Savings Credit Insurance Remittances	418
+Seed Multiplication and Distribution Systems Insufficient	14818
 Series B2 for South African InsurTech	4972
 Service Provider Global Money Week Insurance	940
 Services Insurance Banks Financial Services Distribution	4972
@@ -362,7 +383,9 @@ South African Special Risks Insurance	11353
 South Africa’s National Health Insurance	8603
 Stabilization Levy NHIL National Health Insurance	236
 State Health Insurance Schemes	12004
+State Insurance Company of Mauritius Ltd	14736
 State. The Generalized Health Insurance Support	13770
+Statement of Insured Vehicles	14828,3
 Strengthen Health Insurance Systems Through Digital	9837
 Supervisory Authority of Insurance and Social Welfare	5921
 Tanzania Insurance Regulatory Authority	11133

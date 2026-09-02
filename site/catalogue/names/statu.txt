@@ -54,21 +54,25 @@ PINAUD Clara Statut	10880
 Producer Responsibility Statutory	1988
 Public Service Regulations Statutory	13310
 RAM Statut	14622
+Raise Assessments Beyond the Statutory Limit	14828,3
 Regulation and Statutes	958
 Reviewing Draft Health Data Statutory	13430
-Rome Statute	3583
+Rome Statute	3583,11159
+Rome Statutes	14742
 République Centrafricaine. Statuant	10826
 SAVANNAH Concession Attente Statuer	10975
 STATUT	13300
 STATUT MATRIMONIAL	13300
 STATUT MATRIMONIAL AUTRE	13300
 STATUTES OF ESWATINI	12894
+STATUTES OF THE ATAL BIHARI VAJPAYEE	14768
 STATUTORY AFFAI COPIE CERTIFIEE GONFORME	10974
 STATUTORY INSTRUMENTS	1844
 STATUTORY INSTRUMENTS SUPPLEMENT	1844
 Singapore Statutes Online	11135
 Social and Criminal Statute	10765,10
 Special Statutory Mandate None	10738
+Staffing of Statutory Bodies	14745
 Statuer	10876,2905
 Statues	4896
 Statut	643,94,28,422,1621,2553,880,1602,2974,24,1,33,1,99,701,1615,9,25,9,56,43,9,290,49,699,57,85
@@ -86,20 +90,30 @@ Statut des Agents Non Encadrés	14431
 Statut des Réfugiés Convention	13442
 Statut des Réfugiés Protocole	13442
 Statut. Pour	6954
-Statute	6626,922,3217,10,3749
+Statute	6626,922,3217,10,3749,218,26
 Statute Law	12139,2271
-Statutes	2307,2589,2042,1838
+Statutes	2307,2589,2042,1838,5992
+Statutes The Statutes	14768
 Statutes and Regulations of South Africa	11177
 Statutes of South Africa	11177
-Statutory	22,714,487,331,323,111,739,161,163,256,45,27,335,147,1035,351,315,171,448,440,325,422,180,598,1291,695,36,334,627,1360,7,443,372,24,46,49,63,3,2,68,11,17,12,89
+Statutes. PART V	14768
+Statutory	22,714,487,331,323,111,739,161,163,256,45,27,335,147,1035,351,315,171,448,440,325,422,180,598,1291,695,36,334,627,1360,7,443,372,24,46,49,63,3,2,68,11,17,12,89,1041,6
 Statutory Authorities	1811
 Statutory Authorities and State	1781
 Statutory Authorities and State Enterprises	1198,583
+Statutory Authority Under Section	14737
 Statutory Board and Committee	1154
 Statutory Boards	11131,3
-Statutory Bodies	11854
+Statutory Bodies	11854,2866,15,1,2,4,1,3,7,15,56,4,3,12
+Statutory Bodies Family Fund Protection Board	14746
+Statutory Bodies Family Protection Fund	14738,8,101
+Statutory Bodies Family Protection Fund Board	14746
+Statutory Bodies Pension Funds Act	14736,92,3,12
+Statutory Bodies Protection Fund Board	14738,8
 Statutory Bodies The Minister of Home Affairs	5533
-Statutory Body	1988,10928
+Statutory Bodies The Ministry	14745
+Statutory Bodies. Minister Permanent Secretary Deputy	14745
+Statutory Body	1988,10928,1829
 Statutory Body Charters	13473
 Statutory Enabling Framework	3861
 Statutory Fees KES	10738
@@ -131,5 +145,6 @@ Statuts-types	10823
 Statuts. Notre	8237
 T R LEGISLATIF LEGISLATIVE AND STATUTORY	10974
 T REGLEMENTAIRE ATIVE AND STATUTORY AFFAIR	10974
+United Local Government Statutory Board	14738
 Urbain Rural Statut	13390
 ZEMA. Statutory Instrument No	1988

@@ -5,6 +5,7 @@ ACTION POINTS FOR POLICY IMPLEMENTATION Policy	4848
 ADDRESS POINT LIMITED Data Controller INST-952593C30A0	7167
 AI Focal Points	7548
 ARPCE Pointe-Noire	6455
+AU Launches Internet Exchange Point	14724,52
 AUX POINTS ET A L’EDUCATION FINANCIERE	13390
 Access Point	8670,4093
 Access Point Name	12241
@@ -40,6 +41,7 @@ Brazzaville and Pointe-Noire	1828,4378,5653,46,150
 Brazzaville and Pointe-Noire. Granting	11897
 Brazzaville and Pointe-Noire. Objectives Assess the Republic	12055
 Bureau International de Poids	13320
+Bureau International des Poids	14736
 Bureau Permanent Président Point Focal Point	14537
 Burkina Point de Vue Politique Quantum Robotics	9993
 Burundi Internet Exchange Point	13291,21,1,1
@@ -62,6 +64,7 @@ Cardbased Point of Sale and Card-based Automated Teller	11131
 Cardinal Points	5202
 Cash Point	8816
 Category Points Qualification and Skills	962
+Centre CAP Community Access Points ICT	14723
 Check Point	3290,603,5922,857
 Check Point Certified Security Administrator	12926
 Check Point Research	5518,4297
@@ -77,6 +80,7 @@ Clients du Point	13291
 Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
 Col NIBIZI Elias Point Focal TIC	13341
+Comité International des Poids	14736
 Communications Focal Point	14146
 Community Access Points	12536,437
 Confusing Collection Points	9696
@@ -95,6 +99,9 @@ Crown Point Dental Care Data Processor	7167
 DATA POINT	7167
 DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
+Data Points	14778
+Data Points Scope	14778
+Data for Mauritius Internet Exchange Point	14810
 Demand Points and ICT Training DBI	11857
 Demerit Points System	11774
 Deployment of Access Point Name	12241
@@ -125,6 +132,7 @@ Fixed Office and Service Points Districts Local	8999
 Fixed Office and Service Points Geographic Coverage	8999
 Floating Point Operations Data Protection Per	4126
 Floating Point Operations Per Second	4126
+Focal Point	14753
 Focal Point Person	1778
 Focal Points	1161
 Four Points	7248,3168
@@ -135,6 +143,7 @@ GRM Focal Points	13332
 GRM Train the Focal Points	2989
 GRM Training the Focal Points	2989
 GROSSESSE COMME DES POINTS DE RÉFÉRENCE	13300
+Gender Focal Points	14742
 Green Point	8999
 HABINDAVYI Elie Point Focal TIC	13341
 HIPC Completion Point	1155,9981
@@ -158,7 +167,7 @@ Information CAP Community Access Point CRAN	12973
 Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130,166
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point KYC Know	13312,2
@@ -167,7 +176,7 @@ Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
 Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90,166
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 Juste NKENGURUTSE Louis Point Focal TIC	13341
@@ -203,12 +212,13 @@ Malawi Internet Exchange Point	12917
 Manufacturer POP Point of Presence PUE Power	10781,1646,2055
 Manufacturer PoP Point of Presence PUE Power	10861
 Mastercard Interface Point	12273
-Mauritius Internet Exchange Point	3292
+Mauritius Internet Exchange Point	3292,11432,86,17
 Merchant Point-of-Sale	6453
 Message Structures Service Point Application Enterprise	21
 Microsoft Power Point	962
 Monitoring Points	1000
 Monitoring of Rwanda Internet Exchange Point	718
+Montagne Piquant and Pointe Coton Desalination Plant	14794
 Mozambique Internet Exchange Point	8858
 Municipality Service Point Name Lat Long	11986
 Muster Point	1988
@@ -217,7 +227,9 @@ NCP Neighbourhood Care Point NDMA National	12970
 NIJIMBERE Samson Point Focal TIC Ministère	13341
 NTARABAGANYI Pierre Point Focal TIC Channel	13341
 National Accreditation Focal Point	13320
+National Contact Points	14789
 National Enquiry Point	14225
+National Enquiry Point for Technical Barriers	14736
 National Focal Points	12918
 National Key Points Act	5161
 National Signalling Point Codes	6946
@@ -262,6 +274,9 @@ Pay Point Managers	12335
 Payment Access Points	4517,2461
 Payment Point Mangers	13332
 Payment Systems Access Points and Devices	4517,2461
+Penalty Point System	14753,40
+Penalty Points System	14845
+Penalty Points System. Accordingly	14774
 Percentage of Postal Service Points	12395
 PfoR Focal Points DLI	11905
 Pharmacy and Poisons	9855,2288
@@ -273,7 +288,7 @@ Poids des MPME	11944
 Poikela	8606
 Poilão Fonseca	11962
 Poilão Marine National Park	11586
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218,1513,119,143,45,271,71,10,74,15,86,6,92,267,345,250,287
 Point Application	21
 Point Azhar Malik UNDAF Outcome	12241
 Point Calculation Rules For CPD	13381
@@ -282,6 +297,8 @@ Point Configuration. PART VI Private Radio	736
 Point Focal	7675,1602,4548
 Point Focal TIC Point Focal TIC	13341
 Point Focal TIC du Ministère	13290
+Point Internet	14723
+Point Internet Connection	14723
 Point KPIs Key Performance Indicators KYC	13346
 Point Kilométrique	11322
 Point Km Kilometer	10861
@@ -320,7 +337,9 @@ Point-to-Point. Kwa	11612
 Point. Bojang	6226
 Point. Like	6226
 PointNoirTV	2545
-Pointe	14479
+Pointe	14479,295,56,17
+Pointe Canon	14774
+Pointe Jérome Youth Centre Anse	14835
 Pointe N	3994
 Pointe Noire	3994,7930
 Pointe- Noire	11924
@@ -361,11 +380,12 @@ Public Key Infrastructure POS- Point of Sales	11955
 Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Qwiper Points	12128
 RETAIL PAYMENTS ACCESS POINTS FOR SENDING	13388
+ROT for Pointe Cotton Desalination Plant Community	14830
 RPO Recovery Point Objective RPS Requests	11952
 Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
-Recovery Point Objective	6432,30,4259,1231,586
+Recovery Point Objective	6432,30,4259,1231,586,2221
 Recovery Point Objectives	11995,1190
 Recovery Time Objective and Recovery Point Objective	12967
 Recovery Time Objectives and Recovery Point Objectives	12967,1579
@@ -403,6 +423,7 @@ Service Point Name Lat Long District	11986
 Service Point Name Long EC Alfred	11986
 Service Points	8999
 Signaling Point Codes IT Information Technology	6946
+Single Entry Point Single PA	14725
 Single Point of Access	12389
 Single Point of Decision Making	12389
 Single Point of Payment	12389
@@ -419,10 +440,12 @@ Système des Points	13291
 Sélection Point Après	13375
 T Ready Focal Point	13382
 TBT Enquiry Point	13320
+TBT National Enquiry Point	14736
 Talking Points	5752,2359
 Tax Authority Access Point	8670
 Technology IXP Internet Exchange Point KBPS	12973
 Telecommunications Union IXP Internet Exchange Point	1264
+Temperature Ice Point Reference	14736
 Terminal de Point de Vente	14483
 Tipping Point	1828,4584,7456
 Tipping Point BURUNDI EAC	13624
@@ -433,6 +456,7 @@ UGP. Point	14424
 Uganda Internet Exchange Point	9477
 Union IXP Internet Exchange Point LTE	13295
 Universal Contact Points	5676
+Utilities Power Points and Lightings	14778
 Vult Pay Point	2749
 Water Point	11918
 Water Purification Points and Boreholes Drilled1	2775

@@ -2,6 +2,7 @@ A. Tenderers	11240
 AGC TENWEK HOSPITAL Data Controller INST-551450D37F1	7167
 AGC TENWEK HOSPITAL Data Processor INST-551450D37F1	7167
 Advancing Land Tenure Reform	13703
+Airport POLICE TENDER UNIT POLICE INTERNAL	14760
 Alibaba and Tencent	5242
 All Tenders	1638
 Alta Tensión	4209
@@ -24,6 +25,7 @@ Basse Tension Adoption	13433
 Beyond Tenure Security	13998
 Board. A.230 Tenure	3887
 Bujumbura Mairie. Tendances	13300
+Business Administration. Mr Suttyhudeo Tengur Mr	14736
 CCDR Tendances	7655
 CENTRE-EST TENKODOGO BOULGOU TENKODOGO KOULPELOGO OUARGAYE	10847
 CERTIFICATE OF BONA FIDE TENDERING Tender	12693
@@ -45,6 +47,7 @@ Competitive Tender Commission	3221
 Competitive Tendering	7695
 Complete EPC Tender Award	11134
 Conditions of Tendering and Undertakings	11240
+Cooperative Society Ltd. Mr. S Tengur	14736
 Correct Number of Tender Responses	12693
 Current Tenders EDM	9409
 Customary Tenure Convention Regulation	1988
@@ -110,6 +113,7 @@ LA LOI DONT LA TENEUR SUIT	4420,147,9285
 LA REPUBLIQUE CENTRAFRICAINE Tengho Serge Marcellin	10826
 LA TENUE DU REGISTRE NATIONAT Article	10813
 LAND TENURE	12912
+LESSOR TENANT	14778
 Labour Tenants	11197
 Land Redistribution and Tenure Reform	11261
 Land Tenure	12912
@@ -119,6 +123,8 @@ Land Tenure Implementation Programme	13703
 Land Tenure Regularisation	12451
 Land Tenure Regularisation Programme	12333
 Landing Rights Tenure and Fees	10407
+Landlord and Tenant	14742
+Landlord and Tenant Act	14742,36
 Leasehold and Upgradable Tenure Rights	12912
 Legal Tender	3308
 License Tenure	10407
@@ -130,6 +136,7 @@ Microsoft Microsoft Tencent Microsoft Microsoft Microsoft	6477
 Microsoft Teams Tender	10102,707
 Microsoft Teams. Tender	7514,2162
 Moyenne Tension	1993,8982
+Mr. S Tengur	14736
 Mr. Tenneson Gondwe	12980
 Mutare Tendai Gukutikwa	13434
 NORTE- AMERICANO Tendo	3519
@@ -137,6 +144,7 @@ National Competitive Tendering for Goods	7695
 No. DESCRIPTION TENDER NO. Category Closing	1638
 Non-Financial Benefits Security of Tenure Investment	12457
 OPEN TENDER	1638
+Occupation Orders and Tenancy Orders. The Industrial	14742
 Oil MT Moyenne Tension MINEE Ministère	10975
 Olusola Teniola	2552
 Ombudsman Publications Updates Latest Updates Tenders	12390
@@ -164,12 +172,15 @@ RD YA TENGA BAM CENTRE-NORD	10847
 RECORD OF ADDENDA TO TENDER DOCUMENTS	12693
 REVERSAL OF LEGAL TENDER	4127
 Recent Geopolitical Tensions Could Stifle Trade	10718
+Regulations. The Landlord and Tenant	14742
 Report PART D CONDITIONS OF TENDERING	11240
 Request for Tender	14224
 Responsible Governance of Tenure	9727
 Responsible Governance of Tenure of Land	10960
 Responsiveness The Tenderer	11240
 Restricted Tendering and Single-Source Procurement	7695
+S Tengur	14736
+SCHEDULE TENTH SCHEDULE	14843
 SCM Tenders	10102
 SCOPE OF TENDER	13618
 SITUAÇÃO DO SISTEMA ESTATÍSTICO NACIONAL Tendo	11526
@@ -180,6 +191,7 @@ Security of Tenure	12912,562
 Segunda Teniente Alférez Alférez de Fragata Comisario	4209
 Setembro FC Tengueth	11587
 Shibo. Tensions	4949
+Should the Tenant	14778
 Social Development ESTA Extension of Security of Tenure	11188
 Social Tenure Domain Model	1391
 Sovereignty Objective. Tenders	3787
@@ -193,6 +205,7 @@ Surveys and Land Tenure	10987
 Sustainable Management of Landscapes and Tenure	12985
 TEN-E Regulation	6477
 TENA TOURS	7167
+TENANT	14778
 TENDANCE DE LA MORTALITÉ ADULTE	13300
 TENDANCES DE LA MORTALITÉ LIÉE	13300
 TENDER AWARD This Tender	12693
@@ -209,6 +222,7 @@ TENKODOGO	10854
 TENSION	13300
 TENUE DES SESSIONS	14537
 TENURE IN CAMEROON The Ministry of State	10987
+TENURE OF OFFICE	14753
 TENURE SECURITY	3861
 Tableau C.10 Tendance	13300
 Tableau C.8 Tendance	13300
@@ -223,11 +237,12 @@ Tenable	4434
 Tenancy	4896,7507
 Tenancy and Asset Utilisation	4896
 Tenancy and Commercial Division	4896
-Tenant	737,1220,1234,627,7311,815
+Tenant	737,1220,1234,627,7311,815,2834
 Tenant Biometric ID Platform Transforms Healthcare	11987
 Tenant Cluster Nutanix NX3360-G7	13185
 Tenant Households Preferred Dwelling Units for Buying	2775
-Tenants	5200
+Tenant. The Tenant	14778
+Tenants	5200,9578
 Tencent	3465,1777,5893,5
 Tencent's Hy3	10038
 Tencer	9739
@@ -245,11 +260,11 @@ Tendances du Rapport	13300
 Tendances du Rapport de Mortalité	13300
 Tendayi Ngwerume	12478
 Tendency	12376
-Tender	1638,4226,1082,252,316,1548,203,837,707,431,1453,278,421,1130
+Tender	1638,4226,1082,252,316,1548,203,837,707,431,1453,278,421,1130,224
 Tender Announcement for National Instant Payment System	5864
 Tender Board Department Arrears	12976
 Tender Board of Namibia	12951
-Tender Box	12686
+Tender Box	12686,2070,3,3,16
 Tender Closing Date	7987
 Tender Details	13548
 Tender Document	12850
@@ -273,13 +288,14 @@ Tender Secretariat. Failure	12400
 Tender Type	13818
 Tender and Contractual Mechanisms	12389
 Tender for Electronic Equipment for Rural Job Centers	8985
+Tender for Floating Photovoltaic	14745
 Tender for Proposed Fit	6946
 Tender for Roll	6946
 Tender for Supply	6946
 Tenderer	1638,10762
 Tenderer's Stamp	12400
 Tenderers	1638,10784
-Tendering	1638,13036
+Tendering	1638,13036,92
 Tendering Document. The Procuring Entity	1638
 Tendering Entity	12400
 Tendering Process	11240
@@ -321,6 +337,7 @@ Tennsa OS	9381
 Tenopir	9969,2121
 Tenor	11863,2075,197
 Tensaye Desalegn	13878
+Tensile	14736
 Tension	12246,1187
 Tension Grips Rivers Community As Gunmen	10274
 Tensions	11955,2147
@@ -336,7 +353,7 @@ Tenth	6463,1721
 Tenth Edition	1828
 Tenth National Development Plan	12533
 Tenth Review	11554
-Tenth Schedule	7845
+Tenth Schedule	7845,6939,59
 Tently	4153,107
 Tenu Awoonor	3304,1973
 Tenue	9668,1206,3663,85

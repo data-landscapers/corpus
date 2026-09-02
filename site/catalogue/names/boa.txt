@@ -36,6 +36,7 @@ Affordable Housing Board Data Controller INST-2364763E1C0	7167
 Affordable Housing Board Data Processor INST-2364763E1C0	7167
 Africa AI Council. The Board	4030
 Agency The Board	11464
+Agricultural Marketing Board	14818
 All Board	11131
 All Board Members	12646
 Alternate Board Director	6946
@@ -49,6 +50,7 @@ Appeals Board	12910
 Appoint the NWRIA Board	11236
 Appreciation The Board	1154
 Appreciation The RCZ Board	1554
+Appropriate Board	14736
 Approval The Board	11131,3
 Asbestos Cement Insulating Board and ZS006	1988
 Athi Water Services Board	14546
@@ -115,7 +117,7 @@ Boali. S'exprimant	9277
 Boane	5087,7114
 Boane Earth Station	6797
 Boao INCLUSIVE DIGITAL USE Vision Easy	1885
-Board	11,225,349,2,131,18,222,38,135,23,45,355,17,7,1,195,33,11,1,48,3,30,1,18,334,284,172,66,54,321,180,80,114,77,92,21,32,34,107,11,89,43,17,79,137,187,16,96,184,150,253,40,431,26,41,538,219,95,103,71,41,167,25,214,38,6,166,164,4,125,182,34,156,122,128,108,15,106,19,55,278,1,72,30,78,55,1,22,137,124,119,1,1,1,67,37,1,168,74,59,1,76,1,87,62,10,150,12,32,30,175,128,16,27,243,167,3,45,20,19,18,4,25,4,11,5,67,4,83,25,61,35,122,114,4,1,10,1,1,38,12,43,1,9,2,5,53,169,124,19,19,8,43,16,14,59,36,7,40,5,3,13,1,1,42,49,1,1,113,140,1,2,8,41,16,2,8,65,11,1,54,25,44,9,101,18,5,7,14,8,10,13,9,15,27,36,13,8,20,33,9,122,77,100,9,16,12,70,10,25,192,62,183,12,11,16,7,8,29,53,7,22,19,33,44
+Board	11,225,349,2,131,18,222,38,135,23,45,355,17,7,1,195,33,11,1,48,3,30,1,18,334,284,172,66,54,321,180,80,114,77,92,21,32,34,107,11,89,43,17,79,137,187,16,96,184,150,253,40,431,26,41,538,219,95,103,71,41,167,25,214,38,6,166,164,4,125,182,34,156,122,128,108,15,106,19,55,278,1,72,30,78,55,1,22,137,124,119,1,1,1,67,37,1,168,74,59,1,76,1,87,62,10,150,12,32,30,175,128,16,27,243,167,3,45,20,19,18,4,25,4,11,5,67,4,83,25,61,35,122,114,4,1,10,1,1,38,12,43,1,9,2,5,53,169,124,19,19,8,43,16,14,59,36,7,40,5,3,13,1,1,42,49,1,1,113,140,1,2,8,41,16,2,8,65,11,1,54,25,44,9,101,18,5,7,14,8,10,13,9,15,27,36,13,8,20,33,9,122,77,100,9,16,12,70,10,25,192,62,183,12,11,16,7,8,29,53,7,22,19,33,44,46,2,2,1,14,7,1,24,5,28,23,4,15,4
 Board Annual Integrated Report	11134
 Board Appointment Our Board Individual Members	11134
 Board Approval	2712,1976,1891,254,95,949,3518,576,17,240,39,173,540,74,786,80,50,86
@@ -152,7 +154,7 @@ Board Composition Board Structure Board Composition	11134
 Board Composition The Central Bank	11131
 Board Corporate Bayobab Press20	11234
 Board Decision TUNISIA	1818
-Board Directors	585
+Board Directors	585,14159
 Board Documents	9915,77
 Board Elections	8866
 Board Ethiopian Ships An Ethiopian	12226
@@ -171,7 +173,7 @@ Board Jean Claude ILIBONEYE	12358
 Board Liaison	10079
 Board Lourino Chemane	12101
 Board MUKANYILIGIRA	12358
-Board Meeting	1554,9105
+Board Meeting	1554,9105,4086
 Board Meetings	585,8281,4085
 Board Meetings The Technical Committee	12969
 Board Member	6946,302,5704,19
@@ -184,7 +186,7 @@ Board Member Ms. Lindiwe Mbingo Board	12969
 Board Member Ms. Odete J. Sons	11134
 Board Member for STEM for Development	12366
 Board Member of Africa Merchant Assurance Company	6946
-Board Members	408,177,133,6228,1920,1855,1637,288,305
+Board Members	408,177,133,6228,1920,1855,1637,288,305,1794
 Board Members. FINANCE	1154
 Board Members’ Remuneration	12951
 Board Minister	3887
@@ -202,7 +204,7 @@ Board Presentation	12980
 Board RURA Rwanda Utilities Regulatory Authority	12329
 Board Report	5620,1134
 Board Representative	8748
-Board Resolution	22
+Board Resolution	22,14744
 Board Risk and IT Committee	11134
 Board Risk and IT Committee. Project Achievements	11134
 Board Risk and IT Committee. The Committee	11134
@@ -215,7 +217,7 @@ Board Strengthening	11906
 Board T.A. Ngowe Group Company Secretary	4263
 Board THE EXECUTIVE MANAGEMENT Armand ZINGIRO	12358
 Board The Authority	14422
-Board The Board	11464,1181,672,1105,71
+Board The Board	11464,1181,672,1105,71,331
 Board The Chairperson	14493
 Board The LCA	12646
 Board Trustee	10694
@@ -241,11 +243,12 @@ Board for Persons	13470
 Board for Requirements	6946
 Board of Administration	1382
 Board of Agency	13305
-Board of Authority	12535,804,32
+Board of Airport Terminal Operations Ltd	14753
+Board of Authority	12535,804,32,1372
 Board of BIPA	3714
 Board of Commissioners	8393,562,1390
 Board of Digital Earth Africa	12133
-Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171,16,25,351,21,75,230,25,211,188,28,64,45,270,88,125,163,321,2,84,80,52,158,189,878,12,11,16,145
+Board of Directors	585,151,395,115,308,264,52,49,790,128,604,83,190,1182,499,1006,32,102,403,8,258,108,862,348,49,295,1213,72,399,171,16,25,351,21,75,230,25,211,188,28,64,45,270,88,125,163,321,2,84,80,52,158,189,878,12,11,16,145,123,11,2,8,6,2,89
 Board of Directors Audit	12969
 Board of Directors Board Member Position	12969
 Board of Directors Jurisdiction	10762
@@ -264,10 +267,11 @@ Board of Directors of MTN Group Limited	7198
 Board of Directors of Statistics Botswana	12530
 Board of Directors. Confidential	1818
 Board of Directors. Finally	11955
+Board of Directors. The Board	14744
 Board of Econet	4896
 Board of Eswatini Economic Policy Analysis and Research	11131,3
 Board of Executive Directors	10714,51,10,10,27,29,135,1,8,151,13,122,274,322,7,5,2,84,211,152,7,11,188,125,653,2,18,63,318,304
-Board of Governors	11710,617
+Board of Governors	11710,617,2441,56
 Board of Governors Meeting	11283
 Board of Governors. KENYA	12138
 Board of Healthcare Funders	10538
@@ -287,6 +291,7 @@ Board of Trustees KICTANet	14464
 Board of Trustees and General Assembly	13477
 Board of Trustees of ASCON	7329
 Board of Trustees. The UASF Board of Trustees	12558
+Board of Waqf Commissioners	14809
 Board-	7339
 Board--	14594
 Board-and-Receiver	9612
@@ -327,6 +332,7 @@ Board. Miscellaneous	12145
 Board. Powers	12535
 Board. Remuneration	14594
 Board. Remuneration of Board	14575
+Board. Responsibilities	14736
 Board. SECTION	12145
 Board. Separate	9613
 Board. State Board	11976
@@ -343,7 +349,7 @@ BoardUnless	14449
 Boarding	5399
 Boardroom	10010,2748,212,219
 Boardroom Mandate	3279
-Boards	3025,3921,2408,341,288,40,393,715,3,667,2886
+Boards	3025,3921,2408,341,288,40,393,715,3,667,2886,49
 Boards Support Bujagali Refinancing Package	11310
 Boards Waste	9123
 Boards and Authorities	13381
@@ -369,6 +375,7 @@ Body Board Charter	13490
 Body PUBLIC NOTICES On Boarding of Rental	14515
 Botswana. BoFiNet Board Chairman Molimisi Sechaba	5315
 Bulletin Board	13461,1
+Bulletin Board ESS External Sector Statistics	14777
 Bureau The Board	14410
 CA Board	6946
 CBE Board	11131
@@ -395,7 +402,10 @@ Centenary Group Board Chairman Prof. John	7875
 Centenary Group Board of Directors	3693
 Centenary Group's Chairman Board of Directors. Mr	3693
 Central Bank Board	11131,3
-Central Electricity Board	11332
+Central Electricity Board	11332,3413,20,42,12,9,2,1,12,4
+Central Electricity Board Act	14745,98
+Central Pensions Administration Board	14841
+Central Procurement Board	14745,21,81
 Central Procurement Board of Namibia	12951
 Central Rift Valley Water Services Board	14546
 Centre for Medical Mobilisation Board Data Controller	7167
@@ -404,6 +414,8 @@ Centre. Board	14575
 Chairmen of State Universal Education Boards	11860
 Chairperson Board of Trustees	6536
 Chairperson and Vice-Chairperson of Board	13470
+Chairperson of Board	14768
+Chairperson of Board The Chairperson	14768
 Chairperson of CRAN's Board of Directors	2588
 Chairperson. Our Board	12951
 Chiefs Palace ECZ Board Chairperson Professor	13477
@@ -411,6 +423,7 @@ Circular. The Board	4896
 Citizen Engagement Scoring Board	13646
 Citizenship Board of Zambia	13294
 Civil Service Board	12889
+Civil Service Family Protection Scheme Board	14847
 Co-CEO and Advisory Board Chairman	9346
 Co-CEO and Advisory Board Chairman of Moove	9098
 Coast Water Services Board	14546
@@ -420,7 +433,7 @@ Col. Yakubu Boateng Abdulai	6936
 Commission the Refugee Appeal Board	12145
 Commission’s Board and Management	9117
 Committee. Board Audit Committee	11131,3
-Committees of Board	3887,8643,5,364,440,32,99
+Committees of Board	3887,8643,5,364,440,32,99,1273
 Committees of Boards	3714
 Communal Land Boards	13024
 Communication Plan INTERNAL Board of Directors MPCC	11131
@@ -431,9 +444,11 @@ Company’s Board	3714
 Company’s Board of Directors	3714,8241
 Composition of Board	3746
 Conditions for Board Appointment	13470
+Conference Room Central Procurement Board	14766
 Conformity The Supervisory Board	11955
 Congratulations The Board of NamRA	13108
 Constitution of Board	12530,369
+Construction Industry Development Board	14742,105
 Consumer Tribunal NGB National Gambling Board	11198
 Convention. PART II Board for Persons	13470
 Copy of Board Resolution	11209
@@ -468,16 +483,19 @@ Description EBRD Board	1819
 Development Board	7631
 Development Dispute Resolution TOTAL Scheduled Board	1154
 Digital Coordination Board	12008
+Digital Infrastructure Index Economic Development Board	14819
 Digital Innovation Board	5697
 Digital Rights and Inclusion Board Learning Experience	7101
 Digital Technology and Innovations and Board Member	14086
 Director General of Rwanda Social Security Board	718
+Directors The Board of Directors	14744
 Dispute Resolution Board CBE	11134
 District Administrator's Boardroom	12739
 District Education Board Secretariats	13636
 District Education Board Secretaries	13477
 District Education Boards	13636
 District Education Boards Secretaries	13392
+Divisions The Board	14768
 Docia Agyemang Boakye	12161
 Dr. Boako	8545
 Dr. Gideon Boako	8545
@@ -486,6 +504,7 @@ Dr. Neville I. Curle Non-Executive Board	11131,3
 EBRD Board	1819
 ECZ Board Chairperson	13477
 ECZ Board Chairperson. Dr Chilala	13477
+EDB Economic Development Board EQF European	14747
 EDBM Economic Development Board of Madagascar	14437
 EEC Board and ESERA	12388
 EITI Board	12932,722
@@ -497,8 +516,8 @@ EXIM's Board of Directors	3626
 Econet Board	4896
 Econet InfraCo. The Board	4896
 Econet and Econet InfraCo Boards	4896
-Economic Development Board	7845,6422
-Economic Development Board Act	7845
+Economic Development Board	7845,6422,458,10,10,1,2,1,12,53,5,9,1,2,12,4
+Economic Development Board Act	7845,6868,60,55,3
 Economic Development Board Act Act	7845
 Economic Development Board of Madagascar	14421,18,18,119
 Economic Development Board of Madagascar Antananarivo	14457
@@ -546,7 +565,7 @@ European Data Protection Board Having	7081
 European Data Protection Board. Participants	9067
 Example A County Public Service Board	14524
 Exchange Point JTB Joint Tax Board	11857
-Executive Board	1830,5865,3661,1373,219,793,127
+Executive Board	1830,5865,3661,1373,219,793,127,909
 Executive Board Member and Head of Financial Services	9796
 Executive Board. Executive Board Assessment Djibouti	13868
 Executive Board. Place	11356
@@ -554,6 +573,7 @@ Executive Board. The Staff Report	13741
 Executive Boardroom	10120
 FACTSHEET Transaction Board	1818
 FOREWORD The Pharmacy and Poisons Board	9855
+FSC Board	14828
 Faso's Board of Directors	3891
 Fast Interceptor Boat Umbelozi	2667
 Females Board Composition Summary Gender Distribution	11131
@@ -565,7 +585,7 @@ Film and Publications Board R112	6152
 Film and Publications Board R112m	6151
 Financial Management Board	11525
 Financial Reporting Standards System. The Board	11955
-Financial Stability Board	4127,2259,552,4192,8,683,623,1478
+Financial Stability Board	4127,2259,552,4192,8,683,623,1478,922
 Financial Stability Board UNESWA Universal Service	12444
 First Let’s Talk About Boardroom Accountability	8629
 Following the HICA Board Meeting	10659
@@ -577,7 +597,7 @@ Freight On Board	13954
 Frequency Modulation FOB Free On Board	2775
 Full Board	6946
 Functions and Powers of Agency PART IV BOARD	12899
-Functions of Board	13305,34,32,99
+Functions of Board	13305,34,32,99,1249
 Funds of Board	13470
 GAMTEL's Board of Directors	4543
 GG Board	11155
@@ -587,6 +607,7 @@ GOVERNANCE Composition of Board of Trustees The Universal	12552
 GOVERNANCE Mr. Sikhumbuzo Fakudze Board Secretary	11131
 GOVERNANCE Our Board Providing	11131
 GPE Board	11352,553,2,9,1433
+Gambling Regulatory Board	14828
 Gavi’s Board	11401
 Ghana Cocoa Board Act	7695
 Ghana Gold Board	7695,6521
@@ -640,17 +661,19 @@ Industry Advisory Boards	14566
 Informed RDB Rwanda Development Board SDLC	12359
 Institutional Review Board	1219,1490,9537,133,921
 Institutional Review Boards	1212
+Integrity Reporting Board	14717
 Interceptor Boats	13744
 Interior Minister Muntaka Mohammed-Mubarak. Board Chairman	2829
 Interlocutory Order. No Quorate Board of Directors	1919
 International Accounting Standard Board	1154
 International Accounting Standard Board IFRS	11955
-International Accounting Standards Board	1154,1897,7742,1162,1098
+International Accounting Standards Board	1154,1897,7742,1162,1098,1683
 International Advisory Board	11006
 International Ethics Standard Board for Accountants’ Code	13053
 International Ethics Standards Board for Accountants	11955
 International Monetary Fund Executive Board	3583
-International Public Sector Accounting Standards Board	3051
+International Public Sector Accounting Board	14736
+International Public Sector Accounting Standards Board	3051,11685
 International Sustainability Standards Board	7845,2873
 Investigatory Powers of Board	7845
 JAMB Joint Admissions and Matriculations Board	11860
@@ -734,10 +757,13 @@ Management Board	6946,1305,3725
 Margaret Mwachiyeya Boarding Secondary School	13662
 Marketing Boards	2775
 Mathias Shimanga Chuunga District Education Board	13392
+Mauritius Other Objects Primary Object Board	14744
 Mediation and Arbitration Board	12597
+Medical Board	14843
+Medical Boards	14774
 Meetings Board	6946
 Meetings and Proceedings of Board	3887,8643
-Meetings of Board	3887,8648
+Meetings of Board	3887,8648,2184,24,25,56
 MeetingsThe Board	14449
 Member Mr. Mphiwa Dlamini Board Member	12969
 Member Mr. Sikhumbuzo G. Fakudze Board	11134
@@ -745,6 +771,7 @@ Member Ms. Odete Sons Non-Executive Board	11131
 Member. The Board	585
 Membership of Board	3887
 Membership of Board Subject	13287
+Mental Health Board	14773
 Meta Oversight Board	9642,2800
 Meta's Oversight Board	9156
 Minister and Board Chairperson	13053
@@ -785,8 +812,10 @@ National Board for Social Protection	14493
 National Board for Technical Education	8710,865,180
 National Board of Posts	13388
 National Building Review Board	10055
+National Computer Board	14723
 National Computer Board Act	14566
 National Computer Board Certificate Authority	1379
+National Computer Board THREATS	14729
 National Disability Affairs Board	13470
 National Economic and Social Development Board	5096
 National Education Advisory Board	13287
@@ -800,6 +829,7 @@ National Lotteries and Gaming Regulatory Board	9781
 National Marketing Board	12977
 National Quality Award Board	12500
 National Refugee Appeals Board	12910
+National Remuneration Board	14742,99
 National Science and Technology Advisory Board	13952
 National Statistical Offices. Download ZIMSTAT Board	13490
 National Tax Board’s ID Card	10714
@@ -831,12 +861,13 @@ PROJECT IMPLEMENTATION SCHEDULE FOR BOARD APPROVAL	13731
 PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863,2075
 PRS Secondary Education Management Board	11860
 PUBLIC PUBLIC Transaction BOARD DECISION SHEET	1818
+Parastatal Agricultural Marketing Board	14847
 Parliamentary Service Board	12955
 Passenger Boarding Bridges	5247
 Peri-Urban Development Board	12890
 Peri-Urban Development Board Ordinance	12890
 Perishable Products Export Control Board PPME	11197
-Pharmacy Board	14227
+Pharmacy Board	14227,515,6
 Pharmacy Board of Sierra Leone	14227
 Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317,558
 Planned Board Presentation	11863,2075,142
@@ -871,6 +902,7 @@ Public Accountants and Auditors Board	3051,10260
 Public Accountants’ and Auditors’ Board	12905
 Public Accounts Standards Board	10313
 Public Procurement Administrative Review Board	2512,9601
+Public Procurement Board	14841
 Public Procurement and Public Asset Disposal Board	12535
 Public Sector Accounting Standards Board	14546
 Public Sector Accounting Standards Board Reporting	14546
@@ -899,9 +931,11 @@ RURA's Regulatory Board	563
 Radio Regulations Board	6642
 Rates About US Our Board	9750,247
 Rationale for Revision The Pharmacy and Poisons Board	9855
+Redundancy Board	14742,105
 Refugee Appeal Board	11177
 Refugee Appeals Board	2106
 Region Water Board	12241
+Regional Health Advisory Boards	14829
 Regulations Board	11189
 Regulations The Board	14410
 Regulatory Board	718,496
@@ -909,6 +943,7 @@ Regulatory Board Timan Erdimi	6752
 Regulatory Board. The Corporate Governance and Human	718
 Regulatory Scrutiny Board	6477
 Regulatory Structure Board Members Management Departments	12515
+Removal and Transplant Board	14773
 Remuneration of Board	14422
 Repeals Kenya Nuclear Electricity Board Order	14422
 Report. The Board	11131,3
@@ -917,6 +952,7 @@ Representing President Joseph Nyuma Boakai Sr	10405
 Representing the NIRA Board Chairperson	9386
 Republic of Guinea H.E. Joseph Boakai	7452
 Research Council of Zimbabwe Board Committees	1154
+Responsible Gambling Board	14843
 Review Board	12054
 Review and Amend the Parliamentary Villages Management Board	11285
 Richard Boateng	226
@@ -966,19 +1002,26 @@ Staff Board	2727
 Staff Board Constituted	2727
 Staff Board. Staff Board	2727
 Staff The Board	14449
+Standards Bulletin Board ESS External Sector	14777
 State Board	11976
 State Primary Health Care Boards	12004
 State of Emergency Inquiry Board	13948
+Statistics Board	14719,15,33,61,3
 Statutory Board and Committee	1154
 Statutory Boards	11131,3
+Statutory Bodies Family Fund Protection Board	14746
+Statutory Bodies Family Protection Fund Board	14746
+Statutory Bodies Protection Fund Board	14738,8
 Sub-county ICT and Board	899
 Supervisory Board	11955
 Supervisory Board Dear Shareholders	11955
 Survey Regulations Board STATSSA Statistics South	11261
 Susan Mordaunt Board Member Ms. Phindile	12969
 System BOP Balance of Payments BORAQs Board	2775
+System CEB Central Electricity Board CNIS	14745
 System NRAB Namibia Refugee Appeal Board	12947
 TNM Board Chairman Ted Sauti-Phiri	12070
+TRADITIONAL MEDICINE BOARD	14773
 Tana Water Service Board	14546
 Tanathi Water Services Board	14546
 Taurai Maukira-led NetOne Board	8419
@@ -989,10 +1032,13 @@ Telecommunications Regulatory Board	2705,1857,596,2800,1556,2214
 Telecommunications Regulatory Board. Nuvaga	1696
 Tender Board Department Arrears	12976
 Tender Board of Namibia	12951
+Tobacco Board	14847
 Tobacco Industry and Marketing Board	3742
 Tobacco Research Board	13320
 Town Councils and Town Boards	12970
+Town and Country Planning Board	14738,8
 Trade and Industry NABII National Advisory Board	12376
+Traditional Medicine Board	14773
 Transaction. The Board of Directors of ZCCM-IH	13362
 UASF Board	12552
 UASF Board Charter	12552
@@ -1005,7 +1051,11 @@ UNDP Executive Board	11356
 UNDP Youth Sounding Board	11546
 UNOPS Executive Board. Next	11356
 URSB’s Board of Directors	2757
+Unified Local Governance Service Board	14746
+Unified Local Government Service Board	14738,8
+Unified Local Government Services Board	14738,8
 Unitary Board	11131
+United Local Government Statutory Board	14738
 Universal Basic Education Board EMIS Oﬃcer	11860
 University Funding Board	1838
 Us Leadership Governing Board Management Services	9109
@@ -1020,7 +1070,9 @@ Vuvulane Town Board	12977
 WB Board	1992,261
 WB Board Closing Date	14010
 WBG Board of Directors	4688
+Waqf Board	14841
 Warehouse Receipts Regulatory Board	12114
+Water Sector Wastewater Sector Board Mauritius	14745
 Windhoek. Board Chairperson Tulimevava Mufeti	6784
 Workers Compensation Fund Control Board	1988
 Workers' Compensation Fund Control Board	13465

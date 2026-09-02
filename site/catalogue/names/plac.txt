@@ -25,6 +25,7 @@ Eximbank. Place	10632
 First Place	7798
 Formato da Placa	11373
 Foster Care Placement Programme	12977
+GOVERNMENT CENTRE PLACE D’ ARMES	14778
 Grievance Submission Time and Place	14113
 Hambol. Placée	8694
 Hard Place	226
@@ -83,7 +84,7 @@ Place of Residence Urban Place of Residence Rural	10829
 Place of Usual Residence	13644
 Place-specific	3515
 Place. Rapport	13452
-Placed	1770,1784,228,2247,4216,732,1264,854
+Placed	1770,1784,228,2247,4216,732,1264,854,1720
 Placement	9123,1034,972,857,267,1528
 Placement Committee No. of Children	12977
 Placer	8891
@@ -94,12 +95,12 @@ Places of Care	12373
 Places of Care Ben	12373
 Placez	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 Placide Niyodusenga Over	14223
-Placing	7493,1112,518,2006
+Placing	7493,1112,518,2006,3617,26,64
 Placing Europe	4448
 Placing NIA	3493
 Plack	4984
 Placé	643,1808,1534,3664,2172,3704,1004,5,16
-Placée	2695,478,155,807,1356,501,157,10,501,180,61,1170,247,83,165,577,369,301,252,24,184,91,646,666,56,1533,533,111,336
+Placée	2695,478,155,807,1356,501,157,10,501,180,61,1170,247,83,165,577,369,301,252,24,184,91,646,666,56,1533,533,111,336,592
 Placées	10182
 Plateaux-Est. Placée	9898
 Poorest Place of Residence Urban Place of Residence	10829
@@ -123,5 +124,6 @@ TIME AND PLACE OF DISPATCH	28
 TYPES OF BUILDING Places	11129
 Tchad. Placée	11719
 Tonkpi. Placée	9717
+Training and Placement Scheme	14742
 VISITS TO PLACES OF DETENTION	13097
 Vulnerable Places	13003

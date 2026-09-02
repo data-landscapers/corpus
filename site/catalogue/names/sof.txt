@@ -14,7 +14,7 @@ Ana Sofia Martinez Cordova	10985
 Antivirus Software Black	34
 Appendix D Software Installation	34
 Application Developers and Independent Software Vendors	12359
-Application Software	13356
+Application Software	13356,1410
 Aquisição de Software de Apuramento	11561
 Authors Javaid Iqbal Sofi	5418
 Availability of Software and IT Staff	13042
@@ -30,6 +30,7 @@ Bruna Sofia Simoes	11867
 Bureau OSS Open-Source Software PDU Presidential	12241,839,15
 Business Software Alliance	7209
 CELLULAR SOFTWARES LIMITED Data Processor INST-419821277DB	7167
+CMS Software	14718
 CODESPRO SOFTWARE SOLUTIONS LIMITED Data Controller	7167
 CODESPRO SOFTWARE SOLUTIONS LIMITED Data Processor	7167
 COMMUNICATION TECHNOLOGY UNIT SOFTWARE INSTALLATION REQUEST	34
@@ -43,6 +44,7 @@ Civil Registration Management Software	7289
 Cloud Software Stack	11502
 CoE. Software	9237
 Communication Sofiane Hemissi	7769
+Communication and Innovation Soft	14791
 Community SDK Software Development Kit SIM	12663
 Contacto ECTS Engenharia de Software	12019
 Coquina Software Company Ltd	3862
@@ -77,6 +79,8 @@ Entertainment Advertising Information Services Software	1944
 Entreprise Software Solutions	2258
 Equipment Software	4972
 Equipment Software Life-Cycle Management of Data Centre	9123
+Equipment Vehicles Software Others	14830
+Equipment Vehicles Software Software Others Buildings	14830
 Eswatini Software Developers	12971
 Founder and CEO of Chronicles Software Development Company	7444
 Free Open Source Software ICT	13956
@@ -101,12 +105,14 @@ Hannah Sofia Guinto	11572
 Hardware and Software	11129,1196
 Hardware and Software Development	14148
 Health Information Software	11417
+Health Software Requirements Specification	14773
 Herman Chinnery-Hesse’s SOFTtribe	8025
 Hex-Tech Software Technologies CC	12478
 Hotel Sofitel Malabo	4209
 Hotel Sofitel Presidencial de Malabo Malabo	4209
 IEEE Software	5700
 IMDRF Software	8301
+INTANGIBLE FIXED ASSETS SOFTWARE COST	14736
 INTEGRATION AND SOFTWARE SUPPORT Data	2477
 IUNetworks LLC and Omni Software Ltd JV	3700
 Independent Software Inspectors UGO AMADI	8424
@@ -204,6 +210,7 @@ SOFP Included	4896
 SOFR Secured Overnight Financing Rate	8590
 SOFTECH LTD Data Controller INST-9063904932D	7167
 SOFTECH LTD Data Processor INST-9063904932D	7167
+SOFTWARE DEVELOPERS AND OTHER STAKEHOLDERS	14726
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES	34
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES Software	34
 SOFTWARE IN KENYA	11268
@@ -284,7 +291,7 @@ Softnet	2868,3151
 Softron Limited	3386
 Softtribe	236
 Softtribe Chief Executive Officer Francis Ayivi	236
-Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15
+Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15,42,6,7,13,17,11,53
 Software Applications	11349
 Software Architecture	13185
 Software Bill of Materials	6936
@@ -345,6 +352,7 @@ Software Testing Organisations Licensing Guideline Title	5665
 Software Testing Service	5665
 Software Testing Services	5665
 Software and Hardware	11863
+Software and Materials	14766
 Software and Web Development	8560
 Software as a service. Manuel	1984
 Software of Unknown Provenance	3651
@@ -359,8 +367,10 @@ Software2	10780
 Softwares	549
 Softwood	13385
 Specialist GSU01 Sofia De Abreu Ferreira	11525
+Standard and Custom Software	14766
 Statistical Analysis Software	8604
 Statistical Analysis Software UA	10874
+Super App Soft	14791
 System SOFF Systematic Observations Financing Facilities	11553
 Systems and Software	8605
 TB Capacity for M365 Backups Software Implementation	11209

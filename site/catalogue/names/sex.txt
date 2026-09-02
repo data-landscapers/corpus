@@ -39,16 +39,21 @@ CORPS ET FONCTION IV.1.1 Public Sexe	10847
 CORPS ET FONCTION IV.1.2 Privé Sexe	10847
 CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
 CORPS ET FONCTION IV.1.5 Rural Sexe	10847
+COVID-19. Sexual and Reproductive Health	14742
 Category and Sex	2775
 Category and Sex1	2775
 Catégorie Sexe Age Nombre	13390
 Catégorie Sexe Age PAR	13390
 Catégorie Sexe Homme Institutions	13390
+Child Sex Offender	14742
+Child Sex Offender CSP	14742
+Child Sex Offender Register Act	14742,9
 Child Sexual Abuse	11648
 Child Sexual Abuse Material Production	12459
 Child Sexual Exploitation	1597
 Class and Sex	2775
 Command Stations and Sex	2775
+Commercial Sexual Exploitation of Children	14742
 Comportamento Sexual	10777
 Comportamentos de Saúde Sexual	10777
 Comprehensive Sexual and Reproductive Health Services	13040
@@ -73,6 +78,8 @@ ET EXPLOITATION SEXUELLES ANNEXE-7. Fiche	14488,1,1
 ET EXPLOITATION SEXUELLES L’élaboration	14488
 Economia Sexta	11479
 Educação Sexta	11429
+Employed Both Sexes	14832
+Employment Both Sexes	14815
 Ensemble Sexe Masculin Féminin	13390
 Experiência de Violência Sexual	10777
 Exploitation Sexuelles	14488,1,1
@@ -93,10 +100,12 @@ General and Sex-Disaggregated Statistics	12389
 Ghana. Sex	582
 H Sexe	13442
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
+HIV and Sexually Transmitted Infections	14839
 Harcèlement Sexuelles MECIE	14488,1,1
 Health and Rights STD Sexually Transmitted Disease	970
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
+Inactive Population Both Sexes	14815
 Industry and Sex	2775
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
@@ -108,6 +117,7 @@ Kayanza Kirundo Makamba Muramvya Mwaro Sexe	13442
 LE SEXE ET L’ÂGE DE CHAQUE	13300
 LE SEXE POUR CHAQUE	13300
 La Sextorsion	9133
+Labour Force Both Sexes	14815,17
 Lagos State Domestic and Sexual Violence	2445
 Law Age Group Sex Rape House	12977
 Lilongwe Official Use Only Sexual	12253
@@ -125,7 +135,14 @@ Makamba Muramvya Sexe	13442
 Maladies Sexuellement Transmissibles	14488,1,1
 Maladies Sexuellement Transmissibles NA	13377
 Malawi. Int. Pers. Sexual and Reprod. Health	13040
+Male Female Both Sexes	14815
+Male Female Both Sexes Applied	14815
+Male Female Both Sexes Employer	14815
+Male Female Both Sexes Ever Married	14815
+Male Female Both Sexes Male Female	14815
+Male Female Both Sexes Primary	14815
 Male Female Both Sexes Rank Cause	12151
+Male Female Both Sexes Students	14815
 Marital Status and Sex	12151
 Mitigation Initiative STI Sexually	11549
 Mundo Sexta	11479
@@ -145,6 +162,7 @@ NOMBRE D'ANNEE D'EXPERIENCE IV.2.4 Rural Sexe	10847
 NUPTIALITÉ ET ACTIVITÉ SEXUELLE	13300
 National SEXE Classique Satellite Bilingue	10847
 National Sexe I.P. I.C. I.A.C	10847
+National Sexual and Reproductive Health Policy	14742
 Nationalité Sexe Age Niveau	13390
 Natureza Sexo Total Geral	11387
 Negociação de Relações Sexuais	10777
@@ -158,6 +176,7 @@ Online Child Sexual Exploitation and Abuse. UNICEF	7548
 Online Sexual Exploitation and Abuse	11791
 Online Sexual Offences	587
 Online Sexual Offences Non-consensual	587
+Outside Labour Force Both Sexes	14832
 PARTENAIRE SEXUELLE	13300
 PARTENAIRES SEXUELS MULTIPLES	13300
 PAS DE RAPPORTS SEXUELS	13300
@@ -168,6 +187,7 @@ Place of Occurrence and Sex of Decedent	12672
 Policy Framework SEA Sexual Exploitation and Abuse	1988
 Politics Spice Special Features Education Sex	9669,84
 Política Sexta	11479
+Population Both Sexes	14815
 Portal de Denúncias de Imagens de Abuso Sexual	10750
 Prevalência da Violência Sexual	10777
 Prevention of Sexual Exploitation	12729
@@ -202,6 +222,7 @@ SEXE ET NIVEAU III.5.2 Rural	10847
 SEXE ET NIVEAU III.5.3 Urbain	10847
 SEXE ET NIVEAU III.5.4 Public	10847
 SEXE ET NIVEAU III.5.5 Privé	10847
+SEXUAL AND REPRODUCTIVE HEALTH SERVICES	14773
 SEXUAL EXPLOITATION AND ABUSE STI SSBs	12253
 SEXUAL HARRASSMENT UPS VAC	12253
 SEXUALLY TRANSMITTED INFECTION WAN	12253
@@ -215,6 +236,7 @@ SH Sexual Exploitation and Abuse	1867,1737,7164,792
 SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132
 SH Sexual Harassment SME Small and Medium	1264
 SH Sexual Harassment STEP Systematic Tracking	10829
+Sale and Sexual Exploitation of Children	14742
 Satellite PMU and Contractor Sexual	1988
 Saúde Sexual	10777,2020
 Section Couture Menuiserie Soudure Total Sexe	13442
@@ -248,9 +270,11 @@ Sexe Numéro	13300
 Sexe du CM	737
 Sexe du CM Homme	737
 Sexe du CM Masculin	737
-Sexes	12413,242
+Sexes	12413,242,2160,17
 Sexes Country Of Birth N	12151
+Sexes Estimates Standard Error Coefficient	14832
 Sexes N	12151
+Sexes Primary	14815
 Sexo Fonte	11387
 Sexo Gráfico	11387
 Sexo Homens Mulheres Urbana Rural	11421
@@ -290,12 +314,14 @@ Sexual Reproductive Health and Rights	8604
 Sexual Violence	12939
 Sexual and Domestic Violence Act	12939
 Sexual and Gender-Based Violence	5244
-Sexual and Reproductive Health	9766,1010,3255
+Sexual and Reproductive Health	9766,1010,3255,711
 Sexual and Reproductive Health Rights	11791
 Sexual and Reproductive Health Services	12976
-Sexual and Reproductive Health and Rights	970,11636
+Sexual and Reproductive Health and Rights	970,11636,2136
+Sexual and Reproductive Healthcare	14742
+Sexuality	14835
 Sexually Transmitted Disease	14434
-Sexually Transmitted Infections	1988,10265,787
+Sexually Transmitted Infections	1988,10265,787,1702
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sexuelle	13300
@@ -324,11 +350,14 @@ Travelling Child Sex Offending	12459
 Type of Disability and Sex	2775
 Type of Offence and Sex	2775
 Types of Sex-disaggregated Data Available Online	12389
+Unemployed Both Sexes	14832
+Unemployment Both Sexes	14815
 Urbain Rural Ensemble Sexe du CM Masculin	737
 Urbain Sexe Masculin Féminin Total NYANZA	13390
 VIOLENCE SEXUELLE Violence	13300
 Violences Sexuelles	13442
 WhatsApp. The Domestic and Sexual Violence Case	2445
 Women's Experience of Physical and Sexual Violence	13454
+Year Male Female B. Sexes Female	14815
 Year of Study and Sex	2775
 ZERO RECORDS OF SEXUAL EXPLOITATION	10776

@@ -3,6 +3,7 @@ AI and Emerging Technologies IP AI	7548
 ANE IP	2989
 AU IPED Supports Burundi's Next Step	13629
 AU IPED Supports Burundi’s Next Step	13629
+Accounting Estimates and Errors IPSAS	14736
 Accruals IPSASs	3051
 Activity IPPF International Labour Organization ISR	10964
 Adams NewsAfrica Ip	10358
@@ -34,10 +35,12 @@ Bypass Global IPv4 Address Depletion Somalia	6622
 CNII IP	10721
 CSP CSP CSP IP	9123
 Camoes IP	4415,1,1,1
+Cash Flow Statement IPSAS	14736
 Chairperson of IPOA. Hon. Speaker	10313
 Chapter IPreliminary	13311
 Cloudflare-type IPs	14455
 Complete the IPv6	958
+Contingent Liabilities and Contingent Assets IPSAS	14736
 Conversor de IP	794
 Cooperation IFR Interim Financial Report IPF	1264
 Core IP Network	14010
@@ -46,6 +49,7 @@ Data Center and IP Multimedia Subsystem Center	3669
 Data and IP	1013
 Data and IP NAD	1944
 Data for NamPower and IPPs	12399
+Demonstrate IPM	14818
 Deploy IPsec VPNs	10721
 Description IP-transit	6943
 Determined Contribution IP Internet Protocol IPF	13331
@@ -53,6 +57,8 @@ Development Programme of Action IP Internet Protocol	12962
 Directors IoT Internet of Things IP Internet	6946
 Disbursement Guidelines for IPFs	3604
 Disbursement Guidelines for World Bank IPF Operations	10964
+Disclosures and Presentation IPSAS	14736
+Disclosures. IPSAS	14736
 DoE IPP Office	11953
 DoE IPP Office Renewable	11953
 DoH-pinned IP	7047
@@ -65,6 +71,7 @@ Electricité IPP	10975
 Emerging Technologies IP	7548
 Emerging Technologies IP AI	7548
 Emerging Technologies IP Technologies IP	7548
+Employee Benefits IPSAS	14736
 Endereço IP	15
 Endereços IP	15
 Energy Storage IPP	11228
@@ -75,6 +82,7 @@ EthSwitch IPS	12269
 Ethiopia's EthSwitch IPS	12269
 Europe IPE	643
 European IPO	8049
+Exchange Transactions IPSAS	14736
 Expanding IPPIS	11942
 Extractives IPF	11469
 FAO. IPC Global Partners	12978
@@ -83,8 +91,10 @@ FMI IPS	13468
 FSU-source IP-transit	6943
 Faso IPv6 Academy	7010
 Financial Buyers IPOs	4972
+Financial Instrument. IPSAS	14736
 Financial Report IP Indigenous Peoples IPF	10829
 Financial Reporting Standard IPPs Independent Power	12399
+Financial Statements IPSAS	14736
 Functionality The EthSwitch IPS	12269
 GBM IPS ISO MDS MED MSP	13452
 GHG HIPC IDP IEA IMF IPC	11136
@@ -114,6 +124,7 @@ INSP Institut National de Santé Publique IPG	13300
 INSP Institut National de Santé Publique IPU	13306
 INTIC IP ISR ITU M&E MDA	4653
 IOC Indian Ocean Dipole IP Internet	2775
+IOX Indian Ocean Xchange IPR Intellectual	14729
 IP Address Mapping	12041
 IP BTS	54
 IP Commercialization C1-Number	7548
@@ -168,6 +179,7 @@ IP-protection	8593
 IP-related	10041,3967
 IP-resource	9506
 IP-rights	4353
+IP-to-IP	14723
 IP-transit	1011,5932
 IP. Al-Hilal	10620
 IP. Choplife	9869
@@ -189,6 +201,7 @@ IPC and WASH	4202
 IPC-IG Research Brief No	417
 IPC-Joint IAEA Centre	12972
 IPC-de-l-annee-2025 a4245.html	8891
+IPCC Act	14742,97
 IPCC Sixth Assessment Report	13094
 IPCC Tier	11332
 IPCC for AI	5074
@@ -213,6 +226,9 @@ IPHD International Partnership for Human Development M&E	11525
 IPI Africa Programme Lead Nompilo Simanje	10533
 IPI. Sometimes	1261
 IPKII	4301
+IPLC Full Circuit	14723
+IPLC Half Circuit	14723
+IPM Certified	14818
 IPM System	11270
 IPMP Integrated Pest Management Plan LMP	1988
 IPMPs and Management of Pesticides	1988
@@ -240,7 +256,9 @@ IPP Independent Power Producer LAMC Liability	12233
 IPP Media	2947,6859
 IPP PV Projects	12399
 IPP The Government	12233
+IPP Toolkit	14745
 IPP. Pour	10975
+IPPAs	14742,77
 IPPC International Plant Protection Convention IRU	13042
 IPPF Indigenous Peoples Planning Framework	11390
 IPPIS	7973,3969,194
@@ -271,11 +289,12 @@ IPS-related	12269,1
 IPS. FCFA	2342
 IPS. Regulation Key	12490
 IPS. SIMOrede	12270
-IPSAS	1554,1497,3895,2058,249,1722,2445,448,678
+IPSAS	1554,1497,3895,2058,249,1722,2445,448,678,190,12,29
 IPSAS Accrual Basis	6422
 IPSAS IMPLEMENTATION MATRIX AND ACTION PLANS	13420
-IPSASB	3051
-IPSASs	3051
+IPSAS International Public Sector Accounting Standards	14828,3
+IPSASB	3051,11685
+IPSASs	3051,11685
 IPSCSS	18
 IPSS. Ceci	14624
 IPSec	13185
@@ -293,6 +312,8 @@ IPs. AI Civil	4126
 IPs. In the RoC	11905
 IPsec	10721
 IPv4 Prefix	12743
+IPv4 RS1	14827
+IPv4 Route Server	14827
 IPv4 and IPv6	3503,5993
 IPv4-IPv6	2405
 IPv4. Elle	7010
@@ -311,6 +332,8 @@ IPv6 Internet Protocol	6946
 IPv6 Libyan Indian	5592
 IPv6 Protocol	5904
 IPv6 Protocol Advertisement Reach	5904
+IPv6 RS1	14827
+IPv6 Route Server	14827
 IPv6 and ASN	9506
 IPv6-capable	6946
 IPv6-only	11797
@@ -323,10 +346,12 @@ IPv6. The Chairman	5904
 IPv6. Under	1702
 IPv67	961
 ISP Internet Service Provider IPP Independent	3184,1,1340,6470
+Impairment of Cash-Generating Assets IPSAS	14736
 Imports Eskom1 IPPs1 Imports Exports	11953
 Imposto Industrial IP	11435
 Improved Child Survival Program for IPF Human	11469
 Improved IPC	10776
+Inadequate IPR	14729
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
 Indigenous Peoples Policy Framework IPPF	11924
 Infl. IPC	7655
@@ -387,6 +412,7 @@ MW for IPPs	12399
 Majesties. Iphalamende	12955
 Manage IPR Electronically	12389
 Marketing Transport IPF	11469
+MauCAS and IPS	14819
 Mbps of IP-internet	13314
 Medium Enterprise HFO HHI IK IPP	12256
 Middle East. IPT	344
@@ -399,6 +425,8 @@ Mutuários IPF	10769
 N IPS.Tender	5864
 Nasdaq. IPOs	13279
 National IPC Program	4202
+National IPM Coordination Committee	14818
+National IPM Programme	14818
 National IPv6 Center	6622
 National IPv6 Center. Located	6622
 National Registration Information System IPF Investment	1867
@@ -419,9 +447,12 @@ PIIs. The EthSwitch IPS	12269
 PR-AU IPED Supports Burundi Next Step	13629
 PSP API. The IPS	12269,1
 PV IPP	13054
+Plant and Equipment IPSAS	14736
 Plateforme de Téléphonie IP	9049
 Poids des IPP	10975
 Port IPMI Communication	9475
+Presentation IPSAS	14736
+Presentation of Financial Statements IPSAS	14736
 Principal of IPRC Karongi	718
 Prix IPv6 Activé	7010
 Procure IPP	12399
@@ -442,10 +473,14 @@ R4.1. IPC	14020
 R644m for IP	5323
 RIMATEL-SA's IPv6	1702
 Rapports IPC	13325
+Recognition and Measurement IPSAS	14736
 Regional IPS	5237
 Regional Plant Protection Officer IPPC	12972
 Registo de Detalhe de IP	4274
+Related Party Disclosures IPSAS	14736
+Remeasurement- Pension Obligation IPSAS	14736
 Report IPF General Inspectorate of Finance	3604
+Reporting Date IPSAS	14736
 Reporting Standard IPAS Industrial Property Automation	11250
 Research Council IPM&E Institutional Performance Monitoring	11224
 Resilience and IPF	11469

@@ -25,6 +25,7 @@ AUTRE UN CODE	13300
 AVOIR LISTÉ LES VOIR CODES SI	13300
 Abort Reason Code	12484
 Access Code	4866
+Act and Code of Practice	14818
 Action IV.2.1 Codifier	13306
 Advertising Code	12161
 Africa. CODESRIA	9739
@@ -38,6 +39,7 @@ Amendment of Tax Procedures Code Act	14484
 American Standard Code for Information Interchange	1984
 Angola. While the Code	10765,10
 Angolan Criminal Code	3722
+Any Code of Practice	14727
 Appeals. PART VIII CODE OF CONDUCT	13319
 Applicant Code	12367
 Application of Code of Practice	14594
@@ -132,7 +134,7 @@ CODEKX LABS LIMITED Data Controller INST-603122557BC	7167
 CODEKX LABS LIMITED Data Processor INST-603122557BC	7167
 CODEM FINANCE S.A	13390
 CODEM FINANCE S.A Hauge Family Microfinance	13390
-CODES	13300
+CODES	13300,1477
 CODES ALLEZ	13300
 CODES LANGUES	13300
 CODES POUR Q	13300
@@ -166,7 +168,7 @@ Chief Code	13239
 Chief Codes	13239
 Chief Codes. Dlamini	13239
 Chipboard Price Code	13385
-Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667
+Civil Code	27,1833,10286,15,32,8,25,68,1691,23,667,68,35
 Civil Code. MINALOC	12413
 Civil Procedural Code	12161
 Civil Processual Code	12201
@@ -192,7 +194,10 @@ Code Aster Impact Z88	9475
 Code Barre	13375
 Code CAD	13325
 Code CPV	8643
-Code Civil Mauricien	7845
+Code Civil	14778
+Code Civil Mauricien	7845,6868,1,1,13,7,7,26,56,19
+Code Civil Mauricien. Acts	14728
+Code Civil Mauricien. The Data Protection	14812
 Code Codification	7966
 Code Coverage Requirements	11952
 Code Descri	11180
@@ -240,12 +245,14 @@ Code Structure Overview	5665
 Code System Countries	6666
 Code Systems	6666
 Code Systems Terminology	6666
+Code Throughout	14736
 Code Yo Maali Yo	9223
 Code and Continuity	12131
-Code de Commerce	13828
+Code de Commerce	13828,889
 Code de Conduite	14431,57,1,1
 Code de Douanes	4567
 Code de Déontologie	14537
+Code de Procédure Civile	14728
 Code de Procédure Pénale	13330,4
 Code de Protection Sociale	14418
 Code de Transparence	10981
@@ -277,19 +284,25 @@ Code for Africa’s DataLab	6055
 Code for South Africa	961
 Code of Best Practice	13053
 Code of Code of Conduct for PIU SPMU	1988
-Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23,43,53,1003,932,347
+Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23,43,53,1003,932,347,1212,9,75
+Code of Conduct for Council Members	14736
+Code of Conduct for Council Members. The Mauritius	14736
 Code of Conduct for Data Protection Compliance Organisations	11956
 Code of Conduct for Responsible Fisheries	14447
 Code of Conduct for Supplier's Personnel	13185
 Code of Conduct for Workers	1988
 Code of Conduct. Sensitize	12253
+Code of Corporate Governance	14736
 Code of Corporate Governance for Issuers of Securities	7204
 Code of Criminal Procedure	11900,1413
 Code of Criminal Procedure. Under	13313
 Code of Eritrea	13985
-Code of Ethics	11131,3,821,545,2046
+Code of Ethics	11131,3,821,545,2046,190,2
+Code of Ethics and Standard of Business Practice	14736
+Code of Ethics and Standards of Business	14736
 Code of Ethics for Accountants and Auditors	11955
 Code of Ethics for Print	10735,2132,1,1
+Code of Ethics for Public Officers	14835
 Code of GBV	1988
 Code of Good Governance	13868
 Code of Good Practice	5533,6453,909
@@ -298,11 +311,11 @@ Code of Governance for Corporations Act	6946
 Code of Internet Practice	6748
 Code of Penal Procedures of Burundi	13313
 Code of Persons and Family	10812
-Code of Practice	8529,1,1078,313,2754,224,3,1692
+Code of Practice	8529,1,1078,313,2754,224,3,1692,133
 Code of Practice MS	12253
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
-Code of Practice for Official Statistics	13993
+Code of Practice for Official Statistics	13993,726
 Code of Public Procurement	11525
 Code of USAC Committee Meetings Ethics and Conduct	6946
 Code the Future	3527,26
@@ -316,6 +329,7 @@ Code. Although the Authority	6946
 Code. Article	4420
 Code. Désormais	3267
 Code. Second	13963
+Code. The MPC	14744
 Code.ai	3527
 CodeForAfrica	6055
 CodeGrogu	12478
@@ -330,11 +344,12 @@ Coder	12478
 Coders Eswatini	4866,2821,4776,660
 Coders and AI Practioners	4866
 CodersEswatini	11667
-Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161
+Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55,1416,681,740,416,1,1,161,76
 Codes Add	8603
 Codes MFP Mutuelle	13306
 Codes NSPC National Signalling Point Codes	6946
 Codes Spotlight	13095
+Codes and Guidelines	14727
 Codes and Others Schedule of Penalties Schedule of Fees	9109
 Codes and Standards	12972
 Codes for Representation of Names of Countries	11179
@@ -342,7 +357,8 @@ Codes of Conduct	961,916,10376,1139
 Codes of Conduct This Appendix	12253
 Codes of Conduct for Responsible Use	6432
 Codes of Conduct. PART VIII MISCELLANEOUS PROVISIONS	12929
-Codes of Practice	8692
+Codes of Practice	8692,6035
+Codes of Practice and Guidelines	14727
 Codevelop Fund	12366
 Codevelop and AFR	8449
 Codex	5967,531,5071,1751
@@ -362,7 +378,7 @@ Codified Exit Protocols	5141
 Codifies	4366
 Codify	11136,13
 Codifying	3503
-Coding	1261,6017,511,1,497,318,286,3199,2576
+Coding	1261,6017,511,1,497,318,286,3199,2576,84
 Coding Academy	8016,4066
 Coding Academy’s Project-Based Learning	8839
 Coding Camp	2816,10279
@@ -400,10 +416,13 @@ Contractor's ESMP and Code of Conduct	14010
 Contractors Code of Conduct	12253
 Control and Prevention CoD Cause of Death CRDP	12151
 Copyright Code	11550
-Corporate Governance Code	12376
+Corporate Governance Code	12376,2360
+Corporate Governance Code for Mauritius	14736
 Corporate Income Tax Code	11955
+Council. Code of Ethics The Mauritius Standards	14736
 Country Code	12364,13
-Criminal Code	27,931,14,10881,11,297,71,1087,189
+Criminal Code	27,931,14,10881,11,297,71,1087,189,1206,1,27,9,88
+Criminal Code Act of Mauritius. Section	14742
 Criminal Code. Main	12232
 Criminal Law Code	972,8279,4060
 Criminal Law Codification and Reform Amendment Act	6951
@@ -445,6 +464,7 @@ Digital Foundations Project. Contractors Codes of Conduct	12253
 Digitally Signed Biometric QR Code	13095
 Digitally Signed QR Code	12291,789,15
 Digitally Signed QR Code IDs and Birth	12241
+Discipline Code	14760
 Disinformation Code	6907
 Djibouti Code Campus Association	5720
 Djibouti Code Campus Association and Association	5720
@@ -474,6 +494,7 @@ EPLF Civil Code	13979
 ET FILTRES CODES ALLEZ	13300
 ET FILTRES CODES PASSER	13300
 EU Code of Practice	11050
+EU and Codex Alimentarius	14818
 EU's AI Code of Practice	8348
 Earthworks Price Code	13385
 Electoral Code	6122,6079
@@ -505,6 +526,7 @@ FILTRES CODES	13300
 FILTRES CODES ALLEZ	13300
 FILTRES CODES PASSER	13300
 FIRST-ROUND CODING	8605
+FOLLOWING CUSTOMS PROCEDURE CODES	14816
 FRANÇAIS NO. QUESTIONS ET FILTRES CODES	13300
 FY2025 Code	1913,177,3169
 FY2026 Code	3756,785
@@ -514,6 +536,7 @@ Family Code	10765,10,39
 Feldspar of HS Code	6921
 Finalize TORs for Coding Camp for Girls Finalize	2989
 Forestry Code	10841
+French Civil Code	14761
 GAUCHE DU CODE	13300
 GDP Weaknesses Rank Code	11884
 GE CODE	13300
@@ -531,6 +554,7 @@ GitHub Copilot and Claude Code	10534
 GitHub Copilot and VS Code. All	6498
 Global Code Indicator	12355
 Government AI Adoption Code	7548
+Green Building Code. Tourism	14829
 Green Coding	11687
 Grid Code	13054
 Guidance for Design Price Code	13385
@@ -539,6 +563,9 @@ Guidelines and Code of Technology	7548
 Guinea-Bissau Copyright Code	11550
 H-index Weaknesses Rank Code	12205
 H.S Code	6921
+H.S. Code	14843
+H.S. Codes	14843
+H.S. Codes Refrigerator	14814
 HF CPE-COD-ENV- Conforme CODAN	998
 HIT Can Code	13688
 HS Code	6921
@@ -549,10 +576,12 @@ HTTP CODE	12478
 Harmonised Commodity Description and Coding System	11258
 Harmonised Commodity Description and Coding System IMF	11258
 Heading H.S Code No. Description Unit	6921
+Heading H.S. Code Excisable Goods Statistical	14843
 Heading HS Code	6921
 Heading HS Code No. Description Unit	6921
 Health Safety Code	9855
 High Court. Codes	3887
+Higher Education Quality Code for Mauritius	14747
 Highway Code	10775
 Hs Code	6921
 Hyperinflation CODM EBITDA	10793
@@ -640,6 +669,9 @@ Malawi and Zambia Penal Codes	13040
 Malawi’s Penal Code	13040
 Management System QR Code Quick Response	9855
 Manufacturing Price Code	13385
+Mauritius Quality Code	14747
+Mauritius Quality Code for Higher Education	14747
+Mauritius Quality Code for Higher Education MRAs	14747
 Media Council Code of Media Practice	12100
 Million Coders	4766,4001,1483
 Million Coders Initiative	8113,5308
@@ -650,6 +682,7 @@ Minig Code	2889
 Mining Code	2889,10735
 Mining Code. Delivery	2889
 Ministry of Digital Economy and Innovation. The Code	3153
+Ministry’s Code of Ethics	14777
 Mireille Hortense Codjovi	8196
 Mirrors Price Code	13385
 MoMo Code	9223
@@ -668,6 +701,7 @@ N CODE APPROPRIÉ ENQUÊTÉ A REFUSÉ	13300
 N CODE APPROPRIÉ ENQUÊTÉ MINEUR ENQUÊTÉ	13300
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NAMQR Code and Open Banking Standards	13076
+NATIONAL CODE OF CORPORATE GOVERNANCE	14736
 NITDA Code of Practice	5215
 NIVEAU D'HÉMOGLOBINE SEUL CODE Y SEUL	13300
 NO. QUESTIONS ET FILTRES CODES ALLEZ	13300
@@ -676,7 +710,8 @@ Namibian Postal Code	13081
 National AI Code of Ethics	11135
 National Building Codes	1988,9869
 National Building Regulations and Codes	13060
-National Code of Corporate Governance for Mauritius	8866
+National Code of Corporate Governance for Mauritius	8866,5870
+National Code of Corporate Governance. The MSB	14736
 National Expected Registered Completeness Code	12151
 National Signalling Point Codes	6946
 National Unique Code	10765,10
@@ -692,6 +727,8 @@ News Media Bargaining Code	7613
 Nigeria Code Indicator	11884
 Number Portability Routing Codes	6946
 OU UN OU UN PLUS CODE	13300
+Observance of Standards and Codes	14734,43
+Observance of Standards and Codes SDDS Special Data	14777
 Official Use Only Workers' Code of Conduct	12253
 Open Code	12246
 OpenAI. Codex	5967
@@ -725,6 +762,7 @@ Postal Codes	13081
 Postal Codes Postal Codes Update	13081
 Postal Codes. Download Postal Codes	13081
 Poste Code	13390
+Preamble The National Code of Corporate Governance	14736
 Press Code	13461
 Press Code of Ethics and Conduct	8917
 Previous AI Coding Tools Promise Speed	3279
@@ -745,7 +783,7 @@ Public Procurement Code. Single Investment Window	11939
 Publicity Code	12294
 Purpose and Scope This Code of Conduct	6432
 QR CODE	13123
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318,1871,47,461,809,27,131,261,3
 QR Code GIMACPAY	4208
 QR Code Security	10823
 QR Code VDS	2465
@@ -771,6 +809,7 @@ RTGS Transaction Type Codes TTC Priority	12364
 RTSR The Consumer Code	11993
 Rank Code Indicator	10969,916,602
 Rank Code Labor	12351
+Recommended International Code of Practice	14736
 References the Digital Code	5094
 Reform of Its Electricity Grid Code	11936
 Regarding the Internet Code of Practice	3945
@@ -802,6 +841,7 @@ Références Juridiques Contenu Code des Marchés Publics	10876
 Révision du Code	13334
 Révision du Code Pénal	2625,10705
 Révision du Code Pénal Yihweje Ibwirizwa	13323
+SADC and Codex Alimentarius	14818
 SECOND-ROUND CODING	8605
 SECTOR CODE	11235
 SI PLUS D'UN CODE MÉTHODE ENCERCLÉ	13300
@@ -816,6 +856,7 @@ Search Code	13333
 Search Code Payment Identification Number	13333
 Secondary Ret Code	11180
 Section S du Code	4567
+Security Code and Email Address Step	14784
 Sewers Price Code	13385
 Sickles Price Code	13385
 Signaling Point Codes IT Information Technology	6946
@@ -865,6 +906,7 @@ TechCabal Codar	7395
 Technical Model For Post Codes	13298
 Telecommunications Code	13920
 Testing Code	11952
+Time Security Code	14784
 Title Chapter Extent of Repeal Criminal Code	11857
 Title VI of Penal Code Act No	13331
 Tone Code	736

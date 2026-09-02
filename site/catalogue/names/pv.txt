@@ -1,6 +1,10 @@
 Alternative Energy Trained Solar PV System	12515
 Batterie PV	14479
 Bureau PV Sensibilisation	14488,1,1
+CEB Solar PV Scheme for Charging of Electric	14745
+CEB Solar PV Scheme for Corporate Entities	14745
+CEB Solar PV Scheme for Domestic Customers	14745,62
+CEB Solar PV Scheme for Educational Institutions	14745
 CMED Pvt Ltd	13420
 CMIL. Les PV	14537
 Chaque PV	14537
@@ -13,11 +17,14 @@ Econet Wireless Mbizo Land Kwekwe Pvt	4896
 Econet Wireless Pvt Ltd	4896
 Entreprise PV	14488,1
 FTD Infocom Pvt Limited	14388
+Floating Solar PV System	14830
 Fund Mugabe Way Wireless Pvt Ltd	4896
 GW PV	11228
 Gas Hydro Wind Solar PV Sources	11953
 Glaciem Pvt Ld	13562
 Harare Wireless Pvt Ltd	4896
+Henrietta Solar PV Farm Waiver	14745
+Household Rooftop Solar PV Scheme. C	14829
 Hydro PS CSP Wind Solar PV	11953
 IHS Fund II SA PVE	90
 IPP PV Projects	12399
@@ -30,6 +37,7 @@ Les PV	10876
 MW PV	10180,3615
 MW Salima Nanjoka Solar PV	13060
 MW Salima Solar PV	13060
+MW Solar PV Farm	14745
 MW Solar PV Mini-grid	14080
 MW Solar PV Power Plants	13123
 MW Solar PV US	12399
@@ -96,7 +104,7 @@ Réouverture de BRAFASO PV	3396
 Safaris Pvt Ltd Revenue	4896
 Sc6nario Optimiste Pro.iet PV	14479
 Selected PVC	1988
-Solar PV	408,10820,725,303,5,97
+Solar PV	408,10820,725,303,5,97,2471
 Solar PV Bioma	12256
 Solar PV CSP Pump DSR System	11953
 Solar PV Concentrated Solar Power	11953
@@ -134,6 +142,7 @@ Solar PV Wind CSP	11953
 Solar PV and BESS Project	3688
 Solar PV and Energy Audit Licensing	12256
 Solar PV and Wind	12399
+Solar PV. Further	14736
 Supply Sources Solar PV Wind CSP	11953
 Sur le PV	13375
 Tanzania. Solar PV	12256

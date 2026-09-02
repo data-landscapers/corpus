@@ -48,7 +48,7 @@ Citing the State of Inclusive Instant Payment Systems	4282
 Communication Services. InstaDeep’s US	4972
 Communication Towers Installed	13479
 Construction and Installation Phase	12253
-Court of First Instance	5902,5060,17
+Court of First Instance	5902,5060,17,3763,105
 Court of First Instance Yaoundé	10979
 Court of First Instance.13	10979
 Courts of First Instance	10979
@@ -169,11 +169,12 @@ Instalação de Infra-estruturas	11520
 Instalação de Sistema de Videovigilância	539
 Instalações	4274,3066,4027,54,20,136
 Instalações de Controlo	6970
-Install	1988,1795,91,1209,1763,2277,1598,832,310,390,146,301,63,242
+Install	1988,1795,91,1209,1763,2277,1598,832,310,390,146,301,63,242,1813
 Installability	5665
 Installateur	13809
-Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41,318,11,234,223,127,2,90,151,338,530,65,1,1,8
-Installation Certificate	13185
+Installation	11,23,684,18,1149,103,354,995,200,325,1093,1004,987,1005,36,1,903,232,545,1094,213,154,80,565,132,80,247,3,17,105,41,318,11,234,223,127,2,90,151,338,530,65,1,1,8,240,23,2,3,7,10
+Installation Certificate	13185,1622
+Installation Configuration and Commissioning	14802
 Installation Environmental Impacts	12253
 Installation and CA	6946
 Installation and Commissioning	12253
@@ -226,7 +227,7 @@ Instance. Elle	436
 Instances	10874,2877
 Instancia Fotógrafo	4209
 Instancia Secretario Juzgado Comarcal	4209
-Instant	999,1359,1564,1202,296,1038,814,434,57,1273,1270,1634,60,287,72,717,1113
+Instant	999,1359,1564,1202,296,1038,814,434,57,1273,1270,1634,60,287,72,717,1113,601,29
 Instant Articles	13461
 Instant Bank Transfer	3035
 Instant Birth Registration When Vitumbiko	13095
@@ -240,7 +241,7 @@ Instant Payment Platform	12477
 Instant Payment Programme	8251,4228,713,2
 Instant Payment Solution	5254,7146,77
 Instant Payment Switch	6355
-Instant Payment System	1995,1445,551,207,1060,148,409,950,5506,21,914,246
+Instant Payment System	1995,1445,551,207,1060,148,409,950,5506,21,914,246,1292,75
 Instant Payment Systems	5124,8082
 Instant Payments	3180,1944
 Instant Payments Module	11131
@@ -294,6 +295,7 @@ Malawi. With the Instant Bank Transfer	3035
 Mali's INSTAT	11186,1,7
 Manager Installed	1988
 Manual de Instalação	12021
+MauCAS Instant Payment Switch	14744
 Microdonnées INSTAT Madagascar Bienvenue	9481
 Monitoring System Installation of Agents for Backup-System	9123
 Morgan Stanley Instarc	14700
@@ -410,6 +412,7 @@ Subsistema de Transferências Instantâneas	11465
 Supply UPS Batteries Installed	12850
 Supply and Installation	7951
 Supply and Installation Activities	13185
+Supply and Installation Cost Sub-Table	14766
 Supply and Installation of Datacenter Infrastructure	10839
 Supply and Installation of Wireless Infrastructure Solution	7951
 Système de Paiement Instantané	7621,5831

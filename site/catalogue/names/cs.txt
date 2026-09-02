@@ -19,6 +19,7 @@ B Y O D CSP CSP	9123
 BNC CAAZ CSIC FAHRC FRC GEII	1554
 BRB.17 The Bi-Switch and CSD	13388
 Bureau CSOs Civil	11994
+Business CSO DTB DTSO METC MDPA	14752
 CBDC CCBG CFT CMA CPI CSI	11131
 CDC CNBS COVID CPN CSPro DAM	10777
 CDMT CGP CR CRVS CSB CTD	14425
@@ -41,6 +42,7 @@ CS Duale	3400,8914,1868
 CS Duale Leads Consultative Forum	12314
 CS ISP	718
 CS Joe	899
+CS KOR.pdf	14723
 CS Kabogo	5944,216
 CS Kabogo Unveils AI Platform	11828
 CS Lydia Sitienei	6946
@@ -146,6 +148,7 @@ CSD SYSTEM Designation Comment Signature Date	12364
 CSD SYSTEM Participant	12364
 CSD Service Desk Received	12364
 CSD Service Desk for Collection	12364
+CSD System	14755
 CSD Tax Compliance Status and Registration Requirements	11240
 CSD Transfer Default TTC	12364
 CSD User	12364
@@ -167,6 +170,8 @@ CSESI	12504
 CSF CIES	13143
 CSF Community Safety Forum CSIR Council	11188
 CSF Cybersecurity Framework	6936
+CSG Income Allowance	14782
+CSG Retirement Benefit	14828
 CSHUB-CSIRT	8897
 CSI CSOC DPF DTX ECGS EGFT	11134
 CSI Coefficient Standard Error Z P	12978
@@ -226,6 +231,10 @@ CSIS Africa Program	7588
 CSIS. Artyushina	1243
 CSJ Constitucional	4209
 CSJ Fiscal Tribunal Fiscal Tribunal	4209
+CSK Commissioner Higher Education Commission	14775,37
+CSK Commissioner Higher Education Commission Disclaimer	14812
+CSK Deputy Clerk Gopall	14753
+CSK Gopall	14841
 CSL SERVICES LIMITED Data Controller INST-876567B49C0	7167
 CSL SERVICES LIMITED Data Processor INST-876567B49C0	7167
 CSL Stockbrokers Limited	7446
@@ -315,6 +324,7 @@ CSPs and SIs	11995
 CSPs and Service Integrators	11995
 CSPs. Compatibility	11995
 CSP’s MICDE	6432
+CSR Fund	14843
 CSR Initiatives MRA	13053
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CSS and JavaScript	13356
@@ -327,9 +337,13 @@ CSTHCN	3831
 CSTIC	13482
 CSTai	10975
 CSU CUCI DRC DRF DRM EM-DAT	10763
+CSU Platform	14745
+CSU Portal	14745
+CSU Portal. Madam Speaker	14753
 CSU and Kwenda	10768
 CSU. Através	14191
 CSV UTF-8	747
+CSV and XML	14790
 CSV-load	103,3,85,1,36,1,9,62,3,13,1,2,101,1,56,21,53,2,27,1
 CSV. Crosswalk	4466
 CSV. Exce	3972
@@ -357,6 +371,7 @@ Catégorie Socio Professionnelle CSLP	737
 Centres for Disease Control CSIR Council for Scientific	396
 Chefe da Repartição Fiscal CSA	11435
 Chefe da Secção Administrativa CSCARP	11435
+Child Sex Offender CSP	14742
 Citizen and CSOs	12333
 Civil Service Commission CSIRT Computer Security	12917
 Civil Society CSA	6936
@@ -395,8 +410,10 @@ DPC. CSA	6936
 DPs and CSOs. Grant Agent World Bank	11916
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
+Departments and Parastatal Bodies. The CSU	14753
 Diesel CSP Biomass Biogas BESS	11236
 Disabilities CSCS Superior Council of Social Communication	12201
+Disabilities CSO	14742
 Disabilities CSO Central Statistical Office CSTL	12975
 Djibouti CSP	13938
 Dotations CSB	14568
@@ -429,10 +446,12 @@ Evidence of CSIRT	10721
 Expert CSIRTs	5241
 FINALISED ANNUAL REPORT CSD.pdf	1377
 Family CR Civil Registration CSPS Local	10812
+Financing CSR Corporate Social Responsibility FIAMLA	14828,3
 Foreign CSPs	11995
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Functions The CSIRT	12674
 Fund CSC Civil Service Commission DREAMS	12970
+Further CSR	14723
 GCSPS Entities CAC Entities and CSPs	6432
 GIEC CSA	6936
 GM- CSIRT	1000
@@ -490,6 +509,7 @@ Kenya Treasury CS John Mbadi and China	2160
 Kicukiro CSOs and NGOs BCs	12328
 Kwok CS	10780
 L'atelier du CSC	10546
+L. CSR Fund	14717
 LA CSBF SECTION PREMIER Des	14417
 La CSBF	14417,12
 La CSCP	10876
@@ -509,6 +529,7 @@ Ministro Secretario Mesa Magistrado CSJ	4209
 MoCDTI CSA	6936
 Mobile CSC	11188
 Mobilize CSOs	11866
+Monthly CSG	14782
 NAM- CSIRT	12459
 NATO North Atlantic Treaty Organization CSA	6936
 NC4 CSPs KoTDA MCDAs NC4	6432
@@ -554,6 +575,7 @@ Police Forum CSC Community Service Centre	11188
 Policy. CSRI	6946
 Population and Development CPs Country Programmes CSO	12962
 Preferential Procurement CSI Corporate Social Investment	11193
+Prime Minister’s Office. The CSP	14742
 Program Supporting Digital CSIs	3604
 Promoting CSA	970
 Promotion Social CSP	737

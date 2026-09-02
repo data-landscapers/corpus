@@ -45,12 +45,14 @@ ANNEE Accident	13390
 ANNEE Charge	13390
 ANNEE Chiffre	13390
 ANNEES PIB1 Valeur Télécoms Courant2 Valeur	13324
-ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61,135,172,20,28,196,37,107,1,24,11,295,50,19,41,230,6,101,31,330,239,133,296,1,606,27,166,393
+ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61,135,172,20,28,196,37,107,1,24,11,295,50,19,41,230,6,101,31,330,239,133,296,1,606,27,166,393,222,34,45,3,3
 ANNEX AGREED FINANCIAL TERMS	14135
 ANNEX Annex	10980,1353
 ANNEX B	3861,3337,6767
 ANNEX C	3861,3337,6767
 ANNEX COUNTRY	4653
+ANNEX Concepts Definitions	14836
+ANNEX Cont'd	14836
 ANNEX D	3861,3337,6767
 ANNEX EAR NOSE AND THROAT CENTRE	7167
 ANNEX F	3861,10104
@@ -77,6 +79,7 @@ ANNEX IV	7548,6390
 ANNEX IV MAXIMIZING SOCIO-ECONOMIC BENEFITS	12399
 ANNEX IV. ONGOING PROJECTS FINANCED	12680
 ANNEX IX	13938
+ANNEX List	14815
 ANNEX NO	12675
 ANNEX Table	10840
 ANNEX V	7548,6390
@@ -86,6 +89,7 @@ ANNEX VII	13938
 ANNEX VIII	13938
 ANNEX X	13938
 ANNEX XI	13938
+ANNEX. E. FRAMEWORK WITHIN WHICH HUMAN	14742
 ANNEXE	998,207,871,2383,800,102,2109,185,3166,15,2454,51,34,93,56,901,54,9,1,1
 ANNEXE A PLAN DE SONDAGE	13300
 ANNEXE AU COMMUNIQUE D’APPEL	13652
@@ -115,7 +119,7 @@ ANNEXE-X	1301,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,707,1,1,1,1,1,1,1,1,1,1,1,1,
 ANNEXE. Code	14424
 ANNEXE1 ACTE DE S Date	13524
 ANNEXE2	13341
-ANNEXES	998,245,745,157,821,430,465,598,1196,273,1620,3163,125,39,38,52,557,780,111,262,289,426,62,990,47,48
+ANNEXES	998,245,745,157,821,430,465,598,1196,273,1620,3163,125,39,38,52,557,780,111,262,289,426,62,990,47,48,223
 ANNEXES ANNEX	1243,6305
 ANNEXES ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET SOCIALES	14489
 ANNEXES ANNEXE-1. Clauses	14488,1
@@ -144,7 +148,7 @@ ANNEXES PGES- DATA CENTER SECONDAIRE NATURE	14488
 ANNEXES Plan	14489
 ANNEXES TO OPERATION REPORT	1818
 ANNEXTURE	12693
-ANNEXURE	1009,2705,1819,5676,29,23,725,467,221,7,242,114,31,24,253,117
+ANNEXURE	1009,2705,1819,5676,29,23,725,467,221,7,242,114,31,24,253,117,1382
 ANNEXURE A INFORMATION COMMISSIONER	13096
 ANNEXURE A PSF	12374
 ANNEXURE B	5533,6453
@@ -187,6 +191,7 @@ ANNONCES Archives	9993
 ANNONCEURS Votre	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 ANNOTÉES ET COMMENTÉES DES LOIS ISSUES	2342
 ANNOUNCED	11875
+ANNOUNCEMENT ADJOURNMENT THE CABINET	14841
 ANNOUNCEMENT The HOUSE CHAIRPERSON	11272
 ANNOUNCEMENTS	11230,55,4
 ANNOUNCEMENTS BY MADAM FIRST DEPUTY SPEAKER	13387
@@ -200,7 +205,7 @@ ANNUAIRE STATISTIQUE	13478
 ANNUAIRE STATISTIQUE DE L’EDUCATION	13478
 ANNUAIRE STATISTIQUE DU BURUNDI	13377
 ANNUAIRE STATISTIQUE DU MINISTERE DU COMMERCE	13500
-ANNUAL	11586,1383
+ANNUAL	11586,1383,1767,99
 ANNUAL ACTION PLAN	12843
 ANNUAL AND QUARTERLY	5533,6453
 ANNUAL BUDGET PERFORMANCE REPORT FOR FINANCIAL	12976
@@ -220,7 +225,7 @@ ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATE	13131
 ANNUAL PERFORMANCE REPORT AND BUDGET ESTIMATES	13131
 ANNUAL PERFORMANCE REPORT FOR THE FINANCIAL	13126
 ANNUAL Perfomance	12975
-ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979
+ANNUAL REPORT	718,436,400,9644,20,6,26,1670,31,20,82,979,706,22
 ANNUAL REPORT A NOTE	1154
 ANNUAL REPORT ABOUT THE RESEARCH COUNCIL	1154,400
 ANNUAL REPORT ABRIDGED AUDITED FINANCIAL STATEMENTS	1154
@@ -251,7 +256,9 @@ ANNUAL REPORT Gender Distribution of Foreign Researcher	1554
 ANNUAL REPORT Impact Analysis	1554
 ANNUAL REPORT Internal Controls and Risk Management	1554
 ANNUAL REPORT International Development Research Centre	1554
+ANNUAL REPORT Letter of Transmittal	14744
 ANNUAL REPORT List	13053
+ANNUAL REPORT Mauritius Police Force Publication	14760
 ANNUAL REPORT Minister of Lands	1554
 ANNUAL REPORT NATIONAL RESEARCH PRIORITIZATION	1154
 ANNUAL REPORT NOTE FROM THE EXECUTIVE	1554
@@ -275,6 +282,7 @@ ANNUAL REPORT The Committee	1554
 ANNUAL REPORT The Hominins	1154
 ANNUAL REPORT The RCZ	1554
 ANNUAL REPORT Throughout	1154
+ANNUAL REPORT U	14736
 ANNUAL REPORT UZ ZACC ZAS ZERA	1154
 ANNUAL REPORT ZIMBABWE AGRICULTURAL SHOW	1154
 ANNUAL REPORT ZIMBABWE INTERNATIONAL TRADE FAIR	1154
@@ -375,6 +383,7 @@ Anna-Noémie Ouattara Boni	11902
 AnnaShingo	12478
 Annaba	6243,3935
 Annabel Schiff	226
+Annabelle Savabaddy	14837
 Annalena Baerbock	7174
 Annals	226,3556,345,549
 Annan Centre of Excellence	4126
@@ -399,9 +408,11 @@ Annegret Hilse	6931
 Annejiagye Street Operational P.O Box LG	3386
 Annepeace Alwala	5839
 Annette Mangena	1248
-Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55,54,15,17,10,129,4,16,28,217,144,8,10,9,253,30,8,53,8,41,41,132,36,2,19,6,13,26,1,16,40,36,4,21,6,12,27,10,6,81,34,19,106,12,92,133,6,30,9,21,2,14,12,41,4,2,43,15,166,51,2,17,1,50,10,69,200,68,139,131,11,103,18,4,23,251,77,38,103,31
-Annex A	7987,1136,1591
+Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55,54,15,17,10,129,4,16,28,217,144,8,10,9,253,30,8,53,8,41,41,132,36,2,19,6,13,26,1,16,40,36,4,21,6,12,27,10,6,81,34,19,106,12,92,133,6,30,9,21,2,14,12,41,4,2,43,15,166,51,2,17,1,50,10,69,200,68,139,131,11,103,18,4,23,251,77,38,103,31,88,4,4,21,5,20,18,7,3,3,1,3,1
+Annex A	7987,1136,1591,4046
 Annex A Criteria	11133
+Annex A Technical Specifications for Data Cabling	14778
+Annex A YES NO Water	14778
 Annex A-C	10714
 Annex A. Action Plan Implementing Entity	1777
 Annex A. At AUC	1257
@@ -414,14 +425,17 @@ Annex A4.2	12006
 Annex AA. NOTE	11269
 Annex ANNEX Table E-Government Development Index	10840
 Annex Annex	12376
-Annex B	7850,1089,691,1084,419,1042,201,27,634,973
+Annex B	7850,1089,691,1084,419,1042,201,27,634,973,750
+Annex B DRAFT LEASE AGREEMENT BETWEEN	14778
 Annex B Initial	11133
 Annex B. Other Major Sources of Funding	12175
+Annex B. Page	14778
 Annex B7	11863
 Annex C	7198,5205,634,973
+Annex C. Police Helicopter Squadron	14760
 Annex C. Transforming Education Summit	12175
 Annex Careplus MEdical Data Controller INST-724067F63A2	7167
-Annex D	3861,3337,3516,3296
+Annex D	3861,3337,3516,3296,750
 Annex D. ECE	13990
 Annex D. Estimation Method	10714
 Annex D. Just	14010
@@ -450,6 +464,7 @@ Annex IV. Data Issues Table	13868
 Annex IX	13938
 Annex J5	13042
 Annex K	6453
+Annex Miscellaneous	14746
 Annex National AI Strategies	1814
 Annex No	12675
 Annex O.A	11149
@@ -563,7 +578,7 @@ Annexes References	5679
 Annexes The Regional Trade Policy	14079
 Annexes Tier	10764
 Annexes and Protocols	14409
-Annexure	396,544,69,741,150,330,1484,389,793,695,274,2805,170,1881,472,5,11,31,18,1,727,61,291,29,7,300,221,22,26,59,29,2,35,8,16,289,39,41,1,282,930
+Annexure	396,544,69,741,150,330,1484,389,793,695,274,2805,170,1881,472,5,11,31,18,1,727,61,291,29,7,300,221,22,26,59,29,2,35,8,16,289,39,41,1,282,930,170
 Annexure A	11258
 Annexure B	1900,6940,2400,18,1,693,34,1051,59,324
 Annexure B1	4896
@@ -624,7 +639,7 @@ Annika Hahn-Englund	2373
 Annika Hahn-Englund. Dr. Aminu Maida	2373
 Anniversaire	4895
 Anniversaries. Mr. Dlamini	11131,3
-Anniversary	5825,4295,1011,1911
+Anniversary	5825,4295,1011,1911,1732
 Anniversary Celebration	11131
 Anniversary Celebration CMA Exchange Control Quarterly	11131
 Anniversary Celebration. Overview	11131
@@ -644,7 +659,7 @@ Annonciate UWIMANA Desire KEZAKARAYAGWA Eric YAMUREMYE	13300
 Annoncé	6515
 Annoncée	3821,2974
 Annotated Bibliography	4563
-Annotation	1231,6454,105
+Annotation	1231,6454,105,6924,1
 Annotations	12360
 Announced	776,80,81,28,183,287,109,680,497,672,43,341,7,102,51,20,294,221,43,429,255,112,161,31,257,1731,729,1283,1358,293
 Announced AI-specific	6232
@@ -659,6 +674,7 @@ Announcement-stage	7491
 Announcements	5048,1429,8129
 Announcements Ag. Director Mr. Muriuki	14606
 Announcements Gather	8897
+AnnouncementsNetworking	14776
 Announcer	1901
 Announces	9735
 Announces PM Ramgoolam	7366
@@ -677,7 +693,7 @@ Annuaire de Statistiques	13325
 Annuaires	13377
 Annuaires Décentralisation	3396
 Annuaires Statistiques	13325
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29,126,2,1,50,14,26,4,8,22,122,21,16,47,61,35,12,190,93,2,3,3,3,4,4,7,1,4,1,2,16,47,1,23,10,159,9,92,93,1,1,5,6,1,5,2,25,14,14,14,17,44,12,8,22,1,4,11,2,14,47,52,80,96,52,1,7,2,10,13,10,6,39,8,20,48,2,68,164,21,3,20,1,7,8,2,22,36,24,48,87,40,18,306,59,421,39,33,11,73,9,19,62,61,10,8,3,5,2,1,15,7,5,4,47,8,3
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -695,6 +711,8 @@ Annual Analytics	13331
 Annual Applicable Output	13095
 Annual Appropriation	11218
 Annual Assessment Quantitative	13332
+Annual Audit Plan	14828,3
+Annual Audit Reports	14748
 Annual Ave	1944
 Annual Aver	1944
 Annual Avera	1944
@@ -702,7 +720,7 @@ Annual Average	13060
 Annual Average Exchange Rates.pdf	1013
 Annual Average Retail Prices of Selected Consumer	2775
 Annual Borrowing Plan	11136,2732,678
-Annual Budget	12972
+Annual Budget	12972,1764
 Annual Budget Q1	12241
 Annual Budgeted Plan of Actions	13349
 Annual Budgets of MDAs	11866
@@ -756,6 +774,7 @@ Annual Estimates	7548,5414
 Annual Eswatini Careers Fair	11134
 Annual Expert Group Meeting for African Registrars	7879
 Annual Expert Group Meeting for Registrar Generals	11480,584,1156,458
+Annual Fee	14828,3
 Annual Fees	12542
 Annual Figure	10976
 Annual Financial Inclusion Report	8135
@@ -815,7 +834,9 @@ Annual Integrated Report	11048,83,3
 Annual Interest Rates	13060
 Annual Internal Audit Plan	11131,3
 Annual Internal Audit Plan The Annual	11134
+Annual International	14819
 Annual International Conference	2096,2336,917,5979
+Annual Investment	14819
 Annual Investment Plans. PBGs	5620
 Annual Joint Meeting	3038
 Annual Leave	11218,6
@@ -826,13 +847,16 @@ Annual Malawi	12917
 Annual Market Performance Report	1195
 Annual Media Statistics Report. Kigali	13418
 Annual Meeting	422,7126,1318,4696
-Annual Meetings	6764,1020,2984
+Annual Meetings	6764,1020,2984,4006
+Annual Meetings Plenary	14774
+Annual Meetings. The Junior Minister	14774
 Annual Member Meeting	585,8281
 Annual Members Meeting	13095
 Annual Members Meeting Participation	13095
 Annual Members’ Meeting	585
 Annual Mensual	4209
 Annual Monetary Policy Statement	11134
+Annual Monitoring for Educational Oversight	14787
 Annual NHIF Members’ Contributions and Benefits Paid	2775
 Annual National AI	7548
 Annual National Surveys The AISIO	12512
@@ -855,7 +879,7 @@ Annual Percentage Change Ministries	2775
 Annual Percentage Rate	13532
 Annual Performance	970,11419
 Annual Performance Plan	5533,343,636,171,4514,21,12,7,15,9,725
-Annual Performance Report	1554,11418,5,443
+Annual Performance Report	1554,11418,5,443,1326,82,3
 Annual Performance Report. Officials	8469
 Annual Performance Review Retreat. Presenting the Institute	9389
 Annual Performance and Gender Diversity	12389
@@ -883,7 +907,7 @@ Annual Re	13053
 Annual Real GDP Growth	12551,981
 Annual Reliability and Maintainability Symposium	8130
 Annual Renewal Fee	10738
-Annual Report	236,482,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29
+Annual Report	236,482,243,193,55,140,28,1,6,170,274,1461,294,1313,333,643,1064,2,8,258,135,209,215,488,263,560,1690,102,272,59,27,6,20,82,254,76,59,234,39,76,162,13,26,44,10,12,62,101,51,123,246,31,2,144,66,521,374,352,54,29,243,2,4,2,1,1,14,1,7,5,62
 Annual Report Building Brighter Futures	12552
 Annual Report Final.pdf	12515
 Annual Report Final.pdf Download Copy Link	12515
@@ -894,7 +918,7 @@ Annual Report LESOTHO COMMUNICATIONS AUTHORITY ANNUAL	12646
 Annual Report SCHEDULE	22
 Annual Report UNDP Libya's PEPOL	1390
 Annual Report URL	13865
-Annual Report and Financial Statements	12951
+Annual Report and Financial Statements	12951,1785
 Annual Report for FY	6946
 Annual Report for South Sudan	3583
 Annual Report for The Financial	6946
@@ -903,12 +927,14 @@ Annual Report of Statistics Botswana	12551
 Annual Report. Juneau. Alaska	12413
 Annual Report. The Annual Report	4896
 Annual Report. The Report	1554
+Annual Report. The Standards Council	14736
 Annual Report. Washington	5700
 Annual Reports	1778,4675,4683,719,501,544,151,46,225,96
 Annual Reports and Financial Statements	11230
 Annual Reports and State	5872
 Annual Reports. This Report	12972
 Annual Research Forum	13563
+Annual Research Funding Report	14824
 Annual Residential Address Conference and Postal Services	4953
 Annual Results Report	12257,1732
 Annual Return Gross Filing	11250
@@ -944,6 +970,8 @@ Annual Strategy Review	11131
 Annual Subscription	1220,10631,125
 Annual Summary	11762,1988
 Annual Supplement	14410,12,13
+Annual Survey	14836
+Annual Survey of Employment and Earnings	14832
 Annual System Losses	12256
 Annual TB	4301
 Annual Tax Incentives	11976
@@ -976,9 +1004,10 @@ Annual Workplans	11401
 Annual and Quarterly	13479
 Annual-Integrated-Report-2024-25.pdf	11131
 Annual-Integrated-Report-2025-2026-online-compress.pdf	11134
+Annual-Report-2024-2025-C.pdf	14760
 Annual-Report.pdf	1059
 AnnualGeneral Member	585
-AnnualReports	11977
+AnnualReports	11977,2759
 Annualised	2775,5952
 Annualised Revenue Run-Rate for Sikaflow	9977
 Annualised TPV	7663
@@ -1058,6 +1087,7 @@ Bank of Uganda Integrated Annual Report	10299
 Bank of Zambia ZIPSS Rules Annex	12364
 Bank of Zambia ZIPSS Rules Annual Audit	12364
 Bank the Annual Work Plan and Budget	11417
+Baseline Readiness Assessment Quarterly and Annual Progress	14819
 Bd Annakhil	1184
 Benin. See Annex D	10714
 Board Annual Integrated Report	11134
@@ -1070,9 +1100,11 @@ Body Malawi Police Service Annual Report	12953
 Body Standards Annual Work Programme	12621
 Brandin Eswatini ANNUAL INFORMATION AND COMMUNICATION	12395
 Broadband Annual	3184,7811
+Budget Annex	14773
 Budget Annexe MNDPT	14573
 Budget Annuel	3396,420,7060
 Budget Annuel REESS Rapport	10876
+Budget.pdf ANNEX TO BUDGET SPEECH	14831
 Burkina CASEM Plan de Travail Annuel	2074
 C 2026 5364 F1 ANNEX FR V1 P1 4911912.PDF	14658
 C ANNEXES PGES- DATA CENTER PRINCIPAL	14489
@@ -1159,6 +1191,8 @@ Circular ANNEXURE D1	4896
 Civil Annex	10812
 Climate and Conflict. Annual Review of Economics	10963
 Comments Actual Annual	11131
+Commissions Annual General Meeting Forum	14839
+Commonwealth Finance Ministers Annual Meeting	14774
 Community Health Impact Coalition. Annual	1219
 Company's Annual Report	4896
 Company’s Annual General Members’ Meeting	585
@@ -1175,6 +1209,7 @@ Consultant. Annexure	13031
 Consumer Protection Annual Report	11138
 Contents ANNUALREPORT2025 Table	12969
 Continued Annual Absorption of Frontline HCWs Year	4260
+Coordinated Direct Investment Survey Participate Annual	14777
 Count Down Announcements	8999
 Countdown Announcement PR Campaign Mop-up	8999
 County Annual	7548
@@ -1225,6 +1260,7 @@ DHA ANNUAL PERFORMANCE INDICATORS AND TARGETS	11285
 DHA Annual Performance Plan	5591,921
 DHIS2 Annual Conference	11589,1152,1064
 DISBURSTBL Fiscal Year Annual Cumulative	1284
+DISCLAIMER The Annual Report	14773
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DPGA Annual	13095
 DPGA Annual Meeting	13095
@@ -1255,6 +1291,7 @@ Digital Trade Annexes	14674
 Digital Trade and Its Annexes	7596
 Disability Annual Monitoring Report	13033
 Disability Registered Annually1	2775
+Disaster Risk Management This Annual Report	14738
 Distribution Annex	12978
 Domest. Respons. Repres. Annual Bruto	4209
 Domestic Letter Mail Volume ANNUAL INFORMATION	12395
@@ -1281,13 +1318,16 @@ EN VERSION MALAGASY ANNEXE	14489
 ENERGY ANNUAL PERFORMANCE REPORT	13126
 ENTREPRISES Rapport Annuel	2342
 ESCCOM National Annual Report	6539
+ESG-compliant Annual Monitoring	14787
 ET EXPLOITATION SEXUELLES ANNEXE-7. Fiche	14488,1,1
+ETSI Standard. ANNEX	14780,45
 EU AI Act's Annex IV	7451
 EU AI Act’s Annex III	5363
 EU Announces	4239
 EUROPEAN UNION ANNEX	12843
 EXECUTIVE SUMMARY ANNUAL INFORMATION AND COMMUNICATION	12395
 East Africa VP Anne Kinuthia Otieno	8623
+Economic Planning and Development Annual Report and Audited	14744
 Editors Guild Annual General Meeting	8687
 Edu. Statistics Ann Abstract	13991
 Education Statistics Annual Abstract	12199,1792,3
@@ -1457,6 +1497,7 @@ Independence Anniversary. Going	6831
 Independence Day Anniversary	13956
 Indian Diaspora and Annexure	13744
 Indicateurs Données de Année	13433
+Indicative Annual Procurement Plan	14741
 Indicator Statistic ANNUAL INFORMATION AND COMMUNICATION	12395
 Information Annual Reports	9074
 Information PTA Plan de Travail Annuel PTF	10712
@@ -1477,6 +1518,7 @@ Internal Audit Annual Plan	12500
 Internet ANNEES	13324
 Internet Fixe RAPPORT ANNUEL	998
 Internet RAPPORT ANNUEL	998
+Introduction The Annual Performance Report	14835
 Introduction This Annex	7548
 Isla de Annobón	4209
 Isla de Annobón Annobón	4209
@@ -1535,6 +1577,7 @@ MCDAs. Annual	6432
 MD Anne Kinuthia-Otieno	8623
 MDAs Annual	7548
 MDAs Public Service Annual Emerging Technologies	7548
+MEASURES FROM BUDGET ANNEX FY	14773
 MEPPSA Frequency Annual Data	11905
 MICDE Annual	7548
 MICT SETA Annual Digital Skills Report	6832
@@ -1569,6 +1612,8 @@ Mapie Annobón	4209
 Maryland Vital Statistics Annual Report	12413
 Masanka's and Anna	13542
 Mauritius Annual Report	11332
+Mauritius Police Force Annual Report	14760
+Mauritius Standards Bureau Annual Report	14736
 Mauritius. Annex	2913
 Mean Annual Maximum Temperatures	2775
 Mean Annual Maximum and Minimum Temperatures	2775
@@ -1608,6 +1653,7 @@ MoE Annually Project	13991
 MoE Annually Relevant	13991
 MoPSE Annual	13310
 Mobile RAPPORT ANNUEL	998
+Moh user ANNUAL REPORT ON PERFORMANCE	14773
 Monitoring and Implementation Annexure Figure	13076
 Monthly Annual Head of CRVS	13005
 Moov Africa SSA Subsidiaries Annual CapEx	1065,376
@@ -1649,6 +1695,7 @@ National Annual Agriculture Survey. CHALLENGES	12962
 National Annual Technologies	7548
 National Annual for AI	7548
 National Année	10847
+National Assembly. The Annual Report	14736
 National Bank of Rwanda Ms. Annette Mutaawe	7815
 National Social Security Fund Annual Membership	2775
 National Technologies B- Annual	7548
@@ -1672,6 +1719,7 @@ Number of Broadcasting Productions ANNUAL INFORMATION	12395
 Number of MDAs' Annual Budgets	11866
 Number of Pay TV Service Providers ANNUAL	12395
 O N EN ANNÉES	13300
+OMA Annual Report	14746
 OPM Annual Report	12325
 OTR Année	8673
 OU EN ANNÉES	13300
@@ -1767,7 +1815,7 @@ Q3 FY25. Annexes	12195
 Q4.1 and Annexure Q4	13461
 QUESTIONNAIRES Annexe E Annexe	13300
 Qualité Gouvernance Gouvernance Annexe	2966
-Quarterly Annual	2776
+Quarterly Annual	2776,12001
 Quarterly Projection Model. Annual Integrated Report	11134
 Quarterly and Annually Desired	11986
 Quarterly and Annually Indicator	11986
@@ -1790,11 +1838,15 @@ Rapport Annuel 2025 BCEAO vf.pdf	7595
 Rapport Annuel de Performance	10975
 Rapport de Annuelle BEAC	10965
 Rapport-de-FIN-D ANNEE-2025.pdf	6896
+Rationalising the Annual Allowance for Hotels	14828,3
 Re-reading. Annotating. Asking	5513
+Registrar-General's Department Annual Report	14761
 Regulations. Annual	13322
 Renewal Annual	736
 Report C1- Annual	7548
+Report This Annual Report	14746
 Reporting Accountants and Auditors Announcement of Dividend	4896
+Reporting Frequency National Outcome Indicator Annual	14819
 Reporting No. Output Indicator Baseline Annual	12358
 Reporting Templates Annual National Surveys Third-Party	4528
 Reporting and Learning and Annexes	7548
@@ -1855,6 +1907,7 @@ Sector Annual Missions Portfolio AI	7548
 Sector Annual of AI	7548
 Sector Privado ANNEXES List	11366
 Sectoral Annual	7548
+Self-Declaration of Annual Income	14828
 Self-Party Annual Report	11417
 Senior Officers' Annual Conference	5174
 Service Annual Technologies	7548
@@ -1864,6 +1917,7 @@ Services Projections Annual	12977
 Services and Analytics AWP Annual Work Program	11549
 Sharon Lerner and Anna Maria Barry-Jester	7750
 Sierra Leone. AMIA Annu Symp Proc	766
+Social Integration Division Annual Report	14835
 Sonatel Announce Partnership	2619
 Sonatel Group Annual CapEx	1143,405
 Sources Annual	236
@@ -1879,6 +1933,7 @@ State Party Annual Report	10776
 State Party Annual Report for IHR Successfully	10776
 States Parties Self-Assessment Annual Report	14622
 Strategy Annual	11986
+Strengthening Annual Reporting	14828,3
 Stress Index The Annual ASI	11762
 Sudan Minister of Finance Announces Full Support	8613
 Summary Tables. Annexes	12672
@@ -1886,6 +1941,7 @@ Supporting Future Growth Anne Catherine Tchokonté	14637
 TABLE OF CONTENTS ANNEXURES	11986
 TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLE OF CONTENTS ANNUAL INFORMATION	12395
+TABLE OF CONTENTS This Annual Report	14738
 TABLEAUX POUR L’ÉVALUATION DE LA Annexe	13300
 TABLING OF ANNUAL PERFORMANCE REPORTS	13126
 TATS MEMBRES DE L’UEMOA Annexe	10711
@@ -1966,6 +2022,7 @@ WMO 36 Annex	13729
 WOfS Annual Summary	10794
 Wingu Africa Announcement	14026
 World Bank Annual Project's MIS	11855
+World Bank Group Annual Meetings	14774
 World Bank Managing Director of Operations Anna	7426
 World Malaria Report Annual	4301
 X Annual Statistical Abstracts	12138

@@ -4,13 +4,20 @@ GDP Intangible	11884
 Gross Intake Ratio GoM	12175
 Horta Inta-a	4435
 Horta Inta-a. Durante	4435
-Intake	7573
+INTANGIBLE FIXED ASSETS SOFTWARE COST	14736
+Intake	7573,7202
 Intaneti	6019
-Intangible	1154,3742,5897,176,162,3,750,1,10,60,204,1,45,146,4,132,566
-Intangible Assets	11955
-Intangible Cultural Heritage	14073
-Intangibles	10793
+Intangible	1154,3742,5897,176,162,3,750,1,10,60,204,1,45,146,4,132,566,1724
+Intangible Assets	11955,2781
+Intangible Assets Certain	14736
+Intangible Assets Cost of Intangible Assets	14736
+Intangible Cultural Heritage	14073,669
+Intangible Cultural Heritage of Humanity	14742
+Intangible National Cultural Heritage. Mauritius	14742
+Intangibles	10793,4037
 Intarasit	8606
 Item of Intangible Assets Years Computer	11955
 Net Intake Rate NLGFC	12175
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
+UNESCO List of Intangible Cultural Heritage	14742
+UNESCO Representative List of Intangible Cultural Heritage	14742

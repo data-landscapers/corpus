@@ -7,8 +7,10 @@ HPE Cray XD670	11471
 Interchange XDM Cross-Community Patient Discovery XDS	1009
 Media Interchange XDS	1009
 Original XDR	43,1,73,1,1,55,1,157,1,1,265,1,1,1,1,200,1,1,1,2,1,235,1,1,362,1,1,1,1,715,1,1,2322
+PART XD	14843
 REQUEST XDR	2473
 RS XDS-1.b XDS XML V1	1009
+S. Interpretation of Part XD	14843
 Sharing XDS-MS Cross-Enterprise Sharing of Medical Summaries	1009
 WIFI WLL WAN WiMAX XDSL Organisation	13290
 World Health Organization XAD-PID XDS	1009

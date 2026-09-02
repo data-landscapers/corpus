@@ -41,7 +41,7 @@ CGI. Numéro	1984
 CGI.br	5366
 CGI21	1984
 CGI22	1984
-CGIAR	8683,2457,950
+CGIAR	8683,2457,950,2728
 CGIAR Digital Transformation Accelerator	8683
 CGIAR Trust Fund	12837
 CGICTPF	1009,10222
@@ -58,6 +58,8 @@ CGP. Le CGP	14425
 CGP. Procédure	14425
 CGPV-V	8048,6167
 CGRAE	3660
+CGS Barracuda CGS Valiant CGS Victory	14760
+CGS Guardian CGS Observer Explosive	14760
 CGSI Indicator-Level Responses	10785
 CGSI PSDI DCEI GTEI Ilustração	11569
 CGTN Africa	11653

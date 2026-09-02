@@ -81,7 +81,7 @@ Mimosa Mining Company	1554
 MiniTPT MiniTPT Radiodiffusion Mininfo Mininfo	13290
 Mininfo ARCT ARCT ARCT ARCT Proposition	13290
 Mininfo De Août	13290
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9,67,400,50,17,74,2,5,62,173,90,89,58,29,338,73,419,185,18,242,4
 Mining AI	4528,7984
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -125,7 +125,7 @@ Mining and Manufacturing. The Plan	13122
 Mining and Metallurgy Regions of EU	11007
 Mining and Minerals Development Act	13654
 Mining and Minerals Regulatory Authority	12987,73,62
-Mining and Quarrying	1940,835,8377,1293,608,595,937
+Mining and Quarrying	1940,835,8377,1293,608,595,937,255
 Mining and Quarrying Manufacturing	12445
 Mining and Quarrying Manufacturing Micro	12445
 Mining and Quarrying Manufacturing Utilities Services	12445

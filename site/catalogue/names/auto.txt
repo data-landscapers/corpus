@@ -100,6 +100,7 @@ Auto-évaluation des Fonctions Publiques	7725
 AutoGPT	11922
 AutoGPT Significant-Gravitas	11922
 AutoGPT-related	11922
+Autocheck Vehicle Examination Station	14753
 Autochek	832
 Autocom	9565
 Autoconsommation	737
@@ -110,16 +111,18 @@ Autofill Function	12041
 Autofinanciación	1701
 Autogas Dispensing Station	12256
 Autogirl	7798
-Automate	8817,1904,1219,2094
+Automate	8817,1904,1219,2094,743
 Automate EMIS	13310
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130,162,34
+Automated Assessment and Feedback	14812
 Automated Biometric	11986
 Automated Biometric Identification	11986
-Automated Biometric Identification System	2073,1342,2118,7472
+Automated Biometric Identification System	2073,1342,2118,7472,1825
 Automated Biometric Identification System ACSA Airports	5533
 Automated Biometric Identification System ADR Assistant	13005
+Automated Biometric Information System	14830
 Automated Clearing House	2358,1299,22,26,8005,576,78,950,138
 Automated Clearing House AML	13452
 Automated Clearing House Related Indicator	7221
@@ -172,6 +175,7 @@ Automated Teller Machine ATS Automated Transfer	13312,2
 Automated Teller Machine Coronavirus Disease Digital	940
 Automated Teller Machines	6774,3387,1794,83,193,1801
 Automated Teller Machines ATMs	11955
+Automated Teller Machines BCG	14742
 Automated Trading System	10
 Automated Transfer System	4915,1231,7168,203
 Automated Transfer System Plus	13742
@@ -188,7 +192,7 @@ Automatic Credit and Debit Notes Management	12509
 Automatic Data Processing	972,12347
 Automatic Exchange of Customs Information	9745
 Automatic Exchange of Financial Account Information	11233
-Automatic Exchange of Information	11685
+Automatic Exchange of Information	11685,3143,3
 Automatic Exchange of Information BRS AEOI	11685
 Automatic Fee Waiver	5574
 Automatic Fingerprint Identification System	12378
@@ -199,12 +203,13 @@ Automatic Payment	11955
 Automatic Payment Terminals	11955
 Automatic Price Mechanism	13060
 Automatic Pricing Mechanism	13122
-Automatic Processing of Personal Data	8776
+Automatic Processing of Personal Data	8776,5957
+Automatic Rain	14738
 Automatic Stay of Proceedings	12389
 Automatic Synoptic Weather Stations	12728
 Automatic Teller Machine DCC	11955
 Automatic Teller Machines	11939
-Automatic Weather Stations	11553,1175
+Automatic Weather Stations	11553,1175,2010,80
 Automatic Weather Stations. Key Objectives	12728
 Automatically	9123,3296
 Automaticmapping	8606
@@ -262,12 +267,12 @@ Autonomia Administrativa E DOS DIREITOS HUMANOS	10752
 Autonomia Científica	11385
 Autonomia Tecnológica Após	6530
 Autonomia Técnica A Autonomia Técnica	11516
-Autonomie	37,10837,101,2326,141
+Autonomie	37,10837,101,2326,141,1354
 Autonomie Section	37
 Autonomisation	822,4808,2596,1430,3685,843
 Autonomisation Economique des Femes	13547
 Autonomizar	11569
-Autonomous	5700,2680,718,247,1467,1045,2212
+Autonomous	5700,2680,718,247,1467,1045,2212,741
 Autonomous Amortization Fund	10964
 Autonomous Credit Lending	5482
 Autonomous District of Abidjan	10930
@@ -280,6 +285,7 @@ Autonomous Port	10856
 Autonomous Port of Cotonou	9043,232
 Autonomous Port of Kribi	10980
 Autonomous Province of Bolzano	14162
+Autonomous Satellite Wildfire Detection Using Hyperspectral	14769
 Autonomous Sector of Bissau	11536,17
 Autonomous System	7548
 Autonomous System Numbers	3503
@@ -475,6 +481,7 @@ Autour	4334,2834,6362,959
 Autovía Bata-Mongomo Continental	4209
 Autovía Malabo-Luba Malabo	4209
 Autres Autorités de Régulation	13301
+B. Automatic	14717
 BOT. Pour le Port Autonome de Douala	5291
 BUFFALO AUTOLAB LTD Data Controller INST-7135671F063	7167
 Balancing Autonomy	6487
@@ -510,6 +517,7 @@ Cardbased Point of Sale and Card-based Automated Teller	11131
 Cassava Autonomous Network	5266,173
 Cassava Autonomous Network for MNOs	5439
 Cassava Autonomous Networks	5266
+Central Automated Switch	14731
 Chargeur Automatisé de Données	13783
 China's Xinjiang Uygur Autonomous Region and Guizhou	12864
 Classification Boundaries Automatic Class A Classification	5665
@@ -659,7 +667,8 @@ Maisha Digital ID Automation	12165
 Malawi PROJECT DONORS Contents ABIS Automated	13095
 Mali's Autorite de Protection des Donnees	4177
 Mauritius Automated Clearing and Settlement System	6938
-Mauritius Central Automated Switch	1386
+Mauritius Central Automated Switch	1386,13345
+Mauritius Central Automated Switch The Mauritius	14731
 Meaning ABIS Automated Biometric Identification System	11218
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Modernization and Automation	10550
@@ -726,6 +735,7 @@ Promotion des Peuples Autochtones	5103
 Proyecto de Auto-Empleo	4209
 Proyecto de Automatización	4209
 Proyecto de Ley de Derechos de Autor	9303
+Public Service Automated	14729
 Raciocínio Automático	2816
 Rapidly Developing Thunderstorms. Auto-update. View Today	14256
 Registo Automóvel	10751,1418

@@ -18,8 +18,10 @@ EU European Union GTMI GovTech Maturity	13861
 Education Govt	4028
 Expert GovTech	12043
 Extensive GovTech Maturity	4612,140,9814
+Favourable Govt	14723
 Future GovTech	11867
 G Prosperity Insight Series GOVTECH MATURITY	10785
+G2C G2B G2G Whole of Govt	14752
 GOVERNAN GOVERNANCE GOVERNANCE GOVERNANCE GOVTECH MATURITY	10785
 GOVTECH MATURITY INDEX	10785
 GTMI GovTech Enablers Index	10785
@@ -28,7 +30,7 @@ General Data Protection Regulation GovTech Government	12675
 Give Nigerian Govt Sweeping Powers Over	7458
 Global GovTech	10785
 Gov. GovTech Cameroun	10992
-GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108
+GovTech	157,604,233,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101,823,181,174,429,298,73,1008,383,244,1,271,137,339,17,226,108,78,67
 GovTech Approach	11867
 GovTech Cameroun	10992
 GovTech Case Studies	994
@@ -50,6 +52,7 @@ GovTech I-40	10785
 GovTech Indonesia	11994
 GovTech Innovation Challenge	7623
 GovTech Innovation Lab	5342
+GovTech Innovation Programme	14752
 GovTech Lab	9291,3384
 GovTech Leaders	11867
 GovTech Maturity	10785,1082
@@ -73,6 +76,7 @@ GovTech Uptake and Usage	10785
 GovTech and Citizen Engagement Project World Bank	157
 GovTech-focused	2249
 GovTech-for-revenue	1589
+GovTech-style	14752
 GovTech. Dentre	11569
 GovTech. Figure	10785
 GovTech. L’entreprise	9758
@@ -81,8 +85,10 @@ GovTech. Staff Discussion Note	1828
 GovTech2	10785
 GovTechLab	12675
 Governance and GovTech Projects	11867
+Govt App	14752
 Govt By Namo Phiri	12126
 Govt By Thabo Kawana	13680
+Govt Cloud DPO NCRCSA CERT.MU ITSU	14752
 Govt Donates	3332
 Govt Gazette	5498
 Govt Inter- Ensure	11857
@@ -98,6 +104,7 @@ Govt Tells Tech Firms	11611
 Govt of Guinea	3959
 Govt of India	13029
 Govt of Lesotho	2669
+Govt of Mauritius	14713
 Govt-business	12214
 Govt. Enterprise and Empowerment Program GEEP	11857
 Govt. Interoperability	11857
@@ -155,5 +162,5 @@ World Bank GovTech Maturity Index	2662,2090
 World Bank GovTech Operations	1278,12569
 World Bank's GovTech Dataset	11867
 World Bank's GovTech Initiative	11867
-World Bank’s GovTech Maturity Index	4612,9711
+World Bank’s GovTech Maturity Index	4612,9711,427
 Zambian Govt Claims	12464

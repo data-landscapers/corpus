@@ -1,3 +1,5 @@
+AFRAC and SADCAS	14736
+AFRIMETS and SADCMET	14736
 AU and SADC	4528,7673,311
 AU and SADC AI	4528,7984
 About SADC CCBG	12684
@@ -50,6 +52,9 @@ Data Protection Guidelines for SADC	962
 Deputy Executive Secretaries of SADC	9761
 Development SADC Southern African Development Community	12675
 Digital SADC	23,12919
+Draft Agreement Amending the SADC Treaty	14826
+Draft Agreement Establishing the SADC Tourism	14826
+Draft Charter Establishing the SADC Pharmaceuticals	14826
 Draft Framework for Establishing the SADC Regional CIRT	318
 EAC and SADC	11149,1769
 EAC-5 Sub-Saharan Africa WAEMU CEMAC SADC	2775
@@ -63,18 +68,23 @@ Enhance the SADC Data Protection Model Law	962
 Estados-Membros da SADC	8854
 Eve Christine Gadzikwa SADCAS Chief Executive	13068
 Executive Director of SADI. Henri Kouam	9989
-Executive Secretary of SADC	9959,210,2773
+Executive Secretary of SADC	9959,210,2773,1884
 Executive Secretary of SADC. Summit	12640
+Extraordinary SADC Summit	14721
 Facilitate SADC Member States	962
 Finance Principal Finance Officer SADC Secretariat	12972
 Framework for SADC Shared Satellite Programme	12918
 Free Tech Institute and SADI	9989
 Free Tech Institute of Burundi and SADI	9989
 GB DATA FOR SELECTED SADC MEMBER	12395
+GUNESIE Sadhna Manager Human Resources	14770
 Governor SADC CCBG Meetings AFI Working	11131
 Governor. Hosted SADC CCBG	11131
 Guinée. Iliyassou Sadio Diallo	8555
+Hemlata Sadhna Sewraj-Gopal	14744
+Hemlata Sadhna Sewraj-Gopal Second Deputy Governor	14744
 Hub SADC	12444
+ITPGRFA and SADC Seed Protocols	14818
 Inclusive the SADC	12395
 Incoming Chair of SADC	9761
 Indicative Strategic Development Plan SADC Southern	13295
@@ -85,7 +95,9 @@ Justin Sadack Saidi	13115
 Kadiogo du Balai Citoyen. Sadiya Diallo	8634
 Leverage SADC	12444
 Louiss Saddick	13209
+Lusaka Zambia SADC Regional Training Workshop	14835
 MODERNISATION OF THE SADC DATA PROTECTION	962
+Mauritius. SADC	14839
 Mbaye Sadikh Publié	7929
 Member State of SADC	958
 Member of SADC	12527
@@ -94,6 +106,7 @@ Mukhtar M. Sadiq Consultant	11857
 NBFIs NPLs SACU SADC SDRs SME	11131
 NEGP PAC PKI PMEC PSMD SADC	12453
 NIYONKURU Sadock	13390
+NPPO and SADC	14818
 NSDI Committee Committee for Spatial Data SADC	12907
 Nao Excel INS Sim Sadia Disponivel	966
 National Election SADC Principles and Guidelines	12201
@@ -139,7 +152,7 @@ SADA Smart Africa Digital Academy SCMD	1264
 SADC AI	4528,55,2354
 SADC AI Governance Initiative	4528,7984
 SADC Accreditation Services	13320
-SADC Administrative Tribunal	12972
+SADC Administrative Tribunal	12972,1854
 SADC After Access	9759
 SADC Anti-money Laundering Task Team	6720
 SADC Aviation Safety Organization Charter	12942
@@ -151,6 +164,7 @@ SADC Broadband	12601
 SADC Broadband Basket Mobile Data and Voice	12395
 SADC CCBG	6720,4411,3,1298
 SADC Capacity Building Workshop	318
+SADC Certificate of Origin	14718
 SADC Chair	10324
 SADC Chairperson	10321
 SADC Chairpersonship	10321
@@ -166,12 +180,13 @@ SADC Committee of Central Bank Governors	3484,4645,3005,1537,181
 SADC Committee of Central Banks Governors	8129
 SADC Committee of Ministers	13655
 SADC Committee of Ministers for ICT	12918
+SADC Committee of Ministers of Justice	14826
 SADC Common Positions and Proposals	9292
 SADC Common Positions and Proposals for WRC-27	9292
 SADC Computer Crime and Cybercrime Model	26
-SADC Cooperation	13320
+SADC Cooperation	13320,1416
 SADC Corporate and Identity Manual. Project	962
-SADC Council of Ministers	9761,3201
+SADC Council of Ministers	9761,3201,1864
 SADC Council of Ministers. Allow	9761
 SADC Countries	12383,192
 SADC Cyber Drill	318
@@ -250,6 +265,9 @@ SADC Integration Agenda Promotion	12921
 SADC Interbank Large-value	6938
 SADC Internet	4094
 SADC KINGDOM OF ESWATINI	12395
+SADC Legal Instruments	14826
+SADC Legal Instruments Ministers of Justice	14826
+SADC Legal Instruments URL	14826
 SADC Level	958
 SADC Low Value Retail Payment System	492
 SADC MOBILE AFFORDABILITY	11262
@@ -262,7 +280,8 @@ SADC Mediation Reference Group	12640
 SADC Meeting	13310
 SADC Member	12962
 SADC Member Page	962
-SADC Member States	318,644,389,2125,1906,4379,2634,245,31,247,11,13,20,106,587
+SADC Member States	318,644,389,2125,1906,4379,2634,245,31,247,11,13,20,106,587,1190
+SADC Member States National Statistical Offices	14839
 SADC Member States. PART VI ENFORCEMENT	12929
 SADC Menu	12640
 SADC Ministers	26,1,1,6692,6222,20
@@ -332,9 +351,9 @@ SADC Postal E-commerce and Trade Facilitation Guidelines	12918
 SADC Postal Strategy	12942,713
 SADC Principles and Guidelines	9761,2440
 SADC Programmes. In the ICT and Information Sectors	12918
-SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156,322
 SADC Protocol of Gender and Development. The Government	12939
-SADC Protocols	12942,20
+SADC Protocols	12942,20,1864
 SADC Public Lecture	12640
 SADC RIDMP Executive Summary.pdf	23
 SADC RIDMP ICT	1007
@@ -342,9 +361,10 @@ SADC RISDP	12964
 SADC RPTC	12972
 SADC RTGS	8492
 SADC RTGS End User Conference	11134
+SADC RTGS. Creating	14744
 SADC Real-Time Gross Settlement	12432,252
 SADC Real-Time Gross Settlement System	10169
-SADC Region	962,2514,8725,1109,184
+SADC Region	962,2514,8725,1109,184,1351
 SADC Region and South African BRICS	11289
 SADC Region. The Ministers	12918
 SADC Regional CIRT	318
@@ -359,6 +379,7 @@ SADC Regional Fisheries Monitoring	12640
 SADC Regional ICT Facts and Figures Report	3476
 SADC Regional Indicative Strategic Development Plan	970,12517
 SADC Regional Infrastructure Development Master Plan	23,10936,1959
+SADC Regional Integration Agenda. Reaffirming the Republic	14826
 SADC Regional Peacekeeping Training Centre. Participants	12972
 SADC Regional Statistics	12972
 SADC Regional Statistics Project	3476,10328,700
@@ -370,13 +391,15 @@ SADC SR-CIRT Task Force	5780
 SADC Samkeliso Shongwe	9236
 SADC Secondary Essay Competition	12975
 SADC Secondary School Essay Competition	12962
-SADC Secretariat	318,644,2514,618,1785,983,2899,312,96,2471,31,25,246,9,11,87,1218,63
+SADC Secretariat	318,644,2514,618,1785,983,2899,312,96,2471,31,25,246,9,11,87,1218,63,509
 SADC Secretariat Contact	962
 SADC Secretariat Dear Sirs	962
 SADC Secretariat Director of Infrastructure Ms Mapolao	12918
 SADC Secretariat Final Report	962
 SADC Secretariat Recruitment Exercise The SADC	12962
 SADC Secretariat. Inputs	962
+SADC Seed Protocol	14818
+SADC Senior Legal Officials	14826
 SADC Senior Officials Standing Committee	12962
 SADC Seychelles	10421
 SADC Southern Africa Development SAFE Simple	12376
@@ -392,6 +415,7 @@ SADC Structures and Activities The Unit	12962
 SADC Summit	9959,362,2294,1652
 SADC Summit Lecture	9959
 SADC Summit of Heads of State and Government	12640,322
+SADC Summit of Heads of State and Government. Among	14826
 SADC Summit. Compliance	13494
 SADC TCIB	5334,86
 SADC Third Preparatory Meeting for WRC-27	9292
@@ -401,7 +425,7 @@ SADC Trade Protocol SPS	13320
 SADC Trade Protocol TBT	13320
 SADC Trade Protocol TBT Annex	13320
 SADC Trade and Transport Facilitation Project	13655
-SADC Treaty	12597,18,357
+SADC Treaty	12597,18,357,1854
 SADC Tribunal	961
 SADC Troika. Summit	12640
 SADC UMOA UMOA UMOA UMOA Namclear	6938
@@ -412,16 +436,20 @@ SADC WRC-27	8881
 SADC Women and Youth Empowerment	12918
 SADC Workshop-	12972
 SADC and AU	958,3570,8767
+SADC and AU-IBAR	14818
 SADC and Africa	13310
 SADC and African	4528,7984
 SADC and CMA	11130
-SADC and COMESA	7965,4997,358,192
+SADC and COMESA	7965,4997,358,192,1306
+SADC and COMESA Regional Member States	14729
 SADC and COMESA Secretariats	12962
 SADC and CRASA Secretariats	26,1,1
+SADC and Codex Alimentarius	14818
 SADC and East African	3636,9384
 SADC and FAO	13049
-SADC and IOC	14267
+SADC and IOC	14267,551
 SADC and SADCAS	13068
+SADC and UNIDO	14721
 SADC the ICT Observatory	14504
 SADC the Kingdom of Eswatini	12395
 SADC's Regional Infrastructure Development Master Plan	10324
@@ -444,6 +472,7 @@ SADC. Em	2816
 SADC. Existing	6720
 SADC. Fifteen	9761
 SADC. H.E. President Dr. Herminie	10321
+SADC. Honourable Ms Mmamoloko Kubayi	14826
 SADC. L'enquête	13804
 SADC. Leadership	11888
 SADC. Mission	13133
@@ -454,9 +483,11 @@ SADC59	9399
 SADCAS	12969,99,252,194
 SADCC	12671
 SADCMEL	13320
-SADCMET	13320
+SADCMET	13320,1416
+SADCMET Water Laboratory Association	14736
 SADCRTGS	6938
 SADCRegion	9292
+SADCSTAN	14736
 SADCSafety	11215
 SADC’ Highlights	12962
 SADC’s EMIS Technical Committee	13310
@@ -510,6 +541,7 @@ Sumit Sadana	10489
 Summit of SADC Heads of State and Government	10321,2319
 Support SADC Regional Integration and Sustainable Industrial	12918
 Support for SADA	1264
+T Science and Technology SADC Southern African	14729
 TH ORDINARY SUMMIT OF SADC HEADS	12640
 Tempo Real da SADC	11465
 Third SADC Preparatory Meeting	9292

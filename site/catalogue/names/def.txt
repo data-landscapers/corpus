@@ -1,12 +1,17 @@
+A. Defined Contribution Pension Scheme	14843
 A. Definitions	11995
 A. Market Definition. The Court	13461
+A. Prime Minister’s Office Ministry of Defence	14753
 A.1 Definitions	8840
+A.2 Define	14723
+A.3 Define	14723
 ABBREVIATIONS AND DEFINITIONS	12902
 ABBREVIATIONS AND DEFINITIONS Access Control	12419
 ACCESS DEFICITS IN URBAN AND RURAL	11572
 ACRONYMS III DEFINITION OF TERMS IV	13310
 AFFECTED TRANSACTIONS AND OFFERS Definitions	3714
 AIDS Acquired Immune Deficiency Syndrome DMMU	1988
+ANNEX Concepts Definitions	14836
 APPLICATION AND OBJECTS OF ACT Definitions	11182
 ASSUNTOS JURÍDICOS E DEFESA DOS CONSUMIDORES	11531
 Abbreviation Definition AGR Annual Growth Rate	11228
@@ -34,6 +39,7 @@ Associação Nacional de Defesa	11516
 Authoritative Definitions	3861
 Average Default Rates	10718
 Average Default Tarrifs Average	2776
+B. DEFINITIONS	14825
 BT DEFECTUEUX	10975
 BUDGET DEFICIT	5655
 BUSINESS RESCUE PROCEEDINGS Application and Definitions	3714
@@ -57,7 +63,7 @@ CNSS. RESULTATS DEFINITIFS DU RGE	10875
 COMMENTS Policy and Define	11857
 COMPETiTiON POLiCY Defining	961
 COMPONENTS DEFINED SN Type	7845
-CONCEPTS AND DEFINITIONS	11192
+CONCEPTS AND DEFINITIONS	11192,3640
 CONCEPTS ET DEFINITIONS VIII CARTE DES	10847
 CONTENTS OF ACT Definitions Purpose of Act	11178
 CORE COMPONENTS Components IHE Definition	1009
@@ -123,6 +129,7 @@ DE LA DEFINITION ET	13293
 DE LA LISTE ELECTORALE DEFINITIVE	10923
 DE LA LISTE ELECTORALE DEFINITIVE Mesdames	10923
 DEFENCE	3225
+DEFENCE AND HOME AFFAIRS DIVISION	14778
 DEFENCE AND SECURITY PORTFOLIO COMMITTEE	13131
 DEFENCE AND WAR VETERANS AFFAIRS	13420
 DEFENCE FORCES MEDICAL INSURANCE SCHEME Data	7167
@@ -208,6 +215,7 @@ DEffects	5349
 DG Definition	11986
 DSA. Default	13868
 Data Classification Data Classification Define	6432
+Data Definitions	14790
 Data Element Definitions	12360
 Data Element Definitions Data	12360
 Data Explanation Example Good Poor Definition	12360
@@ -220,7 +228,7 @@ DeFiLlama	11117
 Death of Member of Defence Force	12226
 DefExpo	11579
 Defamation	13739,334
-Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180
+Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180,77,2
 Default Efficient Business Processes Privacy Data	12359
 Default GBB Hosting	10157
 Default Infrastructure Sharing Bring Your Own	12359
@@ -233,6 +241,7 @@ Default TTC	12364
 Default Used	13868
 Default User	13868
 Default and Recovery Statistics	11310
+Default2	14726
 Defaulting Party	12400
 Defaults	10718,1258
 Defeat	1000
@@ -246,7 +255,7 @@ Defective	14422
 Defective Commodities	12900
 Defects	13385,1148
 Defeito	11461
-Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665
+Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665,396,25
 Defence AI Innovation Hub	4528,7984
 Defence Act	11289
 Defence CHAPTER TWENTY FOUR	14409
@@ -266,6 +275,7 @@ Defence Minister Ahmed Moalim Fiqi	10701
 Defence Minister Dominic Nitiwul	8595
 Defence Minister Mr. Ambrose Lwiji Lufuma	13561
 Defence Web	9399
+Defence and Home Affairs Division	14778
 Defence and Internal Affairs	1015,195,10899
 Defence and Public Safety	14664
 Defence and Security	962,698,977,2995,6122,797,29,5,1,5,15,1,51
@@ -284,6 +294,7 @@ Defence. Despite	3583
 Defence24	9399
 DefenceDevelopmentDisaster	11215
 DefenceWeb	9399
+Defences	14713
 Defend	6410,4311
 Defend Rights and Security	1566
 Defend and Promote the Right	802
@@ -344,14 +355,14 @@ Deficiency	2093
 Deficiency Syndrome NHC National Health Council	396
 Deficient	9123
 Deficientes Mo	12201
-Deficit	5655
+Deficit	5655,9081
 Deficit Financing	13474
 Deficits	961,10584,647
 Deficiência	10754,23,644,1399
 Deficiência Author	12797
 Deficiência O Censo	11577
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160,176,35,6,1
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -370,17 +381,19 @@ Define the Define the Cybersecurity Implement	1777
 Define the ICT	13295
 Define the IT Strategy	12359
 Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24,134,651,270,4,554
+Defined Benefit Pension Plan Provision	14736
 Defined Benefit Schemes	14546
+Defined Contribution Pension Scheme	14828,15
 Defined Milestones and Timelines	12356
 Defined Standards	12419
-Defines	396,2662,7850,314,47,1658,258,200
+Defines	396,2662,7850,314,47,1658,258,200,1392
 Defines the Application Programming Interface	11269
 Defines the Year	7445
 Defini9õea Para	11514
 Definiciones	163
 Definición	1701
 Definido	11569
-Defining	226,170,565,282,534,1874,2026,23,839,432,2266,522,1218,156,23,699,151,2,232,882,173
+Defining	226,170,565,282,534,1874,2026,23,839,432,2266,522,1218,156,23,699,151,2,232,882,173,1428
 Defining AI and Automated Systems	6442
 Defining Actors	12139
 Defining Artificial Intelligence	3651
@@ -390,18 +403,19 @@ Defining Choice for Africa’s Future	6690
 Defining Digital Transformation	5349,351
 Defining Era	4856
 Defining FinTech	12444
-Defining Fintech	12444
+Defining Fintech	12444,2375
 Defining Matters	5700
 Defining Moment	8978
 Defining Objectives and Areas of Application	2958
 Defining Use Cases	1009
 Defining and Measuring Artificial Intelligence	11140
+Defining the Mauritian Broadband Ecosystem	14723
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
 Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676
 Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,16,3,8,3,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,16,7,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,4,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851
 Definitely	12214,1173
-Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5
+Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5,726,37,61
 Definition ABIS Automated Biometric Identification System	11986
 Definition Acceptance	12364
 Definition Appendix	11857
@@ -463,7 +477,7 @@ Definition of SEP Section	3161
 Definition of Sensitive Personal Data	11880
 Definition of Terms	12302
 Definition of Terms Article	12616
-Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213
+Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213,130,35
 Definitions Artificial Intelligence	13347
 Definitions Asbestos Asbestos	1988
 Definitions CHAPTER	11255
@@ -491,7 +505,7 @@ Definitions and Scales Annex II	12214
 Definitions of Emerging Technologies	12210
 Definitions of Emerging Technologies Emerging	12210
 Definitions of Key Terms	14434
-Definitions of Terms	14434
+Definitions of Terms	14434,381
 Definitions the Alternative Disputes Resolution Framework	12301
 Definitions the National	5665
 Definitions. Geneva	13300
@@ -577,6 +591,7 @@ GLOSSARY Term Definition Access Control Role-based	12675
 GOAL DEFINITION	899
 GUIDANCE NOTES FOR ELECTORAL PURPOSES DEFINITIONS	1630
 Gazette. Section VIII Defined Terms Any	11233
+Global Definition	14819
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Glossary of Definitions	1597
 Glossary of Definitions and Statistical Items	12338
@@ -595,6 +610,8 @@ Heroes and Defence Forces Road Safety Enforcement	9394
 High Definition Audio	34
 Honourable Minister of Defence	7847
 House of Representatives Defence	4188
+Human Immuno Deficiency Virus	14714,1
+Human Rights Defenders	14742
 Human Rights Defenders Network Strategic Plan	11586
 I. DEFINITION DES CONCEPTS ET INDICATEURS	13890
 I. Definitions Article	6612
@@ -612,8 +629,10 @@ IV. DEFINITION OF KEY TERMS USED	12939
 Immune Deficiency Syndrome AMICAALL Alliance of Municipal	12970
 Implementation Shall Define Budget Outcomes	8723
 India-Africa Defence Minister's Conclave	11579
+Indian Defence Attaché	14805
 Indicator Indicator Definition Years	236
 Indicator Name Definition	13332
+Infection and Acquired Immuno Deficiency Syndrome	14714,1
 Information Protection Defining Access Control Policies	11231
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
 Institutional Cost of Deferred Reform	10062
@@ -659,18 +678,20 @@ MALES VS FEMALES DEFINITIONS Adult	12409
 ME2 Define	12917
 MINISTERE DE LA DEFENSE ET DES	8237
 MONITORING AND EVALUATION Definition of Indicators	962
+MSB Defined Benefits Pension Contribution Scheme	14736
 Maiden Mini Defence Expo and Industry Interaction	13562
 Maio. Definição da Visão	11526
 Malawi Defence	12979
 Malawi Defence Force	7870,5190,62
 Mange Defendant	14675
+Mauritian Definition	14819
 Maximize Chances of Defeating Ruto	7869
 Members of Defence Forces	12226
 Message Priorities TTC Priority Default Range	12364
 Microsoft Defender	8405
 Microsoft and Oracle. The Department of Defence	6477
 Microsoft’s Digital Defense Report	8711
-Minister of Defence	7845,5717,386
+Minister of Defence	7845,5717,386,796,9,88
 Minister of Defence Dr. Feston Kaupa	6813
 Minister of Defence and War Veterans Affairs	13562
 Minister of Defense of Djibouti	13878
@@ -679,7 +700,7 @@ Minister of State for National Defence of Guinea Bissau	11579
 Ministerio de Defensa Nacional	6841
 Ministro da Defesa Nacional	4147
 Ministry Of Defense Unveils Information Systems	5270
-Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984
+Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984,284,17
 Ministry of Defence and Security	2736
 Ministry of Defense	1000,2604,9710
 Ministry of Justice. Defence	11607
@@ -710,6 +731,7 @@ National Defence and Security Policy	12779
 National Defense	1777
 National Defense Authorization Act	5773
 National Defense and Education	6066
+National Definition	14819
 National ICT Policy Definitions Computer Incident	13346
 National Security and Defence The Ministries	13346
 National Security and Defense	3861
@@ -720,6 +742,7 @@ Nigeria’s Minister of Defense	8120
 OBJECTS AND APPLICATION Definitions	11179
 OECD AI Definition	7548
 Open Access and Open-Source Definition	12389
+Open By Default	14726
 Open By Default and Protected	11854
 Operational Definition of Legal Identity	10819
 Operational Definitions	5665,8326
@@ -731,6 +754,7 @@ Outcome Metric Definition	4301
 PART I PRELIMINARY PROVISIONS Definitions	12899
 PDO Indicators Indicator Name Definition	10829,135,891,1476
 PHISHING WEBSITE DEFACEMENTS SECURITY BREACH ABNORMAL	9125
+PLATFORM OPEN BY DEFAULT	14752
 PLA’s National University of Defense Technology	8510
 PORTANT DEFINITION DES CONDITIONS DE FOURNITURE	10895,11
 PRELIMINARY PROVISIONS Definitions	12919
@@ -767,6 +791,7 @@ RTCom Defense	9068
 Reality Defender	7064,47,32
 Redação Forças de Defesa	2816
 Reducing Default Rates	7334
+Regional Definition	14819
 Regional Network Provider MOD Ministry of Defense	1000
 Rejection Reasons CODE DEFINITION DEFINITION AGNT	12364
 Release Criteria Define	11952

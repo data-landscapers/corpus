@@ -1,3 +1,6 @@
+A. Defined Contribution Pension Scheme	14843
+A. Penalty	14717
+A. State Age Pension	14843
 ADMINISTRATIVE NON-COMPLIANCE PENALTIES Part A General	11181
 ADMINISTRATIVE PENALTIES	8354
 AFFAIRES PENITENTIAIRES	13908,32
@@ -11,14 +14,18 @@ Administrative Penalties	12447,12,170,108,469
 Administrative Penalties and Tax Offences Division	12629
 Africa. Pension	8837
 Afrique. Pendant	2842,7800
+Age Pension SEZ Special Economic Zone	14828,3
 All of Penda Health	11578
 Amazon. Pendant la COVID	2514
 Arabian Peninsula	1741
+Arrears Pensions and Gratuity	14774
 Asia South-Eastern Asia Phnom Penh High	10840
 Assets of Pension Funds	2775
 Avoidable Penalty Costs	14546
 B. Fixed Penalty Notice	7845
 B. Penal	14484
+B. Penalty	14843
+B. State Age Pension	14843
 B.1 Mobile Subscriber Penetration Malawi	14674
 BROADBAND PENETRATION	3862
 BWA Data Subscriptions and Penetration	2776
@@ -31,7 +38,13 @@ Bambanani Pension Owned Com- N	4896
 Banda Larga Taxa de Penetração	11418
 Bank Fund Vacant Group Pension Fund	4896
 Banque Centrale. II.1.3.4. Pension	13452
-Basic Retirement Pension	6458
+Basic Invalid Pension	14828
+Basic Invalidity Pension	14742
+Basic Orphans’ Pension	14742
+Basic Retirement Pension	6458,8284,6,80,13
+Basic Retirement Pension The Income Tax	14828,3
+Basic Retirement Pension. Voter	14841
+Basic Widows Pension	14742
 Bidang Pendidikan	2093
 Blu Penguin	3304
 Botswana Public Officers Pension Fund CEDA	12540
@@ -41,6 +54,7 @@ Broadcasting Licensees Mobile Money Penetration	6946
 Burundi. Pendant	13428
 Burundian Penetration	13314
 C TITRE XIV. DES DISPOSITIONS PENALES	13293
+C. Penalty	14717,92
 CAPÍTULO II Disposições Penais Materiais Artigo	6970
 CEO of EcoCloud and Peng Xiao	1639
 CHAPTER Il CIVIL AND PENAL PENALTIES	10974
@@ -59,6 +73,8 @@ Cape Peninsula University of Technology	8130,4048
 Capital Penda and Zimba Women	9781
 Cellular Penetration	12395,657
 Center for Social Pensions	11855
+Central Pensions Administration Board	14841
+Central Pensions Administration Bureau	14841,2
 Centro Nacional de Pensões Sociais	11855
 Centro Penitenciario	4209
 Cesar Pensar Camula	2816
@@ -73,6 +89,7 @@ Code Penal	13292
 Code of Penal Procedures of Burundi	13313
 Codes and Others Schedule of Penalties Schedule of Fees	9109
 Collateral Haircut Penalty	12882
+Commissioning and Maintenance of Pension	14766
 Comoros Pension Fund	13742
 Complaints Handled Total Resolved Pending No	6946
 Conduct Penetration Testing	4610
@@ -85,18 +102,26 @@ Código Processos Penal	9176
 Código de Processo Penal	6970,4612
 Código de Processo Penal. Artigo	6970
 D.G. DE INSTIT. PENITENC.-Concepto	4209
+DA. Penalty	14717
 DAO Pendant	10876
 DES SANCTIONS PENALES	14417
 DIRECTIVO JUSTICIA PENIT. C. REGISTROS	4209
 DISPOSITIONS ADMINISTRATIVES ET PENALES CHAPITRE	13781
 DISPOSITIONS PENALES Art	436
+Death Penalty	14742
+Death Penalty Act	14742
 Debt Pension Assets Ratio	11134
+Defined Benefit Pension Plan Provision	14736
+Defined Contribution Pension Scheme	14828,15
 Device Penetration	3487
 Digital Penalty Points	14340
 Digital Penetration	3796
 Digital Skills Penetration	4528,7984
+Digitalisation of Fixed Penalty Notice	14830
 Director of Personnel Expenditure and Pensions	9513
 Direito Penal	11358
+Disability Pension	14774
+Disability Pension System	14774
 Disponibilité de Pendant	14488,1,1
 Disponibilité des Pendant	14490
 Disposições Penais	11374
@@ -114,6 +139,7 @@ East Africa Pentecostal	7167
 East African Pentecostal	7167
 Econet Site Fund Zimbabwe Group Pension	4896
 Econet Willowvale Group Pension Fund	4896
+Emoluments and Pensions Act	14828
 Emplacement des Pendant	14489,1
 Enforcement and Penalties	1652
 Enforcing and Penalizing	11857
@@ -122,6 +148,7 @@ Ex. Pensador	7240
 Existence de Pendant	14488,1,1
 Express Penalty Scheme	3572
 F Pendant	13300
+F. Penalty	14717
 FEES CHARGES AND PENALTIES SECTION	12484
 FINCORP and Public Service Pension Fund	11134
 FINCORP and Public Service Pension Fund. Ms	11131
@@ -137,7 +164,9 @@ Fixed Data Subscriptions and Penetration Rate Fixed	2776
 Fixed Line Data Subscriptions and Penetration	2776
 Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Network Voice Subscription and Penetration Rate	2776
+Fixed Penalties	14828,3
 Fixed Penalty Notice	7845
+Fixed Penalty Notice GBV	14760
 Fixed Penalty Notices	14267
 Fixed Voice Penetration Rate	2776
 Fixed Voice Subscriptions Fixed Voice Penetration	2776
@@ -151,11 +180,14 @@ Government Agency Malawi Pension Fund Pension	13053
 Government Institutions Pension Fund	12466
 Government Pension Investment Fund	12376
 Government Pensions Administration Agency	10102
+Ground Penetration Radar	14736
 Group Pension Fund	4896
 H Penalties	13495
 Helensvale Pension Owned Vacant Hotel	4896
+Hon. Avinash Ramtohul Hon. Lutchmanah Pentiah	14753,88
 Honourable Raj Pentiah	9658
 I- PENAL SANCTIONS SECTION	10974
+ICT Penetration	14739
 II.1.3.4. Pension	13452
 ITU Penetration	11857
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
@@ -165,6 +197,7 @@ Increased PENTA1	10776
 Indecis Q56 Pensez-vous	13390
 Indecis Q57 Pensez-vous	13390
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
+Independent Pensions Regulatory Authority	14841,2
 Industrial Pension Owned Industrial Stand	4896
 Infrastructure Test Penetration	11153
 Instituciones Penitenciarias	4209,2632
@@ -177,7 +210,10 @@ International Pension Portability	13474
 Internet Penetration	4794,7420,31,1101,1
 Internet Penetration Rate	6000,6453,892
 Internet. Pendant	11110
+Introduction of State Age Pension	14828
+Invalid’s Basic Pension	14774
 JUEZ DE VIGILANCIA PENITENCIARIA	4209
+Jian Peng	14769
 Job Creation Strategy NPA National Pensions	12964
 Junho. A PENSC	795
 Jurnal Hasil Penelitian	2093
@@ -191,13 +227,16 @@ Legislação Penal	10747
 Lei Penal	539,255,10569
 Lei Processual Penal. CAPÍTULO IV ELEMENTOS	549
 Links National Pension Scheme Authority	12454
+Liquid Penetrant Testing Magnetic Particle Testing	14736
 MINSAP Ministério da Saúde Pública. PENSIS Plano	11543
+MSB Defined Benefits Pension Contribution Scheme	14736
 Malawi Penal Code	13040
 Malawi and Zambia Penal Codes	13040
 Malawi’s Penal Code	13040
 Markus David Pendukeni	12478
 Matéria Penal. Artigo	6970
 Matéria Penal. CAPÍTULO V Disposições Transitórias	6970
+Mauritius BRP Basic Retirement Pension CERT-MU	14828,3
 Military Pension Assistance for World Wars	12405
 Millions and Penetration Rate	2776
 Minister of Pensions	13040
@@ -232,9 +271,17 @@ National ID Achieves Breakthrough Penetration and Everyday	13095
 National Pension Fund and Medical Aid Scheme	12327
 National Pension Scheme	6458,6506
 National Pension Scheme Authority	13465
-National Pensions Act	12964
+National Pension and Provident Fund	14841
+National Pension and Provident Fund. En	14841
+National Pension and Provident Fund. Non	14841
+National Pension and Provident Fund. Rien	14841
+National Pensions	14843
+National Pensions Act	12964,1753,23,88,3,10,2
+National Pensions Act. Ils	14841
+National Pensions Fund	14828
 National Pensions Scheme Act No.7	1988
 National Pensions Scheme Authority	13510
+National Pensions and Provident Fund	14841
 National Traffic Point-Based Penalty Management	12200
 National Traffic Point-Based Penalty Management System	12200
 Nombre de Pendant	14488,1,1
@@ -247,7 +294,7 @@ Nyabira Pension Owned Vacant Residential	4896
 O Código de Processo Penal	9176
 O Pensador School	7262
 O Pensador School No	7262
-OFFENCES AND PENALTIES	1333,141,10573
+OFFENCES AND PENALTIES	1333,141,10573,2680
 OFFENCES AND PENALTIES FOR PETROLEUM OPERATIONS	11976
 OFFENCES AND PENALTIES OF GENERAL APPLICATION	11976
 OFFENCES AND PENALTIES Offences	12459
@@ -296,6 +343,7 @@ PENSIONS AND GRATUITIES REPORT	14546
 PENTAVALENT	13300
 PRELUDE The Penal Code	13963
 PROCEDURE PENALE EN MATIERE DE CYBERCRIMINALITE	13719
+Payment and Pension Increases	14828
 Payroll and Pension Data	10829
 Pen Interview PCMA Publicity	11192
 Pen Testing	4610
@@ -312,7 +360,7 @@ Penalidades	11383,60,13
 Penalizar	1701
 Penalizações	4274
 Penalizing	6362
-Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25,134,8,98,278,378,26,70,225,816,179
+Penalties	1,15,496,61,778,123,333,1354,553,896,341,608,1775,693,1996,494,662,100,578,286,58,163,25,134,8,98,278,378,26,70,225,816,179,114
 Penalties Apply	12454
 Penalties CHAPTER	11190
 Penalties Ibrahim	9522
@@ -324,9 +372,12 @@ Penalties for Non-Compliance	12389
 Penalties for Non-Performance	11995,1479
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
-Penalty	10814,367,795,555,98,656,1309
+Penalty	10814,367,795,555,98,656,1309,123
 Penalty Notice	7845
 Penalty Payments	12333
+Penalty Point System	14753,40
+Penalty Points System	14845
+Penalty Points System. Accordingly	14774
 Penalty Regimes	3861
 Penalty Regimes Negligence	3861
 Penalty Regulations	1900
@@ -360,6 +411,7 @@ Penelope Campbell	5851
 Penes	14479
 Penetration	236,1627,77,836,1834,2127,209,2177,2734,538
 Penetration Infrastructure IN6	11857
+Penetration Metrics	14819
 Penetration Number of Adults	11857
 Penetration Quarterly	11952
 Penetration Rate	2776,3895
@@ -391,9 +443,9 @@ Penser	13390,385
 Pensez	747
 Pensez-vous	13300,90
 Pensioen Fondse	11255
-Pension	418,3469,2451,600,1043,1621,1183,27,319,845,278,129,14,12,126,62,297,159,70,267,1046
+Pension	418,3469,2451,600,1043,1621,1183,27,319,845,278,129,14,12,126,62,297,159,70,267,1046,300,26,47
 Pension Arrears and Gratuities	13122
-Pension Fund	13108
+Pension Fund	13108,1630,8
 Pension Fund B	13108
 Pension Fund Depreciation	4896
 Pension Fund Regulatory and Development Authority	7981
@@ -406,8 +458,10 @@ Pension Online Services and Job Portals	10785
 Pension PART IV	1220
 Pension Portability	13474
 Pension Reform Act	12145
+Pension Reforms	14828,3
 Pension Scheme	7695
 Pension Schemes	2775
+Pension System	14828
 Pension System I-11	10785
 Pension Test	12923
 Pension The Information Commissioner	13096
@@ -423,12 +477,14 @@ Pensionista Ressalta-se	12018
 Pensionistas	2816
 Pensionistas Formula A.3 Trabalhador Isento	12018
 Pensionistas IRPS Fórmula de Retenção	12018
-Pensions	10544,167,423,1203,72
-Pensions Act	14546
+Pensions	10544,167,423,1203,72,2308,44
+Pensions Act	14546,282,3,12
+Pensions Act. Le Independent Pensions Regulatory	14841
 Pensions Department	12663,1883
 Pensions Department of The National Treasury	14546
 Pensions Financial	6938
 Pensions Reform Act	11851
+Pensions Regulator	14828
 Pensions Review Act	13287
 Pensions and Gratuities	13122
 Pensions and Insurance	12409
@@ -456,7 +512,9 @@ Plan OAP Old Age Pensions OTP	12663
 Politics. Penguin Random House	12227
 Population Penetration Rate	2776
 Pourcentage Pendant	14488
-Private Pension Schemes Act	7845
+President Emoluments and Pensions Act The President	14828
+President’s Emoluments and Pension Act	14843
+Private Pension Schemes Act	7845,6872,92,19,3
 Private Pension Schemes Act FOURTH SCHEDULE	7845
 Processo Penal	5424
 Processo Penal. Lei	539
@@ -473,11 +531,15 @@ REVENUE STATEMENTS OF THE PENSIONS DEPARTMENT	14546
 Regular Security Audits and Penetration Testing	10721
 Regulation and Supervision of Seychelles' Pension Sector	7760
 Regulation of Pension Funds	13474
+Remeasurement- Pension Obligation	14736
+Remeasurement- Pension Obligation IPSAS	14736
 Report Test Penetration	11153
 Reserve Bank of Zimbabwe Mobile Money Penetration	940
 Responsabilidade Penal	11436
+Restructuring the Public Sector Pension Framework Proposed	14828
 Retirement Pension	12389
 Retraités Pensions	10711
+Revamping the National Pensions Fund	14828
 Risques Professionnels L'Office National des Pensions	13390
 Rita Penedo	11566
 Rollout of PEN-Plus for NCD	12729
@@ -492,6 +554,7 @@ SCHEDULE Table of Administrative Penalties THIRD SCHEDULE	587
 SECTEUR DES ASSURANCES ET DES PENSIONS	13390
 SECTION III DES SANCTIONS PENALES Article	13709
 SECÇÃO II RESPONSABILIDADE PENAL ARTIGO	3519
+STEERING COMMITTEE ON PENSION REFORMS	14843
 Salary A Pension	13108
 Sam Altman’s OpenAI. Penguin Press. Heermann	11050
 Sections of Contravention Administrative Penalty Act	587
@@ -499,12 +562,15 @@ Smart Phone Penetration	12453,892,1
 Social Pensions	11855,69,15
 South Sudan Penal Code Act	4042
 Stands Fund Land Pensrose Stands	4896
-State Age Pension	14267
+State Age Pension	14267,561,15
+State Age Pension Any	14843
 State Age Pension Estimate	14340
+Statutory Bodies Pension Funds Act	14736,92,3,12
 Statutory Penalties	11995
 Stoneridge Pension Owned Vacant Residential	4896
 Subscriptions Internet Penetration EAC Active Mobile	6946
 Subsriptions EAC Internet Penetration	6946
+Sur le National Pensions	14841
 Suspensão Condicional da Pena	3519
 T Pennington2	10793
 T With the National Pensions Act	12327
@@ -534,14 +600,17 @@ University of Pennsylvania	11140
 University of Pennsylvania Press	5242
 University of Pennsylvania's Wharton African Business Forum	7233
 Urbain Rural Total Pensez-vous	13390
+V. Penalty	14843
 VAPT Vulnerability Assessment and Penetration Testing	11952
 Vacant Hotel Pension Owned Vacant Hotel	4896
 Vacant Hotel Pension Owned Vacant Stand	4896
 Vacant Land Pension Owned Land Land	4896
 Vierge Marie. Pendant	13405
 Violations and Penalties	4610
-Vulnerability Assessment and Penetration Testing	10721
+Vulnerability Assessment and Penetration Testing	10721,4023
+W. Penalty	14843
 Wide Penetration of Social Media	11400
+Widow's Basic Pension	14828
 Willowvale Pension Owned N	4896
 Zambia Penal Code	13040
 Zambia Penal Code. Section	13040

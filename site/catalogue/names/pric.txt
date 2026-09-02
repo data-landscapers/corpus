@@ -23,6 +23,7 @@ Average Price	6946
 Average Producer Prices of Selected Products	2775
 Average Retail Market Prices of Selected Food	2775
 Average1 Retail Prices of Selected Petroleum Fuels	2775
+B. Bid Price	14802
 B. Fuel Prices	1828
 Base Price Code	13385
 Basic Prices Prices Adjusted	2775
@@ -30,10 +31,15 @@ Best Price Offer	7368,7331
 Best Price Offers	7368
 Bid Price	13185
 Bid Price Name of Bidder	13185
+Bid Prices	14766
+Bid Prices All	14778
+Bidders Bid Price	14778
+Bidder’s Name Price Quoted	14783
 Bidding Forms Price Schedule	13185
 Bidding Forms Price and Completion Schedule	13185
 Broadband Data Price and Last Mile Deployments	13295
 C and D Price Code	13385
+C. Consumer Price Index	14777
 CIP Price	13185
 CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
@@ -52,14 +58,16 @@ Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
 Company Share Price	4896
 Competition Drove Prices Down	14297
+Compilation of Services Producer Price Index	14777
 Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979,559,517,1298
 Consumer Price Index Manual	11258
+Consumer Price Index Recommendations	14777
 Consumer Price Index Survey	12962
-Consumer Price Indices	2775,10187
+Consumer Price Indices	2775,10187,1772
 Consumer Price Indices Kenya	2775
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
@@ -81,6 +89,7 @@ Current Market Prices	2775
 Current Prices	2775
 Custom Duties Unit Price	13185
 D-IND-ICT PRICES.01-2025-PDF-E.pdf	11563
+D. Producer Price Index	14777
 DAY VOLUME WEIGHTED AVERAGE PRICE	4896
 Dan Price	11154
 Data Bundle Prices Charged	11259
@@ -96,6 +105,7 @@ Domestic Fuel Prices	2775
 Domestic International Food Prices	13868
 Domestic International Fuel Prices	13868
 Drafting Transfer Pricing Legislation INTRODUCTION	573
+E. Price	14802
 EXW Price	13185
 Earnings and Consumer Price Indices Overview	2775
 Earnings and Consumer Prices	2775
@@ -169,6 +179,7 @@ Manufacturer’s Suggested Resale Prices	11036
 Manufacturing Price Code	13385
 Market Price Reference Catalogue	12956
 Market Prices	2775,2121
+Maximum Retail Price	14818
 Maximum Wholesale and Retail Prices of Bread	12930
 Mbps Average Price	11259
 MetroFibre Go Once-off Pricing	11259
@@ -201,6 +212,7 @@ Operators' Prices for Prepaid Daily Data Bundles	11259
 Ordnance Survey Blog. Prichard	12369
 Overall Producer Price Index	11152
 POST-PAID DATA PRICES	11211
+PPI Producer Price Index PSDS Public	14777
 PREPAID DATA PRICES	11211
 PRICE	11252,1143
 PRICES	962,10249,1849
@@ -212,11 +224,13 @@ Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281,103,25
 Price Adjustment Formula	13185
+Price Analysis and Monitoring Division	14839
 Price Changes	2775
 Price Code	13385
 Price Code Gr	13385
+Price Comparison	14783
 Price Developments	13060
 Price Developments Consumer	11131
 Price Developments Inflationary	11134
@@ -224,6 +238,7 @@ Price Eswatini Electronic Communications Services of Data	12395
 Price Flat Rate	9409
 Price Index	2775,8377
 Price Index CRDP Comprehensive Rural Development	11261
+Price Index MAURITIUS	14777
 Price Index PPL Private Pilot License	2775
 Price Information Capital Revenue	3583
 Price K10	22
@@ -231,6 +246,7 @@ Price K4.00	13496,2
 Price K40.00	13322
 Price K8.00	13350
 Price K80.00	13321
+Price Monitoring and Control Application’. Initiated	14750
 Price Nakfa	13954
 Price Name of Bidder	13185
 Price Negotiation Committee Established	12912
@@ -240,14 +256,17 @@ Price Schedule	13185
 Price Schedule Form Annex VI	14131
 Price Schedule Forms	13185
 Price Schedule. Question	7987
-Price Schedules	13185
+Price Schedules	13185,1581
 Price Stabilisation Account	14267
+Price Stabilisation Fund of Rs	14829
 Price Stability	13474
 Price Stability Average	11134
 Price Stability Financial Stability KPI	11131
 Price Stability Financial Stability Sustainable Income	11131
+Price Stability Safeguard	14744
 Price Stabilization Fund	13122
 Price Statistics	11237
+Price Statistics Expert	14777
 Price Statistics Section	12962
 Price Subsidy Reform	13332
 Price Transformation	12395
@@ -267,11 +286,13 @@ Priced	6690
 Priced Code	13385
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80,45,4,43
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
+Prices and Inflation	14734
 Prices and Other Charges	12629
 Prices and Other Charges Act	12535
+Prices for Recurrent Costs	14766
 PricewaterhouseCoopers	6893
 PricewaterhouseCoopers Zambia	2240
 PricewaterhouseCoopers. The Integrated Annual Report	13133
@@ -288,8 +309,11 @@ Pricing The Bank of Zambia	12364
 Pricing The Charges	12364
 Pricing for Data Protection Training	2987
 Pricing. Available	13461
-Producer Price Index	2775,8377,106,1704
+Producer Price Index	2775,8377,106,1704,1815
+Producer Price Index Public Sector Debt	14777
+Producer Price Index Recommendations	14777
 Producer Price Index SARB South African	11258
+Producer Price Indexes PSDS Public Sector	14777
 Producer Prices	2775
 Producer Prices Index	2775
 Producing Consumer Price Indices	11258
@@ -297,6 +321,8 @@ Project Specification Price Code	13385
 Project Specification PriceCode	13385
 Projection Specification Price Code	13385
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
+Purpose CPI Consumer Price Index CPIS	14777
+Purpose CPI Consumer Price Indexes DQAF	14777
 PwC Price Waterhouse and Coopers SDG Sustainable	1814
 Q1 African Prepaid Pricing Index	236
 Quantum and Price Indices of Recorded Sales of Agricultural	2775
@@ -326,6 +352,8 @@ SMARTPHONE PRICE	11262
 SOUTH AFRICAN PRICING	11252
 Sale Price Flat Rate	9409
 Screwdrivers Price Code	13385
+Section. Prices	14766
+Services Producer Price Index	14777
 Sewers Price Code	13385
 Sickles Price Code	13385
 Size of Price Per Number Band Spectrum	736
@@ -336,6 +364,7 @@ Spectrum Pricing and Renewals for Sustainable Investments	5390
 Spon's Civil Engineering and Highway Works Price	3583
 Standard Prepaid Data Bundles Prices and OOB	11259
 Standard Price	11259
+Statistics Consumer Price Index Dimensions	14777
 Statistics Price Index	2775
 Statistics South Africa. Producer Price Index	11258
 Strengthening Minigrid Pricing and Regulation Capacity	13810

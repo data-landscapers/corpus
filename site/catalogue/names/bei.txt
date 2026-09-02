@@ -22,7 +22,7 @@ Beijing Model	5242
 Beijing Municipal Government	9816
 Beijing Normal University	10295,1378,2594
 Beijing Orbital Twilight Technology Co	9816
-Beijing Platform for Action	11193,3379
+Beijing Platform for Action	11193,3379,170
 Beijing United Information Technology Co	13666
 Beijing Zhongguancun Laboratory	8277
 Beijing and Chinese AI	9284
@@ -35,7 +35,7 @@ Beijing. China	10373
 Beijing. Initiative	11154
 Beijing. Page	13331
 Beijing. Under	10444
-Being	236,519,488,496,219,30,1475,459,33,482,596,91,409,219,50,1032,584,17,9,23,1136,178,31,85,46,92,373,123,634,316,155,90,50,76,165,26,92,415,310,126,8,216,118,36,25,921,78,73,71,425
+Being	236,519,488,496,219,30,1475,459,33,482,596,91,409,219,50,1032,584,17,9,23,1136,178,31,85,46,92,373,123,634,316,155,90,50,76,165,26,92,415,310,126,8,216,118,36,25,921,78,73,71,425,781
 Being Offered	3862
 Being Offered S	3862
 Beira	1808,859,149,717,5951,2656,8,53,617,17,23,1,201
@@ -74,6 +74,7 @@ Certificate of Being Single	12333
 Cidades da Beira	1808
 Conselho Municipal da Beira	1808
 Consenso de Beijing	2816
+Continent. Being	14748
 DESCRIPTION OF THE DATA BEING REQUESTED	2709
 Disclaimer EXECUTIVE SUMMARY Being Africa	5247
 Edil da Beira	1808
