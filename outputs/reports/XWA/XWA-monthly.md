@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: XWA
 ledger_rows: 23
 not_held: 1
-record: 0fe2cc7c7641
+record: 9d2813a5a377
 ---
 
 # West Africa: monthly update, August – September 2026
