@@ -31,7 +31,7 @@ from datetime import date
 SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 
-# label -> href, in the order they appear. Countries, Regions and Topics are
+# label -> href, in the order they appear. Countries & Regions and Topics are
 # sections of the home page; Finance, Catalogue and Methodology are pages of their own
 # (Bill, 2026-08-19 — before that the last three were home-page anchors too).
 NAV = [
@@ -40,8 +40,13 @@ NAV = [
     # than at the home page's anchor. `/countries/` used to hold the 54
     # per-country folders and no index, which is why it was one of the three
     # dead links this file's own note warned a private copy would accumulate.
-    ("Countries", f"{SITE_BASE}/countries/"),
-    ("Regions", f"{SITE_BASE}/#regions"),
+    #
+    # **Renamed from "Countries" on 2026-09-02** (Bill): the region matrix moved
+    # to the bottom of this same page rather than getting an address of its own,
+    # so the label now names both halves of what `/countries/` holds. The URL is
+    # unchanged — `active` matching below keys on the "countries" prefix rather
+    # than the full label so every existing caller still lights this item up.
+    ("Countries & Regions", f"{SITE_BASE}/countries/"),
     # A page of its own since 2026-08-24 (Bill), the same move the countries
     # matrix made that morning: `/topics/` held the 48 topic and category
     # folders and no index, so the one URL a reader would guess 404'd while
@@ -54,9 +59,12 @@ NAV = [
     ("Methodology", f"{SITE_BASE}/methodology/"),
 ]
 
-# The key a page passes as `active`, matched case-insensitively against the label.
-# A page that is not in the nav at all — a country page, a topic page — passes
-# whichever section it belongs under, or None.
+# The key a page passes as `active`, matched case-insensitively against the
+# *start* of the label rather than the whole of it — "countries" against
+# "Countries & Regions" — so a caller naming a nav item's old one-word label
+# still lights it up after a rename. A page that is not in the nav at all — a
+# country page, a topic page — passes whichever section it belongs under, or
+# None.
 # label -> path on the main site. Pairs rather than bare slugs since 2026-08-27:
 # the Lab merged into Writing upstream (nav item removed here the same day), and
 # Writing's label became "Work in progress" while its path stayed /writing/ —
@@ -162,7 +170,7 @@ def chrome(active: str | None = None, depth: int = 1, *,
     items = NAV
     corpus_links = "\n".join(
         '      <a href="%s"%s>%s</a>'
-        % (href, ' class="active"' if label.lower() == a else "", label)
+        % (href, ' class="active"' if a and label.lower().startswith(a) else "", label)
         for label, href in items)
 
     return f"""  <header class="site-header{hdr}">

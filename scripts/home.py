@@ -2,7 +2,7 @@
 """home.py — the home page (documentation/design.md §3, §6).
 
     python scripts/home.py   ->  site/index.html
-                             ->  site/countries/index.html   (the 54-box matrix)
+                             ->  site/countries/index.html   (the 54-box matrix, then the region matrix)
                              ->  site/topics/index.html      (the taxonomy matrix)
 
 Promoted from prototypes/build-home-page.py once the wireframe was agreed;
@@ -10,15 +10,19 @@ revised 2026-08-11 to Bill's numbered change list. The shape, in order: the
 header mirrors data-landscapers.io's own nav with Corpus added on the left;
 a second nav bar for the corpus sections; a highlighted total/this-year/
 this-month stat bar; a two-line statement of what the corpus is; then
-Countries, Regions and Topics.
+Countries & Regions and Topics.
 
-**Two of those three sections are now a heading, an intro and a link**
-*(Bill, 2026-08-24)*. The country matrix and the topic matrix each moved to a
-page of their own on the same day, for the same reason: between them they were
-most of two viewports of boxes standing between a reader and everything below.
-They are still built here, from the same `load_stats()` counts, because they
-are the same object at a different address — `build_countries()` and
-`build_topics()` beside `build()`.
+**The country and topic matrices are now a heading, an intro and a link**
+*(Bill, 2026-08-24)*. Each moved to a page of their own on the same day, for
+the same reason: between them they were most of two viewports of boxes
+standing between a reader and everything below. They are still built here,
+from the same `load_stats()` counts, because they are the same object at a
+different address — `build_countries()` and `build_topics()` beside `build()`.
+
+**The region matrix followed the country one to `/countries/` on 2026-09-02**
+*(Bill)*, to the bottom of the page rather than a heading of its own on the
+home page: Countries and Regions are one nav item and one section now, and
+`build_countries()` writes both matrices, country boxes first.
 
 **Where the numbers come from.** `REPO-STATUS.md` will write nightly counts
 into `outputs/catalogue/stats.json` (osint-corpus-exchange/notes-for-osint.md #8). Until it does,
@@ -333,16 +337,10 @@ TEMPLATE = """<!DOCTYPE html>
     </div>
 
 {bulletin}
-    <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries</a></h2>
+    <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries &amp; Regions</a></h2>
     <p class="section-intro">{countries_intro}</p>
-    <p class="section-intro"><a href="{base}/countries/">Browse all 54 countries &rarr;</a></p>
-
-    <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">{regions_intro}</p>
-    <div class="boxes boxes--regions">
-{regions}
-    </div>
-    <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
+    <p class="section-intro"><a href="{base}/countries/">Browse all 54 countries &rarr;</a></p>
 
     <h2 class="section-heading" id="topics"><a href="{base}/topics/">Topics</a></h2>
     <p class="section-intro">{topics_intro}</p>
@@ -388,18 +386,24 @@ TEMPLATE = """<!DOCTYPE html>
 # per-country directories and no index, so it 404'd, and it was one of the three
 # dead links the nav carried until this morning. The nav points at it properly
 # now instead of at the home page's `#countries` anchor.
+#
+# **The region matrix joined it at the foot of the page on 2026-09-02** (Bill),
+# off the home page — see `build_countries()`. Same reasoning, one step later:
+# eight boxes are not worth an address of their own, but they were still most
+# of a viewport sitting between a reader and Topics on the home page. The nav
+# label became "Countries & Regions" the same day, the URL did not.
 COUNTRIES_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Countries — Data Landscapers</title>
-<meta name="description" content="Every African country in the Data Landscapers corpus, with the number of primary sources held for each.">
+<title>Countries &amp; Regions — Data Landscapers</title>
+<meta name="description" content="Every African country in the Data Landscapers corpus, and the eight regions and blocs, with the number of primary sources held for each.">
 <link rel="canonical" href="{base}/countries/">
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
-<meta property="og:title" content="Countries — Data Landscapers">
-<meta property="og:description" content="Every African country in the Data Landscapers corpus, with the number of primary sources held for each.">
+<meta property="og:title" content="Countries &amp; Regions — Data Landscapers">
+<meta property="og:description" content="Every African country in the Data Landscapers corpus, and the eight regions and blocs, with the number of primary sources held for each.">
 <meta property="og:url" content="{base}/countries/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
@@ -433,6 +437,19 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
     </div>
     <p class="caveat">{countries_caveat}</p>
 
+    <!-- The region matrix, moved off the home page on 2026-09-02 (Bill) to sit
+         below the countries it does not overlap with, rather than above them
+         where a reader wanting a country had to scroll past it. Same heading
+         level as the page's own h1 would be wrong — this is a second section
+         of the page, not a second page — so it takes the home page's own
+         .section-heading treatment instead. -->
+    <h2 class="section-heading" id="regions">Regions</h2>
+    <p class="section-intro">{regions_intro}</p>
+    <div class="boxes boxes--regions">
+{regions}
+    </div>
+    <p class="caveat">{regional} sources are tagged to a region or bloc rather than to a country, and are not counted in the Countries figures above.</p>
+
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
@@ -458,12 +475,14 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
 
 
 def build_countries() -> Path:
-    """`site/countries/index.html` — the matrix on a page of its own.
+    """`site/countries/index.html` — the country matrix, and the region matrix
+    beneath it (moved off the home page on 2026-09-02, Bill).
 
     Written into the directory that already holds the 54 per-country folders, so
     `/countries/` resolves and `/countries/AGO/` goes on resolving beneath it."""
     s = load_stats()
     by_place = s["by_place"]
+    regional = sum(v for k, v in by_place.items() if k.startswith("X"))
     built = date.today().isoformat()
     doc = COUNTRIES_TEMPLATE.format(
         base=SITE_BASE, built=built,
@@ -475,6 +494,9 @@ def build_countries() -> Path:
         countries=country_boxes(by_place),
         countries_intro=copy_inline("home", "countries-intro"),
         countries_caveat=copy_inline("countries", "caveat"),
+        regions=region_boxes(by_place),
+        regions_intro=copy_inline("home", "regions-intro"),
+        regional=f"{regional:,}",
     )
     out = SITE / "countries"
     out.mkdir(parents=True, exist_ok=True)
@@ -584,8 +606,6 @@ def build_topics() -> Path:
 
 def build() -> Path:
     s = load_stats()
-    by_place = s["by_place"]
-    regional = sum(v for k, v in by_place.items() if k.startswith("X"))
 
     built = date.today().isoformat()
     this_year, this_month = built[:4], built[:7]
@@ -600,9 +620,9 @@ def build() -> Path:
         styles=styles(0, "home.css"), ga=ga(),
         hero=copy_inline("home", "hero"),
         countries_intro=copy_inline("home", "countries-intro"),
-        regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),
+        regions_intro=copy_inline("home", "regions-intro"),
         topics_intro=copy_inline("home", "topics-intro"),
-        regional=f"{regional:,}", ntopics=len(taxonomy_lib.keys()),
+        ntopics=len(taxonomy_lib.keys()),
         counts_from=("<code>outputs/catalogue/stats.json</code>, generated "
                      + s.get("generated", "")
                      if "source" not in s else

@@ -17,21 +17,22 @@ The bulletin lists all new content published today and yesterday. The first buil
 
 ## countries-intro
 
-The repository covers all [54 African countries.](https://corpus.data-landscapers.io/methodology/lookups/#countries) For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
-
+The repository delivers detailed reports for all [54 African countries.](https://corpus.data-landscapers.io/methodology/lookups/#countries) For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked [indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators) have advanced, stalled or regressed over the past 12 months. The ***Non-state Finance*** Report lists all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
 
 ## regions-intro
 
-Sources tagged to a region, a bloc or the continent as a whole, rather than to a single named country — the African Union, ECOWAS, SADC and the other regional bodies, plus the broader continental and cross-regional tags. A source is filed under a country whenever it names one; these are what is left. Eight groupings are tracked here, from the four sub-regions to the continental and global tags.
+Content that covers regions or regional institutions rather than named countries is delivered in two reports for each of the five geographic regions, content specific to Sub-Saharan Africa, Africa, and relevant Global information. The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked [topics](https://corpus.data-landscapers.io/methodology/lookups/#topics) have advanced, stalled or regressed over the past 12 months.
 
 ## topics-intro
 
-All documents are classified according to Corpus' [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) which is used in all reports and in the catalogue.
+All documents are classified according to Corpus' [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) which is used in all reports and in the catalogue. Two reports are delivered for each of the 38 topics. The ***Monthly Update*** references all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to assess whether the [indicators](https://corpus.data-landscapers.io/methodology/lookups/#indicators) tracked for each topic have advanced, stalled or regressed over the past 12 months. The text in both these reports is reproduced from the country reports.
 
 ## catalogue-intro
 
 All the reports on this site have been built from documents collected into this repository. No other sources are used. To maintain the site the full text is maintained in a private repository - private because publishing it would involve copyright infringements. The catalogue gives you access to the original, published documents.
 
 ## finance-intro
+
+
 
 
