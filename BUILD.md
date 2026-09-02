@@ -165,7 +165,7 @@ Each Level-2 taxonomy slug issues `outputs/topics/{slug}/{slug}-monthly.md` and 
 
 **Precondition: stages 4 and 5 first, in the same run.** A topic document derived from a place document stage 4 has not moved is stale in a way nothing downstream can detect. The ordering *is* the integrity mechanism.
 
-**Nothing is authored here.** The monthly carries every `{section}--{subject}` narrative block a place holds; the progress report carries the subject's movement table and no prose. The one thing the script writes is the standing provenance line under each H1. It is a script, not a model stage: idempotent, and it never edits a place document. **Check G and nothing else** — the ledger checks belong to the place documents; there is no topic ledger and there is not meant to be one.
+**Nothing is authored here.** The monthly carries every `{section}--{subject}` narrative block a place holds; the progress report is sectioned by indicator rather than by place and covers the 54 countries only — one heading per indicator this subject's frame carries, each holding the countries with a Developments cell for it, read off that country's own indicator table. The one thing the script writes is the standing provenance line under each H1. It is a script, not a model stage: idempotent, and it never edits a place document. **Check G and nothing else** — the ledger checks belong to the place documents; there is no topic ledger and there is not meant to be one.
 
 Commit the topic tree.
 

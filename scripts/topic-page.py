@@ -54,8 +54,8 @@ KINDS = (("monthly", "Monthly update",
           "What moved this month, place by place — every block carried from that place&rsquo;s own "
           "monthly update."),
          ("progress", "Progress report",
-          "Twelve months of movement, place by place — each place&rsquo;s own movement table for "
-          "this topic."))
+          "Twelve months of movement, indicator by indicator — each indicator&rsquo;s own table "
+          "of the countries with evidence for it."))
 
 
 def front_matter(path: Path) -> dict:
@@ -234,8 +234,8 @@ def main() -> int:
             continue
         cat = L1.get(slug.split(".")[0], slug.split(".")[0])
         write(path, label[slug],
-              f"{label[slug]} across Africa: monthly and progress reports compiled place by place "
-              f"from the Data Landscapers base.",
+              f"{label[slug]} across Africa: monthly updates compiled place by place and progress "
+              f"reports compiled indicator by indicator from the Data Landscapers base.",
               e(label[slug]),
               f'<span class="mono">{e(slug)}</span> &nbsp;·&nbsp; {e(cat)} '
               f'&nbsp;·&nbsp; page built {built}',

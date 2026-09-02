@@ -2,32 +2,38 @@
 """topic-render.py — BUILD stage 6: the topic reports, lifted from the place reports.
 
 One Level-2 taxonomy slug is a unit; it issues two documents, `{slug}-monthly.md` and
-`{slug}-progress.md`, into `outputs/topics/{slug}/`. Sections are **places**, in alphabetical
-order by published full name, carrying that place's own prose for that subject.
+`{slug}-progress.md`, into `outputs/topics/{slug}/`.
 
 **Nothing is authored here** *(Bill, 2026-08-14)*. There is no summary, no cross-place block and
 no connecting sentence: a topic document is the place documents' material, sliced by subject and
-reordered by place, and that is the whole of it. The design note is
-`documentation/topic-reports.md`; this script is that note, executed.
+reordered, and that is the whole of it. The design note is `documentation/topic-reports.md`; this
+script is that note, executed.
 
 What each document carries:
 
   monthly    every `<!-- narrative: {section}--{subject} -->` block a place's monthly holds for
-             this subject, verbatim. **Every** one, not the first: a subject may sit in more than
-             one section of a place's report — the ledger carries a per-row `section` and five
-             units override it, putting BEN's `gov.regional` in four sections at once — so the
-             blocks are matched on the subject half of the key and printed in document order under
-             the one place heading. Matching on the key is also what makes the section irrelevant
-             here: no section map is consulted and no key is guessed.
+             this subject, verbatim, under a `## {place}` heading. **Every** one, not the first: a
+             subject may sit in more than one section of a place's report — the ledger carries a
+             per-row `section` and five units override it, putting BEN's `gov.regional` in four
+             sections at once — so the blocks are matched on the subject half of the key and
+             printed in document order under the one place heading. Matching on the key is also
+             what makes the section irrelevant here: no section map is consulted and no key is
+             guessed.
 
-  progress   the subject's movement table from each place's progress report, and no prose. Not by
-             the same argument as the monthly: a progress report keys its narrative by *section*
-             only — `<!-- narrative: infrastructure -->` covers cyber, satellite broadband and
-             data centres together — so there is no per-subject block in any of the 57 documents
-             to lift, and lifting the section block would carry four other subjects into a
-             single-subject document. The table is that document's substance in any case.
+  progress   **countries only** — the frame covers them and not the three regions
+             (`progress-report-redesign.md` §1), and a region's own progress report is not built
+             on the frame at all. Sectioned by **indicator**, not by place: each indicator this
+             subject's frame carries gets an `## {indicator}` heading and a `| Country |
+             Developments | Progress |` table, one row per country whose own progress report
+             carries a Developments cell for it — read off that country's rendered document, the
+             same table `render_progress_indicators()` writes, never rebuilt here. An indicator no
+             country has evidence for prints no heading, the same lift-only rule the monthly
+             follows. *(2026-09-02, replacing the section-keyed movement table the pre-indicator
+             country progress report used to carry.)*
 
-**The three regions appear in the progress report only**, because they issue no monthly.
+**Regions issue no monthly and, since 2026-09-02, sit in no topic progress report either** — their
+own progress report is slated to move onto topics rather than the country frame, at which point it
+rejoins this one.
 
 Usage:
   python scripts/topic-render.py                 write every slug's documents
@@ -41,6 +47,7 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import indicators_lib  # noqa: E402
 import vault_lib  # noqa: E402
 
 _spec = importlib.util.spec_from_file_location(
@@ -120,21 +127,28 @@ def monthly_blocks(text, subject):
     return out
 
 
-def movement_table(text, label):
-    """The lines under `### {label}` in a progress report, up to the next heading or block.
+def indicator_cells(text, topic, indicator):
+    """(developments, progress) for one (topic, indicator) pair, read off a rendered country
+    progress document's own indicator table — or None where that country's report carries no
+    developments for it.
 
-    Read off the rendered document rather than rebuilt from the ledger, because the point of this
-    stage is that it lifts: a table rebuilt here could differ from the one the place publishes,
-    and then two documents would state the same movement differently."""
-    out = []
-    for m in re.finditer(r"^### " + re.escape(label) + r"\s*$", text, re.M):
-        chunk = text[m.end():]
-        stop = re.search(r"^(#{2,3} |<!-- narrative)", chunk, re.M)
-        chunk = chunk[:stop.start()] if stop else chunk
-        rows = [ln for ln in chunk.strip().split("\n") if ln.strip()]
-        if rows and rows[0].lstrip().startswith("|"):
-            out.append("\n".join(rows))
-    return out
+    **Read off the document, never rebuilt from `indicators.csv`**, for the same reason the old
+    per-place movement table was always lifted rather than recomputed: a table rebuilt here could
+    disagree with the one the country publishes, and citations resolve at render time, not here.
+    The row is matched on its first two cells, which is exact because `indicator_id` is unique per
+    (subject, indicator-text) pair (`indicators_lib.frame()` refuses a duplicate) and this
+    function is always called with both cells drawn from the same frame row.
+
+    A ***No evidence*** row — Developments empty — returns `None`: it carries nothing to lift, the
+    same rule that has always kept an empty block out of a topic document."""
+    m = re.search(r"^\| " + re.escape(topic) + r" \| " + re.escape(indicator) +
+                  r" \| (.*) \| (.+?) \|\s*$", text, re.M)
+    if not m:
+        return None
+    developments = m.group(1).strip()
+    if not developments:
+        return None
+    return developments, m.group(2).strip()
 
 
 def period_of(texts):
@@ -198,15 +212,39 @@ def build_monthly(subject, label, today):
 
 
 def build_progress(subject, label, today):
-    countries, regions = units()
-    order = by_full_name(countries) + by_full_name(regions)
+    """Progress — one table per indicator, columns Country | Developments | Progress.
+
+    **Countries only** *(Bill, 2026-09-02)*. The indicator frame covers the 54 countries
+    (`progress-report-redesign.md` §1); the three regions still answer the old per-subject
+    movement ledger, which has no indicator to key a table on, and their own progress report is
+    slated to move onto topics rather than the country frame. Mixing the two table shapes under
+    one heading would misrepresent one of them as the other, so regions are simply absent here
+    until their report changes, rather than carried in a shape this document does not use.
+
+    The unit is the **indicator**, not the place: every indicator this subject's frame carries
+    gets its own `## {indicator}` heading, holding every country whose own progress report has a
+    Developments cell for it. An indicator no country has evidence for prints no heading at all —
+    the lift-only rule the monthly has always followed, extended from places to indicators."""
+    countries, _ = units()
+    order = by_full_name(countries)
     texts = {u: document(u, "progress") for u in order}
-    carried = [(u, movement_table(texts[u], label)) for u in order]
-    carried = [(u, t) for u, t in carried if t]
-    if not carried:
+    inds = [i for i in indicators_lib.frame() if i["subject"] == subject]
+    sections_out, seen_places = [], []
+    for ind in inds:
+        rows = []
+        for u in order:
+            cells = indicator_cells(texts[u], ind["topic"], ind["indicator"]) if texts[u] else None
+            if cells is None:
+                continue
+            rows.append((u,) + cells)
+            if u not in seen_places:
+                seen_places.append(u)
+        if rows:
+            sections_out.append((ind["indicator"], rows))
+    if not sections_out:
         return None, []
-    period, one_window = period_of([texts[u] for u, _ in carried])
-    places = [u for u, _ in carried]
+    places = by_full_name(seen_places)
+    period, one_window = period_of([texts[u] for u in places])
     out = [
         "---",
         f"title: {label} — progress report, {period}",
@@ -219,17 +257,20 @@ def build_progress(subject, label, today):
         "",
         f"# {label}: progress report, {period}",
         "",
-        f"*{len(places)} places. Every table below is carried verbatim from that place's own "
-        f"progress report; nothing is written here.*",
+        f"*{len(places)} countries. Each row below is carried verbatim from that country's own "
+        f"progress report, which answers a fixed frame of indicators over the period; nothing is "
+        f"written here. A country not listed under an indicator has ***No evidence*** on it in "
+        f"its own report.*",
         "",
-        rr.MOVE_VOCAB,
+        rr.PROGRESS_VOCAB,
     ]
     if not one_window:
         out += ["", "*The place reports do not share one window; the period above is the range "
                     "they span.*"]
-    for unit, tables in carried:
-        out += ["", f"## {rr.place_name(unit)}", ""]
-        out.append("\n\n".join(tables))
+    for indicator, rows in sections_out:
+        out += ["", f"## {indicator}", "", "| Country | Developments | Progress |", "|---|---|---|"]
+        for unit, developments, progress in rows:
+            out.append(f"| {rr.place_name(unit)} | {developments} | {progress} |")
     out.append("")
     return out, places
 

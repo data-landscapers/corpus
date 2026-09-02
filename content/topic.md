@@ -8,7 +8,7 @@ The second paragraph of *How to read these* carries a `{base}` link and has not 
 
 ## how-to-read
 
-Both documents are **derived views**. Every paragraph and every table row in them was written for, and checked in, the report of the place it appears under — nothing is written at the topic level, and no fact reaches this page that is not already sourced on the sentence that carries it. Sections are places, in alphabetical order.
+Both documents are **derived views**. Every paragraph and every table row in them was written for, and checked in, the report of the place it appears under — nothing is written at the topic level, and no fact reaches this page that is not already sourced on the sentence that carries it. The monthly's sections are places, in alphabetical order; the progress report's sections are the topic's own indicators, each holding the countries with evidence for it.
 
 ## no-documents
 
