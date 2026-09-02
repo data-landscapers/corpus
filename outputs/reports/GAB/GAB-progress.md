@@ -3,10 +3,10 @@ title: Gabon — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: GAB
-ledger_rows: 129
+ledger_rows: 130
 not_held: 27
 indicators: 121
-record: d53f1b2cbeff
+record: 477860f04812
 ---
 
 # Gabon: progress report, September 2025 – September 2026

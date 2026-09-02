@@ -3,10 +3,10 @@ title: Morocco — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: MAR
-ledger_rows: 143
+ledger_rows: 144
 not_held: 17
 indicators: 121
-record: 4601b27261e7
+record: a0f7bf79a0f4
 ---
 
 # Morocco: progress report, September 2025 – September 2026

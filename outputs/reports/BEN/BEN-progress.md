@@ -3,10 +3,10 @@ title: Benin — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: BEN
-ledger_rows: 111
+ledger_rows: 113
 not_held: 5
 indicators: 121
-record: 9cb712d0d6c9
+record: 6b3b5f1b4f8d
 ---
 
 # Benin: progress report, September 2025 – September 2026

@@ -3,16 +3,16 @@ title: North Africa — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: XNA
-ledger_rows: 9
+ledger_rows: 10
 not_held: 0
-record: a504f61a1e12
+record: 6322293ac9b1
 ---
 
 # North Africa: progress report, September 2025 – September 2026
 
 *Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 9 bodies, instruments and systems on this place's ledger, 9 changed position between 2025-09-01 and 2026-09-02, 0 did not, 0 carry no stated baseline, and 0 are ***Not held*** at both ends.*
+*Of 10 bodies, instruments and systems on this place's ledger, 9 changed position between 2025-09-01 and 2026-09-02, 0 did not, 1 carry no stated baseline, and 0 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 8 sources for this place in the window — 3 in the earlier half (2025-12 to 2026-02), 5 in the later (2026-07 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -58,6 +58,7 @@ Two Arab-League AI-ethics instruments sit on the ledger, adopted within weeks of
 |---|---|---|---|
 | Medusa submarine cable system — ViaTunisia (Bizerte–Marseille) segment | Under construction; EU CEF Digital co-financing of €9.6m against a €32m total project budget (the European Commission's own project record, correcting the €10m/~30% figure trade press had carried), project start 1 March 2023 | [Bizerte–Marseille segment operational, landing at Bizerte and connecting into Orange's Marseille interconnection hub; part of the wider 8,760km Medusa system, which the landing partner puts at 17 landing points across the northern and southern Mediterranean](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Advanced |
 | North Africa post-5G mobile network experience (Ookla) | Pre-5G-launch mobile network experience baseline (each market's own prior measurement) | [Combined 4G+5G median ended below the pre-launch baseline in Egypt, Morocco and Tunisia a year after their 5G launches, with 4G itself down 28% in Morocco and Tunisia; Algeria — whose own 5G licences were only awarded in December 2025 — alone improved](https://www.ookla.com/articles/5g-north-africa-2026) | Regressed, mixed |
+| Algerian 5G rollout | Not held | [Launched on USD 492 million of licences awarded to the three mobile operators (2025-12)](https://itweb.africa/article/mobilis-djezzy-ooredoo-lead-algerias-492m-5g-rollout/lwrKxq3YVEP7mg1o) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 

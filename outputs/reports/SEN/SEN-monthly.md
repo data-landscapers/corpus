@@ -3,9 +3,9 @@ title: Senegal — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: SEN
-ledger_rows: 31
+ledger_rows: 32
 not_held: 14
-record: 2a64df31dd8d
+record: fad5f1e1f657
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -112,6 +112,11 @@ Parliament's own systems entered the record for the first time, and only as a pu
 A national prize ceremony on 30 July presented a [Wolof and French AI tutor reachable by ordinary phone call with no internet, its curriculum validated by school inspectors and hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/). No user, pricing or evaluation figure is given, and the education ministry's role is asserted by the vendor rather than confirmed by it. The same readiness assessment records an [ethics committee as planned](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html), with no statute, membership or chair. The state's own AI build was presented abroad rather than at home: the Senegal AI Factory was [set out to an international AI-process meeting in Tokyo as the main component of the Senegal Digital Factory under the technology strategy's eighth priority programme, covering national AI capability, startups, applied research and training](https://www.pressafrik.com/New-Deal-Technologique-le-Senegal-devoile-la-Senegal-AI-Factory-devant-la-communaute-internationale-a-Tokyo_a309281.html), with no launch date, budget, compute location or partner commitment stated.
 
 What none of it runs under is a statute. A four-country comparative study presented on 10 August [found no AI-specific legislation in force or in draft in Senegal](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/), leaving the strategy stack and an ethics committee that is still only planned to carry the field between them.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+A French insurance-technology company [acquired Tanel, a Senegalese health-technology firm, in what the account calls a rare francophone health-technology exit](https://techcabal.com/2026/09/02/alan-tanel/). No price, range or cash-and-stock split was disclosed by either side and the company's revenue was withheld, so nothing here can be put against the sector's other exits. What the transaction does establish is a buyer outside the region taking a Senegalese health platform, which is the first such disposal on this ledger.
 <!-- /narrative -->
 
 ## Capacity

@@ -5,7 +5,7 @@ period: 2026-08-01 to 2026-09-02
 place: XNA
 ledger_rows: 3
 not_held: 0
-record: bc608c060998
+record: b2906a908b7a
 ---
 
 # North Africa: monthly update, August – September 2026

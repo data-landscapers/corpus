@@ -3,10 +3,10 @@ title: Senegal — progress report, September 2025 – September 2026
 compiled: 2026-09-02
 period: 2025-09-01 to 2026-09-02
 place: SEN
-ledger_rows: 120
+ledger_rows: 121
 not_held: 14
 indicators: 121
-record: 8f14b0fc59dc
+record: d41f3f4a2821
 ---
 
 # Senegal: progress report, September 2025 – September 2026
