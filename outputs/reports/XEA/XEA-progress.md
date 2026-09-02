@@ -5,7 +5,7 @@ period: 2025-09-01 to 2026-09-02
 place: XEA
 ledger_rows: 43
 not_held: 0
-record: f545271684a6
+record: 1fe0b71746ba
 ---
 
 # East Africa: progress report, September 2025 – September 2026
@@ -22,6 +22,10 @@ record: f545271684a6
 
 <!-- narrative: summary -->
 East Africa's ledger opens on a bloc that legislates for its digital single market at the technical level and stalls at the political one: the EAC's payments masterplan, cross-border data rules and monetary-union convergence process all cleared official or technical stages during the period, and none has reached a partner state's own adoption. Against that, the region's physical infrastructure moved without waiting for institutions — Horizon Fiber, DARE1, Seacom's Nairobi–Kampala route and the Paratus Goma–Mombasa corridor all entered or extended service, and a joint bank account now makes a shared communications satellite's funding deadline dated and visible. The [World Bank's own Implementation Status Report on its flagship regional digital-integration project records three years and US$162 million against not one governance instrument delivered, alongside an upgraded rating in the same document](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt). AI governance runs almost entirely through donor-convened alliances and university councils rather than through the EAC Secretariat, the one track that is not stalling.
+
+What the period also records is the bloc diverging where it has no instrument. Three East African revenue administrations now run [unharmonised electronic-invoicing regimes — Uganda phased, Kenya simultaneous, Tanzania its own](https://horneconomicreview.com/2026/08/19/uganda-adopts-phased-electronic-invoicing-rollout-contrasting-kenyas-simultaneous-approach/), inside a bloc whose payments masterplan assumes the opposite; and South Sudan [imposed a US$50 electronic-visa fee on citizens of Kenya, Uganda, Rwanda and the Democratic Republic of Congo](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/), a charge levied through a digital channel against a common market protocol that forbids it. Both blocs meanwhile state plainly that [gaps in internet access, digital awareness and technological inclusion continue to threaten the connected regional market they are building](https://www.burunditimes.com/digital-divide-persists-as-east-africa-expands-regional-tech-integration/), without putting a figure to any of them.
+
+Two things did move outside the institutional track. A [regional cybersecurity exercise ran across IGAD member states in late June 2026](https://www.lanation.dj/lanc-distinguee-lors-de-lexercice-regional-de-cybersecurite/), the first the base holds, though no scenario or finding from it is published. And Djibouti spent the period positioning itself as the region's hub — its port community system [cited as a global reference at an international maritime seminar](https://www.lanation.dj/djibouti-simpose-comme-reference-mondiale-de-la-digitalisation-portuaire-le-modele-dpcs-distingue-a-dar-es-salam/) and support sought from [the ITU and Smart Africa for its telecoms and artificial-intelligence agenda](https://www.wearetech.africa/en/fils-uk/news/tech/djibouti-seeks-itu-smart-africa-support-for-telecoms-and-ai-development) — on landing points and an incumbent that is still a monopoly rather than on an open market.
 <!-- /narrative -->
 
 ## Institutions and mandates
