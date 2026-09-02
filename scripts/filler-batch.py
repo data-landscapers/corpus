@@ -87,14 +87,37 @@ EXCHANGE = Path(os.environ.get("CORPUS_OSINT_XFER", r"C:\corpus-osint-xfer"))
 # The prompt names the runbook rather than relying on the trigger phrase: nothing in
 # CLAUDE.md maps "run the progress filler for {ISO}" to PROGRESS-FILLER.md, so a session
 # left to infer it might read a different procedure, or none.
+#
+# **The paragraph about not ending the turn is load-bearing** *(COG, 2026-09-02 19:07)*.
+# The first run under this driver spawned §6's six slices, ended its turn saying "I'll
+# pick up when their completion notifications arrive", and exited. That is the right
+# instinct in an interactive session and fatal in `-p`: there is no later turn to be
+# notified into, so the process ended and the harness killed all six sub-agents
+# (`killed: {system: 6}`). It ran 15 minutes, staged whatever had landed, wrote no run
+# CSV, claimed no queue cell — and reported success with `is_error: false`. Nothing but
+# the file checks caught it, and it would have repeated on every country.
 PROMPT = (
     "Read C:\\CORPUS\\PROGRESS-FILLER.md and run that procedure for {iso}, end to end, "
     "including every finishing step in section 8: lint the staged batch, commit and push "
     "the share, write the note for OSINT, set the {iso} row's '{col}' cell in "
     "logs/progress-report-log.csv to today's date, and write the Corpus log line. "
+    "\n\n"
+    "YOU ARE IN PRINT MODE, NOT AN INTERACTIVE SESSION. There is no later turn: when you "
+    "stop, the process exits and every sub-agent still running is killed on the spot. So "
+    "never end your turn with work outstanding, and never say you will pick something up "
+    "when a notification arrives — no notification can reach you. After you spawn the "
+    "section 6 slices you must keep working until every one of them has returned its "
+    "tally: wait on them, and if you are given a task id, poll it. Only then merge, audit "
+    "the cap, dedup, lint, and do the section 8 finishing steps. If a slice cannot be "
+    "waited on, run the slices one at a time in the foreground instead and accept that it "
+    "is slower; a slow country is worth more than a fast one that staged half a batch."
+    "\n\n"
     "You are running unattended from a batch driver, so there is nobody to ask: where you "
     "would have asked, take the conservative option and record it. Run {iso} and no other "
-    "country. Finish by printing one line: FILLER {iso} probed=<n> staged=<n> nil=<n>."
+    "country. A previous attempt may have left files already staged under "
+    "new-queue\\{iso}\\ — section 4's dedup covers that, so top the batch up rather than "
+    "restaging what is there. Finish by printing one line: "
+    "FILLER {iso} probed=<n> staged=<n> nil=<n>."
 )
 
 

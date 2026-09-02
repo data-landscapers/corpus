@@ -96,3 +96,10 @@ logs/.hold-cycle
 # NOT ignored — it is the append-only registry that keeps the shards stable, and losing it
 # would renumber every posting and rewrite every shard.
 outputs/names/
+
+# A filler run's own scratch: the slice tallies its sub-agents write back through, named
+# with a leading dot by the sessions themselves. The run CSVs beside them are the record
+# (PROGRESS-FILLER §7) and are tracked; these are working material for one run and are
+# gone by the next. Untracked because `filler-batch.py` faults a session that leaves the
+# tree dirty, and scratch nobody meant to keep would stop a batch on its own litter.
+logs/progress-filler/.*
