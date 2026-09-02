@@ -1,0 +1,56 @@
+filler-batch: 16 country(ies) queued from prep/progress-filler-queue.md
+  COG, GAB, GNQ, TCD, GIN, GMB, LBR, MLI, MRT, NER, STP, DZA, EGY, LBY, MAR, TUN
+  note: already searched, will be re-probed — COG (02/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: deadline 2026-09-03 07:00, 2 consecutive failures, no cost ceiling, STOP in logs/filler-batch
+
+=== COG — already run clean within 24h, skipping ===
+
+=== GAB — started 20:02:54 (timeout 120m) ===
+--- GAB PROBLEM in 41m — probed 62, staged 49 baseline + 76 progress, nil 1, $73.60
+    ! share left uncommitted
+
+=== GNQ — started 20:43:28 (timeout 120m) ===
+--- GNQ ok in 52m — probed 77, staged 60 baseline + 91 progress, nil 0, $106.39
+
+=== TCD — started 21:35:11 (timeout 120m) ===
+--- TCD ok in 52m — probed 76, staged 56 baseline + 100 progress, nil 0, $115.64
+
+=== GIN — started 22:27:09 (timeout 120m) ===
+--- GIN PROBLEM in 55m — probed 62, staged 54 baseline + 90 progress, nil 0, $111.15
+    ! lint-staged-queue: 1 finding(s)
+
+====================================================================
+filler-batch: 4 run(s), 2 clean — stopped: STOP present
+  wall 3.3h | $406.78 | median 52m a country
+  staged 219 baseline + 357 progress file(s) — undelivered in C:\corpus-osint-xfer\new-queue until Bill moves them
+  ledger: logs/filler-batch/2026-09-02-batch.csv
+  PROBLEM GAB: share left uncommitted
+  PROBLEM GIN: lint-staged-queue: 1 finding(s)
+  queue: 16 country(ies) still unsearched — DZA, EGY, LBY, MAR, TUN, CIV, CPV, GMB
+filler-batch: 14 country(ies) queued from prep/progress-filler-queue.md
+  COG, GNQ, TCD, GMB, LBR, MLI, MRT, NER, STP, DZA, EGY, LBY, MAR, TUN
+  note: already searched, will be re-probed — COG (02/09/2026), GNQ (02/09/2026), TCD (02/09/2026)
+  model claude-opus-5[1m] | one fresh session each | strictly serial
+  stop on: no deadline, 2 consecutive failures, no cost ceiling, STOP in logs/filler-batch
+
+=== COG — already run clean within 24h, skipping ===
+
+=== GNQ — already run clean within 24h, skipping ===
+
+=== TCD — already run clean within 24h, skipping ===
+
+=== GMB — started 23:22:26 (timeout 120m) ===
+--- GMB PROBLEM in 14m — probed , staged 4 baseline + 2 progress, nil , $15.74
+    ! claude exited 1
+    ! 'Filler Searched' still blank — the queue will offer GMB again
+    ! no run CSV written
+    ! GMB's batch not committed in the share: ?? new-queue/GMB/
+    ! Corpus tree left uncommitted: ?? logs/progress-filler/GMB-slices/
+
+=== LBR — started 23:36:41 (timeout 120m) ===
+--- LBR PROBLEM in 0m — probed , staged 0 baseline + 0 progress, nil , $0.00
+    ! claude exited 1
+    ! 'Filler Searched' still blank — the queue will offer LBR again
+    ! no run CSV written
+    ! Corpus tree left uncommitted: ?? logs/progress-filler/GMB-slices/
