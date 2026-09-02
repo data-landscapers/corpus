@@ -3,9 +3,9 @@ title: Central Africa — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: XCA
-ledger_rows: 7
+ledger_rows: 8
 not_held: 0
-record: 07adb9dbeef9
+record: b3933b61a2fa
 ---
 
 # Central Africa: monthly update, August – September 2026
@@ -57,4 +57,12 @@ BEAC's July accession to PAPSS had its first public test this month: a Camerooni
 
 <!-- narrative: systems--data-statistics -->
 A nine-day CEMAC/ILO workshop [closed in Pointe-Noire on 27 August](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301), producing a regional methodological guide and a preliminary roadmap toward quarterly labour-force surveys across the six member states — against the organisers' own statement that no member state currently runs one. The [World Bank-financed HISWACA workshop put informal employment above 65% of jobs bloc-wide and unemployment ranging from 1.1% in Chad to nearly 20% in Gabon](https://www.adiac-congo.com/content/statistiques-du-travail-les-pays-de-la-cemac-renforcent-leurs-capacites-en-la-matiere-171301).
+<!-- /narrative -->
+
+## Capacity and inclusion
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The region's own training institution came back into view on 4 August, when the ECCAS commissioner for gender and human development [visited the African Institute of Informatics in Yaounde and opened collaboration on education and digital skills](https://www.journaletudiant.com/enseignement-superieur-iai-cameroun-recoit-la-ceeac/). The institute is inter-state by construction — it is the one training body in this ledger the region owns rather than hosts. Nothing in the account carries an enrolment figure, a qualification, or a commitment beyond the visit.
 <!-- /narrative -->
