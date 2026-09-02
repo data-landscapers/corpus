@@ -1,0 +1,70 @@
+indicator_id,url,title,publisher,published,brief,why_not
+gov.policy--ict-strategy,https://www.uneca.org/stories/eca-officially-hands-over-the-national-data-governance-strategy-to-the-government-of-the-drc,ECA hands over SNGD,ECA,2025-11-13,progress,already the baseline document of a different indicator (data-governance-policy); more specific to data governance than ICT strategy generally
+gov.policy--data-localisation-policies,https://actu7.cd/,PSEN/SNIA validation (rebroadcast of mediacongo article),Actu7,2026-08-04,progress,an enabling framework not a localisation mandate — agent brief flagged it as tangential
+gov.legislate--ai-legislation-regulations,https://are.gouv.cd/wp-content/uploads/2023/05/04042023-ORDONNANCE-LOI-23-010-DU-13-MARS-PORTANT-CODE-DU-NUMERIQUE_compressed.pdf,Code du Numerique,ARE/Presidence,2023-03-13,baseline,only tangential AI touch (Art.12(4) assigns the National Digital Council an AI-ethics mandate); not dedicated AI legislation — UNESCO states no AI law/strategy adopted as of 2026-06-02; baseline recorded nil
+gov.legislate--legislation-enabling-data-interoperability,https://finances.gouv.cd/articles/article-20,Entree en vigueur de la facture normalisee,Ministere des Finances,2025-12-01,progress,fetched but JS-rendered stub with no article body — dropped headline-only-stub substituted with RDC-PASS
+gov.legislate--e-commerce-legislation,https://droitnumerique.cd/arretes-n-004-et-n-005-du-11-mars-2026-relatifs-aux-activites-et-services-numeriques-en-rdc/,Entre regulation protectrice et exclusion predatrice,Droit-Numerique.cd,2026-03-29,progress,secondary legal-academic analysis of Arretes 004/005; ACP's own announcement preferred as primary
+gov.standards--national-interoperability-standards,https://anics.gouv.cd/ami-sih,AMI SIH,ANICNS,2026-06-16,progress,fetch failed (CRAWL_UNKNOWN_ERROR); substituted with congoquotidien.com reproduction of the same notice
+infra.connect--international-internet-bandwidth,https://arptc.gouv.cd/app/uploads/2025/04/Rapport-observatoire-de-marche-T3-2024.pdf,Observatoire du marche de la telephonie mobile T3 2024,ARPTC,2025-04-01,baseline,batch fetch returned corrupted/unrelated content twice; no recoverable numeric bandwidth value; superseded by ITU's explicit figure
+infra.connect--international-internet-bandwidth,https://www.tralac.org/,Plan National du Numerique Horizon 2025,Presidency RDC,2019-09-01,baseline,historical (2019); WACS system capacity, not DRC's allocated bandwidth
+infra.connect--international-internet-bandwidth,https://engineering.fb.com/2025/11/17/,Core 2Africa System Completion,Meta Engineering,2025-11-17,progress,DUP-EXACT against material already in raw/
+infra.connect--international-internet-bandwidth,https://www.raxiogroup.com/raxio-drc-to-host-kinshasa-internet-exchange-kinix/,Raxio DRC to Host KINIX,Raxio Group,2026-08-20,progress,DUP-EXACT against material already in raw/; also off-topic (domestic IXP not international bandwidth)
+infra.store--off-site-backup-capacity,https://www.primature.gouv.cd/,Inauguration Data Center National,Primature RDC,2023-11-02,baseline,superseded by more recent SGPTNIC status statement
+infra.store--off-site-backup-capacity,https://www.presidence.cd/uploads/files/Strategie Nationale de Cybersecurite.pdf,Strategie nationale de cybersecurite,Presidence RDC,,baseline,states aspirational backup/PRA objectives not an implemented system
+infra.store--off-site-backup-capacity,https://tech.africa/acix-distributed-ix-drc/,ACIX distributed IX,TechAfrica,2026-05-19,progress,off-topic — domestic interconnection resilience not backup storage capacity
+infra.energy--sufficient-energy-and-water-for-data-centres,https://forrestgroup.com/en/kinsuka-power-a-900-mw-private-hydropower-project/,Kinsuka 900MW project,Groupe Forrest,2026-02-18,progress,third-ranked cap reached; no data-centre-specific power/water contract
+infra.energy--sufficient-energy-and-water-for-data-centres,https://www.ecofinagency.com/,DRC $150M digital infrastructure deal,Ecofin Agency,2025-10-20,progress,no power/water capacity specificity per source
+infra.energy--grid-reliability,https://are.gouv.cd/2025/12/31/,ARE 2025 activity review (N'djili blackout),ARE,2025-12-31,progress,third-ranked cap reached
+infra.energy--rural-electrification,https://www.worldbank.org/,DRC Energy Compact,World Bank/M300,2026-01-01,baseline,strategy-status source not the operative agency's own report
+infra.energy--rural-electrification,https://anser.gouv.cd/,ANSER institutional brochure,ANSER,2025-08-01,baseline,institutional description superseded by the fuller annual report
+infra.energy--rural-electrification,https://iea.blob.core.windows.net/,IEA Country Profile DRC,IEA,2024-01-01,baseline,rural-rate baseline only not the operative programme document
+infra.energy--rural-electrification,https://ucmenergie-rdc.com/actus.php?idart=965,PDERP consultant procurement notice,UCM/ANSER,2024-08-12,baseline,procurement notice for a plan still in development
+infra.energy--rural-electrification,https://anser.gouv.cd/maniema-lanser-lance-une-nouvelle-dynamique,Maniema rural electrification launch,ANSER,2025-09-25,progress,third-ranked cap reached
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,https://thedocs.worldbank.org/,DRC Digital Economy Assessment,World Bank,2020-01-01,baseline,older diagnostic superseded by 2025 mission aide-memoire
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,https://academy.itu.int/,SENAREC,ITU Academy,,baseline,general digital-skills programme not core institutional-capacity evidence
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,https://actu7.cd/,Ministry training session 580 agents,Actu7,2026-08-24,progress,third-ranked; single-media-report caveat
+dpi.exchange--use-of-digital-id-in-other-systems,https://rdcpass.gouv.cd/,RDC-PASS official platform,Govt RDC,,baseline,undated live page not a discrete dated document
+dpi.exchange--use-of-digital-id-in-other-systems,https://www.leganet.cd/,Decret 22/07 (FGP),Presidency RDC,2022-03-02,baseline,superseded foundation; RDC-PASS launch is the current operative instrument
+dpi.exchange--use-of-digital-id-in-other-systems,https://leganet.cd/,Arrete commentary (Dentons/Yemba),Leganet.cd,2026-01-01,progress,redundant with ACP's cleanly dated coverage of the same arrete publication
+dpi.exchange--interoperability-of-health-systems,https://community.dhis2.org/,DHIS2 interoperability case study,DHIS2 Community,,baseline,community post — less authoritative/dated than WHO AFRO report
+dpi.exchange--interoperability-of-health-systems,https://www.intrahealth.org/,Role of interoperable health info systems in DRC,IntraHealth,2020-01-01,baseline,older academic piece
+dpi.exchange--interoperability-of-health-systems,https://community.dhis2.org/t/surveillance-mpox-integree-a-dhis2-au-sud-kivu/71886,South Kivu mpox-DHIS2 pilot,DHIS2 Community,2026-04-22,progress,third-ranked cap reached
+dpi.exchange--interoperability-of-education-systems,https://www.iped.africa/news-event/au-iped-supports-education-data-systems-self-assessment-in-drc,AU IPED EMIS self-assessment (alt URL),AU-IPED,2026-05-12,baseline,redundant with au.int URL already staged for same event
+dpi.exchange--interoperability-of-social-protection-systems,https://leganews.pro/articles/019d2bef-1d56-70af-a0b8-79e76597706d,Decret n25/041 RSU,Leganews Pro,2025-12-04,progress,DUP-EXACT against raw/2025/2025-12-04-rdc-decret-registre-social-unique.md
+dpi.exchange--interoperability-of-social-protection-systems,https://actualite.cd/,Proposition de loi identification,Actualite.cd,2026-06-12,progress,DUP-EXACT against raw/2026/2026-06-12-proposition-loi-identification-personnes-physiques-actualite.md
+dpi.exchange--interoperability-of-social-protection-systems,https://www.deskeco.com/,RDC-PASS launch (alt coverage),DeskEco,2026-06-15,progress,same event as already-staged presidence.cd baseline file; reused that file instead
+dpi.exchange--interoperability-of-social-protection-systems,https://www.primature.gouv.cd/,Conseil des Ministres compte-rendu (draft-decree adoption),Primature RDC,2025-07-25,progress,RSU-decree section never reached within fetch length limits; abandoned rather than spend further budget on an event already held via other sources
+dpi.id--authentication,,ONIP founding decree 011/48,GoDRC,2011-12-03,baseline,superseded by FGP decree as current baseline
+dpi.id--authentication,,DRC Digital Transformation Project PAD,World Bank,2024-05-08,baseline,background only cap reached
+dpi.id--interoperability-of-birth-registration-and-digital-id,,Masina birth-reg digitisation pilot,ACP/UNFPA,2025-05-30,progress,dropped out-of-window (announced before 2025-09-01)
+dpi.id--interoperability-of-birth-registration-and-digital-id,,UN CRVS joint programme progress report 2024,UNDP/MPTF,2025-04-01,baseline,not fetched cap reached
+dpi.pay--consumer-protection,,UNCDF/ECCAS Policy Diagnostic: DRC,UNCDF,2025-04-01,baseline,commentary/analysis not the instrument itself
+dpi.pay--consumer-protection,,Digital-services fee schedule (Order 015),LePoint.cd/Ecofin,2026-07-20,progress,suspended for clarification days later; weaker than LOBA/Order 004
+dpi.registry--civil-register,,UNECA CRVS country snapshot,UNECA,2019-03-01,baseline,dated background cap reached
+dpi.registry--civil-register,,RDC-PASS launch; SNIP call,ACP; MPT,2026-06-01,progress,off-topic for civil-register specifically (digital-ID infra not etat-civil)
+dpi.registry--address-register,,Matete Proximite en serie project,ACP,2026-07-02,progress,still envisage (planned) — weaker than two selected concrete events
+dpi.registry--electoral-register,,CENI external audit (43955181 voters),CENI,2023-06-01,baseline,superseded as baseline by the operative enabling law
+dpi.registry--tax-register,,DGI annual report 2020,DGI,,baseline,not fetched cap reached
+dpi.registry--land-register,,INACO protocol (LinkedIn announcement),Min. Affaires Foncieres,2026-08-05,progress,replaced by fuller apanews account of same event
+dpi.mis--health,,PNDS 2016-2020,GoDRC,2016-01-01,baseline,superseded strategy document
+dpi.mis--health,,MEASURE Evaluation 2019,MEASURE Evaluation,2019-01-01,baseline,superseded background
+dpi.mis--social-protection,,PARF2 PRODOC,World Bank,2021-01-01,baseline,superseded background
+dpi.mis--social-protection,,leganews.pro RSU decree,Leganews Pro,2025-12-04,progress,duplicate-raw — already in raw/2025/2025-12-04-rdc-decret-registre-social-unique.md
+dpi.mis--justice,,Productive Inclusion PAD 2018,World Bank,2018-01-01,baseline,superseded background
+dpi.mis--customs,,ILO 2021 database launch,ILO,2021-01-01,baseline,superseded background
+dpi.mis--land,,affairesfoncieres.gouv.cd land-law promulgation,Min. Affaires Foncieres,2025-12-03,baseline,duplicate-raw — already in raw/2025/2025-12-03-rdc-tshisekedi-promulgue-nouvelle-loi-fonciere.md
+digital.localgov--ict-infrastructure-for-local-government,,World Bank PTN RDC mission aide-memoire (documents1.worldbank.org),World Bank,2025-07-18,progress,out-of-window — mission dated 14-18 Jul 2025, before window, no later disclosure date verifiable
+digital.localgov--digitalisation-of-local-government-records,,openiaso SSC app French edition,OpenIASO,2024-01-01,progress,duplicate-raw — already in raw/2024/2024-01-01-openiaso-ssc-app-digitalization-drc.md
+digital.rural--digitalisation-of-rural-health-clinics,,openiaso SSC app (duplicate),OpenIASO,2024-01-01,progress,duplicate-raw
+digital.rural--digitalisation-of-rural-registry-offices,,UNICEF Evaluation Management Response,UNICEF,2023-01-01,progress,out-of-window — only Evaluation Year 2023 established from the fetch; claimed Sept 2025 date could not be verified and was not trusted
+digital.rural--digitalisation-of-rural-registry-offices,,World Bank PTN RDC mission aide-memoire (documents1.worldbank.org),World Bank,2025-07-18,progress,out-of-window — mission dated 14-18 Jul 2025, before window
+capacity.literacy--digital-literacy-civil-service,,actu7.cd article,Actu7,2026-01-01,progress,duplicate-raw
+capacity.training--dt-related-university-facilities-and-qualifications,,UNILU-KoBold Mining Geology 4.0,UNILU/KoBold,2026-01-01,progress,third-ranked cap reached
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,ABILab; UCB Bukavu; UNIGOM; CECOM; Universite Mapon,various,,baseline,lower-ranked baseline candidates — cap holds UNIKIN MOU
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,,UNILU AI-charter proposal,UNILU,2025-12-01,progress,third-ranked progress event cap reached
+data.statistics--national-strategy-for-development-of-statistics,,PARIS21 NSDS status table,PARIS21,,baseline,reference/context only not itself an event or the operative strategy instrument
+data.statistics--statistics-from-administrative-data,,UN Stats/PARIS21 country-study description of Decret n10/05,UN Stats/PARIS21,,baseline,no stable direct URL to the decree text located
+data.satellite--agricultural-use-of-satellite-data,,FAO SNSF 2019 programme doc; FAO CBIT case study; FAO ASIS EO page; IOP Kasai smallholder study,FAO/IOP,various,baseline,superseded by current GFOI page as baseline; IOP study narrower/research-scoped cap reached
+data.satellite--meteorological-use-of-satellite-data,,WMO GBON Contribution Plan; WMO alerting-authority registry; CREWS Central Africa,WMO/CREWS,various,progress,third-ranked/supporting cap reached
+geopol.eu--eu-mous-engagements-and-commitments,,Samoa Agreement; Lobito Corridor MoU; Council Decision 2025/2377 (EPF); Cotonou Agreement,EU,various,baseline,broader/historical/lower-ranked vs the DRC-specific raw-materials MoU
+geopol.india--india-mous-engagements-and-commitments,,New Kerala 2nd Ebola tranche; Mining-MoU draft (not executed); 2010 BIT (terminated 2017),various,various,progress,duplicate-event or non-operative
