@@ -13,6 +13,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-09-02 17:33 · build · 17m · catalogue 14831, 128 Gates URLs corrected in XAF and all-nonstate, MUS 136 sources read - 88 rows minted, 71 indicators mapped, frame complete at 121 of 121; four satisfied acquire rows struck - ok
 2026-09-02 16:47 · render · 5m · 251 report docs, home, 54 country + 8 region pages, catalogue 14695, finance 1309 deals, topics 38, bulletin unchanged, 0 editions pruned — ok
 2026-09-02 16:42 · build · 48m · catalogue 14695, finance 61 places, 411 sources considered across 27 units, 121 rows minted and 45 moved, MDG 120 of 121 and KEN 121 of 121 indicators held, topics 76 docs, bulletin unchanged - ok
 2026-09-02 15:38 · build · unclocked · bulletin top-up: window 2026-09-01 to 2026-09-02, 77 items, 28 new summaries, rendered — ok
