@@ -15,6 +15,7 @@ African Union Document Type AU-EU Space	11283
 Algorithm Type Approach	8604
 Analysis of Civil Society Typologies	11028
 Angola. Typically	10763
+Annexe J Typologies	14472
 Applicable Fee Schedules for All Types of Construction	12389
 Application Type Date	1877
 Asset Type	7662
@@ -45,12 +46,14 @@ COMPETENCY LEVELS AND SKILLS TYPES Digital	1248
 COMPLAINT FORM TYPE OF COMPLAINT	2709
 COMPONENTS DEFINED SN Type	7845
 Cabling Types	9123
+Case Type	14675
 Case Types	13053
 Central Africa. Event Type	10244
 Centre Broadcasting Monitoring Centre Type Approval	9109
 Certificate Type	11276
 Choose Client Type	13333
 Classification Internationale Type	10874
+Classification Internationale Type des Professions	14622
 Closing Type	4972
 Cloud Type	13062
 Colonne Type Description Exemple	747
@@ -64,6 +67,7 @@ Consulting Service Type	8726
 Contender Typology and Electoral Dynamics	10062
 Contract Type and Payment Schedule	12008
 Controlling Person Type and Self Certification	11685
+DATA CENTER Principal. Répartition Surface Types	14489
 DE SANTÉ CENTRE DE SANTÉ TYPE	13300
 DEPOT Type	13390
 DES Scope Subsystem Type Categorical	7221
@@ -144,6 +148,7 @@ Joint Typology	10726
 KSh Million Type of Asset	2775
 Kuni Tyessi	8421
 LES TYPES DE AUTRE PERSONNEL AUTRE	13300
+Language English Type Legal Notice Original	14435,93
 Letter Type	11276
 Licence Type	736
 License Type	10407
@@ -159,6 +164,7 @@ Media Type	1009
 Message Type	11276
 Message Type PAFEN	13452
 Message Type TTC Types MT298 SMT	12364
+Methods Study Type	14666
 Mini-réseaux de Type B	13809
 Mini-réseaux de Type C	13809
 Ministère Types	13442
@@ -231,6 +237,8 @@ Responsibilities of NFIS II Stakeholders Type of Stakeholder	940
 Results Select Stablecoin Backing Type Choose	12882
 Revenue Performance Per Tax Type Collections	13053
 Road Fund Type Implementing Agency Implementing	1228
+Répartition Surface Types	14488
+SAS Types	14488
 SECTOR TYPES	1940
 SOMELEC. Type	1993
 Scope NA Type Nominal	7221
@@ -271,6 +279,7 @@ Station Types Frequency Station Type FY	6946
 Stream Type LIVE Remaining Time	5326
 Street Type	11129
 SupplyLicense Types Licensees	12399
+Surface Types	14490
 System Integrity Types	13042
 TATS MEMBRES DE L’UEMOA TYPE	10711
 TBC Frontline Healthcare Worker Type	4167
@@ -288,6 +297,9 @@ TYPE D'ENDROIT. GOUVERNEMENT	13300
 TYPE D'ENDROIT. HÔPITAL DE RÉFÉRENCE	13300
 TYPE D'ENDROIT. HÔPITAL DE RÉFÉRENCE SI	13300
 TYPE DE LA D'INSECTICIDE	13300
+TYPE DE PARTIES PRENANTES Autorités	14425
+TYPE DE PARTIES PRENANTES Organismes	14425
+TYPE DE PARTIES PRENANTES PARTIES PRENANTES	14425
 TYPE DE TOILETTES	13300
 TYPE OF APPLICATION	2709
 TYPE OF FENCE Wall	11129
@@ -304,6 +316,7 @@ TYPES OF COMPLIANCE ASSESSMENTS	13381
 TYPES OF CROSS BORDER TRANSFER Transfer	13376
 TYPES OF ELECTRONIC PAYMENT SERVICES	12542
 TYPES WIDELY USED	1939
+TYPOGRAPHICAL ERRORS	14670
 Tanzania Type of Procedure	9265
 Tax Administration Forum. Platform Sector Type	13314
 Tax Type	12948
@@ -371,8 +384,10 @@ Type Institutions	6832
 Type Libellé Indicateurs	13306
 Type Libellé Indicateurs Base	13306
 Type Manual	11855
+Type Milieu	14488,1,1
 Type Model Gain	736
 Type Of License Licensed	718
+Type Perturbation	14488,1,1
 Type QR	10900
 Type Server	11133
 Type Sheetfed	34
@@ -388,6 +403,7 @@ Type de DMD	13524
 Type de JORD	13835
 Type de Ménages	2624
 Type de POS	13390
+Type de Région Identification	14622
 Type of Account	12400
 Type of Agricultural Activity	13455
 Type of Amenities	2775
@@ -425,9 +441,11 @@ Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513,6409,322
 TypeScript and Python	13272
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8,415,81,575,36,228,1,81,37,651,355,64,1,48
 Types Effectif Pourcentage	10875
+Types Gouvernance	14424
 Types Installed ENERGY MIX Generation	12358
+Types Plaintes	14425
 Types of AI Machine Learning	4528
 Types of Benefits Rwanda Realized	12457
 Types of Businesses	12342
@@ -446,15 +464,15 @@ Types of Registered Marriages	13644
 Types of Reported GBV Offences	13399
 Types of Sex-disaggregated Data Available Online	12389
 Typhoid	12729
-Typical	5238,3885,2883,353,590,88,148
+Typical	5238,3885,2883,353,590,88,148,1489
 Typical Bills of Quantities Price Code	13385
-Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461,353,680,22,47,171,33,2,147
+Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461,353,680,22,47,171,33,2,147,980
 Typing	12266
 Typist	13251
 Typographic	8604
-Typologie	5740,3151,2084,969
+Typologie	5740,3151,2084,969,2479
 Typologie des Ser-	10237
-Typology	12907,32,990
+Typology	12907,32,990,737
 Tyree	8604
 Tyrell Sykes	2626
 UNICEF Type	13732

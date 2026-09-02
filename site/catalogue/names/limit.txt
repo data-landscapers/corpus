@@ -1216,6 +1216,7 @@ Botswana Telecommunications Corporation Limited	3174,9427
 Botswana Telecommunications Corporations Limited	2576
 Bravocrest Hospital Limited Data Controller INST-5334668891B	7167
 Brianas Investment Limited Data Processor INST-267743EEE52	7167
+Bridge57 Solutions Limited	14687
 Bridgeway Supply Chain Limited Data Controller	7167
 Bright Lantern Limited Data Controller INST-39284964850	7167
 Brisk Marketing Limited Data Controller INST-835787853A9	7167
@@ -2132,7 +2133,7 @@ Daraja La Amani Limited Data Controller	7167
 Dasol Solution Services Limited	5212
 Data Integrated Limited Data Processor INST-9352264489B	7167
 Data Limitations	12356
-Data Minimisation Limit	13381
+Data Minimisation Limit	13381,1185
 Data Minimization Limited	12675
 Data Tech Pivot Limited	7530
 Datacom Telecom Limited	3386
@@ -2395,6 +2396,7 @@ Galana Energies Limited	12256
 Galaxy Backbone Limited	3557,385,1618,165,333,3515,98,486,153,1642,93
 Gambia Telecommunications Company Limited	7195
 Gapco Kenya Limited	12256
+Geothermal Development Company Limited	14422
 Ghana Digital Centres Limited	4126,3159
 Ghana Digital Centres Limitied AI Lab	4126
 Ghana Integrated Digital Transformation Limited Leadership	4126
@@ -2472,6 +2474,7 @@ Jamii Telecommunications Limited	6671,193,82
 K-Net Limited	3386
 KCB Bank Kenya Limited	8937,1
 KCB Bank Kenya Limited and Pesa Print	11774
+KDC-IDB Capital Limited	14546
 KENYA LIMITED Data Controller INST-346927C9F3F NAIROBI	7167
 KENYA LIMITED Data Processor INST-346927C9F3F NAIROBI	7167
 KP Energy Limited	12576
@@ -2483,9 +2486,12 @@ KPTC and Telkom Kenya Limited	6946
 KS Eco Solutions Holdings Limited Chief	13647
 KTDA Power Company Limited	12256
 Kadick Integrated Limited	3862
+Ken-Ren Chemicals and Fertilizers Limited	14546
+Kenya Airways Limited	14546
 Kenya Commercial Bank Burundi Limited	13390
 Kenya Company Limited	6946
 Kenya Cooperative Creameries Limited	12254
+Kenya Electricity Generating Company Limited	14422
 Kenya Electricity Transmission Company Limited	10313,1943
 Kenya Limited	6946
 Kenya Limited Data Controller INST-642544415AD NAIROBI	7167
@@ -2493,6 +2499,7 @@ Kenya Limited Data Processor INST-642544415AD NAIROBI	7167
 Kenya Limited UMTS Universal Mobile Telecommunication	6671
 Kenya Petroleum Refineries Limited	12256
 Kenya Pipeline Company Limited	3583
+Kenya Poultry Limited	14546
 Kenya Power Lighting Company Limited	12256
 Keystone Bank Limited	4771
 Klass Security Consult Limited	3862
@@ -2633,7 +2640,7 @@ Lewis. Limited	12856
 Liberty Life Swaziland Limited	12348
 Lightwave Health Information Management System Limited	3833
 Lily Hospitals Limited	12937
-Limit	899,1089,3125,574,749,4285,239,1026,513,886
+Limit	899,1089,3125,574,749,4285,239,1026,513,886,1049
 Limit Cyber Impact How Cloud Security	3279
 Limit the Department	5773
 Limita-se	11547
@@ -2660,9 +2667,10 @@ Limitations of Control and Equity Ownership	5808,5427
 Limitations of Existing Evidence Existing	8301
 Limitação	10755,763,2
 Limitações	2816,703
-Limite	9480,2040
+Limite	9480,2040,3191
+Limite Région Cental Grand Nord Diana	14622
 Limite de Crédito	11386
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26,97,21,2,2,19,8,5,9,1,79,7,25,9,3,20,4,10,31,13,2,24,17,8,115,46,5,87,82,121,14,8,19,12,63,15,68,65,13,54,16,3,6,11,1,17,9,60,229,7,24,7,48,205,13,9,31,29,78,8,31,537
 Limited Access	1988
 Limited Accessible	12214
 Limited Authority Guidelines	11131
@@ -2739,18 +2747,18 @@ Limited. Benedict	7664
 Limited. Social	13654
 Limited. Together	9079
 Limitedinteroperability	8602
-Limiter	12,25,961,7,9871
-Limites	539,4630,1293,497,4444,498,410,542,537,515
+Limiter	12,25,961,7,9871,3612,1,1
+Limites	539,4630,1293,497,4444,498,410,542,537,515,567
 Limites Prudenciais	12853
 Limites da Utilização	10755
 Limites de Valor	11404
 Limiting	7695,4577
 Limiting Conditions	4896
 LimitlessXOD	12478
-Limits	1474,2177,3295,1067,2989,26,102,1259,1619,28,153
+Limits	1474,2177,3295,1067,2989,26,102,1259,1619,28,153,232
 Limits Even	11130
 Limits of Technology Even	12092
-Limité	13300
+Limité	13300,1237
 Limitée	5370
 Link Limited Highway Division Belt Abbreviation	11129
 Liquid Telecommunications Holding Limited	242
@@ -2790,11 +2798,14 @@ MUTAI ADVISORY LIMITED LIABILITY PARTNERSHIP Data	7167
 Maintenance of Digital Forensic Lab Tools Limited	6946
 Malawi CDH Investment Bank Limited	13147
 Malawi Development Corporation Holdings Limited	13060
+Malawi Digital Broadcasting Network Limited	14674
+Malawi Telecommunications Limited	14674
 Managing Director and Co-Founder of BigData Ghana Limited	9561
 Managing Director of Barnksforte Technologies Limited	11915
 Managing Director of Belitra Enterprises Limited	6946
 Managing Director of Mobile Telecommunications Limited	12986
 Managing Director of Soft Alliance and Resources Limited	7973
+Managing Director of Vahab Limited	14702
 Mandatory Time Limit	12389
 Margins ID Group Limited	9316
 Margins ID Systems Applications Limited	4677,114
@@ -2832,6 +2843,7 @@ Mozambique Steward Bank Limited	12252
 Mozhandling Limited	11089
 MultiChoice Uganda Limited	3990
 Multimedia Group Limited	7606,91,1,1,667,2962,766
+Mumias Sugar Company Limited	14546
 Mwananchi Communications Limited	3447,6748
 Mweiga Homes Limited and Dualway Properties Limited	6946
 N' GO LIMITED Data Controller INST-9891903A3F3	7167
@@ -2840,6 +2852,8 @@ NASPERS LIMITED	11885
 NBS Bank Limited	12252,895
 NCR Kenya Limited	6946
 NGX Regulation Limited	6408
+NICO Holdings and Investments Alliance Limited	14674
+NICO Life Insurance Company Limited	14674
 NMB Bank Limited	12252,1149
 NOSE AND THROAT CLINIC LIMITED Data	7167
 NPCI International Payments Limited	12477
@@ -2872,6 +2886,7 @@ Nigerian Telecommunications Limited	3782,4375,134,3566
 Nipol Telecoms Limited	3862
 Nitroswitch Limited	3862
 Nova Pioneer Limited	12189
+Nyari Estate Limited	14546
 Nyasa Tobacco Company and Petroleum Importers Limited	13122
 OEA Consult Limited	9104
 OLA Energy Kenya Limited	12256
@@ -2928,6 +2943,7 @@ Pnet Proprietary Limited	6832
 Poa Internet Kenya Limited	831
 Power Company Limited	12256
 Power Market Limited	13060
+Press Corporation Limited	14674
 Press Trust Malawi and Africa Fortesa Limited	13122
 Principal Consult Limited	8368
 Prisco Voice Vox Limited Vulcable WhaiNot	8530
@@ -2962,6 +2978,7 @@ References Eskom Holdings SOC Limited	11953
 Refugee Limited	12297
 Regulations Limited	12214
 Regulators. A Public Limited Company	12483
+Removal of Transaction Limits	14453
 Renewvia Energy Kenya Limited Distribution and Supply	12256
 Renewvia Energy Kenya Limited Generation	12256
 Resource Limitations	12356
@@ -2996,6 +3013,7 @@ SWIFT TELEPHONE NETWORK LIMITED	3862
 SafariCom Telecommunications Ethiopia Private Limited	815
 Safaricom Limited	18,6391
 Safaricom and Apeiro Limited	10329
+Sambus Geospatial Nigeria Limited	14706
 Sancfis Ghana Limited	3386
 Sans Limites	5022
 Scientific and Technological Engineering Corporation Limited	181,9
@@ -3043,8 +3061,9 @@ Standard Bank Mauritius Limited	12252
 Standard Bank Namibia Limited	12252
 Standard Bank of South Africa Limited	2836,2411
 Statistique du Burundi. Limitation	13393
-Storage Limitation	1630,3614,6941,117,702
+Storage Limitation	1630,3614,6941,117,702,1520
 Storage Limitation Personal	12302
+Strengths and Limitations	14666
 Study Limitations	12328
 Substantial. Limited	1284
 Sumac Microfinance Bank Limited	5690
@@ -3079,7 +3098,9 @@ Technologies Limited	12241
 Technologies Limited Web	3386
 Technologies Operators Airtel Networks Kenya Limited	6946
 Technotrend Platforms Nigeria Limited	3862
+Telecomm Holdings Limited	14674
 Telecommunications Compliance and Telkom Kenya Limited	6946
+Telecommunications Limited	14674
 Telecommunications Limited Kbps Kilobits	6671
 Telecoms Limited	3862
 Teledata ICT Limited	3386
@@ -3090,6 +3111,7 @@ Telkom Kenya Limited and Limited	6946
 Telkom SA SOC Limited	378,120
 Telrad Networks Limited	4896
 Tema Limited Operational C	3386
+Temporary Limitation of Access	14434
 Terminal Multiservices Limited	8278
 Test Schedule of Power Limits	736
 Tetragrammaton International Limited	3862

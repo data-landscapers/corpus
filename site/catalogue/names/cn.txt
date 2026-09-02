@@ -21,8 +21,10 @@ CC and CNE	12201
 CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CDC CNBS COVID CPN CSPro DAM	10777
 CEC CEC CFL CNEPT DME DNASE	10766
+CHAPITRE IV DES ORGANES DU CNECI	14431
 CI-INGINEERING SNPECI CNRA I2T Autres Services	2342
 CIS Commonwealth of Independent States CNSP Community	6946
+CMIL CNECI CNIL DPO DSI FP	14549
 CMU Country Management Unit CNP Concelho	11380
 CN Consulting	4043
 CN Mozambique	9441
@@ -32,6 +34,9 @@ CNAME CLOAKING	1231
 CNAMGS	3083,634,2412,1412,2294,2
 CNAMGS and ANINF	6129
 CNAN El Djazaïr	10021
+CNAPS Caisse	14437
+CNAPS. Ces	14581
+CNAPS. Débuté	14462
 CNAQD	2625,10678,139
 CNAQES	12809
 CNAR R	10841
@@ -39,7 +44,7 @@ CNARR	2823,8018
 CNARR and UNHCR	2823
 CNASN	8637,860
 CNATAC	3396
-CNBC Africa	1712,3064,471,2538,234,1236,3042
+CNBC Africa	1712,3064,471,2538,234,1236,3042,2345
 CNBC Africa AI Summit	14269
 CNBC Africa and IBS Intelligence	2777
 CNBC Africa’s Palesa Mofokeng	4723
@@ -71,6 +76,7 @@ CNDP. Il	8993
 CNDPC	9836
 CNDPH	13442
 CNDPHB	13442
+CNDRA	14647
 CNDRS	11109
 CNDSP	13341
 CNE AND ELECTORAL	9399
@@ -89,6 +95,11 @@ CNE. The EU EOM	12201
 CNE. The Election Law	12201
 CNE134. Objecting	12201
 CNE59	12201
+CNECI	14431,108,1,9,74
+CNECI Article	14431
+CNECI. Article	14431
+CNECI. Dans	14549
+CNECI. Il	14431
 CNEDOGE	1382,264,939,87,1537,2398
 CNEDOGE DG Teodomiro Monsuy Eyi	2683
 CNEDOGE Director General Teodomiro Monsuy Eyi	2683
@@ -114,7 +125,13 @@ CNF-GB	5402
 CNG-EPT	8555
 CNGUP Love Emma Ghunney Team Member	1284
 CNHU de Cotonou	10867
+CNI Biométrique Malagasy	14480
+CNI Clôture Enrôlement Colisage	14480
+CNI Collecte des Justificatifs Impression Carnets Remise	14480
+CNI Contexte	14480
+CNI Etat Civil	14480
 CNI Preparation	11876
+CNI. A National CNI Protection Plan	14674
 CNI. Ce	2513
 CNI. J’apprécie	2513
 CNI. Para	7466
@@ -142,10 +159,12 @@ CNII Order	3725
 CNIL-2016-001	10821
 CNIL. Arlicle	10813
 CNINE TECHNOLOGIES VENTURES LTD Data Processor	7167
+CNIOP	14438
 CNIPLC	6902,1848
 CNIPT	14315
 CNJ Commission	643
 CNK Advocates LLP Data Processor INST-82470860501	7167
+CNM Marchés	14539
 CNMSFS-GE	4209
 CNN Brasil	2816
 CNN Brasil. Disponível	2816
@@ -238,16 +257,20 @@ CNTIPPEE	8441
 CNTS Action IV.3.3 Interfacer le SGBS	13306
 CNTS Centre National de Transfusion Sanguine COPIL	13306
 CNTS. Cette	13306
+CNUCC	14450
 CNUCED	5077,5744,2924,67
 CNUCED Genève	13812
+CNUDCI	14411
 CNUNR	13442
-CNaPS	5995
+CNaPS	5995,8444
 CNhadihrploevrsuon Vice ChairpersoVn	1154
 CNx6kDpgnvK3fODjdRfT	6423
 Cabo Verde CNI	7466
 Caisse Nationale de Sécurité Sociale CNSS	737
 Cameroon CNEF	10967
 Card Production Centers. Once the CNIB	10812
+Cartes CNI Notification	14480
+Cartes CNI Système	14480
 Cartão Nacional de Identificação CNI	4415,1,1,1
 Cash-in Cash-out CNSI National Commission for Information	13312,2
 Ces CNSMO	11944
@@ -291,12 +314,16 @@ D.G. DE CNEDEGE.- Concepto	4209
 D.G. DE CNEDOGE.- Concepto	4209
 DECISIONS CNRCEP	998
 DGSN CNI	3090
+DISTRIBUTION ET REMISE DES CARTES CNI	14480
 Decentralised CNI	1258
 Des CNIB	3396
 Designation and Protection of CNII Order	10721
 Designation and Protection of CNNI Order	10721
 Despite the CNE	12201
+Directeur Général du CNECI	14431
 Données Intégré National CNDSP Comité National	13341
+ET DES ATTRIBUTIONS DU CNECI Article	14431
+ET DU CONTROLE DU CNECI Section	14431
 Effective Remedy CNE	12201
 Entreprise du CNP	10367
 Estratégia de Comunicação da CNPD	1338
@@ -318,6 +345,7 @@ IN-4 Establish CNI	11857
 ITB and CNRC. Under	4542
 Industrie CNI	13377
 Industrie CNS	10874
+Interopérabilité CNaPS	14438
 Komite CNIS	13323
 LIST OF ACRONYMS CNE National Election	11586
 La CNDP	547,3,18,20,596,1415,6394,5299,39
@@ -327,6 +355,7 @@ La CNIL Bénin	10821
 La CNPS	5291
 La Cnept	9002
 La Cotonnière Industrielle du Cameroun CNAR National	10841
+Le CNECI	14431
 Le CNEF	10965
 Le CNI	13290
 Le CNPA	13781
@@ -336,15 +365,18 @@ Le CNTS	13306
 Le Président du CNPA	13781
 Les CNSMO	11944
 Li CNPA	13781
+Libertés CNI	14438
 Lorsque le CNPA	13781
 MINFI CNEF Promotion	10965
 Main Street Cnr Sandkraal Rd and Ngcakani	8999
 Makerere Univ DICOM CNN	9781
 Mgandane Dlodlo Building Cnr Simon V	13685
 Miembro CNDES Fiscal General Ad	4209
+Mix Cnergdtique	14479
 Morocco's CNDP	4583
 Métodos de Autenticação The CNI	11872
 Nairobi. CNC	8342
+National CNI Protection Plan	14674
 National Department of Health Civitas Building Cnr	396
 Ndayishimiye and CNDD-FDD	3245
 Nguema. The CNIE	1773
@@ -385,9 +417,12 @@ Président du CNSP	2514
 Président du CNSP. Mais	2514
 Prévoyance Sociale CNEF Comité National Economique	11944
 Príncipe CNPD RECEBEU A AGÊNCIA NACIONAL	3079
+Périmètre CNI Etat Civil IDVS Outils	14480
+Périmètre SIECM PRÉ-ENRÔLEMENT PERSONNALISATION DES CNI	14480
 REALISE CNEA Dans	2966
 REALISE CNIOSP	2966
 RENAMO CNE	12201
+RODELIN Félix CNECI Numérisation	14539
 Rapport de CNEF	10965
 Recherche Scientifique CNRST Centre National	12
 Reforzamiento de CNEDOGE	4209
@@ -422,6 +457,7 @@ Standard Bank Surpasses CNY	8026
 States CNE	12201
 Surpassing CNY	8026
 Symphony Walk Town Cntr Cnr Govan	8999
+UMR CNRS	14666
 UNHCR and CNR	11900
 Universitaires CNF Campus Numérique Francophone CNESRS	12
 Woodmill Lane Cntr PnP Parow PnP	8999

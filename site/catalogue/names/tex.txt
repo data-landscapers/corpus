@@ -65,6 +65,7 @@ OADC Texaf Kinshasa	1881
 OADC Texaf's Kinshasa FIH1	6238
 Outlier. Text	14268
 PBC2B. Textbooks	13392
+PDF. Text	14599
 Par Vianney Ingasso. Text	4886
 Pharmaceuticals and Technologies HTTP Hyper Text Transfer	2775
 Preparation Text	1243
@@ -84,6 +85,8 @@ TEXT LAYER	6477
 TEXTES GENERAUX Dahir	308,427
 TEXTES PARTICULIERS	6589
 TEXTES REGLEMENTAIRES Lois	13427,233
+TEXTES SECTORIELS APPLICABLES	14488,1,1
+TEXTES SECTORIELS APPLICABLES Textes	14488,1,1
 TEXTILE Gestion Patrimoniale	2342
 TEXTO	11473
 TEXTS BEING EQUALLY AUTHENTIC	11517
@@ -92,7 +95,7 @@ TechCabal. Text-to-speech	11163
 Tex Law Rev	5242
 Texaco Tsiémé	12027
 Texaf	2350,687
-Texas	1977,2,4432,1227,1311,538,158,1041,2775
+Texas	1977,2,4432,1227,1311,538,158,1041,2775,1170
 Texas Department of Public Safety	2427
 Texas Tech University	10143
 Texas-based	8049
@@ -108,16 +111,17 @@ Text-to-Speech	8876
 Textbook	12411
 Textbook-to-pupil	12199
 Textbooks	899,11006,506,711,270
+Textbox	14666
 Texte	3189,2957,2505,2249,2,19,218
 Texte Données	1984
 Texte TXT	1984
-Textes	7439,1554,487,2563
+Textes	7439,1554,487,2563,2380
 Textes Légaux Relatifs	13302
 Textes Questions	9480
 Textform	8546
 Textil	1701
 Textil-Ropa-Calzado	1701
-Textile	10841,34,2510
+Textile	10841,34,2510,1163,71
 Textile Development Company39F	10841
 Textile FX	9285
 Textile and Apparel Sector Thematic Working Group	12703

@@ -70,7 +70,7 @@ Islands Norway Oman Pakistan Palau Palestine	11470
 Israel and Palestine	11185
 Jené Palmer	10570
 Jené Palmer CA	10570
-Jordi Palet Martinez	12058
+Jordi Palet Martinez	12058,2613
 Juan Carlos Paliza	12948
 Julien Paluku	4092
 Kempinski Palace Hôtel	1287
@@ -98,7 +98,7 @@ Nauru Nepal New Caledonia Niue Palau	13042
 Nações Unidas PALOP	2816
 News Paludisme	13560
 Norway Oman Pakistan Palau Panama Papua	11765
-OPay and PalmPay	11121
+OPay and PalmPay	11121,3586
 Occupied Palestinian Territories	6947
 Ollo PALENFO	7674
 Ollo Palenfo. Pour	3666
@@ -149,13 +149,14 @@ Palacio de Justicia Malabo	4209
 Palacio de Justicia de Bata Malabo	4209
 Palacio de Justicia de Malabo	4209
 Palacios-Pacheco	9128
-Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72
+Palais	2808,34,203,630,124,1024,134,148,990,67,1171,222,170,544,618,1126,905,131,987,43,1326,343,72,668,66
 Palais Audience	4899
 Palais Ntare Rushatsi Le Chef	13405
 Palais Ntare Rushatsi Présentation	13405
 Palais Royal du Chef de Canton de Tahoua	9567
 Palais de Beit-Salam	13789
 Palais de Koulouba	7843,394,1050,55
+Palais de Tsimbazaza	14499
 Palais des Congrès	3341,2137,6219
 Palais des Congrès de Kigobe	13525
 Palais des Congrès de Lomé	11067
@@ -166,7 +167,7 @@ Palais des Gouverneurs	6292
 Palais des Nations	2262,7479,3301
 Palais des Sports de Treichville LES PLUS LUS	8755,4813
 Palais du Gouvernement	9498,98,4605
-Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90
+Palais du Peuple	2738,240,213,135,44,2697,4589,3166,90,784
 Palais du Peuple. Entreprises	10531
 Palakiyem Assih	8262,2502
 Palakiyem Assih Named Chairman of Cyber Defense	8262
@@ -243,10 +244,12 @@ Palteli	11135
 Paltieli	11135
 Paltu	4432
 Paltu and Brouwers	4432
-Paludisme	737,10137,725,1701,74,139,47
+Paludisme	737,10137,725,1701,74,139,47,1062
 Paludisme Au Burundi	13300
 Paludisme CONNAISSANCE	13300
 Paludisme PNN	13300
+Paludisme PNUD	14442
+Paludisme Standardisation	14622
 Paludisme Tableau	13300
 Paludisme Variations	13300
 Paludismo	4209
@@ -257,6 +260,7 @@ Palácio da Justiça	10750,1
 Palé AI	8433
 People's Palace	4977,5019,3915,34
 Peter Thiel Palantir	6231
+Plan Stratégique Paludisme2023-2027	14622
 Plio-Pleistocene and Palaeoenvironments	1154
 Presidential Palace	341
 Pro PALOP	10320

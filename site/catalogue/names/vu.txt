@@ -16,10 +16,12 @@ Burkina Point de Vue Politique Quantum Robotics	9993
 Burundi. Vu	13306
 C Vu	13293
 CARACTERE PERSONNEL L’ASSEMBLEE NATIONALE Vu la Constitution	10825
+CHAPITRE II DES GROUPES VULNERABLES ET	14418
 CHEF DU GOUVERNEMENT VU La Constitution	13825,2,16,80,14,3
 CLIMATE CHANGE RISK AND VULNERABILITIES	10829
 CONSEIL NATIONAL DE LA TRANSITION Vu	113
 Cash NDMA-PR-08 Vulnerable	12977
+Cash Transfer for Orphans and Vulnerable Children	14487
 Climate Change Risks and Vulnerabilities	10829
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
 Country F. Vulnerability Assessments	12977
@@ -27,6 +29,7 @@ Cyber Vulnerabilities Recent	2117
 D IO N S S Vu	11522
 D. House Construction for Vulnerable Households	12977
 DATA SUBJECT'S VULNERABILITY INDEXES	11956
+DE L’ÉCONOMIE ET DES FINANCES Vu	14469
 DONT LA TENEUR SUIT VU	4420
 DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DROUGHT VULNERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
@@ -64,6 +67,7 @@ Identification of Systemic Risks and Vulnerabilities	6938
 Indicators of Compromise Vulnerability	10721
 Jimmy Vulembera	10763
 Justice Vu	1837
+LE PRESIDENT DE LA REPUBLIQUE Vu	14431
 Le Point De Vue De L’Expert	11034
 Linda Vukani Gumede	1814
 Low Participation of Women and Vulnerable Groups	13998
@@ -192,40 +196,46 @@ Voice Vox Limited Iberdrola Vulcable Igi	8530
 Vu Hai Quan	9377
 Vu Quang Viet	236
 Vu Vu Vu Vu Vu Vu	1837
-Vu la Charte	113,1688
-Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1
-Vu la Convention	547,3,18,20
+Vu la Charte	113,1688,12668
+Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66,1645,1,1,10,20,7,4,253,1,820,3,2,1,2,1,1,1,10,15,15,4,20,17,38,5,67
+Vu la Convention	547,3,18,20,13871,151
 Vu la Directive	548,10974
-Vu la Décision	11567
-Vu la Loi	1214,1411,8211,686,45,1756,7,4,253,1
+Vu la Décision	11567,2852,119,72
+Vu la Délibération	14500,110
+Vu la Loi	1214,1411,8211,686,45,1756,7,4,253,1,830,40,25
 Vu la Loi L	234
 Vu la Loi N	7470
-Vu la Loi Organique	2625,10705
+Vu la Loi Organique	2625,10705,1101
 Vu la Loi des Finances N	7470
 Vu la Résolution	785
-Vu le Code	13293
-Vu le Décret	547,3,18,20,2037,10666,43,253,1
+Vu le Code	13293,1190,60
+Vu le Code Général des Impôts	14463
+Vu le Décret	547,3,18,20,2037,10666,43,253,1,830,40,11,14
 Vu le Décret D	234
 Vu le Décret N	7470
 Vu le Décret-loi	547,3,18,20,12703,39
+Vu le Pacte	14610
 Vu le Règlement	10836,686
 Vu le Règlement Intérieur	547,3,18,20
 Vu le Traité	10836,686,45,1726
 VueJS	13042
+Vuitton	14666
 Vuka Africa	4235
 Vuka Africa Ltd	4235
 Vuka Africa Ltd Privacy	4235
 Vukani Community Radio WS1	13461
 Vukani Mngxati	7467
 Vukosi Marivate	5074,1077,782,203,6341
+Vula Constitution	14458
+Vula Loi	14458
 VulaCoin	1092
 Vulamasango School and Ngwenya Town Board. Commemoration	12977
 Vulcan Elements	4447
-Vule Décret	2625
+Vule Décret	2625,11833,25
 Vulekamali	8013
 Vulekamali and Municipal Money	8013
 Vulgar Ad	4790
-Vulgarisation	11944,1397
+Vulgarisation	11944,1397,1109,87
 Vulgariser	10858,107,2325
 Vulgariser la Convention	13442
 Vulgariser le Mécanisme de Gestion des Plaintes	10876
@@ -244,6 +254,8 @@ Vulnerability Management	5665,7415,126
 Vulnerability Management Service	11952
 Vulnerability Profiles Report	12977
 Vulnerability and Capacity Assessment	12977
+Vulnerability and Impact Assessment	14443
+Vulnerability and Impact Assessment Fig	14443
 Vulnerability and Readiness	969,12362
 Vulnerability and Readiness Country Index	2889
 Vulnerability of Telecommunication Infrastructure	13331
@@ -264,7 +276,7 @@ Vulnerable Population Groups	1412
 Vulnerable Populations Missed	12761
 Vulnerable Populations Orphans and Youth Lack	12328
 Vulnerables25 Ministry of Programme National Housing	10985
-Vulnérabilité	10874,2,1096,1743
+Vulnérabilité	10874,2,1096,1743,765,142
 Vult Card	2749
 Vult Pay	2749
 Vult Pay Point	2749

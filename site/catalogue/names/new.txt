@@ -22,6 +22,7 @@ Africa Digital News	6138
 Africa News	3625,8562
 Africa Newsroom	7967
 Africa Private Equity News	597,459,4823,3732
+Africa Tech News	14674
 African News	13462
 African News Innovation Forum	13461
 Afrique IT News	8171
@@ -58,6 +59,7 @@ Botswana Daily News	5634,4729,2247
 Build Future Tech Talent News Services	8610
 Burkina Music News News	9993
 Business News	4873,1448
+Business News Daily	14441
 BusinessDay Newspapers	10689
 C News	9736
 C. Newton	4432
@@ -115,6 +117,7 @@ DAILY NEWS ReporterApril	5771
 DAILY NEWS ReporterJune	6728
 DE CÔTE D'IVOIRE Newsletter Recevez	3675
 DERNIERES NEWS	8797
+DIGITIZATION OF POLICE SERVICES News	14467
 Daily News	4553,1144,228,3534
 Daily News CAPE TOWN	3954
 Daily News DAR ES SALAAM	5771
@@ -162,6 +165,7 @@ Ethiopia News Agency	9801
 Ethiopian News Agency	1798,166,7,481,759,8966,102,1755,17,1,7,1,4,24,33,1,8,3
 Europe Tech News	9608
 Every Newborn-Measurement Improvement for Newborn	10878
+Expanding Digital Learning News	14588
 Experimental African News Innovation	13462
 Extra News	10105
 Extra News Channel	9522
@@ -187,6 +191,7 @@ Fintech News Africa	4848
 Font ResizerAa Hot News Business	9868
 Forum News ADVERTISEMENT No Result View	4619
 Forum News Sierra Leone Contact	4619
+Foundation News	14468
 Free Newsletters Free Insider Gold R70pm	7343
 French-speaking... News Digital Zimbabwe Unveils	5407,676
 Fresh News	14198
@@ -333,6 +338,7 @@ MIT News Office	12231
 MTND. Responsibility for Data Collection PCU Newly	3604
 Mainstream News Stories	13462
 Malawi News Agency	7900
+Mastercard Newsroom	14531
 Maternal and Newborn Health	14031
 Matuga. Kwale County News	12322
 Media Newsroom	13051
@@ -375,6 +381,7 @@ NEWSFLASH	13533
 NEWSLETTER Portfolio Funds	12339
 NEWU National Early Warning Unit	12931
 NEWZA	13460
+NGONG News	14505
 NVIDIA Newsroom	11135
 Nairobi News	10822
 Nairobi News Murkomen	8217
@@ -530,6 +537,7 @@ News Somalia	14263
 News South Sudan	9139
 News Southern Africa Strengthens Protection of Cultural	11439
 News The Harare Institute of Technology	13688
+News The Space for Early Warning	14522
 News Tracker	9786
 News Trident’s Ghana JV Projects US	9977
 News Tunisia	5951
@@ -556,6 +564,7 @@ News-and Events	4127
 News. Stay	3955,220,433,224,1245,2470,106,8,26,337
 News.Az	7220
 News24	1695,284,698,139,4235,6410
+News24. ENDNOTES	14673
 News24580	13461
 News3	9117
 NewsCentral Media	3459,1702,441,183,91,57,35,595,1709,1497,198,628,78,124,534,568,2486,19
@@ -616,7 +625,7 @@ Newsfeed Wave	3151
 Newsfeed Welcome	5054,2052,177
 Newsfeed When African	6583
 Newshaus	5402
-Newsletter	8674,269,24,158,2116,970
+Newsletter	8674,269,24,158,2116,970,2300
 Newsletter ISSUE	12625
 Newsletter Keep	3364
 Newsletter N	13051
@@ -629,7 +638,9 @@ Newsletters Get	7343
 Newsletters In Your Inbox Arufandika	3111
 Newsletters Stay	9750,247
 NewslettersDM ConnectDM ShopCorruption Watch DM	3435,807,2854,207
-Newsmada	7982
+Newsmada	7982,6695,5
+Newsmada URL	14677
+Newsmada Written	14597,23,41
 Newspaper	11178
 Newspaper Circulation and Online Newspaper Readership	2775
 Newspaper Proprietors' Association of Nigeria	11313
@@ -673,6 +684,7 @@ Pretoria News	12069
 Private Newspaper and Online Publishers Association of Ghana	8748
 Progress News and Events	11935
 Project News	13309
+Protests News	14517
 Publications Join Our Newsletter Enter	12361
 Pulse Kenya News	9736
 Punch News App	5800
@@ -706,6 +718,7 @@ Reuters Institute Digital News	13461
 Reuters Institute Digital News Report	13461
 Revise Newly	4653
 RunyankoleEnglishLuganda English News Cybersecurity	9695
+Ruto News	14535
 SA News	13462
 SA News Declared Advertiser Domains	13461
 SA News Publishers	13461,1
@@ -734,17 +747,20 @@ Smart News Liberia Monrovia	14354
 Social Justice News Reporter Special Investigative	7936
 Somali National News Agency	2719
 Somalia KIMT News	5947
+South African Government News	14673
 South African News Media Pretoria	13462
 South Africa’s News24	1647
 Southern and NewsDay	2888,32,354,504,1444,877,6,74,26,39,1,640,129,293,115
 Space Newspaper Editor The Electronic Transactions	8271
 Standard Zone News Skip	6281
 Standards for Improving Child Health and Newborn Care	12729
+Star Newspaper Kenya	14674
 Starlink News	5808
 Stock Exchange News Service	11159,2203
 Strategic Partner News Publishers	13462
 Strengthen Cross-Border Connectivity TechAfrica News	5066
 Strengthen Digital Resilience TechAfrica News	6657
+Strengthen National Cyber Resilience By News	14639
 Stronger Digital Skills TechAfrica News	3416
 Sudan News Agency	9587,1076
 Support for News Consumer	13461
@@ -755,14 +771,15 @@ TV Radio Social Media News Squeeze	8999
 TVC News	10725
 Tax Clearance Certificate August TAX Newsletter	12855
 Tax Newsletter	12855
-Tech Africa News	3060,423,2258,749,61,1024,250,6,949,27,140,161,1054,899,3
+Tech Africa News	3060,423,2258,749,61,1024,250,6,949,27,140,161,1054,899,3,3610
 Tech Africa News and Water Power Magazine	6490
 Tech News	13529
+Tech News Africa	14674
 Tech News Africa. Ghana	11118
 Tech News How the EU AI Act	8348
 Tech News Poland	9608
 Tech News Uber and China’s Pony AI	9608
-TechAfrica News	853,233,1063,7,1,1,10,83,99,213,92,43,3,352,64,267,25,80,75,18,113,88,82,298,17,17,273,2,25,22,3,1,102,29,10,63,8,162,29,178,29,215,67,10,8,28,63,312,7,25,5,24,8,67,108,56,195,4,188,12,153,11,54,18,44,229,17,133,77,52,27,22,29,439,88,292,1600,763,1,1,2,1,1,2874,107
+TechAfrica News	853,233,1063,7,1,1,10,83,99,213,92,43,3,352,64,267,25,80,75,18,113,88,82,298,17,17,273,2,25,22,3,1,102,29,10,63,8,162,29,178,29,215,67,10,8,28,63,312,7,25,5,24,8,67,108,56,195,4,188,12,153,11,54,18,44,229,17,133,77,52,27,22,29,439,88,292,1600,763,1,1,2,1,1,2874,107,1067,36
 TechAfrica News Camusat	3034
 TechAfrica News Editor	2459,2534,1193,1161,2556
 TechAfrica News Founder Akim Benamara	5752,2359
@@ -791,6 +808,7 @@ UPDATE NEWS	5800,4078,220,1211
 Uganda Business News	1150
 Uganda Business News and Reuters	1283
 Umlindi Newsletter Information	11334
+University News	14663
 University of Newcastle Upon Tyne Dr. Melvin	11134
 Us Newsroom Resources Programmes	11220
 Vanguard News	7219,235

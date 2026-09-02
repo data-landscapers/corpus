@@ -30,6 +30,7 @@ Bodart&publication year	771
 Bodewig	13332
 Bodies	5665,1167,488,4907,129,20,77,932,629
 Bodies Not Templates	11028
+Bodies Regulators	14565
 Bodija Market	8438
 Boditi	10574
 Body A Smarter Mbabane Starts	13227
@@ -61,11 +62,11 @@ Body Aide Mémoire Kingdom of Eswatini	13054
 Body Akums	13412
 Body Among	12998
 Body An Act	12897,397,56,141,5
-Body Annual Expert Group Meeting for Registrar	12064,697,459,458
+Body Annual Expert Group Meeting for Registrar	12064,697,459,458,977
 Body Archives Act	12890
 Body Artificial	13173
 Body Assessment	13987
-Body Author	12663,259,17,31,5,148
+Body Author	12663,259,17,31,5,148,1388,35
 Body Axelspace Corporation	14077
 Body BANK OF BOTSWANA	12579
 Body BANK-PAID ELDERLY GRANTS SHIFT	13236
@@ -112,8 +113,11 @@ Body Cabinet	13015
 Body Census and Statistics Act	13317
 Body China	11318,1892
 Body Civil	14137
+Body Cloud	14508
 Body Code of Practice for Official Statistics	13993
+Body Commission	14497
 Body Commissioning	13682
+Body Communications Authority	14595
 Body Community Systems Foundation	13143
 Body Companies	13497
 Body Companies and Other Business Entities Act	13311
@@ -174,9 +178,11 @@ Body FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA	14010
 Body FEDERAL NEGARIT GAZETA	13955
 Body FEDERAL NEGARIT GAZETTE EXTRAORDINARY ISSUE	13968
 Body FINAL COMMUNIQUÉ OF THE TWENTY	13440
+Body FOR IMMEDIATE RELEASE TEAM	14478
 Body FOR OFFICIAL USE ONLY Report	12781,551,127
 Body Feb	12957
 Body Federal Republic of Nigeria Official Gazette	11851
+Body Following	14453
 Body For Official Use Only Digital	13027
 Body Freedom of Information Act	13316
 Body From Lessons	13070
@@ -192,10 +198,11 @@ Body GOVT ISSUES CIRCULAR ON MANDATORY	13127
 Body GUIDANCE NOTE ON THE OPERATIONALISATION	13092
 Body Government	12992,202,190
 Body Government Launches World Bank-Funded Campaign	12817
+Body Government Moves	14561
 Body Government of Zimbabwe Commissions Dete Solar	13614
 Body Governo	12820,22,2
 Body Governor's Welcoming Remarks SIIPS	13052
-Body Govt	13601
+Body Govt	13601,1039
 Body Govt Launches Digital Skills Hub	13447
 Body Great	13486
 Body Guideline	13971
@@ -231,10 +238,17 @@ Body Issue No	13477
 Body JUDICIAL SERVICE COMMISSION	13504
 Body Joint Ministerial Statement	14075
 Body Jul	13203
+Body KENYA AND TANZANIA SIGN EIGHT	14600
 Body KINGDOM OF ESWATINI MINISTRY	12976
 Body KPI	12576
+Body Kenya Advances Digital Government	14525
 Body LAND LAW No	12771
 Body LAW NO	12847
+Body LAWS OF KENYA LAND REGISTRATION	14427
+Body LAWS OF KENYA REGISTRATION	14407
+Body LAWS OF KENYA SOCIAL PROTECTION	14493
+Body LAWS OF KENYA TAX PROCEDURES	14415
+Body LAWS OF KENYA THE TAX	14454
 Body LEAP Ethiopia	14254
 Body LESOTHO ADVANCES PLANS FOR OVERSEAS	12746
 Body LESOTHO COMPLETED	12749
@@ -270,6 +284,7 @@ Body MEDIA RELEASE	12963
 Body MEDIA STATEMENT SADC Ministers for ICT	12918
 Body MEMBERS of Parliament	13013
 Body MINISTRY OF ECONOMIC PLANNING	12962
+Body MINISTRY OF EDUCATION STATE DEPARTMENT	14501,169
 Body MINISTRY OF HEALTH AND SOCIAL	13104
 Body MINISTRY OF HOME AFFAIRS	12947
 Body MINISTRY OF JUSTICE AND CORRECTIONAL	12602
@@ -294,6 +309,7 @@ Body Members	12726
 Body Memorandum of Understanding	13348
 Body Minister for Economic Development and Planning	13047
 Body Ministro da Administração Estatal	12839
+Body Ministry	14521
 Body Ministry of Education DEVELOPED	13356
 Body Ministry of Gender Equality	12923,23
 Body Ministry of Justice Ref. No	13035
@@ -317,19 +333,24 @@ Body NATIONAL GENDER POLICY	13391
 Body NATIONAL POLICY ON Persons	13389
 Body NATIONAL REGISTRATION BUREAU PUBLIC STATEMENT	13105
 Body NCST Director of Planning	13229
+Body NFCS	14471
+Body NGAO	14641
 Body NOTICE	13218
 Body NOTICE No	12860
 Body NamPower Inaugurates Africa's First Digital	13200
 Body Namibia	12994,16,24,105,35,43,15
 Body Namibia's Data Protection Bill	12995
+Body National Addressing Bill	14631
 Body National Dialogue Conference Concludes Successfully	14160
 Body National ICT Policy	13346
 Body National Payment Systems Act	13288,1
 Body National Planning and Budgeting	13318
+Body National Population Data Management	14503
 Body National Registration Act	13296
 Body National Statistical System	13386
 Body National Strategy	13359
 Body Nearly	13691
+Body Neutral	14460
 Body New Cybersecurity Strategy	13444
 Body News	13061
 Body Nhlangano	13245
@@ -339,6 +360,7 @@ Body No.06	13131
 Body No.1	13119
 Body No.2	13126
 Body Notice	13178
+Body Notice for Public Participation	14559
 Body Notices	13002
 Body O Instituto Nacional de Gestão	12858
 Body OFFICE OF THE JUDICIARY	12920
@@ -360,7 +382,11 @@ Body POWER HOUR	12592
 Body PRESS RELEASE	12559,1105
 Body PROGRAM PAPER ON A PROPOSED	14096
 Body PROTOCOL ON LEGAL AFFAIRS	12527
+Body PUBLIC BUSINESS STRATEGY	14533
 Body PUBLIC NOTICE	12603,770,177
+Body PUBLIC NOTICES Integration	14591
+Body PUBLIC NOTICES On Boarding of Rental	14515
+Body PUBLIC NOTICES Validation of Income and Expenses	14526
 Body PUBLISHED BY AUTHORITY	12928,1
 Body Page	13509
 Body Paratus Zimbabwe and Powertel	13667
@@ -409,6 +435,7 @@ Body Report	12560,272,1206
 Body Representatives of Parliament	13134
 Body Republic of Botswana	12588
 Body Republic of Botswana Committee of Supply Speech	12598
+Body Republic of Kenya MINISTRY OF LABOUR	14516
 Body Republic of Zambia Human Rights Commission-Zambia	13484
 Body Republic of Zambia National Digital Transformation	13347
 Body Request for Bids Goods	13185
@@ -436,6 +463,7 @@ Body Skills Development Plan	12934
 Body Southern African	13415
 Body Speci	12700
 Body Standards Annual Work Programme	12621
+Body State Department for Lands	14654
 Body Statistical Data Dissemination and Access Background	14115
 Body Statistical Report No	12672
 Body Statistics	13305
@@ -443,6 +471,7 @@ Body Statistics Act	12887,592
 Body Statutory	13326,72,39,122,18
 Body Statutory Instrument No	12624
 Body Story Highlights	11315
+Body Submitted	14665
 Body Supply	13404
 Body Supporting	13654
 Body Swakopmund	12960
@@ -454,6 +483,7 @@ Body THE ACCESS TO INFORMATION ACT	13352
 Body THE EQUITABLE LESOTHO INITIATIVE LAUNCHED	12716
 Body THE GLOBAL PARTNERSHIP FOR EDUCATION	13999
 Body THE KINGDOM OF SWAZILAND	12896
+Body THE REPUBLIC OF KENYA MINISTRY	14487
 Body THE STATE OF ICT	12657
 Body THE WORLD BANK GROUP	12540
 Body THE ZAMBIA QUALIFICATIONS AUTHORITY ACT	13371
@@ -461,9 +491,11 @@ Body THE ZAMBIA REVENUE AUTHORITY	13449
 Body THIRTY-FIRST POST-CABINET PRESS BRIEFING	13443
 Body THIS ACTION IS FUNDED	12843
 Body Table of Contents Acknowledgements	12978
+Body Tatu City	14507
 Body Telecom Namibia and CRAN Formally Sign	13150
 Body The African Union Commission	11283,2197
 Body The Armauer Hansen Research Institute	14094
+Body The Digital Agricultural Information Bill	14575
 Body The Eswatini Revenue Service	13000
 Body The Ethiopia-China	14153
 Body The Ethiopian Center for Disability and Development	14082
@@ -472,6 +504,7 @@ Body The Global Findex Database	13084
 Body The Government	13473,189
 Body The Higher Education Authority	13623
 Body The Honourable Minister of Commerce	13072
+Body The ICT Authority	14441
 Body The Implementation Support Mission	13135
 Body The Judiciary	12543
 Body The Minister of Home Affairs Local	12734
@@ -552,6 +585,7 @@ Body Zimbabwe Unveils	13544
 Body Zimbabwe's RTGS Central Money Transfer	13408
 Body of Professors	11715
 Body-level	1783
+Business Organisations and Professional Bodies	14409
 Clarifications and Support. Public Bodies	14014
 Colegio Francisco Bodie de Fortuni Malabo	4209
 Colegio Nacional Francisco Bodin Ngalo	4209
@@ -641,6 +675,7 @@ Public Bodies The Government	12453,892
 Public Body	14014
 Public Body Responsible for Participation of Firms	12389
 Qualifications Bodies	6832
+RANDRIANANAHARY Bodo Sandrah UGD Project Manager	14539
 RAQUEL HINESTROSA BODIEN	1855
 REGULATORY BODIES Ministry of Finance Ministry of Public	11131
 RETSSM. Body	7977

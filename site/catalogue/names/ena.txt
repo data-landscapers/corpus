@@ -29,6 +29,7 @@ Burkina Faso Enabel	640
 Burkina Faso. Enables	708
 Business Enabling Reforms	3456
 Business Enabling Reforms Competitiveness and IPF	11469
+C Enable	14674
 COMMENTS Enabling Interconnect National FMCT	11857
 CONSTITUTIONAL BASIS AND ENABLING LEGISLATION	3861
 CONSTITUTIONAL COMMITMENT AND ENACTMENT	3861
@@ -39,6 +40,7 @@ CREATE AN ENABLING ENVIRONMENT FOR DIGITAL	899
 Capacity-Building Enabel	10865
 Capital Enabling PCM Private Capital Mobilization	1264
 Closing Period Strengthening the Enabling Environment Number	1867
+Complementary Systems Enabling AMSAF and RARS	14522
 Connect and Enable Skip	12493
 Consommation des Ménages de Bujumbura ENAPO	13377
 Constitutional Basis and Enabling Legislation	3861
@@ -72,7 +74,7 @@ Digital Citizen Engagement and GovTech Enablers. Tanzania	4612
 Digital Enablement	13076
 Digital Enablement Programmes	1236
 Digital Freedom Enabling Networks	1566
-Digital Governance and Digital Enabling Environment	12675
+Digital Governance and Digital Enabling Environment	12675,1791,4
 Digital Government Enabling Services	12359
 Digital Government Enabling Services Overview	12359
 Digital Public Service Delivery Enablers	1284,12047
@@ -109,10 +111,11 @@ ENABLING ENVIRONMENT	11918
 ENABLING LEGISLATIVE FRAMEWORK	3861
 ENABLING PRINCIPLE	12556
 ENABLING REGULATIONS	11860
+ENABLING THE RIGHTS OF A DATA	14435
 ENACT	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1,135
 ENACT ENACT Africa	11887,266,1,9,178
 ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451
-ENACTED	11,772,189,361,141,1252,1,3145,1049,924,3332,374,425,78,405,65,105,1,14,246,5,3,2,5,5,6,3,9,1,1,8,356,5,6,6,7,1,2,1,17,11,1,1,19,32,88,5,1,69
+ENACTED	11,772,189,361,141,1252,1,3145,1049,924,3332,374,425,78,405,65,105,1,14,246,5,3,2,5,5,6,3,9,1,1,8,356,5,6,6,7,1,2,1,17,11,1,1,19,32,88,5,1,69,918,91
 ENACTS	7
 ENAMCO	14008
 ENAMCO. SOEs	14008
@@ -136,7 +139,7 @@ Enabel and BIO	256
 Enabel's Senegal	641
 Enabel. Cette	14184
 Enabel’s WeTrain4Health	10865
-Enable	395,372,81,110,3,2913,252,308,414,133,264,431,1,1259,612,1898,1275,171,64,175,5,110,611,95,34,11,230,132,40,45,54,463,16,60,58,126,74,166,51,468,43
+Enable	395,372,81,110,3,2913,252,308,414,133,264,431,1,1259,612,1898,1275,171,64,175,5,110,611,95,34,11,230,132,40,45,54,463,16,60,58,126,74,166,51,468,43,543,56,33,19
 Enable Ecosystem Actors	12356
 Enable Employers	12961
 Enable FPI Compliance	11995
@@ -144,6 +147,7 @@ Enable G2B and B2G	11940
 Enable Government	395
 Enable Green	11131
 Enable ICT SEPs	13295
+Enable Interoperability	14441
 Enable Interoperability and Open Standards Ensure	10157
 Enable Nationwide Instant Interoperable Payments	7301
 Enable Nationwide Instant Interoperable Payments Nigerian	6887
@@ -154,8 +158,9 @@ Enable Responsible Innovation	12444
 Enable Service Delivery	6754,1645,1,34,3741
 Enable Service Delivery GIR	12175
 Enable Service Delivery Project	6754,6368
+Enable Surveillance Intégrée des Maladie	14622
 Enable and Ensure	10985
-Enabled	1580,199,3466,3993,4180,719
+Enabled	1580,199,3466,3993,4180,719,518
 Enabled Interventions	10865
 Enabled Malawi	12241
 Enabled Medical Devices	3651,4650
@@ -163,7 +168,7 @@ Enabled Medical Devices. Individuals	3651
 Enablement Officer	11289
 Enablement The Government	12456
 Enablement of Local Production	4045
-Enabler	1204,892,2432,3955,3477,293,259
+Enabler	1204,892,2432,3955,3477,293,259,2054
 Enabler Integration	4528,7984
 Enabler Mission Key Actions Pillar Alignment	12512
 Enabler for Development UK FCDO	364
@@ -172,11 +177,12 @@ Enabler of Public Service Co-creation	2096
 Enablers	761,200,243,39,41,530,644,917,1153,4074,3358,46,58,292,156,405,31,383,143
 Enablers The Internet	1814
 Enablers and Inhibitors of AI Uptake	1814
+Enablers and Safeguards	14674
 Enablers of Successful	5675
 Enables	196,804,83,2412,2380,557,514,2806,974,403,98,49,663,2,56,273,16,5,68,85,593,5,636
 Enables FCDO	2165
 Enables Individuals	12241,839
-Enabling	767,132,232,97,15,21,20,715,187,803,872,71,436,285,634,388,738,533,119,1063,1306,1094,247,69,147,15,123,115,31,585,3,53,2,22,54,6,176,157,26,73,25,227,624,23,27,405,175,53
+Enabling	767,132,232,97,15,21,20,715,187,803,872,71,436,285,634,388,738,533,119,1063,1306,1094,247,69,147,15,123,115,31,585,3,53,2,22,54,6,176,157,26,73,25,227,624,23,27,405,175,53,575,108
 Enabling Africa	2525
 Enabling Africans	5752
 Enabling Alternative Backhaul Solutions	5245
@@ -192,13 +198,14 @@ Enabling Digital Public Infrastructure	12438
 Enabling Digital Transformation Policies	11230
 Enabling East African	11777
 Enabling Environme	12674
-Enabling Environment	970,11942,171,908
+Enabling Environment	970,11942,171,908,418
 Enabling Environment ACCESSIBILITY OF SCHOOLS Public	11918
 Enabling Environment for Social Protection Systems	12964
 Enabling Environment-	13991
 Enabling Factors	12356
 Enabling Factors Analysis	11907,268,1815
 Enabling Factors1 Republic of Congo	11907
+Enabling Financial	14674
 Enabling Financial Inclusion	3679
 Enabling Financial Inclusion for Millions Aug	12684
 Enabling Future Growth	10761
@@ -236,12 +243,12 @@ Enabling the Processing of MOSOLO Card Transactions	11994
 Enabling the Registrar	11862
 Enabling-document	2662
 Enabling5I.nEfnraasbtlriuncgtIunrfera	10157
-Enact	958,203,3367,2266,2605,3113,163,620,25,667,35
+Enact	958,203,3367,2266,2605,3113,163,620,25,667,35,412
 Enact National	12356
 Enact National AI Policy Act	4528,7984
 Enact Personal Data Protection Act	11133
-Enacted	1642,5501,2844,641,1223,2,790,2,3,3,2,8,248
-Enacted Budget	6463,5751,1998
+Enacted	1642,5501,2844,641,1223,2,790,2,3,3,2,8,248,1500,185
+Enacted Budget	6463,5751,1998,414
 Enacted Mapas	4456
 Enacting	8460,2102,1652,460
 Enacting Institutional Order	7966
@@ -267,6 +274,7 @@ Factors Enabling Effective Navigation of Legal Challenges	11909
 Finalise and Enact the Cybercrime	5780
 Finnfund. Pelle Enarsson	5099
 Five Foundational Enablers Driving the AI Readiness	2957
+Focus Area Collaboration Key Enablers Challenges	14566
 Foundational Enablers Constraints	7548
 GENERAL ENABLING PROVISIONS	28
 GENERAL ENABLING PROVISIONS CHAPTER	28
@@ -346,7 +354,7 @@ Pillars and Enablers	13060
 Practical and Enabling Cooperation H.E. Dr Thani	5086
 Presidential Enabling Business Environment Council's	7560
 Private Capital Enabled	11469
-Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904
+Private Capital Enabling	1264,440,163,386,38,182,983,106,42,176,873,1886,4229,649,143,345,521,685,904,561
 Prof. Enaw	7336
 Promising Digitally Enabled Innovation	7596
 Prosperity Insight GovTech Enablers Index	10785
@@ -354,6 +362,7 @@ Provisions Enabling Open Science	12389
 Public Value Perspective for ICT Enabled	5700
 RATING BASIC STAGE Malawi's Access Enablers	12214
 RECOGNISING THE NEED FOR ENABLING ENVIRONMENT	1243
+REGIONAL LEADERSHIP NATIONAL ENABLERS	14566
 Reaffirms Government’s Commitment To Enabling Private	4114
 Regulations BE IT ENACTED	3714
 Regulations Enactment Short	13322
@@ -381,6 +390,7 @@ Strategic Enabler Beyond	4906
 Strengthening Evidence of Competition Enablers	2199
 Strengthening the Enabling Environment	1778,89,121
 Strengthening the Enabling Environment for Gender Data Use	8427
+Supporting Enabling Environment for Green Energy and Digital	14456
 TECHNOLOGICAL ENABLEMENT	11277
 Talk Locations Digital Enablement Menu WIOCC	11243
 Technology Enabled Learning	899
@@ -389,5 +399,6 @@ Uganda Enabel	642
 Updating the Legal and Policy Enabling Environment	12663
 Urgent Enablers	13005
 W2 GovTech Enablers Index	10785
+World Enable	14674
 Zambia Report BEHIND THE BAROMETER Enabling	5247
 Zambia Revenue Authority Act. ENACTED	13449

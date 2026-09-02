@@ -1,15 +1,15 @@
 AFRINET BUSINESS LIMITED Data Controller INST-4128624F222	7167
 AFRINET BUSINESS LIMITED Data Processor INST-4128624F222	7167
 AFRINET GLOBAL	7167
-AFRINIC	585,2369,549,371,336,48,1595,255,123,40,1166,1325,104,1,551,87,1,1,1,1,103,1,97,99,105,1,76,1,87,146,150,1421,1,3,1,11,1,10,235,1467,640,75,1
+AFRINIC	585,2369,549,371,336,48,1595,255,123,40,1166,1325,104,1,551,87,1,1,1,1,103,1,97,99,105,1,76,1,87,146,150,1421,1,3,1,11,1,10,235,1467,640,75,1,192,226,12
 AFRINIC AGMM	9914,1,77
 AFRINIC Annual General Members Meeting	10079
 AFRINIC Annual General Members' Meeting	585
 AFRINIC Appeal Committee	9613
 AFRINIC Appeal Committee Published	14240
 AFRINIC Appeal Stopped	9809
-AFRINIC Board	10079,371,1346,4,1
-AFRINIC Board of Directors	10079,1721,2440
+AFRINIC Board	10079,371,1346,4,1,2632,238
+AFRINIC Board of Directors	10079,1721,2440,193
 AFRINIC Board. Presentation	11801
 AFRINIC Board. Subject	8867
 AFRINIC Bylaws	585,11228
@@ -30,6 +30,9 @@ AFRINIC Legal Adviser	10079
 AFRINIC Lock-In	9915,77
 AFRINIC Members and Stakeholders Survey Published	10225
 AFRINIC Membership	10079
+AFRINIC PDWG Co-Chairs	14671
+AFRINIC Policy Development Process	14433
+AFRINIC Policy Liaison Team	14659
 AFRINIC RPD	9613,4628
 AFRINIC Registration Service	585
 AFRINIC Resource Members	9612
@@ -37,6 +40,7 @@ AFRINIC Resource Policy Discussion	7437
 AFRINIC Secretariat	10079
 AFRINIC Service Region	8866
 AFRINIC Staff Assessment	12058
+AFRINIC WHOIS	14659
 AFRINIC and Gowtamsingh Dabee	9506
 AFRINIC's African	10375
 AFRINIC's Appeal Committee	9613
@@ -44,6 +48,7 @@ AFRINIC's Board	9992
 AFRINIC's Board Documents	9612
 AFRINIC's Bylaws Before and After Crisis	11796
 AFRINIC's Bylaws Before and After Crisis Heng	11796
+AFRINIC's Consolidated Policy Manual	14433
 AFRINIC's Constitution	9507
 AFRINIC's Constitution Is Africa's Next Internet	10375
 AFRINIC's Constitution. Grepped	8867
@@ -57,7 +62,8 @@ AFRINIC's USD	11813
 AFRINIC's Unfinished Board-Authority Chain AFRINIC	9507
 AFRINIC-36	9506
 AFRINIC-37	11797,2368
-AFRINIC-37 Public Policy Meeting	11797
+AFRINIC-37 PPM	14671
+AFRINIC-37 Public Policy Meeting	11797,2874
 AFRINIC-38	14241
 AFRINIC-38 Public Policy Meeting	14241
 AFRINIC-Announce	9914
@@ -73,6 +79,7 @@ AFRINIC. Votre	14241
 AFRINIC’s Constitution. The Committee	11811
 AFRINIC’s Registration Service Agreement	585
 AUTHENTICATION OF DOCUMENTS AFRINIC Bylaws	585
+Additional Notes The AFRINIC PDWG Co-Chairs	14671
 AfriNIC	585,1334,6947
 AfriNIC and Number Resources	11552
 AfriNiC	1919
@@ -86,6 +93,7 @@ Authority Trail AFRINIC	9508
 Can AFRINIC	9710
 Chief Executive Officer of AFRINIC	11800
 Communication AFRINIC	14241
+Community Notify AFRINIC	14659
 Companies Act and AFRINIC	9506
 Constitution of AFRINIC	585
 Constitution of AFRINIC. Eddy Kayihura Chief Executive	585
@@ -106,6 +114,7 @@ South Africa. AFRINIC-38	14241
 Summary AFRINIC	11796,1,15
 Summary AFRINIC Resolution	11813
 Technology Co Ltd. AfriNet Web	8285
+Terms of Reference The AFRINIC Policy Development	14433
 Through Afrinvest PlutusNeo	7446
 UMA Internet Governance AFRINIC	961
 Under AFRINIC	11797

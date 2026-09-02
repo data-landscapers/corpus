@@ -1,30 +1,45 @@
+ANNEXE-7. FICHE DE RÉCEPTION DES PLAINTES	14488
 ARTICLES POPULAIRES Plaies	11123
 Afram Plains	7695
 Artificial Intelligence Plaintiff	9629
+Comité de Gestion des Plaintes	14425
 Counsel for Plaintiff	5692
+Entreprise Plaintes	14488
+FICHE DE RÉCEPTION DES PLAINTES Daty	14489
 Finances MGP Mécanisme de Gestion des Plaintes MPA	10876
+GESTION DE PLAINTES	14490
 GSM SOBEBRA PLAINTES	10821
 Imbo Plains	13331
 Imbo and Rusizi Plains	13331
 Information Sanitaire SPT Stratégie Plaintes Traitements	13306
 Kwahu Afram Plains	7695
+Law Firm Details Plaintiff Attorney	14675
+MECANISME DE GESTION DE PLAINTES	14488,1,1
+MECANISME DE GESTION DES PLAINTES DANS	14425
 Mitchells Plain	8999
 Mitchell’s Plain	8999
+Moyen Terme Comité de Gestion des Plaintes Commune	14425
+MÉCANISME DE GESTION DES PLAINTES DES	14424
+Mécanisme de Gestion de Plaintes	14488,1,1
 Mécanisme de Gestion des Plaintes	5221,5655
 OSC Plaidoyer	13325
 PLAINTES DES CONSOMMATEURS	13390
 PLAINTES DES CONSOMMATEURS SECTION VII	13390
-Plaidoyer	1876,3203,8211,35
+PLAINTES Daty Anton’ny N	14490
+Party Details Plaintiff	14675
+Plaidoyer	1876,3203,8211,35,1297
 Plaie	13300
+Plaignant	14425
 Plain	11269
 Plain-language	9429
+Plaine Alluviale	14488
 Plaine Verte	14267
 Plainly	7451
-Plainte	10821
+Plainte	10821,3716
 Plainte de Mme X	10821
 Plainte de X	10821
 Plainte de X RESPONSABLE DE TRAITEMENT OBJET	10821
-Plaintes	10975,892,1523
+Plaintes	10975,892,1523,1034,1,63,1,1
 Plaintes APDP BILAN DE LA DEUXIEME	10821
 Plaintes MOT DU PRESIDENT Etienne Marie	10821
 Plaintiff	5692,1777,5993
@@ -36,8 +51,11 @@ Rusizi Plain	13331
 Résolution des Plaintes	10975
 STATED PLAINLY	4848
 Site Address Boxer Mitchell's Plain Boxer	8999
+Statistique Mécanisme de Gestion des Plaintes Ministère	14425
 Stratégies Plainte Traitement	13306
 Stratégies Plainte-Traitement	13306
+TRI DE LA PLAINTE Examen	14424
+Types Plaintes	14425
 VENTILATION DES PLAINTES DES CONSOMMATEURS DES	13390
 VENTILATION DES PLAINTES DES PME	13390
 Vulgariser le Mécanisme de Gestion des Plaintes	10876

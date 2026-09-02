@@ -1,5 +1,5 @@
-A. Power	7845
-A. Powers	7845
+A. Power	7845,6562
+A. Powers	7845,6562
 ACCEPT Powered	6181
 ADMINISTRATIVE ENFORCEMENT POWERS AND PROCEDURES	3861
 AI for Middle Powers. Under the US	5044
@@ -60,6 +60,7 @@ Botswana Power Corporation Botswana Power Corporation	12604
 Botswana Power Corporation NOTE	12592
 Build AI Factory Powered	3049
 Business Eswatini Pivotal Power Meeting	5015
+COGTA Power Apps Skills Transfer Programme	14694
 CONSTRAINED POWER	10861
 CRT Power	1988
 CT Comité Tarifaire DPDC Dibamba Power	10975
@@ -69,6 +70,7 @@ Captive Power Generation Permits	12062
 Case Study of Hwange Power Plant Power	1154
 Cash Power	9973
 Central African Power Pool	11149
+Centre. Powers	14575
 Challenges Affecting Power Generation	13241
 Chania Power Company	12256
 Chapter Powers	3714
@@ -102,6 +104,7 @@ Delegation of Membership Suspension and Termination Powers	8866
 Dell PowerEdge R640	9475
 Dell PowerEdge R740	9475
 Development Authority Power Holding Company of Nigeria	11129
+Digital Government Powered	14566
 Digital Powerhouse	4993
 Distributed Power	1196
 Distributed Power Africa	1196,624,2540,536,1596,4230
@@ -127,6 +130,7 @@ Econet Powers Lesotho's Digital Leap	3060
 Effective and Captive Power Capacity	12256
 Egbin Power Plant. Egbin	10157
 Electric Power	9123,2833,277
+Electric Power Licence Objection	14422
 Electrical Power	13185
 Embracing the Power	12962
 Embracing the Power of Inclusive Data Towards	12962
@@ -179,6 +183,7 @@ Great Power Competition	4676
 GreenCo Power Services Limited	12937
 Gulf Power	12256
 H. Power of Registrar	7845
+HOLLY POWERS	14434
 Hard Power	6001
 Hard Power Model	6001
 Having Master Power Technologies and Digital Parks	11491
@@ -192,7 +197,7 @@ Hwange Power Station	408,9050
 Hydro Power Kenya	12256
 Hydro Power Plant HV	12358
 Hydro Power Station Chania	12256
-IPP Independent Power Producer IT Information	10781,1646
+IPP Independent Power Producer IT Information	10781,1646,2055
 IPP Independent Power Producer LAMC Liability	12233
 IPPS Imports Independent Power Producers Transmission	12399
 IPPs Power Plants	12358
@@ -228,7 +233,7 @@ Kam’mwamba Coal-Fired Power Plant Project	13060
 Kapichira Power Station Unit	13241
 Kariba North Bank Power Station	12382
 Kariba Power Station	408,9050
-Kenya Power	4801,992,340
+Kenya Power	4801,992,340,8343,191
 Kenya Power Lighting Company Limited	12256
 Kenya Power and Lighting Co	12192
 Kenya Power and Lighting Co. Ltd	12192
@@ -236,11 +241,13 @@ Kenya Power and Lighting Company	6133,4180,1943
 Kenya Power and Lighting Company KPRL Kenya	2775
 Kenya Power and Lightning Company	10313
 Kenya Power and Rural	899
+Kenya Power's Managing Director	14667
 Koeberg Nuclear Power Station. Programme	11272
 Koysha Hydroelectric Power	12233
 Kusile Power Station	2626,8597
 LAUNCH SHE POWERS AFRICA DIGITAL ACADEMY	12972
 LCPDP Least-Cost Power Development Plan MCC	12717
+LNG Power Plant	14667
 LONGi Hi-MO X10 Powers Adailou's First	13874
 Labor Power	5366,52,1069,625,35,27
 Lack of Available Power Shared	11857
@@ -282,7 +289,7 @@ Make Model Antenna Power	736
 Make Model Transmit Power	736
 Malawi Power	12979
 Managing Director of Powertel Communications	7036,6631
-Manufacturer POP Point of Presence PUE Power	10781,1646
+Manufacturer POP Point of Presence PUE Power	10781,1646,2055
 Manufacturer PoP Point of Presence PUE Power	10861
 Maputo Thermal Power Plant. Revenue	12316
 Marokane. Kusile Power Station	11223
@@ -297,8 +304,9 @@ Megawatts of Geothermal Power Generation	1245
 Menengai Geothermal Thika Power	12256
 Meter Power Cable	34
 Metumi Power Company	12256
+Microsoft Power Apps	14694
 Microsoft Power BI	11231,1523
-Microsoft Power Platform	6353
+Microsoft Power Platform	6353,8341
 Microsoft Power Platforms	11231
 Microsoft Power Point	962
 Microsoft PowerPoint Microsoft Excel Sparx Enterprise	9124
@@ -330,6 +338,7 @@ North African Power Pool	11149
 North West. Power Platform	6353
 Notarised Power of Attorney D. Submission of Bids	13185
 Nuclear Power Plants Authority	10081
+Nuclear Power and Energy Agency	14422
 Nyakwana Power Company	12256
 OFFICE MEMBERSHIP POWERS OF MEMBERS TERMINATION	585
 ORPOWER4 RABAI POWER	12256
@@ -347,6 +356,7 @@ PASEB Bissau City Power Supply Improvement	11549
 PDU Power Distribution Unit PDU Power	13185
 PIU Project Implementation Unit PPA Power	11549
 PMP Project Management Professional PSU Power	13185
+POPULATION AND HOUSING CENSUS Power	14594
 POWER AND DUTIES OF SPACE SCIENCE	13986
 POWER DISTRIBUTION	12358
 POWER GENERATION	12358
@@ -376,7 +386,7 @@ PPP Purchasing Power Parity PROMOREN Programa	10765,10
 PRESCRIBE THE POWERS AND FUNCTIONS	11976
 PROCEDURAL POWERS OF INVESTIGATIONS	12459
 PUE Power Usage Effectiveness RBAC Role-Based	6432
-PUE Power Usage Effectiveness RFS Ready	10781
+PUE Power Usage Effectiveness RFS Ready	10781,3701
 Paises de Lingua Portuguesa Southern African Power	9409
 Paratus and Powertel	5908,442
 Part B Powers	11181
@@ -394,11 +404,12 @@ Powder	9123
 Powdered	8182
 Powell	2948,5018
 PowellBJWaltzTJChinmanMJDamschroderLJSmithJLMatthieuMMet	8376,3870
-Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9,10,4,82,26,5,32,1,206,14,15,33,20,10,206,109,11,6,3,7,64,13,20,150,383,7,66,61,306
+Power	1,2,7,1,10,6,7,559,306,105,215,1,41,465,88,913,658,169,6,23,13,118,962,220,68,44,239,238,180,391,77,243,415,41,128,106,271,30,271,160,328,137,492,188,180,32,254,262,244,54,23,85,80,294,54,224,55,35,42,145,11,11,22,2,50,31,3,4,39,30,60,16,25,56,102,1,2,221,159,6,9,87,23,30,92,47,1,39,41,7,7,15,103,41,11,17,17,1,14,42,1,10,9,10,4,82,26,5,32,1,206,14,15,33,20,10,206,109,11,6,3,7,64,13,20,150,383,7,66,61,306,16,3,12,172
 Power Africa	11923,268
 Power Africa’s AI Future NetOne Steps	3965
 Power Apps	13080
-Power BI	6432,4444,99,256,1523,283
+Power Automate	14694
+Power BI	6432,4444,99,256,1523,283,1518,67
 Power BI Desktop URL	13769
 Power BI and Excel. Trainings	8183
 Power BI. Ce	10975
@@ -433,6 +444,7 @@ Power Infrastructure	3487,9987
 Power Installation Assessments	1988
 Power International Mobile Money Transfers	11994
 Power Intra-African Trade	7523
+Power Is Fueling Madagascar's Economic	14669
 Power Is the Real Constraint Edge	8852
 Power Law Africa	10729
 Power Learn Project	7568
@@ -445,6 +457,7 @@ Power Operations	4896,6606
 Power Operations Division	4896
 Power Outages	12213,732
 Power Packs	10742
+Power Pages and Dataverse. The COGTA Power	14694
 Power Parity PPP Project Procurement Strategy	11855
 Power Parity SADC Southern African Development	12663
 Power Plant Launch	13624
@@ -511,6 +524,7 @@ Power of Data Protection Commissioner	13321
 Power of Government	13948
 Power of Integration Integrating	13005
 Power of Minister	11181,2289
+Power of Paratus CloudParatus Cloud	14508
 Power of Partnership and Invisible Infrastructure	5528
 Power of Possible	14375
 Power of Registrar	3714,9202,395
@@ -544,18 +558,19 @@ Powered Sustainability UNDP Mauritius Annual Report	11332
 Powerful	9230
 Powerful AI Cloud	11502
 Powerful Viral Video Khanyi Mlaba	12336
-Powering	2537,4056,1019,139,699,1572
+Powering	2537,4056,1019,139,699,1572,4651
 Powering Africa	4428
 Powering African Innovation Stories TAIS	5551
 Powering Africa’s Potential Through Its People	10964
 Powering Energy Independence	13795
 Powering Growth	11105,31
+Powering Growth and Prosperity for Businesses and Investors	14674
 Powering Opportunity	13228
 Powering Regional Integration	11608
 Powering the Future of Enterprise Innovation	6056
 PoweringAfrica	12399,1034
 PoweringZambia Comments	13647
-Powers	11,16,756,437,113,141,119,925,1065,131,147,7318,2,9,274,512,413,70,72,4,14,80,15,1,16,110,119,2,2,5,1,3,2,1,3,7,3,10,9,16,333,279,40,342,3
+Powers	11,16,756,437,113,141,119,925,1065,131,147,7318,2,9,274,512,413,70,72,4,14,80,15,1,16,110,119,2,2,5,1,3,2,1,3,7,3,10,9,16,333,279,40,342,3,458,13,27,44,82
 Powers Africa	13101
 Powers Africa Digital Academy	7687
 Powers B	8460
@@ -597,7 +612,7 @@ Promoting Gas Power Market Integration	7426
 Protection of Power	13295
 Protocol IPP Independent Power Producers IPP	2775
 Public Services Political Power	11870
-Purchasing Power Parity	11183,398
+Purchasing Power Parity	11183,398,2906
 Purchasing Power Parity PPSD Project Procurement	10829
 PyTorch and PowerToys	11922
 REGIONAL INTEGRATION AND POWER TRADE	12563
@@ -620,6 +635,7 @@ Rehabilitation of Power Plants	13060
 Reliable Power	12445
 Remote Station Tx Power Tunability	736
 Renewable Energy Independent Power Producer	11248
+Renewable Energy Independent Power Producer Procurement	14673
 Renewable Energy Independent Power Producer Programme	11228
 Renewable Energy and Power Systems	4896
 Renewable Independent Power Producers Programme	11228
@@ -636,6 +652,7 @@ SADC Model Law Powers	27
 SAPP Southern African Power Pool TOU	12233
 SECTOR ELÉCTRICO ANGOLA POWER SECTOR LONG	11366
 SHARES AND CONTROL OF COMPANY Power	3714
+STATEMENT ON DELEGATION OF LEGISLATIVE POWERS	14594
 Salima Solar Power Plant	13241
 Scheme EPP Emergency Power Producers EPRA	2775
 Sector Institutional Development Project PDMP Power	11380
@@ -728,6 +745,7 @@ Weza Power Début	13433
 Weza Power Project	13433
 Wind Power	12256
 Wiredin. Powered	8449
+Within the Eastern Africa Power Pool	14667
 Word and PowerPoint	9124
 ZAMPOST Is Powering Zambia's Digital	13521
 ZESCO and TATA Power of India	13561

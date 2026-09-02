@@ -1,4 +1,5 @@
 A. Nom	13390
+AES Nombre	14489,1
 AL Nombre	13390
 ANS. NOMBRE	13300
 APD Nombre	3396
@@ -71,6 +72,7 @@ DE LA LIGNE. NOM DE L'ENFANT	13300
 DE LIGNE ET LE NOM	13300
 DE NOMBREUSES FOIS	13300
 DE NUMÉRO DE NUMÉRO DE NOM	13300
+DEMANDEUR Nom	14488,1,1
 DEMANDEZ LE NOMBRE DE MOIS RÉVOLUS	13300
 DES MURS V.4.1.1 Public Nombre	10847
 DES MURS VI.4.1.2 Privé Nombre	10847
@@ -91,10 +93,12 @@ Deputy Minister Dr. Nomalungelo Gina	6480
 Deputy Minister Nomalungelo Gina	11221
 Description Nombre	10876
 Description Nominator	11417
+Disponible Nombre	14622
 Doações Nome	11532
 Docum Nombre	3396
 Dori Nombre	3396
 Dr. Nomalungelo Gina	6480
+Développer Nombre	14489
 EMF Nombre	11944
 ENCERCLEZ CE NOMBRE. ALLEZ MAINTENANT AU	13300
 ENREGISTREZ LE NOM ET	13300
@@ -103,10 +107,12 @@ ET FILTRES NOM	13300
 ET LE NOM DE L’ENFANT SÉLECTIONNÉ	13300
 ET LE NOM ET L'ÉTAT	13300
 ET NOM NOM VIVANT VIVANT	13300
+ET PRÉNOM DE LA MÈRE NOM	14480
 Effectif Nombre	13300
 Effectif Pourcentage Effectif Nombre Effectif	13300
 Effectifs de Nombre	13300
 ElecCom and NomCom. Yet	9507
+Entreprise Nombre	14489
 Entrées Nombre	13390
 Excellence Nombre	13306
 Express Account Masterpass Nombre	13390
@@ -119,6 +125,7 @@ FILTRES NOM NOM	13300
 FTD. Pays Nom	10708
 Financement Nombre	10965
 Fiscale Nombre de PSF	10965
+Fokontany Nombre	14488,1,1
 Formule Nombre	10876
 Formule Nombres de CEC	10876
 Freeman Nomvalo	9365
@@ -165,7 +172,8 @@ INSP Nombre	13306
 IPI Africa Programme Lead Nompilo Simanje	10533
 ISICELO SOKUBHALISA NOMA SOKUVUSELELA KOMHLINZEKI WENKUNDLA	11573
 ISIQEPHU A ISICELO SOKUBHALISA NOMA SOKUVUSELELA	11573
-Indicateurs Nombre	11944
+Indicateurs Conflits Nombre des Consultations	14488,1,1
+Indicateurs Nombre	11944,2544,2
 Indice Synthétique de Fécondité Désiré Nombre	13300
 Informatique Nombre	13306
 Instrutivo de Nomenclatura	11405
@@ -230,6 +238,7 @@ N0 Nom	13341
 NAISSANCE AVANT-DERNIÈRE NAISSANCE NOM No QUESTIONS	13300
 ND Nombre	3396
 NET DE SCOLARISATION PAR SEXE Nombre	10847
+NKUSI-IT's Chief Commercial Officer Dr Nomonde	14694
 NOM COL	13300
 NOM DE L'AVANT-DERNIÈRE NUMÉRO DE L'HISTORIQUE	13300
 NOM DE L'ENDROIT	13300
@@ -253,6 +262,8 @@ NOM DU PARENT	13300
 NOM DU PLUS JEUNE ENFANT VIVANT	13300
 NOM ET NUMÉRO DE LIGNE	13300
 NOM ET PRENOM INSTITUTION	13341
+NOM ET PRÉNOM	14537
+NOM ET PRÉNOM DU PÈRE NOM	14480
 NOM NOM	13300
 NOM NOM NOM	13300
 NOM NOM NOM CONSENTEMENT DU PARENT	13300
@@ -311,6 +322,10 @@ National Nombre de Groupes Nombre de Groupes	10847
 National Statut Nombre Nombre de Nombre	10847
 News Nomba	4324
 Nigeria's Nomba	7015
+Nom Date V.1.0.2 Jean Luc RAZAFINDRAMINTSA	14438
+Nom Date Valideur	14438
+Nom Objet	14438
+Nom Organisation Titre	14539
 Nom&Prénom	13390
 NomCom	585,8922,407,461
 NomCom Chair	9507
@@ -326,30 +341,37 @@ Nomapha.Mfunda	7514
 Nomba	391,3664,8284,934,10,404
 Nomba's Congo	4055
 Nombo	10196
-Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24
+Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4,38,10,791,178,121,1235,6,18,1,52,13,24,19,19,16,10,22,24,899,56,9,1,1,47,85
 Nombre Cellule	3396
 Nombre Cible	643
 Nombre Des Concessionnaires	13500
 Nombre Effectif de Pourcentage	13300
 Nombre Entier	747
+Nombre Informer	14490
 Nombre Mortalité Mortalité Mortalité	13300
 Nombre Nbre	10847
 Nombre Nombre	13414
 Nombre Nombre Effectif	13300
+Nombre Perturbation	14488,1
+Nombre Phase	14488,1
 Nombre Proportion	419
 Nombre Trafic	13414
 Nombre Type	737
 Nombre Valeur	643
 Nombre ZD Erreur	737
 Nombre de Accès	643
+Nombre de Avant	14490
 Nombre de CEC	10876
 Nombre de CFV	3396
 Nombre de CNIB	3396
 Nombre de CNT	3396
+Nombre de CSB	14622
+Nombre de Chirurgiens	14622
 Nombre de Cible	643
 Nombre de Comités Locaux	3396
 Nombre de Constructions	3396
 Nombre de Datacenter	3396
+Nombre de Districts	14622
 Nombre de FDS	3396
 Nombre de GAB	11944,1446
 Nombre de GAB- Nombre	13390
@@ -359,6 +381,7 @@ Nombre de Guichets	13390
 Nombre de MII1	13300
 Nombre de MPME	11944
 Nombre de Ministères	643
+Nombre de Mission	14489
 Nombre de Nombre Ratio	10847
 Nombre de Nombre de Nombre de Nombre Ratio	10847
 Nombre de Nombre de Nombre de Nombre Ratio NOUMBIEL	10847
@@ -367,19 +390,26 @@ Nombre de PME	13390
 Nombre de PRSPV	3396
 Nombre de PSF	10965
 Nombre de PTBA	3396
+Nombre de Pendant	14488,1,1
 Nombre de Permis de Transport Octroyé	13500
+Nombre de Responsables MTN	14622
 Nombre de SDAGE	3396
 Nombre de SIM	13306
+Nombre de Sensibilisation	14489
 Nombre de TGI	3396
 Nombre de TPE	11944
 Nombre de Taux Effectif Global	11944
+Nombre de Tout	14488,1,1
 Nombre de Valeur	643
 Nombre de ZD Erreur	737
 Nombre de ZDs Nombre	13300
 Nombre de ZDs Taille	13300
+Nombre des Formations	14622
 Nombre des Ifs	13390
+Nombre des Pendant	14490
 Nombre des SMS	13324
-Nombres	3396,7462,107,2425
+Nombrede	14488,1
+Nombres	3396,7462,107,2425,1098,1,1,132
 Nombres de CASEM	3396
 Nombres de CEC	10876
 Nomcom	585
@@ -400,6 +430,7 @@ Nomfundo Gladys	6948
 Nomfundo Gladys Khoza	6948
 Nomimi Mothibi Clinic	11980
 Nominal	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1404,1,1,1,1,1,1,1,1,1,1686,242,1944,1,1,1,1,1,1,1,1,4434,333,96,2,1913
+Nominal Administrative	14546
 Nominal GDP	2775,8361,1364,1148,37,183
 Nominal GDP USD	5247
 Nominal GDP of K31.5	13122
@@ -432,6 +463,7 @@ Nominations Nomination	13248
 Nominations. Enfin	2738,588
 Nominee for Appointment	10313
 Nominees	9234
+Nomme	14432
 Nommer	13300,75
 Nommé	9509
 Nommée	8906
@@ -449,10 +481,13 @@ Nomvuyiso Batyi	2946,4559
 Nomzamo Zondi	5806,6240
 Non Nombre	748
 Non-résidents Catégorie Sexe Nombre Montant Nombre	13390
+Number of Shares No. Institution Nominal	14546
 N’importe Nombre	13300
 OBJECTIF INDICATEURS STRATEGIQUE Réglementaire Nombre	10965
 ODD17 Nombre	13324
 OU D’AUTRES NOMS	13300
+Onduleur TOTAL Nombre	14423
+Organiser des Nombre	14489
 Organisme Nombre de Comités Villages	10876
 Ouagadougou Nombre	3396
 Ouganda Nombre	13414
@@ -462,14 +497,17 @@ PERSONNE ET SON No DE NOM	13300
 PORTANT NOMINATION DES ADMINISTRATEURS REPRESENTANT L’ETAT	13588
 PORTANT NOMINATION DU DIRECTEUR GENERAL	13587
 POUR TROUVER LE NOMBRE DANS	13300
+PPS Nombre	14622
 PROCHAINE DATE NOMBRE TOTAL VISITE	13300
 PROVINCES NOMS DES REGIONS	10847
 PRÉCISEZ CHEF D'ÉQUIPE NOM NUMÉRO	13300
 PRÉCISEZ CHEF D'ÉQUIPE NOM NUMÉRO Annexe	13300
 PS Nombre	10858
+PTA Nombre	14537
 Paiements Nombre	4459
 Partenaires de Nom	13433
 Partie Titre Nomenclature LFR	4420
+Personnels Responsables Fonctions Noms Contacts	14425
 Pin’s Nombre	3396
 Plan Nombre de TII	3396
 Population Unit Nombulelo Dlamini	13047
@@ -500,15 +538,18 @@ Reserva Online de Nome	12021
 Reserva de Nome	12021
 Retraits Nombre	4459
 Ria Nombre	13390
+Riposte PCI Nombre	14622
 Rungika Nombre	13390
 Rural Sexe Age Total Nombre	10847
 Rwanda Nombre	13414
 Réalisation Nombre	2966
+Réglementation Nombre	14622
 Résidence Nombre	13300
 Résilience Nombre	13325
 SARA Nombre	3396
 SERVICE VOIX ET SMS Nombre	13586
 SI LE NOMBRE D'INJECTIONS EST	13300
+SIDA Nombre	14488,1,1
 SNFI OBJECTIF INDICATEURS STRATEGIQUE Nombre	10965
 SOKUDLULISELA EGAMENI LOMUNYE NOMA SOKUGUQULWA SELAYISENSI	11573
 SOLARHYDROW Concession Attente Nombre	10975

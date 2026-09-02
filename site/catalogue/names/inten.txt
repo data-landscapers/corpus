@@ -25,6 +25,10 @@ Haute Intensité de Main	10985
 Haute Intensité de Main-d-Œuvre	10964
 Haute Intensité de Main-d’œuvre	10964
 INTENDED AUDIENCE	1009
+INTENSITÉ	14488,1,1
+INTENSITÉ Elle	14488,1,1
+Impact Etendue Durée Intensité Importance	14490
+Impact Etendue Durée Intensité de Importance	14489
 India AI Summit Intent	5044
 Influence Purchase Intention	226
 Intend	4426
@@ -41,14 +45,15 @@ Intense	1828
 Intenseye	4434
 Intensificación	1701
 Intensificar	1701
-Intensification	11289
+Intensification	11289,3333
 Intensified	5533,6888
 Intensified Urban Agglomeration. Restricted-distribution	579
-Intensifier	13290
+Intensifier	13290,1148,1
 Intensify	961,10170,1122,669
 Intensifying	11468,1
 Intensity	11884,773
 Intensity of Internet	14098
+Intensité	14488,1,1
 Intensive	10768
 Intensive Care Unit	12976
 Intensive Care Units	12922
@@ -65,7 +70,8 @@ Intentional Olaito	12038
 Intentionality	11131
 Intentionally	7235,6273
 Interim Financial Report INDC Intended Nationally	13331
-Letter of Intent	12323
+Just Intent Open-access	14621
+Letter of Intent	12323,2180
 MCC Sierra Leone Intent	1539
 NCA. Intended	11198
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284

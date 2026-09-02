@@ -36,7 +36,7 @@ COMMUNICATION TECHNOLOGY UNIT SOFTWARE INSTALLATION REQUEST	34
 COMPILATION OF PRO-FORMA SOFP NET	4896
 Centralised Management Software	11209
 Chairman and CEO of Tunisie Telecom. Minister Sofiene	2375
-Check Point Software Technologies	3290,5115
+Check Point Software Technologies	3290,5115,6256
 Check Point Software Technologies. Dartnall	3290
 Chronicles Software Development Company Limited	7444
 Civil Registration Management Software	7289
@@ -48,6 +48,7 @@ Contacto ECTS Engenharia de Software	12019
 Coquina Software Company Ltd	3862
 Core Software Developer Sabri Salumu	11623
 DATI Softwares Data Controller INST-94033572C3C VIHIGA	7167
+DHIS2 District Health Information Software	14666
 DHIS2 District Heath Information Software	13341
 DHIS2 and SOFIA	12196
 DPS Sofala	2228
@@ -59,7 +60,8 @@ Desenvolvimento de Software	11413
 Development of Integrated ID and CRVS Software	12241,839
 Digital and Soft Skills Training	11863
 Dignity Training Eswatini Payment Switch Soft	11131
-District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433
+District Health Information Software	771,441,7164,1812,690,3,38,498,586,22,27,9,135,1433,993,44
+Districts Health Information Software	14442
 Dolphin Screen Reader Software	13633
 Drive SDN Software Defined Network SD-WAN	13185
 E-census Software	13355
@@ -169,6 +171,7 @@ Original and One Soft Copy	1638
 PHC Software	2816
 PLANT AND EQUIPMENT AND SOFTWARE Six	10793
 Park- Soft Landing Program	11863
+Pending Notes Irreversibility of Soft-Landing	14671
 Per Communications Technology Minister Sofiene Hemissi	2475
 Planification DHIS2 District Health Information Software	13306
 Policy of Free and Open Source Software	1009
@@ -206,6 +209,7 @@ SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES Software	34
 SOFTWARE IN KENYA	11268
 SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
 Saas Software Pty	12478
+Sava Grand Nord Est Sofia Grand	14622
 Sector-Specific Requirementss Software	5665
 Security Software Security Security Operation and Management	9123
 Senior Software	12693
@@ -219,7 +223,9 @@ Sofala and Maputo City	12201
 Sofala and Maputo Provincia	1526
 Sofala and Nampula	12201
 Sofi Woreda	1219
+Sofia	14442,180
 Sofia Alexandra Da Silva Antunes	2989
+Sofia Amélioration	14622
 Sofia Aziz	10985
 Sofia Lima	9271
 Sofia Rodrigues	11423
@@ -246,7 +252,7 @@ Soft Cap	12882
 Soft Center	13405
 Soft Computing	9128
 Soft Infrastructure	11857
-Soft Landing	11797,66
+Soft Landing	11797,66,2808
 Soft Landing Acquired	12058
 Soft Language of Power	4258
 Soft Law	2816
@@ -261,7 +267,7 @@ Soft Skills Co-Working Funding Prototyping Entrepreneu	12376
 Soft Skills Gaps	12445
 Soft Skills Gaps Micro	12445
 Soft Skills Gaps Mining and Quarrying Manufacturing	12445
-Soft-Landing	12058
+Soft-Landing	12058,2613
 Soft-Tech Consultants Ltd	2703
 Soft-spoken	8550
 SoftBank	403,6491,2390,403,2689
@@ -278,7 +284,7 @@ Softnet	2868,3151
 Softron Limited	3386
 Softtribe	236
 Softtribe Chief Executive Officer Francis Ayivi	236
-Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113
+Software	34,202,159,198,397,954,44,108,688,32,835,558,223,331,902,108,20,76,42,521,45,103,567,62,125,33,99,285,156,114,280,75,48,180,458,61,1,5,726,205,661,59,189,38,126,1,30,32,20,52,104,512,1,10,11,35,11,3,66,138,1,45,36,5,7,49,49,28,34,74,433,47,4,34,32,43,305,221,82,303,113,337,225,15
 Software Applications	11349
 Software Architecture	13185
 Software Bill of Materials	6936

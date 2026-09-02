@@ -19,6 +19,7 @@ BUNGOMA CHILDREN'S HOSPITAL LIMITED Data Controller	7167
 BUNGOMA COUNTY REFERRAL HOSPITAL Data Controller	7167
 BUNGOMA COUNTY REFERRAL HOSPITAL Data Processor	7167
 BUNGOMA Kenya	7167
+BUNGOMA LAST MILE CONNECTIVITY	14608
 BUNI Art Hub	10728
 BUNISTA SACCO SOCIETY LTD Data Controller	7167
 BUNISTA SACCO SOCIETY LTD Data Processor	7167
@@ -71,13 +72,14 @@ Bunge la Jamhuri	2868,3151
 Bunge. Aidha	2868,3151
 Bungeni	6019
 Bungo	539
-Bungoma	2775,3798,373,5205
+Bungoma	2775,3798,373,5205,2395
 Bungoma Busia Garissa Wajir Mandera Marsabit	7869
 Bungoma County	6572
 Bungoma County Data Controller INST-718851D3EBE BUNGOMA	7167
 Bungoma County Data Controller INST-8146561DA86 BUNGOMA	7167
 Bungoma County Data Processor INST-718851D3EBE BUNGOMA	7167
 Bungoma County Data Processor INST-8146561DA86 BUNGOMA	7167
+Bungoma County. Mt Elgon	14608
 Bungoma GK Prison Health Centre Data	7167
 Bungoma North Technical and Vocational College Data	7167
 Bungoma Township Vocational Training Centre Data	7167
@@ -164,6 +166,7 @@ INST-502960DC911 BUNGOMA Kenya	7167
 INST-785095130EC BUNGOMA Kenya	7167
 INST-838109DAB45 BUNGOMA Kenya	7167
 INST-9106972FEF7 BUNGOMA Kenya	7167
+Immigration Officer Barnabas Masika of Bungoma	14640
 Kakamega County Data Controller INST-432425862D6 BUNGOMA	7167
 Kakamega County Data Processor INST-432425862D6 BUNGOMA	7167
 Kisii Homa Bay Bung	12151

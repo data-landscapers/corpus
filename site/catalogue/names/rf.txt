@@ -92,7 +92,7 @@ P505094 RFB Reference No	13527
 PDF RFC	1009
 PDF RFC3778 PDF	1009
 PRSP Poverty Reduction Strategy Paper RFQ	11525
-PUE Power Usage Effectiveness RFS Ready	10781
+PUE Power Usage Effectiveness RFS Ready	10781,3701
 Process RFP	13618
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
@@ -152,6 +152,7 @@ RFDRP	10779
 RFE and TAMSAT	13686
 RFE2 and TAMSAT	13686
 RFEv2	13686
+RFI Avec	14604,74
 RFI BUJUMBURA	13414
 RFI URL	13797
 RFI. L'initiative	7421
@@ -163,6 +164,7 @@ RFID-enabled	8296
 RFIs Inquiry	13461
 RFLD for West and Central Africa	8318
 RFM Hospital	13207
+RFMOs	14447
 RFP Close	12693
 RFP Conditions	12400
 RFP Evaluation Report	13037
@@ -198,6 +200,7 @@ RFS Ready For Service F Forecast	3184,1,1340,6470
 RFS Regulations	6891
 RFSAP	7828
 RFSAPs	7828,152
+RFTIFM	14488,1,1
 RFXSDUHXVDURWHUUHQRLGHQWL	11527
 RF’s da Praia	12018
 RTB House RFI	13461
@@ -226,7 +229,7 @@ Sociale Stratégique RFU Registres Fonciers Urbains	10876
 TECHNICAL REQUIREMENTS AND SPECIFICATIONS This RFP	12681
 Taboola RFI	13461
 TikTok RFI	13461
-Usage Effectiveness RFS Ready For Service	10781,80,1566
+Usage Effectiveness RFS Ready For Service	10781,80,1566,2055
 Web. Subject Data Definitions RFC1510	1009
 White RFID Plastic Cards	11955
 X Corp RFI	13461

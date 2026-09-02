@@ -12,7 +12,9 @@ All CC	12201
 All CCTV	34
 Annexure-IV CCMP.S8	10721
 Antiretroviral Therapy CCM Country Coordinating Mechanism	12729
+Apeh CC	14666
 Assumptions CCSS	11986
+Astbury CC	14666
 Audit Interne Numérique CCDA	10975
 Autonome de Gestion des Dettes CCE	10876
 Autorité de Régulation des CCDB Marchés Publics	11905
@@ -23,6 +25,7 @@ Bid Windows BQ Budget Quote CCGT	11228
 Bill. The CCL	11977
 Branch CCSS	11986
 Broadcasting Authority of Zimbabwe CCTLD Country Code	13295
+Bureau Indépendant Anti-Corruption CCE	14488,1,1
 Business CCNA Cisco Certified Network Associate	13346
 C CC	12500
 CAGR Compound Annual Growth Rate CCG	1818
@@ -128,13 +131,15 @@ CCFA Franc BCEAO	11563
 CCGB-	11134
 CCI BETHSAIDA Data Controller INST-489235C6D62 KIAMBU	7167
 CCI GITARAKA Data Processor INST-631408F1407 EMBU	7167
+CCI Global	14507
 CCI JOY FAMILY CHILD DEVELOPMENT CENTRE	7167
 CCI KENYA LIMITED Data Processor INST-1832480B277	7167
 CCI KENYA SEZ LIMITED Data Controller	7167
 CCI RUIRU CDC Data Processor INST-626651D9C67	7167
 CCI Réunion	1996,2390
 CCI SHAMMAH Data Controller INST-467796FCF38 KIAMBU	7167
-CCI-BF	3927,623,3120,3205
+CCI-BF	3927,623,3120,3205,3594
+CCI-BF-approved	14469
 CCI-BF. Il	3927
 CCI-BÉNIN	6300
 CCIAG	7730
@@ -179,6 +184,7 @@ CCT of US	11924
 CCT38	11986
 CCTA Talatona Convention Center	6628
 CCTLD	576,8272
+CCTP-MIS	14487
 CCTV AND ACCESS CONTROL STANDARDS	34
 CCTV Closed	11380
 CCTV Crosswalk	619

@@ -4,6 +4,7 @@ A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
 A. Sector	10856
 A. Sector Overview Market	10856
 A. Telecommunication Sector	2022
+ABBREVIATIONS INTRODUCTION SECTION	14434
 ACKNOWLEDGEMENTS Financial Sector Development Strategy II	12701
 ACT ARRANGEMENT OF SECTIONS SECTION	11857
 ACTIVIDADES DESENVOLVIDAS NOS SECTORES PRIVADO	2816
@@ -11,6 +12,7 @@ ADMINISTRATIFS Section	113
 ADMINISTRATION Section	3161
 ADMINISTRATION The DPM’S Office Administration Section	12977
 ADMINISTRATIVE SANCTIONS SECTION	10974
+AGREMENT Section	14429
 AGRICULTURAL SECTOR	12090
 AGRÉMENT ET ENREGISTREMENT Section	10836
 AI SECTOR	14004
@@ -44,6 +46,7 @@ ARSEL LA TRANSPARENCE POUR UN SECTEUR	10975
 ASCENT PPF Private Sector Support Window	7020
 ATTENDUS DE LA REVUE SECTORIELLE	2966
 ATTRIBUTION Section	28
+ATTRIBUTIONS DE LA CSBF Section	14429
 AUTHORITY PURSUANT TO SECTION	11956
 AUTRE SECTEUR AUTRE SECTEUR PUBLIC PUBLIC	13300
 AUTRE SECTEUR MÉDICAL AGRÉÉ	13300
@@ -52,6 +55,7 @@ AUTRE SECTEUR MÉDICAL PRIVÉ	13300
 AUTRE SECTEUR PUBLIC	13300
 AUTRE SECTEUR PUBLIC G	13300
 AUTRE SECTEUR PUBLIC SI VOUS NE	13300
+AUTRES PRESTATAIRES DE SERVICES BANCAIRES Section	14429
 AWS Public Sector Blog	1207,1
 Abdu MUKHTAR Sector Director	11863
 Abong-Mbang. LA TRANSPARENCE POUR UN SECTEUR	10975
@@ -62,7 +66,7 @@ Account Holder. Section V Due Diligence	11233
 Accountability. Section PART VI DATA SUBJECT	13319
 Accounts Section	12977
 Act Cap. C38 Section	11857
-Act Section	6946
+Act Section	6946,7538
 Act. SECTION	10974
 Act. SECTION B PART	12374
 Act. Section	7832,3981,552,639,81
@@ -127,6 +131,7 @@ Army and Defense Agency Sector	8141
 Arrangement of Sections	5872
 Arrangement of Sections PART I PRELIMINARY	12894
 Arrangement of Sections Part	12643
+Arrangement of Sections Section	14484
 Assigned Task Assigned Section	13037
 Association of Private Sector Sanitation Actors Data	7167
 Association. ECOWAS. Section I.A.2	1264
@@ -150,6 +155,7 @@ Autonomie Section	37
 Autonomous Sector of Bissau	11536,17
 Autorité de Régulation du Secteur	10975
 Autorité. Section	1231
+Autres Secteurs	14488,1,1
 Availability of Financial Sector Infrastructure	6938
 B of Section III	11233
 B- Sector-contextualised	7548
@@ -223,6 +229,7 @@ Building Financial Sector Resilience	12701
 Building Partnerships Across Sectors Nkambule	12439
 Burkina Faso Public Sector Modernization	11867
 Burkina Faso Public Sector Modernization Program	11867
+Burkina Faso. Section	14469
 Burundi Country Private Sector Diagnostic	13331
 Burundi Financial and Private Sector Development Project	13331
 Burundi’s Education Sector Plan	13349
@@ -244,8 +251,12 @@ CARACTERE PERSONNEL Section	436
 CDPA SECTIONS	13376
 CENTRAL AFRICAN REPUBLIC PUBLIC SECTOR	2889
 CEO SECTION	11152
+CERTIFICATION FONCIERE MASSIVE Section	14444
 CG-MDF. Section	7790
+CHAPITRE VII SANCTIONS Section	14412
 CHAPTER Il DEFINITIONS SECTION	10974
+CHAPTER SEVEN SECTORAL COMMITTEES ARTICLE	14409
+CHAPTER TWENTY FIVE THE PRIVATE SECTOR	14409
 CHAPTER VI INTERCONNECTION OF F SECTION	10974
 CIVIL PENALTIES SECTION	10974
 CLASSIFIED SECTION	13385
@@ -273,6 +284,9 @@ CPCC. ECOWAS. Section I.A.2	1264
 CPCC. SAA. Section I.A.2	1264
 CRAN ICT Market Sector Report Nov	2022
 CRAN's ICT Sector Market Report	1944
+CSBF. SECTION II	14417
+CSBF. SECTION III	14417
+CSBF. SECTION III Des	14417
 CSIRT Sectorial	6970
 Cadre Partenarial du Secteur	11916
 Cadre Sectoriel Dialogue	643
@@ -312,14 +326,18 @@ Client. Section	13037
 Cloud Computing Services. Section	3161
 CoK District Sector Cell Total Rural	13418
 Cocoa Sector Reforms Mr. Speaker	7695
+Collaboration Public Sector Dimension	14566
 Collections for Public and Private Sectors	12000
 Comissão Técnica de Normalização Sectorial	12782
 Comissões Fundiárias Regionais. Sectoriais	11514
 Comissões Sectoriais de Recenseamento	11561
+Comité Sectoriel	14438,1
+Comités Sectoriels	14438
 Commercial and Industrial Sector	12502
 Commission. SECTION	12145
 Commission. SECTION II DES SANCTIONS CIVILES	13709
 Communal Sector Third	9485
+Commune. Section	14444
 Communication Sector	12253
 Communication Sector Information Sharing and Analysis Centre	5132
 Communications Authority Sector	7548
@@ -360,7 +378,7 @@ Coordination Centre KEPSA Kenya Private Sector	7548
 Coordination du Secteur	11916
 Corporate Sector	11131
 Council Section	12253
-Country Private Sector Diagnostic	10768,73,123,504,1,1499
+Country Private Sector Diagnostic	10768,73,123,504,1,1499,1608
 Country and Sector Overview	12680
 Courier Sector	3990
 Create More and Better Private Sector Jobs	11469
@@ -379,13 +397,16 @@ Células Sectoriales de Planificación	4209
 D EST DU SECTEUR PUBLIC OU	13300
 D of Section	11233
 D'ENDROIT. AUTRE SECTEUR PUBLIC SI VOUS	13300
+D'ETAT CIVIL Section	14420
 D. Section VI Due Diligence	11233
 DATA GOVERNANCE FOR SECTORS AND SPECIAL	961
 DE L'INSCRIPTION DES NANTISSEMENTS Section	13293
+DE L'ORGANISATION ET DU FONCTIONNEMENT Section	14414
 DE LA COMMUNE Section	13292
 DE LA SAISIE-ATTRIBUTION DES CREANCES Section	13293
 DE LA SAISIE-VENTE Section	13293
 DE LA STRUCTURE DE CONTROLE Section	113
+DE MONNAIE ELECTRONIQUE SECTION PREMIERE	14417
 DECISION ISSUED UNDER SECTION	2913
 DEFINITIONS AND INTERPRETATION Section	28
 DEFINITIONS SECTION	12484
@@ -423,6 +444,8 @@ Data Capacity and Integrated Geospatial Knowledge Section	14105
 Data Centers. Sector	11863
 Data Collection Across the Sector	12977
 Data Protection Frameworks for Banking Sector Beyond	2668
+Data Subject DEFINITIONS SECTION	14434
+Data Transfer Public Sector Institutions	14524
 Data-Driven Public Sector	11867
 Deeds Registries Act and Sectional Titles Act	11189
 Defence and Security Sector Transformation AI	4528,7984
@@ -441,6 +464,7 @@ Description Sector-wide	952
 Design Sectors	12689
 Designated Private Sector Data	11995
 Detailed Sector Analyses	2957
+Dette du Secteur Public	14581
 Develop Regional Communications Sector Statistics	8753
 Development Sector and Market Facilitators	12297
 Development of National Postal Sector The Kingdom	12395
@@ -450,6 +474,7 @@ Digital Economy. NIGERIA’S TELECOMMUNICATIONS SECTOR Nigeria	11857
 Digital Finance SECTION II	11138
 Digital Identity SECTION	10819
 Digital Identity SECTION I TOWARD	10819
+Digital Sector	14556
 Digital Sector Policy Letter	3604
 Digital Sector Policy Letter Page	3604
 Digital Sector The Ministry of Information	7719
@@ -478,6 +503,7 @@ Driver of Financial Sector Development	12598
 Driving Public Sector Transformation	1204
 Définitions Section	37
 Développement du Secteur	4774,2941,1
+Développement du Secteur Privé	14617
 Développer Secteur	13433
 D’INFORMATION Section	1801
 E L'ENDROIT EST DU SECTEUR PUBLIC	13300
@@ -487,6 +513,7 @@ E-Justice Task Force Meeting and Justice Sector	13080,15
 E. Other Sectors Beyond	11140
 E2820-BI Section	13555
 EACO Regional Communications Sector Statistics Report	8753
+EC. Section	14429
 ECONOMIC PRESENCE Section	3161
 ECONOMIC SECTOR	13093
 ECOWAS Digital Sector Development Strategy	1909
@@ -500,6 +527,8 @@ EHRs. Section5	8606
 ELECTRICITY SECTOR IMPROVEMENT	11380
 ELECTRICITY SECTOR REFORM Objective	11236
 ELECTRICITY SECTOR REFORM PROGRESS Q3 REPORT	11236
+ELECTRONIQUE ET UN UTILISATEUR SECTION PREMIERE	14417
+ELECTRONIQUE SECTION PREMIERE Des	14417
 EMPLOYMENT LEVELS FOR THE THREE SECTORS	11211,51
 ENCOURAGING THE PRIVATE SECTOR TO PARTICIPATE	14004
 ENERGY SECTOR	718
@@ -521,6 +550,8 @@ EST DU SECTEUR PUBLIC NATIONAL	13300
 EST DU SECTEUR PUBLIC OU PRIVÉ	13300
 ESU Cadre Sectoriel de Dialogue FDSI	643
 ET DES DISPOSITIONS FINALES SECTION	13709
+ET DU CONTROLE DU CNECI Section	14431
+ETABLISSEMENTS DE CREDIT Section	14429
 EXPLANATORY NOTES Section	3161
 Early-Pilot and High-Priority Sectors Go-Live	3861
 Eastern Provnce Other Sector	12413
@@ -535,6 +566,7 @@ Education Section Observatoire	11916
 Education Sector	1814,961,9085,47,268,126,250,345,18,61,147,540,328,10,157
 Education Sector Analysis	3583,9392,374
 Education Sector Analysis for Malawi	12175
+Education Sector Connectivity	14674
 Education Sector Development Program VI	13991
 Education Sector Development Programme	13960,39
 Education Sector Development Project FM	13956
@@ -624,13 +656,15 @@ Eritrea's Education and Training Sector	13953
 Eritrea. Section	14008
 Eritrean Education Sector Development Programme	13960
 Escalation Level Timeline Name Section	6432
+Essential Services and Strategic Sectors Framework	14674
 Est LA TRANSPARENCE POUR UN SECTEUR	10975
+Establishment and Composition of Sectoral Committees ARTICLE	14409
 Establishment of Sector-CSIRTs Promotion	8897
 Estratégias Sectoriais	11379
 Eswatini Education Sector Strategic Plan	13043
 Eswatini National Health Sector Strategic Plan	1831
 Etat Direction du Portefeuille des Secteurs Primaires	2342
-Etat. Section	113,13179
+Etat. Section	113,13179,1120
 Ethiopia's Land Sector	13998
 Ethiopia. SECTION2 Areas of Cooperation The Participants	4349
 Ethiopian MOH. Health Sector Transformation Plan	12255
@@ -781,6 +815,7 @@ GSS Head of Industrial Statistics Section Anthony	236
 GSS Head of Trade Statistics Section Tetteh	236
 GSS National Accounts Section Felix Debrah	236
 GSS Trade Statistics Section Naa Amerley	236
+GUIDANCE NOTES FOR PUBLIC SECTOR	14524
 Gabon LA TRANSPARENCE POUR UN SECTEUR	10975
 Gambia. Section I.A.3	1264
 Gas Sector	11925
@@ -788,6 +823,8 @@ Gasharu. In Niboye Sector	4941
 Gazette. Section VIII Defined Terms Any	11233
 Gender Equality Act and Section	13040
 Gender Equality Act and Sections	13040
+Gender Sector Statistics Plan	14572
+Gender Sector Statistics Plan Report	14572
 Gender-Responsive Sector Challenge	11907
 Gender-Responsive Sector Planning	11907,1442
 Gender-responsive Sector Planning	12175,1815
@@ -825,7 +862,7 @@ Head of Section	13108
 Health As Most Critical Sectors of Any	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Health Facility Sections for Rehabilitation	1988
 Health Financing and Private Sector Engagement	14033
-Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146,911
+Health Sector	1009,234,18,553,895,66,8750,11,388,290,392,56,314,146,911,401
 Health Sector Co-Investments	4217
 Health Sector Development Plan	1212,2371
 Health Sector ICT Policy and Strategy	4126
@@ -846,6 +883,7 @@ Health Sector Transportation Plan	1219
 Health Workforce- Health Sector Reform	4349
 Healthcare Sector	12356
 Heart Land. In Gitega Sector	4941
+Heath Sector	14476
 High Priority Rating Gender-Responsive Sector Planning	13349
 High Sector Strategies and Policies	13058
 High-Level African Union Private Sector Forum	13899
@@ -941,6 +979,7 @@ IX and Section	12575
 Ibid Section	10979
 Identification Section Header	11877
 If- Section	13293
+Illustrative Sectoral and Life-Event Use Cases	14566
 Immunisation Section	11401
 Impact Across Sectors	4625
 Impeachment Committee for Section	11289
@@ -949,6 +988,7 @@ Implementation Support for Key Health Sector Reforms	10829
 Implementation Support of Key Health Sector Reforms	10829
 In-Focus Section	13312,2
 Incidentes de Segurança Cibernética Sectoriais	6970
+Inclusion Plan de Développement du Secteur	14622
 Inclusive Private Sector Growth	13358
 Inclusive Private Sector Growth Labour	13358
 Inclusive Sector Dialogue and Coordinated Action	12175,1815
@@ -972,6 +1012,7 @@ Infrastructure Problem SECTION III The Bridgforte	11138
 Infrastructure and Services Section	7529
 Initial Section	13037
 Initial Table of Contents Section	13037
+Innovation and Private Sector Growth	14566
 Innovation and Public Sector Modernisation	1846
 Innovation and Public Sector Modernization	1833,3
 Innovation and Sectoral Use Cases	3235
@@ -985,8 +1026,9 @@ Integrity of Financial Sector	13474
 Intergovernmental Sector Forum	8569
 Internally Displaced Persons. SECTION	12145
 International Commission of Jurists Kenya Section	12227
+International Illustrative Sectoral Summary Table	14566
 International Public Sector Accounting Standard	3051
-International Public Sector Accounting Standards	1554,1497,5953,1764,2652
+International Public Sector Accounting Standards	1554,1497,5953,1764,2652,1126
 International Public Sector Accounting Standards Board	3051
 International Public Sector Accouting Standards	10975
 Introduction Section	10977
@@ -996,6 +1038,7 @@ Investment Incentives Investment Categories PUBLIC SECTOR	11857
 Investors Guide and Private Sector	12376
 Issues. Section	13323
 J AUTRE SECTEUR MÉDICAL AGRÉÉ K	13300
+JIRAMA. Secteur	14548,71
 JV. Section	13185
 Job Application Process Section	13037
 Joint Sector	12175
@@ -1009,6 +1052,7 @@ Justice Sector. Reflecting	13048
 Justice Sectors	14012
 Justice Workshop and Justice Sector Mapping	12241
 Justice.24 Section	10979
+KEEPING WITH SECTIONS	14647
 KENYA PUBLIC SECTOR EXAMPLES	6432
 KEY PROJECTS IN THE SECTOR	12976
 KEY SECTOR ALLOCATIONS AND DEVELOPMENT PROJECTS	13122
@@ -1044,6 +1088,7 @@ L'ENDROIT EST DU SECTEUR PUBLIC HÔPITAL	13300
 L'ENDROIT EST DU SECTEUR PUBLIC OU	13300
 L'EXTERNALISATION ET AUX AGENTS Section	10836
 L'UTILISATION DE SERVICES DE PAIEMENT Section	10836
+LA CSBF SECTION PREMIER Des	14417
 LA TRANSPARENCE POUR UN SECTEUR ELECTRIQUE	10975
 LA TRANSPARENCE POUR UN SECTEUmR EoLbECilTiReIrQdUeE	10975
 LE NOM DE L'ENDROIT. AUTRE SECTEUR	13300
@@ -1068,7 +1113,10 @@ Labour and Employment Sector	13060
 Land Sector	13998
 Laws of Northern Section	11857
 Le Plan Sectoriel	13349
+Le Plan de Développement du Secteur	14622
 Le Secteur	5877,5098
+Le Secteur Privé	14549
+Le Secteur Public	14549
 Le. Section	13781
 Lead Financial Sector Specialist	12701
 Leading Public Sector Entity	2668
@@ -1090,6 +1138,9 @@ Loans and Advances Sector Shares1	2775
 Looking Joint Sector	13418
 Low for Sector Coordination	12175
 Lower Value Accounts. Section III Due	11233
+L’Agence Comptable. SECTION	14432
+L’ETABLISSEMENT DE MONNAIE ELECTRONIQUE SECTION PREMIERE	14417
+L’UTILISATEUR DE LA MONNAIE ELECTRONIQUE SECTION	14417
 M AUTRE SECTEUR MÉDICAL AUTRE SECTEUR	13300
 M Nigeria Distribution Sector Recovery Program	11469
 M P170734 Power Sector Recovery Performance	11469
@@ -1104,6 +1155,7 @@ MENT DU SECTEUR DE LA SANTÉ	13306
 MICDE Secretariat Sector MDAs Regulatory Private	7548
 MICDE Sector	7548
 MICDE Sector Working Group Report	7548
+MICRO FINANCE SECTOR SUPPORT CREDIT PROJECT	14546
 MICSTI Academia Private Sector Ministry of Education	12674
 MICSTI Line Ministries Private Sector Academia	12674
 MICTPCS MDAs All Sectors	958
@@ -1119,6 +1171,8 @@ Macroeconomic Sector Strategies and Policies	11971
 Macroeconomic Sector Strategies and Policies Low Low	12440
 Macroeconomic Stability and Financial Sector Deepening	13685
 Macroprudential Sector	6938
+Madagascar Country Private Sector Diagnostic	14456
+Madagascar Formal Sector World Bank Enterprise	14576
 Maintaining Adequate Banking Sector Achieve	11131
 Maintaining Banking Sector Adequate Liquidity Ratios	11131
 Major Sector Sector	11924
@@ -1187,6 +1241,7 @@ NIEIS. Section	13037
 NIGERIAN COMMUNICATION SECTOR	10721
 NISR Sectoral	12445
 NON-FUNCTIONAL REQUIREMENTS Section	13037
+NON-HEALTH SECTOR	14434
 NQI-TR Sector	13320
 NREN. Section	11552
 NUMERISATION DU PROGRAMME D’APPUI AU SECTEUR	13635
@@ -1205,6 +1260,7 @@ National Digital Sector Assessment Survey	14010
 National Education Sector Investment Plan	12175
 National Education Sector Investment Plan NGES	12175
 National Education and Training Sector Policy	12975
+National Financial Sector Development Strategy	14674
 National Health Sector Development Plan	10776
 National Health Sector Strategic Plan	12729,193,54,187
 National ICT Policy and Sectoral Strategy Saint	11529
@@ -1254,6 +1310,7 @@ ONLINE MARKETING Section	28
 ONLINE SAFE HARBOURS Section	28
 ONLINE Section	11877
 OPERATING SCHEDULE SECTION	12484
+OPERATIONS BANCAIRES Section	14429
 ORGANIZED PRIVATE SECTOR	11860
 ORGANIZEDPRIVATE SECTOR	11860
 OSA’s Section	7983
@@ -1269,6 +1326,7 @@ Open Data Licensing and Publication Procedures Sectoral	3861
 Open Government Partnership and Public Sector Reforms	12932
 Open Sectors	8726,408,140
 Opportunities Threats Sector	12376
+Opération de Certification Foncière Massive Section	14444
 Oracle Kenya Managing Director and Public Sector	7069
 Organised Private Sector	11866
 Organismos de Normalização Sectorial	11381
@@ -1326,9 +1384,12 @@ PRELIMINARY PROVISIONS SECTION	12484
 PRELIMINARY PROVISIONS Section	13371
 PRELIMINARY Sections	1333
 PREMIÈRE PARTIE CONSIDÉRATIONS GÉNÉRALES SECTION	13828
+PRIVATE IGAD SECTOR	14434
 PRIVATE INVESTMENT IN THE AI SECTOR	14004
 PRIVATE SECTOR	2775
 PRIVATE SECTOR AND Digital	10852
+PRIVATE SECTOR AND NON-HEALTH SECTOR	14434
+PRIVATE SECTOR AND THE CIVIL	14409
 PRIVATE SECTOR Citizen	1161
 PRIVATE SECTOR Civil	1243
 PRIVATE SECTOR FOR REFUGEES	10841
@@ -1344,6 +1405,7 @@ PROMOVER O SECTOR E A INDÚSTRIA	2125
 PROMULGATED UNDER SECTION	11233
 PROPOSED DECISION IN TERMS OF SECTION	13218
 PROTECTION OF ONLINE CONSUMERS Section	28
+PROTECTION POLICY SECTION	14434
 PROVISIONS Section	13318,3,31
 PRÉSENT DANS TOUS LES SECTEURS Rapport	2342
 PS4R Private Sector for Refugees REC Regional	10841
@@ -1360,6 +1422,7 @@ PUBLIC SECTOR TOTAL PUBLIC	2775
 PUBLIC SECTORS	3604
 PUBLiC SECTOR CAPACiTY	961
 PURPOSE AND SCOPE SECTION	10974
+PURSUANT TO ITS AUTHORITY UNDER SECTION	14647
 PURSUANT TO SECTIONS	7850
 Parastatals and Private Sector Officials	13118
 Parliament of Eswatini. ARRANGEMENT OF SECTION PART	12916
@@ -1379,6 +1442,10 @@ Petroleum Private Sector Increased	7548
 Petroleum Sector	12256,867
 Petroleum Sector Infrastructure and Quality Regulation	408
 Pharmaceutical Section	13361
+Plan Sectoriel	14472
+Plan de Developpement du Secteur Sante	14442
+Plan de Developpement du Secteur Sante PEV	14442
+Plan de Développement du Secteur Santé	14622
 Plan de Redressement du Secteur	10975
 Plano Sectorial	10783
 Plano Sectorial da Educação	11557
@@ -1392,6 +1459,7 @@ Platform-Led Finance SECTION VII	11138
 Platform-Led Finance SECTION VIII	11138
 Plc EPSRA Electric Power Sector Reform	12062
 Policy South Sudan Yes Telecommunications Sector	11529
+Policy and Legislation Purpose of This Section	14565
 Policy and Monitoring The Education Sector Plan	13349
 Politique Sectorielle	7812
 Politique Sectorielle Eau	643
@@ -1420,13 +1488,15 @@ Preliminary SECTION	12531
 Prepared for Nigeria's Public Sector	6442
 Price Statistics Section	12962
 Primary Education Sector	11916
+Principles SECTION	14434
 Print Sections Toggle	5440
 Priorities Sectors Team Europe Initiative	789
 Priority Sector Lending	11134
 Priority Sectors	1814,11286
 Priority Sectors All	1814
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435,66,13,16,1,1,1,35,16,55,158,1,9,77,51,6,43,1,11,1,3,10,78,9,35,24,163,242,29,16,2,154,4,173,50,14,29,30,151,422,418
 Private Sector AI	7548
+Private Sector Academia and Research Institutions Private	14565
 Private Sector Adoption and KPI Monitoring Design	4126
 Private Sector All	7548
 Private Sector Approach	10841
@@ -1513,7 +1583,8 @@ Private Sector's Uneven Contribution Big	10015
 Private Sector- KEPSA	12210
 Private Sector-led Growth	11469
 Private Sector. Under	5903,5477
-Private and Public Sector	10819
+Private and Public Sector	10819,3747
+Private and Public Sector Key	14566
 Proclamation. SUB SECTION ONE SATRTUP DESIGNATION	14024
 Production Site Section VII	13185
 Production and Marketing. Tourism and Manufacturing Sector	13122
@@ -1521,6 +1592,7 @@ Profits of SEP Section	3161
 Program Sector Recovery	11469
 Project BRIDGE SPV. Private Sector	5903
 Project Cost and Private Sector Requirement	5903
+Project Execution Section I. Implementation Arrangements	14430
 Project Management Section	12917,120
 Project. ECOWAS. Section I.A.1 of Schedule	1264
 Project. ECOWAS. Section I.A.3	1264
@@ -1533,6 +1605,7 @@ Projecto de Investimento Público Sectorial	10783
 Projectos de Investimento Público Sectoriais	10783
 Projet de Gouvernance Numérique du Secteur Public	5139,9029
 Promotion des Investissements. Section	13293
+Proportionality and Capacity Considerations Sectoral	14565
 Proposal. Section	13037
 Prospects of Ghana’s ICT Sector	236
 Protection Sector Recurrent Strategic Objective	1777
@@ -1545,15 +1618,20 @@ Présentation du Secteur	10975
 Président du CNPA. Section	13781
 Président du Comité Technique Sectoriel TIC	13290
 Public Finance Management PSIP Public Sector	13060
+Public Participation Documents Section	14559
 Public Private Partnership Commission Section	13185
 Public Protector's Section	10394
 Public Register of Public Sector AI Systems	7548
-Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43,443
+Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636,60,16,2,1,130,172,53,661,16,16,1,1,1,263,1,1,9,128,10,39,1,11,1,66,34,35,24,151,12,242,391,37,43,443,693,42
 Public Sector AI Academies	4528,7984
 Public Sector AI Transformation Programme	7548
 Public Sector Accountant	3604
 Public Sector Accounting Standards	6946
+Public Sector Accounting Standards Board	14546
+Public Sector Accounting Standards Board Reporting	14546
+Public Sector Accounting Standards Board. Further	14546
 Public Sector Adoption	1204,12867
+Public Sector Considerations	14565
 Public Sector Consultant	10765,10
 Public Sector Contributions Key	13512
 Public Sector Cybersecurity Framework	5533
@@ -1599,6 +1677,7 @@ Public Sector Operation Financial Intermediary	13938
 Public Sector Permalink Share Africa	10794
 Public Sector Perspectives and Regulatory Interface	13512
 Public Sector Primary Balance	13868
+Public Sector Public	14565
 Public Sector Public Procurement Procedures Absence	10759,78,1315,188
 Public Sector Reform Secretariat	8367,1363
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
@@ -1618,6 +1697,7 @@ Public Sector Strengthening Project II	11545
 Public Sector Systems Strengthening Plus	1261
 Public Sector Training Lead	4528,7984
 Public Sector Transformation Programme	8469
+Public Sector Use	14601
 Public Sector Use of AI	7548
 Public Sector and Private Sector Investment	1814
 Public Sector for AI and Data Ministry of Science	11135
@@ -1631,11 +1711,14 @@ Public-Private Sector Dialogue Forum	9135,4282
 Purchaser Section IV	13185
 Purchaser. Section VIII	13185
 Purchaser. Section X	13185
+Purpose SECTION	14434
 Público-Privadas PSE Plano Sectorial da Educação PTF	11557
 Q AUTRE SECTEUR MÉDICAL PRIVÉ R	13300
 Q2 Telecommunication Sector Market Report	1013
 Q4 Sector Statistics Report	3625
+QUES CERTIFIÉS DE FACTURATION PHYSIQUES Section	14469
 QUEUE MANAGEMENT SECTION	12484
+QoS Section	14674
 RBZ Director Financial Sector	940
 RBZ Financial Sector	940
 RCV RCV SECTOR STRATEGIES	11863
@@ -1646,6 +1729,7 @@ RDR SECTION III	13390
 RDR SECTION VI	13390
 RDR SECTION VII	13390
 RECEIPT OF ELECTRONIC COMMUNICATIONS Section	28
+REGIONAL LEADERSHIP Illustrative Sectoral and Life-Event	14566
 REGISTRATION ACT ARRANGEMENT OF SECTIONS Section	12410
 RENFORCEMENT DE LA CAPACITÉ DU SECTEUR	13306
 REPORT THE ESWATINI ELECTRONIC COMMUNICATIONS SECTOR	12395
@@ -1709,6 +1793,7 @@ Revised ICT Sector Code	11235
 Reviving Ghana’s Upstream Oil and Gas Sector	7695
 Rights of Data Subjects Section	12302
 Roads Sector	1988
+Role of Sector Regulators and Lead Institutions Sector	14565
 Room AI Readiness Audit. Section	6635
 Royaume. Section III Bureaux	17
 Ruhashya Sector	12413
@@ -1754,7 +1839,7 @@ SECTEUR PUBLIC Pas	13300
 SECTEUR PUBLIC RÉGIONAL	13300
 SECTEUR PUBLIC SECTEUR PUBLIC HÔPITAL	13300
 SECTEUR Principales	13433
-SECTION	34,202,346,154,549,1,1179,310,182,166,1,737,306,35,15,43,41,48,35,1,260,251,456,1071,498,277,3621,155,164,14,57,24,627,96,189,1,264,74,209,607,90,329,53,56,170,226
+SECTION	34,202,346,154,549,1,1179,310,182,166,1,737,306,35,15,43,41,48,35,1,260,251,456,1071,498,277,3621,155,164,14,57,24,627,96,189,1,264,74,209,607,90,329,53,56,170,226,210,82,21,110
 SECTION A International Scene Economic Survey	2775
 SECTION B	2775,8494
 SECTION B Domestic Economy PAGE	2775
@@ -1770,23 +1855,27 @@ SECTION FOUR COPIES AND CERTIFICATE	12226
 SECTION FOUR Personal Data Protection	12146
 SECTION HOMMES ADULTES	13300
 SECTION I Objectives	4301
-SECTION II	2465,2102,6252,319,2252,608
+SECTION II	2465,2102,6252,319,2252,608,419,15
 SECTION II DES DEFINITIONS Article	13709
-SECTION III	11138,2252,329,279
+SECTION II Des	14417
+SECTION III	11138,2252,329,279,419,15
 SECTION III DES SANCTIONS PENALES Article	13709
 SECTION III The Bridgforte Trust Architecture	11138
-SECTION IV	11138,2252,608
+SECTION IV	11138,2252,608,419
 SECTION IV DISPOSITIONS TRANSITOIRES ET FINALES	13709
+SECTION IV Des	14417
 SECTION IX	13390
 SECTION ONE General Provisions	12146
 SECTION PART III	12898
+SECTION PREMIERE Des	14417
 SECTION SUIVANTE	13300
 SECTION SUIVANTE. Annexe	13300
 SECTION THREE Relying Parties and Authentication Service	12146
 SECTION TWO Digital Identification System Principles	12146
 SECTION TWO REGISTER OF CIVIL	12226
-SECTION V	11138,2252,608
-SECTION VI	11138,2252,608
+SECTION V	11138,2252,608,419
+SECTION V Des	14417
+SECTION VI	11138,2252,608,419
 SECTION VII	11138,2252,608
 SECTION VIII	13390
 SECTION WILL BE POSTED AUTOMATICALLY	13618
@@ -1831,6 +1920,7 @@ SECTOR TO AI RESEARCH AND DEVELOPMENT	14004
 SECTOR TYPES	1940
 SECTOR Tax Revenues	13053
 SECTOR UPDATES Transport	11248
+SECTORAL COMMITTEES	14409
 SECTORAL DATA GOVERNANCE BODIES AND SPECIALIZATION	3861
 SECTORAL DEMAND FOR IDENTIFICATION AND AUTHENTICATION	10775
 SECTORAL DIVISION	12962
@@ -1846,10 +1936,12 @@ SETIC Section	13555
 SETmIC Section	13555
 SFEC. Section	7152
 SH Section	13185
+SHARING AND PROTECTION POLICY SECTION	14434
 SIS-MA OU RELATORIO DO SECTOR	4260
 SIS-MA OU RELATORO DO SECTOR	4260
 SOCIALES Y MULTI SECT. ASIS. ADOLESENCIA	4209
 SOCIÉTÉS DU PORTEFEUILLE SECTORIEL SUR	2342
+SOMMAIRE Section	14537
 SONATREL LA TRANSPARENCE POUR UN SECTEUR	10975
 SOUS SECTION	13719
 STANDARDS ARRANGEMENT OF SECTIONS SECTION	12526
@@ -1868,6 +1960,7 @@ Safety ESHS Education Sector Strategy ESS	11905
 Safety and Security Sector Education and Training	9130
 Sale PSF Private Sector Federation QoS	718
 Schedule of Section VIII	13185
+Scope SECTION	14434
 Scope SECTION A PART III IMPLEMENTATION	12374
 Second Private Sector	763
 Second Schedule Section	11976
@@ -1876,8 +1969,8 @@ Secretary. Section	13310
 Sectarian Conflict	10841
 Secte	13300
 Secte Autre	13300
-Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59
-Secteur Bancaire	3715,627,9373,56,25
+Secteur	419,318,450,869,286,257,669,128,1974,444,63,891,887,188,682,1397,597,356,100,949,20,1346,10,25,65,92,153,82,10,10,59,629,13,1,109,71
+Secteur Bancaire	3715,627,9373,56,25,753
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
 Secteur Bancaire Place	3715
 Secteur Bancaire URL	13771
@@ -1900,6 +1993,7 @@ Secteur Informel Phase	13746
 Secteur Informel Planning	10985
 Secteur Marchand	2342
 Secteur Postal	13290
+Secteur Privd	14479
 Secteur Privé	235,604,6837,3289,10
 Secteur Public	13300
 Secteur Résident	13390
@@ -1916,13 +2010,13 @@ Secteur des Douanes du Centre	4269
 Secteur des TIC	13716
 Secteur des Tic	13717
 Secteur. L’entrée	10975
-Secteurs	2342,11048
+Secteurs	2342,11048,1098,1,1
 Secteurs Non-résidents	13390
 Secteurs Non-résidents TOTAL Effectif	13390
 Secteurs Non-résidents TOTAL FEUILLE	13390
 Secteurs Primaire	2342
 SectiDn Il	37
-Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22,190,13,2,2,4,2,37,52,2,2,4,16,1,9,7,1,1,11,32,16,8,2,75,4,8,23,7,6,12,21,7,5,21,3,30,11,4,1,25,1,14,8,10,4,3,2,4,1,2,19,9,2,7,2,69,5,20,17,7,5,4,7,2,7,8,14,18,7,47,11,11,220,18,16,2,1,1,7,4,3,13,2,7,4,18,14,26,1,4,2,2,1,2,11,7,37,11,14,5,51,7,4,62,37,4,1,2,8,1,6,1,1,2,5,3,1,7,1,3,16,1,1,3,6,15,5,4,2,4,12,17,29,4,8,9,7,2,5,9,3,1,7,4,19,5,23,4,47,12,31,32,14,3,36,5,33,9,28,18,130,18,4,29,33,5,44,61,39,34,13,16,22,20,45,8,34,18
+Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22,190,13,2,2,4,2,37,52,2,2,4,16,1,9,7,1,1,11,32,16,8,2,75,4,8,23,7,6,12,21,7,5,21,3,30,11,4,1,25,1,14,8,10,4,3,2,4,1,2,19,9,2,7,2,69,5,20,17,7,5,4,7,2,7,8,14,18,7,47,11,11,220,18,16,2,1,1,7,4,3,13,2,7,4,18,14,26,1,4,2,2,1,2,11,7,37,11,14,5,51,7,4,62,37,4,1,2,8,1,6,1,1,2,5,3,1,7,1,3,16,1,1,3,6,15,5,4,2,4,12,17,29,4,8,9,7,2,5,9,3,1,7,4,19,5,23,4,47,12,31,32,14,3,36,5,33,9,28,18,130,18,4,29,33,5,44,61,39,34,13,16,22,20,45,8,34,18,12,2,3,7,1,4,1,1,2,1,10,16,9,15,32,8,2,7,4,9,29,72,17,9,1,19
 Section A Description	12975
 Section A of Annex	7821
 Section A of Annex I	7821
@@ -1932,6 +2026,7 @@ Section B	582,7263,5130
 Section B.2.1	1243
 Section B.2.2	1243
 Section B.2.3	1243
+Section B.33	14546
 Section B.4.1	1243
 Section C	582,179,2047,9329
 Section C.2.1	1243
@@ -1944,6 +2039,7 @@ Section Evaluation Criteria Points Allocation Weight	11240
 Section F	1218,25,6602
 Section Five	11840
 Section Four	11840
+Section Further	14674
 Section Governance	13381
 Section I	4260,7705
 Section I BACKGROUND	13295
@@ -1970,19 +2066,21 @@ Section I.D	10829
 Section I.F of Schedule	10964
 Section I.H.2	10768
 Section II	37,1601,1688,1241,1206,610,4382,10,360,1652,253,145,110,232,303
+Section II De la Direction Générale Sous-section	14431
+Section II Des	14431
 Section II Opérations	17
 Section II Vote	17
 Section II.- Obligations	11139
 Section II.- Sanctions	11139
 Section II.A	5773
 Section II.E	1264
-Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190,1037,47,206,145,110,232
+Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10,363,1,421,190,1037,47,206,145,110,232,904
 Section III B Agreement	1867
 Section III B.1	13331
 Section III Consultation	17
 Section III Section	13185
 Section III THE POLICY	13295
-Section III of Schedule	1914,12081
+Section III of Schedule	1914,12081,435
 Section III.- Obligations	11139
 Section III.6	10862
 Section III.A of Schedule	2474
@@ -2002,12 +2100,14 @@ Section IX	5773,1123,6289,342,254
 Section IX. Consortia	5773
 Section Il	37
 Section In Collaboration	14090
+Section Licensing	14674
 Section Max Points Points Scored Compliance	13381
 Section One Organs for Civil Registration	12226
 Section Page Executive	10729
 Section Refer	10617
 Section Resources An Integrated	12904
 Section S du Code	4567
+Section Such	14674
 Section Training	13381
 Section Two Obligations	12185
 Section V	1638,6139,2988,10,363,279,1369,254,145,342,254
@@ -2030,6 +2130,7 @@ Section X	13185,342,254
 Section XI	5773,8008
 Section XII	13781
 Section and Sections	4167,35,15,43,89,1003
+Section de Recouvrement	14462
 Section des Comptes	13781
 Section. Operation	11129
 Section. Registrar	12151
@@ -2046,7 +2147,7 @@ Sectional Title Act	12912
 Sectional Titles	13251
 Sectional Titles Act	11189
 SectionalTitles	13213
-Sections	3,25,368,189,2,149,1001,64,76,49,3,46,5,339,465,129,80,12,156,146,131,100,45,131,258,195,35,12,3,18,25,41,48,252,9,23,480,19,114,106,70,111,339,2,958,958,55,10,263,60,404,92,175,588,443,112,276,2,136,435,35,253,4,23,28,51,45,30,136,407,103,35,2,45,113,150,1,25,79,5,4,118,9,7,7,2,54,17,14,246,6,8,5,3,1,22,12,26,18,47,2,1,246,1,28,61,2,20,5,94,109,75,4,155,28,89,116,117
+Sections	3,25,368,189,2,149,1001,64,76,49,3,46,5,339,465,129,80,12,156,146,131,100,45,131,258,195,35,12,3,18,25,41,48,252,9,23,480,19,114,106,70,111,339,2,958,958,55,10,263,60,404,92,175,588,443,112,276,2,136,435,35,253,4,23,28,51,45,30,136,407,103,35,2,45,113,150,1,25,79,5,4,118,9,7,7,2,54,17,14,246,6,8,5,3,1,22,12,26,18,47,2,1,246,1,28,61,2,20,5,94,109,75,4,155,28,89,116,117,271,23,62,101,27
 Sections B	12400
 Sections Department of Youth Department of Gender Botswana	12642
 Sections Foncières Nombre	10876
@@ -2072,7 +2173,7 @@ Sections of Prequalification Document	1638
 Sections3.1and3.2arefurther	8606
 Sections4	8606
 Sectiéh	10974
-Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8,21,3,10,9,11,16,20,135,10,12,153,2,18,113,104,5,10,1,8,6,1,18,15,1,14,4,9,10,50,11,45,45,255,7,35,36,83,140,136,17,10,8,13,36,18,14,18,3,5,198,123,14,55,162,32,16,255,2,21,15,3,32,37,102,104,107,251
+Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8,21,3,10,9,11,16,20,135,10,12,153,2,18,113,104,5,10,1,8,6,1,18,15,1,14,4,9,10,50,11,45,45,255,7,35,36,83,140,136,17,10,8,13,36,18,14,18,3,5,198,123,14,55,162,32,16,255,2,21,15,3,32,37,102,104,107,251,488,204
 Sector AI Ecosystem Enablers AI Ecosystem	4126
 Sector ARPU	6011
 Sector Academia	7548
@@ -2103,6 +2204,7 @@ Sector Cooperation Page	10721
 Sector Coordination	11907,268,1174,641
 Sector Data Centre Development Standards and ICT	12453
 Sector Deepening GCF Green Climate Fund	7548
+Sector Development Strategy	14674
 Sector Development and Green	789
 Sector Director	13938
 Sector Director for Digital Development for West and Central	4963
@@ -2159,6 +2261,7 @@ Sector Monitoring Mechanisms and Practices The ESP	13349
 Sector Monitoring Services	11224
 Sector Monitoring Services Tel	11224
 Sector NGOs	12328
+Sector Objective Actions G2G	14566
 Sector Overview and Context	13582
 Sector Performance	13474
 Sector Performance Report	6011
@@ -2271,12 +2374,14 @@ Sector-Wide Approach	1261,3040
 Sector-Wide Integration	13095
 Sector-impact	1702
 Sector-office	12328
-Sector-specific	1161,2700,667,1137,928,355,600,527,3190,1091,29,127,525,381
+Sector-speci	14566
+Sector-specific	1161,2700,667,1137,928,355,600,527,3190,1091,29,127,525,381,1147
 Sector-specific Foreign Affairs	7548
 Sector-wise	7482,4857
-Sectoral	761,200,743,73,1827,257,26,641,444,515,1734,92,235,1535,1692,54,27,14,270,2,444,551,407,768,2,29,75,206
+Sectoral	761,200,743,73,1827,257,26,641,444,515,1734,92,235,1535,1692,54,27,14,270,2,444,551,407,768,2,29,75,206,1050
 Sectoral AI	4528,7984
 Sectoral AI Adoption Framework Agriculture and Food	4528,7984
+Sectoral Adaptation Capacity Building Monitoring	14565
 Sectoral Adoption and Use Cases	4528,7984
 Sectoral Allocation of AI-Enabled Productivity Gains	2957
 Sectoral Analysis	2775
@@ -2286,14 +2391,20 @@ Sectoral Applications Enhancement	12917
 Sectoral Applications of AI	7547,1
 Sectoral CIRTs	10764
 Sectoral Center for Vigilance	6657
+Sectoral Committee	14409
+Sectoral Committees	14409
+Sectoral Committees ARTICLE	14409
+Sectoral Committees CHAPTER EIGHT	14409
+Sectoral Committees Subject	14409
 Sectoral Computer	587
 Sectoral Computer Emergency	587
 Sectoral Computer Emergency Response Team	587,11645
 Sectoral Computer Emergency Response Teams	587
 Sectoral Concertation Committee	11916
 Sectoral Contribution	13532
-Sectoral Council	13610,41
+Sectoral Council	13610,41,758
 Sectoral Council for Ministers	12164
+Sectoral Councils	14409
 Sectoral Councils and Committees	3861
 Sectoral Cybersecurity Operations Centers	11464,211
 Sectoral Cybersecurity Response Centre	13600,2
@@ -2301,6 +2412,7 @@ Sectoral DAC Alignment Vision	970
 Sectoral Data Classifications	3861
 Sectoral Data Governance Bodies and Specialization	3861
 Sectoral Decentralization	13418
+Sectoral Deep Dives	14674
 Sectoral Development Integration	3861
 Sectoral Direction Counsels	11525
 Sectoral Division	12962
@@ -2331,7 +2443,7 @@ Sectoral Vision for Renewal	4619
 Sectoral Working Group	12210
 Sectoral and Cross-Cultural Policies. Windhoek	12325
 Sectoral and External Audit	3861
-Sectoral and Institutional Context	1704,587,1165,8956,14,243,442,632,50
+Sectoral and Institutional Context	1704,587,1165,8956,14,243,442,632,50,783
 Sectoral and Institutional Context Social	12832
 Sectoral and Institutional Context Social Safety Nets	10963
 Sectoral and Institutional Context Zimbabwe	13523
@@ -2343,13 +2455,15 @@ Sectores da Saúde	4147
 Sectores de Defesa	794
 Sectoriais	11514
 Sectorial	10783
-Sectors	61,2,1,135,1,194,259,209,952,353,78,712,1169,324,66,308,420,1703,4029,4,149,11,122,59,536,6,11,7,447,18,13,17,37,32,914,59,114
+Sectors	61,2,1,135,1,194,259,209,952,353,78,712,1169,324,66,308,420,1703,4029,4,149,11,122,59,536,6,11,7,447,18,13,17,37,32,914,59,114,1033
 Sectors Beyond	14078
 Sectors Bureau	13669
 Sectors Electricity Overview Application Forms	12515
 Sectors Enrolled	12551
 Sectors PILLAR	4126
 Sectors Research the Public Future Inclusion Community	4126
+Sectors Sectoral	14565
+Sectors Use Cases Fraud	14566
 Sectors for Large Taxpayers SECTOR Tax Revenues	13053
 Sectors of Employment	10841
 Sectors of Employment Oil	10841
@@ -2360,6 +2474,7 @@ Security Sector	0,1655
 Segment Sectors Content Rights Online Services	1944
 Segment Sectors EBITDA Margins Return	1944
 Select Social Sectors Health	3604
+Selected Sectors. The Project	14430
 Self-Reliant African Health Sector Kenya	14182
 Self-Reliant African Health Sector Kenya Calls	14182
 Senior Financial Sector Specialist	3238,7525,78,295,1527,38,611,2
@@ -2402,8 +2517,10 @@ Statement of Director’s Responsibilities Section	6946
 Statistique du Secteur Développement Rural	9553
 Statistiques Sectorielles DPEPPNF	10847
 Stimulating the Tech Sector	9995
+Strategic Objectives Establish Sectoral Data Spaces	14566
 Strategic Sector Cooperation	10584
 Strategic Sectors	3604
+Strategic Sectors Framework	14674
 Strategies for Financial Sector Deepening	13474
 Strategy Financial Sector Assessment Program Gross	12701
 Strategy and Action Plan PSHACC Public Sector	12962
@@ -2416,7 +2533,8 @@ Strengthen Public Sector	12453
 Strengthening Capacity of Power Sector Practitioners	13791
 Strengthening Cybersecurity Across the Public Sector	5597
 Strengthening Energy Sector’s Financial Viability	11380
-Strengthening the Private Sector	12922,34,167
+Strengthening the Private Sector	12922,34,167,1286
+Strengthening the Private Sector ARTICLE	14409
 Strengthening the Private Sector Private Sector Credit	12922,34,167
 Structure Section	3025
 Substantial Sector Strategies and Policies	1284,1428,3867,349,3942,1118,1932
@@ -2431,6 +2549,7 @@ Swedish International FSD Financial Sector Development	12297
 Synthesia. For Section	8530
 System Design SECTION VI	11138
 T SECTORS Specific Objectives	1000
+TABLE DES MATIERES Section	14537
 TABLE OF CONTENTS SECTION	11209
 TABLE OF CONTENTS Sections CHAPTER	11182
 TAX RETURNS IN LINE WITH SECTION	13142
@@ -2443,6 +2562,8 @@ TELECOMMUNICATIONS ABRIDGED SECTOR PERFORMANCE REPORT	6000
 TELECOMMUNICATIONS SECTOR	11211,51,1339
 TELECOMMUNICATIONS SECTOR REVENUES	11211,51
 TELECOMMUNICATIONS SECTOR TO GROSS DOMESTIC PRODUCT	236
+TEXTES SECTORIELS APPLICABLES	14488,1,1
+TEXTES SECTORIELS APPLICABLES Textes	14488,1,1
 TFEU. Section	10090
 THIRD HEALTH SECTOR STRATEGIC DEVELOPMENT	13982
 THIRD QUARTER SECTOR STATISTICS REPORT	6671
@@ -2521,7 +2642,7 @@ Training and Development BANKSETA Banking Sector Education	6832
 Transform Key Sectors	4528,7984
 Transformation Digitale du Secteur	13306
 Transforming Zimbabwe's Postal and Courier Sector	13582
-Transport Sector	718
+Transport Sector	718,13758
 Transport Sector Stakeholders	395
 Transport and ICT Infrastructure Sector	13122
 Transportation and Storage Sector Water Transport Railway	2775
@@ -2550,6 +2671,7 @@ United Nations Cartographic Section	12344
 United Republic of Tanzania. Sectoral	11142
 United States and China. Section	7151
 Unleashing Private Sector Growth. International Finance	10841
+Use of Public Sector Data	14434
 V- PRÉSENTATIONS SECTORIELLES ANNEXES ET FICHES	2342
 V- PRÉSENTATIONS SECTORIELLES ET FICHES ENTREPRISES	2342
 V. STRUCTURAL AND SECTORAL REFORMS	13060

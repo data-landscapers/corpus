@@ -14,6 +14,7 @@ ASSESSMENT AND COMPLIANCE Self-	11976
 Abdallah Ibrahim Yonis. Complements the JO	4197
 Act. Compliance	12166
 Acting Director of Regulation and Compliance	6689,1057,4005
+Action Complaint File Date	14675
 Actos Complementares	4274
 Adlegal International Limited. The Complainant	5113
 Administrative Complaints	12185
@@ -120,6 +121,7 @@ COMPLEX	10852
 COMPLIANCE	5665,6321,1067
 COMPLIANCE AND ENFORCEMENT	718
 COMPLIANCE CHECKLIST	12302
+COMPLIANCE CHECKLIST Questions Yes No Comments	14524
 COMPLIANCE ISSUES	11924
 COMPLIANCE MONITORING	718
 COMPLIANCE MONITORING BY THE MINISTRY RESPONSIBLE	13484
@@ -168,7 +170,7 @@ Complainants	1807,1500,655
 Complainants The Complainants	3307
 Complainants. The Respondent’s Privacy Policy	3307
 Complaining	8460
-Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428
+Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270,175,775,210,136,246,1428,699
 Complaint Channels	3861
 Complaint Committee	1778
 Complaint Concerning Violation	5113
@@ -186,7 +188,7 @@ Complaint Stage Recommended Timeline Acknowledgement	5676
 Complaint Tool	8529
 Complaint Type	13097
 Complaint Unit CEET Compagnie Energie Electrique	12062
-Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,817,697,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235
+Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,817,697,969,18,1321,61,131,2,2,234,26,193,108,117,213,6,44,55,5,220,68,398,42,226,10,1,48,119,224,10,235,869
 Complaints Commission of South	13462
 Complaints Commission of South Africa	13461
 Complaints Commission of South the Commission and X.AI	13462
@@ -227,7 +229,7 @@ Complejo Escolar	4209
 Complejo Escolar Pablo Bee Nsork	4209
 Complejo Escolar de Nkuantoma	4209
 Complejo Escolar de Ntobo Nzomo Bata Bata	4209
-Complement	958,4014,1460,4724,1808,367,538
+Complement	958,4014,1460,4724,1808,367,538,565
 Complement Government	13295
 Complementaridade	11448,453
 Complementariedad	1701
@@ -244,11 +246,13 @@ Complementary Interventions This Partnership Compact	12175
 Complementary Pathways	10841
 Complementary Pillar Data	2557
 Complementary Strategies	12701
+Complementary Systems Enabling AMSAF and RARS	14522
 Complementary TA	11905
 Complementary and Interim	12337
 Complemented	13874,32
 Complementing	3398,398,327,316,144,659,221,51,213,1861,713,137,724,454,1225,23,271,61,52,84,136,118,451,204,357,407,55,3,17,400,205,391
 Complementing Africa	7518
+Complementing Malawi	14674
 Complementing Ryakitimbo	12088
 Complementing VAT	10997
 Complementing the Participation Agreement	4261
@@ -268,7 +272,7 @@ Complements the OpenClinic HMIS	7132
 Completa Representantes	8003
 Completar	1701
 Completação de Registos de Nascimentos	11537
-Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428,230,125,3,16,87,40,663,1,46,209,16,24,92,22,7,8,3,26,6,49,9,138,81,355,39,87,28,64,136,7,476
+Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428,230,125,3,16,87,40,663,1,46,209,16,24,92,22,7,8,3,26,6,49,9,138,81,355,39,87,28,64,136,7,476,802
 Complete All	11854
 Complete BER	12195
 Complete BESS	12399
@@ -325,8 +329,8 @@ Completeness and Consistency	3861
 Completeness and Timeliness of Weekly Reports	11912
 Completeness of DDPs	8436
 Completeness of Registration	12151,262,1231
-Completing	3604,7530,349,264,1678
-Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82
+Completing	3604,7530,349,264,1678,1151
+Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1,1383,22,21,621,51,497,91,162,295,2,66,21,127,125,82,1278
 Completion Date	1988,2908
 Completion Date FM Conditions Accounting	10829
 Completion PCR AfDB	13938
@@ -367,7 +371,7 @@ Complexo Laboratorial de Saúde Digital	12846
 Complexo. Depois	11435
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118,157,2,1,64,24,28,2,611,89,3,1,9,21,9,167,4,48,26,13,48,24,31,4,5,9,26,22,17,14,37,7,3,12,37,9,103,25,7,210,6,13,16,29,2,36,31,1,5,9,2,132,10,125,98,2,84,123,54,504,237,13,14,75,51
 Compliance Adherence	13042
 Compliance Advisor Ombudsman	11007
 Compliance Agreements	7994
@@ -381,7 +385,7 @@ Compliance Breaches	5939
 Compliance Burn	10738
 Compliance CRF NCS	10721
 Compliance Challenges Faced	12189
-Compliance Checklist	2668
+Compliance Checklist	2668,11856
 Compliance Checks	7055
 Compliance Clauses	6432
 Compliance Compliance	6936
@@ -421,6 +425,7 @@ Compliance Our Management	11131
 Compliance Percentage Formula	13381
 Compliance Postal Services	396
 Compliance Processes	12356
+Compliance Reporting	14524
 Compliance Reports	12400
 Compliance Requirement All	6432
 Compliance Requirements	12302
@@ -459,10 +464,12 @@ Compliance and Policy Gaps	13624
 Compliance and Quality Assurance	13037
 Compliance and Reporting	11952
 Compliance and Reporting Requirement	11952
+Compliance and Tax Returns Modules	14533
 Compliance for Digital Platforms The FCCPC	11313
 Compliance of Management	10812
 Compliance-as-a-Service	4848,63,17
 Compliance-related	4848,6308
+Compliance. Notwithstanding	14528
 ComplianceDr Bosun TijaniNigeriaRead	2809
 Compliant	8670,3072,472,823,5,339,487
 Compliant Nigerian Naira	2372
@@ -475,7 +482,7 @@ Complicité	6959
 Complied	11965
 Complies	12359
 Complimentary	4743,4288,2835
-Comply	2724,1137,2562,9,3975,802,26,619,98,301,136,538,393,61
+Comply	2724,1137,2562,9,3975,802,26,619,98,301,136,538,393,61,1105
 Comply Not Comply Substantiate	11209
 Comply Quest	6511
 Complying	7914,523,2753,684,7,304,55
@@ -484,6 +491,7 @@ Complémentaires	13390
 Complémentaires Assurances	13390
 Complétant le Code de Commerce	4567
 Compléter	3356
+Complétez	14480
 Complétude	13300
 Complété	3157
 Comprador Complex	4258
@@ -504,6 +512,7 @@ Continuous Compliance Audits	11995
 Continuous Compliance Monitoring Systems	3861
 Contract Completion	13017
 Corporate Risk and Compliance Division	4529
+Corporation Numerical Machining Complex	14546
 Course Enrollments235 Certificates Completed	13095
 Credit Bureau Compliance	11198
 Credit Provider Compliance	11198
@@ -534,7 +543,7 @@ Data Protection Compliance	4528,6193,1791
 Data Protection Compliance Assessment Checklist Name	13381
 Data Protection Compliance Assessment Scoring Checklist	13381
 Data Protection Compliance Audit Returns	8922,59
-Data Protection Compliance Certificate	12323
+Data Protection Compliance Certificate	12323,2180
 Data Protection Compliance Conclude	2668
 Data Protection Compliance Organisation	11956
 Data Protection Compliance Organisations	8981,329
@@ -551,6 +560,7 @@ Death Registration Completeness	12151,1493
 Dec-2035 Yes Joint Level Complementary	3604
 Declaration of Compliance	12393
 Delayed Completed Completed	2989
+Delayed Completion of Sirari Corridor Accessibility and Road	14546
 Delivery Dates and Completion Dates	13185
 Delivery and Completion	13185
 Delivery and Completion Schedule	13185
@@ -614,6 +624,7 @@ Enforcement and Compliance	10157,1838
 Enhance AML-CFT Compliance	940
 Enhanced Compliance	13037
 Enhancing Tax Compliance	13053
+Enquiries COMPLAINTS Nairobi	14525
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enrollment and Completion	13991
 Enrolment and Completion	13991
@@ -760,7 +771,7 @@ Junho. Complementando	4146
 Jurisdictional Complexity and Regulatory Overlap	4848
 KEY COMPLIANCE REQUIREMENTS	13037
 KEY ONGOING COMPLIANCE REQUIREMENTS	12542
-KRA Tax Compliance Certificate	12323
+KRA Tax Compliance Certificate	12323,2180
 Key Activities Completed Honourable Chairperson	12962
 Key Compliance Requirements	12961
 Km. Completion	12922
@@ -768,6 +779,7 @@ Konza Complex	1733
 LEGAL AUDIT AND COMPLIANCE DIRECTIVE	3861
 LISTE EST COMPLÈTE	13300
 LPG Compliance The Authority	12256
+Lack of Completion Rate Analysis	14546
 Largely Compliant	12597,1271
 Lead Analyst Programmer Mandatory Requirement Compliant	13037
 Lead Systems Administrator Mandatory Requirement Compliant	13037
@@ -779,6 +791,7 @@ Legislation Interpretation Relevance Compliance	1988
 Legislation Interpretation Relevance Compliance The Gender	1988
 Level Completed Figure	12431
 Licence Fee Annual Compliance Burn KES	10738
+Licensing and Compliance Division	14455
 List of Related Services and Completion Schedule	13185
 List of Related Services and Completion Schedule Service	13185
 Location Data Residency Compliance	6432
@@ -790,6 +803,7 @@ Lower Middle Income Complying	10976,1370
 MANDATORY COMPLIANCE INSEPCTIONS AND ASSESSMENTS	13695
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
 MOR's Compliance Strategy	12500
+Madagascar Nears Completion of Sweeping Cybersecurity Reform	14639
 Malawi Basement Complex'. Rock	12253
 Manager of Compliance	12162
 Mandatory Documents Mandatory Requirement Compliant	13037
@@ -932,7 +946,7 @@ Reasons for Not Having Complied	11218
 Referral and Emergency Complex	12976
 Registration Completeness and Timeliness Registration	13644
 Registry Complex	13434
-Regulations. Compliance	3307
+Regulations. Compliance	3307,11340
 Regulatory Change and Compliance Complexity Evolving	11134
 Regulatory Compliance	3487,1705,6,467,767,4799,1188,498
 Regulatory Compliance Audit	4153,14,35,15,43,89,1003
@@ -940,6 +954,7 @@ Regulatory Compliance Delivering	9781
 Regulatory Compliance Department of E Government Short	12917
 Regulatory Compliance Service	11952
 Relevance Compliance	1988
+Remedial Action General Compliance	14524
 Remedial Orders and Compliance Mechanisms	3861
 Reported Number and Value of Private Buildings Completed	2775
 Reports the COMPLETION	6358
@@ -965,12 +980,14 @@ S Regulatory Compliance Audit	4301
 SADC Summit. Compliance	13494
 SELECTED SUMMARIES ON COMPLAINTS ABOUT CHILDREN	13097
 SENTENCING AND ORDERS TO PROTECT COMPLAINANTS	11190
+SHOULD BE COMPLETED TOGETHER	14528
 SIM Registration Compliance	3805
 SMEs Complexity Financial	9129
 STATISTICS OF COMPLAINTS RECEIVED	13097
 STATISTICS STATISTICS OF COMPLAINTS RECEIVED	13097
 SUCCESSFULLY COMPLETED DURING LAST	13031
 Safeguards and Compliance	8546
+Scale Cloud-Native Compliance Platform	14700
 Schools Complementing Routine Civil Registration Systems	13681
 Section Max Points Points Scored Compliance	13381
 Secure and Smart Documents Complex	2848
@@ -1028,7 +1045,8 @@ Target Compliance Level	6946
 Tax Administration Performance Shapes Compliance	10997
 Tax Administration and Compliance Programme	12162
 Tax Compliance	1698,11250
-Tax Compliance Certificate	10064,2233
+Tax Compliance Certificate	10064,2233,2118
+Tax Compliance Certificates	14533
 Tax Compliance Certiﬁcate	2709
 Tax Compliance Division	12500
 Tax Compliance Division. The Tax Appeal	12500
@@ -1044,6 +1062,7 @@ Technical Compliance Re-Rating	5130
 Telcom Consumer Compliance Supply Chain Services	6946
 Telecom Complaints	11642
 Telecommunications Compliance and Telkom Kenya Limited	6946
+Teraco Completes JB4 Expansion	14673
 Timeliness of Registration and Registration Completeness	12672
 Traditional and Complementary Medicine	13166
 Training Completion Certificates	12400

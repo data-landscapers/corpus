@@ -199,6 +199,7 @@ BURCHS RESORT NAIVASHA LIMITED Data Controller	7167
 BUSSEM LIMITED Data Controller INST-5197192A8C9 NAIROBI	7167
 BUSSEM LIMITED Data Processor INST-5197192A8C9 NAIROBI	7167
 Baseline Systems Assessment Report. Nairobi	12138
+Benjamin Nii Nai Anyetei	14690
 Betachem Data Processor INST-4863935A432 NAIROBI Kenya	7167
 Beyond Nairobi	9016
 Billy Ogero Data Processor INST-2351663BFD3 NAIROBI	7167
@@ -343,6 +344,7 @@ Claremont Mediserve Data Processor INST-5186125FEC6 NAIROBI	7167
 Co. Advocates Data Processor INST-4351920F009 NAIROBI	7167
 Coast South Rift Nairobi Lower Eastern	7869
 Collstep Limited Data Controller INST-2530594D036 NAIROBI	7167
+Colourprint Ltd. Nairobi	14409
 Commodities Fund Data Controller INST-6094611D08F NAIROBI	7167
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
 Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
@@ -793,11 +795,14 @@ East Africa Data Controller INST-190042FFF42 NAIROBI	7167
 East Africa Data Controller INST-4911146A91D NAIROBI	7167
 East Africa Data Processor INST-190042FFF42 NAIROBI	7167
 East Africa. The Nairobi	14178
+East Africa. With Nairobi One Campus	14508
 Easycoach Ltd Data Controller INST-9957823C73A NAIROBI	7167
 Edenways Limited Data Processor INST-7128266E44A NAIROBI	7167
 Eight Hundred and Twenty Naira	3862
 Electronic Naira	11861
 Email Nairobi	2313
+Enquiries COMPLAINTS Nairobi	14525
+Enregistrement Systematique des Naissances	14574
 Est- NAISSANC	13300
 Ethiopia’s EAII and Rwanda’s NAIA	6997
 Europe. A Nairobi	8261
@@ -1508,6 +1513,7 @@ LA NAISSANCE VACCIN POLIO ORAL	13300
 LA PREMIÈRE NAISSANCE	13300
 LE TABLEAU DES NAISSANCES NOMBRES NOMBRES	13300
 LES NAISS. DANS LE TABLEAU	13300
+LIEU DE NAISSANCE GENRE REPOBLIKAN'I MADAGASIKARA	14480
 LIMITED Data Controller INST-10212622055 NAIROBI Kenya	7167
 LIMITED Data Controller INST-10684197F45 NAIROBI Kenya	7167
 LIMITED Data Controller INST-1200303B94A NAIROBI Kenya	7167
@@ -1714,7 +1720,7 @@ Naing Ngan Thar Sisityay Card	10714
 Nair Abakar	5671
 Nair Aboubacar	13777
 Nair Aboubacar URL	13777
-Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339,819,1,91,24,906
+Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339,819,1,91,24,906,1592,73
 Naira Branch Wallets An FI	11861
 Naira Helpdesk	11861
 Naira Helpdesk Team	11861
@@ -1723,6 +1729,7 @@ Naira Merchant Speed Wallet	11861
 Naira Merchant Speed Wallets	11861
 Naira Payment Solution	2287
 Naira Platform	11861
+Naira RWF	14683
 Naira Speed App	11861
 Naira Speed Merchant App	11861
 Naira Speed Wallet	11861
@@ -1745,7 +1752,7 @@ NairaCircularAndGuidelines	11861
 NairaHost	10558
 Nairametrics	925,1457,8,287,549,3182,1637,1073,892,495,833,970
 Nairo	12151
-Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,85,29,117,1,201,148,14,94,37,66,210,27,357,149,36,73,231,51,243,100,13,128,25,18,11,1,29,11,52,49,21,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,27,95,11,115,27,54,14,32,147,50,10,34,7,42,35,5,68,36,11,25,26,2,17,19,8,8,33,9,44,42,15,1,61,17,10,74,1,7,3,84,24,24,1,17,3,9,28,10,5,2,1,17,17,25,16,26,40,5,1,8,4,53,9,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,3,1,60,38,5,2,12,24,75,11,44,66,14,42,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,23,15,1,89,19,14,34,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,26,7,15,29,11,6,2,3,60,2,3,42,98,13,66,15,10,32,11,57,6,15,1,1,36,45,60,3,28,79,83,4,1,4,69,7,192,106,153,68,27,7,13,4,9,9,18,1,35,4,1,7,17,2,27,5,3,4,6,11,4,4,40,14,136,163,109,188,68,22,210,118,50,2,1,170,257,5,61,8,95,6,34,99,11,62,13,9,74,50
+Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,85,29,117,1,201,148,14,94,37,66,210,27,357,149,36,73,231,51,243,100,13,128,25,18,11,1,29,11,52,49,21,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,27,95,11,115,27,54,14,32,147,50,10,34,7,42,35,5,68,36,11,25,26,2,17,19,8,8,33,9,44,42,15,1,61,17,10,74,1,7,3,84,24,24,1,17,3,9,28,10,5,2,1,17,17,25,16,26,40,5,1,8,4,53,9,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,3,1,60,38,5,2,12,24,75,11,44,66,14,42,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,23,15,1,89,19,14,34,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,26,7,15,29,11,6,2,3,60,2,3,42,98,13,66,15,10,32,11,57,6,15,1,1,36,45,60,3,28,79,83,4,1,4,69,7,192,106,153,68,27,7,13,4,9,9,18,1,35,4,1,7,17,2,27,5,3,4,6,11,4,4,40,14,136,163,109,188,68,22,210,118,50,2,1,170,257,5,61,8,95,6,34,99,11,62,13,9,74,50,13,12,19,19,16,32,47,4,2,2,31,21,6,19,14,10,3,1,3
 Nairobi AI Forum	5095,5620,641
 Nairobi AI Forum Partnership	10715
 Nairobi Atelier	13783
@@ -1766,12 +1773,15 @@ Nairobi Emerging Technologies Infrastructure	7548
 Nairobi GoK MICDE	7548
 Nairobi HOL Puntland	3463
 Nairobi Head Office	12209
+Nairobi Headquarters	14546
 Nairobi High Court	2447,9853
 Nairobi Hospital	6274
 Nairobi Intelligent Transport System	2160,7487
 Nairobi Intelligent Transportation System Phase	355
+Nairobi JR Application No	14460
 Nairobi Jiu-Jitsu Academy	10464
 Nairobi Kenya	10235
+Nairobi Land Registry	14427
 Nairobi Manifesto	226
 Nairobi Metropolitan Transport Authority	6946
 Nairobi Middle Income Group	2775
@@ -1781,7 +1791,9 @@ Nairobi News	10822
 Nairobi News Murkomen	8217
 Nairobi North-eastern Coast Central Nyanza Western	9646
 Nairobi P.O. BOX	5793
+Nairobi Re	14601
 Nairobi Regional Commissioner	4631
+Nairobi Regional Commissioner Gilbert Kitiyo	14641
 Nairobi SCAN ME	12151
 Nairobi Securities Exchange	4978,2226,295,49,19,526,531
 Nairobi Securities Exchange-listed	4561
@@ -1811,12 +1823,13 @@ Nairobi and Lagos	388
 Nairobi and Luanda	3878
 Nairobi and Migori	12231
 Nairobi and Migori. Each FGD	12231
-Nairobi and Mombasa	18,5698,1230
+Nairobi and Mombasa	18,5698,1230,7530,139,49
 Nairobi and New York-based	10464
 Nairobi and Nyeri	12138
 Nairobi and Samburu	14299
 Nairobi's Mukuru	6864
 Nairobi's Mukuru Affordable Housing Project	6864
+Nairobi- Abu Dhabi	14476
 Nairobi-2028-ISO-meeting	14273
 Nairobi-KampalaMap-June-Update-FINAL	6691
 Nairobi-KampalaMap-June-Update-FINAL.width-800.png	6691
@@ -1867,6 +1880,7 @@ Naissances Pourcentage	13300
 Naissances Taux	13442
 Naito Yasushi	14374
 Naitram	10997
+Naivas	14507
 Naivasha	1245,477,4191,4400,789,625
 Naivasha Girls’ Secondary School	10313
 Naivasha Prime Cabinet Secretary Musalia Mudavadi	1245
@@ -1883,6 +1897,8 @@ Nyandarua and Nairobi	13254
 Nyeri District and Nairobi City	12151
 ODPC’S E-BULLETIN NAIROBI	2668
 Online Course MOH Ministry of Health NAIO	1204
+Operation and Maintenance of Nairobi Nakuru Mau Summit	14546
+Others Civil App Nai. No	14460
 Overall Nairobi	2775
 PAS DE RÈGLES DEPUIS DERNIÈRE NAISSANCE	13300
 PLANT LTD Data Controller INST-5968341D599 NAIROBI	7167
@@ -1897,6 +1913,7 @@ POUR CHAQUE NAISSANCE EN	13300
 POUR DERNIÈRE NAISSANCE	13300
 PRACTICE Data Controller INST-379836BB0F8 NAIROBI Kenya	7167
 PRIVATE LIMITED Data Controller INST-869090EB65E NAIROBI	7167
+PRÉNOM DATE DE NAISSANCE DATE D'ÉMISSION	14480
 PTE LTD Data Processor INST-925756A546A NAIROBI	7167
 Pablo Naicker	7224
 Patricia. In Nairobi	14299
@@ -2061,6 +2078,7 @@ Sixty-One Thousand Five Hundred and One Naira	3862
 Soma Associates Data Processor INST-291364F3F54 NAIROBI	7167
 Sonigra Data Processor INST-79167604162 NAIROBI	7167
 Sport By Naison Bangure Jun	6244,1
+State House Nairobi	14535
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
 Systems Limited Data Processor INST-5919342C364 NAIROBI	7167
 SÉRIE DU QUESTION- NAIRE MÉNAGE	13300
@@ -2089,10 +2107,12 @@ UNE NAISSANCE AUCUNE	13300
 UNE NAISSANCE EN	13300
 UNE NAISSANCE OU AUCUNE	13300
 UNE NAISSANCE OU PLUS EN	13300
+UNVEILED Nairobi	14478
 USD and Naira	7465
 Uganda and Nairobi	4959
 University NAIC National AI Council NAIS	12512
-University of Nairobi	899,6047,1533,3248,411,13,41,35,51,45,178,80
+University of Nairobi	899,6047,1533,3248,411,13,41,35,51,45,178,80,1922,102
+University of Nairobi DASCLAB	14663
 University of Nairobi Language	9679
 University of Nairobi Nairobi	7886
 University of Nairobi's Registration and Identification Bill	12138
@@ -2111,4 +2131,5 @@ Wellness Foundation Data Controller INST-16693661558 NAIROBI	7167
 X Nairobi Senator Edwin Sifuna	8217
 XAfrica Data Centres' Nairobi	5368
 XAfrica NBOX1 Nairobi Campus	2850
+XAfrica Nairobi	14508
 Xu Zheng NAIROBI	8479

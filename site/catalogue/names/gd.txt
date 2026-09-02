@@ -4,7 +4,7 @@ AI’s GDP	11140
 AU CZI ECD GDP HIT HPC	4528
 Actual Percent of GDP	11136
 Africa CSLP EAC EDF GDP GIS	13290
-Africa's GDP	1038,1769,4,146,4474,173,2301,810,1112,2311
+Africa's GDP	1038,1769,4,146,4474,173,2301,810,1112,2311,307,229
 African Banking Assets of GDP	6938
 African Chapter of GDF	12048
 African Financial Institution Assets of GDP	6938
@@ -18,6 +18,7 @@ Annual GDP	6027,6368
 Annual Real GDP Growth	12551,981
 B. Bound Tests B1. Real GDP	13868
 B5-Cluster GDP	7548
+BEST PRACTICES The EU GDPR	14434
 Backbone GDP Gross Domestic Product GSM	11857
 Banco Mundial GdA Governo de Angola GFP	11390
 Benin’s GDP	10887
@@ -29,6 +30,7 @@ Cameroon’s GDP Across Sectors	10841
 Cape Verde Eyes GDP Boost Through	3416
 Cape Verde's GDP	2794
 Carvalho GDA	10780
+Cedi GDP Gross Domestic Product GSMA	14674
 Co-Develop and GDN	10852
 Competitiveness Index GDP Gross Domestic Product	13312,2
 Compiling GDP	236
@@ -47,21 +49,24 @@ Debt-to GDP	12956
 Description The GDD Visibility Tech Sprint	2203
 Despite GDP	12669
 Development Office GDP Gross Domestic Product	12006
+Digitalisation du GDT	14622
 Distribution of GDP	11524
 Domestic Economic Developments GDP Developments Eswatini	11131,3
-Domestic Product GDPR General Data Protection	10781,80,1566
+Domestic Product GDPR General Data Protection	10781,80,1566,2055
 EAF Energy Availability Factor GDP Gross	11228
 EBN and GD	766
 EFIU EFT FSB FSP G2P GDP	11130
 EPS Fintech GDP GT HC HRH	11131
 ESI ESP FGS FMS FOB GDP	11136
+EU European Union GDPR General Data	14434
 EU GDP	13532
-EU GDPR	961,282,104,1377,82,750,4880,5692
+EU GDPR	961,282,104,1377,82,750,4880,5692,306
 EU's GDPR	1652,11023
 EU’s GDPR	961,2331,2201,850,5929
 Early Childhood Development GDP Gross Domestic	12512
 Economic Co-operation and Development GDPR General Data	6936
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
+Elasticity of GDP	14674
 Electricity and GDP	13624
 Empowerment Programme Financial Technology FX GDP	11134
 Equatorial Guinea’s GDP	10841
@@ -98,6 +103,7 @@ GD&RQVWLWXLomR GHWHUPLQDRVHJXLQWH	11530
 GD-183-7174 Mob	3386
 GDA Data Assessment Framework	1161
 GDAP PCU Coordinator	6277
+GDARD Ref No S24G	14673
 GDAZAfQIPrAArorBW	6423
 GDC Global Digital Compact GWAN Government	13005
 GDC and DPGA	13005
@@ -186,8 +192,8 @@ GDP Weaknesses	11895,264
 GDP Weaknesses Rank Code	11884
 GDP Weighted Averages	1828
 GDP ZiG1	4392
-GDP and GDP	11136
-GDP and ICT	5245,5611
+GDP and GDP	11136,3538
+GDP and ICT	5245,5611,3818
 GDP and Inequality Adaptation	1828
 GDP and KSH	1923
 GDP of Africa	2865
@@ -264,6 +270,7 @@ GDP.10	11924
 GDP.107 Entrepreneurship	13314
 GDP.11	12948
 GDP.124	13331
+GDP.168 The IFC	14674
 GDP.3 Note	12948
 GDP.31 About	10768
 GDP.4 Remittances	11960
@@ -285,6 +292,11 @@ GDPR English	9067
 GDPR General Data Protection Regulation	11196
 GDPR The GDPR	8436
 GDPR's Data Protection Officer	11896
+GDPR--Definitions	14434
+GDPR--Principles Relating	14434
+GDPR--Responsibility	14434
+GDPR--Restrictions	14434
+GDPR--Transfers	14434
 GDPR-Chapter V	11154
 GDPR-aligned	3325
 GDPR-alignment	1218
@@ -312,6 +324,7 @@ GDPR. Verbatim	962
 GDPR.EU	1243
 GDPR26 and Digital Services Act	12675
 GDPRinterpretive	8436
+GDPU and The National Treasury Directorate of Accounting	14546
 GDPYears	13624
 GDPand Inequality	1828
 GDPin	12487
@@ -326,6 +339,7 @@ GDST and UGPE	12008
 GDVj'LUHomR	11527
 GDWDEHODLQGLFLiULDHP	11530
 GIFEC and GDCL	4484
+GLASS GDT GTS HPV IDA Analyse	14622
 GRV FRPSURPLVVRV SODVPDGRV QDV FOiXVXODV GD	11530
 GRV GDV FOiXVXODV HP DQH	11530
 GSMA-projected GDP	1400
@@ -356,7 +370,7 @@ Inclusion GDP Gross Domestic Product AI	12444
 Insurance Nominal GDP	2775
 International Scene World Real GDP Growth	2775
 Investigation GDP Gross Domestic Product GNI	10765,10
-Investment FX Foreign Exchange GDP Gross	10781,80,1566
+Investment FX Foreign Exchange GDP Gross	10781,80,1566,2055
 Kangaude GD	13040
 Kaonde.17 GDP	12376
 Kenya GDP	11994
@@ -405,7 +419,7 @@ RQVLGHUDQGR D SURSRVWD GR PLQLVWUR GD	11530
 RUHVWDO H GD IDXQD R UHJLPH	11527
 Ratio GDP Global Partnership for Education GER	11905
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198,55,57,680,166,1441,233,381
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880,6202,1675,153
 Real GDP Growth Inflation Current Account	2775
@@ -464,6 +478,7 @@ Violence Information Management System GDDS General	13359
 WRGRV VHJXQGRDVDOtQHDVD HH GDFOiXVXOD GD	11530
 Weak GDPR	8436
 Wireless Access FY Financial Year GDP	12395
+World Bank Development Indicators for GDP	14674
 World Bank and OECD GDP	10969,1236
 World Development Indicators Benin’s GDP	10856
 YDWLYR GD WHUUD SDUD	11527

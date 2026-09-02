@@ -9,7 +9,7 @@ Actor Customer	9124
 Actor Principal	1701
 Actor Requirement	6432
 Actor Requirements	6432
-Actor and Jurisdictional Scope	7548
+Actor and Jurisdictional Scope	7548,7116
 Actor and Transaction	1009
 Actor-network	7966
 Actores	1701,3962
@@ -62,6 +62,7 @@ Outcome Recommenda- Activities Actor	4126
 Outcome Recommendation Activities Actor	4126
 Patient Identifier Cross- Actor	1009
 Patient Identity Feed Actors	1009
+Policy Analysis of International and East African Actors	14434
 Policy Clause Implementation Guidelines Actor Requirements	6432
 Policy Clauses Implementation Guidelines Actor Requirements	6432
 Private and Third-Party Actors	3861

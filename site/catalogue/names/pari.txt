@@ -54,7 +54,7 @@ PARIHS	8376
 PARIS	4209,9756
 PARIS ALIGNMENT ASSESSMENT For Direct	1818
 PARIS HOLDING PERSPECTIVES	2342
-PARIS21	766,6447,2495,1166,363,289,1025,20,186,325,261,16
+PARIS21	766,6447,2495,1166,363,289,1025,20,186,325,261,16,1093
 PARIS21 DP22	7213
 PARIS21 Discussion Paper	7213
 PARISH COLLECTION	9696
@@ -74,7 +74,7 @@ Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa and Chitungwiza	13420
 Parirenyatwa. Example Related Person	6666
 Paris	573,691,691,141,162,95,26,8,7,19,403,23,12,29,139,85,71,261,1286,307,363,15,75,381,189,16,15,103,45,240,90,143,26,102,114,127,33,214,70,13,95,50,174,515,36,242,83,293,279,423,638,150,49,261,21,17,90,2,20,134,165,16,77,25,129,138,113,146,252,170,51,128,452,220,128,127,2,260
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60,291,143,712,184,329,512,492
 Paris Agreement Implementation Platform	13057
 Paris Agreement's Enhanced Transparency Framework	3431
 Paris Agreement. Enhancing Wildfire Preparedness	11332
@@ -88,7 +88,7 @@ Paris Branch	2836
 Paris Cedex	13260
 Paris Charter	4583
 Paris Cité	11784
-Paris Climate Agreement	789,2815,7114
+Paris Climate Agreement	789,2815,7114,3912
 Paris Club	11136,2732
 Paris Convention	12161,1196
 Paris Dauphine. Cette	7390
@@ -108,11 +108,12 @@ Parish Development Model and Emyooga	10299
 Parish Development Model. Through	8653
 Parisot	1009
 Parity Law	11586
+Parité	14570
 Power Parity PPP Project Procurement Strategy	11855
 Power Parity SADC Southern African Development	12663
 Pradhan Mantri Bhartiya Janaushadhi Pariyojana	11925
 President and Cabinet PARIS21 Partnership	13359
-Purchasing Power Parity	11183,398
+Purchasing Power Parity	11183,398,2906
 Purchasing Power Parity PPSD Project Procurement	10829
 Report. Paris	11310
 Rouen and Paris	7722
@@ -131,5 +132,6 @@ Twenty-First Century. Paris	6832
 Télécom Paris	10029
 UNESCO ICT Competency Framework for Teachers. Paris	899
 Understanding the Digital Divide. Paris	6832
+Université Paris-Est Créteil Public	14643
 Université Sorbonne Paris Nord	10531
 William Pariente	10964

@@ -18,14 +18,16 @@ ECOLEX This Decree	11570
 ECOLIT STORE LIMITED Data Controller INST-1806268824D	7167
 ENI-ABT Ecole Nationale	12
 Ecolabelling	13385
-Ecole	3465,4205,401,198,52,1570,1706,1744
+Ecole	3465,4205,401,198,52,1570,1706,1744,1279
 Ecole Formation Cours Autres	737
 Ecole Multinationale Supérieure des Postes	3604
 Ecole National	13301
-Ecole Nationale	969
+Ecole Nationale	969,13479,187
 Ecole Nationale Supérieure des Postes	10948
 Ecole Nationale de Formation Initiale	11905
+Ecole Nationale de Magistrature	14635
 Ecole Nationale de Police EPB	13377
+Ecole Normale Superieure	14472
 Ecole Normale Supérieure	13364
 Ecole Pay	10942,1
 Ecole Supérieure Africaine des ESF Technologies	3604
@@ -37,6 +39,7 @@ Ecoles	12,13421,261
 Ecoles Centrales	13694
 Ecoles Doctorales	13313
 Ecoles Fourniture	13694
+Ecoles Informatiques	14423
 Ecoles Latrines Jardins Cantines Fonctionnelles	10847
 Ecoles Latrines Jardins Cantines Terrain de Clôtures	10847
 Ecoles NB Salles BOUCLE DU MOUHOUN	10847
@@ -63,6 +66,7 @@ Geographical and Ecological Characteristics	12151
 Grandes Ecoles	12
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Jeunesse200 Ecole	1594
+Madagascar Ecole Supérieure Polytechnique	14448
 Management Information System ENA Ecole Nationale	13312,2
 Ministry of Ecological Transition	12545
 Natural Resource Management and Ecology	13089

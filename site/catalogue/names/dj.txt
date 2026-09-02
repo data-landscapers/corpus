@@ -15,7 +15,7 @@ AfDB’s Djibouti Country Strategy Paper	13938
 African Development Bank ARMD Djibouti Multisector	13885
 Agence Djiboutienne	13856
 Agence Djiboutienne de Développement Social	4402,9536
-Agence Djiboutienne des Normes	13843,65
+Agence Djiboutienne des Normes	13843,65,524
 Agence Djiboutienne des Routes	4402
 Airtel Congo Managing Director Djibril Tobe	3450
 Airtel Kenya CEO Djibril Tobe	8870
@@ -118,6 +118,7 @@ Dinara Djoldosheva	12747
 Direction Générale de Djibouti Télécom	3795
 Distrito Urbano de Djiacom	4209
 Djabirou Amadou	4246
+Djacoba Oliva TEHINDRAZANARIVELO Le Garde des Sceaux	14431
 Djagblé	14350
 Djahakro	2342
 Djaita	10114
@@ -126,6 +127,7 @@ Djaló	11561
 Djaló. Para	7666
 Djama Mohamed Hassan	13939
 Djamaâ El-Djazaïr	10688
+Djamba KJ	14666
 Djambala	5754
 Djamboutou	10975
 Djamel Hanniche	4542
@@ -172,7 +174,7 @@ Djibayatic	2542
 Djibloho	3029,1180,1359
 Djibo	10864
 Djibo and Dori	10864
-Djibouti	85,98,199,637,259,9,1,105,319,257,20,249,12,185,242,2,3,276,28,2,36,74,55,40,177,47,104,1,1,36,46,8,3,11,3,107,37,111,29,34,5,17,222,5,7,60,25,6,34,39,34,18,50,85,12,16,132,59,31,4,10,61,12,6,20,1,16,22,18,1,1,275,377,91,273,62,148,38,25,38,250,26,76,117,4,15,110,120,123,4,8,40,31,72,156,143,89,19,6,2,1,581,47,406,149,186,122,31,583,175,535,52,131,45,5,21,50,3,2,128,168,1,24,110,272,66,52,71,1,137,16,1,2,264,1,9,70,108,11,1,32,103,882,193,150,113,11,2,1,1,1,1,1,3,2,2,2,1,3,1,1,3,1,1,1,2,1,1,2,2,1,3,1,1,1,1,3,3,3,4,1,1,2,1,1,1,1,3,3,1,1,1,2,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,1,2,1,2,1,2,1,1,1,1,36,20,21,17,35,5,1,78
+Djibouti	85,98,199,637,259,9,1,105,319,257,20,249,12,185,242,2,3,276,28,2,36,74,55,40,177,47,104,1,1,36,46,8,3,11,3,107,37,111,29,34,5,17,222,5,7,60,25,6,34,39,34,18,50,85,12,16,132,59,31,4,10,61,12,6,20,1,16,22,18,1,1,275,377,91,273,62,148,38,25,38,250,26,76,117,4,15,110,120,123,4,8,40,31,72,156,143,89,19,6,2,1,581,47,406,149,186,122,31,583,175,535,52,131,45,5,21,50,3,2,128,168,1,24,110,272,66,52,71,1,137,16,1,2,264,1,9,70,108,11,1,32,103,882,193,150,113,11,2,1,1,1,1,1,3,2,2,2,1,3,1,1,3,1,1,1,2,1,1,2,2,1,3,1,1,1,1,3,3,3,4,1,1,2,1,1,1,1,3,3,1,1,1,2,1,1,1,1,2,1,1,2,1,1,2,1,1,1,1,1,1,2,1,2,1,2,1,1,1,1,36,20,21,17,35,5,1,78,274,2,77,185
 Djibouti 18112025.pdf	13890
 Djibouti ABDILLAHI HASSAN	6613
 Djibouti Advances Its National Land Policy	13896
@@ -245,7 +247,7 @@ Djibouti Partners With Visa	3605
 Djibouti Plastic Factory	4774
 Djibouti Port Community Systems	1288,4705
 Djibouti Port Container Traffic	13868
-Djibouti Ports Community System	9821,1912
+Djibouti Ports Community System	9821,1912,2963
 Djibouti President Ismail Omar Guelleh	4977
 Djibouti Public Administration Modernization Project World	13830
 Djibouti Pushes Startup Act	3970
@@ -265,7 +267,7 @@ Djibouti Sovereign Wealth Fund	2679
 Djibouti Startup	3953,17
 Djibouti State	13929
 Djibouti TO7	2580
-Djibouti Telecom	85,297,905,1,1391,842,1,1,10,26,229,632,295,183,20,1,16,40,1071,534,432,6837,2,17,1,46,6,5,7,5,449,17,1
+Djibouti Telecom	85,297,905,1,1391,842,1,1,10,26,229,632,295,183,20,1,16,40,1071,534,432,6837,2,17,1,46,6,5,7,5,449,17,1,279
 Djibouti Telecom CEO Mohamed Assoweh Bouh	4918,17
 Djibouti Telecom Chief Executive Officer Mohamed	4898
 Djibouti Telecom Expands DARE1 Cable	3523
@@ -337,11 +339,13 @@ Djibouti. La Ministre	4402
 Djibouti. La Roumanie	3630
 Djibouti. Le Ministère du Commerce	13843
 Djibouti. Lors	2768
+Djibouti. L’agence	14432
 Djibouti. L’enjeu	10531
 Djibouti. Operation ID	13856
 Djibouti. Plus	13939
 Djibouti. Pour	11661
 Djibouti. Practice Area	13850
+Djibouti. Sa	14696
 Djibouti. Selon	13939
 Djibouti. Son	9821
 Djibouti. The Forum	13945
@@ -356,9 +360,10 @@ Djiboutian Nationality	13938
 Djiboutien	7714
 Djiboutien. Article	13832
 Djiboutien. Elle	4402
-Djiboutienne	13832,2
+Djiboutienne	13832,2,598
 Djiboutiennes	4420,9412,2,75
-Djiboutiens	1287,3133,3296,2815,1202,2133,18
+Djiboutiens	1287,3133,3296,2815,1202,2133,18,542,270
+Djiboutiens L'un	14696
 Djibouti’s Balance of Payments	13868
 Djibouti’s BoP	13868
 Djibouti’s ESS	13868
@@ -395,6 +400,7 @@ Djoliba	2827,5448
 Djomy	7283
 Djoro	5723
 Djorofa	3338
+Djoudalbaye B	14666
 Djougou	3682,1849,1824,2555,914
 Djougou-Péhunco	4162
 Djougou. Au	2354
@@ -492,6 +498,7 @@ Kanto Kai Okanta Djibouti's Minister Delegate	13887
 Kinkala and Djambala	3801
 L'Agence Djiboutienne	13843
 L'Office Djiboutien	4567
+L'Université de Djibouti	14696
 La Poste de Djibouti LA MAISON	13855
 La République de Djibouti	3024,3878,247,450,117,2105
 Le Djely	5283
@@ -502,6 +509,7 @@ Les CEO de Djibouti Télécom	4919
 Lesotho Djibouti Liberia Liechtenstein Madagascar Mali	10764
 Lucille Nyameye Opokua Djan Ghana Institute	8776
 Lycée de Djibouti	13871
+L’Agence Djiboutienne des Normes	14432
 L’Université de Djibouti	4402,7331
 M. Abdelkader Djellaoui	10395
 M. Adoum Djimet Saboun	6125
@@ -591,7 +599,7 @@ Port of Djibouti	13931
 Portail Interactif de Djibouti Plateforme	13905
 Position and Trajectory Background. Djibouti	13868
 Poste de Djibouti	13908
-Pour Djibouti	7599,2932,3411
+Pour Djibouti	7599,2932,3411,754
 Pour Djibril Ouattara	6223,1
 Pour Dr DJITTE	8312
 President Michael Djotidia	10837
@@ -614,7 +622,7 @@ Recherche de Djibouti	4402,9442
 Red Sea. Djibouti	2679
 Refugees. Djibouti	13938
 Regional Consultation By Mohamed Djama	10634
-Republic of Djibouti	450,1799,904,1142,4350,5181,4,1,2,4,3,17,5,8,18,8,3,27,17
+Republic of Djibouti	450,1799,904,1142,4350,5181,4,1,2,4,3,17,5,8,18,8,3,27,17,568
 Republic of Djibouti FOR Public	13861
 Republic of Djibouti URL	13943
 Republic of Djibouti Urban	13897
@@ -626,7 +634,7 @@ Review of Djibouti Data Protection Law	3153
 Review of Djibouti's Data Protection Law	3885
 Rua Rui Djassi	11586
 République de Djibout	5993
-République de Djibouti	1287,3115,18,147,148,59,2128,247,1195,406,2983,2092,2,1,1,3,2,12,18,18,8,1,14,3,6,5,4,1,4,9,2,2
+République de Djibouti	1287,3115,18,147,148,59,2128,247,1195,406,2983,2092,2,1,1,3,2,12,18,18,8,1,14,3,6,5,4,1,4,9,2,2,485,6
 République de Djibouti III	4420
 République de Djibouti URL	13905
 République de Djibouti. Ce	3267,1300
@@ -685,7 +693,7 @@ VAT. DJIBOUTI	13868
 VTC. Tahirou Hama Djibo	12128
 Valeurs. L'Université de Djibouti	13848
 Valter Chirindza Djafta Muendane Odete Semião	2989
-Vision Djibouti	3970,597,252,1384,1025,228,259,1,6125,25,28,1,19,24,3
+Vision Djibouti	3970,597,252,1384,1025,228,259,1,6125,25,28,1,19,24,3,755
 WELE-NZAS NTEM DJIBLOHO	4209
 Weak DJIBOUTI	13868
 World Bank Djibouti	13840

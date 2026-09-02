@@ -23,6 +23,7 @@ AGARWAL'S EYE HOSPITAL Data Processor	7167
 AGC TENWEK HOSPITAL Data Controller INST-551450D37F1	7167
 AGC TENWEK HOSPITAL Data Processor INST-551450D37F1	7167
 AHMADIYYA MUSLIM HOSPITAL Data Controller INST-29685020E2F	7167
+AI Sandbox Programme Host	14566
 AI Technologies Hosting	7548
 AIC CURE INTERNATIOANAL HOSPITAL Data Controller	7167
 AIC CURE INTERNATIONAL HOSPITAL Data Processor	7167
@@ -184,7 +185,16 @@ Central Hospitals and K6	13122
 Central and District Hospitals	13122
 Centre Hospitalier Universitaire de Butare CHUK	12338
 Centre Hospitalier Universitaire de Kigali CHW	12338
+Centre Hospitalier Universitaires CIM	14442
+Centre Hospitalier de Reference Regional	14662
+Centre Hospitalier de Reference Regionales CHU	14442
+Centre Hospitalier de Reference de District	14662
+Centre Hospitalier de Reference de District CHRR	14442
+Centre Hospitaliers Universitaires	14442
 Centre Hospitalo-Universitaire de Kamenge	4363
+Centres Hospitaliers de Reference Regionale	14442
+Centres Hospitaliers de Reference de District	14442
+Centres Hospitaliers de Référence de District	14622
 Cessation of Hostilities Agreement	12500
 Cessation of Hostilities Agreement. Reports	14008
 Chainama Hospital	34
@@ -278,13 +288,16 @@ Energy and Hospitality Rise	9815
 Enfermos Hospitalizados	4209
 Enhance Financial Well-Being for Refugees and Hosts	13938
 Enhance the Welfare of Refugees and Host Communities	12297
+Enhancing Data Hosting Capacity	14674
 Equipamiento Hospital Distrital de Niefang	4209
 Equipamiento de Hospitales	4209
 Estonian Hospitals Union	11006
 Estruturas Hospitalares	11537
 Eswatini Payment Switch Roadshows Hosted	11131
+Etablissements Hospitaliers Prives ES	14442
 Ethiopia's First Internet Exchange Hosted	14026
 Events and Hospitality Policy	6946
+Example Afya Nzuri National Hospital	14524
 Exemption for On- Premise Hosting	6432
 FS Mangaung M St Elizabeths Hospital	11986
 Federated Hospitality Association of Southern Africa	5533
@@ -350,7 +363,7 @@ Hospedagem de Dados Públicos. Tal	11448
 Hospedagem de Infra-Estrutura	4556,1
 Hospice KOUMONDJI	2623
 Hospitais	11537
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47,378,129,342,648,64,167,107,1232
 Hospital Adamawa North East	11857
 Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
@@ -425,6 +438,7 @@ Hospital-wide HMIS	2709
 Hospitalar	5020
 Hospitales	4209
 Hospitality	1877,898,7040,2141,199,146,676
+Hospitality Customer	14566
 Hospitality Industry	12896
 Hospitality Think Tank	7253
 Hospitality and Tourism Association of Botswana	12552
@@ -433,7 +447,7 @@ Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 Hospitalizations	10780
 Hospitalized After Rwanda’s Crackdown	5889
 Hospitalized Jewel Howard-Taylor	10405
-Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503
+Hospitals	1824,3561,315,966,1939,564,937,598,1153,99,24,937,503,1146
 Hospitals Clinics Laboratories Other Major	8605
 Hospitals General	11857
 Hospitals Must Rethink Cyber	3279
@@ -487,7 +501,7 @@ Hostel	11180
 Hostel Staff Table	11180
 HostelMate	7968
 Hostile Rhetoric Against	3245
-Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322
+Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649,99,717,396,259,20,237,150,9,2,215,329,159,40,31,322,480
 Hosting ACIX	6238
 Hosting African	3436
 Hosting CPL-26	7884
@@ -509,9 +523,10 @@ Hosting of Strategic Events The Research Council	1554
 Hosting the AFCFTA	14311
 Hosting the Harare	10073
 Hosting the SIIPS	3964
+Hosting. Climate Resilience	14674
 Hostmasters	12058
 Hostmeng Web Solution	10179
-Hosts	8285
+Hosts	8285,6389
 Hosts Africa Innovation and Technology Forum	5715
 Hosts and Network	9123
 Human Immunodeficiency Virus Hospital Management Information	4153
@@ -523,6 +538,7 @@ IDA19 Window for Host Communities and Refugees	13831
 IDA20 Window for Host Communities and Refugees	1778,1917
 Incident Response and Management for Systems Hosted	12967
 Information Hospitalier	3604
+Information Hospitalier SIMR	14442
 Information Hospitalier SIS Système	13306
 Integrated Population of Refugees and Host Communities	12297
 Internal Security MORHCSA Modernization of Refugee and Host	1867
@@ -637,6 +653,7 @@ Módulo de Gestão de Dados Hospitalares	12142
 NA NA Hosting	5533
 NC Francis Baard Northdale Hospital	11986
 NC Lenmed Kathu Private Hospital John	11986
+ND Centre Hospitalier Universitaire	14622
 NHIF National Hospital Insurance Fund NIA	2775
 NW Bojanala DM Tshilidzini Hospital	11986
 Nairobi Hospital	6274
@@ -735,6 +752,7 @@ Reliance for Refugees and Host Communities	12297
 Reparación Lavandería de Hospitales	4209
 Research Hospital	12972
 Research and Referral Hospital	3400
+Reserve Centre Hospitalier Universitaire Banque Africaine	14622
 Results-Based Hospital Information System	10865
 Returnees and Host Communities	12297
 Rhino Park Hospital	12947
@@ -767,7 +785,9 @@ Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Solicitor-General. The Zambia Refugee and Host Communities	1988
 Specialised Hospital	12976
 Specialized Hospital	1261
+Spinal Injury Hospital	14546
 St John of God Hospitaller	13040
+St. Joseph’s Nyabondo Mission Hospital	14546
 St. Paul’s and Ayder Hospitals	12379
 State Hospital	12367
 State Hospital KOES	13046
@@ -783,6 +803,7 @@ Thekwini MM King Edward Viii Hospital	11986
 Thekwini MM Mahatma Gandhi Hospital	11986
 Thekwini MM Prince Mshiyeni Hospital	11986
 Thekwini MM Rk Khan Hospital	11986
+Toliara. Centres Hospitaliers de Reference de District	14442
 Tonga Hospital	11986
 Tourism and Hospitality	353
 Tourism and Hospitality Act	13305
@@ -802,6 +823,7 @@ Unitas Hospital and Another	2307
 University Teaching Hospital	13040
 University Teaching Hospital Virology Laboratory	13454
 University Teaching Hospitals	13430
+University of Ilorin Teaching Hospital	14706
 Unravelling of Hostage State	5141
 Upgrading Hospitals	10829
 Urban and Regional Host Communities Project	1988

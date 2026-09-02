@@ -1,5 +1,6 @@
 ABRIDGED REPORT HOUSEHOLD SURVEY ON ICT	582
 ACH Automated Clearing Houses AfCFTA African	1264
+AFFORDABLE HOUSING FINANCE PROJECT	14546
 AGRICULTURAL HOUSEHOLDS	11192
 AIC BETHLEHEM HOUSE OF BREAD DISPENSARY-	7167
 AISCA Houses and Studios	2092
@@ -16,6 +17,8 @@ Advance Climate-Resilient Housing	11285
 Affordable Housing	11285
 Affordable Housing Board Data Controller INST-2364763E1C0	7167
 Affordable Housing Board Data Processor INST-2364763E1C0	7167
+Affordable Housing Finance Project	14546
+Affordable Housing Program. Review	14546
 Agency for Slum Upgrading and Social Housing	13897
 Airtel House	7023
 Alignment of Operating Hours	12389
@@ -90,7 +93,7 @@ Centre for Affordable Housing Finance	10759,78,1052,451
 Centre of Excellence for CRVS Systems. Housed	12138,189
 Changing House	11129
 Characteristics of Households and Respondents About	14142
-Chatham House	4259,3212,318
+Chatham House	4259,3212,318,6645
 Chatham House Rule	8074,2014,1050
 Chatham House Rule. Participants	11138
 Chatham House. Post-event	11138
@@ -263,6 +266,7 @@ HOUSEHOLDS OWNERSHIP AND USAGE OF ICT	582
 HOUSING	12403,28,1043
 HOUSING AND BASIC SERVICES	11192
 HOUSING AND POPULATION CENSUS ENUMERATION SUCCESSFULLY	12749
+HOUSING CENSUSES	14594
 HOUSING CHARACTERISTICS	13383
 HOUSING CHARACTERISTICS AND HOUSEHOLD POPULATION	13454
 HOUSING UNIT	12972
@@ -281,12 +285,14 @@ Honourable House	12588,10,4,4,1,5,344,15,151
 Honourable Members of Both Houses Of Parliament	12955
 Honourable Minister of Housing and Urban Development	13022
 Hotels and Guest Houses	11956
+Hotels and Tourism.5. Housing.6. Real	14410
 Hou Qiang	10490
 Houessou	3361
 Houet	983,9892
 Houet Gomboussougou	10875
 Houet Province Secretary General Sombéniwendé Nikiema	6939
 Houndé	10259,616
+Hounen	14507
 Houngbedji CA	10919
 Hounou-Adossi Ayitévi Elom Firmin	14163
 Hour Cyber Incident Reporting for Telecom Operators	5308
@@ -305,7 +311,7 @@ Hours Days	1938
 Hours M2a0r-2235	12256
 Hours R	11259
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414,14,55,31,9,6,16,26,13,662,148,90,68,66,84,18,28,43,21,67,155,3,10,174,34,26,2,40,31,67,1,7,257,49,90,12,53,357,188,298
 House Approves Close	1798
 House Breaking and Theft	12984
 House Business Committee	10313
@@ -325,7 +331,7 @@ House Maid	12977
 House Mother	12977
 House Mother for Mankayane Elderly and Disability Home	12977
 House No.436	3386
-House Number	3386,7743,1324
+House Number	3386,7743,1324,1954
 House Number C	3386
 House Number CG845 P. O. Box	3386
 House Number GL-127-4670 Not Operational	3386
@@ -380,6 +386,7 @@ House. Elaborating	5855
 House. Hon. Bernard Kitur	10313
 House. Hon. Government Members	13387
 House. Hon. John Namoit	10313
+House. Hon. Kiarie	14631
 House. Hon. Members	13387
 House. Hon. Speaker	10313
 House. Interruptions Ms Nyirenda	13387
@@ -474,8 +481,8 @@ Houses of Parliament	3714,7516,59,1184,414,69,20,350
 Houses of Parliament. B. National Drought Policy	12977
 Housing	1431,509,206,282,164,6,177,271,667,750,482,1726,877,828,603,435,1206,143,429,93,572,83,58,253,122,10,579,1,9,121,381,211
 Housing Allowance	13096
-Housing Assembly	6486,857,1572
-Housing Assembly and Foxglove	8915
+Housing Assembly	6486,857,1572,5758
+Housing Assembly and Foxglove	8915,5758
 Housing Assembly and UK-based	8273
 Housing Board	13123
 Housing Budget Shrinks	2428
@@ -507,7 +514,7 @@ Housing and Settlement	1131,1644
 Housing and Shelter Section of UN-Habitat	1391
 Housing and Territorial Planning	4945
 Housing and Urban Affairs Shri Hardeep S	2667
-Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16
+Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356,1668,1406,16,1143
 Housing and Urban Planning	10937
 Housing and Water Resources	1228,6467
 Housing. Criminal	10979
@@ -706,7 +713,9 @@ Organization Malawi Mercantile House Area	13166
 P HOUSE COMPANY Data Controller INST-794111D7814	7167
 PAGF-SI MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	3715
 PART TWO THE HOUSE	13948
+PART VI-- POPULATION AND HOUSING CENSUSES	14594
 PIU Households	10964
+POPULATION AND HOUSING CENSUS Power	14594
 PROCEDURES AND GUIDELINES ON HOUSE	11129
 PSP RIBAT RTGS Automated Clearing House	13468
 Packet Clearing House	10037
@@ -727,7 +736,7 @@ Plant Average Hourly Generation	12062
 Politics. Penguin Random House	12227
 Poor Households	11924
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69,71,49,55,307,1,70,14,312,646,405,184
 Population and Housing Census Affar	14005
 Population and Housing Census Country Level	14005
 Population and Housing Census Dire Dawa	14005
@@ -801,6 +810,7 @@ SIX HOURS	5611
 SNBS Integrated Household Budget Survey	11136
 SPATIAL INTEGRATION AND HOUSING REFORM Objective	11236
 SPATIAL INTEGRATION AND HOUSING REFORM PROGRESS	11236
+SUBMITTED JOINTLY BY HOUSING ASSEMBLY	14673
 SURVEY The Household Energy	11136
 Salaam Telephone House	2868
 Sale Commercial for Sale Houses	2888,32,354,504,1444,877,6,100,680,129,293,115
@@ -823,6 +833,7 @@ Small Business House	10841
 Social Cash Transfers and Household Welfare	13332
 Social Health Insurance Fund and Affordable Housing	5684
 Social Housing Regulatory Authority	11285
+Social Security House	14559
 Social Security and Housing Finance Corporation	3066
 Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
 Somali Integrated Household Budget Survey	3586,505
@@ -838,12 +849,14 @@ Stanley House EWZL Owned Guest N	4896
 State Council. The House of Peoples’ Representatives	13948
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716
+State Department for Housing and Urban Development	14546,85
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880,789,145,194,1059,168,45,35,716,199,70,54
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15,8099
 State House Entebbe. Talks	6198
 State House Investors Protection Unit	6576
+State House Nairobi	14535
 State House Press Office	13410
 State House Seychelles	3364,3442,841
 State House Uganda	6247
@@ -902,9 +915,10 @@ Vulnerable Households	9772
 Vulnerables25 Ministry of Programme National Housing	10985
 WORLD Honourable House Chairperson	11277
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
-Wh Kilowatt Hour LLM Large Language	10781,1646
+Wh Kilowatt Hour LLM Large Language	10781,1646,2055
 White House	4447,716,53,41,183,791,978,1301,517,1403,15,82,608,19,586,2643
 White House Office of Science	5216
+White House Office of Science and Technology	14601
 White House Office of Science and Technology Policy	10527
 White House S&T	5257
 White House-driven	4447

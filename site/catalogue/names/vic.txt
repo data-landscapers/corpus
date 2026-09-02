@@ -14,6 +14,8 @@ Adebayo Mourns Victims	10274
 Adeleke’s Osun Victory	9997
 Administrativo A3 Tercer Secretario A3 Vice	4209
 Africa Region Vice Presidency	11149
+Ag. Vice Chancellor and DVC-ARSA Prof	14555
+Ag. Vice Chancellor and DVC-Academic	14555
 Ag. Vice President for Regional Development	7452
 Air Vice Marshal Effiom Enebong Ewa	9669
 Albano Vicente Ferreira	11478
@@ -46,6 +48,7 @@ Chairperson and Vice Chairperson	13403
 Chairperson and Vice-Chairperson	3887,8758,255
 Chairperson and Vice-Chairperson of Board	13470
 Chairperson and Vice-chairperson	7845
+Chairperson the Vice-Chairperson	14422
 Charles Victor Blanco	10785,1082
 Chief Economist and Vice President	10718
 Child Protection Law. Vice-President Nguema Obiang	1646
@@ -66,11 +69,12 @@ Corporation Vice President for Government Affairs	8567
 Câmara Municipal de São Vicente	11108
 DIAMATONDO VICTÓRINA AFONSO LUKANO FILIPE	10751
 Data Management Roles. When Victoria Kankhokwe	13080
-Decade EGMRG Victoria Falls	13220,458
+Decade EGMRG Victoria Falls	13220,458,977
 Decade. EGMRG Victoria Falls	12761
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Deputy Vice Chancellor for Planning	14272
 Deputy Vice-Chancellor	9331,939
+Deuxième Vice Président	14537
 Development Economics Vice Presidency	11149
 Development Economics Vice-Presidency	5598
 Digital Vice Presidency	13084,675,258
@@ -90,7 +94,7 @@ Excellency Vice President Mohammed B.S	7694
 Executive Vice Chairman	3538,260,4053,405,32,375,310
 Executive Vice Chairman SKLD Integrated Services	7444
 Executive Vice Chairman and Chief Executive Officer	7562,555,300,292,408,2175
-Executive Vice President	6924,2170
+Executive Vice President	6924,2170,5437
 Executive Vice President Vestager	11154
 Executive Vice President and COO	9532
 Executive Vice President and COO Xie Junshi	9529
@@ -144,18 +148,23 @@ IEC Defends Integrity of Process IEC Vice	9315
 IFC Vice President Sergio Pimenta	579
 IFRC President and Vice President	12977
 ISACA Kampala Vice President and Conference Chairperson	10416
+Intérieur. Le Vice-président	14431
 Ivoire's Vice President	7344
 JKUAT Vice Chancellor Prof. Victoria Wambui	9336
 Janice James and Victor Nyamori	12227
 Jesus Melendez Vicente	769
 KNUST Vice-Chancellor	5227
+Kenya Institute of Supplies Management Lake Victoria	14546
 Kyambogo Vice Chancellor Warns UPDF Urges	6077
 LE DEUXIEME VICE-PRESIDENT	13303
 Lagos’s Victoria Island	6791
-Lake Victoria	3583,8572
+Lake Victoria	3583,8572,2254
+Lake Victoria Fisheries Organisation	14409
 Lake Victoria North	12151
+Lake Victoria North Water Service Board	14546
 Lake Victoria Serena Golf Resort	10563
 Lake Victoria South	12151
+Lake Victoria South Water Service Board	14546
 Lake Victoria and Lake Turkana. The Great	12151
 Land Victoria	4896
 Le Chef de Cabinet du Premier Vice- Président	13290
@@ -163,8 +172,9 @@ Le Premier Vice-Président	13290
 Le Représentant du Cabinet du Deuxième Vice- Président	13290
 Le Vice Président	13710
 Le Vice-Premier	3978,4209
-Le Vice-président	113
+Le Vice-président	113,14318,106
 Le Vice-président du Comité	8196
+Les Vice-présidents	14537
 Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Local Council III Vice Chairperson	8589
 Luanda Luanda VICTORIA ANTÔNIO ERNESTO MARTINS	10751
@@ -194,6 +204,7 @@ Mrs. Victoria Geresomo and Deputy Director	12978
 Ms Victoria Fagbani	9958
 Ms. Vicky Seymour	9358
 Ms. Victoria Munenge	12927
+NASENI Executive Vice Chairman and Chief Executive	14702
 NCC Executive Vice Chairman	3725,220
 NCC Executive Vice Chairman and CEO	10308
 NCC’s Executive Vice Chairman and Chief Executive	4937
@@ -222,8 +233,10 @@ Pleno Senador Ministro Delegado Diputado Vice-Ministro	4209
 Por Vicente Nkulu Nkulu Angue	8048,105,1
 Praia and Sao Vicente20	11863
 Premier Vice-président	7263,417,1207
+Première Vice Présidente	14537
+Première Vice Présidente LAOU-PO Wing Wilfrid	14537
 President and Vice President	12977
-President and Vice-President	11956,1545,158,289
+President and Vice-President	11956,1545,158,289,461
 President and Vice-Presidents	13501,158
 President's Special Advisor and Senior Vice President	13666
 Primeira Vice-Presidente da Assembleia Nacional	11365
@@ -238,10 +251,11 @@ Prosperity Vice Presidency	11149,1935,675
 Protection des Victimes	13330
 R.T. Masekes Vice ChairpPerrsoofn. I. D.T	1154
 Refugees and Disaster Victims	13938
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279,16,50,19,41,211,605,550,1,127,275,8,1,93,20,5,595
 Regional Vice President Iffath Anwar Sharif	11924
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
+Registrar Generals Victoria Falls	14655
 Rehabilitation for Victims of Violence and Torture	11079
 Reported Victims Surge	9815
 Representing NASENI’s Executive Vice Chairman	10098
@@ -343,7 +357,7 @@ Vice Ministro Servicio	4209
 Vice PM	4209
 Vice Presidency	13477,256
 Vice Presidency Complex for Private Sector	10718
-Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19
+Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323,66,6,552,131,3,35,23,10,17,284,50,15,50,62,345,3,27,31,77,13,20,20,28,14,19,717
 Vice President Ato Asfaw Abera	12195
 Vice President Ato Yilma Abebe	12195
 Vice President Benjamin Bol Mel	3583
@@ -404,6 +418,8 @@ Vice President of India	12979
 Vice President of Malawi	12979
 Vice President of Operations	10155
 Vice President of Public Affairs and Communications	12187
+Vice President of SLA Ahmed Saad	14685
+Vice President of SLA and CEO	14685
 Vice President of Sales and Business Development Africa	3281
 Vice President of South Sudan	3583,1
 Vice President of Starlink Operations	4442
@@ -415,8 +431,8 @@ Vice President. H. E. Pro John	11517
 Vice President. Held	14325
 Vice President. RESOLUTION NUMBER	12912
 Vice Presidente	4209
-Vice Presidents	3583,10063,679
-Vice Prime Minister	11863
+Vice Presidents	3583,10063,679,302
+Vice Prime Minister	11863,2585
 Vice Primeiro Ministro	12021
 Vice Primeiro-Ministro	11542
 Vice-	3887
@@ -431,9 +447,9 @@ Vice-Chairman	11975,669,244,17
 Vice-Chairman Aminu Maida	8552
 Vice-Chairman and Chief Executive Officer	8520
 Vice-Chairman and President of Microsoft	2526
-Vice-Chairperson	585,133,3169,216,425,3957,381,1447,2199,40,93,260,400,13,10,11,32,32,67
+Vice-Chairperson	585,133,3169,216,425,3957,381,1447,2199,40,93,260,400,13,10,11,32,32,67,952
 Vice-Chairperson. Quorum	3887
-Vice-Chancellor	520,10537,164,1811
+Vice-Chancellor	520,10537,164,1811,1671
 Vice-Chancellor and Principal	9959
 Vice-Chancellor of Bayero University	2933
 Vice-Chancellor of Lagos State University	11715
@@ -492,7 +508,7 @@ Vice-Primer Ministro Tercero	4209
 Vice-Primer Ministro Tercero Fiscal Corte Suprema	4209
 Vice-Primeros Ministros	4209
 Vice-Présidence	5842,7499
-Vice-Président	2808,369,8767,1346,2
+Vice-Président	2808,369,8767,1346,2,1133
 Vice-Président Huawei Afrique	3177
 Vice-Président du Conseil	13292
 Vice-Président du Gouvernement	8925
@@ -509,10 +525,14 @@ Vice-president Dr Mohamed Juldeh Jalloh	4619
 Vice-presidente	2816,8663,52
 Vice-primeiro-ministro	4081
 Vice-présidence	13341
-Vice-président	113,2187,1316,4054,3155,2667
+Vice-président	113,2187,1316,4054,3155,2667,920,125
+Vice-président du Comité	14462
 Vice-président du Conseil	13292
 Vice-président. Article	113
+Vice-président. Chaque	14537
 Vice-présidente	2366
+Vice-présidents	14537
+Vice-présidents. Il	14537
 ViceChairperson	2727
 ViceMinistro Servicio	4209
 VicePresident du Conseil	13292
@@ -605,7 +625,7 @@ Victoria Island	3414,166,843,178,611,662,1305,77,188,3685,852
 Victoria Island. Managing	3477
 Victoria Kwakwa	12968
 Victoria Kwakwa Country Director	1284
-Victoria Kwakwa Regional Director	1867,606,8295,1408
+Victoria Kwakwa Regional Director	1867,606,8295,1408,2280
 Victoria Kwakwa Zviripayi Idah Pswarayi Riddihough	1228
 Victoria Kwakwa. Regional Director	12388
 Victoria Monchuk	12541,122

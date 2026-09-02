@@ -10,6 +10,9 @@ Act. This Determination	12374
 Activity Details Direct Beneficiaries40 Strengthening	1867
 Age Determination Committee	12959
 Age Determination Committees	12959
+Amend PIN Details	14533
+Amend Profile Details	14533
+Analysis and Determination	14460
 Angola’s Nationally Determined Contribution	10768
 Anomaly Detection	10721,510
 Antenna Details Make Model Frequency Range	736
@@ -20,6 +23,8 @@ B. SHAREHOLDING DETAILS Certi	4896
 BEB Submission Method Details	13621
 BERCS Annual Financial Report Project Details	12977
 Banco Nacional de Angola. DETERMINO	11403
+Bank Account Details	14501
+Bank Details	14533
 Banking Details	12342,55,3
 Base I Repeater Station Details Type	736
 Bidders and Detailed Evaluation	13185
@@ -48,7 +53,9 @@ Capacidade Humana Determinará O Retorno	8827
 Cape Verde Nationally Determined Contribution	11863
 Capture New Partnership Details	11276
 Capture Partnership Details	11276
+Case Details	14675
 Certificate of Independent Tender Determination	1638
+Change Accounting Period and Update Contact Details	14533
 Changes VII. Detailed Change	13734
 Chronic Disease Determinants Programme	10188
 Citizenship Determination	13148
@@ -59,6 +66,7 @@ Collision Detection	3604
 Competitive Obj. Objective Details No	1818
 Complainant Details Grievance Ref	1778
 Computer-Aided Detection	12678
+Constitution. Detailed	14546
 Consultant Final Detailed Project Report	12962
 Contact Details Ministry of Youth and Gender Affairs	12642
 Contact Details of Organizers	13021
@@ -119,9 +127,10 @@ DETERMINATION ON THE OPERATIONAL AND CYBERSECURITY	13206
 DETERMINATION UNDER PAYMENT SYSTEM MANAGEMENT ACT	13206
 DETERMINATION UNDER THE BANKING INSTITUTIONS ACT	12967
 DETERMINATION UNDER THE PAYMENT SYSTEM MANAGEMENT	12365,9,73,638
-DETERMINED	3861
+DETERMINED	3861,10586
 DETERMINING THE FATE OF PAYMENTS SECTION	12484
 DETIC	13341
+DETTES ET ARRIERES ENvERs	14479
 DFIL. Details	10768
 DIGITAL HEALTH SOLUTION DETAILS	2709
 DPP Details	12058
@@ -140,7 +149,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43,293,40,9,19,2,16,15,11,13,32,55,44,30,457,154,146,14,2,45,3,84,459,7,511,109
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Changes	13459
@@ -164,7 +173,7 @@ Detailed Tasks Assigned	13037
 Detailed Urban Planning Plans	10930
 Detailed Workstream Reports	12935
 Detailing	10388,757,1255
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50,261,197,261,19,284,76,132,200,13,626,302,175,23
 Details Application	8726
 Details Baseline Target Due	1818
 Details Hydro Methane Thermal Solar Peat	12358
@@ -218,6 +227,7 @@ Deteiled	3972
 Detenham	11430,90
 Detention	4531,6646,527,1404
 Deter	11520
+Deter and Eliminate Illegal	14447
 Detergent-disinfectants	13385
 Detergentes	4209
 Deteriorated	5679
@@ -241,7 +251,7 @@ Determinants of Health Addressed	10776
 Determinants of Informality	13624
 Determinants of Property Tax Revenue	10997
 Determinar	1701,9076,653,88,1
-Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116
+Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717,379,9,73,76,52,392,86,32,100,21,116,1272
 Determination Agent	14135
 Determination Committee	11177
 Determination No	6946
@@ -252,7 +262,7 @@ Determinations	10157
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30,171,242,276,96,621,1132
 Determine Whether the Entity	11233
 Determine the MNE Group	573
 Determined	11169,49,1752,978
@@ -273,6 +283,7 @@ Deteção	11376
 Dette	4420,5005,1550,605,2192
 Dette Publique Ministère	10708
 Dette Publique Ministère des Finances Guinée Bissau	10708
+Dette du Secteur Public	14581
 Dette du Trésor	7655
 Dette225	1682
 Dettes	10975,2458
@@ -281,6 +292,7 @@ Detty Rave	9869
 Developing A Lesotho-Specific Disease Detection Model	12707
 Developing Telecoms Details Vaughan O'Grady Category	5908
 Digital Transformation Necessity DETERMINING	3861
+Disabling of Parent Details	14533
 Disease Detectives	9779
 Downloads Article Details References Addis Standard	8671
 Droughts Detecting Drought Events Reported	10763
@@ -302,6 +314,7 @@ Event Details	10707,3238
 Expertise Contact Details	6432
 Extended Deterrence Theory Approach	226
 FINANCING DETAILS International Development Association	12832
+FINANCING DETAILS World Bank Group Financing	14553
 FORM APPLICANT’S DETAILS	2709
 FRAMEWORK DETAILS	11857
 FURNISH THE DETAILS OF THE LEAD	11240
@@ -336,6 +349,7 @@ Health Emergencies Rapidly Detected And Responded	10776
 Higher Than Those Determined	11218
 Host Intrusion Detection Systems	1000
 IDA Financing Gap DETAILS	10963
+IDA Financing Gap DETAILS World Bank	14576
 IDA Financing Gap Total Amount DETAILS	10964
 III.2.4 Caisse Autonome de Gestion des Dettes	10876
 IIT Kharagpur's Real-Time Voice Deepfake Detection	9208
@@ -369,17 +383,20 @@ Internet Protocol Detail Record	4274,899
 Intruder Detection Systems	10956
 Intruder Detection Systems Continuous CCTV	9446
 Intrusion Detection	1000,11253
+Intrusion Detection System IPS	14442
 Intrusion Detection and Prevention Systems	11231
 Investigators and Detectives	12984
 Investment Details Low-Cost	12457
 Irungu E. Determinants	12231
 JUBILADO Y REG. CONT. RECLUTAMIENTO DETALL	4209
 Journalist Detained	10213
+Judge Details Judges	14675
 KENYAN RESIDENT FOREIGN NATIONAL ORGANIZATIONAL DETAILS	2709
 KYC Fraud Detection	4848
 Kenya RECIPIENT DETAILS	2709
 Kenya's Nationally Determined Contributions	7548
 LIRE AUSSI Dette	1996,2390
+Law Firm Details Plaintiff Attorney	14675
 Legal Basis Determination	3861
 Legal Entity Representative Details	11276
 Level of Detail Included	3502
@@ -387,6 +404,7 @@ Libyan Agricultural Officials Detained Over Banned	9213
 Liveness Detection	4292
 Luanda. Detalhou	6966
 Lyoubi Detained Ahead	5407,676
+MECANTSMES DE REGLEMENT DE LA DETTE	14479
 MPA FINANCING DETAILS	3604,7813
 MS DETELINA SUBEVA	1829
 Mahdi Lyoubi Detained Ahead	5407,676
@@ -397,6 +415,7 @@ Market Snapshot Detailing	12376
 Master Urban Planning Plans and Detailed	10930
 Master Urban Planning Plans and Detailed Urban	10930
 Member Detail CCN	13380
+Menu for Update of Contact Details	14533
 Meta’s Detectron2	5367
 Ministerial Determination	12399
 Ministry of Health and Childcare NDC Nationally Determined	970
@@ -428,6 +447,7 @@ Obj. Monitoring Details Baseline Target Due	1818
 Outlook Live Details	10235
 Overview of Refugee Status Determination	12227
 PAIEMENT DE LA DETTE FOURNISSEURS	2342
+PAIEMENT DEs DETTES PAR DEs BANQUES	14479
 PIM. Detailed	1867
 PROCUREMENT DETAILS Procurement Reference No	13037
 PROVIDE THEIR IDENTITY AND CONTACT DETAILS	2709
@@ -435,6 +455,7 @@ PUBLIC PUBLIC Obj. Monitoring Details Baseline	1818
 Parameter Design Detail Current Utilization	13185
 Partnership Registration Details	11276
 Partnerships Will Determine Success	8861
+Party Details Plaintiff	14675
 PayPal Details Vaughan O'Grady Category	6350
 Payment System Determination	12447,638
 Payments System Determination	13206
@@ -456,13 +477,16 @@ Project Details	12197
 Projection Details Reasons	2473,2180
 Property Card View Property Details About	12511
 Protection Customer Support Description Detailed	5676
+Provision of Basic Details	14524
 Public Online Availability of Detailed Criteria and Steps	12389
+Publication Details Pages	14634
 Publicity and Deterrence	3861
 Push Towards Determining Identity Amidst	13313
 Quick Contact Details	12342
 REGISTRARS AND AGE DETERMINATION COMMITTEE Clause	12959
 REQUEST DETAILS Date of Application Name of Originator	12364
 RESPONDENT’S DETAILS	2709
+RESTRUCTU RATION DE TA DETTE	14479
 RSD Refugee Status Determination	12227
 Radar Interference Detection	736
 Rapid Detection and Response	10776
@@ -471,6 +495,7 @@ Refer Document Purchaser's Detail Name	13548
 Refugee Status Determination	12658
 Refugee Status Determination Officer	11177,41,768
 Refugee Status Determination Officers	11177
+Register Property Details	14533
 Registo de Detalhe de IP	4274
 Registration and Refugee Status Determination	12227
 Registry Power Detaches	9914,1,77
@@ -552,6 +577,7 @@ Trends and Determinants of Birth Registration Completeness	12486
 Trust Event Details	10707
 Uganda Determination	5113
 Unfair Detention and Misuse of Power	13097
+Update Contact Details Menu	14533
 V. Dette	6896
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VII DETAILED CHANGE	1284

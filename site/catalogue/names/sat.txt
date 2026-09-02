@@ -5,7 +5,7 @@ Adja Satu Camará Pinto	11544
 Administrative Sata for Labor Migration Statistics	11283
 Affordable Satellite	10588
 Africa Customer Satisfaction Index	8677
-African Meteorological Satellite Application Facility	11283
+African Meteorological Satellite Application Facility	11283,3239
 Airtel Malawi Eyes Satellite Connectivity	6291
 Alaska Satellite Facility	10794
 Algeria's Telecom Minister Inspects SATICOM	3669
@@ -114,6 +114,7 @@ Geostationary Satellite Orbit	2913
 Geostationary Satellites	5245
 Ghana Satellite Internet Subscriptions	3641
 Global Navigation Satellite System	13135
+Google Satellite Embedding	14656
 H.-A. Satti	6947
 HAS Excellent B Satisfactory C Average	5679
 Harnessing Satellite and Non-Terrestrial Networks Satellite	5245
@@ -135,6 +136,8 @@ Infrastructure Satellite	11857
 Inquérito Nacional de Satisfação	6619,4803
 Integrated Customer Satisfaction Survey	11986
 Intel SATA Hybrid RAID	12681
+International Maritime Satellite Organisation	14409
+International Telecommunication Satellite Organisation	14409
 Interweb Satcom Ltd	3862
 Issue Licenses for More Satellite Operators	3773
 Jan-2016 Satisfactory Satisfactory	11924
@@ -177,12 +180,15 @@ MeteoSat Third Generation Satellite System	11966
 Michael Sata and Edgar Lungu. FETCH NOTE	7025
 Microsoft CEO Satya Nadella	9968
 Ministry of Mines and Geology MS Moderately Satisfactory	2889
+Mobile Network Operator MSS Mobile Satellite	14674
+Mobile Satellite	14674
+Mobile Satellite Service	14674
 Mobile Satellite Service Terminal	736
 Mobile Satellite Services	10407
 Mobile Satellite Station	736
 Mobile Satellite Station Details Type	736
 Moderate Satisfactory. Compensation	13054
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,194,463,177,100,605,1059,6126,107,78,431,529,41,6,17,207,365,494,338,441,87,90,446
 Moderately Satisfactory Component	13054
 Moderately Satisfactory Jun	6928
 Moderately Satisfactory MU	14010
@@ -251,6 +257,7 @@ RSF Bans Satellite Internet Use	4245
 Rating Highly Satisfactory Page	10779
 Rating Moderately Satisfactory OBJECTIVE	10779
 Rating Satisfactory	10779
+Regional African Satellite Communication	14409
 Removal Process Responsibility The Satellite PMU	1988
 Resiliency IN- National Satellite Broadband	11857
 Rethink Proposed Satellite Spectrum Fees	10589
@@ -289,6 +296,7 @@ SERVIÇOS SATISFAÇÃO PELA PRESTAÇÃO SERVIÇOS	10751
 SMART SATA II HDD Serial	34
 SMEs Small and Medium Enterprises SPMU Satellite	1867
 Saharan Africa. SAT-3	2677
+Sanjay Sathe	14441
 Sarthak Satapathy	6668
 Sarthak Satapathy Jonathan Dolan	6668
 Sat and Vanu	6834
@@ -298,7 +306,8 @@ Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
 Satellitaire Figure	13375
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538,113,28,18,212,335,274,311,15,286,153,429,137
+Satellite Analysis Reveals	14569
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
 Satellite Backhaul Services	10407
@@ -435,7 +444,8 @@ Satisf	13390
 Satisfa	13390
 Satisfacción	1701
 Satisfacer	1701
-Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248,187,1011
+Satisfacti	14425
+Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248,187,1011,1147
 Satisfaction Connecting Availability	6051
 Satisfaction Trend Glo T2	6051
 Satisfactory	1228,62,959,4,636,4988,2902,40,51,16,509,22,488,19,41,6,1009,47,27,405,367,7,177
@@ -447,11 +457,12 @@ Satisfactory Overall Implementation Progress	4688,3189,2993,2184,4
 Satisfactory Overall Risk Rating	4688,3189,2993,2188
 Satisfactory Project Management	13054
 Satisfactory Satisfactory Overall Risk Rating Substantial	13027
+Satisfactory. Financial Management	14456
 Satisfactory. Proper	11855
 Satisfactory. Staffing	11525
 Satisfai	13390
 Satisfaire	13781
-Satisfaisant	13737
+Satisfaisant	13737,802,1
 Satisfait	13390
 Satisfait Assez	13390
 Satisfait NSP	13390
@@ -465,6 +476,7 @@ Satisfied Thank	5679
 Satisfies	5070,958,1176
 Satish Krishnan	11006
 Satoshi Nakamoto	10702
+Satroka	14488,1,1
 Satta T. Massaley Sow	9861
 Sattari M. Health	12255
 Satti	6947
@@ -475,7 +487,7 @@ Satu Kristiina Jyrintytar Kahkonen. Practice Manager	12388
 Satu Kristiina Kahkonen	6832,6136
 Satu Lassila	10440
 Saturate	5349
-Saturation	6704,574
+Saturation	6704,574,7388
 Saturdays	8999
 Satya Nadella	6498,2182
 Satya Nadella and Rishi Sunak	6808
@@ -495,6 +507,7 @@ Stakeholder Satisfaction Regional Institutions Our Key	12515
 Starlink Satellite	7509
 Starlink Satellite Broadband	1692
 Strategic Challenge of Satellite Internet for African	6467
+Strengthening Polar Orbiting Satellite Data Flow	14522
 Strengthening the Rural Health Workforce Satellite	5378
 Student Satisfaction	2518
 Subscription Management Service For A Satellite	2776

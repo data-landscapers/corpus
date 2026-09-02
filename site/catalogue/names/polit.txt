@@ -18,6 +18,7 @@ Archaeology and Political Studies	6946
 Assembly Political Pluralism Civil Society Space	10759,78,1315,188
 Authority RPPF Represented Political Parties’ Fund	5533
 Bachelor of Political Science	6946
+Bilateral Political Consultations	14668
 Body India-Zimbabwe Relations Political Relations India	13562
 British Journal of Political Science	7886
 Building Political Will	13608
@@ -27,6 +28,7 @@ Burkina Point de Vue Politique Quantum Robotics	9993
 Burundi Yes Politique	11529
 Business and Politics	11050
 CALLS CASE A POLITICAL WITCH-HUNT	10581
+CO-OPERATION IN POLITICAL MATTERS	14409
 CONFERENCE OF THE AFRICAN POLITICAL ALLIANCE	4114
 CONTROL OF POLITICAL DONATIONS AND EXPENDITURE	3714
 Cadre Politique Africain	11818
@@ -39,7 +41,7 @@ Centre for Alternative Political and Economic Thought	12069
 Centro Profesional Politécnico Modesto Bata Añisok	4209
 Chin J Int Polit	5242
 Civic Politics	6947
-Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533
+Civil and Political Rights	1630,1328,625,278,892,2198,507,1624,317,261,553,552,10,66,745,21,97,61,191,245,758,81,108,533,753
 Civil and Political Rights ICERD International Convention	12201
 Civil and Political Rights and International Covenant	13040
 Civil and Political Rights. Article	10453
@@ -140,7 +142,7 @@ Journal of Law and Political Economy	2096
 Journal of Political Economy	9759
 K. Political	7886
 Knowledge Politics and Imagining the Future of AI	4253
-La Politique	1679,11662,101
+La Politique	1679,11662,101,1046,1,1
 La Politique Nationale Qualité	13329
 La Politique Nationale de Développement des TIC	13290,16
 La Politique Nationale de Développement des Technologies	13442
@@ -152,10 +154,11 @@ Law of Political Campaign	12201
 Le Document de Politique Budgétaire	3396
 Lectures22 Commentaires PolitiquePastef Tivaouane	4960,62
 Les Politiques des TIC	13290
+Les Trois Grandes Orientations Politiques	14529
 Lettre de Politique de Développement	11897
 Liberia. The Senior Political Advisor	7721
 Limited Political Prioritization and Coordination	12384
-London School of Economics and Political Science	5257,5892
+London School of Economics and Political Science	5257,5892,3557
 Malawi Politics Analysis	4790
 Management and Political Sciences	8130
 Mapping the Ideologies Shaping Somalia’s Political Future	5172
@@ -172,6 +175,7 @@ NMD Nouveau Modèle de Développement PE Politique	7655
 National and Inclusive Political Dialogue. Chemane	10139
 Nicaragua No Niger Yes Politique Sectorielle	11529
 Nigerian News POLITICS Osun Governorship	9876
+Nouvelle Lettre de Politique Foncière	14598
 ODM Inside Politics Justin Muturi	9940
 Opportunities Threats Political Favourable	13005
 PART APPLIES Political	3714
@@ -182,6 +186,7 @@ POLITICAL CONTEXT Traditional	12201
 POLITICAL ECONOMY The DRC	11960
 POLITICAL ENVIRONMENT	9399
 POLITICAL HEADWINDS AFFECTING THE NGFS	13532
+POLITICAL MATTERS ARTICLE	14409
 POLITICAL PARTIES REGISTRATION	13973
 POLITICAL WEEK AHEAD	5025
 POLITICO	7209
@@ -205,7 +210,8 @@ Politica Nacional De Proteção Social	11547
 Politica de Seguranca Cibernetica	795
 Political	571,369,30,191,100,3,510,40,63,219,1461,157,413,131,172,133,262,36,364,308,470,805,130,513,197,185,53,60,20,414,192,78,293,180,192,154,66,17,41,23,26,317,103,26,58,192,387,40,3,7,4,50,12,20,115,157,3,19,1,29,8,44,73,107,108,20,311,18,7,1,23,4,7,70,199,16,5,4,4,13,106,13,30,2,79,44,258,59,73,26,88,262,81,33,37,114,78,51,616
 Political Advisor	10509
-Political Affairs	7182,270
+Political Affairs	7182,270,6957,102
+Political Affairs ARTICLE	14409
 Political Alignment	7869
 Political Bureau	362
 Political Champion	11266
@@ -213,6 +219,7 @@ Political Context and Outlook	13885
 Political Crime	12346
 Political Decentralization	13418
 Political Decentralization Political	13418
+Political Dialogue	14658
 Political Economy	11960
 Political Economy Analysis	1261
 Political Economy of Digital Governance	6562
@@ -223,7 +230,7 @@ Political Environment Global Context	12210
 Political Equality	1981
 Political Exit	5141
 Political Fantasies	11028
-Political Federation	12326
+Political Federation	12326,2083
 Political Guidelines	789
 Political Headwinds Affecting the NGFS	13532
 Political Instability	6938
@@ -313,12 +320,15 @@ PoliticsDigest.ng	4738
 Politicsweb	10058
 Politik-	615
 Politiqu	13325
-Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302
+Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40,53,2315,74,69,9,198,302,547,1,47,146
 Politique Economique	6163,1492
 Politique Européenne	11050
 Politique Fiscale DGEFRI Direction Générale des Etudes	11944
+Politique Foncière	14598
+Politique Foncière Responsable	14624
+Politique Générale	14450,2,25,52,5,14,71,3,11
 Politique National de Développement des Technologies	13442
-Politique Nationale	9567,1346,52,959,1366,152
+Politique Nationale	9567,1346,52,959,1366,152,1128
 Politique Nationale Genre	13442
 Politique Nationale Genre du Burundi	13331
 Politique Nationale Qualité	13329
@@ -328,7 +338,9 @@ Politique Nationale de Développement des Technologies	13312,1,1,17
 Politique Nationale de Développement du Numérique	3305,2069
 Politique Nationale de Genre PNUD	10874
 Politique Nationale de Nutrition	643
+Politique Nationale de Population	14418
 Politique Nationale de Protection Sociale	10963,1,2478
+Politique Nationale de Santé	14622
 Politique Nationale des Personnes Handicapées	13442
 Politique Nationale des TIC	13290
 Politique Oui Ruvubu	13433
@@ -345,8 +357,9 @@ Politique de Sécurité des Systèmes	10874,265
 Politique des Technologies	13290
 Politique-monetaire	8891
 Politiquement	12068
-Politiques	6500,4326,2464,40,60
+Politiques	6500,4326,2464,40,60,1034,1
 Politiques Deuxième	13442
+Politiques Internes de Lutte	14450
 Politiques Pacte International	13442
 Politiques Protocole	13442
 Politiques Publiques	5745,4967
@@ -375,10 +388,11 @@ Public Perception of Political Participation Access	11886
 Public Perception of Political Participation FOUNDATIONS	12163,178
 Public Perception of Political Participation Rights	10759,1395
 Public Services Political Power	11870
+RECAPITULATIF DE LA PGE-R La Politique	14529
 REPUBLIQUE DU BURUNDI POLITIQUE NATIONALE	13290
 Radical Democratic Politics. Verso. Google Scholar	11028
 Rating Political and Governance	1284
-Registrar of Political Parties	1630,11357
+Registrar of Political Parties	1630,11357,1559
 Registrar of Political Parties. D. Right	1630
 Represented Political Parties Fund	11218
 Represented Political Parties' Fund	11285,701
@@ -394,11 +408,14 @@ SUIVI DE LA POLITIQUE D’ENDETTEMENT DES	2342
 Sanctions and Politically Exposed Person	5369
 Science Politique	10826
 Score Rank Political Pluralism	11870
+Second Bilateral Political Consultations	14668
 Sector Politico	11576
 Senior Political Advisor	7721
 Sep Political and Governance	12228
 Service Benefits and Conditions of Employment for Political	13096
+Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Social PNSAN Politique Nationale de Nutrition PPBA	643
+Social Politique Nationale	14423
 Social and Political Context	12968
 Social and Political Sectors	9707
 Social and Political Theory. Routledge	11028
@@ -418,6 +435,7 @@ Tourisme La Politique Nationale Qualité	13329
 UDA Inside Politics Homa Bay	9940
 UN Commission Warns of New Burundi Political	13313
 UNDP Youth Civic and Political Participation Curriculum	8860,352
+UVRE DE LA POLITIQUE GENERALE	14529
 Une Politique	748
 Unequal Political Voice	2096
 Unité de Politique Fiscale	10712

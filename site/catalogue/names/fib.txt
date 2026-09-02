@@ -49,6 +49,7 @@ Digital Foundations and National Fibre Backbone Projects	12917
 Directeur Général de Bridge Fiber Solutions	10259
 E.g. Stakeholders Fibre and Base	11857
 EAST AND CENTRAL AFRICA OPTICAL FIBER	255
+ESCOM Optical Fiber Communication	14674
 Economic Impact of Full Fibre Infrastructure	12006
 Enabling Investment Environment for Fibre Optics Deployment	12125
 Energy Intensity of Fiber Optic Cables	3604
@@ -61,7 +62,8 @@ FIBANE	10965
 FIBANE RNSM CREMF	10965
 FIBRE DE CIMENT	13300
 FO Fibre Optique FOSA Formation Sanitaire	13306
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432
+FiBure	14479
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080,134,617,251,906,164,1432,117
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
 Fiber Breakdowns	12945
@@ -72,6 +74,7 @@ Fiber Infracos	12427
 Fiber Infracos The Data Center Specialists	4525
 Fiber Infrastructure	10861
 Fiber Market Economy	3185
+Fiber Market Electricity Market Personal	14482
 Fiber Markets	12427
 Fiber Markets Investment Incentives	10781
 Fiber Mlangoni Kwako	11612
@@ -110,7 +113,7 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265,368,6,202,212,123,79,987,302
 Fibre Broadband	5112
 Fibre Builds	11857
 Fibre Channel	11209,1976
@@ -155,6 +158,8 @@ FibreCo and AI-enabled	10243
 FibreCom	12453,892
 FibreOne	11506
 FibreOne Broadband Ltd	3862
+FibreX	14692
+FibreX. FlyX	14692
 Fibreboard	11269
 Fibrecom	5247
 Fibrehub Internetworking Ltd	3862
@@ -202,6 +207,7 @@ Luli Fibra Cables Solution Ltd	3862
 MTN FiberX	11506
 MTN FibreX	5874,1236
 MTN Supersonic Home Fibre	11259
+MTN's FibreX	14692
 Malaba Fiber and Tower Network	1171
 Malawi National Fibre Backbone Project	127
 Map of Fibre Optic	8679
@@ -227,10 +233,11 @@ National Backbone Fiber Network Project	5293
 National Backbone Fiber Optic Cable Network	35,9531
 National Fiber Backbone	12917
 National Fiber Backbone Expansion Feasibility Study	1569
+National Fiber Backbone Project	14674
 National Fiber Op Crosswalk	257
 National Fiber Optic Network	9083
 National Fibre Backbone	6000
-National Fibre Backbone Project	127,213,143
+National Fibre Backbone Project	127,213,143,14191
 National Fibre Backbone Project. The GCL	483
 National Fibre Backbone and Metro	11857
 National Fibre Consortium	11857

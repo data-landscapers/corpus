@@ -11,6 +11,9 @@ AU CHAPITRE DES MESURES INDIVIDUELLES	7843,394
 AU CHAPITRE DES MESURES LEGISLATIVES ET	7843,394,1050,55
 AU TITRE DES MESURES INDIVIDUELLES	8269
 AUTRES MESURES DE SOUTIEN	4567
+Accident Mesures	14490
+Accident PGES DATA PRINCIPAL Mesures	14489
+Accident PGES DATA SECONDAIRE Mesures	14488
 Addis MESOB	7887,1644
 Addis Mesob Digital One-Stop Government Service	7463
 Alert Messages	7988
@@ -29,6 +32,7 @@ Bulk SMS for Broadcasting Messages	12241,839,15
 Business Messaging	7427
 CADRE MÉTHODOLOGIQUE DE MESURE DES DIMENSIONS	5928
 CALLS MESSAGING ENTERTAINMENT NEWS FOR ONLINE	11004
+CARTES Mesures	14490
 CONOMIQUES MESURABLES	8637
 CREATIVE MESH INTERNATIONAL LTD Data Processor	7167
 CRVS Key Message	12064
@@ -63,7 +67,8 @@ Design Clear and Engaging Messages	12675
 Direct Message	5224
 Director General’s Message	6946
 Dissertação de Mestrado	10775
-Domain-based Message Authentication	13037
+Domain-based Message Authentication	13037,1404
+EXPOSE DES MOTIFS Mesdames	14619
 EXPOSITION AUX MESSAGES SUR LA PLANIFICATION	13300
 Email Address Subject Message Submit Harare	12511
 Eng. Sham Mesfin	10001
@@ -93,6 +98,7 @@ III. Mesures	13442
 III.2.9 MESSAGERIE PROFESSIONNELLE ET AGENDA	13306
 III.2.9 Messagerie	13306
 ISO20022 Global Messaging Standard	11994
+Innovation du MESUPRES	14617
 Intermédiation Financière Indirectement Mesuré	9276
 International A2P Messaging and Firewall Solution	7315
 J. Messe	10775
@@ -154,6 +160,8 @@ MEST Africa. Cette	10353
 MEST CSIR-	4126
 MESTI	12090
 MEST’s Strategic Technology	4126
+MESUPRES	14576,41
+MESUPRES. Le PLFI	14530
 MESURE DE LA VIOLENCE	13300
 MESURE DU POIDS	13300
 MESURE INDIVIDUELLE Au	2808
@@ -179,7 +187,7 @@ Mesa Secretario de Mesa	4209
 Mesa-Redonda	8052
 Mesas	4209
 Mesas da Atualização	11561
-Mesdames	2695,6942,1,1285,2632
+Mesdames	2695,6942,1,1285,2632,943,39
 Meserole	2117,401,2724
 Meses Perpetrada	10777
 Mesfin Nigatu AI	12379
@@ -240,11 +248,11 @@ Messaging and Routing Transactions	12359
 Messamena	8737
 Messamendongo	10975
 Messe	13405
-Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822,140,299,531,279
+Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822,140,299,531,279,1288
 Messenger Services	10819
 Messer	8460
 Messier M	10775
-Messieurs	2695,6942,1,1285,228,2404
+Messieurs	2695,6942,1,1285,228,2404,943,39,82
 Messieurs Brahim Bouabid	547,3,18,20
 Messieurs Driss Belmahi	547,3,18,20
 Messieurs Samba DIOUF	11151
@@ -264,15 +272,15 @@ Mestre Nilza Collinson. Na	2816
 Mestre Valinho António	2816
 Mestres Angolanos	11387
 Mesud G. Reta	8351
-Mesupres	8914
+Mesupres	8914,5724
 Mesurables	10858
 Mesurage	13375
 Mesurage Dessiner	13375
 Mesure	643,105,3672,5969,1215,340,1356,25,502,1,1,3,11,3,6,25,46,14,3
 Mesure Individuelle	2808
 Mesure Valeur	748
-Mesurer	13390
-Mesures	643,604,456,1693,731,2832,3877,6,32,265,428,1733,25,108
+Mesurer	13390,1184
+Mesures	643,604,456,1693,731,2832,3877,6,32,265,428,1733,25,108,979,17,15,44,1,1,47,37
 Mesures Générales	2808,237
 Mesures Individuelles	3045
 Mesuré	13300
@@ -291,6 +299,7 @@ Mn. Messaging	3898
 Mohamed Seddik Aït Messaoudene	4128
 Mr. Tesfalem Mesfun	13978
 Mrs. Meseret	7054
+Multimédia Message Service	14411
 Mustapha Ben Messaoud	3000
 N. Mesrobian	11140
 NATURE DE L’EFFET TYPOLOGIE DE MESURES	1005
@@ -305,6 +314,15 @@ Number of Short Messages Services	2776
 Number of Short Messages Services SMS	2776
 OSGF’s Email Address Can’t Receive Messages	10034,231
 Oromia MESOB	7887
+P A Mesdames	14537
+PGES DATA CENTER PRINCIPAL Mesures	14489
+PGES DATA CENTER PRINCIPAL Phase Mesures	14489
+PGES DATA CENTER PRINCIPAL V. MESURES	14489
+PGES DATA CENTER SECONDAIRE Phase Mesures	14488
+PGES DATA CENTER SECONDAIRE VII. MESURES	14488
+PGES DATA PRINCIPAL Mesures	14489
+PGES DATA SECONDAIRE Mesures	14488
+PGES Mesures du PGES Budget	14488,1,1
 PR CAMPAIGN SMS Messaging On-going On-going	8999
 PREPAID AND POST-PAID VOICE AND MESSAGING	11211
 Payment Message	12364
@@ -312,8 +330,14 @@ Payment Message Format	12364
 Payment Message Priorities	12364
 Payment Message Priorities The Participants	12364
 Payment Message Processing	12364
+Phase Mesures	14488,1,1
+Phase PGES DATA CENTER PRINCIPAL Mesures	14489
+Phase PGES DATA CENTER SECONDAIRE Mesures	14488
 Platform's Instant Messaging	14327
+Professionnel MESUPRES	14472
 Project Coordinator Ato Mesfin Dabi	12195
+Projet Mesures	14488,1,1
+RE DEs MEsuREs D'AccEt-ERATtoN	14479
 RECOMMANDATIONS LIEES AU MESR	2966
 REPUBLICA DE GUINEA ECUATORIAL MES	163
 RMU Mesh	9123
@@ -339,7 +363,7 @@ Send Message Contact Information Our Office	12211
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Seynabou Messou	11653
-Short Message Service	34,10050,728,1583,221
+Short Message Service	34,10050,728,1583,221,1795
 Short Message Service SME Small and Medium	12923
 Short Message Service VoIP	6000
 Short Message Services	2776
@@ -362,8 +386,10 @@ Topology P-MP P-P Mesh AP-MP Parameter	736
 Unified MESOB Application	14133
 Unified MESOB Platform	6756
 Unsolicited Messages	11956
+V. MESURES D’ATTÉNUATION ET DE COMPENSATION	14489
 V. Mesures	1247
 V. Mesures du STARTUP ACT MAURITANIE Structuré	1247
+VII. MESURES D’ATTÉNUATION ET DE COMPENSATION	14488,2
 VOCALES DE MESA	4209
 Vocal de Mesa	4209
 Vocal de Mesa Magistrado Corte Suprema Justicia	4209

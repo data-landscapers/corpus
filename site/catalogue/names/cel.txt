@@ -35,7 +35,7 @@ CELANI PHYSIOTHERAPY AND SPORTS INJURIES CLINIC	7167
 CELCOM AFRICA LIMITED Data Processor INST-57229878129	7167
 CELESTIAL DENTAL CENTRE LIMITED Data Controller	7167
 CELESTINA SORAIA TUNGUNO CACULO CASSANGE	10751
-CELEX	6476,1,1208,848,2242,44,335,1
+CELEX	6476,1,1208,848,2242,44,335,1,3279
 CELIK HEALTH LIMITED Data Controller INST-1045219F640	7167
 CELITE LIMITED Data Processor INST-363608A2D51 NAIROBI	7167
 CELLCOM	7032
@@ -155,11 +155,12 @@ Cell-level	12328
 Cellcard	11310
 Celle	2342,2437,427,306,723,654,1012,540,2386,20,791,2765
 Celle de Bobo-Dioulasso	10875
-Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22
+Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61,101,118,23,637,290,1250,48,49,86,181,62,62,22,620
 Celle-là	8219
 Celles	12,725,1253,6901,2032
-Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481
+Celles-ci	5891,33,317,1955,488,207,650,1434,2400,199,308,481,186
 Celles-là	9280
+Cellesci	14425
 Cellou Baldé	7978
 Cellpath Wellnes Center Limited Data Processor	7167
 Cellphone	11257,3011
@@ -185,7 +186,7 @@ Cellular Phone	13096
 Cellular Quality of Service	718
 Cellular Telecommunications	736
 Cellular and Landline Phone	11211,51
-Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439
+Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18,89,10,176,765,28,14,1764,439,263,1
 Cellule CCDA Amélioration	10975
 Cellule Group Expert En Gouvernance	11034
 Cellule Informatique	10975
@@ -212,12 +213,12 @@ Cellule du Courrier	10975
 Cellule du Développement Numérique	10975
 Cellule du Développement Numérique Axes	10975
 Cellule la SNFI	10965
-Cellules	10876,2566,226
+Cellules	10876,2566,226,820,1,1
 Cellules Mi- BA	10876
 Cellules Septembre	10876
 Cellules du PPMP	10876
 Celo Core	9285
-Celsius	2775,9075,45,195,70,93,102,132,395,450
+Celsius	2775,9075,45,195,70,93,102,132,395,450,1110
 Celso Soares	6837
 Celta Vigo Xinhua	2743
 Celtel	4150,2684,403
@@ -225,14 +226,14 @@ Celtel Niger	998
 Celtel Niger S.A	998
 Celtel Niger SA	998
 Celtel. GRAPHIQUE N	998
-Celtiis	2694,406,7756,3423
+Celtiis	2694,406,7756,3423,393
 Celtiis Cash	6234
 Celtiis Cash. Malgré	2261
 Celtis	3150
 CeltixConnect-2	1766
 Celui	436,4309,34,292,435,245,2468,109,1507,1130,2328
 Celui du Commerce	9819
-Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201
+Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51,974,241,1199,3,48,368,72,382,201,48
 Celulares Proporção	11418
 Celyntis	9968
 Cesta De Baixo Uso Móvel Celular	11418
@@ -244,6 +245,7 @@ Communautés des Etats Indépendants CELAB	13377
 Congolais. CELCOM	12009
 Culture Celebration and Community Service Mark Zambia	13477
 DE SERVICES CELTEL NIGER SA Mobile	998
+DEEE. Celles	14423
 DK Telecom and Y Cell	4228
 DLP. Celebrating DLP Achievements Based	899
 Day Celebration	13080,15
@@ -363,6 +365,7 @@ Oio Quinara Tombali Example Sra. Celina	11515
 Only Cellular Phone	11262
 Orange Liberia and Lonestar Cell MTN	8955
 PME. Celles-ci	8891
+PNUD. Celle-ci	14617
 PNUD. Cellule Presse MediaCongo	7812
 POURQUOI CELA COMPTE	8637
 PREPAID AND POST-PAID MOBILE CELLULAR PHONE	11211
@@ -396,6 +399,7 @@ Star Cell	7410
 Starlink and Amazon Leo Cell C	10797
 Stratégie. La Cellule	10965
 TIC. Cela	13290
+TNM Celebrates	14674
 TPME. Cela	8891
 Teixeira-McKinon. Cellphone	9675
 Telefonia Móvel Celular Taxa	11418

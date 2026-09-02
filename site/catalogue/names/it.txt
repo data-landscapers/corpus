@@ -16,7 +16,8 @@ AfDB and ITU	10819
 Africa. ITU	2677
 African ITU GCI	11917
 African Union and ITU	6936
-Agenda Items	5680
+Agenda Item	14674
+Agenda Items	5680,8994
 Agile and Iterative Development Approaches Software	5665
 Agência Italiana de Cooperação	9434
 Al Itissal Al Jadeed	3127,1
@@ -25,6 +26,7 @@ Al Itsal Aljadid	7333
 Algeria and Italy	3353
 Algérie Télécom and Italian	3342
 Analysing the Italian	5700
+Antanjona Itaosy	14488,1,1
 Application of Items	3714
 Application of Part B Items	3714
 Appraisals and Negotiations Regulation M-A Item	7198
@@ -211,13 +213,13 @@ IT-equipment	8985
 IT-governance	4297
 IT-led	9237
 IT-network	5046
-IT-related	5533,5601,852,931
+IT-related	5533,5601,852,931,1524
 IT-security	1904
 IT-specific	1942,1595
 IT.38 BERNET	13314
 IT.CEL.SETS	4127
 IT.NET.USER.P2	13930
-IT.NET.USER.ZS	1248,8368
+IT.NET.USER.ZS	1248,8368,5036
 IT2000 Master Plan	13290
 ITA II	11550,2435
 ITA and ITA	1638
@@ -262,6 +264,7 @@ ITEMS CRITERION SCORE COMMENTS	12693
 ITEMS REQUIRED TO BE INCLUDED	3714
 ITERATIVE HNSF DEVELOPMENT AND IMPLEMENTATION CYCLES	1009
 ITEdgeNews	2339
+ITEs EN HFO REFORME DE I.A	14479
 ITF263	12509
 ITGOV	7371
 ITGOV Nigeria	7371
@@ -361,16 +364,19 @@ ITU GCI Expert Group	10764
 ITU GCI Tier	1438
 ITU Giga Phase	502
 ITU Global Cibersecurity Index	11569
+ITU Global Cyber	14674
 ITU Global Cyber Security Agenda	962
+ITU Global Cyber Security Index	14674
 ITU Global Cybersecurity Index	1374,615,241,179,1397,326,72,9,817,750,1510,3495,1447,346
 ITU Global Cybersecurity Index. Internet	5119
 ITU Global Directory	10764
+ITU Global ICT Development Index	14674
 ITU Globally	10844
 ITU Green ICT	3604
 ITU Handbook	12344
-ITU ICT	173,11390
+ITU ICT	173,11390,3111
 ITU ICT Development Fund. USD	691
-ITU ICT Development Index	3410,340,7014
+ITU ICT Development Index	3410,340,7014,3910
 ITU ICT Indicators	13312,2
 ITU ICT-DF CHF	689
 ITU ICTPriceBaskets 2008-2024.xlsx	11563
@@ -387,6 +393,7 @@ ITU International Telecommunication Union LTE Long	236
 ITU International Telecommunication Union RCO United	13544
 ITU International Telecommunications Union	12911
 ITU International Telecommunications Union Figure	582
+ITU International Telecommunications Union KSH Kenya	14674
 ITU Kanda	6019
 ITU L.1021	3604
 ITU L.1036	3604
@@ -398,6 +405,7 @@ ITU Member States	6168,4596,498
 ITU Methodology for Data Collection Data	3604
 ITU Names	11917
 ITU National E-Health Strategy Toolkit	21
+ITU National Emergency Telecommunication Plans Best	14674
 ITU Organizational	10764
 ITU P2C	2137
 ITU PP-26	6488,1753
@@ -412,7 +420,7 @@ ITU Price Baskets ICT Price Basket	12395
 ITU Progress	11563
 ITU Publications. Mensah	6936
 ITU RDF Africa	690,1
-ITU Radio Regulations	2913,2448,2489,239,2318
+ITU Radio Regulations	2913,2448,2489,239,2318,4267
 ITU Radio Regulations. Gateway Earth Station	2913
 ITU Radio Regulations. Licence	736
 ITU Radiocommunication Assembly	7980,109
@@ -449,6 +457,7 @@ ITU WTI	14098
 ITU Workshop	6331
 ITU World Bank	961
 ITU World Radiocommunication Conference	7850,1442
+ITU World Radiocommunications Conference	14674
 ITU World Telecommunication	6946
 ITU and GSMA	11857,802
 ITU and ICPC	5950
@@ -461,6 +470,7 @@ ITU and UNESCO Broadband Commission	6467
 ITU and UNESCO State of Broadband	6467
 ITU and UNICEF	3900
 ITU and Vodacom	7431
+ITU and World Bank Digital Regulation Platform	14674
 ITU for Africa	12385
 ITU score	10940
 ITU's	1915,4552
@@ -478,9 +488,9 @@ ITU- T	3604
 ITU-ALERT International Cyber Drill for Africa Region	318
 ITU-Applied	318
 ITU-Cisco DTC Initiative	689
-ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11
+ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316,335,488,655,594,11,472
 ITU-EC Project	26,1,1
-ITU-EC-ACP	26,1,1,257,9114
+ITU-EC-ACP	26,1,1,257,9114,5035
 ITU-EC-ACP Project Assistant	26,1,1
 ITU-EC-ACP Project Manager	26,1,1
 ITU-EU Delegation	9434
@@ -531,13 +541,14 @@ ITU’s World Telecommunication Development Conference	11424
 ITW Africa	11489
 ITWEB	8605
 ITWeb	1174,34,644,88,32,348,72,441,85,116,43,213,249,110,81,204,160,113,132,181,193,171,75,19,174,23,71,15,172,20,206,147,32,98,142,86,94,61,237,306,365,39,73,38,90,12,12,7,16,18,12,43,15,33,21,99,197,28,38,11,7,41,12,42,43,46,43,91,21,23,52,141,190,251,44,289,1,242,70,22,68,143,10,14,16,126,5,20,27,60,345,3,1,99,1,1,316,217,672,1426
-ITWeb Africa	564,222,386,413,545,22,65,42,1045,877,294,20,52,166,245,94,344,15,108,696,464,44,55,78,6,296,3,126,96,84,111,642,228,522,71,503,72,87,19,65,15,161,1751,2658
+ITWeb Africa	564,222,386,413,545,22,65,42,1045,877,294,20,52,166,245,94,344,15,108,696,464,44,55,78,6,296,3,126,96,84,111,642,228,522,71,503,72,87,19,65,15,161,1751,2658,319
 ITWeb Africa Contributor	4106
 ITWeb Africa Contributor Johannesburg	8141,4282
 ITWeb Africa Contributor. Johannesburg	7388,453
 ITWeb Africa ContributorJohannesburg	6900,3207
 ITWeb Africa and Taarifa	7349
 ITWeb Africa. Johannesburg	6238
+ITWeb Africa. MTN	14692
 ITWeb BankCompar	4281
 ITWeb By Admire Moyo	10537
 ITWeb By Nicola Mawson	10536
@@ -663,6 +674,8 @@ Itana Choplife	9869
 Itangazabumenyi Communication Technologies. Technologies	1214
 Itanyi	9739
 Itanyi N	9739
+Itaosy	14475
+Itasy Vakinankaratra Alaotra Mangoro Atsinanana Amoron’i	14622
 Itayi Usaiwevhu	13614
 Itayi.usaiwevhu1	13614
 Itcomparestextualattributes	8606
@@ -715,6 +728,7 @@ Itinérance Kenya Itinérance	13414
 Itisappliedtostableattributes	8606
 Itisdefinedas	8606
 Itissalat Al-Maghrib	3321,575,2841
+Itmiopnr	14566
 ItnowhasdetailedSaMD	8301
 Itongo	13375
 ItsAllAboutU	8829
@@ -749,6 +763,7 @@ J. Award of Contract ITB	13185
 Jean Eric Djendja Itoua. FamilySearch	1876
 Jijini Milan Italy	2868
 Join ITU	9434
+Kimwarer and Itare Dams Loan Projects	14546
 Kleos Advisory and ITFA	10718
 Knowledge Transfer Programme. The ITU	5428
 Kristof Ithana	7743
@@ -913,6 +928,7 @@ Tanzania ITU	5697
 Tanzania ITU Academy	11424
 Tanzania Railways Corp and Italian	9971
 Tax Periods. ITEM CATEGORY VAT RETURNS	12509
+Tax Registration Menu Items	14533
 Technologie de Itumanaho	1214
 Technology ITRS International Transactions Reporting System	2775
 Technology ITU	12759
@@ -937,6 +953,7 @@ UNESCO and ITU Broadband Commission	12536
 UNICEF and ITU	6539,6504
 US ITA	982,904,2027,1060,5868
 US ITA Country Commercial Guide	4186,908,1246
+Undefined Items	14546
 Under ITB	13185
 Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1,135
 Union Portugal Brazil Spain Italy CORE	11586

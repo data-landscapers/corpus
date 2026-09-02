@@ -23,6 +23,7 @@ Academia and Civil Society Representatives	11995
 Administración Pública Sociedad Civil	1701
 Administrador da Sociedade de Cabos da Guiné-Bissau	11531
 Advanced Digital Society	5700
+Africa Index. Digital Nations and Society Index	14674
 African Astronomical Society	1735
 African Development Bank's Civil Society	7784
 African Information Society Initiative	12896
@@ -92,6 +93,7 @@ CHUNA CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 CIC REGULATED NWDT SACCO SOCIETY LTD	7167
 CIVIL SOCIETY	9399
 CIVIL SOCIETY AND Ultimately	10852
+CIVIL SOCIETY ARTICLE	14409
 CLASS OF CO-OPERATIVE SOCIETIES WITH TURNOVER	7845
 CO-OPERATIVE SOCIETY LIMITED Data Processor INST-679683EA79D	7167
 COMHIGH SACCO SOCIETY LTD Data Processor	7167
@@ -128,7 +130,8 @@ Cimeira Mundial da Sociedade da Informação	11396,1
 Civic Society	13295
 Civic Society Guiding	12511
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209,373,135,318,1,85,261,13,142,88,9,59,162,243,5,34,357,32,1064
+Civil Society ARTICLE	14409
 Civil Society Alliances for Digital Empowerment	12442
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
@@ -201,10 +204,13 @@ Data Protection and Governance Society of Kenya	5363
 Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596
 Development of Information Society	11529
 Dhamini Sacco Society Ltd Data Controller	7167
+Digital Africa Nations and Society Index	14674
 Digital Economies and Societies	6948
 Digital Economy and Digital Society	395
 Digital Economy and Society. Research ICT	961
 Digital Geography and Society	8185,1047
+Digital Nations and Society Index	14674
+Digital Nations and Society Index. Figure	14674
 Digital Networks and Society	10764,80,719
 Digital Society	395,563,5988,2,1403,3506,503,613,335,36
 Digital Society Industry Growth	958
@@ -257,8 +263,10 @@ Free Society	2096
 Fund Society	7548
 Future Society	1204,2922,1575,2810
 Future Society. AI Readiness Assessment	5701
+GSMA Digital Africa Nations and Society Index	14674
 GSMA Digital Nations and Society	6861
-GSMA Digital Nations and Society Index	6781,34
+GSMA Digital Nations and Society Index	6781,34,7859
+GSMA Nations and Society Index	14674
 Global Information Society Watch	2110,9978
 Government And Civil Society	18
 Government And Civil Society. Flow Type	7589
@@ -279,6 +287,7 @@ ICT Society	6946
 IEEE Computer Society	2096,5925,1
 INFORMATION SOCIETY DAY	6168
 INSUL. REG. CONT. TRAFICO PROTEC. SOCIEDAD	4209
+IXP. Internet Society Manitoba Chapter	14468
 IXPs. Through the Internet Society Foundation’s Sustainable	7246
 Inclusive Digital Society	12214
 Income Society	12512
@@ -311,23 +320,28 @@ Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
 Instituto de Fomento da Sociedade da Informação	2581,8749,507
 Interbank Society and Payment Systems	11941
 Interbank Society of Mozambique	5258,557
+International Research Institute for Climate and Society	14551
 Internet Protection Society	9082
-Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026,176,392,216,530,420
-Internet Society Cameroon Chapter	7958
+Internet Society	961,30,1393,31,262,29,106,251,1465,1790,187,37,666,38,1001,514,657,226,10,106,484,1066,1026,176,392,216,530,420,358
+Internet Society Cameroon Chapter	7958,6510
 Internet Society Chapitre du Bénin	14245
 Internet Society Chapter	2415
 Internet Society Chapter RDC	2415
 Internet Society DR Congo	9082
 Internet Society DRC	10474
-Internet Society Foundation	6318,3442
+Internet Society Foundation	6318,3442,4708
 Internet Society Ghana Chapter	8247,2310
+Internet Society Lebanon Chapter	14468
+Internet Society Lesotho Chapter	14468
+Internet Society Paraguay Chapter	14468
 Internet Society Performer URL	10244
-Internet Society Pulse	6318,928,3414,3409
+Internet Society Pulse	6318,928,3414,3409,489
 Internet Society RDC. Il	2415
 Internet Society Rwanda Chapter	8343,1417
 Internet Society Tchad	2384
 Internet Society Togo	2280
 Internet Society Togo Togo	6505
+Internet Society Zimbabwe Chapter	14468
 Internet Society and AUCA	9760
 Internet Society of Namibia	1928
 Internet Society of Nigeria. Stakeholders	6536
@@ -374,6 +388,7 @@ MULTI-STAKEHOLDER ENGAGEMENT AND CIVIL SOCIETY INTEGRATION	3861
 Machine Learning and Society	8380
 Malawi Red Cross Society	13140
 Malawi Red Cross Society's Simplified Early	13140
+Malawi The GSMA Digital Nations and Society	14674
 Malawi. The Internet Society	9654
 Management System LSK Law Society of Kenya	6946
 Marine Technology Society Journal	4676
@@ -402,6 +417,7 @@ National Fuel Society of Angola	11380
 National Society	12618,359
 National Society Branches	12977
 National Society Development	12977
+Nations and Society Index	14674
 Nature and Society	12926
 Natureza Jurídica Sociedade Sociedade Anónima	10757
 Neo Kolane The Internet Society	12709
@@ -498,7 +514,7 @@ SOCIETE MIXTE	13587,1
 SOCIETE MODERNE	998
 SOCIETE MODERNE DE TRANSPORT Revente	998
 SOCIETES	13293
-SOCIETY	2096,6772,1,122,2144
+SOCIETY	2096,6772,1,122,2144,3274
 SOCIETY LIMITED Data Controller INST-274553D7C0F EMBU	7167
 SOCIETY LIMITED Data Controller INST-522236DC30F NAIROBI	7167
 SOCIETY LIMITED Data Processor INST-522236DC30F NAIROBI	7167
@@ -586,9 +602,10 @@ Societies	11156,1071,370,1273
 Societies Act	13339
 Societies Registration Act	12533
 Societies and Education	6832
-Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306
+Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22,85,5,16,698,73,28,143,129,4,145,77,221,303,290,91,327,306,473
 Society COMGOV Government Communication CTI Centre	13312,2
 Society Division and Ms. Souhila Amazouz	1243
+Society Index	14674
 Society Library	11237,21,28
 Society Networks	13557
 Society Yaounde	10971

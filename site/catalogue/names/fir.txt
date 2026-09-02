@@ -65,7 +65,9 @@ Breach Triage And The Insurer’s First	6632
 Building Africa's First Regional DPI Ecosystem	12432,252
 Burundi. First World Energies Forum	13624
 Bush Fire and Luju	12971
+CEO of First Assurance Dr. Joannes Kitaka	14555
 COLLEGE Madam First Deputy Speaker	13387
+CONSULTANCY FIRMS PROCUREMENT TITLE	14486
 CONSULTING FIRMS SZ-MICT-513264-CS-QCBS	13017
 CafeOne Quick Fire Quick Fire	3929,2919
 Cameroon. First	10985
@@ -161,6 +163,7 @@ Europe and North Africa. First	3357
 European Union FCB First Capital Bank	13005
 Excellency the First Lady	13673
 Excellents and One First	13666
+Exclusion Criteria Only Consulting Firms	14486
 Experience of Consulting Firm	12961
 Experienced Fund Managers First-Time Fund Managers	4972
 FCMU Financial and Contract Management Unit FIRR	11380
@@ -197,7 +200,7 @@ FIRST PILLAR	3604
 FIRST QUARTER	12062,1611
 FIRST QUARTER ENDING	6978
 FIRST Recurrent	1777
-FIRST SCHEDULE	587,2122,5136,5215,247,96
+FIRST SCHEDULE	587,2122,5136,5215,247,96,1007,17,8,159
 FIRST SCHEDULE PRESCRIBED FORMS OF NATIONAL	12410
 FIRST SCHEDULE-Prescribed	12410
 FIRST TIME FUNDING	4972
@@ -215,6 +218,7 @@ Federal High Court and Federal First-Instance Courts	13948
 Federal High Court and First-Instance Courts	13948
 Fifth Fourth Third Second First	10765
 Fintech Firm Open Hub Launches	5939
+Firaketana	14488,1,1
 Firas Raad	13111
 Fire Certificate	1988
 Fire Detection System	593
@@ -260,7 +264,7 @@ Firenena Mikambana	14356
 Fireside Chat	12104
 Firew B. Woldeyes	12948
 Firew Woldeyes	12948
-Firewall	9123,1725,1405,428,82,422
+Firewall	9123,1725,1405,428,82,422,1498
 Firewall Policies for Micro-Segmentation	11231
 Firewall and Intrusion Detection	12253
 Firewalls	4342,8575,615
@@ -325,7 +329,7 @@ Firmware	11956,1229
 Firmware Integrity	10721
 Firmware and BIOS	13185
 Firm’s Name	13037
-First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42,61,24,24,8,7,3,10,4,9,13,76,8,27,5,10,12,1,18,35,11,29,27,28,23,130,9,58,152,36,16,13,28,35,12,3,5,20,31,11,5,58,57,69,2,1,17,1,26,20,3,4,7,3,66,16,24,25,6,117,219,95,41,102,16,6,74,14,75,49,60
+First	14,35,45,132,10,182,43,1,48,10,40,11,14,121,49,7,27,110,14,23,34,15,11,139,26,51,7,42,283,61,37,42,19,35,32,44,2,8,4,1,16,22,30,91,57,56,16,6,105,16,63,60,65,29,131,43,82,40,69,63,69,47,107,63,197,6,98,26,93,9,110,2,75,183,10,275,100,67,13,61,28,55,5,22,43,23,13,57,20,206,25,32,6,78,11,14,62,149,91,93,18,47,79,23,52,112,5,23,49,62,49,21,9,73,41,18,36,16,28,103,26,9,4,13,72,8,59,91,48,8,55,3,32,7,116,37,12,150,4,66,5,91,133,5,20,11,40,23,3,40,1,122,66,12,1,96,23,57,17,91,110,22,77,93,48,3,9,24,4,19,99,19,2,144,29,57,10,4,43,2,23,306,11,99,33,35,68,99,64,68,22,15,4,20,23,280,18,40,33,4,8,4,19,125,26,1,38,18,109,22,82,44,76,2,32,2,3,6,1,18,26,3,7,52,59,8,15,1,21,21,10,12,73,28,5,1,1,4,9,5,1,9,16,8,70,14,38,46,24,88,57,11,14,28,18,96,13,91,21,38,2,3,19,28,17,3,27,2,4,5,11,10,4,10,3,3,17,2,23,42,61,24,24,8,7,3,10,4,9,13,76,8,27,5,10,12,1,18,35,11,29,27,28,23,130,9,58,152,36,16,13,28,35,12,3,5,20,31,11,5,58,57,69,2,1,17,1,26,20,3,4,7,3,66,16,24,25,6,117,219,95,41,102,16,6,74,14,75,49,60,35,20,121,90,7
 First AFD Sovereign Digital Loan	1043
 First AID	12977
 First AID A. Community First Aid	12977
@@ -372,7 +376,7 @@ First Deputy Prime Minister and Minister of East	11806
 First Discount House	13122
 First Draft Report The Inception Meeting	962
 First EBRD	4663
-First Edition	2958,3979,3882
+First Edition	2958,3979,3882,3609
 First Expiry First Out	4732
 First FLW	13532
 First Female Elected President	12982
@@ -392,6 +396,7 @@ First IFR	12595
 First ISR	13857
 First Implementation of ASYCUDAWorld	13042
 First In First Out	12364
+First Instance Division	14409
 First Instance Yaoundé	10979
 First Joburg	4425
 First Kurdish Conversational AI Platform	5322
@@ -409,6 +414,7 @@ First Marriage	13454
 First Mile	11857,802
 First Ministerial Conference	13332
 First Mobile	3849
+First Movers Advantage	14508
 First Mutual Life	1154
 First Mutual Properties	4896
 First Name	11861,55,230
@@ -456,7 +462,7 @@ First Responders	2787
 First Round	14000
 First SWA ID	12367
 First Safe Country Principle	11264
-First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122
+First Schedule	587,149,487,654,111,721,66,138,3496,531,667,238,3418,713,434,233,662,2,10,81,5,13,54,14,122,804,5,7,5,8,159
 First Schedule Second Schedule Third Schedule	13305
 First Schedule of First	6921
 First Schedule the Public Service Regulations	13310
@@ -535,8 +541,9 @@ FirstRand	3541,1543,1148,4503,3631
 FirstRand Bank Limited	12252
 FirstRand Bank Nigeria Financial	11469
 FirstRand Group	1404
-Firstly	236,160,148,29,193,204,226,618,14,81,1026,13,213,318,953,15,527,251,19,1233,103,1171,230,41,582,525,270,1366,10,44,143,171,125,31,441,91,86,2,77,37,310,608,64,35,68,279,31,86,22
+Firstly	236,160,148,29,193,204,226,618,14,81,1026,13,213,318,953,15,527,251,19,1233,103,1171,230,41,582,525,270,1366,10,44,143,171,125,31,441,91,86,2,77,37,310,608,64,35,68,279,31,86,22,1169
 Firstpost	9431
+Fivoriamben'ny Firenena	14408
 Focus Skills Needed Resource Estimate First	11855
 Foreign Currency FIRR Financial Internal Rate	11863
 Foreign Firm	12389
@@ -611,11 +618,13 @@ Labour Market Services First Published	13037
 Land for Domestic Firms	12389
 Land for Foreign Firms	12389
 Law Firm	9877
+Law Firm Details Plaintiff Attorney	14675
 Law Firm Senior	718
 Lease for Domestic Firms	12389
 Leasehold of Agricultural Land for Foreign Firms	12389
 Leasehold of Agricultural Property for Domestic Firms	12389
 Leone Launches First Tech Club	5276
+Les Firmes	14578
 License Tech Firms	8424
 Life Safety and Fire Safety Codes	1988
 Life and Fire Safety	1988
@@ -632,6 +641,7 @@ MTN Supersonic Home Fire	11259
 Madagascar Conducts First Direct-to-Cell Satellite Trial	2362,225,502,4210
 Madam First Deputy Speaker	13387
 Madam Speaker. Madam First Deputy Speaker	13387
+Malawi Launches First-Ever Digital Readiness Assessment	14674
 Malta's First High Commissioner	8992
 Management Firm	12976
 Maria Firmina	3782
@@ -680,6 +690,7 @@ Nigeria’s Senate Moves Forward With First	965,3804,120,206,402
 Notify Firms of Procurement Decisions and Legal Framework	12389
 Number of Firms	12389
 Nyambirai First Transfer Secretaries D3	4896
+ONG Youth First	14428
 OWLPRESS Fintech Firm Open Hub Launches	5939
 Official Use Only First	12253
 Onafriq and PAPSS Launch Africa’s First Instant	4901
@@ -728,6 +739,8 @@ Quality of Tax Administration and Firm Performance	12948
 Quick Fire	7418
 Quorum Madam First Deputy Speaker	13387
 RATIFICATION TO THE FIRST SHIPMENT	10476
+RECRUTEMENT D'UNE FIRME POUR ASSURER L'AUDIT	14578
+REGISTRAR First	14407
 Registration of Domestic Firms	12389
 Registration of Foreign Firms	12389
 Renewal First	12364
@@ -740,6 +753,7 @@ Results The First Ordinary Session	8015
 Role Trust Service Provider First Edition	10819
 Rural Community-Driven Development Project. First	11525
 SCHEDULES FIRST SCHEDULE Cybersecurity Services SECOND	587
+SCHEDULES FIRST SCHEDULE--Matters	14594
 SCHEDULES First Schedule Section3	11976
 SELECTION DE FIRMES	13818
 SERVICES LAUNCHES NAMIBIA’S FIRST NATIONAL DIGITAL	13104
@@ -755,6 +769,7 @@ Sector Size Location Firms Characteristics	11874
 Senate Portfolio Committee First Quarter Performance	9525
 Shiselweni Fire Stakeholders	12977
 Shiselweni Fire and Timber Association	12977
+Shortlisting Criteria Firms	14486
 Sierra Leone First Lady Fatima Bio	5390
 Signalling Firewall	10721
 Siphofaneni Fire Station	12962
@@ -819,6 +834,7 @@ Wike’s Aide Under Fire for Leaking Voter	7176
 Women Founders Accelerator and AI First Accelerator	9321
 World Championship Final First Lady Fatima	5390,965,827
 World’s First Foldable PC	2987,16,13,949,1438,159,1347
+XAfrica Data Centres First Movers Get	14508
 Yearly Research Firm Once Percentage	10964
 ZIPSS Profile CSD Profile First	12364
 Zambia. Firstly	12376

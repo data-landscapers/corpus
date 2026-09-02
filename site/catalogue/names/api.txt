@@ -35,6 +35,7 @@ API Zimswitch Technologies	12490
 API and PNR	10360,363
 API for All Models CAIMEx	5226
 API for FNB and RMB	8432
+API for Foreign PIN Applicants	14533
 API for P161329	312
 API for P176181	1216
 API for P176932	1277
@@ -81,16 +82,20 @@ APIs. Service	10721
 APIs. South Africa	6593
 APIs. Taxpayer	13624
 APIs. The GSB	2112
+APIs. While GovStack	14566
 APIs4	12021
+AWS-compatible APIs	14508
 Access API	10721
 Achieve API	13005
 Acronyms AfCFTA AI AI4D AISIO API	4528
+Adiresy API	14651
 Advanced Encryption Standard API Application Programming	11952
 Afriex’s B2B Payments API	10223
 Aid Management Platform API	5244
 All API	12047
 American National Standards Institute API Application	10775
 Another API	12490
+Api-Agro Forestry Systems	14409
 Api1rtaclo	11514
 Apiculture. Brussels	10841
 Apilotstudy. BMC Medical Ethics	8606
@@ -120,12 +125,14 @@ Carolina Glasserman Apicella of DataGénero	7151
 Cette API	13306
 Companies API Application Programming Interface	4214
 Custom API	6423
+Customer API	14438
 DHIS2 API	12754
 DPI-related APIs	13005
 DRS-14 API	6423
 Data Dictionary and API Standards	11940
 Design API	6432
 Develop API	11133
+Develop APIs	14674
 Developmental Model API Advance Passenger Information	11986
 Directions API	1363
 Disponibilização de APIs	11893
@@ -143,6 +150,7 @@ GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
 GSMA Open Gateway APIs	5820
 GSMA Open Gateway APIs Revenues	6593
+GSMA Open Gateway Initiative for APIs	14674
 Gemini API and Google AI Studio	13461
 GitHub API	12478
 GovStack Digital registries BB Data API template-1.3.0.json	6423
@@ -155,6 +163,7 @@ Implement API	6432
 Imposing API and PNR	10723
 Informatique Médicale API Application Programming Interface	13306
 Integration and API Requirements	13037
+Intelligence AML Anti Money Laundering API	14674
 JSON API	7885
 JSON JSON API	9480
 JSON. Une API	12024
@@ -163,6 +172,7 @@ LLM API	11585
 M-PESA API	4087
 MESOB Bridge API Gateway	12215
 MTT AfCFTA AI API BPP CBN	10157
+Make the APIs	14441
 Method API Application Program Interface ATNA	1009
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593

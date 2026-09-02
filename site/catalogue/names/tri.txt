@@ -55,6 +55,7 @@ Certidão de Dívida Tributária CRF	11435
 Chairman Code of Conduct Tribunal	1014
 Chairman and CEO of Trident Digital Tech Holdings	9977
 Chief Executive Officer of Trident	2698
+City’s Municipal Planning Tribunal	14673
 Clinical Trials	8831
 Clinical Trials Act	7845
 Clinical Trials. Proposals	10776
@@ -122,7 +123,9 @@ Electronic Communications Tribunal	11
 Electronic Communications Tribunal Establishment	11
 Elemi Triangle	6946
 Employees of Companies Tribunal	3714
+Energy and Petroleum Tribunal	14422
 Environmental and Social Standards Triggered	12253
+Escalation Triggers Escalation	14565
 Establishment of Appeals Tribunal	12959
 Establishment of Tax Tribunal	12629
 Estatuto Orgânico da Administração Geral Tributária	11435
@@ -207,8 +210,9 @@ La Tribune du Faso	2074
 Land Tribunal	13024
 Lands Tribunal	12912,112
 Lands Tribunal. Local	12369
-Le Tribunal	11019
-Legal Operational Policies Policies Triggered	13111
+Le Tribunal	11019,3398
+Le Tribunal de Commerce	14417
+Legal Operational Policies Policies Triggered	13111,1442
 Legal Operational Policies Triggered	1867,8901,195,942
 Legal Service Directorate for Tax Tribunal and High	12500
 Lesotho Tribune	6490,143
@@ -218,6 +222,7 @@ Libya's Tripoli-based	3811
 Lin and Trilling2024	8436
 Loubna Tricha	8891
 Louis Trichardt	5733
+L’ordonnance du Président du Tribunal de Commerce	14417
 MAGISTRADO TRIBUNAL CONSTITUCIONAL	4209
 MAGISTRADO TRIBUNAL DE CUENTAS	4209
 Madagascar Conducts First Direct-to-Cell Satellite Trial	2362,225,502,4210
@@ -236,7 +241,7 @@ Media Council of Kenya and Copyright Tribunal	8570
 Member States. The Consumer Tribunal	5676
 Merged Federation of Motorcycle and Tricycle Union	10046
 Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
-Municipal Planning Tribunal	7343
+Municipal Planning Tribunal	7343,7330
 N' Trillion	6408
 NA REVISTA DO TRIBUNAL DE CONTAS	11473
 NDAYAHOZE Triphine BARANYIZIGIYE Majoric NDORERE J	13300
@@ -266,6 +271,7 @@ Pan-African Clinical Trials Registry	11585
 Part the Tribunal	3714
 Patente Tributaria	4595
 Patente Tributario	4209
+Permanent Tripartite Commission	14409
 Perído de Tributação Anotações	11532
 Peter Piot and Nisia Trindade	6001
 Plan Triennal	10964
@@ -281,7 +287,8 @@ Procedimentos Tributários	11383
 Proceedings of Tribunal	12549
 Programme de Travail Trimestriel RESA	10874
 Proposta de Procedimento de Triagem de Projectos	11406
-Président du Tribunal	436
+Président du Tribunal	436,13976,8,11
+Président du Tribunal de Commerce	14417
 Président du Tribunal de Première Instance	2465
 Public Clinical Trial Unit	7845
 Public Clinical Trial Unit Any	7845
@@ -302,6 +309,7 @@ Revenue Appeals Tribunal. Continuous	13060
 Review Triggers and Adaptive Flexibility	3861
 Review Triggers and Adaptive Flexibility The NDGC	3861
 République de Guinée. Le Tribunal	11019
+République du Tribunal	14412
 SADC Administrative Tribunal	12972
 SADC Tribunal	961
 SECRETARIO FISCALIA TRIBUNAL CONSTITUCIONAL	4209
@@ -351,6 +359,7 @@ Sónia Trigo	2816
 T Assinant. Trim N-1 O II Trimestre	11574
 TB TRIAGE	12678
 TOE and DOI Trialability	9129
+TRI DE LA PLAINTE Examen	14424
 TRI Project	10841
 TRI- POD	8301
 TRIAGEM AMBIENTAL E SOCIAL	11390
@@ -378,7 +387,7 @@ TRILLION	11964
 TRILLION Closing	11004
 TRILLION Q1	9781
 TRILLION Q2	9781
-TRIMESTRE	13586
+TRIMESTRE	13586,962,71
 TRINIDAD AND TOBAGO ETHIOPIA SRI LANKA	13661
 TRINO	6613
 TRIPLÉS SUR DES LIGNES SÉPARÉES. S'IL	13300
@@ -388,6 +397,8 @@ TRIPS Agreement	11550
 TRIPS Agreement and Public Health	6534
 Tajikistan Thailand Timor-Leste Togo Tonga Trinidad	11765
 Tax Appeal Tribunal	9972,2004
+Tax Appeals Tribunal	14415
+Tax Appeals Tribunal Act	14415
 Tax Dispute Resolution and Tax Tribunal	8669
 Tax Tribunal	12598,31
 Technopolis Dispute Resolution Tribunal	6161
@@ -411,6 +422,7 @@ Triage	4610,514,8,8622
 Triagem	11406
 Triagem de Subprojectos	11390
 Trial	587,422,820,1100,4370,546,4534,674
+Trial Balance	14546
 Trial Implementation	1009
 Trial Implementation. Thisexception	1009
 Trial International	13325
@@ -430,7 +442,7 @@ Triangle and Triangle	13526
 Triangular Cooperation	12979
 Triangular Cooperation for Digitial Innovation Made	1423
 Triangulating	1018
-Triangulation	3791,3157,330,688,1162,3275
+Triangulation	3791,3157,330,688,1162,3275,2022
 Triangulo	10751
 Tribal	3761
 Tribal Administration	12551
@@ -456,7 +468,7 @@ Tribunais de Relação	10752
 Tribunais. Desses	10751
 Tribunais. Foi	10752
 Tribunais. Quando	10752
-Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13,990,18,410,65,36,401,1,62,183
+Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1,721,55,13,990,18,410,65,36,401,1,62,183,708,2,3,2,3,113
 Tribunal A.180	12549
 Tribunal A.181	12549
 Tribunal Administrativo	2866,9930
@@ -471,6 +483,7 @@ Tribunal Constitucional Tribunal de Cuentas	4209
 Tribunal Constitucional de Angola	11473
 Tribunal Disqualification	12549
 Tribunal General	11
+Tribunal Malagasy. L'interdiction	14417
 Tribunal PART XVII	12549
 Tribunal Proceedings of Tribunal Appeal	12549
 Tribunal Protection	12549
@@ -481,6 +494,7 @@ Tribunal Supremo da República Popular da China	10752
 Tribunal Supremo da República de Angola	11473
 Tribunal and Courts	3714
 Tribunal de Comarca	10751
+Tribunal de Commerce	14417
 Tribunal de Commerce de Cotonou	5478
 Tribunal de Contas	13,1,153,3500,1345,1179,4577,649,32,24,70,26
 Tribunal de Contas Angola	11473
@@ -491,6 +505,7 @@ Tribunal de Contas. Every	1339
 Tribunal de Cuentas	1701,2508
 Tribunal de Dabou. Cette	2332
 Tribunal de Grande Instance	13293
+Tribunal de Première Instance	14616
 Tribunal de Première Instance de Bingerville	5867
 Tribunal de Première Instance de Libreville	1231
 Tribunal du Commerce	13524
@@ -506,7 +521,8 @@ Tribunal.2	13461
 Tribunales	1701
 Tribunals	10775
 Tribunals Service Reform Programme	8978
-Tribunaux	3381,10061
+Tribunaux	3381,10061,1096
+Tribunaux Administratifs	14538
 Tribunaux de Commerce	11958
 Tribunaux de Grande Instance	13442,193
 Tribune	2436,1116,1177,950,2388,3602
@@ -546,7 +562,7 @@ Tried	1150
 Trienios	4209
 Trier	1005,12722
 Trigger	3714,2709,865,80,4807,214,1601
-Triggered	1284,2172,148,4832,2393,135,453,1915,922
+Triggered	1284,2172,148,4832,2393,135,453,1915,922,322
 Triggers	6423,5752,707,155,953
 Triggers of Success	8029
 Trigo	2816
@@ -594,8 +610,9 @@ Trip Communication	13037
 Trip Miscellaneous	13037
 Trip Use	13037
 Tripartite	11131,1845,587
-Tripartite Agreement	10841
+Tripartite Agreement	10841,3568
 Tripartite Agreements	12918
+Tripartite Commission	14409
 Tripartite Committee	7452
 Tripartite Committee Report	7452
 Tripartite Communique	7452
@@ -617,6 +634,7 @@ Triple Helix Model	12675
 Triple Line	11916
 Triple Logic Telecommunication Ltd	3862
 Triple Logic Telecomunication Ltd	3862
+Triple Milliard	14622
 Triple P-CGS and VGF	11998
 Tripling	13312,2
 Tripoli	434,1667,736,236,115,276,347,15,425,379,50,131,38,178,237,53,458,658,264,745,281,200,905,262,123,266,1070,1198
@@ -640,7 +658,7 @@ Tripoli-based Libyan	5317
 Tripoli-based PM Abdel Hamid Aldabaiba	1868
 Tripoli’s Mitiga	5948
 Trips	1988,10265
-Trish Thomas	9919
+Trish Thomas	9919,4786
 Trisha Husada	4127
 Trist	7278
 Trist and Bamforth	7278

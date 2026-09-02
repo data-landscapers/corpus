@@ -59,6 +59,7 @@ Cybersécurité. Un	11139
 DANS UN BÂTIMENT SÉPARÉ	13300
 DANS UN NIVEAU	13300
 DATA CENTRE AGENDA AT UN MEETING	12736
+DE LA RELATION ENTRE UN ETABLISSEMENT	14417
 DES OBJECTIFS STRATÉGIQUES UN PORTEFEUILLE DIVERSIFIÉ	2342
 DEUX SEULEMENT DEUX SEULEMENT CODES UN	13300
 DGI Un	10858
@@ -82,6 +83,7 @@ E1 I-44 UN Human Capital Index	10785
 EAC Customs Un-	13357
 EBM Un	13341
 EDC LA TRANSPARENCE POUR UN SECTEUR	10975
+ELECTRONIQUE ET UN UTILISATEUR SECTION PREMIERE	14417
 EN COURS DGAENF Un	2966
 EN UNION VIT AVEC UN HOMME	13300
 ET DE CUISSON PROPRE POUR UN	13433
@@ -114,6 +116,7 @@ GIM-UEMOA Un	10711
 GMAO. Un	13306
 Gabon LA TRANSPARENCE POUR UN SECTEUR	10975
 Gender Inequality Index UN Human Development	11004,960
+Genre. Un	14488,1,1
 Global South. At the UN General Assembly	6001
 Goma After... UN Sanctions More Top	3245
 Google Scholar UN	11028
@@ -178,6 +181,7 @@ MSPLS Un	13306
 MSPLS. Un	13306
 MW. LA TRANSPARENCE POUR UN SECTEUR	10975
 Madagascar. Un	11088
+Malawi National Statistics Office and UN WPP	14674
 Management Unit for Special Projects UN United	11863
 Mapé. LA TRANSPARENCE POUR UN SECTEUR	10975
 Marché DAAFRH LA TRANSPARENCE POUR UN	10975
@@ -224,6 +228,7 @@ Programme Evaluation and Auditing UN Women United	11193
 Q.175A DEUX OU PLUS UN ALLER	13300
 Qatar. Un	7531
 Quadrennial Conference of UN Trade and Development	13042
+RELATION ENTRE UN ETABLISSEMENT DE MONNAIE	14417
 REPUBLIQUE DU SENEGAL Un Peuple	11139
 REPUBLIQUE DU SENEGAL Un Peuple-Un But-Une	11139
 ROBINET CHEZ UN VOISIN	13300
@@ -240,6 +245,8 @@ Résultat VIII.2 Un	13306
 Résultat X.1 Un	13306
 Résultat XI.2 Un	13306
 S. Un	13524
+SADC Southern African Development Community UN	14434
+SAUVEGARDE CHAQUE HEURE SUR UN DATACENTER	14683
 SEULEMENT UN ENFANT ENFANT	13300
 SI L'ENQUÊTÉ DÉCLARE UTILISER UN PRODUIT	13300
 SME SOP STEM SWOT TWG UN	4528
@@ -344,7 +351,7 @@ UN Council	961
 UN Country Team	10346,2383
 UN Country Team Members The United	13989
 UN Cybercrime Convention	4204,2222
-UN DESA	1890,3,19,471,1133,7324,145,587,841
+UN DESA	1890,3,19,471,1133,7324,145,587,841,2059
 UN DESA Division for Public Institutions and Digital	11894
 UN DESA Statistics Division	8546
 UN DESA United Nations Department of Economic	11960
@@ -374,7 +381,8 @@ UN E- Government Development Index	13314
 UN E-Gov Index	5114
 UN E-GovErNmENt SUrvEy	10840
 UN E-Government	11469
-UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705,7268,181,892
+UN E-Government Development Digital Readiness Assessment	14674
+UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705,7268,181,892,1329
 UN E-Government Survey	1749,156,9664
 UN E-Participation Index	10785
 UN E-government Survey	11569
@@ -425,7 +433,8 @@ UN Group of Friends for AI Capacity-Building	10215
 UN Group of Governmental Experts	2117
 UN Guidance Note	1243
 UN Guidelines	12959
-UN Guiding Principles	3583,5499,1925
+UN Guiding Principles	3583,5499,1925,3666
+UN HCHR	14434
 UN HCR	10841
 UN HDI	1008
 UN Habitat	11129,156
@@ -480,6 +489,7 @@ UN Migration	12227
 UN Millennium Goals	12939
 UN Mission	10409
 UN Model Law	10718
+UN Multi-Partner Trust Fund Office	14622
 UN MÉLANGE EN POUDRE	13300
 UN MÉLANGE EN POUDRE DE MICRONUTRIMENTS	13300
 UN Net Zero Banking Alliance	13532
@@ -561,7 +571,7 @@ UN Statistics Commission	13993
 UN Statistics Division	12327,632
 UN Summit of Futures	1264
 UN Sustainable Development Goal	12959
-UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846,363,40,991,767,73,157
+UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846,363,40,991,767,73,157,90
 UN Sustainable Development Goals. Entities Joint	3583
 UN Sustainable Development Report	11195
 UN System	1243
@@ -585,6 +595,7 @@ UN Universal DPI Safeguards Framework	11007
 UN Urges Protection	10025
 UN WOMEN	13440
 UN WOMEN Analysis	13312,2
+UN WPP	14674
 UN Washington Group of Experts	12383
 UN Water Conference	14075
 UN Women	1407,1038,1138,520,1141,3616,352,1133,848,958,580,1290,46,75
@@ -629,6 +640,7 @@ Un Etat	1990,3073
 Un FabLab	11689
 Un Fonds	13442
 Un Gabonais	4125,13
+Un Individu	14480
 Un LMIS	13306
 Un Mamady Doumbouya	10691
 Un Million	13555
@@ -641,7 +653,9 @@ Un PACS	13306
 Un PPP	13306
 Un Pas	746
 Un Peuple	12
+Un Plan	14539
 Un Programme	10965
+Un Projet	14423
 Un Protocole	9822
 Un QR	10975
 Un Rapport	8524
@@ -664,6 +678,7 @@ United Kingdom UN United Nations UNCTAD	1243
 United Nations UN	12142
 Université des Comores I Un	1996,2390
 User Acceptance Testing UN United Nations	11192
+VERS UN SERVICE DE PROXIMITÉ	14450
 VEUT AVOIR UN	13300
 VIOLENCE INITIÉE PAR UN CONJOINT CONTRE	13300
 VIT AVEC UN HOMME	13300
@@ -675,7 +690,7 @@ VÉCU AVEC UN HOMME	13300
 VÉCU AVEC UN HOMME UN	13300
 WHATSAPP Un	5051
 West Africa Identity Document UN United	12327
-WhatsApp. Un	10030
+WhatsApp. Un	10030,4682
 Women and Social Affairs. Participating UN System	13999
 World Bank and UN Economic Commission for Africa	1035
 World Doesn't Need Another UN	7112

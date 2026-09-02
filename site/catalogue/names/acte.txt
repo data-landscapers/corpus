@@ -7,15 +7,18 @@ ANNEXE1 ACTE DE S Date	13524
 Acte Additionnel	10712
 Acte de Naissance	12328
 Acte. Only	12328
-Actes	3590,1222,2901,87,209,1717,3990
-Acteur	1272,5123
+Actes	3590,1222,2901,87,209,1717,3990,726,95
+Acteur	1272,5123,8142
 Acteur Centrale	10876
 Acteur PRMP	10876
+Acteur Responsabilités	14537
 Acteur Rôle	8525,2351
 Acteur Rôle PRMP Pilote	10876
 Acteur Stratégie	1984
 Acteurs	1187,4959,813,1040,2486,351,38,2,89,979
+Acteurs Demandeur	14537
 Acteurs Rôle PRMP Coordonne	10876
+Acteurs Secrétariat Exécutif DPD	14537
 Acteurs Tâches Délai	10876
 Acteurs Tâches Délai Commission	10876
 Acteurs Tâches Délai PRMP Lance	10876
@@ -42,6 +45,7 @@ Obligations des Acteurs	746
 PRÉVALENCE DE LA VIOLENCE PHYSIQUE Actes	13300
 Production des Actes	10937
 REGULATION A RESPONSABILITE PARTAGEE DES ACTEURS	10906
+Responsabilités Acteur Secrétaire	14537
 Réseau des Acteurs du Numérique	9293,2
 Sécurisation des Actes	10902,35
 Telecom. Acteurs	235

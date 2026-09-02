@@ -36,9 +36,13 @@ DTAAs	13060
 DTB and Safaricom	7265
 DTC II	6725
 DTC Nigeria Hosting	12053
+DTC South Africa	14514
 DTC-Hep B	13300
 DTC-HepB-Hib	13300
 DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
+DTC-HepB-Hib1	14622
+DTC-HepB-Hib3	14622
+DTCHepHib3	14442
 DTCoq	13300
 DTCoq-HEP.B-HIB	13300
 DTCoq-HepB-	13300
@@ -55,6 +59,7 @@ DTM SNFI WASH Nutrition	9772
 DTM WASH Other Nutrition SNFI	9772
 DTMFis	5222
 DTMFs	12490
+DTOS Ltd	14445
 DTP Annex	5487
 DTS Cohort	13233
 DTS Digital Transformation Strategy E&S Environmental	1264
@@ -124,9 +129,12 @@ Services DTT Digital Terrestrial Television ECG	4126
 Subscriber Line DT SACCOs Deposit Taking	2775
 Subscriber Line DTH Direct-to-Home DTT Digital	6946
 Suite DTC-HepB-Hib Polio1 Pneumocoque Rotavirus Enfants	13300
+TAB DTC HepB Hib1-VAR	14622
+TAB DTC-HepB-Hib1 DTC-HepB-Hib3	14622
 Unit DR Disaster Recovery DTLT Desktop	13185
 VACCIN DTCoq	13300
 VACCIN POLIO INJECTABLE VPI ROUTINE DTCoq-HEP.B-HIB	13300
+VDPV1 DA DHIS2 DTC-HepB-Hib	14622
 WASH SNFI Nutrition DTM Methodology	9772
 WB DT	13831
 Zaring DT	5242

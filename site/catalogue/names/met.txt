@@ -29,7 +29,7 @@ Africa West Bayobab Digital Infrastructure Meta	11234
 Africa. METHODS	10878
 African Centre of Meteorological Application for Development	11291
 African Development Bank AMI Advanced Metering	12717
-African Meteorological Satellite Application Facility	11283
+African Meteorological Satellite Application Facility	11283,3239
 African National Meteorological and Hydrological Services	11283
 Afrobarometer Working Papers Methodology Data	7886
 Agile Methodology	11216,725
@@ -44,6 +44,7 @@ Amsterdam Institute for Advanced Metropolitan Solutions	11007
 Analysis. Methodology	12533
 Anna Metz	10714,61,1888
 Annex D. Estimation Method	10714
+Annexe A Methodologie	14472
 Anthropic and OpenAI and Google Meta	9284
 Anthropic’s Claude and Meta’s Llama	8216
 Approach and Methodology	236
@@ -92,6 +93,7 @@ Chapter 3 - Research Methodology and Research Method. Haikal	7278
 China Meteorological Administration	9186,4757,210
 Choose Delivery Methods	12675
 City of Ekurhuleni Metropolitan Municipality	2948
+City of Johannesburg Metropolitan Area	14673
 City of Johannesburg Metropolitan Municipality	2307
 City of Tshwane Metropolitan Municipality	2948
 Commission and Meta	13462
@@ -113,12 +115,14 @@ Customer MAN Metropolitan Area Network MDA	13312,2
 Cybersecurity Methods	13346
 Cylinders Via Smart Meters	12256
 DATA QUALITY AND METADATA STANDARDS	3861
+DB Methodology	14666
 DDU Strategy Methodology. J Health Inf	1261
 DEP Methodology MEPPSA	11905
 DES METIERS ET LA FORMATION PROFESSIONNELLE	13478
 DGI Mettre	10858
 DIFFERENT METRICS	1803
 Danish Meteorological Institute	2714,7870
+Data Centres Metered Electricity Consumption	14673
 Data Collection Methods	7548,4808
 Data Collection Methods GM	1778
 Data Quality and Metadata Standards The NDGC	3861
@@ -144,6 +148,7 @@ Digital Meta KHARTOUM	14194
 Digital Readiness Assessment Methodology. Retrieved	12214
 Director of Methodology	6963
 Directorate Analysis. Method	11986
+Directorate of Operational Meteorology	14448
 Direcção de Metodologia	11449
 Djibouti's National Meteorological Agency	9238
 Document Metadata Document Metadata OASIS Web	1009
@@ -169,9 +174,12 @@ Europeana Metis Sandbox	8341
 Evaluation Methodology and Criteria	3700
 Evaluation Methods	5349,7007
 Events. Meta	13461
+Evidence and Methodology Document	14674
 ExpressRoute Metro	7467
 Extension Methodology and Systems	13060
+F--Statistical Infrastructure and Methodology	14594
 FAD and METAC	13868
+FAIRness. Methods Inf Med	14666
 FAS-IDL Methodology for Data Collection FAS-IDL	10768
 FINSCOPE SURVEY METHODOLOGY In Zambia	12409
 Facebook Meta	1622
@@ -188,6 +196,7 @@ Form for Data Capture Remove Metadata and Documents	1009
 Four Meteosat	11291
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
 GRM Methodology M&E	11905
+GSMA Sub Saharan Africa. For Methodology	14674
 GTMI Methodology	10785
 GWh ANNEX I METRIC OF KEY	12399
 Gbps Meta	10037
@@ -208,7 +217,7 @@ Health Metrics Network	766,1058,8998
 Health Metrics Network. Framework	771
 Health Services and Outcomes Research Methodology	8605
 Hendrick Metsileng	396
-ICANN and Meta	13120
+ICANN and Meta	13120,1348
 ICT METHODS	10852
 ICT and Mangaung Metropolitan Municipality	11231
 ID4D GLOBAL COVERAGE ESTIMATES AND METHODOLOGY	10714
@@ -236,6 +245,7 @@ Indicator and Metadata Management	11939
 Indirect Method	11955
 Industrial and Legal Metrology	1988
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
+Information Mettre	14537
 Information and Meteorology Infrastructure	12942
 Information and Meteorology and Infrastructure	12942
 Information and Meteorology. Minister Creecy	13655
@@ -247,7 +257,7 @@ Instituto Nacional de Meteorologia de Angola	11553
 Instituto Nacional de Meteorologia de Mozambique	11553
 Instituto Nacional de Meteorología	1701
 Instituto Superior Politécnico Metropolitano de Angola	11632
-Int J Qual Methods	9739
+Int J Qual Methods	9739,4927
 Integrated METHODOLOGY Public Security Centre	9399
 Interference Metrics	5245
 Intermediate Results Indicators Mapped Methodology for Data	1284
@@ -270,7 +280,9 @@ KEY NATIONAL FINANCIAL INCLUSION METRICS Trends	12409
 Kampala Metropolitan Police Area	315
 Kampala Metropolitan Police Area. The CCTV	315
 Kampala and Metropolitan Affairs Minister Hajjat Minsa	9900
+Kenya Meteorological Department	14471,80
 Kenya Methodist University	6946
+Key Metrics and Rankings	14421
 Key National Financial Inclusion Metrics	12409
 Kleinauskaite. Meta	1741
 Kobold Metals	12356
@@ -317,8 +329,10 @@ METADATA STANDARDS	12360
 METAINFORMAÇÃO	10766
 METAR	13062
 METAS E OBJECTIVOS	11390
+METEOROLOGICAL DEPARTMENT	14471
+METFP	14530
 METFPA	2966,638
-METHOD	12090
+METHOD	12090,2396
 METHODOLOGICAL APPROACH	12333
 METHODOLOGICAL PROCEDURES	8604
 METHODOLOGIE	13468
@@ -333,12 +347,13 @@ METHODOLOGY Study Design	12508
 METHODOLOGY The African Tech Startups Funding	4883
 METHODOLOGY The Dalberg	12328
 METHODOLOGY The MTSAO	11228
+METHODOLOGY The RAD	14434
 METHODOLOGY Vears	8605
 METHODS	1212,9640
 METHODS AND FRAMEWORKS	10852
 METHODS AND MEANS OF MAKING REQUESTS	13484
 METHODS. OR MOBILE MONEY ACCOUNT. CREDIT	10977
-METISS	3292,8840
+METISS	3292,8840,2313
 METIX	5406,409,2188,4811
 METIX Instant Payment System	5406
 METIX The Bank of Mozambique	5406
@@ -351,6 +366,8 @@ METOP-AVHRR	13750
 METP. Page	11905
 METPFQE	11907
 METRO	10975
+METROLOGY AND TESTING	14409
+METROLOGY AND TESTING ARTICLE	14409
 METSOLA For the Council The President T	7855
 METTEURS DE MONNAIE	11522
 MISSÃO E METAS O Plano Estratégico	12777
@@ -362,6 +379,7 @@ MPSAM and ONECI Methodology for Data Collection Data	3604
 MTND Methodology for Data Collection Biennial	3604
 MTND Methodology for Data Collection Data	3604
 Magaung Metro	11986
+Malagasy National Meteorological and Hydrological Service	14448
 Malawi Methodology for Assessing Procurement Systems	12176
 Management Metadata Management Noti	13042
 Mandatory Metadata Fields All	11952
@@ -389,7 +407,7 @@ Meta AI RFI	13461
 Meta AI.444 Google	13461
 Meta Ad Network	13461
 Meta Blueprint	10133
-Meta CEO Mark Zuckerberg	8994,665
+Meta CEO Mark Zuckerberg	8994,665,5016
 Meta Companies	5113
 Meta Estimated Share Meta	511
 Meta Insights	13461
@@ -406,7 +424,7 @@ Meta Oversight Board	9642,2800
 Meta Platform	13462
 Meta Platform Support	13462
 Meta Platform Support Program	13462
-Meta Platforms	4993,120,1431,1746,1369,3802,1
+Meta Platforms	4993,120,1431,1746,1369,3802,1,1213
 Meta Platforms AI	6316
 Meta Platforms Inc	5220,3629,3144,1468,1
 Meta Platforms for SA	13462
@@ -434,6 +452,7 @@ Meta's GenAI Industry Insights	13461
 Meta's Insights	13461
 Meta's Llama	6287
 Meta's Llama and France's Mistral	6879
+Meta's Mark Zuckerberg and Tesla's Elon Musk	14686
 Meta's Mercy Ndegwa	12104
 Meta's News Ban	13461
 Meta's News Page	13461
@@ -455,6 +474,7 @@ Meta-skill	6948
 Meta. Acrescentou	4250
 Meta. Available	13461
 Meta. Enfin	10030
+Meta. If Meta	14675
 Meta. Issue	5113
 Meta. Personal Data	5113
 Meta. Submissions	5113
@@ -465,7 +485,7 @@ MetaLanguage XML	12360
 Metabase. Through	10970
 Metabite Communications Ltd	3386
 Metabolism and Genetics Screening Unit	10188
-Metadata	1009,2852,353,920,110,2304,3801,214,291,141,365,547,343,60
+Metadata	1009,2852,353,920,110,2304,3801,214,291,141,365,547,343,60,1284
 Metadata Data Cite XML RDF	10878
 Metadata Fields	3861
 Metadata Format	11952
@@ -499,15 +519,15 @@ Meta’s Llama	8495,157
 Meta’s Llama-3	3622
 Meta’s Nigerian	6521
 Meta’s Project Waterworth	6773
-Mete Guney	4112,4982
+Mete Guney	4112,4982,5437
 Mete Saracoglu	7259
 Metekel-Zone	11004,960
-Meteo France International	11372
+Meteo France International	11372,3234
 MeteoFrance	11191
 MeteoSat Third Generation Satellite System	11966
 Meteoro-	736
 Meteorologia	11372
-Meteorological	12545
+Meteorological	12545,1864
 Meteorological Administration	13943
 Meteorological Aerodrome Report METAR	11553
 Meteorological Assistants	13365
@@ -518,7 +538,8 @@ Meteorological Department	11156
 Meteorological Dept	7548
 Meteorological Forum	13943
 Meteorological Observers Refresher Training	13062
-Meteorological Services	5643
+Meteorological Services	5643,8766
+Meteorological Services ARTICLE	14409
 Meteorological Services Department	520,12169,705,81
 Meteorological Services P3	1668
 Meteorological Services THE DCCMS Be Wise	13062
@@ -538,7 +559,7 @@ Meteorología OMS	1701
 Meteosat	12988,698
 Meteosat SEVIRI	14256
 Meteosat Second Generation	11334,2922
-Meteosat Third Generation	11291,675,1022,74
+Meteosat Third Generation	11291,675,1022,74,1460
 Meteosat-8	14256
 Meteosat-9	14256
 Meter	8018,1391,2454,1086
@@ -552,7 +573,7 @@ Meter Reading	12949
 Meter Service Providers	12062
 Metered	10654
 Metered Taxi	11573
-Metering	12062
+Metering	12062,2360
 Metering End-Use Customers	12062
 Metering Equipment	9409
 Metering Progress	12062
@@ -572,15 +593,18 @@ Method Pre-or Post- Qualificati	13938
 Method of Submittal Respond	12754
 Method of Value Access UN United Nations	13312,2
 Method of Warfare	8485
+Methode	14472
+Methodes Contraceptives de Longue Duree du Post-partum	14662
 Methodist Church	13504
-Methodological	1155,1363,6086,2531,437,761,1030,298
+Methodological	1155,1363,6086,2531,437,761,1030,298,1005
 Methodological Approach	7548
 Methodological Discussion	2518,4430
 Methodological Guide	8532
 Methodological Soundness	2775
 Methodologically	7759,207,2886
 MethodologicalstudiesonXML-baseddatabasemodelling	8606
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68
+Methodologie	14472
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,143,210,795,1,10,47,118,40,24,13,139,55,19,32,27,110,2,162,342,17,5,37,44,143,31,17,11,36,7,72,3,11,37,37,99,22,159,24,204,13,1,9,34,12,15,143,165,69,556,68,668
 Methodology AHACI	12318
 Methodology ANNEX	11156
 Methodology Business Process Used	9124
@@ -656,13 +680,15 @@ Methodology-Lead	8436
 Methodology-Supporting	8436
 Methodology. Tortoise Media	2816
 Methodology13 Overview	12227
-Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63,97,38,21,96,14,219,309,7,66,352,22,217,4,9,73,51,121,178,265,442,40,698
+Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63,97,38,21,96,14,219,309,7,66,352,22,217,4,9,73,51,121,178,265,442,40,698,543
 Methods Eighty-one	12231
 Methods First	10881
 Methods Five LIC and LMICs	771
 Methods In Cambodia	771
 Methods Phenomenological	1219
+Methods Sourcebook. Thousand Oak	14666
 Methods Study	12003
+Methods Study Type	14666
 Methods Through	12255
 Methods Value Year	13095
 Methods and Data Acquisition	12614
@@ -745,6 +771,8 @@ Metrological Verification of Measuring	11493
 Metrology	13320,65,840
 Metrology Act	13403
 Metrology Act No	1988
+Metrology and Testing	14409
+Metrology and Testing CHAPTER FOURTEEN	14409
 Metropole	8999
 Metropolitan	736,53,5262,1406,1617,2212,2265,93,570,71
 Metropolitan Assembly	7368
@@ -760,7 +788,7 @@ Mettant	7623
 Mettent	1187
 Mettez	743,6363,177,6077,15
 Mettez-les	747
-Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429
+Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1,30,8,51,1,966,111,1247,11,5,23,12,49,123,122,42,104,429,213,56,4,5,1,1,47,2,3,120
 Mettus	6107
 Mettus.Johannesburg	6107
 Metumi	12256
@@ -775,6 +803,8 @@ Minister of State for Harare Metropolitan Province Senator	13646
 Ministry of Agriculture Methodology for Data Biannual	1867
 Ministry of Health Methodology for Data Local	1867
 Ministry of Justice and Labour Relations Method	13037
+Ministry of Public Works and Meteorology	14448
+Ministry of Transport and Meteorology	14448
 Mixed Method	2948
 Mixed Methods Approach	226
 Mobile Operator Revenue Metric Q3	6000
@@ -807,16 +837,19 @@ National Institute of Meteorology and Geophysics	10763,5
 National Institute of Meteorology of Guinea-Bissau	11553
 National Meteorological Centre of South Africa	11191
 National Meteorological Centres	11191
+National Meteorological Hydrological Service of Madagascar	14448
 National Meteorological Institute INM-GB Guinea Bissau	11553
 National Meteorological Institute INMG-CV Cape Verde	11553
 National Meteorological Service	12889,476
 National Meteorological Service Act	12889
 National Meteorological Service Modernization Phase	2242
 National Meteorological Service Modernization Project	2305
+National Meteorological Service of Madagascar	14448
 National Meteorological Services	11191,362
 National Meteorological and Geophysics Institute INMG-ST São	11553
+National Meteorological and Hydrological Service	14448
 National Meteorological and Hydrological Service QMS Quality	13729
-National Meteorological and Hydrological Services	11191,1751,1161
+National Meteorological and Hydrological Services	11191,1751,1161,345
 National Metrology Institute	13320
 National Metrology Institute Zimbabwe	13320
 National Metrology Institute Zimbabwe. The NMIZ	13320
@@ -887,6 +920,7 @@ PROPOSED METHOD FOR STANDARDISING AND INTEGRATING	8606
 PS4R Assessment Methodological Framework	10841
 PSF Mettre	10965
 Palgrave Handbook of Methods for Media	11028
+Patton MQ. Qualitative Research and Evaluation Methods	14666
 Payment Methods	11877
 Payment Terms and Method	13621
 Performance Benchmarks Metric Normal Peak Conditions	11952
@@ -909,6 +943,7 @@ Precious Metals	13685
 Preparation for Use of Meteosat	11966
 Press and Meta	13462
 Primary Regulatory Metric	12882
+Principal Meteorologist	14551
 Prior Review Procurement Methods Thresholds	11855
 Process Metric Audit	4153,14,35,15,43,41,48,1003
 Process Metric Update for Q2	3972
@@ -935,6 +970,7 @@ RECOMMANDATIONS LIEES AU METFPA	2966
 REGIONAL METRO NETWORKS AND LAST MILE	11857
 RESEARCH METHODOLOGY	4972
 RESPONDENT META PLATFORMS	5113
+RESSOURCES ET RESPONSABILITES POUR METTRE EN	14425
 REUTERS Meta and Google	5401
 RISK ASSESSMENT AND SCORING METHOD	11156
 Ray-Ban Meta	5616
@@ -953,7 +989,9 @@ Red Sea. Meta	1741
 Red de Observación Meteorológica	1701
 Reference Methnani	8283
 Regional Manager of Methodist Schools	8384
+Regional Meteorological Services. DGM	14448
 Regional Meteorology Strategy and Action Plan	12942
+Regional Meteorology Training Centre	14409
 Regional Specialised Meteorological Centre	11191
 Regional Specialised Meteorological Centres	11191
 Regional Specialized Meteorological Center	11420
@@ -971,6 +1009,7 @@ Reserve Bank of India. Meta Platforms	12069
 Responsibility for Data METP	11905
 Riter Metiayim	3779
 Role of Meta Platforms	5113
+Roles and REFERENCES AND ACRONYMS Methodology of Data	14434
 Rwanda. Methodology Study	12379
 Résultat V.6 Mettre	13306
 SAMPLE KEY PROJECTS Provider Facility Metro	10861
@@ -1049,6 +1088,7 @@ Thekwini Metro	11252
 Thekwini Metropolitan Municipality	11275,68,3014
 Thekwini Metropolitan Municipality. The Regulator	14357
 Thresholds for Procurement Approaches and Methods	11525
+Tourism and Meteorology	14448
 Traditional Methods of Conflict Management and Resolutions	1248
 Training Empowers Meteorologists By Mikaïla Issa	13062
 Training and Methodologies	10776
@@ -1093,9 +1133,9 @@ Work With Other Meta	5113
 Workshop Structure and Methodology	14090
 World Food Programme Methodology	14141
 World Meteorologic	12972
-World Meteorological Organisation	12889,53,423
+World Meteorological Organisation	12889,53,423,1044
 World Meteorological Organisations’ State	1814
-World Meteorological Organization	9766,1787,1365,283,566,336
+World Meteorological Organization	9766,1787,1365,283,566,336,345,23
 World Meteorological Organization Information System	11553
 World Metrological Organisation	1814
 X Inc. and Meta	8849

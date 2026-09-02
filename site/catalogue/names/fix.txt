@@ -37,7 +37,7 @@ ENDROIT FIXE	13300
 EVOLUÇÃO DE ACESSO FIXO VIA RÁDIO	11531
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
-FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
+FBB Fixed Broadband FDI Foreign Direct	10781,80,1566,2055
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 FIXANT LES MODALITÉS DE MISE EN	10897,9
 FIXATION DES PRIORITES DE PROTECTION	10906
@@ -76,7 +76,7 @@ Fix Is Five Months Overdue	10672
 Fix Jdid	2405
 Fix Leadership Before Chasing	4942,664,283,454,183
 Fix SQL	11922
-Fixant	9080,1895
+Fixant	9080,1895,3488
 Fixar	11430
 Fixate	7751
 Fixating	9759
@@ -84,7 +84,7 @@ Fixation	13291,84,58
 Fixation des Conditions	13313
 Fixação	11518,2,1333
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49,42,49,80,58,379,165,94,2,784,170,353
 Fixed Annual	13331
 Fixed Asset	13053
 Fixed Asset Management Units	9004
@@ -177,6 +177,7 @@ Fixed Service and Incoming	3898
 Fixed Service and Wholesale Transit Revenue Fixed	3898
 Fixed Services	12949
 Fixed Solutions Internet	12769
+Fixed Spread	14430
 Fixed Telephone	2775,1
 Fixed Telephone Financial Year	12395
 Fixed Telephone Line Services	13346

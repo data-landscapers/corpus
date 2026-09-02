@@ -31,7 +31,7 @@ Ahmed Abbadi Latifa Benwakrim Lahcen Hansali	8891
 Ahmed Ben Bella Avenue Harare	12499
 Ahmed Ben Omer	1851
 Ahmed Youssouf Benjelloun	9581
-Akim Benamara	2459,608,239,78,242,125,961,281,82,362,23,101,256,101,218,65,350,582,17,538,262,7,167,1696
+Akim Benamara	2459,608,239,78,242,125,961,281,82,362,23,101,256,101,218,65,350,582,17,538,262,7,167,1696,4736,81
 Akim Benamara F	9837,45,75
 Akim Benamara F E Through the AWS	9849
 Akim Benamara IFC	7095
@@ -66,6 +66,8 @@ Aquisição de Bens	167
 Argelia BENABBES	6613
 Armand Hatchuel Ahmed Abaddi Fouad Ben	8891
 Arnold Bennett	3264
+Arriel Benis	14666
+Arriel Benis Arriel Benis	14666
 Article Topics Benin	9801
 Assia Benchabla-Queiroz	10515
 Assoc. Prof. Bennett Kankuzi	12952
@@ -96,8 +98,9 @@ BENEFICIÁRIOS	11531
 BENEFICIÁRIOS IARD	11531
 BENEFIT SCHEME Data Controller INST-716362E20BD NAKURU	7167
 BENEFIT TO EDUCATION BENEFIT TO CRVS	13681
-BENEFITS	13168
+BENEFITS	13168,1505
 BENEFITS AND POLICY FRAMEWORK Part	11179
+BENEFITS OF SECURE CROSS-	14434
 BENGA OPTIONS LIMITED Data Controller INST-535360CE478	7167
 BENGA OPTIONS LIMITED Data Processor INST-535360CE478	7167
 BENGALY	6613
@@ -182,6 +185,7 @@ Benard Rotich	12104
 Benazir Income Support Program	11468
 Benazir Income Support Programme	10985,148,9
 Bench	8978
+Bench Bulletin	14410,39
 Bench Database Exclusive Features Roadmaps Deep	9629
 Benchmark	235,1,982,771,133,3411,2015,242,733,1332,909,692,703,1151
 Benchmark Internacional	11456
@@ -244,7 +248,7 @@ Beneficial Ownership Register	7845,4463
 Beneficial Ownership Workpage	11276
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
 Beneficiam	12018
-Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455,21,60,26
+Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74,56,330,8,61,64,135,59,38,115,38,67,24,29,484,134,69,151,1,130,455,21,60,26,552
 Beneficiaries Beneficiaries Page	10964
 Beneficiaries Mohammed Chikawe	9590
 Beneficiaries National	13395
@@ -284,7 +288,7 @@ Benefit Size Erosion	10985
 Benefit-cost	12923
 Benefit-sharing	4154
 Benefiting	11156
-Benefits	395,2380,1274,105,93,55,1248,125,864,408,701,812,210,453,5,1564,21,51,28,27,10,254,57,714,1,180,110,19,47,75,3,38,1,31,14,16,8,23,32,46,41,230,154,114,63,377,147
+Benefits	395,2380,1274,105,93,55,1248,125,864,408,701,812,210,453,5,1564,21,51,28,27,10,254,57,714,1,180,110,19,47,75,3,38,1,31,14,16,8,23,32,46,41,230,154,114,63,377,147,817
 Benefits Achieved	12457
 Benefits Automation	4528
 Benefits Digital	4563
@@ -295,6 +299,7 @@ Benefits The Democratic Republic of Congo	12035
 Benefits Types of AI Challenges Best Practices	12512
 Benefits Working	1940
 Benefits and Membership	2775
+Benefits for Madagascar	14445
 Benefits for SMEs and Corporations	12022
 Benefits of AI	6948
 Benefits of ASYCUDA New Generation	13042
@@ -377,7 +382,7 @@ Benhassine	11924
 Benifei	8014
 Benign	226
 Benim	11569,124,2619
-Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89,612
+Benin	7,80,112,37,121,45,1,22,120,1,8,73,25,114,57,1,12,22,89,4,10,52,52,152,26,21,6,7,54,63,6,15,26,24,72,59,38,1,71,18,4,41,45,10,85,18,30,23,155,101,21,29,17,18,10,3,35,23,41,81,43,12,113,93,52,49,70,95,29,25,17,38,3,44,1,1,15,8,33,17,27,97,31,87,90,34,1,16,34,101,13,49,53,81,44,6,53,38,21,7,1,1,1,1,1,1,85,46,34,71,1,101,235,31,19,71,48,9,18,1,31,61,10,27,302,33,5,33,96,18,52,82,101,22,38,40,37,31,22,9,166,55,8,41,63,55,15,56,11,97,46,75,41,62,20,34,67,3,108,12,46,108,76,40,166,57,169,29,118,46,5,3,6,1,173,14,77,1,348,1,52,161,130,193,7,123,109,33,11,140,341,1,68,237,97,41,422,46,2,45,5,21,8,23,2,1,3,1,8,2,2,3,2,6,2,4,4,8,1,5,2,4,8,3,22,11,28,2,15,3,8,29,1,134,192,220,17,12,28,185,73,3,9,4,3,1,2,28,2,78,156,1,9,47,11,35,7,78,11,1,32,103,882,219,35,89,612,349,33
 Benin APDP	6202
 Benin AROUNA	6613
 Benin Accelerates Digital Transformation	3790
@@ -517,6 +522,7 @@ Benin. Tax	10856
 Benin. Tech-enabled	10887
 Benin.32	10856
 Benin19 N	10714
+BeninANIP	14711
 BeninBurundiKenyaSenegalUganda BURUNDI	13624
 Beninese	858,911,488,112,330,342,214,44,504,49,440,1948,11,164,36,565,870,1157,757,306,710,6,9,25,31
 Beninese Customs	2392
@@ -534,7 +540,8 @@ Benin’s Ministry of Foreign Affairs	4292
 Benin’s Ministry of Interior and Public Security	10822
 Benin’s MonEntreprise.bj	10887
 Benin’s SECUROUTE	10852
-Benis	2948
+Benis	2948,11718
+Benis A. One Digital Health	14666
 Benishangul Gumuz	12198,1850,48
 Benishangul Gumuz Region	13998
 Benishangul Gumz	11004,960
@@ -571,6 +578,7 @@ Benjamin Mkapa Foundation Chief Executive Officer	7321
 Benjamin Mkapa Hospital	8614
 Benjamin Mouandza	2656,1048,97,4,876,1073,6093
 Benjamin Moyo	13191
+Benjamin Nii Nai Anyetei	14690
 Benjamin Nthani GBV Chair WorldBank’sTaskTeam	13392
 Benjamin Nyakutsey	9204
 Benjamin Ofori	11699
@@ -716,6 +724,7 @@ DOCILIO JOAQUIM SEBASTIÃO FRANCISCO BENTO	10751
 Dean Bennett Appleby	7198
 Define New Areas of Benefit	12419
 Define Performance Benchmarks	11952
+Defined Benefit Schemes	14546
 Definition Beneficiary Ben	12364
 Deputado Bento Joaquim Sebastião Francisco Bento	11365
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
@@ -740,6 +749,7 @@ Dispensary. Beniseeds	11857
 Distribution of Beneficiaries	10985
 Djibouti Nigeria Benin Togo Gambia Rwanda	11002
 Docteur Younoussa Ben Imani	6068
+Dr. Joyce Bensuda	14631
 Dr. Nizar Ben Neji	2475,103
 Dubofsky Javier Stark Benjamin Cohen Latham	7198
 Dugar D. Benefits of EMR	12379
@@ -833,6 +843,7 @@ High Court Bench	13504
 Highlight Benefits	12675
 Homabay County Women Representative Hon. Bensuda	6946
 Hon. Ben Phiri	8667
+Hon. Benard Kitur	14631
 Hon. Bensuda	6946
 Honourable Anita Anand and Benin's Minister of Foreign	9043
 Hosted the CBE Beneficiaries’ Brunch	11131
@@ -886,6 +897,8 @@ Janin Benoit	7899
 Joaquina Bento	3692,1580,716
 Jorge Benício Armindo Benildo Joaquim Helena	2989
 Jospin Benameyi	3301
+Justice Benjamin RAKOTOMANDIMBY La Ministre	14463
+Justice RAKOTOMANDIMBY Benjamin Le Ministre	14483
 KG-2 Benue North	11857
 KG-3 Benue Central	11857
 KOTRA Senior Specialist Benedict Diyamett	14398
@@ -935,6 +948,7 @@ MF M F Angola Bengo	10766
 MF M F Angola Bengo Benguela	10766
 MIX BengolNet	12965
 MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	4342,9429
+MOI BENJAMIN WILLIAM MKAPA PRESIDENT PRESIDENT	14409
 MTN BENIN	10821
 MTN Benin	1970,1142,3098,4583,63
 MTN Benin Executive Director Uche Ofodile	4246
@@ -942,6 +956,7 @@ MTN Benin and Huawei	6210
 Madame Leila Benali	8891
 Malawian AI By Benson Kunchezera	10111
 Mali Guinea-Bissau Benin Niger Senegal Rwanda	10856
+Managing Director of Mac&More Solutions Mr. Benson	14555
 Mandatory Type of Information Required for Beneficial Owners	12389
 Manufacturing and Beneficiation	13320
 Marc Benioff	6265,5417,2665
@@ -963,6 +978,7 @@ Mercedes Benz E400	13096
 Meriem Benmouloud	1842,420,158,418,682,255,56,1124,2076,21
 Meriem Benmouloud. Past Achievement	2790
 Meriem Bensalah Chaqroun	8891
+Michel Benet	14605
 Migra- Gvt of Benin	10819
 Mina Rouchati Fouad Ben Seddik Lalla	8891
 Minister of Communication Technologies Nizar Ben Neji	1688
@@ -1135,6 +1151,7 @@ Província MF Angola Bengo Benguela Bié	10766
 Província Matriculados Aprovados Angola Bengo Benguela	10766
 Província Reprovados Desistidos Angola Bengo Benguela	10766
 Província Total Bengo Benguela Bié Cabinda	10757
+Public Benefit Organisations	14455
 Public Disclosure Authorized Benin Economic Governance	10870
 QCT-BENIN SPACETEL BENIN	10821
 RADIO BENAA FM	13324
@@ -1169,6 +1186,7 @@ Republic of Benin. The Authority	7452
 Resistance BCR Benefit	11417
 Responsibility for Data Collection FAS-IDL Beneficiaries	10768
 Results Report Benin Economic Governance for Service	10870
+Retirement Benefits	14546
 Retirement Benefits Authority	6938
 Reversão de Bens	11430
 Revise Beneficiaries	4653
@@ -1204,6 +1222,7 @@ STORY HIGHLIGHTSSTORY HIGHLIGHTS In Benin	6251
 Sabri Ben Hassen L’un	7032
 Safety LLM Benchmark	8204
 Salaries and Benefits	4153
+Same Services and Benefits Airtel	14637
 Saneamento de Benguela	12087
 Santos José Sambo Benjamin Langa Anésio	2989
 Save the Beneficial Owner Register for Partnership IT3	11276
@@ -1216,6 +1235,7 @@ Service Benefits and Conditions of Employment for Political	13096
 Service Level Benchmark26 Targets	970
 Shane Bentley	2626
 Shanghai Benyuan Digital Technology Co	12864
+Sharing the Data and Benefits of Public Health Surveillance	14434
 Shelter Materials Bentiu	9772
 Sidi Mohamed Ben Abdellah University	5360
 Signals Benin	4050
@@ -1247,6 +1267,7 @@ Survey of Direct Benefit Transfer Beneficiaries	11988
 System of Identification of Social Programme Beneficiaries	11133
 São Tomé Benin	11569
 TERRA BENIN	10876
+TITRE III DU REGISTRE DES BENEFICIAIRES	14418
 Tahar Benjelloun	8891
 Talib Ahmed Bensouda	10062
 Tamba Benoît Kamano	7978

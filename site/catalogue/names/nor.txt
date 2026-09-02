@@ -18,7 +18,7 @@ Africa North America	5618
 Africa. Nor	9593
 African Union EMIS Norms and Standards	13629
 African Union's EMIS Norms and Standards	12052
-Afrique du Nord	1189,1204,121,643,2002,607,314,952,623,577,659
+Afrique du Nord	1189,1204,121,643,2002,607,314,952,623,577,659,5789
 Afrique du Nord MNE Entreprises	7655
 Afrique du Nord Rapport	7655
 Afrique du Nord Safa Korti	5159
@@ -27,7 +27,7 @@ Afrique du Nord-Ouest. Ils	8002
 Afrique du Nord. C'est	5159
 Afrique du Nord. Ce	10483
 Afrique du Nord. Vodacom	6241
-Agence Djiboutienne des Normes	13843,65
+Agence Djiboutienne des Normes	13843,65,524
 Agencia de Normalización	4209
 Agriculture Régions du Nord and Rural Cameroun Development	10985
 Agência Espacial Norte-Americana	11437
@@ -64,6 +64,7 @@ BO-6 Borno North East Special Hospital	11857
 BO-7 Borno North East	11857
 Background The Governments of Eritrea and Norway	13957
 Bank of Zambia Kaplan and Norton¹	13532
+Baringo North	14478
 Bauchi North East	11857
 Bauchi North East Secondary	11857
 Beijing Normal University	10295,1378,2594
@@ -81,6 +82,7 @@ Bulawayo and Matabeleland North Provinces	13420
 Bulgaria and North Macedonia	11682
 Bungoma North Technical and Vocational College Data	7167
 Bureau Burundais de Normalisation	13433
+Bureau des Normes de Madagascar	14451
 Burundi. Sé Edouard Normand BIGENDAKO Gouverneur	13390
 Business Botswana Northern Trade Fair	12552
 Busongora County North MP	10890
@@ -156,6 +158,7 @@ Delta North	2586,5267,1131
 Departamento de Normalização	11381
 Deputy Minister of Homeland Security Hon. Norman	12291
 Deputy Northern Regional Crime Officer	10142
+Description Le Bureau des Normes de Madagascar	14451
 Description Norfund	390,320
 Description Norfund EUR	708,1,220
 Description Norfund NOK	707,221,209
@@ -197,6 +200,7 @@ Eastern Muchinga Northern Luapula Western Figure	12431
 Eastern Northern Copperbelt Western Muchinga Rural	12431
 Eastern Southern and Northern Africa	12972
 Eastern and Northern	12947
+Ecole Normale Superieure	14472
 Ecole Normale Supérieure	13364
 Ecoles Normale des Instituteurs	11905
 Ede North	10254
@@ -259,7 +263,7 @@ Gash-Barka and Northern Red Sea	13979
 Gates Foundation Norat	7065
 Ghanaian Times Northern Regional Minister	14213
 Ghana’s North	789
-Global North	571,414,5,1,2607,930,148,566,650,249,595,54,348,13,832,143,334,904,375,198,1113,93,26,921,137,285
+Global North	571,414,5,1,2607,930,148,566,650,249,595,54,348,13,832,143,334,904,375,198,1113,93,26,921,137,285,2152
 Global North Europe Asia America Latin	4972
 Global North Globally	571
 Global North-based	9739
@@ -270,6 +274,7 @@ Global North. The Georgetown Beeck Center	7921
 Global North. The Senate	3256
 Global North. While the African Union	7233
 Governance Middle East And North Africa	13861
+Government of Madagascar Normes Environnementales	14423
 Government of Northern Bahr	13276
 Government of Norway	12144,24,976,71
 Government of Norway and Irish Aid	13214,66
@@ -376,14 +381,19 @@ L Street Northwest Washington	42
 L'Afrique du Nord	5159
 LGA State Ibadan Ibadan North Oyo	11129
 Lake Victoria North	12151
+Lake Victoria North Water Service Board	14546
 Laura Starita Alexandra Norris	10977
 Laws of Northern Section	11857
+Le Bureau des Normes de Madagascar	14451
+Le Département Normalisation	14451
+Le Nord	14442
 Le Réseau Interconnecté Nord	10975
 Lead Artificial Intelligence In North Africa	6326
 Leora Klapper and Alexandra Norris	10714
 Level Seven HIS Health Normative Standards	1009
 Life Counts North	12151
 Lilongwe and Mzimba North. Thereafter	13060
+Limite Région Cental Grand Nord Diana	14622
 Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo North West Gauteng KwaZulu Natal	11211
 Limpopo and Northern Cape Departments of Health	11980
@@ -413,6 +423,7 @@ Lusaka Copperbelt Southern Central Muchinga North	12431
 Lusaka Copperbelt Southern Central North Western	12431
 Lusaka Copperbelt Southern North Central Northern	12431
 Lusaka North Southern Central Luapula Western	12431
+L’Agence Djiboutienne des Normes	14432
 M Syndicated Debt Facility Norfund	929
 M. Norrsken22 GP Lexi Novitske	1139
 MAGNUSSON NORÐDAHL	6613
@@ -426,6 +437,7 @@ Macédoine du Nord	6613
 Madagascar Norfund	390
 Madagascar. Norfund	390
 Madam Gifty Nortey	8384
+Madame RASOLONJATOVO Norovola Haritiana	14610
 Maghreb North African	2775
 Make Inclusive Data the Norm	6963
 Management Information Systems ENS EMIS Norms	13310
@@ -558,6 +570,8 @@ Norbert Zongo	2377,739
 Norbert-Zongo	6889
 Norberto Bartolomé Monsuy	7100
 Norbit Williams	10637
+NorcATEURs ScENAR	14479
+NorcATEuRs Du ScENARto DE REFERENcE	14479
 Nord Bénin	5978
 Nord Loroum	10847
 Nord Page	10876
@@ -639,6 +653,7 @@ Normalmente	1701,1115,9326
 Norman Albi	1213,1162
 Norman Baloyi	2626
 Norman Baumakwe	8660
+Norman CD	14666
 Norman Fulatila	12291
 Norman Fulatira	12187
 Norman Moleele	2360
@@ -646,6 +661,7 @@ Norman Moyo	1196
 Norman Schräpel	9632
 Norman Wisdom	13128
 Norman Wooding	7378,2777
+Norman and Skinner	14666
 Normand Bigendako	5942
 Normas	2816,3646,4321,587,78,8,99
 Normas Ambientais	6269,5121,16,7
@@ -663,10 +679,11 @@ Normative	1161,935,5355,515,311,2992,631
 Normative Anchor	5141
 Normative Framework Main	11193
 Normative Standards Framework for Interoperability	1009
-Norme	1984,9960,1397
+Norme	1984,9960,1397,1082,1,14,1
 Norme ITIE	4127,4397
 Norme Spéciale de Diffusion des Données OCDE	10874
-Normes	6959,4006,1078,1298,387,113
+Normes	6959,4006,1078,1298,387,113,582,65,1,1,132
+Normes Environnementales	14423,65,1,1
 Normes IFRS	2342
 Normes Internationales du Travail	3396
 Normes OMS	13300
@@ -707,7 +724,7 @@ Norte-Centro-Sul	11366
 Norte-Sul	11373,20
 Nortey Street	3386
 North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54,43,1,6,6,4,158,42,41,145,102,1,388,129,8,4,90,63,23,45,8,51,50,117,15,109,235,14,25,74,28,178,175,694
-North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308
+North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6,213,136,137,123,502,62,1933,308,422
 North Africa By Lina Kacyem	5159
 North Africa MTEF Medium-Term Expenditure Framework	11271
 North Africa North Africa	11964
@@ -718,7 +735,7 @@ North Africa and West Asia	4807
 North Africa. Benmouloud	2845
 North Africa. By Samira Njoya	2567
 North Africa. Recent	4084
-North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97,1869
+North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97,1869,483
 North African Power Pool	11149
 North Africa’s Digital Health Push Tunisia	7766
 North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888,367
@@ -736,7 +753,7 @@ North Borneo	2518
 North Caribbean Africa	10977
 North Caribbean Africa Saved	10977
 North Caribbean Africa Smartphone Feature	10977
-North Carolina	7479,2489,4415
+North Carolina	7479,2489,4415,303
 North Carolina. The U.S	14383
 North Center	10866
 North Central	11857,141
@@ -862,7 +879,7 @@ Northeast Nigeria. CARE. Retrieved	3456
 Northeastern	12369
 Northeastern Lusaka	12369
 Northeastern State	3426,5815
-Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934
+Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487,232,608,455,164,94,31,28,37,50,1,74,10,18,629,305,2,25,26,934,322
 Northern Africa	585,400,2172,1519,4190,641,1292,41,732,322,327
 Northern Africa and Western Africa	585
 Northern Africa and Western Asia	10846
@@ -975,7 +992,7 @@ Norway Oman Pakistan Palau Panama Papua	11765
 Norway Oman Pakistan Portugal Qatar Korea	10764
 Norway Portugal Serbia Slovenia Spain Sweden	10764
 Norway Praikat	7065
-Norway Registers Development	12675
+Norway Registers Development	12675,1791,4
 Norway and Rwanda	5175
 Norway and Switzerland	9424,2777
 Norway's Development Finance Institution	13256
@@ -998,6 +1015,7 @@ Oceania Northern	11572
 Off-Grid Solar PAYG Loan Norfund	389
 Omidyar Network and Norad	6692
 Only Western and Northern	12409
+Organisme National de Normalisation	14451
 Organismos de Normalização Sectorial	11381
 Organização Internacional de Normalização	11381
 Organizações Internacionais de Normalização	11381
@@ -1025,6 +1043,7 @@ Professor Ben Kiregyera and Dr Norah Madaya	1188
 Projecto WARDIP Guiné-Bissau NORMAS AMBIENTAIS	11542
 Projecto WARDIP Guiné-Bissau Norma Ambiental	11542
 Projet Agroforesterie Nord Congo	11897
+Projet PRODIGY Les Normes	14423
 Província Norte	11561
 Província da Lunda Norte	11460
 Províncias da Região Norte	11406
@@ -1068,6 +1087,9 @@ SR Number Northern Southern Search Search	12511
 SSIN S NOR D PLATE AU	10847
 Sahelian North	10964
 Santiago Norte	6571
+Santé Normes Environnementales	14425
+Saudi Arabia I Bahrain I North	14621
+Sava Grand Nord Est Sofia Grand	14622
 Scheme NW North West PAPI Paper	11192
 Schools North	11857
 Schools North Central	11857
@@ -1080,6 +1102,10 @@ Social Sustainability and Inclusion Middle East and North	13856
 Solar Home Systems Receivables Facility Norfund	707
 Solar Receivables Facility Norfund	928
 Solwezi and Kalumbila Districts of Northwestern	1988
+Sous Bureau Grand Nord	14622
+Sous Bureau Grand Nord Est	14622
+Sous-Bureau Grand Nord	14662
+Sous-Bureau Grand Nord-Est	14662
 South Africa Norfund	710
 South Africa North	5084,1387
 South African National Normative Standards	9969

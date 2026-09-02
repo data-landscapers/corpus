@@ -33,6 +33,7 @@ Advancing Risk Sharing and Localisation. Accessed	6947
 Advises the Minister of Local Government and Chieftainship	12686
 Afectadas PIDLCP Programa Integrado de Desenvolvimento Local	11390
 Africa Data Protection and Localisation Landscape	1243
+African Local Food Market	14712
 African. Localisation	7921
 Agencies Offices and Locations	9409
 Agencies and Local Authorities	13646
@@ -114,7 +115,9 @@ City Local Area State City Government	11129
 Coega Green Ammonia Project. Local	11226
 Cold Storage Vault Lock	12882
 Colectividades Locales	4209
+Comité Local des Achats	14622
 Comités Locaux	3396
+Commission de Reconnaissance Locale	14444
 Community and Local Government Basic Social Services	10822
 Company SLED Sustainable Local Empowerment Development	12970
 Comunidade Local	11514
@@ -147,9 +150,9 @@ DISINFORMATION IN THE LOCAL GOVERNMENT ELECTIONS	6907
 DU DÉVELOPPEMENT LOCAL ET DE L'ÉTAT	9637
 DURATION AND LOCATION OF THE ASSIGNMENT	3678
 DWELLING NOT FOUND LOCALITY NAME	582
-Data Localisation	961,5974,2815,2443,109
+Data Localisation	961,5974,2815,2443,109,2222
 Data Localisation Compliance	12193
-Data Localisation Data	12302
+Data Localisation Data	12302,2222
 Data Localisation Waiver	11995
 Data Localisation and Regional Digital Trade Nigeria	9877
 Data Localisation the Answer	7471
@@ -217,7 +220,9 @@ FAS Instituto de Desenvolvimento Local	10768
 FAS Local Development Institute	10768,607,20
 FAS38 Local Development Institute	10768
 FCT Education Secretariat and Local Government EMIS	11860
+FINANCING LOCALLY-LED CLIMATE ACTION PROGRAM	14546
 Family CR Civil Registration CSPS Local	10812
+Financing Locally Led Climate Action	14471
 Financing Locally Led Climate Action FM	2775
 Finding the Perfect Location	11546
 Fintech Reform Delivery Secretariat Locate	4848
@@ -277,6 +282,7 @@ INSTITUTO DE DESENVOLVIMENTO LOCAL-FAS	11406
 INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 INTERIOR Y CORPORACIONES LOCALES	4209
 ITU Localities	4653
+Identité Malagasy Structure Locale de Concertation Services	14425
 Ife South Local Government Area	10254
 Ikeja Local Government	11129
 Impact Assessment Ministry of Local Government	13418
@@ -286,6 +292,7 @@ Improved Local Economic Development	13418
 Improving School Location Accuracy for Connectivity	13901
 Inappropriate Locations	10049
 Inappropriate Locations The Commission	10049
+Inclusion of Local Languages	14664
 Incoming Local	3862
 Indian LoCs	11925
 Information and Communications Technology. Location	1380
@@ -318,6 +325,7 @@ Jones Gadama Hardworking Minister of Local	8667
 Journal of Local Government Research and Innovation	2948
 KII Key Informant Interview LODA Local	12328
 KPI Key Performance Indicator LGAs Local	11857
+Kacha Local Government Area of Niger State	14706
 Keep Web Traffic Local	6542
 Kehumile Moekejo Location	12564
 KenSafeSpace Local Network	7609
@@ -363,6 +371,7 @@ LOCATION OF RESPONDENTS Figure	1940
 LOCATION TRANSPARENCY TEMPLATE	6432
 LOCATION TRANSPARENCY TEMPLATE For Submission	6432
 LOGISTICS AND TIMING Location	962
+La Structure Locale de Concertation	14414
 Lagos Local Zone	10505
 Land Locked Developing Country Freedom House	9477
 Lands Tribunal. Local	12369
@@ -372,6 +381,8 @@ Laptop Lock	34
 Latitude Tx of Earth Location Freq Freq	736
 Legal Business Data Localisation	9750
 Lei Local	2816
+Lere Local Government Area	14706
+Lere Local Government Area of Kaduna	14706
 Lesedi Thatayamodimo Location	12561,11
 Lib. Secretariat Sect. Local Government Area	11129
 Libyan Local Investment	434
@@ -385,7 +396,7 @@ LocNet	8161,86,1014
 LocNet’s Africa	8161
 Locais	539,3679,7155,48,25,68,63,1197
 Locais Condicionados	539
-Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67,14,234,37,4,6,133,24,63,23,19,6,11,27,60,42,1,45,170,28,164,70,26,15,29,96,28,57,8,196
+Local	10,5,381,143,34,1,162,53,5,164,51,152,59,64,270,264,49,80,41,9,96,366,324,175,93,226,327,255,3,221,43,133,80,492,17,124,25,289,81,27,119,15,28,196,111,9,233,16,65,80,52,50,85,196,68,174,3,27,25,1,119,107,73,132,170,48,190,189,116,117,93,290,7,1,81,135,37,79,68,124,130,8,24,192,53,5,67,14,21,1,33,282,144,41,30,145,168,261,12,1,10,1,2,9,6,16,13,42,7,26,93,149,4,1,59,22,47,23,1,75,4,6,8,4,3,35,4,16,8,7,4,1,44,20,11,41,5,54,215,6,3,41,23,22,6,24,18,8,26,9,36,25,33,7,63,6,3,36,10,62,7,3,41,7,23,1,41,3,9,59,120,42,16,67,14,234,37,4,6,133,24,63,23,19,6,11,27,60,42,1,45,170,28,164,70,26,15,29,96,28,57,8,196,281
 Local AI	9921
 Local AI Ecosystem	11140
 Local Access Licence	5872
@@ -397,6 +408,7 @@ Local Administrative Entities Development Agency	431,11897,42,64,984
 Local Administrative Entities Development Agency. MODA	12403
 Local Annual Performance Assessment	12175
 Local Annual Performance Assessment LEG	12175
+Local Appropriations	14666
 Local Area Development	1867,121
 Local Area Network	10821,2156,333
 Local Area Network M&E	13956
@@ -501,7 +513,7 @@ Local First	1814,4227
 Local Forests	1988
 Local Funding	13093
 Local Governance	13969
-Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,53,173,2304,107,27,16,272,22,148,139,79,37,10,68,186,291,170,263,6,417,12,19,54,559
+Local Government	1778,210,638,1500,1407,339,1035,14,189,1261,228,53,173,2304,107,27,16,272,22,148,139,79,37,10,68,186,291,170,263,6,417,12,19,54,559,643
 Local Government Act	1988,5857,4686,15,83,277,399,34,48,16
 Local Government Act No	13387
 Local Government Act No.2	13387
@@ -553,6 +565,7 @@ Local Government Studies	5349
 Local Government Supervisor for Finance	11976
 Local Government Training Institute	10346
 Local Government Training Institute- The Ministry	10346
+Local Government Units	14634
 Local Government Wards	12064
 Local Government and Communities	11285
 Local Government and Housing	12325
@@ -593,6 +606,7 @@ Local Investors Remained Central	4972
 Local Level	11390,1941
 Local Level ART Anti-Retro Viral Therapy	12970
 Local Lifeline	6947
+Local Loan Support Fund	14546
 Local Loop Wide Area Network World	13290
 Local MSME	970
 Local Market for Cybersecurity Skills	1777
@@ -681,18 +695,21 @@ Local-Language AI	5297
 Local-Level Climate Data Available	11103
 Local-as-View	8606
 Local-currency	7260
+Local-currency ARPU	14707
 Local-language	8815,5266
 LocalNationalProvincialUnspecified Province- Any	11215
-Locale	10848
+Locale	10848,3640,1,1
 Localidade	11373
 Localidades	1526,11258
-Localisation	961,48,234,1914,691,1394,1457,236,3253,687,1,1442,1072,515
+Localisation	961,48,234,1914,691,1394,1457,236,3253,687,1,1442,1072,515,583,1,1
+Localisation Madagascar	14683
 Localisation Requirements Regular Legal	6432
 Localise	899,10958
 Localise Payments Data	6698
 Localise Traffic IN- Submarine Cable Landing	11857
 Localise Traffic the IXPs	11857
 Localised	899,11053
+Localised Repositioning Adopt	14566
 Localising	8640
 Localising Data Policies Sovereignty	4583
 Localising Public Health	12297
@@ -723,7 +740,7 @@ Localized Identify	1988
 Localized Peaks	6051
 Localized Training	12675
 Localizing	5145,2326,4276
-Locally	1554,434,1390,3543,2340,437,1065,707,700,900,148,200
+Locally	1554,434,1390,3543,2340,437,1065,707,700,900,148,200,1140
 Locally Grown Solutions	958
 Locally Led Development	9642
 Locally Registered IPR	12389
@@ -732,10 +749,10 @@ Locals	6726
 Locarno	8755
 Locarno Film Festival	8610,233
 Locate SEZs	11149
-Located	3049,171,466,3689,948,1243,1210,511,627,336,132,88
+Located	3049,171,466,3689,948,1243,1210,511,627,336,132,88,2038
 Locates	6542
 Locating	1988,1162,4254,47,1672,2006
-Location	22,12,737,227,11,234,745,320,467,226,160,422,131,68,5,741,148,296,377,351,676,562,533,214,800,241,99,14,160,124,288,35,1429,81,19,1,219,132,225,329,75,50,159,88,3,90,31,101,34,55,15,136,319,290,115,19,10,451,132,36
+Location	22,12,737,227,11,234,745,320,467,226,160,422,131,68,5,741,148,296,377,351,676,562,533,214,800,241,99,14,160,124,288,35,1429,81,19,1,219,132,225,329,75,50,159,88,3,90,31,101,34,55,15,136,319,290,115,19,10,451,132,36,398,1,1
 Location Based	11878
 Location Code	12364
 Location Data Residency Compliance	6432
@@ -767,6 +784,7 @@ Location of Work	12754
 Location-based	6593
 Location-specific AI	14081
 Location-vente Logement	13442
+Locational	14516
 Locations	775,8348,2734,519
 Locations Backu	6432
 Locations Kenya Tanzania	13669
@@ -892,6 +910,8 @@ Open Doors Locarno	8755
 Operation Location	11965
 Operational Efficiency BUSINESS ENTRY BUSINESS LOCATION	12389
 Opportunities for Local Startups Startups	12035
+Opération de Reconnaissance Locale	14444
+Opération de Reconnaissance Locale Article	14444
 Organised Local Government Act	11182
 Orolu Local Government	10049
 Os Serviços Locais	4218
@@ -919,7 +939,9 @@ Per Diem Road Traffic and Local	1988
 Performance and Data Localization Requirements	14008
 Permanent Secretary of Local Government	12338
 Permanent Secretary of Local Organize	12413
+Plan Local	14624
 Plan de Localisation Postal	10983
+Plans Locaux	14598
 Poder Local	3246,2156,4712,1322,91,34,378
 Poder Local Ministério da Agricultura	11569
 Poder X X Local	11569
@@ -957,6 +979,8 @@ REGISTER LOCAL AUTHORITY VOTERS’ REGISTER	13046
 REGULATION FOSTERING LOCAL	10861
 REPERTOIRE DES LOCALITES ET DES POPULATIONS	13890
 RESTRIÇÕES DE LOCAÇÃO DE PROPRIEDADE	11898
+Reconnaissance Locale	14444
+Reconnaissance Locale. Chaque	14444
 Regional Administration and Local Government	1261,4622
 Regional Council B Yes Local AuthorityA	12325
 Regional Councils and Local Authorities Elections	13025
@@ -1035,7 +1059,10 @@ Streets Naming and Numbering of Buildings The Local	11129
 Strengthen Local Authority Accountability	13646
 Strengthening Local Government Capacity	11285
 Structural Building Code Compliance and Coordination Local	9123
+Structure Locale de Concertation	14414
+Structure Locale de Concertation des Collectivités	14414
 Structure Share Of Locally Refined and Imported	1828
+Structures Locales de Concertation	14414
 Subcontracts Local	13037
 Subnational Locations	14058
 Subtotal Local	13037
@@ -1106,6 +1133,7 @@ Works Department The Local Government	11129
 World Bank. Local	11924
 World Local	1988
 World Local Zambia Refugee and Host Community	1988
+York City Local Law	14601
 ZNBC. Local	2707
 Zambia Local Impact Governance Activity. USAID	12369
 Zambia Police Service Local Area Network	12462

@@ -67,7 +67,7 @@ Inflation-adjustment	13332
 Inflationary	1828,9303,5,2396
 Inflow	6408
 Inflows	10841
-Influence	940,5625,744,548,164,109
+Influence	940,5625,744,548,164,109,6295,197
 Influence Index	12210
 Influence Interest Matrix	12210
 Influence National Achieve	11131
@@ -105,6 +105,7 @@ Mitigating the Malign Influence Foreign	6950
 National Consumer Price Indices and Rates of Inflation	2775
 Output and Inflation	11140
 Overall and Key COICOP Divisions Inflation	2775
+PROFIL DE LA PARTIE PRENANTE Influence	14425
 Pico de Expectativas Infladas	2816
 Policy Influence	6909
 Political Regimes and Inflows of Foreign Direct Investment	11310

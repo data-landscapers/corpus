@@ -242,7 +242,7 @@ Cochrane South Africa	396
 Code for South Africa	961
 Commission of South Africa	10729
 Common Market for East and South Africa	12286
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44,454,67,33,345,1,43,12,9,76,35,110,335,72,58,87
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18,44,454,67,33,345,1,43,12,9,76,35,110,335,72,58,87,340
 Common Market for Eastern and Southern Africa CPI	13452
 Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760,9683
@@ -250,7 +250,7 @@ Common Market for Eastern and Southern Africa's Regional	10718
 Common Market of Eastern and Southern Africa	13320
 Communication Regulators' Association of Southern Africa	26,1,1
 Communications Regulators Association of Southern Africa	11211
-Communications Regulators' Association of Southern Africa	6427,5371,1420
+Communications Regulators' Association of Southern Africa	6427,5371,1420,1296
 Communications Regulators’ Association of Southern Africa	318,5554,180,3640
 Community Networks South Africa	8161
 Community SAPS South African Police Service	11986
@@ -311,6 +311,7 @@ DPA Southern Africa Pty Ltd	1196
 DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE	11265
 DRC Equatorial Guinea Gabon South Sudan	690
 DRC and South Sudan	2928,5825
+DTC South Africa	14514
 Dagoreti South MP John Kiarie	6316
 Dagoretti South MP John Kiarie	7000,2940
 Data Intensive Research Initiative of South Africa	5246,3880
@@ -329,7 +330,7 @@ Description Vodacom South Africa	957
 Despite South Africa	11195
 Determination Officer SA South Africa	5533
 Development Bank of South Africa	6152,5137
-Development Bank of Southern Africa	927,1190,1032,2453,1413,499,3726,8,409,1261
+Development Bank of Southern Africa	927,1190,1032,2453,1413,499,3726,8,409,1261,1790
 Development Bank of Southern Africa Limited	11240
 Development Bank of Southern Africa Page	11240
 Development Bank of Southern Africa The DBSA	7514
@@ -374,7 +375,7 @@ East South Asia Sub-Saharan Africa Pacific	10977
 East and South Africa	11867
 East and South East Asia	4676
 East and Southeastern Africa	5912
-East and Southern Africa	519,745,1757,512,3404,1060,150,188,144,3388
+East and Southern Africa	519,745,1757,512,3404,1060,150,188,144,3388,2797
 East and Southern Africa Branch	12325
 East and Southern Africa Regional Branch	12325
 East and Southern Africa and Indian Ocean Region	350
@@ -393,14 +394,14 @@ Eastern Southern and Northern Africa	12972
 Eastern and South-eastern Asia. Energy	11572
 Eastern and South1-8eastern Asia	11572
 Eastern and Southern	2117,10800
-Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117,361,59,171
+Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56,303,243,324,117,361,59,171,606,2,44
 Eastern and Southern Africa Anti Money Group	13725
 Eastern and Southern Africa Anti Money Laundering	13522
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273,595,418
 Eastern and Southern Africa Economic Partnership Agreement	970
 Eastern and Southern Africa IEG Independent Evaluation	6539
 Eastern and Southern Africa MPA FINANCING DATA	3562
-Eastern and Southern Africa Multiphase Programmatic Approach	13058
+Eastern and Southern Africa Multiphase Programmatic Approach	13058,1518
 Eastern and Southern Africa Phase	13083,842
 Eastern and Southern Africa Program	1039,731
 Eastern and Southern Africa Region	989,7,12747,353
@@ -416,6 +417,7 @@ Eastern and Southern Africa. Estimated Appraisal Date	13793
 Eastern and Southern Africa. Few	7965
 Eastern and Southern Africa. MPA FINANCING DATA	11417
 Eastern and Southern Africa. The IDEA Programme	7963
+Eastern and Southern African	14628
 Eastern and Southern African Anti-Money Laundering Group	11134
 Eastern and Southern African AntiMoney Laundering Group	11131
 Eastern and Southern African Region	13459
@@ -474,6 +476,7 @@ European and Southern African	12608
 Every South African	5533,6453
 Executive Summary The South African Revenue	8670
 External Auditors Information Auditor-General South Africa	11250
+Extractives Digital Development Eastern and Southern Africa	14456
 Extractives Global Practice Eastern and Southern Africa	11380
 Eye Radio South Sudan	5428
 FAO Resilience Team Leader for Southern Africa	12507
@@ -518,6 +521,7 @@ Germany. Southern Africa Research Foundation for Artificial	2816
 Ghana Kenya Mozambique Namibia Nigeria South	5247
 Ghana and South Africa	3391,1581,1621,121,905
 Ghazal State and South Sudan	13276
+Global Digital Justice Forum and Global South	14664
 Global Fund South Africa Digital Health	7707
 Global Practice. Eastern and Southern Africa Region	12175
 Global South	226,96,249,531,1015,401,7,262,611,283,101,644,4,9,75,14,55,93,13,62,94,199,41,37,19,75,8,28,5,10,100,87,409,90,72,116,245,32,62,32,278,170,151,1,26,9,4,23,37,31,36,270,42,169,98,105,19,62,32,16,4,18,30,303,54,11,118,45,66,150,2,44,79,223,23,26,144,222,56,30,21,402,37,1,1,14,104,122,86,202,123,198,85,19,1,14,115,18,29,25,384,8,161,160,19,2,8,12,100,17,413,417,452,572,58
@@ -680,7 +684,7 @@ Igbo-Eze South LGA	6211
 Imagine Live South Africa	9196
 Inclusive Digitalisation for East and Southern Africa	7963
 Inclusive Digitalisation for Eastern and Southern Africa	10553
-Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705,2271,30
+Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705,2271,30,187,238
 Independent Communications Authority of South Africa Act	5872,1956,3407
 Independent Communications Authority of South Africa ICT	6832
 Independent Communications Authority of SouthAfrica	12325
@@ -719,10 +723,11 @@ Intelligence. Besides South Africa	5628
 Interactive Advertising Bureau South Africa	12100
 Interface ASEAN Association of Southeast Asian Nations	1243
 International ICT Policy for East and Southern	3005
-International ICT Policy for East and Southern Africa	2549,809,900,986,241,628,19,162,500,155,1,1,1467,727,792,1074,299,2003
+International ICT Policy for East and Southern Africa	2549,809,900,986,241,628,19,162,500,155,1,1,1467,727,792,1074,299,2003,1351
 International Scene Association of Southeast Asian Nations	2775
 Introduction As South Africa	7278
 Invites Stronger South African Participation	6480
+Isiolo South MP	14631
 Islands Somalia South Africa South Sudan	11765
 Ivoire and Cameroon. MTN South Africa	10739
 Ivoire. Southern Africa	4972
@@ -745,6 +750,7 @@ Kei Emmanuel Duku South Sudan	5347
 Keiyo South Constituency	6946,3367
 Keiyo South MP Gideon Kimaiyo	14222
 Kenya Nairobi Northern Nyanza South Rift	7869
+Kenya Taxation The South African Revenue	14674
 Kenya and South Africa	767,2852,240,250,334,440,1,240,787,379,303,1193,239,1608,1,105,802,59,198,342,198,902,697
 Kenya and South Africa. Lower-income Africans	6834
 Kenya and South Korea	8274,2891
@@ -759,6 +765,7 @@ LEGISLATIVE AND REGULATORY LANDSCAPE South African	11196
 LUALABA SOUTH ANGOLA ZAMBIA ATLANTIC OCEAN	11900
 Lagos and South Africa	6290
 Lake Victoria South	12151
+Lake Victoria South Water Service Board	14546
 Land Claim Commissioner SACPLAN South African	11261
 Latin America Sub-Saharan South	11004,960
 Latin American and Southeast Asian	11964
@@ -787,6 +794,7 @@ Lusaka Copperbelt Southern North Central Northern	12431
 Lusaka North Southern Central Luapula Western	12431
 Lusaka South Multi Facility Economic Zone	13561
 M LIVE IN South Asia	11004
+M South Africa	14707
 MD for South Africa	9768
 MGDR-2016-01-02-03 Law Society of South Africa	7278
 MISA Institute of Social Communication of Southern Africa	4214
@@ -797,7 +805,7 @@ MTC and Telecom Namibia. In South Africa	1986
 MTN Digital Infrastructure’s South Sudan	4069
 MTN Group of South Africa. Moov Africa	10856
 MTN SA CEO Ferdi Moolman and South	5621
-MTN South Africa	926,5925,775,112,374,297,170,649,531,469,13,498,54,4
+MTN South Africa	926,5925,775,112,374,297,170,649,531,469,13,498,54,4,3910
 MTN South Africa Foundation	7738
 MTN South Africa and ZTE Scale AI-Powered	8112
 MTN South Africa’s Facebook	8579
@@ -928,7 +936,7 @@ National Department of Health Republic of South Africa	396
 National Digital Health Strategy for South	396
 National Digital Health Strategy for South Africa	396,613
 National Electronic Media Institute of South Africa	2526,2656,6048
-National Energy Regulator of South Africa	11159,69,8,36,63,555
+National Energy Regulator of South Africa	11159,69,8,36,63,555,2783
 National Health Information System South CDC	396
 National Health Information Systems for South Africa	396
 National Library of South Africa	11237,21,28
@@ -945,7 +953,7 @@ Newsfeed The Common Market for Eastern and Southern	3737
 Next Article South Africans	6721
 Nigeria Egypt Ghana Rwanda Kenya South	11857
 Nigeria and Morocco. South Africa	6938
-Nigeria and South Africa	1162,201,1060,1436,226,65,2586,98,743,54,394,222,645,895,182,1977,264
+Nigeria and South Africa	1162,201,1060,1436,226,65,2586,98,743,54,394,222,645,895,182,1977,264,2464
 Nigeria and South Africa. Cites	990
 Nigeria and South Africa. Despite	6139
 Nigeria and South Africa. Economic	8046
@@ -993,6 +1001,7 @@ OY-3 Oyo South West	11857
 Observatory SAIAB South African Institute for Biodiversity	5246
 Observatory SAWS South African Weather Service	5246
 Occupations SACRRA South African Credit and Risk	11198
+Only South African-hosted	14455
 Onv2e0rv2i4ew of South Africa	11885
 Ookla. Republic of South Africa	9759
 Open Science for South Africa	5246
@@ -1128,6 +1137,7 @@ Republic of South Africa H.E. Mr. Jacob	11183
 Republic of South Africa PO Box	11289
 Republic of South Africa PURPOSE The System	11228
 Republic of South Africa and Chairperson	9761
+Republic of South Africa and Others	14673
 Republic of South Africa and South African	11131
 Republic of South Africa and United Nations High	5533
 Republic of South Africa. ANNEXURE D2	4896
@@ -1174,11 +1184,13 @@ SABC. South Africa	8946
 SABRIC South African Banking Risk Information	5533
 SACS South Atlantic	1011
 SACU Southern African Customs Union SADC	12951
+SADC ICT Observatory The Southern African	14504
 SADC Region and South African BRICS	11289
 SADC Southern Africa Development SAFE Simple	12376
 SADC Southern African Development Community	12786
 SADC Southern African Development Community SASRA	2775
 SADC Southern African Development Community SDGs	11960
+SADC Southern African Development Community UN	14434
 SAMCO South Africa Representation	13769
 SANAP South African National Antarctic Programme	5246
 SANBI South African National Biodiversity Institute	5246
@@ -1192,7 +1204,7 @@ SASSA South African Social Security Agency	11198
 SEA Uganda Rwanda Zambia South Sudan	10793
 SLA Service Level Agreement STATISTICS SOUTH	11192
 SMART Zambia Southern Provincial ICT Unit	7503
-SOUTH AFRICA	2660,8342,182,1048,246
+SOUTH AFRICA	2660,8342,182,1048,246,2195
 SOUTH AFRICA COMMUNICATION	3161
 SOUTH AFRICA CONCERNING COOPERATION	13673
 SOUTH AFRICA Cabinet	13673
@@ -1221,10 +1233,12 @@ SOUTH AFRICAN POLICE SERVICE KJ SITOLE	11188
 SOUTH AFRICAN PRICING	11252
 SOUTH AFRICAN REVENUE SERVICE	11240
 SOUTH AFRICAN REVENUE SERVICE R. No	11233
+SOUTH AFRICA’S DATA CENTRE LANDSCAPE Sand	14673
 SOUTH AFRICA’S INTERNET SPEED	11211
 SOUTH ASIA AND SUB-SAHARAN	10977
 SOUTHERN AFRICA FLIC-EN-FLAC	12649
 SOUTHERN AFRICA LIMITED	11240
+SOUTHERN AFRICA P510605 Estimated Appraisal	14576
 SOUTHERN AFRICA REGIONAL PROFILE	4972
 SOUTHERN AFRICA TWENTY FOURTH SUMMIT	13440
 SOUTHERN AFRICA The Land Administration Authority	12662
@@ -1280,6 +1294,7 @@ Seychelles and South Africa The Tony Blair	11894
 Shaping South Africa's AI Landscape	11265
 Sierra Leone South Sudan	14098
 Singapore and South Africa	3854,3291
+Singapore and South Korea	14674
 Sixth Southern African Development Community	12696
 Skosana PayInc PayShap South African Reserve	6286
 Slovakia Slovenia Solomon Islands Somalia South	11470
@@ -1287,10 +1302,10 @@ Social and Cultural Rights. South Sudan	3583
 Somali and Southern	12188
 Somalia and South Sudan	1216,5712,5369,1639
 Soouurrccee Tanzania South Africa	12256
-South	40,587,139,23,454,21,422,165,1732,98,490,273,231,567,360,359,425,135,72,198,41,96,32,733,433,1003,108,162,153,187,990,132,103,16,24,179,38,145,504,94,22,8,4,92,61,177,117,15,52,292,141,97,53,200,166,1,199,5,415
+South	40,587,139,23,454,21,422,165,1732,98,490,273,231,567,360,359,425,135,72,198,41,96,32,733,433,1003,108,162,153,187,990,132,103,16,24,179,38,145,504,94,22,8,4,92,61,177,117,15,52,292,141,97,53,200,166,1,199,5,415,593
 South Advisory Mission	13095
 South Afri-	11551
-South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,11,7,13,26,31,8,8,2,6,4,2,2,11,1,9,5,9,4,2,1,2,14,16,4,3,4,6,37,19,2,4,6,1,2,30,69,15,2,18,3,17,1,1,1,2,1,6,2,3,1,3,2,4,5,12,2,16,5,10,21,12,102,49,4,12,3,3,2,3,14,1,2,4,6,3,2,22,10,11,10,10,11,1,2,26,28,15,24,1,65,18,10,15,3,4,4,2,1,1,8,31,10,26,24,17,47,9,18,1,32,32,6,77,15,39,4,18,28,34,22,4,41,173,4,12,95,13,55,24,3,31,14,3,26,1,1,55,6,35,1,10,1,2,6,3,1,1,1,2
+South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,11,7,13,26,31,8,8,2,6,4,2,2,11,1,9,5,9,4,2,1,2,14,16,4,3,4,6,37,19,2,4,6,1,2,30,69,15,2,18,3,17,1,1,1,2,1,6,2,3,1,3,2,4,5,12,2,16,5,10,21,12,102,49,4,12,3,3,2,3,14,1,2,4,6,3,2,22,10,11,10,10,11,1,2,26,28,15,24,1,65,18,10,15,3,4,4,2,1,1,8,31,10,26,24,17,47,9,18,1,32,32,6,77,15,39,4,18,28,34,22,4,41,173,4,12,95,13,55,24,3,31,14,3,26,1,1,55,6,35,1,10,1,2,6,3,1,1,1,2,41,21,13,18,36,151,1,21,5,4,3,1
 South Africa ABSTRACT	8604,1
 South Africa AI	6886
 South Africa AI Artificial Intelligence API	5533
@@ -1323,6 +1338,7 @@ South Africa Connect and Broadcast Digital Migration	11230
 South Africa Country Risk Premium	4896
 South Africa Court	6472
 South Africa Data	11262
+South Africa Data Center Market	14673
 South Africa Data Governance Snapshot	5724
 South Africa David Zapolsky	7318
 South Africa Department of Higher Education and Training	9985
@@ -1338,6 +1354,7 @@ South Africa Economic Developments	11134
 South Africa Economic Impact Study	1208
 South Africa Edition	1972
 South Africa Egypt Pakistan Brazil	11857
+South Africa Email	14486
 South Africa Errol R. Francke Department	8130
 South Africa Existing	2572
 South Africa Explore New Partnerships	6480
@@ -1357,6 +1374,7 @@ South Africa IFC	1126
 South Africa Inc	11212
 South Africa Indigenous Knowledge System	5246
 South Africa Industrial and Commercial Bank of China	378
+South Africa Instarc	14700
 South Africa Integration	13869
 South Africa Introduces Mandatory	2724
 South Africa Investment Conference	4511,1110
@@ -1403,6 +1421,7 @@ South Africa Product	12972
 South Africa Project	13259
 South Africa Proparco	1553
 South Africa Protection Personal Williamson	9128
+South Africa Protection of Personal Information Act	14674
 South Africa Public Service and Administration	1009
 South Africa Publication	11226
 South Africa Ralph Mupita	5569
@@ -1416,9 +1435,11 @@ South Africa Remains the Anchor Johannesburg and Cape	6791
 South Africa Report Andrew Partridge	11195
 South Africa Reserve Bank	8268
 South Africa Results	10793
+South Africa Revenue Service Tax Statistics	14674
 South Africa Reviewed	520
 South Africa Roadmap for the Digital Transformation.pdf	3391,8549
 South Africa SANS	11269
+South Africa SUBMISSION TO THE SOUTH	14673
 South Africa School for Digital Policy	8161
 South Africa Sihle Sibiya Department of Informatics	7759
 South Africa Size	11885
@@ -1459,7 +1480,7 @@ South Africa and China	9767,2258
 South Africa and E991	13052
 South Africa and EU	11210
 South Africa and EU Member States	11210
-South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231
+South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231,2551
 South Africa and Ethiopia. The IFMIS	14185
 South Africa and Europe	2773
 South Africa and Ghana	1805,8797,1698,115
@@ -1581,7 +1602,7 @@ South Africa-China and China-Africa	10441
 South Africa-Far East	3292
 South Africa-India Business Meeting	11183
 South Africa-Zambia	11899
-South Africa-based	1134,61,1090,9,26,249,245,528,197,629,791,15,4,453,2,257,112,2,242,17,15,24,145,11,245,323,24,7,158,410,84,16,4092
+South Africa-based	1134,61,1090,9,26,249,245,528,197,629,791,15,4,453,2,257,112,2,242,17,15,24,145,11,245,323,24,7,158,410,84,16,4092,3071
 South Africa-based Fides Advisory Services	4672
 South Africa-based Netcare Health and InfiniLink	4972
 South Africa-concept. WHAT HAS CHANGED	11219
@@ -1625,6 +1646,7 @@ South Africa. Despite	5533,5662,791
 South Africa. Develop	396
 South Africa. Digital	396
 South Africa. Disability	12231
+South Africa. ELECTRICITY	14673
 South Africa. ESIM	6891
 South Africa. Econet Wireless	40
 South Africa. Egypt	3554
@@ -1638,6 +1660,7 @@ South Africa. Expansions	7179
 South Africa. Fee	6891
 South Africa. Figure	11265
 South Africa. Figures	2492
+South Africa. For South Africans	14673
 South Africa. Gauteng	11192
 South Africa. Google	13461,1
 South Africa. Governments	6791
@@ -1653,6 +1676,7 @@ South Africa. In Eswatini	11131,3
 South Africa. In Research	8603
 South Africa. In Smart	8603
 South Africa. Innovative	406,767
+South Africa. Instead	14673
 South Africa. Interested	11252
 South Africa. International	12041
 South Africa. Internationally	5246
@@ -1741,6 +1765,7 @@ South Africa. The FEP	8354
 South Africa. The HDSS	8604
 South Africa. The Inquiry	11308
 South Africa. The LEP	6720
+South Africa. The Legal Resources Centre	14673
 South Africa. The Minister of Home Affairs	11218
 South Africa. The Policy	12232
 South Africa. The Regulator	6683
@@ -1766,6 +1791,7 @@ South Africa. Within	8644
 South Africa. Work	396
 South Africa. Writing	2994
 South Africa. Your Majesties	10169
+South Africa.12	14673
 South Africa.325	13461
 South Africa.The	11232
 South Africa.md	4469
@@ -1774,7 +1800,7 @@ South AfricaAugust	7076
 South AfricaJanuary	7076
 South AfricaMs Nicole Roos	11221
 South AfricaProf. Francis Petersen	11221
-South African	78,1,299,18,148,16,126,149,126,48,13,70,48,34,22,10,1,1,35,120,41,282,9,115,102,27,1,32,25,96,22,2,34,54,74,28,45,169,3,1,14,68,14,5,34,64,213,6,1,2,2,281,35,26,264,97,63,208,15,25,123,65,106,176,10,16,3,8,42,1,71,84,65,51,41,7,52,69,41,24,8,7,12,6,10,24,63,51,16,28,4,15,65,94,13,6,94,11,7,32,19,19,6,1,74,31,73,4,12,50,61,219,44,18,1,10,6,1,23,31,79,21,1,80,13,32,47,113,49,87,24,54,5,7,8,24,1,4,45,16,2,53,5,23,58,8,6,102,25,3,3,34,21,43,22,48,26,66,25,7,1,10,15,9,140,6,2,26,51,14,6,54,65,4,34,6,1,1,1,3,8,2,1,8,1,84,1,4,27,47,55,4,6,7,21,53,21,23,7,27,18,8,36,1,63,13,20,8,3,1,2,47,18,10,101,59,1,6,10,40,18,93,24,25,62,6,2,1,1,105,16,61,63,7,115,121,46,15,20,61,4,5,1,8,112,6,1,55,8,9,1,46,43,17,7,36,11,114,96,41,72,1,28,56,18,34,6,27,14,3,154,6,7,200,109,2,14,3,14,28,1,5,1,2,3,4,3,1,2,1,10,1,1,1,6,4,6,2,3,2,5,4,1,5,2,6,4,2,1,7,3,2,1,2,4,1,1,3,1,2,2,4,10,17,10,1,155,4,7,183,82,1,15,40,17,1,55,31,2,11,9,4,8,16,9,21,18,16,6,22,152,18,88,12,201,57,66,15,56,118,17,43,10,34,3,81,83,110,26,8,2,2,190,1,704,11,48,132,8,1,13,25
+South African	78,1,299,18,148,16,126,149,126,48,13,70,48,34,22,10,1,1,35,120,41,282,9,115,102,27,1,32,25,96,22,2,34,54,74,28,45,169,3,1,14,68,14,5,34,64,213,6,1,2,2,281,35,26,264,97,63,208,15,25,123,65,106,176,10,16,3,8,42,1,71,84,65,51,41,7,52,69,41,24,8,7,12,6,10,24,63,51,16,28,4,15,65,94,13,6,94,11,7,32,19,19,6,1,74,31,73,4,12,50,61,219,44,18,1,10,6,1,23,31,79,21,1,80,13,32,47,113,49,87,24,54,5,7,8,24,1,4,45,16,2,53,5,23,58,8,6,102,25,3,3,34,21,43,22,48,26,66,25,7,1,10,15,9,140,6,2,26,51,14,6,54,65,4,34,6,1,1,1,3,8,2,1,8,1,84,1,4,27,47,55,4,6,7,21,53,21,23,7,27,18,8,36,1,63,13,20,8,3,1,2,47,18,10,101,59,1,6,10,40,18,93,24,25,62,6,2,1,1,105,16,61,63,7,115,121,46,15,20,61,4,5,1,8,112,6,1,55,8,9,1,46,43,17,7,36,11,114,96,41,72,1,28,56,18,34,6,27,14,3,154,6,7,200,109,2,14,3,14,28,1,5,1,2,3,4,3,1,2,1,10,1,1,1,6,4,6,2,3,2,5,4,1,5,2,6,4,2,1,7,3,2,1,2,4,1,1,3,1,2,2,4,10,17,10,1,155,4,7,183,82,1,15,40,17,1,55,31,2,11,9,4,8,16,9,21,18,16,6,22,152,18,88,12,201,57,66,15,56,118,17,43,10,34,3,81,83,110,26,8,2,2,190,1,704,11,48,132,8,1,13,25,269,22,13
 South African AI	2523,1989,371,3901,1137,322
 South African AI Association	11012
 South African AI Startup Verascient Raises	11128
@@ -1795,6 +1821,7 @@ South African CAPEX	9759
 South African CX	11767
 South African Centre for Industry and Technology	11221
 South African Chapter	2626
+South African Chief Revenue Officer	14700
 South African Child Gauge	11977
 South African Citizens	2115
 South African Citizenship Act	5533,6444,9
@@ -1830,6 +1857,7 @@ South African G20 Digital Economy Working	7242
 South African G20 and T20	7242
 South African GDP	1208
 South African Government	2117,560,1473,910,2218,737,3118,51,31,725,1311
+South African Government News	14673
 South African Government Publications	2948
 South African Government Search	11183,2,15,12,9,4,20,1,10,19,2,1,3,1,8
 South African Government URL	11183,2,105
@@ -1853,6 +1881,7 @@ South African Higher Education	6832
 South African Hindu Maha Sabha and Chairperson	2626
 South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536,579,2333
 South African Human Rights Commission Act	6305,4960,579
+South African Human Rights Commission URL	14673
 South African Human Rights Commission's Policy	10453
 South African Human Rights Commission. All	9234
 South African Human Rights Commission. Email	10729
@@ -1994,7 +2023,7 @@ South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,
 South African Revenue Service Act	8840,2341
 South African Revenue Service SARS	10809
 South African Revenue Service SCRA Standing	11986
-South African Revenue Services	9005,2190,1,93,708
+South African Revenue Services	9005,2190,1,93,708,2458
 South African Revenue Services The Committee	11289
 South African Rural Education	11927
 South African Rural Schools	11927
@@ -2021,6 +2050,7 @@ South African Statistics Council Foreword	11237
 South African TVET	6832
 South African Tax Administration Act	11685
 South African Theological Seminary. Ms. Dlamini	11131,3
+South African Time	14486
 South African Tourism	10058,1127
 South African Transport	11551
 South African Transport Services Act	11551
@@ -2047,7 +2077,7 @@ South African-headquartered MTN Group	2259
 South African-led	7975
 South African-owned	6980,1478,2832
 South Africanhighereducationalinstitutions	8602
-South Africans	396,148,465,931,177,190,218,1,15,85,192,15,431,54,117,487,40,558,212,40,14,231,15,28,139,127,181,26,11,73,85,106,2,62,97,85,97,1,31,13,59,113,159,142,3,226,8,150,83,41,47,26,31,19,28,176,32,30,12,58,99,13,6,1,178,25,14,40,8,107,7,36,62,84,35,21,23,11,49,9,112,20,6,13,46,4,116,57,6,77,22,59,40,12,14,56,116,7,125,209,93,6,200,76,9,47,43,127,154,114,83,154,39,419,40,4,3,1,2,13,4,15,5,2,9,16,10,2,3,3,4,5,1,18,352,230,6,44,9,37,68,62,751,400,3,191,1,806,107,15
+South Africans	396,148,465,931,177,190,218,1,15,85,192,15,431,54,117,487,40,558,212,40,14,231,15,28,139,127,181,26,11,73,85,106,2,62,97,85,97,1,31,13,59,113,159,142,3,226,8,150,83,41,47,26,31,19,28,176,32,30,12,58,99,13,6,1,178,25,14,40,8,107,7,36,62,84,35,21,23,11,49,9,112,20,6,13,46,4,116,57,6,77,22,59,40,12,14,56,116,7,125,209,93,6,200,76,9,47,43,127,154,114,83,154,39,419,40,4,3,1,2,13,4,15,5,2,9,16,10,2,3,3,4,5,1,18,352,230,6,44,9,37,68,62,751,400,3,191,1,806,107,15,283,22
 South Africans INTRODUCTION	3264
 South Africans STRATEGIC PRINCIPLES Person- Expanded	396
 South Africans. CONCLUSION Chair	3264
@@ -2177,11 +2207,13 @@ South County Competition Commission of South Business	13462
 South DHA	11986
 South Darfur	6947
 South Darfur. But for Beshara	1676
+South Durban Community Environmental Alliance and Another	14673
 South East	11998,543,19
 South East Asia	9616,1230
 South East Asia and Australia	4676
 South East Asia and South America	4676
 South East Primary Health Care Health	11857
+South Eastern Kenya University	14663
 South Ethiopia	12199,51
 South Ethiopia Regional Land Administration Bureau	12276
 South Guided	9128
@@ -2227,7 +2259,7 @@ South South South West South East	3862
 South South West	10980
 South Sub-Saharan East Asia and Europe and Latin	10977
 South Suda	11900
-South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70
+South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70,206,77,163,33
 South Sudan Air Traffic Management System	261
 South Sudan Announces	3728
 South Sudan Author	3212
@@ -2387,6 +2419,7 @@ South UTM Reference Longitude Latitude Antenna	736
 South Unguja	6728
 South Very	1938
 South Wales Digital Strategy	2566
+South Water Works Development Agency	14546
 South West	2279,40,9679
 South West Africa	7404,851,4072,40,580,12
 South West Africa Act	12327,40
@@ -2463,6 +2496,7 @@ South-to-North	6231
 South... Zimbabwean	5733
 South...Read	2302
 South32's South African	14366
+South32’s Hillside	14673
 SouthAfrica	4952,3349,301,1
 SouthAfrica ABSTRACT Digital	8603
 SouthAfrica. Alternation	8602
@@ -2486,9 +2520,9 @@ Southeast Asian Nations	11994
 Southeast Sulawesi Province	7759
 Southeastern African	3820
 Southeastern Corridor Road Asset Management Project	6523
-Southern	34,2782,865,110,637,597,222,1632,81,1151,1022,483,242,905,706,529,184,31,65,50,1,74,6,4,18,14,615,48,259,25,26,37,6,71,446,398
+Southern	34,2782,865,110,637,597,222,1632,81,1151,1022,483,242,905,706,529,184,31,65,50,1,74,6,4,18,14,615,48,259,25,26,37,6,71,446,398,146,152
 Southern Afr Bill	135
-Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68,106,29,20,4,19,29,4,9,53,18,21,7,10,4,63,15,17,25,1,9,120,133,3,16,12,9,32,13,18,54,17,12,1,24,40,31,10,81,55,20,22,8,53,26,49,14,106,4,18,107,77,461
+Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68,106,29,20,4,19,29,4,9,53,18,21,7,10,4,63,15,17,25,1,9,120,133,3,16,12,9,32,13,18,54,17,12,1,24,40,31,10,81,55,20,22,8,53,26,49,14,106,4,18,107,77,461,344,34
 Southern Africa BESS Centre of Excellence	13228
 Southern Africa Bridging the Digital Divide Reverse	12937
 Southern Africa College for Nursing ITE EDC	12975
@@ -2575,7 +2609,7 @@ Southern African Customs Union	3653,4516,2962,3,1292,172,105,405,15
 Southern African Customs Union Southern African	11131
 Southern African Development	12444
 Southern African Development Commu-	2775
-Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45,44,56,96,17,2,12,4,21,11,28,51,66,66,24,20,2,45,33,18,128,199,107,191,160,293,59,70,63
+Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45,44,56,96,17,2,12,4,21,11,28,51,66,66,24,20,2,45,33,18,128,199,107,191,160,293,59,70,63,104,80,31,20
 Southern African Development Community Accreditation Service	13601
 Southern African Development Community Agenda	12669
 Southern African Development Community Committee	12432,252
@@ -2599,6 +2633,7 @@ Southern African Journal of Accountability	9237
 Southern African Journal of Security	8022
 Southern African Kingdom	3215
 Southern African Labour and Development Research Unit	2307
+Southern African Postal Operators Association	14514
 Southern African Power Pool	9959,1057,133,1084,166,281,475
 Southern African Power Pool. Every	10169
 Southern African Programme	961
@@ -2608,7 +2643,7 @@ Southern African Research and Documentation Center	11302
 Southern African Research and Innovation Management	1554
 Southern African Science Service Centre for Climate	11407
 Southern African Subregional Office ECA-SA	12896
-Southern African Telecommunications Association	962
+Southern African Telecommunications Association	962,13552
 Southern African and African	8128,1
 Southern African and North African	6938
 Southern African-based	5957
@@ -2663,6 +2698,7 @@ Southern Sierra Leone	4114
 Southern Sudan	3583
 Southern Voice	10831
 Southern and Central	12278
+Southern and Central Floods	14674
 Southern and East Africa	8111,1788,689,205
 Southern and Eastern Africa Region The International	12968
 Southern and Eastern Africa. Lagos	9496
@@ -2706,7 +2742,7 @@ State-backed South African	6980
 Statistician-General STATISTICS SOUTH AFRICA	11258,28
 Statistician-General of South Africa Official Sign-Off	11237
 Statistics Council The South African Statistics	11237
-Statistics South Africa	2307,3276,14,209,1026,2931,4,1039,325,3,44,17,1,5,10,11,3,12,11,8,2,4,24,3,5,2,45,636,20,8,714
+Statistics South Africa	2307,3276,14,209,1026,2931,4,1039,325,3,44,17,1,5,10,11,3,12,11,8,2,4,24,3,5,2,45,636,20,8,714,1954,22
 Statistics South Africa Appendix	11286
 Statistics South Africa Hit	5597
 Statistics South Africa Minister	11178
@@ -2779,6 +2815,7 @@ Telkom South Africa	1403,3151
 Telkom South Africa Actis	1403
 Teraco’s South African	6580
 Terra Payment Services South Africa	8840
+Teso South	14478
 Through the Southern African Power Pool	10169
 Timeline of South Sudan Tech	3212
 Title MTN South Sudan	2302
@@ -2810,6 +2847,7 @@ UNESCO Supports Southern Africa	10601
 UNESCO's Head of Social and Human Sciences for Southern	13663
 UNHCR's Regional Director for Southern Africa	13009
 US Dollars and South African Rand	11134
+USAID SOUTHERN AFRICA	14434
 Uganda Rwanda Zambia South Sudan Sudan	10793
 Uganda and South Africa	11964
 Uganda and South Sudan	2928,10384,2
@@ -2892,7 +2930,7 @@ Yas Head of Region for Coast South	9590
 Yas Southern Highlands Zonal Commercial Manager	9454
 Years of Counting South Africa	11294,47
 Yesterday Statistics South Africa	10058
-Yet South Africa	10497
+Yet South Africa	10497,4176
 Yet the South African	9128
 ZTE South Africa	8112
 Zain South Sudan	5014,1860,1137

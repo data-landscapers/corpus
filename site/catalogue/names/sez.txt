@@ -14,10 +14,10 @@ Locate SEZs	11149
 Number of SEZs	10861
 SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
 SEZ Special Economic Zone SEFA Sustainable	10841
-SEZ Special Economic Zone SSA Sub-Saharan	10781,1646
+SEZ Special Economic Zone SSA Sub-Saharan	10781,1646,2055
 SEZA Sign Deal	5430
 SEZs CBZ Bank	2888,32,354,504,1444,877,6,100,680,129,293,115
 SEZs Interconnect	11906
 SEZs Special Economic Zones SITA State	11196
 SEZs for AI	12210
-Tatu City SEZ	3566
+Tatu City SEZ	3566,10941

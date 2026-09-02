@@ -14,7 +14,7 @@ Formulaires de Soumissions	13524
 Imourana Soumanou	7886
 La Soumission	13524
 Le Soumissionnaire	4342
-Les Soumissionnaires	3321,1021,4997,4228,204,516,1
+Les Soumissionnaires	3321,1021,4997,4228,204,516,1,276
 M. Soumaila Abdoul Karim	3967,22
 MFBSB. Les Soumissionnaires	4342
 Minister Mourana Soumah	5089,1769
@@ -45,6 +45,7 @@ Salissou Soumana Karimou Publié	9668
 Sekou Soumahoro	10940
 Soum le TBS	737
 Soumah	7188
+Soumah Idrissa	14660
 Soumahoro Farikou	9620,4682
 Soumana Boubacar	7333
 Soumanan Sanou	932,51
@@ -52,14 +53,15 @@ Soumayila BARA	7670
 Soumendra Sahu	5149,2239,1
 Soumet le DAO	10876
 Soumettent	10876
-Soumettre	4893,2061,1797,2125
+Soumettre	4893,2061,1797,2125,3603
 Soumettre le PTA	10876
 Soumis	10087,559,1465,1
-Soumission	10876,1167,2189
+Soumission	10876,1167,2189,305,2
 Soumission COE	10876
-Soumissionnaire	9339,1061,3124,43,63,657,1
+Soumission du Plan Biennal	14622
+Soumissionnaire	9339,1061,3124,43,63,657,1,214,62
 Soumissionnaire Prix	10400
-Soumissionnaires	3321,1021,9182,43,204
+Soumissionnaires	3321,1021,9182,43,204,793
 Soumissionnaires A. Généralités	13524
 Soumissionnaires Minimum	10876
 Soumissionnaires. Dans	13524

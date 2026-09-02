@@ -49,6 +49,8 @@ Burkina Faso. RESULTATS DEFINITIFS DU RGE	10875
 Buzz Startups VC AI DefenseTech Opinions	10068
 CARACTERIZAÇÃO DAS REGIÕES DEFINIDAS PELO PROJECTO	11390
 CFT DEFENCE	13532
+CHAPITRE II CHAMP D'APPLICATION ET DEFINITIONS	14412,1
+CHAPITRE II DES DEFINITIONS	14417
 CHAPTER Il DEFINITIONS SECTION	10974
 CHAPTER XI11 CYBER CRIME Definition Unauthorised	11179
 CNSS. RESULTATS DEFINITIFS DU RGE	10875
@@ -162,12 +164,12 @@ DEFINITION OF KEY CONCEPTS Determining	13418
 DEFINITION OF KEY TERMS USED	12939
 DEFINITION OF ORGANIZATION	13986
 DEFINITION OF PERSON WITH DISABILITY	12575
-DEFINITION OF TERMS	2776,4772,5833
+DEFINITION OF TERMS	2776,4772,5833,1143
 DEFINITION OF TERMS Administer	13310
 DEFINITION OF TERMS Average SMS	2776
 DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
 DEFINITION OF WORDS AND CONCEPTS	14004
-DEFINITIONS	34,4698,512,1663,3500,789,44,617,510,160,15,784,55,263
+DEFINITIONS	34,4698,512,1663,3500,789,44,617,510,160,15,784,55,263,786
 DEFINITIONS AND ACRONYMS	11298
 DEFINITIONS AND INTERPRETATION	28,11162
 DEFINITIONS AND INTERPRETATION Definitions	11190
@@ -178,7 +180,7 @@ DEFINITIONS AND LEGAL INTERPRETATION	3861
 DEFINITIONS AND OBJECTS OF ACT Clause	12959
 DEFINITIONS ARTICLE	12527
 DEFINITIONS Accommodation Online Marketplace	3161
-DEFINITIONS Article	10825
+DEFINITIONS Article	10825,3604
 DEFINITIONS DES TERMES Article	13828
 DEFINITIONS Deſnitions	11181
 DEFINITIONS Gender	11902
@@ -197,9 +199,11 @@ DEFINIÇÕES	11435,96
 DEFINIÇÕES Acção	11435
 DEFINIÇÕES E ABREVIATURAS	11372
 DEFIS	13433
+DES DEFINITIONS	14417
 DES DEFINITIONS Article	785,12507
 DES DEFIS TECHNIQUES MAJEURS	10273
 DES PRINCIPES DE LA DEFINITION	785
+DESIGN OR BY DEFAULT	14435
 DEffects	5349
 DG Definition	11986
 DSA. Default	13868
@@ -209,13 +213,14 @@ Data Element Definitions Data	12360
 Data Explanation Example Good Poor Definition	12360
 Data Indicator Name Definition	1284,12048
 Data Protection Defines	10819
+Data Subject DEFINITIONS SECTION	14434
 DeFacto	9601
 DeFi Decentralised Finance	8590
 DeFiLlama	11117
 Death of Member of Defence Force	12226
 DefExpo	11579
 Defamation	13739,334
-Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221
+Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50,538,60,213,221,1180
 Default Efficient Business Processes Privacy Data	12359
 Default GBB Hosting	10157
 Default Infrastructure Sharing Bring Your Own	12359
@@ -237,12 +242,14 @@ Defecação	10760
 Defect	11181,771
 Defect Liability Period. EEC	13054
 Defect Management	5665
+Defective	14422
 Defective Commodities	12900
-Defects	13385
+Defects	13385,1148
 Defeito	11461
-Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85
+Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71,139,39,66,355,68,53,468,98,85,665
 Defence AI Innovation Hub	4528,7984
 Defence Act	11289
+Defence CHAPTER TWENTY FOUR	14409
 Defence Cooperation	13562
 Defence DoJ Department of Justice DPME Department	11261
 Defence Force	13352
@@ -260,6 +267,7 @@ Defence Minister Dominic Nitiwul	8595
 Defence Minister Mr. Ambrose Lwiji Lufuma	13561
 Defence Web	9399
 Defence and Internal Affairs	1015,195,10899
+Defence and Public Safety	14664
 Defence and Security	962,698,977,2995,6122,797,29,5,1,5,15,1,51
 Defence and Security Asia	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Defence and Security Committee	8611,4280
@@ -343,7 +351,7 @@ Deficiência	10754,23,644,1399
 Deficiência Author	12797
 Deficiência O Censo	11577
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20,144,112,11,93,6,295,215,86,629,175,256,160
 Define Campaign Objectives	12675
 Define Core Principles	12675
 Define Enterprise Architecture	12359
@@ -362,6 +370,7 @@ Define the Define the Cybersecurity Implement	1777
 Define the ICT	13295
 Define the IT Strategy	12359
 Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24,134,651,270,4,554
+Defined Benefit Schemes	14546
 Defined Milestones and Timelines	12356
 Defined Standards	12419
 Defines	396,2662,7850,314,47,1658,258,200
@@ -389,8 +398,8 @@ Defining Use Cases	1009
 Defining and Measuring Artificial Intelligence	11140
 Defining the RPPI	11286
 Defining the RPPI An RPPI	11286
-Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873
-Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,16,3,8,3,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,16,7,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,4,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3
+Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332,873,1676
+Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,16,3,8,3,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,16,7,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,4,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,279,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745,2765,4,3,851
 Definitely	12214,1173
 Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29,521,9,134,246,12,557,70,17,31,5
 Definition ABIS Automated Biometric Identification System	11986
@@ -454,7 +463,7 @@ Definition of SEP Section	3161
 Definition of Sensitive Personal Data	11880
 Definition of Terms	12302
 Definition of Terms Article	12616
-Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3
+Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,66,5,9,21,18,34,37,287,119,5,6,1,3,4,10,40,8,38,32,36,12,100,21,140,1,34,243,327,10,6,1,8,15,23,99,11,3,307,213
 Definitions Artificial Intelligence	13347
 Definitions Asbestos Asbestos	1988
 Definitions CHAPTER	11255
@@ -481,6 +490,8 @@ Definitions and Legal Interpretation	3861
 Definitions and Scales Annex II	12214
 Definitions of Emerging Technologies	12210
 Definitions of Emerging Technologies Emerging	12210
+Definitions of Key Terms	14434
+Definitions of Terms	14434
 Definitions the Alternative Disputes Resolution Framework	12301
 Definitions the National	5665
 Definitions. Geneva	13300
@@ -504,6 +515,7 @@ Deforestation Rates. World Development	13624
 Deforestation Regulation	11149
 Defrauded Isma'il Bilyaminu	12038
 Defunct	13311
+Defunct Entities	14546
 Democratic Deficit	7147
 Departamento da Defesa	11405
 Department of Defence	12373
@@ -522,6 +534,7 @@ Drafting Digital Services Tax Legislation DEFINITIONS	573
 Drive SDN Software Defined Network SD-WAN	13185
 Duty The Ministry of Defence	12226
 E DEFINIÇÃO DE MERCADOS	11430
+E-Commerce Growth Defending the Bill	14631
 E-Waste Definitions Electronic	1988
 E. Concepts and Definitions F. BOS Data	12768
 E.g. Define	11004,960
@@ -559,6 +572,7 @@ Functions of Defence Forces	13501
 Functions of Defence Forces Subject	13501
 Fund Definitions	11198
 GENERAL PROVISIONS Definitions General	3714
+GENERALITES ET DEFINITIONS	14488,1,1
 GLOSSARY Term Definition Access Control Role-based	12675
 GOAL DEFINITION	899
 GUIDANCE NOTES FOR ELECTORAL PURPOSES DEFINITIONS	1630
@@ -612,10 +626,11 @@ Joint Defence Working Group	2667
 Joint Enterprise Defense Infrastructure	4259
 KDF Kenya Defense Forces KES Kenya	6432
 KENYA Goal Definition Workstreams	899
+KEY DEFINITIONS	14482
 KEY DEFINITIONS Data	10861
 KEY DEFINITIONS Key	3184,1,1340,6256,214,1432
 Kaupa Defence Minister Feston Kaupa	7870
-Kenya Defence Forces	7548,3916
+Kenya Defence Forces	7548,3916,3200
 Kenya Defence Forces AI and Emerging Technologies	7548
 Kenya Defence Forces Act	9239
 Kenya Defense	7548
@@ -648,6 +663,7 @@ Maiden Mini Defence Expo and Industry Interaction	13562
 Maio. Definição da Visão	11526
 Malawi Defence	12979
 Malawi Defence Force	7870,5190,62
+Mange Defendant	14675
 Maximize Chances of Defeating Ruto	7869
 Members of Defence Forces	12226
 Message Priorities TTC Priority Default Range	12364
@@ -663,7 +679,7 @@ Minister of State for National Defence of Guinea Bissau	11579
 Ministerio de Defensa Nacional	6841
 Ministro da Defesa Nacional	4147
 Ministry Of Defense Unveils Information Systems	5270
-Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469
+Ministry of Defence	1200,5449,1198,3284,3,794,298,448,419,469,984
 Ministry of Defence and Security	2736
 Ministry of Defense	1000,2604,9710
 Ministry of Justice. Defence	11607
@@ -720,6 +736,9 @@ PORTANT DEFINITION DES CONDITIONS DE FOURNITURE	10895,11
 PRELIMINARY PROVISIONS Definitions	12919
 PRINCIPAIS CONCEITOS E DEFINIÇÕES	10757
 PRIVACY BY DEFAULT OR DESIGN	1630
+PROTECTION POLICY DEFINITIONS CONFIDENTIALITY	14434
+PROTECTION POLICY DEFINITIONS DATA PROTECTION	14434
+PROTECTION POLICY DEFINITIONS I INTERCOUNTRY HEALTH	14434
 Pacs.010 Financial Institution Credit Default	12364
 Palakiyem Assih Named Chairman of Cyber Defense	8262
 Part D Deferral	11181
@@ -741,6 +760,7 @@ RELATÓRIO SÍNTESE DOS RESULTADOS DEFINITIVOS	4044
 RESMOV Reserve Operation Default TTC	12364
 RESULTADOS DEFINITIVOS RECENSEAMENTO GERAL DA POPULAÇÃO	11421
 RESULTATS DEFINITIFS DU RGE	10875
+REoRESSEMENT DEFIS	14479
 RGE. RESULTATS DEFINITIFS DU RGE	10875
 RTCOM Defense Falcon Eye	9068
 RTCom Defense	9068
@@ -809,17 +829,21 @@ Standardized Data Element Definitions	12360
 Subiect Data Definitions Authorisation	1009
 Summary Definition	12444
 Sustainable Development Goals. DEFINITIONS Completeness	13644
+TABLE OF CONTENTS DEFINITION OF TERMS	14524
 TABLE OF GLOSSARY Term Definition Agent	13333
 TAXATiON POLiCY Defining	961
+TITRE PREMIER DEFINITION ET CHAMPS D'APPLICATION	14408
 TRADE POLiCY Defining	961
 TTC Type TTC Code Default Range	12364
 Tackle Civil Identification Deficit	12817
 Tanzania People’s Defence Force	2867
+Tax Enhancements and Resolution of Defects	14533
 Taxonomia de Dados Públicos Quadro de Definições	11448
 Taxpayers Regarding Deferred VAT	13108
 Tech Somalia Strengthens Cyber Defenses	5338
 TechTalkThursday Why Data Refinement Could Define	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45
 Temporary Residence Definition	11986
+Term Definition Quarantine Period	14659
 Termination for Default	13185
 Terms and Definitions	14225
 Tunisia Trade Deficit Widens	7322

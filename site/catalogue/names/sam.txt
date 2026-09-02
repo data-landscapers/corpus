@@ -85,7 +85,7 @@ Dr. Samuel Mills	12534
 Dr. Samuel NGUIFFO All	10960
 Dr. William Samoei Ruto	13440
 Dworkin SL. Sample	1219
-E Sample	10781
+E Sample	10781,3701
 ECCE1 Peer Reviewers Samba Cor DIOP	11863
 EICV. Samples	12403
 EICV7. Sampling The EICV7	12403
@@ -102,7 +102,7 @@ English Sample Size	7869
 Environment Unit Team Leader Sameer Khudaroo	11332
 Estimates of Sampling Errors	13454
 Excellency Dr. Samia Suluhu Hassan	9011
-Excellency Dr. William Samoei Ruto	13440
+Excellency Dr. William Samoei Ruto	13440,1036
 Excellency President William Samoei Ruto	10313
 FAY SAMA IMPÔT	7502
 FIGUEIREDO SAMBOLO ZAI PAPELO	10751
@@ -178,6 +178,7 @@ JOSPHAT KYALO SAMMY Data Processor	7167
 JUSTIÇA NO MUNICÍPIO DA SAMBA Na	10751
 Jacques Djoli Samedi	5573
 Jean Pierre Gashami and Omar Elmi Samatar	961
+Jean-Charles Samuelian-Werve	14704
 Jennifer Samantha Lynch	11572
 Jimbo la Same Mashariki	2868
 John Samweli Malecela Grounds	9290
@@ -199,6 +200,7 @@ Kukula Capital and Samurai Incubate	12376
 LLA Chairman Samuel F. Kpakio and Commissioner	9651
 Lagos By Samuel Olomu	2825
 Le Dr Samfat	10029
+Le SAMIFIN	14549
 Liberia Plans Nationwide Same-Day National ID	14335
 Likely SAME EVENT	2953
 Limete Samedi	7216
@@ -218,6 +220,7 @@ Master Sample	11341,1062
 Master Sample Frame Update	11341
 Master Sample PSUs	12403
 Master Sample. Fieldworkers	11341
+Maître RALISON Samuel Andriamorasoa	14416,43,41,110
 Medical Record System N Sample Size	12379
 Melbourne. SAM McNEIL McNeil	8347
 Member Darren Danielle Minu Samba Team	11924
@@ -282,6 +285,7 @@ O Dr. Samuel Asare	3386
 OASIS SAML	1009
 Omar SAMB	7858
 OpenAI CEO Sam Altman	9027
+PBC PME PREA PRODIGY RGPD SAMIFIN	14549
 PSU Primary Sampling Unit Figure	582
 PUR Politique Samedi	1299
 Painting Tito Vicente Samossi Joaquim	10776
@@ -300,9 +304,9 @@ Pour M. Samuel Nouetagni	14244
 Pr Mamoudou Samassekou	8959
 Preface Mphatso Augustine Sambo	13005
 President Dr Samia Suluhu Hassan	5771,112
-President Samia	1644
+President Samia	1644,12956
 President Samia Suluhu	1644,3109
-President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989,3733,155
+President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989,3733,155,208
 President William Samoei Ruto of Kenya and Salim	1639
 Primary Sampling Units	582
 Primary Sampling Unity. RPHC	12403
@@ -322,8 +326,10 @@ Project Manager Ato Samuel Shawel	12195
 Purposeful Sampling	5349
 Qualitative Sampling	12978
 Qualitative Sampling Qualitative	12978
+Quality Assurance Sampling Multiple Indicator Cluster	14622
 Quantitative Sampling	12978
 Query Sampled Ministries	13355
+RANDRIANARISERA Samson UGD Product Owner	14539
 RDGE Samatar OMAR ELMI	13885
 Rais Samia	2718
 Rais Samia Suluhu Hassan	2718,344,1037
@@ -331,6 +337,8 @@ Reference Widiger and Samuel2005	8283
 Regaia Dundu Sambú Matilde N'Deque' Saico	11544
 Registrar Samuel Adom Botchway	3287
 Relai VHF VHF SAM-MOT-SLR-ARCEP- Conforme	998
+Republic of Kenya Hon. Dr. William Samoei	14615
+Research and Student Affairs Prof. Samuel Muriithi	14555
 Rio Tinto and Samsung	4447
 Rodrigue Charles Malanda Samba	7217
 Ruth Samati Kambali	13130
@@ -353,6 +361,7 @@ SAMALA Project	12985
 SAMANTHA	12338
 SAMAO	7670
 SAMARKAND	12565
+SAMBAVA Antenne Régionale MANAKARA Antenne Régionale	14450
 SAMBURU Kenya	7167
 SAMBURU WEST Hon. Naisula Lesuuda	10313
 SAMCO	13769,4
@@ -362,7 +371,8 @@ SAME MoU	5286
 SAMEA Biennial Conference	11224
 SAMESWERING	11190
 SAMIDRC	11289
-SAMIFIN	6938
+SAMIFIN	6938,7512,99
+SAMIFIN L’accord	14549
 SAMJ.2020.v110i1.14151	9128
 SAMJ.2026.v116i5	8301
 SAMOA Accord	3045
@@ -448,6 +458,7 @@ Sambaina	7358,1
 Sambakunsi TC	766
 Sambakunsi&volume	766
 Sambamba	6625,5018
+Sambava	14450
 Sambaza	6327
 Sambaza Facebook Twitter LinkedIn Pinterest WhatsApp	6327
 Sambaza Mchongo	9689
@@ -463,6 +474,8 @@ Samburu County	14299
 Samburu National	12151
 Samburu West	2668,7645
 Samburu West Constituency	10313
+Sambus	14706
+Sambus Geospatial Nigeria Limited	14706
 Same Again	5700
 Same CRAN	5498
 Same INS	3028
@@ -472,7 +485,9 @@ Same OVS	4772
 Same PATNUC	4764
 Same Province	11180
 Same R5.4bn SA	5810
+Same Services and Benefits Airtel	14637
 Same TechPark CV	2860
+Same Topic	14511
 Same UNDP	4579
 Same URL	9759
 Same UXP	3655
@@ -484,12 +499,14 @@ Sameer Business Park	12285
 Sameer Goyal	11136
 Sameer Industrial Park	594,11691
 Sameera Khan	12500
+Samegrelo- Zemo Svaneti State Representative and Municipal	14621
 Samendeni Disponibilité du Procès-Verbal	3396
 Samer Matta	11136
 Sametria McKinney	10764
 Samfat	6993,3036
 Samfya District	13392
 Sami Alkhair	12033
+Sami Anouar	14472
 Sami Bhattacharya	9399
 Sami Salih	14240
 Sami Tunji The Nigeria Data	8118
@@ -500,6 +517,7 @@ Samia Omar	13935
 Samia Suluhu Hassan	5783
 Samia Touchen	3520
 Samiat Akande	5281
+Saminaka	14706
 Saminas	9415
 Saminas Seyfu	9415
 Samir Amin	4258,2975
@@ -508,11 +526,12 @@ Samir Bourehil	6957
 Samira	11770
 Samira Akoudad	13824
 Samira Larbie	10630
-Samira Njoya	2303,20,26,36,13,23,9,92,20,15,11,29,20,142,32,12,66,262,123,26,182,30,7,54,77,30,47,23,41,60,40,6,28,173,135,51,113,4,281,2,155,158,62,56,167,45,123,21,54,191,96,78,60,161,282,1,26,91,73,17,67,99,68,413,171,18,182,59,71,448,4,53,88,131,48,15,69,1029,9,224,1135,178,1,185,1540
+Samira Njoya	2303,20,26,36,13,23,9,92,20,15,11,29,20,142,32,12,66,262,123,26,182,30,7,54,77,30,47,23,41,60,40,6,28,173,135,51,113,4,281,2,155,158,62,56,167,45,123,21,54,191,96,78,60,161,282,1,26,91,73,17,67,99,68,413,171,18,182,59,71,448,4,53,88,131,48,15,69,1029,9,224,1135,178,1,185,1540,1655,170
 Samira Njoya Adapted	4284,472,158,142,396,5,7,628,188,49,120,24,205,206,3,414,23
-Samira Njoya Date	2257,66,26,72,101,35,11,166,25,1,43,66,5,257,68,81,182,30,7,54,107,211,6,407,93,219,160,4,127,27,125,132,136,144,1,5,7,41,51,236,78,221,189,94,75,24,411,178,400,26,54,40,599,53,1727,1021,3264
+Samira Njoya Date	2257,66,26,72,101,35,11,166,25,1,43,66,5,257,68,81,182,30,7,54,107,211,6,407,93,219,160,4,127,27,125,132,136,144,1,5,7,41,51,236,78,221,189,94,75,24,411,178,400,26,54,40,599,53,1727,1021,3264,295,11,108
 Samira Njoya Edité	2874,2297
 Samira Njoya Lire	7399,18,45,40,40,2182,16,18,90,93,20,882,3560
+Samira Njoya SALES	14544
 Samira Njoya Tarik Dadi Combats Health	4626
 Samira Njoya Un	13282
 Samira Njoya. Adapted	3968,628,114,50,202,528,66,10,286,67,52,140,93,595,55,162,154
@@ -534,7 +553,7 @@ Sammy Gyamfi and NDC	10523
 Sammy Masibo Digital Health Specialist	9855
 Samo Gudo	12815
 Samoa	7060,3725,824,1433,128,2
-Samoa Agreement	13156,14,826
+Samoa Agreement	13156,14,826,632
 Samoa Civil Registry	10714
 Samoa Global Cybersecurity Index	10764
 Samoa Rapid	226
@@ -558,6 +577,7 @@ Sampa	13387
 Sampa. And the Ministry	12416
 Sampaka	4209
 Sampaka-Malabo Malabo	4209
+Sampandraharaha	14450
 Sampay and SendHome. Using SendHome	11899
 Sample	418,794,7,42,1923,1,200,406,70,224,440,1154,2309,614,1,2,524,416,1267,183,141,123,10,27,109,180,283,270,229,12,48,551,440
 Sample AI Governance Assessment Template	6442
@@ -574,6 +594,7 @@ Sample Form of Evaluation Report	11525
 Sample Key Target	12444
 Sample Key Target Launch	12444
 Sample Letter of Presentation	7368
+Sample Madagascar	14482
 Sample Nigeria	4525
 Sample Repository	7988
 Sample Rwanda	12427
@@ -594,6 +615,7 @@ Sampling Frame	10862,1547,36,973
 Sampling Note	10862,114,898,7,1,464
 Sampling Note-Consolidated-2-16-22.pdf	10862
 Sampling PAGE	2775
+Sampling Purposive	14666
 Sampling Sampling Procedure	13084,675
 Sampling Sampling Procedure The WBES	10862
 Sampling Selecting	11258
@@ -618,7 +640,7 @@ Samson Itodo	10054
 Samson Kasuka	10718
 Samson Wanjala Clinic Data Controller	7167
 Samson Wanjala Clinic Data Processor	7167
-Samsung	2518,3423,67,585,2582,274,234,310,216,280,867,1513,394,1128
+Samsung	2518,3423,67,585,2582,274,234,310,216,280,867,1513,394,1128,260
 Samsung A07	10209
 Samsung Foundry and Global Foundry	9629
 Samsung Pay	13452
@@ -633,6 +655,7 @@ Samsung and SK Hynix	10201
 Samtani	8022
 Samtral Technologie J. Sarl Traitement	10821
 Samuel	4514,192,2140,6582
+Samuel ANDRIAMBOLAMANITRA	14527
 Samuel Adom Botchway	3287
 Samuel Alemayehu	7151
 Samuel Andati	6946
@@ -657,6 +680,7 @@ Samuel Motey	236
 Samuel Muhizi	13530
 Samuel Mungadze	6238,618,1318,1178,435
 Samuel Mungadze Surging	10739
+Samuel Muriithi	14555
 Samuel Mutale Senior Planner	13392
 Samuel Nacoulma	10546
 Samuel Nartey George	2338,376,515,21,809,1105,55,8,71,221,13,169,231,14,24,206,66,109,717,90,214,1,914,76,2,183,200,19,180,590,580
@@ -675,6 +699,7 @@ Samuel Owusu Yeboah	7286
 Samuel Sarpong	10249
 Samuel Tew	10764
 Samuel W. Ugwumba	6521
+Samuel Wambugu	14434
 Samuel da Costa Francisco	11391
 SamuelNduw	12478
 Samuele Fratini	5242
@@ -707,12 +732,14 @@ Strategy By Samira Njoya	2845
 Strategy II Ahead of Formal Adoption Samuel	9730
 Strategy. Samuel Cole	10345
 Study Population and Sample Size	10919
+Study Population and Sampling Target Population	14666
 Swayam Sampurna Farmer Producer Organisation	7151
 Taimur Samad	6871,4434,181
 Tanzania Dkt. Samia Suluhu Hassan	1921
 Tanzanian President Samia Suluhu Hassan	9350
 Tbps Sample Ghana	3184
 Technical Director Sam Kummary	2537
+Technopolis Group M. Sami ANOUAR	14472
 Telegram Sambaza	6327
 Tendai S. Samusodza	8130
 Tendai S. Samusodza Department of Information Technology	8130

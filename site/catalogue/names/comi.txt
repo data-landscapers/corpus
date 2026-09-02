@@ -33,6 +33,7 @@ CONSEIL DES MINISTRES COMITE D’OCROIEM NTITAETION	10876
 CP Comité de Pilotage CTS Comité Technique	13341
 CROSS-BORDER DATA FLOWS AND INTERNATIONAL COMITY	3861
 CRR Comissão de Resolução de Reclamações CRVS Registo	11390
+CSI Comité	14437
 CT Comité Tarifaire DPDC Dibamba Power	10975
 Cables Are Coming	2677
 Celador Comisario Grupo D Coordinador Grupo	4209
@@ -180,15 +181,16 @@ Comissões de Trabalho	11452
 Comissões de Trabalho Especializadas	539,5252,3089,2582
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Comite Nacional de Inclusao Financeira	2138
+Comite de Pilotage DAAF	14472
 Comite de Pilotage Unique	10829
 Comite de Satélite	1215
 Comites	13292
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82,56,69,39,37,55,11,2,31,1257,6,35,49,43,9,10,16,167,72,74,46,596,1,26,33,55,41
 Comité CPIM	13468
 Comité Central	11045
 Comité Cette	10975
 Comité Científico	10487,3728
-Comité Consultatif	13728
+Comité Consultatif	13728,722
 Comité Consultatif Communautaire	2342
 Comité Consultatif des Consommateurs	10975
 Comité Consultatif des Partenaires Techniques	11944
@@ -202,6 +204,8 @@ Comité Especial	1701
 Comité Estratégico	11569
 Comité Executivo	11531
 Comité Inter-États de Lutte	10874
+Comité Le Comité	14483
+Comité Local des Achats	14622
 Comité Ministériel	8328,3616
 Comité Nacional	9065
 Comité Nacional Derechos	4209
@@ -216,7 +220,7 @@ Comité Nacional de Registo Civil	11537
 Comité Nacional de Seguridad	4209
 Comité Nacional de Transporte	4209
 Comité Nacional de Turismo	4209
-Comité National	2625,8294,21,2360,23,11,108
+Comité National	2625,8294,21,2360,23,11,108,996,1
 Comité National Economique	10965
 Comité National de Digitalisation des Ser-	13341
 Comité National de Suivi du RGE	10875
@@ -226,12 +230,14 @@ Comité Permanent	13442
 Comité Presidencial	11461
 Comité Produire	10975
 Comité Régional de Normalisation Financière	9177
+Comité Sectoriel	14438,1
 Comité Sous-préfectoral de Gestion Foncière Rurale	10936
 Comité Stratégie. de Pilotage	10965
 Comité Stratégique	822
 Comité Stratégique DAF	10874
+Comité TITRE IM	14483
 Comité Tarifaire	10975
-Comité Technique	3396,1739,2029,4780,1356,23,18
+Comité Technique	3396,1739,2029,4780,1356,23,18,1147,1,1
 Comité Technique Consultatif	1005
 Comité Technique National du RGE	10875
 Comité Technique Rôle	12043
@@ -252,10 +258,13 @@ Comité de Direcção	8594
 Comité de Direção	11542
 Comité de Estado	11527
 Comité de Facilitation	5993
+Comité de Gestion	14424,1
 Comité de Gestion des Etablissements Scolaires CE1	10847
+Comité de Gestion des Plaintes	14425
+Comité de Gouvernance	14483
 Comité de Iniciativa Nacional de IA	3519
 Comité de Liaison	4276
-Comité de Pilotage	235,6929,561,1681,994,312,117,73,63,979,29,70,1247,10,41
+Comité de Pilotage	235,6929,561,1681,994,312,117,73,63,979,29,70,1247,10,41,1070,39,126
 Comité de Pilotage CPSD Cadre	13306
 Comité de Pilotage Le Comité de Pilotage du PDDSP	13341
 Comité de Pilotage N	13390
@@ -274,6 +283,7 @@ Comité de Politique	2623
 Comité de Politique Monétaire	8316
 Comité de Preços	1215,10215
 Comité de Programas Estadísticos	14215
+Comité de Renforcement du Système de Santé	14622
 Comité de Resolução de Reclamações	11390
 Comité de Restructuration	2342
 Comité de Régulation	13433
@@ -294,6 +304,7 @@ Comités Nationaux Economiques	11944
 Comités Nationaux de Suivi	11944
 Comités Nationaux de Suivi de Mise	11944
 Comités Provinciais	10752
+Comités Sectoriels	14438
 Comités Techniques de Normalisation	13908
 Comités de Filières Stratégiques	13260
 Comités de Vigilancia	4209
@@ -319,7 +330,9 @@ Cross-Border Data Flows and International Comity	3861
 Células Sectoriales Comisión Nacional de Coordinación	4209
 D.C. Comité National Economique	1828
 Dados Comissão de Acompanhamento	10766
+District CIREF Comité	14423
 Données Intégré National CNDSP Comité National	13341
+Du Comité	14483
 Du Comité National	13323
 Du Comité de Direction Article	13334
 El Comité Técnico Multisectorial	14181
@@ -340,14 +353,15 @@ III.1.1.3 Comité	10876
 Interfaces Service Comité	10876
 KANEKO Kayo COMITÉ TECHNIQUE Mr HABIMANA	13300
 La Comisión	4209
-Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664
+Le Comite Technique	14562
+Le Comité	735,2320,4837,64,2870,48,2,26,1141,1664,717,1,58
 Le Comité National	13323
 Le Comité National de Suivi	11944
 Le Comité Technique	11944,1379
 Le Comité Technique Le Comité Technique	11944
 Le Comité Technique de Coordination	10712
 Le Comité de Concertation des Partenaires Techniques	11944
-Le Comité de Pilotage	9406,1306,190,63,979
+Le Comité de Pilotage	9406,1306,190,63,979,2518
 Le Comité de Pilotage Le Comité de Pilotage	11944
 Le Comité de Pilotage Open Data	9406
 Le Comité des Affaires Monétaires	7956
@@ -363,6 +377,7 @@ MEMBRES DES COMITÉS D’AUDIT ET	2342
 Marshall McLuhan Saw Coming Marshall	8380
 Mobile App Coming Soon	5817
 Monitorização CoTéc Comité Técnico CONFEMEN Conferência	11557
+Moyen Terme Comité de Gestion des Plaintes Commune	14425
 NIYUKURI Jeanine COMITÉ DE PILOTAGE	13300
 National Electoral Comission	11909
 Nationale Indépendante Comité International	13442
@@ -390,7 +405,7 @@ Presidente da Comissão de Trabalho Especializada	539
 Primera Teniente de Navío Alférez de Navío Comisario	4209
 Projecto WARDIP Guiné-Bissau O Comitê Técnico	11542
 Proyecto Comisión Nacional de Codificación	4209
-Président du Comité	8269,2004
+Président du Comité	8269,2004,4189
 Président du Comité National de Politique	10500
 Président du Comité Technique Sectoriel TIC	13290
 Prévoyance Sociale CNEF Comité National Economique	11944
@@ -399,9 +414,11 @@ Rede Lusófona de Proteção de Dados A Comissão	3079
 Regional and International Comity	3861
 Remontée des Comité	11944
 Representantes da Comissão Intersectorial	10752
+Reunion du Comite Technique	14562
 Revue Comité	12043
 Règles de Fonctionnement du Comité National	2625
 République. Le Comité de Ministère	13433
+Réunion du Comité	14579
 Réunion du Comité Exécutif. L’ARSEL	10975
 Réunions du Comité Exécutif	13518
 SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
@@ -433,3 +450,4 @@ Transformação Digital da Comissão Economica	12799
 Travail Comité National de Coordination	3396
 Un Comité	13292
 Un Comité de Pilotage	9406
+Vice-président du Comité	14462

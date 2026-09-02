@@ -10,6 +10,7 @@ American Low Earth Orbit	4990
 Annual Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Artificial Intelligence for Low Income Countries	11140
 B. Lower Value Accounts	11233
+B.1.6 Low-Earth Orbit and Direct-2-Device	14674
 BEAC Lowers	10841
 Bank-Fund Debt Sustainability Framework for Low Income	10997
 Basket Low	12395
@@ -103,6 +104,9 @@ LOWEST RATES OF ELECTRIFICATION	11572
 LV Low Voltage M&E Monitoring and Evaluation	12399
 Lack of Insufficient Low	12241
 Long Term Mean LVSR Low Volume	2775
+Low ARPU	14621
+Low Absorption of Project Funds	14546
+Low Absorption of Project Funds The Republic	14546
 Low Access	12214
 Low BR	12250
 Low Bandwidth English	9429
@@ -140,9 +144,12 @@ Low Levels Of ICT National Postal	12395
 Low LoA	10819
 Low Low Low Low High	12006
 Low Low None Rehost	6432
+Low Medium High	14443
 Low Medium High Impacts	12253
+Low Mitigation	14443
 Low Moderate	1938
 Low Moderate Moderate Moderate Institutional Capacity	12440
+Low Monitoring and Early Warning Systems	14443
 Low NRIS	13005
 Low Noise Block	6482
 Low OGDI	11569
@@ -182,7 +189,7 @@ Low-Carbon Economy	11332
 Low-Carbon Economy Project Manager Fauziatu Ahmed	11332
 Low-Cost Legal Assistance Offered	12389
 Low-Earth	5060,3885
-Low-Earth Orbit	5245
+Low-Earth Orbit	5245,9429
 Low-Earth Orbit Satellites	3063
 Low-Earth-Orbit	11776
 Low-Impact	5665
@@ -190,26 +197,28 @@ Low-Income Countries	1828,4490,7306,61
 Low-Income Country	14043
 Low-Income Country Debt Sustainability Framework	3604
 Low-Medium	6432
+Low-Medium Income Country	14666
 Low-Middle Income Countries	6948
 Low-Resource African Settings	9456
 Low-Risk Systems	5665
 Low-Tech Interfaces	4625
 Low-Value Payment Systems	13388
 Low-and-Middle-Income-Countries	11990
-Low-band	5675,918
+Low-band	5675,918,8081
 Low-bandwidth	5513
 Low-carbon	10969,915,1,10,264,1,44,1,146,45,91
 Low-carbon Strengths Rank Code	12205
 Low-code	11133
 Low-degree	10726
 Low-demand	11572
+Low-impact AI	14565
 Low-income	4049,683,6031,1,65,306,1069,1,1,163
 Low-income Fitted	12205
 Low-maturity	12050
 Low-quality	1243
 Low-resource	7790
-Low-risk	14291
-Low-risk AI	7548
+Low-risk	14291,274
+Low-risk AI	7548,7017
 Low-skilled	11905
 Low-technology	11149
 Low-trust	11156
@@ -227,6 +236,7 @@ Low. The Environmental and Social Systems Assessment	12176
 Low. Track II	12669
 Lowell. Chris	10794
 Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83,30,165,2,48,64,221,94,9,312,1,10,23,76,4,161,1,45,146,4,28,13,15,2,74,368,455,36,42,236,80,164,6
+Lower ARPU	14707
 Lower Casamance. Project	5056
 Lower Cost	582
 Lower Costs	6318
@@ -332,12 +342,14 @@ Post-primary Lower	12413
 Program Substantial Substantial Substantial Low Low	12440
 Protocol LLD Low Level Design MDAs	13185
 QUALITATIVE RATING Low	11156
+Quality of Service. Low-Earth Orbit and Direct-2-Device	14674
 REMARKS TYPE OF CYBER BREACH Low	1938
 Ramana GCF Low-Carbon Economy Project Coordinator	11332
 Rapid Urbanization and Low Population Density	12399
 Reduces Low	12444
 Responses Country Specific Medium High Lower	13868
 Reverse Low Libido	5574,215
+Risk-Based Indicative Low-risk Medium- Governance Model	14565
 SADC Low Value Retail Payment System	492
 SC.KE Lower and Middle Level Institutions	6946
 SDN MDG SOM COM Low	6593
@@ -363,6 +375,7 @@ System LIC Low Income Countries LMIC	771
 Systemic Lower	12214
 Time Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Truecaller Reports Lower Q2 Sales	7427
+USE OF ARTIFICIAL INTELLIGENCE Low-risk	14565
 Ultra-Reliable Low-Latency Communications	5675
 Undersea Optical Transmission System Employing Low	4676
 Union. Low	3583

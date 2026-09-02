@@ -13,6 +13,7 @@ Ensure XML	12360
 Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
 Especificação Técnica Gerador XML V07.pdf DPR	12018
 Estrutura XML	12018
+Format XML	14483
 IEC Secure XML	12360
 ISO XML Data Transformation Xpath W3C	12360
 Introduction The XMUVI	11258
@@ -38,6 +39,7 @@ South African XMUVI	11258
 South African XMUVI Table	11258
 Standardised XML Phase	8606
 Statistics South Africa. The XMUVI	11258
+Unité de Gouvernance Digitale XML	14438
 Use XML Metadata Interchange	12360
 W3C XML	1009
 WAF Web Application Firewall XML	6432
@@ -140,6 +142,7 @@ XML and Kotlin	3851
 XML-REG	8606
 XML-REGapproachusesanefficientmappingschema	8606
 XML-based	12000
+XML. L'Administration	14483
 XML1contains	8606
 XML2 XML1 XML3 DOM	8606
 XML2contains	8606

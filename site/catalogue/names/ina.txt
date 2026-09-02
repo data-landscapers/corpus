@@ -72,6 +72,7 @@ INAMAHOROMaggy Gynèse	13390
 INAMET	13,1688,7339,1723,609,24,1,40,42
 INAMet	11553
 INAPEM	2573
+INARISON	14479
 INAS Management Information System	12781,51
 INAS Registry	12781
 INAS Social Registry	12781
@@ -89,8 +90,12 @@ INSD Inadéquation	10874
 Inability	961,3478,409,4129,1852,327,830,255,723,116,15
 Inable and Inclusive	11332
 Inaccessibility and Low Maintenance of Medical Data Archive	6948
-Inaccessibilité	3396
+Inaccessibilité	3396,11141
 Inaccessible	7532
+Inaccuracies	14546
+Inaccuracy	14546
+Inaccuracy of Cash and Cash Equivalents Balance	14546
+Inaccuracy of Current Liabilities Balances	14546
 Inaccurate	11142
 Inaccurate AI	6948
 Inaccurate Personal Data	11956
@@ -103,10 +108,14 @@ Inactive NEET	11581
 Inactivity	11296
 Inaddition	8602
 Inadeinxg	11152
+Inadequacies	14546
 Inadequacy	10829,2485
-Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80
+Inadequate	173,222,371,174,18,3,200,100,567,1755,1950,2015,888,235,1146,295,438,262,164,157,55,42,1,21,149,68,83,322,7,26,53,26,165,59,36,7,2,2,89,10,89,229,243,45,2,8,65,2,3,38,15,200,19,45,61,637,80,409
+Inadequate Awareness of PPP Activities	14546
 Inadequate Commercial Electricity	13295
 Inadequate Compromise	12241
+Inadequate Control	14546
+Inadequate Counterpart Funding The Government of Kenya	14546
 Inadequate Coverage and Adequacy of Social Protection	12373
 Inadequate Digital Infrastructures Digital	12674
 Inadequate Digital Literacy	11400
@@ -115,10 +124,12 @@ Inadequate HR	12255
 Inadequate ICT	395,563,290,11002,1045
 Inadequate Incident Detection and Response Capabilities	5677
 Inadequate Limited	12241
+Inadequate Monitoring and Evaluation	14546
 Inadequate Resources	11289
 Inadequate Resources for Implementing the Strategy	940
 Inadequate Significantly	11252
 Inadequate Staff	13005
+Inadequate Staffing Review	14546
 Inadequate Technical Support for Digital Program Evaluations	12214
 Inadequately	11874,7,1
 Inadequação	10783
@@ -126,6 +137,7 @@ Inadmissibility	12389
 Inadéquation	10874
 Inaelezwa	7250
 Inajih Maelainie	8891
+Inakuja	14511
 Inalienability	12648
 Inaltérable	10387
 Inama	1214,12089,20
@@ -167,7 +179,7 @@ Inaugural Western Cape Infrastructure Ministerial	8564
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
 Inaugurar Múltiples Nacional	4209
 Inaugurated	2356,501,604,3175
-Inauguration	1189,1153,1991,469,8317
+Inauguration	1189,1153,1991,469,8317,1498
 Inauguration du HUB	2370
 Inauguration of Mankantimane Suspended Foot Bridge	12977
 Inauguration of Rubavu Electricity Distribution Network	12429
@@ -210,6 +222,7 @@ PIU INAGE	2989
 PIU PIU PIU INAGE	2989
 Período de Inalterabilidade Os	11528
 Poliomielite Inactivada The Washington Group	10777
+Potentially Inappropriate Prescribing	14622
 Presidency FG Inaugurates Presidential Committee	2934
 Presidential Inauguration	11230
 Promulgue Inama Nshingamateka	13323

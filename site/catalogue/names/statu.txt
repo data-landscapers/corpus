@@ -24,7 +24,7 @@ Despite the Statutory Instruments Act	11
 Draft Health Data Statutory	13430
 Détermination du Statut de Réfugié	13360
 Electronic Regulation Statutory	12366
-Evidence of Statutory Deductions	12323
+Evidence of Statutory Deductions	12323,2180
 Exercise of Statutory Authority	12537
 Existing Statutes and Alignment Proposals	7548
 Existing Statutes and Alignment Proposals Fundamentally	7548
@@ -53,6 +53,7 @@ PILIER III Statut	13433
 PINAUD Clara Statut	10880
 Producer Responsibility Statutory	1988
 Public Service Regulations Statutory	13310
+RAM Statut	14622
 Regulation and Statutes	958
 Reviewing Draft Health Data Statutory	13430
 Rome Statute	3583
@@ -70,21 +71,23 @@ Social and Criminal Statute	10765,10
 Special Statutory Mandate None	10738
 Statuer	10876,2905
 Statues	4896
-Statut	643,94,28,422,1621,2553,880,1602,2974,24,1,33,1,99,701,1615,9,25,9,56,43,9,290,49
+Statut	643,94,28,422,1621,2553,880,1602,2974,24,1,33,1,99,701,1615,9,25,9,56,43,9,290,49,699,57,85
 Statut Branche Formel Informel Total Activités	10875
 Statut Demandeur M5	998
 Statut Effectif Pourcentage Rural Etablissement	10875
 Statut Général	548
 Statut Général des Etablissements	10975
 Statut Général des Etablissements Publics	10975,6
-Statut Général des Fonctionnaires	13937
+Statut Général des Fonctionnaires	13937,494
+Statut Général des Fonctionnaires. Ces	14537
 Statut Responsable Des	2966
 Statut Responsable Recommandations	2966
+Statut des Agents Non Encadrés	14431
 Statut des Réfugiés Convention	13442
 Statut des Réfugiés Protocole	13442
 Statut. Pour	6954
-Statute	6626,922,3217,10
-Statute Law	12139
+Statute	6626,922,3217,10,3749
+Statute Law	12139,2271
 Statutes	2307,2589,2042,1838
 Statutes and Regulations of South Africa	11177
 Statutes of South Africa	11177
@@ -108,6 +111,8 @@ Statutory Instrument No.28	1988
 Statutory Instrument Number	8549
 Statutory Instrument Numbers	13591
 Statutory Instruments	22,1966,359,10973,67,139
+Statutory Instruments Act	14594
+Statutory Instruments Act. STATEMENT ON WHETHER	14594
 Statutory Instruments GOVERNMENT OF ZAMBIA STATUTORY	22
 Statutory Instruments Regulations	6946
 Statutory Law	3861

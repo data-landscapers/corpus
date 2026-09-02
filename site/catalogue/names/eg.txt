@@ -53,6 +53,7 @@ Biometric Update Egypt	5342
 Bolivarian Republic of High EGDI M-OSI H-HcI	10840
 Bridgetown High EGDI H3	10840
 Bua River Conclusion EGENCO	13241
+Businessmen EG Businessmen Team	14657
 CEMAC GIMAC RTGS System EG-ACH InstaPay	6938
 CEO of Huawei Cloud Egypt	6653
 CEO of Vodafone Egypt	5052
@@ -88,7 +89,7 @@ Daily News Egypt	3451
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Data Protection. Egypt	4590
 De Guatemala High EGDI H2	10840
-Decade EGMRG Victoria Falls	13220,458
+Decade EGMRG Victoria Falls	13220,458,977
 Decade. EGMRG Victoria Falls	12761
 Defense and Security Wings EGD	12453
 Denmark Egypt Estonia Finland France Germany	10764
@@ -146,12 +147,14 @@ EGERTON UNIVERSITY Data Processor INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY GRADE I-IV STAFF RETIREMENT	7167
 EGERTON UNIVERSITY SACCO SOCIETY LIMITED Data	7167
 EGFAE	4260
+EGH Cabinet Secretary Ministry of Environment	14471
 EGH Cabinet Secretary Ministry of Information	6432
 EGH Expert Group	582
 EGH PRIME CABINET SECRETARY	4153
 EGH and EGTI	11424
 EGHAM	2816
 EGI Phase V	1089,194
+EGIE DU REDR PTAN D'ACTION L2	14479
 EGIPTO	4209
 EGM SECURITIES LIMITED Data Controller INST-669464C555C	7167
 EGM of Econet Wireless Zimbabwe Limited	4896
@@ -160,7 +163,7 @@ EGM. Attendance	4896
 EGM. Because the Company	8939
 EGM. Econet	4896
 EGMA Early Grade Maths Assessment EGRA	13310
-EGMRG	11479,1,584,697,459,457,1
+EGMRG	11479,1,584,697,459,457,1,977
 EGNOS	466
 EGOV DIVISION	13347
 EGOV Division	13347
@@ -212,7 +215,8 @@ Egbunike	9129
 Egbunike SMEs	9129
 Egere N	9739
 Egerson	2816
-Egerton University	6946,5377
+Egerton Idehen	14692
+Egerton University	6946,5377,2180
 Egerton University SACCO Society Limited Data	7167
 Egerton-Idehen	5623,5076,1367,12,52
 Egesa	6121
@@ -235,7 +239,7 @@ Egon Zehnder	10801
 Egovernment Survey	11379
 Egoïsme	6959
 Egtech	12478
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64,18,2,1,9,47,11,18,100,2,11,1,23,68,44,12,472,291,107,193,5,435,108,68,10,178,6,20,129,135,17,11,3,16
 Egypt Adonijah Ndege	3737
 Egypt Aug	3429
 Egypt Bets	6678
@@ -279,6 +283,7 @@ Egypt and Africa. The NTRA	10461
 Egypt and Airtel	8045
 Egypt and Algeria	11324
 Egypt and Amr Talaat	4628
+Egypt and Cisco	14688
 Egypt and Cyprus. Making Libya	2837
 Egypt and Djibouti	2677
 Egypt and Eswatini	7536
@@ -315,6 +320,7 @@ Egypt's Ministry of Finance	9298
 Egypt's National Elections Authority	3266
 Egypt's National Research Centre	9238
 Egypt's National Telecom Regulatory Authority	9523
+Egypt's National Telecommunication Institute	14688
 Egypt's Nawy	4883
 Egypt's Offshoring Sector Generates	11162
 Egypt's Personal Data Protection Centre	6792
@@ -323,6 +329,7 @@ Egypt's Second National Financial Inclusion Strategy	9624
 Egypt's Startup Charter	9598
 Egypt's Unified National Registry	11133
 Egypt's University of In-formatics and British	4628
+Egypt's VRE	14667
 Egypt's Vision	9598,900
 Egypt--	7548
 Egypt-Iraq MoU	11738
@@ -354,9 +361,9 @@ Egypt. USTDA	12937
 EgyptAir	562
 EgyptAugust	5342
 EgyptWide for Human Rights	11079
-Egypte	8237,2738,2722
+Egypte	8237,2738,2722,851,71
 Egypte L’Égypte	11761
-Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100
+Egyptian	1213,46,543,603,1046,74,433,163,203,133,11,160,34,221,91,45,14,309,265,262,448,211,150,260,77,30,380,81,10,19,1,540,3,141,1,485,64,562,139,62,60,5,3,189,35,1,1,728,244,1,279,83,543,35,481,18,100,2349
 Egyptian Agency of Partnership for Development	12972
 Egyptian Ambassador	9332
 Egyptian Banking Institute	7535
@@ -374,6 +381,8 @@ Egyptian Information Technology Institute. Future	7537
 Egyptian Initiative for Personal Rights	11079
 Egyptian Market	6653
 Egyptian Post	5869
+Egyptian Prime Minister Mostafa Madbouly	14688
+Egyptian State Lawsuits Authority	14685
 Egyptian Tax Authority	10448
 Egyptian Tax Authority Head Rasha Abdel	10448
 Egyptian Tax Authority. FRA Chair	4943
@@ -436,6 +445,8 @@ Government of Egypt ITIDA CEO Ahmed Elzaher	11162
 Government of Egypt Madbouly	11162
 Government of Zambia. APP EGD EGDI ESB	12453
 Grenadines High EGDI M-OSI H-HcI H-TII	10840
+Groupe Egmont. Toutefois	14549
+Guba EG. Naturalistic Inquiry. Thousand Oak	14666
 Guinea EGDI	3534
 H-HcI H-TII Africa Tonga High EGDI	10840
 H-HcI H-TII Americas Guyana High EGDI	10840
@@ -571,7 +582,7 @@ Series A for Egyptian PropTech	4972
 Seychelles High EGDI M-OSI H-HcI VH-TII	10840
 Seychelles and Egypt	1893,10001
 South Africa Egypt Pakistan Brazil	11857
-South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231
+South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231,2551
 South Africa. Egypt	3554
 South Sudan Sudan Egypt Morocco East	9616
 South Sudan. Tanzanians and Egyptians	7507

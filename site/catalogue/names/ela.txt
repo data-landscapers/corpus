@@ -44,11 +44,12 @@ Elaborar Planes de Acción	1701
 Elaborate	5677,5152,411,961
 Elaborate the FM	11855
 Elaborating	14211
-Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35
+Elaboration	998,1344,1014,248,406,2949,2447,1305,1,146,16,1,52,48,518,412,39,1346,11,132,35,970,1
 Elaboration des DAO	10975
 Elaboration du Budget	4870
 Elaboration du Budget Annuel	10876
 Elaboration du PTA	10876
+Elaborations	14438,1
 Elaboração	13,2803,7936,31,580,50,17,14,4,3,5,7,60,3,31,12,452,761
 Elaboração da Estratégia	2816
 Elaboração da Estratégia Nacional de IA	2816
@@ -61,16 +62,18 @@ Elaboração da Política de Proteção Social	11547
 Elaboração da Proposta	2816
 Elaboração de Estudos de Impacte Ambiental	11390
 Elaboração de Lei de Protecção de Dados	2816
+Elabore	14662
 Elaborer	998,7,1961,390,40,613,6817,32,16,2,89,2325,11,40
 Elaborer des PPP	13306
 Elaborée	1703
 Elargir	1005,12285
 Elargissement	7797,2915
 Elasha Biyaha	5941
-Elastic	4434,6706,866
+Elastic	4434,6706,866,2502
 Elastic Scaling	11952
 Elastic Scaling Requirement	11952
 Elasticity	13868
+Elasticity of GDP	14674
 Elasticsearch	13037
 Elastomeric	11269
 Elation	14284
@@ -99,7 +102,8 @@ PASNFI Elaborer	10965
 PIs NO PROCESSO DE ELABORAÇÃO	11406
 PROCESSO DE ELABORAÇÃO DA ENDE	11526
 Pour Georges Elanga Obam	11698
-Programme Elargi de Vaccination	13300
+Programme Elargi de Vaccination	13300,1362
+Programme Elargi de Vaccination PHAGEDIS	14442
 Proyecto de Elaboración	4209
 RESULTATS ATTENDUS Elaboration	10712
 Raihan Elahi	11572

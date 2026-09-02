@@ -62,7 +62,7 @@ DG Director-General Advance Passenger Processing System	11986
 DG EG	11953
 DG Functional	5533
 DG GANADERÍA	4209
-DG INTPA	970,10185
+DG INTPA	970,10185,3367
 DG INTPA Directorate General for International Partnerships	970
 DG Impuestos	4209
 DG Indicator	11986
@@ -73,7 +73,7 @@ DG Kashifu Inuwa	4725
 DG Makhode	6196
 DG Means	11986
 DG Mohamed Assalia Boncana	4404
-DG Murray Trust	14238
+DG Murray Trust	14238,217
 DG NA Disaggregation	11986
 DG NIDA. Functions	12338
 DG Nicolas Yenoussi	1724
@@ -90,6 +90,7 @@ DG Set	12253
 DG Sets	12253
 DG Solomane Koné	1717
 DG Solomane Koné and Minister Léon Juste	1717
+DG Structure	14479
 DG Target	11986
 DG Territorial Admin	3294
 DG Trade and DG Just	11155
@@ -143,6 +144,7 @@ DGCT&QoS	11531
 DGCT. Hosted	557
 DGCTP	6827
 DGConnect Directorate H4	10819
+DGD Direction	14437
 DGD Direction Générale des Douanes	13725
 DGD En	3396
 DGDDI General Directorate for Customs and Indirect Taxation	13861
@@ -150,6 +152,7 @@ DGDDVHJXLQWH	11530
 DGDVWUR GD	11527
 DGDVWUR GR Ordenamento	11527
 DGDVWUR H GR UHVSHWLYR JRYHUQR	11527
+DGE Direction	14437
 DGE Ethiopia Electric Power Environmental Health	12256
 DGE General Directorate for Environment	11905
 DGEANF	11905
@@ -166,6 +169,7 @@ DGESS	10847,27
 DGESS Année	10847
 DGESS Année Scolaire	10847
 DGESup	3396
+DGFAG	14436
 DGFOMR	10858
 DGFiP	10532
 DGI A3.1.2.10.N A A3.1.2.11.NA A3.1.2.12.N	10858
@@ -187,6 +191,8 @@ DGI DGI	10858
 DGI DGI A3.2.3.3 Elaborer	10858
 DGI DGI Des	10858
 DGI Des	10858
+DGI Directeur Technique	14539
+DGI Direction	14437
 DGI Disponibilité	10858
 DGI Elaborer	10858
 DGI FORCES FAIBLESSES	10712
@@ -202,6 +208,7 @@ DGI Il	10858
 DGI Intelligence	10712
 DGI LISTE DES SIGLES ET ABREVIATIONS	10858
 DGI L’évaluation	10858
+DGI Madagascar	14580
 DGI Mettre	10858
 DGI Niveau	10712
 DGI Nombre	10858
@@ -211,6 +218,7 @@ DGI Opérationnaliser	10858
 DGI Organiser	10858
 DGI Organiser le Prix	10858
 DGI PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
+DGI PORTANT CONDITIONS ET MODALITES D’EMISSION	14469
 DGI POSAF	10712
 DGI PRMP Enregistre	10876
 DGI PTA RAR RESINA RH RI	10858
@@ -253,6 +261,7 @@ DGIS Cape Verdean Escudo Disbursement and Financial	11855
 DGIS and DGPOG	11855
 DGIS of MFIS. DGIS	11855
 DGIS. The Project	11855
+DGM La Direction Générale	14613
 DGMEC	10812,2,14,26,14,6
 DGMEC. Health	10812
 DGMP Procurement General Directorate	969
@@ -287,7 +296,8 @@ DGSN-DGST. Cette	11835
 DGSN-DGST. Crédit	11835
 DGSN. Adopters	3635
 DGSN. Il	11838
-DGSSI	547,3,18,1,19,597,253,4170,222
+DGSSI	547,3,18,1,19,597,253,4170,222,8828
+DGT Direction	14437
 DGTCP	2330,146,920,208,779,2444,3885,146,18
 DGTCP En	3396
 DGTCP Recettes	10876
@@ -297,6 +307,8 @@ DGTED OUTCOME INDICATOR	11863
 DGTIC SETIC BRB SETIC	1284
 DGTTC	10926
 DGTTM	8322,2490
+DGU Legal Framework	14430
+DGU and NCRIC	14430
 DGU and TSC	12419
 DGU. Target	12419
 DGU. Timeline	12419
@@ -368,6 +380,7 @@ Finance Institutions DG ECHO Directorate General	970
 Financement du Développement DGI Direction	10712
 Finances DGB Direction	10712
 Formulation of DGS	12917
+Fourniture de Soins DGMP	14442
 Français DGHER	13377
 GDST and DGTED	12008
 GSMA DG	3975
@@ -385,9 +398,11 @@ INSA DG	4331
 IV II- DGPE	2342
 Impôts DGTCP Direction	10712
 Incident Response Team DGS DGS DHIS	12917
+Information DGFS	14442
 Information Letter DGPOG General Directorate for Social	11855
 Integrated Tax Management DGI	11906
 Interoperability-Paper DG 2024.pdf	6337
+Interopérabilité DGI	14438
 Intervention du DG	13689
 Investigação Científica DGEPASE Direcção-Geral	11557
 JCPS DG’s Meeting Home Affairs Bill	5533
@@ -415,6 +430,7 @@ MFIS’s DGPOG	11855
 Malienne Maïmouna Dicko. Pour la DG	11652
 Managed Requirements DGov	9237
 Matches the DGB	1990
+Medecine Preventive DGR	14442
 Methodology DGEANF	11905
 Monsieur le DG. Nous	3849
 Mulheres DGAENF Direção-Geral da Alfabetização	11557
@@ -448,6 +464,7 @@ RDB DG	12359
 RECETTES BRUTES DGI	10712
 RURA DG-NIDA DG	12359
 Rapport Rapport DGB	643
+Regional Meteorological Services. DGM	14448
 Regulations The DGS	12917
 Représentant la DGDI	8695
 Réunion des DG	8072

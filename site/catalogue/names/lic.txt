@@ -41,6 +41,7 @@ Authors. Licensee	7759,263,108
 Availability of License of Rights Database	12389
 B. Private Wealth Management Licence Notwithstanding	7845
 B. Smart Licensing and Supervisory Gateway	4848
+B.1.2 Licensing	14674
 BYOL Bring Your Own License CAC	6432
 Bank Licencing. Improve	11134
 Benefits of Technology Neutral Spectrum Licences	10856
@@ -112,10 +113,10 @@ Converged Licencing Framework	13295
 Converged License Management System	718
 Converged Licensing Framework System	718
 Converged Licensing Management System	718
-Copyright and License	1219,11036
+Copyright and License	1219,11036,2411
 County Licensing Uniform Procedures Act	9852
 Creative Commons Attribution International License	11927
-Creative Commons Attribution License	8376,2543,1084,228,15,1877
+Creative Commons Attribution License	8376,2543,1084,228,15,1877,543
 Creative Commons License	13425
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
@@ -148,6 +149,7 @@ Distance Operators FMoP Licensees	11857
 Dr. Licky Erastus	12986
 Drillers and Constructor License	1988
 Driver Licence	10714
+Driver License	14647
 Driver Licensing	5645
 Driver and Vehicle Licensing Authority	2714,3256,2399,558
 Driver and Vehicle Licensing Authority. Industry	6177
@@ -162,6 +164,7 @@ E-Band and Satellite Licensing Guidelines	13558
 ECTS Licenciatura	11534
 ELECTRONIC PAYMENT SERVICES LICENSING GUIDELINES	12542
 Effect of License Revocation	762
+Electric Power Licence Objection	14422
 Electricity Licensing Regulations N	718
 Emission License	1988
 Emissão da Licença Individual	11520
@@ -199,9 +202,11 @@ G Licence	7400
 G License Following Competitive Tender Process	3221
 G Spectrum Licence	925
 G Spectrum Licences	7401
+G Spectrum Licences The National Communications	14699
 GAWAXAB GOVERNOR DETERMINATION ON THE LICENSING	12365
 GDS Orion Licence Dossier	10975
 GIS Monitoring System LPG Overview Licensees	12515
+GNU General Public License	14651
 Gas Natural Licuado	1701
 Gateway Licence	736
 General Operating License	12389
@@ -315,7 +320,7 @@ Licence. S.I	13606
 Licence.pdf	2677
 Licenced	8180,2473
 Licencees	8841,1897
-Licences	11,725,234,628,279,3656,2598,2985,870,76,477,961
+Licences	11,725,234,628,279,3656,2598,2985,870,76,477,961,922
 Licences Electrical Worker C2 C1 B	12256
 Licences Issued	12062
 Licences Professionnelles	10893
@@ -334,11 +339,12 @@ Licencias	1701,2508
 Licenciatura	2816,8625,7,24,62,364
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
-Licenciement	10876
+Licenciement	10876,3548
+Licenciement En	14424
 Licencing	8180,4076
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460,261,67,79,136,116,124,99,854,139,183
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460,261,67,79,136,116,124,99,854,139,183,997,23
 License Agreement	5665
 License Annual Universal Fee Fee Regulatory	10407
 License Application Conditions and Requirements	762
@@ -346,6 +352,7 @@ License B	14017
 License Category	6946
 License Category FY	6946
 License Copyright	12486
+License GNU General Public License	14651
 License Management System	6432
 License Modification License No	736
 License Modification Name	736
@@ -386,9 +393,9 @@ Licensed TV Stations	2776
 Licensed Testing Organisation	5665
 Licensed Testing Organisations	5665
 Licensed Verification Agents	3703
-Licensee	306,456,3970,3850,546,3430,763
+Licensee	306,456,3970,3850,546,3430,763,1101,33
 Licensee Installed Capacity	12399
-Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740,538,526
+Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740,538,526,1534
 Licensees Interference	736
 Licensees Telecom Namibia Powercom MTC Paratus	1944
 Licensees Telecom Namibia Telecom Namibia	1944
@@ -397,7 +404,7 @@ Licenses Issued	12969
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
-Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6,140,2,116,1,117,111,89,89,25,100,110,237,34
+Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1,313,112,24,6,140,2,116,1,117,111,89,89,25,100,110,237,34,856
 Licensing Agreement	12723
 Licensing Board	7845
 Licensing Categories This Guideline	5665
@@ -417,6 +424,7 @@ Licensing System	718
 Licensing and Authorisation of Payment Service Providers	12365,9,711
 Licensing and Authorisations	3641
 Licensing and Authorization	236
+Licensing and Compliance Division	14455
 Licensing and Legal Documentation	5665
 Licensing and Registration All	13381
 Licensing and Regulations Department	9859,1
@@ -650,6 +658,7 @@ Satellite Services Licensing Framework Consultation Notice	6891
 Satellite Services Licensing Framework Inquiry	6891
 Secretaria Provinciais da Educação. Licenciatura M	10766
 Section Articles License Copyright	12467
+Section Licensing	14674
 Security A Licensee	762
 Service Date Application No. Application License	736
 Service Licence	1223
@@ -675,6 +684,7 @@ Software Testing Organisations Licensing Guideline Title	5665
 Solar PV and Energy Audit Licensing	12256
 Sophos Central Management and Central Orchestration Licenses	12681
 Special Numbering. These Licensees	3862
+Special Rule for Licensed Financial Institutions	14647
 Spectrum Frequency and Broadcasting Licensee Fees	12982
 Spectrum Licence	736,4762,31
 Spectrum Licencing Cybersecurity	12395

@@ -64,6 +64,7 @@ ENQUÊTÉE MINEURE	13300
 ENQUÊTÉE MINEURE ET SIGNEZ. A REFUSÉ	13300
 ENQUÊTÉE OPPOSÉE	13300
 ENQUÊTÉE REFUS	13300
+ET DES GRANDES ENQUÊTES RÉALISÉES PAR	14495
 EnQuête	5013
 Enquadra	2401
 Enquadra-se	5016
@@ -75,10 +76,12 @@ Enquadramento Realizou-se	10757
 Enquadramento da Política	11547
 Enquanto	4979,3514,1008,1050,198,4,24,6,778,16
 Enquete	10841
+Enquete Demographique	14442
 Enquete Exploratoire Budjet-Consommation	13746
 Enquete Harmonisée	737
 Enquete224	2159
 Enquiries	7464,1535,35,2150,14,14,38,1115,9,73,642
+Enquiries COMPLAINTS Nairobi	14525
 Enquiries Handled	6946
 Enquiries Handled Category Total Received Resolved	6946
 Enquiries Log	12041
@@ -89,7 +92,7 @@ Enquiry	12511
 Enquiry Appointed	11289
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Enquiry Points	12389
-Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100
+Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925,1395,77,13,43,19,16,278,58,100,515,152,6
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
 Enquête Agricole Annuelle. Cette	9286
@@ -98,12 +101,13 @@ Enquête Agricole de Conjoncture	9553
 Enquête Agricole de Conjoncture EAC	9553
 Enquête Camerounaise	10965
 Enquête Djiboutienne	11271
-Enquête Démographique	13300,446
+Enquête Démographique	13300,446,876
 Enquête FAT Note	7655
 Enquête FAT. Note	7655
 Enquête Femme Homme	13300
 Enquête Harmonisée	737,6938,3199,675,11,2186,58
 Enquête Intégrale	737,11621,45,10
+Enquête LQAS En	14622
 Enquête Légère Intégrée Auprès des Ménages	9553
 Enquête Multi-Tier Framework	13433
 Enquête Multisectorielle Continue	30
@@ -113,11 +117,15 @@ Enquête National	737
 Enquête Nationale	10874,2516
 Enquête Nationale Agricole du Burundi	13325
 Enquête Nationale Sur La Situation Nutritionnelle	13325
+Enquête Permanente	14495,81
+Enquête Point Prévalence Survey	14622
 Enquête Post-Censitaire	9277
 Enquête Régionale Intégrée	737,10137
 Enquête SMART Valeur	643
 Enquête TIC	3159
-Enquêtes	7655,1236,1983,104,1065,1282,919
+Enquête WHODAS	14622
+Enquête de Séroprévalence Nationale	14622
+Enquêtes	7655,1236,1983,104,1065,1282,919,181
 Enquêtes Démographiques	10874,2426,25
 Enquêtes Harmonisées	11581
 Enquêtes MICS	13300

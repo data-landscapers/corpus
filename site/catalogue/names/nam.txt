@@ -340,6 +340,7 @@ Eight Names	9507
 Electoral Commission of Namibia	1981,10369,28,527
 Electoral Commission of Namibia Regional Office DRC	13046
 Electoral Commission of Namibia URL	12350
+Electronic Certification and Domain Name Administration	14435
 Electronic Company Name Verification	12389
 Electronic Transactions Act. Namibia	10651
 Elements of Address Type Title First Name	11129
@@ -446,7 +447,7 @@ Hon. Dr. Shadric Namalomba	9820
 Hon. John Namoit	10313
 House. Hon. John Namoit	10313
 Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675,1317,88,73
-Huduma Namba Identity System	9399
+Huduma Namba Identity System	9399,5035
 Huduma Namba Integration	10415
 Huduma Namba and Maisha Number	3391
 Huduma Namba. The European Union	9600
@@ -615,7 +616,8 @@ MTN Speed-based Bundles Bundle Name Price	11259
 MW Namibia	12399
 Madame Namizata SANGARE	3045
 Maisa Namba	10728
-Maisha Namba	1354,377,293,423,119,359,378,88,153,31,22,846,1217,614,376,1,172,2576,1329,1437,62,73,23,112
+Maisha Namba	1354,377,293,423,119,359,378,88,153,31,22,846,1217,614,376,1,172,2576,1329,1437,62,73,23,112,2068
+Maisha Namba Cards	14460
 Maisha Namba Digital ID Awareness Drive	12227
 Maisha Namba Explained	11994
 Maisha Namba ID	2447,478
@@ -745,6 +747,7 @@ NAMENTENGA TX Prom	10847
 NAMENTENGA Total SANMATENGA Public	10847
 NAMENTENGA Urbain	10847
 NAMES	3714
+NAMEX	14468
 NAMFISA	3714,8393,359,595,36
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NAMIBIA	1750,97,53,99,10233,95,62,11,78,442,230,17,9,49
@@ -921,7 +924,7 @@ Namakuzu Shandavu and Rabecca Banda	1249
 Namakuzu Shandavu and Rabecca Banda. A Zambian	1249
 Namakwa	11343
 Namalomba	3933,857,1061,702,39,221,630,43,356,1374,1337,95,2504
-Namanga	5883
+Namanga	5883,8717
 Namanga Loitoktok Lunga Lunga Figure	12256
 Namanve	1150,3645,454
 Namasivayam V	3791
@@ -1054,6 +1057,7 @@ Namentenga	10847,28
 Namentenga Bittou	10875
 Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51,1162,636,59,942
 Names ARTCI	6340
+Names DIVA	14566
 Names Impilo	3385
 Names SmartBots	4186
 Names of Persons Filing Statement	7198
@@ -1085,7 +1089,7 @@ Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
 Namibe. SASSCAL. O Centro	11437
 Namibe.5	11417
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6,202,72,32,58,84,15,16,1,2,217,1,46,1,9,47,22,20,4,69,2,6,3,1,3,1,1,3,7,1,1,1,2,5,3,2,6,1,2,2,2,3,2,4,2,4,4,1,13,8,21,5,3,9,7,2,1,7,2,1,9,45,63,21,54,194,25,5,9,1,2,5,1,5,2,1,2,2,1,7,1,1,5,2,4,5,6,2,1,1,1,1,4,1,5,1,8,2,2,5,1,2,1,7,1,6,1,4,1,3,6,4,3,2,1,3,4,3,2,2,3,9,1,6,2,7,5,3,1,4,2,1,2,2,1,5,2,2,2,10,15,3,1,1,1,4,4,1,2,5,4,14,1,1,5,3,5,4,1,1,6,10,7,3,4,1,7,6,9,63,10,26,19,5,42,57,3,32,28,25,106,22,28,56,4,325,154,41,14,36,4,29,6,292
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia Affirmative Action Act	12399
@@ -1562,6 +1566,7 @@ Naming of Islands	11129
 Naming of Islands Islands	11129
 Naming of Streets	11129
 Namisindwa MP	6493
+Namorona Rendgociation des Contrats Juridique	14479
 Namorupus	8213
 Namosha Veerasamy	1940
 Nampa	8006,249,158,2709
@@ -1674,6 +1679,7 @@ Overview of Projects and Their Completion Rates NAME	13053
 P162901. Operation Name	13897
 P162904. Project Name	13850
 P166193 Operation Name	13742
+P178701 Operation Name	14456
 P505094 Operation Name	2291
 P506969. Operation Name	13856
 P508948 Project Name	13017
@@ -1847,6 +1853,7 @@ Science and Technology of Namibia	1554
 Secretaria Municipal de Nampula	1808
 Select Search Criteria Owner Name Property	12511
 Senior ICT Officer Ms Namataa Kalaluka	34
+Server Name Indication	14455
 Service Point Name Lat Long District	11986
 Service Point Name Long EC Alfred	11986
 Shadric Namalomba	3933,2620,39,270,624,1730,335,1002,95

@@ -43,11 +43,12 @@ Civil Registration Services The Kenya Vital	12151
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Vital	12241
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics DG	12338
 Civil Registration and Vital Statistics Department	10765,10,2202
+Civil Registration and Vital Statistics KENYA CRVS-NATIONAL	14655
 Civil Registration and Vital Statistics Namibia CRVS-Social	13220
 Civil Registration and Vital Statistics Strategic Plan	12334
 Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46
@@ -97,7 +98,7 @@ Health and Vital Statistics Overview	2775
 High Courts Vital	12327
 IL VIT COMME MARIÉ. SI UNE	13300
 Identity Agenda Kenya Vital Statistics Report	12151
-Importance Vitale	6845,3687
+Importance Vitale	6845,3687,4107
 Infections Kenya Vital Statistics Report	12151
 Instant Birth Registration When Vitumbiko	13095
 Integrated Civil Registration and Vital Statistics Strategy	12330
@@ -155,6 +156,7 @@ Register-Based Vital Statistics	12151
 Registration and Vital Finance and Planning	12413
 Registration and Vital Statistics	9548,2590,275
 Registration and Vital Statistics CRVSS Civil Registration	12151
+Rurale Civil Registration and Vital Statistics Centre	14425
 Rwanda Civil Registration Vital Statistics Booklet	12471
 Rwanda Vital	12413
 Rwanda Vital Statistics Report	12328,85,58
@@ -181,6 +183,7 @@ UN. Vital Strategies	12151
 UNICEF and Vital Strategies	13589
 Universidade Kimpa Vita	6585,4844
 Université VITIB	1005
+Urgence de Santé Publique Civil Registration and Vital	14622
 VIT AILLEURS	13300
 VIT AVEC ELLE	13300
 VIT AVEC LUI	13300
@@ -210,7 +213,7 @@ VSR Vital Statistics Report	12367
 ViT-LSTM	13162
 ViT-based	13162
 Village de Vitré	1005
-Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474
+Vital	970,1945,6045,1859,3,1316,13,99,77,10,1,29,11,35,31,27,135,356,43,474,931,114,70
 Vital Documents	14137
 Vital Event	12151,75
 Vital Event Record	12151
@@ -220,7 +223,7 @@ Vital Events Registration Agency	12257
 Vital Events Registration and National ID Proclamation	12226
 Vital Events Registration and National Identity Card	12188,38
 Vital Fee for Cost	12138
-Vital Interest	11956,346
+Vital Interest	11956,346,2222
 Vital Interest Article	11956
 Vital Interest and Public Interest	7409
 Vital Munyandida	5469
@@ -255,6 +258,7 @@ Vital Strategies	1710,2547,1042,4505,787,381,1214,151,1,29,46,259,287,189
 Vital Strategies Latest Biometrics News Foundational	9804
 Vital Strategies. UN	12151
 Vital Strategies. United Nations Economic Commission	12413
+Vital Wave	14434
 VitalReg	2339,5293,2402,231,1786
 VitalStatistics	13244
 VitalStats	9128

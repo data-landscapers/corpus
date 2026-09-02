@@ -33,6 +33,7 @@ Africa Practice Manager	10358
 Africa Region Gender Practice Policy Brief	10964
 Africa’s Digital Surveillance Practices. In Digital	2518
 Agroforestry Practices	1988
+Ajoutez le PRA	14683
 Albert G. Zeufack Acting Practice Manager	11417
 Albert G. Zeufack Practice Manager	10768
 Alfândega da Praia	4578
@@ -44,13 +45,21 @@ Analysis of Data Dissemination and Use Practices	1261
 Andhra Pradesh	1219,4463,5199,1736,362
 Ann Anthropol Pract	1219
 Anália Prata	11423
+Application of Code of Practice	14594
 Application of Global Best Practice	11956
 Approval Date Practice Area	1704
-Approved By Practice Manager	10963
+Approved By Practice Manager	10963,3613
 Apr-2026. Practice Area	13793
 Assessment Policy Statements Practical Assessment Tasks	11241
 Association of Media Practitioners Seychelles	2844
 BARIK N. PRASAD	2342
+BEST PRACTICES Article	14434
+BEST PRACTICES Data	14434
+BEST PRACTICES Governments	14434
+BEST PRACTICES Recommendations and Best Practices	14434
+BEST PRACTICES The Australian	14434
+BEST PRACTICES The EU GDPR	14434
+BEST PRACTICES The GloPID-R	14434
 BLUE SKY DENTAL PRACTICE Data Controller	7167
 BRICS Roadmap of Practical Cooperation	2117
 Bairros Periféricos da Cidade da Praia. Desenvolvimento	1265
@@ -59,6 +68,7 @@ Benefits Types of AI Challenges Best Practices	12512
 Best Environmental Management Practice	3604,2935
 Best Practice	6832
 Best Practice Benchmarking	13005
+Best Practice Guide	14434
 Best Practice for Maintaining Correct Addresses	11129
 Best Practices	4528,1172,6799,538,381
 Best Practices Despite	13418
@@ -97,7 +107,7 @@ CoP La Communauté de Pratiques	5260
 Code of Best Practice	13053
 Code of Good Practice	5533,6453,909
 Code of Internet Practice	6748
-Code of Practice	8529,1,1078,313,2754,224,3
+Code of Practice	8529,1,1078,313,2754,224,3,1692
 Code of Practice MS	12253
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
@@ -105,6 +115,7 @@ Code of Practice for Official Statistics	13993
 Coders and AI Practioners	4866
 Codes of Practice	8692
 Commission’s Practices	5245
+Committee Member. Application of Code of Practice	14594
 Communauté de Pratiques	5260
 Community Health Practitioners	4301
 Community of Practice	5700,1327,1419,2284,1480
@@ -161,6 +172,7 @@ Digital Global Practice Western and Central Africa	3604
 Digital Government. Global Best Practices	12917
 Digital Pharmacy Practice Guideline	9855
 Digital Pharmacy Practice Guidelines	9855
+Digital Practices	14666
 Digital and AI Regional Practice Director	5395
 Director Geral Analia Nunda Prata da Silva	10757
 Disciplined Practice	11658
@@ -273,6 +285,7 @@ Government Studies and Best Practices	12467
 Gradual Practitioners	3859
 Guidance and Practice	3583
 Guide Defines Best Practices for Electronic	3907
+Guides Pratiques	14436
 Gujadhur Communications Assistant Pramod Chumun Regional	11332
 Harmful Practices	10829,2645
 Harmful Traditional Practices	14149
@@ -312,7 +325,7 @@ Institutionalisation of Open Data Practices	1243
 Instruction Notes and Practice	11240
 International Best Practice Frameworks	13005
 International Best Practice Integration NOTING	3861
-International Best Practices	6432,504
+International Best Practices	6432,504,7588
 International Industry Practice	1988
 Internet Code of Practice	3945,638,7410
 Issues and Practice	9237
@@ -328,6 +341,7 @@ Jobs Global Practice	11133
 Jobs Global Practice Africa Region	11855
 Join the DPI Map Community of Practice	4863
 Journal of Perioperative Practice	8605
+Julia Rachel Ravelosoa Approved By Practice	14553
 KENYA Best Practise	899
 Keiko Miwa Practice Manager	11560
 Keiko Miwa. Practice Manager	11965
@@ -340,6 +354,7 @@ LESSONS LEARNED AND BEST PRACTICES	12333
 Labor Contributing Practice Areas Education Fragile	11525
 Labor Policies and Practices	14008
 Last Practicable Date	4896
+Le PRA	14683
 Legal Practice	14396
 Legal Practice Act	11977
 Legal Practice Council	7278,2690,1989,20
@@ -377,6 +392,7 @@ Means In Practice	10424
 Media Council Code of Media Practice	12100
 Methods for Policy and Practice	12255
 Michal J. Rutkowski Practice Manager	11525,330
+Monitoring of AI Use and Governance Practices Institutions	14565
 Mozambique. Glob Health Sci Pract	11596
 Mr. Pralhad Joshi. Prof. Dr. Murwira	13562
 Ms Pratt	10695
@@ -427,6 +443,9 @@ Overview of Current Practices. Benin	10822
 PAS PRATIQUE	13300
 PMT Proxy Means Test PRASED Education	11924
 PPSD Project Procurement Strategy for Development PRAMS	11560
+PRA Managé	14683
+PRA Managé On-Prem	14683
+PRA Managé Supervision Surface	14683
 PRA Project Procurement Strategy for Development SBD	10964
 PRA-SIVAC. PERFORMANCES FINANCIÈRES EN	2342
 PRA-UEMOA-Guinée	13264,1
@@ -497,6 +516,8 @@ Practical Building Blocks	8206
 Practical Compilation Guide	11286
 Practical Compliance Steps for Financial Institutions	9750
 Practical Considerations for Planning	8376
+Practical Constraints Transparency	14565
+Practical Evaluation	14566
 Practical Examinations	13356
 Practical Guide	11156,102,706,1367
 Practical Guide for Policy Makers	11007
@@ -512,7 +533,7 @@ Practical. Grounded	7790
 Practicality	6948
 Practically	961,3016,3782,1370,2339,485,1314
 Practice	718,181,1089,108,852,830,750,713,459,270,497,766,315,1165,2128,297,14,3,1,25,670,16,60,95,153,35,45,134,123,436,218,366,437
-Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163
+Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14,243,163,1744
 Practice B-READY	12389
 Practice Cash	11138
 Practice Cost	12389
@@ -553,6 +574,7 @@ Practice While Morocco	9431
 Practice and Experience	8605
 Practice and Impact	9204,216,10,106
 Practice and Procedure	3005
+Practice and Procedure Rules	14460
 Practice of Internal Auditing	6946
 Practice&volume	2096
 Practice-oriented	14004
@@ -569,12 +591,12 @@ Practicing	11017
 Practicum	2477,5684
 Practise Empathy	13477
 Practise360	3400
-Practising	11017
+Practising	11017,3689
 Practising School	6211
 Practitioner	1009,2705,6386,1080,2291
 Practitioner HMIS Health Management Information System	12413
 Practitioner's Guide for Building Trust and Unlocking	11007
-Practitioners	4301,4117,1653,17,919,131,1104
+Practitioners	4301,4117,1653,17,919,131,1104,2424
 Practitioners Guide	11006,1
 Practitioners Guide. Retrieved	10819
 Practitioner’s Guide	10775
@@ -630,6 +652,7 @@ Pratic	6033,422,3259
 Praticados	10747
 Praticien	13300
 Pratique	737,5498,4606,134,2325
+Pratique du Diminution	14488,1,1
 Pratiquement	13300
 Pratiques	13300
 Pravda	4399
@@ -666,6 +689,8 @@ Prohibited Trading Practices PART	3714
 Project Implementation Unit PRAASED Project Procurement	11905
 Promise Meets Practical Limits	9456
 Promise and Practice	5349
+Proportional and Practical Application Accountability	14565
+Proportionality and Practicality Data	14565
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Registry of Insolvency Practitioners	12389
 Publication of Register of Insolvency Practitioners	12389
@@ -675,7 +700,9 @@ RECEPÇÃO DE EXPEDIENTE PRAZOS Ref.ª Na	11435
 RECOMMENDED BEST PRACTICES IN CONDUCTING	13381
 REGISTRY OF INSOLVENCY PRACTITIONERS	12389
 RF’s da Praia	12018
+Recommendations and Best Practices	14434
 Recommended Practice	12406
+Record-Keeping Practices Appropriate	14565
 Regarding the Internet Code of Practice	3945
 Regional Practice Director	11271,2188
 Register of Insolvency Practitioners	12389
@@ -789,4 +816,4 @@ Yevgeniya Savchenko. Education Global Practice	11918
 Zambia. Glob Health Sci Pract	3791
 Zimbabwe Practitioner Practitioner	6666
 Zimbabwe. Library Philosophy and Practice	1248
-Zviripayi Idah Pswarayi Riddihough Practice Manager	2473
+Zviripayi Idah Pswarayi Riddihough Practice Manager	2473,11983

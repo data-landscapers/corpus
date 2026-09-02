@@ -120,7 +120,7 @@ Civil Service Commission CSIRT Computer Security	12917
 Ciência da Computação	11441
 Ciência de Computação	12021
 Ciências da Computação	8858,3163
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671,435,54,611,4,385,45,1273
 Cloud Computing Adoption and Data Lozalization	12214
 Cloud Computing BANK OF NAMIBIA No	12967
 Cloud Computing Cloud	1363
@@ -196,6 +196,7 @@ Compute Annual	7548
 Compute Capacity	1204,6344
 Compute Corridor	4698,2546
 Compute Infrastructure	7548
+Compute Model	14674
 Compute Modules	11209
 Compute Node	9475
 Compute Node NVidia GPU	9475
@@ -256,7 +257,7 @@ Computer Donations	7394
 Computer Education Projects	11134
 Computer Emergency Readiness and Response Team	7630,1488
 Computer Emergency Response	783
-Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340
+Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349,3031,340,240
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
@@ -265,7 +266,8 @@ Computer Engineer	12693
 Computer Engineering	11862,831
 Computer Hardware and Networking Technology	14147
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58,1986,102,3,79
+Computer Incident Response Team CMIL	14438
 Computer Incident Response Teams	11920
 Computer Information Systems	4896,419,8053
 Computer Lab	12971
@@ -278,9 +280,9 @@ Computer Misuse Act. NITA-U ED	3275
 Computer Misuse and Cyber	12302
 Computer Misuse and Cyber Crimes Act	6432
 Computer Misuse and Cybercrime	6432,5778
-Computer Misuse and Cybercrime Act	783,11519
+Computer Misuse and Cybercrime Act	783,11519,2133,89
 Computer Misuse and Cybercrimes	4583,2204,3153,1175
-Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92
+Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212,2355,92,2125
 Computer Misuse and Cybersecurity	7548
 Computer Networks	13356
 Computer Networks and ISDN Systems	3782
@@ -438,6 +440,7 @@ Develop AI Infrastructure and Green Compute Zones	7548
 Development of Computer Services	2919
 Digital Control A National AI Computing	5970
 Digital Journal of Computer Science and Technology	9128
+Director General of Madagascar's Computer Incident Response	14639
 Distributed Computation	6975
 Download TG Regulamento de Centro de Computacao	12808
 Draft National Cloud Computing Policy	11993
@@ -574,7 +577,9 @@ Maintenance and Support of Computer Equipment Within	12917
 Maintenance and Support of Computer Systems Within	12917
 Major MSc Computer Science Short Courses	12361
 Malawi Computer Emergency Response Team	5548,7360
+Malawi's Computer Emergency Response	14674
 Malaysia and Finland. Int. J. Child Comput	12926
+Mapping AI Infrastructure Investment and Compute Governance	14673
 Marketing CIRTs Computer Incident Response Teams	6946
 Master of Computer Science	12926,25
 Meta-Analysis. Computers	11927
@@ -597,6 +602,7 @@ NITDA's National Cloud Computing Policy	9877
 Namibia Computer Incident Response Team	12459
 Namibia Super Computer PARAM High Performance	9475
 National AI Compute Access Programme	7548,1241
+National AI Compute and Cloud	14566
 National AI Infrastructure and Computational Sovereignty	4528,7984
 National AI and Compute Infrastructure	7548
 National Agency for Computer Security	9616
@@ -604,6 +610,7 @@ National Cloud Computing Guideline	8986,132,1306,914
 National Cloud Computing Policy	4492,2681,2704
 National Cloud Computing Policy D.2 Regulatory	11952
 National Compute Capacity	4528,7984
+National Computer Board Act	14566
 National Computer Board Certificate Authority	1379
 National Computer Center	2578
 National Computer Development Company	3604
@@ -683,6 +690,7 @@ S1 PART B THE COMPUTER CRIME	12928
 SADC Computer Crime and Cybercrime Model	26
 SADC Model Law Part II Computer-	26
 SADC Regional Computer Incident Response Team	12918
+SANDBOXES AI COMPUTE	14566
 SECÇÃO III PROGRAMAS DE COMPUTADOR	10747
 SECÇÃO III Programas de Computador	6970
 SFP’s and QSFP’s for Compute	11209

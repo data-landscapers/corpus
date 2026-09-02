@@ -1,15 +1,19 @@
 ADAPTATION DES INFRACTIONS CLASSIQUES AUXTECHNOLOGIES	13719
 ADJIBI Claude Edgard Octobre	10876
+ANNEXES ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET SOCIALES	14489
+ANNEXES ANNEXE-1. Clauses	14488,1
 ANNOB Y CLASES CONTRIBUCION	4209
 APPEALS AND REVIEWS Clause	12959
 ARRANGEMENT OF CLAUSES Clause	7845
+ARRANGEMENT OF CLAUSES Clause PART	14575
+ARRANGEMENT OF CLAUSES Clauses PART I--PRELIMINARY	14594
 ASEAN Model Contractual Clauses and Data Management	1243
 ATU Secretary General John Omo and Clara	6007
 AUTHORISED SHARES A. Classified	3714
 Abbreviations CPC Central Product Classification HS	11258
 Accelerator Africa Class	5875
 Accessibility and Clarity	13310
-Act. Clause	12959
+Act. Clause	12959,1635
 Administration Standard Classroom	899
 Africa Can Claim Its Place	6808
 Agentic AI Master Class Laboratory	13688
@@ -27,10 +31,13 @@ Anthropic’s Claude and Meta’s Llama	8216
 Appeals Tribunals. Clause	12959
 Application Data Classification Primary Data Location	6432
 Application and Data Classification	11995
+Arbitration Clauses and Special Agreements ARTICLE	14409
+Arbitration Clauses and Special Agreements The Court	14409
 Arc NDUWIMANA Claudine NSHIMIRIMANA Jacqueline NDUWIMANA	13300
 Arrangement of Clauses PART	12459
 Arthur C Clarke	9698
 Asset Class. Geneva	1243
+Authority. Clause	14594
 Automating for End-to-End Claims Processing Whitepaper	9237
 B. Contents of Bidding Document For Clarification	13185
 B2- Classification	7548
@@ -53,14 +60,16 @@ BU CLA's RMB	858
 Banji M. Shakubanza Mr Clairs Chileshe	13477
 Basketball With Launch of Safari Classic	10151
 Bello. Clarifying	11292
+Bill. Clause	14594
 Billion Kenya Claim Means	7986
 Bima Claims Settling Agents Data Controller	7167
 Blind Classroom	13095
 Board Chairman Clarence K. Massaquoi	14354
 Board Jean Claude ILIBONEYE	12358
+Board. Clause	14594
 Bolama. Classificação de Qualidade de Sinal	11556
 Bowendsom Claudine Valérie ROUAMBA	7670
-Braun and Clarke	8460,145,2423,1203
+Braun and Clarke	8460,145,2423,1203,2435
 Broadcast Interactive Class of Station Whether TDMA	736
 Business Clase	4209
 Bénin Classé	2694
@@ -68,6 +77,8 @@ CAPÍTULO II CLASSIFICAÇÃO DOS PRÉDIOS Artigo	11901
 CBN Should Clarify	7173
 CERTIFICAT ACHEVÉ AUCUNE TRÉE MÉDICAL CLASSE	13300
 CGs’ Master Class	7694
+CHAPITRE II Classification Article	14538
+CIREF Classification	14423
 CIVIL EVENT RECORDS AND CERTIFICATES Clause	12959
 CIVIL REGISTER Clause	12959
 CLADWELL MEDICAL CENTRE LTD Data Controller	7167
@@ -89,13 +100,15 @@ CLASS OF CO-OPERATIVE SOCIETIES WITH TURNOVER	7845
 CLASSE	13300
 CLASSE O N NIVEAU CLASSE	13300
 CLASSIFICATION DECISION MATRIX Calculation Method	5665
+CLASSIFICATION DES IMPACTS	14488,1,1
+CLASSIFICATION DES IMPACTS En	14488,1,1
 CLASSIFICATION PAR MINISTERE ET ECONOMIQUE	4644,1,1,1,2
 CLASSIFICAÇÃO DE RISCO E CATEGORIZAÇÃO	11390
 CLASSIFICAÇÃO DO RISCO AMBIENTAL E SOCIAL	11390
 CLASSIFIED	11995
 CLASSIFIED SECTION	13385
 CLASSROOMS	11918
-CLAUDE.md	17,216,147,157,48,95,89,237,144,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,247,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958
+CLAUDE.md	17,216,147,157,48,95,89,237,144,44,24,30,46,1,30,1,1,1,1,1,195,56,79,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,26,69,13,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,1,125,21,12,30,1,1,1,1,1,39,1,191,40,333,12,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,546,1,1,1,1,1,1,1,1,1,172,92,88,39,5,58,17,45,5,14,65,32,5,147,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,84,17,28,1,1,1,1,1,212,1,94,60,13,44,1,1,1,821,210,13,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,179,125,232,8,88,74,41,190,155,17,127,1,1,1,1,1,1,1,1,247,164,181,113,30,92,37,35,24,59,7,2,104,16,100,36,89,71,83,60,83,10,20,27,7,20,5,14,144,73,6,64,10,10,5,46,22,176,188,3,35,614,504,31,20,16,181,87,93,54,96,2,2,2,262,45,416,36,1958,439
 CLAUSE BY CLAUSE ANALYSIS	11280
 CLAUSES DÉONTHOLOGUIQUES Absence	13635
 CLAUSTE MOTORS LIMITED Data Controller INST-449508A5C14	7167
@@ -105,6 +118,7 @@ CLAYTOWN VALUERS LIMITED Data Processor INST-437390504D3	7167
 COICOP Classes	2775
 COMPREHENSIVE DATA DOMAIN CLASSIFICATION	3861
 CONSTITUTIONAL CHALLENGES AND SUPREMACY CLAUSE APPLICATION	3861
+CONTACT Claire Mattei	14445
 CONTAINS A CLAIM THAT CONFLICTS	3200
 COUNTRY CLASSIFICATION AND DETERMINATION OF SCENARIO	13868
 CSD International Statistical Classification of Diseases	1009
@@ -135,6 +149,7 @@ Claimant	1829,11211
 Claimant Chiume and Kunje	13040
 Claimants	1829,6819
 Claimed	418,2102
+Claimed Part B	14546
 Claiming	8949
 Claims	1348,1048,1255,63,892,614,222,378,4280,629,64,338,3,96,1279,817
 Claims System	11230
@@ -182,7 +197,7 @@ Clarencio Ndong Nguema Obono Oficina de Información	11672
 Clarette Rwagatore	13312,2
 Clarian Makungu	10540
 Clarifai Full	4434
-Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039
+Clarification	3675,451,3861,559,1691,534,1272,108,249,785,1039,201
 Clarification No	13404
 Clarification Period	13621
 Clarification and Amendment of RFP Documents	13037
@@ -203,20 +218,23 @@ Clarify	4126,88,634,2700,3217,10,134,51,173,3,1904,274
 Clarify Ecosystem Expectations	3503
 Clarifying	4848,7449,31,794
 Clarifying Lawful Overseas Use of Data Act	5302
+Clarifying Patients' Rights	14434
 Clarinval	2096
 Clarisse	2992
 Clarisse A Houngbedji	10919
 Clarisse A Houngbedji3	10919
 Clarisse Manjary	4262
 Clarisse NYIRAMANA Faina ISHIMWE Jean NYIRAMBIBI	12445
-Clarity	961,1814,173,167,1468,664,673,1524,857,472,457,927,803,178,728
+Clarity	961,1814,173,167,1468,664,673,1524,857,472,457,927,803,178,728,2577,228
 Clarity of Digital Policy	3391
 Clarity of Policy Text	12058
 Clarity of Tax Regulations	12389
 Clark	1828,268,720,1860,3930,2108,571,25
+Clark T	14666
 Clarke	8602,3,1093,1065,5,367,1332
 Clarke J	11990
 Clarke V	8460,3771
+Clarke V. Using	14666
 Clarke and Dercon	10763
 Claro	163
 Claro Kpemavo	6744
@@ -231,7 +249,7 @@ Clases Pasivas Ministerio de Hacienda	4209
 Clash	10062
 Clash Against Future FC Artificial	7814
 Clasrooms	11905
-Class	11,725,26,461,2428,2014,210,144,847,170,1388,699,2672,160,1430,2
+Class	11,725,26,461,2428,2014,210,144,847,170,1388,699,2672,160,1430,2,1306
 Class A Solutions	5665
 Class Actions	12929
 Class Air Mail	11851
@@ -315,8 +333,9 @@ Classe Professores Alunos Angola	10766
 Classe Professores Alunos Angola Bengo Benguela	10766
 Classe de Iniciação	10766
 Classe de Transição	11419
-Classement	1247,1095,6549,1985,738,1761,193
+Classement	1247,1095,6549,1985,738,1761,193,969
 Classement IDH	11944
+Classement Titre	14438
 Classement du Burundi	13325
 Classer	13781
 Classes	9123,1643,1087,1200
@@ -341,15 +360,19 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230,108,90,953,105,18,196,20,506,75,156,399,26
+Classification Après	14423
 Classification Boundaries Automatic Class A Classification	5665
 Classification Definition Examples Residency Security Level	5244
+Classification Emballage	14423
 Classification Expiration Date	1284
+Classification Figure	14423
 Classification Framework Sovereign	10157
 Classification Framework Technologies	7548
 Classification Guidelines	7548
-Classification Internationale	13341,36
+Classification Internationale	13341,36,1065
 Classification Internationale Type	10874
+Classification Internationale Type des Professions	14622
 Classification Internationale des Marchés CITE	10874
 Classification Investment Project Substantial Financing	3604
 Classification Of Goods Temporary Importations	12454
@@ -367,7 +390,7 @@ Classification of Expenditure	2775,10318
 Classification of Financial Services and Products	2775
 Classification of Liabilities	13053
 Classification of Offences	2775
-Classifications	13306
+Classifications	13306,1288
 Classificação	2784,32,703,7238,613,11,24,1,45,447,413
 Classificação Internacional de Funcionalidade	11577
 Classificação Orgânica	1342,2325
@@ -388,7 +411,7 @@ Classroom Conditions	12199
 Classroom Ratio PpCR	12175
 Classrooms	11469,436,13,9,1465
 Classy	13434
-Classé	10907
+Classé	10907,3627
 Classée	6479,5200
 Claud John Kumalija	771
 Claude	1636,777,403,176,473,580,984,228,29,1,131,95,541,511,283,289,14,286,352,417,13,291,249,849,313,1129,3282
@@ -433,10 +456,11 @@ Claudine Silaho Weber Hilty The Republic	11936
 Claudino Filipe	10752
 Claudio Machado	10765,10
 Claudio Machado Cavalcanti	10714
-Clause	2530,1208,8,986,1140,137,1823,2448,835,165,697,77,265,640,78,148,208,131
+Clause	2530,1208,8,986,1140,137,1823,2448,835,165,697,77,265,640,78,148,208,131,1022,48,7
 Clause-by-clause	3746
 Clause-level	3974
-Clauses	1231,5178,5752,798
+Clauses	1231,5178,5752,798,1635,7
+Clauses Environnementales	14488,1,1
 Clauses-Type Cloud	3857
 Claver GAKWAVU	12358
 Claver Gatete	8754
@@ -458,6 +482,8 @@ Constitutional Challenges and Supremacy Clause Application	3861
 Content Classification and Online Safety	5189
 Country Classification	11935
 Country Classification About G3ict	11935
+County Intergovernmental Coordination Committee. Clause	14594
+County Statistics Office. Clause	14594
 Court Of Justice Clarifies When Courts	6632
 Critical National Infrastructure CoS Class of Service	11857
 Curb Duplicate Claims	14218
@@ -493,6 +519,7 @@ Data Classification and Transfers	11995
 Data Classification and Transfers All	11995
 Data Classifications. All	6432
 Data Protection Clause	13376
+Degree of Urbanisation Classifications	14674
 Deployment Type Class	736
 Deterioration Bouncing Back Not Classified	10837,1503
 Deterioration Increasing Deterioration Not Classified	10759
@@ -500,12 +527,15 @@ Deterioration Increasing Deterioration Not Classified Best	10759
 Deterioration No Change Not Classified	10759,76,3,130,918,466,1,135
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837,1503
+Deuxième Vide Président Madame RAMANANJARASOA Clarisse	14537
 Difference Does CLA Make	11006
 Diretrizes Claras Sobre Padrões de Segurança	11898
 Djibril Pierre Clavair Pamousso	6424
 Djibril Pierre Clavair Pamousso. Selon	6424
 Dr. Claire Mueni Ngeta	7167
 Dr. Keith Jefferis and Claudia Reader	12701
+Députée Clarisse Eugénie RAMANANJARASOA	14492
+Députée RAMANANJARASOA Clarisse Eugénie	14499
 Développement. Clairement	13290
 ECOLES ET SALLES DE CLASSES PUBLIQUES	10847
 ET-AUC-560865-GO-RFB Clarifications	10617
@@ -516,7 +546,7 @@ Emerging A1- Classification	7548
 Emission Class Adj Chn Selectivity	736
 Entrance Rooms Class	9123
 Environmental And Social Risk Classification	13787
-Environmental And Social Risk Classification Moderate	2291
+Environmental And Social Risk Classification Moderate	2291,12285
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988
 Environmental and Social Risk Classification	761,2801,42,8361,255,168,24,14,243,1065,9,113,159
@@ -546,6 +576,7 @@ GCC Clauses	13185
 GCC Sub- Clause	13185
 GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 Garmien Clarisse HEMA	7670
+Gazette. Clause	14594
 General Conditions of Contract Table of Clauses	13185
 George R. Clarke	13314
 GhIPSS CEO Clara B. Arthur	6097
@@ -565,6 +596,7 @@ Handling of Complaints and Claims	5676
 Handling of Complaints and Claims The Guidelines	5676
 Harmonized Classification of Fees	12164
 Heads of Tax Administrations Master Class	7692,1
+High Court. Clause	14594
 High-impact Class	8424
 High-risk Class	8439
 Honourable Lady Justice Claudia Claassen	12920
@@ -627,15 +659,18 @@ KAZIHISE Pierre Claver COORDINATION TECHNIQUE Mme	13300
 Kayitesi Claudette	12403
 Kenya Film Classification Board	7957
 Kenya National Qualifications Framework Act. Clause	7832,2448
+Kenya Statistics Authority. Clause	14594
 Kwanonqaba Mb Superspar Clanwilliam PnP Sanbury	8999
 L Licença de Classe	2866
 LE MARCHE CAHIER DES CLAUSES ADMINISTRATIVES	13524
+LISTE DES ANNEXES ANNEXE-1. Clauses	14490
 LTA Board Chairman Clarence K. Massaquoi	9742
 LTA Board Chairman Clarence Massaquoi	7410
 LTA Board Chairperson Clarence K. Massaquoi	9088
 LTA Chairman Clarence Massaquoi	4817,3576,562
 LTA Chairperson Clarence Massaquoi	7230,386
 La Clarification	13482
+Lack of Clarity	14546
 Land Claim Commissioner SACPLAN South African	11261
 Launch Jean Claude Musabyimana	12370
 Legal Claim	12302
@@ -650,8 +685,10 @@ MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
 MINED CLAIM IS REFUTED	3745
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MWIZERWA Jean Claude	12445
+Madame RAMANANJARASOA Clarisse Eugénie	14537
 Mandatory Exit Clause The Contract	6432
 Mapping Classification	6432
+Mar-2028 Environmental and Social Risk Classification	14456
 Marguerite Clarke AGIR ABBREVIATIONS AND ACRONYMS	11905
 Maria Claudia Pachon	1264,9450
 Master Class	7692,2
@@ -700,6 +737,7 @@ National Data Classification Framework. FPIs	11995
 National Data Classification Matrix Mozambique	3861
 National Government Expenditure Classification	2775
 National SEXE Classique Satellite Bilingue	10847
+National Statistical System. Clause	14594
 NotebookLM. Claude. GitHub. Lovable. Every	5513
 Number of Classrooms	1988
 Number of Spectrum Licenses Issued Service Class	12395
@@ -708,6 +746,7 @@ OCCUPATION Occupation Classés	13300
 OCRC Classé	10821
 OFFICE USE ONLY Fee Class	1877
 Object Class	12360
+Office. Clause	14594
 Online Content Classification and Emergency Regulation	2117
 Open Learning Classes	13477
 OpenAI and Claude	8405
@@ -755,6 +794,7 @@ Registration and Emission Class Certification	736
 Regulatory Clarification This Spectrum Roadmap	5245
 Research Infrastructure Classification	7548
 Resisting and Claiming Digital Sovereignty	11028
+Risk Classification	14601
 Risk Classification P177003 Investment Project Financing	10829
 Routier Classe	3396
 Rule Class	5665
@@ -762,6 +802,7 @@ Rule of Law Demands Clarity	3615
 Rural Slowing Improvement Not Classified Market	12352
 SAHPRA Classification	3651
 SAHPRA's Classification Guideline	3651
+SECONDAIRE ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET SOCIALES	14488
 SHA Claims Management Office	10331
 SI MOINS D'1 CLASSE	13300
 SIBOMANA Jean Claude	13390
@@ -772,6 +813,8 @@ SMART Education Solutions Transform Classrooms	3511
 SN Class	7845
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 SUPREMACY CLAUSE APPLICATION	3861
+Safeguard Clause	14409
+Safeguard Clause CHAPTER TWELVE	14409
 Saharan Africa. Classified	12367
 Sampling Zones Classification County Uasin Gishu	7869
 Santa Clara	9399,591,1402
@@ -806,6 +849,10 @@ Standard Contractual Clauses	5244,6712,37,1388
 Standard Industrial Classification	11296
 Standards Department Document Classification	12360
 Starlink Namibia's Class Comprehensive Telecoms Licence	5498
+Statistician-General. Clause	14594
+StatisticianGeneral. Clause	14594
+Statistics Act. Clause	14594
+Statistics Fund. Clause	14594
 Sub-Saharan Africa. Classified	11417
 Submit Claims	12389
 Sunset Clauses and Review Triggers	3861
@@ -842,12 +889,14 @@ United States’ Clarifying Lawful Overseas	6471
 Universal Services Provider Class B	736
 Unofficial Results and Premature Outcome Claims Voting	10725
 Up Innovativa Hardin AI Claibe	8530
+Utilisation CLA	14622
 V. Clarke	5349,5679
 VI.1 REPARTITION DES SALLES DE CLASSES	10847
 VI.3 SURFACE DES SALLES DE CLASSE	10847
 VI.8.5. Classement	10876
 VII. Classification	6612
 VSDC API Specification Item Classification Codes	12454
+Volamanana Clarisse	14569
 WHO's International Classification of Diseases	9370
 West Africa World Bank Classification of Fragile	1264
 Will Clarke	3937
@@ -855,5 +904,6 @@ Workload Classification Framework A2- Framework	7548
 World Bank Country Classification	11935
 World Bank Income Group Classification	10846
 World Bank's Nagaland Enhancing Classroom Teaching	11918
+X. ANNEXES ANNEXE-1. CLAUSES ENVIRONNEMENTALES ET	14490
 Zambian Govt Claims	12464
 Zimbabwe Environmental and Social Risk Classification	13523

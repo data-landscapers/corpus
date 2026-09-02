@@ -42,7 +42,8 @@ EXA Express	1766
 EXACT NUMBER OF DATA SUBJECTS WHOSE	2709
 EXAMINATION COUNCIL OF ESWATINI	12975
 EXAMINING HOW ORGANISATIONS MAINTAIN COMPLIANCE	1686
-EXAMPLE	11007
+EXAMPLE	11007,3427
+EXAMPLE Ministry X	14524
 EXAMPLES	11007
 EXAMPLES OF HIGH-RISK PROCESSING ACTIVITIES High-risk	13381
 EXAMPLES OF INTERNATIONAL FRAMEWORKS ON DATA	1243
@@ -56,11 +57,13 @@ Esq. The Examinations Council of Zambia	13477
 Eswatini ECESWA Examination Council of Eswatini ECOT	12975
 Ethiopian Higher Education Entrance Certificate Examination	13991
 Exa Agent	9605,670
+Exa web fetch exa	14680
 ExaGrid	11209
 ExaGrid Backup Storage. ExaGrid	11209
 ExaGrid and HPE The IDC	11209
 Exabeam	2824
 Exacciones Parafiscales	4209
+Exacerbating	14487
 Exact	379,25,241,5,35,732,724,87,6378,2240,2984
 Exact CapEx	1174
 Exact KOICA	907
@@ -69,6 +72,7 @@ Exact Proparco	1153
 Exact Rockefeller	521
 Exact SIFEM	945
 Exactement	8848
+Exactitude	14437,100
 Exactly	4641,207,2430,2769,1218
 Exactly the Block	1866
 Exagrid	11209
@@ -77,7 +81,7 @@ Exam Processing System	13477
 Exame	549,2267,9959
 Exame de Saúde Pós-Natal	10777
 Exame de Saúde Pós-natal	10777
-Examen	2377,1715,5420,1364,1106,1318,142,82
+Examen	2377,1715,5420,1364,1106,1318,142,82,900,1,112
 Examen Effectif	13300
 Examen Périodique Universel	10826,2912,56
 Examen Périodique Universel. Les Comores	13794
@@ -85,7 +89,7 @@ Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
 Exames	10777
 Examinar	1701,9748
-Examination	3,8351,1842,2031,402,346,168,168,74,92
+Examination	3,8351,1842,2031,402,346,168,168,74,92,1193
 Examination Centre	13477
 Examination Centres	13477
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
@@ -108,7 +112,7 @@ Examinations and Examination Materials Section	13477
 Examine	5677,6317,451
 Examine NGSO	5680
 Examined	1958,7781
-Examiner	747,8144,1985,2592,64,311
+Examiner	747,8144,1985,2592,64,311,694,37
 Examiners	13532
 Examiners of Deeds	13251
 Examines	1004,7601,3609
@@ -123,12 +127,25 @@ Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
 Examiné	8735,1,150,1075,3339
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18,120,963,1049,135,11
+Example A County Public Service Board	14524
+Example Afya Nzuri National Hospital	14524
+Example Commission	14524
+Example David	14524
 Example Encounter	6666
 Example Forthreepatientswithages25	8606
 Example Individual Address	11129
 Example Instances	6666
+Example John	14524
 Example Levels of Assurance	10765,10
+Example Maria	14524
+Example National Tax Agency	14524
+Example Omweno	14524
+Example RUNA LABS	14524
+Example State Department	14524
+Example Tenge	14524
+Example The State Department ABC	14524
+Example The Uwezo Ministry	14524
 Example Zimbabwean Health Facility Parirenyatwa Group	6666
 Example Zimbabwean Patient	6666
 Example Zimbabwean Practitioner	6666
@@ -143,8 +160,10 @@ Example of Private Mail Bag	11129
 Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53
+Example. The Kenya Social Security Agency	14524
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3,89,125,15,267,181,129,47,12,2,2,17,16,14,20,151,92,314,53,443,90,146
 Examples for Section	8530
+Examples of Data	14434
 Examples of G2P	11130
 Examples of M-PESA	11994
 Examples of Notable Enforcement	11896
@@ -193,8 +212,10 @@ Junior Secondary School Leaving Examination	13477
 Junior Secondary School Leaving Examinations	13477
 KENYA PUBLIC SECTOR EXAMPLES	6432
 KNEC Kenya National Examination Council KPHC	12151
+Kenya Accountants and Secretaries National Examination Board	14546
 Kenya Core IG. Examples	10100
-Kenya National Examinations Council	899,3084,2963
+Kenya Institute of Supplies Examination Board	14546
+Kenya National Examinations Council	899,3084,2963,7600
 LISTÉ DANS Exactement	13300
 Leaving Examinations	13477
 Level Description Examples Public	11952
@@ -215,6 +236,7 @@ Nicolas Nkhuwa Public Relations Manager Examinations	13477
 Note Examiner	13532
 Number of Examination Centres	2775
 O' Level National Exams. END	770
+Officer. Example	14524
 Oio Quinara Tombali Example Sra. Celina	11515
 Online Examination System	13991
 OpenEMIS Exams	12974
@@ -232,6 +254,7 @@ Primary School Leaving Examinations	13477
 Primary School Leaving Examinations Certificate. Will	13477
 Principles and Examples	12529
 Princípio de Exactidão	11374
+Public Interest Example Kilimo Ministry	14524
 Radio Amateur Examination Certificate	736
 Recommendation Examples Entrepreneurship Support	10841
 Requirements Requir Data Definition Explanation Example	12360
@@ -254,9 +277,12 @@ South Africa. Examples	396
 Statistics KNEC Kenya National Examinations Council	2775
 Strategy Example	10775
 Substantive Search and Examination	11250
+TAPE ACTION ENREGISTREMENT ET EXAMEN PRELIMINAIRE	14424
+TRI DE LA PLAINTE Examen	14424
 Technical Description Example Profile Framework	1009
 Technical Examinations Unit	258
 Trade Mark Examiner	10358
+UMR Espace-Dev. Example	14506
 WAEC West African Examination Council	11860
 WAEC West African Examinations Council WAT	11952
 WMO. Examples	11553

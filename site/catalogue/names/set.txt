@@ -87,6 +87,7 @@ Data Set	4528,7984
 Data Setup Time	5744
 Default Settlement Layer of Choice	9899,4
 Deferred Net Settlement	12364
+Delayed Settlement of Court Award Leading	14546
 Demand Intelligence DCDT MICT SETA	6832
 Department of Human Settlements	11244
 Development Community Real-Time Gross Settlement	11960
@@ -131,6 +132,7 @@ Gender Value Set Administrative Gender MaritalStatus	6666
 Genre SETIC	13341
 Ghana Interbank Payment and Settlement Systems	6075,22,6172,4
 Ghana Interbank Payment and Settlement Systems Limited	982
+Global Human Settlement Layer	14674
 Global Settlement Network	5743,1835
 Goal Setting	12356
 Governance and Institutional Setting	11553
@@ -233,6 +235,7 @@ Meheba Settlement	1988
 Meheba Settlement Land	1988
 Minister Chang. The Settlements	1829
 Minister of Human Settlements	11285
+Minister of Human Settlements and Another	14673
 Minister of Water and Human Settlement	12607
 Ministry and SETIC	13314
 Ministry of Human Settlements	11285
@@ -269,7 +272,7 @@ Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130,902,16,466,1,1
 Net Settlement	12364
 Net Settlement Instructions	12364
 Newsfeed Global Settlement Holdings	5743
-Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967,419
+Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967,419,3559
 Nigeria Inter-Bank Settlement System Instant Payment	7928
 Nigeria Inter-Bank Settlement System NIMC National	11952
 Nigeria Inter-Bank Settlement System Plc	8292,2846
@@ -301,8 +304,8 @@ PLANO SETORIAL DA EDUCA	11523
 PPP R&D RICTSP SETIC S.I. SMSI	13290
 PSPs. Settlement	12270
 Pan African Payment Settlement System	14189
-Pan African Payment and Settlement System	8442
-Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420,671,260,200,4,1179,859,67
+Pan African Payment and Settlement System	8442,6011
+Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420,671,260,200,4,1179,859,67,96
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Pan-African Payment and Settlement System. Further	6679
 Pan-African Payment and Settlement System. Separate	7880
@@ -348,6 +351,7 @@ Représentants SETIC	13290
 Retrieve SA NHIS Sharing Value Sets	1009
 Retrieve Sharing Value Sets	1009
 Revised Implementation Arrangements PM MFBPE SETIC	1284
+Ria Setyawati and Irena Audila	14434
 Rural Displacement Settings	10841
 Rural Displacement Settings Financial	10841
 Rural Settlement	13418
@@ -359,6 +363,9 @@ SADC Regional and Settlement System Operator	5263
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
 SCRYPT Expands Stablecoin Settlement Network Across	7378
 SET OUT IN PART	11240
+SET4Jobs	14576
+SET4Jobs MPA	14576
+SET4Jobs MPA Pillar	14576
 SETA Media Information and Communication Technologies Sector	11196
 SETA-funded	6832
 SETA-funded WBL	6832
@@ -476,7 +483,7 @@ Setsetse	9466
 Setshwane	12625
 Setswana	8108,2698,374,51,1325,85
 Settat	3375
-Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649
+Setting	21,552,210,217,885,87,2760,116,852,577,669,1071,113,1337,1352,37,104,17,40,889,336,53,15,190,174,290,331,19,44,649,667
 Setting Zone Setting Gender Mt Kenya	7869
 Setting the Context	13005
 Setting the Context NRB	13005
@@ -488,8 +495,8 @@ Settings Sitemap	12339
 Settle	9328
 Settled	3676,1220,722
 Settled Object	8380
-Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119
-Settlement Account	12364
+Settlement	395,1472,121,2908,359,608,6092,21,24,269,1,94,10,116,38,410,247,203,178,119,914
+Settlement Account	12364,2182
 Settlement Accounts	12364
 Settlement Agent	12364
 Settlement Agreement	3962,8580
@@ -506,6 +513,7 @@ Settlement Reserve Account RA Accounts	12364
 Settlement Settlement	12000,364
 Settlement System	9673,1045,284,2050
 Settlement System.............................13 Box	10718
+Settlement System.137	14674
 Settlement and Securities Systems	13468
 Settlement of Disputes	13185
 Settlement of Investment Dispute	13326
@@ -521,7 +529,7 @@ Settles the D1.1	1200
 Settling	10293,3239
 Settor Safo	6351
 Setty Olugo and Ruth Chebet	8285
-Setup	958,927,9978,1019,123
+Setup	958,927,9978,1019,123,1646
 Setup Scenarios	5665
 Setup Time	12745
 Setup and Installation Guide	5665
@@ -561,6 +569,7 @@ US-based Global Settlement Network	3727
 Unique Nuances of Settling	5863
 United Nations Human Settlements Programme	11285,287,1594
 Unplanned Urban Settlements	13474
+Unprioritized Settlement of Payments	14546
 Updated Set of Principles	3583
 Updated Shared Value Sets	1009
 Upgrading Informal Settlements	11285
@@ -569,6 +578,7 @@ WAEMU Automated Transfer and Settlement System	10853
 Washington Group Short Set	10768,2248,29
 White Paper. Sets the ICT	2411
 Work-Integrated MICT SETA DHET	6832
+World Bank Program Set	14603
 World Bank and SETIC	13331
 ZAMBIA INTERBANK PAYMENT AND SETTLEMENT SYSTEM	12364
 Zambia Interbank Payment and Settlement System	8039,4325

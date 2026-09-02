@@ -1,11 +1,13 @@
 A. Biramaze	13300
 ABBREVIATIONS BRR Birth	10714
 ACRONYMS CBR Crude Birth Rate	12367
+AEH LA BANOUE MONDIALE BIRD.l0A	14479
 ASBR Age-Specific Birth Rate ASFR Age-Specific	12413
 Abbreviations ABN Acknowledgement of Birth Notification AG	12151
 Abeba Birhane	5302,5425
 Aboubacar Yacouba Mai Birni	4997
 Accelerating Birth Registration and Leave No Child	12051
+Acknowledgement of Birth Notification	14461
 Acronym Definition LRB Late Registration of Birth	5533
 Acronyms and Definitions BC Birth Certificate CSOs	12328
 Advancing Birth Registration	13681
@@ -40,8 +42,8 @@ BIRTH REGISTRATION CAMPAIGN GAINING MOMENTUM	12291
 BIRTH REGISTRATION IN DOWA. Dowa	12291
 BIRTH REGISTRATION IS STILL UNDERWAY. NRB	12291
 BIRTHS	12898,746
-BIRTHS AND DEATHS REGISTRATION	13285
-BIRTHS AND DEATHS REGISTRATION ACT	11176,2109
+BIRTHS AND DEATHS REGISTRATION	13285,1176
+BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
 BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BIRTHS AND DEATHS REGISTRATION DISTRICTS	13285
 BIrbe	5349
@@ -82,6 +84,7 @@ Birnholtz and Bietz	12090
 Birni	4997
 Birni N’Gaouré	2801,1188,2105,484,605
 Birr Budget for Upcoming	3211
+Birr ETCSA Electronic Transactions and Cyber Security	14674
 Birr Eight Hundred Thousand	12146
 Birr Five Hundred Thousand	12146
 Birr Metrics	7474
@@ -93,7 +96,7 @@ Birr. Beyond	8646
 Birr. Cross-border	12272
 Birr1651.9	5655
 BirrMetrics	10496
-Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19
+Birth	2072,597,335,196,1353,89,299,592,2099,1829,74,161,108,910,51,10,37,2,8,7,150,197,42,328,318,5,108,9,19,52,7,74,13,37,26,2,1,2,7,1,14,9,41,36,1,5,4,1,29,46,58,15,10,27,116,125,186,9,46,75,15,58,62,5,165,12,2,245,34,3,225,41,50,48,46,19,545
 Birth As-	12151
 Birth Asphyxia	12151
 Birth Asphyxia Asphyxia	12151
@@ -160,10 +163,11 @@ Birth and Death Registration Act. Submission of Draft	11986
 Birth and Death Registrations	12944
 Birth and Death Tables	12672
 Birth and Deaths Registration Act CAP	10822
+Birth-to-ID Continuity	14655
 Birth. Dep. Chief Registrar Oversees	12064
 Birthday	6553,6424
 Birthday Charity Run of Chief of Defence Forces	9781
-Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335
+Births	1,539,2232,2761,5289,1164,152,13,16,83,77,10,1,29,16,30,58,126,42,33,226,61,25,21,148,132,359,335,482
 Births Abroad Birth	12216
 Births And Deaths Is Declared	12138
 Births And Deaths Registration Act Subsidiary	12138
@@ -179,8 +183,8 @@ Births and Deaths Act	13005
 Births and Deaths Compulsory Act	12064
 Births and Deaths Office	11133
 Births and Deaths Registrar	3287
-Births and Deaths Registration	5142,5680,1316
-Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130,407,10,64,301,387,1,21,8,82
+Births and Deaths Registration	5142,5680,1316,2323
+Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130,407,10,64,301,387,1,21,8,82,1010,54
 Births and Deaths Registration Act CAP	12533
 Births and Deaths Registration Act Cap	12639
 Births and Deaths Registration Act Chapter	13315
@@ -190,6 +194,7 @@ Births and Deaths Registration Act. The RA	12151
 Births and Deaths Registration Bill	5299
 Births and Deaths Registration Ordinance	12151
 Births and Deaths Registration Ordinance No	12151
+Births and Deaths Registration Rules	14461
 Births and Deaths Registration System	5634,1,6962,42
 Births and Deaths Registration System MOH	12639
 Births and Deaths Registration System The Births	12639
@@ -242,7 +247,7 @@ District Wide Birth Registration During Q3	13080
 District Wise Birth Registration During Quarter	12241
 District of Birth	12496
 EDEN Information System for Birth Registration INSD	10812
-Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151,205,4,2,6,160,169,1,1,2882,1,1,1,1,1
+Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151,205,4,2,6,160,169,1,1,2882,1,1,1,1,1,311,1,2
 Early Birth Registration	11274
 Early Registration of Birth	3200
 Electronic Birth Registration	12051
@@ -253,6 +258,7 @@ Ethiopia Mr. Biruk Feleke I Press	11283
 Ethiopian Birr	8231,3957
 Ethiopian Birr EU European Union EV	12233
 Every Child’s Birth Right	10775
+Expand Birth Registration	14590
 Expected Births	12151
 External Birth Certificates	12496
 FIRST LADY PARTNER ON BIRTH REGISTRATION	11915
@@ -273,6 +279,7 @@ Harmonised Births and Deaths Registry Portal	9535
 Health Facility Births	12151
 Home Births	12367
 Hospital Data Management Module for Births Registration	12186
+Included the Birth Entry Number	14655
 Increasing Birth Registration	61
 Informant. Birth	12216
 Information System for Birth Registration	10812
@@ -312,6 +319,7 @@ Million Birr	7538
 Millions Birr	5655
 Mobile Birth Registration	10822
 Mohammed Birouaine	8891
+Mr. David Birech	14505
 Multi-Billion Birr Accounting Failure	7909
 Musanze BIRTH REGISTRATION RECOMMENDATIONS Mobilize	12328
 NA NA Birth	5533
@@ -353,6 +361,7 @@ Phase One of National Birth Registration Campaign	12291
 Phyllis BiroriJohannesburg	3697,1687,800
 Place of Birth	13307
 Place of Registration of Birth	12226
+Population.2. Births	14410
 Pregnancy Birth Pregnancy	12151
 Print Email Birth	12496
 RECORDS AND RETURNS OF BIRTHS	12898
@@ -381,6 +390,7 @@ Required Date of Birth	12281
 Requirements for Birth Registration	13644
 Research Births	12151
 Research-Report Birth-Registration-CAM Web.pdf	13681
+Respondent The Principal Registrar of Births and Deaths	14460
 Rwanda Document Description Birth Certificate	12328
 SUB-SECTION TWO REGISTRATION OF BIRTH	12226
 Safer Births Bundle of Care	7895

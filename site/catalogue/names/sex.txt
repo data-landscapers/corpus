@@ -1,6 +1,9 @@
 A. The Sexual Offences and Domestic Violence	12939
+ABUS ET EXPLOITATION SEXUELLES	14490
 ACTIVITÉ SEXUELLE RÉCENTE	13300
 AVEC SEXE RÉSIDENCE	13300
+Abus Sexuel	14488,1,1
+Abus Sexuels	14488
 Abus Sexuels EI	10876
 Abuse STI Sexually Transmitted Infection TWG	12939
 Abuso Sexual	11390,16,7
@@ -65,10 +68,15 @@ ENSEIGNANTS PAR SEXE	10847
 ENSEIGNANTS SEXE ET AGE	10847
 ENTENDU PARLER D'AUTRES INFECTIONS SEXUELLEMENT	13300
 ENTENDU PARLER D'AUTRES MALADIES SEXUELLEMENT	13300
+ET EXPLOITATION SEXUELLES	14489
+ET EXPLOITATION SEXUELLES ANNEXE-7. Fiche	14488,1,1
+ET EXPLOITATION SEXUELLES L’élaboration	14488
 Economia Sexta	11479
 Educação Sexta	11429
 Ensemble Sexe Masculin Féminin	13390
 Experiência de Violência Sexual	10777
+Exploitation Sexuelles	14488,1,1
+Exploitation Sexuels	14488,1,1
 FBU Sexe Homme Femme Vivant	13390
 FEMME NON EN UNION SEXUELLEMENT ACTIVE1	13300
 FEMMES NON EN UNION SEXUELLEMENT ACTIVES4	13300
@@ -85,6 +93,7 @@ General and Sex-Disaggregated Statistics	12389
 Ghana. Sex	582
 H Sexe	13442
 HABITUELS LIEN AVEC SEXE RÉSIDENCE	13300
+Harcèlement Sexuelles MECIE	14488,1,1
 Health and Rights STD Sexually Transmitted Disease	970
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 INFECTIONS SEXUELLEMENT TRANSMISSIBLES DÉCLARÉES Infections	13300
@@ -113,6 +122,7 @@ MATANA MUSONGATI Urbain Sexe Masculin Féminin	13390
 Makamba Muramvya Muyinga Mwaro Sexe	13442
 Makamba Muramvya Muyinga Sexe	13442
 Makamba Muramvya Sexe	13442
+Maladies Sexuellement Transmissibles	14488,1,1
 Maladies Sexuellement Transmissibles NA	13377
 Malawi. Int. Pers. Sexual and Reprod. Health	13040
 Male Female Both Sexes Rank Cause	12151
@@ -211,6 +221,7 @@ Section Couture Menuiserie Soudure Total Sexe	13442
 Self- Generated Sexual Content	12459
 Sex District	12379
 Sex Femme	737
+Sex Male	14666
 Sex Male Female Total Western Cape	11192
 Sex Physical Sexual Neglect Emotional Financial	12977
 Sex Ratio	958,8527,2666
@@ -256,8 +267,9 @@ Sexual	587,10163,26,53,1087,337,650,36,23,396
 Sexual Abuse	13185
 Sexual Behaviour	14067
 Sexual Exploitation	9766,1010,2409
-Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147
+Sexual Exploitation and Abuse	1264,514,89,4036,5514,836,724,134,74,147,1290
 Sexual Exploitation and Abuse Mitigation Plan	2889
+Sexual Exploitation and Abuse Politique Nationale de Santé	14622
 Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988
@@ -282,11 +294,14 @@ Sexual and Reproductive Health	9766,1010,3255
 Sexual and Reproductive Health Rights	11791
 Sexual and Reproductive Health Services	12976
 Sexual and Reproductive Health and Rights	970,11636
+Sexually Transmitted Disease	14434
 Sexually Transmitted Infections	1988,10265,787
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sexuelle	13300
 Sexuellement	13300
+Sexuelles	14488,1,1
+Sexuels	14489,1
 Sintomas de Infecções Transmissíveis Sexualmente	10777
 Social SOGI Sexual Orientation and Gender Identity	11413
 Sociedade Sexta	11479

@@ -1,10 +1,11 @@
+AFRITAC Sud	14581
 AU SUD DE CASABLANCA-MAROC	8891
 Aayushya Ranjan MTN South Sudan	2716
 Abbreviation Full Wording CCS Collective Sudan	6947
 Africa. Sudan	14271
 Africa. The South Sudan	4069
 AfricaAlertsSouth SudanMore	2313
-Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638
+Afrique du Sud	2514,20,198,446,310,71,99,622,63,330,1093,434,41,34,145,193,91,46,282,74,465,15,27,259,57,167,218,411,30,138,239,16,309,26,407,71,443,207,71,4,25,264,536,1763,32,84,52,126,172,25,638,109,110,58
 Afrique du Sud BVG Bureau du Vérificateur Général	6959
 Afrique du Sud Pilier	8525
 Afrique du Sud. AFRINIC-38	14241
@@ -14,10 +15,13 @@ Afrique du Sud. Cette	3559
 Afrique du Sud. Il	10606
 Afrique du Sud. L'objectif	8205
 Afrique du Sud. Lors	10404
+Afrique du Sud. L’objectif	14622
 Afrique du Sud. Présentée	7899
 Afrique du Sud....tu	5022
 Agricultural Bank of Sudan	9587
 Airtel South Sudan	8753
+Amboasary Sud Ce	14622
+Amboasary Sud Investigation	14622
 Angola and Sudan	11900
 Annual Report for South Sudan	3583
 Anonymous Sudan	3983
@@ -91,6 +95,8 @@ DRC Equatorial Guinea Gabon South Sudan	690
 DRC and South Sudan	2928,5825
 DRCLU Sud-Comoé	10937
 Dalia The Central Bank of Sudan	14229
+Dans le Grand Sud	14622
+Datacenters Afrique Afrique du Sud Algérie Angola	14683
 Daya Sudrajat	226
 Director General of South Sudan's Directorate of Civil	9771
 Director of Training for South Sudan’s Civil Registry	10317
@@ -101,6 +107,7 @@ Djibouti and Sudan	6096
 Drive Sudanese	5428
 Ecocash. South Sudan	13388
 Egypt Sudan Pakistan India Nepal Myanmar	418
+En Afrique du Sud	14423
 Episcopal Church of South Sudan	3046
 Equatorial Guinea Mozambique Sudan	12214
 Eritrea and Sudan	14008
@@ -125,8 +132,13 @@ Government of South Sudan.114	3583
 Government of South Sudan.307	3583
 Government of Southern Sudan	3583
 Government of Sudan	158,3425,7258
+Grand Sud	14560,62
+Grand Sud Melaky Betsiboka Analamanga Bongolava	14622
+Grand Sud de Madagascar. Six	14560
+Grand Sud. Sur	14622
 Guinea Chad South Sudan Zambia Angola	10819
 HOPE Sudan	6947
+Hemisphere Sud	14442
 Hon. Mogga Charles Guya South Sudan	7495
 Huawei and South Sudan	4949
 Humanitarian Operations SLA Sudan Liberation Army	6947
@@ -174,6 +186,7 @@ News South Sudan	9139
 Niger and Sudan	1465
 OSI M-HcI M-TII Africa Sudan Middle	10840
 Oudalan Loumbila Sud-Ouest Séno Nagréongo	10875
+Ouest Boeny Analanjirofo Grand Sud Est	14622
 PM Sudan	5864
 Palestine Sudan Suriname Syrian Arab Republic	10764
 People of Sudan	14075
@@ -235,8 +248,12 @@ Société Sud-Kivu	10278
 Somalia State of Palestine Sudan Syrian Arab	10764
 Somalia and South Sudan	1216,5712,5369,1639
 Soudan du Sud	1680,1688,2873,372,3108,37,1068,1279,1347,911
+Sous Bureau Grand Sud	14622
+Sous Bureau Grand Sud Est	14622
+Sous-Bureau Grand Sud	14662
+Sous-Bureau Grand Sud-Est	14662
 South Suda	11900
-South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70
+South Sudan	122,73,1,65,141,3,54,554,35,168,249,5,423,70,60,83,128,62,6,11,45,135,76,108,5,3,2,29,59,39,132,100,86,80,96,15,94,25,65,76,1,75,20,49,5,3,2,38,266,27,28,126,20,14,42,176,69,39,14,38,5,14,14,10,131,16,11,76,37,65,46,23,16,8,186,54,81,5,96,72,405,40,9,22,19,19,67,10,67,22,52,93,67,120,58,39,66,16,19,15,48,18,36,19,302,246,11,1,1,1,135,63,42,112,70,1,1,78,58,132,12,359,143,38,325,4,40,17,210,164,72,1,121,63,2,1,33,219,161,1,73,57,251,31,58,57,27,18,26,8,29,7,6,3,2,1,3,124,206,36,290,72,37,261,16,1,2,11,60,46,132,13,2,1,9,10,15,8,31,6,24,84,11,1,32,103,378,396,14,94,254,89,223,8,78,57,19,5,55,70,206,77,163,33
 South Sudan Air Traffic Management System	261
 South Sudan Announces	3728
 South Sudan Author	3212
@@ -397,6 +414,7 @@ Sud East African Community	13468
 Sud Kivu Educational	11916
 Sud Parmi	6959
 Sud Soudan	13924
+Sud de Madagascar	14509
 Sud du Royaume	8891
 Sud du Sahara	10712
 Sud du Sénégal	10061
@@ -426,7 +444,7 @@ Suda Pass	11066
 SudaChad Telecom	5033
 SudaPass	4807,58,5326,391
 Sudamérica. Guinea Ecuatorial	3179
-Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,44,36,35,42
+Sudan	158,78,166,113,264,207,27,452,211,175,36,76,350,146,35,22,4,162,55,86,309,316,135,154,165,81,99,175,326,82,142,2,56,27,6,20,17,40,69,820,417,52,280,179,146,9,3,47,444,203,44,19,42,45,15,149,173,2,51,17,276,95,351,49,479,38,1,97,187,1,1,83,148,1,184,21,121,122,126,81,14,82,5,21,8,36,6,3,2,1,7,120,168,74,67,33,262,37,261,13,3,1,2,11,253,1,9,10,54,6,32,68,8,11,1,23,112,668,106,108,193,150,202,6,15,86,17,35,1,4,1,21,2,11,44,36,35,42,205,231
 Sudan Airways	9490
 Sudan Cash Working Group	6947
 Sudan Companion	779
@@ -518,6 +536,7 @@ Sudanese Refugees Receive Digital IDs	12257
 Sudanese and Chad	10841
 Sudanese and Nigerian	9616
 Sudanese and Somali	12227
+Sudanese-led	14476
 Sudanhorizon	9774,233
 Sudanhorizon State Minister	8613
 Sudanhorizon Sudan’s Minister of Finance	8923
@@ -570,6 +589,7 @@ Tanzania. Burundi and South Sudan	11960
 Timeline of South Sudan Tech	3212
 Title MTN South Sudan	2302
 Transitional Constitution of South Sudan	4042
+Tsaratanana. Le Sud	14442
 Télécom SudParis	1183
 Télécom Sudatel	4919
 U.S.-sanctioned South Sudan	10599

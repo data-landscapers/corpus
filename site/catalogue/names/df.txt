@@ -71,7 +71,8 @@ DFI Certificate	11153
 DFI LP	1428
 DFI Phase	487
 DFI Phases	128
-DFI-backed	10718
+DFI-backed	10718,3903
+DFI-financed	14621
 DFI-intermediated	10718
 DFI. Crosswalk	946
 DFID Department for International Development	11860
@@ -132,6 +133,7 @@ DFS. Ministry of Interior Medium High Short	13314
 DFS. Mobile	11994
 DFS. NMSEs	11994
 DFS. Population Urban	11994
+DFS. Regulation	14674
 DFS. Technologies	11994
 DFS. Urban	11994
 DFS.116	11994
@@ -142,6 +144,7 @@ DFSPs	10020
 DFSTF	12158
 DFT HEALTH SERVICES LTD Data Controller	7167
 DFT HEALTH SERVICES LTD Data Processor	7167
+DFTIFM	14488,1,1
 DFast-Tracking	5700
 DField	5349
 DForthcoming	5700
@@ -166,6 +169,7 @@ Digital Infrastructure Availability of DFS	11994
 Digital SME Invoice Financing Loan DFC	1062
 Diligence DFI Development Finance Institutions EBITDA	1818
 Dutch and Norwegian DFIs	11300
+E LA DFrrE ET	14479
 E-Commerce Platform Loan DFC	1437
 Encourage DFS	1161
 Enhancing the DFS	1093
@@ -224,6 +228,8 @@ Size of DFI-Intermediated Trade Finance and Trade Finance	10718
 Size of DFI-intermediated	10718
 South Africa. DFC	90
 South Africa. The DFC	90
+Sovereign DFI	14621
+Sovereign DFI Financing	14621
 Sudan's DFS	5118
 Supporting DFS	484
 System DFI Development Finance Institutions DG	11224

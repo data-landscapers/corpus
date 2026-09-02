@@ -1,3 +1,5 @@
+A. Travailleurs	14424
+AFFECTER LES TRAVAILLEURS DU PROJET	14424
 AFRICA BLISS TRAVEL LIMITED Data Controller	7167
 AHAMBI TOURS AND TRAVEL AGENTS LIMITED	7167
 AKBAR TRAVELS OF INDIA LIMITED Data	7167
@@ -8,11 +10,13 @@ Africa-BB-Maps VII. TRAVAUX EN GROUPE	13482
 Afrique Centrale GTT Groupe de Travail Thématique	11944
 Afrique. Traverser	2514
 Agriculture Commerce Elevage Couture Maçonnerie Travail	10841
+Analyse du Marché du Travail	14622
 Annexe E TRAVAIL DES ENFANTS NO	13300
 April. Its European Travel Information and Authorisation	9895
 Arabian Travel Market United Arab Emriates	11185
 Arebbusch Travel Lodge	14253
 Arms Embargo and Travel Ban	7845
+B. Travailleurs	14424
 BEYDA TOURS AND TRAVEL LTD Data	7167
 BIGMAN TRAVEL AND HOLIDAYS LIMITED Data	7167
 Biometric Travel Solutions Ltd	2796
@@ -33,7 +37,8 @@ Caractéristique Travaux Travaux Effectif Travaux Travaux	13300
 Charleston Travel Ltd Data Controller INST-5067206E7DD	7167
 Charleston Travel Ltd Data Processor INST-5067206E7DD	7167
 Citizenship and Travel Documents	11986
-Code du Travail	4567
+Code de Travail	14424
+Code du Travail	4567,9865,56,1,1,47
 Code du Travail du Burundi	13334
 Code du Travail du Bénin	10876
 Code du Travail. Sous-section	1231
@@ -52,6 +57,8 @@ ECOWAS Travel Certificate and Resident Permit	12015
 EMPLOI ET CONDITIONS DE TRAVAIL DANS	10875
 EMPLOI Travaille	13300
 ETA Electronic Travel Authorisation EXCO Executive	11218
+ETUDE ET ETAT DES TRAVAUX	14488,1,1
+ETUDE ET REALISATION DES TRAVAUX Architecte	14488,1,1
 Eagle Travel Service Data Processor INST-10301319A58	7167
 Earth. For... UK Travel Site Lists	5390,965,827
 Edéa Travaux	10975
@@ -87,6 +94,7 @@ Information PTA Plan de Travail Annuel PTF	10712
 Ingénieur des Travaux Statistiques	13937
 Islamic Forum Life Xtra Property Travel	9878
 Justice du Burundi-Composante Numérisation LIEU DE TRAVAIL	13635
+LA LÉGISLATION DU TRAVAIL	14424
 LE TRAVAIL	13300
 LIEU DE TRAVAIL	13300
 Le Groupe de Travail	11944
@@ -97,28 +105,37 @@ Long-Distance Travels With Carpooling Platform Pip	7324
 MARCHES DE TRAVAUX	1649
 MINISTÈRE DU TRAVAIL CHARGÉ	13891
 Machine-Readable Travel Documents	12164
-Marché du Travail	10944
+Marché du Travail	10944,3678
 Marchés Publics PTBA Plan de Travail	10876
 Marchés de Travaux Il	10876
+Ministre du Travail	14463
 Ministère des Travaux	3231
 Ministère des Travaux Publics	3231
 Ministère du Travail	1281,46,690,2140,241,4,18,4330,2071,55
 MyT Travel	7367
+NATURE DES TRAVAUX AFFECTATION DU BATIMENT	14489
 Nigeria. Trop Dis Travel Med Vaccines	10919
 Normes Internationales du Travail	3396
-Organisation Internationale du Travail	643
+OCCUPEES TRAVAUX	14488,2
+Organisation International du Travail PAEB	14472
+Organisation Internationale du Travail	643,13781
 PEACE- WORK- FATHERLAND PAIX- TRAVAIL- PATRIE	10980
 PTA Le Plan de Travail Annuel	10876
+PTA Travail Annuel	14537
 Pires Formes de Travail	3396
 Pires Formes de Travail des Enfants	13442
 Plan de Travail	3816,7060
 Plan de Travail Annuel	3469,3213,4030,162,2
 Plan de Travail Annuel PTF	10874
 Plans de Travail Annuels	10712
+Portant Code du Travail	14488,1,1
+Pourcentage de Travailleurs	14490
 Prestataire. XVI. LANGUE DE TRAVAIL	13635
 Privé I.P. Travaillant	10847
 Privé Sexe I.P. Total Travaillant	10847
 Procurement THIMO Travaux	10964
+Programme Général de Travail	14622
+Programme Général de Travail Ressources Humaines	14622
 Programme de Travail Trimestriel RESA	10874
 Promotion du Travail	8891
 Public Service Travel	11986
@@ -144,7 +161,9 @@ TRAVAIL DES ENFANTS NO. QUESTIONS ET	13300
 TRAVAIL DES ENFANTS Selon la Convention	13300
 TRAVAIL Organisés	10024
 TRAVAIL- PATRIE	10981
+TRAVAILLEURS	14424
 TRAVAILLÉ SUR	13300
+TRAVAUX	14488,1,1
 TRAVAUX DE LA LIGNE	2342
 TRAVAUX DE LABORATOIRE COORDINATION ADMINISTRATIVE	13300
 TRAVEL	13093
@@ -160,31 +179,36 @@ Tour Operators and Travel Agencies	8677
 Tourisme Travaux Publics	2342
 Tourists and Travelers Importation Of Goods Rules	12454
 Travado	12148
-Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541
+Travail	37,197,409,641,553,677,224,503,85,30,40,32,992,147,246,290,964,546,363,508,171,136,52,135,31,218,42,33,202,11,70,306,111,744,268,280,179,137,81,121,9,5,49,19,19,31,31,176,10,486,1653,14,17,10,101,358,541,82,1,39,25,1,1,39
 Travail ANNEXE I AU DECRET N	10906
 Travail ANNEXE II AU DECRET N	10906
 Travail Comité National de Coordination	3396
 Travail DECRET	10903
 Travail DECRET N	10896,1,1,6,1
+Travail Disponibilité	14488,1,1
 Travail PLAN DE PROTECTION DES INFRASTRUCTURES	10906
 Travail Parlementaire	9480
 Travail RAPPORT D’ACTIVITÉS	10821
+Travail Unité de Gestion du Projet Violences Basées	14424
 Travail. Ce	8515
 Travaillait	13300
-Travaillant	10847
+Travaillant	10847,3687
 Travaille	13300
 Travailler	8515,3528,1347
 Travailleur	737
-Travailleurs	737,10139
+Travailleurs	737,10139,3612,1,1
 Travailleurs Migrants	10841
+Travailleurs Pendant	14489
+Travailleurs du Projet	14424,65,1
+Travailleurs du Projet Phase	14489,1
 Travaillez	13405
 Travaillez-vous	13300
 Travaillons	10795
 Travails	10962
-Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17
+Travaux	737,912,341,352,624,265,637,257,277,3365,2463,165,316,164,1,88,11,10,2315,142,215,114,111,4,5,17,511,159
 Travaux Au	10975
 Travaux Ministère	1297
-Travaux Publics	643,12799
+Travaux Publics	643,12799,1047,1
 Travaux Publiques	2342
 Travaux des Commissions. Séance	2063
 Travel	1988,332,1219,1420,19,555,545,180,3915,1079,688,274,114,180,463,5,1,1031
@@ -215,6 +239,11 @@ Travelling	9666
 Travelling Child Sex Offending	12459
 Traveloka	11994
 Travels	12977
+UVRE DES TRAVAUX D'AMENAGEMENT CENTRE	14589
+UVRE DES TRAVAUX D'AMENAGEMENT DU BÂTIMENT	14589
+UVRE DES TRAVAUX DE RENOVATION	14589
+UVRE DES TRAVAUX D’AMENAGEMENT CENTRE	14490
+UVRE DES TRAVAUX D’AMENAGEMENT DU BÂTIMENT	14488,1
 Valu Expands Travel Fintech Offering Through	7516
 World Travel and Tourism Council	5418
 World Travel and Tourism Council Global Summit	5418

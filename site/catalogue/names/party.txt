@@ -14,6 +14,7 @@ Angolan Opposition UNITA Rejects Ruling Party	9399
 Any Party	12400
 Any Relying Party	12146
 B. Eswatini State Party Report	12977
+Bm Decibel-milliwatts DPP Democratic Progressive Party	14674
 CNE. ELECTION OBSERVATION AND PARTY AGENTS	12201
 Candidate and Party Information	7266
 Certification Relying Party Subject	10819
@@ -29,7 +30,8 @@ DIRECTORS' INTERESTS AND RELATED PARTY MATTERS	4896
 Defaulting Party	12400
 Democracy for Citizens Party	11084,1029
 Democratic Party	10042,2251
-Democratic Progressive Party	4790,8332
+Democratic Progressive Party	4790,8332,1552
+Democratic Progressive Party Manifesto	14674
 Digital Identity Relying Party	10819
 E.g. OECD Working Party	4126
 EU Party	13996
@@ -71,9 +73,10 @@ PARTY MUST SUBMIT A SEPARATE	11240
 PARTY PLATFORM NUMBER OF FOLLOWERS PERCENTAGE	12201
 PRESENCE AND CONDUCT OF POLITICAL PARTY	10049
 PUBLICATION OF INFORMATION Each State Party	1243
-Party	25,758,460,745,1772,49,163,77,105,93,55,559,1571,744,2066,1471,441,1047,199,59,572,6,406
+Party	25,758,460,745,1772,49,163,77,105,93,55,559,1571,744,2066,1471,441,1047,199,59,572,6,406,1004,13
 Party Cloud Service Providers	6432
 Party Data	11298,2326
+Party Details Plaintiff	14675
 Party Funding	12652
 Party Membership Levels	7869
 Party Non-Supporters	7869
@@ -95,7 +98,8 @@ Political Party Support Kenya's Political Landscape	7869
 Political Party They Support	7869
 Political Party Total Central Rift Coast	7869
 Political Party With ECN	12350
-Presidential Working Party	12312
+Presidential Working Party	12312,2189
+Progressive Party	14674
 Project ESMF Type Responsible Party Development	1988
 Prosperity Party	3176
 Province Political Party Number	12201
@@ -113,6 +117,8 @@ SWAPO Party	13024
 SWAPO Party Headquarters	12984
 SWAPO Party Manifesto Programme NQA	13033
 Secretariat for Party	12201
+Secured Party	14647
+Secured Party's Identification Information	14647
 Sekere Verantwoordelike Partye	11255
 Socialist Party	14277
 Specify State Party	1243

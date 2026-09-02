@@ -50,6 +50,8 @@ Budget Reporting and Control Stores Accounts Payable	9437
 Bulk Storage Terminal Ltd	12256
 Bureau of Statistics ERI Kipevu Oil Storage	12256
 Burundi Stock Exchange	13388
+CIREF Stockage	14423
+CIREF Stockage CIREF	14423
 CONGO STOCK-TAKING OF FUEL SUBSIDIES	1828
 COOKING STORIES Data Controller INST-56563401CA5 NAIROBI	7167
 CSL Stockbrokers Limited	7446
@@ -83,7 +85,7 @@ Compute and Storage Infrastructure	13185
 Considerations for Cloud Storage	12302
 Cook Stoves	12358
 Covered Stockpiles	1988
-DATA STORAGE	5244
+DATA STORAGE	5244,9190
 DHIS2 User Story	12408
 DIGITIZATION AND STORAGE	12338
 DOES THE STORY MATTER	11730
@@ -98,7 +100,8 @@ Data Storage Secure	5244
 Data Storage TBA TBA	1988
 Data Stories Contact	12499
 Debt Service Debt Stock	13868
-Debt Stock	13053
+Debt Stock	13053,1493
+Debt Stock and Prior	14546
 Decision Support Stores	2477
 Deletion of Zimbabwe Stock Exchange	4896
 Dell EMC ME4084 Storage	9475
@@ -132,8 +135,10 @@ FEATURE STORY ECZ’s Legacy	13477
 FIJ Story	10265
 FIJ Story Forced Contractor Back	7176
 FIJ’s Story	7176
+FULL STOPS	14670
 FULL STORY ON PAGE	13044,64
 Falls Stock Exchange	4896
+Feature Story Content-date	14669
 Feature Story Synopsis	9985
 First Stop	2677
 Forbidden Stories	4127
@@ -156,7 +161,7 @@ Good Storage and Distribution Practices	4301
 Google Cloud Storage	9123
 Google Finance StoneCo	5124
 Google Play Store	7266,3804,1139,256,176,91,568,752
-Google Play Store and Apple App Store	2885
+Google Play Store and Apple App Store	2885,11812
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
 Google Play and Apple Store	12580
@@ -233,7 +238,7 @@ MESOB One Stop Service	7820
 MESOB One Stop Service Chief Executive	7820
 MSL Medical Stores Limited MTWSC Ministry	34
 Mainstream News Stories	13462
-Malawi Stock Exchange	13122
+Malawi Stock Exchange	13122,1552
 Manzini Storm	12977
 Marie Stopes	13400
 Marie Stopes Zambia	13400
@@ -241,6 +246,7 @@ Marie Stopes Zambia Operations Director Inonge	13400
 Media Storage Service	13042
 Microsoft Windows Azure Storage	9123
 Midlands Provincial Stores	13420
+Migratory Fish Stocks	14447
 Milk Story	8182
 Ministry of Health and Marie Stopes Zambia	13400
 Mobile App Store	11004
@@ -282,6 +288,7 @@ PAR Storage	11209
 PAR Storage Systems	11209
 PB Enterprise Storage	3487
 PB Object Storage	3487
+PETROLEUM STORAGE FACILITIES REPORTING REQUIREMENTS	14528
 PROJECTS STORY	1991
 PV Sources Storage	11953
 PV Wind CSP Pumped Storage Hydro	11953
@@ -334,6 +341,7 @@ S.r.l StoryTailors Ltd StratIA Global Studio	8530
 SAN Storage Area Network SDD Solid-State	13185
 SERVER AND STORAGE INFRASTRUCTURE	11209
 SOCIÉTÉ DE GESTION DES STOCKS PÉTROLIERS	2342
+STO93804	14601
 STOA and Thebe Investment Corporation	448
 STOCK IMAGES Postbank	7856
 STOCK-TAKING OF FUEL SUBSIDIES IN CONGO	1828
@@ -346,12 +354,15 @@ STOP. THINK. CONNECT. Campaign	6936
 STOPEACOP Countering Xenophobia	9682
 STOPPÉ LA NOUR	13300
 STOPPÉ LA NOURRITURE	13300
-STORAGE	12413
+STORAGE	12413,2021
+STORAGE AND TRANSPORTATION	14528
+STORAGE INFORMATION REQUIREMENTS AS PRESCRIBED	14528
 STORAGE OF PERSONAL INFORMATION	13376
 STORE	1009
 STORY HIGHLIGHTS	6251,7680
 STORY HIGHLIGHTSSTORY HIGHLIGHTS In Benin	6251
 STORY OF TRANSFORMATION	5245
+STocK	14479
 SUCCESS STORIES FROM SUB-SAHARAN AFRICA	11572
 SVS Stock Visibility System MTEF Medium-Term	396
 SWASA Online Store	12894
@@ -376,7 +387,7 @@ Stochastic Frontier Analysis	1828
 Stochastic Frontier Model Estimates 19 BOX	10997
 Stochastic Frontier Model Estimates Variables Model	10997
 Stochastic Frontier Models	1828
-Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526,374,171,890,295,189,519
+Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526,374,171,890,295,189,519,241,61
 Stock Add	3962
 Stock Cape Town	11012
 Stock Exchange	4896,7059,1001
@@ -393,13 +404,18 @@ Stock Theft Units	11188
 Stock Visibility System	396
 Stock of Domestic Arrears and Drivers	1828
 Stock-Taking of Fuel Subsidies	1828
-Stockage	5978,5161,2236,58
+Stockage	5978,5161,2236,58,990,57,142
+Stockage CIREF	14423
+Stockage Il	14423
 Stockage Interne du Tablette	13375
+Stockage Registre Valorisation Elimination	14423
+Stockage Réparation Réutilisation	14423
 Stockage Réseau	9049
+Stockage des Justificatifs GED Base	14480
 Stockbroker	4896
 Stockbrokers	4896
 Stocked	1988
-Stocker	1005,12804
+Stocker	1005,12804,680,1
 Stockholm	427,1812,4873,1264,1266
 Stockholm Convention	11332
 Stockholm Internet Forum	110
@@ -419,6 +435,7 @@ Stocktaking	1828
 Stockton-and-Darlington-Railway	4259
 Stoga	10780
 Stoga Kancelarija	10780
+Stoicu-Tivadar L	14666
 Stoker	7886
 Stokes	2093
 Stokoe	11128
@@ -441,6 +458,7 @@ Stop Border Posts	9168,87,3469,194
 Stop Business Facilitation Centre	11717,986
 Stop Centre	13040
 Stop Centres	3583,9457
+Stop Climate Chaos Scotland	14673
 Stop Killer Robots	2816
 Stop Public Services Delivery Centers	12917
 Stop Service Centre for GBV	12613
@@ -455,7 +473,7 @@ Stop. Think. Verify	9764
 Stopa	10780
 Stopblablacam	2336
 Stopgap	11551
-Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46,44,203,456,66,114,178,313,119
+Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46,44,203,456,66,114,178,313,119,639
 Storage APIs	13185
 Storage Area Networks	9123
 Storage Authority NWHSA National Water Harvesting	2775
@@ -464,7 +482,7 @@ Storage Controller	12681
 Storage Drives	12681
 Storage Grain Storage Leased Out Grain	2775
 Storage Improper	1988
-Storage Limitation	1630,3614,6941,117,702
+Storage Limitation	1630,3614,6941,117,702,1520
 Storage Limitation Personal	12302
 Storage Location	13004
 Storage Policy-Based Management SPG Site Preparation	13185
@@ -478,7 +496,8 @@ Storage of Crude Oil	12256
 Storage of LPG	12256
 Storage of Payment System Data	6735,200,4375
 Storage of Products	14113
-Store	1089,60,67,772,489,8502,307,967,49,1012,516,1,2,7,553
+Store	1089,60,67,772,489,8502,307,967,49,1012,516,1,2,7,553,131,124
+Store Drugs	14546
 Store Google Play	12390
 Store South Africa	14393
 Stored	1291,1,1,1,1,1,761,1,1,1,1,1,2308,1,1,1,1,1,1811,334,2717,920,822,973
@@ -536,7 +555,8 @@ Transformative Path MAIN STORY By Editorial	13477
 Transmission Expansion and Energy Storage Project	12399
 Transport and Storage	13053
 Transport and Storage and Mining and Quarrying	13648
-Transportation and Storage	2775
+Transport and Storage.26. Salaries	14410
+Transportation and Storage	2775,11810
 Transportation and Storage Activities	2775
 Transportation and Storage KSh	2775
 Transportation and Storage Sector Water Transport Railway	2775
@@ -547,6 +567,7 @@ Trending Stories Namibia	11122
 Tropical Storm Fred	11965
 US Stored Communications Act and GDPR	10088
 United Nations High Commissioner for Refugees Stories	10841
+Universités Stockage Universités	14423
 Use and Storage	718
 User Stories Zambia Education Management System	12408
 User Story	6423

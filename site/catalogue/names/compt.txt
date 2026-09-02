@@ -1,9 +1,12 @@
 Actif Net Comptable	10975
 Actif Net Comptable. L’analyse	10975
+Agent Comptable	14549
 Agriculture Commerce Compte Nationaux Conjoncture Economie	9481
+Antananarivo. Compte	14489,1
 Banque Compte	10876
 Base Bilan Comptable	10975
 CAB-25 COMPTE RENDU DU CONSEIL DES	2738,453,135
+COMPTABLE	14431
 COMPTE ADMINISTRATIF DE L'ANNEE	2561
 COMPTE RENDU DU CONSEIL DES MINISTRES	2738,453,135,2741,1603
 COMPTER A B X	13300
@@ -25,18 +28,21 @@ CompTIA	12241
 CompTIA Security	2816
 Comptabilisation	10876,646
 Comptabilite Communale	13292
-Comptabilité	969,1373,134,3079,2346,2594,217,164,99
-Comptabilité Publique	3396,208,3223,1074,849,1962,164
+Comptabilité	969,1373,134,3079,2346,2594,217,164,99,3437,24,22,25
+Comptabilité Publique	3396,208,3223,1074,849,1962,164,3555
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Comptabilité Publique DPP Direction	10712
+Comptabilité Publique. Article	14431
+Comptabilité Publique. Dans	14431
 Comptabilité SPH	10975
 Comptabilité Service Encadrement	13301
 Comptabilité Stratégie Transport Telecom	2342
+Comptabilité des Matières	14573
 Comptabilité-Matières	10975
 Comptable	8321,2284,198,73,2416,9,74
 Comptable Vérifie	10876
 Comptables	10876,99
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99,1247,10,24,1,50,15,52,25,1,221,734,6,119,71,24
 Compte Administratif	969,10006
 Compte Administratif. Budgétisation	10975
 Compte Courant Postal	10981
@@ -48,12 +54,14 @@ Compte de Financement	10876
 Compte de Financement du Projet	10876
 Compte de Gestion	969
 Compte de Programme IDA	10876
-Comptes	2476,3264,1915,5735,62
+Comptes	2476,3264,1915,5735,62,977,108
 Comptes Mobile Money	10965
-Comptes Nationaux	737
+Comptes Nationaux	737,13885
+Comptes Particuliers du Trésor	14543
 Comptes Publics Edith EKIRI MOUNOMBI	1231
 Comptes Spéciaux du Trésor	1321,724
 Comptes Spéciaux du Trésor. Revenant	1598
+Comptes WASH	14622
 Comptes. REPARTITION DU CAPITAL	2342
 Comptoir des Minéraux	4127
 Comptroller General	4102
@@ -65,13 +73,16 @@ Comptroller-General of Immigration	12015
 Comptés	7655
 Contrôle Comptes	3396
 Cour de Comptes	1284
-Cour des Comptes	1284,398,1714,7316,1193,1387
+Cour des Comptes	1284,398,1714,7316,1193,1387,1120,161
 Cour des Comptes. Article	1231
+Cour des Comptes. CHAPITRE IX DISPOSITIONS TRANSITOIRES	14412
 Cour des Comptes. Chapitre III	37
 DAF Comptabilise	10876
 DE COMPTE OU DE SOUSCRIPTION	10836
+DEEE Compte	14423
 DES COMPTES COURANTS	13390
 DES COMPTES DORMANTS	13390
+DES DISPOSITIONS FINANCIERES ET COMPTABLES Article	14432
 DES DISPOSITIONS FINANCIERES ET COMPTABLES Chapitre	1186
 DIRECTION COMPTABLE ET FINANCIERE	998
 Deputy Comptroller-General	9361
@@ -87,12 +98,15 @@ JE CRÉER MON COMPTE	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,25
 JE CRÉER MON COMPTE Votre	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 Juridiction des Comptes	10981
 L'ETAT Comptes	2476
+La Cour des Comptes	14573
 Le Comptable	13292
+L’Agence Comptable. SECTION	14432
 MON COMPTE S'ABONNER LE KIOSQUE Actualités	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 Mds Comptes	13452
 Membres. Compte	13325
 Mikati. Compte	2828
 Noëlla Ndayishimiye. Compte	4363
+Ordre des Experts Comptables	14429
 PIB. Compte	1679
 POSSESSION ET UTILISATION DE COMPTES BANCAIRES	13300
 POURQUOI CELA COMPTE	8637
@@ -100,10 +114,12 @@ PRODUIT D'ÉPARGNE COMPTES COURANTS COMPTE	13390
 PTML Conference Hall. Deputy Comptroller Nura	8278
 Plan Comptable	10975
 Plan Comptable National	13301
+Plan Comptable des Opérations Publiques	14431
 Police Comptroller General Cheick Keita	3823
 Projets Compte-rendu du Conseil des Ministres	3675
 RESPONSABLE DU CONTROLE DES COMPTES	7620
 RGE Compte	10875
+RPlan Comptable Général	14483
 Registre Foncier. Compte	13375
 RÈGLES COMPTABLES ET PRUDENTIELLES Article	10836
 SMF. Compte	2342

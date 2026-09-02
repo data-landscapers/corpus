@@ -2,6 +2,8 @@ ACTUALITé SOUS-CATÉGORIE	1297
 ADJAMIRA NDAIDILA LUÍS DE SOUSA	10751
 Acheteur Sous	13524
 Administration Publique Sous le Haut Patronage du Président	2960
+Administration Sous-section	14431
+Anosy. Sous	14580
 António Freitas de Sousa Desporto	4938
 Atlantic. Ana Carla Sousa	3075
 Autorité. Sous-section	1231
@@ -20,6 +22,7 @@ Clara Ana De Sousa	1641
 Code du Travail. Sous-section	1231
 Colline A04 Sous	13390
 Comité Sous-préfectoral de Gestion Foncière Rurale	10936
+Communication Sous	14537
 DE COMPTE OU DE SOUSCRIPTION	10836
 Dr. Alda Morais Pedro De Sousa	11417
 Edéa SOUS-DIRECTION DE CONSTRUCTION Construction	10975
@@ -69,7 +72,14 @@ Secteur Sous- Entreprise SAe SARL GIE	10875
 Secteur Sous- Homme Effectif Total Pourcentage	10875
 Secteur Sous-secteur Affilié Non	10875
 Secteur Sous-secteur Moyenne Effectif Primaire Secondaire	10875
+Section II De la Direction Générale Sous-section	14431
 Société Générale des Télégraphes Sous-Marins	4676
+Sous Bureau Central	14622
+Sous Bureau Grand Nord	14622
+Sous Bureau Grand Nord Est	14622
+Sous Bureau Grand Sud	14622
+Sous Bureau Grand Sud Est	14622
+Sous Bureau Ouest	14622
 Sous Données	747
 Sous N	7470
 Sous Officiers	13329
@@ -77,6 +87,10 @@ Sous la Haute Impulsion de Votre Majesté	8891
 Sous la Présidence de Son Excellence	4402,9484,22
 Sous le Haut Patronage du Président	4989
 Sous-	10975
+Sous-Bureau Grand Nord	14662
+Sous-Bureau Grand Nord-Est	14662
+Sous-Bureau Grand Sud	14662
+Sous-Bureau Grand Sud-Est	14662
 Sous-Comité	3857
 Sous-Direction	10975
 Sous-Direction des Affaires Administratives	10975
@@ -112,12 +126,12 @@ Sous-région La CEMAC	11944
 Sous-secteur	2966
 Sous-secteur des TIC Responsable	13290
 Sous-secteurs	2342
-Sous-section	1231
+Sous-section	1231,13200
 Sous-titre EHCVM	13804
 Sous-titre Module	13806
 Sous-total	1334,11966,90
-Sous-traitance	7676
-Sous-traitant	436,795,2484,7110,17
+Sous-traitance	7676,6736
+Sous-traitant	436,795,2484,7110,17,3695
 Sous-utilisation	737,6918
 SousRubrique	13681
 Sousa	10718

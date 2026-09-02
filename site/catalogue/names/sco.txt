@@ -10,7 +10,7 @@ Acquisition of Scorefit	8125
 Act. PART VIII CONSUMER PROTECTION Scope	12930
 Act. SCOPE OF APPLICATION	11255
 Activity Program Scope	5677
-Actor and Jurisdictional Scope	7548
+Actor and Jurisdictional Scope	7548,7116
 Administration Scolaire	11905
 Aero Scope Africa	10360
 Agricultural Credit Scoring	7334
@@ -50,6 +50,7 @@ Cell C’s Net Promoter Score	10733
 Centres de Santé Score	13325
 Chain Management SCOPA Standing Committee	11198
 Characteristic of Statistics Score Quality Statistics	13310
+Circonscriptions Scolaires COPIL	14472
 Citizen Engagement Scoring Board	13646
 Citizen Engagement and Scoring Platform	13646,42
 Citizen Report Card and Rwanda Governance Scorecard	13418
@@ -58,6 +59,7 @@ Civil Score	12376
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Competitiveness Report Score	11863
 Compliance Requirements Compliance Level Score Regulations	5665
+Composantes Score	14622
 Composite Score	2957
 Computation of Sovereignty Score Commission	3787
 Conception and Scoping	11006,1
@@ -89,6 +91,7 @@ DIGITAL ECONOMY AND INCLUSIVENESS SCORE	12941
 DIGITALIZATION LIFE CYCLE Conception A and Scoping	11007
 DISPENSAIRE SCOLAIRE	13300
 DPI Maturity Score	3391
+Dashboard GTS Score	14622
 Data Availability Score	4528,7984
 Data Protection Compliance Assessment Scoring Checklist	13381
 Declarations P6-19. Scope	12500
@@ -102,6 +105,7 @@ Digital Economy and Inclusiveness Score for Malawi	12941
 Digital Inclusiveness Score	12941
 Digital Nations Score Index	6593
 Digital Readiness Scale MALAWI SCORE Country	12214
+Digital Scores	14674
 Doing Business Sub-Index Scores	13312,2
 Durée Moyenne de Scolarisation CSPS	737
 E. SCOPE	12400
@@ -123,6 +127,7 @@ Espérance de Vie Scolaire ERI-ESI	737
 Ethiopia Indicator Scores Scores Summary Explanation	12500
 Evaluated Bid Score	13185
 Evaluation Area Criteria Description Weight Score	13031
+Evaluation SCORE	14622
 Evidence P6-19. Scope	12500
 Ewan Orlam Scoops	13044
 Expanded Scope of Application	7391
@@ -192,7 +197,7 @@ Ingteinrdnuatsitornyainl Ocoumtloeoaknsdcpoaretent Score	12205
 Integration Test Scope Integration	11952
 Interim President Guy Scott	12353
 Interior and Scope	9399
-Internet Resilience Score	11470
+Internet Resilience Score	11470,3088
 Justice and Anti-Corruption. Trend Measure Score	10838
 Kenya ERI Scores	12256
 LAA SCOOPS BEST GIS AWARD	12662
@@ -223,6 +228,7 @@ NON-SPECIFIC SHORT-RANGE DEVICES SCOPE	12949
 NamRA Award Ewan Orlam Scoops	13044
 National Credit Score	10330
 Net Promoter Score	899,10232,3,2052
+Net de Scolarisation	14442
 Next Article Scorchers	7041
 Nova Scotia	13493
 OBJECTIVE AND SCOPE OF THE PROJECT	13185
@@ -296,6 +302,7 @@ Principle and Scope	3861
 Principle and Scope Data	3861
 Privacy Scorecard Report	6212
 Progress DARE Index Score Summary	11935
+Project Scope	14576
 Promoter Score Point of Sale Quarterly Gross	11134
 Propensity Score	12978
 Propensity Score Matching	9349,1503,2126
@@ -312,6 +319,7 @@ RADIODETERMINATION APPLICATIONS SCOPE	12949
 RAILWAY APPLICATIONS RAILWAY APPLICATIONS SCOPE	12949
 RANKING SCORES	11211,51
 RISK ASSESSMENT AND SCORING METHOD	11156
+RSI SAFER SCORE SIMR SIS Impact	14622
 RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1,135
 Radio Scolaire NDERAGAKURA BUJUMBURA	13414
 Rank Score	10969,916,470,132
@@ -340,7 +348,7 @@ SCOOTER	13300
 SCOPA	11230
 SCOPA RESOLUTIONS	11218,6
 SCOPA Resolutions	11197
-SCOPE	11184,12,894,484,375
+SCOPE	11184,12,894,484,375,1485
 SCOPE AND APPLICABILITY	12338
 SCOPE AND OBJECTIVES Given	961
 SCOPE AND PURPOSE	13381
@@ -350,6 +358,7 @@ SCOPE AND SME	9399
 SCOPE NOTE	1004
 SCOPE OF ACTIVITIES	13097
 SCOPE OF ACTIVITIES Mr. Timothy Shangadi	13097
+SCOPE OF APPLICATION	14434
 SCOPE OF APPLICATION These Guidelines	10407
 SCOPE OF TENDER	13618
 SCOPE OF THE REVIEW	4896
@@ -357,8 +366,9 @@ SCOPE OF THE WORK General Project	962
 SCOPE OF THIS REQUEST FOR INFORMATION	14224
 SCOPE OF WORK	12763
 SCOPE OF WORK Section	13037
+SCOPE TERRITORIAL SCOPE	14434
 SCOPE The Minimum Interoperability Standard	11184
-SCORE	10759,76,2,1,130,902,16,3,451,12,1,135,1370
+SCORE	10759,76,2,1,130,902,16,3,451,12,1,135,1370,764
 SCORE GLOBAL	10975
 SCORE SCORE SCORE SCORE SCORE SCORE	1243
 SCoE State Committee	11860
@@ -371,12 +381,14 @@ SUMMARY SCORING TABLE Section Max Points	13381
 Safety and Anti-Corruption. Measure Score	12152
 Scale Data Level Score Data Characteristics	5665
 Scolaire	13390
-Scolarisation	737,10110
+Scolarisation	737,10110,3723
 Scolarisation TIC Technologies	12
 Scolarité	13390
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,30,13,2,47,37,21,14,15,11,13,34,53,172,231,27,107,5,86,57,21,104,4,6,2,21,5,7,3,23,80,9,481,25,465,52,72,37,45,11,8
 Scope Conditions and Limitations	7966
+Scope Development	14441
+Scope Exclusion These Guidelines	14565
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
 Scope Implementation Guidelines Education Awareness	2958
@@ -392,6 +404,7 @@ Scope PART III IMPLEMENTATION AND SPECIFIC	12967
 Scope Payment Type Nature of Transactions Payment	6938
 Scope Phase	6029
 Scope Policy Area	12235
+Scope SECTION	14434
 Scope SECTION A PART III IMPLEMENTATION	12374
 Scope Subsystem Type Binary	7221
 Scope Subsystem Type Binary Indicates	7221
@@ -426,13 +439,16 @@ Scope and Application	5244,6949
 Scope and Application Parts I and IV	10157
 Scope and Definitions	13532
 Scope and Evidence Base	11596
+Scope and Legal Trajectory	14565
 Scope and Limitations	11138,2280
 Scope and Methodology	8301,1098,4623
 Scope and Purpose	12302
+Scope and Purpose of Guidance Note	14524
 Scope of Application	27,1611,1320,1652,5245,1999,139,153,39,431,314,378,647,6,163
 Scope of Application Applies	10908
 Scope of Application CHAPTER	12616
 Scope of Application Personal Data Collection and Processing	11539
+Scope of Application The FAIR Guidelines	14565
 Scope of Application The Standard	13308
 Scope of Application This Charter	2958
 Scope of Application This Directive	762
@@ -443,8 +459,13 @@ Scope of Bid	13527
 Scope of Bid A. General	13185
 Scope of Breach	1877
 Scope of Business	1877
+Scope of Co-operation	14409
+Scope of Co-operation ARTICLE	14409
+Scope of Co-operation CHAPTER EIGHTEEN	14409
+Scope of Co-operation CHAPTER TWENTY FIVE	14409
 Scope of Coverage The Business Information Register	13954
 Scope of Digital Pharmacy Regulation	9855
+Scope of Guiding Values- Roles and Responsibilities AI	14565
 Scope of NPPI	11152
 Scope of Oversight	12537
 Scope of PPI The NPPI	11152
@@ -523,7 +544,7 @@ Scoring	1243,2078,1813,1080,4550,1736
 Scoring Method	13381
 Scoring Platform Built	13646
 Scotch Tampon Encre	13375
-Scotland	40,713,285,2422,1395,698,735,578,4265,3
+Scotland	40,713,285,2422,1395,698,735,578,4265,3,3300,239
 Scotland and Newfoundland	4676
 Scotland. Incident Ready	3279
 Scott	7966
@@ -531,6 +552,7 @@ Scott Blacklin	3125
 Scott Shaw	10841
 Scott Timcke of Research ICT Africa	10729
 Scott Timcke-Research	10729
+Scottish Health Informatics Programme	14434
 Scottish Livingstone Hospital	12639
 Scout	6498
 Section Max Points Points Scored Compliance	13381
@@ -548,6 +570,7 @@ South Africa. SCOPE The HNSF	1009
 Sovereignty Score	3787
 Stakeholder Perception Score	11134
 Statistical Capacity Score	13312,2
+Stop Climate Chaos Scotland	14673
 Structure and Scope	10931
 Study Objectives and Scope	6832
 Sub-SaRheagriaonn Africa Score	12205
@@ -578,6 +601,7 @@ Taxpayer Perception Score Target Actual	13053
 Technical Bid Score	13185
 Technical Requirement Scope	13037
 Technical Score	13185
+Technology Scope	14664
 Technology Scope This Policy	7548
 Tele-powering RAILWAY APPLICATIONS SCOPE	12949
 Temporal Scope and Lifecycle Coverage	7548

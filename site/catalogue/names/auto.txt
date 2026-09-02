@@ -39,6 +39,7 @@ AUTORISATIONS REFERENCE MANGA SECURITE N	998
 AUTORISATIONS RÉSEAUX INDÉPENDANTS	998
 AUTORITE DE CONTROLE CHAPITRE	10825
 AUTORITE DE PROTECTION DES DONNEES	10821
+AUTORITE DE REGULATION DES MARCHES PUBLICS	14436
 AUTORIZAÇÃO	794
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
 AUTORIZAÇÃO E REGISTO DE SOCIEDADES PRESTADORAS	10755
@@ -59,10 +60,13 @@ Africell. Automatic	11960
 Apparel Automobiles	4972
 Application Programming Interface ASYCUDA Automated System	13042
 Area ASYCUDA Automated System for Customs Data	12951
+Arrivée des Autorités	14527
 Artificial Intelligence and Job Automation	6948
+Association des Autorités	14412
 Associação Cabo- Verdiana MORABI de Auto-Promoção da Mulher	11855
 Assunto Autoriza	11457
 Atribuição da Autorização Geral	11520
+Auto Approval of MRI Obligation	14533
 Auto Assessment Waiting Room	8784
 Auto Collectif	13390
 Auto Discovery	11209
@@ -110,7 +114,7 @@ Automate	8817,1904,1219,2094
 Automate EMIS	13310
 Automate Spectrum	5245
 Automate the Postal Clearance	13108
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295,285,3,5,41,428,332,13,3,1,30,225,22,156,160,102,268,10,1,29,83,279,1114,130
 Automated Biometric	11986
 Automated Biometric Identification	11986
 Automated Biometric Identification System	2073,1342,2118,7472
@@ -365,18 +369,21 @@ Autoridades de Comunicação da Língua Portuguesa	11531
 Autoridades de Polícia Criminal	539
 Autoridades de Proteção de Dados Pessoais	3079
 Autoridades de Proteção de Dados de Angola	3079
-Autorisation	37,3344,4940,2500,15,40,2557,154,1,221
+Autorisation	37,3344,4940,2500,15,40,2557,154,1,221,603,76,1,1,47
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
+Autorisation Salubrité	14488,1,1
+Autorisation de Après	14490
+Autorisation de Construire	14475
 Autorisations	3356,40,155,7270,2480
 Autorisations Au	13301
 Autorisations Réseaux Indépendants	998
-Autoriser	747,10129,1056,1443
+Autoriser	747,10129,1056,1443,1050
 Autorisez-vous	13300
 Autorisé	10975
 Autorit	13461,1
 Autoriteit Persoonsgegevens	8436
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40,18,1,1,12,58,9,117,47,12,416,13,146,35,171,111,1258,418,66,24,352,48,70,1,23,81,28,1,25,50,1,1,22,37
 Autorité Administrative	9565
 Autorité Burundaise de Régulation des Produits Vétérinaires	13329
 Autorité Camerounaise	3233
@@ -409,7 +416,7 @@ Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de Protection. Article	1231
 Autorité de RégulatiDn des Communications Electroniques	37
-Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118
+Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760,1040,632,104,342,2118,505
 Autorité de Régulation CHAPITRE	13781
 Autorité de Régulation Multisectorielle de Djibouti	4402,9451
 Autorité de Régulation de Communication Electronique	1935,76,2005
@@ -420,6 +427,8 @@ Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Marchés Publics	969,9860,47,2425
 Autorité de Régulation des Postes	3104,4980,3796,52
 Autorité de Régulation des TIC de Côte	5605,539
+Autorité de Régulation des Technologies de Communication	14549
+Autorité de Régulation des Technologies de Communication CEB	14573
 Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444
 Autorité de Régulation des Télécommunications de CBA Côte	3604
 Autorité de Régulation des Télécommunications de Côte	3139,310,155,489,18
@@ -428,14 +437,16 @@ Autorité de Régulation du Secteur	10975
 Autorité des Ports	1287,4706
 Autorité des Postes	10691
 Autorité. Article	113,1118
+Autorité. Avec	14549
 Autorité. Ce	1214
 Autorité. C’est	10821
 Autorité. En	1231
 Autorité. Le Président	113
 Autorité. Section	1231
 Autorité. Sous-section	1231
-Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1,109,55,99,164,383,227,195
+Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1,109,55,99,164,383,227,195,2475,6,63,1,1
 Autorités Administratives Indépendantes	1231
+Autorités Inclus	14488,1,1
 Autorités de Protection	10821
 Autorités de Protection des Données	6252
 Autorités de Protection des Données Personnelles	5842,4979
@@ -460,7 +471,7 @@ Autos de Declaração	11452
 Autosaisine Défavorable	10821
 Autoscaling	13676
 Autotech Solutions Limited Data Controller INST-4246770FB7A	7167
-Autour	4334,2834,6362
+Autour	4334,2834,6362,959
 Autovía Bata-Mongomo Continental	4209
 Autovía Malabo-Luba Malabo	4209
 Autres Autorités de Régulation	13301
@@ -481,6 +492,7 @@ CENEE AUTO GARAGE	7167
 CHUI AUTO SPRING INDUSTRIES LIMITED Data	7167
 CONSELHO DE MINISTROS Autoriza	11983
 CRAFIC AUTO ASSESSORS	7167
+CaIslleusstrative Use Cases Automated AI	14566
 Cabo Verde's Automatic Voter Registration System	11983
 Cabo Verde. Autoria	11108
 Cadyst Autoproducti	10975
@@ -591,7 +603,7 @@ Funções da Autoridade Competente	11582
 Fédération Syndicale Autonome des Télécommunications	6284
 G Hybrid Automatically Switched Optical Network	3797
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
-Glossary AI Artificial Intelligence ASN Autonomous	10781
+Glossary AI Artificial Intelligence ASN Autonomous	10781,3701
 Government Systems Automation	958
 Government of Cameroon's Caisse Autonome	303,36,7250
 Guichet Automatique Bancaire	11944
@@ -688,6 +700,7 @@ PSP RIBAT RTGS Automated Clearing House	13468
 Participants Autorités	13689
 Pas Trop Trop Autom Pas de Peur	737
 Pedido de Autorização	10755
+Pendant Autorité	14488,1
 Personal Autoridad Aeronáutica	4209
 Pilot Verbal Autopsy The IDT4M	13095
 Plan Nacional de Cajeros Automáticos	2927
@@ -699,6 +712,7 @@ Port Autonome de Cotonou	9275
 Port Autonome de Cotonou. Organisée	6300
 Port Autonome de Douala	5291,5684
 Port Autonome de San-Pedro	2342
+Power Automate	14694
 Presence of Automated Decision Making	8436
 Princípio de Dados Autoritativos	12774
 Princípio de Dados Autoritários	12774
@@ -750,7 +764,7 @@ Sistema de Recenseamento Eleitoral Automático	11983
 Sistema de Registo de Propriedade Automóvel	11480
 Solution Automatisée de Marquage	8719
 Somalia's Automated Biometric Identification System	2273
-Sovereignty and Strategic Autonomy	7547,1
+Sovereignty and Strategic Autonomy	7547,1,7116
 Sovereignty and Strategic Autonomy Kenya	7548
 Sovereignty and Strategic Autonomy Kenya's AI	7548
 Sovereignty and Strategic Autonomy Policy Objective	7548
@@ -770,8 +784,10 @@ Système de Règlement Automatisé de Djibouti	13838
 Système de Transfert Automatisé	7283,3639
 Système des Gros Montants Automatisé	10724
 Sénégal Automatisation des Consolidation	10711
+TITRE V. AUTORITE DE SUPERVISION CHAPITRE	14429
 TLP-White. Autor	2784
 TWG Automated Meter Reading Average Service	12969
+TYPE DE PARTIES PRENANTES Autorités	14425
 Tanzania Automated Clearing House	5977
 Terminais de Caixa Automático	8493
 Terminais de Pagamento Automático	8493,1008,1937
@@ -784,6 +800,7 @@ Trade and Development VAR Vector Auto-Regression VAT	236
 Une Autorité	14384
 Unlawful Automated Processing of PD	11956
 Update of Company Information Fully Automated	12389
+Use Cases Automated	14566
 VA Verbal Autopsy	12413
 VAR Autorégression	7655
 Valuation Automated	12211

@@ -16,7 +16,7 @@ EPS and HEPS	10793
 GPS HepB HbsAg Hib IC IDS	10777
 Google Scholar Hepp	11028
 HEP. Close	1219
-HEPRR	11417,1166
+HEPRR	11417,1166,2083
 HEPRR Capacity	11417
 HEPRR MPA	11417
 HEPRR Program	11417
@@ -41,5 +41,6 @@ PREVALÊNCIA DO VIH E HEPATITE B	10777
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Resilience HEPRR Human Immunodeficiency Virus HIV	11417
 South Sudan. Adjusted HEPS	10793
-Viral Hepatitis	12421
+TAB DTC HepB Hib1-VAR	14622
+Viral Hepatitis	12421,2013
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777

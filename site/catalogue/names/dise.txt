@@ -7,7 +7,7 @@ Africa Centers for Disease Control and Prevention	4049,2288,6801
 Africa Centre for Disease Control	13141
 Africa Centre for Disease Control and Prevention	562,12113
 Africa Centres for Disease Control	5213
-Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721,2922
+Africa Centres for Disease Control and Prevention	4782,1790,222,203,2721,2922,2036
 African Centres for Disease Control and Prevention	9969
 Africa’s Center for Disease Control In Burundi	10865
 Agricultural Inputs Programme CDC Centre for Disease	13080
@@ -35,8 +35,8 @@ Cassava Mosaic and Cassava Brown Streak Diseases	13366
 Center for Disease Control	12379
 Center for Disease Control Prevent	12138
 Center for Disease Control. As I’m	560
-Centers for Disease Control	396
-Centers for Disease Control and Prevention	5700,2050,2696,195,1271,467
+Centers for Disease Control	396,14038
+Centers for Disease Control and Prevention	5700,2050,2696,195,1271,467,2055
 Centre for Disease Control and Prevention	12240
 Centre for Infectious Disease Research	10374,1982
 Centres for Disease Control CSIR Council for Scientific	396
@@ -112,6 +112,8 @@ Head of Africa CDC’s Division for Surveillance and Disease	4782
 Health and Rights STD Sexually Transmitted Disease	970
 Heart Disease	12151
 Heart Diseases	12151
+IADSR Integrated Animal Disease Surveillance and Response	14666
+IDSR Integrated Disease Surveillance and Response LMIC	14666
 Immediately Notifiable Diseases	11912
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Implementing Real-time Disease Surveillance	11912
@@ -119,12 +121,14 @@ Infection Disease Specialists	14094
 Infections Heart Diseases	12151
 Infections Infections Diseases	12151
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
+Infectious Disease Preparedness ID Identification	14434
 Infectious Disease Research	13430
 Infectious Disease Response Goes Digital	10374
 Infectious Disease Unit	13122
 Infectious Diseases	10919
+Integrated Animal Disease Surveillance and Response	14666
 Integrated Disease Notification System. Diarrhoea	12976
-Integrated Disease Surveillance and Response	4260,5110,2047,586
+Integrated Disease Surveillance and Response	4260,5110,2047,586,2663
 International Classification of Diseases	11969,444,316
 International Classification of Diseases KFH	12338
 International Development Association IDA Integrated Disease	11417
@@ -134,6 +138,7 @@ Kidney Diseases	12151
 Kidney and Heart Diseases	12151
 Kidney and Hypertension Renal Diseases	12151
 KwaZulu-Natal's Disease Management Area	2626
+LEPROSY AND LUNG DISEASES	14546
 Liver Diseases	12151
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
 Mapping Rare Diseases	10188
@@ -162,7 +167,10 @@ Outpatient Diseases	2775
 Partners Centre for Disease Control	12291
 Percentage of Immediately Notifiable Diseases Entered	11912
 Plan for Neglected Tropical Diseases	10780
+Plant and Animal Diseases Control ARTICLE	14409
+Plant and Animal Diseases Control The Partner	14409
 Prevention and Control of Neglected Tropical Diseases	14033
+Principles for Disease Surveillance	14666
 Programme CDC Centre for Disease Control CDO	13095
 Proyecto de Diseño Curricular	4209
 Rare Disease Cures Accelerator	10188
@@ -178,9 +186,11 @@ Respiratory Diseases	12151
 Respiratory Infections Infections Diseases	12151
 Revision IDSR Integrated Disease Surveillance and Response	12729
 Services IDSR Integrated Disease Surveillance and Response	12976
+Sexually Transmitted Disease	14434
 Silent Disease Killing Ugandan Society	8352
 Soomaaliya Dhibcaha Deyn Cafintii Diseembar	11136
 South Sudan Neglected Tropical Diseases	3583
+Strengthen Disease	14434
 Strengthen Surveillance of Climate-Sensitive Diseases	13121
 TB Drug-Resistant Tuberculosis EDCU Epidemiology and Disease	12976
 Tropical Disease CAD	12678

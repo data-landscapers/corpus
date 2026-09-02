@@ -40,13 +40,15 @@ Asia. Overall	8945
 Audit Framework and Independent Oversight	3861
 Audit Oversight Committee	5533
 August. Over	8846
+BACKGROUND AND OVERVIEW OF THE ENHANCED	14516
 BRIEF OVERVIEW OF SMARTCARE Offline	2477
 BUSINESS OVERVIEW AND CORPORATE ACTIONS	4896
 BUSINESS OVERVIEW Operating	10793
 BVN and NIN Oversight	10719
 Back Overall Governance Namibia’s Overall Governance	12340
 Back Overall Governance While Central African	10837
-Background and Overview	5244
+Background and Overview	5244,9226
+Balance Outstanding for Over	14546
 Bank. Over	11134
 Banking and Finance Overview	2775
 Bank’s Oversight	13938
@@ -85,6 +87,7 @@ CONCLUSION Over	13418
 CONCLUSION Overall	12970
 CONTINUED Over	11006
 COUNTRY AND SECTOR OVERVIEW	12399,281
+COUNTRY OVERVIEW	14443
 CRVS Coverage and Performance Overview	13005
 CRVS Coverage and Performance Overview While Malawi	13005
 CUCI Overview	12978
@@ -132,6 +135,7 @@ Cooperative Oversight	12537
 Cooperação OV PHPEURV GR	11530
 Country Overall Gender Urban Rural Household	14098
 Country Overview	10822
+Country Overview Fig	14443
 Country and Sector Overview	12680
 Country-Level Overview	11867
 Court Over	7312
@@ -154,6 +158,7 @@ Data Overtakes Voice	8646
 Data Protection Emerging Technology Oversight	12214
 Data Protection Overview	11909,559
 Data Protection Overview Namibia	12468
+Data Quality Dimension--An Overview	14434
 Data Sharing for Policy Oversight	11995
 Debt Over	4883
 Deepening and Enforcing Agreements Overview	11149
@@ -300,7 +305,9 @@ High Overall Risk	11156
 High-Level Data Sharing Process Overview	3815
 Home Affairs. Over	5533,6453
 Huawei. Over	5337
-Human Oversight	6442,1106
+Human Oversight	6442,1106,7018
+Human Oversight Models Human	14565
+Human Oversight and Intervention Human	14565
 Human Resource Oversight Statistics	11197,53
 Human Resources Overview	408
 Humanitarian Needs Overview	969
@@ -327,7 +334,7 @@ Implement Regulatory Oversight AI	12675
 Implications Overall	9635
 Income Overshoot	13532
 Independent Oversight and Enforcement	5244
-Independent Policing Oversight Authority	10313,1997
+Independent Policing Oversight Authority	10313,1997,2236
 Index Overall Engagement	11131
 Indonesia OVO	11994
 Inflation Forecast Year Inflation Overall Food	13060
@@ -474,6 +481,7 @@ Number of OVC Beneficiaries	12977
 Number of OVC Beneficiaries Region No. of Schools	12977
 Number of OVC Candidates	12977
 Number of OVC Candidates Grade No. of Candidates	12977
+ODH. Results Overall	14666
 OMCV Orphans and Vulnerable Children OVC Project	11855
 OPIC Direct Investment Overseas Private Investment	292
 OPIC Investment Guaranty Overseas Private Investment	90
@@ -519,6 +527,7 @@ OVERVIEW OF CLOUD COMPUTING Policy	6432
 OVERVIEW OF DEPARTMENTAL PERFORMANCE	11218,6
 OVERVIEW OF GLOBAL ICT DEVELOPMENT	12395
 OVERVIEW OF HUMAN RESOURCES	11218,6
+OVERVIEW OF IGAD'S INSTITUTIONAL FRAMEWORK	14434
 OVERVIEW OF INTERNATIONAL	961
 OVERVIEW OF INVESTIGATIONS	13097
 OVERVIEW OF MACROECONOMIC DEVELOPMENTS	5655
@@ -555,11 +564,15 @@ Objectives of Oversight	12286
 Objectives of Oversight of Payment Systems	12537
 Official Use Only Overarching Goal	11469
 Officially Handed Over Updated	5991
+Offset Overpaid Taxes	14533
+Offset of Overpaid Taxes	14533
+Offset of Overpaid Taxes Application Form	14533
 One-Time Password OVC Orphans and Vulnerable Children	12663
 OpenAI.2024. Overview. Available	13461
 Operational Overview	11310
 Organisational Overview	12969
 Outcome Rationale The Overall Outcome	10779
+Outstanding Central Bank of Kenya Overdraft	14546
 Ovaj Program	10780
 Ovakva	10780
 Ovakvi	10780
@@ -605,7 +618,7 @@ Over-voltage	12233
 Overachievement	11218
 Overal Access	940
 Overal Level of Financial Inclusion	940
-Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,74,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66
+Overall	10,29,197,182,353,18,33,147,44,215,15,39,2,141,40,89,264,6,43,71,2,1,3,28,16,547,240,173,41,195,303,96,11,10,258,36,309,232,214,23,256,40,162,111,2,116,109,42,10,131,20,1,3,76,22,16,29,2,276,40,399,54,107,13,120,105,8,36,169,183,214,40,107,51,13,74,53,490,60,46,120,4,260,79,22,80,76,6,109,66,312,19,28,96,225,65,205,464,45,1,1,3,7,4,1,5,34,10,12,3,2,6,9,58,21,14,9,1,13,20,9,10,34,72,9,3,1,1,16,4,36,3,3,13,25,26,9,18,112,16,107,1,35,18,3,274,8,4,33,5,2,9,2,4,2,36,4,1,6,6,26,55,106,37,13,13,6,20,2,1,15,7,19,36,6,17,2,9,9,7,2,10,8,6,2,1,1,14,4,13,1,22,112,27,8,5,36,4,4,15,23,28,136,48,27,1,5,10,6,1,42,32,16,7,35,2,11,25,15,70,92,2,2,17,1,11,4,12,10,19,4,26,43,16,55,92,244,5,2,63,32,17,4,13,6,6,44,16,66,299,15,68,1,41,10,98
 Overall Balance	12922,34,167
 Overall Bank Performance Rationale With Bank	10779
 Overall COMPLIANCE Policy Does	11855
@@ -711,7 +724,7 @@ Overcrowded	5225
 Overcrowding	10990,1816,1132
 Overemphasis	5914
 Overhaul Civil Services	14052
-Overhaul Connectivity Policies	960,9896
+Overhaul Connectivity Policies	960,9896,3818
 Overhaul Digital	6002
 Overhead	9123
 Overhead Cable Trays	9123
@@ -730,6 +743,8 @@ Overnight	7909,4343,895
 Overnight Loan Facility	12364
 Overnight Loans	12364
 Overnight Loans Any ILF	12364
+Overpayment	14533
+Overpayment Adjustment Voucher	14533
 Overreliance	8936
 Override Article	12616
 Oversaw	11230
@@ -742,7 +757,7 @@ Overseas Development Institute. Page	11525
 Overseas IR	11309
 Overseas Missions	5991
 Overseas Service Liaison Station	13666
-Oversee	21,919,1048,2540,1904,1116,3682,1282,162,1,295,1215
+Oversee	21,919,1048,2540,1904,1116,3682,1282,162,1,295,1215,489
 Oversee CeasefireNews Desk Strains Erupt	3768
 Oversee Implementation	12389
 Oversee Jomo Kenyatta Airport Modernization Kenya	5407,676
@@ -754,11 +769,12 @@ Oversee the Stakeholder Management and Communications Unit	4528,7984
 Oversee the Strategy and Policy Alignment Unit	4528,7984
 Overseeing	7204,2648,1378,1010,13,370,52,635
 Overseeing Technical	13310
+Overseen	14674
 Overseer	12286
 Oversees	4755,7105
 Oversees the Policy Framework for Integrated Planning	11224
 Overshooting	13532
-Oversight	1131,153,1482,1095,702,1639,230,31,475,610,286,1396,466,728,297,108,305,22,37,740,511,3,90,5,111,217,39,297,125,21,110,12
+Oversight	1131,153,1482,1095,702,1639,230,31,475,610,286,1396,466,728,297,108,305,22,37,740,511,3,90,5,111,217,39,297,125,21,110,12,1091,61
 Oversight Approach	12537
 Oversight Approach Method Method	11855
 Oversight Committee	3583,5249
@@ -774,6 +790,7 @@ Oversight Visit	11285
 Oversight and Accountability	12580
 Oversight and Board Renewal	12315
 Oversight and Compliance	11995
+Oversight and Learning Records	14565
 Oversight and Systemic Risk	5574
 Oversight of Payment	13468
 Oversight of SOEs	11230
@@ -783,7 +800,7 @@ Overstretched	12141
 Overt	10088
 Overtime	11218,6,1829
 Overtime Support	8999
-Overview	236,725,863,272,679,4,1655,462,1527,89,436,203,397,242,810,4,66,235,120,103,1637,10,37,10,19,144,145,1,3,1,14,43,3,2,1,26,26,18,42,107,107,29,43,243,25,2,1,1,1,25,59,41,31,16,140,27,19,93,8,1,56,26,89,259,161,26,5,18,18,18,46,199,62,2,45,22,37,114,122,306
+Overview	236,725,863,272,679,4,1655,462,1527,89,436,203,397,242,810,4,66,235,120,103,1637,10,37,10,19,144,145,1,3,1,14,43,3,2,1,26,26,18,42,107,107,29,43,243,25,2,1,1,1,25,59,41,31,16,140,27,19,93,8,1,56,26,89,259,161,26,5,18,18,18,46,199,62,2,45,22,37,114,122,306,605,108
 Overview And Purpose	12409
 Overview Apostille	12041
 Overview At-a-Glance Action Plan	11873
@@ -794,7 +811,10 @@ Overview Djibouti	13879
 Overview ESERA	12969
 Overview Electronic	12025
 Overview Financial Year	6100
+Overview Gender	14572
+Overview IP	14659
 Overview Internal Audit	11131
+Overview Kenya	14585
 Overview Located	12985
 Overview Mali	9552
 Overview Notary	12041
@@ -816,6 +836,7 @@ Overview and Action Plan	12227
 Overview and Approach	12143
 Overview and Clarifications	11998
 Overview and Strategic Context	14022
+Overview of AI	14664
 Overview of Artificial Intelligence	7548
 Overview of Cabo Verde	11895
 Overview of Civil Registration	12250
@@ -838,6 +859,7 @@ Overview of Information Technologies Equipment	1988
 Overview of Internet Use JAN Essential	12214
 Overview of Internet Use Mobile Network Coverage	12214
 Overview of Kenya	6188,5972
+Overview of Kenya Social and Economic Inclusion Projects	14516
 Overview of Malawi	12204
 Overview of Microsoft Copilot. Available	13461
 Overview of Migration Management	12164
@@ -875,6 +897,7 @@ Overwhelming	899,883,7897
 Overworked	771,11852
 Overy	1818
 Ovie George	4601
+Oviedo Silva	14576
 Ovimbundo	11577
 Ovins	737
 Ovisual	11517
@@ -892,8 +915,10 @@ PLATFORM OVERVIEW Full	12477
 PNFS. Justification of Overall Rating of Quality of M&E	11924
 POLICING OVERSIGHT AUTHORITY Hon. Gabriel Tongoyo	10313
 PROMOVER O CRESCIMENTO DE SERVIÇOS OVER	11397
+PROTECTION POLICY OVERVIEW OF PRINCIPLES	14434
 PUBLIC PUBLIC Overall	1818
 Parliamentary Oversight	0
+Parliamentary Oversight Committee. No. Observation	14546
 Part II STI for Overcoming Sustainable Development	12544
 Payment System Subcommittee and Payment System Oversight	12671
 Payment Systems Oversight Annual Report	1384,2881,2897
@@ -908,6 +933,7 @@ Permanent Oversight Office	3604
 Personal Jurisdiction Over Data Controllers and Processors	3861
 Petroleum Exporting Countries OVC Orphans and Vulnerable	2775
 Philosophy and Framework Over	11134
+Physician Overall	14666
 Pilot No-Go Checklist Overall	11156
 Pilot Overview	10852
 Placide Niyodusenga Over	14223
@@ -938,6 +964,7 @@ Public Prosecution Over Unauthorized SIM Registrations	11642
 Q2-2026. Over	11152
 Q2. Over	7015
 Q3 and Q4. Overall	12339
+RECOMMENDATIONS OVERALL	14601
 REGIONAL BENEFICIARY OVERVIEW	8999
 REGULATION AND OVERSIGHT	12606
 REGULATORY OVERSIGHT AND ENFORCEMENT	9855
@@ -969,6 +996,8 @@ Reporting and Oversight Requirements Entities	3861
 Republic’s Overall Governance	10837
 Research and Development Emmanuel Larbi Offei Over	236
 Response Rate Overall	10862
+Results Overview Inductive	14666
+Risk Rating The Overall KSEIP	14487
 Risks Overall Risk Rating	13970
 Roaming Kits Over Regulatory and Security Concerns	5990
 Roll Overs Virements	11230
@@ -1053,6 +1082,7 @@ TWG for Agriculture Over	4528
 TWG for Over	12512
 Table A.1. Overview of Cameroon	10985
 Tanzania. Over	5511
+Target Over	14674
 Tax Evasion Protest Erupts Over Forced	3768
 Tax OTTs Over-the-Top Technologies PAYE Pay	12395
 Technical Oversight Committee	8371
@@ -1074,6 +1104,8 @@ Tsumasi Over	236
 UAF FINANCIAL PERFORMANCE OVERVIEW	718
 UAF Financial Performance Overview The UAF	718
 US Clarifying Lawful Overseas Use of Data	6477,3611
+USE OF ARTIFICIAL INTELLIGENCE Oversight	14565
+USE OF ARTIFICIAL INTELLIGENCE Regulators and Oversight	14565
 Ugandans Curse NIRA Over R.Nile Like-Long	9696
 Uninterruptible Power Supply VOIP Voice Over	12973
 Unitaria de Oven-Esandon	4209
@@ -1086,6 +1118,7 @@ V. KEY RISKS A. Overall Risk	11525
 VI. Oversight	11154
 VOICE OVER INTERNET PROTOCOL	3862
 Vacancy Management Oversight Committee WC Western	11197
+Veterinarian Overall	14666
 Violence OVC Orphaned and Vulnerable Children PSS	12939
 Voice Over Internet	34
 Voice Over Internet Protocol	236,12533,532
@@ -1093,6 +1126,7 @@ Voice Over Internet Protocol VSAT	6000
 WIRELESS VOICE OVER INTERNET PROTOCOL	3862
 Waffarha. Over	5869
 Warning Signs. Yearly Overall Governance	11888
+Weak Internal Controls Over Imprest Management	14546
 West and Central Africa Regional Overview	11867
 Westen Cape View Western Cape Overview	8999
 Will Google's AI Overviews	13461

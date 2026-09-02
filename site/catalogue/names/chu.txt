@@ -13,6 +13,7 @@ AIC KORR CHURCH Data Controller INST-215380DBD09	7167
 AIC Kiserian Church Data Controller INST-1140744C87A	7167
 AIC LOCHOR ESEKON CHURCH Data Processor	7167
 ALL SAINTS' CATHEDRAL CHURCH Data Controller	7167
+ARV AWaRe CHU BAD BNGRC COUSP	14622
 Africa Inland Church Data Processor INST-488545879F0	7167
 Aic Namuncha Local Church Data Processor	7167
 All Africa Conference of Churches Data Processor	7167
@@ -31,12 +32,16 @@ Bet-el Church Hostel Hall	13046
 Bible Faith Church Medical Services Data	7167
 Boali Chutes. Cette	9276
 CHRIST EVANGELISTIC CHURCH Data Controller INST-9136853A23F	7167
+CHU Analakininina	14622
+CHU Joseph Raseta Befelatanana	14622
 CHU Renaissance	6016
 CHU de Bobo-Dioulasso	3396
 CHU de Bogodogo	11123
 CHU-MEL de Cotonou	10867
 CHU-YO	8321
 CHUI AUTO SPRING INDUSTRIES LIMITED Data	7167
+CHUJRA	14622
+CHUJRB	14622
 CHUK Kamenge	13617
 CHUKA UNIVERSITY SACCO LTD Data Controller	7167
 CHUNA CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
@@ -55,6 +60,7 @@ Catholic Church	12201,210
 Catholic Church Hall Duinesig Combined School	13046
 Cell Executive Secretary CHUB	12338
 Centre Hospitalier Universitaire de Butare CHUK	12338
+Centre Hospitalier de Reference Regionales CHU	14442
 Chairman and CEO of Cisco Chuck Robbins and Cisco	14367
 Charles Chukwuma Soludo	9936
 Chijioke Chuku	10597
@@ -116,10 +122,13 @@ Church of Jesus Christ of Latter-day Saints	8724
 Church-Takarania Aimablaagte Primary School	13046
 Churches	11857,510
 Churchill Road	14067,75
+Churn	14674
 Churu	13699
-Chutes	10975
+Chutes	10975,3513,1,1
 ChutkiAI	5367
 Chuuk	13042
+Chux Daniels	14514
+Cisco Chairman and CEO Chuck Robbins	14688
 Cnr Of Odendaal And Church Street	8999
 Council of Churches	13046
 DELIVERANCE CHURCH DONHOLM Data Controller INST-1383614E208	7167

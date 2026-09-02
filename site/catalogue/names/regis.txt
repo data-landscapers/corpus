@@ -2,6 +2,7 @@ A- Bilateral Recognition Agreement A1- Register	7548
 A. Beneficial Ownership Register	7845
 ABOUT COLLATERAL REGISTRY SYSTEM	13333
 ACCESS THE COLLATERAL REGISTRY	13333
+ACT LAND REGISTRATION	14427
 AEA RCT Registry	10609
 AFRICA EDUCATION AND DEVELOPMENT TRUST REGISTERED	7167
 AFRINIC Registration Service	585
@@ -68,14 +69,17 @@ Application for Registration	12138
 Application for Registration of Birth	12367
 Application. PART II Registration and Licensing	13606
 Appointment of Chief Registrar	12410
+Appointment of Principal Registrar	14407
 Appointment of Registrar	1,12523,1
 Appointment of Registrar and Deputy Registrar	13566
 Appointment of Registrar and District Registrars	12523
 Appointment of Registrar of Tribunal	12549
 Appointment of Registrar-General and Registrars	13285
 Approved National Identification and Registration Bill	5533
+Article the Registrar	14409
 Asbestos Register	1988
 Assento de Nascimento. O Registo	10753
+Asset Register	14546
 Assistant Civil Registration Officer	12972
 Assistant Data Commissioner for Registration	2668
 Assistant IP Registrar	10358
@@ -107,8 +111,8 @@ BIRTH REGISTRATION	12337,1046
 BIRTH REGISTRATION CAMPAIGN GAINING MOMENTUM	12291
 BIRTH REGISTRATION IN DOWA. Dowa	12291
 BIRTH REGISTRATION IS STILL UNDERWAY. NRB	12291
-BIRTHS AND DEATHS REGISTRATION	13285
-BIRTHS AND DEATHS REGISTRATION ACT	11176,2109
+BIRTHS AND DEATHS REGISTRATION	13285,1176
+BIRTHS AND DEATHS REGISTRATION ACT	11176,2109,1176
 BIRTHS AND DEATHS REGISTRATION ARRANGEMENT	12523
 BIRTHS AND DEATHS REGISTRATION DISTRICTS	13285
 BRR Australia Austria National Registry	10714
@@ -193,8 +197,8 @@ Births Registration	12151,216
 Births Registry	12227
 Births and Births and Deaths Deaths Registration Act	12151
 Births and Deaths Registrar	3287
-Births and Deaths Registration	5142,5680,1316
-Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130,407,10,64,301,387,1,21,8,82
+Births and Deaths Registration	5142,5680,1316,2323
+Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130,407,10,64,301,387,1,21,8,82,1010,54
 Births and Deaths Registration Act CAP	12533
 Births and Deaths Registration Act Cap	12639
 Births and Deaths Registration Act Chapter	13315
@@ -204,17 +208,20 @@ Births and Deaths Registration Act. The RA	12151
 Births and Deaths Registration Bill	5299
 Births and Deaths Registration Ordinance	12151
 Births and Deaths Registration Ordinance No	12151
+Births and Deaths Registration Rules	14461
 Births and Deaths Registration System	5634,1,6962,42
 Births and Deaths Registration System MOH	12639
 Births and Deaths Registration System The Births	12639
 Births and Deaths Registration System. The Labour	5250
 Births and Deaths Registry	3287,5082,1166,1287
 Board of Registrars	2766
-Body Annual Expert Group Meeting for Registrar	12064,697,459,458
+Body Annual Expert Group Meeting for Registrar	12064,697,459,458,977
 Body CERTIFICATION OF THE REGISTER	13593
 Body Exploring the Interface Between Birth Registration	13148
 Body GOVERNMENT STRENGTHENS LAND REGISTRATION SYSTEM	13213
 Body INGD Vai Digitalizar Registo de Beneficiários	12859
+Body LAWS OF KENYA LAND REGISTRATION	14427
+Body LAWS OF KENYA REGISTRATION	14407
 Body MODEL OF THE ELECTORAL REGISTRATION	12826
 Body NATIONAL REGISTRATION BUREAU PUBLIC STATEMENT	13105
 Body National Registration Act	13296
@@ -247,7 +254,7 @@ Business Register SDG Sustainable Development Goals	2775
 Business Registration	12280,62,7,557
 Business Registration Act	7845,5061
 Business Registration Business Registration	12483
-Business Registration Certificate	12323
+Business Registration Certificate	12323,2180
 Business Registration Number	13333,1029
 Business Registration STARTING A BUSINESS	12342
 Business Registration Service	8949,809,2450,72
@@ -267,6 +274,7 @@ CAPÍTULO III REGISTO DE NASCIMENTO	11363
 CAPÍTULO IX REGISTO PREDIAL Secção	11901
 CBL Launches Enhanced Collateral Registry	14318
 CHAPITRE I DES FINATITES DU REGISTRE	10813
+CHAPITRE II DES REGISTRES D'ETAT CIVIL	14420
 CHAPITRE V DU REGISTRE NATIONAL DES	10813
 CHAPIÏRE III DES INSCRIPTIONS AU REGISTRE	10813
 CHAPTER II REGISTRATION OF BIRTHS	11176
@@ -280,12 +288,14 @@ CIVIL REGISTRATION AND VITAL STATISTICS	12338
 CIVIL REGISTRATION AND VITAL STATISTICS SYSTEM	12338
 CIVIL REGISTRATION SYSTEM	13644
 CLOUD POLICY Registered	10157
+COLLATERAL REGISTRY	14647
 COLLATERAL REGISTRY SYSTEM	13333
 COMMERCIAL REGISTRATION AND BUSINESS LICENSING PROCLAMATION	13967
 COMPLEMENTING ROUTINE CIVIL REGISTRATION SYSTEMS	13681
 CORE-MIS Building the Unified Social Registry	13395
 CR Civil Registration DA District Administrator	12663
 CR Civil Registry CSU Cadastro Social	10765,10
+CREATE NATIONAL REGISTER FOR ALL STUDENTS	14478
 CREATING A ZANZIBAR DYNAMIC SOCIAL REGISTRY	11133
 CRIPC Registrar General Chikumbutso Namelo	13177
 CRLI Officer Registers	12064
@@ -338,11 +348,13 @@ Certificado de Registo Criminal	2688,3298
 Certificado de Registo Criminal. Edição Nº	10752
 Certificados de Registo Criminal	10750
 Certificate Of Registration	12397
+Certificate of Registrar	14647
 Certificate of Registration	9779,378,1337
 Certificates of Registered Title	12605
 Certificates of Registration	9646,511
 Challenges of Digital Birth Registration	11977
 Chamber Registration Certificates	10645
+Chief Land Registrar	14427
 Chief Registrar	8978,2211,515,634,72,810,87,4,984
 Chief Registrar Supreme Court of Nigeria	1014
 Chief Registrar THIRD SCHEDULE	12410
@@ -373,7 +385,7 @@ Civil Register. The Bill	12959
 Civil Registrar	12151,177,10,29
 Civil Registrar CRO Civil Registration Officer	12413
 Civil Registrars	12250,88
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46,75,517,90,302,28,256
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56,902,16,1,1,1,249,13,1,1,1,9,44,19,6,18,51,27,9,3,1,11,1,14,46,75,517,90,302,28,256,754,220
 Civil Registration Act	13153
 Civil Registration And Vital Statistics	12413
 Civil Registration And Vital Statistics Technical	12337
@@ -405,7 +417,7 @@ Civil Registration Officer CRVS	12338
 Civil Registration Officers	12413
 Civil Registration Service	5299,6839,13
 Civil Registration Service of Kenya	12138
-Civil Registration Services	12138,13,142
+Civil Registration Services	12138,13,142,2185
 Civil Registration Services Directorate	12151
 Civil Registration Services The Kenya Vital	12151
 Civil Registration Services and Legal Affairs	9696
@@ -419,6 +431,7 @@ Civil Registration Uptake	13005
 Civil Registration Vi-	13681
 Civil Registration Vital Statistics and Identity DCR	12337
 Civil Registration and Civil Identification and Criminal	10775
+Civil Registration and Digital Identity	14640
 Civil Registration and Education	13681
 Civil Registration and Health	13678
 Civil Registration and ID	11971
@@ -434,11 +447,12 @@ Civil Registration and Social Protection	444
 Civil Registration and Social Protection Systems	444
 Civil Registration and Vital	12241
 Civil Registration and Vital Events	12533
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90,489,88,7,273,1,29,3,43,226,305,61,2,73,15,330,253,545,399
 Civil Registration and Vital Statistics BDRS	12639
 Civil Registration and Vital Statistics Coming Soon	12406
 Civil Registration and Vital Statistics DG	12338
 Civil Registration and Vital Statistics Department	10765,10,2202
+Civil Registration and Vital Statistics KENYA CRVS-NATIONAL	14655
 Civil Registration and Vital Statistics Namibia CRVS-Social	13220
 Civil Registration and Vital Statistics Strategic Plan	12334
 Civil Registration and Vital Statistics System	4120,6645,10,1363,200,29,46
@@ -447,7 +461,7 @@ Civil Registration and Vital Statistics The Mountain	12761
 Civil Registration and Vital Statistics ZIMBABWE CRVS-HEALTH	13678
 Civil Registration of Ethiopians	12226
 Civil Registration. Best	12340
-Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21,885,144,137,18
+Civil Registry	1191,677,155,83,2422,3,3113,425,1392,1253,61,37,1679,21,885,144,137,18,861
 Civil Registry Act	2106,2151,3387
 Civil Registry Authority	4188
 Civil Registry Department	3247,27,1115,1790,7218,37,5,102,103,34,18,3
@@ -478,7 +492,7 @@ Client Registry	5639,6967
 Close Corporation Registration Number	12400
 Co-operative Registrations	11250
 Cobertura de Registro de Propriedade	11898
-Collateral Registry	940,11658,103,632,873,12,121,6
+Collateral Registry	940,11658,103,632,873,12,121,6,302
 Collateral Registry Page	940
 Collateral Registry Regulations	13333
 Collateral Registry Regulations. All	14206
@@ -514,6 +528,7 @@ Company Registration	11209,1180
 Company Registration Certificate	13031
 Company Registration Number	4896,8437
 Company's Registered	4896
+Company’s Register	14546
 Complaint Mechanisms for Immovable Property Registry	12389
 Completação de Registos de Nascimentos	11537
 Complete Civil Registration	12151
@@ -543,6 +558,7 @@ Correctional Service NPRS National Population Registration	12947
 County Civil Registration Coordinator SCRO	12138
 County Registrar	12151
 Court Registrar	8849
+Court. The Registrar	14409
 Courtesy The Directorate of Civil Registry and Immigration	7932
 Create Registries	6423
 Creation of Registry Shops	10775
@@ -581,6 +597,7 @@ DOS REGISTOS	10750
 DOS SERVIÇOS DE REGISTO O Ministério	10753
 DPG Registry	7921
 DPI Electronic Immunization Register	5225
+DPO Registre CMIL Contrôles	14537
 DRS Electronic Deeds Registration System ESTA	11261
 DTM Registration	9772
 DU PROJET D’OPERATIONALISATION DU REGISTRE ELECTRONIQUE	7977
@@ -600,6 +617,8 @@ Data Protection Registration Regulations	2668
 Data Registration	12226
 Data Use Register	7313
 Date of Registration	12151,249
+Deadline for Registration	14647
+Deadline for Registration of Financing Statement	14647
 Death Registration	2775,9376,90,431,408,15,549,493
 Death Registration Completeness	12151,1493
 Death Registration Forms Appendix A1	12151
@@ -657,10 +676,12 @@ Department of National Identity and Civil Registry	12663,98
 Department of National Registration	1778,89,121,1026,9392,4,39,968,8,183
 Department of National Registration Passport and Citizenship	12415
 Department of Registrar General	12176,811
+Depository and Registration	14409
 Deputies and Assistant Registrars	12668
 Deputy Director for Malawi's National Registration Bureau	12144
 Deputy Executive Director and Chief Registrar	13238
-Deputy Registrar	12897,9,66,594
+Deputy Principal Registrar	14407
+Deputy Registrar	12897,9,66,594,841
 Deputy Registrar General	13678
 Deputy Registrar of Deeds	13213
 Deputy Registrar-General	13285
@@ -707,10 +728,11 @@ Director National Registration	13005
 Director National Registration Compre	13005
 Director National Registration Develop	13005
 Director Registration and Accreditation	13671
+Director of National Registration	14407
 Director of Training for South Sudan’s Civil Registry	10317
 Director-General of Civil Registry	2023
 Director. A Direcção de Registo de Ficheiros	167
-Directorate of Civil Registration Services	12323
+Directorate of Civil Registration Services	12323,2180
 Directorate of Civil Registration and Immigration	9122
 Directorate of Civil Registry	1963,2294,579,1279,1391,355,208,1053,464
 Directorate of Civil Registry and Immigration	7931
@@ -724,7 +746,7 @@ Disability Registry	10991
 Disclosure of Immovable Property Registry Information	12389
 Distribution Register ZRCP	1988
 District Land Registries	13060
-District Registrar	3285,9211,509
+District Registrar	3285,9211,509,1402
 District Registrars	12523,1176
 District Registrars PART III	12523
 District Registration Center	12217
@@ -758,6 +780,7 @@ Dynamic Social Registry	10991,1449
 E-Colateral Registry	12280
 E. National Dynamic Social Registry	12977
 EDEN Information System for Birth Registration INSD	10812
+ELECTRONIC LAND REGISTRY	14427
 ELECTRONIC RECORDING IN CIVIL STATUS REGISTERS	12338
 ESEC SNAPSHOT OF CIVIL REGISTRATION	12138
 ESTABLISHMENT AND REGULATION OF POPULATION REGISTER	12984
@@ -793,6 +816,7 @@ Electronic Invoice Registration System	14129
 Electronic National Population Registration System	10714
 Electronic National Registration Cards	12435
 Electronic On-site Birth Registration Realizing	12533
+Electronic Registry	14427
 Electronic Tick Register	12025
 Electronic Voters' Register	1681
 Eligible Total Registered Voters	13025
@@ -805,12 +829,13 @@ Enabling the Registrar	11862
 Enforce the National Registration Act	13005
 Enhanced Collateral Registry	14206,68,65,6
 Enhanced Collateral Registry System	14218,56,44,21,6
-Enhanced Single Registry	11133
+Enhanced Single Registry	11133,3354,155
 Entidade de Registo	576
 Entidades Regionais de Registos da Internet	6970,3777
 Entirely Electronic Company Registration Process	12389
 Entity Registration Number	6121
 Entity's Legal Registration	12400
+Entreprise Registre	14490
 Equipment Identification Registry	14190
 Establish the Zanzibar Civil Registration Agency	11133
 Establishment and Regulation of Population Register N	12984
@@ -833,6 +858,7 @@ Every Registered Member	8866
 Every Registrar	13285
 Evidence of Registration	2709
 Existing National Regis	13005
+Expand Birth Registration	14590
 Expand Civil Registration Services	10521
 Expanding Registration	8183
 Expanding the Unified Social Registry	11855
@@ -875,6 +901,8 @@ Fiabilisation du Registre National des Fréquences	998
 Fiji Civil Registry	10714
 Film Applications and Registrations	11250
 Final Register of Voters	13598
+Finance Lease Registry	14647
+Financing Statement. A Registrant	14647
 Fiscal Register	10765,10
 Fixed Asset Register	9004
 Fonctionnement du Registre Social Unique	13715
@@ -912,6 +940,7 @@ Ghana's National Registry	9393
 Ginaba Lino The Directorate of Civil Registry	8940
 Global Civil Registration and Vital Statistics. Scaling	10819
 GmbH Registered	11156
+GoK's Enhanced Single Registry	14487
 Gokwe Sengwa Civil Registry Office	13420
 Google Play Store for FREE and Register	12209
 GovStack Digital registries BB Data API template-1.3.0.json	6423
@@ -996,6 +1025,8 @@ Identity Card Voter Registry	10714
 Identity Day and Civil Registration Day	13007
 Identity Registration	13005
 Identity System Eswatini National Population Register	10714
+Identité Foyers Registre des Foyers	14480
+Identité Registre de Population Flux	14480
 Imibereho Dynamic Social Registry	12370
 Imibereho Dynamic Social Registry System	12370
 Imibereho Registry	11133
@@ -1037,10 +1068,11 @@ Integrated National Registration Information	13425
 Integrated National Registration Information System	1867,12,109,303,1271,8794,50,29,14,4,892
 Integrated National Registration and Identification System	13425
 Integrated Population Register	12227
+Integrated Population Register System	14497
 Integrated Population Registration Service	12323
 Integrated Population Registration Service MAISHA INTEGRATED	12323
-Integrated Population Registration Services	12323
-Integrated Population Registration System	1745,2191,6886,1316,1,88,66,4,26
+Integrated Population Registration Services	12323,2318
+Integrated Population Registration System	1745,2191,6886,1316,1,88,66,4,26,2317,15
 Integrated Registration Application	12241,839
 Integrated Registration Solution	12241
 Integrated Social Information Systems and Social Registries	11133
@@ -1054,6 +1086,7 @@ Interlinked Electronic Registries UHC Universal	396
 Internet Numbers Registry System	3503
 Internet Numbers Registry System. All RIRs	3503
 Internet Numbers Registry System. RIRs	3503
+Internet Registry	14659
 Internet Rights and Freedoms. National Registration Bureau	12214
 Interpretation PART II NATIONAL REGISTRATION	12898
 Introdução O Sistema Integrado de Registo	11565
@@ -1067,12 +1100,13 @@ Jabu Maphomolo Registrar of Deeds	11260
 Japan Population Register	10714
 Job Seeker Registration	13037
 Justice for Children Trust Birth Registration	13310
+KUM DIGITALISATION DES REGISTRES Système IDMS	14480
 Kagarama. Registration	4969
 Kanja Sesay The National Civil Registration	9765
 Kenya Registration of Persons Act	4439
 Kenya Secretary Registration Statistics	12151
 Kenya Workforce Registry	9855
-Kenya's Enhanced Single Registry	11133,3062
+Kenya's Enhanced Single Registry	11133,3062,447
 Key Digital Functionalities The Digital Registries	6423
 Kingdom’s Deeds Registry and Surveyor General’s Department	13213
 Kinyarwanda Illustrations of Digital Birth Registration	12328
@@ -1089,9 +1123,10 @@ Lagos Man Visited Birth Registration Website	10034,231
 Land Authority and National Identification Registry	14318
 Land Information System. The Deeds Registry	13251
 Land Registrar	12451
-Land Registration	12328,1670
+Land Registration	12328,1670,429
+Land Registration Act	14427
 Land Registration Coverage	12389
-Land Registry	10937,196
+Land Registry	10937,196,3514
 Land Registry Information System	11862,77
 Land Registry Office	11862
 Land Registry Offices and Notaries	11862
@@ -1116,7 +1151,9 @@ Law Source National Registration Act	12406
 Law Source National Registration Regulations	12406
 Laws of Zambia Registration Stamp	12410
 Le Registre	735,4436,5711
+Le Registre Central des Bénéficiaires Effectifs	14633
 Le Registre Social Unique	10910,2805
+Le Registre des Bénéficiaires du Régime Non Contributif	14418
 Lead Civil Registry and Immigration By Sasuk	9122
 Leading CauseS of Registered Deaths for Neonates	12151
 Leading Causes Of Registered Deaths	12151
@@ -1132,7 +1169,7 @@ Legal Framework for Birth Registration	10822
 Legal Texts and Policy Documents Registration	14138
 Legislative Framework for Civil Registration	12959
 Lesotho’s National ID and Civil Registration System	12663
-Liberia Business Registry	14218,56
+Liberia Business Registry	14218,56,373
 Liberia Collateral Registry	14274,71
 Liberia Launches Digital Collateral Registry	14218
 Licensing and Registration All	13381
@@ -1157,6 +1194,7 @@ Lojas de Registo da Camama	10753
 Lojas de Registro	10765,10
 London Pop-Up Registration	7099
 M Compulsory Briefing Session Meeting Registration	11240
+MAISHA INTEGRATED REGISTER The Directorate of National	14503
 MARRIAGE REGISTRATION In Namibia	12337
 MDQR Registe	12778
 MEMBERS AND REGISTER OF MEMBERS	3714
@@ -1167,7 +1205,9 @@ MHAISS. Registration	12367
 MIS Inventory and Register Upgrade	12453
 MISSION STATEMENT FOR THE DEEDS REGISTRY	13251
 MODEL OF THE ELECTORAL REGISTRATION INFORMATION	12826
-Maisha Integrated Population Register	12323
+MRI Cancellation and Register	14533
+MRI Property Registration	14533
+Maisha Integrated Population Register	12323,2180
 Makes Registration Mandatory for Capitation URL	12312
 Malawi Business Registration Database	12906
 Malawi Business Registration System	12176,1001
@@ -1288,6 +1328,7 @@ NRB’s Strategic Plan. Bringing Registration Services	13095
 NRD Norway Registers Development AS NUL	12675
 NSER National Socio-Economic Registry OCGS Office	11133
 NTEM WELE NZAS REGISTRO REGISTRO NOTARIA	4209
+Nairobi Land Registry	14427
 Nakfa Registration Criteria	14045
 Name Reservations and Company Registrations	11250
 Name and Registration	12041
@@ -1299,7 +1340,7 @@ Nampula. Campaign Finance Registered	12201
 Nascer Com Registo	10765,10
 Nascimentos Registados	11537
 Nation. Civil Registration Services Kenya	6274
-National AI Registry	7548
+National AI Registry	7548,7116
 National Agency for Civil Registration and Identity	2349
 National Agency for People Registry and Secure Documents	1833
 National Agency for Population Register and Secure	6767
@@ -1319,6 +1360,7 @@ National Civil Registration Authority Statistics Sierra	1161
 National Civil Registration Civil	12533
 National Civil Registration Office	2319,2275
 National Civil Registration Office of Cameroon	10972
+National Civil Registration and Identification Center	14430
 National Civil Registration and Vistal Statistics System	12138
 National Civil Status Register	557
 National Civil Status Registration Office	3814,5699,3755,413
@@ -1343,10 +1385,11 @@ National ID Registrations	12214
 National ID and Civil Registration and Vital Statistics	13005
 National Identification Register	1920,1085,567,51,2870,2893,1328,176
 National Identification Register. Ollama	6435
-National Identification Registration	2541,11140
+National Identification Registration	2541,11140,966
+National Identification Registration Authority	14484
 National Identification Registration Bill	11949,37
 National Identification Registrations Authority	1781
-National Identification Registry	2252,518,322,147,384,1217,404,231,719,187,1340,2406,166,1427,2498,56,61
+National Identification Registry	2252,518,322,147,384,1217,404,231,719,187,1340,2406,166,1427,2498,56,61,312
 National Identification Registry NSDI	5244
 National Identification Registry. National	9652
 National Identification and Registration	11977
@@ -1372,7 +1415,7 @@ National Mobile Registry	5521
 National Mortgage Registry	8087
 National Open Data Registry	9022
 National Persons Registry	10714
-National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337,5,10,585,21,3,58
+National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337,5,10,585,21,3,58,1498
 National Population Register System	12367
 National Population Register. WHAT WE WILL	13678
 National Population Registration Bill	12947
@@ -1394,7 +1437,7 @@ National Register of Natural Persons	1927,394,2343,22,276,5894,55
 National Register of Physical Persons	10920
 National Registra	13005
 National Registrar	12533
-National Registration	1988,3262,2915,1965,2111,169,79,44,64,408,302,128
+National Registration	1988,3262,2915,1965,2111,169,79,44,64,408,302,128,1220
 National Registration Act	799,1080,2763,2589,4956,29,1,74,119,5,74,35,1,8,1,63,42,278,88,291,1,10,4,11,25,51
 National Registration Act Cap	12453,892
 National Registration Act Chapter	12449
@@ -1404,7 +1447,7 @@ National Registration Act. Short	12410
 National Registration Act. The Bureau	13005
 National Registration Act. The KRAs	13005
 National Registration Act. The NRB	10130
-National Registration Bureau	1704,27,533,658,3,753,494,267,192,11,1956,268,204,161,1,601,36,1278,288,695,281,411,1172,171,3,13,6,25,4,1,10,14,50,2,4,708,2,68,5,6,9,10,9,100,1,99
+National Registration Bureau	1704,27,533,658,3,753,494,267,192,11,1956,268,204,161,1,601,36,1278,288,695,281,411,1172,171,3,13,6,25,4,1,10,14,50,2,4,708,2,68,5,6,9,10,9,100,1,99,1164,40,28,128
 National Registration Bureau CRB Credit Reference	11994
 National Registration Bureau KRA Kenya Revenue	12227
 National Registration Bureau National Registration Bureau	13005
@@ -1467,12 +1510,12 @@ Nigerian Internet Registration Association	6536
 Nigeria’s Social Registry. Targeting	11469
 Nira District Registration Officer	2928
 Nomination du PDF du Registre Foncier	13375
-Non-Individual Register	6121
+Non-Individual Register	6121,8363
 Non-Individual Registry	11759
 Non-Individual Registry Begins FY2026	11759
 Non-citizens Registered	12291
 Norway National Population Register	10714
-Norway Registers Development	12675
+Norway Registers Development	12675,1791,4
 Notariado SISTEMA DE REGISTO CIVIL	12156
 Notary Identity Register	11939
 Notary's Identification Register	11939
@@ -1549,6 +1592,7 @@ PRINCIPAL REGISTRY CIVIL DIVISION CIVIL CAUSE	13040
 PROCEDURE FOR REGISTERING LEGITIMATION Legitimation	12338
 PROCEDURES FOR REGISTRATION OF MARRIAGE	12338
 PROCEDURES FOR REGISTRATION OF NINE VITAL	12338
+PROCESSORS Registration The Data Protection	14524
 PROCESSORS Section One Registration of Data Controllers	12185
 PROMOREN Registration	10765,10
 PROOF OF REGISTRATION WITH THE ODPC	2709
@@ -1626,10 +1670,13 @@ Pretoria Deeds Registry Mr Charles Ramasenya	13213
 Pretoria Registry	13251
 Previous National Registration	12410
 Previously Registered Persons	12165
-Primary Registration Agencies	12323
+Primary Registration Agencies	12323,2180
 Principal Civil Registrar	12151
-Principal Registrar	12151
+Principal Registrar	12151,2256,54
+Principal Registrar and Deputy Principal Registrar	14407
 Principal Secretary National Registration Bureau ABIS	13005
+Procedures for Registration	14647
+Procedures for Registration of Financing Statements	14647
 Process PROCESS FOR THE REGISTRATION	12064
 Processo de Registo de Nascimento	10772
 Processos de Registo	11363
@@ -1651,6 +1698,7 @@ Prototype Deeds Registration System	12962
 Provide For the Registration of Land and Other Immovable	13950
 Provide Registration Information	13333
 Provider Registry	21
+Provincial Registrar	14407
 Provincial Registrar. Applicants	12496
 Provincial Registrars	13699
 Provincial Registry Office	13434
@@ -1677,6 +1725,7 @@ QUE NÃO REMETERAM OS REGISTOS PRIMÁRIO	11391
 Qualification Registry for Persons	12977
 R131-billion. Registrations	11904
 RCI Registo Civil Integrado	10765,10
+RCS Registre	14437
 RECEIPT FOR SURRENDERED NATIONAL REGISTRATION CARD	12410
 REGISSANT LES CONDITIONS ET MODALITES D’EXERCICE	11522
 REGISTER	11251,1072,55
@@ -1701,6 +1750,7 @@ REGISTO DE VALIDAÇÕES E APROVAÇÕES	11435
 REGISTO DOS NASCIMENTOS Nascimento	10777
 REGISTO E LICENCIAMENTO DE CENTROS	2437
 REGISTO ELEITORAL OFICIOSO	11425
+REGISTRAR First	14407
 REGISTRAR-GENERAL	12959
 REGISTRARS	11531
 REGISTRARS ACREDITADOS EM	11531
@@ -1738,6 +1788,7 @@ REGISTRATION OF QUALIFICATIONS	13371
 REGISTRATION OF VIRTUAL ASSET SERVICE PROVIDERS	13532
 REGISTRATION OFFICER RIGHT SIGNATURE	12410
 REGISTRATION OFFICER RIGHT SIGNATURE OF HOLDER	12410
+REGISTRATION PROCESS	14427
 REGISTRATION Registration	3714
 REGISTRATION STATUS OF DATA HANDLERS	7167
 REGISTRATION SUB-SECTION ONE COMMON PROVISIONS	12226
@@ -1745,6 +1796,7 @@ REGISTRATION TIMELINESS AND COMPLETENESS	13644
 REGISTRATION-OF-A-NEW-ORGANIZATION.pdf Registering	12350
 REGISTRE COMMUNAL Article	10813
 REGISTRE D'IDENTIFICATION FISCALE CHAPITRE	13293
+REGISTRIES TO WHICH THESE REGULATIONS SHALL	14427
 REGISTRO	4209
 REGISTRO DE PROPIEDAD DE LA REGION	4209
 REGISTROS REGISTROS REGISTROS REGISTROS REGISTROS Cuentas	4209
@@ -1768,6 +1820,7 @@ Reference Bureau CRVS Civil Registration and Vital	13005
 Refuse Registration	12185
 Regional Administration Assistant Civil Registration Officer	12970
 Regional Civil Registration Coordinator CCRO	12138
+Regional Coordinator for Civil Registration Hesbon Odhiambo	14640
 Regional Internet Registries	3503
 Regional Internet Registry	3503,4544,819,2935
 Regional Internet Registry and ICANN	3503
@@ -1786,11 +1839,12 @@ Registar	167,11215,639
 Registar Empresa	10753
 Registar-se	10753
 Registei	11514
-Register	3,19,5,560,617,673,33,758,41,18,896,91,725,10,320,221,346,1032,103,795,249,33,236,711,352,406,526,925,3,7,7,187,225,48,95,31,516,54,79,30,63,136,26,15,97,15,72,3,98,137,28,222,32,17,12,85,27,216,9,1,2,8,4,9,1,149,96,564,76
+Register	3,19,5,560,617,673,33,758,41,18,896,91,725,10,320,221,346,1032,103,795,249,33,236,711,352,406,526,925,3,7,7,187,225,48,95,31,516,54,79,30,63,136,26,15,97,15,72,3,98,137,28,222,32,17,12,85,27,216,9,1,2,8,4,9,1,149,96,564,76,201,15,71,10,30,114
 Register Beneficial Owners' Information	12389
 Register Birth	12226
 Register Change	12898
 Register Changes	12389
+Register Collateral	14647
 Register Conduct	1988
 Register External	12041
 Register Login Home	12486
@@ -1798,6 +1852,7 @@ Register NISSA National Information System	12663
 Register Nominee Shareholders and Directors	12389
 Register Online	4449
 Register Private	12342
+Register Property Details	14533
 Register Shareholders' Information	12389
 Register Sign In Menu Menu South	6281
 Register Voter Description N	9124
@@ -1811,6 +1866,7 @@ Register of Civil	12226
 Register of Companies	13299,198
 Register of Companies and Beneficial Owners	13497
 Register of Companies and Register of Beneficial Owners	13299,198
+Register of Data Controllers and Data Processors	14524
 Register of Deaths	13285
 Register of Insolvency Practitioners	12389
 Register of Laws	3861
@@ -1834,7 +1890,7 @@ Register. Mauritius Police	11823
 Registerd	12146
 Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250,358,28,71,96,16,12,154,56,64,34,2,359,217,7,1,112,113,44,176,19,18,3,28,15,3,52,18,17,130,395,70,153,39,20,26,436
 Registered Adult Deaths	12151
-Registered Agent	5687
+Registered Agent	5687,8960
 Registered Births	2775,10869
 Registered Births. Deaths and Marriages	12413
 Registered Client	13333
@@ -1896,8 +1952,9 @@ Registered. Secondary Teachers Diploma	13078
 Registered.KE Domains	6946
 Registered.KE Domains Number of Domains Sub-Domain Use	6946
 Registering	761,3627,61,193,2009,2950,1113,108,1366,26,114,61,63,495,201,400
+Registering Entity	14524
 Registering for EIS	4699
-Registers	1,770,199,2744,173,1338,5550,358,1093,27,270,482,280,86,49
+Registers	1,770,199,2744,173,1338,5550,358,1093,27,270,482,280,86,49,1174
 Registers Biometrics	2477
 Registers Contract	6432
 Registers and Summary Sheets Users	11596
@@ -1966,11 +2023,11 @@ Registos de Nascimento	11537
 Registou-se	10777
 Registrable	13311
 Registrador	4209
-Registrant	12146
+Registrant	12146,2501
 Registrant's Personal Data	12146
 Registrants	11531,615
 Registrants Growth	13053
-Registrar	1,2,1627,1722,27,335,2709,1359,63,1605,56,2,27,457,531,657,1,8,72,540,253,92,5,139,77,26,13,117,1,1,24,98,3,18,58,167,4,8,1,10,43,81,30,215,2,12,8,4,22,65,99,69,729
+Registrar	1,2,1627,1722,27,335,2709,1359,63,1605,56,2,27,457,531,657,1,8,72,540,253,92,5,139,77,26,13,117,1,1,24,98,3,18,58,167,4,8,1,10,43,81,30,215,2,12,8,4,22,65,99,69,729,114,18,34,186
 Registrar Directions	3714
 Registrar External	10765
 Registrar General	2707,307,1112,6436,1589,301,31,13,18,230,149,5,61,128,18,72
@@ -1986,6 +2043,7 @@ Registrar General's Department	11032,1032
 Registrar General's Department Com	11480
 Registrar General's Office	2371
 Registrar Generals	12761,828
+Registrar Generals Victoria Falls	14655
 Registrar General’s Department	170,12344
 Registrar Samuel Adom Botchway	3287
 Registrar The Registrar	3714,9183
@@ -1994,6 +2052,7 @@ Registrar and Deputy Registrar	13566
 Registrar and Master	3714
 Registrar and Secretary	14227
 Registrar for National Registration	12524
+Registrar of Addresses	14595
 Registrar of Banks	13288
 Registrar of Births	1
 Registrar of Births and Deaths	12523,762
@@ -2014,7 +2073,7 @@ Registrar of Marriages. Under the Marriage	13105
 Registrar of Mulungushi University	13631
 Registrar of National Registration	12524,1
 Registrar of PPB	9855
-Registrar of Political Parties	1630,11357
+Registrar of Political Parties	1630,11357,1559
 Registrar of Political Parties. D. Right	1630
 Registrar of Sex Offenders	12977
 Registrar of Societies	1988
@@ -2022,6 +2081,7 @@ Registrar's Certificates and Special Licenses	12290
 Registrar's Certificates and Special Licenses. The Office	12290
 Registrar's Office	1
 Registrar's Signature	12410
+Registrar's Verification Statement	14647
 Registrar- General Hussaini Ishaq Magaji	10274
 Registrar-General	1,2071,517,5107,86,63,5114,326,1,10,1,18,119,5,62,158,40
 Registrar-General Any	12959
@@ -2038,6 +2098,7 @@ Registrar-General's Office. Responding	7782
 Registrar-General. Amendment	11
 Registrar-General. Clause	12959
 Registrar-General’s Department	7696
+Registrar. ARTICLE	14409
 Registrar. Cancellation	3714
 Registrar. Liquidation	3714
 Registrar. PART	3714
@@ -2050,7 +2111,7 @@ Registrars. Likewise	12959
 Registrasie van Aktes	11189,28
 Registrasie van Aktes Wet	11189
 Registrateur	11189
-Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56,43,1,158,11,40,6,2,166,77,373,15,97,47,20,1,9,7,48,44,53,8,5,15,1,18,8,21,2,1,2,7,15,4,5,22,16,3,36,6,2,2,1,11,10,8,22,4,17,3,6,30,10,24,13,4,23,1,1,8,91,5,1,9,11,11,18,92,127,8,6,4,1,13,19,10,46,32,16,42,28,30,67,29,6,15,15,1,1,24,4,6,50,32,58,16,56,33,115,88,210,18,263
+Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56,43,1,158,11,40,6,2,166,77,373,15,97,47,20,1,9,7,48,44,53,8,5,15,1,18,8,21,2,1,2,7,15,4,5,22,16,3,36,6,2,2,1,11,10,8,22,4,17,3,6,30,10,24,13,4,23,1,1,8,91,5,1,9,11,11,18,92,127,8,6,4,1,13,19,10,46,32,16,42,28,30,67,29,6,15,15,1,1,24,4,6,50,32,58,16,56,33,115,88,210,18,263,147,8,12,97,123
 Registration Act	12898
 Registration Agency	13681
 Registration Agent SDG Sustainable Development Goal	12151
@@ -2077,6 +2138,8 @@ Registration Certificate	11250,1787
 Registration Citation	10609
 Registration Completeness and Timeliness Registration	13644
 Registration Confirmation Receipt	10765
+Registration Consists	14647
+Registration Consists of Filing	14647
 Registration Criteria	14045
 Registration Data	6423
 Registration Division	13189
@@ -2092,7 +2155,7 @@ Registration Link Contributions ATU-R	10235
 Registration Linked	12406
 Registration NID REGISTRATION	12214
 Registration Note	5665
-Registration Number	4896,8141,296
+Registration Number	4896,8141,296,1314
 Registration Numbers	11250
 Registration Of Persons	1844
 Registration Office	3714,8653,940
@@ -2115,6 +2178,7 @@ Registration Registration Registration Registration	12241
 Registration Registration of National ID	13080
 Registration Regulations	9781,2520
 Registration Requirements	12193,1056
+Registration Requirements for All Secured Parties	14647
 Registration Road Traffic	12151
 Registration Section	12253
 Registration Service	3426,8897
@@ -2180,7 +2244,7 @@ Registration of Cloud Service Providers	6432
 Registration of Companies and Other Business Entities	13311
 Registration of Contractors	1988
 Registration of Data Controllers	12301
-Registration of Data Controllers and Data Processors	12232,69,1974
+Registration of Data Controllers and Data Processors	12232,69,1974,249,150
 Registration of Deaths	12151,793
 Registration of Deeds	12912,12
 Registration of Domestic Firms	12389
@@ -2203,7 +2267,7 @@ Registration of Mechanism	11855
 Registration of Memorandum of Incorporation	3714
 Registration of National ID	12241
 Registration of Persons	1844,76,1085,9263,29
-Registration of Persons Act	1844,72,4,837,248,567,51,2870,456,3873,1317
+Registration of Persons Act	1844,72,4,837,248,567,51,2870,456,3873,1317,2268,77
 Registration of Persons Act Cap	3005
 Registration of Persons Act. Section	12139
 Registration of Persons Regulations	1844,5105
@@ -2211,6 +2275,7 @@ Registration of Road Motor Vehicles and Motorcycles	2775
 Registration of SIM	1401,8629
 Registration of SIM Cards	10822
 Registration of SIM Cards Regulation	10822
+Registration of Security Interests	14647
 Registration of Societies	12597
 Registration of Tax Agents	12629
 Registration of Taxpayers	13968
@@ -2228,9 +2293,11 @@ Registrations Fig	1554
 Registrations Useful Info	12454
 Registrations and Intellectual Property Centre	13177
 Registrations for National ID	13080
-Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70,105,411,23
+Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28,612,422,83,1266,82,15,245,22,70,105,411,23,157,2,63,1,1,47,74
 Registre Article	735
+Registre Central des Bénéficiaires Effectifs	14633
 Registre Commerce	13524
+Registre Démantèlement	14423
 Registre Electronique de Consultations-Maternite	10881
 Registre Electronique de Consultations-Maternity	10881
 Registre Fait	735
@@ -2242,19 +2309,24 @@ Registre National	557,627,47,6762,1644,1,30,879,274,1222,1791,408,1
 Registre National Unique	417,3783
 Registre National des Nationalités	7993,1675
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117,3378
-Registre Social	13715,120
+Registre Officier	14423
+Registre Social	13715,120,591
 Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
 Registre Social Unifié du Cameroun	10985
-Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1
+Registre Social Unique	2713,787,7366,16,28,17,11,975,11,86,1704,1,838,9
 Registre Sont	735
 Registre de Commerce	5478,8331
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
-Registre du Commerce	6942,404,3490,26,17,643,45,2242
+Registre des EPI	14488,1,1
+Registre du Commerce	6942,404,3490,26,17,643,45,2242,674
 Registre du Courrier Enregistrement	10975
 Registred	5687
 Registred Note	5687
-Registres	10821,2554,302
+Registres	10821,2554,302,872
+Registres Il	14423
+Registres Le Chef CIREF Responsable	14423
+Registres L’Officier	14423
 Registres de Base	13841
 Registrieren Bitte	13014
 Registries	6423,1780,2572
@@ -2280,7 +2352,7 @@ Registro Sanitario de Medicamentos	4209
 Registro de Protección de Datos Personales. Transcurrido	163
 Registros	4209
 Registros Académicos	4209
-Registry	2770,517,65,1135,988,764,49,135,1125,828,573,29,464,329,356,61,526,51,10,358,117,509,96,69,15,302,148,24,85,165,299,289,82,873,12,77,40,4,6
+Registry	2770,517,65,1135,988,764,49,135,1125,828,573,29,464,329,356,61,526,51,10,358,117,509,96,69,15,302,148,24,85,165,299,289,82,873,12,77,40,4,6,148,154
 Registry APIs	6423
 Registry BB	6423
 Registry Complex	13434
@@ -2306,8 +2378,10 @@ Registry and Notary Services	10775
 Registry of Legal Entities	8769
 Registry of Natural Persons	3604
 Registry of Open Data	10794
+Registry's Obligation	14647
 Registry. CREATING A CLIENT ACCOUNT	13333
 Registry. Login	13333
+Registry. Rationale	14664
 Registry. The African Union AI Strategy	9937
 Registry. To Create	13333
 Regulamento de Registo	2816,9975
@@ -2316,16 +2390,20 @@ Rep. Resident Register	10714
 Rep. Zambia Register VIZ Database	10714
 Republic. CHAPTER III REGISTRATION OF DEATHS	11176
 Requirements for Birth Registration	13644
+Requirements for Registration of Collateral	14647
 Requirements for Registration of Marriages and Divorces	13644
 Residence Register	10765
 Residence Registration	14137
 Residence Registry	10775
 Resident Registration Card	10714
 Resource and Registered Members	585
+Respondent The Principal Registrar of Births and Deaths	14460
+Respondent The Principal Registrar of Persons	14460
 Results Repository Data Warehouse Provider Registry	21
 Reviewed National Registra	13005
 Reviewed National Registration Act	13005
 Reviewed National Registration Act Docu	13005
+Revised Collateral Registry Regulation	14647
 Revolutionary Government of Zanzibar RSH Registro Social	11133
 Risk Register	1154,6394,3608,1764
 Risk Register RESPONSIBLE Programme	11156
@@ -2337,6 +2415,7 @@ Risk Registration Template Tool	11156
 Risks Job Seeker Registration Creates	13037
 Road Ahead for Governed Registries Registries	8203
 Romania's Business Registry	13537
+Rurale Civil Registration and Vital Statistics Centre	14425
 Rwanda Civil Registration Vital Statistics Booklet	12471
 Rwanda National Population Register	10714
 Rwanda's Civil Registration and Vital Statistics	8376
@@ -2392,6 +2471,7 @@ Scope of Coverage The Business Information Register	13954
 Search The Registry	13333
 Search for Historical National Registration Card Records	10347
 Search the Registry	13333
+Secretary Civil Registration Services	14655
 Secretary for Civil Registration	4631
 Section One Organs for Civil Registration	12226
 Section. Registrar	12151
@@ -2407,6 +2487,7 @@ Select Service Register	12454
 Select the Country of Registration	13333
 Self Registration Self	12496
 Senegal's National Single Registry	417
+Senior Assistant Principal Registrar	14407
 Senior Assistant Registrar	1
 Senior Managers Asset Regis	13005
 September. The National Registration Bureau	6598
@@ -2430,7 +2511,7 @@ Simplification of Birth Registration	10765,10
 Simplified Birth Registration System	6807
 Single Digital Registry Prior	14308
 Single National Register	10991
-Single Registry	10822,311
+Single Registry	10822,311,3383
 Single Registry of Beneficiaries	12335
 Single Social Registry	6251,4524,1149,617,19,7
 Sistema Electrónico de Registo	12831
@@ -2452,6 +2533,7 @@ Slovenia Central Population Register	10714
 Snapshot of Civil Registration and Vital Statistics Systems	327,1,11810
 Social Benefit Registration System	12533,1
 Social Protection MIS Inventory and Register	13345
+Social Protection Registry	14493
 Social Protection UBR Unified Beneficiary Registry	12964
 Social Register	11988,32
 Social Registers	11988
@@ -2495,6 +2577,7 @@ Stakeholder Engagements The Uganda Registration Services	11759
 Stakeholder Register	11131
 State of Social Registries	11133
 Steve Regis Tassembedo	11063
+Stockage Registre Valorisation Elimination	14423
 Strategic Civil Registration and Vital Statistics	14149,1
 Strategic Direction The Business Registration Service	12280
 Streamline Business Registration	2356
@@ -2530,6 +2613,7 @@ TCA. Registou-se	10760
 TIN Registration	12500
 TIN Registration Form	13249
 TITRE II DU REGISTRE NATIONAL DES	10813
+TITRE III DU REGISTRE DES BENEFICIAIRES	14418
 TRCN Teachers' Registration Council of Nigeria	11860
 TRENDS COURSE REGISTRATION BY SEX POSTER	13095
 TT Civil Registration Department and United Nations	12138
@@ -2542,6 +2626,7 @@ Targeting and Registration	12978
 Tasa de Registro	4209
 Tax Information and Cash Registration Machine Administration	12500
 Tax Registration	12389
+Tax Registration Menu Items	14533
 Tax Registration Number	10064
 Tax Registration Process	12389
 Tax Type New Registrants New Registrants	13053
@@ -2549,6 +2634,7 @@ Taxpayer Identification Number Registration	12349
 Taxpayer Register	12500,553
 Taxpayer Register Table	12500
 Taxpayer Registration	12491
+Taxpayer Registration Module	14533
 Taxpayer Registration Taxpayer	13053
 Taxpayers Registered	12951
 Technology and Subject Independent Identity Registry Allows	1009
@@ -2571,6 +2657,7 @@ Timeliness of Registration and Registration Completeness	12672
 Timely Birth Registrations	12947
 Timely Registration	12959
 Timely and Universal Registration Responses Score	10812
+Title Document and Registration	14647
 Togo Launches Biometric ID Registration	3437
 Togo Reviews Civil Registration Law	11104
 Trade Mark Registration Certificates and Renewals	11250
@@ -2596,7 +2683,7 @@ Ubari Civil Registry Office	4531
 Ubudehe Registration	12328
 Uganda National Innovator Registry	6239,49
 Uganda Registration Service Bureau Election Commision	10822
-Uganda Registration Services Bureau	2757,248,933,17,1439,727,1308,645,649,1479,79,281,260
+Uganda Registration Services Bureau	2757,248,933,17,1439,727,1308,645,649,1479,79,281,260,3662
 Uganda Registration Services Bureau Act	2757
 Uganda's National Identification and Registration Authority	1850
 Ukraine Unified State Demographic Register	10714
@@ -2634,8 +2721,10 @@ Unless the Registrar	13311,87
 Up-dating Photograph Register	12898
 Urban Land and Property Registration and Information Agency	5655
 Urban Rural Registered	10765
+Urgence de Santé Publique Civil Registration and Vital	14622
 Usagers Registres Numérisation	3381
 VAN SUID-AFRIKA Registered	11178
+VAT Obligation Registration Changes	14533
 VAT REGISTRATION NUMBER OR VAT REGISTRATION	11240
 VAT Registered Operators	12509
 VAT Registration	12389,241

@@ -3,7 +3,7 @@ A. O. De Excelkon Ltd II	11129
 AHAI6 CURRENCY EQUIVALENTS Exchange	11863
 AI Center of Excellence	3711,1362
 AI Centre of Excellence	8220
-AI Centres of Excellence	4528,7984,1032
+AI Centres of Excellence	4528,7984,1032,1022
 AI Credit Scoring Inherits the Exclusion	5820
 AI Exclusion	10726
 AI Multi-Model Exchange	5311
@@ -78,8 +78,10 @@ Bench Database Exclusive Features Roadmaps Deep	9629
 Benefits of Data Exchange Standards	12360
 Bills of Exchange	9220,121
 Bills of Exchange Amendment Bill	9215
+Board Except	14449
 Body Lesotho Internet Exchange Point Peers	12743
 Bolstering of Foreign Exchange Reserves	11131
+Bomalathu Data Exchange Platform	14674
 Bombay Stock Exchange	12577
 Botswana Health Information Exchange	12569
 Botswana Internet Exchange Point	12625
@@ -104,6 +106,7 @@ CARGAS EXCEPCIONALES	4209
 CBE Centre of Excellence	11131
 CBE Centre of Excellence and Innovation	11134
 CBE. EXCO	11131,3
+CBN Foreign Exchange Manual	14453,20,1
 CBN's Trade and Exchange Department	7416
 CBRE EXCELLERATE KENYA LIMITED Data Controller	7167
 CENTRE OF EXCELLENCE LE CENTRE D'EXCELLENCE	12138
@@ -151,6 +154,7 @@ Centre of Excellence for CRVS Systems. Housed	12138,189
 Centre of Excellence for Civil Part of Canada	12138
 Centres of Excellence	209,1429,3100,2208,2263,1926,102,719,400
 Centres of Excellence and Research Labs	6936
+Centres of Excellence and Service Delivery	14505
 Centres of Excellence. Mitigation	4528
 Centres of Excellence. Risk	12512
 Centro de Excelência	2816,9999
@@ -299,10 +303,11 @@ EXCELLENCY JOHN DRAMANI MAHAMA PRESIDENT	4126
 EXCELÊNCIA	12796
 EXCELÊNCIAS	12796
 EXCEPT IN PRESENCE OF THE OFFICIAL	13037
-EXCEPTIONS	1474
+EXCEPTIONS	1474,12960
 EXCERPT	5912,1169,740
 EXCERPT ONLY	4145
 EXCHANGE AND THE ASSOCIATED EXIT OFFER	4896
+EXCHANGE DEPARTMENT	14453,20
 EXCHANGE OF INFORMATION	10762
 EXCHANGE RATES TO SOUTH AFRICAN RAND	10793
 EXCHANGE’S MONTHLY REPORT INCLUDES	4602
@@ -349,7 +354,7 @@ Exceeding	5676
 Exceeding E50	12393
 Exceeds N	13108
 Excei	3972
-Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587
+Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107,216,32,94,17,21,66,61,45,5,10,30,172,304,589,8,35,26,50,388,587,266
 Excel Joab	9739
 Excel-based	1824,10201
 Excel-based E-tick	12025
@@ -364,7 +369,7 @@ Excelentísimo	1855,4986
 Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Excelia	3394
 Excellen Crosswalk	124
-Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422,40,420,12,322,685
+Excellence	1264,1023,33,22,390,84,671,52,65,71,727,493,64,19,767,333,180,569,807,896,2310,291,286,673,422,40,420,12,322,685,575,56
 Excellence Cloud	3857
 Excellence Consumer Price Index Consumer Protection	11134
 Excellence Evariste NDAYISHIMIYE	13405
@@ -412,7 +417,7 @@ Excellency Dr. Mathew Antonio Patrick	12640
 Excellency Dr. Mokgweetsi Eric Keabetswe	12640
 Excellency Dr. Samia Suluhu Hassan	9011
 Excellency Dr. Stefan Scholz	13156
-Excellency Dr. William Samoei Ruto	13440
+Excellency Dr. William Samoei Ruto	13440,1036
 Excellency Dr. Workneh Gebeyehu	13870
 Excellency Emmerson Dambudzo Mnangagwa	13557
 Excellency Gabriele Annis	13207
@@ -504,20 +509,20 @@ Excelsimo Networks Ltd	3862
 Excelência Senhor Embaixador	10753
 Excepcionalmente	549,2317,7890,632,64,1323
 Excepciones	163
-Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598
+Except	3,8,574,658,581,164,1726,436,4,742,137,167,500,122,423,2621,257,1527,546,44,676,40,8,12,78,131,112,67,523,16,3,125,154,102,18,6,6,4,97,598,393,13,71,154
 Except Indonesia	11964
 Except LPG	12256
 Except for CR	10765,10
 Except for Ethiopia	11964
 Except for Northern Cape	11192
 Except the Articles	12226
-Exception	6432,4707,6,1,1,86,564,388,718,390
+Exception	6432,4707,6,1,1,86,564,388,718,390,1116
 Exceptional	12302,751,815
 Exceptional FCS	11867
 Exceptionally	13418
 Exceptionnellement	10891
 Exceptionnelles Total DGTCP	2476
-Exceptions	25,1449,7649,1034,679,681,447,202,27,101,66,599
+Exceptions	25,1449,7649,1034,679,681,447,202,27,101,66,599,1450,25
 Exceptions PART VII	1474
 Exceptions Sans	10836
 Exceptions and Relief	12389
@@ -527,7 +532,7 @@ Exceptua-se	14,11416,83
 Exceptuam-se	4274,2696,3785,765
 Excepté	737,12556
 Excepções	15
-Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59,1266,312,29,7,1,3,17,15,64,24,13,40,370,9,33
+Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59,1266,312,29,7,1,3,17,15,64,24,13,40,370,9,33,496
 Excerpt of Dashboard	11912
 Excerpts	13149,17,366
 Excesiva	1701
@@ -535,13 +540,13 @@ Excess	11228,1825,742
 Excess Energy	11228
 Excess Energy Composition	11228
 Excess Reserves	12882
-Excessive	1867,2661,1005,655,1468,551,1304,1252,93,120,898,7,465,166
+Excessive	1867,2661,1005,655,1468,551,1304,1252,93,120,898,7,465,166,2053,109
 Excessive Processing of PD	11956
 Excessively	10856
 Excessively High Fuel Supply Cost	1828
 Excesso	11569
 Excetuam-se	11516
-Exchange	7,1236,395,176,124,1645,1313,351,429,193,563,1116,1894,1108,11,201,31,30,162,146,3,688,35,98,1,20,265,12,111,598,91,27,15,90,347,336
+Exchange	7,1236,395,176,124,1645,1313,351,429,193,563,1116,1894,1108,11,201,31,30,162,146,3,688,35,98,1,20,265,12,111,598,91,27,15,90,347,336,568
 Exchange Act	7198
 Exchange Act. The Company	7198
 Exchange Between Search Engines	13461
@@ -555,6 +560,7 @@ Exchange Control Advisors	4896
 Exchange Control Regulations	736,487,3601,4016
 Exchange Control Regulations and Compliance Trained Nedbank	11131
 Exchange Control Regulations. The Financial Surveillance	8840
+Exchange Department	14453
 Exchange ECPC Economic and Monetary Community of Central	10980
 Exchange Gateway	6019
 Exchange MINFIN Ministério	10765,10
@@ -576,7 +582,8 @@ Exchange of Company Information	12389
 Exchange of Information	12389
 Exchange of Information Among Public Sector Agencies	12389
 Exchanges	4602,1937,3031,585,406,268,551,180,1322,650
-Exchequer	7548
+Exchequer	7548,6998
+Exchequer Account	14546
 Exchequer Account Transactions	13420
 Exchequer Act	11230
 Exchequer Develop Kiswahili	7548
@@ -595,7 +602,7 @@ Exchequer PPRA KEBS	7548
 Exchequer State Department Civil	7548
 Exchequer Universities Research	7548
 Exchequer-funded	9209
-Excise	5655,2844,2498,527,861,115,553,571
+Excise	5655,2844,2498,527,861,115,553,571,909,141
 Excise Cap	6921
 Excise Division	11289,1764
 Excise Duty	6949
@@ -618,7 +625,7 @@ Excitement	13532
 Excluant	11944
 Exclude	1988
 Exclude Rural Communities and Young Women OWN	11677
-Excluded	418,522,303,1223,1380,723,6612,701,578,921
+Excluded	418,522,303,1223,1380,723,6612,701,578,921,1285
 Excluded Access Strand	418
 Excluded All PWD	12460
 Excluded Banked Informal	418
@@ -653,7 +660,8 @@ Exclui	795
 Excluir	10783
 Exclusif	4960,62,2035
 ExclusifDouble	4960,62
-Exclusion	1828,947,1078,578,2401,116,112,2177,1919,21,798,31,953
+Exclusion	1828,947,1078,578,2401,116,112,2177,1919,21,798,31,953,1528
+Exclusion Criteria Only Consulting Firms	14486
 Exclusion List	1988
 Exclusion List S	1988
 Exclusion List Service	6432
@@ -706,6 +714,7 @@ Foreign Exchange	4896,2564,338,3333
 Foreign Exchange Act	587,6353,820,5300
 Foreign Exchange Development	13122
 Foreign Exchange FX Any	12364
+Foreign Exchange Loss	14546
 Foreign Exchange Management	13122,352
 Foreign Exchange Monitoring and Orchestration Unified System	14124
 Foreign Exchange Organizations	14008
@@ -764,10 +773,12 @@ Health Information Exchange HIE	3400
 High Excess Energy Week	11228
 High Representative of His Excellency Mr. Paul	4103
 Host the Nation's Third Internet Exchange Point	3139
+Hub Services Internet Exchange	14468
 ICT Center of Excellence	13331
 ICTs. Exchange Rates	13479
 IDRC Centre of Excellence	326,1,1
 IEC Common Biometric Exchange Formats Framework	12360
+INFORMATION EXCHANGE	14434
 INTRODUCTORY REMARKS BY HIS EXCELLENCY MR	9761
 ISO Code and Exceptions	13298
 ITU Center of Excellence	10948
@@ -795,7 +806,7 @@ International Experience Exchange Programme	13998
 International Information Exchange Ethiopia	12500
 International Telecommunications Union IXP Internet Exchange	13346
 Internet Exchange	6238,6727
-Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304
+Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278,2203,195,441,1,358,18,304,402,130
 Internet Exchange Point Association of Lesotho	12743
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point KYC Know	13312,2
@@ -804,12 +815,12 @@ Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
 Internet Exchange Point of Lesotho	12709
 Internet Exchange Point of Nigeria	2754,4575,1298,3401
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109,1295,216,175,17,2,756,398,90
 Internet Exchange Q4	11857
 Internet Exchanges Points Accra-IX	10037
 Intersex and EXCO Executive Committee LGBTQIA	11986
 Inventions and Experimental Use Exception	12389
-Investment FX Foreign Exchange GDP Gross	10781,80,1566
+Investment FX Foreign Exchange GDP Gross	10781,80,1566,2055
 Ivoire Internet Exchange	6660
 JSON Data Exchange Format	11952
 Johannesburg Internet Exchange	578
@@ -840,8 +851,10 @@ LONG TERM Create the Regional Centre of Excellence	5677
 LUSAKA SECURITIES EXCHANGE SBICZMLX SBICZMLX MINISTRY	12364
 Lack of Exchangeability	13053
 Language Excellence	4126
+Late Exchequer Releases	14546
 Launching of Internet Exchange Point	12904
-Lesotho Internet Exchange Point	12709
+Learning and Cross-Sector Exchange AI	14565
+Lesotho Internet Exchange Point	12709,1759
 Lesotho Internet Exchange Point City	12743
 Levy Excise	5655
 Libyan National Data Exchange	7159
@@ -874,7 +887,7 @@ Madagascar Global Internet Exchange	7246
 Main Exchequer	13420
 Malawi Internet Exchange	12253,712
 Malawi Internet Exchange Point	12917
-Malawi Stock Exchange	13122
+Malawi Stock Exchange	13122,1552
 Maphungwane and Lavumisa. An Exchange	12962
 Matchmaker Exchange	10188
 Materials Excavator for Metal	12253
@@ -906,8 +919,10 @@ Mozambique Internet Exchange Point	8858
 Mozambique Stock Exchange	7381
 Mozambique. Exclusions and Boundaries Exclusions	3861
 Mshel Homes Hutu Exclusive N-Trillion Golf	2841
+Myanmar Internet Exchange Association	14468
 NA Exceptions	10908
 NAFEM Nigerian Autonomous Foreign Exchange Market	8590
+NATIONAL EXCHEQUER ACCOUNT REPORT	14546
 NATIONAL INTERGRATED INTERNET EXCHANGE INFRASTRUCTURE	11857
 Nairobi Securities Exchange	4978,2226,295,49,19,526,531
 Nairobi Securities Exchange-listed	4561
@@ -932,6 +947,7 @@ National Data Exchange Regulation Compliance	5665
 National Data Exchange Service Bus	540,11787
 National Emerging Technologies Centre of Excellence	1965
 National Emerging Technologies Centre of Excellence Role	12356
+National Exchequer Account. Emphasis of Matter	14546
 National Health Infonnation Exchange. Both the U.S	4301
 National Health Information Exchange	1009
 National Health Information Exchange Platform. Over	12004
@@ -941,6 +957,7 @@ National Payment Systems Centre of Excellence and Innovation	12390
 National Programme of Action. His Excellency the President	13673
 National Stock Exchange of India Limited Exchange	12576
 Natural Language Processing Centre of Excellence	4126
+Nautilus Mediterranean Exchange Point	14468
 Neither the Securities and Exchange Commission	7198
 Network Service Provider CoE Centre of Excellence	6946
 Nigeria Data Exchange Conference	11985
@@ -954,7 +971,7 @@ Nigerian Digital Exchange	8121,302
 Nigerian Exchange	7446,962,4871
 Nigerian Exchange Limited	6408
 Nigerian Exchange Limited The Domestic and Foreign	6408
-Nigerian Foreign Exchange Market	7416
+Nigerian Foreign Exchange Market	7416,7037,20,1
 Nigerian Securities and Exchange Commission	9285,469
 Nigerian Stock Exchange	10,11119
 Nigerian Stock Exchange Review of Rules	10
@@ -1010,6 +1027,8 @@ Provincial Excluding Harare and Bulawayo	736
 Public Service Excellence	12972
 Q2 EFY H1 Excise	5655
 Qhala Digital Economy County Centers of Excellence	6948
+REGIONAL LEADERSHIP Her Excellency the United	14566
+REGIONAL LEADERSHIP His Excellency the President	14566
 Real-time Data Exchange for Regulation	11222
 Recommendations Data Exchange Identification Create	12214
 Recommended Data Exchange Standards	12360
@@ -1042,7 +1061,7 @@ Research for Agricultural Excellence Indaba	1554
 Restore NCC’s Exclusive Telecom Powers Wale	7776
 Risks of Algorithmic Bias and Exclusive Digital	8747
 Rwanda Internet Exchange	7246
-Rwanda Internet Exchange Point	718
+Rwanda Internet Exchange Point	718,13710
 République Son Excellence Ismail Omar Guelleh	13918
 République du Burundi Son Excellence Evariste Ndayishimiye	13406
 SA-based Digital Exchange Port	7005
@@ -1058,8 +1077,10 @@ STANDARD FOR AUTOMATIC EXCHANGE OF FINANCIAL	11233
 STATEMENT BY HIS EXCELLENCY DR JULIUS	4114
 STEP Systematic Tracking of Exchanges	2889,715,9727
 Salaam Stock Exchange	6921,7255
+Scope Exclusion These Guidelines	14565
 Secretario de Estado de Seguridad Nacional Excelentísimo	1855
 Sectoral Exceptions	3861
+Secure Data Exchange Platform	14674
 Securities Exchange	2775
 Securities Exchange Act	7198,1741
 Securities Exchange Commission	12376
@@ -1094,12 +1115,13 @@ Son Excellence Félix Antoine Tshisekedi Tshilombo	6460,5549
 Son Excellence Félix Tshisekedi	2565
 Son Excellence Félix-Antoine TSHISEKEDI TSHILOMBO	2602
 Son Excellence Ismaïl Omar Guelleh	7149,6779,6
+Son Excellence Ismaïl Omar Guelleh. Bien	14696
 Son Excellence José Mpanda Kabangu	6460
 Son Excellence Judith Suminwa	2565
 Son Excellence Kamel Abdel Hadi Al-Wazir	4402
 Son Excellence Kassim Majaliwa Majali- Dans	13405
 Son Excellence M. Ismail Omar Guelleh	13928
-Son Excellence M. Ismaïl Omar Guelleh	13919
+Son Excellence M. Ismaïl Omar Guelleh	13919,777
 Son Excellence Madame Jessica Davis Ba	10925
 Son Excellence Madame Mariam HAMADOU Ali	3267
 Son Excellence Madame la Première Ministre	4893
@@ -1122,7 +1144,7 @@ Son Excellence Monsieur Romuald WADAGNI	9502
 Son Excellence Monsieur le Ministre	7470,2803
 Son Excellence Monsieur le Ministre des Finances	7470
 Son Excellence Monsieur le Premier Ministre	3396
-Son Excellence Monsieur le Président	2695,2079,8671
+Son Excellence Monsieur le Président	2695,2079,8671,1005,167
 Son Excellence Monsieur le Président du Conseil	8755
 Son Excellence Paul BIYA	2695
 Son Excellence Pr Faustin Archange TOUADERA	1748
@@ -1179,6 +1201,7 @@ Swaziland. The Internet Exchange Point	12904
 System Name Exchange	736
 Systematic Tracking and Exchange	1264
 Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135,453,108,380,1426
+TRADE AND EXCHANGE DEPARTMENT E-mail	14473
 Talent Cultivation and Research Excellence	4528
 Tanzania Internet Exchange	6022
 Tanzania Mercantile Exchange	5883,6231

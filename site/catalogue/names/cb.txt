@@ -67,6 +67,7 @@ CBDC Central Bank Digital Currency	8590
 CBDC Channels Branch ATM	12000
 CBDC Instruments POS Card Emoney Debit	12490
 CBDC Project	12343
+CBDC Tracker	14547
 CBDC-compatible	11130
 CBDC-related	6672
 CBDC. Card Payment	7221
@@ -162,8 +163,11 @@ CBINet	13312,2
 CBIT Senegal	3430
 CBIT-Sénégal	3431,4209
 CBInsights	11884,1
+CBK Agency Agreement	14546
 CBK Central Bank of Kenya CBT Cash-based	11994
 CBK Central Bank of Kenya PIN Personal	12297
+CBK Receipts	14546
+CBK and KenTrade	14546
 CBKNNANX	12252
 CBL AI	7691
 CBL Apologizes After Record	6357
@@ -189,6 +193,7 @@ CBL Senior Technical Advisor	9943
 CBL and LRA	11710
 CBL and NIR	3239
 CBL's	3518
+CBL's Credit Reference Bureau	14647
 CBL-CRA	1868
 CBL-owned	11710
 CBLELSMX	12252
@@ -197,6 +202,7 @@ CBM Condition-Based Maintenance CC Clean Cooking	12399
 CBM Implementation Action Plan	13051
 CBM Working Group	13051
 CBMBA	11134
+CBMPs	14434
 CBN ATM	12038
 CBN Act	11861,132
 CBN Bullion	10
@@ -216,6 +222,7 @@ CBN Fintech Report References	4848
 CBN Fintech Round-	4848
 CBN Fintech Roundtable	4848
 CBN Fintech Roundtable. Together	4848
+CBN Foreign Exchange Manual	14453,20,1
 CBN Governor	2841
 CBN Governor Mr Olayemi Cardoso	7928
 CBN Governor Olayemi Cardoso	2397,1335
@@ -281,6 +288,8 @@ CBRE EXCELLERATE KENYA LIMITED Data Controller	7167
 CBRSI	10821
 CBS Manager Corporate Marketing Molemo Pefole	6402
 CBS PRINCIPAL SECRETARY	12165
+CBS PRINCIPAL SECRETARY Copy	14501
+CBS Principal Secretary State Department for Environment	14471
 CBS Principal Secretary State Department for ICT	6432
 CBS Recent Economic Developments and Outlook	11136
 CBS Safaricom PLC CEO	3898
@@ -344,6 +353,7 @@ Ethics Approach The CBE	11134
 EthioPay CBP	11620
 Evaluation. CBN Bullion	10
 Excellence and Innovation Fintech Development Finance CBE	12390
+Exemples de CBDC	14547
 Expo CBL Governor Issa	4630
 Ezulwini CBE Complex	7802,3329
 FSPs and CBDC Solution	11130
@@ -425,9 +435,11 @@ Programming Interface CBL Central Bank of Lesotho	12663
 Proposal for Cooperative Banking Framework CBE	11134
 Pursue CBE Financial Inclusion	11131
 Pvt Ltd Stand Land Chegutu CBD	4896
+REGULATION NO. CBL	14647
 RYEH CBO	8209
 Rate CBPR Cross-Border Privacy Rules CCPA	1243
-Regulation No. CBL	14206
+Regulation No. CBL	14206,441
+Regulations No. CBL	14647
 Report About CBE Performance Highlights Governor	11131
 Report CBE Abridged Financial Statements Abbreviations	11131
 Republic of Liberia Abbreviations CBL Central Bank	1777

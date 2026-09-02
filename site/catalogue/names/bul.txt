@@ -21,6 +21,7 @@ BULLET	7785,366,716
 BULLETIN OFFICIEL	308,427
 BULLETIN OFFICIEL N	308
 BULLETIN OFFICIEL Nº	735
+Bench Bulletin	14410,39
 Berne Union Bulletin	11310
 Bosnia and Herzegovina Bulgaria	10764
 Bruketa& Google Bulgari S.p.A Guadaltel BuzzBrothers	8530
@@ -92,7 +93,7 @@ Bull World Health Organ	766,5,10009,101
 Bull&author	1219
 Bull&title	1219,42
 Bulldozers Water	12253
-Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32
+Bulletin	17,291,261,166,263,865,562,351,585,535,780,2979,77,872,287,1874,10,101,288,474,306,1349,32,1212,125,4
 Bulletin Board	13461,1
 Bulletin N	10979
 Bulletin Officiel	2425,1384,87,6108
@@ -178,6 +179,7 @@ Quarterly Statistical Bulletin	2776
 Quarterly Statistics Bulletin	13069
 REPUBLIC OF BULGARIA	13996
 References Bulawayo24	12501
+Replying Affidavit of Haretha M. Bulle	14460
 Research Bulletin	11131
 Research QoS Monitoring Statistical Bulletins	9109
 Review and Approve Bulk Electricity Tariffs	12320

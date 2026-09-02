@@ -22,6 +22,7 @@ Carlos Vila Nova	2315,129,604,482,1181,36,810,15,246,1,199,154,2364
 Carlos Vila Nova. Publique-se	8536
 Cell and Village. Trained Cell Executive Secretaries	12413
 Chadibe Village	12625
+Christina Villella	14434
 Commissioner for Refugees VSLA Village Savings and Loan	10841
 Connecting Villages Initiative	6770
 Connects Three Botswana Villages	9912
@@ -104,8 +105,9 @@ Section Villageoise	10876
 Section Villageoise de Gestion Foncière TDR Termes	10876
 Sections Villageoises	10876
 Silikin Village	3888,2128
-Smart Village	12435
-Smart Villages	566
+Smart Village	12435,2125
+Smart Village TIC	14573
+Smart Villages	566,13994,13
 Smart Villages and Education for Rural Transformation	14267
 Special Handicrafts Villages	10980
 Speech STATEMENT FOR H.E. Moses Vilakati	11283
@@ -136,7 +138,8 @@ Viljanen	11156
 Viljoen	9969
 Villa	737,8663
 Villa Elizabetha	12454
-Village	2760,1370,6699,456,431,501,133,59,489,409,307
+Villa La Piscine	14450
+Village	2760,1370,6699,456,431,501,133,59,489,409,307,950
 Village Assessment Survey County Profiles	1867
 Village Bank and Savings and Credit Co-operatives	12409
 Village Business Units	13673,12
@@ -163,7 +166,7 @@ Village Manufacturing Value Added AfCFTA African	10980
 Village Market Afya House	4154
 Village Market PO Box	4153
 Village Reach	12240
-Village Savings and Loan Associations	10299,542
+Village Savings and Loan Associations	10299,542,3712
 Village Savings and Loans	12964
 Village Savings and Loans Association	13390
 Village Savings and Loans Associations	11900
@@ -194,6 +197,7 @@ Ville de Ouagadougou	10875
 Ville de Ouagadougou Ville de Bobo-Dioulasso	10875
 Ville de Tahoua	7374,2193
 Villegas-Ch	9128
+Villella	14434
 Villes	3157,5734,2124,2613
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
 Villgro Africa	12376

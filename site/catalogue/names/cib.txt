@@ -1,3 +1,5 @@
+ACTIVITES INDICATEURS CIBLES CALENDRIER RESPONSABLES	14489
+AES OBJECTIFS ACTIVITES INDICATEURS CIBLES CALENDRIER	14490
 Administração Pública. A Cibercidadãos	14261
 Advisory Board de CIBEROBS	8678
 Agencia Nacional de Ciberseguridad	6992
@@ -16,6 +18,7 @@ Autoridade Nacional de Segurança Cibernética. SUBSECÇÃO VII	6970
 Autoridade de Segurança Cibernética	6970
 Avaliação Nacional de Risco Cibernético	2784
 Avaliação Nacional de Riscos de Segurança Cibernética	2784
+Axe Stratégique Indicateurs de Performance Cible	14622
 Base de Cible	11944
 Boas Práticas de Segurança Cibernética	9226
 Bubanza Bujumbura Rural Bururi Cankuzo Cibitoke	13390
@@ -73,10 +76,10 @@ Cibitoke	2625,10675,74,16,37,15,193
 Cibitoke Gitega	13300
 Cibitoke Gitega Karuzi Kayanza Kirundo Makamba	13442
 Ciblage	9824
-Cible	643,629,9436,1236,1362,127
+Cible	643,629,9436,1236,1362,127,1189
 Cible Réalisation	3396
 Cibler	13390
-Cibles	10712,164,89,2468
+Cibles	10712,164,89,2468,1189
 Comité Técnico de Cibersegurança	4147
 Conselho Nacional de Cibersegurança	4146,1,71,4662,919,1273,343
 Conselho Nacional de Segurança Cibernética	6970,5853
@@ -133,6 +136,7 @@ Lei de Segurança Cibernética	2816,4920
 Lei de Segurança Cibernética. Lei	6970
 Leis da Segurança Cibernética	7047
 MSPLS Cible	13306
+MTN Indicateurs Cibles	14622
 Matriz de Avaliação de Riscos Cibernéticos	2784
 Medidas de Cibersegurança	11374
 NACIONAL CIBERNÉTICOS Y DE SEGURIDAD LUCHA	4209

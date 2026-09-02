@@ -11,6 +11,7 @@ CBE CFT CMA DLT EBA ECH	11130
 CCBG CFT CMA COE CPI CPS	11134
 CDD Customer Due Diligence CFT Combating	12663
 CEC CEC CFL CNEPT DME DNASE	10766
+CF Centre	14437
 CF Mounana	10036
 CF Parcelle	13375
 CF T CCI	12701
@@ -183,6 +184,7 @@ CFPNBUH	6954
 CFPRNB	6954
 CFR Certificat Foncier	10876
 CFR InfoGuide	12227
+CFRA Commission	14437
 CFRSP	11599
 CFT AML	11861
 CFT ARCT ATS BIS	13468
@@ -216,6 +218,7 @@ Central African CFA	12870
 Central African and West African CFA	8265
 Cf Ghana	789
 Cf Rapport SEF	2342
+Cf Tableau	14425
 Cf la SOUS-	10975
 Cf la SOUS- RAS	10975
 Cf. Afritech	10966
@@ -279,6 +282,8 @@ FSRA and CFI	11131
 FSRA and CFI Harmonisation	11131
 Finance CFI Computer Incident Response Team	12444
 Franc CFA	2342,2344
+Franc CFA XOF	14683
+Franc CFA ZAR	14683
 Francos CFA	4209,7311,3
 Francos CFA. Artículo	4209
 Francos CFA. Dos. Este	4209

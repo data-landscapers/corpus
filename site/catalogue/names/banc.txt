@@ -1,6 +1,7 @@
 ABSA BANCASSURANCE INTERMEDIARY LIMITED Data Controller	7167
 AFRICAN CENTURY BANK CHANNELS BANC ABC	11002
 AGT Mobile Banco	10762
+AUTRES PRESTATAIRES DE SERVICES BANCAIRES Section	14429
 Abertura de Conta Bancária	11383
 Activités Bancaires	11944
 Agentes Bancários	11438
@@ -8,6 +9,7 @@ Angola Banco BCS and Mastercard	13275
 Ao Banco Nacional de Angola	11368
 Associação Moçambicana de Bancos	12808,6
 Autoridade Reguladora de Energia Atómica BM Banco	11376
+BANCAIRES CHAPITRE	14429
 BANCE C EPICENTRE NIGER ARCEP	998
 BANCO COMERCIAL PORTUGUES S.A	1829
 BANCO DA AFRICA OCIDENTAL BDU CORIS	11588
@@ -134,16 +136,19 @@ COBAC Commission Bancaire	10965,979
 CONNAISSANCE ET ACCESSIBILITÉ DES SERVICES BANCAIRES	13390
 CONSO BANCASSURANCE INTEMEDIARY LIMITED Data Controller	7167
 CREDISUL Banco de Credito	12252
+CSBF. TITRE II. SERVICES BANCAIRES CHAPITRE	14429
 Centrale Récapitulative des Risques Bancaires	11944
 Cognisance des Banques BANCOBU BCB IBB ECOBANK	13390
 Commission Bancaire	4459,6377,52,77,557,45,377,121,2138
 Commission Bancaire Sont	10836
 Commission Bancaire. TITRE IV	10836
+Commission de Supervision Bancaire	14416,1,12
 Confiabilidade da Infraestrutura Banco	11898
 Contas Bancárias	10777
 Contas Bancárias Limites	11403
 D.G. DE BANCAS	4209
 DAB Guichet Automatique Bancaire	11944
+DE LA COMMISSION DE SUPERVISION BANCAIRE	14417
 DE SERVICE DES INSTITUTIONS BANCAIRES	13390
 DEL. ENTIDADES CONTROL BANCA	4209
 DIAMOND TRUST BANCASSURANCE INTERMEDIARY LIMITED Data	7167
@@ -182,7 +187,9 @@ Instituição Financeira Não Bancária	11386
 Instituições Financeiras Bancárias	7340,4046,52
 Instituições Financeiras Não Bancárias	11386
 Italian Bancomat	9832
+LA COMMISSION DE SUPERVISION BANCAIRE ET	14417
 La Commission Bancaire	10836,1108
+La Commission de Supervision Bancaire	14417
 Lorsque la Commission Bancaire	10836
 MFI da Garantia Bancária de Execução	11372
 MODELE DE GARANTIE BANCAIRE DE BONNE	13524
@@ -198,6 +205,7 @@ O Banco Mundial	8701,857,1,1552,279,33
 O Banco Nacional de Angola	7115,225,3415,631,18
 O Banco de Desenvolvimento	8003
 O Banco de Moçambique	5169,1293,6308,44,39
+OPERATIONS BANCAIRES Section	14429
 Operações Bancárias	11383
 Ownership Structure Banco de Cabo Verde	11955
 PARTICIPANTES E BANCO NACIONAL DE ANGOLA	10755
@@ -214,7 +222,7 @@ SOCIAIS DO BANCO MUNDIAL Norma Ambiental	11542
 SUMÁRIO Banco de Moçambique	5169
 Salimata BANCE	5751
 Salimata Bance. Publié	6159
-Secteur Bancaire	3715,627,9373,56,25
+Secteur Bancaire	3715,627,9373,56,25,753
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
 Secteur Bancaire Place	3715
 Secteur Bancaire URL	13771
@@ -222,6 +230,7 @@ Secteur Bancaire-Moroni Cabinet	4342,9429
 Sector Bancário	2816
 Sistema Bancarização	11898
 Só Depois Avançar O Banco Mundial	9558
+TITRE III. PRESTATAIRES DE SERVICES BANCAIRES	14429
 Uma Instituição Financeira Bancária	11438
 Y BANCO DE SANGRE	4209
 Y BANCO DE SANGRE.- Concepto.-66111	4209

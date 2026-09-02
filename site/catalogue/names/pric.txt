@@ -26,7 +26,7 @@ Average1 Retail Prices of Selected Petroleum Fuels	2775
 B. Fuel Prices	1828
 Base Price Code	13385
 Basic Prices Prices Adjusted	2775
-Best Price Offer	7368
+Best Price Offer	7368,7331
 Best Price Offers	7368
 Bid Price	13185
 Bid Price Name of Bidder	13185
@@ -212,7 +212,7 @@ Personal Interviewing CPI Consumer Price Index	13359
 Post- Prices	11563
 Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19,298,75,210,207,36,93,17,54,576,432,281
 Price Adjustment Formula	13185
 Price Changes	2775
 Price Code	13385
@@ -267,7 +267,7 @@ Priced	6690
 Priced Code	13385
 Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3,133,426,223,127,2,554,117,609,80
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 Prices and Other Charges	12629
@@ -367,3 +367,4 @@ Wh. Prices	10995
 Wholesale Prices1 of Petroleum Fuels	2775
 World Bank Remittance Prices	6397
 Worldwide Mobile Data Pricing	12336
+York Algorithmic Pricing Disclosure Law	14601

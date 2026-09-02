@@ -44,12 +44,13 @@ AfCFTA Council of Ministers Responsible for Trade	7039
 AfCFTA Digital Trade Corridor	14311,58
 AfCFTA Digital Trade Forum	7039,25,78,1893,1520
 AfCFTA Digital Trade Forum's Eight Calls	7142
-AfCFTA Digital Trade Protocol	1006,3438,16,130,640,210,23,673,114,160,2136,489,3087
+AfCFTA Digital Trade Protocol	1006,3438,16,130,640,210,23,673,114,160,2136,489,3087,2542,10
 AfCFTA Digital Trade Protocol. Ethiopia	4766
 AfCFTA Digital Trade Protocol’s Cross-Border Data	4583
 AfCFTA Digital Trade and Services Forum	5247
 AfCFTA Senior Digital Trade Expert	2783
 AfCFTA The African Continental Free Trade	6250
+AfCFTA's Digital Trade	14674
 AfCFTA. The African Trade Policy Centre	10819
 AfCFTA. Trade	10555
 AfDB Trade Finance Middle and Back Office	10718
@@ -79,10 +80,11 @@ Africa-China Trade China-Africa	5863
 Africa. Healthcare Innovation Reverse Trade Mission	12937
 Africa. Trade	10718
 Africa. Trade Finance Supply	10718
+Africa. Trade and UNCTAD	14674
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624,1254,417,542
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115,298,29,219,29,172,234,83,88,123,80,205,49,153,1,50,8,33,43,38,58,9,96,71,129
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area AIP	13080
 African Continental Free Trade Area Agreement	5247
@@ -91,6 +93,7 @@ African Continental Free Trade Area Protocol	7596,1826,2405
 African Continental Free Trade Area Secretariat	10819
 African Continental Free Trade Area. AfCFTA	10075
 African Continental Free Trade Area. Again	10819
+African Continental Free Trade Area. Building	14628
 African Continental Free Trade Area. Chapo	5114
 African Continental Free Trade Area. Describing	8015
 African Continental Free Trade Area. Recent	4555
@@ -170,7 +173,9 @@ CANARY ISLANDS TRADERS LIMITED Data Processor	7167
 CBN's Trade and Exchange Department	7416
 CEFACT United Nations Centre for Trade Facilitation	13042
 CHALLENGE Traditional	11006
+CHAPTER ELEVEN CO-OPERATION IN TRADE LIBERALISATION	14409
 CLOUD POLICY Technology Export and Digital Trade	10157
+CO-OPERATION IN TRADE LIBERALIZATION AND DEVELOPMENT	14409
 COMESA FREE TRADE AREA	13440
 COMESA Simplified Trade Regime	13053
 COMESA Trade Information Portal	13563
@@ -201,6 +206,7 @@ CoG Trade and Cooperatives Committee	9852
 Commerce Department’s International Trade Administration	7209
 Commerce Policies for Cross-Border Trade	603
 Commerce Policies for Cross-border Trade	603
+Commissioner for Trade and Economic Security	14630
 Commodity Futures Trading Commission	2826,10056
 Commodity Prices and Trade	6938
 Commune... Chinese-Rwandan Traditional Medicine Centre Opens	4942,664,283,454,183
@@ -232,6 +238,7 @@ Cross-Border Traders Association	13403
 Culture and Tradition	12975
 Customary Land Committees and Traditional Authorities	13060
 Customs Network for Transit Trade	13042
+Customs and Trade Facilitation The Customs and Trade	14628
 Customs. Traders	12539
 D TRADITIONNELLE	13300
 D.G DE BELLEZA Y TRADICION NACIONAL.-	4209
@@ -282,6 +289,7 @@ Digital Trade	1031,212,3340,7,1144,144,593,168,400,25,78,368,12,1,496,279,300,43
 Digital Trade Agenda and Africa	226
 Digital Trade Agreement	7685,3469
 Digital Trade Agreements	11154
+Digital Trade Annexes	14674
 Digital Trade Corridor	7039,103,7169
 Digital Trade Corridor. Verbatim	7039
 Digital Trade Facilitation	3861
@@ -290,7 +298,7 @@ Digital Trade Forum. Il	9515
 Digital Trade Imbalance and Its Implications	1243
 Digital Trade Integration	7523
 Digital Trade Organizer Technology	12055
-Digital Trade Protocol	4460,1274,124,392,892,406,4446,2236
+Digital Trade Protocol	4460,1274,124,392,892,406,4446,2236,444
 Digital Trade Protocol. Both the Council Meeting	7142
 Digital Trade Protocol. Digital	7142
 Digital Trade Protocols	6250
@@ -354,6 +362,8 @@ EU-US Trade and Technology Council	11154
 EUCL International Trade	718
 EXEMPTIONS Trade	3714
 Ease of Trade	5247
+East African Trade Regime	14409
+East African Trade Regime ARTICLE	14409
 Ecobank Trade Expo	3779
 Econet Shares Trade Ex Dividend	4896
 Economic Cooperation and Trade	13042
@@ -405,11 +415,12 @@ Fair Trade and Competition Act	12941
 Fair Trading Commission	7760
 Farming and Trading Primary Healthcare	11857
 Feature Traditional System	12211
-Federal Trade Commission	8533,1555,2122
+Federal Trade Commission	8533,1555,2122,2391
 Federation of Somali Employers and Trade Unions	5172
 Federation of Somali Trade Unions	10476
 Figures O.1 Trade-Growth Line and Composition of Exports	11149
 Finalise the Electricity Trading Rules	11236
+Finance and Insurance.9. International Trade	14410
 Finance and Trade	2604
 Finance and Trade Project	14218
 Firms Identifying Customs and Trade Regulations	12389
@@ -518,7 +529,7 @@ International Eswatini Trade Fair	11667
 International Eswatini Trade Fair. Khumalo	11667
 International Merchandise Trade Statistics	13479
 International Relations and Trade	13685
-International Trade	1988,787,2460,5483,258,898,7,465,43,56,597,520
+International Trade	1988,787,2460,5483,258,898,7,465,43,56,597,520,1069
 International Trade Administration	5773,4754,1853
 International Trade Administration Commission	1009
 International Trade Administration. Accessed	12376
@@ -556,6 +567,7 @@ Interprete Traductor Embajada A1	4209
 Interprete Traductor Embajada A1 Jefe Económico	4209
 Interprete Traductor Embajada A2	4209
 Interprete Traductor Embajada A3	4209
+Interviews for Trade and Industry	14674
 Intra-Africa Digital Trade	961
 Intra-Africa Trade	11221
 Intra-Africa Trade and Sustainable Development	13899
@@ -577,6 +589,7 @@ Joint Trade Committee	13562
 Journal of International Trade and Economic Development	11487
 Juabeng Traditional Area	2824
 Kenya National Trading Corporation	10313
+Kenya Trade Network Agency	14546
 Kenya US Trade and Development Agency	1171
 Kenya’s Trade Minister Lee Kinyanjui	3737
 KfW. Traditionally	12182
@@ -606,10 +619,12 @@ MICDE Trade and Customs	7548
 MINISTRY OF TRADE AND INDUSTRY PREMISES	12660
 MP Minister of Trade	11198,52
 MULTILATERAL AND REGIONAL TRADE AGREEMENTS	1243
+MUSA NAKORJI DIRECTOR TRADE	14473
 Making African Trade Work Like Mobile	7523
 Malawi Congress of Trade Unions	13157
 Malawi International Trade Fair	13053
 Malawi Investment and Trade Centre	12212,694,216
+Malawi Ministry of Trade and Industry National Single	14674
 Malawi Revenue Authority and Ministry of Trade	4609
 Malawi US Trade and Development Agency	956
 Manzini Trade Hub	12922
@@ -665,11 +680,12 @@ Ministry of International Relations and Trade	8006,4976,126,1199
 Ministry of Investment and Foreign Trade	8770,529
 Ministry of Local Government and Traditional Affairs	12567,26,13
 Ministry of Revenues POA Ministry of Trade and Regional	12500
-Ministry of Trade	1243,3116,421,3581,1,97,1472,532,168,1086,957,29,339
+Ministry of Trade	1243,3116,421,3581,1,97,1472,532,168,1086,957,29,339,1632
 Ministry of Trade MICSTI Institutions	12674
 Ministry of Trade and Entrepreneurship	1665,977,2996
 Ministry of Trade and Industries	10599
 Ministry of Trade and Industry	3583,4688,525,2236,790,503,335,323,70,901,54,117
+Ministry of Trade and Industry's Malawi National Single	14674
 Ministry of Trade and Industry. Private	5014
 Ministry of Trade and Regional Integration	10709,1550,241,1556
 Ministry of Trade and The OPEC Fund for International	12358
@@ -708,6 +724,7 @@ OECD Digital Services Trade Restrictiveness Index	1031
 OECD Trade Policy Paper	11154
 OECD’s Trade Facilitation Indicators	1828
 OESA Trading DMCC	3583
+ONLY' Trade Backed and Inwards Transactions	14453
 Ongwediva Annual Trade Fair	11771
 Ongwediva Trade Centre	14347
 Opposition Mechanisms for Patents and Trademarks	12389
@@ -747,6 +764,7 @@ Power Trade	12233,166
 Preferential Trade Agreements. Retrieved	1243
 Preferential Trade Area	13563
 Press Release AfCFTA DIGITAL TRADE FORUM	7039
+Prevention of Illegal Trade	14409
 Principal Secretary for Trade and Industry Ms Christina	13029
 Production and Trade	1988
 Prohibited Trading Practices PART	3714
@@ -860,6 +878,7 @@ Standard Bank's Trade Barometer	3056,985,12
 Startup Pact and Trade Desk	2871
 State Border Management and Trade Facilitation Single	13403
 State Council of Traditional Rulers	11129
+State Department for Trade	14546
 State Minister of Trade and Regional Integration	12259
 Step-by-Step Guide for Trading	11736
 Strengthen Ghana's Digital Governance and Global Trade	9422
@@ -874,8 +893,9 @@ Support Trade Fairs Accelerator	12376
 Sustainable Trade Development	13042
 TFA Trade Facilitation Agreement TIR-EPD International	13042
 TRAD. SANITARIO	4209
-TRADE	1243,8242,3989
+TRADE	1243,8242,3989,979
 TRADE AGREEMENTS	13403
+TRADE AND EXCHANGE DEPARTMENT E-mail	14473
 TRADE AND INDUSTRY HONOURABLE DR. THABISO	12660
 TRADE AND INVESTMENT REGIMES	11524
 TRADE AND LABOUR MATTERS	13387
@@ -910,7 +930,7 @@ Topics U.S. Trade and Development Agency	10351
 Tourism and Trade	9781
 Trada-Digilink	8029
 Tradability Index	5247
-Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126,75,26,22,3,12,113,7,154,19,5,76,28,38,60,168,57,104,172,24,1,2,1,10,30,30,1,4,66,133,1,45,28,93,20,5,4,1,20,13,56,42,52,35,23,104,23,171,27,34,16,62,8,10,1,19,51,33,14,150,37,25,3,18,160,142,39,124,31,226,31,69,86
+Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126,75,26,22,3,12,113,7,154,19,5,76,28,38,60,168,57,104,172,24,1,2,1,10,30,30,1,4,66,133,1,45,28,93,20,5,4,1,20,13,56,42,52,35,23,104,23,171,27,34,16,62,8,10,1,19,51,33,14,150,37,25,3,18,160,142,39,124,31,226,31,69,86,142,175,46
 Trade Act	12629
 Trade Agreement	13042
 Trade Agreement AI Artificial Intelligence APEC	1243
@@ -945,6 +965,7 @@ Trade Days	11874
 Trade Desk	13461
 Trade Development	10823,2651
 Trade Development Bank	3737
+Trade Different	14628
 Trade Digital	961
 Trade Economic	5245
 Trade Economic Improves	10856
@@ -1027,6 +1048,7 @@ Trade Ministry	11032
 Trade Mission	12937
 Trade Name	13967
 Trade Net	9213
+Trade Net. Il	14458
 Trade Notes Trusted	3429
 Trade Notification Authority	13320
 Trade Nuance Having	5863
@@ -1123,6 +1145,7 @@ Trade and Market Integration	1264
 Trade and Marketing	12194,450
 Trade and Monetary Affairs	7815,152,5684
 Trade and Monetary Affairs Annette Ssemuwemba	6096,746
+Trade and Payment Services Ref. TED	14453
 Trade and Personal Property Credit Register	6473,4389
 Trade and Regional Integration	11815
 Trade and SME Development M	12923
@@ -1130,7 +1153,7 @@ Trade and Security Cluster NGO National Immigration	11986
 Trade and Services	10841
 Trade and Services Chad	10841
 Trade and Services Statistics Team Leader Email	12445
-Trade and Sustainable Development	1243
+Trade and Sustainable Development	1243,13385,2
 Trade and Technology	10444
 Trade and Technology Council	11155
 Trade and Tourism	8399,754,3930
@@ -1208,7 +1231,7 @@ TradingTips	12867
 Tradipraticie	737
 Tradition	4636
 Tradition Shapes Nigeria's Digital Divide	9879
-Traditional	571,390,817,1180,48,645,791,141,93,161,304,237,222,100,611,358,39,548,436,39,109,58,54,178,153,132,726,81,313,87,31,24,10,31,185,557,319,228,25,183,47,15,4,4,296,85,288,40,217,22,65,85,74,72,814,15,250,95,235,339,104
+Traditional	571,390,817,1180,48,645,791,141,93,161,304,237,222,100,611,358,39,548,436,39,109,58,54,178,153,132,726,81,313,87,31,24,10,31,185,557,319,228,25,183,47,15,4,4,296,85,288,40,217,22,65,85,74,72,814,15,250,95,235,339,104,327
 Traditional Administration	11927
 Traditional Affairs	11188
 Traditional Authorities	12241,705,59,19,71,27
@@ -1242,7 +1265,7 @@ Traditionally	2913,1763,448,226,1047,881,473,1418,53,244,581,728,44,62,79,256,83
 Traditionnelle	13300
 Traditionnellement	13290
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
-Traduction	10874,919
+Traduction	10874,919,2736
 Traduction SDCRP	10975
 Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209
@@ -1314,7 +1337,7 @@ WTO World Trade Organization XML Extensible	13042
 WTO World Trade Organization ZOPA Zone	1243
 Wenchi Traditional Council	10135
 West Africa. On Regional Trade	7452
-Wholesale and Retail Trade	1940,835,9730,1143
+Wholesale and Retail Trade	1940,835,9730,1143,937
 Window for Trade	13042
 Women Cross-Border Traders Association	12092
 Word Trade Organization	11154
@@ -1325,13 +1348,14 @@ World Trade Organisation	961,282,4898,1101,1423,2053,138,180,147,27,816,1294
 World Trade Organisation Agreement	12895
 World Trade Organisation Southern African Development	12454
 World Trade Organisation.1.1.3. A National Dialogue	2626
-World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259
+World Trade Organization	2117,2927,322,205,12,1420,2340,79,509,787,126,125,180,5,370,26,655,767,70,11,304,28,600,23,259,361
 World Trade Organization Agreement	11550
 World Trade Organization Global Services Trade	11884,275,328
 World Trade Organization Infor	11550
 World Trade Organization Technical Barriers	1988
 World Trade Organization ZRA	13053
 World Trade Organization and United	10969
+World Trade Organization's Trade Facilitation Agreement	14628
 World Trade Organization. Participants	9538
 World Trade Organization. WWF	10718
 World Trade Organization’s Trade Facilitation Agreement	12951

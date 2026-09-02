@@ -1,5 +1,7 @@
 A. RESULTS FRAMEWORK PDO Indicators	11924
 A4 Indicativos	11569
+ACTIVITES INDICATEURS CIBLES CALENDRIER RESPONSABLES	14489
+AES OBJECTIFS ACTIVITES INDICATEURS CIBLES CALENDRIER	14490
 AI Ecosystem Outcome Indicators	12356
 AI Impact Summit India	12830
 AI Indicator	1204
@@ -33,9 +35,10 @@ Africa SPI Statistical Performance Indicators TSP	13359
 Africa Scholarship Scheme and India-Africa Forum Summit	12979
 Africa and India	4896,6287
 Africa and Indian Ocean Islands	8374
+Africa and Indian Ocean Mauritius	14566
 Africa and Indigenous	8327
 Africa. India	2787,2515
-African and Indian Ocean	4056
+African and Indian Ocean	4056,10510
 Aggregation Indicator	10764
 Aggregation of Individual Accounts	11233
 Agmet Indicator Tool	13094
@@ -64,6 +67,7 @@ Application Processing Indicator	11986
 Approved Individuals and Designated Individuals	13559
 Arab States Asia-Pacific Indonesia India International	11563
 Area Details Indices Targets	11857
+Assessment Schedule Workload Staffing Indicator Needs	14622
 Assessment of Indicators Using Health Facility Data	10881
 Atlantic and Indian	9768
 Atribuição de Licenças Individuais	11520
@@ -71,6 +75,7 @@ Australia Bangladesh India Indonesia Japan Malaysia	10764
 Automated Clearing House Related Indicator	7221
 Automated Indicator Reporting	4153
 Automated Individual Decision Making	12185
+Axe Stratégique Indicateurs de Performance Cible	14622
 B. Theory of Change and PDO Indicators C	13856
 BAD. Indice	8891
 BANK OF INDIA Data Controller INST-2062751BC30	7167
@@ -157,6 +162,7 @@ China and India. Whereas	11218
 China. Social Indicators Research	7886
 Chinese and Indian	6867,1
 Ciclo Individual	10783
+Cimopolée In the Indian Ocean	14506
 Citizen Engagement Indicator	11855
 Citizen Engagement Indicator MIS	11855
 Civic Services Support Indicator	11986
@@ -191,7 +197,7 @@ Contribution of Indirect Taxes	5655
 Core Household Indicators	13312,2
 Core and Non-Core Indices	2775
 Corporate Results Indicator	13111
-Corporate Results Indicators	11417
+Corporate Results Indicators	11417,3136
 Corporate Scorecard Indicators	3604,2935
 Counterbalancing Economic Individualism	5700
 Country Indicators	11762,1988
@@ -274,6 +280,7 @@ ECONOMIC INDICATORS ANNUAL INFORMATION AND COMMUNICATION	12395
 EMPLOYMENT IN PUBLIC ADMINISTRATION Individual	11182
 ENEO Indicateurs	10975
 ESDP V Indicator	13991
+EU Geographical Indications	14630
 EU Multi-Annual Indicative Programme	644
 EU Multiannual Indicative Programme	970
 EU Sub-Saharan Africa Regional Multi-Annual Indicative	1528
@@ -310,6 +317,7 @@ Entity Success Indicator	12512
 Entity Success Indicator Establish National	12512
 Environmental Sustainability Indicators	12389
 Enza Capital. Individual	713
+Equipements de Protection Individuelle HS	14488,1,1
 Eritrea Economic and Social Sector Performance Indicators	13953
 Establish Robust Governance Framework Outcome Indicators	12356
 Establishing Key Performance Indicators	4528,7984
@@ -420,6 +428,7 @@ Hungary Iceland India Indonesia Iran Iraq	11470
 I. DEFINITION DES CONCEPTS ET INDICATEURS	13890
 I. Indian Community	12979
 I. Indicateurs	5928
+I.2- EVOLUTION DES INDICATEURS AU PREMIER	14548,71
 IBU Identifiant Bancaire Unique IDH Indicateur	11944
 ICH Indice du Capital Humain ICS International	13341
 ICT Household Indicators	3641,7783
@@ -458,6 +467,8 @@ INDICATEURS DE PERFORMANCE SOURCES DE HYPOTHÈSES	10712
 INDICATEURS DE RÉSULTAT	10712
 INDICATEURS DE RÉSULTAT Tous	10712
 INDICATEURS DU POUVOIR D’ACTION DES FEMMES	13300
+INDICATEURS Fr	14479
+INDICATEURS PRINCIPAUX DES DEUX SCENARII ENVISAGES	14479
 INDICATEURS SUR LES OBJECTIFS DE DÉVELOPPEMENT	13300
 INDICATEURS TIC	13414
 INDICATIVE	1428,116
@@ -506,11 +517,13 @@ ISF Indice Synthétique de Fécondité ISFD Indice	13300
 ITU DataHub ICT Households and Individuals ICT	14098
 ITU ICT Indicators	13312,2
 IV. Select Macroeconomic Indicators Sources	11469
+IX. TABLEAU DES INDICATEURS	14442
 Identify Indicators Planning Evaluation Monitoring	13991
 Identifying Eligible Individuals The Imibereho Social	12370
 Illustrative Indicators Awareness	6936
 Immediate Matrix. Individuals	8354
 Immigration and Refugee Protection Indicator	11986
+Impact Indicator Survey	14622
 Implement Monitoring Framework Key Performance Indicators	12508
 Implications for Businesses and Individuals	13532
 Important Indian	13562
@@ -524,7 +537,7 @@ Income Tax Individual Salaried Any	12397
 Income Tax Returns for Individuals	11976
 Ind Indicadores-Chave	11569
 Indi-	10780
-India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5
+India	10,192,24,189,146,157,49,14,257,16,82,83,6,18,458,123,27,170,4,77,15,201,6,103,8,12,94,25,48,44,9,10,43,5,35,15,3,9,4,13,15,1,3,8,37,5,41,11,18,4,70,1,8,227,32,18,60,28,69,123,27,13,119,40,9,29,69,33,20,38,50,37,21,127,44,16,17,8,144,3,106,23,55,45,10,90,31,24,18,47,85,48,15,41,10,27,2,23,53,24,7,11,15,10,43,56,1,81,45,40,20,43,86,15,3,52,126,34,31,13,63,6,47,89,10,25,6,53,19,70,19,8,15,25,1,68,19,42,2,3,55,49,1,41,43,38,17,9,1,7,16,9,2,15,6,12,1,26,5,31,1,7,8,51,11,26,7,24,86,16,53,22,101,27,109,60,9,21,27,47,5,63,20,122,68,60,61,4,91,45,24,4,44,1,121,73,122,45,13,35,6,106,13,153,36,9,29,9,47,56,1,41,38,13,29,82,67,32,44,160,5,6,63,40,33,113,12,151,30,69,16,169,73,8,82,11,198,13,38,10,10,61,6,125,8,19,1,1,1,64,64,3,16,1,1,27,33,20,14,17,4,13,26,158,1,86,17,6,1,30,55,193,22,1,22,1,15,4,3,15,24,26,4,3,40,32,41,29,12,59,55,35,1,60,117,7,15,68,8,41,119,229,7,5,2,3,23,24,49,2,13,15,14,30,14,26,2,101,15,102,54,43,17,6,29,1,62,57,4,59,47,63,25,4,91,107,67,203,37,5,173
 India AI	4300
 India AI Action Summit	5044
 India AI Governance Guidelines	9208
@@ -735,7 +748,7 @@ IndiaAI Mission. Among	9208
 IndiaIndonesia PakistanPhilippinesGuatemala Mexico Men Women	11964
 IndiaStack	5700,992
 IndiaStack. Everyone	6692
-Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47,154,245
+Indian	2667,53,84,12,547,428,484,25,132,144,273,833,18,103,428,140,15,25,69,212,43,64,56,39,41,210,6,69,349,27,115,270,225,404,332,177,89,124,72,27,209,1431,63,1,41,4,3,9,1,91,641,144,69,430,49,187,175,335,195,52,1,182,47,154,245,275
 Indian AI	7151,830
 Indian Ambassador	2667,4232
 Indian Army	11925
@@ -764,7 +777,9 @@ Indian LoCs	11925
 Indian Minister of Commerce and Industry	9332
 Indian Minister of Commerce and Industry Piyush Goyal	9332
 Indian Naval Ships	2667,9258
-Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545
+Indian Ocean	21,564,778,363,951,602,85,272,92,126,241,353,107,567,102,28,601,255,107,679,335,136,1,1,879,620,283,1226,808,640,328,674,31,164,711,2,11,19,24,6,2,545,103,22,11,30,60,94,9
+Indian Ocean AI Innovation Network Regional	14566
+Indian Ocean Artificial Intelligence Summit	14618
 Indian Ocean Aucun	13701
 Indian Ocean Basin	3636,218,9166
 Indian Ocean Commission	7795
@@ -774,12 +789,15 @@ Indian Ocean Dipole	14158
 Indian Ocean High Rate SEVIRI IR3.9	13701
 Indian Ocean Region	13744
 Indian Ocean Rim Association	11183,2,2559
+Indian Ocean Tuna Commission	14447
 Indian Ocean and Africa	7601
 Indian Ocean and Atlantic Ocean Intelsat	9455
 Indian Ocean and Central	585
 Indian Ocean and Central Africa	585
 Indian Ocean and WACS	395
+Indian Ocean. Key Objectives Smart Public	14566
 Indian Ocean. Matshepo Sehloho	7509
+Indian Ocean. Regarding	14545
 Indian Ocean. TCLE Democratic Republic of Congo	11916
 Indian Ocean. Through	3292
 Indian Pharmacopoeia	13791
@@ -848,42 +866,66 @@ Indicate	736,3236,2181,2786,3363,702,33
 Indicate Foreign Currency	13037
 Indicate Namibian Dollars	13037
 Indicates	7221,3559
-Indicateur	748,574,1,1,740,1,1,2013,1,4811,4409,90
+Indicateur	748,574,1,1,740,1,1,2013,1,4811,4409,90,1232
 Indicateur ANJE	13300
 Indicateur Définition Taux	7655
 Indicateur ENE	7655
 Indicateur MICS5	13300
 Indicateur Masculin Féminin Ensemble DHS	13300
+Indicateur Objectif	14622
 Indicateur Pourcentage Effectif Allaitement	13300
 Indicateur Valeur	13390
-Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49
+Indicateurs	643,94,10,18,57,1618,956,2234,298,1727,1236,1967,16,2,89,10,941,28,99,1257,24,1,16,73,19,9,26,118,49,853,1,1,39,8,85
 Indicateurs ANJE	13300
 Indicateurs Clés	2624
 Indicateurs Clés. Yaoundé	10985
+Indicateurs Conditions	14488,1,1
+Indicateurs Conflits	14488,1,1
+Indicateurs Conflits Nombre des Consultations	14488,1,1
 Indicateurs Données	13433
 Indicateurs Données de Année	13433
+Indicateurs Dotation	14488
+Indicateurs Droits	14537
+Indicateurs Dégradation	14488
+Indicateurs Existence	14489
+Indicateurs Fin	14622
+Indicateurs Information	14488,1,1
+Indicateurs Insécurité	14488,2
+Indicateurs L'EPI	14488,1,1
 Indicateurs Liés	10876
 Indicateurs Multiples	9553,4193
 Indicateurs Multiples MICS	13746
-Indicateurs Nombre	11944
+Indicateurs Nombre	11944,2544,2
 Indicateurs ODD	12043
+Indicateurs Objectifs	14622
+Indicateurs Performance	14622
+Indicateurs Performance Fonds	14622
+Indicateurs Pollutions	14488,1,1
+Indicateurs Problèmes	14488,1,1
+Indicateurs Programmes	14488,1,1
+Indicateurs Propagation	14488,1,1
 Indicateurs Quatrième Trimestre	13586
+Indicateurs Respect	14488,1,1
 Indicateurs Taux	11944
+Indicateurs Utilisation	14488,1,1
 Indicateurs Valeurs	643
 Indicateurs de Déclenchement des Paiements	10876
 Indicateurs de Performance	10975
+Indicateurs de Période	14490
+Indicateurs de Période Responsables	14488,1
 Indicateurs des TIC	13531
 Indicateurs du CR-UE	13325
 Indicateurs du Paludisme	13300
 Indicateurs du Paludisme ELISA	13300
 Indicatif	643
-Indicative	1212,6156,3843,314
+Indicative	1212,6156,3843,314,3040,93
 Indicative Cooperation Program	7379
 Indicative Cooperation Programme	4502
 Indicative Financing Estimates On-site	13331
 Indicative Phase	8817,3121,2
 Indicative Phases	1264
 Indicative Planning Figures and Funding Availability	4217
+Indicative Risk Tiers	14565
 Indicative Strategic Development Plan SADC Southern	13295
 Indicative Teledensity Scenario Optimistic	5245
 Indicative Timeline	5853
@@ -954,7 +996,7 @@ Indicators RESULT FRAME TBL PD O Indicator Name	10829
 Indicators Report	13052
 Indicators Specific	12356
 Indicators WEF World Economic Forum WIPO	13312,2
-Indicators and Targets	7548
+Indicators and Targets	7548,7116
 Indicators and Targets The MERL Matrix	7548
 Indicators and Triggers	12175
 Indicators of Attacks	10721
@@ -978,6 +1020,8 @@ Indice Synthétique de Fécondité Désiré Nombre	13300
 Indice Synthétique de Fécondité ISGE	13377
 Indice Synthétique de Fécondité Taux	13300
 Indice de Cameroun	10965
+Indice de Developpement Humain	14442
+Indice de Developpement Humain IDS	14442
 Indice de Développement	13341
 Indice de Développement Humain	1005,10939
 Indice de Développement des TIC	1323,742,2015
@@ -992,7 +1036,7 @@ Indice du Capital Humain	13341
 Indice-monia-moroccan-overnight-index-average	8891
 Indices	11258,599
 Indicou	9257,1531
-Indien	8234,465,329,1376,115,682,62,2495,42,17
+Indien	8234,465,329,1376,115,682,62,2495,42,17,732,69
 Indien. Titus Gachuhi	3242
 Indiensneming	1009
 Indifférente	13390
@@ -1048,21 +1092,23 @@ Indirect Participants. Among Indirect Participants	2836
 Indirect Tax Reliance and Narrow Tax Base	13624
 Indirect Taxes	5655
 Indirecta	4218,7143,91
+Indirectement	14425
 Indirectly	12333
 Indirektni	10780
 Indiscriminate	1988,1873
 Indiscriminately	1988
 Indisponibilidade	5169
-Indisponibilité	419
+Indisponibilité	419,14118
 Indisponibilités	13772
 Indivi	13390
-Individu	7977,5738
+Individu	7977,5738,703
 Individuais	11514
-Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128,298,265,89
+Individual	22,508,52,91,1,62,172,6,1,1,1,1,1,1,1,1,1,855,162,48,108,679,185,199,424,278,588,1216,354,1128,4,397,292,309,134,341,499,469,538,200,188,235,59,69,82,1,38,26,101,9,44,94,22,227,24,216,92,119,12,245,45,69,12,24,12,18,32,96,230,178,131,4,11,216,22,128,298,265,89,297,24
 Individual Account	11233,2100
 Individual Accounts	11233
 Individual Accounts. A	11233
 Individual Address	11129
+Individual Adopt	14674
 Individual Authentication Timestamp Total Web Authentication	11955
 Individual Beneficiaries	11233
 Individual Business Profit Tax	12500
@@ -1095,6 +1141,7 @@ Individual Members’ Attendance	11131
 Individual Merchants Retail Large Customer Agent	5687
 Individual Number Card	10714
 Individual Participant	12484
+Individual Perceptions	14666
 Individual Performance Management System	13062
 Individual Privacy Rights	12663
 Individual Qualified Signature Qualified Signature	11955
@@ -1104,19 +1151,21 @@ Individual Student Needs	6948
 Individual Targeted Interventions	13474
 Individual Tenure Farms	12962
 Individual Treatment Owner	12241
+Individual Whose Personal Data Are the Subject	14434
 Individual Zimbabwean Citizens	736
 Individual-level	7112,5904
 Individual-to-Collective Threshold	8283
 Individuality	13310
 Individually	5469,2127,450,1082,271,1739
 Individually Issued Laissez-Passer	9399
-Individuals	582,666,16,366,485,660,183,646,257,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311,44,10,44,25,119,1,115,50,1,146,6,573,116,23,28,3,37,99,41,125,6,11,29,76,3,241,174,1231
+Individuals	582,666,16,366,485,660,183,646,257,792,147,599,140,12,8,1261,12,1,107,225,56,1,95,35,196,338,50,91,1507,82,459,22,216,97,311,44,10,44,25,119,1,115,50,1,146,6,573,116,23,28,3,37,99,41,125,6,11,29,76,3,241,174,1231,336,218,14
 Individuals Computer Usage	12251
 Individuals Individuals National Male Female	12251
 Individuals Merchants Retail Agents and Category Lite	5687
 Individuals National Male Female	12251
 Individuals Survey	7521,6154
 Individuals Survey Report	13675
+Individuals and Authorised Dealer Banks	14453
 Individuals and Businesses Across Africa Wayne Venter	7324
 Individuals and Corporate	13053
 Individuals and Households	13347
@@ -1127,7 +1176,7 @@ Individuals for PAYE	12452
 Individuals. Broadband	13331
 Individualsusing the Internet	6946
 Individuelle Collective Propriétaire Prêt	737
-Individus	13390,325
+Individus	13390,325,710
 Individus Associations Ménages	13390
 Individus Et Perspectives	8891
 Indivíduo	10766
@@ -1235,6 +1284,7 @@ Lower Value Pre-existing Individual Accounts	11233
 Lu-Hai Liang India	7981
 M India W M ASIA Indonesia	11964
 M Proposed Alterations New Indicator	4653
+MACRA Summary of Key Telecommunications Indicators	14674
 MAIN SOCIO-ECONOMIC DEVELOPMENT INDICATORS AND ICT	958,12337
 MBIF Individus Associations Ménages	13390
 MEA. The India DPI Summit	7981
@@ -1245,6 +1295,7 @@ MICS Multiple Indicator Cluster Survey MOH	10829
 MICS Multiple Indicator Cluster Surveys MII	13300
 MONITORING AND EVALUATION Definition of Indicators	962
 MONITORING SUCCESS Transition Impact Monitoring Indicators	1818
+MTN Indicateurs Cibles	14622
 Main Socio-economic Development Indictors And ICT	958
 Major Indian	13509
 Malaria Indicator	970
@@ -1296,13 +1347,14 @@ Multiannual Indicative Programme	11536,1449
 Multiple Health Indicators Survey	10776
 Multiple Health Indicators Survey INALUD	10776
 Multiple Indi-	11879
-Multiple Indicator Cluster Survey	10829,1087,259,551,236,719
+Multiple Indicator Cluster Survey	10829,1087,259,551,236,719,896
 Multiple Indicator Cluster Survey MIP-1	12175
 Multiple Indicator Cluster Survey Round	13446
 Multiple Indicator Cluster Survey. National Statistical	13209
-Multiple Indicator Cluster Surveys	10714,1165
+Multiple Indicator Cluster Surveys	10714,1165,2743
 Multiple Indicator Survey	10780
 Multiple Indicator and Health Survey	10765,10,642
+Multiple Indicators Cluster Survey	14571
 Multiple Indicators and Health Survey	10765,10
 N INDICATOR	12453
 N INDICATOR NATIONAL BASELINE TARGET	12453
@@ -1356,6 +1408,7 @@ O Ciclo Individual	10783
 O Indicator Name PBC Baseline Intermediate	10964
 O Inquérito de Indicadores Múltiplos	10760,17
 OBJECTIF GLOBAL INDICATEURS D’IMPACT OBJECTIF GLOBAL	10712
+OBJECTIF INDICATEURS PRINCIPAUX DES DEUX SCENARII	14479
 OBJECTIF INDICATEURS STRATEGIQUE Réglementaire Nombre	10965
 OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET Rapports	10712
 OBJECTIVE STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
@@ -1371,8 +1424,9 @@ Objective Activities Responsible Outputs Indicators	12356
 Objective Activities Responsible Outputs Indicators Entities	12356
 Objectives and Methodology for Individual Country Reports	12337
 Objectives and Results Indicators	11855
+Ocean Indien	14442
 Oceania. India	10846
-Océan Indien	6883,6841,16
+Océan Indien	6883,6841,16,882
 Océan Indien. Hamdi Abdillahi Rahilie	13802
 Official Use Only Indicator Intervention	11469
 Oman and India. Developing	13839
@@ -1423,6 +1477,8 @@ PDO-level and Intermediate Indicators	1228
 PERFORMANCE INDICATORS	3898,255
 PERFORMANCE INDICATORS AND TARGETS	5533,6453
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
+PEV Indicateurs	14622
+PGES DATA CENTER SECONDAIRE Indicateurs	14488
 PIB Delhi India and South Africa	6480
 PIB Delhi The President of India	12568
 PM Indira Gandhi	2667
@@ -1534,11 +1590,12 @@ Promotion of Indigenous Minority Rights	11868
 Proporção de Indivíduos	11418
 Proposed Alterations New Indicator New Target	4653
 Proposed Key Performance Indicators	4528,7984
-Protection of Individuals	8776
+Protection of Individuals	8776,5658
 Protecção Individual ERR Equipas	11376
 Q.9. Indiquez	13390
 Quadro de Indicadores de Desempenho	11406
 Quadro de Indicadores de TIC. Este	2816
+Quality Assurance Sampling Multiple Indicator Cluster	14622
 Quality of Service Key Performance Indicators	9110
 Quantum Indices	2775
 Quantum Indices of Manufacturing Production	2775
@@ -1550,6 +1607,7 @@ Quarterly and Annually Indicator	11986
 Questionário Individual	10777
 Questionário Individual da Mulher	10777
 Quotation RISDP Regional Indicative Strategic Programme	12975
+RAM Indicateurs	14622
 RAPPORT DES INDICATETEURS TIC AU BURUNDI	13414
 RAPPORT SUR L'EVOLUTION DES INDICATETEURS TIC	13324
 RESULT FRAME T BL PD O Indicator Name	11855
@@ -1572,7 +1630,7 @@ Regarding India and Namibia	3253
 Region Key Features Lessons for Ghana India	10415
 Regional Collaboration Lagging Indicators	4528
 Regional Director for Southern Africa and Indian Ocean	10790
-Regional Indicative Strategic Development Plan	9708,461,152,2319,278,24,20,2,69,622
+Regional Indicative Strategic Development Plan	9708,461,152,2319,278,24,20,2,69,622,849
 Regional Indicative Strategic Development Plan ROC	12962
 Regional Indicative Strategic Plan	13359
 Regional Indicative Strategic Programme	12975
@@ -1614,6 +1672,7 @@ Revise Individuals	4653
 Revised Indicator Name Baseline Actual	4653
 Revised PDO Indicators	11924
 Rights of Indigenous Populations	8485
+Risk-Based Indicative Low-risk Medium- Governance Model	14565
 Risk-Based Risk Indicators and Tolerance Levels PART	13206
 Rural India. The World Bank Economic	13624
 Rwanda Code Indicator	12351
@@ -1624,6 +1683,8 @@ SADC Regional Indicative Strategic Development Plan	970,12517
 SADC-RTGS Main Indicators	12252,584,311
 SADC-RTGS Settlement Statistics and Indicators	12252,584,311
 SDG Indicator Gaps	13359
+SIDA Indicateur	14622
+SIDA Indicateur Objectif	14622
 SIPO Strategic Indicative Plan	11986
 SMS Indicateurs	13414
 SNFI OBJECTIF INDICATEURS STRATEGIQUE Nombre	10965
@@ -1662,6 +1723,7 @@ Selection of Manifestation Specialist National Individuals	11855
 Selector Macro Indicators Net Balances QSBOE	13532
 Sensitivity Analysis for Key Indicators of Public Debt	13868
 Sequoia Capital India	12244
+Server Name Indication	14455
 Service Delivery Indicator	10188
 Service Delivery Indicators	11905
 Service Quality Indicators	12389
@@ -1759,6 +1821,7 @@ UIT. VII.4 Indice du Capital Humain	13341
 UK and India	1814,5834
 UN EGDI Index OUTCOME INDICATOR	11863
 UN Indico	10707
+UNESCO and India	14566
 UNICEF VE WB WFP Individual Digital	10763
 UPI. India	8942
 USD Related Indicator	7221
@@ -1766,6 +1829,7 @@ Uganda and India	11903,61
 Uganda and India. Gender	11902
 Uganda. India	9600
 UgandaBangladesh India Indonesia Pakistan Sri LankaGuatemala	11004
+Un Individu	14480
 Under India	11902
 Under the Characteristics of Individuals	12246
 Union Européenne Programme Indicatif Multi-annuel	643
@@ -1807,8 +1871,11 @@ Western Indian Ocean Route	13773
 Western Indian Ocean Route. Operational Protection	13773
 Whether India	6411
 Woredas. Indirect	13999
+Workload Indicators of Staffing Need	14662
+Workload Staffing Indicator Needs	14622
 World Bank Corporate Scorecard Indicator	10768
 World Bank Development Indicators Note	5247
+World Bank Development Indicators for GDP	14674
 World Bank Governance Indicators	4528,7984
 World Bank Indicators	11935
 World Bank Project Interventions and Indicative	13331
@@ -1837,8 +1904,10 @@ World Indices	7343
 Worldwide Governance Indicators	8075,4594
 Worldwide Governance Indicators DATA SHEET RESTRUCTURING	13861
 Worth Individuals	13624
+X. PLAN DE SUIVI DES INDICATEURS	14442
 XI. EVOLUTION COMPARATIVE DE QUELQUES INDICATEURS	10847
 XMUVI Export and Import Unit Value Indices	11258
+XX Indicateurs	14622
 Year India’s Export India’s Import	11579
 Year Value Indicator Name	6579,349
 Year Value Indicator Name Grievances	6579

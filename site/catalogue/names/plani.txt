@@ -4,6 +4,7 @@ CONTRACEPTION AVEC DES PRESTATAIRES DE PLANIFICATION	13300
 Cellule de Planification	9553
 Central Ministry New Planification Economique Secrétariat	1284
 Chef du Département Planification Suivi-Evaluation	10876
+Conformité Planifier	14537
 Consejo Nacional de Planificación	1701
 Coordinación Sistema Nac. de Planificación	4209
 Células Sectoriales de Planificación	4209
@@ -24,7 +25,9 @@ FINANZAS ECONOMIA Y PLANIFICACION CONTABILIDAD FINANCIERA	4209
 Gabinetes Regional de Planificação	11525
 Gabinetes de Planificao Regional	11525
 Information de Planification	13341
+Institut International de Planification	14472
 Institut Malgache des Techniques de Planification	7725
+Institut Malgache des Techniques de Planification INSTAT	14472
 Le Service Planification	10876
 MOYENNE. Planification	1679
 Ministério da Planificação	2816
@@ -39,14 +42,16 @@ PLANIFICAÇÃO E FINACIAMENTO	11561
 PRINCIPAIS ACTIVIDADES PLANIFICADAS	2816
 PRISE DE DÉCISION SUR LA PLANIFICATION	13300
 PforR. VI.5. Planification	10876
+Phase Planification Déroulement Mise	14537
 Planificación	1701,154,2354
 Planificación Nacional	1701,5140,1207,330,924,1059,126,3728
 Planificación Nacional. Durante	8378
 Planificación Sanitaria	4209
 Planificar	11381,1,67
-Planificateur	8269
+Planificateur	8269,6258
 Planificateur-aménageur	7670
-Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409
+Planificatin	14539
+Planification	311,245,658,465,1717,279,450,13,187,1033,1220,963,114,614,33,139,1603,668,53,10,72,27,2,88,1,84,137,1,718,138,1247,10,25,15,9,28,91,10,35,33,122,6,249,409,110,30,65,85
 Planification DGMEC	10874
 Planification DHIS2 District Health Information Software	13306
 Planification Economique	1284,1341,10704,2,3
@@ -61,7 +66,7 @@ Planification du Développement	13390
 Planification. Il	10712
 Planificação	15,2769,32,1690,6946,109,1228,32
 Planifie	13846
-Planifier	7216,6125,361
+Planifier	7216,6125,361,835,2
 Planifrcation Economique	13334
 Principais Actividades Planificadas	2816
 Proyecto de Planificación	4209
@@ -72,6 +77,7 @@ Sistema de Planificación	1701
 Subsector de Planificación	4209
 Subsector de Planificación Educativa	4209
 Subsistema de Planificação	12789
+Systèmes de Planification des Ressources	14483
 VI.5. Planification	10876
 VIII. PLANIFICATION ET SUIVI-ÉVALUATION	10876
 VIII. PLANIFICATION ET SUIVI-ÉVALUATION VIII.1 Objectifs	10876

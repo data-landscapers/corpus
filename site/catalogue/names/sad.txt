@@ -191,9 +191,10 @@ SADC Declaration	961
 SADC Declaration and Treaty	10169
 SADC Delegates	10421
 SADC Deputy Executive Secretary	12942,713
+SADC Deputy Executive Secretary for Regional Integration	14504
 SADC Digital	2411
 SADC Digital Inclusion	962
-SADC Digital Transformation Strategy	3476,9466,713
+SADC Digital Transformation Strategy	3476,9466,713,849
 SADC Digital Transformation Strategy and Action	1007
 SADC Digital Transformation Strategy and Action Plan	1007
 SADC Director of Infrastructure	318
@@ -237,8 +238,10 @@ SADC Humanitarian and Emergency Operations Centre	9959
 SADC ICT	26,1,1
 SADC ICT Implementing Agencies Communication Regulators	962
 SADC ICT Ministers	26,2,934
-SADC ICT Observatory	318,3158,6283
+SADC ICT Observatory	318,3158,6283,4745
+SADC ICT Observatory The Southern African	14504
 SADC ICT Observatory. Key	3476
+SADC ICT Observatory. Participants	14504
 SADC ICT Sector	962
 SADC Industrialisation Strategy and Roadmap	12942
 SADC Industrialisation Week	9959
@@ -266,7 +269,7 @@ SADC Ministers	26,1,1,6692,6222,20
 SADC Ministers of Foreign Affairs	9761,2879
 SADC Mobile Broadband Gap Analysis Guidelines	12918
 SADC Model Cyber Security Strategy	318
-SADC Model Law	26,1,1,3833,2859,2679,1420,2527
+SADC Model Law	26,1,1,3833,2859,2679,1420,2527,1088
 SADC Model Law Acknowledgements	26,1,1
 SADC Model Law Application PART II	27
 SADC Model Law Authorization	27
@@ -329,7 +332,7 @@ SADC Postal E-commerce and Trade Facilitation Guidelines	12918
 SADC Postal Strategy	12942,713
 SADC Principles and Guidelines	9761,2440
 SADC Programmes. In the ICT and Information Sectors	12918
-SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432,564,229,215,231,165,18,25,6,25,13,664,1156
 SADC Protocol of Gender and Development. The Government	12939
 SADC Protocols	12942,20
 SADC Public Lecture	12640
@@ -358,8 +361,8 @@ SADC Regional Indicative Strategic Development Plan	970,12517
 SADC Regional Infrastructure Development Master Plan	23,10936,1959
 SADC Regional Peacekeeping Training Centre. Participants	12972
 SADC Regional Statistics	12972
-SADC Regional Statistics Project	3476,10328
-SADC Regional Workshop	9886
+SADC Regional Statistics Project	3476,10328,700
+SADC Regional Workshop	9886,4618
 SADC Regional and Settlement System Operator	5263
 SADC Roaming	5872
 SADC SAIDI SAIFI SZNS SANS ToA	12969
@@ -380,6 +383,7 @@ SADC Southern Africa Development SAFE Simple	12376
 SADC Southern African Development Community	12786
 SADC Southern African Development Community SASRA	2775
 SADC Southern African Development Community SDGs	11960
+SADC Southern African Development Community UN	14434
 SADC Standing Committee of Senior Officials	9761
 SADC States	12527
 SADC Strategy	1600
@@ -418,6 +422,7 @@ SADC and East African	3636,9384
 SADC and FAO	13049
 SADC and IOC	14267
 SADC and SADCAS	13068
+SADC the ICT Observatory	14504
 SADC the Kingdom of Eswatini	12395
 SADC's Regional Infrastructure Development Master Plan	10324
 SADC-	11960
@@ -468,6 +473,7 @@ Sadc-RTGS	8128
 Saddam	10409
 Saddam Haftar	10409
 Saddick	13209
+Saddick Arthur	14698
 Saddlers	13361
 Sade Dada	10133
 Sadhvir Bissoon	14225

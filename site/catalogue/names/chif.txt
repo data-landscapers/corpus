@@ -17,7 +17,7 @@ Chiffre Exploitation	748
 Chiffre Indicateur	748
 Chiffre Nombre	748
 Chiffre Utilisation	748
-Chiffres	998,7653,2324,2285,456
+Chiffres	998,7653,2324,2285,456,763
 Chifunde	9699
 Chifunde District For WHO Mozambique	9699
 Chifuniro Msiyambiri	10412
@@ -50,6 +50,7 @@ NABU Chiffre	13390
 OPÉRATEUR Chiffre	998
 PRENEZ LE DERNIER CHIFFRE	13300
 SMS Chiffre	13414
+SS Chiffre	14479
 TANT DONNÉ QUE LE DERNIER CHIFFRE	13300
 Tinashe Chifamba	12478
 VÉRIFIEZ LE DERNIER CHIFFRE DU NUMÉRO	13300

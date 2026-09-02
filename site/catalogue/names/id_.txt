@@ -89,8 +89,9 @@ CRVS AND ID MANAGEMENT SYSTEMS	12327
 CRVS and ID	13095
 CRVS and ID Day	13095
 CRVS and ID Day Celebration	13080
-CRVS and National ID	13005
+CRVS and National ID	13005,1650
 CRVS and National ID SDG Target Link	13005
+CRVS-National ID Integration	14655
 CRVS-national ID	10591
 CSD CA03 Participant’s ID	12364
 CSD Name User ID Certificate Issuance	12364
@@ -148,7 +149,7 @@ Development of Integrated ID and CRVS Software	12241,839
 Diagnostic of ID Systems	442,10323,10
 Digetal ID Unique Number	12226
 Digital Digital ID System	10714
-Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170
+Digital ID	772,189,282,111,22,186,377,14,215,86,37,275,92,4,221,96,39,144,115,114,171,32,148,217,217,25,582,158,67,24,213,5,283,6,87,267,179,124,147,169,15,9,3,915,107,8,500,531,1553,561,51,10,10,34,3,34,30,326,34,18,111,112,432,21,31,15,8,128,43,37,7,5,27,4,36,85,60,18,9,120,24,77,307,46,53,15,143,76,31,105,380,3,7,170,664
 Digital ID Access Estimates and Methodology	10714
 Digital ID App	12165
 Digital ID Architecture and Rights	4863
@@ -159,6 +160,7 @@ Digital ID Credentials	13005
 Digital ID Development	12165
 Digital ID Digital ID	12209
 Digital ID Digital ID Digital ID	10714
+Digital ID Ecosystems	14674
 Digital ID Framework	12674
 Digital ID Gender	10714
 Digital ID Gender Albania	10714
@@ -209,6 +211,7 @@ Djibouti. Operation ID	13856
 Document ID Number	8605
 Documento ID. Doc	11442
 Documento. ID. Doc	11444,19
+Docusign Envelope ID	14539
 Does the ID	12139
 E-Houwiya ID	2578
 E-mail I I National ID	736
@@ -264,6 +267,7 @@ Executive Director of Ethiopia's National ID Program	14095
 Executive Director of Ethiopia’s National ID Program	5966
 Expand CR and ID	10775
 Expanded National ID Coverage	10521
+Expert Id	14424
 Extensive Beneficial ID	12214
 External Systems ID	10775
 F25 Bank ID	10714
@@ -307,6 +311,7 @@ GCF Green Climate Fund ID Identity	11586
 GEF Project ID	3430
 GOL GNI ID IMF KYC LSW	12701
 GPE0000298 ID	13732
+GRANT NO.5500155013902 ID NO. P-KE-KOO-011	14546
 GUP ID Ministry	13314
 Gabon's ID	114
 Gambia's ID	4708
@@ -338,10 +343,12 @@ Have ID Have SIM	10977
 Hawaii ID	7008
 Home Affairs ID	2752,2950
 Home Affairs Smart ID	7331,427
+HyperText Transfer Protocol Secure ID	14438
 I-25 Use of Digital ID	10785
 IATI ID	2251,4731
 IBB Interbank Burundi ID	13388
 ICPS Ghana Digital National ID Card	84
+ID AFPUB-2026-IPv4-001-DRAFT02	14671
 ID AGENCY	10819
 ID AO.143	646
 ID APIs	4911
@@ -410,6 +417,7 @@ ID Identity Card No N	10714
 ID Identity Document IDREA Survey	10768
 ID Identity Document Module TA Technical	12297
 ID Initiative	6111
+ID Integration Plenary Session	14655
 ID Interoperability	12663
 ID Jan	12222
 ID Kazakhstan	10714
@@ -580,6 +588,7 @@ ID. Figure	11919
 ID. First-party SIM	4439
 ID. Foreigners	4439
 ID. Given	10775
+ID. Identity Verification Services	14674
 ID. In Benin	10816
 ID. In LICs	10714
 ID. Issues	12328
@@ -653,6 +662,7 @@ Inclusive ID	12228,39
 Inclusive and Trusted Digital ID Can Unlock	10819
 Income ICT Information and Communications Technology ID	10765,10
 Individual ID	10812
+Infectious Disease Preparedness ID Identification	14434
 Information System ID Identity Document NIIS	11986
 Initial FUNCTIONAL REQUIREMENTS ID Functional Requirement	13037
 Initial ID General Security Requirement Description	13037
@@ -718,6 +728,7 @@ Linking National ID and CRVS Systems	326
 Linking National ID and CRVS Systems Companion	326
 Linking the National ID	12291
 List of Relevant CR and ID Legislation	10765,10
+Loan ID	14546
 Local Government’s National ID Enrolment	11857
 Local ID	320
 Locations The National ID Program	12281
@@ -812,7 +823,7 @@ National Digital ID Program	8920,3337
 National Digital ID Strategy	3781
 National Digital ID and Digital Transformation Strategy	1360,354
 National Fayda Digital ID Registration Project	7129
-National ID	445,1324,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,29,196
+National ID	445,1324,47,73,31,195,4,199,6,66,57,74,45,92,17,45,50,8,42,3,101,1,22,50,8,12,1,9,14,20,224,18,105,52,112,38,13,119,61,14,3,247,21,3,81,85,21,275,78,9,138,48,5,57,28,38,14,117,57,125,43,15,175,80,16,101,196,63,159,140,19,225,40,7,254,7,16,43,245,32,32,513,75,106,53,494,524,207,268,73,25,291,326,163,103,125,193,51,10,47,17,13,110,1203,8,14,15,7,5,2,1,24,40,7,3,37,9,69,94,33,1,407,64,70,5,15,583,413,46,29,196,156,6,131,19
 National ID Achieves Breakthrough Penetration and Everyday	13095
 National ID Agency	10812,1521,37
 National ID Birth	12216
@@ -876,7 +887,7 @@ National With Rwanda’s New Digital ID	6343
 National and Non-National ID Cards	1655
 Ndaga Muntu ID	4443
 Nepal Netherlands National ID System	10714
-Next Generation Digital ID	1704
+Next Generation Digital ID	1704,12970
 Next-Generation Digital ID Wallet	13095
 Niger National ID System	10714
 Nigeria Unveils ECOWAS ID Card	4102
@@ -899,7 +910,8 @@ Old Namibian ID	12350
 Older-generation ID	12297
 Older-generation ID Tiered KYC	12297
 Oman Omani ID Card Yes N	10714
-Omidyar Network Unpacks Good ID	10819
+Omidyar Network Unpacks Good ID	10819,3615
+Omidyar Network's Good ID	14434
 Omidyar’s Good ID	10819
 One's Fayda ID	12248
 Open Researcher and Contributor ID	11922
@@ -911,6 +923,7 @@ Operation ID P166564 Practice Area	10779
 Operation ID P172479	14038
 Operation ID P176932	1175,2,1,1,1,1,1,82
 Operation ID P179410 Financing Instrument Does	11905
+Operation ID Product	14553
 Operation ID Sequential	3604,2935
 Original ID	12337
 P168336 TBL Country Angola Operation ID P168336	10779
@@ -944,7 +957,7 @@ Project ID Financing Instrument Process Classification	13332
 Project ID Project Name Lead GP	11469
 Project Operation ID Financing Instrument Environmental	11560
 Projecto. ID	11440
-Promote Digital ID	12214
+Promote Digital ID	12214,2460
 Property ID Law	161,2687
 Proxy ID	3977
 Qatar Qatari ID Card	10714
@@ -970,6 +983,7 @@ Registration for Fayda ID	12202
 Registration of National ID	12241
 Registrations for National ID	13080
 Release ID	6480,6088
+Republic of Madagascar Region Operation ID EASTERN	14576
 Rescue Troubled National ID System	6166
 Resident Foreigner ID	12216,1
 Resident ID	12202,1935
@@ -1081,6 +1095,7 @@ Togo Launches Biometric ID Registration	3437
 Token Certificate ID Serial No Renewal	12364
 Transformative Power of Ethiopia's Digital ID	12245,1205
 Trucker ID	2823
+Tsiry Andriantahina BASIC DATA Operation ID	14456
 Tunisia Digital ID System. Presented	10819
 Tunisia Makes Mobile ID Mandatory for Investment	6872
 Tunisia National ID System	10714
@@ -1105,6 +1120,7 @@ Uganda’s Digital ID	10822
 Uganda’s ID	3005
 Uncollected ID	10962
 Unique ID	7988,4349
+Unique ID Numbers	14434
 Unique Number ID	2947
 Unique Person ID	11270
 Unit ID Weight	12006
@@ -1130,6 +1146,7 @@ World Bank-funded Digital ID for Inclusion and Services	5306
 World Bank-funded ID	4088
 World ID	5550
 Yodahie Arayaselassie National ID Program Coordinator	14062
+Z39.88-2003&rfr id	14666
 ZRHCP Environmental and Social Risk Operation ID	1867
 ZW Soc Registry Operation ID	13523
 Zambia ID	1879

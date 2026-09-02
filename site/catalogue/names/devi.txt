@@ -35,16 +35,17 @@ Data3 Digital4 Fintech5 SMS Devices Wholesale6	10793
 Develop the Bring Your Own Device	11986
 Develop the Mobile Device Management	11986
 Developers of Fiscal Devices	13606
-Deviation	10870,365,751,1199
+Deviation	10870,365,751,1199,1361
 Deviations	9855,1142,2188
-Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850
-Device Affordability	8111
+Device	26,873,2752,283,1977,140,372,170,130,25,198,785,1198,183,647,273,177,512,211,85,178,662,22,115,53,1216,84,850,477
+Device Affordability	8111,6563
 Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
 Device Assembly Plant	9336
 Device Certification Guidelines	3934
 Device Compliance Management	11231
 Device Driver	11956
+Device Encourage	14674
 Device ICT Affordability Security	12359
 Device Manufacturing	3487
 Device Penetration	3487
@@ -92,6 +93,7 @@ Fiscal Devices	12509,1097
 Fiscal Electronic Device	8368,177
 Fiscal Electronic Devices	7695,673
 Fiscal Fuel Devices	13606
+Français Devise MGA	14683
 Fuel Fiscal Device	13606
 Fuel Fiscal Device Gateway API	13606
 Fuel Fiscal Device Operation	13606
@@ -189,3 +191,4 @@ Virtual Fiscal Device	13606
 Virtual Fuel Fiscal Device	13606
 Virtual Fuel Fiscal Devices	13606
 X MSA2052 Storage Devices	11209
+Xavier Deville. Cette	14581

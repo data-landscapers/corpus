@@ -16,6 +16,7 @@ AMMYRON ENTERPRISES LIMITED Data Processor INST-7155510F793	7167
 AMOT ENTERPRISE Data Controller INST-6864898B5E5 NYERI	7167
 ANALYSE SUR LES ENTREPRISES	13390
 ANGELICA SLOPES ENTERPRISES LTD Data Controller	7167
+ANNEXE-3. CODE DE CONDUITE POUR ENTREPRISE	14489
 ANÁLISE COMPARATIVA ENTRE A ESTRUTURA AMBIENTAL	11390
 APO03 Managed Enterprise	9237
 APO03 Managed Enterprise Architecture	9237
@@ -82,6 +83,7 @@ Arts and Entertainment	4528,7984
 Auto de Entrega	11443
 Autres Entités Publiques	10975,6
 Autres Entités Publiques. Article	10981
+Avant la Entreprise	14489
 B Entities. Internal Modernisation	11230
 B. Enterprise-Wide Risk Management	12977
 B. State-Owned Enterprise Governance Reform	13868
@@ -106,6 +108,7 @@ BREMAR ENTERPRISES LIMITED Data Processor INST-782864AEEDF	7167
 BUSINESS ENTRY	12389
 BUZZAPP ENTERPRISES LIMITED Data Controller INST-751510916CF	7167
 Babson Entrepreneurship Ecosystem Project	13314
+Balances Between Revenue Statements and Entity Corroboration	14546
 Banco Mundial. Entre	1268
 Banco Mundial1. Entregaveis Atividade	11898
 Basis for Enterprise Solution Fixed Broadband Services	14151
@@ -244,6 +247,7 @@ Commentaires Entretien Aminata Touré	5022
 Commentaires Entretien Dr Mouhamadou Sow	5022
 Commerce Economy Ecosystem Edtech Egypt Entrepreneurship	5322
 Commercial Cloud Enterprise	6477
+Commercialization and Entrepreneurship	14555
 Companies and Other Business Entities	13437,140
 Companies and Other Business Entities Act	4263,633,8415,266
 Company Net Property Enterprise	4896
@@ -277,6 +281,8 @@ D.G. DE ENTIDADES AUTONOMAS Y EMPRESAS	4209
 DA SEGURANÇA RODOVIÁRIA ENTRE O MINISTÉRIO	11455
 DATUSH ENTERPRISES LIMITED Data Processor INST-198302C4D16	7167
 DE LA GOUVERNANCE DES ENTREPRISES PUBLIQUES	2342
+DE LA RELATION ENTRE UN ETABLISSEMENT	14417
+DEEE. Entretemps	14423
 DEL. ENTIDADES CONTROL BANCA	4209
 DENNIZ ENTERPRISES LIMITED Data Controller INST-772590E7F2D	7167
 DENNIZ ENTERPRISES LIMITED Data Processor INST-772590E7F2D	7167
@@ -321,6 +327,7 @@ Dedicated Data Governance Entity I-34	10785
 Deeds Registration Trading Entity	11197
 Deeds Registration Trading Entity DSBD Department	11261
 Define Enterprise Architecture	12359
+Defunct Entities	14546
 Delegated Entity	12185
 Department of Public Enterprise	11224
 Department of Public Enterprises	11224
@@ -377,6 +384,7 @@ Directorate of Large Enterprises	9037
 Disaster Recovery Entities	6432
 Distribution of Business Enterprises	12445
 Distribution of Formal Business Enterprises	12445
+Docket Entries	14675
 Document Enterprise Document Data Element Extraction	1009
 Doença Infantil Entre	10760
 Driving Innovation and Entrepreneurship	10834
@@ -386,9 +394,11 @@ Dutch Entrepreneurial Development Bank	14233
 Dynah Solani State-owned Local Enterprise Authority	5998
 Dépenses des Entités Personnalisées du MCTIT	13500
 Développement Durable SOE State-Owned Enterprise SOP	1264
+E Entry-level	14674
 E PONTOS DE ENTRADA	11376
 E VALIDAÇÕES Entidade Responsável Data Assinatura	11435
 E-Waste Exposure Amongst E-Waste Entrepreneurs	1154
+E.1.1 Entry-level	14674
 EA Enterprise Architecture	11261
 EA Enterprise Architecture GCIO Government Chief	11184
 ECHNOLOGIEs DANs LEs ENtREPRIsEs MAROCAINEs	7655
@@ -440,10 +450,12 @@ ENTITY IN CONSORTIUM	11240
 ENTITY IN CONSORTIUM BIDDER	11240
 ENTITY Name	1638
 ENTITY-PASS.md	9040
+ENTITÉ	14537
 ENTIÈREMENT ASSEMBLÉ	13524
 ENTRADA	11574
 ENTRADA EM VIGOR E DURAÇÃO	11372
 ENTRAIDE POUR LA PROTECTION DES PERSONNES	10825
+ENTRAt-Es HyDRoELEcrRteuEs ExtsrANTEs RENEGoctATToN DES	14479
 ENTRE	13300
 ENTRE AGEFAU ET MINISTÈRES CHARGÉS	7926
 ENTRE DEUX PÉRIODES	13300
@@ -461,6 +473,7 @@ ENTREPRISES MAROCAINES C	7655
 ENTREPRISES PUBLIQUES	2342
 ENTREPRISES Rapport Annuel	2342
 ENTRER LE NUMÉRO DE LIGNE	13300
+ENTRES	14479
 ENTREVISTA	10750
 ENTRY	11262
 ENTRY INTO FORCE ARTICLE	12527
@@ -492,8 +505,9 @@ Empowering Enterprise	10793
 Empowering Entrepreneurs Sub-Saharan Africa	1363
 Empowering Female Entrepreneurs	6948
 Enhancing Innovation and Entrepreneurship	12674
+Entaient	14537
 Entantque	13524
-Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964
+Entebbe	1844,4353,2,8,20,425,1380,320,1036,308,359,2264,7,964,1194
 Entebbe Airport	2675
 Entebbe Airport Smuggling Ring Busted	3955
 Entebbe Expressway	12095
@@ -518,14 +532,14 @@ Enter The Green Blood Group	4997
 Enter the Africa Data Leadership Initiative	6352
 Enter the IT3	11276
 Enter the URL	13333
-Entered	1234,3013,55,6411,1962
+Entered	1234,3013,55,6411,1962,1734
 Entering	2726,1,8057,1257,326,1746
 Entering After Telebirr Safaricom	8843
 Entering of Particulars	12226
 Enterobacteriaceae Part	11269
 Enterobacteriaceae. Applicable	11269
 Enterobacteriaceae. SANS	11269
-Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,149,100,73
+Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158,197,530,61,17,400,7,13,86,323,144,643,514,149,100,73,50,233
 Enterprise AI	7005
 Enterprise AI Strategy	10343
 Enterprise AML	12297
@@ -535,7 +549,7 @@ Enterprise Analysis Unit	10976,898,7,1,464
 Enterprise Analysis Unit. The Enterprise Surveys	10862
 Enterprise Application Dev. and Enhancement	12917
 Enterprise Architects	6832
-Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642
+Enterprise Architecture	4126,1407,3070,521,1661,399,802,373,94,464,428,642,454
 Enterprise Architecture DGov	9237
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Architecture Data Capturing Template	9124
@@ -577,7 +591,7 @@ Enterprise Opportunity Survey	6593
 Enterprise Plus-level	13185
 Enterprise Privileged User	10617
 Enterprise Privileged Users	10616,1
-Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194
+Enterprise Resource Planning	3051,491,4445,683,1249,3134,367,571,194,339,22
 Enterprise Resource Systems	12612
 Enterprise Risk	6946,4188
 Enterprise Risk Management	11131,3,1926
@@ -628,7 +642,7 @@ Enterprise-Wide Risk Manage	13053
 Enterprise-Wide Risk Management	13053
 Enterprise-grade	5665,6579
 Enterprise-wide Risk Management Framework	12920
-Enterprises	970,314,497,2067,13,1395,800,1492,1907,1525,300,1820,561,439
+Enterprises	970,314,497,2067,13,1395,800,1492,1907,1525,300,1820,561,439,408
 Enterprises Department	10823
 Enterprises MT Metric Tonnes MTP Medium	2775
 Enterprises Promotion Agency CCO BC-PME Craftspeople	10980
@@ -690,7 +704,7 @@ Entidades Reguladoras	11531
 Entidades Sem Fins Lucrativos	2816
 Entidades da Administração Pública	12774
 Entidades de IA Crítica	3519
-Entire	9855,1708,342
+Entire	9855,1708,342,2536
 Entire Agreement The Contract	13185
 Entire Deliverance and Service	1797,1413,3880
 Entire Website	8884
@@ -698,7 +712,7 @@ Entirely	5599,2781,1252,1946
 Entirely Electronic Company Registration Process	12389
 Entirety of Paid-in Capital Not Needed	12389
 Entiteite	11201
-Entities	20,9,2,1,1,6,38,33,55,41,95,76,120,70,17,161,47,96,134,608,21,1,225,1970,14,1059,32,371,147,70,381,229,282,162,1088,898,143,266,134,116,59,84,457,3,565,358,10,422,4,3,4,1,21,68,8,245,312,6,433,702,307,3,961
+Entities	20,9,2,1,1,6,38,33,55,41,95,76,120,70,17,161,47,96,134,608,21,1,225,1970,14,1059,32,371,147,70,381,229,282,162,1088,898,143,266,134,116,59,84,457,3,565,358,10,422,4,3,4,1,21,68,8,245,312,6,433,702,307,3,961,159,90,22
 Entities CAC CSPs Steering	6432
 Entities CSPs Entities	6432
 Entities Covered This Policy	11995
@@ -716,18 +730,22 @@ Entities and CSPs	6432
 Entities and CSPs Entities	6432
 Entities for Public Sector Innovation	10785
 Entities. The Auditor-General of South Africa	11230
+Entities. These Entities	14524
 Entitl	9123
 Entitled	1250
 Entitlement	12661
-Entity	1613,113,165,1373,436,730,88,342,3,27,6,176,72,3,153,41,473,254,355,9,514,775,490,88,94,103,628,2106,3,318,163,588,58,40,274,303,27
+Entitlements	14434
+Entity	1613,113,165,1373,436,730,88,342,3,27,6,176,72,3,153,41,473,254,355,9,514,775,490,88,94,103,628,2106,3,318,163,588,58,40,274,303,27,1520
 Entity Account	11233
 Entity Accounts	11233
 Entity Accounts. A. Review Procedures	11233
 Entity ICT	6432
+Entity Lender FY	14546
 Entity Level Incompatibilities	12360
 Entity List	9015,1429
 Entity Name	12400
 Entity Name Self-funded	11230
+Entity No. of Un-Utilized Services Kenya Forest	14546
 Entity P	8606
 Entity Registration Number	6121
 Entity Success Indicator	12512
@@ -739,8 +757,10 @@ Entity's Legal Registration	12400
 Entity's Profile	12400
 Entity-profile	6153
 Entity. ISRE	10793
-Entité	10876,1068,1498
-Entités	10876
+Entité	10876,1068,1498,1046,1,1
+Entité Responsabilité Bureaux	14488,1,1
+Entités	10876,3553
+Entités Membres	14438
 Entités Publiques	10981
 Entités des Nations Unies	13547
 Entièrement	3687,1008,2679,4410,2016
@@ -766,11 +786,12 @@ Entrando	12075
 Entrants	11131,3,2308
 Entrants Shake Up Competition	3625
 Entrar	11898
-Entrave	142,10734
+Entrave	142,10734,3548,1
+Entrave Est	14412
 Entraver	13719
 Entraînement	1231
 Entraîner	8876
-Entre	12,725,953,11,295,299,58,351,112,35,308,237,98,57,7,80,402,3,92,152,99,73,119,95,124,225,49,86,152,134,12,7,5,245,26,236,4,263,87,32,155,80,107,175,118,102,177,45,252,32,64,163,129,9,244,45,58,57,193,68,25,63,8,68,10,20,28,24,12,62,31,81,34,49,120,10,42,37,144,193,430,42,9,15,159,4,28,8,51,28,19,64,54,6,31,110,8,17,5,39,55,99,97,300,2,14,6,12,26,5,36,6,29,3,5,27,4,15,7,8,47,8,16,136,11,149,74,21,103,659,41,12,446,25,65,43,97,38,58,589,99,28
+Entre	12,725,953,11,295,299,58,351,112,35,308,237,98,57,7,80,402,3,92,152,99,73,119,95,124,225,49,86,152,134,12,7,5,245,26,236,4,263,87,32,155,80,107,175,118,102,177,45,252,32,64,163,129,9,244,45,58,57,193,68,25,63,8,68,10,20,28,24,12,62,31,81,34,49,120,10,42,37,144,193,430,42,9,15,159,4,28,8,51,28,19,64,54,6,31,110,8,17,5,39,55,99,97,300,2,14,6,12,26,5,36,6,29,3,5,27,4,15,7,8,47,8,16,136,11,149,74,21,103,659,41,12,446,25,65,43,97,38,58,589,99,28,81,125,1,70
 Entre Mortalité	13300
 Entre Ousmane Fall	11745
 Entre-temps	4226
@@ -799,8 +820,8 @@ Entrent-elles	10190
 Entreposage	8719
 EntreprenHER	12613
 Entreprenariat	1247,461,6561,5056,521
-Entreprendre	12,8666,4623
-Entrepreneur	437,810,6769,299,522,1599,3025
+Entreprendre	12,8666,4623,1238
+Entrepreneur	437,810,6769,299,522,1599,3025,1027,1,1
 Entrepreneur Journey	3907
 Entrepreneur Strive Masiyiwa	225
 Entrepreneur Support Organizations	1264,12969
@@ -819,7 +840,7 @@ Entrepreneurs	415,622,2559,932,1272,1673,991,509,449,176,427,798,140,1,890,9,68,
 Entrepreneurs BongoHive	9198
 Entrepreneurs X X	12376
 Entrepreneurs of Youth	12512
-Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13,412,39
+Entrepreneurship	396,396,148,18,94,1041,2055,30,763,499,3110,578,109,123,63,570,848,128,888,6,21,1,6,4,36,9,219,1,45,146,4,1,131,555,58,9,186,63,10,106,13,412,39,656
 Entrepreneurship Agro-entrepreneurship	10841
 Entrepreneurship Development	940
 Entrepreneurship Development Centre	3253
@@ -849,17 +870,56 @@ Entrepreneurship and Innovation OBJECTIVE	12453
 Entrepreneurship and Skills Acquisition Disparities	6948
 Entrepreneurship. Market	11356
 Entreprenuership and Income Generating Activities	940
-Entreprise	737,1739,1983,3196,410,122,1295,1330,63,149,543,377,1362,84,134,257,28
+Entreprise	737,1739,1983,3196,410,122,1295,1330,63,149,543,377,1362,84,134,257,28,674,5,1,1,171
+Entreprise Affichage	14490
+Entreprise Aménagement	14489,1
+Entreprise Assurer	14488,1,1
+Entreprise Avant	14488
+Entreprise Bureau	14488
 Entreprise CITI	10874
+Entreprise Conflits	14488,1
+Entreprise Conflits Consultations	14490
+Entreprise E P	14489
 Entreprise EDEN TiiiT	4989
+Entreprise Enregistrement	14488,1,1
+Entreprise Existence Aménagement	14489
 Entreprise Gouvernementale	13751
+Entreprise Inclus	14489,1
+Entreprise L'EPI	14489
+Entreprise L'entrepreneur	14489,1
+Entreprise MdC Inclus	14488,1,1
+Entreprise Mise	14488,1,1
+Entreprise Nettoyage	14489,1
+Entreprise Nombre	14489
+Entreprise PGES- CENTRE DE PERSONALISATION DES	14490
+Entreprise PV	14488,1
+Entreprise Phase Préparatoire Enregistrement	14488
+Entreprise Plaintes	14488
+Entreprise Programmes	14488
+Entreprise Propagation	14488,1
+Entreprise Registre	14490
+Entreprise Remise	14490
+Entreprise Sensibilisation	14488,1,1
 Entreprise Software Solutions	2258
+Entreprise Spécialiste	14489
+Entreprise Séance Avec	14488,1
+Entreprise Tous	14489,1
+Entreprise Tout	14489
 Entreprise Traitement	10821
+Entreprise Une	14490
+Entreprise Violence Contre	14488,1
+Entreprise des Inclus	14488,1,1
+Entreprise des Phase	14488,1,1
 Entreprise du CNP	10367
 Entreprise du Conseil	10367
-Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110,281
+Entreprise le COVID-19	14488,1,1
+Entreprise. Article	14488,1,1
+Entreprise. Elles	14488,1,1
+Entreprise. L’Entreprise	14488,1,1
+Entreprises	737,28,4957,206,1418,1545,867,235,667,1274,1391,65,110,281,627,55,26,1
 Entreprises LORYNE	3989
 Entreprises M. Patrice Kiemde Directeur	10812
+Entreprises Mise	14488,1,1
 Entreprises Publiques	2342,9901
 Entreprises Publiques Audiovisuelles Comoriennes	13781
 Entreprises Publiques. Leur	2342
@@ -868,11 +928,12 @@ Entreprjse	13781
 Entrer	13375
 Entretanto	1861,955,2576,2730,303,250,1650,427,25,792,449,49,10
 Entretenir	1005
-Entretien	2443,71,842,1539,1994,1959,154,184,1690,24,800,1935
+Entretien	2443,71,842,1539,1994,1959,154,184,1690,24,800,1935,790,63,1,1
 Entretien Emprunt Camp Minawao Hors Camp	10841
 Entretien Exclusif	5022
 Entretien Routier	2342,1907
 Entretien Suivez Le Grand Entretien Avec	5022
+Entretien de Infrastructure	14489,1
 Entretiens	1942
 Entrevista	2345,607,7802,611,204
 Entrevista Assistida	10757,659,5,156
@@ -881,13 +942,14 @@ Entrevistados	10777
 Entrevistas	8850,1927,610,170
 Entrevistas de Revisão	10777
 Entrevue	13736
-Entries	226,6197,1239
+Entrevues	14425
+Entries	226,6197,1239,6745
 Entrons	3157
 Entropy	8606
 Entrust	2390,913,727,746,717,385,88,3936
 Entrust and Hyf	4985
 Entrusting	13312,2
-Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78,256,3,339,52,288,67,240,174,192,1,774,649
+Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78,256,3,339,52,288,67,240,174,192,1,774,649,455
 Entry Distribution Price	1828
 Entry Exit System	1525
 Entry Number	12338
@@ -895,9 +957,9 @@ Entry Patio	11134
 Entry Point	12761
 Entry Point for U.S.-Africa AI Partnerships	6790
 Entry Stop List Means	11986
-Entry-level	6593,1518
+Entry-level	6593,1518,6563
 Entry-level Printers TBA	1988
-Entrée	1214,1128,6455,2039,1173,1282,233
+Entrée	1214,1128,6455,2039,1173,1282,233,1013
 Entrée Memling	10400
 Entrée2	2342
 Entrées	10876
@@ -978,8 +1040,11 @@ GOK Entities CSPs CAC Entities	6432
 GOK Entities CSPs Compliance	6432
 GOK Entities CSPs Entities	6432
 GOK Entities CSPs Identify	6432
+GOVERNANCE ARCHITECTURE Enterprise Architecture Governance	14441
 GOVERNM ENT GAZETTE	11180
+GOVERNMENT ENTERPRISE ARCHITECTURE	14441
 GOVERNMENT ENTITIES AND LARGE UNREGISTERED PERSONS	12624
+GOVERNMENT INVESTMENTS AND PUBLIC ENTERPRISES	14546
 GOVERNMENT OF LESOTHO ENTERPRISE ARCHICTURE	12673
 GQ. Entre	8554
 GSMA Intelligence Enterprise	6593
@@ -1007,11 +1072,14 @@ Gov Entity for PS Innovation I-47	10785
 GovTech Entity I-33	10785
 Government Cloud and Enterprise Service	359
 Government Digital Entrepreneurship and Innovation	12453,892
-Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379
+Government Enterprise Architecture	963,321,3780,1294,2250,236,3108,1379,1110,84
 Government Enterprise Architecture Framework	5994
 Government Enterprise Service Bus	4612,140,8584,10,977
 Government Enterprise and Empowerment Programme	5267
+Government Entities	14546
 Government Entities and Large Unregistered Persons	12624
+Government Investment and Public Enterprise	14546
+Government Investment and Public Enterprises	14546
 Government Platform EA Enterprise Architecture EAF	12359
 Government Wide Enterprise Architecture MoU Minimum	11986
 Government of Lesotho Enterprise Architecture	12673
@@ -1069,6 +1137,7 @@ INACOM. Entretanto	6798
 INT. ENTRADA	11574
 INTERACTION ENTRE LE MDENI ET L'ENSEMBLE	13846
 INTIC Consulting Entity	3058
+INTRODUCTION The Government Enterprise	14441
 IRA Entre	10777
 IRPC Entidades	12018
 ITI. O Memorando de Entendimento	12810
@@ -1079,8 +1148,10 @@ Identifier MPQ NDoH Integrating the Healthcare Enterprise	1009
 Identifying Entity Accounts With Respect	11233
 IgniteHer Bootcamp for Women Entrepreneurs	9576
 Implementing Entities	12356
+Implementing Entity	14448
 Implied Enterprise	4896
 Importance of Digital Entrepreneurship	13312,2
+Included the Birth Entry Number	14655
 Inclusive and Diverse AI Start-up and Enterprise Ecosystem	1814
 Index ESB Enterprise Service Bus FISP	13345
 Individual Enterprise	12483
@@ -1116,6 +1187,7 @@ Intervalos Entre	10777
 Introduction Entrepreneurship	12376
 Investment Entity	11233
 Investment Facilitation Unit ERP Enterprise Resource	12717
+Investment and Entrepreneurship	14645
 Ipumbu Shiimi Minister of Finance and Public Enterprises	12951
 Islamic Small and Medium-sized Enterprises	10965
 Italian Ministry of Enterprises and Made	3353
@@ -1133,7 +1205,7 @@ Journal of Enterprise Africa	9129
 Journal of Small Business and Enterprise	9129
 KPIs. GCSPs Entities CAC Entities	6432
 KRA Enterprise Resource Planning	1835
-Kenya Health Enterprise Architecture	2709
+Kenya Health Enterprise Architecture	2709,11740
 Kenya Health Enterprise Architecture Blueprint	10641
 Kenya's Trust Framework. Entities	5325
 Kenya. Enterprises	3300
@@ -1190,6 +1262,8 @@ MUST SELECT A LEAD ENTITY	11240
 Machine Learning and Robotics Enthusiast	13074
 Macroeconomic Conditions The Integrated Business Enterprise	12445
 Madagascar Entreprise Accédez	9482
+Madagascar Formal Sector World Bank Enterprise	14576
+Madagascar. Entre	14622
 Making Entrepreneurial Citizens	226
 Malaika Entreprise Sarl Traitement	10821
 Malien. Entendre	6959
@@ -1208,7 +1282,7 @@ Medium Enterprise Nigeria Health Sector Renewal	11468
 Medium Enterprise SMME Small Medium-Micro Enterprise	11250
 Medium Enterprise SRMI Sustainable Renewables Risk	11549
 Medium Enterprise TSC Teachers Service Commission	7548
-Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321,699,72,39,270,93
+Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128,1321,699,72,39,270,93,1072
 Medium Enterprises Development Agency	13256
 Medium Enterprises Government Institutions Citizens X	12376
 Medium Enterprises MS Microsoft NACIT National	12917
@@ -1268,7 +1342,7 @@ Motivo da Migração Entre	10777
 Moyenne Entreprise NTIC Nouvelles Technologies	11944
 Moyenne Entreprise PTF Partenaire Technique	11944
 Moyenne Entreprise Produit National Brut Programme	13290
-Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382
+Moyennes Entreprises	2312,421,1687,178,2508,549,3310,979,1446,382,711,66
 Moyennes Entreprises Ivoiriennes	7891
 Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
 Moyennes Entreprises Recensement Général	13390
@@ -1282,6 +1356,7 @@ Ménages Entreprises Etablissements de Crédits	13390
 N S Entity	10829
 NAFIR. Entity	5267
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
+NATIONAL ENERGY ENTITIES	14422
 NDPA. Entities	12232
 NITDA Takes Over Nigeria Government Enterprise	5560
 NPS Bill. Entry	3318
@@ -1353,11 +1428,13 @@ PDS. Should the Procuring Entity	1638
 PDS. The Procuring Entity	1638
 PERFORMANCE PRÉVISIONNELLE DES ENTREPRISES PUBLIQUES EN	2342
 PFMA Provisions for Public Entities	11250
+PGES Entreprise. Ils	14488,1,1
 PIU Government Enterprise Architecture and MINCOTIM	13331
 PONTOS DE ENTRADA	11376
 POR ENTIDADES PRIVADAS	11384
 POR ENTIDADES PRIVADAS Artigo	11901
 PORTE FEUILLE A RISQUE POUR ENTREPRISES	13390
+POUR ENTREPRISE EN VERSION MALAGASY ANNEXE	14490
 PROCESSES Enterprise Assets Management	11231
 PROPERTY ENTITY	4896
 PUBLIC ENTERPRISES	12951
@@ -1374,12 +1451,14 @@ Palais du Peuple. Entreprises	10531
 Paymentology Enters the Middle East’s Digital Payments	7156
 Payments Switch SME Small and Medium-sized Enterprise	12444
 Pelos Serviços Locais da Entidade Gestora da Protecção	11433
+Pendant la Entreprise Inclure	14488,1,1
 Percentage of Immediately Notifiable Diseases Entered	11912
 Performance Enterprise	11134
 Performance des Entreprises Publiques	2342
 Personal Computers Entities	6432
 Petite Entreprise	8891
 Pharmacy Entire Initial	9855
+Phase Entretien de Pérennité	14488,1,1
 PoE Port of Entry TRA Threat and Risk	11986
 Points of Entry	11590
 Pontos de Entrada	11376
@@ -1407,6 +1486,8 @@ Program Document for First State-Owned Enterprises Reform	11909
 Programme. La Entité	10876
 Project Implementing Entity	1228,9540,792
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
+Projet BE Entreprise ANNEXES	14489
+Projet BE Entreprise Assurer	14489,1
 Projet Entreprenariat Agro-Pastoral	13630
 Promoting Innovation and Entrepreneurship	12973
 Promotion of Young Entrepreneurial Innovation	10841
@@ -1444,6 +1525,7 @@ Public Register of Testing Entities and Certified Software	5665
 Public Sector Innovation Entities	10785
 Public Sector Innovation Entity	10785
 Publications Join Our Newsletter Enter	12361
+Période Responsables Entreprise Existence Aménagement	14488
 Qantev Software Tunisian Entrepreneur Safi Negra	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Qualifying Small Enterprises	11209
 Questionário de Entrevistas de Agregados Familiares	10777
@@ -1455,6 +1537,7 @@ RECENSEMENT GÉNÉRAL DES ENTREPRISES	10875
 REGEC for Recensement General des Entreprises du Congo	1828
 REGULAMENTO TÉCNICO DE ENTREGA DE DADOS	11405
 RELATED ENTITIES	11955
+RELATION ENTRE UN ETABLISSEMENT DE MONNAIE	14417
 RELAÇÃO ENTRE TRÁFEGO GLOBAL FATURADO	11531
 REPORTING ENTITY NATURE OF BUSINESS	1154
 REPUBLIC OF GHANA ENTITLED	587
@@ -1468,6 +1551,7 @@ Recovery Plan ERP Enterprise Resource Planning	13420
 RedHat Enterprise Linux	12868
 Redefining Enterprise Operations The Twoobii-OneWeb	13225
 Regional Entrepreneurship Acceleration Programme	12589
+Registering Entity	14524
 Registo de Entidades Legais	12169
 Registration of Companies and Other Business Entities	13311
 Registration of Entities	11493
@@ -1486,6 +1570,9 @@ Required. For Pre-existing Entity Accounts	11233
 Responsabilidade da Entidade Reguladora	576
 Responsabilité Sociale des Entreprises	839
 Responsabilité Sociétale des Entreprises	839
+Responsables Coût Entreprise du Au	14488
+Responsables Entreprise	14490
+Responsables Entreprise Séance	14490
 Responsibilities of Government Entities Participating	3815
 Responsibilities of Licensed Entities	5665
 Responsibilities of Public Entities	6432
@@ -1493,6 +1580,7 @@ Responsible Entity	12448
 Review of Pre-existing Entity Accounts	11233
 Review. A Pre-existing Entity Account	11233
 Reviewed the Export Credit and Small-Scale Enterprise Loan	11134
+Role of Enterprise Architecture	14441
 Roteiro Entrevistas	11569
 Rural Enterprises Programme	11032
 Rwanda Enterprise	9124
@@ -1523,6 +1611,7 @@ SOE State-Owned Enterprise I. INTRODUCTION	13060
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
 STATE ENTERPRISE RESTRUCTURING AGENCY	13420
 SUBSECÇÃO IV Entidades	6970
+SUPPORTING ACCESS TO FINANCE AND ENTERPRISE	14546
 SUPPORTING AI-BASED INNOVATIONS AND NEW ENTERPRISES	14004
 Sasa Lifestyle Technology Entertainment Society Fashion	9646
 Scale Enterprise Loan Guarantee Scheme Strategic	11134
@@ -1551,6 +1640,7 @@ Sized Enterprise SSC Social Security Commission	12923
 Skills Development and Enterprise Development	5808
 Small Enterprise Development Finance Agency	8458
 Small Enterprise Development and Finance Agency	13269
+Small Enterprise Development and Finance Agency. Mamor	14708
 Small Enterprises	10980
 Small Enterprises Development Company	9157,40,108,118,3649
 Small Medium Enterprise	12400
@@ -1562,7 +1652,7 @@ Small and Medium Enterprise	2775,5683,3898,600
 Small and Medium Enterprise Development	13391,294
 Small and Medium Enterprise Development Corporation	13122
 Small and Medium Enterprise Development and Infrastructure	1778,210
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81,134,1217,30,189,37,184,34,22,144,190,2,129,242,339,175,347,101,27
 Small and Medium Enterprises Development	940,6496,825,3041,2289,82
 Small and Medium Enterprises Development Agency of Nigeria	11309,2890
 Small and Medium Enterprises Development FOREWORD My	13391
@@ -1627,7 +1717,7 @@ State-Owned Enterprise Governance	13868
 State-Owned Enterprise Great Horn Investment Holding	13868
 State-Owned Enterprise Reform Task Team	11131,3
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
-State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183
+State-Owned Enterprises	6071,1624,2374,82,475,505,3,90,1374,370,92,625,183,678
 State-Owned Enterprises Commission	4543
 State-Owned Enterprises Reform	13685
 State-Owned Enterprises SONA State	11197
@@ -1688,6 +1778,7 @@ Trend of Business Enterprises	12445
 Trial- Enthusiastic	12214
 Très Petites Entreprises	8891
 Type of Entity	12400
+UGP Entrevues	14425
 UJ Connect Entrepreneurship Training and Mentorship	7652
 UN Sustainable Development Goals. Entities Joint	3583
 UNDP Supports Young Cameroonian Entrepreneurs	10841
@@ -1700,6 +1791,7 @@ University of Botswana Enters VR Space	5852
 Unlocking the Promise of Entrepreneurship	7548
 Unlocking the Promise of Social Entrepreneurship	11883
 Unlocking the Promise of Social Entrepreneurship. Geneva	11883
+Unreliable Enterprise Resource Planning System	14546
 Urbana Rural Total Entrevistas	10777
 Use of Entity Resolution	11156
 User and Entity Behaviour Analytics	11231

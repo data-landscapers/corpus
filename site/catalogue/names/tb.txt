@@ -37,6 +37,7 @@ II. TB	4260
 Ic Georgia Asia Western Asia Tbilisi	10840
 Improving TB	10784
 Indicators RESULT FRAME TBL PD O Indicator Name	10829
+KENYA WITH TB	14546
 KoN and TB	771
 Label of ZRCP TBA	1988
 Laboratory Commodity TB Lab Commodities HIV	4217
@@ -44,6 +45,7 @@ Le TBFS	737
 Lesotho TB National Prevalence Survey	12678
 MW Equinix TBD Abidjan In Construction	10861
 MW TBD Abidjan	10861
+Malaria TB and HIV	14546
 Manage the WTO TBT	13320
 Material Specifications ZRCP TBA and Cost	1988
 Mid-range Printers TBA TBA	1988
@@ -80,6 +82,7 @@ S-Annual TB	4301
 SADC Trade Protocol TBT	13320
 SADC Trade Protocol TBT Annex	13320
 SPS and TBT	11149
+SRMNIA SSP STAR TAB TAS TB	14622
 Service du Transport du Burundi TBM	13377
 Sexually Transmitted Infections TB	10776
 Significant TB	13163
@@ -109,6 +112,7 @@ TB Multisectoral Accountability Framework	12729
 TB NVMe Gen	13185
 TB NVMe SSDs	13185
 TB National Strategic Plan	10776
+TB Prevention	14434
 TB RAM	12253
 TB SAS	12681
 TB SAS Drive Primary Communication	9475
@@ -122,12 +126,13 @@ TB Treatment Success	12922
 TB Tuberculosis UHC Universal Health Coverage	12729
 TB Tuberculosis WHO World Health Organization	771
 TB and ART	12976
-TB and HIV	3385,768,175,834,7567
+TB and HIV	3385,768,175,834,7567,1817
 TB and TB	12729
 TB and TB Acceleration Plan	12729
 TB-10TB	5665
 TB-HIV	12922
 TB-MAF	12729
+TB-Paludisme	14622
 TB-Rx Completed	12977
 TB-burdened	12678
 TB-negative	12678
@@ -135,6 +140,7 @@ TB-positive	12678
 TB-related	12678,244
 TB. Approximately	12395
 TB. CAD4TB	12678
+TB. Cependant	14622
 TB. Malaria	4349
 TB. Prevention	4260
 TB. Still	12678
@@ -180,7 +186,7 @@ Target RESULT FRAME TBL PD O Indicator	13331
 Taux Brut de Mortalité TBR	13377
 Tb Capacity for Backup. Production	11209
 Tbilisi	12413
-Tbits	5138
+Tbits	5138,9307
 Tbps BB	10995
 Tbps Peak Traffic Handled	13704
 Tbps Sample Ghana	3184

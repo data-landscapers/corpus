@@ -28,7 +28,7 @@ AU AI Policy	12210
 AU AI Strategy	5789,1758
 AU AI Working Group	5302
 AU Africa Union B2B Business-to-Business BATNA	1243
-AU Agenda	1388,426,597,4586,681,5081,216,1064
+AU Agenda	1388,426,597,4586,681,5081,216,1064,472
 AU Agenda and EAC Vision	12403
 AU Artificial Intelligence	1257
 AU Assembly	5141,1228,773,7088
@@ -38,6 +38,8 @@ AU BOUCLE D'UTILISATION DES DISPOSITIFS D'ÉPARGNE	13390
 AU BURKINA FASO Juillet	1801
 AU BURUNDI	13324
 AU BURUNDI Le PNDIS II	13306
+AU Better Integrated Border Governance Strategy	14511
+AU Border Programme	14511
 AU CAMEROUN	10965
 AU CAMEROUN..........................................29	10965
 AU CAPITAL DE LA SIACE	2342
@@ -54,35 +56,39 @@ AU Child Online Safety and Empowerment	1597
 AU Child Online Safety and Empowerment Policy	1814
 AU Climate Change and Resilient Development Strategy	1264
 AU Code	13739
-AU Commission	961,282,21,333,217,108,1136,1065,969,137,596,544,767,393,663,1277
+AU Commission	961,282,21,333,217,108,1136,1065,969,137,596,544,767,393,663,1277,5195
 AU Commission Chairperson	5302
 AU Commission Chairperson Mahmoud Ali Youssouf	11817
 AU Commission and Huawei	5302
+AU Commission and Smart Africa	14664
 AU Commission and UNECA	7529
 AU Commission. The Agreement	2117
 AU Commissioner for Infrastructure	7326
 AU Commissioner for Infrastructure and Energy	7326
 AU Commissioner for Political Affairs	7794
 AU Continental AI	12210
-AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700
+AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700,2454
 AU Continental AI Strategy Phase	6937
+AU Continental AI Strategy and AU Data	14664
+AU Continental AI Strategy and Smart Africa	14664
 AU Continental Artificial Intelligence Strategy	4734,1091,469,659,1160
 AU Continental Data Policy Framework	1779,6142
 AU Continental Data Policy Framework. DPC	1779
 AU Continental Harmonization Strategy	1264
 AU Continental Strategy	3859
 AU Continental Strategy for SDM	1264
-AU Convention	318,643,1,238,43,21,550,868,347,133,421,3409,556,3172,1481,93
+AU Convention	318,643,1,238,43,21,550,868,347,133,421,3409,556,3172,1481,93,2140,77
 AU Cyber Security Strategy	961,2201
 AU Cybersecurity and Data Protection Convention	5244
 AU CŒUR DES TRAVAUX Deux	10996
 AU DEVELOPPEMENT ECONOMIQUE	13303
+AU DPF	14486
 AU DTS	1264
 AU DTS for Africa	1264
 AU DU OS JUIN	13781
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335,116,892,394,23,1006,178
 AU Data Policy Framework AU Convention	12055,1402
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
@@ -93,6 +99,7 @@ AU Data Policy Framework. African Union	1243
 AU Data Policy Framework. Agency	3595
 AU Data Policy Framework. Based	1243
 AU Data Policy Framework. Sierra Leone	2118
+AU Data Policy Framework. Specifically	14486
 AU Declaration	12201
 AU Declaration of Principles	769
 AU Delegation	12977
@@ -109,6 +116,8 @@ AU Digitalisation Transformation Strategy	1257
 AU EMIS Norms and Standards	13629
 AU Election Observation Mission	5236
 AU Executive Council	961,853,1348,961,611,3354,104,1430,2205,1236,417,648
+AU FOND	14459,41,110
+AU FOND Sur	14543
 AU Framework for Digital Education	13991
 AU Gender Strategy	11193
 AU HQ	11283
@@ -131,7 +140,7 @@ AU MOINS UNE FOIS PAR SEMAINE	13300
 AU MOINS UNE PARTENAIRE AUCUNE PARTENAIRE	13300
 AU MOMENT DE LA VISITE	13300
 AU Malabo Convention	1000,3204,220,210,891,901,566
-AU Member States	961,282,571,2309,1121,1227,2691,3901,417,511,147
+AU Member States	961,282,571,2309,1121,1227,2691,3901,417,511,147,348,178
 AU Member States International Fora	961
 AU Member States Structures PHASE	961
 AU Member States and Regional Organisation	961
@@ -145,6 +154,7 @@ AU Pan-African AI Compute Grid	6690
 AU Peace and Security Council	4535
 AU Portant	13710
 AU Portant Organisation	13707
+AU Procurement Guidelines. Please	14486
 AU Protocol	5878,1800
 AU Regional Internet Exchanges Initiative	578
 AU S- AAGBER	582
@@ -159,7 +169,8 @@ AU Special Envoy Strive Masiyiwa	560
 AU Specialized Institutions	1243,571
 AU Specialized Technical Committee	4103
 AU Strategic Partnerships	1814
-AU Strategy	1243,571,4227,1488,3606
+AU Strategy	1243,571,4227,1488,3606,3529
+AU Strategy and UNESCO Recommendation	14664
 AU Strategy for Gender Equality and Women’s Empowerment	1814
 AU Summit	1243,354,2834,3098,4563,1983
 AU Summit. Stakeholders	14230
@@ -216,6 +227,7 @@ Africa AU African Union CSO Central	13310
 Africa. AU Member States	1814
 Africa. Au	14363
 African Digital Compact The AU Commission	1775
+African Telecommunications Union AU African Union	14674
 African Union AU Strategy	1243
 African Union Heads of State. The AU	6369
 African Union The AU Data	6520
@@ -223,6 +235,7 @@ Agence Au	10975
 Agile Regulation for Digital Transformation AU African	1264
 Algérie. Au	10688
 Ambassadeur Edouard Au	13405
+Amicale AU FOND	14416
 Aminata Zerbo Sabané. Au	7916
 Annexe 2 au decret 2021-916 du 22 decembre 2022 PPIC-1.pdf	10906
 Architecte-Urbaniste. Au	8321
@@ -295,6 +308,7 @@ CSD Au	13452
 CYBERCRIMINALITÉ AU BURUNDI Le Président	13330
 Cadastre. Au	10902
 Cameroun Au	3658,2617,145
+Chef-lieu de District. Au	14423
 Chinese-built AU HQ	5302
 Collines. Au Burundi	13300
 Colonel Sidi Sadio DIALLO. AU TITRE	8237
@@ -333,6 +347,7 @@ DU DROIT AU BAIL	13293
 DU PROJET WISER ACTION FIRST AU	13613
 Deal Technologique. Au	7852
 Digital ID and AU Data Policy Framework	1243
+Direction Territoriale Antananarivo Au	14450
 Djougou. Au	2354
 Djôrô. G. AU TITRE DU MINISTERE	7670
 Dosso. Au	998
@@ -340,7 +355,7 @@ Dr. Amani Abou-Zeid AU Commissioner	961
 Droit Au Burundi	13325
 DÉCLARATION DE CONSENTEMENT AU	13300
 DÉVELOPPEMENT DU JEUNE ENFANT Au	13300
-Définitions Au	11139
+Définitions Au	11139,3324
 D’UNE ACTIVITE DE COMMERCE ELECTRONIQUE AU	13652
 E-learning du COFEB. Au	10237
 E. AU TITRE DU MINISTERE	7670,651
@@ -366,6 +381,7 @@ Eneo Au	10975
 Eneo. Au	10975
 Energy V ACKNOWLEDGEMENTS The AU Data	961
 Enforce AU	3583
+English and AU Member State	14486
 Enseignant-chercheur. Au	8321
 Ensure AU Member States	1814
 Environment. The AU Commission	1257
@@ -408,6 +424,7 @@ I. DELIBERATIONS I.1. AU TITRE	7670
 I.1. AU TITRE DU MINISTERE	5826,2495
 I.10. AU TITRE DU MINISTERE	8321
 I.11. AU TITRE DU MINISTERE	8321
+I.2- EVOLUTION DES INDICATEURS AU PREMIER	14548,71
 I.2. AU TITRE DU MINISTERE	3044,145,4481,651
 I.3. AU TITRE DU MINISTERE	7670
 I.3. AU TITRE DU MINISTERE DES	8321
@@ -453,6 +470,7 @@ Kinshasa. Au	10291
 LA POSTE Au Burundi	13390
 LE TEST D'ANÉMIE AU PARENT	13300
 LE TEST DE PALUDISME AU	13300
+LECTRONIQUES CERTIFIEÉES AU MOYEN DES SYSTEMES	14469
 LISEZ AU PASSÉ UNE FEMME UNE	13300
 LISEZ AU PASSÉ VIVANT AVEC UN	13300
 LIST OF ABBREVIATIONS AU	12403
@@ -471,14 +489,17 @@ L’OFFRE DE SERVICES FINANCIERS Au	13390
 L’UEMOA AU TITRE DE L’ANNÉE	4459
 M. Mathias TRAORÉ. Au	5304
 M. Moustoifa Hassani Mohamed. Au	13812
+MATIÈRE D'INVESTIGATION Au	14450
 MESURE INDIVIDUELLE Au	2808
 MESURES INDIVIDUELLES Au	3045
 MPME Au	13549
+Madagascar. Au	14548,71
 Mairie de Bujumbura. Au	13390
 Malabo Convention and AU Data Policy Framework	1814,4657
 Maroc Au	8891
 Maîtrise des Effectifs Au	10975
 Media and Information Literacy Policies of AU Member	1814
+Mission de Au	14489
 Mme Aïssatou Abdoulaye Tondi. Au	8227
 Monsieur Adama DIAWARA. Au	8269
 Monsieur Babacar NDIAYE. Au	8269
@@ -497,6 +518,7 @@ NUMERISATION DU PROGRAMME D’APPUI AU SECTEUR	13635
 Nacanabo. Au	1918
 Najda.tn. Au	5018,5189
 OECD and ASEAN. AU Convention	961
+OMS Madagascar PRÉFACE Au	14622
 OU SOEUR LISTÉ AU MOINS UN	13300
 OUI AU TABLEAU	13300
 OUI' AU MOINS UN	13300
@@ -512,6 +534,7 @@ PEACE. Au	14363
 PERSONNES AYANT PARTICIPE DANS L'ENQUETE AU	13390
 PORTANT ORGANISATION DU SYSTÈME STATISTIQUE AU	13323
 PRIDA and AU Agenda	3162
+PROTECTION POLICY ACRONYMS AU African Union	14434
 PRÉVALENCE DES CHIQUES Au	13300
 Paix. AU TITRE DU MINISTERE	8237
 Paludisme Au Burundi	13300
@@ -522,12 +545,15 @@ Pluriactivités Au	737
 Port Au Prince	10840
 Programming Interface AR Augmented Reality AU	7548
 Project. AU ESCP	1264
+Propriété du Au	14488,1,1
 Prosperous and Peaceful Africa AU DATA POLICY	961
 Province Au	13390
 Provincial Assembly AU African Union CAD	12201
 Président du Conseil. Au	9086
 Prévalence du VIH Au	13300
+Périodicité Au	14537
 Q52. Au	13390
+QR-code. Au	14573
 QUELQU'UN AU TRAVAIL	13300
 RAFFINAGE DE LA SIR Au	2342
 RAPPORT D'EXÉCUTION AU	2959
@@ -551,6 +577,7 @@ Raise AU Member States	1814
 Recent AU African Position	1814
 Relevant Continental Frameworks AU Digital Transformation	12055
 Requests the AU Commission	5825
+Responsables Coût Entreprise du Au	14488
 Régulation Technique Au	10975
 Réo. Au	6889
 République. AU TITRE DE LA COMMUNICATION	8269
@@ -565,6 +592,7 @@ SIROP. Au	13300
 SITUATION AU	3396
 SITUATION DES MARCHÉS JUGÉS INCERTAINS AU	3396
 SOLDE AU	998
+SOUTIEN AU PAYS	14622
 SPECIFIC ACTION Domesticate the AU Convention	1161
 SRO Au Burundi	13300
 SSIN S NOR D PLATE AU	10847
@@ -613,6 +641,7 @@ Union AUC AU Commission AWPB Annual	1264
 Urbain Rural Au	13300
 Uruguay. Au	10917
 V. AU TITRE DU MINISTERE	11597
+VI. THEORIE DU CHANGEMENT APPLIQUEE AU	14442
 VIETTEL. Au	13586
 VIH. Au Burundi	13300
 VOUS TROUVER EN PRIVÉ. Au	13300

@@ -178,6 +178,8 @@ BLocal	5349
 BLogic	5700
 BLoon	3782
 BLower	5349
+BLtcs	14479
+BLtcs DErrEs ADER Er ORE TAxEs	14479
 BLundvall	5700
 BLyytinen	5700
 BROAD-BASED BLACK ECONOMIC EMPOWERMENT	5533
@@ -196,7 +198,7 @@ Beyond Cell C Blu Label	11159
 Bill Blackie	9720,734,5
 Blaaiz	7577
 Blaauwberg Road	8999
-Black	34,719,453,58,99,634,535,1430,282,182,247,362,25,561,610,1002,218,985,563,740,742,246,413,69,2,51,412,293,391,405,163,698
+Black	34,719,453,58,99,634,535,1430,282,182,247,362,25,561,610,1002,218,985,563,740,742,246,413,69,2,51,412,293,391,405,163,698,1071
 Black Administration Act	11176
 Black African	2093,7035,2064
 Black African Coloured Indian	11192
@@ -246,6 +248,7 @@ Blacklisted	11240
 Blackout	4753
 Blackouts	10857,1501
 Blackouts Causes	12358
+Blacks Law	14460
 Blacks' Law Dictionary	10979
 Blackstone Group	12069
 Blackwell	11028
@@ -270,7 +273,7 @@ Blaming China	2857,3026,94
 Blanchard	7655
 Blanchet K	10881
 Blanchiment	2623,1504,7817,1781
-Blanchiment de Capitaux	13330,395
+Blanchiment de Capitaux	13330,395,824
 Blanco	1219
 Blanco R. Health	1219
 Blands	3782
@@ -282,7 +285,7 @@ Blank.svg	11140
 Blanket	9794,3183
 Blanket Licence	6891
 Blankets	13122
-Blantyre	446,1126,1716,61,1637,548,14,1261,461,2841,2,298,1670,93,7,6,27,27,12,116,415,131,2,48,13,1,1,60,13,7,4,16,3,4,8,45,45,1005,205
+Blantyre	446,1126,1716,61,1637,548,14,1261,461,2841,2,298,1670,93,7,6,27,27,12,116,415,131,2,48,13,1,1,60,13,7,4,16,3,4,8,45,45,1005,205,279
 Blantyre City	13080
 Blantyre City Council	5312,5286
 Blantyre Country	13185
@@ -314,6 +317,7 @@ Blantyre. Lilongwe	1632
 Blantyre. Malawian President Lazarus Chakw	483
 Blantyre. Part	12988
 Blantyre. Principal	13053
+Blantyre. Provides	14674
 Blantyre. Support	1704
 Blantyre. Typical	13191
 Blapleu	3317
@@ -330,9 +334,11 @@ Blaya J. Information	10784
 Blend IDA	11469
 Blended	6668,880,924,1023,264,1082,350,1208
 Blended ARPU	13344
+Blended Average	14707
 Blended Finance Facility	3470
 Blended Finance Scheme	11197,48
 Blended Learning	13077
+Blended USD ARPU Movement	14707
 Blending	2773
 Blerta Cela	6336,2559,160
 Blessed Nation. Mbangazitha	12955
@@ -377,6 +383,7 @@ Blobs	12360
 Bloc Républicain	4162,2130
 Blocage	2828,6737
 Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120,180,270,401,29,79,1098,214
+Block B	14455
 Block C	2776,9224,269,1,220,971,1
 Block Chain	2868,10478
 Block E	11285
@@ -392,6 +399,8 @@ Block T6	12256
 Block T7	12256
 Block Up Converter	6482
 Block Up Convertor	6946
+Block XVI and Mombasa	14654
+Block XVII	14654
 Block of Flats	11129
 Block-4c	3893,977
 Block-5	4557
@@ -458,6 +467,7 @@ Bloggers of Zambia- BloggersZM	9082
 Blogs	2816,2404,143,2938,4908,929
 Blogs Why WhatsApp	5220
 BlokXtech	12478
+Blomberg N	14666
 Blong-standing	4676
 Blood	10481,569,1927
 Blood Collection	2775
@@ -465,7 +475,7 @@ Blood Donation	12970
 Blood Donor	12977
 Blood System	4153
 Blood and Tissue Bank Services	14033
-Bloomberg	388,426,924,3,87,36,113,2,19,545,64,70,736,565,491,152,47,410,39,6,124,117,263,523,100,140,100,650,18,288,574,29,1011,556,13,2111,1516
+Bloomberg	388,426,924,3,87,36,113,2,19,545,64,70,736,565,491,152,47,410,39,6,124,117,263,523,100,140,100,650,18,288,574,29,1011,556,13,2111,1516,1386,31
 Bloomberg Authorities	7343
 Bloomberg Coronation	7343
 Bloomberg IN DEPTH	7343
@@ -521,7 +531,7 @@ Blu Penguin	3304
 Blu-X and C-Trade	6938
 BluDive Chief Technology Officer	11764
 Blue Access Ghana Limited	3386
-Blue Book	4101
+Blue Book	4101,10445
 Blue Book Estimates of Revenue and Expenditure	362
 Blue Cloud Softech	10518
 Blue Cloud Softech Solutions	10518
@@ -531,6 +541,7 @@ Blue Eagle Sacco Data Processor INST-522993FD0F6	7167
 Blue Earth Capital	1140
 Blue Economy	1257,9091,837,678,2404
 Blue Economy Department of Seychelles	10112
+Blue Economy and Fisheries	14546
 Blue Economy and Fisheries Ministry of Gender Equality	11332
 Blue Economy and Sustainable Environment	8192,1417,1674
 Blue Economy and Tourism	11863
@@ -576,11 +587,12 @@ Blueline Kennels Limited	7167
 Blueline Security Data Controller INST-488388D184C NAKURU	7167
 Blueline Security Data Processor INST-488388D184C NAKURU	7167
 Bluepony	3528,643
-Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149,936,903,142
+Blueprint	899,62,282,857,817,1209,700,537,1999,1762,1695,314,1008,69,149,936,903,142,226
 Blueprint Action Plan	635
 Blueprint Development Guidelines	12359
 Blueprint for Creating	11133
 Blueprint for Developing	11133
+Blueprint for Health Records Research	14434
 Blueprint for Mauritius	2771,785
 Blueprint for Public Sector Transformation Once	8367
 Blueprint for Success	9115
@@ -686,7 +698,7 @@ Delivering Multi-Functional Blue-Green Infrastructure	11006
 Department Resources Africa Blue Economy Accelator	11283
 Department of Agriculture Livestock and Blue Economy Data	7167
 Design Report’. Bluesquare	11133
-Digital Economy Blueprint	899,4211,2438,3102
+Digital Economy Blueprint	899,4211,2438,3102,3875
 Digital Equity This Blueprint	10819
 Digital Health Architecture Blueprint	3385,4322,3625
 Digital Health Architecture Blueprint and FHIR	3385
@@ -697,7 +709,7 @@ Digital Literacy Programme Blueprint. The DLP	899
 Digital Registries Building Block	6423
 Digital Registries Building Block Specification	6423
 Digital Registries Building Block. The Digital	6423
-Digital Transformation Blueprint	789,2128,1666,1203,8554,30
+Digital Transformation Blueprint	789,2128,1666,1203,8554,30,196
 Directorate of Sustainable Environment and Blue Economy	11283
 Dr. Blal Adem Esmail	14162
 Dr. Blessing Vava	14277
@@ -709,6 +721,7 @@ ECCE Guy Blaise NKAMLEU	13885
 ELTON JANGALE Partner PFI Partnerships Blantyre	12232
 Economia Blog	7881
 Economic Co-operation and BBBEE Broad-Based Black Economic	11193
+Economie Bleue	14622,40
 Eleanor Black and Robyn Richmond	571
 ElementPay Blaise Pascal Gasabira Leads Rwanda	6887,414
 Emirates International Investment Company. Blnk	4457,2071
@@ -798,6 +811,7 @@ KENYA Digital Literacy Programme Blueprint	899
 Kenya Digital Economy Blueprint	10819
 Kenya Digital Economy Blueprint. The BPS	5108
 Kenya Health Enterprise Architecture Blueprint	10641
+Kenya's Blue Economy	14615
 Kenya. BLK2	928
 Kinshasa. Blockchain	2795
 L'ANATOMIE D'UN BLOCAGE Fibre	7999
@@ -811,7 +825,7 @@ Libre Blanc	7649
 Lighthouse Reports and Bloomberg	6390
 Likoma and Blantyre Rural	13095
 Lilongwe Blantyre Mzimba Mangochi Dedza Kasungu	12214
-Lilongwe and Blantyre	12978
+Lilongwe and Blantyre	12978,1696
 Lilongwe. Blantyre Water Board	13030
 LinkAja. The Payment System Blueprint	11994
 Livre Blanc	3857,3792,1432
@@ -827,6 +841,7 @@ M. Blaise Miahumba Provincial MP	11916
 M2006110000844123 IMMO CONGO SA BLU MBAMOU	7346
 MACs. Blockchain	5244
 MISs A BLUEPRINT FOR CREATING	11133
+MITCI Blueprint	14566
 MP Blessing Makumire	9229
 MTN Ghana CEO Stephen Blewett	7491
 MUST’s Thyolo and Blantyre	4558
@@ -869,7 +884,7 @@ National AI Strategy and Data Centre Blueprint	14198
 National Data Value Creation Blueprint	7362
 National Digital Economy Blueprint	12210
 National Digital Health Blueprint	12004
-National Digital Transformation Blueprint	7244,4088
+National Digital Transformation Blueprint	7244,4088,3234
 National ICT Blueprint	5363
 National Strategic Blueprint	3456
 Network BIF Burundian Franc BLB Burundi	13312,2
@@ -894,6 +909,7 @@ Orange Orange AMS-IX Orange Bluesun DC	10861
 Ordnance Survey Blog. Prichard	12369
 Organize Blockchain Technology	12241
 Oxford Business Law Blog	8629
+P5-r2o0g2r9amme Blu Gove	14566
 PAGE WAS INTENTIONALLY LEFT BLANK	4896
 POSTAL SECTOR BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
 POSTAL SERVICE SECTOR BLACK ECONOMIC EMPOWERMENT	11211,51
@@ -933,6 +949,7 @@ Radio BLACK BINGO BUJUMBURA ENTERTAINMENT	13414
 Radisson Blu	7866
 Radisson Blu Hotel	3549,3712,5538
 Radisson Blu Hotel Abidjan Airport	6224
+Radisson Blu Hotel Antananarivo	14618
 Radisson Blu Hôtel	3242
 Radisson Blu de N'Djamena	10364
 Radisson Blu de N’Djaména	9142
@@ -1019,6 +1036,7 @@ Universal Pension Scheme A BLUEPRINT	11133
 University of Blida	2124
 Unstructured Data Blindspot	3279
 Using Blockchain	11559
+Vandalism's Devastating Blow	14674
 Veronika Blablová	8890
 View Related Blogs View All Niger	10358
 Village Capital and Hatch Blue	10464

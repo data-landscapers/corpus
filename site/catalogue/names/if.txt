@@ -56,6 +56,7 @@ First IFR	12595
 Fragmented IFMIS	12214
 G Capital and IFC	9079
 GCR GRF IFC IGAD ILO INSTAD	13938
+GDP.168 The IFC	14674
 GIT IFRS for SMEs ISAs LPG MNRE	12969
 GWAN ICT IFMIS INRIS ISMS ISP	12453
 Gambia. Supports IFMIS	166
@@ -74,6 +75,7 @@ IFAC International Federation of Accountant IFR Interim	11855
 IFAD International Fund for Agricultural Development	11887,266,1,9,178
 IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16,466,1,135
 IFAD International Fund for Agricultural Development ILO	10841
+IFAD LOAN NO	14546
 IFAD and World Bank	9650
 IFADÉlevage de Barkoissi	8303
 IFAL Instituto de Formação da Administração Local IPP	11390
@@ -143,7 +145,7 @@ IFC and Equity Bank Kenya	12297
 IFC and Equity Bank of Kenya Partner	12297
 IFC and Google	1243
 IFC and Governance and Financial Solutions	11380
-IFC and MIGA	2291,1313,7864,1,6
+IFC and MIGA	2291,1313,7864,1,6,3152
 IFC and MIGA. Recognizing	11469
 IFC and MIGA. The Government of Malawi	1704
 IFC and Proparco	516,1034,693
@@ -192,7 +194,7 @@ IFM de Niono	8577
 IFM de Sikasso	8577
 IFM de Ségou. Le Secrétaire	8577
 IFM-EFEP de Bamako	8577
-IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43
+IFMIS	34,78,15,31,8,155,105,110,214,250,284,6,99,189,205,1,1,2,2,1,1,1,2,1,2,37,278,1095,1,1009,1027,1188,107,549,1,459,100,339,3522,358,309,38,39,69,131,47,169,24,224,39,16,151,191,18,13,47,26,548,36,183,43,296,22
 IFMIS Academy About Academy Training Schedule	12322
 IFMIS Integrated Financial Management Information System	1284
 IFMIS National Treasury-IFMIS Offices IFMIS TEAM	12322
@@ -259,6 +261,7 @@ ISIQEPHU C IFOMU	11573
 Identity for Development IDN ID Number IFMIS	12663
 Ifakara	5783,1467
 Ifakara. Michael Joseph	7250
+Ifanadiana	14662
 Ife Central	10049
 Ife East	10049
 Ife North and Ife South. Team Six	10049

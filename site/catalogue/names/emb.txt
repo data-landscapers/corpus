@@ -2,6 +2,7 @@ A1 Intérprete Traductor Embajada A3 Jefe	4209
 A3 Recepcionista Embajada A3 Agregado Comercial	4209
 ACE. Embora	11569
 ADMINISTRATIVO EMBAJADA	4209
+AI Embed	14566
 Administrativo Embajada A1 Administrativo Embajada A2	4209
 Administrativo Embajada A2	4209
 Administrativo Embajada A3 Agregado Militar A1	4209
@@ -25,6 +26,7 @@ Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
 Centro. Embora	11569
 Chinese Embassy	5991,15,7168
+Classification Emballage	14423
 Comandante Embarcación	4209
 Company Embedded Generation Eswatini Energy Regulatory	12969
 Consular B1 Agregado Administrativo A1 Embajador	4209
@@ -40,6 +42,7 @@ Criado A2 Criado B2 Embajador A1	4209
 Czech Embassy	8947
 Czech Republic Embassy	8947
 DE LAS EMBAJADAS Y CONSULADOS Num	4209
+DEEE. Emballage	14423
 Danish Embassy	2714
 Data Controller INST-5125265A731 EMBU Kenya	7167
 Data Controller INST-880783E11F5 EMBU Kenya	7167
@@ -69,6 +72,7 @@ EMBU Kenya	7167
 EMBU Kenya Renewed	7167
 ES United States Embassy Eswatini	4247
 ESWATINI AND U.S. EMBASSY STRENGTHEN ECONOMIC	13213
+ETAPES PRETRAITEMENT ACTIVITES Emballage	14423
 Embaixada	3093,3744,3915,779
 Embaixada da Finlândia	10440
 Embaixada da França	414
@@ -106,6 +110,8 @@ Embajador Gran Canciller Jefe Económico	4209
 Embajador Internacional	4209
 Embajador Servicio	4209
 Embakasi South	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
+Emballage	14423
+Emballages	14488,1,1
 Embalmation	12496
 Embalo	11579
 Embalse	4209
@@ -118,7 +124,7 @@ Embarks	12639
 Embassies	13122,551
 Embassies and International Organisations	13954
 Embassies of France and Ireland	13156
-Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358
+Embassy	31,79,681,2166,1995,213,699,626,364,1032,881,34,61,114,253,955,408,610,432,30,344,184,86,223,476,146,128,107,59,23,69,282,358,327
 Embassy Abuja	4301
 Embassy Asmara	14045
 Embassy Kingdom	13358
@@ -139,12 +145,12 @@ Embassy of Sierra Leone	3950
 Embassy of Sweden	377,2870,8945,309
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638
-Embed AI	4126,402,2304,116,190,13,397,203,3405,1356
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7,796,447,638,1637
+Embed AI	4126,402,2304,116,190,13,397,203,3405,1356,2054
 Embed Accountability and Monitoring	11285
 Embed Ubuntu	4528
 Embed Video	6387
-Embedded	2477,2371,3191,565,2580,769,261,230
+Embedded	2477,2371,3191,565,2580,769,261,230,2011
 Embedded Autonomy	5700
 Embedded Chip Tech	13005
 Embedded Content Matters Consider	6542
@@ -159,12 +165,14 @@ Embeddedness	226
 Embeddedness Building	10865
 Embeddedness of Digital Labour	226
 Embeddedness of Digital Start-Ups	226
-Embedding	1777,5811,433,2985,269,1022,146,614
+Embedding	1777,5811,433,2985,269,1022,146,614,1544
 Embedding AI	6793,6856
+Embedding Artificial Intelligence	14566
 Embedding Open Data Practice	1243
 Embedding Protection	9766
 Embedding Shoprite	14385
 Embedding Trust and Security Across the Board Governance	7596
+Embedding the FAIR	14565
 Embiveni Biggest Braai	4866
 Embodied	5487
 Embora	2816,518,559,10,1199,2633,758,2273,11,599,11,7,42,12,75,39,7
@@ -185,6 +193,7 @@ Embracing OSH	6468
 Embracing Renewable Energy Over	11332
 Embracing the Power	12962
 Embracing the Power of Inclusive Data Towards	12962
+Embu. Plans	14546
 Embutidos	4209
 Eritrean Embassies	14045
 Eritrean Embassy	14030,15
@@ -208,6 +217,7 @@ German Embassy Representative Mr. Ulrich Thueer	7362
 German Embassy. Participation	11897
 German and Italian Embassies	14162
 Good Governance and Integrity Embracing	13347
+Google Satellite Embedding	14656
 Had the U.S. Embassy	10146
 Home Affairs Immigration Officers1 Embassy	12972
 Human Fertilisation and Embryology Act	13040
@@ -256,6 +266,7 @@ President Umaro Sissoco Embaló	11579
 Processor INST-12485011114 EMBU Kenya	7167
 Processor INST-1683148DE2C EMBU Kenya	7167
 Processor INST-2958721BF3D EMBU Kenya	7167
+Professionals Embedding	14566
 Recepcionista Consulado B3 Recepcionista Embajada A2	4209
 Recepcionista Embajada A1	4209
 Recepcionista Embajada A2	4209

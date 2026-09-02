@@ -92,6 +92,7 @@ MUTUALISATION INTERSECTORIELLE DES RES- SOURCES TIC	13306
 MW. Sources	10861
 Market Sources	11138
 Marketplace Review and Sourcing	11995
+Methods Sourcebook. Thousand Oak	14666
 Multiple Sources	13108
 NATURAL GAS AND OTHER THERMAL SOURCES	11366
 NAYALA Privé SOUROU	10847
@@ -99,7 +100,8 @@ NAYALA SOUROU	10847
 Nigeria'. Sources	11990
 Nov Dec Imports Nuclear Sources	11953
 Observations and Data Sources	13094
-Open Sources	14042
+Open Sources	14042,580
+Open Sources Epidemiological Monitoring Survey Fonctions	14622
 PV Sources Storage	11953
 Performance Assessment Report Template Indicators Sources	12500
 Performance Indicators Timefram Estimated Funding Sources	7548
@@ -143,7 +145,7 @@ SourceID	55
 SourceModified	5598
 Sourcebook	10985,171
 Sourced	3422,345,470,812,1885,415,2215,2229,1205
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32,61,460,55,37,260,25,89,4,43,1,224,155,27,37,33,254,287,3,139,53
 Sources A1- Disclosure	7548
 Sources AFRINIC	11812
 Sources AFRINIC Board Meetings and Resolutions	11813
@@ -160,6 +162,7 @@ Sources Develop	7548
 Sources NOG Alliance	11797
 Sources Process	9237
 Sources Publish	7548
+Sources Rapports	14537
 Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1,135
 Sources ZANOG	11796
 Sources and Acronyms	12152
@@ -209,6 +212,7 @@ Theory Origin Sources ITGov	9237
 Theory Origin Sources Ref	9237
 Transparency Under Scrutiny Sources	8835
 Underlying Observations and Data Sources	13094
+V. Sources	14437
 VAM Food Consumption Score Sources	10763
 VARIOUS SOURCES	14004
 ZRA. Funding Sources and Investor Networks	12376

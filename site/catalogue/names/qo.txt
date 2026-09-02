@@ -5,6 +5,8 @@ Bringing the QoS	10856
 Disability QOE Quality of Experience QoS Quality	6946
 Disability QoS Quality of Service REC Regional	6539
 Environmental and Legal QoS	12759
+Finance QoS	14674
+G QoS	14674
 GHz QoS	5245
 GSMA. QoS	10856
 Gozem and Qotto	10887
@@ -20,15 +22,20 @@ QODGl1nRR	14231
 QOKs9KWu ok WB ID4D	10819
 QoBVoG	6963
 QoE Bottleneck	6051
+QoS KPI	14674
 QoS Operators	10856
 QoS Parameters for Internet Service	13218
 QoS Policy	10856
 QoS Qualidade de Serviços de SOA Arquitetura Orientada	11555
-QoS Regulations	9563
+QoS Quality of Service RAN Radio Access	14674
+QoS Regulations	9563,5111
+QoS Section	14674
 QoS and CoS	11857
 QoS and QoE	5245
+QoS of Homeland Security	14674
 QoSSS	12399
 Qobo M	5242
+Qonce	14694
 Qonce Central Regional Library	11237,21,28
 Qorshaha	10059
 RURA QoS Regulations	718

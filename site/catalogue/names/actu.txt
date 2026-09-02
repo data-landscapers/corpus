@@ -94,14 +94,17 @@ Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1,8216,2485
 Actual Expenditure K20	13355
 Actual Expenditure K53	13355
 Actual Forecast	236
+Actual IBRD	14627
 Actual Meetings Held	1154
 Actual Million US	11136
 Actual NER	13991
+Actual Net Borrowing	14546
 Actual OCGT	11228
 Actual Operating Expenditure	11250
 Actual Operator Prices	14297
 Actual PBA	579
 Actual Percent of GDP	11136
+Actual Percentage	14546
 Actual Performance	11134
 Actual Primary Grades	13991
 Actual Progress	11134
@@ -118,9 +121,10 @@ Actualisation	10712,2721
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Actualisation du Dispatch	10975
-Actualiser	3356,5535,4399
+Actualiser	3356,5535,4399,1198,1,1
 Actualite.cd	6390,2294,3184
-Actualité	1287,4758,914,1428,331,902,95,563,101,3104
+Actualites	14492,7
+Actualité	1287,4758,914,1428,331,902,95,563,101,3104,1013,133,43
 Actualité Alexie Alaïs	9620
 Actualité Baisse	9620
 Actualité Beaugas Orain DJOYUM	3658,2617,145
@@ -207,7 +211,7 @@ Actuar	4218,7163,1,59,2,8
 Actuarial Sciences Pure and Applied Chemistry Pure	12407
 Actuarial and Financial Mathematics	13078
 Actuação	11441,73
-Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38
+Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337,1265,1516,6,18,13,4,49,24,38,1036,1,1,108,26
 Administrateur ACTUALITES Afrique Burundi Jeunesse	9810
 Africa Actually Stands	6410
 Africa’s Data Actually Being	6186
@@ -274,6 +278,7 @@ Date Actual	6579,349
 Development and Sovereignty Actually Require	3874
 Devenu... Actualités Tourisme Angola	13568
 Direct Taxes Actual	5655
+Disclose Provision for Actuarial Present Value of Promised	14546
 Does AI Sovereignty Actually Mean	9741
 Dossiers UK Actualités Têtes	13419
 E PETIT AMI ACTUEL	13300
@@ -429,6 +434,7 @@ Tourisme Actualités	4895
 Tourisme Actualités Diplomatie	4895
 Tribunais de Actualmente	10752
 Tunisie... Actualité ICT Africa Summit	3658,2617,145
+Union Européenne. Actuellement	14451
 V. What You Can Actually Ask	7777
 Variable Actual	236
 Variable Actual Forecast Subscription	236

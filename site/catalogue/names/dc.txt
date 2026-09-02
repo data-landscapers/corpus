@@ -25,7 +25,7 @@ CRVS Civil Registration and Vital Statistics DCI	11133
 Central Bank of Nigeria DCMS	11861
 Chief Technology Officer DC Data Centre	6432
 Civil Registration Vital Statistics and Identity DCR	12337
-Colo Colocation DC Data Center DIF	10781,1646
+Colo Colocation DC Data Center DIF	10781,1646,2055
 Colocation NDC National Data Center DC	3184,1,1340,6470
 Commercialisation DCCB	10975
 Connectors for DC-application	11269
@@ -49,6 +49,7 @@ DC Data Centre DCIM Data Centre	13185
 DC Direct	12233
 DC EDIC	6468
 DC Luanda	1227
+DC N	14502
 DC Studio	14365
 DC Uptime Tier III TCCD	6432
 DC X X X X X	10858
@@ -91,6 +92,9 @@ DC3 Luminosité	13524
 DCA Directorate of Civil Aviation DDOS Distributed	6946
 DCAF Legal Databases	0
 DCAF and Enabel	11974
+DCAMD	14555
+DCAMD AI Resource Lab	14555
+DCAMUM	14662
 DCBR BMSA LEB SITARAIL SM Lafigué	2342
 DCBR EAU ET ASSAINISSEMENT SGPME SIB	2342
 DCC for Visa and MasterCard	11955
@@ -156,6 +160,7 @@ DCO and World Economic Forum	3837
 DCO. Thigo	14334
 DCO’s Digital Foreign Direct Investment	14334
 DCP Digital for Tertiary Education Program DFIL	3604
+DCP Direction	14437
 DCP Jubilee Wiper DAP-K Other None	7869
 DCP. Such	7869
 DCPMI	12232

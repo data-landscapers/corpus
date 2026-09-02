@@ -100,6 +100,7 @@ MTN One TV	6563,4230
 Maluti TVET College Phuthaditjhaba Campus	11343
 Mawingu Networks for TV	147
 Million TVET Investment	5583
+Ministry of TVET	14576
 Miramar TV	12201
 Miramar TV and Sucesso TV	12201
 Muvi TV	14277
@@ -113,6 +114,7 @@ National ICT Strategy for Higher Education and TVET	13991
 National TV	4528,7984
 National TVET Strategy	14050
 National TVET Workforce	12357
+Nelson TV	14666
 Nessma TV	7769
 Nigeria TVWS Television White Spaces USPF	11857
 Nigeria's TVET	9755
@@ -123,6 +125,7 @@ No. of TV Stations No. of TV Stations	2776
 No. of TVET	12210
 Northern Cape Rural TVET	11343
 Number of Pay TV Service Providers ANNUAL	12395
+Number of TVET	14576
 Nyasa TV	8741
 On-Air and Off-Air TV Stations	2776
 Operational TV Stations	2776
@@ -146,6 +149,7 @@ REMA TV	13324
 Radio Mozambique and TVM	12201
 Radio and TV	718,12253
 Radios and TVs	12358
+Real TV Madagasikara	14517
 Reflet TV	8518
 Regional TVET Bureaus	14157
 Retrieved Nation TV	899
@@ -159,6 +163,7 @@ STV-SOICO TV	12201
 Satellite TV	1944
 Scholarship and TVET	3898
 Secondary and TVET Data	12411
+Selected TVET	14576
 Service Commission TV Television TVC Technical	2775
 South African TVET	6832
 Stations Pay TV Subscriptions Industry Reports	9109
@@ -197,8 +202,9 @@ TV White Space Wi-Fi Rural Connectivity	406
 TV. Postal	11262
 TV. The DCDT	11170
 TV. Títulos	2816
-TVA Taxe	7655
-TVA. Article	7346
+TVA Taxe	7655,6782
+TVA. Article	7346,7112,25
+TVA. La TVA	14683
 TVA. Le Ministre	9181
 TVC Labs and Opus	4884
 TVC News	10725
@@ -213,6 +219,7 @@ TVET L1 L2	12411
 TVET L1 L5	12411
 TVET L3 L5	12411
 TVET Levels	12411
+TVET Management Information System	14576
 TVET Minister for Education	7492
 TVET Ministries Division	6832
 TVET Modernisation DHET	6832

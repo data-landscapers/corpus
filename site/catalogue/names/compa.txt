@@ -34,6 +34,7 @@ AVC MANAGEMENT COMPANY LTD Data Controller	7167
 Abdoulaye COMPAORE	8321
 About KenGen Kenya Electricity Generating Company	1722
 Abreviaturas Aband. Aprov. Compart. Definit	10766
+Abu Dhabi Ports Company PJSC	14457
 Abu Dhabi's International Holding Company	12069
 Abuja Investments Company Limited	9833
 Accrual The Company	11955
@@ -61,6 +62,7 @@ Africell Mobile Company’s Spokesperson	11651
 Agabe Company Limited Data Processor INST-234928CF0DD	7167
 Agreements Involving the Subject Company’s Securities	7198
 Agricultural Business Company	14122
+Agro-Chemical and Food Company Ltd	14546
 Airports Company South AfricaAugust	2521
 Airports Company of South Africa	9895
 Al-Madar Al-Jadid Company	3811
@@ -86,6 +88,7 @@ Authorised Company	7845
 Authority ZPC Zimbabwe Power Company ZPCS	13420
 Availability of General Company Information	12389
 BAMBURI CEMENT PUBLIC LIMITED COMPANY Data	7167
+BANK-FINANCIAL HOLDING COMPANIES ACT	14647
 BANKWISE TECHNOLOGIES COMPANY LIMITED Data Processor	7167
 BASHA RUKUNGA HALAL COMPANY LIMITED Data	7167
 BASIL COMMUNICATIONS COMPANY LIMITED Data Processor	7167
@@ -248,6 +251,7 @@ CSI Comparison	12978
 CSPs. Compatibility	11995
 Cabo Verde’s Comparative Advantage	11863
 Calculator Compare	12882
+California Companion AI Protection Law	14601
 Cameroon and Comparator Average	10997
 Cameroon and Comparator Countries	10997
 Cameroon and Comparators Median	10997
@@ -283,7 +287,7 @@ Comm Equipment Company	10622
 Communication Authority of Kenya and Register of Companies	6394
 Community Interest Company	1246
 Compability Security Ekurhuruleni	9129
-Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753
+Compact	87,812,639,1,4721,1853,3355,227,257,262,185,164,32,85,753,1189,52
 Compact Delivery Monitoring Unit	12595
 Compact Delivery and Monitoring Unit	12717
 Compact Development Guidelines	12175,1815
@@ -311,9 +315,9 @@ Compagnies	10934
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202,107,12,62,19,33,274,173,131,168,60,260,34,46,118,165,207,65,200,102,158,60,23,686,156,31,235
 Companies API Application Programming Interface	4214
-Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29
+Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801,437,10,10,26,3,762,301,51,133,2,14,20,88,247,9,46,347,12,87,99,40,29,856,33,91
 Companies Act Amendment	11250
 Companies Act No	12897
 Companies Act Regulations	12041
@@ -357,10 +361,10 @@ Companies and Other Business Entities	13437,140
 Companies and Other Business Entities Act	4263,633,8415,266
 Companies’ Act	11240
 Companies’ Register	3714
-Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3
+Companion	22,13,81,123,169,2,4,3,14,12,2,112,2,19,1,12,22,123,2,4,5,4,19,11,1,16,24,118,23,5,18,9,17,16,126,39,13,5,12,9,1,1,22,6,69,6,5,13,2,1,30,44,33,49,28,12,32,1,98,14,1,3,15,17,39,56,1,9,25,1,47,10,22,20,57,33,12,22,1,9,11,10,27,61,19,59,9,235,31,101,37,84,96,29,117,3,126,8,23,150,4,4,30,57,23,49,35,128,2,33,46,10,53,1,48,10,122,110,10,3,16,264,3,1,1,5,16,39,6,26,1,21,5,23,1,18,148,123,17,83,82,120,66,42,19,90,184,65,32,69,1,228,99,8,4,152,51,72,107,5,10,27,20,51,14,32,119,36,13,110,32,6,41,18,18,1,1,6,230,2,114,41,71,27,332,87,69,60,187,160,1,391,272,78,130,573,431,675,20,907,346,218,226,450,751,373,3,263,15,81,1,81
 Companion Card	10418
 Companion Guide	11156
-Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17
+Company	22,551,12,20,131,1082,1,169,417,293,765,251,412,137,633,642,326,39,184,248,15,374,52,162,260,6,124,28,404,285,452,83,12,135,139,73,512,119,165,90,15,74,78,801,68,320,17,11,10,15,16,2,24,22,107,486,6,42,16,21,10,55,212,3,46,40,16,35,7,39,6,33,5,381,18,57,114,132,126,51,23,269,314,17,561,121,6,11
 Company Address Changes	12041
 Company Advocates Data Controller INST-25860281847 NAIROBI	7167
 Company All Rights Reserved. Copyright	12342
@@ -462,6 +466,7 @@ Company’s Board	3714
 Company’s Board of Directors	3714,8241
 Company’s Directors	3714
 Company’s Executive Officers and Directors	7198
+Company’s Register	14546
 Compaoré	4233,1
 Comparability	7204,6106
 Comparability and Integration	13310
@@ -469,7 +474,7 @@ Comparable	2117,1597,4637,1048,4133
 Comparable Company Multiples	4896
 Comparable West African	7777
 Comparable and Interoperability	170
-Comparaison	4459,3196,5669,66,24
+Comparaison	4459,3196,5669,66,24,1066
 Comparaison Mali-Mètre	6959
 Comparando	10758,19
 Comparativamente	2295,1308,441,6733
@@ -502,9 +507,9 @@ Comparativecurve.Class1	8606
 Comparatively	961,1865,6744,1409,1231,45
 Comparativement	737,2659,1063,6506
 Comparator	1623,433,439,5628
-Comparators	5267,417,779,4534,804
+Comparators	5267,417,779,4534,804,2825
 Comparação	2816,8721
-Compare	1243,1946,2923,1536,732,225,824,12,1336
+Compare	1243,1946,2923,1536,732,225,824,12,1336,3893
 Comparecer	4147
 Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63,352,25,1,275,9,4,270,8,4,35,16,6,31,9,214,36,13,131,27,578,395,119,46,9,92,454,73
 Comparer	9278
@@ -679,6 +684,7 @@ End-to-End Digital G2P Companion	1027
 Energie Electrique TCN Transmission Company of Nigeria	12062
 Energy Compact	11136,1581,324
 Energy Compact23	3604
+Energy National Compact	14674
 Energy Service Companies	12256
 Entirely Electronic Company Registration Process	12389
 Equity Commitment Belgian Investment Company for Developing	821
@@ -747,8 +753,10 @@ Gambia Telecommunications Company Limited	7195
 Gambia Telecommunications Company Ltd	4519,24
 Gambia Transport Service Company	3066
 General Company for Communications and Informatics	11738
+Generating Company PLC Government of Federal Republic	14546
 Generation Companies	12062
 Genuine Parts Company	4434
+Geothermal Development Company Limited	14422
 Ghana Publishing Company and Commissioners for Oaths	11082
 Ghana Publishing Company. The NSA	11082
 Global Compact	1901,9996,8,268,1765,83
@@ -851,12 +859,14 @@ KPDC Kribi Power Developpment Company	10975
 KTDA Power Company Limited	12256
 Kenya Compact Development and Final Report	12191
 Kenya Company Limited	6946
+Kenya Electricity Generating Company Limited	14422
 Kenya Electricity Generating Company PLC	1722
 Kenya Electricity Generating Company Plc	12256
-Kenya Electricity Transmission Company	10313
+Kenya Electricity Transmission Company	10313,4302
 Kenya Electricity Transmission Company Kenya National	12256
 Kenya Electricity Transmission Company Limited	10313,1943
 Kenya Generation Company	13054
+Kenya Mortgage Refinance Company	14546
 Kenya Pipeline Company	6946,3850,1460
 Kenya Pipeline Company Limited	3583
 Kenya Pipeline Company. Correspondence	3583
@@ -864,6 +874,8 @@ Kenya Power Lighting Company Limited	12256
 Kenya Power and Lighting Company	6133,4180,1943
 Kenya Power and Lighting Company KPRL Kenya	2775
 Kenya Power and Lightning Company	10313
+Kenya Railways Corporation and Etihad Rail Company	14476
+Kenya Seed Company Ltd	14546
 Key Development Compagnie Générale de Banque Plc	12358
 Kigali Innovation City Company	812
 Kinshasa. Companion	5415
@@ -880,6 +892,7 @@ Large Compagnies	10980
 Large Private Companies Public	13358
 Latin American Companies	226
 Le COMPACT National	13433
+Leadership Companion	14566
 Legacy System Migration and Compatibility Requirements	3861
 Leopard Investment Company Chairman	13580
 Lesotho Electricity Company	12657
@@ -909,6 +922,7 @@ M CONSULT COMPANY LIMITED Data Controller	7167
 M CONSULT COMPANY LIMITED Data Processor	7167
 M Sierra Leone Compact	1538,1
 M300 Energy Compact	3604
+M300 National Compact and ASCENT	14674
 MADAOUELA MINING COMPANY	11597
 MANAGEMENT OF COMPANY DURING BUSINESS	3714
 MANAGEMENT OF THE COMPANY	4896,2302
@@ -918,6 +932,7 @@ MINING COMPANY	13189
 MTC Telecom Namibia Company Powercom Paratus	1944
 MTN Group Company	11234
 MTN Mobile Money Company and Airtel Money	10299
+Madagascar's National Energy Compact	14603
 Main One Cable Company Last	3386
 Main One Cable Company Nigeria Ltd	3862
 MainOne Cable Company	856
@@ -943,6 +958,8 @@ Millennium Challenge Compact	12645
 Mimosa Mining Company	1554
 Mineworkers Investment Company	14366
 Mining Companies	13060
+Mise En Compatibilité des Investissements	14488,1,1
+Mission300 National Energy Compact	14674
 Mkt. Church Ch. Company Coy Line	11129
 Mobile Network Operators Fintech Companies Pension	12701
 Mobile Telecommunications Company	2340,248,9890,1774
@@ -952,6 +969,8 @@ Mubadala Investment Company	706,430,408,7554,46,201,1
 Mukuru Companion Card	10418
 Multi-Tier Framework Companion	423
 Multiplexing and Transmission Company	12201
+Mumias Sugar Company Limited	14546
+Mumias Sugar Company Ltd	14546
 Mutapa Investment Fund Company	7036
 My Companion	13581
 MyMzansi. Compare	3922
@@ -980,6 +999,7 @@ NATIONAL ENERGY COMPACT FOR NAMIBIA Transmission	12399
 NATIONAL ENERGY COMPACT FOR NAMIBIA V	12399
 NATIONAL ENERGY COMPACT FOR THE KINGDOM	12680
 NHSRII Compact	4301
+NICO Life Insurance Company Limited	14674
 NPC Non-Profit Company NPO Non-Profit Organisation	11250
 NRD Companies	3907
 NRD Companies’ GxP	3907
@@ -1000,7 +1020,8 @@ National Company of Science and Technology Parks	12786
 National Computer Development Company	3604
 National Electricity Company of Comoros	13752
 National Electricity Distribution Company	11380
-National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61
+National Energy Compact	5247,6689,463,164,32,85,37,30,307,174,396,61,891,98
+National Energy Compact for Malawi	14674
 National Energy Compact for Namibia URL	12399
 National Energy Compacts	9635,1502,1580,337
 National Food Buffer Stock Company	7695
@@ -1021,7 +1042,7 @@ Nigeria Rank Unicorn Company Industry City	11884
 Nigeria-AFGHS Compact	5141
 Nigeria. Companies Schneider Electric	4834
 Nigerian Company	11976
-Non-Profit Company	11250,15
+Non-Profit Company	11250,15,3190
 Non-Residents Shipping and Airline Companies	11976
 Northern Regional Electricity Distribution Company	12399
 Number of Immediate Case Notification Forms Compared	11912
@@ -1034,6 +1055,7 @@ OTHERS IN SHARES OF COMPANY	3714
 October. Companies	7209
 Office of Registrar of Companiesn	9842
 Oil Marketing Companies	12256
+Old Mutual Life Assurance Company	14674
 Old Mutual Life Assurance Company of Zimbabwe	4896
 Oman’s Future Cities Company	8592
 Orange Basin. This Compact	12399
@@ -1117,6 +1139,7 @@ ROKO Construction Company	9388
 Rack Compatibility	13185
 Raphael Fishing Company	12132
 Raphael Fishing Company. Under	12132
+Red Compartida	14621
 Regarding the Compact	7452
 Regional Comparison	12963
 Regional Comparison of Global Venture Capital	4972
@@ -1172,10 +1195,12 @@ Services. Company	13385
 Session of COPUOS Companion	1735
 Sewerage Company	7548
 Seychelles Petroleum Company	7760
+Shirtliff. Companies	14507
 Sierra Leone Cable Company Limited	360
 Sierra Leone Compact	1538,1
 Single Partner Limited Liability Company	11939
 Single-Member Private Limited Company	11939
+Siror. Compared	14667
 Sistemas Compartilhados	11368
 Skills Project ERR. Compact	210
 Small Enterprises Development Company	9157,40,108,118,3649
@@ -1210,6 +1235,7 @@ Subject Company Regulation M-A Item	7198
 Submarine Cable Route Survey Companies and Governments	3513
 Sudan Companion	779
 Sudd Petroleum Operating Company	3583
+Surv Compagnon	14622
 Surv Companion	11459
 Switching Companies	6935
 Synthetic Control Methods for Comparative Case Studies	12006
@@ -1280,7 +1306,7 @@ Veterans Investments Holding Company	13685
 Video Compatibility High Picture Quality	34
 Viewpoint Comparing National Approaches	1824
 Visa-branded Companion Card	10418
-Vision International Investment Company	14387,18
+Vision International Investment Company	14387,18,279
 W.W. Norton and Company	5700
 WHEREAS the Companies and Other Business Entities Act	13437
 WINDING-UP OF CLOSELY HELD COMPANIES Application	3714

@@ -6,6 +6,7 @@ AUGUSTINE MAROA MWITA Data Processor INST-919781BBF62	7167
 Admissible. MWI	7070
 AfDB Country Manager Rees Mwasambili	8574
 Afrika. Tunaomba Mwenyezi Mungu	2868
+Agents MWK	14674
 Ahmed Shahame Mwidani Technical and Vocational College	7167
 Akabiwa Kalimukwa and Kolase Mwale	13532
 Ali Hassan Mwinyi Road	13068
@@ -63,6 +64,7 @@ Commissioner for Refugee Affairs Mercy Mwasaru	4631
 Committee Chairperson Mr. Mwine Mpaka	12319
 Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
+Courtesy Shallon Mwiza	14584
 Cybercrime Act Government Spokesperson Mwaura	6787
 DANSON MWANGI MUGURO Data Controller INST-23824677D56	7167
 DFS EAEF2 Anais Chanelle Mwizero Team	1284
@@ -72,6 +74,7 @@ Daniel Mwewa	7191
 David Mutale Mwila Planner	13392
 David Mwale District Commission	13392
 David Mwale John Account Office	13392
+Dickson Mwenda Kithinji	14460
 Director Mr. Peter Mwangi	6946
 Disabilities. Ms. Mumbika Mweemba	13465
 Dk Mwasaga. Amesema	3447
@@ -131,6 +134,7 @@ Honourable Commissioner Mudford Zachariah Mwandenga	8485
 Honourable Joseph Mathyola Mwanamvekha	13055
 Hubert Mwesigwa	6019
 Human Resource and Administration Nalituba Mwale	10510
+Hydrocorbures Megowott MWc Megowott-crCte MWh ORE	14479
 IRENA LSMS MoEWR MTF MW NGO	11136
 IRENE MWANGI NAIROBI	12310
 Infrastructure Events MWC Barcelona	9899
@@ -162,8 +166,10 @@ KWA MWAKA	2868
 KWA MWAKA WA FEDHA WA	6019
 Katika Mwaka	2868,3151
 Kayanza Kirundo Makamba Muramvya Mwaro Sexe	13442
+Kenya MWK	14674
 Kenyans. Rosemary Mwangi	7709
 Kenyatta High School Mwatate	10313
+Kevin K. Mwiti	14460
 Kezias Kazuba Mwale of Zambia	8803
 Kibwezi West MP Mutuse Mwengi	9545
 Kibwezi West's Mwengi Mutuse	9545
@@ -211,6 +217,7 @@ MW Airtel NXTRA LGS2 Lagos	10861
 MW Angola	10781,1618
 MW Anixas I and II	12399
 MW Average Available Capacity	12062
+MW BASCULEMENT	14479
 MW BQ	11236
 MW Biomass	12399
 MW By Royal Ibeh	8045
@@ -262,11 +269,12 @@ MW LFO de Maroua	10975
 MW LOS	10861
 MW LOS1	4191
 MW Licence	10975
-MW Live	10781,1646
+MW Live	10781,1646,2055
 MW Lobatse Solar Project	12609
 MW Lower Maguduza Hydropower Plant	13123
 MW L’inauguration de Mulembwe	13641
 MW MPANDA Projet	13433
+MW Madagascar	14482
 MW Mansa	5247
 MW Mar Apr Dec Annual	11953
 MW Megawatt NDP National Development Plan	12399
@@ -278,6 +286,7 @@ MW Mpatamanga Hydro	13060
 MW NA NA Live DC	10995
 MW Nairobi	9016
 MW Namibia	12399
+MW Nation Online Article	14674
 MW Ndzevane	13123
 MW No	11236
 MW Nombre	10975
@@ -289,8 +298,9 @@ MW Oromia	4591
 MW PV	10180,3615
 MW Peak	12256
 MW Pilier	13433
-MW Potential	10781,1646
+MW Potential	10781,1646,2055
 MW Production	10975
+MW Projet Lac	14479
 MW Puissance	10975
 MW RE	12399,164
 MW Rack Centre LG3 Lagos	10861
@@ -298,6 +308,7 @@ MW SOLAR PACT The Ministry of Energy	13647
 MW Salima Nanjoka Solar PV	13060
 MW Salima Solar PV	13060
 MW Schweppes Zimbabwe	6492
+MW Sediba	14673
 MW Siavonga	5247
 MW Solar Mini-grid Project. While the ICS	14080
 MW Solar PV Mini-grid	14080
@@ -315,6 +326,8 @@ MW Van Eck	12399
 MW Willowvale	408
 MW Wind	12399
 MW Zimbabwe	3185
+MW and Karura Falls	14667
+MW and Nabuyole	14667
 MW and OrPower	12256
 MW de Kousseri	10975
 MW de Ngaoundéré	10975
@@ -349,6 +362,7 @@ MW. Demand Side Response	11953
 MW. Des	13641
 MW. Edited	11904
 MW. Electricity	12256
+MW. Ends	14667
 MW. Figure	12256
 MW. Founded	2994
 MW. Further	3937
@@ -369,6 +383,7 @@ MW. Targets	12233
 MW. The Authority	12256
 MW. The Energy Availability Factor	11992
 MW. The MW	1244
+MW. Tight	14482
 MW. Toutefois	10975
 MW. Uganda	12256
 MW. Version	1005
@@ -406,6 +421,9 @@ MWI. REG	1434
 MWIIMBU	13489
 MWIZERWA Jean Claude	12445
 MWK MWK	12214
+MWK Medium	14674
+MWK Report	14674
+MWK Unable	14674
 MWK Years	13060
 MWK21	12980
 MWK3.06	13053
@@ -414,11 +432,17 @@ MWK4.33	13053
 MWK8.05	13053
 MWUm1SvRXJka3oDK8bQBJBWCzg uughu	1580
 MWa.gMwaagwa Air CAdirreCdre	1154
+MWc Lac	14479
+MWc Solaires	14479
+MWc de PV	14479
+MWh AO Suppldmentaire	14479
 MWh Additional	12399
+MWh Ajustement Ta	14479
 MWh BESS	10857,1542,661,168,852
 MWh Mega-Watt	12256
 MWh Megawatt-hour NCSA National Cyber Security	718
 MWh Nombre	10975
+MWh PV	14479
 MWh Solar	14080
 MWh of R	11953
 MWh. Domestic	718
@@ -431,7 +455,9 @@ MYTO Target Sales MW Megawatts MWh	12062
 Mafuta Mwale N N N	13053
 Makamba Muramvya Muyinga Mwaro Sexe	13442
 Makamu Mwenyekiti	2868,3151,5593
-Managed Service Provider MW Megawatts NDC	10781,1646
+Malawi of MWK	14674
+Malawi's MWK	14674
+Managed Service Provider MW Megawatts NDC	10781,1646,2055
 Margaret Ireri and Michael Mwarange. SSRN	2423
 Margaret Mwachiyeya Boarding Secondary School	13662
 Marina Mwanga	2989
@@ -440,6 +466,7 @@ Martin Mwale	13209
 Maryanne Mwai	3983
 Masauso Mwale Human Resource	13392
 Mathanzima Mweli	11220
+Matthew Mwakoma of CyberPro Global	14555
 Mbawaka Mwakhwawa	2883,39
 Medium Voltage MW	12358
 Medium-sized Enterprises MV Medium Voltage MW	11549
@@ -569,6 +596,7 @@ Mwasaga	2703,663,1348,2801,761
 Mwasalyanda	6577,7822
 Mwasavye	13300
 Mwatanguye	13300
+Mwatate	14600
 Mwea Pishori Rice	10313
 Mwea Pishori Rice. The Government	10313
 Mwea Pishori Rice. The KEBS	10313
@@ -576,6 +604,7 @@ Mwea Rice Growers Multipurpose Cooperative Society	10313
 Mwea. Kenya	10313
 Mwea. STATEMENT THE PLIGHT OF RICE	10313
 Mwebaze	9263
+Mwebesa HG	14666
 Mweemba Malambo	13328
 Mweiga Homes Limited and Dualway Properties Limited	6946
 Mweka	7813,79
@@ -644,6 +673,7 @@ Nkundwe Mwasaga	2703,663,1348,2801,761,1176,137
 Norah Mwende	13397
 Nyarugunga Mwulire Kigabiro	12413
 O MWD	11405
+O MWc	14479
 ONG Telema Mwana	10005
 OpenAI and Anthropic. Ernest Mwebaze	9263
 Operators MW Mega Watts MWSI Ministry	2775
@@ -651,7 +681,7 @@ Outlook MW Megawatt NERSA National Energy	11228
 P Muhanga Nyarubaka Nyamiyaga Mwogo Karenge	12413
 P Mwendo Byimana Mbuye Ngoma District	12413
 Passive MW	14256
-Paul Mwangemi	4631
+Paul Mwangemi	4631,10024
 Peter Mwangi	9311
 Peter Mwasalyanda	6577,7822
 Philip Muturi Mwawingwa Gituri Clinic	7167
@@ -685,6 +715,7 @@ Simon Mwansa Kapwepwe	12376
 Simon Mwansa Kapwepwe International Airport	5247
 Simon Mwansa Kapwepwe and Harry Mwaanga Nkumbula	12376
 Sonia Mwizye Simumba TeamAssistant	13392
+Spectrum MW Megawatt MWK Malawi Kwacha	14674
 Stephen Mwai	13975
 Steven Mwamba Planner	13392
 TEKNOLOJIA YA HABARI KWA MWAKA WA	6019

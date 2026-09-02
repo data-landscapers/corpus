@@ -1,5 +1,6 @@
 A. Expanding Equitable Access	13960
 ACKNOWLEDGEMENTS The Ministry of Gender Equality	12946
+ACQUISITION DES EQUIPEMENTS EN INFRASTRUCTURE INFORMATIQUE	14564
 ACQUISITION ET INSTALLATION DES EQUIPEMENTS INFORMATIQUES	13694
 AHAI6 CURRENCY EQUIVALENTS Exchange	11863
 AI Equality Initiative	12210
@@ -34,6 +35,7 @@ African Union Strategy for Gender Equality	11193
 Afrique Equatoriale Française	1876
 Agreement for Future Equity	12376
 Aircraft Equipment	14008
+Annexe L Equipe	14472
 Appendix E Equipment Support	34
 Application for Equating Foreign Qualifications	12333
 Approval of Broadcasting Receiver Equipment	13951
@@ -89,6 +91,7 @@ Centralized Equipment Identity Register	3543
 Chefe de Equipa	11566
 Citing Security and Equipment Traceability Requirements	5973
 Co.KG Equivalent	6946
+Cold Chain Equipment	14546
 Comm Equipment Company	10622
 Commerce Equitable Afrique Data Controller INST-177444314EF	7167
 Commerce Equitable Afrique Data Processor INST-177444314EF	7167
@@ -132,6 +135,7 @@ DRC Equatorial Guinea Gabon South Sudan	690
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Data for Policy Equity Initiative As the Data	1246
 Date Price ZWG USD Equivalent Premium	4896
+Deploy Equipment Audit	14546
 Description Equinix	856,1,1298
 Description Equip MUBAS	401
 Description Equipment	9274
@@ -145,6 +149,7 @@ Digital Economy Country Diagnostic for Equatorial	1751
 Digital Equity	10819
 Digital Equity This Blueprint	10819
 Digital Inclusion and Equity	3861
+Digital Realty and Equinix. Similarly	14673
 Digital Transformation and Gender Equality	11586
 Direct Equity	12017
 Director for Equity	9734
@@ -183,6 +188,7 @@ EQUALITY Rank	10759,78,1,130,918,454,12,1
 EQUALITY SECURITY	11870
 EQUATEUR TSHOPO UGANDA	11900
 EQUIANO	1285
+EQUINIX OBJECTION	14673
 EQUIPA TÉCNICA	11391
 EQUIPA TÉCNICA SUBCOMISSÃO TÉCNICA Adão	10757
 EQUIPAMENTOS Artigo	15
@@ -233,6 +239,7 @@ Efforts Towards More Equitable AI Governance	4734
 Elderly and PWDs New Technopolis Equity	6946
 Electrical and Electronic Equipment Waste Management Plan	3604
 Electronic Communication Equipment	718
+Electroniques Equipements Electriques	14423
 Emergency Equity and System Strengthening	11916
 Employment Equity	5533,5712
 Employment Equity Act	11182,804
@@ -264,8 +271,10 @@ Equal Political Representation	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,
 Equal Socioeconomic Opportunity	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1,135
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equalisation	13418
-Equalisation Fund	10313
+Equalisation Fund	10313,4233
+Equalisation Fund Account	14546
 Equalisation Fund Appropriation Bill	10313
+Equalisation Fund Secretariat	14546
 Equalisation Treasury NGEC	7548
 Equalisation of Opportunities for Persons	12993
 Equality	2024,283,2665,2270,210,1149,466,1692,76,2,1,130,188,37,677,16,1,1,1,263,1,1,9,175,2,1,11,1,135,403,12,558,9,34
@@ -293,7 +302,7 @@ Equality. Measure Score	10837
 Equality. Trend Measure Score	12488
 Equalization	12032
 Equalization of Opportunities for Persons	12175
-Equally	970,1732,1240,426,222,654,119,255,615,406,307,1,331,193,39,38,328,146,418,32,22,228,59,197,421,112,105,67,770,7,320,39,314,88,16,35,704,234,149,40,606,37,270,2,101,46,128,92,397,262
+Equally	970,1732,1240,426,222,654,119,255,615,406,307,1,331,193,39,38,328,146,418,32,22,228,59,197,421,112,105,67,770,7,320,39,314,88,16,35,704,234,149,40,606,37,270,2,101,46,128,92,397,262,226
 Equateur	10400
 Equateur DP	11906
 Equation	236,1592,6778,523,2157
@@ -350,9 +359,10 @@ Equidade	5020,6395,13,115,14,1240
 Equidade de Género	11362,44,119,37
 Equilibrar	1701
 Equilibration of Cognitive Structures. Pitanga	2816
+Equilibre	14682
 Equilibres	6772
 Equilibrium	4824
-Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241,742
+Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241,742,2829
 Equinix Acquisition of MainOne	856
 Equinix Fabric	3929,1271
 Equinix Ghana	6056
@@ -360,6 +370,7 @@ Equinix Inc	4469,1158,1,337
 Equinix JN1	9617
 Equinix JN1 Johannesburg	3187
 Equinix Johannesburg JN1 Data Centre	857
+Equinix King Air	14673
 Equinix LG1	3554
 Equinix LG3	3554
 Equinix LG3 Lagos New Data Centre	2155
@@ -423,13 +434,17 @@ Equipe STP	2966
 Equipe STP Installation	2966
 Equipe Technique	10875
 Equipe Technique N	13390
-Equipement	1284,2112,4873,1137,1494,65,2336,28,12,484,18
+Equipement	1284,2112,4873,1137,1494,65,2336,28,12,484,18,589,56,1,1
 Equipement Informatique du MCTIT	13500
 Equipement des Forces	8321
 Equipement des Nations	10965
-Equipements	3381,15,7451,2631,152
-Equipements Electriques	13301
+Equipements	3381,15,7451,2631,152,934
+Equipements Electriques	13301,1122
+Equipements Electroniques	14423
 Equipements Informatiques	13694
+Equipements TIC	14442
+Equipements de Protection Collective EPI	14488,1,1
+Equipements de Protection Individuelle HS	14488,1,1
 Equiper	1005,9960,2325
 Equipment	34,194,1,358,375,982,44,543,358,100,2690,753,2691,151,944,557,189,301,4,588,49,12,335,136,292,294,62,148,200,5,13,71,159,377
 Equipment Bracing System Equipment	9123
@@ -496,7 +511,7 @@ Equitable Share Formula	11289
 Equitable and Inclusive Economi	13391
 Equitel	6671
 Equities	6408
-Equity	94,169,134,195,271,36,49,1,213,656,126,44,147,98,15,7,431,272,1499,1,54,15,195,118,37,1,5,13,306,44,35,204,629,402,64,214,38,183,58,418,57,69,19,85,320,38,141,434,236,149,222,88,113,42,7,30,70,123,91,337,26,128,477,36,125,6,4,9,158,3,137,23,47,231,101,234,9,39,39,10,192,3,11,105,24,37,69,161,333,9,16,385,9,633,121,8
+Equity	94,169,134,195,271,36,49,1,213,656,126,44,147,98,15,7,431,272,1499,1,54,15,195,118,37,1,5,13,306,44,35,204,629,402,64,214,38,183,58,418,57,69,19,85,320,38,141,434,236,149,222,88,113,42,7,30,70,123,91,337,26,128,477,36,125,6,4,9,158,3,137,23,47,231,101,234,9,39,39,10,192,3,11,105,24,37,69,161,333,9,16,385,9,633,121,8,588
 Equity Addition	1944
 Equity Affect the Legitimacy of Natural Resource Governance	11006
 Equity Assessment	3583,7886
@@ -577,8 +592,11 @@ Equivalent Prices for Telkom Mobile	11259
 Equivalent Prices for Telkom Mobile Tariff	11259
 Equivalent Protection	12302
 Equivalent R5	8840
+Equivalent of Kshs.19.68	14546
+Equivalent of Kshs.22.84	14546
 Equivalents Amounts	11134
 Equivalência	11461
+Equnecsotuiorangsedrelacphrainsgeeemnecnotmcplitme	14488,1
 Equnix	3782
 Estimatif des Equipements Informatiques	13694
 Europe The Equiano	1363
@@ -607,7 +625,7 @@ GENDER EQUALITY AND INCLUSION OUR PARTNERS	11586
 Gabon and Equatorial Guinea	3963
 Gasto de Equipamiento	4209
 Gates-backed Equity Initiative	1246
-Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549
+Gender Equality	970,584,260,167,7,1595,7381,229,139,137,386,638,398,55,18,348,2,104,56,549,441
 Gender Equality Access	11857
 Gender Equality Act	12253,650,137
 Gender Equality Act and Section	13040
@@ -650,7 +668,7 @@ Gross Capital Provider Buildings Equipment Office	236
 Group Managing Director and CEO of Equity Group	8654
 Growth Equity. Deals	4972
 Guiné Equatorial	2816,3893,3616
-Guinée Equatoriale	3779,1961,6204
+Guinée Equatoriale	3779,1961,6204,2515,78
 Guinée Equatoriale Banque des Etats	11944
 Guinée Equatoriale. Dans	11944
 Guinée Equatoriale. Pour	11944
@@ -691,8 +709,9 @@ IXP Equipment	578
 Impact Fund Denmark and Equitane	7015
 Implied Equity	4896
 Import ICT Equipment	2913
+Inaccuracy of Cash and Cash Equivalents Balance	14546
 Include Equivalent	11233
-Inclusion and Equity	7548
+Inclusion and Equity	7548,7116
 Inclusion and Equity Officer	5244
 Inclusive Development and Digital Equity	4528,7984
 Inclusive Education and Equity	14251
@@ -787,7 +806,9 @@ Multimedia Equipment	6946
 Namibian Sun The Equiano	5081
 Namibia’s Ministry of Gender Equality and Child Welfare	8006
 Nasdaq-listed Equinix	5627
-National Data Center OEM Original Equipment	10781,1646
+National Data Center OEM Original Equipment	10781,1646,2055
+National Gender Equality Commission Dr. Purity	14523
+National Gender and Equality Commission	14546
 National Gender and Equality Commission NIF National	7548
 National Laboratory Equipment Calibration Center	4301
 National Plan for Gender Equality	11855
@@ -820,6 +841,7 @@ Official Use Only CURRENCY EQUIVALENTS	3604
 Olaudah Equiano	3782,2468
 Opportunities for Refugee Engagement Equatorial Guinea	10841
 Opportunity Equal Access	10759
+Original Equipment	14674
 Original Equipment Manufacturer	10721,488,2032
 Original Equipment Manufacturers	5245,5476,494,2975
 Overall Equipment Effectiveness	13185
@@ -861,6 +883,7 @@ Plc Equity Bank Rwanda Plc REG	12358
 Plenipotenciário da Guiné Equatorial	11393
 Political Equality	1981
 Posts Employment Equity	11251
+Poverty and Equity Assessment. Washington	14576
 Poverty and Equity Brief	10062
 Poverty and Equity Brief for Zambia. World Bank	13332
 Poverty and Equity Climate Change and Disaster Screening	969
@@ -874,6 +897,7 @@ Private Sector Venture Capital and Private Equity	12210
 Procurement and Maintenance of Medical Equipment	13122
 Procurement of Studio Equipment	12982
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
+Projet Equipement	14423
 Promote Equitable Benefit	12143
 Promote Equity and Inclusion	12675
 Promoting Gender Equality	12389
@@ -885,9 +909,11 @@ Protective Equipment	1988
 Protecção Individual ERR Equipas	11376
 Provider MW Megawatts OEM Original Equipment	10861
 Proyecto de Equipamiento	4209
+Public Health Centers and Drilling and Equipping	14546
 Quality Ratings Search for Equipment	9109
 R5. Equip	13314
 R6. Equip	13314
+REGIONAL LEADERSHIP Equally	14566
 REPUBLIC OF EQUATORIAL GUINEA	13996
 RURAL ECONOMY WOMEN'S EQUALITY	10838
 RURAL ECONOMY WOMEN’S EQUALITY	10968
@@ -978,6 +1004,7 @@ UNHCR DONATES EQUIPMENT TO HOME AFFAIRS	12658
 US Dollar Equivalent	13060
 US-based Equinix	7638
 Unit PPE Personal Protective Equipment SCT	13332
+Unsupported Cash and Cash Equivalent Balance	14546
 Use Radio Equipment and Radio Systems Radio	13951
 V. INFRASTRUCTURES SCOLAIRES V.4 EQUIPEMENT DES	10847
 V.4 Equipement	10847
