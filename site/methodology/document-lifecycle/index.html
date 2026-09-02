@@ -96,7 +96,7 @@
       <p>Nothing arrives in Corpus without a search. The looking is done by a <strong>sweep cycle</strong> working one day of a rotation at a time. Some sweeps run every time: a fixed list of trade journals, and a search of the open web for the last 36 hours. The rest take turns — newspapers, academic journals and think tanks on one day; financiers and donors' own structured reporting on another; deep per-country and regional research on a third. (Budgets, expenditure and audits will be a fourth.)</p>
       <p>The list sweeps work a <strong>window</strong>: what this domain published since the last run, with a day of overlap so a story indexed late is caught next time. The content sweeps ask what has appeared since they last ran, however long ago. Two kinds of empty result are expected and neither is chased: search indexes lag a day or two, and most publishers do not publish at weekends.</p>
       <h2 id="two-tier-searching">Two-tier searching</h2>
-      <p>Searching and fetching go through <a href="https://exa.ai/">Exa</a>, in two modes, depending on whether the target is a <em>place to look</em> or a <em>thing to find out</em>. (The donor-finance sweep is the exception: it reads IATI's datastore through its API.)</p>
+      <p>Searching and fetching go through <a href="https://exa.ai/" target="_blank" rel="noopener">Exa</a>, in two modes, depending on whether the target is a <em>place to look</em> or a <em>thing to find out</em>. (The donor-finance sweep is the exception: it reads IATI's datastore through its API.)</p>
       <p><strong>Standard search</strong>, where the target is known — a query scoped to one domain, bounded by the run's dates, in that source's own language, with a separate fetch call to retrieve the page. Its virtue is hard scope: such a query <em>cannot</em> return anything from off the list, which makes the list a boundary rather than a preference.</p>
       <p><strong>Agent mode</strong>, where the target is a topic — no query string but a written brief, from which the Agent composes and follows its own searches. This is what the open-web sweep runs on, and the per-country, regional and financier briefs. It finds what a query would not, because it can follow a lead. The Somalia report came in that way: Dawan Africa is on no list.</p>
       <p>A brief cannot be fenced, so two rules are absolute. <strong>Nothing the Agent writes is ever stored</strong> — its output is a synthesis, exactly the second-hand material the base refuses, so its job ends at discovery. <strong>And its dates are not evidence</strong>: every publication date is re-established from the fetched page.</p>
@@ -152,7 +152,7 @@
       <dl>
         <dt>Built</dt><dd class="mono">2026-09-02</dd>
         <dt>Source</dt><dd><code>content/document-lifecycle.md</code> &mdash; the page is that file, converted</dd>
-        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></dd>
       </dl>
     </div>
   </div>
@@ -160,7 +160,7 @@
 
   <footer class="site-footer">
     <div class="site-footer__inner">
-      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> 2026 Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;" target="_blank" rel="noopener">CC BY 4.0</a> 2026 Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
         <a href="https://data-landscapers.io/">data-landscapers.io</a>
         <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
