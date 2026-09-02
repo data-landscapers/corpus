@@ -123,17 +123,28 @@ def read_order(path: Path) -> list[str]:
     return out
 
 
-def done_tonight(ledger: Path) -> set[str]:
-    """Countries this batch has already finished cleanly.
+def done_recently(hours: float) -> set[str]:
+    """Countries a batch has already finished cleanly inside the resume window.
 
     Resumability is tracked here rather than against the CSV's `Filler Searched` cell,
     because the order file may legitimately carry a country whose cell is already filled
     — a deliberate re-probe, which §0's re-run policy makes cheap. Reading the cell to
-    decide what to skip would silently drop exactly that country."""
-    if not ledger.exists():
-        return set()
-    with ledger.open(encoding="utf-8-sig", newline="") as fh:
-        return {r["iso"] for r in csv.DictReader(fh) if r.get("verdict") == "ok"}
+    decide what to skip would silently drop exactly that country.
+
+    **It reads every recent ledger, not today's.** The ledger is named for the date, and
+    an overnight batch crosses one: a driver relaunched at 01:00 would open a new file,
+    find it empty, and re-run every country the evening had already done. That failure is
+    invisible in the output — the re-runs look like ordinary work."""
+    cutoff = time.time() - hours * 3600
+    out: set[str] = set()
+    for led in BATCH.glob("*-batch.csv"):
+        if led.stat().st_mtime < cutoff:
+            continue
+        with led.open(encoding="utf-8-sig", newline="") as fh:
+            for r in csv.DictReader(fh):
+                if r.get("verdict") == "ok":
+                    out.add(r["iso"])
+    return out
 
 
 def claimed(iso: str) -> str:
@@ -374,6 +385,8 @@ def main() -> int:
     ap.add_argument("--max-cost-usd", type=float, default=0.0, help="0 = no ceiling")
     ap.add_argument("--max-consecutive-failures", type=int, default=2)
     ap.add_argument("--timeout-min", type=int, default=120, help="per country")
+    ap.add_argument("--resume-window-h", type=float, default=24.0,
+                    help="treat a country finished clean this recently as already done")
     ap.add_argument("--assume-min", type=int, default=45,
                     help="expected run length before any has finished, for --until")
     ap.add_argument("--model", default="claude-opus-5[1m]")
@@ -459,8 +472,9 @@ def main() -> int:
             # Resume: skip only what this batch has already finished cleanly. Re-read from
             # the ledger each time rather than tracking it in memory, so a driver restarted
             # after a crash picks up exactly where the last one left off.
-            if iso in done_tonight(ledger):
-                print(f"\n=== {iso} — already run clean in {ledger.name}, skipping ===")
+            if iso in done_recently(a.resume_window_h):
+                print(f"\n=== {iso} — already run clean within "
+                      f"{a.resume_window_h:g}h, skipping ===")
                 continue
 
             row = run_one(iso, a)
