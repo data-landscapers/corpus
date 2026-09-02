@@ -250,6 +250,35 @@ def dirty(path: Path, ignore: str = "") -> str:
     return "\n".join(lines[:5])
 
 
+def share_settled(iso: str, tries: int = 6, wait: float = 5.0) -> str:
+    """Is this country's staged batch committed in the share? '' when it is.
+
+    **Scoped to the country, and retried** *(GAB, 2026-09-02 20:02)*. The first version
+    asked whether the whole share was clean the instant the session exited, and got two
+    things wrong at once. It **raced the session's own push**: GAB was reported as leaving
+    the share uncommitted while its 125 files and its note were landing a moment later, in
+    commits that are both there. And it would have **faulted a blameless run for someone
+    else's work** — the share is written by Bill and by OSINT too, and a hand-carry out of
+    `new-queue/` mid-batch (RWA, the same night) looks identical to a run that failed to
+    commit.
+
+    Asking only about `new-queue/{ISO}` answers the question that was actually meant: did
+    this run put its own batch in. The retry covers the push still being in flight; a run
+    that genuinely wrote nothing stays dirty through every try."""
+    sub = f"new-queue/{iso}"
+    if not (EXCHANGE / ".git").exists() or not (EXCHANGE / sub).exists():
+        return ""
+    for i in range(tries):
+        p = subprocess.run(["git", "status", "--porcelain", "--", sub], cwd=str(EXCHANGE),
+                           capture_output=True, text=True, errors="replace")
+        out = p.stdout.strip()
+        if not out:
+            return ""
+        if i < tries - 1:
+            time.sleep(wait)
+    return out.splitlines()[0][:70]
+
+
 def unpushed(path: Path) -> int:
     """In a repository two systems reach through different paths, an unpushed commit is
     exactly as invisible as an uncommitted edit."""
@@ -324,8 +353,9 @@ def run_one(iso: str, a) -> dict:
         problems.append(f"lint-staged-queue: {lint_msg}")
     if (t.get("baseline", 0) + t.get("progress", 0)) and not (base_files + prog_files):
         problems.append("run CSV counts staged files that are not on disk")
-    if dirty(EXCHANGE):
-        problems.append("share left uncommitted")
+    stuck = share_settled(iso)
+    if stuck:
+        problems.append(f"{iso}'s batch not committed in the share: {stuck}")
     ahead = unpushed(EXCHANGE)
     if ahead:
         problems.append(f"share {ahead} commit(s) unpushed")
