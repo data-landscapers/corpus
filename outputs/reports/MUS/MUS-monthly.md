@@ -3,9 +3,9 @@ title: Mauritius — monthly update, August – September 2026
 compiled: 2026-09-02
 period: 2026-08-01 to 2026-09-02
 place: MUS
-ledger_rows: 26
-not_held: 9
-record: 1b0923bdcd1b
+ledger_rows: 34
+not_held: 7
+record: a22040afed0b
 ---
 
 # Mauritius: monthly update, August – September 2026
@@ -94,6 +94,16 @@ The instrument behind the blocking figures is now held, and it settles how they 
 
 ## DPI
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+The financial services regulator [issued guidance notes on stablecoins, with an annexure, on 13 August](https://www.fscmauritius.org/media/dyedhu0b/fsc-guidance-notes-on-stablecoins-and-annexure.pdf), the latest instalment of its fintech series. It follows the central bank's guideline for payment aggregators in July, which brought aggregators under a stated supervisory expectation for the first time. Two regulators have now written to two edges of the payments market inside six weeks; neither instrument carries an enforcement power the base can see used, and no complaint volume or redress route for payment users is published anywhere.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The [Finance Act 2026 was assented on 12 August](https://mauritiusassembly.govmu.org/mauritiusassembly/wp-content/uploads/2026/08/Act1426.pdf), carrying the statutory changes behind the budget's identity, registry and statistics measures. It lands on a civil status register whose [system replacement was announced in September 2025](https://csd.govmu.org/Documents/Communique/Communique%20-%20Revamping%20of%20CSD%20System%20New%20.pdf) and has not yet been reported delivered. The register runs under a 1981 statute; the Act amends around it rather than replacing it, which is the pattern across this ledger's registries.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -110,6 +120,14 @@ A smaller service went live rather than being provided for. On 18 August the tra
 A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
 
 Cabinet [took note of a plan to consolidate the government portal and the separate official websites into a single citizen-centred platform](http://topfm.mu/portail-gouvernemental-une-plateforme-numerique-unique-et-personnalisee-en-preparation). Taking note is not approval, and no budget, supplier or delivery date accompanies it.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Rural digital data capture
+
+<!-- narrative: digitalisation--digital-rural -->
+The [virtual reality programme in primary schools](https://mdpa.govmu.org/mdpa/index.php/virtual-reality-in-primary-schools-vrps/) is the second digital programme now running in the primary estate, after the [education platform launched in January](https://lexpress.mu/node/553891) under the operator pilot. Neither publishes a school count or a pupil reach. On an island of this size the rural indicators are answered by national programmes rather than by a rural one, and what the base cannot say of either programme is how much of the estate it has reached.
 <!-- /narrative -->
 
 ## Technology

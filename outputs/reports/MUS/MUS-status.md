@@ -1,6 +1,6 @@
 ---
 title: Mauritius — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-09-02
 place: MUS
 region: XEA
 built_by: STATUS-INIT
@@ -9,7 +9,7 @@ intersections_read: 7
 sources_cited: 108
 sections_written: 37
 not_established: 2
-acquire_lines: 33
+acquire_lines: 29
 ---
 ## Governance
 
@@ -249,7 +249,7 @@ Beyond the main island, [digital awareness work aimed at young people on Rodrigu
 
 [Budget 2026-2027 commits Mauritius to training 50,000 people in artificial intelligence within a year: 25,000 professionals, 12,000 Grade-9 pupils, 8,000 teachers and 5,000 civil servants](https://lexpress.mu/node/559426) (June 2026). The same budget [funds a National AI Learning Platform at Rs 25 million and scales MyT-GPT Education out of its pilot and into secondary schools](https://lexpress.mu/node/559426).
 
-That pilot is recent and small: Mauritius Telecom [launched mytGPT Education across ten schools in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning). What it is for has already changed. The operator [narrowed the deployment from a student-facing tutor to a teacher coach — homework auto-correction from a phone photograph, custom exam generation — after resistance from teachers and parents, and now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). The retreat is the more informative fact: the binding constraint on AI in Mauritian classrooms was not the technology or the connectivity but the people expected to work alongside it, which is the same constraint an 8,000-teacher training target now runs into.
+That pilot is recent and small: Mauritius Telecom [launched mytGPT Education across ten schools in January 2026](https://techreviewafrica.com/news/3721/mauritius-telecom-launches-mytgpt-educational-project-to-drive-ai-powered-learning). What it is for has already changed. The operator [narrowed the deployment from a student-facing tutor to a teacher coach — homework auto-correction from a phone photograph, custom exam generation — after resistance from teachers and parents, and now aims at a personal AI assistant for every secondary school teacher by 2027](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) (July 2026). The retreat is the more informative fact: the binding constraint on AI in Mauritian classrooms was not the technology or the connectivity but the people expected to work alongside it, which is the same constraint the budget's [8,000-teacher training target](https://lexpress.mu/node/559426) now runs into.
 
 Underneath the AI push sits steadier provision. Mauritius has [a digital skills strategy and a digital skills programme for the public service, covering basic digital skills and data literacy, with part of it delivered on a fee-paying basis](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Training has also followed particular systems rather than skills in general: [a UNESCO-supported programme for Ministry of Education staff](https://iite.unesco.org/news/openemis-capacity-building-in-mauritius/) put administrators at national, zonal and school level into direct entry on the national education management system (2022).
 
