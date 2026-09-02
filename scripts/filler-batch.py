@@ -161,14 +161,21 @@ def staged_counts(iso: str) -> tuple[int, int]:
                  for sub in ("baseline", "progress"))
 
 
-def dirty(path: Path) -> str:
+def dirty(path: Path, ignore: str = "") -> str:
     """Uncommitted work. The share is a repo two systems reach through different paths,
-    so an edit left uncommitted there is the one thing the next run must not walk into."""
+    so an edit left uncommitted there is the one thing the next run must not walk into.
+
+    `ignore` drops a path prefix from the answer. The driver's own ledger and session logs
+    land in `logs/filler-batch/` between runs, and a check that counted those would fault
+    every session after the first for a file the driver itself wrote — two of those in a
+    row and the batch would stop on its own bookkeeping."""
     if not (path / ".git").exists():
         return ""
     p = subprocess.run(["git", "status", "--porcelain"], cwd=str(path),
                        capture_output=True, text=True, errors="replace")
-    return "\n".join(p.stdout.splitlines()[:5])
+    lines = [ln for ln in p.stdout.splitlines()
+             if not (ignore and ln[3:].strip().strip('"').startswith(ignore))]
+    return "\n".join(lines[:5])
 
 
 def unpushed(path: Path) -> int:
@@ -250,8 +257,9 @@ def run_one(iso: str, a) -> dict:
     ahead = unpushed(EXCHANGE)
     if ahead:
         problems.append(f"share {ahead} commit(s) unpushed")
-    if dirty(CORPUS):
-        problems.append("Corpus tree left uncommitted")
+    own = dirty(CORPUS, ignore="logs/filler-batch/")
+    if own:
+        problems.append(f"Corpus tree left uncommitted: {own.splitlines()[0][:60]}")
 
     row = {
         "iso": iso,
@@ -421,6 +429,17 @@ def main() -> int:
     for r in done:
         if r["verdict"] != "ok":
             print(f"  PROBLEM {r['iso']}: {r['problems']}")
+    # The driver's own record is committed here rather than after every country: mid-batch
+    # the ledger is a file being appended to, and a commit between each pair would put
+    # twenty near-identical commits in the history for one night's work.
+    if done and dirty(CORPUS):
+        for cmd in (["git", "add", "--", BATCH.relative_to(CORPUS).as_posix()],
+                    ["git", "commit", "-m",
+                     f"Filler batch {date.today().isoformat()}: {len(done)} run(s), "
+                     f"{len(ok)} clean — {stopped}"],
+                    ["git", "push"]):
+            subprocess.run(cmd, cwd=str(CORPUS), capture_output=True, text=True)
+
     left = pending(read_queue())
     print(f"  queue: {len(left)} country(ies) still unsearched"
           f"{' — ' + ', '.join(left[:8]) if left else ''}")
