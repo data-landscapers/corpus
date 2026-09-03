@@ -147,7 +147,20 @@ def deaccent(text: str) -> str:
 
 
 def tokens(text: str, floor: int = 4) -> set[str]:
-    return {t for t in re.split(r"[^a-z0-9]+", deaccent(text)) if len(t) >= floor}
+    r"""Words of four characters or more, in whatever script the source writes.
+
+    **An ASCII-only split reads a non-Latin title as having no words at all**
+    (2026-09-03). `[^a-z0-9]+` cut every Arabic title to nothing, so `title_score`
+    returned -1.0, `weak` was true by arithmetic, the source signal could not
+    trace an Arabic publisher either, and the file was reported SUSPECT — while
+    its body's opening heading was the title, verbatim, which is the strongest
+    evidence a file is *not* crossed. Seven such findings came out of DZA and EGY
+    on one night, and MAR, TUN, LBY and MRT were queued behind them.
+
+    `\W` is Unicode-aware, so Arabic, Cyrillic, Greek and Amharic now tokenise
+    like Latin does. The `deaccent` fold in front of it is unchanged and still
+    strips Arabic harakat, which is the same service it does for Portuguese."""
+    return {t for t in re.split(r"[\W_]+", deaccent(text)) if len(t) >= floor}
 
 
 def squash(text: str) -> str:
