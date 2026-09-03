@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-03
 place: BWA
-ledger_rows: 184
+ledger_rows: 185
 not_held: 7
-record: 3670915da3dd
+record: 77c6332e1996
 ---
 
 # Botswana: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (184 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-03 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (185 systems and instruments, 7 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -269,6 +269,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | Lekgetho Live | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Named in the finance ministry’s 2026/27 estimates |
 | National Health Intelligence Centre | [In development](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/HEALTH-Committee%20of%20Supply%20Speech%20-%20FINAL%2004-03-2026%20Vol%20I.pdf) | Due before the end of 2025/26 on the ministry’s own account |
 | SMART Customs programme | [Planned](https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/Ministry%20of%20FInance%20Committee%20of%20Supply%20Speech%2026-02-2026%20-%20Final.pdf) | Scheduled for deployment in 2026/27 |
+| Ten-year health partnership with an Abu Dhabi health data operator | [Implemented](https://oncodaily.com/voices/ministry-of-health-botswana-572024) | Signed in Gaborone, 22 August 2026 |
 | Ten-year health systems partnership | [Implemented](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) | Ten-year strategic partnership signed with the health ministry, August 2026 |
 
 ### Other GovTech and e-Gov

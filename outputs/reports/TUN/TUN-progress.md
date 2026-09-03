@@ -1,12 +1,12 @@
 ---
 title: Tunisia — progress report, September 2025 – September 2026
-compiled: 2026-09-02
-period: 2025-09-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2025-09-01 to 2026-09-03
 place: TUN
-ledger_rows: 85
+ledger_rows: 86
 not_held: 9
 indicators: 121
-record: ac17ee9f37f3
+record: f7519f78e0ad
 ---
 
 # Tunisia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-02.*
+*The period is 2025-09-01 to 2026-09-03.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -24,7 +24,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Strategies, plans and policies | Digital transformation strategy | The [2020-2025 national digital strategy lapsed at term](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la), and what replaced it is a [chapter of the development plan](https://www.arp.tn/loi/project/4315) rather than a strategy — a change of instrument type, not a renewal. <details><summary>Full record</summary>All three volumes of the plan's digital annex are held ([annex](https://www.arp.tn/loi/project/4315)).<br><br>A ministerial council in February 2026 placed 192 projects under national follow-up and declared 2026 the launch year; what the base and outside commentary had called a national digital strategy is a plan chapter ([vision](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la), [lapse](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la)).<br><br>A further ministerial council was held under the head of government in August 2026, and the decisions taken are not itemised in the record held ([council](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix)).<br><br>Naming the instrument type correctly matters: a plan chapter is approved by finance law and carries no separate delivery machinery of its own.</details> | Advanced |
+| Strategies, plans and policies | Digital transformation strategy | The [2020-2025 national digital strategy lapsed at term](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la), and what replaced it is a [chapter of the development plan](https://www.arp.tn/loi/project/4315) rather than a strategy — a change of instrument type, not a renewal. <details><summary>Full record</summary>All three volumes of the plan's digital annex are held ([annex](https://www.arp.tn/loi/project/4315)).<br><br>A ministerial council in February 2026 placed 192 projects under national follow-up and declared 2026 the launch year; what the base and outside commentary had called a national digital strategy is a plan chapter ([vision](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la), [lapse](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la)).<br><br>A further ministerial council was held under the head of government in August 2026, and the decisions taken are not itemised in the record held ([council](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix)).<br><br>Naming the instrument type correctly matters: a plan chapter is approved by finance law and carries no separate delivery machinery of its own.<br><br>2026-08-28 — a head-of-government circular directed ministers, secretaries of state, heads of public enterprises and state controllers to adopt strategic action plans on the governance and performance of public establishments, invoking among its legal bases the 2020 decree-law on electronic data exchange between public bodies ([circular](https://www.pm.gov.tn/sites/default/files/2026-09/%D9%85%D9%86%D8%B4%D9%88%D8%B1%20%D8%B9%D8%AF%D8%AF04%20%D9%84%D8%B3%D9%86%D8%A9%202026_0_0.pdf)). A circular is a third instrument type in this space, below a plan chapter and below a strategy, and it is the one that actually names addressees and a duty.</details> | Advanced |
 | Strategies, plans and policies | ICT strategy |  | ***No evidence*** |
 | Strategies, plans and policies | Broadband strategy |  | ***No evidence*** |
 | Strategies, plans and policies | Data storage / cloud strategy |  | ***No evidence*** |

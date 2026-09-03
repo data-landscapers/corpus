@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: DJI
-ledger_rows: 10
+ledger_rows: 11
 not_held: 11
-record: 6535ed75ca31
+record: 47412f001f57
 ---
 
 # Djibouti: monthly update, August – September 2026
@@ -82,4 +82,12 @@ The urban rehabilitation agency runs [a complaint-management portal that routes 
 
 <!-- narrative: data--data-open -->
 The account of the archive programme published on 3 August also [establishes that 126 years of the Journal officiel are digitised and published online](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/). The account gives no date for when publication began.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+[A new impetus in digital and media cooperation between Djibouti and the United States was reported on 1 September 2026](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/), with no instrument, sum or timetable published. What changed is that a bilateral digital relationship is on the record at all: the standing engagement until now was a hyperscaler's cable route that names Djibouti among its landings and has had no activation status published since 2021.
 <!-- /narrative -->

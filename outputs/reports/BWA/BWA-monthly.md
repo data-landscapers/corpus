@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: BWA
-ledger_rows: 26
+ledger_rows: 27
 not_held: 7
-record: 37180d4378fb
+record: fea5dcc60c37
 ---
 
 # Botswana: monthly update, August – September 2026

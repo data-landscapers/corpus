@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-03
 place: DJI
-ledger_rows: 128
+ledger_rows: 129
 not_held: 11
-record: c93d726ceb57
+record: 43d58af5e665
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (128 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-03 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (129 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -389,6 +389,7 @@ No earth-observation or geospatial programme is held for Djibouti. One artificia
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Digital and media cooperation with the United States | [Implemented](https://www.lanation.dj/djibouti-etats-unis-un-nouvel-elan-pour-la-cooperation-numerique-et-mediatique/) | Reported 1 September 2026 |
 | United States hyperscaler engagement | [Implemented](https://cloud.google.com/blog/products/infrastructure/announcing-the-blue-and-raman-subsea-cable-systems) | Cable announced with Djibouti on its route |
 
 ### China activities

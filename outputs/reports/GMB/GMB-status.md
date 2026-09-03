@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-09-02
+compiled: 2026-09-03
 place: GMB
-ledger_rows: 70
+ledger_rows: 71
 not_held: 13
-record: 920dd3ea3ff2
+record: 16489ce97a35
 ---
 
 # Gambia: status report
 
-*Compiled 2026-09-02 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (70 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-09-03 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (71 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -197,6 +197,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 | GRA digital tax invoicing | [Implemented](https://standard.gm/govt-launches-digital-tax-invoicing-system) | Launched with Avatar Technologies, 9 July 2025 |
 | Integrated Financial Management Information System | [Implemented](https://projects.worldbank.org/en/projects-operations/project-detail/P159000) | World Bank additional financing closed after rollout to further ministries |
 | Integrated Tax Administration System | [Planned](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) | Named as planned for electronic filing in the finance minister's reform account, 30 July 2026 |
+| MyGov digital services platform | [In development](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays) | Not launched; rollout targeted before the end of 2026 |
 | National Digital Addressing rollout | [In development](https://techafricanews.com/2025/10/13/the-gambia-takes-major-step-toward-a-fully-digital-nation-with-launch-of-ndasc/) | Steering committee launched, 13 October 2025 |
 
 <!-- narrative: dpi -->

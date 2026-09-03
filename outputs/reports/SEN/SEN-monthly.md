@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: SEN
-ledger_rows: 32
+ledger_rows: 33
 not_held: 14
-record: fad5f1e1f657
+record: 40378a91041f
 ---
 
 # Senegal: monthly update, August – September 2026
@@ -31,6 +31,11 @@ The body meant to steer digital governance has not started. The digital governan
 
 <!-- narrative: governance--gov-legislate -->
 The critical-infrastructure framework that was undated at the end of July reached parliament a fortnight later. A bill on protecting critical information infrastructure and digital security [was presented to the National Assembly's intercommission on 13 August and examined by its committees](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), proposing [a national cybersecurity authority, national and sectoral computer emergency response teams, and obligations on critical operators graded by risk](https://itweb.africa/article/senegal-moves-to-safeguard-digital-infrastructure/KzQenMjyxD47Zd2r), alongside [local hosting of public data, service continuity and personal-data protection](https://www.pressafrik.com/Securite-numerique-Bacary-Sarr-participe-a-l-examen-du-projet-de-loi-sur-les-infrastructures-critiques_a309846.html) under the state's technology-deal agenda. Four days later the ministry published its own account of the contents: obligations [graded by risk, with ordinary networks on standard requirements and critical infrastructure on enhanced ones — monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing — and a National Cybersecurity Authority, a national response team, sectoral teams and cybersecurity operations services](https://news.broadcastmediaafrica.com/2026/08/17/senegal-advances-new-cybersecurity-bill-to-protect-critical-infrastructure-and-strengthen-digital-sovereignty/), with an industrial objective attached: the ministry expects the compliance requirement itself to create accredited service providers, domestic firms and skilled jobs. It cleared on 20 August: the National Assembly [adopted law n° 25/2026 unanimously, mandating in-country storage of state-sensitive data, empowering the National Cybersecurity Authority and folding in technology-neutral standards for the AI era and the child-online-protection plan](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html), seven days after it reached the intercommission. In the same debate the Assembly's first vice-president [argued cybersecurity has to become a standing administrative culture, calling for mandatory staff training, professional-only communication channels and minimum device-security standards](https://lesoleil.sn/actualites/technologie/el-malick-ndiaye-nous-devons-faire-de-la-cybersecurite-une-veritable-culture-administrative/) - a description of where the state's own practice stands rather than of what the law requires. Every provision is still the ministry's description; the text is not held, no promulgation date or gazette reference is published, and nothing the law creates exists yet.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The data protection commission published its quarterly opinion for April to June 2026: [195 files handled, 154 declarations and 41 authorisation requests, producing 153 declaration receipts and 39 authorisations](https://www.seneweb.com/fr/news/Societe/donnees-personnelles-plus-de-190-dossiers-traites-par-la-cdp-entre-avril-et-juin_n_503047.html), with one processing operation rejected, two data controllers heard, eight complaints received and one report. It is the first published measure of the commission's own throughput this ledger holds. It counts registrations rather than enforcement, and the commission still operates under a law unamended since 2008.
 <!-- /narrative -->
 ### Regional collaboration
 

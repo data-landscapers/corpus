@@ -1,12 +1,12 @@
 ---
 title: Egypt — progress report, September 2025 – September 2026
-compiled: 2026-09-02
-period: 2025-09-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2025-09-01 to 2026-09-03
 place: EGY
-ledger_rows: 211
+ledger_rows: 214
 not_held: 54
 indicators: 121
-record: b8c980fe8f15
+record: 696d2bfd323d
 ---
 
 # Egypt: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-02.*
+*The period is 2025-09-01 to 2026-09-03.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -92,7 +92,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Topic | Indicator | Developments | Progress |
 |---|---|---|---|
 | Data Exchange | National data exchange system | The government digital switch [connects 105 bodies and links 100 national databases](https://gate.ahram.org.eg/News/5813424.aspx), and a digital treasury of reusable documents began. <details><summary>Full record</summary>The base carries no connection count, architecture statement or lawful basis for the exchange at the window's opening. The switch now has [105 government bodies connected and 100 national databases linked for secure inter-agency exchange, named alongside unified digital identity, the services platform, the digital treasury, digital trust services and the digital post box as the enablers of the transformation](https://gate.ahram.org.eg/News/5813424.aspx). It is ministry-reported through a cabinet readout: no published register of connected bodies, no lawful basis, no audit arrangement and no role for a data-protection regulator is held.<br><br>The [digital treasury's operating model is set and applied to a number of services, its first output the registration certificate as a verified reusable document consumed by the shop-licensing service, implementing the once-only principle](https://almalnews.com/2126687/); no list of documents, count of reuses or governing instrument is held.<br><br>2026-08-20 - a [protocol will integrate the commercial registry and stock exchange databases, giving the exchange direct access to registry data for listed companies, with a joint executive committee overseeing implementation and data confidentiality](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement).</details> | Advanced |
-| Data Exchange | Use of digital id in other systems |  | ***No evidence*** |
+| Data Exchange | Use of digital id in other systems | Two services launched in the same week gate access on the [national digital identity](https://www.youm7.com/story/2026/9/1/النيابة-العامة-تتيح-خدمة-الاستعلام-الإلكترونى-عن-دعاوى-الأسرة-والأحكام/7533251) — family-case enquiry and [foster-family services](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204). <details><summary>Full record</summary>The public prosecution opened an electronic enquiry service for family-case data and judgments on 1 September 2026, with entry restricted to users verified through the national digital identity so the data reaches only the party concerned ([service](https://www.youm7.com/story/2026/9/1/النيابة-العامة-تتيح-خدمة-الاستعلام-الإلكترونى-عن-دعاوى-الأسرة-والأحكام/7533251)).<br><br>The social solidarity ministry launched the first phase of a digital services system for foster families and care institutions two days earlier, wired to other state bodies through the government digital exchange and to the national digital identity for sign-in ([launch](https://www.youm7.com/story/2026/8/29/التضامن-تطلق-أولى-مراحل-منظومة-الخدمات-الرقمية-الخاصة-بالأسر-البديلة/7529204)).<br><br>Both are single services rather than a general integration, and neither publishes a transaction figure. What they establish is that the identity is now a precondition of reaching one's own record in two ministries.</details> | Advanced |
 | Data Exchange | Interoperability of health systems |  | ***No evidence*** |
 | Data Exchange | Interoperability of education systems |  | ***No evidence*** |
 | Data Exchange | Interoperability of social protection systems |  | ***No evidence*** |

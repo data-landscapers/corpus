@@ -1,12 +1,12 @@
 ---
 title: Gambia — progress report, September 2025 – September 2026
-compiled: 2026-09-02
-period: 2025-09-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2025-09-01 to 2026-09-03
 place: GMB
-ledger_rows: 79
+ledger_rows: 80
 not_held: 13
 indicators: 121
-record: aa2499eb6684
+record: 5183d011cf7c
 ---
 
 # Gambia: progress report, September 2025 – September 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-09-01 to 2026-09-02.*
+*The period is 2025-09-01 to 2026-09-03.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -126,7 +126,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Sectoral management information systems | Tax | A [digital excise stamp](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/) is in operation and studied by five foreign revenue administrations, on a claimed 95 per cent reduction in smuggling. <details><summary>Full record</summary>The claim carries no method and no independent verification, and every performance figure attached to the system is the collecting authority's own; the authority's earlier figures put excise collections at D48.47m for January to August 2024 against D6.31m in the same months of 2023 ([study visits](https://standard.gm/south-africa-rwanda-customs-to-study-gambias-digital-tax-stamp-success/)).<br><br>A digital tax invoicing system with tamper-proof signatures has been in service since July 2025 and is named in the ministry's reform account, still with no separate coverage or yield figure ([invoicing](https://standard.gm/govt-launches-digital-tax-invoicing-system), [reform account](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister)).<br><br>An integrated tax administration system for electronic filing is named as planned, with no procurement, vendor, timetable or budget line published.</details> | Advanced |
 | Sectoral management information systems | Customs |  | ***No evidence*** |
 | Sectoral management information systems | Land |  | ***No evidence*** |
-| Other GovTech and e-Gov | e-government services | The [financial management system](https://projects.worldbank.org/en/projects-operations/project-detail/P159000) has no statement of coverage or condition since 2020, and a staff verification round was [suspended in August 2026](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/). <details><summary>Full record</summary>The system is in service across ministries with revenue and treasury interfaces; the last date attached to it is a financing operation's closing year rather than a statement about the system ([financing](https://projects.worldbank.org/en/projects-operations/project-detail/P159000)).<br><br>The provincial round of a civil servant and pensioner verification exercise, scheduled for 17 to 23 August 2026, was suspended until further notice over unspecified technical difficulties, with the Greater Banjul round confirmed to start on 20 August; the difficulties are not described and no rescheduled date is given ([suspension](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/)).</details> | Mixed, the financial management system has run unreported for years while a verification exercise was suspended mid-round |
+| Other GovTech and e-Gov | e-government services | The [financial management system](https://projects.worldbank.org/en/projects-operations/project-detail/P159000) has no statement of coverage or condition since 2020, and a staff verification round was [suspended in August 2026](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/). <details><summary>Full record</summary>The system is in service across ministries with revenue and treasury interfaces; the last date attached to it is a financing operation's closing year rather than a statement about the system ([financing](https://projects.worldbank.org/en/projects-operations/project-detail/P159000)).<br><br>The provincial round of a civil servant and pensioner verification exercise, scheduled for 17 to 23 August 2026, was suspended until further notice over unspecified technical difficulties, with the Greater Banjul round confirmed to start on 20 August; the difficulties are not described and no rescheduled date is given ([suspension](https://gambiaj.com/economy/policy/gambia-halts-up-country-civil-servant-verification-exercise-over-technical-challenges/)).<br><br>2026-08-28 — the public service ministry told a ministerial interface that national identity card, passport and immigration procedures had been simplified and built into a digital services platform, which has not launched because of unresolved contractual issues over passport issuance, with rollout targeted before the end of 2026 starting with the machine-readable passport ([statement](https://thepoint.gm/africa/gambia/headlines/govt-steps-up-to-tackle-id-card-passport-delays)). A platform complete and blocked on a contract is the same failure mode as the verification round suspended on unstated technical difficulties.</details> | Mixed, the financial management system has run unreported for years while a verification exercise was suspended mid-round |
 
 
 ## Digitalisation

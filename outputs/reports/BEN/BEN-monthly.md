@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: BEN
-ledger_rows: 16
+ledger_rows: 17
 not_held: 5
-record: 42924d72bdaa
+record: fab41307d1a0
 ---
 
 # Benin: monthly update, August – September 2026
@@ -22,6 +22,11 @@ Two working systems tightened. A university [made its academic-records platform 
 
 ## Governance
 
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Body-worn cameras have become standard kit for traffic police in the largest city, on the [500 devices and the dedicated information system the Council of Ministers authorised on 1 March 2023](https://sgg.gouv.bj/cm/2023-03-01/) for the police and customs, piloted from 2024 in three cities. What the record does not carry is the part that governs the footage: [who may view it, how long it is kept and whether a citizen can obtain their own sequence remain unstated](https://www.lanation.bj/actualites/cameras-pietons-a-cotonou-pourquoi-sont-elles-de-plus-en-plus-visibles-sur-les-policiers). A collection authorised by decree and a retention rule published nowhere is the shape this ledger already holds for the data-protection layer generally.
+<!-- /narrative -->
 ### Regional collaboration
 
 <!-- narrative: governance--gov-regional -->

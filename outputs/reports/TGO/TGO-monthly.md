@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, August – September 2026
-compiled: 2026-09-02
-period: 2026-08-01 to 2026-09-02
+compiled: 2026-09-03
+period: 2026-08-01 to 2026-09-03
 place: TGO
-ledger_rows: 22
+ledger_rows: 23
 not_held: 39
-record: 71589241803d
+record: 982868972323
 ---
 
 # Togo: monthly update, August – September 2026
@@ -36,6 +36,11 @@ The month's legislating was about commercial justice and civil status rather tha
 
 <!-- narrative: governance--gov-regional -->
 The corridor the country sits on is the subject of the month's regional work. A [regional dialogue at the Togo-Ghana joint border post on 13 August sought to accelerate free movement along the Abidjan-Lagos corridor, reaffirming rollout of the regional biometric identity card and the interconnected transit system to cut border delays](https://www.togofirst.com/fr/transport/1408-19821-togo-ghana-la-cedeao-veut-accelerer-la-libre-circulation-au-poste-frontalier-de-noepe-akanu). No deployment figure, timetable or data-protection arrangement for the shared border and transit data is stated, and the reaffirmation is of commitments the base has held for some time rather than of anything newly delivered.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Togo launched the National Accounting Council, [the body a regional directive of 28 November 1997 requires each member state to establish](https://www.togofirst.com/en/economic-governance/3108-19908-togo-activates-national-accounting-council-to-improve-financial-reporting), tasked with making accounting information reliable, relevant, comparable and consistent with international standards. [The directive itself](https://www.dge.gouv.ci/sites/default/files/tableau/TEXTES%20COMMUNAUTAIRES%20CLASSSIFIES/UEMOA/DIRECTIVE/Directive%20n%C2%B003-97-CM-UEMOA%20portant%20cr%C3%A9ation%20d%27un%20Conseil%20National%20de%20la%20Comptabilit%C3%A9%20ds%20l%27Uemoa..pdf) is now held. Twenty-nine years between the obligation and the institution is the finding, and it is the one instrument this section gained in the period whose text a reader can actually reach.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
